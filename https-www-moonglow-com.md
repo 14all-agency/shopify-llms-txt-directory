@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2017-10-24T19:06:01Z
 - Contact Email: support@moonglow.com
-- Updated At: 2025-10-08T20:00:36.127Z
+- Updated At: 2025-10-09T04:00:35.619Z
 
 ## Products
 
 - [Silver Link Bracelet](https://www.moonglow.com/products/silver-link-bracelet): Classic, timeless, and uniquely personal, the Silver Link Bracelet is the perfect everyday bracelet. Wear it alone or pair it with other Moonglow bracelets.
-  Updated: 2025-10-08T17:56:26Z
+  Updated: 2025-10-09T02:40:27Z
   Vendor: Moonglow Jewelry
   Product Type: Bracelets
   Availability: Available
@@ -77,14 +77,14 @@
     Availability: Available
     Price: $48.00 USD
 - [Twin Moon Soulmate Charm Bracelet](https://www.moonglow.com/products/twin-moon-soulmate-charm-custom-bracelet): The Twin Moon Soulmate Charm Bracelet features silver-plated links and 2 personalized charms, custom-made using the moon phases from your chosen dates.
-  Updated: 2025-10-08T17:56:45Z
+  Updated: 2025-10-09T02:41:56Z
   Vendor: Moonglow Jewelry
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2486/3224/files/cloudinary__dtoj7paiy__image__upload__Moonglow-_p-2Fproducts-_p-2FTwin_Moon_Soulmate_Charm_Bracelet-_p-2FEcomTwinMoonBraceletNEW__cld.jpg?v=1758568127
   Price: $69.00 USD
 - [Charmed Simplicity Unisex Necklace](https://www.moonglow.com/products/charmed-simplicity-necklace): Make the perfect gift with one of these beautiful charmed necklaces, designed to wow. Featuring the moon from the date of your choice, the simplicity necklace is a unisex necklace easy to wear and style. Silver-plated charm, 16"-19" adjustable stainless steel chain (40-48 cm)
-  Updated: 2025-10-08T19:56:01Z
+  Updated: 2025-10-09T03:25:23Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
@@ -150,7 +150,7 @@
     Availability: Available
     Price: $49.00 USD
 - [Classic Necklace With Black Crystal](https://www.moonglow.com/products/classic-necklace-with-black-crystal): Edgy yet elegant, our Classic Necklace combines an awe-inspiring moon phase charm with the luxe sparkle of black crystal. Crafted with a vintage feel in hand-finished pewter, each pendant is uniquely original to the wearer.
-  Updated: 2025-10-08T19:36:17Z
+  Updated: 2025-10-09T03:12:09Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
@@ -216,7 +216,7 @@
     Availability: Available
     Price: $38.00 USD
 - [Silver Charm | Moonglow](https://www.moonglow.com/products/silver-charm): This elegant, yet simple Silver Charm featuring your personalized moon phase makes for the perfect crossover piece. It is ideal for daily wear as well as for special occasions.
-  Updated: 2025-10-08T16:09:26Z
+  Updated: 2025-10-09T00:53:50Z
   Vendor: Moonglow Jewelry
   Product Type: Charms & Pendants
   Availability: Available
@@ -282,7 +282,7 @@
     Availability: Available
     Price: $38.00 USD
 - [Lovers In The Locket Necklace](https://www.moonglow.com/products/lovers-locket-necklace): The Lovers in The Locket Necklace is a perfect symbol of your love. A unique and thoughtful gift, it is perfect for couples who share a deep connection.
-  Updated: 2025-10-08T19:57:49Z
+  Updated: 2025-10-09T03:17:18Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
@@ -362,21 +362,21 @@
     Availability: Available
     Price: $60.00 USD
 - [Family Locket Necklace](https://www.moonglow.com/products/family-locket-necklace): Moonglow’s Family Locket Necklace cradles a trio of moon phase charms that capture your story. Makes a unique and meaningful family heirloom.
-  Updated: 2025-10-08T19:57:57Z
+  Updated: 2025-10-09T03:26:01Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2486/3224/files/Oct2025_Ecom_Family_Locket_SS.jpg?v=1759439313
   Price: $105.00 USD
 - [Mini Ituri Necklace in Stainless Steel](https://www.moonglow.com/products/mini-ituri-necklace-stainless-steel): The Ituri Necklace is a silver double moon pendant. It is a classic and elegant reminder of some of your most cherished people and moments! Select two special dates and display your cherished moon phases near your heart.
-  Updated: 2025-10-08T19:57:47Z
+  Updated: 2025-10-09T03:26:01Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2486/3224/files/cloudinary__dtoj7paiy__image__upload__Moonglow-_p-2Fproducts-_p-2FMini_Ituri_Necklace_in_Stainless_Steel-_p-2Fiturinecklaceinsilver__cld.jpg?v=1758215312
   Price: $85.00 USD
 - [Pallene Bracelet In stainless steel](https://www.moonglow.com/products/pallene-bracelet-in-silver): Classic and elegant, the Pallene Bracelet circles the wrist, embracing your own personal moon phase or that of someone special. It is perfect for the business professional who wants a little sass in their work attire, or the fashionista who needs something spectacular but not too over-the-top.
-  Updated: 2025-10-08T19:56:07Z
+  Updated: 2025-10-09T03:25:22Z
   Vendor: Moonglow Jewelry
   Product Type: Bracelets
   Availability: Available
@@ -442,21 +442,21 @@
     Availability: Available
     Price: $45.00 USD
 - [Elegant Sterling Silver Link Chain | Moonglow](https://www.moonglow.com/products/elegant-sterling-silver-moon-necklace-link-chain): Pair this sterling silver moon necklace with your favorite mini moon phase charm for a fully customizable statement piece! The elegant styling of this necklace makes it perfect for minimalist, modern looks, and the rhodium-coated chain offers top quality.
-  Updated: 2025-10-08T19:54:07Z
+  Updated: 2025-10-09T03:24:17Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2486/3224/files/cloudinary__dtoj7paiy__image__upload__Moonglow-_p-2Fproducts-_p-2FElegant_Stainless_Steel_Link_Chain-_p-2Fnew-ecom6S0A2695__cld.jpg?v=1758200915
   Price: $18.00 USD
 - [Classic Black Link Chain | Moonglow](https://www.moonglow.com/products/classic-black-link-chain): Pair this classic Black Stainless Steel link chain with your favorite mini moon charm to keep your most important dates close to your heart. The simple styling of this chain makes it perfect for pairing with the most elaborate or simple designs.
-  Updated: 2025-10-08T15:24:16Z
+  Updated: 2025-10-09T03:10:27Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2486/3224/files/new-ecom6S0A2692.jpg?v=1758135362
   Price: $20.00 USD
 - [Classic Choker Necklace](https://www.moonglow.com/products/classic-choker-necklace): Edgy yet elegant, our Moonglow Classic Choker Necklace combines an awe-inspiring moon phase charm with the sparkle of black crystal.
-  Updated: 2025-10-08T15:25:43Z
+  Updated: 2025-10-09T03:12:09Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
@@ -522,7 +522,7 @@
     Availability: Not Available
     Price: $42.00 USD
 - [Simplicity Choker Necklace](https://www.moonglow.com/products/simplicity-choker-necklace): Give in to your dreams with the Simplicity Choker Necklace. Perfect for everyday wear, this moon choker is a unique reminder of what and who is important to you.
-  Updated: 2025-10-08T16:41:08Z
+  Updated: 2025-10-09T03:16:30Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
@@ -588,7 +588,7 @@
     Availability: Available
     Price: $45.00 USD
 - [Sky Light Necklace In Silver](https://www.moonglow.com/products/sky-light-necklace-silver): Wear your moon anywhere you go with our Sky Light Necklace in silver. Designed for special occasions - a birthday, anniversary, or any moment you treasure.
-  Updated: 2025-10-08T19:54:11Z
+  Updated: 2025-10-09T03:16:25Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
@@ -654,14 +654,14 @@
     Availability: Available
     Price: $49.00 USD
 - [Large Family Locket](https://www.moonglow.com/products/large-family-locket): Keep dear ones close to your heart with our Large Family Locket featuring four mini-moons. Crafted in stainless steel and paired with a 28-inch beaded chain.
-  Updated: 2025-10-08T19:57:54Z
+  Updated: 2025-10-09T03:17:26Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2486/3224/files/cloudinary__dtoj7paiy__image__upload__Moonglow-_p-2Fproducts-_p-2FLarge_Family_Locket-_p-2FFamilylocket-metalback__cld.jpg?v=1758200934
   Price: $135.00 USD
 - [Sky Light Rose Gold Necklace](https://www.moonglow.com/products/sky-light-rose-gold-necklace): The Sky Light Rose Gold Necklace is part of our Mini Moon Collection. A simple yet beautiful piece that is perfect for layering or wearing solo.
-  Updated: 2025-10-08T18:55:52Z
+  Updated: 2025-10-08T23:55:17Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
@@ -727,7 +727,7 @@
     Availability: Available
     Price: $95.00 USD
 - [Sky Light Gold Necklace](https://www.moonglow.com/products/sky-light-gold-necklace): Moonglow’s Sky Light Necklace in Gold captures both the imagination and heart of its wearer. One of our best sellers featuring the moon from the date of your choice!
-  Updated: 2025-10-08T14:09:35Z
+  Updated: 2025-10-08T21:12:30Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
@@ -793,28 +793,28 @@
     Availability: Available
     Price: $95.00 USD
 - [Family Locket in Gold | Moonglow](https://www.moonglow.com/products/family-locket-gold): Fill your locket with the moments you treasure with those you love -- the birthdays of your three-member family, your three children, or a trilogy of events that are most meaningful to you. Each charm is aligned with the moon phase on your sacred date and illuminates by night to light your journey forward.
-  Updated: 2025-10-08T19:57:46Z
+  Updated: 2025-10-09T03:17:16Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2486/3224/files/Oct2025_Ecom_Family_Locket_YG.jpg?v=1759439312
   Price: $135.00 USD
 - [Lovers In The Locket Necklace In Gold](https://www.moonglow.com/products/lovers-locket-gold): The Lovers in the Locket Necklace in Gold features a pair of engravable, mini-moon phase charms from the dates of your choice. Style it alone, or mix and match it with other necklaces.
-  Updated: 2025-10-08T19:57:50Z
+  Updated: 2025-10-09T03:17:20Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2486/3224/files/Oct2025_Ecom_Lovers_in_the_Locket_YG.jpg?v=1759439313
   Price: $115.00 USD
 - [Mini Ituri in Gold | Moonglow](https://www.moonglow.com/products/mini-ituri-gold-couples-necklace): Commemorate a valuable human connection with the Mini Ituri in gold, a couples' necklace with interlocked twin moons. Make this necklace extra-personal with the addition of custom moon pendants for the lunar signs of your choice. Don't wait to get yours!
-  Updated: 2025-10-08T19:57:56Z
+  Updated: 2025-10-09T03:25:55Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2486/3224/files/cloudinary__dtoj7paiy__image__upload__Moonglow-_p-2Fproducts-_p-2FMini_Ituri_in_Gold-_p-2Fminiituriingold__cld.jpg?v=1758215307
   Price: $140.00 USD
 - [Mini Usambara in Gold | Moonglow](https://www.moonglow.com/products/mini-usambara-gold): Instant glamour. Feel the energetic effects of a trilogy of moons that tell your personal story with the uniquely beautiful Usambara necklace wrapped in the luxury of gold.
-  Updated: 2025-10-08T19:57:58Z
+  Updated: 2025-10-09T03:17:18Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
@@ -919,7 +919,7 @@
     Availability: Available
     Price: $500.00 USD
 - [Pallene Bracelet in Gold | Moonglow](https://www.moonglow.com/products/pallene-bracelet-in-gold): Beautifully crafted in luminous gold plate, the adjustable chain link bracelet circles the wrist reminding you of the moment you were forever connected to the moon. It’s playful, yet personal and always memorable.
-  Updated: 2025-10-08T19:56:05Z
+  Updated: 2025-10-09T00:55:52Z
   Vendor: Moonglow Jewelry
   Product Type: Bracelets
   Availability: Available
@@ -985,14 +985,14 @@
     Availability: Available
     Price: $95.00 USD
 - [Mini Usambara in Rose Gold | Moonglow](https://www.moonglow.com/products/mini-usambara-in-rose-gold): Every woman needs a dramatic necklace to reinforce her signature style. Here, a trilogy of moons wrapped in the luxury of rose gold, express your uniquely beautiful style while sharing what’s held in your heart. Choose three personal moments that matter to you or someone you love and we’ll do the rest. Your pendant will arrive in our signature gift box complete with a card describing the moon phases you’ve selected. Whether for special occasions or every day wear, this golden talisman is certain to inspire awe and conversation. Rose gold plated triple pendant Rose gold plated chain 10mm moon images
-  Updated: 2025-10-08T19:57:45Z
+  Updated: 2025-10-09T03:17:17Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2486/3224/files/cloudinary__dtoj7paiy__image__upload__Moonglow-_p-2Fproducts-_p-2FMini_Usambara_in_Rose_Gold-_p-2FNEWECOMUsambarainRoseGold_4ea47e5e-afec-49e2-9434-8bf6b50e1247__cld.jpg?v=1758215325
   Price: $111.00 USD
 - [Pallene Bracelet in Rose Gold | Moonglow](https://www.moonglow.com/products/pallene-bracelet-in-rose-gold): This playful yet deeply personal bracelet in dramatic rose gold circles the wrist for a look that’s classic, timeless and modernly feminine. Wear it alone or in multiples to celebrate the moments near and dear to your heart. Remember every moon glows in dark environments just like the moon in the sky that night.
-  Updated: 2025-10-08T19:54:14Z
+  Updated: 2025-10-09T03:16:45Z
   Vendor: Moonglow Jewelry
   Product Type: Bracelets
   Availability: Available
@@ -1058,21 +1058,21 @@
     Availability: Available
     Price: $95.00 USD
 - [Double Moon Pallene Bracelet | Moonglow](https://www.moonglow.com/products/double-moon-pallene-bracelet): Together always, two moons that remind you of what really matters. Beautifully crafted in luminous stainless steel, the adjustable chain link bracelet holds two eye-catching silver mini lunar charms that glow in darkness like the moon itself.
-  Updated: 2025-10-08T19:57:53Z
+  Updated: 2025-10-09T03:26:11Z
   Vendor: Moonglow Jewelry
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2486/3224/files/cloudinary__dtoj7paiy__image__upload__Moonglow-_p-2Fproducts-_p-2FDouble_Moon_Pallene_Bracelet-_p-2F147__cld.jpg?v=1758200909
   Price: $79.00 USD
 - [Double Moon Pallene Bracelet in Gold | Moonglow](https://www.moonglow.com/products/double-moon-pallene-bracelet-in-gold): Beautifully crafted in elegant gold plate, the adjustable chain link bracelet holds two eye-catching mini lunar charms that glow in darkness like the moon itself. And like a magnet for all good things, it inspires wonder and conversation every time you wear it.
-  Updated: 2025-10-08T19:57:45Z
+  Updated: 2025-10-09T03:26:01Z
   Vendor: Moonglow Jewelry
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2486/3224/files/cloudinary__dtoj7paiy__image__upload__Moonglow-_p-2Fproducts-_p-2FDouble_Moon_Pallene_Bracelet_in_Gold-_p-2FEcom_DoubleMoonpalleneGold_NEW__cld.jpg?v=1758200913
   Price: $140.00 USD
 - [Double Moon Pallene Bracelet in Rose Gold | Moonglow](https://www.moonglow.com/products/double-moon-pallene-bracelet-in-rose-gold): Beautifully crafted in dramatic rose gold plate, the adjustable chain link bracelet holds two eye-catching mini lunar charms that glow in darkness like the moon itself. And like a magnet for all good things, it inspires wonder and conversation every time you wear it.
-  Updated: 2025-10-08T19:57:54Z
+  Updated: 2025-10-09T03:25:56Z
   Vendor: Moonglow Jewelry
   Product Type: Bracelets
   Availability: Available
@@ -1145,7 +1145,7 @@
     Availability: Available
     Price: $49.00 USD
 - [Mini Satellite Bracelet in Gold](https://www.moonglow.com/products/mini-satellite-bracelet-in-gold): Here, the new slim profile of our latest mini moon bracelet is perfect for layering, giving you plenty of creative options to speak your style. This artfully-crafted bracelet designed in luminous gold circles the wrist, holding an awe-inspiring lunar charm featuring the moon from any special date of your choice.
-  Updated: 2025-10-08T17:56:13Z
+  Updated: 2025-10-08T23:55:27Z
   Vendor: Moonglow Jewelry
   Product Type: Bracelets
   Availability: Available
@@ -1211,7 +1211,7 @@
     Availability: Available
     Price: $71.20 USD
 - [One Moon Locket in Gold](https://www.moonglow.com/products/one-moon-locket-in-gold): One memory to remember. One love to hold close to your heart. Our enchanting One Moon Locket captures a memory or moment in time uniquely personal to you or someone you love. In gold plate, the spellbinding mini moon lunar charm suspended on a classic beaded chain inspires wonder.
-  Updated: 2025-10-08T19:54:10Z
+  Updated: 2025-10-09T03:16:40Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
@@ -1343,7 +1343,7 @@
     Availability: Available
     Price: $65.00 USD
 - [Mini Usambara Necklace In Stainless Steel](https://www.moonglow.com/products/mini-usambara-necklace): Bring your fondest memories to light with our newest addition to the Mini Moon Collection. With its modern design and sophisticated style the mini Usambara features a trio of 10mm lunar charms cradled in luminous silver plate and held close to the heart on its own silver chain. Wear it to remember those indelible moments shared with family and friends or life’s milestones that bring you comfort and happiness. So uniquely yours, the Usambara is sure to invite conversation and inspire awe when it lights in darkness like the moon itself. Whether you choose to make it yours or give it to someone special, the necklace will arrive in its own signature gift box with a card describing the moon phases you’ve selected. 3 mini moon pendants silver plated 16-19" stainless steel chain
-  Updated: 2025-10-08T19:58:53Z
+  Updated: 2025-10-09T03:25:56Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
@@ -1489,7 +1489,7 @@
     Availability: Available
     Price: $38.40 USD
 - [Stainless Steel Lunar Cuff Bracelet](https://www.moonglow.com/products/lunar-dyad-cuff-in-stainless-steel): A stylish and unique cuff bracelet made of stainless steel, that displays two mini moons from the date of your choice for a touch of individuality. Created for your unforgettable moments.
-  Updated: 2025-10-08T19:57:44Z
+  Updated: 2025-10-09T03:25:50Z
   Vendor: Moonglow Jewelry
   Product Type: Bracelets
   Availability: Available
@@ -1628,7 +1628,7 @@
     Availability: Available
     Price: $79.00 USD
 - [Cosmic Spiral Ring In Rhodium](https://www.moonglow.com/products/cosmic-spiral-ring-in-rhodium): The Cosmic Spiral Ring in Rhodium is the right piece for those looking for a path to their future. A classic, beautiful and unique adjustable ring. Featuring a picture of the moon from the date of your choice.
-  Updated: 2025-10-08T19:54:10Z
+  Updated: 2025-10-09T03:16:45Z
   Vendor: Moonglow Jewelry
   Product Type: Rings
   Availability: Available
@@ -1694,7 +1694,7 @@
     Availability: Available
     Price: $63.20 USD
 - [Cosmic Spiral Ring in Gold](https://www.moonglow.com/products/cosmic-spiral-ring-in-gold): A classic, beautiful and unique adjustable ring to brilliantly display your special date. Let your moment shine with Moonglow and this brilliant, adjustable ring! Featuring the moon from the date of your choice.
-  Updated: 2025-10-08T19:54:04Z
+  Updated: 2025-10-09T03:16:45Z
   Vendor: Moonglow Jewelry
   Product Type: Rings
   Availability: Available
@@ -1760,7 +1760,7 @@
     Availability: Available
     Price: $79.00 USD
 - [Cosmic Spiral Ring In Rose Gold](https://www.moonglow.com/products/cosmic-spiral-ring-in-rose-gold): Engrave your Cosmic Spiral Ring In Rose Gold with your special date and keep your story alive forever. Features the moon from the date of your choice accented with a mini crystal and adjustable band.
-  Updated: 2025-10-08T19:56:10Z
+  Updated: 2025-10-09T03:25:26Z
   Vendor: Moonglow Jewelry
   Product Type: Rings
   Availability: Available
@@ -1892,14 +1892,14 @@
     Availability: Available
     Price: $49.00 USD
 - [Pink Moon Lunar Dyad Cuff in Stainless Steel](https://www.moonglow.com/products/pink-moon-lunar-dyad-cuff-in-stainless-steel): 🎗️ 5% of purchase price benefits the Pink Fund Does your special date land on a New Moon? We’ve crafted the Pink New Moon as a luminous shade of deep purple to represent the dark shadow that hides the moon’s visibility on the night of a New Moon. Metal: stainless steel 2 moon piece Mini moon images (10mm images) Diameter: Oval shape 2 1/2" x 2" 6.5" circumference Also available in gold
-  Updated: 2025-10-08T19:57:44Z
+  Updated: 2025-10-09T03:17:14Z
   Vendor: Moonglow Jewelry
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2486/3224/files/cloudinary__dtoj7paiy__image__upload__Moonglow-_p-2Fproducts-_p-2FPink_Moon_Lunar_Dyad_Cuff_in_Stainless_Steel-_p-2Fnew-ecomsilverpinkmoondyad2__cld.jpg?v=1758294520
   Price: $79.00 USD
 - [Pink Moon Lunar Dyad Cuff in Gold](https://www.moonglow.com/products/pink-moon-lunar-dyad-cuff-in-gold): 🎗️ 5% of purchase price benefits the Pink Fund Does your special date land on a New Moon? We’ve crafted the Pink New Moon as a luminous shade of deep purple to represent the dark shadow that hides the moon’s visibility on the night of a New Moon. Metal: Gold Plated 2 moon piece Mini moon images (10mm images) Diameter: Oval shape 2 1/2" x 2" 6.5" circumference Also available in Stainless Steel
-  Updated: 2025-10-08T19:57:50Z
+  Updated: 2025-10-09T03:17:19Z
   Vendor: Moonglow Jewelry
   Product Type: Bracelets
   Availability: Available
@@ -2026,7 +2026,7 @@
     Availability: Available
     Price: $79.00 USD
 - [Simplicity Choker Necklace | Moonglow](https://www.moonglow.com/products/pink-moon-simplicity-choker-necklace): Rock your celestial style with this uniquely personal moon phase pendant simply designed to wow! Great to give and infinitely fun to wear, our Simplicity Choker Necklace is set in silver and suspended from a sexy leather cord.
-  Updated: 2025-10-08T17:09:50Z
+  Updated: 2025-10-09T03:25:23Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
@@ -2086,7 +2086,7 @@
     Availability: Available
     Price: $45.00 USD
 - [Gold Sky Light with Pink Moon Necklace | Moonglow](https://www.moonglow.com/products/pink-moon-sky-light-gold-necklace): Start your day right with the Sky Light in gold Pink moon necklace, a gorgeous staple piece that reflects the moon phase from the day you were born (or another special date!) Don't hesitate, get yours today!
-  Updated: 2025-10-08T17:56:13Z
+  Updated: 2025-10-08T22:10:56Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
@@ -2146,11 +2146,10 @@
     Availability: Available
     Price: $95.00 USD
 - [Pink Moon Sky Light Necklace in Stainless Steel](https://www.moonglow.com/products/pink-moon-sky-light-necklace-in-silver): Giving back to support breast cancer survivors with every purchase the Pink Moon Sky Light moon phase necklace is a beautiful tribute to the victories survivors have worked so hard for. Featuring the PINK moon from any special date of your choice in a silver plated pendant.
-  Updated: 2025-10-08T19:56:16Z
+  Updated: 2025-10-09T03:25:20Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/2486/3224/files/new-ecomEcommerce-shoot1624.jpg?v=1759343470
   - [CA](https://www.moonglow.com/products/pink-moon-sky-light-necklace-in-silver?variant=32795267334249)
     Availability: Available
     Price: $49.00 USD
@@ -2206,7 +2205,7 @@
     Availability: Available
     Price: $49.00 USD
 - [Pallene Bracelet in Rose Gold | Moonglow](https://www.moonglow.com/products/pink-moon-pallene-bracelet-in-rose-gold): Feel the full power of your femininity with our newest design inspired by Pallene (pa-lee-nee), the small natural satellite that orbits Saturn. This playful yet deeply personal bracelet in dramatic rose gold circles the wrist for a look that’s classic, timeless and modernly feminine. The adjustable chain link bracelet holds an eye-catching mini lunar charm that glows in darkness reminding you of a cherished moment that connects you to the moon. And like a magnet for all good things, it inspires wonder and conversation every time you wear it. Choose it now for yourself or someone dear to you. Your bracelet will arrive in its own signature gift box complete with a card describing the moon phases you’ve selected. 10mm rose gold plated charm 10mm moon phase image 6 1/2" - 7 1/2" adjustable rose gold plated bracelet rose gold plated Moonglow tag
-  Updated: 2025-10-08T17:11:08Z
+  Updated: 2025-10-09T02:55:37Z
   Vendor: Moonglow Jewelry
   Product Type: Bracelets
   Availability: Available
@@ -2266,11 +2265,10 @@
     Availability: Available
     Price: $95.00 USD
 - [Pallene Bracelet | Moonglow](https://www.moonglow.com/products/pink-moon-pallene-bracelet): Feel the power of the moon with the Pallene Bracelet, a moon charm bracelet that reflects the lunar sign of a special date or event. Give this bracelet as the ultimate gift to celebrate christenings, anniversaries, or "just because I love you."
-  Updated: 2025-10-08T17:11:12Z
+  Updated: 2025-10-09T03:25:23Z
   Vendor: Moonglow Jewelry
   Product Type: Bracelets
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/2486/3224/files/new-ecompinkmoonpallene2.jpg?v=1759343504
   - [CA](https://www.moonglow.com/products/pink-moon-pallene-bracelet?variant=32795344437353)
     Availability: Available
     Price: $45.00 USD
@@ -2326,7 +2324,7 @@
     Availability: Available
     Price: $45.00 USD
 - [Pallene Bracelet in Gold | Moonglow](https://www.moonglow.com/products/pink-moon-pallene-bracelet-in-gold): Celebrate the wonder of your special day with the glow of the moon on the day of your choice. Beautifully crafted in luminous gold plate, the adjustable chain link bracelet circles the wrist reminding you of the moment you were forever connected to the moon. It’s playful, yet personal and always memorable. And like a magnet for all good things, it inspires wonder and conversation every time you wear it. Each piece of MOONGLOW has a special meaning and represents a moment in time with great memories. Choose it now for yourself or someone you love and we’ll do the rest. Your bracelet will arrive in its own signature gift box complete with a card describing the lunar charm you’ve selected. 10mm gold-plated charm 10mm mini moon phase image 6 1/2" - 7 1/2" adjustable gold plated bracelet Gold plated Moonglow tag
-  Updated: 2025-10-08T17:41:01Z
+  Updated: 2025-10-09T02:55:39Z
   Vendor: Moonglow Jewelry
   Product Type: Bracelets
   Availability: Available
@@ -2386,7 +2384,7 @@
     Availability: Available
     Price: $95.00 USD
 - [Moon & Crystal Tie Bar in Stainless Steel](https://www.moonglow.com/products/moon-crystal-tie-bar-in-stainless-steel): More personal than initials. More modern than traditional clips. Our slim moon phase tie bar makes an eye-catching style statement for the fashion-forward and comfortably casual alike. Artfully crafted in black matte or brushed stainless steel, it features a lunar phase charm that recalls a special moment in time.
-  Updated: 2025-10-08T19:56:02Z
+  Updated: 2025-10-09T03:25:13Z
   Vendor: Moonglow Jewelry
   Product Type: Tie Clips
   Availability: Available
@@ -2452,7 +2450,7 @@
     Availability: Available
     Price: $48.00 USD
 - [Moonrise Cufflinks in Matte Black](https://www.moonglow.com/products/the-maginus-cufflinks-in-black-matte-stainless-stee): Our personalized cufflinks make just the style statement you’re looking for – and in a cool matte black finish! Let our Moonrise Cufflinks capture your imagination and forever mark a significant day for you or someone special in your life. With two unique moon phases, celebrate one or two special memories.
-  Updated: 2025-10-08T17:56:46Z
+  Updated: 2025-10-09T02:41:51Z
   Vendor: Moonglow Jewelry
   Product Type: Cufflinks
   Availability: Available
@@ -2466,14 +2464,13 @@
   Image: https://cdn.shopify.com/s/files/1/2486/3224/files/new-ecomSummerCollection7128.jpg?v=1751655352
   Price: $24.00 USD
 - [The Carina Hoop Earrings In Stainless Steel](https://www.moonglow.com/products/the-carina-hoops-in-stainless-steel): The Carina moon hoop earrings are an instant classic. Lightweight with a solid clasp, these moon phase hoop earrings will soon become your favs. Featuring up to two moons from any special dates of your choice.
-  Updated: 2025-10-08T19:57:46Z
+  Updated: 2025-10-09T03:26:01Z
   Vendor: Moonglow Jewelry
   Product Type: Earrings
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/2486/3224/files/cloudinary__dtoj7paiy__image__upload__Moonglow-_p-2Fproducts-_p-2FThe_Carina_Twist_Hoops_In_Stainless_Steel-_p-2FNewCarinaTwisthoopsinSS__cld.jpg?v=1758301722
   Price: $69.00 USD
 - [The Carina Hoops in Gold](https://www.moonglow.com/products/the-carina-hoops-in-gold): An instant classic. The Carina Hoops are the earrings you didn’t know you needed this season. A thin rope hoop dangles a small Moon pendant, for a simple and chic earring. Lightweight with a solid clasp these earrings will soon become your favs. Featuring up to two moons from the dates of your choice.
-  Updated: 2025-10-08T19:57:48Z
+  Updated: 2025-10-09T03:26:01Z
   Vendor: Moonglow Jewelry
   Product Type: Earrings
   Availability: Available
@@ -2546,7 +2543,7 @@
     Availability: Available
     Price: $75.00 USD
 - [Moonglow Paw Pendant in Gold](https://www.moonglow.com/products/moonglow-paw-pendant-in-gold): Featuring the moon from the special date of your choice encased in a paw pendant in honor of your furriest friend. Available in gold plate and stainless steel.
-  Updated: 2025-10-08T19:56:02Z
+  Updated: 2025-10-09T03:25:26Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
@@ -2619,7 +2616,7 @@
   Image: https://cdn.shopify.com/s/files/1/2486/3224/files/Ecom_Gift_bag.jpg?v=1758553708
   Price: $8.00 USD
 - [Luna Mia Necklace](https://www.moonglow.com/products/the-luna-mia-necklace): Our all new moon phase necklace is the perfect everyday staple to celebrate your special dates close to your heart! Featuring the moon from the date of your choice.
-  Updated: 2025-10-08T19:56:12Z
+  Updated: 2025-10-09T03:25:21Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
@@ -2751,7 +2748,7 @@
     Availability: Available
     Price: $65.00 USD
 - [The Titan Bracelet](https://www.moonglow.com/products/the-titan-bracelet-1): The Titan Bracelet is crafted with black matte finish to give it a sophisticated look. Wear it on its own or pair it with one of your other Moonglow favorites.
-  Updated: 2025-10-08T18:53:57Z
+  Updated: 2025-10-09T00:29:01Z
   Vendor: Moonglow Jewelry
   Product Type: Bracelets
   Availability: Available
@@ -2817,7 +2814,7 @@
     Availability: Available
     Price: $55.00 USD
 - [The Orion Necklace](https://www.moonglow.com/products/the-orion-mens-necklace): The Orion Necklace draws its inspiration from the classic star pattern that adorns our winter night sky. Made of stainless steel with a black matte coating, this necklace features a 24-inch round box chain with lobster clasp and 10mm moon image. Wear it to remind yourself of your most beautiful memories. - 10mm moon image - Extended: 24-inch round box chain with lobster clasp (non adjustable) - Standard: 18-19-inch round box chain with lobster clasp
-  Updated: 2025-10-08T19:54:15Z
+  Updated: 2025-10-09T03:25:21Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
@@ -2943,7 +2940,7 @@
     Availability: Available
     Price: $55.00 USD
 - [Double Moon Memory Key Ring in Stainless Steel](https://www.moonglow.com/products/double-moon-memory-key-ring-in-stainless-steel): The Double Moon Memory Key Ring lets two of your most precious Moments shine bright! Featuring two moons from any special dates of your choice on a stainless steel key ring.
-  Updated: 2025-10-08T17:56:47Z
+  Updated: 2025-10-09T02:41:42Z
   Vendor: Moonglow Jewelry
   Product Type: Keychains
   Availability: Available
@@ -3016,7 +3013,7 @@
     Availability: Available
     Price: $49.00 USD
 - [Carina Twist Bracelet in Gold](https://www.moonglow.com/products/carina-twist-bracelet-gold): This nautical summer style features genuine Rhinestone crystals and a sliding bead closure. The sleek snake chain design is perfect for any outfit, and the adjustable length makes it easy to wear. Whether you're dressing up for a special occasion or just want to add some sparkle to your look, the Carina Twist Bracelet is the perfect choice.
-  Updated: 2025-10-07T14:09:36Z
+  Updated: 2025-10-09T00:54:02Z
   Vendor: Moonglow Jewelry
   Product Type: Bracelets
   Availability: Available
@@ -3082,7 +3079,7 @@
     Availability: Available
     Price: $65.00 USD
 - [Carina Twist Bracelet and Hoop Earrings](https://www.moonglow.com/products/carina-twist-bracelet-and-hoop-earrings): Combining our new summer collection bracelet and earrings. Looking for a bracelet that is both beautiful and versatile? Look no further than the Carina Twist Bracelet, featuring a picture of the moon from the date of your choice. This nautical summer style is available in stainless steel or 14k gold plate and features genuine Rhinestone crystals and a sliding bead closure. The sleek snake chain design is perfect for any outfit, and the adjustable length makes it easy to wear. Whether you're dressing up for a special occasion or just want to add some sparkle to your look, the Carina Twist Bracelet is the perfect choice. An instant classic. The Carina Hoops are the earrings you didn’t know you needed this season. But you’re most definitely going to want to add them to your collection. A thin rope hoop dangles a small Moon pendant, for a simple and chic earring. Lightweight with a solid clasp these earrings will soon become your favs. - 10mm moon images- Stainless steel - Bracelet: Adjustable from 6" - 9.5" (engravable on back of moon) - Bracelet: Genuine rhinestone crystals & sliding bead closure - Earrings: 20mm hoops, snap-down bar closure
-  Updated: 2025-10-08T19:58:04Z
+  Updated: 2025-10-09T03:17:24Z
   Vendor: Moonglow Jewelry
   Product Type: Bracelets
   Availability: Available
@@ -3155,7 +3152,7 @@
     Availability: Available
     Price: $199.00 USD
 - [Pink Ribbon Charmed Simplicity](https://www.moonglow.com/products/pink-ribbon-charmed-simplicity): Make the perfect gift with one of these beautiful charmed necklaces, designed to wow. Featuring the moon from the date of your choice, the simplicity necklace is easy to wear and style. Silver-plated charm, 16"-19" adjustable stainless steel chain (40-48 cm)
-  Updated: 2025-10-08T19:56:05Z
+  Updated: 2025-10-09T03:25:22Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
@@ -3221,7 +3218,7 @@
     Availability: Available
     Price: $65.00 USD
 - [Pink Ribbon Pink Moon Sky Light in Stainless Steel](https://www.moonglow.com/products/pink-ribbon-pink-moon-sky-light-in-silver): Giving back to support breast cancer survivors with every purchase the Pink Moon Sky Light moon phase necklace is a beautiful tribute to the victories survivors have worked so hard for. Featuring the PINK moon from any special date of your choice in a silver plated pendant.
-  Updated: 2025-10-08T19:56:09Z
+  Updated: 2025-10-09T03:25:21Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
@@ -3288,7 +3285,7 @@
   Image: https://cdn.shopify.com/s/files/1/2486/3224/files/cloudinary__dtoj7paiy__image__upload__Moonglow-_p-2Fproducts-_p-2FMini_Moonglow_Jewelry_Travel_Case-_p-2Fnew-ecom1_15_80531dc7-146b-4f74-b8e4-06f170b5e7ce__cld.jpg?v=1758215316
   Price: $25.00 USD
 - [The “To the Moon and Back” Bar Bracelet](https://www.moonglow.com/products/the-to-the-moon-and-back-bar-bracelet): Show your special someone that you love them to the moon and back! This stackable, minimal bracelet is the perfect way to express your love. Stack it with the custom engravable bar bracelet, or with another one of our signature styles featuring a picture of the moon from the date of your choice. Stainless steel or 14k gold 6 ¾” in length (adjustable) Engraved with "to the moon and back"
-  Updated: 2025-10-08T14:37:22Z
+  Updated: 2025-10-09T02:53:55Z
   Vendor: Moonglow Jewelry
   Product Type: Bracelets
   Availability: Available
@@ -3302,28 +3299,28 @@
   Image: https://cdn.shopify.com/s/files/1/2486/3224/files/cloudinary__dtoj7paiy__image__upload__Moonglow-_p-2Fproducts-_p-2FThe_-_p-E2-_p-80-_p-9CTo_the_Moon_and_Back-_p-E2-_p-80-_p-9D_Bar_Bracelet_in_Gold-_p-2Fnew-ecomtothemoonandbackyg2__c.jpg?v=1758301755
   Price: $31.50 USD
 - [Three Moon Pleiades Bracelet in Gold](https://www.moonglow.com/products/three-moon-pleiades-bracelet-in-gold): Featuring a picture of the moon from THREE special dates of your choice. Introducing the Pleiades Bracelet in Gold - a stunning piece of jewelry that will leave you star-struck! This bracelet is named after the Pleiades star cluster, which is over 400 lightyears away from Earth, but still visible to the naked eye. Just like the stars in the Pleiades cluster bound together by gravity, this bracelet represents the love that bonds mothers, siblings, and families. Crafted with exquisite attention to detail, this bracelet is available with three, four or five moons and/or zodiac constellations, allowing you to choose the perfect combination of moons and stars to celebrate multiple birthdays or special dates. - 14k gold plated- 10mm moon images- 6.75" to 7.75" adjustable- Engravable on back of moon charm
-  Updated: 2025-10-08T19:57:55Z
+  Updated: 2025-10-09T03:17:23Z
   Vendor: Moonglow Jewelry
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2486/3224/files/cloudinary__dtoj7paiy__image__upload__Moonglow-_p-2Fproducts-_p-2FThree_Moon_Pleiades_Bracelet_in_Gold-_p-2Fnew-ecom8_2__cld.jpg?v=1758568111
   Price: $135.00 USD
 - [Four Moon Pleiades Bracelet in Gold](https://www.moonglow.com/products/four-moon-pleiades-bracelet-in-gold): Featuring a picture of the moon from FOUR special dates of your choice. Introducing the Pleiades Bracelet in Gold - a stunning piece of jewelry that will leave you star-struck! This bracelet is named after the Pleiades star cluster, which is over 400 lightyears away from Earth, but still visible to the naked eye. Just like the stars in the Pleiades cluster bound together by gravity, this bracelet represents the love that bonds mothers, siblings, and families. Crafted with exquisite attention to detail, this bracelet is available with three, four or five moons and/or zodiac constellations, allowing you to choose the perfect combination of moons and stars to celebrate multiple birthdays or special dates. - 14k gold plated- 10mm moon images - 6.75" to 7.75" adjustable- Engravable on back of moon charm
-  Updated: 2025-10-08T19:58:57Z
+  Updated: 2025-10-09T03:17:16Z
   Vendor: Moonglow Jewelry
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2486/3224/files/cloudinary__dtoj7paiy__image__upload__Moonglow-_p-2Fproducts-_p-2FFour_Moon_Pleiades_Bracelet_in_Gold-_p-2Fnew-ecom5_10__cld.jpg?v=1758200922
   Price: $170.00 USD
 - [Five Moon Pleiades Bracelet in Gold](https://www.moonglow.com/products/five-moon-pleiades-bracelet-in-gold): Featuring a picture of the moon from FIVE special dates of your choice. Introducing the Pleiades Bracelet in Gold - a stunning piece of jewelry that will leave you star-struck! This bracelet is named after the Pleiades star cluster, which is over 400 lightyears away from Earth, but still visible to the naked eye. Just like the stars in the Pleiades cluster bound together by gravity, this bracelet represents the love that bonds mothers, siblings, and families. Crafted with exquisite attention to detail, this bracelet is available with three, four or five moons and/or zodiac constellations, allowing you to choose the perfect combination of moons and stars to celebrate multiple birthdays or special dates. - 14k gold plated- 10mm moon images- 6.75" to 7.75" adjustable- Engravable on back of moon charm
-  Updated: 2025-10-08T19:57:56Z
+  Updated: 2025-10-09T03:25:51Z
   Vendor: Moonglow Jewelry
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2486/3224/files/cloudinary__dtoj7paiy__image__upload__Moonglow-_p-2Fproducts-_p-2FFive_Moon_Pleiades_Bracelet_in_Gold-_p-2Fnew-ecom2_11__cld.jpg?v=1758200919
   Price: $205.00 USD
 - [Elysian Hair Pin](https://www.moonglow.com/products/elysian-hair-pin): Divinely inspired with attention to detail, the Elysian hair pin is the perfect accessory to elevate any hairstyle and make you feel like a true goddess. Designed to last for years to come, your “something new” may one day be someone's “something borrowed”. Keeping the moments that matter the most close to you by choosing a date to feature the moon from that night. -10mm moon image -Stainless steel -Zircon crystals
-  Updated: 2025-10-08T13:39:21Z
+  Updated: 2025-10-09T02:21:17Z
   Vendor: Moonglow Jewelry
   Product Type: Hairpins
   Availability: Available
@@ -3389,11 +3386,10 @@
     Availability: Available
     Price: $28.00 USD
 - [Pink Milestone bracelet](https://www.moonglow.com/products/pink-milestone-bracelet): The Milestone Bracelet in sky gray is a symbol of your resolve. It lights up your path in the dark, and is a reminder of your goals. Featuring the moon from the date of your choice.
-  Updated: 2025-10-08T19:56:11Z
+  Updated: 2025-10-09T03:25:22Z
   Vendor: Moonglow Jewelry
   Product Type: Bracelets
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/2486/3224/files/cloudinary__dtoj7paiy__image__upload__Moonglow-_p-2Fproducts-_p-2FPink_Milestone_bracelet-_p-2FEcomPinkMilestonebraceletNEW__cld.jpg?v=1758294520
   - [CA](https://www.moonglow.com/products/pink-milestone-bracelet?variant=40689399201897)
     Availability: Available
     Price: $55.00 USD
@@ -3462,7 +3458,7 @@
   Image: https://cdn.shopify.com/s/files/1/2486/3224/files/cloudinary__dtoj7paiy__image__upload__Moonglow-_p-2Fproducts-_p-2FLunar_Love_Studs_in_Gold-_p-2FStudsgold1__cld.jpg?v=1758208125
   Price: $30.00 USD
 - [Lumina Luna To The Moon & Back bracelet](https://www.moonglow.com/products/lumina-luna-to-the-moon-back-bracelet): Introducing the newest collection, Moonlight by Moonglow. The Lumina Luna To The Moon & Back bracelet is uniquely created to glow-the-dark and make you shine. The phrase “I love you to the moon and back” has been used globally for decades to share and express boundless unconditional love. This phrase helps put into words the feelings that are beyond measureable. Whether you wear the Lumina Luna To The Moon & Back bracelet for self love or for the love from another, let this serve as your reminder that love can prevail through any hardship and passage of time. The new dainty Moonlight collection pairs beautifully with your special moments celebrated under the moon with Moonglow. Stainless steel 7.5" total length, adjustable to be shorter Glows in the dark
-  Updated: 2025-10-08T17:25:39Z
+  Updated: 2025-10-09T03:13:55Z
   Vendor: Moonglow Jewelry
   Product Type: Bracelets
   Availability: Available
@@ -3595,7 +3591,7 @@
     Availability: Available
     Price: $47.40 USD
 - [Carina Twist Bracelet in Black Matte](https://www.moonglow.com/products/carina-twist-bracelet-in-black-matte): Introducing our best selling Carina Twist Bracelet now in Black Matte – a captivating blend of modern elegance and trendy detailing. This bracelet features a sleek black matte finish that serves as a striking backdrop for the moon from a meaningful date of your choice. The Carina Twist bracelet is more than just an accessory; it's a statement piece that effortlessly combines bold style with understated sophistication. The matte black surface exudes a sense of mystery and refinement, while the moon adds a touch of celestial allure to your wrist. Crafted with meticulous attention to detail, this bracelet is perfect for those who appreciate the beauty of contrasts. Elevate your look with a unique and timeless addition to your jewelry collection. Let the night sky's elegance grace your every movement. - 10mm moon image- Black matte finish- Adjustable from 6" - 9.5"- Genuine rhinestone crystals & sliding bead closure
-  Updated: 2025-10-08T19:54:04Z
+  Updated: 2025-10-09T03:16:26Z
   Vendor: Moonglow Jewelry
   Product Type: Bracelets
   Availability: Available
@@ -3727,7 +3723,7 @@
     Availability: Available
     Price: $44.00 USD
 - [Luna Love Necklace in Gold](https://www.moonglow.com/products/luna-love-necklace-in-gold): Presenting our enchanting Luna Love Necklace in Gold, a piece that weaves the magic of the moon into the timeless word of love. Crafted with precision and artistry, the necklace elegantly incorporates a moon from the special date of your choice seamlessly creating a romantic piece.
-  Updated: 2025-10-08T19:56:11Z
+  Updated: 2025-10-09T03:25:26Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
@@ -4015,7 +4011,7 @@
     Availability: Available
     Price: $55.00 USD
 - [Midnight Eclipse Terra Luna Bracelet](https://www.moonglow.com/products/midnight-eclipse-terra-luna-bracelet): Step into a world of grounded elegance with our Terra Luna Bracelets, available in a harmonious selection of black, white, cream, and beige, each bracelet captures the essence of earthly tones while adding a sophisticated touch to your ensemble.The subtle yet striking color options allow you to choose the shade that best resonates with your personal style, making these bracelets versatile companions for any occasion.At the heart of each Terra Luna Bracelet lies a luminous moon charm, which can be personalized to represent the moon from a date that holds special significance to you. Whether it's the day you were born, a memorable milestone, or a cherished moment, this celestial symbol keeps that memory close, bringing a sense of calm and tranquility to your everyday life. The adjustable design ensures a comfortable fit for any wrist, allowing you to wear it with ease and confidence. Perfect for those who seek a blend of natural beauty and cosmic grace, the Terra Luna Bracelet serves as a versatile addition to your jewelry collection. - 10mm moon image- stainless steel charm- wax-coated bracelet cord - Adjustable up to approximately 3.5 inch in diameter- stainless steel branded tag- engravable on the back of the charm
-  Updated: 2025-10-08T15:25:43Z
+  Updated: 2025-10-09T00:55:44Z
   Vendor: Moonglow Jewelry
   Product Type: Bracelets
   Availability: Available
@@ -4081,7 +4077,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Pink Moon Carina Twist Bracelet in Matte Black](https://www.moonglow.com/products/pink-moon-carina-twist-bracelet-in-matte-black): 🎗️ 5% of purchase price benefits the Pink Fund Introducing our best selling Carina Twist Bracelet now in Black Matte – a captivating blend of modern elegance and trendy detailing. This bracelet features a sleek black matte finish that serves as a striking backdrop for the moon from a meaningful date of your choice. The Carina Twist bracelet is more than just an accessory; it's a statement piece that effortlessly combines bold style with understated sophistication. The matte black surface exudes a sense of mystery and refinement, while the moon adds a touch of celestial allure to your wrist. Does your special date land on a New Moon? We’ve crafted the Pink New Moon as a luminous shade of deep purple to represent the dark shadow that hides the moon’s visibility on the night of a New Moon. - 10mm pink moon image- Black matte finish- Adjustable from 6" - 9.5"- Genuine rhinestone crystals & sliding bead closure
-  Updated: 2025-10-08T17:11:22Z
+  Updated: 2025-10-09T02:55:39Z
   Vendor: Moonglow Jewelry
   Product Type: Bracelets
   Availability: Available
@@ -4141,7 +4137,7 @@
     Availability: Available
     Price: $55.00 USD
 - [Pink Moon Carina Twist Bracelet in Stainless Steel](https://www.moonglow.com/products/pink-moon-carina-twist-bracelet-in-stainless-steel): 🎗️ 5% of purchase price benefits the Pink Fund Looking for a bracelet that is both beautiful and versatile? Look no further than the Carina Twist Bracelet, featuring a picture of the moon from the date of your choice. This nautical summer style is available in stainless steel or 14k gold plate and features genuine Rhinestone crystals and a sliding bead closure. The sleek snake chain design is perfect for any outfit, and the adjustable length makes it easy to wear. Whether you're dressing up for a special occasion or just want to add some sparkle to your look, the Carina Twist Bracelet is the perfect choice. Does your special date land on a New Moon? We’ve crafted the Pink New Moon as a luminous shade of deep purple to represent the dark shadow that hides the moon’s visibility on the night of a New Moon. - 10mm pink moon image- Stainless steel- Adjustable from 6" - 9.5"- Genuine rhinestone crystals & sliding bead closure
-  Updated: 2025-10-08T17:11:20Z
+  Updated: 2025-10-09T02:55:41Z
   Vendor: Moonglow Jewelry
   Product Type: Bracelets
   Availability: Available
@@ -4261,7 +4257,7 @@
     Availability: Available
     Price: $55.00 USD
 - [Pink Moon Luna Love Ring in Gold](https://www.moonglow.com/products/pink-moon-luna-love-ring-in-gold): Introducing our Luna Love Ring, a celestial masterpiece that intertwines the magic of the moon with the timeless symbol of love. This exquisitely crafted ring features a delicate heart-shaped design adorned with the moon from a special date. Does your special date land on a New Moon? We’ve crafted the Pink New Moon as a luminous shade of deep purple to represent the dark shadow that hides the moon’s visibility on the night of a New Moon. - 14k yellow gold plated - Heart design - Adjustable for sizes between 6 - 10 - 10 mm pink moon image
-  Updated: 2025-10-08T15:40:16Z
+  Updated: 2025-10-09T01:56:21Z
   Vendor: Moonglow Jewelry
   Product Type: Rings
   Availability: Available
@@ -4321,7 +4317,7 @@
     Availability: Available
     Price: $79.00 USD
 - [Pink Moon Midnight Eclipse Terra Luna Bracelet](https://www.moonglow.com/products/pink-moon-midnight-eclipse-terra-luna-bracelet): 🎗️ 5% of purchase price benefits the Pink Fund class="product_description"> Step into a world of grounded elegance with our Terra Luna Bracelets, available in a harmonious selection of black, white, cream, and beige, each bracelet captures the essence of earthly tones while adding a sophisticated touch to your ensemble.The subtle yet striking color options allow you to choose the shade that best resonates with your personal style, making these bracelets versatile companions for any occasion. Does your special date land on a New Moon? We’ve crafted the Pink New Moon as a luminous shade of deep purple to represent the dark shadow that hides the moon’s visibility on the night of a New Moon. - 10mm pink moon image- stainless steel charm- wax-coated bracelet cord - Adjustable up to approximately 3.5 inch in diameter- stainless steel branded tag- engravable on the back of the charm
-  Updated: 2025-10-08T17:11:22Z
+  Updated: 2025-10-09T02:55:42Z
   Vendor: Moonglow Jewelry
   Product Type: Bracelets
   Availability: Available
@@ -4381,7 +4377,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Luxe Steel Beaded Necklace](https://www.moonglow.com/products/luxe-steel-beaded-necklace): Introducing the Luxe Steel Beaded Necklace, a radiant fusion of celestial allure and contemporary elegance. Crafted with precision and passion, this exquisite piece encapsulates the beauty of the cosmos while exuding a sense of refined sophistication.
-  Updated: 2025-10-08T19:54:11Z
+  Updated: 2025-10-09T03:16:35Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
@@ -4447,42 +4443,42 @@
     Availability: Available
     Price: $84.15 USD
 - [Titan and Carina Twist Bracelet Bundle](https://www.moonglow.com/products/titan-and-carina-twist-bracelet-bundle): Moon1 -Titan BraceletMoon2 - Carina Twist bracelet Make a style statement with this refined titan bracelet that will reinforce your ambitions and remind you of a special date, every day. The Titan Bracelet is crafted with a black matte finish to give it a sophisticated, modern look.Looking for a bracelet that is both beautiful and versatile? Look no further than the Carina Twist Bracelet, featuring a picture of the moon from the date of your choice. This nautical summer style is available in stainless steel or 14k gold plate and features genuine Rhinestone crystals and a sliding bead closure. The sleek snake chain design is perfect for any outfit, and the adjustable length makes it easy to wear. Whether you're dressing up for a special occasion or just want to add some sparkle to your look, the Carina Twist Bracelet is the perfect choice. Titan: (Moon1) - 10mm moon image - matte black stainless steel links- 6 1/2 inches, adjusts up to 7 3/4"- Extended version: 8 1/2" - Chain width: 8mm Carina twist: (Moon 2) - 10mm moon image- Stainless steel- Adjustable from 6" - 9.5" - Genuine rhinestone crystals & sliding bead closure
-  Updated: 2025-10-08T19:57:53Z
+  Updated: 2025-10-09T03:17:14Z
   Vendor: Moonglow Jewelry
   Product Type: Jewelry Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2486/3224/files/cloudinary__dtoj7paiy__image__upload__Moonglow-_p-2Fproducts-_p-2FTitan_and_Carina_Twist_Bracelet_Bundle-_p-2F50__cld.jpg?v=1758568115
   Price: $83.20 USD
 - [Titan and Carina Twist in Gold Bracelet Bundle](https://www.moonglow.com/products/titan-and-carina-twist-in-gold-bracelet-bundle): Moon1 -Titan BraceletMoon2 - Carina Twist bracelet Make a style statement with this refined titan bracelet that will reinforce your ambitions and remind you of a special date, every day. The Titan Bracelet is crafted with a black matte finish to give it a sophisticated, modern look.Looking for a bracelet that is both beautiful and versatile? Look no further than the Carina Twist Bracelet, featuring a picture of the moon from the date of your choice. This nautical summer style is available in stainless steel or 14k gold plate and features genuine Rhinestone crystals and a sliding bead closure. The sleek snake chain design is perfect for any outfit, and the adjustable length makes it easy to wear. Whether you're dressing up for a special occasion or just want to add some sparkle to your look, the Carina Twist Bracelet is the perfect choice. Titan: (Moon1) - 10mm moon image - matte black stainless steel links- 6 1/2 inches, adjusts up to 7 3/4"- Extended version: 8 1/2" - Chain width: 8mm Carina twist: (Moon 2) - 10mm moon image- 14k gold plate- Adjustable from 6" - 9.5" - Genuine rhinestone crystals & sliding bead closure
-  Updated: 2025-10-08T19:57:44Z
+  Updated: 2025-10-09T03:17:14Z
   Vendor: Moonglow Jewelry
   Product Type: Jewelry Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2486/3224/files/cloudinary__dtoj7paiy__image__upload__Moonglow-_p-2Fproducts-_p-2FTitan_and_Carina_Twist_in_Gold_Bracelet_Bundle-_p-2FSquaredimages_2_abb3a72f-bf5d-4fdc-a75e-d9e9b1a69b71__cld.jpg?v=1758568120
   Price: $96.00 USD
 - [Moon and Crystal Tie Bar and Cufflinks Bundle](https://www.moonglow.com/products/moon-and-crystal-tie-bar-and-cufflinks-bundle): This cosmic duo includes the Moon & Crystal Tie Bar in Stainless Steel with the Timeless Moon Pin. Featuring the moons from any special dates of your choice, this combo makes the perfect gift or self purchase.
-  Updated: 2025-10-08T19:57:50Z
+  Updated: 2025-10-09T03:17:14Z
   Vendor: Moonglow Jewelry
   Product Type: Jewelry Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2486/3224/files/cloudinary__dtoj7paiy__image__upload__Moonglow-_p-2Fproducts-_p-2FMoon_and_Crystal_Tie_Bar_and_Cufflinks_Bundle-_p-2F65_566aa3b0-891f-49a3-9ea4-5c8d6d124128__cld.jpg?v=1758215332
   Price: $101.60 USD
 - [Luna Love Necklace in SS + Cosmic Spiral Ring in Rhodium](https://www.moonglow.com/products/luna-love-necklace-in-ss-cosmic-spiral-ring-in-rhodium): Moon 1 -Necklace , Moon 2 - Cosmic Spiral Ring Two of our best sellers for one special price! The Luna Love Necklace is more than just a piece of jewelry; it's a declaration of affection. The delicate moon gracefully intertwines with the letters, symbolizing the eternal dance of love under the moonlit sky. The spiral represents the paths that life takes and how our destinies cross. We designed this adjustable Cosmic Spiral Ring in Rhodium for those looking for a path to their future, to new beginnings. It is a reminder to keep moving forward and seek new experiences — no matter how uncertain they seem. -10mm moon image -Stainless steel -Necklace: 18" stainless steel chain -Ring: Adjustable for sizes between 6 - 10
-  Updated: 2025-10-08T19:58:52Z
+  Updated: 2025-10-09T03:17:17Z
   Vendor: Moonglow Jewelry
   Product Type: Jewelry Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2486/3224/files/cloudinary__dtoj7paiy__image__upload__Moonglow-_p-2Fproducts-_p-2FLuna_Love_Necklace_in_SS_-_p-2B_Cosmic_Spiral_Ring_in_Rhodium-_p-2F7_6e7f81f0-1a5c-4292-99e3-8db2d5811090__cld.jpg?v=1758208110
   Price: $120.60 USD
 - [Charmed Simplicity Necklace and Silver Link Bracelet Bundle](https://www.moonglow.com/products/charmed-simplicity-necklace-and-silver-link-bracelet-bundle): Moon 1 -Necklace , Moon 2 - Bracelet Two of our best sellers for one special price! The Charmed Simplicity Necklace is a reminder that no matter what, we all have special moments in time. It is designed for a minimalist at heart who wants to wear something that shows off their style and individuality without being too complicated or busy. This piece works well with any outfit, from casual to professional attire and will never go out of style. The Silver Link Bracelet is the perfect way to remember, celebrate, or honor a special moment in time with a personal engraving on the back of the silver-plated moon pendant. And like the moon itself, our awe-inspiring lunar phase charms catch the sunrays by day to glow in the dark — giving your style a magical, ethereal twist. -13mm moon image -Stainless steel bracelet, silver plated necklace charm-Necklace: 16-19"" stainless steel chain -- 7 1/2" adjustable bracelet
-  Updated: 2025-10-08T19:57:58Z
+  Updated: 2025-10-09T03:26:13Z
   Vendor: Moonglow Jewelry
   Product Type: Jewelry Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2486/3224/files/cloudinary__dtoj7paiy__image__upload__Moonglow-_p-2Fproducts-_p-2FCharmed_Simplicity_Necklace_and_Silver_Link_Bracelet_Bundle-_p-2F13_06bfab89-e384-4ff2-a1b0-67dcc9a3c3f4__cld.jpg?v=1758085719
   Price: $87.30 USD
 - [Pallene Bracelet and Hoop Earrings](https://www.moonglow.com/products/pallene-bracelet-and-hoop-earrings): Moon1: Bracelet. Moon2+3: Earrings Combining our new summer collection bracelet and earrings. Looking for a bracelet that is both beautiful and versatile? Look no further than the Carina Twist Bracelet, featuring a picture of the moon from the date of your choice. This nautical summer style is available in stainless steel or 14k gold plate and features genuine Rhinestone crystals and a sliding bead closure. The sleek snake chain design is perfect for any outfit, and the adjustable length makes it easy to wear. Whether you're dressing up for a special occasion or just want to add some sparkle to your look, the Carina Twist Bracelet is the perfect choice. An instant classic. The Carina Hoops are the earrings you didn’t know you needed this season. But you’re most definitely going to want to add them to your collection. A thin rope hoop dangles a small Moon pendant, for a simple and chic earring. Lightweight with a solid clasp these earrings will soon become your favs. - 10mm moon images- Stainless steel - Bracelet: 6"-7.5" adjustable (15-19cm) - Earrings: 20mm hoops, snap-down bar closure
-  Updated: 2025-10-08T19:57:50Z
+  Updated: 2025-10-09T03:17:16Z
   Vendor: Moonglow Jewelry
   Product Type: Earrings
   Availability: Available
@@ -4687,7 +4683,7 @@
     Availability: Available
     Price: $67.50 USD
 - [The Libra Lunar Soulkeeper Necklace](https://www.moonglow.com/products/the-libra-lunar-soulkeeper-necklace): More personal than initials. More modern than traditional clips. Our slim constellation tie bar makes an eye-catching style statement for the fashion-forward and comfortably casual alike. Artfully crafted in black matte stainless steel or brushed stainless steel, it features a zodiac constellation.
-  Updated: 2025-10-08T18:13:18Z
+  Updated: 2025-10-08T21:56:20Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
@@ -4958,7 +4954,7 @@
   Image: https://cdn.shopify.com/s/files/1/2486/3224/files/cloudinary__dtoj7paiy__image__upload__Moonglow-_p-2Fproducts-_p-2FLunar_Sparkle_Studs-_p-2F240_80bf8f98-57ed-4d89-acc1-a5f116a3f62c__cld.jpg?v=1758208129
   Price: $25.00 USD
 - [Cosmic Bond Ring in Rhodium](https://www.moonglow.com/products/cosmic-bond-ring-in-rhodium): The Cosmic Spiral Ring in Rhodium is the right piece for those looking for a path to their future. A classic, beautiful and unique adjustable ring. Featuring a picture of the moon from the date of your choice.
-  Updated: 2025-10-08T19:57:44Z
+  Updated: 2025-10-09T03:17:19Z
   Vendor: Moonglow Jewelry
   Product Type: Rings
   Availability: Available
@@ -4986,7 +4982,7 @@
   Image: https://cdn.shopify.com/s/files/1/2486/3224/files/cloudinary__dtoj7paiy__image__upload__Moonglow-_p-2Fproducts-_p-2FGift_Bag_-_p-2B_Greeting_Card_Bundle-_p-2F132__cld.jpg?v=1758200924
   Price: $12.00 USD
 - [Simplicity Choker Necklace | Moonglow](https://www.moonglow.com/products/pink-moon-luxe-necklace): Rock your celestial style with this uniquely personal
-  Updated: 2025-10-08T17:11:22Z
+  Updated: 2025-10-09T02:55:42Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
@@ -5046,21 +5042,21 @@
     Availability: Available
     Price: $99.00 USD
 - [The “To the Moon and Back” Bar Bracelet - Gift](https://www.moonglow.com/products/the-to-the-moon-and-back-bar-bracelet-gift): Show your special someone that you love them to the moon and back! This stackable, minimal bracelet is the perfect way to express your love. Stack it with the custom engravable bar bracelet, or with another one of our signature styles featuring a picture of the moon from the date of your choice. Stainless steel or 14k gold 6 ¾” in length (adjustable) Engraved with "to the moon and back"
-  Updated: 2025-10-08T14:53:52Z
+  Updated: 2025-10-09T02:33:57Z
   Vendor: Moonglow Jewelry
   Product Type: test
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2486/3224/files/new-ecomttmabbb.jpg?v=1730926470
   Price: $0.00 USD
 - [Moonshine Stud Earrings in Stainless Steel](https://www.moonglow.com/products/moonshine-stud-earrings-in-ss): A balance between bold and beautiful, our newest Moonshine Studs are the earrings you didn’t know you needed. Each stud can be customized, either choose a single date for both studs, alternatively, you can pick two different dates for a sweet asymmetrical look.
-  Updated: 2025-10-08T19:57:52Z
+  Updated: 2025-10-09T03:17:23Z
   Vendor: Moonglow Jewelry
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2486/3224/files/cloudinary__dtoj7paiy__image__upload__Moonglow-_p-2Fproducts-_p-2FMoonshine_Stud_Earrings_in_Stainless_Steel-_p-2FEcommerceshoot1789__cld.jpg?v=1758287323
   Price: $95.00 USD
 - [Celestial Light Bracelet](https://www.moonglow.com/products/celestial-light-bracelet): Moonstone has been worn over the ages to encourage inner growth and strength. Beaded with genuine moonstone beads, this bracelet features a picture of the moon from any meaningful date of your choice. Ships around August 4th-11th.
-  Updated: 2025-10-08T19:56:01Z
+  Updated: 2025-10-09T02:22:12Z
   Vendor: Moonglow Jewelry
   Product Type: Bracelets
   Availability: Available
@@ -5126,7 +5122,7 @@
     Availability: Available
     Price: $49.00 USD
 - [Lunar Shadow Bracelet](https://www.moonglow.com/products/lunar-shadow-bracelet): Lunar Shadow Bracelet Embrace the quiet mystery of the new moon with the Lunar Shadow Bracelet. Crafted withlabradorite beads known for their shifting, iridescent glow, this bracelet channels the energy of newbeginnings and hidden potential - perfect for setting intentions and welcoming fresh starts. Details:- 10mm moon phase charm- 7" diameter- 6mm labradorite beads
-  Updated: 2025-10-08T19:54:11Z
+  Updated: 2025-10-09T03:16:45Z
   Vendor: Moonglow Jewelry
   Product Type: Bracelets
   Availability: Available
@@ -5192,37 +5188,37 @@
     Availability: Available
     Price: $49.00 USD
 - [ACCORDION](https://www.moonglow.com/products/accordion)
-  Updated: 2025-10-08T19:39:06Z
+  Updated: 2025-10-09T03:24:16Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
   Price: $0.00 USD
 - [MAILER](https://www.moonglow.com/products/mailer)
-  Updated: 2025-10-08T19:39:07Z
+  Updated: 2025-10-09T03:24:15Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
   Price: $0.00 USD
 - [JEWELRY CARD](https://www.moonglow.com/products/jewelry-card)
-  Updated: 2025-10-08T19:39:05Z
+  Updated: 2025-10-09T03:24:15Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
   Price: $0.00 USD
 - [POUCH](https://www.moonglow.com/products/pouch)
-  Updated: 2025-10-08T19:39:07Z
+  Updated: 2025-10-09T03:24:21Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
   Price: $0.00 USD
 - [CLEAR BAGS](https://www.moonglow.com/products/clear-bags)
-  Updated: 2025-10-08T19:39:06Z
+  Updated: 2025-10-09T03:24:15Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
   Price: $0.00 USD
 - [Engraving total](https://www.moonglow.com/products/engraving-total)
-  Updated: 2025-10-08T18:53:47Z
+  Updated: 2025-10-09T03:10:27Z
   Vendor: Moonglow Jewelry
   Product Type: Engraving
   Availability: Available
@@ -5449,13 +5445,13 @@
     Availability: Available
     Price: $0.00 USD
 - [CHARM2SPL-E](https://www.moonglow.com/products/charm2spl-e)
-  Updated: 2025-10-08T17:38:55Z
+  Updated: 2025-10-09T02:38:51Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
   Price: $0.00 USD
 - [Tri-Mare Charm Necklace | Triple Pendants](https://www.moonglow.com/products/tri-mare-charm-necklace): Moonglow’s Tri-Mare Charm Necklace is a silver triple moon pendant featuring three 13mm moon images from the dates of your choice. The perfect accessory for any star-gazer.
-  Updated: 2025-10-08T19:57:55Z
+  Updated: 2025-10-09T03:25:57Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
@@ -5468,7 +5464,7 @@
   Availability: Available
   Price: $0.00 USD
 - [FS10-DROP](https://www.moonglow.com/products/fs10-drop)
-  Updated: 2025-10-08T19:54:12Z
+  Updated: 2025-10-09T03:14:10Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
@@ -5566,7 +5562,7 @@
     Availability: Available
     Price: $0.00 USD
 - [GEM-LAB-BRA-SS](https://www.moonglow.com/products/gem-lab-bra-ss)
-  Updated: 2025-10-08T16:54:03Z
+  Updated: 2025-10-08T20:23:52Z
   Vendor: Moonglow Jewelry
   Product Type: test
   Availability: Available
@@ -5584,7 +5580,7 @@
   Availability: Available
   Price: $0.00 USD
 - [MEN-PDT-BL](https://www.moonglow.com/products/men-pdt-bl)
-  Updated: 2025-10-08T17:09:49Z
+  Updated: 2025-10-09T02:53:53Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
@@ -5620,7 +5616,7 @@
   Availability: Available
   Price: $0.00 USD
 - [PE10-029-SS](https://www.moonglow.com/products/pe10-029-ss)
-  Updated: 2025-10-08T19:54:12Z
+  Updated: 2025-10-09T02:34:11Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
@@ -5632,13 +5628,13 @@
   Availability: Available
   Price: $0.00 USD
 - [CM10-007-SS-2R](https://www.moonglow.com/products/cm10-007-sp-2r)
-  Updated: 2025-10-08T16:34:37Z
+  Updated: 2025-10-09T03:14:10Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
   Price: $0.00 USD
 - [TWIST-BRA-YG](https://www.moonglow.com/products/twist-bra-yg)
-  Updated: 2025-10-07T14:09:17Z
+  Updated: 2025-10-09T00:53:51Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
@@ -5650,7 +5646,7 @@
   Availability: Available
   Price: $0.00 USD
 - [CHOKER](https://www.moonglow.com/products/choker)
-  Updated: 2025-10-07T20:23:55Z
+  Updated: 2025-10-09T01:38:55Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
@@ -5674,7 +5670,7 @@
   Availability: Available
   Price: $0.00 USD
 - [CM10-007-SS-1R](https://www.moonglow.com/products/cm10-007-ss-1r)
-  Updated: 2025-10-08T16:34:36Z
+  Updated: 2025-10-09T03:14:10Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
@@ -5722,7 +5718,7 @@
   Availability: Available
   Price: $0.00 USD
 - [ADJ-RING-RH](https://www.moonglow.com/products/adj-ring-rh)
-  Updated: 2025-10-08T15:38:51Z
+  Updated: 2025-10-08T23:09:06Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
@@ -5776,7 +5772,7 @@
   Availability: Available
   Price: $0.00 USD
 - [CM10-007-GP-2R](https://www.moonglow.com/products/cm10-007-gp-2r)
-  Updated: 2025-10-08T17:38:52Z
+  Updated: 2025-10-08T23:53:50Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
@@ -5806,7 +5802,7 @@
   Availability: Available
   Price: $0.00 USD
 - [CHARM1SPL](https://www.moonglow.com/products/charm1spl-1)
-  Updated: 2025-10-08T16:09:19Z
+  Updated: 2025-10-09T00:53:54Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
@@ -5907,13 +5903,13 @@
   Availability: Available
   Price: $0.00 USD
 - [TERRA-BRA-BL](https://www.moonglow.com/products/terra-bra-bl)
-  Updated: 2025-10-08T13:39:15Z
+  Updated: 2025-10-09T00:53:55Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
   Price: $0.00 USD
 - [SOUL-NECK](https://www.moonglow.com/products/soul-neck)
-  Updated: 2025-10-06T13:24:03Z
+  Updated: 2025-10-08T21:53:41Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
@@ -5936,7 +5932,7 @@
     Availability: Available
     Price: $0.00 USD
 - [ORION CHAIN](https://www.moonglow.com/products/orion)
-  Updated: 2025-10-08T17:09:42Z
+  Updated: 2025-10-09T02:53:48Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
@@ -5994,7 +5990,7 @@
   Availability: Available
   Price: $0.00 USD
 - [LET001](https://www.moonglow.com/products/let001)
-  Updated: 2025-10-08T15:23:57Z
+  Updated: 2025-10-09T03:10:27Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
@@ -6059,7 +6055,7 @@
     Availability: Available
     Price: $0.00 USD
 - [SS-BRA-CURB](https://www.moonglow.com/products/ss-bra-curb)
-  Updated: 2025-10-08T14:23:50Z
+  Updated: 2025-10-09T02:53:52Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
@@ -6137,7 +6133,7 @@
   Availability: Available
   Price: $0.00 USD
 - [YG-BRA-CURB-SM](https://www.moonglow.com/products/yg-bra-curb-sm)
-  Updated: 2025-10-01T16:09:34Z
+  Updated: 2025-10-08T23:53:48Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
@@ -6149,13 +6145,13 @@
   Availability: Available
   Price: $0.00 USD
 - [SM-18](https://www.moonglow.com/products/sm-18)
-  Updated: 2025-10-08T17:00:47Z
+  Updated: 2025-10-09T02:34:11Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
   Price: $0.00 USD
 - [FS10-DROP-PK](https://www.moonglow.com/products/fs10-drop-pk)
-  Updated: 2025-10-08T17:09:43Z
+  Updated: 2025-10-09T02:53:50Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
@@ -6322,7 +6318,7 @@
     Availability: Available
     Price: $49.00 USD
 - [Purple Moon Orion Necklace](https://www.moonglow.com/products/new-moon-orion-necklace-copy): The Purple Moon Orion Necklace captures the mystery of the night sky with a purple full moon image at its center. Crafted in stainless steel with a black matte coating finish, this limited-edition necklace brings a bold yet refined edge to your seasonal style. Versatile chain options and a durable clasp make it ideal for both daily wear and special occasions.• 10 mm purple full moon image• Stainless steel with black matte coating finish• Chain options: 24-inch box chain or 18/19-inch adjustable chain• Lobster clasp closure
-  Updated: 2025-10-08T18:08:13Z
+  Updated: 2025-10-09T03:44:18Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
@@ -6334,7 +6330,7 @@
     Availability: Available
     Price: $55.00 USD
 - [Purple Moon Carina Twist in Black Matte](https://www.moonglow.com/products/purple-moon-carina-twist-bracelet-in-black-matte): The Purple Moon Carina Twist Bracelet brings a touch of cosmic charm to your Halloween season. Featuring a purple full moon image set in sleek black matte stainless steel, this limited-edition design balances celestial elegance with everyday wearability. Two delicate rhinestone crystals accent the ends of the adjustable chain, adding just the right hint of sparkle.• 10 mm purple full moon image• Stainless steel with black matte finish• Adjustable sliding bead closure• Fits wrists from 6 inches to 9.5 inches• Two rhinestone crystal accents at the ends of the chain
-  Updated: 2025-10-08T18:08:10Z
+  Updated: 2025-10-09T03:47:13Z
   Vendor: Moonglow Jewelry
   Product Type: Bracelets
   Availability: Available
@@ -6347,16 +6343,16 @@
   Updated: 2025-09-08T04:42:01Z
   Total Products: 0
 - [Jewelry For Women | Moonglow Jewelry](https://www.moonglow.com/collections/women): Unique and special jewelry for women. Celebrate a milestone or an everyday occasion with a Moonglow piece of jewelry that fits your personality and style.
-  Updated: 2025-10-08T11:04:48Z
+  Updated: 2025-10-09T01:48:14Z
   Total Products: 233
 - [Necklaces, Bracelets & Key Rings | Men’s](https://www.moonglow.com/collections/men): Browse our men's moon jewelry collection featuring chains, bracelets, cufflinks, and key rings. The perfect gift for adventurous men who dare to be different.
-  Updated: 2025-10-08T11:04:48Z
-  Total Products: 31
+  Updated: 2025-10-08T22:27:19Z
+  Total Products: 32
 - [Moonlight Jewelry Collection | Moonglow](https://www.moonglow.com/collections/moonlight-collection): Moonlight jewelry collection of pendants, necklaces, and chain are easy to customize. Simply select a special day you want to remember like a birthday, wedding, or anniversary, and then order in seconds.
   Updated: 2025-10-08T11:04:48Z
   Total Products: 4
 - [Mini And Skinny Moon Jewelry | Moonglow](https://www.moonglow.com/collections/mini-moon-collection): Mini Moon Collection, earrings, necklaces, and rings--oh my! Our mini moon collection is out of this world, and it's the perfect way to bring your style to the next level. Accessorizing has never been easier than it is now with these customizable jewelry pieces.
-  Updated: 2025-10-08T19:58:16Z
+  Updated: 2025-10-09T03:26:25Z
   Total Products: 34
 - [Womens Choker Necklaces | Moonglow Jewelry](https://www.moonglow.com/collections/choker-necklaces): With Moonglow’s women’s choker necklaces collection, you can wear a necklace that is stylish, trendy, and has a special meaning that only you know.
   Updated: 2025-10-08T14:11:21Z
@@ -6365,19 +6361,19 @@
   Updated: 2025-10-07T13:24:15Z
   Total Products: 3
 - [Gold Moon Jewelry](https://www.moonglow.com/collections/gold-jewelry): Uncover the beauty and meaning of gold jewelry with Moonglow's Golden Memories collection. Perfect for cherished memories and unique moments.
-  Updated: 2025-10-08T18:56:22Z
+  Updated: 2025-10-08T23:55:47Z
   Total Products: 49
 - [Jewelry Gift For Special Moment | Moonglow](https://www.moonglow.com/collections/jewelry-gifts): Select the perfect moon phase jewelry gift for special moments. Moonglow offers meaningful moment with our artisan-crafted moon jewelry gift for men and women.
   Updated: 2025-10-08T11:04:48Z
   Total Products: 110
 - [Personalized Women’s Moon Necklaces](https://www.moonglow.com/collections/womens-necklaces-old): Moon Necklaces are perfect gifts for women who have everything, even a deep connection with the cosmos. Personalized with the moon from any date of your choice.
-  Updated: 2025-10-08T19:58:16Z
+  Updated: 2025-10-09T03:26:25Z
   Total Products: 65
 - [Charm Bracelets For Women](https://www.moonglow.com/collections/womens-bracelets): We offer a wide range of moon charm bracelets for women that are perfect for any occasion. Choose from stainless steel, pewter, gold, silver, or rose gold.
   Updated: 2025-10-08T11:04:48Z
   Total Products: 93
 - [Get a Moon Ring With Your Chosen Moon Phase](https://www.moonglow.com/collections/rings): Indulge your wanderlust with a Moonglow ring. Simple yet timeless, our moon rings mix art and utility. Get one for yourself or gift it to someone special.
-  Updated: 2025-10-08T19:56:30Z
+  Updated: 2025-10-09T03:25:41Z
   Total Products: 22
 - [Moon Chains Collection](https://www.moonglow.com/collections/chains): Our timeless moon chain collection features pieces made with outstanding attention to detail. Find chains in a variety of lengths, designs, and finishings.
   Updated: 2025-10-08T11:04:48Z
@@ -6389,7 +6385,7 @@
   Updated: 2025-09-08T04:42:02Z
   Total Products: 3
 - [Bangle Moon Bracelets](https://www.moonglow.com/collections/bangle-bracelets): A moon bracelet adds a perfect accent to any outfit. Delicate and subtle, these jewelry bracelets are a statement of love, style, and affection.
-  Updated: 2025-10-08T16:55:33Z
+  Updated: 2025-10-09T03:25:36Z
   Total Products: 107
 - [Custom Mens Necklaces With Moon Phase | Moonglow](https://www.moonglow.com/collections/mens-necklaces): Modern, masculine and uniquely personal collection of mens necklaces with moon phase at Moonglow. These personalized mens necklaces are designed to inspire the imagination and stir the soul.
   Updated: 2025-10-08T11:04:48Z
@@ -6410,7 +6406,7 @@
   Updated: 2025-10-08T11:04:48Z
   Total Products: 65
 - [Womens Necklaces | Moonglow](https://www.moonglow.com/collections/womens-necklaces): Moon phase necklaces that hold your moments.
-  Updated: 2025-10-08T19:58:16Z
+  Updated: 2025-10-09T03:26:25Z
   Total Products: 117
 - [Moonphase | Moonglow](https://www.moonglow.com/collections/moon-phase)
   Updated: 2025-10-08T11:04:48Z
@@ -6449,7 +6445,7 @@
   Updated: 2025-10-08T11:04:48Z
   Total Products: 46
 - [Shop + Save | Moonglow](https://www.moonglow.com/collections/shop-and-save): Shop and use your discount code to save.
-  Updated: 2025-10-08T11:04:48Z
+  Updated: 2025-10-09T01:48:14Z
   Total Products: 152
 - [POS | Moonglow](https://www.moonglow.com/collections/pos)
   Updated: 2025-09-25T11:56:19Z
@@ -6461,7 +6457,7 @@
   Updated: 2025-10-07T14:05:05Z
   Total Products: 5
 - [Moon Phase Jewelry](https://www.moonglow.com/collections/jewelry): Moonglow’s moon phase jewelry is a unique and exciting way to connect with the moon and everyone around us. Designed to keep your memories alive.
-  Updated: 2025-10-08T19:58:16Z
+  Updated: 2025-10-09T03:26:25Z
   Total Products: 359
 - [Many Moments | Moonglow](https://www.moonglow.com/collections/many-moments): Every Moon, a Different Meaning.
   Updated: 2025-10-08T11:04:48Z
@@ -6470,7 +6466,7 @@
   Updated: 2025-10-08T11:04:48Z
   Total Products: 2
 - [Active Products | Moonglow](https://www.moonglow.com/collections/active-products): All products that are active on the Online Store Excludes upcoming discontinued list
-  Updated: 2025-10-08T11:04:48Z
+  Updated: 2025-10-09T01:48:14Z
   Total Products: 125
 - [Friday the 13th | Moonglow](https://www.moonglow.com/collections/friday-the-13th)
   Updated: 2025-10-08T11:04:48Z
@@ -6482,7 +6478,7 @@
   Updated: 2025-09-08T04:42:03Z
   Total Products: 0
 - [Just Landed | New Products | Moonglow](https://www.moonglow.com/collections/just-landed): Hot off the press, fresh out of the oven––you get it. Here are all things brand spankin’ new at Moonglow. Be one of the first to grab our newest products. Who knows, they may not be here for long…
-  Updated: 2025-10-08T11:04:48Z
+  Updated: 2025-10-09T01:48:14Z
   Total Products: 78
 - [We Think You'd Like | Moonglow](https://www.moonglow.com/collections/we-think-youd-like)
   Updated: 2025-09-08T04:42:03Z
@@ -6512,10 +6508,10 @@
   Updated: 2025-09-25T11:56:20Z
   Total Products: 0
 - [For Us](https://www.moonglow.com/collections/for-us)
-  Updated: 2025-10-08T11:04:48Z
+  Updated: 2025-10-09T01:48:14Z
   Total Products: 49
 - [Black Friday 25](https://www.moonglow.com/collections/black-friday-25)
-  Updated: 2025-10-08T11:04:48Z
+  Updated: 2025-10-09T01:48:14Z
   Total Products: 77
 - [SHOP Holiday Deals](https://www.moonglow.com/collections/christmas-sale)
   Updated: 2025-10-08T11:04:48Z
@@ -6533,7 +6529,7 @@
   Updated: 2025-09-25T11:56:20Z
   Total Products: 0
 - [St. Patrick's Day Sale](https://www.moonglow.com/collections/st-patricks-day-sale)
-  Updated: 2025-10-08T18:14:10Z
+  Updated: 2025-10-09T01:48:14Z
   Total Products: 320
 - [*Old - Beaded Bracelets](https://www.moonglow.com/collections/beaded-bracelets)
   Updated: 2025-10-08T11:04:48Z
@@ -6542,16 +6538,16 @@
   Updated: 2025-10-08T11:04:48Z
   Total Products: 6
 - [Engravable Jewelry](https://www.moonglow.com/collections/engravable-leg): Moonglow’s engravable jewelry is the perfect way to celebrate meaningful moments. Customize your piece with an engravable word or date and a lunar phase.
-  Updated: 2025-10-08T19:56:30Z
+  Updated: 2025-10-09T03:25:41Z
   Total Products: 166
 - [*Old - Summer Sale](https://www.moonglow.com/collections/summer-sale)
   Updated: 2025-09-08T04:42:04Z
   Total Products: 0
 - [Sitewide Sale](https://www.moonglow.com/collections/sitewide-sale)
-  Updated: 2025-10-08T18:14:10Z
+  Updated: 2025-10-09T01:48:14Z
   Total Products: 320
 - [Gifts Under $50](https://www.moonglow.com/collections/gifts-under-50)
-  Updated: 2025-10-08T19:56:31Z
+  Updated: 2025-10-09T03:25:41Z
   Total Products: 259
 - [Engravables-old](https://www.moonglow.com/collections/engravables-old)
   Updated: 2025-10-08T11:04:48Z
@@ -6563,7 +6559,7 @@
   Updated: 2025-10-07T11:04:50Z
   Total Products: 5
 - [*Old - National Family Day](https://www.moonglow.com/collections/national-family-day-1)
-  Updated: 2025-10-08T11:04:48Z
+  Updated: 2025-10-09T01:48:14Z
   Total Products: 47
 - [Beautiful Jewelry For Boyfriend’s Day](https://www.moonglow.com/collections/national-boyfriends-day): On National Boyfriend's Day, show your man how much you appreciate him with a jewelry gift from Moonglow. Personalize your piece with a date of your choice.
   Updated: 2025-10-08T11:04:48Z
@@ -6575,7 +6571,7 @@
   Updated: 2025-10-08T11:04:48Z
   Total Products: 25
 - [*Old - Sitewide Black Friday Sale Collection](https://www.moonglow.com/collections/sitewide-black-friday-sale-collection)
-  Updated: 2025-10-08T11:04:48Z
+  Updated: 2025-10-09T01:48:14Z
   Total Products: 83
 - [Holiday Deals | Jewelry On Sale](https://www.moonglow.com/collections/holiday-deals): Introducing our latest stylish pieces, now on holiday sale. All our jewelry pieces feature unique designs that are sure to turn heads. Shop yours here!
   Updated: 2025-10-08T18:15:08Z
@@ -6584,7 +6580,7 @@
   Updated: 2025-09-08T04:42:05Z
   Total Products: 1
 - [Free Birthstone Bracelet with Purchase of $100+](https://www.moonglow.com/collections/free-birthstone-bracelet-with-purchase-of-100)
-  Updated: 2025-10-08T11:04:48Z
+  Updated: 2025-10-09T01:48:14Z
   Total Products: 137
 - [Waning Gibbous](https://www.moonglow.com/collections/waning-gibbous)
   Updated: 2025-10-08T11:04:48Z
@@ -6614,7 +6610,7 @@
   Updated: 2025-10-08T11:04:48Z
   Total Products: 24
 - [Celebrate Friendship](https://www.moonglow.com/collections/friendship)
-  Updated: 2025-10-08T11:04:48Z
+  Updated: 2025-10-09T01:48:14Z
   Total Products: 42
 - [New Mom](https://www.moonglow.com/collections/new-mom)
   Updated: 2025-10-08T11:04:48Z
@@ -6635,22 +6631,22 @@
   Updated: 2025-10-08T11:04:48Z
   Total Products: 2
 - [shop-all](https://www.moonglow.com/collections/shop-all)
-  Updated: 2025-10-08T18:14:10Z
+  Updated: 2025-10-09T01:48:14Z
   Total Products: 478
 - [*Old - soldout](https://www.moonglow.com/collections/soldout)
-  Updated: 2025-10-08T19:58:16Z
+  Updated: 2025-10-09T03:26:26Z
   Total Products: 157
 - [Smart Products Filter Index - Do not delete](https://www.moonglow.com/collections/globofilter-best-selling-products-index)
-  Updated: 2025-10-08T18:14:10Z
+  Updated: 2025-10-09T01:48:14Z
   Total Products: 580
 - [Bundle & Save](https://www.moonglow.com/collections/bundles)
   Updated: 2025-10-06T21:14:27Z
   Total Products: 42
 - [Gifts Under $100](https://www.moonglow.com/collections/gifts-under-100)
-  Updated: 2025-10-08T19:56:31Z
+  Updated: 2025-10-09T03:25:42Z
   Total Products: 378
 - [Gifts Under $200](https://www.moonglow.com/collections/under-200)
-  Updated: 2025-10-08T19:58:16Z
+  Updated: 2025-10-09T03:26:26Z
   Total Products: 450
 - [Engravable Pendant](https://www.moonglow.com/collections/engraved-on-back)
   Updated: 2025-10-08T11:04:48Z
@@ -6713,7 +6709,7 @@
   Updated: 2025-10-06T21:14:28Z
   Total Products: 33
 - [Boost All](https://www.moonglow.com/collections/boost-all)
-  Updated: 2025-10-08T18:14:10Z
+  Updated: 2025-10-09T01:48:14Z
   Total Products: 478
 - [Moon and Stars](https://www.moonglow.com/collections/my-moon-and-stars): Combine your moon phase and ruling constellation to capture the night sky from the date you were born with the Moon and Stars collection! Our signature beautiful moon phase jewelry combines with the constellation of your astrological sign to make you birth date glow!
   Updated: 2025-10-06T21:14:28Z
@@ -6755,7 +6751,7 @@
   Updated: 2025-10-06T21:23:14Z
   Total Products: 3
 - [Many Moon Bracelets](https://www.moonglow.com/collections/many-moon-bracelets): Celebrate all of life's Moments with bracelets that capture more than just one special day!
-  Updated: 2025-10-08T11:04:48Z
+  Updated: 2025-10-09T01:48:14Z
   Total Products: 30
 - [Astral Bracelets](https://www.moonglow.com/collections/astral-bracelets): Celebrate the astrology lover in your life with our Astral Bracelets! Capture their constellation from their moon sign.
   Updated: 2025-10-06T21:14:29Z
@@ -6791,10 +6787,10 @@
   Updated: 2025-10-06T21:14:29Z
   Total Products: 0
 - [Last Call](https://www.moonglow.com/collections/last-call): Some of our favorite moon phase jewelry is in its final phase. Get your favorite moments while you can!
-  Updated: 2025-10-08T19:58:16Z
+  Updated: 2025-10-09T03:26:26Z
   Total Products: 6
 - [Be My Valentine](https://www.moonglow.com/collections/be-my-valentine): Find the perfect moon phase gift for your Valentine – or Galentine! – with Moonglow! From new perfectly paired his and hers moon jewelry sets to our most loved styles, find the perfect gift or be inspired today!
-  Updated: 2025-10-08T11:04:48Z
+  Updated: 2025-10-09T01:48:14Z
   Total Products: 72
 - [Astral Necklaces](https://www.moonglow.com/collections/astral-necklaces): Capture your star sign with our astrological constellation necklaces! With beautiful blue sky and bright stars let your ruling constelation glow bright.
   Updated: 2025-10-06T21:14:29Z
@@ -6824,7 +6820,7 @@
   Updated: 2025-10-06T21:14:30Z
   Total Products: 1
 - [Engravable](https://www.moonglow.com/collections/engravable): Customize your moon phase jewelry with words from the heart with our engravable tags!
-  Updated: 2025-10-08T18:14:10Z
+  Updated: 2025-10-08T21:12:28Z
   Total Products: 229
 - [Engravable Gold Jewelry](https://www.moonglow.com/collections/engravable-gold-jewelry)
   Updated: 2025-10-08T11:04:48Z
@@ -6851,10 +6847,10 @@
   Updated: 2025-10-06T21:14:30Z
   Total Products: 3
 - [Non core](https://www.moonglow.com/collections/non-core)
-  Updated: 2025-10-08T18:14:10Z
+  Updated: 2025-10-09T01:48:14Z
   Total Products: 320
 - [Anniversary Sale](https://www.moonglow.com/collections/anniversary-sale)
-  Updated: 2025-10-08T18:14:10Z
+  Updated: 2025-10-09T01:48:14Z
   Total Products: 137
 - [Nautical Summer](https://www.moonglow.com/collections/nautical-summer)
   Updated: 2025-10-08T11:04:48Z
@@ -6887,22 +6883,22 @@
   Updated: 2025-10-08T11:04:48Z
   Total Products: 4
 - [Thanksgiving Promo Deals](https://www.moonglow.com/collections/thanksgiving-promo-deals)
-  Updated: 2025-10-08T11:04:48Z
+  Updated: 2025-10-09T01:48:14Z
   Total Products: 34
 - [The Chloé Caroline Edit](https://www.moonglow.com/collections/the-chloe-caroline-edit)
   Updated: 2025-10-08T11:04:48Z
   Total Products: 11
 - [Soulmate](https://www.moonglow.com/collections/soulmate)
-  Updated: 2025-10-08T11:04:48Z
+  Updated: 2025-10-09T01:48:14Z
   Total Products: 31
 - [Product Feed Collection](https://www.moonglow.com/collections/product-feed-collection): Our collection for our Moonglow product feeds.
-  Updated: 2025-10-08T11:04:48Z
+  Updated: 2025-10-09T01:48:14Z
   Total Products: 95
 - [Shop All](https://www.moonglow.com/collections/gemstone-jewelry)
   Updated: 2025-10-08T11:04:48Z
   Total Products: 5
 - [Wedding](https://www.moonglow.com/collections/wedding)
-  Updated: 2025-10-08T18:14:10Z
+  Updated: 2025-10-09T01:48:14Z
   Total Products: 89
 - [Secret](https://www.moonglow.com/collections/secret)
   Updated: 2025-10-08T11:04:48Z
@@ -6926,7 +6922,7 @@
   Updated: 2025-10-08T11:04:48Z
   Total Products: 12
 - [Products](https://www.moonglow.com/collections/all)
-  Updated: 2025-10-08T18:14:10Z
+  Updated: 2025-10-09T01:48:14Z
   Total Products: 478
 - [The Blue Moon](https://www.moonglow.com/collections/the-blue-moon)
   Updated: 2025-09-25T11:56:50Z
@@ -6953,7 +6949,7 @@
   Updated: 2025-10-08T11:04:48Z
   Total Products: 35
 - [Cyber Monday Sale](https://www.moonglow.com/collections/bf-2023)
-  Updated: 2025-10-08T18:14:10Z
+  Updated: 2025-10-09T01:48:14Z
   Total Products: 455
 - [SALE 40% OFF AND ABOVE](https://www.moonglow.com/collections/40off)
   Updated: 2025-10-08T11:04:48Z
@@ -6998,10 +6994,10 @@
   Updated: 2025-10-08T11:04:48Z
   Total Products: 16
 - [Cosmic Intentions Collection](https://www.moonglow.com/collections/cosmos-intentions-collection)
-  Updated: 2025-10-06T21:14:31Z
+  Updated: 2025-10-08T21:44:25Z
   Total Products: 7
 - [Planets](https://www.moonglow.com/collections/planets)
-  Updated: 2025-10-06T21:14:31Z
+  Updated: 2025-10-08T21:48:28Z
   Total Products: 8
 - [Buy one get one half off](https://www.moonglow.com/collections/buy-one-get-one-half-off)
   Updated: 2025-09-25T11:56:52Z
@@ -7037,10 +7033,10 @@
   Updated: 2025-10-08T11:04:48Z
   Total Products: 64
 - [Terra Luna Collection](https://www.moonglow.com/collections/terra-luna-collection)
-  Updated: 2025-10-07T11:04:50Z
+  Updated: 2025-10-09T01:48:14Z
   Total Products: 16
 - [Friendship Jewelry](https://www.moonglow.com/collections/friendship-jewelry)
-  Updated: 2025-09-25T11:56:22Z
+  Updated: 2025-10-09T01:48:14Z
   Total Products: 7
 - [Harvest Moon Deals](https://www.moonglow.com/collections/harvest-moon-deals)
   Updated: 2025-10-08T11:04:48Z
@@ -7085,7 +7081,7 @@
   Updated: 2025-10-08T11:04:48Z
   Total Products: 13
 - [black onyx jewelry](https://www.moonglow.com/collections/black-onyx-jewelry)
-  Updated: 2025-10-08T11:04:48Z
+  Updated: 2025-10-08T21:44:25Z
   Total Products: 12
 - [Rose Quartz Ring](https://www.moonglow.com/collections/rose-quartz-ring)
   Updated: 2025-10-08T11:04:48Z
@@ -7157,16 +7153,16 @@
   Updated: 2025-10-08T18:14:10Z
   Total Products: 25
 - [Moonglow Prime Deals](https://www.moonglow.com/collections/moonglow-prime-deals)
-  Updated: 2025-10-08T18:14:10Z
+  Updated: 2025-10-08T21:44:25Z
   Total Products: 38
 - [free travel case collection](https://www.moonglow.com/collections/free-travel-case-collection)
-  Updated: 2025-10-08T18:14:10Z
+  Updated: 2025-10-08T21:44:25Z
   Total Products: 118
 - [In Memory](https://www.moonglow.com/collections/in-memory)
   Updated: 2025-10-08T11:04:48Z
   Total Products: 26
 - [Active Products Inteligent](https://www.moonglow.com/collections/active-products-inteligent)
-  Updated: 2025-10-08T18:14:10Z
+  Updated: 2025-10-09T01:48:14Z
   Total Products: 478
 - [back-to-school-favorite](https://www.moonglow.com/collections/back-to-school-favorite)
   Updated: 2025-10-08T11:04:48Z
@@ -7178,7 +7174,7 @@
   Updated: 2025-10-08T11:04:48Z
   Total Products: 35
 - [Labor Day Sale](https://www.moonglow.com/collections/labor-day-sale)
-  Updated: 2025-10-08T18:14:10Z
+  Updated: 2025-10-08T21:44:25Z
   Total Products: 29
 - [Harvest Glow Collection](https://www.moonglow.com/collections/harvest-glow-collection-page)
   Updated: 2025-10-08T11:04:48Z
@@ -7187,8 +7183,8 @@
   Updated: 2025-10-08T11:04:48Z
   Total Products: 14
 - [ALL ACTIVE PRODCTS - NOT PINK](https://www.moonglow.com/collections/all-active-prodcts-not-pink)
-  Updated: 2025-10-08T18:14:10Z
-  Total Products: 456
+  Updated: 2025-10-09T01:48:14Z
+  Total Products: 457
 - [Glow In The Dark Collection](https://www.moonglow.com/collections/glow-in-the-dark-collection)
   Updated: 2025-10-08T11:04:48Z
   Total Products: 40
@@ -7208,8 +7204,8 @@
   Updated: 2025-10-06T23:33:18Z
   Total Products: 0
 - [New Arrivals](https://www.moonglow.com/collections/new-arrivals): Hot off the press, fresh out of the oven––you get it. Here are all things brand spankin’ new at Moonglow. Be one of the first to grab our newest products. Who knows, they may not be here for long…
-  Updated: 2025-10-06T23:36:43Z
-  Total Products: 0
+  Updated: 2025-10-09T01:50:19Z
+  Total Products: 19
 
 ## Blogs
 
