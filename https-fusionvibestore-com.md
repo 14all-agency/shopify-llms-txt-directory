@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-09-05T06:24:05Z
 - Contact Email: fusionvibestoreofficial@gmail.com
-- Updated At: 2025-10-09T12:00:29.553Z
+- Updated At: 2025-10-09T20:00:29.723Z
 
 ## Products
 
@@ -1156,7 +1156,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/1207903256782.jpg?v=1759899171
     Price: $52.00 USD
 - [LED Night Light Folding Book Light USB Port Rechargeable Wooden Magnet  Lamp](https://fusionvibestore.com/products/led-night-light-folding-book-light-usb-port-rechargeable-wooden-magnet-lamp): Features: *Charging easily: Users can charge the book light easily with any USB port devices; *Book Design: The book design light is really a great decoration for home, desk, table, bookcase, ceiling, etc. *Open freely: 360 degree open design, users can open the book at preferred angle; Open-off to change color; *Good durability: DuPont Tyvek delivers unparalleled strength in an ultra-lightweight paper material. *Portable and small, just bring wireless book anywhere you like; *Tender and changing color light on and beautify your life; *Amazing gift for your families, friends, lover etc. NOTE: Open and Close the book to get Color Changing Specifications: Name: led wooden cover book lamp Color: white/warm white Working voltage: 300mA DC5V Battery voltage: 3.7V/2500mA Charge voltage: 5V/500mA Charging time: 5H Working time: 8H Charging status: red light means charging, blue color means done Material: walnut cover/white maple cover + Dupont tear-resistant paper of united states Dimmer: no Book size: 215 * 165* 30mm(L * W * H) Item weight: 375g Package list: 1 * LED Book Light 1 * USB Cable
-  Updated: 2025-10-09T07:26:18Z
+  Updated: 2025-10-09T18:56:33Z
   Vendor: z60ja0-0n
   Product Type: Gadgets
   Availability: Available
@@ -1170,7 +1170,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/1311429722600.jpg?v=1759992992
     Price: $48.13 USD
 - [Wireless Charger Solar Portable Power Source](https://fusionvibestore.com/products/wireless-charger-solar-portable-power-source): Product information: Color: red and black, orange Black, Black green, blue black, black, 2401 orange Black, 2401 green black, 2401 Blue Black, 2401 Black Shell Material: Plastic Function: Solar energy Size: 173*89 * 28mm Packing list: Power Bank X1 Product Image:
-  Updated: 2025-10-09T08:28:14Z
+  Updated: 2025-10-09T19:57:35Z
   Vendor: z60ja0-0n
   Product Type: Gadgets
   Availability: Available
