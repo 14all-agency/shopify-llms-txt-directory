@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-10-03T06:30:37Z
 - Contact Email: mandiemaddox@mystichiddengem.com
-- Updated At: 2025-10-09T04:00:28.584Z
+- Updated At: 2025-10-09T16:00:27.737Z
 
 ## Products
 
@@ -714,6 +714,249 @@
   Product Type: All Over Prints
   Availability: Available
   Price: $57.70 USD
+- [Love Lost Skeletons Mens  Long Sleeve Tee](https://lachrymalgems.store/products/love-lost-skeletons-mens-long-sleeve-tee): XS S M L XL 2XL 3XL 4XL Width, in 17.50 19.00 20.50 22.00 23.50 25.00 27.00 29.00 Length, in 27.00 28.00 29.00 30.00 31.00 32.00 32.50 33.00 Sleeve Length, in 34.25 35.00 35.75 36.50 37.25 38.00 38.75 39.50 Size Tolerance, in 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 This Long Sleeve Tee features a dark and emotive design with themes of lost skeletons, gods hands, and heartbreak. Perfect for those who appreciate emo vibes, cloud rap, dark aesthetics, and glitch aesthetics. Ideal for those who enjoy expressing their emotions through their clothing. Relevant for Halloween, emo culture events, and music festivals.Product features- Shoulder taped for stability- Ribbed-knit cuffs and collar for elasticity- Tear-away label for comfort- Made from 60% cotton, 40% polyester for a pleasant feel- 1x1 rib knit neck and cuffs for durabilityCare instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Iron, team or dry: medium heat- Do not dryclean
+  Updated: 2025-10-09T15:26:48Z
+  Vendor: Printify
+  Product Type: Long-sleeve
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/1760022528462.webp?v=1760023608
+  - [XS / Black](https://lachrymalgems.store/products/love-lost-skeletons-mens-long-sleeve-tee?variant=47109912854773)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/17520310768837257486_2048.jpg?v=1760023608
+    Price: $42.64 USD
+  - [XS / Grey Frost](https://lachrymalgems.store/products/love-lost-skeletons-mens-long-sleeve-tee?variant=47109912887541)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/13135556902623223657_2048_f603247f-01ba-496e-85cf-a47d3ea8d921.jpg?v=1760023608
+    Price: $42.64 USD
+  - [XS / Heathered Charcoal](https://lachrymalgems.store/products/love-lost-skeletons-mens-long-sleeve-tee?variant=47109912920309)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/13135556902623223657_2048_427bbc0e-dc2f-4e57-9630-ac46902b583f.jpg?v=1760023608
+    Price: $42.64 USD
+  - [XS / Heathered Navy](https://lachrymalgems.store/products/love-lost-skeletons-mens-long-sleeve-tee?variant=47109912953077)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/13135556902623223657_2048_b1e23ff8-d953-42f8-bd8e-28d702025f17.jpg?v=1760023608
+    Price: $42.64 USD
+  - [XS / Heathered Royal](https://lachrymalgems.store/products/love-lost-skeletons-mens-long-sleeve-tee?variant=47109912985845)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/13135556902623223657_2048_9336f76f-cf03-4ad1-abc4-87eec821c37f.jpg?v=1760023608
+    Price: $42.64 USD
+  - [XS / Light Heather Grey](https://lachrymalgems.store/products/love-lost-skeletons-mens-long-sleeve-tee?variant=47109913018613)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/13135556902623223657_2048_8fd31402-a479-4222-95ab-6622d69d54a4.jpg?v=1760023608
+    Price: $42.64 USD
+  - [XS / White](https://lachrymalgems.store/products/love-lost-skeletons-mens-long-sleeve-tee?variant=47109913051381)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/13520298650863613194_2048.jpg?v=1760023608
+    Price: $42.64 USD
+  - [XS / Charcoal](https://lachrymalgems.store/products/love-lost-skeletons-mens-long-sleeve-tee?variant=47109913084149)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/13135556902623223657_2048.jpg?v=1760023608
+    Price: $42.64 USD
+  - [XS / Heathered Teal](https://lachrymalgems.store/products/love-lost-skeletons-mens-long-sleeve-tee?variant=47109913116917)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/13135556902623223657_2048_93771282-c878-46cb-b586-34c733fcd6b1.jpg?v=1760023608
+    Price: $42.64 USD
+  - [S / Black](https://lachrymalgems.store/products/love-lost-skeletons-mens-long-sleeve-tee?variant=47109913149685)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/17520310768837257486_2048.jpg?v=1760023608
+    Price: $42.64 USD
+  - [S / Grey Frost](https://lachrymalgems.store/products/love-lost-skeletons-mens-long-sleeve-tee?variant=47109913182453)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/13135556902623223657_2048_f603247f-01ba-496e-85cf-a47d3ea8d921.jpg?v=1760023608
+    Price: $42.64 USD
+  - [S / Heathered Charcoal](https://lachrymalgems.store/products/love-lost-skeletons-mens-long-sleeve-tee?variant=47109913215221)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/13135556902623223657_2048_427bbc0e-dc2f-4e57-9630-ac46902b583f.jpg?v=1760023608
+    Price: $42.64 USD
+  - [S / Heathered Navy](https://lachrymalgems.store/products/love-lost-skeletons-mens-long-sleeve-tee?variant=47109913247989)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/13135556902623223657_2048_b1e23ff8-d953-42f8-bd8e-28d702025f17.jpg?v=1760023608
+    Price: $42.64 USD
+  - [S / Heathered Royal](https://lachrymalgems.store/products/love-lost-skeletons-mens-long-sleeve-tee?variant=47109913280757)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/13135556902623223657_2048_9336f76f-cf03-4ad1-abc4-87eec821c37f.jpg?v=1760023608
+    Price: $42.64 USD
+  - [S / Light Heather Grey](https://lachrymalgems.store/products/love-lost-skeletons-mens-long-sleeve-tee?variant=47109913313525)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/13135556902623223657_2048_8fd31402-a479-4222-95ab-6622d69d54a4.jpg?v=1760023608
+    Price: $42.64 USD
+  - [S / White](https://lachrymalgems.store/products/love-lost-skeletons-mens-long-sleeve-tee?variant=47109913346293)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/13520298650863613194_2048.jpg?v=1760023608
+    Price: $42.64 USD
+  - [S / Charcoal](https://lachrymalgems.store/products/love-lost-skeletons-mens-long-sleeve-tee?variant=47109913379061)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/13135556902623223657_2048.jpg?v=1760023608
+    Price: $42.64 USD
+  - [S / Heathered Teal](https://lachrymalgems.store/products/love-lost-skeletons-mens-long-sleeve-tee?variant=47109913411829)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/13135556902623223657_2048_93771282-c878-46cb-b586-34c733fcd6b1.jpg?v=1760023608
+    Price: $42.64 USD
+  - [M / Black](https://lachrymalgems.store/products/love-lost-skeletons-mens-long-sleeve-tee?variant=47109913444597)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/17520310768837257486_2048.jpg?v=1760023608
+    Price: $42.64 USD
+  - [M / Grey Frost](https://lachrymalgems.store/products/love-lost-skeletons-mens-long-sleeve-tee?variant=47109913477365)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/13135556902623223657_2048_f603247f-01ba-496e-85cf-a47d3ea8d921.jpg?v=1760023608
+    Price: $42.64 USD
+  - [M / Heathered Charcoal](https://lachrymalgems.store/products/love-lost-skeletons-mens-long-sleeve-tee?variant=47109913510133)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/13135556902623223657_2048_427bbc0e-dc2f-4e57-9630-ac46902b583f.jpg?v=1760023608
+    Price: $42.64 USD
+  - [M / Heathered Navy](https://lachrymalgems.store/products/love-lost-skeletons-mens-long-sleeve-tee?variant=47109913542901)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/13135556902623223657_2048_b1e23ff8-d953-42f8-bd8e-28d702025f17.jpg?v=1760023608
+    Price: $42.64 USD
+  - [M / Heathered Royal](https://lachrymalgems.store/products/love-lost-skeletons-mens-long-sleeve-tee?variant=47109913575669)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/13135556902623223657_2048_9336f76f-cf03-4ad1-abc4-87eec821c37f.jpg?v=1760023608
+    Price: $42.64 USD
+  - [M / Light Heather Grey](https://lachrymalgems.store/products/love-lost-skeletons-mens-long-sleeve-tee?variant=47109913608437)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/13135556902623223657_2048_8fd31402-a479-4222-95ab-6622d69d54a4.jpg?v=1760023608
+    Price: $42.64 USD
+  - [M / White](https://lachrymalgems.store/products/love-lost-skeletons-mens-long-sleeve-tee?variant=47109913641205)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/13520298650863613194_2048.jpg?v=1760023608
+    Price: $42.64 USD
+  - [M / Charcoal](https://lachrymalgems.store/products/love-lost-skeletons-mens-long-sleeve-tee?variant=47109913673973)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/13135556902623223657_2048.jpg?v=1760023608
+    Price: $42.64 USD
+  - [M / Heathered Teal](https://lachrymalgems.store/products/love-lost-skeletons-mens-long-sleeve-tee?variant=47109913706741)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/13135556902623223657_2048_93771282-c878-46cb-b586-34c733fcd6b1.jpg?v=1760023608
+    Price: $42.64 USD
+  - [L / Black](https://lachrymalgems.store/products/love-lost-skeletons-mens-long-sleeve-tee?variant=47109913739509)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/17520310768837257486_2048.jpg?v=1760023608
+    Price: $42.64 USD
+  - [L / Grey Frost](https://lachrymalgems.store/products/love-lost-skeletons-mens-long-sleeve-tee?variant=47109913772277)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/13135556902623223657_2048_f603247f-01ba-496e-85cf-a47d3ea8d921.jpg?v=1760023608
+    Price: $42.64 USD
+  - [L / Heathered Charcoal](https://lachrymalgems.store/products/love-lost-skeletons-mens-long-sleeve-tee?variant=47109913805045)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/13135556902623223657_2048_427bbc0e-dc2f-4e57-9630-ac46902b583f.jpg?v=1760023608
+    Price: $42.64 USD
+  - [L / Heathered Navy](https://lachrymalgems.store/products/love-lost-skeletons-mens-long-sleeve-tee?variant=47109913837813)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/13135556902623223657_2048_b1e23ff8-d953-42f8-bd8e-28d702025f17.jpg?v=1760023608
+    Price: $42.64 USD
+  - [L / Heathered Royal](https://lachrymalgems.store/products/love-lost-skeletons-mens-long-sleeve-tee?variant=47109913870581)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/13135556902623223657_2048_9336f76f-cf03-4ad1-abc4-87eec821c37f.jpg?v=1760023608
+    Price: $42.64 USD
+  - [L / Light Heather Grey](https://lachrymalgems.store/products/love-lost-skeletons-mens-long-sleeve-tee?variant=47109913903349)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/13135556902623223657_2048_8fd31402-a479-4222-95ab-6622d69d54a4.jpg?v=1760023608
+    Price: $42.64 USD
+  - [L / White](https://lachrymalgems.store/products/love-lost-skeletons-mens-long-sleeve-tee?variant=47109913936117)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/13520298650863613194_2048.jpg?v=1760023608
+    Price: $42.64 USD
+  - [L / Charcoal](https://lachrymalgems.store/products/love-lost-skeletons-mens-long-sleeve-tee?variant=47109913968885)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/13135556902623223657_2048.jpg?v=1760023608
+    Price: $42.64 USD
+  - [L / Heathered Teal](https://lachrymalgems.store/products/love-lost-skeletons-mens-long-sleeve-tee?variant=47109914001653)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/13135556902623223657_2048_93771282-c878-46cb-b586-34c733fcd6b1.jpg?v=1760023608
+    Price: $42.64 USD
+  - [XL / Black](https://lachrymalgems.store/products/love-lost-skeletons-mens-long-sleeve-tee?variant=47109914034421)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/17520310768837257486_2048.jpg?v=1760023608
+    Price: $42.64 USD
+  - [XL / Grey Frost](https://lachrymalgems.store/products/love-lost-skeletons-mens-long-sleeve-tee?variant=47109914067189)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/13135556902623223657_2048_f603247f-01ba-496e-85cf-a47d3ea8d921.jpg?v=1760023608
+    Price: $42.64 USD
+  - [XL / Heathered Charcoal](https://lachrymalgems.store/products/love-lost-skeletons-mens-long-sleeve-tee?variant=47109914099957)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/13135556902623223657_2048_427bbc0e-dc2f-4e57-9630-ac46902b583f.jpg?v=1760023608
+    Price: $42.64 USD
+  - [XL / Heathered Navy](https://lachrymalgems.store/products/love-lost-skeletons-mens-long-sleeve-tee?variant=47109914132725)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/13135556902623223657_2048_b1e23ff8-d953-42f8-bd8e-28d702025f17.jpg?v=1760023608
+    Price: $42.64 USD
+  - [XL / Heathered Royal](https://lachrymalgems.store/products/love-lost-skeletons-mens-long-sleeve-tee?variant=47109914165493)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/13135556902623223657_2048_9336f76f-cf03-4ad1-abc4-87eec821c37f.jpg?v=1760023608
+    Price: $42.64 USD
+  - [XL / Light Heather Grey](https://lachrymalgems.store/products/love-lost-skeletons-mens-long-sleeve-tee?variant=47109914198261)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/13135556902623223657_2048_8fd31402-a479-4222-95ab-6622d69d54a4.jpg?v=1760023608
+    Price: $42.64 USD
+  - [XL / White](https://lachrymalgems.store/products/love-lost-skeletons-mens-long-sleeve-tee?variant=47109914231029)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/13520298650863613194_2048.jpg?v=1760023608
+    Price: $42.64 USD
+  - [XL / Charcoal](https://lachrymalgems.store/products/love-lost-skeletons-mens-long-sleeve-tee?variant=47109914263797)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/13135556902623223657_2048.jpg?v=1760023608
+    Price: $42.64 USD
+  - [XL / Heathered Teal](https://lachrymalgems.store/products/love-lost-skeletons-mens-long-sleeve-tee?variant=47109914296565)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/13135556902623223657_2048_93771282-c878-46cb-b586-34c733fcd6b1.jpg?v=1760023608
+    Price: $42.64 USD
+  - [2XL / Black](https://lachrymalgems.store/products/love-lost-skeletons-mens-long-sleeve-tee?variant=47109914329333)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/17520310768837257486_2048.jpg?v=1760023608
+    Price: $44.20 USD
+  - [2XL / Grey Frost](https://lachrymalgems.store/products/love-lost-skeletons-mens-long-sleeve-tee?variant=47109914362101)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/13135556902623223657_2048_f603247f-01ba-496e-85cf-a47d3ea8d921.jpg?v=1760023608
+    Price: $44.20 USD
+  - [2XL / Heathered Charcoal](https://lachrymalgems.store/products/love-lost-skeletons-mens-long-sleeve-tee?variant=47109914394869)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/13135556902623223657_2048_427bbc0e-dc2f-4e57-9630-ac46902b583f.jpg?v=1760023608
+    Price: $44.20 USD
+  - [2XL / Heathered Navy](https://lachrymalgems.store/products/love-lost-skeletons-mens-long-sleeve-tee?variant=47109914427637)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/13135556902623223657_2048_b1e23ff8-d953-42f8-bd8e-28d702025f17.jpg?v=1760023608
+    Price: $44.20 USD
+  - [2XL / Heathered Royal](https://lachrymalgems.store/products/love-lost-skeletons-mens-long-sleeve-tee?variant=47109914460405)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/13135556902623223657_2048_9336f76f-cf03-4ad1-abc4-87eec821c37f.jpg?v=1760023608
+    Price: $44.20 USD
+- [Men's Dark Aesthetic Anti-Social Tank Top](https://lachrymalgems.store/products/mens-tank-top-dark-aesthetic-neon-vibes-anti-social-club-streetwear-gym-wear): This Tank Top features a dark aesthetic with neon vibes, perfect for the anti-social club. Made for men who enjoy streetwear and gym wear. The raw sleeve edges and ribbed collar offer a unique style, while the shoulder-to-shoulder tape and double needle bottom hem ensure durability. Ideal for those who appreciate edgy fashion and want a comfortable, well-fitted top.Product features- Stone washed for a worn look- Raw sleeve edges for a unique style- Ribbed collar for a well-fitted tee- Shoulder-to-shoulder tape for stability- Double needle bottom hem for durabilityCare instructions- Machine wash: cold (max 30C or 90F)- Do not bleach- Tumble dry: low heat- Iron, steam or dry: low heat- Do not dryclean
+  Updated: 2025-10-09T15:23:54Z
+  Vendor: Printify
+  Product Type: Tank Top
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/1760023234873.webp?v=1760023433
+  - [Black Stone / XS](https://lachrymalgems.store/products/mens-tank-top-dark-aesthetic-neon-vibes-anti-social-club-streetwear-gym-wear?variant=47109922849013)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/948668306500115053_2048.jpg?v=1760023433
+    Price: $34.90 USD
+  - [Black Stone / S](https://lachrymalgems.store/products/mens-tank-top-dark-aesthetic-neon-vibes-anti-social-club-streetwear-gym-wear?variant=47109922881781)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/948668306500115053_2048.jpg?v=1760023433
+    Price: $34.90 USD
+  - [Black Stone / M](https://lachrymalgems.store/products/mens-tank-top-dark-aesthetic-neon-vibes-anti-social-club-streetwear-gym-wear?variant=47109922914549)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/948668306500115053_2048.jpg?v=1760023433
+    Price: $34.90 USD
+  - [Black Stone / L](https://lachrymalgems.store/products/mens-tank-top-dark-aesthetic-neon-vibes-anti-social-club-streetwear-gym-wear?variant=47109922947317)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/948668306500115053_2048.jpg?v=1760023433
+    Price: $34.90 USD
+  - [Black Stone / XL](https://lachrymalgems.store/products/mens-tank-top-dark-aesthetic-neon-vibes-anti-social-club-streetwear-gym-wear?variant=47109922980085)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/948668306500115053_2048.jpg?v=1760023433
+    Price: $34.90 USD
+  - [Black Stone / 2XL](https://lachrymalgems.store/products/mens-tank-top-dark-aesthetic-neon-vibes-anti-social-club-streetwear-gym-wear?variant=47109923012853)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/948668306500115053_2048.jpg?v=1760023433
+    Price: $34.90 USD
+- [Skater Dress - Memento Mori Dark Rose Aesthetic](https://lachrymalgems.store/products/skater-dress-memento-mori-dark-rose-aesthetic): L Chest width, in 18.50 Length, in 36.50 Memento mori ladies skater style dress with emo girl aesthetic and dark vibes, featuring dark rose aesthetic and bad vibes. Perfect for those who love alternative fashion and want to make a statement. Ideal for goth girls and alternative fashion enthusiasts. Relevant for outings, gothic events, and concerts.Product features- High cut neckline- Vibrant colors- Double needle sleeve, neck and bottom hem- 83% polyester, 17% spandex material for durability and stretch- Assembled in the USA from globally sourced partsCare instructions- Do not dryclean- Do not iron- Tumble dry: low heat- Do not bleach- Machine wash: cold (max 30C or 90F)
+  Updated: 2025-10-09T15:17:18Z
+  Vendor: Printify
+  Product Type: All Over Prints
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/rn-image_picker_lib_temp_42a6005b-0665-47a4-9895-ecf30e49d053.webp?v=1760023022
+  Price: $54.62 USD
 
 ## Collections
 
@@ -721,11 +964,11 @@
   Updated: 2025-10-08T03:14:58Z
   Total Products: 12
 - [Ladies Alt. Style](https://lachrymalgems.store/collections/ladies-alt-style): Ladies trending apparel, Seasonal Fashion
-  Updated: 2025-10-07T01:58:46Z
-  Total Products: 9
+  Updated: 2025-10-09T15:02:36Z
+  Total Products: 10
 - [Mens Alt. Style](https://lachrymalgems.store/collections/mens-alt-style): Mens hip hop alternative trends and seasonal outfits.
-  Updated: 2025-10-08T07:26:46Z
-  Total Products: 7
+  Updated: 2025-10-09T15:03:46Z
+  Total Products: 9
 - [Trap-Core Shoes](https://lachrymalgems.store/collections/trap-core-shoes)
   Updated: 2025-10-08T06:56:05Z
   Total Products: 3
