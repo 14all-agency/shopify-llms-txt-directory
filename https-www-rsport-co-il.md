@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-10-09T08:00:59.800Z
+- Updated At: 2025-10-09T12:01:02.902Z
 
 ## Products
 
@@ -37283,7 +37283,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [נעלי כדורגל מקצועיות Phantom 6 Elite High SG-Pro](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-sg-pro): נעלי כדורגל מקצועיות Phantom 6 Elite High SG-Pro מתאימות לשחקנים ברמה מקצועית המחפשים שליטה ונוחות משופרת. טכנולוגיית Gripknit עם טקסטורה מיקרו-אחיזה משפרת את השליטה בכדור בכל תנאי מזג האוויר. סוליית Cyclone 360 מספקת אחיזה סיבובית משופרת לשינויי כיוון מהירים וזריזים. מבנה הנעל החדשני מעניק התאמה טבעית ונוחה יותר לכף הרגל, במיוחד באזור האצבעות. הנעל כוללת קרסול גבוה בעיצוב א-סימטרי לתמיכה נוחה ולהפחתת חיכוך. אזור בעיטה חלק ונקי ללא שרוכים לדיוק מירבי. מחזק העקב משפר את היציבות במהלך המשחק. סוליית SG-Pro מצוידת בפקקים מתכתיים מתכווננים לשימוש במגרשים רכים.
-  Updated: 2025-10-05T15:06:39Z
+  Updated: 2025-10-09T08:57:41Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -37300,7 +37300,7 @@
   - [38](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-sg-pro?variant=47480481022202)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
-  - [38½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-sg-pro?variant=47480541806842)
+  - [½38](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-sg-pro?variant=47480541806842)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
   - [⅓39](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-sg-pro?variant=47480481087738)
@@ -37309,7 +37309,7 @@
   - [40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-sg-pro?variant=47480481120506)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
-  - [40½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-sg-pro?variant=47480541839610)
+  - [½40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-sg-pro?variant=47480541839610)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
   - [41](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-sg-pro?variant=47480541872378)
@@ -37346,7 +37346,7 @@
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
 - [נעלי כדורגל מקצועיות Phantom 6 Elite Low SG-Pro](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-sg-pro): נעלי כדורגל מקצועיות Phantom 6 Elite Low SG-Pro נעלי כדורגל איכותיות לשחקנים התקפיים שמחפשים דיוק ושליטה מושלמים בדריבל ובעיטות. חלק עליון בטכנולוגיית Gripknit מיקרוטקסטורה לשיפור התחושה והדיוק בכדור. סוליית Cyclone 360 מאפשרת תנועות זריזות, שינויי כיוון יציבים ונוחות מרבית. עיצוב נוח עם התאמה טבעית באזור האצבעות, צווארון Flyknit אסימטרי למניעת גירויים ומערכת ייצוב עקב עם סנפירים. דגם Player Edition כולל סוליית SG-Pro עם מסמרים מתכתיים עמידים ומתכווננים (מפתחות נמכרים בנפרד). מיועדות למגרשי דשא טבעי רך.
-  Updated: 2025-10-05T15:06:40Z
+  Updated: 2025-10-09T08:57:41Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -37363,7 +37363,7 @@
   - [38](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-sg-pro?variant=47480661377274)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
-  - [38½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-sg-pro?variant=47480661410042)
+  - [½38](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-sg-pro?variant=47480661410042)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
   - [⅓39](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-sg-pro?variant=47480661442810)
@@ -37372,7 +37372,7 @@
   - [40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-sg-pro?variant=47480661475578)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
-  - [40½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-sg-pro?variant=47480661508346)
+  - [½40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-sg-pro?variant=47480661508346)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
   - [41](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-sg-pro?variant=47480661541114)
@@ -37397,7 +37397,7 @@
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
 - [נעלי כדורגל מקצועיות Phantom 6 Elite High FG](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-fg): נעלי כדורגל מקצועיות Phantom 6 Elite High FG בצבע כחול, לבן וכחול כהה, מיועדות לשחקנים תוקפניים המחפשים דיוק ושליטה מוחלטת. טכנולוגיית Gripknit עם טקסטורה מיוחדת על החלק העליון משפרת את השליטה בכדור לדריבל ובעטות מדויקות. סוליית Cyclone 360 עם פקקי אצבעות סיבוביים מאפשרת שינויי כיוון מהירים וזורמים, ומפחיתה עומס על כף הרגל לנוחות ויציבות משופרות. העיצוב החדש מותאם למגוון צורות רגליים, במיוחד באזור האצבעות, לשיפור הנוחות והביצועים.
-  Updated: 2025-10-05T15:06:40Z
+  Updated: 2025-10-09T08:57:42Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -37414,7 +37414,7 @@
   - [38](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-fg?variant=47480690016506)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
-  - [38½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-fg?variant=47480690049274)
+  - [½38](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-fg?variant=47480690049274)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
   - [⅓39](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-fg?variant=47480690082042)
@@ -37423,7 +37423,7 @@
   - [40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-fg?variant=47480690114810)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
-  - [40½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-fg?variant=47480690147578)
+  - [½40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-fg?variant=47480690147578)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
   - [41](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-fg?variant=47480690180346)
@@ -37460,7 +37460,7 @@
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
 - [נעלי כדורגל מקצועיות Phantom 6 Elite Low FG](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-fg): נעלי כדורגל מקצועיות Phantom 6 Elite נמוכה FG בצבע כחול, לבן וכחול כהה. מיועדות לשחקנים התקפיים המחפשים דיוק ושליטה. טכנולוגיית Gripknit משפרת דריבל ובעטות מדויקות. סוליית Cyclone 360 עם פקקי סיבוב לשינויי כיוון מהירים ונוחות גבוהה. עיצוב חדש מותאם לאזור האצבעות לנוחות והתאמה טובה יותר.
-  Updated: 2025-10-05T15:06:41Z
+  Updated: 2025-10-09T08:57:42Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -37477,7 +37477,7 @@
   - [38](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-fg?variant=47480717410554)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
-  - [38½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-fg?variant=47480717443322)
+  - [½38](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-fg?variant=47480717443322)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
   - [⅓39](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-fg?variant=47480717476090)
@@ -37486,7 +37486,7 @@
   - [40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-fg?variant=47480717508858)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
-  - [40½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-fg?variant=47480717541626)
+  - [½40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-fg?variant=47480717541626)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
   - [41](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-fg?variant=47480717574394)
@@ -37523,7 +37523,7 @@
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
 - [נעלי כדורגל Phantom 6 Academy High FG/MG](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-academy-high-fg-mg): נעלי כדורגל Phantom 6 Academy High FG/MG בצבע כחול, לבן וכחול כהה, מיועדות לשחקנים התקפיים. החלק העליון עשוי בד מיוחד שמגביר שליטה בכדור לדריבל ובעיטות מדויקות. סוליית Cyclone 360 עם פקקי סיבוב מאפשרת תנועה מהירה ושינויי כיוון חלקים. הנעל נוחה ומתאימה לסוגי רגל שונים, במיוחד באזור האצבעות. בנוסף, נעלי Team הן אופציה איכותית למתחילים ומתקדמים, עם חומרים עמידים ונוחות גבוהה במחיר נגיש.
-  Updated: 2025-10-05T15:06:41Z
+  Updated: 2025-10-09T08:57:42Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -37537,7 +37537,7 @@
   - [38](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-academy-high-fg-mg?variant=47480731042042)
     Availability: Available
     Price: ‏699.00 ‏₪ ILS
-  - [38½](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-academy-high-fg-mg?variant=47480731074810)
+  - [½38](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-academy-high-fg-mg?variant=47480731074810)
     Availability: Available
     Price: ‏699.00 ‏₪ ILS
   - [⅓39](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-academy-high-fg-mg?variant=47480731107578)
@@ -37546,7 +37546,7 @@
   - [40](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-academy-high-fg-mg?variant=47480731140346)
     Availability: Available
     Price: ‏699.00 ‏₪ ILS
-  - [40½](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-academy-high-fg-mg?variant=47480731173114)
+  - [½40](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-academy-high-fg-mg?variant=47480731173114)
     Availability: Available
     Price: ‏699.00 ‏₪ ILS
   - [41](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-academy-high-fg-mg?variant=47480731205882)
@@ -37583,7 +37583,7 @@
     Availability: Available
     Price: ‏699.00 ‏₪ ILS
 - [נעלי כדורגל Phantom 6 Academy Low FG/MG](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-academy-low-fg-mg): נעלי כדורגל Phantom 6 Academy נמוכות FG/MG בצבע כחול, לבן וכחול כהה, לעיצוב תוקפני ולשליטה מדויקת בכדור. החלק העליון עשוי מבד איכותי שמשפר דריבל ובעטות מדויקות. סוליית Cyclone 360 עם פקקים סיבוביים מאפשרת שינויי כיוון מהירים ונוחות בתנועה. עיצוב חדש מתאים במיוחד לאזור האצבעות ומספק נוחות לאורך המשחק. הנעלות מתאימות למגרשי דשא טבעי ומלאכותי.
-  Updated: 2025-10-05T15:06:42Z
+  Updated: 2025-10-09T08:57:43Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -37597,7 +37597,7 @@
   - [38](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-academy-low-fg-mg?variant=47480788156666)
     Availability: Available
     Price: ‏699.00 ‏₪ ILS
-  - [38½](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-academy-low-fg-mg?variant=47480788189434)
+  - [½38](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-academy-low-fg-mg?variant=47480788189434)
     Availability: Available
     Price: ‏699.00 ‏₪ ILS
   - [⅓39](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-academy-low-fg-mg?variant=47480788222202)
@@ -37606,7 +37606,7 @@
   - [40](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-academy-low-fg-mg?variant=47480788254970)
     Availability: Available
     Price: ‏699.00 ‏₪ ILS
-  - [40½](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-academy-low-fg-mg?variant=47480788287738)
+  - [½40](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-academy-low-fg-mg?variant=47480788287738)
     Availability: Available
     Price: ‏699.00 ‏₪ ILS
   - [41](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-academy-low-fg-mg?variant=47480788320506)
@@ -37643,7 +37643,7 @@
     Availability: Available
     Price: ‏699.00 ‏₪ ILS
 - [נעלי כדורגל מקצועיות Phantom 6 Elite LE High FG](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-le-high-fg): נעלי כדורגל מקצועיות Phantom 6 Elite LE High FG מיועדות לשחקנים תוקפניים המחפשים שליטה מדויקת ונוחות גבוהה. החלק העליון בטכנולוגיית Gripknit מיקרו-טקסטורה משפר את השליטה והדיוק בדריבל ובעיטות. סוליית Cyclone 360 עם פקקי סיבוב מאפשרת שינויי כיוון מהירים ונוחות בתנועה. עיצוב חדש מותאם במיוחד לאזור האצבעות, עם קרסול גבוה לתמיכה ונוחות. מערכת שרוכים מוסתרת לבעיטה חלקה. מתאימות למגרשי דשא קשה.
-  Updated: 2025-10-05T15:06:42Z
+  Updated: 2025-10-09T08:57:43Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -37660,7 +37660,7 @@
   - [38](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-le-high-fg?variant=47480801689850)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
-  - [38½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-le-high-fg?variant=47480801722618)
+  - [½38](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-le-high-fg?variant=47480801722618)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
   - [⅓39](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-le-high-fg?variant=47480801755386)
@@ -37669,7 +37669,7 @@
   - [40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-le-high-fg?variant=47480801788154)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
-  - [40½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-le-high-fg?variant=47480801820922)
+  - [½40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-le-high-fg?variant=47480801820922)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
   - [41](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-le-high-fg?variant=47480801853690)
@@ -37733,7 +37733,7 @@
     Availability: Available
     Price: ‏1,399.00 ‏₪ ILS
 - [נעלי כדורגל מקצועיות Phantom 6 Elite LE High AG-Pro](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-le-high-ag-pro): נעלי כדורגל Phantom 6 Elite LE High AG-Pro עם טכנולוגיית Gripknit מיקרו-טקסטורה לשיפור השליטה והדיוק בדריבל ובעיטות. סוליית AG-Pro עם פקקי סיבוב מאפשרת שינויי כיוון מהירים ונוחות מקסימלית. עיצוב קרסול גבוה לתמיכה ונוחות, עם מערכת שרוכים מוסתרת לבעיטה חלקה. מתאימות במיוחד למגרשי דשא מלאכותי.
-  Updated: 2025-10-05T15:06:43Z
+  Updated: 2025-10-09T08:57:44Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -37741,13 +37741,13 @@
   - [36](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-le-high-ag-pro?variant=47480837374202)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
-  - [38½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-le-high-ag-pro?variant=47480837505274)
+  - [½38](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-le-high-ag-pro?variant=47480837505274)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
   - [40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-le-high-ag-pro?variant=47480837570810)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
-  - [40½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-le-high-ag-pro?variant=47480837603578)
+  - [½40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-le-high-ag-pro?variant=47480837603578)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
   - [41](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-le-high-ag-pro?variant=47480837636346)
@@ -37772,7 +37772,7 @@
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
 - [נעלי כדורגל מקצועיות Phantom 6 Elite LE Low AG](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-le-low-ag): נעלי כדורגל מקצועיות Phantom 6 Elite LE Low AG עם טכנולוגיית Gripknit מיקרו-טקסטורה לשיפור השליטה והדיוק בדריבל ובעיטות. סוליית AG-Pro עם פקקי סיבוב מאפשרת שינויי כיוון מהירים ותנועה חלקה. עיצוב קרסול נמוך לנוחות ותמיכה, עם מתיחת נעל מותאמת במיוחד לאזור האצבעות. מתאימות למגרשי דשא מלאכותי.
-  Updated: 2025-10-05T15:06:43Z
+  Updated: 2025-10-09T08:57:44Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -37780,13 +37780,13 @@
   - [36](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-le-low-ag?variant=47480854282490)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
-  - [38½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-le-low-ag?variant=47480854315258)
+  - [½38](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-le-low-ag?variant=47480854315258)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
   - [40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-le-low-ag?variant=47480854348026)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
-  - [40½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-le-low-ag?variant=47480854380794)
+  - [½40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-le-low-ag?variant=47480854380794)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
   - [41](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-le-low-ag?variant=47480854413562)
@@ -45809,7 +45809,7 @@
     Availability: Available
     Price: ‏150.00 ‏₪ ILS
 - [נעלי כדורגל מקצועיות Phantom 6 Elite Low FG x EAFC](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-fg-x-eafc): ‏נעלי כדורגל מקצועיות Phantom 6 Elite Low FG במהדורה מיוחדת בשיתוף EA Sports FC עם אפקט גליץ' שמעניקות דיוק ושליטה מרבית Gripknit בצבעי RGB וסווש פיקסלואידי לשדרוג הביצועים והעיצוב הדיגיטלי סוליית Cyclone 360 מאפשרת תנועה מהירה ושינויי כיוון חלקים עם יציבות ונוחות גבוהה עיצוב שמתאים למגוון סוגי רגליים לחוויית משחק התקפית ונוחה במיוחד
-  Updated: 2025-10-05T15:06:44Z
+  Updated: 2025-10-09T08:57:44Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -45817,7 +45817,7 @@
   - [40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-fg-x-eafc?variant=47779200008442)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
-  - [40½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-fg-x-eafc?variant=47779200041210)
+  - [½40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-fg-x-eafc?variant=47779200041210)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
   - [41](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-fg-x-eafc?variant=47779200073978)
@@ -45848,7 +45848,7 @@
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
 - [נעלי כדורגל מקצועיות Phantom 6 Elite High FG x EAFC](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-fg-x-eafc): ‏נעליים במהדורה מיוחדת בשיתוף EA Sports FC עם אפקט גליץ' לשיפור דיוק ושליטה בכדור Gripknit בצבעי RGB וסווש פיקסלואידי מעניקים טאץ' דיגיטלי מודרני וסוליית Cyclone 360 מאפשרת תנועה זריזה ושינוי כיוון חלק עם יציבות ונוחות מרבית להתאמה למגוון סוגי רגליים ולחוויית משחק התקפית ונוחה
-  Updated: 2025-10-05T15:06:39Z
+  Updated: 2025-10-09T08:57:41Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -45865,7 +45865,7 @@
   - [38](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-fg-x-eafc?variant=47779360768250)
     Availability: Not Available
     Price: ‏1,699.00 ‏₪ ILS
-  - [38½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-fg-x-eafc?variant=47779360801018)
+  - [½38](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-fg-x-eafc?variant=47779360801018)
     Availability: Not Available
     Price: ‏1,699.00 ‏₪ ILS
   - [⅓39](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-fg-x-eafc?variant=47779360833786)
@@ -45874,7 +45874,7 @@
   - [40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-fg-x-eafc?variant=47779360866554)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
-  - [40½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-fg-x-eafc?variant=47779360899322)
+  - [½40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-fg-x-eafc?variant=47779360899322)
     Availability: Not Available
     Price: ‏1,699.00 ‏₪ ILS
   - [41](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-fg-x-eafc?variant=47779360932090)
@@ -45911,7 +45911,7 @@
     Availability: Not Available
     Price: ‏1,699.00 ‏₪ ILS
 - [נעלי כדורגל מקצועיות ילדים Phantom 6 Low FG/MG x EAFC](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ילדים-phantom-6-low-fg-mg-x-eafc): ‏נעלי כדורגל מקצועיות Phantom 6 Elite Low FG במהדורה מיוחדת בשיתוף EA Sports FC עם אפקט גליץ' שמעניקות דיוק ושליטה מרבית Gripknit בצבעי RGB וסווש פיקסלואידי לשדרוג הביצועים והעיצוב הדיגיטלי סוליית Cyclone 360 מאפשרת תנועה מהירה ושינויי כיוון חלקים עם יציבות ונוחות גבוהה עיצוב שמתאים למגוון סוגי רגליים לחוויית משחק התקפית ונוחה במיוחד
-  Updated: 2025-10-02T08:16:33Z
+  Updated: 2025-10-09T08:57:30Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -45946,7 +45946,7 @@
   - [38](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ילדים-phantom-6-low-fg-mg-x-eafc?variant=47779374792954)
     Availability: Available
     Price: ‏899.90 ‏₪ ILS
-  - [38½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ילדים-phantom-6-low-fg-mg-x-eafc?variant=47779374825722)
+  - [½38](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ילדים-phantom-6-low-fg-mg-x-eafc?variant=47779374825722)
     Availability: Available
     Price: ‏899.90 ‏₪ ILS
 - [כדור כדורגל מקצועי גביע העולם 2026 Trionda](https://www.rsport.co.il/products/football-trionda-worldcup-2026-white-royalblue-solarblue-red-green): תחווה את רמת המשחק של גביע העולם 2026 עם כדור הכדורגל Trionda. איכות מקצועית, עמידות גבוהה וביצועים מדויקים לכל משחק או אימון.
@@ -45966,7 +45966,7 @@
 - [נעלי כדורגל מקצועיות Future 8 Ultimate FG Hot Pursuit](https://www.rsport.co.il/products/future-8-ultimate-fg-hot-pursuit-puma-football-boots-adult-heat-fire-black-ravish): נעלי הכדורגל Future 8 Ultimate FG של PUMA מיועדות לשחקנים שמחפשים חופש תנועה ושליטה מלאה במגרש. החלק העליון משלב שכבות רבות עם LYCRA בסריג FUZIONSKIN, ומעניק התאמה אישית עם תמיכה בכל תנועה. 3D FUZIONPODS בחזית הנעל מגנים על הרגל ומאפשרים גמישות טבעית למשחק ללא הגבלה, בעוד רצועות PWRTAPE במרכז כף הרגל שומרות על יציבות בזמן דריבל ועקיפה של שחקנים.
 
 השכבה החיצונית כוללת רשת צפופה עם גימור GripControl Pro, המגביר אחיזה בכדור ומסייע לשליטה מלאה בדריבל ולפריצת קווים. סוליית הנעל עם מסמרות בעיצוב מיוחד מאפשרת תנועות סיבוביות חופשיות ומגיבה לכל שינוי כיוון, כדי למקסם את הזריזות והמהירות במגרש. Future 8 Ultimate FG נותנות לך את הכלים לשלוט במשחק ולהשפיע על כל מצב במגרש.
-  Updated: 2025-10-06T16:39:32Z
+  Updated: 2025-10-09T08:57:41Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -45983,7 +45983,7 @@
   - [38](https://www.rsport.co.il/products/future-8-ultimate-fg-hot-pursuit-puma-football-boots-adult-heat-fire-black-ravish?variant=47795978436858)
     Availability: Available
     Price: ‏1,499.00 ‏₪ ILS
-  - [38½](https://www.rsport.co.il/products/future-8-ultimate-fg-hot-pursuit-puma-football-boots-adult-heat-fire-black-ravish?variant=47795978469626)
+  - [½38](https://www.rsport.co.il/products/future-8-ultimate-fg-hot-pursuit-puma-football-boots-adult-heat-fire-black-ravish?variant=47795978469626)
     Availability: Available
     Price: ‏1,499.00 ‏₪ ILS
   - [39](https://www.rsport.co.il/products/future-8-ultimate-fg-hot-pursuit-puma-football-boots-adult-heat-fire-black-ravish?variant=47795978502394)
@@ -45995,7 +45995,7 @@
   - [41](https://www.rsport.co.il/products/future-8-ultimate-fg-hot-pursuit-puma-football-boots-adult-heat-fire-black-ravish?variant=47795973095674)
     Availability: Available
     Price: ‏1,499.00 ‏₪ ILS
-  - [40½](https://www.rsport.co.il/products/future-8-ultimate-fg-hot-pursuit-puma-football-boots-adult-heat-fire-black-ravish?variant=47795978567930)
+  - [½40](https://www.rsport.co.il/products/future-8-ultimate-fg-hot-pursuit-puma-football-boots-adult-heat-fire-black-ravish?variant=47795978567930)
     Availability: Available
     Price: ‏1,499.00 ‏₪ ILS
   - [42](https://www.rsport.co.il/products/future-8-ultimate-fg-hot-pursuit-puma-football-boots-adult-heat-fire-black-ravish?variant=47795973128442)
@@ -46031,7 +46031,7 @@
 - [נעלי כדורגל מקצועיות Future 8 Ultimate Low FG](https://www.rsport.co.il/products/future-8-ultimate-low-fg-football-boots-adult-heat-fire-black-ravish): נעלי הכדורגל Future 8 Ultimate FG של PUMA מיועדות לשחקנים שמחפשים חופש תנועה ושליטה מלאה במגרש. החלק העליון משלב שכבות רבות עם LYCRA בסריג FUZIONSKIN, ומעניק התאמה אישית עם תמיכה בכל תנועה. 3D FUZIONPODS בחזית הנעל מגנים על הרגל ומאפשרים גמישות טבעית למשחק ללא הגבלה, בעוד רצועות PWRTAPE במרכז כף הרגל שומרות על יציבות בזמן דריבל ועקיפה של שחקנים.
 
 השכבה החיצונית כוללת רשת צפופה עם גימור GripControl Pro, המגביר אחיזה בכדור ומסייע לשליטה מלאה בדריבל ולפריצת קווים. סוליית הנעל עם מסמרות בעיצוב מיוחד מאפשרת תנועות סיבוביות חופשיות ומגיבה לכל שינוי כיוון, כדי למקסם את הזריזות והמהירות במגרש. Future 8 Ultimate FG נותנות לך את הכלים לשלוט במשחק ולהשפיע על כל מצב במגרש.
-  Updated: 2025-10-07T23:49:24Z
+  Updated: 2025-10-09T08:57:42Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -46048,7 +46048,7 @@
   - [38](https://www.rsport.co.il/products/future-8-ultimate-low-fg-football-boots-adult-heat-fire-black-ravish?variant=47795981287674)
     Availability: Available
     Price: ‏1,499.00 ‏₪ ILS
-  - [38½](https://www.rsport.co.il/products/future-8-ultimate-low-fg-football-boots-adult-heat-fire-black-ravish?variant=47795981320442)
+  - [½38](https://www.rsport.co.il/products/future-8-ultimate-low-fg-football-boots-adult-heat-fire-black-ravish?variant=47795981320442)
     Availability: Available
     Price: ‏1,499.00 ‏₪ ILS
   - [39](https://www.rsport.co.il/products/future-8-ultimate-low-fg-football-boots-adult-heat-fire-black-ravish?variant=47795981353210)
@@ -46060,7 +46060,7 @@
   - [41](https://www.rsport.co.il/products/future-8-ultimate-low-fg-football-boots-adult-heat-fire-black-ravish?variant=47795981418746)
     Availability: Available
     Price: ‏1,499.00 ‏₪ ILS
-  - [40½](https://www.rsport.co.il/products/future-8-ultimate-low-fg-football-boots-adult-heat-fire-black-ravish?variant=47795981451514)
+  - [½40](https://www.rsport.co.il/products/future-8-ultimate-low-fg-football-boots-adult-heat-fire-black-ravish?variant=47795981451514)
     Availability: Available
     Price: ‏1,499.00 ‏₪ ILS
   - [42](https://www.rsport.co.il/products/future-8-ultimate-low-fg-football-boots-adult-heat-fire-black-ravish?variant=47795981484282)
@@ -46096,7 +46096,7 @@
 - [נעלי כדורגל מקצועיות Future 8 Ultimate AG](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-future-8-ultimate-ag): נעלי הכדורגל Future 8 Ultimate FG של PUMA מיועדות לשחקנים שמחפשים חופש תנועה ושליטה מלאה במגרש. החלק העליון משלב שכבות רבות עם LYCRA בסריג FUZIONSKIN, ומעניק התאמה אישית עם תמיכה בכל תנועה. 3D FUZIONPODS בחזית הנעל מגנים על הרגל ומאפשרים גמישות טבעית למשחק ללא הגבלה, בעוד רצועות PWRTAPE במרכז כף הרגל שומרות על יציבות בזמן דריבל ועקיפה של שחקנים.
 
 השכבה החיצונית כוללת רשת צפופה עם גימור GripControl Pro, המגביר אחיזה בכדור ומסייע לשליטה מלאה בדריבל ולפריצת קווים. סוליית הנעל עם מסמרות בעיצוב מיוחד מאפשרת תנועות סיבוביות חופשיות ומגיבה לכל שינוי כיוון, כדי למקסם את הזריזות והמהירות במגרש. Future 8 Ultimate FG נותנות לך את הכלים לשלוט במשחק ולהשפיע על כל מצב במגרש.
-  Updated: 2025-10-07T23:49:24Z
+  Updated: 2025-10-09T08:57:42Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -46110,7 +46110,7 @@
   - [41](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-future-8-ultimate-ag?variant=47798531522810)
     Availability: Available
     Price: ‏1,499.00 ‏₪ ILS
-  - [40½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-future-8-ultimate-ag?variant=47798531555578)
+  - [½40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-future-8-ultimate-ag?variant=47798531555578)
     Availability: Available
     Price: ‏1,499.00 ‏₪ ILS
   - [42](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-future-8-ultimate-ag?variant=47798531588346)
@@ -46146,7 +46146,7 @@
 - [נעלי כדורגל מקצועיות Future 8 Ultimate MxSG](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-future-8-ultimate-mxsg): נעלי הכדורגל Future 8 Ultimate FG של PUMA מיועדות לשחקנים שמחפשים חופש תנועה ושליטה מלאה במגרש. החלק העליון משלב שכבות רבות עם LYCRA בסריג FUZIONSKIN, ומעניק התאמה אישית עם תמיכה בכל תנועה. 3D FUZIONPODS בחזית הנעל מגנים על הרגל ומאפשרים גמישות טבעית למשחק ללא הגבלה, בעוד רצועות PWRTAPE במרכז כף הרגל שומרות על יציבות בזמן דריבל ועקיפה של שחקנים.
 
 השכבה החיצונית כוללת רשת צפופה עם גימור GripControl Pro, המגביר אחיזה בכדור ומסייע לשליטה מלאה בדריבל ולפריצת קווים. סוליית הנעל עם מסמרות בעיצוב מיוחד מאפשרת תנועות סיבוביות חופשיות ומגיבה לכל שינוי כיוון, כדי למקסם את הזריזות והמהירות במגרש. Future 8 Ultimate FG נותנות לך את הכלים לשלוט במשחק ולהשפיע על כל מצב במגרש.
-  Updated: 2025-10-07T00:51:32Z
+  Updated: 2025-10-09T08:57:42Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -46163,7 +46163,7 @@
   - [38](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-future-8-ultimate-mxsg?variant=47798665412858)
     Availability: Available
     Price: ‏1,499.00 ‏₪ ILS
-  - [38½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-future-8-ultimate-mxsg?variant=47798665445626)
+  - [½38](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-future-8-ultimate-mxsg?variant=47798665445626)
     Availability: Available
     Price: ‏1,499.00 ‏₪ ILS
   - [39](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-future-8-ultimate-mxsg?variant=47798618652922)
@@ -46172,7 +46172,7 @@
   - [40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-future-8-ultimate-mxsg?variant=47798618685690)
     Availability: Available
     Price: ‏1,499.00 ‏₪ ILS
-  - [40½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-future-8-ultimate-mxsg?variant=47798618751226)
+  - [½40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-future-8-ultimate-mxsg?variant=47798618751226)
     Availability: Available
     Price: ‏1,499.00 ‏₪ ILS
   - [41](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-future-8-ultimate-mxsg?variant=47798618718458)
@@ -46211,7 +46211,7 @@
 - [נעלי כדורגל מקצועיות Ultra 6 Ultimate FG](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ultra-6-ultimate-fg): נעלי הכדורגל Future 8 Ultimate FG של PUMA מיועדות לשחקנים שמחפשים חופש תנועה ושליטה מלאה במגרש. החלק העליון משלב שכבות רבות עם LYCRA בסריג FUZIONSKIN, ומעניק התאמה אישית עם תמיכה בכל תנועה. 3D FUZIONPODS בחזית הנעל מגנים על הרגל ומאפשרים גמישות טבעית למשחק ללא הגבלה, בעוד רצועות PWRTAPE במרכז כף הרגל שומרות על יציבות בזמן דריבל ועקיפה של שחקנים.
 
 השכבה החיצונית כוללת רשת צפופה עם גימור GripControl Pro, המגביר אחיזה בכדור ומסייע לשליטה מלאה בדריבל ולפריצת קווים. סוליית הנעל עם מסמרות בעיצוב מיוחד מאפשרת תנועות סיבוביות חופשיות ומגיבה לכל שינוי כיוון, כדי למקסם את הזריזות והמהירות במגרש. Future 8 Ultimate FG נותנות לך את הכלים לשלוט במשחק ולהשפיע על כל מצב במגרש.
-  Updated: 2025-10-07T03:37:28Z
+  Updated: 2025-10-09T08:57:43Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -46228,7 +46228,7 @@
   - [38](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ultra-6-ultimate-fg?variant=47799298195706)
     Availability: Available
     Price: ‏1,499.00 ‏₪ ILS
-  - [38½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ultra-6-ultimate-fg?variant=47799298228474)
+  - [½38](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ultra-6-ultimate-fg?variant=47799298228474)
     Availability: Available
     Price: ‏1,499.00 ‏₪ ILS
   - [39](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ultra-6-ultimate-fg?variant=47799298261242)
@@ -46237,7 +46237,7 @@
   - [40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ultra-6-ultimate-fg?variant=47799298294010)
     Availability: Available
     Price: ‏1,499.00 ‏₪ ILS
-  - [40½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ultra-6-ultimate-fg?variant=47799298326778)
+  - [½40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ultra-6-ultimate-fg?variant=47799298326778)
     Availability: Available
     Price: ‏1,499.00 ‏₪ ILS
   - [41](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ultra-6-ultimate-fg?variant=47799298359546)
@@ -46276,7 +46276,7 @@
 - [נעלי כדורגל מקצועיות Ultra 6 Ultimate MxSG](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ultra-6-ultimate-mxsg): נעלי הכדורגל Future 8 Ultimate FG של PUMA מיועדות לשחקנים שמחפשים חופש תנועה ושליטה מלאה במגרש. החלק העליון משלב שכבות רבות עם LYCRA בסריג FUZIONSKIN, ומעניק התאמה אישית עם תמיכה בכל תנועה. 3D FUZIONPODS בחזית הנעל מגנים על הרגל ומאפשרים גמישות טבעית למשחק ללא הגבלה, בעוד רצועות PWRTAPE במרכז כף הרגל שומרות על יציבות בזמן דריבל ועקיפה של שחקנים.
 
 השכבה החיצונית כוללת רשת צפופה עם גימור GripControl Pro, המגביר אחיזה בכדור ומסייע לשליטה מלאה בדריבל ולפריצת קווים. סוליית הנעל עם מסמרות בעיצוב מיוחד מאפשרת תנועות סיבוביות חופשיות ומגיבה לכל שינוי כיוון, כדי למקסם את הזריזות והמהירות במגרש. Future 8 Ultimate FG נותנות לך את הכלים לשלוט במשחק ולהשפיע על כל מצב במגרש.
-  Updated: 2025-10-07T07:48:54Z
+  Updated: 2025-10-09T08:57:43Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -46293,7 +46293,7 @@
   - [38](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ultra-6-ultimate-mxsg?variant=47799634559226)
     Availability: Available
     Price: ‏1,399.00 ‏₪ ILS
-  - [38½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ultra-6-ultimate-mxsg?variant=47799634591994)
+  - [½38](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ultra-6-ultimate-mxsg?variant=47799634591994)
     Availability: Available
     Price: ‏1,399.00 ‏₪ ILS
   - [39](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ultra-6-ultimate-mxsg?variant=47799634624762)
@@ -46302,7 +46302,7 @@
   - [40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ultra-6-ultimate-mxsg?variant=47799634657530)
     Availability: Available
     Price: ‏1,399.00 ‏₪ ILS
-  - [40½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ultra-6-ultimate-mxsg?variant=47799634690298)
+  - [½40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ultra-6-ultimate-mxsg?variant=47799634690298)
     Availability: Available
     Price: ‏1,399.00 ‏₪ ILS
   - [41](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ultra-6-ultimate-mxsg?variant=47799634723066)
@@ -46341,7 +46341,7 @@
 - [נעלי כדורגל King Ultimate FG/AG](https://www.rsport.co.il/products/נעלי-כדורגל-king-ultimate-fg-ag): נעלי הכדורגל Future 8 Ultimate FG של PUMA מיועדות לשחקנים שמחפשים חופש תנועה ושליטה מלאה במגרש. החלק העליון משלב שכבות רבות עם LYCRA בסריג FUZIONSKIN, ומעניק התאמה אישית עם תמיכה בכל תנועה. 3D FUZIONPODS בחזית הנעל מגנים על הרגל ומאפשרים גמישות טבעית למשחק ללא הגבלה, בעוד רצועות PWRTAPE במרכז כף הרגל שומרות על יציבות בזמן דריבל ועקיפה של שחקנים.
 
 השכבה החיצונית כוללת רשת צפופה עם גימור GripControl Pro, המגביר אחיזה בכדור ומסייע לשליטה מלאה בדריבל ולפריצת קווים. סוליית הנעל עם מסמרות בעיצוב מיוחד מאפשרת תנועות סיבוביות חופשיות ומגיבה לכל שינוי כיוון, כדי למקסם את הזריזות והמהירות במגרש. Future 8 Ultimate FG נותנות לך את הכלים לשלוט במשחק ולהשפיע על כל מצב במגרש.
-  Updated: 2025-10-07T23:22:41Z
+  Updated: 2025-10-09T08:57:44Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -46358,7 +46358,7 @@
   - [38](https://www.rsport.co.il/products/נעלי-כדורגל-king-ultimate-fg-ag?variant=47801304350970)
     Availability: Not Available
     Price: ‏1,299.90 ‏₪ ILS
-  - [38½](https://www.rsport.co.il/products/נעלי-כדורגל-king-ultimate-fg-ag?variant=47801304383738)
+  - [½38](https://www.rsport.co.il/products/נעלי-כדורגל-king-ultimate-fg-ag?variant=47801304383738)
     Availability: Not Available
     Price: ‏1,299.90 ‏₪ ILS
   - [39](https://www.rsport.co.il/products/נעלי-כדורגל-king-ultimate-fg-ag?variant=47801304416506)
@@ -46367,7 +46367,7 @@
   - [40](https://www.rsport.co.il/products/נעלי-כדורגל-king-ultimate-fg-ag?variant=47801304449274)
     Availability: Not Available
     Price: ‏1,299.90 ‏₪ ILS
-  - [40½](https://www.rsport.co.il/products/נעלי-כדורגל-king-ultimate-fg-ag?variant=47801304482042)
+  - [½40](https://www.rsport.co.il/products/נעלי-כדורגל-king-ultimate-fg-ag?variant=47801304482042)
     Availability: Available
     Price: ‏1,299.90 ‏₪ ILS
   - [41](https://www.rsport.co.il/products/נעלי-כדורגל-king-ultimate-fg-ag?variant=47801304514810)
@@ -46406,7 +46406,7 @@
 - [נעלי כדורגל מקצועיות King Ultimate MxSG](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-king-ultimate-mxsg): נעלי הכדורגל Future 8 Ultimate FG של PUMA מיועדות לשחקנים שמחפשים חופש תנועה ושליטה מלאה במגרש. החלק העליון משלב שכבות רבות עם LYCRA בסריג FUZIONSKIN, ומעניק התאמה אישית עם תמיכה בכל תנועה. 3D FUZIONPODS בחזית הנעל מגנים על הרגל ומאפשרים גמישות טבעית למשחק ללא הגבלה, בעוד רצועות PWRTAPE במרכז כף הרגל שומרות על יציבות בזמן דריבל ועקיפה של שחקנים.
 
 השכבה החיצונית כוללת רשת צפופה עם גימור GripControl Pro, המגביר אחיזה בכדור ומסייע לשליטה מלאה בדריבל ולפריצת קווים. סוליית הנעל עם מסמרות בעיצוב מיוחד מאפשרת תנועות סיבוביות חופשיות ומגיבה לכל שינוי כיוון, כדי למקסם את הזריזות והמהירות במגרש. Future 8 Ultimate FG נותנות לך את הכלים לשלוט במשחק ולהשפיע על כל מצב במגרש.
-  Updated: 2025-10-08T00:07:12Z
+  Updated: 2025-10-09T08:57:44Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -46414,7 +46414,7 @@
   - [39](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-king-ultimate-mxsg?variant=47801369559290)
     Availability: Available
     Price: ‏1,399.00 ‏₪ ILS
-  - [40½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-king-ultimate-mxsg?variant=47801369624826)
+  - [½40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-king-ultimate-mxsg?variant=47801369624826)
     Availability: Available
     Price: ‏1,399.00 ‏₪ ILS
   - [41](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-king-ultimate-mxsg?variant=47801369657594)
@@ -46517,12 +46517,12 @@
     Availability: Available
     Price: ‏749.00 ‏₪ ILS
 - [נעלי כדורגל מקצועיות Air Zoom Mercurial Superfly 10 Elite SG Max Voltage](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-sg-max-voltage): נעלי הכדורגל המקצועיות Nike Air Zoom Mercurial Superfly 10 Elite SG מיועדות למהירות וביצועים גבוהים על המגרש. הדגם בצבע Limelight/Volt/Hyper Crimson מציע שילוב של אחיזה, קלות משקל ושליטה מצוינת בכדור. מערכת ה-Zoom Air נבנתה לשיפור התגובה והאצה מהירה. אזור הדריכה הקדמי כולל מבנה גלים חדש המסייע לפיזור הלחץ ולמקסום האנרגיה בכל צעד, כך שנשמרת תחושת קלילות וזריזות לאורך זמן. סוליית ה-SG Pro כוללת יתדות מעוצבות לאחיזה מיטבית גם במגרשים רטובים, בשילוב בליידים ארוכים לשינוי כיוון מהיר. העיצוב מבוסס על מבנה מינימליסטי וקלי משקל. החלק העליון של הנעל עשוי שילוב של טכנולוגיות Knit מתקדמות: Flyknit לנוחות, Atomknit ליציבות ו-Gripknit לשיפור השליטה בכדור בתנאי מזג אוויר שונים. Gripknit הוא חומר גמיש ודביק במידה, שמאפשר מגע מדויק עם הכדור גם במהירות גבוהה.
-  Updated: 2025-10-09T05:53:14Z
+  Updated: 2025-10-09T09:33:35Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/20_e9f29bd2-55d5-4c18-b45a-b487890d8d72.jpg?v=1759886249
-  - [40½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-sg-max-voltage?variant=47802095796474)
+  - [½40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-sg-max-voltage?variant=47802095796474)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
   - [41](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-sg-max-voltage?variant=47802095829242)
@@ -46556,7 +46556,7 @@
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
 - [נעלי כדורגל מקצועיות Air Zoom Mercurial Vapor 10 Elite SG](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-10-elite-sg): נעלי הכדורגל המקצועיות Nike Air Zoom Mercurial Vapor 16 Elite SG-Pro משלבות מהירות, תגובה מהירה ושליטה גבוהה בכדור. הדגם בצבע Limelight/Volt/Hyper Crimson מציע ביצועים מיטביים על מגרשים רטובים ויבשים. מערכת ה-Zoom Air תוכננה לשפר את התגובה והאנרגיה בכל צעד. החלק הקדמי כולל מבנה גלים חדש שמגדיל את שטח המגע עם הקרקע ומספק החזרת אנרגיה יעילה יותר, לשמירה על מהירות גבוהה לאורך זמן. סוליית ה-SG Pro כוללת יתדות בעיצוב מתקדם לאחיזה יציבה ולתמרון מהיר, עם שילוב בין בליידים ויתדות עגולות לשינויי כיוון חלקים ובטוחים. החלק העליון של הנעל עשוי שלוש שכבות קלות במיוחד בשילוב טכנולוגיות Knit מתקדמות: Flyknit לנוחות וגמישות, Atomknit לתמיכה, ו-Gripknit לשליטה מדויקת בכדור. Gripknit הוא חומר דביק וגמיש העמיד בפני מזג אוויר משתנה, המספק מגע עקבי עם הכדור ושליטה טובה גם במהירות גבוהה.
-  Updated: 2025-10-09T06:02:38Z
+  Updated: 2025-10-09T08:57:41Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -46564,7 +46564,7 @@
   - [40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-10-elite-sg?variant=47804575351034)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
-  - [40½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-10-elite-sg?variant=47804557623546)
+  - [½40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-10-elite-sg?variant=47804557623546)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
   - [41](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-10-elite-sg?variant=47804557656314)
@@ -46598,6 +46598,63 @@
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
   - [½47](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-10-elite-sg?variant=47804557951226)
+    Availability: Available
+    Price: ‏1,699.00 ‏₪ ILS
+- [נעלי כדורגל מקצועיות Phantom 6 Elite Low SG Max Voltage](https://www.rsport.co.il/products/nipro-phantom-6-elite-low-cut-sg-pro-max-voltage-limelight-black-hyper-crimson): נעלי הכדורגל המקצועיות Nike Phantom 6 Elite Low SG-Pro נועדו לשחקנים התקפיים שמחפשים דיוק ושליטה מירבית בכדור. הדגם בצבע Limelight/Hyper Crimson/Black מציע שילוב של אחיזה, יציבות ותחושת נוחות גבוהה לאורך כל המשחק. החלק העליון של הנעל עשוי חומר Gripknit עם מרקם מיקרו, המשפר את תחושת המגע עם הכדור ומספק שליטה מדויקת בעת כדרור וביצוע בעיטות. Gripknit הוא חומר גמיש ודביק במידה, שמבטיח שליטה עקבית בתנאי מזג אוויר שונים. סוליית ה-SG Pro מבוססת על מערכת Cyclone 360 החדשה, המאפשרת שינויי כיוון חלקים ותגובה מהירה בזכות יתדות סיבוביות באזור האצבעות. המבנה תומך בתנועה טבעית של כף הרגל ומפחית עומס במהלך משחק אינטנסיבי. החלק הפנימי של הנעל עוצב מחדש להתאמה נוחה למגוון רחב של מבני כף רגל, במיוחד באזור האצבעות. כך מתקבלת תחושת יציבות ונוחות משופרת לכל אורך המשחק.
+  Updated: 2025-10-09T09:08:19Z
+  Vendor: R:SPORT
+  Product Type: נעלי כדורגל
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/32_2ae2287f-d47b-4fa9-b3fd-8b644015e49e.jpg?v=1759999686
+  - [36](https://www.rsport.co.il/products/nipro-phantom-6-elite-low-cut-sg-pro-max-voltage-limelight-black-hyper-crimson?variant=47806404919546)
+    Availability: Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [½36](https://www.rsport.co.il/products/nipro-phantom-6-elite-low-cut-sg-pro-max-voltage-limelight-black-hyper-crimson?variant=47806404952314)
+    Availability: Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [37½](https://www.rsport.co.il/products/nipro-phantom-6-elite-low-cut-sg-pro-max-voltage-limelight-black-hyper-crimson?variant=47806404985082)
+    Availability: Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [½38](https://www.rsport.co.il/products/nipro-phantom-6-elite-low-cut-sg-pro-max-voltage-limelight-black-hyper-crimson?variant=47806405017850)
+    Availability: Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [40](https://www.rsport.co.il/products/nipro-phantom-6-elite-low-cut-sg-pro-max-voltage-limelight-black-hyper-crimson?variant=47806390173946)
+    Availability: Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [½40](https://www.rsport.co.il/products/nipro-phantom-6-elite-low-cut-sg-pro-max-voltage-limelight-black-hyper-crimson?variant=47806390206714)
+    Availability: Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [41](https://www.rsport.co.il/products/nipro-phantom-6-elite-low-cut-sg-pro-max-voltage-limelight-black-hyper-crimson?variant=47806390239482)
+    Availability: Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [42](https://www.rsport.co.il/products/nipro-phantom-6-elite-low-cut-sg-pro-max-voltage-limelight-black-hyper-crimson?variant=47806390272250)
+    Availability: Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [42½](https://www.rsport.co.il/products/nipro-phantom-6-elite-low-cut-sg-pro-max-voltage-limelight-black-hyper-crimson?variant=47806390305018)
+    Availability: Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [43](https://www.rsport.co.il/products/nipro-phantom-6-elite-low-cut-sg-pro-max-voltage-limelight-black-hyper-crimson?variant=47806390337786)
+    Availability: Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [44](https://www.rsport.co.il/products/nipro-phantom-6-elite-low-cut-sg-pro-max-voltage-limelight-black-hyper-crimson?variant=47806390370554)
+    Availability: Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [44½](https://www.rsport.co.il/products/nipro-phantom-6-elite-low-cut-sg-pro-max-voltage-limelight-black-hyper-crimson?variant=47806390403322)
+    Availability: Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [45](https://www.rsport.co.il/products/nipro-phantom-6-elite-low-cut-sg-pro-max-voltage-limelight-black-hyper-crimson?variant=47806390436090)
+    Availability: Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [½45](https://www.rsport.co.il/products/nipro-phantom-6-elite-low-cut-sg-pro-max-voltage-limelight-black-hyper-crimson?variant=47806390468858)
+    Availability: Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [46](https://www.rsport.co.il/products/nipro-phantom-6-elite-low-cut-sg-pro-max-voltage-limelight-black-hyper-crimson?variant=47806390501626)
+    Availability: Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [47](https://www.rsport.co.il/products/nipro-phantom-6-elite-low-cut-sg-pro-max-voltage-limelight-black-hyper-crimson?variant=47806390534394)
+    Availability: Available
+    Price: ‏1,699.00 ‏₪ ILS
+  - [½47](https://www.rsport.co.il/products/nipro-phantom-6-elite-low-cut-sg-pro-max-voltage-limelight-black-hyper-crimson?variant=47806390567162)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
 
@@ -46979,8 +47036,8 @@
   Updated: 2025-10-06T19:08:54Z
   Total Products: 14
 - [נעלי כדורגל](https://www.rsport.co.il/collections/נעלי-כדורגל)
-  Updated: 2025-10-08T18:37:27Z
-  Total Products: 59
+  Updated: 2025-10-09T09:05:31Z
+  Total Products: 60
 - [נעלי כדורגל FG](https://www.rsport.co.il/collections/football-boots-groundtype-firmground)
   Updated: 2025-10-07T11:38:09Z
   Total Products: 48
@@ -47078,8 +47135,8 @@
   Updated: 2025-10-02T11:31:37Z
   Total Products: 12
 - [AVADA - Best Sellers](https://www.rsport.co.il/collections/avada-best-sellers)
-  Updated: 2025-10-08T18:37:27Z
-  Total Products: 2064
+  Updated: 2025-10-09T09:05:31Z
+  Total Products: 2065
 - [פיורנטינה רטרו](https://www.rsport.co.il/collections/פיורנטינה-רטרו): אנו מציעים חולצות כדורגל רטרו של פיורנטינה מהעבר המפואר, בעיצובים קלאסיים ששימשו את הקבוצה בשנות ה-90 ותחילת ה-2000. בין השחקנים הבולטים מהתקופות הללו: גבריאל באטיסטוטה, ווֹלפגנג מולה, אנג'לו די ליוויו ופרנצ'סקו טולדו. כל פריט בקטגוריה מחבר אתכם להיסטוריה המפוארת של פיורנטינה ומספק חוויה נוסטלגית לחובבי הכדורגל.
   Updated: 2025-10-02T11:15:25Z
   Total Products: 9
@@ -47294,8 +47351,8 @@
   Updated: 2025-10-07T12:07:39Z
   Total Products: 2
 - [Soft Ground (SG)](https://www.rsport.co.il/collections/football-boots-groundtype-softground-sg)
-  Updated: 2025-10-08T18:37:27Z
-  Total Products: 8
+  Updated: 2025-10-09T09:05:31Z
+  Total Products: 9
 - [נעלי כדורגל Puma King](https://www.rsport.co.il/collections/נעלי-כדורגל-puma-king)
   Updated: 2025-10-07T12:25:17Z
   Total Products: 2
@@ -47306,10 +47363,10 @@
   Updated: 2025-10-08T18:21:35Z
   Total Products: 1
 - [Nike Max Voltage](https://www.rsport.co.il/collections/nike-max-voltage)
-  Updated: 2025-10-08T18:37:27Z
-  Total Products: 2
+  Updated: 2025-10-09T09:05:31Z
+  Total Products: 3
 - [נעלי כדורגל Mercurial](https://www.rsport.co.il/collections/football-boots-mercurial)
-  Updated: 2025-10-08T18:37:27Z
+  Updated: 2025-10-09T08:52:22Z
   Total Products: 2
 
 ## Blogs
