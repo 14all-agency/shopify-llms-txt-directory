@@ -8,7 +8,7 @@
 - Timezone: Europe/London
 - Created At: 2021-01-17T01:03:23Z
 - Contact Email: contact@crystalshealing.co.uk
-- Updated At: 2025-10-09T04:00:36.238Z
+- Updated At: 2025-10-09T08:00:36.587Z
 
 # Crystals Healing — AI-Ready Index
 Welcome to Crystals Healing, your trusted UK-based store for healing crystals and jewelry. This llms.txt file lists all products, collections, blogs, and pages to help AI assistants, search engines, and shopping bots discover and understand our offerings.
@@ -5259,7 +5259,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
 - [About Me – Journey into Crystal Healing & Wellness](https://crystalshealing.co.uk/pages/about-me): About me: Discover my journey into crystal healing, wellness, and a passion for sharing the transformative power of crystals. Explore my story here!
   Updated: 2025-09-24T10:00:41Z
 - [About Us – Crystals Healing Story, Mission & Values](https://crystalshealing.co.uk/pages/about-us): 
-  Updated: 2025-09-24T10:00:41Z
+  Updated: 2025-10-09T05:15:19Z
 - [Cookie Policy – Your Privacy Matters | Crystals Healing](https://crystalshealing.co.uk/pages/cookie-policy): Cookie Policy Last updated: 21 September 2025 What are cookies? Cookies are small text files stored on your device when you visit a website. They m...
   Updated: 2025-09-24T10:00:41Z
 - [Privacy Policy | Protecting Your Data & Crystal Purchases](https://crystalshealing.co.uk/pages/privacy-policy): Crystals Healing – Privacy Policy Last updated: 21 September 2025 At Crystals Healing, we respect your privacy. This notice explains what personal ...
@@ -5289,7 +5289,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
 - [Wish List | Save Your Favorite Healing Crystals](https://crystalshealing.co.uk/pages/wish-list): Build your wish list collection of healing bracelets, necklaces, earrings, and rings.
   Updated: 2025-09-24T10:00:41Z
 - [Customer Reviews | Trusted Feedback on Crystal Products](https://crystalshealing.co.uk/pages/reviews): Discover insightful reviews and ratings on a wide range of products and services. Make informed decisions based on user experiences and recommendat...
-  Updated: 2025-10-01T17:29:49Z
+  Updated: 2025-10-09T06:12:17Z
 - [How to Use Clearpay for Easy Shopping | Step-by-Step](https://crystalshealing.co.uk/pages/how-can-i-use-clearpay): Master the art of shopping with How to use Clearpay. Enjoy now, pay later, and manage your budget effectively with our comprehensive guide. If you'...
   Updated: 2025-09-24T10:00:41Z
 - [How to Use Klarna for Flexible Payments | Step-by-Step](https://crystalshealing.co.uk/pages/how-can-i-use-klarna): How to use Klarna Shopping with Klarna is easy and convenient, and this guide will help you understand how to use it when shopping at Crystals Heal...
