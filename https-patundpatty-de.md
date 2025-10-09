@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-03-19T17:46:58Z
 - Contact Email: info@patundpatty.de
-- Updated At: 2025-10-08T08:00:33.524Z
+- Updated At: 2025-10-09T04:00:33.221Z
 
 ## Products
 
@@ -185,7 +185,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Gots-zertifiziertes-bio-kuschelkissen-esel-mit-inlett-handgemacht-fuer-babys-pat-und-patty.jpg?v=1751454300
     Price: 60,50 € EUR
 - [Bio Kuschelkissen Elefant Plüsch mit Spelzfüllung | PAT & PATTY](https://patundpatty.de/products/bio-kuschelkissen-elefant): Handgefertigtes Bio Kuschelkissen Elefant für Babys & Kinder. Nachhaltige GOTS-Baumwolle, mit Dinkel- oder Hirsespelzfüllung. Perfekt als Geschenk zur Geburt.
-  Updated: 2025-10-04T15:11:00Z
+  Updated: 2025-10-08T11:14:07Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -1274,7 +1274,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio_Schmusetuch_Fliegenpilz_-_PAT_PATTY-4831942.jpg?v=1730653256
     Price: 32,50 € EUR
 - [Personalisierbares Bio-Schmusetuch Schaf weich & nachhaltig](https://patundpatty.de/products/bio-schnuffeltuch-schaf): Personalisiertes Bio-Schmusetuch Schaf aus 100 % Bio-Baumwolle – weich, handgemacht, schadstofffrei und nachhaltig. Ideal zum Kuscheln. Jetzt bei PAT & PATTY!
-  Updated: 2025-10-01T19:00:58Z
+  Updated: 2025-10-08T15:52:40Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -1288,7 +1288,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio_Schnuffeltuch_Schaf_-_PAT_PATTY-4832546.jpg?v=1730653168
     Price: 26,50 € EUR
   - [Bio Schmusetuch nicht personalisiert / hellblau / ohne](https://patundpatty.de/products/bio-schnuffeltuch-schaf?variant=45518199587084)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Schaf-Schnuffeltuch-Fuerr-Babys-PAT-Und-PATTY.jpg?v=1752569950
     Price: 22,50 € EUR
   - [Bio Schmusetuch nicht personalisiert / hellblau / mit](https://patundpatty.de/products/bio-schnuffeltuch-schaf?variant=45602557493516)
@@ -1400,7 +1400,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Schmusetuch-Wildschwein-PAT-und-PATTY-Naturtextil.jpg?v=1752566626
     Price: 32,50 € EUR
 - [Bio Schmusetuch Schwein Rosa weich, nachhaltig & handgemacht](https://patundpatty.de/products/bio-schmusetuch-schwein): Bio Schmusetuch Schwein in Rosa – weich, handgemacht, schadstofffrei und nachhaltig. Ideal für Babys und personalisierbar. Jetzt bei PAT & PATTY entdecken!
-  Updated: 2025-10-01T18:20:07Z
+  Updated: 2025-10-08T17:43:31Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -1981,7 +1981,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Extra-Weiche-Maiswatte-F_llwatte-Atmungsaktive-Naturf_llung-PAT-Und-PATTY.jpg?v=1752304823
     Price: 215,00 € EUR
 - [Bio Hirsespelz Kissenfüllung – natürlich und atmungsaktiv](https://patundpatty.de/products/bio-hirsespelz-hirsespreu-hirseschalen): Bio Hirsespelz Kissenfüllung von PAT & PATTY: atmungsaktiv, schadstofffrei & nachhaltig. Für erholsamen Schlaf und gesundes Liegen – jetzt online entdecken.
-  Updated: 2025-10-07T16:43:55Z
+  Updated: 2025-10-08T09:02:00Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -2028,7 +2028,7 @@
   Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Kuscheltier-Esel-Emil-GOTS-Zertifiziert-Handgefertigt-PAT-Und-PATTY.jpg?v=1752230690
   Price: 39,95 € EUR
 - [Bio Kuscheltier Wildschwein – fair, handgemacht & nachhaltig](https://patundpatty.de/products/bio-kuscheltier-wildschwein): Bio Kuscheltier Wildschwein aus 100 % Bio-Baumwolle mit Maiswatte / Schurwolle-Füllung, waschbar und kuschelweich – perfekt für Babys. Jetzt nachhaltig kaufen!
-  Updated: 2025-10-05T19:19:27Z
+  Updated: 2025-10-08T18:10:46Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -2492,7 +2492,7 @@
   Updated: 2025-09-26T11:21:52Z
   Total Products: 7
 - [Bio Füllmaterialien für DIY – nachhaltig & zertifiziert | PAT&PATTY](https://patundpatty.de/collections/bio-nachhaltige-fuellmaterial): Bio-Füllmaterialien für Kissen & Babyspielzeug: GOTS-zertifiziert, plastikfrei & hautfreundlich – ideal für Hersteller nachhaltiger DIY-Produkte | PAT&PATTY
-  Updated: 2025-10-06T11:22:00Z
+  Updated: 2025-10-08T11:21:16Z
   Total Products: 5
 - [Bio Kuscheltiere fürs Baby – fair & schadstofffrei | PAT & PATTY](https://patundpatty.de/collections/kuscheltiere): Hautfreundliche Bio-Kuscheltiere für Babys – aus GOTS-zertifizierter Bio-Baumwolle, fair produziert & mit Liebe designt von PAT & PATTY. Jetzt bestellen!
   Updated: 2025-10-06T11:22:00Z
@@ -2787,6 +2787,9 @@
     Updated: 2025-10-08T04:44:04Z
     Author: Sharon
     Tags: was ist plastikfreies spielzeug
+  - [10 Überraschende Fakten über das Bio Schmusetuch Hund Neo für Babys](https://patundpatty.de/blogs/news/10-uberraschende-fakten-uber-das-bio-schmusetuch-hund-neo-fur-babys): 10 Überraschende Fakten über das Bio Schmusetuch Hund Neo für Babys
+    Updated: 2025-10-08T10:05:36Z
+    Author: Sharon Engel
 
 ## Store Pages
 
