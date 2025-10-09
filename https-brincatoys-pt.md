@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-10-09T16:01:13.492Z
+- Updated At: 2025-10-09T20:01:10.316Z
 
 ## Products
 
@@ -1570,7 +1570,7 @@ Fáceis de utilizar e com tamanho adaptado à mão dos mais pequenos.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/cars-lee-race-550364522-0194735036455-cars-1178693080.jpg?v=1752832562
   Price: 11,99 € EUR
 - [Jogo de Cartas Five Alive - Diversão Familiar Estratégica](https://brincatoys.pt/products/cartas-five-alive): Descubra Five Alive, o jogo de cartas perfeito para diversão familiar com um toque estratégico ideal. Ideal para momentos de lazer repletos de desafios.
-  Updated: 2025-09-30T11:29:31Z
+  Updated: 2025-10-09T18:56:06Z
   Vendor: Brincatoys
   Product Type: + 8 anos
   Availability: Available
@@ -4907,7 +4907,7 @@ para combater contigo com a sua lança comprida e afiada. Será que
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/nave-espacial-star-wars-a-wing-da-resistencia-23124818-star-wars-1178694161.jpg?v=1752851891
   Price: 29,99 € EUR
 - [Lego Star Wars 75333 - Caça Estelar Jedi de Obi-Wan Kenobi](https://brincatoys.pt/products/lego-star-wars-75333-caca-estelar-jedi-de-obi-wan-kenobi): Descubra a emocionante aventura de construir e recriar cenas icônicas de Star Wars com o LEGO Star Wars 75333 Caça Estelar Jedi de Obi-Wan Kenobi.
-  Updated: 2025-09-29T23:32:56Z
+  Updated: 2025-10-09T18:01:41Z
   Vendor: LEGO
   Product Type: + 7 anos
   Availability: Available
@@ -6783,7 +6783,7 @@ Playmobil.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/playmobil-paciente-em-cadeira-de-rodas-70193-657019321-playmobil-1178694729.jpg?v=1752861738
   Price: 9,80 € EUR
 - [Playmobil Pirata com Canhão 5378](https://brincatoys.pt/products/playmobil-pirata-com-canhao): Pirata com Canhão da Playmobil.
-  Updated: 2025-10-05T17:27:57Z
+  Updated: 2025-10-09T16:20:03Z
   Vendor: Playmobil
   Product Type: + 4 anos
   Availability: Available
@@ -13768,7 +13768,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/cars-marlon-clutches-mckay-550363923-0194735036394-cars-1178697613.jpg?v=1752913206
   Price: 11,99 € EUR
 - [Carro Disney Noriyuki - Modelo de Metal Coleccionável](https://brincatoys.pt/products/carro-disney-noriyuki): Carro Disney Noriyuki. Descubra o camião da coleção Cars e deixe-o impulsionar a imaginação da criançada. Réplica de metal perfeita para jogos e coleções.
-  Updated: 2025-09-29T21:00:48Z
+  Updated: 2025-10-09T16:12:05Z
   Vendor: Cars
   Product Type: + 3 anos
   Availability: Available
@@ -15723,7 +15723,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/jogo-de-tabuleiro-jenga-classico-diversao-e-estrategia-90212024-brincatoys-1178699090.jpg?v=1752935886
   Price: 24,99 € EUR
 - [Jogo de Tabuleiro Twister clássico - Diversão e Desafio](https://brincatoys.pt/products/jogo-de-tabuleiro-twister-classico): Descubra o Jogo de Tabuleiro Twister, um clássico para todas as idades que promete risadas e desafios em cada rodada. Torne as suas festas divertida!
-  Updated: 2025-09-30T07:53:34Z
+  Updated: 2025-10-09T18:11:12Z
   Vendor: Brincatoys
   Product Type: + 6 anos
   Availability: Available
@@ -17235,7 +17235,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carros-da-disney-carla-veloso-552002224-0194735200221-cars-1178700323.jpg?v=1752954012
   Price: 11,99 € EUR
 - [Carro da Disney Alan Aiken Axler](https://brincatoys.pt/products/cars-disney-alan-aiken-axeler): Conquiste a pista com o carro da Disney Alan Aiken Axler, o colecionável Cars Pixar de metal. Design autêntico e resistente para brincar.
-  Updated: 2025-10-07T15:25:45Z
+  Updated: 2025-10-09T16:12:20Z
   Vendor: Cars
   Product Type: + 3 anos
   Availability: Available
@@ -17340,7 +17340,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-da-disney-pixar-sheriff-replica-perfeita-555618624-887961561869-cars-1178700412.jpg?v=1752955566
   Price: 11,99 € EUR
 - [Carro da Disney - Rusteze Lightning McQueen](https://brincatoys.pt/products/cars-disney-pixar-rusteze-lightning-mcqueen): Descubra o carro da Disney - Rusteze Lightning McQueen na Brincatoys! Réplica metálica fiel, detalhes autênticos e diversão garantida para fãs de "Carros".
-  Updated: 2025-10-05T15:59:01Z
+  Updated: 2025-10-09T16:09:55Z
   Vendor: Cars
   Product Type: + 3 anos
   Availability: Available
@@ -18621,7 +18621,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/coleccao-black-bburago-1-64-carros-desportivos-em-escala-1-64-681032525-8719247910325-bburago-1178701377.jpg?v=1752782526
   Price: 19,99 € EUR
 - [Colecção Vintage Bburago 1/64: Carros Clássicos](https://brincatoys.pt/products/coleccao-vintage-bburago-1-64): A  Colecção Vintage Bburago 1/64 of:erece cinco miniaturas de supercarros realistas, perfeitas para colecionadores e fãs de corridas.
-  Updated: 2025-10-08T17:18:30Z
+  Updated: 2025-10-09T17:26:25Z
   Vendor: Bburago
   Product Type: + 3 anos
   Availability: Available
@@ -21344,26 +21344,26 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-09T11:43:57Z
   Total Products: 126
 - [Até €15](https://brincatoys.pt/collections/ate-15)
-  Updated: 2025-10-09T11:43:57Z
-  Total Products: 1302
+  Updated: 2025-10-09T16:10:31Z
+  Total Products: 1301
 - [Até €25](https://brincatoys.pt/collections/ate-25)
-  Updated: 2025-10-09T15:34:31Z
-  Total Products: 2408
+  Updated: 2025-10-09T16:10:41Z
+  Total Products: 2406
 - [Até €35](https://brincatoys.pt/collections/ate-35)
-  Updated: 2025-10-09T15:34:31Z
-  Total Products: 2871
+  Updated: 2025-10-09T16:10:41Z
+  Total Products: 2869
 - [Até €50](https://brincatoys.pt/collections/ate-50)
-  Updated: 2025-10-09T15:34:31Z
-  Total Products: 3253
+  Updated: 2025-10-09T16:10:41Z
+  Total Products: 3251
 - [Até €60](https://brincatoys.pt/collections/ate-60)
-  Updated: 2025-10-09T15:34:31Z
-  Total Products: 3390
+  Updated: 2025-10-09T16:10:41Z
+  Total Products: 3388
 - [Até €80](https://brincatoys.pt/collections/ate-80)
-  Updated: 2025-10-09T15:34:31Z
-  Total Products: 3469
+  Updated: 2025-10-09T16:10:41Z
+  Total Products: 3467
 - [Até €100](https://brincatoys.pt/collections/ate-100)
-  Updated: 2025-10-09T15:34:31Z
-  Total Products: 3518
+  Updated: 2025-10-09T16:10:41Z
+  Total Products: 3516
 - [Novidades](https://brincatoys.pt/collections/novidades)
   Updated: 2025-10-09T14:53:39Z
   Total Products: 387
@@ -21554,8 +21554,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-06T17:09:21Z
   Total Products: 9
 - [Catálogo](https://brincatoys.pt/collections/all)
-  Updated: 2025-10-09T15:34:31Z
-  Total Products: 3551
+  Updated: 2025-10-09T16:10:41Z
+  Total Products: 3549
 - [6 - 7 anos](https://brincatoys.pt/collections/6-7-anos)
   Updated: 2025-10-09T15:34:31Z
   Total Products: 285
@@ -21590,11 +21590,11 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-06T11:23:20Z
   Total Products: 83
 - [Os mais procurados](https://brincatoys.pt/collections/os-mais-populares)
-  Updated: 2025-10-09T15:34:31Z
-  Total Products: 3551
+  Updated: 2025-10-09T16:10:41Z
+  Total Products: 3549
 - [Recém-chegados](https://brincatoys.pt/collections/recem-chegados)
-  Updated: 2025-10-09T15:34:31Z
-  Total Products: 3551
+  Updated: 2025-10-09T16:10:41Z
+  Total Products: 3549
 - [Produtos em destaque](https://brincatoys.pt/collections/produtos-em-destaque)
   Updated: 2025-10-08T10:33:18Z
   Total Products: 23
@@ -21605,8 +21605,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-12T11:21:00Z
   Total Products: 6
 - [OrderlyEmails - Recommended Products](https://brincatoys.pt/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-10-09T15:34:31Z
-  Total Products: 3073
+  Updated: 2025-10-09T16:12:36Z
+  Total Products: 3071
 - [Girafa Sofia](https://brincatoys.pt/collections/girafa-sofia)
   Updated: 2025-10-03T13:37:25Z
   Total Products: 20
@@ -21614,8 +21614,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-09T11:22:38Z
   Total Products: 126
 - [Marketplace](https://brincatoys.pt/collections/marketplace)
-  Updated: 2025-10-09T15:34:31Z
-  Total Products: 3073
+  Updated: 2025-10-09T16:12:36Z
+  Total Products: 3071
 - [EzConnector](https://brincatoys.pt/collections/ezconnector)
   Updated: 2025-10-09T15:34:31Z
   Total Products: 925
