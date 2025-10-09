@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-10-08T16:00:36.448Z
+- Updated At: 2025-10-09T00:00:36.132Z
 
 ## Products
 
@@ -928,7 +928,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Skyline-Multi-Hook-Black-8.jpg?v=1727658777
   Price: $54.99 NZD
 - [Umbra Sticks 5 Hook - Black](https://everydayhome.co.nz/products/sticks-multi-hook-black): Sticks Multi Hook is a sculptural yet functional wall coat rack that will provide you with ample hanging space in virtually every area of your home, office or dorm room. The deceptive design of Sticks looks at first glance like a modern piece of art until it boasts its clever design with 5 flip-down hooks which can be flipped up when not in use, creating a clean, seamless profile.
-  Updated: 2025-10-07T02:00:02Z
+  Updated: 2025-10-08T23:16:41Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -949,7 +949,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Sticks-Multi-Hook-White-5.jpg?v=1727660345
   Price: $54.99 NZD
 - [Umbra Sticks 5 Hook - Grey](https://everydayhome.co.nz/products/sticks-multi-hook-grey): Sticks Multi Hook is a sculptural yet functional wall coat rack that will provide you with ample hanging space in virtually every area of your home, office or dorm room. The deceptive design of Sticks looks at first glance like a modern piece of art until it boasts its clever design with 5 flip-down hooks which can be flipped up when not in use, creating a clean, seamless profile.
-  Updated: 2025-10-08T09:07:06Z
+  Updated: 2025-10-08T16:07:12Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -1726,7 +1726,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Buddy-Paper-Towel-Holder-Black-UMBRA-0.jpg?v=1731902355
   Price: $57.99 NZD
 - [Umbra Cappa Toilet Paper Holder - Nickel](https://everydayhome.co.nz/products/cappa-toilet-paper-stand-nickle): Cappa Toilet Paper Stand and Reserve is a minimalist, freestanding toilet paper stand with an integrated reserve for storing toilet paper rolls. Using often under-utilized vertical square footage, while maintaining a small footprint, Cappa holds up to three jumbo toilet paper rolls and dispenses one.
-  Updated: 2025-10-05T07:07:11Z
+  Updated: 2025-10-08T22:07:11Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -2097,7 +2097,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Essteele-Per-Vita-20cm-3-4L-Covered-Saucepan-Esste-2.jpg?v=1731902744
   Price: $289.99 NZD
 - [Essteele Per Vita - 24cm Open French Skillet](https://everydayhome.co.nz/products/essteele-per-vita-24cm-open-french-skillet): Essteele Per Vita is a pleasure to cook with thanks to the solid copper spread across the induction suitable base, resulting in optimum heat control and perfect cooking conditions favoured by the most discerning cooks. This stainless steel 24cm open French skillet is perfect for larger side dishes, meat, and meals for 2, providing frying and searing perfection.
-  Updated: 2025-09-23T12:36:30Z
+  Updated: 2025-10-08T16:07:11Z
   Vendor: Essteele
   Product Type: Kitchenware
   Availability: Available
@@ -2167,7 +2167,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Exhibit-Photo-Display-Set-of-3-Black-UMBRA-0.png?v=1731902610
   Price: $99.99 NZD
 - [Exhibit Photo Display (Set 5) - Black](https://everydayhome.co.nz/products/exhibit-photo-display-set-5-black): Exhibit Photo Display features a wall-mounted brushed metal ledge with clips and brackets to hold five gallery-style picture frames of various size, all while reducing the amount of damage typically left on walls. The brackets with the frames are suspended from the ledge, which allows them to be moved around to create various layouts. Its flexible horizontal hanging properties make Exhibit a great addition to your stairway due to its ability to be hung angled. Use Exhibit to set a décor accent in your living room, bedroom, entryway, office or studio and give it a modern update while curating your favorite photos and artwork.
-  Updated: 2025-10-06T01:07:10Z
+  Updated: 2025-10-08T19:37:14Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -3006,27 +3006,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/LinnDressboy-Black-8710755229886Brabantia_96dpi_1000x1000px_7_NR-35363.png?v=1734392028
   Price: $159.99 NZD
-- [Brabantia Make & Take Bento Box - Large Dark Grey](https://everydayhome.co.nz/products/make-take-bento-box-large-dark-grey): Into variation? Say no to single use plastics and switch to reusable lunch packaging with this Brabantia Make & Take Bento Lunch Box Large. Pack your sandwiches, wraps or bread rolls with ease or add the two separate containers for fruit, nuts or veggies. Your lunch, your choice. Enjoy!
-  Updated: 2025-08-31T00:58:20Z
-  Vendor: BRABANTIA
-  Product Type: Kitchenware
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Make_TakeLunchBoxBento_Large-DarkGrey-8710755203480Brabantia_96dpi_1000x1000px_7_NR-27947.png?v=1734393319
-  Price: $17.99 NZD
-- [Brabantia Make & Take Bento Box - Large Jade Green](https://everydayhome.co.nz/products/make-take-bento-box-large-jade-green): Into variation? Say no to single use plastics and switch to reusable lunch packaging with this Brabantia Make & Take Bento Lunch Box Large. Pack your sandwiches, wraps or bread rolls with ease or add the two separate containers for fruit, nuts or veggies. Your lunch, your choice. Enjoy!
-  Updated: 2025-10-05T02:22:30Z
-  Vendor: BRABANTIA
-  Product Type: Kitchenware
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Make_TakeLunchBoxBento_Large-JadeGreen-8710755203527Brabantia_96dpi_1000x1000px_7_NR-27967.png?v=1734400434
-  Price: $17.99 NZD
-- [Brabantia Make & Take Bento Box - Large Light Grey](https://everydayhome.co.nz/products/make-take-bento-box-large-light-grey): Into variation? Say no to single use plastics and switch to reusable lunch packaging with this Brabantia Make & Take Bento Lunch Box Large. Pack your sandwiches, wraps or bread rolls with ease or add the two separate containers for fruit, nuts or veggies. Your lunch, your choice. Enjoy!
-  Updated: 2025-09-17T23:10:20Z
-  Vendor: BRABANTIA
-  Product Type: Kitchenware
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Make_TakeLunchBoxBento_Large-LightGrey-8710755203503Brabantia_96dpi_1000x1000px_7_NR-27957.png?v=1734400571
-  Price: $17.99 NZD
 - [Brabantia Linn Dressboy - White](https://everydayhome.co.nz/products/linn-dressboy-white): Hang your outfit for tomorrow or air out the clothes you wore today on the Brabantia Linn Dressboy. This smart looking rack has three bars to hang your clothes over, a shoulder-like top section for your jacket or blouse and a handy hook for clothes hangers. The Linn Dressboy also looks stylish leaning against the wall, unloaded. Space-saving, stylish and ideal for your hallway, bathroom or bedroom. Boy oh boy, what a Dressboy!
   Updated: 2025-09-23T12:37:41Z
   Vendor: BRABANTIA
@@ -3034,41 +3013,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/LinnDressboy-White-8710755229909Brabantia_96dpi_1000x1000px_7_NR-35364.png?v=1734392570
   Price: $159.99 NZD
-- [Brabantia Make & Take Lunch Box - Large Dark Grey](https://everydayhome.co.nz/products/make-take-lunch-box-large-dark-grey): Say no to single use plastics and switch to reusable lunch packaging with this Brabantia Make & Take Large Lunch Box. This beauty of a box has a lid with clips to safely transport your sandwiches, wraps or bread rolls. Your lunch, your choice. Enjoy!
-  Updated: 2025-08-15T13:21:44Z
-  Vendor: BRABANTIA
-  Product Type: Kitchenware
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Make_TakeLunchBox_Large_Plastic-DarkGrey-8710755203060Brabantia_96dpi_1000x1000px_7_NR-27926.png?v=1734400832
-  Price: $14.99 NZD
-- [Brabantia Make & Take Lunch Box - Large Jade Green](https://everydayhome.co.nz/products/make-take-lunch-box-large-jade-green): Say no to single use plastics and switch to reusable lunch packaging with this Brabantia Make & Take Large Lunch Box. This beauty of a box has a lid with clips to safely transport your sandwiches, wraps or bread rolls. Your lunch, your choice. Enjoy!
-  Updated: 2025-08-15T13:33:08Z
-  Vendor: BRABANTIA
-  Product Type: Kitchenware
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Make_TakeLunchBox_Large_Plastic-JadeGreen-8710755203145Brabantia_96dpi_1000x1000px_7_NR-27940.png?v=1734401105
-  Price: $14.99 NZD
-- [Brabantia Make & Take Lunch Box - Large Light Grey](https://everydayhome.co.nz/products/make-take-lunch-box-large-light-grey): Say no to single use plastics and switch to reusable lunch packaging with this Brabantia Make & Take Large Lunch Box. This beauty of a box has a lid with clips to safely transport your sandwiches, wraps or bread rolls. Your lunch, your choice. Enjoy!
-  Updated: 2025-08-15T13:32:07Z
-  Vendor: BRABANTIA
-  Product Type: Kitchenware
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Make_TakeLunchBox_Large_Plastic-LightGrey-8710755203121Brabantia_96dpi_1000x1000px_7_NR-27933.png?v=1734401261
-  Price: $14.99 NZD
-- [Brabantia Make & Take Lunch Box - Medium Dark Grey](https://everydayhome.co.nz/products/make-take-lunch-box-medium-dark-grey): Say no to single use plastics and switch to reusable lunch packaging with this Brabantia Make & Take Medium Lunch Box. This beauty of a box has a lid with clips to safely transport your sandwiches, wraps or bread rolls. Your lunch, your choice. Enjoy!
-  Updated: 2025-09-02T22:03:56Z
-  Vendor: BRABANTIA
-  Product Type: Kitchenware
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Make_TakeLunchBox_Medium_Plastic-DarkGrey-8710755202520Brabantia_96dpi_1000x1000px_7_NR-27884.png?v=1734401760
-  Price: $9.99 NZD
-- [Brabantia Make & Take Lunch Box - Medium Light Grey](https://everydayhome.co.nz/products/make-take-lunch-box-medium-light-grey): Say no to single use plastics and switch to reusable lunch packaging with this Brabantia Make & Take Medium Lunch Box. This beauty of a box has a lid with clips to safely transport your sandwiches, wraps or bread rolls. Your lunch, your choice. Enjoy!
-  Updated: 2025-09-17T23:10:26Z
-  Vendor: BRABANTIA
-  Product Type: Kitchenware
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Make_TakeLunchBox_Medium_Plastic-LightGrey-8710755202568Brabantia_96dpi_1000x1000px_7_NR-27891.png?v=1734402292
-  Price: $9.99 NZD
 - [Brabantia Tasty+ Chopping Board - Light Grey](https://everydayhome.co.nz/products/chopping-board-w-serving-tray-dark-grey): Dicing, slicing, chopping or cutting is easier on this non-slip Brabantia Tasty+ Chopping Board plus Serving Tray. Once done, turn around and the board can be used as a serving tray. This two-in-one space saver is good to have on board.
   Updated: 2025-09-23T12:37:41Z
   Vendor: BRABANTIA
@@ -3427,7 +3371,7 @@
     Availability: Available
     Price: $65.00 NZD
 - [SwiftDry SkyLine Folding Frame Washing line (13 Sizes)](https://everydayhome.co.nz/products/swiftdry-skyline-me28): The SwiftDry SkyLine is the epitome of Style and Strength for a non-conspicuous fold-down out door clothesline. Built tougher than any other clothesline out there (at least we think so!) You can buy with peace of mind, knowing you are getting a top of the line product. Designed to be part of the landscape of your home for years of hassle-free use, with its robust, clean & sharp looking design. Fold against your wall or fence while not in use with a smooth lift, pull, and lower motion. This is the future of natural outdoor drying with the breeze. > Surface Mount and In-concrete Mount post kits available separately under the fold down product category Specifications & Features: See our SkyLine blog article here Rated to 40kg recommended max load weight Dulux Textura Black Powdercoat finish on top of the pre-galvanised steel frame - for Longevity and Style Formed corners - for rigidity and safety Frame made from 1.6mm thick wall square box steel (thickest available in comparable products) so the SkyLine is strong enough to hold a full load of heavy wet wetsuits if needed Nylon Bushes - for smooth operation PVC cord - for no rust and durability All fixings are made from 316 Stainless Steel SwiftDry Easy tensioning system Designed with the front of clothesline frame & lines finishing slightly higher than the rear for ease of accessing the rear lines (as shown in pictures) Smooth and lightweight folding up and down operation from the front bar. Pins included to firmly lock in upright position for windy conditions - the only clothesline available that will not unhitch with wind and allow the frame to bend and washing to end up on the ground! Mounting bracket dimensions: 22.5cm long x 4cm wide. Mounting bracket holes: 8.5 mm - with 20cm between the hole centers - vertically on each bracket. Bottom hole is a 75mm long slot. Mounting Screws included for timber (masonry fasteners required if fixing to brick or concrete) Listed width (eg 2.4m) is fixing hole center to center, however there is up to 20mm adjustment each side when installing to allow for variances in your existing posts/setup. 13 Sizes Available - See details below. Need a custom width not listed below? View our custom selector here 9M SkyLine: Lines: 8 Line Space: 9 m Width: 1.2 m Depth: 0.7 m 11M SkyLine: Lines: 12 Line Space: 11 m Width: 1.0 m Depth: 1.0 m 12M SkyLine: Lines: 8 Line Space: 12 m Width: 1.6 m Depth: 0.7 m 16M SkyLine: Lines: 12 Line Space: 16 m Width: 1.4 m Depth: 1.0 m 17M SkyLine: Lines: 8 Line Space: 17 m Width: 2.2 m Depth: 0.7 m 19M SkyLine: Lines: 8 Line Space: 19 m Width: 2.4 m Depth: 0.7 m 20M SkyLine: Lines: 12 Line Space: 20 m Width: 1.6 m Depth: 1 m 21M SkyLine: Lines: 12 Line Space: 21 m Width: 1.8 m Depth: 1 m 27M SkyLine: Lines: 8 Line Space: 27 m Width: 3.4 m Depth: 0.7 m 28M SkyLine: Lines: 12 Line Space: 28 m Width: 2.4 m Depth: 1.0 m 33M SkyLine: Lines: 14 Line Space: 33 m Width: 2.4 m Depth: 1.5 m 40M SkyLine: Lines: 12 Line Space: 40 m Width: 3.4 m Depth: 1.0 m
-  Updated: 2025-10-07T05:07:12Z
+  Updated: 2025-10-08T22:07:11Z
   Vendor: SwiftDry Clotheslines NZ
   Product Type: 
   Availability: Available
@@ -3485,7 +3429,7 @@
     Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/13406_IMG-002.png?v=1746478953
     Price: $319.00 NZD
 - [SwiftDry SkyLine Post Kit (2 Types)](https://everydayhome.co.nz/products/skyline-in-ground-post-kit-1-6m-wide): Upgrade your SwiftDry clothesline with this pair of heavy-duty black powder-coated posts. Designed for versatile mounting, they include multiple height positions for a perfect fit. Made from 50mm Square galvanized steel, they come with 316 stainless steel fixing bolts and optional surface mount plates or in-ground concrete installation. A durable, New Zealand-made solution for secure and stylish outdoor drying. Kit includes; -2x 50mm x 25mm x 2mm wall Heavy Duty Steel posts, Galvanised and Black Powder Coated -1 x 30mm length adjustable Back Bar -In-ground posts are 2390mm high, 490mm to be concreted into the groundSurface-mounted posts are 1990mm high -In-ground posts to be concreted in, or Plated feet for Surface Mounting/bolting to existing concrete. -316 Stainless Steel fixing bolts -8 x concrete screws supplied with the Surface mounted post kit *New Zealand Made Quality*
-  Updated: 2025-10-07T05:07:12Z
+  Updated: 2025-10-08T22:07:14Z
   Vendor: SwiftDry Clotheslines NZ
   Product Type: 
   Availability: Available
@@ -3499,7 +3443,7 @@
     Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/SkyLine_Surface_Mounted_Post_Kit.jpg?v=1746478955
     Price: $390.00 NZD
 - [SwiftDry SkyLine Folding Frame Washing Line - (Choose your Custom Size)](https://everydayhome.co.nz/products/skyline-custom-size): Choose the frame size to suit your area. Extra cost for a custom size is $50 which is automatically added for custom sizes when selected. 10 Standard Sizes Available - View standard stocked sizes here The SwiftDry SkyLine is the epitome of Style and Strength for a non-conspicuous fold-down/wall/post mounted outdoor clothesline. Built tougher than any other clothesline out there (at least we think so!) You can buy with peace of mind. Designed to be part of the landscape of your home for years of hassle-free use, with its robust, no frills design Fold against your wall or fence while not in use with a smooth lift, pull, and lower motion. This is the future of natural outdoor drying with the breeze. > Surface Mount and In-concrete Mount post kits available separately under the fold down product category Specifications & Features: See our SkyLine blog article here Rated to 40kg recommended max load weight Dulux Textura Black Powdercoat finish on top of the pre-galvanised steel frame - for Longevity and Style Formed corners - for rigidity and safety Frame made from 1.6mm thick wall square box steel (thickest available in comparable products) so the SkyLine is strong enough to hold a full load of heavy wet wetsuits if needed Nylon Bushes - for smooth operation PVC cord - for no rust and durability All fixings are made from 316 Stainless Steel SwiftDry Easy tensioning system Designed with the front of clothesline frame & lines finishing slightly higher than the rear for ease of accessing the rear lines (as shown in pictures) Smooth and lightweight folding up and down operation from the front bar. Pins included to firmly lock in upright position for windy conditions - the only clothesline available that will not unhitch with wind and allow the frame to bend and washing to end up on the ground! Mounting bracket dimensions: 22.5cm long x 4cm wide. Mounting bracket holes: 8.5 mm - with 20cm between the hole centers - vertically on each bracket. Bottom hole is a 75mm long slot. Mounting Screws included for timber (masonry fasteners required if fixing to brick or concrete) Listed width (eg 2.4m) is fixing hole center to center, however there is up to 30mm adjustment each side when installing to allow for variances in your existing posts/setup. 13 Standard Sizes Available - View standard stocked sizes here
-  Updated: 2025-09-29T22:52:46Z
+  Updated: 2025-10-08T20:12:46Z
   Vendor: SwiftDry Clotheslines NZ
   Product Type: 
   Availability: Available
@@ -4371,7 +4315,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/EssentialLineUniversalOpener-White-8710755400605Brabantia_300dpi_2000x2000px_9_NR-4562.jpg?v=1756432171
   Price: $31.95 NZD
 - [Brabantia Essential Can Opener - White](https://everydayhome.co.nz/products/brabantia-essential-can-opener-white): Effortless opening of all standard tins without leaving any jagged edges? You can! This Brabantia Can Opener has a classic opening system and a large turning handle. A turn for the better!
-  Updated: 2025-10-07T19:22:10Z
+  Updated: 2025-10-08T20:37:12Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -4658,7 +4602,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1021415-040_FERRISRINGHOLDER_BLK_I022.jpg?v=1756183228
   Price: $19.99 NZD
 - [Umbra Flex Shower Caddy - Black](https://everydayhome.co.nz/products/umbra-flex-shower-caddy-black): Store all your shower essentials in one place with Umbra’s highly functional Flex Shower Caddy. Flex was designed to take up minimal space in the shower while still accommodating larger bottle sizes. Made of a rigid plastic frame, Flex Shower Caddy features flexible silicone bands that give plenty of storage options.
-  Updated: 2025-10-05T22:22:11Z
+  Updated: 2025-10-08T20:37:10Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -4693,7 +4637,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/023836-660_STEPTBHOLDER_WHITE_CC01.jpg?v=1756177174
   Price: $17.99 NZD
 - [Umbra Step Waste Can With Lid - White](https://everydayhome.co.nz/products/umbra-step-waste-can-with-lid-white): Step Can’s crisp, clean, lines and glossy finish give it an elegant and modern look. It has bottom detailing that elevates the main body of this piece from the surface it sits on, giving it a refined, raised aesthetic. Step features an easy to remove, swing-top lid that helps keep garbage out of sight.
-  Updated: 2025-10-05T17:37:10Z
+  Updated: 2025-10-08T20:37:10Z
   Vendor: UMBRA
   Product Type: Waste Care
   Availability: Available
@@ -4714,14 +4658,14 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1021300_1050_FLEXADHESIVEBIN_SLATE_CC01_EDITIED.jpg?v=1755824233
   Price: $37.99 NZD
 - [Umbra Flex Adhesive Soap Dish - White](https://everydayhome.co.nz/products/umbra-flex-adhesive-soap-dish-white): Soap dishes tend to pool water, with the Umbra Adhesive Soap Dish you don’t need to worry because the integrated drainage holes prevent water from collecting at the bottom of the dish.
-  Updated: 2025-10-05T19:07:12Z
+  Updated: 2025-10-08T20:37:11Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1021302-660_FLEXADHESIVEDBLHOOK_WHITE_I01_a614b93c-ce01-46fb-aa39-10c0ac67da47.jpg?v=1756169577
   Price: $17.99 NZD
 - [Umbra Flex Adhesive Double Hook - White](https://everydayhome.co.nz/products/umbra-flex-adhesive-double-hook-white): Keep your small bath necessities elevated and easy to access with Flex Adhesive Double Hook. Flex Adhesive Double Hook is great for slim shower stalls where storage is limited. One simple hook can make a big difference by providing access to the items you need in the shower.
-  Updated: 2025-10-05T17:37:16Z
+  Updated: 2025-10-08T20:37:10Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -4735,7 +4679,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1021303-660_BUDDYADHESIVESQUEEGEE_I02_157e8be1-937e-4913-b912-329688b04737.jpg?v=1755822314
   Price: $24.99 NZD
 - [Umbra Buddy Adhesive Squeegee - White](https://everydayhome.co.nz/products/umbra-buddy-adhesive-squeegee-white): The Buddy Squeegee is a fun twist on a tedious task; the creativity of its design makes the process more enjoyable. Buddy cleans glass surfaces and wipes away fog, in addition to removing any general buildups on shower walls. Rust-proof, Buddy Squeegee will continue to look tidy and fresh in your washroom while remaining in good shape, thanks to its durable material.
-  Updated: 2025-10-05T17:37:14Z
+  Updated: 2025-10-08T20:37:10Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
