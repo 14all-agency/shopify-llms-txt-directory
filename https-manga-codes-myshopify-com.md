@@ -6,13 +6,13 @@
 - Timezone: America/Sao_Paulo
 - Created At: 2025-10-02T13:46:43Z
 - Contact Email: me@manga.codes
-- Updated At: 2025-10-08T16:00:28.910Z
+- Updated At: 2025-10-09T04:00:28.609Z
 
 ## Collections
 
 - [Home page](https://manga-codes.myshopify.com/collections/frontpage)
-  Updated: 2025-10-02T13:46:51Z
-  Total Products: 0
+  Updated: 2025-10-08T21:29:07Z
+  Total Products: 1
 
 ## Store Pages
 
