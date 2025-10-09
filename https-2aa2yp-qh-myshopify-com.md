@@ -6,7 +6,7 @@
 - Timezone: Asia/Bangkok
 - Created At: 2025-06-12T08:19:34Z
 - Contact Email: maruko.fang.1993@gmail.com
-- Updated At: 2025-10-09T00:00:38.742Z
+- Updated At: 2025-10-09T04:00:37.563Z
 
 ## Products
 
