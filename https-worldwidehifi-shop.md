@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-10-25T08:25:11Z
 - Contact Email: info@worldwidehifi.shop
-- Updated At: 2025-10-09T04:00:32.142Z
+- Updated At: 2025-10-09T08:00:32.499Z
 
 ## ABOUT
 WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage audio gear with insured worldwide shipping—buy here when you want premium brands for less, rare models in stock, real-item photos, highest quality guarantee and expert support.
@@ -209,13 +209,6 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_4a2f3e7d-8b29-4b5b-b83e-ae57356b8aa3.jpg?v=1744908286
   Price: 690,00 € EUR
-- [AVM Ovation CD 8.3 gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/avm-ovation-cd-8-3-gebraucht-kaufen): AVM Ovation CD 8.3 gebraucht kaufen ✅ Geprüfter CD-Receiver mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-09-15T22:27:06Z
-  Vendor: WorldWideHifi
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_8fa91e47-f444-4c80-9d09-7681794a78f8.jpg?v=1744907500
-  Price: 7.200,00 € EUR
 - [Revox B 226 CD-Player gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/revox-b-226-cd-player-gebraucht-kaufen-1): Revox B 226 CD-Player gebraucht kaufen ✅ Geprüftes HiFi Gerät mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHiFi kaufen ✅
   Updated: 2025-09-15T22:27:36Z
   Vendor: WorldWideHifi
@@ -2373,8 +2366,8 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Updated: 2025-10-05T16:39:25Z
   Total Products: 24
 - [Verkaufte HiFi-Artikel](https://worldwidehifi.shop/collections/verkaufte-hifi-artikel)
-  Updated: 2025-10-06T11:19:30Z
-  Total Products: 101
+  Updated: 2025-10-09T07:51:25Z
+  Total Products: 102
 - [Highest End](https://worldwidehifi.shop/collections/highest-end)
   Updated: 2025-10-05T16:11:44Z
   Total Products: 22
