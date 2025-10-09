@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-09-03T22:17:37Z
 - Contact Email: INFO.REBIRTH1@GMAIL.COM
-- Updated At: 2025-10-08T08:00:29.509Z
+- Updated At: 2025-10-09T20:00:30.316Z
 
 ## Products
 
@@ -1274,34 +1274,34 @@
     Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/36789bcc-e993-4208-bed0-8c6525f43115.jpg?v=1758295210
     Price: $81.41 USD
 - [Wednesday Mood Pullover Hoodie](https://rebirthshoponline.myshopify.com/products/wednesday-mood-pullover-hoodie): A heavy blend hoodie. Crafted from a soft blend of 50% cotton and 50% polyester. Features a double-lined hood with matching drawstring. The fabric's air jet yarn offers a softer feel and reduces pilling. Includes a front pouch pocket, and rib knit cuffs and waistband with spandex. Size guide S M L XL 2XL 3XL 4XL 5XL A) Length (cm) 68.6 71.1 73.7 76.2 78.7 81.3 84 86 B) Width (cm) 101.6 111.8 122 132 142.2 152.4 162 172 B) Half Chest (cm) 50.8 55.9 61 66 71.1 76.2 81 86 C) Sleeve Length (cm) 85.1 87.6 90.2 92.7 95.3 97.8 100 103 S M L XL 2XL 3XL 4XL 5XL A) Length (inches) 27 28 29 30 31 32 33.1 33.9 B) Width (inches) 40 44 48 52 56 60 63.8 67.7 B) Half Chest (inches) 20 22 24 26 28 30 31.9 33.9 C) Sleeve Length (inches) 33.5 34.5 35.5 36.5 37.5 38.5 39.4 40.6 Care Instructions General The Gildan 18500 hoodie is known for its robust fabric blend, comfort, and versatility, making it a popular choice for bulk orders and custom designs. Wash Machine wash with cold water is recommended to maintain the integrity of the fabric. Dry Tumble dry on medium setting. Store This hoodie is widely available online through various retailers, offering ease of purchase.
-  Updated: 2025-09-28T07:14:03Z
+  Updated: 2025-10-09T01:43:22Z
   Vendor: ReBirth.
   Product Type: Print Material
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/74c5acab-c2c1-4238-8ce5-af31d836f05b.jpg?v=1758296592
+  Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/d94666ad-4054-480b-84f9-565e34c72c71.jpg?v=1759930992
   - [Orange / S](https://rebirthshoponline.myshopify.com/products/wednesday-mood-pullover-hoodie?variant=47536300196091)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/74c5acab-c2c1-4238-8ce5-af31d836f05b.jpg?v=1758296592
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/74c5acab-c2c1-4238-8ce5-af31d836f05b.jpg?v=1759930992
     Price: $38.97 USD
   - [Orange / M](https://rebirthshoponline.myshopify.com/products/wednesday-mood-pullover-hoodie?variant=47536300228859)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/74c5acab-c2c1-4238-8ce5-af31d836f05b.jpg?v=1758296592
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/74c5acab-c2c1-4238-8ce5-af31d836f05b.jpg?v=1759930992
     Price: $38.97 USD
   - [Orange / L](https://rebirthshoponline.myshopify.com/products/wednesday-mood-pullover-hoodie?variant=47536300261627)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/74c5acab-c2c1-4238-8ce5-af31d836f05b.jpg?v=1758296592
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/74c5acab-c2c1-4238-8ce5-af31d836f05b.jpg?v=1759930992
     Price: $38.97 USD
   - [Orange / XL](https://rebirthshoponline.myshopify.com/products/wednesday-mood-pullover-hoodie?variant=47536300294395)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/74c5acab-c2c1-4238-8ce5-af31d836f05b.jpg?v=1758296592
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/74c5acab-c2c1-4238-8ce5-af31d836f05b.jpg?v=1759930992
     Price: $38.97 USD
   - [Orange / 2XL](https://rebirthshoponline.myshopify.com/products/wednesday-mood-pullover-hoodie?variant=47536300327163)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/74c5acab-c2c1-4238-8ce5-af31d836f05b.jpg?v=1758296592
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/74c5acab-c2c1-4238-8ce5-af31d836f05b.jpg?v=1759930992
     Price: $42.88 USD
   - [Orange / 3XL](https://rebirthshoponline.myshopify.com/products/wednesday-mood-pullover-hoodie?variant=47536300359931)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/74c5acab-c2c1-4238-8ce5-af31d836f05b.jpg?v=1758296592
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/74c5acab-c2c1-4238-8ce5-af31d836f05b.jpg?v=1759930992
     Price: $46.50 USD
   - [Maroon / S](https://rebirthshoponline.myshopify.com/products/wednesday-mood-pullover-hoodie?variant=47536300392699)
     Availability: Available
@@ -1369,27 +1369,27 @@
     Price: $61.55 USD
   - [Dark Chocolate / S](https://rebirthshoponline.myshopify.com/products/wednesday-mood-pullover-hoodie?variant=47536300916987)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/d94666ad-4054-480b-84f9-565e34c72c71.jpg?v=1758296593
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/d94666ad-4054-480b-84f9-565e34c72c71.jpg?v=1759930992
     Price: $38.97 USD
   - [Dark Chocolate / M](https://rebirthshoponline.myshopify.com/products/wednesday-mood-pullover-hoodie?variant=47536300949755)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/d94666ad-4054-480b-84f9-565e34c72c71.jpg?v=1758296593
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/d94666ad-4054-480b-84f9-565e34c72c71.jpg?v=1759930992
     Price: $38.97 USD
   - [Dark Chocolate / L](https://rebirthshoponline.myshopify.com/products/wednesday-mood-pullover-hoodie?variant=47536300982523)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/d94666ad-4054-480b-84f9-565e34c72c71.jpg?v=1758296593
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/d94666ad-4054-480b-84f9-565e34c72c71.jpg?v=1759930992
     Price: $38.97 USD
   - [Dark Chocolate / XL](https://rebirthshoponline.myshopify.com/products/wednesday-mood-pullover-hoodie?variant=47536301015291)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/d94666ad-4054-480b-84f9-565e34c72c71.jpg?v=1758296593
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/d94666ad-4054-480b-84f9-565e34c72c71.jpg?v=1759930992
     Price: $38.97 USD
   - [Dark Chocolate / 2XL](https://rebirthshoponline.myshopify.com/products/wednesday-mood-pullover-hoodie?variant=47536301048059)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/d94666ad-4054-480b-84f9-565e34c72c71.jpg?v=1758296593
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/d94666ad-4054-480b-84f9-565e34c72c71.jpg?v=1759930992
     Price: $42.88 USD
   - [Dark Chocolate / 3XL](https://rebirthshoponline.myshopify.com/products/wednesday-mood-pullover-hoodie?variant=47536301080827)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/d94666ad-4054-480b-84f9-565e34c72c71.jpg?v=1758296593
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/d94666ad-4054-480b-84f9-565e34c72c71.jpg?v=1759930992
     Price: $46.50 USD
 - [Just Breathe Cuffed Beanie](https://rebirthshoponline.myshopify.com/products/just-breathe-cuffed-beanie-1): Step into warmth and style with the Flexfit Classic Cuffed Beanie. Made primarily from hypoallergenic acrylic, this beanie ensures both comfort and durability. Its super dense knit design is perfect for embroidery, making it a versatile accessory for personalization. Whether you're braving the cold or looking to add a stylish touch to your outfit, this beanie has got you covered. Care Instructions - Beanie - Flexfit 1501KC General To maintain its shape and color, avoid prolonged exposure to direct sunlight. Wash Hand wash gently in cold water with mild detergent. Dry Lay it flat to dry; avoid using a dryer. Care instructions Keep it in a cool, dry place away from sunlight.
   Updated: 2025-09-28T07:11:19Z
@@ -2073,132 +2073,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/849706cf-8d16-4eb7-8f54-cf05c8ee752f.webp?v=1759163120
     Price: $22.84 USD
-- [Men's Oversized Drop-Shoulder Crewneck T-Shirt |](https://rebirthshoponline.myshopify.com/products/mens-oversized-drop-shoulder-crewneck-t-shirt): A durable, heavyweight t-shirt designed for lasting wear. Offers a relaxed, oversized fit with reinforced stitching and a ribbed crew neck collar. The unique dye process provides an ultra-soft, streetwear fit and a shrink-free finish. Suitable for various occasions, offering a versatile Los Angeles-inspired style. Fabrication: Made from 100% US Cotton. Size guide S M L XL 2XL A) Length (cm) 68 69.2 74.3 79.4 84.5 B) Width (cm) 115.6 125.7 134.6 142.2 151.1 B) Half Chest (cm) 57.8 62.9 67.3 71.1 75.5 C) Sleeve Length (cm) 53.3 55.3 59.7 62.2 64.8 S M L XL 2XL A) Length (inches) 26.8 27.2 29.3 31.3 33.3 B) Width (inches) 45.5 49.5 53 56 59.5 B) Half Chest (inches) 22.8 24.8 26.5 28 29.7 C) Sleeve Length (inches) 21 21.8 23.5 24.5 25.5 Care Instructions General A heavyweight, garment-dyed t-shirt that merges modern streetwear style with classic comfort and durability. Wash For maintaining its vintage look, the shirt should be washed following care instructions that preserve its color and shape. Dry Tumble dry low or air dry to keep the garment looking its best for longer. Store Keep the t-shirt in a dry, cool place away from direct sunlight to prevent any potential fading or damage.
-  Updated: 2025-09-30T05:44:50Z
-  Vendor: ReBirth.
-  Product Type: Print Material
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/9ebc396a-bfe0-4760-8330-b1cb22f4ae4d.webp?v=1759167871
-  - [S / Cream](https://rebirthshoponline.myshopify.com/products/mens-oversized-drop-shoulder-crewneck-t-shirt?variant=47560143732987)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/9ebc396a-bfe0-4760-8330-b1cb22f4ae4d.webp?v=1759167871
-    Price: $25.18 USD
-  - [M / Cream](https://rebirthshoponline.myshopify.com/products/mens-oversized-drop-shoulder-crewneck-t-shirt?variant=47560143765755)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/9ebc396a-bfe0-4760-8330-b1cb22f4ae4d.webp?v=1759167871
-    Price: $25.18 USD
-  - [L / Cream](https://rebirthshoponline.myshopify.com/products/mens-oversized-drop-shoulder-crewneck-t-shirt?variant=47560143798523)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/9ebc396a-bfe0-4760-8330-b1cb22f4ae4d.webp?v=1759167871
-    Price: $25.18 USD
-  - [XL / Cream](https://rebirthshoponline.myshopify.com/products/mens-oversized-drop-shoulder-crewneck-t-shirt?variant=47560143831291)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/9ebc396a-bfe0-4760-8330-b1cb22f4ae4d.webp?v=1759167871
-    Price: $25.18 USD
-  - [2XL / Cream](https://rebirthshoponline.myshopify.com/products/mens-oversized-drop-shoulder-crewneck-t-shirt?variant=47560143864059)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/9ebc396a-bfe0-4760-8330-b1cb22f4ae4d.webp?v=1759167871
-    Price: $27.46 USD
-  - [S / Peach](https://rebirthshoponline.myshopify.com/products/mens-oversized-drop-shoulder-crewneck-t-shirt?variant=47560143896827)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/3f8e06c7-a36e-4afd-8e85-741fff328b1a.webp?v=1759167872
-    Price: $25.18 USD
-  - [M / Peach](https://rebirthshoponline.myshopify.com/products/mens-oversized-drop-shoulder-crewneck-t-shirt?variant=47560143929595)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/3f8e06c7-a36e-4afd-8e85-741fff328b1a.webp?v=1759167872
-    Price: $25.18 USD
-  - [L / Peach](https://rebirthshoponline.myshopify.com/products/mens-oversized-drop-shoulder-crewneck-t-shirt?variant=47560143962363)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/3f8e06c7-a36e-4afd-8e85-741fff328b1a.webp?v=1759167872
-    Price: $25.18 USD
-  - [XL / Peach](https://rebirthshoponline.myshopify.com/products/mens-oversized-drop-shoulder-crewneck-t-shirt?variant=47560143995131)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/3f8e06c7-a36e-4afd-8e85-741fff328b1a.webp?v=1759167872
-    Price: $25.18 USD
-  - [2XL / Peach](https://rebirthshoponline.myshopify.com/products/mens-oversized-drop-shoulder-crewneck-t-shirt?variant=47560144027899)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/3f8e06c7-a36e-4afd-8e85-741fff328b1a.webp?v=1759167872
-    Price: $27.46 USD
-  - [S / oatmeal](https://rebirthshoponline.myshopify.com/products/mens-oversized-drop-shoulder-crewneck-t-shirt?variant=47560144060667)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/3ff126e9-0259-4274-9b81-7450f403b834.webp?v=1759167875
-    Price: $25.18 USD
-  - [M / oatmeal](https://rebirthshoponline.myshopify.com/products/mens-oversized-drop-shoulder-crewneck-t-shirt?variant=47560144093435)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/3ff126e9-0259-4274-9b81-7450f403b834.webp?v=1759167875
-    Price: $25.18 USD
-  - [L / oatmeal](https://rebirthshoponline.myshopify.com/products/mens-oversized-drop-shoulder-crewneck-t-shirt?variant=47560144126203)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/3ff126e9-0259-4274-9b81-7450f403b834.webp?v=1759167875
-    Price: $25.18 USD
-  - [XL / oatmeal](https://rebirthshoponline.myshopify.com/products/mens-oversized-drop-shoulder-crewneck-t-shirt?variant=47560144158971)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/3ff126e9-0259-4274-9b81-7450f403b834.webp?v=1759167875
-    Price: $25.18 USD
-  - [2XL / oatmeal](https://rebirthshoponline.myshopify.com/products/mens-oversized-drop-shoulder-crewneck-t-shirt?variant=47560144191739)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/3ff126e9-0259-4274-9b81-7450f403b834.webp?v=1759167875
-    Price: $27.46 USD
-  - [S / mocha](https://rebirthshoponline.myshopify.com/products/mens-oversized-drop-shoulder-crewneck-t-shirt?variant=47560144224507)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/81a11dcc-5aa2-468d-b909-1e68a9082380.webp?v=1759167874
-    Price: $25.18 USD
-  - [M / mocha](https://rebirthshoponline.myshopify.com/products/mens-oversized-drop-shoulder-crewneck-t-shirt?variant=47560144257275)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/81a11dcc-5aa2-468d-b909-1e68a9082380.webp?v=1759167874
-    Price: $25.18 USD
-  - [L / mocha](https://rebirthshoponline.myshopify.com/products/mens-oversized-drop-shoulder-crewneck-t-shirt?variant=47560144290043)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/81a11dcc-5aa2-468d-b909-1e68a9082380.webp?v=1759167874
-    Price: $25.18 USD
-  - [XL / mocha](https://rebirthshoponline.myshopify.com/products/mens-oversized-drop-shoulder-crewneck-t-shirt?variant=47560144322811)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/81a11dcc-5aa2-468d-b909-1e68a9082380.webp?v=1759167874
-    Price: $25.18 USD
-  - [2XL / mocha](https://rebirthshoponline.myshopify.com/products/mens-oversized-drop-shoulder-crewneck-t-shirt?variant=47560144355579)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/81a11dcc-5aa2-468d-b909-1e68a9082380.webp?v=1759167874
-    Price: $27.46 USD
-  - [S / Black](https://rebirthshoponline.myshopify.com/products/mens-oversized-drop-shoulder-crewneck-t-shirt?variant=47560144388347)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/92b8e678-1821-48c5-96b6-057db85afce9.webp?v=1759167873
-    Price: $25.18 USD
-  - [M / Black](https://rebirthshoponline.myshopify.com/products/mens-oversized-drop-shoulder-crewneck-t-shirt?variant=47560144421115)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/92b8e678-1821-48c5-96b6-057db85afce9.webp?v=1759167873
-    Price: $25.18 USD
-  - [L / Black](https://rebirthshoponline.myshopify.com/products/mens-oversized-drop-shoulder-crewneck-t-shirt?variant=47560144453883)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/92b8e678-1821-48c5-96b6-057db85afce9.webp?v=1759167873
-    Price: $25.18 USD
-  - [XL / Black](https://rebirthshoponline.myshopify.com/products/mens-oversized-drop-shoulder-crewneck-t-shirt?variant=47560144486651)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/92b8e678-1821-48c5-96b6-057db85afce9.webp?v=1759167873
-    Price: $25.18 USD
-  - [2XL / Black](https://rebirthshoponline.myshopify.com/products/mens-oversized-drop-shoulder-crewneck-t-shirt?variant=47560144519419)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/92b8e678-1821-48c5-96b6-057db85afce9.webp?v=1759167873
-    Price: $27.46 USD
-  - [S / shadow](https://rebirthshoponline.myshopify.com/products/mens-oversized-drop-shoulder-crewneck-t-shirt?variant=47560144552187)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/8a92c10f-73ee-4aaf-be4b-42901adc5bea.webp?v=1759167876
-    Price: $25.18 USD
-  - [M / shadow](https://rebirthshoponline.myshopify.com/products/mens-oversized-drop-shoulder-crewneck-t-shirt?variant=47560144584955)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/8a92c10f-73ee-4aaf-be4b-42901adc5bea.webp?v=1759167876
-    Price: $25.18 USD
-  - [L / shadow](https://rebirthshoponline.myshopify.com/products/mens-oversized-drop-shoulder-crewneck-t-shirt?variant=47560144617723)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/8a92c10f-73ee-4aaf-be4b-42901adc5bea.webp?v=1759167876
-    Price: $25.18 USD
-  - [XL / shadow](https://rebirthshoponline.myshopify.com/products/mens-oversized-drop-shoulder-crewneck-t-shirt?variant=47560144650491)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/8a92c10f-73ee-4aaf-be4b-42901adc5bea.webp?v=1759167876
-    Price: $25.18 USD
-  - [2XL / shadow](https://rebirthshoponline.myshopify.com/products/mens-oversized-drop-shoulder-crewneck-t-shirt?variant=47560144683259)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/8a92c10f-73ee-4aaf-be4b-42901adc5bea.webp?v=1759167876
-    Price: $27.46 USD
 - [Heavyweight Tie-Dye Crewneck T-Shirt |](https://rebirthshoponline.myshopify.com/products/heavyweight-tie-dye-crewneck-t-shirt): The Comfort Colors 1745 heavyweight high-quality T- shirt offers several key features that make it both comfortable and durable: Crafted with 100% ring-spun USA cotton for a soft feel. 6.1 oz heavyweight garment for better fit. Pre-shrunk to avoid unwanted size changes. Double-needle stitching for added durability in collar, armhole, sleeve and bottom hem. Tubular body. Ribbed collar stays in shape after washing. Vibrant pigment tie-dye patterns for a unique look. Size guide S M L XL 2XL 3XL A) Length (cm) 67.6 71.1 74.6 78.1 80.3 82.6 B) Width (cm) 92.8 103 111.8 122 132.2 141 B) Half Chest (cm) 46.4 51.5 55.9 61 66.1 70.5 C) Sleeve Length (cm) 41 45.1 48.3 52.1 59.1 59.1 S M L XL 2XL 3XL A) Length (inches) 26.6 28 29.4 30.7 31.6 32.5 B) Width (inches) 36.5 40.6 44 48 52 55.5 B) Half Chest (inches) 18.3 20.3 22 24 26 27.8 C) Sleeve Length (inches) 16.1 17.8 19 20.5 23.3 23.3 Care Instructions General A stylish and comfortable tie-dye crewneck t-shirt suitable for both men and women, perfect for casual wear. Wash Machine washable in cold water to preserve the vibrant colors. Dry Tumble dry on low heat or air dry for best results. Store Store in a cool, dry place to maintain fabric quality and color integrity.
   Updated: 2025-09-30T05:59:42Z
   Vendor: ReBirth.
@@ -3120,16 +2994,16 @@
   Updated: 2025-10-02T18:27:41Z
   Total Products: 8
 - [Men's Apparel](https://rebirthshoponline.myshopify.com/collections/mens-apparel)
-  Updated: 2025-10-02T18:27:40Z
+  Updated: 2025-10-08T13:40:35Z
   Total Products: 9
 - [Accessories](https://rebirthshoponline.myshopify.com/collections/accessories)
-  Updated: 2025-10-02T17:16:27Z
+  Updated: 2025-10-09T11:28:49Z
   Total Products: 6
 - [Women's Hoodies](https://rebirthshoponline.myshopify.com/collections/womens-sweatshirt)
   Updated: 2025-10-02T18:50:32Z
   Total Products: 3
 - [Hats](https://rebirthshoponline.myshopify.com/collections/hats)
-  Updated: 2025-10-02T17:16:30Z
+  Updated: 2025-10-09T11:28:49Z
   Total Products: 3
 - [Phone Cases](https://rebirthshoponline.myshopify.com/collections/phone-cases)
   Updated: 2025-10-02T17:16:31Z
@@ -3138,7 +3012,7 @@
   Updated: 2025-10-02T17:16:33Z
   Total Products: 5
 - [Men's T-shirts](https://rebirthshoponline.myshopify.com/collections/mens-activewear)
-  Updated: 2025-10-02T17:16:35Z
+  Updated: 2025-10-08T13:40:35Z
   Total Products: 5
 - [Holidays](https://rebirthshoponline.myshopify.com/collections/halloween)
   Updated: 2025-10-02T17:16:36Z
@@ -3156,6 +3030,8 @@
   Updated: 2025-09-03T22:17:41Z
 - [Your privacy choices](https://rebirthshoponline.myshopify.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2025-09-03T22:17:50Z
+- [About ReBirth. - Our Story and Mission](https://rebirthshoponline.myshopify.com/pages/about-us-1): Welcome to ReBirth. Welcome to Rebirth! We are absolutely delighted to share our vision with you. We are a new, independent online clothing store f...
+  Updated: 2025-10-09T17:16:10Z
 
 ## Policies
 
