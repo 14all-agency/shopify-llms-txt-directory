@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-10-09T04:01:08.262Z
+- Updated At: 2025-10-09T08:01:12.501Z
 
 ## Products
 
@@ -3134,7 +3134,7 @@ renascer das cinzas.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/figura-sonic-629031022-8412906903101-sonic-the-hedgehog-1178693609.jpg?v=1752841334
   Price: 8,00 € EUR
 - [Figura Sonic Eggrobo](https://brincatoys.pt/products/figura-sonic-eggrobo): Sonic the Hedgehog é um dos personagens de videojogo mais icônicos do mundo de todos os tempos.  Junto com os seus amigos, ele viaja pelo planeta para lutar contra a injustiça e derrotar o seu arqui-inimigo, o malvado Dr. Eggman. Diverte-te com a figura de acção Eggrobo de 10 cm. Esta figura apresenta vários pontos de articulação e vem com um acess
-  Updated: 2025-09-29T16:23:02Z
+  Updated: 2025-10-09T06:55:10Z
   Vendor: Sonic the Hedgehog
   Product Type: + 3 anos
   Availability: Available
