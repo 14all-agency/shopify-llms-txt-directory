@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2019-08-25T03:49:02Z
 - Contact Email: sales@milvertons.com
-- Updated At: 2025-10-08T08:00:34.599Z
+- Updated At: 2025-10-09T08:00:35.434Z
 
 ## Products
 
@@ -4862,7 +4862,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/ribbed-cardigan-with-feather-accents-and-gold-button-details-918504.jpg?v=1729021092
     Price: $84.00 USD
 - [Cropped Blazer with Fringe Trim and Lapel Collar Detail](https://milvertons.com/products/fringe-trim-lapel-collar-cropped-blazer): Cropped Blazer with Fringe Trim and Lapel Collar Detail. Unique and Stylish, this blazer adds a touch of sophistication and edge to any outfit. Order yours now
-  Updated: 2025-10-07T17:10:10Z
+  Updated: 2025-10-09T05:21:40Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Outerwear - Jackets
   Availability: Available
@@ -10536,7 +10536,7 @@
   Updated: 2025-04-04T00:42:58Z
   Total Products: 66
 - [Women's Clothing Collection](https://milvertons.com/collections/womens-clothing): Discover chic and stylish women's clothing at Milvertons! Browse our collection of fashionable apparel, from timeless classics to on-trend pieces. Shop now for the ultimate fashion experience!
-  Updated: 2025-10-05T19:25:31Z
+  Updated: 2025-10-08T09:26:24Z
   Total Products: 153
 - [Men's Clothing - Menswear, Trendy Ethnic designs and more](https://milvertons.com/collections/mens-clothing): Men's Clothing - Menswear, Trendy Ethnic designs and more. Shop our Men's Clothing Collection  at Milvertons today!
   Updated: 2025-10-06T18:28:51Z
@@ -10569,7 +10569,7 @@
   Updated: 2025-10-05T19:25:37Z
   Total Products: 7
 - [All Products](https://milvertons.com/collections/all): Explore our carefully curated collection of products - Women's Shoes and Bags, Women's Clothing, Men's Shoes, Men's Clothing and Clothing Accessories, and more!
-  Updated: 2025-10-07T09:25:59Z
+  Updated: 2025-10-08T09:25:51Z
   Total Products: 162
 - [Gift Cards for your loved ones](https://milvertons.com/collections/gift-cards): Gift Cards - Milvertons e-gift cards for your loved ones, no expiry date, redeemable at checkout.
   Updated: 2025-09-26T06:52:18Z
@@ -10644,8 +10644,8 @@
   Updated: 2025-10-04T09:26:10Z
   Total Products: 56
 - [UpOrder - Recommended Products](https://milvertons.com/collections/spently_products): This collection is used by the UpOrder app, to make product recommendations in your Shopify notification and auto follow up emails. It's important to note that this collection is “hidden”, it is not be visible on your website. By default, your Best-Selling products will be recommended, but you can customize what is recommend by editing the collection. The collection is updated automatically every 4 hours in order to recommend the best products to your customers in your emails. We only recommend products that are in stock, visible online, and have not been purchased by the customer receiving the notification or auto follow-up email. To enable/disable recommendations in your emails, login to the UpOrder app, remove the Recommended Products component, and re-export your template.
-  Updated: 2025-10-07T08:47:51Z
-  Total Products: 347
+  Updated: 2025-10-08T21:18:15Z
+  Total Products: 348
 - [Black Friday & Cyber Monday Deals](https://milvertons.com/collections/bfcm-deals): Black Friday & Cyber Monday Deals - Products from this collection are on sale at 15% off. Items in this collection trigger this offer when added to your cart.
   Updated: 2023-11-29T08:14:38Z
   Total Products: 0
@@ -11216,6 +11216,10 @@
     Updated: 2025-10-08T07:33:48Z
     Author: The Milvertons Store
     Tags: bags, clothing, coordinating outfits for women, dresses, matching bags, matching shoes and bag for women, shoe and bag set for women, shoe styles, shoes, women's accessories, women's clothing, women's fashion, women's fashion trends, women's shoe and bag set
+  - [Women’s Fashion Diversity: Dresses with Coordinated Accessories](https://milvertons.com/blogs/blog/women-s-fashion-diversity-dresses-with-coordinated-accessories): Women’s Fashion Diversity: Dresses with Coordinated Accessories
+    Updated: 2025-10-09T06:37:04Z
+    Author: The Milvertons Store
+    Tags: bags, coordinated accessories trends, dress outfits, dresses, fashion, matching shoes and bag for women, outfit matching tips, shoe and bag set for women, shoes, stylish accessories, women's clothing, women's fashion, women's shoe and bag set
 
 ## Store Pages
 
