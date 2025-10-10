@@ -37,7 +37,7 @@ Primary Languages: English, German, Ukrainian, Dutch, French, Denmark
 Taglines:
 Modern engagement rings with ethical sparkle.
 
-- Updated At: 2025-10-09T12:00:33.528Z
+- Updated At: 2025-10-10T20:00:32.427Z
 
 Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced engagement rings and fine jewelry. We specialize in premium moissanite and lab-grown diamonds, offering a modern, sustainable choice for the stylish couple. Our commitment to exceptional craftsmanship ensures that each piece sparkles with brilliance and elegance. Explore our curated collection, where every ring tells a story of love, quality, and timeless beauty.
 
@@ -5713,7 +5713,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Availability: Available
     Price: €155.00 EUR
 - [The Hera Emerald-Cut](https://www.chantalvaulet.com/products/the-hera-emerald-cut): Shop The Hera Emerald-Cut today at Chantal Vaulet. Discover stunning jewelry collections, crafted for style and brilliance.
-  Updated: 2025-09-28T19:28:52Z
+  Updated: 2025-10-10T18:01:47Z
   Vendor: Chantal Vaulet
   Product Type: EARRINGS
   Availability: Available
@@ -5721,47 +5721,47 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
   - [Moissanite / 925 Silver / 1.0 CT (0.5 Carat x2)](https://www.chantalvaulet.com/products/the-hera-emerald-cut?variant=42030121418817)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/The-Hera-Emerald-Cut.webp?v=1758212213
-    Price: €105.00 EUR
+    Price: €94.00 EUR
   - [Moissanite / 925 Silver / 2.0 CT (1.0 Carat x2)](https://www.chantalvaulet.com/products/the-hera-emerald-cut?variant=42030121451585)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/The-Hera-Emerald-Cut.webp?v=1758212213
-    Price: €155.00 EUR
+    Price: €129.00 EUR
   - [Moissanite / 9K White Gold / 1.0 CT (0.5 Carat x2)](https://www.chantalvaulet.com/products/the-hera-emerald-cut?variant=42154673242177)
     Availability: Available
-    Price: €595.00 EUR
+    Price: €320.00 EUR
   - [Moissanite / 9K White Gold / 2.0 CT (1.0 Carat x2)](https://www.chantalvaulet.com/products/the-hera-emerald-cut?variant=42154673471553)
     Availability: Available
-    Price: €625.00 EUR
+    Price: €345.00 EUR
   - [Moissanite / 14K White Gold / 1.0 CT (0.5 Carat x2)](https://www.chantalvaulet.com/products/the-hera-emerald-cut?variant=42154673307713)
     Availability: Available
-    Price: €795.00 EUR
+    Price: €409.00 EUR
   - [Moissanite / 14K White Gold / 2.0 CT (1.0 Carat x2)](https://www.chantalvaulet.com/products/the-hera-emerald-cut?variant=42154673537089)
     Availability: Available
-    Price: €845.00 EUR
+    Price: €425.00 EUR
   - [Moissanite / 18K White Gold / 1.0 CT (0.5 Carat x2)](https://www.chantalvaulet.com/products/the-hera-emerald-cut?variant=42154673373249)
     Availability: Available
-    Price: €995.00 EUR
+    Price: €465.00 EUR
   - [Moissanite / 18K White Gold / 2.0 CT (1.0 Carat x2)](https://www.chantalvaulet.com/products/the-hera-emerald-cut?variant=42154673602625)
     Availability: Available
-    Price: €1,095.00 EUR
+    Price: €480.00 EUR
   - [Lab Diamond / 9K White Gold / 1.0 CT (0.5 Carat x2)](https://www.chantalvaulet.com/products/the-hera-emerald-cut?variant=42154673274945)
     Availability: Available
-    Price: €895.00 EUR
+    Price: €615.00 EUR
   - [Lab Diamond / 9K White Gold / 2.0 CT (1.0 Carat x2)](https://www.chantalvaulet.com/products/the-hera-emerald-cut?variant=42154673504321)
     Availability: Available
-    Price: €1,250.00 EUR
+    Price: €950.00 EUR
   - [Lab Diamond / 14K White Gold / 1.0 CT (0.5 Carat x2)](https://www.chantalvaulet.com/products/the-hera-emerald-cut?variant=42154673340481)
     Availability: Available
-    Price: €1,095.00 EUR
+    Price: €699.00 EUR
   - [Lab Diamond / 14K White Gold / 2.0 CT (1.0 Carat x2)](https://www.chantalvaulet.com/products/the-hera-emerald-cut?variant=42154673569857)
     Availability: Available
-    Price: €1,495.00 EUR
+    Price: €1,029.00 EUR
   - [Lab Diamond / 18K White Gold / 1.0 CT (0.5 Carat x2)](https://www.chantalvaulet.com/products/the-hera-emerald-cut?variant=42154673406017)
     Availability: Available
-    Price: €1,295.00 EUR
+    Price: €765.00 EUR
   - [Lab Diamond / 18K White Gold / 2.0 CT (1.0 Carat x2)](https://www.chantalvaulet.com/products/the-hera-emerald-cut?variant=42154673635393)
     Availability: Available
-    Price: €1,695.00 EUR
+    Price: €1,095.00 EUR
 - [The Astraea Princess-Cut](https://www.chantalvaulet.com/products/the-astraea-princess-cut): Shop The Astraea Princess-Cut today at Chantal Vaulet. Discover stunning jewelry collections, crafted for style and brilliance.
   Updated: 2025-09-28T19:28:52Z
   Vendor: Chantal Vaulet
@@ -9587,7 +9587,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Availability: Available
     Price: €815.00 EUR
 - [The Aetheria Moissanite Tennis Bracelet](https://www.chantalvaulet.com/products/the-aetheria-moissanite-tennis-bracelet): Shop The Aetheria Moissanite Tennis Bracelet today at Chantal Vaulet. Discover stunning jewelry collections, crafted for style and brilliance.
-  Updated: 2025-09-28T19:29:00Z
+  Updated: 2025-10-10T04:18:24Z
   Vendor: Chantal Vaulet
   Product Type: BRACELET
   Availability: Available
@@ -9820,161 +9820,161 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Availability: Available
     Price: €1,425.00 EUR
 - [3.0 CT Round Moissanite Ring – Étoile d’Or | Chantal Vaulet](https://www.chantalvaulet.com/products/etoile-round-cut-engagement-ring-3-0ct): The Étoile is a 3.0 carat round-cut moissanite ring showcasing exceptional brilliance and elegance, perfect for your love story.
-  Updated: 2025-10-08T21:21:53Z
+  Updated: 2025-10-10T16:49:46Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/etoile-round-cut-engagement-ring-33ct-chantal-vaulet-633925.webp?v=1758214627
   - [Moissanite / 9K Yellow Gold / 5](https://www.chantalvaulet.com/products/etoile-round-cut-engagement-ring-3-0ct?variant=42150998704193)
     Availability: Available
-    Price: €850.00 EUR
+    Price: €750.00 EUR
   - [Moissanite / 9K Yellow Gold / 5.25](https://www.chantalvaulet.com/products/etoile-round-cut-engagement-ring-3-0ct?variant=42150998736961)
     Availability: Available
-    Price: €850.00 EUR
+    Price: €750.00 EUR
   - [Moissanite / 9K Yellow Gold / 5.75](https://www.chantalvaulet.com/products/etoile-round-cut-engagement-ring-3-0ct?variant=42150998769729)
     Availability: Available
-    Price: €850.00 EUR
+    Price: €750.00 EUR
   - [Moissanite / 9K Yellow Gold / 6](https://www.chantalvaulet.com/products/etoile-round-cut-engagement-ring-3-0ct?variant=42150998802497)
     Availability: Available
-    Price: €850.00 EUR
+    Price: €750.00 EUR
   - [Moissanite / 9K Yellow Gold / 6.5](https://www.chantalvaulet.com/products/etoile-round-cut-engagement-ring-3-0ct?variant=42150998835265)
     Availability: Available
-    Price: €850.00 EUR
+    Price: €750.00 EUR
   - [Moissanite / 9K Yellow Gold / 7](https://www.chantalvaulet.com/products/etoile-round-cut-engagement-ring-3-0ct?variant=42150998868033)
     Availability: Available
-    Price: €850.00 EUR
+    Price: €750.00 EUR
   - [Moissanite / 9K Yellow Gold / 7.25](https://www.chantalvaulet.com/products/etoile-round-cut-engagement-ring-3-0ct?variant=42150998900801)
     Availability: Available
-    Price: €850.00 EUR
+    Price: €750.00 EUR
   - [Moissanite / 9K Yellow Gold / 7.75](https://www.chantalvaulet.com/products/etoile-round-cut-engagement-ring-3-0ct?variant=42150998933569)
     Availability: Available
-    Price: €850.00 EUR
+    Price: €750.00 EUR
   - [Moissanite / 9K Yellow Gold / 8](https://www.chantalvaulet.com/products/etoile-round-cut-engagement-ring-3-0ct?variant=42150998966337)
     Availability: Available
-    Price: €850.00 EUR
+    Price: €750.00 EUR
   - [Moissanite / 9K Yellow Gold / 8½](https://www.chantalvaulet.com/products/etoile-round-cut-engagement-ring-3-0ct?variant=42150998999105)
     Availability: Available
-    Price: €850.00 EUR
+    Price: €750.00 EUR
   - [Moissanite / 9K Yellow Gold / 8.75](https://www.chantalvaulet.com/products/etoile-round-cut-engagement-ring-3-0ct?variant=42150999031873)
     Availability: Available
-    Price: €850.00 EUR
+    Price: €750.00 EUR
   - [Moissanite / 9K Yellow Gold / 9](https://www.chantalvaulet.com/products/etoile-round-cut-engagement-ring-3-0ct?variant=42150999064641)
     Availability: Available
-    Price: €850.00 EUR
+    Price: €750.00 EUR
   - [Moissanite / 14K Yellow Gold / 5](https://www.chantalvaulet.com/products/etoile-round-cut-engagement-ring-3-0ct?variant=42150999097409)
     Availability: Available
-    Price: €925.00 EUR
+    Price: €959.00 EUR
   - [Moissanite / 14K Yellow Gold / 5.25](https://www.chantalvaulet.com/products/etoile-round-cut-engagement-ring-3-0ct?variant=42150999130177)
     Availability: Available
-    Price: €925.00 EUR
+    Price: €959.00 EUR
   - [Moissanite / 14K Yellow Gold / 5.75](https://www.chantalvaulet.com/products/etoile-round-cut-engagement-ring-3-0ct?variant=42150999162945)
     Availability: Available
-    Price: €925.00 EUR
+    Price: €959.00 EUR
   - [Moissanite / 14K Yellow Gold / 6](https://www.chantalvaulet.com/products/etoile-round-cut-engagement-ring-3-0ct?variant=42150999195713)
     Availability: Available
-    Price: €925.00 EUR
+    Price: €959.00 EUR
   - [Moissanite / 14K Yellow Gold / 6.5](https://www.chantalvaulet.com/products/etoile-round-cut-engagement-ring-3-0ct?variant=42150999228481)
     Availability: Available
-    Price: €925.00 EUR
+    Price: €959.00 EUR
   - [Moissanite / 14K Yellow Gold / 7](https://www.chantalvaulet.com/products/etoile-round-cut-engagement-ring-3-0ct?variant=42150999261249)
     Availability: Available
-    Price: €925.00 EUR
+    Price: €959.00 EUR
   - [Moissanite / 14K Yellow Gold / 7.25](https://www.chantalvaulet.com/products/etoile-round-cut-engagement-ring-3-0ct?variant=42150999294017)
     Availability: Available
-    Price: €925.00 EUR
+    Price: €959.00 EUR
   - [Moissanite / 14K Yellow Gold / 7.75](https://www.chantalvaulet.com/products/etoile-round-cut-engagement-ring-3-0ct?variant=42150999326785)
     Availability: Available
-    Price: €925.00 EUR
+    Price: €959.00 EUR
   - [Moissanite / 14K Yellow Gold / 8](https://www.chantalvaulet.com/products/etoile-round-cut-engagement-ring-3-0ct?variant=42150999359553)
     Availability: Available
-    Price: €925.00 EUR
+    Price: €959.00 EUR
   - [Moissanite / 14K Yellow Gold / 8½](https://www.chantalvaulet.com/products/etoile-round-cut-engagement-ring-3-0ct?variant=42150999392321)
     Availability: Available
-    Price: €925.00 EUR
+    Price: €959.00 EUR
   - [Moissanite / 14K Yellow Gold / 8.75](https://www.chantalvaulet.com/products/etoile-round-cut-engagement-ring-3-0ct?variant=42150999425089)
     Availability: Available
-    Price: €925.00 EUR
+    Price: €959.00 EUR
   - [Moissanite / 14K Yellow Gold / 9](https://www.chantalvaulet.com/products/etoile-round-cut-engagement-ring-3-0ct?variant=42150999457857)
     Availability: Available
-    Price: €925.00 EUR
+    Price: €959.00 EUR
   - [Moissanite / 18K Yellow Gold / 5](https://www.chantalvaulet.com/products/etoile-round-cut-engagement-ring-3-0ct?variant=42150999490625)
     Availability: Available
-    Price: €1,105.00 EUR
+    Price: €1,095.00 EUR
   - [Moissanite / 18K Yellow Gold / 5.25](https://www.chantalvaulet.com/products/etoile-round-cut-engagement-ring-3-0ct?variant=42150999523393)
     Availability: Available
-    Price: €1,105.00 EUR
+    Price: €1,095.00 EUR
   - [Moissanite / 18K Yellow Gold / 5.75](https://www.chantalvaulet.com/products/etoile-round-cut-engagement-ring-3-0ct?variant=42150999556161)
     Availability: Available
-    Price: €1,105.00 EUR
+    Price: €1,095.00 EUR
   - [Moissanite / 18K Yellow Gold / 6](https://www.chantalvaulet.com/products/etoile-round-cut-engagement-ring-3-0ct?variant=42150999588929)
     Availability: Available
-    Price: €1,105.00 EUR
+    Price: €1,095.00 EUR
   - [Moissanite / 18K Yellow Gold / 6.5](https://www.chantalvaulet.com/products/etoile-round-cut-engagement-ring-3-0ct?variant=42150999621697)
     Availability: Available
-    Price: €1,105.00 EUR
+    Price: €1,095.00 EUR
   - [Moissanite / 18K Yellow Gold / 7](https://www.chantalvaulet.com/products/etoile-round-cut-engagement-ring-3-0ct?variant=42150999654465)
     Availability: Available
-    Price: €1,105.00 EUR
+    Price: €1,095.00 EUR
   - [Moissanite / 18K Yellow Gold / 7.25](https://www.chantalvaulet.com/products/etoile-round-cut-engagement-ring-3-0ct?variant=42150999687233)
     Availability: Available
-    Price: €1,105.00 EUR
+    Price: €1,095.00 EUR
   - [Moissanite / 18K Yellow Gold / 7.75](https://www.chantalvaulet.com/products/etoile-round-cut-engagement-ring-3-0ct?variant=42150999720001)
     Availability: Available
-    Price: €1,105.00 EUR
+    Price: €1,095.00 EUR
   - [Moissanite / 18K Yellow Gold / 8](https://www.chantalvaulet.com/products/etoile-round-cut-engagement-ring-3-0ct?variant=42150999752769)
     Availability: Available
-    Price: €1,105.00 EUR
+    Price: €1,095.00 EUR
   - [Moissanite / 18K Yellow Gold / 8½](https://www.chantalvaulet.com/products/etoile-round-cut-engagement-ring-3-0ct?variant=42150999785537)
     Availability: Available
-    Price: €1,105.00 EUR
+    Price: €1,095.00 EUR
   - [Moissanite / 18K Yellow Gold / 8.75](https://www.chantalvaulet.com/products/etoile-round-cut-engagement-ring-3-0ct?variant=42150999818305)
     Availability: Available
-    Price: €1,105.00 EUR
+    Price: €1,095.00 EUR
   - [Moissanite / 18K Yellow Gold / 9](https://www.chantalvaulet.com/products/etoile-round-cut-engagement-ring-3-0ct?variant=42150999851073)
     Availability: Available
-    Price: €1,105.00 EUR
-  - [Moissanite / Platinum / 5](https://www.chantalvaulet.com/products/etoile-round-cut-engagement-ring-3-0ct?variant=42150999883841)
-    Availability: Available
-    Price: €1,090.00 EUR
-  - [Moissanite / Platinum / 5.25](https://www.chantalvaulet.com/products/etoile-round-cut-engagement-ring-3-0ct?variant=42150999916609)
-    Availability: Available
-    Price: €1,090.00 EUR
-  - [Moissanite / Platinum / 5.75](https://www.chantalvaulet.com/products/etoile-round-cut-engagement-ring-3-0ct?variant=42150999949377)
-    Availability: Available
-    Price: €1,090.00 EUR
-  - [Moissanite / Platinum / 6](https://www.chantalvaulet.com/products/etoile-round-cut-engagement-ring-3-0ct?variant=42150999982145)
-    Availability: Available
-    Price: €1,090.00 EUR
-  - [Moissanite / Platinum / 6.5](https://www.chantalvaulet.com/products/etoile-round-cut-engagement-ring-3-0ct?variant=42151000014913)
-    Availability: Available
-    Price: €1,090.00 EUR
-  - [Moissanite / Platinum / 7](https://www.chantalvaulet.com/products/etoile-round-cut-engagement-ring-3-0ct?variant=42151000047681)
-    Availability: Available
-    Price: €1,090.00 EUR
-  - [Moissanite / Platinum / 7.25](https://www.chantalvaulet.com/products/etoile-round-cut-engagement-ring-3-0ct?variant=42151000080449)
-    Availability: Available
-    Price: €1,090.00 EUR
-  - [Moissanite / Platinum / 7.75](https://www.chantalvaulet.com/products/etoile-round-cut-engagement-ring-3-0ct?variant=42151000113217)
-    Availability: Available
-    Price: €1,090.00 EUR
-  - [Moissanite / Platinum / 8](https://www.chantalvaulet.com/products/etoile-round-cut-engagement-ring-3-0ct?variant=42151000145985)
-    Availability: Available
-    Price: €1,090.00 EUR
-  - [Moissanite / Platinum / 8½](https://www.chantalvaulet.com/products/etoile-round-cut-engagement-ring-3-0ct?variant=42151000178753)
-    Availability: Available
-    Price: €1,090.00 EUR
-  - [Moissanite / Platinum / 8.75](https://www.chantalvaulet.com/products/etoile-round-cut-engagement-ring-3-0ct?variant=42151000211521)
-    Availability: Available
-    Price: €1,090.00 EUR
-  - [Moissanite / Platinum / 9](https://www.chantalvaulet.com/products/etoile-round-cut-engagement-ring-3-0ct?variant=42151000244289)
-    Availability: Available
-    Price: €1,090.00 EUR
+    Price: €1,095.00 EUR
   - [Lab Diamond / 9K Yellow Gold / 5](https://www.chantalvaulet.com/products/etoile-round-cut-engagement-ring-3-0ct?variant=42151000277057)
     Availability: Available
-    Price: €2,150.00 EUR
+    Price: €1,650.00 EUR
   - [Lab Diamond / 9K Yellow Gold / 5.25](https://www.chantalvaulet.com/products/etoile-round-cut-engagement-ring-3-0ct?variant=42151000309825)
     Availability: Available
-    Price: €2,150.00 EUR
+    Price: €1,650.00 EUR
+  - [Lab Diamond / 9K Yellow Gold / 5.75](https://www.chantalvaulet.com/products/etoile-round-cut-engagement-ring-3-0ct?variant=42151000342593)
+    Availability: Available
+    Price: €1,650.00 EUR
+  - [Lab Diamond / 9K Yellow Gold / 6](https://www.chantalvaulet.com/products/etoile-round-cut-engagement-ring-3-0ct?variant=42151000375361)
+    Availability: Available
+    Price: €1,650.00 EUR
+  - [Lab Diamond / 9K Yellow Gold / 6.5](https://www.chantalvaulet.com/products/etoile-round-cut-engagement-ring-3-0ct?variant=42151000408129)
+    Availability: Available
+    Price: €1,650.00 EUR
+  - [Lab Diamond / 9K Yellow Gold / 7](https://www.chantalvaulet.com/products/etoile-round-cut-engagement-ring-3-0ct?variant=42151000440897)
+    Availability: Available
+    Price: €1,650.00 EUR
+  - [Lab Diamond / 9K Yellow Gold / 7.25](https://www.chantalvaulet.com/products/etoile-round-cut-engagement-ring-3-0ct?variant=42151000473665)
+    Availability: Available
+    Price: €1,650.00 EUR
+  - [Lab Diamond / 9K Yellow Gold / 7.75](https://www.chantalvaulet.com/products/etoile-round-cut-engagement-ring-3-0ct?variant=42151000506433)
+    Availability: Available
+    Price: €1,650.00 EUR
+  - [Lab Diamond / 9K Yellow Gold / 8](https://www.chantalvaulet.com/products/etoile-round-cut-engagement-ring-3-0ct?variant=42151000539201)
+    Availability: Available
+    Price: €1,650.00 EUR
+  - [Lab Diamond / 9K Yellow Gold / 8½](https://www.chantalvaulet.com/products/etoile-round-cut-engagement-ring-3-0ct?variant=42151000571969)
+    Availability: Available
+    Price: €1,650.00 EUR
+  - [Lab Diamond / 9K Yellow Gold / 8.75](https://www.chantalvaulet.com/products/etoile-round-cut-engagement-ring-3-0ct?variant=42151000604737)
+    Availability: Available
+    Price: €1,650.00 EUR
+  - [Lab Diamond / 9K Yellow Gold / 9](https://www.chantalvaulet.com/products/etoile-round-cut-engagement-ring-3-0ct?variant=42151000637505)
+    Availability: Available
+    Price: €1,650.00 EUR
+  - [Lab Diamond / 14K Yellow Gold / 5](https://www.chantalvaulet.com/products/etoile-round-cut-engagement-ring-3-0ct?variant=42151000670273)
+    Availability: Available
+    Price: €1,860.00 EUR
+  - [Lab Diamond / 14K Yellow Gold / 5.25](https://www.chantalvaulet.com/products/etoile-round-cut-engagement-ring-3-0ct?variant=42151000703041)
+    Availability: Available
+    Price: €1,860.00 EUR
 - [Éclairia 4CT Radiant-Cut Lab Diamond Engagement Ring](https://www.chantalvaulet.com/products/eclairia-4ct-radiant-cut-ring): Discover the Éclairia engagement ring with a 4CT radiant-cut lab diamond and 154 pavé-set accents. Ethical luxury with breathtaking brilliance.
   Updated: 2025-10-09T10:05:12Z
   Vendor: Chantal Vaulet
@@ -10239,8 +10239,8 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
   - [Platinum / 9](https://www.chantalvaulet.com/products/the-sendrina-lab-diamond-eternity-band?variant=42151430291521)
     Availability: Available
     Price: €959.00 EUR
-- [The Lunessia 3.57 CT Lab Grown Diamond Eternity Band](https://www.chantalvaulet.com/products/the-lunessia-3-5mm-round-eternity-ring): Discover the Lunessia 3.57CT lab diamond ring, a radiant eternity band symbolizing eternal love. Ethically crafted with 21 brilliant stones.
-  Updated: 2025-09-28T19:29:01Z
+- [The Lunessia](https://www.chantalvaulet.com/products/the-lunessia-3-5mm-round-eternity-ring): Discover the Lunessia 3.57CT lab diamond ring, a radiant eternity band symbolizing eternal love. Ethically crafted with 21 brilliant stones.
+  Updated: 2025-10-10T19:42:55Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
@@ -10389,390 +10389,390 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
   - [Platinum / 9](https://www.chantalvaulet.com/products/the-lunessia-3-5mm-round-eternity-ring?variant=42153901719617)
     Availability: Available
     Price: €1,235.00 EUR
-- [The Luciella 2.5 mm Lab Grown Diamond Half Eternity Ring](https://www.chantalvaulet.com/products/2-5mm-half-eternity-lab-diamond-ring-the-luciella-chantal-vaulet): The Luciella is a 2.5MM lab diamond half eternity ring, featuring 9 ethical diamonds that radiate timeless elegance and beauty.
-  Updated: 2025-09-28T19:29:01Z
+- [The Luciella](https://www.chantalvaulet.com/products/2-5mm-half-eternity-lab-diamond-ring-the-luciella-chantal-vaulet): The Luciella is a 2.5MM lab diamond half eternity ring, featuring 9 ethical diamonds that radiate timeless elegance and beauty.
+  Updated: 2025-10-10T19:42:02Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/The-Luciella-25MM-Moissanite-or-Lab-Diamond-Half-Eternity-Ring.webp?v=1758214772
   - [9K Yellow Gold / 5](https://www.chantalvaulet.com/products/2-5mm-half-eternity-lab-diamond-ring-the-luciella-chantal-vaulet?variant=42153926787137)
     Availability: Available
-    Price: €509.00 EUR
+    Price: €539.00 EUR
   - [9K Yellow Gold / 5.25](https://www.chantalvaulet.com/products/2-5mm-half-eternity-lab-diamond-ring-the-luciella-chantal-vaulet?variant=42153926819905)
     Availability: Available
-    Price: €509.00 EUR
+    Price: €539.00 EUR
   - [9K Yellow Gold / 5.75](https://www.chantalvaulet.com/products/2-5mm-half-eternity-lab-diamond-ring-the-luciella-chantal-vaulet?variant=42153926852673)
     Availability: Available
-    Price: €509.00 EUR
+    Price: €539.00 EUR
   - [9K Yellow Gold / 6](https://www.chantalvaulet.com/products/2-5mm-half-eternity-lab-diamond-ring-the-luciella-chantal-vaulet?variant=42153926885441)
     Availability: Available
-    Price: €509.00 EUR
+    Price: €539.00 EUR
   - [9K Yellow Gold / 6.5](https://www.chantalvaulet.com/products/2-5mm-half-eternity-lab-diamond-ring-the-luciella-chantal-vaulet?variant=42153926918209)
     Availability: Available
-    Price: €509.00 EUR
+    Price: €539.00 EUR
   - [9K Yellow Gold / 7](https://www.chantalvaulet.com/products/2-5mm-half-eternity-lab-diamond-ring-the-luciella-chantal-vaulet?variant=42153926950977)
     Availability: Available
-    Price: €509.00 EUR
+    Price: €539.00 EUR
   - [9K Yellow Gold / 7.25](https://www.chantalvaulet.com/products/2-5mm-half-eternity-lab-diamond-ring-the-luciella-chantal-vaulet?variant=42153926983745)
     Availability: Available
-    Price: €509.00 EUR
+    Price: €539.00 EUR
   - [9K Yellow Gold / 7.75](https://www.chantalvaulet.com/products/2-5mm-half-eternity-lab-diamond-ring-the-luciella-chantal-vaulet?variant=42153927016513)
     Availability: Available
-    Price: €509.00 EUR
+    Price: €539.00 EUR
   - [9K Yellow Gold / 8](https://www.chantalvaulet.com/products/2-5mm-half-eternity-lab-diamond-ring-the-luciella-chantal-vaulet?variant=42153927049281)
     Availability: Available
-    Price: €509.00 EUR
+    Price: €539.00 EUR
   - [9K Yellow Gold / 8½](https://www.chantalvaulet.com/products/2-5mm-half-eternity-lab-diamond-ring-the-luciella-chantal-vaulet?variant=42153927082049)
     Availability: Available
-    Price: €509.00 EUR
+    Price: €539.00 EUR
   - [9K Yellow Gold / 8.75](https://www.chantalvaulet.com/products/2-5mm-half-eternity-lab-diamond-ring-the-luciella-chantal-vaulet?variant=42153927114817)
     Availability: Available
-    Price: €509.00 EUR
+    Price: €539.00 EUR
   - [9K Yellow Gold / 9](https://www.chantalvaulet.com/products/2-5mm-half-eternity-lab-diamond-ring-the-luciella-chantal-vaulet?variant=42153927147585)
     Availability: Available
-    Price: €509.00 EUR
+    Price: €539.00 EUR
   - [14K Yellow Gold / 5](https://www.chantalvaulet.com/products/2-5mm-half-eternity-lab-diamond-ring-the-luciella-chantal-vaulet?variant=42153927180353)
     Availability: Available
-    Price: €675.00 EUR
+    Price: €709.00 EUR
   - [14K Yellow Gold / 5.25](https://www.chantalvaulet.com/products/2-5mm-half-eternity-lab-diamond-ring-the-luciella-chantal-vaulet?variant=42153927213121)
     Availability: Available
-    Price: €675.00 EUR
+    Price: €709.00 EUR
   - [14K Yellow Gold / 5.75](https://www.chantalvaulet.com/products/2-5mm-half-eternity-lab-diamond-ring-the-luciella-chantal-vaulet?variant=42153927245889)
     Availability: Available
-    Price: €675.00 EUR
+    Price: €709.00 EUR
   - [14K Yellow Gold / 6](https://www.chantalvaulet.com/products/2-5mm-half-eternity-lab-diamond-ring-the-luciella-chantal-vaulet?variant=42153927278657)
     Availability: Available
-    Price: €675.00 EUR
+    Price: €709.00 EUR
   - [14K Yellow Gold / 6.5](https://www.chantalvaulet.com/products/2-5mm-half-eternity-lab-diamond-ring-the-luciella-chantal-vaulet?variant=42153927311425)
     Availability: Available
-    Price: €675.00 EUR
+    Price: €709.00 EUR
   - [14K Yellow Gold / 7](https://www.chantalvaulet.com/products/2-5mm-half-eternity-lab-diamond-ring-the-luciella-chantal-vaulet?variant=42153927344193)
     Availability: Available
-    Price: €675.00 EUR
+    Price: €709.00 EUR
   - [14K Yellow Gold / 7.25](https://www.chantalvaulet.com/products/2-5mm-half-eternity-lab-diamond-ring-the-luciella-chantal-vaulet?variant=42153927376961)
     Availability: Available
-    Price: €675.00 EUR
+    Price: €709.00 EUR
   - [14K Yellow Gold / 7.75](https://www.chantalvaulet.com/products/2-5mm-half-eternity-lab-diamond-ring-the-luciella-chantal-vaulet?variant=42153927409729)
     Availability: Available
-    Price: €675.00 EUR
+    Price: €709.00 EUR
   - [14K Yellow Gold / 8](https://www.chantalvaulet.com/products/2-5mm-half-eternity-lab-diamond-ring-the-luciella-chantal-vaulet?variant=42153927442497)
     Availability: Available
-    Price: €675.00 EUR
+    Price: €709.00 EUR
   - [14K Yellow Gold / 8½](https://www.chantalvaulet.com/products/2-5mm-half-eternity-lab-diamond-ring-the-luciella-chantal-vaulet?variant=42153927475265)
     Availability: Available
-    Price: €675.00 EUR
+    Price: €709.00 EUR
   - [14K Yellow Gold / 8.75](https://www.chantalvaulet.com/products/2-5mm-half-eternity-lab-diamond-ring-the-luciella-chantal-vaulet?variant=42153927508033)
     Availability: Available
-    Price: €675.00 EUR
+    Price: €709.00 EUR
   - [14K Yellow Gold / 9](https://www.chantalvaulet.com/products/2-5mm-half-eternity-lab-diamond-ring-the-luciella-chantal-vaulet?variant=42153927540801)
     Availability: Available
-    Price: €675.00 EUR
+    Price: €709.00 EUR
   - [18K Yellow Gold / 5](https://www.chantalvaulet.com/products/2-5mm-half-eternity-lab-diamond-ring-the-luciella-chantal-vaulet?variant=42153927573569)
     Availability: Available
-    Price: €875.00 EUR
+    Price: €835.00 EUR
   - [18K Yellow Gold / 5.25](https://www.chantalvaulet.com/products/2-5mm-half-eternity-lab-diamond-ring-the-luciella-chantal-vaulet?variant=42153927606337)
     Availability: Available
-    Price: €875.00 EUR
+    Price: €835.00 EUR
   - [18K Yellow Gold / 5.75](https://www.chantalvaulet.com/products/2-5mm-half-eternity-lab-diamond-ring-the-luciella-chantal-vaulet?variant=42153927639105)
     Availability: Available
-    Price: €875.00 EUR
+    Price: €835.00 EUR
   - [18K Yellow Gold / 6](https://www.chantalvaulet.com/products/2-5mm-half-eternity-lab-diamond-ring-the-luciella-chantal-vaulet?variant=42153927671873)
     Availability: Available
-    Price: €875.00 EUR
+    Price: €835.00 EUR
   - [18K Yellow Gold / 6.5](https://www.chantalvaulet.com/products/2-5mm-half-eternity-lab-diamond-ring-the-luciella-chantal-vaulet?variant=42153927704641)
     Availability: Available
-    Price: €875.00 EUR
+    Price: €835.00 EUR
   - [18K Yellow Gold / 7](https://www.chantalvaulet.com/products/2-5mm-half-eternity-lab-diamond-ring-the-luciella-chantal-vaulet?variant=42153927737409)
     Availability: Available
-    Price: €875.00 EUR
+    Price: €835.00 EUR
   - [18K Yellow Gold / 7.25](https://www.chantalvaulet.com/products/2-5mm-half-eternity-lab-diamond-ring-the-luciella-chantal-vaulet?variant=42153927770177)
     Availability: Available
-    Price: €875.00 EUR
+    Price: €835.00 EUR
   - [18K Yellow Gold / 7.75](https://www.chantalvaulet.com/products/2-5mm-half-eternity-lab-diamond-ring-the-luciella-chantal-vaulet?variant=42153927802945)
     Availability: Available
-    Price: €875.00 EUR
+    Price: €835.00 EUR
   - [18K Yellow Gold / 8](https://www.chantalvaulet.com/products/2-5mm-half-eternity-lab-diamond-ring-the-luciella-chantal-vaulet?variant=42153927835713)
     Availability: Available
-    Price: €875.00 EUR
+    Price: €835.00 EUR
   - [18K Yellow Gold / 8½](https://www.chantalvaulet.com/products/2-5mm-half-eternity-lab-diamond-ring-the-luciella-chantal-vaulet?variant=42153927868481)
     Availability: Available
-    Price: €875.00 EUR
+    Price: €835.00 EUR
   - [18K Yellow Gold / 8.75](https://www.chantalvaulet.com/products/2-5mm-half-eternity-lab-diamond-ring-the-luciella-chantal-vaulet?variant=42153927901249)
     Availability: Available
-    Price: €875.00 EUR
+    Price: €835.00 EUR
   - [18K Yellow Gold / 9](https://www.chantalvaulet.com/products/2-5mm-half-eternity-lab-diamond-ring-the-luciella-chantal-vaulet?variant=42153927934017)
     Availability: Available
-    Price: €875.00 EUR
+    Price: €835.00 EUR
   - [Platinum / 5](https://www.chantalvaulet.com/products/2-5mm-half-eternity-lab-diamond-ring-the-luciella-chantal-vaulet?variant=42153922101313)
     Availability: Available
-    Price: €669.00 EUR
+    Price: €689.00 EUR
   - [Platinum / 5.25](https://www.chantalvaulet.com/products/2-5mm-half-eternity-lab-diamond-ring-the-luciella-chantal-vaulet?variant=42153922134081)
     Availability: Available
-    Price: €669.00 EUR
+    Price: €689.00 EUR
   - [Platinum / 5.75](https://www.chantalvaulet.com/products/2-5mm-half-eternity-lab-diamond-ring-the-luciella-chantal-vaulet?variant=42153922166849)
     Availability: Available
-    Price: €669.00 EUR
+    Price: €689.00 EUR
   - [Platinum / 6](https://www.chantalvaulet.com/products/2-5mm-half-eternity-lab-diamond-ring-the-luciella-chantal-vaulet?variant=42153922199617)
     Availability: Available
-    Price: €669.00 EUR
+    Price: €689.00 EUR
   - [Platinum / 6.5](https://www.chantalvaulet.com/products/2-5mm-half-eternity-lab-diamond-ring-the-luciella-chantal-vaulet?variant=42153922232385)
     Availability: Available
-    Price: €669.00 EUR
+    Price: €689.00 EUR
   - [Platinum / 7](https://www.chantalvaulet.com/products/2-5mm-half-eternity-lab-diamond-ring-the-luciella-chantal-vaulet?variant=42153922265153)
     Availability: Available
-    Price: €669.00 EUR
+    Price: €689.00 EUR
   - [Platinum / 7.25](https://www.chantalvaulet.com/products/2-5mm-half-eternity-lab-diamond-ring-the-luciella-chantal-vaulet?variant=42153922297921)
     Availability: Available
-    Price: €669.00 EUR
+    Price: €689.00 EUR
   - [Platinum / 7.75](https://www.chantalvaulet.com/products/2-5mm-half-eternity-lab-diamond-ring-the-luciella-chantal-vaulet?variant=42153922330689)
     Availability: Available
-    Price: €669.00 EUR
+    Price: €689.00 EUR
   - [Platinum / 8](https://www.chantalvaulet.com/products/2-5mm-half-eternity-lab-diamond-ring-the-luciella-chantal-vaulet?variant=42153922363457)
     Availability: Available
-    Price: €669.00 EUR
+    Price: €689.00 EUR
   - [Platinum / 8½](https://www.chantalvaulet.com/products/2-5mm-half-eternity-lab-diamond-ring-the-luciella-chantal-vaulet?variant=42153922396225)
     Availability: Available
-    Price: €669.00 EUR
+    Price: €689.00 EUR
   - [Platinum / 8.75](https://www.chantalvaulet.com/products/2-5mm-half-eternity-lab-diamond-ring-the-luciella-chantal-vaulet?variant=42153922428993)
     Availability: Available
-    Price: €669.00 EUR
+    Price: €689.00 EUR
   - [Platinum / 9](https://www.chantalvaulet.com/products/2-5mm-half-eternity-lab-diamond-ring-the-luciella-chantal-vaulet?variant=42153922461761)
     Availability: Available
-    Price: €669.00 EUR
+    Price: €689.00 EUR
 - [The Maristela 1.5CT Round Cut Moissanite or Lab Grown Diamond Engagement Ring](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela): The Maristela is a 1.5 carat round-cut moissanite or lab diamond ring, radiating elegance and brilliance, crafted in exquisite detail.
-  Updated: 2025-09-28T19:29:01Z
+  Updated: 2025-10-10T17:41:14Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/The-Maristela-15CT-Round-Cut-Moissanite-or-Lab-Diamond-Ring.webp?v=1758214798
-  - [Moissanite / 9K Yellow Gold / 5](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42154003431489)
+  - [Moissanite / 9K White Gold / 5](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42918639796289)
     Availability: Available
-    Price: €599.00 EUR
-  - [Moissanite / 9K Yellow Gold / 5.25](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42154003464257)
+    Price: €510.00 EUR
+  - [Moissanite / 9K White Gold / 5.25](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42918639829057)
     Availability: Available
-    Price: €599.00 EUR
-  - [Moissanite / 9K Yellow Gold / 5.75](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42154003497025)
+    Price: €510.00 EUR
+  - [Moissanite / 9K White Gold / 5.75](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42918639861825)
     Availability: Available
-    Price: €599.00 EUR
-  - [Moissanite / 9K Yellow Gold / 6](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42154003529793)
+    Price: €510.00 EUR
+  - [Moissanite / 9K White Gold / 6](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42918639894593)
     Availability: Available
-    Price: €599.00 EUR
-  - [Moissanite / 9K Yellow Gold / 6.5](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42154003562561)
+    Price: €510.00 EUR
+  - [Moissanite / 9K White Gold / 6.5](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42918639927361)
     Availability: Available
-    Price: €599.00 EUR
-  - [Moissanite / 9K Yellow Gold / 7](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42154003595329)
+    Price: €510.00 EUR
+  - [Moissanite / 9K White Gold / 7](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42918639960129)
     Availability: Available
-    Price: €599.00 EUR
-  - [Moissanite / 9K Yellow Gold / 7.25](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42154003628097)
+    Price: €510.00 EUR
+  - [Moissanite / 9K White Gold / 7.25](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42918639992897)
     Availability: Available
-    Price: €599.00 EUR
-  - [Moissanite / 9K Yellow Gold / 7.75](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42154003660865)
+    Price: €510.00 EUR
+  - [Moissanite / 9K White Gold / 7.75](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42918640025665)
     Availability: Available
-    Price: €599.00 EUR
-  - [Moissanite / 9K Yellow Gold / 8](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42154003693633)
+    Price: €510.00 EUR
+  - [Moissanite / 9K White Gold / 8](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42918640058433)
     Availability: Available
-    Price: €599.00 EUR
-  - [Moissanite / 9K Yellow Gold / 8½](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42154003726401)
+    Price: €510.00 EUR
+  - [Moissanite / 9K White Gold / 8½](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42918640091201)
     Availability: Available
-    Price: €599.00 EUR
-  - [Moissanite / 9K Yellow Gold / 8.75](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42154003759169)
+    Price: €510.00 EUR
+  - [Moissanite / 9K White Gold / 8.75](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42918640123969)
     Availability: Available
-    Price: €599.00 EUR
-  - [Moissanite / 9K Yellow Gold / 9](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42154003791937)
+    Price: €510.00 EUR
+  - [Moissanite / 9K White Gold / 9](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42918640156737)
     Availability: Available
-    Price: €599.00 EUR
-  - [Moissanite / 14K Yellow Gold / 5](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42154003824705)
+    Price: €510.00 EUR
+  - [Moissanite / 14K White Gold / 5](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42918640189505)
     Availability: Available
-    Price: €775.00 EUR
-  - [Moissanite / 14K Yellow Gold / 5.25](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42154003857473)
+    Price: €699.00 EUR
+  - [Moissanite / 14K White Gold / 5.25](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42918640222273)
     Availability: Available
-    Price: €775.00 EUR
-  - [Moissanite / 14K Yellow Gold / 5.75](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42154003890241)
+    Price: €699.00 EUR
+  - [Moissanite / 14K White Gold / 5.75](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42918640255041)
     Availability: Available
-    Price: €775.00 EUR
-  - [Moissanite / 14K Yellow Gold / 6](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42154003923009)
+    Price: €699.00 EUR
+  - [Moissanite / 14K White Gold / 6](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42918640287809)
     Availability: Available
-    Price: €775.00 EUR
-  - [Moissanite / 14K Yellow Gold / 6.5](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42154003955777)
+    Price: €699.00 EUR
+  - [Moissanite / 14K White Gold / 6.5](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42918640320577)
     Availability: Available
-    Price: €775.00 EUR
-  - [Moissanite / 14K Yellow Gold / 7](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42154003988545)
+    Price: €699.00 EUR
+  - [Moissanite / 14K White Gold / 7](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42918640353345)
     Availability: Available
-    Price: €775.00 EUR
-  - [Moissanite / 14K Yellow Gold / 7.25](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42154004021313)
+    Price: €699.00 EUR
+  - [Moissanite / 14K White Gold / 7.25](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42918640386113)
     Availability: Available
-    Price: €775.00 EUR
-  - [Moissanite / 14K Yellow Gold / 7.75](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42154004054081)
+    Price: €699.00 EUR
+  - [Moissanite / 14K White Gold / 7.75](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42918640418881)
     Availability: Available
-    Price: €775.00 EUR
-  - [Moissanite / 14K Yellow Gold / 8](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42154004086849)
+    Price: €699.00 EUR
+  - [Moissanite / 14K White Gold / 8](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42918640451649)
     Availability: Available
-    Price: €775.00 EUR
-  - [Moissanite / 14K Yellow Gold / 8½](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42154004119617)
+    Price: €699.00 EUR
+  - [Moissanite / 14K White Gold / 8½](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42918640484417)
     Availability: Available
-    Price: €775.00 EUR
-  - [Moissanite / 14K Yellow Gold / 8.75](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42154004152385)
+    Price: €699.00 EUR
+  - [Moissanite / 14K White Gold / 8.75](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42918640517185)
     Availability: Available
-    Price: €775.00 EUR
-  - [Moissanite / 14K Yellow Gold / 9](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42154004185153)
+    Price: €699.00 EUR
+  - [Moissanite / 14K White Gold / 9](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42918640549953)
     Availability: Available
-    Price: €775.00 EUR
-  - [Moissanite / 18K Yellow Gold / 5](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42154004217921)
+    Price: €699.00 EUR
+  - [Moissanite / 18K White Gold / 5](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42918640582721)
     Availability: Available
-    Price: €1,059.00 EUR
-  - [Moissanite / 18K Yellow Gold / 5.25](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42154004250689)
+    Price: €849.00 EUR
+  - [Moissanite / 18K White Gold / 5.25](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42918640615489)
     Availability: Available
-    Price: €1,059.00 EUR
-  - [Moissanite / 18K Yellow Gold / 5.75](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42154004283457)
+    Price: €849.00 EUR
+  - [Moissanite / 18K White Gold / 5.75](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42918640648257)
     Availability: Available
-    Price: €1,059.00 EUR
-  - [Moissanite / 18K Yellow Gold / 6](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42154004316225)
+    Price: €849.00 EUR
+  - [Moissanite / 18K White Gold / 6](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42918640681025)
     Availability: Available
-    Price: €1,059.00 EUR
-  - [Moissanite / 18K Yellow Gold / 6.5](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42154004348993)
+    Price: €849.00 EUR
+  - [Moissanite / 18K White Gold / 6.5](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42918640713793)
     Availability: Available
-    Price: €1,059.00 EUR
-  - [Moissanite / 18K Yellow Gold / 7](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42154004381761)
+    Price: €849.00 EUR
+  - [Moissanite / 18K White Gold / 7](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42918640746561)
     Availability: Available
-    Price: €1,059.00 EUR
-  - [Moissanite / 18K Yellow Gold / 7.25](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42154004414529)
+    Price: €849.00 EUR
+  - [Moissanite / 18K White Gold / 7.25](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42918640779329)
     Availability: Available
-    Price: €1,059.00 EUR
-  - [Moissanite / 18K Yellow Gold / 7.75](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42154004447297)
+    Price: €849.00 EUR
+  - [Moissanite / 18K White Gold / 7.75](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42918640812097)
     Availability: Available
-    Price: €1,059.00 EUR
-  - [Moissanite / 18K Yellow Gold / 8](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42154004480065)
+    Price: €849.00 EUR
+  - [Moissanite / 18K White Gold / 8](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42918640844865)
     Availability: Available
-    Price: €1,059.00 EUR
-  - [Moissanite / 18K Yellow Gold / 8½](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42154004512833)
+    Price: €849.00 EUR
+  - [Moissanite / 18K White Gold / 8½](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42918640877633)
     Availability: Available
-    Price: €1,059.00 EUR
-  - [Moissanite / 18K Yellow Gold / 8.75](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42154004545601)
+    Price: €849.00 EUR
+  - [Moissanite / 18K White Gold / 8.75](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42918640910401)
     Availability: Available
-    Price: €1,059.00 EUR
-  - [Moissanite / 18K Yellow Gold / 9](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42154004578369)
+    Price: €849.00 EUR
+  - [Moissanite / 18K White Gold / 9](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42918640943169)
     Availability: Available
-    Price: €1,059.00 EUR
+    Price: €849.00 EUR
   - [Moissanite / Platinum / 5](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42154004611137)
     Availability: Available
-    Price: €715.00 EUR
+    Price: €660.00 EUR
   - [Moissanite / Platinum / 5.25](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42154004643905)
     Availability: Available
-    Price: €715.00 EUR
+    Price: €660.00 EUR
   - [Moissanite / Platinum / 5.75](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42154004676673)
     Availability: Available
-    Price: €715.00 EUR
+    Price: €660.00 EUR
   - [Moissanite / Platinum / 6](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42154004709441)
     Availability: Available
-    Price: €715.00 EUR
+    Price: €660.00 EUR
   - [Moissanite / Platinum / 6.5](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42154004742209)
     Availability: Available
-    Price: €715.00 EUR
+    Price: €660.00 EUR
   - [Moissanite / Platinum / 7](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42154004774977)
     Availability: Available
-    Price: €715.00 EUR
+    Price: €660.00 EUR
   - [Moissanite / Platinum / 7.25](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42154004807745)
     Availability: Available
-    Price: €715.00 EUR
+    Price: €660.00 EUR
   - [Moissanite / Platinum / 7.75](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42154004840513)
     Availability: Available
-    Price: €715.00 EUR
+    Price: €660.00 EUR
   - [Moissanite / Platinum / 8](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42154004873281)
     Availability: Available
-    Price: €715.00 EUR
+    Price: €660.00 EUR
   - [Moissanite / Platinum / 8½](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42154004906049)
     Availability: Available
-    Price: €715.00 EUR
+    Price: €660.00 EUR
   - [Moissanite / Platinum / 8.75](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42154004938817)
     Availability: Available
-    Price: €715.00 EUR
+    Price: €660.00 EUR
   - [Moissanite / Platinum / 9](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42154004971585)
     Availability: Available
-    Price: €715.00 EUR
-  - [Lab Diamond / 9K Yellow Gold / 5](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42154005004353)
+    Price: €660.00 EUR
+  - [Lab Diamond / 9K White Gold / 5](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42918640975937)
     Availability: Available
-    Price: €935.00 EUR
-  - [Lab Diamond / 9K Yellow Gold / 5.25](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42154005037121)
+    Price: €1,069.00 EUR
+  - [Lab Diamond / 9K White Gold / 5.25](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela?variant=42918641008705)
     Availability: Available
-    Price: €935.00 EUR
-- [The Elvika 1.5CT Oval Cut Moissanite or Lab Grown Diamond Engagement Ring](https://www.chantalvaulet.com/products/1-5-ct-oval-moissanite-engagement-ring-the-elvika-chantal-vaulet): Discover the Elvika 1.5CT Oval-Cut Engagement Ring, merging Nordic elegance with stunning moissanite or lab diamond brilliance.
-  Updated: 2025-09-28T19:29:01Z
+    Price: €1,069.00 EUR
+- [The Elvika](https://www.chantalvaulet.com/products/1-5-ct-oval-moissanite-engagement-ring-the-elvika-chantal-vaulet): Discover the Elvika 1.5CT Oval-Cut Engagement Ring, merging Nordic elegance with stunning moissanite or lab diamond brilliance.
+  Updated: 2025-10-10T17:03:02Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/the-elvika-15ct-oval-cut-engagement-ring-chantal-vaulet-804720.webp?v=1758214837
   - [Moissanite / 9K Yellow Gold / 5](https://www.chantalvaulet.com/products/1-5-ct-oval-moissanite-engagement-ring-the-elvika-chantal-vaulet?variant=42154582638657)
     Availability: Available
-    Price: €259.00 EUR
+    Price: €290.00 EUR
   - [Moissanite / 9K Yellow Gold / 5.25](https://www.chantalvaulet.com/products/1-5-ct-oval-moissanite-engagement-ring-the-elvika-chantal-vaulet?variant=42154582671425)
     Availability: Available
-    Price: €259.00 EUR
+    Price: €290.00 EUR
   - [Moissanite / 9K Yellow Gold / 5.75](https://www.chantalvaulet.com/products/1-5-ct-oval-moissanite-engagement-ring-the-elvika-chantal-vaulet?variant=42154582704193)
     Availability: Available
-    Price: €259.00 EUR
+    Price: €290.00 EUR
   - [Moissanite / 9K Yellow Gold / 6](https://www.chantalvaulet.com/products/1-5-ct-oval-moissanite-engagement-ring-the-elvika-chantal-vaulet?variant=42154582736961)
     Availability: Available
-    Price: €259.00 EUR
+    Price: €290.00 EUR
   - [Moissanite / 9K Yellow Gold / 6.5](https://www.chantalvaulet.com/products/1-5-ct-oval-moissanite-engagement-ring-the-elvika-chantal-vaulet?variant=42154582769729)
     Availability: Available
-    Price: €259.00 EUR
+    Price: €290.00 EUR
   - [Moissanite / 9K Yellow Gold / 7](https://www.chantalvaulet.com/products/1-5-ct-oval-moissanite-engagement-ring-the-elvika-chantal-vaulet?variant=42154582802497)
     Availability: Available
-    Price: €259.00 EUR
+    Price: €290.00 EUR
   - [Moissanite / 9K Yellow Gold / 7.25](https://www.chantalvaulet.com/products/1-5-ct-oval-moissanite-engagement-ring-the-elvika-chantal-vaulet?variant=42154582835265)
     Availability: Available
-    Price: €259.00 EUR
+    Price: €290.00 EUR
   - [Moissanite / 9K Yellow Gold / 7.75](https://www.chantalvaulet.com/products/1-5-ct-oval-moissanite-engagement-ring-the-elvika-chantal-vaulet?variant=42154582868033)
     Availability: Available
-    Price: €259.00 EUR
+    Price: €290.00 EUR
   - [Moissanite / 9K Yellow Gold / 8](https://www.chantalvaulet.com/products/1-5-ct-oval-moissanite-engagement-ring-the-elvika-chantal-vaulet?variant=42154582900801)
     Availability: Available
-    Price: €259.00 EUR
+    Price: €290.00 EUR
   - [Moissanite / 9K Yellow Gold / 8½](https://www.chantalvaulet.com/products/1-5-ct-oval-moissanite-engagement-ring-the-elvika-chantal-vaulet?variant=42154582933569)
     Availability: Available
-    Price: €259.00 EUR
+    Price: €290.00 EUR
   - [Moissanite / 9K Yellow Gold / 8.75](https://www.chantalvaulet.com/products/1-5-ct-oval-moissanite-engagement-ring-the-elvika-chantal-vaulet?variant=42154582966337)
     Availability: Available
-    Price: €259.00 EUR
+    Price: €290.00 EUR
   - [Moissanite / 9K Yellow Gold / 9](https://www.chantalvaulet.com/products/1-5-ct-oval-moissanite-engagement-ring-the-elvika-chantal-vaulet?variant=42154582999105)
     Availability: Available
-    Price: €259.00 EUR
+    Price: €290.00 EUR
   - [Moissanite / 14K Yellow Gold / 5](https://www.chantalvaulet.com/products/1-5-ct-oval-moissanite-engagement-ring-the-elvika-chantal-vaulet?variant=42154583031873)
     Availability: Available
-    Price: €649.00 EUR
+    Price: €725.00 EUR
   - [Moissanite / 14K Yellow Gold / 5.25](https://www.chantalvaulet.com/products/1-5-ct-oval-moissanite-engagement-ring-the-elvika-chantal-vaulet?variant=42154583064641)
     Availability: Available
-    Price: €649.00 EUR
+    Price: €725.00 EUR
   - [Moissanite / 14K Yellow Gold / 5.75](https://www.chantalvaulet.com/products/1-5-ct-oval-moissanite-engagement-ring-the-elvika-chantal-vaulet?variant=42154583097409)
     Availability: Available
-    Price: €649.00 EUR
+    Price: €725.00 EUR
   - [Moissanite / 14K Yellow Gold / 6](https://www.chantalvaulet.com/products/1-5-ct-oval-moissanite-engagement-ring-the-elvika-chantal-vaulet?variant=42154583130177)
     Availability: Available
-    Price: €649.00 EUR
+    Price: €725.00 EUR
   - [Moissanite / 14K Yellow Gold / 6.5](https://www.chantalvaulet.com/products/1-5-ct-oval-moissanite-engagement-ring-the-elvika-chantal-vaulet?variant=42154583162945)
     Availability: Available
-    Price: €649.00 EUR
+    Price: €725.00 EUR
   - [Moissanite / 14K Yellow Gold / 7](https://www.chantalvaulet.com/products/1-5-ct-oval-moissanite-engagement-ring-the-elvika-chantal-vaulet?variant=42154583195713)
     Availability: Available
-    Price: €649.00 EUR
+    Price: €725.00 EUR
   - [Moissanite / 14K Yellow Gold / 7.25](https://www.chantalvaulet.com/products/1-5-ct-oval-moissanite-engagement-ring-the-elvika-chantal-vaulet?variant=42154583228481)
     Availability: Available
-    Price: €649.00 EUR
+    Price: €725.00 EUR
   - [Moissanite / 14K Yellow Gold / 7.75](https://www.chantalvaulet.com/products/1-5-ct-oval-moissanite-engagement-ring-the-elvika-chantal-vaulet?variant=42154583261249)
     Availability: Available
-    Price: €649.00 EUR
+    Price: €725.00 EUR
   - [Moissanite / 14K Yellow Gold / 8](https://www.chantalvaulet.com/products/1-5-ct-oval-moissanite-engagement-ring-the-elvika-chantal-vaulet?variant=42154583294017)
     Availability: Available
-    Price: €649.00 EUR
+    Price: €725.00 EUR
   - [Moissanite / 14K Yellow Gold / 8½](https://www.chantalvaulet.com/products/1-5-ct-oval-moissanite-engagement-ring-the-elvika-chantal-vaulet?variant=42154583326785)
     Availability: Available
-    Price: €649.00 EUR
+    Price: €725.00 EUR
   - [Moissanite / 14K Yellow Gold / 8.75](https://www.chantalvaulet.com/products/1-5-ct-oval-moissanite-engagement-ring-the-elvika-chantal-vaulet?variant=42154583359553)
     Availability: Available
-    Price: €649.00 EUR
+    Price: €725.00 EUR
   - [Moissanite / 14K Yellow Gold / 9](https://www.chantalvaulet.com/products/1-5-ct-oval-moissanite-engagement-ring-the-elvika-chantal-vaulet?variant=42154583392321)
     Availability: Available
-    Price: €649.00 EUR
+    Price: €725.00 EUR
   - [Moissanite / 18K Yellow Gold / 5](https://www.chantalvaulet.com/products/1-5-ct-oval-moissanite-engagement-ring-the-elvika-chantal-vaulet?variant=42154583425089)
     Availability: Available
     Price: €875.00 EUR
@@ -10811,87 +10811,87 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Price: €875.00 EUR
   - [Moissanite / Platinum / 5](https://www.chantalvaulet.com/products/1-5-ct-oval-moissanite-engagement-ring-the-elvika-chantal-vaulet?variant=42154583818305)
     Availability: Available
-    Price: €595.00 EUR
+    Price: €775.00 EUR
   - [Moissanite / Platinum / 5.25](https://www.chantalvaulet.com/products/1-5-ct-oval-moissanite-engagement-ring-the-elvika-chantal-vaulet?variant=42154583851073)
     Availability: Available
-    Price: €595.00 EUR
+    Price: €775.00 EUR
   - [Moissanite / Platinum / 5.75](https://www.chantalvaulet.com/products/1-5-ct-oval-moissanite-engagement-ring-the-elvika-chantal-vaulet?variant=42154583883841)
     Availability: Available
-    Price: €595.00 EUR
+    Price: €775.00 EUR
   - [Moissanite / Platinum / 6](https://www.chantalvaulet.com/products/1-5-ct-oval-moissanite-engagement-ring-the-elvika-chantal-vaulet?variant=42154583916609)
     Availability: Available
-    Price: €595.00 EUR
+    Price: €775.00 EUR
   - [Moissanite / Platinum / 6.5](https://www.chantalvaulet.com/products/1-5-ct-oval-moissanite-engagement-ring-the-elvika-chantal-vaulet?variant=42154583949377)
     Availability: Available
-    Price: €595.00 EUR
+    Price: €775.00 EUR
   - [Moissanite / Platinum / 7](https://www.chantalvaulet.com/products/1-5-ct-oval-moissanite-engagement-ring-the-elvika-chantal-vaulet?variant=42154583982145)
     Availability: Available
-    Price: €595.00 EUR
+    Price: €775.00 EUR
   - [Moissanite / Platinum / 7.25](https://www.chantalvaulet.com/products/1-5-ct-oval-moissanite-engagement-ring-the-elvika-chantal-vaulet?variant=42154584014913)
     Availability: Available
-    Price: €595.00 EUR
+    Price: €775.00 EUR
   - [Moissanite / Platinum / 7.75](https://www.chantalvaulet.com/products/1-5-ct-oval-moissanite-engagement-ring-the-elvika-chantal-vaulet?variant=42154584047681)
     Availability: Available
-    Price: €595.00 EUR
+    Price: €775.00 EUR
   - [Moissanite / Platinum / 8](https://www.chantalvaulet.com/products/1-5-ct-oval-moissanite-engagement-ring-the-elvika-chantal-vaulet?variant=42154584080449)
     Availability: Available
-    Price: €595.00 EUR
+    Price: €775.00 EUR
   - [Moissanite / Platinum / 8½](https://www.chantalvaulet.com/products/1-5-ct-oval-moissanite-engagement-ring-the-elvika-chantal-vaulet?variant=42154584113217)
     Availability: Available
-    Price: €595.00 EUR
+    Price: €775.00 EUR
   - [Moissanite / Platinum / 8.75](https://www.chantalvaulet.com/products/1-5-ct-oval-moissanite-engagement-ring-the-elvika-chantal-vaulet?variant=42154584145985)
     Availability: Available
-    Price: €595.00 EUR
+    Price: €775.00 EUR
   - [Moissanite / Platinum / 9](https://www.chantalvaulet.com/products/1-5-ct-oval-moissanite-engagement-ring-the-elvika-chantal-vaulet?variant=42154584178753)
     Availability: Available
-    Price: €595.00 EUR
+    Price: €775.00 EUR
   - [Lab Diamond / 9K Yellow Gold / 5](https://www.chantalvaulet.com/products/1-5-ct-oval-moissanite-engagement-ring-the-elvika-chantal-vaulet?variant=42154584211521)
     Availability: Available
-    Price: €850.00 EUR
+    Price: €1,075.00 EUR
   - [Lab Diamond / 9K Yellow Gold / 5.25](https://www.chantalvaulet.com/products/1-5-ct-oval-moissanite-engagement-ring-the-elvika-chantal-vaulet?variant=42154584244289)
     Availability: Available
-    Price: €850.00 EUR
-- [The Bellara 2 CT Lab Diamond Drop Earrings](https://www.chantalvaulet.com/products/the-bellara-2ct-lab-diamond-drop-earrings): Buy The Bellara 2CT Diamond Drop Earrings at Chantal Vaulet!
-  Updated: 2025-09-28T19:29:01Z
+    Price: €1,075.00 EUR
+- [The Bellara](https://www.chantalvaulet.com/products/the-bellara-2ct-lab-diamond-drop-earrings): Buy The Bellara 2CT Diamond Drop Earrings at Chantal Vaulet!
+  Updated: 2025-10-10T18:40:53Z
   Vendor: Chantal Vaulet
   Product Type: EARRINGS
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/the-bellara-2ct-moissanite-drop-earrings-chantal-vaulet-563421.webp?v=1758214876
   - [9K Yellow Gold](https://www.chantalvaulet.com/products/the-bellara-2ct-lab-diamond-drop-earrings?variant=42154724556865)
     Availability: Available
-    Price: €1,495.00 EUR
+    Price: €1,710.00 EUR
   - [14K Yellow Gold](https://www.chantalvaulet.com/products/the-bellara-2ct-lab-diamond-drop-earrings?variant=42154724589633)
     Availability: Available
-    Price: €1,675.00 EUR
+    Price: €1,849.00 EUR
   - [18K Yellow Gold](https://www.chantalvaulet.com/products/the-bellara-2ct-lab-diamond-drop-earrings?variant=42154724622401)
     Availability: Available
-    Price: €1,885.00 EUR
-- [The Solenia 1.5MM Lab Diamond Huggie Earrings](https://www.chantalvaulet.com/products/the-solenia-1-5mm-lab-diamond-huggie-earrings): Buy The Solenia 1.5MM Lab Diamond Huggie Earrings at Chantal Vaulet
-  Updated: 2025-09-28T19:29:01Z
+    Price: €1,955.00 EUR
+- [The Solenia](https://www.chantalvaulet.com/products/the-solenia-1-5mm-lab-diamond-huggie-earrings): Buy The Solenia 1.5MM Lab Diamond Huggie Earrings at Chantal Vaulet
+  Updated: 2025-10-10T18:24:10Z
   Vendor: Chantal Vaulet
   Product Type: EARRINGS
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/the-solenia-15mm-lab-diamond-huggie-earrings-chantal-vaulet-686006.webp?v=1758214916
   - [9K White Gold](https://www.chantalvaulet.com/products/the-solenia-1-5mm-lab-diamond-huggie-earrings?variant=42154817224769)
     Availability: Available
-    Price: €590.00 EUR
+    Price: €405.00 EUR
   - [14K White Gold](https://www.chantalvaulet.com/products/the-solenia-1-5mm-lab-diamond-huggie-earrings?variant=42154817257537)
     Availability: Available
-    Price: €770.00 EUR
+    Price: €515.00 EUR
   - [18K White Gold](https://www.chantalvaulet.com/products/the-solenia-1-5mm-lab-diamond-huggie-earrings?variant=42154817290305)
     Availability: Available
-    Price: €1,195.00 EUR
+    Price: €609.00 EUR
 
 ## Collections
 
 - [✨ Sale on Moissanite Jewelry: Silver & Gold Deals! 💍](https://www.chantalvaulet.com/collections/sale): Shop our exclusive sale on stunning moissanite jewelry in silver & gold! Don't miss out on these sparkling deals! ✨💖
-  Updated: 2025-10-09T10:05:13Z
+  Updated: 2025-10-10T19:42:45Z
   Total Products: 19
 - [Elegant Rings Collection - Perfect for Every Occasion](https://www.chantalvaulet.com/collections/rings): Discover our stunning collection of rings, designed to elevate your style for any occasion. Shop now for timeless elegance!
-  Updated: 2025-10-09T11:12:20Z
+  Updated: 2025-10-10T19:42:45Z
   Total Products: 131
 - [Stunning Earrings Collection 💎✨](https://www.chantalvaulet.com/collections/earrings): Explore our exquisite earrings collection featuring Moissanite, Gold, & Diamonds. Shine bright with every look! 💖🌟
-  Updated: 2025-10-05T15:10:59Z
+  Updated: 2025-10-10T18:40:55Z
   Total Products: 22
 - [✨ Stunning Moissanite Necklaces Collection 💎](https://www.chantalvaulet.com/collections/necklaces): Explore our exquisite Moissanite necklaces collection. Perfect elegance for every occasion! ✨
   Updated: 2025-10-05T15:09:25Z
@@ -10900,58 +10900,58 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
   Updated: 2025-09-28T19:28:43Z
   Total Products: 11
 - [Best Sellers Collection - Top Rated Products](https://www.chantalvaulet.com/collections/best-sellers): Explore our Best Sellers Collection featuring top-rated products that customers love! Discover what’s trending and shop now.
-  Updated: 2025-10-09T11:12:20Z
+  Updated: 2025-10-10T19:42:45Z
   Total Products: 199
 - [925 Sterling Silver Collection](https://www.chantalvaulet.com/collections/silver-925): Explore our exquisite 925 sterling silver jewelry collection, featuring timeless designs.
-  Updated: 2025-10-09T11:12:20Z
+  Updated: 2025-10-10T17:55:37Z
   Total Products: 186
 - [✨ White Gold Collection: Stunning Jewelry Pieces ✨](https://www.chantalvaulet.com/collections/white-gold): Explore our White Gold Collection featuring exquisite moissanite jewelry. Perfect for any occasion! 💍💖
-  Updated: 2025-10-09T10:05:13Z
-  Total Products: 7
+  Updated: 2025-10-10T19:42:45Z
+  Total Products: 8
 - [Yellow Gold Collection 💛 | Stunning 14k Gold & Moissanite](https://www.chantalvaulet.com/collections/yellow-gold): Explore our Yellow Gold Collection featuring exquisite 14k gold, Moissanite gems, and radiant diamonds! ✨💎
-  Updated: 2025-10-05T15:14:39Z
+  Updated: 2025-10-10T19:42:04Z
   Total Products: 6
 - [✨ Moissanite & Silver Treasures: €50-€150 Collection 💎](https://www.chantalvaulet.com/collections/price-between-50-eur-and-100-eur): Discover stunning Moissanite and silver pieces priced between 50 and 150 euro! Elevate your style with elegant jewelry! 💖
-  Updated: 2025-10-09T11:12:20Z
+  Updated: 2025-10-10T17:55:37Z
   Total Products: 167
 - [Jewelry Collection Above €150 | Moissanite, Gold, Diamonds](https://www.chantalvaulet.com/collections/above-150): Explore our exquisite collection of jewelry above €150 featuring stunning moissanite, gold, and diamond pieces.
-  Updated: 2025-10-09T10:05:13Z
+  Updated: 2025-10-10T19:42:45Z
   Total Products: 23
 - [Explore All Products: Jewelry, Moissanite, Diamonds ✨💎](https://www.chantalvaulet.com/collections/all-products): Shop our stunning selection of all products, including moissanite, diamonds, and gold jewelry! 💖
-  Updated: 2025-10-09T11:12:20Z
+  Updated: 2025-10-10T19:42:45Z
   Total Products: 199
 - [Lab-Grown Diamond Engagement Rings | Chantal Vaulet](https://www.chantalvaulet.com/collections/lab-grown-engagement-rings): Shop lab-grown diamond engagement rings—ethical, brilliant, and responsibly priced. Styles: solitaire, halo, oval, pear, emerald & more. Free delivery
-  Updated: 2025-10-09T10:05:13Z
+  Updated: 2025-10-10T17:30:45Z
   Total Products: 8
 - [Moissanite Engagement Rings](https://www.chantalvaulet.com/collections/moissanite-engagement-rings): Explore moissanite engagement rings—solitaire, halo & pavé. White, yellow or rose gold. Custom sizes, free shipping, lifetime care.
-  Updated: 2025-10-09T11:12:20Z
+  Updated: 2025-10-10T17:30:45Z
   Total Products: 107
 - [Stunning Bundles of Engagement & Wedding Jewelry](https://www.chantalvaulet.com/collections/bundles): Discover exquisite engagement rings, wedding rings, earrings, and necklaces crafted with moissanite and lab diamonds.
   Updated: 2025-09-28T19:28:44Z
   Total Products: 3
 - [Gold Collection - Exclusive Jewelry Pieces](https://www.chantalvaulet.com/collections/gold): Explore our stunning Gold Collection featuring exquisite designs and timeless pieces perfect for any occasion.
-  Updated: 2025-10-09T10:05:13Z
-  Total Products: 13
+  Updated: 2025-10-10T19:42:45Z
+  Total Products: 14
 - [Engagement Rings – Lab-Grown Diamonds & Moissanite | Chantal Vaulet](https://www.chantalvaulet.com/collections/engagement-rings): Shop engagement rings in lab-grown diamond or moissanite, solitaire, halo, oval & custom. Ethical, budget-friendly. Free shipping
-  Updated: 2025-10-09T11:12:20Z
+  Updated: 2025-10-10T17:30:45Z
   Total Products: 108
 - [Wedding Rings – Lab-Grown Diamonds & Moissanite | Chantal Vaulet](https://www.chantalvaulet.com/collections/wedding-rings): Wedding rings in lab-grown diamond and moissanite. Timeless to modern styles. Ethical sparkle, enduring quality. Budget friendly. Shop the collection.
-  Updated: 2025-10-04T08:47:42Z
+  Updated: 2025-10-10T19:42:45Z
   Total Products: 17
 - [Lab-Grown Diamond Wedding Rings | Chantal Vaulet](https://www.chantalvaulet.com/collections/lab-grown-wedding-rings): Shop lab-grown diamond wedding rings: ethical sparkle, exceptional value. Classic and modern bands—pavé, eternity, plain, and custom designs
-  Updated: 2025-09-28T19:28:44Z
+  Updated: 2025-10-10T19:42:45Z
   Total Products: 3
 - [Wedding Rings — Moissanite | Chantal Vaulet](https://www.chantalvaulet.com/collections/moissanite-wedding-rings): Browse handcrafted moissanite wedding rings & bands—eternity, pavé, solitaire, and matching sets. Ethical metals, custom sizing, and sparkle that lasts.
   Updated: 2025-10-04T08:47:42Z
   Total Products: 14
 - [Oval Engagement Rings — Lab-Grown & Moissanite | Chantal Vaulet](https://www.chantalvaulet.com/collections/oval-engagement-rings): Shop oval engagement rings in lab-grown diamond & moissanite. Ethical sparkle, customizable settings in 18K gold or platinum. Handcrafted by Chantal Vaulet.
-  Updated: 2025-10-05T18:55:59Z
+  Updated: 2025-10-10T16:59:29Z
   Total Products: 11
 - [Round Engagement Rings — Lab-Grown & Moissanite | Chantal Vaulet](https://www.chantalvaulet.com/collections/round-engagement-rings): Shop round engagement rings in lab-grown diamond & moissanite. Classic solitaire, halo & pavé designs in gold, platinum or silver. Free shipping
-  Updated: 2025-10-09T11:12:20Z
+  Updated: 2025-10-10T19:42:45Z
   Total Products: 149
 - [Emerald-Cut Engagement Rings — Lab-Grown & Moissanite | Chantal Vaulet](https://www.chantalvaulet.com/collections/emerald-cut-engagement-rings): Shop emerald-cut engagement rings in lab-grown diamond and moissanite—solitaire, three-stone, halo & vintage-inspired. Ethical sparkle, great value. Free shipping
-  Updated: 2025-10-05T18:55:19Z
+  Updated: 2025-10-10T17:55:37Z
   Total Products: 11
 - [Princess-Cut Engagement Rings — Lab-Grown & Moissanite | Chantal Vaulet](https://www.chantalvaulet.com/collections/princess-cut-engagement-rings): Shop princess-cut engagement rings in lab-grown diamond and moissanite—solitaire, halo, three-stone & vintage-inspired. Ethical sparkle, great value. Free shipping.
   Updated: 2025-10-05T18:55:30Z
@@ -10963,7 +10963,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
   Updated: 2025-10-05T18:54:39Z
   Total Products: 1
 - [Pear Engagement Rings — Lab-Grown & Moissanite | Chantal Vaulet](https://www.chantalvaulet.com/collections/pear-engagement-rings): Explore pear-shaped engagement rings in lab-grown diamond and moissanite—solitaire, halo & vintage styles. Ethical sparkle, flattering silhouette.
-  Updated: 2025-10-05T19:01:16Z
+  Updated: 2025-10-10T18:40:55Z
   Total Products: 16
 - [Radiant Engagement Rings — Lab-Grown & Moissanite | Chantal Vaulet](https://www.chantalvaulet.com/collections/radiant-engagement-rings): Explore radiant-cut engagement rings in lab-grown diamond and moissanite—solitaire, halo & pavé styles. Modern silhouette, brilliant sparkle, ethical stones.
   Updated: 2025-10-09T10:05:13Z
@@ -10972,10 +10972,10 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
   Updated: 2025-10-05T19:05:01Z
   Total Products: 4
 - [Eternity Rings – Lab-Grown Diamond & Moissanite | Chantal Vaulet](https://www.chantalvaulet.com/collections/eternity-rings): Explore full and half-eternity rings in lab-grown diamond and moissanite. Handcrafted bands with ethical sparkle and lasting shine. Free shipping.
-  Updated: 2025-10-05T19:17:11Z
+  Updated: 2025-10-10T19:42:45Z
   Total Products: 6
 - [Half-Eternity Rings – Lab-Grown Diamond & Moissanite | Chantal Vaulet](https://www.chantalvaulet.com/collections/half-eternity-rings): Discover half-eternity rings and wedding bands in lab-grown diamond and moissanite. Shared-prong, micro-pavé and channel styles. Resize-friendly. Free shipping.
-  Updated: 2025-10-05T19:25:40Z
+  Updated: 2025-10-10T19:42:04Z
   Total Products: 10
 - [Halo Engagement Rings – Lab-Grown & Moissanite | Chantal Vaulet](https://www.chantalvaulet.com/collections/halo-engagement-rings): Explore halo engagement rings in lab-grown diamond and moissanite—classic, hidden and double halo styles. Ethical, handcrafted quality. Free shipping.
   Updated: 2025-10-05T19:27:28Z
@@ -10987,16 +10987,16 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
   Updated: 2025-10-05T20:21:24Z
   Total Products: 2
 - [Solitaire Engagement Rings — Lab-Grown Diamond & Moissanite | Chantal Vaulet](https://www.chantalvaulet.com/collections/solitaire-engagement-rings): Discover classic solitaire engagement rings in lab-grown diamond & moissanite. Handcrafted settings, ethical materials, lifetime sparkle. Free shipping.
-  Updated: 2025-10-05T20:22:26Z
+  Updated: 2025-10-10T18:40:55Z
   Total Products: 43
 - [Statement Engagement Rings — Lab-Grown Diamond & Moissanite | Chantal Vaulet](https://www.chantalvaulet.com/collections/statement-engagement-rings): Shop statement engagement rings in lab-grown diamond & moissanite—bold, unique designs handcrafted to order. Ethical materials and free shipping.
   Updated: 2025-10-05T20:23:21Z
   Total Products: 6
 - [Engagement Rings: Top 10 Best-Selling | Chantal Vaulet](https://www.chantalvaulet.com/collections/top-10-engagement-rings): Shop the Top 10 best-selling engagement rings in lab-grown diamond and moissanite—timeless solitaires, halos and more. Ethical sparkle and free shipping.
-  Updated: 2025-10-09T11:12:20Z
+  Updated: 2025-10-10T17:30:45Z
   Total Products: 10
 - [Wedding Rings — Lab-Grown Diamond | Chantal Vaulet](https://www.chantalvaulet.com/collections/lab-grown-diamond-wedding-bands): Discover lab-grown diamond wedding rings—classic bands, pavé, and eternity styles. Ethical sparkle, budget-friendly, handcrafted quality. Free shipping.
-  Updated: 2025-10-05T22:07:27Z
+  Updated: 2025-10-10T19:42:45Z
   Total Products: 3
 - [Wedding Rings — Moissanite | Chantal Vaulet](https://www.chantalvaulet.com/collections/moissanite-wedding-bands): Shop moissanite wedding rings—classic bands, pavé, and eternity styles. Brilliant, durable, conflict-free, budget-friendly. Handcrafted quality. Free shipping.
   Updated: 2025-10-05T22:08:30Z
@@ -11008,10 +11008,10 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
   Updated: 2025-10-05T22:41:56Z
   Total Products: 1
 - [Round-Cut Engagement Rings | Moissanite & Lab Diamonds](https://www.chantalvaulet.com/collections/engagement-rings-round-cut): Explore timeless round-cut engagement rings crafted with brilliant moissanite and lab-grown diamonds. A perfect symbol of everlasting love.
-  Updated: 2025-10-09T11:12:20Z
+  Updated: 2025-10-10T17:30:45Z
   Total Products: 86
 - [Oval Engagement Rings | Moissanite & Lab-Grown Diamonds](https://www.chantalvaulet.com/collections/engagement-rings-oval): Discover elegant oval engagement rings featuring moissanite and lab-created diamonds. Elongated beauty with modern sophistication.
-  Updated: 2025-10-07T14:34:59Z
+  Updated: 2025-10-10T16:59:29Z
   Total Products: 4
 - [Emerald-Cut Engagement Rings | Step-Cut Moissanite & Lab Diamonds](https://www.chantalvaulet.com/collections/engagement-rings-emerald-cut): Shop emerald-cut engagement rings with sleek step-cut moissanite or lab-grown diamonds. Sophisticated and timeless designs.
   Updated: 2025-10-07T14:36:08Z
@@ -11034,6 +11034,9 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
 - [Radiant-Cut Engagement Rings | Moissanite & Lab Diamond Sparkle](https://www.chantalvaulet.com/collections/engagement-rings-radiant-cut): Discover radiant-cut engagement rings with intense sparkle and brilliance. Choose moissanite or lab-grown diamonds in dazzling designs.
   Updated: 2025-10-09T10:05:13Z
   Total Products: 1
+- [Gold Engagement Rings – 9K, 14K & 18K Yellow, White & Rose](https://www.chantalvaulet.com/collections/gold-engagement-rings): Shop gold engagement rings in 9K, 14K & 18K yellow, white and rose gold. Solitaire, halo and three-stone designs with ethically sourced diamonds. Handcrafted, free shipping.
+  Updated: 2025-10-10T17:30:45Z
+  Total Products: 4
 
 ## Blogs
 
