@@ -9,7 +9,7 @@
 - Created At: 2023-11-20T15:32:25Z
 - Contact Email: hello@inky-ingredients.com
 - Address: Units 2, 3 & 5 Athelstan Business Park Hanwell Lane, Hutton Conyers Ripon, North Yorkshire HG4 5BF, UK
-- Updated At: 2025-10-09T20:00:35.580Z
+- Updated At: 2025-10-10T00:00:33.788Z
 
 The UK's largest natural ingredients supplier. INKY Ingredients supplies formulators and makers as well as the general public with the UK's widest range of essential oils, cold pressed oils, waxes, soaps, butters and more. We hold a 7 sustainability accreditations and are committed to providing an unparalleled selection of premium natural oil ingredients, fostering sustainability, and championing the sustainable beauty movement.
 
@@ -1019,7 +1019,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £346.80 GBP
 - [Coffee Green Oil, Cold Pressed](https://inky-ingredients.com/products/coffee-green-oil-cold-pressed): Cold-pressed Coffee Green Oil is a potent antioxidant for skincare. Rich in polyphenols, it helps combat free radicals, promoting a revitalised and youthful complexion.
-  Updated: 2025-10-06T15:18:15Z
+  Updated: 2025-10-09T21:10:17Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -1472,7 +1472,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £137.10 GBP
 - [Amla Oil, Cold Pressed](https://inky-ingredients.com/products/amla-oil-cold-pressed): Cold-pressed Amla Oil is a nourishing solution for hair and skin. Rich in antioxidants and vitamin C, it promotes hair growth and conditions the skin, providing a natural boost to overall hair and skin health.
-  Updated: 2025-10-07T11:53:01Z
+  Updated: 2025-10-09T21:35:07Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -2885,7 +2885,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £21.50 GBP
 - [Pumpkin Seed Oil, Cold Pressed Organic](https://inky-ingredients.com/products/pumpkin-seed-oil-cold-pressed-organic): Organic Cold-pressed Pumpkin Seed Oil is a nutrient-rich culinary oil with a rich, nutty flavor. Packed with vitamins and minerals, it adds a wholesome touch to dishes while offering organic and natural benefits.
-  Updated: 2025-10-06T09:16:00Z
+  Updated: 2025-10-09T21:35:07Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -3431,7 +3431,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £46.27 GBP
 - [Hemp Seed Oil, Cold Pressed Organic](https://inky-ingredients.com/products/hemp-seed-oil-cold-pressed-organic): Cold-pressed from organic hemp seeds, this oil retains its natural goodness. Packed with omega fatty acids, it hydrates and nourishes the skin deeply, promoting a healthy complexion and supporting skin elasticity.
-  Updated: 2025-10-07T10:37:07Z
+  Updated: 2025-10-09T22:00:46Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -3893,7 +3893,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £351.60 GBP
 - [Castor Oil, Cold Pressed Organic](https://inky-ingredients.com/products/castor-oil-cold-pressed-organic): Organic Cold-Pressed Castor Oil is extracted from organic castor seeds. Renowned for its purity, this oil is rich in fatty acids, promoting skin and hair health. It is a popular choice in natural and organic formulations, providing nourishment, hydration, and a holistic approach to beauty care.
-  Updated: 2025-10-06T15:18:16Z
+  Updated: 2025-10-09T22:00:47Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -4214,7 +4214,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £235.08 GBP
 - [Broccoli Seed Oil, Cold Pressed Organic](https://inky-ingredients.com/products/broccoli-seed-oil-cold-pressed-organic): Organic and cold-pressed, Broccoli Seed Oil is a lightweight moisturiser. Rich in antioxidants and vitamins, it supports skin health, providing a non-greasy nourishment for a radiant and youthful complexion.
-  Updated: 2025-10-07T14:11:17Z
+  Updated: 2025-10-09T22:00:47Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -4922,7 +4922,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £37.94 GBP
 - [Apricot Kernel Oil, Cold Pressed Organic](https://inky-ingredients.com/products/apricot-kernel-oil-cold-pressed-organic): Cold-pressed from organic apricot kernels, this oil is a natural emollient. Packed with vitamins and fatty acids, it moisturises and revitalises the skin, leaving it smooth and radiant. It's a versatile ingredient for skincare, providing nourishment and a healthy glow.
-  Updated: 2025-10-08T09:28:41Z
+  Updated: 2025-10-09T22:00:47Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
