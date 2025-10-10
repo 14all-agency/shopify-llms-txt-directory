@@ -7,7 +7,7 @@
 - Currency: EUR
 - Timezone: Europe/Dublin
 - Created At: 2025-01-23T10:54:05Z
-- Updated At: 2025-10-10T12:00:33.394Z
+- Updated At: 2025-10-10T16:00:33.142Z
 
 ## Products
 
@@ -334,14 +334,14 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Hand-held-Abrasive-Sponge-Kit-15923.jpg?v=1737638338
   Price: €14.95 EUR
 - [Glass Polish Rotary Backing Pad 12600](https://glasspolishshop.com/products/50mm-2-inch-rotary-backing-pad-m14-medium): Backing Plate  suitable for use with any rotary polishing machine.  Hook and Loop fastener for use with any abrasive discs, polishing pads or detailing foams.
-  Updated: 2025-10-09T23:54:14Z
+  Updated: 2025-10-10T13:26:45Z
   Vendor: Glass Polish
   Product Type: Rotary Polisher Backing Pad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/12600_43ecfc26-999a-477e-9baf-9b6f4f87a2ed.jpg?v=1760022807
   Price: €9.95 EUR
 - [Glass Polish Rotary Backing Pad 12605](https://glasspolishshop.com/products/75mm-3-inch-rotary-backing-pad-m14-hook-and-loop-medium): Backing Plate  suitable for use with any rotary polishing machine with.  Hook and Loop fastener for use with any abrasive discs, polishing pads or detailing foams.
-  Updated: 2025-10-10T03:26:15Z
+  Updated: 2025-10-10T13:38:01Z
   Vendor: Glass Polish
   Product Type: Rotary Polisher Backing Pad
   Availability: Available
@@ -362,26 +362,19 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/12607_8066450b-d4cb-4746-9306-1a3d4830e2f0.jpg?v=1737638445
   Price: €11.95 EUR
 - [Glass Polish Rotary Backing Pad 12601](https://glasspolishshop.com/products/50mm-2-inch-rotary-backing-pad-5-8-inch-11-medium): Backing Plate  suitable for use with any rotary polishing machine.  Hook and Loop fastener for use with any abrasive discs, polishing pads or detailing foams.
-  Updated: 2025-10-09T23:57:03Z
+  Updated: 2025-10-10T13:27:17Z
   Vendor: Glass Polish
   Product Type: Rotary Polisher Backing Pad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/12600_43ecfc26-999a-477e-9baf-9b6f4f87a2ed.jpg?v=1760022807
   Price: €9.95 EUR
 - [Glass Polish Rotary Backing Pad 12606](https://glasspolishshop.com/products/75mm-3-inch-rotary-backing-pad-5-8-inch-11-hook-and-loop-medium): Backing Plate  suitable for use with any rotary polishing machine with.  Hook and Loop fastener for use with any abrasive discs, polishing pads or detailing foams.
-  Updated: 2025-10-10T03:34:23Z
+  Updated: 2025-10-10T13:38:18Z
   Vendor: Glass Polish
   Product Type: Rotary Polisher Backing Pad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/12605_4ee33896-0dd1-47ad-a619-9908b01dc0bb.jpg?v=1760024060
   Price: €10.95 EUR
-- [Glass Polish Rotary Backing Pad 12612](https://glasspolishshop.com/products/125mm-5-inch-rotary-backing-pad-m14-black-foam-medium): Backing Plate  suitable for use with any rotary polishing machine with.  Hook and Loop fastener for use with any abrasive discs, polishing pads or detailing foams.
-  Updated: 2025-10-04T00:05:26Z
-  Vendor: Glass Polish
-  Product Type: Rotary Polisher Backing Pad
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/12612.jpg?v=1737638520
-  Price: €11.37 EUR
 - [Glass Polish Rotary Backing Pad 12613](https://glasspolishshop.com/products/125mm-5-inch-rotary-backing-pad-5-8-inch-11-black-foam-medium): Backing Plate  suitable for use with any rotary polishing machine with.  Hook and Loop fastener for use with any abrasive discs, polishing pads or detailing foams.
   Updated: 2025-10-04T00:05:26Z
   Vendor: Glass Polish
@@ -761,280 +754,280 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/25mm-_28-1-_29-Dual-Action-Spot-Repair-M6-1.0-yellow-Rubber-12707.jpg?v=1737640004
   Price: €8.95 EUR
 - [Glass Polish Dual Action Backer 12708](https://glasspolishshop.com/products/50mm-2-inch-dual-action-backing-pad-1-4-inch-20-medium-profile): 1/4&quot;-20 Backing Pad for use with any Dual Action Polisher. Hook and Loop fastener for easy use with any abrasive discs, polishing pads or detailing foams.
-  Updated: 2025-10-04T00:05:36Z
+  Updated: 2025-10-10T14:02:10Z
   Vendor: Glass Polish
   Product Type: Dual Action Backing Pad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/50mm-_28-2-_29-Dual-Action-Backing-Pad-1-4-20-medium-profile-12708.jpg?v=1737640028
   Price: €9.95 EUR
 - [Glass Polish Dual Action Backer 12709](https://glasspolishshop.com/products/50mm-2-inch-dual-action-backing-pad-5-16-inch-24-medium-profile): 1/4&quot;-20 Backing Pad for use with any Dual Action Polisher. Hook and Loop fastener for easy use with any abrasive discs, polishing pads or detailing foams.
-  Updated: 2025-10-04T00:05:36Z
+  Updated: 2025-10-10T14:02:10Z
   Vendor: Glass Polish
   Product Type: Dual Action Backing Pad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/50mm-_28-2-_29-Dual-Action-Backing-Pad-5-16-24-medium-profile-12709.jpg?v=1737640055
   Price: €9.95 EUR
 - [Glass Polish Dual Action Backer 12710](https://glasspolishshop.com/products/75mm-3-inch-dual-action-backing-pad-1-4-inch-20-medium-profile): 1/4&quot;-20 Backing Pad for use with any Dual Action Polisher. Hook and Loop fastener for easy use with any abrasive discs, polishing pads or detailing foams.
-  Updated: 2025-10-04T00:05:36Z
+  Updated: 2025-10-10T14:02:10Z
   Vendor: Glass Polish
   Product Type: Dual Action Backing Pad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/75mm-_28-3-_29-Dual-Action-Backing-Pad-1-4-20-medium-profile-12710.jpg?v=1737640081
   Price: €10.45 EUR
 - [Glass Polish Dual Action Backer 12711](https://glasspolishshop.com/products/75mm-3-inch-dual-action-backing-pad-5-16-inch-24-medium-profile): 5/16&quot;-24 Backing Pad for use with any Dual Action Polisher. Hook and Loop fastener for easy use with any abrasive discs, polishing pads or detailing foams.
-  Updated: 2025-10-04T00:05:37Z
+  Updated: 2025-10-10T14:02:10Z
   Vendor: Glass Polish
   Product Type: Dual Action Backing Pad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/75mm-_28-3-_29-Dual-Action-Backing-Pad-5-16-24-medium-profile-12711.jpg?v=1737640108
   Price: €10.45 EUR
 - [Glass Polish Dual Action Backer 12703](https://glasspolishshop.com/products/125mm-5-inch-dual-action-backing-sanding-pad-5-16-inch-24-medium-profile-rubber): 5/16&quot;-24 Backing Pad for use with any Dual Action Polisher. Hook and Loop fastener for easy use with any abrasive discs, polishing pads or detailing foams.
-  Updated: 2025-10-04T00:05:37Z
+  Updated: 2025-10-10T14:02:10Z
   Vendor: Glass Polish
   Product Type: Dual Action Backing Pad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/125mm-_28-5-_29-Dual-Action-Backing-Sanding-Pad-5-16-24-medium-profile-rubber-12703.jpg?v=1737640135
   Price: €14.95 EUR
 - [Glass Polish Dual Action Backer 12701](https://glasspolishshop.com/products/125mm-5-inch-dual-action-backing-pad-5-16-inch-24-5-holes-medium-profile): 5/16&quot;-24 Medium Profile Backing Pad for use with any Dual Action Polisher. Hook and Loop fastener for easy use with any abrasive discs, polishing pads or detailing foams.
-  Updated: 2025-10-04T00:05:37Z
+  Updated: 2025-10-10T14:02:09Z
   Vendor: Glass Polish
   Product Type: Dual Action Backing Pad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/125mm-_28-5-_29-Dual-Action-Backing-Pad-5-16-24-5-holes-medium-profile-12701.jpg?v=1737640164
   Price: €14.95 EUR
 - [Glass Polish Dual Action Backer 12700](https://glasspolishshop.com/products/125mm-5-inch-dual-action-backing-pad-5-16-inch-24-6-holes-medium-profile): 5/16&quot;-24 Medium Profile Backing Pad for use with any Dual Action Polisher. Hook and Loop fastener for easy use with any abrasive discs, polishing pads or detailing foams.
-  Updated: 2025-10-04T00:05:37Z
+  Updated: 2025-10-10T14:02:09Z
   Vendor: Glass Polish
   Product Type: Dual Action Backing Pad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/125mm-_28-5-_29-Dual-Action-Backing-Pad-5-16-24-6-holes-medium-profile-12700.jpg?v=1737640191
   Price: €14.95 EUR
 - [Glass Polish Dual Action Backer 12702](https://glasspolishshop.com/products/125mm-5-inch-dual-action-backing-pad-5-16-inch-24-8-holes-medium-profile): 5/16&quot;-24 Medium Profile Backing Pad for use with any Dual Action Polisher. Hook and Loop fastener for easy use with any abrasive discs, polishing pads or detailing foams.
-  Updated: 2025-10-04T00:05:37Z
+  Updated: 2025-10-10T14:02:09Z
   Vendor: Glass Polish
   Product Type: Dual Action Backing Pad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/125mm-_28-5-_29-Dual-Action-Backing-Pad-5-16-24-8-holes-medium-profile-12702.jpg?v=1737640219
   Price: €14.95 EUR
 - [Glass Polish Dual Action Backer 12704](https://glasspolishshop.com/products/125mm-5-inch-dual-action-backing-sanding-pad-5-16-inch-24-high-profile-rubber): 5/16&quot;-24 Medium Profile Backing Pad for use with any Dual Action Polisher. Hook and Loop fastener for easy use with any abrasive discs, polishing pads or detailing foams.
-  Updated: 2025-10-04T00:05:37Z
+  Updated: 2025-10-10T14:02:09Z
   Vendor: Glass Polish
   Product Type: Dual Action Backing Pad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/125mm-_28-5-_29-Dual-Action-Backing-Sanding-Pad-5-16-24-high-profile-rubber-12704.jpg?v=1737640246
   Price: €14.95 EUR
 - [Glass Polish Dual Action Backer 12705](https://glasspolishshop.com/products/125mm-5-inch-dual-action-backing-sanding-pad-5-16-inch-24-5-holes-high-profile): 5/16&quot;-24 Medium Profile Backing Pad for use with any Dual Action Polisher. Hook and Loop fastener for easy use with any abrasive discs, polishing pads or detailing foams.
-  Updated: 2025-10-04T00:05:38Z
+  Updated: 2025-10-10T14:02:08Z
   Vendor: Glass Polish
   Product Type: Dual Action Backing Pad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/125mm-_28-5-_29-Dual-Action-Backing-Sanding-Pad-5-16-24-5-holes-high-profile-12705.jpg?v=1737640274
   Price: €14.95 EUR
 - [Glass Polish Dual Action Backer 12714](https://glasspolishshop.com/products/150mm-6-inch-dual-action-backing-pad-5-16-inch-24-medium-profile-rubber): 5/16&quot;-24 Medium Profile Backing Pad for use with any Dual Action Polisher. Hook and Loop fastener for easy use with any abrasive discs, polishing pads or detailing foams.
-  Updated: 2025-10-04T00:05:38Z
+  Updated: 2025-10-10T14:02:08Z
   Vendor: Glass Polish
   Product Type: Dual Action Backing Pad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/150mm-_28-6-_29-Dual-Action-Backing-Pad-5-16-24-medium-profile-rubber-12714.jpg?v=1737640301
   Price: €15.95 EUR
 - [Glass Polish Dual Action Backer 12713](https://glasspolishshop.com/products/150mm-6-inch-dual-action-backing-pad-5-16-inch-24-6-holes-medium-profile): 5/16&quot;-24 Medium Profile Backing Pad for use with any Dual Action Polisher. Hook and Loop fastener for easy use with any abrasive discs, polishing pads or detailing foams.
-  Updated: 2025-10-04T00:05:38Z
+  Updated: 2025-10-10T14:02:08Z
   Vendor: Glass Polish
   Product Type: Dual Action Backing Pad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/150mm-_28-6-_29-Dual-Action-Backing-Pad-5-16-24-6-Holes-medium-profile-12713.jpg?v=1737640330
   Price: €15.95 EUR
 - [Glass Polish Dual Action Backer 12715](https://glasspolishshop.com/products/150mm-6-inch-dual-action-backing-pad-5-16-inch-24-6-holes-high-profile): 5/16&quot;-24 Medium Profile Backing Pad for use with any Dual Action Polisher. Hook and Loop fastener for easy use with any abrasive discs, polishing pads or detailing foams.
-  Updated: 2025-10-04T00:05:38Z
+  Updated: 2025-10-10T14:02:08Z
   Vendor: Glass Polish
   Product Type: Dual Action Backing Pad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/150mm-_28-6-_29-Dual-Action-Backing-Pad-5-16-24-6-Holes-high-profile-12715.jpg?v=1737640381
   Price: €15.95 EUR
 - [Glass Polish water feed backer 12721](https://glasspolishshop.com/products/m14-x-2-rigid-hook-and-loop-backing-pad-3-inch-75mm): M14 x 2 Backing Pad with water feed hole suitable for use with and rotary polishing machine. Hook and Loop fastener for easy use with any sanding, polishing disc.
-  Updated: 2025-10-04T00:05:38Z
+  Updated: 2025-10-10T14:02:08Z
   Vendor: Glass Polish
   Product Type: Water Feed Rotary Backing Pad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/water-feed-backing-pad-12721.jpg?v=1737640409
   Price: €14.95 EUR
 - [Glass Polish water feed backer 12722](https://glasspolishshop.com/products/5-8-inch-11-rigid-hook-and-loop-backing-pad-3-inch-75mm-water-feed): 5/8&quot;-11 Backing Pad with water feed hole suitable for use with and rotary polishing machine. Hook and Loop fastener for easy use with any sanding, polishing disc.
-  Updated: 2025-10-04T00:05:39Z
+  Updated: 2025-10-10T14:02:08Z
   Vendor: Glass Polish
   Product Type: Water Feed Rotary Backing Pad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/water-feed-backing-pad-12721_d91760bb-3244-46ad-9194-abace9a904fe.jpg?v=1737640437
   Price: €14.95 EUR
 - [Glass Polish water feed backer 12723](https://glasspolishshop.com/products/m14-x-2-rigid-hook-and-loop-backing-pad-4-inch-100mm): M14 x 2 Backing Pad with water feed hole suitable for use with and rotary polishing machine. Hook and Loop fastener for easy use with any sanding, polishing disc.
-  Updated: 2025-10-04T00:05:39Z
+  Updated: 2025-10-10T14:02:08Z
   Vendor: Glass Polish
   Product Type: Water Feed Rotary Backing Pad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/water-feed-backing-pad-12723.jpg?v=1737640466
   Price: €13.95 EUR
 - [Glass Polish water feed backer 12724](https://glasspolishshop.com/products/5-8-inch-11-rigid-hook-and-loop-backing-pad-4-inch-100mm-water-feed): 5/8&quot;-11 Backing Pad with water feed hole suitable for use with and rotary polishing machine. Hook and Loop fastener for easy use with any sanding, polishing disc.
-  Updated: 2025-10-04T00:05:39Z
+  Updated: 2025-10-10T14:02:07Z
   Vendor: Glass Polish
   Product Type: Water Feed Rotary Backing Pad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/water-feed-backing-pad-12723_e3b1178d-1629-4fc2-a8c8-ed47417aa533.jpg?v=1737640494
   Price: €16.95 EUR
 - [Glass Polish water feed backer 12725](https://glasspolishshop.com/products/m14-x-2-semi-rigid-hook-and-loop-backing-pad-4-inch-100mm): M14 x 2 Backing Pad with water feed hole suitable for use with and rotary polishing machine. Hook and Loop fastener for easy use with any sanding, polishing disc.
-  Updated: 2025-10-04T00:05:39Z
+  Updated: 2025-10-10T14:02:07Z
   Vendor: Glass Polish
   Product Type: Water Feed Rotary Backing Pad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/water-feed-backing-pad-12725.jpg?v=1737640522
   Price: €16.95 EUR
 - [Glass Polish water feed backer 12726](https://glasspolishshop.com/products/5-8-inch-11-semi-rigid-hook-and-loop-backing-pad-4-inch-100mm-water-feed): 5/8&quot;-11 Backing Pad with water feed hole suitable for use with and rotary polishing machine. Hook and Loop fastener for easy use with any sanding, polishing disc.
-  Updated: 2025-10-04T00:05:39Z
+  Updated: 2025-10-10T14:02:07Z
   Vendor: Glass Polish
   Product Type: Water Feed Rotary Backing Pad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/water-feed-backing-pad-12725_b67351a9-1001-46e9-b13e-3bc477f7da81.jpg?v=1737640549
   Price: €16.95 EUR
 - [Glass Polish water feed backer 12727](https://glasspolishshop.com/products/m14-x-2-rigid-hook-and-loop-backing-pad-5-inch-125mm): M14 x 2 Backing Pad with water feed hole suitable for use with and rotary polishing machine. Hook and Loop fastener for easy use with any sanding, polishing disc.
-  Updated: 2025-10-09T21:29:11Z
+  Updated: 2025-10-10T14:02:07Z
   Vendor: Glass Polish
   Product Type: Water Feed Rotary Backing Pad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/water-feed-backing-pad-12727.jpg?v=1737640577
   Price: €16.95 EUR
 - [Glass Polish water feed backer 12728](https://glasspolishshop.com/products/5-8-inch-11-rigid-hook-and-loop-backing-pad-5-inch-125mm-water-feed): 5/8&quot;-11 Backing Pad with water feed hole suitable for use with and rotary polishing machine. Hook and Loop fastener for easy use with any sanding, polishing disc.
-  Updated: 2025-10-04T00:05:40Z
+  Updated: 2025-10-10T14:02:07Z
   Vendor: Glass Polish
   Product Type: Water Feed Rotary Backing Pad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/water-feed-backing-pad-12727_b427d993-56de-4a06-9a92-606d1bd30d69.jpg?v=1737640606
   Price: €16.95 EUR
 - [Glass Polish water feed backer 12751](https://glasspolishshop.com/products/m14-x-2-detailing-hook-and-loop-backing-pad-7-inch-150mm): M14 x 2 Backing Pad with water feed hole suitable for use with and rotary polishing machine. Hook and Loop fastener for easy use with any detailing foam  or wool pad.
-  Updated: 2025-10-04T00:05:40Z
+  Updated: 2025-10-10T14:02:07Z
   Vendor: Glass Polish
   Product Type: Water Feed Rotary Backing Pad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/water-feed-backing-pad-12751.jpg?v=1737640634
   Price: €14.95 EUR
 - [Glass Polish water feed backer 12752](https://glasspolishshop.com/products/5-8-inch-11-detailing-hook-and-loop-backing-pad-7-inch-150mm-water-feed): 5/8&quot;-11 Backing Pad with water feed hole suitable for use with and rotary polishing machine. Hook and Loop fastener for easy use with any detailing foam  or wool pad.
-  Updated: 2025-10-04T00:05:40Z
+  Updated: 2025-10-10T14:02:07Z
   Vendor: Glass Polish
   Product Type: Water Feed Rotary Backing Pad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/water-feed-backing-pad-12751_3c2e2d34-308b-4084-a871-412c6942f21b.jpg?v=1737640662
   Price: €14.95 EUR
 - [Glass Polish Sander Backer 12729](https://glasspolishshop.com/products/8-1-3-sander-backing-pad-4-5-inch-115mm-hook-and-loop): Glass Polish Sander 8 + 1 Hole sturdy sanding backer pad, durable foam layer with heavy duty plastic plate. Hook and Loop fastener for easy use with any sanding, polishing disc.
-  Updated: 2025-10-04T00:05:40Z
+  Updated: 2025-10-10T14:02:07Z
   Vendor: Glass Polish
   Product Type: Orbital Sander Backing Pads
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/8_2B1_2B3-Sander-Backing-Pad-4.5-115mm-Hook-and-Loop-12729.jpg?v=1737640689
   Price: €15.95 EUR
 - [Glass Polish Sander Backer 12720](https://glasspolishshop.com/products/8-1-3-sander-backing-pad-5-inch-125mm-hook-and-loop): Glass Polish Sander 8+1+3 Medium Profile Hole sturdy sanding backer pad, durable PUR layer with heavy duty plastic plate. Hook and Loop fastener for easy use with any sanding, polishing disc.
-  Updated: 2025-10-04T00:05:40Z
+  Updated: 2025-10-10T14:02:06Z
   Vendor: Glass Polish
   Product Type: Orbital Sander Backing Pads
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/8_2B1_2B3-Sander-Backing-Pad-5-125mm-Hook-and-Loop-12720.jpg?v=1737640716
   Price: €15.95 EUR
 - [Glass Polish Sander Backer 12719](https://glasspolishshop.com/products/8-1-4-sander-backing-pad-5-inch-125mm): Glass Polish Sander 8+1+4 Medium Profile Hole sturdy sanding backer pad, durable PUR layer with heavy duty plastic plate. Hook and Loop fastener for easy use with any sanding, polishing disc.
-  Updated: 2025-10-04T00:05:40Z
+  Updated: 2025-10-10T14:02:07Z
   Vendor: Glass Polish
   Product Type: Orbital Sander Backing Pads
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/8_2B1_2B4-Sander-Backing-Pad-5-125mm-12719.jpg?v=1737640743
   Price: €15.95 EUR
 - [Glass Polish Sander Backer 12718](https://glasspolishshop.com/products/8-1-3-sander-backing-pad-5-inch-125mm): Glass Polish Sander 8+1+3 Medium Profile Hole sturdy sanding backer pad, durable PUR layer with heavy duty plastic plate. Hook and Loop fastener for easy use with any sanding, polishing disc.
-  Updated: 2025-10-04T00:05:41Z
+  Updated: 2025-10-10T14:02:06Z
   Vendor: Glass Polish
   Product Type: Orbital Sander Backing Pads
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/8_2B1_2B3-Sander-Backing-Pad-5-125mm-12718.jpg?v=1737640769
   Price: €15.95 EUR
 - [Glass Polish Sander Backer 12740](https://glasspolishshop.com/products/5-3-sander-backing-pad-5-inch-125mm-5-holes-black-foam): Glass Polish Sander 5+3 Low Profile Hole sturdy sanding backer pad, durable PUR layer with heavy duty plastic plate. Hook and Loop fastener for easy use with any sanding, polishing disc.
-  Updated: 2025-10-04T00:05:41Z
+  Updated: 2025-10-10T14:02:06Z
   Vendor: Glass Polish
   Product Type: Orbital Sander Backing Pads
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/5_2B3-Sander-Backing-Pad-5-125mm-5-Holes-Black-Foam-12740.jpg?v=1737640796
   Price: €15.95 EUR
 - [Glass Polish Sander Backer 12739](https://glasspolishshop.com/products/5-3-sander-backing-pad-5-inch-125mm-5-holes-black-rubber): Glass Polish Sander 5+3 Low Profile Hole sturdy sanding backer pad, durable PUR layer with heavy duty plastic plate. Hook and Loop fastener for easy use with any sanding, polishing disc.
-  Updated: 2025-10-04T00:05:41Z
+  Updated: 2025-10-10T14:02:06Z
   Vendor: Glass Polish
   Product Type: Orbital Sander Backing Pads
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/5_2B3-Sander-Backing-Pad-5-125mm-5-Holes-Black-Rubber-12739.jpg?v=1737640823
   Price: €15.95 EUR
 - [Glass Polish Sander Backer 12717](https://glasspolishshop.com/products/8-3-sander-backing-pad-5-inch-125mm): Glass Polish Sander 8+3 Low Profile Hole sturdy sanding backer pad, durable PUR layer with heavy duty plastic plate. Hook and Loop fastener for easy use with any sanding, polishing disc.
-  Updated: 2025-10-04T00:05:41Z
+  Updated: 2025-10-10T14:02:06Z
   Vendor: Glass Polish
   Product Type: Orbital Sander Backing Pads
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/8_2B3-Sander-Backing-Pad-5-125mm-12717.jpg?v=1737640850
   Price: €15.95 EUR
 - [Glass Polish Rotary Backing Pad 12645](https://glasspolishshop.com/products/100mm-4-inch-rotary-backing-pad-m14-white-foam-hard): Backing Plate  suitable for use with any rotary polishing machine with.  Hook and Loop fastener for use with any abrasive discs, polishing pads or detailing foams.
-  Updated: 2025-10-04T00:05:41Z
+  Updated: 2025-10-10T14:02:06Z
   Vendor: Glass Polish
   Product Type: Rotary Polisher Backing Pad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/12645.jpg?v=1737640877
   Price: €13.95 EUR
 - [Glass Polish Rotary Backing Pad 12646](https://glasspolishshop.com/products/100mm-4-inch-rotary-backing-pad-5-8-inch-11-white-foam-hard): Backing Plate  suitable for use with any rotary polishing machine with.  Hook and Loop fastener for use with any abrasive discs, polishing pads or detailing foams.
-  Updated: 2025-10-04T00:05:41Z
+  Updated: 2025-10-10T14:02:06Z
   Vendor: Glass Polish
   Product Type: Rotary Polisher Backing Pad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/12645_6a7b3426-75df-4878-bfd5-db9f613ed699.jpg?v=1737640904
   Price: €13.95 EUR
 - [Glass Polish Rotary Backing Pad 12647](https://glasspolishshop.com/products/115mm-4-5-inch-rotary-backing-pad-m14-white-foam-hard): Backing Plate  suitable for use with any rotary polishing machine with.  Hook and Loop fastener for use with any abrasive discs, polishing pads or detailing foams.
-  Updated: 2025-10-04T00:05:42Z
+  Updated: 2025-10-10T14:02:05Z
   Vendor: Glass Polish
   Product Type: Rotary Polisher Backing Pad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/12647.jpg?v=1737640932
   Price: €13.95 EUR
 - [Glass Polish Rotary Backing Pad 12648](https://glasspolishshop.com/products/115mm-4-5-inch-rotary-backing-pad-5-8-inch-11-white-foam-hard): Backing Plate  suitable for use with any rotary polishing machine with.  Hook and Loop fastener for use with any abrasive discs, polishing pads or detailing foams.
-  Updated: 2025-10-04T00:05:42Z
+  Updated: 2025-10-10T14:02:05Z
   Vendor: Glass Polish
   Product Type: Rotary Polisher Backing Pad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/12647_35966090-64e7-42a8-9bb1-a2d890e1a79b.jpg?v=1737640958
   Price: €13.95 EUR
 - [Glass Polish Rotary Backing Pad 12649](https://glasspolishshop.com/products/125mm-5-inch-rotary-backing-pad-m14-white-foam-hard): Backing Plate  suitable for use with any rotary polishing machine with.  Hook and Loop fastener for use with any abrasive discs, polishing pads or detailing foams.
-  Updated: 2025-10-04T00:05:42Z
+  Updated: 2025-10-10T14:02:05Z
   Vendor: Glass Polish
   Product Type: Rotary Polisher Backing Pad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/12649.jpg?v=1737640985
   Price: €14.95 EUR
 - [Glass Polish Rotary Backing Pad 12650](https://glasspolishshop.com/products/125mm-5-inch-rotary-backing-pad-5-8-inch-11-white-foam-hard): Backing Plate  suitable for use with any rotary polishing machine with.  Hook and Loop fastener for use with any abrasive discs, polishing pads or detailing foams.
-  Updated: 2025-10-04T00:05:42Z
+  Updated: 2025-10-10T14:02:05Z
   Vendor: Glass Polish
   Product Type: Rotary Polisher Backing Pad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/12649_7587f649-fecb-4457-ac71-e640d10bba5e.jpg?v=1737641011
   Price: €14.95 EUR
 - [Glass Polish Rotary Backing Pad 12651](https://glasspolishshop.com/products/150mm-6-inch-rotary-backing-pad-m14-white-foam-hard): Backing Plate  suitable for use with any rotary polishing machine with.  Hook and Loop fastener for use with any abrasive discs, polishing pads or detailing foams.
-  Updated: 2025-10-04T00:05:42Z
+  Updated: 2025-10-10T14:02:05Z
   Vendor: Glass Polish
   Product Type: Rotary Polisher Backing Pad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/12651.jpg?v=1737641039
   Price: €15.95 EUR
 - [Glass Polish Rotary Backing Pad 12652](https://glasspolishshop.com/products/150mm-6-inch-rotary-backing-pad-5-8-inch-11-white-foam-hard): Backing Plate  suitable for use with any rotary polishing machine with.  Hook and Loop fastener for use with any abrasive discs, polishing pads or detailing foams.
-  Updated: 2025-10-04T00:05:43Z
+  Updated: 2025-10-10T14:02:05Z
   Vendor: Glass Polish
   Product Type: Rotary Polisher Backing Pad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/12651_00f730e8-06e6-42ba-9875-266e7fafd48b.jpg?v=1737641065
   Price: €15.95 EUR
 - [Glass Polish Rotary Backing Pad 12653](https://glasspolishshop.com/products/180mm-7-inch-rotary-backing-pad-m14-white-foam-hard): Backing Plate  suitable for use with any rotary polishing machine with.  Hook and Loop fastener for use with any abrasive discs, polishing pads or detailing foams.
-  Updated: 2025-10-04T00:05:43Z
+  Updated: 2025-10-10T14:02:05Z
   Vendor: Glass Polish
   Product Type: Rotary Polisher Backing Pad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/12653.jpg?v=1737641093
   Price: €18.95 EUR
 - [Glass Polish Rotary Backing Pad 12654](https://glasspolishshop.com/products/180mm-7-inch-rotary-backing-pad-5-8-inch-11-white-foam-hard): Backing Plate  suitable for use with any rotary polishing machine with.  Hook and Loop fastener for use with any abrasive discs, polishing pads or detailing foams.
-  Updated: 2025-10-04T00:05:43Z
+  Updated: 2025-10-10T14:02:05Z
   Vendor: Glass Polish
   Product Type: Rotary Polisher Backing Pad
   Availability: Available
@@ -1062,7 +1055,7 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/roll-on-rollock-backer-12732a.jpg?v=1737641200
   Price: €10.95 EUR
 - [Glass Polish Roll-on Backer 12733](https://glasspolishshop.com/products/s-type-roll-on-backer-quick-lock-3-inch-75-mm): Glass Polish Roll-on back-up pad 75mm diameter use a simple twist-on twist-off fitting system for quick and safe changing between accessories like sanding discs, flap discs and poly discs.
-  Updated: 2025-10-04T00:05:44Z
+  Updated: 2025-10-10T14:34:04Z
   Vendor: Glass Polish
   Product Type: Roll On Backing Pad
   Availability: Available
@@ -1195,7 +1188,7 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/90004_b6f64314-e2b0-4e8a-99f7-63723da2b28c.jpg?v=1739368050
   Price: €43.95 EUR
 - [Cerium Oxide Fine-Grade 1kg | TREO 95% | 2.5 Microns - GP90005](https://glasspolishshop.com/products/cerium-oxide-fine-grade-1kg-2-2-lbs): High-purity cerium oxide polishing powder for professional glass restoration. Restores optical clarity and eliminates surface damage, scratches, and haziness.
-  Updated: 2025-10-10T03:27:06Z
+  Updated: 2025-10-10T13:51:52Z
   Vendor: Glass Polish
   Product Type: Cerium Oxide
   Availability: Available
@@ -1384,7 +1377,7 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Liquid-Leather-GT13.5-Leather-Protection-Cream-250-ml-_288.4-oz_29-92000.jpg?v=1737642546
   Price: €14.95 EUR
 - [Glass Polish Felt Polishing Pad 11006](https://glasspolishshop.com/products/gp-pro-felt-polishing-pad-2-inch-50mm): Glass Polish 50mm / 2 inch GP-PRO Felt Polishing Pad. Ideal for cutting and polishing actions resulting high glossy finish on range of surfaces
-  Updated: 2025-10-10T02:29:36Z
+  Updated: 2025-10-10T13:50:03Z
   Vendor: Glass Polish
   Product Type: Felt Polishing Pad
   Availability: Available
@@ -1399,7 +1392,7 @@
     Availability: Available
     Price: €44.95 EUR
 - [Glass Polish Felt Polishing Pad 11007](https://glasspolishshop.com/products/gp-pro-felt-polishing-pad-3-inch-75mm): Glass Polish 75mm / 3 inch GP-PRO Felt Polishing Pad. Ideal for cutting and polishing actions resulting high glossy finish on range of surfaces
-  Updated: 2025-10-10T02:29:35Z
+  Updated: 2025-10-10T13:50:01Z
   Vendor: Glass Polish
   Product Type: Felt Polishing Pad
   Availability: Available
@@ -1414,7 +1407,7 @@
     Availability: Available
     Price: €60.95 EUR
 - [Glass Polish Felt Polishing Pad 11009](https://glasspolishshop.com/products/gp-pro-felt-polishing-pad-4-5-inch-115mm): Glass Polish 115mm / 4.5 inch GP-PRO Felt Polishing Pad. Ideal for cutting and polishing actions resulting high glossy finish on range of surfaces
-  Updated: 2025-10-10T02:29:38Z
+  Updated: 2025-10-10T13:50:01Z
   Vendor: Glass Polish
   Product Type: Felt Polishing Pad
   Availability: Available
@@ -1429,7 +1422,7 @@
     Availability: Available
     Price: €103.95 EUR
 - [Glass Polish Felt Polishing Pad 11008](https://glasspolishshop.com/products/gp-pro-felt-polishing-pad-5-inch-125mm): Glass Polish 125mm / 5 inch GP-PRO Felt Polishing Pad. Ideal for cutting and polishing actions resulting high glossy finish on range of surfaces
-  Updated: 2025-10-10T02:29:32Z
+  Updated: 2025-10-10T13:50:01Z
   Vendor: Glass Polish
   Product Type: Felt Polishing Pad
   Availability: Available
@@ -1444,7 +1437,7 @@
     Availability: Available
     Price: €105.95 EUR
 - [Glass Polish Felt Polishing Pad 11010](https://glasspolishshop.com/products/gp-pro-felt-polishing-pad-6-inch-150mm): Glass Polish 150mm / 6 inch GP-PRO Felt Polishing Pad. Ideal for cutting and polishing actions resulting high glossy finish on range of surfaces
-  Updated: 2025-10-10T02:29:32Z
+  Updated: 2025-10-10T13:50:01Z
   Vendor: Glass Polish
   Product Type: Felt Polishing Pad
   Availability: Available
@@ -1935,14 +1928,14 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Liquid-Leather-Scented-Aroma-Pad-92007.jpg?v=1737643540
   Price: €11.95 EUR
 - [Rotary Polishing Machine PRO1100 - 230v - UK](https://glasspolishshop.com/products/gp-pro-1100vsc-rotary-polisher-230v-uk): GP-PRO 1100VSC Rotary Polisher with variable speed control and slow-start to prevents scratching and damaging the surface.
-  Updated: 2025-10-10T03:27:10Z
+  Updated: 2025-10-10T13:53:59Z
   Vendor: Glass Polish
   Product Type: Rotary Polisher M14
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/GP-PRO_1100VSC_rotary_20polisher.jpg?v=1737643582
   Price: €119.95 EUR
 - [Rotary Polishing Machine PRO1100 - 230v - EU](https://glasspolishshop.com/products/gp-pro-1100vsc-rotary-polisher-230v-eu): GP-PRO 1100VSC Rotary Polisher with variable speed control and slow-start to prevents scratching and damaging the surface.
-  Updated: 2025-10-09T11:35:45Z
+  Updated: 2025-10-10T13:53:38Z
   Vendor: Glass Polish
   Product Type: Rotary Polisher M14
   Availability: Available
@@ -1970,7 +1963,7 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Flex-L1503VR_843f877b-b471-4a37-b648-061290870b19.jpg?v=1737643772
   Price: €419.95 EUR
 - [SCRATCHLESS Scraper for glass 80mm - 15028](https://glasspolishshop.com/products/scratchless-scraper-for-glass-80mm): SCRATCHLESS Scraper for glass 80mm - 15028 - Scrapers &amp; Blades - ✔️ Made from durable PVC material.✔️ The scraper is supplied with a safety cap and fitted with a 0.20 mm replaceable carbon steel double-edged blade.✔️ Ideal for small areas and getting
-  Updated: 2025-10-09T12:35:52Z
+  Updated: 2025-10-10T12:06:51Z
   Vendor: Glass Polish
   Product Type: 
   Availability: Available
@@ -2474,7 +2467,7 @@
     Availability: Available
     Price: €29.95 EUR
 - [GlasX 120 Medium Grade Silicon Carbide Disc 125mm](https://glasspolishshop.com/products/glasx-120-medium-grade-abrasive-5-inch-125mm): GlasX™ 120  Constructed from the highest quality silicon carbide particles for GREAT PERFORMANCE / CLEAR CUT - no swirl marks / LONG LIFESPAN- last up to 5 times longer than traditional abrasives.
-  Updated: 2025-10-09T14:34:20Z
+  Updated: 2025-10-10T15:17:07Z
   Vendor: Glass Polish
   Product Type: GlasX™ Foam-Backed Abrasive Discs
   Availability: Available
@@ -2820,15 +2813,15 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/15100_46dbf7ce-a4fd-432d-8a49-236c6adc36aa.jpg?v=1746012748
   Price: €27.95 EUR
-- [125mm (5") PRO Rotary Backing Pad M14](https://glasspolishshop.com/products/125mm-5-inch-pro-rotary-backing-pad-m14): 125mm (5") PRO Rotary Backing Pad M14 -  Rotary Backing Pad Size: 125 mm ( 5 inches) Thread Size: M14 Max Speed: 6000 Rpm's.• Optimal balance: ensuring efficient and effective polishing and sanding experience.• Hook and loop fastening system
-  Updated: 2025-10-10T01:07:47Z
+- [125mm (5") Medium Density PRO Rotary Backing Pad M14](https://glasspolishshop.com/products/125mm-5-inch-pro-rotary-backing-pad-m14): 125mm (5") PRO Rotary Backing Pad M14 -  Rotary Backing Pad Size: 125 mm ( 5 inches) Thread Size: M14 Max Speed: 6000 Rpm's.• Optimal balance: ensuring efficient and effective polishing and sanding experience.• Hook and loop fastening system
+  Updated: 2025-10-10T14:20:41Z
   Vendor: Glass Polish
   Product Type: Rotary Polisher Backing Pad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/12622_20Rotary_20backing_20pad_1.jpg?v=1737647425
   Price: €16.95 EUR
 - [125mm (5") PRO Rotary Backing Pad 5/8"-11 - GP12623](https://glasspolishshop.com/products/125mm-5-inch-pro-rotary-backing-pad-5-8-inch-11): 125mm (5") PRO Rotary Backing Pad 5/8";-11 - 12623 - Rotary Polishers - • Rotary Backing Pad Size: 125 mm ( 5 inches) Thread Size: 5/8&quot;-11 Max Speed: 6000 Rpm's.• Optimal balance: ensuring efficient and effective polishing and sanding experience
-  Updated: 2025-10-10T01:08:19Z
+  Updated: 2025-10-10T14:20:30Z
   Vendor: Glass Polish
   Product Type: Rotary Polisher Backing Pad
   Availability: Available
@@ -2886,7 +2879,7 @@
     Availability: Available
     Price: €54.95 EUR
 - [ProMesh™ P500 Foam Backed Silicon Carbide Sanding Discs 125mm (5”)](https://glasspolishshop.com/products/promesh-p500-foam-backed-sanding-discs-125mm-5-inch): Foam-backed P500 grit discs deliver smooth pre-polishing, even pressure, and swirl-free results. Ideal for refining glass, plastics, ceramics, and metals.
-  Updated: 2025-10-07T15:23:00Z
+  Updated: 2025-10-10T15:17:05Z
   Vendor: Glass Polish
   Product Type: ProMesh™ Foam-Backed Abrasive Discs
   Availability: Available
@@ -2951,29 +2944,29 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/adaptorM6long.jpg?v=1759153110
   Price: €5.95 EUR
-- [75mm (3") PRO Medium Density Rotary Backing Pad M14](https://glasspolishshop.com/products/75mm-3-pro-rotary-backing-pad-m14): 125mm (5") PRO Rotary Backing Pad M14 -  Rotary Backing Pad Size: 125 mm ( 5 inches) Thread Size: M14 Max Speed: 6000 Rpm's.• Optimal balance: ensuring efficient and effective polishing and sanding experience.• Hook and loop fastening system
-  Updated: 2025-10-10T11:31:25Z
+- [75mm (3") Soft Density PRO Rotary Backing Pad M14](https://glasspolishshop.com/products/75mm-3-pro-rotary-backing-pad-m14): 125mm (5") PRO Rotary Backing Pad M14 -  Rotary Backing Pad Size: 125 mm ( 5 inches) Thread Size: M14 Max Speed: 6000 Rpm's.• Optimal balance: ensuring efficient and effective polishing and sanding experience.• Hook and loop fastening system
+  Updated: 2025-10-10T13:32:08Z
   Vendor: Glass Polish
   Product Type: Rotary Polisher Backing Pad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/12675.jpg?v=1760012539
   Price: €12.95 EUR
-- [75mm (3") PRO Medium Density Rotary Backing Pad 5/8"-11](https://glasspolishshop.com/products/75mm-3-pro-rotary-backing-pad-5-8-11): 125mm (5") PRO Rotary Backing Pad M14 -  Rotary Backing Pad Size: 125 mm ( 5 inches) Thread Size: M14 Max Speed: 6000 Rpm's.• Optimal balance: ensuring efficient and effective polishing and sanding experience.• Hook and loop fastening system
-  Updated: 2025-10-10T11:32:06Z
+- [75mm (3") Soft Density PRO Rotary Backing Pad 5/8"-11](https://glasspolishshop.com/products/75mm-3-pro-rotary-backing-pad-5-8-11): 125mm (5") PRO Rotary Backing Pad M14 -  Rotary Backing Pad Size: 125 mm ( 5 inches) Thread Size: M14 Max Speed: 6000 Rpm's.• Optimal balance: ensuring efficient and effective polishing and sanding experience.• Hook and loop fastening system
+  Updated: 2025-10-10T13:32:46Z
   Vendor: Glass Polish
   Product Type: Rotary Polisher Backing Pad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/12675.jpg?v=1760012539
   Price: €12.95 EUR
-- [50mm (2") PRO Rotary Backing Pad M14](https://glasspolishshop.com/products/50mm-2-pro-rotary-backing-pad-m14): 125mm (5") PRO Rotary Backing Pad M14 -  Rotary Backing Pad Size: 125 mm ( 5 inches) Thread Size: M14 Max Speed: 6000 Rpm's.• Optimal balance: ensuring efficient and effective polishing and sanding experience.• Hook and loop fastening system
-  Updated: 2025-10-09T23:11:04Z
+- [50mm (2") Soft Density PRO Rotary Backing Pad M14](https://glasspolishshop.com/products/50mm-2-pro-rotary-backing-pad-m14): 125mm (5") PRO Rotary Backing Pad M14 -  Rotary Backing Pad Size: 125 mm ( 5 inches) Thread Size: M14 Max Speed: 6000 Rpm's.• Optimal balance: ensuring efficient and effective polishing and sanding experience.• Hook and loop fastening system
+  Updated: 2025-10-10T13:28:30Z
   Vendor: Glass Polish
   Product Type: Rotary Polisher Backing Pad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/12670.jpg?v=1760008370
   Price: €11.95 EUR
-- [50mm (2") PRO Rotary Backing Pad 5/8"-11](https://glasspolishshop.com/products/50mm-2-pro-rotary-backing-pad-5-8-11): 125mm (5") PRO Rotary Backing Pad M14 -  Rotary Backing Pad Size: 125 mm ( 5 inches) Thread Size: M14 Max Speed: 6000 Rpm's.• Optimal balance: ensuring efficient and effective polishing and sanding experience.• Hook and loop fastening system
-  Updated: 2025-10-09T23:12:54Z
+- [50mm (2") Soft Density PRO Rotary Backing Pad 5/8"-11](https://glasspolishshop.com/products/50mm-2-pro-rotary-backing-pad-5-8-11): 125mm (5") PRO Rotary Backing Pad M14 -  Rotary Backing Pad Size: 125 mm ( 5 inches) Thread Size: M14 Max Speed: 6000 Rpm's.• Optimal balance: ensuring efficient and effective polishing and sanding experience.• Hook and loop fastening system
+  Updated: 2025-10-10T13:28:58Z
   Vendor: Glass Polish
   Product Type: Rotary Polisher Backing Pad
   Availability: Available
@@ -2995,13 +2988,13 @@
   Updated: 2025-10-04T00:05:18Z
   Total Products: 5
 - [Backing Pads for Drills, Rotary Polishers, DA and Orbital Sanders](https://glasspolishshop.com/collections/backing-pads): Discover high-quality backing pads for drills, rotary polishers, dual action and orbital sanders, Multiple sizes, thread types and densities, worldwide shipping
-  Updated: 2025-10-10T11:32:08Z
+  Updated: 2025-10-10T14:21:07Z
   Total Products: 129
 - [Drill Spindle Backing Pads – Hook & Loop and PSA Pads](https://glasspolishshop.com/collections/drill-spindle-backing-pads): Shop high-quality drill spindle backing pads with hook & loop or PSA self-stick fixing. Durable, versatile and ideal for sanding, polishing and restoration.
   Updated: 2025-10-06T11:22:35Z
   Total Products: 20
 - [Glass Polish Rotary Backing Pads](https://glasspolishshop.com/collections/rotary-device): Glass Polish, backing pads for rotary devices. Full range of backing plates, variety of grip types, thread sizes, diameters. Worldwide shipping available.
-  Updated: 2025-10-10T11:32:08Z
+  Updated: 2025-10-10T14:21:07Z
   Total Products: 57
 - [Dual Action Sander Backing Pads – 1/4”-20, M6, 5/16”-24 Threads](https://glasspolishshop.com/collections/dual-action-backing-pads): Explore durable hook & loop dual action backing pads for sanding, polishing, spot repair and surface restoration, with various dust extraction hole options.
   Updated: 2025-10-04T00:05:18Z
@@ -3100,7 +3093,7 @@
   Updated: 2025-10-10T11:23:41Z
   Total Products: 3
 - [GLASS POLISH SHOP - Special Offers &amp; Bundles](https://glasspolishshop.com/collections/special-offers-bundles): Huge savings on the products you like
-  Updated: 2025-10-10T11:23:41Z
+  Updated: 2025-10-10T14:21:07Z
   Total Products: 35
 - [GlasX™ Premium Foam-Backed Abrasive Discs – Scratch Removal & Sanding](https://glasspolishshop.com/collections/glasx-foam-backed-abrasive-discs): Shop GlasX™ foam-backed abrasive discs for glass, plastic and headlights. Ideal for scratch removal and pre-polish sanding with smooth, consistent results.
   Updated: 2025-10-10T11:23:41Z
@@ -3115,10 +3108,10 @@
   Updated: 2025-10-04T00:05:22Z
   Total Products: 34
 - [Professional Glass Restoration Scratch Removal Kits & Consumables](https://glasspolishshop.com/collections/professional-glass-restoration-kits-consumables): Explore our range of professional glass restoration kits, abrasives, pads and polishing compounds. Trusted by technicians worldwide for expert scratch removal.
-  Updated: 2025-10-10T11:32:08Z
+  Updated: 2025-10-10T14:19:40Z
   Total Products: 90
 - [Glass Polishing & Restoration Consumables for Glass Scratch Repair](https://glasspolishshop.com/collections/glass-restoration-consumables): Everything You Need to Polish, Restore, and Protect Glass Surfaces. Abrasives, compounds, pads and tools for professional clarity and long-lasting protection.
-  Updated: 2025-10-10T11:32:08Z
+  Updated: 2025-10-10T14:19:40Z
   Total Products: 86
 - [ProMesh™ Foam-Backed Abrasive Discs – Durable Mesh for Restoration](https://glasspolishshop.com/collections/promesh-foam-backed-abrasive-discs): ProMesh™ foam-backed abrasive discs made with durable mesh for glass restoration, plastic polishing and surface repair. Long-lasting performance and precision.
   Updated: 2025-10-04T00:05:22Z
