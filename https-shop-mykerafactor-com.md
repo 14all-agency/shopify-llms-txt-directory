@@ -6,19 +6,19 @@
 - Timezone: America/Chicago
 - Created At: 2020-04-27T19:06:17Z
 - Contact Email: laurend@skinqri.com
-- Updated At: 2025-10-10T16:00:29.789Z
+- Updated At: 2025-10-10T20:00:29.681Z
 
 ## Products
 
 - [KeraFactor® Scalp Stimulating Shampoo and Conditioner](https://shop.mykerafactor.com/products/kerafactor-scalp-stimulating-shampoo-conditioner): The KeraFactor 2 in 1 Shampoo and Conditioner exfoliates and stimulates the scalp and hair using a unique combination of conditioners and growth factors designed to enhance scalp circulation and reinvigorate the scalp and hair, leading to hair that appears fuller, has more body, and is healthier. Each 100ml bottle has enough quantity to be used daily for at least 1 month. Lasts for 40 washes Only a pea-sized drop is used and lathered before massaging into the scalp. Leave in for 1 minute before rinsing. For patients with significant hair, it is recommended to use regular shampoo first and use this product as more of a scalp and hair treatment than a shampoo wash. Lastly, condition your ends with your regular conditioner. List of Ingredients Aqua, Coco-Glucoside, Glycerin, Caprylyl/Capryl Glucoside, Pentylene Glycol, Disodium Lauryl Sulfosuccinate, Lauramidopropyl Betaine, Sodium Cocoyl Apple Amino Acids, Glycol Distearate, Betaine, Polyquatenium-10, sh-Oligopeptide-1, sh-Oligopeptide-4, sh-Polypeptide-1, sh-Polypeptide-7, sh-Polypeptide-9, sh-Polypeptide-11, sh-Polypeptide-71, Copper Tripeptide-1, Niacinamide, 3-0-Ethyl Ascorbic Acid, Adenosine, Caffeine, Arginine, Tetrahydrocurcumin, Curcumin, Menthol, Silk Amino Acids, Tetrasodium Glutamate Diacetate, Mensa Avensis Leaf/Stem Oil, Lecithin, Trehalose, Glyceryl Caprylate, Hexylene Glycol, Panthenol, Polysorbate 60, Citric Acid, Sodium Citrate, Sodium Chloride, Phenoxyethanol Possible Adverse Reactions: Scalp irritation, rash, or temporary redness. If a reaction occurs, please discontinue use. Warning: Avoid this product if you are allergic to Curcumin. Avoid contact with eyes. In case of contact with eyes, rinse immediately with plenty of water. Keep out of reach of children. Not intended for use by pregnant or nursing women or by any person under the age of 18. If you are taking any medications, consult with your doctor or health professional before use. Storage: Keep in a cool place. Do not freeze.
-  Updated: 2025-10-10T15:14:50Z
+  Updated: 2025-10-10T19:38:51Z
   Vendor: KeraFactor by SkinQRI
   Product Type: Hair Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0283/3016/4333/files/28-opt.jpg?v=1751547430
   Price: $49.00 USD
 - [KeraFactor® Scalp Stimulating Solution](https://shop.mykerafactor.com/products/kerafactor-scalp-stimulating-solution): KeraFactor® Scalp Stimulating Solution – 50ml Bottle Healthy-looking hair starts at the scalp. This 50ml bottle of KeraFactor® Scalp Stimulating Solution is formulated with our patented KeraFactor Peptide Complex (KFP™) and next-generation Nanofluorosome™ Technology to help nourish the scalp and support visibly thicker, fuller, and stronger hair. Why it works: KFP™ delivers a concentrated dose of 7 biomimetic growth factors and skin proteins that target thinning, weak, or dormant hair follicles. These ingredients are designed to boost circulation, improve scalp health, and encourage healthier hair growth. Now enhanced with Nanofluorosomes™—a patented delivery system containing a naturally fluorescent anti-inflammatory and anti-androgenic compound that can be activated with red-light therapy devices (630–690nm) for amplified results. Includes a precision dropper applicator for easy, mess-free application directly to the scalp. ✔ Supports Hair Density and Strength ✔ Drug-Free & Hormone-Free ✔ Ideal for Daily Use or Post /Microneedling ✔ Activates with Red-Light Therapy ✔ Developed by Dermatologists ✔ FDA Cosmetics Registered (MoCRA Compliant) How to Use: Apply a full dropper directly to the scalp once daily or as directed by your provider. Massage in gently. Do not rinse. Caution: Avoid use if allergic to curcumin. For external use only. Avoid eye contact. Not recommended for individuals under 18 or for those who are pregnant or nursing. Storage: Store in a cool, dry place. Do not freeze. Ingredients: Water, Pentylene Glycol, Niacinamide, Panthenol, Arginine, Glycerin, Carbomer, Polysorbate 60, Xanthan gum, Lecithin, Curcumin, Tetrahydrocurcumin, 3-0-ethyl ascorbic acid, Phenoxyethanol, Hyaluronic Acid, Sodium Citrate, Citric Acid, p-Anisic Acid, Copper Tripeptide-1, sh-Oligopeptide-1, sh-Oligopeptide-4, sh-Polypeptide-7, sh-Polypeptide-9, sh-Polypeptide-1, sh-Polypeptide-11, sh-Polypeptide-71
-  Updated: 2025-10-10T05:05:22Z
+  Updated: 2025-10-10T19:06:28Z
   Vendor: KeraFactor by SkinQRI
   Product Type: Hair Care
   Availability: Available
@@ -53,7 +53,7 @@
   Image: https://cdn.shopify.com/s/files/1/0283/3016/4333/files/10_affe34a8-1d19-4ef1-9214-d3c49ebe7bcd-opt.jpg?v=1751544973
   Price: $1,399.00 USD
 - [KeraSmooth Hair Brush](https://shop.mykerafactor.com/products/kerasmooth-hair-brush): Introducing the KeraSmooth Hair Brush by KeraFactor Discover the ultimate solution for delicate detangling with the KeraSmooth Hair Brush. Designed specifically for thinning or fine hair, KeraSmooth features innovative soft-flex teeth that ensure minimal breakage and gentle care for your locks. Key Features: Soft-Flex Teeth: Specially designed to reduce breakage and pulling, making it perfect for fragile or color-treated hair. Pain-Free Detangling: Effortlessly detangle wet hair without any discomfort. Ideal for use in the shower to distribute shampoo and conditioner evenly from root to tip. Versatile Use: Perfect for detangling after washing, prepping for blow drying, or embracing your natural hair texture. Gentle on Scalps: The soft-flex teeth are tough on knots but gentle on sensitive scalps, providing a soothing brushing experience. Patented Two-Tiered Design: Long teeth detangle and remove knots, while short teeth smooth hair for a glossy, frizz-free finish. How to Use: In the Shower: Use on wet hair to painlessly detangle and evenly distribute shampoo and conditioning treatments. Post-Wash: Detangle hair after washing to prepare for blow drying or to style your natural hair. Avoid Heat: Do not use with heat tools to maintain the integrity of the soft-flex teeth. Elevate your hair care routine with the KeraSmooth Hair Brush. Experience delicate detangling and healthier, shinier hair with every use.
-  Updated: 2025-10-10T15:14:49Z
+  Updated: 2025-10-10T18:34:10Z
   Vendor: KeraFactor by SkinQRI
   Product Type: 
   Availability: Available
@@ -100,14 +100,14 @@
   Image: https://cdn.shopify.com/s/files/1/0283/3016/4333/files/5_920490c8-b4ab-465c-a158-35f92159ff33.png?v=1754150468
   Price: $20.00 USD
 - [KeraRoller](https://shop.mykerafactor.com/products/keraroller): Precision Scalp Microneedling Elevate your scalp care routine with the KeraRoller, a handheld device designed to optimize the absorption of your favorite topical treatments. Featuring 1,200 stainless steel needles (0.25mm), it gently and painlessly creates microchannels in the scalp to support healthier-looking hair. ✨ Why You’ll Love It Boosts penetration of scalp serums for maximum impact Painless 0.25mm stainless steel microneedles Easy-to-use design for at-home scalp support Perfectly pairs with our Scalp Stimulating Solution How to Use: Gently roll the KeraRoller across areas of concern on your scalp. Follow immediately with our Scalp Stimulating Solution to enhance delivery of active ingredients. Always sanitize your KeraRoller with alcohol before and after each use. Start your hair health journey with the KeraRoller—where innovation meets self-care.
-  Updated: 2025-10-10T15:14:49Z
+  Updated: 2025-10-10T19:06:26Z
   Vendor: KeraFactor by SkinQRI
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0283/3016/4333/files/2_e496af99-d352-4401-bb3d-d69587b9aeca.png?v=1754152251
   Price: $39.00 USD
 - [KeraTote](https://shop.mykerafactor.com/products/keratote): Carry your essentials in effortless style with the KeraFactor Embroidered Tote Bag. Crafted from durable, premium cotton canvas, this everyday tote features the KeraFactor logo beautifully embroidered for a refined, elevated touch. Perfect for work, travel, or daily errands, it offers ample space for your hair care. With sturdy handles and timeless design, it’s the perfect blend of functionality and sophistication, made for those who believe confidence starts from the scalp up.
-  Updated: 2025-10-10T04:11:07Z
+  Updated: 2025-10-10T16:10:38Z
   Vendor: KeraFactor by SkinQRI
   Product Type: 
   Availability: Available
