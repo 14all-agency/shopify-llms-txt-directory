@@ -6,12 +6,12 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-07-26T03:23:12Z
 - Contact Email: donedeals.xyz@gmail.com
-- Updated At: 2025-10-10T08:00:53.184Z
+- Updated At: 2025-10-10T20:00:54.031Z
 
 ## Products
 
 - [LED PIR Motion Sensor Cabinet  With USB Rechargeble](https://donedeals.xyz/products/led-pir-motion-sensor-cabinet-with-usb-rechargeble): Product Name: LED PIR Motion Sensor Cabinet Light With USB Rechargeble Package Contains: 1 PieceColour Temperature- 2500 - 3000 K WarmCord Colour- WirelessNumber of light - 3 lightsFeatures- Battery Operated, Colour-Changing, Dimmable, Easy Installation, Energy Efficient, Energy Saving, Even Lighting, Low Voltage, PIR Motion Sensor, Portable, Rechargeable, Rust Resistant, Sensor, Smart Enabled, Spotlight, Stick-On, USB, Wall Mounted, Waterproof, Wireless, With LightLight Colour- Neutral White, Warm White, WhitePower Source - USBCombo: Pack of 1Weight: 400gramLBH - ? ?40L x 4W x 8.6H Centimeters
-  Updated: 2025-10-10T07:47:35Z
+  Updated: 2025-10-10T19:46:47Z
   Vendor: rakqr0-pn
   Product Type: 
   Availability: Available
@@ -6768,34 +6768,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/cftuv_512_e7438dc3-39c5-4d0a-b7ea-e787da35eac6.webp?v=1759211742
   Price: ₹0.00 INR
-- [REAL BRANDS JBC 15000 ml Cooking Oil Dispenser/FOR 15L TEEN CANE/OIL PUMP STEEL/ (Pack of 1)](https://donedeals.xyz/products/real-brands-jbc-15000-ml-cooking-oil-dispenser-for-15l-teen-cane-oil-pump-steel-pack-of-2): Product Details Name : REAL BRANDS JBC 15000 ml Cooking Oil Dispenser/FOR 15L TEEN CANE/OIL PUMP STEEL/ (Pack of 1) Material : Stainless Steel Product Breadth : 4 Cm Product Height : 39 Cm Product Length : 4 Cm Net Quantity (N) : Pack Of 1 REAL BRANDS JBC Oil Pump used to pump out oil from large cans and containers. To use, dip the longest side in the can/ container and rotate the handle. The oil will come out from the bent side. Keep a smaller bowl under the bent side to collect the oil. Pump oil or other liquid from a heavy fully filled container to a smaller container for daily use. kitchen use, office use, and for outdoors also. Fluids including engine oil, transmission fluids, gear oil, coolant, and brake fluid in garage please pull the lever at the top of the pump 20-25 times up and down to create a vacuum for the pump to pour out liquid Dispensing oil can be a tough job in the kitchen but now with the introduction of the oil pump dispenser, there are no more worries for those working in the kitchen. It can be used in the form of an oil dispenser and at the same time it can also carry out the job of blending and chopping various ingredients in the kitchen. Country of Origin : India More Information
-  Updated: 2025-09-30T05:55:53Z
-  Vendor: DoneDeals
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/azuz5_512_3e71b17f-e3ca-4bda-b6d8-91decded8a9f.webp?v=1759211749
-  Price: ₹0.00 INR
-- [15000 ml Cooking Oil Dispenser/FOR 15L TEEN CANE/OIL PUMP STEEL/ (Pack of 1)](https://donedeals.xyz/products/15000-ml-cooking-oil-dispenser-for-15l-teen-cane-oil-pump-steel-pack-of-2): Product Details Name : 15000 ml Cooking Oil Dispenser/FOR 15L TEEN CANE/OIL PUMP STEEL/ (Pack of 1) Material : Steel Product Breadth : 10 Cm Product Height : 5 Cm Product Length : 5 Cm Net Quantity (N) : Pack Of 1 Country of Origin : India More Information
-  Updated: 2025-09-30T05:56:00Z
-  Vendor: DoneDeals
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/1tbfc_512_2f81477f-f04b-43ba-990c-fe397d935834.webp?v=1759211755
-  Price: ₹0.00 INR
 - [Oil Dispenser Bottle for Kitchen - 2 in 1 Olive Oil Dispenser and Oil Sprayer - 500ml Olive Oil Bottle - Oil Sprayer for Cooking, Kitchen, Salad, Barbecue 1 Pcs](https://donedeals.xyz/products/oil-dispenser-bottle-for-kitchen-2-in-1-olive-oil-dispenser-and-oil-sprayer-500ml-olive-oil-bottle-oil-sprayer-for-cooking-kitchen-salad-barbecue-1-pcs-1): Product Details Name : Oil Dispenser Bottle for Kitchen - 2 in 1 Olive Oil Dispenser and Oil Sprayer - 500ml Olive Oil Bottle - Oil Sprayer for Cooking, Kitchen, Salad, Barbecue 1 Pcs Material : Glass Product Breadth : 10 Cm Product Height : 10 Cm Product Length : 5 Cm Net Quantity (N) : Pack Of 1 Name : 2 In 1 Oil Sprayer & Dispenser Bottle for Kitchen | 500 ml | Free steel straw | For Cooking, Salad, Air Fryer, Barbecue, Baking | Premium Glass Bottle | Durable | with Leak Proof Seal | Multicolor Material : Glass Product Breadth : 15 Cm Product Height : 10 Cm Product Length : 10 Cm Net Quantity (N) : Pack Of 1 Name : Oil Spray And Dispenser Bottle for Kitchen,2 in 1 Olive Oil Mist Spray and Oil Dispenser 500ML for Cooking,BBQ, Air Fryer, Salad, Frying, Baking Material : Glass Product Breadth : 0.5 Cm Product Height : 1.5 Cm Product Length : 1.5 Cm Net Quantity (N) : Pack Of 1 【2 in 1 Olive Oil Sprayer and Oiler】 This oil dispenser bottle has a built-in spout. can switch between spray and pour functions at any time. Kitchenware tools for home and kitchen. 【Upgraded Nozzle Design】 The nozzle of this olive oil dispenser bottle has been upgraded to achieve a uniform fan-shaped spray. The upgraded anti-drip design realizes no dripping or hanging on the wall when pouring oil. 【Food Grade Material】 This olive oil sprayer is made of thickened lead-free glass material, sturdy and durable. The clear bottle lets know exactly how much oil is left. The lid and handle are made of food grade material, BPA free. 【Large Diameter Spout】 The spout of this oil dispenser bottle has been widened, which is very convenient for pouring Country of Origin : India More Information
-  Updated: 2025-09-30T05:56:23Z
+  Updated: 2025-10-10T11:51:25Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/okifj_512_18cd1e95-1f21-4028-b6b4-ccf29072588d.webp?v=1759211762
-  Price: ₹0.00 INR
-- [Plastic Oil Dispenser, 1000ml, Pack of 1, Clear](https://donedeals.xyz/products/plastic-oil-dispenser-1000ml-pack-of-1-clear-1): Product Details Name : Plastic Oil Dispenser, 1000ml, Pack of 1, Clear Material : Plastic Product Breadth : 7 Cm Product Height : 30 Cm Product Length : 7 Cm Net Quantity (N) : Pack Of 1 Oil Dust Proof, Leak Proof Pourer, Wine Dispenser Country of Origin : India More Information
-  Updated: 2025-09-30T05:56:15Z
-  Vendor: DoneDeals
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/dddlt_512_a42c64e3-280e-4253-b569-cc5af5ca6253.webp?v=1759211769
-  Price: ₹0.00 INR
+  Price: ₹220.00 INR
 - [PORTABLE SEALING MACHINE](https://donedeals.xyz/products/portable-sealing-machine-1): Product Details Name : PORTABLE SEALING MACHINE Material : Plastic Product Breadth : 4 Cm Product Height : 4 Cm Product Length : 6 Cm Net Quantity (N) : Pack Of 1 Country of Origin : India More Information
   Updated: 2025-09-30T18:42:52Z
   Vendor: DoneDeals
@@ -23727,14 +23706,14 @@
   Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/wnnoc_512.webp?v=1760033688
   Price: ₹300.00 INR
 - [Extra Large Food Bag Sealing Clips with Dispensing Nozzle, Moisture-Proof Plastic Snack and Cereal Storage Seal, Bag Seal Clips for Food Storage, Home Use, Cereal Preservation( Pack Of 4,Multicolor )](https://donedeals.xyz/products/extra-large-food-bag-sealing-clips-with-dispensing-nozzle-moisture-proof-plastic-snack-and-cereal-storage-seal-bag-seal-clips-for-food-storage-home-use-cereal-preservation-pack-of-4-multicolor): Product Details Name : Extra Large Food Bag Sealing Clips with Dispensing Nozzle, Moisture-Proof Plastic Snack and Cereal Storage Seal, Bag Seal Clips for Food Storage, Home Use, Cereal Preservation( Pack Of 4,Multicolor ) Material : Plastic Product Breadth : 10 Cm Product Height : 15 Cm Product Length : 10 Cm Net Quantity (N) : Pack Of 4 Extra Large Food Bag Sealing Clips with Dispensing Nozzle, Moisture-Proof Plastic Snack and Cereal Storage Seal, Bag Seal Clips for Food Storage, Home Use, Cereal Preservation Country of Origin : India More Information
-  Updated: 2025-10-10T01:24:03Z
+  Updated: 2025-10-10T13:23:25Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/kexna_512.webp?v=1760059443
   Price: ₹271.00 INR
 - [Food Clip Pack of 1, Sealing Clips, Snack Food Preservation Clips, Kitchen Food Bag Sealing Clips, Food Clips, Food Preservation Clips. (2)](https://donedeals.xyz/products/food-clip-pack-of-1-sealing-clips-snack-food-preservation-clips-kitchen-food-bag-sealing-clips-food-clips-food-preservation-clips-2): Product Details Name : Food Clip Pack of 1, Sealing Clips, Snack Food Preservation Clips, Kitchen Food Bag Sealing Clips, Food Clips, Food Preservation Clips. (2) Material : Plastic Product Breadth : 10 Cm Product Height : 10 Cm Product Length : 13.5 Cm Net Quantity (N) : Pack Of 1 Discharge Port -- Pouring Clips with discharge port design for easy access makes it easy to pour out the food,Suitable for powder, liquid, fluid, and small particles. Plastic Material -- Made from food grade plastic, this food clip is safe, solid and resistant to deformation, ensuring long lasting use. Sealed and Fresh -- The clip provides a tight and effective seal, preventing air, moisture, and bad smell from entering, thus maintaining the freshness and taste of the food. Perfect Home Helper -- This bag clips are good helper for kitchen,You can be used for kitchen storage, such as coffee beans, rice, flour, milk powder or pet food, condiment bags, etc. Easy to Use -- Food bag clip is designed to be easy to use, so you can use it easily, which is convenient for you. Country of Origin : India More Information
-  Updated: 2025-10-10T01:26:15Z
+  Updated: 2025-10-10T13:24:33Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -23908,74 +23887,349 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/86pyz_512.webp?v=1760080826
   Price: ₹0.00 INR
-- [Men CROSSED Work Kurta Best Quality At Lowest Price Set (2)](https://donedeals.xyz/products/men-crossed-work-kurta-best-quality-at-lowest-price-set-2)
-  Updated: 2025-10-10T07:27:35Z
+- [Sunshopping Men? Formal & Causal Leatherite Belt and Wallet Combo(Pack of 3)](https://donedeals.xyz/products/sunshopping-men-formal-causal-leatherite-belt-and-wallet-combopack-of-3): Product Details Name : Sunshopping Men? Formal & Causal Leatherite Belt and Wallet Combo(Pack of 3) Material : PU Pattern : Striped Net Quantity (N) : 2 Sizes : 28 (Waist Size : 28 in) 30 (Waist Size : 30 in) 32 (Waist Size : 32 in) 34 (Waist Size : 34 in) 36 (Waist Size : 36 in) Sunshopping Men’s Formal & Causal Leatherite Belt and Wallet Combo(Pack of 3) Country of Origin : India More Information
+  Updated: 2025-10-10T10:02:29Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
-  - [S](https://donedeals.xyz/products/men-crossed-work-kurta-best-quality-at-lowest-price-set-2?variant=43675781726259)
-    Availability: Available
-    Price: ₹531.00 INR
-  - [M](https://donedeals.xyz/products/men-crossed-work-kurta-best-quality-at-lowest-price-set-2?variant=43675781759027)
-    Availability: Available
-    Price: ₹531.00 INR
-  - [L](https://donedeals.xyz/products/men-crossed-work-kurta-best-quality-at-lowest-price-set-2?variant=43675781791795)
-    Availability: Available
-    Price: ₹531.00 INR
-  - [XL](https://donedeals.xyz/products/men-crossed-work-kurta-best-quality-at-lowest-price-set-2?variant=43675781824563)
-    Availability: Available
-    Price: ₹531.00 INR
-- [PRINTED KURTA PAJAMA FOR MEN (2)](https://donedeals.xyz/products/printed-kurta-pajama-for-men-2)
-  Updated: 2025-10-10T07:27:38Z
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/cfrdb_512.webp?v=1760090013
+  Price: ₹228.00 INR
+- [SHOPGLOBAL BLACK BELT](https://donedeals.xyz/products/shopglobal-black-belt): Product Details Name : SHOPGLOBAL BLACK BELT Material : Leather Pattern : Solid Net Quantity (N) : 1 Sizes : Free Size (Waist Size : 40 in) Country of Origin : India More Information
+  Updated: 2025-10-10T10:02:30Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
-  - [S](https://donedeals.xyz/products/printed-kurta-pajama-for-men-2?variant=43675782381619)
-    Availability: Available
-    Price: ₹379.00 INR
-  - [M](https://donedeals.xyz/products/printed-kurta-pajama-for-men-2?variant=43675782414387)
-    Availability: Available
-    Price: ₹379.00 INR
-  - [L](https://donedeals.xyz/products/printed-kurta-pajama-for-men-2?variant=43675782447155)
-    Availability: Available
-    Price: ₹379.00 INR
-  - [XL](https://donedeals.xyz/products/printed-kurta-pajama-for-men-2?variant=43675782479923)
-    Availability: Available
-    Price: ₹379.00 INR
-- [MEN EMBROIDERY COTTON KURTA SET (2)](https://donedeals.xyz/products/men-embroidery-cotton-kurta-set-2)
-  Updated: 2025-10-10T07:27:48Z
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/4aflp_512.webp?v=1760090022
+  Price: ₹153.00 INR
+- [AT FASHIONN: Stylishly Secure Your Look with Our Sleek Belt Collection](https://donedeals.xyz/products/at-fashionn-stylishly-secure-your-look-with-our-sleek-belt-collection): Product Details Name : AT FASHIONN: Stylishly Secure Your Look with Our Sleek Belt Collection Material : Canvas Pattern : Textured Net Quantity (N) : 1 Sizes : 28 (Waist Size : 28 in) 30 (Waist Size : 30 in) 32 (Waist Size : 32 in) 34 (Waist Size : 34 in) 36 (Waist Size : 36 in) 38 (Waist Size : 38 in) Upgrade your ensemble effortlessly with our AT FASHIONN belt collection. Crafted with precision and style in mind, our belts offer the perfect blend of functionality and fashion. Elevate your look and secure your style statement with AT FASHIONN belts today Country of Origin : India More Information
+  Updated: 2025-10-10T10:02:30Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
-  - [S](https://donedeals.xyz/products/men-embroidery-cotton-kurta-set-2?variant=43675784216627)
-    Availability: Available
-    Price: ₹334.00 INR
-  - [M](https://donedeals.xyz/products/men-embroidery-cotton-kurta-set-2?variant=43675784249395)
-    Availability: Available
-    Price: ₹334.00 INR
-  - [L](https://donedeals.xyz/products/men-embroidery-cotton-kurta-set-2?variant=43675784282163)
-    Availability: Available
-    Price: ₹334.00 INR
-  - [XL](https://donedeals.xyz/products/men-embroidery-cotton-kurta-set-2?variant=43675784314931)
-    Availability: Available
-    Price: ₹334.00 INR
-- [Elegant Men Kurtas (2)](https://donedeals.xyz/products/elegant-men-kurtas-2)
-  Updated: 2025-10-10T07:27:57Z
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/r2mxi_512.webp?v=1760090034
+  Price: ₹138.00 INR
+- [Mono_new](https://donedeals.xyz/products/mono_new): Product Details Name : Mono_new Material : Leather Pattern : Solid Net Quantity (N) : 1 Sizes : 28 (Waist Size : 28 in) 30 (Waist Size : 30 in) 32 (Waist Size : 32 in) 34 (Waist Size : 34 in) 36 (Waist Size : 36 in) 38 (Waist Size : 38 in) 40 (Waist Size : 40 in) 42 (Waist Size : 42 in) 44 (Waist Size : 44 in) Presenting the all new KAEZRI Belt collection for men wherein we provide 100% Genuine Leather Belt and 2 Year Money Back Guarantee. We create value for money. So, We design a large collection of belts to suit everyone personality. Presenting to a premium quality KAEZRI product with its classy appeal and smart design and the perfect combo of fashion and function. The handsome metal buckle brings out a charm in your outfit. This fine quality product and Genuine leather promises best durability and light weight. Country of Origin : India More Information
+  Updated: 2025-10-10T10:02:31Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
-  - [S](https://donedeals.xyz/products/elegant-men-kurtas-2?variant=43675785527347)
-    Availability: Available
-    Price: ₹588.00 INR
-  - [M](https://donedeals.xyz/products/elegant-men-kurtas-2?variant=43675785560115)
-    Availability: Available
-    Price: ₹588.00 INR
-  - [L](https://donedeals.xyz/products/elegant-men-kurtas-2?variant=43675785592883)
-    Availability: Available
-    Price: ₹588.00 INR
-  - [XL](https://donedeals.xyz/products/elegant-men-kurtas-2?variant=43675785625651)
-    Availability: Available
-    Price: ₹588.00 INR
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/lt4t5_512.webp?v=1760090043
+  Price: ₹317.00 INR
+- [kids children spinner belt](https://donedeals.xyz/products/kids-children-spinner-belt): Product Details Name : kids children spinner belt Brand : 2 KOLPOL Closure Type : Buckle Color : Black Gender : Unisex Material : Synthetic Net Quantity (N) : 2 Occasion : Casual Recommended Age : 8 - 11 years Type : Belt Multi-Color Combo 4 Belts for children. (Daily and Party Wear) ( Boy&Girl) Belt for kids boys and girls, Children belt, Baby belt, babies Waist belt. look for Kids age 2 to 14 years with adjustable lock buckle with size adjustment. Weast 12inch to 24inch. Closure Type : Buckle Color : Multi-Color Gender : Unisex Material : Synthetic Net Quantity (N) : 4 Recommended Age : 2- 14 years Type : Belt Premium Quality heavy metal buckle pack of 4, Suitable for the kids Size, Party Wear and formal Wear. Country of Origin : India More Information
+  Updated: 2025-10-10T10:02:31Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/cve7h_512.webp?v=1760090053
+  Price: ₹168.00 INR
+- [HENEDA Men Casual, Evening, Formal, Party Brown Genuine Leather Belt](https://donedeals.xyz/products/heneda-men-casual-evening-formal-party-brown-genuine-leather-belt): Product Details Name : HENEDA Men Casual, Evening, Formal, Party Brown Genuine Leather Belt Material : Leather Pattern : Solid Net Quantity (N) : 1 Sizes : 28 (Waist Size : 28 in) 30 (Waist Size : 30 in) 32 (Waist Size : 32 in) 34 (Waist Size : 34 in) 36 (Waist Size : 36 in) 38 (Waist Size : 38 in) 40 (Waist Size : 40 in) 42 (Waist Size : 42 in) 44 (Waist Size : 44 in) 46 (Waist Size : 46 in) 48 (Waist Size : 48 in) Classic Leather Belt Timeless and traditional, our classic leather belt is a wardrobe staple. Made from high-quality leather, it features a simple and design that pairs perfectly with dress pants, jeans, or shorts. : : Utility Belt Built for the modern man on the go, our utility belt is designed with functionality in mind. Featuring a sturdy buckle and reinforced stitching, it's perfect for outdoor enthusiasts, workers, or anyone who needs a belt that can keep up with their active lifestyle. Country of Origin : India More Information
+  Updated: 2025-10-10T10:02:31Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/qn9ka_512.webp?v=1760090063
+  Price: ₹275.00 INR
+- [Lenzo Fashionable Trendy Men & Women and Boys Belts](https://donedeals.xyz/products/lenzo-fashionable-trendy-men-women-and-boys-belts): Product Details Name : Lenzo Fashionable Trendy Men & Women and Boys Belts Material : Faux Leather/Leatherette Pattern : Solid Net Quantity (N) : 1 Sizes : 38 (Waist Size : 38 in) Belts for men Country of Origin : China More Information
+  Updated: 2025-10-10T10:02:32Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/9kjnc_512.webp?v=1760090073
+  Price: ₹142.00 INR
+- [Fashionable Unique Men Belts](https://donedeals.xyz/products/fashionable-unique-men-belts): Product Details Name : Fashionable Unique Men Belts Material : Faux Leather/Leatherette Pattern : Textured Net Quantity (N) : 2 Sizes : Free Size (Waist Size : 30 in) Country of Origin : India More Information
+  Updated: 2025-10-10T10:02:32Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/ue6yz_512.webp?v=1760090083
+  Price: ₹196.00 INR
+- [Bull Rock 100% Genuine Leather Belt & Wallet For Men](https://donedeals.xyz/products/bull-rock-100-genuine-leather-belt-wallet-for-men): Product Details Name : Bull Rock 100% Genuine Leather Belt & Wallet For Men Material : Leather Pattern : Solid Net Quantity (N) : 1 Sizes : Free Size (Waist Size : 30 in) 100% GENUINE LEATHER BELT Country of Origin : India More Information
+  Updated: 2025-10-10T12:16:25Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/ayzqr_512.webp?v=1760090093
+  Price: ₹530.00 INR
+- [FM Black Fancy Craft Fashionable Trendy Men and Boys Belts](https://donedeals.xyz/products/fm-black-fancy-craft-fashionable-trendy-men-and-boys-belts): Product Details Name : FM Black Fancy Craft Fashionable Trendy Men and Boys Belts Material : Faux Leather/Leatherette Pattern : Solid Net Quantity (N) : 1 Sizes : 28 (Waist Size : 40 in) 30 (Waist Size : 40 in) 32 (Waist Size : 40 in) 34 (Waist Size : 40 in) 36 (Waist Size : 40 in) 38 (Waist Size : 40 in) 40 (Waist Size : 40 in) Name : Fancy Craft Fashionable Trendy Men and Boys Belts Material : Faux Leather/Leatherette Pattern : Solid Net Quantity (N) : 1 Sizes : 26 (Waist Size : 26 in) 28 (Waist Size : 28 in) 30 (Waist Size : 30 in) 32 (Waist Size : 32 in) 34 (Waist Size : 34 in) 36 (Waist Size : 36 in) 38 (Waist Size : 38 in) The Belt is a lighthearted way to add interest to your day to day-dresses and denim. The very medium-slim design has a burnished self textured shade that gives it a unprecedented look itself , so wear the formal semi formal belts like this to the front and buckle to the back for a quirky-chic way to create the waist. width 1.5 inch and length 42inch Country of Origin : India More Information Country of Origin : India More Information
+  Updated: 2025-10-10T10:02:33Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/ooayp_512.webp?v=1760090103
+  Price: ₹138.00 INR
+- [Casual & Formal Wallet & Belt Combo](https://donedeals.xyz/products/casual-formal-wallet-belt-combo): Product Details Name : Casual & Formal Wallet & Belt Combo Material : Faux Leather/Leatherette Pattern : Solid Net Quantity (N) : 1 Sizes : 28 (Waist Size : 28 in) 30 (Waist Size : 30 in) 32 (Waist Size : 32 in) 34 (Waist Size : 34 in) 36 (Waist Size : 36 in) 38 (Waist Size : 38 in) 40 (Waist Size : 40 in) Country of Origin : India More Information
+  Updated: 2025-10-10T10:02:34Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/yc7vb_512.webp?v=1760090112
+  Price: ₹163.00 INR
+- [Mens Trendy premium combo - Genuine leather belt , brown wallet , wired earphones , black uv sunglasses and premium digital watch](https://donedeals.xyz/products/mens-trendy-premium-combo-genuine-leather-belt-brown-wallet-wired-earphones-black-uv-sunglasses-and-premium-digital-watch): Product Details Name : Mens Trendy premium combo - Genuine leather belt , brown wallet , wired earphones , black uv sunglasses and premium digital watch Material : Canvas & Leather Pattern : Textured Net Quantity (N) : 5 Sizes : Free Size (Waist Size : 46 in) ### Short Simple Product Description **Men's Premium Combo** Upgrade your accessories with our Men's Premium Combo! This exclusive set includes : 1. **Genuine Leather Belt (Brown) : ** Perfect for both formal and casual outfits. 2. **Genuine Leather Wallet (Brown) : ** Stylish and spacious, ideal for daily use. 3. **Wired Handsfree : ** High-quality sound for calls and music. 4. **Foldable Sunglasses (Black) : ** Protect your eyes with style. 5. **Digital Watch : ** A sleek, modern accessory for any outfit. Perfect for gifting or personal use, this combo offers unbeatable value. **Search Keywords : ** - under price mens belt - genuine leather belt brown - men's brown wallet - wired handsfree - black foldable sunglasses - digital watch for men - men's accessories combo - men's premium gift set - leather belt and wallet set - men's trendy accessories Country of Origin : India More Information
+  Updated: 2025-10-10T10:02:34Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/qzlax_512.webp?v=1760090118
+  Price: ₹311.00 INR
+- [Belt for mens, combo pack of 2 belts. Silver and gold buckles set, formal and casual wear](https://donedeals.xyz/products/belt-for-mens-combo-pack-of-2-belts-silver-and-gold-buckles-set-formal-and-casual-wear): Product Details Name : Belt for mens, combo pack of 2 belts. Silver and gold buckles set, formal and casual wear Material : Faux Leather/Leatherette Pattern : Embellished Net Quantity (N) : 2 Sizes : 24, 26, 28, 30, 32, 34, 36, 38, 40, 42, Free Size, S, M, L, XL, XXL Lock buckel given in this belt. Country of Origin : India More Information
+  Updated: 2025-10-10T10:02:35Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/amtua_512.webp?v=1760090127
+  Price: ₹188.00 INR
+- [LENZO Artificial Leather Belt Pack of 2](https://donedeals.xyz/products/lenzo-artificial-leather-belt-pack-of-2): Product Details Name : LENZO Artificial Leather Belt Pack of 2 Material : Faux Leather/Leatherette Pattern : Solid Net Quantity (N) : 2 Sizes : 28 (Waist Size : 28 in) 30 (Waist Size : 30 in) 32 (Waist Size : 32 in) 34 (Waist Size : 34 in) 36 (Waist Size : 36 in) 38 (Waist Size : 38 in) 40 (Waist Size : 40 in) The Belt is a lighthearted way to add interest to your day to day-dresses and denim. The very medium-slim design has a burnished self textured shade that gives it a unprecedented look itself , so wear the formal semi formal belts like this to the front and buckle to the back for a quirky-chic way to create the waist. width 1.5 inch and length 42inch Country of Origin : China More Information
+  Updated: 2025-10-10T10:02:35Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/t9xdw_512.webp?v=1760090137
+  Price: ₹177.00 INR
+- [Zhermack Trendy Fashionable Artificial Leather Brown Men Belt with stylish black miller watch ( Pack OF 2 )](https://donedeals.xyz/products/zhermack-trendy-fashionable-artificial-leather-brown-men-belt-with-stylish-black-miller-watch-pack-of-2): Product Details Name : Zhermack Trendy Fashionable Artificial Leather Brown Men Belt with stylish black miller watch ( Pack OF 2 ) Material : Faux Leather/Leatherette Pattern : Textured Net Quantity (N) : 2 Sizes : 24 (Waist Size : 24 in) 26 (Waist Size : 26 in) 28 (Waist Size : 28 in) 30 (Waist Size : 30 in) 32 (Waist Size : 32 in) 34 (Waist Size : 34 in) 36 (Waist Size : 36 in) 38 (Waist Size : 38 in) Zhermack Trendy Fashionable Artificial Leather Brown Men Belt with stylish black miller watch ( Pack OF 2 ) 1miller watch + 1 Belt Country of Origin : India More Information
+  Updated: 2025-10-10T10:02:36Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/myrqe_512.webp?v=1760090147
+  Price: ₹196.00 INR
+- [DDkatabl11_](https://donedeals.xyz/products/ddkatabl11_): Product Details Name : DDkatabl11_ Material : Leather Pattern : Solid Net Quantity (N) : 1 Sizes : 28 (Waist Size : 28 in) 30 (Waist Size : 30 in) 32 (Waist Size : 32 in) 34 (Waist Size : 34 in) 36 (Waist Size : 36 in) 38 (Waist Size : 38 in) 40 (Waist Size : 40 in) 42 (Waist Size : 42 in) 44 (Waist Size : 44 in) Presenting the all new KAEZRI Belt collection for men wherein we provide 100% Genuine Leather Belt and 2 Year Money Back Guarantee. We create value for money. So, We design a large collection of belts to suit everyone personality. Presenting to a premium quality KAEZRI product with its classy appeal and smart design and the perfect combo of fashion and function. The handsome metal buckle brings out a charm in your outfit. This fine quality product and Genuine leather promises best durability and light weight. Country of Origin : India More Information
+  Updated: 2025-10-10T10:02:36Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/nre3u_512.webp?v=1760090157
+  Price: ₹317.00 INR
+- [mono2](https://donedeals.xyz/products/mono2): Product Details Name : mono2 Material : Leather Pattern : Solid Net Quantity (N) : 1 Sizes : 28 (Waist Size : 28 in) 30 (Waist Size : 30 in) 32 (Waist Size : 32 in) 34 (Waist Size : 34 in) 36 (Waist Size : 36 in) 38 (Waist Size : 38 in) 40 (Waist Size : 40 in) 42 (Waist Size : 42 in) 44 (Waist Size : 44 in) Presenting the all new KAEZRI Belt collection for men wherein we provide 100% Genuine Leather Belt and 2 Year Money Back Guarantee. We create value for money. So, We design a large collection of belts to suit everyone personality. Presenting to a premium quality KAEZRI product with its classy appeal and smart design and the perfect combo of fashion and function. The handsome metal buckle brings out a charm in your outfit. This fine quality product and Genuine leather promises best durability and light weight. Country of Origin : India More Information
+  Updated: 2025-10-10T10:02:37Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/5o2ni_512.webp?v=1760090167
+  Price: ₹325.00 INR
+- [Styles Trendy Men Belts](https://donedeals.xyz/products/styles-trendy-men-belts): Product Details Name : Styles Trendy Men Belts Material : Leather Pattern : Solid Net Quantity (N) : 2 Sizes : 28 (Waist Size : 28 in) 30 (Waist Size : 30 in) 32 (Waist Size : 32 in) 34 (Waist Size : 34 in) 36 (Waist Size : 36 in) 38 (Waist Size : 38 in) 40 (Waist Size : 40 in) 42 (Waist Size : 42 in) Country of Origin : India More Information
+  Updated: 2025-10-10T10:02:37Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/7rsss_512.webp?v=1760090176
+  Price: ₹187.00 INR
+- [SHOPBREAK Black Formal & Casual Artificial Leather Auto Lock Belt](https://donedeals.xyz/products/shopbreak-black-formal-casual-artificial-leather-auto-lock-belt): Product Details Name : SHOPBREAK Black Formal & Casual Artificial Leather Auto Lock Belt Material : PU Pattern : Textured Net Quantity (N) : 1 Sizes : Free Size (Waist Size : 40 in) No More Holes, One Size —SHOPBREAK Auto Lock Buckle Belt Provides Unique Adjustments For An Extremely Comfortable Fit. Fits Waist 28 To 38 Inches. Easy Removable Buckle Allows You To Use A Simple Scissor To Cut The Belt To Your Ideal Size To Give A Primmer And Custom-Tailored Appearance! Join The SHOPBREAK Belt Fashion Mission And Our Awesome Belts With Removable Buckles, Easy Use — Just Slide The Dress Belt Into The Sliding Buckle And Pull The Belt Through, The Nice Belts Buckle Simply Auto Locks The Automatic Belt, To Release The Belt, Gently Push The Lever On The Side Of The Removable Buckle And Lock Will Snap. Simple, Smooth, And Sleek, Maximum Durability — Presenting The Perfect Look Of A Fine, High-Quality Designer Belt For Men, Complemented With A Highly Fashionable Stylish, And Interchangeable Buckle That Is Elegantly Designed With Class. Scratch Resistant Durable Buckles Made To Last, Material - Made From Full Grain Vegan Synthetic Leather (Pu-Leather). Handcrafted For Those Who Do Not Like Animal Leather Products. Complemented With A Stylish Scratch Resistant Buckle That Is Elegantly Designed With Class Country of Origin : India More Information
+  Updated: 2025-10-10T10:02:37Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/pvwsg_512.webp?v=1760090187
+  Price: ₹162.00 INR
+- [Fashionable Trendy Men and Boys Belts Fancy Unique Men Belts COMBO (PACK 0F 2)](https://donedeals.xyz/products/fashionable-trendy-men-and-boys-belts-fancy-unique-men-belts-combo-pack-0f-2): Product Details Name : Fashionable Trendy Men and Boys Belts Fancy Unique Men Belts COMBO (PACK 0F 2) Material : Synthetic Pattern : Solid Net Quantity (N) : 2 Sizes : 26 (Waist Size : 26 in) 28 (Waist Size : 28 in) 30 (Waist Size : 30 in) 32 (Waist Size : 32 in) 34 (Waist Size : 34 in) 36 (Waist Size : 36 in) 38 (Waist Size : 38 in) MENS FORMAL BELTS (PACK OF 2)FOR BOYS & MENS / OFFICIAL BELTS/FORMAL BELT/CASUAL BELT/ PARTY WEAR BELTS/PARTY WEAR BELT/MENS BELTS/BPYS BELTS/LEATHER BELT/BLACK BELT/BROWN BELT. Country of Origin : India More Information
+  Updated: 2025-10-10T10:02:38Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/qsieu_512.webp?v=1760090197
+  Price: ₹182.00 INR
+- [High Quality combo belts for men 100% Genuine PU Leatherette/PU Belt for Men’s, Belt for man | Formal, evening, Casual, Party, Casual black| leatherette belt| 100% Guarantied Gift on every order..!| !PACK OF 2 (Black) Leatherette Belt](https://donedeals.xyz/products/high-quality-combo-belts-for-men-100-genuine-pu-leatherette-pu-belt-for-men-s-belt-for-man-formal-evening-casual-party-casual-black-leatherette-belt-100-guarantied-gift-on-every-order-pack-of-2-black-leatherette-belt): Product Details Name : High Quality combo belts for men 100% Genuine PU Leatherette/PU Belt for Men’s, Belt for man | Formal, evening, Casual, Party, Casual black| leatherette belt| 100% Guarantied Gift on every order..!| !PACK OF 2 (Black) Leatherette Belt Material : Faux Leather/Leatherette Pattern : Solid Net Quantity (N) : 2 Sizes : 28 (Waist Size : 28 in) 30 (Waist Size : 30 in) 32 (Waist Size : 32 in) 34 (Waist Size : 34 in) 36 (Waist Size : 36 in) 38 (Waist Size : 38 in) 40 (Waist Size : 40 in) 42 (Waist Size : 42 in) High quality 100% Genuine leatherette/PU Belt for Men’s, Belt for man | Formal, evening, Casual, Party, Casual black| leatherette belt| PACK OF 2 (Black) Leatherette Belt Material : 100% Faux Leather/ leatherette Pattern : Solid Net Quantity (N) : 2 Sizes : 28 (Waist Size : 28 in) 30 (Waist Size : 30 in) 32 (Waist Size : 32 in) 34 (Waist Size : 34 in) 36 (Waist Size : 36 in) 38 (Waist Size : 38 in) 40 (Waist Size : 40 in) 42 (Waist Size : 42 in) QUALITY : - Pack of 2 Black High quality 100% Genuine leatherette Belt | Stylish Buckle with High quality 100% Genuine leatherette/PU Belt for Men’s, Belt for man | Formal, evening, Casual, Party, Casual black| leatherette belt| PACK OF 2 (Black) Leatherette Belt| Stylish Buckle . Our belt is made up of 100% Genuine leatherette, Our belt ensures a soft and supple feel for maximum comfort and durability it will not broke up to 2-3 years. • OCCASION : - The classic and versatile design makes it a perfect accessory for both formal and casual occasions. Recommended for Men and Boys. Best Product for daily wear. Put this belt with jean or with formal, we can guarantee it will enhance your overall appearance. • CUT TO FIT STYLE : - We provide one size which fits on up to 42 size of waist. To adjust belt size as per your requirement simply. • Gifting : - This leather belt is perfect for gifting on all occasions and Country of Origin : India More Information
+  Updated: 2025-10-10T10:02:38Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/6suve_512.webp?v=1760090207
+  Price: ₹259.00 INR
+- [Sunshopping Men's Formal & Casual Black PU Strap Belt With Auto Lock Buckle](https://donedeals.xyz/products/sunshopping-mens-formal-casual-black-pu-strap-belt-with-auto-lock-buckle): Product Details Name : Sunshopping Men's Formal & Casual Black PU Strap Belt With Auto Lock Buckle Material : PU Pattern : Textured Net Quantity (N) : 2 Sizes : 28 (Waist Size : 28 in) 30 (Waist Size : 30 in) 32 (Waist Size : 32 in) 34 (Waist Size : 34 in) 36 (Waist Size : 36 in) 38 (Waist Size : 38 in) 40 (Waist Size : 40 in) The Belt is a lighthearted way to add interest to your day-to-day dresses and denim. The very medium-slim design has a burnished self-textured shade that gives it an unprecedented look itself, so wear the formal semi-formal belts like this to the front and buckle to the back for a quirky-chic way to create the waist. Choose from smart black or summery brown shades then head out for your morning coffee. This PU Belt acts as the perfect accessory to complete your look and make you stand out at an affordable price. Feature an elegant design, this belt is long-lasting, lightweight, and made of PU. Country of Origin : India More Information
+  Updated: 2025-10-10T10:02:39Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/q2umh_512.webp?v=1760090216
+  Price: ₹193.00 INR
+- [LENZO Artificial Leather Belt Pack of 2](https://donedeals.xyz/products/lenzo-artificial-leather-belt-pack-of-3): Product Details Name : LENZO Artificial Leather Belt Pack of 2 Material : Faux Leather/Leatherette Pattern : Solid Net Quantity (N) : 2 Sizes : 28 (Waist Size : 28 in) 30 (Waist Size : 30 in) 32 (Waist Size : 32 in) 34 (Waist Size : 34 in) 36 (Waist Size : 36 in) 38 (Waist Size : 38 in) 40 (Waist Size : 40 in) The Belt is a lighthearted way to add interest to your day to day-dresses and denim. The very medium-slim design has a burnished self textured shade that gives it a unprecedented look itself , so wear the formal semi formal belts like this to the front and buckle to the back for a quirky-chic way to create the waist. width 1.5 inch and length 42inch Country of Origin : China More Information
+  Updated: 2025-10-10T09:57:11Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/id6dv_512.webp?v=1760090226
+  Price: ₹0.00 INR
+- [Trendy Premium Men's Wallet and Belt Combo AND GET WIRED HANDFREE FREE](https://donedeals.xyz/products/trendy-premium-mens-wallet-and-belt-combo-and-get-wired-handfree-free): Product Details Name : Trendy Premium Men's Wallet and Belt Combo AND GET WIRED HANDFREE FREE Material : Canvas & Leather Pattern : Textured Net Quantity (N) : 3 Sizes : Free Size (Waist Size : 46 in) We are introducing the ultimate accessory duo for men – our **Men's Wallet and Belt Combo**. This set features a premium quality genuine leather wallet and a matching leather belt, perfect for every occasion. ### **Key Features : ** - **Genuine Leather : ** Both the wallet and belt are crafted from high-quality leather, ensuring durability and a luxurious feel. - **Sophisticated Design : ** The sleek black finish of the wallet and belt offers a timeless look suitable for formal and casual wear. - **Versatile Use : ** Ideal for any outfit, whether you're dressing up for a formal event or keeping it casual with jeans. ### **What's Included : ** - **Mens Belt : ** Our leather belt is perfect for both formal and casual occasions. With an autolock buckle and a design that suits jeans or dress pants, it's versatile and stylish. - **Mens Wallet : ** This leather wallet is both practical and fashionable, providing ample space for cards, cash, and IDs. ### **Special Features : ** - **Mens Belt Leather Branded : ** Experience the quality of a branded leather belt. - **Mens Belt Brown and Black Options : ** Choose between classic colors to match your style. - **Mens Belt Combo Pack : ** Get both a wallet and a belt in one convenient package. - **Mens Belt Casual for Jeans : ** Perfect for pairing with your favorite jeans. - **Mens Belt Double Sided : ** Enjoy the versatility of a double-sided belt **Mens Be Country of Origin : India More Information
+  Updated: 2025-10-10T10:02:39Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/nqlpm_512.webp?v=1760090233
+  Price: ₹213.00 INR
+- [Sunshopping men's black auto lock buckle pu leather belt](https://donedeals.xyz/products/sunshopping-mens-black-auto-lock-buckle-pu-leather-belt): Product Details Name : Sunshopping men's black auto lock buckle pu leather belt Material : PU Pattern : Embroidered Net Quantity (N) : 1 Sizes : Free Size (Waist Size : 38 in) Presenting the all new SHOPBREAK Belt collection for men wherein we provide Artificial Leather Belt. We create value So, We design a large collection of belts to suit everyone personality. Presenting to you a premium quality SHOPBREAK product with its classy appeal and smart design and the perfect combo of fashion and function. The handsome metal buckle brings out a charm in your outfit. This fine quality product and Genuine Artificial promises you best durability and light weight.Fits Waist 28 To 40 Inches Country of Origin : India More Information
+  Updated: 2025-10-10T10:02:40Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/dxqse_512.webp?v=1760090243
+  Price: ₹187.00 INR
+- [buy trendy mens and boys brown belt and get silver analaog watch , album two fold brown wallet , wired handfree and blackj dabaang sunglasses free](https://donedeals.xyz/products/buy-trendy-mens-and-boys-brown-belt-and-get-silver-analaog-watch-album-two-fold-brown-wallet-wired-handfree-and-blackj-dabaang-sunglasses-free): Product Details Name : buy trendy mens and boys brown belt and get silver analaog watch , album two fold brown wallet , wired handfree and blackj dabaang sunglasses free Material : Canvas & Leather Pattern : Solid Net Quantity (N) : 5 Sizes : Free Size (Waist Size : 42 in) Buy this premium brown belt for men & boys and get 5 must-have accessories absolutely free – perfect for gifting ya apne swag ke liye! Combo Mein Kya-Kya Milega FREE : ✔️ Silver Analog Watch – Classic design, stylish finish ✔️ Brown Two-Fold Wallet with Album – Stylish & spacious ✔️ Wired Handfree – Best for music & calls ✔️ Dabangg Black Sunglasses – Hero wala look ✔️ Premium Belt – Formal & casual dono ke liye Office ho ya party, ye combo har jagah kaam ka hai! mens brown belt combo, buy 1 get 5 free offer, belt with wallet and watch, dabangg sunglasses combo, wired handfree free, silver analog watch, wallet combo with belt, trendy accessories for boys, belt and wallet set, meesho best offer for men, mens gift combo , mens brown belt combo, ladko ka belt wallet set, stylish belt for boys, watch wallet sunglasses combo, sasta combo offer mens, dabangg chashma free, men ka stylish gift combo, sunglasses belt free offer, pura set milega ek belt ke sath, belt ke sath free watch wallet, combo set for gifting, handfree belt combo, watch wala combo, belt aur wallet combo, buy 1 get 5 free combo for men ,trendy belt for men, wallet and watch combo, silver analog watch, black sunglasses for men, wired handfree combo, belt wallet gift set, mens fashion combo, accessory combo for boys, wallet with card holder, belt offer combo, belt and goggles, wallet combo under 500, top selling mens Country of Origin : India More Information
+  Updated: 2025-10-10T10:02:40Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/toi0p_512.webp?v=1760090252
+  Price: ₹345.00 INR
+- [Casual Latest Men Belts](https://donedeals.xyz/products/casual-latest-men-belts): Product Details Name : Casual Latest Men Belts Material : Canvas & Leather Pattern : Solid Net Quantity (N) : 1 Sizes : 28 (Waist Size : 28 in) 30 (Waist Size : 30 in) 32 (Waist Size : 32 in) 34 (Waist Size : 34 in) 36 (Waist Size : 36 in) 38 (Waist Size : 38 in) 40 (Waist Size : 40 in) 42 (Waist Size : 42 in) Country of Origin : India More Information
+  Updated: 2025-10-10T10:02:41Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/egtxa_512.webp?v=1760090263
+  Price: ₹173.00 INR
+- [Styles Modern Men Belts (Fancy craft)](https://donedeals.xyz/products/styles-modern-men-belts-fancy-craft): Product Details Name : Styles Modern Men Belts (Fancy craft) Material : Faux Leather/Leatherette Pattern : Textured Net Quantity (N) : 1 Sizes : 34 (Waist Size : 34 in) 36 (Waist Size : 36 in) 38 (Waist Size : 38 in) Country of Origin : India More Information
+  Updated: 2025-10-10T10:02:41Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/bck7p_512.webp?v=1760090273
+  Price: ₹171.00 INR
+- [Casual Trendy Men Belts](https://donedeals.xyz/products/casual-trendy-men-belts): Product Details Name : Casual Trendy Men Belts Material : Plastic Pattern : Textured Net Quantity (N) : 1 Sizes : 28 (Waist Size : 28 in) 30 (Waist Size : 30 in) 32 (Waist Size : 32 in) 34 (Waist Size : 34 in) 36 (Waist Size : 36 in) 38 (Waist Size : 38 in) Nylon plastic buckle belt, Non leather belt Country of Origin : India More Information
+  Updated: 2025-10-10T10:02:42Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/tnse9_512.webp?v=1760090282
+  Price: ₹219.00 INR
+- [HENEDA Men Casual, Evening, Formal, Party Brown Genuine Leather Belt](https://donedeals.xyz/products/heneda-men-casual-evening-formal-party-brown-genuine-leather-belt-1): Product Details Name : HENEDA Men Casual, Evening, Formal, Party Brown Genuine Leather Belt Material : Leather Pattern : Solid Net Quantity (N) : 1 Sizes : 28 (Waist Size : 28 in) 30 (Waist Size : 30 in) 32 (Waist Size : 32 in) 34 (Waist Size : 34 in) 36 (Waist Size : 36 in) 38 (Waist Size : 38 in) 40 (Waist Size : 40 in) 42 (Waist Size : 42 in) 44 (Waist Size : 44 in) 46 (Waist Size : 46 in) 48 (Waist Size : 48 in) Classic Leather Belt Timeless and traditional, our classic leather belt is a wardrobe staple. Made from high-quality leather, it features a simple and design that pairs perfectly with dress pants, jeans, or shorts. : : Utility Belt Built for the modern man on the go, our utility belt is designed with functionality in mind. Featuring a sturdy buckle and reinforced stitching, it's perfect for outdoor enthusiasts, workers, or anyone who needs a belt that can keep up with their active lifestyle. Country of Origin : India More Information
+  Updated: 2025-10-10T09:58:14Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/qn9ka_512_6ba2172a-f01a-4df4-bdba-8f014529170b.webp?v=1760090289
+  Price: ₹0.00 INR
+- [Casual Modern Men Belts](https://donedeals.xyz/products/casual-modern-men-belts): Product Details Name : Casual Modern Men Belts Material : Metal Pattern : Solid Net Quantity (N) : 1 Sizes : 28 (Waist Size : 28 in) 30 (Waist Size : 30 in) 32 (Waist Size : 32 in) 34 (Waist Size : 34 in) 36 (Waist Size : 36 in) 38 (Waist Size : 38 in) 40 (Waist Size : 40 in) 42 (Waist Size : 42 in) This product is made from Canvas Nylon Material and finished in an attractive set of colors. Furthermore, it is recommended to be kept away from extreme heat, fire and corrosive liquids to avoid any form of damage. Length : 125 CM || Width : 3.5 CM Type: Casual, Formal, Partywear Belt Country of Origin : India More Information
+  Updated: 2025-10-10T10:02:42Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/zy5dz_512.webp?v=1760090304
+  Price: ₹185.00 INR
+- [New Trending men Stylish Artificial Leather Belt And Wallet Combo](https://donedeals.xyz/products/new-trending-men-stylish-artificial-leather-belt-and-wallet-combo): Product Details Name : New Trending men Stylish Artificial Leather Belt And Wallet Combo Material : Faux Leather/Leatherette Pattern : Textured Net Quantity (N) : 1 Sizes : Free Size (Waist Size : 40 in) Country of Origin : India More Information
+  Updated: 2025-10-10T10:02:43Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/llxzm_512.webp?v=1760090313
+  Price: ₹187.00 INR
+- [LENZO Artificial Leather Belt](https://donedeals.xyz/products/lenzo-artificial-leather-belt): Product Details Name : LENZO Artificial Leather Belt Material : Faux Leather/Leatherette Pattern : Solid Net Quantity (N) : 1 Sizes : 28 (Waist Size : 28 in) 30 (Waist Size : 30 in) 32 (Waist Size : 32 in) 34 (Waist Size : 34 in) 36 (Waist Size : 36 in) 38 (Waist Size : 38 in) The Belt is a lighthearted way to add interest to your day to day-dresses and denim. The very medium-slim design has a burnished self textured shade that gives it a unprecedented look itself , so wear the formal semi formal belts like this to the front and buckle to the back for a quirky-chic way to create the waist. width 1.5 inch and length 42inch Country of Origin : India More Information
+  Updated: 2025-10-10T10:02:43Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/xqsuq_512.webp?v=1760090323
+  Price: ₹147.00 INR
+- [LENZO Artificial Leather Belt for Men & Women](https://donedeals.xyz/products/lenzo-artificial-leather-belt-for-men-women): Product Details Name : LENZO Artificial Leather Belt for Men & Women Material : Faux Leather/Leatherette Pattern : Textured Net Quantity (N) : 1 Sizes : 28 (Waist Size : 28 in) 30 (Waist Size : 30 in) 32 (Waist Size : 32 in) 34 (Waist Size : 34 in) 36 (Waist Size : 36 in) 38 (Waist Size : 38 in) 40 (Waist Size : 40 in) The Belt is a lighthearted way to add interest to your day to day-dresses and denim. The very medium-slim design has a burnished self textured shade that gives it a unprecedented look itself , so wear the formal semi formal belts like this to the front and buckle to the back for a quirky-chic way to create the waist. width 1.5 inch and length 42inch Country of Origin : China More Information
+  Updated: 2025-10-10T10:02:44Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/pakhg_512.webp?v=1760090333
+  Price: ₹155.00 INR
+- [Combo Casual Belt](https://donedeals.xyz/products/combo-casual-belt): Product Details Name : Combo Casual Belt Material : Synthetic Pattern : Textured Net Quantity (N) : 2 Sizes : Free Size Black and Brown Combo Premium quality Belts for Mans. Closure Type : Adjustable Lock Buckle Color : Black and Brown Gender : Male Material : Synthetic Net Quantity (N) : 2 Occasion : Casual and Formals Type : Belt Premium Quality belts pack of 2, No holes Required in the belt. Size : 26 Waist to 40 waist Easy to fit because of Adjustable Buckle. Country of Origin : India More Information
+  Updated: 2025-10-10T10:02:44Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/e2mvt_512.webp?v=1760090341
+  Price: ₹179.00 INR
+- [LOOPA Men Casual, Evening, Formal, Party Black Genuine Leather Belt](https://donedeals.xyz/products/loopa-men-casual-evening-formal-party-black-genuine-leather-belt): Product Details Name : LOOPA Men Casual, Evening, Formal, Party Black Genuine Leather Belt Material : Leather Pattern : Textured Net Quantity (N) : 1 Sizes : 28 (Waist Size : 28 in) 30 (Waist Size : 30 in) 32 (Waist Size : 32 in) 34 (Waist Size : 34 in) 36 (Waist Size : 36 in) 38 (Waist Size : 38 in) 40 (Waist Size : 40 in) 42 (Waist Size : 42 in) 44 (Waist Size : 44 in) 46 (Waist Size : 46 in) 48 (Waist Size : 48 in) Classic Leather Belt Timeless and traditional, our classic Leather belt is a wardrobe staple. Made from high-quality leather, it features a simple and design that pairs perfectly with dress pants, jeans, or shorts.Utility Belt Built for the modern man on the go, our utility belt is designed with functionality in mind. Featuring a sturdy buckle and reinforced stitching, it's perfect for outdoor enthusiasts, workers, or anyone who needs a belt that can keep up with their active lifestyle. Country of Origin : India More Information
+  Updated: 2025-10-10T10:02:45Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/xwptw_512.webp?v=1760090350
+  Price: ₹273.00 INR
+- [Men's Synthetic Belt & Wallet Combo](https://donedeals.xyz/products/mens-synthetic-belt-wallet-combo): Product Details Name : Men's Synthetic Belt & Wallet Combo Material : Synthetic Pattern : Textured Net Quantity (N) : 3 Sizes : 28 (Waist Size : 28 in) 30 (Waist Size : 30 in) 32 (Waist Size : 32 in) 34 (Waist Size : 34 in) 36 (Waist Size : 36 in) 38 (Waist Size : 38 in) COMBO OF 2 BELT & WALLET Presenting the all new Belt collection for men wherein we provide Artificial Leather Belt and wallet combo also. We create value for money. So, We design a large collection of belts to suit everyone personality. Presenting to you a premium quality product with its classy appeal and smart design and the perfect combo of fashion and function. The handsome metal buckle brings out a charm in your outfit. This fine quality product and Genuine Artificial promises you best durability and light weight. Artificial Leather Belt and wallet combo, belt, Synthetic Belt, belts, Mens Belt, Formal Belt, Casual belt, Black belt, Brown belt, tan belt, belt & wallet, belt and wallet, belt and wallet combo, wallet. The house of WALLET Credit Card Holder cum Wallet SUPER SLEEK, STYLISH, AND STUDDY You get Classic High Quality Credit Card Holders with Artificial leather Construction that was Built to Last. You'll love the feel, the looks, and the durability.so will everyone else who sees it! PORTABLE slots which can hold your Credit Cards, Debit Cards, License Card, ID Cards, and other credit card size cards. Country of Origin : India More Information
+  Updated: 2025-10-10T10:02:45Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/wphcu_512.webp?v=1760090360
+  Price: ₹197.00 INR
+- [PACK OF 2 Men's PU Leather Black Autolock Grip Belt](https://donedeals.xyz/products/pack-of-2-mens-pu-leather-black-autolock-grip-belt): Product Details Name : PACK OF 2 Men's PU Leather Black Autolock Grip Belt Material : PU Pattern : Textured Net Quantity (N) : 2 Sizes : Free Size (Waist Size : 38 in) ADJUSTABLE 28 (Waist Size : 28 in) 30 (Waist Size : 30 in) 32 (Waist Size : 32 in) 34 (Waist Size : 34 in) 36 (Waist Size : 36 in) 38 (Waist Size : 38 in) 40 (Waist Size : 40 in) Designed in a versatile fashion this belt will keep you sorted for teaming your ensemble with finest accessory. The Autolock buckle and high quality canvas material makes for a perfect combination to make this a must have in your collection. Country of Origin : India More Information
+  Updated: 2025-10-10T10:02:45Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/wdl2m_512.webp?v=1760090367
+  Price: ₹215.00 INR
+- [Edifier Breathable Nylon Military Style Belt](https://donedeals.xyz/products/edifier-breathable-nylon-military-style-belt): Product Details Name : Edifier Breathable Nylon Military Style Belt Material : Canvas Pattern : Solid Net Quantity (N) : 2 Sizes : Free Size (Waist Size : 38 in) This is a free size belt & length is 120 CM including the buckle , fits upto waist 40 inches easily. Feature : Easy to Trim. Anti-tear,Scratch Resistant?Durable, Casual, Reliable, Decent, Fashion, Classic, High grade,48" (120cm) long belt,If the belt is too long for you, you can trim the strap length to fit your size . Thank you for being our valued customers. We are grateful for the pleasure of serving you . We wish you a beautiful Thanks and a joyous year's end. Kindly rate us to know about our product & Give your valuable feedback Warm wishes. Country of Origin : India More Information
+  Updated: 2025-10-10T10:02:46Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/skxjg_512.webp?v=1760090377
+  Price: ₹399.00 INR
+- [SUNSHOPPING Men's Brown & Tan Color Synthetic Belts and Wallet Combo](https://donedeals.xyz/products/sunshopping-mens-brown-tan-color-synthetic-belts-and-wallet-combo): Product Details Name : SUNSHOPPING Men's Brown & Tan Color Synthetic Belts and Wallet Combo Material : Synthetic Pattern : Textured Net Quantity (N) : 2 Sizes : 28 (Waist Size : 28 in) 30 (Waist Size : 30 in) 32 (Waist Size : 32 in) 34 (Waist Size : 34 in) 36 (Waist Size : 36 in) 38 (Waist Size : 38 in) 40 (Waist Size : 40 in) 42 (Waist Size : 42 in) 44 (Waist Size : 44 in) Elevate your style with this combo pack featuring a synthetic auto-lock buckle belt and wallet. Made from high-quality synthetic materials, the belt boasts a sleek auto-lock buckle design for a secure fit. Paired with a compact wallet, perfect for storing cards and cash. Durable, stylish, and practical, this combo is ideal for everyday use. Country of Origin : India More Information
+  Updated: 2025-10-10T10:02:46Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/iuwgm_512.webp?v=1760090388
+  Price: ₹223.00 INR
+- [KAEZRI genuine leather belt(Katabrcb.2)](https://donedeals.xyz/products/kaezri-genuine-leather-beltkatabrcb-2): Product Details Name : KAEZRI genuine leather belt(Katabrcb.2) Material : Leather Pattern : Textured Net Quantity (N) : 1 Sizes : 28 (Waist Size : 28 in) 30 (Waist Size : 30 in) 32 (Waist Size : 32 in) 34 (Waist Size : 34 in) 36 (Waist Size : 36 in) 38 (Waist Size : 38 in) 40 (Waist Size : 40 in) 42 (Waist Size : 42 in) 44 (Waist Size : 44 in) Kaezri genuine leather brown belt for men with heavy quality kata buckle with 2 years warranty (kata br cob) Country of Origin : India More Information
+  Updated: 2025-10-10T10:02:47Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/isjvb_512.webp?v=1760090398
+  Price: ₹316.00 INR
+- [New_Monogram](https://donedeals.xyz/products/new_monogram): Product Details Name : New_Monogram Material : Leather Pattern : Solid Net Quantity (N) : 1 Sizes : 28 (Waist Size : 28 in) 30 (Waist Size : 30 in) 32 (Waist Size : 32 in) 34 (Waist Size : 34 in) 36 (Waist Size : 36 in) 38 (Waist Size : 38 in) 40 (Waist Size : 40 in) 42 (Waist Size : 42 in) 44 (Waist Size : 44 in) Presenting the all new KAEZRI Belt collection for men wherein we provide 100% Genuine Leather Belt and 2 Year Money Back Guarantee. We create value for money. So, We design a large collection of belts to suit everyone personality. Presenting to a premium quality KAEZRI product with its classy appeal and smart design and the perfect combo of fashion and function. The handsome metal buckle brings out a charm in your outfit. This fine quality product and Genuine leather promises best durability and light weight. Country of Origin : India More Information
+  Updated: 2025-10-10T10:02:47Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/p10ph_512.webp?v=1760090407
+  Price: ₹317.00 INR
+- [Fashionable Latest Men Belts](https://donedeals.xyz/products/fashionable-latest-men-belts): Product Details Name : Fashionable Latest Men Belts Material : Canvas & Leather Pattern : Solid Net Quantity (N) : 2 Sizes : 28 (Waist Size : 28 in) 30 (Waist Size : 30 in) 32 (Waist Size : 32 in) 34 (Waist Size : 34 in) 36 (Waist Size : 36 in) 38 (Waist Size : 38 in) 40 (Waist Size : 40 in) 42 (Waist Size : 42 in) The Belt is a lighthearted way to add interest to your day-to-day dresses and denim. The very medium-slim design has a burnished self-textured shade that gives it an unprecedented look itself, so wear the formal semi-formal belts like this to the front and buckle to the back for a quirky-chic way to create the waist. Choose from smart black then head out for your morning coffee. This PU Belt acts as the perfect accessory to complete your look and make you stand out at an affordable price. Feature an elegant design, this belt is long-lasting, lightweight, and made of PU leather.SIZE FROM 28 TO 40 Country of Origin : India More Information
+  Updated: 2025-10-10T10:02:48Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/gf8v4_512.webp?v=1760090417
+  Price: ₹207.00 INR
+- [Men’s Black Belt With Black Wallet Combo Set](https://donedeals.xyz/products/men-s-black-belt-with-black-wallet-combo-set): Product Details Name : Men’s Black Belt With Black Wallet Combo Set Material : Faux Leather/Leatherette Pattern : Textured Net Quantity (N) : 1 Sizes : Free Size (Waist Size : 40 in) Men’s Black Belt With Black Wallet Combo Set Country of Origin : India More Information
+  Updated: 2025-10-10T10:02:48Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/n8enj_512.webp?v=1760090427
+  Price: ₹208.00 INR
+- [KASTNER Men’s Reversible Artificial Leather Belt – Black & Brown Dual Use with Rotating Buckle](https://donedeals.xyz/products/kastner-men-s-reversible-artificial-leather-belt-black-brown-dual-use-with-rotating-buckle): Product Details Name : KASTNER Men’s Reversible Artificial Leather Belt – Black & Brown Dual Use with Rotating Buckle Material : PU Pattern : Textured Net Quantity (N) : 1 Sizes : 24 (Waist Size : 24 in) 28 (Waist Size : 28 in) 30 (Waist Size : 30 in) 32 (Waist Size : 32 in) 34 (Waist Size : 34 in) 36 (Waist Size : 36 in) 38 (Waist Size : 38 in) 40 (Waist Size : 40 in) 42 (Waist Size : 42 in) 44 (Waist Size : 44 in) Free Size (Waist Size : 50 in) Upgrade your everyday style with this Men’s Artificial Leather Reversible Belt, designed for both fashion and functionality. Crafted from premium-quality synthetic leather, this belt offers a sleek look with long-lasting durability. Its reversible design allows you to switch between two classic colors—perfect for both formal and casual wear. The high-polish buckle adds a touch of elegance, making it a must-have accessory for every modern man. Country of Origin : India More Information
+  Updated: 2025-10-10T10:02:49Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/mek1t_512.webp?v=1760090437
+  Price: ₹278.00 INR
+- [Green Indian army Belt NCC Belt CRPF Belt Uniform Belt for Boys Belt for Men](https://donedeals.xyz/products/green-indian-army-belt-ncc-belt-crpf-belt-uniform-belt-for-boys-belt-for-men): Product Details Name : Green Indian army Belt NCC Belt CRPF Belt Uniform Belt for Boys Belt for Men Material : Canvas Pattern : Textured Net Quantity (N) : 1 Sizes : 24 (Waist Size : 10 in) 26 (Waist Size : 10 in) 28 (Waist Size : 10 in) 30 (Waist Size : 10 in) 32 (Waist Size : 10 in) 34 (Waist Size : 10 in) 36 (Waist Size : 10 in) Country of Origin : India More Information
+  Updated: 2025-10-10T10:02:50Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/ywoep_512.webp?v=1760090444
+  Price: ₹178.00 INR
+- [He_Cock_Bl_CB](https://donedeals.xyz/products/he_cock_bl_cb): Product Details Name : He_Cock_Bl_CB Material : Leather Pattern : Textured Net Quantity (N) : 1 Sizes : 28 (Waist Size : 28 in) 30 (Waist Size : 30 in) 32 (Waist Size : 32 in) 34 (Waist Size : 34 in) 36 (Waist Size : 36 in) 38 (Waist Size : 38 in) 40 (Waist Size : 40 in) 42 (Waist Size : 42 in) 44 (Waist Size : 44 in) Presenting the all new KAEZRI Belt collection for men wherein we provide 100% Genuine Leather Belt and 2 Year Money Back Guarantee. We create value for money. So, We design a large collection of belts to suit everyone personality. Presenting to a premium quality KAEZRI product with its classy appeal and smart design and the perfect combo of fashion and function. The handsome metal buckle brings out a charm in your outfit. This fine quality product and Genuine leather promises best durability and light weight. Country of Origin : India More Information
+  Updated: 2025-10-10T10:02:50Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/a15zg_512.webp?v=1760090455
+  Price: ₹336.00 INR
+- [Fashionable Modern Men Belts](https://donedeals.xyz/products/fashionable-modern-men-belts): Product Details Name : Fashionable Modern Men Belts Material : Faux Leather/Leatherette Pattern : Textured Net Quantity (N) : 2 Sizes : Free Size (Waist Size : 40 in) Country of Origin : India More Information
+  Updated: 2025-10-10T10:02:51Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/sbwpm_512.webp?v=1760090461
+  Price: ₹208.00 INR
+- [Casual studded belts designer party wear](https://donedeals.xyz/products/casual-studded-belts-designer-party-wear): Product Details Name : Casual studded belts designer party wear Material : Faux Leather/Leatherette Pattern : Textured Net Quantity (N) : 1 Sizes : 26, 28, 30, 32, 34, 36, 38, 40, Free Size Belt for mens. Studded Repeat Stone belt. Jeans and Casual wear Premium Quality Belt New Fashionable formal and Casual wear. Material : 100% Premium Quality Buckle : Mettel Pure Steel Size : 26 inch to 40 inches Origin : India Belt Creations is known for Good Quality products in less price. Country of Origin : India More Information
+  Updated: 2025-10-10T10:02:52Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/yuvxf_512.webp?v=1760090470
+  Price: ₹233.00 INR
 
 ## Collections
 
@@ -24004,8 +24258,8 @@
   Updated: 2025-10-08T09:12:11Z
   Total Products: 0
 - [all](https://donedeals.xyz/collections/all)
-  Updated: 2025-10-10T07:28:28Z
-  Total Products: 2191
+  Updated: 2025-10-10T11:51:54Z
+  Total Products: 2235
 - [men watch](https://donedeals.xyz/collections/men-watch)
   Updated: 2025-10-08T09:12:11Z
   Total Products: 89
@@ -24013,8 +24267,8 @@
   Updated: 2025-10-08T09:12:11Z
   Total Products: 111
 - [kitehen](https://donedeals.xyz/collections/kitehen)
-  Updated: 2025-10-08T09:12:11Z
-  Total Products: 100
+  Updated: 2025-10-10T12:15:39Z
+  Total Products: 97
 - [kids](https://donedeals.xyz/collections/kids)
   Updated: 2025-10-08T09:12:11Z
   Total Products: 77
@@ -24108,6 +24362,21 @@
 - [wining](https://donedeals.xyz/collections/wining)
   Updated: 2025-10-09T18:59:53Z
   Total Products: 8
+- [Kurta](https://donedeals.xyz/collections/kurta)
+  Updated: 2025-10-10T09:20:26Z
+  Total Products: 48
+- [Trouser pants](https://donedeals.xyz/collections/under-wear)
+  Updated: 2025-10-10T09:24:09Z
+  Total Products: 45
+- [Jeans](https://donedeals.xyz/collections/jeans-1)
+  Updated: 2025-10-10T09:24:48Z
+  Total Products: 44
+- [Under wear](https://donedeals.xyz/collections/trouser-pant)
+  Updated: 2025-10-10T09:21:23Z
+  Total Products: 50
+- [Belt](https://donedeals.xyz/collections/belt)
+  Updated: 2025-10-10T10:03:56Z
+  Total Products: 49
 
 ## Store Pages
 
