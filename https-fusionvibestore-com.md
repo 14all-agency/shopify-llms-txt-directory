@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-09-05T06:24:05Z
 - Contact Email: fusionvibestoreofficial@gmail.com
-- Updated At: 2025-10-09T20:00:29.723Z
+- Updated At: 2025-10-10T00:00:31.125Z
 
 ## Products
 
@@ -358,7 +358,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/3078165f-845c-47ab-962f-a76255f5ba70.jpg?v=1758013249
     Price: $25.36 USD
 - [3-Piece Cozy Pajama & Lounge Set | Matching Winter Loungewear](https://fusionvibestore.com/products/cozy-pajama-set-3-piece-lounge-set-cute-loungewear-warm-suit-sets-matching-set-lounge-set): Ultimate comfort! This adorable 3-piece pajama set is perfect for lounging or sleeping. Soft, warm, and stylish. Get your matching winter loungewear set today with fast delivery. Specification: Style: a pants suit Top style: vest Top sleeve length: long sleeve Pants style: wide-leg pants Length: trousers Craft: Collage/Stitching Fabric Name: cotton blended Main fabric composition: polyester fiber (polyester) The content of the main fabric ingredient: 30%-50% Main fabric composition 2: polyester fiber (polyester) The content of main fabric ingredient 2: 100% Lining composition: polyester fiber (polyester) Lining ingredient content: 100% Color: white, pink, camel Size: S, M, L, XL Package content: 1 x Set 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size is between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose a size, please contact our customer service. 3. As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images.
-  Updated: 2025-10-06T09:56:38Z
+  Updated: 2025-10-09T22:27:31Z
   Vendor: z60ja0-0n
   Product Type: BAGS
   Availability: Available
