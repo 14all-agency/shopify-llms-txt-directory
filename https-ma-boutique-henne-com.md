@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2018-01-12T21:20:39Z
 - Contact Email: contact@ma-boutique-henne.com
-- Updated At: 2025-10-10T04:00:35.527Z
+- Updated At: 2025-10-10T08:00:34.904Z
 
 ## Products
 
@@ -291,7 +291,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/maroc3.jpg?v=1605869326
   Price: 7,30 € EUR
 - [Henné Rouge du Yémen](https://ma-boutique-henne.com/products/henne-du-yemen-100gr): Ce henné est 100% naturel, du Yémen, biologique. coloration et soin des cheveux, couleur rousse, reflets cuivrés, auburn, bordeaux, rouge, cheveux brillants, volume, cuir chevelu sensible, boutique, cosmétique, coiffure, poudre plante, tazarine, algérie, henna, shikakai, ghassoul, rouge cerise, bio, vegan, sidr, katam
-  Updated: 2025-10-10T02:57:50Z
+  Updated: 2025-10-10T07:40:26Z
   Vendor: Ma Boutique Henné
   Product Type: Henné
   Availability: Available
@@ -473,7 +473,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/camomille-matricaire-sachet-50g.jpg?v=1524736429
   Price: 13,50 € EUR
 - [Henné Naturel du Rajasthan, Inde ECOCERT - Henna Red](https://ma-boutique-henne.com/products/henne-naturel-du-rajasthan-inde-100gr): 100% naturel, mayam, elementals, Henné naturel rajasthan Inde ,Centifolia, rajasthan, coloration cheveux roux, rousse, rouge, auburn, bordeaux, brillance, nuance, chevelure, boutique, doux brillants, bio, coloration naturelle, soin capillaire, couverture cheveux blancs, rouge cerise, reflets cuivrés, cheveux, algérie
-  Updated: 2025-10-04T21:22:50Z
+  Updated: 2025-10-10T07:40:26Z
   Vendor: Ma Boutique Henné
   Product Type: Henné
   Availability: Available
@@ -583,7 +583,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/HTB129lPtKuSBuNjSsziq6zq8pXaH.jpg?v=1530110576
   Price: 5,10 € EUR
 - [Pinces à cheveux "crocodile" noire](https://ma-boutique-henne.com/products/pinces-a-cheveux-crocodile-papillon-noire): pince crabe pour coiffures, faciliter l'application des soins capillaires et hennés, attacher ses cheveux sans les abîmer, plastique, bonnets et gants, appliquer vos colorations, ustensiles, bol, fouet, cuillère, barrette, élastique, crocodile, papillon, hair pin, pic cheveux, attacher, coiffer, chignon
-  Updated: 2025-07-24T12:10:02Z
+  Updated: 2025-10-10T05:06:25Z
   Vendor: Ma Boutique Henné
   Product Type: Accessoires
   Availability: Available
@@ -1053,7 +1053,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/179-large_default.jpg?v=1548845590
   Price: 6,00 € EUR
 - [Shampoing Bio Clarifiant préparateur à la coloration - Avatara, La Saponaria](https://ma-boutique-henne.com/products/shampoing-clarifiant-preparateur-a-la-coloration-avatara-la-saponaria): Henné blond doré, coloration végétale Devi, la saponaria, Hennetica,  fait maison pour des reflets blonds / dorés dans les cheveux. Mélange naturel de poudres de plantes, éclaircir naturellement, éclaircissement, camomille, rhapontic, rhubarbe, romarin, henné neutre, cuivré, verge d'or, brune, rousse, coloration plante
-  Updated: 2025-10-09T08:06:14Z
+  Updated: 2025-10-10T07:40:25Z
   Vendor: ma boutique henné
   Product Type: Shampoing
   Availability: Available
@@ -1341,7 +1341,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/files/shampoing-purifiant_2.jpg?v=1738839016
   Price: 10,00 € EUR
 - [Baume Après-Shampoing Démêlant - Framboise et Amande Douce - Centifolia](https://ma-boutique-henne.com/products/baume-apres-shampoing-framboise-et-amande-douce-centifolia): baume après shampoing framboise démelant Centifolia, 100% naturelle, bio, vegan, centifolia, hydrater cheveux, visage, corps, crème, recette, préparation, masque, soin capillaire, poudre, henné, ghassoul, avoine, shikakai, boutique henne, cosmetique, vegetal, nourrir, hydratation, cheveux secs, abimés
-  Updated: 2025-10-09T18:48:07Z
+  Updated: 2025-10-10T06:48:19Z
   Vendor: Ma Boutique Henné
   Product Type: Après-Shampoing
   Availability: Available
