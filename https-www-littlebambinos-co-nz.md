@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2014-08-05T01:45:52Z
 - Contact Email: info@littlebambinos.co.nz
-- Updated At: 2025-10-09T20:00:52.986Z
+- Updated At: 2025-10-10T00:00:49.951Z
 
 ## Products
 
@@ -9044,7 +9044,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $44.95 NZD
 - [TOSHI Flap Cap Baby - Periwinkle](https://www.littlebambinos.co.nz/products/toshi-flap-cap-baby-periwinkle): The Toshi Flap Cap Baby is our most popular baby sunhat. Shielding precious babies form the elements is the priority and our flap cap has a contoured neck flap. Rated UPF 50+, this Toshi Sunhat offers maximised sun protection. DETAILS: A head tie creates adjustable sizing and the chin tie secures the cap. The cap is fully lined for increased comfort. Made from the finest quality cotton knit, the baby sunhat is gentle to wear, functional and practical. Flap Cap Baby Periwinkle features a French navy stripe and is an ideal gender-neutral baby sunhat for fun in the sun. SIZING Size Head Circumference (cm) Age Guide XXS 37 Premmy - Newborn XS 43 Up to 8m S 52 8m - 2y M 54 2y - Small Grown Up L 56 Big Kid - Grown Up
-  Updated: 2025-10-07T07:25:21Z
+  Updated: 2025-10-09T20:01:13Z
   Vendor: Toshi
   Product Type: Hats
   Availability: Available
@@ -13223,7 +13223,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $89.00 NZD
 - [Clarity Mist](https://www.littlebambinos.co.nz/products/hayfeverspritzer): 100% Natural Reduce brain fogHayfever relief Enhance focus Naturally boost your brainpower & focus with our Clarity Mist. This versatile formulation draws on oils known to enhance cognitive performance, brain fog & memory retention, as well as ease symptoms of hayfever & respiratory problems. Spray & let rosemary, lemongrass & clove do their work. Not suggested for first trimester pregnancy. Previously named Hayfever and Sinus Remedy. How it works: Lemongrass, Peppermint - Instantly refreshing to the respiratory system making it easier to breathe. Lavender - A natural soothing allergy relief Clove and Rosemary - Amazing for the brain, memory retention and pain-relieving ability. How to use Use as a mist to inhale (close eyes & breathe in), as a body & aura spray, or a room spray & linen spray. Ingredients Purified Aqua, Rosmarinus Officinalis* (Rosemary), Cymbopogon Flexuosus* (Lemongrass), Lavandula Angustifolia* (Lavender), Mentha Avensis* (Peppermint) Syzgium Aromaticum* (Clove Bud), and Limnanthes Alba * (Meadow foam seed oil) *Organic
-  Updated: 2025-10-07T01:58:43Z
+  Updated: 2025-10-09T21:18:41Z
   Vendor: Oria Skin
   Product Type: Spritzer
   Availability: Available
@@ -13242,7 +13242,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/rejuvenating_face_oil.jpg?v=1743995362
   Price: $79.00 NZD
 - [Positivity Mist](https://www.littlebambinos.co.nz/products/positivity-mist): 100% Natural Uplift moodPromote confidenceIncrease optimism Bring lightness, energy & optimism into your day with our Positivity Mist. This light pick-me-up is formulated with organic essential oils known to promote confidence, clear thinking & positivity. Simply mist & enjoy the benefits of geranium, grapefruit, sweet orange & more. 200ml How to use Use as a body & aura spray or room & linen spray. Ingredients Purified aqua, Pelargonium Graveolens* (Geranium Essential Oil), Citrus Paradisii* (Grapefruit), (Sweet Orange), Cymbopogon Flexuosus* (Lemongrass), Citrus Aurantium (Neroli), Citrus Sinensis* Cymbopogon Winterianus jowitt* (Citronella), Limnanthes Alba (Meadow foam seed oil)
-  Updated: 2025-09-29T21:42:46Z
+  Updated: 2025-10-09T21:22:46Z
   Vendor: Oria Skin
   Product Type: Spritzer
   Availability: Available
@@ -14333,22 +14333,22 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   - [12-18m](https://www.littlebambinos.co.nz/products/quincy-mae-zip-one-piece-rashguard-sage?variant=41784429314142)
     Availability: Not Available
     Price: $60.00 NZD
-- [LITTLE LUXURY Plush Organic Playmat - Oat](https://www.littlebambinos.co.nz/products/little-luxury-plush-organic-playmat-oat): NOTE: This product is on pre-order and will start shipping from Friday the 27th. The Plush Organic Playmat delivers exceptional comfort and adaptability for your child’s playtime. Made from Certified Organic Linen, it offers a soft, breathable surface perfect for your little one’s activities. Thoughtfully designed, it easily converts into a playpen or ball pit, suitable from newborns to toddlers and beyond. Featuring a hypoallergenic linen cover that softens naturally, a plush recycled cotton filling, and a waterproof, non-slip base, it ensures safety and durability. With a generous 120cm diameter and machine washable fabric, it’s easy to care for. Includes an embroidered dust bag for convenient storage or travel. Designed in New Zealand with sustainable materials, it creates a cozy, nurturing space for your baby’s growth and exploration. Certified Organic Linen cover – Hypoallergenic and softens naturally with time 100% recycled cotton blend filling – Plush cushioning that nurtures your baby’s comfort Waterproof, non-slip dark green base – Durable and easy to clean for every adventure Drawstring design – Seamlessly transforms into a ball pit or playpen, adapting to your child’s needs 120cm diameter – more room to move, more room to grow Machine washable – Effortless care for modern parents Complimentary embroidered dust bag – Elegant storage or travel solution
-  Updated: 2025-08-24T07:53:06Z
+- [LITTLE LUXURY Signature Plush Organic Playmat - Oat](https://www.littlebambinos.co.nz/products/little-luxury-plush-organic-playmat-oat): NOTE: This product is on pre-order and will start shipping from Friday the 27th. The Plush Organic Playmat delivers exceptional comfort and adaptability for your child’s playtime. Made from Certified Organic Linen, it offers a soft, breathable surface perfect for your little one’s activities. Thoughtfully designed, it easily converts into a playpen or ball pit, suitable from newborns to toddlers and beyond. Featuring a hypoallergenic linen cover that softens naturally, a plush recycled cotton filling, and a waterproof, non-slip base, it ensures safety and durability. With a generous 120cm diameter and machine washable fabric, it’s easy to care for. Includes an embroidered dust bag for convenient storage or travel. Designed in New Zealand with sustainable materials, it creates a cozy, nurturing space for your baby’s growth and exploration. Certified Organic Linen cover – Hypoallergenic and softens naturally with time 100% recycled cotton blend filling – Plush cushioning that nurtures your baby’s comfort Waterproof, non-slip dark green base – Durable and easy to clean for every adventure Drawstring design – Seamlessly transforms into a ball pit or playpen, adapting to your child’s needs 120cm diameter – more room to move, more room to grow Machine washable – Effortless care for modern parents Complimentary embroidered dust bag – Elegant storage or travel solution
+  Updated: 2025-10-09T21:39:43Z
   Vendor: Little Luxury
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/LITTLE_LUXURY_PLUSH_ORGANIC_PLAYMAT_LUCKY_3_eeb95b43-7523-4b9b-bec2-5b07ed91c33d.webp?v=1749787946
   Price: $359.00 NZD
-- [LITTLE LUXURY Organic Playmat - Olive](https://www.littlebambinos.co.nz/products/little-luxury-organic-playmat-olive): From your living room to the park or beach, enjoy every adventure with grace and ease. The Signature Organic Playmat is designed to nurture your baby’s growth at every stage, combining timeless style with practical use. Its soft, breathable surface invites bonding and play, while the Certified Organic Linen cover offers a gentle, hypoallergenic feel. The deep green, waterproof, non-slip base keeps the mat firmly in place on any surface—wood, tile, grass, or sand—ensuring safety without shifting or bunching. Available in Olive, Melon, and Oat, it’s easy to care for, machine washable, and comes with a stylish embroidered dust bag for storage or travel. Crafted with sustainable materials, this playmat supports your child’s development and a mindful lifestyle. Certified Organic Linen cover – Breathable, hypoallergenic, and softens beautifully over time 100% organic cotton binding – Durable, non-toxic finish 100% recycled PPU cotton inner – Plush support for comfort and developmental play 100% recycled polyester waterproof base – Non-slip and stain-concealing for secure use indoors and out 120cm diameter – more room to move, more room to grow Machine washable – Easy care for modern living Complimentary embroidered dust bag – Elegant and practical for storage or travel
-  Updated: 2025-08-06T22:34:38Z
+- [LITTLE LUXURY Signature Organic Playmat - Olive](https://www.littlebambinos.co.nz/products/little-luxury-organic-playmat-olive): From your living room to the park or beach, enjoy every adventure with grace and ease. The Signature Organic Playmat is designed to nurture your baby’s growth at every stage, combining timeless style with practical use. Its soft, breathable surface invites bonding and play, while the Certified Organic Linen cover offers a gentle, hypoallergenic feel. The deep green, waterproof, non-slip base keeps the mat firmly in place on any surface—wood, tile, grass, or sand—ensuring safety without shifting or bunching. Available in Olive, Melon, and Oat, it’s easy to care for, machine washable, and comes with a stylish embroidered dust bag for storage or travel. Crafted with sustainable materials, this playmat supports your child’s development and a mindful lifestyle. Certified Organic Linen cover – Breathable, hypoallergenic, and softens beautifully over time 100% organic cotton binding – Durable, non-toxic finish 100% recycled PPU cotton inner – Plush support for comfort and developmental play 100% recycled polyester waterproof base – Non-slip and stain-concealing for secure use indoors and out 120cm diameter – more room to move, more room to grow Machine washable – Easy care for modern living Complimentary embroidered dust bag – Elegant and practical for storage or travel
+  Updated: 2025-10-09T21:39:28Z
   Vendor: Little Luxury
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/LITTLE_LUXURY_SIGNATURE_ORGANIC_PLAYMAT_OLIVE_LAURA_TEDDY.webp?v=1750205872
   Price: $199.00 NZD
-- [LITTLE LUXURY Organic Playmat - Oat](https://www.littlebambinos.co.nz/products/little-luxury-organic-playmat-oat): From your living room to the park or beach, enjoy every adventure with grace and ease. The Signature Organic Playmat is designed to nurture your baby’s growth at every stage, combining timeless style with practical use. Its soft, breathable surface invites bonding and play, while the Certified Organic Linen cover offers a gentle, hypoallergenic feel. The deep green, waterproof, non-slip base keeps the mat firmly in place on any surface—wood, tile, grass, or sand—ensuring safety without shifting or bunching. Available in Olive, Melon, and Oat, it’s easy to care for, machine washable, and comes with a stylish embroidered dust bag for storage or travel. Crafted with sustainable materials, this playmat supports your child’s development and a mindful lifestyle. Certified Organic Linen cover – Breathable, hypoallergenic, and softens beautifully over time 100% organic cotton binding – Durable, non-toxic finish 100% recycled PPU cotton inner – Plush support for comfort and developmental play 100% recycled polyester waterproof base – Non-slip and stain-concealing for secure use indoors and out 120cm diameter – more room to move, more room to grow Machine washable – Easy care for modern living Complimentary embroidered dust bag – Elegant and practical for storage or travel
-  Updated: 2025-10-05T23:33:29Z
+- [LITTLE LUXURY Signature Organic Playmat - Oat](https://www.littlebambinos.co.nz/products/little-luxury-organic-playmat-oat): From your living room to the park or beach, enjoy every adventure with grace and ease. The Signature Organic Playmat is designed to nurture your baby’s growth at every stage, combining timeless style with practical use. Its soft, breathable surface invites bonding and play, while the Certified Organic Linen cover offers a gentle, hypoallergenic feel. The deep green, waterproof, non-slip base keeps the mat firmly in place on any surface—wood, tile, grass, or sand—ensuring safety without shifting or bunching. Available in Olive, Melon, and Oat, it’s easy to care for, machine washable, and comes with a stylish embroidered dust bag for storage or travel. Crafted with sustainable materials, this playmat supports your child’s development and a mindful lifestyle. Certified Organic Linen cover – Breathable, hypoallergenic, and softens beautifully over time 100% organic cotton binding – Durable, non-toxic finish 100% recycled PPU cotton inner – Plush support for comfort and developmental play 100% recycled polyester waterproof base – Non-slip and stain-concealing for secure use indoors and out 120cm diameter – more room to move, more room to grow Machine washable – Easy care for modern living Complimentary embroidered dust bag – Elegant and practical for storage or travel
+  Updated: 2025-10-09T21:39:12Z
   Vendor: Little Luxury
   Product Type: 
   Availability: Available
@@ -15685,7 +15685,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Little-Bambinos-Connetix-Magnetic-Blocks-Toys-48-pieces-Bright-Portal-Pack-1_1000x1000_4411a74e-a294-418c-83b7-efde0148d533.webp?v=1754442773
   Price: $175.00 NZD
 - [LIL MOO Portable Bottle Warmer](https://www.littlebambinos.co.nz/products/portable-bottle-warmer-white): Never be caught out with a cold bottle again! Heat bottles wherever, whenever. Ultra-Compact & Lightweight – Unlike other bulky warmers, this sleek design takes up minimal space in your baby bag. Super lightweight and conveniently small. Cordless & Rechargeable – No power outlet? No problem. Easily charge via USB at home, in the car, or with a power bank. Fast, Even Heating – Heats water, breastmilk or formula quickly and evenly, with no hot spots. Safe for vital nutrients found in breastmilk & formula. Perfect Temperature Every Time – Built-in smart temperature control keeps milk at the ideal warmth. Choose from 37°c, 40°c, or 45°c. Compatible with Most Bottles – No need to buy special bottles, works with most major brands using our bottle adapters. BPA Free - Made from high-quality, BPA-free materials for safe, worry-free use. 1 Year Warranty - Purchase with confidence. These portable bottle warmers are compatible with some bottle brands without an adapter but you may need an adapter for some bottle brands- Check Here
-  Updated: 2025-10-09T19:22:42Z
+  Updated: 2025-10-09T22:22:47Z
   Vendor: lil moo
   Product Type: Bottle Warmers & Sterilizers
   Availability: Available
@@ -16800,7 +16800,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:26Z
   Total Products: 0
 - [Facebook Product Feed](https://www.littlebambinos.co.nz/collections/facebook-product-feed)
-  Updated: 2025-10-09T19:43:13Z
+  Updated: 2025-10-09T23:43:12Z
   Total Products: 419
 - [Sleepy Doe](https://www.littlebambinos.co.nz/collections/sleepy-doe): A British sleepwear brand specialising in small, organic sleep collections for women and children. Founder Sophie launched Sleepy Doe in 2016 and is a firm believer that often the simple things are the best things in life. She wanted to create a line of long-lasting sleepwear to sit comfortably in any home and to be loved by both adult and child. The collection is made with 100% Organic GOTS certified cotton and all products are proudly manufactured in the U.K supporting independent factories and businesses. // window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-172659890-2'); // ]]>
   Updated: 2025-08-06T22:46:42Z
@@ -17310,10 +17310,10 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-09-28T20:25:40Z
   Total Products: 139
 - [Ultimate Search Bestseller Collection - DO NOT DELETE](https://www.littlebambinos.co.nz/collections/ultimate-search-bestseller-collection-do-not-delete): Ultimate Search app uses this temporary collection to fetch best selling items.Please do not delete this collection.If you have removed the app, it is safe to remove this collection.
-  Updated: 2025-10-09T11:01:49Z
+  Updated: 2025-10-09T21:39:44Z
   Total Products: 5593
 - [Ultimate Search Bestseller Collection - DO NOT DELETE](https://www.littlebambinos.co.nz/collections/ultimate-search-bestseller-collection-do-not-delete-1): Ultimate Search app uses this temporary collection to fetch best selling items.Please do not delete this collection.If you have removed the app, it is safe to remove this collection.
-  Updated: 2025-10-09T11:01:49Z
+  Updated: 2025-10-09T21:39:44Z
   Total Products: 5593
 - [Teethers & Rattles](https://www.littlebambinos.co.nz/collections/teethers-rattles): Shop our collection of Teethers and Rattles
   Updated: 2025-09-11T11:02:10Z
@@ -17598,7 +17598,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-10-09T11:01:49Z
   Total Products: 23
 - [Playmats](https://www.littlebambinos.co.nz/collections/playmats)
-  Updated: 2025-10-06T11:02:10Z
+  Updated: 2025-10-09T21:39:44Z
   Total Products: 39
 - [Feeding Pillow](https://www.littlebambinos.co.nz/collections/feeding-pillow): Shop our collection of feeding pillows
   Updated: 2025-10-05T11:02:07Z
@@ -17637,7 +17637,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:48Z
   Total Products: 0
 - [All including sale items & Some non sale brands](https://www.littlebambinos.co.nz/collections/all-excluding-sale-items)
-  Updated: 2025-10-09T11:01:49Z
+  Updated: 2025-10-09T21:39:44Z
   Total Products: 5526
 - [Christmas Gifts](https://www.littlebambinos.co.nz/collections/christmas-gifts): Shop our Christmas gift collection
   Updated: 2025-10-09T11:01:49Z
@@ -17652,7 +17652,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-10-04T11:02:23Z
   Total Products: 10
 - [Labour Day Sale Collection 23](https://www.littlebambinos.co.nz/collections/labour-day-sale-22-excl-connetix-and-by-billie)
-  Updated: 2025-10-09T19:43:14Z
+  Updated: 2025-10-09T23:43:12Z
   Total Products: 1328
 - [Summer Edit](https://www.littlebambinos.co.nz/collections/summer-edit-1): Shop our Summer edit
   Updated: 2025-10-08T11:01:41Z
@@ -17661,7 +17661,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-09-18T11:02:56Z
   Total Products: 18
 - [SALE For launch](https://www.littlebambinos.co.nz/collections/all-products-for-bf-22)
-  Updated: 2025-10-09T11:01:49Z
+  Updated: 2025-10-09T21:39:44Z
   Total Products: 5572
 - [CYBER SALE PAGE](https://www.littlebambinos.co.nz/collections/cyber-sale-page): Shop our Cyber Monday Sale
   Updated: 2023-10-31T02:42:49Z
@@ -17682,7 +17682,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-09-24T11:01:50Z
   Total Products: 74
 - [New](https://www.littlebambinos.co.nz/collections/new): Shop our collection of New products
-  Updated: 2025-10-09T11:01:49Z
+  Updated: 2025-10-09T21:39:44Z
   Total Products: 1731
 - [Prem](https://www.littlebambinos.co.nz/collections/n-prem): Shop our collection of prem products
   Updated: 2025-10-09T11:01:49Z
@@ -17913,7 +17913,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-10-05T11:02:07Z
   Total Products: 12
 - [Baby Mats & Activity Rings](https://www.littlebambinos.co.nz/collections/baby-mats-activity-rings): Shop our collection of baby mats and activity rings
-  Updated: 2025-10-06T11:02:10Z
+  Updated: 2025-10-09T21:39:44Z
   Total Products: 54
 - [Milestones](https://www.littlebambinos.co.nz/collections/n-milestones): Shop our collection of milestones products
   Updated: 2025-10-04T11:02:23Z
@@ -18000,7 +18000,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-10-01T11:02:11Z
   Total Products: 165
 - [Baby Play](https://www.littlebambinos.co.nz/collections/n-baby-play): Shop our collection of baby play products
-  Updated: 2025-10-06T11:02:10Z
+  Updated: 2025-10-09T21:39:44Z
   Total Products: 223
 - [Baby Footwear](https://www.littlebambinos.co.nz/collections/n-baby-footwear): Shop our collection of baby footwear
   Updated: 2025-09-28T20:48:28Z
@@ -18036,7 +18036,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-10-09T11:01:49Z
   Total Products: 226
 - [Play](https://www.littlebambinos.co.nz/collections/n-play): Shop our collection of play products
-  Updated: 2025-10-09T11:01:49Z
+  Updated: 2025-10-09T21:39:44Z
   Total Products: 573
 - [Baby All Clothing](https://www.littlebambinos.co.nz/collections/n-baby-all-clothing-1): Shop our collection all things baby clothing
   Updated: 2025-10-09T11:01:49Z
@@ -18060,7 +18060,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:46:57Z
   Total Products: 7
 - [AFTERPAY SALE 24](https://www.littlebambinos.co.nz/collections/afterpay-sale): 20% off Afterpay sale* including items already on sale. Discount applies to marked price on any item on our AFTERPAY DAY page. Selected styles online and some exclusions apply. All sale purchases are final unless faulty, so please choose carefully. Use code: AFTERPAY20 at checkout.
-  Updated: 2025-10-09T11:01:49Z
+  Updated: 2025-10-09T21:39:44Z
   Total Products: 5539
 - [Best-Sellers](https://www.littlebambinos.co.nz/collections/best-sellers): Shop our collection of best sellers
   Updated: 2025-10-09T11:01:49Z
@@ -18204,7 +18204,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-10-07T11:02:30Z
   Total Products: 552
 - [Afterpay 24](https://www.littlebambinos.co.nz/collections/boxing-day-sale-ex-main)
-  Updated: 2025-10-09T11:01:49Z
+  Updated: 2025-10-09T21:39:44Z
   Total Products: 5541
 - [Back To School!](https://www.littlebambinos.co.nz/collections/back-to-school-1): Back to School is just around the corner! Shop our curated range of back-to-school favourites.
   Updated: 2025-09-18T11:02:56Z
@@ -18222,7 +18222,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-02-02T20:51:01Z
   Total Products: 17
 - [Welcome 10 Discount](https://www.littlebambinos.co.nz/collections/welcome-10-discount)
-  Updated: 2025-10-09T11:01:49Z
+  Updated: 2025-10-09T21:39:44Z
   Total Products: 2313
 - [Sunny Folk](https://www.littlebambinos.co.nz/collections/sunny-folk)
   Updated: 2025-09-14T11:02:26Z
@@ -18300,10 +18300,10 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-10-01T11:02:11Z
   Total Products: 13
 - [Klaviyo Popup Discount](https://www.littlebambinos.co.nz/collections/klaviyo-popup-discount)
-  Updated: 2025-10-09T11:01:49Z
+  Updated: 2025-10-09T21:39:44Z
   Total Products: 2383
 - [Smart Products Filter Index - Do not delete](https://www.littlebambinos.co.nz/collections/globofilter-best-selling-products-index)
-  Updated: 2025-10-09T11:01:49Z
+  Updated: 2025-10-09T21:39:44Z
   Total Products: 5593
 - [Oria Skin](https://www.littlebambinos.co.nz/collections/oria-skin): Oria Skin solves hormonal skin challenges using natural ingredients. Soothing, brightening, beautiful to use – it’s everything your skin has been asking for. Its hormonal support making it perfect for expecting, new or seasoned mothers.
   Updated: 2025-09-15T11:01:57Z
@@ -18354,7 +18354,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-09-26T11:02:02Z
   Total Products: 8
 - [Little Luxury](https://www.littlebambinos.co.nz/collections/little-luxury): Playmats as fun and functional as they are beautiful. Nurturing your family's transition from newborn to childhood and beyond, with understated elegance and purposeful design.
-  Updated: 2025-10-06T11:02:10Z
+  Updated: 2025-10-09T21:39:44Z
   Total Products: 4
 
 ## Blogs
