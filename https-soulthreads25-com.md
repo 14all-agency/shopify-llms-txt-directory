@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-07-21T23:17:39Z
 - Contact Email: dustin1986williamson@gmail.com
-- Updated At: 2025-10-09T16:00:32.978Z
+- Updated At: 2025-10-10T08:00:32.793Z
 
 ## Products
 
@@ -10129,7 +10129,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/20-RT-Aspect-3Q_26aae5bd-954b-4f06-9e35-3e9457341898.jpg?v=1759296971
     Price: $29.99 USD
 - [Realtree Excape HD Apple Watch Band - Soul threads](https://soulthreads25.com/products/realtree-excape-hd-apple-watch-band): Enhance your Apple Watch with the Realtree Excape HD Apple Watch Band. This stylish, durable band combines comfort and outdoor aesthetics for the perfect accessory.
-  Updated: 2025-10-08T23:07:29Z
+  Updated: 2025-10-09T18:51:35Z
   Vendor: Affinity Bands
   Product Type: Realtree HD Apple Band
   Availability: Available
@@ -10367,7 +10367,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/18-GayMen_6fcafea1-b7cf-41eb-9748-fe7180fdc19b.jpg?v=1759297159
     Price: $24.99 USD
 - [Pickleball iPhone 12 Mag-Safe Case for Ultimate Protection & Style](https://soulthreads25.com/products/pickleball-hd-apple-iphone-12-series-mag-safe-phone-case): Protect your iPhone 12 in style with our Pickleball iPhone 12 Mag-Safe case. Designed for ultimate durability and a unique pickleball aesthetic, this case is perfect for players!
-  Updated: 2025-10-08T13:38:05Z
+  Updated: 2025-10-09T18:52:44Z
   Vendor: Affinity Bands
   Product Type: Pickleball Apple iPhone 12 Case
   Availability: Available
@@ -10469,7 +10469,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/8-PickleballBlue-HDA_8f0fe22c-7542-41e7-932a-8d080321d719.jpg?v=1759297195
     Price: $29.99 USD
 - [Pickleball iPhone 13 Mag-Safe Case - HD Protection & Stylish Design](https://soulthreads25.com/products/pickleball-hd-apple-iphone-13-series-mag-safe-phone-case): Protect your iPhone 13 in style with our Pickleball iPhone 13 Mag-Safe Case. Enjoy HD protection and a sleek design that showcases your love for pickleball. Order yours today!
-  Updated: 2025-10-09T15:34:51Z
+  Updated: 2025-10-10T04:53:12Z
   Vendor: Affinity Bands
   Product Type: Pickleball Apple iPhone 13 Case
   Availability: Available
@@ -10571,7 +10571,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/8-PickleballBlue-HDA_634b800f-85ba-4316-a65b-00202f2f552b.jpg?v=1759297222
     Price: $29.99 USD
 - [Pickleball iPhone 16 Mag-Safe Case for Stylish Protection on the Go](https://soulthreads25.com/products/pickleball-hd-apple-iphone-16-mag-safe-phone-case): Protect your iPhone 16 in style with our Pickleball iPhone 16 Mag-Safe Case. Enjoy ultimate durability and a sleek design, perfect for pickleball lovers on the go!
-  Updated: 2025-10-09T02:22:58Z
+  Updated: 2025-10-10T04:52:57Z
   Vendor: Affinity Bands
   Product Type: Pickleball HD iPhone 16 Case
   Availability: Available
@@ -10585,7 +10585,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/ab0fe54b-40c3-4b80-9490-421edd871632.jpg?v=1759297228
     Price: $29.99 USD
   - [Love / iPhone 16 Plus](https://soulthreads25.com/products/pickleball-hd-apple-iphone-16-mag-safe-phone-case?variant=51409846141159)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/07f318b1-fee1-4d8c-826b-7daa434edbe9.jpg?v=1759297229
     Price: $29.99 USD
   - [Love / iPhone 16](https://soulthreads25.com/products/pickleball-hd-apple-iphone-16-mag-safe-phone-case?variant=51409846173927)
@@ -10601,7 +10601,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/edd3b6f2-a74b-4fd5-af01-9fb2457bf1b1.jpg?v=1759297232
     Price: $29.99 USD
   - [Pickleball / iPhone 16 Plus](https://soulthreads25.com/products/pickleball-hd-apple-iphone-16-mag-safe-phone-case?variant=51409846272231)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/fd90797e-3862-45a8-956e-ca79433a9b3f.jpg?v=1759297235
     Price: $29.99 USD
   - [Pickleball / iPhone 16](https://soulthreads25.com/products/pickleball-hd-apple-iphone-16-mag-safe-phone-case?variant=51409846304999)
@@ -10617,7 +10617,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/8fa62062-061d-4bd8-a372-364299817576.jpg?v=1759297239
     Price: $29.99 USD
   - [Flying Pickleball / iPhone 16 Plus](https://soulthreads25.com/products/pickleball-hd-apple-iphone-16-mag-safe-phone-case?variant=51409846403303)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/f5a5e643-ba43-4526-9456-e9dc150d8824.jpg?v=1759297240
     Price: $29.99 USD
   - [Flying Pickleball / iPhone 16](https://soulthreads25.com/products/pickleball-hd-apple-iphone-16-mag-safe-phone-case?variant=51409846436071)
@@ -10633,7 +10633,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/c3db9bfa-6925-4f08-990f-1eb8d11cbe28.jpg?v=1759297245
     Price: $29.99 USD
   - [Ball & Paddle / iPhone 16 Plus](https://soulthreads25.com/products/pickleball-hd-apple-iphone-16-mag-safe-phone-case?variant=51409846534375)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/e86bea18-4eb8-4ad7-95a2-db5a15406dc8.jpg?v=1759297247
     Price: $29.99 USD
   - [Ball & Paddle / iPhone 16](https://soulthreads25.com/products/pickleball-hd-apple-iphone-16-mag-safe-phone-case?variant=51409846567143)
@@ -10649,7 +10649,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/7314b300-6f6d-4b1a-b46d-a41ab120e0e9.jpg?v=1759297252
     Price: $29.99 USD
   - [Pickleball Red / iPhone 16 Plus](https://soulthreads25.com/products/pickleball-hd-apple-iphone-16-mag-safe-phone-case?variant=51409846665447)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/002536c5-ead0-400e-ac9b-4ad5d16a317d.jpg?v=1759297253
     Price: $29.99 USD
   - [Pickleball Red / iPhone 16](https://soulthreads25.com/products/pickleball-hd-apple-iphone-16-mag-safe-phone-case?variant=51409846698215)
@@ -10665,7 +10665,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/227617fb-a045-42fe-853b-4dc1c0ba38aa.jpg?v=1759297258
     Price: $29.99 USD
   - [Pickleball Green / iPhone 16 Plus](https://soulthreads25.com/products/pickleball-hd-apple-iphone-16-mag-safe-phone-case?variant=51409846796519)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/80805544-246b-4842-ae11-6f512a79c0de.jpg?v=1759297260
     Price: $29.99 USD
   - [Pickleball Green / iPhone 16](https://soulthreads25.com/products/pickleball-hd-apple-iphone-16-mag-safe-phone-case?variant=51409846829287)
@@ -10681,7 +10681,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/55e1a807-417a-4e01-bec9-0e65be526109.jpg?v=1759297264
     Price: $29.99 USD
   - [Pickleball Pink / iPhone 16 Plus](https://soulthreads25.com/products/pickleball-hd-apple-iphone-16-mag-safe-phone-case?variant=51409846927591)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/34eb6e1c-abb6-4f6b-aab2-f7e0ce1fbcd9.jpg?v=1759297268
     Price: $29.99 USD
   - [Pickleball Pink / iPhone 16](https://soulthreads25.com/products/pickleball-hd-apple-iphone-16-mag-safe-phone-case?variant=51409846960359)
@@ -10697,7 +10697,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/e6f05812-616e-4152-81aa-1ee27fa341c8.jpg?v=1759297272
     Price: $29.99 USD
   - [Pickleball Blue / iPhone 16 Plus](https://soulthreads25.com/products/pickleball-hd-apple-iphone-16-mag-safe-phone-case?variant=51409847058663)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/94111258-fd50-4845-bc3b-2ae936fd6318.jpg?v=1759297274
     Price: $29.99 USD
   - [Pickleball Blue / iPhone 16](https://soulthreads25.com/products/pickleball-hd-apple-iphone-16-mag-safe-phone-case?variant=51409847091431)
@@ -10705,7 +10705,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/57c9ebdf-6f5d-40c4-a5f9-ed75f6745a78.jpg?v=1759297276
     Price: $29.99 USD
 - [Realtree Edge HD Watch Band – Stylish and Durable for Apple Watch](https://soulthreads25.com/products/realtree-edge-hd-apple-watch-band): Meta Description: Upgrade your Apple Watch with the Realtree Edge HD Watch Band. This durable and stylish band offers a perfect blend of comfort and performance for adventurous lifestyles.
-  Updated: 2025-10-09T05:44:10Z
+  Updated: 2025-10-10T04:52:24Z
   Vendor: Affinity Bands
   Product Type: Realtree HD Apple Band
   Availability: Available
@@ -10855,7 +10855,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/9-Edge-Snow.jpg?v=1759297333
     Price: $29.99 USD
 - [Pride HD iPhone 16 Mag-Safe Case for Ultimate Protection & Style](https://soulthreads25.com/products/pride-hd-apple-iphone-16-mag-safe-phone-case): Protect your iPhone 16 in style with the Pride HD iPhone 16 Mag-Safe Case. Experience ultimate durability and a sleek design that enhances your device's look and feel.
-  Updated: 2025-10-09T02:23:01Z
+  Updated: 2025-10-10T04:53:01Z
   Vendor: Affinity Bands
   Product Type: Pride HD iPhone 16 Case
   Availability: Available
@@ -10869,7 +10869,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/8bb02209-cfef-42be-8521-7c161ed04552.jpg?v=1759297343
     Price: $29.99 USD
   - [Love / iPhone 16 Plus](https://soulthreads25.com/products/pride-hd-apple-iphone-16-mag-safe-phone-case?variant=51409849417959)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/a0df6169-2454-4b66-869c-0ea6343e24b0.jpg?v=1759297345
     Price: $29.99 USD
   - [Love / iPhone 16](https://soulthreads25.com/products/pride-hd-apple-iphone-16-mag-safe-phone-case?variant=51409849450727)
@@ -10885,7 +10885,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/f18bba70-d42c-43ad-a182-a76a9a95a111.jpg?v=1759297349
     Price: $29.99 USD
   - [Bisexual / iPhone 16 Plus](https://soulthreads25.com/products/pride-hd-apple-iphone-16-mag-safe-phone-case?variant=51409849549031)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/2da0b312-4c42-4ca1-ae53-e91fc14fb969.jpg?v=1759297350
     Price: $29.99 USD
   - [Bisexual / iPhone 16](https://soulthreads25.com/products/pride-hd-apple-iphone-16-mag-safe-phone-case?variant=51409849581799)
@@ -10901,7 +10901,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/574eb21a-372b-475e-9db4-f0a40eeb801e.jpg?v=1759297353
     Price: $29.99 USD
   - [Mermaid Rainbow / iPhone 16 Plus](https://soulthreads25.com/products/pride-hd-apple-iphone-16-mag-safe-phone-case?variant=51409849680103)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/10f80f61-4455-4472-abc7-6fa2b2dcf29a.jpg?v=1759297355
     Price: $29.99 USD
   - [Mermaid Rainbow / iPhone 16](https://soulthreads25.com/products/pride-hd-apple-iphone-16-mag-safe-phone-case?variant=51409849712871)
@@ -10917,7 +10917,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/74f50b59-5b1c-4fca-9fb2-28442b18c575.jpg?v=1759297359
     Price: $29.99 USD
   - [Gay Men / iPhone 16 Plus](https://soulthreads25.com/products/pride-hd-apple-iphone-16-mag-safe-phone-case?variant=51409849811175)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/0a1922da-5249-4e86-b906-59cf66e34063.jpg?v=1759297360
     Price: $29.99 USD
   - [Gay Men / iPhone 16](https://soulthreads25.com/products/pride-hd-apple-iphone-16-mag-safe-phone-case?variant=51409849843943)
@@ -10933,7 +10933,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/79fae0f4-d47a-49ed-9c21-590997a3c704.jpg?v=1759297365
     Price: $29.99 USD
   - [Pride / iPhone 16 Plus](https://soulthreads25.com/products/pride-hd-apple-iphone-16-mag-safe-phone-case?variant=51409849942247)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/45a56e46-97f9-4679-a69e-9690f01f3627.jpg?v=1759297367
     Price: $29.99 USD
   - [Pride / iPhone 16](https://soulthreads25.com/products/pride-hd-apple-iphone-16-mag-safe-phone-case?variant=51409849975015)
@@ -10949,7 +10949,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/b6610319-0bf2-4f1d-aef4-1d89ba4c845c.jpg?v=1759297374
     Price: $29.99 USD
   - [Rainbow / iPhone 16 Plus](https://soulthreads25.com/products/pride-hd-apple-iphone-16-mag-safe-phone-case?variant=51409850073319)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/ceb78ba0-49af-479a-a23a-93f70d431e0d.jpg?v=1759297376
     Price: $29.99 USD
   - [Rainbow / iPhone 16](https://soulthreads25.com/products/pride-hd-apple-iphone-16-mag-safe-phone-case?variant=51409850106087)
@@ -10965,7 +10965,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/1fa61f22-8923-432e-af07-779195a2766c.jpg?v=1759297379
     Price: $29.99 USD
   - [Lesbian / iPhone 16 Plus](https://soulthreads25.com/products/pride-hd-apple-iphone-16-mag-safe-phone-case?variant=51409850204391)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/4d376ca3-752c-4e78-ac80-cc9de41e8687.jpg?v=1759297381
     Price: $29.99 USD
   - [Lesbian / iPhone 16](https://soulthreads25.com/products/pride-hd-apple-iphone-16-mag-safe-phone-case?variant=51409850237159)
@@ -10981,7 +10981,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/0c8f1782-a8a6-4b6a-9c69-82b2fac87999.jpg?v=1759297385
     Price: $29.99 USD
   - [Non Binary / iPhone 16 Plus](https://soulthreads25.com/products/pride-hd-apple-iphone-16-mag-safe-phone-case?variant=51409850335463)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/0824af1d-b6c6-4ef7-b76d-2911f98dc1d2.jpg?v=1759297386
     Price: $29.99 USD
   - [Non Binary / iPhone 16](https://soulthreads25.com/products/pride-hd-apple-iphone-16-mag-safe-phone-case?variant=51409850368231)
@@ -10997,7 +10997,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/4f8a884f-e81a-4389-9500-036fe13f8fae.jpg?v=1759297391
     Price: $29.99 USD
   - [Pan Sexual / iPhone 16 Plus](https://soulthreads25.com/products/pride-hd-apple-iphone-16-mag-safe-phone-case?variant=51409850466535)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/a72dc8c0-0d76-4af6-895b-94e8084b68f5.jpg?v=1759297392
     Price: $29.99 USD
   - [Pan Sexual / iPhone 16](https://soulthreads25.com/products/pride-hd-apple-iphone-16-mag-safe-phone-case?variant=51409850499303)
@@ -11013,7 +11013,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/b5f6baff-84d4-4f45-81c5-46bcc6f7e9f7.jpg?v=1759297397
     Price: $29.99 USD
   - [Neon Love / iPhone 16 Plus](https://soulthreads25.com/products/pride-hd-apple-iphone-16-mag-safe-phone-case?variant=51409850597607)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/e2d9cbeb-3998-4489-b584-24fc26af0461.jpg?v=1759297399
     Price: $29.99 USD
   - [Neon Love / iPhone 16](https://soulthreads25.com/products/pride-hd-apple-iphone-16-mag-safe-phone-case?variant=51409850630375)
@@ -11021,7 +11021,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/6eb4d45d-bb14-4181-8fc4-7093b95d007a.jpg?v=1759297401
     Price: $29.99 USD
 - [Pickleball iPhone 14 Mag-Safe Case - Durable HD Protection for iPhone](https://soulthreads25.com/products/pickleball-hd-apple-iphone-14-series-mag-safe-phone-case): Enhance your iPhone 14 with our Pickleball iPhone 14 Mag-Safe Case. Enjoy HD protection and a perfect fit for your device while showcasing your love for pickleball!
-  Updated: 2025-10-09T15:34:58Z
+  Updated: 2025-10-10T04:53:13Z
   Vendor: Affinity Bands
   Product Type: Pickleball Apple iPhone 14 Case
   Availability: Available
