@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-02-06T23:04:14Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-10-10T08:00:40.749Z
+- Updated At: 2025-10-10T16:00:38.522Z
 
 ## Products
 
@@ -1271,7 +1271,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Dover Floral Digital Print Fabric - Tablecloth - Celadon exclusive at](https://thetableclothstore.com/products/dover-floral-digital-print-fabric-tablecloth-celadon-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Floral Digital Print Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-09-14T16:27:58Z
+  Updated: 2025-10-10T14:27:50Z
   Vendor: The Tablecloth Store
   Product Type: Dover Digital Print Fabric
   Availability: Available
@@ -1481,7 +1481,7 @@
     Availability: Available
     Price: $129.99 USD
 - [Dover Floral Digital Print Fabric - Tablecloth - Wedgewood exclusive](https://thetableclothstore.com/products/dover-floral-digital-print-fabric-tablecloth-wedgewood-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Floral Digital Print Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-09-14T16:27:58Z
+  Updated: 2025-10-10T14:27:50Z
   Vendor: The Tablecloth Store
   Product Type: Dover Digital Print Fabric
   Availability: Available
@@ -1691,7 +1691,7 @@
     Availability: Available
     Price: $129.99 USD
 - [Derby Floral Digital Print - Tablecloth - Wedgwood exclusive at The](https://thetableclothstore.com/products/derby-floral-digital-print-tablecloth-wedgwood-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Floral Digital Print Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-09-14T16:27:59Z
+  Updated: 2025-10-10T14:27:50Z
   Vendor: The Tablecloth Store
   Product Type: Derby Digital Print Fabric
   Availability: Available
@@ -1796,7 +1796,7 @@
     Availability: Available
     Price: $129.99 USD
 - [Derby Floral Digital Print - Tablecloth - Celadon exclusive at The](https://thetableclothstore.com/products/derby-floral-digital-print-tablecloth-celadon-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Floral Digital Print Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-09-14T16:27:59Z
+  Updated: 2025-10-10T14:27:51Z
   Vendor: The Tablecloth Store
   Product Type: Derby Digital Print Fabric
   Availability: Available
@@ -4104,7 +4104,7 @@
     Availability: Available
     Price: $165.99 USD
 - [Treasure Jacquard, Quilted Look - Tablecloth - Navy/Gold exclusive at](https://thetableclothstore.com/products/treasure-jacquard-quilted-look-tablecloth-navy-gold-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-09-14T16:28:05Z
+  Updated: 2025-10-10T14:27:50Z
   Vendor: The Tablecloth Store
   Product Type: Treasure Jacquard Fabric
   Availability: Available
@@ -7215,7 +7215,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Brocade Damask Velvet - Tablecloth - Ivory exclusive at The Tablecloth](https://thetableclothstore.com/products/brocade-damask-velvet-tablecloth-ivory-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Damask Velvet Width: 58" Fabric Content: 100% Polyester Description
-  Updated: 2025-09-14T16:28:14Z
+  Updated: 2025-10-10T14:27:50Z
   Vendor: The Tablecloth Store
   Product Type: Hobby Velvet Fabric
   Availability: Available
@@ -8961,7 +8961,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Huntsville Brocade Velvet - Tablecloth - Forest exclusive at The](https://thetableclothstore.com/products/huntsville-brocade-velvet-tablecloth-forest-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-09-14T16:28:20Z
+  Updated: 2025-10-10T14:27:51Z
   Vendor: The Tablecloth Store
   Product Type: Huntsville Velvet Fabric
   Availability: Available
@@ -10314,7 +10314,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Huntsville Brocade Velvet - Tablecloth - Seafoam exclusive at The](https://thetableclothstore.com/products/huntsville-brocade-velvet-tablecloth-seafoam-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-09-14T16:28:25Z
+  Updated: 2025-10-10T14:27:51Z
   Vendor: The Tablecloth Store
   Product Type: Huntsville Velvet Fabric
   Availability: Available
@@ -27004,7 +27004,7 @@
     Availability: Available
     Price: $166.99 USD
 - [Allium Jacquard - Tablecloth - Gold exclusive at The Tablecloth Store](https://thetableclothstore.com/products/allium-jacquard-tablecloth-gold-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-09-14T16:29:32Z
+  Updated: 2025-10-10T14:27:51Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -27214,7 +27214,7 @@
     Availability: Available
     Price: $165.99 USD
 - [Allium Jacquard - Tablecloth - Off White exclusive at The Tablecloth](https://thetableclothstore.com/products/allium-jacquard-tablecloth-off-white-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-09-14T16:29:32Z
+  Updated: 2025-10-10T14:27:50Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -30856,7 +30856,7 @@
     Availability: Available
     Price: $165.99 USD
 - [Cambridge Floral Jacquard - Tablecloth - Beige - The Tablecloth Store](https://thetableclothstore.com/products/cambridge-floral-jacquard-tablecloth-beige): Fabric: Jacquard Width: 55" Fabric Content: 100% Polyester Description - The Tablecloth Store
-  Updated: 2025-09-14T16:29:46Z
+  Updated: 2025-10-10T14:27:50Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -31072,7 +31072,7 @@
     Availability: Available
     Price: $200.99 USD
 - [Cambridge Floral Jacquard - Tablecloth - Crystal - The Tablecloth Store](https://thetableclothstore.com/products/cambridge-floral-jacquard-tablecloth-crystal): Fabric: Jacquard Width: 55" Fabric Content: 100% Polyester Description - The Tablecloth Store
-  Updated: 2025-09-14T16:29:46Z
+  Updated: 2025-10-10T14:27:50Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -31450,7 +31450,7 @@
     Availability: Available
     Price: $200.99 USD
 - [Cambridge Floral Jacquard - Tablecloth - White - The Tablecloth Store](https://thetableclothstore.com/products/cambridge-floral-jacquard-tablecloth-white): Fabric: Jacquard Width: 55" Fabric Content: 100% Polyester Description - The Tablecloth Store
-  Updated: 2025-09-14T16:29:48Z
+  Updated: 2025-10-10T14:27:51Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
