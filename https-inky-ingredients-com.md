@@ -9,7 +9,7 @@
 - Created At: 2023-11-20T15:32:25Z
 - Contact Email: hello@inky-ingredients.com
 - Address: Units 2, 3 & 5 Athelstan Business Park Hanwell Lane, Hutton Conyers Ripon, North Yorkshire HG4 5BF, UK
-- Updated At: 2025-10-10T00:00:33.788Z
+- Updated At: 2025-10-10T04:00:34.741Z
 
 The UK's largest natural ingredients supplier. INKY Ingredients supplies formulators and makers as well as the general public with the UK's widest range of essential oils, cold pressed oils, waxes, soaps, butters and more. We hold a 7 sustainability accreditations and are committed to providing an unparalleled selection of premium natural oil ingredients, fostering sustainability, and championing the sustainable beauty movement.
 
@@ -3260,7 +3260,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £19,426.80 GBP
 - [Macadamia Nut Oil, Cold Pressed Deodorised Organic](https://inky-ingredients.com/products/macadamia-nut-oil-cold-pressed-deodorised-organic): deodorised for a neutral scent, Cold Pressed deodorised Organic Macadamia Nut Oil maintains its organic integrity. Its nutrient-rich profile ensures skin and hair receive optimal hydration and care.
-  Updated: 2025-10-03T19:12:57Z
+  Updated: 2025-10-10T03:04:11Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
