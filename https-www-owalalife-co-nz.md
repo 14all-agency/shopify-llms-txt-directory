@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-10-13T01:12:45Z
 - Contact Email: info@owalalife.co.nz
-- Updated At: 2025-10-10T00:00:29.620Z
+- Updated At: 2025-10-10T04:00:29.919Z
 
 ## Products
 
@@ -173,13 +173,13 @@
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C07200-40-oz.CalmWatersTumbler-SC.jpg?v=1749440192
     Price: $79.99 NZD
 - [Owala Kid's Tumbler - Polypropylene | NZ](https://www.owalalife.co.nz/products/kids-tumbler-polypropylene): Parents, tired of mess? Our spill-resistant, BPA-free Owala plastic kids tumbler with straw keeps drinks contained. Easy to clean. Order now.
-  Updated: 2025-10-06T05:18:56Z
+  Updated: 2025-10-10T02:03:22Z
   Vendor: My Store
   Product Type: TUMBLER KIDS
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C06191-Kids15ozTumblerHomeBase-SC_50a193a0-9ec2-4aea-b43f-12f98ae8e502.jpg?v=1749439713
   - [HOME BASE / 444ML / 15oz](https://www.owalalife.co.nz/products/kids-tumbler-polypropylene?variant=46680139366557)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C06191-Kids15ozTumblerHomeBase-SC_50a193a0-9ec2-4aea-b43f-12f98ae8e502.jpg?v=1749439713
     Price: $24.99 NZD
   - [WATERMELON / 444ML / 15oz](https://www.owalalife.co.nz/products/kids-tumbler-polypropylene?variant=46680139432093)
@@ -191,7 +191,7 @@
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C07292-15-oz.TumblerSkatePark-SC.jpg?v=1749439853
     Price: $24.99 NZD
 - [Owala Kids FreeSip Waterbottle | NZ](https://www.owalalife.co.nz/products/kids-freesip): Owala Kids FreeSip waterbottle, fun, colourful and easy to use. Built-in straw, spill-resistant design and a perfect size for school or play. Available now.
-  Updated: 2025-10-09T19:14:30Z
+  Updated: 2025-10-10T03:38:56Z
   Vendor: My Store
   Product Type: FREESIP KIDS
   Availability: Available
@@ -236,7 +236,7 @@
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C07000-24ozSmelltheRosesTumbler-SC.png?v=1749439587
     Price: $59.99 NZD
 - [Owala Silicone Boot | NZ](https://www.owalalife.co.nz/products/silicone-boot): This silicone bottle boot cover acts like a phone case for your Owala Bottle - protecting it from damage and keeping it looking good as new.
-  Updated: 2025-10-09T19:23:11Z
+  Updated: 2025-10-10T02:14:52Z
   Vendor: My Store
   Product Type: SILICONE BOOT
   Availability: Available
@@ -384,7 +384,7 @@
     Image: https://cdn.shopify.com/s/files/1/0627/0671/2733/files/C06501_-_18oz_FreeSip_Twist_Sunny_Daze_Yellow_-_SC.png?v=1749429110
     Price: $54.99 NZD
 - [Owala FreeSip Water Bottle | NZ](https://www.owalalife.co.nz/products/freesip): Shop Owala FreeSip water bottles in NZ. Leak-proof, reusable, BPA-free plastic, with sip or swig 2 in 1 straw. Perfect for gym, work & everyday hydration.
-  Updated: 2025-10-09T22:10:41Z
+  Updated: 2025-10-10T03:31:11Z
   Vendor: My Store
   Product Type: FREESIP
   Availability: Available
