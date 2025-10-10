@@ -6,12 +6,12 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-07-26T03:23:12Z
 - Contact Email: donedeals.xyz@gmail.com
-- Updated At: 2025-10-10T04:00:51.138Z
+- Updated At: 2025-10-10T08:00:53.184Z
 
 ## Products
 
 - [LED PIR Motion Sensor Cabinet  With USB Rechargeble](https://donedeals.xyz/products/led-pir-motion-sensor-cabinet-with-usb-rechargeble): Product Name: LED PIR Motion Sensor Cabinet Light With USB Rechargeble Package Contains: 1 PieceColour Temperature- 2500 - 3000 K WarmCord Colour- WirelessNumber of light - 3 lightsFeatures- Battery Operated, Colour-Changing, Dimmable, Easy Installation, Energy Efficient, Energy Saving, Even Lighting, Low Voltage, PIR Motion Sensor, Portable, Rechargeable, Rust Resistant, Sensor, Smart Enabled, Spotlight, Stick-On, USB, Wall Mounted, Waterproof, Wireless, With LightLight Colour- Neutral White, Warm White, WhitePower Source - USBCombo: Pack of 1Weight: 400gramLBH - ? ?40L x 4W x 8.6H Centimeters
-  Updated: 2025-10-10T03:16:29Z
+  Updated: 2025-10-10T07:47:35Z
   Vendor: rakqr0-pn
   Product Type: 
   Availability: Available
@@ -23706,7 +23706,7 @@
   Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/pgklu_512.webp?v=1760033648
   Price: ₹285.00 INR
 - [NARUIA 6-Grid Rotating Food Dispenser - Stackable Cereal, Rice, and Grain Storage Container with Measuring Cup (White)](https://donedeals.xyz/products/naruia-6-grid-rotating-food-dispenser-stackable-cereal-rice-and-grain-storage-container-with-measuring-cup-white-2): Product Details Name : NARUIA 6-Grid Rotating Food Dispenser - Stackable Cereal, Rice, and Grain Storage Container with Measuring Cup (White) Material : Plastic Type : Button Press Features : Airtight Product Breadth : 25 Cm Product Height : 25 Cm Product Length : 26 Cm Net Quantity (N) : Pack Of 1 Keep your kitchen neat, organized, and stylish with the Rotating Rice and Grain Dispenser – a smart 6-Compartment Dry Food Dispenser designed to maximize space and keep your food fresh. This 360° rotating food storage container is perfect for storing rice, pulses, cereals, dal, wheat, and other dry grains. Its airtight food storage container design prevents moisture and pests, ensuring long-lasting freshness. The multi-compartment kitchen storage box allows you to easily separate different grains in one container, making it a must-have modular container for dal, rice, and wheat. With its transparent design, you can quickly check the contents without opening, while the smooth rotation feature helps you pick the grain you need effortlessly. This automatic grain dispenser kitchen tool is easy to use – just rotate, press, and dispense the right quantity directly into the drawer provided. Perfect for modern homes, this grain storage box with sections saves countertop space and fits neatly in corners. Upgrade your kitchen with this multi-grid dry food organizer that works as a kitchen storage box with drawer and a practical home kitchen storage container set. Whether you need a cereal dispenser or a dry food storage container, this all-in-one rotating dry food organizer for pulses and rice is the ideal choice for a clutter-free kitchen. Country of Origin : India More Information
-  Updated: 2025-10-09T18:35:41Z
+  Updated: 2025-10-10T06:35:45Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -23741,12 +23741,241 @@
   Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/ro1ne_512.webp?v=1760059575
   Price: ₹222.00 INR
 - [Premium Masala Dabba Set Of 1|Airtight Compact & Transparent Spice Organizer|Modular Plastic Spic|Food Grade Storage for Haldi, Jeera & Dhaniya|Stackable Spice Jars with Labels|BPA-Free & Leak-Proof Kitchen Solution|Set of 1|](https://donedeals.xyz/products/premium-masala-dabba-set-of-1-airtight-compact-transparent-spice-organizer-modular-plastic-spic-food-grade-storage-for-haldi-jeera-dhaniya-stackable-spice-jars-with-labels-bpa-free-leak-proof-kitchen-solution-set-of-1): "Product Details Name : Premium Masala Dabba Set Of 1|Airtight Compact & Transparent Spice Organizer|Modular Plastic Spic|Food Grade Storage for Haldi, Jeera & Dhaniya|Stackable Spice Jars with Labels|BPA-Free & Leak-Proof Kitchen Solution|Set of 1|Round & Square Containers|White & Black Colors 2100ml -1 Material : Plastic Type : Disposable Food Containers Features : Airtight Product Breadth : 10 Mm Product Height : 20 Mm Product Length : 10 Mm Net Quantity (N) : Pack Of 1 container,compartment storage container airtight container,container tight,container blue,container containers kitchen storage,container detachable,container fridge storage boxes,container jars container square,container kitchen,container kitchen storage,container kitchen storage set,container multicolor storage,container onion,container onion ginger,container plastic grocery container,container plastic storage,container set,container set bpa free,container set free spoons,container set vegetables,container square food container,container storage containers,containers,containers container kitchen storage,containers fish meat,containers fish meat vegetables,containers food,containers food kitchen organizer,containers freezer container,containers keeps fruits vegetables,containers kitchen organization food,containers kitchen storage ,containers kitchen storage container,containers lids airtight fridge,containers pack fridge organizer,containers piece,containers piece set bpa,containers plastic freezer,containers storage,containers storage space,containers storage space saving,divided fruit storage,door organizer,door organizer fridge kitchen,drain plate lid stackable,dryfruits spices,dryfruits spices groceries,fish meat fruits storage,fish meat vegetables fruits,food,food container,food containers freezer,food storage food torage ,food storage container,food stora masala, aamch Country of Origin : India More Information"
-  Updated: 2025-10-09T18:59:51Z
+  Updated: 2025-10-10T06:54:25Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/gme43_512_ea035625-954e-4b63-b7c8-e6f0d1bc5846.webp?v=1760036202
   Price: ₹272.00 INR
+- [Men Cotton Blend Jeans](https://donedeals.xyz/products/men-cotton-blend-jeans-1): Product Details Name : Men Cotton Blend Jeans Fabric : Denim Net Quantity (N) : 1 Sizes : 28 (Waist Size : 28 in, Length Size: 41 in) 30 (Waist Size : 30 in, Length Size: 41 in) 32 (Waist Size : 32 in, Length Size: 41 in) 34 (Waist Size : 34 in, Length Size: 41 in) 36 (Waist Size : 36 in, Length Size: 41 in) 38 (Waist Size : 38 in, Length Size: 41 in) 40 (Waist Size : 40 in, Length Size: 41 in) Men Cotton Blend Jeans Country of Origin : India More Information
+  Updated: 2025-10-10T06:58:18Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/4ybck_512.webp?v=1760079494
+  Price: ₹0.00 INR
+- [Men Cotton Blend Black jeans](https://donedeals.xyz/products/men-cotton-blend-black-jeans-1): Product Details Name : Men Cotton Blend Black jeans Fabric : Cotton Blend Pattern : Solid Net Quantity (N) : 1 BLACK JEANS FOR MENS Sizes : 28 (Waist Size : 29 in, Length Size: 39 in) 30 (Waist Size : 31 in, Length Size: 39 in) 32 (Waist Size : 33 in, Length Size: 39 in) Country of Origin : India More Information
+  Updated: 2025-10-10T06:59:32Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/cuku0_512_7a161029-20fa-4e56-a845-dd3e7105148d.webp?v=1760079567
+  Price: ₹0.00 INR
+- [MONK BLACK PLAIN JEANS](https://donedeals.xyz/products/monk-black-plain-jeans-1): Product Details Name : MONK BLACK PLAIN JEANS Fabric : Denim Pattern : Solid Net Quantity (N) : 1 MONK MEN JEANS is an amazing product launched by SHRIRADHE ENTERPRISES. It will fit you perfectly and will enhance your look at any occasion. Sizes : 26, 28 (Waist Size : 28 in, Length Size: 40 in) 30 (Waist Size : 30 in, Length Size: 40 in) 32 (Waist Size : 32 in, Length Size: 40 in) Country of Origin : India More Information
+  Updated: 2025-10-10T07:00:46Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/wzglg_512.webp?v=1760079633
+  Price: ₹0.00 INR
+- [Men Premium Trousers Pant](https://donedeals.xyz/products/men-premium-trousers-pant-1): Product Details Name : Men Premium Trousers Pant Fabric : Lycra Pattern : Solid Net Quantity (N) : 1 Name : Premium Partywear Mens Trousers Fabric : Lycra Fabric : Lycra Pattern : Solid Net Quan Pattern : Solid Net Quantity (N) : 1 Name : Men 2 way Trouser Fabric : Lycra Pattern : Solid Net Quantity (N) : 1 28 (Waist Size : 28 in, Length Size: 37 in, 30 (Waist Size : 30 in, Length Size: 38 in, 32 (Waist Size : 32 in, Length Size: 39 in, 34 (Waist Size : 34 in, Length Size: 40 in, Country of Origin : India Sizes : 28 (Waist Size : 28 in, Length Size: 37 in, Hip Size: 28 in) 30 (Waist Size : 30 in, Length Size: 38 in, Hip Size: 30 in) 32 (Waist Size : 32 in, Length Size: 39 in, Hip Size: 32 in) 34 (Waist Size : 34 in, Length Size: 40 in, Hip Size: 34 in) Country of Origin : India More Information
+  Updated: 2025-10-10T07:02:04Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/fa5ku_512.webp?v=1760079719
+  Price: ₹0.00 INR
+- [Men Trouser In plain and formal pattern on lowest price](https://donedeals.xyz/products/men-trouser-in-plain-and-formal-pattern-on-lowest-price-1): Product Details Name : Men Trouser In plain and formal pattern on lowest price Fabric : Polycotton Pattern : Solid Net Quantity (N) : 1 Sizes : 28 (Waist Size : 30 in, Length Size: 39 in, Hip Size: 28 in) 30 (Waist Size : 32 in, Length Size: 39 in, Hip Size: 30 in) 32 (Waist Size : 34 in, Length Size: 40 in, Hip Size: 32 in) 34 (Waist Size : 36 in, Length Size: 40 in, Hip Size: 34 in) 36 (Waist Size : 38 in, Length Size: 41 in, Hip Size: 36 in) Country of Origin : India More Information
+  Updated: 2025-10-10T07:02:58Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/flcpm_512.webp?v=1760079769
+  Price: ₹0.00 INR
+- [Best Cargo for men](https://donedeals.xyz/products/best-cargo-for-men): Product Details Name : Best Cargo for men Fabric : Cotton Blend Pattern : Solid Net Quantity (N) : 1 Best cargo of the year in Saturated world Sizes : 28 (Waist Size : 28 in, Length Size: 38 in, Hip Size: 42 in) 30 (Waist Size : 30 in, Length Size: 39 in, Hip Size: 45 in) 32 (Waist Size : 32 in, Length Size: 40 in, Hip Size: 46 in) 34 (Waist Size : 34 in, Length Size: 41 in, Hip Size: 50 in) Country of Origin : India More Information
+  Updated: 2025-10-10T07:04:42Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/rgjqk_512.webp?v=1760079877
+  Price: ₹0.00 INR
+- [Best Cargo for men](https://donedeals.xyz/products/best-cargo-for-men-1): Product Details Name : Best Cargo for men Fabric : Cotton Blend Pattern : Solid Net Quantity (N) : 1 Best cargo of the year in Saturated world Sizes : 28 (Waist Size : 28 in, Length Size: 38 in, Hip Size: 42 in) 30 (Waist Size : 30 in, Length Size: 39 in, Hip Size: 45 in) 32 (Waist Size : 32 in, Length Size: 40 in, Hip Size: 46 in) 34 (Waist Size : 34 in, Length Size: 41 in, Hip Size: 50 in) Country of Origin : India More Information
+  Updated: 2025-10-10T07:04:54Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/ewpwg_512.webp?v=1760079886
+  Price: ₹0.00 INR
+- [GYM VEST](https://donedeals.xyz/products/gym-vest-1): Product Details Name : GYM VEST Fabric : Polyester Sleeve Length : Sleeveless Pattern : Solid Net Quantity (N) : 1 Sizes : M, L, XL Country of Origin : India More Information
+  Updated: 2025-10-10T07:08:51Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/uxwsy_512.webp?v=1760080120
+  Price: ₹0.00 INR
+- [MENS ROUND NECK VEST](https://donedeals.xyz/products/mens-round-neck-vest-1): Product Details Name : MENS ROUND NECK VEST Fabric : Cotton Blend Sleeve Length : Sleeveless Pattern : Printed Net Quantity (N) : 3 Sizes : S, M, L, XL, 2XL Country of Origin : India More Information
+  Updated: 2025-10-10T07:09:51Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/ytyxq_512.webp?v=1760080186
+  Price: ₹0.00 INR
+- [MENS ROUND NECK VEST](https://donedeals.xyz/products/mens-round-neck-vest-2): Product Details Name : MENS ROUND NECK VEST Fabric : Cotton Blend Sleeve Length : Sleeveless Pattern : Printed Net Quantity (N) : 2 Sizes : S, M, L, XL, 2XL Country of Origin : India More Information
+  Updated: 2025-10-10T07:10:57Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/vav5z_512.webp?v=1760080252
+  Price: ₹0.00 INR
+- [Best Quality Super Fine Cotton Vest Pack of 6](https://donedeals.xyz/products/best-quality-super-fine-cotton-vest-pack-of-7): Product Details Name : Best Quality Super Fine Cotton Vest Pack of 6 Fabric : Cotton Blend Sleeve Length : Sleeveless Pattern : Solid Net Quantity (N) : 6 100% GENIUNE COTTON PRODUCT FROM URBAN TEXTILE HELPS YOU TO KEEP AWAY FROM ANY TYPE OF ITCHING OR IRRITATION WHICH CAN BE CAUSED FROM FABRIC Sizes : 70cm, 75cm, 80cm, 85cm, 90cm, XXS, XS, S, M, L Country of Origin : India More Information
+  Updated: 2025-10-10T07:11:05Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/lnx7m_512.webp?v=1760080260
+  Price: ₹0.00 INR
+- [MENS VEST COMBO (Pack of 3)](https://donedeals.xyz/products/mens-vest-combo-pack-of-3): Product Details Name : MENS VEST COMBO (Pack of 3) Fabric : Nylon Net Quantity (N) : 3 Looking for cool and trendy Sando or a sleeveless tee, here is your search ends with this bold designed Sport gym t shirt for mens sando. Show up your bold attitue with this Sleeveless Printed Workout t shirt. This is made up of Premium quality fabric keeping in mind about comfortable and latest trend. This can be wear while resting at home or in all casual requirements or sports activities like gyming, running, yoga, basket ball, badminton, cycling, cricket, fitness activities and many more. @ Low price range mens sando Sizes : M, L Country of Origin : India More Information
+  Updated: 2025-10-10T07:11:30Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/2vnxd_512.webp?v=1760080285
+  Price: ₹0.00 INR
+- [MENS VEST COMBO (Pack of 3)](https://donedeals.xyz/products/mens-vest-combo-pack-of-4): Product Details Name : MENS VEST COMBO (Pack of 3) Fabric : Nylon Net Quantity (N) : 3 Looking for cool and trendy Sando or a sleeveless tee, here is your search ends with this bold designed Sport gym t shirt for mens sando. Show up your bold attitue with this Sleeveless Printed Workout t shirt. This is made up of Premium quality fabric keeping in mind about comfortable and latest trend. This can be wear while resting at home or in all casual requirements or sports activities like gyming, running, yoga, basket ball, badminton, cycling, cricket, fitness activities and many more. @ Low price range mens sando Sizes : M, L Country of Origin : India More Information
+  Updated: 2025-10-10T07:11:37Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/2vnxd_512_547ec6dc-30fd-4ba7-b559-ae0473cce537.webp?v=1760080291
+  Price: ₹0.00 INR
+- [Vest for Mens, Printed Vest,Sando,Gym V est, Gym Sando](https://donedeals.xyz/products/vest-for-mens-printed-vest-sando-gym-v-est-gym-sando-1): Product Details Name : Vest for Mens, Printed Vest,Sando,Gym V est, Gym Sando Fabric : Polyester Sleeve Length : Sleeveless Pattern : Printed Net Quantity (N) : 4 A gym vest for men is a sleeveless athletic top designed for workout and fitness activities. It is typically made from breathable, moisture-wicking fabrics such as cotton, polyester, or spandex, ensuring com fort and flexibility during intense exercise. These vests are often form-fitting to allow a full range of motion while highlighting the physique, making them popular in strength training and bodybuilding settings. Sizes : M (Chest Size : 38 in, Length Size: 27 in, Shoulder Size: 15 in) L (Chest Size : 40 in, Length Size: 28 in, Shoulder Size: 16 in) XL (Chest Size : 42 in, Length Size: 28 in, Shoulder Size: 17 in) XXL (Chest Size : 44 in, Length Size: 30 in, Shoulder Size: 17 in) Country of Origin : India More Information
+  Updated: 2025-10-10T07:12:09Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/uop5x_512.webp?v=1760080322
+  Price: ₹0.00 INR
+- [Active vest combo of grey and black | Men black and grey sando | Trending and viral printed gym vest](https://donedeals.xyz/products/active-vest-combo-of-grey-and-black-men-black-and-grey-sando-trending-and-viral-printed-gym-vest-1): Product Details Name : Active vest combo of grey and black | Men black and grey sando | Trending and viral printed gym vest Fabric : Polyester Sleeve Length : Sleeveless Pattern : Printed Net Quantity (N) : 2 Sizes : M, L, XL Country of Origin : India More Information
+  Updated: 2025-10-10T07:12:25Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/e825n_512_de791ba6-a010-469a-b99e-6c0882825cd2.webp?v=1760080340
+  Price: ₹0.00 INR
+- [MENS ROUND NECK VEST](https://donedeals.xyz/products/mens-round-neck-vest-3): Product Details Name : MENS ROUND NECK VEST Fabric : Cotton Blend Sleeve Length : Sleeveless Pattern : Printed Net Quantity (N) : 2 Sizes : S, M, L, XL Country of Origin : India More Information
+  Updated: 2025-10-10T07:12:37Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/lgp3w_512_63fe3fba-f34d-4959-9561-e368c05603a9.webp?v=1760080347
+  Price: ₹0.00 INR
+- [GYM VEST](https://donedeals.xyz/products/gym-vest-2): Product Details Name : GYM VEST Fabric : Polyester Sleeve Length : Sleeveless Pattern : Self-Design Net Quantity (N) : 1 This Vest is made from 100% DRIFT Premium Fabric. This Vest is perfect for morning jogs or gym workouts.Easily Fit for a Wide Range of Motion, Perfect for Gym, Physical Fitness, Weight-Training, and Workout, Bodybuilding, Running, Morning walkBasketball and other outdoor activities. The Deep Cutting Allows Your Arms to Move More Easily.Soft to skin, breathable and comfortable to wear. Y back, side cut and hem bottom designed for gym bodybuilder, muscle fit & fashionable look. Unique shape an extra comfort. Sizes : M, L, XL Country of Origin : India More Information
+  Updated: 2025-10-10T07:12:39Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/3ca3w_512_b20994f6-70eb-4b79-971a-2a285ee2c444.webp?v=1760080352
+  Price: ₹0.00 INR
+- [Dollar Pack of 2 All Over Print Stylish Men Bermuda With One Side Zipper](https://donedeals.xyz/products/dollar-pack-of-2-all-over-print-stylish-men-bermuda-with-one-side-zipper-1): Product Details Name : Dollar Pack of 2 All Over Print Stylish Men Bermuda With One Side Zipper Fabric : Cotton Blend Pattern : Printed Net Quantity (N) : 2 Made from premium cotton rich fabric.Contrast piping, One side zipper pocket with embossed branding. Self waistband with drawcord wide array of attractive colours. Sizes : 34 (Waist Size : 34 in, Length Size: 30 in) 36 (Waist Size : 36 in, Length Size: 31 in) 38 (Waist Size : 38 in, Length Size: 32 in) 30 (Waist Size : 30 in, Length Size: 28 in) 32 (Waist Size : 32 in, Length Size: 29 in) Country of Origin : India More Information
+  Updated: 2025-10-10T07:13:27Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/ysobn_512.webp?v=1760080400
+  Price: ₹0.00 INR
+- [MEN UNDERWEAR](https://donedeals.xyz/products/men-underwear-1): Product Details Name : MEN UNDERWEAR Fabric : Nylon Color : Multicolor Occasion : Casual Pattern : Printed Net Quantity (N) : 3 Sizes : S, M, XL Country of Origin : India More Information
+  Updated: 2025-10-10T07:15:29Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/ajss2_512.webp?v=1760080524
+  Price: ₹0.00 INR
+- [Men CROSSED Work Kurta Best Quality At Lowest Price Set](https://donedeals.xyz/products/men-crossed-work-kurta-best-quality-at-lowest-price-set-1): Product Details Name : Men CROSSED Work Kurta Best Quality At Lowest Price Set Fabric : Cotton Sleeve Length : Long Sleeves Pattern : Printed Combo of : Single Sizes : M (Chest Size : 40 in, Length Size: 38 in, Waist Size: 38 in, Hip Size: 42 in) L (Chest Size : 42 in, Length Size: 40 in, Waist Size: 39 in, Hip Size: 44 in) XL (Chest Size : 44 in, Length Size: 40 in, Waist Size: 40 in, Hip Size: 46 in) XXL (Chest Size : 46 in, Length Size: 41 in, Waist Size: 41 in, Hip Size: 48 in) Care Instructions : Hand Wash Only Fit Type: Relaxed HIGH QUALITY MATERIAL: Made from the cotton blend fabric. Lightweight and breathable material gives this kurta pajama set soft, comfortable feel. BEAUTIFUL HANDLOOM KURTA : This is a 2-pieces set that includes long button down shirt or kurta and a drawstring . Traditional design on this kurta captures all of the details of the classic Indian men's garment with long sleeves, COMFORTABLE FIT: Sizing is designed for a regular relaxed fit. Collar: Mandarin, Sleeves: Full, Length: Knee length Kurta, Occasion: Casual, Party, Festival and Special Occasions, Package content: Kurta for Diwali Fancy Kurta Having Vibrant Color and Attractive design. Country of Origin : India More Information
+  Updated: 2025-10-10T07:16:50Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/ltjvj_512.webp?v=1760080606
+  Price: ₹0.00 INR
+- [PRINTED KURTA PAJAMA FOR MEN](https://donedeals.xyz/products/printed-kurta-pajama-for-men-1): Product Details Name : PRINTED KURTA PAJAMA FOR MEN Top Fabric : Cotton Bottom Fabric : Cotton Scarf Fabric : No Scarf Sleeve Length : Long Sleeves Bottom Type : Straight Pajama Stitch Type : Stitched Pattern : Printed Sizes : M (Chest Size : 42 in, Top Length Size: 39 in, Top Waist Size: 40 in, Top Hip Size: 38 in, Bottom Waist Size: 32 in, Bottom Hip Size: 38 in, Bottom Length Size: 41 in, Scarf Length Size: 1.5 in) L (Chest Size : 44 in, Top Length Size: 39 in, Top Waist Size: 42 in, Top Hip Size: 40 in, Bottom Waist Size: 34 in, Bottom Hip Size: 40 in, Bottom Length Size: 41 in, Scarf Length Size: 1.5 in) XL (Chest Size : 45 in, Top Length Size: 40 in, Top Waist Size: 44 in, Top Hip Size: 42 in, Bottom Waist Size: 36 in, Bottom Hip Size: 42 in, Bottom Length Size: 42 in, Scarf Length Size: 1.5 in) XXL (Chest Size : 46 m, Top Length Size: 40 m, Top Waist Size: 46 m, Top Hip Size: 44 m, Bottom Waist Size: 38 m, Bottom Hip Size: 44 m, Bottom Length Size: 42 m, Scarf Length Size: 1.5 m) Very stylish kurta Set for daily and party wear purpose for boys and men with reasonable price. Country of Origin : India More Information
+  Updated: 2025-10-10T07:17:33Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/rfoch_512.webp?v=1760080648
+  Price: ₹0.00 INR
+- [MEN EMBROIDERY COTTON KURTA SET](https://donedeals.xyz/products/men-embroidery-cotton-kurta-set-1): Product Details Name : MEN EMBROIDERY COTTON KURTA SET Top Fabric : Cotton Bottom Fabric : Cotton Scarf Fabric : No Scarf Sleeve Length : Long Sleeves Bottom Type : Straight Pajama Stitch Type : Stitched Pattern : Embroidered Sizes : M (Chest Size : 38 in, Top Length Size: 38 in, Top Waist Size: 38 in, Top Hip Size: 38 in, Bottom Waist Size: 38 in, Bottom Hip Size: 38 in, Bottom Length Size: 38 in, Scarf Length Size: 1.5 in) L (Chest Size : 40 m, Top Length Size: 40 m, Top Waist Size: 40 m, Top Hip Size: 40 m, Bottom Waist Size: 40 m, Bottom Hip Size: 40 m, Bottom Length Size: 40 m, Scarf Length Size: 1.5 m) XL (Chest Size : 42 in, Top Length Size: 42 in, Top Waist Size: 42 in, Top Hip Size: 42 in, Bottom Waist Size: 42 in, Bottom Hip Size: 42 in, Bottom Length Size: 42 in, Scarf Length Size: 1.5 in) XXL (Chest Size : 44 m, Top Length Size: 44 m, Top Waist Size: 44 m, Top Hip Size: 44 m, Bottom Waist Size: 44 m, Bottom Hip Size: 44 m, Bottom Length Size: 44 m, Scarf Length Size: 1.5 m) MEN EMBROIDERED COTTON KURTA Country of Origin : India More Information
+  Updated: 2025-10-10T07:19:15Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/6znr9_512.webp?v=1760080750
+  Price: ₹0.00 INR
+- [Elegant Men Kurtas](https://donedeals.xyz/products/elegant-men-kurtas-1): Product Details Name : Elegant Men Kurtas Fabric : Rayon Sleeve Length : Long Sleeves Pattern : Embellished Combo of : Single Sizes : M (Chest Size : 38 in, Length Size: 39 in, Waist Size: 38 in) L (Chest Size : 40 in, Length Size: 40 in, Waist Size: 40 in) XL (Chest Size : 42 in, Length Size: 41 in, Waist Size: 42 in) XXL (Chest Size : 44 in, Length Size: 42 in, Waist Size: 44 in) Country of Origin : India More Information
+  Updated: 2025-10-10T07:20:32Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/86pyz_512.webp?v=1760080826
+  Price: ₹0.00 INR
+- [Men CROSSED Work Kurta Best Quality At Lowest Price Set (2)](https://donedeals.xyz/products/men-crossed-work-kurta-best-quality-at-lowest-price-set-2)
+  Updated: 2025-10-10T07:27:35Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  - [S](https://donedeals.xyz/products/men-crossed-work-kurta-best-quality-at-lowest-price-set-2?variant=43675781726259)
+    Availability: Available
+    Price: ₹531.00 INR
+  - [M](https://donedeals.xyz/products/men-crossed-work-kurta-best-quality-at-lowest-price-set-2?variant=43675781759027)
+    Availability: Available
+    Price: ₹531.00 INR
+  - [L](https://donedeals.xyz/products/men-crossed-work-kurta-best-quality-at-lowest-price-set-2?variant=43675781791795)
+    Availability: Available
+    Price: ₹531.00 INR
+  - [XL](https://donedeals.xyz/products/men-crossed-work-kurta-best-quality-at-lowest-price-set-2?variant=43675781824563)
+    Availability: Available
+    Price: ₹531.00 INR
+- [PRINTED KURTA PAJAMA FOR MEN (2)](https://donedeals.xyz/products/printed-kurta-pajama-for-men-2)
+  Updated: 2025-10-10T07:27:38Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  - [S](https://donedeals.xyz/products/printed-kurta-pajama-for-men-2?variant=43675782381619)
+    Availability: Available
+    Price: ₹379.00 INR
+  - [M](https://donedeals.xyz/products/printed-kurta-pajama-for-men-2?variant=43675782414387)
+    Availability: Available
+    Price: ₹379.00 INR
+  - [L](https://donedeals.xyz/products/printed-kurta-pajama-for-men-2?variant=43675782447155)
+    Availability: Available
+    Price: ₹379.00 INR
+  - [XL](https://donedeals.xyz/products/printed-kurta-pajama-for-men-2?variant=43675782479923)
+    Availability: Available
+    Price: ₹379.00 INR
+- [MEN EMBROIDERY COTTON KURTA SET (2)](https://donedeals.xyz/products/men-embroidery-cotton-kurta-set-2)
+  Updated: 2025-10-10T07:27:48Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  - [S](https://donedeals.xyz/products/men-embroidery-cotton-kurta-set-2?variant=43675784216627)
+    Availability: Available
+    Price: ₹334.00 INR
+  - [M](https://donedeals.xyz/products/men-embroidery-cotton-kurta-set-2?variant=43675784249395)
+    Availability: Available
+    Price: ₹334.00 INR
+  - [L](https://donedeals.xyz/products/men-embroidery-cotton-kurta-set-2?variant=43675784282163)
+    Availability: Available
+    Price: ₹334.00 INR
+  - [XL](https://donedeals.xyz/products/men-embroidery-cotton-kurta-set-2?variant=43675784314931)
+    Availability: Available
+    Price: ₹334.00 INR
+- [Elegant Men Kurtas (2)](https://donedeals.xyz/products/elegant-men-kurtas-2)
+  Updated: 2025-10-10T07:27:57Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  - [S](https://donedeals.xyz/products/elegant-men-kurtas-2?variant=43675785527347)
+    Availability: Available
+    Price: ₹588.00 INR
+  - [M](https://donedeals.xyz/products/elegant-men-kurtas-2?variant=43675785560115)
+    Availability: Available
+    Price: ₹588.00 INR
+  - [L](https://donedeals.xyz/products/elegant-men-kurtas-2?variant=43675785592883)
+    Availability: Available
+    Price: ₹588.00 INR
+  - [XL](https://donedeals.xyz/products/elegant-men-kurtas-2?variant=43675785625651)
+    Availability: Available
+    Price: ₹588.00 INR
 
 ## Collections
 
@@ -23775,8 +24004,8 @@
   Updated: 2025-10-08T09:12:11Z
   Total Products: 0
 - [all](https://donedeals.xyz/collections/all)
-  Updated: 2025-10-09T18:59:53Z
-  Total Products: 2023
+  Updated: 2025-10-10T07:28:28Z
+  Total Products: 2191
 - [men watch](https://donedeals.xyz/collections/men-watch)
   Updated: 2025-10-08T09:12:11Z
   Total Products: 89
