@@ -236,7 +236,7 @@ Temperatur-präzise Teezubereitung
 - Currency: CHF
 - Timezone: Europe/Berlin
 - Created At: 2024-12-20T10:16:39Z
-- Updated At: 2025-10-10T04:00:27.717Z
+- Updated At: 2025-10-10T08:00:27.629Z
 
 wir lieben tee
 
