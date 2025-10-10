@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-06-10T17:50:10Z
 - Contact Email: tejusentprs@gmail.com
-- Updated At: 2025-10-10T12:00:30.953Z
+- Updated At: 2025-10-10T20:00:30.977Z
 
 ## Products
 
@@ -32,7 +32,7 @@
   Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/Lalita_TPSC_93.png?v=1756981153
   Price: ₹1,294.00 INR
 - [Green Cotton Floral Afghani Salwar Suit - The Plus  Size Co.](https://theplussizeco.com/products/green-cotton-floral-afghani-salwar-suit): Breathe fresh in florals with our Green Cotton Floral Afghani Salwar Suit. Features cotton fabric and N neckline. Sizes in XL to 10XL with free customization.
-  Updated: 2025-10-07T23:17:57Z
+  Updated: 2025-10-10T14:24:02Z
   Vendor: The Plus Size Co.
   Product Type: Suit Sets
   Availability: Available
@@ -53,7 +53,7 @@
     Availability: Available
     Price: ₹1,294.00 INR
   - [9XL / 10XL](https://theplussizeco.com/products/green-cotton-floral-afghani-salwar-suit?variant=44660111933493)
-    Availability: Available
+    Availability: Not Available
     Price: ₹1,294.00 INR
   - [10XL / 10XL](https://theplussizeco.com/products/green-cotton-floral-afghani-salwar-suit?variant=44689814814773)
     Availability: Not Available
@@ -753,13 +753,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/WomenPlusSizeSkyBlueFloralEverydayTop_1.png?v=1755345529
   Price: ₹695.00 INR
-- [Plus Size Yellow Floral V-neck Everyday Top- plus size store](https://theplussizeco.com/products/rust-metallic-cotton-kurta-with-foil-print): Foil prints that sparkle with our Rust Metallic Cotton Kurta with Foil Print. Features cotton fabric and V neckline. Sizes in XL to 10XL.
-  Updated: 2025-10-10T11:48:23Z
-  Vendor: The Plus Size Co.
-  Product Type: Short Kurtas
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/WomenPlusSizeBrownSolidEverydayTop_1.png?v=1755345709
-  Price: ₹695.00 INR
 - [Plus Size Grey Metallic Cotton Kurta with Foil Print- Yhe Plus Size Co](https://theplussizeco.com/products/grey-metallic-cotton-kurta-with-foil-print): Grey never looked this glam with our Grey Metallic Cotton Kurta with Foil Print. Features cotton fabric and  V neckline. Sizes in XL to 10XL.
   Updated: 2025-09-09T12:19:12Z
   Vendor: The Plus Size Co.
@@ -817,14 +810,14 @@
   Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/WomenPlusSizeMustardSuitSet_1.png?v=1758624630
   Price: ₹1,295.00 INR
 - [Magenta Floral Cotton Suit Set- The Plus Size Co.](https://theplussizeco.com/products/magenta-floral-cotton-suit-set): Serenity in every stitch with our Soft Blue Floral Cotton Suit Set. Features cotton fabric and 3/4th sleeves. Paired with pant and dupatta. Sizes in XL to 10XL.
-  Updated: 2025-10-09T11:33:06Z
+  Updated: 2025-10-10T12:54:01Z
   Vendor: The Plus Size Co.
   Product Type: Suit Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/WomenPlusSizeHotPinkFloralSuitSet_2.png?v=1758625098
   Price: ₹1,295.00 INR
 - [Rust Floral Cotton Suit Set- The Plus Size Co.](https://theplussizeco.com/products/rust-floral-cotton-suit-set): Serenity in every stitch with our Rust Floral Cotton Suit Set. Features cotton fabric and 3/4th sleeves. Paired with pant and dupatta. Sizes in XL to 10XL.
-  Updated: 2025-10-10T11:54:06Z
+  Updated: 2025-10-10T13:54:28Z
   Vendor: The Plus Size Co.
   Product Type: Suit Sets
   Availability: Available
@@ -923,7 +916,7 @@
   Updated: 2025-10-09T11:19:59Z
   Total Products: 8
 - [Plus Size Kurtas & Tunics for Women | Trendy Ethnic Wear – The Plus Size Co.](https://theplussizeco.com/collections/plus-size-kurtas): Discover Plus Size Kurtas and Tunics for Women designed for comfort & style. Available up to 10XL. Shop ethnic wear for every curve at The Plus Size Co.
-  Updated: 2025-10-01T11:19:02Z
+  Updated: 2025-10-10T12:10:09Z
   Total Products: 26
 - [Affordable Plus Size Dresses – M to 10XL | The Plus Size Co.](https://theplussizeco.com/collections/plus-size-dresses): Discover Plus Size Dresses with Pockets for Women in flattering fits and trendy styles. Available in sizes XL to 10XL. Affordable, functional, and made for curves.
   Updated: 2025-10-10T11:20:25Z
@@ -939,19 +932,19 @@
   Total Products: 12
 - [Plus Size Ethnic Wear Under ₹699 – Sizes XL to 10XL | The Plus Size Co.](https://theplussizeco.com/collections/plus-size-fashion-under-699): Discover Budget-friendly Plus Size Fashion under ₹699! Shop Kurtas, Tunics, Tops & More in 
 Sizes XL to 10XL without compromising on style or comfort.
-  Updated: 2025-10-01T11:19:02Z
+  Updated: 2025-10-10T12:10:09Z
   Total Products: 26
 - [Affordable Plus Size Styles Under ₹799 – Upto 10XL | The Plus Size Co.](https://theplussizeco.com/collections/plus-size-fashion-under-799): Explore Budget-friendly Plus Size Kurtas & Nightwear under ₹799 at The Plus Size Co. Stylish, Comfortable & Size-inclusive Clothing from XL to 10XL!
-  Updated: 2025-10-09T11:19:59Z
+  Updated: 2025-10-10T12:10:09Z
   Total Products: 36
 - [Trendy Plus Size Styles Under ₹999 – Sizes XL to 10XL | The Plus Size Co.](https://theplussizeco.com/collections/plus-size-fashion-under-899): Discover Stylish Plus Size Fashion under ₹999 at The Plus Size Co. Shop Co-ord Sets, Night Gowns, Kurtas, Tops & Dresses in sizes XL to 10XL. Budget-friendly!
-  Updated: 2025-10-10T11:20:25Z
+  Updated: 2025-10-10T12:10:09Z
   Total Products: 41
 - [Plus Size Ethnic Wear Under ₹999 – Sizes XL to 10XL | The Plus Size Co.](https://theplussizeco.com/collections/plus-size-fashion-under-999): Discover Stylish Plus Size Fashion under ₹999 at The Plus Size Co. Shop Co-ord Sets, Night Gowns, Kurtas, Tops & Dresses in sizes XL to 10XL. Budget-friendly, curve-loving fits!
-  Updated: 2025-10-10T11:20:25Z
+  Updated: 2025-10-10T12:10:09Z
   Total Products: 67
 - [Western Wear](https://theplussizeco.com/collections/western-wear-1)
-  Updated: 2025-10-10T11:20:25Z
+  Updated: 2025-10-10T12:10:09Z
   Total Products: 45
 
 ## Blogs
