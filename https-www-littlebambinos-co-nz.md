@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2014-08-05T01:45:52Z
 - Contact Email: info@littlebambinos.co.nz
-- Updated At: 2025-10-10T00:00:49.951Z
+- Updated At: 2025-10-10T08:00:50.462Z
 
 ## Products
 
@@ -672,7 +672,7 @@
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/05GRAYNATUR.jpg?v=1706577465
   Price: $139.00 NZD
 - [MOONIE Organic Humming Bear 2.0 - Sand](https://www.littlebambinos.co.nz/products/moonie-organic-humming-bear-night-lamp-sand): MOONIE the humming bear is a professional baby sleep aid, helping babies easily fall a sleep. Thanks to safe, natural pink noise, it allows children to calm down and fall asleep faster. And that's not all... MOONIE is also night lamp. These special toys are made of certified organic cotton and each toyâ€™s filling comes from recycled materials. Can be used from birth. Made in Poland. Free shipping within New Zealand on orders over $149.
-  Updated: 2025-10-01T07:31:15Z
+  Updated: 2025-10-10T03:00:35Z
   Vendor: MOONIE
   Product Type: Sleep Aid
   Availability: Available
@@ -7107,13 +7107,6 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/102Rainbow_6c6b0505-af46-40ab-a958-391aea7b1485.jpg?v=1702936126
   Price: $189.00 NZD
-- [CONNETIX Pastel Mega Pack 202pc](https://www.littlebambinos.co.nz/products/copy-of-connetix-pastel-mega-pack-202pc): Explore a rainbow of pastel delight and let your imagination soar with our 202 Piece Pastel Mega Pack! Featuring all our standard tile shapes in 8 unique earthy pastel colours PLUS two car bases, this pack is the ultimate option to kickstart or grow your magnetic tile collection. Expand the range of colours children know with our hues of rose, berry, peach, mint, emerald, lemon, violet and sapphire. Providing endless possibilities for creativity and learning through PLAY, the Pastel Mega Pack is the perfect option for siblings, family and/or friends to enjoy building MEGA Connetix creations together!
-  Updated: 2025-10-09T17:39:45Z
-  Vendor: Connetix
-  Product Type: magnetic kids Toys
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/PastelMegaPack2_a16c811d-8994-42c2-89b5-199b2fafca20.jpg?v=1702936261
-  Price: $389.00 NZD
 - [CONNETIX 2 Piece Base Plate - Pink](https://www.littlebambinos.co.nz/products/copy-of-connetix-2-piece-base-plate-pink): When it comes to magnetic tile play, itâ€™s all about that base! Help children bring to life their inspired ideas and build twice as tall with the 2 piece Base Plate Pack, featuring one berry and one pink. Featuring their signature bevel design and numerous magnet points, Base Plates expand the potential of magnetic tile play, fostering creativity, imagination and learning through PLAY. Use these supportive bases to make taller towers and studier dollhouses; spark imaginative play as you transform these berry tone base plates into a field of flowers, tables for a tea party or magical magicianâ€™s pool; develop fine motor skills and STEAM learning by creating mazes, coin drops and sky-high platforms!
   Updated: 2025-10-07T21:20:27Z
   Vendor: Connetix
@@ -13235,7 +13228,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $49.00 NZD
 - [Rejuvenating Face Oil](https://www.littlebambinos.co.nz/products/moon-rejuvenating-face-oil): 100% Natural Deep hydration. Brighten skin tone.Bring balance. Crafted to work in harmony with your hormones, this Vitamin A-rich blend does exactly what it promises – firms, hydrated instantly, reduces dark spots & brings the glow. As a natural Retinol, the Rejuvenating Face Oil is the answer to skin you’re proud to be in.This is your result-driven skincare with the benefit of a ritual. How this works: Renews your skin smoothing wrinkles Preserves and softens skin without being too oily Fades spots, scars or dark patches How to use Apply morning & night to the face & neck as the last step in your skincare routine. This beauty seals in your serum & moisturiser, for healthy, happy skin. Ingredients Caryodendron orinocense (Cacay Oil) , Sclerocara birrea (Marula oil), Borago officinalis (Borage seed oil), Vitis vinifera (Grapeseed oil), Simmondsia chinensis (Jojoba Oil), Actinida chinensis (Kiwifruit seed oil), Frankincense Olibanum Essential Oil, Citrus aurantium amara (Neroli essential oil). Cacay Oil - Cacay oil is being touted as the best anti-ageing oil yet! is a non-irritating, natural vitamin A (AKA a bio-retinol), which stimulates cell renewal to help smooth the appearance of fine lines and wrinkles. Marula and Borage oils - Marula helps soften and lock in moisture in the skin while not being too oily - it is also enhances the penetration of other ingredients to be absorbed into the skin while Borage helps preserve the suppleness of the skin - it;s really soothing to the skin. Frankincense and neroli - From the days of Cleopatra, she knew about this beauty oil -it reduces the appearance of wrinkles, scars and discoloration. Also, great for acne with its anti-inflammatory and antimicrobial benefits. Meanwhile the most amazing nervous-system soothing oil that also stimulates skin cells to regenerate, giving it anti-scarring properties.
-  Updated: 2025-10-07T21:22:42Z
+  Updated: 2025-10-10T02:42:41Z
   Vendor: Oria Skin
   Product Type: Skincare
   Availability: Available
@@ -13263,7 +13256,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/stress_relief_3d85644d-7191-425c-bb69-cc6ff0660e8e.jpg?v=1744072591
   Price: $39.00 NZD
 - [ORIA SKIN Rose Calming Toner](https://www.littlebambinos.co.nz/products/pink-moon-calming-toner): 100% Natural Restore hydration.Reduce inflammation.Bring balance. Soothe stressed, damaged or dry skin with this refreshing face mist. Nature's calming rose water hydrates & relieves skin irritation while balancing your protective barrier. Geranium’s hormone balancing, healing and antiseptic properties are suitable for dry, oily or combination skin. Use as a traditional toner or when extra hydration is needed. Balance is the key to your glow. How this works: Rosewater has anti-inflammatory properties that can help you get rid of acne, eczema, dermatitis and reduces redness of irritated skin. Hydrates, revitalises, and moisturises the skin. Helps to maintain the skin's pH balance and is suitable for all types of skin. How to use Mist over face after cleansing or when extra hydration is needed. Follow with serum, moisturiser and oil to complete your skin regime. Ingredients Rosa damascena distillate* (Rose Hydrosol), Aqua, Hamamelis Virginiana* Witch Hazel, Water (and) Alcohol, Pelargonium graveolens* (Geranium essential oil). *organic
-  Updated: 2025-10-06T21:22:42Z
+  Updated: 2025-10-10T02:42:40Z
   Vendor: Oria Skin
   Product Type: Skincare
   Availability: Available
@@ -14994,7 +14987,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/banwood-skateboard-pale-mint-1_bd108af5-e4c0-4345-bda9-93ac6b91ee0c.png?v=1750297874
   Price: $169.95 NZD
 - [BANWOOD Skateboard - Navy](https://www.littlebambinos.co.nz/products/skateboard-navy-1): The Banwood Skateboard is a small cruiser board designed for a relaxed ride that both beginners and experienced riders can enjoy. Made out of natural Canadian Maple, the deck features a soft, transparent grip designed with your little one's bare feet in mind. The board also includes soft, high rebound wheels perfect for an easy and stable ride. Banwood's new skateboard collection combines our signature, simple and nostalgic designs with vintage elements in playful pastels - taking your little ones back to the golden age of California in the 70's. Recommended from 3 years + Deck Canadian maple deck with soft transparent grip tape Sturdy 8-ply fabrication Dimension: 20,4” x 6,69” Front and back Banwood logo Wheels White high rebound wheels: (SHR80A PU) Banwood logo Dimension: 2,28 x 1.77” ABEC-7 chrome bearing SHR90A PU cast cushion 3.25 Alu trucks and base
-  Updated: 2025-09-30T01:43:39Z
+  Updated: 2025-10-10T00:24:30Z
   Vendor: Banwood
   Product Type: Bikes & Scooters
   Availability: Available
@@ -15015,7 +15008,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/banwood-skateboard-white-1_eeec9a7f-fb1f-4402-aa4f-a1ad40e0cd6c.png?v=1750297878
   Price: $169.95 NZD
 - [BANWOOD Skateboard Protective Gear - Tan/Brown](https://www.littlebambinos.co.nz/products/skateboard-protective-gear-1): Our 3-pack protection gear was designed with your little one's safety, comfort and utmost enjoyment in mind. Crafted to provide maximum protection - each pack includes knee pads, elbow pads and wrist guards. Designed in our classic colour ways to match with all your favourite Banwood products, every pack is suitable for use across our product line - perfect for our skateboards, bikes and scooters alike. One size. Recommended age 3+
-  Updated: 2025-09-30T01:44:02Z
+  Updated: 2025-10-10T00:24:30Z
   Vendor: Banwood
   Product Type: Bikes & Scooters
   Availability: Available
@@ -15685,14 +15678,14 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Little-Bambinos-Connetix-Magnetic-Blocks-Toys-48-pieces-Bright-Portal-Pack-1_1000x1000_4411a74e-a294-418c-83b7-efde0148d533.webp?v=1754442773
   Price: $175.00 NZD
 - [LIL MOO Portable Bottle Warmer](https://www.littlebambinos.co.nz/products/portable-bottle-warmer-white): Never be caught out with a cold bottle again! Heat bottles wherever, whenever. Ultra-Compact & Lightweight – Unlike other bulky warmers, this sleek design takes up minimal space in your baby bag. Super lightweight and conveniently small. Cordless & Rechargeable – No power outlet? No problem. Easily charge via USB at home, in the car, or with a power bank. Fast, Even Heating – Heats water, breastmilk or formula quickly and evenly, with no hot spots. Safe for vital nutrients found in breastmilk & formula. Perfect Temperature Every Time – Built-in smart temperature control keeps milk at the ideal warmth. Choose from 37°c, 40°c, or 45°c. Compatible with Most Bottles – No need to buy special bottles, works with most major brands using our bottle adapters. BPA Free - Made from high-quality, BPA-free materials for safe, worry-free use. 1 Year Warranty - Purchase with confidence. These portable bottle warmers are compatible with some bottle brands without an adapter but you may need an adapter for some bottle brands- Check Here
-  Updated: 2025-10-09T22:22:47Z
+  Updated: 2025-10-10T05:22:46Z
   Vendor: lil moo
   Product Type: Bottle Warmers & Sterilizers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/ChatGPTImageJul17_2025_01_32_44PM_1.png?v=1756095029
   Price: $129.00 NZD
 - [LIL MOO Adapters](https://www.littlebambinos.co.nz/products/adapters): Adapter 1 - Medela, Pigeon Slim Neck, Dr. Browns Narrow Neck, NUK Classic, BIBS Adapter 2 - Tommee Tippee Adapter 3 - MAM, Pigeon Wide Neck Adapter 4 - Haakaa Gen 3, Como Tomo, Boon Nursh, Ola Baby Adapter 5 - NUK Nature Sense Adapter 7 - Dr. Browns Wide Neck Adapter 9 - NUK First Choice, Crane Wide Neck NO ADAPTER IS REQUIRED FOR - AVENT, Harmony, Tiny Bloom, Chicco Perfect 5 & Original Touch, Minbie, Combi, Dodie, Lasinoh, Richell, Spectra. Please note: All adapters have an additional insert sealing ring, which keeps the connection between baby bottle and adapter tight. The device is only 100% tight if both sealing rings (heating plate and adapter) are used. If you are leaking fluid, you have most likely forgotten a seal ring
-  Updated: 2025-10-09T19:22:45Z
+  Updated: 2025-10-10T05:22:45Z
   Vendor: lil moo
   Product Type: 
   Availability: Available
@@ -16800,7 +16793,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:26Z
   Total Products: 0
 - [Facebook Product Feed](https://www.littlebambinos.co.nz/collections/facebook-product-feed)
-  Updated: 2025-10-09T23:43:12Z
+  Updated: 2025-10-10T07:43:11Z
   Total Products: 419
 - [Sleepy Doe](https://www.littlebambinos.co.nz/collections/sleepy-doe): A British sleepwear brand specialising in small, organic sleep collections for women and children. Founder Sophie launched Sleepy Doe in 2016 and is a firm believer that often the simple things are the best things in life. She wanted to create a line of long-lasting sleepwear to sit comfortably in any home and to be loved by both adult and child. The collection is made with 100% Organic GOTS certified cotton and all products are proudly manufactured in the U.K supporting independent factories and businesses. // window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-172659890-2'); // ]]>
   Updated: 2025-08-06T22:46:42Z
@@ -17652,7 +17645,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-10-04T11:02:23Z
   Total Products: 10
 - [Labour Day Sale Collection 23](https://www.littlebambinos.co.nz/collections/labour-day-sale-22-excl-connetix-and-by-billie)
-  Updated: 2025-10-09T23:43:12Z
+  Updated: 2025-10-10T07:43:11Z
   Total Products: 1328
 - [Summer Edit](https://www.littlebambinos.co.nz/collections/summer-edit-1): Shop our Summer edit
   Updated: 2025-10-08T11:01:41Z
