@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-10-03T06:30:37Z
 - Contact Email: mandiemaddox@mystichiddengem.com
-- Updated At: 2025-10-10T00:00:30.872Z
+- Updated At: 2025-10-10T08:00:28.000Z
 
 ## Products
 
@@ -267,7 +267,7 @@
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/7590772071000907401_2048.jpg?v=1759545277
     Price: $61.24 USD
 - [Galaxy Lost Love Skeletons Relaxed Shorts](https://lachrymalgems.store/products/galaxy-lost-love-skeletons-print-womens-relaxed-shorts-comfy-lounge-wear-summer-outfits-festival-attire-gifts-for-space-lovers): XS S M L XL 2XL Waist width, in 13.39 13.98 14.57 15.16 15.75 16.34 Hips width, in 20.08 21.06 22.05 23.03 24.02 25.98 Length, in 10.31 10.79 11.26 11.73 12.20 12.68 ​Blast off into unique style and ultimate comfort with our "Galaxy Lost Love Skeletons" Women's Relaxed Shorts. These shorts are a stellar fusion of cosmic wonder and poignant artistry, perfect for summer adventures, comfy lounge wear, or making a vibrant statement at your next festival. ​Why These Shorts Will Be Your New Favorite: ​Celestial "Lost Love" Design: Featuring an ethereal galaxy backdrop swirling with vibrant nebulae and distant stars, adorned with two intertwined skeletons, symbolizing enduring connection or poignant "lost love." This captivating graphic is truly out of this world. ​Vibrant & Eye-Catching: The rich, colorful galaxy print ensures these shorts are a head-turner, adding a dynamic and artistic touch to any outfit. ​Ultimate Comfort & Relaxation: Crafted for a relaxed fit, these shorts provide exceptional comfort, whether you're lounging at home, exploring the outdoors, or dancing the night away. ​Versatile for Any Occasion: ​Summer Outfits: Lightweight and breathable for hot weather. ​Comfy Lounge Wear: Perfect for casual days and relaxing. ​Festival Attire: Stand out in the crowd with a unique, expressive design. ​Gifts for Space Lovers: An ideal present for anyone fascinated by the cosmos and distinctive art. ​High-Quality Print & Fabric: The vivid galaxy print is sublimated into durable fabric, ensuring the colors stay brilliant and the design lasts, wear after wear. ​Range of Sizes: Available in XS to 2XL to ensure a comfortable fit for diverse body types Product features- 100% Polyester for strength and durability- Soft fabric ensures comfortable wear- Adjustable drawstring waist for a perfect fit- Side seams provide structural support- Medium fabric weight for versatility and comfortCare instructions- Do not dryclean- Do not iron- Tumble dry: low heat- Do not bleach- Machine wash: cold (max 30C or 90F) Image by [clearviewstock / Shutterstock]
-  Updated: 2025-10-09T22:30:26Z
+  Updated: 2025-10-10T07:39:17Z
   Vendor: Printify
   Product Type: All Over Prints
   Availability: Available
@@ -298,7 +298,7 @@
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/rn-image_picker_lib_temp_d19d8260-8c92-4693-8406-05813ec8ddf3.webp?v=1759803579
   Price: $38.95 USD
 - [Love Lost Glitch Aesthetic Throw Blanket](https://lachrymalgems.store/products/velveteen-microfiber-blanket-love-lost-skeletons-winter-fall-aesthetic-throw-blanket): Wrap yourself in comfort and captivating artistry with our "Love Lost Glitch" Aesthetic Throw Blanket. This isn't just a blanket; it's a statement piece designed for those who appreciate unique home decor with a touch of modern melancholia and digital romance. Featuring our signature glitch art style, this throw transforms any space into a cozy haven of self-expression. ​Why This Throw Blanket is a Must-Have for Your Home: ​Striking "Love Lost" Glitch Art: Adorned with our iconic glitch-effect skeleton tenderly nurturing a heart, surrounded by vaporwave-inspired Japanese text. This design evokes deep emotions and a modern, edgy aesthetic that's truly one-of-a-kind. ​Unique Aesthetic Home Decor: Perfect for adding a personalized, alternative touch to your living room, bedroom, or creative space. It's a conversation starter and a reflection of your unique taste. ​Luxuriously Soft & Cozy: Crafted from premium, plush fabric, this throw blanket offers exceptional warmth and softness, making it perfect for snuggling up on the couch, adding a decorative layer to your bed, or keeping warm on chilly evenings. ​High-Quality, Vibrant Print: The intricate glitch art and text are printed with superior clarity and color vibrancy, ensuring the design remains a stunning focal point in your home for years to come. ​Versatile & Stylish: Ideal as a decorative throw over a sofa or chair, a unique bed accent, or a comforting companion for movie nights and quiet reflection. ​Thoughtful Gift Idea: A perfect present for anyone who loves gothic aesthetics, vaporwave art, unique graphic designs, or personalized home decor with a meaningful twist. Product features- 100% Polyester for strength and durability- Vibrant colors for bright and crisp designs- Hemmed edges for durability- Soft and plush material for ultimate comfort- Available in 3 sizes for versatilityCare instructions- Machine wash: cold (max 30C or 90F), gentle cycle, *hand wash will extend the quality of the product- Do not bleach- Tumble dry: low heat- Do not iron- Do not dryclean
-  Updated: 2025-10-09T23:36:55Z
+  Updated: 2025-10-10T07:38:59Z
   Vendor: Printify
   Product Type: Home Decor
   Availability: Available
@@ -452,7 +452,7 @@
     Availability: Available
     Price: $36.85 USD
 - [Cosmic Love Lost Crewneck Graphic Sweatshirt](https://lachrymalgems.store/products/cosmic-love-lost-crewneck-sweatshirt-graphic-sweatshirt-unisex-apparel-gift-for-space-lovers): Elevate your casual wardrobe with this stylish crewneck sweatshirt, designed for ultimate comfort and durability. The vibrant graphics and eye-catching Love Lost Skeletons S M L XL 2XL 3XL 4XL Width, in 20.00 22.01 24.00 26.00 28.00 30.00 32.00 Length, in 27.00 28.00 29.00 30.00 31.00 32.00 33.00 Sleeve length (from center back), in 33.50 34.50 35.50 36.50 37.50 38.50 39.50 Size tolerance, in 1.50 1.50 1.50 1.50 1.50 1.50 1.50 design give it a unique edge, making it the perfect statement piece for any outfit. Ideal for cool evenings or lounging at home, this sweatshirt combines a classic fit with a modern flair. Perfect for art enthusiasts, trendsetters, or anyone who loves to stand out, it transitions seamlessly from daytime outings to cozy nights in. Celebrate holidays like Halloween, or simply add a pop of personality to your everyday style with this versatile piece.Product features- No side seams for a smooth finish and reduced fabric waste.- Elastic ribbed collar that maintains its shape.- Designed for adult wear only.- Made with ethically sourced materials that meet safety standards.- Classic fit with double-needle stitching for enhanced durability.Care instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Do not iron- Do not drycleanEU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Gildan 18000, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: Made in Nicaragua, For adults Care instructions: Machine wash: cold (max 30C or 90F), Non-chlorine: bleach as needed, Tumble dry: low heat, Do not iron, Do not dryclean
-  Updated: 2025-10-09T22:30:28Z
+  Updated: 2025-10-10T07:38:29Z
   Vendor: Printify
   Product Type: Sweatshirt
   Availability: Available
@@ -546,7 +546,7 @@
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/background-editor_output_de17e5e3-467d-438c-abce-38a400034691.png?v=1760043192
   Price: $18.25 USD
 - [Sandals - Memento Mori Vaporwave Aesthetic](https://lachrymalgems.store/products/sandals-memento-mori-sad-lonely-skeleton-swing-vaporwave-aesthetic-fashion): US 6 US 7 US 8 US 9 US 10 US 11 US 12 US 13 US 14 EU size 40 41 42 43 44 45 46 47 49 UK size 5 6 7 8 9 10 11 12 13 Length, in 9.80 10.12 10.31 10.59 10.79 11.10 11.30 11.61 12.20 Vaporwave-inspired Men's Sandals featuring memento mori text and a sad lonely skeleton on a swing. Perfect for those who appreciate alternative glitch aesthetics and want to make a statement. Ideal for casual wear or beach days. Relevant for Halloween, Day of the Dead, or any edgy fashion enthusiast.Product features- Embossed insole for secure grip- Comfortable foot curvature for all-day wear- Removable snap-on/off straps for customizable style- Lightweight cushioned sole with quick-drying strap- Made of high-quality materials: polyurethane outsoles, polyester & neoprene strapsCare instructions- Remove straps from soles. Machine wash straps on warm. air dry. Hand wash soles with dish soap. Re-attach straps when dry.EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Deco Slides, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Care instructions: Remove straps from soles. Machine wash straps on warm. air dry. Hand wash soles with dish soap. Re-attach straps when dry.
-  Updated: 2025-10-09T22:30:28Z
+  Updated: 2025-10-10T07:38:22Z
   Vendor: Printify
   Product Type: Shoes
   Availability: Available
@@ -600,28 +600,28 @@
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/6336337715706831715-2048-_4.jpg?v=1760042931
     Price: $30.71 USD
 - [Dark Aesthetic Hand Towel with Memento Mori Design](https://lachrymalgems.store/products/gothic-hand-towel-with-memento-mori-design-decorative-towel-for-home-skull-roses-towel-bathroom-decor): 28" × 16" Length, in 16.00 Height, in 28.00 Elevate your home aesthetics with this vibrant hand towel, designed to bring a touch of artistry to your bathroom or kitchen. Featuring a striking skull and rose design, it offers a bold statement that reflects your unique style. Made for those who appreciate individuality, this hand towel is perfect for art lovers and those who enjoy a bit of edgy decor. The soft and absorbent material provides functionality without sacrificing style, making it an ideal choice for everyday use or special occasions. Use it to enhance your space during holidays, celebrations, or simply when entertaining guests. Whether as a thoughtful gift for a friend or a stylish addition to your own home, this hand towel is bound to impress.Product features- Super soft and lightweight towel- Bright and crisp colors from advanced printing techniques- Efficiently absorbs liquids for quick drying- Durable blend of 52% polyester and 48% cotton retains shape- Print on one side for vibrant visualsCare instructions- Machine wash separately: cold (max 30C or 90F), gentle cycle- Do not bleach- Tumble dry: low heat- Do not iron- Do not drycleanEU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Generic brand, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Care instructions: Machine wash separately: cold (max 30C or 90F), gentle cycle, Do not bleach, Tumble dry: low heat, Do not iron, Do not dryclean
-  Updated: 2025-10-09T22:30:29Z
+  Updated: 2025-10-10T07:37:42Z
   Vendor: Printify
   Product Type: Home Decor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/background-editor-output-4b7a4246-5690-4c52-bada-5698334c480d-_1.png?v=1760038656
   Price: $14.66 USD
 - [Embroidered Hiddengem Beanie](https://lachrymalgems.store/products/embroidered-hiddengen-beanie): The perfect beanie has arrived! This embroidered beauty has a snug fit that ensures you're going to feel cozy and warm whatever you're doing. Colorful gemstone design with that glitch alternative Fashion vibe. Perfect for men or women. • 60% cotton, 40% acrylic • Breathable cotton blend • Form-fitting shape • One size fits mostSize guide A (inches) B (inches) C (inches) D (inches) One size 17 ⅜-17 ⅞ 8 ⅛ 2 ½ 8 ¼
-  Updated: 2025-10-09T22:30:29Z
+  Updated: 2025-10-10T07:37:39Z
   Vendor: Lachrymal Gems
   Product Type: EMBROIDERY
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/background-editor-output-6bdde157-5f47-4220-b080-097a1c9ef117-_1.png?v=1760038654
   Price: $17.50 USD
 - [Clear tote bag](https://lachrymalgems.store/products/clear-tote-bag): Clear, chic, and stadium-ready. This tote is made for everyday hauling—from concerts to beach days—with a sleek, transparent look and sturdy build. • TPU (rubber-like clear material) • 0.02″ (0.5 mm) thick • Bag size: 12″ × 6″ × 12″ (30.5 cm × 15.3 cm × 30.5 cm) • Open main compartment • Blank product sourced from China Disclaimer: Due to the transparent material and this product’s handcrafted process, touch marks and fingerprints may appear on the surface. These do not affect its quality or durability.
-  Updated: 2025-10-09T22:30:29Z
+  Updated: 2025-10-10T07:37:30Z
   Vendor: Lachrymal Gems
   Product Type: DECOR
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/background-editor-output-7f590cb7-372f-40c3-a401-0ddf57f04222-_1.png?v=1760038644
   Price: $24.00 USD
 - [Headband](https://lachrymalgems.store/products/headband): This soft, stretchy headband adds that extra bit of comfort for your workouts, while also being stylish enough to rock with a Friday-night look. Don’t miss out on getting your own! • Fabric composition: 82% polyester, 18% spandex • Fabric weight (may vary by 5%): 6.78 oz/yd² (230g/m²) • Moisture-wicking • Blank product components sourced from ChinaSize guide WIDTH (inches) LENGTH (inches) M 2 9 ½ L 2 ⅛ 10 ¼
-  Updated: 2025-10-09T22:30:29Z
+  Updated: 2025-10-10T07:38:11Z
   Vendor: Lachrymal Gems
   Product Type: CUT-SEW
   Availability: Available
@@ -660,7 +660,7 @@
     Availability: Available
     Price: $55.50 USD
 - [Enchanting Neon Memento Mori Mystic Ladies Slippers - Cozy Footwear for Home,](https://lachrymalgems.store/products/enchanting-neon-memento-mori-mystic-ladies-slippers-cozy-footwear-for-home): Slip into cozy bliss and become the vibe with these Indoor Slippers. Designed with a beatiful plea they radiate a fun, energetic vibe that’s perfect for cozy nights in or casual lounging, remind us to enjoy the good and comfy moments in life because we must die eventually. Ideal for relaxing at home, these slippers add a pop of color to your daily monotone gloom. The perfect gift for mothers, daughters, or friends, especially during Holidays or just self-care moments. Embrace comfort and mystic mystery in your everyday journey US 7 - 8 EU size 39 - 40 Heel to toe (inside), in 10.20 Width, in 4.02 !Product features- Soft flannel fleece fabric for ultimate comfort and durability.- Anti-slip textured outsole for safe movement on various surfaces.- Removable insole for easy cleaning and quick drying.- Crafted from 100% polyester for a lightweight feel.- Stylish black rubber sole for a modern touch.Care instructions- To maintain clean, use warm water with dish soap to clean off any dirt spots. It’s not necessary to soak the whole item. For hard-to-clean spots, use a soft-bristled brush.
-  Updated: 2025-10-09T22:30:30Z
+  Updated: 2025-10-10T07:37:24Z
   Vendor: Printify
   Product Type: Shoes
   Availability: Available
@@ -681,7 +681,7 @@
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/rn-image_picker_lib_temp_40f68d05-1bdc-4f1f-ba3d-2b2376860eda.webp?v=1760028115
   Price: $57.70 USD
 - [Love Lost Skeletons Mens  Long Sleeve Tee](https://lachrymalgems.store/products/love-lost-skeletons-mens-long-sleeve-tee): XS S M L XL 2XL 3XL 4XL Width, in 17.50 19.00 20.50 22.00 23.50 25.00 27.00 29.00 Length, in 27.00 28.00 29.00 30.00 31.00 32.00 32.50 33.00 Sleeve Length, in 34.25 35.00 35.75 36.50 37.25 38.00 38.75 39.50 Size Tolerance, in 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 This Long Sleeve Tee features a dark and emotive design with themes of lost skeletons, gods hands, and heartbreak. Perfect for those who appreciate emo vibes, cloud rap, dark aesthetics, and glitch aesthetics. Ideal for those who enjoy expressing their emotions through their clothing. Relevant for Halloween, emo culture events, and music festivals.Product features- Shoulder taped for stability- Ribbed-knit cuffs and collar for elasticity- Tear-away label for comfort- Made from 60% cotton, 40% polyester for a pleasant feel- 1x1 rib knit neck and cuffs for durabilityCare instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Iron, team or dry: medium heat- Do not dryclean
-  Updated: 2025-10-09T21:06:15Z
+  Updated: 2025-10-10T02:35:22Z
   Vendor: Printify
   Product Type: Long-sleeve
   Availability: Available
@@ -887,7 +887,7 @@
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/13135556902623223657_2048_9336f76f-cf03-4ad1-abc4-87eec821c37f.jpg?v=1760023608
     Price: $44.20 USD
 - [Men's Dark Aesthetic Anti-Social Tank Top](https://lachrymalgems.store/products/mens-tank-top-dark-aesthetic-neon-vibes-anti-social-club-streetwear-gym-wear): This Tank Top features a dark aesthetic with neon vibes, perfect for the anti-social club. Made for men who enjoy streetwear and gym wear. The raw sleeve edges and ribbed collar offer a unique style, while the shoulder-to-shoulder tape and double needle bottom hem ensure durability. Ideal for those who appreciate edgy fashion and want a comfortable, well-fitted top.Product features- Stone washed for a worn look- Raw sleeve edges for a unique style- Ribbed collar for a well-fitted tee- Shoulder-to-shoulder tape for stability- Double needle bottom hem for durabilityCare instructions- Machine wash: cold (max 30C or 90F)- Do not bleach- Tumble dry: low heat- Iron, steam or dry: low heat- Do not dryclean
-  Updated: 2025-10-09T22:30:30Z
+  Updated: 2025-10-10T02:43:58Z
   Vendor: Printify
   Product Type: Tank Top
   Availability: Available
@@ -917,19 +917,59 @@
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/948668306500115053-2048-_3.jpg?v=1760038631
     Price: $34.90 USD
 - [Skater Dress - Memento Mori Dark Rose Aesthetic(Limited)](https://lachrymalgems.store/products/skater-dress-memento-mori-dark-rose-aesthetic): L Chest width, in 18.50 Length, in 36.50 Memento mori ladies skater style dress with emo girl aesthetic and dark vibes, featuring dark rose aesthetic and bad vibes. Perfect for those who love alternative fashion and want to make a statement. Ideal for goth girls and alternative fashion enthusiasts. Relevant for outings, gothic events, and concerts.Product features- High cut neckline- Vibrant colors- Double needle sleeve, neck and bottom hem- 83% polyester, 17% spandex material for durability and stretch- Assembled in the USA from globally sourced partsCare instructions- Do not dryclean- Do not iron- Tumble dry: low heat- Do not bleach- Machine wash: cold (max 30C or 90F)
-  Updated: 2025-10-09T23:44:54Z
+  Updated: 2025-10-10T03:02:48Z
   Vendor: Printify
   Product Type: All Over Prints
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/background-editor_output_a0f551fc-8888-4c42-a5fb-9cf3220590c5.png?v=1760042149
   Price: $37.77 USD
 - [Lachrymal Gems Skeleton Love Lost Heart Seed Planting Dark Aesthetic Backpack](https://lachrymalgems.store/products/lachrymal-gems-skeleton-love-lost-heart-seed-planting-dark-aesthetic-backpack): This backpack features a dark aesthetic with vaporwave neon glitch vibes, perfect for those who appreciate alternative trap aesthetic. It gives off a mysterious and edgy vibe, making it ideal for students, travelers, or anyone who loves unique designs. It is relevant for back-to-school season, music festivals, and everyday streetwear.Product features- Premium lightweight tear resistant Oxford fabric- 6 compartments for organizational convenience- Padded mesh back panel and straps for extra comfort- Adjustable shoulder straps for a customized fit- Black base and inside color for a sleek lookCare instructions- Before cleaning the bag, remove all the items from the bag. Suggested to pretreat visible stains with stain remover. Mix warm water with laundry detergent and clean the bag with terry washcloth or soft bristle brush. Let the bag air dry. One size Length, in 10.83 Width, in 4.92 Height, in 13.58
-  Updated: 2025-10-09T22:30:31Z
+  Updated: 2025-10-10T06:10:05Z
   Vendor: Printify
   Product Type: Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/background-editor_output_e7b2e695-ed06-4f83-9b25-d7e36f1908c5.png?v=1760041599
   Price: $40.43 USD
+- [Skin-Glow Face and Body Cleanser, 6oz](https://lachrymalgems.store/products/skin-glow-face-and-body-cleanser-6oz): This gentle cleanser equips your daily skincare routine with a versatile solution for both face and body care. This cleansing gel comes in a convenient 6 fl. oz. clear PET bottle with a white pump, making it easy to use and store. Ideal for sensitive or acne-prone skin, it effectively removes excess oil without causing irritation. With its balanced and gentle formula, it leaves your skin feeling refreshed and clean without any added fragrance. Plus, it's 100% vegan, cruelty-free, and packaged in recyclable materials. Made in the USA from globally sourced ingredients.Aqua, Cocamidopropyl Betaine, Glycerin, Decyl Glucoside, Panthenol, Glycyrrhiza Glabra (Licorice) Root Extract, Camellia Sinensis Leaf Extract, Xanthan Gum, Hamamelis Virginiana (Witch Hazel) Water, Alcohol, Butylene Glycol, Fomes Officinalis (Mushroom) Extract, Disodium EDTA, Citric Acid, Phenoxyethanol, Ethylhexylglycerin.Free of parabens, formaldehydes, formaldehyde-releasing agents, phthalates, mineral oil, oxybenzone, coal tar, hydroquinone, sulfates SLS & SLES, triclocarban, triclosan, and synthetic fragrance.Please note: This product is not eligible for publishing on Etsy and TikTok Shop US. More info here. .: Recommended for sensitive or acne-prone skin.: Cleansing gel for removing excess oil.: Face and body use.: Balanced and gentle formula.: Fragrance-Free.: 100% vegan, cruelty-free, and comes in recyclable packaging.: Clear PET bottle with white pump.: Design printed on a sticker label.: Made in the USA from globally sourced ingredients.: 6 fl. oz. (177ml).: Please note: This product is shipped only to the United States and their territories, as well as Canada.: Please note: This product is not eligible for publishing on Etsy and TikTok Shop US. 6oz Bottle height, in 7.20 Bottle diameter, in 1.26
+  Updated: 2025-10-10T00:06:50Z
+  Vendor: Printify
+  Product Type: Beauty products
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/14052505036802613705_2048.jpg?v=1760054798
+  Price: $18.20 USD
+- [Alt.Organic Hair Growth Tonic, 2oz](https://lachrymalgems.store/products/alt-organic-hair-growth-tonic-2oz): This lightweight hair tonic is enriched with biotin, plant-based turmeric, and caffeine for a nourishing, and strengthening combo that helps boost hair health. This stimulating formula helps improve length retention, reduces signs of hair thinning, and hydrates the follicles for hair that looks thicker, and fuller. Fast-absorbing recipe with no residue that is lightweight and perfect for daily use.Ingredients: Aqua (Water), Alcohol Denat., Propanediol, 1,2-Hexanediol, Phospholipids, Caffeine, Curcuma Longa (Turmeric) Callus Culture Conditioned Media, Biotin.Free of parabens, formaldehydes, formaldehyde-releasing agents, phthalates, mineral oil, oxybenzone, coal tar, hydroquinone, sulfates SLS & SLES, triclocarban, triclosan, and synthetic fragrance.Please note: This product is not eligible for publishing on Etsy and TikTok Shop US. More info here. .: Helps improve length retention.: Reduces signs of hair thinning for thicker, fuller, longer looking hair.: Lightweight, fast-absorbing treatment.: Residue-less formula produces healthy and hydrated results.: 100% vegan, cruelty-free, and comes in recyclable packaging.: Amber glass bottle with black glass dropper.: Design printed on a sticker label.: Assembled in the USA from globally sourced ingredients.: 2 fl oz. (60 ml).: Please note: This product is shipped only to the United States and their territories, as well as Canada.: Please note: This product is not eligible for publishing on Etsy and TikTok Shop US. 2oz Bottle height, in 4.60 Bottle diameter, in 1.50
+  Updated: 2025-10-10T00:11:56Z
+  Vendor: Printify
+  Product Type: Accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/7950979821947501599_2048.jpg?v=1760055105
+  Price: $24.73 USD
+- [Sports Bra - Dark Hello Kitty Remixed Purple Vibes Alternative Aesthetic](https://lachrymalgems.store/products/sports-bra-dark-hello-kitty-remixed-purple-vibes-alternative-aesthetic): This Sports Bra features a dark and alternative aesthetic with a Purple Vibes design. Perfect for those looking for a unique and edgy look while working out or lounging. Ideal for individuals who enjoy expressing their individuality in their activewear. Relevant for holidays, such as Halloween or any occasion where a bold and unique look is desired.Product features- Moisture-wicking material for keeping cool during physical activity- Supportive double-layer front with shoulder strap support- All over print design for a bold look- 83% polyester, 17% spandex for strength and stretch- Assembled in the USA from globally sourced partsCare instructions- Do not dryclean- Do not iron- Do not tumble dry- Do not bleach- Machine wash: cold (max 30C or 90F) S M L XL 2XL Underbust width, in 13.39 - 15.16 15.16 - 16.14 16.14 - 17.13 17.13 - 18.11 18.11 - 19.09
+  Updated: 2025-10-10T00:37:56Z
+  Vendor: Printify
+  Product Type: All Over Prints
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/14349123328156810396_2048.jpg?v=1760056662
+  - [S / White stitching](https://lachrymalgems.store/products/sports-bra-dark-hello-kitty-remixed-purple-vibes-alternative-aesthetic?variant=47117607239925)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/14349123328156810396_2048.jpg?v=1760056662
+    Price: $30.36 USD
+  - [M / White stitching](https://lachrymalgems.store/products/sports-bra-dark-hello-kitty-remixed-purple-vibes-alternative-aesthetic?variant=47117607272693)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/14349123328156810396_2048.jpg?v=1760056662
+    Price: $30.36 USD
+  - [L / White stitching](https://lachrymalgems.store/products/sports-bra-dark-hello-kitty-remixed-purple-vibes-alternative-aesthetic?variant=47117607305461)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/14349123328156810396_2048.jpg?v=1760056662
+    Price: $30.36 USD
+  - [XL / White stitching](https://lachrymalgems.store/products/sports-bra-dark-hello-kitty-remixed-purple-vibes-alternative-aesthetic?variant=47117607338229)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/14349123328156810396_2048.jpg?v=1760056662
+    Price: $30.36 USD
+  - [2XL / White stitching](https://lachrymalgems.store/products/sports-bra-dark-hello-kitty-remixed-purple-vibes-alternative-aesthetic?variant=47117607370997)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/14349123328156810396_2048.jpg?v=1760056662
+    Price: $31.57 USD
 
 ## Collections
 
@@ -952,8 +992,8 @@
   Updated: 2025-10-09T22:30:25Z
   Total Products: 2
 - [Magic Mirror](https://lachrymalgems.store/collections/magic-mirror): Rituals for your face, your frequency, and your feels.Reflections that remind you — you are the main character.
-  Updated: 2025-10-09T22:30:25Z
-  Total Products: 1
+  Updated: 2025-10-10T00:11:33Z
+  Total Products: 3
 - [Vibe bin](https://lachrymalgems.store/collections/vibe-bin): Everything that feeds the mood board of your life. Shop the little things that recharge your frequency.
   Updated: 2025-10-09T22:30:25Z
   Total Products: 6
@@ -964,6 +1004,10 @@
   - [Discover the Extraordinary at Lachrymal Gems: Where Fashion Meets Fine Art](https://lachrymalgems.store/blogs/news/discover-the-extraordinary-at-lachrymal-gems-where-fashion-meets-fine-art)
     Updated: 2025-10-05T21:42:30Z
     Author: Lachrymal Gems
+  - [Your Tears Are More Precious Than Diamonds](https://lachrymalgems.store/blogs/news/your-tears-are-more-precious-than-diamonds)
+    Updated: 2025-10-10T07:45:52Z
+    Author: Mandie Maddox
+    Tags: Be yourself, Bohemian, Dark Aesthetic, Emo, Identity, Love Lost, Scene, Sharing Scars, Shopping
 - [They Don't Tell You: The Story Behind Our Scars](https://lachrymalgems.store/blogs/they-dont-tell-you-the-story-behind-our-scars)
   - [They Don't Tell You: The Story Behind Our Scars](https://lachrymalgems.store/blogs/they-dont-tell-you-the-story-behind-our-scars/they-dont-tell-you-the-story-behind-our-scars)
     Updated: 2025-10-07T21:08:12Z
