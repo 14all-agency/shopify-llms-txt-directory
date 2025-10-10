@@ -8,7 +8,7 @@
 - Timezone: Europe/London
 - Created At: 2021-01-17T01:03:23Z
 - Contact Email: contact@crystalshealing.co.uk
-- Updated At: 2025-10-09T12:00:36.766Z
+- Updated At: 2025-10-10T20:00:37.036Z
 
 # Crystals Healing — AI-Ready Index
 Welcome to Crystals Healing, your trusted UK-based store for healing crystals and jewelry. This llms.txt file lists all products, collections, blogs, and pages to help AI assistants, search engines, and shopping bots discover and understand our offerings.
@@ -956,7 +956,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
     Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/20230503_123418-PhotoRoom_5.jpg?v=1739737593
     Price: £27.00 GBP
 - [Weight Loss Bracelet](https://crystalshealing.co.uk/products/weight-loss-bracelet): Achieve Your Weight Loss Goals with Our Unique Weight Loss Bracelet Combining Powerful Crystals in One Piece to Create 10X Stronger Result. Red Tiger's Eye is known to motivate and energize a person to achieve his/her goal. Red tiger's Eye is also known to speed up your metabolism.Amethyst one of the most beautiful crystals found on Earth―the lovely purple amethyst.Purple Amethyst can assist you in the process of detoxification, and also help you deal with your food addictions and also helps in reducing bloating.Sunstone, is named after the ultimate source of light―the Sun!If you are among those dieters who think that this whole lifestyle change is getting you nowhere around your goals, then a sunstone will give you that much-needed "kick" to boost your energy levels and look at the positive aspect of it.It uplifts your spirits and promotes good health as well. Mantra: I intentionally, lovingly + easefully create the healthy body I desire. Create a healthy body intention! Cup your bracelet between your hands. Close your eyes + take three consecutive breaths. Imagine yourself in your ideal body with optimal health. Get clear on your intention + goal. Take three more breaths. Slide your bracelet onto your right wrist. In times of stress or high emotions, allow your bracelet to remind you to stop, take a breath + make mindful choices about your food.Care for your Weight Loss Bracelet: Keep your Weight Loss Bracelet dry and remove slimming bracelet before bathing or swimming. Remember, wearing a Weight Loss Bracelet is not just about style; it's about incorporating a wellness accessory into your everyday life. Find a style that resonates with you and wear it with confidence as you embark on your journey to well-being.
-  Updated: 2025-10-01T15:00:59Z
+  Updated: 2025-10-09T17:15:34Z
   Vendor: Crystals Healing
   Product Type: Bracelets
   Availability: Available
@@ -4036,7 +4036,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
   Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/selenite.jpg?v=1710338802
   Price: £8.00 GBP
 - [Clear Quartz Polished Points](https://crystalshealing.co.uk/products/clear-quartz-polished-points): Discover the magic within each Clear Quartz Polished Point - a beacon of clarity and light. Here’s why these crystals are essential for seekers and dreamers: 12-14 Grams: Radiance in Miniature Crafted from natural clear quartz, these polished points radiate clarity. Their smooth surfaces enhance translucency, allowing light to dance within. Amplify Your Intentions: Clear quartz acts as an energetic amplifier, intensifying your energy and focus during meditation or energy work. Chakra Harmony: These luminous crystals harmonize all chakras, promoting balance and vitality. Dimensions: Approximately 4-5 cm in length. Hold them close—their gentle vibrations will guide you toward inner clarity. 15-20 Grams: A Bolder Glow A slightly larger version, perfect for energetic cleansing and versatile use. Whether placed on your desk, carried in your pocket, or incorporated into crystal grids, these points illuminate your path. Let the Clear Quartz Polished Points uplift your spirit and lead you toward clarity and purpose. Choose your weight, embrace the light, and let your journey unfold.
-  Updated: 2025-10-01T15:01:18Z
+  Updated: 2025-10-10T14:33:13Z
   Vendor: Crystals Healing
   Product Type: Polished Tumblestone
   Availability: Available
@@ -4752,8 +4752,8 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/20230505_104059-Photoroom_4_1_-min_3e9f873a-e451-4bdd-97fc-592b381968c2_2_1.jpg?v=1754661030
   Price: £0.99 GBP
-- [Crystal Elephant Figurine – Sacred Imperfections](https://crystalshealing.co.uk/products/crystal-elephant-figurine-sacred-imperfections): Crystal Elephant Figurines – Sacred Imperfections Edition Wisdom • Protection • Energetic Intentions A Symbol of Strength & Intuition These hand-carved elephant
-  Updated: 2025-10-01T15:01:23Z
+- [Crystal Elephant Figurine – Sacred Imperfections](https://crystalshealing.co.uk/products/crystal-elephant-figurine-sacred-imperfections): Crystal Elephant Figurines – Sacred Imperfections Edition Wisdom • Protection • Energetic Intentions A Symbol of Strength & Intuition These hand-carved elephant figurines are crafted from ethically sourced crystals, chosen for their unique energetic qualities.Each elephant is part of our Sacred Imperfections collection – meaning you may notice minor cosmetic flaws, surface marks, or inclusions.But rest assured: their spiritual integrity is untouched. In many traditions, elephants represent wisdom, stability, protection, and memory. These pocket-sized carvings are perfect for meditation, decor, or gifting with intention. Choose Your Crystal: Amethyst – Intuition • Calm • Dreamwork Supports the third eye and crown chakras. Perfect for spiritual connection, inner peace, and sleep rituals. Sodalite – Clarity • Truth • Communication Ideal for those seeking better self-expression, insight, and emotional balance. Tiger’s Eye – Courage • Protection • Grounding A powerful ally for confidence, decision-making, and emotional strength. Crazy Lace Agate – Joy • Stability • Vitality Known as the “Happy Lace”, this stone brings grounding with a playful twist – ideal for uplifting heavy energy. Crystal Elephant Figurine Details: Size: approx. 1.5" (L) × 0.8" (W) × 1" (H) Hand-carved from natural crystal Each piece is one-of-a-kind; expect natural variations Sold individually – choose your preferred stone Why Sacred Imperfections? Minor visual flaws, full spiritual power Helps reduce crystal waste from over-selection Lower cost, same energetic impact Final sale – we celebrate what’s perfectly imperfect Ideal For: Gifts with meaning & energy Altar decor or desk companions Pocket talismans Crystal healers & conscious collectors
+  Updated: 2025-10-10T05:20:51Z
   Vendor: Crystals Healing
   Product Type: 
   Availability: Available
@@ -4782,7 +4782,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
   Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/1437616106_9d5413d3-24c7-44f4-beb3-1774de5cb890.jpg?v=1754662350
   Price: £8.00 GBP
 - [Rose Quartz Massage Mushroom – Sacred Imperfections](https://crystalshealing.co.uk/products/rose-quartz-massage-mushroom-sacred-imperfections): Rose Quartz Massage Mushroom Tool – Sacred Imperfections Edition Facial Relaxation • Emotional Healing • Crystal Self-Care A self-care ritual rooted in imperfec
-  Updated: 2025-10-01T15:01:23Z
+  Updated: 2025-10-10T05:18:51Z
   Vendor: Crystals Healing
   Product Type: 
   Availability: Available
@@ -5253,6 +5253,9 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
     Updated: 2025-09-27T07:52:58Z
     Author: Crystal Healing UK – Ethical Energy Jewelry
     Tags: benefits of moonstone, crystal meanings, crystals, crystals for manifesting abundance, harnessing moonstone energy, healing, how to program crystals, manifestation stones, moonstone, moonstone meaning, moonstone properties
+  - [How to Program Your First Crystal Intention Ritual (Step-by-Step Guide)](https://crystalshealing.co.uk/blogs/crystals-tips/how-to-program-your-first-crystal-intention-ritual): How to Program Your First Crystal Intention Ritual (Step-by-Step Guide)
+    Updated: 2025-10-10T05:49:59Z
+    Author: Cristian Maxim
 
 ## Store Pages
 
@@ -5305,7 +5308,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
 - [HTML Sitemap for Easy Site Navigation](https://crystalshealing.co.uk/pages/html-sitemap): Products Crystals Kit Onyx Chakra Set Matte Aquamarine Bracelet Citrine and Amethyst Necklace Zodiac Crystals for Sagittarius Tigers Eye Leather Br...
   Updated: 2025-09-24T10:00:41Z
 - [Refer Friends. Get 10% Rewards | Crystals Healing](https://crystalshealing.co.uk/pages/affiliate-program): Refer Friends. Get Rewards – Exclusive Crystal Discounts (2025) We have retired our Affiliate Program and introduced a simpler, more rewarding way ...
-  Updated: 2025-09-25T14:46:20Z
+  Updated: 2025-10-10T04:40:41Z
 - [Your Privacy Choices (Opt-Out) | Crystals Healing](https://crystalshealing.co.uk/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2025-09-24T10:00:41Z
 
