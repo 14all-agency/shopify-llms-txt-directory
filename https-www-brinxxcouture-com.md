@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2025-10-09T20:00:48.176Z
+- Updated At: 2025-10-10T00:00:47.104Z
 
 ## Products
 
@@ -12275,7 +12275,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Sexy-Printed-Bodysuit-Brinxx-Couture-3828.jpg?v=1709869547
     Price: $16.99 USD
 - [Turtleneck Long Sleeve Bodysuit - Brinxx Couture](https://www.brinxxcouture.com/products/turtleneck-long-sleeve-bodysuit): This ultra-soft and stretchy bodysuit is designed to keep you comfortable all day long. Its stylish turtleneck and long sleeves make it perfect for a fashionable everyday look.
-  Updated: 2025-10-07T09:55:06Z
+  Updated: 2025-10-09T23:32:16Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -23430,7 +23430,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Notch-Lapel-Woven-Coat-with-Side-Pockets-Brinxx-Couture-2936.jpg?v=1730297108
     Price: $40.00 USD
 - [Cable-Knit Round Neck Sweater Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress): Wrap yourself in cozy comfort and timeless style with our Cable-Knit Round Neck Sweater Dress! Made from soft, high-quality materials.
-  Updated: 2025-10-09T18:30:46Z
+  Updated: 2025-10-09T23:30:47Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -25440,7 +25440,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Long-Faux-Fur-Overcoat-Brinxx-Couture-6449.jpg?v=1730299843
     Price: $89.99 USD
 - [Judy Blue Medium Rise Bootcut Jeans - Brinxx Couture](https://www.brinxxcouture.com/products/judy-blue-full-size-medium-rise-bootcut-jeans): Introducing the must-have item for stylish and comfortable everyday wear: Judy Blue Medium Rise Bootcut Jeans! Featuring a flattering medium rise and boot cut.
-  Updated: 2025-10-01T22:32:23Z
+  Updated: 2025-10-09T21:43:50Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
