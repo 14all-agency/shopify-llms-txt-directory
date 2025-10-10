@@ -10,7 +10,7 @@
 - Contact Email: hello@veryimportantpets.shop
 - Contact Phone: +442030044580
 - Address: 8 Lombard Road, Wimbledon, Greater London, SW19 3TZ
-- Updated At: 2025-10-10T00:01:13.273Z
+- Updated At: 2025-10-10T08:01:15.805Z
 
 ## Products
 
@@ -865,7 +865,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/kong-cozies-brights-soft-dog-toys-769357.jpg?v=1708415563
   Price: £9.07 GBP
 - [KONG Cozies Naturals](https://veryimportantpets.shop/products/kong-cozies-naturals-assorted): KONG Cozies Naturals are cute, soft and cuddly plush toys made with an extra layer of material so they’re extra tough. Shop online at Very Important Pets
-  Updated: 2025-10-02T13:28:05Z
+  Updated: 2025-10-10T07:21:50Z
   Vendor: Kong
   Product Type: Soft Dog Toys
   Availability: Available
@@ -1752,7 +1752,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/dog-stroller-rain-cover-cover-for-dog-pram-stroller-buggy-w-rear-side-entry-pet-stroller-815460.jpg?v=1700656812
   Price: £26.99 GBP
 - [Foldable Pet Pushchair with 4 Wheels, Cushion, Safety Leashes and Storage Bags, for Small and Medium Dogs](https://veryimportantpets.shop/products/foldable-pet-pushchair-with-4-wheels-cushion-safety-leashes-and-storage-bags-for-small-and-medium-dogs): A pet's day out should be smooth and comfortable and thanks to this PawHut dog stroller, it is. Shop online at Very Important Pets
-  Updated: 2025-10-09T23:30:40Z
+  Updated: 2025-10-10T07:30:41Z
   Vendor: PawHut
   Product Type: Pet Stroller
   Availability: Available
@@ -2389,7 +2389,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/pet-sofa-bed-puppy-kitten-lounger-with-wooden-frame-short-plush-cover-washable-cushion-for-small-dog-70-x-47-x-30-cm-718253.jpg?v=1700650671
   Price: £80.99 GBP
 - [Dog Sofa, with Wooden Legs, Water-Resistant Fabric, for Medium & Large Dogs](https://veryimportantpets.shop/products/dog-sofa-with-wooden-legs-water-resistant-fabric-for-medium-large-dogs): Don't want pets on your furniture? The ideal solution is to give them their own. Shop online at Very Important Pets
-  Updated: 2025-10-09T23:30:40Z
+  Updated: 2025-10-10T07:30:41Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
@@ -3286,7 +3286,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/70cm-height-cat-post-tree-scratching-barrel-sisal-activity-center-condo-kitten-bed-scratcher-climbing-climber-play-house-for-indoor-cats-458838.jpg?v=1700663357
   Price: £62.99 GBP
 - [Floor to Ceiling Cat Tree for Indoor Cats 5-Tier Kitty Tower Climbing Activity Center Scratching Post Adjustable Height 230-260 cm](https://veryimportantpets.shop/products/floor-to-ceiling-cat-tree-for-indoor-cats-5-tier-kitty-tower-climbing-activity-center-scratching-post-adjustable-height-230-260-cm): Give your kittens and cats the perfect place to rest, relax and play thanks to this cat play tower from PawHut. Shop online at Very Important Pets
-  Updated: 2025-10-09T15:30:40Z
+  Updated: 2025-10-10T07:30:36Z
   Vendor: PawHut
   Product Type: Scratching Tree
   Availability: Available
@@ -3560,7 +3560,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/f55-x-150h-cm-cat-tree-multi-level-kitten-tower-w-scratching-post-condo-plush-perches-grey-984200.jpg?v=1700645235
   Price: £62.99 GBP
 - [230-280cm Huge Cat Tower Ceiling High Multilevel Sisal Light Grey](https://veryimportantpets.shop/products/230-280cm-huge-cat-tower-ceiling-high-multilevel-sisal-light-grey): Give your cat their own floor-to-ceiling hideout with this climbing tree from PawHut. Shop online at Very Important Pets
-  Updated: 2025-10-09T07:30:33Z
+  Updated: 2025-10-10T07:30:36Z
   Vendor: PawHut
   Product Type: Scratching Tree
   Availability: Available
@@ -3700,7 +3700,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/cat-treadmill-wooden-cat-exercise-wheel-with-carpeted-runway-cat-running-wheel-with-brake-for-exercise-natural-wood-finish-715009.jpg?v=1700660726
   Price: £170.99 GBP
 - [Elevated Cat House, Kitten Bed, Pet Shelter, Wrapped with Scratcher, Soft Cushion, 41 x 38 x 43 cm, Khaki](https://veryimportantpets.shop/products/elevated-cat-house-kitten-bed-pet-shelter-wrapped-with-scratcher-soft-cushion-41-x-38-x-43-cm-khaki): Stimulate your cat's instincts in a fun and safe way with this cat shelter. Shop online at Very Important Pets
-  Updated: 2025-10-09T23:30:40Z
+  Updated: 2025-10-10T07:30:38Z
   Vendor: PawHut
   Product Type: Cat Baskets & Beds
   Availability: Available
@@ -4026,7 +4026,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/hooded-cat-litter-box-large-2-way-entry-deodorant-scoop-included-litter-box-297650.jpg?v=1700653976
   Price: £35.99 GBP
 - [Hooded Cat Litter Tray with Drawer, Scoop, and Deodorants](https://veryimportantpets.shop/products/hooded-cat-litter-tray-with-drawer-scoop-and-deodorants): An excellent piece, this PawHut litter box offers total privacy and comfort. Shop online at Very Important Pets
-  Updated: 2025-10-09T07:30:32Z
+  Updated: 2025-10-10T07:30:42Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
@@ -4639,7 +4639,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/3-tier-gerbil-hamster-cage-with-glass-bottom-785-x-485-x-57cm-small-animal-cage-562990.jpg?v=1700664659
   Price: £134.99 GBP
 - [Dog Pushchair for Small Miniature Dogs Cats Foldable Travel Carriage with Wheels Zipper Entry Cup Holder Storage Basket | Very Important Pets](https://veryimportantpets.shop/products/dog-pushchair-for-small-miniature-dogs-cats-foldable-zipper-entry-cup-holder-storage-basket): Discover the convenience of our modern pet stroller, perfect for transporting your small dog or cat in comfort. With a solid steel frame, durable Oxford cloth, and multiple safety features like brakes and a safety leash, it is designed for the well-being of elderly or ailing pets. Easily foldable for storage.
-  Updated: 2025-10-09T23:30:41Z
+  Updated: 2025-10-10T07:30:36Z
   Vendor: PawHut
   Product Type: Pet Stroller
   Availability: Available
@@ -16089,7 +16089,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/natures-menu-for-cats-adult-multipack-tins-4x-12x85g-adult-cat-wet-957125.png?v=1702499504
   Price: £50.75 GBP
 - [Natures Menu Original Chicken Can for Kittens - 18 x 85g](https://veryimportantpets.shop/products/natures-menu-for-cats-kitten-chicken-tins-18-x-85g): Give your kitten a nutritious start with Natures Menu Original Chicken Can. Made with 70% chicken for healthy development. Premium, natural, and tasty.
-  Updated: 2025-10-09T19:59:05Z
+  Updated: 2025-10-10T07:45:24Z
   Vendor: Natures Menu
   Product Type: Kitten Wet Food
   Availability: Available
