@@ -6,7 +6,7 @@
 - Timezone: Europe/Lisbon
 - Created At: 2025-05-17T15:34:30Z
 - Contact Email: yoursportspt.store@gmail.com
-- Updated At: 2025-10-10T00:00:28.630Z
+- Updated At: 2025-10-10T08:00:30.398Z
 
 YourSportsPT is a Portuguese online fitness equipment store dedicated to home workout solutions. We specialize in quality fitness gear including yoga mats, resistance bands, foam rollers, balance balls, and professional exercise equipment. With affordable prices, fast shipping across Portugal and Europe, and dedicated Portuguese customer support, we help fitness enthusiasts achieve their goals from the comfort of their homes.
 
@@ -711,7 +711,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Image: https://cdn.shopify.com/s/files/1/0962/2231/4760/files/S579e5e19814048dd907050ecaf84c96ff.webp?v=1759939662
     Price: €14.99 EUR
 - [Arnês Treino Pescoço - Fortalecimento Muscular Cervical | YourSportsPT](https://yoursportspt.com/products/head-neck-training-head-harness-weight-bearing-cap-body-strengh-adjustable-exercise-strap-neck-muscle-power-training-gym-fitness): Arnês ajustável para treino de pescoço. Fortalece músculos cervicais, melhora postura e previne lesões. Ideal para bodybuilding e fitness. Material durável e confortável.
-  Updated: 2025-10-09T18:25:00Z
+  Updated: 2025-10-10T06:17:13Z
   Vendor: YourSportsPT
   Product Type: Equipamento de Treino
   Availability: Available
@@ -733,7 +733,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Image: https://cdn.shopify.com/s/files/1/0962/2231/4760/files/S63ac48e392be46bab65385c306e7ab8fi.webp?v=1760033826
     Price: €25.99 EUR
 - [Protetor Ombros Barra Agachamentos - Almofada Antiderrapante | YourSportsPT](https://yoursportspt.com/products/non-slip-barbell-shoulder-pads-gym-fitness-thickened-weightlifting-squat-strength-workout-dumbbel-neck-support-protection-pad): Protetor de ombros para barra com almofada NBR de alta densidade. Design ergonómico 3D, antiderrapante e confortável. Ideal para agachamentos e levantamento de peso. 42cm.
-  Updated: 2025-10-09T18:34:57Z
+  Updated: 2025-10-10T06:28:32Z
   Vendor: YourSportsPT
   Product Type: Acessórios de Treino
   Availability: Available
@@ -755,7 +755,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Image: https://cdn.shopify.com/s/files/1/0962/2231/4760/files/S05b9257c1de6430b893c8c304dc22d42B.webp?v=1760034505
     Price: €12.99 EUR
 - [Correia Tornozelo Ajustável D-Ring - Treino Pernas e Glúteos | YourSportsPT](https://yoursportspt.com/products/1pc-adjustable-ankle-support-strap-with-d-ring-buckle-comfortable-pu-material-suitable-for-gym-fitness-muscle-training-and-leg-stretching-available-in-purple-blue-black-pink-green-gym-accessories): Correia de tornozelo ajustável com fivela D-Ring. Material PU confortável e durável. Ideal para treino de glúteos, pernas e exercícios de cabo. Velcro ajustável. 172g.
-  Updated: 2025-10-09T18:43:55Z
+  Updated: 2025-10-10T06:36:57Z
   Vendor: YourSportsPT
   Product Type: Acessórios de Treino
   Availability: Available
