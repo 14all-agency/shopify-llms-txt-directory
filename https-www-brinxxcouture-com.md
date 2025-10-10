@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2025-10-10T00:00:47.104Z
+- Updated At: 2025-10-10T04:00:48.643Z
 
 ## Products
 
@@ -23430,7 +23430,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Notch-Lapel-Woven-Coat-with-Side-Pockets-Brinxx-Couture-2936.jpg?v=1730297108
     Price: $40.00 USD
 - [Cable-Knit Round Neck Sweater Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress): Wrap yourself in cozy comfort and timeless style with our Cable-Knit Round Neck Sweater Dress! Made from soft, high-quality materials.
-  Updated: 2025-10-09T23:30:47Z
+  Updated: 2025-10-10T03:50:45Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -26090,7 +26090,7 @@
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/18K-Gold-Plated-Stainless-Steel-Stud-Earring-Brinxx-Couture-9396.jpg?v=1733888456
   Price: $15.00 USD
 - [Velvet Button Up Long Sleeve Shirt - Brinxx Couture](https://www.brinxxcouture.com/products/button-up-long-sleeve-shirt): Discover the versatility and style of our Velvet Button Up Long Sleeve Shirt! With its classic design and comfortable fit, this shirt is perfect for any occasion.
-  Updated: 2025-10-09T08:41:30Z
+  Updated: 2025-10-10T03:40:35Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -27772,48 +27772,6 @@
   - [Black / 2XL](https://www.brinxxcouture.com/products/built-in-shapewear-maxi-dress?variant=43591058849974)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Built-In-Shapewear-Maxi-Dress-Brinxx-Couture-3749.jpg?v=1733888612
-    Price: $59.99 USD
-- [Brinxx Couture: Two Tone Sexy Track Suit for Chic Comfort](https://www.brinxxcouture.com/products/two-tone-sexy-track-suit): Discover the Two Tone Sexy Track Suit at Brinxx Couture. This stylish and comfortable outfit is perfect for workouts or casual outings. Elevate your look today!
-  Updated: 2025-07-07T20:59:47Z
-  Vendor: Brinxx Couture
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Two-Tone-Sexy-Track-Suit-Brinxx-Couture-2681.jpg?v=1733888684
-  - [S / Black and White Contrast](https://www.brinxxcouture.com/products/two-tone-sexy-track-suit?variant=43614530142390)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Two-Tone-Sexy-Track-Suit-Brinxx-Couture-4151.jpg?v=1733888688
-    Price: $59.99 USD
-  - [M / Black and White Contrast](https://www.brinxxcouture.com/products/two-tone-sexy-track-suit?variant=43614530175158)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Two-Tone-Sexy-Track-Suit-Brinxx-Couture-3581.jpg?v=1733888686
-    Price: $59.99 USD
-  - [L / Black and White Contrast](https://www.brinxxcouture.com/products/two-tone-sexy-track-suit?variant=43614530207926)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Two-Tone-Sexy-Track-Suit-Brinxx-Couture-3581.jpg?v=1733888686
-    Price: $59.99 USD
-  - [S / Green](https://www.brinxxcouture.com/products/two-tone-sexy-track-suit?variant=43614530240694)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Two-Tone-Sexy-Track-Suit-Brinxx-Couture-2681.jpg?v=1733888684
-    Price: $59.99 USD
-  - [M / Green](https://www.brinxxcouture.com/products/two-tone-sexy-track-suit?variant=43614530273462)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Two-Tone-Sexy-Track-Suit-Brinxx-Couture-2681.jpg?v=1733888684
-    Price: $59.99 USD
-  - [L / Green](https://www.brinxxcouture.com/products/two-tone-sexy-track-suit?variant=43614530306230)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Two-Tone-Sexy-Track-Suit-Brinxx-Couture-2681.jpg?v=1733888684
-    Price: $59.99 USD
-  - [S / Red](https://www.brinxxcouture.com/products/two-tone-sexy-track-suit?variant=43614530338998)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Two-Tone-Sexy-Track-Suit-Brinxx-Couture-484.jpg?v=1733888694
-    Price: $59.99 USD
-  - [M / Red](https://www.brinxxcouture.com/products/two-tone-sexy-track-suit?variant=43614530371766)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Two-Tone-Sexy-Track-Suit-Brinxx-Couture-484.jpg?v=1733888694
-    Price: $59.99 USD
-  - [L / Red](https://www.brinxxcouture.com/products/two-tone-sexy-track-suit?variant=43614530404534)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Two-Tone-Sexy-Track-Suit-Brinxx-Couture-484.jpg?v=1733888694
     Price: $59.99 USD
 - [Brinxx Couture: Color Block Slim Fit Contrast Set](https://www.brinxxcouture.com/products/color-block-slim-fit-contrast-set): Discover the Color Block Slim Fit Contrast Set at Brinxx Couture. This stylish ensemble offers a flattering fit and vibrant design, perfect for any occasion.
   Updated: 2025-10-07T18:12:48Z
@@ -30474,7 +30432,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01di0lBq27GiGwMwVP4__1060617770-0-cib.jpg?v=1738263933
     Price: $99.99 USD
 - [Sequin Sling Prom Dress - Brinxx Couture](https://www.brinxxcouture.com/products/sequin-sling-prom-dress): Upgrade your prom look with our Sequin Sling Prom Dress. Featuring stunning sequin detail and flattering sling design, this dress is sure to make you stand out.
-  Updated: 2025-09-04T19:41:38Z
+  Updated: 2025-10-10T01:50:10Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -30496,7 +30454,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01CGeZYv2EYlCqPDH0t__2216023388757-0-cib.jpg?v=1738263933
     Price: $49.99 USD
   - [2XL / Red](https://www.brinxxcouture.com/products/sequin-sling-prom-dress?variant=43755439521974)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01CGeZYv2EYlCqPDH0t__2216023388757-0-cib.jpg?v=1738263933
     Price: $49.99 USD
   - [S / Blue](https://www.brinxxcouture.com/products/sequin-sling-prom-dress?variant=43755439554742)
@@ -30516,7 +30474,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01GUSQsb2EYlChPBFvA__2216023388757-0-cib.jpg?v=1738263934
     Price: $49.99 USD
   - [2XL / Blue](https://www.brinxxcouture.com/products/sequin-sling-prom-dress?variant=43755439685814)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01GUSQsb2EYlChPBFvA__2216023388757-0-cib.jpg?v=1738263934
     Price: $49.99 USD
   - [S / Navy Blue](https://www.brinxxcouture.com/products/sequin-sling-prom-dress?variant=43755439718582)
@@ -30556,7 +30514,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01qZoNSr2EYlCrDBriN__2216023388757-0-cib.jpg?v=1738263934
     Price: $49.99 USD
   - [2XL / Khaki](https://www.brinxxcouture.com/products/sequin-sling-prom-dress?variant=43755440013494)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01qZoNSr2EYlCrDBriN__2216023388757-0-cib.jpg?v=1738263934
     Price: $49.99 USD
 - [Tulle Embroidered Sequin Mermaid Prom Dress - Brinxx Couture](https://www.brinxxcouture.com/products/tulle-embroidered-sequin-mermaid-prom-dress): Crafted from tulle and intricate embroidery and shimmering sequins, our Tulle Embroidered Sequin Mermaid Prom Dress will make you feel like a true princess.
@@ -36523,7 +36481,7 @@
   Updated: 2025-10-02T17:11:54Z
   Total Products: 14
 - [Stylish Co-ord Sets & One-Piece Outfits - Brinxx Couture](https://www.brinxxcouture.com/collections/womens-coord-sets): Discover Brinxx Couture's collection of trendy co-ord sets and chic one-piece outfits. Shop now for stylish, coordinated looks perfect for any occasion.
-  Updated: 2025-10-09T06:25:39Z
+  Updated: 2025-10-10T02:34:32Z
   Total Products: 59
 - [Plus Size Clothing | Stylish Dresses, Tops & More | Brinxx Couture](https://www.brinxxcouture.com/collections/plus-size-clothing-for-women): Discover flattering plus size clothing at Brinxx Couture. We offer trendy styles for all sizes. Shop dresses, tops, pants & more. Free shipping!
   Updated: 2025-10-03T14:53:47Z
@@ -36607,7 +36565,7 @@
   Updated: 2025-10-02T17:11:55Z
   Total Products: 3
 - [New Arrivals | Latest Fashion, Jewelry & Accessories Online](https://www.brinxxcouture.com/collections/new-arrivals-fashion-jewelry-accessories): Shop the latest fashion, jewelry, and accessories in our New Arrivals collection. Fresh styles added weekly. Discover trending pieces before they sell out.
-  Updated: 2025-10-03T14:53:47Z
+  Updated: 2025-10-10T02:34:32Z
   Total Products: 93
 - [Best Sellers in Women’s Clothing | Trendy & Stylish Outfits](https://www.brinxxcouture.com/collections/best-sellers): Discover the best sellers in women’s clothing at our store. Shop trendy, stylish outfits perfect for every occasion. Free shipping on best sellers!
   Updated: 2025-10-02T17:11:55Z
