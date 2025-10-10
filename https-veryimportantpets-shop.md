@@ -10,7 +10,7 @@
 - Contact Email: hello@veryimportantpets.shop
 - Contact Phone: +442030044580
 - Address: 8 Lombard Road, Wimbledon, Greater London, SW19 3TZ
-- Updated At: 2025-10-09T20:01:16.363Z
+- Updated At: 2025-10-10T00:01:13.273Z
 
 ## Products
 
@@ -1633,7 +1633,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/foldable-pet-carrier-with-cushion-for-small-dogs-and-cats-khaki-pet-carrier-533818.jpg?v=1700655031
   Price: £62.99 GBP
 - [48.5cm Pet Carrier, with Cushion, for Miniature Dogs](https://veryimportantpets.shop/products/compact-48-5cm-pet-carrier-for-miniature-dogs-with-cushion): Transport and comfort your pet with ease using our versatile fabric dog crate. Featuring a removable steel tube frame for compact storage, a washable soft cushion, and three doors with mesh windows for ventilation. This portable pet haven doubles as a cosy lounge at home and comes with a handy storage bag.
-  Updated: 2025-10-08T23:30:25Z
+  Updated: 2025-10-09T23:30:41Z
   Vendor: PawHut
   Product Type: Pet Carrier
   Availability: Available
@@ -1752,7 +1752,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/dog-stroller-rain-cover-cover-for-dog-pram-stroller-buggy-w-rear-side-entry-pet-stroller-815460.jpg?v=1700656812
   Price: £26.99 GBP
 - [Foldable Pet Pushchair with 4 Wheels, Cushion, Safety Leashes and Storage Bags, for Small and Medium Dogs](https://veryimportantpets.shop/products/foldable-pet-pushchair-with-4-wheels-cushion-safety-leashes-and-storage-bags-for-small-and-medium-dogs): A pet's day out should be smooth and comfortable and thanks to this PawHut dog stroller, it is. Shop online at Very Important Pets
-  Updated: 2025-10-08T23:30:25Z
+  Updated: 2025-10-09T23:30:40Z
   Vendor: PawHut
   Product Type: Pet Stroller
   Availability: Available
@@ -2138,7 +2138,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/dog-cage-side-table-with-cushion-for-small-and-medium-dogs-dog-crate-628148.jpg?v=1700657541
   Price: £116.99 GBP
 - [2-in-1 Dog Cage & Side Table, with Two Doors, Cushion, for Large Dogs](https://veryimportantpets.shop/products/2-in-1-dog-cage-side-table-with-two-doors-cushion-for-large-dogs): A PawHut dog cage where everyone benefits – pets have a safe and comfortable space to relax whilst you have a stylish tabletop to display your favourite pieces. Shop online at Very Important Pets
-  Updated: 2025-10-05T23:30:47Z
+  Updated: 2025-10-09T23:30:40Z
   Vendor: PawHut
   Product Type: Dog Crate
   Availability: Available
@@ -2184,7 +2184,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/dual-use-dog-crate-end-table-with-cushion-mediumlarge-dogs-two-colours-dog-crate-grey-834587.jpg?v=1700656456
     Price: £116.99 GBP
 - [Dual-Use Large Dog Crate with Cushion - Grey, 106x74x81.5cm](https://veryimportantpets.shop/products/dual-use-large-dog-crate-with-cushion-grey-106x74x81-5cm): This PawHut dog cage, fused with a side table, is perfect for when you need pets to stay put. Shop online at Very Important Pets
-  Updated: 2025-10-08T07:30:47Z
+  Updated: 2025-10-09T23:30:40Z
   Vendor: PawHut
   Product Type: Dog Crate
   Availability: Available
@@ -2361,7 +2361,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/dog-sofa-for-xs-and-s-size-dogs-pet-chair-bed-with-soft-cushion-cat-sofa-couch-with-washable-cover-wooden-frame-835153.jpg?v=1700657244
   Price: £53.99 GBP
 - [Dog Sofa, Pet Couch Bed for Medium, Large Dogs, with Legs, Cushion](https://veryimportantpets.shop/products/dog-sofa-pet-couch-bed-for-medium-large-dogs-with-legs-cushion): Don't want pets on your sofa? Then why not give them their own. Shop online at Very Important Pets
-  Updated: 2025-10-07T23:30:46Z
+  Updated: 2025-10-09T23:30:40Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
@@ -2389,7 +2389,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/pet-sofa-bed-puppy-kitten-lounger-with-wooden-frame-short-plush-cover-washable-cushion-for-small-dog-70-x-47-x-30-cm-718253.jpg?v=1700650671
   Price: £80.99 GBP
 - [Dog Sofa, with Wooden Legs, Water-Resistant Fabric, for Medium & Large Dogs](https://veryimportantpets.shop/products/dog-sofa-with-wooden-legs-water-resistant-fabric-for-medium-large-dogs): Don't want pets on your furniture? The ideal solution is to give them their own. Shop online at Very Important Pets
-  Updated: 2025-10-08T15:30:26Z
+  Updated: 2025-10-09T23:30:40Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
@@ -2557,7 +2557,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/adjustable-wooden-pet-gate-freestanding-dog-barrier-fence-doorway-3-panels-safety-gate-w-lockable-door-296121.jpg?v=1700662287
   Price: £62.99 GBP
 - [Freestanding Pet Gate 4 Panel Wooden Dog Barrier Folding Safety Fence with Support Feet up to 204cm Long 61cm Tall for Doorway Stairs](https://veryimportantpets.shop/products/freestanding-pet-gate-4-panel-wooden-dog-barrier-folding-safety-fence-with-support-feet-up-to-204cm-long-61cm-tall-for-doorway-stairs): This PawHut dog gate for doorway will safely and effectively limit the range of your pet's activities. Shop online at Very Important Pets
-  Updated: 2025-10-09T15:30:40Z
+  Updated: 2025-10-09T23:30:41Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
@@ -3346,7 +3346,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/2-floor-outdoor-cat-house-solid-wood-wheels-59x55x109cm-outdoor-cat-house-618917.jpg?v=1700665801
   Price: £107.99 GBP
 - [Dual-Level Wooden Cat House, Outdoor-Ready with Asphalt Roof](https://veryimportantpets.shop/products/dual-level-wooden-cat-house-outdoor-ready-with-asphalt-roof): All cats are sure to enjoy this PawHut outdoor cat house. Shop online at Very Important Pets
-  Updated: 2025-10-08T15:30:29Z
+  Updated: 2025-10-09T23:30:41Z
   Vendor: PawHut
   Product Type: 
   Availability: Available
@@ -3388,7 +3388,7 @@
     Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/corner-cat-tree-for-indoor-cats-kitten-tower-with-scratching-post-house-ladder-toy-beige-877431.jpg?v=1700658429
     Price: £35.99 GBP
 - [Mult Level Cat Tree for Indoor Cats with Scratching Post Bed Condo Perch, Kitten Climbing Tower](https://veryimportantpets.shop/products/mult-level-cat-tree-for-indoor-cats-with-scratching-post-bed-condo-perch-kitten-climbing-tower): Never leave your cat bored alone again with this PawHut cat tree. Shop online at Very Important Pets
-  Updated: 2025-10-03T23:30:45Z
+  Updated: 2025-10-09T23:30:40Z
   Vendor: PawHut
   Product Type: Scratching Tree
   Availability: Available
@@ -3476,7 +3476,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/130cm-cat-tree-for-indoor-cats-multi-level-plush-cat-tower-with-five-scratching-posts-two-perches-cat-house-hammock-583588.jpg?v=1700666596
   Price: £53.99 GBP
 - [121cm Cat Tree Tower for Indoor Cats Kitten Activity Centre Scratching Post with Bed Tunnel Perch Interactive Ball Toy](https://veryimportantpets.shop/products/121cm-cat-tree-tower-for-indoor-cats-kitten-activity-centre-scratching-post-with-bed-tunnel-perch-interactive-ball-toy): A go-to spot for playing, relaxing, or satisfying the urge to scratch and climb with this cat tree for indoor cats from PawHut. Shop online at Very Important Pets
-  Updated: 2025-10-01T15:30:37Z
+  Updated: 2025-10-09T23:30:40Z
   Vendor: PawHut
   Product Type: Scratching Tree
   Availability: Available
@@ -3700,7 +3700,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/cat-treadmill-wooden-cat-exercise-wheel-with-carpeted-runway-cat-running-wheel-with-brake-for-exercise-natural-wood-finish-715009.jpg?v=1700660726
   Price: £170.99 GBP
 - [Elevated Cat House, Kitten Bed, Pet Shelter, Wrapped with Scratcher, Soft Cushion, 41 x 38 x 43 cm, Khaki](https://veryimportantpets.shop/products/elevated-cat-house-kitten-bed-pet-shelter-wrapped-with-scratcher-soft-cushion-41-x-38-x-43-cm-khaki): Stimulate your cat's instincts in a fun and safe way with this cat shelter. Shop online at Very Important Pets
-  Updated: 2025-10-09T15:30:40Z
+  Updated: 2025-10-09T23:30:40Z
   Vendor: PawHut
   Product Type: Cat Baskets & Beds
   Availability: Available
@@ -3749,7 +3749,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/cat-tree-with-sisal-wrapped-scratching-post-cream-864926.jpg?v=1700659402
   Price: £35.99 GBP
 - [Cat Tree Tower with Scratching Posts, Pad, Bed, Toy Ball-Dark Grey](https://veryimportantpets.shop/products/cat-tree-tower-with-scratching-posts-pad-bed-toy-ball-dark-grey): Give your cat a safe place to play with this cat tree from PawHut! This cat tree for indoor cats features sisal rope poles and hanging balls for added fun. Shop online at Very Important Pets
-  Updated: 2025-10-05T15:30:53Z
+  Updated: 2025-10-09T23:30:41Z
   Vendor: PawHut
   Product Type: Scratching Tree
   Availability: Available
@@ -4166,7 +4166,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/four-tier-wooden-hamster-cage-60l-x-40w-x-120h-cm-small-animal-cage-709145.jpg?v=1700654552
   Price: £89.99 GBP
 - [2 Tiers Rabbit Hutch and Run Wooden Guinea Pig Hutch Outdoor with Sliding Tray, Ramp, 122 x 62.6 x 92cm](https://veryimportantpets.shop/products/2-tiers-rabbit-hutch-and-run-wooden-guinea-pig-hutch-outdoor-with-sliding-tray-ramp-122-x-62-6-x-92cm): The ideal home for small pets – this PawHut rabbit hutch with run provides space and comfort. Shop online at Very Important Pets
-  Updated: 2025-09-26T15:31:06Z
+  Updated: 2025-10-09T23:30:40Z
   Vendor: PawHut
   Product Type: Rabbit Hutch
   Availability: Available
@@ -4394,7 +4394,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/wood-metal-rabbit-hutch-guinea-pig-hutch-elevated-pet-house-bunny-cage-with-slide-out-tray-openable-roof-outdoor-895-x-45-x-81cm-light-yellow-936892.jpg?v=1700646277
   Price: £98.99 GBP
 - [Wooden Metal Rabbit Hutch Guinea Pig Hutch Bunny Cage Pet House Bunny w/ Slide-Out Tray Outdoor Light Yellow,black](https://veryimportantpets.shop/products/wooden-metal-rabbit-hutch-guinea-pig-hutch-bunny-cage-pet-house-bunny-w-slide-out-tray-outdoor-light-yellow-black): Give your furry friend a comfortable living space from PawHut. Shop online at Very Important Pets
-  Updated: 2025-10-08T23:30:25Z
+  Updated: 2025-10-09T23:30:40Z
   Vendor: PawHut
   Product Type: Rabbit Hutch
   Availability: Available
@@ -4639,7 +4639,7 @@
   Image: https://cdn.shopify.com/s/files/1/0773/6370/8194/products/3-tier-gerbil-hamster-cage-with-glass-bottom-785-x-485-x-57cm-small-animal-cage-562990.jpg?v=1700664659
   Price: £134.99 GBP
 - [Dog Pushchair for Small Miniature Dogs Cats Foldable Travel Carriage with Wheels Zipper Entry Cup Holder Storage Basket | Very Important Pets](https://veryimportantpets.shop/products/dog-pushchair-for-small-miniature-dogs-cats-foldable-zipper-entry-cup-holder-storage-basket): Discover the convenience of our modern pet stroller, perfect for transporting your small dog or cat in comfort. With a solid steel frame, durable Oxford cloth, and multiple safety features like brakes and a safety leash, it is designed for the well-being of elderly or ailing pets. Easily foldable for storage.
-  Updated: 2025-10-09T07:30:33Z
+  Updated: 2025-10-09T23:30:41Z
   Vendor: PawHut
   Product Type: Pet Stroller
   Availability: Available
@@ -24147,7 +24147,7 @@ Omega-6 & 3 for skin.
   Updated: 2025-10-02T18:55:19Z
   Total Products: 69
 - [Adult Wet Cat Food - Tasty & Nutritious Selection](https://veryimportantpets.shop/collections/wet-cat-food): Indulge your adult cat with our wet food range from Applaws, Felix and more at Very Important Pets. Delicious, hydrating meals for every feline taste.
-  Updated: 2025-10-06T11:37:49Z
+  Updated: 2025-10-09T20:51:33Z
   Total Products: 185
 - [Grain-Free Cat Food - Wet & Dry Options | Very Important Pets](https://veryimportantpets.shop/collections/grain-free-cat-food): Discover our Grain-Free Cat Food range at Very Important Pets, featuring top brands for sensitive cats. Shop nutritious wet and dry options for a healthy diet.
   Updated: 2025-10-05T11:32:41Z
@@ -24399,7 +24399,7 @@ Omega-6 & 3 for skin.
   Updated: 2025-10-04T21:07:04Z
   Total Products: 74
 - [Natures Menu: Wholesome Pet Meals | Shop Online](https://veryimportantpets.shop/collections/natures-menu): Treat pets to Natures Menu at Very Important Pets: vet-approved, human-grade meat, fresh produce for a balanced diet. Supports health and well-being.
-  Updated: 2025-10-09T19:59:06Z
+  Updated: 2025-10-09T20:51:33Z
   Total Products: 46
 - [Naturo Pet Foods: Purely Natural | Very Important Pets | Shop](https://veryimportantpets.shop/collections/naturo): Choose Naturo at Very Important Pets for natural, locally sourced pet nutrition. Rich in meat, free from additives for your dog's and cat's balanced diet.
   Updated: 2025-10-08T11:36:34Z
