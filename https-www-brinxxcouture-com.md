@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2025-10-10T04:00:48.643Z
+- Updated At: 2025-10-10T08:00:48.526Z
 
 ## Products
 
@@ -561,7 +561,7 @@
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Long-Straight-Synthetic-Wig-26-Brinxx-Couture-3851.jpg?v=1739988465
   Price: $33.00 USD
 - [Puff Sleeve Shawl Collar Blazer - Brinxx Couture](https://www.brinxxcouture.com/products/puff-sleeve-shawl-collar-blazer): Add a fun twist to your wardrobe with this Puff Sleeve Shawl Collar Blazer. Its dramatic puff sleeves bring a bold, playful energy, with a elegant shawl collar.
-  Updated: 2025-10-02T17:11:56Z
+  Updated: 2025-10-10T07:40:50Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -8460,7 +8460,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/High-Neck-Long-Sleeve-Ribbed-Top-Brinxx-Couture-6079_ae99505f-4811-4797-bf89-89c3a0f73de1.jpg?v=1736050169
     Price: $25.00 USD
 - [Distressed Raw Hem Denim Jacket - Brinxx Couture](https://www.brinxxcouture.com/products/distressed-raw-hem-denim-jacket): This distressed raw hem denim jacket is the perfect way to make a statement. With its distressed raw hem design, you'll look cool and effortless.
-  Updated: 2025-10-09T10:10:46Z
+  Updated: 2025-10-10T04:12:55Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -23430,7 +23430,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Notch-Lapel-Woven-Coat-with-Side-Pockets-Brinxx-Couture-2936.jpg?v=1730297108
     Price: $40.00 USD
 - [Cable-Knit Round Neck Sweater Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress): Wrap yourself in cozy comfort and timeless style with our Cable-Knit Round Neck Sweater Dress! Made from soft, high-quality materials.
-  Updated: 2025-10-10T03:50:45Z
+  Updated: 2025-10-10T07:40:50Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -26090,7 +26090,7 @@
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/18K-Gold-Plated-Stainless-Steel-Stud-Earring-Brinxx-Couture-9396.jpg?v=1733888456
   Price: $15.00 USD
 - [Velvet Button Up Long Sleeve Shirt - Brinxx Couture](https://www.brinxxcouture.com/products/button-up-long-sleeve-shirt): Discover the versatility and style of our Velvet Button Up Long Sleeve Shirt! With its classic design and comfortable fit, this shirt is perfect for any occasion.
-  Updated: 2025-10-10T03:40:35Z
+  Updated: 2025-10-10T08:00:35Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -34177,7 +34177,7 @@
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/WH2002222.jpg?v=1747426418
   Price: $89.99 USD
 - [V-Back Bow Tie Denim Dress - Brinxx Couture](https://www.brinxxcouture.com/products/v-back-bow-tie-denim-dress): Elevate your style with our V-Back Bow Tie Denim Dress. This flattering silhouette features a charming bow-tie detail at the back, creating a vintage twist.
-  Updated: 2025-10-09T12:11:26Z
+  Updated: 2025-10-10T07:21:30Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -34203,7 +34203,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/3e33a05d-3a90-4961-85d6-82cfb51ff58e-Max-Origin.webp?v=1747681659
     Price: $64.99 USD
   - [Navy / M](https://www.brinxxcouture.com/products/v-back-bow-tie-denim-dress?variant=43998614290614)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/3e33a05d-3a90-4961-85d6-82cfb51ff58e-Max-Origin.webp?v=1747681659
     Price: $64.99 USD
   - [Navy / L](https://www.brinxxcouture.com/products/v-back-bow-tie-denim-dress?variant=43998614323382)
@@ -34305,7 +34305,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01jDARLA1sX0KLUgUBa__2213265065775-0-cib.jpg?v=1747685292
     Price: $29.99 USD
 - [Ribbed Wrap Midi Dress with Side Slit - Brinxx Couture](https://www.brinxxcouture.com/products/ribbed-wrap-midi-dress-with-side-slit): Elevate your wardrobe with the Ribbed Wrap Midi Dress featuring a flattering side slit. Its ribbed texture adds subtle sophistication, the wrap design accentuates
-  Updated: 2025-10-08T11:50:25Z
+  Updated: 2025-10-10T04:33:15Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
