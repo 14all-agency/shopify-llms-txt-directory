@@ -6,7 +6,7 @@
 - Timezone: Asia/Kuala_Lumpur
 - Created At: 2022-10-06T05:47:12Z
 - Contact Email: sales@bath2u.com
-- Updated At: 2025-10-09T16:00:31.658Z
+- Updated At: 2025-10-10T00:00:34.004Z
 
 ## Products
 
