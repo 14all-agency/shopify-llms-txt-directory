@@ -6,7 +6,7 @@
 - Timezone: Europe/Lisbon
 - Created At: 2025-05-17T15:34:30Z
 - Contact Email: yoursportspt.store@gmail.com
-- Updated At: 2025-10-09T12:00:30.747Z
+- Updated At: 2025-10-10T00:00:28.630Z
 
 YourSportsPT is a Portuguese online fitness equipment store dedicated to home workout solutions. We specialize in quality fitness gear including yoga mats, resistance bands, foam rollers, balance balls, and professional exercise equipment. With affordable prices, fast shipping across Portugal and Europe, and dedicated Portuguese customer support, we help fitness enthusiasts achieve their goals from the comfort of their homes.
 
@@ -710,6 +710,72 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/2231/4760/files/S579e5e19814048dd907050ecaf84c96ff.webp?v=1759939662
     Price: €14.99 EUR
+- [Arnês Treino Pescoço - Fortalecimento Muscular Cervical | YourSportsPT](https://yoursportspt.com/products/head-neck-training-head-harness-weight-bearing-cap-body-strengh-adjustable-exercise-strap-neck-muscle-power-training-gym-fitness): Arnês ajustável para treino de pescoço. Fortalece músculos cervicais, melhora postura e previne lesões. Ideal para bodybuilding e fitness. Material durável e confortável.
+  Updated: 2025-10-09T18:25:00Z
+  Vendor: YourSportsPT
+  Product Type: Equipamento de Treino
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0962/2231/4760/files/S79bff27b2f6140aa97bedd1814cc7f95D.webp?v=1760034269
+  - [Black 01](https://yoursportspt.com/products/head-neck-training-head-harness-weight-bearing-cap-body-strengh-adjustable-exercise-strap-neck-muscle-power-training-gym-fitness?variant=52590535344392)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/2231/4760/files/S119843a50fad48fab93a21fd05ede273T.webp?v=1760033827
+    Price: €25.99 EUR
+  - [Black 02](https://yoursportspt.com/products/head-neck-training-head-harness-weight-bearing-cap-body-strengh-adjustable-exercise-strap-neck-muscle-power-training-gym-fitness?variant=52590535377160)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/2231/4760/files/S2a70e965eecf48b7a9a048d4da52f8c45.webp?v=1760033827
+    Price: €25.99 EUR
+  - [Black 03](https://yoursportspt.com/products/head-neck-training-head-harness-weight-bearing-cap-body-strengh-adjustable-exercise-strap-neck-muscle-power-training-gym-fitness?variant=52590535409928)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/2231/4760/files/Sae45e4d3f604438a80eee49d2a1ed4d9R.webp?v=1760033826
+    Price: €25.99 EUR
+  - [Black Blue](https://yoursportspt.com/products/head-neck-training-head-harness-weight-bearing-cap-body-strengh-adjustable-exercise-strap-neck-muscle-power-training-gym-fitness?variant=52590535442696)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/2231/4760/files/S63ac48e392be46bab65385c306e7ab8fi.webp?v=1760033826
+    Price: €25.99 EUR
+- [Protetor Ombros Barra Agachamentos - Almofada Antiderrapante | YourSportsPT](https://yoursportspt.com/products/non-slip-barbell-shoulder-pads-gym-fitness-thickened-weightlifting-squat-strength-workout-dumbbel-neck-support-protection-pad): Protetor de ombros para barra com almofada NBR de alta densidade. Design ergonómico 3D, antiderrapante e confortável. Ideal para agachamentos e levantamento de peso. 42cm.
+  Updated: 2025-10-09T18:34:57Z
+  Vendor: YourSportsPT
+  Product Type: Acessórios de Treino
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0962/2231/4760/files/Sb469fcc341364e228a51b46f861a3ab4x.webp?v=1760034752
+  - [Purple](https://yoursportspt.com/products/non-slip-barbell-shoulder-pads-gym-fitness-thickened-weightlifting-squat-strength-workout-dumbbel-neck-support-protection-pad?variant=52590595539208)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0962/2231/4760/files/Sbf478f001d4348b4a841cb898a0e7015L.webp?v=1760034505
+    Price: €12.99 EUR
+  - [Black](https://yoursportspt.com/products/non-slip-barbell-shoulder-pads-gym-fitness-thickened-weightlifting-squat-strength-workout-dumbbel-neck-support-protection-pad?variant=52590595571976)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/2231/4760/files/S37f5847618ca4caca4b30bd7d45a1085j.webp?v=1760034505
+    Price: €12.99 EUR
+  - [Pink](https://yoursportspt.com/products/non-slip-barbell-shoulder-pads-gym-fitness-thickened-weightlifting-squat-strength-workout-dumbbel-neck-support-protection-pad?variant=52590595604744)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/2231/4760/files/S72621e405b174340aa5a128627a9af2dt.webp?v=1760034505
+    Price: €12.99 EUR
+  - [Grey](https://yoursportspt.com/products/non-slip-barbell-shoulder-pads-gym-fitness-thickened-weightlifting-squat-strength-workout-dumbbel-neck-support-protection-pad?variant=52590595637512)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/2231/4760/files/S05b9257c1de6430b893c8c304dc22d42B.webp?v=1760034505
+    Price: €12.99 EUR
+- [Correia Tornozelo Ajustável D-Ring - Treino Pernas e Glúteos | YourSportsPT](https://yoursportspt.com/products/1pc-adjustable-ankle-support-strap-with-d-ring-buckle-comfortable-pu-material-suitable-for-gym-fitness-muscle-training-and-leg-stretching-available-in-purple-blue-black-pink-green-gym-accessories): Correia de tornozelo ajustável com fivela D-Ring. Material PU confortável e durável. Ideal para treino de glúteos, pernas e exercícios de cabo. Velcro ajustável. 172g.
+  Updated: 2025-10-09T18:43:55Z
+  Vendor: YourSportsPT
+  Product Type: Acessórios de Treino
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0962/2231/4760/files/S342483a9aabe4c52b4a1e3db8f0cb537s.webp?v=1760035332
+  - [Pink](https://yoursportspt.com/products/1pc-adjustable-ankle-support-strap-with-d-ring-buckle-comfortable-pu-material-suitable-for-gym-fitness-muscle-training-and-leg-stretching-available-in-purple-blue-black-pink-green-gym-accessories?variant=52590625063176)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/2231/4760/files/S93f1b1b73ec84c57bc927a5074b7b03ed.webp?v=1760035332
+    Price: €11.57 EUR
+  - [Blue](https://yoursportspt.com/products/1pc-adjustable-ankle-support-strap-with-d-ring-buckle-comfortable-pu-material-suitable-for-gym-fitness-muscle-training-and-leg-stretching-available-in-purple-blue-black-pink-green-gym-accessories?variant=52590625095944)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/2231/4760/files/S0c19dd4dfd0d431283444d3e412d566cu.webp?v=1760035332
+    Price: €11.35 EUR
+  - [Black](https://yoursportspt.com/products/1pc-adjustable-ankle-support-strap-with-d-ring-buckle-comfortable-pu-material-suitable-for-gym-fitness-muscle-training-and-leg-stretching-available-in-purple-blue-black-pink-green-gym-accessories?variant=52590625128712)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/2231/4760/files/Sa084aa5ab8114456b99762745aafaf26X_ea3b6f33-86f1-46d2-868e-fb150672bf30.webp?v=1760035332
+    Price: €11.49 EUR
+  - [Purple](https://yoursportspt.com/products/1pc-adjustable-ankle-support-strap-with-d-ring-buckle-comfortable-pu-material-suitable-for-gym-fitness-muscle-training-and-leg-stretching-available-in-purple-blue-black-pink-green-gym-accessories?variant=52590625161480)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/2231/4760/files/S4637698fdad645b6ae3d77de8869b397j.webp?v=1760035332
+    Price: €11.45 EUR
 
 ## Collections
 
@@ -723,11 +789,11 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
   Updated: 2025-10-06T09:32:35Z
   Total Products: 5
 - [Fitness Accessories 🎯](https://yoursportspt.com/collections/fitness-accessories-🎯): Small tools that make a big difference. From shaker bottles to smart ropes – perfect companions to any fitness journey.
-  Updated: 2025-10-08T16:15:26Z
-  Total Products: 6
+  Updated: 2025-10-09T18:42:13Z
+  Total Products: 9
 - [Recommended products (Seguno)](https://yoursportspt.com/collections/recommended-products-seguno): This collection was generated by the Seguno app for use in email marketing and is not available on any sales channels. By default, it is configured to show your best-selling products that are in stock and not free.
-  Updated: 2025-10-08T16:15:26Z
-  Total Products: 16
+  Updated: 2025-10-09T18:42:13Z
+  Total Products: 19
 - [Promoções Equipamentos Desportivos Portugal - YourSportsPT](https://yoursportspt.com/collections/promocoes-ativas): Promoções especiais até 25% desconto em equipamentos fitness. Envio grátis €50+. Garantia 30 dias. Entrega rápida Portugal.
   Updated: 2025-10-06T09:32:35Z
   Total Products: 6
