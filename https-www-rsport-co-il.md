@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-10-09T20:00:59.906Z
+- Updated At: 2025-10-10T00:01:04.523Z
 
 ## Products
 
@@ -46601,7 +46601,7 @@
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
 - [נעלי כדורגל מקצועיות Phantom 6 Elite Low SG Max Voltage](https://www.rsport.co.il/products/nipro-phantom-6-elite-low-cut-sg-pro-max-voltage-limelight-black-hyper-crimson): נעלי הכדורגל המקצועיות Nike Phantom 6 Elite Low SG-Pro נועדו לשחקנים התקפיים שמחפשים דיוק ושליטה מירבית בכדור. הדגם בצבע Limelight/Hyper Crimson/Black מציע שילוב של אחיזה, יציבות ותחושת נוחות גבוהה לאורך כל המשחק. החלק העליון של הנעל עשוי חומר Gripknit עם מרקם מיקרו, המשפר את תחושת המגע עם הכדור ומספק שליטה מדויקת בעת כדרור וביצוע בעיטות. Gripknit הוא חומר גמיש ודביק במידה, שמבטיח שליטה עקבית בתנאי מזג אוויר שונים. סוליית ה-SG Pro מבוססת על מערכת Cyclone 360 החדשה, המאפשרת שינויי כיוון חלקים ותגובה מהירה בזכות יתדות סיבוביות באזור האצבעות. המבנה תומך בתנועה טבעית של כף הרגל ומפחית עומס במהלך משחק אינטנסיבי. החלק הפנימי של הנעל עוצב מחדש להתאמה נוחה למגוון רחב של מבני כף רגל, במיוחד באזור האצבעות. כך מתקבלת תחושת יציבות ונוחות משופרת לכל אורך המשחק.
-  Updated: 2025-10-09T09:08:19Z
+  Updated: 2025-10-09T20:45:15Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
