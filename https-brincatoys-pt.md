@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-10-09T20:01:10.316Z
+- Updated At: 2025-10-10T00:01:08.469Z
 
 ## Products
 
@@ -2405,7 +2405,7 @@ Idade Recomendada: + de 6 anos.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/dalmata-433952925-0095866239527-brincatoys-1178693424.jpg?v=1752838205
   Price: 7,50 € EUR
 - [DC Batman](https://brincatoys.pt/products/dc-batman): Figura em PVC não tóxico, flexível, com aproximadamente 21 cm.A flexibilidade ds figura permite a adopção de uma variedade de poses de acção.
-  Updated: 2025-10-09T11:01:48Z
+  Updated: 2025-10-09T22:59:30Z
   Vendor: DC Comics
   Product Type: + 3 anos
   Availability: Available
@@ -19104,7 +19104,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/jurassic-world-hammond-collection-triceratops-realista-238494825-0194735284948-jurassic-world-1178701689.jpg?v=1752781084
   Price: 24,90 € EUR
 - [Jurassic World Hammond Collection: Atrociraptor Detalhada](https://brincatoys.pt/products/jurassic-world-hammond-collection-atrociraptor): Sinta a emoção de Jurassic World com a figura Jurassic World Hammond Collection: Atrociraptor. Detalhes impressionantes que vão te surpreender!
-  Updated: 2025-10-08T09:01:35Z
+  Updated: 2025-10-09T22:08:26Z
   Vendor: Jurassic World
   Product Type: + 8 anos
   Availability: Available
@@ -21138,28 +21138,28 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-de-brincar-land-rover-series-ii-com-detalhes-realistas-132206325-4893993220632-bburago-1196561448.jpg?v=1759881726
   Price: 22,50 € EUR
 - [Mercedes-Benz 190SL Cabrio 1955 1/18: Clássico em Metal](https://brincatoys.pt/products/mercedes-benz-190sl-cabrio-1955-1-18): Descubra a beleza atemporal do Mercedes-Benz 190SL Cabrio 1955 1/18! Aprecie os detalhes essenciais com portas que abrem. Adquira já o seu!
-  Updated: 2025-10-09T09:49:57Z
+  Updated: 2025-10-09T20:04:30Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/mercedes-benz-190sl-cabrio-1955-1-18-classico-em-metal-133182425-0090159318248-brincatoys-1196919827.jpg?v=1760003397
   Price: 56,50 € EUR
 - [Carro de brincar Porsche 911 Targa 4 GTS em escala 1:18](https://brincatoys.pt/products/carro-de-brincar-porsche-911-targa-4-gts): A ficha técnica do carro de brincar Porsche 911 Targa 4 GTS vai encantar os pequenos e colecionadores. Explore o realismo e estilos únicos! 🚗
-  Updated: 2025-10-09T09:48:06Z
+  Updated: 2025-10-09T20:20:31Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-de-brincar-porsche-911-targa-4-gts-em-escala-1-18-133147025-0090159314707-brincatoys-1196919823.jpg?v=1760003285
   Price: 56,50 € EUR
 - [Carro de brincar Mercedes-Benz 280 SE 1967 1/18](https://brincatoys.pt/products/carro-de-brincar-mercedes-benz-280-se-1967-1-18): Traga a elegância dos anos 60 para casa com o carro de brincar Mercedes-Benz 280 SE 1967 1/18. Uma peça perfeita para colecionadores e amantes! 🚗
-  Updated: 2025-10-09T12:03:57Z
+  Updated: 2025-10-09T20:38:33Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-de-brincar-mercedes-benz-280-se-1967-1-18-133181125-0090159318118-brincatoys-1196929118.jpg?v=1760011436
   Price: 56,50 € EUR
 - [Carro de brincar Ford Bronco Wildtrak 2021 Preto](https://brincatoys.pt/products/carro-de-brincar-ford-bronco-wildtrak-2021-preto-1-18): Experimente a emoção da aventura com o carro de brincar Ford Bronco Wildtrak 2021 Preto. Com detalhes realistas, é o modelo perfeito para colecionadores!
-  Updated: 2025-10-09T12:02:07Z
+  Updated: 2025-10-09T21:01:38Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -21172,6 +21172,13 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/godzilla-x-kong-kong-com-machado-de-batalha-unico-233980925-0043377352037-godzilla-vs-kong-1196632597.jpg?v=1759931758
   Price: 17,99 € EUR
+- [Monster High Scary Sweet Birthday - Cleo de Nile: Festa](https://brincatoys.pt/products/monster-high-scary-sweet-birthday-cleo-de-nile): Celebre com a Monster High Scary Sweet Birthday - Cleo de Nile! Detalhes luxuosos e acessórios adoráveis fazem deste conjunto uma verdadeira festa. 🎉
+  Updated: 2025-10-09T23:48:06Z
+  Vendor: Monster High
+  Product Type: + 4 anos
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/monster-high-scary-sweet-birthday-cleo-de-nile-festa-772599125-0194735259915-monster-high-1197016488.jpg?v=1760053685
+  Price: 39,99 € EUR
 
 ## Collections
 
@@ -21266,7 +21273,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-06T18:30:00Z
   Total Products: 98
 - [Bonecas](https://brincatoys.pt/collections/bonecas)
-  Updated: 2025-10-09T14:53:39Z
+  Updated: 2025-10-09T22:42:40Z
   Total Products: 238
 - [Bonecas clássicas](https://brincatoys.pt/collections/bonecas-classicas)
   Updated: 2025-10-06T19:06:40Z
@@ -21329,7 +21336,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-09T11:22:38Z
   Total Products: 1563
 - [4 - 5 anos](https://brincatoys.pt/collections/4-5-anos)
-  Updated: 2025-10-09T14:53:46Z
+  Updated: 2025-10-09T22:42:40Z
   Total Products: 700
 - [8 - 10 anos](https://brincatoys.pt/collections/8-10-anos)
   Updated: 2025-10-08T11:21:45Z
@@ -21353,19 +21360,19 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-09T16:10:41Z
   Total Products: 2869
 - [Até €50](https://brincatoys.pt/collections/ate-50)
-  Updated: 2025-10-09T16:10:41Z
+  Updated: 2025-10-09T22:42:40Z
   Total Products: 3251
 - [Até €60](https://brincatoys.pt/collections/ate-60)
-  Updated: 2025-10-09T16:10:41Z
+  Updated: 2025-10-09T22:42:40Z
   Total Products: 3388
 - [Até €80](https://brincatoys.pt/collections/ate-80)
-  Updated: 2025-10-09T16:10:41Z
+  Updated: 2025-10-09T22:42:40Z
   Total Products: 3467
 - [Até €100](https://brincatoys.pt/collections/ate-100)
-  Updated: 2025-10-09T16:10:41Z
+  Updated: 2025-10-09T22:42:40Z
   Total Products: 3516
 - [Novidades](https://brincatoys.pt/collections/novidades)
-  Updated: 2025-10-09T14:53:39Z
+  Updated: 2025-10-09T22:42:40Z
   Total Products: 387
 - [Outlet](https://brincatoys.pt/collections/outlet): Saldos válidos de 04/07/2025 a 26/12/2025, limitado ao stock existente e acumulável com outros descontos ou promoções.
   Updated: 2025-09-29T15:16:28Z
@@ -21491,7 +21498,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-06T19:02:19Z
   Total Products: 4
 - [Monster High](https://brincatoys.pt/collections/monster-high)
-  Updated: 2025-10-09T14:54:21Z
+  Updated: 2025-10-09T22:42:40Z
   Total Products: 40
 - [Naruto](https://brincatoys.pt/collections/naruto)
   Updated: 2025-10-05T19:22:59Z
@@ -21554,7 +21561,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-06T17:09:21Z
   Total Products: 9
 - [Catálogo](https://brincatoys.pt/collections/all)
-  Updated: 2025-10-09T16:10:41Z
+  Updated: 2025-10-09T22:42:40Z
   Total Products: 3549
 - [6 - 7 anos](https://brincatoys.pt/collections/6-7-anos)
   Updated: 2025-10-09T15:34:31Z
@@ -21569,7 +21576,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-09T11:22:38Z
   Total Products: 1217
 - [+ 4 anos](https://brincatoys.pt/collections/de-4-anos)
-  Updated: 2025-10-09T14:58:18Z
+  Updated: 2025-10-09T22:42:40Z
   Total Products: 492
 - [+ 5 anos](https://brincatoys.pt/collections/de-5-anos)
   Updated: 2025-10-08T09:28:56Z
@@ -21590,10 +21597,10 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-06T11:23:20Z
   Total Products: 83
 - [Os mais procurados](https://brincatoys.pt/collections/os-mais-populares)
-  Updated: 2025-10-09T16:10:41Z
+  Updated: 2025-10-09T22:42:40Z
   Total Products: 3549
 - [Recém-chegados](https://brincatoys.pt/collections/recem-chegados)
-  Updated: 2025-10-09T16:10:41Z
+  Updated: 2025-10-09T22:42:40Z
   Total Products: 3549
 - [Produtos em destaque](https://brincatoys.pt/collections/produtos-em-destaque)
   Updated: 2025-10-08T10:33:18Z
@@ -21605,7 +21612,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-12T11:21:00Z
   Total Products: 6
 - [OrderlyEmails - Recommended Products](https://brincatoys.pt/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-10-09T16:12:36Z
+  Updated: 2025-10-09T22:42:40Z
   Total Products: 3071
 - [Girafa Sofia](https://brincatoys.pt/collections/girafa-sofia)
   Updated: 2025-10-03T13:37:25Z
@@ -21614,11 +21621,11 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-09T11:22:38Z
   Total Products: 126
 - [Marketplace](https://brincatoys.pt/collections/marketplace)
-  Updated: 2025-10-09T16:12:36Z
+  Updated: 2025-10-09T22:42:40Z
   Total Products: 3071
 - [EzConnector](https://brincatoys.pt/collections/ezconnector)
-  Updated: 2025-10-09T15:34:31Z
-  Total Products: 925
+  Updated: 2025-10-09T22:42:23Z
+  Total Products: 924
 
 ## Blogs
 
