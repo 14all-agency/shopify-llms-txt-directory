@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2018-01-12T21:20:39Z
 - Contact Email: contact@ma-boutique-henne.com
-- Updated At: 2025-10-09T20:00:37.983Z
+- Updated At: 2025-10-10T00:00:39.077Z
 
 ## Products
 
