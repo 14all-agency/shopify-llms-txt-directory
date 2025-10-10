@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-03-19T17:46:58Z
 - Contact Email: info@patundpatty.de
-- Updated At: 2025-10-09T04:00:33.221Z
+- Updated At: 2025-10-10T20:00:33.542Z
 
 ## Products
 
@@ -357,7 +357,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio_Kuschelkissen_Rabe_-_PAT_PATTY-made-in-germany.jpg?v=1751452156
     Price: 40,50 € EUR
 - [Bio Steckenpferd Don Camillo – fair und kreativ handgemacht](https://patundpatty.de/products/bio-steckenpferd-don-camillo): Bio Steckenpferd „Don Camillo“ aus weichem Plüsch, handgemacht, fair & nachhaltig – perfekt für fantasievolles Spielen kleiner Reiter:innen. Jetzt bei PAT&PATTY
-  Updated: 2025-10-04T19:43:15Z
+  Updated: 2025-10-09T10:39:01Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -371,7 +371,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio_Steckenpferd_Don_Camillo_-_PAT_PATTY-4832842_f318c61e-c09a-4a72-8080-dee71ed5d4c5.jpg?v=1746688799
     Price: 116,00 € EUR
 - [Bio Steckenpferd Blondi hellbrauner Plüsch fair & handgemacht](https://patundpatty.de/products/bio-steckenpferd-blondi): Bio Steckenpferd „Blondi“ aus hellbraunem Plüsch, handgemacht, fair & langlebig – perfekt für fantasievolles Spielen kleiner Reiter:innen. Jetzt bei PAT&PATTY .
-  Updated: 2025-10-04T19:36:26Z
+  Updated: 2025-10-09T10:39:01Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -427,13 +427,13 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Steckenpferd-Flicka-Hellbraun-Handgemacht-Spielzeug-Fuer-Kinder-Pat-Und-Patty.jpg?v=1751455847
     Price: 114,90 € EUR
 - [Bio Steckenpferd „Tarik“ – handgemacht, fair & aus Bio-Stoff](https://patundpatty.de/products/bio-steckendpferd-tarik): Bio Steckenpferd Tarik aus schwarzem Bio-Plüsch, handgemacht, fair & nachhaltig robust, fantasievoll & perfekt für kleine Reiter:innen zum Spielen & Entdecken!
-  Updated: 2025-10-04T18:56:41Z
+  Updated: 2025-10-09T10:37:57Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio_Steckendpferd_Tarik_-_PAT_PATTY-4832703.jpg?v=1730227352
   - [Mini Tarik](https://patundpatty.de/products/bio-steckendpferd-tarik?variant=45303042670860)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio_Steckendpferd_Tarik_-_PAT_PATTY-4832703.jpg?v=1730227352
     Price: 107,00 € EUR
   - [Tarik](https://patundpatty.de/products/bio-steckendpferd-tarik?variant=45303042703628)
@@ -865,13 +865,6 @@
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Rabe-W_rmflasche-Bio-PAT-Und-PATTY.jpg?v=1753100491
-  Price: 42,50 € EUR
-- [Wärmflasche Schaf aus Naturgummi – sicher, fair & nachhaltig](https://patundpatty.de/products/bio-waermflasche-schaf): Wärmflasche Schaf aus Naturgummi – langlebig, schadstofffrei & flexibel. Ideal für wohltuende Wärme. Jetzt bei PAT & PATTY entdecken & bequem online bestellen!
-  Updated: 2025-10-02T13:39:21Z
-  Vendor: PAT & PATTY
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/W_rmflasche-Schaf-Bio-PAT-Und-PATTY.jpg?v=1753099913
   Price: 42,50 € EUR
 - [Bio Wärmflasche Löwe – kuschelig, handgemacht & nachhaltig](https://patundpatty.de/products/bio-waermflasche-loewe): Bio Wärmflasche Löwe mit Bezug aus 100 % Bio-Baumwolle, GOTS-zertifiziert. Kuschelig, nachhaltig & ideal für Kinder. Jetzt bei PAT & PATTY online bestellen!
   Updated: 2025-10-01T22:00:38Z
@@ -2357,6 +2350,20 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Steckenpferd-Abraxas-Mit-Gebiss-Kaufen-Handgemachtes-Hobby-Horsing-Spielzeug-Pat-Und-Patty.webp?v=1751482293
   Price: 116,00 € EUR
+- [Bio Hobby Horse Pontos mit Gebiss handgemacht nachhaltig](https://patundpatty.de/products/bio-mini-steckenpferd-pontos-mit-einem-gebiss): Das Bio Hobby Horse „Pontos“ von PAT & PATTY: handgemacht, nachhaltig und mit Gebiss – ideal für fantasievolles Spielen und als treuer Begleiter für Kinder.
+  Updated: 2025-10-09T10:38:46Z
+  Vendor: PAT & PATTY
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Steckenpferd-Pontos-Mit-Gebiss-Kaufen-Handgemachtes-Hobby-Horsing-Spielzeug-Kinder-Pat-Und-Patty.webp?v=1751481160
+  Price: 116,00 € EUR
+- [Bio Hobby Horse Zimtstern mit Gebiss handgemacht nachhaltig](https://patundpatty.de/products/bio-mini-steckenpferd-zimtstern-mit-einem-gebiss): Das Bio Hobby Horse „Zimtstern“ von PAT & PATTY handgemacht, nachhaltig & mit Gebiss ideal für fantasievolles Spielen, kleine Reiter & abenteuerlustige Kinder.
+  Updated: 2025-10-09T10:38:44Z
+  Vendor: PAT & PATTY
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Steckenpferd-Zimtstern-Mit-Gebiss-Kaufen-Handgemachtes-Hobby-Horsing-Spielzeug-Pat-Und-Patty.webp?v=1751481672
+  Price: 116,00 € EUR
 - [Bio-Kuscheltier Löwe Leo weich & kuschelig aus Bio-Material](https://patundpatty.de/products/bio-kuscheltier-lowe-leo-organic-kuschelig): Bio-Kuscheltier Löwe Leo von PAT & PATTY: handgefertigt, kuschelig weich & aus nachhaltigem Bio-Material, perfekt als liebevolles Geschenk für Babys und Kinder.
   Updated: 2025-09-30T13:10:10Z
   Vendor: PAT & PATTY
@@ -2477,13 +2484,13 @@
   Updated: 2025-10-06T11:22:00Z
   Total Products: 10
 - [Bio Wärmflaschen Tiermotive – handgemacht & nachhaltig | PAT & PATTY](https://patundpatty.de/collections/bio-waermflaschen-im-tiermotiv-von-pat-und-patty): Handgemachte Bio Wärmflaschen mit Tiermotiven für Kinder & Erwachsene. Nachhaltig, weich & wohltuend – ideal als Geschenk oder für kalte Tage.
-  Updated: 2025-10-01T11:22:45Z
+  Updated: 2025-10-10T11:22:38Z
   Total Products: 12
 - [Meistverkaufte Produkte - Nachhaltige Favoriten](https://patundpatty.de/collections/die-meistverkauften-produkte-von-patundpatty): Entdecken Sie die legendären Produkte von Pat & Patty: Bio-Kuscheltiere, Kissen & Spielzeug aus GOTS-zertifizierter Baumwolle. Nachhaltig & handgefertigt.
   Updated: 2025-10-07T10:13:01Z
   Total Products: 35
 - [Personalisierte Bio Schmusetücher mit Tiermotiv | PAT & PATTY](https://patundpatty.de/collections/bio-schmusetucher-und-schnuffeltucher): Schenke Liebe mit handgemachten Bio-Schmusetüchern von PAT & PATTY – weich, nachhaltig & personalisierbar. Für kleine Hände, große Herzen & glückliche Momente.
-  Updated: 2025-09-28T11:19:59Z
+  Updated: 2025-10-09T11:22:21Z
   Total Products: 21
 - [Bio Rasseln & Greiflinge - Natürliche Baumwolle für Babys| Pat & Patty](https://patundpatty.de/collections/rasseln-greiflinge): Weiche Rasseln & Greiflinge aus Bio-Baumwolle – schadstofffrei, handgemacht & ideal für kleine Hände. Jetzt entdecken und bestellen bei PAT & PATTY!
   Updated: 2025-09-26T11:21:52Z
@@ -2513,7 +2520,7 @@
   Updated: 2025-10-02T11:22:53Z
   Total Products: 5
 - [Bio Spielzeug & Mehr im SALE - Nachhaltig | PAT & PATTY](https://patundpatty.de/collections/sale): Jetzt im SALE bei PAT & PATTY: Bio-Spielzeug, Kindermode & Accessoires reduziert! Nachhaltig, fair & liebevoll gefertigt – nur solange der Vorrat reicht.
-  Updated: 2025-10-07T10:13:01Z
+  Updated: 2025-10-10T11:22:38Z
   Total Products: 62
 - [Neuheiten aus Bio-Baumwolle | Nachhaltig & Fair – PAT & PATTY](https://patundpatty.de/collections/neu-im-sortiment): Entdecke die neuesten Bio-Baumwollprodukte von PAT & PATTY. Nachhaltig, schadstofffrei und liebevoll hergestellt – perfekt für bewusste Familien.
   Updated: 2025-09-25T09:17:14Z
@@ -2789,6 +2796,17 @@
     Tags: was ist plastikfreies spielzeug
   - [10 Überraschende Fakten über das Bio Schmusetuch Hund Neo für Babys](https://patundpatty.de/blogs/news/10-uberraschende-fakten-uber-das-bio-schmusetuch-hund-neo-fur-babys): 10 Überraschende Fakten über das Bio Schmusetuch Hund Neo für Babys
     Updated: 2025-10-08T10:05:36Z
+    Author: Sharon Engel
+  - [Die Rolle von sensorischem Spielzeug: Verstehen und Erklären](https://patundpatty.de/blogs/news/rolle-von-sensorischem-spielzeug-verstehen): Erfahren Sie die Rolle von sensorischem Spielzeug für Kinder. Verstehen Sie die Vorteile und wie es die Entwicklung fördert.
+    Updated: 2025-10-09T06:34:25Z
+    Author: Sharon
+    Tags: rolle von sensorischem spielzeug
+  - [Babys erstes Bio-Spielzeug aussuchen: Der perfekte Leitfaden](https://patundpatty.de/blogs/news/babys-erstes-bio-spielzeug-aussuchen): Erfahren Sie, wie Sie babys erstes bio-spielzeug aussuchen. Schritt-für-Schritt-Anleitung für umweltbewusste Eltern und Schenkende.
+    Updated: 2025-10-10T02:38:56Z
+    Author: Sharon
+    Tags: babys erstes bio-spielzeug aussuchen
+  - [Nachhaltiges Bio Schmusetuch für Babys: Das Pat & Patty Bio Wildschwein aus Naturmaterialien als persönliches Geschenk mit Namen entdecken](https://patundpatty.de/blogs/news/nachhaltiges-bio-schmusetuch-fur-babys-das-pat-patty-bio-wildschwein-aus-naturmaterialien-als-personliches-geschenk-mit-namen-entdecken): Nachhaltiges Bio Schmusetuch für Babys: Das Pat & Patty Bio Wildschwein aus Naturmaterialien als persönliches Geschenk mit Namen entdecken
+    Updated: 2025-10-10T10:06:19Z
     Author: Sharon Engel
 
 ## Store Pages
