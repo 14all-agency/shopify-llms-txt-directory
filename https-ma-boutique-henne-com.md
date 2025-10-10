@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2018-01-12T21:20:39Z
 - Contact Email: contact@ma-boutique-henne.com
-- Updated At: 2025-10-10T00:00:39.077Z
+- Updated At: 2025-10-10T04:00:35.527Z
 
 ## Products
 
@@ -291,7 +291,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/maroc3.jpg?v=1605869326
   Price: 7,30 € EUR
 - [Henné Rouge du Yémen](https://ma-boutique-henne.com/products/henne-du-yemen-100gr): Ce henné est 100% naturel, du Yémen, biologique. coloration et soin des cheveux, couleur rousse, reflets cuivrés, auburn, bordeaux, rouge, cheveux brillants, volume, cuir chevelu sensible, boutique, cosmétique, coiffure, poudre plante, tazarine, algérie, henna, shikakai, ghassoul, rouge cerise, bio, vegan, sidr, katam
-  Updated: 2025-10-09T19:16:25Z
+  Updated: 2025-10-10T02:57:50Z
   Vendor: Ma Boutique Henné
   Product Type: Henné
   Availability: Available
@@ -1775,7 +1775,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/henne-blond-dore.png?v=1605703923
   Price: 19,50 € EUR
 - [Henné Rouge Renforcé Intense - Exclusivité Ma Boutique Henné](https://ma-boutique-henne.com/products/henne-rouge-renforce): Ce henné 100% naturel, du Soudan, rouge cerise renforcé sodium picramate BAQ, biologique. coloration et soin des cheveux, couleur rousse, reflets cuivrés, auburn, bordeaux, rouge, cheveux brillants, volume, henne, Yémen, rouge chocolat,poudre plante, soudanais, coloration, coloration cheveux gris, henna, algérie
-  Updated: 2025-10-09T16:18:21Z
+  Updated: 2025-10-10T00:16:58Z
   Vendor: Ma Boutique Henné
   Product Type: Henné
   Availability: Available
