@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-07-19T18:27:19Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-10-10T12:00:34.953Z
+- Updated At: 2025-10-10T16:00:34.909Z
 
 ## Products
 
