@@ -6,12 +6,12 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-07-26T03:23:12Z
 - Contact Email: donedeals.xyz@gmail.com
-- Updated At: 2025-10-09T16:00:51.050Z
+- Updated At: 2025-10-10T04:00:51.138Z
 
 ## Products
 
 - [LED PIR Motion Sensor Cabinet  With USB Rechargeble](https://donedeals.xyz/products/led-pir-motion-sensor-cabinet-with-usb-rechargeble): Product Name: LED PIR Motion Sensor Cabinet Light With USB Rechargeble Package Contains: 1 PieceColour Temperature- 2500 - 3000 K WarmCord Colour- WirelessNumber of light - 3 lightsFeatures- Battery Operated, Colour-Changing, Dimmable, Easy Installation, Energy Efficient, Energy Saving, Even Lighting, Low Voltage, PIR Motion Sensor, Portable, Rechargeable, Rust Resistant, Sensor, Smart Enabled, Spotlight, Stick-On, USB, Wall Mounted, Waterproof, Wireless, With LightLight Colour- Neutral White, Warm White, WhitePower Source - USBCombo: Pack of 1Weight: 400gramLBH - ? ?40L x 4W x 8.6H Centimeters
-  Updated: 2025-10-09T13:20:34Z
+  Updated: 2025-10-10T03:16:29Z
   Vendor: rakqr0-pn
   Product Type: 
   Availability: Available
@@ -6196,12 +6196,12 @@
   Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/llq7g_512.webp?v=1759211007
   Price: ₹284.00 INR
 - [NARUIA 6-Grid Rotating Food Dispenser - Stackable Cereal, Rice, and Grain Storage Container with Measuring Cup (White)](https://donedeals.xyz/products/naruia-6-grid-rotating-food-dispenser-stackable-cereal-rice-and-grain-storage-container-with-measuring-cup-white): Product Details Name : NARUIA 6-Grid Rotating Food Dispenser - Stackable Cereal, Rice, and Grain Storage Container with Measuring Cup (White) Material : Plastic Type : Button Press Features : Airtight Product Breadth : 25 Cm Product Height : 25 Cm Product Length : 26 Cm Net Quantity (N) : Pack Of 1 Rotating Rice and Grain Dispenser - Space-Saving, Easy to Use, Transparent 6-Grid Food Storage Container Maximize your kitchen space with this innovative 360° rotating rice and grain dispenser. Designed to fit seamlessly in corners or on countertops, this space-saving storage solution helps keep your kitchen organized and your food fresh. Country of Origin : India More Information
-  Updated: 2025-09-30T06:22:57Z
+  Updated: 2025-10-09T18:32:08Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/qlkbl_512.webp?v=1759211016
-  Price: ₹1,479.00 INR
+  Price: ₹1,350.00 INR
 - [GESCHIR Big Size Stainless Steel 2 Layer Kitchen Spice Rack, Modular Kitchen Storage Rack, Kitchen Organizer Multipurpose Storage Shelf/Rack](https://donedeals.xyz/products/geschir-big-size-stainless-steel-2-layer-kitchen-spice-rack-modular-kitchen-storage-rack-kitchen-organizer-multipurpose-storage-shelf-rack): Product Details Name : GESCHIR Big Size Stainless Steel 2 Layer Kitchen Spice Rack, Modular Kitchen Storage Rack, Kitchen Organizer Multipurpose Storage Shelf/Rack Material : Stainless Steel Product Breadth : 20 Cm Product Height : 10 Cm Product Length : 10 Cm Net Quantity (N) : Pack Of 1 Stainless Steel 2 Tier Kitchen Rack, with its sleek and durable design, this rack is perfect for organizing and storing your kitchen accessories items.This versatile rack can be used in a variety of ways to suit your needs. It's great for storing plates, bowls, cups, and other kitchen utensils.This multipurpose storage organizer can be used in other rooms of the house as well, such as the bathroom, bedroom, or garage. Country of Origin : India More Information
   Updated: 2025-09-30T06:22:58Z
   Vendor: DoneDeals
@@ -23691,6 +23691,62 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/tvzlr_512.webp?v=1759830823
   Price: ₹0.00 INR
+- [PLIX Apple Cider Vinegar Effervescent Tablets with the Mother, 700mg ACV with Vit B12, B6, Pack of 1 |Vegan, No Added Sugar, non-GMO & Gluten-Free](https://donedeals.xyz/products/plix-apple-cider-vinegar-effervescent-tablets-with-the-mother-700mg-acv-with-vit-b12-b6-pack-of-1-vegan-no-added-sugar-non-gmo-gluten-free): Product Details Name : PLIX Apple Cider Vinegar Effervescent Tablets with the Mother, 700mg ACV with Vit B12, B6, Pack of 1 |Vegan, No Added Sugar, non-GMO & Gluten-Free Brand : PLIX FSSAI License Number : 11522998000546 Net Quantity (N) : 1 Shelf life (Best Before) : 18 Months A healthy and refreshing ACV drink that combines all the benefits of apples and pomegranates to give you multiple health benefits. Our flavour-filled 500mg of ACV weight loss tablet reduces your cravings and keeps you satiated for longer. This process prevents one from over eating while enabling to manage daily intake of optimal calories. It results in effective weight loss on the scale while also assisting you in achieving your health goals. Further, the acetic acid, present in apple cider vinegar, helps lower fat deposition and boost metabolism. As fat is burned and blood cholesterol and blood sugar levels are lowered, the body limits the production of bad cholesterol and increases insulin sensitivity. This strengthens the gut lining and reduces insulin production resulting in weight loss. The tablets fortified with vitamins B12 and B6 improve brain function and blood haemoglobin levels. Overall, this energy drink helps to lose weight while detoxifying your body. The Vegan, Non-GMO, Gluten-Free & Gelatin Free tablet tube is compact. Stay fit wherever you go with the Plix Apple Cider Vinegar Drink. Ideal for the on-the-go drinkers! Country of Origin : India More Information
+  Updated: 2025-10-09T18:32:07Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/r9kgc_512.webp?v=1760033638
+  Price: ₹325.00 INR
+- [Super Pink Stuff Paste 200g| All Purpose Cleaning Paste - Highest Qualty Cleaner (pack of 1)](https://donedeals.xyz/products/super-pink-stuff-paste-200g-all-purpose-cleaning-paste-highest-qualty-cleaner-pack-of-1): Product Details Name : Super Pink Stuff Paste 200g| All Purpose Cleaning Paste - Highest Qualty Cleaner (pack of 1) Capacity : 100-200gm color : Pink Net Quantity (N) : Pack Of 1 Product Breadth : 7 Cm Product Height : 7 Cm Product Length : 10 Cm Product Weight : 0.5 Quantity in ML : 200 Shelf life (Best Before) : 36 months Type : Kitchen Cleaners Multi-purpose cleaner removes dirt, grease, rust, and scuff marks. DEEP CLEANING GROUT BRUSH : This package comes with a specialty brush that can get deep into grout lines to give your tiles a thorough cleaning and shine back. STRONG CLEANING : Super Pink Stuff All-Purpose Cleaning Paste is an effective way to remove stubborn stains and dirt from a variety of surfaces in your house. Natural, cruelty-free, vegan ingredients with fresh Rhubarb scent. Tough on stains and great for bathroom, kitchen, and outdoor use EASY TO USE : Simply apply the cleaning paste to the desired area, use the grout brush or sponge to scrub away dirt and stains, and watch as your surfaces are transformed. Country of Origin : India More Information
+  Updated: 2025-10-09T18:32:08Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/pgklu_512.webp?v=1760033648
+  Price: ₹285.00 INR
+- [NARUIA 6-Grid Rotating Food Dispenser - Stackable Cereal, Rice, and Grain Storage Container with Measuring Cup (White)](https://donedeals.xyz/products/naruia-6-grid-rotating-food-dispenser-stackable-cereal-rice-and-grain-storage-container-with-measuring-cup-white-2): Product Details Name : NARUIA 6-Grid Rotating Food Dispenser - Stackable Cereal, Rice, and Grain Storage Container with Measuring Cup (White) Material : Plastic Type : Button Press Features : Airtight Product Breadth : 25 Cm Product Height : 25 Cm Product Length : 26 Cm Net Quantity (N) : Pack Of 1 Keep your kitchen neat, organized, and stylish with the Rotating Rice and Grain Dispenser – a smart 6-Compartment Dry Food Dispenser designed to maximize space and keep your food fresh. This 360° rotating food storage container is perfect for storing rice, pulses, cereals, dal, wheat, and other dry grains. Its airtight food storage container design prevents moisture and pests, ensuring long-lasting freshness. The multi-compartment kitchen storage box allows you to easily separate different grains in one container, making it a must-have modular container for dal, rice, and wheat. With its transparent design, you can quickly check the contents without opening, while the smooth rotation feature helps you pick the grain you need effortlessly. This automatic grain dispenser kitchen tool is easy to use – just rotate, press, and dispense the right quantity directly into the drawer provided. Perfect for modern homes, this grain storage box with sections saves countertop space and fits neatly in corners. Upgrade your kitchen with this multi-grid dry food organizer that works as a kitchen storage box with drawer and a practical home kitchen storage container set. Whether you need a cereal dispenser or a dry food storage container, this all-in-one rotating dry food organizer for pulses and rice is the ideal choice for a clutter-free kitchen. Country of Origin : India More Information
+  Updated: 2025-10-09T18:35:41Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/qlkbl_512_a83edd35-4498-4178-8de3-ef0c8e5328a4.webp?v=1760033668
+  Price: ₹1,350.00 INR
+- [Mini lavalier Lapel Tie Clip-on Jack Condenser Collar Microphone, Portable Collar Clip Mic with Mini Zip Round Storage Bag Pouch Case.](https://donedeals.xyz/products/mini-lavalier-lapel-tie-clip-on-jack-condenser-collar-microphone-portable-collar-clip-mic-with-mini-zip-round-storage-bag-pouch-case): Product Details Name : Mini lavalier Lapel Tie Clip-on Jack Condenser Collar Microphone, Portable Collar Clip Mic with Mini Zip Round Storage Bag Pouch Case. Product Name : Mini lavalier Lapel Tie Clip-on Jack Condenser Collar Microphone, Portable Collar Clip Mic with Mini Zip Round Storage Bag Pouch Case. Material : Fabric Pattern : Colourblock Product Height : 1.75 Cm Product Length : 5 Cm Product Width : 1 Cm Size : Onesize Type : Pouch Net Quantity (N) : 1 Best Collar Mic And 3.5mm Clip Microphone+Carry Pouch Voice Recording Mic, Interview, Recording, Podcasting, Conference Call, 360 degree rotary clip for you to clip it to collar, tie or pocket easily. Hand-free, can be used for chatting, video meeting, song recording & etc., Ideal choice for recording interview, vlogs, presentations and more, whether you are shooting video or recording audio using the app of your device. Country of Origin : China More Information
+  Updated: 2025-10-09T18:32:09Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/qog26_512.webp?v=1760033678
+  Price: ₹232.00 INR
+- [Foldable door hanger ( Stainless steel without box )](https://donedeals.xyz/products/foldable-door-hanger-stainless-steel-without-box): Product Details Name : Foldable door hanger ( Stainless steel without box ) Material : Metal Product Breadth : 1.5 Inch Product Height : 0.5 Inch Product Length : 10 Inch Net Quantity (N) : Pack of 1 Country of Origin : India More Information
+  Updated: 2025-10-09T18:32:09Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/wnnoc_512.webp?v=1760033688
+  Price: ₹300.00 INR
+- [Extra Large Food Bag Sealing Clips with Dispensing Nozzle, Moisture-Proof Plastic Snack and Cereal Storage Seal, Bag Seal Clips for Food Storage, Home Use, Cereal Preservation( Pack Of 4,Multicolor )](https://donedeals.xyz/products/extra-large-food-bag-sealing-clips-with-dispensing-nozzle-moisture-proof-plastic-snack-and-cereal-storage-seal-bag-seal-clips-for-food-storage-home-use-cereal-preservation-pack-of-4-multicolor): Product Details Name : Extra Large Food Bag Sealing Clips with Dispensing Nozzle, Moisture-Proof Plastic Snack and Cereal Storage Seal, Bag Seal Clips for Food Storage, Home Use, Cereal Preservation( Pack Of 4,Multicolor ) Material : Plastic Product Breadth : 10 Cm Product Height : 15 Cm Product Length : 10 Cm Net Quantity (N) : Pack Of 4 Extra Large Food Bag Sealing Clips with Dispensing Nozzle, Moisture-Proof Plastic Snack and Cereal Storage Seal, Bag Seal Clips for Food Storage, Home Use, Cereal Preservation Country of Origin : India More Information
+  Updated: 2025-10-10T01:24:03Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/kexna_512.webp?v=1760059443
+  Price: ₹271.00 INR
+- [Food Clip Pack of 1, Sealing Clips, Snack Food Preservation Clips, Kitchen Food Bag Sealing Clips, Food Clips, Food Preservation Clips. (2)](https://donedeals.xyz/products/food-clip-pack-of-1-sealing-clips-snack-food-preservation-clips-kitchen-food-bag-sealing-clips-food-clips-food-preservation-clips-2): Product Details Name : Food Clip Pack of 1, Sealing Clips, Snack Food Preservation Clips, Kitchen Food Bag Sealing Clips, Food Clips, Food Preservation Clips. (2) Material : Plastic Product Breadth : 10 Cm Product Height : 10 Cm Product Length : 13.5 Cm Net Quantity (N) : Pack Of 1 Discharge Port -- Pouring Clips with discharge port design for easy access makes it easy to pour out the food,Suitable for powder, liquid, fluid, and small particles. Plastic Material -- Made from food grade plastic, this food clip is safe, solid and resistant to deformation, ensuring long lasting use. Sealed and Fresh -- The clip provides a tight and effective seal, preventing air, moisture, and bad smell from entering, thus maintaining the freshness and taste of the food. Perfect Home Helper -- This bag clips are good helper for kitchen,You can be used for kitchen storage, such as coffee beans, rice, flour, milk powder or pet food, condiment bags, etc. Easy to Use -- Food bag clip is designed to be easy to use, so you can use it easily, which is convenient for you. Country of Origin : India More Information
+  Updated: 2025-10-10T01:26:15Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/ro1ne_512.webp?v=1760059575
+  Price: ₹222.00 INR
+- [Premium Masala Dabba Set Of 1|Airtight Compact & Transparent Spice Organizer|Modular Plastic Spic|Food Grade Storage for Haldi, Jeera & Dhaniya|Stackable Spice Jars with Labels|BPA-Free & Leak-Proof Kitchen Solution|Set of 1|](https://donedeals.xyz/products/premium-masala-dabba-set-of-1-airtight-compact-transparent-spice-organizer-modular-plastic-spic-food-grade-storage-for-haldi-jeera-dhaniya-stackable-spice-jars-with-labels-bpa-free-leak-proof-kitchen-solution-set-of-1): "Product Details Name : Premium Masala Dabba Set Of 1|Airtight Compact & Transparent Spice Organizer|Modular Plastic Spic|Food Grade Storage for Haldi, Jeera & Dhaniya|Stackable Spice Jars with Labels|BPA-Free & Leak-Proof Kitchen Solution|Set of 1|Round & Square Containers|White & Black Colors 2100ml -1 Material : Plastic Type : Disposable Food Containers Features : Airtight Product Breadth : 10 Mm Product Height : 20 Mm Product Length : 10 Mm Net Quantity (N) : Pack Of 1 container,compartment storage container airtight container,container tight,container blue,container containers kitchen storage,container detachable,container fridge storage boxes,container jars container square,container kitchen,container kitchen storage,container kitchen storage set,container multicolor storage,container onion,container onion ginger,container plastic grocery container,container plastic storage,container set,container set bpa free,container set free spoons,container set vegetables,container square food container,container storage containers,containers,containers container kitchen storage,containers fish meat,containers fish meat vegetables,containers food,containers food kitchen organizer,containers freezer container,containers keeps fruits vegetables,containers kitchen organization food,containers kitchen storage ,containers kitchen storage container,containers lids airtight fridge,containers pack fridge organizer,containers piece,containers piece set bpa,containers plastic freezer,containers storage,containers storage space,containers storage space saving,divided fruit storage,door organizer,door organizer fridge kitchen,drain plate lid stackable,dryfruits spices,dryfruits spices groceries,fish meat fruits storage,fish meat vegetables fruits,food,food container,food containers freezer,food storage food torage ,food storage container,food stora masala, aamch Country of Origin : India More Information"
+  Updated: 2025-10-09T18:59:51Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/gme43_512_ea035625-954e-4b63-b7c8-e6f0d1bc5846.webp?v=1760036202
+  Price: ₹272.00 INR
 
 ## Collections
 
@@ -23719,8 +23775,8 @@
   Updated: 2025-10-08T09:12:11Z
   Total Products: 0
 - [all](https://donedeals.xyz/collections/all)
-  Updated: 2025-10-08T09:12:11Z
-  Total Products: 2015
+  Updated: 2025-10-09T18:59:53Z
+  Total Products: 2023
 - [men watch](https://donedeals.xyz/collections/men-watch)
   Updated: 2025-10-08T09:12:11Z
   Total Products: 89
@@ -23820,6 +23876,9 @@
 - [Shirt](https://donedeals.xyz/collections/shirt)
   Updated: 2025-10-08T09:12:13Z
   Total Products: 45
+- [wining](https://donedeals.xyz/collections/wining)
+  Updated: 2025-10-09T18:59:53Z
+  Total Products: 8
 
 ## Store Pages
 
