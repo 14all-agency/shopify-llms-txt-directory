@@ -5,7 +5,7 @@
 - Currency: CAD
 - Timezone: America/Toronto
 - Created At: 2025-08-23T11:52:48Z
-- Updated At: 2025-10-09T08:00:28.082Z
+- Updated At: 2025-10-10T16:00:27.924Z
 
 ## Products
 
@@ -1156,8 +1156,8 @@
   - [Ash / 2XL](https://lnlboutiquexo.myshopify.com/products/christmas-movie-characters?variant=53062440681782)
     Availability: Available
     Price: $35.00 CAD
-- [Christmas Girls](https://lnlboutiquexo.myshopify.com/products/christmas-girls): The unisex crewnecks are definitely one of our favourite sweaters. They are made of 50% cotton and 50% polyester, giving it a cozy, soft and comfortable feeling. True to size for a relaxed fit. Size down for a tighter fit. Please refer to sizing chart in photos for a more accurate fit & for all measurement information. Recommended to wash inside out in cold water, do not bleach, do not use fabric softener, hang to dry or tumble dry on low. Do not iron directly on decal.
-  Updated: 2025-10-02T12:51:26Z
+- [Christmas Girls Sweater](https://lnlboutiquexo.myshopify.com/products/christmas-girls): The unisex crewnecks are definitely one of our favourite sweaters. They are made of 50% cotton and 50% polyester, giving it a cozy, soft and comfortable feeling. True to size for a relaxed fit. Size down for a tighter fit. Please refer to sizing chart in photos for a more accurate fit & for all measurement information. Recommended to wash inside out in cold water, do not bleach, do not use fabric softener, hang to dry or tumble dry on low. Do not iron directly on decal.
+  Updated: 2025-10-10T13:02:29Z
   Vendor: L&L Boutique 
   Product Type: 
   Availability: Available
@@ -1177,8 +1177,8 @@
   - [White / 2XL](https://lnlboutiquexo.myshopify.com/products/christmas-girls?variant=53062442156342)
     Availability: Available
     Price: $35.00 CAD
-- [Reindeer Names](https://lnlboutiquexo.myshopify.com/products/reindeer-names): The unisex crewnecks are definitely one of our favourite sweaters. They are made of 50% cotton and 50% polyester, giving it a cozy, soft and comfortable feeling. True to size for a relaxed fit. Size down for a tighter fit. Please refer to sizing chart in photos for a more accurate fit & for all measurement information. Recommended to wash inside out in cold water, do not bleach, do not use fabric softener, hang to dry or tumble dry on low. Do not iron directly on decal.
-  Updated: 2025-10-02T13:12:46Z
+- [Reindeer Names Sweater](https://lnlboutiquexo.myshopify.com/products/reindeer-names): The unisex crewnecks are definitely one of our favourite sweaters. They are made of 50% cotton and 50% polyester, giving it a cozy, soft and comfortable feeling. True to size for a relaxed fit. Size down for a tighter fit. Please refer to sizing chart in photos for a more accurate fit & for all measurement information. Recommended to wash inside out in cold water, do not bleach, do not use fabric softener, hang to dry or tumble dry on low. Do not iron directly on decal.
+  Updated: 2025-10-10T13:00:19Z
   Vendor: L&L Boutique 
   Product Type: 
   Availability: Available
@@ -1198,8 +1198,8 @@
   - [White / 2XL](https://lnlboutiquexo.myshopify.com/products/reindeer-names?variant=53062442910006)
     Availability: Available
     Price: $35.00 CAD
-- [Jolly](https://lnlboutiquexo.myshopify.com/products/jolly): The unisex crewnecks are definitely one of our favourite sweaters. They are made of 50% cotton and 50% polyester, giving it a cozy, soft and comfortable feeling. True to size for a relaxed fit. Size down for a tighter fit. Please refer to sizing chart in photos for a more accurate fit & for all measurement information. Recommended to wash inside out in cold water, do not bleach, do not use fabric softener, hang to dry or tumble dry on low. Do not iron directly on decal.
-  Updated: 2025-10-02T13:13:30Z
+- [Jolly Sweater](https://lnlboutiquexo.myshopify.com/products/jolly): The unisex crewnecks are definitely one of our favourite sweaters. They are made of 50% cotton and 50% polyester, giving it a cozy, soft and comfortable feeling. True to size for a relaxed fit. Size down for a tighter fit. Please refer to sizing chart in photos for a more accurate fit & for all measurement information. Recommended to wash inside out in cold water, do not bleach, do not use fabric softener, hang to dry or tumble dry on low. Do not iron directly on decal.
+  Updated: 2025-10-10T13:00:05Z
   Vendor: L&L Boutique 
   Product Type: 
   Availability: Available
@@ -1234,8 +1234,8 @@
   - [Ash / 2XL](https://lnlboutiquexo.myshopify.com/products/jolly?variant=53062443368758)
     Availability: Available
     Price: $35.00 CAD
-- [Freezing Season](https://lnlboutiquexo.myshopify.com/products/freezing-season): The unisex crewnecks are definitely one of our favourite sweaters. They are made of 50% cotton and 50% polyester, giving it a cozy, soft and comfortable feeling. True to size for a relaxed fit. Size down for a tighter fit. Please refer to sizing chart in photos for a more accurate fit & for all measurement information. Recommended to wash inside out in cold water, do not bleach, do not use fabric softener, hang to dry or tumble dry on low. Do not iron directly on decal.
-  Updated: 2025-10-02T13:04:27Z
+- [Freezing Season Sweater](https://lnlboutiquexo.myshopify.com/products/freezing-season): The unisex crewnecks are definitely one of our favourite sweaters. They are made of 50% cotton and 50% polyester, giving it a cozy, soft and comfortable feeling. True to size for a relaxed fit. Size down for a tighter fit. Please refer to sizing chart in photos for a more accurate fit & for all measurement information. Recommended to wash inside out in cold water, do not bleach, do not use fabric softener, hang to dry or tumble dry on low. Do not iron directly on decal.
+  Updated: 2025-10-10T12:59:33Z
   Vendor: L&L Boutique 
   Product Type: 
   Availability: Available
@@ -1255,8 +1255,8 @@
   - [Ash / 2XL](https://lnlboutiquexo.myshopify.com/products/freezing-season?variant=53062444024118)
     Availability: Available
     Price: $35.00 CAD
-- [Ya Filthy Animal](https://lnlboutiquexo.myshopify.com/products/ya-filthy-animal): The unisex crewnecks are definitely one of our favourite sweaters. They are made of 50% cotton and 50% polyester, giving it a cozy, soft and comfortable feeling. True to size for a relaxed fit. Size down for a tighter fit. Please refer to sizing chart in photos for a more accurate fit & for all measurement information. Recommended to wash inside out in cold water, do not bleach, do not use fabric softener, hang to dry or tumble dry on low. Do not iron directly on decal.
-  Updated: 2025-10-02T12:55:59Z
+- [Ya Filthy Animal Sweater](https://lnlboutiquexo.myshopify.com/products/ya-filthy-animal): The unisex crewnecks are definitely one of our favourite sweaters. They are made of 50% cotton and 50% polyester, giving it a cozy, soft and comfortable feeling. True to size for a relaxed fit. Size down for a tighter fit. Please refer to sizing chart in photos for a more accurate fit & for all measurement information. Recommended to wash inside out in cold water, do not bleach, do not use fabric softener, hang to dry or tumble dry on low. Do not iron directly on decal.
+  Updated: 2025-10-10T12:59:06Z
   Vendor: L&L Boutique 
   Product Type: 
   Availability: Available
@@ -1283,8 +1283,8 @@
   Updated: 2025-09-05T18:03:50Z
   Total Products: 1
 - [Sweatshirts & Hoodies](https://lnlboutiquexo.myshopify.com/collections/sweaters)
-  Updated: 2025-10-02T00:59:02Z
-  Total Products: 17
+  Updated: 2025-10-10T01:02:25Z
+  Total Products: 22
 - [Totes](https://lnlboutiquexo.myshopify.com/collections/tote-bags): 100% Heavy Canvas 15”W X 16”H Spot Clean Only
   Updated: 2025-10-02T00:40:36Z
   Total Products: 8
@@ -1292,17 +1292,11 @@
   Updated: 2025-09-19T14:14:48Z
   Total Products: 9
 - [Holiday Collection](https://lnlboutiquexo.myshopify.com/collections/christmas)
-  Updated: 2025-10-02T01:00:02Z
+  Updated: 2025-10-10T01:02:25Z
   Total Products: 18
-- [Spooky Collection](https://lnlboutiquexo.myshopify.com/collections/halloween)
-  Updated: 2025-09-07T17:23:15Z
-  Total Products: 5
 - [Bookish Collection](https://lnlboutiquexo.myshopify.com/collections/books)
   Updated: 2025-10-02T00:40:36Z
   Total Products: 19
-- [Bundles](https://lnlboutiquexo.myshopify.com/collections/bundles)
-  Updated: 2025-09-05T18:03:50Z
-  Total Products: 2
 - [Tumblers & Mugs](https://lnlboutiquexo.myshopify.com/collections/glassware)
   Updated: 2025-09-18T19:41:43Z
   Total Products: 13
@@ -1312,6 +1306,9 @@
 - [Limited Supply!](https://lnlboutiquexo.myshopify.com/collections/limited-supply)
   Updated: 2025-09-21T14:59:37Z
   Total Products: 3
+- [Ornaments](https://lnlboutiquexo.myshopify.com/collections/ornaments): Ceramic Ornament- 2.75 inch Round or Clear Acrylic Ornament - 4 inch Round
+  Updated: 2025-10-10T00:55:51Z
+  Total Products: 0
 
 ## Store Pages
 
