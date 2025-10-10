@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-10-10T12:01:09.958Z
+- Updated At: 2025-10-10T16:01:06.656Z
 
 ## Products
 
@@ -45,15 +45,6 @@ para relacionar o número com a quantidade de animais. Óptimo para ajudar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/puzzle-para-crianca-da-haba-o-meu-brinquedo-810679922-4010168262475-brincatoys-1178692648.jpg?v=1752825371
   Price: 12,99 € EUR
-- [123 Little Train](https://brincatoys.pt/products/123-little-train): Uh Uh!!! Aqui vem o comboio dos números! Junta as peças, conecta a 
-figura numérica com a quantidade e lugar das crianças nos espaços 
-correspondentes, todos a bordo!
-  Updated: 2025-10-10T06:44:30Z
-  Vendor: Seleção Brincatoys
-  Product Type: + 2 anos
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/123-little-train-912856622-8059591428566-brincatoys-1178692652.jpg?v=1752825381
-  Price: 16,99 € EUR
 - [3 Puzzles País das Fadas](https://brincatoys.pt/products/3-puzzles-pais-das-fadas): Um conjunto de 3 puzzles com 3 cenários para montar sobre o maravilhoso 
 mundo das fadas. Puzzles de cartão resistente com 12,15 e 18 peças, com 
 20x25cm montado, cada, ideais para desenvolver a motricidade e o 
@@ -2426,7 +2417,7 @@ Idade Recomendada: + de 6 anos.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/dc-batman-animated-series-jervis-tetch-235030815-dc-comics-1178693430.jpg?v=1752838322
   Price: 32,50 € EUR
 - [DC Batman Arkham Knight](https://brincatoys.pt/products/dc-batman-arkham-knight): Figura em PVC não tóxico, flexível, do jogo Batman Arkham Knight,  com aproximadamente 15 cm.A flexibilidade ds figura permite a adopção de uma variedade de poses de acção.
-  Updated: 2025-10-10T10:32:58Z
+  Updated: 2025-10-10T15:58:39Z
   Vendor: DC Comics
   Product Type: + 3 anos
   Availability: Available
@@ -16255,7 +16246,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/princesas-disney-ariel-e-eric-casamento-encantado-771736224-0192995217362-princesas-disney-1178699531.jpg?v=1752943328
   Price: 32,50 € EUR
 - [Puzzle Patrulha Pata 2 x 20 Peças - Diversão para Crianças](https://brincatoys.pt/products/puzzle-patrulha-pata-2-x-20-pecas): Puzzle Patrulha Pata 2 x 20 Peças para um entretenimento educativo que combina diversão e desenvolvimento cognitivo com os seus heróis caninos favoritos.
-  Updated: 2025-10-04T17:15:53Z
+  Updated: 2025-10-10T12:16:16Z
   Vendor: Patrulha Pata
   Product Type: + 3 anos
   Availability: Available
@@ -19993,7 +19984,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-fast-furious-brian-s-porsche-996-gt3-rs-868124825-4006333081248-fast-furious-1178692469.jpg?v=1752822258
   Price: 36,50 € EUR
 - [Tartarugas Ninja Mutant Mayhen - Michelangelo](https://brincatoys.pt/products/tartarugas-ninja-mutant-mayhen-michelangelo): A figura Tartarugas Ninja Mutant Mayhem Michelangelo traz a ação das famosas tartarugas diretamente para as mãos dos miúdos. Ptrimeiramente, com 11 pontos de articulação, esta figura articulada permite criar poses dinâmicas e recriar as cenas mais épicas da série. Além disso, o design colorido e fiel ao estilo Nickelodeon destaca-se pela máscara laranja característica do Michelangelo e pelos detalhes da carapaça em plástico resistente de alta qualidade. Por outro lado, para oferecer ainda mais diversão, este conjunto inclui acessórios: dois pares de nunchakus, duas estrelas ninja, um microfone, um pedaço de pizza, uma mini-tartaruga e restantes armas inspiradas no universo Mutant Mayhem. Desta forma, as crianças podem inventar batalhas, missões de resgate ou concertos improvisados na cidade de Nova Iorque. Ademais, todos os acessórios encaixam facilmente nas mãos da figura, garantindo brincadeiras sem esforço. Igualmente, com cerca de 11 cm (4,25″) de altura, adapta-se perfeitamente a outras figuras da coleção Mutant Mayhem e a cenários de brincadeira diversos. Como resultado, este brinquedo desenvolve a criatividade, a coordenação motora e promove horas de entretenimento ativo longe dos ecrãs. Por fim, seja para começar ou completar a coleção das Tartarugas Ninja, o Michelangelo Mutant Mayhem é uma escolha vencedora que combina qualidade, autenticidade e muita diversão. Em suma... Figura de 11 cm com 11 pontos de articulação Inclui acessórios: nunchakus, estrelas ninja, microfone, pizza e mini-tartaruga Plástico PVC atóxico e resistente, conforme normas CE Dimensão: 19 x 21 x 5,50 cm.Idade recomendada: + de 4 anos.
-  Updated: 2025-10-05T15:56:20Z
+  Updated: 2025-10-10T14:06:26Z
   Vendor: Tartarugas Ninja
   Product Type: + 4 anos
   Availability: Available
@@ -20098,7 +20089,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/coelho-de-peluche-25-cm-peluche-fofinho-522203125-7340031318082-brincatoys-1178692430.jpg?v=1752822723
   Price: 26,50 € EUR
 - [Rato de peluche Henry 30 cm - Brinquedo Adorável & Seguro](https://brincatoys.pt/products/rato-de-peluche-henry-copia-copia): Rato de peluche Henry de 30 cm, o companheiro macio e confiável para o seu filho. Segurança e encanto num peluche único. Perfeito para brincar e decorar!
-  Updated: 2025-10-10T06:11:54Z
+  Updated: 2025-10-10T15:59:38Z
   Vendor: Seleção Brincatoys
   Product Type: + 0 meses
   Availability: Available
@@ -20310,7 +20301,7 @@ Figura em borracha termoplástica do filme Branca de neve e os sete anões.Figur
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/figura-de-borracha-disney-mike-para-colecao-divertida-621258225-40071776125823-brincatoys-1195023904.jpg?v=1759037765
   Price: 9,50 € EUR
 - [Jogo de cartas UNO Show 'Em No Mercy - Diversão Estratégica](https://brincatoys.pt/products/jogo-de-cartas-uno-show-em-no-mercy): Explore o Jogo de cartas UNO Show 'Em No Mercy e viva momentos de pura adrenalina com familiares e amigos. Versão repleta de emoção e estratégia!
-  Updated: 2025-10-05T15:55:45Z
+  Updated: 2025-10-10T12:16:10Z
   Vendor: UNO
   Product Type: + 7 anos
   Availability: Available
@@ -21396,23 +21387,23 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-10T11:21:00Z
   Total Products: 1301
 - [Até €25](https://brincatoys.pt/collections/ate-25)
-  Updated: 2025-10-10T11:21:00Z
-  Total Products: 2406
+  Updated: 2025-10-10T15:33:46Z
+  Total Products: 2405
 - [Até €35](https://brincatoys.pt/collections/ate-35)
-  Updated: 2025-10-10T11:21:00Z
-  Total Products: 2869
+  Updated: 2025-10-10T15:33:46Z
+  Total Products: 2868
 - [Até €50](https://brincatoys.pt/collections/ate-50)
-  Updated: 2025-10-10T11:21:00Z
-  Total Products: 3251
+  Updated: 2025-10-10T15:33:46Z
+  Total Products: 3250
 - [Até €60](https://brincatoys.pt/collections/ate-60)
-  Updated: 2025-10-10T11:21:00Z
-  Total Products: 3388
+  Updated: 2025-10-10T15:33:46Z
+  Total Products: 3387
 - [Até €80](https://brincatoys.pt/collections/ate-80)
-  Updated: 2025-10-10T11:21:00Z
-  Total Products: 3467
+  Updated: 2025-10-10T15:33:46Z
+  Total Products: 3466
 - [Até €100](https://brincatoys.pt/collections/ate-100)
-  Updated: 2025-10-10T11:21:00Z
-  Total Products: 3516
+  Updated: 2025-10-10T15:33:46Z
+  Total Products: 3515
 - [Novidades](https://brincatoys.pt/collections/novidades)
   Updated: 2025-10-10T11:21:00Z
   Total Products: 387
@@ -21603,8 +21594,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-06T17:09:21Z
   Total Products: 9
 - [Catálogo](https://brincatoys.pt/collections/all)
-  Updated: 2025-10-10T11:21:00Z
-  Total Products: 3549
+  Updated: 2025-10-10T15:33:46Z
+  Total Products: 3548
 - [6 - 7 anos](https://brincatoys.pt/collections/6-7-anos)
   Updated: 2025-10-10T09:47:31Z
   Total Products: 287
@@ -21612,8 +21603,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-06T18:54:16Z
   Total Products: 184
 - [+ 2 anos](https://brincatoys.pt/collections/de-2-anos)
-  Updated: 2025-10-10T10:56:06Z
-  Total Products: 119
+  Updated: 2025-10-10T15:33:46Z
+  Total Products: 118
 - [+ 3 anos](https://brincatoys.pt/collections/de-3-anos)
   Updated: 2025-10-10T11:21:00Z
   Total Products: 1217
@@ -21639,11 +21630,11 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-06T11:23:20Z
   Total Products: 83
 - [Os mais procurados](https://brincatoys.pt/collections/os-mais-populares)
-  Updated: 2025-10-10T11:21:00Z
-  Total Products: 3549
+  Updated: 2025-10-10T15:33:46Z
+  Total Products: 3548
 - [Recém-chegados](https://brincatoys.pt/collections/recem-chegados)
-  Updated: 2025-10-10T11:21:00Z
-  Total Products: 3549
+  Updated: 2025-10-10T15:33:46Z
+  Total Products: 3548
 - [Produtos em destaque](https://brincatoys.pt/collections/produtos-em-destaque)
   Updated: 2025-10-08T10:33:18Z
   Total Products: 23
@@ -21654,8 +21645,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-12T11:21:00Z
   Total Products: 6
 - [OrderlyEmails - Recommended Products](https://brincatoys.pt/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-10-10T11:21:00Z
-  Total Products: 3071
+  Updated: 2025-10-10T12:16:47Z
+  Total Products: 3070
 - [Girafa Sofia](https://brincatoys.pt/collections/girafa-sofia)
   Updated: 2025-10-03T13:37:25Z
   Total Products: 20
@@ -21663,8 +21654,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-09T11:22:38Z
   Total Products: 126
 - [Marketplace](https://brincatoys.pt/collections/marketplace)
-  Updated: 2025-10-10T11:21:00Z
-  Total Products: 3071
+  Updated: 2025-10-10T12:16:47Z
+  Total Products: 3070
 - [EzConnector](https://brincatoys.pt/collections/ezconnector)
   Updated: 2025-10-10T10:55:59Z
   Total Products: 918
