@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2023-02-25T23:29:15Z
 - Contact Email: info@yourfabstore.com
-- Updated At: 2025-10-09T08:00:31.183Z
+- Updated At: 2025-10-10T00:00:32.475Z
 
 ## Products
 
@@ -5555,7 +5555,7 @@
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/5936373807209599223_2048.jpg?v=1739904223
     Price: $27.08 USD
 - ["I'm Not Weird I'm Limited Edition" Women's Tee](https://yourfabstore.com/products/im-not-weird-womens-t-shirt): This stylish T-Shirt features a funny quote that reads 'I'm not weird I'm limited edition'. It is a one-of-a-kind design perfect for women who want to showcase their unique personality. This tee is a great addition to any casual outfit, offering a fun and quirky vibe. Ideal for those who appreciate humor and enjoy standing out from the crowd. Perfect for everyday wear, lounging at home, or hanging out with friends. Great for gifting on birthdays, holidays, or special occasions.Product features- 100% Airlume combed and ring-spun cotton for a lightweight and breathable fabric- Retail fit suitable for casual and semi-formal settings- Shoulder tape and ribbed knit collar for added structure and support- Sleeve and neck label printing techniques ensure vibrant colors and detailed designs- Manufactured by Bella+Canvas in a humane, sustainable, and fair labor wayCare instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Iron, steam or dry: medium heat- Do not dryclean S M L XL 2XL 3XL Width, in 18.00 20.00 22.00 24.00 26.00 28.00 Length, in 28.00 29.00 30.00 31.00 32.00 33.00 Sleeve length, in 8.90 9.20 9.50 9.70 10.00 10.40 Size tolerance, in 1.50 1.50 1.50 1.50 1.50 1.50 EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Bella+Canvas 3001, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Care instructions: Machine wash: cold (max 30C or 90F), Non-chlorine: bleach as needed, Tumble dry: low heat, Iron, steam or dry: medium heat, Do not dryclean
-  Updated: 2025-10-09T05:18:56Z
+  Updated: 2025-10-09T17:06:28Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
@@ -6735,131 +6735,211 @@
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/12019891560501313409-2048-_5.jpg?v=1759285001
     Price: $30.00 USD
 - [Retro One Piece Friends in Sunglasses Unisex Tee](https://yourfabstore.com/products/retro-one-piece-friends-in-sunglasses): This Tee features a one piece anime design, perfect for anime and manga enthusiasts. Made from specially spun fibers, this Tee is strong and smooth, ideal for printing. It is relevant for otaku and Japanese culture fans, fitting into casual and everyday wear. Suitable for holidays like Comic-Con or birthdays of anime fans.Product features- Shoulder tape for stability- Ribbed knit collar for elasticity- Ethically sourced US cotton- Classic fit for comfort- Direct-to-Film and Direct-to-Garment printing techniquesCare instructions- Machine wash: warm (max 40C or 105F)- Non-chlorine: bleach as needed- Tumble dry: medium- Do not iron- Do not dryclean S M L XL 2XL 3XL 4XL 5XL Width, in 18.00 20.00 22.00 24.00 26.00 28.00 30.00 32.00 Length, in 28.00 29.00 30.00 31.00 32.00 33.00 34.00 35.00 Sleeve length (from center back), in 15.10 16.50 18.00 19.50 21.00 22.40 23.70 25.00 Size tolerance, in 1.50 1.50 1.50 1.50 1.50 1.50 1.50 1.50 EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Gildan 5000, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: For adults, Made in Nicaragua Care instructions: Machine wash: warm (max 40C or 105F), Non-chlorine: bleach as needed, Tumble dry: medium, Do not iron, Do not dryclean
-  Updated: 2025-10-01T02:16:32Z
+  Updated: 2025-10-09T18:50:20Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/2273238777935300462_2048.jpg?v=1755495909
+  Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/12900685845424567458_2048.jpg?v=1760035713
+  - [Charcoal / S](https://yourfabstore.com/products/retro-one-piece-friends-in-sunglasses?variant=52463277998355)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/5912826744846729725_2048.jpg?v=1760035724
+    Price: $30.65 USD
+  - [Dark Heather / S](https://yourfabstore.com/products/retro-one-piece-friends-in-sunglasses?variant=52463278031123)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/9546532164986561254_2048.jpg?v=1760035723
+    Price: $30.65 USD
   - [Light Blue / S](https://yourfabstore.com/products/retro-one-piece-friends-in-sunglasses?variant=52215467376915)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/5099896217187394688-2048-_5.jpg?v=1759284944
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/8653895805699267443_2048.jpg?v=1760035720
+    Price: $30.65 USD
+  - [Light Pink / S](https://yourfabstore.com/products/retro-one-piece-friends-in-sunglasses?variant=52463278063891)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/6210949692803848357_2048.jpg?v=1760035728
     Price: $30.65 USD
   - [Natural / S](https://yourfabstore.com/products/retro-one-piece-friends-in-sunglasses?variant=51343817081107)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/5834041015720596792-2048-_4.jpg?v=1759284940
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/17302020992018699720_2048.jpg?v=1760035719
+    Price: $30.65 USD
+  - [Orange / S](https://yourfabstore.com/products/retro-one-piece-friends-in-sunglasses?variant=52463278096659)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/12577436855363508500_2048.jpg?v=1760035722
+    Price: $30.65 USD
+  - [Royal / S](https://yourfabstore.com/products/retro-one-piece-friends-in-sunglasses?variant=52463278129427)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/13622013158439445700_2048.jpg?v=1760035727
     Price: $30.65 USD
   - [Sand / S](https://yourfabstore.com/products/retro-one-piece-friends-in-sunglasses?variant=51343817113875)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/7113263498988345630-2048-_2.jpg?v=1759284932
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/18236396903194973659_2048.jpg?v=1760035715
     Price: $30.65 USD
   - [Sport Grey / S](https://yourfabstore.com/products/retro-one-piece-friends-in-sunglasses?variant=51343817146643)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/4710854233691150553-2048-_3.jpg?v=1759284936
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/13102504563083598390_2048.jpg?v=1760035717
     Price: $30.65 USD
   - [White / S](https://yourfabstore.com/products/retro-one-piece-friends-in-sunglasses?variant=51343817179411)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/2273238777935300462_2048.jpg?v=1755495909
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/12900685845424567458_2048.jpg?v=1760035713
+    Price: $30.65 USD
+  - [Charcoal / M](https://yourfabstore.com/products/retro-one-piece-friends-in-sunglasses?variant=52463278162195)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/5912826744846729725_2048.jpg?v=1760035724
+    Price: $30.65 USD
+  - [Dark Heather / M](https://yourfabstore.com/products/retro-one-piece-friends-in-sunglasses?variant=52463278194963)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/9546532164986561254_2048.jpg?v=1760035723
     Price: $30.65 USD
   - [Light Blue / M](https://yourfabstore.com/products/retro-one-piece-friends-in-sunglasses?variant=52215467409683)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/5099896217187394688-2048-_5.jpg?v=1759284944
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/8653895805699267443_2048.jpg?v=1760035720
+    Price: $30.65 USD
+  - [Light Pink / M](https://yourfabstore.com/products/retro-one-piece-friends-in-sunglasses?variant=52463278227731)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/6210949692803848357_2048.jpg?v=1760035728
     Price: $30.65 USD
   - [Natural / M](https://yourfabstore.com/products/retro-one-piece-friends-in-sunglasses?variant=51343817310483)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/5834041015720596792-2048-_4.jpg?v=1759284940
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/17302020992018699720_2048.jpg?v=1760035719
+    Price: $30.65 USD
+  - [Orange / M](https://yourfabstore.com/products/retro-one-piece-friends-in-sunglasses?variant=52463278260499)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/12577436855363508500_2048.jpg?v=1760035722
+    Price: $30.65 USD
+  - [Royal / M](https://yourfabstore.com/products/retro-one-piece-friends-in-sunglasses?variant=52463278293267)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/13622013158439445700_2048.jpg?v=1760035727
     Price: $30.65 USD
   - [Sand / M](https://yourfabstore.com/products/retro-one-piece-friends-in-sunglasses?variant=51343817343251)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/7113263498988345630-2048-_2.jpg?v=1759284932
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/18236396903194973659_2048.jpg?v=1760035715
     Price: $30.65 USD
   - [Sport Grey / M](https://yourfabstore.com/products/retro-one-piece-friends-in-sunglasses?variant=51343817376019)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/4710854233691150553-2048-_3.jpg?v=1759284936
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/13102504563083598390_2048.jpg?v=1760035717
     Price: $30.65 USD
   - [White / M](https://yourfabstore.com/products/retro-one-piece-friends-in-sunglasses?variant=51343817408787)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/2273238777935300462_2048.jpg?v=1755495909
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/12900685845424567458_2048.jpg?v=1760035713
+    Price: $30.65 USD
+  - [Charcoal / L](https://yourfabstore.com/products/retro-one-piece-friends-in-sunglasses?variant=52463278326035)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/5912826744846729725_2048.jpg?v=1760035724
+    Price: $30.65 USD
+  - [Dark Heather / L](https://yourfabstore.com/products/retro-one-piece-friends-in-sunglasses?variant=52463278358803)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/9546532164986561254_2048.jpg?v=1760035723
     Price: $30.65 USD
   - [Light Blue / L](https://yourfabstore.com/products/retro-one-piece-friends-in-sunglasses?variant=52215467442451)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/5099896217187394688-2048-_5.jpg?v=1759284944
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/8653895805699267443_2048.jpg?v=1760035720
+    Price: $30.65 USD
+  - [Light Pink / L](https://yourfabstore.com/products/retro-one-piece-friends-in-sunglasses?variant=52463278391571)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/6210949692803848357_2048.jpg?v=1760035728
     Price: $30.65 USD
   - [Natural / L](https://yourfabstore.com/products/retro-one-piece-friends-in-sunglasses?variant=51343817539859)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/5834041015720596792-2048-_4.jpg?v=1759284940
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/17302020992018699720_2048.jpg?v=1760035719
+    Price: $30.65 USD
+  - [Orange / L](https://yourfabstore.com/products/retro-one-piece-friends-in-sunglasses?variant=52463278424339)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/12577436855363508500_2048.jpg?v=1760035722
+    Price: $30.65 USD
+  - [Royal / L](https://yourfabstore.com/products/retro-one-piece-friends-in-sunglasses?variant=52463278457107)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/13622013158439445700_2048.jpg?v=1760035727
     Price: $30.65 USD
   - [Sand / L](https://yourfabstore.com/products/retro-one-piece-friends-in-sunglasses?variant=51343817572627)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/7113263498988345630-2048-_2.jpg?v=1759284932
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/18236396903194973659_2048.jpg?v=1760035715
     Price: $30.65 USD
   - [Sport Grey / L](https://yourfabstore.com/products/retro-one-piece-friends-in-sunglasses?variant=51343817605395)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/4710854233691150553-2048-_3.jpg?v=1759284936
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/13102504563083598390_2048.jpg?v=1760035717
     Price: $30.65 USD
   - [White / L](https://yourfabstore.com/products/retro-one-piece-friends-in-sunglasses?variant=51343817638163)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/2273238777935300462_2048.jpg?v=1755495909
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/12900685845424567458_2048.jpg?v=1760035713
+    Price: $30.65 USD
+  - [Charcoal / XL](https://yourfabstore.com/products/retro-one-piece-friends-in-sunglasses?variant=52463278489875)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/5912826744846729725_2048.jpg?v=1760035724
+    Price: $30.65 USD
+  - [Dark Heather / XL](https://yourfabstore.com/products/retro-one-piece-friends-in-sunglasses?variant=52463278522643)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/9546532164986561254_2048.jpg?v=1760035723
     Price: $30.65 USD
   - [Light Blue / XL](https://yourfabstore.com/products/retro-one-piece-friends-in-sunglasses?variant=52215467475219)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/5099896217187394688-2048-_5.jpg?v=1759284944
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/8653895805699267443_2048.jpg?v=1760035720
+    Price: $30.65 USD
+  - [Light Pink / XL](https://yourfabstore.com/products/retro-one-piece-friends-in-sunglasses?variant=52463278555411)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/6210949692803848357_2048.jpg?v=1760035728
     Price: $30.65 USD
   - [Natural / XL](https://yourfabstore.com/products/retro-one-piece-friends-in-sunglasses?variant=51343817769235)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/5834041015720596792-2048-_4.jpg?v=1759284940
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/17302020992018699720_2048.jpg?v=1760035719
+    Price: $30.65 USD
+  - [Orange / XL](https://yourfabstore.com/products/retro-one-piece-friends-in-sunglasses?variant=52463278588179)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/12577436855363508500_2048.jpg?v=1760035722
+    Price: $30.65 USD
+  - [Royal / XL](https://yourfabstore.com/products/retro-one-piece-friends-in-sunglasses?variant=52463278620947)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/13622013158439445700_2048.jpg?v=1760035727
     Price: $30.65 USD
   - [Sand / XL](https://yourfabstore.com/products/retro-one-piece-friends-in-sunglasses?variant=51343817802003)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/7113263498988345630-2048-_2.jpg?v=1759284932
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/18236396903194973659_2048.jpg?v=1760035715
     Price: $30.65 USD
   - [Sport Grey / XL](https://yourfabstore.com/products/retro-one-piece-friends-in-sunglasses?variant=51343817834771)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/4710854233691150553-2048-_3.jpg?v=1759284936
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/13102504563083598390_2048.jpg?v=1760035717
     Price: $30.65 USD
   - [White / XL](https://yourfabstore.com/products/retro-one-piece-friends-in-sunglasses?variant=51343817867539)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/2273238777935300462_2048.jpg?v=1755495909
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/12900685845424567458_2048.jpg?v=1760035713
     Price: $30.65 USD
+  - [Charcoal / 2XL](https://yourfabstore.com/products/retro-one-piece-friends-in-sunglasses?variant=52463278653715)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/5912826744846729725_2048.jpg?v=1760035724
+    Price: $36.94 USD
+  - [Dark Heather / 2XL](https://yourfabstore.com/products/retro-one-piece-friends-in-sunglasses?variant=52463278686483)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/9546532164986561254_2048.jpg?v=1760035723
+    Price: $36.94 USD
   - [Light Blue / 2XL](https://yourfabstore.com/products/retro-one-piece-friends-in-sunglasses?variant=52215467507987)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/5099896217187394688-2048-_5.jpg?v=1759284944
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/8653895805699267443_2048.jpg?v=1760035720
+    Price: $36.94 USD
+  - [Light Pink / 2XL](https://yourfabstore.com/products/retro-one-piece-friends-in-sunglasses?variant=52463278719251)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/6210949692803848357_2048.jpg?v=1760035728
+    Price: $36.94 USD
+  - [Orange / 2XL](https://yourfabstore.com/products/retro-one-piece-friends-in-sunglasses?variant=52463278752019)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/12577436855363508500_2048.jpg?v=1760035722
+    Price: $36.94 USD
+  - [Royal / 2XL](https://yourfabstore.com/products/retro-one-piece-friends-in-sunglasses?variant=52463278784787)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/13622013158439445700_2048.jpg?v=1760035727
     Price: $36.94 USD
   - [Sand / 2XL](https://yourfabstore.com/products/retro-one-piece-friends-in-sunglasses?variant=51343818031379)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/7113263498988345630-2048-_2.jpg?v=1759284932
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/18236396903194973659_2048.jpg?v=1760035715
     Price: $36.94 USD
   - [Sport Grey / 2XL](https://yourfabstore.com/products/retro-one-piece-friends-in-sunglasses?variant=51343818064147)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/4710854233691150553-2048-_3.jpg?v=1759284936
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/13102504563083598390_2048.jpg?v=1760035717
     Price: $36.94 USD
   - [White / 2XL](https://yourfabstore.com/products/retro-one-piece-friends-in-sunglasses?variant=51343818096915)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/2273238777935300462_2048.jpg?v=1755495909
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/12900685845424567458_2048.jpg?v=1760035713
     Price: $36.94 USD
-  - [Sport Grey / 3XL](https://yourfabstore.com/products/retro-one-piece-friends-in-sunglasses?variant=51343818293523)
+  - [Charcoal / 3XL](https://yourfabstore.com/products/retro-one-piece-friends-in-sunglasses?variant=52463278817555)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/4710854233691150553-2048-_3.jpg?v=1759284936
+    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/5912826744846729725_2048.jpg?v=1760035724
     Price: $40.55 USD
-  - [White / 3XL](https://yourfabstore.com/products/retro-one-piece-friends-in-sunglasses?variant=51343818326291)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/2273238777935300462_2048.jpg?v=1755495909
-    Price: $40.55 USD
-  - [Sport Grey / 4XL](https://yourfabstore.com/products/retro-one-piece-friends-in-sunglasses?variant=51343818522899)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/4710854233691150553-2048-_3.jpg?v=1759284936
-    Price: $42.55 USD
-  - [White / 4XL](https://yourfabstore.com/products/retro-one-piece-friends-in-sunglasses?variant=51343818555667)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/2273238777935300462_2048.jpg?v=1755495909
-    Price: $42.55 USD
-  - [Sport Grey / 5XL](https://yourfabstore.com/products/retro-one-piece-friends-in-sunglasses?variant=51343818752275)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/4710854233691150553-2048-_3.jpg?v=1759284936
-    Price: $42.48 USD
-  - [White / 5XL](https://yourfabstore.com/products/retro-one-piece-friends-in-sunglasses?variant=51343818785043)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/2273238777935300462_2048.jpg?v=1755495909
-    Price: $42.48 USD
 - [Sakamoto Days Anime Tee](https://yourfabstore.com/products/sakamoto-days-anime-tee): This Sakamoto days anime-inspired T-Shirt is perfect for any anime lover or manga enthusiast. The design embodies a mix of Japanese culture and new anime trends, giving a trendy and stylish vibe. It is a great addition to anyone's casual wardrobe, perfect for everyday wear. Ideal for anime conventions, birthdays, or holiday gifts for fans of Japanese pop culture.Product features- Shoulder tape for stability and prevent stretching- Made from smooth and strong fabric perfect for printing- Classic fit for comfy, relaxed wear- Ethically grown and harvested 100% US cotton- Tear-away label for scratch-free experienceCare instructions- Machine wash: warm (max 40C or 105F)- Non-chlorine: bleach as needed- Tumble dry: medium- Do not iron- Do not dryclean S M L XL 2XL 3XL 4XL 5XL Width, in 18.00 20.00 22.00 24.00 26.00 28.00 30.00 32.00 Length, in 28.00 29.00 30.00 31.00 32.00 33.00 34.00 35.00 Sleeve length (from center back), in 15.10 16.50 18.00 19.50 21.00 22.40 23.70 25.00 Size tolerance, in 1.50 1.50 1.50 1.50 1.50 1.50 1.50 1.50 EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Gildan 5000, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: For adults, Made in Nicaragua Care instructions: Machine wash: warm (max 40C or 105F), Non-chlorine: bleach as needed, Tumble dry: medium, Do not iron, Do not dryclean
   Updated: 2025-10-01T02:15:31Z
   Vendor: Printify
