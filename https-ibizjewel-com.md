@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-01-24T04:49:01Z
 - Contact Email: info@ibizjewel.com
-- Updated At: 2025-10-09T20:00:46.987Z
+- Updated At: 2025-10-10T00:00:49.310Z
 
 ## Products
 
@@ -1497,7 +1497,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/SPDR-03_1.jpg?v=1703830717
     Price: $2,699.00 USD
 - [Salt & Pepper 1.55CT Pear Diamond Ring | IBIZ Jewel](https://ibizjewel.com/products/natural-salt-and-pepper-1-55ct-pear-diamond-art-deco-unique-engagement-ring-handmade-ring-anniversary-ring): Discover our unique 1.55CT pear salt & pepper diamond engagement ring. Handmade & ready to ship—shop IBIZ Jewel now.
-  Updated: 2025-10-09T10:44:56Z
+  Updated: 2025-10-09T22:45:05Z
   Vendor: Natural Salt And Pepper Diamond Ring
   Product Type: Natural Salt And Pepper Pear Diamond Ring
   Availability: Available
@@ -1551,7 +1551,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/SPDR-04_2.jpg?v=1690539746
     Price: $2,469.00 USD
 - [Salt & Pepper Diamond Pear Ring | IBIZ Jewel](https://ibizjewel.com/products/natural-salt-and-pepper-1-75ct-pear-diamond-art-deco-unique-engagement-ring-handmade-ring-anniversary-ring): Discover the Art Deco Salt & Pepper Diamond Pear Ring – unique, handcrafted luxury by IBIZ Jewel. Shop now for timeless elegance.
-  Updated: 2025-10-09T11:16:27Z
+  Updated: 2025-10-09T23:00:03Z
   Vendor: Natural Salt And Pepper Diamond Ring
   Product Type: Natural Salt And Pepper Pear Diamond Ring
   Availability: Available
@@ -44328,7 +44328,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-296_7.jpg?v=1716980317
     Price: $978.00 USD
 - [4.75CT Moissanite Anniversary Ring | 14K Gold Cushion Cut](https://ibizjewel.com/products/moissanite-4-75ct-cushion-diamond-edwardian-anniversary-ring): Stunning 4.75CT cushion cut Moissanite anniversary ring in 14K gold. Brilliant, ethical, affordable luxury. Free shipping & lifetime warranty.
-  Updated: 2025-10-09T10:21:49Z
+  Updated: 2025-10-09T22:21:54Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Cushion Diamond Ring
   Availability: Available
