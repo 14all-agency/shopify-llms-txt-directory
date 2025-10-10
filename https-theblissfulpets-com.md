@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2024-03-04T12:03:04Z
 - Contact Email: ashley@theblissfuldog.com
-- Updated At: 2025-10-10T08:00:30.016Z
+- Updated At: 2025-10-10T12:00:30.704Z
 
 ## Products
 
@@ -1580,19 +1580,19 @@
   Updated: 2024-08-29T19:15:46Z
   Total Products: 0
 - [Dog Butters](https://theblissfulpets.com/collections/nose-butter)
-  Updated: 2025-10-09T11:20:07Z
+  Updated: 2025-10-10T11:19:34Z
   Total Products: 8
 - [Dog Grooming](https://theblissfulpets.com/collections/dog-grooming)
-  Updated: 2025-10-09T11:20:07Z
+  Updated: 2025-10-10T11:19:34Z
   Total Products: 19
 - [Shop All Dog](https://theblissfulpets.com/collections/shop-all-dog)
-  Updated: 2025-10-09T11:20:07Z
+  Updated: 2025-10-10T11:19:34Z
   Total Products: 37
 - [Sensitive Skin](https://theblissfulpets.com/collections/sensitive-skin)
-  Updated: 2025-10-09T11:20:07Z
+  Updated: 2025-10-10T11:19:34Z
   Total Products: 5
 - [Insect Control](https://theblissfulpets.com/collections/insect-control)
-  Updated: 2025-10-08T11:19:47Z
+  Updated: 2025-10-10T11:19:34Z
   Total Products: 4
 - [Cat Moisturizing Butters](https://theblissfulpets.com/collections/cat-moisturizing-butters)
   Updated: 2025-10-07T11:19:48Z
@@ -1628,7 +1628,7 @@
   Updated: 2025-10-07T11:19:48Z
   Total Products: 21
 - [Dog Aromatherapy](https://theblissfulpets.com/collections/dog-aromatherapy)
-  Updated: 2025-09-23T11:17:18Z
+  Updated: 2025-10-10T11:19:34Z
   Total Products: 3
 - [Blissful Bundles](https://theblissfulpets.com/collections/blissful-bundles)
   Updated: 2025-10-06T11:17:39Z
