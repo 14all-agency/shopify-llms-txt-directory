@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-10-25T08:25:11Z
 - Contact Email: info@worldwidehifi.shop
-- Updated At: 2025-10-09T08:00:32.499Z
+- Updated At: 2025-10-10T04:00:33.811Z
 
 ## ABOUT
 WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage audio gear with insured worldwide shipping—buy here when you want premium brands for less, rare models in stock, real-item photos, highest quality guarantee and expert support.
@@ -1379,13 +1379,6 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_3b81e532-bfe6-4b54-813d-1be4f3ccfdd8.jpg?v=1748016900
   Price: 380,00 € EUR
-- [Audioplan Powerplant 100 Trenntrafo gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/audioplan-powerplant-100-gebrucht-kaufen): Audioplan Powerplant 100 Trenntrafo gebraucht kaufen ✅ Geprüfter Netzfilter mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-09-15T22:27:03Z
-  Vendor: WorldWideHifi
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_eec0ce8d-9c9f-4c45-8f48-13c63eedfa75.jpg?v=1749050325
-  Price: 360,00 € EUR
 - [Klang und Kunst PC 2 Trenntrafo Netzfilter gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/klang-und-kunst-pc-2-trenntrafo-netzfilter-gebraucht-kaufen): Klang und Kunst PC 2 Trenntrafo Netzfilter gebraucht kaufen ✅ Geprüfte Netzfilter mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
   Updated: 2025-09-15T22:27:23Z
   Vendor: WorldWideHifi
@@ -1512,13 +1505,6 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_c49837d2-3c55-42a3-8fe2-86a9b6e90c9c.jpg?v=1751454546
   Price: 5.420,00 € EUR
-- [McIntosh MCT 80 SACD/CD Transport Laufwerk gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/mcintosh-mct-80-sacd-cd-transport-gebraucht-kaufen): McIntosh MCT 80 SACD/CD Transport Laufwerk gebraucht kaufen ✅ Geprüftes HiFi Gerät mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHiFi kaufen ✅
-  Updated: 2025-09-15T22:27:27Z
-  Vendor: WorldWideHifi
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_c6cc9ec0-fb75-419b-9705-c44e8eb5cf32.jpg?v=1751453990
-  Price: 4.300,00 € EUR
 - [CREEK Destiny HighEnd CD Compact Disc Player gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/creek-destiny-highend-cd-compact-disc-player-gebraucht-kaufen): CREEK Destiny HighEnd CD Compact Disc Player gebraucht kaufen ✅ Geprüfter CD-Player mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
   Updated: 2025-09-15T22:27:12Z
   Vendor: WorldWideHifi
@@ -2009,13 +1995,6 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_f3cff3af-5d40-4f3f-9ee1-27f409398f2b.jpg?v=1756382377
   Price: 2.930,00 € EUR
-- [Bowers & Wilkins 803 D4 gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/bowers-wilkins-803-d4-diamond-tweeter-gebraucht-kaufen): Bowers & Wilkins 803 D4 gebraucht kaufen ✅ Geprüfte Lautsprecher mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-09-15T22:27:23Z
-  Vendor: WorldWideHiFi
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_4b5d8a9f-8f6c-4dc9-8b99-3541607d3eaa.jpg?v=1756382522
-  Price: 16.820,00 € EUR
 - [Q-Acoustics Concept 500 gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/q-acoustics-concept-500-gebraucht-kaufen): Q-Acoustics Concept 500 gebraucht kaufen ✅ Geprüfte Lautsprecher mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
   Updated: 2025-10-05T15:05:03Z
   Vendor: WorldWideHiFi
@@ -2333,7 +2312,7 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Updated: 2025-09-30T17:09:45Z
   Total Products: 4
 - [Gebrauchte CD-Player kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/gebrauchte-cd-player-kaufen): Gebrauchte CD-Player kaufen ✓ HiFi CD-Player & CD-Wechsler im Top-Zustand ✓ Sicherer Versand weltweit ✓ High-End HiFi günstig online bestellen
-  Updated: 2025-10-07T04:42:58Z
+  Updated: 2025-10-09T11:19:53Z
   Total Products: 32
 - [Netzwerkplayer gebraucht kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/nezwerkplayer-gebraucht-kaufen): Netzwerkplayer gebraucht kaufen ✓ Netzwerkplayer & Musikstreamer im Top-Zustand ✓ Sicherer Versand weltweit ✓ Preiswerte High-End HiFi online bestellen
   Updated: 2025-10-07T04:42:58Z
@@ -2366,8 +2345,8 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Updated: 2025-10-05T16:39:25Z
   Total Products: 24
 - [Verkaufte HiFi-Artikel](https://worldwidehifi.shop/collections/verkaufte-hifi-artikel)
-  Updated: 2025-10-09T07:51:25Z
-  Total Products: 102
+  Updated: 2025-10-09T21:16:25Z
+  Total Products: 105
 - [Highest End](https://worldwidehifi.shop/collections/highest-end)
   Updated: 2025-10-05T16:11:44Z
   Total Products: 22
