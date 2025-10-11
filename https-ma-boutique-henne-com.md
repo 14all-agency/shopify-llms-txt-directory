@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2018-01-12T21:20:39Z
 - Contact Email: contact@ma-boutique-henne.com
-- Updated At: 2025-10-11T00:00:38.628Z
+- Updated At: 2025-10-11T04:00:36.895Z
 
 ## Products
 
@@ -1348,14 +1348,14 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/shampoing-creme-cheveux-secs_05858f44-c48c-43a0-a859-6f11ccea7fe2.jpg?v=1588066722
   Price: 11,00 € EUR
 - [Shampoing Purifiant cheveux gras, regraissant vite - Centifolia](https://ma-boutique-henne.com/products/shampoing-creme-cheveux-gras-ortie-et-argile-verte-centifolia): shampoing crème cheveux gras argile verte ortie, 100% naturelle, bio, vegan, centifolia, hydrater cheveux, visage, corps, crème, recette, préparation, masque, soin capillaire, poudre, henné, ghassoul, avoine, shikakai, boutique henne, cosmetique, vegetal, nourrir, hydratation, cheveux secs, abimés
-  Updated: 2025-10-10T13:03:53Z
+  Updated: 2025-10-11T01:03:59Z
   Vendor: Ma Boutique Henné
   Product Type: Shampoing
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2730/3378/files/shampoing-purifiant_2.jpg?v=1738839016
   Price: 9,90 € EUR
 - [Baume Après-Shampoing Démêlant - Framboise et Amande Douce - Centifolia](https://ma-boutique-henne.com/products/baume-apres-shampoing-framboise-et-amande-douce-centifolia): baume après shampoing framboise démelant Centifolia, 100% naturelle, bio, vegan, centifolia, hydrater cheveux, visage, corps, crème, recette, préparation, masque, soin capillaire, poudre, henné, ghassoul, avoine, shikakai, boutique henne, cosmetique, vegetal, nourrir, hydratation, cheveux secs, abimés
-  Updated: 2025-10-10T13:16:19Z
+  Updated: 2025-10-11T01:16:23Z
   Vendor: Ma Boutique Henné
   Product Type: Après-Shampoing
   Availability: Available
@@ -2076,14 +2076,14 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/files/156976925_poudre_BLOND_DORE.jpg?v=1736421954
   Price: 5,99 € EUR
 - [Shampoing Crème Réparateur, cheveux fragilisés et cassants, Huile de Ricin et Kératine Végétale - Centifolia](https://ma-boutique-henne.com/products/shampoing-creme-reparateur-cheveux-fragilises-et-cassants-huile-de-ricin-et-keratine-vegetale-centifolia): shampoing crème cheveux secs fragiles cassants huile de ricin kératine végétale Centifolia, 100% naturelle, bio, vegan, centifolia, hydrater cheveux, visage, corps, crème, recette, préparation, masque, soin capillaire, poudre, henné, boutique henne, cosmetique, vegetal, nourrir, hydratation, cheveux secs, abimés
-  Updated: 2025-10-10T13:05:44Z
+  Updated: 2025-10-11T01:05:50Z
   Vendor: Ma Boutique Henné
   Product Type: Shampoing
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2730/3378/files/shampoing-creme-reparateur.jpg?v=1738842967
   Price: 9,90 € EUR
 - [Shampoing Volume Absolu, cheveux fins et plats, Pamplemousse Rose - Centifolia](https://ma-boutique-henne.com/products/shampoing-volume-cheveux-fins-et-plats-pamplemousse-rose-centifolia-copie): shampoing crème cheveux plats et fins, volume absolu, pamplemousse cassants huile de ricin kératine végétale Centifolia, 100% naturelle, bio, vegan, centifolia, hydrater cheveux, visage, corps, crème, recette, préparation, masque, soin capillaire, poudre, henné, boutique henne, cosmetique, vegetal, nourrir, henné
-  Updated: 2025-10-10T13:04:51Z
+  Updated: 2025-10-11T01:04:56Z
   Vendor: Ma Boutique Henné
   Product Type: Shampoing
   Availability: Available
@@ -2139,7 +2139,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/files/shampoing-creme-cheveux-normaux.jpg?v=1760086169
   Price: 9,90 € EUR
 - [Shampoing Démêlant et Fixateur de Couleur, Grenade Bio - Centifolia](https://ma-boutique-henne.com/products/shampoing-demelant-et-fixateur-de-couleur-grenade-bio-centifolia): shampoing hydratant cheveux normaux secs amande douce aloe vera Centifolia, naturel bio, vegan, centifolia, hydrater cheveux soin capillaire, henne, cosmetique
-  Updated: 2025-10-10T12:51:15Z
+  Updated: 2025-10-11T00:48:22Z
   Vendor: Ma Boutique Henné
   Product Type: Shampoing
   Availability: Available
