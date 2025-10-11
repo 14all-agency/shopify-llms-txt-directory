@@ -6,12 +6,12 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-07-26T03:23:12Z
 - Contact Email: donedeals.xyz@gmail.com
-- Updated At: 2025-10-10T20:00:54.031Z
+- Updated At: 2025-10-11T08:00:54.516Z
 
 ## Products
 
 - [LED PIR Motion Sensor Cabinet  With USB Rechargeble](https://donedeals.xyz/products/led-pir-motion-sensor-cabinet-with-usb-rechargeble): Product Name: LED PIR Motion Sensor Cabinet Light With USB Rechargeble Package Contains: 1 PieceColour Temperature- 2500 - 3000 K WarmCord Colour- WirelessNumber of light - 3 lightsFeatures- Battery Operated, Colour-Changing, Dimmable, Easy Installation, Energy Efficient, Energy Saving, Even Lighting, Low Voltage, PIR Motion Sensor, Portable, Rechargeable, Rust Resistant, Sensor, Smart Enabled, Spotlight, Stick-On, USB, Wall Mounted, Waterproof, Wireless, With LightLight Colour- Neutral White, Warm White, WhitePower Source - USBCombo: Pack of 1Weight: 400gramLBH - ? ?40L x 4W x 8.6H Centimeters
-  Updated: 2025-10-10T19:46:47Z
+  Updated: 2025-10-11T07:15:42Z
   Vendor: rakqr0-pn
   Product Type: 
   Availability: Available
@@ -6769,7 +6769,7 @@
   Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/cftuv_512_e7438dc3-39c5-4d0a-b7ea-e787da35eac6.webp?v=1759211742
   Price: ₹0.00 INR
 - [Oil Dispenser Bottle for Kitchen - 2 in 1 Olive Oil Dispenser and Oil Sprayer - 500ml Olive Oil Bottle - Oil Sprayer for Cooking, Kitchen, Salad, Barbecue 1 Pcs](https://donedeals.xyz/products/oil-dispenser-bottle-for-kitchen-2-in-1-olive-oil-dispenser-and-oil-sprayer-500ml-olive-oil-bottle-oil-sprayer-for-cooking-kitchen-salad-barbecue-1-pcs-1): Product Details Name : Oil Dispenser Bottle for Kitchen - 2 in 1 Olive Oil Dispenser and Oil Sprayer - 500ml Olive Oil Bottle - Oil Sprayer for Cooking, Kitchen, Salad, Barbecue 1 Pcs Material : Glass Product Breadth : 10 Cm Product Height : 10 Cm Product Length : 5 Cm Net Quantity (N) : Pack Of 1 Name : 2 In 1 Oil Sprayer & Dispenser Bottle for Kitchen | 500 ml | Free steel straw | For Cooking, Salad, Air Fryer, Barbecue, Baking | Premium Glass Bottle | Durable | with Leak Proof Seal | Multicolor Material : Glass Product Breadth : 15 Cm Product Height : 10 Cm Product Length : 10 Cm Net Quantity (N) : Pack Of 1 Name : Oil Spray And Dispenser Bottle for Kitchen,2 in 1 Olive Oil Mist Spray and Oil Dispenser 500ML for Cooking,BBQ, Air Fryer, Salad, Frying, Baking Material : Glass Product Breadth : 0.5 Cm Product Height : 1.5 Cm Product Length : 1.5 Cm Net Quantity (N) : Pack Of 1 【2 in 1 Olive Oil Sprayer and Oiler】 This oil dispenser bottle has a built-in spout. can switch between spray and pour functions at any time. Kitchenware tools for home and kitchen. 【Upgraded Nozzle Design】 The nozzle of this olive oil dispenser bottle has been upgraded to achieve a uniform fan-shaped spray. The upgraded anti-drip design realizes no dripping or hanging on the wall when pouring oil. 【Food Grade Material】 This olive oil sprayer is made of thickened lead-free glass material, sturdy and durable. The clear bottle lets know exactly how much oil is left. The lid and handle are made of food grade material, BPA free. 【Large Diameter Spout】 The spout of this oil dispenser bottle has been widened, which is very convenient for pouring Country of Origin : India More Information
-  Updated: 2025-10-10T11:51:25Z
+  Updated: 2025-10-10T23:51:30Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -24230,6 +24230,20 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/yuvxf_512.webp?v=1760090470
   Price: ₹233.00 INR
+- [commander shoes boots for girls and women (802)](https://donedeals.xyz/products/commander-shoes-boots-for-girls-and-women-803): Product Details Name : commander shoes boots for girls and women (802) Material : Synthetic Sole Material : Rubber Pattern : Solid Fastening & Back Detail : Lace-Up Net Quantity (N) : 1 These Fashionable Boots from "commander shoes" feature a versatile design that can be flaunted by women and Girls. Whether you need a pair to stay comfortable while attending college, Parties, Trips or something that will truly compliment your evening attire, these Boots have the eye-catching Flower design. Made from Synthetic Material for long lasting and gives it elegant Look. Characterized by Good sole, These Boots make for must-have pairs in your wardrobe, Click Add to Cart Now... Grab a pair or two!!. --These Women Footwear from commander shoes, combines eye catching design in a modern look. We have Different variety of Colors which can Match your Outfit, the Women on the go will surely like to spruce up their look wearing these Shoes. Sizes : IND-3 (Foot Length Size : 22.5 cm, Foot Width Size: 7.2 cm) IND-4 (Foot Length Size : 23.2 cm, Foot Width Size: 7.3 cm) Country of Origin : India More Information
+  Updated: 2025-10-11T03:30:11Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/d3jxr_512.webp?v=1760153404
+  Price: ₹0.00 INR
+- [Women Flats Slipper](https://donedeals.xyz/products/women-flats-slipper-1): Product Details Name : Women Flats Slipper Material : Synthetic Sole Material : Tpr Pattern : Embellished Fastening & Back Detail : Slip-On Net Quantity (N) : 1 Sizes : IND-5 (Foot Length Size : 22 cm) IND-6 (Foot Length Size : 22.5 cm) IND-7 (Foot Length Size : 23 cm) IND-8 (Foot Length Size : 23.5 cm) IND-9 (Foot Length Size : 24 cm) Country of Origin : India More Information
+  Updated: 2025-10-11T06:50:34Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/wp1x7_512.webp?v=1760165406
+  Price: ₹0.00 INR
 
 ## Collections
 
@@ -24258,8 +24272,8 @@
   Updated: 2025-10-08T09:12:11Z
   Total Products: 0
 - [all](https://donedeals.xyz/collections/all)
-  Updated: 2025-10-10T11:51:54Z
-  Total Products: 2235
+  Updated: 2025-10-11T07:10:49Z
+  Total Products: 2371
 - [men watch](https://donedeals.xyz/collections/men-watch)
   Updated: 2025-10-08T09:12:11Z
   Total Products: 89
@@ -24288,8 +24302,8 @@
   Updated: 2025-10-08T09:12:11Z
   Total Products: 39
 - [men side bags](https://donedeals.xyz/collections/men-side-bags)
-  Updated: 2025-10-08T09:12:11Z
-  Total Products: 48
+  Updated: 2025-10-11T01:58:57Z
+  Total Products: 47
 - [jewellery](https://donedeals.xyz/collections/jewellery)
   Updated: 2025-10-08T09:12:12Z
   Total Products: 42
@@ -24377,6 +24391,15 @@
 - [Belt](https://donedeals.xyz/collections/belt)
   Updated: 2025-10-10T10:03:56Z
   Total Products: 49
+- [Heals and Sandles](https://donedeals.xyz/collections/heals-and-sandles)
+  Updated: 2025-10-11T06:40:25Z
+  Total Products: 46
+- [Long boots](https://donedeals.xyz/collections/long-boots)
+  Updated: 2025-10-11T06:40:39Z
+  Total Products: 45
+- [Flats](https://donedeals.xyz/collections/flats)
+  Updated: 2025-10-11T07:11:51Z
+  Total Products: 45
 
 ## Store Pages
 
