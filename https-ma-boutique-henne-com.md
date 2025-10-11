@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2018-01-12T21:20:39Z
 - Contact Email: contact@ma-boutique-henne.com
-- Updated At: 2025-10-11T12:00:36.789Z
+- Updated At: 2025-10-11T16:00:36.636Z
 
 ## Products
 
@@ -1011,7 +1011,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/files/soin-noir-50ml.png?v=1724233168
   Price: 15,00 € EUR
 - [Huile de Coco Bio - ECOCERT](https://ma-boutique-henne.com/products/huile-de-coco-bio-olio-di-cocco-le-erbe-di-janas): Huile de Coco Bio extra vierge 100 % naturel, végétale, protecteur, anti-oxydant, Nourrit intensément et protège, Propriétés amincissantes, ingrédient de base, cosmétiques, le erbe di janas, huile végétale, mangue, ricin, soin peau, visage, cheveux, sec, abîmés, henne d'algérie, henné rouge cerise, sidr, katam, violine
-  Updated: 2025-10-10T18:08:12Z
+  Updated: 2025-10-11T12:09:54Z
   Vendor: Ma Boutique Henné
   Product Type: Huile Végétale
   Availability: Available
