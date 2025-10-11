@@ -10,7 +10,7 @@
 - Contact Email: support@eolasprints.com
 - Contact Phone: +34-942735955
 - Address: Parque Empresarial Besaya D14, Reocín 39538, Cantabria, Spain
-- Updated At: 2025-10-10T12:00:33.426Z
+- Updated At: 2025-10-11T04:00:33.943Z
 
 Welcome to Eolas Prints - Your Trusted 3D Printing & Digital Fabrication Partner
 
@@ -611,7 +611,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/petg-filament-spool-3d-printer-1-75-mm-250-g-natural-620.webp?v=1725009923
     Price: €147.02 EUR
 - [Tpu Flexible Filament 93a for 3d Printing](https://eolasprints.com/products/tpu-filament): Eolas Prints TPU Flex Filament 93A is a food-safe tpu flexible filament offering durability for printing flexible parts with a balance of strength and elasticity.
-  Updated: 2025-10-10T11:57:46Z
+  Updated: 2025-10-10T13:43:50Z
   Vendor: Eolas Prints
   Product Type: 3D Printer Filament
   Availability: Available
@@ -1617,38 +1617,38 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
 
 ## Collections
 
-- [PLA - Eolas Prints](https://eolasprints.com/collections/pla): Eolas Prints PLA provides high quality filaments including multi-colour and high speed PLA. Our materials are ISO certified and REACH compliant for consistent printing.
-  Updated: 2025-10-10T11:13:17Z
+- [Certified High Speed Pla and Transition Filament](https://eolasprints.com/collections/pla): Eolas Prints PLA provides high quality filaments including multi-colour and high speed PLA. Our materials are ISO certified and REACH compliant for consistent printing.
+  Updated: 2025-10-11T00:40:17Z
   Total Products: 12
-- [PETG - Eolas Prints](https://eolasprints.com/collections/petg): The Eolas Prints PETG collection offers premium multi-colour and petg transition filament. All materials are ISO and REACH certified for superior quality and safety.
-  Updated: 2025-10-09T11:13:42Z
+- [Petg and Transition Filament for 3d Prints](https://eolasprints.com/collections/petg): The Eolas Prints PETG collection offers premium multi-colour and petg transition filament. All materials are ISO and REACH certified for superior quality and safety.
+  Updated: 2025-10-11T00:40:55Z
   Total Products: 5
-- [TPU - Eolas Prints](https://eolasprints.com/collections/tpu): Eolas Prints TPU offers premium, multi-colour tpu flex filament for 3D printing. Our materials are ISO and REACH certified for high-quality, reliable results.
-  Updated: 2025-10-10T11:13:17Z
+- [Tpu Flex Filament and Tpu Transition Filament](https://eolasprints.com/collections/tpu): Eolas Prints TPU offers premium, multi-colour tpu flex filament for 3D printing. Our materials are ISO and REACH certified for high-quality, reliable results.
+  Updated: 2025-10-11T00:41:33Z
   Total Products: 6
 - [OrderlyEmails - Recommended Products](https://eolasprints.com/collections/orderlyemails-recommended-products): This collection features recommended products for the OrderlyEmails app. It is automatically updated with our best-selling Eolas Prints for notification emails.
   Updated: 2025-09-28T22:37:41Z
   Total Products: 0
-- [Pellets - Eolas Prints](https://eolasprints.com/collections/pellets): The Pellets Eolas Prints collection offers certified multi-colour pellets for 3D printing, including options for the Flashforge AD5X. ISO and REACH compliant.
-  Updated: 2025-10-10T11:13:17Z
+- [Eu Reach Compliant and Iso Certified Pellets](https://eolasprints.com/collections/pellets): The Pellets Eolas Prints collection offers certified multi-colour pellets for 3D printing, including options for the Flashforge AD5X. ISO and REACH compliant.
+  Updated: 2025-10-11T00:42:28Z
   Total Products: 5
-- [3D Filament Offers - Eolas Prints](https://eolasprints.com/collections/3d-filament-offers): Eolas Prints presents certified PLA filament and materials in our transition filament sale. Find quality ISO and REACH compliant supplies for your 3D printing projects.
-  Updated: 2025-10-05T11:13:04Z
+- [Quality Pla Filament and Transition Filament Sale](https://eolasprints.com/collections/3d-filament-offers): Eolas Prints presents certified PLA filament and materials in our transition filament sale. Find quality ISO and REACH compliant supplies for your 3D printing projects.
+  Updated: 2025-10-11T00:43:05Z
   Total Products: 3
-- [ABS - Eolas Prints](https://eolasprints.com/collections/abs): Eolas Prints provides high-performance ABS filament for 3D printing, certified for quality and environmental standards, reflecting our calidad y servicio promise.
-  Updated: 2025-09-28T22:38:47Z
+- [Filamento Abs Iso Certificado Calidad y Servicio](https://eolasprints.com/collections/abs): Eolas Prints provides high-performance ABS filament for 3D printing, certified for quality and environmental standards, reflecting our calidad y servicio promise.
+  Updated: 2025-10-11T00:43:40Z
   Total Products: 1
-- [Buy High-Quality 3D Printer Accessories - Eolas Prints](https://eolasprints.com/collections/3d-printers-accessories): Eolas Prints provides essential 3D printing accessories for brands like Flashforge Adventurer and Prusa Research, including items like Thought3D Magigoo adhesives.
-  Updated: 2025-10-09T11:13:42Z
+- [Thought3d Magigoo and Prusa Research Accessories](https://eolasprints.com/collections/3d-printers-accessories): Eolas Prints provides essential 3D printing accessories for brands like Flashforge Adventurer and Prusa Research, including items like Thought3D Magigoo adhesives.
+  Updated: 2025-10-11T00:44:14Z
   Total Products: 5
-- [Shop the Best 3D Printer Filaments - PLA, TPU, PETG, ABS, ASA & More](https://eolasprints.com/collections/3d-printer-filament): Eolas Prints offers a premium collection of certified 3D printer filaments, including our high-performance Eolas Prints PLA, durable PETG, and flexible TPU.
-  Updated: 2025-10-10T11:13:17Z
+- [3d Printer Filament Pla Tpu Petg Abs Asa](https://eolasprints.com/collections/3d-printer-filament): Eolas Prints offers a premium collection of certified 3D printer filaments, including our high-performance Eolas Prints PLA, durable PETG, and flexible TPU.
+  Updated: 2025-10-11T00:44:51Z
   Total Products: 22
 - [New 3d Printing Innovations by Thought3d Magigoo](https://eolasprints.com/collections/new-arrivals): The latest collection at Eolas Prints includes the new Flashforge AD5X Multi-Colour printer and Thought3D products, all certified to ISO and REACH standards.
   Updated: 2025-10-09T11:13:42Z
   Total Products: 8
-- [ASA 3D Printing Material - Eolas Prints](https://eolasprints.com/collections/asa): ASA filament from Eolas Prints for Flashforge AD5X Multi-Colour printers. Our collection delivers calidad y servicio, backed by ISO and REACH certifications.
-  Updated: 2025-10-09T11:13:42Z
+- [Filamento Asa De Calidad y Servicio Para Impresión 3d](https://eolasprints.com/collections/asa): ASA filament from Eolas Prints for Flashforge AD5X Multi-Colour printers. Our collection delivers calidad y servicio, backed by ISO and REACH certifications.
+  Updated: 2025-10-11T00:45:51Z
   Total Products: 1
 - [Codigo Escuela 4.0: 3d Printing in Education](https://eolasprints.com/collections/codigo-escuela-4-0): The Codigo Escuela 4.0 collection from Eolas Prints provides 3D printers like Bambu Lab for modern education and digital literacy in Spain.
   Updated: 2025-10-10T11:13:17Z
@@ -1695,10 +1695,10 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Tags: News
 - [3D Printing Technology - Eolas Prints](https://eolasprints.com/blogs/3d-printing-technology): Learn about the latest 3D printing technology from Eolas Prints. We offer tips and advice for using 3D printers, as well as news and information on the latest 3D printing technology.
   - [Halloween 3d Tips for Pla and Petg Filaments](https://eolasprints.com/blogs/3d-printing-technology/halloween-3d-tips-and-ideas): Halloween 3d Tips for Pla and Petg Filaments
-    Updated: 2025-09-29T00:17:23Z
+    Updated: 2025-10-11T00:53:01Z
     Author: Sergio Peciña
   - [The Best 3d Printer Slicers for Pla and Petg](https://eolasprints.com/blogs/3d-printing-technology/best-3d-printer-software): The Best 3d Printer Slicers for Pla and Petg
-    Updated: 2025-09-29T00:19:23Z
+    Updated: 2025-10-11T00:55:23Z
     Author: Sergio Peciña
     Tags: Softwares
   - [Petg Vs Pla Strength Guide for Functional Parts](https://eolasprints.com/blogs/3d-printing-technology/petg-vs-pla-the-ultimate-strength-comparison-guide-for-3d-printing): Petg Vs Pla Strength Guide for Functional Parts
@@ -1706,23 +1706,23 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Author: Sergio Peciña
 - [3D Printing Guides - Eolas Prints](https://eolasprints.com/blogs/3d-printing-guides): Eolas Prints provides 3D printing guides for different materials. Learn how to print with different filaments with our helpful guides.
   - [How to Print with Ams Compatible Eolas Pla Filament](https://eolasprints.com/blogs/3d-printing-guides/how-to-print-with-pla): How to Print with Ams Compatible Eolas Pla Filament
-    Updated: 2025-09-29T00:19:59Z
+    Updated: 2025-10-11T00:56:12Z
     Author: Sergio Peciña
     Tags: PLA
   - [How to Print with Tpu Filament Eolas Prints](https://eolasprints.com/blogs/3d-printing-guides/how-to-print-with-tpu): How to Print with Tpu Filament Eolas Prints
-    Updated: 2025-09-29T00:20:13Z
+    Updated: 2025-10-11T00:56:41Z
     Author: Sergio Peciña
     Tags: TPU
   - [How to Print Petg Filament with a Layer Fan](https://eolasprints.com/blogs/3d-printing-guides/how-to-print-with-petg): How to Print Petg Filament with a Layer Fan
-    Updated: 2025-09-29T00:20:22Z
+    Updated: 2025-10-11T00:57:03Z
     Author: Sergio Peciña
     Tags: PETG
   - [How to Print Natureworks Ingeo Pla](https://eolasprints.com/blogs/3d-printing-guides/how-to-print-with-natureworks-ingeo-pla-filament): How to Print Natureworks Ingeo Pla
-    Updated: 2025-09-29T00:20:36Z
+    Updated: 2025-10-11T00:57:45Z
     Author: Sergio Peciña
     Tags: PLA
   - [How to Print with Abs Filament Eolas Prints](https://eolasprints.com/blogs/3d-printing-guides/how-to-print-with-abs): How to Print with Abs Filament Eolas Prints
-    Updated: 2025-09-29T00:23:20Z
+    Updated: 2025-10-11T01:03:07Z
     Author: Sergio Peciña
     Tags: ABS
   - [A Guide to Asa Filament Printing](https://eolasprints.com/blogs/3d-printing-guides/how-to-print-with-asa-filament): A Guide to Asa Filament Printing
@@ -1731,92 +1731,92 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Tags: ASA
 - [Getting started with 3D printing - Eolas Prints](https://eolasprints.com/blogs/getting-started-with-3d-printing): This blog will show you how to get started with 3D printing, from choosing the right 3D printer to understanding the basics of 3D printing technology.
   - [What is 3d Printing and Selective Laser Sintering](https://eolasprints.com/blogs/getting-started-with-3d-printing/what-is-3d-printing): What is 3d Printing and Selective Laser Sintering
-    Updated: 2025-09-29T00:21:01Z
+    Updated: 2025-10-11T00:58:37Z
     Author: Sergio Peciña
   - [Fdm Printing Terms Hot End to Build Platform Guide](https://eolasprints.com/blogs/getting-started-with-3d-printing/the-ultimate-fdm-3d-printing-dictionary-your-complete-guide-to-fdm-printing-terms): Fdm Printing Terms Hot End to Build Platform Guide
-    Updated: 2025-09-29T00:23:58Z
+    Updated: 2025-10-11T01:04:24Z
     Author: Sergio Peciña
 - [Advanced 3D Printing Guides - Eolas Prints](https://eolasprints.com/blogs/advanced-3d-printing): Our range of Advanced 3D Printing guides will show you how to get the most from your 3D printer, from improving print quality to using different filaments.
   - [3d Print Flow Test Calibration for Pla and Petg](https://eolasprints.com/blogs/advanced-3d-printing/3d-print-flow-test): 3d Print Flow Test Calibration for Pla and Petg
-    Updated: 2025-09-29T00:21:07Z
+    Updated: 2025-10-11T00:58:59Z
     Author: Sergio Peciña
     Tags: Material Tests
   - [3d Retraction Test for Filament Eolas Prints](https://eolasprints.com/blogs/advanced-3d-printing/3d-print-retraction-test): 3d Retraction Test for Filament Eolas Prints
-    Updated: 2025-09-29T00:21:22Z
+    Updated: 2025-10-11T00:59:30Z
     Author: Sergio Peciña
     Tags: Material Tests
   - [3d Print Temperature Tower for Pla Petg and Tpu](https://eolasprints.com/blogs/advanced-3d-printing/3d-print-temperature-tower): 3d Print Temperature Tower for Pla Petg and Tpu
-    Updated: 2025-09-29T00:21:49Z
+    Updated: 2025-10-11T01:00:17Z
     Author: Sergio Peciña
     Tags: Material Tests
   - [Extruder Calibration for Pla and Petg Filament](https://eolasprints.com/blogs/advanced-3d-printing/extruder-calibration): Extruder Calibration for Pla and Petg Filament
-    Updated: 2025-09-29T00:23:12Z
+    Updated: 2025-10-11T01:02:48Z
     Author: Sergio Peciña
     Tags: Machine Tests
 - [3D Printing in Schools - Eolas Prints](https://eolasprints.com/blogs/3d-printing-in-schools): 3D printing is becoming an increasingly popular tool in schools. Here's what you need to know to get started with 3D printing in your school.
   - [Getting Started with Tinkercad for Eolas Prints](https://eolasprints.com/blogs/3d-printing-in-schools/getting-started-with-tinkercad): Getting Started with Tinkercad for Eolas Prints
-    Updated: 2025-09-29T00:22:22Z
+    Updated: 2025-10-11T01:01:06Z
     Author: Sergio Peciña
 - [3D filament print profiles - Eolas Prints](https://eolasprints.com/blogs/3d-filament-print-profiles): Get the perfect prints for your Eolas filaments with these top print profiles for Ultimaker Cura, Prusa Slicer, and IdeaMaker
   - [Ultimaker Cura Profiles in Material Alliance Program](https://eolasprints.com/blogs/3d-filament-print-profiles/ultimaker-material-alliance-program-partner): Ultimaker Cura Profiles in Material Alliance Program
-    Updated: 2025-09-29T00:22:35Z
+    Updated: 2025-10-11T01:01:36Z
     Author: Sergio Peciña
     Tags: Material Alliance Partner
   - [Eolas Prints Pla Petg Prusaslicer Profiles](https://eolasprints.com/blogs/3d-filament-print-profiles/prusaslicer-filament-profile-eolas-prints): Eolas Prints Pla Petg Prusaslicer Profiles
-    Updated: 2025-09-29T00:22:51Z
+    Updated: 2025-10-11T01:02:05Z
     Author: Sergio Peciña
     Tags: Material Alliance Partner
   - [Eolas Prints Filament Profiles for Raise3d Printers](https://eolasprints.com/blogs/3d-filament-print-profiles/ideamaker-open-filament-program-partner): Eolas Prints Filament Profiles for Raise3d Printers
-    Updated: 2025-09-29T00:23:01Z
+    Updated: 2025-10-11T01:02:27Z
     Author: Sergio Peciña
     Tags: Material Alliance Partner
   - [Bambu Studio Profiles for Eolas Prints Filament](https://eolasprints.com/blogs/3d-filament-print-profiles/bambu-studio-filament-profiles-for-eolas-prints-filaments): Bambu Studio Profiles for Eolas Prints Filament
-    Updated: 2025-09-29T00:23:30Z
+    Updated: 2025-10-11T01:03:27Z
     Author: Sergio Peciña
     Tags: Material Alliance Partner
 
 ## Store Pages
 
-- [Contacto Pla Filament Calidad y Servicio](https://eolasprints.com/pages/contact-us): 
-  Updated: 2025-09-28T23:36:27Z
-- [3d Printing Solutions & Pla Filament in Cantabria](https://eolasprints.com/pages/company): Eolas Prints: Let's create together Welcome to Eolas Prints, your go-to source for all your 3D printing needs. Our team based in the heart of Canta...
-  Updated: 2025-09-28T23:36:44Z
-- [Pla Filament De Calidad y Servicio En Cantabria](https://eolasprints.com/pages/find-us): 
-  Updated: 2025-09-28T23:37:05Z
-- [Custom Colours for Pla Filament Ral & Pantone](https://eolasprints.com/pages/colour-on-request): 
-  Updated: 2025-09-28T23:37:28Z
-- [How Pla and 3d Printer Filament is Made](https://eolasprints.com/pages/making-3d-printer-filament): A 3D printer filament is a long, flexible strand of plastic that weaves in and out of a hotbed. It’s fed through the hotbed and melted by the heat ...
-  Updated: 2025-09-28T23:37:44Z
-- [Shipping Policy and Local Pickup Faqs](https://eolasprints.com/pages/faqs): 
-  Updated: 2025-09-28T23:38:06Z
-- [Industrial Grade 3d Printer Filament Spools](https://eolasprints.com/pages/large-3d-printer-filament-spool-for-industries): 
-  Updated: 2025-09-28T23:38:29Z
-- [Expertos En Pla Filament Calidad y Servicio](https://eolasprints.com/pages/team): 
-  Updated: 2025-09-28T23:38:48Z
-- [Tpu Flex Filament 93a and Pla Customer Reviews](https://eolasprints.com/pages/reviews): 
-  Updated: 2025-09-28T23:39:09Z
-- [Pla Filament Materials Catalogue Calidad y Servicio](https://eolasprints.com/pages/materials-catalogue): 
-  Updated: 2025-09-28T23:39:27Z
-- [Climate Commitment Supporting Carbon Removal](https://eolasprints.com/pages/climate-commitment): .planet-impact-comms-in-editor { display: none; } #tinymce .planet-impact-comms-in-editor { display: block; } We clean up after ourselves Ecommerce...
-  Updated: 2025-09-28T23:39:47Z
-- [Ups Express and Worldwide Saver Shipping Policy](https://eolasprints.com/pages/shipping-policy): When do you ship? We ship daily from stock. Orders placed after 1PM and 4PM on Fridays are shipped on Monday. Spain & Portugal Orders placed before...
-  Updated: 2025-09-28T23:40:01Z
-- [Medical Anatomical Models for Surgical Planning](https://eolasprints.com/pages/3d-printing-in-healthcare): The application of 3D printing in healthcare and medicine has transformed the approach of medical professionals to patient care, due to its capacit...
-  Updated: 2025-09-28T23:40:16Z
-- [Architectural 3d Printing Calidad y Servicio](https://eolasprints.com/pages/architectural-3d-printing): 
-  Updated: 2025-09-28T23:40:38Z
-- [Getting Started with 3d Printing and Pla Filament](https://eolasprints.com/pages/get-started-with-3d-printing): 
-  Updated: 2025-09-28T23:41:02Z
-- [Stl Gcode Models and Tools Calidad y Servicio](https://eolasprints.com/pages/3d-models): 
-  Updated: 2025-09-28T23:41:27Z
-- [Professional 3d Printing and Design Service](https://eolasprints.com/pages/3d-printing-service): We provide a comprehensive range of services covering all your 3D printing needs, from creating intricate prototypes to producing final parts. Cont...
-  Updated: 2025-09-28T23:41:44Z
+- [Contacto Pla Filament Calidad y Servicio](https://eolasprints.com/pages/contact-us): We provide comprehensive support for all inquiries regarding our products and services. Our dedication to customer assistance reflects our high sta...
+  Updated: 2025-10-11T01:05:14Z
+- [3d Printing Solutions & Pla Filament in Cantabria](https://eolasprints.com/pages/company): Eolas Prints, based in Cantabria, Spain, provides professional 3D printing services dedicated to transforming digital concepts into physical realit...
+  Updated: 2025-10-11T01:05:36Z
+- [Pla Filament De Calidad y Servicio En Cantabria](https://eolasprints.com/pages/find-us): Eolas Prints operates its main offices and advanced manufacturing facility from the Cantabria region of Northern Spain. This integrated location se...
+  Updated: 2025-10-11T01:05:59Z
+- [Custom Colours for Pla Filament Ral & Pantone](https://eolasprints.com/pages/colour-on-request): For 3D printing projects that require a precise or unique shade, we provide custom colours to match your exact specifications. This service allows ...
+  Updated: 2025-10-11T01:06:37Z
+- [How Pla and 3d Printer Filament is Made](https://eolasprints.com/pages/making-3d-printer-filament): The creation of premium printer filament is a meticulous manufacturing process, critical for achieving dependable and high-resolution 3D prints. Eo...
+  Updated: 2025-10-11T01:06:57Z
+- [Shipping Policy and Local Pickup Faqs](https://eolasprints.com/pages/faqs): We process and ship orders daily from our stocked inventory. To ensure prompt delivery of your pla filament and other products, orders within Spain...
+  Updated: 2025-10-11T01:07:23Z
+- [Industrial Grade 3d Printer Filament Spools](https://eolasprints.com/pages/large-3d-printer-filament-spool-for-industries): We manufacture and supply industrial-grade 3D printer filament for professional FDM applications. Our quality-controlled filament spools are engine...
+  Updated: 2025-10-11T01:07:43Z
+- [Expertos En Pla Filament Calidad y Servicio](https://eolasprints.com/pages/team): Our team is guided by the combined business and technical leadership of Tanuj Goswami, our CEO and CTO. This integrated approach ensures our strate...
+  Updated: 2025-10-11T01:08:06Z
+- [Tpu Flex Filament 93a and Pla Customer Reviews](https://eolasprints.com/pages/reviews): Our customers consistently report high satisfaction, with 95% positive feedback across more than 150 reviews. Users from across Europe, including S...
+  Updated: 2025-10-11T01:08:29Z
+- [Pla Filament Materials Catalogue Calidad y Servicio](https://eolasprints.com/pages/materials-catalogue): The Eolas Prints materials catalogue presents our collection of high-performance PLA filament, engineered for superior print quality and reliabilit...
+  Updated: 2025-10-11T01:08:53Z
+- [Climate Commitment Supporting Carbon Removal](https://eolasprints.com/pages/climate-commitment): We recognize that every ecommerce delivery has a carbon footprint. Our climate commitment is to address this impact directly by funding innovative ...
+  Updated: 2025-10-11T01:09:14Z
+- [Ups Express and Worldwide Saver Shipping Policy](https://eolasprints.com/pages/shipping-policy): We process and ship orders daily from our readily available stock. To ensure prompt dispatch, orders for Spain and Portugal should be placed before...
+  Updated: 2025-10-11T01:09:35Z
+- [Medical Anatomical Models for Surgical Planning](https://eolasprints.com/pages/3d-printing-in-healthcare): 3D printing technology is revolutionizing the healthcare industry by enabling the creation of highly precise and patient-specific medical solutions...
+  Updated: 2025-10-11T01:09:53Z
+- [Architectural 3d Printing Calidad y Servicio](https://eolasprints.com/pages/architectural-3d-printing): Architectural 3D printing offers a transformative approach to design visualization, enabling the production of physical models with exceptional det...
+  Updated: 2025-10-11T01:10:20Z
+- [Getting Started with 3d Printing and Pla Filament](https://eolasprints.com/pages/get-started-with-3d-printing): Getting started with 3D printing, a key technology in additive manufacturing, is an exciting venture. This innovative process creates three dimensi...
+  Updated: 2025-10-11T01:10:42Z
+- [Stl Gcode Models and Tools Calidad y Servicio](https://eolasprints.com/pages/3d-models): Discover a collection of high quality 3D models designed for enthusiasts and professionals. These files, available as stl gcode, are optimized for ...
+  Updated: 2025-10-11T01:11:09Z
+- [Professional 3d Printing and Design Service](https://eolasprints.com/pages/3d-printing-service): Our professional printing services transform digital concepts into tangible objects, suitable for everything from detailed prototypes to functional...
+  Updated: 2025-10-11T01:11:27Z
 - [Privacy Policy and Targeted Advertising Choices](https://eolasprints.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
-  Updated: 2025-09-28T23:42:10Z
-- [3d Printer Filament Spool Size Guide for Bambu Lab Ams](https://eolasprints.com/pages/size-guide-3d-printer-filament-spool): Bambu Lab AMS & AMS Lite Compatible Spool (kg) d1 (mm) d2 (mm) d3 (mm) d5 (mm) e1 (mm) l1 (mm) l2 (mm) Empty Spool (kg) 1 / 0.9 200 105 52 11 44.5 ...
-  Updated: 2025-09-28T23:42:25Z
-- [Eolas Prints Filaments Print Profiles](https://eolasprints.com/pages/print-profiles-for-eolas-prints-filaments): Prusa Slicer Please follow this step by step guide to import the print profiles in PrusaSlicer. Bambu Studio Download Print profiles by following t...
-  Updated: 2025-09-28T23:42:42Z
+  Updated: 2025-10-11T01:11:52Z
+- [3d Printer Filament Spool Size Guide for Bambu Lab Ams](https://eolasprints.com/pages/size-guide-3d-printer-filament-spool): This size guide offers detailed specifications for our complete range of 3D printer filament. Understanding the physical dimensions of your printer...
+  Updated: 2025-10-11T01:12:14Z
+- [Eolas Prints Filaments Print Profiles](https://eolasprints.com/pages/print-profiles-for-eolas-prints-filaments): Achieve superior 3D printing results with our custom print profiles, expertly calibrated for Eolas Prints filaments. These profiles are meticulousl...
+  Updated: 2025-10-11T01:12:29Z
 
 ## Policies
 
