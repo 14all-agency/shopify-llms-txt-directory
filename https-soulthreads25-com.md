@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-07-21T23:17:39Z
 - Contact Email: dustin1986williamson@gmail.com
-- Updated At: 2025-10-10T20:00:33.558Z
+- Updated At: 2025-10-11T00:00:35.207Z
 
 ## Products
 
@@ -10129,7 +10129,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/20-RT-Aspect-3Q_26aae5bd-954b-4f06-9e35-3e9457341898.jpg?v=1759296971
     Price: $29.99 USD
 - [Realtree Excape HD Apple Watch Band - Soul threads](https://soulthreads25.com/products/realtree-excape-hd-apple-watch-band): Enhance your Apple Watch with the Realtree Excape HD Apple Watch Band. This stylish, durable band combines comfort and outdoor aesthetics for the perfect accessory.
-  Updated: 2025-10-10T17:53:17Z
+  Updated: 2025-10-10T21:05:31Z
   Vendor: Affinity Bands
   Product Type: Realtree HD Apple Band
   Availability: Available
@@ -10705,7 +10705,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/57c9ebdf-6f5d-40c4-a5f9-ed75f6745a78.jpg?v=1759297276
     Price: $29.99 USD
 - [Realtree Edge HD Watch Band – Stylish and Durable for Apple Watch](https://soulthreads25.com/products/realtree-edge-hd-apple-watch-band): Meta Description: Upgrade your Apple Watch with the Realtree Edge HD Watch Band. This durable and stylish band offers a perfect blend of comfort and performance for adventurous lifestyles.
-  Updated: 2025-10-10T17:53:50Z
+  Updated: 2025-10-10T21:05:44Z
   Vendor: Affinity Bands
   Product Type: Realtree HD Apple Band
   Availability: Available
@@ -11021,7 +11021,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/6eb4d45d-bb14-4181-8fc4-7093b95d007a.jpg?v=1759297401
     Price: $29.99 USD
 - [Pickleball iPhone 14 Mag-Safe Case - Durable HD Protection for iPhone](https://soulthreads25.com/products/pickleball-hd-apple-iphone-14-series-mag-safe-phone-case): Enhance your iPhone 14 with our Pickleball iPhone 14 Mag-Safe Case. Enjoy HD protection and a perfect fit for your device while showcasing your love for pickleball!
-  Updated: 2025-10-10T17:54:30Z
+  Updated: 2025-10-10T21:06:27Z
   Vendor: Affinity Bands
   Product Type: Pickleball Apple iPhone 14 Case
   Availability: Available
