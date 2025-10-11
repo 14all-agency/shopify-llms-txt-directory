@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-10-11T16:00:47.772Z
+- Updated At: 2025-10-11T20:00:46.162Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -7358,7 +7358,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £85.00 GBP
 - [Citrine Charm Necklace | Silver - November](https://www.lilyblanche.com/products/citrine-charm-necklace-silver-november): Add vibrancy to your collection with our Silver Citrine gemstone teardrop pendant. A real citrine gemstone has been cut into facets to show the stone to the best advantage. As the birthstone for November, Citrine symbolises joy. Its orange colour reflects the colour of the sun which represents positivity. It is also believed to promote good wealth and happiness for those who wear it. Our real citrine gemstone measures 13mm x 10mm and is made of sterling silver. Pair with our matching citrine drop hoop earrings to complete the look. Add a sterling silver initial for a truly personalised charm necklace. This birthstone necklace is presented in a ribbon-tied gift box with a branded polish cloth, making it the perfect personalised birthday, Valentine's Day Gift or Christmas gift. Express delivery is available on all UK orders placed before 12pm.
-  Updated: 2025-09-01T14:12:04Z
+  Updated: 2025-10-11T17:17:55Z
   Vendor: Lily Blanche
   Product Type: Birthstone
   Availability: Available
@@ -9743,7 +9743,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £100.00 GBP
 - [Rope Chain | White Gold | High Quality & Fast Delivery | Lily Blanche](https://www.lilyblanche.com/products/rope-chain-white-gold): Looking for a beautiful white gold chain? This extra strong, high-quality 18-carat white gold vermeil diamond cut rope chain will add interest and texture to any pendant or locket. Pretty enough to be worn on its own or layered with other necklaces. Order online today and receive a free jewellery care kit worth £20.
-  Updated: 2025-09-11T11:05:32Z
+  Updated: 2025-10-11T18:53:25Z
   Vendor: Lily Blanche
   Product Type: Choose Your Chain
   Availability: Available
@@ -16880,7 +16880,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £195.00 GBP
 - [Men's St Christopher Necklace in Solid Gold | Premium Quality Pendant](https://www.lilyblanche.com/products/mens-st-christopher-necklace-solid_gold): Give a meaningful gift with our stylish Men's St Christopher Necklace in solid gold. Personalise with free engraving. Free shipping & care kit with orders today
-  Updated: 2025-10-11T15:11:59Z
+  Updated: 2025-10-11T17:18:05Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -16916,7 +16916,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £630.00 GBP
 - [Men's St Christopher Necklace In Silver & Free Engraving & Stylish](https://www.lilyblanche.com/products/mens-st-christopher-necklace-silver): Buy Men's St Christopher Necklaces at Lily Blanche. Our stylish silver St Christopher men's necklace comes with different chain lengths to suit your outfit choices. Uplift your fashion fits today with our popular men's necklaces. Shop & save on quality jewellery with Lily Blanche.
-  Updated: 2025-10-11T15:05:59Z
+  Updated: 2025-10-11T17:11:05Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -16991,7 +16991,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £205.00 GBP
 - [St Christopher Necklace | Silver |Engravable | Lily Blanche](https://www.lilyblanche.com/products/st-christopher-necklace-silver-1): Give a meaningful gift with our timeless and stylish St Christopher Necklace in solid silver. Believed to keep travellers and loved ones safe as they embark on life's journey, the St Christopher medal is a meaningful gift. Personalise with free engraving. Order today and receive a free jewellery care kit!
-  Updated: 2025-10-11T15:21:00Z
+  Updated: 2025-10-11T17:26:05Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -17021,7 +17021,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £110.00 GBP
 - [St Christopher Necklace  Solid Gold + Engraving](https://www.lilyblanche.com/products/st-christopher-necklace-gold): Give a meaningful gift with our timeless and stylish St Christopher Necklace in solid gold. Believed to keep travellers and loved ones safe as they embark on life's journey, the St Christopher medal is a perfect gift for special birthdays. Personalise with engraving. Order today and receive a free jewellery care kit!
-  Updated: 2025-10-11T15:19:00Z
+  Updated: 2025-10-11T17:24:05Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -19098,7 +19098,7 @@ From £119
   Price: £65.00 GBP
 - [Men's St Christopher Necklace 9ct Gold | Free Engraving & UK Delivery](https://www.lilyblanche.com/products/mens-large-st-christopher-necklace-solid-gold): Discover our handcrafted men's 9ct solid gold St Christopher necklace with free personalised engraving. UK hallmarked octagonal design, perfect for travellers. Free UK delivery, 4.9★ rated. Award-winning British jewellery.
 £315
-  Updated: 2025-10-11T15:09:59Z
+  Updated: 2025-10-11T17:16:05Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -19136,7 +19136,7 @@ From £119
     Availability: Available
     Price: £730.00 GBP
 - [Men's St Christopher Necklace Solid White Gold + Engraving](https://www.lilyblanche.com/products/mens-large-st-christopher-necklace-white-gold): Give a meaningful gift with our classic Men's St Christopher Necklace in solid white gold.  Personalise with free engraving. Free shipping & care kit today
-  Updated: 2025-10-11T15:14:00Z
+  Updated: 2025-10-11T17:20:05Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -20264,7 +20264,7 @@ From £119
     Availability: Available
     Price: £135.00 GBP
 - [Large St Christopher Necklace Solid Gold Octagonal](https://www.lilyblanche.com/products/large-st-christopher-necklace-solid-gold-engraving): Give a meaningful gift with our timeless and stylish  Large Octagonal St Christopher Necklace in solid gold. Believed to keep travellers and loved ones safe as they embark on life's journey, the St Christopher medal is a meaningful gift for men and women. Personalise with free engraving. Order today and receive a free jewellery care kit!
-  Updated: 2025-10-11T14:52:59Z
+  Updated: 2025-10-11T16:58:04Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -20306,7 +20306,7 @@ From £119
     Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/files/gold_hexagon_st_christopher_necklace_curb_square.webp?v=1741872849
     Price: £730.00 GBP
 - [St Christopher Necklace Solid White Gold + Engraving](https://www.lilyblanche.com/products/large-st-christopher-necklace-white-gold-engraving): Give a meaningful gift with our timeless & stylish St Christopher Necklace in solid white gold.  Personalise with free engraving. Free shipping & care kit today
-  Updated: 2025-10-11T14:54:59Z
+  Updated: 2025-10-11T17:01:04Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
