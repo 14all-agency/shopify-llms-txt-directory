@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-08-22T04:17:36Z
 - Contact Email: Sunnymello810@gmail.com
-- Updated At: 2025-10-11T00:00:31.725Z
+- Updated At: 2025-10-11T04:00:30.080Z
 
 ## Products
 
@@ -25,10 +25,10 @@
   - [19&quot; chain](https://sunnyseaglassjewelry.com/products/blue-beach-wave-necklace-in-925-sterling-silver-ocean-wave-necklace-blue-beach-wave-sea-glass-necklace-wave-lampwork-pendant-necklace?variant=42904239964241)
     Availability: Available
     Price: $44.95 USD
-- [Holiday Dangle Earrings, Ready Ship in ONE day, Sea Glass Christmas Tree Earrings, Beach Glass Christmas Tree Earrings, Sea Glass Jewelry,](https://sunnyseaglassjewelry.com/products/holiday-dangle-earrings-ready-ship-in-one-day-sea-glass-christmas-tree-earrings-beach-glass-christmas-tree-earrings-sea-glass-jewelry): Beautiful Holiday earrings for everyday or special occasions. Fun & festive holiday earrings sure to be noticed! These earrings will make a great gift for friends, coworkers too. Beautiful light Aqua Sea glass beads are wire wrapped in .925 sterling silver or gold finished wires accented with star glass beads and Crystals. Sea glass beads measures 18x 12mm. They dangle nicely slightly under 1.5 inch from the bottom of the .925 sterling silver or god finished earwires. A ray of sunshine shines on your dangling from your ears! ***Email me for any inquiries Thank you for visiting my shop.
-  Updated: 2025-09-15T22:34:07Z
+- [Holiday Dangle Earrings, Ready Ship in ONE day, Sea Glass Christmas Tree Earrings, Beach Glass Christmas Tree Earrings, Sea Glass Jewelry,](https://sunnyseaglassjewelry.com/products/holiday-dangle-earrings-ready-ship-in-one-day-sea-glass-christmas-tree-earrings-beach-glass-christmas-tree-earrings-sea-glass-jewelry): Celebrate the season with these charming Holiday dangle earrings, perfect for daily wear or special events. Crafted with light Aqua Sea glass beads wrapped in .925 sterling silver or gold-toned wire, accented by star glass beads and crystals, these earrings catch the light beautifully. Measuring 18x12mm, they hang just under 1.5 inches for a graceful sway. Ideal as a thoughtful gift for friends or coworkers, they add a festive touch that stands out. Brighten your look with a sparkling reminder of sunshine every time you wear them. For questions, feel free to reach out via email.
+  Updated: 2025-10-11T01:45:37Z
   Vendor: My Store
-  Product Type: 
+  Product Type: Sea Glass Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/14a4d398-il_fullxfull.6552478169_pilz.jpg?v=1756000918
   - [Sterling silver / Red star](https://sunnyseaglassjewelry.com/products/holiday-dangle-earrings-ready-ship-in-one-day-sea-glass-christmas-tree-earrings-beach-glass-christmas-tree-earrings-sea-glass-jewelry?variant=42904241274961)
@@ -50,7 +50,7 @@
     Availability: Available
     Price: $23.95 USD
 - [Christmas Tree Earrings, Ready Ship in ONE day, Sea Glass dangling Earrings, Beach Glass Christmas Tree Earrings, Holiday Gifts for Her,](https://sunnyseaglassjewelry.com/products/christmas-tree-earrings-ready-ship-in-one-day-sea-glass-dangling-earrings-beach-glass-christmas-tree-earrings-holiday-gifts-for-her): Beautiful Holiday earrings for everyday or special occasions. Fun & festive holiday earrings sure to be noticed! These earrings will make a great gift for friends, coworkers too. Beautiful light Aqua Sea glass beads are wire wrapped in .925 sterling silver or gold finished wires accented with star glass beads and Crystals. Sea glass beads measures 18x 12mm. They dangle nicely slightly under 1.5 inch from the bottom of the .925 sterling silver or god finished earwires. A ray of sunshine shines on your dangling from your ears! ***Email me for any inquiries Thank you for visiting my shop.
-  Updated: 2025-09-15T22:34:07Z
+  Updated: 2025-10-11T01:44:56Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -106,6 +106,120 @@
   - [Brown Leaf / 8](https://sunnyseaglassjewelry.com/products/wire-wrpped-antiqued-copper-bracelet-adjustable-wire-wrapped-bracelet-copper-bangle-cuff-filigree-bracelet-filigree-leaf-vine-bracelet?variant=42904245796945)
     Availability: Available
     Price: $30.95 USD
+- [White Opal Bracelet, Minimalist Bracelet, Tiny Opal Bracelet, Blue Opal Bracelet, Opal Bracelet in Sterling Silver, Beaded Opal Bracelet](https://sunnyseaglassjewelry.com/products/white-opal-bracelet-minimalist-bracelet-tiny-opal-bracelet-blue-opal-bracelet-opal-bracelet-in-sterling-silver-beaded-opal-bracelet): This elegant 6mm lab-created opal bracelet features sterling silver beads and a delicate, durable chain. Its minimalist style adds a subtle, versatile touch to any outfit and can be worn as a bracelet or anklet. Available in four beautiful colors, it’s perfect for a beachy or mermaid-inspired look. Choose your wrist size for a comfortable fit. Packaged in a gift box, it makes a thoughtful gift for any occasion. Add a hint of magic and color to your style with this stunning opal bracelet.
+  Updated: 2025-10-11T01:49:33Z
+  Vendor: My Store
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/1814cea8-il_fullxfull.6063799993_2k85.jpg?v=1756000925
+  - [No.1  white / 5.5 inch](https://sunnyseaglassjewelry.com/products/white-opal-bracelet-minimalist-bracelet-tiny-opal-bracelet-blue-opal-bracelet-opal-bracelet-in-sterling-silver-beaded-opal-bracelet?variant=42904251695185)
+    Availability: Available
+    Price: $29.95 USD
+  - [No.1  white / 6.0 inch](https://sunnyseaglassjewelry.com/products/white-opal-bracelet-minimalist-bracelet-tiny-opal-bracelet-blue-opal-bracelet-opal-bracelet-in-sterling-silver-beaded-opal-bracelet?variant=42904251727953)
+    Availability: Available
+    Price: $29.95 USD
+  - [No.1  white / 6.5 inch](https://sunnyseaglassjewelry.com/products/white-opal-bracelet-minimalist-bracelet-tiny-opal-bracelet-blue-opal-bracelet-opal-bracelet-in-sterling-silver-beaded-opal-bracelet?variant=42904251760721)
+    Availability: Available
+    Price: $29.95 USD
+  - [No.1  white / 7.0 inch](https://sunnyseaglassjewelry.com/products/white-opal-bracelet-minimalist-bracelet-tiny-opal-bracelet-blue-opal-bracelet-opal-bracelet-in-sterling-silver-beaded-opal-bracelet?variant=42904251793489)
+    Availability: Available
+    Price: $29.95 USD
+  - [No.1  white / 7.5 inch](https://sunnyseaglassjewelry.com/products/white-opal-bracelet-minimalist-bracelet-tiny-opal-bracelet-blue-opal-bracelet-opal-bracelet-in-sterling-silver-beaded-opal-bracelet?variant=42904251826257)
+    Availability: Available
+    Price: $29.95 USD
+  - [No.1  white / 8.0 inch](https://sunnyseaglassjewelry.com/products/white-opal-bracelet-minimalist-bracelet-tiny-opal-bracelet-blue-opal-bracelet-opal-bracelet-in-sterling-silver-beaded-opal-bracelet?variant=42904251859025)
+    Availability: Available
+    Price: $29.95 USD
+  - [No.1  white / 8.5 inch](https://sunnyseaglassjewelry.com/products/white-opal-bracelet-minimalist-bracelet-tiny-opal-bracelet-blue-opal-bracelet-opal-bracelet-in-sterling-silver-beaded-opal-bracelet?variant=42904251891793)
+    Availability: Available
+    Price: $29.95 USD
+  - [No.1  white / 9.0 inch](https://sunnyseaglassjewelry.com/products/white-opal-bracelet-minimalist-bracelet-tiny-opal-bracelet-blue-opal-bracelet-opal-bracelet-in-sterling-silver-beaded-opal-bracelet?variant=42904251924561)
+    Availability: Available
+    Price: $29.95 USD
+  - [No.1  white / 9.5 inch](https://sunnyseaglassjewelry.com/products/white-opal-bracelet-minimalist-bracelet-tiny-opal-bracelet-blue-opal-bracelet-opal-bracelet-in-sterling-silver-beaded-opal-bracelet?variant=42904251957329)
+    Availability: Available
+    Price: $29.95 USD
+  - [No. 2  Blue / 5.5 inch](https://sunnyseaglassjewelry.com/products/white-opal-bracelet-minimalist-bracelet-tiny-opal-bracelet-blue-opal-bracelet-opal-bracelet-in-sterling-silver-beaded-opal-bracelet?variant=42904251990097)
+    Availability: Available
+    Price: $29.95 USD
+  - [No. 2  Blue / 6.0 inch](https://sunnyseaglassjewelry.com/products/white-opal-bracelet-minimalist-bracelet-tiny-opal-bracelet-blue-opal-bracelet-opal-bracelet-in-sterling-silver-beaded-opal-bracelet?variant=42904252022865)
+    Availability: Available
+    Price: $29.95 USD
+  - [No. 2  Blue / 6.5 inch](https://sunnyseaglassjewelry.com/products/white-opal-bracelet-minimalist-bracelet-tiny-opal-bracelet-blue-opal-bracelet-opal-bracelet-in-sterling-silver-beaded-opal-bracelet?variant=42904252055633)
+    Availability: Available
+    Price: $29.95 USD
+  - [No. 2  Blue / 7.0 inch](https://sunnyseaglassjewelry.com/products/white-opal-bracelet-minimalist-bracelet-tiny-opal-bracelet-blue-opal-bracelet-opal-bracelet-in-sterling-silver-beaded-opal-bracelet?variant=42904252088401)
+    Availability: Available
+    Price: $29.95 USD
+  - [No. 2  Blue / 7.5 inch](https://sunnyseaglassjewelry.com/products/white-opal-bracelet-minimalist-bracelet-tiny-opal-bracelet-blue-opal-bracelet-opal-bracelet-in-sterling-silver-beaded-opal-bracelet?variant=42904252121169)
+    Availability: Available
+    Price: $29.95 USD
+  - [No. 2  Blue / 8.0 inch](https://sunnyseaglassjewelry.com/products/white-opal-bracelet-minimalist-bracelet-tiny-opal-bracelet-blue-opal-bracelet-opal-bracelet-in-sterling-silver-beaded-opal-bracelet?variant=42904252153937)
+    Availability: Available
+    Price: $29.95 USD
+  - [No. 2  Blue / 8.5 inch](https://sunnyseaglassjewelry.com/products/white-opal-bracelet-minimalist-bracelet-tiny-opal-bracelet-blue-opal-bracelet-opal-bracelet-in-sterling-silver-beaded-opal-bracelet?variant=42904252186705)
+    Availability: Available
+    Price: $29.95 USD
+  - [No. 2  Blue / 9.0 inch](https://sunnyseaglassjewelry.com/products/white-opal-bracelet-minimalist-bracelet-tiny-opal-bracelet-blue-opal-bracelet-opal-bracelet-in-sterling-silver-beaded-opal-bracelet?variant=42904252219473)
+    Availability: Available
+    Price: $29.95 USD
+  - [No. 2  Blue / 9.5 inch](https://sunnyseaglassjewelry.com/products/white-opal-bracelet-minimalist-bracelet-tiny-opal-bracelet-blue-opal-bracelet-opal-bracelet-in-sterling-silver-beaded-opal-bracelet?variant=42904252252241)
+    Availability: Available
+    Price: $29.95 USD
+  - [No.3 Lavender / 5.5 inch](https://sunnyseaglassjewelry.com/products/white-opal-bracelet-minimalist-bracelet-tiny-opal-bracelet-blue-opal-bracelet-opal-bracelet-in-sterling-silver-beaded-opal-bracelet?variant=42904252285009)
+    Availability: Available
+    Price: $29.95 USD
+  - [No.3 Lavender / 6.0 inch](https://sunnyseaglassjewelry.com/products/white-opal-bracelet-minimalist-bracelet-tiny-opal-bracelet-blue-opal-bracelet-opal-bracelet-in-sterling-silver-beaded-opal-bracelet?variant=42904252317777)
+    Availability: Available
+    Price: $29.95 USD
+  - [No.3 Lavender / 6.5 inch](https://sunnyseaglassjewelry.com/products/white-opal-bracelet-minimalist-bracelet-tiny-opal-bracelet-blue-opal-bracelet-opal-bracelet-in-sterling-silver-beaded-opal-bracelet?variant=42904252350545)
+    Availability: Available
+    Price: $29.95 USD
+  - [No.3 Lavender / 7.0 inch](https://sunnyseaglassjewelry.com/products/white-opal-bracelet-minimalist-bracelet-tiny-opal-bracelet-blue-opal-bracelet-opal-bracelet-in-sterling-silver-beaded-opal-bracelet?variant=42904252383313)
+    Availability: Available
+    Price: $29.95 USD
+  - [No.3 Lavender / 7.5 inch](https://sunnyseaglassjewelry.com/products/white-opal-bracelet-minimalist-bracelet-tiny-opal-bracelet-blue-opal-bracelet-opal-bracelet-in-sterling-silver-beaded-opal-bracelet?variant=42904252416081)
+    Availability: Available
+    Price: $29.95 USD
+  - [No.3 Lavender / 8.0 inch](https://sunnyseaglassjewelry.com/products/white-opal-bracelet-minimalist-bracelet-tiny-opal-bracelet-blue-opal-bracelet-opal-bracelet-in-sterling-silver-beaded-opal-bracelet?variant=42904252448849)
+    Availability: Available
+    Price: $29.95 USD
+  - [No.3 Lavender / 8.5 inch](https://sunnyseaglassjewelry.com/products/white-opal-bracelet-minimalist-bracelet-tiny-opal-bracelet-blue-opal-bracelet-opal-bracelet-in-sterling-silver-beaded-opal-bracelet?variant=42904252481617)
+    Availability: Available
+    Price: $29.95 USD
+  - [No.3 Lavender / 9.0 inch](https://sunnyseaglassjewelry.com/products/white-opal-bracelet-minimalist-bracelet-tiny-opal-bracelet-blue-opal-bracelet-opal-bracelet-in-sterling-silver-beaded-opal-bracelet?variant=42904252514385)
+    Availability: Available
+    Price: $29.95 USD
+  - [No.3 Lavender / 9.5 inch](https://sunnyseaglassjewelry.com/products/white-opal-bracelet-minimalist-bracelet-tiny-opal-bracelet-blue-opal-bracelet-opal-bracelet-in-sterling-silver-beaded-opal-bracelet?variant=42904252547153)
+    Availability: Available
+    Price: $29.95 USD
+  - [No.4 Aqua blue / 5.5 inch](https://sunnyseaglassjewelry.com/products/white-opal-bracelet-minimalist-bracelet-tiny-opal-bracelet-blue-opal-bracelet-opal-bracelet-in-sterling-silver-beaded-opal-bracelet?variant=42904252579921)
+    Availability: Available
+    Price: $29.95 USD
+  - [No.4 Aqua blue / 6.0 inch](https://sunnyseaglassjewelry.com/products/white-opal-bracelet-minimalist-bracelet-tiny-opal-bracelet-blue-opal-bracelet-opal-bracelet-in-sterling-silver-beaded-opal-bracelet?variant=42904252612689)
+    Availability: Available
+    Price: $29.95 USD
+  - [No.4 Aqua blue / 6.5 inch](https://sunnyseaglassjewelry.com/products/white-opal-bracelet-minimalist-bracelet-tiny-opal-bracelet-blue-opal-bracelet-opal-bracelet-in-sterling-silver-beaded-opal-bracelet?variant=42904252645457)
+    Availability: Available
+    Price: $29.95 USD
+  - [No.4 Aqua blue / 7.0 inch](https://sunnyseaglassjewelry.com/products/white-opal-bracelet-minimalist-bracelet-tiny-opal-bracelet-blue-opal-bracelet-opal-bracelet-in-sterling-silver-beaded-opal-bracelet?variant=42904252678225)
+    Availability: Available
+    Price: $29.95 USD
+  - [No.4 Aqua blue / 7.5 inch](https://sunnyseaglassjewelry.com/products/white-opal-bracelet-minimalist-bracelet-tiny-opal-bracelet-blue-opal-bracelet-opal-bracelet-in-sterling-silver-beaded-opal-bracelet?variant=42904252710993)
+    Availability: Available
+    Price: $29.95 USD
+  - [No.4 Aqua blue / 8.0 inch](https://sunnyseaglassjewelry.com/products/white-opal-bracelet-minimalist-bracelet-tiny-opal-bracelet-blue-opal-bracelet-opal-bracelet-in-sterling-silver-beaded-opal-bracelet?variant=42904252743761)
+    Availability: Available
+    Price: $29.95 USD
+  - [No.4 Aqua blue / 8.5 inch](https://sunnyseaglassjewelry.com/products/white-opal-bracelet-minimalist-bracelet-tiny-opal-bracelet-blue-opal-bracelet-opal-bracelet-in-sterling-silver-beaded-opal-bracelet?variant=42904252776529)
+    Availability: Available
+    Price: $29.95 USD
+  - [No.4 Aqua blue / 9.0 inch](https://sunnyseaglassjewelry.com/products/white-opal-bracelet-minimalist-bracelet-tiny-opal-bracelet-blue-opal-bracelet-opal-bracelet-in-sterling-silver-beaded-opal-bracelet?variant=42904252809297)
+    Availability: Available
+    Price: $29.95 USD
+  - [No.4 Aqua blue / 9.5 inch](https://sunnyseaglassjewelry.com/products/white-opal-bracelet-minimalist-bracelet-tiny-opal-bracelet-blue-opal-bracelet-opal-bracelet-in-sterling-silver-beaded-opal-bracelet?variant=42904252842065)
+    Availability: Available
+    Price: $29.95 USD
 - [Periwinkle Sea Glass Earrings in Sterling Silver Earwires-Lavender Recycled Glass Earrings Glass Earrings, Beach Weddings,Sea Glass earrings](https://sunnyseaglassjewelry.com/products/periwinkle-sea-glass-earrings-in-sterling-silver-earwires-lavender-recycled-glass-earrings-glass-earrings-beach-weddings-sea-glass-earrings): Beautiful lavender sea glass! ~ in shade of periwinkle/lavender !!! This is my new collection: recycled /cultured Sea glass jewelry. The same soft finish as found in natural sea glass. These fun, colorful earrings are carefully Wire Wrapped with .925 sterling silver wires on recycled unique, wavy nugget sea glass beads approximately 18 x 17mm. They are dangling down from crystals, Swrovski white pearl beads. They dangle nicely slightly over 1 inch from the bottom of the .925 sterling silver earwires. ***Choose the earrings with crystal or pearl finished style ***Email me for any inquiries Thank you for visiting my shop!*Engraving service is not available.
   Updated: 2025-09-15T22:34:08Z
   Vendor: My Store
@@ -487,11 +601,11 @@
   Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/2f35a746-il_fullxfull.6237032021_6f03.jpg?v=1756000945
   Price: $20.95 USD
 - [Sailboat Sea Glass Earrings in Sterling Silver, Beach glass Earrings, Ocean-Inspired Crystal White Sea Glass Sailboat Earrings](https://sunnyseaglassjewelry.com/products/sailboat-sea-glass-earrings-in-sterling-silver-beach-glass-earrings-ocean-inspired-crystal-white-sea-glass-sailboat-earrings): Beautiful shade of cultured Frosted Clear White sea glass !!! This is my one of the cultured Sea glass Sailboat Earrings. The same soft finish as found in natural sea glass. These fun, colorful earrings are carefully Wire Wrapped with .925 sterling silver wires on unique, freeform flat sea glass beads measures approximately 13 x 16 mm They are finished with sterling silver beads. Please choose blue hull or Aqua blue in the drop down menu. ***All the findings are .925 sterling silver. Set sail with this delicate sailboat earrings, handcrafted with smooth frosted clear crystal white sea glass and .925 sterling silver. The soft white glass catches the light like sun on ocean waves, making it the perfect piece for ocean lovers, beach wanderers, and dreamers at heart. These Earrings are shaped like a tiny sailboat, a gentle reminder of freedom, adventure, and calm seas. Whether you're reminiscing about your last beach day or gifting a meaningful piece to a loved one, this necklace brings a touch of the sea wherever you go. cultured sea glass:13 x16 mm Sterling silver findings. Earring size: approx: 1.16 x 8/8 inch. ***Email me for any inquiries. Thank you for visiting my shop!
-  Updated: 2025-09-15T22:34:11Z
+  Updated: 2025-10-11T01:41:54Z
   Vendor: My Store
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/8cace912-il_fullxfull.6823501341_ipe2.jpg?v=1756000945
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/7494ff3a-il_fullxfull.6772749316_c86r.jpg?v=1760146839
   - [No.1 Blue](https://sunnyseaglassjewelry.com/products/sailboat-sea-glass-earrings-in-sterling-silver-beach-glass-earrings-ocean-inspired-crystal-white-sea-glass-sailboat-earrings?variant=42904276172881)
     Availability: Available
     Price: $26.95 USD
@@ -2052,6 +2166,39 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/1175094e-il_fullxfull.6935319816_tgqh.jpg?v=1756001005
   Price: $27.95 USD
+- [Sterling Silver Starfish Anklet ,Beach Style Summer Jewelry, Beach  Summer Vibes Ocean Theme Starfish Design Bracelet, Custom Length Chain Available](https://sunnyseaglassjewelry.com/products/sterling-silver-anklet-beach-style-summer-jewelry-beach-summer-vibes-ocean-theme-starfish-design-bracelet-custom-length-chain-available): Capture the essence of summer with this stunning double-strand sterling silver bracelet or anklet featuring a charming starfish design and a vibrant 12mm lab-created blue opal centerpiece. Crafted with high-quality silver and accented by delicate spacer beads, this versatile piece offers customizable length options for the perfect fit as either a bracelet or anklet. Ideal for beach lovers, it symbolizes protection, calmness, and renewal, making it an elegant accessory for everyday wear or special occasions. Finished with a secure lobster clasp and beautifully packaged, it’s the perfect gift to embrace your beachy, boho style.
+  Updated: 2025-10-11T01:35:25Z
+  Vendor: My Store
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/d7cc49b1-il_fullxfull.6982631707_2p07.jpg?v=1756001006
+  - [6.0 inch](https://sunnyseaglassjewelry.com/products/sterling-silver-anklet-beach-style-summer-jewelry-beach-summer-vibes-ocean-theme-starfish-design-bracelet-custom-length-chain-available?variant=42904342364241)
+    Availability: Available
+    Price: $28.95 USD
+  - [6.5 inch](https://sunnyseaglassjewelry.com/products/sterling-silver-anklet-beach-style-summer-jewelry-beach-summer-vibes-ocean-theme-starfish-design-bracelet-custom-length-chain-available?variant=42904342397009)
+    Availability: Available
+    Price: $28.95 USD
+  - [7.0 inch](https://sunnyseaglassjewelry.com/products/sterling-silver-anklet-beach-style-summer-jewelry-beach-summer-vibes-ocean-theme-starfish-design-bracelet-custom-length-chain-available?variant=42904342429777)
+    Availability: Available
+    Price: $28.95 USD
+  - [7.5 inch](https://sunnyseaglassjewelry.com/products/sterling-silver-anklet-beach-style-summer-jewelry-beach-summer-vibes-ocean-theme-starfish-design-bracelet-custom-length-chain-available?variant=42904342462545)
+    Availability: Available
+    Price: $28.95 USD
+  - [8.0 inch](https://sunnyseaglassjewelry.com/products/sterling-silver-anklet-beach-style-summer-jewelry-beach-summer-vibes-ocean-theme-starfish-design-bracelet-custom-length-chain-available?variant=42904342495313)
+    Availability: Available
+    Price: $28.95 USD
+  - [8.5 inch](https://sunnyseaglassjewelry.com/products/sterling-silver-anklet-beach-style-summer-jewelry-beach-summer-vibes-ocean-theme-starfish-design-bracelet-custom-length-chain-available?variant=42904342528081)
+    Availability: Available
+    Price: $28.95 USD
+  - [9.00 inch](https://sunnyseaglassjewelry.com/products/sterling-silver-anklet-beach-style-summer-jewelry-beach-summer-vibes-ocean-theme-starfish-design-bracelet-custom-length-chain-available?variant=42904342560849)
+    Availability: Available
+    Price: $28.95 USD
+  - [9.5 inch](https://sunnyseaglassjewelry.com/products/sterling-silver-anklet-beach-style-summer-jewelry-beach-summer-vibes-ocean-theme-starfish-design-bracelet-custom-length-chain-available?variant=42904342593617)
+    Availability: Available
+    Price: $28.95 USD
+  - [10.00 inch](https://sunnyseaglassjewelry.com/products/sterling-silver-anklet-beach-style-summer-jewelry-beach-summer-vibes-ocean-theme-starfish-design-bracelet-custom-length-chain-available?variant=42904342626385)
+    Availability: Available
+    Price: $28.95 USD
 - [Ocean Beach Wave Necklace, Blue Beach Wave Necklace,Ocean Wave Lampwork Pendant, Beach Wave Jewelry, Blue Sea Glass Necklace sterling silver](https://sunnyseaglassjewelry.com/products/ocean-beach-wave-necklace-blue-beach-wave-necklace-ocean-wave-lampwork-pendant-beach-wave-jewelry-blue-sea-glass-necklace-sterling-silver-2): Gorgeous Handmade Lampwork Ocean Wave glass necklace in Sterling Silver. We keep the memory of timeless sea breezes, sea-wind of the night, Golden sand, Dazzling/Shimmering sunlight making the sand sparkle like a thousand tiny jewels, Ocean waves..... This beautiful etched transparent clear & Ivory Blues Glass Nugget beads with a organic twist decoration. These have a lovely soft cloud-like effect. Lampwork Ocean wave glass bead is hand wire wrapped with .925 sterling silver wire, 6mm crystal and sterling silver bead. This beautiful pendant comes on a .925 sterling silver chain & finished with a lobster clasp. *Bead size: 18 mm x 8 mm thick. *Email me for any inquiries. * It is shipped in a gift box. Thank you for visiting my shop!
   Updated: 2025-09-15T22:34:24Z
   Vendor: My Store
@@ -2067,6 +2214,27 @@
   - [19 / sterling silver](https://sunnyseaglassjewelry.com/products/ocean-beach-wave-necklace-blue-beach-wave-necklace-ocean-wave-lampwork-pendant-beach-wave-jewelry-blue-sea-glass-necklace-sterling-silver-2?variant=42904344068177)
     Availability: Available
     Price: $41.95 USD
+- [White Opal Necklace, STERLING SILVER October Opal Birthstone Necklace,Wire Wrapped Opal Necklace ,Lab Created White Opal Necklace,](https://sunnyseaglassjewelry.com/products/white-opal-necklace-sterling-silver-october-opal-birthstone-necklace-wire-wrapped-opal-necklace-lab-created-white-opal-necklace): This gorgeous, light,& beautiful dazzling teardrop simulated/synthetic Opal is wire wrapped using .925 sterling silver. *** A beautiful gift for the October birthstone ladies. Our Synthetic Opal stands for quality. This synthetic white Opal displays beautiful array of iridescent colors. Opal-like Plastic is NOT the same material as our Impregnated Synthetic Opal. The finished pendant measures 1.75 inch(37mm) from top of the bail to the bottom of the pendant, 0.60 inch across. The pendant comes on a .925 sterling silver cable chain. *Each pendant is handmade, so please allow slight variations from the shape of the branches and placement of the stones as shown. *Matching earrings available: www.etsy.com/listing/477739560/simulated-white-opal-sterling-silver?ref=shop_home_active_16 *ABOUT SIMULATED OPAL: “Opal" originates from the Latin word “Opalus” It is called opal the “Queen of Gems” because it encompasses the colors of all the other gems. Opal symbolizes hope and purity. It is a gift granted by the heaven in bolts of lightning and unfolds the “Nature’s fireworks” before one’s eyes. Simulated /Synthetic opal has similar properties as that of natural opal. This opal has a beautiful rainbow like prismatic effect which revealed the beauty of Precious Opal. * It is shipped in a gift box. Thank you for visiting my shop. Please contact me if you have any questions.*Engraving service is not available.
+  Updated: 2025-10-11T01:34:16Z
+  Vendor: My Store
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/492364e7-il_fullxfull.3532097156_qtqw.jpg?v=1756001009
+  - [16 inch](https://sunnyseaglassjewelry.com/products/white-opal-necklace-sterling-silver-october-opal-birthstone-necklace-wire-wrapped-opal-necklace-lab-created-white-opal-necklace?variant=42904344428625)
+    Availability: Available
+    Price: $76.95 USD
+  - [17 inch](https://sunnyseaglassjewelry.com/products/white-opal-necklace-sterling-silver-october-opal-birthstone-necklace-wire-wrapped-opal-necklace-lab-created-white-opal-necklace?variant=42904344461393)
+    Availability: Available
+    Price: $77.95 USD
+  - [18 inch](https://sunnyseaglassjewelry.com/products/white-opal-necklace-sterling-silver-october-opal-birthstone-necklace-wire-wrapped-opal-necklace-lab-created-white-opal-necklace?variant=42904344494161)
+    Availability: Available
+    Price: $78.95 USD
+  - [20 inch](https://sunnyseaglassjewelry.com/products/white-opal-necklace-sterling-silver-october-opal-birthstone-necklace-wire-wrapped-opal-necklace-lab-created-white-opal-necklace?variant=42904344526929)
+    Availability: Available
+    Price: $80.95 USD
+  - [22 inch](https://sunnyseaglassjewelry.com/products/white-opal-necklace-sterling-silver-october-opal-birthstone-necklace-wire-wrapped-opal-necklace-lab-created-white-opal-necklace?variant=42904344559697)
+    Availability: Available
+    Price: $82.95 USD
 - [Wire Wrapped Peridot/Amethyst Bracelet,Adjustable /Amethyst Silver bracelet,August Birthstone Bracelet,Silver Bangle/Cuff Wrap bracelet,](https://sunnyseaglassjewelry.com/products/wire-wrapped-peridot-amethyst-bracelet-adjustable-amethyst-silver-bracelet-august-birthstone-bracelet-silver-bangle-cuff-wrap-bracelet): This beautiful beaded bracelet is hand wire wrapped using semi transparent green Peridot & Amethyst gemstones using tarnish resistant silver craft wires in various gauge. The Peridot/Amethyst gemstones measures between 5 to 7 mm which displays nice olive green /purple-lavender colors. This pretty wire wrapped bracelet is finished with glass flower bead. *MADE TO ORDER. This adjustable bracelet will fit most of the wrist if you are wearing 7 to 8.5 inch bracelet. It is easily bendable, so you can adjust to your wrist. ***I can customize your bracelet with different gemstones & metals. ~~ Each bracelet is handmade, so please allow slight variations from the shape of the freeform circles and placement of the stones as shown. * About Peridot: Periodot is associated with the heart Chakra. Peridot carries a positive energy that is helpful for those undergoing traumatic emotional situations. It is a stone of compassion. Peridot also bring abundance and prosperity. It enhances the healing and harmony of relationships of all kinds. Thank you very much for visiting my shop. Please contact me if you have any questions.Here is the link: How to put on a bracelet by yourself: https://www.youtube.com/watch?v=mNaAK_k4SCA
   Updated: 2025-09-16T09:29:35Z
   Vendor: Sunny Sea Glass Jewelry
@@ -2199,10 +2367,10 @@
   - [20](https://sunnyseaglassjewelry.com/products/sailboat-necklace-sterling-silver-peridot-green-beach-glass-sailboat-necklace-green-sea-glassn-ecklace-nautical-sailboat-necklace?variant=42904347541585)
     Availability: Available
     Price: $41.95 USD
-- [Ready Ship in 1 to 2 days, sterling silver,Abalone Tree of Life Necklace,Wire Wrapped Abalone Tree of Life Necklace, Tree of Life Jewelry](https://sunnyseaglassjewelry.com/products/ready-ship-in-1-to-2-days-sterling-silver-abalone-tree-of-life-necklace-wire-wrapped-abalone-tree-of-life-necklace-tree-of-life-jewelry): This gorgeous Rainbow Abalone is wire wrapped with .925 sterling silver wire. The pendant wire has been hammered & forged to give strength & texture to bring out the stunning details of the finished pendant. This beautiful mosaic pattern abalone shell displays beautiful array of iridescent rainbow colors with hints of green, blue and red. It is also called 'sea opal' A gem created in the sea like pearls with array of rainbow colors. Abalone Shell is said to enhance feelings of peace, compassion and love. *The finished pendant measures 2 inch from top of the bail to the bottom of the pendant, 1.10 inch across. The pendant comes on a 18 inch plus 2 inch extension .925 sterling silver cable chain. *Each pendant is handmade, so please allow slight variations from the shape of the branches and placement as shown. ***The Tree of Life is a universal symbol found in many spiritual traditions around the world. The tree of knowledge, connecting to heaven and the underworld, and the tree of life, connecting all forms of creation, are both forms of the world tree or cosmic tree. It's meaning represents life itself, wisdom, love, strength, protection, beauty, bounty and redemption. The tree is associated with the creator because it provides protection, supports abundant fruit production and thereby, regeneration. Thank you for visiting my shop. Please contact me if you have any questions.*Engraving service is not available.
-  Updated: 2025-09-15T22:34:25Z
+- [Serling silver Abalone Tree of Life Necklace,Wire Wrapped Abalone Tree of Life Necklace, Tree of Life Jewelry](https://sunnyseaglassjewelry.com/products/ready-ship-in-1-to-2-days-sterling-silver-abalone-tree-of-life-necklace-wire-wrapped-abalone-tree-of-life-necklace-tree-of-life-jewelry): This stunning Rainbow Abalone pendant is carefully wire wrapped with .925 sterling silver, featuring hammered and forged wire for added strength and texture. The abalone shell displays a vibrant mosaic of iridescent colors, including green, blue, and red, often called "sea opal." Measuring 2 inches long and 1.10 inches wide, the pendant hangs on an 18-inch sterling silver cable chain with a 2-inch extension. Each piece is handmade and unique, symbolizing peace, love, and wisdom through the Tree of Life design—a timeless emblem of strength and protection.
+  Updated: 2025-10-11T01:28:09Z
   Vendor: Sunny Sea Glass Jewelry
-  Product Type: 
+  Product Type: Wire wrapped necklace
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/cf219f66-il_fullxfull.1368481858_rb9m.jpg?v=1756001013
   Price: $54.95 USD
@@ -2302,6 +2470,67 @@
   - [Crystal](https://sunnyseaglassjewelry.com/products/cobalt-blue-beach-glass-earrings-in-sterling-silver-blue-sea-glass-earrings-beach-weddings-beach-glass-jewelry-cobalt-sea-glass-earrings?variant=42904351670353)
     Availability: Available
     Price: $22.95 USD
+- [Wire Wrapped Rainbow Abalone Necklace in Antiqued Copper WHOLE PIECE, Abalone Shell Pendant, Abalone Shell Tree of Life Copper Necklace,](https://sunnyseaglassjewelry.com/products/wire-wrapped-rainbow-abalone-necklace-in-antiqued-copper-whole-piece-abalone-shell-pendant-abalone-shell-tree-of-life-copper-necklace): This large whole Abalone shell pendant is artfully wire wrapped in a Tree of Life design using genuine antiqued copper wire. The hammered and forged finish adds durability and texture, highlighting the pendant’s intricate details. Measuring 3.25 inches long and 1.55 inches wide, it showcases vibrant iridescent rainbow colors with hints of green, blue, and red—often called "sea opal." It arrives on an antiqued copper cable chain, perfect for layering or wearing alone. Each piece is handmade, making every necklace uniquely beautiful and meaningful, symbolizing life, wisdom, and protection.
+  Updated: 2025-10-11T01:24:55Z
+  Vendor: My Store
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/d8414c0a-il_fullxfull.6358530737_4c7d.jpg?v=1760145810
+  - [18 / Antiqued Copper](https://sunnyseaglassjewelry.com/products/wire-wrapped-rainbow-abalone-necklace-in-antiqued-copper-whole-piece-abalone-shell-pendant-abalone-shell-tree-of-life-copper-necklace?variant=42904351703121)
+    Availability: Available
+    Price: $49.95 USD
+  - [18 / Black Deerskin Lace](https://sunnyseaglassjewelry.com/products/wire-wrapped-rainbow-abalone-necklace-in-antiqued-copper-whole-piece-abalone-shell-pendant-abalone-shell-tree-of-life-copper-necklace?variant=42904351735889)
+    Availability: Available
+    Price: $54.95 USD
+  - [18 / Brown D.Lace](https://sunnyseaglassjewelry.com/products/wire-wrapped-rainbow-abalone-necklace-in-antiqued-copper-whole-piece-abalone-shell-pendant-abalone-shell-tree-of-life-copper-necklace?variant=42904351768657)
+    Availability: Available
+    Price: $54.95 USD
+  - [18 / Tan D.Lace](https://sunnyseaglassjewelry.com/products/wire-wrapped-rainbow-abalone-necklace-in-antiqued-copper-whole-piece-abalone-shell-pendant-abalone-shell-tree-of-life-copper-necklace?variant=42904351801425)
+    Availability: Available
+    Price: $54.95 USD
+  - [20 / Antiqued Copper](https://sunnyseaglassjewelry.com/products/wire-wrapped-rainbow-abalone-necklace-in-antiqued-copper-whole-piece-abalone-shell-pendant-abalone-shell-tree-of-life-copper-necklace?variant=42904351834193)
+    Availability: Available
+    Price: $49.95 USD
+  - [20 / Black Deerskin Lace](https://sunnyseaglassjewelry.com/products/wire-wrapped-rainbow-abalone-necklace-in-antiqued-copper-whole-piece-abalone-shell-pendant-abalone-shell-tree-of-life-copper-necklace?variant=42904351866961)
+    Availability: Available
+    Price: $54.95 USD
+  - [20 / Brown D.Lace](https://sunnyseaglassjewelry.com/products/wire-wrapped-rainbow-abalone-necklace-in-antiqued-copper-whole-piece-abalone-shell-pendant-abalone-shell-tree-of-life-copper-necklace?variant=42904351899729)
+    Availability: Available
+    Price: $54.95 USD
+  - [20 / Tan D.Lace](https://sunnyseaglassjewelry.com/products/wire-wrapped-rainbow-abalone-necklace-in-antiqued-copper-whole-piece-abalone-shell-pendant-abalone-shell-tree-of-life-copper-necklace?variant=42904351932497)
+    Availability: Available
+    Price: $54.95 USD
+  - [22 / Antiqued Copper](https://sunnyseaglassjewelry.com/products/wire-wrapped-rainbow-abalone-necklace-in-antiqued-copper-whole-piece-abalone-shell-pendant-abalone-shell-tree-of-life-copper-necklace?variant=42904351965265)
+    Availability: Available
+    Price: $49.95 USD
+  - [22 / Black Deerskin Lace](https://sunnyseaglassjewelry.com/products/wire-wrapped-rainbow-abalone-necklace-in-antiqued-copper-whole-piece-abalone-shell-pendant-abalone-shell-tree-of-life-copper-necklace?variant=42904351998033)
+    Availability: Available
+    Price: $54.95 USD
+  - [22 / Brown D.Lace](https://sunnyseaglassjewelry.com/products/wire-wrapped-rainbow-abalone-necklace-in-antiqued-copper-whole-piece-abalone-shell-pendant-abalone-shell-tree-of-life-copper-necklace?variant=42904352030801)
+    Availability: Available
+    Price: $54.95 USD
+  - [22 / Tan D.Lace](https://sunnyseaglassjewelry.com/products/wire-wrapped-rainbow-abalone-necklace-in-antiqued-copper-whole-piece-abalone-shell-pendant-abalone-shell-tree-of-life-copper-necklace?variant=42904352063569)
+    Availability: Available
+    Price: $54.95 USD
+  - [24 / Antiqued Copper](https://sunnyseaglassjewelry.com/products/wire-wrapped-rainbow-abalone-necklace-in-antiqued-copper-whole-piece-abalone-shell-pendant-abalone-shell-tree-of-life-copper-necklace?variant=42904352096337)
+    Availability: Available
+    Price: $49.95 USD
+  - [24 / Black Deerskin Lace](https://sunnyseaglassjewelry.com/products/wire-wrapped-rainbow-abalone-necklace-in-antiqued-copper-whole-piece-abalone-shell-pendant-abalone-shell-tree-of-life-copper-necklace?variant=42904352129105)
+    Availability: Available
+    Price: $54.95 USD
+  - [24 / Brown D.Lace](https://sunnyseaglassjewelry.com/products/wire-wrapped-rainbow-abalone-necklace-in-antiqued-copper-whole-piece-abalone-shell-pendant-abalone-shell-tree-of-life-copper-necklace?variant=42904352161873)
+    Availability: Available
+    Price: $54.95 USD
+  - [24 / Tan D.Lace](https://sunnyseaglassjewelry.com/products/wire-wrapped-rainbow-abalone-necklace-in-antiqued-copper-whole-piece-abalone-shell-pendant-abalone-shell-tree-of-life-copper-necklace?variant=42904352194641)
+    Availability: Available
+    Price: $54.95 USD
+- [Chandelier Amazonite Earring for Wedding Formal Jewelry Boho Style Statement Piece Wire Wrapped Dangle Beach Set,](https://sunnyseaglassjewelry.com/products/chandelier-amazonite-earring-for-wedding-formal-jewelry-boho-style-statement-piece-wire-wrapped-dangle-beach-set): These elegant sterling silver chandelier earrings showcase a beautiful waterfall design, ideal for boho beach weddings or formal occasions. Handcrafted with .925 sterling silver wire, they feature cascading amazonite stones and Swarovski crystals in soft blue and iridescent shades. Their multiple dangling strands create a dazzling, eye-catching effect, perfect for making a statement on your special day or enhancing everyday style. Measuring 2-1/4 inches long, these earrings come ready to gift and can be customized with your choice of gemstones to suit your personal taste.
+  Updated: 2025-10-11T01:21:17Z
+  Vendor: My Store
+  Product Type: Wire Wrapped Earrings
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/2c3430e2-il_fullxfull.6954669455_s0ax.jpg?v=1760145675
+  Price: $32.95 USD
 - [Wire Wrapped Heart Necklace with Sea Glass, Heart Pendant Necklace, Beach Glass Heart Necklace, Love Heart Necklace,Statement Wired Necklace](https://sunnyseaglassjewelry.com/products/wire-wrapped-heart-necklace-with-sea-glass-heart-pendant-necklace-beach-glass-heart-necklace-love-heart-necklace-statement-wired-necklace): This lovely wired Heart pendant necklace feature a heart made with aluminum wire and dangling down with aqua blue sea glass & blue crystal. Heart wire is hammered to give the texture & strengthen the metal. *** A great look on a long chain. Perfect for Grandma, sister, wife..... These lovely heart pendant measures 2 inch wide. it comes on a s18 inch plus 2 inch extension silver Filled cable chain. Thank you very much visiting my shop. Please contact me if you have any questions.
   Updated: 2025-09-15T22:34:27Z
   Vendor: Sunny Sea Glass Jewelry
@@ -2465,6 +2694,20 @@
   - [26 inch / No.5 Turquoise](https://sunnyseaglassjewelry.com/products/sterling-silver-s-hook-clasp-deerskin-lace-leather-deerskin-lace-3-mm1-8-width-black-brown-turquoise-tan-leather-made-in-usa?variant=42904358912081)
     Availability: Available
     Price: $23.49 USD
+- [Handmade Moonstone, Pearl & Opalite in Gold Long Dangle Earrings, Elegant Moonstone Long Earrings, June Birthstone Gift for Her](https://sunnyseaglassjewelry.com/products/handmade-moonstone-pearl-opalite-in-gold-long-dangle-earrings-elegant-moonstone-long-earrings-june-birthstone-gift-for-her): These handcrafted long gold dangle earrings showcase a beautiful mix of 5mm luminous moonstone, elegant freshwater pearls, and semi-transparent 12mm teardrop Opalite, all arranged to shimmer and move gracefully. Measuring 2-1/4 inches from the 18 KT finished French earwire, they are lightweight and comfortable for everyday wear. Perfect for special occasions or adding a subtle touch of elegance to any outfit, these earrings make a thoughtful gift for birthdays or anniversaries, especially for fans of boho chic and celestial styles. Custom length and bead options are available upon request.
+  Updated: 2025-10-11T01:20:21Z
+  Vendor: My Store
+  Product Type: Wire Wrapped Earrings
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/91a00d6d-il_fullxfull.6934255217_5yki.jpg?v=1760145545
+  Price: $24.95 USD
+- [Moonstone Long Elegant Earrings in Gold, Wired Wrapped Opal Dangling Earrings, June Birthstone Earrings, October Birthstone Earrings](https://sunnyseaglassjewelry.com/products/moonstone-long-elegant-earrings-in-gold-wired-wrapped-opal-dangling-earrings-june-birthstone-earrings-october-birthstone-earrings): These elegant gold dangle earrings feature a beautiful mix of genuine moonstone, freshwater pearls, and shimmering lab-created white opal. Designed to catch the light and move gracefully, they add a touch of sophistication to any outfit. Perfect for birthdays or special occasions, these earrings offer a stylish blend of boho and romantic charm. Ready to gift in a lovely box, they make a meaningful and stunning accessory for anyone who loves celestial-inspired jewelry. These lovely earrings measures 2-1/8 inch from the bottom of the 24kt plated gold earwires.* Comes ready for gifting in a beautiful jewelry box.*customization available upon request!
+  Updated: 2025-10-11T01:18:10Z
+  Vendor: My Store
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/19aab621-il_fullxfull.6886269178_nzvl.jpg?v=1756001025
+  Price: $26.95 USD
 - [Wire wrapped Sea Glass Jewelry in Sterling Silver, Sea Glass Silver Earrings, Dangling Earrings ,Beach Weddings, Sea Glass  earrings](https://sunnyseaglassjewelry.com/products/wire-wrapped-sea-glass-jewelry-in-sterling-silver-sea-glass-silver-earrings-dangling-earrings-beach-weddings-sea-glass-earrings-3): Beautiful Very pale Seafoam Blue Sea glass beads are wire wrapped in .925 sterling silver wire accented with Swarovski crystals. Sea glass beads measures 13 x 10 mm. They are dangling down from crystals, Swarovski white pearl beads. They dangle nicely slightly under 1-1/4 inch from the bottom of the .925 sterling silver earwires. A ray of sunshine shines on your dangling from your ears! * **Email me for any inquiries Thank you for visiting my shop!*Engraving service is not available.
   Updated: 2025-09-15T22:34:27Z
   Vendor: My Store
@@ -3316,7 +3559,7 @@
   Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/56c95f24-il_fullxfull.6164338105_ex7b.jpg?v=1756001038
   Price: $59.95 USD
 - [White Opal Necklace,STERLING Silver October Opal Birthstone Necklace,Wire Wrapped Lab Created White Opal Necklace,](https://sunnyseaglassjewelry.com/products/ready-ship-in-1-to-2-days-white-opal-necklace-sterling-silver-october-opal-birthstone-necklace-wire-wrapped-lab-created-white-opal-necklace): This stunning, lightweight teardrop-shaped synthetic opal pendant is expertly wrapped in .925 sterling silver. An ideal gift for those celebrating October birthdays, our high-quality synthetic opal showcases a vibrant spectrum of iridescent colors. Unlike opal-like plastic, this impregnated synthetic opal offers a genuine appearance and prismatic effect. The pendant measures 1.75 inches (37mm) from the bail to the bottom and 0.60 inches wide, hanging on a sterling silver cable chain. Each piece is handcrafted, so minor variations in design may occur. It ships in a gift box. Engraving is not available.
-  Updated: 2025-09-18T07:52:01Z
+  Updated: 2025-10-11T01:12:42Z
   Vendor: My Store
   Product Type: Wire wrapped necklace
   Availability: Available
@@ -3469,8 +3712,8 @@
   - [Crystal](https://sunnyseaglassjewelry.com/products/green-seaglass-earrings-in-sterling-silver-light-green-sea-glass-earrings-beach-weddings-beach-glass-jewelry-peridot-sea-glass-earrings?variant=42904376148049)
     Availability: Available
     Price: $22.95 USD
-- [Frameless Abalone Necklace, Wire Wrapped Abalone Pendant,Abalone Tree of Life Necklace  Leather,Abalone Necklace Copper,Paua Shell Jewelry](https://sunnyseaglassjewelry.com/products/frameless-abalone-necklace-wire-wrapped-abalone-pendant-abalone-tree-of-life-necklace-leather-abalone-necklace-copper-paua-shell-jewelry): This gorgeous Rainbow Abalone is wire wrapped with natural/genuine copper wires. The pendant has been hammered & forged to give strength & texture to bring out the stunning details of the finished pendant. This beautiful mosaic pattern abalone shell displays beautiful array of iridescent rainbow colors with hints of green, blue and red. It is also called 'sea opal' A gem created in the sea like pearls with array of rainbow colors. Abalone Shell is said to enhance feelings of peace, compassion and love. FOR EXTRA CHAIN OR LEATHER : www.etsy.com/shop/SunVDesigns?ref=seller-platform-mcnav§ion_id=20947007 *Each pendant is handmade, so please allow slight variations from the shape of the branches and placement as shown. *MATCHING EARRINGS are available: www.etsy.com/listing/233871588/abalone-earrings-abalone-dangledrop?ref=shop_home_active_4&frs=1 ***The Tree of Life is a universal symbol found in many spiritual traditions around the world. The tree of knowledge, connecting to heaven and the underworld, and the tree of life, connecting all forms of creation, are both forms of the world tree or cosmic tree. It's meaning represents life itself, wisdom, love, strength, protection, beauty, bounty and redemption. The tree is associated with the creator because it provides protection, supports abundant fruit production and thereby, regeneration. *To take care of all your antiqued jewelry, it may get darker over the time if expose to water/moisture. You can simply clean it with a polishing cloth which will go back to its first condition easily. Thank you for visiting my shop. Please contact me if you have any questions.
-  Updated: 2025-09-15T22:34:29Z
+- [Frameless Abalone Necklace, Wire Wrapped Abalone Pendant,Abalone Tree of Life Necklace  Leather,Abalone Necklace Copper,Paua Shell Jewelry](https://sunnyseaglassjewelry.com/products/frameless-abalone-necklace-wire-wrapped-abalone-pendant-abalone-tree-of-life-necklace-leather-abalone-necklace-copper-paua-shell-jewelry): This stunning Abalone pendant is hand wire wrapped with genuine copper for strength and texture. Showcasing vibrant rainbow colors in a unique mosaic pattern, each piece is one-of-a-kind. The Tree of Life design symbolizes wisdom, love, and protection, making it a meaningful accessory. Lightweight and elegant, it adds a natural touch to any outfit while promoting feelings of peace and compassion. Easy to care for, this pendant will brighten your jewelry collection with its ocean-inspired beauty.
+  Updated: 2025-10-11T01:12:18Z
   Vendor: Sunny Sea Glass Jewelry
   Product Type: Wire wrapped necklace
   Availability: Available
@@ -3511,8 +3754,8 @@
   - [22 / leather](https://sunnyseaglassjewelry.com/products/frameless-abalone-necklace-wire-wrapped-abalone-pendant-abalone-tree-of-life-necklace-leather-abalone-necklace-copper-paua-shell-jewelry?variant=42904376541265)
     Availability: Available
     Price: $39.95 USD
-- [White Sea Glass Sailboat Earrings in Sterling Silver, Ocean-Inspired Beach Glass Sailboat Necklace and Earring SET,  Nautical Beach Jewelry"](https://sunnyseaglassjewelry.com/products/white-sea-glass-sailboat-earrings-in-sterling-silver-ocean-inspired-beach-glass-sailboat-necklace-and-earring-set-nautical-beach-jewelry): Gorgeous shade of cultured Frosted Clear White sea glass !!! This is my one of the cultured Sea glass Sailboat Necklace & Earrings. The same soft finish as found in natural sea glass. These fun, colorful necklaces are carefully Wire Wrapped with .925 sterling silver wires on unique, freeform flat sea glass beads measures approximately 18 to 22 mm for the pendant. slight smaller size for the earrings. They are finished with sterling silver beads. ***All the findings are .925 sterling silver. Set sail with this delicate sailboat necklace, handcrafted with smooth frosted clear crystal white sea glass and .925 sterling silver. The soft white glass catches the light like sun on ocean waves, making it the perfect piece for ocean lovers, beach wanderers, and dreamers at heart. Each pendant & Earrings are shaped like a tiny sailboat, a gentle reminder of freedom, adventure, and calm seas. Whether you're reminiscing about your last beach day or gifting a meaningful piece to a loved one, this necklace brings a touch of the sea wherever you go. cultured sea glass: 18 to 22 mm Sterling silver findings & cable chain included with the pendant). Pendant size: approx: 1.5 x 3/4 inch Earring size: approx: 1.16 x 8/8 inch Chain: .925 sterling silver cable chain. ***Email me for any inquiries. Thank you for visiting my shop!
-  Updated: 2025-09-15T22:34:30Z
+- [White Sea Glass Sailboat Earrings in Sterling Silver, Ocean-Inspired Beach Glass Sailboat Necklace and Earring SET,  Nautical Beach Jewelry"](https://sunnyseaglassjewelry.com/products/white-sea-glass-sailboat-earrings-in-sterling-silver-ocean-inspired-beach-glass-sailboat-necklace-and-earring-set-nautical-beach-jewelry): Experience the beauty of the ocean with this stunning White Sea Glass Sailboat Necklace and Earring Set. Each piece features cultured frosted clear white sea glass, carefully wire-wrapped in .925 sterling silver for a soft, natural finish. The pendants, shaped like delicate sailboats, range from 18 to 22 mm and reflect light like sun dancing on the waves. Perfect for beach lovers and dreamers, this set symbolizes freedom, adventure, and tranquility. Finished with sterling silver beads and a matching cable chain, it’s a charming tribute to the sea, ideal for yourself or a special gift.
+  Updated: 2025-10-11T01:40:24Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -3727,13 +3970,6 @@
   - [22 inch](https://sunnyseaglassjewelry.com/products/mothers-day-gift-opal-necklace-aqua-blue-opal-necklace-wire-wrapped-opal-tree-of-life-necklace-october-birthstone-necklace-lab-created?variant=42904379818065)
     Availability: Available
     Price: $84.95 USD
-- [Opal Pendant, Fast READY Ship in 1 to 2 days, STERLING SILVER White Opal Necklace, October Birthstone Necklace, Opal Tree of Life Necklace](https://sunnyseaglassjewelry.com/products/opal-pendant-fast-ready-ship-in-1-to-2-days-sterling-silver-white-opal-necklace-october-birthstone-necklace-opal-tree-of-life-necklace): This gorgeous, light,& beautiful dazzling teardrop simulated/synthetic Opal is wire wrapped using .925 sterling silver. The pendant has been hammered & forged to give strength & texture to bring out the stunning details of the finished pendant. Our Synthetic Opal stands for quality. This synthetic white Opal displays beautiful array of iridescent colors. Opal-like Plastic is NOT the same material as our Impregnated Synthetic Opal. The finished pendant measures 1.80 inch(42mm) from top of the bail to the bottom of the pendant, 1 inch(25mm) across. The pendant comes on a 18 inch plus 2 inch extension 925 sterling silver cable chain. *Each pendant is handmade, so please allow slight variations from the shape of the branches and placement of the stones as shown. *Matching earrings available *ABOUT SIMULATED OPAL: “Opal" originates from the Latin word “Opalus” It is called opal the “Queen of Gems” because it encompasses the colors of all the other gems. Opal symbolizes hope and purity. It is a gift granted by the heaven in bolts of lightning and unfolds the “Nature’s fireworks” before one’s eyes. Simulated /Synthetic opal has similar properties as that of natural opal. This opal has a beautiful rainbow like prismatic effect which revealed the beauty of Precious Opal. **The Tree of Life is a universal symbol found in many spiritual traditions around the world. The tree of knowledge, connecting to heaven and the underworld, and the tree of life, connecting all forms of creation, are both forms of the world tree or cosmic tree. It's meaning represents life itself, wisdom, love, strength, protection, beauty, bounty and redemption. The tree is associated with the creator because it provides protection, supports abundant fruit production and thereby, regeneration. * It is shipped in a gift box. Thank you for visiting my shop. Please contact me if you have any questions.*Engraving service is not available.
-  Updated: 2025-10-10T21:12:52Z
-  Vendor: My Store
-  Product Type: Wire wrapped necklace
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/6cc95e0b-il_fullxfull.6082672356_f87e.jpg?v=1756001046
-  Price: $79.95 USD
 - [Sailboat Sea Glass Necklace, Periwinkle Sea Glass Pendant, Beach Wedding, Beach glass Necklace in Sterling Silver, Sea Glass Jewelry](https://sunnyseaglassjewelry.com/products/sailboat-sea-glass-necklace-periwinkle-sea-glass-pendant-beach-wedding-beach-glass-necklace-in-sterling-silver-sea-glass-jewelry): Gorgeous shade of Periwinkle !!! This is my cultured Sea glass Sailboat Necklace. The same soft finish as found in natural sea glass. These fun, colorful necklaces are carefully Wire Wrapped with .925 sterling silver wires on unique, freeform flat sea glass beads measures approximately 13 to 16 mm. They are finished with sterling silver beads. They comes on a .925 sterling silver cable chain. ***Email me for any inquiries. Thank you for visiting my shop!
   Updated: 2025-09-15T22:34:31Z
   Vendor: My Store
@@ -3758,8 +3994,8 @@
   - [19 / No.2 Aqua Blue](https://sunnyseaglassjewelry.com/products/sailboat-sea-glass-necklace-periwinkle-sea-glass-pendant-beach-wedding-beach-glass-necklace-in-sterling-silver-sea-glass-jewelry?variant=42904380407889)
     Availability: Available
     Price: $41.95 USD
-- [Crystal Anklet/Bracelet,Wedding/Bridal Crystal Anklet /Bracelet in Sterling Silver, Swarovski Crystal Bracelet, Bridesmaid Crystal Bracelet](https://sunnyseaglassjewelry.com/products/crystal-anklet-bracelet-wedding-bridal-crystal-anklet-bracelet-in-sterling-silver-swarovski-crystal-bracelet-bridesmaid-crystal-bracelet): Romantic & Beautiful Swarovski Crystal Clear AB bracelet! Lots of sparkles & shimmers ! *We created this beautiful sparkling anklet/bracelet to complement the necklace. This Anklet/bracelet is made with 4 mm faceted sparkling Swarovski crystal clear AB. It measures 6.5 inch plus 1 inch extender. Finished with a .925 sterling silver lobster clasp. *All the components are .925 sterling silver. *Normal size of the anklet &Bracelet average woman. Bracelet 7″–7 1/2″ 8″ Anklet 9″–9 1/2″ 10″–10 1/2″ *** WRIST SIZE: Please choose your actual "wrist size" in drop down menu. For the snug fit, add 1/4 inch to your actual size of your bracelet. *** Anklet Size: To determine the size you need measure with a non-stretchy string or tape measure below your ankle bone. If you held the measuring device snug, then add 7mm-14mm (1/4” – 1/2″), depending on how loose you want your anklet. Therefore, if your ankle measures 21.6cm (8½”), you will want an anklet size 22cm-23cm (8¾” – 9″). This beautiful Jewelry comes gift wrapped. Thank you for visiting my shop. Need more? Just email me
-  Updated: 2025-09-15T22:34:31Z
+- [Crystal Anklet/Bracelet,Wedding/Bridal Crystal Anklet /Bracelet in Sterling Silver, Swarovski Crystal Bracelet, Bridesmaid Crystal Bracelet](https://sunnyseaglassjewelry.com/products/crystal-anklet-bracelet-wedding-bridal-crystal-anklet-bracelet-in-sterling-silver-swarovski-crystal-bracelet-bridesmaid-crystal-bracelet): This sparkling Swarovski crystal anklet and bracelet set adds elegant shimmer to any look. Made with 4mm clear AB crystals and finished with sterling silver clasps, it offers a perfect fit with adjustable sizing. Ideal for weddings or bridesmaids, this delicate piece complements your style with timeless beauty. Gift wrapped and ready to shine on special occasions.
+  Updated: 2025-10-11T01:05:31Z
   Vendor: Sunny Sea Glass Jewelry
   Product Type: Wire Wrapped Bracelet/Anklet
   Availability: Available
@@ -3769,25 +4005,25 @@
     Price: $27.95 USD
   - [6](https://sunnyseaglassjewelry.com/products/crystal-anklet-bracelet-wedding-bridal-crystal-anklet-bracelet-in-sterling-silver-swarovski-crystal-bracelet-bridesmaid-crystal-bracelet?variant=42904380833873)
     Availability: Available
-    Price: $27.95 USD
+    Price: $28.50 USD
   - [6.5](https://sunnyseaglassjewelry.com/products/crystal-anklet-bracelet-wedding-bridal-crystal-anklet-bracelet-in-sterling-silver-swarovski-crystal-bracelet-bridesmaid-crystal-bracelet?variant=42904380866641)
     Availability: Available
-    Price: $27.95 USD
+    Price: $28.95 USD
   - [7](https://sunnyseaglassjewelry.com/products/crystal-anklet-bracelet-wedding-bridal-crystal-anklet-bracelet-in-sterling-silver-swarovski-crystal-bracelet-bridesmaid-crystal-bracelet?variant=42904380899409)
     Availability: Available
-    Price: $27.95 USD
+    Price: $29.50 USD
   - [7.5](https://sunnyseaglassjewelry.com/products/crystal-anklet-bracelet-wedding-bridal-crystal-anklet-bracelet-in-sterling-silver-swarovski-crystal-bracelet-bridesmaid-crystal-bracelet?variant=42904380932177)
     Availability: Available
-    Price: $27.95 USD
+    Price: $29.95 USD
   - [8](https://sunnyseaglassjewelry.com/products/crystal-anklet-bracelet-wedding-bridal-crystal-anklet-bracelet-in-sterling-silver-swarovski-crystal-bracelet-bridesmaid-crystal-bracelet?variant=42904380964945)
     Availability: Available
-    Price: $27.95 USD
+    Price: $30.50 USD
   - [8.5](https://sunnyseaglassjewelry.com/products/crystal-anklet-bracelet-wedding-bridal-crystal-anklet-bracelet-in-sterling-silver-swarovski-crystal-bracelet-bridesmaid-crystal-bracelet?variant=42904380997713)
     Availability: Available
-    Price: $27.95 USD
+    Price: $30.95 USD
   - [9.0](https://sunnyseaglassjewelry.com/products/crystal-anklet-bracelet-wedding-bridal-crystal-anklet-bracelet-in-sterling-silver-swarovski-crystal-bracelet-bridesmaid-crystal-bracelet?variant=42904381030481)
     Availability: Available
-    Price: $27.95 USD
+    Price: $31.50 USD
 - [Turquoise Carnelian Earrings in Copper, Wire Wrapped Howlite Turquoise  Dangle Earrings,   Rustic Jewelry, Handmade Jewelry, Gifts for Women](https://sunnyseaglassjewelry.com/products/turquoise-carnelian-earrings-in-copper-wire-wrapped-howlite-turquoise-dangle-earrings-rustic-jewelry-handmade-jewelry-gifts-for-women): Elevate your style with our Wire Wrapped Turquoise Earrings! These stunning dangle earrings feature 12mm blue howlite turquoise& Carnelian gemstones wrapped in warm antiqued copper & natural copper wires. Perfect for casual or special occasions. They hang slightly over 1 inch from copper french earwires. You'll love wearing these versatile and captivating earrings! *Choose earrings from either Antiqued copper or Natural copper wires. Thank you for visiting my shop. Any questions, please email me
   Updated: 2025-09-15T22:34:31Z
   Vendor: Sunny Sea Glass Jewelry
@@ -3800,22 +4036,22 @@
   - [Natural Copper wire](https://sunnyseaglassjewelry.com/products/turquoise-carnelian-earrings-in-copper-wire-wrapped-howlite-turquoise-dangle-earrings-rustic-jewelry-handmade-jewelry-gifts-for-women?variant=42904380473425)
     Availability: Available
     Price: $21.95 USD
-- [Ready Ship in 1 to 2 days, Aqua Blue  Opal Necklace, Lab Created Opal Tree of Life Jewelry,  October Birthstone Jewelry,](https://sunnyseaglassjewelry.com/products/ready-ship-in-1-to-2-days-aqua-blue-opal-necklace-lab-created-opal-tree-of-life-jewelry-october-birthstone-jewelry): This Amazing, gorgeous, light aqua blue beautiful dazzling teardrop simulated/synthetic Opal is wire wrapped with .925 sterling silver wires. The pendant has been hammered & forged to give strength & texture to bring out the stunning details of the finished pendant. Our Synthetic Opal stands for quality. This synthetic bright blue Opal displays beautiful array of iridescent colors. Opal-like Plastic is NOT the same material as our Impregnated Synthetic Opal. The finished pendant measures 1.80 inch from top of the bail to the bottom of the pendant, 1 inch across. The pendant comes on a .925 sterling silver cable chain. *Each pendant is handmade, so please allow slight variations from the shape of the branches as shown. *ABOUT SIMULATED OPAL: “Opal" originates from the Latin word “Opalus” It is called opal the “Queen of Gems” because it encompasses the colors of all the other gems. Opal symbolizes hope and purity. It is a gift granted by the heaven in bolts of lightning and unfolds the “Nature’s fireworks” before one’s eyes. Simulated /Synthetic opal has similar properties as that of natural opal. This opal has a beautiful rainbow like prismatic effect which revealed the beauty of Precious Opal. The Tree of Life is a universal symbol found in many spiritual traditions around the world. The tree of knowledge, connecting to heaven and the underworld, and the tree of life, connecting all forms of creation, are both forms of the world tree or cosmic tree. It's meaning represents life itself, wisdom, love, strength, protection, beauty, bounty and redemption. The tree is associated with the creator because it provides protection, supports abundant fruit production and thereby, regeneration. * It is shipped in a gift box. Thank you for visiting my shop. Please contact me if you have any questions.*Engraving service is not available.
-  Updated: 2025-09-15T22:34:31Z
+- [Ready Ship in 1 to 2 days, Aqua Blue  Opal Necklace, Lab Created Opal Tree of Life Jewelry,  October Birthstone Jewelry,](https://sunnyseaglassjewelry.com/products/ready-ship-in-1-to-2-days-aqua-blue-opal-necklace-lab-created-opal-tree-of-life-jewelry-october-birthstone-jewelry): This stunning aqua blue lab-created opal necklace features a dazzling teardrop pendant wire-wrapped in sterling silver. The Tree of Life design symbolizes wisdom, strength, and connection, making it a meaningful gift. Handmade with care, the synthetic opal shows beautiful rainbow colors similar to natural opals. The pendant comes on a sterling silver chain and is ready to ship in 1 to 2 days in a gift box. Celebrate October’s birthstone with this eye-catching and symbolic piece.
+  Updated: 2025-10-11T01:01:11Z
   Vendor: Sunny Sea Glass Jewelry
   Product Type: Wire wrapped necklace
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/1b81caf4-il_fullxfull.5009735904_g2nf.jpg?v=1756001049
   Price: $79.95 USD
-- [Sterling Silver Kyanite Earirngs, Wire Wrapped kyanite Earrings, Kyanite Healing Earrings,  Raw kyanite Jewelry, Blue Kyanite Earrings](https://sunnyseaglassjewelry.com/products/sterling-silver-kyanite-earirngs-wire-wrapped-kyanite-earrings-kyanite-healing-earrings-raw-kyanite-jewelry-blue-kyanite-earrings): ***Kyanite is a stone of connection, healing, clear thinking, and psychic ability. It's a chakra healing stone used to align the chakras and bring the harmony & balance. * You will receive these Sterling Silver Earrings. This beautiful wire wrapped Blue Kyanite pair of earrings in 0.925 sterling silver wires. Please allow slight variations from the shape of the branches and placement of the stones as shown. Thank you very much for visiting my shop. Please contact me if you have any questions. ****Those last two images are guide to help to visualize what necklace length looks like in women (average women's neck as well as in men). it’s best to first measure the circumference of your neck. Evaluate the length where you want your pendant or else to be at by using thread or string, then measure the string to the measuring tape to get an accurate measurement.
-  Updated: 2025-09-15T22:34:32Z
+- [Sterling Silver Kyanite Earirngs, Wire Wrapped kyanite Earrings, Kyanite Healing Earrings,  Raw kyanite Jewelry, Blue Kyanite Earrings](https://sunnyseaglassjewelry.com/products/sterling-silver-kyanite-earirngs-wire-wrapped-kyanite-earrings-kyanite-healing-earrings-raw-kyanite-jewelry-blue-kyanite-earrings): Experience the calming energy of blue kyanite with these sterling silver wire-wrapped earrings. Crafted with 0.925 sterling silver, each pair features unique raw kyanite stones known for promoting healing and mental clarity. Perfect for balancing your chakras, these elegant earrings add a touch of natural beauty and wellness to your look. Slight variations in stone shape make each pair one of a kind. Embrace both style and positive energy with these handcrafted kyanite earrings.
+  Updated: 2025-10-11T00:58:32Z
   Vendor: Sunny Sea Glass Jewelry
   Product Type: Wire wrapped necklace
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/c931cab4-il_fullxfull.5196459983_phd3.jpg?v=1756001050
   Price: $59.95 USD
 - [Jade Earrings in Gold, Wire Wrapped Lime green color Jade Earrings,Wire Wrapped dangle  Earrings  Wire wrapped Jade Earrings,](https://sunnyseaglassjewelry.com/products/jade-earrings-in-gold-wire-wrapped-lime-green-color-jade-earrings-wire-wrapped-dangle-earrings-wire-wrapped-jade-earrings): These fabulous earrings are hand wrapped intricately using tarnish resistant gold craft wires. Each beads measures 10mm faceted Lime green color jade. These are great earrings to wear anytime you want a look for casual or special occasions. They dangle freely about 5/8 inch from the bottom of the gold finished french earwires. They are sure to become your favorite pair. -All elements of these earrings are lead- & nickel-free. Thank you for visiting my shop. Hope you find something that you like..... Any questions, please email me Need more? Let me know
-  Updated: 2025-09-15T22:34:32Z
+  Updated: 2025-10-11T00:57:33Z
   Vendor: Sunny Sea Glass Jewelry
   Product Type: Wire Wrapped Earrings
   Availability: Available
@@ -3828,9 +4064,9 @@
     Price: $20.95 USD
   - [Sterling silver](https://sunnyseaglassjewelry.com/products/jade-earrings-in-gold-wire-wrapped-lime-green-color-jade-earrings-wire-wrapped-dangle-earrings-wire-wrapped-jade-earrings?variant=42904380768337)
     Availability: Available
-    Price: $20.95 USD
+    Price: $24.95 USD
 - [Peridot Tree of Life Necklace, August Birthtone Tree of Life Necklace,Wire Wrapped Tree of life Necklace,Tree of life necklace gifts for mom](https://sunnyseaglassjewelry.com/products/peridot-tree-of-life-necklace-august-birthtone-tree-of-life-necklace-wire-wrapped-tree-of-life-necklace-tree-of-life-necklace-gifts-for-mom): This stunning Tree of Life pendant features genuine semi-transparent Peridot stones, expertly wire-wrapped with authentic copper wire in varied gauges. The copper is carefully antiqued to bring out a rich, warm patina that enhances the intricate design. Measuring approximately 1.4 to 1.5 inches in diameter, each pendant is handmade, ensuring a unique arrangement of branches and stones. Choose your preferred chain and consider pairing with matching earrings for a complete look. Symbolizing life, wisdom, and protection, this meaningful necklace makes an ideal gift for moms or anyone born in August.
-  Updated: 2025-09-28T07:32:44Z
+  Updated: 2025-10-11T00:56:10Z
   Vendor: My Store
   Product Type: Wire wrapped necklace
   Availability: Available
@@ -3935,14 +4171,14 @@
     Availability: Available
     Price: $18.95 USD
 - [Opal jewelry, Fast READY Ship in 1 to 2 days, STERLING SILVER White Opal Necklace, October Birthstone Necklace, Opal Tree of Life Necklace](https://sunnyseaglassjewelry.com/products/opal-jewelry-fast-ready-ship-in-1-to-2-days-sterling-silver-white-opal-necklace-october-birthstone-necklace-opal-tree-of-life-necklace-2): High quality lab created white opal necklace, hand wire wrapped with ‘925 sterling silver wire. It does come with sterling silver chain. Suggest for October birthstone gift. Indulge in the beauty of this handmade opal jewelry piece, featuring a high quality lab created opal necklace with a stunning tree of life wire wrap design. The sterling silver chain offers a secure 18 inch length with a 2 inch extension, making it perfect for everyday wear. Fast shipping in 1-2 days! Thank you visiting my shop.
-  Updated: 2025-09-15T22:34:32Z
+  Updated: 2025-10-11T00:52:12Z
   Vendor: Sunny Sea Glass Jewelry 
   Product Type: Wire wrapped necklace
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/il_1000x794.6082672356_f87e_928acf57-c337-496d-936c-1182ffe1ef3a.jpg?v=1756058690
-  Price: $79.15 USD
+  Price: $79.95 USD
 - [White Sea Glass Sailboat Earrings in Sterling Silver, Ocean-Inspired Beach Glass Sailboat Necklace and Earring SET](https://sunnyseaglassjewelry.com/products/white-sea-glass-sailboat-earrings-in-sterling-silver-ocean-inspired-beach-glass-sailboat-necklace-and-earring-set): Experience the elegance of cultured Frosted Clear White sea glass in this exquisite Sailboat Necklace and Earring set. Each piece features freeform sea glass beads, measuring approximately 18 to 22 mm for the pendant and slightly smaller for the earrings, artfully wire-wrapped in .925 sterling silver. The smooth, frosted surface mimics natural sea glass, catching light like sun reflecting on ocean waves. Shaped as delicate sailboats, these pieces symbolize freedom and adventure, ideal for ocean enthusiasts and dreamers. The pendant includes a sterling silver cable chain, completing this refined ocean-inspired ensemble.***Email me for any inquiries.Thank you for visiting my shop!
-  Updated: 2025-09-17T01:19:24Z
+  Updated: 2025-10-11T00:50:11Z
   Vendor: Sunny Sea Glass Jewelry 
   Product Type: Holiday Sea Glass Necklace
   Availability: Available
@@ -3953,8 +4189,8 @@
   - [Necklace](https://sunnyseaglassjewelry.com/products/white-sea-glass-sailboat-earrings-in-sterling-silver-ocean-inspired-beach-glass-sailboat-necklace-and-earring-set?variant=42908196438097)
     Availability: Available
     Price: $39.95 USD
-- [Handmade Macrame Sea Glass Bracelet, Hunter Green Sea Glass Bracelet, Adjustable Sea Glass Macrame Bracelets](https://sunnyseaglassjewelry.com/products/handmade-macrame-sea-glass-bracelet-hunter-green-sea-glass-bracelet-adjustable-sea-glass-macrame-bracelets): Petty & fun Sea Glass bracelet! A great gift for a friend who loves beaches & oceans.Fun & pretty summer beach bracelet!. This bracelet is made with a Natural sea glass, then we drilled each sides & continued with macrame adjustable style.This beautiful sea glass measures 20 x 15 mm.When the sliding tie is closed measures 6 inch and 8 inch when expended leaving 1 inch each end. Each end cord is finished with a .925 sterling silver beads.****About our macrame cord: S-Lon cord, also known as Super Lon, is a twisted nylon multi-filament cord used in jewelry making,b ead stringing, and micro-macrame. It's known for its strength, bulk, and ability to avoid stretching, making it suitable for knotting and detailed projects.S-Lon, when used as a beading thread, is water-resistant, not waterproof. While it's made of nylon and can withstand moisture, it will eventually absorb water if submerged. The manufacturer, The Beadsmith.***Email me for any inquiries.***Thank you for visiting my shop!
-  Updated: 2025-09-15T22:34:32Z
+- [Handmade Macrame Sea Glass Bracelet, Hunter Green Sea Glass Bracelet, Adjustable Sea Glass Macrame Bracelets](https://sunnyseaglassjewelry.com/products/handmade-macrame-sea-glass-bracelet-hunter-green-sea-glass-bracelet-adjustable-sea-glass-macrame-bracelets): Petty & fun Sea Glass bracelet! A great gift for a friend who loves beaches & oceans.Fun & pretty summer beach bracelet!. This bracelet is made with a Natural sea glass, then we drilled each sides & continued with macrame adjustable style.This beautiful sea glass measures 20 x 15 mm.When the sliding tie is closed measures 6 inch and 8 inch when expended leaving 1 inch each end. Each end cord is finished with a .925 sterling silver beads.****About our macrame cord: S-Lon cord, also known as Super Lon, is a twisted nylon multi-filament cord used in jewelry making,bead stringing, and micro-macrame. It's known for its strength, bulk, and ability to avoid stretching, making it suitable for knotting and detailed projects.S-Lon, when used as a beading thread, is water-resistant, not waterproof. While it's made of nylon and can withstand moisture, it will eventually absorb water if submerged. The manufacturer, The Beadsmith.***Email me for any inquiries.***Thank you for visiting my shop!
+  Updated: 2025-10-11T00:47:45Z
   Vendor: Sunny Sea Glass Jewelry 
   Product Type: Sea Glass Bracelet
   Availability: Available
@@ -3968,29 +4204,8 @@
   - [No.3](https://sunnyseaglassjewelry.com/products/handmade-macrame-sea-glass-bracelet-hunter-green-sea-glass-bracelet-adjustable-sea-glass-macrame-bracelets?variant=42908138242129)
     Availability: Available
     Price: $20.00 USD
-- [Sunny Sea Glass Jewelry Gift Card](https://sunnyseaglassjewelry.com/products/sunny-sea-glass-jewelry-gift-card)
-  Updated: 2025-09-15T22:34:33Z
-  Vendor: Sunny Sea Glass Jewelry 
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/il_1000x794.6820781391_4014_ce0e269a-4ab2-4506-a065-32a865657b18.jpg?v=1758027529
-  - [$10.00](https://sunnyseaglassjewelry.com/products/sunny-sea-glass-jewelry-gift-card?variant=58165305540689)
-    Availability: Available
-    Price: $10.00 USD
-  - [$25.00](https://sunnyseaglassjewelry.com/products/sunny-sea-glass-jewelry-gift-card?variant=58165305573457)
-    Availability: Available
-    Price: $25.00 USD
-  - [$50.00](https://sunnyseaglassjewelry.com/products/sunny-sea-glass-jewelry-gift-card?variant=58165305606225)
-    Availability: Available
-    Price: $50.00 USD
-  - [$100.00](https://sunnyseaglassjewelry.com/products/sunny-sea-glass-jewelry-gift-card?variant=58165305638993)
-    Availability: Available
-    Price: $100.00 USD
-  - [$40.00](https://sunnyseaglassjewelry.com/products/sunny-sea-glass-jewelry-gift-card?variant=58165306097745)
-    Availability: Available
-    Price: $10.00 USD
-- [Abalone macrame bracelet](https://sunnyseaglassjewelry.com/products/abalone-macrame-bracelet): This bracelet features a hand wire-wrapped 14 mm abalone shell set on a sterling silver lavender macrame made from durable Korean polyester cord. Water-resistant and perfect for surfers, it’s ideal summer jewelry that you can wear throughout the year. Measuring 5.5 inches when closed, it expands up to 10 inches with an adjustable sliding knot for a comfortable fit.
-  Updated: 2025-09-15T22:34:33Z
+- [Abalone macrame bracelet, Abalone Bracelet,](https://sunnyseaglassjewelry.com/products/abalone-macrame-bracelet): This bracelet features a hand wire-wrapped 14 mm abalone shell set on a sterling silver lavender macrame made from durable Korean polyester cord. Water-resistant and perfect for surfers, it’s ideal summer jewelry that you can wear throughout the year. Measuring 5.5 inches when closed, it expands up to 10 inches with an adjustable sliding knot for a comfortable fit.
+  Updated: 2025-10-11T00:41:19Z
   Vendor: Sunny Sea Glass Jewelry 
   Product Type: Wire Wrapped Bracelet/Anklet
   Availability: Available
@@ -4125,7 +4340,7 @@
     Availability: Not Available
     Price: $17.95 USD
 - [Autumn Dangle Earrings, Fall Accessory Maple Leaf Jewelry, Wire Wrapped Autumn Earrings,  Pumpkin Charm Thanksgiving Accessories,](https://sunnyseaglassjewelry.com/products/pumpkin): These beautiful autumn dangle earrings feature vibrant transparent clear & orange Red Czech glass leaf beads dangling down with adorable 8 mm pumpkin orange beads. Perfect fall accessory for your Thanksgiving outfit. Each piece of handmade nature jewelry is carefully crafted with premium Czech glass beads and quality copper finished findings, offering a seasonal statement that celebrates the orange harvest colors of autumn.They dangle 1-1/2 inch from the antiqued copper finished french earwires. Lightweight design ensures comfortable all-day wear during holiday gatherings.Versatile fall accessory that pairs perfectly with casual and dressy Thanksgiving outfitsHandmade with attention to detail, making each pair a one-of-a-kind seasonal statement piece Thank for visiting my shop.
-  Updated: 2025-10-10T21:30:35Z
+  Updated: 2025-10-11T02:32:08Z
   Vendor: Sunny Sea Glass Jewelry 
   Product Type: Wire Wrapped Earrings
   Availability: Available
@@ -4138,38 +4353,41 @@
   Updated: 2025-09-15T22:34:06Z
   Total Products: 31
 - [Sea Glass Earrings](https://sunnyseaglassjewelry.com/collections/sea-glass-earrings)
-  Updated: 2025-10-10T21:11:24Z
+  Updated: 2025-10-11T01:45:38Z
   Total Products: 57
 - [Sea Glass Bracelets/Anklets](https://sunnyseaglassjewelry.com/collections/sea-glass-bracelets-anklets)
-  Updated: 2025-10-10T21:11:55Z
-  Total Products: 9
+  Updated: 2025-10-11T01:35:14Z
+  Total Products: 10
 - [Wire Wrapped Earrings](https://sunnyseaglassjewelry.com/collections/sea-glass-jewlry)
-  Updated: 2025-10-10T20:51:48Z
-  Total Products: 21
+  Updated: 2025-10-11T01:30:00Z
+  Total Products: 27
 - [Wire Wrapped Necklace](https://sunnyseaglassjewelry.com/collections/wire-wrapped-necklace): Wire Wrapped Opal Necklace, sterling silver with chain, swirl design
-  Updated: 2025-10-10T21:01:53Z
-  Total Products: 29
+  Updated: 2025-10-11T01:32:56Z
+  Total Products: 31
 - [Pumpkin Earrings, Wire Wrapped Earrings](https://sunnyseaglassjewelry.com/collections/wire-wrapped-bracelet)
   Updated: 2025-10-10T21:31:02Z
   Total Products: 7
 - [All Others](https://sunnyseaglassjewelry.com/collections/all-others)
-  Updated: 2025-10-10T20:25:08Z
-  Total Products: 6
-- [New Arrivals](https://sunnyseaglassjewelry.com/collections/new-arrivals)
-  Updated: 2025-10-10T20:59:27Z
-  Total Products: 10
-- [Best Sellers](https://sunnyseaglassjewelry.com/collections/best-sellers)
-  Updated: 2025-10-10T20:25:42Z
-  Total Products: 1
-- [On Sale](https://sunnyseaglassjewelry.com/collections/on-sale)
-  Updated: 2025-10-10T20:23:23Z
-  Total Products: 1
-- [Wire Wrapped Bracelets](https://sunnyseaglassjewelry.com/collections/wire-wrapped-bracelet-1)
-  Updated: 2025-10-10T21:18:10Z
-  Total Products: 9
-- [HOLIDAY Jewelry](https://sunnyseaglassjewelry.com/collections/holiday-jewelry)
-  Updated: 2025-10-10T21:18:10Z
+  Updated: 2025-10-11T01:06:42Z
   Total Products: 5
+- [New Arrivals](https://sunnyseaglassjewelry.com/collections/new-arrivals)
+  Updated: 2025-10-11T01:47:34Z
+  Total Products: 13
+- [Best Sellers](https://sunnyseaglassjewelry.com/collections/best-sellers)
+  Updated: 2025-10-11T00:52:46Z
+  Total Products: 0
+- [On Sale](https://sunnyseaglassjewelry.com/collections/on-sale)
+  Updated: 2025-10-11T00:59:50Z
+  Total Products: 0
+- [Wire Wrapped Bracelets](https://sunnyseaglassjewelry.com/collections/wire-wrapped-bracelet-1)
+  Updated: 2025-10-11T01:47:34Z
+  Total Products: 11
+- [HOLIDAY Jewelry](https://sunnyseaglassjewelry.com/collections/holiday-jewelry)
+  Updated: 2025-10-11T01:45:37Z
+  Total Products: 10
+- [Trending now](https://sunnyseaglassjewelry.com/collections/trending-now)
+  Updated: 2025-10-11T01:42:24Z
+  Total Products: 4
 
 ## Blogs
 
