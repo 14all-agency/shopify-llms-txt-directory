@@ -8,7 +8,7 @@
 - Timezone: Europe/London
 - Created At: 2021-01-17T01:03:23Z
 - Contact Email: contact@crystalshealing.co.uk
-- Updated At: 2025-10-11T00:00:34.173Z
+- Updated At: 2025-10-11T12:00:37.515Z
 
 # Crystals Healing — AI-Ready Index
 Welcome to Crystals Healing, your trusted UK-based store for healing crystals and jewelry. This llms.txt file lists all products, collections, blogs, and pages to help AI assistants, search engines, and shopping bots discover and understand our offerings.
@@ -4966,7 +4966,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
   Updated: 2025-10-01T15:01:00Z
   Total Products: 4
 - [Shop Crystals](https://crystalshealing.co.uk/collections/shop-crystals): Shop our full crystal collection: raw stones, figurines, wands & sacred tools. Ethically sourced and intuitively selected for healing, manifestation and spiritual practice.
-  Updated: 2025-10-01T15:01:00Z
+  Updated: 2025-10-11T11:19:02Z
   Total Products: 51
 - [Crystal Jewelry](https://crystalshealing.co.uk/collections/crystal-jewelry): Discover crystal jewelry crafted with purpose - for healing, intention and beauty. Explore ethically sourced bracelets, necklaces, rings & earrings made with stones like Amethyst, Rose Quartz and Citrine.
   Updated: 2025-10-01T15:01:00Z
@@ -4996,13 +4996,13 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
   Updated: 2025-10-01T15:01:01Z
   Total Products: 22
 - [Polished Tumblestone](https://crystalshealing.co.uk/collections/polished-tumblestone): Explore our ethically sourced tumbled stones - polished to perfection for easy use in rituals, crystal grids, carrying or gifting. Choose by intention, chakra or energy need.
-  Updated: 2025-10-01T15:01:01Z
+  Updated: 2025-10-11T04:27:09Z
   Total Products: 28
 - [Clear Quartz Crystals](https://crystalshealing.co.uk/collections/clear-quartz-crystals): Explore the amplifying power of Clear Quartz crystals — raw stones, tumbled pieces, jewelry & wands. Known as the “Master Healer,” Clear Quartz supports clarity, intention setting & energy alignment.
-  Updated: 2025-10-01T15:01:01Z
+  Updated: 2025-10-11T11:19:02Z
   Total Products: 9
 - [All Crystal Products](https://crystalshealing.co.uk/collections/all): Discover our full range of ethically sourced crystal products – from healing stones to handmade jewelry. Ideal for energy balancing, meditation, and mindful gifting.
-  Updated: 2025-10-01T15:01:01Z
+  Updated: 2025-10-11T11:19:02Z
   Total Products: 373
 - [Essential Oils](https://crystalshealing.co.uk/collections/essential-oils): Discover essential oils crafted for emotional healing, meditation and intention setting. From lavender and frankincense to energizing citrus blends — ethically sourced, pure and perfect for pairing with crystal rituals or self-care.
   Updated: 2025-10-01T15:01:01Z
@@ -5017,7 +5017,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
   Updated: 2025-10-01T15:01:01Z
   Total Products: 14
 - [New Arrivals](https://crystalshealing.co.uk/collections/new-arrivals): Discover our latest arrivals – ethically sourced crystals, handmade jewelry, and healing tools. Fresh designs added regularly to inspire your energy journey.
-  Updated: 2025-10-01T15:01:02Z
+  Updated: 2025-10-11T11:19:02Z
   Total Products: 372
 - [Sacred Imperfections](https://crystalshealing.co.uk/collections/sacred-imperfections): Crystals with small flaws and big energy. Sacred Imperfections offer healing, meaning, and sustainability – at a better price.
   Updated: 2025-10-01T15:01:02Z
@@ -5254,7 +5254,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
     Author: Crystal Healing UK – Ethical Energy Jewelry
     Tags: benefits of moonstone, crystal meanings, crystals, crystals for manifesting abundance, harnessing moonstone energy, healing, how to program crystals, manifestation stones, moonstone, moonstone meaning, moonstone properties
   - [How to Program Your First Crystal Intention Ritual (Step-by-Step Guide)](https://crystalshealing.co.uk/blogs/crystals-tips/how-to-program-your-first-crystal-intention-ritual): How to Program Your First Crystal Intention Ritual (Step-by-Step Guide)
-    Updated: 2025-10-10T05:49:59Z
+    Updated: 2025-10-11T04:09:24Z
     Author: Cristian Maxim
 
 ## Store Pages
@@ -5284,7 +5284,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
 - [Shipping Policy | Reliable Delivery for Crystal Orders](https://crystalshealing.co.uk/pages/shipping): 📦 Shipping & Returns Policy Welcome to Crystals Healing. This policy explains how we handle shipping, returns, and customer protection. By placing ...
   Updated: 2025-09-24T10:00:41Z
 - [Personalised Design Service for Crystal Bracelets & More](https://crystalshealing.co.uk/pages/personalised-design): At our store, we believe that everyone is unique and deserves to express their individuality. That's why we offer a **Personalised Design Service**...
-  Updated: 2025-09-24T10:00:41Z
+  Updated: 2025-10-11T05:16:06Z
 - [Delivery Costs & Shipping Info | Crystals Healing UK](https://crystalshealing.co.uk/pages/delivery-costs): /* Responsive tables */ .table-responsive { width: 100%; overflow-x: auto; -webkit-overflow-scrolling: touch; margin-bottom: 20px; } .shipping-guid...
   Updated: 2025-09-24T10:00:41Z
 - [Easy Returns | Hassle-Free Crystal Return Policy](https://crystalshealing.co.uk/pages/returns): Returns & Exchanges We want you to love your purchase. If you change your mind, you can return most items within 30 days of delivery. How to start ...
