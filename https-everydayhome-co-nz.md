@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-10-11T00:00:36.344Z
+- Updated At: 2025-10-11T08:00:36.668Z
 
 ## Products
 
@@ -942,7 +942,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Sticks-Multi-Hook-White-5.jpg?v=1727660345
   Price: $54.99 NZD
 - [Umbra Sticks 5 Hook - Grey](https://everydayhome.co.nz/products/sticks-multi-hook-grey): Sticks Multi Hook is a sculptural yet functional wall coat rack that will provide you with ample hanging space in virtually every area of your home, office or dorm room. The deceptive design of Sticks looks at first glance like a modern piece of art until it boasts its clever design with 5 flip-down hooks which can be flipped up when not in use, creating a clean, seamless profile.
-  Updated: 2025-10-08T16:07:12Z
+  Updated: 2025-10-11T07:22:11Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -1726,7 +1726,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Circulon-SteelShield-C-Series-26cm-7-6L-Covered-St-9.jpg?v=1731902452
   Price: $144.99 NZD
 - [Circulon Accessories Cleaning Brush W/Scraper Head](https://everydayhome.co.nz/products/circulon-accessories-cleaning-brush-w-scraper-head): This Circulon cleaning brush is a must-have item for every kitchen! With high quality stainless steel construction and special heat-resistant nylon bristles, this brush will thoroughly clean your pan and help prolong the life of your nonstick surfaces. The handle features an ergonomic curved design for a confident grip and a tapered edge scraping head for removing tough residue.
-  Updated: 2025-10-09T20:52:10Z
+  Updated: 2025-10-11T03:37:10Z
   Vendor: Circulon
   Product Type: Kitchenware
   Availability: Available
@@ -2699,7 +2699,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/IroningBoardD_135x45cm_HRPZ-SpringBubbles-8710755134784Brabantia_96dpi_1000x1000px_7_NR-19937.png?v=1733870829
   Price: $359.99 NZD
 - [Brabantia Lift-O-Matic Clothesline with Metal Ground Spike - 60m Metallic Grey](https://everydayhome.co.nz/products/lift-o-matic-4-arm-clothesline-60m-metal-soil-spear-cover-metallic-grey): Breeze through laundry days, let your rotary dryer do the work! Set the dryer seamlessly to your ideal working height (anywhere between 129 to 187 cm), and spin it around. This robust Brabantia rotary dryer is fitted with a whopping 60 metres of quality, UV-resistant non-slip washing lines that are always taut. It has an eye at the end of each arm for clothes hangers, and a sturdy hanging loop for easy storage. And it is planet friendly too. A true spirit lifter!
-  Updated: 2025-10-09T00:37:12Z
+  Updated: 2025-10-11T04:07:12Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -2818,7 +2818,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ReNewBatteryFreeBathroomScale-White-8710755281365Brabantia_96dpi_1000x1000px_7_NR-22066.png?v=1734407449
   Price: $119.95 NZD
 - [Brabantia Coffee Capsule Dispenser - Matt Steel](https://everydayhome.co.nz/products/coffee-capsule-dispenser-matt-steel-black): Keep your head clear and your coffee close with this Brabantia Coffee Capsule Dispenser. It happily holds up to 30 coffee capsules, and getting them in or out is easy. Made for organising your morning brew.
-  Updated: 2025-09-23T12:37:29Z
+  Updated: 2025-10-11T03:22:08Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -2860,7 +2860,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Tasty_DigitalKitchenScales-DarkGrey-8710755122644Brabantia_96dpi_1000x1000px_7_NR-15691.png?v=1733866488
   Price: $109.95 NZD
 - [Brabantia Kitchen Utensils Set Nonstick - Matt Steel](https://everydayhome.co.nz/products/kitchen-utensil-set-n-stick-c): No more sticky situations in your kitchen with this Profile Non-Stick Kitchen Utensils Set. This top-team consists of a Soup Ladle, Vegetable Spoon, Spatula and Skimmer. All with durable stainless steel grips and nylon non-stick tops. For cooking with confidence.
-  Updated: 2025-10-09T23:37:11Z
+  Updated: 2025-10-11T04:07:11Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -4196,7 +4196,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ReNewDigitalBathroomScales-White-8710755280146Brabantia_300dpi_2000x2000px_9_NR-20014.jpg?v=1756437715
   Price: $84.95 NZD
 - [Brabantia Roll Top Bread Bin Regular - White](https://everydayhome.co.nz/products/brabantia-roll-top-bread-bin-regular-white): Keep your bread handy and fresher for longer in Brabantia's Roll Top Bread Bin. This beauty of a bread bin can hold up to two loaves, or anything else you want it to, and has a large grip for easy opening. It's space efficient too: the lid disappears inside the bin, and you can put your canisters on the partially flat top. A practical and stylish addition to your kitchen!
-  Updated: 2025-09-23T12:39:03Z
+  Updated: 2025-10-11T05:22:10Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -4777,7 +4777,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1022482-158_FLUTEPICTUREFRAME_8X10_CHROME_CC01.jpg?v=1755730968
   Price: $79.99 NZD
 - [Umbra Bellwood Picture Frame - 8x10 Black](https://everydayhome.co.nz/products/umbra-bellwood-picture-frame-8x10-black): Introducing the Bellwood Picture Frame – the perfect solution to add a bit of natural charm to any living space. This versatile, double-sided frame is made using sustainable beechwood, making it a modern and eco-conscious choice. It has adjustable orientation options so that you can display your pictures either in portrait or landscape mode.
-  Updated: 2025-10-02T03:38:51Z
+  Updated: 2025-10-11T01:07:07Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
