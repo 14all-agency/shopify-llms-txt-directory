@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-09-03T22:17:37Z
 - Contact Email: INFO.REBIRTH1@GMAIL.COM
-- Updated At: 2025-10-09T20:00:30.316Z
+- Updated At: 2025-10-11T16:00:28.822Z
 
 ## Products
 
@@ -1274,122 +1274,122 @@
     Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/36789bcc-e993-4208-bed0-8c6525f43115.jpg?v=1758295210
     Price: $81.41 USD
 - [Wednesday Mood Pullover Hoodie](https://rebirthshoponline.myshopify.com/products/wednesday-mood-pullover-hoodie): A heavy blend hoodie. Crafted from a soft blend of 50% cotton and 50% polyester. Features a double-lined hood with matching drawstring. The fabric's air jet yarn offers a softer feel and reduces pilling. Includes a front pouch pocket, and rib knit cuffs and waistband with spandex. Size guide S M L XL 2XL 3XL 4XL 5XL A) Length (cm) 68.6 71.1 73.7 76.2 78.7 81.3 84 86 B) Width (cm) 101.6 111.8 122 132 142.2 152.4 162 172 B) Half Chest (cm) 50.8 55.9 61 66 71.1 76.2 81 86 C) Sleeve Length (cm) 85.1 87.6 90.2 92.7 95.3 97.8 100 103 S M L XL 2XL 3XL 4XL 5XL A) Length (inches) 27 28 29 30 31 32 33.1 33.9 B) Width (inches) 40 44 48 52 56 60 63.8 67.7 B) Half Chest (inches) 20 22 24 26 28 30 31.9 33.9 C) Sleeve Length (inches) 33.5 34.5 35.5 36.5 37.5 38.5 39.4 40.6 Care Instructions General The Gildan 18500 hoodie is known for its robust fabric blend, comfort, and versatility, making it a popular choice for bulk orders and custom designs. Wash Machine wash with cold water is recommended to maintain the integrity of the fabric. Dry Tumble dry on medium setting. Store This hoodie is widely available online through various retailers, offering ease of purchase.
-  Updated: 2025-10-09T01:43:22Z
+  Updated: 2025-10-11T04:42:11Z
   Vendor: ReBirth.
   Product Type: Print Material
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/d94666ad-4054-480b-84f9-565e34c72c71.jpg?v=1759930992
+  Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/bbb4b0a4-a704-458b-89c2-e1e8b800860d.jpg?v=1760114527
   - [Orange / S](https://rebirthshoponline.myshopify.com/products/wednesday-mood-pullover-hoodie?variant=47536300196091)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/74c5acab-c2c1-4238-8ce5-af31d836f05b.jpg?v=1759930992
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/884b4aad-d536-426e-b46c-3f8b43b9e034.jpg?v=1760114528
     Price: $38.97 USD
   - [Orange / M](https://rebirthshoponline.myshopify.com/products/wednesday-mood-pullover-hoodie?variant=47536300228859)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/74c5acab-c2c1-4238-8ce5-af31d836f05b.jpg?v=1759930992
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/884b4aad-d536-426e-b46c-3f8b43b9e034.jpg?v=1760114528
     Price: $38.97 USD
   - [Orange / L](https://rebirthshoponline.myshopify.com/products/wednesday-mood-pullover-hoodie?variant=47536300261627)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/74c5acab-c2c1-4238-8ce5-af31d836f05b.jpg?v=1759930992
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/884b4aad-d536-426e-b46c-3f8b43b9e034.jpg?v=1760114528
     Price: $38.97 USD
   - [Orange / XL](https://rebirthshoponline.myshopify.com/products/wednesday-mood-pullover-hoodie?variant=47536300294395)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/74c5acab-c2c1-4238-8ce5-af31d836f05b.jpg?v=1759930992
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/884b4aad-d536-426e-b46c-3f8b43b9e034.jpg?v=1760114528
     Price: $38.97 USD
   - [Orange / 2XL](https://rebirthshoponline.myshopify.com/products/wednesday-mood-pullover-hoodie?variant=47536300327163)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/74c5acab-c2c1-4238-8ce5-af31d836f05b.jpg?v=1759930992
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/884b4aad-d536-426e-b46c-3f8b43b9e034.jpg?v=1760114528
     Price: $42.88 USD
   - [Orange / 3XL](https://rebirthshoponline.myshopify.com/products/wednesday-mood-pullover-hoodie?variant=47536300359931)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/74c5acab-c2c1-4238-8ce5-af31d836f05b.jpg?v=1759930992
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/884b4aad-d536-426e-b46c-3f8b43b9e034.jpg?v=1760114528
     Price: $46.50 USD
   - [Maroon / S](https://rebirthshoponline.myshopify.com/products/wednesday-mood-pullover-hoodie?variant=47536300392699)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/9f20ef6b-8150-49a4-b7cd-09f0f4113c4d.jpg?v=1758296594
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/c4a31573-9f63-423c-9677-4d6ab6b90f43.jpg?v=1760114529
     Price: $38.58 USD
   - [Maroon / M](https://rebirthshoponline.myshopify.com/products/wednesday-mood-pullover-hoodie?variant=47536300425467)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/9f20ef6b-8150-49a4-b7cd-09f0f4113c4d.jpg?v=1758296594
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/c4a31573-9f63-423c-9677-4d6ab6b90f43.jpg?v=1760114529
     Price: $38.58 USD
   - [Maroon / L](https://rebirthshoponline.myshopify.com/products/wednesday-mood-pullover-hoodie?variant=47536300458235)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/9f20ef6b-8150-49a4-b7cd-09f0f4113c4d.jpg?v=1758296594
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/c4a31573-9f63-423c-9677-4d6ab6b90f43.jpg?v=1760114529
     Price: $38.58 USD
   - [Maroon / XL](https://rebirthshoponline.myshopify.com/products/wednesday-mood-pullover-hoodie?variant=47536300491003)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/9f20ef6b-8150-49a4-b7cd-09f0f4113c4d.jpg?v=1758296594
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/c4a31573-9f63-423c-9677-4d6ab6b90f43.jpg?v=1760114529
     Price: $38.58 USD
   - [Maroon / 2XL](https://rebirthshoponline.myshopify.com/products/wednesday-mood-pullover-hoodie?variant=47536300523771)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/9f20ef6b-8150-49a4-b7cd-09f0f4113c4d.jpg?v=1758296594
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/c4a31573-9f63-423c-9677-4d6ab6b90f43.jpg?v=1760114529
     Price: $42.46 USD
   - [Maroon / 3XL](https://rebirthshoponline.myshopify.com/products/wednesday-mood-pullover-hoodie?variant=47536300556539)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/9f20ef6b-8150-49a4-b7cd-09f0f4113c4d.jpg?v=1758296594
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/c4a31573-9f63-423c-9677-4d6ab6b90f43.jpg?v=1760114529
     Price: $46.04 USD
   - [Maroon / 4XL](https://rebirthshoponline.myshopify.com/products/wednesday-mood-pullover-hoodie?variant=47536300589307)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/9f20ef6b-8150-49a4-b7cd-09f0f4113c4d.jpg?v=1758296594
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/c4a31573-9f63-423c-9677-4d6ab6b90f43.jpg?v=1760114529
     Price: $56.82 USD
   - [Maroon / 5XL](https://rebirthshoponline.myshopify.com/products/wednesday-mood-pullover-hoodie?variant=47536300622075)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/9f20ef6b-8150-49a4-b7cd-09f0f4113c4d.jpg?v=1758296594
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/c4a31573-9f63-423c-9677-4d6ab6b90f43.jpg?v=1760114529
     Price: $60.94 USD
   - [Purple / S](https://rebirthshoponline.myshopify.com/products/wednesday-mood-pullover-hoodie?variant=47536300654843)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/a649da50-248e-4d17-a96e-721a84f5a141.jpg?v=1758296596
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/8b8436e3-87e8-486d-aa3f-a53fe544ab17.jpg?v=1760114530
     Price: $44.58 USD
   - [Purple / M](https://rebirthshoponline.myshopify.com/products/wednesday-mood-pullover-hoodie?variant=47536300687611)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/a649da50-248e-4d17-a96e-721a84f5a141.jpg?v=1758296596
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/8b8436e3-87e8-486d-aa3f-a53fe544ab17.jpg?v=1760114530
     Price: $44.58 USD
   - [Purple / L](https://rebirthshoponline.myshopify.com/products/wednesday-mood-pullover-hoodie?variant=47536300720379)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/a649da50-248e-4d17-a96e-721a84f5a141.jpg?v=1758296596
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/8b8436e3-87e8-486d-aa3f-a53fe544ab17.jpg?v=1760114530
     Price: $44.58 USD
   - [Purple / XL](https://rebirthshoponline.myshopify.com/products/wednesday-mood-pullover-hoodie?variant=47536300753147)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/a649da50-248e-4d17-a96e-721a84f5a141.jpg?v=1758296596
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/8b8436e3-87e8-486d-aa3f-a53fe544ab17.jpg?v=1760114530
     Price: $44.58 USD
   - [Purple / 2XL](https://rebirthshoponline.myshopify.com/products/wednesday-mood-pullover-hoodie?variant=47536300785915)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/a649da50-248e-4d17-a96e-721a84f5a141.jpg?v=1758296596
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/8b8436e3-87e8-486d-aa3f-a53fe544ab17.jpg?v=1760114530
     Price: $49.08 USD
   - [Purple / 3XL](https://rebirthshoponline.myshopify.com/products/wednesday-mood-pullover-hoodie?variant=47536300818683)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/a649da50-248e-4d17-a96e-721a84f5a141.jpg?v=1758296596
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/8b8436e3-87e8-486d-aa3f-a53fe544ab17.jpg?v=1760114530
     Price: $53.25 USD
   - [Purple / 4XL](https://rebirthshoponline.myshopify.com/products/wednesday-mood-pullover-hoodie?variant=47536300851451)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/a649da50-248e-4d17-a96e-721a84f5a141.jpg?v=1758296596
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/8b8436e3-87e8-486d-aa3f-a53fe544ab17.jpg?v=1760114530
     Price: $57.40 USD
   - [Purple / 5XL](https://rebirthshoponline.myshopify.com/products/wednesday-mood-pullover-hoodie?variant=47536300884219)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/a649da50-248e-4d17-a96e-721a84f5a141.jpg?v=1758296596
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/8b8436e3-87e8-486d-aa3f-a53fe544ab17.jpg?v=1760114530
     Price: $61.55 USD
   - [Dark Chocolate / S](https://rebirthshoponline.myshopify.com/products/wednesday-mood-pullover-hoodie?variant=47536300916987)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/d94666ad-4054-480b-84f9-565e34c72c71.jpg?v=1759930992
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/bbb4b0a4-a704-458b-89c2-e1e8b800860d.jpg?v=1760114527
     Price: $38.97 USD
   - [Dark Chocolate / M](https://rebirthshoponline.myshopify.com/products/wednesday-mood-pullover-hoodie?variant=47536300949755)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/d94666ad-4054-480b-84f9-565e34c72c71.jpg?v=1759930992
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/bbb4b0a4-a704-458b-89c2-e1e8b800860d.jpg?v=1760114527
     Price: $38.97 USD
   - [Dark Chocolate / L](https://rebirthshoponline.myshopify.com/products/wednesday-mood-pullover-hoodie?variant=47536300982523)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/d94666ad-4054-480b-84f9-565e34c72c71.jpg?v=1759930992
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/bbb4b0a4-a704-458b-89c2-e1e8b800860d.jpg?v=1760114527
     Price: $38.97 USD
   - [Dark Chocolate / XL](https://rebirthshoponline.myshopify.com/products/wednesday-mood-pullover-hoodie?variant=47536301015291)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/d94666ad-4054-480b-84f9-565e34c72c71.jpg?v=1759930992
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/bbb4b0a4-a704-458b-89c2-e1e8b800860d.jpg?v=1760114527
     Price: $38.97 USD
   - [Dark Chocolate / 2XL](https://rebirthshoponline.myshopify.com/products/wednesday-mood-pullover-hoodie?variant=47536301048059)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/d94666ad-4054-480b-84f9-565e34c72c71.jpg?v=1759930992
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/bbb4b0a4-a704-458b-89c2-e1e8b800860d.jpg?v=1760114527
     Price: $42.88 USD
   - [Dark Chocolate / 3XL](https://rebirthshoponline.myshopify.com/products/wednesday-mood-pullover-hoodie?variant=47536301080827)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/d94666ad-4054-480b-84f9-565e34c72c71.jpg?v=1759930992
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/bbb4b0a4-a704-458b-89c2-e1e8b800860d.jpg?v=1760114527
     Price: $46.50 USD
 - [Just Breathe Cuffed Beanie](https://rebirthshoponline.myshopify.com/products/just-breathe-cuffed-beanie-1): Step into warmth and style with the Flexfit Classic Cuffed Beanie. Made primarily from hypoallergenic acrylic, this beanie ensures both comfort and durability. Its super dense knit design is perfect for embroidery, making it a versatile accessory for personalization. Whether you're braving the cold or looking to add a stylish touch to your outfit, this beanie has got you covered. Care Instructions - Beanie - Flexfit 1501KC General To maintain its shape and color, avoid prolonged exposure to direct sunlight. Wash Hand wash gently in cold water with mild detergent. Dry Lay it flat to dry; avoid using a dryer. Care instructions Keep it in a cool, dry place away from sunlight.
   Updated: 2025-09-28T07:11:19Z
@@ -1528,179 +1528,179 @@
     Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/6c99dfcf-6599-4538-8b30-232367463adb.webp?v=1759008219
     Price: $50.00 USD
 - [Artistic Pullover Hoodie |](https://rebirthshoponline.myshopify.com/products/artistic-pullover-hoodie): Experience ultimate comfort and style with our unisex sponge fleece pullover hoodie. The front of the hoodie features a spacious pouch-style pocket that adds both functionality and visual appeal. The hood can be easily adjusted using the white draw cord for a personalized fit. To ensure a secure and snug feel, both the cuffs and waistband are designed with ribbing. Embrace this hoodie's cozy embrace and elevate your casual look with ease. Features: Adjustable hood with white drawstrings, spacious pockets, ribbed-knit cuffs and waistband, side seamed This product is made on demand. No minimums. Size guide S M L XL 2XL 3XL A) Length (cm) 67 69.9 72.7 75.6 78.4 81.3 B) Width (cm) 99 109.2 119.4 129.6 139.8 149.8 B) Half Chest (cm) 49.5 54.6 59.7 64.8 69.9 74.9 C) Sleeve Length (cm) 67.3 69.9 72.4 74.9 76.2 77.5 S M L XL 2XL 3XL A) Length (inches) 26.4 27.5 28.6 29.8 30.9 32 B) Width (inches) 39 43 47 51 55 59 B) Half Chest (inches) 19.5 21.5 23.5 25.5 27.5 29.5 C) Sleeve Length (inches) 26.5 27.5 28.5 29.5 30 30.5 Care instructions Wash Machine wash cold (max 30C or 90F) Bleach Only non-chlorine Tumble Dry Tumble dry: low heat Iron Do not iron Dry clean Do not dry clean
-  Updated: 2025-09-28T09:31:27Z
+  Updated: 2025-10-11T04:37:55Z
   Vendor: ReBirth.
   Product Type: Print Material
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/b4802acb-2cf6-4462-a0d8-553a0f8c5c5d.webp?v=1759008669
+  Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/a8d94ab8-8278-4d7f-86d7-95d9345f1a39.webp?v=1760114266
   - [White / S](https://rebirthshoponline.myshopify.com/products/artistic-pullover-hoodie?variant=47556240998651)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/b4802acb-2cf6-4462-a0d8-553a0f8c5c5d.webp?v=1759008669
-    Price: $75.04 USD
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/a8d94ab8-8278-4d7f-86d7-95d9345f1a39.webp?v=1760114266
+    Price: $60.00 USD
   - [White / M](https://rebirthshoponline.myshopify.com/products/artistic-pullover-hoodie?variant=47556241031419)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/b4802acb-2cf6-4462-a0d8-553a0f8c5c5d.webp?v=1759008669
-    Price: $75.04 USD
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/a8d94ab8-8278-4d7f-86d7-95d9345f1a39.webp?v=1760114266
+    Price: $60.00 USD
   - [White / L](https://rebirthshoponline.myshopify.com/products/artistic-pullover-hoodie?variant=47556241064187)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/b4802acb-2cf6-4462-a0d8-553a0f8c5c5d.webp?v=1759008669
-    Price: $75.04 USD
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/a8d94ab8-8278-4d7f-86d7-95d9345f1a39.webp?v=1760114266
+    Price: $60.00 USD
   - [White / XL](https://rebirthshoponline.myshopify.com/products/artistic-pullover-hoodie?variant=47556241096955)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/b4802acb-2cf6-4462-a0d8-553a0f8c5c5d.webp?v=1759008669
-    Price: $75.04 USD
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/a8d94ab8-8278-4d7f-86d7-95d9345f1a39.webp?v=1760114266
+    Price: $60.00 USD
   - [White / 2XL](https://rebirthshoponline.myshopify.com/products/artistic-pullover-hoodie?variant=47556241129723)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/b4802acb-2cf6-4462-a0d8-553a0f8c5c5d.webp?v=1759008669
-    Price: $79.50 USD
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/a8d94ab8-8278-4d7f-86d7-95d9345f1a39.webp?v=1760114266
+    Price: $60.00 USD
   - [White / 3XL](https://rebirthshoponline.myshopify.com/products/artistic-pullover-hoodie?variant=47556241162491)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/b4802acb-2cf6-4462-a0d8-553a0f8c5c5d.webp?v=1759008669
-    Price: $83.62 USD
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/a8d94ab8-8278-4d7f-86d7-95d9345f1a39.webp?v=1760114266
+    Price: $60.00 USD
   - [Heather Navy / S](https://rebirthshoponline.myshopify.com/products/artistic-pullover-hoodie?variant=47556241195259)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/e7bdf40d-06b1-4dc0-9803-1f34bc24cc9a.webp?v=1759008673
-    Price: $75.04 USD
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/028d7267-aa54-4a25-8054-3d4d2b7e1a0c.webp?v=1760114273
+    Price: $60.00 USD
   - [Heather Navy / M](https://rebirthshoponline.myshopify.com/products/artistic-pullover-hoodie?variant=47556241228027)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/e7bdf40d-06b1-4dc0-9803-1f34bc24cc9a.webp?v=1759008673
-    Price: $75.04 USD
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/028d7267-aa54-4a25-8054-3d4d2b7e1a0c.webp?v=1760114273
+    Price: $60.00 USD
   - [Heather Navy / L](https://rebirthshoponline.myshopify.com/products/artistic-pullover-hoodie?variant=47556241260795)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/e7bdf40d-06b1-4dc0-9803-1f34bc24cc9a.webp?v=1759008673
-    Price: $75.04 USD
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/028d7267-aa54-4a25-8054-3d4d2b7e1a0c.webp?v=1760114273
+    Price: $60.00 USD
   - [Heather Navy / XL](https://rebirthshoponline.myshopify.com/products/artistic-pullover-hoodie?variant=47556241293563)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/e7bdf40d-06b1-4dc0-9803-1f34bc24cc9a.webp?v=1759008673
-    Price: $75.04 USD
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/028d7267-aa54-4a25-8054-3d4d2b7e1a0c.webp?v=1760114273
+    Price: $60.00 USD
   - [Heather Navy / 2XL](https://rebirthshoponline.myshopify.com/products/artistic-pullover-hoodie?variant=47556241326331)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/e7bdf40d-06b1-4dc0-9803-1f34bc24cc9a.webp?v=1759008673
-    Price: $79.50 USD
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/028d7267-aa54-4a25-8054-3d4d2b7e1a0c.webp?v=1760114273
+    Price: $60.00 USD
   - [Heather Navy / 3XL](https://rebirthshoponline.myshopify.com/products/artistic-pullover-hoodie?variant=47556241359099)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/e7bdf40d-06b1-4dc0-9803-1f34bc24cc9a.webp?v=1759008673
-    Price: $83.62 USD
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/028d7267-aa54-4a25-8054-3d4d2b7e1a0c.webp?v=1760114273
+    Price: $60.00 USD
   - [Heather Forest / S](https://rebirthshoponline.myshopify.com/products/artistic-pullover-hoodie?variant=47556241391867)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/3ab41d86-50bb-45fd-a0ca-b808281b6e5d.webp?v=1759008671
-    Price: $75.04 USD
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/84158ef3-9dd5-40bc-920a-5110243df822.webp?v=1760114269
+    Price: $60.00 USD
   - [Heather Forest / M](https://rebirthshoponline.myshopify.com/products/artistic-pullover-hoodie?variant=47556241424635)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/3ab41d86-50bb-45fd-a0ca-b808281b6e5d.webp?v=1759008671
-    Price: $75.04 USD
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/84158ef3-9dd5-40bc-920a-5110243df822.webp?v=1760114269
+    Price: $60.00 USD
   - [Heather Forest / L](https://rebirthshoponline.myshopify.com/products/artistic-pullover-hoodie?variant=47556241457403)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/3ab41d86-50bb-45fd-a0ca-b808281b6e5d.webp?v=1759008671
-    Price: $75.04 USD
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/84158ef3-9dd5-40bc-920a-5110243df822.webp?v=1760114269
+    Price: $60.00 USD
   - [Heather Forest / XL](https://rebirthshoponline.myshopify.com/products/artistic-pullover-hoodie?variant=47556241490171)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/3ab41d86-50bb-45fd-a0ca-b808281b6e5d.webp?v=1759008671
-    Price: $75.04 USD
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/84158ef3-9dd5-40bc-920a-5110243df822.webp?v=1760114269
+    Price: $60.00 USD
   - [Heather Forest / 2XL](https://rebirthshoponline.myshopify.com/products/artistic-pullover-hoodie?variant=47556241522939)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/3ab41d86-50bb-45fd-a0ca-b808281b6e5d.webp?v=1759008671
-    Price: $79.50 USD
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/84158ef3-9dd5-40bc-920a-5110243df822.webp?v=1760114269
+    Price: $60.00 USD
   - [Heather Forest / 3XL](https://rebirthshoponline.myshopify.com/products/artistic-pullover-hoodie?variant=47556241555707)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/3ab41d86-50bb-45fd-a0ca-b808281b6e5d.webp?v=1759008671
-    Price: $83.62 USD
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/84158ef3-9dd5-40bc-920a-5110243df822.webp?v=1760114269
+    Price: $60.00 USD
   - [Heather True Royal / S](https://rebirthshoponline.myshopify.com/products/artistic-pullover-hoodie?variant=47556241588475)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/ddeaf2c8-a070-4890-94a4-a5c8a493c16d.webp?v=1759008672
-    Price: $75.04 USD
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/e8655475-66b3-4cd2-9b41-cbc6bd1738aa.webp?v=1760114268
+    Price: $60.00 USD
   - [Heather True Royal / M](https://rebirthshoponline.myshopify.com/products/artistic-pullover-hoodie?variant=47556241621243)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/ddeaf2c8-a070-4890-94a4-a5c8a493c16d.webp?v=1759008672
-    Price: $75.04 USD
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/e8655475-66b3-4cd2-9b41-cbc6bd1738aa.webp?v=1760114268
+    Price: $60.00 USD
   - [Heather True Royal / L](https://rebirthshoponline.myshopify.com/products/artistic-pullover-hoodie?variant=47556241654011)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/ddeaf2c8-a070-4890-94a4-a5c8a493c16d.webp?v=1759008672
-    Price: $75.04 USD
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/e8655475-66b3-4cd2-9b41-cbc6bd1738aa.webp?v=1760114268
+    Price: $60.00 USD
   - [Heather True Royal / XL](https://rebirthshoponline.myshopify.com/products/artistic-pullover-hoodie?variant=47556241686779)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/ddeaf2c8-a070-4890-94a4-a5c8a493c16d.webp?v=1759008672
-    Price: $75.04 USD
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/e8655475-66b3-4cd2-9b41-cbc6bd1738aa.webp?v=1760114268
+    Price: $60.00 USD
   - [Heather True Royal / 2XL](https://rebirthshoponline.myshopify.com/products/artistic-pullover-hoodie?variant=47556241719547)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/ddeaf2c8-a070-4890-94a4-a5c8a493c16d.webp?v=1759008672
-    Price: $79.50 USD
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/e8655475-66b3-4cd2-9b41-cbc6bd1738aa.webp?v=1760114268
+    Price: $60.00 USD
   - [Heather True Royal / 3XL](https://rebirthshoponline.myshopify.com/products/artistic-pullover-hoodie?variant=47556241752315)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/ddeaf2c8-a070-4890-94a4-a5c8a493c16d.webp?v=1759008672
-    Price: $83.62 USD
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/e8655475-66b3-4cd2-9b41-cbc6bd1738aa.webp?v=1760114268
+    Price: $60.00 USD
   - [Red / S](https://rebirthshoponline.myshopify.com/products/artistic-pullover-hoodie?variant=47556241785083)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/a3b68697-2c6b-4fa1-96bc-28e608915c0c.webp?v=1759008674
-    Price: $75.04 USD
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/fe25de35-16b0-4c37-9c95-55ed0b805795.webp?v=1760114272
+    Price: $60.00 USD
   - [Red / M](https://rebirthshoponline.myshopify.com/products/artistic-pullover-hoodie?variant=47556241817851)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/a3b68697-2c6b-4fa1-96bc-28e608915c0c.webp?v=1759008674
-    Price: $75.04 USD
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/fe25de35-16b0-4c37-9c95-55ed0b805795.webp?v=1760114272
+    Price: $60.00 USD
   - [Red / L](https://rebirthshoponline.myshopify.com/products/artistic-pullover-hoodie?variant=47556241850619)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/a3b68697-2c6b-4fa1-96bc-28e608915c0c.webp?v=1759008674
-    Price: $75.04 USD
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/fe25de35-16b0-4c37-9c95-55ed0b805795.webp?v=1760114272
+    Price: $60.00 USD
   - [Red / XL](https://rebirthshoponline.myshopify.com/products/artistic-pullover-hoodie?variant=47556241883387)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/a3b68697-2c6b-4fa1-96bc-28e608915c0c.webp?v=1759008674
-    Price: $75.04 USD
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/fe25de35-16b0-4c37-9c95-55ed0b805795.webp?v=1760114272
+    Price: $60.00 USD
   - [Red / 2XL](https://rebirthshoponline.myshopify.com/products/artistic-pullover-hoodie?variant=47556241916155)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/a3b68697-2c6b-4fa1-96bc-28e608915c0c.webp?v=1759008674
-    Price: $79.50 USD
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/fe25de35-16b0-4c37-9c95-55ed0b805795.webp?v=1760114272
+    Price: $60.00 USD
   - [Red / 3XL](https://rebirthshoponline.myshopify.com/products/artistic-pullover-hoodie?variant=47556241948923)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/a3b68697-2c6b-4fa1-96bc-28e608915c0c.webp?v=1759008674
-    Price: $83.62 USD
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/fe25de35-16b0-4c37-9c95-55ed0b805795.webp?v=1760114272
+    Price: $60.00 USD
   - [Navy / S](https://rebirthshoponline.myshopify.com/products/artistic-pullover-hoodie?variant=47556241981691)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/f6f5ce1c-e8c6-4197-a16d-33d19214069c.webp?v=1759008675
-    Price: $75.04 USD
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/23ee694e-541c-4431-a107-2c582a4d9884.webp?v=1760114271
+    Price: $60.00 USD
   - [Navy / M](https://rebirthshoponline.myshopify.com/products/artistic-pullover-hoodie?variant=47556242014459)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/f6f5ce1c-e8c6-4197-a16d-33d19214069c.webp?v=1759008675
-    Price: $75.04 USD
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/23ee694e-541c-4431-a107-2c582a4d9884.webp?v=1760114271
+    Price: $60.00 USD
   - [Navy / L](https://rebirthshoponline.myshopify.com/products/artistic-pullover-hoodie?variant=47556242047227)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/f6f5ce1c-e8c6-4197-a16d-33d19214069c.webp?v=1759008675
-    Price: $75.04 USD
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/23ee694e-541c-4431-a107-2c582a4d9884.webp?v=1760114271
+    Price: $60.00 USD
   - [Navy / XL](https://rebirthshoponline.myshopify.com/products/artistic-pullover-hoodie?variant=47556242079995)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/f6f5ce1c-e8c6-4197-a16d-33d19214069c.webp?v=1759008675
-    Price: $75.04 USD
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/23ee694e-541c-4431-a107-2c582a4d9884.webp?v=1760114271
+    Price: $60.00 USD
   - [Navy / 2XL](https://rebirthshoponline.myshopify.com/products/artistic-pullover-hoodie?variant=47556242112763)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/f6f5ce1c-e8c6-4197-a16d-33d19214069c.webp?v=1759008675
-    Price: $79.50 USD
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/23ee694e-541c-4431-a107-2c582a4d9884.webp?v=1760114271
+    Price: $60.00 USD
   - [Navy / 3XL](https://rebirthshoponline.myshopify.com/products/artistic-pullover-hoodie?variant=47556242145531)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/f6f5ce1c-e8c6-4197-a16d-33d19214069c.webp?v=1759008675
-    Price: $83.62 USD
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/23ee694e-541c-4431-a107-2c582a4d9884.webp?v=1760114271
+    Price: $60.00 USD
   - [Black / S](https://rebirthshoponline.myshopify.com/products/artistic-pullover-hoodie?variant=47556242178299)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/d1841a9d-022e-419e-848a-18bdcc220df6.webp?v=1759008670
-    Price: $75.04 USD
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/d422077c-7765-4252-824b-0b9135a38107.webp?v=1760114270
+    Price: $60.00 USD
   - [Black / M](https://rebirthshoponline.myshopify.com/products/artistic-pullover-hoodie?variant=47556242211067)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/d1841a9d-022e-419e-848a-18bdcc220df6.webp?v=1759008670
-    Price: $75.04 USD
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/d422077c-7765-4252-824b-0b9135a38107.webp?v=1760114270
+    Price: $60.00 USD
   - [Black / L](https://rebirthshoponline.myshopify.com/products/artistic-pullover-hoodie?variant=47556242243835)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/d1841a9d-022e-419e-848a-18bdcc220df6.webp?v=1759008670
-    Price: $75.04 USD
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/d422077c-7765-4252-824b-0b9135a38107.webp?v=1760114270
+    Price: $60.00 USD
   - [Black / XL](https://rebirthshoponline.myshopify.com/products/artistic-pullover-hoodie?variant=47556242276603)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/d1841a9d-022e-419e-848a-18bdcc220df6.webp?v=1759008670
-    Price: $75.04 USD
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/d422077c-7765-4252-824b-0b9135a38107.webp?v=1760114270
+    Price: $60.00 USD
   - [Black / 2XL](https://rebirthshoponline.myshopify.com/products/artistic-pullover-hoodie?variant=47556242309371)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/d1841a9d-022e-419e-848a-18bdcc220df6.webp?v=1759008670
-    Price: $79.50 USD
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/d422077c-7765-4252-824b-0b9135a38107.webp?v=1760114270
+    Price: $60.00 USD
   - [Black / 3XL](https://rebirthshoponline.myshopify.com/products/artistic-pullover-hoodie?variant=47556242342139)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/d1841a9d-022e-419e-848a-18bdcc220df6.webp?v=1759008670
-    Price: $83.62 USD
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/d422077c-7765-4252-824b-0b9135a38107.webp?v=1760114270
+    Price: $60.00 USD
 - [Classic Rebirth Crewneck T-shirt |](https://rebirthshoponline.myshopify.com/products/classic-rebirth-crewneck-t-shirt): This t-shirt is renowned for its soft feel, ideal for DTG printing. Offers a seamless double-needle collar with high stitch density for a smoother printing surface. Includes a tear-away label for easy rebranding. Tubular fit to minimize torque. Available in a wide range of colors to suit various design needs. Fabrication: Solid colors are made from 100% ring-spun cotton; Sport Grey is 90% ring-spun cotton, 10% polyester; Heather colors are 35% cotton, 65% polyester; Graphite Heather is 65% cotton, 35% polyester. Size guide S M L XL 2XL 3XL A) Length (cm) 71 74 76 79 81 85 B) Width (cm) 92 102 112 122 132 142 B) Half Chest (cm) 46 51 56 61 66 71 S M L XL 2XL 3XL A) Length (inches) 28 29.1 29.9 31.1 31.9 33.5 B) Width (inches) 36.2 40.2 44.1 48 52 55.9 B) Half Chest (inches) 18.1 20.1 22 24 26 28 Care Instructions General A durable, comfortable, and versatile t-shirt that excels in printability and wearability, making it a top choice for custom designs​ . Wash The t-shirt should be washed with similar colors and can sustain regular washing without losing color or shape. Dry Tumble dry low or hang dry to maintain the integrity of the print and fabric. Store Keep this T-shirt in a cool, dry place away from direct sunlight to maintain its color and fabric integrity.
   Updated: 2025-09-28T14:37:25Z
   Vendor: ReBirth.
@@ -2987,21 +2987,227 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/7717594391626700791_2048.jpg?v=1759431059
     Price: $54.99 USD
+- [Women's Just Breathe Hoodie](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie): A heavy blend hoodie. Crafted from a soft blend of 50% cotton and 50% polyester. Features a double-lined hood with matching drawstring. The fabric's air jet yarn offers a softer feel and reduces pilling. Includes a front pouch pocket, and rib knit cuffs and waistband with spandex. Size guide S M L XL 2XL 3XL 4XL 5XL A) Length (cm) 68.6 71.1 73.7 76.2 78.7 81.3 84 86 B) Width (cm) 101.6 111.8 122 132 142.2 152.4 162 172 B) Half Chest (cm) 50.8 55.9 61 66 71.1 76.2 81 86 C) Sleeve Length (cm) 85.1 87.6 90.2 92.7 95.3 97.8 100 103 S M L XL 2XL 3XL 4XL 5XL A) Length (inches) 27 28 29 30 31 32 33.1 33.9 B) Width (inches) 40 44 48 52 56 60 63.8 67.7 B) Half Chest (inches) 20 22 24 26 28 30 31.9 33.9 C) Sleeve Length (inches) 33.5 34.5 35.5 36.5 37.5 38.5 39.4 40.6 Care Instructions General The Gildan 18500 hoodie is known for its robust fabric blend, comfort, and versatility, making it a popular choice for bulk orders and custom designs. Wash Machine wash with cold water is recommended to maintain the integrity of the fabric. Dry Tumble dry on medium setting. Store This hoodie is widely available online through various retailers, offering ease of purchase.
+  Updated: 2025-10-11T03:21:58Z
+  Vendor: ReBirth.
+  Product Type: Print Material
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/a186445a-9ea4-4f1f-8a22-a2363d8ca29f.webp?v=1760109699
+  - [Light Pink / S](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593606480123)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/a186445a-9ea4-4f1f-8a22-a2363d8ca29f.webp?v=1760109699
+    Price: $44.14 USD
+  - [Light Pink / M](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593606512891)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/a186445a-9ea4-4f1f-8a22-a2363d8ca29f.webp?v=1760109699
+    Price: $44.14 USD
+  - [Light Pink / L](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593606545659)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/a186445a-9ea4-4f1f-8a22-a2363d8ca29f.webp?v=1760109699
+    Price: $44.14 USD
+  - [Light Pink / XL](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593606578427)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/a186445a-9ea4-4f1f-8a22-a2363d8ca29f.webp?v=1760109699
+    Price: $44.14 USD
+  - [Light Pink / 2XL](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593606611195)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/a186445a-9ea4-4f1f-8a22-a2363d8ca29f.webp?v=1760109699
+    Price: $48.60 USD
+  - [Light Pink / 3XL](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593606643963)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/a186445a-9ea4-4f1f-8a22-a2363d8ca29f.webp?v=1760109699
+    Price: $52.72 USD
+  - [Light Pink / 4XL](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593606676731)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/a186445a-9ea4-4f1f-8a22-a2363d8ca29f.webp?v=1760109699
+    Price: $56.82 USD
+  - [Light Pink / 5XL](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593606709499)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/a186445a-9ea4-4f1f-8a22-a2363d8ca29f.webp?v=1760109699
+    Price: $60.94 USD
+  - [Sand / S](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593606742267)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/48967ed2-0e3b-49e9-9055-1844fa7222ff.webp?v=1760109700
+    Price: $44.14 USD
+  - [Sand / M](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593606775035)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/48967ed2-0e3b-49e9-9055-1844fa7222ff.webp?v=1760109700
+    Price: $44.14 USD
+  - [Sand / L](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593606807803)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/48967ed2-0e3b-49e9-9055-1844fa7222ff.webp?v=1760109700
+    Price: $44.14 USD
+  - [Sand / XL](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593606840571)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/48967ed2-0e3b-49e9-9055-1844fa7222ff.webp?v=1760109700
+    Price: $44.14 USD
+  - [Sand / 2XL](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593606873339)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/48967ed2-0e3b-49e9-9055-1844fa7222ff.webp?v=1760109700
+    Price: $48.60 USD
+  - [Sand / 3XL](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593606906107)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/48967ed2-0e3b-49e9-9055-1844fa7222ff.webp?v=1760109700
+    Price: $52.72 USD
+  - [Sand / 4XL](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593606938875)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/48967ed2-0e3b-49e9-9055-1844fa7222ff.webp?v=1760109700
+    Price: $56.82 USD
+  - [Sand / 5XL](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593606971643)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/48967ed2-0e3b-49e9-9055-1844fa7222ff.webp?v=1760109700
+    Price: $60.94 USD
+  - [Light Blue / S](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593607004411)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/7db0fdf4-63da-4ec8-8d1f-7b3ddded7891.webp?v=1760109706
+    Price: $44.14 USD
+  - [Light Blue / M](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593607037179)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/7db0fdf4-63da-4ec8-8d1f-7b3ddded7891.webp?v=1760109706
+    Price: $44.14 USD
+  - [Light Blue / L](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593607069947)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/7db0fdf4-63da-4ec8-8d1f-7b3ddded7891.webp?v=1760109706
+    Price: $44.14 USD
+  - [Light Blue / XL](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593607102715)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/7db0fdf4-63da-4ec8-8d1f-7b3ddded7891.webp?v=1760109706
+    Price: $44.14 USD
+  - [Light Blue / 2XL](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593607135483)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/7db0fdf4-63da-4ec8-8d1f-7b3ddded7891.webp?v=1760109706
+    Price: $48.60 USD
+  - [Light Blue / 3XL](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593607168251)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/7db0fdf4-63da-4ec8-8d1f-7b3ddded7891.webp?v=1760109706
+    Price: $52.72 USD
+  - [Light Blue / 4XL](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593607201019)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/7db0fdf4-63da-4ec8-8d1f-7b3ddded7891.webp?v=1760109706
+    Price: $56.82 USD
+  - [Light Blue / 5XL](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593607233787)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/7db0fdf4-63da-4ec8-8d1f-7b3ddded7891.webp?v=1760109706
+    Price: $60.94 USD
+  - [Orchid / S](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593607266555)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/b9ece0d9-3a77-4847-9278-56812ae75751.webp?v=1760109705
+    Price: $44.14 USD
+  - [Orchid / M](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593607299323)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/b9ece0d9-3a77-4847-9278-56812ae75751.webp?v=1760109705
+    Price: $44.14 USD
+  - [Orchid / L](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593607332091)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/b9ece0d9-3a77-4847-9278-56812ae75751.webp?v=1760109705
+    Price: $44.14 USD
+  - [Orchid / XL](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593607364859)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/b9ece0d9-3a77-4847-9278-56812ae75751.webp?v=1760109705
+    Price: $44.14 USD
+  - [Orchid / 2XL](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593607397627)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/b9ece0d9-3a77-4847-9278-56812ae75751.webp?v=1760109705
+    Price: $48.60 USD
+  - [Orchid / 3XL](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593607430395)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/b9ece0d9-3a77-4847-9278-56812ae75751.webp?v=1760109705
+    Price: $52.72 USD
+  - [Sport Grey / S](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593607463163)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/9fcd0fba-ffc3-483e-8ef2-57a5510619ea.webp?v=1760109703
+    Price: $38.58 USD
+  - [Sport Grey / M](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593607495931)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/9fcd0fba-ffc3-483e-8ef2-57a5510619ea.webp?v=1760109703
+    Price: $38.58 USD
+  - [Sport Grey / L](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593607528699)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/9fcd0fba-ffc3-483e-8ef2-57a5510619ea.webp?v=1760109703
+    Price: $38.58 USD
+  - [Sport Grey / XL](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593607561467)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/9fcd0fba-ffc3-483e-8ef2-57a5510619ea.webp?v=1760109703
+    Price: $38.58 USD
+  - [Sport Grey / 2XL](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593607594235)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/9fcd0fba-ffc3-483e-8ef2-57a5510619ea.webp?v=1760109703
+    Price: $42.46 USD
+  - [Sport Grey / 3XL](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593607627003)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/9fcd0fba-ffc3-483e-8ef2-57a5510619ea.webp?v=1760109703
+    Price: $46.04 USD
+  - [Sport Grey / 4XL](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593607659771)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/9fcd0fba-ffc3-483e-8ef2-57a5510619ea.webp?v=1760109703
+    Price: $56.82 USD
+  - [Sport Grey / 5XL](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593607692539)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/9fcd0fba-ffc3-483e-8ef2-57a5510619ea.webp?v=1760109703
+    Price: $60.94 USD
+  - [Azalea / S](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593607725307)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/0003cc5a-ae43-40f4-bfbd-3f3abd246cf8.webp?v=1760109701
+    Price: $44.14 USD
+  - [Azalea / M](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593607758075)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/0003cc5a-ae43-40f4-bfbd-3f3abd246cf8.webp?v=1760109701
+    Price: $44.14 USD
+  - [Azalea / L](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593607790843)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/0003cc5a-ae43-40f4-bfbd-3f3abd246cf8.webp?v=1760109701
+    Price: $44.14 USD
+  - [Azalea / XL](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593607823611)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/0003cc5a-ae43-40f4-bfbd-3f3abd246cf8.webp?v=1760109701
+    Price: $44.14 USD
+  - [Azalea / 2XL](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593607856379)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/0003cc5a-ae43-40f4-bfbd-3f3abd246cf8.webp?v=1760109701
+    Price: $48.60 USD
+  - [Azalea / 3XL](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593607889147)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/0003cc5a-ae43-40f4-bfbd-3f3abd246cf8.webp?v=1760109701
+    Price: $52.72 USD
+  - [Military Green / S](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593607921915)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/c246a047-3385-4dab-b3ae-52a1539e92f5.webp?v=1760109709
+    Price: $44.14 USD
+  - [Military Green / M](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593607954683)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/c246a047-3385-4dab-b3ae-52a1539e92f5.webp?v=1760109709
+    Price: $44.14 USD
+  - [Military Green / L](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593607987451)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/c246a047-3385-4dab-b3ae-52a1539e92f5.webp?v=1760109709
+    Price: $44.14 USD
+  - [Military Green / XL](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593608020219)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/c246a047-3385-4dab-b3ae-52a1539e92f5.webp?v=1760109709
+    Price: $44.14 USD
+  - [Military Green / 2XL](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593608052987)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/c246a047-3385-4dab-b3ae-52a1539e92f5.webp?v=1760109709
+    Price: $48.60 USD
+  - [Military Green / 3XL](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593608085755)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/c246a047-3385-4dab-b3ae-52a1539e92f5.webp?v=1760109709
+    Price: $52.72 USD
 
 ## Collections
 
 - [Home page](https://rebirthshoponline.myshopify.com/collections/frontpage)
-  Updated: 2025-10-02T18:27:41Z
+  Updated: 2025-10-10T16:37:34Z
   Total Products: 8
 - [Men's Apparel](https://rebirthshoponline.myshopify.com/collections/mens-apparel)
-  Updated: 2025-10-08T13:40:35Z
-  Total Products: 9
+  Updated: 2025-10-10T16:37:35Z
+  Total Products: 8
 - [Accessories](https://rebirthshoponline.myshopify.com/collections/accessories)
   Updated: 2025-10-09T11:28:49Z
   Total Products: 6
 - [Women's Hoodies](https://rebirthshoponline.myshopify.com/collections/womens-sweatshirt)
-  Updated: 2025-10-02T18:50:32Z
-  Total Products: 3
+  Updated: 2025-10-10T15:21:30Z
+  Total Products: 4
 - [Hats](https://rebirthshoponline.myshopify.com/collections/hats)
   Updated: 2025-10-09T11:28:49Z
   Total Products: 3
@@ -3009,7 +3215,7 @@
   Updated: 2025-10-02T17:16:31Z
   Total Products: 3
 - [Men's Hoodies](https://rebirthshoponline.myshopify.com/collections/mens-hoodies)
-  Updated: 2025-10-02T17:16:33Z
+  Updated: 2025-10-10T16:37:35Z
   Total Products: 5
 - [Men's T-shirts](https://rebirthshoponline.myshopify.com/collections/mens-activewear)
   Updated: 2025-10-08T13:40:35Z
