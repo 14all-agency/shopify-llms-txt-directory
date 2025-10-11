@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2019-08-25T03:49:02Z
 - Contact Email: sales@milvertons.com
-- Updated At: 2025-10-11T04:00:35.092Z
+- Updated At: 2025-10-11T12:00:34.608Z
 
 ## Products
 
@@ -2630,13 +2630,13 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/lolas-flair-womens-fashionable-flat-sandals-782947.webp?v=1715725359
     Price: $37.33 USD
 - [Exquisite Italian Shoes and Matching Bag Set for Night Glam](https://milvertons.com/products/exquisite-italian-shoes-and-matching-bag-set-for-night-glam): Embrace the allure of night glam with the Exquisite Italian Shoes and Matching Bag Set, crafted for those who demand elegance and individuality at every event. This set transforms any formal occasion into a showcase of your unique style. Handmade PU Upper & Lining: Luxurious feel and enduring comfort from heel to toe. Distinctive Strange Heel & Peep Toe: Adds modern sophistication and a striking silhouette. 6.5cm Platform Heel: Combines elevation with stability for effortless movement. Glamorous Buckle Strap Closure: Offers a secure fit and a refined finishing touch. Let your style shine with Italian craftsmanship—this set is your invitation to stand out and celebrate your individuality.
-  Updated: 2025-10-07T17:04:52Z
+  Updated: 2025-10-11T07:28:21Z
   Vendor: Milvertons
   Product Type: Women - Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/exquisite-italian-shoes-and-matching-bag-set-for-night-glam-914417.webp?v=1745669670
   - [Peach / 37](https://milvertons.com/products/exquisite-italian-shoes-and-matching-bag-set-for-night-glam?variant=46440092008686)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/exquisite-italian-shoes-and-matching-bag-set-for-night-glam-914417.webp?v=1745669670
     Price: $125.02 USD
   - [Peach / 38](https://milvertons.com/products/exquisite-italian-shoes-and-matching-bag-set-for-night-glam?variant=46440092041454)
@@ -2672,11 +2672,11 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/exquisite-italian-shoes-and-matching-bag-set-for-night-glam-595082.webp?v=1745669671
     Price: $125.02 USD
   - [Green / 39](https://milvertons.com/products/exquisite-italian-shoes-and-matching-bag-set-for-night-glam?variant=46440092303598)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/exquisite-italian-shoes-and-matching-bag-set-for-night-glam-595082.webp?v=1745669671
     Price: $125.02 USD
   - [Green / 40](https://milvertons.com/products/exquisite-italian-shoes-and-matching-bag-set-for-night-glam?variant=46440092467438)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/exquisite-italian-shoes-and-matching-bag-set-for-night-glam-595082.webp?v=1745669671
     Price: $125.02 USD
   - [Green / 41](https://milvertons.com/products/exquisite-italian-shoes-and-matching-bag-set-for-night-glam?variant=46440092500206)
@@ -2684,11 +2684,11 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/exquisite-italian-shoes-and-matching-bag-set-for-night-glam-595082.webp?v=1745669671
     Price: $125.02 USD
   - [Green / 42](https://milvertons.com/products/exquisite-italian-shoes-and-matching-bag-set-for-night-glam?variant=46440092401902)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/exquisite-italian-shoes-and-matching-bag-set-for-night-glam-595082.webp?v=1745669671
     Price: $125.02 USD
   - [Green / 43](https://milvertons.com/products/exquisite-italian-shoes-and-matching-bag-set-for-night-glam?variant=46440092434670)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/exquisite-italian-shoes-and-matching-bag-set-for-night-glam-595082.webp?v=1745669671
     Price: $125.02 USD
   - [Purple / 37](https://milvertons.com/products/exquisite-italian-shoes-and-matching-bag-set-for-night-glam?variant=46440092696814)
@@ -2700,15 +2700,15 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/exquisite-italian-shoes-and-matching-bag-set-for-night-glam-133391.webp?v=1745669671
     Price: $125.02 USD
   - [Purple / 39](https://milvertons.com/products/exquisite-italian-shoes-and-matching-bag-set-for-night-glam?variant=46440092893422)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/exquisite-italian-shoes-and-matching-bag-set-for-night-glam-133391.webp?v=1745669671
     Price: $125.02 USD
   - [Purple / 40](https://milvertons.com/products/exquisite-italian-shoes-and-matching-bag-set-for-night-glam?variant=46440092795118)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/exquisite-italian-shoes-and-matching-bag-set-for-night-glam-133391.webp?v=1745669671
     Price: $125.02 USD
   - [Purple / 41](https://milvertons.com/products/exquisite-italian-shoes-and-matching-bag-set-for-night-glam?variant=46440092827886)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/exquisite-italian-shoes-and-matching-bag-set-for-night-glam-133391.webp?v=1745669671
     Price: $125.02 USD
   - [Purple / 42](https://milvertons.com/products/exquisite-italian-shoes-and-matching-bag-set-for-night-glam?variant=46440092074222)
@@ -2716,11 +2716,11 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/exquisite-italian-shoes-and-matching-bag-set-for-night-glam-133391.webp?v=1745669671
     Price: $125.02 USD
   - [Purple / 43](https://milvertons.com/products/exquisite-italian-shoes-and-matching-bag-set-for-night-glam?variant=46440092106990)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/exquisite-italian-shoes-and-matching-bag-set-for-night-glam-133391.webp?v=1745669671
     Price: $125.02 USD
   - [Gold / 37](https://milvertons.com/products/exquisite-italian-shoes-and-matching-bag-set-for-night-glam?variant=46440091615470)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/exquisite-italian-shoes-and-matching-bag-set-for-night-glam-242310.webp?v=1745669670
     Price: $125.02 USD
   - [Gold / 38](https://milvertons.com/products/exquisite-italian-shoes-and-matching-bag-set-for-night-glam?variant=46440091648238)
@@ -2728,15 +2728,15 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/exquisite-italian-shoes-and-matching-bag-set-for-night-glam-242310.webp?v=1745669670
     Price: $125.02 USD
   - [Gold / 39](https://milvertons.com/products/exquisite-italian-shoes-and-matching-bag-set-for-night-glam?variant=46440091549934)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/exquisite-italian-shoes-and-matching-bag-set-for-night-glam-242310.webp?v=1745669670
     Price: $125.02 USD
   - [Gold / 40](https://milvertons.com/products/exquisite-italian-shoes-and-matching-bag-set-for-night-glam?variant=46440091582702)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/exquisite-italian-shoes-and-matching-bag-set-for-night-glam-242310.webp?v=1745669670
     Price: $125.02 USD
   - [Gold / 41](https://milvertons.com/products/exquisite-italian-shoes-and-matching-bag-set-for-night-glam?variant=46440091746542)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/exquisite-italian-shoes-and-matching-bag-set-for-night-glam-242310.webp?v=1745669670
     Price: $125.02 USD
   - [Gold / 42](https://milvertons.com/products/exquisite-italian-shoes-and-matching-bag-set-for-night-glam?variant=46440091779310)
@@ -2752,19 +2752,19 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/exquisite-italian-shoes-and-matching-bag-set-for-night-glam-970867.webp?v=1745669671
     Price: $125.02 USD
   - [Silver / 38](https://milvertons.com/products/exquisite-italian-shoes-and-matching-bag-set-for-night-glam?variant=46440092631278)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/exquisite-italian-shoes-and-matching-bag-set-for-night-glam-970867.webp?v=1745669671
     Price: $125.02 USD
   - [Silver / 39](https://milvertons.com/products/exquisite-italian-shoes-and-matching-bag-set-for-night-glam?variant=46440092532974)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/exquisite-italian-shoes-and-matching-bag-set-for-night-glam-970867.webp?v=1745669671
     Price: $125.02 USD
   - [Silver / 40](https://milvertons.com/products/exquisite-italian-shoes-and-matching-bag-set-for-night-glam?variant=46440092565742)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/exquisite-italian-shoes-and-matching-bag-set-for-night-glam-970867.webp?v=1745669671
     Price: $125.02 USD
   - [Silver / 41](https://milvertons.com/products/exquisite-italian-shoes-and-matching-bag-set-for-night-glam?variant=46440092729582)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/exquisite-italian-shoes-and-matching-bag-set-for-night-glam-970867.webp?v=1745669671
     Price: $125.02 USD
   - [Silver / 42](https://milvertons.com/products/exquisite-italian-shoes-and-matching-bag-set-for-night-glam?variant=46440092762350)
@@ -2784,15 +2784,15 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/exquisite-italian-shoes-and-matching-bag-set-for-night-glam-847017.webp?v=1745669694
     Price: $125.02 USD
   - [Orange / 39](https://milvertons.com/products/exquisite-italian-shoes-and-matching-bag-set-for-night-glam?variant=46440091910382)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/exquisite-italian-shoes-and-matching-bag-set-for-night-glam-847017.webp?v=1745669694
     Price: $125.02 USD
   - [Orange / 40](https://milvertons.com/products/exquisite-italian-shoes-and-matching-bag-set-for-night-glam?variant=46440091812078)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/exquisite-italian-shoes-and-matching-bag-set-for-night-glam-847017.webp?v=1745669694
     Price: $125.02 USD
   - [Orange / 41](https://milvertons.com/products/exquisite-italian-shoes-and-matching-bag-set-for-night-glam?variant=46440091844846)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/exquisite-italian-shoes-and-matching-bag-set-for-night-glam-847017.webp?v=1745669694
     Price: $125.02 USD
   - [Orange / 42](https://milvertons.com/products/exquisite-italian-shoes-and-matching-bag-set-for-night-glam?variant=46440091943150)
@@ -5320,7 +5320,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-shoes-and-bag-set-2024-rhinestone-high-heels-203509.webp?v=1732252497
     Price: $121.76 USD
 - [Italian Rhinestone Party Shoes & Bag – 2024 Italian Style](https://milvertons.com/products/italian-rhinestone-party-shoes-bag-2024-italian-style): Italian Rhinestone Party Shoes & Bag – 2024 Italian Style. Perfect for parties, these shoes and matching bag are designed for women who want to make a statement
-  Updated: 2025-10-07T17:10:54Z
+  Updated: 2025-10-11T07:09:21Z
   Vendor: Milvertons
   Product Type: Women - Shoes
   Availability: Available
@@ -5346,7 +5346,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-rhinestone-party-shoes-bag-2024-italian-style-950429.webp?v=1732335386
     Price: $117.74 USD
   - [Purple / 37](https://milvertons.com/products/italian-rhinestone-party-shoes-bag-2024-italian-style?variant=45976869273838)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-rhinestone-party-shoes-bag-2024-italian-style-397436.webp?v=1732335386
     Price: $117.74 USD
   - [Purple / 42](https://milvertons.com/products/italian-rhinestone-party-shoes-bag-2024-italian-style?variant=45976869109998)
@@ -5394,11 +5394,11 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-rhinestone-party-shoes-bag-2024-italian-style-239588.webp?v=1732335386
     Price: $117.74 USD
   - [Gold / 39](https://milvertons.com/products/italian-rhinestone-party-shoes-bag-2024-italian-style?variant=45976869667054)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-rhinestone-party-shoes-bag-2024-italian-style-239588.webp?v=1732335386
     Price: $117.74 USD
   - [Gold / 40](https://milvertons.com/products/italian-rhinestone-party-shoes-bag-2024-italian-style?variant=45976869634286)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-rhinestone-party-shoes-bag-2024-italian-style-239588.webp?v=1732335386
     Price: $117.74 USD
   - [Gold / 42](https://milvertons.com/products/italian-rhinestone-party-shoes-bag-2024-italian-style?variant=45976870093038)
@@ -8232,7 +8232,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-rhinestone-heels-bag-set-for-african-womens-party-865894.webp?v=1747121536
     Price: $119.79 USD
 - [Elegant Pointed Toe Rhinestone Heels & Bag Set for Women](https://milvertons.com/products/elegant-pointed-toe-rhinestone-heels-bag-set-for-women): Elegant Pointed Toe Rhinestone Heels & Bag Set for Women. Elevate your style with this combo of style and sophistication, perfect for any special event or party
-  Updated: 2025-10-07T17:17:20Z
+  Updated: 2025-10-11T06:52:54Z
   Vendor: Milvertons
   Product Type: Women - Shoes
   Availability: Available
@@ -8378,31 +8378,31 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/elegant-pointed-toe-rhinestone-heels-bag-set-for-women-967699.webp?v=1747375508
     Price: $112.52 USD
   - [Blue / 37](https://milvertons.com/products/elegant-pointed-toe-rhinestone-heels-bag-set-for-women?variant=46495546212590)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/elegant-pointed-toe-rhinestone-heels-bag-set-for-women-871514.webp?v=1747375506
     Price: $112.52 USD
   - [Blue / 38](https://milvertons.com/products/elegant-pointed-toe-rhinestone-heels-bag-set-for-women?variant=46495546245358)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/elegant-pointed-toe-rhinestone-heels-bag-set-for-women-871514.webp?v=1747375506
     Price: $112.52 USD
   - [Blue / 39](https://milvertons.com/products/elegant-pointed-toe-rhinestone-heels-bag-set-for-women?variant=46495546278126)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/elegant-pointed-toe-rhinestone-heels-bag-set-for-women-871514.webp?v=1747375506
     Price: $112.52 USD
   - [Blue / 40](https://milvertons.com/products/elegant-pointed-toe-rhinestone-heels-bag-set-for-women?variant=46495546310894)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/elegant-pointed-toe-rhinestone-heels-bag-set-for-women-871514.webp?v=1747375506
     Price: $112.52 USD
   - [Blue / 41](https://milvertons.com/products/elegant-pointed-toe-rhinestone-heels-bag-set-for-women?variant=46495546343662)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/elegant-pointed-toe-rhinestone-heels-bag-set-for-women-871514.webp?v=1747375506
     Price: $112.52 USD
   - [Blue / 42](https://milvertons.com/products/elegant-pointed-toe-rhinestone-heels-bag-set-for-women?variant=46495546376430)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/elegant-pointed-toe-rhinestone-heels-bag-set-for-women-871514.webp?v=1747375506
     Price: $112.52 USD
   - [Blue / 43](https://milvertons.com/products/elegant-pointed-toe-rhinestone-heels-bag-set-for-women?variant=46495546409198)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/elegant-pointed-toe-rhinestone-heels-bag-set-for-women-871514.webp?v=1747375506
     Price: $112.52 USD
 - [Italian Sandals & Bag Set for Women – Wedding Heels](https://milvertons.com/products/italian-sandals-bag-set-for-women-wedding-heels): Celebrate life’s most cherished moments with the Italian Sandals & Bag Set for Women – Wedding Heels, crafted for those who demand exclusivity and timeless elegance. Handcrafted from premium PU with bling accents that catch the light beautifully 7.5cm spike heels and peep toe design create a flattering, graceful silhouette Secure buckle strap and breathable slingback pumps offer tailored comfort Durable rubber outsole ensures confident steps; metal-handled bag adds a touch of distinction Limited in availability, this set brings Italian prestige and luxury to your special occasions—make every step unforgettable.
@@ -8608,41 +8608,41 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-sandals-bag-set-for-women-wedding-heels-945610.webp?v=1750453183
     Price: $117.36 USD
 - [Rhinestone High Heels & Bag Set – Elegant Party Look](https://milvertons.com/products/rhinestone-high-heels-bag-set-elegant-party-look): Step into the spotlight with the Rhinestone High Heels & Bag Set – a celebration of luxury and refined glamour for every special occasion. Designed for those who appreciate the artistry of fashion, this set elevates your party look with effortless sophistication. Sparkling rhinestone spike heels (8.5cm) elongate your silhouette and capture every gaze Elegant butterfly-knot detail and pointed toe offer feminine charm and timeless appeal Handcrafted with premium PU materials for comfort, durability, and unique perfection Secure buckle strap ensures a confident fit throughout the evening Matching bag with chic metal handle completes your ensemble with modern elegance Let this exclusive set be your signature at weddings and soirées—indulge in the prestige of true craftsmanship.
-  Updated: 2025-10-07T17:18:06Z
+  Updated: 2025-10-11T06:44:47Z
   Vendor: Milvertons
   Product Type: Women - Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/rhinestone-high-heels-bag-set-elegant-party-look-750895.webp?v=1756247116
   - [Olive-Green / 37](https://milvertons.com/products/rhinestone-high-heels-bag-set-elegant-party-look?variant=46656075268334)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/rhinestone-high-heels-bag-set-elegant-party-look-750895.webp?v=1756247116
     Price: $119.84 USD
   - [Olive-Green / 38](https://milvertons.com/products/rhinestone-high-heels-bag-set-elegant-party-look?variant=46656075301102)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/rhinestone-high-heels-bag-set-elegant-party-look-750895.webp?v=1756247116
     Price: $119.84 USD
   - [Olive-Green / 39](https://milvertons.com/products/rhinestone-high-heels-bag-set-elegant-party-look?variant=46656075333870)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/rhinestone-high-heels-bag-set-elegant-party-look-750895.webp?v=1756247116
     Price: $119.84 USD
   - [Olive-Green / 40](https://milvertons.com/products/rhinestone-high-heels-bag-set-elegant-party-look?variant=46656075366638)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/rhinestone-high-heels-bag-set-elegant-party-look-750895.webp?v=1756247116
     Price: $119.84 USD
   - [Olive-Green / 41](https://milvertons.com/products/rhinestone-high-heels-bag-set-elegant-party-look?variant=46656075399406)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/rhinestone-high-heels-bag-set-elegant-party-look-750895.webp?v=1756247116
     Price: $119.84 USD
   - [Olive-Green / 42](https://milvertons.com/products/rhinestone-high-heels-bag-set-elegant-party-look?variant=46656075432174)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/rhinestone-high-heels-bag-set-elegant-party-look-750895.webp?v=1756247116
     Price: $119.84 USD
   - [Olive-Green / 43](https://milvertons.com/products/rhinestone-high-heels-bag-set-elegant-party-look?variant=46656075464942)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/rhinestone-high-heels-bag-set-elegant-party-look-750895.webp?v=1756247116
     Price: $119.84 USD
   - [Silver / 37](https://milvertons.com/products/rhinestone-high-heels-bag-set-elegant-party-look?variant=46656075497710)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/rhinestone-high-heels-bag-set-elegant-party-look-827835.webp?v=1756247635
     Price: $119.84 USD
   - [Silver / 38](https://milvertons.com/products/rhinestone-high-heels-bag-set-elegant-party-look?variant=46656075530478)
@@ -8654,7 +8654,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/rhinestone-high-heels-bag-set-elegant-party-look-827835.webp?v=1756247635
     Price: $119.84 USD
   - [Silver / 40](https://milvertons.com/products/rhinestone-high-heels-bag-set-elegant-party-look?variant=46656075596014)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/rhinestone-high-heels-bag-set-elegant-party-look-827835.webp?v=1756247635
     Price: $119.84 USD
   - [Silver / 41](https://milvertons.com/products/rhinestone-high-heels-bag-set-elegant-party-look?variant=46656075628782)
@@ -8662,11 +8662,11 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/rhinestone-high-heels-bag-set-elegant-party-look-827835.webp?v=1756247635
     Price: $119.84 USD
   - [Silver / 42](https://milvertons.com/products/rhinestone-high-heels-bag-set-elegant-party-look?variant=46656075661550)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/rhinestone-high-heels-bag-set-elegant-party-look-827835.webp?v=1756247635
     Price: $119.84 USD
   - [Silver / 43](https://milvertons.com/products/rhinestone-high-heels-bag-set-elegant-party-look?variant=46656075694318)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/rhinestone-high-heels-bag-set-elegant-party-look-827835.webp?v=1756247635
     Price: $119.84 USD
   - [Gold / 37](https://milvertons.com/products/rhinestone-high-heels-bag-set-elegant-party-look?variant=46656075038958)
@@ -8674,7 +8674,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/rhinestone-high-heels-bag-set-elegant-party-look-569575.webp?v=1756195606
     Price: $119.84 USD
   - [Gold / 38](https://milvertons.com/products/rhinestone-high-heels-bag-set-elegant-party-look?variant=46656075071726)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/rhinestone-high-heels-bag-set-elegant-party-look-569575.webp?v=1756195606
     Price: $119.84 USD
   - [Gold / 39](https://milvertons.com/products/rhinestone-high-heels-bag-set-elegant-party-look?variant=46656075104494)
@@ -8686,15 +8686,15 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/rhinestone-high-heels-bag-set-elegant-party-look-569575.webp?v=1756195606
     Price: $119.84 USD
   - [Gold / 41](https://milvertons.com/products/rhinestone-high-heels-bag-set-elegant-party-look?variant=46656075170030)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/rhinestone-high-heels-bag-set-elegant-party-look-569575.webp?v=1756195606
     Price: $119.84 USD
   - [Gold / 42](https://milvertons.com/products/rhinestone-high-heels-bag-set-elegant-party-look?variant=46656075202798)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/rhinestone-high-heels-bag-set-elegant-party-look-569575.webp?v=1756195606
     Price: $119.84 USD
   - [Gold / 43](https://milvertons.com/products/rhinestone-high-heels-bag-set-elegant-party-look?variant=46656075235566)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/rhinestone-high-heels-bag-set-elegant-party-look-569575.webp?v=1756195606
     Price: $119.84 USD
   - [Brown / 37](https://milvertons.com/products/rhinestone-high-heels-bag-set-elegant-party-look?variant=46656075956462)
@@ -8714,11 +8714,11 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/rhinestone-high-heels-bag-set-elegant-party-look-524331.webp?v=1756195606
     Price: $119.84 USD
   - [Brown / 41](https://milvertons.com/products/rhinestone-high-heels-bag-set-elegant-party-look?variant=46656076087534)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/rhinestone-high-heels-bag-set-elegant-party-look-524331.webp?v=1756195606
     Price: $119.84 USD
   - [Brown / 42](https://milvertons.com/products/rhinestone-high-heels-bag-set-elegant-party-look?variant=46656076120302)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/rhinestone-high-heels-bag-set-elegant-party-look-524331.webp?v=1756195606
     Price: $119.84 USD
   - [Brown / 43](https://milvertons.com/products/rhinestone-high-heels-bag-set-elegant-party-look?variant=46656076153070)
@@ -8746,11 +8746,11 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/rhinestone-high-heels-bag-set-elegant-party-look-839097.webp?v=1756195606
     Price: $119.84 USD
   - [Sky Blue / 42](https://milvertons.com/products/rhinestone-high-heels-bag-set-elegant-party-look?variant=46656075890926)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/rhinestone-high-heels-bag-set-elegant-party-look-839097.webp?v=1756195606
     Price: $119.84 USD
   - [Sky Blue / 43](https://milvertons.com/products/rhinestone-high-heels-bag-set-elegant-party-look?variant=46656075923694)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/rhinestone-high-heels-bag-set-elegant-party-look-839097.webp?v=1756195606
     Price: $119.84 USD
   - [Wine / 37](https://milvertons.com/products/rhinestone-high-heels-bag-set-elegant-party-look?variant=46656076185838)
@@ -8774,7 +8774,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/rhinestone-high-heels-bag-set-elegant-party-look-184431.webp?v=1756195606
     Price: $119.84 USD
   - [Wine / 42](https://milvertons.com/products/rhinestone-high-heels-bag-set-elegant-party-look?variant=46656074973422)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/rhinestone-high-heels-bag-set-elegant-party-look-184431.webp?v=1756195606
     Price: $119.84 USD
   - [Wine / 43](https://milvertons.com/products/rhinestone-high-heels-bag-set-elegant-party-look?variant=46656075006190)
@@ -9172,17 +9172,17 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/2025-rhinestone-heels-handbag-set-for-weddings-elegant-3803940.webp?v=1751472876
     Price: $120.76 USD
 - [Italian Fashion Heels and Matching Bag Set – 2025 Edition](https://milvertons.com/products/italian-fashion-heels-and-matching-bag-set-2025-edition): Italian Fashion Heels and Matching Bag Set. Elevate your wardrobe with this unique blend of style and craft that sets it apart from ordinary fashion accessories
-  Updated: 2025-10-07T17:19:14Z
+  Updated: 2025-10-11T06:34:04Z
   Vendor: Milvertons
   Product Type: Women - Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-2907553.webp?v=1751969998
   - [Gold / 37](https://milvertons.com/products/italian-fashion-heels-and-matching-bag-set-2025-edition?variant=46717261447406)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-2907553.webp?v=1751969998
     Price: $118.28 USD
   - [Gold / 38](https://milvertons.com/products/italian-fashion-heels-and-matching-bag-set-2025-edition?variant=46717261480174)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-2907553.webp?v=1751969998
     Price: $118.28 USD
   - [Gold / 39](https://milvertons.com/products/italian-fashion-heels-and-matching-bag-set-2025-edition?variant=46717261512942)
@@ -9198,11 +9198,11 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-2907553.webp?v=1751969998
     Price: $118.28 USD
   - [Gold / 42](https://milvertons.com/products/italian-fashion-heels-and-matching-bag-set-2025-edition?variant=46717261611246)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-2907553.webp?v=1751969998
     Price: $118.28 USD
   - [Gold / 43](https://milvertons.com/products/italian-fashion-heels-and-matching-bag-set-2025-edition?variant=46717261644014)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-2907553.webp?v=1751969998
     Price: $118.28 USD
   - [Fuchsia / 37](https://milvertons.com/products/italian-fashion-heels-and-matching-bag-set-2025-edition?variant=46717261840622)
@@ -10521,7 +10521,7 @@
   Updated: 2024-04-16T16:48:12Z
   Total Products: 3
 - [Women's Shoes and Bags Collection](https://milvertons.com/collections/women-shoes-bags): Shop our carefully curated selection of Women's Shoes and Bags. This collection features everything from most feminine designs to timelessly classic styles.
-  Updated: 2025-10-07T09:25:34Z
+  Updated: 2025-10-11T09:26:27Z
   Total Products: 136
 - [Shoes](https://milvertons.com/collections/shoes): Shoes - A gallery of contemporary shoes
   Updated: 2025-09-07T11:03:40Z
@@ -10569,7 +10569,7 @@
   Updated: 2025-10-05T19:25:37Z
   Total Products: 7
 - [All Products](https://milvertons.com/collections/all): Explore our carefully curated collection of products - Women's Shoes and Bags, Women's Clothing, Men's Shoes, Men's Clothing and Clothing Accessories, and more!
-  Updated: 2025-10-10T09:25:44Z
+  Updated: 2025-10-11T09:25:44Z
   Total Products: 162
 - [Gift Cards for your loved ones](https://milvertons.com/collections/gift-cards): Gift Cards - Milvertons e-gift cards for your loved ones, no expiry date, redeemable at checkout.
   Updated: 2025-09-26T06:52:18Z
@@ -10596,14 +10596,14 @@
   Updated: 2023-03-20T02:45:03Z
   Total Products: 0
 - [All Products - Published but OOS](https://milvertons.com/collections/all-products-oos): Out of Stock Products.
-  Updated: 2025-10-07T08:47:27Z
-  Total Products: 157
+  Updated: 2025-10-11T07:08:01Z
+  Total Products: 159
 - [All Products - Published and in stock](https://milvertons.com/collections/all-products-available-in-online-store): All Products - Published, Active and Available in the Online Store Sales Channel,
   Updated: 2025-10-07T08:47:51Z
   Total Products: 191
 - [All Products - OOS](https://milvertons.com/collections/all-products-oos-1): All Products - Out of stock, yet published in Online Store
-  Updated: 2025-10-07T08:47:27Z
-  Total Products: 156
+  Updated: 2025-10-11T07:08:02Z
+  Total Products: 158
 - [All Products - Active and Draft](https://milvertons.com/collections/all-products-active-and-draft): All Products in the store - Active and Draft
   Updated: 2025-10-07T08:47:27Z
   Total Products: 515
@@ -10641,7 +10641,7 @@
   Updated: 2025-09-26T06:52:19Z
   Total Products: 5
 - [Shoes with Matching Bag Sets Collection](https://milvertons.com/collections/shoes-with-matching-bag-sets): Explore our curated collection of shoes with matching bags that combine fashion-forward designs and impeccable craftsmanship. Shop now and complete your ensemble with our exquisite shoe and bag pairings.
-  Updated: 2025-10-04T09:26:10Z
+  Updated: 2025-10-11T09:26:02Z
   Total Products: 56
 - [UpOrder - Recommended Products](https://milvertons.com/collections/spently_products): This collection is used by the UpOrder app, to make product recommendations in your Shopify notification and auto follow up emails. It's important to note that this collection is “hidden”, it is not be visible on your website. By default, your Best-Selling products will be recommended, but you can customize what is recommend by editing the collection. The collection is updated automatically every 4 hours in order to recommend the best products to your customers in your emails. We only recommend products that are in stock, visible online, and have not been purchased by the customer receiving the notification or auto follow-up email. To enable/disable recommendations in your emails, login to the UpOrder app, remove the Recommended Products component, and re-export your template.
   Updated: 2025-10-08T21:18:15Z
@@ -11225,7 +11225,7 @@
     Author: The Milvertons Store
     Tags: bags, best shoe and bag combinations, clothing, dresses, fashion accessories, how to style shoes and bags, matching shoes and bag for women, shoe and bag set for women, shoe matching, shoes, stylish looks, women's clothing, women's fashion, women's shoe and bag set
   - [Harmonizing Women's Fashion with Timeless Dress and Accessory Pairing](https://milvertons.com/blogs/blog/harmonizing-womens-fashion-with-timeless-dress-and-accessory-pairing): Harmonizing Women's Fashion with Timeless Dress and Accessory Pairing
-    Updated: 2025-10-10T09:07:17Z
+    Updated: 2025-10-11T04:38:03Z
     Author: The Milvertons Store
     Tags: accessory styles, bags, clothing, dress pairing, dresses, fashion essentials for women, matching shoes and bag for women, shoe and bag set for women, shoes, stylish outfit combinations, women's clothing, women's fashion, women's shoe and bag set
 
