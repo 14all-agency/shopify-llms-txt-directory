@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2019-08-25T03:49:02Z
 - Contact Email: sales@milvertons.com
-- Updated At: 2025-10-11T16:00:35.635Z
+- Updated At: 2025-10-11T20:00:35.740Z
 
 ## Products
 
@@ -9172,150 +9172,150 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/2025-rhinestone-heels-handbag-set-for-weddings-elegant-3803940.webp?v=1751472876
     Price: $120.76 USD
 - [Italian Fashion Heels and Matching Bag Set – 2025 Edition](https://milvertons.com/products/italian-fashion-heels-and-matching-bag-set-2025-edition): Italian Fashion Heels and Matching Bag Set. Elevate your wardrobe with this unique blend of style and craft that sets it apart from ordinary fashion accessories
-  Updated: 2025-10-11T06:34:04Z
+  Updated: 2025-10-11T16:47:44Z
   Vendor: Milvertons
   Product Type: Women - Shoes
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-2907553.webp?v=1751969998
-  - [Gold / 37](https://milvertons.com/products/italian-fashion-heels-and-matching-bag-set-2025-edition?variant=46717261447406)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-2907553.webp?v=1751969998
-    Price: $118.28 USD
-  - [Gold / 38](https://milvertons.com/products/italian-fashion-heels-and-matching-bag-set-2025-edition?variant=46717261480174)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-2907553.webp?v=1751969998
-    Price: $118.28 USD
-  - [Gold / 39](https://milvertons.com/products/italian-fashion-heels-and-matching-bag-set-2025-edition?variant=46717261512942)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-2907553.webp?v=1751969998
-    Price: $118.28 USD
-  - [Gold / 40](https://milvertons.com/products/italian-fashion-heels-and-matching-bag-set-2025-edition?variant=46717261545710)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-2907553.webp?v=1751969998
-    Price: $118.28 USD
-  - [Gold / 41](https://milvertons.com/products/italian-fashion-heels-and-matching-bag-set-2025-edition?variant=46717261578478)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-2907553.webp?v=1751969998
-    Price: $118.28 USD
-  - [Gold / 42](https://milvertons.com/products/italian-fashion-heels-and-matching-bag-set-2025-edition?variant=46717261611246)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-2907553.webp?v=1751969998
-    Price: $118.28 USD
-  - [Gold / 43](https://milvertons.com/products/italian-fashion-heels-and-matching-bag-set-2025-edition?variant=46717261644014)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-2907553.webp?v=1751969998
-    Price: $118.28 USD
+  Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-1411705.webp?v=1760201236
   - [Fuchsia / 37](https://milvertons.com/products/italian-fashion-heels-and-matching-bag-set-2025-edition?variant=46717261840622)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-1411705.webp?v=1751969996
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-1411705.webp?v=1760201236
     Price: $118.28 USD
   - [Fuchsia / 38](https://milvertons.com/products/italian-fashion-heels-and-matching-bag-set-2025-edition?variant=46717261873390)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-1411705.webp?v=1751969996
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-1411705.webp?v=1760201236
     Price: $118.28 USD
   - [Fuchsia / 39](https://milvertons.com/products/italian-fashion-heels-and-matching-bag-set-2025-edition?variant=46717261906158)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-1411705.webp?v=1751969996
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-1411705.webp?v=1760201236
     Price: $118.28 USD
   - [Fuchsia / 40](https://milvertons.com/products/italian-fashion-heels-and-matching-bag-set-2025-edition?variant=46717261938926)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-1411705.webp?v=1751969996
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-1411705.webp?v=1760201236
     Price: $118.28 USD
   - [Fuchsia / 41](https://milvertons.com/products/italian-fashion-heels-and-matching-bag-set-2025-edition?variant=46717261971694)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-1411705.webp?v=1751969996
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-1411705.webp?v=1760201236
     Price: $118.28 USD
   - [Fuchsia / 42](https://milvertons.com/products/italian-fashion-heels-and-matching-bag-set-2025-edition?variant=46717262004462)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-1411705.webp?v=1751969996
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-1411705.webp?v=1760201236
     Price: $118.28 USD
   - [Fuchsia / 43](https://milvertons.com/products/italian-fashion-heels-and-matching-bag-set-2025-edition?variant=46717262037230)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-1411705.webp?v=1751969996
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-1411705.webp?v=1760201236
     Price: $118.28 USD
   - [Blue / 37](https://milvertons.com/products/italian-fashion-heels-and-matching-bag-set-2025-edition?variant=46717262463214)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-4354300.webp?v=1751970038
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-4354300.webp?v=1760201236
     Price: $118.28 USD
   - [Blue / 38](https://milvertons.com/products/italian-fashion-heels-and-matching-bag-set-2025-edition?variant=46717262495982)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-4354300.webp?v=1751970038
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-4354300.webp?v=1760201236
     Price: $118.28 USD
   - [Blue / 39](https://milvertons.com/products/italian-fashion-heels-and-matching-bag-set-2025-edition?variant=46717262528750)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-4354300.webp?v=1751970038
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-4354300.webp?v=1760201236
     Price: $118.28 USD
   - [Blue / 40](https://milvertons.com/products/italian-fashion-heels-and-matching-bag-set-2025-edition?variant=46717262561518)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-4354300.webp?v=1751970038
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-4354300.webp?v=1760201236
     Price: $118.28 USD
   - [Blue / 41](https://milvertons.com/products/italian-fashion-heels-and-matching-bag-set-2025-edition?variant=46717261742318)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-4354300.webp?v=1751970038
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-4354300.webp?v=1760201236
     Price: $118.28 USD
   - [Blue / 42](https://milvertons.com/products/italian-fashion-heels-and-matching-bag-set-2025-edition?variant=46717261775086)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-4354300.webp?v=1751970038
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-4354300.webp?v=1760201236
     Price: $118.28 USD
   - [Blue / 43](https://milvertons.com/products/italian-fashion-heels-and-matching-bag-set-2025-edition?variant=46717261807854)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-4354300.webp?v=1751970038
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-4354300.webp?v=1760201236
     Price: $118.28 USD
   - [Red / 37](https://milvertons.com/products/italian-fashion-heels-and-matching-bag-set-2025-edition?variant=46717262233838)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-1351785.webp?v=1751969997
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-1351785.webp?v=1760201236
     Price: $118.28 USD
   - [Red / 38](https://milvertons.com/products/italian-fashion-heels-and-matching-bag-set-2025-edition?variant=46717262266606)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-1351785.webp?v=1751969997
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-1351785.webp?v=1760201236
     Price: $118.28 USD
   - [Red / 39](https://milvertons.com/products/italian-fashion-heels-and-matching-bag-set-2025-edition?variant=46717262299374)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-1351785.webp?v=1751969997
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-1351785.webp?v=1760201236
     Price: $118.28 USD
   - [Red / 40](https://milvertons.com/products/italian-fashion-heels-and-matching-bag-set-2025-edition?variant=46717262332142)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-1351785.webp?v=1751969997
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-1351785.webp?v=1760201236
     Price: $118.28 USD
   - [Red / 41](https://milvertons.com/products/italian-fashion-heels-and-matching-bag-set-2025-edition?variant=46717262364910)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-1351785.webp?v=1751969997
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-1351785.webp?v=1760201236
     Price: $118.28 USD
   - [Red / 42](https://milvertons.com/products/italian-fashion-heels-and-matching-bag-set-2025-edition?variant=46717262397678)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-1351785.webp?v=1751969997
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-1351785.webp?v=1760201236
     Price: $118.28 USD
   - [Red / 43](https://milvertons.com/products/italian-fashion-heels-and-matching-bag-set-2025-edition?variant=46717262430446)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-1351785.webp?v=1751969997
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-1351785.webp?v=1760201236
     Price: $118.28 USD
   - [Black / 37](https://milvertons.com/products/italian-fashion-heels-and-matching-bag-set-2025-edition?variant=46717261676782)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-6005781.webp?v=1751969997
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-6005781.webp?v=1760201236
     Price: $118.28 USD
   - [Black / 38](https://milvertons.com/products/italian-fashion-heels-and-matching-bag-set-2025-edition?variant=46717261709550)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-6005781.webp?v=1751969997
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-6005781.webp?v=1760201236
     Price: $118.28 USD
   - [Black / 39](https://milvertons.com/products/italian-fashion-heels-and-matching-bag-set-2025-edition?variant=46717262069998)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-6005781.webp?v=1751969997
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-6005781.webp?v=1760201236
     Price: $118.28 USD
   - [Black / 40](https://milvertons.com/products/italian-fashion-heels-and-matching-bag-set-2025-edition?variant=46717262102766)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-6005781.webp?v=1751969997
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-6005781.webp?v=1760201236
     Price: $118.28 USD
   - [Black / 41](https://milvertons.com/products/italian-fashion-heels-and-matching-bag-set-2025-edition?variant=46717262135534)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-6005781.webp?v=1751969997
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-6005781.webp?v=1760201236
     Price: $118.28 USD
   - [Black / 42](https://milvertons.com/products/italian-fashion-heels-and-matching-bag-set-2025-edition?variant=46717262168302)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-6005781.webp?v=1751969997
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-6005781.webp?v=1760201236
     Price: $118.28 USD
   - [Black / 43](https://milvertons.com/products/italian-fashion-heels-and-matching-bag-set-2025-edition?variant=46717262201070)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-6005781.webp?v=1751969997
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-6005781.webp?v=1760201236
+    Price: $118.28 USD
+  - [Gold / 37](https://milvertons.com/products/italian-fashion-heels-and-matching-bag-set-2025-edition?variant=46717261447406)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-2907553.webp?v=1760201236
+    Price: $118.28 USD
+  - [Gold / 38](https://milvertons.com/products/italian-fashion-heels-and-matching-bag-set-2025-edition?variant=46717261480174)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-2907553.webp?v=1760201236
+    Price: $118.28 USD
+  - [Gold / 39](https://milvertons.com/products/italian-fashion-heels-and-matching-bag-set-2025-edition?variant=46717261512942)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-2907553.webp?v=1760201236
+    Price: $118.28 USD
+  - [Gold / 40](https://milvertons.com/products/italian-fashion-heels-and-matching-bag-set-2025-edition?variant=46717261545710)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-2907553.webp?v=1760201236
+    Price: $118.28 USD
+  - [Gold / 41](https://milvertons.com/products/italian-fashion-heels-and-matching-bag-set-2025-edition?variant=46717261578478)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-2907553.webp?v=1760201236
+    Price: $118.28 USD
+  - [Gold / 42](https://milvertons.com/products/italian-fashion-heels-and-matching-bag-set-2025-edition?variant=46717261611246)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-2907553.webp?v=1760201236
+    Price: $118.28 USD
+  - [Gold / 43](https://milvertons.com/products/italian-fashion-heels-and-matching-bag-set-2025-edition?variant=46717261644014)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-fashion-heels-and-matching-bag-set-2025-edition-2907553.webp?v=1760201236
     Price: $118.28 USD
   - [Multi Color / 37](https://milvertons.com/products/italian-fashion-heels-and-matching-bag-set-2025-edition?variant=46717261218030)
     Availability: Available
