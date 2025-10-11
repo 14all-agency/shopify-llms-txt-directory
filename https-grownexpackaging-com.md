@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2024-09-16T12:02:11Z
 - Contact Email: online@grownexpackaging.com
-- Updated At: 2025-10-10T20:00:34.989Z
+- Updated At: 2025-10-11T08:00:35.417Z
 
 ## Products
 
@@ -5434,7 +5434,7 @@
     Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/118.jpg?v=1759584639
     Price: ₹21,999.00 INR
 - [Stylish Blue Bird Print Hamper Baskets - Quality Cardboard | Grownex Packaging](https://grownexpackaging.com/products/blue-bird-print-room-hamper-basket): Stylish and sturdy cardboard gift basket perfect for festive hampers, sweets, or dry fruit packaging. Ideal for Diwali, weddings, and corporate gifting.
-  Updated: 2025-10-10T12:25:08Z
+  Updated: 2025-10-10T21:28:50Z
   Vendor: Grownex Packaging
   Product Type: Basket & Tray
   Availability: Available
@@ -5488,7 +5488,7 @@
     Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/SUB_6948_5830a73b-f932-448d-b77a-e5402706adf4.jpg?v=1760088521
     Price: ₹7,559.00 INR
 - [Grownex Red Elephant Print Hamper Basket Set - Durable & Stylish Packaging](https://grownexpackaging.com/products/red-elephant-print-room-hamper-basket): Beautifully crafted cardboard gift baskets for all your festive packaging needs – durable, eco-conscious, and perfect for celebrations
-  Updated: 2025-10-10T12:25:08Z
+  Updated: 2025-10-10T21:28:33Z
   Vendor: Grownex Packaging
   Product Type: Basket & Tray
   Availability: Available
@@ -6064,7 +6064,7 @@
     Availability: Not Available
     Price: ₹599.00 INR
 - [8x8 inch Decorative Hamper Packing Baskets- Royal Blue](https://grownexpackaging.com/products/floral-blue-basket-setof3): Luxurious Diwali hamper packaging that elevates your gifting experience. Designed for elegance, ideal for sweets, dry fruits & premium festive gifts.
-  Updated: 2025-10-10T12:25:08Z
+  Updated: 2025-10-10T21:27:49Z
   Vendor: Grownex Packaging
   Product Type: Basket & Tray
   Availability: Available
