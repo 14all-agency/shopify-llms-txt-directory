@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-03-19T17:46:58Z
 - Contact Email: info@patundpatty.de
-- Updated At: 2025-10-11T08:00:33.382Z
+- Updated At: 2025-10-11T09:25:30.275Z
 
 ## Products
 
@@ -1245,7 +1245,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio_Schmusetuch_Einhorn_-_PAT_PATTY-4831697.jpg?v=1730653447
     Price: 32,50 € EUR
 - [Personalisiertes Bio-Schmusetuch Fliegenpilz weich und fair](https://patundpatty.de/products/bio-schmusetuch-fliegenpilz): Personalisiertes Bio-Schmusetuch Fliegenpilz – weich, handgemacht, schadstofffrei und nachhaltig. Perfekt zum Kuscheln und als Geschenk. Jetzt bei PAT & PATTY!
-  Updated: 2025-10-01T19:06:30Z
+  Updated: 2025-10-11T08:23:22Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
