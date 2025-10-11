@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2016-12-13T16:55:39Z
 - Contact Email: sticky@stickybesocks.com
-- Updated At: 2025-10-10T16:00:34.590Z
+- Updated At: 2025-10-11T08:00:34.266Z
 
 ## Products
 
 - [Buy Mens Be Strong Grip Socks (Black/Slate) Non-Slip Grip Socks for Pilates, Yoga, Barre | Sticky Be Socks](https://stickybesocks.com/products/mens-be-strong-grip-socks-black-slate): Sticky Be Socks makes the best non slip, grip socks for yoga, pilates, barre, the gym, or cozy weekends at home. These sticky bottom, grip socks make the perfect gift for teens and adults of any age Mens Be Strong Grip Socks (Black/Slate).
-  Updated: 2025-10-09T18:44:30Z
+  Updated: 2025-10-10T20:27:17Z
   Vendor: Sticky Be Socks
   Product Type: Socks
   Availability: Available
@@ -25,14 +25,14 @@
   Image: https://cdn.shopify.com/s/files/1/1656/1539/files/1209_StickyBeSocks_250210.jpg?v=1754603533
   Price: $20.00 USD
 - [Buy Be Strong Grip Socks (Black/White) Non-Slip Grip Socks for Pilates, Yoga, Barre | Sticky Be Socks](https://stickybesocks.com/products/be-strong-grip-socks-black-white): Sticky Be Socks makes the best non slip, grip socks for yoga, pilates, barre, the gym, or cozy weekends at home. These sticky bottom, grip socks make the perfect gift for teens and adults of any age Be Strong Grip Socks (Black/White).
-  Updated: 2025-10-10T13:58:03Z
+  Updated: 2025-10-11T02:26:07Z
   Vendor: Sticky Be Socks
   Product Type: Socks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/1539/files/39_StickyBeSocks_250210.jpg?v=1743595180
   Price: $15.00 USD
 - [Buy Be You Grip Socks (Black/White) Non-Slip Grip Socks for Pilates, Yoga, Barre | Sticky Be Socks](https://stickybesocks.com/products/be-you-grip-socks-black-white): Sticky Be Socks makes the best non slip, grip socks for yoga, pilates, barre, the gym, or cozy weekends at home. These sticky bottom, grip socks make the perfect gift for teens and adults of any age Be You Grip Socks (Black/White).
-  Updated: 2025-10-10T13:57:56Z
+  Updated: 2025-10-11T02:26:05Z
   Vendor: Sticky Be Socks
   Product Type: Socks
   Availability: Available
@@ -60,7 +60,7 @@
   Image: https://cdn.shopify.com/s/files/1/1656/1539/products/BE_LOVE_Legwarmer_Marble_REWORK_1200x1200_56de871b-2558-4ac6-97ad-25959724cac7.jpg?v=1531629990
   Price: $33.00 USD
 - [Buy Be Love Stirrup Grip Leg Warmers (Black/White) Non-Slip Grip Socks for Pilates, Yoga, Barre | Sticky Be Socks](https://stickybesocks.com/products/be-love-stirrup-grip-leg-warmers-black-white): Sticky Be Socks makes the best non slip, grip socks for yoga, pilates, barre, the gym, or cozy weekends at home. These sticky bottom, grip socks make the perfect gift for teens and adults of any age Be Love Stirrup Grip Leg Warmers (Black/White).
-  Updated: 2025-08-20T16:32:21Z
+  Updated: 2025-10-11T02:26:07Z
   Vendor: Sticky Be Socks
   Product Type: Leg Warmers
   Availability: Available
@@ -187,7 +187,7 @@
   Image: https://cdn.shopify.com/s/files/1/1656/1539/files/1250_StickyBeSocks_250210.jpg?v=1743595112
   Price: $20.00 USD
 - [Buy Mens Crew Be Chill Grip Socks (Navy/Charcoal) Non-Slip Grip Socks for Pilates, Yoga, Barre | Sticky Be Socks](https://stickybesocks.com/products/mens-crew-be-chill-grip-socks-navy-charcoal): Sticky Be Socks makes the best non slip, grip socks for yoga, pilates, barre, the gym, or cozy weekends at home. These sticky bottom, grip socks make the perfect gift for teens and adults of any age Mens Crew Be Chill Grip Socks (Navy/Charcoal).
-  Updated: 2025-10-09T19:50:31Z
+  Updated: 2025-10-11T02:26:06Z
   Vendor: Sticky Be Socks
   Product Type: Socks
   Availability: Available
@@ -229,7 +229,7 @@
   Image: https://cdn.shopify.com/s/files/1/1656/1539/products/190611_Sticky_Be_Socks_051_600x600_b17735d1-7cc5-4861-b672-5ea7dc932056.jpg?v=1563497700
   Price: $7.00 USD
 - [Buy Be Present Knee High Socks (Black/Teal) Non-Slip Grip Socks for Pilates, Yoga, Barre | Sticky Be Socks](https://stickybesocks.com/products/be-present-knee-high-socks-black-teal): Sticky Be Socks makes the best non slip, grip socks for yoga, pilates, barre, the gym, or cozy weekends at home. These sticky bottom, grip socks make the perfect gift for teens and adults of any age Be Present Knee High Socks (Black/Teal).
-  Updated: 2025-10-08T19:20:25Z
+  Updated: 2025-10-11T04:59:45Z
   Vendor: Sticky Be Socks
   Product Type: Socks
   Availability: Available
@@ -306,7 +306,7 @@
   Image: https://cdn.shopify.com/s/files/1/1656/1539/products/Kids_4T-6T_BeStrongBeChill_BlueGrey_SBSWeb_July2020_600x600_acfd4312-c478-4ddb-ad79-b0ea7c3b3400.jpg?v=1595372568
   Price: $16.00 USD
 - [Buy Be Happy Marlowe Grip Socks (Hibiscus) Non-Slip Grip Socks for Pilates, Yoga, Barre | Sticky Be Socks](https://stickybesocks.com/products/new-be-happy-grip-socks): Sticky Be Socks makes the best non slip, grip socks for yoga, pilates, barre, the gym, or cozy weekends at home. These sticky bottom, grip socks make the perfect gift for teens and adults of any age Be Happy Marlowe Grip Socks (Hibiscus).
-  Updated: 2025-10-10T13:57:56Z
+  Updated: 2025-10-11T02:26:09Z
   Vendor: Sticky Be Socks
   Product Type: Socks
   Availability: Available
@@ -319,7 +319,7 @@
   Availability: Available
   Price: $0.00 USD
 - [Buy Be Grateful Grip Socks (Navy/White) Non-Slip Grip Socks for Pilates, Yoga, Barre | Sticky Be Socks](https://stickybesocks.com/products/be-grateful-grip-socks-navy-white): Sticky Be Socks makes the best non slip, grip socks for yoga, pilates, barre, the gym, or cozy weekends at home. These sticky bottom, grip socks make the perfect gift for teens and adults of any age Be Grateful Grip Socks (Navy/White).
-  Updated: 2025-10-10T13:57:56Z
+  Updated: 2025-10-11T04:59:42Z
   Vendor: Sticky Be Socks
   Product Type: Socks
   Availability: Available
@@ -333,7 +333,7 @@
   Image: https://cdn.shopify.com/s/files/1/1656/1539/files/Copy_of_Copy_of_Copy_of_MOBILE_OPTIMIZED_IMAGE_SIZE_2000_x_1400_px_29.png?v=1744056688
   Price: $34.00 USD
 - [Buy Mens Be Strong Grip Socks (Hunter) Non-Slip Grip Socks for Pilates, Yoga, Barre | Sticky Be Socks](https://stickybesocks.com/products/mens-be-strong-grip-socks-hunter): Sticky Be Socks makes the best non slip, grip socks for yoga, pilates, barre, the gym, or cozy weekends at home. These sticky bottom, grip socks make the perfect gift for teens and adults of any age Mens Be Strong Grip Socks (Hunter).
-  Updated: 2025-10-09T23:40:12Z
+  Updated: 2025-10-11T02:26:07Z
   Vendor: Sticky Be Socks
   Product Type: Socks
   Availability: Available
@@ -347,7 +347,7 @@
   Image: https://cdn.shopify.com/s/files/1/1656/1539/products/MensSocks_BeReal_blue-0100_Front_600x600web.jpg?v=1604632142
   Price: $10.00 USD
 - [Buy Mens Crew Be Bold Grip Socks (Forest) Non-Slip Grip Socks for Pilates, Yoga, Barre | Sticky Be Socks](https://stickybesocks.com/products/mens-crew-be-bold-grip-socks-forest): Sticky Be Socks makes the best non slip, grip socks for yoga, pilates, barre, the gym, or cozy weekends at home. These sticky bottom, grip socks make the perfect gift for teens and adults of any age Mens Crew Be Bold Grip Socks (Forest).
-  Updated: 2025-10-07T21:37:53Z
+  Updated: 2025-10-11T02:26:07Z
   Vendor: Sticky Be Socks
   Product Type: Socks
   Availability: Available
@@ -368,7 +368,7 @@
   Image: https://cdn.shopify.com/s/files/1/1656/1539/products/STICKYBEFALL21-P0747.jpg?v=1743600309
   Price: $16.00 USD
 - [Buy **No Show** Be Bold Quinn Grip Socks (Sparrow) Non-Slip Grip Socks for Pilates, Yoga, Barre | Sticky Be Socks](https://stickybesocks.com/products/no-show-be-bold-quinn-grip-socks-sparrow): Sticky Be Socks makes the best non slip, grip socks for yoga, pilates, barre, the gym, or cozy weekends at home. These sticky bottom, grip socks make the perfect gift for teens and adults of any age **No Show** Be Bold Quinn Grip Socks (Sparrow).
-  Updated: 2025-10-01T01:49:45Z
+  Updated: 2025-10-10T19:18:28Z
   Vendor: Sticky Be Socks
   Product Type: Socks
   Availability: Available
@@ -473,7 +473,7 @@
   Image: https://cdn.shopify.com/s/files/1/1656/1539/files/Copy_of_Copy_of_Copy_of_MOBILE_OPTIMIZED_IMAGE_SIZE_2000_x_1400_px_35.png?v=1744057760
   Price: $33.00 USD
 - [Buy Mens Be You Grip Socks (Metal) Non-Slip Grip Socks for Pilates, Yoga, Barre | Sticky Be Socks](https://stickybesocks.com/products/mens-be-present-grip-socks-metal): Sticky Be Socks makes the best non slip, grip socks for yoga, pilates, barre, the gym, or cozy weekends at home. These sticky bottom, grip socks make the perfect gift for teens and adults of any age Mens Be You Grip Socks (Metal).
-  Updated: 2025-10-06T22:01:06Z
+  Updated: 2025-10-11T03:13:40Z
   Vendor: Sticky Be Socks
   Product Type: Socks
   Availability: Available
@@ -550,49 +550,49 @@
   Image: https://cdn.shopify.com/s/files/1/1656/1539/files/1094_StickyBeSocks_230731.jpg?v=1743595012
   Price: $16.00 USD
 - [Buy Half Toe Be Grateful Marbled Grip Socks (Mystic) Non-Slip Grip Socks for Pilates, Yoga, Barre | Sticky Be Socks](https://stickybesocks.com/products/half-toe-be-grateful-marbled-grip-socks): Sticky Be Socks makes the best non slip, grip socks for yoga, pilates, barre, the gym, or cozy weekends at home. These sticky bottom, grip socks make the perfect gift for teens and adults of any age Half Toe Be Grateful Marbled Grip Socks (Mystic).
-  Updated: 2025-10-06T22:01:09Z
+  Updated: 2025-10-10T20:27:17Z
   Vendor: Sticky Be Socks
   Product Type: Socks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/1539/files/1010_Sticky_Be_Socks_230731.jpg?v=1744056760
   Price: $16.00 USD
 - [Buy Mens Crew Be Strong Grip Socks (Black/White) Non-Slip Grip Socks for Pilates, Yoga, Barre | Sticky Be Socks](https://stickybesocks.com/products/mens-crew-be-strong-grip-socks-black-white): Sticky Be Socks makes the best non slip, grip socks for yoga, pilates, barre, the gym, or cozy weekends at home. These sticky bottom, grip socks make the perfect gift for teens and adults of any age Mens Crew Be Strong Grip Socks (Black/White).
-  Updated: 2025-10-07T21:37:51Z
+  Updated: 2025-10-11T02:26:05Z
   Vendor: Sticky Be Socks
   Product Type: Socks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/1539/files/IMG_3027.jpg?v=1744057927
   Price: $21.00 USD
 - [Buy Half Toe Be Happy Grip Socks (Shine) Non-Slip Grip Socks for Pilates, Yoga, Barre | Sticky Be Socks](https://stickybesocks.com/products/half-toe-be-happy-marbled-grip-socks-shine): Sticky Be Socks makes the best non slip, grip socks for yoga, pilates, barre, the gym, or cozy weekends at home. These sticky bottom, grip socks make the perfect gift for teens and adults of any age Half Toe Be Happy Grip Socks (Shine).
-  Updated: 2025-10-03T01:27:47Z
+  Updated: 2025-10-11T02:26:06Z
   Vendor: Sticky Be Socks
   Product Type: Socks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/1539/files/Copy_of_Copy_of_Copy_of_MOBILE_OPTIMIZED_IMAGE_SIZE_2000_x_1400_px_33.png?v=1744057386
   Price: $16.00 USD
 - [Buy **No Show** Be Bold Grip Socks (Buff) Non-Slip Grip Socks for Pilates, Yoga, Barre | Sticky Be Socks](https://stickybesocks.com/products/no-show-be-bold-grip-socks): Sticky Be Socks makes the best non slip, grip socks for yoga, pilates, barre, the gym, or cozy weekends at home. These sticky bottom, grip socks make the perfect gift for teens and adults of any age **No Show** Be Bold Grip Socks (Buff).
-  Updated: 2025-10-01T01:49:46Z
+  Updated: 2025-10-10T17:23:42Z
   Vendor: Sticky Be Socks
   Product Type: Socks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/1539/files/Websize_product_2_749c1669-55a5-47d1-a341-137d9986bed1.png?v=1756757973
   Price: $15.00 USD
 - [Buy Be You Mary Jane Grip Socks (Snap) Non-Slip Grip Socks for Pilates, Yoga, Barre | Sticky Be Socks](https://stickybesocks.com/products/be-you-mary-jane-grip-socks): Sticky Be Socks makes the best non slip, grip socks for yoga, pilates, barre, the gym, or cozy weekends at home. These sticky bottom, grip socks make the perfect gift for teens and adults of any age Be You Mary Jane Grip Socks (Snap).
-  Updated: 2025-10-07T19:07:21Z
+  Updated: 2025-10-11T04:59:42Z
   Vendor: Sticky Be Socks
   Product Type: Socks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/1539/files/1022_Sticky_Be_Socks_230731_f351ca84-2ee7-46ba-9150-1886cfb37962.jpg?v=1743595414
   Price: $16.00 USD
 - [Buy **10-13** Be Positive Althea Grip Socks (Candy) Non-Slip Grip Socks for Pilates, Yoga, Barre | Sticky Be Socks](https://stickybesocks.com/products/10-13-be-bright-xx-grip-socks-candy): Sticky Be Socks makes the best non slip, grip socks for yoga, pilates, barre, the gym, or cozy weekends at home. These sticky bottom, grip socks make the perfect gift for teens and adults of any age **10-13** Be Positive Althea Grip Socks (Candy).
-  Updated: 2025-10-07T23:10:52Z
+  Updated: 2025-10-11T02:26:07Z
   Vendor: Sticky Be Socks
   Product Type: Socks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/1539/products/187_230228_BePositive_Front_1500x1500_8bdba3df-5e33-498c-91d1-3b08b06f40c5.jpg?v=1678758599
   Price: $16.00 USD
 - [Buy **10-13** Be Strong Stellar Grip Socks (Lapis) Non-Slip Grip Socks for Pilates, Yoga, Barre | Sticky Be Socks](https://stickybesocks.com/products/10-13-be-you-stellar-grip-socks-candy): Sticky Be Socks makes the best non slip, grip socks for yoga, pilates, barre, the gym, or cozy weekends at home. These sticky bottom, grip socks make the perfect gift for teens and adults of any age **10-13** Be Strong Stellar Grip Socks (Lapis).
-  Updated: 2025-10-08T16:59:41Z
+  Updated: 2025-10-11T02:26:06Z
   Vendor: Sticky Be Socks
   Product Type: Socks
   Availability: Available
@@ -606,7 +606,7 @@
   Image: https://cdn.shopify.com/s/files/1/1656/1539/files/460_Sticky_Be_Socks_230731.jpg?v=1744057939
   Price: $21.00 USD
 - [Buy Mens Be Focused *13-17* Grip Socks (Oxford) Non-Slip Grip Socks for Pilates, Yoga, Barre | Sticky Be Socks](https://stickybesocks.com/products/mens-be-focused-13-17-grip-socks-oxford): Sticky Be Socks makes the best non slip, grip socks for yoga, pilates, barre, the gym, or cozy weekends at home. These sticky bottom, grip socks make the perfect gift for teens and adults of any age Mens Be Focused *13-17* Grip Socks (Oxford).
-  Updated: 2025-10-08T04:16:25Z
+  Updated: 2025-10-11T02:26:06Z
   Vendor: Sticky Be Socks
   Product Type: Socks
   Availability: Available
@@ -655,7 +655,7 @@
   Image: https://cdn.shopify.com/s/files/1/1656/1539/files/531_Sticky_Be_Socks_230731.jpg?v=1756757225
   Price: $16.00 USD
 - [Buy Be Grateful Luna Grip Socks (Taffy) Non-Slip Grip Socks for Pilates, Yoga, Barre | Sticky Be Socks](https://stickybesocks.com/products/be-grateful-luna-grip-socks-taffy): Sticky Be Socks makes the best non slip, grip socks for yoga, pilates, barre, the gym, or cozy weekends at home. These sticky bottom, grip socks make the perfect gift for teens and adults of any age Be Grateful Luna Grip Socks (Taffy).
-  Updated: 2025-10-08T16:44:51Z
+  Updated: 2025-10-11T04:59:45Z
   Vendor: Sticky Be Socks
   Product Type: Socks
   Availability: Available
@@ -732,7 +732,7 @@
   Image: https://cdn.shopify.com/s/files/1/1656/1539/files/BeGrateful_Front_1500x1500_319292.jpg?v=1745521520
   Price: $16.00 USD
 - [Buy Be Unique Marlowe Grip Socks (Beach) Non-Slip Grip Socks for Pilates, Yoga, Barre | Sticky Be Socks](https://stickybesocks.com/products/be-unique-marlowe-grip-socks-sand): Sticky Be Socks makes the best non slip, grip socks for yoga, pilates, barre, the gym, or cozy weekends at home. These sticky bottom, grip socks make the perfect gift for teens and adults of any age Be Unique Marlowe Grip Socks (Beach).
-  Updated: 2025-10-10T13:57:57Z
+  Updated: 2025-10-11T02:26:06Z
   Vendor: Sticky Be Socks
   Product Type: Socks
   Availability: Available
@@ -851,7 +851,7 @@
   Image: https://cdn.shopify.com/s/files/1/1656/1539/files/BeStrong-10_13_Front_1500x1500_3268149.jpg?v=1695947225
   Price: $16.00 USD
 - [Buy Short Crew Be Confident Grip Socks (Heather/Star) Non-Slip Grip Socks for Pilates, Yoga, Barre | Sticky Be Socks](https://stickybesocks.com/products/short-crew-be-positive-grip-socks-black-orchid): Sticky Be Socks makes the best non slip, grip socks for yoga, pilates, barre, the gym, or cozy weekends at home. These sticky bottom, grip socks make the perfect gift for teens and adults of any age Short Crew Be Confident Grip Socks (Heather/Star).
-  Updated: 2025-10-06T22:01:06Z
+  Updated: 2025-10-11T02:26:07Z
   Vendor: Sticky Be Socks
   Product Type: Socks
   Availability: Available
@@ -865,14 +865,14 @@
   Image: https://cdn.shopify.com/s/files/1/1656/1539/files/Copy_of_Copy_of_Copy_of_MOBILE_OPTIMIZED_IMAGE_SIZE_2000_x_1400_px_24.png?v=1744056280
   Price: $18.00 USD
 - [Buy Mens Be Focused *13-17* Grip Socks (Loch) Non-Slip Grip Socks for Pilates, Yoga, Barre | Sticky Be Socks](https://stickybesocks.com/products/mens-be-focused-13-17-grip-socks-loch): Sticky Be Socks makes the best non slip, grip socks for yoga, pilates, barre, the gym, or cozy weekends at home. These sticky bottom, grip socks make the perfect gift for teens and adults of any age Mens Be Focused *13-17* Grip Socks (Loch).
-  Updated: 2025-10-09T18:44:30Z
+  Updated: 2025-10-11T02:26:07Z
   Vendor: Sticky Be Socks
   Product Type: Socks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/1539/files/Mens_BeFocused_13_17_Front_1500x1500_332217.jpg?v=1695945832
   Price: $19.00 USD
 - [Buy Mens Be Present Grip Socks (Cloud) Non-Slip Grip Socks for Pilates, Yoga, Barre | Sticky Be Socks](https://stickybesocks.com/products/mens-be-present-grip-socks-cloud): Sticky Be Socks makes the best non slip, grip socks for yoga, pilates, barre, the gym, or cozy weekends at home. These sticky bottom, grip socks make the perfect gift for teens and adults of any age Mens Be Present Grip Socks (Cloud).
-  Updated: 2025-10-07T19:22:49Z
+  Updated: 2025-10-10T17:23:38Z
   Vendor: Sticky Be Socks
   Product Type: Socks
   Availability: Available
@@ -998,7 +998,7 @@
   Image: https://cdn.shopify.com/s/files/1/1656/1539/files/583_StickyBeSocks_230731.jpg?v=1743777055
   Price: $16.00 USD
 - [Buy Be Thankful Marbled Grip Socks (Lilac) Non-Slip Grip Socks for Pilates, Yoga, Barre | Sticky Be Socks](https://stickybesocks.com/products/be-thankful-marbled-grip-socks-lilac): Sticky Be Socks makes the best non slip, grip socks for yoga, pilates, barre, the gym, or cozy weekends at home. These sticky bottom, grip socks make the perfect gift for teens and adults of any age Be Thankful Marbled Grip Socks (Lilac).
-  Updated: 2025-10-10T13:57:57Z
+  Updated: 2025-10-11T04:59:42Z
   Vendor: Sticky Be Socks
   Product Type: Socks
   Availability: Available
@@ -1026,7 +1026,7 @@
   Image: https://cdn.shopify.com/s/files/1/1656/1539/files/842_StickyBeSocks_250210.jpg?v=1743777132
   Price: $15.00 USD
 - [Buy Be Amazing Whimsy Grip Socks (Rain) Non-Slip Grip Socks for Pilates, Yoga, Barre | Sticky Be Socks](https://stickybesocks.com/products/be-amazing-whimsy-grip-socks): Sticky Be Socks makes the best non slip, grip socks for yoga, pilates, barre, the gym, or cozy weekends at home. These sticky bottom, grip socks make the perfect gift for teens and adults of any age Be Amazing Whimsy Grip Socks (Rain).
-  Updated: 2025-10-10T13:57:57Z
+  Updated: 2025-10-11T04:59:42Z
   Vendor: Sticky Be Socks
   Product Type: Socks
   Availability: Available
@@ -1040,7 +1040,7 @@
   Image: https://cdn.shopify.com/s/files/1/1656/1539/files/1369_StickyBeSocks_250210.jpg?v=1745444352
   Price: $16.00 USD
 - [Buy Be Mindful Laila Grip Socks (Island) Non-Slip Grip Socks for Pilates, Yoga, Barre | Sticky Be Socks](https://stickybesocks.com/products/be-mindful-laila-grip-socks-island): Sticky Be Socks makes the best non slip, grip socks for yoga, pilates, barre, the gym, or cozy weekends at home. These sticky bottom, grip socks make the perfect gift for teens and adults of any age Be Mindful Laila Grip Socks (Island).
-  Updated: 2025-10-10T13:58:02Z
+  Updated: 2025-10-10T18:06:16Z
   Vendor: Sticky Be Socks
   Product Type: Socks
   Availability: Available
@@ -1054,7 +1054,7 @@
   Image: https://cdn.shopify.com/s/files/1/1656/1539/files/Websize_product_1.png?v=1756756856
   Price: $16.00 USD
 - [Buy Be Positive Laila Grip Socks (Cove) Non-Slip Grip Socks for Pilates, Yoga, Barre | Sticky Be Socks](https://stickybesocks.com/products/be-positve-laila-grip-socks): Sticky Be Socks makes the best non slip, grip socks for yoga, pilates, barre, the gym, or cozy weekends at home. These sticky bottom, grip socks make the perfect gift for teens and adults of any age Be Positive Laila Grip Socks (Cove).
-  Updated: 2025-10-10T13:57:57Z
+  Updated: 2025-10-11T04:59:45Z
   Vendor: Sticky Be Socks
   Product Type: Socks
   Availability: Available
@@ -1075,7 +1075,7 @@
   Image: https://cdn.shopify.com/s/files/1/1656/1539/files/Be_Confident_446408_Front_1500x1500_ff194bce-6a7f-490a-ab1c-7689b935f11c.jpg?v=1725505602
   Price: $8.00 USD
 - [Buy Be Grateful Taos Grip Socks (Luminous) Non-Slip Grip Socks for Pilates, Yoga, Barre | Sticky Be Socks](https://stickybesocks.com/products/be-grateful-taos-grip-socks-luminous): Sticky Be Socks makes the best non slip, grip socks for yoga, pilates, barre, the gym, or cozy weekends at home. These sticky bottom, grip socks make the perfect gift for teens and adults of any age Be Grateful Taos Grip Socks (Luminous).
-  Updated: 2025-10-10T13:58:03Z
+  Updated: 2025-10-11T02:26:07Z
   Vendor: Sticky Be Socks
   Product Type: Socks
   Availability: Available
@@ -1096,28 +1096,28 @@
   Image: https://cdn.shopify.com/s/files/1/1656/1539/files/433_StickyBeSocks_250210.jpg?v=1745520854
   Price: $16.00 USD
 - [Buy Pom Pom Be Thankful Grip Socks (Dusk) Non-Slip Grip Socks for Pilates, Yoga, Barre | Sticky Be Socks](https://stickybesocks.com/products/pom-pom-be-thankful-grip-socks-dusk): Sticky Be Socks makes the best non slip, grip socks for yoga, pilates, barre, the gym, or cozy weekends at home. These sticky bottom, grip socks make the perfect gift for teens and adults of any age Pom Pom Be Thankful Grip Socks (Dusk).
-  Updated: 2025-09-26T19:15:49Z
+  Updated: 2025-10-11T04:59:42Z
   Vendor: Sticky Be Socks
   Product Type: Socks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/1539/files/1555_StickyBeSocks_230731.jpg?v=1743594676
   Price: $16.00 USD
 - [Buy Be Active Luna Grip Socks (Cyprus) Non-Slip Grip Socks for Pilates, Yoga, Barre | Sticky Be Socks](https://stickybesocks.com/products/be-active-luna-grip-socks-cyprus): Sticky Be Socks makes the best non slip, grip socks for yoga, pilates, barre, the gym, or cozy weekends at home. These sticky bottom, grip socks make the perfect gift for teens and adults of any age Be Active Luna Grip Socks (Cyprus).
-  Updated: 2025-10-10T13:58:02Z
+  Updated: 2025-10-11T02:26:07Z
   Vendor: Sticky Be Socks
   Product Type: Socks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/1539/files/Websize_product_2.png?v=1756757022
   Price: $16.00 USD
 - [Buy Be Brave & Fearless Breast Cancer Grip Socks Non-Slip Grip Socks for Pilates, Yoga, Barre | Sticky Be Socks](https://stickybesocks.com/products/be-brave-fearless-breast-cancer-grip-socks): Sticky Be Socks makes the best non slip, grip socks for yoga, pilates, barre, the gym, or cozy weekends at home. These sticky bottom, grip socks make the perfect gift for teens and adults of any age Be Brave & Fearless Breast Cancer Grip Socks.
-  Updated: 2025-10-10T13:58:04Z
+  Updated: 2025-10-11T00:34:49Z
   Vendor: Sticky Be Socks
   Product Type: Socks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1656/1539/files/711_StickyBeSocks_250210.jpg?v=1743596320
   Price: $16.00 USD
 - [Buy Crew Be Fearless Grip Socks (White/Starburst) Non-Slip Grip Socks for Pilates, Yoga, Barre | Sticky Be Socks](https://stickybesocks.com/products/crew-be-fearless-grip-socks-white-starburst): Sticky Be Socks makes the best non slip, grip socks for yoga, pilates, barre, the gym, or cozy weekends at home. These sticky bottom, grip socks make the perfect gift for teens and adults of any age Crew Be Fearless Grip Socks (White/Starburst).
-  Updated: 2025-10-06T22:01:06Z
+  Updated: 2025-10-11T02:26:07Z
   Vendor: Sticky Be Socks
   Product Type: Socks
   Availability: Available
@@ -1173,7 +1173,7 @@
   Image: https://cdn.shopify.com/s/files/1/1656/1539/files/287_StickyBeSocks_250210.jpg?v=1744057904
   Price: $17.00 USD
 - [Buy Short Crew Be Happy Grip Socks (Smile) Non-Slip Grip Socks for Pilates, Yoga, Barre | Sticky Be Socks](https://stickybesocks.com/products/short-crew-be-happy-grip-socks-smile): Sticky Be Socks makes the best non slip, grip socks for yoga, pilates, barre, the gym, or cozy weekends at home. These sticky bottom, grip socks make the perfect gift for teens and adults of any age Short Crew Be Happy Grip Socks (Smile).
-  Updated: 2025-10-09T01:16:11Z
+  Updated: 2025-10-11T04:59:42Z
   Vendor: Sticky Be Socks
   Product Type: Socks
   Availability: Available
@@ -1186,7 +1186,7 @@
   Availability: Available
   Price: $0.01 USD
 - [Buy TBM Be Warm Marlowe Grip Socks (Ivy) Non-Slip Grip Socks for Pilates, Yoga, Barre | Sticky Be Socks](https://stickybesocks.com/products/tbm-be-warm-marlowe-grip-socks-ivy): Sticky Be Socks makes the best non slip, grip socks for yoga, pilates, barre, the gym, or cozy weekends at home. These sticky bottom, grip socks make the perfect gift for teens and adults of any age TBM Be Warm Marlowe Grip Socks (Ivy).
-  Updated: 2025-10-09T08:06:13Z
+  Updated: 2025-10-10T19:49:45Z
   Vendor: Sticky Be Socks
   Product Type: Socks
   Availability: Available
@@ -1384,8 +1384,8 @@
   Updated: 2025-10-10T11:01:31Z
   Total Products: 789
 - [Shop All Products | Sticky Be Socks - The Best Non Slip Grip Socks for Pilates, Yoga, and Barre](https://stickybesocks.com/collections/all-products): Shop all products from Sticky Be Socks.
-  Updated: 2025-10-10T11:01:31Z
-  Total Products: 253
+  Updated: 2025-10-10T19:50:16Z
+  Total Products: 252
 - [Grey](https://stickybesocks.com/collections/grey)
   Updated: 2025-10-10T11:01:31Z
   Total Products: 113
