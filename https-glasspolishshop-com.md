@@ -7,7 +7,7 @@
 - Currency: EUR
 - Timezone: Europe/Dublin
 - Created At: 2025-01-23T10:54:05Z
-- Updated At: 2025-10-11T00:00:36.034Z
+- Updated At: 2025-10-11T08:00:33.063Z
 
 ## Products
 
@@ -334,14 +334,14 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Hand-held-Abrasive-Sponge-Kit-15923.jpg?v=1737638338
   Price: €14.95 EUR
 - [Glass Polish Rotary Backing Pad 12600](https://glasspolishshop.com/products/50mm-2-inch-rotary-backing-pad-m14-medium): Backing Plate  suitable for use with any rotary polishing machine.  Hook and Loop fastener for use with any abrasive discs, polishing pads or detailing foams.
-  Updated: 2025-10-10T13:26:45Z
+  Updated: 2025-10-11T01:12:47Z
   Vendor: Glass Polish
   Product Type: Rotary Polisher Backing Pad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/12600_43ecfc26-999a-477e-9baf-9b6f4f87a2ed.jpg?v=1760022807
   Price: €9.95 EUR
 - [Glass Polish Rotary Backing Pad 12605](https://glasspolishshop.com/products/75mm-3-inch-rotary-backing-pad-m14-hook-and-loop-medium): Backing Plate  suitable for use with any rotary polishing machine with.  Hook and Loop fastener for use with any abrasive discs, polishing pads or detailing foams.
-  Updated: 2025-10-10T13:38:01Z
+  Updated: 2025-10-11T01:33:33Z
   Vendor: Glass Polish
   Product Type: Rotary Polisher Backing Pad
   Availability: Available
@@ -362,14 +362,14 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/12607_8066450b-d4cb-4746-9306-1a3d4830e2f0.jpg?v=1737638445
   Price: €11.95 EUR
 - [Glass Polish Rotary Backing Pad 12601](https://glasspolishshop.com/products/50mm-2-inch-rotary-backing-pad-5-8-inch-11-medium): Backing Plate  suitable for use with any rotary polishing machine.  Hook and Loop fastener for use with any abrasive discs, polishing pads or detailing foams.
-  Updated: 2025-10-10T13:27:17Z
+  Updated: 2025-10-11T01:27:23Z
   Vendor: Glass Polish
   Product Type: Rotary Polisher Backing Pad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/12600_43ecfc26-999a-477e-9baf-9b6f4f87a2ed.jpg?v=1760022807
   Price: €9.95 EUR
 - [Glass Polish Rotary Backing Pad 12606](https://glasspolishshop.com/products/75mm-3-inch-rotary-backing-pad-5-8-inch-11-hook-and-loop-medium): Backing Plate  suitable for use with any rotary polishing machine with.  Hook and Loop fastener for use with any abrasive discs, polishing pads or detailing foams.
-  Updated: 2025-10-10T13:38:18Z
+  Updated: 2025-10-11T01:34:02Z
   Vendor: Glass Polish
   Product Type: Rotary Polisher Backing Pad
   Availability: Available
@@ -1209,7 +1209,7 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/90006_2b325966-01f0-48d3-8a14-dad0c8226825.jpg?v=1739205519
   Price: €13.95 EUR
 - [Cerium Oxide High-Grade 100g | TREO 85% | 3.5 Microns - GP90007](https://glasspolishshop.com/products/cerium-oxide-high-grade-100g-3-52oz): Professional cerium oxide polishing powder for glass restoration. Removes surface damage, fine scratches, sanding marks, and oxidation for a clear finish.
-  Updated: 2025-10-09T14:52:15Z
+  Updated: 2025-10-11T02:50:20Z
   Vendor: Glass Polish
   Product Type: Cerium Oxide
   Availability: Available
@@ -1914,7 +1914,7 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/15017.jpg?v=1740671081
   Price: €69.95 EUR
 - [Liquid Leather Scented Air Freshener / 3 pack](https://glasspolishshop.com/products/liquid-leather-scented-air-freshener-3-pack): Liquid Leather Scented Air Freshener / 3 pack Our leather air freshener is great at producing the smell of real leather whenever or wherever you wish.
-  Updated: 2025-10-09T23:12:08Z
+  Updated: 2025-10-11T07:03:06Z
   Vendor: Liquid Leather
   Product Type: 
   Availability: Available
@@ -2814,14 +2814,14 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/15100_46dbf7ce-a4fd-432d-8a49-236c6adc36aa.jpg?v=1746012748
   Price: €27.95 EUR
 - [125mm (5") Medium Density PRO Rotary Backing Pad M14](https://glasspolishshop.com/products/125mm-5-inch-pro-rotary-backing-pad-m14): 125mm (5") PRO Rotary Backing Pad M14 -  Rotary Backing Pad Size: 125 mm ( 5 inches) Thread Size: M14 Max Speed: 6000 Rpm's.• Optimal balance: ensuring efficient and effective polishing and sanding experience.• Hook and loop fastening system
-  Updated: 2025-10-10T14:20:41Z
+  Updated: 2025-10-11T02:05:57Z
   Vendor: Glass Polish
   Product Type: Rotary Polisher Backing Pad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/12622_20Rotary_20backing_20pad_1.jpg?v=1737647425
   Price: €16.95 EUR
 - [125mm (5") PRO Rotary Backing Pad 5/8"-11 - GP12623](https://glasspolishshop.com/products/125mm-5-inch-pro-rotary-backing-pad-5-8-inch-11): 125mm (5") PRO Rotary Backing Pad 5/8";-11 - 12623 - Rotary Polishers - • Rotary Backing Pad Size: 125 mm ( 5 inches) Thread Size: 5/8&quot;-11 Max Speed: 6000 Rpm's.• Optimal balance: ensuring efficient and effective polishing and sanding experience
-  Updated: 2025-10-10T14:20:30Z
+  Updated: 2025-10-11T02:19:44Z
   Vendor: Glass Polish
   Product Type: Rotary Polisher Backing Pad
   Availability: Available
@@ -2959,14 +2959,14 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/12675.jpg?v=1760012539
   Price: €12.95 EUR
 - [50mm (2") Soft Density PRO Rotary Backing Pad M14](https://glasspolishshop.com/products/50mm-2-pro-rotary-backing-pad-m14): 125mm (5") PRO Rotary Backing Pad M14 -  Rotary Backing Pad Size: 125 mm ( 5 inches) Thread Size: M14 Max Speed: 6000 Rpm's.• Optimal balance: ensuring efficient and effective polishing and sanding experience.• Hook and loop fastening system
-  Updated: 2025-10-10T21:04:55Z
+  Updated: 2025-10-11T00:43:28Z
   Vendor: Glass Polish
   Product Type: Rotary Polisher Backing Pad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/12670.jpg?v=1760008370
   Price: €11.95 EUR
 - [50mm (2") Soft Density PRO Rotary Backing Pad 5/8"-11](https://glasspolishshop.com/products/50mm-2-pro-rotary-backing-pad-5-8-11): 125mm (5") PRO Rotary Backing Pad M14 -  Rotary Backing Pad Size: 125 mm ( 5 inches) Thread Size: M14 Max Speed: 6000 Rpm's.• Optimal balance: ensuring efficient and effective polishing and sanding experience.• Hook and loop fastening system
-  Updated: 2025-10-10T21:04:08Z
+  Updated: 2025-10-11T00:43:55Z
   Vendor: Glass Polish
   Product Type: Rotary Polisher Backing Pad
   Availability: Available
