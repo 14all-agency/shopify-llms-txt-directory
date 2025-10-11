@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2018-01-12T21:20:39Z
 - Contact Email: contact@ma-boutique-henne.com
-- Updated At: 2025-10-11T16:00:36.636Z
+- Updated At: 2025-10-11T20:00:39.345Z
 
 ## Products
 
@@ -417,7 +417,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/XI1RVpZg.jpeg?v=1547465233
   Price: 13,50 € EUR
 - [Henné Rouge d'Egypte n°2 - Henné Rosso, Phitofilos](https://ma-boutique-henne.com/products/henne-rouge-degypte-n-2-100gr-henne-rosso): Phitofilos, rouge cerise, coloration rouge, egyptien, henné d'egypte, égypte, rosso n°2, rousse, roux, cuivré, rouge cerise, couvre cheveux blancs et gris, henné naturel, bois santal, garance, hibiscus. brillance cheveux châtains , soin capillaire et coloration bio, vegan, naturelle, plantes, boutique henné, gaine
-  Updated: 2025-10-09T06:30:20Z
+  Updated: 2025-10-11T17:05:41Z
   Vendor: Ma Boutique Henné
   Product Type: Henné
   Availability: Available
@@ -583,7 +583,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/HTB129lPtKuSBuNjSsziq6zq8pXaH.jpg?v=1530110576
   Price: 5,10 € EUR
 - [Pinces à cheveux "crocodile" noire](https://ma-boutique-henne.com/products/pinces-a-cheveux-crocodile-papillon-noire): pince crabe pour coiffures, faciliter l'application des soins capillaires et hennés, attacher ses cheveux sans les abîmer, plastique, bonnets et gants, appliquer vos colorations, ustensiles, bol, fouet, cuillère, barrette, élastique, crocodile, papillon, hair pin, pic cheveux, attacher, coiffer, chignon
-  Updated: 2025-10-10T05:06:25Z
+  Updated: 2025-10-11T18:20:40Z
   Vendor: Ma Boutique Henné
   Product Type: Accessoires
   Availability: Available
