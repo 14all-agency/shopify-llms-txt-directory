@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2018-01-12T21:20:39Z
 - Contact Email: contact@ma-boutique-henne.com
-- Updated At: 2025-10-10T20:00:36.562Z
+- Updated At: 2025-10-11T00:00:38.628Z
 
 ## Products
 
@@ -396,7 +396,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/nocciola.png?v=1538729193
   Price: 12,50 € EUR
 - [Henné Rouge n°3 - Henné Rosso, Phitofilos](https://ma-boutique-henne.com/products/henne-rouge-diran-n-3-100gr): Phitofilos, henné d'iran, rosso ardente ciliegia, coloration rouge, rousse, roux, cuivré, rouge cerise, couvre cheveux blancs et gris, henné naturel, bois santal, garance, hibiscus. Redonne brillance aux cheveux châtains , soin capillaire et coloration bio, vegan, naturelle, plantes, boutique henné, éclaircir, gaine.
-  Updated: 2025-10-08T06:45:55Z
+  Updated: 2025-10-10T21:18:01Z
   Vendor: Ma Boutique Henné
   Product Type: Henné
   Availability: Available
@@ -513,7 +513,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/p_1.jpeg?v=1545300189
   Price: 9,50 € EUR
 - [Aloe Véra en Poudre - HennaFox](https://ma-boutique-henne.com/products/aloe-vera-en-poudre-100gr): Poudre Aloe Vera feuille, henna fox, henné d'algérie, hydratation, peau, cheveux, corps, nourrit, assainit le cuir chevelu, traite les affections, pellicules, cheveux rouge cerise, henné de gabès, brillance, douceur, doux, soin capillaire, soyeux, henné, secs, phitofilos, curiosa neways, ayurvédique, vegan, neem, sidr
-  Updated: 2025-10-07T17:00:16Z
+  Updated: 2025-10-10T21:18:01Z
   Vendor: Ma Boutique Henné
   Product Type: Poudre de soin
   Availability: Available
@@ -730,7 +730,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/vjVfdvC8.jpg?v=1605876121
   Price: 9,50 € EUR
 - [Kapoor Kachli - Le Erbe Di Janas](https://ma-boutique-henne.com/products/poudre-de-kapoor-kachli-kachri): Le Kapoor Kachli (Kachri) gingembre, le erbe di janas, galangal, henne d'algerie, kachur sugandhi, stimule la pousse, cheveux fort, épais et brillant. volume, lave les cheveux en douceur, shampoing, bio, sidr, shikakai, ghassoul, henne, masque capillaire, hydratant, pousse, boutique, biologique, bio, henné d'algérie
-  Updated: 2025-10-04T08:27:30Z
+  Updated: 2025-10-10T21:18:00Z
   Vendor: Ma Boutique Henné
   Product Type: Poudre de soin
   Availability: Available
@@ -2132,7 +2132,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/files/IT979043419-p10.jpg?v=1758637060
   Price: 9,99 € EUR
 - [Shampoing Hydratant, cheveux normaux à déshydratés, Amande Douce et Aloé Vera - Centifolia](https://ma-boutique-henne.com/products/shampoing-hydratant-cheveux-normaux-a-deshydrates-amande-douce-et-aloe-vera-centifolia): shampoing hydratant cheveux normaux secs amande douce aloe vera Centifolia, naturel bio, vegan, centifolia, hydrater cheveux soin capillaire, henne, cosmetique
-  Updated: 2025-10-10T12:51:01Z
+  Updated: 2025-10-10T20:45:08Z
   Vendor: Ma Boutique Henné
   Product Type: Shampoing
   Availability: Available
