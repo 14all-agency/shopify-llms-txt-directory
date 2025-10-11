@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-01-24T04:49:01Z
 - Contact Email: info@ibizjewel.com
-- Updated At: 2025-10-11T16:00:48.509Z
+- Updated At: 2025-10-11T20:00:49.451Z
 
 ## Products
 
