@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-10-11T12:01:11.827Z
+- Updated At: 2025-10-11T16:01:11.380Z
 
 ## Products
 
@@ -14340,7 +14340,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-minecraft-21251-expedicao-no-deserto-de-steve-662125124-5702017583273-lego-1178698004.jpg?v=1752796930
   Price: 12,00 € EUR
 - [Lego Minecraft 21252 O Depósito de Armas: Mundo de Minecraft](https://brincatoys.pt/products/lego-minecraft-21252-o-deposito-de-armas): Seja parte do universo pixelizado de Minecraft com o Lego Minecraft 21252 O Depósito de Armas. Descubra o Ferreiro, a Alex e suas aventuras emocionantes! 💣
-  Updated: 2025-10-02T13:12:10Z
+  Updated: 2025-10-11T13:55:28Z
   Vendor: LEGO
   Product Type: + 7 anos
   Availability: Available
@@ -18234,7 +18234,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-de-brincar-lamborghini-urus-off-road-diversao-garantida-133253324-0090159325338-brincatoys-1178701117.jpg?v=1752965888
   Price: 29,99 € EUR
 - [Lego Minecraft 21259 - A Viagem do Barco Pirata](https://brincatoys.pt/products/lego-minecraft-a-viagem-do-barco-pirata): Parta para aventuras marítimas com LEGO Minecraft 21259 - A Viagem do Barco Pirata. Monte seu navio pirata, lute contra a lula e explore novos territórios.
-  Updated: 2025-09-29T22:50:33Z
+  Updated: 2025-10-11T12:05:08Z
   Vendor: LEGO
   Product Type: + 8 anos
   Availability: Available
@@ -18780,7 +18780,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-para-bonecas-olivia-de-la-nina-elegancia-e-diversao-80028125-brincatoys-1178701477.jpg?v=1752971779
   Price: 67,50 € EUR
 - [LEGO Disney 43262 - Castelo de Gelo de Arendelle Diversão](https://brincatoys.pt/products/lego-disney-castelo-de-gelo-de-arendelle): Entre no mundo de Frozen com o LEGO Disney 43262 - Castelo de Gelo de Arendelle. Descubra a magia com minifiguras e 177 peças encantadoras!
-  Updated: 2025-09-29T23:14:08Z
+  Updated: 2025-10-11T13:55:26Z
   Vendor: LEGO
   Product Type: + 5 anos
   Availability: Available
@@ -19655,7 +19655,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/toy-story-buzz-lightyear-aventura-intergalactica-774595225-0194735045952-toy-story-1178702054.jpg?v=1752981486
   Price: 29,99 € EUR
 - [Jogo de cartas Uno da Mattel – Diversão Garantida](https://brincatoys.pt/products/jogo-de-cartas-uno-1): Descubra a emoção do Jogo de cartas Uno da Mattel, o clássico favorito repleto de estratégia e surpresas. Diversão para Toda a Família!
-  Updated: 2025-10-07T15:33:51Z
+  Updated: 2025-10-11T12:27:43Z
   Vendor: UNO
   Product Type: + 7 anos
   Availability: Available
@@ -20756,7 +20756,7 @@ Figura em borracha termoplástica do filme Branca de neve e os sete anões.Figur
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lamborghini-revuelto-amarelo-1-18-miniatura-detalhada-683146325-8719247002853-brincatoys-1192016544.jpg?v=1757418728
   Price: 59,90 € EUR
 - [Patrulha Pata Rex – Veículo de Resgate para Crianças](https://brincatoys.pt/products/patrulha-pata-rex): Transforme a diversão em casa com o Patrulha Pata Rex – Veículo de Resgate. Pronto para aventuras, o jipe azul e a figura do Rex trazem ação!
-  Updated: 2025-10-05T15:54:13Z
+  Updated: 2025-10-11T13:54:24Z
   Vendor: Patrulha Pata
   Product Type: + 3 anos
   Availability: Available
