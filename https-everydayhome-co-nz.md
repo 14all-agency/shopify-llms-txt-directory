@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-10-11T08:00:36.668Z
+- Updated At: 2025-10-11T12:00:37.465Z
 
 ## Products
 
@@ -242,7 +242,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Cubiko-Corner-Shower-Bins-Black-3.jpg?v=1727660053
   Price: $79.99 NZD
 - [Umbra Cubiko Adhesive Corner Shower Bins - Set of 2 White](https://everydayhome.co.nz/products/cubiko-corner-shower-bins-set-2-wht): Cubiko Corner Shower Bins Set 2, Wht
-  Updated: 2025-09-25T23:22:05Z
+  Updated: 2025-10-11T08:22:10Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -781,7 +781,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Ribbon-Wall-Clock-Steel-8.jpg?v=1727659533
   Price: $99.99 NZD
 - [Ribbonwood Wall Clock - Natural](https://everydayhome.co.nz/products/ribbonwood-wall-clock-50-8cm-natural): This gorgeous clock is made from bent beech wood that has been shaped into folded ribbon shapes. Its contrasting minute and hour hands make it easy to tell the time. Ribbonwood's bent wood is part of a complex process of molding bent plywood.
-  Updated: 2025-10-02T17:46:00Z
+  Updated: 2025-10-11T10:37:11Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -1712,7 +1712,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Buddy-Paper-Towel-Holder-Black-UMBRA-0.jpg?v=1731902355
   Price: $57.99 NZD
 - [Umbra Cappa Toilet Paper Holder - Nickel](https://everydayhome.co.nz/products/cappa-toilet-paper-stand-nickle): Cappa Toilet Paper Stand and Reserve is a minimalist, freestanding toilet paper stand with an integrated reserve for storing toilet paper rolls. Using often under-utilized vertical square footage, while maintaining a small footprint, Cappa holds up to three jumbo toilet paper rolls and dispenses one.
-  Updated: 2025-10-09T05:37:06Z
+  Updated: 2025-10-11T08:22:11Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -4886,13 +4886,13 @@
   Updated: 2025-09-23T12:13:26Z
   Total Products: 22
 - [All products](https://everydayhome.co.nz/collections/all-products)
-  Updated: 2025-10-10T11:07:39Z
+  Updated: 2025-10-11T11:07:20Z
   Total Products: 1051
 - [Brands](https://everydayhome.co.nz/collections/brands)
-  Updated: 2025-10-10T11:07:39Z
+  Updated: 2025-10-11T11:07:20Z
   Total Products: 1051
 - [Umbra](https://everydayhome.co.nz/collections/umbra): Shop Umbra for modern, unique home decor and organisation products at Everyday Home. Find on trend designs in storage, wall art, furniture, and many other pieces to renew your living space in style and functionality. Shop now and enjoy free shipping across NZ on orders over $99*
-  Updated: 2025-10-10T11:07:39Z
+  Updated: 2025-10-11T11:07:20Z
   Total Products: 278
 - [Brabantia](https://everydayhome.co.nz/collections/brabantia)
   Updated: 2025-10-10T11:07:39Z
@@ -4958,7 +4958,7 @@
   Updated: 2025-10-10T11:07:39Z
   Total Products: 347
 - [Home & Living](https://everydayhome.co.nz/collections/home-living)
-  Updated: 2025-10-10T11:07:39Z
+  Updated: 2025-10-11T11:07:20Z
   Total Products: 236
 - [Bed & Bath](https://everydayhome.co.nz/collections/bedroom-bathroom)
   Updated: 2025-10-09T11:07:26Z
@@ -5000,7 +5000,7 @@
   Updated: 2025-09-23T12:17:20Z
   Total Products: 6
 - [Clocks](https://everydayhome.co.nz/collections/clocks)
-  Updated: 2025-10-02T03:38:25Z
+  Updated: 2025-10-11T11:07:20Z
   Total Products: 3
 - [Built In Bins](https://everydayhome.co.nz/collections/built-in-bins)
   Updated: 2025-09-23T12:17:47Z
@@ -5105,10 +5105,10 @@
   Updated: 2025-09-23T12:14:08Z
   Total Products: 19
 - [Sale](https://everydayhome.co.nz/collections/sale): Save up to 60% off on Umbra, Brabantia, Dutch Deluxes and more at Everyday Home! Don’t miss out on huge discounts on premium home essentials during our limited-time sale. From chic home must-haves to stylish kitchen essentials. Shop now and transform your home with the latest trends.
-  Updated: 2025-10-10T11:07:39Z
+  Updated: 2025-10-11T11:07:20Z
   Total Products: 173
 - [All Home & Living](https://everydayhome.co.nz/collections/all-home-living)
-  Updated: 2025-10-10T11:07:39Z
+  Updated: 2025-10-11T11:07:20Z
   Total Products: 262
 - [Shop All Kitchen](https://everydayhome.co.nz/collections/shop-all-kitchen)
   Updated: 2025-10-10T11:07:39Z
@@ -5198,7 +5198,7 @@
   Updated: 2025-09-23T12:17:48Z
   Total Products: 5
 - [All Products](https://everydayhome.co.nz/collections/all)
-  Updated: 2025-10-10T11:07:39Z
+  Updated: 2025-10-11T11:07:20Z
   Total Products: 1065
 - [All products excluding Sale items](https://everydayhome.co.nz/collections/all-products-excluding-sale-items-1)
   Updated: 2025-10-10T11:07:39Z
@@ -5228,7 +5228,7 @@
   Updated: 2025-10-09T11:07:26Z
   Total Products: 4
 - [Gifting](https://everydayhome.co.nz/collections/gifting)
-  Updated: 2025-10-10T11:07:39Z
+  Updated: 2025-10-11T11:07:20Z
   Total Products: 123
 
 ## Store Pages
