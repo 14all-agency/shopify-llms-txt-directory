@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-09-05T06:24:05Z
 - Contact Email: fusionvibestoreofficial@gmail.com
-- Updated At: 2025-10-10T08:00:28.894Z
+- Updated At: 2025-10-11T08:00:29.793Z
 
 ## Products
 
@@ -1247,6 +1247,136 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/66be759c-69da-4987-9149-3aa633ed5b7f_trans.jpg?v=1759996649
     Price: $28.30 USD
+- [Portable Mini Thermal Label Printer Home Photo Printer Student Wrong Question Printer Bluetooth-compatible Mini Label Printer Price Tag](https://fusionvibestore.com/products/portable-mini-thermal-label-printer-home-photo-printer-student-wrong-question-printer-bluetooth-compatible-mini-label-printer-price-tag): Overview: 1. Efficient learning, 200 million free genuine open question banks; The Phomemo T02 series is a mini pocket printer that does not require ink. The independently developed app is more suitable for foreign users' usage habits. The app supports 10 languages (Chinese, Traditional Chinese, English, Japanese, Korean, Thai, French, German, Spanish, Portuguese) suitable for foreign trade styles. Apple iOS, Android download app, mobile Bluetooth link, built-in high-quality lithium battery, easy to carry, capable of printing images, text, errors, and supporting various specifications of label printing Product information: Material: ABS Style: simple and stylish Features: Thermal paper printing Color: white, pink Product size: 87mm×90mm×40mm Connection method: Bluetooth Print type: inkless printing Printing technology: thermal printing Compatible system: Android 4.4/iOS8.0 and above Power supply mode: lithium battery Battery capacity: 1000mAh Model number: Green (including a roll of 1-meter 1 roll of sticky paper ) Pink (including a roll of 1-meter 1 roll of sticky paper) White(including a roll of 1-meter 1 roll of sticky paper) Blue (including a roll of 1-meter 1 roll of sticky paper) Yellow (including a roll of 1-meter 1 roll of sticky paper) All green(including a roll of 1-meter 1 roll of sticky paper) Transparent Printer paper: 3 rolls 50mm*3.5m20 year transparent black letter thermal adhesive Style A: 50mm * 3.5m 10-year white background with black lettering thermosensitive adhesive（ Sticky paper ） Style B: 53mm * 6.5m 5-year-old yellow, pink, and blue background with black lettering on regular thermal paper (nonadhesive) Style C: 50mm * 3.5m 20-year green, purple, orange with black lettering thermosensitive adhesive（Sticky paper） Blue set: Blue printer +4 rolls Sticky paper Green set: Green printer +4 rolls Sticky paper Pink set: Pink printer +4 rolls Sticky paper White set: White printer +4 rolls Sticky paper Yellow set: Yellow printer +4 rolls Sticky paper Size Information: Packing list: Printer*1 Product Image:
+  Updated: 2025-10-11T04:39:24Z
+  Vendor: z60ja0-0n
+  Product Type: Gadgets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/242ae300-f540-4d6d-af9b-4874efc94095_trans.jpg?v=1760114344
+  - [Blue / USB](https://fusionvibestore.com/products/portable-mini-thermal-label-printer-home-photo-printer-student-wrong-question-printer-bluetooth-compatible-mini-label-printer-price-tag?variant=45635295183047)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/abc29626-9e08-4d0e-94d6-c6047741970f.jpg?v=1760114372
+    Price: $25.34 USD
+  - [Non stick printing paper / USB](https://fusionvibestore.com/products/portable-mini-thermal-label-printer-home-photo-printer-student-wrong-question-printer-bluetooth-compatible-mini-label-printer-price-tag?variant=45635295215815)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/82fc8c2d-a9bf-4298-8bfe-95355c916bd2.jpg?v=1760114372
+    Price: $12.45 USD
+  - [Style C / USB](https://fusionvibestore.com/products/portable-mini-thermal-label-printer-home-photo-printer-student-wrong-question-printer-bluetooth-compatible-mini-label-printer-price-tag?variant=45635295248583)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/d90e7f39-c22f-430d-b150-1c38fed08be8.jpg?v=1760114372
+    Price: $15.99 USD
+  - [Transparent Printer paper / USB](https://fusionvibestore.com/products/portable-mini-thermal-label-printer-home-photo-printer-student-wrong-question-printer-bluetooth-compatible-mini-label-printer-price-tag?variant=45635295281351)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/50751b00-c6b0-45b1-8bcd-b70813208ef4_52ca5823-bf4a-4d19-a034-dc2350c73b50.jpg?v=1760114372
+    Price: $15.88 USD
+  - [Yellow / USB](https://fusionvibestore.com/products/portable-mini-thermal-label-printer-home-photo-printer-student-wrong-question-printer-bluetooth-compatible-mini-label-printer-price-tag?variant=45635295314119)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/f29c67aa-d82f-4726-928a-fda532b52efd.jpg?v=1760114372
+    Price: $33.33 USD
+  - [All green 2pcs / USB](https://fusionvibestore.com/products/portable-mini-thermal-label-printer-home-photo-printer-student-wrong-question-printer-bluetooth-compatible-mini-label-printer-price-tag?variant=45635295346887)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/822b36a2-454f-45f4-a5c0-07a345d5a688.jpg?v=1760114372
+    Price: $45.90 USD
+  - [All green set / USB](https://fusionvibestore.com/products/portable-mini-thermal-label-printer-home-photo-printer-student-wrong-question-printer-bluetooth-compatible-mini-label-printer-price-tag?variant=45635295379655)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/2aebd8c4-be8a-46e2-968b-6c77775626f4.jpg?v=1760114371
+    Price: $34.89 USD
+  - [All green set1 / USB](https://fusionvibestore.com/products/portable-mini-thermal-label-printer-home-photo-printer-student-wrong-question-printer-bluetooth-compatible-mini-label-printer-price-tag?variant=45635295412423)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/cbe8089a-6a7b-4e28-a9c4-e576351ec5c1.jpg?v=1760114372
+    Price: $35.99 USD
+  - [All green set2 / USB](https://fusionvibestore.com/products/portable-mini-thermal-label-printer-home-photo-printer-student-wrong-question-printer-bluetooth-compatible-mini-label-printer-price-tag?variant=45635295445191)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/edd1cdf5-6c1c-4c5a-b0a9-3d4b0fd6470a.jpg?v=1760114372
+    Price: $48.90 USD
+  - [All green / USB](https://fusionvibestore.com/products/portable-mini-thermal-label-printer-home-photo-printer-student-wrong-question-printer-bluetooth-compatible-mini-label-printer-price-tag?variant=45635295477959)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/5e6edcd3-40f7-421a-8cd9-fb0a4a681f56.jpg?v=1760114372
+    Price: $30.45 USD
+  - [Blue 2pcs / USB](https://fusionvibestore.com/products/portable-mini-thermal-label-printer-home-photo-printer-student-wrong-question-printer-bluetooth-compatible-mini-label-printer-price-tag?variant=45635295510727)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/b0e0ef1b-3f70-4169-85b2-c75dc8136b3e.jpg?v=1760114372
+    Price: $48.45 USD
+  - [Blue pink yellow x3 / USB](https://fusionvibestore.com/products/portable-mini-thermal-label-printer-home-photo-printer-student-wrong-question-printer-bluetooth-compatible-mini-label-printer-price-tag?variant=45635295543495)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/1087438a-2888-4a6b-ab7b-62212fc2b6da.jpg?v=1760114372
+    Price: $25.89 USD
+  - [Blue set / USB](https://fusionvibestore.com/products/portable-mini-thermal-label-printer-home-photo-printer-student-wrong-question-printer-bluetooth-compatible-mini-label-printer-price-tag?variant=45635295576263)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/7438d2a9-2ea7-4a14-8e2d-e5379f812054.jpg?v=1760114372
+    Price: $35.89 USD
+  - [Green 2pcs / USB](https://fusionvibestore.com/products/portable-mini-thermal-label-printer-home-photo-printer-student-wrong-question-printer-bluetooth-compatible-mini-label-printer-price-tag?variant=45635295609031)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/5db2f049-c0e2-43a0-8012-7222aadf09a1.jpg?v=1760114372
+    Price: $49.04 USD
+  - [Green Set1 / USB](https://fusionvibestore.com/products/portable-mini-thermal-label-printer-home-photo-printer-student-wrong-question-printer-bluetooth-compatible-mini-label-printer-price-tag?variant=45635295641799)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/3eb17a3f-7145-4ffc-adcc-5e44bde345f1.jpg?v=1760114372
+    Price: $38.09 USD
+  - [Green Set2 / USB](https://fusionvibestore.com/products/portable-mini-thermal-label-printer-home-photo-printer-student-wrong-question-printer-bluetooth-compatible-mini-label-printer-price-tag?variant=45635295674567)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/28d6d22e-0e69-413f-ab8e-7c3e576b1ff5.jpg?v=1760114372
+    Price: $52.90 USD
+  - [Green Set3 / USB](https://fusionvibestore.com/products/portable-mini-thermal-label-printer-home-photo-printer-student-wrong-question-printer-bluetooth-compatible-mini-label-printer-price-tag?variant=45635295707335)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/4e660319-6042-431c-86ea-bf71d6e41b39.jpg?v=1760114372
+    Price: $48.90 USD
+  - [Green Set4 / USB](https://fusionvibestore.com/products/portable-mini-thermal-label-printer-home-photo-printer-student-wrong-question-printer-bluetooth-compatible-mini-label-printer-price-tag?variant=45635295740103)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/d41159fa-788e-4810-a0a3-b78be0b69ac8.jpg?v=1760114372
+    Price: $63.90 USD
+  - [Green SetD / USB](https://fusionvibestore.com/products/portable-mini-thermal-label-printer-home-photo-printer-student-wrong-question-printer-bluetooth-compatible-mini-label-printer-price-tag?variant=45635295772871)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/8e3a4f1a-4f66-4c3c-b37d-216e5e565549.jpg?v=1760114372
+    Price: $34.78 USD
+  - [Green set / USB](https://fusionvibestore.com/products/portable-mini-thermal-label-printer-home-photo-printer-student-wrong-question-printer-bluetooth-compatible-mini-label-printer-price-tag?variant=45635295805639)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/7394210b-4a41-43f8-977f-6fa2eab477d9.jpg?v=1760114372
+    Price: $42.90 USD
+  - [Green setB / USB](https://fusionvibestore.com/products/portable-mini-thermal-label-printer-home-photo-printer-student-wrong-question-printer-bluetooth-compatible-mini-label-printer-price-tag?variant=45635295838407)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/65aab512-7846-408d-a716-f28d37d1952d.jpg?v=1760114372
+    Price: $38.90 USD
+  - [Green setE / USB](https://fusionvibestore.com/products/portable-mini-thermal-label-printer-home-photo-printer-student-wrong-question-printer-bluetooth-compatible-mini-label-printer-price-tag?variant=45635295871175)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/01de719f-16bf-4a51-98ac-d770732c6ae9.jpg?v=1760114372
+    Price: $46.90 USD
+  - [Green / USB](https://fusionvibestore.com/products/portable-mini-thermal-label-printer-home-photo-printer-student-wrong-question-printer-bluetooth-compatible-mini-label-printer-price-tag?variant=45635295903943)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/d13d856f-0dc6-4414-8931-5c3449d01c8a.jpg?v=1760114372
+    Price: $34.67 USD
+  - [Greenset2. / USB](https://fusionvibestore.com/products/portable-mini-thermal-label-printer-home-photo-printer-student-wrong-question-printer-bluetooth-compatible-mini-label-printer-price-tag?variant=45635295936711)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/a9e2e17b-1e20-4eca-8778-8d62098a1b6a.jpg?v=1760114372
+    Price: $42.56 USD
+  - [Greenset3. / USB](https://fusionvibestore.com/products/portable-mini-thermal-label-printer-home-photo-printer-student-wrong-question-printer-bluetooth-compatible-mini-label-printer-price-tag?variant=45635295969479)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/c9f70680-afeb-4912-8d69-c429c0851c61.jpg?v=1760114372
+    Price: $42.34 USD
+  - [Pink 2pcs / USB](https://fusionvibestore.com/products/portable-mini-thermal-label-printer-home-photo-printer-student-wrong-question-printer-bluetooth-compatible-mini-label-printer-price-tag?variant=45635296002247)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/dfd897ef-2f99-463c-b532-e0e335d998aa.jpg?v=1760114372
+    Price: $45.89 USD
+  - [Pink Set1 / USB](https://fusionvibestore.com/products/portable-mini-thermal-label-printer-home-photo-printer-student-wrong-question-printer-bluetooth-compatible-mini-label-printer-price-tag?variant=45635296035015)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/7119b238-5172-4823-8aa6-6fbc2994d82a.jpg?v=1760114372
+    Price: $35.89 USD
+  - [Pink Set2 / USB](https://fusionvibestore.com/products/portable-mini-thermal-label-printer-home-photo-printer-student-wrong-question-printer-bluetooth-compatible-mini-label-printer-price-tag?variant=45635296067783)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/905b7f6e-4955-4036-ad09-0bddcde8ce15.jpg?v=1760114372
+    Price: $38.89 USD
+  - [Pink Set3 / USB](https://fusionvibestore.com/products/portable-mini-thermal-label-printer-home-photo-printer-student-wrong-question-printer-bluetooth-compatible-mini-label-printer-price-tag?variant=45635296100551)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/4e8b8fd6-d92e-442d-9cc2-c3227c1645ea.jpg?v=1760114372
+    Price: $49.90 USD
+  - [Pink Set4 / USB](https://fusionvibestore.com/products/portable-mini-thermal-label-printer-home-photo-printer-student-wrong-question-printer-bluetooth-compatible-mini-label-printer-price-tag?variant=45635296133319)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/091f2c08-1344-4318-a5d8-769bae1c4e9f.jpg?v=1760114372
+    Price: $62.89 USD
+  - [Pink SetD / USB](https://fusionvibestore.com/products/portable-mini-thermal-label-printer-home-photo-printer-student-wrong-question-printer-bluetooth-compatible-mini-label-printer-price-tag?variant=45635296166087)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/0761bac7-3a07-49d0-93e3-fcc908da3a7a.jpg?v=1760114372
+    Price: $38.89 USD
 
 ## Collections
 
@@ -1257,8 +1387,8 @@
   Updated: 2025-10-01T17:59:11Z
   Total Products: 1
 - [Gadgets](https://fusionvibestore.com/collections/gadgets)
-  Updated: 2025-10-09T08:15:49Z
-  Total Products: 15
+  Updated: 2025-10-10T16:39:40Z
+  Total Products: 16
 - [CLOTHING](https://fusionvibestore.com/collections/clothing)
   Updated: 2025-10-06T09:56:37Z
   Total Products: 7
