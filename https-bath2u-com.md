@@ -6,7 +6,7 @@
 - Timezone: Asia/Kuala_Lumpur
 - Created At: 2022-10-06T05:47:12Z
 - Contact Email: sales@bath2u.com
-- Updated At: 2025-10-11T04:00:32.831Z
+- Updated At: 2025-10-11T16:00:32.467Z
 
 ## Products
 
@@ -3030,13 +3030,13 @@
 ## Collections
 
 - [Home page](https://bath2u.com/collections/frontpage)
-  Updated: 2025-09-30T11:12:38Z
+  Updated: 2025-10-11T11:11:17Z
   Total Products: 399
 - [Featured Products](https://bath2u.com/collections/featured-products)
-  Updated: 2025-09-30T11:12:38Z
+  Updated: 2025-10-11T11:11:17Z
   Total Products: 400
 - [One Piece WC](https://bath2u.com/collections/water-closet-wc): Provides wide variety of water closet, toilet bowl and bathroom accessories in Malaysia. Low price and fast delivery.
-  Updated: 2023-02-17T07:38:42Z
+  Updated: 2025-10-11T11:11:17Z
   Total Products: 7
 - [Urinal](https://bath2u.com/collections/urinal-toilet): a sanitary plumbing fixture for urination only. Urinals are often provided in public toilets for male users. They are usually used in a standing position
   Updated: 2023-02-10T04:03:40Z
@@ -3297,7 +3297,7 @@
   Updated: 2025-09-30T11:12:38Z
   Total Products: 17
 - [Water Closet](https://bath2u.com/collections/water-closet)
-  Updated: 2025-09-30T11:12:38Z
+  Updated: 2025-10-11T11:11:17Z
   Total Products: 39
 - [Black Collections](https://bath2u.com/collections/black-bathroom-taps): Black Toilet is also classic and extremely versatile. It creates a clean aesthetic and a very soothing mood, making a space feel welcoming when one wants to just relax in a warm bath. Black also stands out and feels unique and is a nice accent to marble or other stone countertops in bathrooms. Black offers an alternative to the traditional silver and gold metal accessories in bathrooms.
   Updated: 2023-04-16T12:49:45Z
@@ -3345,7 +3345,7 @@
   Updated: 2025-10-01T07:56:14Z
   Total Products: 50
 - [DOCASA](https://bath2u.com/collections/brand-docasa)
-  Updated: 2025-10-01T08:46:00Z
+  Updated: 2025-10-11T11:11:17Z
   Total Products: 81
 - [GLOREX](https://bath2u.com/collections/brand-glorex)
   Updated: 2025-10-01T08:45:48Z
