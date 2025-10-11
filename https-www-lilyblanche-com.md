@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-10-11T00:00:45.238Z
+- Updated At: 2025-10-11T08:00:48.397Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -4028,7 +4028,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £315.00 GBP
 - [Amethyst Vintage Heart Locket Silver + Free Photos](https://www.lilyblanche.com/products/amethyst-vintage-heart-locket-silver): Looking for a truly special gift? This Amethyst Heart Necklace holds two of your precious photos. Made from sterling silver, the necklace features a genuine heart-shaped amethyst gemstone, the birthstone for February. Hallmarked in Edinburgh. Order online today to receive free UK shipping & Luxury Jewellery Care Kit.
-  Updated: 2025-10-09T16:54:26Z
+  Updated: 2025-10-11T01:18:52Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -9470,7 +9470,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £240.00 GBP
 - [Memorial Feather Locket | Round White Gold Necklace | Lily Blanche](https://www.lilyblanche.com/products/feather-locket-white-gold): Keep your loved ones close to your heart with this beautiful, white gold vermeil picture locket featuring a wonderfully detailed feather charm in a matching or contrasting precious metal. Fill the locket with 2 of your own photos & engrave a special message. Free UK shipping & Luxury Jewellery Care Kit Included.
-  Updated: 2025-09-07T08:52:16Z
+  Updated: 2025-10-11T06:24:21Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
