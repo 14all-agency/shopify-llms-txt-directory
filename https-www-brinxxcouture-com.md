@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2025-10-10T20:00:47.201Z
+- Updated At: 2025-10-11T00:00:48.747Z
 
 ## Products
 
@@ -8460,7 +8460,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/High-Neck-Long-Sleeve-Ribbed-Top-Brinxx-Couture-6079_ae99505f-4811-4797-bf89-89c3a0f73de1.jpg?v=1736050169
     Price: $25.00 USD
 - [Distressed Raw Hem Denim Jacket - Brinxx Couture](https://www.brinxxcouture.com/products/distressed-raw-hem-denim-jacket): This distressed raw hem denim jacket is the perfect way to make a statement. With its distressed raw hem design, you'll look cool and effortless.
-  Updated: 2025-10-10T17:50:46Z
+  Updated: 2025-10-10T23:10:46Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -15423,7 +15423,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Floral-V-Neck-Drawstring-Peplum-Blouse-Brinxx-Couture-1680.jpg?v=1709880019
     Price: $25.00 USD
 - [David Jones PU Leather Crossbody Bag - Brinxx Couture](https://www.brinxxcouture.com/products/david-jones-pu-leather-crossbody-bag): Expertly crafted from high-quality PU leather, the David Jones Crossbody Bag offers a sleek and stylish way to carry your essentials. With its durable design and spacious interior.
-  Updated: 2025-10-03T21:38:30Z
+  Updated: 2025-10-10T22:41:30Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -16126,7 +16126,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/products/Cutout-Mock-Neck-Sleeveless-Dress-Brinxx-Couture-7698.jpg?v=1709885128
     Price: $29.99 USD
 - [Rhinestone Mock Neck Long Sleeve Dress - Brinxx Couture](https://www.brinxxcouture.com/products/rhinestone-mock-neck-long-sleeve-dress): Add some sparkle to your wardrobe with our Rhinestone Mock Neck Long Sleeve Dress! This dress features a trendy mock neck and long sleeves, adorned with dazzling rhinestones. Perfect for any special occasion, it's sure to make you stand out and feel glamorous. Shine on! Sheer: Semi-sheer Stretch: Slightly stretchy Body: Not lined Material composition: 60% viscose, 31% polyamide, 9% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements:S: Bust 29.92 in, Shoulder 13.78 in, Sleeve Length 22.83 in, Waist 26.77 in, HIP 34.65 in, Length 35.63 inM: Bust 32.28 in, Shoulder 14.37 in, Sleeve Length 23.23 in, Waist 29.13 in, HIP 37.01 in, Length 36.42 inL: Bust 34.65 in, Shoulder 14.96 in, Sleeve Length 23.62 in, Waist 31.50 in, HIP 39.37 in, Length 37.20 inXL: Bust 37.80 in, Shoulder 15.94 in, Sleeve Length 24.02 in, Waist 34.65 in, HIP 42.52 in, Length 37.99 in
-  Updated: 2025-10-10T17:20:40Z
+  Updated: 2025-10-10T23:50:46Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -19526,7 +19526,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Sexy-Satin-Slip-Sleeveless-Backless-Maxi-Dress-Brinxx-Couture-5442.webp?v=1730294836
     Price: $25.00 USD
 - [David Jones Quilted PU Leather Handbag - Brinxx Couture](https://www.brinxxcouture.com/products/david-jones-quilted-pu-leather-handbag): Upgrade your style with the luxurious David Jones Quilted PU Leather Handbag. Crafted with high-quality materials, this handbag exudes elegance.
-  Updated: 2025-10-03T21:38:30Z
+  Updated: 2025-10-10T22:41:30Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
