@@ -10,7 +10,7 @@
 - Contact Email: support@patiofyre.com
 - Contact Phone: 1-800-247-7384
 - Address: 20590 NE Empire Ave. Bend, OR 97701, United States of America
-- Updated At: 2025-10-10T20:00:29.306Z
+- Updated At: 2025-10-11T12:00:29.466Z
 
 Shop Patiofyre Today – Experience 8 Feet of Luxury Heat for Patios, Restaurants, and Backyards Nationwide
 
@@ -139,16 +139,16 @@ Shop Patiofyre Today – Experience 8 Feet of Luxury Heat for Patios, Restaurant
   Updated: 2024-09-24T17:07:40Z
   Total Products: 1
 - [Outdoor Heating Accessories | Patiofyre](https://www.patiofyre.com/collections/accessories): Enhance your patio heater with our top-quality accessories. Browse our selection to find the perfect addition to your outdoor space.
-  Updated: 2025-10-10T11:19:15Z
+  Updated: 2025-10-11T11:21:10Z
   Total Products: 13
 - [Jetlamps](https://www.patiofyre.com/collections/jetlamps): Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
   Updated: 2025-10-10T11:19:15Z
   Total Products: 3
 - [Best Selling Products](https://www.patiofyre.com/collections/best-selling-products)
-  Updated: 2025-10-10T11:19:15Z
+  Updated: 2025-10-11T11:21:10Z
   Total Products: 29
 - [Newest Products](https://www.patiofyre.com/collections/newest-products)
-  Updated: 2025-10-10T11:19:15Z
+  Updated: 2025-10-11T11:21:10Z
   Total Products: 29
 - [Jetlamp Only](https://www.patiofyre.com/collections/jetlamp-only)
   Updated: 2025-10-10T11:19:15Z
@@ -157,7 +157,7 @@ Shop Patiofyre Today – Experience 8 Feet of Luxury Heat for Patios, Restaurant
   Updated: 2025-10-10T11:19:15Z
   Total Products: 3
 - [Related Products - Jetlamp PDPs](https://www.patiofyre.com/collections/related-products-jetlamp-pdps)
-  Updated: 2025-10-07T11:19:04Z
+  Updated: 2025-10-11T11:21:10Z
   Total Products: 4
 
 ## Blogs
