@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-10-25T08:25:11Z
 - Contact Email: info@worldwidehifi.shop
-- Updated At: 2025-10-11T08:00:32.923Z
+- Updated At: 2025-10-11T12:00:32.784Z
 
 ## ABOUT
 WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage audio gear with insured worldwide shipping—buy here when you want premium brands for less, rare models in stock, real-item photos, highest quality guarantee and expert support.
@@ -2264,7 +2264,7 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Updated: 2025-08-30T11:22:02Z
   Total Products: 2
 - [HiFi Verstärker gebraucht kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/hifi-verstaerker-gebraucht-kaufen): HiFi Verstärker gebraucht kaufen ✓ Vollverstärker, Vorstufen, Endstufen, Röhrenverstärker & mehr im Top-Zustand ✓ Sicherer Versand ✓ Günstiges High-End HiFi
-  Updated: 2025-10-07T04:42:56Z
+  Updated: 2025-10-11T11:22:25Z
   Total Products: 87
 - [Gebrauchte Vollverstärker kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/gebrauchte-vollverstaerker-kaufen): Gebrauchte Vollverstärker kaufen ✓ Einsteigermodelle bis High-End Audio gebraucht im Top-Zustand ✓ Sicherer Versand ✓ Preiswerte High-End HiFi online bestellen
   Updated: 2025-10-05T15:03:55Z
@@ -2273,7 +2273,7 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Updated: 2025-10-06T11:19:30Z
   Total Products: 26
 - [HiFi Endverstärker gebraucht kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/hifi-endverstarker-gebraucht-kaufen): HiFi Endverstärker gebraucht kaufen ✓ Gebrauchte Endstufen & mehr im Top-Zustand ✓ Sicherer Versand ✓ Preiswertes High-End HiFi
-  Updated: 2025-10-07T04:42:56Z
+  Updated: 2025-10-11T11:22:25Z
   Total Products: 27
 - [Gebrauchte Röhrenverstärker kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/gebrauchte-roehrenverstaerker-kaufen): Gebrauchte Röhrenverstärker kaufen ✓ Röhrenverstärker im Top-Zustand gebraucht kaufen ✓ Sicherer Versand weltweit ✓ High-End HiFi günstig online bestellen
   Updated: 2025-08-22T15:35:41Z
@@ -2303,13 +2303,13 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Updated: 2025-08-16T16:03:59Z
   Total Products: 5
 - [Gebrauchte HiFi Kabel kaufen, Kabel für High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/hifi-kabel-gebraucht-kaufen): Gebrauchte HiFi Kabel kaufen ✓ Lautsprecherkabel & Kabel für High-End Geräte im Top-Zustand ✓ Sicherer Versand ✓ Günstiges High-End HiFi
-  Updated: 2025-10-10T11:22:37Z
+  Updated: 2025-10-11T11:22:25Z
   Total Products: 162
 - [Gebrauchte Lautsprecherkabel kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/gebrauchte-lautsprecherkabel-kaufen): Gebrauchte Lautsprecherkabel kaufen ✓ Gebrauchte Lautsprecherkabel & mehr im Top-Zustand ✓ Sicherer Versand ✓ Preiswertes High-End HiFi
   Updated: 2025-10-06T11:19:30Z
   Total Products: 38
 - [HiFi Netzkabel gebraucht kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/high-end-netzkabel-gebraucht-kaufen): HiFi Netzkabel gebraucht kaufen ✓ High-End Audiokabel, HiFi Netzkabel & mehr im Top-Zustand ✓ Versicherter Versand ✓ Preiswertes High-End HiFi online bestellen
-  Updated: 2025-10-07T04:42:56Z
+  Updated: 2025-10-11T11:22:25Z
   Total Products: 48
 - [HiFi-Netzleisten gebraucht kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/hifi-netzleisten-gebraucht-kaufen): HiFi-Netzleisten gebraucht kaufen ✓ Gebrauchte Netzleisten für HiFi-Geräte im Top-Zustand! ✓ Sicherer Versand weltweit ✓ High-End HiFi online bestellen
   Updated: 2025-10-05T14:45:51Z
@@ -2321,13 +2321,13 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Updated: 2025-09-02T11:20:04Z
   Total Products: 7
 - [Vorgestellte Produkte](https://worldwidehifi.shop/collections/featured)
-  Updated: 2025-10-10T11:22:37Z
+  Updated: 2025-10-11T11:22:25Z
   Total Products: 24
 - [Verkaufte HiFi-Artikel](https://worldwidehifi.shop/collections/verkaufte-hifi-artikel)
-  Updated: 2025-10-10T16:01:27Z
+  Updated: 2025-10-11T11:22:25Z
   Total Products: 108
 - [Highest End](https://worldwidehifi.shop/collections/highest-end)
-  Updated: 2025-10-10T11:22:37Z
+  Updated: 2025-10-11T11:22:25Z
   Total Products: 22
 
 ## Store Pages
