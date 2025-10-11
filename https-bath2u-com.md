@@ -6,7 +6,7 @@
 - Timezone: Asia/Kuala_Lumpur
 - Created At: 2022-10-06T05:47:12Z
 - Contact Email: sales@bath2u.com
-- Updated At: 2025-10-10T12:00:33.028Z
+- Updated At: 2025-10-11T00:00:33.308Z
 
 ## Products
 
@@ -336,7 +336,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/A819.jpg?v=1673231591
   Price: RM 1,000.00 MYR
 - [DOCASA One Piece Washdown Water Closet come with Dual Flush](https://bath2u.com/products/docasa-one-piece-washdown-water-closet-come-with-dual-flush): Material: Ceramic Size: 690 (L) x 395 (W) x 730 (H) mmS-Trap: 200mm/250mm/300mmP-Trap: 180mmcome with straight connector OptionalPP Soft Close Seat & CoverUF Soft Close Seat & Cover
-  Updated: 2025-08-03T09:15:25Z
+  Updated: 2025-10-10T13:10:01Z
   Vendor: DOCASA
   Product Type: Water Closet
   Availability: Available
