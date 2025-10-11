@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-03-19T17:46:58Z
 - Contact Email: info@patundpatty.de
-- Updated At: 2025-10-11T04:00:34.406Z
+- Updated At: 2025-10-11T08:00:33.382Z
 
 ## Products
 
@@ -113,7 +113,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio_Kuschelkissen_Einhorn_-_PAT_PATTY-4830105.jpg?v=1751449051
     Price: 61,50 € EUR
 - [Bio Kuschelkissen Alpaka – naturweiß oder braun | PAT&PATTY](https://patundpatty.de/products/bio-kuschelkissen-alpaka): Superweiches Bio Kuschelkissen Alpaka mit Spelzfüllung – in Naturweiß oder Hellbraun. Handgemacht & schadstofffrei. Jetzt bei PAT&PATTY entdecken!
-  Updated: 2025-09-29T18:54:37Z
+  Updated: 2025-10-11T06:29:44Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -2808,6 +2808,10 @@
   - [Nachhaltiges Bio Schmusetuch für Babys: Das Pat & Patty Bio Wildschwein aus Naturmaterialien als persönliches Geschenk mit Namen entdecken](https://patundpatty.de/blogs/news/nachhaltiges-bio-schmusetuch-fur-babys-das-pat-patty-bio-wildschwein-aus-naturmaterialien-als-personliches-geschenk-mit-namen-entdecken): Nachhaltiges Bio Schmusetuch für Babys: Das Pat & Patty Bio Wildschwein aus Naturmaterialien als persönliches Geschenk mit Namen entdecken
     Updated: 2025-10-10T10:06:19Z
     Author: Sharon Engel
+  - [Was ist kuschelfreundlich? Ein umfassendes Verständnis](https://patundpatty.de/blogs/news/was-ist-kuschelfreundlich): Erfahren Sie, was ist kuschelfreundlich und warum es wichtig ist. Eine umfassende Erklärung für Eltern und umweltbewusste Käufer.
+    Updated: 2025-10-11T04:56:06Z
+    Author: Sharon
+    Tags: was ist kuschelfreundlich
 
 ## Store Pages
 
