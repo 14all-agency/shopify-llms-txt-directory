@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-02-06T23:04:14Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-10-11T08:00:39.118Z
+- Updated At: 2025-10-11T12:00:39.352Z
 
 ## Products
 
@@ -33502,13 +33502,13 @@
   Updated: 2025-09-14T16:27:53Z
   Total Products: 35
 - [Dover {Double Width} - The Tablecloth Store](https://thetableclothstore.com/collections/dover-fabric): - The Tablecloth Store
-  Updated: 2025-09-14T16:27:53Z
+  Updated: 2025-10-11T11:18:54Z
   Total Products: 4
 - [Derby {Double Width} - The Tablecloth Store](https://thetableclothstore.com/collections/derby): - The Tablecloth Store
-  Updated: 2025-09-14T16:27:54Z
+  Updated: 2025-10-11T11:18:54Z
   Total Products: 5
 - [Treasure {Double Width} - The Tablecloth Store](https://thetableclothstore.com/collections/treasure): - The Tablecloth Store
-  Updated: 2025-09-14T16:27:54Z
+  Updated: 2025-10-11T11:18:54Z
   Total Products: 5
 - [Bonanza {Double Width} - The Tablecloth Store](https://thetableclothstore.com/collections/bonanza): - The Tablecloth Store
   Updated: 2025-09-14T16:27:54Z
@@ -33520,10 +33520,10 @@
   Updated: 2025-10-07T11:19:23Z
   Total Products: 14
 - [Brocade Velvet - The Tablecloth Store](https://thetableclothstore.com/collections/brocade-velvet-1): - The Tablecloth Store
-  Updated: 2025-09-14T16:27:54Z
+  Updated: 2025-10-11T11:18:54Z
   Total Products: 14
 - [Huntsville Velvet - The Tablecloth Store](https://thetableclothstore.com/collections/huntsville-velvet): - The Tablecloth Store
-  Updated: 2025-09-14T16:27:54Z
+  Updated: 2025-10-11T11:18:54Z
   Total Products: 21
 - [Hunter Velvet - The Tablecloth Store](https://thetableclothstore.com/collections/hunter-velvet): - The Tablecloth Store
   Updated: 2025-09-14T16:27:54Z
@@ -33601,7 +33601,7 @@
   Updated: 2025-09-14T16:27:56Z
   Total Products: 9
 - [Allium - The Tablecloth Store](https://thetableclothstore.com/collections/allium): - The Tablecloth Store
-  Updated: 2025-09-14T16:27:56Z
+  Updated: 2025-10-11T11:18:54Z
   Total Products: 5
 - [Classic - The Tablecloth Store](https://thetableclothstore.com/collections/classic): - The Tablecloth Store
   Updated: 2025-09-14T16:27:56Z
@@ -33643,7 +33643,7 @@
   Updated: 2025-09-14T16:27:57Z
   Total Products: 5
 - [Cambridge - The Tablecloth Store](https://thetableclothstore.com/collections/cambridge): - The Tablecloth Store
-  Updated: 2025-09-14T16:27:57Z
+  Updated: 2025-10-11T11:18:54Z
   Total Products: 10
 - [Denver - The Tablecloth Store](https://thetableclothstore.com/collections/denver): - The Tablecloth Store
   Updated: 2025-09-14T16:27:57Z
@@ -33682,10 +33682,10 @@
   Updated: 2025-09-14T16:27:57Z
   Total Products: 3
 - [APPPlaza - Best Sellers - The Tablecloth Store](https://thetableclothstore.com/collections/appplaza-best-sellers): - The Tablecloth Store
-  Updated: 2025-10-07T11:19:23Z
+  Updated: 2025-10-11T11:18:54Z
   Total Products: 613
 - [All Products (ChatGPT-AI Product Description) - The Tablecloth Store](https://thetableclothstore.com/collections/all-products-chatgpt-ai-product-description): Bulk Description Generator This hidden collection is created exclusively to help you generate product descriptions for all your products at once—it remains hidden from your storefront. Steps to Generate All Product Descriptions: Start on the Home Screen: Open the app's home screen and follow the easy flow for content generation. Select "Entire Collection" to be redirected to the collection order page and click Start. Select Your Collection: Choose this collection All Products (ChatGPT-AI Product Description) for which you want to generate descriptions. Generate Descriptions: Click the Generate button to automatically create new product descriptions for all the products in the selected collection. This streamlined process lets you update your product details quickly and efficiently, boosting your store's SEO and customer engagement without affecting your live storefront. - The Tablecloth Store
-  Updated: 2025-10-07T11:19:23Z
+  Updated: 2025-10-11T11:18:54Z
   Total Products: 613
 - [SPRING GARDEN - The Tablecloth Store](https://thetableclothstore.com/collections/spring-garden): - The Tablecloth Store
   Updated: 2025-09-14T16:27:57Z
@@ -33694,7 +33694,7 @@
   Updated: 2025-09-14T16:27:58Z
   Total Products: 7
 - [Our full catalog - The Tablecloth Store](https://thetableclothstore.com/collections/our-full-catalog): - The Tablecloth Store
-  Updated: 2025-10-07T11:19:23Z
+  Updated: 2025-10-11T11:18:54Z
   Total Products: 592
 - [Try out - The Tablecloth Store](https://thetableclothstore.com/collections/try-out): - The Tablecloth Store
   Updated: 2025-09-04T18:59:07Z
@@ -33703,7 +33703,7 @@
   Updated: 2025-09-14T16:27:58Z
   Total Products: 22
 - [New! Shopify performance sharing is now turned on - The Tablecloth Store](https://thetableclothstore.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel. - The Tablecloth Store
-  Updated: 2025-10-07T11:19:23Z
+  Updated: 2025-10-11T11:18:54Z
   Total Products: 613
 
 ## Blogs
