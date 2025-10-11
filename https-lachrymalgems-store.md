@@ -6,19 +6,19 @@
 - Timezone: America/Chicago
 - Created At: 2025-10-03T06:30:37Z
 - Contact Email: mandiemaddox@mystichiddengem.com
-- Updated At: 2025-10-10T12:00:28.509Z
+- Updated At: 2025-10-11T12:00:27.715Z
 
 ## Products
 
 - [Forgotten Gem Key Duffle Bag](https://lachrymalgems.store/products/forgotten-gem-key-duffle-bag): Introducing a stylish and versatile duffel bag perfect for your next adventure! This bag combines functionality with a chic design, making it ideal for gym sessions, weekend getaways, or everyday errands. Featuring a durable structure and a vibrant print, it effortlessly elevates your outfit while offering practicality. The spacious compartments ensure your belongings are organized, while the removable shoulder strap adds comfort for long hauls. This duffel bag is perfect for anyone seeking a trendy yet functional accessory, making it a fantastic gift for fitness enthusiasts or travel lovers. Celebrate holidays, birthdays, or special occasions with a thoughtful and stylish present!Product features- Durable black double zipper closure for easy access- Multiple compartments for organized storage- Removable and adjustable shoulder strap with padding- Made from strong and moisture-resistant polyester- Available in small and large sizes for varied needsCare instructions- Dryclean
-  Updated: 2025-10-10T11:42:33Z
+  Updated: 2025-10-10T21:56:50Z
   Vendor: Printify
   Product Type: Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/background-editor_output_0061f96a-f838-4160-9d72-9b5a80a9a84d.png?v=1760053348
   Price: $52.28 USD
 - [Neon Animal Print High Top Sneakers](https://lachrymalgems.store/products/neon-animal-print-high-top-sneakers-trippy-print-canvas-shoes): These neon animal print gem fluid trippy print canvas sneakers are perfect for adding a pop of color and personality to any fall outfit. The unique design gives off a fun and vibrant vibe, making them a great choice for fashion-forward individuals looking to stand out. These sneakers are ideal for women who love bold and eye-catching accessories, and they are perfect for casual wear or to elevate a street style look. Relevanct for festivals, concerts, or everyday wear.Product features- Metal eyelets for shoe laces- Pleather round toe for durability- 100% polyester canvas for comfort- Shock-absorbent EVA insole- Breathable polyester canvas with PU leather decorationCare instructions- To maintain clean, use warm water with dish soap to clean off any dirt spots. It’s not necessary to soak the whole item. For hard-to-clean spots, use a soft-bristled brush.Images by [paprika, Kolesov Sergey, argus, Itana / Shutterstock]
-  Updated: 2025-10-10T11:40:16Z
+  Updated: 2025-10-10T21:58:05Z
   Vendor: Printify
   Product Type: Shoes
   Availability: Available
@@ -51,7 +51,7 @@
     Availability: Available
     Price: $56.98 USD
 - [Hidden Gem Fall/Winter Gaiter](https://lachrymalgems.store/products/hidden-gem-fall-winter-gaiter): L Width, in 9.49 Length, in 17.52 Discover our lightweight neck gaiter, a perfect blend of comfort and protection designed for the active lifestyle. This versatile accessory offers a stylish touch to any outfit, whether you're out hiking, biking, or enjoying a sunny day outdoors. Its breathable, elastic fabric ensures a snug fit, making it ideal for sports enthusiasts or anyone who loves exploring nature. Perfect for a sunny day at the park, music festivals, or a casual day out, this neck gaiter is a great gift for adventurous souls and outdoor lovers. With UPF 50+ sun protection, it’s not only functional but also keeps you safe from harmful UV rays. A thoughtful present for birthdays, holidays, or just because, it makes an ideal companion for anyone looking to combine practicality with style.Product features- 100% polyester microfiber for ultimate comfort and breathability- Versatile design: wear it as a neck gaiter, headband, or scarf- Offers UPF 50+ sun protection for outdoor activities- Durable overlocked seams for long-lasting wear- Absorbs moisture, perfect for hot weather conditionsCare instructions- Do not dryclean- Do not iron- Tumble dry: low heat- Do not bleach- Machine wash: warm (max 40C or 105F)
-  Updated: 2025-10-10T11:41:01Z
+  Updated: 2025-10-10T21:58:59Z
   Vendor: Printify
   Product Type: All Over Prints
   Availability: Available
@@ -171,100 +171,94 @@
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/rn-image_picker_lib_temp_e85f573a-571d-4f62-985a-492133268e78.webp?v=1759761086
   Price: $45.80 USD
 - [Love Lost Skeletons Retro Crop Tee](https://lachrymalgems.store/products/love-lost-skeletons-retro-crop-tee-trendy-womens-top-casual-streetwear-graphic-tee-unique-gift-for-her-festival-wear-statement-t-shirt): XS/S M/L Width, in 15.62 17.12 Length, in 16.50 17.50 Embrace your unique style with this Women’s Poly-Cotton Crop Tee. Made from a soft blend of cotton and polyester, this tee not only feels incredible against your skin, but also boasts a flattering, form-fitting design that enhances your silhouette. The eye-catching graphic adds a touch of artistry, making it a perfect statement piece for casual outings or relaxed weekends. Ideal for fashion-forward individuals, this crop tee fits seamlessly into eclectic wardrobes. Whether you pair it with shorts for a sunny day out or layer it with your favorite jacket for an evening look, this tee enhances any outfit. Perfect for casual gatherings, music festivals, or simply lounging at home, it makes a versatile gift for birthdays or celebrations, and a great addition to your wardrobe for the upcoming summer season!Product features- Soft fabric blend of 52% airlume combed and ring-spun cotton and 48% polyester- Flattering form-fitting design for a stylish look- Includes side seams for structural support and shape retention- Lightweight material at just 3.6 oz/yd² (122 g/m²)- Convenient tear-away label for added comfortCare instructions- Machine wash: cold (max 30C or 90F), with similar colors - Do not bleach- Tumble dry: low heat- Iron, steam or dry: low heat, do not iron on print- Do not dryclean
-  Updated: 2025-10-10T11:09:23Z
+  Updated: 2025-10-11T09:55:25Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/17148230643405009097_2048.jpg?v=1759544780
+  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/background-editor_output_7847771b-5597-4b4b-b1e8-e3dca0fdc208.png?v=1760133319
   - [Black / XS/S](https://lachrymalgems.store/products/love-lost-skeletons-retro-crop-tee-trendy-womens-top-casual-streetwear-graphic-tee-unique-gift-for-her-festival-wear-statement-t-shirt?variant=47092253262069)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/17148230643405009097_2048.jpg?v=1759544780
     Price: $27.72 USD
   - [Black / M/L](https://lachrymalgems.store/products/love-lost-skeletons-retro-crop-tee-trendy-womens-top-casual-streetwear-graphic-tee-unique-gift-for-her-festival-wear-statement-t-shirt?variant=47092253294837)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/17148230643405009097_2048.jpg?v=1759544780
     Price: $27.72 USD
 - [Eternal Loop Lost Skeleton Lovers Cropped Sweatshirt](https://lachrymalgems.store/products/eternal-loop-lost-skeleton-lovers-cropped-sweatshirt-for-trendy-women-retro-vibe-perfect-for-casual-outings-gifts-and-events): This stylish Women's Cropped Sweatshirt adds a pop of personality to any wardrobe with the very warming love lost skeletons each items telling its own story within the digital art S M L XL 2XL Length, in 17.00 18.00 18.00 20.00 22.00 Width, in 21.37 22.75 25.50 27.12 29.12 Sleeve length, in 20.67 20.67 20.87 20.98 21.10 Size tolerance, in 1.00 1.00 1.00 1.00 1.00 . Made from a blend of soft, luxurious cotton and polyester, it offers the perfect balance of comfort and style. The relaxed fit with dropped shoulders ensures a laid-back vibe, making it an ideal choice for casual outings or cozy nights in. With its edgy raw bottom hem and ribbed-knit cuffs and collar, this sweatshirt is designed to stand out. Perfect for those who appreciate unique fashion, it makes a wonderful gift for friends or family celebrating milestone birthdays, cozy winter gatherings, or simply for anyone looking to elevate their everyday look. Whether paired with high-waisted jeans or leggings, this cropped sweatshirt will be your go-to for showcasing your individuality during casual hangouts or laid-back parties.Product features- Soft and luxurious fabric blend for ultimate comfort.- Relaxed fit with dropped shoulders for easy wear.- Edgy raw bottom hem adds a fashionable touch.- Highly elastic ribbed-knit cuffs and collar retain shape.- Adult sizing with a tear-away label for convenience.Care instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Iron, steam or dry: low heat- Do not dryclean
-  Updated: 2025-10-10T11:09:23Z
+  Updated: 2025-10-11T09:53:37Z
   Vendor: Printify
   Product Type: Sweatshirt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/7590772071000907401_2048.jpg?v=1759545277
+  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/background-editor_output_e3778bc5-f31d-4841-a95f-1fdd5c9f7a03.png?v=1760133208
   - [Black / S](https://lachrymalgems.store/products/eternal-loop-lost-skeleton-lovers-cropped-sweatshirt-for-trendy-women-retro-vibe-perfect-for-casual-outings-gifts-and-events?variant=47092254081269)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/5691119030769726269_2048.jpg?v=1759545309
     Price: $55.20 USD
   - [Mauve / S](https://lachrymalgems.store/products/eternal-loop-lost-skeleton-lovers-cropped-sweatshirt-for-trendy-women-retro-vibe-perfect-for-casual-outings-gifts-and-events?variant=47092254114037)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/7590772071000907401_2048.jpg?v=1759545277
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/7590772071000907401_2048.jpg?v=1760133208
     Price: $55.20 USD
   - [Deep Heather / S](https://lachrymalgems.store/products/eternal-loop-lost-skeleton-lovers-cropped-sweatshirt-for-trendy-women-retro-vibe-perfect-for-casual-outings-gifts-and-events?variant=47092254146805)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/5892335986013518364_2048.jpg?v=1759545301
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/5892335986013518364_2048.jpg?v=1760133208
     Price: $55.20 USD
   - [Dusty Blue / S](https://lachrymalgems.store/products/eternal-loop-lost-skeleton-lovers-cropped-sweatshirt-for-trendy-women-retro-vibe-perfect-for-casual-outings-gifts-and-events?variant=47092254179573)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/9407029694078201566_2048.jpg?v=1759545322
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/9407029694078201566_2048.jpg?v=1760133208
     Price: $55.20 USD
   - [Black / M](https://lachrymalgems.store/products/eternal-loop-lost-skeleton-lovers-cropped-sweatshirt-for-trendy-women-retro-vibe-perfect-for-casual-outings-gifts-and-events?variant=47092254212341)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/5691119030769726269_2048.jpg?v=1759545309
     Price: $55.20 USD
   - [Mauve / M](https://lachrymalgems.store/products/eternal-loop-lost-skeleton-lovers-cropped-sweatshirt-for-trendy-women-retro-vibe-perfect-for-casual-outings-gifts-and-events?variant=47092254245109)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/7590772071000907401_2048.jpg?v=1759545277
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/7590772071000907401_2048.jpg?v=1760133208
     Price: $55.20 USD
   - [Deep Heather / M](https://lachrymalgems.store/products/eternal-loop-lost-skeleton-lovers-cropped-sweatshirt-for-trendy-women-retro-vibe-perfect-for-casual-outings-gifts-and-events?variant=47092254277877)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/5892335986013518364_2048.jpg?v=1759545301
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/5892335986013518364_2048.jpg?v=1760133208
     Price: $55.20 USD
   - [Dusty Blue / M](https://lachrymalgems.store/products/eternal-loop-lost-skeleton-lovers-cropped-sweatshirt-for-trendy-women-retro-vibe-perfect-for-casual-outings-gifts-and-events?variant=47092254310645)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/9407029694078201566_2048.jpg?v=1759545322
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/9407029694078201566_2048.jpg?v=1760133208
     Price: $55.20 USD
   - [Black / L](https://lachrymalgems.store/products/eternal-loop-lost-skeleton-lovers-cropped-sweatshirt-for-trendy-women-retro-vibe-perfect-for-casual-outings-gifts-and-events?variant=47092254343413)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/5691119030769726269_2048.jpg?v=1759545309
     Price: $55.20 USD
   - [Mauve / L](https://lachrymalgems.store/products/eternal-loop-lost-skeleton-lovers-cropped-sweatshirt-for-trendy-women-retro-vibe-perfect-for-casual-outings-gifts-and-events?variant=47092254376181)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/7590772071000907401_2048.jpg?v=1759545277
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/7590772071000907401_2048.jpg?v=1760133208
     Price: $55.20 USD
   - [Deep Heather / L](https://lachrymalgems.store/products/eternal-loop-lost-skeleton-lovers-cropped-sweatshirt-for-trendy-women-retro-vibe-perfect-for-casual-outings-gifts-and-events?variant=47092254408949)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/5892335986013518364_2048.jpg?v=1759545301
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/5892335986013518364_2048.jpg?v=1760133208
     Price: $55.20 USD
   - [Dusty Blue / L](https://lachrymalgems.store/products/eternal-loop-lost-skeleton-lovers-cropped-sweatshirt-for-trendy-women-retro-vibe-perfect-for-casual-outings-gifts-and-events?variant=47092254441717)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/9407029694078201566_2048.jpg?v=1759545322
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/9407029694078201566_2048.jpg?v=1760133208
     Price: $55.20 USD
   - [Black / XL](https://lachrymalgems.store/products/eternal-loop-lost-skeleton-lovers-cropped-sweatshirt-for-trendy-women-retro-vibe-perfect-for-casual-outings-gifts-and-events?variant=47092254474485)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/5691119030769726269_2048.jpg?v=1759545309
     Price: $55.20 USD
   - [Mauve / XL](https://lachrymalgems.store/products/eternal-loop-lost-skeleton-lovers-cropped-sweatshirt-for-trendy-women-retro-vibe-perfect-for-casual-outings-gifts-and-events?variant=47092254507253)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/7590772071000907401_2048.jpg?v=1759545277
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/7590772071000907401_2048.jpg?v=1760133208
     Price: $55.20 USD
   - [Deep Heather / XL](https://lachrymalgems.store/products/eternal-loop-lost-skeleton-lovers-cropped-sweatshirt-for-trendy-women-retro-vibe-perfect-for-casual-outings-gifts-and-events?variant=47092254540021)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/5892335986013518364_2048.jpg?v=1759545301
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/5892335986013518364_2048.jpg?v=1760133208
     Price: $55.20 USD
   - [Dusty Blue / XL](https://lachrymalgems.store/products/eternal-loop-lost-skeleton-lovers-cropped-sweatshirt-for-trendy-women-retro-vibe-perfect-for-casual-outings-gifts-and-events?variant=47092254572789)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/9407029694078201566_2048.jpg?v=1759545322
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/9407029694078201566_2048.jpg?v=1760133208
     Price: $55.20 USD
   - [Deep Heather / 2XL](https://lachrymalgems.store/products/eternal-loop-lost-skeleton-lovers-cropped-sweatshirt-for-trendy-women-retro-vibe-perfect-for-casual-outings-gifts-and-events?variant=47092254605557)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/5892335986013518364_2048.jpg?v=1759545301
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/5892335986013518364_2048.jpg?v=1760133208
     Price: $61.24 USD
   - [Dusty Blue / 2XL](https://lachrymalgems.store/products/eternal-loop-lost-skeleton-lovers-cropped-sweatshirt-for-trendy-women-retro-vibe-perfect-for-casual-outings-gifts-and-events?variant=47092254638325)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/9407029694078201566_2048.jpg?v=1759545322
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/9407029694078201566_2048.jpg?v=1760133208
     Price: $61.24 USD
   - [Mauve / 2XL](https://lachrymalgems.store/products/eternal-loop-lost-skeleton-lovers-cropped-sweatshirt-for-trendy-women-retro-vibe-perfect-for-casual-outings-gifts-and-events?variant=47092254671093)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/7590772071000907401_2048.jpg?v=1759545277
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/7590772071000907401_2048.jpg?v=1760133208
     Price: $61.24 USD
 - [Galaxy Lost Love Skeletons Relaxed Shorts](https://lachrymalgems.store/products/galaxy-lost-love-skeletons-print-womens-relaxed-shorts-comfy-lounge-wear-summer-outfits-festival-attire-gifts-for-space-lovers): XS S M L XL 2XL Waist width, in 13.39 13.98 14.57 15.16 15.75 16.34 Hips width, in 20.08 21.06 22.05 23.03 24.02 25.98 Length, in 10.31 10.79 11.26 11.73 12.20 12.68 ​Blast off into unique style and ultimate comfort with our "Galaxy Lost Love Skeletons" Women's Relaxed Shorts. These shorts are a stellar fusion of cosmic wonder and poignant artistry, perfect for summer adventures, comfy lounge wear, or making a vibrant statement at your next festival. ​Why These Shorts Will Be Your New Favorite: ​Celestial "Lost Love" Design: Featuring an ethereal galaxy backdrop swirling with vibrant nebulae and distant stars, adorned with two intertwined skeletons, symbolizing enduring connection or poignant "lost love." This captivating graphic is truly out of this world. ​Vibrant & Eye-Catching: The rich, colorful galaxy print ensures these shorts are a head-turner, adding a dynamic and artistic touch to any outfit. ​Ultimate Comfort & Relaxation: Crafted for a relaxed fit, these shorts provide exceptional comfort, whether you're lounging at home, exploring the outdoors, or dancing the night away. ​Versatile for Any Occasion: ​Summer Outfits: Lightweight and breathable for hot weather. ​Comfy Lounge Wear: Perfect for casual days and relaxing. ​Festival Attire: Stand out in the crowd with a unique, expressive design. ​Gifts for Space Lovers: An ideal present for anyone fascinated by the cosmos and distinctive art. ​High-Quality Print & Fabric: The vivid galaxy print is sublimated into durable fabric, ensuring the colors stay brilliant and the design lasts, wear after wear. ​Range of Sizes: Available in XS to 2XL to ensure a comfortable fit for diverse body types Product features- 100% Polyester for strength and durability- Soft fabric ensures comfortable wear- Adjustable drawstring waist for a perfect fit- Side seams provide structural support- Medium fabric weight for versatility and comfortCare instructions- Do not dryclean- Do not iron- Tumble dry: low heat- Do not bleach- Machine wash: cold (max 30C or 90F) Image by [clearviewstock / Shutterstock]
   Updated: 2025-10-10T11:09:23Z
@@ -539,11 +533,11 @@
     Availability: Available
     Price: $52.77 USD
 - [Skeleton Love Necklace, Aesthetic , Gothic Pendant](https://lachrymalgems.store/products/skeleton-love-necklace-aesthetic-gothic-pendant-unisex-gift-alternative-fashion-unique-statement-piece): Introducing this stunning Oval Necklace that adds a unique touch to any outfit. With its eye-catching elipsoid shape, this piece serves as a canvas for your most vibrant love lost skeletons design One Size Pendant height, in 1.50 Pendant width, in 1.00 Chain length, in 20.47 perfect for expressing your individuality. The glossy finish ensures that every detail pops, making it a standout accessory for casual wear or special occasions. Ideal for art lovers and fashion enthusiasts alike, this necklace is perfect for gifting during holidays like Mother's Day, birthdays, or just to celebrate friendship. Wear it as a statement piece or layer it with other favorites for a trendy look!Product features- Vibrant colors through advanced printing techniques for striking designs.- Glossy finish that enhances the full-color print on the pendant.- Ellipse shape allows for unique customization and personalization.- Secure lobster clasp closure to keep the necklace safely in place.- Durable zinc alloy pendant and chain ensure longevity.Care instructions- Wipe the dust or any dirt off gently with a clean, dry cloth.EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Generic brand, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Care instructions: Wipe the dust or any dirt off gently with a clean, dry cloth.
-  Updated: 2025-10-10T11:09:23Z
+  Updated: 2025-10-10T21:43:35Z
   Vendor: Printify
   Product Type: Accessories
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/background-editor_output_de17e5e3-467d-438c-abce-38a400034691.png?v=1760043192
+  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/background-editor_output_de17e5e3-467d-438c-abce-38a400034691.png?v=1760132615
   Price: $18.25 USD
 - [Sandals - Memento Mori Vaporwave Aesthetic](https://lachrymalgems.store/products/sandals-memento-mori-sad-lonely-skeleton-swing-vaporwave-aesthetic-fashion): US 6 US 7 US 8 US 9 US 10 US 11 US 12 US 13 US 14 EU size 40 41 42 43 44 45 46 47 49 UK size 5 6 7 8 9 10 11 12 13 Length, in 9.80 10.12 10.31 10.59 10.79 11.10 11.30 11.61 12.20 Vaporwave-inspired Men's Sandals featuring memento mori text and a sad lonely skeleton on a swing. Perfect for those who appreciate alternative glitch aesthetics and want to make a statement. Ideal for casual wear or beach days. Relevant for Halloween, Day of the Dead, or any edgy fashion enthusiast.Product features- Embossed insole for secure grip- Comfortable foot curvature for all-day wear- Removable snap-on/off straps for customizable style- Lightweight cushioned sole with quick-drying strap- Made of high-quality materials: polyurethane outsoles, polyester & neoprene strapsCare instructions- Remove straps from soles. Machine wash straps on warm. air dry. Hand wash soles with dish soap. Re-attach straps when dry.EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Deco Slides, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Care instructions: Remove straps from soles. Machine wash straps on warm. air dry. Hand wash soles with dish soap. Re-attach straps when dry.
   Updated: 2025-10-10T11:09:23Z
@@ -633,7 +627,7 @@
     Availability: Available
     Price: $9.50 USD
 - [Love Lost Skeletons (Men’s Long Sleeve Shirt](https://lachrymalgems.store/products/love-lost-skeletons-men-s-long-sleeve-shirt): A good long-sleeved shirt is a men's fashion must-have. This design is a must have from our limited collection of a love that has been lost skeletons. Rich with glitch neon vaporwave story telling aesthetics. Add this wardrobe essential to your collection, and have a great to-go option for a casual look, or a relaxed business outfit. • 100% cotton • Sport Grey is 90% cotton, 10% polyester • Classic fit with long sleeves and rib cuffs • Pre-shrunk jersey knit • Seamless double-needle 7⁄8'' (2.2 cm) collar • Double-needle bottom hem • Taped neck and shoulders • Quarter-turned to avoid crease down the middle Disclaimer: Due to the fabric properties, the White color variant may appear off-white rather than bright white.Size guide LENGTH (inches) WIDTH (inches) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28 4XL 34 30
-  Updated: 2025-10-10T11:09:24Z
+  Updated: 2025-10-10T21:44:48Z
   Vendor: Lachrymal Gems
   Product Type: T-SHIRT
   Availability: Available
@@ -660,7 +654,7 @@
     Availability: Available
     Price: $55.50 USD
 - [Enchanting Neon Memento Mori Mystic Ladies Slippers - Cozy Footwear for Home,](https://lachrymalgems.store/products/enchanting-neon-memento-mori-mystic-ladies-slippers-cozy-footwear-for-home): Slip into cozy bliss and become the vibe with these Indoor Slippers. Designed with a beatiful plea they radiate a fun, energetic vibe that’s perfect for cozy nights in or casual lounging, remind us to enjoy the good and comfy moments in life because we must die eventually. Ideal for relaxing at home, these slippers add a pop of color to your daily monotone gloom. The perfect gift for mothers, daughters, or friends, especially during Holidays or just self-care moments. Embrace comfort and mystic mystery in your everyday journey US 7 - 8 EU size 39 - 40 Heel to toe (inside), in 10.20 Width, in 4.02 !Product features- Soft flannel fleece fabric for ultimate comfort and durability.- Anti-slip textured outsole for safe movement on various surfaces.- Removable insole for easy cleaning and quick drying.- Crafted from 100% polyester for a lightweight feel.- Stylish black rubber sole for a modern touch.Care instructions- To maintain clean, use warm water with dish soap to clean off any dirt spots. It’s not necessary to soak the whole item. For hard-to-clean spots, use a soft-bristled brush.
-  Updated: 2025-10-10T11:09:24Z
+  Updated: 2025-10-10T21:42:42Z
   Vendor: Printify
   Product Type: Shoes
   Availability: Available
@@ -681,7 +675,7 @@
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/rn-image_picker_lib_temp_40f68d05-1bdc-4f1f-ba3d-2b2376860eda.webp?v=1760028115
   Price: $57.70 USD
 - [Love Lost Skeletons Mens  Long Sleeve Tee](https://lachrymalgems.store/products/love-lost-skeletons-mens-long-sleeve-tee): XS S M L XL 2XL 3XL 4XL Width, in 17.50 19.00 20.50 22.00 23.50 25.00 27.00 29.00 Length, in 27.00 28.00 29.00 30.00 31.00 32.00 32.50 33.00 Sleeve Length, in 34.25 35.00 35.75 36.50 37.25 38.00 38.75 39.50 Size Tolerance, in 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00 This Long Sleeve Tee features a dark and emotive design with themes of lost skeletons, gods hands, and heartbreak. Perfect for those who appreciate emo vibes, cloud rap, dark aesthetics, and glitch aesthetics. Ideal for those who enjoy expressing their emotions through their clothing. Relevant for Halloween, emo culture events, and music festivals.Product features- Shoulder taped for stability- Ribbed-knit cuffs and collar for elasticity- Tear-away label for comfort- Made from 60% cotton, 40% polyester for a pleasant feel- 1x1 rib knit neck and cuffs for durabilityCare instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Iron, team or dry: medium heat- Do not dryclean
-  Updated: 2025-10-10T11:09:24Z
+  Updated: 2025-10-10T21:45:10Z
   Vendor: Printify
   Product Type: Long-sleeve
   Availability: Available
@@ -931,21 +925,21 @@
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/background-editor_output_e7b2e695-ed06-4f83-9b25-d7e36f1908c5.png?v=1760041599
   Price: $40.43 USD
 - [Skin-Glow Face and Body Cleanser, 6oz](https://lachrymalgems.store/products/skin-glow-face-and-body-cleanser-6oz): This gentle cleanser equips your daily skincare routine with a versatile solution for both face and body care. This cleansing gel comes in a convenient 6 fl. oz. clear PET bottle with a white pump, making it easy to use and store. Ideal for sensitive or acne-prone skin, it effectively removes excess oil without causing irritation. With its balanced and gentle formula, it leaves your skin feeling refreshed and clean without any added fragrance. Plus, it's 100% vegan, cruelty-free, and packaged in recyclable materials. Made in the USA from globally sourced ingredients.Aqua, Cocamidopropyl Betaine, Glycerin, Decyl Glucoside, Panthenol, Glycyrrhiza Glabra (Licorice) Root Extract, Camellia Sinensis Leaf Extract, Xanthan Gum, Hamamelis Virginiana (Witch Hazel) Water, Alcohol, Butylene Glycol, Fomes Officinalis (Mushroom) Extract, Disodium EDTA, Citric Acid, Phenoxyethanol, Ethylhexylglycerin.Free of parabens, formaldehydes, formaldehyde-releasing agents, phthalates, mineral oil, oxybenzone, coal tar, hydroquinone, sulfates SLS & SLES, triclocarban, triclosan, and synthetic fragrance.Please note: This product is not eligible for publishing on Etsy and TikTok Shop US. More info here. .: Recommended for sensitive or acne-prone skin.: Cleansing gel for removing excess oil.: Face and body use.: Balanced and gentle formula.: Fragrance-Free.: 100% vegan, cruelty-free, and comes in recyclable packaging.: Clear PET bottle with white pump.: Design printed on a sticker label.: Made in the USA from globally sourced ingredients.: 6 fl. oz. (177ml).: Please note: This product is shipped only to the United States and their territories, as well as Canada.: Please note: This product is not eligible for publishing on Etsy and TikTok Shop US. 6oz Bottle height, in 7.20 Bottle diameter, in 1.26
-  Updated: 2025-10-10T11:09:24Z
+  Updated: 2025-10-10T12:06:42Z
   Vendor: Printify
   Product Type: Beauty products
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/14052505036802613705_2048.jpg?v=1760054798
   Price: $18.20 USD
 - [Alt.Organic Hair Growth Tonic, 2oz](https://lachrymalgems.store/products/alt-organic-hair-growth-tonic-2oz): This lightweight hair tonic is enriched with biotin, plant-based turmeric, and caffeine for a nourishing, and strengthening combo that helps boost hair health. This stimulating formula helps improve length retention, reduces signs of hair thinning, and hydrates the follicles for hair that looks thicker, and fuller. Fast-absorbing recipe with no residue that is lightweight and perfect for daily use.Ingredients: Aqua (Water), Alcohol Denat., Propanediol, 1,2-Hexanediol, Phospholipids, Caffeine, Curcuma Longa (Turmeric) Callus Culture Conditioned Media, Biotin.Free of parabens, formaldehydes, formaldehyde-releasing agents, phthalates, mineral oil, oxybenzone, coal tar, hydroquinone, sulfates SLS & SLES, triclocarban, triclosan, and synthetic fragrance.Please note: This product is not eligible for publishing on Etsy and TikTok Shop US. More info here. .: Helps improve length retention.: Reduces signs of hair thinning for thicker, fuller, longer looking hair.: Lightweight, fast-absorbing treatment.: Residue-less formula produces healthy and hydrated results.: 100% vegan, cruelty-free, and comes in recyclable packaging.: Amber glass bottle with black glass dropper.: Design printed on a sticker label.: Assembled in the USA from globally sourced ingredients.: 2 fl oz. (60 ml).: Please note: This product is shipped only to the United States and their territories, as well as Canada.: Please note: This product is not eligible for publishing on Etsy and TikTok Shop US. 2oz Bottle height, in 4.60 Bottle diameter, in 1.50
-  Updated: 2025-10-10T11:09:24Z
+  Updated: 2025-10-10T12:11:50Z
   Vendor: Printify
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/7950979821947501599_2048.jpg?v=1760055105
   Price: $24.73 USD
 - [Dark Hello Kitty Remixed Purple Vibes Alternative Aesthetic Ladies Sports Bra](https://lachrymalgems.store/products/sports-bra-dark-hello-kitty-remixed-purple-vibes-alternative-aesthetic): This Sports Bra features a dark and alternative aesthetic with a Purple Vibes design. Perfect for those looking for a unique and edgy look while working out or lounging. Ideal for individuals who enjoy expressing their individuality in their activewear. Relevant for holidays, such as Halloween or any occasion where a bold and unique look is desired.Product features- Moisture-wicking material for keeping cool during physical activity- Supportive double-layer front with shoulder strap support- All over print design for a bold look- 83% polyester, 17% spandex for strength and stretch- Assembled in the USA from globally sourced partsCare instructions- Do not dryclean- Do not iron- Do not tumble dry- Do not bleach- Machine wash: cold (max 30C or 90F) S M L XL 2XL Underbust width, in 13.39 - 15.16 15.16 - 16.14 16.14 - 17.13 17.13 - 18.11 18.11 - 19.09
-  Updated: 2025-10-10T11:09:24Z
+  Updated: 2025-10-10T12:37:47Z
   Vendor: Printify
   Product Type: All Over Prints
   Availability: Available
@@ -966,76 +960,106 @@
     Availability: Available
     Price: $31.57 USD
 - [Occult Aesthetic Unisex Beanie](https://lachrymalgems.store/products/occult-aesthetic-unisex-beanie): This occult dark aesthetic beanie is perfect for adding a touch of mystery to your winter or fall attire. Cozy and unisex, this beanie is ideal for those who appreciate unique and alternative fashion. It is relevant to Halloween, gothic events, and everyday wear for those who love the dark aesthetic.Product features- 100% Polyester for durability- Interlock knit for smoothness and stretch- One size fits most- Medium fabric weight for warmth- Double-sided design for versatilityCare instructions- Do not dryclean- Do not iron- Do not tumble dry- Do not bleach- Machine wash: cold (max 30C or 90F) One size Width, in 7.00 Height, in 7.00
-  Updated: 2025-10-10T11:09:24Z
+  Updated: 2025-10-11T09:51:36Z
   Vendor: Printify
   Product Type: All Over Prints
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/12257766630473098506_2048.jpg?v=1760089682
+  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/background-editor_output_aa595708-f723-4146-a665-6b97c0e9ae02.png?v=1760133093
   Price: $20.62 USD
-- [Stylish High Top Sneakers with Vibrant Design, Trendy Footwear, Fashionable Sneakers, Unique Artistic Shoes, Cool Casual Kicks, [...]](https://lachrymalgems.store/products/stylish-high-top-sneakers-with-vibrant-design-trendy-footwear-fashionable-sneakers-unique-artistic-shoes-cool-casual-kicks): Step into style and comfort with these Men's High Top Sneakers. Designed for the modern individual, these sneakers evoke a vibrant, youthful energy that allows you to express your personality effortlessly. Perfect for casual outings, social gatherings, or just lounging at home, they fit seamlessly into any lifestyle. Whether you're a sneakerhead or just want a trendy upgrade to your footwear collection, these high tops are an essential addition.Ideal for birthdays, casual get-togethers, and even as a thoughtful gift during the holiday season, they make a statement while keeping you comfortable all day long. With their unique design and attention to detail, these sneakers will elevate your wardrobe and keep your feet stylishly happy. Whether you're heading out for a day with friends or just running errands, you'll feel supported and trendy in these high tops. They resonate with those who appreciate fashion-forward footwear that doesn’t compromise on comfort.Product features- 100% polyester canvas for ultimate softness and comfort- Stylish metal eyelets for durability and support- Pleather round toe ensures added durability- Shock-absorbing EVA insole for a light and flexible feel- Breathable design with full wraparound print for a unique lookCare instructions- To maintain clean, use warm water with dish soap to clean off any dirt spots. It’s not necessary to soak the whole item. For hard-to-clean spots, use a soft-bristled brush. US 5 US 6 US 7 US 7.5 US 8.5 US 9.5 US 10 US 11 US 12 US 13 US 14 EU size 38 39 40 41 42 43 44 45 46 47 48 Heel to toe (inside), in 10.00 10.20 10.50 10.70 11.00 11.30 11.50 11.80 12.10 12.30 12.60 Width, in 3.60 3.70 3.80 3.90 3.90 4.00 4.10 4.10 4.20 4.20 4.30
-  Updated: 2025-10-10T11:09:24Z
+- [Mens Canvas All Over Design Print with Dark Aesthetics](https://lachrymalgems.store/products/stylish-high-top-sneakers-with-vibrant-design-trendy-footwear-fashionable-sneakers-unique-artistic-shoes-cool-casual-kicks): Step into style and comfort with these Men's High Top Sneakers. Designed for the modern individual, these sneakers evoke a vibrant, youthful energy that allows you to express your personality effortlessly. Perfect for casual outings, social gatherings, or just lounging at home, they fit seamlessly into any lifestyle. Whether you're a sneakerhead or just want a trendy upgrade to your footwear collection, these high tops are an essential addition.Ideal for birthdays, casual get-togethers, and even as a thoughtful gift during the holiday season, they make a statement while keeping you comfortable all day long. With their unique design and attention to detail, these sneakers will elevate your wardrobe and keep your feet stylishly happy. Whether you're heading out for a day with friends or just running errands, you'll feel supported and trendy in these high tops. They resonate with those who appreciate fashion-forward footwear that doesn’t compromise on comfort.Product features- 100% polyester canvas for ultimate softness and comfort- Stylish metal eyelets for durability and support- Pleather round toe ensures added durability- Shock-absorbing EVA insole for a light and flexible feel- Breathable design with full wraparound print for a unique lookCare instructions- To maintain clean, use warm water with dish soap to clean off any dirt spots. It’s not necessary to soak the whole item. For hard-to-clean spots, use a soft-bristled brush. US 5 US 6 US 7 US 7.5 US 8.5 US 9.5 US 10 US 11 US 12 US 13 US 14 EU size 38 39 40 41 42 43 44 45 46 47 48 Heel to toe (inside), in 10.00 10.20 10.50 10.70 11.00 11.30 11.50 11.80 12.10 12.30 12.60 Width, in 3.60 3.70 3.80 3.90 3.90 4.00 4.10 4.10 4.20 4.20 4.30
+  Updated: 2025-10-10T22:36:49Z
   Vendor: Printify
   Product Type: Shoes
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/17331088637950151317_2048.jpg?v=1760092604
+  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/background-editor_output_4348696c-a64b-4b41-bbd5-761858da53ad.png?v=1760133008
   - [US 5 / White sole](https://lachrymalgems.store/products/stylish-high-top-sneakers-with-vibrant-design-trendy-footwear-fashionable-sneakers-unique-artistic-shoes-cool-casual-kicks?variant=47120335536373)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/17331088637950151317_2048.jpg?v=1760092604
     Price: $39.21 USD
   - [US 6 / White sole](https://lachrymalgems.store/products/stylish-high-top-sneakers-with-vibrant-design-trendy-footwear-fashionable-sneakers-unique-artistic-shoes-cool-casual-kicks?variant=47120335569141)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/17331088637950151317_2048.jpg?v=1760092604
     Price: $39.21 USD
   - [US 7 / White sole](https://lachrymalgems.store/products/stylish-high-top-sneakers-with-vibrant-design-trendy-footwear-fashionable-sneakers-unique-artistic-shoes-cool-casual-kicks?variant=47120335601909)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/17331088637950151317_2048.jpg?v=1760092604
     Price: $39.21 USD
   - [US 7.5 / White sole](https://lachrymalgems.store/products/stylish-high-top-sneakers-with-vibrant-design-trendy-footwear-fashionable-sneakers-unique-artistic-shoes-cool-casual-kicks?variant=47120335634677)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/17331088637950151317_2048.jpg?v=1760092604
     Price: $39.21 USD
   - [US 8.5 / White sole](https://lachrymalgems.store/products/stylish-high-top-sneakers-with-vibrant-design-trendy-footwear-fashionable-sneakers-unique-artistic-shoes-cool-casual-kicks?variant=47120335667445)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/17331088637950151317_2048.jpg?v=1760092604
     Price: $39.21 USD
   - [US 9.5 / White sole](https://lachrymalgems.store/products/stylish-high-top-sneakers-with-vibrant-design-trendy-footwear-fashionable-sneakers-unique-artistic-shoes-cool-casual-kicks?variant=47120335700213)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/17331088637950151317_2048.jpg?v=1760092604
     Price: $39.21 USD
   - [US 10 / White sole](https://lachrymalgems.store/products/stylish-high-top-sneakers-with-vibrant-design-trendy-footwear-fashionable-sneakers-unique-artistic-shoes-cool-casual-kicks?variant=47120335732981)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/17331088637950151317_2048.jpg?v=1760092604
     Price: $39.21 USD
   - [US 11 / White sole](https://lachrymalgems.store/products/stylish-high-top-sneakers-with-vibrant-design-trendy-footwear-fashionable-sneakers-unique-artistic-shoes-cool-casual-kicks?variant=47120335765749)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/17331088637950151317_2048.jpg?v=1760092604
     Price: $39.21 USD
   - [US 12 / White sole](https://lachrymalgems.store/products/stylish-high-top-sneakers-with-vibrant-design-trendy-footwear-fashionable-sneakers-unique-artistic-shoes-cool-casual-kicks?variant=47120335798517)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/17331088637950151317_2048.jpg?v=1760092604
     Price: $39.21 USD
   - [US 13 / White sole](https://lachrymalgems.store/products/stylish-high-top-sneakers-with-vibrant-design-trendy-footwear-fashionable-sneakers-unique-artistic-shoes-cool-casual-kicks?variant=47120335831285)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/17331088637950151317_2048.jpg?v=1760092604
     Price: $39.21 USD
   - [US 14 / White sole](https://lachrymalgems.store/products/stylish-high-top-sneakers-with-vibrant-design-trendy-footwear-fashionable-sneakers-unique-artistic-shoes-cool-casual-kicks?variant=47120335864053)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/17331088637950151317_2048.jpg?v=1760092604
     Price: $39.21 USD
+- [Sad Aesthetic Cropped Hoodie](https://lachrymalgems.store/products/sad-aesthetic-cropped-hoodie): This Cropped Hoodie features a sad aesthetic, perfect for those who appreciate emo or grunge styles. It provides a relaxed fit with dropped shoulders, made with a soft cotton-poly fleece blend. The raw hem and dyed-to-match drawstrings add an extra touch of style. Ideal for young adults who enjoy expressing their emotions through fashion, this hoodie is great for everyday wear or casual outings.Product features- Sad aesthetic design- Soft cotton-poly fleece blend- Dropped shoulders for a relaxed fit- Dyed-to-match drawstrings for added style- Ideal for young adults into emo or grunge fashionCare instructions S M L XL 2XL Width, in 22.05 23.50 25.51 2.76 29.53 Length, in 18.62 19.37 21.38 22.13 22.83
+  Updated: 2025-10-11T03:15:08Z
+  Vendor: Printify
+  Product Type: Hoodie
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/background-editor_output_3d18c6f3-a354-4d0c-bc9c-4dc4a0b3815b.png?v=1760132000
+  - [Black / S](https://lachrymalgems.store/products/sad-aesthetic-cropped-hoodie?variant=47120905666805)
+    Availability: Available
+    Price: $45.05 USD
+  - [Storm / S](https://lachrymalgems.store/products/sad-aesthetic-cropped-hoodie?variant=47120905699573)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/12651550852382776664_2048.jpg?v=1760131999
+    Price: $45.05 USD
+  - [Black / M](https://lachrymalgems.store/products/sad-aesthetic-cropped-hoodie?variant=47120905732341)
+    Availability: Available
+    Price: $45.05 USD
+  - [Storm / M](https://lachrymalgems.store/products/sad-aesthetic-cropped-hoodie?variant=47120905765109)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/12651550852382776664_2048.jpg?v=1760131999
+    Price: $45.05 USD
+  - [Black / L](https://lachrymalgems.store/products/sad-aesthetic-cropped-hoodie?variant=47120905797877)
+    Availability: Available
+    Price: $45.05 USD
+  - [Storm / L](https://lachrymalgems.store/products/sad-aesthetic-cropped-hoodie?variant=47120905830645)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/12651550852382776664_2048.jpg?v=1760131999
+    Price: $45.05 USD
+  - [Black / XL](https://lachrymalgems.store/products/sad-aesthetic-cropped-hoodie?variant=47120905863413)
+    Availability: Available
+    Price: $45.05 USD
+  - [Storm / XL](https://lachrymalgems.store/products/sad-aesthetic-cropped-hoodie?variant=47120905896181)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/12651550852382776664_2048.jpg?v=1760131999
+    Price: $45.05 USD
+  - [Black / 2XL](https://lachrymalgems.store/products/sad-aesthetic-cropped-hoodie?variant=47120905928949)
+    Availability: Available
+    Price: $46.98 USD
+  - [Storm / 2XL](https://lachrymalgems.store/products/sad-aesthetic-cropped-hoodie?variant=47120905961717)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/12651550852382776664_2048.jpg?v=1760131999
+    Price: $46.98 USD
 
 ## Collections
 
 - [Home page](https://lachrymalgems.store/collections/frontpage): Landing pages display of best selling products
-  Updated: 2025-10-09T23:46:41Z
-  Total Products: 12
+  Updated: 2025-10-10T21:45:40Z
+  Total Products: 16
 - [Ladies Alt. Style](https://lachrymalgems.store/collections/ladies-alt-style): Ladies trending apparel, Seasonal Fashion
-  Updated: 2025-10-10T09:48:00Z
-  Total Products: 12
+  Updated: 2025-10-11T11:18:17Z
+  Total Products: 13
 - [Mens Alt. Style](https://lachrymalgems.store/collections/mens-alt-style): Mens hip hop alternative trends and seasonal outfits.
-  Updated: 2025-10-10T10:36:43Z
-  Total Products: 11
+  Updated: 2025-10-11T11:18:17Z
+  Total Products: 12
 - [Trap-Core Shoes](https://lachrymalgems.store/collections/trap-core-shoes)
-  Updated: 2025-10-10T10:36:43Z
+  Updated: 2025-10-10T21:39:17Z
   Total Products: 4
 - [Baggage with Benifiets](https://lachrymalgems.store/collections/baggage-with-benifiets): Carry what matters, drop what doesn't. We all carry something at least make it cute . Match your vibe not your outfit.
   Updated: 2025-10-09T22:30:25Z
@@ -1060,6 +1084,10 @@
     Updated: 2025-10-10T09:03:59Z
     Author: Mandie Maddox
     Tags: Be yourself, Bohemian, Dark Aesthetic, Emo, Identity, Love Lost, Scene, Sharing Scars, Shopping
+  - [💔 A Lost Mother’s Words — Carrying On a Heartbroken Soul’s Dream](https://lachrymalgems.store/blogs/news/💔-a-lost-mother-s-words-carrying-on-a-heartbroken-soul-s-dream)
+    Updated: 2025-10-10T14:46:26Z
+    Author: Mandie Maddox
+    Tags: Be yourself, Dark Aesthetic, Emo, Emotional abuse, Gems, Hurts, Identity, Love Kills, Love Lost, Personal, Physical abuse, Scared, Scene, Sharing Scars
 - [They Don't Tell You: The Story Behind Our Scars](https://lachrymalgems.store/blogs/they-dont-tell-you-the-story-behind-our-scars)
   - [They Don't Tell You: The Story Behind Our Scars](https://lachrymalgems.store/blogs/they-dont-tell-you-the-story-behind-our-scars/they-dont-tell-you-the-story-behind-our-scars)
     Updated: 2025-10-07T21:08:12Z
@@ -1074,6 +1102,8 @@
   Updated: 2025-10-03T06:30:45Z
 - [Contact Us](https://lachrymalgems.store/pages/contact-us): Get in TouchWe'd love to hear from you! Feel free to reach out with any questions about our products.Contact
   Updated: 2025-10-09T22:40:14Z
+- [FAQs - Lachrymal Gems](https://lachrymalgems.store/pages/frequently-ask-questions): Frequently Asked Questions What products do you offer? We specialize in unique, handcrafted gemstone jewelry and accessories. Each piece is careful...
+  Updated: 2025-10-11T02:58:03Z
 
 ## Policies
 
@@ -1082,7 +1112,7 @@
 - [Shipping Policy](https://lachrymalgems.store/policies/shipping-policy)
   Updated: 2025-10-04T10:53:47-05:00
 - [Refund Policy](https://lachrymalgems.store/policies/refund-policy)
-  Updated: 2025-10-04T10:55:06-05:00
+  Updated: 2025-10-10T19:21:25-05:00
 - [Terms of Service](https://lachrymalgems.store/policies/terms-of-service)
   Updated: 2025-10-04T10:54:37-05:00
 
