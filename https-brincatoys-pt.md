@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-10-11T00:01:06.265Z
+- Updated At: 2025-10-11T04:01:09.080Z
 
 ## Products
 
@@ -2417,7 +2417,7 @@ Idade Recomendada: + de 6 anos.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/dc-batman-animated-series-jervis-tetch-235030815-dc-comics-1178693430.jpg?v=1752838322
   Price: 32,50 € EUR
 - [DC Batman Arkham Knight](https://brincatoys.pt/products/dc-batman-arkham-knight): Figura em PVC não tóxico, flexível, do jogo Batman Arkham Knight,  com aproximadamente 15 cm.A flexibilidade ds figura permite a adopção de uma variedade de poses de acção.
-  Updated: 2025-10-10T15:58:39Z
+  Updated: 2025-10-11T03:58:44Z
   Vendor: DC Comics
   Product Type: + 3 anos
   Availability: Available
@@ -15054,7 +15054,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-ninjago-71809-egalt-o-mestre-dragao-conjunto-epico-667180924-5702017584539-lego-1178698509.jpg?v=1752927963
   Price: 69,90 € EUR
 - [Cartão-presente](https://brincatoys.pt/products/cartao-presente): Um Cartão Presente é uma óptima forma de oferecer presentes, deixando a escolha dos produtos a quem os vai receber.O cartão Presente BRINCATOYS consiste num voucher enviado por e-mail ao cliente ou destinatário, no valor previamente selecionado, o qual poderá ser utilizado, até ao limite do saldo existente, na realização de uma ou mais compras em www.brincatoys.pt. Este voucher é válido a partir do momento que é emitido e não expira. O Cartão Presente funciona da seguinte forma: 1º Selecciona um valor pré-existente e adiciona ao cesto de compras. 2º Caso pretenda enviar por e-mail para um terceiro, preenche o formulário com o endereço electrónico (e-mail) do destinatário, podendo, opcionalmente, elaborar um texto de felicitações e identificar o destinatário. 3º Indica a data de envio do cartão presente. 4º Depois de adicionado ao cesto de compras e ao finalizar a encomenda, se não for cliente registado, procede ao seu registo prévio. 5º Seguidamente, preenche os dados de facturação e procede ao pagamento. 6º Após o processamento da encomenda, o destinatário e remetente receberão, no respectivo e-mail, um Voucher referente ao Cartão Presente adquirido. 7º Caso o destinatário do e-mail seja apenas o comprador/cliente poderá, querendo, oferecer o cartão presente reencaminhando ou imprimindo o e-mail. 8º Quem receber o Voucher Cartão Presente faz uma compra em www.brincatoys.pt, e na finalização da mesma insere o código que consta no Voucher, no campo do cartão presente, de forma a utilizar total ou parcialmente, o valor do cartão presente. 9º Esse código é válido no check-out da loja podendo ser utilizado em diversas compras individuais até se esgotar o saldo existente. 10º Se o valor da compra exceder o crédito disponível no Voucher Cartão Presente, o cliente pagará o valor excedente com um método de pagamento à sua escolha, aceite em www.brincatoys.pt. 11º O saldo do Cartão presente pode ser consultado no campo apresentado no e-mail recebido ou, no caso de ser portador de Apple Wallet, adicionado e visualizado nessa aplicação. 12º O Cartão Presente BRINCATOYS não pode ser trocado por dinheiro, revendido, reembolsado, mesmo parcialmente, ou creditado num cartão ou conta bancária e é apenas válido para compras on-line em www.brincatoys.pt. A BRINCATOYS não se responsabiliza pela perda, roubo, extravio, danificação, destruição ou uso sem permissão do Voucher Cartão Presente. O mesmo não será substituído em nenhuma circunstância.
-  Updated: 2025-10-10T06:20:32Z
+  Updated: 2025-10-11T00:13:13Z
   Vendor: Seleção Brincatoys
   Product Type: 
   Availability: Available
@@ -18276,7 +18276,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/jogo-uno-lilo-e-stitch-edicao-especial-com-ilustracoes-vibrantes-232678524-0194735267859-uno-1178701144.jpg?v=1752783736
   Price: 15,99 € EUR
 - [Conjunto de Marcadores Ultra Laváveis: Cores Vibrantes](https://brincatoys.pt/products/conjunto-de-16-marcadores-ultra-lavaveis): Procura marcadores duráveis e laváveis? Este conjunto de marcadores ultra laváveis de 16 cores vibrantes OMY é perfeito para artistas de todas as idades.
-  Updated: 2025-10-10T06:18:45Z
+  Updated: 2025-10-11T00:17:26Z
   Vendor: Seleção Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -20926,7 +20926,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-classic-placa-de-construcao-branca-11026-661102622-5702017185217-lego-1178694034.jpg?v=1752849728
   Price: 10,99 € EUR
 - [LEGO DUPLO 10954 Comboio dos Números: Aprender a Contar](https://brincatoys.pt/products/lego-duplo-10954-comboio-dos-numeros-aprender-a-contar): Transforme a brincadeira em aprendizado com o LEGO DUPLO 10954 Comboio dos Números: Aprender a Contar! Ideal para crianças a partir de 1½ anos.
-  Updated: 2025-10-10T11:54:07Z
+  Updated: 2025-10-11T00:19:49Z
   Vendor: Lego
   Product Type: + 2 anos
   Availability: Available
