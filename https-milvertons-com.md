@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2019-08-25T03:49:02Z
 - Contact Email: sales@milvertons.com
-- Updated At: 2025-10-11T12:00:34.608Z
+- Updated At: 2025-10-11T16:00:35.635Z
 
 ## Products
 
@@ -4417,7 +4417,7 @@
   Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/the-monza-white-strappy-basket-weave-heel-by-oasis-society-1125965.jpg?v=1751555864
   Price: $68.00 USD
 - [The Princess | White Pointed Toe Heel with Ankle Strap](https://milvertons.com/products/the-princess-white-pointed-toe-heel-with-ankle-strap-by-oasis-society): The Princess | White Pointed Toe Heel with Ankle Strap by Oasis Society - brought to you by Milvertons
-  Updated: 2025-10-07T17:08:48Z
+  Updated: 2025-10-11T15:25:32Z
   Vendor: Oasis Society
   Product Type: 
   Availability: Available
