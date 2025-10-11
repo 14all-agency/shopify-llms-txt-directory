@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-10-11T08:01:10.031Z
+- Updated At: 2025-10-11T12:01:11.827Z
 
 ## Products
 
@@ -1789,7 +1789,7 @@ curta e roliça.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/peluche-coelho-creme-25-cm-da-kaloo-presente-especial-226994222-4895029699429-brincatoys-1178693197.jpg?v=1752834617
   Price: 22,50 € EUR
 - [Peluche Coelho Rosa 35 cm da Kaloo: Um Presente Encantador](https://brincatoys.pt/products/peluche-coelho-rosa-35-cm-da-kaloo): Surpreenda alguém especial com o nosso encantador Peluche Coelho Rosa de 35 cm da Kaloo. Perfeito como presente ou amigo inseparável! 🎁
-  Updated: 2025-10-10T18:41:57Z
+  Updated: 2025-10-11T11:40:17Z
   Vendor: Seleção Brincatoys
   Product Type: + 0 meses
   Availability: Available
@@ -14178,13 +14178,6 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/iveco-daily-com-renault-clio-683140124-brincatoys-1178697885.jpg?v=1752916083
   Price: 17,90 € EUR
-- [Lamborghini Reventón Cinzento](https://brincatoys.pt/products/lamborghini-reventon-cinzento): Suspiros de admiração e palpitações de excitação: é isso que evoca o Lamborghini Reventón na escala 1:24. Com a sua cor cinza metálico que encanta e realça as curvas agressivas, esta réplica é uma autêntica obra de arte em miniatura. Permite-lhe experimentar em primeira mão o charme e a potência que fizeram da Lamborghini um ícone no mundo automóvel. Este é um apelo à adrenalina e ao luxo, transformado numa obra-prima colecionável. É o carro dos seus sonhos, tornado tangível para si. Veículo na escala 1:24 muito detalhado do Lamborghini Reventón. O design angular foi cuidadosamente recriado com detalhes meticulosos, com portas que se abrem e um interior primorosamente detalhado a condizer. O Reventón é o modelo exclusivo da Lamborghini, tendo sido lançado em 2007. A sua velocidade máxima foi registrada no Dubai, atingindo 338 km/h (222 mph). No lançamento a Lamborghini declarou que apenas 20 Reventóns seriam vendidos ao público. Cada Reventón tem o seu número de produção marcado numa sequência até 20 entre os bancos do motorista e do passageiro. Apesar do exterior ser novo, quase todos os elementos mecânicos (incluindo o motor) foram tirados do Murciélago Lp640. Dimensão: 23 x 11,50 x 10,50 cm. Idade Recomendada: + de 3 anos.
-  Updated: 2025-09-30T00:09:22Z
-  Vendor: Bburago
-  Product Type: + 3 anos
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lamborghini-reventon-cinzento-682104123-4893993210411-bburago-1178697893.jpg?v=1752797406
-  Price: 23,99 € EUR
 - [Carro de Brincar Lamborghini Terzo Millennio](https://brincatoys.pt/products/lamborghini-terzo-millennio): Descubra o carro de brincar Lamborghini Terzo Millennio à escala 1/24 da Bburago, a combinação perfeita de design autêntico e durabilidade.
   Updated: 2025-10-05T16:00:18Z
   Vendor: Bburago
@@ -18794,7 +18787,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-disney-43262-castelo-de-gelo-de-arendelle-diversao-664326525-5702017814544-lego-1178701493.jpg?v=1752972122
   Price: 32,50 € EUR
 - [LEGO Duplo 10442 - Famílias de Animais Selvagens](https://brincatoys.pt/products/lego-duplo-familias-de-animais-selvagens-pinguins-e-leoes): Descubra o mundo animal com o LEGO Duplo 10442 - Famílias de Animais Selvagens! Perfeito para crianças, com 10 peças educativas e divertidas.
-  Updated: 2025-09-29T22:39:56Z
+  Updated: 2025-10-11T11:50:36Z
   Vendor: LEGO
   Product Type: + 2 anos
   Availability: Available
@@ -18955,7 +18948,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-speed-champions-77251-carro-de-corrida-mclaren-f1-667725125-5702017816180-lego-1178701585.png?v=1752974405
   Price: 28,90 € EUR
 - [Transformers Studio Series Optimus Prime 16 cm: Figura Icônica](https://brincatoys.pt/products/transformers-studio-series-optimus-prime-16-cm): Descubra o Transformers Studio Series Optimus Prime 16 cm, com 35 passos de transformação e acessórios exclusivos. Tenha este ícone dos Autobots!
-  Updated: 2025-09-30T03:24:13Z
+  Updated: 2025-10-11T10:36:27Z
   Vendor: Transformers
   Product Type: + 8 anos
   Availability: Available
@@ -19606,7 +19599,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/tartarugas-ninja-mutant-mayhen-leonardo-acao-e-heroismo-233873625-043377832812-tartarugas-ninja-1178702018.jpg?v=1752780006
   Price: 19,99 € EUR
 - [Tartarugas Ninja Mutant Mayhen - Raphael: Ação e Detalhes](https://brincatoys.pt/products/tartarugas-ninja-mutant-mayhen-raphael): Desperte a imaginação da sua criança com a figura de ação Tartarugas Ninja Mutant Mayhen - Raphael! Pose feroz e detalhes incríveis esperam por você!
-  Updated: 2025-09-29T18:10:50Z
+  Updated: 2025-10-11T09:58:17Z
   Vendor: Tartarugas Ninja
   Product Type: + 4 anos
   Availability: Available
@@ -19774,7 +19767,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/homem-aranha-metamorfose-liquida-acao-e-diversao-85072825-5010996295392-marvel-1178692630.jpg?v=1752825138
   Price: 34,90 € EUR
 - [Nenuco rosa com 3 funções – Boneca Interativa](https://brincatoys.pt/products/nenuco-rosa-com-3-funcoes): Nenuco rosa com 3 funções, um brinquedo interactivo perfeito para estimular a empatia e cuidado nas crianças. Ideal para desenvolvimento socioeducativo.
-  Updated: 2025-10-06T03:23:44Z
+  Updated: 2025-10-11T11:37:36Z
   Vendor: Nenuco
   Product Type: + 12 meses
   Availability: Available
@@ -19998,14 +19991,14 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/tartarugas-ninja-mutant-mayhen-splinter-233874125-0043377832867-tartarugas-ninja-1178692501.jpg?v=1752821541
   Price: 19,99 € EUR
 - [Tartarugas Ninja Mutant Mayhen - Superfly](https://brincatoys.pt/products/tartarugas-ninja-mutant-mayhen-superfly): A figura Superfly Fly Guy da linha Teenage Mutant Ninja Turtles Mutant Mayhem traz toda a ousadia de um vilão mutante para a coleção de fãs e miúdos a partir dos 4 anos. Primeiramente, com escultura detalhada em PVC resistente, apresenta corpo texturizado em azul vibrante e olhos facetados em vermelho, recriando fielmente o visual do insecto mutante. Além disso, as asas translúcidas conferem dinamismo e realismo durante as brincadeiras. Ademais, para além do design arrojado, Superfly mede cerca de 10 cm de altura e dispõe de 12 pontos de articulação, o que permite criar poses de voo, ataque ou perseguição pelas ruas de Nova Iorque. Além disso, as mãos articuladas encaixam perfeitamente seis acessórios: um blaster futurista, lança-agulhas, granada tóxica, metralhadora leve, faca de lâmina dupla e bastão extensível. Dessa forma, a imaginação corre solta enquanto se encaixam armas e recriam-se cenas de confronto com as Tartarugas Ninja. Por outro lado, além de incentivar a criatividade, esta figura cumpre rigorosos padrões de segurança CE. Portanto, quer procure um brinquedo duradouro para brincadeiras diárias, quer deseje um item de valor para a sua vitrine, a figura Superfly Fly Guy garante robustez, versatilidade e autenticidade. Com ela, cada batalha contra o mal torna-se épica, enquanto se estimulam competências motoras finas e a coordenação mão-olho. Em suma... Altura: 10 cm (4”); 12 pontos de articulação Material: PVC resistente com pintura detalhada Acessórios: armas intercambiáveis (blaster, lança-agulhas, granada, metralhadora, faca, bastão) Dimensão: 19 x 21 x 5,50 cm.Idade recomendada: + de 4 anos.
-  Updated: 2025-10-05T15:56:19Z
+  Updated: 2025-10-11T09:58:16Z
   Vendor: Tartarugas Ninja
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/tartarugas-ninja-mutant-mayhen-superfly-233874025-0043377832874-tartarugas-ninja-1178692493.jpg?v=1752823323
   Price: 19,99 € EUR
 - [Tartarugas Ninja Mutant Mayhen - Bebop](https://brincatoys.pt/products/tartarugas-ninja-mutant-mayhen-bebop): A figura Bebop da coleção Teenage Mutant Ninja Turtles Mutant Mayhem traz toda a energia e irreverência de um dos vilões mais icónicos da série diretamente para as mãos dos fãs. Em primeiro lugar, com design autêntico, inspirado no filme de animação Mutant Mayhem, apresenta pintura vibrante e escultura rica em detalhes que capturam as tatuagens, a jaqueta rasgada e o moicano rosa de Bebop. Além disso, cada peça é produzida em plástico PVC resistente, garantindo durabilidade para horas de brincadeira. Por outro lado, para maximizar a interatividade, a figura mede 11,5 cm e dispõe de 12 pontos de articulação, permitindo recriar poses de ação e cenas épicas de combate contra as Tartarugas Ninja. Além disso, inclui um conjunto de acessórios — entre eles uma arma principal com efeito de perfuração, faca, machado e bastão — todos compatíveis com os encaixes dos punhos de Bebop. Assim, as crianças podem explorar a criatividade ao montar diferentes cenários de luta. Portanto, quer procure um brinquedo robusto para brincadeiras diárias quer um item de colecionador, a figura Bebop Mutant Mayhem satisfaz ambos os desejos. Por fim, complemente a sua coleção de Tartarugas Ninja com este vilão ameaçador, estimule a motricidade fina e mergulhe num universo de combate e aventura em Nova York! Em suma... Medidas: 11,5 cm e 12 pontos de articulação Material: plástico PVC resistente, acabamento detalhado Acessórios: armas metálicas intercambiáveis Dimensão: 19 x 21 x 5,50 cm.Idade recomendada: + de 4 anos.
-  Updated: 2025-10-05T15:56:19Z
+  Updated: 2025-10-11T09:58:17Z
   Vendor: Tartarugas Ninja
   Product Type: + 4 anos
   Availability: Available
@@ -20798,7 +20791,7 @@ Figura em borracha termoplástica do filme Branca de neve e os sete anões.Figur
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/conjunto-de-6-figuras-de-banho-542068925-5420071705966-brincatoys-1192457700.jpg?v=1757677808
   Price: 19,99 € EUR
 - [Sonic The Hedgehog - Super Sonic: Figura Articulada 10 cm](https://brincatoys.pt/products/sonic-the-hedgehog-super-sonic): Acelere no mundo de Sonic com a figura Sonic The Hedgehog - Super Sonic! Com 13 pontos de articulação e a Esmeralda-Mestra, ele brilha!
-  Updated: 2025-09-30T01:43:49Z
+  Updated: 2025-10-11T10:32:16Z
   Vendor: Sonic the Hedgehog
   Product Type: + 3 anos
   Availability: Available
@@ -21228,7 +21221,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-30T11:52:07Z
   Total Products: 38
 - [Figuras de ação](https://brincatoys.pt/collections/figuras-de-acao)
-  Updated: 2025-10-10T11:21:00Z
+  Updated: 2025-10-11T11:20:00Z
   Total Products: 564
 - [Instrumentos musicais](https://brincatoys.pt/collections/instrumentos-musicais)
   Updated: 2025-10-05T15:27:18Z
@@ -21366,10 +21359,10 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-10T11:21:00Z
   Total Products: 326
 - [2 - 3 anos](https://brincatoys.pt/collections/2-3-anos)
-  Updated: 2025-10-10T11:21:00Z
+  Updated: 2025-10-11T11:20:00Z
   Total Products: 1565
 - [4 - 5 anos](https://brincatoys.pt/collections/4-5-anos)
-  Updated: 2025-10-09T22:42:40Z
+  Updated: 2025-10-11T11:20:00Z
   Total Products: 700
 - [8 - 10 anos](https://brincatoys.pt/collections/8-10-anos)
   Updated: 2025-10-10T11:21:00Z
@@ -21384,28 +21377,28 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-10T11:21:00Z
   Total Products: 126
 - [Até €15](https://brincatoys.pt/collections/ate-15)
-  Updated: 2025-10-10T11:21:00Z
+  Updated: 2025-10-11T11:20:00Z
   Total Products: 1301
 - [Até €25](https://brincatoys.pt/collections/ate-25)
-  Updated: 2025-10-10T15:33:46Z
-  Total Products: 2405
+  Updated: 2025-10-11T11:20:00Z
+  Total Products: 2404
 - [Até €35](https://brincatoys.pt/collections/ate-35)
-  Updated: 2025-10-10T15:33:46Z
-  Total Products: 2868
+  Updated: 2025-10-11T11:20:00Z
+  Total Products: 2867
 - [Até €50](https://brincatoys.pt/collections/ate-50)
-  Updated: 2025-10-10T15:33:46Z
-  Total Products: 3250
+  Updated: 2025-10-11T11:20:00Z
+  Total Products: 3249
 - [Até €60](https://brincatoys.pt/collections/ate-60)
-  Updated: 2025-10-10T15:33:46Z
-  Total Products: 3387
+  Updated: 2025-10-11T11:20:00Z
+  Total Products: 3386
 - [Até €80](https://brincatoys.pt/collections/ate-80)
-  Updated: 2025-10-10T15:33:46Z
-  Total Products: 3466
+  Updated: 2025-10-11T11:20:00Z
+  Total Products: 3465
 - [Até €100](https://brincatoys.pt/collections/ate-100)
-  Updated: 2025-10-10T15:33:46Z
-  Total Products: 3515
+  Updated: 2025-10-11T11:20:00Z
+  Total Products: 3514
 - [Novidades](https://brincatoys.pt/collections/novidades)
-  Updated: 2025-10-10T11:21:00Z
+  Updated: 2025-10-11T11:20:00Z
   Total Products: 387
 - [Outlet](https://brincatoys.pt/collections/outlet): Saldos válidos de 04/07/2025 a 26/12/2025, limitado ao stock existente e acumulável com outros descontos ou promoções.
   Updated: 2025-09-29T15:16:28Z
@@ -21555,7 +21548,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-07T18:50:10Z
   Total Products: 122
 - [Pokémon](https://brincatoys.pt/collections/pokemon)
-  Updated: 2025-10-02T11:22:50Z
+  Updated: 2025-10-11T11:20:00Z
   Total Products: 101
 - [Polly Pocket](https://brincatoys.pt/collections/polly-pocket)
   Updated: 2025-10-07T18:36:52Z
@@ -21576,7 +21569,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-08-20T23:28:55Z
   Total Products: 5
 - [Sonic The Hedgehog](https://brincatoys.pt/collections/sonic-the-hedgehog)
-  Updated: 2025-10-09T11:22:38Z
+  Updated: 2025-10-11T11:20:00Z
   Total Products: 28
 - [Spidey and Amazing Friends](https://brincatoys.pt/collections/spidey-and-amazing-friends)
   Updated: 2025-10-07T18:38:53Z
@@ -21585,7 +21578,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-08-26T21:33:40Z
   Total Products: 6
 - [Tartarugas Ninja](https://brincatoys.pt/collections/tartarugas-ninja)
-  Updated: 2025-10-06T19:00:56Z
+  Updated: 2025-10-11T11:20:00Z
   Total Products: 31
 - [Vet Squad](https://brincatoys.pt/collections/vet-squad)
   Updated: 2025-08-20T23:28:55Z
@@ -21594,8 +21587,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-06T17:09:21Z
   Total Products: 9
 - [Catálogo](https://brincatoys.pt/collections/all)
-  Updated: 2025-10-10T15:33:46Z
-  Total Products: 3548
+  Updated: 2025-10-11T11:20:00Z
+  Total Products: 3547
 - [6 - 7 anos](https://brincatoys.pt/collections/6-7-anos)
   Updated: 2025-10-10T09:47:31Z
   Total Products: 287
@@ -21606,10 +21599,10 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-10T15:33:46Z
   Total Products: 118
 - [+ 3 anos](https://brincatoys.pt/collections/de-3-anos)
-  Updated: 2025-10-10T11:21:00Z
-  Total Products: 1217
+  Updated: 2025-10-11T11:20:00Z
+  Total Products: 1216
 - [+ 4 anos](https://brincatoys.pt/collections/de-4-anos)
-  Updated: 2025-10-09T22:42:40Z
+  Updated: 2025-10-11T11:20:00Z
   Total Products: 492
 - [+ 5 anos](https://brincatoys.pt/collections/de-5-anos)
   Updated: 2025-10-08T09:28:56Z
@@ -21630,11 +21623,11 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-06T11:23:20Z
   Total Products: 83
 - [Os mais procurados](https://brincatoys.pt/collections/os-mais-populares)
-  Updated: 2025-10-10T15:33:46Z
-  Total Products: 3548
+  Updated: 2025-10-11T11:20:00Z
+  Total Products: 3547
 - [Recém-chegados](https://brincatoys.pt/collections/recem-chegados)
-  Updated: 2025-10-10T15:33:46Z
-  Total Products: 3548
+  Updated: 2025-10-11T11:20:00Z
+  Total Products: 3547
 - [Produtos em destaque](https://brincatoys.pt/collections/produtos-em-destaque)
   Updated: 2025-10-08T10:33:18Z
   Total Products: 23
@@ -21645,8 +21638,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-12T11:21:00Z
   Total Products: 6
 - [OrderlyEmails - Recommended Products](https://brincatoys.pt/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-10-10T12:16:47Z
-  Total Products: 3070
+  Updated: 2025-10-11T11:40:47Z
+  Total Products: 3069
 - [Girafa Sofia](https://brincatoys.pt/collections/girafa-sofia)
   Updated: 2025-10-03T13:37:25Z
   Total Products: 20
@@ -21654,8 +21647,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-09T11:22:38Z
   Total Products: 126
 - [Marketplace](https://brincatoys.pt/collections/marketplace)
-  Updated: 2025-10-10T12:16:47Z
-  Total Products: 3070
+  Updated: 2025-10-11T11:40:47Z
+  Total Products: 3069
 - [EzConnector](https://brincatoys.pt/collections/ezconnector)
   Updated: 2025-10-10T10:55:59Z
   Total Products: 918
