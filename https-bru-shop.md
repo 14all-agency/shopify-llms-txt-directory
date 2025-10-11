@@ -237,7 +237,7 @@ Temperatur-präzise Teezubereitung
 - Currency: EUR
 - Timezone: Europe/Berlin
 - Created At: 2020-06-16T18:10:19Z
-- Updated At: 2025-10-10T12:00:28.095Z
+- Updated At: 2025-10-11T16:00:28.059Z
 
 wir lieben tee
 
@@ -248,7 +248,7 @@ wir lieben tee
     Updated: 2024-03-12T09:19:51Z
     Author: Filip Carlberg
   - [Was ist das Aufbrühen und warum sollten Sie sich darum kümmern?](https://bru.shop/blogs/bru-blog/what-is-steeping-and-why-you-should-care): Was ist das Aufbrühen und warum sollten Sie sich darum kümmern?
-    Updated: 2024-03-08T15:49:37Z
+    Updated: 2025-10-10T14:29:00Z
     Author: Filip Carlberg
   - [Was steckt in einem Namen - Tee, Tisane oder Aufguss?](https://bru.shop/blogs/bru-blog/for-development-purposes-3): Was steckt in einem Namen - Tee, Tisane oder Aufguss?
     Updated: 2024-02-27T12:49:16Z
@@ -257,16 +257,13 @@ wir lieben tee
     Updated: 2024-12-26T15:20:34Z
     Author: Filip Carlberg
   - [Tee trinken als Teil eines gesunden Lebensstils](https://bru.shop/blogs/bru-blog/drinking-tea-as-part-of-a-healthy-lifestyle): Tee trinken als Teil eines gesunden Lebensstils
-    Updated: 2024-02-09T14:07:35Z
+    Updated: 2025-10-10T13:23:40Z
     Author: Filip Carlberg
   - [Patents Granted! Unser unfairer Vorteil auf dem Weg zum Erfolg](https://bru.shop/blogs/bru-blog/u-s-patent-granted-our-unfair-advantage-on-road-to-success): Patents Granted! Unser unfairer Vorteil auf dem Weg zum Erfolg
     Updated: 2024-02-08T12:53:26Z
     Author: Filip Carlberg
   - [Die Bedeutung einer nachhaltigen Denkweise - BRU](https://bru.shop/blogs/bru-blog/the-importance-of-a-sustainability-mindset): Die Bedeutung einer nachhaltigen Denkweise - BRU
     Updated: 2024-02-19T12:55:42Z
-    Author: Filip Carlberg
-  - [Vom Bier zum Tee - eine Marke von Grund auf aufbauen](https://bru.shop/blogs/bru-blog/from-beer-to-tea-establishing-a-brand-from-scratch): Vom Bier zum Tee - eine Marke von Grund auf aufbauen
-    Updated: 2024-02-10T13:28:05Z
     Author: Filip Carlberg
   - [Unsere liebsten seltsamen und wunderbaren Teefakten - 1](https://bru.shop/blogs/bru-blog/our-favorite-weird-and-wonderful-tea-facts): Unsere liebsten seltsamen und wunderbaren Teefakten - 1
     Updated: 2024-02-07T11:23:25Z
@@ -299,7 +296,7 @@ wir lieben tee
     Updated: 2025-07-25T11:59:04Z
     Author: Sandra Baillergeau
   - [🍂 5 einfache Tipps, um dich sanft auf den Herbst einzustimmen](https://bru.shop/blogs/bru-blog/🍂-5-einfache-tipps-um-dich-sanft-auf-den-herbst-einzustimmen)
-    Updated: 2025-09-04T12:22:20Z
+    Updated: 2025-10-10T13:06:04Z
     Author: Sandra Baillergeau
 - [BRU Maker One: Information und Bedienung](https://bru.shop/blogs/bru-maker-one-information-und-bedienung)
   - [Einrichtung des Geräts - BRU](https://bru.shop/blogs/bru-maker-one-information-und-bedienung/einrichtung-des-gerats): Einrichtung des Geräts - BRU
@@ -364,6 +361,9 @@ wir lieben tee
   - [Süße Rose Cocktail](https://bru.shop/blogs/bru-rezepte/susse-rose-cocktail): <p><meta charset="UTF-8"><span>Dieser Süße Rose Cocktail ist das perfekte Getränk für einen warmen Sommerabend.</span><br data-start="382" data-end="385"><span>Mit Pfirsich, Rosenblüte und einem Hauch Pink Gin wird aus deinem Eistee ein eleganter Sommerdrink, der genauso gut aussieht wie er schmeckt.</span></p>
     Updated: 2025-06-20T08:31:48Z
     Author: Jasmin Yang
+  - [Süsse Rose Pfirsich Wolken Tee](https://bru.shop/blogs/bru-rezepte/susse-rose-pfirsich-wolken-tee)
+    Updated: 2025-10-10T14:22:22Z
+    Author: Jil Marugg
 
 ## Optional
 
