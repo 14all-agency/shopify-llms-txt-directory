@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-06-10T17:50:10Z
 - Contact Email: tejusentprs@gmail.com
-- Updated At: 2025-10-12T04:00:31.827Z
+- Updated At: 2025-10-12T08:00:31.727Z
 
 ## Products
 
@@ -691,7 +691,7 @@
     Availability: Available
     Price: ₹1,295.00 INR
 - [Maroon Floral Printed Cotton Suit Set- The Plus Size Co.](https://theplussizeco.com/products/maroon-floral-printed-cotton-suit-set): Embrace everyday elegance with our Maroon Floral Printed Cotton Suit Set. Features cotton fabric and V cut neckline. Paired with pant and dupatta. Sizes in XL to 10XL.
-  Updated: 2025-10-10T06:50:09Z
+  Updated: 2025-10-12T04:54:50Z
   Vendor: The Plus Size Co.
   Product Type: Suit Sets
   Availability: Available
