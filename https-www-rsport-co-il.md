@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-10-12T16:01:02.280Z
+- Updated At: 2025-10-12T20:01:03.622Z
 
 ## Products
 
@@ -37811,7 +37811,7 @@
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
 - [חולצת נשים ברצלונה בית 25/26](https://www.rsport.co.il/products/חולצת-נשים-ברצלונה-בית-25-26): חולצת נשים ברצלונה בית 25/26 החולצה החדשה של ברצלונה לעונת 2025/26 מציעה עיצוב מודרני שמקפיד לשמור על רוח המועדון החולצה משלבת את הצבעים המסורתיים של כחול ואדום, אך עם גימור חדשני הכולל דפוסים גרפיים עדינים שמקנים לה מראה צעיר, טרנדי ונשי סמל המועדון נמצא בגאווה על החזה, ומחבר אותך ישירות לאחת הקבוצות הגדולות בעולם עשויה מ-100% פוליאסטר קל ונושם, החולצה מבטיחה נוחות מירבית לאורך כל היום, בין אם את משחקת, מתאמנת או סתם נושאת את הגאווה שלך בשגרת היומיום. חולצה מושלמת לכל אוהבת ברצלונה שרוצה לשדר גם סטייל וגם נוחות.
-  Updated: 2025-10-02T12:34:13Z
+  Updated: 2025-10-12T19:02:09Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
@@ -46657,6 +46657,201 @@
   - [½47](https://www.rsport.co.il/products/nipro-phantom-6-elite-low-cut-sg-pro-max-voltage-limelight-black-hyper-crimson?variant=47806390567162)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
+- [נעלי כדורגל מקצועיות Air Zoom Mercurial Superfly 10 Elite FG Max Voltage](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-fg-max-voltage): נעלי הכדורגל Future 8 Ultimate FG של PUMA מיועדות לשחקנים שמחפשים חופש תנועה ושליטה מלאה במגרש. החלק העליון משלב שכבות רבות עם LYCRA בסריג FUZIONSKIN, ומעניק התאמה אישית עם תמיכה בכל תנועה. 3D FUZIONPODS בחזית הנעל מגנים על הרגל ומאפשרים גמישות טבעית למשחק ללא הגבלה, בעוד רצועות PWRTAPE במרכז כף הרגל שומרות על יציבות בזמן דריבל ועקיפה של שחקנים.
+
+השכבה החיצונית כוללת רשת צפופה עם גימור GripControl Pro, המגביר אחיזה בכדור ומסייע לשליטה מלאה בדריבל ולפריצת קווים. סוליית הנעל עם מסמרות בעיצוב מיוחד מאפשרת תנועות סיבוביות חופשיות ומגיבה לכל שינוי כיוון, כדי למקסם את הזריזות והמהירות במגרש. Future 8 Ultimate FG נותנות לך את הכלים לשלוט במשחק ולהשפיע על כל מצב במגרש.
+  Updated: 2025-10-12T19:10:32Z
+  Vendor: R:SPORT
+  Product Type: נעלי כדורגל
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/3_1be14ee5-326b-4594-9b35-5351c4d32df0.jpg?v=1760293918
+  - [36](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-fg-max-voltage?variant=47817103507706)
+    Availability: Not Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [37](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-fg-max-voltage?variant=47817103540474)
+    Availability: Not Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [37½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-fg-max-voltage?variant=47817103573242)
+    Availability: Not Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [38](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-fg-max-voltage?variant=47817103606010)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [½38](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-fg-max-voltage?variant=47817103638778)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [39](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-fg-max-voltage?variant=47817103671546)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-fg-max-voltage?variant=47817103704314)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [½40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-fg-max-voltage?variant=47817103737082)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [41](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-fg-max-voltage?variant=47817103769850)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [42](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-fg-max-voltage?variant=47817103802618)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [42½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-fg-max-voltage?variant=47817103835386)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [43](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-fg-max-voltage?variant=47817103868154)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [44](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-fg-max-voltage?variant=47817103900922)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [44½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-fg-max-voltage?variant=47817103933690)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [45](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-fg-max-voltage?variant=47817103966458)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [46](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-fg-max-voltage?variant=47817103999226)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [46½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-fg-max-voltage?variant=47817104031994)
+    Availability: Not Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [47](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-fg-max-voltage?variant=47817104064762)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [48½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-fg-max-voltage?variant=47817104097530)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+- [נעלי כדורגל מקצועיות Air Zoom Mercurial Superfly 10 Elite AG Max Voltage](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-ag-max-voltage): נעלי הכדורגל Future 8 Ultimate FG של PUMA מיועדות לשחקנים שמחפשים חופש תנועה ושליטה מלאה במגרש. החלק העליון משלב שכבות רבות עם LYCRA בסריג FUZIONSKIN, ומעניק התאמה אישית עם תמיכה בכל תנועה. 3D FUZIONPODS בחזית הנעל מגנים על הרגל ומאפשרים גמישות טבעית למשחק ללא הגבלה, בעוד רצועות PWRTAPE במרכז כף הרגל שומרות על יציבות בזמן דריבל ועקיפה של שחקנים.
+
+השכבה החיצונית כוללת רשת צפופה עם גימור GripControl Pro, המגביר אחיזה בכדור ומסייע לשליטה מלאה בדריבל ולפריצת קווים. סוליית הנעל עם מסמרות בעיצוב מיוחד מאפשרת תנועות סיבוביות חופשיות ומגיבה לכל שינוי כיוון, כדי למקסם את הזריזות והמהירות במגרש. Future 8 Ultimate FG נותנות לך את הכלים לשלוט במשחק ולהשפיע על כל מצב במגרש.
+  Updated: 2025-10-12T19:26:32Z
+  Vendor: R:SPORT
+  Product Type: נעלי כדורגל
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/10_2fdcd5be-8f6c-4e70-96fc-035fcc3caa72.jpg?v=1760296889
+  - [36](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-ag-max-voltage?variant=47817172353274)
+    Availability: Not Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [37](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-ag-max-voltage?variant=47817172386042)
+    Availability: Not Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [37½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-ag-max-voltage?variant=47817172418810)
+    Availability: Not Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [38](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-ag-max-voltage?variant=47817172451578)
+    Availability: Not Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [½38](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-ag-max-voltage?variant=47817172484346)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [39](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-ag-max-voltage?variant=47817172517114)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-ag-max-voltage?variant=47817172549882)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [½40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-ag-max-voltage?variant=47817172582650)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [41](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-ag-max-voltage?variant=47817172615418)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [42](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-ag-max-voltage?variant=47817172648186)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [42½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-ag-max-voltage?variant=47817172680954)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [43](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-ag-max-voltage?variant=47817172713722)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [44](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-ag-max-voltage?variant=47817172746490)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [44½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-ag-max-voltage?variant=47817172779258)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [45](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-ag-max-voltage?variant=47817172812026)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [46](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-ag-max-voltage?variant=47817172844794)
+    Availability: Not Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [46½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-ag-max-voltage?variant=47817172877562)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [47](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-ag-max-voltage?variant=47817172910330)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [48½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-ag-max-voltage?variant=47817172943098)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+- [נעלי כדורגל מקצועיות Air Zoom Mercurial Vapor 16 Elite FG Max Voltage](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-16-elite-fg-max-voltage): נעלי הכדורגל Future 8 Ultimate FG של PUMA מיועדות לשחקנים שמחפשים חופש תנועה ושליטה מלאה במגרש. החלק העליון משלב שכבות רבות עם LYCRA בסריג FUZIONSKIN, ומעניק התאמה אישית עם תמיכה בכל תנועה. 3D FUZIONPODS בחזית הנעל מגנים על הרגל ומאפשרים גמישות טבעית למשחק ללא הגבלה, בעוד רצועות PWRTAPE במרכז כף הרגל שומרות על יציבות בזמן דריבל ועקיפה של שחקנים.
+
+השכבה החיצונית כוללת רשת צפופה עם גימור GripControl Pro, המגביר אחיזה בכדור ומסייע לשליטה מלאה בדריבל ולפריצת קווים. סוליית הנעל עם מסמרות בעיצוב מיוחד מאפשרת תנועות סיבוביות חופשיות ומגיבה לכל שינוי כיוון, כדי למקסם את הזריזות והמהירות במגרש. Future 8 Ultimate FG נותנות לך את הכלים לשלוט במשחק ולהשפיע על כל מצב במגרש.
+  Updated: 2025-10-12T19:46:03Z
+  Vendor: R:SPORT
+  Product Type: נעלי כדורגל
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/15_cf5fd113-9cff-468e-a037-01cc59fbf0e8.jpg?v=1760298346
+  - [36](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-16-elite-fg-max-voltage?variant=47817273934074)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [37](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-16-elite-fg-max-voltage?variant=47817273966842)
+    Availability: Not Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [37½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-16-elite-fg-max-voltage?variant=47817273999610)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [38](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-16-elite-fg-max-voltage?variant=47817274032378)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [½38](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-16-elite-fg-max-voltage?variant=47817274065146)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [39](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-16-elite-fg-max-voltage?variant=47817274097914)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-16-elite-fg-max-voltage?variant=47817274130682)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [½40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-16-elite-fg-max-voltage?variant=47817274163450)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [41](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-16-elite-fg-max-voltage?variant=47817274196218)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [42](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-16-elite-fg-max-voltage?variant=47817274228986)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [42½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-16-elite-fg-max-voltage?variant=47817274261754)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [43](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-16-elite-fg-max-voltage?variant=47817274294522)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [44](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-16-elite-fg-max-voltage?variant=47817274327290)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [44½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-16-elite-fg-max-voltage?variant=47817274360058)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [45](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-16-elite-fg-max-voltage?variant=47817274392826)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [46](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-16-elite-fg-max-voltage?variant=47817274425594)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [46½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-16-elite-fg-max-voltage?variant=47817274458362)
+    Availability: Not Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [47](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-16-elite-fg-max-voltage?variant=47817274491130)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [48½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-16-elite-fg-max-voltage?variant=47817274523898)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
 
 ## Collections
 
@@ -47036,11 +47231,11 @@
   Updated: 2025-10-06T19:08:54Z
   Total Products: 14
 - [נעלי כדורגל](https://www.rsport.co.il/collections/נעלי-כדורגל)
-  Updated: 2025-10-09T09:05:31Z
-  Total Products: 60
+  Updated: 2025-10-12T19:46:02Z
+  Total Products: 63
 - [נעלי כדורגל FG](https://www.rsport.co.il/collections/football-boots-groundtype-firmground)
-  Updated: 2025-10-07T11:38:09Z
-  Total Products: 48
+  Updated: 2025-10-12T19:46:02Z
+  Total Products: 50
 - [חולצות כדורגל - מגוון רחב במחירים משתלמים](https://www.rsport.co.il/collections/חולצות-כדורגל): האתר מתמחה במגוון רחב של חולצות משחק, כולל חולצות עבר, חולצות אימוניות וחליפות כדורגל לילדים.
   Updated: 2025-10-12T11:17:24Z
   Total Products: 816
@@ -47135,8 +47330,8 @@
   Updated: 2025-10-02T11:31:37Z
   Total Products: 12
 - [AVADA - Best Sellers](https://www.rsport.co.il/collections/avada-best-sellers)
-  Updated: 2025-10-12T11:17:24Z
-  Total Products: 2065
+  Updated: 2025-10-12T19:46:02Z
+  Total Products: 2068
 - [פיורנטינה רטרו](https://www.rsport.co.il/collections/פיורנטינה-רטרו): אנו מציעים חולצות כדורגל רטרו של פיורנטינה מהעבר המפואר, בעיצובים קלאסיים ששימשו את הקבוצה בשנות ה-90 ותחילת ה-2000. בין השחקנים הבולטים מהתקופות הללו: גבריאל באטיסטוטה, ווֹלפגנג מולה, אנג'לו די ליוויו ופרנצ'סקו טולדו. כל פריט בקטגוריה מחבר אתכם להיסטוריה המפוארת של פיורנטינה ומספק חוויה נוסטלגית לחובבי הכדורגל.
   Updated: 2025-10-02T11:15:25Z
   Total Products: 9
@@ -47333,22 +47528,22 @@
   Updated: 2025-10-04T20:33:30Z
   Total Products: 3
 - [Artificial Grass Football Boots](https://www.rsport.co.il/collections/football-boots-groundtype-artificial-grass): גלו את מגוון נעלי הכדורגל AG המובילות למשחק על דשא סינתטי ב-R:Sport. נעליים אלו, המיועדות במיוחד למשטחי "כל מזג אוויר", מעניקות אחיזה מושלמת, יציבות וביצועים מקצועיים בכל שלב של המשחק. סוליות נעלי AG כוללות פקקים צפופים ומדויקים, לעיתים חלולים או מחוררים, כדי להפחית משקל ולספק ריכוך וזעזועים, תוך שמירה על אחיזה מקסימלית. העיצוב שלהן מתאים במיוחד לשחיקה המוגברת של דשא סינתטי, ומאפשר חופש תנועה מלא, גם למשחקים תובעניים. ב-R:Sport תמצאו דגמים לילדים, בני נוער ומבוגרים, מהדגמים החדשים ביותר ועד דגמי AG ייחודיים. כל נעל נבחרה בקפידה כדי להבטיח שאתם תישארו מקצועיים על המגרש ותיהנו מביצועים יוצאי דופן לאורך כל המשחק. עשו את הצעד הנכון עם נעלי כדורגל, ציוד קבוצתי וכדורי כדורגל איכותיים למשחק. בנוסף, ב-R:Sport תמצאו גם מגוון רחב של חולצות כדורגל לכל אוהד ושחקן.
-  Updated: 2025-10-07T11:38:09Z
-  Total Products: 4
+  Updated: 2025-10-12T19:26:30Z
+  Total Products: 5
 - [PUMA Hot Pursuit](https://www.rsport.co.il/collections/puma-hot-pursuit)
-  Updated: 2025-10-07T12:25:17Z
+  Updated: 2025-10-12T18:32:28Z
   Total Products: 8
 - [נעלי כדורגל Puma Future](https://www.rsport.co.il/collections/נעלי-כדורגל-puma-future)
   Updated: 2025-10-07T12:07:39Z
   Total Products: 7
 - [נעלי כדורגל Puma Ultra](https://www.rsport.co.il/collections/נעלי-כדורגל-puma-ultra)
-  Updated: 2025-10-07T11:23:06Z
+  Updated: 2025-10-12T18:32:28Z
   Total Products: 1
 - [נעלי כדורגל פומה FG](https://www.rsport.co.il/collections/football-boots-puma-fg-adult)
-  Updated: 2025-10-07T11:38:09Z
+  Updated: 2025-10-12T18:32:28Z
   Total Products: 6
 - [נעלי כדורגל PUMA Ultra Ultimate](https://www.rsport.co.il/collections/נעלי-כדורגל-puma-ultra-ultimate)
-  Updated: 2025-10-07T12:07:39Z
+  Updated: 2025-10-12T18:32:28Z
   Total Products: 2
 - [Soft Ground (SG)](https://www.rsport.co.il/collections/football-boots-groundtype-softground-sg)
   Updated: 2025-10-09T09:05:31Z
@@ -47360,14 +47555,14 @@
   Updated: 2025-10-07T12:25:17Z
   Total Products: 2
 - [Mercurial Superfly נעלי כדורגל](https://www.rsport.co.il/collections/football-boots-mercurial-superfly-נעלי-כדורגל)
-  Updated: 2025-10-08T18:21:35Z
-  Total Products: 1
-- [Nike Max Voltage](https://www.rsport.co.il/collections/nike-max-voltage)
-  Updated: 2025-10-09T09:05:31Z
+  Updated: 2025-10-12T19:40:48Z
   Total Products: 3
+- [Nike Max Voltage](https://www.rsport.co.il/collections/nike-max-voltage)
+  Updated: 2025-10-12T19:46:02Z
+  Total Products: 6
 - [נעלי כדורגל Mercurial](https://www.rsport.co.il/collections/football-boots-mercurial)
-  Updated: 2025-10-09T08:52:22Z
-  Total Products: 2
+  Updated: 2025-10-12T19:46:02Z
+  Total Products: 5
 
 ## Blogs
 
