@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-08-22T04:17:36Z
 - Contact Email: Sunnymello810@gmail.com
-- Updated At: 2025-10-11T08:00:28.608Z
+- Updated At: 2025-10-12T00:00:32.738Z
 
 ## Products
 
@@ -26,7 +26,7 @@
     Availability: Available
     Price: $44.95 USD
 - [Holiday Dangle Earrings, Ready Ship in ONE day, Sea Glass Christmas Tree Earrings, Beach Glass Christmas Tree Earrings, Sea Glass Jewelry,](https://sunnyseaglassjewelry.com/products/holiday-dangle-earrings-ready-ship-in-one-day-sea-glass-christmas-tree-earrings-beach-glass-christmas-tree-earrings-sea-glass-jewelry): Celebrate the season with these charming Holiday dangle earrings, perfect for daily wear or special events. Crafted with light Aqua Sea glass beads wrapped in .925 sterling silver or gold-toned wire, accented by star glass beads and crystals, these earrings catch the light beautifully. Measuring 18x12mm, they hang just under 1.5 inches for a graceful sway. Ideal as a thoughtful gift for friends or coworkers, they add a festive touch that stands out. Brighten your look with a sparkling reminder of sunshine every time you wear them. For questions, feel free to reach out via email.
-  Updated: 2025-10-11T01:45:37Z
+  Updated: 2025-10-11T13:45:43Z
   Vendor: My Store
   Product Type: Sea Glass Earrings
   Availability: Available
@@ -50,7 +50,7 @@
     Availability: Available
     Price: $23.95 USD
 - [Christmas Tree Earrings, Ready Ship in ONE day, Sea Glass dangling Earrings, Beach Glass Christmas Tree Earrings, Holiday Gifts for Her,](https://sunnyseaglassjewelry.com/products/christmas-tree-earrings-ready-ship-in-one-day-sea-glass-dangling-earrings-beach-glass-christmas-tree-earrings-holiday-gifts-for-her): Beautiful Holiday earrings for everyday or special occasions. Fun & festive holiday earrings sure to be noticed! These earrings will make a great gift for friends, coworkers too. Beautiful light Aqua Sea glass beads are wire wrapped in .925 sterling silver or gold finished wires accented with star glass beads and Crystals. Sea glass beads measures 18x 12mm. They dangle nicely slightly under 1.5 inch from the bottom of the .925 sterling silver or god finished earwires. A ray of sunshine shines on your dangling from your ears! ***Email me for any inquiries Thank you for visiting my shop.
-  Updated: 2025-10-11T01:44:56Z
+  Updated: 2025-10-11T13:45:00Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -107,7 +107,7 @@
     Availability: Available
     Price: $30.95 USD
 - [White Opal Bracelet, Minimalist Bracelet, Tiny Opal Bracelet, Blue Opal Bracelet, Opal Bracelet in Sterling Silver, Beaded Opal Bracelet](https://sunnyseaglassjewelry.com/products/white-opal-bracelet-minimalist-bracelet-tiny-opal-bracelet-blue-opal-bracelet-opal-bracelet-in-sterling-silver-beaded-opal-bracelet): This elegant 6mm lab-created opal bracelet features sterling silver beads and a delicate, durable chain. Its minimalist style adds a subtle, versatile touch to any outfit and can be worn as a bracelet or anklet. Available in four beautiful colors, it’s perfect for a beachy or mermaid-inspired look. Choose your wrist size for a comfortable fit. Packaged in a gift box, it makes a thoughtful gift for any occasion. Add a hint of magic and color to your style with this stunning opal bracelet.
-  Updated: 2025-10-11T01:49:33Z
+  Updated: 2025-10-11T13:47:27Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -601,7 +601,7 @@
   Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/2f35a746-il_fullxfull.6237032021_6f03.jpg?v=1756000945
   Price: $20.95 USD
 - [Sailboat Sea Glass Earrings in Sterling Silver, Beach glass Earrings, Ocean-Inspired Crystal White Sea Glass Sailboat Earrings](https://sunnyseaglassjewelry.com/products/sailboat-sea-glass-earrings-in-sterling-silver-beach-glass-earrings-ocean-inspired-crystal-white-sea-glass-sailboat-earrings): Beautiful shade of cultured Frosted Clear White sea glass !!! This is my one of the cultured Sea glass Sailboat Earrings. The same soft finish as found in natural sea glass. These fun, colorful earrings are carefully Wire Wrapped with .925 sterling silver wires on unique, freeform flat sea glass beads measures approximately 13 x 16 mm They are finished with sterling silver beads. Please choose blue hull or Aqua blue in the drop down menu. ***All the findings are .925 sterling silver. Set sail with this delicate sailboat earrings, handcrafted with smooth frosted clear crystal white sea glass and .925 sterling silver. The soft white glass catches the light like sun on ocean waves, making it the perfect piece for ocean lovers, beach wanderers, and dreamers at heart. These Earrings are shaped like a tiny sailboat, a gentle reminder of freedom, adventure, and calm seas. Whether you're reminiscing about your last beach day or gifting a meaningful piece to a loved one, this necklace brings a touch of the sea wherever you go. cultured sea glass:13 x16 mm Sterling silver findings. Earring size: approx: 1.16 x 8/8 inch. ***Email me for any inquiries. Thank you for visiting my shop!
-  Updated: 2025-10-11T01:41:54Z
+  Updated: 2025-10-11T13:40:43Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -1770,7 +1770,7 @@
     Availability: Available
     Price: $39.95 USD
 - [Clover Bracelet in Sterling Silver, St Patrick's Bracelet, Wire Wrapped Celtic Clover Bracelet, Gifts for Her, Lucky Clover Bracelet](https://sunnyseaglassjewelry.com/products/clover-bracelet-in-sterling-silver-st-patricks-bracelet-wire-wrapped-celtic-clover-bracelet-gifts-for-her-lucky-clover-bracelet): A beautiful stylish handcrafted Clover Bracelet is made with 6mm light blue Aquamarine gemstone & wired Four leaf clover. These hand hammered .925 sterling silver 4 petal clover flowers are linked to the next Aquamarine adds beauty & strength to this lovely bracelet. I can also make matching necklace & earrings upon request. Can be layered with other bracelets. Each beads are wire wrapped, so it is strong. I can customize this bracelet in many ways by using birthstone gemstones, crystal, different color pearls. Any questions, just convo with me. If I have requested beads in stock, I will make it for you. This lovely bracelet measures your choice of length plus 1/2 inch extension & finished with a handmade easy on & off S-hook. Thank you for visiting my shop. Please email me with any inquiries.
-  Updated: 2025-10-10T21:10:40Z
+  Updated: 2025-10-11T09:10:12Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -1900,7 +1900,7 @@
   Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/b072c975-il_fullxfull.7022732885_lo7z.jpg?v=1756000990
   Price: $22.95 USD
 - [Crystal Bracelets, Swarovski Crystal Anklet/Bracelets in Sterling Silver, April Birthstone, Wedding/Bridesmaid Crystal Bracelets,](https://sunnyseaglassjewelry.com/products/crystal-bracelets-swarovski-crystal-anklet-bracelets-in-sterling-silver-april-birthstone-wedding-bridesmaid-crystal-bracelets): Add a touch of sparkle with this Swarovski crystal anklet or bracelet, made with genuine 4mm crystal AB beads and finished in sterling silver. Perfect for everyday wear or special occasions, it comes in your choice of length with an extender for a comfortable fit. Each piece is carefully crafted and gift-wrapped, making it an ideal gift for yourself or loved ones. Choose your size for a perfect, shimmering accessory.
-  Updated: 2025-10-10T21:19:52Z
+  Updated: 2025-10-11T09:18:13Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -2167,7 +2167,7 @@
   Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/1175094e-il_fullxfull.6935319816_tgqh.jpg?v=1756001005
   Price: $27.95 USD
 - [Sterling Silver Starfish Anklet ,Beach Style Summer Jewelry, Beach  Summer Vibes Ocean Theme Starfish Design Bracelet, Custom Length Chain Available](https://sunnyseaglassjewelry.com/products/sterling-silver-anklet-beach-style-summer-jewelry-beach-summer-vibes-ocean-theme-starfish-design-bracelet-custom-length-chain-available): Capture the essence of summer with this stunning double-strand sterling silver bracelet or anklet featuring a charming starfish design and a vibrant 12mm lab-created blue opal centerpiece. Crafted with high-quality silver and accented by delicate spacer beads, this versatile piece offers customizable length options for the perfect fit as either a bracelet or anklet. Ideal for beach lovers, it symbolizes protection, calmness, and renewal, making it an elegant accessory for everyday wear or special occasions. Finished with a secure lobster clasp and beautifully packaged, it’s the perfect gift to embrace your beachy, boho style.
-  Updated: 2025-10-11T01:35:25Z
+  Updated: 2025-10-11T13:34:15Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -2215,7 +2215,7 @@
     Availability: Available
     Price: $41.95 USD
 - [White Opal Necklace, STERLING SILVER October Opal Birthstone Necklace,Wire Wrapped Opal Necklace ,Lab Created White Opal Necklace,](https://sunnyseaglassjewelry.com/products/white-opal-necklace-sterling-silver-october-opal-birthstone-necklace-wire-wrapped-opal-necklace-lab-created-white-opal-necklace): This gorgeous, light,& beautiful dazzling teardrop simulated/synthetic Opal is wire wrapped using .925 sterling silver. *** A beautiful gift for the October birthstone ladies. Our Synthetic Opal stands for quality. This synthetic white Opal displays beautiful array of iridescent colors. Opal-like Plastic is NOT the same material as our Impregnated Synthetic Opal. The finished pendant measures 1.75 inch(37mm) from top of the bail to the bottom of the pendant, 0.60 inch across. The pendant comes on a .925 sterling silver cable chain. *Each pendant is handmade, so please allow slight variations from the shape of the branches and placement of the stones as shown. *Matching earrings available: www.etsy.com/listing/477739560/simulated-white-opal-sterling-silver?ref=shop_home_active_16 *ABOUT SIMULATED OPAL: “Opal" originates from the Latin word “Opalus” It is called opal the “Queen of Gems” because it encompasses the colors of all the other gems. Opal symbolizes hope and purity. It is a gift granted by the heaven in bolts of lightning and unfolds the “Nature’s fireworks” before one’s eyes. Simulated /Synthetic opal has similar properties as that of natural opal. This opal has a beautiful rainbow like prismatic effect which revealed the beauty of Precious Opal. * It is shipped in a gift box. Thank you for visiting my shop. Please contact me if you have any questions.*Engraving service is not available.
-  Updated: 2025-10-11T01:34:16Z
+  Updated: 2025-10-11T13:32:45Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -2275,7 +2275,7 @@
     Availability: Available
     Price: $42.95 USD
 - [Clover Bracelet in Sterling Silver, St Patrick's Bracelet, Wire Wrapped Celtic Clover Bracelet, Gifts for Her, Lucky Clover Bracelet](https://sunnyseaglassjewelry.com/products/clover-bracelet-in-sterling-silver-st-patricks-bracelet-wire-wrapped-celtic-clover-bracelet-gifts-for-her-lucky-clover-bracelet-1): A beautiful stylish handcrafted Clover Bracelet is made with pale pink & white shell pearls. This hand hammered .925 sterling silver 4 petal clover flowers are linked to the next pearls adds beauty & strength to this lovely bracelet. I can also make matching necklace & earrings upon request. Can be layered with other bracelets. Each beads are wire wrapped, so it is strong. I can customize this bracelet in many ways by using birthstone gemstones, crystal, different color pearls. Any questions, just convo with me. If I have requested beads in stock, I will make it for you. This lovely bracelet measures your choice of length plus 1/2 inch extension & finished with a handmade easy on & off S-hook. Thank you for visiting my shop. Please email me with any inquiries.
-  Updated: 2025-10-10T21:09:15Z
+  Updated: 2025-10-11T09:09:22Z
   Vendor: Sunny Sea Glass Jewelry
   Product Type: Wire Wrapped Bracelet/Anklet
   Availability: Available
@@ -2368,7 +2368,7 @@
     Availability: Available
     Price: $41.95 USD
 - [Serling silver Abalone Tree of Life Necklace,Wire Wrapped Abalone Tree of Life Necklace, Tree of Life Jewelry](https://sunnyseaglassjewelry.com/products/ready-ship-in-1-to-2-days-sterling-silver-abalone-tree-of-life-necklace-wire-wrapped-abalone-tree-of-life-necklace-tree-of-life-jewelry): This stunning Rainbow Abalone pendant is carefully wire wrapped with .925 sterling silver, featuring hammered and forged wire for added strength and texture. The abalone shell displays a vibrant mosaic of iridescent colors, including green, blue, and red, often called "sea opal." Measuring 2 inches long and 1.10 inches wide, the pendant hangs on an 18-inch sterling silver cable chain with a 2-inch extension. Each piece is handmade and unique, symbolizing peace, love, and wisdom through the Tree of Life design—a timeless emblem of strength and protection.
-  Updated: 2025-10-11T01:28:09Z
+  Updated: 2025-10-11T13:28:12Z
   Vendor: Sunny Sea Glass Jewelry
   Product Type: Wire wrapped necklace
   Availability: Available
@@ -2471,7 +2471,7 @@
     Availability: Available
     Price: $22.95 USD
 - [Wire Wrapped Rainbow Abalone Necklace in Antiqued Copper WHOLE PIECE, Abalone Shell Pendant, Abalone Shell Tree of Life Copper Necklace,](https://sunnyseaglassjewelry.com/products/wire-wrapped-rainbow-abalone-necklace-in-antiqued-copper-whole-piece-abalone-shell-pendant-abalone-shell-tree-of-life-copper-necklace): This large whole Abalone shell pendant is artfully wire wrapped in a Tree of Life design using genuine antiqued copper wire. The hammered and forged finish adds durability and texture, highlighting the pendant’s intricate details. Measuring 3.25 inches long and 1.55 inches wide, it showcases vibrant iridescent rainbow colors with hints of green, blue, and red—often called "sea opal." It arrives on an antiqued copper cable chain, perfect for layering or wearing alone. Each piece is handmade, making every necklace uniquely beautiful and meaningful, symbolizing life, wisdom, and protection.
-  Updated: 2025-10-11T01:24:55Z
+  Updated: 2025-10-11T13:23:34Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -2525,7 +2525,7 @@
     Availability: Available
     Price: $54.95 USD
 - [Chandelier Amazonite Earring for Wedding Formal Jewelry Boho Style Statement Piece Wire Wrapped Dangle Beach Set,](https://sunnyseaglassjewelry.com/products/chandelier-amazonite-earring-for-wedding-formal-jewelry-boho-style-statement-piece-wire-wrapped-dangle-beach-set): These elegant sterling silver chandelier earrings showcase a beautiful waterfall design, ideal for boho beach weddings or formal occasions. Handcrafted with .925 sterling silver wire, they feature cascading amazonite stones and Swarovski crystals in soft blue and iridescent shades. Their multiple dangling strands create a dazzling, eye-catching effect, perfect for making a statement on your special day or enhancing everyday style. Measuring 2-1/4 inches long, these earrings come ready to gift and can be customized with your choice of gemstones to suit your personal taste.
-  Updated: 2025-10-11T01:21:17Z
+  Updated: 2025-10-11T13:21:18Z
   Vendor: My Store
   Product Type: Wire Wrapped Earrings
   Availability: Available
@@ -2695,14 +2695,14 @@
     Availability: Available
     Price: $23.49 USD
 - [Handmade Moonstone, Pearl & Opalite in Gold Long Dangle Earrings, Elegant Moonstone Long Earrings, June Birthstone Gift for Her](https://sunnyseaglassjewelry.com/products/handmade-moonstone-pearl-opalite-in-gold-long-dangle-earrings-elegant-moonstone-long-earrings-june-birthstone-gift-for-her): These handcrafted long gold dangle earrings showcase a beautiful mix of 5mm luminous moonstone, elegant freshwater pearls, and semi-transparent 12mm teardrop Opalite, all arranged to shimmer and move gracefully. Measuring 2-1/4 inches from the 18 KT finished French earwire, they are lightweight and comfortable for everyday wear. Perfect for special occasions or adding a subtle touch of elegance to any outfit, these earrings make a thoughtful gift for birthdays or anniversaries, especially for fans of boho chic and celestial styles. Custom length and bead options are available upon request.
-  Updated: 2025-10-11T01:20:21Z
+  Updated: 2025-10-11T13:19:06Z
   Vendor: My Store
   Product Type: Wire Wrapped Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/91a00d6d-il_fullxfull.6934255217_5yki.jpg?v=1760145545
   Price: $24.95 USD
 - [Moonstone Long Elegant Earrings in Gold, Wired Wrapped Opal Dangling Earrings, June Birthstone Earrings, October Birthstone Earrings](https://sunnyseaglassjewelry.com/products/moonstone-long-elegant-earrings-in-gold-wired-wrapped-opal-dangling-earrings-june-birthstone-earrings-october-birthstone-earrings): These elegant gold dangle earrings feature a beautiful mix of genuine moonstone, freshwater pearls, and shimmering lab-created white opal. Designed to catch the light and move gracefully, they add a touch of sophistication to any outfit. Perfect for birthdays or special occasions, these earrings offer a stylish blend of boho and romantic charm. Ready to gift in a lovely box, they make a meaningful and stunning accessory for anyone who loves celestial-inspired jewelry. These lovely earrings measures 2-1/8 inch from the bottom of the 24kt plated gold earwires.* Comes ready for gifting in a beautiful jewelry box.*customization available upon request!
-  Updated: 2025-10-11T01:18:10Z
+  Updated: 2025-10-11T13:16:33Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -2721,7 +2721,7 @@
     Availability: Available
     Price: $24.95 USD
 - [Wire Wrapped Moonstone Necklace in Natural  Copper,Rainbow Moonstone Necklace, Blue Flashing Moonstone Necklace,June Birthstone necklace](https://sunnyseaglassjewelry.com/products/wire-wrapped-moonstone-necklace-in-natural-copper-rainbow-moonstone-necklace-blue-flashing-moonstone-necklace-june-birthstone-necklace): This beautiful Blue flashing Moonstone Pendant is hand wire wrapped Natural copper wires. It is a beautiful gift to give or receive! Let the moonlight dance upon your skin with this one-of-a-kind, handmade Moonstone pendant, lovingly wrapped in warm, natural copper wire with blue flash when you turn pendant side to side. Each curve of the copper wire is carefully shaped by hand, cradling the stone like an embrace, enhancing its natural luminescence and rustic charm. *You will receive this exact pendant necklace. ~~The pendant measures 1.50 inch(38mm) from the top of the bail to the bottom of the pendant, .40 inch across. The US quarter coin is about 1 inch(25mm) in diameter. ~~The pendant comes on a your choice of chain material. ***Moonstone Gemstone meaning: It is said if you give your lover a moonstone necklace when the moon is full you will always have passion with each other. Moonstone brings good fortune, Brings success in love as well as business matters It is shipped in a gift box. Thank you for visiting my shop. Please contact me if you have any questions.
-  Updated: 2025-10-10T21:03:23Z
+  Updated: 2025-10-11T09:01:56Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -2775,7 +2775,7 @@
     Availability: Available
     Price: $42.95 USD
 - [Wire Wrapped Carnelian Necklace in Copper Orange Carnelian Gemstone Necklace Carnelian Pendant Necklace, Carnelian Jewelry, Healing gemstone](https://sunnyseaglassjewelry.com/products/wire-wrapped-carnelian-necklace-in-copper-orange-carnelian-gemstone-necklace-carnelian-pendant-necklace-carnelian-jewelry-healing-gemstone): This listing is for the beautiful wire wrapped Heart shaped Carnelian gemstone in natural copper wires. The pendant has been hammered & forged to give strength & texture to bring out the stunning details of the finished pendant. It comes with your choice of chain. The pendant measures 2.25 inch from the top of the bail to the bottom of the pendant .78 inch across. ***About CARNEILAN GENSTONE: It is sought to bring bold energy, warmth, and a joy that lingers as much as it empowers and stimulates. It's known for being a stone of courage, endurance, energy. This is a powerhouse for success and one of the luckiest good luck charms known to humans. *To take care of all your copper jewelry, it may get darker over the time if expose to water/moisture. You can simply clean it with a polishing cloth which will go back to its original condition easily. Thank you very much for visiting my shop. Please contact me if you have any questions. It is shipped in a gift box
-  Updated: 2025-10-10T21:01:02Z
+  Updated: 2025-10-11T08:59:32Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -2817,7 +2817,7 @@
     Availability: Available
     Price: $42.95 USD
 - [Sterling Silver Garnet Necklace,Garnet Tree of Life Necklace with .925 Sterling Silver Chain, January Birthstone Tree of Life, Gifts for Her](https://sunnyseaglassjewelry.com/products/sterling-silver-garnet-necklace-garnet-tree-of-life-necklace-with-925-sterling-silver-chain-january-birthstone-tree-of-life-gifts-for-her): This beautiful Red Garnet Tree of Life Pendant is hand wire wrapped with gorgeous Garnet gemstone using .925 Sterling Silver wires for the tree trunk and branches. It is a beautiful gift to give or receive! January Birthstone, the symbol of Love ~~The pendant measures between 1.30 to 1.35 inch in diameter. The US quarter coin is about 1 inch(25mm) in diameter. ~~The pendant comes on an .925 Sterling Silver cable chain & finished with a .925 sterling silver lobster clasp. ~~ Each pendant is handmade, so please allow slight variations from the shape of the branches and placement of the stones as shown ~~About GARNET gemstone: The Garnet is a stone of purity and truth as well as a symbol of love and compassion. ***The Tree of Life is a universal symbol found in many spiritual traditions around the world. The tree of knowledge, connecting to heaven and the underworld, and the tree of life, connecting all forms of creation, are both forms of the world tree or cosmic tree. It's meaning represents life itself, wisdom, love, strength, protection, beauty, bounty and redemption. The tree is associated with the creator because it provides protection, supports abundant fruit production and thereby, regeneration. Thank you very much for visiting my shop. Please check my other Petite/Mini/ Small tree of life pendants. Please contact me if you have any questions.
-  Updated: 2025-10-10T21:00:13Z
+  Updated: 2025-10-11T08:57:53Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -2832,7 +2832,7 @@
     Availability: Available
     Price: $58.95 USD
 - [Abalone Tree of Life Copper wire Pendant, Wire Wrapped Abalone Paua Tree of Life Pendant Necklace, Tree of Life Pendant](https://sunnyseaglassjewelry.com/products/abalone-tree-of-life-copper-wire-pendant-wire-wrapped-abalone-paua-tree-of-life-pendant-necklace-tree-of-life-pendant): Gorgeous Abalone is wire wrapped in tree of life style with copper wires. The copper frame is hammered & forged to give strength & texture. This beautiful mosaic pattern abalone shell displays beautiful array of iridescent rainbow colors with hints of green, blue and red. It is also called 'sea opal' I will do my best to choose the gorgeous abalone pendant to fulfill the orders. *The finished pendant measures 2.15 inch from top of the bail to the bottom of the pendant. The pendant comes on an antiqued copper finished cable chain or Deerskin lace. *Each pendant is handmade, so please allow slight variations from the shape of the branches and placement as shown. ***The Tree of Life is a universal symbol found in many spiritual traditions around the world. The tree of knowledge, connecting to heaven and the underworld, and the tree of life, connecting all forms of creation, are both forms of the world tree or cosmic tree. It's meaning represents life itself, wisdom, love, strength, protection, beauty, bounty and redemption. **** Keep all your jewelry in zip lock bag or jewelry box when not in use this will avoid your jewelry being oxidized. Thank you for visiting my shop. Please contact me if you have any questions.*Engraving service is not available.
-  Updated: 2025-10-10T20:58:33Z
+  Updated: 2025-10-11T08:56:42Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -2886,7 +2886,7 @@
     Availability: Available
     Price: $46.95 USD
 - [Wire Wrapped Moonstone Necklace in Natural  Copper,Rainbow Moonstone Necklace, Blue Flashing Moonstone Necklace,June Birthstone necklace](https://sunnyseaglassjewelry.com/products/wire-wrapped-moonstone-necklace-in-natural-copper-rainbow-moonstone-necklace-blue-flashing-moonstone-necklace-june-birthstone-necklace-1): This beautiful Blue flashing Moonstone Pendant is hand wire wrapped Natural copper wires. It is a beautiful gift to give or receive! *You will receive this exact pendant necklace. ~~The pendant measures 1.60 inch(42mm) from the top of the bail to the bottom of the pendant, .50 inch across. The US quarter coin is about 1 inch(25mm) in diameter. ~~The pendant comes on a your choice of chain material. ***The Tree of Life is a universal symbol found in many spiritual traditions around the world. The tree of knowledge, connecting to heaven and the underworld, and the tree of life, connecting all forms of creation, are both forms of the world tree or cosmic tree. It's meaning represents life itself, wisdom, love, strength, protection, beauty, bounty and redemption. The tree is associated with the creator because it provides protection, supports abundant fruit production and thereby, regeneration. ****Moonstone Gemstone meaning: It is said if you give your lover a moonstone necklace when the moon is full you will always have passion with each other. Moonstone brings good fortune, Brings success in love as well as business matters It is shipped in a gift box. Thank you for visiting my shop. Please contact me if you have any questions.
-  Updated: 2025-10-10T20:57:12Z
+  Updated: 2025-10-11T08:55:25Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -2940,7 +2940,7 @@
     Availability: Available
     Price: $44.95 USD
 - [June Birthstone Pendant Necklace, Rainbow Moonstone Necklace,Wire Wrapped Moonstone Jewelry, Antiqued Copper Blue flashMoonstone Jewelry,](https://sunnyseaglassjewelry.com/products/june-birthstone-pendant-necklace-rainbow-moonstone-necklace-wire-wrapped-moonstone-jewelry-antiqued-copper-blue-flashmoonstone-jewelry): This beautiful Blue flashing Moonstone Pendant is hand wire wrapped antiqued copper wires. It is a beautiful gift to give or receive! *You will receive this exact pendant necklace. ~~The pendant measures 2.00 inch( 50 mm) from the top of the bail to the bottom of the pendant, .65 inch (20 mm) across. ***The Tree of Life is a universal symbol found in many spiritual traditions around the world. The tree of knowledge, connecting to heaven and the underworld, and the tree of life, connecting all forms of creation, are both forms of the world tree or cosmic tree. It's meaning represents life itself, wisdom, love, strength, protection, beauty, bounty and redemption. The tree is associated with the creator because it provides protection, supports abundant fruit production and thereby, regeneration. ****Moonstone Gemstone meaning: It is said if you give your lover a moonstone necklace when the moon is full you will always have passion with each other. Moonstone brings good fortune, Brings success in love as well as business matters * It is shipped in a gift box. Thank you for visiting my shop. Please contact me if you have any questions.
-  Updated: 2025-10-10T20:55:19Z
+  Updated: 2025-10-11T08:53:16Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -2994,7 +2994,7 @@
     Availability: Available
     Price: $49.45 USD
 - [Tiger Eye Earrings, Wire Wrapped Cat Eye Aurora Tiger Eye Dangle Earrings, Gemstone Earrings, Orange Fire Agate Gemstone Earrings,](https://sunnyseaglassjewelry.com/products/tiger-eye-earrings-wire-wrapped-cat-eye-aurora-tiger-eye-dangle-earrings-gemstone-earrings-orange-fire-agate-gemstone-earrings): These fabulous earrings are hand wrapped with 10 mm Cat Eye Aurora Tiger Eye Beads using a warm copper wires in herringbone weave style. * Since these beads are aurora in nature, you will see iridescent patterns of colors. These are great earrings to wear anytime you want a look for casual or special occasions. Great Fall colors to go with your wardrobe. They dangle freely about slightly longer than 3/4 inch from the bottom of the natural copper french earwires. They are sure to become your favorite pair. -All elements of these earrings are lead- & nickel-free. Thank you for visiting my shop. Hope you find something that you like..... Any questions, please email me Need more? Let me know
-  Updated: 2025-10-10T20:53:54Z
+  Updated: 2025-10-11T08:51:54Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -3009,7 +3009,7 @@
     Availability: Available
     Price: $21.95 USD
 - [Wire Wrapped Rose Quartz Pendant,Rose Quartz Copper Necklace,Pink Rose Quartz Jewelry, Healing Gemstone ,Grandmas Gift, Rose Quartz Heart](https://sunnyseaglassjewelry.com/products/wire-wrapped-rose-quartz-pendant-rose-quartz-copper-necklace-pink-rose-quartz-jewelry-healing-gemstone-grandmas-gift-rose-quartz-heart-1): This listing is for the beautiful wire wrapped Pink Rose Quartz Pendant Necklace. This beautiful Pink rose quartz is wire wrapped in copper wires. The pendant has been, hammered & forged to give strength & texture to bring out the stunning details of the finished pendant. The pendant comes with your choice of chain. The pendant measures 2 .00inch from the top of the bail to the bottom of the pendant, 1.5 inch across. *About Rose Quartz: Rose quartz is a stone of unconditional love. It opens the heart chakra to all forms of love: self-love, family love, platonic love, and romantic love. Rose quartz has excellent protection energies during pregnancy and childbirth. The elevated energy of quartz gives rose quartz a property of enhancing love in virtually any situation. Rose quartz is associated with the heart chakra. Thank you very much for visiting my shop. Please contact me if you have any questions. It is shipped in a gift box
-  Updated: 2025-10-10T20:53:11Z
+  Updated: 2025-10-11T08:51:03Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -3063,7 +3063,7 @@
     Availability: Available
     Price: $49.95 USD
 - [Wire Wrapped Antiqued Copper Bracelet ,Adjustable bracelet,Peridot Bangle/Cuff Leaf Wrap bracelet,, August Birthstone Bracelet](https://sunnyseaglassjewelry.com/products/wire-wrapped-antiqued-copper-bracelet-adjustable-bracelet-peridot-bangle-cuff-leaf-wrap-bracelet-august-birthstone-bracelet): Made to order, this stunning bracelet is handcrafted by wire wrapping semi-transparent green Peridot gemstones with genuine copper wires of varying gauges. The copper undergoes an antiquing process to darken and patina the wires, followed by forging, hammering, and polishing to achieve a warm, rich finish. The Peridot stones, measuring 5 to 7 mm, display lovely olive green shades. Completed with a peridot leaf glass bead and a handmade S-hook clasp, this adjustable bracelet fits most wrists between 7 and 8 inches. Each unique piece promotes compassion, healing, and prosperity, crafted with care and guaranteed.
-  Updated: 2025-10-10T20:50:01Z
+  Updated: 2025-10-11T08:50:01Z
   Vendor: My Store
   Product Type: Wire Wrapped Bracelet/Anklet
   Availability: Available
@@ -3118,7 +3118,7 @@
     Availability: Available
     Price: $59.95 USD
 - [Abalone Necklace, Wire Wrapped Abalone Pendant in Copper, Abalone Jewelry, Rainbow Abalone Necklace, Necklace for Women, Summer Necklace](https://sunnyseaglassjewelry.com/products/abalone-necklace-wire-wrapped-abalone-pendant-in-copper-abalone-jewelry-rainbow-abalone-necklace-necklace-for-women-summer-necklace): Add a touch of summer to your look with this stunning abalone Pendant Necklace. Adorned with 10mm rainbow abalone beads and accented with turquoise rondelle bead. This pretty abalone bead is wire wrapped in copper wire for a rustic yet elegant look. Perfect for beach lovers. * Choose the necklace material either antiqued copper chain or leather cord. This necklace comes with a 18 inch chain or leather cord. *** For MATCHING Earrings: www.etsy.com/shop/SunVDesigns?ref=seller-platform-mcnav&search_query=abalone+earrings Embrace the beauty of the ocean with this unique and captivating necklace! Thank you for visiting my shop.
-  Updated: 2025-10-10T20:49:06Z
+  Updated: 2025-10-11T08:48:24Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -3148,7 +3148,7 @@
     Availability: Available
     Price: $25.95 USD
 - [Jade Earrings in  Silver,Wire Wrapped Herringbone green Jade Dangle Earrings,May Birthstone earrings, Healing Gemstone Earrings](https://sunnyseaglassjewelry.com/products/jade-earrings-in-silver-wire-wrapped-herringbone-green-jade-dangle-earrings-may-birthstone-earrings-healing-gemstone-earrings): ****Jade is a symbol of goodness, preciousness and beauty. To the Chinese, A protective stone, Jade keeps the wearer from harm and brings harmony. Jade attracts good luck and friendship. This listing is for a beautiful Smooth round light green Jade gemstone beads wire wrapped in silver, gold finished and natural Copper wires. You can choose metal of your choice in the drop down menu. These fabulous earrings are hand wrapped intricately with approx.10 mm green jade in herringbone weave style. These are great earrings to wear anytime you want a look for casual or special occasions. They dangle freely about 3/4 inch from the bottom of the silver, natural copper or gold finished french earwires. They are sure to become your favorite pair. Thank you very much visiting my shop. ALL my items are shipped in a gift box with a bow. Please contact me if you have any questions.
-  Updated: 2025-10-10T20:48:15Z
+  Updated: 2025-10-11T08:47:46Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -3163,7 +3163,7 @@
     Availability: Available
     Price: $25.95 USD
 - [Peridot Tree of Life Necklace and Earring SET, August Birthstone Necklace & Earring SET, August Birthday Jewelry Gifts for Women,](https://sunnyseaglassjewelry.com/products/peridot-tree-of-life-necklace-and-earring-set-august-birthstone-necklace-earring-set-august-birthday-jewelry-gifts-for-women): This unique & gorgeous Tree of life Pendant & Earring SET is wire wrapped with genuine semi transparent green Peridot gemstone using genuine copper wires in various gauges, then I used the antiquing process to darken/patina the copper wires and then polished to give that warm & rich look of the finished tree of life. ~~The pendant measures between 1.40 to 1.45 inch in diameter. It comes on an antiqued copper finished chain. ~~ Each pendant is handmade, so please allow slight variations from the shape of the branches and placement of the stones as shown. ***The Tree of Life is a universal symbol found in many spiritual traditions around the world. The tree of knowledge, connecting to heaven and the underworld, and the tree of life, connecting all forms of creation, are both forms of the world tree or cosmic tree. It's meaning represents life itself, wisdom, love, strength, protection, beauty, bounty and redemption. The tree is associated with the creator because it provides protection, supports abundant fruit production and thereby, regeneration. Thank you very much visiting my shop. Please contact me if you have any questions.
-  Updated: 2025-10-10T20:47:32Z
+  Updated: 2025-10-11T08:47:14Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -3181,35 +3181,35 @@
     Availability: Available
     Price: $49.95 USD
 - [Jasper Earrings, Brecciated Red Jasper dangle earrings in Antiqued Copper Wire, Wire Wrapped Herringbone Jasper dangle earrings](https://sunnyseaglassjewelry.com/products/jasper-earrings-brecciated-red-jasper-dangle-earrings-in-antiqued-copper-wire-wire-wrapped-herringbone-jasper-dangle-earrings): Get ready to make a statement with these handmade copper wire-wrapped Red Jasper earrings! The antique solid copper wire and faceted stones add a unique touch to any outfit, while the Brecciated Red Jasper design and warm tones bring a bohemian or earthy-inspired vibe. For an extra touch of vintage charm, opt for the ornate Red Jasper boho earrings with an ethnic bronze finish. All finished with copper wire and dangling 1-1/4 inches from your earlobe. Thank you for visiting my shop.
-  Updated: 2025-10-10T20:45:07Z
+  Updated: 2025-10-11T08:45:12Z
   Vendor: My Store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/4b073354-il_fullxfull.5967850954_k96c.jpg?v=1756001030
   Price: $21.95 USD
 - [May Birthstone Malachite Earrings in Gold, Hand Wire Wrapped Malachite Dangling Earrings in Natural Copper, Green Malachite Gold Jewelry,](https://sunnyseaglassjewelry.com/products/may-birthstone-malachite-earrings-in-gold-hand-wire-wrapped-malachite-dangling-earrings-in-natural-copper-green-malachite-gold-jewelry): This listing is for a beautiful Green Malachite gemstone wire wrapped in antiqued copper wire. Great Gift for May Birthday or someone who loves green color. These fabulous earrings are hand wrapped intricately with 10 mm round genuine Malachite in herringbone weave style. These are great earrings to wear anytime you want a look for casual or special occasions. They dangle freely about 3/4 inch from the bottom of the .925 sterling french earwires. They are sure to become your favorite earrings. Thank you very much visiting my shop. ALL my items are shipped in a gift box with a bow. Please contact me if you have any questions.
-  Updated: 2025-10-10T20:44:48Z
+  Updated: 2025-10-11T08:44:21Z
   Vendor: My Store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/e632785b-il_fullxfull.6856836878_13op.jpg?v=1756001033
   Price: $32.95 USD
 - [Swirly Cobalt Blue Sea Glass Earrings in Sterling Silver, Wired Cobalt Blue Sea Glass Earrings,Nautical Earrings,Blue Glass Dangle Earrings](https://sunnyseaglassjewelry.com/products/swirly-cobalt-blue-sea-glass-earrings-in-sterling-silver-wired-cobalt-blue-sea-glass-earrings-nautical-earrings-blue-glass-dangle-earrings): Gorgeous Sea glass Beads in shade of Cobalt Blue !!! This my new collection: recycled /cultured Sea glass jewelry. The same soft finish as found in natural sea glass. These fun, colorful earrings are carefully Wire Wrapped with .925 sterling silver wires on recycled unique, round sea glass beads approximatelymeasures 20mm in daimeter. They are dangling down. They dangle nicely slightly over 1 inch from the bottom of the .925 sterling silver earwires. *Need more? let me know. *Email me for any inquiries Thank you for visiting my shop!
-  Updated: 2025-10-10T20:43:28Z
+  Updated: 2025-10-11T08:43:32Z
   Vendor: Sunny Sea Glass Jewelry
   Product Type: Sea Glass Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/c0a6381f-il_fullxfull.1075985280_rtpa.jpg?v=1756001033
   Price: $22.95 USD
 - [Rose Quartz Earrings, Wire Wrapped Rose Quartz Dangling/Drop Earrings in copper, Pink Rose Quartz dangle Earrings,  Rose Quartz Jewelry,](https://sunnyseaglassjewelry.com/products/rose-quartz-earrings-wire-wrapped-rose-quartz-dangling-drop-earrings-in-copper-pink-rose-quartz-dangle-earrings-rose-quartz-jewelry): Introducing our beautiful light pink Quartz earrings, handcrafted with 12 x 8 mm beads and genuine copper wires. These light pink beauties dangle about 3/4 inch from your earlobe. Feel the healing benefits of this love stone, promoting self-love, friendship, and inner peace. A must-have for comforting and calming in times of grief. Thank you for visiting my shop. Please contact me if you have any questions. These earrings will be shipped in a gift box.
-  Updated: 2025-10-10T20:43:25Z
+  Updated: 2025-10-11T08:42:45Z
   Vendor: My Store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/af23ab00-il_fullxfull.6015617465_mnni.jpg?v=1756001034
   Price: $21.95 USD
 - [Peridot Earrings in Silver, Weaved Peridot Dangle Earrings, August Birthstone Earrings, Green Peridot Earrings in Herringbone Style](https://sunnyseaglassjewelry.com/products/peridot-earrings-in-silver-weaved-peridot-dangle-earrings-august-birthstone-earrings-green-peridot-earrings-in-herringbone-style): ****A beautiful light green Peridot gemstone known for the stone of Good fortune, prosperity, emotional healing and compassion. Peridot is also known for the August Birthstone. I made with these 8 mm round Peridot earrings using silver wire, gold finished and natural copper wires in Herringbone weaving style. They dangle nicely about slightly over 1/2 inch from the bottom of the french earwires. Thank you very much for visiting my shop. Please contact me if you have any questions.
-  Updated: 2025-10-10T20:42:56Z
+  Updated: 2025-10-11T08:42:12Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -3224,7 +3224,7 @@
     Availability: Available
     Price: $24.95 USD
 - [Wire Wrapped Turquoise Earrings, Howlite Turquoise Gemstone Herringbone Dangle Earrings in Copper, Gemstone Copper Earrings,](https://sunnyseaglassjewelry.com/products/wire-wrapped-turquoise-earrings-howlite-turquoise-gemstone-herringbone-dangle-earrings-in-copper-gemstone-copper-earrings-1): Elevate your style with our Wire Wrapped Turquoise Earrings! These stunning dangle earrings feature 12mm blue howlite turquoise gemstones, wrapped in warm antiqued copper wire. Perfect for casual or special occasions, they hang 1 inch from copper french earwires. You'll love wearing these versatile and captivating earrings! Thank you for visiting my shop. Any questions, please email me
-  Updated: 2025-10-10T20:39:10Z
+  Updated: 2025-10-11T08:37:42Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -3238,7 +3238,7 @@
   Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/cd94be28-il_fullxfull.6139240494_9liq.jpg?v=1756001033
   Price: $20.95 USD
 - [Kyanite Necklace, Kyanite Earirngs, Wire Wrapped kyanite Earrings, Kyanite Healing Earrings,  Raw kyanite Jewelry, Blue Kyanite Earrings](https://sunnyseaglassjewelry.com/products/kyanite-necklace-kyanite-earirngs-wire-wrapped-kyanite-earrings-kyanite-healing-earrings-raw-kyanite-jewelry-blue-kyanite-earrings): ***Kyanite is a stone of connection, healing, clear thinking, and psychic ability. It's a chakra healing stone used to align the chakras and bring the harmony & balance. These blue necklace & earrings ae wire wrapped with genuine copper & natural Blue Kyanite gemstones. This lovely pendant is wire wrapped & measures about 1.5 inch (38 mm). Antiqued copper finished chain is included. These matching earrings measures 4.5 inch dangle 1.5 inch from the bottom of the antiqued copper finished french earwires. Thank you very much for visiting my shop. Please contact me if you have any questions.
-  Updated: 2025-10-10T20:38:01Z
+  Updated: 2025-10-11T08:36:28Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -3280,7 +3280,7 @@
     Availability: Available
     Price: $44.95 USD
 - [Ruby Copper Pendant Wire Wrapped Gemstone Necklace & Earrings Boho Style  Jewelry, Wire Design Natural Ruby Stone July Birthstone Gift Idea](https://sunnyseaglassjewelry.com/products/ruby-copper-pendant-wire-wrapped-gemstone-necklace-earrings-boho-style-jewelry-wire-design-natural-ruby-stone-july-birthstone-gift-idea): ***Ruby is the stone of love, nurture, health, knowledge and wealth. It has been associated with improved energy and concentration, creativity, loyalty, honor and compassion. * You will receive these wire wrapped genuine Ruby earrings and/or pendant in antiqued copper wires. These are handcrafted wire-wrapped ruby pendants featuring deep red natural ruby stones set in antiqued copper wire with intricate swirl designs. The pendants come with two chain options - one on leather cord and one on copper chain. These would appeal to crystal jewelry enthusiasts, those looking for July birthstone jewelry, boho style accessories, or natural stone pendants. The rustic copper and deep red combination makes these suitable for everyday wear or special occasions, particularly appealing to those interested in metaphysical properties of rubies or unique handmade jewelry pieces. These lovely red ruby earrings measures 1-1/2 inch (40 mm) from the bottom of the earwires. Thank you very much for visiting my shop. Please contact me if you have any questions.
-  Updated: 2025-10-10T20:36:58Z
+  Updated: 2025-10-11T08:34:10Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -3349,7 +3349,7 @@
     Availability: Available
     Price: $79.95 USD
 - [Jade Earrings in Copper, Wire Wrapped Earrings, Red Jade Herringbone Dangle Earrings in Copper, Red Jade Copper Earrings,](https://sunnyseaglassjewelry.com/products/jade-earrings-in-copper-wire-wrapped-earrings-red-jade-herringbone-dangle-earrings-in-copper-red-jade-copper-earrings): These fabulous earrings are hand wrapped with 10mm faceted Red Jade gemstone using non-tarnish warm copper wires in herringbone weave style. These are great earrings to wear anytime you want a look for casual or special occasions. They dangle freely about 3/4 inch from the bottom of the copper french earwires. They are sure to become your favorite pair. -All elements of these earrings are lead- & nickel-free. Thank you for visiting my shop. Hope you find something that you like..... Any questions, please email me Need more? Let me know
-  Updated: 2025-10-10T20:34:24Z
+  Updated: 2025-10-11T08:32:37Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -3367,7 +3367,7 @@
     Availability: Available
     Price: $24.95 USD
 - [Wire Wrapped Labradorite Necklace in Copper,Blue Green Labradorite Pendant Necklace,Labradorite Tree of Life  Antiqued Copper, Labradorite](https://sunnyseaglassjewelry.com/products/wire-wrapped-labradorite-necklace-in-copper-blue-green-labradorite-pendant-necklace-labradorite-tree-of-life-antiqued-copper-labradorite): This listing is for the beautiful wire wrapped Natural blue green flashing Labradorite Teardrop Gemstone in Antiqued copper. It would look nice on a long chain. *You will receive this exact one. This natural beautiful Labradorite displays a beautiful lots of blue flash, desert golden yellow green color. The stone is wire wrapped in using genuine copper wires for tree trunks and branches. The pendant is antiqued to darken/patina the copper wires and forged & polished to give that warm & rich look of the finished pendant. It comes with your choice of chain. The pendant measures 1.75 inch from the top of the bail to the bottom of the pendant, .60inch (17mm) across. ***Introducing Deerskin Lace Leather: very soft and insulating, deer leather has for decades been used for clothing, shoes and even shelter. Deerskin is strong yet the softest. Looks great on all my Tree of life necklaces & others. About Labradorite: For Clarity, Communication, and Creativity. The stone of all things mystical, magical, and intuitive. It is associated with clairvoyance, and helps aid communication with your higher self and the spirit realm. *For MORE beautiful Labradorite jewelry, click on Labradorite category section. Thank you very much for visiting my shop. Please contact me if you have any questions. It is shipped in a gift box.*Engraving service is not available.
-  Updated: 2025-10-10T20:34:02Z
+  Updated: 2025-10-11T08:32:14Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -3403,7 +3403,7 @@
     Availability: Available
     Price: $47.25 USD
 - [Pink Peruvian Opal Earrings in Sterling Silver/Copper wires, Wire Wrapped Pink Opal Dangling Earrings, Opal Earrings for October Birthday](https://sunnyseaglassjewelry.com/products/pink-peruvian-opal-earrings-in-sterling-silver-copper-wires-wire-wrapped-pink-opal-dangling-earrings-opal-earrings-for-october-birthday): These beautiful 8 mm semi-opaque Peruvian Opal beads are wire wrapped in sterling silver and natural copper wires. *They are simple yet pretty enough to be worn in dressy occasions. 8 mm Opal earrings dangle freely 3/4 inch from the bottom of the .925 sterling silver earwires. * Please choose your desired finish in the drop down menu. Sure to be one of your favorite pair of earrings. Perfect for October birthday gift. Great to go with your casual to dressy occasions. It is shipped in a gift box. Ready to give a a gift. Thank you for visiting my shop. Please contact me if you have any questions.*Engraving service is not available.
-  Updated: 2025-10-10T20:33:26Z
+  Updated: 2025-10-11T08:31:25Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -3415,7 +3415,7 @@
     Availability: Available
     Price: $23.95 USD
 - [Peridot Bracelet in STERLING SILVER CLASP Green Peridot Chip Bracelet, August Peridot Bracelet,August Birthstone Bracelet, Peridot Bracelet,](https://sunnyseaglassjewelry.com/products/peridot-bracelet-in-sterling-silver-clasp-green-peridot-chip-bracelet-august-peridot-bracelet-august-birthstone-bracelet-peridot-bracelet): Beautiful green Peridot makes perfect Gifts for the August Birthstone ladies Genuine Peridot chips are beaded on a sturdy beading wire. A Perfect matching bracelet for my Green Peridot tree of life Necklaces! The bracelet measures approx. 6.5 in length plus 1 inch extender & finished with a .925 sterling silver lobster clasp. * Each bracelet is handmade, so please allow slight variations from the shape of the stones and placement of the stones as shown. *Here is the GUIDE to help to put on a bracelet by yourself: Place a piece of tape over the bracelet. Make sure to use a large enough piece of tape to firmly secure the jewelry to your wrist. It’s best to place the tape just behind the end of the bracelet, so that part is especially secure. Scotch Tape, actually works best for this purpose. Secure the clasp with your free hand. With the tape holding the bracelet in place against your wrist, you can easily wrap the bracelet around your wrist and close the clasp with your opposite hand. Once the bracelet is secure, simply pull off the tape and discard. If you’re having any trouble closing the clasp, make sure to keep the hand that you’re putting the jewelry on braced against the table or counter so it remains steady. * The matching earrings are available: www.etsy.com/listing/210861918/peridot-earring-wire-wrapped-peridot?ref=shop_home_active_1 Thank you very much for visiting my shop.
-  Updated: 2025-10-10T20:30:44Z
+  Updated: 2025-10-11T08:30:46Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -3458,7 +3458,7 @@
   Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/5a4660c8-il_fullxfull.2001793866_eyuh.jpg?v=1756001037
   Price: $39.95 USD
 - [Hand crafted Tree of Life Necklace with Amethyst and Peridot in Sterling Silver, February and August Birthstone Tree of Life Necklace,](https://sunnyseaglassjewelry.com/products/hand-crafted-tree-of-life-necklace-with-amethyst-and-peridot-in-sterling-silver-february-and-august-birthstone-tree-of-life-necklace): I love the colors of purple/lavender/green! We handmade this unique & gorgeous wire wrapped Tree of Life pendant necklace. The pendant is made with two different shades of Amethyst & Peridot gemstones using .925 sterling silver wires. Perfect for February Birthday Gift. ~~The pendant measures 1.35 to 1.40 inch in diameter. It comes with a .925 sterling silver cable chain. ~~ Each pendant is handmade, so please allow slight variations from the shape of the branches and placement of the stones as shown ***The Tree of Life is a universal symbol found in many spiritual traditions around the world. The tree of knowledge, connecting to heaven and the underworld, and the tree of life, connecting all forms of creation, are both forms of the world tree or cosmic tree. It's meaning represents life itself, wisdom, love, strength, protection, beauty, bounty and redemption. The tree is associated with the creator because it provides protection, supports abundant fruit production and thereby, regeneration. ****The Amethyst meaning is spiritual growth and protection. These beautiful healing crystals are also known for bringing clarity of the mind to the owner.Amethyst healing properties can relieve pain and swelling throughout the body by calming the nervous system. Amethyst is well known for having a positive affect against insomnia and nightmares. Thank you very much visiting my shop. Please contact me if you have any questions.
-  Updated: 2025-10-10T20:30:26Z
+  Updated: 2025-10-11T08:29:01Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -3501,7 +3501,7 @@
     Availability: Available
     Price: $58.95 USD
 - [Handmade Wire Wrapped kyanite Necklace, Healing Blue Kyanite Necklace, Kyanite Jewelry, Raw kyanite Pendant Necklace in Sterling Silver](https://sunnyseaglassjewelry.com/products/handmade-wire-wrapped-kyanite-necklace-healing-blue-kyanite-necklace-kyanite-jewelry-raw-kyanite-pendant-necklace-in-sterling-silver): ***Kyanite is a stone of connection, healing, clear thinking, and psychic ability. It's a chakra healing stone used to align the chakras and bring the harmony & balance. * You will receive this exact necklace. This pendant comes on a 0.925 sterling silver chain. It will be shipped within ONE day. This beautiful wire wrapped Blue Kyanite pendant necklace in 0.925 sterling silver wires. The pendant measures about 1.75 to 2.00 inch in height, 0.65 to .70 inch across Each pendant is handmade, so please allow slight variations from the shape of the branches and placement of the stones as shown. FOR EXTRA CHAIN OR LEATHER : www.etsy.com/shop/SunVDesigns?ref=seller-platform-mcnav&section_id=20947007 Thank you very much for visiting my shop. Please contact me if you have any questions. ****Those last two images are guide to help to visualize what necklace length looks like in women (average women's neck as well as in men). it’s best to first measure the circumference of your neck. Evaluate the length where you want your pendant or else to be at by using thread or string, then measure the string to the measuring tape to get an accurate measurement.
-  Updated: 2025-10-10T20:28:12Z
+  Updated: 2025-10-11T08:26:39Z
   Vendor: My Store
   Product Type: Wire wrapped necklace
   Availability: Available
@@ -3559,7 +3559,7 @@
   Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/56c95f24-il_fullxfull.6164338105_ex7b.jpg?v=1756001038
   Price: $59.95 USD
 - [White Opal Necklace,STERLING Silver October Opal Birthstone Necklace,Wire Wrapped Lab Created White Opal Necklace,](https://sunnyseaglassjewelry.com/products/ready-ship-in-1-to-2-days-white-opal-necklace-sterling-silver-october-opal-birthstone-necklace-wire-wrapped-lab-created-white-opal-necklace): This stunning, lightweight teardrop-shaped synthetic opal pendant is expertly wrapped in .925 sterling silver. An ideal gift for those celebrating October birthdays, our high-quality synthetic opal showcases a vibrant spectrum of iridescent colors. Unlike opal-like plastic, this impregnated synthetic opal offers a genuine appearance and prismatic effect. The pendant measures 1.75 inches (37mm) from the bail to the bottom and 0.60 inches wide, hanging on a sterling silver cable chain. Each piece is handcrafted, so minor variations in design may occur. It ships in a gift box. Engraving is not available.
-  Updated: 2025-10-11T01:12:42Z
+  Updated: 2025-10-11T13:12:45Z
   Vendor: My Store
   Product Type: Wire wrapped necklace
   Availability: Available
@@ -3577,7 +3577,7 @@
     Availability: Available
     Price: $81.95 USD
 - [Starfish Charm Pearl Crystal Bracelet,Beach Starfish Necklace & Earrings, Starfish Ocean theme jewelry,Bridal Bracelet, Bridesmaid bracelet](https://sunnyseaglassjewelry.com/products/starfish-charm-pearl-crystal-bracelet-beach-starfish-necklace-earrings-starfish-ocean-theme-jewelry-bridal-bracelet-bridesmaid-bracelet): A perfect bridal/bridesmaid jewelry for a beautiful beach theme wedding! We created these beautiful & elegant beach/ocean theme bracelet with lustrous 6 and 4mm Swarovski white pearls ,Swarovski clear AB crystals: The center piece is made with.925 sterling silver starfish pave setting with lots of crystals. This beautiful bracelet measures 6.5 inch plus 1 inch extender. Custom length available upon request. *Starfish charm: Sterling silver, 10 to 11 mm natural freshwater pearl. The drop measures about 1 inch from the top of the starfish to the bottom of the 9.5mm white shell pearl. The main necklace is made with 4 & 6mm Swarovski white pearls and crystals. This gorgeous necklace is finished with .925 sterling silver chain between pearls and crystals and finished with a sterling silver lobster clasp. Necklace measures your choice of length plus 2-1/2 inch extender. ~~This beautiful Jewelry comes gift wrapped Thank you for visiting my shop.
-  Updated: 2025-10-10T20:25:07Z
+  Updated: 2025-10-11T08:25:14Z
   Vendor: Sunny Sea Glass Jewelry
   Product Type: 
   Availability: Available
@@ -3592,7 +3592,7 @@
     Availability: Available
     Price: $48.95 USD
 - [Wire Wrapped Citrine Necklace, Raw Citrine Necklace in Copper, November Birthstone  Necklace, November Birthstone Necklace,Citrine Jewelry](https://sunnyseaglassjewelry.com/products/wire-wrapped-citrine-necklace-raw-citrine-necklace-in-copper-november-birthstone-necklace-november-birthstone-necklace-citrine-jewelry): This listing is for the amazing beautiful sunny yellow golden healing gemstone which is November birthstone. CITRINE gemstone has been thought to be a healing crystal that brings happiness, health, energy, and prosperity. This beautiful pendant pendant is made with Genuine Citrine gemstone using antiqued copper wires. The pendant has been antiqued, hammered & forged to give strength & texture to bring out the stunning details of the finished pendant. The pendant measures approx. 2.205inch in height, 0.75 inch across . It comes with an antiqued copper chain. FOR EXTRA CHAIN OR LEATHER : www.etsy.com/shop/SunVDesigns?ref=seller-platform-mcnav&section_id=20947007 Thank you very much for visiting my shop. This necklace is shipped in a gift box. Please contact me if you have any questions. C-001
-  Updated: 2025-10-10T20:24:28Z
+  Updated: 2025-10-11T08:24:10Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -3679,6 +3679,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/3ca17301-il_fullxfull.6728990758_2fw4.jpg?v=1756001042
   Price: $22.95 USD
+- [Fancy Swirl Lapis Lazuli Earrings in Sterling Silver, September Birthstone Earrings, Lapis Jewelry, Blue Lapis Dangling Earrings,](https://sunnyseaglassjewelry.com/products/fancy-swirl-lapis-lazuli-earrings-in-sterling-silver-september-birthstone-earrings-lapis-jewelry-blue-lapis-dangling-earrings): These elegant Lapis Lazuli earrings feature radiant 8mm teardrop stones set in .925 sterling silver wire, making an ideal gift for anyone born in September. Lightweight and comfortable, they hang about 1 inch (25mm) from sterling silver French earwires, perfect for both everyday wear and special occasions. Each pair is beautifully packaged in a gift box with a bow. Feel free to reach out with any questions—thank you for visiting our shop!
+  Updated: 2025-10-11T23:25:28Z
+  Vendor: My Store
+  Product Type: Wire Wrapped Earrings
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/e35fb13d-il_fullxfull.5252999888_b5vh.jpg?v=1756001042
+  Price: $27.95 USD
 - [Star  Earrings, Swarovski Crystal Star Earrings, Glittering Crystal Star Earrings,Statement Earrings, Fancy Party Earrings, Holiday Earrings](https://sunnyseaglassjewelry.com/products/star-earrings-swarovski-crystal-star-earrings-glittering-crystal-star-earrings-statement-earrings-fancy-party-earrings-holiday-earrings): These are ready to be shipped in 1 to 2 days, so you could wear them all throughout the holiday season. This listing is for the beautiful glittering fancy Holiday earrings. They are Handmade with Swarovski Star crystals in fancy crystal pave earwires. They dangle 1-1/4 inch from the bottom of the hypoallergenic rhodium post style. Thanks for visiting my ship. Any questions, Just message me.
   Updated: 2025-09-15T22:34:29Z
   Vendor: Sunny Sea Glass Jewelry
@@ -3694,7 +3701,7 @@
   Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/2145d28e-il_fullxfull.6151296627_tn1t.jpg?v=1756001042
   Price: $22.95 USD
 - [Snowflake Ball Earrings, Snowflake  Earrings, Glittering Swarovski Earrings, Statement Earrings, Fancy Party Earrings, Holiday Earrings](https://sunnyseaglassjewelry.com/products/snowflake-ball-earrings-snowflake-earrings-glittering-swarovski-earrings-statement-earrings-fancy-party-earrings-holiday-earrings): These are ready to be shipped in 1 to 2 days, so you could wear them all throughout the holiday season. This listing is for the beautiful glittering fancy Holiday earrings. They are Handmade with Swarovski crystals & Czech crystal glass beads in post style. They dangle 1-1/2 inch from the bottom of the hypoallergenic rhodium post style. Thanks for visiting my ship. Any questions, Just message me.
-  Updated: 2025-10-10T20:20:22Z
+  Updated: 2025-10-11T08:20:27Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -3713,7 +3720,7 @@
     Availability: Available
     Price: $22.95 USD
 - [Frameless Abalone Necklace, Wire Wrapped Abalone Pendant,Abalone Tree of Life Necklace  Leather,Abalone Necklace Copper,Paua Shell Jewelry](https://sunnyseaglassjewelry.com/products/frameless-abalone-necklace-wire-wrapped-abalone-pendant-abalone-tree-of-life-necklace-leather-abalone-necklace-copper-paua-shell-jewelry): This stunning Abalone pendant is hand wire wrapped with genuine copper for strength and texture. Showcasing vibrant rainbow colors in a unique mosaic pattern, each piece is one-of-a-kind. The Tree of Life design symbolizes wisdom, love, and protection, making it a meaningful accessory. Lightweight and elegant, it adds a natural touch to any outfit while promoting feelings of peace and compassion. Easy to care for, this pendant will brighten your jewelry collection with its ocean-inspired beauty.
-  Updated: 2025-10-11T01:12:18Z
+  Updated: 2025-10-11T13:12:23Z
   Vendor: Sunny Sea Glass Jewelry
   Product Type: Wire wrapped necklace
   Availability: Available
@@ -3755,7 +3762,7 @@
     Availability: Available
     Price: $39.95 USD
 - [White Sea Glass Sailboat Earrings in Sterling Silver, Ocean-Inspired Beach Glass Sailboat Necklace and Earring SET,  Nautical Beach Jewelry"](https://sunnyseaglassjewelry.com/products/white-sea-glass-sailboat-earrings-in-sterling-silver-ocean-inspired-beach-glass-sailboat-necklace-and-earring-set-nautical-beach-jewelry): Experience the beauty of the ocean with this stunning White Sea Glass Sailboat Necklace and Earring Set. Each piece features cultured frosted clear white sea glass, carefully wire-wrapped in .925 sterling silver for a soft, natural finish. The pendants, shaped like delicate sailboats, range from 18 to 22 mm and reflect light like sun dancing on the waves. Perfect for beach lovers and dreamers, this set symbolizes freedom, adventure, and tranquility. Finished with sterling silver beads and a matching cable chain, it’s a charming tribute to the sea, ideal for yourself or a special gift.
-  Updated: 2025-10-11T01:40:24Z
+  Updated: 2025-10-11T13:40:30Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -3995,7 +4002,7 @@
     Availability: Available
     Price: $41.95 USD
 - [Crystal Anklet/Bracelet,Wedding/Bridal Crystal Anklet /Bracelet in Sterling Silver, Swarovski Crystal Bracelet, Bridesmaid Crystal Bracelet](https://sunnyseaglassjewelry.com/products/crystal-anklet-bracelet-wedding-bridal-crystal-anklet-bracelet-in-sterling-silver-swarovski-crystal-bracelet-bridesmaid-crystal-bracelet): This sparkling Swarovski crystal anklet and bracelet set adds elegant shimmer to any look. Made with 4mm clear AB crystals and finished with sterling silver clasps, it offers a perfect fit with adjustable sizing. Ideal for weddings or bridesmaids, this delicate piece complements your style with timeless beauty. Gift wrapped and ready to shine on special occasions.
-  Updated: 2025-10-11T01:05:31Z
+  Updated: 2025-10-11T13:03:17Z
   Vendor: Sunny Sea Glass Jewelry
   Product Type: Wire Wrapped Bracelet/Anklet
   Availability: Available
@@ -4037,21 +4044,21 @@
     Availability: Available
     Price: $21.95 USD
 - [Ready Ship in 1 to 2 days, Aqua Blue  Opal Necklace, Lab Created Opal Tree of Life Jewelry,  October Birthstone Jewelry,](https://sunnyseaglassjewelry.com/products/ready-ship-in-1-to-2-days-aqua-blue-opal-necklace-lab-created-opal-tree-of-life-jewelry-october-birthstone-jewelry): This stunning aqua blue lab-created opal necklace features a dazzling teardrop pendant wire-wrapped in sterling silver. The Tree of Life design symbolizes wisdom, strength, and connection, making it a meaningful gift. Handmade with care, the synthetic opal shows beautiful rainbow colors similar to natural opals. The pendant comes on a sterling silver chain and is ready to ship in 1 to 2 days in a gift box. Celebrate October’s birthstone with this eye-catching and symbolic piece.
-  Updated: 2025-10-11T01:01:11Z
+  Updated: 2025-10-11T13:01:16Z
   Vendor: Sunny Sea Glass Jewelry
   Product Type: Wire wrapped necklace
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/1b81caf4-il_fullxfull.5009735904_g2nf.jpg?v=1756001049
   Price: $79.95 USD
 - [Sterling Silver Kyanite Earirngs, Wire Wrapped kyanite Earrings, Kyanite Healing Earrings,  Raw kyanite Jewelry, Blue Kyanite Earrings](https://sunnyseaglassjewelry.com/products/sterling-silver-kyanite-earirngs-wire-wrapped-kyanite-earrings-kyanite-healing-earrings-raw-kyanite-jewelry-blue-kyanite-earrings): Experience the calming energy of blue kyanite with these sterling silver wire-wrapped earrings. Crafted with 0.925 sterling silver, each pair features unique raw kyanite stones known for promoting healing and mental clarity. Perfect for balancing your chakras, these elegant earrings add a touch of natural beauty and wellness to your look. Slight variations in stone shape make each pair one of a kind. Embrace both style and positive energy with these handcrafted kyanite earrings.
-  Updated: 2025-10-11T00:58:32Z
+  Updated: 2025-10-11T12:58:36Z
   Vendor: Sunny Sea Glass Jewelry
   Product Type: Wire wrapped necklace
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/c931cab4-il_fullxfull.5196459983_phd3.jpg?v=1756001050
   Price: $59.95 USD
 - [Jade Earrings in Gold, Wire Wrapped Lime green color Jade Earrings,Wire Wrapped dangle  Earrings  Wire wrapped Jade Earrings,](https://sunnyseaglassjewelry.com/products/jade-earrings-in-gold-wire-wrapped-lime-green-color-jade-earrings-wire-wrapped-dangle-earrings-wire-wrapped-jade-earrings): These fabulous earrings are hand wrapped intricately using tarnish resistant gold craft wires. Each beads measures 10mm faceted Lime green color jade. These are great earrings to wear anytime you want a look for casual or special occasions. They dangle freely about 5/8 inch from the bottom of the gold finished french earwires. They are sure to become your favorite pair. -All elements of these earrings are lead- & nickel-free. Thank you for visiting my shop. Hope you find something that you like..... Any questions, please email me Need more? Let me know
-  Updated: 2025-10-11T00:57:33Z
+  Updated: 2025-10-11T12:57:36Z
   Vendor: Sunny Sea Glass Jewelry
   Product Type: Wire Wrapped Earrings
   Availability: Available
@@ -4178,7 +4185,7 @@
   Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/il_1000x794.6082672356_f87e_928acf57-c337-496d-936c-1182ffe1ef3a.jpg?v=1756058690
   Price: $79.95 USD
 - [White Sea Glass Sailboat Earrings in Sterling Silver, Ocean-Inspired Beach Glass Sailboat Necklace and Earring SET](https://sunnyseaglassjewelry.com/products/white-sea-glass-sailboat-earrings-in-sterling-silver-ocean-inspired-beach-glass-sailboat-necklace-and-earring-set): Experience the elegance of cultured Frosted Clear White sea glass in this exquisite Sailboat Necklace and Earring set. Each piece features freeform sea glass beads, measuring approximately 18 to 22 mm for the pendant and slightly smaller for the earrings, artfully wire-wrapped in .925 sterling silver. The smooth, frosted surface mimics natural sea glass, catching light like sun reflecting on ocean waves. Shaped as delicate sailboats, these pieces symbolize freedom and adventure, ideal for ocean enthusiasts and dreamers. The pendant includes a sterling silver cable chain, completing this refined ocean-inspired ensemble.***Email me for any inquiries.Thank you for visiting my shop!
-  Updated: 2025-10-11T00:50:11Z
+  Updated: 2025-10-11T12:49:27Z
   Vendor: Sunny Sea Glass Jewelry 
   Product Type: Holiday Sea Glass Necklace
   Availability: Available
@@ -4190,7 +4197,7 @@
     Availability: Available
     Price: $39.95 USD
 - [Handmade Macrame Sea Glass Bracelet, Hunter Green Sea Glass Bracelet, Adjustable Sea Glass Macrame Bracelets](https://sunnyseaglassjewelry.com/products/handmade-macrame-sea-glass-bracelet-hunter-green-sea-glass-bracelet-adjustable-sea-glass-macrame-bracelets): Petty & fun Sea Glass bracelet! A great gift for a friend who loves beaches & oceans.Fun & pretty summer beach bracelet!. This bracelet is made with a Natural sea glass, then we drilled each sides & continued with macrame adjustable style.This beautiful sea glass measures 20 x 15 mm.When the sliding tie is closed measures 6 inch and 8 inch when expended leaving 1 inch each end. Each end cord is finished with a .925 sterling silver beads.****About our macrame cord: S-Lon cord, also known as Super Lon, is a twisted nylon multi-filament cord used in jewelry making,bead stringing, and micro-macrame. It's known for its strength, bulk, and ability to avoid stretching, making it suitable for knotting and detailed projects.S-Lon, when used as a beading thread, is water-resistant, not waterproof. While it's made of nylon and can withstand moisture, it will eventually absorb water if submerged. The manufacturer, The Beadsmith.***Email me for any inquiries.***Thank you for visiting my shop!
-  Updated: 2025-10-11T00:47:45Z
+  Updated: 2025-10-11T12:46:50Z
   Vendor: Sunny Sea Glass Jewelry 
   Product Type: Sea Glass Bracelet
   Availability: Available
@@ -4205,7 +4212,7 @@
     Availability: Available
     Price: $20.00 USD
 - [Abalone macrame bracelet, Abalone Bracelet,](https://sunnyseaglassjewelry.com/products/abalone-macrame-bracelet): This bracelet features a hand wire-wrapped 14 mm abalone shell set on a sterling silver lavender macrame made from durable Korean polyester cord. Water-resistant and perfect for surfers, it’s ideal summer jewelry that you can wear throughout the year. Measuring 5.5 inches when closed, it expands up to 10 inches with an adjustable sliding knot for a comfortable fit.
-  Updated: 2025-10-11T00:41:19Z
+  Updated: 2025-10-11T12:41:23Z
   Vendor: Sunny Sea Glass Jewelry 
   Product Type: Wire Wrapped Bracelet/Anklet
   Availability: Available
@@ -4359,8 +4366,8 @@
   Updated: 2025-10-11T01:35:14Z
   Total Products: 10
 - [Wire Wrapped Earrings](https://sunnyseaglassjewelry.com/collections/sea-glass-jewlry)
-  Updated: 2025-10-11T01:30:00Z
-  Total Products: 27
+  Updated: 2025-10-11T23:25:27Z
+  Total Products: 28
 - [Wire Wrapped Necklace](https://sunnyseaglassjewelry.com/collections/wire-wrapped-necklace): Wire Wrapped Opal Necklace, sterling silver with chain, swirl design
   Updated: 2025-10-11T01:32:56Z
   Total Products: 31
