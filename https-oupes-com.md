@@ -6,7 +6,7 @@
 - Timezone: Asia/Shanghai
 - Created At: 2021-09-03T03:31:14Z
 - Contact Email: support@oupes.com
-- Updated At: 2025-10-12T16:00:33.647Z
+- Updated At: 2025-10-12T20:00:33.419Z
 
 ## Products
 
@@ -61,7 +61,7 @@
     Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/oupes-240w-portable-solar-panel-440873.png?v=1755138972
     Price: $2,142.00 USD
 - [OUPES Mega 5 Series 5040Wh 4000W Portable Home Backup Power Station](https://oupes.com/products/oupes-mega-5-portable-power-station): OUPES Mega 5 Series: a powerful 4000W portable power station with 5040Wh capacity. Stay prepared with this reliable home backup power solution!
-  Updated: 2025-10-12T03:12:30Z
+  Updated: 2025-10-12T17:22:15Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
@@ -136,7 +136,7 @@
     Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/oupes-mega-3-home-backup-portable-power-station-3600w-3072wh-897054.webp?v=1759221005
     Price: $2,359.00 USD
 - [OUPES B2 Multi-functional Extra Battery](https://oupes.com/products/b2-battery): Discover the OUPES B2 Multi-functional Extra Battery—portable RV power with LiFePO4 safety and smart app control. Charge anywhere, anytime with ease.
-  Updated: 2025-10-12T08:44:18Z
+  Updated: 2025-10-12T18:47:07Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
@@ -150,7 +150,7 @@
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/oupes-multi-functional-flashlight-416069.png?v=1741944169
   Price: $39.00 USD
 - [Portable Camping Chair, Outdoor Folding Chair - OUPES](https://oupes.com/products/portable-folding-camping-chair): Shop portable camping chairs and outdoor folding chairs at OUPES—lightweight, durable, and designed for comfort on every adventure.
-  Updated: 2025-10-07T03:16:13Z
+  Updated: 2025-10-12T19:28:40Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
@@ -171,7 +171,7 @@
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/mega-5-2240w-solar-panel-solar-generator-kit-545398.webp?v=1741944190
   Price: $1,899.00 USD
 - [OUPES Mega 2 Home Backup & Portable Power Station | 2500W, 2048Wh](https://oupes.com/products/oupes-mega-2-home-backup-portable-power-station-2500w-2048wh): OUPES Mega 2 Power Station with 2500W,2048Wh inverter. LiFePO4 battery, expandable to 10.24kWh. 15 outputs, HD display, full charge in 0.6 hrs. Ideal for backup and portable use.
-  Updated: 2025-10-12T13:07:56Z
+  Updated: 2025-10-12T19:24:34Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
@@ -212,7 +212,7 @@
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/oupes-4ft-charging-cable-adapter-958823.png?v=1741944217
   Price: $19.00 USD
 - [B2/B5 Battery connection cable](https://oupes.com/products/b2-b5-battery-connection-cable): Used to connect B2 or B5 batteries to the Mega/Titan series power station.
-  Updated: 2025-10-12T00:51:15Z
+  Updated: 2025-10-12T16:04:46Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
@@ -599,7 +599,7 @@
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/MC4_to_7909.png?v=1746676028
   Price: $29.90 USD
 - [Portable Solar Power Generator 2400W 2232Wh | OUPES Exodus 2400 Station](https://oupes.com/products/oupes-exodus-2400-portable-power-station-2400w-2232wh): OUPES 2400W Solar Power Station & Portable Generator: 0-100% AC charge in 1.5 hours. Solar-ready for camping, home backup, outages. Premium after-sales included.
-  Updated: 2025-10-12T14:28:40Z
+  Updated: 2025-10-12T19:22:37Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
@@ -772,7 +772,7 @@
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/oupes-240w-portable-solar-panel-440873.png?v=1755138972
   Price: $2,142.00 USD
 - [OUPES Emergency Bag](https://oupes.com/products/oupes-emergency-bag)
-  Updated: 2025-10-11T01:18:15Z
+  Updated: 2025-10-12T19:26:36Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
