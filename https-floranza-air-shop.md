@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-08-20T10:34:43Z
 - Contact Email: enfinlibre256@gmail.com
-- Updated At: 2025-10-12T17:35:47.982Z
+- Updated At: 2025-10-12T20:00:41.447Z
 
 ## Products
 
@@ -2303,7 +2303,7 @@
   Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/protection.png?v=1758408890
   Price: 0,00 € EUR
 - [Ins Lapel Button Jacket Fashion Commuter Casual Suit Jacket Women's Long-sleeved Tops Outwear Clothing](https://floranza-air.shop/products/ins-lapel-button-jacket-fashion-commuter-casual-suit-jacket-womens-long-sleeved-tops-outwear-clothing): Overview: Unique design, stylish and beautiful. Good material, comfortable wear. A variety of colors, any choice. Product information: Pattern: solid color Size: S,M,L,XL,XXL Version: Regular Style type: temperament commute Popular elements: Pocket Fabric name: Polyester Sleeve type: regular sleeve Main fabric composition: Polyester (polyester fiber) Length: normal (50cm Applicable Gender: Female Sleeve length: long sleeve Style: British style Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Polyester Suit Jacket*1 Product Image:
-  Updated: 2025-10-08T10:05:31Z
+  Updated: 2025-10-12T18:04:39Z
   Vendor: FLORANZA-AIR™
   Product Type: Snap Cart Drawer - Gift Wrapping
   Availability: Available
@@ -2509,7 +2509,7 @@
     Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/84b15660-8502-4288-872e-ec583151fefd.jpg?v=1758493896
     Price: 39,75 € EUR
 - [G04EA 7th Generation Vr Virtual Reality Game Glasses](https://floranza-air.shop/products/g04ea-7th-generation-vr-virtual-reality-game-glasses): Product information: Color: G04EA plus-sized version, G04EA B01 handle, G04EA B03 handle Screen size: 300 Processing Method: customized as required Material: Plastic Additional features: Game Resolution: 720-1280p Wearing method: Head-mounted Size Information:222*205*99mm Packing list: 1PC x Glasses, 1PC x manual, 1PC x glasses cloth Product Image:
-  Updated: 2025-10-08T10:05:31Z
+  Updated: 2025-10-12T18:04:39Z
   Vendor: FLORANZA-AIR™
   Product Type: Protection animal
   Availability: Available
@@ -2527,14 +2527,14 @@
     Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/09711907-4f54-4e8b-b402-db513337b390.jpg?v=1758494342
     Price: 68,87 € EUR
 - [Voice control neck protector](https://floranza-air.shop/products/voice-control-neck-protector): Body material: elastic plastic + silicone Product color: Haoyue white Massage time: 20min Massage modes: 6 types Massage intensity: 16 types per mode Charging interface: Type-C Battery capacity: 1200mAh Life time: 7 days Product size: 146X 142 X 43mm
-  Updated: 2025-10-08T10:05:32Z
+  Updated: 2025-10-12T18:04:37Z
   Vendor: FLORANZA-AIR™
   Product Type: Protection animal
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/3032817479454.jpg?v=1758494498
   Price: 245,93 € EUR
 - [Bracket Fan Small Portable Bladeless Cooling Silent Electric Fan](https://floranza-air.shop/products/bracket-fan-small-portable-bladeless-cooling-silent-electric-fan): Product information: Digital Display Power: Display power, charging display power Fan Speed Mode: five-speed adjustment, 1.2.3.4.5 gear adjustment Charging time: 4 hours Single Battery capacity: 1500 mA Dual battery capacity: 3000 mA Output power: 4.5W Input voltage: DC5V/1A-2A Charging Interface Type: Type-c Packing list: Charging Cable*1+Instructions*1+Packaging Box*1+Fan*1 Product Image:
-  Updated: 2025-10-08T10:05:32Z
+  Updated: 2025-10-12T18:04:39Z
   Vendor: FLORANZA-AIR™
   Product Type: Protection animal
   Availability: Available
@@ -2556,7 +2556,7 @@
     Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/b4236301-46de-4e6b-b388-b78ec3d1bf19_trans.jpg?v=1758494731
     Price: 28,61 € EUR
 - [Auxiliary Instrument Intelligence Insomnia Help Device Sleeping Aid Instrument](https://floranza-air.shop/products/auxiliary-instrument-intelligence-insomnia-help-device-sleeping-aid-instrument): Product information: Power type: USB plug-in Function: handheld remote control Number of gears: 20 Material: ABS stainless steel Battery capacity: 300 mA Charging time: 3 hours: Battery life: 1-2 hours Current: 5V1A Battery Type: polymer lithium battery Packing list: Sleep Bracelet*1+Manual*1+Charging Cable*1 Product Image:
-  Updated: 2025-10-08T10:05:32Z
+  Updated: 2025-10-12T18:04:37Z
   Vendor: FLORANZA-AIR™
   Product Type: Protection animal
   Availability: Available
@@ -2574,7 +2574,7 @@
     Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/0c892491-f095-4a21-8053-3984ba3197ce.jpg?v=1758495050
     Price: 135,42 € EUR
 - [USB Charging For Your Outdoor Sports Neck Hanging Fan](https://floranza-air.shop/products/usb-charging-for-your-outdoor-sports-neck-hanging-fan): Product information: Noise: below 36dB (inclusive) Power type: lithium battery Color: electroplated White, electroplated pink, electroplated Blue, electroplated green, without electroplated White, without electroplated blue, without electroplated green, without electroplated pink With USB or not: Yes Motor type: brushless motor Fan blade material: Plastic Number of blades: no blades Operation mode: piano style Fan Speed Mode: 3 gear Style: modern Chinese style Packing list: Fan*1 Product Image:
-  Updated: 2025-10-08T10:05:32Z
+  Updated: 2025-10-12T18:04:39Z
   Vendor: FLORANZA-AIR™
   Product Type: Protection animal
   Availability: Available
@@ -2612,7 +2612,7 @@
     Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/0c2d831a-b61b-4442-9c9f-0b55ad9772ba.jpg?v=1758495428
     Price: 15,35 € EUR
 - [Ps5 Gamepad Dual Charger Ps5 Wireless Gamepad Charger](https://floranza-air.shop/products/ps5-gamepad-dual-charger-ps5-wireless-gamepad-charger): Specification: Specification: Color Box Applicable Products: Ps5 Handle Scope Of Application: Handle Charger Video Game Classification: Entry Level, Fever Level, Elite Level, Hardcore Level Material: Abs Print Logo: Yes Processing Customization: No @font-face{font-family:"Times New Roman";}@font-face{font-family:"宋体";}@font-face{font-family:"Arial";}@font-face{font-family:"微软雅黑";}p.MsoNormal{mso-style-name:正文;mso-style-parent:"";margin:0pt;margin-bottom:.0001pt;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;font-family:Arial;mso-fareast-font-family:微软雅黑;mso-bidi-font-family:'Times New Roman';font-size:10.5000pt;mso-font-kerning:1.0000pt;}span.msoIns{mso-style-type:export-only;mso-style-name:"";text-decoration:underline;text-underline:single;color:blue;}span.msoDel{mso-style-type:export-only;mso-style-name:"";text-decoration:line-through;color:red;}@page{mso-page-border-surround-header:no;mso-page-border-surround-footer:no;}@page Section0{margin-top:72.0000pt;margin-bottom:72.0000pt;margin-left:90.0000pt;margin-right:90.0000pt;size:595.3000pt 841.9000pt;layout-grid:19.3500pt;mso-header-margin:42.5500pt;mso-footer-margin:49.6000pt;}div.Section0{page:Section0;} Commodity Type: New
-  Updated: 2025-10-08T10:05:33Z
+  Updated: 2025-10-12T18:04:39Z
   Vendor: FLORANZA-AIR™
   Product Type: Protection animal
   Availability: Available
@@ -2626,7 +2626,7 @@
     Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/599584470249.jpg?v=1758553847
     Price: 47,48 € EUR
 - [Gravity Bracket Wireless Charging Car Two-in-one Wireless Charging Bracket Charger](https://floranza-air.shop/products/gravity-bracket-wireless-charging-car-two-in-one-wireless-charging-bracket-charger): Overview: Charge as soon as it is discharged, easy to operate Wireless fast charging, use while charging High-quality copper wire core large coil Built-in chip, safe and fast charging without hurting the machine Multi-charge protection Specification: Output Interface: USB Output:5V/2A Quality Certification: RoHS, CE, CCC, FCC USB Ports: None Input: 12-24V/2.4A Power Source: USB Model Number: Wireless Charger Car Mount Holder Support Quick Charge Technology: Qualcomm Quick Charge 2.0, Qualcomm Quick Charge 3.0 Type: Wireless Charger Product Name: Wireless Charger Gravity Car Mount Holder Color:Black / Silver / Red Installation: Air Vent Mount / Air Outlet Mount Output Current: 5V 2A / 9V 1.7A Suitable For:4.0 inch ~ 6.5 Inch Mobile Phones With Wireless Charging Function Feature 1:For iPhone X / For iPhone 8 8 Plus Feature 2: For Samsung S8 S8 Plus / For Samsung Galaxy Note 8 Feature 3:For Huawei Mate 10 Pro Feature 4:For Samsung Galaxy S9 S9+ Xiaomi Max 2 Type:10W QI Wireless Charging Charger Car Mount Pho Package Content: 1 x Charger
-  Updated: 2025-10-08T10:05:33Z
+  Updated: 2025-10-12T18:04:39Z
   Vendor: FLORANZA-AIR™
   Product Type: Protection animal
   Availability: Available
@@ -3064,7 +3064,7 @@
     Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S6892046e1f3f45928503c0eda61619b68.webp?v=1758648382
     Price: 76,00 € EUR
 - [40 Oz Tumbler With Handle Straw Insulated, Stainless Steel Spill Proof Vacuum Coffee Cup Tumbler With Lid Tapered Mug Gifts For Valentine Lover Suitable For Car Gym Office Travel](https://floranza-air.shop/products/40-oz-tumbler-with-handle-straw-insulated-stainless-steel-spill-proof-vacuum-coffee-cup-tumbler-with-lid-tapered-mug-gifts-for-valentine-lover-suitable-for-car-gym-office-travel): Product Description: Premium Quality Construction: Crafted with precision and passion, our 40oz Insulated Tumbler is the epitome of durability and style. Made from high-grade stainless steel, it promises to keep your beverages at the perfect temperature, whether hot or cold. Sleek Design, Unmatched Performance: Designed for those who appreciate both aesthetics and functionality, our tumbler boasts a sleek and modern design. The double-wall vacuum insulation ensures that your drinks stay refreshingly cold for up to 24 hours or steaming hot for up to 12 hours. Festive Editions: Celebrate special occasions with our festive editions, specially curated for holidays like Valentine's Day and Christmas. Make your festivities more memorable with a touch of elegance and warmth. From Our Factory to Your Hands: We take pride in owning and operating our own state-of-the-art manufacturing facility. This not only allows us to maintain stringent quality control but also enables us to bring you this exceptional 40oz Insulated Tumbler at an unbeatable price. When you choose our product, you're choosing a piece of quality craftsmanship. Trustworthy Purchase Experience: We value your time, and that's why we promise a swift turnaround. Your order will be prepared and shipped within just 3 business days. We understand the importance of getting your hands on your new favorite tumbler quickly, and we're here to make that happen. Customer Testimonials: "I can't believe how long my drinks stay hot in this tumbler! It's a game-changer for my busy mornings." "The leak-proof design makes it perfect for my daily commute. No more spills in my bag!" "The sleek look and vibrant colors add a touch of style to my everyday routine. Highly recommended!"
-  Updated: 2025-10-08T10:05:36Z
+  Updated: 2025-10-12T18:04:55Z
   Vendor: FLORANZA-AIR™
   Product Type: Protection animal
   Availability: Available
@@ -3270,7 +3270,7 @@
     Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/05e85101-ae3e-4b27-976e-09eccfa2ead9.jpg?v=1758669840
     Price: 86,20 € EUR
 - [Magic Shadow USB Air Humidifier For Home With Projection Night Lights Ultrasonic Car Mist Maker Mini Office Air Purifier](https://floranza-air.shop/products/magic-shadow-usb-air-humidifier-for-home-with-projection-night-lights-ultrasonic-car-mist-maker-mini-office-air-purifier): Overview: Using polymer mist technology to allow moisture to diffuse in the air, so that no water droplets are returned to wet the tabletop. Decibel below 30db, zero radiation, no stimulation, the elderly, children can use. The spray volume is very large, reaching 35ml / h, which can quickly reach the relative humidity requirement. It can work wherever USB can be plugged in to increase the convenience of mobility. Suitable for larger rooms, living rooms, bedrooms, cars, baby rooms, dormitories, etc. Specifications: Material: ABS + PP + PE + silicone + electronic components Color: Pink, dark blue, light blue, white Input voltage: DC5V Working current: 200mA-450mA Use power: 3.5W Water tank capacity: 200ML Spray mist amount: 40ML / H Package Content: 1x air purifier Use time: 5 hours
-  Updated: 2025-10-10T09:10:50Z
+  Updated: 2025-10-12T18:04:53Z
   Vendor: FLORANZA-AIR™
   Product Type: Protection animal
   Availability: Available
@@ -3300,7 +3300,7 @@
     Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/1464471534447.jpg?v=1758669959
     Price: 36,67 € EUR
 - [Bar Counter Cup Washer Sink High-pressure Spray Automatic Faucet Coffee Pitcher Wash Cup Tool Kitchen](https://floranza-air.shop/products/bar-counter-cup-washer-sink-high-pressure-spray-automatic-faucet-coffee-pitcher-wash-cup-tool-kitchen): Overview: 1. Easy operation with one hand Just gently press the high-pressure nozzle with the cup facing down 2. Seiko quality Fashionable and versatile appearance, easy to clean and not rust 3. High-pressure nozzle, five-hole nozzle Multi-angle spray washing is quicker and cleaner, just press lightly to spray immediately, pick up and close automatically 4. 4-point interface, opening: 2.2cm Standard water inlet, strong versatility, widely suitable for commercial use, household bar counters Product Information: Suggested hole diameter: 2.2cm Cup washing nozzle diameter: 11.2cm Suitable for cups with a caliber less than 11CM Black: Black case + cup washer White: Silver case + cup washer Black set: Black case + cup washer + 0.8m water inlet pipe White set: Silver case + cup washer + 0.8m water inlet pipe Size Information: Product Image:
-  Updated: 2025-10-08T10:05:37Z
+  Updated: 2025-10-12T18:04:54Z
   Vendor: FLORANZA-AIR™
   Product Type: Protection animal
   Availability: Available
@@ -3334,7 +3334,7 @@
     Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/47dde0ed-8ddd-4647-85ad-e72d2634b009.jpg?v=1758670035
     Price: 74,95 € EUR
 - [Women Eye Shadow Brush Cleaning Tool Portable Electric Makeup Brush Cleaner Machine With USB Charging Automatic Cosmetic Brush](https://floranza-air.shop/products/women-eye-shadow-brush-cleaning-tool-portable-electric-makeup-brush-cleaner-machine-with-usb-charging-automatic-cosmetic-brush): Overview: 1 [ Must-Have for Cleaning ] Women Eye Shadow Brush Cleaning Tool helps remove internal makeup dirt, aiming to deeply clean your makeup brushes, perfect for keeping your makeup brushes clean. 2 [ Multiple Ways for Charging ] Makeup Brushes Cleaning Machine is attributed to the USB charging way, providing convenience for you to quickly clean your makeup brushes, avoiding any charging trouble. 3 [ Generic Design ] Blush Brush Cleaning Machine allows you to apply makeup with a clean makeup brush every time, suitable for cleaning makeup brushes of all sizes, requiring you to hold the brush and adjust the angle for a deep clean. 4 [ Fully Portable ] Face Makeup Brush Spinner is very small, light and portable, suitable for carrying at home, work or travel to help you clean your makeup brushes 5 [ Optimal Gift ] Powder Brush Cleaning Spinner is a surprise them at Christmas, New Year or parties, convenient for them to use a clean makeup brush for a better makeup effect, a perfect gift for family and friends. Description & Features: This Electric Makeup Brush Cleaner is very practical. It not only saves you the trouble of manually cleaning your makeup brushes but also meets your different cleaning needs. It provides great convenience for your life. Product Information: Color classification: gray and white Size: 17 * 9 * 9CM Material: ABS PC TPE Voltage: 5V Packing list: Electric cleaning brush+charger+instructions * 1 CJJT171419104DW=CJJT171419101AZ*2 CJJT171419106FU=CJJT171419101AZ+CJHZ142534601AZ*1 CJJT171419107GT=CJYD189550001AZ+CJJT171419101AZ+CJNS119730101AZ*1 CJJT171419108HS=CJYD189550002BY+CJJT171419101AZ+CJNS119730101AZ*1 CJJT171419109IR=CJJT171419101AZ+CJYD163059103CX*1 CJJT171419111KP=CJYD187560401AZ+CJJT171419101AZ*1
-  Updated: 2025-10-08T10:05:37Z
+  Updated: 2025-10-12T18:04:54Z
   Vendor: FLORANZA-AIR™
   Product Type: Protection animal
   Availability: Available
@@ -3408,7 +3408,7 @@
     Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/b876a32e-f75c-4eb7-af8d-def680ca6322.jpg?v=1758670164
     Price: 32,22 € EUR
 - [Portable Blender With USB Rechargeable Mini Kitchen Fruit Juice Mixer Home Simple Portable Electric Mini Juicer](https://floranza-air.shop/products/portable-blender-with-usb-rechargeable-mini-kitchen-fruit-juice-mixer-home-simple-portable-electric-mini-juicer): Overview: Six Blades: The 6-blade portable blender is more powerful than the traditional 4-mini blades, making fruit juices and vegetables into amazing smoothies effortlessly, leaving no fruit or ice and easy to carry. Clean and Convenient: When cleaning, you only need to add some water to the cup and press the button to start automatic cleaning. There is no need to disassemble and clean again. Rechargeable: The USB juicer cup is equipped with a built-in rechargeable battery that can be easily charged through a power library, laptop, computer, mobile phone, or another USB device. (Full charge for 5 times) Food-Grade Material: Portable Blender uses food-grade non-toxic and environmentally friendly PP&ABS materials, non-toxic and environmentally friendly, you can enjoy fresh nutrition and good leisure time. Product information: Power: 15W Color: Pink English color box, Blue English color box, green English color box, purple English color box Material of liner: PC food grade plastic Body material: Plastic Packing List: Host USB color box Specifications: two knives, four knives, six knives Function: Juicing Voltage: ≤ 36V Capacity: 380ML Size: Packing list: Juicer*1 USB cable*1 Color box*1 Product Image: Real shooting
-  Updated: 2025-10-08T10:05:37Z
+  Updated: 2025-10-12T18:04:59Z
   Vendor: FLORANZA-AIR™
   Product Type: Protection animal
   Availability: Available
@@ -3494,7 +3494,7 @@
     Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/05cc6a6f-07cf-45cb-b41d-0251330590a0.jpg?v=1758670260
     Price: 141,27 € EUR
 - [Kitchen Gadgets Silicone Pot Side Drain Stopper](https://floranza-air.shop/products/kitchen-gadgets-silicone-pot-side-drain-stopper): Product information: Product Category: Kitchen Gadgets Set Specifications: green, red, orange, sky blue, black Style: modern minimalist Material: Silicone & 301 Stainless Steel Product weight: 145g Size: 11.3*22.5*5.9cm Features: Sunscreen and leak-proof, spill-proof silicone pot edge drainer. Packing list: Silicone Drainer*1
-  Updated: 2025-10-08T10:05:37Z
+  Updated: 2025-10-12T18:04:58Z
   Vendor: FLORANZA-AIR™
   Product Type: Protection animal
   Availability: Available
@@ -3524,7 +3524,7 @@
     Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/74841ed8-f40b-4fce-94f1-bae30b3d3541_57ee2526-1c37-4be3-87d7-f996a7e92400.jpg?v=1758670412
     Price: 12,41 € EUR
 - [Multifunctional Wireless Electric Juicer Steel Orange Lemon Blender USB Portable Mini Fruit Squeezer Pressure Juicer Kitchen](https://floranza-air.shop/products/multifunctional-wireless-electric-juicer-steel-orange-lemon-blender-usb-portable-mini-fruit-squeezer-pressure-juicer-kitchen): Overview: 1. 【Orange Juice Squeezer】 Simple one-button automatic pressing operation. Automatic sensing peel thickness, maximum juice extraction. 2. 【Applicable to All kinds of Fruits and Vegetables】 Orange juice squeezer suitable for fruits. And also for vegetables. Great for healthy drinks, cocktails, recipes, desserts and marinades. 3. 【USB Charging 】 USB-C charging. More than 40 times of juicing after a full charge. 4. 【 High-Quality Materials】Food-grade materials, which are both safe and healthy. BPA free. 5. 【Easy to Clean and Safe】 All the removable parts of the juicer. The included custom cleaning brush makes cleaning easier and faster. 6. 【Wireless Portable】The size is very compact and portable for shopping, fitness, picnics, camping, and travel. Enjoy delicious juice anytime, anywhere. Product Information: Function: Juice Capacity:150ML Body material: PC Color: Fresh green, simple white Size:140x110x280mm Packing List: Juicer X1PCS Attention: Only Chinese instruction manual, no English version. Product Image:
-  Updated: 2025-10-08T10:05:38Z
+  Updated: 2025-10-12T18:04:56Z
   Vendor: FLORANZA-AIR™
   Product Type: Protection animal
   Availability: Available
@@ -3538,7 +3538,7 @@
     Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/6313989f-1ab4-43cb-b670-85c72080ac93_trans.jpg?v=1758670485
     Price: 150,82 € EUR
 - [New Mini Neck Fan Portable Bladeless Hanging Neck Rechargeable Air Cooler Mini Summer Sports Fans](https://floranza-air.shop/products/new-mini-neck-fan-portable-bladeless-hanging-neck-rechargeable-air-cooler-mini-summer-sports-fans): Overview: 1. The unique design of the portable neck fan is inspired by earphones. It only needs to be hung around the neck to free your hands, and it looks so cool & fancy. 2. With a decentralized annular air outlet, you can feel the cool breeze in any direction, perfectly to ease all the sultry heat. 3. The newest upgraded neck fan adopts a leafless design, quieter and safer than the traditional USB Fan. 4. You won't have to worry about your hair getting stuck by the fan's leaves, which is particularly important for children and pets. 5. You can play with children and pets at ease, and enjoy the cool wind brought by the neck fan. Product information: Noise: below 36dB Color: white, pink, green, blue With USB or not: Yes Motor type: brushless motor Battery life: 3-6 hours Fan blade material: Plastic Size: G15 third gear, G25-MAX fifth gear with digital display Shape: Snake Style: modern simplicity Import or not: no Category: Halter, multifunctional Packing list: Hanging neck small fan*1 Product Image:
-  Updated: 2025-10-08T10:05:38Z
+  Updated: 2025-10-12T18:05:15Z
   Vendor: FLORANZA-AIR™
   Product Type: Protection animal
   Availability: Available
@@ -3576,7 +3576,7 @@
     Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/b777b0d8-f3a8-4db7-88d4-ed1639420c76.jpg?v=1758670678
     Price: 27,05 € EUR
 - [Portable Lightweight Dog Pooper Scooper With Built-in Poop Bag Dispenser Eight-claw Shovel For Pet Toilet Picker Pet Products](https://floranza-air.shop/products/portable-lightweight-dog-pooper-scooper-with-built-in-poop-bag-dispenser-eight-claw-shovel-for-pet-toilet-picker-pet-products): Overview: EASY WASTE PICKUP: The claw grabber pickup tool features a unique, user-friendly mechanism with claws that allows you to scoop the dog waste and bag it all in a single motion, without getting your hands dirty! BUILT-IN POOP BAG DISPENSER: Not only can pick up dog poop faster and easier but this dog poop scooper for yard also has a built-in poop bag dispenser so you don’t have to carry a separate bag roll with you any time you take your dog outside. PORTABLE AND COMPACT: Our dog poop scoop features a compact design in the shape of a tube and comes with a special lanyard that allows you to carry the scooper with ease. Ideal for walking, dog park, trips, hiking, shopping or outdoor activities. EFFECTIVE ON EVERY SURFACE: This dog poop scooper is made with high-quality, durable materials. The claws are sturdy and stable, specially designed to scoop up the waste with ease regardless of the surface. FOR ALL PET SIZES: The claws of our pet pooper scooper have a wide opening so can pick up the waste from any type of dog breed or size! An excellent choice for owners of small, medium and large pets! Product Details: Category: toilet Material: plastic Specifications: regular Color: blue Package Contents: Toilet X1PC
-  Updated: 2025-10-08T10:05:38Z
+  Updated: 2025-10-12T18:05:15Z
   Vendor: FLORANZA-AIR™
   Product Type: Protection animal
   Availability: Available
@@ -3602,7 +3602,7 @@
     Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/7df980bd-6a8a-4ed0-9ca9-051c1163a942.jpg?v=1758670856
     Price: 40,47 € EUR
 - [Silicone Soup Funnel Kitchen Gadget Tools](https://floranza-air.shop/products/silicone-soup-funnel-kitchen-gadget-tools): Overview: （1）100% brand new and high quality. （2）Food-grade silicone material, environmental health, good flexibility, curvature of the design, the card on a circular cutlery back quality of food was not spilled. （3）Food grade silica gel material, healthy and environmental protection, good flexibility, radian design, stuck in circular tableware, backflow material will not be spilled. （4）It is suitable for most round pots in kitchen and refuses waste. （5）Usage: Place the guide on the edge of the pot and pour it out slowly. The clamp is tight and not easy to fall off. Specification: Material: PC Size:12*3*4.5cm Net Weight:30g Color: green Package Content: 1x Liquid funnel
-  Updated: 2025-10-08T10:05:38Z
+  Updated: 2025-10-12T18:05:14Z
   Vendor: FLORANZA-AIR™
   Product Type: Protection animal
   Availability: Available
@@ -3620,7 +3620,7 @@
     Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/1247802076698_b0eea9b5-ad10-49a0-8c26-5c8d23f03f29.jpg?v=1758671025
     Price: 5,72 € EUR
 - [Summer Fully Automatic Electric Water Gun Rechargeable Long-Range Continuous Firing Party Game Kids Gift](https://floranza-air.shop/products/summer-fully-automatic-electric-water-gun-rechargeable-long-range-continuous-firing-party-game-kids-gift): Overview: 1.【Easy to Install and Shoot】Children can easily assemble the water gun, and then install the battery and add water. 2.【Automatic Electric Water Gun】The automatic electric water gun has got rid of the previous mode. 3.【Safe & High Quality Material】The water gun is made of high quality ABS material. Non-toxic, safe and durable. Product information: Material: Plastic Style: Fashion is simple Features: visual, hands-on brain, grasping, sensory, hand-eye coordination, other ability development, interactive toys, parent-child communication, interest development Color: blue, pink Packing list: Water Gun Toys*1 Set Product Image:
-  Updated: 2025-10-08T10:05:38Z
+  Updated: 2025-10-12T18:05:13Z
   Vendor: FLORANZA-AIR™
   Product Type: Protection animal
   Availability: Available
@@ -3642,7 +3642,7 @@
     Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/884cfba1-b9cb-4999-8938-2a6281c4be4c.jpg?v=1758671142
     Price: 42,31 € EUR
 - [Kitchen Sink Multi-function Triangle Storage Rack Multi-purpose Dishwashing Sponge Drain Rack Storage Rack](https://floranza-air.shop/products/kitchen-sink-multi-function-triangle-storage-rack-multi-purpose-dishwashing-sponge-drain-rack-storage-rack): Overview： All-round hollow design, ventilation, ventilation, drainage, not easy to cultivate bacteria. It can be hung in the sink faucet to facilitate the placement of dishwashing sponges, cleaning balls, soap, etc. The edge is raised, the card main sink is not easy to fall Made from new high-quality materials for durability Specification： Material: plastic Size ：26*10*14.2 cm Package Weight：200g Storage scene: kitchen storage, bathroom storage Installation method: wall suction Package Content: 1x Cup rack
-  Updated: 2025-10-08T10:05:38Z
+  Updated: 2025-10-12T18:05:21Z
   Vendor: FLORANZA-AIR™
   Product Type: Protection animal
   Availability: Available
@@ -3708,7 +3708,7 @@
     Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/2513435077760.jpg?v=1758671260
     Price: 22,42 € EUR
 - [Water Bottle Electric Automatic Universal Dispenser 5 Gallon USB USB Water Dispenser Automatic Drinking Water Bottle](https://floranza-air.shop/products/water-bottle-electric-automatic-universal-dispenser-5-gallon-usb-usb-water-dispenser-automatic-drinking-water-bottle): Product Specifications: Material: ABS, 304 Stainless Steel and Silicone Operating Voltage: DC 5V Power Rating: 4W Charging Time: 3-4 Hours Charging: Micro USB Charging Cable Suitable for: 2,3,4,5 Gallon Water Bottles Size: 2.9x5.1 inch Hose Length: 21.7inch Safe and Healthy: BPA free drinking water bottle dispenser, food grade silicone rubber tubing, 304 stainless steel, high density ABS plastic, no toxic and no smell, no harm to your health. Flexible Application: Convenience for indoor and outdoor, can be used for the office, home, Kitchen, camping, picnic, activities, etc. Design: Stylish looking, Portable, easy to use. Detachable Silicone Rubber Tubing: You can disassemble all of the parts for cleaning after a long time use. Note: Please replace the silicone rubber tubing regularly. The food grade silicone rubber tubing will cause hygiene issue if you don't replace for a long time. USB Rechargeable: Built in rechargeable battery allows you to use for 30-40 days or around 4-5 bottles of 5 gallon water once full charged. Compatible: Suitable for gallon barrels with a 2.16-inch (5.5cm) neck, it suitable for a variety of models gallon barrel without pry the lid. Easy to Use: Simply fasten the small pump on the bottle mouth. Just one switch operation, totally hassle free. Press once switch, pump 0.16 gallons of water and stop automatically. Press and hold for 3 seconds to switch the water pump to pump water all the time. Pipe Length: 4.7inch Package Included: 1 x Water Pump 1 x Food Grade Silicone Hose 1 x Stainless Steel Pipe 1 x Micro USB Charging Cable 1 x English Manual Our normal delivery time is 1-3 working days, which is not 100% guaranteed. The normal delivery time is about one week. Due to some uncontrollable reasons, if the logistics are not updated in time, please contact us. After the order number is uploaded, we do not accept refunds due to the lack of updates in logistics. If it has not been updated for more than 7 days, you can apply for a dispute. We will deal with it according to the actual situation. We do not accept orders from platforms such as TEMU, eBay, etc.
-  Updated: 2025-10-08T10:05:39Z
+  Updated: 2025-10-12T18:05:23Z
   Vendor: FLORANZA-AIR™
   Product Type: Protection animal
   Availability: Available
@@ -3722,7 +3722,7 @@
     Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/03236554-4399-4221-8bbd-70338358ff69.jpg?v=1758671458
     Price: 31,69 € EUR
 - [Iron Pan Traditional Iron Wok Handmade](https://floranza-air.shop/products/iron-pan-traditional-iron-wok-handmade): Overview: 100% brand new and high quality High temperature resistance Wooden handle No chemical coating High-purity refined iron, using zero burden, healthy iron supplement. Features: 1. Brand new high-quality pots and pans 2. Special pots are non-sticky and easy to clean 3. When you cook in this pot, the original flavor of the food will be maintained. 4. Food taste will not change during cooking 5. The induction base makes the heat distribution even 6. When cooking, the long handle will not be hot Specification: Color: Black Material :fine iron Size:40*32*10 cm Package Content ： 1x iron pan 1x Lid
-  Updated: 2025-10-08T10:05:39Z
+  Updated: 2025-10-12T18:05:27Z
   Vendor: FLORANZA-AIR™
   Product Type: Protection animal
   Availability: Available
@@ -3748,14 +3748,14 @@
     Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/31408433507770_392557b7-45c6-439e-8851-b6ae57c48f7b.jpg?v=1758671731
     Price: 19,80 € EUR
 - [Automatic Cat Self Groomer Wall Corner Brushes Soft Cat Corner Scratcher Self Grooming](https://floranza-air.shop/products/automatic-cat-self-groomer-wall-corner-brushes-soft-cat-corner-scratcher-self-grooming): Product Information: Material: ABS Product classification: bath/massage brush Color: white Product name: Smart Cat Brush Product size: 133 * 96 * 160mm Net weight of the product: 572g Product gross weight: 697g Material: ABS+silica gel Packing List： Massager X1set
-  Updated: 2025-10-08T10:05:39Z
+  Updated: 2025-10-12T18:05:25Z
   Vendor: FLORANZA-AIR™
   Product Type: Protection animal
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/35e66ec7-4361-421a-a3a6-7eb3ceb0dffe.jpg?v=1758672368
   Price: 97,48 € EUR
 - [Home Grill Electric Rotisserie Indoor Chicken SmokelessHome Skewer Stove](https://floranza-air.shop/products/home-grill-electric-rotisserie-indoor-chicken-smokelesshome-skewer-stove): Product information: Rated voltage: 220V Applicable number: 4-5 Power: 1500W Heating method: electric heating Control mode: constant temperature control Operation mode: mechanical Product size: 334X282X446MM Capacity: 21L Color: black Function: 1. Large sight distance landscape design, enjoy DIY fun 2. Circular stereo heating, baking without dead corner 3. 60-minute timer, free hands, and happy 4. With on/off indicator 5. With automatic door locking protection function 6. Multi purpose use: roast chicken, roast, Türkiye barbecue, grilled fish, kebab 7. Built-in oil pan, no oil leakage during barbecue 8. Carbon free, environmental protection and health Packing list: Electric oven*1
-  Updated: 2025-10-08T10:05:39Z
+  Updated: 2025-10-12T18:05:26Z
   Vendor: FLORANZA-AIR™
   Product Type: Protection animal
   Availability: Available
@@ -3773,7 +3773,7 @@
     Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/e4ecf7ca-3b15-46f1-b5a2-7351ada84968.jpg?v=1758672813
     Price: 489,81 € EUR
 - [Chicken Stand Beer Funny American Motorcycle BBQ Steel Rack Tools Funny Roast Chicken Rack Grilling Roast Rack](https://floranza-air.shop/products/chicken-stand-beer-funny-american-motorcycle-bbq-steel-rack-tools-funny-roast-chicken-rack-grilling-roast-rack): Overview: 100% new design and high quality 1.Made of high-quality material, durable and long-lasting. 2.Imagine how impressed your friends will be when you show up with this freedom RIDER motorcycle! 3.Perfect BBQ tool for backyard parties, cottage gift, Thanksgiving, Christmas gift, Fathers day, for the ''hard to buy for person''! Entertain your friends with this funny chicken holder! 4.Cooking beer can chicken is easy! And roasting chicken on a bbq, grill, or oven is the best way to cook a chicken! Here are the basic 5.PERFECT FOR ANY OCCASION - Parties, family events, tailgating, camping even funerals! - Works in BBQ's, Grills, Smokers, and ovens Specifications: Category: Other Brand: Other Specifications: star type, pheasant type Package Content: 1X Grill
-  Updated: 2025-10-08T10:05:39Z
+  Updated: 2025-10-12T18:05:25Z
   Vendor: FLORANZA-AIR™
   Product Type: Protection animal
   Availability: Available
@@ -3795,21 +3795,21 @@
     Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/1621133955179.jpg?v=1758673115
     Price: 75,99 € EUR
 - [Automatic Multi-function Smoke-free Skewers Machine](https://floranza-air.shop/products/automatic-multi-function-smoke-free-skewers-machine): Product information: Specifications： 2-3 People Color： Blue Product size: 225 X 225 x 340 (mm) Packing list: Baking skewer machine + Ceramic head+ Built-in oil receiver+ Insulated gloves+ Bamboo skewer Product Image:
-  Updated: 2025-10-08T10:05:40Z
+  Updated: 2025-10-12T18:05:13Z
   Vendor: FLORANZA-AIR™
   Product Type: Protection animal
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/d08da599-cd7b-4d81-ad0a-3a0ff4053365_trans.jpg?v=1758673224
   Price: 174,15 € EUR
 - [Electric Orange Juicer Lemon Juicer Squeezer Usb Rechargeable Citrus Juicer Machines Usb Rechargeable Portable Blender Kitchen Gadgets](https://floranza-air.shop/products/electric-orange-juicer-lemon-juicer-squeezer-usb-rechargeable-citrus-juicer-machines-usb-rechargeable-portable-blender-kitchen-gadgets): Overview: 【Electric Citrus Juicer】: USB electric juicer, limes, and other citrus fruits to make your favorite juices homemade. 【Easy to Use】: This lemon squeezer has an electric operation, a long press of 2 seconds to start, and a button operation, suitable for the elderly. 【High Quality】: This Electric orange grapefruit juicer, high-quality food-grade ABS and PC material, sturdy construction, cone-shaped and pulp filter, gives you twice as much pure juice. 【Detachable】: Easy to clean, dishwasher wash, or hand wash in seconds. 【Homemade Juicing】: Electric juicers fit most citrus fruits, lemons, limes, oranges, grapefruits, and other citrus fruits. Product information: Power: 455 Color: new purple 2400 mA dual battery Material of liner: PC food grade plastic Main material: Plastic Packing List: host Manual charging cable Function: Juicing Voltage: 7.4 Capacity: 400 ml and below Packing list: Juicer x 1pc Product Image:
-  Updated: 2025-10-08T10:05:40Z
+  Updated: 2025-10-12T18:05:15Z
   Vendor: FLORANZA-AIR™
   Product Type: Protection animal
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/2f9acfb4-19b4-48b6-999f-18553bce2c1d.jpg?v=1758673518
   Price: 68,11 € EUR
 - [Facial Lifting And Tightening Statute Lines Facial Correction Massager](https://floranza-air.shop/products/facial-lifting-and-tightening-statute-lines-facial-correction-massager): Product information： Power: 4W Power adapter: DC5V -1A (USB) Host battery: 400mAh Product volume: 21.0 cm * 14.2 cm * 6.0 cm Packing list: Face thinners * 1
-  Updated: 2025-10-08T10:05:40Z
+  Updated: 2025-10-12T18:05:26Z
   Vendor: FLORANZA-AIR™
   Product Type: Protection animal
   Availability: Available
@@ -3831,7 +3831,7 @@
     Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/1622363513447.jpg?v=1758725265
     Price: 21,10 € EUR
 - [Ultrasonic Skin Scrubber Face Cleanser Blackhead Acne Removal Facial Spa Vibration Massager Ultrasound Peeling Clean Machine 394](https://floranza-air.shop/products/ultrasonic-skin-scrubber-face-cleanser-blackhead-acne-removal-facial-spa-vibration-massager-ultrasound-peeling-clean-machine-394): Produc Ultrasonic shovel blade function 1, pain sore: Ultrasonic vibration, instantaneous removal of acne in the pores and make it instantly discharged. 2, to eliminate acne : ultrasonic vibration atomization of distilled water, remove and remove dust, cosmetics, etc., can improve various skin problems in a short time. 3. Exfoliating: Under the action of water, the ultrasonic vibration function removes dead skin and instantly cleans the skin. 4, wrinkles : Ultrasound can keep the skin warm to achieve the effect of wrinkles. 5, removal of melanin: control of tyrosinase, in the role of voltage, decomposition of melanin, dilute melanin Ultrasonic shovel blade method 1. Cleanse the skin of the face and gently pat it on all parts of the face with a proper amount of water to absorb it, so that the skin can be completely disinfected and protected. 2. Plug in the power adapter and remove the protective cover. 3, the black head into the wave or other cleaning fluid wipe the skin, press the switch, the work indicator light, in the need to clean up parts slowly move, you can see blackheads, whiteheads, acne is instantly decomposed and exported. 4.Using the ultrasonic cleaning function, press the ultrasonic cleaning selection button once, the indicator light is on, and the machine can work normally. (Hand touches the touch key when using it) 5, shovel skin contact with the skin, the pores of the oil after the atomization of the skin, play a role in deep cleansing. 6. If you use the ultrasonic induction function, press the ultrasonic induction selection key once and the indicator light will be on. You can use it to touch the touch keys. Ultrasonic shovel knife use precautions 1, when using ultrasound, please cooperate with makeup gel or lotion. 2. When operating, clean the exfoliation with continuous wave, massage and wrinkle with intermittent wave or continuous wave, keep the probe and the body clean before and after operation. 3, disinfection of clean eye around and wound do not use the instrument 4, children, pregnant women and spirit of different people do not use 5. When the unit is used, the frequency is close to the audio frequency, so it will ring. It is a normal phenomenon. Please rest assured that when it is no use, please unplug the plug for a long time to plug in the power, otherwise it may cause fire or accident. 6. Do not damage or modify the power cord. Do not pull, twist or pull it out. Do not wrap the power cord around the machine. It may cause fire or short circuit. If the power cord is damaged or becomes hot, stop using it immediately. 7. Do not use the machine when it is wet. Use it when it is dry. Otherwise, it may cause shock or power short circuit. 8, Do not use thinner, stupid or other dissolving agent to clean the machine, otherwise it will damage the machine 9. Do not use this unit in locations below 0 degrees Celsius, above 140 degrees Celsius, or directly exposed to sunlight.
-  Updated: 2025-10-08T10:05:40Z
+  Updated: 2025-10-12T18:05:21Z
   Vendor: FLORANZA-AIR™
   Product Type: Protection animal
   Availability: Available
@@ -3845,21 +3845,21 @@
     Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/744488914336.jpg?v=1758725410
     Price: 42,50 € EUR
 - [4-piece Suitcase Set With USB Port, Expandable ABS Durable Suitcase With Travel Bag, Cup Holder, With Spinner Wheels, Beige](https://floranza-air.shop/products/4-piece-suitcase-set-with-usb-port-expandable-abs-durable-suitcase-with-travel-bag-cup-holder-with-spinner-wheels-beige): 【High Quality Luggage Sets】Made from extra strong ABS material, which is lightweight and extremely durable. Features textured finish to prevent against scratches,keeping lightweight luggage set beautiful trip after trip. 【3 Piece Luggage set】The 20" carry on suitcase features USB charging ports (Power bank not included), 24", 28 "are expandable, adding 25% space capacity for hardshell luggage. 【Easy Maneuvering】 4 360-degree rotating wheels make this suitcase as mobile as they get. Regardless of direction, these wheels allow your suitcase to stay upright while getting pushed, pulled and dragged in any direction. 【Side hooks】 Side hooks to reduce the burden on hands. 【Handy Packing】 Includes a spacious, highly functional interior with mesh pockets and elastic tie-down straps. Pack neatly and securely.
-  Updated: 2025-10-08T10:05:40Z
+  Updated: 2025-10-12T18:05:22Z
   Vendor: FLORANZA-AIR™
   Product Type: Protection animal
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/eb4b76b1-94de-44ff-bf05-b61c94e239da.jpg?v=1758725726
   Price: 344,58 € EUR
 - [Vertical Pattern Three In One Handle Universal Wheel Pull Rod Box, 20in, 24in, 28in ABS Aluminum Alloy Pull Rod](https://floranza-air.shop/products/vertical-pattern-three-in-one-handle-universal-wheel-pull-rod-box-20in-24in-28in-abs-aluminum-alloy-pull-rod): Introductions: If you happen to need a new suitcase for traveling use or simply use it for daily collection, you may be interested in our 3-in-1 Multifunctional Large Capacity Traveling Storage Suitcase. It is in solid structure with special treatment, uneasy to deform or break. How fantastic it is! The suitcase is made of high quality plastic and metal materials, reliable and durable in daily use. It provides a large capacity for accommodating plentiful items inside. All in all, this suitcase is so wear-resistant and practical to use! You can not miss it out! Features: 1. Feel smooth, bright color, excellent quality 2. Dirt-resistant and easy to clean 3. Handles can withstand heavy weight 4. High toughness, can withstand great pull force, super-durable 5. Enough capacity for holding your various items included Specifications: 1. Material: ABS 2. Color: Champagne 3. Weight: 317.47oz / 9000g 4. Size of Type: 20": (8.66 x 13.78 x 21.65)" / (22 x 35 x 55)cm(L x W x H), 5.29 lbs / 2.4kg 24": (10.24 x 15.75 x 25.59)" / (26 x 40 x 65)cm(L x W x H), 6.83 lbs / 3.1kg 28": (11.02 x 18.9 x 29.53)" / (28 x 48 x 75)cm(L x W x H), 8.16 lbs / 3.7kg Package Includes: 3 x Luggages
-  Updated: 2025-10-08T10:05:41Z
+  Updated: 2025-10-12T18:05:22Z
   Vendor: FLORANZA-AIR™
   Product Type: Protection animal
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/920b2a4e-df8d-4069-9329-06df3ded4bda.jpg?v=1758725875
   Price: 190,23 € EUR
 - [Aluminum Magnesium Alloy Luggage Large Capacity Trolley Case](https://floranza-air.shop/products/aluminum-magnesium-alloy-luggage-large-capacity-trolley-case): Product information: Lining texture: Polyester Color: Black [Classic (thickening and wear-resistant)], silver [Classic (thickening and wear-resistant)], Blue [Classic (thickening and wear-resistant)], Red [Classic (thickening and wear-resistant)]], rose gold [classic look (thickening and wear-resistant)], iron gray [classic look (thickening and wear-resistant)], titanium [classic look (thickening and wear-resistant)], dark green [classic look (thickening and wear-resistant)]], blue with red [Classic (thickening and wear-resistant)], Black [Mirror Classic], silver [Mirror Classic]], Blue [Mirror Classic], Red [Mirror Classic], rose gold [Mirror Classic], titanium [Mirror Classic], Black [fashion style] [wear-resistant thickening], dark green [fashion style] [wear-resistant thickening], silver [fashion style] [wear-resistant thickening]], red [fashion style] [wear-resistant thickening], rose gold [Fashion Style] [Wear-resistant thickening]], titanium [fashion] [wear-resistant thickening], gun color [fashion] [wear-resistant thickening]] Wheel type: Universal wheel Applicable gender: neutral/both men and women Functions: Waterproof, antibacterial, wear-resistant, anti-theft, cut-proof, boarding machine Material: Metal Size: 20 inches, 22 inches, 24 inches, 26 inches, 28 inches, 30 inches Packing list: 1* Luggage Product Image:
-  Updated: 2025-10-08T10:05:41Z
+  Updated: 2025-10-12T18:05:28Z
   Vendor: FLORANZA-AIR™
   Product Type: Protection animal
   Availability: Available
@@ -4041,7 +4041,7 @@
     Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/46687812-0545-4304-ba61-5e977911f770.jpg?v=1758726179
     Price: 165,49 € EUR
 - [Travel Trolley Bag Business Large Capacity](https://floranza-air.shop/products/travel-trolley-bag-business-large-capacity): Product information : Capacity: 20-35L Internal structure of the bag: zipper pocket, mobile phone pocket, certificate pocket, computer insert pocket. Opening method: zipper Material: Oxford cloth Functions: waterproof, wear-resistant, anti-theft, USB charging, earthquake resistance, burden reduction and cutting prevention. Color: black, dark gray, disassembly wheel black. Size Information: Size: 34x22x48cm Packing list: Backpack *1
-  Updated: 2025-10-08T10:05:41Z
+  Updated: 2025-10-12T18:05:25Z
   Vendor: FLORANZA-AIR™
   Product Type: Protection animal
   Availability: Available
@@ -4063,7 +4063,7 @@
     Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/9c60360b-9a3a-4e97-8b26-1b79883bc733.jpg?v=1758726289
     Price: 198,71 € EUR
 - [Long Floor Length Elegant Greek Style Pleated Dress](https://floranza-air.shop/products/long-floor-length-elegant-greek-style-pleated-dress): Note: 1. strictly follow the size chart to select the size. Do not select directly according to your habits. 2. Still not sure about the size? We would like to advise based on your bust, waist and hip measurements. 3. The size maybe 2-3 cm difference due to manual measurement. Please note when you measure.5. light photography and different monitors can cause the color of the item in the image a little different from the real thing. Specifications: Main fabric composition: polyester fiber (polyester) Material: Cotton Sleeve Length(cm): Short Style: Office Lady Waistline: Natural Pattern Type: Solid Dresses Length: Floor-Length Package Content: 1 x dress Size Information: Actual Product Photo
-  Updated: 2025-10-08T10:05:41Z
+  Updated: 2025-10-12T18:05:38Z
   Vendor: FLORANZA-AIR™
   Product Type: Protection animal
   Availability: Available
@@ -4209,7 +4209,7 @@
     Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/1550443007_1997158069.jpg?v=1758726587
     Price: 108,94 € EUR
 - [Women's Dance Lace Party Evening Dress](https://floranza-air.shop/products/womens-dance-lace-party-evening-dress): Product information: Color: dark brown, black, dark green, gold, pink Waist Type: Mid waist Size: S,M,L,XL,XXL,XXXL Skirt length: long skirt Fabric name: Polyester Sleeve type: long sleeve Main fabric composition: Polyester (polyester fiber) Applicable Gender: Female Applicable age group: Adult Sleeve length: long sleeve Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Women 's polyester evening gown × 1 Product Image:
-  Updated: 2025-10-08T10:05:42Z
+  Updated: 2025-10-12T18:05:38Z
   Vendor: FLORANZA-AIR™
   Product Type: Protection animal
   Availability: Available
@@ -4335,7 +4335,7 @@
     Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/73030084-5f85-4a94-8928-5fdf42f68e40.jpg?v=1758726836
     Price: 118,53 € EUR
 - [Long Sleeve Sexy Long Sequined V-neck Banquet Ribbon Evening Dress](https://floranza-air.shop/products/long-sleeve-sexy-long-sequined-v-neck-banquet-ribbon-evening-dress): Product information: Pattern: solid color Skirt type: hip skirt Color: green, black, gold Waist type: high waist Size: XS,S,M,L,XL,XXL Style type: Elegant Combination form: Single piece Skirt length: long skirt Popular elements: Sequins Style: Basic Fabric name: Polyester Sleeve type: regular sleeve Sleeve length: long sleeve Skirt Category: Dress Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Dress*1 Product Image:
-  Updated: 2025-10-08T10:05:42Z
+  Updated: 2025-10-12T18:05:49Z
   Vendor: FLORANZA-AIR™
   Product Type: Protection animal
   Availability: Available
@@ -4413,7 +4413,7 @@
     Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/1e56ee40-ab47-40d3-8697-130958e1d048.jpg?v=1758727049
     Price: 163,44 € EUR
 - [Banquet Evening Fashionable Elegant Style Rhinestone High Waist Dress](https://floranza-air.shop/products/banquet-evening-fashionable-elegant-style-rhinestone-high-waist-dress): Product information: Color: black, white Waist type: high waist Size: L,XL,2XL,3XL Sleeve type: ruffled sleeves Main fabric composition: Polyester Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Dress*1PC Product Image:
-  Updated: 2025-10-08T10:05:42Z
+  Updated: 2025-10-12T18:05:40Z
   Vendor: FLORANZA-AIR™
   Product Type: Protection animal
   Availability: Available
@@ -4451,14 +4451,14 @@
     Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/3f2153db-85d0-4927-8f41-da325e8f4a82.jpg?v=1758727151
     Price: 114,16 € EUR
 - [Sequined V-neck Long Sleeve High Slit Slim Fishtail Prom Evening Dress](https://floranza-air.shop/products/sequined-v-neck-long-sleeve-high-slit-slim-fishtail-prom-evening-dress): Product information: Fabric name: Polyester Applicable scenario: party Color: champagne, wine red, black Main fabric composition: Polyester Fiber Size: S,M,L,XL Applicable Gender: Female Applicable age group: Adult Popular elements: Sequins Craft: Folding Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Evening dresses X1 Product Image:
-  Updated: 2025-10-08T10:05:42Z
+  Updated: 2025-10-12T18:05:37Z
   Vendor: FLORANZA-AIR™
   Product Type: Protection animal
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/d3d6098b-0e90-4773-9a5c-65088c0934f9.jpg?v=1758727244
   Price: 143,38 € EUR
 - [Wedding Dress African Bridal Lace Long Sleeve Fishtail](https://floranza-air.shop/products/wedding-dress-african-bridal-lace-long-sleeve-fishtail): Product information: Fabric name: lace Color: white, ivory white Sleeve type: regular sleeve Main fabric composition: Nylon Size: 2,4,6,8,10,12,14,16 Applicable Gender: Female Applicable age group: Adult Skirt length: long skirt Sleeve length: long sleeve Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Women's wedding dress *1 Product Image:
-  Updated: 2025-10-08T10:05:42Z
+  Updated: 2025-10-12T18:05:46Z
   Vendor: FLORANZA-AIR™
   Product Type: Protection animal
   Availability: Available
@@ -4496,7 +4496,7 @@
     Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/80963502-2ba5-482c-9547-392181c0b3e2.jpg?v=1758727388
     Price: 402,21 € EUR
 - [Off-shoulder Light Wedding Dress Bridal Main Yarn Lace Wedding Veil Small Trailing](https://floranza-air.shop/products/off-shoulder-light-wedding-dress-bridal-main-yarn-lace-wedding-veil-small-trailing): Product information: Fabric name: Other Color: pure white, ivory Sleeve type: sleeveless Main fabric composition: Polyester (polyester fiber) Waist Type: Mid waist Size: 2,4,6,8,10,12,14,14W,16W,18W,20W,22W,24W,26W Applicable Gender: Female Applicable age group: Adult Skirt length: long skirt Sleeve length: sleeveless Popular element: fold Size: Note: 1.Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Dress*1 Product Image:
-  Updated: 2025-10-08T10:05:43Z
+  Updated: 2025-10-12T18:06:00Z
   Vendor: FLORANZA-AIR™
   Product Type: Protection animal
   Availability: Available
@@ -4614,7 +4614,7 @@
     Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/c0ad45f9-b8a2-4c33-8802-c6ad71fc6348.jpg?v=1758727563
     Price: 219,61 € EUR
 - [French Off-shoulder Light Wedding Dress Bride](https://floranza-air.shop/products/french-off-shoulder-light-wedding-dress-bride): Product information: Color: white (strap) Waist type: high waist Size: XS,S,M,L,XL,XXL,XXXL Skirt length: long skirt Sleeve length: sleeveless Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Wedding dress * 1 Product Image:
-  Updated: 2025-10-08T10:05:43Z
+  Updated: 2025-10-12T18:06:02Z
   Vendor: FLORANZA-AIR™
   Product Type: Protection animal
   Availability: Available
@@ -4648,7 +4648,7 @@
     Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/ee2eb08b-0348-44b8-b72c-2c0e0b0af169.jpg?v=1758727634
     Price: 135,02 € EUR
 - [Long Sleeve Wedding Dress Mori Style Bridal Simple Round Neck](https://floranza-air.shop/products/long-sleeve-wedding-dress-mori-style-bridal-simple-round-neck): Product information: Color: ivory white, pure white Sleeve type: batwing sleeve Main fabric composition: Polyester (polyester fiber) Waist Type: Mid waist Size: XS,S,M,L,XL,XXL Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Dress*1 Product Image:
-  Updated: 2025-10-08T10:05:43Z
+  Updated: 2025-10-12T18:06:01Z
   Vendor: FLORANZA-AIR™
   Product Type: Protection animal
   Availability: Available
@@ -4702,7 +4702,7 @@
     Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/ae8d9887-bd55-4cde-9505-71a8fd6c56e8.jpg?v=1758727726
     Price: 164,18 € EUR
 - [Bridal Mesh Long Sleeve Embroidered Wedding Dress](https://floranza-air.shop/products/bridal-mesh-long-sleeve-embroidered-wedding-dress): Product information: Fabric name: chiffon Color: pure white, ivory white Main fabric composition: Polyester Size: US2,US4,US6,US8,US10,US12,US14,US16,US16W,US18W,US20W,US22W,US24W,US26W Skirt length: long skirt Sleeve length: long sleeve Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Wedding dress * 1 Product Image:
-  Updated: 2025-10-08T10:05:43Z
+  Updated: 2025-10-12T18:06:05Z
   Vendor: FLORANZA-AIR™
   Product Type: Protection animal
   Availability: Available
@@ -4764,7 +4764,7 @@
     Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/d15ce18b-47c4-4777-a3eb-0baf5eb92e7e_dd3f8c3d-d8f1-4b0f-902b-86eaf5fee327.jpg?v=1758727784
     Price: 177,14 € EUR
 - [Chiffon Lace Trailing Wedding Large Swing Dress](https://floranza-air.shop/products/chiffon-lace-trailing-wedding-large-swing-dress): Product information: Fabric name: chiffon Applicable scenario: Wedding Color: White Sleeve type: sleeveless Main fabric composition: Polyester (polyester fiber) Waist Type: Mid waist Size: S,M,L,XL,2XL Applicable Gender: Female Applicable age group: Adult Skirt length: long skirt Sleeve length: sleeveless Popular elements: zipper Craft: collage/stitching Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Dress*1 Product Image:
-  Updated: 2025-10-08T10:05:43Z
+  Updated: 2025-10-12T18:06:11Z
   Vendor: FLORANZA-AIR™
   Product Type: Protection animal
   Availability: Available
@@ -4790,7 +4790,7 @@
     Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/03e406c9-e83f-4d62-9664-f7ba5a735fbc_29ae672b-8920-470f-8a14-29ac510ddcf4.jpg?v=1758727860
     Price: 127,24 € EUR
 - [Bride Pants Suit Wedding Bridal Gowns Short Sleeve Jumpsuit](https://floranza-air.shop/products/bride-pants-suit-wedding-bridal-gowns-short-sleeve-jumpsuit): Product information: Size: US2，US4，US6，US8，US10，US12，US14，US16 Color: White Size Information: Size: US2，US4，US6，US8，US10，US12，US14，US16 Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: 1* Jumpsuit Product Image:
-  Updated: 2025-10-08T10:05:44Z
+  Updated: 2025-10-12T18:06:07Z
   Vendor: FLORANZA-AIR™
   Product Type: Protection animal
   Availability: Available
@@ -4828,7 +4828,7 @@
     Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/952a17d7-3cd9-49e5-8a0b-b1a54119b8da.jpg?v=1758727934
     Price: 187,51 € EUR
 - [Lace African Wedding Dress Long Sleeves Round Neck Big Tail Tutu Skirt](https://floranza-air.shop/products/lace-african-wedding-dress-long-sleeves-round-neck-big-tail-tutu-skirt): Product information: Size: 16 14 12 10 8 6 4 2 Fabric: Mesh Style: Korean Collar: One-shoulder Waist type: Middle waist Size Information: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Wedding Dres*1 Product Image: Full image: Detail image:
-  Updated: 2025-10-08T10:05:44Z
+  Updated: 2025-10-12T18:06:03Z
   Vendor: FLORANZA-AIR™
   Product Type: Protection animal
   Availability: Available
@@ -4866,7 +4866,7 @@
     Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/fd7db051-5ba5-4a13-a951-d24637aa89f1.jpg?v=1758728037
     Price: 335,51 € EUR
 - [Ball Gown Wedding Dress Long Sleeves Bridal Gown](https://floranza-air.shop/products/ball-gown-wedding-dress-long-sleeves-bridal-gown): Product information: Material: Polyester Fabric: Lace Color: White-White Style Details: Pearl Clothing technology: three-dimensional cutting Size Information: Size: 2 4 6 8 10 12 14 16 Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Wedding Dress*1 Product Image: Full image:
-  Updated: 2025-10-08T10:05:44Z
+  Updated: 2025-10-12T18:06:09Z
   Vendor: FLORANZA-AIR™
   Product Type: Protection animal
   Availability: Available
@@ -4904,7 +4904,7 @@
     Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/b94f8809-2333-4e83-996a-0d63648bfa90.jpg?v=1758728098
     Price: 309,16 € EUR
 - [Custom Wedding Gown Bridal Dresses](https://floranza-air.shop/products/custom-wedding-gown-bridal-dresses): Product information: Material: Polyester Size: 2 4 6 8 10 12 14 16 Fabric: Lace Color: White-White Style Details: Pearl Clothing technology: three-dimensional cutting Size Information: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Dresses*1 Product Image: Full image:
-  Updated: 2025-10-08T10:05:44Z
+  Updated: 2025-10-12T18:06:10Z
   Vendor: FLORANZA-AIR™
   Product Type: Protection animal
   Availability: Available
@@ -4942,7 +4942,7 @@
     Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/466076f2-47e7-4411-b3f9-6e4d35220561.jpg?v=1758728182
     Price: 228,15 € EUR
 - [Long Sleeves Mermaid  White Wedding Dress](https://floranza-air.shop/products/long-sleeves-mermaid-white-wedding-dress): Product information: Material: Polyester Size: 2 4 6 8 10 12 14 16 Fabric: Lace Color: White-White Style Details: Pearl Clothing technology: three-dimensional cutting Size Information: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Wedding Dress*1 Product Image: Full image:
-  Updated: 2025-10-08T10:05:44Z
+  Updated: 2025-10-12T18:06:10Z
   Vendor: FLORANZA-AIR™
   Product Type: Protection animal
   Availability: Available
@@ -4980,7 +4980,7 @@
     Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/643446e2-4f35-4369-bed7-9cd8a9bebb04_fine_fa57eacf-6e75-4765-aafd-72589806aa4f.jpg?v=1758728268
     Price: 335,51 € EUR
 - [Ball Gown Wedding Dress Long Sleeves Bridal Gown](https://floranza-air.shop/products/ball-gown-wedding-dress-long-sleeves-bridal-gown-1): Product information: Material: Polyester Size: 2 4 6 8 10 12 14 16 Fabric: Lace Color: White-White Style Details: Pearl Clothing technology: three-dimensional cutting Size Information: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Wedding Dress*1 Product Image: Full image:
-  Updated: 2025-10-08T10:05:45Z
+  Updated: 2025-10-12T18:06:13Z
   Vendor: FLORANZA-AIR™
   Product Type: Protection animal
   Availability: Available
@@ -5018,7 +5018,7 @@
     Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/372c8cfe-aa92-4f61-b4fd-533bc442db2f.jpg?v=1758728355
     Price: 518,74 € EUR
 - [Trailing wedding dress tube top lace wedding dress](https://floranza-air.shop/products/trailing-wedding-dress-tube-top-lace-wedding-dress): Fabric name: Lace Main fabric composition: linen The content of the main fabric ingredient: 100 (%) Main fabric composition 2: Cotton The content of main fabric ingredient 2: 90 (%) Fabric 2 ingredients: acetate fiber The content of 2 ingredients of the fabric: 90 (%) Fabric 3 components: polyester fiber (polyester) The content of 3 ingredients in the fabric: 90 (%) Lining composition: cotton Lining ingredient content: 90 (%) Skirt length: long skirt Composition: 99% size bust Waist circumference Skirt length XS 78 73 147 S 82 77 147 M 86 82 150 L 90 86 150 XL 94 90 152 XXL 98 94 152 3XL 102 98 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images.
-  Updated: 2025-10-08T10:05:45Z
+  Updated: 2025-10-12T18:06:11Z
   Vendor: FLORANZA-AIR™
   Product Type: Protection animal
   Availability: Available
@@ -5496,14 +5496,14 @@
   Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Se3d134b89d6e4f6d9411bd0a14589ca2l.webp?v=1759066980
   Price: 4 899,00 € EUR
 - [Professional Electric Bike For Adults, 26 X 4.0 Inches Fat Tire Electric Mountain Bicycle, 1000W Motor 48V 15Ah Ebike For Trail Riding, Excursion And Commute, UL And GCC Certified](https://floranza-air.shop/products/professional-electric-bike-for-adults-26-x-4-0-inches-fat-tire-electric-mountain-bicycle-1000w-motor-48v-15ah-ebike-for-trail-riding-excursion-and-commute-ul-and-gcc-certified): 25+ MPH Top Speed 26 X 4 Inches Tires 1000W Motor Power Up to 75 Miles Range 330 lbs Payload Capacity LCD Display LCD 48V 15Ah Waterproof Battery Disc Brakes Mechanical UL Certification Safety Certified 85% Pre-assembled Pre-assembled 1 Year Warranty Long Warranty Lifetime Support Technical Support Easy Return 30 Days Returns Ships from US US Warehouse 8 - 9 Hours Charging Time 1000W Powerful Motor The SIVROCK V1 Electric Bike uses a 1000W brushless gear hub motor, with a maximum speed of 25+ mph , a maximum torque of 85Nm to provide stronger power and a maximum slope of 35 degrees. 85Nm of torque is enough for everyday riding on all terrains, easily overcoming complex terrain. Whether you're camping, hunting, beach fishing, or biking on rough trails or mountain trails , it helps anyone who wants to experience the outdoors. Large Capacity Lithium-ion Battery Waterproof Hidden Battery, this electric bicycle uses a 48V 15Ah IP54 waterproof lithium-ion battery hidden in the frame, fully charging takes 8-9 hours, and it can travel 25+ miles in pure electric mode and 75 miles in PAS mode. Shimano 7 Speed Shifting Gears The 7-speed gear on the rear hub of this electric mountain bike meets your multiple-speed needs, combined with the 26" x 4.0 fat tires, giving the electric bike perfect terrain adaptability to conquer complex terrain and roads. Upgrade Smart LCD display Upgrade Smart LCD display,Speed Data, Assist level,Battery Indicator, Mileage display. The multifunctional big screen LCD Speed Shifter display enables easy reading in day and night. Excellent Riding Options This e-bike for adults provides 4 riding modes, pure electric mode, pedal assist mode, cart mode and classic bicycle mode , the smart LCD display can display real-time speed, riding time, mileage, remaining battery. Puncture Resistant Fat Tires Puncture-resistant tires prevent punctures by thorns and glass while riding.Anti-skidding, wear resistant, adapt to city, snow, sand, dirt and various terrains. Shimano 7-Speed Gear Quickly switch between 7 gears, perfect for riders who are commuting in the urban city and exploring in the mountains at the same time. Hydraulic Suspension Fork Our electric bikes hydraulic suspension fork, preload adjustment and lockout option, more flexible to reducing the feeling of bumps when handling multiple terrain types. Mechanical Disc Brakes Reliable braking performance and adjustable braking distance, providing sufficient braking forces even in harshest conditions, providing strong stopping power even in loost terrain. High-luminance Headlight Bright headlight provides a brighter, safer and more enjoyable environment for night riding. The unique LED circle illuminates your path while making you easily visible to others. Aluminum Frame Aluminum Frame The frame is made of high-density aluminum material, which is durable, safe and not easily deformed. This bike payload capacity is 330 LBS. Sivrock Ebike Reviewed By Kayak Catfish (168K subscribers)： Sivrock Ebike Reviewed By Professor Pouncey (1.42 million subscribers)： Sivrock Ebike Reviewed By Gonagain (55.6K subscribers)： FAQ: Q: What is your warranty policy? A: Sivrock bike comes with 1 year warranty on battary, motor and controllor, and provide lifelong technical support. Sivrock is devoted and confident to slove any product issues, if you have any question about product using, maintaining, or returning, please do not hesitate to contact with us. Q: Does the Sivrock electric bike have a USB port to charge phone? A: Yes, the Sivrock ebike has a USB charging port. You can charge your phone at any time when you needed. Q: Do I need to assemble my Sivrock ebike? Will it be difficult? The Sivrock electric bike already comes 85% pre-assembled. Some simple parts are left for you to enjoy hands-on fun. We have made a detailed assembly video and detailed assembly steps. Our customers generally need 15 to 30 minutes to assemble the bike. Q: Where do you ship from? A: We ship from our US warehouse, Usually shipped on the same day. Q: How long does it take to fully charge? A: Our battery fully charging takes 8-9 hours, this can effectively protect the battery and prevent the battery from being charged too quickly and reducing battery life. Q: What about the battery of sivrock electric bicycle? A: 48V/15Ah large-capacity battery, hidden built-in IP52 waterproof battery, and battery management system, safe, reliable and long-lasting. Q: What are the advantages of fat tires in all terrain conditions? A: 26" x 4.0 fat tires, puncture-resistant and wear-resistant rough texture provide strong grip, allowing you to drive smoothly in different riding environments and cope with various complex weather and terrains. Technical Details Bike Type: Electric Bike, Mountain Bike Age Range (Description): Adult Number of Speeds: 7 Wheel Size: 26 Inches Frame Material: Aluminum Suspension Type: Front Accessories: Digital Display, Rechargeable, Headlight, Dual Disc Brake, Adjustable Seat Included Components: Tool Kit Size: 26" x 4.0 Brake Style: Disc Cartoon Character: Dark Knight Wheel Width: 4 Inches Specific Uses For Product: Trail, Road, Gravel Voltage: 48 Volts Theme: Sport Style: Hard Core Moutain Off-Road Power Source: 48V Lithium-Ion Battery Wattage: 1000 watts Wheel Material: Alloy Steel Lithium Battery Energy Content: 720 Watt Hours Seat Material Type: Leather Warranty Type: One Year Maximum Weight: 330 Pounds Assembly Required: Yes Bicycle Gear Shifter Type: Trigger Number of Handles: 1 Item Package Dimensions L x W x H: 59.25 x 31.5 x 12.5" Package Weight: 31.75 Kilograms Item Dimensions LxWxH 9.06 x 29.53 x 58.27" Material: Aluminum Suggested Users: Unisex-adult Part Number: 01 #toamazon{text-align:center;}#toamazon img{max-width: 286px;}#listtel li{float:left; width:33.33%; text-align: center;margin-bottom: 20px; list-style: none;}#listtel li img {max-height: 52px;width: auto;margin-bottom: 5px;height: auto;}#listtel li h2{font-weight: bold; margin-bottom: 2px;}#listtel li p{ color: #000;margin: 5px 0 8px 0;font-size: 1.1em;}#listtel2{margin:0px; padding:0px;}#listtel2 li{float:left; width:32.333%; padding:0 0.5%; text-align: center;margin-bottom: 20px; min-height: 440px; list-style: none;}#listtel2 li img {max-width: 100%;height: auto;margin-bottom: 5px;height: auto;}#listtel2 li h2{font-weight: bold; margin-bottom: 2px; text-align:left; font-size: 1.2em;}#listtel2 li p{ color: #000;margin: 5px 0 8px 0;font-size: 1.1em;text-align: left;}#teltable{ width: 100%;border-collapse: collapse;}#teltable tr {display: table-row;vertical-align: inherit;border-color: inherit;}#teltable td {border: 1px solid gray;font-size: 1.1em;text-align: center;padding: 5px 4px;}#hongren{width:750px; height:421px;}#provideo{width:750px; height:421px;}@media screen and (max-width: 750px) and (min-width: 450px) {#hongren{width:450px; height:252.6px;}#provideo{width:450px; height:252.6px;}}@media screen and (max-width: 450px) and (min-width: 380px) {#hongren{width:380px; height:213px;}#provideo{width:100%; height:213px;}}@media screen and (max-width: 380px) and (min-width: 320px) {#hongren{width:350px; height:196px;}#provideo{width:100%; height:196px;}}.teldetip strong{ display: block;width: 230px; float: left;}.teldetip p{clear:both;font-size: 1em;margin-bottom: 10px;border-bottom: 1px solid #e1dede;padding-bottom: 5px;}@media screen and (max-width: 600px) {#listtel2 li {float: left;width: 48%;padding: 0 1%;text-align: center;margin-bottom: 5px;list-style: none;min-height: 440px;}#listtel li h2 {font-weight: bold;margin-bottom: 2px;font-size: 1.2em;}#listtel li p {color: #000;margin: 5px 0 8px 0;font-size: 1.1em;}#listtel li {float: left;width: 49.5%;text-align: center;height: 130px;margin-bottom: 0px; list-style: none;}.teldetip strong {display: inline;width: 130px;float: none;margin-right: 20px;}}
-  Updated: 2025-10-08T10:05:49Z
+  Updated: 2025-10-12T18:06:06Z
   Vendor: FLORANZA-AIR™
   Product Type: Protection animal
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/6c3cf535-45c5-46dc-b6d4-5ea322a4021d.jpg?v=1759088996
   Price: 5 558,03 € EUR
 - [Fitness Headband](https://floranza-air.shop/products/fitness-headband): Fabric name: cotton size: one size
-  Updated: 2025-10-08T10:05:49Z
+  Updated: 2025-10-12T18:06:11Z
   Vendor: FLORANZA-AIR™
   Product Type: Protection animal
   Availability: Available
@@ -5525,7 +5525,7 @@
     Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/179201117030.jpg?v=1759089098
     Price: 73,58 € EUR
 - [Fitness Yoga Pilates Bar Portable Gym Accessories Sport Elastic Bodybuilding Resistance Bands For Home Trainer Workout Equipment](https://floranza-air.shop/products/fitness-yoga-pilates-bar-portable-gym-accessories-sport-elastic-bodybuilding-resistance-bands-for-home-trainer-workout-equipment): Product information: Product Category: Puller Material: nbr Specifications: Yellow 10 lb, Red 20 lb, Blue 30 lb, green 40 lb, Black 50 lb Applicable scenarios: Fitness equipment, fitness and beauty, sports trend Color: Blue, Purple, black, Pink Pullers classification: elastic pullers Choose according to fitness effect: whole body comprehensive Applicable object: general purpose Product size: Total length of steel pipe 96cm, rope length 82cm Packing list: Puller set *1
-  Updated: 2025-10-08T10:05:49Z
+  Updated: 2025-10-12T18:06:14Z
   Vendor: FLORANZA-AIR™
   Product Type: Protection animal
   Availability: Available
@@ -5547,7 +5547,7 @@
     Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/9a128529-3c58-4625-b89c-312449db6385.jpg?v=1759089211
     Price: 74,61 € EUR
 - [Unisex Anti-Humpback Chest Lift Brace Posture Corrector](https://floranza-air.shop/products/unisex-anti-humpback-chest-lift-brace-posture-corrector): Product information: Thickness: ordinary Fabric name: Nylon Color: Black Main fabric composition: Nylon Size: S,M,L,XL,XXL,XXXL Suitable season: Four Seasons Universal Packing list: 1*Correction Belt Product Image:
-  Updated: 2025-10-08T10:05:49Z
+  Updated: 2025-10-12T18:06:16Z
   Vendor: FLORANZA-AIR™
   Product Type: Protection animal
   Availability: Available
@@ -5673,7 +5673,7 @@
     Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/20afc76b-5d27-433c-8c56-cb62881a26cb.jpg?v=1759089349
     Price: 31,08 € EUR
 - [Marble Printed Lingerie 3pcs Bikini Swimwear Summer](https://floranza-air.shop/products/marble-printed-lingerie-3pcs-bikini-swimwear-summer): Product information : Fabric composition: polyester fiber (polyester) Fabric content: 82(%) Applicable scene: swimming and wading Color: green, red, purple, blue, grayish blue, orange. Size Information: Size: S,M,L Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly fromthe following images. Packing list: Skirt *1 Bra*1 Panties*1
-  Updated: 2025-10-08T10:05:49Z
+  Updated: 2025-10-12T18:06:16Z
   Vendor: FLORANZA-AIR™
   Product Type: Protection animal
   Availability: Available
@@ -5751,7 +5751,7 @@
     Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/ab871bf7-70bd-4fe0-8a70-ee1bb494d700.jpg?v=1759089434
     Price: 37,93 € EUR
 - [Pilates Bar Kit With Resistance Bands Portable Home Gym Workout Equipment Perfect Stretched Fusion Exercise Bar And Bands](https://floranza-air.shop/products/pilates-bar-kit-with-resistance-bands-portable-home-gym-workout-equipment-perfect-stretched-fusion-exercise-bar-and-bands): Overview： 1.【Advanced Pilates Exercise Design】Crafted pilates bar combined with removable resistance bands set for new-style pilates fitness. The home gym kit provides you with Yoga, Pilates, resistance band exercises, variety of training programs. 2.【Protable Workout Bar】The exercise stick is made of three steel pipes and covered with soft foam for a firm grip. The portable pilates bar is detachable and lightweight, a great portable workout kit for women and men to use at home, gym, office, or travel. 3.【Full Body Fitness】The pilate bar kit is perfect for common core exercises including stretching, weightlifting, lunges, and squats, as well as targeting muscle groups in your back, legs, hips, shoulders, or arms. Specification： Material: EVA Application scenario: Pilates, fitness equipment, fitness body Specification: Ordinary pipe Color:2 tubes - base Material: Metal + foam Color: As shown in the picture Features: Whether you're a beginner or an expert, these resistance bands are perfect for you. Adjustable resistance bands allow you to select the intensity of resistance band workouts based on your personal goals.
-  Updated: 2025-10-08T10:05:50Z
+  Updated: 2025-10-12T18:06:16Z
   Vendor: FLORANZA-AIR™
   Product Type: Protection animal
   Availability: Available
@@ -5769,7 +5769,7 @@
     Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/fd59d2b8-8d3f-48aa-a9fd-d3553b91dbcf.jpg?v=1759089656
     Price: 89,98 € EUR
 - [Tactical Vest Military Combat Army Armor Vests Molle Airsoft Plate Carrier Swat Vest Outdoor Hunting Fishing CS Training Vest](https://floranza-air.shop/products/tactical-vest-military-combat-army-armor-vests-molle-airsoft-plate-carrier-swat-vest-outdoor-hunting-fishing-cs-training-vest): Overview: 1. High Quality： Made of durable and comfortable high-density 600D polyester with large strong zippers and mesh. The tactical undershirt is tough and great for CS games, airsoft, paintball, combat, and fighting. 2. Organizer： Our undershirt has 3 rifle magazines, 3 small equipment pockets, 1 pistol holster, 1 flashlight pouch, 1 interphone pocket, 1 accessory pocket, 1 removable bullet holder, 1 cell phone pouch, 1 internal mesh pocket for a water bag and 2 internal document pockets. 3. Additional accessories： The rear panel is constructed with modular webbing to fit additional camo gear materials and pouches. 2 D-rings can help you place your carbine or other gear. 4. Non-slip: The non-slip device inside the panel can help you easily secure your rifle, even if the panel is wide on the right shoulder. 5. Adjustable: The reinforced straps on the shoulder and undershirt can be adjusted with long adhesive strips to meet different sizes. Specification: Name: Tactical Vest Colour: Black Fabric: 600D encrypted nylon fabric size: one size Style: Mesh zipper cardigan style Function: outdoor tactics/training/task/military fans Package Content: 1 * Tactical Vest
-  Updated: 2025-10-08T10:05:50Z
+  Updated: 2025-10-12T18:06:16Z
   Vendor: FLORANZA-AIR™
   Product Type: Protection animal
   Availability: Available
@@ -5791,7 +5791,7 @@
     Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/29794814839634.jpg?v=1759089738
     Price: 48,86 € EUR
 - [Safety Dog LED Collar](https://floranza-air.shop/products/safety-dog-led-collar): Product information: Color:Red,Blue,Yellow,Pink,Black,Green,Orange. Flashing mode:Long light, Flash, Slow flash, Close( via switch control ) Battery:2PCS CR2032 button battery -driven (60-80 hours, normal 2-3 months ; battery can be replaceable , convenience stores or supermarkets are available .) Easy to use: By CE, ROHS, EN471 waterproof; the product is suitable for dark environment or walk the dog at night , outdoor and pet movement through the bright fiber optic light, it can be warning , also it is Fashionable and Individuality. The fashion designed collars, can be used both in day or night which you turn on and off a light to control them. XS= Width 2CM * Length (35-43) CM S = Width 2.5CM * Length (35-43) CM M = Width 2.5CM * Length (40-48) CM L = Width 2.5CM * Length (45-52) CM XL = Width 2.5CM * Length (52-60) CM Packing list: Pet collar*1
-  Updated: 2025-10-08T10:05:50Z
+  Updated: 2025-10-12T18:06:37Z
   Vendor: FLORANZA-AIR™
   Product Type: Protection animal
   Availability: Available
@@ -5917,7 +5917,7 @@
     Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/1081055909830.jpg?v=1759090022
     Price: 9,75 € EUR
 - [Electric Scooter  Model 8.5 Inch Foldable Portable Mobility Scooter Aluminum Alloy Scooter](https://floranza-air.shop/products/electric-scooter-model-8-5-inch-foldable-portable-mobility-scooter-aluminum-alloy-scooter): Product information: Product Category: Electric Scooter Suitable for: adults Weight: 12 (kg) Size: 8.5 inches Origin: Zhejiang Wheel material: PU Body material: Aluminum alloy Number of wheels: 2 Charging time: 4-6h Battery capacity: 4.0 6.0 7.8AH Maximum speed: 15-30 (km/h) Color: Black, white Highlight LED headlights 350W high power design 42V voltage Digital display Quick fold in 3 seconds Disc brake design 8.5 Pneumatic Tire (Honeycomb Tire) Battery 36V 4.4-7.8AH Packing list: Electric Scooter*1
-  Updated: 2025-10-08T10:05:50Z
+  Updated: 2025-10-12T18:06:35Z
   Vendor: FLORANZA-AIR™
   Product Type: Protection animal
   Availability: Available
@@ -14845,7 +14845,7 @@ Hign-concerned Chemical:None
 Production License:/
 Origin:Mainland China
 Choice:yes
-  Updated: 2025-10-09T01:50:25Z
+  Updated: 2025-10-12T18:03:46Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -14864,7 +14864,7 @@ Color classification:Black (regular 186 * 60CM), Black (regular 186 * 70CM)
 Massage technique:Kneading, acupressure, massage, tapping, slapping, stretching
 Applicable part:Head, neck, back, waist, hips, legs, feet
 Warranty period:1 month
-  Updated: 2025-10-09T01:50:25Z
+  Updated: 2025-10-12T18:03:52Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -14971,7 +14971,7 @@ Material fabric:Printed flannel
 rated voltage:220
 Temperature control range:10-70
 Controller gear:9th gear
-  Updated: 2025-10-09T01:50:23Z
+  Updated: 2025-10-12T18:03:52Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -15010,7 +15010,7 @@ Material:Metal
 Power Source:Dry & Rechargeable
 Hign-concerned Chemical:None
 Is Batteries Included:No
-  Updated: 2025-10-09T01:50:23Z
+  Updated: 2025-10-12T18:03:47Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -15022,7 +15022,7 @@ Hign-concerned Chemical:None
 Main Material:Artificial Leather
 Compatible Brand:SAMSUNG
 Choice:yes
-  Updated: 2025-10-09T01:50:25Z
+  Updated: 2025-10-12T18:03:52Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -15117,7 +15117,7 @@ Material:PA+PE
 Origin:Mainland China
 Type:Makeup brush Bags
 Number of Pieces:Combo
-  Updated: 2025-10-09T01:50:17Z
+  Updated: 2025-10-12T18:03:47Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -15198,7 +15198,7 @@ Material:Metal
 Power Source:Dry & Rechargeable
 Hign-concerned Chemical:None
 Is Batteries Included:No
-  Updated: 2025-10-09T01:55:42Z
+  Updated: 2025-10-12T18:03:52Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -15210,7 +15210,7 @@ Hign-concerned Chemical:None
 Main Material:Artificial Leather
 Compatible Brand:SAMSUNG
 Choice:yes
-  Updated: 2025-10-09T01:56:10Z
+  Updated: 2025-10-12T18:03:57Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -15242,7 +15242,7 @@ Material:PA+PE
 Origin:Mainland China
 Type:Makeup brush Bags
 Number of Pieces:Combo
-  Updated: 2025-10-09T01:56:32Z
+  Updated: 2025-10-12T18:03:55Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -15254,7 +15254,7 @@ Hign-concerned Chemical:None
 Main Material:Artificial Leather
 Compatible Brand:SAMSUNG
 Choice:yes
-  Updated: 2025-10-09T01:56:40Z
+  Updated: 2025-10-12T18:03:58Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -15285,7 +15285,7 @@ Material:Metal
 Power Source:Dry & Rechargeable
 Hign-concerned Chemical:None
 Is Batteries Included:No
-  Updated: 2025-10-09T01:56:33Z
+  Updated: 2025-10-12T18:03:57Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -15296,7 +15296,7 @@ Hign-concerned Chemical:None
 Production License:/
 Origin:Mainland China
 Choice:yes
-  Updated: 2025-10-09T01:56:33Z
+  Updated: 2025-10-12T18:03:57Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -15315,7 +15315,7 @@ Color classification:Black (regular 186 * 60CM), Black (regular 186 * 70CM)
 Massage technique:Kneading, acupressure, massage, tapping, slapping, stretching
 Applicable part:Head, neck, back, waist, hips, legs, feet
 Warranty period:1 month
-  Updated: 2025-10-09T01:56:34Z
+  Updated: 2025-10-12T18:04:01Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -15349,7 +15349,7 @@ Material fabric:Printed flannel
 rated voltage:220
 Temperature control range:10-70
 Controller gear:9th gear
-  Updated: 2025-10-09T01:56:36Z
+  Updated: 2025-10-12T18:04:01Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -15384,7 +15384,7 @@ Certification:GZZZ
 GZZZ:YGZWBZ
 Choice:yes
 semi_Choice:yes
-  Updated: 2025-10-09T02:00:29Z
+  Updated: 2025-10-12T18:04:08Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -15400,7 +15400,7 @@ semi_Choice:yes
 - [Electric Eye Massager Stick LED Photon Therapy Eye Skin Lift Dark Circle Care Pen Vibration Heating Anti-wrinkle Eye Bag Remover](https://floranza-air.shop/products/electric-eye-massager-stick-led-photon-therapy-eye-skin-lift-dark-circle-care-pen-vibration-heating-anti-wrinkle-eye-bag-remover1759932018765): Brand Name:eelhoe, Moajaza
 Hign-concerned Chemical:None
 Origin:Mainland China
-  Updated: 2025-10-09T02:00:32Z
+  Updated: 2025-10-12T18:04:07Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -15414,7 +15414,7 @@ Origin:Mainland China
     Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S3b582572ed574df9b6cc5c798062813dF.webp?v=1759932022
     Price: 51,99 € EUR
 - [X11A EMS Anti-Aging Eye Care Device With Red Light Technology For Reducing Eye Bags & Dark Circles, Portable Eye Rejuvenator](https://floranza-air.shop/products/x11a-ems-anti-aging-eye-care-device-with-red-light-technology-for-reducing-eye-bags-dark-circles-portable-eye-rejuvenator1759932018699): <div>Brand Name:NoEnName_Null</div><div>Origin:Mainland China</div><div>Material:Metal</div><div>Power Source:Dry & Rechargeable</div><div>Hign-concerned Chemical:None</div><div>Is Batteries Included:No</div><div>  </div><div>  </div>
-  Updated: 2025-10-09T02:00:26Z
+  Updated: 2025-10-12T18:04:01Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -15452,7 +15452,7 @@ Number of Pieces:Combo
   Price: 0,00 € EUR
 - [Absorbent Pads and Gait Belt for Seniors - 100 Pads for Portable Toilet Bags and Porta Potty Bed Pan - Transfer Gate Belts with](https://floranza-air.shop/products/absorbent-pads-and-gait-belt-for-seniors-100-pads-for-portable-toilet-bags-and-porta-potty-bed-pan-transfer-gate-belts-with1759932018750): Application:BACK
 Origin:CHINA
-  Updated: 2025-10-09T02:00:27Z
+  Updated: 2025-10-12T18:04:06Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -15511,7 +15511,7 @@ Choice:yes
   Availability: Available
   Price: 0,00 € EUR
 - [Crossbody Laether Wallet Case for Samsung Galaxy Z Flip 7 FE 6 5 4 3 With RFID Blocking Card Holder Magnetic Universal Mini Bag](https://floranza-air.shop/products/crossbody-laether-wallet-case-for-samsung-galaxy-z-flip-7-fe-6-5-4-3-with-rfid-blocking-card-holder-magnetic-universal-mini-bag1759932018790): Brand Name:aierkebaOrigin:Mainland ChinaHign-concerned Chemical:NoneMain Material:Artificial LeatherCompatible Brand:SAMSUNGChoice:yes
-  Updated: 2025-10-09T02:00:32Z
+  Updated: 2025-10-12T18:04:01Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -15791,7 +15791,7 @@ Color classification:Black (regular 186 * 60CM), Black (regular 186 * 70CM)
 Massage technique:Kneading, acupressure, massage, tapping, slapping, stretching
 Applicable part:Head, neck, back, waist, hips, legs, feet
 Warranty period:1 month
-  Updated: 2025-10-09T02:12:11Z
+  Updated: 2025-10-12T18:04:08Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -15865,7 +15865,7 @@ Hign-concerned Chemical:None
 Production License:/
 Origin:Mainland China
 Choice:yes
-  Updated: 2025-10-09T02:12:10Z
+  Updated: 2025-10-12T18:04:08Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -15878,7 +15878,7 @@ Material:PA+PE
 Origin:Mainland China
 Type:Makeup brush Bags
 Number of Pieces:Combo
-  Updated: 2025-10-09T02:12:09Z
+  Updated: 2025-10-12T18:04:07Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -15886,7 +15886,7 @@ Number of Pieces:Combo
   Price: 67,99 € EUR
 - [Absorbent Pads and Gait Belt for Seniors - 100 Pads for Portable Toilet Bags and Porta Potty Bed Pan - Transfer Gate Belts with](https://floranza-air.shop/products/absorbent-pads-and-gait-belt-for-seniors-100-pads-for-portable-toilet-bags-and-porta-potty-bed-pan-transfer-gate-belts-with1759932722952): Application:BACK
 Origin:CHINA
-  Updated: 2025-10-09T02:12:11Z
+  Updated: 2025-10-12T18:04:07Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -15909,7 +15909,7 @@ Choice:yes
   Availability: Available
   Price: 0,00 € EUR
 - [70 Freestanding Inflatable Punching Bag with Stand for Adults and Teens Includes Boxing Gloves and Electric Air Pump Ideal for](https://floranza-air.shop/products/70-freestanding-inflatable-punching-bag-with-stand-for-adults-and-teens-includes-boxing-gloves-and-electric-air-pump-ideal-for1759932722957): <div>Brand Name:SHXI</div><div>Type:HULA HOOP</div><div>Hign-concerned Chemical:None</div><div>Age:>6 Years</div><div>Origin:Hk(origin)</div><div>  </div><div>  </div>
-  Updated: 2025-10-09T02:12:10Z
+  Updated: 2025-10-12T18:04:08Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -16147,7 +16147,7 @@ Hign-concerned Chemical:None
 Main Material:Others
 Choice:yes
 semi_Choice:yes
-  Updated: 2025-10-09T02:14:13Z
+  Updated: 2025-10-12T18:04:45Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -16353,7 +16353,7 @@ semi_Choice:yes
     Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Sb093217dc9f543daab549b4aca5be24av.webp?v=1759932845
     Price: 20,99 € EUR
 - [Crossbody Cards Solt Zipper Wallet Leather Phone Case for Samsung Galaxy Z Fold 7 6 5 4 3 Wristband Ring Holder Kickstand Cover](https://floranza-air.shop/products/crossbody-cards-solt-zipper-wallet-leather-phone-case-for-samsung-galaxy-z-fold-7-6-5-4-3-wristband-ring-holder-kickstand-cover1759932840423): Brand Name:NoEnName_NullOrigin:Mainland ChinaHign-concerned Chemical:NoneMain Material:Artificial LeatherCompatible Brand:SAMSUNGChoice:yes
-  Updated: 2025-10-09T02:14:21Z
+  Updated: 2025-10-12T18:05:16Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -16505,7 +16505,7 @@ Hign-concerned Chemical:None
 Main Material:Artificial Leather
 Choice:yes
 semi_Choice:yes
-  Updated: 2025-10-09T02:14:25Z
+  Updated: 2025-10-12T18:06:09Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -16717,7 +16717,7 @@ Hign-concerned Chemical:None
 Main Material:Artificial Leather
 Choice:yes
 semi_Choice:yes
-  Updated: 2025-10-09T02:14:54Z
+  Updated: 2025-10-12T18:06:52Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -16929,7 +16929,7 @@ Hign-concerned Chemical:None
 Main Material:Artificial Leather
 Choice:yes
 semi_Choice:yes
-  Updated: 2025-10-09T02:15:59Z
+  Updated: 2025-10-12T18:07:37Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -17141,7 +17141,7 @@ Hign-concerned Chemical:None
 Main Material:Artificial Leather
 Choice:yes
 semi_Choice:yes
-  Updated: 2025-10-09T02:16:49Z
+  Updated: 2025-10-12T18:08:08Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -17351,7 +17351,7 @@ Origin:Mainland China
 Hign-concerned Chemical:None
 Main Material:Artificial Leather
 Choice:yes
-  Updated: 2025-10-09T02:17:15Z
+  Updated: 2025-10-12T18:08:11Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -17464,14 +17464,14 @@ Origin:Mainland China
 Is Batteries Included:Yes
 Choice:yes
 semi_Choice:yes
-  Updated: 2025-10-09T02:27:48Z
+  Updated: 2025-10-12T18:08:17Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S96bf62c0d5bf420fa5071666d992f63eK.webp?v=1759933663
   Price: 37,99 € EUR
 - [3  Year Warranty UKLife 4D SL-Track Full Body Air Bag Zero Gravity  Luxury Electric Massager Chairs For Office  Massage Sofa](https://floranza-air.shop/products/3-year-warranty-uklife-4d-sl-track-full-body-air-bag-zero-gravity-luxury-electric-massager-chairs-for-office-massage-sofa1759933669332): <div>Brand Name:ukLife</div><div>Hign-concerned Chemical:None</div><div>Electronic:No</div><div>Origin:Mainland China</div><div>Model Number:5888</div><div>Certification:CE, RoHS</div><div>Warranty:Three year</div><div>Item Type:Massage & Relaxation</div><div>Size:Large</div><div>Color:Black gray,White gray,Black Blue,Black brown,Starry Blue</div><div>Brand:100% Original Innovative Brand</div><div>Convenient:Use immediately after unpacking</div><div>Packing:Perfect inner protection + wooden frame and carton</div><div>Discount:Follow our store</div><div>Application:Body</div><div>Application2:Neck/Back/Shoulder/Body</div><div>Features1:Full body airbag wrapped massage</div><div>Features2:Foot roller massage</div><div>Features3:Bluetooth Music</div><div>Type:Suitable for all countries</div><div>More:Please contact</div><div>  </div><div>  </div>
-  Updated: 2025-10-09T02:28:02Z
+  Updated: 2025-10-12T18:08:17Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -17504,7 +17504,7 @@ Origin:Mainland China
 Is Batteries Included:Yes
 Application:Hand
 Choice:yes
-  Updated: 2025-10-08T15:24:21Z
+  Updated: 2025-10-12T18:08:11Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -17517,7 +17517,7 @@ Material:Wood
 Origin:Mainland China
 Type:Makeup brush Bags
 Number of Pieces:One Unit
-  Updated: 2025-10-09T02:31:15Z
+  Updated: 2025-10-12T18:08:16Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -17536,7 +17536,7 @@ Whether with metal toe cap:No
 Upper Material:Other
 Material:POLYESTER
 Gender:Unisex
-  Updated: 2025-10-09T03:01:11Z
+  Updated: 2025-10-12T18:08:17Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -17627,7 +17627,7 @@ Whether waterproof:No
 Material:POLYESTER
 Whether with metal toe cap:No
 Athletic Shoe Type:Walking Shoes
-  Updated: 2025-10-09T03:01:19Z
+  Updated: 2025-10-12T18:08:24Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -17700,7 +17700,7 @@ CN:Shanghai
 Department Name:Unisex
 Athletic Shoe Type:Skateboarding Shoes
 Choice:yes
-  Updated: 2025-10-09T03:02:53Z
+  Updated: 2025-10-12T18:08:30Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -17794,7 +17794,7 @@ Whether with metal toe cap:No
 Athletic Shoe Type:Walking Shoes
 Choice:yes
 size_info:{"sizeInfoList":[{"countrySizeMap":{"EU":"36","BR":"33.5","JP":"22.5","UK":"3.5","KR":"225","MX":"22.5","US":"4"},"length":{"cm":"22.5","inch":"8.86"},"size":"36","vid":200000334},{"countrySizeMap":{"EU":"37","BR":"34.5","JP":"23","UK":"4","KR":"230","MX":"23","US":"4.5"},"length":{"cm":"23","inch":"9.06"},"size":"37","vid":100010482},{"countrySizeMap":{"EU":"38","BR":"36","JP":"24","UK":"5","KR":"240","MX":"24","US":"6"},"length":{"cm":"24","inch":"9.45"},"size":"38","vid":200000898},{"countrySizeMap":{"EU":"39","BR":"37.5","JP":"25","UK":"6.5","KR":"250","MX":"25","US":"7.5"},"length":{"cm":"25","inch":"9.84"},"size":"39","vid":200000364},{"countrySizeMap":{"EU":"40","BR":"38","JP":"25.5","UK":"7","KR":"255","MX":"25.5","US":"8"},"length":{"cm":"25.5","inch":"10.04"},"size":"40","vid":100013888},{"countrySizeMap":{"EU":"41","BR":"39.5","JP":"26.5","UK":"8","KR":"265","MX":"26.5","US":"9"},"length":{"cm":"26.5","inch":"10.43"},"size":"41","vid":100010483},{"countrySizeMap":{"EU":"42","BR":"40.5","JP":"27","UK":"8.5","KR":"270","MX":"27","US":"9.5"},"length":{"cm":"27","inch":"10.63"},"size":"42","vid":200000337},{"countrySizeMap":{"EU":"43","BR":"42","JP":"28","UK":"10","KR":"280","MX":"28","US":"11"},"length":{"cm":"28","inch":"11.02"},"size":"43","vid":200000338},{"countrySizeMap":{"EU":"44","BR":"42.5","JP":"28.5","UK":"10.5","KR":"285","MX":"28.5","US":"11.5"},"length":{"cm":"28.5","inch":"11.22"},"size":"44","vid":100010487},{"countrySizeMap":{"EU":"45","BR":"44","JP":"29.5","UK":"11.5","KR":"295","MX":"29.5","US":"12.5"},"length":{"cm":"29.5","inch":"11.61"},"size":"45","vid":3116},{"countrySizeMap":{"EU":"46","BR":"45","JP":"30","UK":"12.5","KR":"300","MX":"30","US":"13.5"},"length":{"cm":"30","inch":"11.81"},"size":"46","vid":200000899},{"countrySizeMap":{"EU":"35.5","BR":"33","JP":"22","UK":"3","KR":"220","MX":"22","US":"3"},"length":{"cm":"22","inch":"8.66"},"size":"35.5","vid":200001017},{"countrySizeMap":{"EU":"37.5","BR":"35","JP":"23.5","UK":"4.5","KR":"235","MX":"23.5","US":"5"},"length":{"cm":"23.5","inch":"9.25"},"size":"37.5","vid":200001019},{"countrySizeMap":{"EU":"38.5","BR":"36.5","JP":"24.5","UK":"5.5","KR":"245","MX":"24.5","US":"6.5"},"length":{"cm":"24.5","inch":"9.65"},"size":"38.5","vid":200000335},{"countrySizeMap":{"EU":"40.5","BR":"39","JP":"26","UK":"7.5","KR":"260","MX":"26","US":"8.5"},"length":{"cm":"26","inch":"10.24"},"size":"40.5","vid":200006263},{"countrySizeMap":{"EU":"42.5","BR":"41","JP":"27.5","UK":"9.5","KR":"275","MX":"27.5","US":"10.5"},"length":{"cm":"27.5","inch":"10.83"},"size":"42.5","vid":100016232},{"countrySizeMap":{"EU":"44.5","BR":"43.5","JP":"29","UK":"11","KR":"290","MX":"29","US":"12"},"length":{"cm":"29","inch":"11.42"},"size":"44.5","vid":200006265}]}
-  Updated: 2025-10-09T03:03:11Z
+  Updated: 2025-10-12T18:08:31Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -17883,7 +17883,7 @@ Athletic Shoe Type:Skateboarding Shoes
 Origin:Mainland China
 Material:POLYESTER
 Gender:Unisex
-  Updated: 2025-10-09T03:05:14Z
+  Updated: 2025-10-12T18:08:30Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -17909,7 +17909,7 @@ Origin:VN(Origin)
 Material:POLYESTER
 Gender:Unisex
 Outsole Material:Other
-  Updated: 2025-10-09T03:05:16Z
+  Updated: 2025-10-12T18:08:36Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -18018,7 +18018,7 @@ Language:English
 Display Size:6.09''
 Hign-concerned Chemical:None
 Origin:Mainland China
-  Updated: 2025-10-09T03:05:11Z
+  Updated: 2025-10-12T18:08:30Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -18050,7 +18050,7 @@ Touch Screen:Yes
 WIFI:Yes
 APP Download Available:Yes
 Band Detachable:Yes
-  Updated: 2025-10-09T03:05:09Z
+  Updated: 2025-10-12T18:08:30Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -18084,7 +18084,7 @@ Language:English
 Display Size:6.09''
 Hign-concerned Chemical:None
 Origin:Mainland China
-  Updated: 2025-10-09T03:05:07Z
+  Updated: 2025-10-12T18:08:35Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -18243,7 +18243,7 @@ With or install Professional accessories :Others (fill in by yourself)
 Upper coverage:Above the ankle but not to the knee
 Origin:VN(Origin)
 Department Name:Adult
-  Updated: 2025-10-09T03:05:10Z
+  Updated: 2025-10-12T18:08:41Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -19238,7 +19238,7 @@ Department Name:Adult
 - [1 poubelle de salle de bain mince avec couvercle, capacité de 10L/2.64Gal, poubelle étroite créative pour l'espace, poubelle à pression, matériau durable, idéale pour un usage domestique, essentiels pour la maison](https://floranza-air.shop/products/1-poubelle-de-salle-de-bain-mince-avec-couvercle-capacite-de-10l-2-64gal-poubelle-etroite-creative-pour-lespace-poubelle-a-pression-materiau-durable-ideale-pour-un-usage-domestique-essentiels-pour-la-maison1759948352184): Matériau:Autre matériel
 Référence:LJ86211
 Origine:Zhejiang,China
-  Updated: 2025-10-09T06:32:43Z
+  Updated: 2025-10-12T18:08:40Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -19248,7 +19248,7 @@ Origine:Zhejiang,China
 Mode d'alimentation:Utilisation sans alimentation
 Référence:NL1475717
 Origine:Zhejiang,China
-  Updated: 2025-10-09T06:36:41Z
+  Updated: 2025-10-12T18:08:41Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -19258,7 +19258,7 @@ Origine:Zhejiang,China
 Effet:Hydratant
 Référence:WV7157806
 Origine:Guangdong,China
-  Updated: 2025-10-09T06:38:20Z
+  Updated: 2025-10-12T18:08:41Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -19273,7 +19273,7 @@ L'inclinaison de la lame:0°
 Pliable:Pliable
 Référence:JL4575528
 Origine:Guangdong,China
-  Updated: 2025-10-09T06:42:25Z
+  Updated: 2025-10-12T18:08:41Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -19287,7 +19287,7 @@ Effet:Hydratant
 Les ingrédients principaux:Curcuma
 Référence:PV4194064
 Origine:Guangdong,China
-  Updated: 2025-10-09T06:42:53Z
+  Updated: 2025-10-12T18:08:40Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -19303,7 +19303,7 @@ Effet:Hydratant
 Les ingrédients principaux:Chéri
 Référence:DP7202721
 Origine:Guangdong,China
-  Updated: 2025-10-09T06:46:28Z
+  Updated: 2025-10-12T18:08:40Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -19320,7 +19320,7 @@ Marque:Ximonth
 Les ingrédients principaux:glycérine
 Référence:NV7163100
 Origine:Guangdong,China
-  Updated: 2025-10-09T06:46:54Z
+  Updated: 2025-10-12T18:08:41Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -19331,7 +19331,7 @@ Effet:Hydratant
 Les ingrédients principaux:Collagène
 Référence:DV7974130
 Origine:Guangdong,China
-  Updated: 2025-10-09T06:47:01Z
+  Updated: 2025-10-12T18:08:41Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -19346,7 +19346,7 @@ L'inclinaison de la lame:0°
 Pliable:Pliable
 Référence:JL4575528
 Origine:Guangdong,China
-  Updated: 2025-10-09T06:53:36Z
+  Updated: 2025-10-12T18:08:40Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -19363,7 +19363,7 @@ Marque:ROZINO
 Les ingrédients principaux:Chéri
 Référence:GN491148
 Origine:Guangdong,China
-  Updated: 2025-10-09T06:53:31Z
+  Updated: 2025-10-12T18:08:40Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -19374,7 +19374,7 @@ Marque:THCBME
 Effet:Autre
 Référence:VW6979655
 Origine:Guangdong,China
-  Updated: 2025-10-09T06:53:57Z
+  Updated: 2025-10-12T18:08:41Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -19388,7 +19388,7 @@ Effet:Hydratant
 Ingrédient de soins de la peau:Huile de castor
 Référence:NY2981434
 Origine:Guangdong,China
-  Updated: 2025-10-09T06:54:19Z
+  Updated: 2025-10-12T18:08:45Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -19405,7 +19405,7 @@ Marque:YUITIKUE
 Les ingrédients principaux:Collagène
 Référence:LE4536896
 Origine:Guangdong,China
-  Updated: 2025-10-09T06:54:38Z
+  Updated: 2025-10-12T18:08:45Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -19420,7 +19420,7 @@ Effet:Hydratant
 Les ingrédients principaux:Chéri
 Référence:JA6193619
 Origine:Guangdong,China
-  Updated: 2025-10-09T06:55:01Z
+  Updated: 2025-10-12T18:08:46Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -19434,7 +19434,7 @@ Effet:Hydratant
 Les ingrédients principaux:glycérine
 Référence:CK6318865
 Origine:Guangdong,China
-  Updated: 2025-10-09T07:10:27Z
+  Updated: 2025-10-12T18:08:46Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -19448,7 +19448,7 @@ Effet:Hydratant
 Les ingrédients principaux:Acide hyaluronique
 Référence:JX4018893
 Origine:Zhejiang,China
-  Updated: 2025-10-09T07:10:57Z
+  Updated: 2025-10-12T18:08:46Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -19482,7 +19482,7 @@ Effet:Hydratant
 Les ingrédients principaux:Collagène
 Référence:DN5901758
 Origine:Guangdong,China
-  Updated: 2025-10-09T07:11:24Z
+  Updated: 2025-10-12T18:08:45Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -19492,7 +19492,7 @@ Origine:Guangdong,China
 Les ingrédients principaux:Curcuma
 Référence:MW5836037
 Origine:Zhejiang,China
-  Updated: 2025-10-09T07:11:56Z
+  Updated: 2025-10-12T18:08:46Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -19508,7 +19508,7 @@ Conseils d'entretien:Lavage à la main ou nettoyage à sec professionnel
 Méthode de tissage:Tissé
 Référence:GV5330099
 Origine:Guangdong,China
-  Updated: 2025-10-09T07:12:37Z
+  Updated: 2025-10-12T18:08:51Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -19567,7 +19567,7 @@ Marque:CELILIN
 Style:Élégant
 Référence:HR2903784
 Origine:Guangdong,China
-  Updated: 2025-10-09T07:13:04Z
+  Updated: 2025-10-12T18:08:51Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -19615,7 +19615,7 @@ Les ingrédients principaux:Curcuma
 Est-il disponible pour être appliqué sur la peau:Oui
 Référence:JT4902103
 Origine:Guangdong,China
-  Updated: 2025-10-09T07:13:10Z
+  Updated: 2025-10-12T18:08:55Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -19632,7 +19632,7 @@ Les ingrédients principaux:Aloé Véra
 Est-il disponible pour être appliqué sur la peau:Oui
 Référence:GJ7681711
 Origine:Guangdong,China
-  Updated: 2025-10-09T07:13:34Z
+  Updated: 2025-10-12T18:08:56Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -19746,7 +19746,7 @@ Occasion:Wedding Party
 Model Number:4-92
 Built-in Bra:Yes
 Item Type:Bespoke Occasion Dresses
-  Updated: 2025-10-12T07:09:05Z
+  Updated: 2025-10-12T18:09:27Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -19916,7 +19916,7 @@ CN:Jiangsu
 Model Number:LGY
 Style:Sexy,Casual,Lounge,Tempting,Vintage,Novelty,Distinctive
 Support:Wholesale,Retail,Dropshipping
-  Updated: 2025-10-12T07:09:27Z
+  Updated: 2025-10-12T18:09:27Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -19969,7 +19969,7 @@ Decoration:Beading
 Sleeve Style:Off The Shoulder
 is_customized:Yes
 Waistline:Natural
-  Updated: 2025-10-12T07:10:08Z
+  Updated: 2025-10-12T18:09:27Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -20066,7 +20066,7 @@ Occasion:Prom
 size_info:{"sizeInfoList":[{"length":{"cm":"83","inch":"32.68"},"size":"2","vid":151},{"length":{"cm":"84","inch":"33.07"},"size":"4","vid":153},{"length":{"cm":"88","inch":"34.65"},"size":"6","vid":1394},{"length":{"cm":"90","inch":"35.43"},"size":"8","vid":699},{"length":{"cm":"93","inch":"36.61"},"size":"10","vid":1583},{"length":{"cm":"97","inch":"38.19"},"size":"12","vid":1663},{"length":{"cm":"100","inch":"39.37"},"size":"14","vid":200000298},{"length":{"cm":"104","inch":"40.94"},"size":"16","vid":5880},{"length":{"cm":"109","inch":"42.91"},"size":"16W","vid":200000945},{"length":{"cm":"114","inch":"44.88"},"size":"18
 W","vid":200000946},{"length":{"cm":"119","inch":"46.85"},"size":"20W","vid":200000947},{"length":{"cm":"124","inch":"48.82"},"size":"22W","vid":200000948},{"length":{"cm":"130","inch":"51.18"},"size":"24W","vid":200000949},{"length":{"cm":"135","inch":"53.15"},"size":"26W","vid":200000950},{"length":{"cm":"104","inch":"40.94"},"size":"14
 W","vid":200000944}]}
-  Updated: 2025-10-12T07:10:56Z
+  Updated: 2025-10-12T18:09:52Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -20299,7 +20299,7 @@ Occasion:Prom
 size_info:{"sizeInfoList":[{"length":{"cm":"83","inch":"32.68"},"size":"2","vid":151},{"length":{"cm":"84","inch":"33.07"},"size":"4","vid":153},{"length":{"cm":"88","inch":"34.65"},"size":"6","vid":1394},{"length":{"cm":"90","inch":"35.43"},"size":"8","vid":699},{"length":{"cm":"93","inch":"36.61"},"size":"10","vid":1583},{"length":{"cm":"97","inch":"38.19"},"size":"12","vid":1663},{"length":{"cm":"100","inch":"39.37"},"size":"14","vid":200000298},{"length":{"cm":"104","inch":"40.94"},"size":"16","vid":5880},{"length":{"cm":"109","inch":"42.91"},"size":"16W","vid":200000945},{"length":{"cm":"114","inch":"44.88"},"size":"18
 W","vid":200000946},{"length":{"cm":"119","inch":"46.85"},"size":"20W","vid":200000947},{"length":{"cm":"124","inch":"48.82"},"size":"22W","vid":200000948},{"length":{"cm":"130","inch":"51.18"},"size":"24W","vid":200000949},{"length":{"cm":"135","inch":"53.15"},"size":"26W","vid":200000950},{"length":{"cm":"104","inch":"40.94"},"size":"14
 W","vid":200000944}]}
-  Updated: 2025-10-12T07:11:47Z
+  Updated: 2025-10-12T18:10:26Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -20530,7 +20530,7 @@ Silhouette:A-LINE
 Train:Court Train
 Occasion:Prom
 size_info:{"sizeInfoList":[{"length":{"cm":"83","inch":"32.68"},"size":"2","vid":-1},{"length":{"cm":"84","inch":"33.07"},"size":"4","vid":-2},{"length":{"cm":"88","inch":"34.65"},"size":"6","vid":-3},{"length":{"cm":"90","inch":"35.43"},"size":"8","vid":-4},{"length":{"cm":"93","inch":"36.61"},"size":"10","vid":-5},{"length":{"cm":"97","inch":"38.19"},"size":"12","vid":-6},{"length":{"cm":"100","inch":"39.37"},"size":"14","vid":-7},{"length":{"cm":"104","inch":"40.94"},"size":"14W","vid":-8},{"length":{"cm":"104","inch":"40.94"},"size":"16","vid":-9},{"length":{"cm":"109","inch":"42.91"},"size":"16W","vid":-10},{"length":{"cm":"114","inch":"44.88"},"size":"18W","vid":-12},{"length":{"cm":"119","inch":"46.85"},"size":"20W","vid":-13},{"length":{"cm":"124","inch":"48.82"},"size":"22W","vid":-14},{"length":{"cm":"130","inch":"51.18"},"size":"24W","vid":-15},{"length":{"cm":"135","inch":"53.15"},"size":"26W","vid":-117}]}
-  Updated: 2025-10-12T07:12:17Z
+  Updated: 2025-10-12T18:10:57Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -20747,7 +20747,7 @@ Size:Accept custom size, Plus Size
 size_info:{"sizeInfoList":[{"length":{"cm":"83","inch":"32.68"},"size":"2","vid":151},{"length":{"cm":"84","inch":"33.07"},"size":"4","vid":153},{"length":{"cm":"88","inch":"34.65"},"size":"6","vid":1394},{"length":{"cm":"90","inch":"35.43"},"size":"8","vid":699},{"length":{"cm":"93","inch":"36.61"},"size":"10","vid":1583},{"length":{"cm":"97","inch":"38.19"},"size":"12","vid":1663},{"length":{"cm":"100","inch":"39.37"},"size":"14","vid":200000298},{"length":{"cm":"104","inch":"40.94"},"size":"16","vid":5880},{"length":{"cm":"109","inch":"42.91"},"size":"16W","vid":200000945},{"length":{"cm":"114","inch":"44.88"},"size":"18
 W","vid":200000946},{"length":{"cm":"119","inch":"46.85"},"size":"20W","vid":200000947},{"length":{"cm":"bust","inch":"bust"},"size":"Custom
 Size","vid":-90}]}
-  Updated: 2025-10-12T07:12:35Z
+  Updated: 2025-10-12T18:11:06Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -20897,7 +20897,7 @@ Model Number:vestidos de gala
 Silhouette:Trumpet / Mermaid
 Train:Court Train
 Occasion:Prom
-  Updated: 2025-10-12T07:13:12Z
+  Updated: 2025-10-12T18:11:57Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -21078,7 +21078,7 @@ Silhouette:A-LINE
 Train:Sweep Train
 Occasion:Prom
 size_info:{"sizeInfoList":[{"length":{"cm":"83","inch":"32.68"},"size":"2","vid":-1},{"length":{"cm":"84","inch":"33.07"},"size":"4","vid":-2},{"length":{"cm":"88","inch":"34.65"},"size":"6","vid":-3},{"length":{"cm":"90","inch":"35.43"},"size":"8","vid":-4},{"length":{"cm":"93","inch":"36.61"},"size":"10","vid":-5},{"length":{"cm":"97","inch":"38.19"},"size":"12","vid":-6},{"length":{"cm":"100","inch":"39.37"},"size":"14","vid":-7},{"length":{"cm":"104","inch":"40.94"},"size":"14W","vid":-8},{"length":{"cm":"104","inch":"40.94"},"size":"16","vid":-9},{"length":{"cm":"109","inch":"42.91"},"size":"16W","vid":-10},{"length":{"cm":"114","inch":"44.88"},"size":"18W","vid":-11},{"length":{"cm":"119","inch":"46.85"},"size":"20W","vid":-12},{"length":{"cm":"124","inch":"48.82"},"size":"22W","vid":-13},{"length":{"cm":"130","inch":"51.18"},"size":"24W","vid":-14},{"length":{"cm":"135","inch":"53.15"},"size":"26W","vid":-15},{"length":{"cm":"140","inch":"55.12"},"size":"28W","vid":-16},{"length":{"cm":"bust","inch":"bust"},"size":"定制尺码","vid":-17}]}
-  Updated: 2025-10-12T07:13:34Z
+  Updated: 2025-10-12T18:12:14Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -21236,7 +21236,7 @@ Model Number:Evening dress
 Built-in Bra:Yes
 Item Type:Evening Dresses
 Fashion Element:simple
-  Updated: 2025-10-12T07:14:13Z
+  Updated: 2025-10-12T18:13:06Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -21419,7 +21419,7 @@ Fashion Element:Vintage
 size_info:{"sizeInfoList":[{"length":{"cm":"83","inch":"32.68"},"size":"2","vid":151},{"length":{"cm":"84","inch":"33.07"},"size":"4","vid":153},{"length":{"cm":"88","inch":"34.65"},"size":"6","vid":1394},{"length":{"cm":"90","inch":"35.43"},"size":"8","vid":699},{"length":{"cm":"93","inch":"36.61"},"size":"10","vid":1583},{"length":{"cm":"97","inch":"38.19"},"size":"12","vid":1663},{"length":{"cm":"100","inch":"39.37"},"size":"14","vid":200000298},{"length":{"cm":"104","inch":"40.94"},"size":"16","vid":5880},{"length":{"cm":"109","inch":"42.91"},"size":"16W","vid":200000945},{"length":{"cm":"114","inch":"44.88"},"size":"18
 W","vid":200000946},{"length":{"cm":"119","inch":"46.85"},"size":"20W","vid":200000947},{"length":{"cm":"124","inch":"48.82"},"size":"22W","vid":200000948},{"length":{"cm":"130","inch":"51.18"},"size":"24W","vid":200000949},{"length":{"cm":"135","inch":"53.15"},"size":"26W","vid":200000950},{"length":{"cm":"104","inch":"40.94"},"size":"14
 W","vid":200000944}]}
-  Updated: 2025-10-12T07:14:44Z
+  Updated: 2025-10-12T18:13:53Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -21650,7 +21650,7 @@ Built-in Bra:Yes
 Item Type:Evening Dresses
 Fashion Element:simple
 size_info:{"sizeInfoList":[{"length":{"cm":"83","inch":"32.68"},"size":"2","vid":-1},{"length":{"cm":"85","inch":"33.46"},"size":"4","vid":-2},{"length":{"cm":"88","inch":"34.65"},"size":"6","vid":-3},{"length":{"cm":"90","inch":"35.43"},"size":"8","vid":-10},{"length":{"cm":"93","inch":"36.61"},"size":"10","vid":-13},{"length":{"cm":"97","inch":"38.19"},"size":"12","vid":-16},{"length":{"cm":"100","inch":"39.37"},"size":"14","vid":-19},{"length":{"cm":"104","inch":"40.94"},"size":"14w","vid":-20},{"length":{"cm":"104","inch":"40.94"},"size":"16","vid":-21},{"length":{"cm":"109","inch":"42.91"},"size":"16w","vid":-22},{"length":{"cm":"114","inch":"44.88"},"size":"18w","vid":-23},{"length":{"cm":"119","inch":"46.85"},"size":"20w","vid":-24},{"length":{"cm":"124","inch":"48.82"},"size":"22w","vid":-25},{"length":{"cm":"130","inch":"51.18"},"size":"24w","vid":-26},{"length":{"cm":"135","inch":"53.15"},"size":"26w","vid":-27},{"length":{"cm":"140","inch":"55.12"},"size":"28w","vid":-28},{"length":{"cm":"custom","inch":"custom"},"size":"custom","vid":-29}]}
-  Updated: 2025-10-12T07:14:59Z
+  Updated: 2025-10-12T18:14:27Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -21851,7 +21851,7 @@ Size:Accept custom size, Plus Size
 size_info:{"sizeInfoList":[{"length":{"cm":"83","inch":"32.68"},"size":"2","vid":151},{"length":{"cm":"84","inch":"33.07"},"size":"4","vid":153},{"length":{"cm":"88","inch":"34.65"},"size":"6","vid":1394},{"length":{"cm":"90","inch":"35.43"},"size":"8","vid":699},{"length":{"cm":"93","inch":"36.61"},"size":"10","vid":1583},{"length":{"cm":"97","inch":"38.19"},"size":"12","vid":1663},{"length":{"cm":"100","inch":"39.37"},"size":"14","vid":200000298},{"length":{"cm":"104","inch":"40.94"},"size":"16","vid":5880},{"length":{"cm":"109","inch":"42.91"},"size":"16W","vid":200000945},{"length":{"cm":"114","inch":"44.88"},"size":"18
 W","vid":200000946},{"length":{"cm":"119","inch":"46.85"},"size":"20W","vid":200000947},{"length":{"cm":"bust","inch":"bust"},"size":"Custom
 Size","vid":-90}]}
-  Updated: 2025-10-12T07:15:16Z
+  Updated: 2025-10-12T18:14:37Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
@@ -22001,7 +22001,7 @@ Model Number:LF91002
 Built-in Bra:Yes
 Item Type:Evening Dresses
 Fashion Element:simple
-  Updated: 2025-10-12T07:15:36Z
+  Updated: 2025-10-12T18:15:16Z
   Vendor: boutiquepartner848
   Product Type: 
   Availability: Available
