@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2025-08-16T21:32:57Z
 - Contact Email: support@goldendealpeaks.com
-- Updated At: 2025-10-11T04:00:29.705Z
+- Updated At: 2025-10-12T00:00:31.151Z
 
 ## Products
 
@@ -225,7 +225,7 @@
   Image: https://cdn.shopify.com/s/files/1/0657/1576/5454/files/imgi_13_imgi_5_800x800_329add7e-5002-4a3e-8306-80724f6088fb.png?v=1757361759
   Price: $22.99 USD
 - [Golden Deal Peaks™ Spooky Hanging Skull](https://goldendealpeaks.com/products/golden-deal-peaks™-spooky-hanging-skull-yard-porch-decor-for-haunted-houses): Make a bold first impression this Halloween with Golden Deal Peaks™. This striking hanging skull turns entryways, porches, and garden trees into eerie focal points—perfect for haunted-house vibes or Day of the Dead displays. Detailed sculpting and a weather-conscious build deliver chilling atmosphere with a touch of artful elegance. Why you’ll love it Signature statement piece: Photo-worthy impact that anchors your scene.Versatile styling: Hang on porches, trees, mantels, hallways, or party backdrops.Seasonal or cultural: Ideal for classic Halloween and Día de los Muertos tributes.Lightweight & easy to hang: Display in minutes with your preferred hook or line.Mix & match: Pairs beautifully with cobwebs, lanterns, string lights, and pumpkins. Description Designed for true fans of spooky season, the Golden Deal Peaks™ Hanging Skull blends haunting detail with refined craftsmanship. Place it where shadows fall and let the silhouette do the storytelling—guests will feel the mood the moment they arrive. From lively parties to thoughtful seasonal memorials, it adds depth, intrigue, and conversation-starting style to any setup. Placement ideas Porch overhangs · Garden trees · Entry arches · Stair rails · Mantels · Photo corners What’s included 1 × Golden Deal Peaks™ hanging skull ornament Good to know For longevity, display indoors or in a covered outdoor area.Decorative use only; not a toy. Keep away from open flames and small children.
-  Updated: 2025-10-09T06:27:02Z
+  Updated: 2025-10-11T09:09:37Z
   Vendor: Golden Deal Peaks
   Product Type: 
   Availability: Available
@@ -239,7 +239,7 @@
     Image: https://cdn.shopify.com/s/files/1/0657/1576/5454/files/Sbd4f0df4b38d46159de59afa6ba35edbH.webp?v=1758282292
     Price: $19.99 USD
   - [S4 / As picture](https://goldendealpeaks.com/products/golden-deal-peaks™-spooky-hanging-skull-yard-porch-decor-for-haunted-houses?variant=43164802908366)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0657/1576/5454/files/Sd172e41f489c4bfbaef0f4b2cb23fa9fg.webp?v=1758282292
     Price: $19.99 USD
   - [S3 / As picture](https://goldendealpeaks.com/products/golden-deal-peaks™-spooky-hanging-skull-yard-porch-decor-for-haunted-houses?variant=43164802810062)
@@ -271,7 +271,7 @@
     Image: https://cdn.shopify.com/s/files/1/0657/1576/5454/files/S2e59211516544a09974bd293fbbf8aecs.webp?v=1758282292
     Price: $29.99 USD
 - [Golden Deal Peaks™ Halloween Rhinestone Pumpkin Dangle Earrings](https://goldendealpeaks.com/products/golden-deal-peaks™-halloween-rhinestone-pumpkin-dangle-earrings): Add a touch of sparkle to any look. These elegant dangle earrings feature a radiant 18K gold-plated finish with shimmering rhinestones set in durable zinc alloy—a chic, everyday pair that also shines for nights out and special occasions. Highlights Polished 18K gold-plated finish for a luxe glowBrilliant rhinestones that catch the light beautifullyEveryday-to-occasion styling—dress up or down with easePieces: 1 pair of earrings Materials 18K Gold-PlatedZinc AlloyRhinestone Care & Maintenance Wipe gently after each wear with a soft, dry clothAvoid moisture; prolonged exposure may cause discolorationStore in a dry, closed container or pouch to reduce oxidationAvoid contact with perfumes, lotions, and household chemicals What’s in the box 1 × Pair of Golden Deal Peaks™ rhinestone dangle earrings
-  Updated: 2025-10-09T06:30:20Z
+  Updated: 2025-10-11T09:17:10Z
   Vendor: Golden Deal Peaks
   Product Type: 
   Availability: Available
@@ -299,7 +299,7 @@
     Image: https://cdn.shopify.com/s/files/1/0657/1576/5454/files/S91264e985a0b4eabacf366cc9f7f2924b.webp?v=1758317661
     Price: $6.49 USD
 - [Golden Deal Peaks™ Kids’ Halloween Temporary Tattoos (10 Sheets)](https://goldendealpeaks.com/products/golden-deal-peaks™-kids-halloween-temporary-tattoos-10-sheets): Make spooky season extra fun—mess-free and party-ready. The Golden Deal Peaks™ Halloween tattoo sticker set lets kids dress up with festive designs in seconds, then wash them off just as easily after the celebration. Highlights 10-sheet value set: plenty to share for parties, trick-or-treat, and classroom funQuick to apply, easy to remove: add water to apply; remove with baby oil, makeup remover, or soap and waterNon-permanent play: costume-ready looks without the hassle of face paintLightweight & portable: slip a few sheets into goody bags or travel kits Specs Brand: Golden Deal Peaks™Pieces: 1 set = 10 sheets of tattoo stickersSheet size: 12 × 6.8 cm (≈ 4.7" × 2.7") eachWeight: ~18 g per set (≈ 1.7 g per sheet)Packaging: Retail pack of 10 sheets · Imported How to apply Clean and dry the skin.Cut out the design and peel off the clear film.Place tattoo image-side down on skin.Press with a wet cloth for 15–30 seconds.Peel the backing slowly to reveal the design.To remove: rub gently with baby oil or makeup remover, then wash with soap and water. Care & safety notes For external use only; avoid eyes, mouth, and broken or sensitive skin.If irritation occurs, discontinue use and cleanse the area.Adult supervision recommended for young children.Store flat in a cool, dry place.
-  Updated: 2025-10-09T06:30:15Z
+  Updated: 2025-10-11T09:17:01Z
   Vendor: Golden Deal Peaks
   Product Type: 
   Availability: Available
