@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2017-07-28T20:56:09Z
 - Contact Email: jenny@skinqri.com
-- Updated At: 2025-10-11T00:00:28.713Z
+- Updated At: 2025-10-12T00:00:29.023Z
 
 ## Products
 
@@ -39,7 +39,7 @@
   Image: https://cdn.shopify.com/s/files/1/2226/4109/files/hairtipkera-12-opt.jpg?v=1751549921
   Price: $55.00 USD
 - [KeraFactor®MD In-Office Serum (Box of 5)](https://mykerafactor.com/products/kerafactor-2-0-serum): A specific selection and concentration of the 6 biomimetic growth factors, 2 skin proteins, and 2 compounds for Scalp Revitalization. An in-office hair treatment serum. This serum contains only a high concentration of the proprietary formulation of the Kerafactor Peptide Complex. The KeraFactor Peptide complex MD (KFP) plus we have added Follistatin, PolyDeoxyRiboNuculeotide, and NanoFluorosomes. Each specific peptide is wrapped in a nanoliposome-protected carrier for optimum absorption. This serum is designed for use during an in-office procedure and is NOT TO BE INJECTED. 5ml in a syringe with a silicone duckbill applicator. Easy to apply to the patient’s scalp. Possible Adverse Reactions: Scalp irritation, rash, or temporary redness. If a reaction occurs, please discontinue use. For patients with fish allergies, please take a precautionary approach - watch after a cautionary test application. In rare cases, there could be an allergic reaction due to the PDRN in the formula. Warning: Avoid this product if you are allergic to Curcumin. Avoid contact with eyes. In case of contact with eyes, rinse immediately with plenty of water. Keep out of reach of children. Not intended for use by pregnant or nursing women or by any person under the age of 18. If you are taking any medications, consult with your doctor or health professional before use. List of Ingredients for the Serum: Water, Pentylene Glycol, sh-Polypeptide-86, sh-Polypeptide-11, sh-Polypeptide-71, sh-Oligopeptide-1, sh-Oligopeptide-4, sh-Polypeptide-7, sh-Polypeptide-9, sh-Polypeptide-1, DNA(PDRN), Curcumin, Tetrahydrocurcumin, Lecithin, Arginine, Carbomer, Polysorbate 60, Citric Acid, Sodium Citrate, PhenoxyethanolWe are proudly registered with the FDA Cosmetics Direct portal under MoCRA requirements.
-  Updated: 2025-10-10T20:09:21Z
+  Updated: 2025-10-11T21:41:55Z
   Vendor: KeraFactor by SkinQRI
   Product Type: 
   Availability: Available
@@ -102,7 +102,7 @@
   Image: https://cdn.shopify.com/s/files/1/2226/4109/files/thekerafactorsolutionshampoolashbrowinfoussheet-3-opt.jpg?v=1751550763
   Price: $15.00 USD
 - [KeraFlex Laser Cap](https://mykerafactor.com/products/keraflex-laser-cap): Revolutionize Your Hair Care with the KeraFlex Laser Cap Introducing the KeraFlex Laser Cap, the latest innovation in hair rejuvenation therapy. With 302 Medical Grade Laser Diodes operating at a wavelength of 650nm, the KeraFlex is designed to be used both in-office after KeraFactorMD treatments and at home with the KeraFactor Scalp Stimulating Solution. Key Features: 302 Medical Grade Laser Diodes: Ensures comprehensive scalp coverage with optimal laser light exposure. 650nm Wavelength: Penetrates the scalp to rejuvenate cells and stimulate cellular metabolism at the follicle level. Flexible Design: Comfortable and adaptable to fit all head sizes. Smart Sensor Start: Easy-to-use activation ensures a hassle-free experience. FDA Cleared: Safe and effective, meeting stringent medical standards. Daily 6-Minute Sessions: Conveniently timed sessions with automatic shut off for ease of use. The Gold Standard in Photobiomodulation (PBM): The KeraFlex Laser Cap is the pinnacle of Low-Level Laser Therapy (LLLT), exposing your hair follicles to precise low levels of red and near-infrared light. These calibrated wavelengths penetrate the scalp to: Rejuvenate cells and stimulate cellular metabolism. Combat hair loss by extending the growth phase of the hair growth cycle. Reactivate miniaturizing follicles back to their growth potential. Increase nutrient and oxygen-rich blood flow to the hair follicles, ensuring they have the nourishment to grow hair at its thickest and fullest. Pair with KeraFactorMD Treatments: Enhance your results by pairing the KeraFlex Laser Cap with our KeraFactorMD serum in-office or Scalp Stimulating Solution for home use by your patients. This powerful combination activates nanofluorosomes to combat DHT on the scalp and temporarily inhibits the androgen receptor, reducing DHT production and promoting a healthier scalp environment. What's Included: KeraFlex Laser Cap with 302 Laser Diodes KeraFactor Baseball Cap Power Bank Instructional Manual Carrying Case Sizing: Our KeraFlex caps are designed with a unique flexibility feature to comfortably fit various head sizes. The opening measures 8 inches long and 7 inches wide, and the flexible nature of the cap ensures a comfortable fit for different head sizes. Elevate Your Hair Care Routine: Whether you're seeking a professional in-office treatment option or a convenient at-home solution, the KeraFlex Laser Cap offers unparalleled effectiveness in hair rejuvenation. Experience the gold standard in PBM with the KeraFlex Laser Cap and take the next step towards thicker, fuller hair. Order yours today and transform your hair care regimen! User Guide for KeraFlex Cap will not turn on? There are smart sensors designed to protect your eyes by ensuring the lasers only activate when the cap is correctly in place. Place the cap on your head — it contains smart sensors that prevent it from turning on unless it’s properly positioned. Press and hold the button on the battery pack until it beeps. While facing a mirror, gently lift the front edge of the cap just slightly. You should see a red glow if it’s functioning.
-  Updated: 2025-10-10T20:51:53Z
+  Updated: 2025-10-11T21:41:56Z
   Vendor: KeraFactor by SkinQRI
   Product Type: Hair Care
   Availability: Available
@@ -149,7 +149,7 @@
     Availability: Available
     Price: $108.00 USD
 - [KeraFlex Duo](https://mykerafactor.com/products/keraflex-duo): KeraDuo Laser Cap — Advanced Dual Wavelength Technology Engineered for Elite Hair Rejuvenation Step into the future of hair restoration with the KeraDuo Laser Cap, a next-generation solution engineered with 312 medical-grade laser diodes and dual wavelength technology to deliver unparalleled scalp revitalization. Designed for those who demand results backed by science and crafted with luxury in mind. Scientific Breakthroughs Built Into Every Detail: • 312 Precision-Calibrated Laser Diodes: Complete scalp coverage for maximum light energy delivery at clinically effective dosages. • Dual Wavelength Technology: • 272 diodes at 650nm: Penetrate the epidermis to stimulate follicular metabolism and reawaken dormant hair follicles. • 40 diodes at 808nm (Near Infrared Light): Penetrate deeper into the dermis, enhancing blood flow and delivering oxygen and nutrients at a cellular level. • Flexible Design: Adapts to the contours of your head. • Smart Sensor Activation: Auto-start technology initiates treatment seamlessly once the cap is properly positioned. • Timed 6-Minute Sessions: Designed to deliver therapeutic benefit without overexposure, with automatic shut-off for consistency and safety. • Sleek Protective Carrying Case: Tailored for modern lifestyles — secure, stylish, and ready for travel. The Dual Wavelength Advantage: KeraDuo’s integrated 650nm and 808nm wavelengths represent a synergistic therapeutic approach, simultaneously targeting both surface and deep scalp layers. • 650nm Red Light: Activates mitochondrial function within hair follicles, boosting ATP production for stronger, healthier hair strands. • 808nm Near-Infrared Light: Promotes angiogenesis (formation of new blood vessels) to enhance scalp nourishment and long-term follicle support. This two-tiered system enhances scalp vitality, strengthens hair from root to tip, and promotes visible improvements in thickness, density, and overall scalp health. Sizing Details: Engineered with flexible, comfort-fit materials. The cap’s opening measures approximately 8 inches long by 7 inches wide, flexing to comfortably fit a wide range of head sizes for optimal treatment precision. User Guide for KeraFlex DuoCap will not turn on? There are smart sensors designed to protect your eyes by ensuring the lasers only activate when the cap is correctly in place. Place the cap on your head — it contains smart sensors that prevent it from turning on unless it’s properly positioned. Press and hold the button on the battery pack until it beeps. While facing a mirror, gently lift the front edge of the cap just slightly. You should see a red glow if it’s functioning.
-  Updated: 2025-10-10T15:05:50Z
+  Updated: 2025-10-11T18:12:11Z
   Vendor: KeraFactor by SkinQRI
   Product Type: 
   Availability: Available
@@ -163,21 +163,21 @@
   Image: https://cdn.shopify.com/s/files/1/2226/4109/files/5_e03ead4e-edd6-4936-b8cf-fd555d2b7878.png?v=1754150625
   Price: $60.00 USD
 - [KeraRoller](https://mykerafactor.com/products/keraroller): Precision Scalp Microneedling – 6 Pack for Professional RetailOptimize your patients’ hair restoration regimen with the KeraRoller, a professional-grade, handheld microneedling device designed to enhance the effectiveness of topical scalp treatments. Each roller features 1,200 stainless steel needles (0.25mm), ideal for creating microchannels in the scalp to help improve absorption and support healthier-looking hair. ✨ Key Benefits for Your Practice & Patients • Enhances penetration of growth factor serums for improved results • Painless and easy-to-use 0.25mm microneedles • Ideal for at-home maintenance between in-office treatments • Pairs perfectly with our Scalp Stimulating Solution Suggested Use: Instruct patients to gently roll the KeraRoller over targeted areas of the scalp, then apply the Scalp Stimulating Solution immediately after. Always clean the device with alcohol before and after each use. Available in 6-packs for retail or bundled treatment protocols. Empower your patients with tools that complement your in-office results and extend the benefits at home.
-  Updated: 2025-10-10T20:51:50Z
+  Updated: 2025-10-11T18:12:10Z
   Vendor: KeraFactor by SkinQRI
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2226/4109/files/9_817a8408-468a-4c3f-aeaf-1613b3572c88.png?v=1754152459
   Price: $114.00 USD
 - [KeraTote 6pk](https://mykerafactor.com/products/keratote-6pk): Offer your patients a touch of luxury with the KeraFactor Embroidered Tote Bag (6 Pack), perfect for building promotional bundles or as the ultimate gift with purchase. Made from durable cotton canvas and embroidered with the signature KeraFactor logo, these premium totes elevate your practice’s presentation and patient experience. Ideal for pairing with in-office treatments or retail products, they add a polished, professional touch to every KeraFactor regimen.
-  Updated: 2025-10-10T20:51:56Z
+  Updated: 2025-10-11T00:42:38Z
   Vendor: KeraFactor by SkinQRI
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2226/4109/files/2_5fc88834-b0d2-4554-bd47-585afda17771.png?v=1760069596
   Price: $60.00 USD
 - [KeraFlex/ KeraFlex Duo Slim Pamphlet](https://mykerafactor.com/products/solution-slim-pamphlet-copy): (50 QTY) KeraFlex/ KeraFlex Duo pamphlets per package
-  Updated: 2025-10-10T04:32:19Z
+  Updated: 2025-10-11T21:41:55Z
   Vendor: KeraFactor by SkinQRI
   Product Type: 
   Availability: Available
@@ -187,7 +187,7 @@
 ## Collections
 
 - [Professional Store](https://mykerafactor.com/collections/all)
-  Updated: 2025-10-10T11:05:23Z
+  Updated: 2025-10-11T11:04:53Z
   Total Products: 23
 - [Patient Store](https://mykerafactor.com/collections/buy): buy kerafactor solution shampoo conditioner or keracap laser hair stimulation
   Updated: 2025-03-08T19:40:26Z
