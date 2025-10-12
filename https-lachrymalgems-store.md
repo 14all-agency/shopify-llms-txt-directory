@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-10-03T06:30:37Z
 - Contact Email: mandiemaddox@mystichiddengem.com
-- Updated At: 2025-10-12T04:00:28.499Z
+- Updated At: 2025-10-12T08:00:28.415Z
 
 ## Products
 
@@ -925,7 +925,7 @@
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/background-editor_output_e7b2e695-ed06-4f83-9b25-d7e36f1908c5.png?v=1760041599
   Price: $40.43 USD
 - [Skin-Glow Face and Body Cleanser, 6oz](https://lachrymalgems.store/products/skin-glow-face-and-body-cleanser-6oz): This gentle cleanser equips your daily skincare routine with a versatile solution for both face and body care. This cleansing gel comes in a convenient 6 fl. oz. clear PET bottle with a white pump, making it easy to use and store. Ideal for sensitive or acne-prone skin, it effectively removes excess oil without causing irritation. With its balanced and gentle formula, it leaves your skin feeling refreshed and clean without any added fragrance. Plus, it's 100% vegan, cruelty-free, and packaged in recyclable materials. Made in the USA from globally sourced ingredients.Aqua, Cocamidopropyl Betaine, Glycerin, Decyl Glucoside, Panthenol, Glycyrrhiza Glabra (Licorice) Root Extract, Camellia Sinensis Leaf Extract, Xanthan Gum, Hamamelis Virginiana (Witch Hazel) Water, Alcohol, Butylene Glycol, Fomes Officinalis (Mushroom) Extract, Disodium EDTA, Citric Acid, Phenoxyethanol, Ethylhexylglycerin.Free of parabens, formaldehydes, formaldehyde-releasing agents, phthalates, mineral oil, oxybenzone, coal tar, hydroquinone, sulfates SLS & SLES, triclocarban, triclosan, and synthetic fragrance.Please note: This product is not eligible for publishing on Etsy and TikTok Shop US. More info here. .: Recommended for sensitive or acne-prone skin.: Cleansing gel for removing excess oil.: Face and body use.: Balanced and gentle formula.: Fragrance-Free.: 100% vegan, cruelty-free, and comes in recyclable packaging.: Clear PET bottle with white pump.: Design printed on a sticker label.: Made in the USA from globally sourced ingredients.: 6 fl. oz. (177ml).: Please note: This product is shipped only to the United States and their territories, as well as Canada.: Please note: This product is not eligible for publishing on Etsy and TikTok Shop US. 6oz Bottle height, in 7.20 Bottle diameter, in 1.26
-  Updated: 2025-10-11T16:01:18Z
+  Updated: 2025-10-12T04:01:10Z
   Vendor: Printify
   Product Type: Beauty products
   Availability: Available
