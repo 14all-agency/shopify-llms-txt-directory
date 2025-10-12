@@ -6,7 +6,7 @@
 - Timezone: Europe/Madrid
 - Created At: 2022-07-18T15:24:40Z
 - Contact Email: info@hifimediastore.com
-- Updated At: 2025-10-12T08:01:13.894Z
+- Updated At: 2025-10-12T12:01:16.962Z
 
 ## Products
 
@@ -1274,7 +1274,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/M18_Auriculares_Intraurales_Bluetooth_TWS_-_Hifi_Media_Store-984096.jpg?v=1719031132
     Price: 35,99 € EUR
 - [TS-100 Auriculares Intraurales TWS](https://hifimediastore.com/products/ts-100-tws-earbuds-with-hifi-sound): Especificaciones: Con micrófono: SíTipo inalámbrico: bluetoothResistente al agua: SíControl de volumen: SíDistorsión armónica total: 1%Soporta tarjeta de memoria: NoEstilo: In-earSensibilidad: 125dBResistencia: 32ΩNúmero de controladores: 2Salida máxima: 1mWTipo de imán: NeodimioRango de impedancia: hasta 32 ΩMaterial de las almohadillas de los auriculares: SiliconaRango de respuesta en frecuencia: 2400.0 - 2483.5MHzTipo de orejeras: SemiabiertoDiámetro del Driver: 13mmBotón de control: SíConectores: USBMétodo de carga: Estuche de cargaCertificación: CEVersión Bluetooth: 5.0Cancelación de ruido: Pasiva Contenido del paquete: 1 x TS-100 Auriculares TWS1 x Estuche de carga1 x Cable de carga1 x Manual del usuario
-  Updated: 2025-06-22T07:51:43Z
+  Updated: 2025-10-12T10:12:42Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -1288,7 +1288,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/TS-100_Auriculares_Intraurales_TWS_-_Hifi_Media_Store-998638.jpg?v=1719083352
     Price: 36,99 € EUR
 - [E60 Auriculares Intraurales inalámbricos](https://hifimediastore.com/products/e60-wireless-earbuds): Especificaciones: Control de volumen: SíEstilo: intrauditivoSensibilidad: 125 dBNúmero de conductores: 2Salida máxima: 1 mWInalámbrico: SíBotón de control: SíComunicación: True WirelessCertificación: CEVersión de Bluetooth: 5.0Cancelación de ruido: No
-  Updated: 2025-06-22T07:51:43Z
+  Updated: 2025-10-12T10:12:42Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -1310,7 +1310,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/E60_Auriculares_Intraurales_inalambricos_-_Hifi_Media_Store-971071.jpg?v=1719010238
     Price: 32,99 € EUR
 - [K65 Auriculares Intraurales Gaming TWS](https://hifimediastore.com/products/k65-tws-gaming-earbuds): Latencia ultrabaja para juegos en móviles Los auriculares intraurales para juegos con diseño Cyberpunk con micrófono brindan una conexión de latencia ultrabaja para garantizar una transmisión confiable con un retraso casi nulo, lo que los hace ideales para jugar juegos STG como PUBG, CODM, Fortnite, etc. *Presiona 5 veces el auricular derecho para cambiar al modo de juego. Ajuste cómodo y seguro Auriculares TWS para juegos con luces LED brillantes diseñados para resaltar la atmósfera del juego. Fáciles de llevar durante mucho tiempo porque cada superficie que toca tu oreja está hecha de silicona suave. Incluye 2 tamaños de almohadillas para ayudar a obtener el mejor ajuste. Disfruta de tu momento de juego. Control táctil y emparejamiento automático sin complicaciones El control táctil multifuncional de los Auriculares Gaming K65 permite un control intuitivo de la música y la gestión de llamadas, la tecnología push and go de emparejamiento en un solo paso garantiza que los auriculares inalámbricos sean fáciles de configurar y se conecten automáticamente al último dispositivo emparejado al sacarlos de la funda. 5 horas de reproducción y resistencia al agua IPX5 Un solo auricular te proporciona 5 horas completas de escucha, mientras que el estuche de carga amplía el tiempo de reproducción a 25 horas, para que tengas suficiente energía para tus desplazamientos o entrenamientos. La resistencia al agua IPX5 te permite jugar en cualquier momento y en cualquier lugar. Audio posicional envolvente con graves mejorados Auriculares inalámbricos reales. El sonido estéreo de graves mejorados con un gran controlador de audio de 12 mm ofrece una experiencia de juego envolvente. Oír las partes sutiles y explosivas de tu juego en un paisaje sonoro 3D posicional preciso te ayuda a obtener una ventaja competitiva sobre tus rivales. Especificaciones: Con micrófono: SíTipo inalámbrico: bluetoothResistente al agua: SíControl de volumen: SíPrincipio de vocalidad: DinámicaDistorsión armónica total: 0.02%Soporta tarjeta de memoria: NoSoporta APP: NoEstilo: Auriculares IntrauralesSensibilidad: 100dBNúmero de controladores: 2Tiempo de reproducción de música: 5 horasModelo: K65Salida máx.: 5mWTipo de imán: NeodimioInalámbrico: SíImpedance Range: up to 32 ΩMaterial de las almohadillas de los auriculares: SiliconaRango de respuesta en frecuencia: 20 - 20000Hz Tipo de orejeras: SelladoDiámetro del conductor: 13mmBotón de control: SíConectores: Tipo CComunicación: True WirelessCódecs: sbc,AAC,Apt-X,LDACTiempo de carga: 1 horaMétodo de carga: Estuche de cargaCertificación: FCCCertificación: CECertificación: RoHSTiempo de llamada: 5,5 horasVersión Bluetooth: 5.0Batería de los Pods: 60 mAh *2Batería del estuche de carga: 400 mAhCancelación de ruido: Pasiva Contenido del paquete: 1 x K65 Auriculares Gaming1 x Juego de almohadillas reemplazables1 x Cable de carga1 x Estuche de carga1 x Manual del usuario
-  Updated: 2025-06-22T07:51:43Z
+  Updated: 2025-10-12T10:12:43Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -1324,7 +1324,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/K65_Auriculares_Intraurales_Gaming_TWS_-_Hifi_Media_Store-982223.jpg?v=1719028157
     Price: 63,99 € EUR
 - [BL-09 - Auriculares de conducción ósea](https://hifimediastore.com/products/bl-09-bone-conduction-earphone): -Tecnología de conducción ósea: El nuevo tipo de auriculares inalámbricos que utilizan tecnología de conducción ósea se diferencia de otros auriculares inalámbricos. Convierte el sonido en vibraciones mecánicas de diferentes frecuencias y utiliza los pómulos para difundir ondas sonoras. Puede eliminar la transmisión de ondas sonoras de varios niveles y lograr una restauración de sonido clara en un ambiente ruidoso, al mismo tiempo que puede escuchar sonidos externos, lo que hace que tu entrenamiento sea más seguro. -Saludable y seguro: La transmisión del sonido no pasa a través de la membrana timpánica, lo que reduce el daño de la membrana timpánica, es menos probable que la apertura del canal auditivo genere bacterias y es más higiénica. Los auriculares abiertos te permiten escuchar lo que sucede a tu alrededor, por lo que son más seguros para andar en bicicleta, correr y conducir que los dispositivos tradicionales de cancelación de sonido. -Flexible en 360° y cómodo durante todo el día: Los auriculares inalámbricos están hechos de un material flexible que no se deforma cuando se ajustan con una flexión de 360° y soportan diferentes tamaños de cabeza. El panel táctil está hecho de silicona agradable para la piel, usarlo durante mucho tiempo no hinchará las orejas y te lo colocarás alrededor del cuello cuando no los estés usando. -Bluetooth 5.2 avanzado y gran tiempo de reproducción: La tecnología Bluetooth 5.2 más avanzada adoptada garantiza una conexión increíblemente estable de 33 pies, reduce el consumo y protege tus auriculares de manera más efectiva. Usando el cable de carga Micro USB-C (incluido) para cargar aproximadamente 2 horas, el tiempo de reproducción del 70% del volumen puede llegar a 13 horas. -Ampliamente utilizado: Estos auriculares con certificación IPX5 repelen el sudor, el polvo y la humedad. Es una gran idea para escuchar podcasts o realizar actividades al aire libre como correr, caminar o andar en bicicleta, especialmente cuando deseas mantener el conocimiento de la situación. Y las gafas, las gafas de sol y el sombrero no se verán afectados, simplemente disfruta de tu viaje auditivo feliz y seguro. Especificaciones: Con micrófono: SíTipo de conexión inalámbrica: bluetoothResistente al agua: SíControl de volumen: SíPrincipio de vocalidad: conducción óseaDistorsión armónica total: 0.02%Tarjeta de memoria compatible: NoEstilo: Ear HookSensibilidad: 98dBNúmero de Drivers: 2Modelo: BL-09Salida máxima: 5mWTipo de imán: NeodimioInalámbrico: SíGama de impedancias: hasta 32 ΩRango de respuesta en frecuencia: 20 - 200000HzTipo de orejeras: Open-backDiámetro del Driver: 13mmBotón de control: SíConectores: USBComunicación: inalámbricaCódecs: Apt-X, sbcMétodo de carga: CableCertificación: CE, RoHS, FCCVersión Bluetooth: 5.2Cancelación de ruido: No Contenido del paquete: 1 x Cable de carga1 x Manual del usuario1 x BL-09 Auriculares de conducción ósea
-  Updated: 2025-08-02T04:42:56Z
+  Updated: 2025-10-12T10:12:43Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -1346,7 +1346,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/BL-09_-_Auriculares_de_conduccion_osea_-_Hifi_Media_Store-969390.jpg?v=1719006378
     Price: 21,99 € EUR
 - [M2 TWS Earbuds with Smart Touch Control](https://hifimediastore.com/products/m2-tws-earbuds-with-smart-touch-control): 【Bluetooth 5.0 & One-Step Pairing 】The latest Bluetooth 5.0 with technology on both bluetooth earbuds, provides faster pairing, stable connection and signal transmission (50ft no-obstacle range). Only need to take out two earbuds or any single earbud after you open Bluetooth function, they will open and connect automatically. 【Easy Touch Control】Features with touch control sensors, can largely minimize the pressure to your ears when you touch the button for various functions. The touch program adopts a special software, single-touch [non-function], double-touch to play/pause music, which effectively reduce touch by mistakes or inaccurate touch. 【Secure Fit & IPX7 Waterproof】Mini and Ultra Lightweight in-ear design guarantees stability and comfortable. The sealed shell and interior Nano coating can easily repel sweat and rain, Ideal for workout, running, jogging, hiking, biking, gym, doing yoga, travelling etc.Three different sizes of earcaps, guarantee your earphones to stay comfortably firm in place. 【Enjoy Your Time】The charging case is equipped with built-in 500 mAh battery. Wireless Earbuds can be used for 4 hours and only need to be charged for 1.5 hours. The charging case comes with a 500mAh battery pack that can charge the earbuds up to 15 times.The unique LED display on the case can help you check the power at any time. 【Mono & Stereo Mode】Mono and stereo mode support free switching,working with 2 devices separately in mono mode, or use together as a pair in stereo mode. These true wireless earpiece bring you hands free calling convenience and sharing enjoyment with your friend or lover. Specifications: With Microphone: Yes Wireless Type: bluetooth Waterproof: Yes Volume Control: Yes Total Operating Time: 36h Total Harmonic Distortion: 0.02% Style: Earbuds Sensitivity: 105dB Resistance: 16Ω Number Of Drivers: 2 Model Number: M2 Max Output: 2.5mW Magnet Type: Neodymium Impedance Range: up to 32 Ω Headphone Pads Material: Other Fully Charge the Earbuds: 1.5h Fully Charge the Case: 2h Frequency Response Range: 20 - 20000Hz Earcups Type: Sealed Earbuds Capacity: 40mAh * 2 Driver Diameter: 10mm Control Button: Yes Communication: True Wireless Charging Method: Charging case Charging Limited Voltage: 5V Charging Case Battery: 500mAh Certification: RoHS Certification: CE Certification: FCC Bluetooth Version: 5.0 Bluetooth Range: 10M / 33Fft Bluetooth Protocol: HSP, HFP, AVRCP, A2DP Bluetooth Frequency: 2.402GHz-2.480GHz Audio Codec: Qualcomm aptX, AAC, SBC, Apt-X HD Noise-Cancellation: Passive Package List: 1 x M2 TWS Earbuds 1 x Replaceable Pads Set 1 x Charging case 1 x Charging Cable 1 x User Manual
-  Updated: 2025-08-26T00:10:14Z
+  Updated: 2025-10-12T10:12:43Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -1360,7 +1360,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/M2_TWS_Earbuds_with_Smart_Touch_Control_-_Hifi_Media_Store-984240.jpg?v=1719031362
     Price: 41,99 € EUR
 - [Freepods Auriculares Inalámbricos Bluetooth con Tecnología Epair](https://hifimediastore.com/products/freepods-bluetooth-wireless-earbuds-with-epair-technology): -Bluetooth 5.2: Gracias a la avanzada tecnología Bluetooth 5.2, los FreePods ofrecen una conectividad inalámbrica sólida y perfecta para disfrutar de una experiencia auditiva realmente envolvente sobre la marcha. Nunca te preocupes por el lag y las caídas de llamadas. -Certificación IPX5: Diseñados para su estilo de vida activo. Estos tapones son IPX 5 y resisten el sudor. El diseño ergonómico proporciona lo último en comodidad para su estilo de vida activo, como correr, trotar, ciclismo, conducción, camping, senderismo, fitness y otros deportes al aire libre. -Dual Connect: Los FreePods pueden conectarse a dos dispositivos al mismo tiempo: escuchas música en el portátil y luego cambias al teléfono cuando recibes una llamada. -Tecnología Epair: Con esta tecnología de desarrollo propio, puedes cargar los auriculares directamente con un adaptador de cargador PD, o simplemente introducirlos en tus teléfonos Android para cargarlos. Especificaciones: Con micrófono: SíTipo inalámbrico: bluetoothResistente al agua: SíControl de volumen: SíDistorsión armónica total: 0.02%Soporta tarjeta de memoria: NoEstilo: Montado en el cuelloSensibilidad: 85dBResistencia: 32ΩProtocolo: A2DP/AVRCP/HSP/HFPTiempo de reproducción: 30 horasNúmero de controladores: 2Modelo: FreePodsSalida máx.: 5mWTipo de imán: NeodimioRango de impedancia: hasta 32 ΩMaterial de las almohadillas de los auriculares: SiliconaRango de respuesta en frecuencia: 20 - 20000HzTipo de orejeras: SelladoDiámetro del Driver: 13mmBotón de control: SíComunicación: True WirelessCódecs: Apt-X, sbcMétodo de carga: CableTiempo de carga: 2,5 horasCertificación: RoHS, CE, FCCVersión Bluetooth: V5.2Cancelación de ruido: Pasiva Contenido del paquete: 1 x Auriculares Freepods1 x Manual del usuario1 x Cable de carga1 x Adaptador USB Tipo-C
-  Updated: 2025-06-22T07:51:44Z
+  Updated: 2025-10-12T10:12:44Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -1374,7 +1374,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/Freepods_Auriculares_Inalambricos_Bluetooth_con_Tecnologia_Epair_-_Hifi_Media_Store-972694.jpg?v=1719013912
     Price: 42,99 € EUR
 - [APRO8 Earbuds TWS with Mic and Power Display on Case](https://hifimediastore.com/products/apro8-earbuds-tws-with-mic-and-power-display-on-case): 【Type-C fast charging】Bluetooth earbuds support Type-C data cable, providing you with faster and more stable wired charging. Fast charging in one hour, providing product endurance. 【Hi-Fi Stereo】Supported by a powerful 13mm speaker driver and semi-in-ear acoustic structure, dual Bluetooth 5.0 wireless earbuds provide wonderful sound in your ears with mellow bass and clear treble. You will feel like an immersive concert. 【One-key control for safe fit】The ergonomic semi-in-ear design is adopted, and each earplug weighs only 3.5g, bringing you a stable and comfortable wearing experience. Through the touch buttons on the wireless headset, you can freely switch songs, answer/reject calls, and activate Siri, which is very suitable for exercise, home office, and running. 【IPX5 waterproof, comfortable to wear】This Bluetooth headset adopts an ergonomic semi-in-ear design, stable and light (only 4 grams). The sealed shell and nano-coating can block sweat and rain, making earplugs an ideal choice for outdoor sports or gyms. Specifications: With Microphone: Yes Wireless Type: bluetooth Waterproof: Yes Volume Control: Yes Vocalism Principle: Dynamic Total Harmonic Distortion: 0.02% Support Memory Card: No Style: Earbuds Sensitivity: 98dB Number Of Drivers: 2 Model Number: APRO8 Max Output: 5mW Magnet Type: Neodymium Impedance Range: up to 32 Ω Headphone Pads Material: Other Frequency Response Range: 20 - 20000Hz Features: Google Assistant Support Earcups Type: Semi-open Driver Diameter: 13mm Control Button: Yes Connectors: Type c Communication: True Wireless Codecs: sbc Codecs: Apt-X Codecs: AAC Charging Method: Charging case Certification: FCC Certification: CE Certification: RoHS Bluetooth Version: 5.1 Active Noise-Cancellation: No Package List: 1 x APRO8 TWS Earbuds 1 x Charging Cable 1 x User Manual 1 x Charging case
-  Updated: 2025-06-22T07:51:44Z
+  Updated: 2025-10-12T10:12:44Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -1396,7 +1396,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/APRO8_Earbuds_TWS_with_Mic_and_Power_Display_on_Case_-_Hifi_Media_Store-968011.jpg?v=1719003266
     Price: 32,99 € EUR
 - [GB-S05 - Auriculares Inalámbricos con Banda para el Cuello](https://hifimediastore.com/products/wireless-earbuds-with-neckband-model-gb-s05-with-microphone): -♫Batería de 7 horas de excelente duración: El GB-S05 tiene una potente batería de 165 mAh, hasta 7 horas de conversación continua, 7 horas de música, 500 de tiempo de espera y solo necesita alrededor de 2,5 horas para cargarse por completo. -♫Conectividad Bluetooth Avanzada V4.2: Bluetooth V4.2 proporciona una compatibilidad más rápida, estable y amplia con teléfonos inteligentes, tabletas, portátiles y reproductores de MP3 iOS y Android. También se puede emparejar fácilmente con dos dispositivos Bluetooth a la vez. -♫Alta definición y sonido estéreo: El GB-S05 tiene micrófonos con cancelación de ruido CVC6.0, que pueden reducir los ruidos y mejorar la claridad del sonido para llamadas telefónicas y música. Disfruta de la libertad de las llamadas móviles inalámbricas y de la música mientras conduces, corres y trabajas. -♫Diseño ideal para hacer ejercicio: Estos auriculares Bluetooth brindan flexibilidad, portabilidad y durabilidad adicionales al hacer ejercicio. ¡Nunca tendrás que preocuparte de que estos auriculares se caigan! No hay dolor por el uso prolongado. Adecuado para gimnasio, hacer ejercicio y correr. Especificaciones: Con micrófono: SíTipo de conexión inalámbrica: bluetoothResistente al agua: SíControl de volumen: SíPrincipio de vocalidad: DinámicaDistorsión armónica total: 0.02%Soporta tarjeta de memoria: NoEstilo: In-earEstilo: Auriculares Bluetooth inalámbricos magnéticosTiempo en espera: 500 horasSensibilidad: 85dBResistencia: 32ΩReproducción: Hasta 10 horas de bateríaNúmero de Drivers: 2Modelo: GB-S05Salida máx.: 50mWTipo de imán: NeodimioInalámbrico: SíGama de impedancias: hasta 32 ΩMaterial de las almohadillas de los auriculares: SiliconaRango de respuesta de frecuencia: 50 - 200000Hz Tipo de orejeras: SelladoDiámetro del Driver: 10mmBotón de control: SíComunicación: inalámbricaCódecs: AAC, sbc, Apt-XMétodo de carga: CableCertification: RoHS, FCC, CEVersión Bluetooth: 4.2Capacidad de la batería: batería de litio de 165 mAhCancelación de ruido: No Contenido del paquete: 1 x Auriculares GB-S051 x Cable de carga1 x Juego de almohadillas sustituibles1 x Manual del usuario
-  Updated: 2025-06-22T07:51:44Z
+  Updated: 2025-10-12T10:12:44Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -1414,7 +1414,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/GB-S05_-_Auriculares_Inalambricos_con_Banda_para_el_Cuello_-_Hifi_Media_Store-973538.jpg?v=1719015268
     Price: 33,99 € EUR
 - [AH70 - Auriculares Intraurales TWS](https://hifimediastore.com/products/ah70-tws-earbuds-tap-control): -Bluetooth 5.0 y fácil de emparejar: Con la tecnología Bluetooth V5.0 más avanzada, asegura tu gran experiencia con una transmisión rápida, estable y eficiente. Levanta 2 auriculares del estuche de carga, se conectarán entre sí automáticamente y luego, en solo un paso, configura fácilmente el Bluetooth del teléfono móvil para emparejar los auriculares. -Indicador de potencia real: Diseño de pantalla LED separada por batería de auriculares Bluetooth L/R, mostrará cuánta batería queda en la base de carga. Al colocarlo en el estuche, podrá saber cuándo es el mejor momento para cargar. -Cómodo y estable: Diseñado ergonómicamente para adaptarse cómodamente a tus oídos para un estilo de vida activo. La distancia de transmisión más larga puede alcanzar los 10 m. Su alta resistencia al agua lo hace perfecto para correr, ir al gimnasio, hacer senderismo, etc. -Hasta 12 horas de reproducción: Los auriculares ofrecen aproximadamente 3 horas de música continua con una sola carga completa, con una carga completa de 3 a 4 veces mediante el estuche de carga portátil de 300 mAh. -Sonido superior y llamadas nítidas: Con componentes acústicos estéreo Hi-Fi avanzados, estos auriculares Bluetooth producen graves potentes y agudos nítidos que te brindan una excelente experiencia auditiva. Cada auricular con micrófono HD incorporado te garantiza disfrutar de llamadas de voz con manos libres súper nítidas. Especificaciones: Con micrófono: SíTipo de conexión inalámbrica: bluetooth Resistente al agua: SíControl de volumen: SíTiempo total de funcionamiento: 36h Distorsión armónica total: 0.02% Soporta tarjeta de memoria: No Estilo: Auriculares intrauralesSensibilidad: 103dB Resistencia: 32Ω Número de Drivers: 2Modelo: AH-70 Salida máx.: 2.5mW Tipo de imán: NeodimioGama de impedancias: hasta 32 ΩMaterial de las almohadillas de los auriculares: SiliconaCarga completamente los auriculares: 1 horaCarga completa de la funda: 1 horaRango de respuesta en frecuencia: 20 - 20000Hz Tipo de orejeras: SemiabiertoCapacidad de los auriculares: 35mAh * 2 Diámetro del Driver: 10mm Conectores: Tipo CComunicación: True Wireless Códecs: AAC, Qualcomm Apt-X, SBCMétodo de carga: Estuche de cargaTensión limitada de carga: 3.7V Batería del Estuche de Carga: 300mAh Certification: RoHS, FCC, CEVersión Bluetooth: 5.0 Alcance Bluetooth: 10M / 33 Pies Protocolo Bluetooth: HSP, HFP, AVRCP, A2DP Frecuencia Bluetooth: 2.402GHz-2.480GHz Cancelación activa del ruido: No Contenido del paquete: 1 x AH-70 Auriculares TWS1 x Manual del usuario1 x Juego de almohadillas sustituibles1 x Cable de carga1 x Estuche de carga
-  Updated: 2025-06-22T07:51:45Z
+  Updated: 2025-10-12T10:12:45Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -1432,14 +1432,14 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/AH70_-_Auriculares_Intraurales_TWS_-_Hifi_Media_Store-964475.jpg?v=1718995346
     Price: 44,99 € EUR
 - [GB-S08 Bone Conduction Headphones Wireless with Microphone](https://hifimediastore.com/products/gb-s08-bone-conduction-headphones-wireless-with-microphone): 【Latest Bone Conduction Headphones】- The sound is conveyed through the vibration of the earphones and transmitted to your inner ear through the cheekbone. Fully protect your ear canal from the discomfort caused by the squeezing of the earplugs. The open-ear design can help you always pay attention to the surrounding environment and avoid danger while enjoying music. 【Voice assistant function & microphone】- The intelligent voice assistant function can bring great convenience when related functions (such as Siri) are turned on on the mobile phone, and further bring a good experience and safety to the user. At the same time, the built-in microphone can be used for calls. ⚡【Bluetooth 5.0 Stability and Battery Life】- The latest Bluetooth 5.0 brings strong connection speed and stability,and provides the best support for sports.Built-in 150mAh large lithium battery.It only takes 1.5 hours to fully charge,the standby time can reach 10 days, and the playback time can reach 8 hours or more. Suitable for long time outdoor or indoor activities. 【Sweat-proof and Rain-proof Design】- Ergonomic design to ensure the comfort of your exercise.IP55 waterproof can resist light rain and sweat produced by sports.Skin-friendly silicone creates a balanced body, making the headphones lightweight and durable. Specifications: With Microphone: Yes Wireless Type: bluetooth Waterproof: Yes Volume Control: Yes Vocalism Principle: Bone Conduction Total Harmonic Distortion: 0.02% Support Memory Card: No Style: On-ear Sensitivity: 98dB Playback Time: 8 Hours Number Of Drivers: 2 Model Number: GB-S08 Max Output: 10mW Magnet Type: Neodymium Line Length: 0m Impedance Range: up to 32 Ω Headphone Pads Material: Other Frequency Response Range: 50 - 200000Hz Earcups Type: Open-back Driver Diameter: 10mm Control Button: Yes Connectors: USB Communication: wireless Codecs: Apt-X Charging Method: Cable Certification: FCC Certification: CE Certification: RoHS Bluetooth Version: 5.0 Battery capacity: 3.7 V/150mAh Noise-Cancellation: CVC Noise Reduction Package List: 1 x GB-S08 Bone Conduction Headphones 1 x User Manual 1 x Charging Cable
-  Updated: 2025-09-08T04:59:23Z
+  Updated: 2025-10-12T10:12:45Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/GB-S08_Bone_Conduction_Headphones_Wireless_with_Microphone_-_Hifi_Media_Store-973573.jpg?v=1719015324
   Price: 38,99 € EUR
 - [H9 Bluetooth Mechanical Gaming Earbuds](https://hifimediastore.com/products/h9-bluetooth-mechanical-gaming-earbuds): Function: 1. Long battery life high quality,ENC call noise reduction 2. Multi-purpose use: open beer cover, screw screw, detect outdoor temperature 3. 45ms game ultra-low latency, smart fingerprint touch, multi-color RGBd ambient light, three true electric display Description: 1. Bluetooth stereo, support connecting to Bluetooth devices to play music 2. Bluetooth call, support Bluetooth connection for high-definition calls 3. Power indicator, support iOS system headset power indicator 4. Dual-point connection, support to connect two devices at the same time, one-to-two function. Specifications: With Microphone: Yes Wireless Type: bluetooth Waterproof: Yes Volume Control: Yes Vocalism Principle: Other Total Harmonic Distortion: 2% Three-mode switching:: music, games, movies Support Memory Card: No Style: In-ear Sensitivity: 102dB Resistance: 32Ω Plug Type: Line Type Number Of Drivers: 2 Model: H9 tws earbuds Max Output: 1mW Impedance Range: up to 32 Ω Headphone Pads Material: Silicone Function: ENC call noise reduction,HIFI Stereo,Zinc alloy body,open beer cover, screw, detect outdoor temperature,three true electric display,multi-color RGB ambient light,45ms game ultra-low latency, smart fingerprint touch,Long battery life, high quality Frequency Response Range: 20 - 20000Hz Earcups Type: Semi-open Driver Diameter: 9mm Control Button: No Connectors: Type c Communication: wireless Codecs: AAC Charging Method: Charging case Certification: CE Bluetooth Version: 5.3 Noise-Cancellation: ENC Call Noise Cancellation Package Content: 1 x H9 TWS Earbuds 1 x User Manual 1 x Charging case 1 x USB Type-C Adapter
-  Updated: 2025-06-22T07:51:45Z
+  Updated: 2025-10-12T10:12:45Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -1453,7 +1453,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/H9_Bluetooth_Mechanical_Gaming_Earbuds_-_Hifi_Media_Store-975422.jpg?v=1719018185
     Price: 41,99 € EUR
 - [N35X Bluetooth Gaming Earbuds](https://hifimediastore.com/products/n35x-bluetooth-gaming-earbuds): Tips： Please charge the headset for half an hour after receiving it. If you have any questions, please contact the store manager, do not arbitrarily raise disputes, thank you for your cooperation! Left ear: Volume up (triple click) Right ear: Volume down (triple click) Left ear: previous song (double click) Right ear: next track (double click) Long press for 2 seconds: wake up the voice assistant One touch: Pause Play Double tap: reject call/hang up Toggle Game Mode: Four Clicks Specifications: With Microphone: Yes Waterproof: No Volume Control: Yes Total Harmonic Distortion: 0.1% Style: In-ear Sensitivity: 100dB Resistance: 32Ω Number Of Drivers: 2 Model Number: N35X TWS Max Output: 2mW Magnet Type: Other Wireless: Yes Impedance Range: up to 32 Ω Frequency Response Range: 20 - 20000Hz Earcups Type: Semi-open Driver Diameter: 6mm Connectors: Type c Communication: wireless Codecs: Apt-X Charging Method: Charging case Certification: CE Bluetooth Version: 5.0 Noise-Cancellation: Passive Package Content: 1 x N35X Earbuds 1 x User Manual 1 x Charging case 1 x Charging Cable
-  Updated: 2025-06-22T07:51:45Z
+  Updated: 2025-10-12T10:12:45Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -1471,7 +1471,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/N35X_Bluetooth_Gaming_Earbuds_-_Hifi_Media_Store-987524.jpg?v=1719038352
     Price: 29,99 € EUR
 - [YX-06 Wireless Transparent Earbuds](https://hifimediastore.com/products/yx-06-wireless-transparent-earbuds): Features: 1. Two-way transmission left and right earphones can be used separately. Stable connection support Bluetooth 5.3. Committed to creating audio and video. Synchronization almost no delay. 2. YX-06 earphones and charging compartment are designed with translucent material. Can clearly see the internal circuit system. The small earphones are like a futuristic space full of mystery. Makes you want to explore. Specifications: With Microphone: Yes Wireless Type: bluetooth Waterproof: Yes Volume Control: Yes Vocalism Principle: Balanced Armature Total Harmonic Distortion: 0.1% Style: In-ear Sensitivity: 123dB Resistance: 33Ω Number Of Drivers: 2 Max Output: 33mW Impedance Range: up to 32 Ω Headphone Pads Material: Other Frequency Response Range: 20 - 20000Hz Earcups Type: Semi-open Control Button: Yes Charging Method: Charging case Certification: CE Bluetooth Version: 5.1 Noise-Cancellation: ENC Noise Reduction Call Package List: 1 x YX-06 Earbuds 1 x User Manual 1 x Charging Case 1 x Charging Cable
-  Updated: 2025-06-22T07:51:45Z
+  Updated: 2025-10-12T10:12:46Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -1489,7 +1489,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/YX-06_Wireless_Transparent_Earbuds_-_Hifi_Media_Store-1004532.jpg?v=1719121317
     Price: 36,99 € EUR
 - [V9-TWS Earbuds with LED Display and Effect Mirror.](https://hifimediastore.com/products/v9-tws-earbuds-with-led-display-and-effect-mirror): Description: The wireless earbuds has a mirror screen display, is waterproof and sweatproof, has long battery life and high-definition calls, with HiFi sound effects. Smart connection: The earbuds is taken out of the charging compartment, automatically turned on and matched, and automatically connected back to the mobile phone Mirror design: Adopts mirror digital display, metal spray paint design, exquisite and elegant appearance. Long-lasting battery life: Built-in large-capacity lithium battery, which is ready to charge, suitable for a variety of scenarios, so that you can travel without worry. No delay: The wireless headset adopts the V5.2 upgrade chip, the transmission is more stable, the connection is simpler, and the conversation and listening to music are more fun. HiFi high-fidelity sound effect: Dynamic unit design, good audio analysis, no distortion of details, allowing you to have an excellent listening experience. Voice assistant: Long press for 2 seconds to call the voice assistant, which is convenient and quick to talk with your personal assistant. Check the weather, ask for navigation, make phone calls, etc. Specifications: With Microphone: Yes Wireless Type: bluetooth Waterproof: Yes Volume Control: Yes Vocalism Principle: Balanced Armature Total Harmonic Distortion: 1% Support Memory Card: No Style: In-ear Resistance: 0Ω Number Of Drivers: 2 Magnet Type: Other Is wireless: Yes Impedance Range: up to 32 Ω Headphone Pads Material: Other Frequency Response Range: 20 - 20000Hz Earcups Type: Sealed Control Button: Yes Communication: wireless Charging Method: Charging case Certification: CE Active Noise-Cancellation: Passive Wireless version: V5.2 Working distance: connect within 10 meters Single ear capacity: 50 mAh Charging bay capacity: 2000 mAh Automatic boot: support Automatic pairing: support Endurance time: accumulated about 220 hours (need to be used in conjunction with the charging bay) Talk time: about 180 hours accumulated (need to be used with charging bay) Charging bay input current: 5V 1A Material: IPX5 grade waterproof material Control method: touch operation Package Included: 1 x Pair Wireless Earbuds 1 x Charging Compartment 1 x User Manual Notes: 1. Please allow 0-1 inch error due to manual measurement. Thanks for your understanding. 2. Monitors are not calibrated same, item color displayed in photos may be showing slightly different from real object.
-  Updated: 2025-06-22T07:51:46Z
+  Updated: 2025-10-12T10:12:46Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -1503,7 +1503,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/V9-TWS_Earbuds_with_LED_Display_and_Effect_Mirror._-_Hifi_Media_Store-998750.jpg?v=1719084271
     Price: 29,99 € EUR
 - [M33 TWS Earbuds](https://hifimediastore.com/products/m33-tws-earbuds): Specifications: With Microphone: Yes Wireless Type: bluetooth Waterproof: Yes Volume Control: Yes Support Memory Card: No Style: In-ear Number Of Drivers: 2 Model: M33 Max Output: 1mW Microphone Sensitivity: -42dB±3dB Impedance Range: up to 32 Ω ±15% Frequency Response Range: 20 - 20000Hz Earcups Type: Semi-open Driver Diameter: 11mm Control Button: Yes Communication: wireless Charging Method: Charging case Certification: CE Bluetooth Version: 5.1 Noise-Cancellation: Passive Package List: 1 x User Manual 1 x Charging Case 1 x Charging Cable 1 x M33 TWS Earbuds
-  Updated: 2025-08-16T23:59:58Z
+  Updated: 2025-10-12T10:12:46Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -1517,7 +1517,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/M33_TWS_Earbuds_-_Hifi_Media_Store-984435.jpg?v=1719031658
     Price: 33,99 € EUR
 - [M2 Mech TWS Gaming Earbuds With Led Display](https://hifimediastore.com/products/m2-mech-tws-gaming-earbuds-with-led-display): Specifications: With Microphone: Yes Waterproof: Yes Volume Control: Yes Vocalism Principle: Dynamic Total Harmonic Distortion: 0% Support Memory Card: No Style: In-ear Number Of Drivers: 2 Model Number: fone bluetooth Max Output: 40mW Magnet Type: Other Impedance Range: up to 32 Ω Headphone Pads Material: Other Frequency Response Range: 20 - 20000Hz Earcups Type: Semi-open Control Button: Yes Communication: wireless Charging Method: Charging case Bluetooth Version: 5.0 Active Noise-Cancellation: No Package Included: 2 X Earbuds (left and right earphones) 1 X Charging compartment 1 X Instructions 1 x User Manual Note: When purchasing the tws Bluetooth earbuds, please read the following instructions: Due to long-term transportation, the power of the tws earbuds will be exhausted. You will not be able to use the headset when you receive the package. It may be powered off. The first thing to do is to charge the headset box for 30 minutes. Very important. Thank you!
-  Updated: 2025-06-22T07:51:46Z
+  Updated: 2025-10-12T10:12:47Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -1535,7 +1535,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/M2_Mech_TWS_Gaming_Earbuds_With_Led_Display_-_Hifi_Media_Store-984163.jpg?v=1719031241
     Price: 29,99 € EUR
 - [M32 TWS Earbuds](https://hifimediastore.com/products/m32-tws-earbuds): Specifications: With Microphone: Yes Waterproof: Yes Volume Control: Yes Total Harmonic Distortion: 0.1% Style: In-ear Resistance: 32Ω Number Of Drivers: 2 Max Output: 123mW Magnet Type: Other Wireless: Yes Headphone Pads Material: Other Frequency Response Range: 20 - 2000Hz Earcups Type: Semi-open Driver Diameter: 3mm Control Button: No Communication: wireless Codecs: AAC Charging Method: Charging case Certification: CE Bluetooth Version: 5.1 Noise-Cancellation: CVC 8.0 Package List: 1 x M32 Earbuds 1 x User Manual 1 x Charger 1 x Charging case
-  Updated: 2025-06-22T07:51:46Z
+  Updated: 2025-10-12T10:12:48Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -1572,7 +1572,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/H16_Auriculares_de_Conduccion_Osea_con_Microfono_Incorporado_-_Hifi_Media_Store-974848.jpg?v=1719017323
   Price: 118,99 € EUR
 - [M-1 Auriculares inalámbricos de conducción ósea](https://hifimediastore.com/products/m-1-bone-conduction-wireless-headphones): Características: 1. Bluetooth V5.0, compatible con la mayoría de los dispositivos Bluetooth y de menor consumo de energía. 2. El estuche de carga de 150 mAh puede cargar completamente 2 auriculares unas 15 veces y ofrecer más de 60 horas de música. 3. Con tecnología impermeable, ya no tendrás que preocuparte por el agua y el sudor. 4. 9mms unidades de doble accionamiento, disfrutar de 9D fuerte sonido de la música de graves profundos. 5. Función de control táctil popular, admite cambiar de canción, llamar por teléfono y llamar al asistente de voz. Especificaciones: Con micrófono: síTipo inalámbrico: bluetoothImpermeable: síControl de volumen: SíDistorsión armónica total: 1%Tiempo de conversación: alrededor de 3 a 5 horasTarjeta de memoria compatible: NoSensibilidad: 120 dBResistencia: 16ΩNúmero de conductores: 2Tiempo de música: alrededor de 3 a 5 horasModelo: auriculares de conducción ósea M-1Salida máxima: 1 mWTipo de imán: neodimioRango de impedancia: hasta 32 ΩMaterial de las almohadillas para auriculares: siliconaRango de respuesta de frecuencia: 20 - 24000 HzCaracterística: IPX5 resistente al aguaTipo de auriculares: semiabiertosDiámetro del controlador: 9 mmBotón de control: SíConectores: USBCódecs: AACVersión de Bluetooth: 5.0 Contenido del paquete: 1 x Auriculares Bluetooth1 x Cable de carga USB1 x Manual del usuario
-  Updated: 2025-06-22T07:51:47Z
+  Updated: 2025-10-12T10:12:48Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -1594,7 +1594,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/M-1_Auriculares_inalambricos_de_conduccion_osea_-_Hifi_Media_Store-983779.jpg?v=1719030635
     Price: 68,99 € EUR
 - [X10 Auriculares Bluetooth TWS](https://hifimediastore.com/products/x10-tws-bluetooth-earbuds): Especificaciones: Con micrófono: SíTipo inalámbrico: bluetoothResistente al agua: SíControl de volumen: SíPrincipio de vocalidad: DinámicoDistorsión armónica total: 1%Tiempo de conversación: unas 3-4 horasTarjeta de memoria compatible: NoEstilo: Auriculares IntrauralesSensibilidad: 120dBNúmero de controladores: 2Nombre: X10 Auriculares TWSDuración de la música: unas 3-4 horasSalida máx.: 1mWTipo de imán: NeodimioInalámbrico: SíRango de impedancia: hasta 32 ΩMaterial de las almohadillas de los auriculares: SiliconaRango de respuesta en frecuencia: 20 - 24000HzTipo de orejeras: SemiabiertoDiámetro del Driver: 9mmBotón de control: SíConectores: USBComunicación: True WirelessMétodo de carga: Estuche de cargaVersión Bluetooth: 5.0Cancelación activa del ruido: No Contenido del paquete: 1 x X10 Auriculares TWS1 x Manual del usuario1 x Estuche de carga1 x Cable de carga
-  Updated: 2025-06-22T07:51:47Z
+  Updated: 2025-10-12T10:12:48Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -1612,21 +1612,21 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/X10_Auriculares_Bluetooth_TWS_-_Hifi_Media_Store-999134.jpg?v=1719086366
     Price: 50,99 € EUR
 - [A6 Auriculares Deportivos con Banda para el Cuello](https://hifimediastore.com/products/earphones-sports-model-a6-with-neckband): Especificaciones: Con micrófono: SíTipo de conexión inalámbrica: bluetoothResistente al agua: SíControl de volumen: SíDistorsión armónica total: 1%Tarjeta de memoria compatible: NoEstilo: AuricularesSensibilidad: 90dBResistencia: 16ΩNúmero de controladores: 2Duración de la música: Alrededor de 3-4 horasModelo: A6 Auriculares inalámbricos con banda para el cuelloMax Output: 1mWTipo de imán: NeodimioRango de impedancia: hasta 32 ΩMaterial de las almohadillas de los auriculares: SiliconaRango de respuesta en frecuencia: 20 - 20000HzTipo de orejeras: Open-backDiámetro del Driver: 10mmBotón de control: SíConectores: USBComunicación: inalámbricaMétodo de carga: Estuche de cargaVersión Bluetooth: 5.0Cancelación de ruido: No Contenido del paquete: 1 x Manual del usuario1 x Estuche de carga1 x Cable de carga1 x Juego de almohadillas reemplazables1 x Auriculares A6
-  Updated: 2025-06-22T07:51:47Z
+  Updated: 2025-10-12T10:12:49Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/A6_Auriculares_Deportivos_con_Banda_para_el_Cuello_-_Hifi_Media_Store-964283.jpg?v=1718994924
   Price: 73,99 € EUR
 - [MD03 - Auriculares Deportivos Bluetooth con Gancho Para La Oreja](https://hifimediastore.com/products/md03-sports-bluetooth-earbuds-with-ear-hook): Especificaciones: Con micrófono: SíTipo de conexión inalámbrica: bluetoothResistente al agua: SíControl de volumen: SíPrincipio de vocalidad: DinámicaDistorsión armónica total: 1%Tiempo de conversación: unas 3-4 horasAdmite tarjeta de memoria: NoEstilo: AuricularesSensibilidad: 120dBResistencia: 16ΩNúmero de Drivers: 2Duración de la música: unas 3-4 horasSalida máx.: 1mWTipo de imán: NeodimioRango de impedancia: hasta 32 ΩMaterial de las almohadillas de los auriculares: SiliconaRango de respuesta en frecuencia: 20 - 24000HzTipo de orejeras: SemiabiertoDiámetro del Driver: 9mmBotón de control: SíConectores: USBComunicación: True WirelessMétodo de carga: Estuche de cargaVersión Bluetooth: 5.0Cancelación de ruido: No Contenido del paquete: 1 x Manual del usuario1 x Estuche de carga1 x Cable de carga1 x Juego de almohadillas sustituibles
-  Updated: 2025-06-22T07:51:47Z
+  Updated: 2025-10-12T10:12:49Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/MD03_-_Auriculares_Deportivos_Bluetooth_con_Gancho_Para_La_Oreja_-_Hifi_Media_Store-984920.jpg?v=1719032397
   Price: 51,99 € EUR
 - [AS9 Auriculares de conducción ósea](https://hifimediastore.com/products/as9-bone-conduction-earphone): Características: Descarga inalámbrica, imaginación sin límites, te permite experimentar fácilmente la belleza del TWS.Reproductor de música MP3 Sport con memoria de 16 GB (integrada).Reproductor mp3 USB deportivo V5.1 compatible con Bluetooth.Auriculares de audio estéreo IPX8 resistentes al agua.Reproductor MP3 con 5 horas de reproducción.Excelente calidad de sonido estéreo, compatible con audio sin pérdidas.Auriculares abiertos de conducción ósea. Especificaciones: Modelo: AS9Categoría de producto: auriculares de conducción óseaSistema de canales: estéreo de dos canalesModo de control: 3 botones de función físicaSolución compatible con Bluetooth: JL6956F V5.1Versión compatible con Bluetooth: Bluetooth v5.1Protocolo compatible con Bluetooth: a2dp\ avctp\ avdtp\ avrcp\ hfp\ spp\ smp\ att\ gap\ gatt\ rfcomm\ sdpFrecuencia de trabajo: 2402~2480MHzSensibilidad de recepción: -90dBmDistancia efectiva: dentro de 10 metrosPotencia máxima del auricular: 780MW 8 ±10%ΩTipo de amplificador de auriculares: tipo DRelación señal/ruido de audio: 80 dBRespuesta de frecuencia: 20 Hz-20 KHzBatería de polímero de litio incorporada: 3,7 V/160 mAHTiempo de música: aproximadamente 5 horas (80 % del volumen)Tiempo de conversación: aproximadamente 4 horas (80 % del volumen)Tiempo de espera (estado apagado): más de 12 mesesEstándar de entrada de carga: carga de prueba de contacto DC-5V/máximo 150mA±50mATiempo de carga: 1,5 horasVida útil de la batería: 500 veces (80% de la capacidad restante)Temperatura de trabajo: 0 ~ 40 ℃Temperatura de almacenamiento: -30~60 ℃Humedad de trabajo: 0%~85%Humedad de almacenamiento: 0%~90%Con micrófono: síTipo inalámbrico: bluetoothImpermeable: síControl de volumen: SíDistorsión armónica total: 1%Tarjeta de memoria compatible: NoEstilo: auricularesSensibilidad: 90 dBResistencia: 16ΩNúmero de conductores: 2Nombre: auricular Bluetooth deportivo de conducción óseaTiempo de música: alrededor de 3-4 horasNúmero de modelo: auriculares inalámbricosSalida máxima: 1 mWTipo de imán: neodimioInalámbrico: SíRango de impedancia: hasta 32 ΩMaterial de las almohadillas para auriculares: siliconaTipo de auriculares: semiabiertosDiámetro del controlador: 10 mmBotón de control: SíConectores: USBComunicación: inalámbricaMétodo de carga: estuche de cargaCancelación de ruido: pasiva Contenido del paquete: 1 x Auriculares de conducción ósea AS91 x Cable de carga USB1 x Bolsa de almacenamiento1 x Manual del usuario
-  Updated: 2025-06-22T07:51:47Z
+  Updated: 2025-10-12T10:12:50Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -1644,7 +1644,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/AS9_Auriculares_de_conduccion_osea_-_Hifi_Media_Store-968072.jpg?v=1719003408
     Price: 73,99 € EUR
 - [T20/T40 Auriculares Bluetooth TWS](https://hifimediastore.com/products/t20-t40-tws-bluetooth-earbuds): Características: 1. Bluetooth V5.1, compatible con la mayoría de dispositivos Bluetooth y de bajo consumo. 2. El estuche de carga de 400mAh puede cargar completamente 2 auriculares unas 5 veces, ofreciendo más de 20 horas de música. 3.Con la tecnología impermeable IPX5, ya no tendrás que preocuparte por el agua y el sudor. 4. Unidades de accionamiento dual de 10 mms, para disfrutar de un sonido musical de graves profundos y potentes en 3D. 5. Función de control de botón inteligente, admite cambiar de canción, llamar por teléfono y llamar al asistente de voz. 6. Interruptor intrauditivo + gancho para la oreja a voluntad. Especificaciones: Con micrófono: síTipo inalámbrico: bluetoothImpermeable: síControl de volumen: SíDistorsión armónica total: 1%Tarjeta de memoria compatible: NoEstilo: auricularesSensibilidad: 120 dBResistencia: 32ΩNúmero de conductores: 2Nombre: auricular Bluetooth deportivo de conducción óseaTiempo de música: alrededor de 3-4 horasModelo: auriculares inalámbricos T20/T40Salida máxima: 1 mWTipo de imán: neodimioRango de impedancia: hasta 32 ΩMaterial de las almohadillas para auriculares: siliconaRango de respuesta de frecuencia: 20 - 20000 HzCaracterística: modo BT5.1+MP3 (almacenamiento de 16 GB)Tipo de auriculares: selladoDiámetro del controlador: 10 mmBotón de control: SíConectores: USBComunicación: inalámbricaMétodo de carga: estuche de cargaVersión Bluetooth: 5.1Cancelación de ruido: Pasiva Contenido del paquete: 2 x T20/T40 Auriculares Bluetooth (izquierdo y derecho)1 x Estuche de carga1 x Cable USB1 x Manual del usuario
-  Updated: 2025-09-14T00:19:50Z
+  Updated: 2025-10-12T10:12:50Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -1708,7 +1708,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/P190_Pro_Wireless_Earbuds_-_Hifi_Media_Store-990018.jpg?v=1719045914
     Price: 65,99 € EUR
 - [HE08 Earbuds with Neckband](https://hifimediastore.com/products/he08-earbuds-with-neckband): Specifications: With Microphone: Yes Wireless Type: bluetooth Waterproof: Yes Volume Control: Yes Vocalism Principle: Dynamic Style: Neckband Number Of Drivers: 4 Model Number: HE08 Max Output: 1mW Wireless: Yes Frequency Response Range: 20 - 20000Hz Features: With Microphone Earcups Type: Semi-open Driver Diameter: 10mm Control Button: Yes Communication: wireless Charging Method: Cable Certification: CE Bluetooth Version: 5.0 Noise-Cancellation: Passive Package Content: 1 x Earbuds 1 x User Manual 1 x Charging Cable
-  Updated: 2025-08-30T16:10:42Z
+  Updated: 2025-10-12T10:12:50Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -1726,7 +1726,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/HE08_Earbuds_with_Neckband_-_Hifi_Media_Store-975631.jpg?v=1719018498
     Price: 25,99 € EUR
 - [LP7 - Auriculares Intraurales TWS](https://hifimediastore.com/products/lp7-tws-earbuds-with-intelligent-noise-reduction): Especificaciones: Con micrófono: SíTipo de conexión inalámbrica: bluetoothControl de volumen: SíEstilo: In-earSensibilidad: 32dBResistencia: 32ΩNúmero de Drivers: 2Modelo: LP7Salida máx.: 20mWInalámbrico: SíRango de impedancia: hasta 32 ΩMaterial de las almohadillas de los auriculares: SiliconaRango de respuesta en frecuencia: 20 - 20000HzTipo de orejeras: SemiabiertoDiámetro del Driver: 13mmBotón de control: SíConectores: Tipo CComunicación: True WirelessMétodo de carga: Estuche de cargaCertificación: CEVersión Bluetooth: 5.0Cancelación de ruido: No Contenido del paquete: 1 x LP7 Auriculares1 x Manual del usuario1 x Estuche de carga1 x Cable de carga1 x Juego de almohadillas sustituibles
-  Updated: 2025-08-05T11:27:17Z
+  Updated: 2025-10-12T10:12:51Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -1756,7 +1756,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/LP7_-_Auriculares_Intraurales_TWS_-_Hifi_Media_Store-983425.jpg?v=1719030067
     Price: 42,99 € EUR
 - [X4 Bone Conduction Bluetooth Earphone](https://hifimediastore.com/products/x4-bone-conduction-bluetooth-earphone): Specifications: With Microphone: Yes Wireless Type: bluetooth Waterproof: Yes Volume Control: No Support Memory Card: No Style: Ear Hook Sensitivity: 42dB Resistance: 30Ω Model Number: X4 Magnet Type: Other Impedance Range: up to 32 Ω Frequency Response Range: 20 - 20000Hz Earcups Type: Sealed Control Button: Yes Connectors: USB Charging Method: Cable Bluetooth Version: 5.0 Battery: 150mah Noise-Cancellation: No Package Content: 1 x User Manual 1 x Charging Cable 1 x X4 Earphone
-  Updated: 2025-06-22T07:51:48Z
+  Updated: 2025-10-12T10:12:51Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -1770,7 +1770,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/X4_Bone_Conduction_Bluetooth_Earphone_-_Hifi_Media_Store-999597.jpg?v=1719089092
     Price: 41,99 € EUR
 - [X5 Wireless Bone Conduction Earphones](https://hifimediastore.com/products/x5-wireless-bone-conduction-earphones): Specifications: With Microphone: Yes Wireless Type: bluetooth Waterproof: Yes Volume Control: Yes Vocalism Principle: Bone Conduction Support Memory Card: No Style: Ear Hook Plug Type: L Bending Play Time: About 6 Hours Model: X5 Magnet Type: Other Wireless: Yes Headphone Pads Material: Silicone Earcups Type: Sealed Control Button: Yes Connectors: Balanced Connection Communication: wireless Charging Time: About 2 Hours Charging Method: Cable Certification: CE Built in storage: 8GB Bluetooth Version: 5.0 Battery Capacity: 135mAh Active Noise-Cancellation: ENC Call Noise Reduction Package List: 1 x X5 Bone Conduction Earphone 1 x User Manual 1 x Charging Cable 1 x Replaceable Pads Set
-  Updated: 2025-08-21T06:37:18Z
+  Updated: 2025-10-12T10:12:51Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -1784,7 +1784,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/X5_Wireless_Bone_Conduction_Earphones_-_Hifi_Media_Store-999618.jpg?v=1719089294
     Price: 70,99 € EUR
 - [XT90 Auriculares Bluetooth con Cancelación Pasiva del Ruido](https://hifimediastore.com/products/xt90-bluetooth-earbuds-with-passive-noise-cancelling): Características: 1. Bluetooth V5.0, compatible con la mayoría de los dispositivos Bluetooth y de menor consumo de energía. 2.El estuche de carga de 300mAh puede cargar completamente 2 auriculares unas 5 veces, ofreciendo más de 24 horas de música. 3.Con tecnología impermeable, ya no tendrás que preocuparte por el agua y el sudor. 4.10mms unidades de accionamiento dual, disfrutar de un fuerte sonido 9D de la música con graves profundos. 5. Función de control táctil, admite cambiar de canción, llamar por teléfono y llamar al asistente de voz. Especificaciones: Con micrófono: síTipo inalámbrico: bluetoothImpermeable: síControl de volumen: SíCarga rápida tipo C: 1 hora para carga completaDistorsión armónica total: 1%Tarjeta de memoria compatible: NoAplicación de soporte: NoEstilo: auricularesTiempo en espera: hasta 48 horasSensibilidad: 92 dBResistencia: 32ΩNúmero de conductores: 2Nombre: auriculares inalámbricos Bluetooth XT90Tiempo de música: alrededor de 3-4 horasSalida máxima: 10 mWTipo de imán: neodimioRango de impedancia: hasta 32 ΩRango de respuesta de frecuencia: 20 - 20000 HzTipo de auriculares: selladoDiámetro del controlador: 10 mmBotón de control: SíConectores: Tipo CCódecs: AAC, sbcMétodo de carga: estuche de cargaCapacidad del estuche de carga: estuche de carga de 300 mAhCertificación: CEVersión de Bluetooth: 5.0Cancelación de ruido: Pasiva Contenido del paquete: 2 x Auriculares Bluetooth (izquierdo y derecho)1 x Estuche de carga1 x USB Cable1 x Manual del usuario
-  Updated: 2025-06-22T07:51:49Z
+  Updated: 2025-10-12T10:12:52Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -1798,7 +1798,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/XT90_Auriculares_Bluetooth_con_Cancelacion_Pasiva_del_Ruido_-_Hifi_Media_Store-1004379.jpg?v=1719120094
     Price: 27,99 € EUR
 - [XT85 Auriculares Intraurales Gaming](https://hifimediastore.com/products/xt85-gaming-earbuds-with-passive-noise-reduction): Características: 1. Bluetooth V5.1, soporta la mayoría de dispositivos bluetooth y consume menos energía. 2.El estuche de carga de 300mAh puede cargar completamente 2 auriculares unas 5 veces, ofreciendo más de 24 horas de música. 3. Con tecnología impermeable, ya no tendrás que preocuparte por el agua ni por el sudor. 4.10mms unidades de accionamiento dual, disfruta de un fuerte sonido 9D de la música con graves profundos 5. Función de control táctil, admite cambiar de canción, llamar por teléfono y llamar al asistente de voz. Especificaciones: Con micrófono: SíTipo inalámbrico: bluetoothResistente al agua: SíControl de volumen: SíPrincipio de vocalidad: DinámicoCarga rápida tipo C: 1.5H Para carga completaDistorsión armónica total: 1%Soporta tarjeta de memoria: NoEstilo: Auriculares IntrauralesTiempo en espera: hasta 48 horasSensibilidad: 92dBResistencia: 32ΩNúmero de controladores: 2Nombre: XT85Duración de la música: unas 3-4 horasSalida máx.: 10mWTipo de imán: NeodimioInalámbrico: SíRango de impedancia: hasta 32 ΩRango de respuesta en frecuencia: 20 - 20000HzTipo de orejeras: SelladoDiámetro del Driver: 10mmBotón de control: SíConectores: Tipo CCódecs: AAC, sbcMétodo de carga: Estuche de cargaCapacidad del estuche de carga: 300 mAhCertificación: CEVersión Bluetooth: 5.1Cancelación de ruido: No Contenido del paquete: 1 x Auriculares Bluetooth1 x Estuche de carga1 x Cable USB1 x Manual del usuario
-  Updated: 2025-06-22T07:51:49Z
+  Updated: 2025-10-12T10:12:52Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -1812,7 +1812,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/XT85_Auriculares_Intraurales_Gaming_-_Hifi_Media_Store-1004302.jpg?v=1719119254
     Price: 36,99 € EUR
 - [XT82 Auriculares Intraurales Gaming Bluetooth](https://hifimediastore.com/products/xt82-bluetooth-gaming-earbuds): Características: 1. Bluetooth V5.1, compatible con la mayoría de los dispositivos Bluetooth y de menor consumo de energía. 2.El estuche de carga de 300 mAh puede cargar completamente 2 auriculares aproximadamente 5 veces y ofrece más tiempo de música las 24 horas. 3.Con tecnología impermeable, ya no tendrás que preocuparte por el agua y el sudor. 4.10mms unidades de accionamiento dual, disfrutar de un fuerte sonido 9D de la música con graves profundos 5. Función de control táctil, admite cambiar de canción, llamar por teléfono y llamar al asistente de voz. Especificaciones: Con micrófono: síTipo inalámbrico: bluetoothImpermeable: síControl de volumen: SíCarga rápida tipo C: 1 hora para carga completaDistorsión armónica total: 1%Estilo: auricularesTiempo en espera: hasta 48 horasSensibilidad: 92 dBResistencia: 32ΩNúmero de conductores: 2Nombre: auriculares inalámbricos Bluetooth XT82Tiempo de música: alrededor de 3-4 horasSalida máxima: 10 mWTipo de imán: neodimioInalámbrico: SíRango de impedancia: hasta 32 ΩMaterial de las almohadillas para auriculares: otroRango de respuesta de frecuencia: 20 - 20000 HzTipo de auriculares: selladoDiámetro del controlador: 10 mmBotón de control: SíConectores: tipo cComunicación: inalámbricaCódecs: AAC,sbcMétodo de carga: estuche de cargaCapacidad del estuche de carga: estuche de carga de 300 mAhCertificación: CEVersión de Bluetooth: 5.1Cancelación de ruido: Pasiva Contenido del paquete: 1 x Auriculares Intraurales Bluetooth1 x Estuche de carga1 x Cable USB1 x Manual del usuario
-  Updated: 2025-06-22T07:51:49Z
+  Updated: 2025-10-12T10:12:52Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -1826,7 +1826,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/XT82_Auriculares_Intraurales_Gaming_Bluetooth_-_Hifi_Media_Store-1004245.jpg?v=1719118737
     Price: 38,99 € EUR
 - [XT95 Pro TWS Bluetooth Earbuds with Passive Noise Reduction](https://hifimediastore.com/products/xt95-pro-tws-bluetooth-earbuds-with-passive-noise-reduction): Features: 1. Bluetooth V5.1, support most of bluetooth devices and lower power consumption 2. 300mAh charging case can full charge 2 earphones around 5 times, offer more 24 Hours music time 3. With waterproof technology, no need to worry about water and sweat anymore 4. 10mms dual drive units, enjoy 9D strong deep bass music sound 5. Popular touch control function, support switch songs, phone call and call voice assistant. Specifications: With Microphone: Yes Wireless Type: bluetooth Waterproof: Yes Volume Control: Yes Type-c fast charge: 1.5H For Full Charging Total Harmonic Distortion: 1% Style: Earbuds Standby Time: Up to 48 Hours Sensitivity: 92dB Resistance: 32Ω Number Of Drivers: 2 Name: XT95 Pro Wireless Bluetooth Earbuds Music Time: Around 3-4 Hours Max Output: 10mW Magnet Type: Neodymium Impedance Range: up to 32 Ω Headphone Pads Material: Other Frequency Response Range: 20 - 20000Hz Earcups Type: Sealed Driver Diameter: 13mm Control Button: Yes Connectors: Type c Communication: wireless Codecs: AAC,sbc Charging Method: Charging case Charging Case Capacity: 300mAh Charging Case Certification: CE Bluetooth Version: 5.1 Noise-Cancellation: Passive Package List: 2 x Bluetooth Earbuds (Left & Right) 1 x Charging Case 1 x USB Cable 1 x User Manual
-  Updated: 2025-09-09T00:20:39Z
+  Updated: 2025-10-12T10:12:53Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -1848,7 +1848,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/XT95_Pro_TWS_Bluetooth_Earbuds_with_Passive_Noise_Reduction_-_Hifi_Media_Store-1004452.jpg?v=1719120704
     Price: 29,99 € EUR
 - [XT89 Auriculares Intraurales Bluetooth](https://hifimediastore.com/products/xt89-bluetooth-earbuds-with-enc-noise-cancelling): Características: 1. Bluetooth V5.0, compatible con la mayoría de los dispositivos Bluetooth y de menor consumo de energía. 2. El estuche de carga de 300mAh puede cargar completamente 2 auriculares unas 5 veces, ofreciendo más de 24 horas de música. 3. Con tecnología impermeable, ya no tendrás que preocuparte por el agua y el sudor. 4.10mms unidades de accionamiento dual, disfrutar de 9D fuerte sonido de la música de graves profundos. 5. Función de control táctil popular, admite cambiar de canción, llamar por teléfono y llamar al asistente de voz. Especificaciones: Con micrófono: SíTipo inalámbrico: bluetoothResistente al agua: SíControl de volumen: SíPrincipio de vocalidad: DinámicaCarga rápida tipo C: 1H para carga completaDistorsión armónica total: 1%Estilo: Auriculares intrauralesTiempo en espera: hasta 48 horasSensibilidad: 92dBResistencia: 32ΩNúmero de controladores: 2Nombre: XT89 Auriculares BluetoothDuración con música: Alrededor de 3-4 horasSalida máx.: 10mWTipo de imán: NeodimioRango de impedancia: hasta 32 ΩRango de respuesta en frecuencia: 20 - 20000HzTipo de orejeras: SelladoDiámetro del Driver: 10mmConectores: Tipo CCódecs: AAC, sbcMétodo de carga: Estuche de cargaCapacidad del estuche de carga: 300 mAh Estuche de cargaCertificación: CEVersión Bluetooth: 5.0Cancelación de ruido: No Contenido del paquete: 2 x Auriculares Bluetooth (izquierdo y derecho)1 x Estuche de carga1 x Cable USB1 x Manual del usuario
-  Updated: 2025-08-21T11:05:35Z
+  Updated: 2025-10-12T10:12:53Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -1862,7 +1862,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/XT89_Auriculares_Intraurales_Bluetooth_-_Hifi_Media_Store-1004347.jpg?v=1719119961
     Price: 29,99 € EUR
 - [E3110 TWS Earbuds with Noise Reduction](https://hifimediastore.com/products/e3110-tws-earbuds-with-noise-reduction): Specifications: With Microphone: Yes Wireless Type: bluetooth Waterproof: IP44 Volume Control: Yes Total Harmonic Distortion: 1% Style: In-ear Sensitivity: 102dB Right Earphone Battery: 30mAh(Right) Resistance: 32Ω Number Of Drivers: 2 Model Number: E3110 Max Output: 3mW Left Earphone Battery: 30mAh(Left) Wireless: Yes Impedance Range: up to 32 Ω Headphone Pads Material: Other Frequency Response Range: 2000 - 20000Hz Earphone Weight: Right:3.2g,Left :3.2g Earcups Type: Sealed Driver Diameter: 13mm Control Button: Yes Connectors: Type c Communication: wireless Codecs: sbc Charging Method: Charging case Certification: CE Bluetooth Version: 5.1 Battery Case Weight: 27.6g Battery Case: 250mAh Noise-Cancellation: Passive Package List: 1 x E3110 Earbuds 1 x User Manual 1 x Charging case 1 x Charging Cable
-  Updated: 2025-06-22T07:51:50Z
+  Updated: 2025-10-12T10:12:53Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -1932,7 +1932,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/E3110_TWS_Earbuds_with_Noise_Reduction_-_Hifi_Media_Store-970962.jpg?v=1719009979
     Price: 41,99 € EUR
 - [X16 Wireless Earbuds With Dual HD Microphone](https://hifimediastore.com/products/x16-wireless-earbuds-with-dual-hd-microphone): Specifications: With Microphone: Yes Wireless Type: bluetooth Waterproof: No Volume Control: Yes Total Harmonic Distortion: 2% Style: In-ear Sensitivity: 42dB Right Earphone Battery: 30mAh Resistance: 32Ω Number Of Drivers: 2 Model Number: X16 Left Earphone Battery: 30mAh Wireless: Yes Impedance Range: up to 32 Ω Frequency Response Range: 20 - 20000Hz Earcups Type: Semi-open Driver Diameter: 14.2mm Control Button: Yes Codecs: AAC,sbc Charging Method: Charging case Charging Case Battery: 300mAh Certification: CE Bluetooth: 5.2 Noise-Cancellation: HD Call Noise Reduction Package List: 1 x X16 Earbuds 1 x User Manual 1 x Charging case 1 x Charging Cable
-  Updated: 2025-06-22T07:51:50Z
+  Updated: 2025-10-12T10:12:54Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -1994,7 +1994,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/X16_Wireless_Earbuds_With_Dual_HD_Microphone_-_Hifi_Media_Store-999459.jpg?v=1719087475
     Price: 33,99 € EUR
 - [LP80 Auriculares Intraurales TWS](https://hifimediastore.com/products/lp80-tws-earbuds): Especificaciones: Con micrófono: síTipo inalámbrico: bluetoothImpermeable: síControl de volumen: SíPrincipio de vocalismo: dinámicoCarga rápida tipo C: 1,5 h para carga completaDistorsión armónica total: 1%Tiempo de conversación: alrededor de 3-4 horasEstilo: intrauditivoTiempo en espera: hasta 48 horasSensibilidad: 104 dBResistencia: 16ΩNúmero de conductores: 2Nombre: LP80Tiempo de música: alrededor de 3-4 horasSalida máxima: 10 mWTipo de imán: OtroInalámbrico: SíRango de impedancia: hasta 32 ΩMaterial de las almohadillas para auriculares: otroRango de respuesta de frecuencia: 20 - 20000 HzBatería del auricular: 30 mAh para un solo auricularTipo de auriculares: selladoDiámetro del controlador: 8 mmBotón de control: SíConectores: tipo cComunicación: verdaderamente inalámbricaColor: negro, blancoCódecs: sbcMétodo de carga: estuche de cargaCapacidad del estuche de carga: estuche de carga de 300 mAhCertificación: CEVersión de Bluetooth: 5.0Distancia de conexión Bluetooth: 8-10MCancelación de ruido: Pasiva Contenido del Paquete: 2 x Auriculares Bluetooth (izquierdo y derecho)1 x Estuche de carga1 x Cable USB1 x Manual del usuario
-  Updated: 2025-06-22T07:51:50Z
+  Updated: 2025-10-12T10:12:55Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -2056,7 +2056,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/LP80_Auriculares_Intraurales_TWS_-_Hifi_Media_Store-983520.jpg?v=1719030223
     Price: 37,99 € EUR
 - [LP40 TWS Wireless Earbuds](https://hifimediastore.com/products/lp40-tws-wireless-earbuds): Specifications: With Microphone: Yes Wireless Type: bluetooth Waterproof: Yes Volume Control: Yes Style: In-ear Sensitivity: 32dB Number Of Drivers: 2 Model Number: LP40 Wireless: Yes Headphone Pads Material: Other Frequency Response Range: 20 - 20000Hz Earcups Type: Semi-open Driver Diameter: 13mm Control Button: Yes Communication: True Wireless Charging Method: Charging case Certification: CE Bluetooth Version: 5.0 Noise-Cancellation: Passive Note: Voice assistant only supports IOS systems users. Package List: 1 x LP40 Earbuds 1 x User Manual 1 x Charging case
-  Updated: 2025-06-22T07:51:51Z
+  Updated: 2025-10-12T10:12:55Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -2102,7 +2102,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/LP40_TWS_Wireless_Earbuds_-_Hifi_Media_Store-983369.jpg?v=1719029976
     Price: 32,99 € EUR
 - [X15 Pro Auriculares TWS](https://hifimediastore.com/products/x15-pro-tws-earbuds): Descripción del producto: Graves de alta definición.Descodificación de audio dual AAC\SBC.Calidad de sonido HIFI de alta definición.Diafragma de bobina móvil de 13 mm.Escucha el sonido, baja latencia de transmisión en juegos.Emparejamiento inmediato tras abrir la tapa, conexión rápida.Batería de larga duración, 35 horas de alimentación continua.Llevar durante mucho tiempo no es cansado, es ligero y cómodo.Smart touch, cambia a voluntad. Especificaciones: Con micrófono: SíTipo inalámbrico: bluetoothResistente al agua: SíControl de volumen: SíPrincipio de vocalidad: DinámicaCarga rápida tipo C: 1H para carga completaDistorsión armónica total: 1%Tarjeta de memoria compatible: NoEstilo: Auriculares intrauralesTiempo en espera: hasta 48 horasSensibilidad: 102dBResistencia: 32ΩNúmero de controladores: 2Nombre: X15 ProDuración de la música: unas 3-4 horasSalida máx.: 10mWTipo de imán: NeodimioInalámbrico: SíRango de impedancia: hasta 32 ΩRango de respuesta en frecuencia: 20 - 20000HzTipo de orejeras: SelladoDiámetro del conductor: 10mmBotón de control: SíConectores: Tipo CComunicación: inalámbricaCódecs: AAC, sbcMétodo de carga: Estuche de cargaCapacidad del estuche de carga: 250mAhCertificación: CEVersión Bluetooth: 5.1Cancelación de ruido: No Contenido del paquete: 2 x Auriculares Bluetooth (izquierdo y derecho)1 x Estuche de carga1 x Cable USB1 x Manual del usuario
-  Updated: 2025-08-18T06:06:57Z
+  Updated: 2025-10-12T10:12:55Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -2140,7 +2140,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/X15_Pro_Auriculares_TWS_-_Hifi_Media_Store-999423.jpg?v=1719087335
     Price: 27,99 € EUR
 - [XT83 Pro Auriculares TWS](https://hifimediastore.com/products/xt83-pro-tws-earbuds-with-passive-noise-reduction): Características: 1. Bluetooth V5.1, soporta la mayoría de dispositivos bluetooth y consume menos energía. 2. El estuche de carga de 250mAh puede cargar completamente 2 auriculares unas 5 veces, ofreciendo más de 24 horas de música. 3. Con tecnología impermeable, ya no tendrás que preocuparte por el agua y el sudor. 4.10mms unidades de accionamiento dual, sonido 9D en música con graves profundos. 5. Función de control táctil, admite cambiar de canción, llamar por teléfono y llamar al asistente de voz. Especificaciones: Con micrófono: SíTipo inalámbrico: bluetoothResistente al agua: SíControl de volumen: SíCarga rápida tipo C: 1H para carga completaDistorsión armónica total: 1%Soporta tarjeta de memoria: NoEstilo: Auriculares intrauralesTiempo en espera: hasta 48 horasSensibilidad: 102dBResistencia: 32ΩNúmero de controladores: 2Nombre: XT83 ProTiempo de música: alrededor de 3-4 horasSalida máx.: 10mWTipo de imán: NeodimioInalámbrico: SíRango de impedancia: hasta 32 ΩRango de respuesta en frecuencia: 20 - 20000HzTipo de orejeras: SelladoDiámetro del conductor: 10mmConectores: Tipo CComunicación: inalámbricaCódecs: AAC, sbcMétodo de carga: Estuche de cargaCapacidad del estuche de carga: 250mAhCertificación: CEVersión Bluetooth: 5.1Cancelación de ruido: No Contenido del paquete: 1 x Auriculares Bluetooth XT831 x Estuche de carga1 x Cable USB1 x Manual del usuario
-  Updated: 2025-06-22T07:51:51Z
+  Updated: 2025-10-12T10:12:56Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -2154,7 +2154,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/XT83_Pro_Auriculares_TWS_-_Hifi_Media_Store-1004258.jpg?v=1719118818
     Price: 32,99 € EUR
 - [XT92 Auriculares Intraurales Gaming](https://hifimediastore.com/products/xt92-gaming-earbuds-with-passive-noise-cancelling): Características: 1. Bluetooth V5.1, compatible con la mayoría de los dispositivos Bluetooth y de menor consumo de energía. 2. El estuche de carga de 300mAh puede cargar completamente 2 auriculares unas 5 veces, ofreciendo más de 24 horas de música. 3. Con tecnología impermeable, ya no tendrás que preocuparte por el agua y el sudor. 4.10mms unidades de accionamiento dual, disfrutar de un fuerte sonido 9D de la música con graves profundos. 5. Función de control táctil, admite cambiar de canción, llamar por teléfono y llamar al asistente de voz. Especificaciones: Con micrófono: SíTipo inalámbrico: bluetoothResistente al agua: SíControl de volumen: SíCarga rápida tipo C: 1H para carga completaDistorsión armónica total: 1%Estilo :Auriculares intrauralesTiempo en espera: hasta 48 horasSensibilidad: 102dBResistencia: 32ΩNúmero de controladores: 2Nombre: XT92 Auriculares Bluetooth GamingDuración de la música: unas 3-4 horasSalida máx.: 10mWTipo de imán: NeodimioRango de impedancia: hasta 32 ΩRango de respuesta en frecuencia: 20 - 20000HzTipo de orejeras: SelladoDiámetro del conductor: 10mmBotón de control: SíConectores: Tipo CComunicación: inalámbricaCódecs: AAC,sbcMétodo de carga: Estuche de cargaCapacidad del estuche de carga: 300 mAh Estuche de cargaCertificación: CEVersión Bluetooth: 5.1Cancelación de ruido: Pasiva Contenido del Paquete: 2 x Auriculares Bluetooth (izquierdo y derecho)1 x Estuche de carga1 x Cable USB1 x Manual del usuario
-  Updated: 2025-08-29T11:45:30Z
+  Updated: 2025-10-12T10:12:56Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -2176,7 +2176,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/XT92_Auriculares_Intraurales_Gaming_-_Hifi_Media_Store-1004409.jpg?v=1719120389
     Price: 35,99 € EUR
 - [XT88 - Auriculares Intraurales Bluetooth](https://hifimediastore.com/products/xt88-bluetooth-earbuds-with-enc-noise-reduction): 1. Bluetooth v5.3, compatible con la mayoría de dispositivos bluetooth y menor consumo de energía. 2. El estuche de carga de 250 mAh puede cargar completamente 2 auriculares unas 5 veces, lo que te brinda más 24 horas de música. 3. Con tecnología impermeable, ya no tendrás que preocuparte por el agua y el sudor. 4. Unidades de disco dual de 13 mm, disfruta de un potente sonido musical con graves profundos 9D. 5. Popular función de control táctil, soporte para cambiar canciones, llamadas telefónicas y llamadas de voz del suscriptor. Especificaciones: Con micrófono: SíTipo de conexión inalámbrica: bluetoothResistente al agua: SíControl de volumen: SíPrincipio de vocalidad: DinámicaCarga rápida tipo C: 1H para carga completaDistorsión armónica total: 1%Estilo: Auriculares intrauralesTiempo en espera: hasta 48 horasSensibilidad: 102dBResistencia: 32ΩNúmero de Drivers: 2Nombre: XT88 Auriculares BluetoothDuración de la música: Alrededor de 3-4 horasSalida máx.: 10mWTipo de imán: NeodimioRango de impedancia: hasta 32 ΩRango de respuesta de frecuencia: 20 - 20000HzTipo de orejeras: SelladoDiámetro del Driver: 13mmBotón de control: SíConectores: Tipo CCódecs: AAC, sbcMétodo de carga: Estuche de cargaCapacidad del estuche de carga: 250mAh Estuche de cargaDistancia de comunicación: 10MCapacidad del auricular: 35mah x 2Certificación: CEVersión Bluetooth: 5.3Cancelación de ruido: No Contenido del paquete: 2 x Auriculares Bluetooth (izquierdo y derecho)1 x Estuche de carga1 x Cable USB1 x Manual del usuario3 x Copas para auriculares (tamaño S, M, L)
-  Updated: 2025-06-22T07:51:51Z
+  Updated: 2025-10-12T10:12:57Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -2206,7 +2206,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/XT88_-_Auriculares_Intraurales_Bluetooth_-_Hifi_Media_Store-1004318.jpg?v=1719119490
     Price: 37,99 € EUR
 - [XT80 Bluetooth Earbuds with Earhooks](https://hifimediastore.com/products/xt80-bluetooth-earbuds-with-earhooks): 1. Bluetooth 5.3 and stereo sound quality: XT80 bluetooth earbuds bring you for a better music experience. compared to bluetooth 5.0, the 5.3 version features fast and stable signal transmission, clear sound quality without skips and distortion and low power consumption. at the same time, stereo headphones provides sound quality, the sound of immersive music scene surround sound, let you feel more realistic music! 2. IPX5 waterproof: Sports Earbud design, internal nano coating protects the headphones from heavy rains or sweat throughout intense exercises; just enjoy your time when running, jogging, riding, hiking, fitness, or in the gym. keep your headphones in good working order, even if you are drenched sweats after a grueling workout. 3. Ergonomic earhook design: With lightweight and ergonomic design, XT80 earbuds is a great combination of comfort and stability with ear hook and in ear fitting designed for strenuous workouts. lightweight and ergonomic design, customizable accessories with large, medium, and small size of gel eartips; soft silicon earhooks ensure comfortable and secure wear in even intense workout. 4. Charging case and led display: the charging box with built in battery can provide up to 40 hours of continuous music time. put the earbuds into the charging box and will charge automatically. the charging box has an led display that lets you know when it is the charging time, XT80 bluetooth earbuds are your great companion for sports and travel! 5. Easy to use: control buttons on the headphones so that you can play and pause music, adjust the volume, skip tracks, answer and end calls, and activate the voice control of your phone with one simple operation on the headphones. these headphones are compatible with most ios and android smartphones. Specifications: With Microphone: Yes Wireless Type: bluetooth Waterproof: Yes Volume Control: Yes Vocalism Principle: Dynamic Type-c fast charge: 1.5H For Full Charging Total Harmonic Distortion: 1% Support Memory Card: No Style: Headphone Standby Time: Up to 72 Hours Sensitivity: 102dB Resistance: 32Ω Number Of Drivers: 2 Name: XT80 Bluetooth 5.3 Earbuds Music Time: Around 4-6 Hours Max Output: 10mW Magnet Type: Neodymium Wireless: Yes Impedance Range: up to 32 Ω Headphone Pads Material: Other Frequency Response Range: 20 - 20000Hz Earcups Type: Sealed Driver Diameter: 10mm Control Button: Yes Connectors: Type c Communication: wireless Codecs: AAC,sbc Charging Method: Charging case Charging Case Capacity: 500mAh Charging Case Certification: CE Bluetooth Version: Other Active Noise-Cancellation: No Package list: 2 x Bluetooth earbuds 1 x Charging case 1 x USB cable 1 x User Manual 3 x headphone cups (S, M, L size)
-  Updated: 2025-06-22T07:51:52Z
+  Updated: 2025-10-12T10:12:57Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -2235,14 +2235,14 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/X6_Bluetooth_Gaming_Earbuds_With_CVC8.0_Noise_Reduction_-_Hifi_Media_Store-999633.png?v=1719089506
   Price: 39,99 € EUR
 - [P36 TWS Gaming Earbuds With USB Adaptor for TV/PC](https://hifimediastore.com/products/p36-tws-gaming-earbuds-with-usb-adaptor-for-tv-pc): Specifications: Charge method: Charging case charge box With Microphone: Yes Wireless Type: bluetooth Wear way: In-ear Waterproof: Yes Waterproof: IPX7 Volume Control: Yes Vocalism Principle: Dynamic Total Harmonic Distortion: 1% Support Memory Card: No Style: In-ear Plug Type: Line Type Number Of Drivers: 2 Music time: About 5-10Hours Model Number: P36 with adaptor Max Output: 30mW Magnet Type: Ferrite Wireless: Yes Impedance Range: up to 32 Ω Headphone battery capacity: About 50mAh Headphone Pads Material: Silicone Frequency Response Range: 20 - 20000Hz Earcups Type: Sealed Driver Diameter: 10mm Control way: touch key Control Button: Yes Connectors: USB Communication: wireless Codecs: AAC,sbc Charging time: About 0.5-1hours Charging Method: Charging case Certification: CE,FCC Bluetooth Version: 5.0 Automatic pairing: Support Noise-Cancellation: Passive Model:P36 wireless game earbuds with bluetooth adaptor for TV Color: black/white Version: bluetooth V 5.1 Function: Last/Next song,Play/Pause, Call rejection, One-key Siri Working distance: 10-15 meters Waterproof: IPX7 Charging time: About 0.5-1 hour Music time: About 5-8 Hours Game time: About 5-10 Hours Headphone charge box battery: 400mAh Frequency: 2KHz~20KHz Sensitivity: 118±3dB Input current: 5V 1A Impedance: 32Ω Package Content: 2 x Bluetooth Earbuds (Left & Right) 1 x Earbuds charging box 1 x Bluetooth adaptor 1 x 3.5mm audio cable 1 x Charge cable 1 x User manual
-  Updated: 2025-06-22T07:51:52Z
+  Updated: 2025-10-12T10:12:57Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/PC_-_Hifi_Media_Store-990109.jpg?v=1719046155
   Price: 47,99 € EUR
 - [F9-13 Earbuds with Bluetooth Adaptor](https://hifimediastore.com/products/f9-13-earbuds-with-bluetooth-adaptor): Specifications: Charge method: Charging case With Microphone: Yes Wireless Type: bluetooth Wear way: In-ear Waterproof: IPX7 Volume Control: Yes Vocalism Principle: Dynamic Total Harmonic Distortion: 1% Support Memory Card: No Style: In-ear Sensitivity: 110 ±3dB Resistance: 32Ω Plug Type: Line Type Number Of Drivers: 2 Music time: Around 3-4 Hours Model Number: F9-13 with adaptor Max Output: 20mW Magnet Type: Ferrite Impedance Range: up to 32 Ω Headphone battery capacity: About 50mAh Headphone Pads Material: Silicone Frequency Response Range: 20 - 20000Hz Earcups Type: Sealed Driver Diameter: 8mm Control way: touch key Control Button: Yes Connectors: USB Communication: wireless Codecs: AAC,LDAC Charging time: About 0.5-1hours Charging Method: Charging case Certification: CE,FCC Bluetooth Version: 5.1 Automatic pairing: Support Active Noise-Cancellation: CVC 8.0 automatic noise reduction Standby time:about 200 hours Headphone charge box battery: 2000mAh Input current: 5V 1A Package Content: 2 x Bluetooth Earbuds (Left & Right) 1 x Bluetooth adaptor 1 x Earbuds charge box 1 x 3.5mm audio cable 1 x Charging cable 1 x User manual
-  Updated: 2025-06-22T07:51:53Z
+  Updated: 2025-10-12T10:12:58Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -2256,7 +2256,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/F9-13_Earbuds_with_Bluetooth_Adaptor_-_Hifi_Media_Store-972118.jpg?v=1719012894
     Price: 34,99 € EUR
 - [Y30 Wireless Earbuds With Bluetooth Adaptor](https://hifimediastore.com/products/y30-wireless-earbuds-with-bluetooth-adaptor): Specifications: With Microphone: Yes Wireless Type: bluetooth Waterproof: IPX3 Waterproof: Yes Volume Control: Yes Total Harmonic Distortion: 1% Style: In-ear Sensitivity: 112 ±3dB Resistance: 32Ω Number Of Drivers: 2 Music time: Around 3-4 Hours Max Output: 20mW Magnet Type: Ferrite Impedance Range: up to 32 Ω Headphone battery capacity: About 55mAh Headphone Pads Material: Silicone Frequency Response Range: 20 - 20000Hz Earcups Type: Sealed Driver Diameter: 8mm Connectors: USB Communication: wireless Codecs: AAC,LDAC Charging time: About 0.5-1hours Charging Method: Charging case Certification: CE,FCC Bluetooth Version: 5.0 Automatic pairing: Support Noise-Cancellation: Passive Model: Y30 TWS Earbuds with bluetooth adaptor Working distance: 10-15 meters Standby time:about 200 hours Headphone charge box battery: 450mAh Input current: 5V 1A Package Content: 2 x Bluetooth Earbuds (Left & Right) 1 x Bluetooth adaptor 1 x Earphones charge box 1 x 3.5mm audio cable 1 x Charging cable 1 x User manual
-  Updated: 2025-06-22T07:51:53Z
+  Updated: 2025-10-12T10:12:58Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -2270,7 +2270,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/Y30_Wireless_Earbuds_With_Bluetooth_Adaptor_-_Hifi_Media_Store-1004492.jpg?v=1719120916
     Price: 23,99 € EUR
 - [G-11 Bone Conduction Headphone Built-in 16GB Memory](https://hifimediastore.com/products/g-11-bone-conduction-headphone-built-in-16gb-memory): Description: Open wireless headphones with surround sound field. Sweatproof and waterproof, small body life. Wear comfortably without ear clips, protect ears from damage. Surrounding directional sound field, the speaker adopts physical ecological diaphragm technology. 280mah battery life, Bluetooth 5.0 chip, lower power consumption, stronger battery life, IPX6 life waterproof Built in 16GB memory for music without bluetooth! Specifications: Product model: G11 Bone conduction headphone Battery capacity: 280mAh Bluetooth version: 5.0 Bluetooth distance: 10M Standby time: 120H Product color: Silver/Blue/Red Frequency response range: 20HZ-20KHZ Play time: 8-10 Charging voltage: 5V Charging time: 1-2H Packing list: 1 x Bone conduction Bluetooth Headphone 1 x Charging cable. 1 x User manual.
-  Updated: 2025-06-22T07:51:53Z
+  Updated: 2025-10-12T10:12:58Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -2288,7 +2288,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/G-11_Bone_Conduction_Headphone_Built-in_16GB_Memory_-_Hifi_Media_Store-972992.jpg?v=1719014357
     Price: 37,99 € EUR
 - [H-11 Wireless Bone Conduction Headphones with Mic and 32GB Memory](https://hifimediastore.com/products/h-11-wireless-bone-conduction-headphones-with-mic-and-32gb-memory): Description: Open wireless headphones surround the directional sound field, open design, sweatproof and waterproof, small body life Wear comfortably without ear clips, protect ears from damage Surrounding directional sound field The speaker adopts physical ecological diaphragm technology 150mah battery life, Bluetooth 5.1 chip, lower power consumption, stronger battery life, IP55 life waterproof Built in 32GB memory for music without bluetooth! Specifications: Prduct model: H11 Open Ear Battery capacity: 140mAh Bluetooth version: 5.1 Bluetooth distance: 10M Standby time: 120H Product color: black/White/Red Frequency response range: 20HZ-20KHZ Play time: 10-14H Charging voltage: 5V .Charging time: 1-2H With Microphone: Yes Wireless Type: bluetooth Wear way: Ear hook headphone Waterproof: Yes Volume Control: Yes Vocalism Principle: Bone Conduction Total Harmonic Distortion: 1% Support Memory Card: No Style: Ear Hook Sensitivity: 105dB Resistance: 8Ω Plug Type: Line Type Number Of Drivers: 2 Max Output: 20mW Magnet Type: Neodymium Impedance Range: up to 32 Ω Headphone Pads Material: Silicone Earcups Type: Open-back Driver Diameter: 18mm Control way: key Control Button: Yes Connectors: USB Codecs: AAC,sbc Charging Method: Cable Certification: CE,FCC,RoHS Automatic pairing: Support Noise-Cancellation: No Packing List: 1 x Bone Conduction Headset. 1 x Charging Cable. 1 x User Manual.
-  Updated: 2025-06-22T07:51:54Z
+  Updated: 2025-10-12T10:12:59Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -2306,7 +2306,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/H-11_Wireless_Bone_Conduction_Headphones_with_Mic_and_32GB_Memory_-_Hifi_Media_Store-974737.jpg?v=1719017150
     Price: 37,99 € EUR
 - [Bone Conduction Headphones Model JS7](https://hifimediastore.com/products/bone-conduction-headphones-model-js7): Description: Open wireless headphones. Surround directional sound field, open design, sweatproof and waterproof, small body life. Wear comfortably without ear clips, protect ears from damage. Surrounding directional sound field The speaker adopts physical ecological diaphragm technology. 150mah battery life, Bluetooth 5.1 chip, lower power consumption, stronger battery life, IP56 life waterproof. Specifications: With Microphone: Yes Wireless Type: bluetooth Waterproof: Yes Volume Control: Yes Vocalism Principle: Bone Conduction Total Harmonic Distortion: 1% Support Memory Card: No Style: Ear Hook Sensitivity: 105dB Resistance: 8Ω Plug Type: Line Type Number Of Drivers: 2 Model Number: JS7 Max Output: 20mW Magnet Type: Neodymium Impedance Range: up to 32 Ω Headphone battery capacity: About 150mAh Charging voltage: 5V Charging time: 1-2H Headphone Pads Material: Silicone Frequency Response Range: 20 - 20000Hz Endurance time: about 5-8 hours Standby time: 150H Earcups Type: Open-back Driver Diameter: 18mm Control way: key Control Button: Yes Connectors: USB Communication: wireless Codecs: AAC,sbc Charging time: About 2-3 hours Charging Method: Cable Certification: CE,FCC,RoHS Bluetooth distance: 10M Bluetooth Version: 5.1 Automatic pairing: Support Noise-Cancellation: No Packing list: 1 x Bone conduction Headphones 1 x Charging cable. 1 x User manual.
-  Updated: 2025-06-22T07:51:54Z
+  Updated: 2025-10-12T10:12:59Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -2343,7 +2343,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/Altavoz_Portatil_2_en_1_con_Auriculares_-_Hifi_Media_Store-965018.jpg?v=1718996571
     Price: 35,99 € EUR
 - [American Retro Wireless Speaker Model A6](https://hifimediastore.com/products/american-retro-wireless-speaker-model-a6): Specifications: Waterproof: No Voice Control: No Total Harmonic Distortion: 0.5% Support Memory Card: Yes Speaker Type: Portable Sensitivity: 75dB Remote Control: No Power Source: Battery Playback Function: Radio,mp3 Output Power: 10W Number of Loudspeaker Enclosure: 1 Model: A6 Input Power(W): <25 W Impedance: 3 Ohm Frequency Range: 100Hz-20KHz Battery: 1200mAh Feature 1: with FM Radio Feature 2: Support AUX/TF card/USB Display Screen: No Control: Volume control Communication: AUX,USB,bluetooth Channels: 3 (2.1) Certification: CE Cabinet Material: Wood Built-in Microphone: Yes Bluetooth Version: 5.0 Battery: Yes Audio Crossover: Full-Range Noise-Cancellation: PASSIVE
-  Updated: 2025-06-22T07:51:56Z
+  Updated: 2025-10-12T10:13:00Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -2405,7 +2405,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/T5_Bluetooth_Portable_Speaker_-_Hifi_Media_Store-997498.jpg?v=1719078840
     Price: 62,99 € EUR
 - [S61 Portable Bluetooth Speaker](https://hifimediastore.com/products/s61-portable-bluetooth-speaker): Description: Dual Membrane Resonance for a powerful sound Multi-unit bass blast. S61 Bluetooth Speaker with 16.8 million RGB colors and dazzling light effects, music is a pleasure to live with. High power output, effective sound coverage of 200m. Easy to drive outdoor, home, party, shop and other scenes. S61 Bluetooth Speaker with a built-in 3000mAh battery that lasts for 20 hours when fully charged. It consumes little energy and has a stable performance, so you don't have to miss out on music wherever you are. Bluetooth 5.0 high speed and stability, no lag. Portable bluetooth speaker. Built-in noise-cancelling microphone for excellent voice talks. Multiple playback modes, choose as you like. Two connected units for wireless surround sound. S61 bluetooth speaker shell is made of precision nylon mesh and high quality ABS matte material. Creative buttons design, sensitive and skin-friendly, easy to operate. Attention to detail for quality. Specifications: Waterproof: Yes Voice Control: No Total Harmonic Distortion: 1% Support Memory Card: Yes Speaker Type: Portable Sensitivity: 85dB Remote Control: No Power Source: Battery PMPO: 10W Output Power: 10W Number of Loudspeaker Enclosure: 1 Model: S61 Material: Plastic Input Power(W): <25 W Impedance: 2-4 Ohm Frequency Range: 20Hz-20KHz Display Screen: No Control: Volume control Communication: AUX,USB,bluetooth Channels: 3 (2.1) Certification: CE,FCC,RoHS Built-in Microphone: Yes Bluetooth Version: 5.0 Battery: Yes Noise-Cancellation: Passive Battery capacity: 3600mAh (built in) Playing time: about 6-8 hours Speaker diameter: 66mm*1 Package Content: 1 x Portable Bluetooth speaker 1 x Charging Cable 1 x User manual
-  Updated: 2025-06-22T07:51:57Z
+  Updated: 2025-10-12T10:13:00Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -2419,7 +2419,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/S61_Portable_Bluetooth_Speaker_-_Hifi_Media_Store-991597.jpg?v=1719049902
     Price: 67,99 € EUR
 - [H52 Mini Bluetooth Speaker Portable with Support TF Card](https://hifimediastore.com/products/h52-mini-bluetooth-speaker-portable-with-support-tf-card): Specifications: waterproof: IPX6 speaker: 5W purpose: Outdoor lighting: LED charge: DC 5V Woofer/Widerange material: Other Wi-Fi Music: Last.fm Waterproof: Yes Voice Control: No Tweeter type: Dome Tweeter material: Polymer Total Harmonic Distortion: 10% Support Memory Card: Yes Support Apt-x: No Speaker Type: Portable Sensitivity: 70dB Subwoofer cabinet material: Plastic Remote Control: No Power Source: DC,Battery Playback Function: Radio,mp3,WAV Play time: 4-5H Play mode: TF FM USB Output Power: 5W Number of Loudspeaker Enclosure: 1 Model Number: H52 Mid-range material: Other Material: Plastic Input Power(W): <25 W Impedance: 4 Ohm Function: TWS 1+1 Frequency Range: 30Hz-10KHz Display Screen: No Control: Volume control,Input selector Communication: AUX,USB,bluetooth Codecs: Apt-X Channels: 1 Certification: CE,FCC,RoHS Built-in Microphone: Yes Bluetooth distance: 10M Bluetooth Version: 5.0 Battery: 1500mAh Audio Crossover: Full-Range Acoustic enclosure: Other Transmission distance: 10 meters Output power: 5W Play time: 4~5H Speaker : 57mm, 4Ω 5W Input Power: 5V=-=2A Maximum current consumption: 1A Battery type: 18650 Li-ion 1500mAh Audio signal input interface:standard 3.5mm headphone jack (stereo) Features: Wireless connection Memory function Support U disk/TF card/ AUX play mode Built-in lithium battery Hands-free function Support MP3/WAV/WMA/FLAC/APE music format decoding Use high-fidelity speakers, make the sound more naturland delicate 1+1 serial function Water resistance lPX6 1FM Function
-  Updated: 2025-06-22T07:51:58Z
+  Updated: 2025-10-12T10:13:00Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -2437,7 +2437,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/H52_Mini_Bluetooth_Speaker_Portable_with_Support_TF_Card_-_Hifi_Media_Store-975276.png?v=1719017974
     Price: 40,99 € EUR
 - [Loud Metal Bluetooth Speaker model YX3](https://hifimediastore.com/products/loud-metal-bluetooth-speaker-model-yx3): Specifications: Waterproof: Yes Voice Control: No Tweeter material: Metal Support Memory Card: Yes Support Apt-x: No Speaker Type: Outdoor Speaker Sensitivity: 75dB Subwoofer cabinet material: Plastic Remote Control: No Power Source: USB Playback Function: Radio,mp3,FLAC,APE,Other,WAV PMPO: 5W Output Power: 5W Number of Loudspeaker Enclosure: 2 Model Number: YX3 Material: Metal Input Power(W): <25 W Impedance: 2-4 Ohm IPX7 Bluetooth 5.0 Speaker: 3D Stereo HIFI Subwoofer Frequency Range: 45Hz-20KHz Display Screen: No Communication: AUX,bluetooth Channels: 2 (2.0) Certification: CE Cabinet Material: Plastic Built-in Microphone: Yes Bluetooth Version: 5.0 Battery: Yes Audio Crossover: Full-Range
-  Updated: 2025-06-22T07:51:58Z
+  Updated: 2025-10-12T10:13:00Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -2469,7 +2469,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/Cinta_para_la_Cabeza_con_Auriculares_Bluetooth_Incorporados_-_Hifi_Media_Store-970515.jpg?v=1719008989
     Price: 29,99 € EUR
 - [T9 Wireless Bluetooth Speaker with FM Function](https://hifimediastore.com/products/t9-wireless-bluetooth-speaker-with-fm-function): Specifications: Waterproof: Yes Voice Control: No Support Memory Card: Yes Support Apt-x: Yes Speaker Type: Portable Sensitivity: 80dB Remote Control: No Power Source: DC,Battery Playback Function: Radio,mp3,FLAC,APE,WAV Output Power: 10W Number of Loudspeaker Enclosure: 1 Model Number: T9 Material: Plastic Input Power(W): <25 W Impedance: 2-4 Ohm Frequency Range: 100Hz-20KHz Display Screen: No Control: Volume control Communication: AUX,USB,bluetooth,Audio Line Codecs: Apt-X HD,Apt-X,sbc,AAC Channels: 2 (2.0) Certification: CE Cabinet Material: Plastic Bluetooth Version: 5.0 Battery: Yes Audio Crossover: Full-Range Technical Specifications: Transmission distance: 10 meters Output power: 5W*2 Play time: 4~6H Speaker : 52mm*2,4Ω 5W Input Power:5V--- 500mA Maximum current consumption: 1A Battery type: 18650 Li-ion 1500mAh Audio signal input interface: standard 3.5mm headphone jack(stereo) Wireless connection Memory function Support U disk/TF card/ AUX play mode Built-in lithium battery Hands-free function Support MP3/WAV/WMA/FLAC/APE music format decoding Use high-fidelity speakers, make the sound more naturl and delicate 1+1 serial function Water resistance lPX6 FM function
-  Updated: 2025-06-22T07:51:59Z
+  Updated: 2025-10-12T10:13:01Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -2491,7 +2491,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/T9_Wireless_Bluetooth_Speaker_with_FM_Function_-_Hifi_Media_Store-997680.jpg?v=1719079930
     Price: 57,99 € EUR
 - [K1 Wooden Wireless Bluetooth Speaker With Alarm Clock](https://hifimediastore.com/products/k1-wooden-wireless-bluetooth-speaker-with-alarm-clock): Specifications: Waterproof: No Voice Control: No Support Apt-x: No Speaker Type: Portable Remote Control: No Power Source: Battery Playback Function: Radio,mp3,FLAC,APE,WAV Output Power: 10W Number of Loudspeaker Enclosure: 1 Model Number: K1 Material: Wood Input Power(W): <25 W Frequency Range: 60Hz-23KHz Communication: AUX,USB,bluetooth Channels: 2 (2.0) Certification: CE,FCC,RoHS,pse Cabinet Material: Wood Built-in Microphone: Yes Bluetooth Version: 5.0 Battery: Yes
-  Updated: 2025-09-03T20:35:37Z
+  Updated: 2025-10-12T10:13:01Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -2531,7 +2531,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/P32_Portable_Bluetooth_Speaker_-_Hifi_Media_Store-990107.jpg?v=1719046150
     Price: 83,99 € EUR
 - [TG313 Portable Wireless Speaker](https://hifimediastore.com/products/tg313-portable-wireless-speaker): Specifications: Woofer/Widerange material: Metal Waterproof: Yes Voice Control: No Tweeter material: Metal Support Memory Card: Yes Support Apt-x: Yes Speaker Type: Portable Remote Control: No Power Source: DC,Battery,USB PMPO: 5W Output Power: 5W Number of Loudspeaker Enclosure: 1 Model Number: TG313 Material: Plastic Input Power(W): <25 W Impedance: 4 Ohm Frequency Range: 100Hz-20KHz Display Screen: No Communication: USB,bluetooth,Audio Line Codecs: Apt-X HD,Apt-X Channels: 2 (2.0) Certification: CE Cabinet Material: Plastic Built-in Microphone: Yes Bluetooth Version: 5.0 Battery: Yes Audio Crossover: Full-Range Acoustic enclosure: Other Bluetooth distance: 10M Support: Micro SD card/TF card input, U disk input, 3.5mm audio input Speaker driver: 52mm*1 Extended memory: 32G (not included) Battery capacity: 500mAh Charging time: 3 hours Listening/speaking time: 3-5 hours Waterproof rating: IPX5 Charging parameters: 5V Support music formats: MP3, wav, wma, FLAC, APE Signal to noise ratio: ≧90dB Distortion rate: <0.5% Material: ABS, mesh Package List: 1 x TG313 speaker 1 x USB data cable 1 x User Manual
-  Updated: 2025-06-22T07:52:00Z
+  Updated: 2025-10-12T10:13:01Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -2553,7 +2553,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/TG313_Portable_Wireless_Speaker_-_Hifi_Media_Store-998242.jpg?v=1719081412
     Price: 28,99 € EUR
 - [TG288 - Altavoz Portátil Bluetooth con Luz LED](https://hifimediastore.com/products/tg288-bluetooth-portable-speaker-with-led-light): Patrones de Luces LED Puedes disfrutar del espectáculo de luces LED cuando utilizas el altavoz Bluetooth inalámbrico portátil para escuchar música. La luz LED permite que tu vida sea más interesante. Nuestro altavoz inalámbrico se aplica a vídeo, exteriores/interiores, oficina, familia, juegos, reuniones, fiestas y bares, etc., depende de ti. Puedes presionar el botón en el costado del altavoz inalámbrico para cambiar los modos de luz LED. 5 Modos de Reproducción Excepto Bluetooth, el conector AUX IN se conecta desde televisores, mp3, mp4 y dispositivos sin Bluetooth con un cable de entrada de línea de 3,5 mm para obtener el altavoz de entrada de línea perfecto; Admite tarjeta TF (tarjeta de memoria) de hasta 32G, admite disco USB plug and play. Además, también admite radio FM, lo que te ayuda a buscar la estación de radio. Larga Duración Batería incorporada de 1200 mAh de alta capacidad en un altavoz inalámbrico portátil, compatible con reproducción de música prolongada (determinada por el volumen y el contenido de audio del altavoz reproducido). Altavoz bluetooth de 10W de alta calidad con DSP que añade potencia a la música. No se puede imaginar un cuerpo compacto que emita un sonido sordo. Puedes sentirte relajado y tranquilo desde un lugar remoto. Sonido HIFI y Estéreo Altavoz Bluetooth cilíndrico con potente sonido estéreo HD y HIFI, para que siempre disfrutes de los graves metálicos de alta definición y el sonido del subwoofer que te brindan un disfrute maravilloso. Micrófono Incorporado y Llamada Manos Libres Puedes contestar fácilmente una llamada con este altavoz portátil en el coche, el baño, el hogar o la oficina, en cualquier lugar mientras el altavoz inalámbrico Bluetooth esté conectado a tu teléfono inteligente. Y también tienes una amplia gama de compatibilidad extendida y conexión inalámbrica de 10 metros de gran alcance. Bluetooth 5.0 y Conexión Fácil La tecnología Bluetooth 5.0 tiene una calidad de señal y conexión mejor y estable, permite que el altavoz Bluetooth tenga una conexión de gran distancia más estable con su iPhone, tabletas iPad, computadora portátil, computadora de escritorio, teléfono inteligente y todos los dispositivos compatibles con Bluetooth. Compacto y Portátil Es pequeño, no ocupa espacio, el tamaño del altavoz Bluetooth es de solo 7,2*7,2*17,6 CM, pero es suficiente para que lo levantes solo con la palma de la mano o lo guardes en tu bolso para llevarlo al aire libre. Déjalo fácilmente en la bolsa, puedes salir fácilmente. Con una correa, puedes sujetarlo con la mano o colgarlo en tu bicicleta. ¡Qué divertido es escuchar música y contemplar la hermosa vista! Especificaciones: Nivel de impermeabilidad: IPX5Resistente al agua: SíVoice Control: NoFormato de música compatible: mp3, WAV, WMAAdmite tarjeta de memoria: SíSoporta Apt-x: NoTipo de altavoz: PortátilRelación señal/ruido: 95dB Control Remoto: NoCapacidad de la batería recargable: 1200mAhFuente de energía: AC,Batería,USBFunción de reproducción: Radio, mp3PMPO: 10WPotencia de salida: 10WNúmero de cajas acústicas: 1Modelo: TG288Material: PlásticoMaterial: ABS,metalTiempo de escucha/habla: 10 horasAltavoz LED Pulse: LED BoomboxTipo de interfaz: USBPotencia de entrada(W): <25 WÍndice de distorsión: 1%Pantalla de visualización: NoComunicación: AUX,USB,bluetoothTiempo de carga: 2-3 horasCanales: 2 (2.0)Certificación: CE,FCC,RoHSMicrófono incorporado: Sí Versión Bluetooth: 5.0Batería: SíCrossover de audio: Gama completaPotencia de salida: 5W*2Distancia de trabajo: 10 m / 32,8 piesSNR: ≥90dbBatería: 3.7v 1200mAhTiempo de reproducción: 8-10 horasCarga: 2-3 horasUnidad de altavoz: 52mm * 2Respuesta en frecuencia: 40Hz~20K HzTamaño del producto: 72*72*176mmPeso: 490g Contenido del paquete: 1 x Manual del usuario1 x Cable auxiliar1 x Cable de carga USB1 x Altavoz Bluetooth
-  Updated: 2025-09-02T02:57:25Z
+  Updated: 2025-10-12T10:13:02Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -2571,7 +2571,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/TG288_-_Altavoz_Portatil_Bluetooth_con_Luz_LED_-_Hifi_Media_Store-998215.jpg?v=1719081371
     Price: 46,99 € EUR
 - [K3 Portable Bluetooth Speaker](https://hifimediastore.com/products/k3-portable-bluetooth-speaker): Features: 1. Metal composite diaphragm, shocking HIFI-level sound quality. 2. Upgrade to Bluetooth 5.0, low power consumption and more stable signal, all devices with Bluetooth function can be used. 3. Long battery life, 1200mAh large battery, charging for 3 hours, listening to music for 6 hours. 4. High-definition hands-free call, built-in high-definition microphone, clear and bright voice. 5. The buttons are easy to operate, the silicone buttons are simple and comfortable, and the response is sensitive. 6. Support TWS network interconnection, enjoy stereo surround sound. Specifications: Woofer/Widerange material: Other Waterproof: Yes Voice Control: Yes Tweeter type: electrostatic Tweeter material: Other Total Harmonic Distortion: 1% Support Memory Card: No Speaker Type: Portable Subwoofer cabinet material: Plastic Remote Control: No Power Source: Battery,USB Playback Function: mp3 Output Power: 3W Number of Loudspeaker Enclosure: 1 Model Number: K3 Mid-range material: Other Material: Metal Input Power(W): <25 W Impedance: Other Frequency Range: 20Hz-2KHz Display Screen: No Control: Hi-band Communication: bluetooth Channels: 2 (2.0) Certification: CE,EAC,RoHS Cabinet Material: Metal Built-in Microphone: Yes Bluetooth Version: 5.0 Battery: Yes
-  Updated: 2025-06-22T07:52:00Z
+  Updated: 2025-10-12T10:13:02Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -3939,7 +3939,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/Fodsports_FX10C_Motorcycle_Bluetooth_Mesh_Intercom_-_Hifi_Media_Store-972532.jpg?v=1719013656
   Price: 165,99 € EUR
 - [G810 Bluetooth Headphone With 3 Modes Connection](https://hifimediastore.com/products/g810-bluetooth-headphone-with-3-modes-connection): There are three versions: Support three connection modes: 2.4G (driver-free) / Bluetooth / wired Product Features: 1. Long battery life, solve battery life anxiety, charge for 3 hours, enjoy 50 hours. 2. The headset has three connection modes (ordinary Bluetooth mode, Bluetooth low latency mode (with transmitter) and 3.5mm wired mode), which can be used in a variety of scenarios and devices. 3. The headset has two sound effects: "bee play mode" and music mode, which can be used to listen to songs and games. 4. 50mm customized sound unit, excellent tuning, providing excellent sound quality. 5. Bluetooth 5.2, stable connection delay as low as 35ms, better quality sound transmission. 6. Ergonomic and lightweight design, comfortable to wear for a long time. 7. 7 colors RGB dazzling lights, cool and trendy appearance, wearing 100% return rate when going out. 8. Lightweight design, no pressure for a long time. One-click switching function, you can switch Dongle or the connection between mobile phone and headset by double-clicking "MIC" continuously. Specifications: With Microphone: YesWireless Type: bluetooth, RFWaterproof: NoVolume Control: YesVoice assistant built-in: noVocalism Principle: DynamicSupport Memory Card: NoMaterial: PlasticControl Button: YesConnectors: Type cCommunication: Wireless+WiredCharging Method: CableCategory: Earphones & HeadphonesBluetooth Version: 5.2Active Noise-Cancellation: No2.4G WirelessMic Dimensions : Ø6.0x2.7mmDirectivity : OmnidirectionalImpedance : ≤2.2kΩSensitivity : -36dB±3dBSpeaker Driver Diameter : Ø50mmSensitivity（S.P.L） : 100±3dB（at 1KHz）Impedance : 32 Ω±15%Frequency Response : 20Hz-20kHzCord Length 3.5mm audio plug: Ф3.00mm, four sections at one end, three gold-plated plugs at one end, opposite cable, overall length: L≥1200mmCharging cable: Ф3.00mmTotal length: L≥1000mmAdapter cable: Ф3.00mmOverall length: L≥1500mmNet Weight 260g±10% Package content: 1 x Headphone 1 x Type C charging cable1 x User manual1 x Type-c Bluetooth transmitter1 x Microphone pole1 x Single 3.5mm plug connection cable
-  Updated: 2025-06-22T07:52:26Z
+  Updated: 2025-10-12T10:12:34Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -3953,7 +3953,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/G810_Bluetooth_Headphone_With_3_Modes_Connection_-_Hifi_Media_Store-973150.jpg?v=1719014622
     Price: 84,99 € EUR
 - [B21 Bluetooth Headphones with Touch Control](https://hifimediastore.com/products/b21-bluetooth-headphones-with-touch-control): ♬【Noise Cancelling Built-in Mic】High-definition omnidirectional noise reduction built-in microphone delivers clear sound quality, which ensures you can be clearly heard while communicating online.♬【Astonishing Sound Quality】40MM high magnetic NdFeB driver provides Stereo High Definition Sound quality while playing music, besides, soft earmuffs, which touches like the baby skin, make you lost yourself in the immersive music. B21 Bluetooth Headphones are committed to providing customers with the ultimate sound quality experience.♬【Wide Compatibility】4.0 Bluetooth Connection, compatible with most smartphones, provides a more stable connection while saving energy. Come with the 3.5mm audio cable that allows you to connect your computer or even tablet and laptop as a wired headphone while running out the battery. These wireless wired Bluetooth headphones Definitely an excellent birthday or Christmas gift for your family and friend.♬【Born for Comfortability】Made for comfortable and soft, the earmuff simulates human skin texture which touches likes the baby skin. Keep you comfortable when you enjoying the music. These headphones are foldable and stretchable, Never worried about their size and weight, Foldability and lightweight make them perfect for comfortability. Bluetooth headphones definitely the perfect choice for Travel, Sport, Kids, Teens, and Adults.♬【Long Battery Life & Fast Charge】Bluetooth Headphones are rechargeable with a 300mAH battery which can deliver about 20 hours of music playing time. It takes only 1.5-2 hours charging time to make the battery come with full conditions. Never worry about power shortage during your music time. At the means time, the 3.5mm audio cable makes the headphones become wired headphones when you run out of the battery. Specifications: With Microphone: YesWireless Type: bluetoothWaterproof: YesVolume Control: YesVocalism Principle: OrthodynamicSupport Memory Card: NoSensitivity: 10dBdBResistance: 32ΩΩNumber Of Drivers: 2Max Output: 90mWMaterial: PlasticMagnet Type: FerriteWireless: YesImpedance Range: up to 32 ΩHeadphone Pads Material: Memory FoamEarcups Type: SealedDriver Diameter: 40mmControl Button: YesCodecs: Apt-XCharging Method: CableCertification: CEBluetooth Version: 4.0Active Noise-Cancellation: NoCharging voltage: DC5VWorking current: ≤ 20mASpeaker: 32 ΩFrequency response: 60Hz-20KHzSignal to noise ratio: 98dBDistortion: ≤ 1%Channel: DualTransmission distance: approximately 10mCall duration: 8 hoursMusic playback: 6-8 hoursStandby time: ≥ 30 daysCharging time: 3 hoursSize：95*174*205mmWight:483g Package Content: 1 x B21 Bluetooth Headphones1 x USB Charging Cable1 x User's Manual1 x Audio Aux Cable
-  Updated: 2025-08-15T10:19:41Z
+  Updated: 2025-10-12T10:12:34Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -3967,7 +3967,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/SX10_Bluetooth_Earbuds_-_Hifi_Media_Store-997273.jpg?v=1719077545
   Price: 84,99 € EUR
 - [SONGX FRKM SCD TWS Bluetooth Earbuds](https://hifimediastore.com/products/songx-frkm-scd-tws-bluetooth-earbuds): Product characteristics: • Rotating charging pod design• Super sound quality with dynamic driver• Fabulous look with unique star ring design and high quality steel housing from MIM• Supports talking in stereo mode• Transmission range of more than 10 meters• Touch control sensor• Waterproof IPX 5• Automatic shutdown in 3 minutes when there is no input• Ultralight weight for a comfortable fit• Initial automatic pairing or earphones when taken out of the charging case Specifications: With Microphone: Yes Wireless Type: bluetoothWaterproof: YesVolume Control: YesVocalism Principle: DynamicSupport Memory Card: NoStyle: In-earConnectors: Type cCommunication: True WirelessCharging Method: CableBluetooth Version: 5.2Active Noise-Cancellation: No
-  Updated: 2025-09-07T02:11:58Z
+  Updated: 2025-10-12T10:12:34Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -3996,21 +3996,21 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/SONGX_X06_-_Auriculares_Bluetooth_TWS_-_Hifi_Media_Store-996821.jpg?v=1719074451
     Price: 72,99 € EUR
 - [Marvel Hail Hydra  Bluetooth earbuds](https://hifimediastore.com/products/marvel-hail-hydra-bluetooth-earbuds): Specifications: With Microphone: YesWireless Type: bluetoothWaterproof: YesVolume Control: YesVocalism Principle: DynamicSupport Memory Card: NoStyle: In-earNFC Technology: noMaterial: MetalConnectors: Type cCommunication: True WirelessCodecs: AAC, SBCCharging Method: CableBluetooth Version: 5.3Active Noise-Cancellation: No BT Version chip: JL6973 V5.3Earphone Battery: 25 mAhCharging box battery: 250 mAhCharging port: TYPE-CProduct weight:95.5gCharging Voltage: DC5V 300mAMusic time: 4h (80%)Talk time: 4h (80%)Charging time: 2 hZinc alloy material, metal texture fullF13 composite film hornHIFI lossless sound quality
-  Updated: 2025-06-22T07:52:27Z
+  Updated: 2025-10-12T10:12:35Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/Marvel_Hail_Hydra_Bluetooth_earbuds_-_Hifi_Media_Store-984857.jpg?v=1719032302
   Price: 77,99 € EUR
 - [SONGX QQ SX06 TWS Bluetooth Earbuds Limited Edition](https://hifimediastore.com/products/songx-qq-sx06-tws-bluetooth-earbuds-limited-edition): Features: • Super sound quality with 6mm dynamic driver• Fabulous looks with unique star-ring design and high quality steel housing by MIM• Support talking in stereo mode• Transmission range over 10 meters• Sensor touch control• Water proof IPX 5• Auto power off within 3 minutes when no input• Ultra light weight for comfortable fitting• Initial auto pairing or earphones when taken out from charging case Specifications: With Microphone: YesWireless Type: bluetoothVolume Control: YesVocalism Principle: DynamicSupport Memory Card: NoStyle: In-earControl Button: NoCommunication: True WirelessCharging Method: CableBluetooth Version: 5.0Active Noise-Cancellation: No
-  Updated: 2025-09-07T09:15:47Z
+  Updated: 2025-10-12T10:12:35Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/SONGX_QQ_SX06_TWS_Bluetooth_Earbuds_Limited_Edition_-_Hifi_Media_Store-996786.jpg?v=1719074101
   Price: 108,99 € EUR
 - [CD-3 TWS Bluetooth earbuds with Mecha design](https://hifimediastore.com/products/cd-3-tws-bluetooth-earbuds-with-mecha-design): Features: [Mechanical Style Design] High-quality alloy metal frame, the explosive mechanical structure design is firm and strong, not only high-value but also practical. [Dual-mic ENC noise reduction] Intelligent dual-mic noise reduction, let you calm down and listen to 5.3 Bluetooth chip technology, choose picky headphones to find the original sound quality. [5.3 Bluetooth chip] Compatible with iOS, Android and other devices with Bluetooth, a new generation of 5.3 Bluetooth chip technology, low energy consumption, strong and stable signal, fast pairing, fast switching and other functions. [High-quality stereo sound] 13 units of high-definition stereo sound speakers, perfectly presenting a three-dimensional space. [Smart touch is more convenient] You only need to touch your fingertips to complete the command comfortably. [Minimalist pairing, quick pairing after returning to the chain] When using for the first time, open the cover of the charging box, turn on the mobile phone's Bluetooth routine pairing, search for CD-3, select and complete the pairing. After there is a pairing record, open the cover to automatically link (the phone's Bluetooth is turned on) Specifications: With Microphone: YesWireless Type: bluetoothWaterproof: NoVolume Control: YesVocalism Principle: DynamicSupport Memory Card: NoStyle: In-earNFC Technology: noMaximum wireless range[m]: <10mMaterial: MetalWireless: YesConnectors: Type cCommunication: True WirelessCodecs: AAC,sbcCharging Method: CableNoise Reduction: ENCName: CD-3 Metal ArmorBluetooth: V5.3+BR+EDRFrequency range: 2.4-2.480GHzTransmission distance: 10MHeadphone capacity: 30mAhCharging compartment capacity: 300mAhPlay time: 4 hoursHeadphone charging time: 1 hourCharging compartment voltage: 5V
-  Updated: 2025-06-22T07:52:27Z
+  Updated: 2025-10-12T10:12:35Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -4024,7 +4024,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/CD-3_TWS_Bluetooth_earbuds_with_Mecha_design_-_Hifi_Media_Store-970363.jpg?v=1719008621
     Price: 122,99 € EUR
 - [XIBERIA W20 2.4G+Bluetooth Dual-mode Wireless Earbuds](https://hifimediastore.com/products/xiberia-w20-2-4g-bluetooth-dual-mode-wireless-earbuds): Features: XIBERIA COSMICSPEED Wireless technology While ensuring high fidelity and low latency audio, it brings users a strong endurance with lower power consumption. 2.4GHz / Bluetooth connectivity Easily connect to mobile phones, computers, tablets, laptops and other game devices. FPC antenna Equipped with FPC antenna, strong anti-interference ability can ensure the stability and strength of the signal in the transmission process, and provide lossless sound quality. 10mm composite diaphragm unit 10mm composite diaphragm unit is adopted, and the W20 has carefully adjusted the high, medium and low frequencies independently, which is outstanding. IPX4 waterproof No fear of rain and sweat to meet the needs of daily use, so that you have no worries. Long-lasting battery life Support USB-C fast charging, 10 minutes of charging and 2 hours of battery life, and about 26+hours of extra long battery life can be achieved with the charging bin. Specifications: With Microphone: YesWireless Type: bluetoothWaterproof: YesVolume Control: YesVoice assistant built-in: noVocalism Principle: DynamicSupport Memory Card: NoStyle: In-earNFC Technology: noMaterial: PlasticDriver Diameter: 10mmControl Button: NoConnectors: Type cCommunication: True WirelessCodecs: AAC,sbcCharging Method: CableCertification: CE,FCCBluetooth Version: 5.1Active Noise-Cancellation: No
-  Updated: 2025-06-22T07:52:27Z
+  Updated: 2025-10-12T10:12:36Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -4042,7 +4042,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/XIBERIA_W20_2.4G_Bluetooth_Dual-mode_Wireless_Earbuds_-_Hifi_Media_Store-1004197.jpg?v=1719118514
     Price: 147,99 € EUR
 - [Bowie M2s Bluetooth Earbuds with ANC and Spatial Audio](https://hifimediastore.com/products/bowie-m2s-bluetooth-earbuds-with-anc-and-spatial-audio): Features: -48dB Noise Cancellation,Quiet Down All the Way The headphones are equipped with a state of the art noise cancellation chip and improvements on acoustic designs, achieving -48dB of noise cancellation.It effectively blacks ambient noise, vocals, and wind noise.Anywhere at any time. Intelligent Noise Cancellation 3 different noise cancellation modes for different scenario settings, customizable 10 stage noise cancellation. Listen to what you want to listen to. HiFi Audio, Music Studio Quality Built by the professional acoustics department, using high dynamic drivers with titanium-plated diaphragms, and aerospace-grade plating materials, it has a better frequency response and lower distortion.Presenting a vibrant, colorful audio quality. Immersive Spatial Audio,The Stage is Boundless Immersive spatial audio will grant you the 3D sound stage for music, tv and gaming. All New Design Fully open case design couples with close to perfect polishing and multiple magnetic attachment points for easy handling. AI Communication Noise Cancellation,Eliminated Wind Noise Dual-mic+ AI noise cancellation algorithm lets you make crystal clear alls by separating vocals from the ambient noise via analyzing the surrounding environment. Bluetooth 5.3, Capable in Every Way Increase in single penetration, decrease in audio quality lose and latency. Less response time, stable connection. Golden Label Device 3 Audio technologies for a much more user-friendly experience. 1. Dual Channel Low Latency, 0.06s ultra low latency, excellent video-audio syncopation.2. Smart-Connect, Connect to 2different devices and seamlessly switch between the 2.3. Rapid Charge, Charge 10min and listen 2hours. An All-Day Battery Life 30hours long battery life. Listen to your music without low battery anxiety. Baseus App Convenient, time-saving, and user-friendly, download the latest Baseus App to unlock more features. Change, At your Finger Tips With senstive touch control, you no longer rely on the cellphone to change your setting. Specifications: With Microphone: YesWireless Type: bluetoothWeight[g]: 49.1Waterproof: NoVolume Control: NoVocalism Principle: DynamicTotal Audio Playback: about 30hours(70% volume)Support APP: YesStyle: In-earSound Isolating: YESSensitivity: 48dBNumber Of Drivers: 4Name: Bowie M2sMaximum wireless range[m]: <10mMaterial: ABS+PCMaterial: ABS,PlasticWireless: YesImpedance Range: up to 32 ΩFrequency Response Range: 20 - 2000HzEarcups Type: SealedControl Button: NoConnectors: Type-CCommunication: True WirelessColor: Black/WhiteCodecs: AAC,sbcCharging Time: about 1hourCharging Method: Charging caseBluetooth Version: 5.3Battery life up to[hours]: 30hoursBattery Capacity[mAh]: 350mAh/0.135WhBattery Capacity 2: 400mAh/1.48Wh(charging case)Battery Capacity 1: 35mAh/0.135Wh(headphones)Audio playback: about 7hours(70% volume)Active Noise-Cancellation: YesAccessories: Type-C charging cable(white),Translucent dual color earcaps(x4)Weight:About 49.1g Package Content: 1 x User Manual1 x Charging case1 x Charging Cable
-  Updated: 2025-06-22T07:52:27Z
+  Updated: 2025-10-12T10:12:36Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -4238,7 +4238,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/256GB_Gris_Silvery_Grey_Dual_SIM_CPH2531_-_Hifi_Media_Store-989643.jpg?v=1719045011
   Price: 309,99 € EUR
 - [OPPO Reno8 5G 8GB/256GB Negro (Shimmer Black) Dual SIM CPH2359](https://hifimediastore.com/products/oppo-reno8-5g-8gb-256gb-negro-shimmer-black-dual-sim-cph2359): Reno8 5G  Pantalla de 6,4" Cámara frontal de 32MP con Sensor IMX709 Sony Cámara principal de 50MP con Sensor IMX766 MediaTek Dimensity 1300  Repuesta Ultra Touch 1000Hz Air Gestures Multi-Screen Connect
-  Updated: 2025-10-11T23:21:45Z
+  Updated: 2025-10-12T10:12:38Z
   Vendor: Oppo
   Product Type: Smartphone
   Availability: Available
@@ -4287,7 +4287,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/128GB_Negro_Obsidian_Black_Dual_SIM_-_Hifi_Media_Store-974029.jpg?v=1719016021
   Price: 470,99 € EUR
 - [Apple iPhone 14 Plus 128GB Rojo (PRODUCT RED)](https://hifimediastore.com/products/apple-iphone-14-plus-128gb-rojo-product-red): iPhone 14 Plus  iOS 16 Detección de accidentes Gran batería  Pantalla 21% más grande Super Retina OLED XDR Modo Acción  Chip A15 Bionic  Este iPhone no incluye cargador ni auriculares en la caja original.
-  Updated: 2025-10-11T23:12:05Z
+  Updated: 2025-10-12T10:35:16Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
@@ -6296,7 +6296,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/13148.jpg?v=1723761966
   Price: 208,99 € EUR
 - [Xiaomi Redmi Pad SE 11" 8GB/256GB Wi-Fi Gris Grafito (Graphite Gray) 23073RPBFG](https://hifimediastore.com/products/xiaomi-redmi-pad-se-11-8gb-256gb-wi-fi-gris-grafito-graphite-gray-23073rpbfg): Xiaomi Redmi Pad SE:  Pantalla IPS LCD de 11" FHD+ y 90Hz Chip Qualcomm Snapdragon 680 4G (6 nm) Batería de 8.000 mAh y carga rápida de 10W Cuatro Altavoces compatibles con Dolby Atmos® Conector para auriculares de 3,5 mm MIUI Pad 14 con Android 13
-  Updated: 2025-10-11T22:35:15Z
+  Updated: 2025-10-12T11:55:15Z
   Vendor: Xiaomi
   Product Type: Tablet's
   Availability: Available
@@ -6548,7 +6548,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/11767.jpg?v=1723776608
   Price: 171,99 € EUR
 - [Google Pixel 9 5G 12GB/128GB Negro (Obsidian) Dual SIM](https://hifimediastore.com/products/google-pixel-9-5g-12gb-128gb-negro-obsidian-dual-sim): Google Pixel 9:  Pantalla Super Actua OLED de 6,3", HDR10+ Y 120Hz Procesador Google Tensor G4 Cámara avanzada y edición de fotos con IA Batería de 4700 mAh y carga rápida de 27W Panel delantero y trasero de vidrio resistente Android 14
-  Updated: 2025-10-11T21:55:54Z
+  Updated: 2025-10-12T10:25:12Z
   Vendor: Google
   Product Type: Smartphone
   Availability: Available
@@ -6611,7 +6611,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/14795.jpg?v=1725047425
   Price: 278,99 € EUR
 - [Google Pixel Buds Pro Auriculares Bluetooth Azul (Heavenly)](https://hifimediastore.com/products/google-pixel-buds-pro-auriculares-bluetooth-azul-heavenly): Google Pixel Buds Pro Cancelacion de Ruido Activa con Silent Seal Altavoz de 11 mm Ecualizador de 5 bandas Modo Sonido Ambiente Almohadillas flexibles Sensores para la presion del canal auditivo Microfonos con conformacion de haces Acelerometro de voz
-  Updated: 2025-10-11T21:31:27Z
+  Updated: 2025-10-12T10:25:12Z
   Vendor: Google
   Product Type: Bluetooth
   Availability: Available
@@ -6695,7 +6695,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/18099.jpg?v=1725049009
   Price: 33,99 € EUR
 - [Google Pixel Buds Pro Negro Carbón (Charcoal)](https://hifimediastore.com/products/google-pixel-buds-pro-negro-carbon-charcoal): Google Pixel Buds Pro Cancelacion de Ruido Activa con Silent Seal Altavoz de 11 mm Ecualizador de 5 bandas Modo Sonido Ambiente Almohadillas flexibles Sensores para la presion del canal auditivo Microfonos con conformacion de haces Acelerometro de voz
-  Updated: 2025-10-11T01:17:09Z
+  Updated: 2025-10-12T10:25:11Z
   Vendor: Google
   Product Type: Bluetooth
   Availability: Available
@@ -6730,7 +6730,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/18288.jpg?v=1726095959
   Price: 55,99 € EUR
 - [OnePlus Buds Pro 3 Auriculares Bluetooth Negro (Midnight Opus)](https://hifimediastore.com/products/oneplus-buds-pro-3-auriculares-bluetooth-negro-midnight-opus): OnePlus Buds Pro 3:  Cancelación activa de ruido de hasta 50 dB Dynaudio Baja latencia de 94 ms Hasta 43 horas de reproducción Audio espacial con seguimiento de la cabeza Bluetooth 5.4 Resistencia al agua y al polvo IP55
-  Updated: 2025-10-11T21:58:03Z
+  Updated: 2025-10-12T10:55:11Z
   Vendor: OnePlus
   Product Type: Bluetooth
   Availability: Available
@@ -6877,7 +6877,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/imagen_2024-09-27_224707697.png?v=1727470032
   Price: 375,99 € EUR
 - [Bose Ultra Open Earbuds - Auriculares Bluetooth de Diseño Abierto Negros](https://hifimediastore.com/products/bose-ultra-open-earbuds-auriculares-bluetooth-de-diseno-abierto-negros): Bose Ultra Open Earbuds, auriculares inalámbricos con diseño abierto, audio inmersivo, control táctil, resistencia IPX4, Bluetooth v5.3 y autonomía de hasta 27 horas, negro Los Bose Ultra Open Earbuds son unos auriculares inalámbricos con diseño abierto que combinan una excelente calidad de sonido con una gran comodidad y permiten escuchar lo que ocurre a tu alrededor. Incorporan botones táctiles en cada auricular que posibilitan cambiar de modo estéreo a modo inmersivo, pausar y reproducir fácilmente. Además, cuentan con función de volumen automático, adaptándose a los sonidos del entorno. Por otro lado, su estructura es resistente al agua y está equipada con un sistema de 4 micrófonos para llamadas manos libres. Todo esto con una batería con hasta 27 horas de autonomía con su estuche de carga. Diseño abierto con tecnología OpenAudio El diseño abierto de los Bose Ultra Open Earbuds posee una junta flexible y un agarre ligero que logra un ajuste perfecto a la oreja sin ejercer presión. Además, combina un reconocimiento de lo que sucede en el entorno con un sonido intenso y privado gracias a la tecnología OpenAudio. Función de volumen automático y controles integrados Los Ultra Open Earbuds incluyen controles en cada auricular para alternar entre el modo estéreo y el modo inmersivo, pausar y reproducir música. Asimismo, su control de volumen automático ajusta el mismo acorde al ruido del entorno. Protección IPX4 y Bluetooth v5.3 La estructura de estos auriculares Bose es resistente al agua con certificación IPX4, excelente para realizar actividad física al aire libre. Además, su conectividad Bluetooth v5.3 garantiza un emparejamiento estable, sin la molestia de cables. Batería con una gran autonomía de hasta 7,5 horas La batería de los Ultra Open Earbuds permite hasta 7,5 horas de reproducción continuas y hasta 19,5 horas extra con el estuche de carga. Su carga rápida brinda hasta 2 horas extra con 10 minutos de carga. Especificaciones: Marca: Bose Modelo: Ultra Open Earbuds Sonido: Tecnología OpenAudio Función de audio inmersivo 4 micrófonos por auricular Conexión inalámbrica: Bluetooth v5.3 Alcance: Hasta 9 metros Características: Resistencia al agua IPX4 Diseño abierto Llamadas manos libres Control táctil App Bose Music (Android e iOS) Batería: Tipo: Iones de litio Autonomía: Hasta 7,5 horas (Carga)/Hasta 27 horas (Caja de carga) Tiempo de carga: Hasta 1 hora (Auricular)/Hasta 3 horas (Caja de carga) Carga rápida: 10 minutos para 2 horas Método de carga: USB Tipo C Materiales: plástico, chapado de oro y silicona Dimensiones: Auriculares: 1,9 x 1,7 x 2,7 cm Caja de carga: 4,2 x 6,5 x 2,6 cm Color: Negro Contenido de la caja: 2 x Auriculares Bose Ultra Open Earbuds Negros (Izquierdo y derecho) 1 x Estuche de carga 1 x Cable USB Tipo C 30 cm 1 x Manual de usuario 1 x Ficha de seguridad
-  Updated: 2025-07-27T12:07:54Z
+  Updated: 2025-10-12T10:12:41Z
   Vendor: Bose
   Product Type: 
   Availability: Available
@@ -6891,7 +6891,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/18971.jpg?v=1728094548
   Price: 1018,99 € EUR
 - [Google Pixel 9 Pro XL 5G 16GB/128GB Verde Liquen (Hazel) Dual SIM](https://hifimediastore.com/products/google-pixel-9-pro-xl-5g-16gb-128gb-verde-liquen-hazel-dual-sim): Google Pixel 9 Pro XL:  Pantalla Super Actua OLED de 6,8", HDR10+ Y 120Hz Procesador Google Tensor G4 La mejor Cámara Pixel La IA más avanzada Batería de 5060 mAh y carga rápida de 45W Diseño elegante y duradero Android 14
-  Updated: 2025-10-11T22:02:39Z
+  Updated: 2025-10-12T10:25:11Z
   Vendor: Google
   Product Type: Smartphone
   Availability: Available
@@ -7290,7 +7290,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/20982.jpg?v=1738257030
   Price: 752,99 € EUR
 - [Samsung Galaxy S25 5G 12GB/256GB Azul (Icy Blue) Dual SIM SM-S931B](https://hifimediastore.com/products/samsung-galaxy-s25-5g-12gb-256gb-azul-icy-blue-dual-sim-sm-s931b): Samsung Galaxy S25:  Pantalla FHD+ de 6,2" Dynamic AMOLED 2X Qualcomm Snapdragon 8 Elite Triple cámara de 50 MP Grabación de vídeo en 8K Batería de 4000 mAh Carga Rápida de 25 W Android 15, One UI 7  *Condiciones de Samsung Pay en la descripción.
-  Updated: 2025-10-11T22:16:20Z
+  Updated: 2025-10-12T11:35:10Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
@@ -7353,7 +7353,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/21032.jpg?v=1738284316
   Price: 1291,99 € EUR
 - [Samsung Galaxy S25 Ultra 5G 12GB/1TB Titanio Negro (Titanium Black) Dual SIM SM-S938B](https://hifimediastore.com/products/samsung-galaxy-s25-ultra-5g-12gb-1tb-titanio-negro-titanium-black-dual-sim-sm-s938b): Samsung Galaxy S25 Ultra Pantalla FHD de 69 Dynamic AMOLED 2X Qualcomm Snapdragon 8 Elite Cuadruple camara de 200 MP Grabacion de video en 8K Bateria de 5000 mAh Carga Rapida de 45 W Android 15 One UI 7 Condiciones de Samsung Pay en la descripcio
-  Updated: 2025-10-11T22:16:35Z
+  Updated: 2025-10-12T10:12:42Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
@@ -7661,7 +7661,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/21811.jpg?v=1742576446
   Price: 348,99 € EUR
 - [Samsung Galaxy A36 5G 8GB/256GB Blanco (Awesome White) Dual SIM SM-A366](https://hifimediastore.com/products/samsung-galaxy-a36-5g-8gb-256gb-blanco-awesome-white-dual-sim-sm-a366): Samsung Galaxy A36 5G Diseno fino con un toque de estilo Pantalla Super AMOLED FHD de 67 Qualcomm Snapdragon 6 Gen 3 Triple camara de 50MP y camara selfie de 12MP Bateria de 5000 mAh Carga Rapida de 45W Conexion 5G Certificacion IP67 No incluye c
-  Updated: 2025-10-11T22:23:34Z
+  Updated: 2025-10-12T11:30:16Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
@@ -7696,7 +7696,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/21870.jpg?v=1742920808
   Price: 284,99 € EUR
 - [Samsung Galaxy A36 5G 8GB/256GB Lavanda (Awesome Lavander) Dual SIM SM-A366](https://hifimediastore.com/products/samsung-galaxy-a36-5g-8gb-256gb-lavanda-awesome-lavander-dual-sim-sm-a366): Samsung Galaxy A36 5G Diseno fino con un toque de estilo Pantalla Super AMOLED FHD de 67 Qualcomm Snapdragon 6 Gen 3 Triple camara de 50MP y camara selfie de 12MP Bateria de 5000 mAh Carga Rapida de 45W Conexion 5G Certificacion IP67 No incluye c
-  Updated: 2025-10-11T22:23:42Z
+  Updated: 2025-10-12T11:30:17Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
@@ -8054,7 +8054,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/23286.jpg?v=1748554285
   Price: 865,99 € EUR
 - [Samsung Galaxy S25 Edge 5G 12GB/512GB Azul (Titanium Icyblue) Dual SIM](https://hifimediastore.com/products/samsung-galaxy-s25-edge-5g-12gb-512gb-azul-titanium-icyblue-dual-sim): Samsung Galaxy S25 Edge:  Pantalla FHD+ de 6,7" Dynamic AMOLED 2X Qualcomm Snapdragon 8 Elite Cámara principal de 200 MP Grabación de vídeo en 8K Batería de 3900 mAh Carga Rápida de 25 W Android 15, One UI 7  *Condiciones de Samsung Pay en la descripción.
-  Updated: 2025-10-11T22:32:14Z
+  Updated: 2025-10-12T10:12:31Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
@@ -8460,7 +8460,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/25981.jpg?v=1758836163
   Price: 2445,99 € EUR
 - [Samsung Galaxy Buds3 FE Auriculares Bluetooth Gris (Grey) SM-R420](https://hifimediastore.com/products/samsung-galaxy-buds3-fe-auriculares-bluetooth-gris-grey-sm-r420): Galaxy Buds3 FE:  Diseño ergonómico y resistente Bluetooth 5.4 Cancelación Activa de Ruido Capacidad de la Batería (estuche); 515 mAh Audio 360 Galaxy AI
-  Updated: 2025-10-12T04:55:11Z
+  Updated: 2025-10-12T09:08:18Z
   Vendor: Samsung
   Product Type: Bluetooth
   Availability: Available
