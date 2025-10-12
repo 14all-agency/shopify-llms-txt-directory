@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2023-02-25T23:29:15Z
 - Contact Email: info@yourfabstore.com
-- Updated At: 2025-10-12T17:12:42.293Z
+- Updated At: 2025-10-12T20:00:32.457Z
 
 ## Products
 
@@ -3607,7 +3607,7 @@
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/13117870580683597127_2048.jpg?v=1760248268
     Price: $38.98 USD
 - [Im Not Weird Women's Hoodie](https://yourfabstore.com/products/im-not-weird-womens-hoodie): Stay cozy and stylish with this Unisex Heavy Blend™ Hooded Sweatshirt featuring the unique 'I'm Not Weird I'm Limited Edition' quote. Perfect for women who embrace their individuality and empower themselves. This hoodie is great for casual wear, lounging at home, or running errands. Ideal for gifting on birthdays, women's day, or as a motivational gift.Product features- 50% cotton, 50% polyester fabric blend for strength and smoothness- Adjustable hood with drawstring- Kangaroo pouch pocket for warmth- Great for adult women looking for a comfortable and empowering styleCare instructions- Tumble dry: medium- Iron, steam or dry: low heat- Do not dryclean- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed S M L XL 2XL 3XL Width, in 20.08 22.05 24.02 25.98 27.99 29.92 Length, in 27.17 27.95 29.13 29.92 31.10 31.89 Sleeve length from center back, in 33.50 34.50 35.50 36.50 37.50 38.50 Size tolerance, in 1.50 1.50 1.50 1.50 1.50 1.50 EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Gildan 18500, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: For adults, Made in Bangladesh Care instructions: Machine wash: cold (max 30C or 90F), Non-chlorine: bleach as needed, Tumble dry: medium, Iron, steam or dry: low heat, Do not dryclean
-  Updated: 2025-10-12T05:51:06Z
+  Updated: 2025-10-12T17:16:16Z
   Vendor: Printify
   Product Type: Hoodie
   Availability: Available
