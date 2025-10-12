@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-03-19T17:46:58Z
 - Contact Email: info@patundpatty.de
-- Updated At: 2025-10-11T16:00:34.786Z
+- Updated At: 2025-10-12T04:00:34.316Z
 
 ## Products
 
@@ -1930,7 +1930,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Waschbare-Bio-Baumwolle-Bastelwatte-GOTS-Kba-Naturf_llung-F_r-Spielzeug-Und-Bastelarbeiten-PAT-Und-PATTY.png?v=1752305383
     Price: 350,00 € EUR
 - [100 % Bio Schurwolle Kügelchen als Füllmaterial für Kissen](https://patundpatty.de/products/bio-schurwolle-fuellmaterial-wollkugelchen-kbt): Bio Schurwolle Kügelchen von PAT & PATTY: weich, atmungsaktiv, nachhaltig, waschbar und Made in Germany ideal zum Füllen von Kissen, Spielzeug & DIY-Projekten.
-  Updated: 2025-09-30T15:13:54Z
+  Updated: 2025-10-11T19:40:26Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -1974,7 +1974,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Extra-Weiche-Maiswatte-F_llwatte-Atmungsaktive-Naturf_llung-PAT-Und-PATTY.jpg?v=1752304823
     Price: 215,00 € EUR
 - [Bio Hirsespelz Kissenfüllung – natürlich und atmungsaktiv](https://patundpatty.de/products/bio-hirsespelz-hirsespreu-hirseschalen): Bio Hirsespelz Kissenfüllung von PAT & PATTY: atmungsaktiv, schadstofffrei & nachhaltig. Für erholsamen Schlaf und gesundes Liegen – jetzt online entdecken.
-  Updated: 2025-10-08T09:02:00Z
+  Updated: 2025-10-11T19:05:06Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
