@@ -6,12 +6,12 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-07-26T03:23:12Z
 - Contact Email: donedeals.xyz@gmail.com
-- Updated At: 2025-10-12T00:01:02.008Z
+- Updated At: 2025-10-12T12:00:59.646Z
 
 ## Products
 
 - [LED PIR Motion Sensor Cabinet  With USB Rechargeble](https://donedeals.xyz/products/led-pir-motion-sensor-cabinet-with-usb-rechargeble): Product Name: LED PIR Motion Sensor Cabinet Light With USB Rechargeble Package Contains: 1 PieceColour Temperature- 2500 - 3000 K WarmCord Colour- WirelessNumber of light - 3 lightsFeatures- Battery Operated, Colour-Changing, Dimmable, Easy Installation, Energy Efficient, Energy Saving, Even Lighting, Low Voltage, PIR Motion Sensor, Portable, Rechargeable, Rust Resistant, Sensor, Smart Enabled, Spotlight, Stick-On, USB, Wall Mounted, Waterproof, Wireless, With LightLight Colour- Neutral White, Warm White, WhitePower Source - USBCombo: Pack of 1Weight: 400gramLBH - ? ?40L x 4W x 8.6H Centimeters
-  Updated: 2025-10-11T15:47:00Z
+  Updated: 2025-10-12T08:47:07Z
   Vendor: rakqr0-pn
   Product Type: 
   Availability: Available
@@ -23580,12 +23580,12 @@
   Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/afbsr_512.webp?v=1759829867
   Price: ₹0.00 INR
 - [Laycra Printed Men Shirt](https://donedeals.xyz/products/laycra-printed-men-shirt-1): Product Details Name : Laycra Printed Men Shirt Fabric : Lycra Sleeve Length : Long Sleeves Pattern : Striped Net Quantity (N) : 1 Sizes : S (Chest Size : 38 in, Length Size: 28 in) M (Chest Size : 40 in, Length Size: 28.5 in) L (Chest Size : 42 in, Length Size: 29 in) XL (Chest Size : 44 in, Length Size: 30 in) Shirt, shirt, SHIRT, imported popcorn febric shirt, PRINTED shirt, casual shirt, formal shirt, party wear shirt, shirt for men, shirts, shirts for meShirt, shirt, SHIRT, imported popcorn febric shirt, PRINTED shirt, casual shirt, formal shirt, party wear shirt, shirt for men, shirts, shirts for mens, office shirt, full sleeve shirt, solid shirt Men kurta type Shirts shirts, shirt for men white colour, shirt for men cotton, shirt for, shirt formal, shirt for man combo, shirt for mens combo, shirt for men double pocket, shirt for mans, short for mens stylish, shirt for mens stylish, shirt for mens black, shirt under 100, shirt under 300, shirt under 150, shirt under 150 for men, shirt under 500, shirt under 200, shir under 200 for womenns, office shirt, full sleeve shirt, solid shirt Men kurta type Shirts Country of Origin : India More Information
-  Updated: 2025-10-07T09:40:47Z
+  Updated: 2025-10-12T10:17:37Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/omagp_512.webp?v=1759830041
-  Price: ₹0.00 INR
+  Price: ₹389.00 INR
 - [Mens Full Sleeve](https://donedeals.xyz/products/mens-full-sleeve): Product Details Name : Mens Full Sleeve Fabric : Cotton Blend Sleeve Length : Long Sleeves Pattern : Striped Net Quantity (N) : 1 Sizes : S (Chest Size : 18 in, Length Size: 26 in) M (Chest Size : 19 in, Length Size: 27 in) L (Chest Size : 20 in, Length Size: 28 in) XL (Chest Size : 21 in, Length Size: 29 in) XXL (Chest Size : 22 in, Length Size: 30 in) Country of Origin : India More Information
   Updated: 2025-10-07T09:42:27Z
   Vendor: DoneDeals
@@ -24272,8 +24272,8 @@
   Updated: 2025-10-08T09:12:11Z
   Total Products: 0
 - [all](https://donedeals.xyz/collections/all)
-  Updated: 2025-10-11T07:10:49Z
-  Total Products: 2371
+  Updated: 2025-10-12T11:12:58Z
+  Total Products: 2372
 - [men watch](https://donedeals.xyz/collections/men-watch)
   Updated: 2025-10-08T09:12:11Z
   Total Products: 89
@@ -24371,7 +24371,7 @@
   Updated: 2025-10-09T03:29:52Z
   Total Products: 97
 - [Shirt](https://donedeals.xyz/collections/shirt)
-  Updated: 2025-10-08T09:12:13Z
+  Updated: 2025-10-12T11:12:58Z
   Total Products: 45
 - [wining](https://donedeals.xyz/collections/wining)
   Updated: 2025-10-09T18:59:53Z
