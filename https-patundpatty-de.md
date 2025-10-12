@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-03-19T17:46:58Z
 - Contact Email: info@patundpatty.de
-- Updated At: 2025-10-12T04:00:34.316Z
+- Updated At: 2025-10-12T08:00:33.650Z
 
 ## Products
 
@@ -657,7 +657,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/W_rmekissen-Hase-waschbar-Bio-Baumwolle-PAT-Und-PATTY.jpg?v=1755608373
     Price: 29,90 € EUR
 - [Bio Wärmekissen Elefant – Plüsch & Frottee, weich und fair](https://patundpatty.de/products/bio-warmekissen-elefant): Bio Wärmekissen Elefant – handgemacht aus Plüsch und Frottee, weich, wohltuend und schadstofffrei. Ideal zum Kuscheln und Entspannen. Jetzt online bestellen!
-  Updated: 2025-10-02T14:51:12Z
+  Updated: 2025-10-12T07:28:15Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -2812,6 +2812,10 @@
     Updated: 2025-10-11T04:56:06Z
     Author: Sharon
     Tags: was ist kuschelfreundlich
+  - [Was ist ein Montessori-Spielzeug? Verständlich erklärt](https://patundpatty.de/blogs/news/was-ist-ein-montessori-spielzeug-verstaendlich-erklaert): Entdecken Sie, was ein Montessori-Spielzeug ist, warum es wichtig ist und wie es die Entwicklung von Kindern fördert. Ein umfassender Überblick.
+    Updated: 2025-10-12T07:11:22Z
+    Author: Sharon
+    Tags: was ist ein montessori-spielzeug
 
 ## Store Pages
 
