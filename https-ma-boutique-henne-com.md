@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2018-01-12T21:20:39Z
 - Contact Email: contact@ma-boutique-henne.com
-- Updated At: 2025-10-11T20:00:39.345Z
+- Updated At: 2025-10-12T08:00:36.976Z
 
 ## Products
 
@@ -284,7 +284,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/Henne-Tazarine.jpg?v=1607715705
   Price: 5,10 € EUR
 - [Henné du Maroc](https://ma-boutique-henne.com/products/henne-du-maroc-100gr): Ce henné est 100% naturel, traditionnelle, coloration des cheveux et tatouages temporaires sur le corps. Henné du Maroc, marocain, tazarine, soin des cheveux, coloration cheveux blancs, soin capillaire, boutique, bio, vegan, beauté chevelure, brillance, soin, roux, rousse, cuivré, auburn, rouge, bordeaux, plante, poudre
-  Updated: 2025-10-07T15:56:50Z
+  Updated: 2025-10-12T05:12:11Z
   Vendor: Ma Boutique Henné
   Product Type: Henné
   Availability: Available
