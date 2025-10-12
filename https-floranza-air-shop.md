@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-08-20T10:34:43Z
 - Contact Email: enfinlibre256@gmail.com
-- Updated At: 2025-10-12T16:00:41.167Z
+- Updated At: 2025-10-12T17:35:47.982Z
 
 ## Products
 
@@ -25,8 +25,8 @@
   - [Kaki](https://floranza-air.shop/products/floranza-air?variant=51742032396625)
     Availability: Available
     Price: 29,90 € EUR
-- [Portable Neck Fan,USB Hands Free Neck Hanging Rechargeable Mini Sports3-Speed Adjustable Neck Dual Fan Home OfficeOutdoor Travel](https://floranza-air.shop/products/portable-neck-fan-usb-hands-free-neck-hanging-rechargeable-mini-sports3-speed-adjustable-neck-dual-fan-home-officeoutdoor-travel): SPECIFICATIONS1: Hanging neck fanBrand Name: OUSSIRROCertification: CEChoice: yesFan Speed: Third GearHign-concerned Chemical: NoneInstallation: MiniMaterial: PlasticMax. Timing Limit: No TimingModel Number: Hanging neck fanOrigin: Mainland ChinaPower (W): 5wPower Source: Rechargeable BatteryRemote Control Function: NoTiming Function: No TimingVoltage: 5v
-  Updated: 2025-10-08T10:05:18Z
+- [Ventilateur de Cou Portable USB Mains Libres - 3 Vitesses Rechargeable | FLORANZA-AIR](https://floranza-air.shop/products/portable-neck-fan-usb-hands-free-neck-hanging-rechargeable-mini-sports3-speed-adjustable-neck-dual-fan-home-officeoutdoor-travel): Ventilateur de cou USB mains libres, 3 vitesses, rechargeable. Double ventilateur 247g ultra-léger. Parfait sport, bureau, voyage. Livraison rapide!
+  Updated: 2025-10-12T16:59:05Z
   Vendor: FLORANZA-AIR™
   Product Type: 
   Availability: Available
@@ -113,8 +113,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S125729d195454ef7a12f9a94965e52c7q.webp?v=1758157220
     Price: 17,00 € EUR
-- [2024 1200mAh New Mini Neck Mounted Fan Portable Bladeless Neck Rechargeable Air Cooler 3 Speed Mini Summer Sports Fan Outdoor](https://floranza-air.shop/products/2024-1200mah-new-mini-neck-mounted-fan-portable-bladeless-neck-rechargeable-air-cooler-3-speed-mini-summer-sports-fan-outdoor): La sensation d'inconfort causée par la chaleur étouffante est un problème récurrent, que l’on soit au bureau, en voyage ou pendant la pratique d’activités sportives. Beaucoup de personnes peinent à se concentrer, se sentent fatiguées plus rapidement ou voient leur plaisir gâché lors des longues journées d’été à cause de températures excessives. Cette chaleur peut vite rendre vos moments de détente désagréables, ralentir votre productivité au travail ou limiter vos envies de sorties. Devoir constamment s’éventer ou trouver un endroit climatisé devient une préoccupation quotidienne, entraînant stress et perte d’énergie. Le 2024 1200mAh New Mini Neck Mounted Fan Portable Bladeless Neck Rechargeable Air Cooler 3 Speed Mini Summer Sports Fan Outdoor est la solution idéale pour transformer votre été, à l’intérieur comme à l’extérieur. Ce ventilateur de cou miniaturisé améliore considérablement votre confort grâce à ses fonctionnalités avancées et sa grande praticité : Batterie rechargeable 1200mAh offrant une autonomie durable, vous permettant de profiter d’un air frais à tout moment, sans piles jetables à changer Design sans pales sécurisé et silencieux, adapté à tous les âges pour un usage en toute sérénité lors de vos activités professionnelles ou de loisir Trois vitesses réglables pour ajuster facilement la puissance de ventilation selon vos besoins et la température ambiante De nombreux utilisateurs, professionnels ou sportifs, confirment la robustesse et l’efficacité de ce mini ventilateur de cou. Un client affirme : « Je l’emporte partout, il me garde au frais pendant des heures sans gêner mes mouvements – parfait pour le bureau et les balades estivales ! » Cette preuve d’efficacité fait du ventilateur mini sans pales l’accessoire indispensable lors des périodes de chaleur intense. Ne laissez plus la chaleur compromettre vos moments précieux. Adoptez dès maintenant ce ventilateur mini portable pour rester actif, concentré et à l’aise, où que vous soyez. Profitez du confort mains-libres et d’une fraîcheur personnalisée à chaque instant de l’été ! Utilisation polyvalente : au travail, à la maison, en extérieur ou lors d’activités sportives Léger et compact (248g, 16×4×6.2cm), facile à transporter dans un sac ou autour du cou Technologie de turbine cachée pour un flux d’air puissant et concentré, avec une efficacité accrue de 99 %
-  Updated: 2025-10-08T10:05:18Z
+- [Ventilateur de Cou Mini 1200mAh Sans Pales - 3 Vitesses Rechargeable USB | FLORANZA-AIR](https://floranza-air.shop/products/2024-1200mah-new-mini-neck-mounted-fan-portable-bladeless-neck-rechargeable-air-cooler-3-speed-mini-summer-sports-fan-outdoor): Ventilateur de cou portable 1200mAh sans pales, 3 vitesses. Ultra-léger 260g, rechargeable USB, silencieux. Parfait pour sport, bureau, voyage. Livraison rapide!
+  Updated: 2025-10-12T16:09:49Z
   Vendor: FLORANZA-AIR™
   Product Type: 
   Availability: Available
@@ -203,8 +203,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Saa0f227ac60844b48f71bd7274364c5bx.webp?v=1758158565
     Price: 13,00 € EUR
-- [Neck Bladeless Fan Mini Ultra Long Life Portable Lazy Silent Fan Usb Charging Student Sports Office Digital Display Power 5 Gear](https://floranza-air.shop/products/neck-bladeless-fan-mini-ultra-long-life-portable-lazy-silent-fan-usb-charging-student-sports-office-digital-display-power-5-gear): SPECIFICATIONS1: portable usb neck fan2: wearable mini fan3: rechargeable neck fan4: Mini Hanging Neck Fan5: Digital Display Power Air Cooler6: Mini neck hanging fanBrand Name: VSARTEROChoice: yesHign-concerned Chemical: NoneOrigin: Mainland ChinaPower (W): 5wRemote Control Function: NoTiming Function: No TimingVoltage: 5v
-  Updated: 2025-10-08T10:05:19Z
+- [Ventilateur de Cou Digital 5 Vitesses - Affichage LED Sans Pales USB | FLORANZA-AIR](https://floranza-air.shop/products/neck-bladeless-fan-mini-ultra-long-life-portable-lazy-silent-fan-usb-charging-student-sports-office-digital-display-power-5-gear): Ventilateur de cou avec affichage digital LED, 5 vitesses, sans pales. Rechargeable USB, ultra-silencieux. Parfait bureau, sport. Livraison rapide!
+  Updated: 2025-10-12T16:35:30Z
   Vendor: FLORANZA-AIR™
   Product Type: 
   Availability: Available
@@ -231,8 +231,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Sb44ccfad27134367aea72413e5fcf3a9N.webp?v=1758187472
     Price: 267,00 € EUR
-- [New Hanging Neck Fan Portable Cooling Fan Air Cooler USB Leafless Bladeless Neckband Mini Rechargeable Electric Fans](https://floranza-air.shop/products/new-hanging-neck-fan-portable-cooling-fan-air-cooler-usb-leafless-bladeless-neckband-mini-rechargeable-electric-fans): SPECIFICATIONSBrand Name: kinscoterCertification: CE,RoHSChoice: yesFan Speed: Fourth GearInstallation: Bladeless FanModel Number: DQ-209Origin: Mainland ChinaPower (W): 5wPower Source: BatteryRemote Control Function: NoTiming Function: No TimingType: Cooling Only,Ventilation FanVoltage: 5vVoltage (V): 5vWater-shortage Power-off Protection: YesWind Type: Standard WindWelcome to HUMI store. Features 1. The hose can be stored, compact and portable. 2. The polymer lithium battery is safer and more secure. 3. High-quality silent brushless motor, strong wind. 4. One-key operation, 3-speed adjustable air volume. Parameter Rated input: DC5.0V/1.0A Working current: 0.25-0.9A Rated power: ≤4W Battery capacity: 1600mAh Battery life: about 6 hours for 1st gear, 3 hours for 2nd gear, 1.5 hours for 3rd fan Charging time: about 3 hours Product List Hanging neck fan*1 Manual*1 Charging cable*1
-  Updated: 2025-10-08T10:05:19Z
+- [Ventilateur de Cou 1600mAh Sans Pales - Portable Rechargeable USB Mini | FLORANZA-AIR](https://floranza-air.shop/products/new-hanging-neck-fan-portable-cooling-fan-air-cooler-usb-leafless-bladeless-neckband-mini-rechargeable-electric-fans): Ventilateur de cou 1600mAh sans pales, 3 vitesses, 239g ultra-léger. Rechargeable USB, 6h autonomie. Parfait sport, bureau, voyage. Livraison rapide!
+  Updated: 2025-10-12T16:12:43Z
   Vendor: FLORANZA-AIR™
   Product Type: 
   Availability: Available
@@ -22244,7 +22244,7 @@ Fashion Element:simple
     Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/H4a87bfb7d3eb49aa97ce5ccc6dda21f51.webp?v=1760233199
     Price: 70,00 € EUR
 - [BINBOND 2521 B2521 Men Women Couple Wristwatch Stainless Steel Luminous Quartz Watch for Reloj Montres Homme Relogio Masculino](https://floranza-air.shop/products/binbond-2521-b2521-men-women-couple-wristwatch-stainless-steel-luminous-quartz-watch-for-reloj-montres-homme-relogio-masculino): SPECIFICATIONSBand Length: 20 cmBand Material Type: Stainless Steel,LeatherBand Width: 21mmBattery Life: 1-3yearsBrand Name: BinbondCase Material: Stainless SteelCase Shape: RoundCase Thickness: 12 mmClasp Type: BuckleDial Diameter: 43mmDial Display: PointerDial Window Material Type: HardlexFeature: Auto Date,chronograph,Complete Calendar,Day/Date,Water Resistant,Waterproof,Luminous,Luminous Hands,Shock ResistantMaterial: Stainless SteelModel Number: Binbond 2521Movement: QuartzMovement Brand: MIYOTAPlace of Origin: Guangdong, ChinaStyle: Luxe,Vintage,Retro,Morden,Japanese,Minimalist,Business Style,Casual Style,SportyType: CHARM,Coin,Fashion,Limited Edition,Luxury,sport,Antique,Cartoon,BusinessUser: MenWater Resistance Depth: 3BARprovide mould making and sample making service: sample making,mould making Welcome to Shihe Watch Any requires, please contact us to get more details and best price! Related Products Product Description Hot Sale BINBOND 2521 Relogio Masculino Couple Wristwatch Men Stainless Steel Luminous Calendar Quartz Watch WATCH DETAILS Brand Binbond Model 2521 Movement High Quality Quartz Movement Case Material Stainless Steel Waterproof 30M Weight 110g WATCH SIZE Diameter 43mm Case Thickness 12mm Band Width 21mm Band Length 260mm ORDERS Stock Brand your Logo Delivery 2 Days Delivery 30 Days Logo Original Logo Logo Can make your own Logo MOQ 1pcs MOQ 500pcs, can mix colors Payment 100% Safe Payment with Alibaba, T/T Bank Transfer, West Union etc. Company Profile WHY CHOOSE US: * Here is the home base of Amazon / Ebay / Shopify / Lazada / Facebook. * We offer dropshipping, labelling, FBA shipping, custom logo and box services. FAQ 1. Are you manufacturer or trade company? We are both manufacturer and trading company, have our own brand and other famous popular brands with factory price too. 2. What is your MOQ? Our ready stock MOQ is 1pcs, can mix colors and models. For custom logo order MOQ is 500pcs, can mix different color. 3. Can you offer sample before mass order? Yes samples will be kindly arranged for quality check, please contact us for more details. 4. How about your product quality? All of our product has been 3 times quality checked before shipping. All of our battery life is at least 1-2 years. Any quality problem when you receive the products, pls contact us. 5. What is your products delivery time? For ready stock, delivery day is within 2 days, much quicker than general suppliers. For custom orders, delivery day is within 30 days, quicker than general suppliers. Any more questions, please feel free to send us inquiry or leave us messages online, we will reply you very soon.
-  Updated: 2025-10-12T12:14:21Z
+  Updated: 2025-10-12T17:10:52Z
   Vendor: FLORANZA-AIR.SHOP
   Product Type: 
   Availability: Available
@@ -22764,17 +22764,17 @@ Fashion Element:simple
   Updated: 2025-10-08T10:05:18Z
   Total Products: 1
 - [AVADA - Best Sellers](https://floranza-air.shop/collections/avada-best-sellers)
-  Updated: 2025-10-12T11:42:00Z
+  Updated: 2025-10-12T17:10:54Z
   Total Products: 410
 - [APPPlaza - Best Sellers](https://floranza-air.shop/collections/appplaza-best-sellers)
-  Updated: 2025-10-12T11:42:00Z
+  Updated: 2025-10-12T17:10:54Z
   Total Products: 410
 - [VENTILATEUR DE COU PORTABLE RECHARGEABLE](https://floranza-air.shop/collections/ventilateur-de-cou-portable-rechargeable): Description: Restez au frais partout, en toute liberté ! Vous en avez assez de souffrir de la chaleur lors de vos déplacements, au travail ou pendant vos activités sportives ? Le FLORANZA-AIR™ est la solution parfaite pour vous rafraîchir instantanément, où que vous soyez. ✨ Pourquoi choisir FLORANZA-AIR™ ? Portable et mains libres - Se porte confortablement autour du cou, vous laissant les mains libres pour vos activités Rechargeable USB - Plus besoin de piles jetables, économique et écologique Ultra-léger (239g) - Vous oubliez que vous le portez Silencieux - Profitez d'une brise rafraîchissante sans bruit gênant Parfait pour l'été - Idéal pour le sport, le bureau, les voyages, le jardinage ou toute activité extérieure 🌬️ Caractéristiques techniques : Poids : 239g seulement Alimentation : Rechargeable par USB Design ergonomique pour un confort optimal Ventilation efficace et ciblée Ne laissez plus la chaleur gâcher vos journées ! Commandez votre FLORANZA-AIR™ dès maintenant et profitez d'un confort rafraîchissant instantané. Titre pour le référencement naturel (SEO): FLORANZA-AIR™ Ventilateur de Cou Portable Rechargeable USB - Rafraîchissement Mains Libres Description pour le référencement naturel (SEO): Ventilateur de cou portable rechargeable FLORANZA-AIR™. Ultra-léger (239g), silencieux, mains libres. Parfait pour sport, bureau, voyage. Rechargeable USB. Restez au frais partout ! Balises: 5 modifications
-  Updated: 2025-10-12T13:10:21Z
+  Updated: 2025-10-12T16:35:31Z
   Total Products: 6
 - [Ventilateurs Portables de Cou Rechargeables USB - Rafraîchissement Mains Libres | FLORANZA-AIR](https://floranza-air.shop/collections/ventilateurs-portables): Collection de ventilateurs portables de cou rechargeables. Légers, silencieux, mains libres. Parfaits pour sport, bureau, voyage. Livraison rapide au Canada.
-  Updated: 2025-10-12T13:16:51Z
-  Total Products: 1
+  Updated: 2025-10-12T16:59:35Z
+  Total Products: 4
 
 ## Store Pages
 
