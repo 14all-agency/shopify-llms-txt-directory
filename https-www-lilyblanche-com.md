@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-10-11T20:00:46.162Z
+- Updated At: 2025-10-12T00:00:46.448Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -6266,7 +6266,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £195.00 GBP
 - [Citrine Charm Necklace Gold | November Birthstone Necklace](https://www.lilyblanche.com/products/citrine-charm-necklace-gold-november): A stunning, real citrine forms the centrepiece of this beautiful November birthstone necklace. Add an inital for personalisation. Free luxury jewellery care kit with all orders.
-  Updated: 2025-10-02T11:28:41Z
+  Updated: 2025-10-11T22:21:45Z
   Vendor: Lily Blanche
   Product Type: Birthstone
   Availability: Available
@@ -16880,7 +16880,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £195.00 GBP
 - [Men's St Christopher Necklace in Solid Gold | Premium Quality Pendant](https://www.lilyblanche.com/products/mens-st-christopher-necklace-solid_gold): Give a meaningful gift with our stylish Men's St Christopher Necklace in solid gold. Personalise with free engraving. Free shipping & care kit with orders today
-  Updated: 2025-10-11T17:18:05Z
+  Updated: 2025-10-11T20:27:36Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
