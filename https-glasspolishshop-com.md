@@ -7,7 +7,7 @@
 - Currency: EUR
 - Timezone: Europe/Dublin
 - Created At: 2025-01-23T10:54:05Z
-- Updated At: 2025-10-11T20:00:32.488Z
+- Updated At: 2025-10-12T04:00:34.050Z
 
 ## Products
 
@@ -47,7 +47,7 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/14053.jpg?v=1740149497
   Price: €10.95 EUR
 - [PRO Glass Polishing Compound 100ml | High-Grade 2.3 Microns – GP14054](https://glasspolishshop.com/products/gp-pro-glass-polishing-compound-100ml-3-4oz): Extra-concentrated cerium oxide polishing compound for professional glass restoration. Eliminates fine scratches, haze, and surface defects with precision.
-  Updated: 2025-10-10T20:09:01Z
+  Updated: 2025-10-11T20:39:41Z
   Vendor: Glass Polish
   Product Type: Glass Polishing Compound
   Availability: Available
@@ -334,7 +334,7 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Hand-held-Abrasive-Sponge-Kit-15923.jpg?v=1737638338
   Price: €14.95 EUR
 - [Glass Polish Rotary Backing Pad 12600](https://glasspolishshop.com/products/50mm-2-inch-rotary-backing-pad-m14-medium): Backing Plate  suitable for use with any rotary polishing machine.  Hook and Loop fastener for use with any abrasive discs, polishing pads or detailing foams.
-  Updated: 2025-10-11T01:12:47Z
+  Updated: 2025-10-11T20:39:42Z
   Vendor: Glass Polish
   Product Type: Rotary Polisher Backing Pad
   Availability: Available
@@ -1377,7 +1377,7 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Liquid-Leather-GT13.5-Leather-Protection-Cream-250-ml-_288.4-oz_29-92000.jpg?v=1737642546
   Price: €14.95 EUR
 - [Glass Polish Felt Polishing Pad 11006](https://glasspolishshop.com/products/gp-pro-felt-polishing-pad-2-inch-50mm): Glass Polish 50mm / 2 inch GP-PRO Felt Polishing Pad. Ideal for cutting and polishing actions resulting high glossy finish on range of surfaces
-  Updated: 2025-10-10T20:09:02Z
+  Updated: 2025-10-11T20:39:40Z
   Vendor: Glass Polish
   Product Type: Felt Polishing Pad
   Availability: Available
@@ -2407,7 +2407,7 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/GP-Heavy-Duty-Tool-Bag-Large-15020.jpg?v=1737645577
   Price: €44.95 EUR
 - [GlasX 60 Fine Grade Silicon Carbide Disc 50mm](https://glasspolishshop.com/products/glasx-60-fine-grade-abrasive-2-inch-50mm): GlasX™ 60 Constructed from the highest quality silicon carbide particles for GREAT PERFORMANCE / CLEAR CUT - no swirl marks / LONG LIFESPAN- last up to 5 times longer than traditional abrasives.
-  Updated: 2025-10-10T20:09:01Z
+  Updated: 2025-10-11T20:39:40Z
   Vendor: Glass Polish
   Product Type: GlasX™ Foam-Backed Abrasive Discs
   Availability: Available
@@ -2419,7 +2419,7 @@
     Availability: Available
     Price: €27.95 EUR
 - [GlasX 120 Medium  Grade Silicon Carbide Disc 50mm](https://glasspolishshop.com/products/glasx-120-medium-grade-abrasive-2-inch-50mm): GlasX™ 120 Constructed from the highest quality silicon carbide particles for GREAT PERFORMANCE / CLEAR CUT - no swirl marks / LONG LIFESPAN- last up to 5 times longer than traditional abrasives.
-  Updated: 2025-10-10T20:09:00Z
+  Updated: 2025-10-11T20:39:41Z
   Vendor: Glass Polish
   Product Type: GlasX™ Foam-Backed Abrasive Discs
   Availability: Available
@@ -2431,7 +2431,7 @@
     Availability: Available
     Price: €27.95 EUR
 - [GlasX 60 Fine Grade Silicon Carbide Disc 75mm](https://glasspolishshop.com/products/glasx-60-fine-grade-abrasive-3-inch-75mm): GlasX™ 60 Constructed from the highest quality silicon carbide particles for GREAT PERFORMANCE / CLEAR CUT - no swirl marks / LONG LIFESPAN- last up to 5 times longer than traditional abrasives.
-  Updated: 2025-10-11T12:32:29Z
+  Updated: 2025-10-11T20:39:41Z
   Vendor: Glass Polish
   Product Type: GlasX™ Foam-Backed Abrasive Discs
   Availability: Available
@@ -2443,7 +2443,7 @@
     Availability: Available
     Price: €34.95 EUR
 - [GlasX 120 Medium Grade Silicon Carbide Disc 75mm](https://glasspolishshop.com/products/glasx-120-medium-grade-abrasive-3-inch-75mm): GlasX™ 120 Constructed from the highest quality silicon carbide particles for GREAT PERFORMANCE / CLEAR CUT - no swirl marks / LONG LIFESPAN- last up to 5 times longer than traditional abrasives.
-  Updated: 2025-10-10T01:24:41Z
+  Updated: 2025-10-11T20:39:40Z
   Vendor: Glass Polish
   Product Type: GlasX™ Foam-Backed Abrasive Discs
   Availability: Available
