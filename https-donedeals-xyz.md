@@ -6,12 +6,12 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-07-26T03:23:12Z
 - Contact Email: donedeals.xyz@gmail.com
-- Updated At: 2025-10-12T12:00:59.646Z
+- Updated At: 2025-10-12T16:00:54.863Z
 
 ## Products
 
 - [LED PIR Motion Sensor Cabinet  With USB Rechargeble](https://donedeals.xyz/products/led-pir-motion-sensor-cabinet-with-usb-rechargeble): Product Name: LED PIR Motion Sensor Cabinet Light With USB Rechargeble Package Contains: 1 PieceColour Temperature- 2500 - 3000 K WarmCord Colour- WirelessNumber of light - 3 lightsFeatures- Battery Operated, Colour-Changing, Dimmable, Easy Installation, Energy Efficient, Energy Saving, Even Lighting, Low Voltage, PIR Motion Sensor, Portable, Rechargeable, Rust Resistant, Sensor, Smart Enabled, Spotlight, Stick-On, USB, Wall Mounted, Waterproof, Wireless, With LightLight Colour- Neutral White, Warm White, WhitePower Source - USBCombo: Pack of 1Weight: 400gramLBH - ? ?40L x 4W x 8.6H Centimeters
-  Updated: 2025-10-12T08:47:07Z
+  Updated: 2025-10-12T15:46:53Z
   Vendor: rakqr0-pn
   Product Type: 
   Availability: Available
@@ -61,7 +61,7 @@
     Availability: Available
     Price: ₹286.00 INR
 - [For Men (White)](https://donedeals.xyz/products/for-men-white): BOKZZON brand casual shoes for men in white color. Made with synthetic outer material and features lace-up closure. Ideal for casual occasions. Size UK/India 9 (Euro Size 43). Article Number: 28_SPY_SKU-WHITE HEARTBEAT. Brand: BOKZZON.
-  Updated: 2025-10-08T09:12:11Z
+  Updated: 2025-10-12T13:07:45Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -115,7 +115,7 @@
     Availability: Available
     Price: ₹301.00 INR
 - [Casuals For Men (Black)](https://donedeals.xyz/products/casuals-for-men-black): jootiyapa brand casual shoes for men in black color. Made with mesh outer material and features lace-up closure. Ideal for casual occasions. Available in sizes 6-10 UK/India (Euro Size 41). Article Number: S-ADVANCHAR. Brand: jootiyapa. Available in multiple colors including Black, Grey, and TBlue.
-  Updated: 2025-10-08T09:12:11Z
+  Updated: 2025-10-12T12:58:07Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -133,7 +133,7 @@
     Availability: Available
     Price: ₹299.00 INR
 - [Casuals For Men (Grey)](https://donedeals.xyz/products/casuals-for-men-grey): Trendzone brand casual shoes for men in grey color. Made with mesh outer material. Ideal for casual occasions. Available in sizes 6-10 UK/India. Article Number: 12543. Brand: Trendzone. Available in multiple colors including Black, Blue, Grey, and Navy Blue. Bestseller with 50+ users rated 5 stars.
-  Updated: 2025-10-08T09:12:11Z
+  Updated: 2025-10-12T12:58:10Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -313,7 +313,7 @@
     Availability: Available
     Price: ₹264.00 INR
 - [For Men (White) - BOKZZON Men's Casual Shoes](https://donedeals.xyz/products/for-men-white-bokzzon-mens-casual-shoes): BOKZZON Men's Casual Shoes in White color. These are synthetic casual shoes with lace-up closure, ideal for men. Features include Euro Size 43, UK/India Size 9, and suitable for casual occasions. The shoes are white colored with synthetic outer material.
-  Updated: 2025-10-08T09:12:12Z
+  Updated: 2025-10-12T13:08:35Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -493,7 +493,7 @@
     Availability: Available
     Price: ₹759.00 INR
 - [Benera Boots For Men (Multicolor , 7 UK/India)](https://donedeals.xyz/products/benera-boots-for-men-multicolor-7-uk-india): Benera Boots For Men in Multicolor with 1 inch heel height. Made with PU outer material and soft fabric lining inner material. Features lace-up closure, top grain leather type, solid heel pattern, and weighs 900g per shoe. Euro size 41, UK/India size 7. Article number GOD-106 DIGITAL JUNGLE. Suitable for casual occasions, hiking & trekking with military high tops theme. Round tip shape with stuck-on technology and skinfit lining. Note: This product runs a size smaller.
-  Updated: 2025-10-08T09:12:13Z
+  Updated: 2025-10-12T12:56:44Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -511,7 +511,7 @@
     Availability: Available
     Price: ₹1,322.00 INR
 - [Aqualite ATR-102 Casual Trekking Shoes, Foam, Mesh Boots For Men (Black , 9)](https://donedeals.xyz/products/aqualite-atr-102-casual-trekking-shoes-foam-mesh-boots-for-men-black-9): These casual boots are designed to help you walk swiftly and with style. Wear them with pride on various casual occasions and events. Features: Colour: Black, Outer Material: Mesh, Inner Material: Comfortable Cushioned Insole, Closure: Lace-Ups, Sole material: PU, 0 inch Heel Height, Round Toe tip shape.
-  Updated: 2025-10-08T09:12:13Z
+  Updated: 2025-10-12T12:55:52Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -529,7 +529,7 @@
     Availability: Available
     Price: ₹963.00 INR
 - [3SIX5 Premium Quality & Comfortable Partywear Boots For Men (Black , 8)](https://donedeals.xyz/products/3six5-premium-quality-comfortable-partywear-boots-for-men-black-8): These boots are designed to add a touch of style to your casual outfits. With a solid black color and a rounded shape, they are perfect for men who want to make a fashion statement. Features: Colour: Black, 0.5 inch Heel Height, Outer Material: Synthetic, Inner Material: Mesh, Closure: Zip, Pattern: Solid, Sole material: Airmix, Weight: 200g per shoe.
-  Updated: 2025-10-08T09:12:13Z
+  Updated: 2025-10-12T12:55:13Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -565,7 +565,7 @@
     Availability: Available
     Price: ₹646.00 INR
 - [Creer Boots For Men (White , 8)](https://donedeals.xyz/products/creer-boots-for-men-white-8): Casual boots designed for men with comfortable features. Features: Colour: White, Outer Material: Synthetic, Inner Material: COMFORT FOAM, Closure: Lace-Ups, Pattern: Solid, Sole material: PVC, 0 inch Heel Height, Round tip shape, Care instructions: Wash in Lukewarm Water, Do Not Bleach.
-  Updated: 2025-10-08T09:12:13Z
+  Updated: 2025-10-12T13:00:10Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -655,7 +655,7 @@
     Availability: Available
     Price: ₹2,089.00 INR
 - [BOLLERO Outdoor,Riding,Casual Boot For Men Boots For Men (Brown , 8)](https://donedeals.xyz/products/bollero-outdoor-riding-casual-boot-for-men-boots-for-men-brown-8): These high top boots are designed to help you walk swiftly and with an attitude. Wear them with pride on casual occasions and events. Colour: Brown, 0.5 inch Heel Height, Outer Material: Synthetic Leather, Closure: Lace-Ups, Pattern: Self Design
-  Updated: 2025-10-08T09:12:14Z
+  Updated: 2025-10-12T12:57:07Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -691,7 +691,7 @@
     Availability: Available
     Price: ₹432.00 INR
 - [Harrykson London Lightweight Men's adventure hiking & Trekking, All Terrain Grip Rugged Sole Boots For Men (Olive , 7)](https://donedeals.xyz/products/harrykson-london-lightweight-mens-adventure-hiking-trekking-all-terrain-grip-rugged-sole-boots-for-men-olive-7): Harrykson London Lightweight Men's adventure hiking & Trekking boots in Olive color with 0.8 inch heel height. Made with genuine leather outer material and fabric & mesh inner material. Features lace-up closure, top grain leather type, EVA sole material, and weighs 800g per shoe. Euro size 41, UK/India size 7. Article number HRWOOD7040. Suitable for casual occasions with handmade technology, round tip shape, and lace ornamentation. Extremely lightweight yet sturdy design ideal for adventure activities.
-  Updated: 2025-10-08T09:12:14Z
+  Updated: 2025-10-12T13:11:54Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -727,7 +727,7 @@
     Availability: Available
     Price: ₹499.00 INR
 - [foot trends Gumboot For Men Flexible PVC 12-inch Labour/Worker Purpose for Men Boots For Men (Black , 10)](https://donedeals.xyz/products/foot-trends-gumboot-for-men-flexible-pvc-12-inch-labour-worker-purpose-for-men-boots-for-men-black-10): Professional grade gumboots designed for industrial and labor work. Features flexible PVC construction for durability and comfort. Colour: Black, 1 inch Heel Height, Outer Material: PVC, Inner Material: PVC, Closure: Slip-On
-  Updated: 2025-10-08T09:12:14Z
+  Updated: 2025-10-12T13:06:30Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -745,7 +745,7 @@
     Availability: Available
     Price: ₹475.00 INR
 - [EEGO ITALY Outdoor Boots For Men (Black , 7)](https://donedeals.xyz/products/eego-italy-outdoor-boots-for-men-black-7): EEGO ITALY Outdoor Boots For Men in Black color with 0 inch heel height. Made with synthetic outer material, rubber sole material, and synthetic lining. Features lace-up closure and round tip shape. Available in Black, Blue, and Tan colors with Euro size 41, UK/India size 7. Article number LEE-1-BLACK. Suitable for casual occasions. Note: This product runs a size larger. Nice and comfortable design for outdoor activities.
-  Updated: 2025-10-08T09:12:14Z
+  Updated: 2025-10-12T13:03:13Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -781,7 +781,7 @@
     Availability: Available
     Price: ₹1,999.00 INR
 - [Dicolus Boots For Men (Black , 7)](https://donedeals.xyz/products/dicolus-boots-for-men-black-7): Stylish genuine leather boots perfect for party occasions. Features solid textured design with comfortable cushioning. Colour: Black, 1 inch Heel Height, Outer Material: Genuine Leather, Ideal for: Men, Occasion: Party
-  Updated: 2025-10-08T09:12:14Z
+  Updated: 2025-10-12T13:01:46Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -817,7 +817,7 @@
     Availability: Available
     Price: ₹974.00 INR
 - [GOOD MINAR Boots For Men (Brown , 6)](https://donedeals.xyz/products/good-minar-boots-for-men-brown-6): Crafted with suede outer material, these boots offer a unique and textured appearance in a sophisticated brown hue. Features: Colour: Brown, 1 inch Heel Height, Outer Material: Suede, Inner Material: Synthetic, Closure: Lace-Ups, Sole material: Airmix, Weight: 300g per shoe, Care instructions: Wipe gently with a dry cloth to remove any dried-on dirt and dust.
-  Updated: 2025-10-08T09:12:14Z
+  Updated: 2025-10-12T13:20:59Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -835,7 +835,7 @@
     Availability: Available
     Price: ₹475.00 INR
 - [Elecant PVC Sole Industrial Safety Shoes With Steel Toe Protection Boots For Men (Black , 6)](https://donedeals.xyz/products/elecant-pvc-sole-industrial-safety-shoes-with-steel-toe-protection-boots-for-men-black-6): Industrial safety boots with steel toe protection designed for workplace safety. Features PVC sole construction for durability. Colour: Black, 1.5 inch Heel Height, Outer Material: Synthetic Synthetic Leather, Inner Material: PVC, Closure: Lace-Ups, Pattern: Solid
-  Updated: 2025-10-08T09:12:14Z
+  Updated: 2025-10-12T13:03:59Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -1069,7 +1069,7 @@
     Availability: Available
     Price: ₹498.00 INR
 - [BIG FOX Side Zip Chelsea Boots For Men (Black , 8)](https://donedeals.xyz/products/big-fox-side-zip-chelsea-boots-for-men-black-8): Side zip Chelsea boots with lightweight technology. Features: Colour: Black, 0.5 inch Heel Height, Outer Material: Synthetic, Inner Material: Synthetic, Sole material: PVC, Weight: 800g per shoe, Lightweight technology, Round toe tip shape, Care instructions: Wipe with a clean, dry cloth to remove the dust.
-  Updated: 2025-10-08T09:12:15Z
+  Updated: 2025-10-12T12:56:44Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -1123,7 +1123,7 @@
     Availability: Available
     Price: ₹428.00 INR
 - [foot trends PVC Safety Gumboots 15-inch Non-Metallic Toe Cap Oil and Acid Resistant Boots For Men (Black , 11)](https://donedeals.xyz/products/foot-trends-pvc-safety-gumboots-15-inch-non-metallic-toe-cap-oil-and-acid-resistant-boots-for-men-black-11): Professional grade 15-inch PVC safety gumboots with non-metallic toe cap designed for industrial use. Oil and acid resistant with slip-on closure for easy wear. Colour: Black, 1 inch Heel Height, Outer Material: PVC, Inner Material: PVC, Closure: Slip-On, Pattern: Solid
-  Updated: 2025-10-08T09:12:16Z
+  Updated: 2025-10-12T13:08:45Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -1141,7 +1141,7 @@
     Availability: Available
     Price: ₹475.00 INR
 - [3SIX5 Premium Quality & Comfortable Partywear Boots For Men (Tan , 7)](https://donedeals.xyz/products/3six5-premium-quality-comfortable-partywear-boots-for-men-tan-7): Stylish and versatile boots designed to be your go-to footwear for casual occasions. With their stylish design they add a touch of sophistication to any outfit. Colour: Tan, 0.5 inch Heel Height, Outer Material: Synthetic, Inner Material: Mesh, Closure: Zip, Pattern: Self Design, Sole material: Airmix, Weight: 200g per shoe
-  Updated: 2025-10-08T09:12:16Z
+  Updated: 2025-10-12T12:55:13Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -1195,7 +1195,7 @@
     Availability: Available
     Price: ₹460.00 INR
 - [Classic Slippers](https://donedeals.xyz/products/classic-slippers): Men's Slippers by Bhains Ki Ankh. Color: Black. Available sizes: 6, 7, 8, 9, 10. Material: Rubber strap with printed flip flops sole. Weight: 149g. Shoe Length: 30cm. 71% off from original price of ₹699.
-  Updated: 2025-10-08T09:12:16Z
+  Updated: 2025-10-12T12:58:38Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -1213,7 +1213,7 @@
     Availability: Available
     Price: ₹249.00 INR
 - [Cozy House Slippers](https://donedeals.xyz/products/cozy-house-slippers): ADJ Men's Slippers & Flip Flops - Green color, EVA sole material, PVC strap material, available in multiple sizes (5-10), 81% off original price, 610 ratings & 14 reviews
-  Updated: 2025-10-08T09:12:16Z
+  Updated: 2025-10-12T13:00:11Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -1231,7 +1231,7 @@
     Availability: Available
     Price: ₹239.00 INR
 - [Everyday Flip Flops](https://donedeals.xyz/products/everyday-flip-flops): Men's Flip Flops by PANTOUF. Color: Black with Grey secondary color. Available sizes: 5, 6, 7, 8, 9, 10. Soft, lightweight and comfortable. Adjustable side straps. 83% off from original price of ₹999. Highly rated with 10,590 ratings and 433 reviews.
-  Updated: 2025-10-08T09:12:16Z
+  Updated: 2025-10-12T13:04:22Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -1267,7 +1267,7 @@
     Availability: Available
     Price: ₹242.00 INR
 - [Beach-Ready Flip Flops](https://donedeals.xyz/products/beach-ready-flip-flops): Men's Flip Flops by ABIDA. Color: Tan (also available in Black and Brown). Available sizes: 6, 7, 8, 9, 10. Material: Synthetic strap and sole. Weight: 200g. Care instructions: Hand Wash. Pack of 1. 70% off from original price of ₹699. Highly rated with 11,278 ratings and 290 reviews.
-  Updated: 2025-10-08T09:12:16Z
+  Updated: 2025-10-12T12:56:22Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -1285,7 +1285,7 @@
     Availability: Available
     Price: ₹255.00 INR
 - [Fuzzy Indoor Slippers](https://donedeals.xyz/products/fuzzy-indoor-slippers): 1 Pair Slider made with Rexine strap material and Air Mix sole material. Dry and Clean Only care instructions.
-  Updated: 2025-10-08T09:12:16Z
+  Updated: 2025-10-12T13:26:48Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -1303,7 +1303,7 @@
     Availability: Available
     Price: ₹254.00 INR
 - [Casual Summer Flip Flops](https://donedeals.xyz/products/casual-summer-flip-flops): PANTOUF Men's Flip Flops - TAN color, 300g weight, Euro Size 40, adjustable side straps, soft lightweight and comfortable, 81% off original price, 10,590 ratings & 433 reviews
-  Updated: 2025-10-08T09:12:16Z
+  Updated: 2025-10-12T12:58:11Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -1357,7 +1357,7 @@
     Availability: Available
     Price: ₹244.00 INR
 - [Athletic Slides](https://donedeals.xyz/products/athletic-slides): OMIKA Men's Slides - DARK GREY color, 0.3g weight, EVA sole material, Euro Size 40, pack of 1, 73% off original price, 2,586 ratings & 63 reviews
-  Updated: 2025-10-08T09:12:17Z
+  Updated: 2025-10-12T12:56:03Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -1375,7 +1375,7 @@
     Availability: Available
     Price: ₹310.00 INR
 - [Cushioned Poolside Flip Flops](https://donedeals.xyz/products/cushioned-poolside-flip-flops): Lightweight flip flops with Airmix sole material. Washable no care required. Available in Black and Red colors.
-  Updated: 2025-10-08T09:12:17Z
+  Updated: 2025-10-12T13:00:11Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -1429,7 +1429,7 @@
     Availability: Available
     Price: ₹166.00 INR
 - [Arch Support Flip Flops](https://donedeals.xyz/products/arch-support-flip-flops): Black color flip flops with synthetic strap material, synthetic sole material, weight 200g, Euro Size 36, pack of 1, hand wash care instructions
-  Updated: 2025-10-08T09:12:17Z
+  Updated: 2025-10-12T12:55:52Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -1447,7 +1447,7 @@
     Availability: Available
     Price: ₹235.00 INR
 - [Basic Rubber Flip Flops](https://donedeals.xyz/products/basic-rubber-flip-flops): Buy Flip Flops for Rs.999 online. Flip Flops at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.
-  Updated: 2025-10-08T09:12:17Z
+  Updated: 2025-10-12T12:56:22Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -1465,7 +1465,7 @@
     Availability: Available
     Price: ₹269.00 INR
 - [Classic Thong Sandals](https://donedeals.xyz/products/classic-thong-sandals): FITORY Men's Flip Flops - Black color, comfortable design, 80% off original price, available in sizes 5-10 UK/India, weight 300g, shoe length 26cm
-  Updated: 2025-10-08T09:12:17Z
+  Updated: 2025-10-12T12:58:38Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -1519,7 +1519,7 @@
     Availability: Available
     Price: ₹336.00 INR
 - [Faux Fur Lined Slippers](https://donedeals.xyz/products/faux-fur-lined-slippers): Men's Slippers by WARLANDER. Color: Grey (also available in Beige, Black, Blue, Gray). Available sizes: 6, 7, 8, 9, 10. 80% off from original price of ₹899. Rated with 2,262 ratings and 35 reviews. Not waterproof.
-  Updated: 2025-10-08T09:12:17Z
+  Updated: 2025-10-12T13:04:05Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -1555,7 +1555,7 @@
     Availability: Available
     Price: ₹255.00 INR
 - [Comfortable Cloud Slides](https://donedeals.xyz/products/comfortable-cloud-slides): Buy Slides for Rs.499 online. Slides at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.
-  Updated: 2025-10-08T09:12:17Z
+  Updated: 2025-10-12T12:59:06Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -1573,7 +1573,7 @@
     Availability: Available
     Price: ₹205.00 INR
 - [Durable Outdoor Flip Flops](https://donedeals.xyz/products/durable-outdoor-flip-flops): Tzen Men's Flip Flops - Grey and Black colors available, synthetic leather strap, air mix sole, 86% off original price, available in sizes 6-10 UK/India, weight 280g, 100% customer satisfaction with unique style and great comfort
-  Updated: 2025-10-08T09:12:18Z
+  Updated: 2025-10-12T13:03:04Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -1645,7 +1645,7 @@
     Availability: Available
     Price: ₹220.00 INR
 - [Clog-Style Slippers](https://donedeals.xyz/products/clog-style-slippers): Black colored EVA slippers with EVA strap and sole material. 1 Pair Of Footwear. Wash and wipe with dry cloth care instructions. Lightweight at 200g.
-  Updated: 2025-10-08T09:12:18Z
+  Updated: 2025-10-12T12:58:52Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -1663,7 +1663,7 @@
     Availability: Available
     Price: ₹242.00 INR
 - [Adjustable Strap Slides](https://donedeals.xyz/products/adjustable-strap-slides): Buy Slides for Rs.899 online. Slides at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.
-  Updated: 2025-10-08T09:12:18Z
+  Updated: 2025-10-12T12:55:32Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -1681,7 +1681,7 @@
     Availability: Available
     Price: ₹327.00 INR
 - [Everyday Comfort Slides](https://donedeals.xyz/products/everyday-comfort-slides): Tzen Men's Slides - Grey and Red colors available, EVA strap material, air mix sole, 82% off original price, available in sizes 6-10 UK/India, weight 300g, dry and clean only care instructions
-  Updated: 2025-10-08T09:12:18Z
+  Updated: 2025-10-12T13:03:32Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -1699,7 +1699,7 @@
     Availability: Available
     Price: ₹242.00 INR
 - [Hard-Sole Outdoor Slippers](https://donedeals.xyz/products/hard-sole-outdoor-slippers): Men's Slippers by Maan. Color: Brown with Pink secondary color. Available sizes: 6, 7, 8, 9, 10. Material: Synthetic strap with rubber sole. Weight: 288g. Pack of 1. 75% off from original price of ₹799. Rated with 2,331 ratings and 54 reviews. Made of rubber, not plastic.
-  Updated: 2025-10-08T09:12:18Z
+  Updated: 2025-10-12T13:11:16Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -1735,7 +1735,7 @@
     Availability: Available
     Price: ₹242.00 INR
 - [Bedroom Slippers](https://donedeals.xyz/products/bedroom-slippers): Maan Men's Slippers - Blue color, synthetic strap material, rubber sole material, 288g weight, waterproof, pack of 1, 75% off original price, 1,063 ratings & 19 reviews
-  Updated: 2025-10-08T09:12:18Z
+  Updated: 2025-10-12T12:56:22Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -1897,7 +1897,7 @@
     Availability: Available
     Price: ₹175.00 INR
 - [Bootie Slippers](https://donedeals.xyz/products/bootie-slippers): Altek Men's Slippers - Navy and Tan colors available, rubber strap material, TPR sole, 52% off original price, available in sizes 7-12 UK/India, weight 200g, rexine upper material with EVA lining, non-slip outsole with breathable open-toe design
-  Updated: 2025-10-07T09:07:16Z
+  Updated: 2025-10-12T12:57:07Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -1915,7 +1915,7 @@
     Availability: Available
     Price: ₹287.00 INR
 - [Fashion Slides](https://donedeals.xyz/products/fashion-slides): Buy Slides for Rs.499 online. Slides at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.
-  Updated: 2025-10-07T09:10:16Z
+  Updated: 2025-10-12T13:04:32Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -1933,7 +1933,7 @@
     Availability: Available
     Price: ₹230.00 INR
 - [Braided Strap Flip Flops](https://donedeals.xyz/products/braided-strap-flip-flops): LARA Men's Flip Flops - Brown color, waterproof, pack of 2 pairs, 65% off original price, 550 ratings & 14 reviews
-  Updated: 2025-10-07T09:07:18Z
+  Updated: 2025-10-12T12:57:22Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -1951,7 +1951,7 @@
     Availability: Available
     Price: ₹255.00 INR
 - [Foam Sole Flip Flops](https://donedeals.xyz/products/foam-sole-flip-flops): Cloker Men's Flip Flops - Full Black and Full Grey colors available, synthetic leather strap, air mix sole, 82% off original price, available in sizes 6-10 UK/India, weight 280g, waterproof design with 100% customer satisfaction and unique style
-  Updated: 2025-10-07T09:11:11Z
+  Updated: 2025-10-12T13:13:44Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -2041,7 +2041,7 @@
     Availability: Available
     Price: ₹272.00 INR
 - [Assorted Printed Men's Multicolor T-Shirt (Pack of 2)](https://donedeals.xyz/products/assorted-printed-mens-multicolor-t-shirt-pack-of-2): Buy Printed Men Multicolor T-Shirt for Rs.999 online. Printed Men Multicolor T-Shirt at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.
-  Updated: 2025-10-07T07:57:46Z
+  Updated: 2025-10-12T12:56:04Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -2059,7 +2059,7 @@
     Availability: Available
     Price: ₹266.00 INR
 - [Bright Yellow Printed Men's T-Shirt](https://donedeals.xyz/products/bright-yellow-printed-mens-t-shirt): Stay stylish and comfy in this black trending t shirt. Printed Men Yellow T-Shirt with Round Neck, Full Sleeve, Regular Fit, Polyester fabric, suitable for Western Wear
-  Updated: 2025-10-07T09:07:31Z
+  Updated: 2025-10-12T12:57:22Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -2077,7 +2077,7 @@
     Availability: Available
     Price: ₹260.00 INR
 - [Dynamic Graphic Print Men's Multicolor T-Shirt](https://donedeals.xyz/products/dynamic-graphic-print-mens-multicolor-t-shirt): Graphic Print Men Multicolor T-Shirt - Round Neck, Short Sleeve, Regular Fit, Polyester fabric with graphic print pattern. Suitable for Western Wear. Available in multiple colors including Black & White, Multicolor variants. Style Code: Black Leaf + Gray Leaf half. Machine washable.
-  Updated: 2025-10-07T09:09:46Z
+  Updated: 2025-10-12T13:02:06Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -2095,7 +2095,7 @@
     Availability: Available
     Price: ₹172.00 INR
 - [Classic Black Striped Men's T-Shirt](https://donedeals.xyz/products/classic-black-striped-mens-t-shirt): Buy Striped Men Black, Black T-Shirt for Rs.699 online. Striped Men Black, Black T-Shirt at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.
-  Updated: 2025-10-07T09:08:16Z
+  Updated: 2025-10-12T12:58:37Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -2167,7 +2167,7 @@
     Availability: Available
     Price: ₹278.00 INR
 - [Casual Printed Men's Multicolor T-Shirt](https://donedeals.xyz/products/casual-printed-mens-multicolor-t-shirt): Buy Printed Men Multicolor T-Shirt for Rs.999 online. Printed Men Multicolor T-Shirt at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.
-  Updated: 2025-10-07T09:07:31Z
+  Updated: 2025-10-12T12:58:06Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -2185,7 +2185,7 @@
     Availability: Available
     Price: ₹272.00 INR
 - [Artistic Graphic Print Men's Multicolor T-Shirt](https://donedeals.xyz/products/artistic-graphic-print-mens-multicolor-t-shirt): Graphic Print Men Multicolor T-Shirt - Round Neck, Half Sleeve, Regular Fit, Polyester fabric with graphic print pattern. Suitable for Western Wear. Available in multiple colors including Aqua Panda + White PD Boy design. Style Code: Aqua Panda + White PD Boy. Machine washable.
-  Updated: 2025-10-07T07:57:26Z
+  Updated: 2025-10-12T12:55:52Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -2221,7 +2221,7 @@
     Availability: Available
     Price: ₹278.00 INR
 - [Everyday Printed Men's Multicolor Tee](https://donedeals.xyz/products/everyday-printed-mens-multicolor-tee): Buy Printed Men Multicolor T-Shirt for Rs.999 online. Printed Men Multicolor T-Shirt at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.
-  Updated: 2025-10-07T09:10:06Z
+  Updated: 2025-10-12T13:03:16Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -2257,7 +2257,7 @@
     Availability: Available
     Price: ₹172.00 INR
 - [Bold Graphic Print Men's Multicolor T-Shirt](https://donedeals.xyz/products/bold-graphic-print-mens-multicolor-t-shirt): Graphic Print Men Multicolor T-Shirt - Round Neck, Short Sleeve, Regular Fit, Polyester fabric with graphic print pattern. Suitable for Western Wear. Available in multiple colors including White Panda + Peach PD Boy design. Style Code: White Panda + Peach PD Boy. Machine washable.
-  Updated: 2025-10-07T09:07:18Z
+  Updated: 2025-10-12T12:57:07Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -2329,7 +2329,7 @@
     Availability: Available
     Price: ₹254.00 INR
 - [Contrast Black & Green Printed Men's T-Shirt](https://donedeals.xyz/products/contrast-black-green-printed-mens-t-shirt): Printed Men Black, Green T-Shirt - 88% off, Premium, 13,273 ratings & 322 reviews. Color: Black, Green, Type: Round Neck, Sleeve: Half Sleeve, Fabric: Cotton Blend, Style Code: PDDOP, Pattern: Printed, Net Quantity: 1
-  Updated: 2025-10-07T09:09:02Z
+  Updated: 2025-10-12T12:59:27Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -2347,7 +2347,7 @@
     Availability: Available
     Price: ₹176.00 INR
 - [Abstract Printed Men's Multicolor T-Shirt (Pack of 2)](https://donedeals.xyz/products/abstract-printed-mens-multicolor-t-shirt-pack-of-2): Buy Printed Men Multicolor T-Shirt for Rs.999 online. Printed Men Multicolor T-Shirt at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.
-  Updated: 2025-10-07T07:57:02Z
+  Updated: 2025-10-12T12:55:25Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -2365,7 +2365,7 @@
     Availability: Available
     Price: ₹278.00 INR
 - [Fashionable Printed Men's Multicolor Tee](https://donedeals.xyz/products/fashionable-printed-mens-multicolor-tee): Buy Printed Men Multicolor T-Shirt for Rs.999 online. Printed Men Multicolor T-Shirt at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.
-  Updated: 2025-10-07T09:10:31Z
+  Updated: 2025-10-12T13:08:50Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -2383,7 +2383,7 @@
     Availability: Available
     Price: ₹272.00 INR
 - [Deep Green & Black Printed Men's T-Shirt](https://donedeals.xyz/products/deep-green-black-printed-mens-t-shirt): Printed Men Black, Green T-Shirt with Round Neck, Half Sleeve, Regular Fit, Polyester fabric, suitable for Western Wear. Style Code: Men Typography Round Neck Cotton Blend Red T-Shirt
-  Updated: 2025-10-07T09:09:16Z
+  Updated: 2025-10-12T13:00:11Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -2509,7 +2509,7 @@
     Availability: Available
     Price: ₹272.00 INR
 - [Essential Printed Men's Multicolor T-Shirt (Pack of 2)](https://donedeals.xyz/products/essential-printed-mens-multicolor-t-shirt-pack-of-2): Buy Printed Men Multicolor T-Shirt for Rs.999 online. Printed Men Multicolor T-Shirt at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.
-  Updated: 2025-10-07T09:10:05Z
+  Updated: 2025-10-12T13:03:42Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -2527,7 +2527,7 @@
     Availability: Available
     Price: ₹272.00 INR
 - [Dual Tone Purple & Maroon Printed Men's T-Shirt](https://donedeals.xyz/products/dual-tone-purple-maroon-printed-mens-t-shirt): Printed Men Purple, Maroon T-Shirt - 88% off, Premium, Top Rated, 13,273 ratings & 322 reviews. Color: Purple, Maroon, Type: Round Neck, Sleeve: Half Sleeve, Fabric: Cotton Blend, Style Code: ZMBS, Pattern: Printed, Net Quantity: 1
-  Updated: 2025-10-07T09:09:46Z
+  Updated: 2025-10-12T13:02:25Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -2545,7 +2545,7 @@
     Availability: Available
     Price: ₹200.00 INR
 - [Bold Black & Yellow Striped Men's T-Shirt](https://donedeals.xyz/products/bold-black-yellow-striped-mens-t-shirt): Buy Striped Men Black, Yellow T-Shirt for Rs.699 online. Striped Men Black, Yellow T-Shirt at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.
-  Updated: 2025-10-07T09:07:17Z
+  Updated: 2025-10-12T12:57:07Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -2563,7 +2563,7 @@
     Availability: Available
     Price: ₹254.00 INR
 - [Fine Black Stripe Men's T-Shirt](https://donedeals.xyz/products/fine-black-stripe-mens-t-shirt): Striped Men Black, Black T-Shirt with 81% off, Color: Black, Black, Type: Round Neck, Sleeve: Half Sleeve, Fit: Regular, Fabric: Polyester, Style Code: TAP-B1206(2Patta)-B1284(Break), Neck Type: Round Neck, Ideal For: Men, Size: M, Pattern: Striped, Suitable For: Western Wear, Sleeve Type: Narrow, Reversible: No, Fabric Care: Do not Iron on print/embroidery/embellishment, Net Quantity: 1, Sales Package: 1 x Tshirt
-  Updated: 2025-10-07T09:11:12Z
+  Updated: 2025-10-12T13:04:59Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -2581,7 +2581,7 @@
     Availability: Available
     Price: ₹254.00 INR
 - [Cool Printed Men's Multicolor T-Shirt (Pack of 2)](https://donedeals.xyz/products/cool-printed-mens-multicolor-t-shirt-pack-of-2): Buy Printed Men Multicolor T-Shirt for Rs.999 online. Printed Men Multicolor T-Shirt at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.
-  Updated: 2025-10-07T09:09:02Z
+  Updated: 2025-10-12T13:00:03Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -2599,7 +2599,7 @@
     Availability: Available
     Price: ₹272.00 INR
 - [Edgy Graphic Print Men's Multicolor T-Shirt](https://donedeals.xyz/products/edgy-graphic-print-mens-multicolor-t-shirt): Graphic Print Men Multicolor T-Shirt - Round Neck, Half Sleeve, Regular Fit, Polyester fabric with graphic print pattern. Suitable for Western Wear. Available in multiple colors including Musterd Panda + White PD Boy design. Style Code: Musterd Panda + White PD Boy. Machine washable.
-  Updated: 2025-10-07T09:09:47Z
+  Updated: 2025-10-12T13:02:38Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -2635,7 +2635,7 @@
     Availability: Available
     Price: ₹176.00 INR
 - [Classic Black & White Striped Men's T-Shirt](https://donedeals.xyz/products/classic-black-white-striped-mens-t-shirt): Buy Striped Men Black, White T-Shirt for Rs.699 online. Striped Men Black, White T-Shirt at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.
-  Updated: 2025-10-07T09:08:16Z
+  Updated: 2025-10-12T12:58:37Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -2671,7 +2671,7 @@
     Availability: Available
     Price: ₹178.00 INR
 - [Dynamic Reversible Men's Multicolor T-Shirt (Pack of 2)](https://donedeals.xyz/products/dynamic-reversible-mens-multicolor-t-shirt-pack-of-2): Buy Printed Men Reversible Multicolor T-Shirt for Rs.999 online. Printed Men Reversible Multicolor T-Shirt at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.
-  Updated: 2025-10-07T09:09:47Z
+  Updated: 2025-10-12T13:02:45Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -2689,7 +2689,7 @@
     Availability: Available
     Price: ₹396.00 INR
 - [Contemporary Printed Men's Multicolor T-Shirt](https://donedeals.xyz/products/contemporary-printed-mens-multicolor-t-shirt): Printed Men Multicolor T-Shirt - 86% off, Premium, 5,124 ratings & 130 reviews. Color: Multicolor, Type: Round Neck, Sleeve: Half Sleeve, Fabric: Polyester, Style Code: 1310-TSHIRT-COMBO-1310-1311, Pattern: Printed, Net Quantity: 1
-  Updated: 2025-10-07T09:09:02Z
+  Updated: 2025-10-12T12:59:27Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -2707,7 +2707,7 @@
     Availability: Available
     Price: ₹272.00 INR
 - [Dark Black & Blue Printed Men's T-Shirt](https://donedeals.xyz/products/dark-black-blue-printed-mens-t-shirt): Buy Printed Men Black, Blue T-Shirt for Rs.899 online. Printed Men Black, Blue T-Shirt at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.
-  Updated: 2025-10-07T09:09:16Z
+  Updated: 2025-10-12T13:00:10Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -2743,7 +2743,7 @@
     Availability: Available
     Price: ₹266.00 INR
 - [Crisp Black & White Printed Men's T-Shirt](https://donedeals.xyz/products/crisp-black-white-printed-mens-t-shirt): Printed Men Black, White T-Shirt with Round Neck, Half Sleeve, Cotton Blend fabric. Style Code: Men Typography Round Neck Cotton Blend Red T-Shirt
-  Updated: 2025-10-07T09:09:16Z
+  Updated: 2025-10-12T13:00:11Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -2761,7 +2761,7 @@
     Availability: Available
     Price: ₹178.00 INR
 - [Abstract Graphic Men's Multicolor T-Shirt (Pack of 2)](https://donedeals.xyz/products/abstract-graphic-mens-multicolor-t-shirt-pack-of-2): Graphic Print Men Multicolor T-Shirt (Pack of 2) - Round Neck, Short Sleeve, Slim Fit, 100% Polyester fabric with graphic print pattern. Suitable for Western Wear. Style Code: TRENDING T-SHIRT FOR MENS/BOYS. Features moisture-wicking properties, quick-drying fabric, four-way stretch for flexibility, and anti-pilling treatment. Available in WHITE AND BLACK color. Net Quantity: 2 pieces.
-  Updated: 2025-10-07T07:57:01Z
+  Updated: 2025-10-12T12:55:25Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -2779,7 +2779,7 @@
     Availability: Available
     Price: ₹200.00 INR
 - [Casual Black Striped Men's T-Shirt](https://donedeals.xyz/products/casual-black-striped-mens-t-shirt): Striped Men Black, Black T-Shirt with 80% off, Color: Black, Black, Type: Round Neck, Sleeve: Half Sleeve, Fit: Regular, Fabric: Polyester, Style Code: TAP-B1206(2Patta)-B1299(Fabulous), Neck Type: Round Neck, Ideal For: Men, Size: M, Pattern: Striped, Suitable For: Western Wear, Sleeve Type: Narrow, Reversible: No, Fabric Care: Do not Iron on print/embroidery/embellishment, Net Quantity: 1, Sales Package: 1 Tshirt
-  Updated: 2025-10-07T09:07:32Z
+  Updated: 2025-10-12T12:57:32Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -2815,7 +2815,7 @@
     Availability: Available
     Price: ₹190.00 INR
 - [Contrast Solid Men's White & Black T-Shirt](https://donedeals.xyz/products/contrast-solid-mens-white-black-t-shirt): Solid Men White, Black T-Shirt with Polo Neck, Half Sleeve, Regular Fit, Polyester fabric, suitable for Western Wear. Style Code: N-boom baam-W&B
-  Updated: 2025-10-07T09:09:02Z
+  Updated: 2025-10-12T12:59:57Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -2851,7 +2851,7 @@
     Availability: Available
     Price: ₹260.00 INR
 - [Bold Graphic Men's Black & White T-Shirt (Pack of 2)](https://donedeals.xyz/products/bold-graphic-mens-black-white-t-shirt-pack-of-2): Graphic Print Men Black, White T-Shirt with Round Neck, Half Sleeve, Polyester fabric. Style Code: PUWA_BW. Pack of 2 T-shirts
-  Updated: 2025-10-07T09:07:17Z
+  Updated: 2025-10-12T12:57:07Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -2869,7 +2869,7 @@
     Availability: Available
     Price: ₹690.00 INR
 - [Elegant Women's Pink & Purple Floral Kurta](https://donedeals.xyz/products/elegant-womens-pink-purple-floral-kurta): Women Floral Print Kurta (Pink, Purple) with 78% off, Pack of 2 Short Kurtas for Women, perfect for daily wear, office wear, and college wear. Color: Pink, Purple, Type: Straight, Fabric: Cotton Blend, Ideal For: Women, Length Type: Short, Neck Type: Sweetheart Neck, Size: M, Net Quantity: 2, Pattern: Floral Print, Sleeve Type: 3/4 Sleeve, Suitable For: Ethnic Wear, Occasion: Casual, Fabric Care: Regular Machine Wash, Secondary Color: White, Surface Styling: Applique
-  Updated: 2025-10-07T09:10:06Z
+  Updated: 2025-10-12T13:02:50Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -2887,7 +2887,7 @@
     Availability: Available
     Price: ₹298.00 INR
 - [Chic Striped Multicolor Women's Kurta](https://donedeals.xyz/products/chic-striped-multicolor-womens-kurta): Women Striped Kurta in Multicolor with Straight type, Khadi Cotton fabric, Round Neck, Calf Length, Regular Sleeves. Net Quantity: 2 pieces. Suitable for Casual occasions
-  Updated: 2025-10-07T09:07:56Z
+  Updated: 2025-10-12T12:58:22Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -2905,7 +2905,7 @@
     Availability: Available
     Price: ₹264.00 INR
 - [Fresh Green Floral Print Women's Kurta](https://donedeals.xyz/products/fresh-green-floral-print-womens-kurta): Add charm and comfort to your everyday wardrobe with this beautiful combo of two cotton blend printed tops. Designed for both style and ease, one top features elegant floral patterns, while the other showcases a trendy abstract print. Both tops come with 3/4th sleeves, soft breathable fabric, and a regular fit, perfect for casual outings, work-from-home days, or light festive wear. Pair them with jeans or palazzos for a graceful look that stands out with minimal effort.
-  Updated: 2025-10-07T09:11:31Z
+  Updated: 2025-10-12T13:24:19Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -2959,7 +2959,7 @@
     Availability: Available
     Price: ₹328.00 INR
 - [Boho Printed Multicolor Women's Kurta](https://donedeals.xyz/products/boho-printed-multicolor-womens-kurta): Upgrade your wardrobe with this Ethnic Printed Cotton Kurti Combo of 2, combining comfort and style. Made from soft, breathable cotton, these kurtis feature classic prints perfect for casual and festive occasions. Easy to style with leggings or jeans, they offer all-day comfort and a versatile, elegant look. This combo provides great value, making it a must-have for your ethnic collection.
-  Updated: 2025-10-07T09:07:17Z
+  Updated: 2025-10-12T12:57:12Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -2977,7 +2977,7 @@
     Availability: Available
     Price: ₹314.00 INR
 - [Artistic Multicolor Floral Print Women's Kurta](https://donedeals.xyz/products/artistic-multicolor-floral-print-womens-kurta): Women Floral Print Kurta (Multicolor) - 85% off, 236 ratings & 6 reviews. Color: Black, Peach, Type: Straight, Fabric: Crepe, Length Type: Below Knee, Neck Type: Tie-up Neck, Sleeve Type: 3/4 Sleeve, Pattern: Floral Print, Occasion: Casual, Suitable For: Ethnic Wear, Net Quantity: 1
-  Updated: 2025-10-07T07:57:27Z
+  Updated: 2025-10-12T12:55:53Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -3067,7 +3067,7 @@
     Availability: Available
     Price: ₹290.00 INR
 - [Graceful Multicolor Floral Print Women's Kurta](https://donedeals.xyz/products/graceful-multicolor-floral-print-womens-kurta): Kurti for women is a versatile and elegant choice that suits various occasions, offering both style and look. Whether it's a straight kurti for a formal look or a regular kurti for daily wear, these garments are perfect for creating effortless outfits. A kurta for women, often paired with leggings or palazzos, adds a touch of tradition while keeping things modern. From casual outings to festive celebrations, these options are excellent as a dress for women, blending traditional charm with contemporary fashion.
-  Updated: 2025-10-07T09:12:22Z
+  Updated: 2025-10-12T13:07:12Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -3121,7 +3121,7 @@
     Availability: Available
     Price: ₹264.00 INR
 - [Ethereal Multicolor Floral Print Women's Kurta](https://donedeals.xyz/products/ethereal-multicolor-floral-print-womens-kurta): Women Floral Print Kurta (Multicolor) - Straight type kurta with floral print pattern and round neck. Made from pure cotton fabric suitable for ethnic wear. Calf length design ideal for casual occasions. Available in Multicolor 4 variation. Net Quantity: 2 pieces. Length: 42 inches.
-  Updated: 2025-10-07T09:10:06Z
+  Updated: 2025-10-12T13:03:56Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -3139,7 +3139,7 @@
     Availability: Available
     Price: ₹322.00 INR
 - [Bright Pink & Yellow Floral Print Women's Kurta](https://donedeals.xyz/products/bright-pink-yellow-floral-print-womens-kurta): Women Floral Print Kurta (Pink, Yellow) with 86% off, colorful short kurtis combo with awesome quality fabric from Khadi Empire. Color: Pink, Yellow, Type: Straight, Fabric: Cotton Blend, Ideal For: Women, Length Type: Short, Neck Type: Round Neck, Size: M, Net Quantity: 2, Pattern: Floral Print, Print Type: Floral, Sleeve Type: 3/4 Sleeve, Suitable For: Ethnic Wear, Occasion: Casual, Fabric Care: Regular Machine Wash, Fabric Purity: Pure, Surface Styling: None
-  Updated: 2025-10-07T09:07:16Z
+  Updated: 2025-10-12T12:57:22Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -3157,7 +3157,7 @@
     Availability: Available
     Price: ₹278.00 INR
 - [Delicate White & Pink Embroidered Women's Kurta](https://donedeals.xyz/products/delicate-white-pink-embroidered-womens-kurta): Women Embroidered Kurta in White and Pink with A-line type, Khadi Cotton, Khadi Silk, Cotton Blend fabric, Round Neck, Calf Length, Regular Sleeves. Net Quantity: 2 pieces. Suitable for Formal occasions and Ethnic Wear with Mirror Work and Laces
-  Updated: 2025-10-07T09:09:36Z
+  Updated: 2025-10-12T13:01:55Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -3175,7 +3175,7 @@
     Availability: Available
     Price: ₹646.00 INR
 - [Festive Multicolor Floral Print Women's Kurta](https://donedeals.xyz/products/festive-multicolor-floral-print-womens-kurta): Women Floral Print Kurta (Multicolor) - Straight kurta with beautiful floral print pattern featuring notched neck and regular sleeves. Made from comfortable cotton fabric that is breathable and lightweight. Suitable for casual occasions with versatile wear options. Available in Multicolor 5 variation. Length: 42 inches. Minimum quantity: 2 pieces.
-  Updated: 2025-10-07T09:10:31Z
+  Updated: 2025-10-12T13:09:34Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -3211,7 +3211,7 @@
     Availability: Available
     Price: ₹282.00 INR
 - [Abstract Floral Print Women's Multicolor Kurta](https://donedeals.xyz/products/abstract-floral-print-womens-multicolor-kurta): Women Floral Print Kurta (Multicolor) with 85% off, elegant Cotton Combo Pack Kurti designed for comfort and everyday style. Color: Multicolor, Type: Straight, Fabric: Pure Cotton, Ideal For: Women, Length Type: Calf Length, Neck Type: Round Neck, Size: L, Net Quantity: 2, Pattern: Floral Print, Print Type: Floral, Sleeve Type: 3/4 Sleeve, Suitable For: Ethnic Wear, Occasion: Casual, Fabric Care: Do not bleach, Fabric Purity: Pure, Secondary Color: White, Ornamentation Type: None
-  Updated: 2025-10-07T07:57:02Z
+  Updated: 2025-10-12T12:55:23Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -3247,7 +3247,7 @@
     Availability: Available
     Price: ₹546.00 INR
 - [Dual Tone Pink & Maroon Printed Women's Kurta](https://donedeals.xyz/products/dual-tone-pink-maroon-printed-womens-kurta): Buy Women Printed Kurta for Rs.999 online. Women Printed Kurta at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.
-  Updated: 2025-10-07T09:09:46Z
+  Updated: 2025-10-12T13:02:06Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -3319,7 +3319,7 @@
     Availability: Available
     Price: ₹296.00 INR
 - [Floral Printed Green & Pink Women's Kurta](https://donedeals.xyz/products/floral-printed-green-pink-womens-kurta): Presenting all new colorful short kurtis combo with awesome quality fabric from Khadi Empire.This cotton blend kurtis is a perfect blend of comfort. You may feel classy and modest with the aid of this stylish kurtis. All sizes are available with awesome quality fabric.
-  Updated: 2025-10-07T09:11:11Z
+  Updated: 2025-10-12T13:09:39Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -3355,7 +3355,7 @@
     Availability: Available
     Price: ₹358.00 INR
 - [Garden Floral Print Women's Multicolor Kurta](https://donedeals.xyz/products/garden-floral-print-womens-multicolor-kurta): Women Floral Print Kurta (Multicolor) - Straight type kurta with floral print pattern and round neck. Made from pure cotton fabric suitable for ethnic wear. Calf length design with 3/4 sleeves ideal for casual occasions. Available in Multicolor 6 variation. Net Quantity: 2 pieces. Length: 42 inches.
-  Updated: 2025-10-07T09:11:56Z
+  Updated: 2025-10-12T13:06:28Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -3373,7 +3373,7 @@
     Availability: Available
     Price: ₹322.00 INR
 - [Azure Blue Printed Women's Kurta](https://donedeals.xyz/products/azure-blue-printed-womens-kurta): Women Printed Kurta in Blue color, Cotton Blend fabric, Straight type, Knee Length, Round Neck, 3/4 Sleeve, Printed pattern, suitable for Ethnic Wear and Casual occasions. Available in sizes M, L, XL, XXL, 3XL. Net Quantity: 3. Regular Machine Wash. Ornamentation Type: Buttons.
-  Updated: 2025-10-07T07:57:46Z
+  Updated: 2025-10-12T12:56:04Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -3391,7 +3391,7 @@
     Availability: Available
     Price: ₹476.00 INR
 - [FFClothings Embroidered Straight Kurta (Multicolor)](https://donedeals.xyz/products/ffclothings-embroidered-straight-kurta-multicolor): Pack of 2 Women Embroidered Cotton Blend Straight Kurta. Fabric: Cotton Blend, Occasion: Festive & Party, Pattern: Embroidered, Color: Multicolor, Sleeve Length: 3/4 Sleeve, Style: Straight, Sleeve Style: Regular Sleeves, Ornamentation Type: Embroidered
-  Updated: 2025-10-07T09:11:11Z
+  Updated: 2025-10-12T13:06:07Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -3409,7 +3409,7 @@
     Availability: Available
     Price: ₹351.00 INR
 - [FFClothings Festive Embroidered Straight Kurta (Multicolor)](https://donedeals.xyz/products/ffclothings-festive-embroidered-straight-kurta-multicolor): Pack of 2 Women Embroidered Cotton Blend Straight Kurta. Fabric: Cotton Blend, Occasion: Festive & Party, Pattern: Embroidered, Color: Multicolor, Sleeve Length: 3/4 Sleeve, Style: Straight, Sleeve Style: Regular Sleeves, Ornamentation Type: Embroidered, Knee Length, Round Neck, Regular Machine Wash
-  Updated: 2025-10-07T09:11:11Z
+  Updated: 2025-10-12T13:14:47Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -3427,7 +3427,7 @@
     Availability: Available
     Price: ₹351.00 INR
 - [Classic Grey & Maroon Solid Women's Kurta](https://donedeals.xyz/products/classic-grey-maroon-solid-womens-kurta): Women Solid Kurta with Mandarin/Chinese Neck, Pure Cotton fabric, Calf Length, suitable for Ethnic Wear, Casual occasions. Available in multiple color combinations.
-  Updated: 2025-10-07T09:08:17Z
+  Updated: 2025-10-12T12:58:38Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -3445,7 +3445,7 @@
     Availability: Available
     Price: ₹449.00 INR
 - [Deep Maroon & Dark Green Solid Women's Kurta](https://donedeals.xyz/products/deep-maroon-dark-green-solid-womens-kurta): Women Solid Kurta made of Pure Cotton with Mandarin/Chinese Neck, 3/4 Sleeve, Calf Length, Front Slit design. Available in multiple color combinations. Suitable for Ethnic Wear and Casual occasions. Regular Machine Wash. Net Quantity: 2 pieces.
-  Updated: 2025-10-07T09:09:36Z
+  Updated: 2025-10-12T13:00:11Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -3463,7 +3463,7 @@
     Availability: Available
     Price: ₹449.00 INR
 - [FFClothings Embroidered Straight Kurta (Black & Pink Multicolor)](https://donedeals.xyz/products/ffclothings-embroidered-straight-kurta-black-pink-multicolor): Pack of 2 Women Embroidered Cotton Blend Straight Kurta. Fabric: Cotton Blend, Occasion: Festive & Party, Pattern: Embroidered, Color: Multicolor, Sleeve Length: 3/4 Sleeve, Style: Straight, Sleeve Style: Regular Sleeves, Ornamentation Type: Embroidered. Brand Color: BLACK, PINK
-  Updated: 2025-10-07T09:11:11Z
+  Updated: 2025-10-12T13:12:15Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -3517,7 +3517,7 @@
     Availability: Available
     Price: ₹575.00 INR
 - [Everyday Solid Multicolor Women's Kurta](https://donedeals.xyz/products/everyday-solid-multicolor-womens-kurta): Women Solid Kurta made of Crepe fabric with Round Neck, 3/4 Sleeve, Ankle Length, A-line design. Exclusive designs with American Extra Soft Crepe. Suitable for Ethnic Wear and Casual occasions. Regular Machine Wash. Net Quantity: 2 pieces. Features Applique ornamentation and solid pattern coverage.
-  Updated: 2025-10-07T09:10:06Z
+  Updated: 2025-10-12T13:04:22Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -3553,7 +3553,7 @@
     Availability: Available
     Price: ₹449.00 INR
 - [Earthy Dark Green & Light Blue Solid Women's Kurta](https://donedeals.xyz/products/earthy-dark-green-light-blue-solid-womens-kurta): Women Solid Kurta made of Pure Cotton, Frontslit type, Calf Length, Mandarin/Chinese Neck, 3/4 Sleeve, suitable for Ethnic Wear, Casual occasion, Regular Machine Wash, Net Quantity 2
-  Updated: 2025-10-07T09:09:47Z
+  Updated: 2025-10-12T13:02:49Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -3571,7 +3571,7 @@
     Availability: Available
     Price: ₹449.00 INR
 - [FFClothings Embroidered Straight Kurta (Orange & Pink Multicolor)](https://donedeals.xyz/products/ffclothings-embroidered-straight-kurta-orange-pink-multicolor): Pack of 2 Women Embroidered Cotton Blend Straight Kurta. Fabric: Cotton Blend, Occasion: Festive & Party, Pattern: Embroidered, Color: Multicolor (Orange, Pink), Sleeve Length: 3/4 Sleeve, Style: Straight, Sleeve Style: Regular Sleeves, Ornamentation Type: Embroidered, Knee Length, Round Neck, Regular Machine Wash
-  Updated: 2025-10-07T09:11:11Z
+  Updated: 2025-10-12T13:09:24Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -3589,7 +3589,7 @@
     Availability: Available
     Price: ₹351.00 INR
 - [FFClothings Embroidered Straight Kurta (Black & Blue Multicolor)](https://donedeals.xyz/products/ffclothings-embroidered-straight-kurta-black-blue-multicolor): Pack of 2 Women Embroidered Cotton Blend Straight Kurta. Fabric: Cotton Blend, Occasion: Festive & Party, Pattern: Embroidered, Color: Multicolor, Sleeve Length: 3/4 Sleeve, Style: Straight, Sleeve Style: Regular Sleeves, Ornamentation Type: Embroidered. Brand Color: Black, Blue
-  Updated: 2025-10-07T09:10:32Z
+  Updated: 2025-10-12T13:12:04Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -3625,7 +3625,7 @@
     Availability: Available
     Price: ₹597.00 INR
 - [Abstract Printed Multicolor Women's Kurta](https://donedeals.xyz/products/abstract-printed-multicolor-womens-kurta): Explore the collections of AK Fashion Mall, having beautiful designed American Heavy Crepe Kurtis. Each piece is elegantly crafted and will surely add to your wardrobe. Pair this piece with heels or flats for a graceful look. This Apparel is Handmade by weavers. Kurti is soft, light and very comfortable to wear. A-line type with calf length, round neck, 3/4 sleeves, suitable for ethnic wear with applique ornamentation.
-  Updated: 2025-10-07T07:57:02Z
+  Updated: 2025-10-12T12:55:31Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -3643,7 +3643,7 @@
     Availability: Available
     Price: ₹260.00 INR
 - [Deep Maroon Printed Women's Kurta](https://donedeals.xyz/products/deep-maroon-printed-womens-kurta): Women Printed Kurta made of Pure Cotton with Round Neck, 3/4 Sleeve, Below Knee Length, Gown type design. Features floral print pattern with embroidered ornamentation. Suitable for Maternity Wear and Casual occasions. Regular Machine Wash, Dry in shade, Wash with like colors. Net Quantity: 1 piece.
-  Updated: 2025-10-07T09:09:36Z
+  Updated: 2025-10-12T13:01:56Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -3661,7 +3661,7 @@
     Availability: Available
     Price: ₹599.00 INR
 - [Contemporary Grey & Orange Solid Women's Kurta](https://donedeals.xyz/products/contemporary-grey-orange-solid-womens-kurta): Women Solid Kurta with Mandarin/Chinese Neck, Pure Cotton fabric, Calf Length, suitable for Ethnic Wear, Casual occasions. Available in Grey and Peach color combination.
-  Updated: 2025-10-07T09:09:01Z
+  Updated: 2025-10-12T12:59:26Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -3769,7 +3769,7 @@
     Availability: Available
     Price: ₹630.00 INR
 - [Calm Grey & Light Blue Solid Women's Kurta](https://donedeals.xyz/products/calm-grey-light-blue-solid-womens-kurta): Women Solid Kurta with Mandarin/Chinese Neck, Pure Cotton fabric, Calf Length, 3/4 Sleeve, suitable for Ethnic Wear, Casual occasions. Available in Grey and Skyblue color combination.
-  Updated: 2025-10-07T09:07:31Z
+  Updated: 2025-10-12T12:57:32Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -3805,7 +3805,7 @@
     Availability: Available
     Price: ₹584.00 INR
 - [FFClothings Embroidered Straight Kurta (Black & Orange Multicolor)](https://donedeals.xyz/products/ffclothings-embroidered-straight-kurta-black-orange-multicolor): Pack of 2 Women Embroidered Cotton Blend Straight Kurta. Fabric: Cotton Blend, Occasion: Festive & Party, Pattern: Embroidered, Color: Multicolor, Sleeve Length: 3/4 Sleeve, Style: Straight, Sleeve Style: Regular Sleeves, Ornamentation Type: Embroidered. Brand Color: Black, Orange
-  Updated: 2025-10-07T09:11:11Z
+  Updated: 2025-10-12T13:22:06Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -3841,7 +3841,7 @@
     Availability: Available
     Price: ₹480.00 INR
 - [FFClothings Embroidered Straight Kurta (Blue & Orange Multicolor)](https://donedeals.xyz/products/ffclothings-embroidered-straight-kurta-blue-orange-multicolor): Pack of 2 Women Embroidered Cotton Blend Straight Kurta. Fabric: Cotton Blend, Occasion: Festive & Party, Pattern: Embroidered, Color: Multicolor, Sleeve Length: 3/4 Sleeve, Style: Straight, Sleeve Style: Regular Sleeves, Ornamentation Type: Embroidered. Brand Color: Orange, Blue
-  Updated: 2025-10-07T09:11:11Z
+  Updated: 2025-10-12T13:07:14Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -3859,7 +3859,7 @@
     Availability: Available
     Price: ₹351.00 INR
 - [Elegant Maroon Printed Women's Kurta](https://donedeals.xyz/products/elegant-maroon-printed-womens-kurta): Pure Cotton Gown, Below Knee Length, Round Neck, 3/4 Sleeve, Printed Pattern, Floral Print, Suitable For Maternity Wear, Embroidered Ornamentation, Applique Surface Styling, Regular Sleeves, Casual Occasion, Pure Fabric
-  Updated: 2025-10-07T09:09:46Z
+  Updated: 2025-10-12T13:04:59Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -3895,7 +3895,7 @@
     Availability: Available
     Price: ₹476.00 INR
 - [Classic Blue Printed Women's Kurta](https://donedeals.xyz/products/classic-blue-printed-womens-kurta): Women Printed Kurta made of Pure Cotton with Round Neck, 3/4 Sleeve, Below Knee Length, Gown type design. Features printed pattern with embroidered ornamentation. Suitable for Maternity Wear and Casual occasions. Net Quantity: 1 piece.
-  Updated: 2025-10-07T09:08:17Z
+  Updated: 2025-10-12T12:58:38Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -3913,7 +3913,7 @@
     Availability: Available
     Price: ₹585.00 INR
 - [Fresh Yellow & Green Solid Women's Kurta](https://donedeals.xyz/products/fresh-yellow-green-solid-womens-kurta): Women Solid Kurta with Mandarin/Chinese Neck, Pure Cotton fabric, Calf Length, suitable for Ethnic Wear, Casual occasions. Available in Grey and Yellow color combination.
-  Updated: 2025-10-07T09:11:32Z
+  Updated: 2025-10-12T13:15:16Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -3985,7 +3985,7 @@
     Availability: Available
     Price: ₹449.00 INR
 - [Essential Solid Grey Women's Kurta](https://donedeals.xyz/products/essential-solid-grey-womens-kurta): Women Solid Kurta made of Pure Cotton, Frontslit type, Calf Length, Mandarin/Chinese Neck, Regular Sleeves, suitable for Ethnic Wear, Casual occasion, Regular Machine Wash, Net Quantity 2, with Buttons ornamentation
-  Updated: 2025-10-07T09:10:06Z
+  Updated: 2025-10-12T13:04:00Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -4021,7 +4021,7 @@
     Availability: Available
     Price: ₹449.00 INR
 - [Chic Maroon Printed Women's Kurta](https://donedeals.xyz/products/chic-maroon-printed-womens-kurta): Pure Cotton Gown, Below Knee Length, Round Neck, 3/4 Sleeve, Printed Pattern, Floral Print, Suitable For Maternity Wear, Embroidered Ornamentation, Applique Surface Styling, Regular Sleeves, Casual Occasion, Pure Fabric, Regular Machine Wash
-  Updated: 2025-10-07T09:07:56Z
+  Updated: 2025-10-12T12:58:21Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -5198,7 +5198,7 @@
   Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/cla3r_512.webp?v=1759077660
   Price: ₹348.00 INR
 - [Gym Stringer Vest, Gym Vest, Racer Y Back , Sports Tank Top, Sando For Men , Gym vest](https://donedeals.xyz/products/gym-stringer-vest-gym-vest-racer-y-back-sports-tank-top-sando-for-men-gym-vest): Product Details Name : Gym Stringer Vest, Gym Vest, Racer Y Back , Sports Tank Top, Sando For Men , Gym vest Fabric : Polyester Sleeve Length : Short Sleeves Pattern : Printed Net Quantity (N) : 1 Sizes : S (Chest Size : 36 in, Length Size: 27 in) M (Chest Size : 38 in, Length Size: 28 in) L (Chest Size : 40 in, Length Size: 29 in) XL (Chest Size : 42 in, Length Size: 30 in) Country of Origin : India More Information
-  Updated: 2025-10-07T09:12:43Z
+  Updated: 2025-10-12T13:09:44Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -5216,7 +5216,7 @@
     Availability: Available
     Price: ₹194.00 INR
 - [GESPO Men's Checked Polo Navy Blue Tshirts](https://donedeals.xyz/products/gespo-mens-checked-polo-navy-blue-tshirts): Product Details Name : GESPO Men's Checked Polo Navy Blue Tshirts Fabric : Cotton Blend Sleeve Length : Short Sleeves Pattern : Checked Net Quantity (N) : 1 Sizes : S (Chest Size : 36 in, Length Size: 27 in) M (Chest Size : 38 in, Length Size: 28 in) L (Chest Size : 40 in, Length Size: 29 in) XL (Chest Size : 42 in, Length Size: 30 in) XXL (Chest Size : 44 in, Length Size: 30 in) At GESPO, we understand that to look the part you have to dress the part! GESPO combines a refined design with tailor-made fabrics to create a functional yet polished look, letting any shirt, t-shirt speak for you. GESPO ensures that you’re the style statement, the alpha, and the omega! Country of Origin : India More Information
-  Updated: 2025-10-07T09:11:56Z
+  Updated: 2025-10-12T13:06:49Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -5234,7 +5234,7 @@
     Availability: Available
     Price: ₹310.00 INR
 - [[Product name cannot be different for the different sizes of the same product]](https://donedeals.xyz/products/product-name-cannot-be-different-for-the-different-sizes-of-the-same-product): Product Details Name : [Product name cannot be different for the different sizes of the same product] Fabric : Cotton Blend Sleeve Length : Short Sleeves Pattern : Solid Net Quantity (N) : 1 Sizes : XXL (Chest Size : 22 in, Length Size: 29.5 in) 5XL Country of Origin : India More Information
-  Updated: 2025-10-07T07:56:47Z
+  Updated: 2025-10-12T12:55:23Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -5288,7 +5288,7 @@
     Availability: Available
     Price: ₹282.00 INR
 - [CHHOTE NAWAB Men's Typography Regular Polo Black Tshirts](https://donedeals.xyz/products/chhote-nawab-mens-typography-regular-polo-black-tshirts): Product Details Name : CHHOTE NAWAB Men's Typography Regular Polo Black Tshirts Fabric : Cotton Sleeve Length : Short Sleeves Pattern : Printed Net Quantity (N) : 1 Sizes : L (Chest Size : 23 in, Length Size: 28 in) XL (Chest Size : 24 in, Length Size: 29 in) XXL (Chest Size : 25 in, Length Size: 30 in) Mens Printed half sleeve Polo tshirt- Casual & Active wear for all the use Country of Origin : India More Information
-  Updated: 2025-10-07T09:07:56Z
+  Updated: 2025-10-12T12:58:07Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -5396,7 +5396,7 @@
     Availability: Available
     Price: ₹277.00 INR
 - [BURRMELLOW Tshirts for men tshirt collar men](https://donedeals.xyz/products/burrmellow-tshirts-for-men-tshirt-collar-men): Product Details Name : BURRMELLOW Tshirts for men tshirt collar men Fabric : Cotton Sleeve Length : Short Sleeves Pattern : Solid Net Quantity (N) : 1 Sizes : XS (Chest Size : 38 in, Length Size: 28 in) S (Chest Size : 38 in, Length Size: 28 in) M (Chest Size : 40 in, Length Size: 28.5 in) L (Chest Size : 42 in, Length Size: 29 in) XL (Chest Size : 44 in, Length Size: 30 in) 100 % Cotton MANDARIN COLLAR PIQUE POLO T-shirt, has a polo collar, short sleeves Country of Origin : India More Information
-  Updated: 2025-10-07T09:07:31Z
+  Updated: 2025-10-12T12:57:32Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -5648,7 +5648,7 @@
     Availability: Available
     Price: ₹287.00 INR
 - [Force Men Solid Casual Brown T-Shirt](https://donedeals.xyz/products/force-men-solid-casual-brown-t-shirt): Product Details Name : Force Men Solid Casual Brown T-Shirt Fabric : Poly Blend Sleeve Length : Three-Quarter Sleeves Pattern : Solid Net Quantity (N) : 1 Sizes : S (Chest Size : 36 in, Length Size: 26.5 in) L (Chest Size : 40 in, Length Size: 28.5 in) XL (Chest Size : 42 in, Length Size: 30.5 in) Country of Origin : India More Information
-  Updated: 2025-10-07T09:11:32Z
+  Updated: 2025-10-12T13:09:42Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -5756,7 +5756,7 @@
     Availability: Available
     Price: ₹339.00 INR
 - [Contrast Collar Trending Tshirt Catalog No. 01](https://donedeals.xyz/products/contrast-collar-trending-tshirt-catalog-no-01): Product Details Name : Contrast Collar Trending Tshirt Catalog No. 01 Fabric : Cotton Blend Sleeve Length : Short Sleeves Pattern : Printed Net Quantity (N) : 1 Sizes : M (Chest Size : 38 in, Length Size: 27 in) L (Chest Size : 40 in, Length Size: 28 in) XL (Chest Size : 42 in, Length Size: 29 in) XXL (Chest Size : 44 in, Length Size: 30 in) Upgrade your wardrobe with this stylish and comfortable Contrast Collar T-shirt, designed for both men and boys. Crafted from premium quality fabric, this trendy T-shirt offers a perfect blend of fashion and comfort. The eye-catching contrast collar adds a modern twist to your everyday look, making it ideal for casual outings, college wear, or weekend hangouts. Whether you pair it with jeans, joggers, or shorts — this tee is sure to make a bold statement! Fabric : Soft & breathable cotton blend Fit Type : Regular / Oversized (as per your stock) Ideal For : Men & Boys Occasion : Casual, College, Daily Wear, Summer Outings Care Instructions : Machine wash cold, do not bleach, dry in shade #ContrastCollar #TrendingTshirt #TshirtForMen #StylishWear #ContrastCollar #TshirtForBoys #TrendyLook #CoolVibes #ContrastCollar #OversizedTshirt #TshirtForMen #StreetStyle #ContrastCollar #PrintedTshirt #TshirtForBoys #YouthStyle #ContrastCollar #SummerWear #TshirtForMen #ComfortFit #ContrastCollar #CasualWear #TshirtForBoys #DailyLook #ContrastCollar #NewArrival #TshirtForMen #TrendyWear #ContrastCollar #DropShoulder #TshirtForBoys #LooseFit #ContrastCollar #SolidTshirt #TshirtForMen #MinimalLook #ContrastCollar #GymWear #TshirtForBoys #ActiveStyle #ContrastCollar #FashionTshirt #TshirtForMen #ModernStyle #ContrastCollar #CottonTshirt #TshirtForBoys #RelaxWear #ContrastCollar #DesiSwag #TshirtForM Country of Origin : India More Information
-  Updated: 2025-10-07T09:09:02Z
+  Updated: 2025-10-12T12:59:27Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -5846,7 +5846,7 @@
     Availability: Available
     Price: ₹365.00 INR
 - [FORCE Mens Full Slevee T-Shirt](https://donedeals.xyz/products/force-mens-full-slevee-t-shirt): Product Details Name : FORCE Mens Full Slevee T-Shirt Fabric : Polyester Sleeve Length : Long Sleeves Pattern : Striped Net Quantity (N) : 1 Sizes : S (Chest Size : 36 in, Length Size: 27 in) M (Chest Size : 38 in, Length Size: 28 in) L (Chest Size : 40 in, Length Size: 29 in) XL (Chest Size : 42 in, Length Size: 30 in) Country of Origin : India More Information
-  Updated: 2025-10-07T09:11:31Z
+  Updated: 2025-10-12T13:09:27Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -6080,7 +6080,7 @@
     Availability: Available
     Price: ₹277.00 INR
 - [Combo Tshirt for men trendy and stylish (pack of 2)](https://donedeals.xyz/products/combo-tshirt-for-men-trendy-and-stylish-pack-of-2): Product Details Name : Combo Tshirt for men trendy and stylish (pack of 2) Fabric : Cotton Blend Sleeve Length : Short Sleeves Pattern : Printed Net Quantity (N) : 2 Sizes : XXS (Chest Size : 30 in, Length Size: 23 in) XS (Chest Size : 32 in, Length Size: 24 in) S (Chest Size : 34 in, Length Size: 25 in) M (Chest Size : 36 in, Length Size: 26 in) L (Chest Size : 38 in, Length Size: 27 in) XL (Chest Size : 40 in, Length Size: 28 in) XXL (Chest Size : 42 in, Length Size: 29 in) tshirtsModern Funky Boys Tshirts Goodluck baniyan Boys Full Sleeves Regular Fit Cotton T-Shirts Pretty Funky Girls Tshirts Daily wear t-shirt for boys and girls (pack of 3) Boys T Shirt Girls Grey Cotton Tshirts Pack Of 5 PACK OF 5 BEST QUALITY COTTON GIRLS TSHIRTS KIds T-shirt For Boys Pack of 3 Add to Cart Buy Now 2 Similar Products Stylish trending top with pant clothing set for kids Branded Stylish trending top with pant clothing set for kids Stylish trending top with pant clothing set for kids Awesome baby girl's and baby boy's kid's t-shirts Baby Boys & Girls Printed T-shirt v INFANT WEAR COTTON BABY BOOTIES & SANDELS 0 - 9 MONTH / FOR BABY BOYS AND BABY GIRLS / BABY MITTENS / BABY CLOTHING / BABY SHOES & SANDELS (Pack of 3) Girls Led Lights Leather Transparent straap skin summer friendly fancy Partywear, wedding Comfortable lighting waking Bellies heelss upto 11 years Multicolor KEESOR Boys Hoodie Sweatshirt|Boys Hooded sweatshirt with long sleeves Kids Boys & Girls Hooded neck Full Sleeves Pure Cotton Anime Printed Regular Fitted T-shirtBOYS HOOD TOP Saram kids hoodie , baby hoodie , boys hoodie, girls hoodie , hooded sweatshirt , printed hoodie CTMKIDS Soft Kids AC Blanket/Baby Wrapper/Crib Baby hooded Cum Wrap Blanket for Kids( 92 X 66 CM ) Solid , lightweight, Firozi( Microfiber ) Panipat blanket top class Cheesy Cheeks Baby Combo Set Ruby_Trader 3 Feet Pink Cute And Country of Origin : India More Information
-  Updated: 2025-10-07T09:08:41Z
+  Updated: 2025-10-12T12:59:07Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -13679,7 +13679,7 @@
     Availability: Available
     Price: ₹485.00 INR
 - [cotton kurti and pant set](https://donedeals.xyz/products/cotton-kurti-and-pant-set): Product Details Name : cotton kurti and pant set Fabric : Rayon Slub Sleeve Length : Three-Quarter Sleeves Pattern : Printed Combo of : Single Sizes : S (Bust Size : 36 in, Size Length: 41 in) M (Bust Size : 38 in, Size Length: 41 in) L (Bust Size : 40 in, Size Length: 41 in) XL (Bust Size : 42 in, Size Length: 41 in) XXL (Bust Size : 44 in, Size Length: 41 in) XXXL (Bust Size : 46 in, Size Length: 41 in) Print kurti is comfortable and softlly .Ethinic kurti Country of Origin : India More Information
-  Updated: 2025-10-07T09:09:02Z
+  Updated: 2025-10-12T13:00:03Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -13733,7 +13733,7 @@
     Availability: Available
     Price: ₹355.00 INR
 - [Ethnic Motifs Embroidered Regular Thread Work Kurta with Plazo](https://donedeals.xyz/products/ethnic-motifs-embroidered-regular-thread-work-kurta-with-plazo): Product Details Name : Ethnic Motifs Embroidered Regular Thread Work Kurta with Plazo Kurta Fabric : Rayon Bottomwear Fabric : Rayon Kurta Color : Rust Bottomwear Color : Rust Sleeve Length : Long Sleeves Neck : V-neck Length : Calf Length Pattern : Embroidered Print or Pattern Type : Embellished Bottom Type : Pants Fit/ Shape : A-line Occasion : Daily Net Quantity (N) : Single Sizes : S (Bust Size : 36 in, Shoulder Size: 14 in, Kurta Length Size: 44 in, Kurta Hip Size: 38 in, Kurta Waist Size: 34 in, Bottom Waist Size: 28 in, Bottom Hip Size: 28 in, Bottom Length Size: 39 in) M (Bust Size : 38 in, Shoulder Size: 14 in, Kurta Length Size: 44 in, Kurta Hip Size: 40 in, Kurta Waist Size: 36 in, Bottom Waist Size: 29 in, Bottom Hip Size: 30 in, Bottom Length Size: 39 in) L (Bust Size : 40 in, Shoulder Size: 15 in, Kurta Length Size: 44 in, Kurta Hip Size: 42 in, Kurta Waist Size: 38 in, Bottom Waist Size: 30 in, Bottom Hip Size: 32 in, Bottom Length Size: 39 in) XL (Bust Size : 42 in, Shoulder Size: 15 in, Kurta Length Size: 44 in, Kurta Hip Size: 44 in, Kurta Waist Size: 40 in, Bottom Waist Size: 32 in, Bottom Hip Size: 34 in, Bottom Length Size: 39 in) XXL (Bust Size : 44 in, Shoulder Size: 16 in, Kurta Length Size: 44 in, Kurta Hip Size: 42 in, Kurta Waist Size: 42 in, Bottom Waist Size: 34 in, Bottom Hip Size: 36 in, Bottom Length Size: 40 in) XXXL (Bust Size : 46 in, Shoulder Size: 16 in, Kurta Length Size: 44 in, Kurta Hip Size: 44 in, Kurta Waist Size: 44 in, Bottom Waist Size: 36 in, Bottom Hip Size: 38 in, Bottom Length Size: 40 in) 4XL (Bust Size : 48 in, Shoulder Size: 17 in, Kurta Length Size: 44 in, Kurta Waist Size: 46 in, Bottom Waist Size: 38 in, Bottom Length Size: 42 in) 5XL (Bust Size : 50 in, Shoulder Size: 17 in, Kurta Length Size: 44 in, Kurta Waist Size: 48 in, Bottom Waist Size: 40 in, Bottom Length Size: 44 in) 6XL (Bust Size : 52 in, Shoulder Size: 18 in, Kurta Length Size: 44 in, Kurta Waist Size: 50 in, Bottom Waist Size: 42 in, Bottom Length Size: 46 in) Country of Origin : India More Information
-  Updated: 2025-10-07T09:10:06Z
+  Updated: 2025-10-12T13:09:39Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -14136,7 +14136,7 @@
     Availability: Available
     Price: ₹489.00 INR
 - [BHAKTI FASHION Women's Straight Kurta with Pant | Women Kurta Sets with Palazzo | Women's Solid Straight Kurta with Palazzos | Ethnic Co-Ord Set RED](https://donedeals.xyz/products/bhakti-fashion-womens-straight-kurta-with-pant-women-kurta-sets-with-palazzo-womens-solid-straight-kurta-with-palazzos-ethnic-co-ord-set-red): Product Details Name : BHAKTI FASHION Women's Straight Kurta with Pant | Women Kurta Sets with Palazzo | Women's Solid Straight Kurta with Palazzos | Ethnic Co-Ord Set RED Kurta Fabric : Cotton Blend Bottomwear Fabric : Cotton Blend Sleeve Length : Long Sleeves Set Type : Kurta With Bottomwear Bottom Type : Pants Pattern : Printed Net Quantity (N) : Single Sizes : XS (Bust Size : 32 in, Shoulder Size: 13.5 in, Kurta Waist Size: 32 in, Kurta Length Size: 44 in, Bottom Waist Size: 27 in, Bottom Length Size: 39 in) S (Bust Size : 34 in, Shoulder Size: 14 in, Kurta Waist Size: 32 in, Kurta Length Size: 44 in, Bottom Waist Size: 28 in, Bottom Length Size: 39 in) L (Bust Size : 38 in, Shoulder Size: 15 in, Kurta Waist Size: 36 in, Kurta Length Size: 44 in, Bottom Waist Size: 30 in, Bottom Length Size: 39 in) XL (Bust Size : 40 in, Shoulder Size: 15.5 in, Kurta Waist Size: 38 in, Kurta Length Size: 44 in, Bottom Waist Size: 31 in, Bottom Length Size: 39 in) XXL (Bust Size : 42 in, Shoulder Size: 16 in, Kurta Waist Size: 40 in, Kurta Length Size: 44 in, Bottom Waist Size: 32 in, Bottom Length Size: 39 in) XXXL (Bust Size : 44 in, Shoulder Size: 16.5 in, Kurta Waist Size: 42 in, Kurta Length Size: 44 in, Bottom Waist Size: 33 in, Bottom Length Size: 39 in) 4XL (Bust Size : 46 in, Shoulder Size: 17 in, Kurta Waist Size: 44 in, Kurta Length Size: 44 in, Bottom Waist Size: 34 in, Bottom Length Size: 39 in) 5XL (Bust Size : 48 in, Shoulder Size: 17 in, Kurta Waist Size: 46 in, Kurta Length Size: 44 in, Bottom Waist Size: 35 in, Bottom Length Size: 39 in) kurti for women RED kurti for women kurti set for women ethnic wear for women "kurti seT kurti kurti set for women kurti pant with dupatta set for women kurti combo kurti plazzo set with dupatta kurti cotton kurti pant kurti for womens latest stylish ethnic wear for kids girl ethnic wear women ethnic wear for women ethnic wear for girls ethnic wear for women party wear chikankari kurti set for women chikankari kurti with inner chikankari kurti with mirror work chikankari kurti set chikankari kurtis chikankari kurti combo chikankari kurti mirror work kurti for women cotton kurti for women combokurti for women under 200 kurti for womens combo cotton kurti for womens combo kurti for womens combo set kurti for women's designer kurti set designer kurti for women designer kurtis designer kurti with plazo designer kurtis for women partywear designer kurti pant designer kurties woolen kurti woolen kurti set woolen kurti for women woolen kurtis set for women woolen kurtiyan woolen kurtis" "Kurti withmatching pant Straight kurti and pants set Kurti with trousers Kurti with palazzo pants Kurti with straight-cut pants Kurti with pants Kurti with ankle-length pants Straight kurti with churidar pants Kurti with tailored pants Kurti with wide-leg pants Kurti with flared pants Kurti with cropped pants Kurti with culottes Kurti with dhoti pants Kurti with salwar panT Country of Origin : India More Information
-  Updated: 2025-10-07T09:06:41Z
+  Updated: 2025-10-12T12:56:45Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -14168,7 +14168,7 @@
   Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/oggjq_512_2eb8bdfe-f4fd-4f47-b139-ad73247884ce.webp?v=1759653770
   Price: ₹0.00 INR
 - [galax embroidory kurta set](https://donedeals.xyz/products/galax-embroidory-kurta-set): Product Details Name : galax embroidory kurta set Kurta Fabric : Rayon Bottomwear Fabric : Rayon Sleeve Length : Three-Quarter Sleeves Set Type : Kurta With Bottomwear Bottom Type : Palazzos Pattern : Solid Net Quantity (N) : Single Sizes : S (Bust Size : 36 in, Shoulder Size: 14 in, Kurta Waist Size: 32 in, Kurta Length Size: 42 in, Bottom Waist Size: 36 in, Bottom Hip Size: 38 in, Bottom Length Size: 39 in) M (Bust Size : 38 in, Shoulder Size: 14 in, Kurta Waist Size: 34 in, Kurta Length Size: 42 in, Bottom Waist Size: 38 in, Bottom Hip Size: 40 in, Bottom Length Size: 39 in) XL (Bust Size : 42 in, Shoulder Size: 15 in, Kurta Waist Size: 38 in, Kurta Length Size: 42 in, Bottom Waist Size: 40 in, Bottom Hip Size: 42 in, Bottom Length Size: 39 in) XXL (Bust Size : 44 in, Shoulder Size: 16 in, Kurta Waist Size: 40 in, Kurta Length Size: 42 in, Bottom Waist Size: 42 in, Bottom Hip Size: 44 in, Bottom Length Size: 39 in) reyon stylish embroiderd kurta sets with fancy lace Country of Origin : India More Information
-  Updated: 2025-10-07T09:11:56Z
+  Updated: 2025-10-12T13:20:49Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -14204,7 +14204,7 @@
     Availability: Available
     Price: ₹347.00 INR
 - [BLACK KURTI WITH PENT SET WOMEN](https://donedeals.xyz/products/black-kurti-with-pent-set-women): Product Details Name : BLACK KURTI WITH PENT SET WOMEN Kurta Fabric : Rayon Bottomwear Fabric : Rayon Sleeve Length : Three-Quarter Sleeves Set Type : Kurta With Bottomwear Bottom Type : Pants Pattern : Printed Net Quantity (N) : Single Sizes : XS (Bust Size : 34 in, Shoulder Size: 14 in, Kurta Waist Size: 32 in, Kurta Hip Size: 36 in, Kurta Length Size: 40 in, Bottom Waist Size: 25 in, Bottom Length Size: 40 in) S (Bust Size : 36 in, Shoulder Size: 14.5 in, Kurta Waist Size: 34 in, Kurta Hip Size: 38 in, Kurta Length Size: 40 in, Bottom Waist Size: 26 in, Bottom Length Size: 40 in) M (Bust Size : 38 in, Shoulder Size: 15 in, Kurta Waist Size: 36 in, Kurta Hip Size: 40 in, Kurta Length Size: 40 in, Bottom Waist Size: 28 in, Bottom Length Size: 40 in) L (Bust Size : 40 in, Shoulder Size: 15.5 in, Kurta Waist Size: 38 in, Kurta Hip Size: 42 in, Kurta Length Size: 40 in, Bottom Waist Size: 30 in, Bottom Length Size: 40 in) XL (Bust Size : 42 in, Shoulder Size: 16 in, Kurta Waist Size: 40 in, Kurta Hip Size: 44 in, Kurta Length Size: 40 in, Bottom Waist Size: 32 in, Bottom Length Size: 40 in) XXL (Bust Size : 44 in, Shoulder Size: 16.5 in, Kurta Waist Size: 42 in, Kurta Hip Size: 46 in, Kurta Length Size: 40 in, Bottom Waist Size: 34 in, Bottom Length Size: 40 in) Country of Origin : India More Information
-  Updated: 2025-10-07T09:06:42Z
+  Updated: 2025-10-12T12:57:05Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -14222,7 +14222,7 @@
     Availability: Available
     Price: ₹311.00 INR
 - [Embroidery kurta with pent](https://donedeals.xyz/products/embroidery-kurta-with-pent): Product Details Name : Embroidery kurta with pent Kurta Fabric : Rayon Bottomwear Fabric : Rayon Sleeve Length : Long Sleeves Set Type : Kurta With Bottomwear Bottom Type : Pants Pattern : Printed Net Quantity (N) : Single Sizes : M (Bust Size : 28 in, Shoulder Size: 13 in, Kurta Waist Size: 38 in, Kurta Length Size: 44 in, Bottom Waist Size: 27 in, Bottom Hip Size: 15 in, Bottom Length Size: 38 in) XXXL (Bust Size : 36 in, Shoulder Size: 15 in, Kurta Waist Size: 46 in, Kurta Length Size: 44 in, Bottom Waist Size: 31 in, Bottom Hip Size: 19 in, Bottom Length Size: 38 in) 6XL Country of Origin : India More Information
-  Updated: 2025-10-07T09:10:06Z
+  Updated: 2025-10-12T13:03:22Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -14240,7 +14240,7 @@
     Availability: Available
     Price: ₹425.00 INR
 - [Designer Casual Green Rayon Kurta Sharara Set](https://donedeals.xyz/products/designer-casual-green-rayon-kurta-sharara-set): Product Details Name : Designer Casual Green Rayon Kurta Sharara Set Kurta Fabric : Rayon Bottomwear Fabric : Rayon Sleeve Length : Three-Quarter Sleeves Set Type : Kurta With Bottomwear Bottom Type : Sharara Pattern : Printed Net Quantity (N) : Single Sizes : S (Bust Size : 36 in, Shoulder Size: 14 in, Kurta Waist Size: 32 in, Kurta Length Size: 42 in) Country of Origin : India More Information
-  Updated: 2025-10-07T09:09:36Z
+  Updated: 2025-10-12T13:01:07Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -14276,7 +14276,7 @@
     Availability: Available
     Price: ₹322.00 INR
 - [Banita Ensemble Women Kurta Sets](https://donedeals.xyz/products/banita-ensemble-women-kurta-sets): Product Details Name : Banita Ensemble Women Kurta Sets Kurta Fabric : Rayon Bottomwear Fabric : No Bottomwear Sleeve Length : Sleeveless Set Type : Kurta With Bottomwear Bottom Type : Pants Pattern : Striped Net Quantity (N) : Pack Of 2 Sizes : XS (Bust Size : 26 in, Shoulder Size: 15 in, Kurta Waist Size: 32 in, Kurta Length Size: 28 in, Bottom Waist Size: 28 in, Bottom Length Size: 46 in) S (Bust Size : 28 in, Shoulder Size: 16 in, Kurta Waist Size: 34 in, Kurta Length Size: 30 in, Bottom Waist Size: 28 in, Bottom Length Size: 13 in) M (Bust Size : 30 in, Shoulder Size: 17 in, Kurta Waist Size: 36 in, Kurta Length Size: 32 in, Bottom Waist Size: 30 in, Bottom Length Size: 46 in) L (Bust Size : 32 in, Shoulder Size: 18 in, Kurta Waist Size: 38 in, Kurta Length Size: 34 in, Bottom Waist Size: 30 in, Bottom Length Size: 46 in) XL (Bust Size : 34 in, Shoulder Size: 19 in, Kurta Waist Size: 40 in, Kurta Length Size: 36 in, Bottom Waist Size: 32 in, Bottom Length Size: 46 in) XXL (Bust Size : 36 in, Shoulder Size: 20 in, Kurta Waist Size: 42 in, Kurta Length Size: 38 in, Bottom Waist Size: 32 in, Bottom Length Size: 46 in) Country of Origin : India More Information
-  Updated: 2025-10-07T07:57:46Z
+  Updated: 2025-10-12T12:56:04Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -14344,7 +14344,7 @@
   Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/qjqwf_512_8e967780-eb46-4259-9f6c-df77776fb1ea.webp?v=1759653883
   Price: ₹0.00 INR
 - [Green](https://donedeals.xyz/products/green): Product Details Name : Green Kurta Fabric : Rayon Bottomwear Fabric : Rayon Sleeve Length : Three-Quarter Sleeves Set Type : Kurta With Bottomwear Bottom Type : Pants Pattern : Solid Net Quantity (N) : Single Sizes : S, M, L, XL Country of Origin : India More Information
-  Updated: 2025-10-07T09:12:22Z
+  Updated: 2025-10-12T13:24:11Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -14416,7 +14416,7 @@
     Availability: Available
     Price: ₹335.00 INR
 - [Beyond Fashion Women's Solid Printed Round Pleated Flared Kurti (Purple)](https://donedeals.xyz/products/beyond-fashion-womens-solid-printed-round-pleated-flared-kurti-purple): Product Details Name : Beyond Fashion Women's Solid Printed Round Pleated Flared Kurti (Purple) Fabric : Rayon Sleeve Length : Three-Quarter Sleeves Pattern : Solid Combo of : Single Sizes : XS (Bust Size : 34 in, Size Length: 48 in) S (Bust Size : 36 in, Size Length: 48 in) M (Bust Size : 38 in, Size Length: 48 in) L (Bust Size : 40 in, Size Length: 48 in) XL (Bust Size : 42 in, Size Length: 48 in) XXL (Bust Size : 44 in, Size Length: 48 in) XXXL (Bust Size : 46 in, Size Length: 48 in) Care Instructions : Hand Wash, Machine Wash Fit Type : Regular Kurta Material : Rayon (GSM: 140) Style : Round Flared 48" length Kurta with 3/4 Sleeve Ocassion : Casual, Formal, Casual, Daily Packet contains : 1 readymade Kurti. Size Declaration : Please choose garment size that is two inches more than your body measurement.e.g:-For Bust size -36"(S),Select garment size-38''(M). Color May Slightly Vary Due to Photographic Lighting Sources or Your Monitor Setting. Country of Origin : India More Information
-  Updated: 2025-10-07T09:06:41Z
+  Updated: 2025-10-12T12:56:43Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -14477,7 +14477,7 @@
   Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/zw8jj_512_a1acfba8-d2b5-47ee-adb4-fe1261fa264c.webp?v=1759656643
   Price: ₹0.00 INR
 - [Anika Rayon Printed Anarkali Kurtis](https://donedeals.xyz/products/anika-rayon-printed-anarkali-kurtis): Product Details Name : Anika Rayon Printed Anarkali Kurtis Fabric : Rayon Sleeve Length : Three-Quarter Sleeves Pattern : Printed Combo of : Single Sizes : M (Bust Size : 38 in, Size Length: 48 in) L (Bust Size : 40 in, Size Length: 48 in) XL (Bust Size : 42 in, Size Length: 48 in) XXL (Bust Size : 44 in, Size Length: 48 in) The rayon kurti makes it look so elegant and a modern style-statement. This kurta helps you looking a sophisticated look and enhance the beauty of the women which can be worn for functions, festivals, parties and even wedding also. You will be a center of attraction in the event once you wear it. This floral print anarkali kurta has a, round neck, three-quarter regular sleeves, flared hem and calf length. These trendy & stylish anarkali kurtas are exclusive and we just launched only on Meesho at lowest price with finest quality. Grab the deal at best price. Country of Origin : India More Information
-  Updated: 2025-10-07T07:57:26Z
+  Updated: 2025-10-12T12:55:52Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -14495,7 +14495,7 @@
     Availability: Available
     Price: ₹338.00 INR
 - [Black Rayon Solid Anarkali Gold Printed 3/4 Sleeve Show Botton Kurta For Women's and Girls](https://donedeals.xyz/products/black-rayon-solid-anarkali-gold-printed-3-4-sleeve-show-botton-kurta-for-womens-and-girls): Product Details Name : Black Rayon Solid Anarkali Gold Printed 3/4 Sleeve Show Botton Kurta For Women's and Girls Fabric : Rayon Sleeve Length : Three-Quarter Sleeves Pattern : Printed Combo of : Single Sizes : S (Bust Size : 36 in, Size Length: 48 in) M (Bust Size : 40 in, Size Length: 48 in) L (Bust Size : 42 in, Size Length: 48 in) XL (Bust Size : 44 in, Size Length: 48 in) XXL (Bust Size : 46 in, Size Length: 48 in) XXXL (Bust Size : 44 in, Size Length: 48 in) Black Rayon Solid Anarkali Gold Printed 3/4 Sleeve Show Botton Kurta For Women's and Girls Country of Origin : India More Information
-  Updated: 2025-10-07T09:06:41Z
+  Updated: 2025-10-12T12:57:03Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -14513,7 +14513,7 @@
     Availability: Available
     Price: ₹351.00 INR
 - [Fashionable Kurtis](https://donedeals.xyz/products/fashionable-kurtis): Product Details Name : Fashionable Kurtis Fabric : Georgette Sleeve Length : Long Sleeves Pattern : Printed Combo of : Single Sizes : XXS, XS, S (Bust Size : 36 in, Size Length: 50 in) M (Bust Size : 38 in, Size Length: 50 in) L (Bust Size : 40 in, Size Length: 50 in) XL (Bust Size : 42 in, Size Length: 50 in) XXL (Bust Size : 44 in, Size Length: 50 in) Country of Origin : India More Information
-  Updated: 2025-10-07T09:10:34Z
+  Updated: 2025-10-12T13:06:10Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -14531,7 +14531,7 @@
     Availability: Available
     Price: ₹289.00 INR
 - [GOWN WHITH DUPATA](https://donedeals.xyz/products/gown-whith-dupata): Product Details Name : GOWN WHITH DUPATA Fabric : Georgette Sleeve Length : Three-Quarter Sleeves Pattern : Solid Combo of : Single Sizes : XS (Bust Size : 34 in, Size Length: 48 in) S (Bust Size : 36 in, Size Length: 48 in) M (Bust Size : 38 in, Size Length: 48 in) L (Bust Size : 40 in, Size Length: 48 in) XL (Bust Size : 42 in, Size Length: 48 in) XXL (Bust Size : 44 in, Size Length: 48 in) Country of Origin : India More Information
-  Updated: 2025-10-07T09:12:22Z
+  Updated: 2025-10-12T13:21:59Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -14549,7 +14549,7 @@
     Availability: Available
     Price: ₹384.00 INR
 - [Anarkali High Demand trendy Rayon Gown Kurtis](https://donedeals.xyz/products/anarkali-high-demand-trendy-rayon-gown-kurtis): Product Details Name : Anarkali High Demand trendy Rayon Gown Kurtis Fabric : Rayon Sleeve Length : Three-Quarter Sleeves Pattern : Solid Combo of : Single Sizes : S (Bust Size : 36 in, Size Length: 43 in) M (Bust Size : 38 in, Size Length: 43 in) L (Bust Size : 40 in, Size Length: 43 in) XL (Bust Size : 42 in, Size Length: 43 in) XXL (Bust Size : 44 in, Size Length: 43 in) XXXL (Bust Size : 46 in, Size Length: 43 in) 4XL (Bust Size : 48 in, Size Length: 43 in) 5XL (Bust Size : 50 in, Size Length: 43 in) women, men and children. Customers can expect a world-class shopping environment stocking the latest in international fashion from around the globe, as well as DDG's own label of in-house designs in carefully chosen color palettes. Pioneering the concept of ‘Latest fashion at great prices’ in India Country of Origin : India More Information
-  Updated: 2025-10-07T07:57:26Z
+  Updated: 2025-10-12T12:55:53Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -14567,7 +14567,7 @@
     Availability: Available
     Price: ₹275.00 INR
 - [Anarkali](https://donedeals.xyz/products/anarkali): Product Details Name : Anarkali Fabric : Rayon Sleeve Length : Three-Quarter Sleeves Pattern : Solid Combo of : Single Sizes : S (Bust Size : 36 in, Size Length: 43 in) M (Bust Size : 38 in, Size Length: 43 in) L (Bust Size : 40 in, Size Length: 43 in) XL (Bust Size : 42 in, Size Length: 43 in) XXL (Bust Size : 44 in, Size Length: 43 in) XXXL (Bust Size : 46 in, Size Length: 43 in) 4XL (Bust Size : 48 in, Size Length: 43 in) 5XL (Bust Size : 50 in, Size Length: 43 in) women, men and children. Customers can expect a world-class shopping environment stocking the latest in international fashion from around the globe, as well as DDG's own label of in-house designs in carefully chosen color palettes. Pioneering the concept of ‘Latest fashion at great prices’ in India Country of Origin : India More Information
-  Updated: 2025-10-07T07:57:27Z
+  Updated: 2025-10-12T12:55:33Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -14664,7 +14664,7 @@
     Availability: Available
     Price: ₹290.00 INR
 - [Anarkali Kurti](https://donedeals.xyz/products/anarkali-kurti): Product Details Name : Anarkali Kurti Fabric : Rayon Sleeve Length : Three-Quarter Sleeves Pattern : Printed Combo of : Single Sizes : S (Bust Size : 36 in, Size Length: 42 in) M (Bust Size : 38 in, Size Length: 42 in) L (Bust Size : 40 in, Size Length: 42 in) XL (Bust Size : 42 in, Size Length: 42 in) XXL (Bust Size : 44 in, Size Length: 42 in) XXXL (Bust Size : 46 in, Size Length: 42 in) 4XL (Bust Size : 48 in, Size Length: 42 in) 5XL (Bust Size : 50 in, Size Length: 42 in) This Kurta is printed design. This is designed as per the latest trends to keep you in sync with all day long Country of Origin : India More Information
-  Updated: 2025-10-07T07:57:26Z
+  Updated: 2025-10-12T12:55:52Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -14682,7 +14682,7 @@
     Availability: Available
     Price: ₹379.00 INR
 - [anarakali kurti and dupatta pink](https://donedeals.xyz/products/anarakali-kurti-and-dupatta-pink): Product Details Name : anarakali kurti and dupatta pink Fabric : Rayon Sleeve Length : Three-Quarter Sleeves Pattern : Printed Combo of : Single Sizes : M (Bust Size : 38 in, Size Length: 44 in) L (Bust Size : 40 in, Size Length: 44 in) XL (Bust Size : 42 in, Size Length: 44 in) XXL (Bust Size : 44 in, Size Length: 44 in) XXXL (Bust Size : 46 in, Size Length: 44 in) 4XL (Bust Size : 48 in, Size Length: 44 in) 5XL (Bust Size : 50 in, Size Length: 44 in) Chitrarekha Attractive Women KurtI DUPATTA Kurti Fabric : reyon Fabric : reyon Set Type : KurtI With Dupatta Sizes : XL, L, M, XXL , 3XL Country of Origin : India Country of Origin : India More Information
-  Updated: 2025-10-07T07:57:02Z
+  Updated: 2025-10-12T12:55:31Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -14707,7 +14707,7 @@
   Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/hiwml_512.webp?v=1759656785
   Price: ₹0.00 INR
 - [Anarkali Dupatta Set" Women's Printed "Anarkali Kurti" & Pant Dupatta Set](https://donedeals.xyz/products/anarkali-dupatta-set-womens-printed-anarkali-kurti-pant-dupatta-set): Product Details Name : Anarkali Dupatta Set" Women's Printed "Anarkali Kurti" & Pant Dupatta Set Fabric : Rayon Sleeve Length : Three-Quarter Sleeves Pattern : Printed Combo of : Single Sizes : S (Bust Size : 36 in, Size Length: 46 in) M (Bust Size : 38 in, Size Length: 46 in) L (Bust Size : 40 in, Size Length: 46 in) XL (Bust Size : 42 in, Size Length: 46 in) XXL (Bust Size : 44 in, Size Length: 46 in) XXXL (Bust Size : 46 in, Size Length: 52 in) 4XL "Anarkali Dupatta Set" Women's Printed "Anarkali Kurti" & Pant Dupatta Set "Summer Fashion 2023" (Navy-blue) Name : "Anarkali Dupatta Set" Women's Printed "Anarkali Kurti" & Pant Dupatta Set "Summer Fashion 2023" (Navy-blue) Kurta Fabric : Rayon Fabric : Rayon Bottomwear Fabric : Rayon Sleeve Length : Three-Quarter Sleeves Pattern : Printed Set Type : Kurta with Dupatta and Bottomwear Stitch Type : Stitched Net Quantity (N) : Single "woman kurta" "kurtis for ladies" "kurta design for woman" "latest kurta design for woman" "woman kurti design" "kurta dress for woman" "latest kurti for women" "kurta for wedding woman" "printed kurta for woman" "ethnic jacket women" "ladies plazo kurta" "kurta pajama design for woman" "best kurta design for woman "woman dhoti kurta" "fe… Country of Origin : India More Information
-  Updated: 2025-10-07T07:57:26Z
+  Updated: 2025-10-12T12:55:52Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -14761,7 +14761,7 @@
     Availability: Available
     Price: ₹326.00 INR
 - [EMBROEDARY RAYON ANARKALI LONG KURTI](https://donedeals.xyz/products/embroedary-rayon-anarkali-long-kurti): Product Details Name : EMBROEDARY RAYON ANARKALI LONG KURTI Fabric : Rayon Sleeve Length : Three-Quarter Sleeves Pattern : Printed Combo of : Single Sizes : XS (Bust Size : 34 in, Size Length: 50 in) S (Bust Size : 36 in, Size Length: 44 in) M (Bust Size : 38 in, Size Length: 44 in) L (Bust Size : 40 in, Size Length: 44 in) XL (Bust Size : 42 in, Size Length: 44 in) XXL (Bust Size : 44 in, Size Length: 44 in) XXXL, 4XL, 5XL, 6XL A perfect choice for everyday wear, this printed kurta features three-quarter sleeves, a round neck, and a flared hemline. Team it up with a pair of jeans or straight pants or palazzos along with some minimal accessories and sandals to complete your casual ethnic ensemble. This type of prints have always been popular in Indian ethnic wear. This printed rayon anarkali can make you look unique and stand out in a crowd. We also providing you many styling options in this catalog and these kurtis can be worn anywhere. When it comes to Anarkali Kurtis, checkered printed designs are extremely popular as well. Ethnic prints like block prints, paisley florals, and Kalamkari are being adored these days. We come in a comprehensive range of shades and colours. These Anarkali Kurtis are made in light flowy fabrics which is soft. Country of Origin : India More Information
-  Updated: 2025-10-07T09:10:05Z
+  Updated: 2025-10-12T13:03:32Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -14779,7 +14779,7 @@
     Availability: Available
     Price: ₹336.00 INR
 - [Aakarsha Superior Kurtis](https://donedeals.xyz/products/aakarsha-superior-kurtis): Product Details Name : Aakarsha superior kurtis Fabric : Rayon Sleeve Length : Three-Quarter Sleeves Pattern : Zari Woven Combo of : Single Sizes : M (Bust Size : 38 in, Size Length: 42 in) L (Bust Size : 40 in, Size Length: 42 in) XL (Bust Size : 42 in, Size Length: 42 in) XXL (Bust Size : 44 in, Size Length: 42 in) XXXL (Bust Size : 46 in, Size Length: 42 in) 4XL (Bust Size : 48 in, Size Length: 42 in) 5XL (Bust Size : 50 in, Size Length: 42 in) 6XL (Bust Size : 50 in, Size Length: 42 in) 7XL (Bust Size : 50 in, Size Length: 42 in) 8XL (Bust Size : 50 in, Size Length: 42 in) Country of Origin : India More Information
-  Updated: 2025-10-07T07:57:01Z
+  Updated: 2025-10-12T12:55:25Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -14815,7 +14815,7 @@
     Availability: Available
     Price: ₹336.00 INR
 - [Aagam Sensational Kurtis](https://donedeals.xyz/products/aagam-sensational-kurtis): Product Details Name : Aagam Sensational Kurtis Fabric : Rayon Sleeve Length : Three-Quarter Sleeves Pattern : Printed Combo of : Single Sizes : S (Bust Size : 36 in, Size Length: 48 in) M (Bust Size : 38 in, Size Length: 48 in) L (Bust Size : 40 in, Size Length: 48 in) XL (Bust Size : 42 in, Size Length: 48 in) XXL (Bust Size : 44 in, Size Length: 48 in) XXXL (Bust Size : 46 in, Size Length: 48 in) Country of Origin : India More Information
-  Updated: 2025-10-07T07:57:03Z
+  Updated: 2025-10-12T12:55:23Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -14858,7 +14858,7 @@
     Availability: Available
     Price: ₹375.00 INR
 - [Anarkali Kurtis](https://donedeals.xyz/products/anarkali-kurtis): Product Details Name : Anarkali Kurtis Fabric : Rayon Sleeve Length : Short Sleeves Pattern : Solid Combo of : Single Sizes : S (Bust Size : 36 in, Size Length: 43 in) M (Bust Size : 38 in, Size Length: 43 in) L (Bust Size : 40 in, Size Length: 43 in) XL (Bust Size : 42 in, Size Length: 43 in) XXL (Bust Size : 44 in, Size Length: 43 in) XXXL (Bust Size : 46 in, Size Length: 43 in) 4XL (Bust Size : 48 in, Size Length: 43 in) 5XL (Bust Size : 50 in, Size Length: 43 in) This kurti fabric is lightweight ,Soft fabric and assures the wearer a perfect fit & comfort. This stitched kurti beautified with latest trend & fashion as shown. Ideal for casual, kitty parties, outing & weekend get together. Pair it up with leggings, palazzo, cigarette pants to create a contrasting effect, along with heels & stylish accessories. This attractive kurta will surely fetch you compliments for your rich sense of style. women, men and children. Customers can expect a world-class shopping environment stocking the latest in international fashion from around the globe, as well as TANTANATAN TEXTILE's own label of in-house designs in carefully chosen color palettes. Pioneering the concept of ‘Latest fashion at great prices’ in India. Impress Everyone With Your Stunning Traditional Look By Wearing This Embroidered Gather Anarkali Kurta Fine Finish And Latest Designs, The Trendy Work & Designs Speak A Language Of Elegance And Felinity, Using The Finest Quality Fabrics And Is Trendy Fashionable As Well As Comfortable. It Is Light In Weight And Will Be Soft For Your Skin. This Set Helps You Looking A Sophisticated Look And Enhance The Beauty Of The Women Which Can Be Worn For Functions, Festivals, Parties And Even Wedding Also. You Will Be A Centre Of Attraction In The Event Once You Wear It. Country of Origin : India More Information
-  Updated: 2025-10-07T07:57:27Z
+  Updated: 2025-10-12T12:55:52Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -14876,7 +14876,7 @@
     Availability: Available
     Price: ₹278.00 INR
 - [Designer kurti printed kurti and embroidery working Women](https://donedeals.xyz/products/designer-kurti-printed-kurti-and-embroidery-working-women): Product Details Name : Designer kurti printed kurti and embroidery working Women Fabric : Rayon Sleeve Length : Three-Quarter Sleeves Pattern : Printed Combo of : Single Sizes : S (Bust Size : 36 in, Size Length: 49 in) L (Bust Size : 40 in, Size Length: 49 in) XL (Bust Size : 42 in, Size Length: 49 in) XXL (Bust Size : 44 in, Size Length: 49 in) 4XL (Bust Size : 48 in, Size Length: 49 in) 5XL (Bust Size : 50 in, Size Length: 49 in) 6XL (Bust Size : 52 in, Size Length: 49 in) Women kurti and new design printed kurti Android working latest Country of Origin : India More Information
-  Updated: 2025-10-07T09:09:36Z
+  Updated: 2025-10-12T13:01:39Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -14901,7 +14901,7 @@
   Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/4xr7o_512.webp?v=1759656895
   Price: ₹0.00 INR
 - [Daily Wear Luxurious Embroidered Heavy Net Kurtis with Sequins and Lining for Women](https://donedeals.xyz/products/daily-wear-luxurious-embroidered-heavy-net-kurtis-with-sequins-and-lining-for-women): Product Details Name : Daily Wear Luxurious Embroidered Heavy Net Kurtis with Sequins and Lining for Women Fabric : Net Sleeve Length : Sleeveless Pattern : Solid Combo of : Single Sizes : XXS (Bust Size : 32 in, Size Length: 42 in) XS (Bust Size : 34 in, Size Length: 42 in) S (Bust Size : 36 in, Size Length: 42 in) L (Bust Size : 40 in, Size Length: 42 in) XL (Bust Size : 42 in, Size Length: 42 in) XXL (Bust Size : 44 in, Size Length: 42 in) Luxurious Daily Wear Kurti | Embroidered Organza Kurti | Heavy Net Organza Kurti | Sequin Embellished Kurti | Fully Lined Kurti | Women's Stylish Kurti | Elegant Organza Kurti | Comfortable Embroidered Kurti | Trendy Women's Kurti | Casual Wear Kurti | Top Rating Kurti | Birthday Gift Kurti | Sequence Work Kurti | Short Sleeves Kurti | Embroidery Work Dress | Elegant Organza Gown | Full Lined Organza Dress | Quality Product on Meesho | Top selling product on meesho | Customer Satisfaction product | Best rating product | Happy Customer for this product | Best quality Country of Origin : India More Information
-  Updated: 2025-10-07T09:09:16Z
+  Updated: 2025-10-12T13:00:11Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -14926,7 +14926,7 @@
   Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/nfpzn_512_c6830633-9024-49dd-8003-1a82f00c71e4.webp?v=1759656911
   Price: ₹0.00 INR
 - [GOWNS with Dupatta & Belt](https://donedeals.xyz/products/gowns-with-dupatta-belt): Product Details Name : GOWNS with Dupatta & Belt Fabric : Georgette Sleeve Length : Long Sleeves Pattern : Printed Combo of : Single Sizes : S (Bust Size : 34 in, Size Length: 52 in) M (Bust Size : 36 in, Size Length: 52 in) L (Bust Size : 38 in, Size Length: 52 in) XL (Bust Size : 40 in, Size Length: 52 in) XXL (Bust Size : 42 in, Size Length: 52 in) XXXL (Bust Size : 44 in, Size Length: 52 in) gown party wear • gown fancy • gown dikhaiye • gown • gown nighty for women cotton • gown for ladies gown and dupatta set anarkali gown anarkali gown 222967337 anarkali gowns with dupatta anarkali gown with dupatta anarkali gown cotton anarkali gown long kurti with dupatta anarkali gown for girls anarkali gown for wedding anarkali gown for women party wear printed anarkali kurti printed anarkali kurti with dupatta printed anarkali printed anarkali kurta printed anarkali suit printed anarkali gown printed anarkali kurta set printed anarkali with dupatta printed anarkali kurti for womne Enhance your wardrobe with this elegant and stylish pink tie-dye Anarkali suit. Designed for comfort and grace, this outfit features a flattering fit that enhances your silhouette. • Fit & Shape : The flared Anarkali-style dress provides a flowy and elegant look, perfect for any festive or casual occasion. • Fabric : Made from high-quality georgette, ensuring a lightweight and breathable feel. • Washing Instructions : Hand wash or gentle machine wash with mild detergent. Avoid harsh chemicals and direct sunlight for drying to maintain fabric quality. • Included : Anarkali kurta with matching dupatta. Bottom wear is not included. Perfect for celebrati Country of Origin : India More Information
-  Updated: 2025-10-07T09:12:22Z
+  Updated: 2025-10-12T13:11:26Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -14951,7 +14951,7 @@
   Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/zb2ls_512_9984b9e0-249e-4acc-807b-6bf9d8676cc2.webp?v=1759656927
   Price: ₹0.00 INR
 - [Girls & Woman Printed Straight Kurtis](https://donedeals.xyz/products/girls-woman-printed-straight-kurtis): Product Details Name : Girls & Woman Printed Straight Kurtis Fabric : Viscose Rayon Sleeve Length : Three-Quarter Sleeves Pattern : Printed Combo of : Single Sizes : S (Bust Size : 36 in, Size Length: 45 in) M (Bust Size : 38 in, Size Length: 45 in) L (Bust Size : 40 in, Size Length: 45 in) XL (Bust Size : 42 in, Size Length: 45 in) XXL (Bust Size : 44 in, Size Length: 45 in) XXXL (Bust Size : 46 in, Size Length: 45 in) Viscose reyon the best quality & soft fabric and flower print & regulae use and screen printing Country of Origin : India More Information
-  Updated: 2025-10-07T09:11:56Z
+  Updated: 2025-10-12T13:19:07Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -14969,7 +14969,7 @@
     Availability: Available
     Price: ₹320.00 INR
 - [Charvi Refined Kurtis](https://donedeals.xyz/products/charvi-refined-kurtis): Product Details Name : Charvi Refined Kurtis Fabric : Rayon Sleeve Length : Three-Quarter Sleeves Pattern : Embroidered Combo of : Single Sizes : XS (Bust Size : 34 in, Size Length: 38 in) S (Bust Size : 36 in, Size Length: 40 in) M (Bust Size : 38 in, Size Length: 40 in) L (Bust Size : 40 in, Size Length: 40 in) XL (Bust Size : 42 in, Size Length: 40 in) XXL (Bust Size : 44 in, Size Length: 40 in) Country of Origin : India More Information
-  Updated: 2025-10-07T09:07:56Z
+  Updated: 2025-10-12T12:58:07Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -14987,7 +14987,7 @@
     Availability: Available
     Price: ₹325.00 INR
 - [@3 pink tire gown beautiful kurti](https://donedeals.xyz/products/3-pink-tire-gown-beautiful-kurti): Product Details Name : @3 pink tire gown beautiful kurti Fabric : Rayon Sleeve Length : Three-Quarter Sleeves Pattern : Printed Combo of : Single Sizes : M (Bust Size : 38 in, Size Length: 46 in) L (Bust Size : 40 in, Size Length: 46 in) XL (Bust Size : 42 in, Size Length: 46 in) XXL (Bust Size : 44 in, Size Length: 46 in) XXXL (Bust Size : 46 in, Size Length: 46 in) 4XL (Bust Size : 48 in, Size Length: 46 in) 5XL (Bust Size : 50 in, Size Length: 46 in) Country of Origin : India More Information
-  Updated: 2025-10-07T07:56:46Z
+  Updated: 2025-10-12T12:55:26Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -15023,7 +15023,7 @@
     Availability: Available
     Price: ₹369.00 INR
 - [4 LATKAN Embroidered green kurti woman,s](https://donedeals.xyz/products/4-latkan-embroidered-green-kurti-woman-s): Product Details Name : 4 LATKAN Embroidered green kurti woman,s Fabric : Rayon Sleeve Length : Three-Quarter Sleeves Pattern : Printed Combo of : Single Sizes : S (Bust Size : 36 in, Size Length: 42 in) M (Bust Size : 38 in, Size Length: 42 in) L (Bust Size : 40 in, Size Length: 42 in) XL (Bust Size : 42 in, Size Length: 42 in) XXL (Bust Size : 44 in, Size Length: 42 in) XXXL (Bust Size : 46 in, Size Length: 42 in) Shri Radika Fasha womaN sFabric Rayon work EmbroidereBottom for Pam Pam Show of four latkand Country of Origin : India More Information
-  Updated: 2025-10-07T07:56:46Z
+  Updated: 2025-10-12T12:55:12Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -15385,7 +15385,7 @@
   Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/i7ckl_512.webp?v=1759705543
   Price: ₹290.00 INR
 - [Febric rayon](https://donedeals.xyz/products/febric-rayon): Product Details Name : Febric rayon Fabric : Rayon Sleeve Length : Long Sleeves Pattern : Chikankari Combo of : Single Sizes : S (Bust Size : 36 in, Size Length: 42 in) M (Bust Size : 38 in, Size Length: 42 in) L (Bust Size : 40 in, Size Length: 42 in) XL (Bust Size : 42 in, Size Length: 42 in) XXL (Bust Size : 44 in, Size Length: 42 in) Country of Origin : India More Information
-  Updated: 2025-10-07T09:10:31Z
+  Updated: 2025-10-12T13:05:03Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -15421,7 +15421,7 @@
     Availability: Available
     Price: ₹292.00 INR
 - [CHIKANKARI KURTI FLOWER PIYAJI only kurti WITHOUT BOTTOM](https://donedeals.xyz/products/chikankari-kurti-flower-piyaji-only-kurti-without-bottom): Product Details Name : CHIKANKARI KURTI FLOWER PIYAJI only kurti WITHOUT BOTTOM Fabric : Rayon Slub Sleeve Length : Three-Quarter Sleeves Pattern : Chikankari Combo of : Single Sizes : M (Bust Size : 38 in, Size Length: 44 in) only kurti WITHOUT BOTTOM Country of Origin : India More Information
-  Updated: 2025-10-07T09:07:56Z
+  Updated: 2025-10-12T12:58:22Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -15471,7 +15471,7 @@
   Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/puhk5_512_8336fdb0-f95f-4fb7-8578-612c316296e1.webp?v=1759705600
   Price: ₹0.00 INR
 - [Apaari Fab Women's Embroidered Georgette Straight Kurti](https://donedeals.xyz/products/apaari-fab-womens-embroidered-georgette-straight-kurti): Product Details Name : Apaari Fab Women's Embroidered Georgette Straight Kurti Fabric : Georgette Sleeve Length : Three-Quarter Sleeves Pattern : Chikankari Combo of : Single Sizes : S (Bust Size : 36 in, Size Length: 44 in) M (Bust Size : 38 in, Size Length: 44 in) L (Bust Size : 40 in, Size Length: 44 in) XL (Bust Size : 42 in, Size Length: 44 in) XXL (Bust Size : 44 in, Size Length: 44 in) Apaari Fab Describe latest designer collection Kurti for Girls.The kurits are beautifully designed with Embroidered work that makes it looks more graceful. We have the best designs that you can choose for any occasion whether it is a Diwali, Wedding, Ceremany or simply a day function. It is traditonal yet modern at the same time. The embroidery work on kurits looks stunning. You can pair it with matching jewellery and heels which will complete your look. The kurits are easily hand washable and are easy to maintain. These are avery comfortable to wear.Thanks You. Country of Origin : India More Information
-  Updated: 2025-10-07T07:57:26Z
+  Updated: 2025-10-12T12:55:52Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -15543,7 +15543,7 @@
     Availability: Available
     Price: ₹325.00 INR
 - [Black Ethnic Motifs Embroidered Round Neck Thread Work Straight Kurta](https://donedeals.xyz/products/black-ethnic-motifs-embroidered-round-neck-thread-work-straight-kurta): Product Details Name : Black Ethnic Motifs Embroidered Round Neck Thread Work Straight Kurta Fabric : Rayon Sleeve Length : Three-Quarter Sleeves Pattern : Chikankari Sizes : XS, S (Bust Size : 36 in, Size Length: 44 in) M (Bust Size : 38 in, Size Length: 44 in) L (Bust Size : 40 in, Size Length: 44 in) XL (Bust Size : 42 in, Size Length: 44 in) XXL (Bust Size : 44 in, Size Length: 44 in) Country of Origin : India More Information
-  Updated: 2025-10-07T09:06:41Z
+  Updated: 2025-10-12T12:57:03Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -15593,7 +15593,7 @@
     Availability: Available
     Price: ₹338.00 INR
 - [COTTON CHIKANKARI COMPUTER WORK KURTI'](https://donedeals.xyz/products/cotton-chikankari-computer-work-kurti): Product Details Name : COTTON CHIKANKARI COMPUTER WORK KURTI' Fabric : Cotton Sleeve Length : Three-Quarter Sleeves Pattern : Embroidered Combo of : Single Sizes : XS, S (Bust Size : 36 in, Size Length: 42 in) M (Bust Size : 38 in, Size Length: 42 in) L (Bust Size : 40 in, Size Length: 42 in) XL (Bust Size : 42 in, Size Length: 42 in) XXL (Bust Size : 44 in, Size Length: 42 in) XXXL (Bust Size : 46 in, Size Length: 42 in) Country of Origin : India More Information
-  Updated: 2025-10-07T09:09:01Z
+  Updated: 2025-10-12T13:00:03Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -15647,7 +15647,7 @@
     Availability: Available
     Price: ₹209.00 INR
 - [classic stylish fancy women tops &tunic](https://donedeals.xyz/products/classic-stylish-fancy-women-tops-tunic): Product Details Name : classic stylish fancy women tops &tunic Fabric : Cotton Pattern : Chikankari Net Quantity (N) : 1 Sizes : XS (Bust Size : 17 in, Length Size: 30 in) S (Bust Size : 18 in, Length Size: 30 in) M (Bust Size : 19 in, Length Size: 30 in) L (Bust Size : 20 in, Length Size: 30 in) XL (Bust Size : 21 in, Length Size: 30 in) XXL (Bust Size : 22 in, Length Size: 30 in) Name : classic stylish fancy women tops &tunic Fabric : Cotton Sleeve Length : Three-Quarter Sleeves Pattern : Printed Net Quantity (N) : 1 Sizes : XS (Bust Size : 17 in, Length Size: 31 in) S (Bust Size : 18 in, Length Size: 31 in) M (Bust Size : 19 in, Length Size: 31 in) L (Bust Size : 20 in, Length Size: 31 in) XL (Bust Size : 21 in, Length Size: 31 in) XXL (Bust Size : 22 in, Length Size: 31 in) Name : COTTON TOPS & TUNICS Fabric : Cotton Sleeve Length : Half Sleeves Pattern : Embroidered Net Quantity (N) : 1 Country of Origin : India Country of Origin : India More Information
-  Updated: 2025-10-07T09:08:16Z
+  Updated: 2025-10-12T12:58:37Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -15665,7 +15665,7 @@
     Availability: Available
     Price: ₹299.00 INR
 - [CHIFFION GALABOOTI HANDWORK MIRROR WORK KURTI WITH SLIP](https://donedeals.xyz/products/chiffion-galabooti-handwork-mirror-work-kurti-with-slip): Product Details Name : CHIFFION GALABOOTI HANDWORK MIRROR WORK KURTI WITH SLIP Fabric : Chiffon Sleeve Length : Three-Quarter Sleeves Pattern : Printed Combo of : Single Sizes : M (Bust Size : 38 in, Size Length: 44 in) L (Bust Size : 40 in, Size Length: 44 in) XL (Bust Size : 42 in, Size Length: 42 in) CHIFFION GALABOOTI HANDWORK MIRROR WORK KURTI WITH SLIP Country of Origin : India More Information
-  Updated: 2025-10-07T09:07:56Z
+  Updated: 2025-10-12T12:58:22Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -15881,7 +15881,7 @@
     Availability: Available
     Price: ₹322.00 INR
 - [Decent Maroon Floral Cotton Kurta – Perfect for Comfort and Style](https://donedeals.xyz/products/decent-maroon-floral-cotton-kurta-perfect-for-comfort-and-style): Product Details Name : Decent Maroon Floral Cotton Kurta – Perfect for Comfort and Style Fabric : Cotton Sleeve Length : Three-Quarter Sleeves Pattern : Chikankari Combo of : Single Sizes : S (Bust Size : 38 in, Size Length: 42 in) M (Bust Size : 38 in, Size Length: 42 in) L (Bust Size : 40 in, Size Length: 42 in) XL (Bust Size : 42 in, Size Length: 42 in) XXL (Bust Size : 44 in, Size Length: 42 in) XXXL (Bust Size : 46 in, Size Length: 42 in) 4XL (Bust Size : 48 in, Size Length: 42 in) 5XL (Bust Size : 50 in, Size Length: 42 in) 6XL (Bust Size : 52 in, Size Length: 42 in) Step into the world of timeless fashion with this maroon cotton kurti, designed to add a perfect touch of ethnic charm to your daily wear collection. This stunning piece is tailored with a naira cut that beautifully blends tradition with modernity, making it a must-have for every woman who appreciates effortless style. The deep maroon color sets the tone for elegance, while the intricate floral block print adds a refreshing vibrancy that’s both chic and eye-catching. Crafted from high-quality cotton, this kurti ensures unmatched comfort, making it ideal for daily wear. Whether you’re rushing to college, heading to the office, or meeting friends for a casual outing, this kurti is designed to keep you looking stylish and feeling relaxed all day long. Its breathable fabric is perfect for long hours, while the thoughtful naira-cut design enhances your silhouette, giving it a flattering fit that complements all body types. Styling Inspiration : This maroon kurti’s versatility knows no bounds. Pair it with crisp white leggings, beige straight pants, or even slim-fit jeans for a fusion look that’s perfect for modern girls. For accessories, go for silver jewelry like oxidized earrings or delicate bracelets to bring out its ethnic vibe. A pair of embroidered juttis or chic block heels will complete your ensemble effortlessly. Planning to wear it for an event? Add a light dupatta and so Country of Origin : India More Information
-  Updated: 2025-10-07T09:09:16Z
+  Updated: 2025-10-12T13:00:11Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -15917,7 +15917,7 @@
     Availability: Available
     Price: ₹340.00 INR
 - [COMBO KURTI](https://donedeals.xyz/products/combo-kurti): Product Details Name : COMBO KURTI Fabric : Cotton Pattern : Chikankari Combo of : Combo of 2 Sizes : M (Bust Size : 38 in, Size Length: 41 in) L (Bust Size : 40 in, Size Length: 41 in) XL (Bust Size : 42 in, Size Length: 41 in) XXL (Bust Size : 44 in, Size Length: 41 in) Country of Origin : India More Information
-  Updated: 2025-10-07T09:08:41Z
+  Updated: 2025-10-12T12:58:52Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -15953,7 +15953,7 @@
     Availability: Available
     Price: ₹333.00 INR
 - [COTTON COMPUTER](https://donedeals.xyz/products/cotton-computer): Product Details Name : COTTON COMPUTER Fabric : Rayon Sleeve Length : Long Sleeves Pattern : Chikankari Combo of : Single Sizes : M (Bust Size : 38 in, Size Length: 42 in) L (Bust Size : 40 in, Size Length: 42 in) XL (Bust Size : 42 in, Size Length: 42 in) XXL (Bust Size : 44 in, Size Length: 42 in) XXXL Country of Origin : India More Information
-  Updated: 2025-10-07T09:09:02Z
+  Updated: 2025-10-12T13:00:04Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -15989,7 +15989,7 @@
     Availability: Available
     Price: ₹309.00 INR
 - [Dobby Cotton Handwork Chikankari kurti](https://donedeals.xyz/products/dobby-cotton-handwork-chikankari-kurti): Product Details Name : Dobby Cotton Handwork Chikankari kurti Fabric : Cotton Sleeve Length : Three-Quarter Sleeves Pattern : Chikankari Combo of : Single Sizes : S, M (Bust Size : 38 in, Size Length: 42 in) L (Bust Size : 40 in, Size Length: 42 in) XL (Bust Size : 42 in, Size Length: 42 in) XXL (Bust Size : 44 in, Size Length: 42 in) XXXL (Bust Size : 46 in, Size Length: 46 in) Country of Origin : India More Information
-  Updated: 2025-10-07T09:09:36Z
+  Updated: 2025-10-12T13:02:00Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -16039,7 +16039,7 @@
     Availability: Available
     Price: ₹408.00 INR
 - [Buy georgette mirror work kurti online Mirror work kurti for women Party wear georgette kurti with mirror work Ethnic wear mirror work georgette kurti Handwork mirror kurti georgette fabric 5 star reting kurti](https://donedeals.xyz/products/buy-georgette-mirror-work-kurti-online-mirror-work-kurti-for-women-party-wear-georgette-kurti-with-mirror-work-ethnic-wear-mirror-work-georgette-kurti-handwork-mirror-kurti-georgette-fabric-5-star-reting-kurti): Product Details Name : Buy georgette mirror work kurti online Mirror work kurti for women Party wear georgette kurti with mirror work Ethnic wear mirror work georgette kurti Handwork mirror kurti georgette fabric 5 star reting kurti Fabric : Georgette Sleeve Length : Three-Quarter Sleeves Pattern : Chikankari Combo of : Single Sizes : S (Bust Size : 36 in, Size Length: 40 in) M (Bust Size : 38 in, Size Length: 40 in) L (Bust Size : 40 in, Size Length: 40 in) XL (Bust Size : 42 in, Size Length: 40 in) 1. Georgette Mirror Work Kurti Elevate your ethnic wardrobe with this elegant Georgette Mirror Work Kurti, crafted from lightweight and breathable fabric. Adorned with intricate mirror embellishments, this kurti blends traditional charm with modern grace. Perfect for festive occasions, family gatherings, or cultural events. 2. Mirror Work Georgette Kurti Make a statement with this beautifully designed Mirror Work Georgette Kurti. The sheer georgette fabric offers flowy elegance, while delicate mirror detailing adds a touch of sparkle. Pair it with leggings or palazzos for a complete festive look. 3. Designer Georgette Kurti with Mirror Work This Designer Georgette Kurti with Mirror Work is a masterpiece of craftsmanship and style. Featuring hand-placed mirror accents on premium georgette, this kurti combines rich tradition with a contemporary silhouette—ideal for parties, festive wear, or ethnic events. 4. Georgette Kurti with Mirror Embroidery A blend of fine embroidery and timeless design, this Georgette Kurti with Mirror Embroidery is perfect for women who appreciate subtle glam. The mirror work is intricately embroidered for long-lasting appeal, making it suitable for casual get-togethers or festive evenings. 5. Mirror Embroidered Georgette Kurti Add a touch of sparkle to your ethnic collection with this Mirror Embroidered Georgette Kurti. Featuring shimmering mirror de Country of Origin : India More Information
-  Updated: 2025-10-07T09:07:31Z
+  Updated: 2025-10-12T12:57:32Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -16093,7 +16093,7 @@
     Availability: Available
     Price: ₹285.00 INR
 - [Chikankari cotton kurti computer work](https://donedeals.xyz/products/chikankari-cotton-kurti-computer-work): Product Details Name : Chikankari cotton kurti computer work Fabric : Cotton Sleeve Length : Three-Quarter Sleeves Pattern : Chikankari Combo of : Single Sizes : S (Bust Size : 36 in, Size Length: 42 in) M (Bust Size : 38 in, Size Length: 42 in) XL (Bust Size : 42 in, Size Length: 42 in) Country of Origin : India More Information
-  Updated: 2025-10-07T09:07:56Z
+  Updated: 2025-10-12T12:58:22Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -16111,7 +16111,7 @@
     Availability: Available
     Price: ₹317.00 INR
 - [blue print short kurti](https://donedeals.xyz/products/blue-print-short-kurti): Product Details Name : blue print short kurti Fabric : Rayon Sleeve Length : Three-Quarter Sleeves Pattern : Chikankari Combo of : Single Sizes : XS (Bust Size : 34 in, Size Length: 34 in) S (Bust Size : 36 in, Size Length: 36 in) M (Bust Size : 38 in, Size Length: 38 in) L (Bust Size : 40 in, Size Length: 40 in) XL (Bust Size : 42 in, Size Length: 42 in) XXL (Bust Size : 44 in, Size Length: 44 in) Country of Origin : India More Information
-  Updated: 2025-10-07T09:07:16Z
+  Updated: 2025-10-12T12:57:11Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -16129,7 +16129,7 @@
     Availability: Available
     Price: ₹225.00 INR
 - [Farhaad Fashion Hub: Rayon Short Kurtis with Embroidery (XS-XXL)Kurtis For Women & Girls](https://donedeals.xyz/products/farhaad-fashion-hub-rayon-short-kurtis-with-embroidery-xs-xxlkurtis-for-women-girls): Product Details Name : Farhaad Fashion Hub: Rayon Short Kurtis with Embroidery (XS-XXL)Kurtis For Women & Girls Fabric : Rayon Sleeve Length : Three-Quarter Sleeves Pattern : Chikankari Combo of : Single Sizes : XS (Bust Size : 34 in, Size Length: 26 in) S (Bust Size : 36 in, Size Length: 26 in) M (Bust Size : 38 in, Size Length: 27 in) L (Bust Size : 40 in, Size Length: 27 in) XL (Bust Size : 11 in, Size Length: 28 in) XXL (Bust Size : 44 in, Size Length: 28 in) Superior Fabric : Made from soft and breathable rayon, ensuring all-day comfort. Exquisite Embroidery : Beautiful contrasting threadwork that elevates your ethnic look. Colour Options : White with Black Embroidery Black with White Embroidery Maroon with White Embroidery Mustard with White Embroidery Inclusive Sizes : XS, S, M, L, XL, XXL (fits every body type perfectly). Versatile Wear : Ideal for casual outings, festive occasions, or office attire. Easy Maintenance : Retains colour and embroidery detailing even after multiple washes. Style It Like a Pro : Pair these kurtis with contrasting leggings, denim, or palazzos. Add statement earrings or bangles for a complete look! Why Farhaad Fashion Hub? Trusted for premium quality Affordable pricing for everyone Designed with love and care for modern women Don’t wait—shop your favorite Farhaad Fashion Hub Short Kurtis today and redefine your wardrobe! Country of Origin : India More Information
-  Updated: 2025-10-07T09:10:17Z
+  Updated: 2025-10-12T13:04:57Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -16147,7 +16147,7 @@
     Availability: Available
     Price: ₹263.00 INR
 - [GAJRI __kurti......](https://donedeals.xyz/products/gajri-__kurti): Product Details Name : GAJRI __kurti...... Fabric : Cotton Sleeve Length : Three-Quarter Sleeves Pattern : Chikankari Combo of : Single Sizes : S, M, L, XL, XXL Very good delivery women beauty of use chikankari cotton febric kurti Country of Origin : India More Information
-  Updated: 2025-10-07T09:11:57Z
+  Updated: 2025-10-12T13:08:52Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -16505,7 +16505,7 @@
     Availability: Available
     Price: ₹415.00 INR
 - [Banita Voguish Salwar Suits & Dress Materials](https://donedeals.xyz/products/banita-voguish-salwar-suits-dress-materials): Product Details Name : Banita Voguish Salwar Suits & Dress Materials Top Fabric : Cotton + Top Length: 2.3 Meters Bottom Fabric : Cotton + Bottom Length: 2.3 Meters Dupatta Fabric : Cotton + Dupatta Length: 2.25 Meters Lining Fabric : No Lining Type : Un Stitched Pattern : Printed Net Quantity (N) : Single Country of Origin : India More Information
-  Updated: 2025-10-07T07:57:46Z
+  Updated: 2025-10-12T12:56:04Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -16559,7 +16559,7 @@
     Availability: Available
     Price: ₹549.00 INR
 - [Exclusive Super Best Salwar Suit Collections Party Wear](https://donedeals.xyz/products/exclusive-super-best-salwar-suit-collections-party-wear): Product Details Name : Exclusive Super Best Salwar Suit Collections Party Wear Top Fabric : Art Silk + Top Length: 2 Meters Bottom Fabric : Art Silk + Bottom Length: 2 Meters Dupatta Fabric : Art Silk + Dupatta Length: 2.26-2.50 Lining Fabric : Art Silk Type : Un Stitched Pattern : Zari Woven Net Quantity (N) : Single Let me break down the key elements of this outfit : The kurta is made from a silk blend fabric, combining silk with other materials to enhance durability, texture, or ease of .Such sets are often chosen for occasions like parties, weddings, or festive events where a touch of traditional elegance with a modern twist is desired. The use of silk blend fabric adds a luxurious touch to the outfit, making it suitable for special occasions. Country of Origin : India More Information
-  Updated: 2025-10-07T09:10:18Z
+  Updated: 2025-10-12T13:04:28Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -16667,7 +16667,7 @@
     Availability: Available
     Price: ₹474.00 INR
 - [BD24x7 Pure Cotton With Beautiful Print Work Dress Material](https://donedeals.xyz/products/bd24x7-pure-cotton-with-beautiful-print-work-dress-material): Product Details Name : BD24x7 Pure Cotton With Beautiful Print Work Dress Material Top Fabric : Soft Cotton + Top Length: 2.3 Meters Bottom Fabric : Soft Cotton + Bottom Length: 2.4 Meters Dupatta Fabric : Soft Cotton + Dupatta Length: 2.25 Meters Lining Fabric : No Lining Type : Un Stitched Pattern : Embroidered Net Quantity (N) : Single TOP - Pure cotton print with neck work Bottom - Pure cotton print Dupatta - Pure cotton with print Product Color May Vary Slightly Due To Lighting Effects Used In Photoshoot & Your Screen Settings Country of Origin : India More Information
-  Updated: 2025-10-07T07:57:46Z
+  Updated: 2025-10-12T12:56:22Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -16829,7 +16829,7 @@
     Availability: Available
     Price: ₹376.00 INR
 - [BABITA](https://donedeals.xyz/products/babita): Product Details Name : BABITA Top Fabric : Cotton + Top Length: 2.26-2.50 Bottom Fabric : Cotton + Bottom Length: 2.26-2.50 Dupatta Fabric : Cotton + Dupatta Length: 2.01-2.25 Lining Fabric : No Lining Type : Un Stitched Pattern : Dyed/ Washed Net Quantity (N) : Single Country of Origin : India More Information
-  Updated: 2025-10-07T07:57:47Z
+  Updated: 2025-10-12T12:56:04Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -16865,7 +16865,7 @@
     Availability: Available
     Price: ₹366.00 INR
 - [Aagyeyi Attractive Salwar Suits & Dress Materials](https://donedeals.xyz/products/aagyeyi-attractive-salwar-suits-dress-materials): Product Details Name : Aagyeyi Attractive Salwar Suits & Dress Materials Top Fabric : Cotton Cambric + Top Length: 2.4 Meters Bottom Fabric : Cotton Cambric + Bottom Length: 2.4 Meters Dupatta Fabric : Cotton + Dupatta Length: 2.1 Meters Lining Fabric : No Lining Type : Un Stitched Pattern : Printed Net Quantity (N) : Single Name : salwar suit dress material for women's Top Fabric : Cotton Blend + Top Length: 2.5 Meters Bottom Fabric : Cotton Blend + Bottom Length: 2.5 Meters Dupatta Fabric : Cotton + Dupatta Length: 0-2.15 Lining Fabric : Cotton Blend Type : Un Stitched Pattern : Printed Net Quantity (N) : Single Discover the elegance and comfort of our unstitched cotton salwar suit fabric, perfect for creating a stylish and breathable traditional outfit. Crafted from high-quality cotton, this fabric is designed to provide superior softness and a lightweight feel, making it ideal for everyday wear or special occasions. Product Features : Material : Premium Cotton Type : Unstitched Fabric Design : Plain/Printed/Embroidered (Specify design details if applicable) Color Options : Available in a range of vibrant and subtle hues Suit Components : Includes fabric for kameez (top), salwar (bottom), and dupatta (scarf) Comfort : Breathable and soft, suitable for all-day wear Care Instructions : Easy to wash and maintain; retains color and shape Whether you're planning to design a chic outfit for a festive occasion or a comfortable ensemble for daily wear, this unstitched cotton salwar suit offers versatility and elegance. Customize it according to your style preferences, and enjoy a perfect blend of traditional charm and modern comfort. Unstitched Salwar Suit Unstitched Fabric Salwar Kameez Fabric Dress Material Ready- Country of Origin : India More Information
-  Updated: 2025-10-07T07:57:01Z
+  Updated: 2025-10-12T12:55:22Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -16883,7 +16883,7 @@
     Availability: Available
     Price: ₹534.00 INR
 - [cotton Rose pink dress material](https://donedeals.xyz/products/cotton-rose-pink-dress-material): Product Details Name : cotton Rose pink dress material Top Fabric : Cotton + Top Length: 2 Meters Bottom Fabric : Cotton + Bottom Length: 2 Meters Dupatta Fabric : No Dupatta + Dupatta Length: No Dupatta Lining Fabric : No Lining Type : Un Stitched Pattern : Embroidered Net Quantity (N) : Pack of 2 Country of Origin : India More Information
-  Updated: 2025-10-07T09:09:16Z
+  Updated: 2025-10-12T13:00:03Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -16937,7 +16937,7 @@
     Availability: Available
     Price: ₹533.00 INR
 - [Aagyeyi Sensational Salwar Suits & Dress Materials Georgette 9mm Heavy sequence Work Wear Suit Like Party Wear Garara suit White Colour](https://donedeals.xyz/products/aagyeyi-sensational-salwar-suits-dress-materials-georgette-9mm-heavy-sequence-work-wear-suit-like-party-wear-garara-suit-white-colour): Product Details Name : Aagyeyi Sensational Salwar Suits & Dress Materials Georgette 9mm Heavy sequence Work Wear Suit Like Party Wear Garara suit White Colour Top Fabric : Georgette + Top Length: 2.25 Meters Bottom Fabric : Cotton Slub + Bottom Length: 4 Meters Dupatta Fabric : Georgette + Dupatta Length: 2.01-2.25 Lining Fabric : Georgette Type : Un Stitched Pattern : Embroidered Net Quantity (N) : Single New Hit Garara Unstiched Suits Womens Trending Fashion Georgette Garara Suit Double Georgette Sequence Work Suit With Heavy 4MTR Bottom Work Heavy Fancy Top Work And Fancy Duppata Sequence Work With Latkans Garara Suit , Party Wear Suit , Best Deal Suit , New Arrivals , Work Wear Suit , Fresh Collection , Sharara Suit , Engagement Womens Suit , Sangeet Womens Suit , Wedding Womens Suit , Daily Wear Suit , HaldiFunction Wear Suits All Occastions Wear Suit Country of Origin : India More Information
-  Updated: 2025-10-07T07:57:02Z
+  Updated: 2025-10-12T12:55:23Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -16955,7 +16955,7 @@
     Availability: Available
     Price: ₹438.00 INR
 - [Cotton camric embroidery dress material](https://donedeals.xyz/products/cotton-camric-embroidery-dress-material): Product Details Name : Cotton camric embroidery dress material Top Fabric : Cotton Cambric + Top Length: 2.25 Meters Bottom Fabric : Pure Cotton + Bottom Length: 2 Meters Dupatta Fabric : Net + Dupatta Length: 2.25 Meters Lining Fabric : No Lining Type : Un Stitched Pattern : Embroidered Net Quantity (N) : Single Cotton karachi embroidery dress material with top 2.25mtr bottom cotton with work 2.20mtr dupatta net embroidery with all 4 side boardere lace 2,20mtr (unstitched) Country of Origin : India More Information
-  Updated: 2025-10-07T09:09:01Z
+  Updated: 2025-10-12T13:00:03Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -17045,7 +17045,7 @@
     Availability: Available
     Price: ₹361.00 INR
 - [Bliss Flair Maroon Heavy Dusty Chart Embroidered Dress Material With Heavy Neck And Lace (Unstitched)](https://donedeals.xyz/products/bliss-flair-maroon-heavy-dusty-chart-embroidered-dress-material-with-heavy-neck-and-lace-unstitched): Product Details Name : Bliss Flair Maroon Heavy Dusty Chart Embroidered Dress Material With Heavy Neck And Lace (Unstitched) Top Fabric : Georgette + Top Length: 2.25 Meters Bottom Fabric : Crepe + Bottom Length: 2.25 Meters Dupatta Fabric : Georgette + Dupatta Length: 2.25 Meters Lining Fabric : Crepe Type : Un Stitched Pattern : Embroidered Net Quantity (N) : Single pakistani suit pakistani suit simple dress material suit cotton suit churidar material salwar suit suit for women. Pakistani trending suits have created a in the Indian fashion industry Patiyala suits originated from the Patiyala region of Punjab Traditionally worn by Muslim brides, these suits often come in heavily embellished designs and patterns. The Dupattas are also quite heavy and have intricate Zari or mirror work to match the pattern of the suit Party Wear Suit , Best Deal Suit , New Arrivals , Work Wear Suit , Fresh Collection , Unstiched Suit , Patiala Suits ' Engagement Womens Suit , Sangeet Womens Suit , Wedding Womens Suit , Daily Wear Suit , HaldiFunction Wear Suits All Occastions Wear Suit Latest Unstitched dress material have Self Design,Embroidered,Floral Pattern With Sequence Thread work embroidery suit fabric. It Is Available In Free Size And Can Be Stitched To Suit Your Measurements. Country of Origin : India More Information
-  Updated: 2025-10-07T09:07:19Z
+  Updated: 2025-10-12T12:57:07Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -17135,7 +17135,7 @@
     Availability: Available
     Price: ₹307.00 INR
 - [Glamify® cream Cotton Suit Dress Material,Unstitched Cotton Blend Kurta,Churidar Material Embellished,Semi Stitched Cotton Blend Salwar Suit Material Solid,suits material for girls,best cotton suits material.](https://donedeals.xyz/products/glamify®-cream-cotton-suit-dress-material-unstitched-cotton-blend-kurta-churidar-material-embellished-semi-stitched-cotton-blend-salwar-suit-material-solid-suits-material-for-girls-best-cotton-suits-material): Product Details Name : Glamify® cream Cotton Suit Dress Material,Unstitched Cotton Blend Kurta,Churidar Material Embellished,Semi Stitched Cotton Blend Salwar Suit Material Solid,suits material for girls,best cotton suits material. Top Fabric : Cotton + Top Length: 2 Meters Bottom Fabric : Cotton + Bottom Length: 2 Meters Dupatta Fabric : Nazneen + Dupatta Length: 2 Meters Lining Fabric : No Lining Type : Un Stitched Pattern : Embroidered Net Quantity (N) : Single Country of Origin : India More Information
-  Updated: 2025-10-07T09:12:21Z
+  Updated: 2025-10-12T13:21:51Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -17189,7 +17189,7 @@
     Availability: Available
     Price: ₹295.00 INR
 - [Elegance Unveiled: The Unstitched Net Suit with Exquisite 3 and 5 mm Sequin Work Women's PAKISTANI SUIT FOR WOMENS TOP DUPPATA EMBROIDED Unstiched Double Sequence Embroidered Work Plus Double Salwar Suit & Dress Materials Black Colours](https://donedeals.xyz/products/elegance-unveiled-the-unstitched-net-suit-with-exquisite-3-and-5-mm-sequin-work-womens-pakistani-suit-for-womens-top-duppata-embroided-unstiched-double-sequence-embroidered-work-plus-double-salwar-suit-dress-materials-black-colours): Product Details Name : Elegance Unveiled: The Unstitched Net Suit with Exquisite 3 and 5 mm Sequin Work Women's PAKISTANI SUIT FOR WOMENS TOP DUPPATA EMBROIDED Unstiched Double Sequence Embroidered Work Plus Double Salwar Suit & Dress Materials Black Colours Top Fabric : Net + Top Length: 2.25 Meters Bottom Fabric : Shantoon + Bottom Length: 4 Meters Dupatta Fabric : Net + Dupatta Length: 2.25 Meters Lining Fabric : Shantoon Type : Un Stitched Pattern : Embroidered Net Quantity (N) : Single Elegance Unveiled : The Unstitched Net Suit with Exquisite 3 and 5 mm Sequin Work Women's PAKISTANI SUIT FOR WOMENS TOP DUPPATA EMBROIDED Unstiched Double Sequence Embroidered Work Plus Double Salwar Suit & Dress Materials Black Colours Unstiched NET Suits Womens Trending Fashion NET SUITS HEAVY Bottom Work Heavy Fancy Top Work And Fancy Duppata Sequence Work With Latkans Garara Suit , Party Wear Suit , Best Deal Suit , New Arrivals , Work Wear Suit , Fresh Collection , Sharara Suit , Engagement Womens Suit , Sangeet Womens Suit , Wedding Womens Suit , Daily Wear Suit , HaldiFunction Wear Suits All Occastions Wear Suit Step into a world of timeless elegance with our unstitched net suit adorned with intricate sequin work, meticulously crafted to captivate hearts and minds alike. This ethereal ensemble is a masterpiece, embodying grace and sophistication in every thread. The sheer net fabric gracefully drapes the body, exuding an aura of sheer luxury and allure.What sets this unstitched suit apart is the meticulous attention to detail in its design. Delicate 3mm and 5mm sequins intricately hand-sewn onto the fabric create a mesmerizing play of light and shadow, adding depth and dimension to the ensemble. Each sequin sparkles like a star in the night sky, casting a spellbinding effect that is short of magical.The beauty of this unstitched suit lies not only in its exquisite craft Country of Origin : India More Information
-  Updated: 2025-10-07T09:09:46Z
+  Updated: 2025-10-12T13:04:52Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -17207,7 +17207,7 @@
     Availability: Available
     Price: ₹357.00 INR
 - [3pcsSet Casual Minimalist Retro American Style English Text Graphic Cropped Bodysuit, Women Summer](https://donedeals.xyz/products/3pcsset-casual-minimalist-retro-american-style-english-text-graphic-cropped-bodysuit-women-summer): Product Details Name : 3pcsSet Casual Minimalist Retro American Style English Text Graphic Cropped Bodysuit, Women Summer Fabric : Cotton Sleeve Length : Short Sleeves Pattern : Printed Net Quantity (N) : 4 Sizes : XS, S (Bust Size : 34 in, Length Size: 24 in) M (Bust Size : 36 in, Length Size: 25 in) L (Bust Size : 38 in, Length Size: 26 in) XL (Bust Size : 40 in, Length Size: 27 in) XXL (Bust Size : 42 in, Length Size: 28 in) Upgrade your summer wardrobe with this 3-Piece Casual Minimalist Retro American-Style Cropped Bodysuit Set. Designed for a trendy and effortless look, these bodysuits feature stylish English text graphics, adding a unique vintage charm. Made from soft, breathable, and stretchable fabric, they provide a comfortable and flattering fit. The cropped design enhances your silhouette, making them perfect for pairing with high-waisted jeans, shorts, or skirts. Ideal for casual outings, lounging, or street-style fashion, these bodysuits offer versatility and all-day comfort. Elevate your everyday style with this must-have retro-inspired summer set, combining minimalism with a classic American aesthetic. Country of Origin : India More Information
-  Updated: 2025-10-07T07:56:47Z
+  Updated: 2025-10-12T12:55:13Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -17261,7 +17261,7 @@
     Availability: Available
     Price: ₹205.00 INR
 - [Casual Polyester Blend Ribbed Collar V-Neck & Regular Long Sleeves Stylish Coffee Top (20"Inches)](https://donedeals.xyz/products/casual-polyester-blend-ribbed-collar-v-neck-regular-long-sleeves-stylish-coffee-top-20inches): Product Details Name : Casual Polyester Blend Ribbed Collar V-Neck & Regular Long Sleeves Stylish Coffee Top (20"Inches) Fabric : Polyester Sleeve Length : Long Sleeves Pattern : Solid Net Quantity (N) : 1 Sizes : XS (Bust Size : 32 in, Length Size: 20 in) S (Bust Size : 34 in, Length Size: 20 in) M (Bust Size : 36 in, Length Size: 20 in) L (Bust Size : 38 in, Length Size: 20 in) XL (Bust Size : 40 in, Length Size: 20 in) Casual Polyester Blend Ribbed Collar V-Neck & Regular Long Sleeves Stylish Coffee Top (20"Inches) Country of Origin : India More Information
-  Updated: 2025-10-07T09:07:31Z
+  Updated: 2025-10-12T12:57:32Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -17405,7 +17405,7 @@
     Availability: Available
     Price: ₹326.00 INR
 - [Full Sleeve Crop Top](https://donedeals.xyz/products/full-sleeve-crop-top): Product Details Name : Full Sleeve Crop Top Fabric : Wool Sleeve Length : Long Sleeves Pattern : Self-Design Net Quantity (N) : 1 Sizes : S (Bust Size : 35 in, Length Size: 17 in) M (Bust Size : 37 in, Length Size: 17 in) L (Bust Size : 39 in, Length Size: 17 in) XL (Bust Size : 41 in, Length Size: 17 in) XXL (Bust Size : 43 in, Length Size: 17 in) designer fabric Country of Origin : India More Information
-  Updated: 2025-10-07T09:11:32Z
+  Updated: 2025-10-12T13:14:29Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -17477,7 +17477,7 @@
     Availability: Available
     Price: ₹270.00 INR
 - [Girls Top](https://donedeals.xyz/products/girls-top): Product Details Name : Girls Top Fabric : Rayon Sleeve Length : Three-Quarter Sleeves Pattern : Embroidered Net Quantity (N) : 1 Sizes : XS (Bust Size : 34 in, Length Size: 28 in) S (Bust Size : 36 in, Length Size: 28 in) M (Bust Size : 38 in, Length Size: 28 in) L (Bust Size : 40 in, Length Size: 28 in) XL (Bust Size : 42 in, Length Size: 29 in) XXL (Bust Size : 44 in, Length Size: 29 in) Country of Origin : India More Information
-  Updated: 2025-10-07T09:11:56Z
+  Updated: 2025-10-12T13:12:10Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -17531,7 +17531,7 @@
     Availability: Available
     Price: ₹350.00 INR
 - [Black Top trending Tank Top Most trending](https://donedeals.xyz/products/black-top-trending-tank-top-most-trending): Product Details Name : Black Top trending Tank Top Most trending Fabric : Lycra Sleeve Length : Sleeveless Pattern : Solid Net Quantity (N) : 1 Sizes : XS (Bust Size : 28 in, Length Size: 13 in) S (Bust Size : 30 in, Length Size: 14 in) M (Bust Size : 32 in, Length Size: 15 in) L (Bust Size : 34 in, Length Size: 16 in) XL (Bust Size : 36 in, Length Size: 17 in) Country of Origin : India More Information
-  Updated: 2025-10-07T09:06:41Z
+  Updated: 2025-10-12T12:56:56Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -17549,7 +17549,7 @@
     Availability: Available
     Price: ₹114.00 INR
 - [GL-New Stylish Indigo Blue V-Neck Top](https://donedeals.xyz/products/gl-new-stylish-indigo-blue-v-neck-top): Product Details Name : GL-New Stylish Indigo Blue V-Neck Top Fabric : Rayon Sleeve Length : Long Sleeves Pattern : Printed Net Quantity (N) : 1 Sizes : XXS (Bust Size : 32 in, Length Size: 30 in) XS (Bust Size : 34 in, Length Size: 30 in) S (Bust Size : 36 in, Length Size: 30 in) M (Bust Size : 38 in, Length Size: 30 in) L (Bust Size : 40 in, Length Size: 30 in) XL (Bust Size : 42 in, Length Size: 30 in) XXL (Bust Size : 44 in, Length Size: 30 in) Country of Origin : India More Information
-  Updated: 2025-10-07T09:12:22Z
+  Updated: 2025-10-12T13:12:59Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -17585,7 +17585,7 @@
     Availability: Available
     Price: ₹301.00 INR
 - [Fancy women top, Pink stripe designer top](https://donedeals.xyz/products/fancy-women-top-pink-stripe-designer-top): Product Details Name : Fancy women top, Pink stripe designer top Fabric : Poly Crepe Sleeve Length : Long Sleeves Pattern : Striped Net Quantity (N) : 1 Sizes : S (Bust Size : 37 in, Length Size: 26 in) M (Bust Size : 39 in, Length Size: 27 in) L (Bust Size : 41 in, Length Size: 27 in) XL (Bust Size : 44 in, Length Size: 28 in) Pink stripe top, Woman fancy top, Woman partywear top, Pink designer top, Trendy designer top, Harpa Pink top, Harpa woman top. Tops under 199, Top under 249, Tops under 299. Country of Origin : India More Information
-  Updated: 2025-10-07T09:10:16Z
+  Updated: 2025-10-12T13:05:26Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -17603,7 +17603,7 @@
     Availability: Available
     Price: ₹281.00 INR
 - [Cambo Highneack T-shirt for grils skivvi](https://donedeals.xyz/products/cambo-highneack-t-shirt-for-grils-skivvi): Product Details Name : Cambo Highneack T-shirt for grils skivvi Fabric : Lycra Sleeve Length : Long Sleeves Pattern : Solid Net Quantity (N) : 2 Sizes : S (Bust Size : 30 in, Length Size: 21 in) M (Bust Size : 32 in, Length Size: 21 in) L (Bust Size : 34 in, Length Size: 22 in) XL (Bust Size : 36 in, Length Size: 22 in) Country of Origin : India More Information
-  Updated: 2025-10-07T09:07:31Z
+  Updated: 2025-10-12T12:57:32Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -17639,7 +17639,7 @@
     Availability: Available
     Price: ₹243.00 INR
 - [Cotton Multicolor printed top ,peplam top jaipur printed top](https://donedeals.xyz/products/cotton-multicolor-printed-top-peplam-top-jaipur-printed-top): Product Details Name : Cotton Multicolor printed top ,peplam top jaipur printed top Fabric : Rayon Sleeve Length : Long Sleeves Pattern : Printed Net Quantity (N) : 1 Sizes : S (Bust Size : 36 in) M (Bust Size : 38 in) L (Bust Size : 40 in) XL (Bust Size : 42 in) XXL (Bust Size : 44 in) Country of Origin : India More Information
-  Updated: 2025-10-07T09:09:17Z
+  Updated: 2025-10-12T13:00:03Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -17765,7 +17765,7 @@
     Availability: Available
     Price: ₹251.00 INR
 - [Black-White Collar Half Sleeve Crop Top](https://donedeals.xyz/products/black-white-collar-half-sleeve-crop-top): Product Details Name : Black-White Collar Half Sleeve Crop Top Fabric : Cotton Sleeve Length : Short Sleeves Pattern : Solid Net Quantity (N) : 1 Sizes : XS (Bust Size : 34 in, Length Size: 17 in) S (Bust Size : 36 in, Length Size: 17 in) L (Bust Size : 40 in, Length Size: 18 in) XL (Bust Size : 42 in, Length Size: 19 in) Country of Origin : India More Information
-  Updated: 2025-10-07T09:07:18Z
+  Updated: 2025-10-12T12:56:55Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -17909,7 +17909,7 @@
     Availability: Available
     Price: ₹307.00 INR
 - [Gurmeet Fashion Grey Rayon Embroidered Tunic/Top For Women's](https://donedeals.xyz/products/gurmeet-fashion-grey-rayon-embroidered-tunic-top-for-womens): Product Details Name : Gurmeet Fashion Grey Rayon Embroidered Tunic/Top For Women's Fabric : Rayon Sleeve Length : Short Sleeves Pattern : Embroidered Net Quantity (N) : 1 Sizes : XS, S, M, L, XL, XXXL, 4XL, 5XL Good quality women's tunic top for you is unique and comes with traditional as well as western touch that makes it a worth having piece of clothing for your wardrobe. .It gives you good comfort and a classy look. Country of Origin : India More Information
-  Updated: 2025-10-07T09:12:22Z
+  Updated: 2025-10-12T13:12:38Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -17927,7 +17927,7 @@
     Availability: Available
     Price: ₹250.00 INR
 - [Classic Elegant Women Dresses](https://donedeals.xyz/products/classic-elegant-women-dresses): Product Details Name : Classic Elegant Women Dresses Fabric : Lycra Sleeve Length : Sleeveless Pattern : Solid Net Quantity (N) : 1 Sizes : XS (Bust Size : 32 in, Length Size: 49 in) S (Bust Size : 34 in, Length Size: 49 in) M (Bust Size : 36 in, Length Size: 49 in) L (Bust Size : 38 in, Length Size: 49 in) XL (Bust Size : 40 in, Length Size: 49 in) XXL (Bust Size : 42 in, Length Size: 49 in) Country of Origin : India More Information
-  Updated: 2025-10-07T09:08:16Z
+  Updated: 2025-10-12T12:58:37Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -17945,7 +17945,7 @@
     Availability: Available
     Price: ₹328.00 INR
 - [DRESS AND JACKET FOR WOMEN WOMEN DRESS DRESSE FOR WOMEN WOMEN DRESS CREPE DRESS](https://donedeals.xyz/products/dress-and-jacket-for-women-women-dress-dresse-for-women-women-dress-crepe-dress): Product Details Name : DRESS AND JACKET FOR WOMEN WOMEN DRESS DRESSE FOR WOMEN WOMEN DRESS CREPE DRESS Fabric : Crepe Sleeve Length : Sleeveless Pattern : Solid Net Quantity (N) : 1 Sizes : S (Bust Size : 36 in, Length Size: 32 in) M (Bust Size : 38 in, Length Size: 34 in) L (Bust Size : 40 in, Length Size: 36 in) XL (Bust Size : 42 in, Length Size: 38 in) Country of Origin : India More Information
-  Updated: 2025-10-07T09:09:37Z
+  Updated: 2025-10-12T13:02:14Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -18017,7 +18017,7 @@
     Availability: Available
     Price: ₹383.00 INR
 - [fancy gathered women dress & gown](https://donedeals.xyz/products/fancy-gathered-women-dress-gown): Product Details Name : fancy gathered women dress & gown Fabric : Cotton Sleeve Length : Three-Quarter Sleeves Pattern : Solid Net Quantity (N) : 1 Sizes : XXS (Bust Size : 32 in, Length Size: 45 in) S (Bust Size : 36 in, Length Size: 45 in) M (Bust Size : 38 in, Length Size: 45 in) L (Bust Size : 40 in, Length Size: 45 in) XL (Bust Size : 42 in, Length Size: 46 in) Country of Origin : India More Information
-  Updated: 2025-10-07T09:10:17Z
+  Updated: 2025-10-12T13:05:16Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -18035,7 +18035,7 @@
     Availability: Available
     Price: ₹303.00 INR
 - [Clasi Women's Autumn Dress With Bow Tie Belt, Leaf & Floral Patchwork A-Line Skirt Maxi Women Outfit](https://donedeals.xyz/products/clasi-womens-autumn-dress-with-bow-tie-belt-leaf-floral-patchwork-a-line-skirt-maxi-women-outfit): Product Details Name : Clasi Women's Autumn Dress With Bow Tie Belt, Leaf & Floral Patchwork A-Line Skirt Maxi Women Outfit Fabric : Cotton Silk Sleeve Length : Long Sleeves Pattern : Printed Net Quantity (N) : 1 Sizes : XXS (Bust Size : 30 in, Length Size: 48 in) XS (Bust Size : 30 in, Length Size: 48 in) S (Bust Size : 36 in, Length Size: 48 in) M (Bust Size : 38 in, Length Size: 48 in) L (Bust Size : 40 in, Length Size: 48 in) XL (Bust Size : 42 in, Length Size: 48 in) XXL (Bust Size : 44 in, Length Size: 48 in) XXXL (Bust Size : 40 in, Length Size: 48 in) Clasi Women's Autumn Dress With Bow Tie Belt, Leaf & Floral Patchwork A-Line Skirt Maxi Women Outfit Country of Origin : India More Information
-  Updated: 2025-10-07T09:08:16Z
+  Updated: 2025-10-12T12:58:22Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -18107,7 +18107,7 @@
     Availability: Available
     Price: ₹375.00 INR
 - [Fancy Maxi Fashionista Women For Dress](https://donedeals.xyz/products/fancy-maxi-fashionista-women-for-dress): Product Details Name : Fancy Maxi Fashionista Women For Dress Fabric : Georgette Sleeve Length : Short Sleeves Pattern : Printed Net Quantity (N) : 1 Sizes : S (Bust Size : 36 in, Length Size: 48 in) M (Bust Size : 38 in, Length Size: 30 in) L (Bust Size : 40 in, Length Size: 48 in) XL (Bust Size : 42 in, Length Size: 48 in) XXL (Bust Size : 44 in, Length Size: 48 in) XXXL (Bust Size : 46 in, Length Size: 48 in) 4XL Country of Origin : India More Information
-  Updated: 2025-10-07T09:10:17Z
+  Updated: 2025-10-12T13:11:58Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -18125,7 +18125,7 @@
     Availability: Available
     Price: ₹529.00 INR
 - [GOWN DRESSSS XXS --30 BUST](https://donedeals.xyz/products/gown-dressss-xxs-30-bust): Product Details Name : GOWN DRESSSS XXS --30 BUST Fabric : Georgette Sleeve Length : Three-Quarter Sleeves Pattern : Printed Net Quantity (N) : 1 Sizes : S (Bust Size : 36 in, Length Size: 47 in) M (Bust Size : 38 in, Length Size: 47 in) L (Bust Size : 40 in, Length Size: 47 in) XL (Bust Size : 42 in, Length Size: 47 in) XXL (Bust Size : 44 in, Length Size: 47 in) XXXL (Bust Size : 46 in, Length Size: 47 in) 4XL, 5XL Country of Origin : India More Information
-  Updated: 2025-10-07T09:12:21Z
+  Updated: 2025-10-12T13:08:12Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -18161,7 +18161,7 @@
     Availability: Available
     Price: ₹272.00 INR
 - [Designer party wear dress for women](https://donedeals.xyz/products/designer-party-wear-dress-for-women): Product Details Name : Designer party wear dress for women Fabric : Rayon Sleeve Length : Short Sleeves Pattern : Solid Net Quantity (N) : 1 Sizes : S (Bust Size : 36 in) M (Bust Size : 38 in) L (Bust Size : 40 in) XL (Bust Size : 42 in) XXL (Bust Size : 44 in) Dress Details : Fabric - Reyon Size - S(36), M(38), L(40), XL(42), XXL(44) Pattern - Solid Stitched Type - Full Stitched 100 % Quality Product Country of Origin : India More Information
-  Updated: 2025-10-07T09:09:36Z
+  Updated: 2025-10-12T13:01:41Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -18197,7 +18197,7 @@
     Availability: Available
     Price: ₹408.00 INR
 - [FASHION WAVE New dresses](https://donedeals.xyz/products/fashion-wave-new-dresses): Product Details Name : FASHION WAVE New dresses Fabric : Cotton Sleeve Length : Short Sleeves Pattern : Solid Net Quantity (N) : 1 Sizes : XS (Bust Size : 34 in, Length Size: 42 in) S (Bust Size : 36 in, Length Size: 44 in) M (Bust Size : 38 in, Length Size: 46 in) L (Bust Size : 40 in, Length Size: 48 in) XL (Bust Size : 42 in, Length Size: 48 in) Country of Origin : Afghanistan More Information
-  Updated: 2025-10-07T09:10:34Z
+  Updated: 2025-10-12T13:11:36Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -18233,7 +18233,7 @@
     Availability: Available
     Price: ₹281.00 INR
 - [Dresses](https://donedeals.xyz/products/dresses): Product Details Name : Dresses Fabric : Crepe Sleeve Length : Sleeveless Pattern : Printed Net Quantity (N) : 1 Sizes : S (Bust Size : 36 in, Length Size: 48 in) M (Bust Size : 38 in, Length Size: 49 in) L (Bust Size : 40 in, Length Size: 49 in) XL (Bust Size : 42 in, Length Size: 49 in) Floral Print Maxi Dress for Women | Sleeveless Cutout Long Dress | Casual & Party Wear Color + Style : Royal Blue Dress for Women Blue Western Dress Blue Party Wear Dress Blue Midi Dress Occasion : Birthday Dress for Women Party Wear Dress Casual Outing Dress Summer Vacation Dress Brunch Wear Dress Fabric & Design : Polyester Western Dress Smocked Dress for Women Flared Midi Dress A-line Dress for Girls Popular Look Tags : Trendy Dresses for Women Korean Style Dress Instagram Trending Dress Influencer Style Dress Stylish Dresses Online,DRESS AND JACKET FOR WOMEN WOMEN DRESS DRESSE FOR WOMEN WOMEN DRESS CREPE DRESS 'Classic Elegant Women Dresses Tre'ndy Ravishing Women Dresses'(03)Humaira shop Fit &Fire Maxi Dress.Women Fancy Dress.Trendy western wear long frock for girls and women, party wear, stylish wear, birthday wear, festive wear, comfortable wear for women, better quality at low price. Country of Origin : India More Information
-  Updated: 2025-10-07T09:09:46Z
+  Updated: 2025-10-12T13:02:45Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -18251,7 +18251,7 @@
     Availability: Available
     Price: ₹400.00 INR
 - [Comfy Fashionista Women Dresses](https://donedeals.xyz/products/comfy-fashionista-women-dresses): Product Details Name : Comfy Fashionista Women Dresses Fabric : Lycra Sleeve Length : Sleeveless Pattern : Colorblocked Net Quantity (N) : 1 Sizes : XS (Bust Size : 34 in, Length Size: 48 in) S (Bust Size : 36 in, Length Size: 48 in) M (Bust Size : 38 in, Length Size: 48 in) L (Bust Size : 40 in, Length Size: 48 in) XL (Bust Size : 42 in, Length Size: 48 in) XXL (Bust Size : 44 in, Length Size: 48 in) Country of Origin : India More Information
-  Updated: 2025-10-07T09:08:41Z
+  Updated: 2025-10-12T12:59:07Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -18269,7 +18269,7 @@
     Availability: Available
     Price: ₹322.00 INR
 - [Adorable Russian Dress](https://donedeals.xyz/products/adorable-russian-dress): Product Details Name : Adorable Russian Dress Fabric : Georgette Sleeve Length : Three-Quarter Sleeves Pattern : Printed Net Quantity (N) : 1 Sizes : M (Bust Size : 38 in, Length Size: 48 in) L (Bust Size : 40 in, Length Size: 49 in) XL (Bust Size : 42 in, Length Size: 50 in) XXL (Bust Size : 44 in, Length Size: 40 in) XXXL Adorable Russian & Korean Trendy Dress For Women's Country of Origin : India More Information
-  Updated: 2025-10-07T07:57:01Z
+  Updated: 2025-10-12T12:55:32Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -18305,7 +18305,7 @@
     Availability: Available
     Price: ₹405.00 INR
 - [Fit And Flare Dress For Women Under 500 Combo Pack Of 3 Pcs.](https://donedeals.xyz/products/fit-and-flare-dress-for-women-under-500-combo-pack-of-3-pcs): Product Details Name : Fit And Flare Dress For Women Under 500 Combo Pack Of 3 Pcs. Fabric : Crepe Sleeve Length : Short Sleeves Pattern : Printed Net Quantity (N) : 2 Sizes : XS (Bust Size : 34 in, Length Size: 37 in) S (Bust Size : 36 in, Length Size: 37 in) M (Bust Size : 38 in, Length Size: 37 in) L (Bust Size : 40 in, Length Size: 37 in) XL (Bust Size : 42 in, Length Size: 37 in) XXL (Bust Size : 44 in, Length Size: 37 in) new fashion western dress for girls stylish dresses long short knee length skater party wear one piece casual fancy latest frock ladies women simple readymade trendy a line designer latest flare and fit traditional combo formal bodycon floral flared lady ethinic wedding full long printed Country of Origin : India More Information
-  Updated: 2025-10-07T09:11:11Z
+  Updated: 2025-10-12T13:07:05Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -18395,7 +18395,7 @@
     Availability: Available
     Price: ₹370.00 INR
 - [Fancy Retro Women Dresses](https://donedeals.xyz/products/fancy-retro-women-dresses): Product Details Name : Fancy Retro Women Dresses Fabric : Crepe Sleeve Length : Short Sleeves Pattern : Printed Net Quantity (N) : 1 Sizes : XS, S (Bust Size : 32 in, Length Size: 32 in) M (Bust Size : 34 in, Length Size: 34 in) L (Bust Size : 36 in, Length Size: 36 in) Country of Origin : India More Information
-  Updated: 2025-10-07T09:10:16Z
+  Updated: 2025-10-12T13:04:52Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -18467,7 +18467,7 @@
     Availability: Available
     Price: ₹315.00 INR
 - [Elegant Georgette Grey Maxi Dresses for Women and Girls | Casual Dresses | Women's Dresses | Fashion Dresses | Midi Dress | Georgette Dress |](https://donedeals.xyz/products/elegant-georgette-grey-maxi-dresses-for-women-and-girls-casual-dresses-womens-dresses-fashion-dresses-midi-dress-georgette-dress): Product Details Name : Elegant Georgette Grey Maxi Dresses for Women and Girls | Casual Dresses | Women's Dresses | Fashion Dresses | Midi Dress | Georgette Dress | Fabric : Georgette Sleeve Length : Short Sleeves Pattern : Printed Net Quantity (N) : 1 Sizes : XS (Bust Size : 34 in, Length Size: 42 in) S (Bust Size : 36 in, Length Size: 42 in) M (Bust Size : 38 in, Length Size: 42 in) L (Bust Size : 40 in, Length Size: 46 in) XL (Bust Size : 42 in, Length Size: 46 in) XXL (Bust Size : 44 in, Length Size: 46 in) XXXL (Bust Size : 46 in, Length Size: 46 in) 4XL (Bust Size : 48 in, Length Size: 46 in) 5XL (Bust Size : 50 in, Length Size: 46 in) 7XL (Bust Size : 54 in, Length Size: 46 in) Indulge in timeless elegance with our collection of georgette maxi dresses, tailored for both women and girls. Crafted from luxurious georgette fabric, known for its lightweight drape and graceful movement, these dresses exude sophistication and charm. Whether you're attending a special occasion or simply want to elevate your everyday style, our georgette maxi dresses offer versatility and comfort without compromising on style. With a range of silhouettes, from flowing A-lines to form-fitting designs, each dress is meticulously crafted to flatter all body types. Explore our collection and discover the perfect georgette maxi dress to add a touch of elegance to your wardrob | Casual Dresses | Women's Dresses | Fashion Dresses | Midi Dress | Georgette Dress | Country of Origin : India More Information
-  Updated: 2025-10-07T09:09:47Z
+  Updated: 2025-10-12T13:02:57Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -18485,7 +18485,7 @@
     Availability: Available
     Price: ₹334.00 INR
 - [Classy Designer Women Dresses](https://donedeals.xyz/products/classy-designer-women-dresses): Product Details Name : Classy Designer Women Dresses Fabric : Crepe Sleeve Length : Short Sleeves Pattern : Printed Net Quantity (N) : 1 Sizes : S (Bust Size : 36 in, Length Size: 50 in) M (Bust Size : 38 in, Length Size: 50 in) L (Bust Size : 40 in, Length Size: 52 in) XL (Bust Size : 42 in, Length Size: 52 in) Country of Origin : India More Information
-  Updated: 2025-10-07T09:08:16Z
+  Updated: 2025-10-12T12:58:38Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -18503,7 +18503,7 @@
     Availability: Available
     Price: ₹273.00 INR
 - [Comfy Graceful Women Dresses](https://donedeals.xyz/products/comfy-graceful-women-dresses): Product Details Name : Comfy Graceful Women Dresses Fabric : Lycra Sleeve Length : Sleeveless Pattern : Solid Net Quantity (N) : 1 Sizes : XS (Bust Size : 34 in, Length Size: 53 in) S (Bust Size : 36 in, Length Size: 53 in) M (Bust Size : 38 in, Length Size: 53 in) L (Bust Size : 40 in, Length Size: 53 in) XL (Bust Size : 42 in, Length Size: 53 in) XXL (Bust Size : 44 in, Length Size: 53 in) Country of Origin : India More Information
-  Updated: 2025-10-07T09:08:41Z
+  Updated: 2025-10-12T12:59:26Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -18521,7 +18521,7 @@
     Availability: Available
     Price: ₹385.00 INR
 - [A-line Stylish Printed Women Dress](https://donedeals.xyz/products/a-line-stylish-printed-women-dress): Product Details Name : A-line Stylish Printed Women Dress Fabric : Georgette Sleeve Length : Short Sleeves Pattern : Printed Net Quantity (N) : 1 Sizes : XS (Bust Size : 34 in, Length Size: 48 in) S (Bust Size : 36 in, Length Size: 48 in) M (Bust Size : 38 in, Length Size: 48 in) L (Bust Size : 40 in, Length Size: 48 in) XL (Bust Size : 42 in, Length Size: 48 in) XXL (Bust Size : 44 in, Length Size: 48 in) XXXL (Bust Size : 46 in, Length Size: 48 in) Country of Origin : India More Information
-  Updated: 2025-10-07T07:57:01Z
+  Updated: 2025-10-12T12:55:22Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -18593,7 +18593,7 @@
     Availability: Available
     Price: ₹413.00 INR
 - [Fancy Elegante Women Dresse](https://donedeals.xyz/products/fancy-elegante-women-dresse): Product Details Name : Fancy Elegante Women Dresse Fabric : Georgette Sleeve Length : Short Sleeves Pattern : Printed Net Quantity (N) : 1 Sizes : XS (Bust Size : 34 in, Length Size: 39 in) S (Bust Size : 36 in, Length Size: 39 in) M (Bust Size : 38 in, Length Size: 39 in) L (Bust Size : 40 in, Length Size: 39 in) XL (Bust Size : 42 in, Length Size: 39 in) XXL (Bust Size : 44 in, Length Size: 39 in) XXXL, 4XL Country of Origin : India More Information
-  Updated: 2025-10-07T09:10:17Z
+  Updated: 2025-10-12T13:03:59Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -18629,7 +18629,7 @@
     Availability: Available
     Price: ₹322.00 INR
 - [Classic Graceful Women Dresses](https://donedeals.xyz/products/classic-graceful-women-dresses): Product Details Name : Classic Graceful Women Dresses Fabric : Crepe Sleeve Length : Sleeveless Pattern : Printed Net Quantity (N) : 1 Sizes : S (Bust Size : 36 in) M (Bust Size : 38 in) L (Bust Size : 40 in) XL (Bust Size : 42 in) XXL (Bust Size : 44 in) Country of Origin : India More Information
-  Updated: 2025-10-07T09:08:16Z
+  Updated: 2025-10-12T12:58:37Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -18683,7 +18683,7 @@
     Availability: Available
     Price: ₹328.00 INR
 - [Dress With Jacket Women/Girls 100% Premium Quality Material Women Stylish Jacket With Dress COMBO (PACK OF 2) Urbane Latest Women Dresses With Jacket.](https://donedeals.xyz/products/dress-with-jacket-women-girls-100-premium-quality-material-women-stylish-jacket-with-dress-combo-pack-of-2-urbane-latest-women-dresses-with-jacket): Product Details Name : Dress With Jacket Women/Girls 100% Premium Quality Material Women Stylish Jacket With Dress COMBO (PACK OF 2) Urbane Latest Women Dresses With Jacket. Fabric : Denim Sleeve Length : Sleeveless Pattern : Printed Net Quantity (N) : 1 Sizes : S (Bust Size : 32 in, Length Size: 32 in) M (Bust Size : 34 in, Length Size: 34 in) L (Bust Size : 36 in, Length Size: 36 in) XL (Bust Size : 38 in, Length Size: 38 in) Dress With Jacket Women/Girls 100% Premium Quality Material Women Stylish Jacket With Dress COMBO (PACK OF 2) Urbane Latest Women Dresses With Jacket. Knee Length Dress & Regular Denim Jacket COMBO. Country of Origin : India More Information
-  Updated: 2025-10-07T09:09:36Z
+  Updated: 2025-10-12T13:02:44Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -18701,7 +18701,7 @@
     Availability: Available
     Price: ₹377.00 INR
 - [Fancy Stylish Printed Oversized Round Neck Women's T-shirts (COMBO PACK OF 2)](https://donedeals.xyz/products/fancy-stylish-printed-oversized-round-neck-womens-t-shirts-combo-pack-of-2): Product Details Name : Fancy Stylish Printed Oversized Round Neck Women's T-shirts (COMBO PACK OF 2) Fabric : Cotton Blend Sleeve Length : Short Sleeves Pattern : Printed Net Quantity (N) : 2 Sizes : S (Bust Size : 36 in, Length Size: 26 in) M (Bust Size : 38 in, Length Size: 27 in) L (Bust Size : 40 in, Length Size: 28 in) XL (Bust Size : 42 in, Length Size: 29 in) Fancy Stylish Printed Oversized Round Neck Women's T-shirts (COMBO PACK OF 2) Country of Origin : India More Information
-  Updated: 2025-10-07T09:10:16Z
+  Updated: 2025-10-12T13:04:40Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -18719,7 +18719,7 @@
     Availability: Available
     Price: ₹305.00 INR
 - [AYIZA CREATIONS Premium Quality Oversized Tshirt ,Women Tshirt | Printed Tshirt | Girls Tshirt | Long Tshirts](https://donedeals.xyz/products/ayiza-creations-premium-quality-oversized-tshirt-women-tshirt-printed-tshirt-girls-tshirt-long-tshirts): Product Details Name : AYIZA CREATIONS Premium Quality Oversized Tshirt ,Women Tshirt | Printed Tshirt | Girls Tshirt | Long Tshirts Fabric : Cotton Sleeve Length : Short Sleeves Pattern : Printed Net Quantity (N) : 1 Sizes : S (Bust Size : 38 in, Length Size: 26 in) M (Bust Size : 40 in, Length Size: 27 in) L (Bust Size : 42 in, Length Size: 28 in) XL (Bust Size : 44 in, Length Size: 29 in) AYIZA CREATIONS Premium Quality Oversized Tshirt ,Women Tshirt | Printed Tshirt | Girls Tshirt | Long Tshirts AYIZA CREATIONS Premium Quality Oversized Tshirt ,Women Tshirt | Printed Tshirt | Girls Tshirt | Long Tshirts 1.Fit Type : Premium oversized t shirts for women 2.This Amazing oversized t shirt will make you Fashionable and will make you unique in crowd. Wear this Women oversize tshirt for going to a mall, club, 3.Function,casual meetings & it will also gives you comfort feeling in casual wear. 4.STYLISH DESIGN : Create a lasting impression in this cotton t-shirt for women. This tshirts women trendy is beautifully Crafted in 100% pure cotton. 5.These tshirt for women has half sleeves and is definitely a must-have in your wardrobe ATTRACTIVE : Pair it up with jeans for classic everyday look. This stylish & attractive cute tees for women is suitable for all body types. Best women t shirt stylish western wear Create a nice impression in this loose t shirts for women 6.stylish.This T shirt 100% pure Soft Cotton. This Oversized printed t-shirt has half sleeves. Country of Origin : India More Information
-  Updated: 2025-10-07T07:57:46Z
+  Updated: 2025-10-12T12:56:04Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -18773,7 +18773,7 @@
     Availability: Available
     Price: ₹291.00 INR
 - [Ackeberry Black Printed T-Shirt For Girls & Women](https://donedeals.xyz/products/ackeberry-black-printed-t-shirt-for-girls-women): Product Details Name : Ackeberry Black Printed T-Shirt For Girls & Women Fabric : Cotton Blend Sleeve Length : Three-Quarter Sleeves Pattern : Printed Net Quantity (N) : 1 Sizes : XXS (Bust Size : 34 in, Length Size: 24 in) S (Bust Size : 36 in, Length Size: 26 in) M (Bust Size : 38 in, Length Size: 27 in) L (Bust Size : 40 in, Length Size: 28 in) XL (Bust Size : 42 in, Length Size: 29 in) Ackeberry Black Printed T-Shirt For Girls & Women Country of Origin : India More Information
-  Updated: 2025-10-07T07:57:02Z
+  Updated: 2025-10-12T12:55:31Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -18809,7 +18809,7 @@
     Availability: Available
     Price: ₹281.00 INR
 - [Classy Elegant Women Tshirts](https://donedeals.xyz/products/classy-elegant-women-tshirts): Product Details Name : Classy Elegant Women Tshirts Fabric : Cotton Sleeve Length : Three-Quarter Sleeves Pattern : Printed Net Quantity (N) : 1 Sizes : S (Bust Size : 36 in, Length Size: 26 in) L (Bust Size : 40 in, Length Size: 28 in) XXL (Bust Size : 44 in, Length Size: 30 in) Introducing our charming t-shirt featuring an adorable cartoon bear adorned with a stylish hat. This playful design is perfect for those who appreciate a touch of whimsy in their wardrobe. The vibrant pink color adds a fun pop, making it an ideal choice for casual outings or relaxed days at home. 2. Crafted from high-quality, soft fabric, this t-shirt ensures comfort and durability. The breathable material is perfect for all-day wear, whether you're running errands or enjoying a day out with friends. The cartoon bear design is not only eye-catching but also appeals to both children and adults alike, making it a versatile addition to any closet. Country of Origin : India More Information
-  Updated: 2025-10-07T09:08:16Z
+  Updated: 2025-10-12T12:58:52Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -19140,7 +19140,7 @@
     Availability: Available
     Price: ₹162.00 INR
 - [Fancy & Gorgeous T-shirt For Beautiful Women](https://donedeals.xyz/products/fancy-gorgeous-t-shirt-for-beautiful-women): Product Details Name : Fancy & Gorgeous T-shirt For Beautiful Women Fabric : Cotton Blend Sleeve Length : Long Sleeves Pattern : Colorblocked Net Quantity (N) : 1 Sizes : XXS (Bust Size : 32 in, Length Size: 14 in) S (Bust Size : 34 in, Length Size: 15 in) M (Bust Size : 36 in, Length Size: 16 in) L (Bust Size : 38 in, Length Size: 17 in) XL (Bust Size : 40 in, Length Size: 18 in) Fancy & Gorgeous T-shirt For Beautiful Women Fancy & Gorgeous T-shirt For Beautiful Women Country of Origin : India More Information
-  Updated: 2025-10-07T09:10:16Z
+  Updated: 2025-10-12T13:04:06Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -19158,7 +19158,7 @@
     Availability: Available
     Price: ₹220.00 INR
 - [Collar Zip T-Shirt](https://donedeals.xyz/products/collar-zip-t-shirt): Product Details Name : Collar Zip T-Shirt Fabric : Cotton Sleeve Length : Short Sleeves Pattern : Solid Net Quantity (N) : 1 Sizes : XS (Bust Size : 34 in, Length Size: 17 in) S (Bust Size : 36 in, Length Size: 17 in) M (Bust Size : 38 in, Length Size: 18 in) L (Bust Size : 40 in, Length Size: 18 in) XL (Bust Size : 42 in, Length Size: 19 in) XXL (Bust Size : 44 in, Length Size: 19 in) XXXL (Bust Size : 46 in, Length Size: 20 in) Country of Origin : India More Information
-  Updated: 2025-10-07T09:08:41Z
+  Updated: 2025-10-12T12:58:53Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -19176,7 +19176,7 @@
     Availability: Available
     Price: ₹221.00 INR
 - [FAYLEN COMBO T-SHIRT FOR WOMEN,GIRLS,LADIES](https://donedeals.xyz/products/faylen-combo-t-shirt-for-women-girls-ladies): Product Details Name : FAYLEN COMBO T-SHIRT FOR WOMEN,GIRLS,LADIES Fabric : Cotton Blend Sleeve Length : Short Sleeves Pattern : Printed Net Quantity (N) : 2 Sizes : S (Bust Size : 38 in, Length Size: 27 in) M (Bust Size : 40 in, Length Size: 28 in) L (Bust Size : 42 in, Length Size: 29 in) XL (Bust Size : 44 in, Length Size: 30 in) XXL (Bust Size : 46 in, Length Size: 31 in) IT IS COTTON BLEND T-SHIRT IN LOOSE FITTING FOR ALL CATEGORIES OF WOMEN . IT IS VERY COMFORTABLE AND STYLISH . IT IS SUITABLE FOR ALL PUPOSES. LADIES T-SHIRT,T-SHIRT UNDER 199,T-SHIRT UNDER 99, GIRLS T-SHIRTS,TOP WEAR FOR GIRLS. IT IS VERY LIGHT WEIGHT ANDEASY TO CARRY. Country of Origin : India More Information
-  Updated: 2025-10-07T09:10:31Z
+  Updated: 2025-10-12T13:04:50Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -19230,7 +19230,7 @@
     Availability: Available
     Price: ₹224.00 INR
 - [Casual Regular Sleeves Solid Women Top | Trendy Fabulous Women Tshirts | Women's Ribbed Collar Tshirt | Half Sleeve Collar Tshirt Acrylic Fabric | Women Short Sleeves Shirt Style Top](https://donedeals.xyz/products/casual-regular-sleeves-solid-women-top-trendy-fabulous-women-tshirts-womens-ribbed-collar-tshirt-half-sleeve-collar-tshirt-acrylic-fabric-women-short-sleeves-shirt-style-top): Product Details Name : Casual Regular Sleeves Solid Women Top | Trendy Fabulous Women Tshirts | Women's Ribbed Collar Tshirt | Half Sleeve Collar Tshirt Acrylic Fabric | Women Short Sleeves Shirt Style Top Fabric : Cotton Blend Sleeve Length : Short Sleeves Pattern : Solid Net Quantity (N) : 1 Sizes : S (Bust Size : 32 in, Length Size: 20 in) M (Bust Size : 34 in, Length Size: 21 in) L (Bust Size : 36 in, Length Size: 22 in) XL (Bust Size : 38 in, Length Size: 23 in) Wear this Casual Regular Sleeves Solid Women's Top to stay both fashionable and cosy. With its half sleeves and ribbed collar, this stylish and fashionable women's t-shirt offers the ideal balance of casual and stylish. It guarantees a pleasant fit all day long because it is made of soft acrylic fabric. Its adaptable style makes it a wonderful addition to any wardrobe and perfect for informal events or daily use. This women's short-sleeve shirt top gives your outfit a dash of carefree elegance whether it's worn with jeans or skirts. Country of Origin : India More Information
-  Updated: 2025-10-07T09:07:31Z
+  Updated: 2025-10-12T12:58:07Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -19345,7 +19345,7 @@
     Availability: Available
     Price: ₹198.00 INR
 - [BTS Tshirt K-pop Band Printed Regular Round Neck Cotton White T-Shirt for Women's /girl](https://donedeals.xyz/products/bts-tshirt-k-pop-band-printed-regular-round-neck-cotton-white-t-shirt-for-womens-girl): Product Details Name : BTS Tshirt K-pop Band Printed Regular Round Neck Cotton White T-Shirt for Women's /girl Fabric : Polyester Sleeve Length : Long Sleeves Pattern : Printed Net Quantity (N) : 1 Sizes : S, M, L, XL Sizes : S (Bust Size : 32 in, Length Size: 23 in) M (Bust Size : 34 in, Length Size: to impress with Workshop Women's Printed T-Shirts. These budget-friendly t-shirts offer stylish designs without compromising on quality. With a wide range of options, you can find the perfect stylish printed t-shirt 24 in)charm and excite everyone with these half sleeve t-shirts which have an international look and feel, a superior blend of premium yarns, attractive design and amazing. These t-shirts are continued to be worn by men and women with a sophisticated sense of style on a regular basis. Indulge in a rendezvous at the club or hangout in rustic cafes or just saunter around like a boss in this cool t-shirt from Broyz. Shrinkage & Color Fastness Guaranteed. This shirt is a necessary staple in everyday life. It is very versatile and can be worn everywhere, including office environments, classrooms, and even during your errands or athletics activities. Wear your attitude on your sleeve, literally. L (Bust Size : 36 in, Length Size: 25 in) XL (Bust Size : 38 in, Length Size: 26 in) XXL (Bust Size : 40 in, Length Size: 26 in) Providing the best comfort clothing in the range of Crop Tshirt for Women with hood for summers and winters Best in Quality Exclusive design By Nomadees. Our latest designs collection of Cool and comfortable Soft Fabric full sleeve crop tshirt for women. Celebrate thi Country of Origin : India More Information
-  Updated: 2025-10-07T09:07:31Z
+  Updated: 2025-10-12T12:57:22Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -19399,7 +19399,7 @@
     Availability: Available
     Price: ₹182.00 INR
 - [Geetika Mart Round Neck White Polyester Crop Top Design T-Shirt For Girl's & Woman's](https://donedeals.xyz/products/geetika-mart-round-neck-white-polyester-crop-top-design-t-shirt-for-girls-womans): Product Details Name : Geetika Mart Round Neck White Polyester Crop Top Design T-Shirt For Girl's & Woman's Fabric : Polyester Sleeve Length : Short Sleeves Pattern : Printed Net Quantity (N) : 1 Sizes : S (Bust Size : 34 in, Length Size: 15 in) M (Bust Size : 36 in, Length Size: 16 in) L (Bust Size : 38 in, Length Size: 17 in) XL (Bust Size : 40 in, Length Size: 18 in) Country of Origin : India More Information
-  Updated: 2025-10-07T09:11:56Z
+  Updated: 2025-10-12T13:12:40Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -19453,7 +19453,7 @@
     Availability: Available
     Price: ₹219.00 INR
 - [Girl's Crop Top Crop Hoodie Crop Top Hoodie Western Top Printed Crop Top Printed Crop Hoodies](https://donedeals.xyz/products/girls-crop-top-crop-hoodie-crop-top-hoodie-western-top-printed-crop-top-printed-crop-hoodies): Product Details Name : Girl's Crop Top Crop Hoodie Crop Top Hoodie Western Top Printed Crop Top Printed Crop Hoodies Fabric : Cotton Blend Sleeve Length : Long Sleeves Pattern : Printed Net Quantity (N) : 1 Sizes : XXS (Bust Size : 30 in, Length Size: 16 in) XS (Bust Size : 32 in, Length Size: 17 in) S (Bust Size : 34 in, Length Size: 18 in) M (Bust Size : 36 in, Length Size: 19 in) Girl's Crop Top Crop Hoodie Crop Top Hoodie Western Top Printed Crop Top Printed Crop Hoodies Country of Origin : India More Information
-  Updated: 2025-10-07T09:11:57Z
+  Updated: 2025-10-12T13:09:17Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -19489,7 +19489,7 @@
     Availability: Available
     Price: ₹331.00 INR
 - [Fancy, modern, fashionable, classic, and latest women’s printed sleeveless maxi dhoti jumpsuit. Stylish one-piece dress with digital owl print, perfect for party wear](https://donedeals.xyz/products/fancy-modern-fashionable-classic-and-latest-women-s-printed-sleeveless-maxi-dhoti-jumpsuit-stylish-one-piece-dress-with-digital-owl-print-perfect-for-party-wear): Product Details Name : Fancy, modern, fashionable, classic, and latest women’s printed sleeveless maxi dhoti jumpsuit. Stylish one-piece dress with digital owl print, perfect for party wear Fabric : Polycotton Sleeve Length : Sleeveless Pattern : Solid Net Quantity (N) : 1 Sizes : S (Bust Size : 36 in, Length Size: 50 in, Waist Size: 30 in) M (Bust Size : 38 in, Length Size: 50 in, Waist Size: 32 in) L (Bust Size : 40 in, Length Size: 52 in, Waist Size: 34 in) XL (Bust Size : 42 in, Length Size: 52 in, Waist Size: 36 in) Country of Origin : India More Information
-  Updated: 2025-10-07T09:10:17Z
+  Updated: 2025-10-12T13:04:09Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -19525,7 +19525,7 @@
     Availability: Available
     Price: ₹255.00 INR
 - [CNQFS FASHION'S STYLISH RAJASTHANI PRINTED CREPE FABRIC JUMPSUIT FOR WOMEN | JM0015](https://donedeals.xyz/products/cnqfs-fashions-stylish-rajasthani-printed-crepe-fabric-jumpsuit-for-women-jm0015): Product Details Name : CNQFS FASHION'S STYLISH RAJASTHANI PRINTED CREPE FABRIC JUMPSUIT FOR WOMEN | JM0015 Fabric : Crepe Sleeve Length : Short Sleeves Pattern : Printed Net Quantity (N) : 1 Sizes : S (Bust Size : 34 in, Length Size: 55 in, Waist Size: 28 in) M (Bust Size : 36 in, Length Size: 55 in, Waist Size: 30 in) L (Bust Size : 38 in, Length Size: 55 in, Waist Size: 32 in) XL (Bust Size : 40 in, Length Size: 55 in, Waist Size: 34 in) A crepe fabric jumpsuit is the epitome of elegant simplicity and timeless style. Made from a unique woven fabric, crepe has a distinctive textured surface, featuring a slightly crinkled or pebbled appearance that adds depth and interest to any garment. This fabric is known for its soft, fluid drape and light-to-medium weight, making it an ideal choice for jumpsuits that need to move gracefully while maintaining structure. Crepe fabric has a naturally sophisticated sheen that gives it a refined, understated charm, perfect for both formal and semi-formal occasions. It is often used in evening jumpsuits, cocktail dresses, and workwear, where it balances comfort with elegance. The texture of crepe makes it a versatile choice for various styles. One of the most attractive qualities of crepe fabric is its breathability and ability to maintain its shape over time. This makes crepe jumpsuits an excellent option for all-day wear, as they resist wrinkling and can keep their crisp look throughout the day or night. Additionally, the fabric's ability to absorb dye leads to rich, vibrant colors, from deep jewel tones to soft pastels, making it easy to find a crepe dress in a variety of shades to suit any pers Country of Origin : India More Information
-  Updated: 2025-10-07T09:08:41Z
+  Updated: 2025-10-12T12:58:52Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -19579,7 +19579,7 @@
     Availability: Available
     Price: ₹444.00 INR
 - [Comfy Elegants Women Jumpsuits](https://donedeals.xyz/products/comfy-elegants-women-jumpsuits): Product Details Name : Comfy Elegants Women Jumpsuits Fabric : Cotton Sleeve Length : Sleeveless Pattern : Checked Net Quantity (N) : 1 Sizes : XS (Bust Size : 34 in, Length Size: 52 in, Waist Size: 30 in) S (Bust Size : 36 in, Length Size: 52 in, Waist Size: 32 in) M (Bust Size : 38 in, Length Size: 52 in, Waist Size: 34 in) L (Bust Size : 40 in, Length Size: 52 in, Waist Size: 36 in) XL (Bust Size : 42 in, Length Size: 52 in, Waist Size: 38 in) XXL (Bust Size : 44 in, Length Size: 52 in, Waist Size: 40 in) XXXL (Bust Size : 46 in, Length Size: 52 in, Waist Size: 42 in) New Cotton Summer's Special Women Jumpsuit. Also Wear in all Season for very comfortable in all place like Beach, Party, Special Diner, Relax Mood. Country of Origin : India More Information
-  Updated: 2025-10-07T09:08:42Z
+  Updated: 2025-10-12T12:59:07Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -19615,7 +19615,7 @@
     Availability: Available
     Price: ₹318.00 INR
 - [FOUR BROTHER'S STYLISH CREPE FABRIC JUMPSUIT FOR WOMEN | JS03](https://donedeals.xyz/products/four-brothers-stylish-crepe-fabric-jumpsuit-for-women-js03): Product Details Name : FOUR BROTHER'S STYLISH CREPE FABRIC JUMPSUIT FOR WOMEN | JS03 Fabric : Crepe Sleeve Length : Short Sleeves Pattern : Printed Net Quantity (N) : 1 Sizes : S (Bust Size : 36 in, Length Size: 40 in, Waist Size: 37 in) M, L, XL A crepe fabric jumpsuit is the epitome of elegant simplicity and timeless style. Made from a unique woven fabric, crepe has a distinctive textured surface, featuring a slightly crinkled or pebbled appearance that adds depth and interest to any garment. This fabric is known for its soft, fluid drape and light-to-medium weight, making it an ideal choice for jumpsuits that need to move gracefully while maintaining structure. Crepe fabric has a naturally sophisticated sheen that gives it a refined, understated charm, perfect for both formal and semi-formal occasions. It is often used in evening jumpsuits, cocktail dresses, and workwear, where it balances comfort with elegance. The texture of crepe makes it a versatile choice for various styles. One of the most attractive qualities of crepe fabric is its breathability and ability to maintain its shape over time. This makes crepe jumpsuits an excellent option for all-day wear, as they resist wrinkling and can keep their crisp look throughout the day or night. Additionally, the fabric's ability to absorb dye leads to rich, vibrant colors, from deep jewel tones to soft pastels, making it easy to find a crepe dress in a variety of shades to suit any pers Country of Origin : India More Information
-  Updated: 2025-10-07T09:11:31Z
+  Updated: 2025-10-12T13:21:51Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -19669,7 +19669,7 @@
     Availability: Available
     Price: ₹381.00 INR
 - [FOUR BROTHER'S STYLISH RAJASTHANI PRINTED CREPE FABRIC V-NECK JUMPSUIT FOR WOMEN | JM0015](https://donedeals.xyz/products/four-brothers-stylish-rajasthani-printed-crepe-fabric-v-neck-jumpsuit-for-women-jm0015): Product Details Name : FOUR BROTHER'S STYLISH RAJASTHANI PRINTED CREPE FABRIC V-NECK JUMPSUIT FOR WOMEN | JM0015 Fabric : Crepe Sleeve Length : Short Sleeves Pattern : Printed Net Quantity (N) : 1 Sizes : S (Bust Size : 34 in, Length Size: 55 in, Waist Size: 26 in) M (Bust Size : 36 in, Length Size: 55 in, Waist Size: 27 in) L (Bust Size : 38 in, Length Size: 55 in, Waist Size: 28 in) XL (Bust Size : 40 in, Length Size: 55 in, Waist Size: 29 in) A crepe fabric jumpsuit is the epitome of elegant simplicity and timeless style. Made from a unique woven fabric, crepe has a distinctive textured surface, featuring a slightly crinkled or pebbled appearance that adds depth and interest to any garment. This fabric is known for its soft, fluid drape and light-to-medium weight, making it an ideal choice for jumpsuits that need to move gracefully while maintaining structure. FOUR BROTHER is a high-end apparel brand that excels in making fashionable garments that prove to be a perfect example of Western, Fusion and Sports. We understand that fashion is not just about style or elegance. We keeping this in our mind, we try to connect with every man & woman on a whole new level and hence we are able to design apparels that cater to her every mood. Whether it's a party, a wedding, a festival or a casual gathering, unique and subtle designs make it possible to wear them on different occasions and make them look great. Extensive market research has enabled us to understand the different demands of men and women who have contributed to the design of high-end clothing for them. Our design team is well-versed in the fashion industry and knows how to strike a chord in a heart when it comes to clothing. “ NOTE “ FREE SIZE FIT FROM – S, M, L, XL. Country of Origin : India More Information
-  Updated: 2025-10-07T09:11:32Z
+  Updated: 2025-10-12T13:25:06Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -19712,7 +19712,7 @@
     Availability: Available
     Price: ₹361.00 INR
 - [Dhoti jumpsuit, stylish jumpsuit, one piece dress, stylish dress, owl print,](https://donedeals.xyz/products/dhoti-jumpsuit-stylish-jumpsuit-one-piece-dress-stylish-dress-owl-print): Product Details Name : Dhoti jumpsuit, stylish jumpsuit, one piece dress, stylish dress, owl print, Fabric : Crepe Sleeve Length : Sleeveless Pattern : Solid Net Quantity (N) : 1 Sizes : S (Bust Size : 34 in, Length Size: 53 in, Waist Size: 28 in) M (Bust Size : 36 in, Length Size: 53 in, Waist Size: 30 in) L (Bust Size : 38 in, Length Size: 53 in, Waist Size: 32 in) XL (Bust Size : 40 in, Length Size: 54 in, Waist Size: 34 in) XXL (Bust Size : 42 in, Length Size: 54 in, Waist Size: 36 in) Relaxed fit ankle length dhoti jumpsuit which can easily be worm for a festive event. Accessorise it with a neckpiece and earrings and you are wedding ready. The elasticated waist and comfortable hip silhouette are perfect fopr the indian body type. Length of the maxi is apt for the average indian women's heigth. Made from smooth wrinkle resistant crepe fabric, this jumpsuit is sure to look trendy. it is color bleeding resistant thereby making it look lasting. Sweat absorbent armpit lining is used to keep away underarm stains. Country of Origin : India More Information
-  Updated: 2025-10-07T09:09:36Z
+  Updated: 2025-10-12T13:01:46Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -19802,7 +19802,7 @@
     Availability: Available
     Price: ₹263.00 INR
 - [FOUR BROTHER'S STYLISH CREPE FABRIC JUMPSUIT FOR WOMEN | JS02](https://donedeals.xyz/products/four-brothers-stylish-crepe-fabric-jumpsuit-for-women-js02): Product Details Name : FOUR BROTHER'S STYLISH CREPE FABRIC JUMPSUIT FOR WOMEN | JS02 Fabric : Crepe Sleeve Length : Three-Quarter Sleeves Pattern : Printed Net Quantity (N) : 1 Sizes : S (Bust Size : 36 in, Length Size: 42 in, Waist Size: 35 in) M (Bust Size : 38 in, Length Size: 43 in, Waist Size: 37 in) L (Bust Size : 40 in, Length Size: 44 in, Waist Size: 39 in) XL (Bust Size : 42 in, Length Size: 45 in, Waist Size: 41 in) A crepe fabric jumpsuit is the epitome of elegant simplicity and timeless style. Made from a unique woven fabric, crepe has a distinctive textured surface, featuring a slightly crinkled or pebbled appearance that adds depth and interest to any garment. This fabric is known for its soft, fluid drape and light-to-medium weight, making it an ideal choice for jumpsuits that need to move gracefully while maintaining structure. Crepe fabric has a naturally sophisticated sheen that gives it a refined, understated charm, perfect for both formal and semi-formal occasions. It is often used in evening jumpsuits, cocktail dresses, and workwear, where it balances comfort with elegance. The texture of crepe makes it a versatile choice for various styles. One of the most attractive qualities of crepe fabric is its breathability and ability to maintain its shape over time. This makes crepe jumpsuits an excellent option for all-day wear, as they resist wrinkling and can keep their crisp look throughout the day or night. Additionally, the fabric's ability to absorb dye leads to rich, vibrant colors, from deep jewel tones to soft pastels, making it easy to find a crepe dress in a variety of shades to suit any pers Country of Origin : India More Information
-  Updated: 2025-10-07T09:11:31Z
+  Updated: 2025-10-12T13:06:47Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -20000,7 +20000,7 @@
     Availability: Available
     Price: ₹439.00 INR
 - [Fancy Designer Women Jumpsuits](https://donedeals.xyz/products/fancy-designer-women-jumpsuits): Product Details Name : Fancy Designer Women Jumpsuits Fabric : Cotton Blend Sleeve Length : Sleeveless Pattern : Striped Net Quantity (N) : 1 Sizes : XS (Bust Size : 34 in, Length Size: 25 in, Waist Size: 28 in) S (Bust Size : 36 in, Length Size: 25 in, Waist Size: 28 in) M (Bust Size : 38 in, Length Size: 25 in, Waist Size: 30 in) L (Bust Size : 40 in, Length Size: 25 in, Waist Size: 32 in) XL (Bust Size : 42 in, Length Size: 25 in, Waist Size: 34 in) XXL (Bust Size : 44 in, Length Size: 25 in, Waist Size: 36 in) Black Colour New Designer Trendy Fashionable Women Top & Bottom Sets Low Price This premium ensemble is crafted from the finest WOOLEN fabric, featuring intricate black and white crochet lace design. The set includes a stylish V-neck jacket and matching palazzo pants, both showcasing the exquisite zigzag pattern. The sleeveless jacket adds a modern touch to this elegants outfit Country of Origin : India More Information
-  Updated: 2025-10-07T09:10:18Z
+  Updated: 2025-10-12T13:05:57Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -20054,7 +20054,7 @@
     Availability: Available
     Price: ₹460.00 INR
 - [Baggy Jeans,Women jean Womens Jean jean For womens Trendy jean for Women](https://donedeals.xyz/products/baggy-jeans-women-jean-womens-jean-jean-for-womens-trendy-jean-for-women): Product Details Name : Baggy Jeans,Women jean Womens Jean jean For womens Trendy jean for Women Fabric : Denim Surface Styling : Fringed Net Quantity (N) : 1 Sizes : 24 (Waist Size : 24 in, Length Size: 37 in) 26 (Waist Size : 26 in, Length Size: 37 in) 30 (Waist Size : 30 in, Length Size: 37 in) 32 (Waist Size : 32 in, Length Size: 37 in) 34 (Waist Size : 34 in, Length Size: 38 in) 36 (Waist Size : 36 in, Length Size: 38 in) 38 (Waist Size : 38 in, Length Size: 38 in) 40 (Waist Size : 40 in, Length Size: 38 in) 42 (Waist Size : 42 in, Length Size: 38 in) 44 (Waist Size : 44 in, Length Size: 39 in) XS (Waist Size : 26 in, Length Size: 37 in) Country of Origin : India More Information
-  Updated: 2025-10-07T07:57:46Z
+  Updated: 2025-10-12T12:56:03Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -20090,7 +20090,7 @@
     Availability: Available
     Price: ₹401.00 INR
 - [Girls Trendy Fashionable Stylish 6 Pocket Denim Jeans For Women](https://donedeals.xyz/products/girls-trendy-fashionable-stylish-6-pocket-denim-jeans-for-women): Product Details Name : Girls Trendy Fashionable Stylish 6 Pocket Denim Jeans For Women Fabric : Denim Surface Styling : Not Applicable Net Quantity (N) : 1 Sizes : 28 (Waist Size : 28 in, Length Size: 37 in) 30 (Waist Size : 30 in, Length Size: 37 in) 32 (Waist Size : 32 in, Length Size: 37 in) Introducing the Jeans set by S.S FASHION, a delightful blend of style and comfort that every wardrobe needs. Made from high-quality Denim fabric, this set offers durability without compromising on the chic factor. The classic plated design adds a touch of timeless elegance, while the floral print work brings a burst of freshness and femininity to the outfit. Designed for those who love to make a fashion statement, these Girls Cute stylish Jeans are the perfect choice for any occasion. Whether you're heading out for a casual day with friends, a weekend getaway, or simply running errands, this jeans set ensures you look effortlessly stylish and put-together. The Women Denim Jeans are crafted to provide a flattering fit, accentuating your curves while offering maximum comfort. The soft yet sturdy fabric ensures long-lasting wear, making it a versatile addition to your daily ensemble. The floral print work adds a playful and sophisticated touch, making this set stand out from the crowd. Pair these jeans with your favorite top, be it a casual tee, a trendy crop top, or a chic blouse, and complete the look with your go-to accessories. The possibilities are endless with this versatile piece that seamlessly transitions from day to night. Elevate your wardrobe with the Jeans set by S.S FASHION and experience the perfect blend of style, comfort, and durability. Embrace the beauty of Country of Origin : India More Information
-  Updated: 2025-10-07T09:11:56Z
+  Updated: 2025-10-12T13:12:31Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -20180,7 +20180,7 @@
     Availability: Available
     Price: ₹300.00 INR
 - [Dark Blue Straight Fit Wide Legg Jeans](https://donedeals.xyz/products/dark-blue-straight-fit-wide-legg-jeans): Product Details Name : Dark Blue Straight Fit Wide Legg Jeans Fabric : Denim Net Quantity (N) : 1 Sizes : 28 (Waist Size : 28 in, Length Size: 38 in) Country of Origin : India More Information
-  Updated: 2025-10-07T09:09:17Z
+  Updated: 2025-10-12T13:00:11Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -20324,7 +20324,7 @@
     Availability: Available
     Price: ₹391.00 INR
 - [Girls Cute Fashionable Festive Stylish Denim Jeans For Women](https://donedeals.xyz/products/girls-cute-fashionable-festive-stylish-denim-jeans-for-women): Product Details Name : Girls Cute Fashionable Festive Stylish Denim Jeans For Women Fabric : Denim Net Quantity (N) : 1 Sizes : 24 Elevate your style game with these trendy and versatile grey cargo jeans by DEY-LIGHT JEANS. Crafted for the modern fashionista, these jeans blend comfort and functionality with an effortlessly chic design. Made from premium-quality denim, the jeans offer a soft, breathable feel while ensuring durability. The cool grey wash adds a touch of contemporary flair, making it a must-have piece for any casual wardrobe. The cargo-style design features spacious side pockets, perfect for adding both style and convenience. With a relaxed fit and a straight-leg cut, these jeans provide a comfortable, flattering silhouette that pairs seamlessly with any top. Whether you’re going for a laid-back vibe with a T-shirt or dressing up with a stylish blouse, these cargo jeans are the ideal choice. Country of Origin : India More Information
-  Updated: 2025-10-07T09:11:56Z
+  Updated: 2025-10-12T13:18:55Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -20342,7 +20342,7 @@
     Availability: Available
     Price: ₹407.00 INR
 - [Comfy Women Denim Jeans](https://donedeals.xyz/products/comfy-women-denim-jeans): Product Details Name : Comfy Women Denim Jeans Fabric : Denim Net Quantity (N) : 1 Sizes : 26 (Waist Size : 26 in, Length Size: 36 in) 28 (Waist Size : 28 in, Length Size: 36 in) 30 (Waist Size : 30 in, Length Size: 36 in) 32, 34 Country of Origin : India More Information
-  Updated: 2025-10-07T09:09:02Z
+  Updated: 2025-10-12T12:59:26Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -20414,7 +20414,7 @@
     Availability: Available
     Price: ₹384.00 INR
 - [Dark Blue Wide Leg Jeans](https://donedeals.xyz/products/dark-blue-wide-leg-jeans): Product Details Name : Dark Blue Wide Leg Jeans Fabric : Denim Net Quantity (N) : 1 Sizes : 26 (Waist Size : 26 in, Length Size: 38 in) Country of Origin : India More Information
-  Updated: 2025-10-07T09:09:16Z
+  Updated: 2025-10-12T13:00:11Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -20522,7 +20522,7 @@
     Availability: Available
     Price: ₹489.00 INR
 - [6 POCKET JOGGER FOR WOMEN D](https://donedeals.xyz/products/6-pocket-jogger-for-women-d): Product Details Name : 6 POCKET JOGGER FOR WOMEN D Fabric : Denim Pattern : Dyed/Washed Net Quantity (N) : 1 Sizes : S, M, L 6 POCKET JOGGER FOR WOMEN D PREMIUM DENIM FABRIC Country of Origin : India More Information
-  Updated: 2025-10-07T07:56:47Z
+  Updated: 2025-10-12T12:55:12Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -20540,7 +20540,7 @@
     Availability: Available
     Price: ₹253.00 INR
 - [H&H WIDE LEG CREAM DENIM JEANS](https://donedeals.xyz/products/h-h-wide-leg-cream-denim-jeans): Product Details Name : H&H WIDE LEG CREAM DENIM JEANS Fabric : Denim Surface Styling : Studded Net Quantity (N) : 1 Sizes : 26 (Waist Size : 26 in, Length Size: 41 in) 28 (Waist Size : 28 in, Length Size: 41 in) 30 (Waist Size : 30 in, Length Size: 41 in) 32 (Waist Size : 32 in, Length Size: 41 in) 34 (Waist Size : 34 in, Length Size: 41 in) H&H High Waist Non-Stretchable Denim Jeans for Women – Casual Stylish Western Wear Introducing our Denim Jeans – your ultimate style companion! Crafted from premium quality denim that offers the epitome of luxury. Find your perfect fit with various size options (26 to 34), ensuring there's a size for everyone. Enjoy easy maintenance with simple hand wash instructions, guaranteeing longevity. Transform your wardrobe with endless possibilities – from daily wear to casual outings, office attire to a night out. Pair effortlessly with tees, kurtis, jackets, and more. Indulge in the opulence of ultra-plush fabric, providing a flattering fit that enhances your silhouette. Seamlessly transition from work to home, parties to clubs, and even vacations – wherever your day takes you! Take pride in your fashion choice, as these jeans are proudly made in India, ensuring premium quality and craftsmanship. Now, elevate your style effortlessly with our DENIM – the perfect replacement for your old pair of jeans. Embrace the same chic design, crafted from super-soft denim for a luxurious feel. Sizes : Find your perfect fit among various options – ensuring a size for everyone! Enjoy easy maintenance with simple hand wash instructions. Transform your wardrobe with endless pairing possibilities – from daily wear to office attire or a night out. Indulge in the opulence of ultra-plush fabric, prov Country of Origin : India More Information
-  Updated: 2025-10-07T09:12:43Z
+  Updated: 2025-10-12T13:21:10Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -20648,7 +20648,7 @@
     Availability: Available
     Price: ₹299.00 INR
 - [cotton lycra paint](https://donedeals.xyz/products/cotton-lycra-paint): Product Details Name : cotton lycra paint Fabric : Cotton Surface Styling : Whiskers Net Quantity (N) : 1 Sizes : 28 (Waist Size : 28 in, Length Size: 37 in) 30 (Waist Size : 30 in, Length Size: 37 in) 32 (Waist Size : 32 in, Length Size: 37 in) 34 Country of Origin : India More Information
-  Updated: 2025-10-07T09:09:02Z
+  Updated: 2025-10-12T12:59:57Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -20720,7 +20720,7 @@
     Availability: Available
     Price: ₹326.00 INR
 - [combo of trendy feeding zip maternity dress](https://donedeals.xyz/products/combo-of-trendy-feeding-zip-maternity-dress): Product Details Name : combo of trendy feeding zip maternity dress Fabric : Rayon Sleeve Length : Three-Quarter Sleeves Pattern : Printed Combo of : Combo of 2 Sizes : M (Bust Size : 38 in, Size Length: 45 in) L (Bust Size : 40 in, Size Length: 45 in) XL (Bust Size : 42 in, Size Length: 45 in) XXL (Bust Size : 44 in, Size Length: 45 in) Country of Origin : India More Information
-  Updated: 2025-10-07T09:08:41Z
+  Updated: 2025-10-12T12:59:07Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -20774,7 +20774,7 @@
     Availability: Available
     Price: ₹398.00 INR
 - [Feeding Kurti Women's Rayon Floral Printed Anarkali Maternity Feeding Kurti](https://donedeals.xyz/products/feeding-kurti-womens-rayon-floral-printed-anarkali-maternity-feeding-kurti): Product Details Name : "Feeding Kurti" Women's Rayon Floral Printed Anarkali Maternity Feeding Kurti Fabric : Rayon Sleeve Length : Three-Quarter Sleeves Pattern : Printed Net Quantity (N) : 1 zipper maternity top, breast feeding dress : : breast feeding kurti, breast feeding kurti for women :: maternity top, feeding top :: pregnancy kurti, feeding top and kurti under :: maternity gown, feeding top and kurti under Sizes : M (Bust Size : 38 in, Length Size: 52 in, Waist Size: 36 in) L (Bust Size : 40 in, Length Size: 52 in, Waist Size: 38 in) XXL Country of Origin : India More Information
-  Updated: 2025-10-07T13:50:17Z
+  Updated: 2025-10-12T13:24:13Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -20864,7 +20864,7 @@
     Availability: Available
     Price: ₹310.00 INR
 - [DAMSEL Women Maternity Feeding gown Kurti with zip anarkali Cotton dress/pregnent/nursing](https://donedeals.xyz/products/damsel-women-maternity-feeding-gown-kurti-with-zip-anarkali-cotton-dress-pregnent-nursing): Product Details Name : DAMSEL Women Maternity Feeding gown Kurti with zip anarkali Cotton dress/pregnent/nursing Fabric : Cotton Sleeve Length : Three-Quarter Sleeves Pattern : Printed Net Quantity (N) : 1 ?? Enjoy maternity feeding anarkali gown kurti Life Time Color Fade Guarantee And Grab The Royal Look No Issues In ( Fabric )(color) (print)(stitching) Quality Issue In This Product ??MATERNITY KURTA WITH ZIPPER These Knee Length Feeding Kurtis For Women With Zip Are Easy To Pump & Breastfeed. Both Sides Invisible 9-inch Vertical Zippers For Easy Breastfeeding Easily Open And Close This Maternity Dress Anywhere At Any Time To Breastfeed Your feeding Be A Mom In Style this 100% cotton anarkali long gown type kurti with zipping latest design Comfortable & elegant Sales Package : -1 Maternity Kurti||fabric Type:-cotton||pattern Type:-printed||brand Color:-multicolor ||neck Type:-round Neck||style Type:-anarkali ||product Type:-feeding Kurti||work Type:-prined||fit Type:-regular Fit ||product Length Type:-ankle-length||sleeve Style:-regular Sleeve||sleeve Length:-3\4 Sleeve||ideal For:-women's, Girls,mother||occasion Type:- Casual Wear, Maternity Wear Wear,fabric Care:- Hand Wash, Machine Wash, Wash With Like Color's,maternity Kurta For Pregnancy, these Maternity And Feeding Kurtis Are Perfect For Any Occasion Such As Casual Work, Vacation, Friends, Party Or Family Gathering, Etc. We Offer Innovative Maternity feeding kurtis maternity nursing maternity dresses for women feeding kurtis for women feeding dresses for women pregnancy dresses for women stylish maternity dress feeding to Sizes : S, M, L, XL, XXL, XXXL, 4XL Country of Origin : India More Information
-  Updated: 2025-10-07T09:09:16Z
+  Updated: 2025-10-12T13:00:11Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -21040,7 +21040,7 @@
     Availability: Available
     Price: ₹378.00 INR
 - [click Jaipur Stylish feeding maternity dress for women](https://donedeals.xyz/products/click-jaipur-stylish-feeding-maternity-dress-for-women): Product Details Name : click Jaipur Stylish feeding maternity dress for women Fabric : Cotton Sleeve Length : Three-Quarter Sleeves Pattern : Printed Net Quantity (N) : 1 Celebrate the beautiful journey of motherhood with our Cotton Printed Maternity Feeding Kurti. Order yours today and enjoy the perfect combination of style, comfort, and practicality #maternity wear kurti #maternity kurta set #mother maternity dress kurta #anarkali maternity feeding kurti #maternity long kurtis Sizes : M (Bust Size : 38 in, Length Size: 48 in, Waist Size: 34 in) L (Bust Size : 40 in, Length Size: 48 in, Waist Size: 36 in) Country of Origin : India More Information
-  Updated: 2025-10-07T09:08:41Z
+  Updated: 2025-10-12T12:58:52Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -21094,7 +21094,7 @@
     Availability: Available
     Price: ₹441.00 INR
 - [Ceres MoMoms Maternity & Nursing Covered Nursing Fit and Flair Dress](https://donedeals.xyz/products/ceres-momoms-maternity-nursing-covered-nursing-fit-and-flair-dress): Product Details Name : Ceres MoMoms Maternity & Nursing Covered Nursing Fit and Flair Dress Sleeve Length : Long Sleeves Pattern : Solid Net Quantity (N) : 1 Relaxed and fuss free Covered nursing & maternity dress- with a tie-up back for extra comfort and fit. The top flap allows for easy covered feeding without any clumsiness or embarassment. Made in 100% cotton, it drapes beautifully & feels light & breezy against your skin and the easy A-line fit ensures a flexible fit throughout your nine months. The flared cut makes it perfect for any occasion, from beach days to baby showers. Features : The center flap conceals discreet feeding access Below the flap is a discreet feeding access with overlapped fabric - No zips The fit is relaxed at the waist to accommodate changing sizes. The tie-up back allows for a fitted look in every size Pockets on both sides Fabric : 100% Cotton with lining Occasion : Ideal for social meet-ups Wash Care Instructions : Hand wash Model Specs : Height - 5'7 | Size - M Sizes : M (Bust Size : 38 in, Waist Size: 36 in) L (Bust Size : 40 in, Waist Size: 38 in) XXL (Bust Size : 44 in, Waist Size: 42 in) XXXL (Bust Size : 46 in, Waist Size: 44 in) Country of Origin : India More Information
-  Updated: 2025-10-07T09:07:55Z
+  Updated: 2025-10-12T12:58:10Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -21166,7 +21166,7 @@
     Availability: Available
     Price: ₹381.00 INR
 - [Beautiful Printed Work Party Wear Anarkali Kurta Women Gown](https://donedeals.xyz/products/beautiful-printed-work-party-wear-anarkali-kurta-women-gown): Product Details Name : Beautiful Printed Work Party Wear Anarkali Kurta Women Gown Fabric : Rayon Sleeve Length : Three-Quarter Sleeves Pattern : Printed Combo of : Single Sizes : S (Bust Size : 36 in, Size Length: 48 in) M (Bust Size : 38 in, Size Length: 48 in) L (Bust Size : 40 in, Size Length: 48 in) XL (Bust Size : 42 in, Size Length: 48 in) XXL (Bust Size : 44 in, Size Length: 48 in) XXXL (Bust Size : 46 in, Size Length: 48 in) Country of Origin : India More Information
-  Updated: 2025-10-07T09:06:43Z
+  Updated: 2025-10-12T12:56:22Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -21202,7 +21202,7 @@
     Availability: Available
     Price: ₹413.00 INR
 - [anata maroon pintext maternity kurti](https://donedeals.xyz/products/anata-maroon-pintext-maternity-kurti): Product Details Name : anata maroon pintext maternity kurti Fabric : Rayon Bottomwear Fabric : No Bottomwear Bottom Type : No Bottomwear Sleeve Length : Three-Quarter Sleeves Stitch Type : Stitched Fit/ Shape : Maternity Pattern : Printed Combo of : Single Dear Team, mahroon kurti ready to disptached on same day before eod Sizes : S (Bust Size : 36 in, Top Length Size: 15 in, Waist Size: 34 in, Bottom Length Size: 30 in) M (Bust Size : 38 in, Top Length Size: 15 in, Waist Size: 36 in, Bottom Length Size: 30 in) L (Bust Size : 40 in, Top Length Size: 15 in, Waist Size: 38 in, Bottom Length Size: 30 in) XL (Bust Size : 42 in, Top Length Size: 15 in, Waist Size: 40 in, Bottom Length Size: 30 in) XXL (Bust Size : 44 in, Top Length Size: 15 in, Waist Size: 42 in, Bottom Length Size: 30 in) XXXL (Bust Size : 46 in, Top Length Size: 15 in, Waist Size: 44 in, Bottom Length Size: 30 in) Country of Origin : India More Information
-  Updated: 2025-10-07T07:57:26Z
+  Updated: 2025-10-12T12:55:52Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -21263,7 +21263,7 @@
     Availability: Available
     Price: ₹455.00 INR
 - [Fashionable women cotton floral printed kurt\gown | Midi Maternity Dress/Feeding Dress/Pregnancy Dress/A-Line Western Dress with Zippers for Nursing Pre and Post Pregnancy - Floral Print/Feeding Kurti/Kurta](https://donedeals.xyz/products/fashionable-women-cotton-floral-printed-kurt-gown-midi-maternity-dress-feeding-dress-pregnancy-dress-a-line-western-dress-with-zippers-for-nursing-pre-and-post-pregnancy-floral-print-feeding-kurti-kurta): Product Details Name : Fashionable women cotton floral printed kurt\gown | Midi Maternity Dress/Feeding Dress/Pregnancy Dress/A-Line Western Dress with Zippers for Nursing Pre and Post Pregnancy - Floral Print/Feeding Kurti/Kurta Fabric : Cotton Bottomwear Fabric : No Bottomwear Bottom Type : No Bottomwear Sleeve Length : Three-Quarter Sleeves Stitch Type : Stitched Fit/ Shape : Maternity Pattern : Printed Combo of : Single For expectant and new mothers, this stylish women's cotton floral printed kurta/gown is the ideal balance of comfort and style. Its A-line profile design provides a comfortable fit and flexibility for both pregnancy and the postpartum period. The smooth, breathable cotton fabric guarantees all-day comfort, and the nursing-friendly zippers make feeding discreet and easy. It is appropriate for both special occasions and casual use because of the lovely floral print, which gives a touch of sophistication. Every contemporary mother should own this multipurpose item, which may be used as a maternity garment, feeding dress, or postpartum ensemble. Sizes : S, M, L, XL, XXL, XXXL Country of Origin : India More Information
-  Updated: 2025-10-07T09:10:31Z
+  Updated: 2025-10-12T13:09:39Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -21299,7 +21299,7 @@
     Availability: Available
     Price: ₹374.00 INR
 - [CLYMAA Womens Cotton Half Sleeves Robe/HouseCoat/Night/Maternity Gown with Pocket (CHC22245021DP) Maternity Dresses](https://donedeals.xyz/products/clymaa-womens-cotton-half-sleeves-robe-housecoat-night-maternity-gown-with-pocket-chc22245021dp-maternity-dresses): Product Details Name : CLYMAA Womens Cotton Half Sleeves Robe/HouseCoat/Night/Maternity Gown with Pocket (CHC22245021DP) Maternity Dresses Fabric : Cotton Sleeve Length : Short Sleeves Pattern : Printed Net Quantity (N) : 1 Fabric : Cotton Sleeve Length: Short Sleeves Pattern: Printed Net Quantity (N): 1 Sizes: XL (Bust Size: 50 in, Length Size: 54 in) XXL (Bust Size: 54 in, Length Size: 54 in) Fabric: Cotton Sleeve Length: Short Sleeves Pattern: Self-Design Multipack: 1 Sizes: XL (Bust Size: 50 in, Length Size: 54 in, Waist: 46 in, Hips: 48 inch) & XXL (Bust Size: 54 in, Length Size: 54 in, Waist: 48 in, Hips: 52 inch) Openable front can also be used for Robe/House Coat/Night Gown/ Maternity Gown and Multipurpose. Half sleeves Housecoat Garment measurement: XL (Bust Size: 50 in, Length Size: 54 in, Waist: 46 in, Hips: 48 inch) & XXL (Bust Size: 54 in, Length Size: 54 in, Waist: 48 in, Hips: 52 inch) (Fit for women who's Height 5 Feet 5 Inches to 5 Feet 8 Inches and Breast fit Bra size 36D to 42A and Hip 40 to 48 inches.){ Model Height : 5 Feet 7 Inches } Country of Origin: India Country of Origin: India Sizes : XL (Bust Size : 50 in, Length Size: 54 in) Country of Origin : India More Information
-  Updated: 2025-10-07T09:08:42Z
+  Updated: 2025-10-12T12:58:53Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -21353,7 +21353,7 @@
     Availability: Available
     Price: ₹399.00 INR
 - [B F Store Maternity and Feeding kurta Set For Women (Top & Bottom)](https://donedeals.xyz/products/b-f-store-maternity-and-feeding-kurta-set-for-women-top-bottom): Product Details Name : B F Store Maternity and Feeding kurta Set For Women (Top & Bottom) Fabric : Rayon Bottomwear Fabric : Rayon Bottom Type : Pants Sleeve Length : Three-Quarter Sleeves Stitch Type : Stitched Fit/ Shape : Maternity Pattern : Printed Combo of : Single The Design and Fabric of the product is Soft, Breathable & Comfortable. Quality of the product is our FIRST PRIORITY. Two Side Invisible Zip & Double Protection from backside of the Zip. Sizes : M (Bust Size : 38 in, Top Length Size: 32 in, Waist Size: 34 in, Bottom Length Size: 36 in) L (Bust Size : 40 in, Top Length Size: 32 in, Waist Size: 36 in, Bottom Length Size: 36 in) XL (Bust Size : 42 in, Top Length Size: 32 in, Waist Size: 38 in, Bottom Length Size: 36 in) XXL (Bust Size : 44 in, Top Length Size: 32 in, Waist Size: 40 in, Bottom Length Size: 36 in) Country of Origin : India More Information
-  Updated: 2025-10-07T07:57:47Z
+  Updated: 2025-10-12T12:56:04Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -21425,7 +21425,7 @@
     Availability: Available
     Price: ₹302.00 INR
 - [Bajarang Fashion Maternity and Feeding kurta For Women](https://donedeals.xyz/products/bajarang-fashion-maternity-and-feeding-kurta-for-women): Product Details Name : Bajarang Fashion Maternity and Feeding kurta For Women Fabric : Cotton Bottomwear Fabric : No Bottomwear Bottom Type : No Bottomwear Sleeve Length : Three-Quarter Sleeves Stitch Type : Stitched Fit/ Shape : Maternity Pattern : Printed Combo of : Single Bajarang Fashion Negen offers you a wide range of collection for women's apparels. This dress is made in 100% fine superior cotton. It features front and back gathers which make it perfect for your growing bump. This lightweight and fashionable maternity dress is handmade with durable and breathable cotton. This maternity dress can be used both during pregnancy and post pregnancy. This dress has a feeding option with Zip opening ( hidden ) on both side. This dress will not only keep you fresh, sweat-free and comfortable but also will help you look gorgeous and stylish throughout the day. A must-have item for all mums-to-be! Sizes : M (Bust Size : 38 in, Top Length Size: 46 in, Waist Size: 34 in, Bottom Length Size: 10 in) L (Bust Size : 40 in, Top Length Size: 46 in, Waist Size: 36 in, Bottom Length Size: 10 in) XL (Bust Size : 42 in, Top Length Size: 46 in, Waist Size: 38 in, Bottom Length Size: 10 in) XXL (Bust Size : 44 in, Top Length Size: 46 in, Waist Size: 40 in, Bottom Length Size: 10 in) Country of Origin : India More Information
-  Updated: 2025-10-07T07:57:46Z
+  Updated: 2025-10-12T12:56:04Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -21443,7 +21443,7 @@
     Availability: Available
     Price: ₹345.00 INR
 - [100% Cotton CLOTHYCORP Printed Feeding Kurti – Ultra Soft & Comfortable Maternity Wear with Hidden Zippers for Easy Nursing Stylish Ethnic Kurta for New Moms](https://donedeals.xyz/products/100-cotton-clothycorp-printed-feeding-kurti-ultra-soft-comfortable-maternity-wear-with-hidden-zippers-for-easy-nursing-stylish-ethnic-kurta-for-new-moms): Product Details Name : 100% Cotton CLOTHYCORP Printed Feeding Kurti – Ultra Soft & Comfortable Maternity Wear with Hidden Zippers for Easy Nursing Stylish Ethnic Kurta for New Moms Fabric : Rayon Bottomwear Fabric : No Bottomwear Bottom Type : No Bottomwear Sleeve Length : Three-Quarter Sleeves Stitch Type : Stitched Fit/ Shape : Maternity Pattern : Printed Combo of : Single Elegant 100% Cotton Pink Flower Maternity & Feeding Kurti – Designed for New Moms Who Deserve Comfort and Style Clothycorp presenting a maternity dresses whose are specially designed to be basic, fashionable but comfortable for all stages of pregnancy or daily wear after delivery. Feeding dresses are made from soft and pregnancy friendly comfortable rayon fabric for all pregnant mothers. High neck and 3/4 sleeve nursing dresses are designed with style and versatility in mind. These has smart discreet feeding access with 10-inch vertical concealed zipper. These Maxi maternity western wear are easy to pump & breastfeed. With flaps below the zips, it avoids irritation caused by zips brushing against your body. These solid pregnancy dresses are perfect for any occasions such as casual work, vacation, friends, party or family gathering etc.✨ Introduction – A Kurti That Understands Motherhood Motherhood is a beautiful journey filled with love, transformation, and constant nurturing. The Pink Flower Maternity and Feeding Kurti is crafted with that exact essence in mind. This kurti is not just clothing—it’s a companion for every expecting and new mother who seeks comfort, convenience, and grace in her daily wear. Whether you are in your second trimester or nursing your newborn, this elegant pink floral kurti adapts to your needs with elegance and softness. Made with 100% breathable c Sizes : M (Bust Size : 38 in, Top Length Size: 15 in, Waist Size: 34 in, Bottom Length Size: 30 in) L (Bust Size : 40 in, Top Length Size: 15 in, Waist Size: 36 in, Bottom Length Size: 30 in) XL (Bust Size : 42 in, Top Length Size: 15 in, Waist Size: 38 in, Bottom Length Size: 30 in) XXL (Bust Size : 44 in, Top Length Size: 15 in, Waist Size: 40 in, Bottom Length Size: 30 in) Country of Origin : India More Information
-  Updated: 2025-10-07T07:56:47Z
+  Updated: 2025-10-12T12:55:12Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -21461,7 +21461,7 @@
     Availability: Available
     Price: ₹340.00 INR
 - [HARDANI WOMENS PRINTED NIGHTDRESS - NIGHTY](https://donedeals.xyz/products/hardani-womens-printed-nightdress-nighty): Product Details Name : HARDANI WOMENS PRINTED NIGHTDRESS - NIGHTY Fabric : Satin Sleeve Length : Short Sleeves Pattern : Printed Net Quantity (N) : 1 Sizes : XXL (Bust Size : 44 in, Length Size: 57 in) Country of Origin : India More Information
-  Updated: 2025-10-07T09:12:45Z
+  Updated: 2025-10-12T13:20:30Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -21551,7 +21551,7 @@
     Availability: Available
     Price: ₹214.00 INR
 - [Fancy Embroidered Cotton Nighty Full Length | Night Wear| Sleep Wear For Women |Night Gown For Women Mustard](https://donedeals.xyz/products/fancy-embroidered-cotton-nighty-full-length-night-wear-sleep-wear-for-women-night-gown-for-women-mustard): Product Details Name : Fancy Embroidered Cotton Nighty Full Length | Night Wear| Sleep Wear For Women |Night Gown For Women Mustard Fabric : Cotton Sleeve Length : Short Sleeves Pattern : Printed Net Quantity (N) : 1 Add ons : No Add Ons Sizes : XL (Bust Size : 42 in, Length Size: 55 in) XXL (Bust Size : 48 in, Length Size: 55 in) Elevate your sleepwear with our Classic Short Sleeves Nightdress for Girls and Women. Crafted for comfort and style, this nightdress features a timeless design with delicate prints, offering a perfect blend of elegance and simplicity. The short sleeves provide a breathable feel, ensuring a restful night's sleep. Made from high-quality fabric, it's soft on the skin, making it an ideal choice for a cozy and relaxing bedtime experience. Embrace both comfort and sophistication with this essential nightwear piece |Short Sleeves Nightwear | Printed Sleepwear Night Dress | Girls and Women Nightwear | Comfortable Sleep Dress | Nightdress for Women | Cotton Nightdress | Nightsuit For Girls | Stylish Cotton Nightdress | nighty women cotton | nighty | nightdress | nightsuit for women | nightsuit | nightdress for women | winter nightsuit for women Country of Origin : India More Information
-  Updated: 2025-10-07T09:10:19Z
+  Updated: 2025-10-12T13:04:39Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -21641,7 +21641,7 @@
     Availability: Available
     Price: ₹235.00 INR
 - [Cinco women cotton nighty nightdress nighty self design nighty](https://donedeals.xyz/products/cinco-women-cotton-nighty-nightdress-nighty-self-design-nighty): Product Details Name : Cinco women cotton nighty nightdress nighty self design nighty Add ons : Robe Brand : CINCO Color : Aqua Blue Fabric : Cotton Fit/Type : Dress Length : Maxi Neck : Round Neck Net Quantity (N) : 1 Occassion : Everyday Pattern : Printed Pockets : 1 Print or Pattern Type : Floral Sleeve Length : Sleeveless Surface Styling : Pleated Or Gathered Sizes : L (Bust Size : 34 in, Waist Size: 32 in, Hip Size: 42 in, Length Size: 48 in) XL (Bust Size : 34 in, Waist Size: 32 in, Hip Size: 42 in, Length Size: 48 in) XXL (Bust Size : 34 in, Waist Size: 32 in, Hip Size: 42 in, Length Size: 48 in) Country of Origin : India More Information
-  Updated: 2025-10-07T09:07:56Z
+  Updated: 2025-10-12T12:58:22Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -21745,7 +21745,7 @@
     Availability: Available
     Price: ₹238.00 INR
 - [Come 4 Try Satin Nighty Full Length 2 Pieces Nighty (2 pcs Set of Nighty Pyjama Top Nighty, wrap Gown ) | Night Wear| Sleep Wear for Women (Free-Size 28 to 36 Regular)](https://donedeals.xyz/products/come-4-try-satin-nighty-full-length-2-pieces-nighty-2-pcs-set-of-nighty-pyjama-top-nighty-wrap-gown-night-wear-sleep-wear-for-women-free-size-28-to-36-regular): Product Details Name : Come 4 Try Satin Nighty Full Length 2 Pieces Nighty (2 pcs Set of Nighty Pyjama Top Nighty, wrap Gown ) | Night Wear| Sleep Wear for Women (Free-Size 28 to 36 Regular) Fabric : Satin Sleeve Length : Sleeveless Pattern : Solid Net Quantity (N) : 1 Add ons : Robe Sizes : S, M (Bust Size : 32 in, Length Size: 54 in) L (Bust Size : 34 in, Length Size: 54 in) XL, XXL, Free Size (Bust Size : 36 in, Length Size: 54 in) Comfortable Feel to wear. This Nightwear is Cozy, Light Weight and made of the Soft Fabric, which can be used as Nightwear. Country of Origin : India More Information
-  Updated: 2025-10-07T09:08:42Z
+  Updated: 2025-10-12T12:59:07Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -22065,7 +22065,7 @@
     Availability: Available
     Price: ₹253.00 INR
 - [100 % Pure Cotton Leaf Printed Sanganeri Maxi For Women/ Floral Printed/ Maxi for Women/Free Size Maxi/Floral Printed Maxi](https://donedeals.xyz/products/100-pure-cotton-leaf-printed-sanganeri-maxi-for-women-floral-printed-maxi-for-women-free-size-maxi-floral-printed-maxi): Product Details Name : 100 % Pure Cotton Leaf Printed Sanganeri Maxi For Women/ Floral Printed/ Maxi for Women/Free Size Maxi/Floral Printed Maxi Fabric : Cotton Sleeve Length : Short Sleeves Pattern : Printed Net Quantity (N) : 1 Add ons : No Add Ons Sizes : M, XL, XXL, Free Size (Bust Size : 44 in, Length Size: 50 in) Fabric & Material Details : Made from premium quality, breathable cotton fabric this nightgown is gentle on the skin and ideal for year round wear. The cotton material is pre-shrunk, we have provided zip up style for easy wear. Print Style: Its Rajasthani print style will give you an eye-catching look at home and bedroom. Its floral print is very attractive. Color & Pattern: A vibrant shade of eye-catching color, this nightgown radiates warmth and vibrancy. The bold color palette is accentuated by traditional ethnic motifs Length & Fit: The floor-length silhouette allows free movement, making it an excellent choice for comfort. This one-size design suits a variety of body types, ensuring that everyone can enjoy its beauty and utility. Fabric Care: - Gently machine wash with mild detergent. Wash with similar colored clothes to prevent color fading or fading. Iron on low to medium setting to protect delicate detailing. Avoid using harsh chemicals or bleach. Why choose this product? Whether you are looking for comfort or pregnancy. This is a beautiful night gown made of high quality cotton fabric. Its stitching quality is very good. Its print quality is very good. Its length and fitting will keep you comfortable always. This cotton maxi and night gown is within your budget. Country of Origin : India More Information
-  Updated: 2025-10-07T07:56:47Z
+  Updated: 2025-10-12T12:55:12Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -22155,7 +22155,7 @@
     Availability: Available
     Price: ₹205.00 INR
 - [Girls Trendy Fashionable Stylish Full Length Lase Palazzo For Women](https://donedeals.xyz/products/girls-trendy-fashionable-stylish-full-length-lase-palazzo-for-women): Product Details Name : Girls Trendy Fashionable Stylish Full Length Lase Palazzo For Women Fabric : Cotton Blend Pattern : Solid Net Quantity (N) : 1 Introducing the charming Palazzo by SMS_GARMENT, a must-have for every fashion-forward wardrobe. Crafted from high-quality Rayon fabric, these palazzos promise ultimate comfort and a luxurious feel. The classic pleated design enhances the elegance of this attire, making it suitable for various occasions. Adorned with exquisite floral print work, these palazzos bring a touch of femininity and charm to your ensemble. Girls Cute Stylish Lace Palazzo - Perfect for young girls who love to flaunt their style, this palazzo is designed with intricate lace detailing at the hem, adding a sophisticated flair to the overall look. The lightweight and breathable fabric ensure ease of movement, making it ideal for active kids. Women Full Length Palazzo - For women who appreciate both style and comfort, this full-length palazzo offers a versatile addition to your closet. The beautiful floral prints and pleated design make it a standout piece, suitable for both casual outings and semi-formal events. Pair these palazzos with your favorite tops and accessories for a chic and polished look. Elevate your fashion game with SMS_GARMENT’s palazzo, designed to make you look effortlessly stylish and feel incredibly comfortable. Whether it's for a day out with friends or a special occasion, these palazzos are sure to make a statement. Feel free to let me know if you'd like any adjustments or further Sizes : XS, S, M, L, XL, XXL, Free Size Country of Origin : India More Information
-  Updated: 2025-10-07T09:11:56Z
+  Updated: 2025-10-12T13:07:06Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -22396,7 +22396,7 @@
     Availability: Available
     Price: ₹211.00 INR
 - [Elegant Modern Women Palazzos](https://donedeals.xyz/products/elegant-modern-women-palazzos): Product Details Name : Elegant Modern Women Palazzos Fabric : Lycra Pattern : Self-Design Net Quantity (N) : 2 Sizes : XS, S, M, L, XL, XXL Country of Origin : India More Information
-  Updated: 2025-10-07T09:10:06Z
+  Updated: 2025-10-12T13:03:25Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -22414,7 +22414,7 @@
     Availability: Available
     Price: ₹244.00 INR
 - [Gorgeous Modern Women Palazzos](https://donedeals.xyz/products/gorgeous-modern-women-palazzos): Product Details Name : Gorgeous Modern Women Palazzos Fabric : Acrylic Pattern : Solid Net Quantity (N) : 1 Sizes : 30 (Waist Size : 30 in, Length Size: 32 in) 32, 34, 36 Country of Origin : India More Information
-  Updated: 2025-10-07T09:12:21Z
+  Updated: 2025-10-12T13:11:39Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -22432,7 +22432,7 @@
     Availability: Available
     Price: ₹197.00 INR
 - [Casual Feminine Women Palazzos](https://donedeals.xyz/products/casual-feminine-women-palazzos): Product Details Name : Casual Feminine Women Palazzos Fabric : Sarina Pattern : Printed Net Quantity (N) : 1 High in trend, this palazzo pants from the storehouse of RMG FASHION will become one of your favorites this season. Club this with your favorite top and step out in a casual yet classy look. Palazzo pants are the trendy alternative to uncomfortable jeans this season. It will surely make you an eye catcher among your friends. Sizes : 28 (Waist Size : 28 in, Length Size: 38 in) 30 (Waist Size : 30 in, Length Size: 38 in) 32 (Waist Size : 32 in, Length Size: 38 in) 34 (Waist Size : 34 in, Length Size: 38 in) 36 (Waist Size : 36 in, Length Size: 38 in) 38 (Waist Size : 38 in, Length Size: 38 in) Free Size (Waist Size : 39 in, Length Size: 38 in) Country of Origin : India More Information
-  Updated: 2025-10-07T09:07:31Z
+  Updated: 2025-10-12T12:57:33Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -22558,7 +22558,7 @@
     Availability: Available
     Price: ₹403.00 INR
 - [Grils Super Stylish Trendy Cute White Palazzo For Women](https://donedeals.xyz/products/grils-super-stylish-trendy-cute-white-palazzo-for-women): Product Details Name : Grils Super Stylish Trendy Cute White Palazzo For Women Fabric : Rayon Pattern : Solid Net Quantity (N) : 1 Sizes : S, M, L, XL, XXL, Free Size Country of Origin : India More Information
-  Updated: 2025-10-07T09:12:21Z
+  Updated: 2025-10-12T13:07:34Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -22576,7 +22576,7 @@
     Availability: Available
     Price: ₹236.00 INR
 - [( combo of 2 ) Premium full ankle length knit textured febric Woolen palazzo for winters beige and black](https://donedeals.xyz/products/combo-of-2-premium-full-ankle-length-knit-textured-febric-woolen-palazzo-for-winters-beige-and-black): Product Details Name : ( combo of 2 ) Premium full ankle length knit textured febric Woolen palazzo for winters beige and black Fabric : Wool Pattern : Solid Net Quantity (N) : 2 palazzo set palasa palazzo kurti palaza palaju palajo kurti set palakka mala lower baniyan lower lower t shirt lower for kids lower for man combo lower for men summer lower tshirt for women set pants shirt pant sets for women pant panting brush pant shirt kurti pant wale suit pant shirts trousers for girls combo trouser for mens trouser pant trouser trousers for women under 200 trouser top trouser wale suit palazzo set palazzokurti palazzo palazzo suit palazzo women palazzo set dupatta palazzo frock palazzo pant combo palazzo pants combo for women palazzo pants set palazzo pants white palazzo pants for girl palazzo pants combo palazzo pant cotton combo palazzo combo palazzo set combo palazzo pants for women palazzos combo palazzos combo offer palazzo combos palazzo combo palazzo combo for women cotton palazzo combo palazzo combo cotton palazzo combo set palazzo combo for women palazzo combo pack of 6 palazzo combo pack ribbed dress ribbed trousers ribbed pants for women ribbed open back dori top ribbed dress for women ribbed open back cross top ribbed pants women palazzo set women palazzo combo women palazzo women palazzo jeans women palazzo pants combo women palazzo pant women palazzos women palazzo kurti set women palazzo pants Sizes : S, M, L, XL Country of Origin : India More Information
-  Updated: 2025-10-07T07:56:46Z
+  Updated: 2025-10-12T12:55:12Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -22594,7 +22594,7 @@
     Availability: Available
     Price: ₹591.00 INR
 - [BIG MINISTER Women’s Pleated Palazzo Pants – High Waist, Flowy & Comfortable Bottomwear for Women and Girls ( DARK GREEN)](https://donedeals.xyz/products/big-minister-women-s-pleated-palazzo-pants-high-waist-flowy-comfortable-bottomwear-for-women-and-girls-dark-green): Product Details Name : BIG MINISTER Women’s Pleated Palazzo Pants – High Waist, Flowy & Comfortable Bottomwear for Women and Girls ( DARK GREEN) Fabric : Chiffon Pattern : Textured Net Quantity (N) : 1 Step into effortless style and comfort with the BIG MINISTER Women’s Pleated Palazzo Pants. Designed with soft, breathable fabric and a flattering flowy fit, these palazzos are perfect for both casual outings and lounge days. The elegant pleated design adds a touch of sophistication, while the elastic waistband ensures all-day comfort. Pair them with a crop top, kurti, or shirt for a chic and versatile look. Sizes : Free Size Country of Origin : India More Information
-  Updated: 2025-10-07T09:06:41Z
+  Updated: 2025-10-12T12:56:45Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -22612,7 +22612,7 @@
     Availability: Available
     Price: ₹194.00 INR
 - [Girls Cute trendy Fashionable Stylish Full Length Palazzo Set For Women](https://donedeals.xyz/products/girls-cute-trendy-fashionable-stylish-full-length-palazzo-set-for-women): Product Details Name : Girls Cute trendy Fashionable Stylish Full Length Palazzo Set For Women Fabric : Cotton Blend Pattern : Printed Net Quantity (N) : 1 Girls Cute Stylish Palazzo Set by SMS_COLLECTION Introducing the Girls Cute Stylish Palazzo Set by SMS_COLLECTION, a perfect blend of elegance and comfort designed for both young girls and women. Crafted from high-quality Cotton Blend Fabric, this palazzo set ensures a soft and breathable feel, making it ideal for all-day wear. Whether for casual outings, festive occasions, or family gatherings, this set offers the perfect combination of style and practicality. This Women Lace Palazzo Set features a classic full-length design, providing a graceful and sophisticated look. The intricate lace detailing at the hem adds a touch of femininity and elegance, making it a standout piece in any wardrobe. The breathable fabric ensures maximum comfort, allowing for effortless movement while maintaining a stylish silhouette. The Women Full-Length Lace Palazzo Set is designed with an elastic waistband, ensuring a secure and adjustable fit. The flowing design elongates the legs, creating a flattering appearance that enhances the overall charm of the outfit. Whether paired with a stylish top and heels for a polished look or dressed down with a casual tee and flats, this palazzo set is versatile and fashionable. Additionally, this Girls Cute Stylish Palazzo Set is perfect for those who appreciate both comfort and sophistication. The lightweight fabric ensures breathability, keeping you cool and Sizes : XS, S, M, L, XL, XXL Country of Origin : India More Information
-  Updated: 2025-10-07T09:11:56Z
+  Updated: 2025-10-12T13:07:00Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -22702,7 +22702,7 @@
     Availability: Available
     Price: ₹387.00 INR
 - [FIORRA Women's Teal Green Cotton Solid Palazzo](https://donedeals.xyz/products/fiorra-womens-teal-green-cotton-solid-palazzo): Product Details Name : FIORRA Women's Teal Green Cotton Solid Palazzo Fabric : Rayon Pattern : Solid Net Quantity (N) : 1 FIORRA Teal Green Palazzo Pants are tailored from soft, breathable Rayon, ensuring effortless elegance and comfort. With their wide-leg silhouette and flattering fit, they are ideal for both relaxed outings and polished semi-formal settings. Sizes : S, M, L, XL, XXL Country of Origin : India More Information
-  Updated: 2025-10-07T09:11:11Z
+  Updated: 2025-10-12T13:05:49Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -22756,7 +22756,7 @@
     Availability: Available
     Price: ₹313.00 INR
 - [4k Palazzo](https://donedeals.xyz/products/4k-palazzo): Product Details Name : 4k Palazzo Fabric : Khadi Cotton Pattern : Solid Net Quantity (N) : 2 Sizes : S, M, L, XL, XXL Country of Origin : India More Information
-  Updated: 2025-10-07T07:56:47Z
+  Updated: 2025-10-12T12:55:12Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -22774,7 +22774,7 @@
     Availability: Available
     Price: ₹377.00 INR
 - [(COMBO OF 2) HEAVY FU`LL LENGTH RIBBED KNIT TEXTURE FEBRIC PALAZZO PANTS CREAM AND BLACK](https://donedeals.xyz/products/combo-of-2-heavy-fu-ll-length-ribbed-knit-texture-febric-palazzo-pants-cream-and-black): Product Details Name : (COMBO OF 2) HEAVY FU`LL LENGTH RIBBED KNIT TEXTURE FEBRIC PALAZZO PANTS CREAM AND BLACK Fabric : Viscose Rayon Pattern : Solid Net Quantity (N) : 2 palazzo set palazzo kurti palazzo palazzo suit palazzo women palazzo set dupatta palazzo frock palazzo pant combo palazzo pants combo for women palazzo pants set palazzo pants white palazzo pants for girl palazzo pants combo palazzo pant cotton combo palazzo combo palazzo set combo palazzo pants for women palazzos combo palazzos combo offer palazzo combos palazzo combo palazzo combo for women cotton palazzo combo palazzo combo cotton palazzo combo set palazzo combo for women palazzo combo pack of 6 palazzo combo pack ribbed dress ribbed trousers ribbed pants for women ribbed open back dori top ribbed dress for women ribbed open back cross top ribbed pants women palazzo set women palazzo combo women palazzo women palazzo jeans women palazzo pants combo women palazzo pant women palazzos women palazzo kurti set women palazzo pants Sizes : S, M, L Country of Origin : India More Information
-  Updated: 2025-10-07T07:56:47Z
+  Updated: 2025-10-12T12:55:12Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -22900,7 +22900,7 @@
     Availability: Available
     Price: ₹381.00 INR
 - [Designer Modern Women Western Skirts](https://donedeals.xyz/products/designer-modern-women-western-skirts): Product Details Name : Designer Modern Women Western Skirts Fabric : Crepe Pattern : Printed Net Quantity (N) : 1 Sizes : 24 (Waist Size : 24 in, Length Size: 18 in, Hip Size: 32 in) 26 (Waist Size : 26 in, Length Size: 18 in, Hip Size: 34 in) 28 (Waist Size : 28 in, Length Size: 18 in, Hip Size: 36 in) 30 (Waist Size : 30 in, Length Size: 18 in, Hip Size: 38 in) 32 (Waist Size : 32 in, Length Size: 18 in, Hip Size: 40 in) Country of Origin : India More Information
-  Updated: 2025-10-07T09:09:36Z
+  Updated: 2025-10-12T13:01:31Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -22918,7 +22918,7 @@
     Availability: Available
     Price: ₹203.00 INR
 - [Girl High Waist Skirt Short Skater Tennis Skirt Mini Skirt Women Skirt for Girls Women Stylish Long Skirt for Women Stylish Women's Above Knee Skirt Name: Girl High Waist Skirt Short Skater Tennis Skirt Mini Skirt Women Skirt](https://donedeals.xyz/products/girl-high-waist-skirt-short-skater-tennis-skirt-mini-skirt-women-skirt-for-girls-women-stylish-long-skirt-for-women-stylish-womens-above-knee-skirt-name-girl-high-waist-skirt-short-skater-tennis-skirt-mini-skirt-women-skirt): Product Details Name : Girl High Waist Skirt Short Skater Tennis Skirt Mini Skirt Women Skirt for Girls Women Stylish Long Skirt for Women Stylish Women's Above Knee Skirt Name: Girl High Waist Skirt Short Skater Tennis Skirt Mini Skirt Women Skirt Fabric : Cotton Blend Pattern : Solid Net Quantity (N) : 1 Girl High Waist Skirt Short Skater Tennis Skirt Mini Skirt Women Skirt for Girls Women Stylish Long Skirt for Women Stylish Women's Above Knee Skirt Name : Girl High Waist Skirt Short Skater Tennis Skirt Mini Skirt Women Skirt Sizes : 26 (Waist Size : 26 in, Length Size: 18 in, Hip Size: 28 in) 28 (Waist Size : 28 in, Length Size: 18 in, Hip Size: 30 in) 30 (Waist Size : 30 in, Length Size: 18 in, Hip Size: 32 in) 32 (Waist Size : 32 in, Length Size: 18 in, Hip Size: 34 in) 34 (Waist Size : 34 in, Length Size: 18 in, Hip Size: 36 in) Country of Origin : India More Information
-  Updated: 2025-10-07T09:11:56Z
+  Updated: 2025-10-12T13:19:41Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -22972,7 +22972,7 @@
     Availability: Available
     Price: ₹248.00 INR
 - [Fashionable Western Skirts for Women | High Waist Skater Mini Skirt | Trendy Short Skirt for Girls | Stylish Above Knee Skirt | Party & Casual Wear](https://donedeals.xyz/products/fashionable-western-skirts-for-women-high-waist-skater-mini-skirt-trendy-short-skirt-for-girls-stylish-above-knee-skirt-party-casual-wear): Product Details Name : Fashionable Western Skirts for Women | High Waist Skater Mini Skirt | Trendy Short Skirt for Girls | Stylish Above Knee Skirt | Party & Casual Wear Fabric : Cotton Pattern : Solid Net Quantity (N) : 1 Stay on-trend with our Fashionable High-Waist Western Skirt, designed to offer a perfect blend of comfort, charm, and modern appeal. This skater mini skirt is ideal for girls and women who love to dress stylishly for every occasion—be it a casual day out, college, parties, or social events. Crafted from soft, breathable fabric with a flattering high-waist fit, the skirt enhances your silhouette while allowing easy movement. The above-knee length and flowy hemline add a playful and youthful touch to your outfit. Pair it with crop tops, tucked-in shirts, or oversized tees to create multiple looks effortlessly. | Western Skirt for Women | High Waist Skirt | Skater Mini Skirt | Short Skirt for Girls | Above Knee Skirt | Party Wear Skirt | Casual Skirt for Women | Trendy Skirt for Girls | Mini Skirt for Teens | Stylish Western Bottom wear | Women’s Fashion Skirt | Sizes : 26 (Waist Size : 26 in, Length Size: 15 in, Hip Size: 32 in) 28 (Waist Size : 28 in, Length Size: 16 in, Hip Size: 34 in) 30 (Waist Size : 30 in, Length Size: 17 in, Hip Size: 36 in) 32 (Waist Size : 32 in, Length Size: 18 in, Hip Size: 38 in) 34 (Waist Size : 34 in, Length Size: 19 in, Hip Size: 40 in) Country of Origin : India More Information
-  Updated: 2025-10-07T09:10:32Z
+  Updated: 2025-10-12T13:12:35Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -22990,7 +22990,7 @@
     Availability: Available
     Price: ₹214.00 INR
 - [Fashionable Modern Women Western Skirts](https://donedeals.xyz/products/fashionable-modern-women-western-skirts): Product Details Name : Fashionable Modern Women Western Skirts Fabric : Cotton Blend Pattern : Printed Net Quantity (N) : 1 Sizes : 24 (Waist Size : 24 in, Length Size: 18 in, Hip Size: 32 in) 26 (Waist Size : 26 in, Length Size: 18 in, Hip Size: 34 in) 28 (Waist Size : 28 in, Length Size: 18 in, Hip Size: 36 in) 30 (Waist Size : 30 in, Length Size: 18 in, Hip Size: 38 in) 32 (Waist Size : 32 in, Length Size: 18 in, Hip Size: 40 in) Country of Origin : India More Information
-  Updated: 2025-10-07T09:10:34Z
+  Updated: 2025-10-12T13:05:17Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -23062,7 +23062,7 @@
     Availability: Available
     Price: ₹267.00 INR
 - [Black Formal Skirt for Women](https://donedeals.xyz/products/black-formal-skirt-for-women): Product Details Name : Black Formal Skirt for Women Fabric : Polycotton Pattern : Solid Net Quantity (N) : 1 "Purple Feather"Knee Length Black Formal Pencil Skirt with Zip closure at the back with Button and Elastic Waistband for extra comfort Sizes : 28 (Waist Size : 28 in, Length Size: 26 in, Hip Size: 30 in) 30 (Waist Size : 30 in, Length Size: 26 in, Hip Size: 32 in) 32 (Waist Size : 32 in, Length Size: 26 in, Hip Size: 34 in) 34 (Waist Size : 34 in, Length Size: 26 in, Hip Size: 36 in) 36 (Waist Size : 36 in, Length Size: 26 in, Hip Size: 38 in) 38 (Waist Size : 38 in, Length Size: 26 in, Hip Size: 40 in) 40 (Waist Size : 40 in, Length Size: 26 in, Hip Size: 42 in) 42 (Waist Size : 42 in, Length Size: 26 in, Hip Size: 44 in) 44 (Waist Size : 32 in, Length Size: 32 in, Hip Size: 32 in) Country of Origin : India More Information
-  Updated: 2025-10-07T09:06:42Z
+  Updated: 2025-10-12T12:56:55Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -23134,7 +23134,7 @@
     Availability: Available
     Price: ₹250.00 INR
 - [Brush Print Pleated Skirts, Vintage Elastic Waist Midi Skirts, Women's Clothing(Premium Quality)](https://donedeals.xyz/products/brush-print-pleated-skirts-vintage-elastic-waist-midi-skirts-womens-clothingpremium-quality): Product Details Name : Brush Print Pleated Skirts, Vintage Elastic Waist Midi Skirts, Women's Clothing(Premium Quality) Fabric : Crepe Pattern : Printed Net Quantity (N) : 1 The skirt features a comfortably elastic waistline with an elastic band, a pleated design, and a swing A-line hemline. It includes a lining layer, adding to its beauty and elegance. This midi skirt, with its pleated and flared A-line design, is versatile and suitable for various occasions, including work, shopping, the beach, parties, vacations, dates, weddings and formal events. Its timeless printed pattern ensures it never goes out of style, making it easy to pair. This skirt is suitable for spring, autumn, and winter. Don't miss out on adding this charming and comfortable skirt to your wardrobe. Sizes : 28 (Waist Size : 28 in, Length Size: 32 in, Hip Size: 30 in) 30 (Waist Size : 30 in, Length Size: 32 in, Hip Size: 32 in) 32 (Waist Size : 32 in, Length Size: 32 in, Hip Size: 34 in) 34 (Waist Size : 34 in, Length Size: 32 in, Hip Size: 36 in) Country of Origin : India More Information
-  Updated: 2025-10-07T09:07:31Z
+  Updated: 2025-10-12T12:57:22Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -23278,7 +23278,7 @@
     Availability: Available
     Price: ₹278.00 INR
 - [Frill Skirt || Skirt For Women || Skirt For Girl || Frill Skirt For Women](https://donedeals.xyz/products/frill-skirt-skirt-for-women-skirt-for-girl-frill-skirt-for-women): Product Details Name : Frill Skirt || Skirt For Women || Skirt For Girl || Frill Skirt For Women Fabric : Crepe Pattern : Printed Net Quantity (N) : 1 Frill Skirt || Skirt For Women || Skirt For Girl || Frill Skirt For Women Sizes : 28 (Waist Size : 28 in, Length Size: 32 in, Hip Size: 30 in) 30 (Waist Size : 30 in, Length Size: 33 in, Hip Size: 32 in) 32 (Waist Size : 32 in, Length Size: 34 in, Hip Size: 34 in) 34 (Waist Size : 34 in, Length Size: 35 in, Hip Size: 36 in) Country of Origin : India More Information
-  Updated: 2025-10-07T09:11:31Z
+  Updated: 2025-10-12T13:12:40Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -23296,7 +23296,7 @@
     Availability: Available
     Price: ₹294.00 INR
 - [Grey gingham high low skirt for women and girls](https://donedeals.xyz/products/grey-gingham-high-low-skirt-for-women-and-girls): Product Details Name : Grey gingham high low skirt for women and girls Fabric : Cotton Blend Pattern : Printed Net Quantity (N) : 1 Sizes : 28 (Waist Size : 28 in, Hip Size: 34 in) 30 (Waist Size : 30 in, Hip Size: 36 in) 32 (Waist Size : 32 in, Hip Size: 38 in) 34 (Waist Size : 34 in, Hip Size: 40 in) Country of Origin : India More Information
-  Updated: 2025-10-07T09:12:22Z
+  Updated: 2025-10-12T13:11:41Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -23404,7 +23404,7 @@
     Availability: Available
     Price: ₹435.00 INR
 - [BODYFIGURE Women's Long Wrap Around Maxi Skirt | Women Wear Long Wrap Skirt | Wrap Around Sarong Ladies Skirt (Floral Black)](https://donedeals.xyz/products/bodyfigure-womens-long-wrap-around-maxi-skirt-women-wear-long-wrap-skirt-wrap-around-sarong-ladies-skirt-floral-black): Product Details Name : BODYFIGURE Women's Long Wrap Around Maxi Skirt | Women Wear Long Wrap Skirt | Wrap Around Sarong Ladies Skirt (Floral Black) Fabric : Crepe Pattern : Printed Net Quantity (N) : 1 This skirt is great to match with tank top, shirt, high heels for all seasons, This skirt is perfect for both casual and formal occasions, daily, party, cocktail, wedding, travel, holiday, dating, work, office, beach wear, etc., Simple fashion solid-colored design, will never out of date. The skirt is suitable for spring, summer and autumn,easy to match all kinds of tops. Sizes : 44 (Waist Size : 26 in, Hip Size: 26 in) S (Waist Size : 30 in, Length Size: 36 in, Hip Size: 32 in) M (Waist Size : 32 in, Length Size: 36 in, Hip Size: 32 in) L (Waist Size : 34 in, Length Size: 36 in, Hip Size: 32 in) XL (Waist Size : 36 in, Length Size: 36 in, Hip Size: 32 in) XXL (Waist Size : 38 in, Length Size: 36 in, Hip Size: 32 in) Country of Origin : India More Information
-  Updated: 2025-10-07T09:07:18Z
+  Updated: 2025-10-12T12:57:07Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -23447,7 +23447,7 @@
     Availability: Available
     Price: ₹218.00 INR
 - [BORDER BUTI PRINT SKIRT](https://donedeals.xyz/products/border-buti-print-skirt): Product Details Name : BORDER BUTI PRINT SKIRT Fabric : Rayon Pattern : Printed Net Quantity (N) : 1 Sizes : 24 (Waist Size : 24 in, Length Size: 40 in, Hip Size: 26 in) 26 (Waist Size : 26 in, Length Size: 40 in, Hip Size: 28 in) 28 (Waist Size : 28 in, Length Size: 40 in, Hip Size: 30 in) 30 (Waist Size : 30 in, Length Size: 40 in, Hip Size: 32 in) 32 (Waist Size : 32 in, Length Size: 40 in, Hip Size: 34 in) 34 (Waist Size : 34 in, Length Size: 40 in, Hip Size: 36 in) 36 (Waist Size : 36 in, Length Size: 40 in, Hip Size: 38 in) 38 (Waist Size : 38 in, Length Size: 40 in, Hip Size: 40 in) 40 (Waist Size : 40 in, Length Size: 40 in, Hip Size: 42 in) 42 (Waist Size : 42 in, Length Size: 40 in, Hip Size: 44 in) 44 (Waist Size : 44 in, Length Size: 40 in, Hip Size: 46 in) 46 (Waist Size : 46 in, Length Size: 40 in, Hip Size: 48 in) Country of Origin : India More Information
-  Updated: 2025-10-07T09:07:17Z
+  Updated: 2025-10-12T12:57:22Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -23483,7 +23483,7 @@
     Availability: Available
     Price: ₹287.00 INR
 - [Chandrawat Jaipuri Printed Cotton free size skirt for women girls](https://donedeals.xyz/products/chandrawat-jaipuri-printed-cotton-free-size-skirt-for-women-girls): Product Details Name : Chandrawat Jaipuri Printed Cotton free size skirt for women girls Fabric : Cotton Pattern : Printed Net Quantity (N) : 1 Women's Free Size Beautiful Skirts can wear any season , occasionally, casually , festival , birthday, etc. Sizes : Free Size (Waist Size : 30 in, Hip Size: 36 in) Country of Origin : India More Information
-  Updated: 2025-10-07T09:07:56Z
+  Updated: 2025-10-12T12:58:07Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -23572,6 +23572,114 @@
   - [XL](https://donedeals.xyz/products/skirt-for-womens-tennis-skirt-black-skirt-girls-casual-skirt-party-wear-skirt-solid-color-skirt-girls-skater-skirt-new-skirt-trendy-skirt?variant=43671285497907)
     Availability: Available
     Price: ₹305.00 INR
+- [COSOVO Trendy Ravishing Men Shirts](https://donedeals.xyz/products/cosovo-trendy-ravishing-men-shirts): Product Details Name : COSOVO Trendy Ravishing Men Shirts Fabric : Cotton Sleeve Length : Long Sleeves Pattern : Striped Net Quantity (N) : 1 Sizes : S (Chest Size : 37 in, Length Size: 28 in) M (Chest Size : 39 in, Length Size: 28.5 in) L (Chest Size : 41 in, Length Size: 29 in) XL (Chest Size : 43 in, Length Size: 29.5 in) XXL (Chest Size : 45 in, Length Size: 30 in) THIS STRIPED SHIRT GOES WELL WITH FORMAL AND CASUAL LOOKS. WHETHER YOU ARE IN HOUSE PARTY OR OUTSIDE FOR WORK, IT COMPLIMENTS YOUR STYLE Country of Origin : India More Information
+  Updated: 2025-10-12T13:00:04Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/hucoe_512.webp?v=1759829719
+  - [S](https://donedeals.xyz/products/cosovo-trendy-ravishing-men-shirts?variant=43671630610483)
+    Availability: Available
+    Price: ₹279.00 INR
+  - [M](https://donedeals.xyz/products/cosovo-trendy-ravishing-men-shirts?variant=43671630643251)
+    Availability: Available
+    Price: ₹279.00 INR
+  - [L](https://donedeals.xyz/products/cosovo-trendy-ravishing-men-shirts?variant=43671630676019)
+    Availability: Available
+    Price: ₹279.00 INR
+  - [XL](https://donedeals.xyz/products/cosovo-trendy-ravishing-men-shirts?variant=43671630708787)
+    Availability: Available
+    Price: ₹279.00 INR
+- [Classic Retro Men Shirts](https://donedeals.xyz/products/classic-retro-men-shirts): Product Details Name : Classic Retro Men Shirts Fabric : Cotton Blend Sleeve Length : Long Sleeves Pattern : Striped Net Quantity (N) : 1 Sizes : S (Chest Size : 38 in, Length Size: 27 in) M (Chest Size : 40 in, Length Size: 28 in) L (Chest Size : 42 in, Length Size: 29 in) XL (Chest Size : 44 in, Length Size: 30 in) XXL (Chest Size : 45 in, Length Size: 29 in) Country of Origin : India More Information
+  Updated: 2025-10-12T12:58:38Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/h1dwu_512.webp?v=1759829728
+  - [S](https://donedeals.xyz/products/classic-retro-men-shirts?variant=43671630741555)
+    Availability: Available
+    Price: ₹293.00 INR
+  - [M](https://donedeals.xyz/products/classic-retro-men-shirts?variant=43671630774323)
+    Availability: Available
+    Price: ₹293.00 INR
+  - [L](https://donedeals.xyz/products/classic-retro-men-shirts?variant=43671630807091)
+    Availability: Available
+    Price: ₹293.00 INR
+  - [XL](https://donedeals.xyz/products/classic-retro-men-shirts?variant=43671630839859)
+    Availability: Available
+    Price: ₹293.00 INR
+- [BLAZSTAR COTTON CHECK SHIRT](https://donedeals.xyz/products/blazstar-cotton-check-shirt): Product Details Name : BLAZSTAR COTTON CHECK SHIRT Fabric : Cotton Sleeve Length : Three-Quarter Sleeves Pattern : Printed Net Quantity (N) : 1 Sizes : M (Chest Size : 40 in, Length Size: 28 in) L (Chest Size : 42 in, Length Size: 29 in) XL (Chest Size : 44 in, Length Size: 30 in) XXL (Chest Size : 46 in, Length Size: 31 in) Country of Origin : India More Information
+  Updated: 2025-10-12T12:56:56Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/zhiqn_512.webp?v=1759829794
+  - [S](https://donedeals.xyz/products/blazstar-cotton-check-shirt?variant=43671631659059)
+    Availability: Available
+    Price: ₹299.00 INR
+  - [M](https://donedeals.xyz/products/blazstar-cotton-check-shirt?variant=43671631691827)
+    Availability: Available
+    Price: ₹299.00 INR
+  - [L](https://donedeals.xyz/products/blazstar-cotton-check-shirt?variant=43671631724595)
+    Availability: Available
+    Price: ₹299.00 INR
+  - [XL](https://donedeals.xyz/products/blazstar-cotton-check-shirt?variant=43671631757363)
+    Availability: Available
+    Price: ₹299.00 INR
+- [COTTON MEN HALF SLEEVES Shirts](https://donedeals.xyz/products/cotton-men-half-sleeves-shirts): Product Details Name : COTTON MEN HALF SLEEVES Shirts Fabric : Khadi Cotton Sleeve Length : Short Sleeves Pattern : Solid Net Quantity (N) : 1 Sizes : M, L, XL, XXL KHADI COTTON HALF SLEEVES Formal shirt casual shirt Country of Origin : India More Information
+  Updated: 2025-10-12T13:00:04Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/6lswp_512.webp?v=1759829803
+  - [S](https://donedeals.xyz/products/cotton-men-half-sleeves-shirts?variant=43671631790131)
+    Availability: Available
+    Price: ₹250.00 INR
+  - [M](https://donedeals.xyz/products/cotton-men-half-sleeves-shirts?variant=43671631822899)
+    Availability: Available
+    Price: ₹250.00 INR
+  - [L](https://donedeals.xyz/products/cotton-men-half-sleeves-shirts?variant=43671631855667)
+    Availability: Available
+    Price: ₹250.00 INR
+  - [XL](https://donedeals.xyz/products/cotton-men-half-sleeves-shirts?variant=43671631888435)
+    Availability: Available
+    Price: ₹250.00 INR
+- [Classy Graceful Men Shirts](https://donedeals.xyz/products/classy-graceful-men-shirts): Product Details Name : Classy Graceful Men Shirts Fabric : Cotton Sleeve Length : Long Sleeves Pattern : Solid Net Quantity (N) : 2 Sizes : M (Chest Size : 38 in, Length Size: 28 in) L (Chest Size : 40 in, Length Size: 29 in) XL (Chest Size : 42 in, Length Size: 30 in) XXL (Chest Size : 44 in, Length Size: 31 in) Country of Origin : India More Information
+  Updated: 2025-10-12T12:58:53Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/bd3we_512.webp?v=1759829813
+  - [S](https://donedeals.xyz/products/classy-graceful-men-shirts?variant=43671631921203)
+    Availability: Available
+    Price: ₹658.00 INR
+  - [M](https://donedeals.xyz/products/classy-graceful-men-shirts?variant=43671631953971)
+    Availability: Available
+    Price: ₹658.00 INR
+  - [L](https://donedeals.xyz/products/classy-graceful-men-shirts?variant=43671631986739)
+    Availability: Available
+    Price: ₹658.00 INR
+  - [XL](https://donedeals.xyz/products/classy-graceful-men-shirts?variant=43671632019507)
+    Availability: Available
+    Price: ₹658.00 INR
+- [BC SOLID SHIRTS _](https://donedeals.xyz/products/bc-solid-shirts-_): Product Details Name : BC SOLID SHIRTS _ Fabric : Cotton Sleeve Length : Long Sleeves Pattern : Solid Net Quantity (N) : 1 Sizes : M (Chest Size : 38 in, Length Size: 26.5 in) L (Chest Size : 40 in, Length Size: 27.5 in) XL (Chest Size : 42 in, Length Size: 28.5 in) XXL (Chest Size : 44 in, Length Size: 29.5 in) BC SOLID MAN'S TRENDY SHIRTS. Country of Origin : India More Information
+  Updated: 2025-10-12T12:56:22Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/n8gos_512.webp?v=1759829823
+  - [S](https://donedeals.xyz/products/bc-solid-shirts-_?variant=43671632052275)
+    Availability: Available
+    Price: ₹378.00 INR
+  - [M](https://donedeals.xyz/products/bc-solid-shirts-_?variant=43671632085043)
+    Availability: Available
+    Price: ₹378.00 INR
+  - [L](https://donedeals.xyz/products/bc-solid-shirts-_?variant=43671632117811)
+    Availability: Available
+    Price: ₹378.00 INR
+  - [XL](https://donedeals.xyz/products/bc-solid-shirts-_?variant=43671632150579)
+    Availability: Available
+    Price: ₹378.00 INR
 - [Stylish Modern Men Shirts](https://donedeals.xyz/products/stylish-modern-men-shirts-1): Product Details Name : Stylish Modern Men Shirts Fabric : Cotton Sleeve Length : Long Sleeves Pattern : Printed Net Quantity (N) : 1 Sizes : M (Chest Size : 38 in, Length Size: 28 in) L (Chest Size : 40 in, Length Size: 29 in) XL (Chest Size : 42 in, Length Size: 30 in) XXL (Chest Size : 44 in, Length Size: 31 in) Country of Origin : India More Information
   Updated: 2025-10-07T09:37:54Z
   Vendor: DoneDeals
@@ -23579,6 +23687,132 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/afbsr_512.webp?v=1759829867
   Price: ₹0.00 INR
+- [CHIRAG TEXTILES Men's Horizontal Stripes Regular Grey Shirts](https://donedeals.xyz/products/chirag-textiles-mens-horizontal-stripes-regular-grey-shirts): Product Details Name : CHIRAG TEXTILES Men's Horizontal Stripes Regular Grey Shirts Fabric : Khadi Cotton Sleeve Length : Long Sleeves Pattern : Striped Net Quantity (N) : 1 Sizes : M (Chest Size : 38 in, Length Size: 28 in) L (Chest Size : 40 in, Length Size: 28 in) XL (Chest Size : 42 in, Length Size: 28 in) XXL (Chest Size : 44 in, Length Size: 28 in) XXS (Chest Size : 38 in, Length Size: 28 in) M (Chest Size : 40 in, Length Size: 28.5 in) L (Chest Size : 42 in, Length Size: 28 in) XL (Chest Size : 44 in, Length Size: 29 in) XXL (Chest Size : 46 in, Length Size: 29.5 in) Its a good quality shirts If you wear this You feel like a good fitting and comfortable its good striped shirts for all season like summer or winter bothly Country of Origin : India More Information
+  Updated: 2025-10-12T12:58:22Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/sac8y_512.webp?v=1759829921
+  - [S](https://donedeals.xyz/products/chirag-textiles-mens-horizontal-stripes-regular-grey-shirts?variant=43671633526835)
+    Availability: Available
+    Price: ₹295.00 INR
+  - [M](https://donedeals.xyz/products/chirag-textiles-mens-horizontal-stripes-regular-grey-shirts?variant=43671633559603)
+    Availability: Available
+    Price: ₹295.00 INR
+  - [L](https://donedeals.xyz/products/chirag-textiles-mens-horizontal-stripes-regular-grey-shirts?variant=43671633592371)
+    Availability: Available
+    Price: ₹295.00 INR
+  - [XL](https://donedeals.xyz/products/chirag-textiles-mens-horizontal-stripes-regular-grey-shirts?variant=43671633625139)
+    Availability: Available
+    Price: ₹295.00 INR
+- [Formal lining shirts.](https://donedeals.xyz/products/formal-lining-shirts): Product Details Name : Formal lining shirts. Fabric : Cotton Sleeve Length : Long Sleeves Pattern : Printed Net Quantity (N) : 1 Sizes : M (Chest Size : 39 in, Length Size: 29 in) L (Chest Size : 41 in, Length Size: 29.5 in) XL (Chest Size : 44 in, Length Size: 30 in) XXL (Chest Size : 46 in, Length Size: 31 in) XXXL Country of Origin : India More Information
+  Updated: 2025-10-12T13:08:00Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/zwowx_512.webp?v=1759829931
+  - [S](https://donedeals.xyz/products/formal-lining-shirts?variant=43671633657907)
+    Availability: Available
+    Price: ₹422.00 INR
+  - [M](https://donedeals.xyz/products/formal-lining-shirts?variant=43671633690675)
+    Availability: Available
+    Price: ₹422.00 INR
+  - [L](https://donedeals.xyz/products/formal-lining-shirts?variant=43671633723443)
+    Availability: Available
+    Price: ₹422.00 INR
+  - [XL](https://donedeals.xyz/products/formal-lining-shirts?variant=43671633756211)
+    Availability: Available
+    Price: ₹422.00 INR
+- [Comfy Fashionista Men Shirts](https://donedeals.xyz/products/comfy-fashionista-men-shirts): Product Details Name : Comfy Fashionista Men Shirts Fabric : Cotton Sleeve Length : Long Sleeves Pattern : Printed Net Quantity (N) : 1 Sizes : M (Chest Size : 42 in, Length Size: 28 in) L (Chest Size : 44 in, Length Size: 29 in) XL (Chest Size : 46 in, Length Size: 30 in) XXL (Chest Size : 48 in, Length Size: 30 in) It Has One Piece Of Men's Cotton Shirts Country of Origin : India More Information
+  Updated: 2025-10-12T12:59:07Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/bbvuf_512.webp?v=1759829949
+  - [S](https://donedeals.xyz/products/comfy-fashionista-men-shirts?variant=43671633920051)
+    Availability: Available
+    Price: ₹362.00 INR
+  - [M](https://donedeals.xyz/products/comfy-fashionista-men-shirts?variant=43671633952819)
+    Availability: Available
+    Price: ₹362.00 INR
+  - [L](https://donedeals.xyz/products/comfy-fashionista-men-shirts?variant=43671633985587)
+    Availability: Available
+    Price: ₹362.00 INR
+  - [XL](https://donedeals.xyz/products/comfy-fashionista-men-shirts?variant=43671634018355)
+    Availability: Available
+    Price: ₹362.00 INR
+- [CHIRAG TEXTILES Men's Solid Regular White Shirts](https://donedeals.xyz/products/chirag-textiles-mens-solid-regular-white-shirts): Product Details Name : CHIRAG TEXTILES Men's Solid Regular White Shirts Fabric : Cotton Sleeve Length : Long Sleeves Pattern : Solid Net Quantity (N) : 1 Sizes : M (Chest Size : 38 in, Length Size: 28 in) L (Chest Size : 40 in, Length Size: 28 in) XL (Chest Size : 42 in, Length Size: 28.5 in) XXL (Chest Size : 44 in, Length Size: 28.5 in) S (Chest Size : 36 in, Length Size: 28 in) M (Chest Size : 38 in, Length Size: 29 in) L (Chest Size : 40 in, Length Size: 30 in) XL (Chest Size : 42 in, Length Size: 31 in) Style - Enhance your look by wearing this Casual Stylish Men's shirt, Team it with a pair of tapered denims Or Solid Chinos and Loafers for a fun Smart Casual look This shirt keeps the promise while keeping your look breezy and dressed down! This shirt has been designed keeping in mind the latest trends in casual fashion or occasional fashion. Enhance your look by wearing this Casual Stylish Men's shirt, Team it with a pair of tapered denim Or Solid Chinos and Loafers for a fun Smart Casual look, Refresh your wardrobe with this Shirt. Truly comfortable and easy to wear in every season it is insulating in winter and breathable in summer. Country of Origin : India More Information
+  Updated: 2025-10-12T12:58:22Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/kmont_512.webp?v=1759829954
+  - [S](https://donedeals.xyz/products/chirag-textiles-mens-solid-regular-white-shirts?variant=43671634051123)
+    Availability: Available
+    Price: ₹255.00 INR
+  - [M](https://donedeals.xyz/products/chirag-textiles-mens-solid-regular-white-shirts?variant=43671634083891)
+    Availability: Available
+    Price: ₹255.00 INR
+  - [L](https://donedeals.xyz/products/chirag-textiles-mens-solid-regular-white-shirts?variant=43671634116659)
+    Availability: Available
+    Price: ₹255.00 INR
+  - [XL](https://donedeals.xyz/products/chirag-textiles-mens-solid-regular-white-shirts?variant=43671634149427)
+    Availability: Available
+    Price: ₹255.00 INR
+- [Cotton Shirts For Men's](https://donedeals.xyz/products/cotton-shirts-for-mens): Product Details Name : Cotton Shirts For Men's Fabric : Cotton Sleeve Length : Long Sleeves Pattern : Solid Net Quantity (N) : 1 Sizes : M (Chest Size : 38 in, Length Size: 28 in) L (Chest Size : 40 in, Length Size: 28.5 in) XL (Chest Size : 42 in, Length Size: 29 in) XXL (Chest Size : 44 in, Length Size: 29.5 in) This shirt is made from pure cotton primer quality fabric and it is suitable to wear in meeting, party,festivals all light colors will give you attractive look. Country of Origin : India More Information
+  Updated: 2025-10-12T13:00:10Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/z9dkr_512.webp?v=1759829973
+  - [S](https://donedeals.xyz/products/cotton-shirts-for-mens?variant=43671634313267)
+    Availability: Available
+    Price: ₹366.00 INR
+  - [M](https://donedeals.xyz/products/cotton-shirts-for-mens?variant=43671634346035)
+    Availability: Available
+    Price: ₹366.00 INR
+  - [L](https://donedeals.xyz/products/cotton-shirts-for-mens?variant=43671634378803)
+    Availability: Available
+    Price: ₹366.00 INR
+  - [XL](https://donedeals.xyz/products/cotton-shirts-for-mens?variant=43671634411571)
+    Availability: Available
+    Price: ₹366.00 INR
+- [Fancy Graceful Printed Half Sleeve Men's Casual Shirt](https://donedeals.xyz/products/fancy-graceful-printed-half-sleeve-mens-casual-shirt): Product Details Name : Fancy Graceful Printed Half Sleeve Men's Casual Shirt Fabric : Rayon Sleeve Length : Short Sleeves Pattern : Printed Net Quantity (N) : 1 Sizes : XXS (Chest Size : 32 in, Length Size: 22 in) M (Chest Size : 38 in, Length Size: 28 in) L (Chest Size : 40 in, Length Size: 29 in) XL (Chest Size : 42 in, Length Size: 30 in) XXL (Chest Size : 44 in, Length Size: 30.5 in) Truly comfortable and easy to wear in every season it is insulating in winter and breathable in summer. Refresh your wardrobe with this shirt. This shirt has been designed keeping in mind the latest trends in casual fashion or occasional fashion. Truly comfortable refresh your wardrobe with this shirt. Style - enhance your look by wearing this casual stylish men's / women's shirt, team it with a pair of tapered denim or solid chinos and loafers for a fun smart casual look, refresh your wardrobe with this shirt. Fit Type : Regular size High Quality Fabric and Stitching Made in India Country of Origin : India More Information
+  Updated: 2025-10-12T13:05:09Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/gnvy6_512.webp?v=1759829998
+  - [S](https://donedeals.xyz/products/fancy-graceful-printed-half-sleeve-mens-casual-shirt?variant=43671634706483)
+    Availability: Available
+    Price: ₹312.00 INR
+  - [M](https://donedeals.xyz/products/fancy-graceful-printed-half-sleeve-mens-casual-shirt?variant=43671634739251)
+    Availability: Available
+    Price: ₹312.00 INR
+  - [L](https://donedeals.xyz/products/fancy-graceful-printed-half-sleeve-mens-casual-shirt?variant=43671634772019)
+    Availability: Available
+    Price: ₹312.00 INR
+  - [XL](https://donedeals.xyz/products/fancy-graceful-printed-half-sleeve-mens-casual-shirt?variant=43671634804787)
+    Availability: Available
+    Price: ₹312.00 INR
+- [Casual Half Sleeves Shirt for Men | Shadow Print Shirt (Blue)](https://donedeals.xyz/products/casual-half-sleeves-shirt-for-men-shadow-print-shirt-blue): Product Details Name : Casual Half Sleeves Shirt for Men | Shadow Print Shirt (Blue) Fabric : Cotton Blend Sleeve Length : Short Sleeves Pattern : Printed Net Quantity (N) : 1 Sizes : XS (Chest Size : 36 in, Length Size: 24 in) S (Chest Size : 38 in, Length Size: 26 in) M (Chest Size : 40 in, Length Size: 28 in) L (Chest Size : 42 in, Length Size: 29 in) XL (Chest Size : 44 in, Length Size: 30 in) XXL (Chest Size : 46 in, Length Size: 31 in) XXXL (Chest Size : 50 in, Length Size: 31 in) Men's shirt : :Half-sleeves shirt::Printed shirt::casual Shirt::Fashionable shirt::stylish shirt::Trendy shirt::Graphic shirt ::Patterned shirt::Vibrant shirt::Contemporary shirt::Versatile shirt::Summer shirt::Casualwear Country of Origin : India More Information
+  Updated: 2025-10-12T12:57:32Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/rticj_512.webp?v=1759830018
+  - [S](https://donedeals.xyz/products/casual-half-sleeves-shirt-for-men-shadow-print-shirt-blue?variant=43671634968627)
+    Availability: Available
+    Price: ₹282.00 INR
+  - [M](https://donedeals.xyz/products/casual-half-sleeves-shirt-for-men-shadow-print-shirt-blue?variant=43671635001395)
+    Availability: Available
+    Price: ₹282.00 INR
+  - [L](https://donedeals.xyz/products/casual-half-sleeves-shirt-for-men-shadow-print-shirt-blue?variant=43671635034163)
+    Availability: Available
+    Price: ₹282.00 INR
+  - [XL](https://donedeals.xyz/products/casual-half-sleeves-shirt-for-men-shadow-print-shirt-blue?variant=43671635066931)
+    Availability: Available
+    Price: ₹282.00 INR
 - [Laycra Printed Men Shirt](https://donedeals.xyz/products/laycra-printed-men-shirt-1): Product Details Name : Laycra Printed Men Shirt Fabric : Lycra Sleeve Length : Long Sleeves Pattern : Striped Net Quantity (N) : 1 Sizes : S (Chest Size : 38 in, Length Size: 28 in) M (Chest Size : 40 in, Length Size: 28.5 in) L (Chest Size : 42 in, Length Size: 29 in) XL (Chest Size : 44 in, Length Size: 30 in) Shirt, shirt, SHIRT, imported popcorn febric shirt, PRINTED shirt, casual shirt, formal shirt, party wear shirt, shirt for men, shirts, shirts for meShirt, shirt, SHIRT, imported popcorn febric shirt, PRINTED shirt, casual shirt, formal shirt, party wear shirt, shirt for men, shirts, shirts for mens, office shirt, full sleeve shirt, solid shirt Men kurta type Shirts shirts, shirt for men white colour, shirt for men cotton, shirt for, shirt formal, shirt for man combo, shirt for mens combo, shirt for men double pocket, shirt for mans, short for mens stylish, shirt for mens stylish, shirt for mens black, shirt under 100, shirt under 300, shirt under 150, shirt under 150 for men, shirt under 500, shirt under 200, shir under 200 for womenns, office shirt, full sleeve shirt, solid shirt Men kurta type Shirts Country of Origin : India More Information
   Updated: 2025-10-12T10:17:37Z
   Vendor: DoneDeals
@@ -23586,6 +23820,60 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/omagp_512.webp?v=1759830041
   Price: ₹389.00 INR
+- [COMBO SWEATSHIRT FOR MEN](https://donedeals.xyz/products/combo-sweatshirt-for-men): Product Details Name : COMBO SWEATSHIRT FOR MEN Fabric : Cotton Sleeve Length : Long Sleeves Pattern : Solid Net Quantity (N) : 1 Sizes : S (Chest Size : 17 in, Length Size: 24 in) M (Chest Size : 18 in, Length Size: 25 in) The high-neck used to party , casually, formally, wedding…tc Premium Black & White Rib High Neck Full Sleeve ,Premium rib knit fabric for superior looked and stretch,Striking black and white,,Highlights the .its combo pack black and white High-neck,Men's high neck sweater" "Men's high neck " "Men's turtleneck sweater" "Men's mock neck " Rib high neck sweater men" "Cotton high neck men"Men's Ribbed High Neck Sweater Rib Knit High Neck Pullover Men Ribbed High Neck Sweater Men Winter Rib High Neck Men Regular Fit Ribbed High Neck Slim Fit Ribbed High Neck Body Fit Ribbed High Neck Cotton Blend Ribbed High Neck Lycra Ribbed High Neck Casual Ribbed High Neck Partywear Ribbed High Neck Winter Wear Ribbed High Neck Fashion Ribbed High Neck Solid Ribbed High Neck (if looking for plain colors) Patterned Ribbed High Neck (if looking for prints, stripes, self-design etc.) Stylish Ribbed High Neck Trendy Ribbed High Neck Comfortable Ribbed High Neck Durable Ribbed High Neck Men Western Top Wear Men's Top Men's Fashion Men's Apparel men sweater winter sweater men mens sweater woolen sweater men cardigan men high neck sweater men crew neck sweater men V-neck sweater men knitted sweater men wool sweater men fleece jacket men cotton winter wear men black winter sweater men winter wear combo men Country of Origin : India More Information
+  Updated: 2025-10-12T12:59:07Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/iubpw_512.webp?v=1759830061
+  - [S](https://donedeals.xyz/products/combo-sweatshirt-for-men?variant=43671635623987)
+    Availability: Available
+    Price: ₹313.00 INR
+  - [M](https://donedeals.xyz/products/combo-sweatshirt-for-men?variant=43671635656755)
+    Availability: Available
+    Price: ₹313.00 INR
+  - [L](https://donedeals.xyz/products/combo-sweatshirt-for-men?variant=43671635689523)
+    Availability: Available
+    Price: ₹313.00 INR
+  - [XL](https://donedeals.xyz/products/combo-sweatshirt-for-men?variant=43671635722291)
+    Availability: Available
+    Price: ₹313.00 INR
+- [Full sleeve round neck printed sweatshirt](https://donedeals.xyz/products/full-sleeve-round-neck-printed-sweatshirt): Product Details Name : Full sleeve round neck printed sweatshirt Fabric : Fleece Sleeve Length : Long Sleeves Pattern : Printed Net Quantity (N) : 1 Sizes : S (Chest Size : 38 in, Length Size: 26 in) M (Chest Size : 40 in, Length Size: 27 in) L (Chest Size : 42 in, Length Size: 28 in) XL (Chest Size : 44 in, Length Size: 29 in) XXL (Chest Size : 46 in, Length Size: 30 in) Full sleeve round neck printed sweatshirt Country of Origin : India More Information
+  Updated: 2025-10-12T13:09:11Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/j1vnv_512.webp?v=1759830088
+  - [S](https://donedeals.xyz/products/full-sleeve-round-neck-printed-sweatshirt?variant=43671636017203)
+    Availability: Available
+    Price: ₹411.00 INR
+  - [M](https://donedeals.xyz/products/full-sleeve-round-neck-printed-sweatshirt?variant=43671636049971)
+    Availability: Available
+    Price: ₹411.00 INR
+  - [L](https://donedeals.xyz/products/full-sleeve-round-neck-printed-sweatshirt?variant=43671636082739)
+    Availability: Available
+    Price: ₹411.00 INR
+  - [XL](https://donedeals.xyz/products/full-sleeve-round-neck-printed-sweatshirt?variant=43671636115507)
+    Availability: Available
+    Price: ₹411.00 INR
+- [Else & What Plain Hoodies/Sweatshirt Fleece Hoodies for Running, Gym Warm Travel Hoodies for Men](https://donedeals.xyz/products/else-what-plain-hoodies-sweatshirt-fleece-hoodies-for-running-gym-warm-travel-hoodies-for-men): Product Details Name : Else & What Plain Hoodies/Sweatshirt Fleece Hoodies for Running, Gym Warm Travel Hoodies for Men Fabric : Fleece Sleeve Length : Long Sleeves Pattern : Solid Net Quantity (N) : 1 Sizes : S (Chest Size : 20 in, Length Size: 25 in, Waist Size: 20 in, Hip Size: 17 in) M (Chest Size : 21 in, Length Size: 26 in, Waist Size: 21 in, Hip Size: 18 in) L (Chest Size : 22 in, Length Size: 27 in, Waist Size: 22 in, Hip Size: 19 in) XL (Chest Size : 23 in, Length Size: 28 in, Waist Size: 23 in, Hip Size: 20 in) XXL (Chest Size : 24 in, Length Size: 29 in, Waist Size: 24 in, Hip Size: 21 in) Else & What Plain Hoodies/Sweatshirt Fleece Hoodies for Running, Gym Warm Travel Hoodies for Men Country of Origin : India More Information
+  Updated: 2025-10-12T13:03:05Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/p8kvr_512.webp?v=1759830131
+  - [S](https://donedeals.xyz/products/else-what-plain-hoodies-sweatshirt-fleece-hoodies-for-running-gym-warm-travel-hoodies-for-men?variant=43671636672563)
+    Availability: Available
+    Price: ₹454.00 INR
+  - [M](https://donedeals.xyz/products/else-what-plain-hoodies-sweatshirt-fleece-hoodies-for-running-gym-warm-travel-hoodies-for-men?variant=43671636705331)
+    Availability: Available
+    Price: ₹454.00 INR
+  - [L](https://donedeals.xyz/products/else-what-plain-hoodies-sweatshirt-fleece-hoodies-for-running-gym-warm-travel-hoodies-for-men?variant=43671636738099)
+    Availability: Available
+    Price: ₹454.00 INR
+  - [XL](https://donedeals.xyz/products/else-what-plain-hoodies-sweatshirt-fleece-hoodies-for-running-gym-warm-travel-hoodies-for-men?variant=43671636770867)
+    Availability: Available
+    Price: ₹454.00 INR
 - [Mens Full Sleeve](https://donedeals.xyz/products/mens-full-sleeve): Product Details Name : Mens Full Sleeve Fabric : Cotton Blend Sleeve Length : Long Sleeves Pattern : Striped Net Quantity (N) : 1 Sizes : S (Chest Size : 18 in, Length Size: 26 in) M (Chest Size : 19 in, Length Size: 27 in) L (Chest Size : 20 in, Length Size: 28 in) XL (Chest Size : 21 in, Length Size: 29 in) XXL (Chest Size : 22 in, Length Size: 30 in) Country of Origin : India More Information
   Updated: 2025-10-07T09:42:27Z
   Vendor: DoneDeals
@@ -23600,6 +23888,96 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/jnbk9_512.webp?v=1759830175
   Price: ₹0.00 INR
+- [Classic Affordable Winter Trendy Sweatshirts & Hoodies Budget-friendly comfy for Men & Women](https://donedeals.xyz/products/classic-affordable-winter-trendy-sweatshirts-hoodies-budget-friendly-comfy-for-men-women): Product Details Name : Classic Affordable Winter Trendy Sweatshirts & Hoodies Budget-friendly comfy for Men & Women Fabric : Fleece Sleeve Length : Long Sleeves Pattern : Solid Net Quantity (N) : 1 Sizes : S (Chest Size : 38 in, Length Size: 26 in, Waist Size: 42 in, Hip Size: 31 in, Shoulder Size: 14 in) M (Chest Size : 40 in, Length Size: 26 in, Waist Size: 40 in, Hip Size: 41 in, Shoulder Size: 14 in) L (Chest Size : 42 in, Length Size: 27 in, Waist Size: 42 in, Hip Size: 43 in, Shoulder Size: 15 in) XL (Chest Size : 44 in, Length Size: 27 in, Waist Size: 44 in, Hip Size: 45 in, Shoulder Size: 16 in) XXL (Chest Size : 46 in, Length Size: 28 in, Waist Size: 46 in, Hip Size: 47 in, Shoulder Size: 16 in) Indian fashionistas on a budget : Embrace trendiness without going overboard! View our collection of reasonably priced hoodies for the middle class, stylish people. Country of Origin : India More Information
+  Updated: 2025-10-12T12:58:21Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/enl7r_512.webp?v=1759830209
+  - [S](https://donedeals.xyz/products/classic-affordable-winter-trendy-sweatshirts-hoodies-budget-friendly-comfy-for-men-women?variant=43671637884979)
+    Availability: Available
+    Price: ₹359.00 INR
+  - [M](https://donedeals.xyz/products/classic-affordable-winter-trendy-sweatshirts-hoodies-budget-friendly-comfy-for-men-women?variant=43671637917747)
+    Availability: Available
+    Price: ₹359.00 INR
+  - [L](https://donedeals.xyz/products/classic-affordable-winter-trendy-sweatshirts-hoodies-budget-friendly-comfy-for-men-women?variant=43671637950515)
+    Availability: Available
+    Price: ₹359.00 INR
+  - [XL](https://donedeals.xyz/products/classic-affordable-winter-trendy-sweatshirts-hoodies-budget-friendly-comfy-for-men-women?variant=43671637983283)
+    Availability: Available
+    Price: ₹359.00 INR
+- [Fluffy Jacket with Free Gift](https://donedeals.xyz/products/fluffy-jacket-with-free-gift): Product Details Name : Fluffy Jacket with Free Gift Fabric : Polyester Sleeve Length : Long Sleeves Pattern : Solid Net Quantity (N) : 1 Sizes : M (Chest Size : 42 in, Length Size: 27 in) L (Chest Size : 44 in, Length Size: 28 in) XL (Chest Size : 46 in, Length Size: 29 in) XXL (Chest Size : 48 in, Length Size: 30 in) Country of Origin : India More Information
+  Updated: 2025-10-12T13:08:45Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/brcvk_512.webp?v=1759830239
+  - [S](https://donedeals.xyz/products/fluffy-jacket-with-free-gift?variant=43671638409267)
+    Availability: Available
+    Price: ₹952.00 INR
+  - [M](https://donedeals.xyz/products/fluffy-jacket-with-free-gift?variant=43671638442035)
+    Availability: Available
+    Price: ₹952.00 INR
+  - [L](https://donedeals.xyz/products/fluffy-jacket-with-free-gift?variant=43671638474803)
+    Availability: Available
+    Price: ₹952.00 INR
+  - [XL](https://donedeals.xyz/products/fluffy-jacket-with-free-gift?variant=43671638507571)
+    Availability: Available
+    Price: ₹952.00 INR
+- [Comfy Graceful Men Sweatshirts](https://donedeals.xyz/products/comfy-graceful-men-sweatshirts): Product Details Name : Comfy Graceful Men Sweatshirts Fabric : Fleece Sleeve Length : Long Sleeves Pattern : Printed Net Quantity (N) : 1 Sizes : XXS, S (Chest Size : 38 in, Length Size: 26 in) M (Chest Size : 40 in, Length Size: 27 in) L (Chest Size : 42 in, Length Size: 28 in) XL (Chest Size : 44 in, Length Size: 29 in) Country of Origin : India More Information
+  Updated: 2025-10-12T12:59:27Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/k1dqm_512.webp?v=1759830258
+  - [S](https://donedeals.xyz/products/comfy-graceful-men-sweatshirts?variant=43671638671411)
+    Availability: Available
+    Price: ₹384.00 INR
+  - [M](https://donedeals.xyz/products/comfy-graceful-men-sweatshirts?variant=43671638704179)
+    Availability: Available
+    Price: ₹384.00 INR
+  - [L](https://donedeals.xyz/products/comfy-graceful-men-sweatshirts?variant=43671638736947)
+    Availability: Available
+    Price: ₹384.00 INR
+  - [XL](https://donedeals.xyz/products/comfy-graceful-men-sweatshirts?variant=43671638769715)
+    Availability: Available
+    Price: ₹384.00 INR
+- [army tshirt](https://donedeals.xyz/products/army-tshirt): Product Details Name : army tshirt Fabric : Cotton Blend Sleeve Length : Long Sleeves Pattern : Printed Net Quantity (N) : 1 Sizes : M (Chest Size : 38 in, Length Size: 26 in) L (Chest Size : 40 in, Length Size: 26.5 in) XL (Chest Size : 42 in, Length Size: 27 in) XXL (Chest Size : 44 in, Length Size: 27.5 in) MIDDHA CREATION Army TSHIRT ZODHA PRINT FOR Summer Good Qulity size; S,M,L,XL,XXL Country of Origin : India More Information
+  Updated: 2025-10-12T12:55:52Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/fl2gj_512.webp?v=1759830266
+  - [S](https://donedeals.xyz/products/army-tshirt?variant=43671638802483)
+    Availability: Available
+    Price: ₹367.00 INR
+  - [M](https://donedeals.xyz/products/army-tshirt?variant=43671638835251)
+    Availability: Available
+    Price: ₹367.00 INR
+  - [L](https://donedeals.xyz/products/army-tshirt?variant=43671638868019)
+    Availability: Available
+    Price: ₹367.00 INR
+  - [XL](https://donedeals.xyz/products/army-tshirt?variant=43671638900787)
+    Availability: Available
+    Price: ₹367.00 INR
+- [BUFFARO Ultra-Lightweight Men's Polyester Regular Fit Full Zip With Side Pockets Windcheater -Prewinter, Water-Repellent & Compact | Perfect for Any Hiking, Sports, Biking](https://donedeals.xyz/products/buffaro-ultra-lightweight-mens-polyester-regular-fit-full-zip-with-side-pockets-windcheater-prewinter-water-repellent-compact-perfect-for-any-hiking-sports-biking): Product Details Name : BUFFARO Ultra-Lightweight Men's Polyester Regular Fit Full Zip With Side Pockets Windcheater -Prewinter, Water-Repellent & Compact | Perfect for Any Hiking, Sports, Biking Fabric : Polyester Sleeve Length : Long Sleeves Pattern : Solid Net Quantity (N) : 1 Sizes : L (Chest Size : 22 in, Length Size: 27 in) XL (Chest Size : 23 in, Length Size: 28 in) XXL (Chest Size : 23 in, Length Size: 29 in) Our Windcheater jacket is made from Imported Polyester fabric. This Jacket features a Mock Collar and Front Zip closure and Soft Ribbed Sleeve Cuffs and ribbed Waist. It also comes with the 2 side pockets with Zips to carry all youur essentials safely. Light weight, Breathable, Dust repellant, Waterproof and keeps youu comfortable during winter season and makes it Ideal for Casual, Gym Wear and other Sports wear. BUFFARO brings a range of jackets in a variety of colors that keep youu warm & comfortable. Country of Origin : India More Information
+  Updated: 2025-10-12T12:57:22Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/opctp_512.webp?v=1759830276
+  - [S](https://donedeals.xyz/products/buffaro-ultra-lightweight-mens-polyester-regular-fit-full-zip-with-side-pockets-windcheater-prewinter-water-repellent-compact-perfect-for-any-hiking-sports-biking?variant=43671638933555)
+    Availability: Available
+    Price: ₹443.00 INR
+  - [M](https://donedeals.xyz/products/buffaro-ultra-lightweight-mens-polyester-regular-fit-full-zip-with-side-pockets-windcheater-prewinter-water-repellent-compact-perfect-for-any-hiking-sports-biking?variant=43671638966323)
+    Availability: Available
+    Price: ₹443.00 INR
+  - [L](https://donedeals.xyz/products/buffaro-ultra-lightweight-mens-polyester-regular-fit-full-zip-with-side-pockets-windcheater-prewinter-water-repellent-compact-perfect-for-any-hiking-sports-biking?variant=43671638999091)
+    Availability: Available
+    Price: ₹443.00 INR
+  - [XL](https://donedeals.xyz/products/buffaro-ultra-lightweight-mens-polyester-regular-fit-full-zip-with-side-pockets-windcheater-prewinter-water-repellent-compact-perfect-for-any-hiking-sports-biking?variant=43671639031859)
+    Availability: Available
+    Price: ₹443.00 INR
 - [Men's trendy full sleeve fleece sweatshirt](https://donedeals.xyz/products/mens-trendy-full-sleeve-fleece-sweatshirt-1): Product Details Name : Men's trendy full sleeve fleece sweatshirt Fabric : Fleece Sleeve Length : Long Sleeves Pattern : Solid Net Quantity (N) : 1 Sizes : S (Chest Size : 36 in, Length Size: 24 in) M (Chest Size : 38 in, Length Size: 25 in) L (Chest Size : 40 in, Length Size: 26 in) XL (Chest Size : 42 in, Length Size: 27 in) XXL (Chest Size : 44 in, Length Size: 28 in) "Stay warm and stylish with this soft fleece fabric sweatshirt, featuring a half-zip design, ribbed cuffs, and a comfortable fit. Perfect for casual outings or layering during colder weather." Country of Origin : India More Information
   Updated: 2025-10-07T09:44:56Z
   Vendor: DoneDeals
@@ -23614,6 +23992,42 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/enl7r_512_33d263f9-895f-4791-852b-8da56548d00d.webp?v=1759830297
   Price: ₹0.00 INR
+- [Flopy white jacket men half puffer](https://donedeals.xyz/products/flopy-white-jacket-men-half-puffer): Product Details Name : Flopy white jacket men half puffer Fabric : Wool Sleeve Length : Sleeveless Pattern : Solid Net Quantity (N) : 1 Sizes : M (Chest Size : 42 in, Length Size: 26 in) L (Chest Size : 44 in, Length Size: 27 in) XL (Chest Size : 46 in, Length Size: 28 in) Country of Origin : India More Information
+  Updated: 2025-10-12T13:24:09Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/aoxh4_512.webp?v=1759830337
+  - [S](https://donedeals.xyz/products/flopy-white-jacket-men-half-puffer?variant=43671640014899)
+    Availability: Available
+    Price: ₹550.00 INR
+  - [M](https://donedeals.xyz/products/flopy-white-jacket-men-half-puffer?variant=43671640047667)
+    Availability: Available
+    Price: ₹550.00 INR
+  - [L](https://donedeals.xyz/products/flopy-white-jacket-men-half-puffer?variant=43671640080435)
+    Availability: Available
+    Price: ₹550.00 INR
+  - [XL](https://donedeals.xyz/products/flopy-white-jacket-men-half-puffer?variant=43671640113203)
+    Availability: Available
+    Price: ₹550.00 INR
+- [EYEBOGLER REGULAR FIT POLO FULL SLEEVE T-SHIRT](https://donedeals.xyz/products/eyebogler-regular-fit-polo-full-sleeve-t-shirt): Product Details Name : EYEBOGLER REGULAR FIT POLO FULL SLEEVE T-SHIRT Fabric : Cotton Blend Sleeve Length : Long Sleeves Pattern : Striped Net Quantity (N) : 1 Sizes : S (Chest Size : 38 in, Length Size: 27 in) M (Chest Size : 40 in, Length Size: 27.5 in) Refresh your wardrobe with the new range of Summer Collections of Cotton regular fit polo tshirt from EYEBOGLER . Pair it with Jeans and shorts for a perfect Casual wear . color block panels on front with band logo give enhance look to your t-shirt . Country of Origin : India More Information
+  Updated: 2025-10-12T13:04:21Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/jfawa_512.webp?v=1759830360
+  - [S](https://donedeals.xyz/products/eyebogler-regular-fit-polo-full-sleeve-t-shirt?variant=43671640408115)
+    Availability: Available
+    Price: ₹331.00 INR
+  - [M](https://donedeals.xyz/products/eyebogler-regular-fit-polo-full-sleeve-t-shirt?variant=43671640440883)
+    Availability: Available
+    Price: ₹331.00 INR
+  - [L](https://donedeals.xyz/products/eyebogler-regular-fit-polo-full-sleeve-t-shirt?variant=43671640473651)
+    Availability: Available
+    Price: ₹331.00 INR
+  - [XL](https://donedeals.xyz/products/eyebogler-regular-fit-polo-full-sleeve-t-shirt?variant=43671640506419)
+    Availability: Available
+    Price: ₹331.00 INR
 - [MENS HOODIE || Sweatshirt for Unisex || Unisex Hoodie || COTTON WARM SWEATSHIRT || ROUND NECK || PRINTED SWEATSHIRT || PRINTED FUNCKY DESIGN ||](https://donedeals.xyz/products/mens-hoodie-sweatshirt-for-unisex-unisex-hoodie-cotton-warm-sweatshirt-round-neck-printed-sweatshirt-printed-funcky-design-1): Product Details Name : MENS HOODIE || Sweatshirt for Unisex || Unisex Hoodie || COTTON WARM SWEATSHIRT || ROUND NECK || PRINTED SWEATSHIRT || PRINTED FUNCKY DESIGN || Fabric : Cotton Sleeve Length : Long Sleeves Pattern : Printed Net Quantity (N) : 1 Sizes : M (Chest Size : 38 in, Length Size: 27 in) L (Chest Size : 40 in, Length Size: 28 in) XL (Chest Size : 42 in, Length Size: 29 in) XXL (Chest Size : 44 in, Length Size: 30 in) Product Details : Crew neck with an attached hood Adjustable hood with drawcord A Oversized fit with long sleeves A spacious kangaroo pocket on the front Material : 60% Cotton 40% Poly | 280 GSM Fleece Care : Machine wash according to instructions on the care label. Style Note : You can't go wrong with a classic hoodie! Dress it up with a pair of denims or dress it down with a pair of joggers. Warm Comfortable Casual Winter Autumn Men's Hoodie Women's Hoodie Unisex Hoodie Hooded Sweatshirt Pullover Hoodie Zip-up Hoodie Hoodie Fleece Sweatshirt Cotton Cotton Hoodie Cotton Sweatshirt Fleece Hoodie round neck sweatshirt fleece sweatshirt winter sweatshirt typographic printed sweatshirt full sleeve sweatshirt cuffed sweatshirt down border sweatshirt warm sweatshirt cozy sweatshirt casual sweatshirt comfortable sweatshirt trendy sweatshirt Country of Origin : India More Information
   Updated: 2025-10-07T09:46:12Z
   Vendor: DoneDeals
@@ -23635,6 +24049,42 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/gincr_512.webp?v=1759830400
   Price: ₹0.00 INR
+- [Dollar Men's Light Weight Breathable Windcheater Jacket with UV Protection and 2 Side Pockets](https://donedeals.xyz/products/dollar-mens-light-weight-breathable-windcheater-jacket-with-uv-protection-and-2-side-pockets): Product Details Name : Dollar Men's Light Weight Breathable Windcheater Jacket with UV Protection and 2 Side Pockets Fabric : Nylon Sleeve Length : Long Sleeves Pattern : Solid Net Quantity (N) : 1 Sizes : L (Chest Size : 46 in, Length Size: 28 in, Waist Size: 36 in) XL (Chest Size : 48 in, Length Size: 29 in, Waist Size: 38 in) XXL (Chest Size : 50 in, Length Size: 30 in, Waist Size: 40 in) Stay protected and stylish with our Men's Windcheater. The water-repellent fabric ensures you stay dry during unexpected drizzles, and the lightweight construction allows for easy wear and packing. The added hood offers extra coverage, while 2 front side pockets provide secure storage for all your essentials. Ideal for outdoor adventures and urban wear. Country of Origin : India More Information
+  Updated: 2025-10-12T13:03:29Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/hm3as_512.webp?v=1759830449
+  - [S](https://donedeals.xyz/products/dollar-mens-light-weight-breathable-windcheater-jacket-with-uv-protection-and-2-side-pockets?variant=43671641849907)
+    Availability: Available
+    Price: ₹471.00 INR
+  - [M](https://donedeals.xyz/products/dollar-mens-light-weight-breathable-windcheater-jacket-with-uv-protection-and-2-side-pockets?variant=43671641882675)
+    Availability: Available
+    Price: ₹471.00 INR
+  - [L](https://donedeals.xyz/products/dollar-mens-light-weight-breathable-windcheater-jacket-with-uv-protection-and-2-side-pockets?variant=43671641915443)
+    Availability: Available
+    Price: ₹471.00 INR
+  - [XL](https://donedeals.xyz/products/dollar-mens-light-weight-breathable-windcheater-jacket-with-uv-protection-and-2-side-pockets?variant=43671641948211)
+    Availability: Available
+    Price: ₹471.00 INR
+- [BEST SELLER OF MEN JACKETS](https://donedeals.xyz/products/best-seller-of-men-jackets): Product Details Name : BEST SELLER OF MEN JACKETS Fabric : Nylon Sleeve Length : Long Sleeves Pattern : Solid Net Quantity (N) : 1 Sizes : L, XL (Chest Size : 24 in, Length Size: 28 in) XXL (Chest Size : 25 in, Length Size: 29 in) Country of Origin : India More Information
+  Updated: 2025-10-12T12:56:44Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/tdgcf_512.webp?v=1759830469
+  - [S](https://donedeals.xyz/products/best-seller-of-men-jackets?variant=43671644078131)
+    Availability: Available
+    Price: ₹396.00 INR
+  - [M](https://donedeals.xyz/products/best-seller-of-men-jackets?variant=43671644110899)
+    Availability: Available
+    Price: ₹396.00 INR
+  - [L](https://donedeals.xyz/products/best-seller-of-men-jackets?variant=43671644143667)
+    Availability: Available
+    Price: ₹396.00 INR
+  - [XL](https://donedeals.xyz/products/best-seller-of-men-jackets?variant=43671644176435)
+    Availability: Available
+    Price: ₹396.00 INR
 - [Dollar Men's Light Weight Breathable Windcheater Jacket with UV Protection and 2 Side Pockets](https://donedeals.xyz/products/dollar-mens-light-weight-breathable-windcheater-jacket-with-uv-protection-and-2-side-pockets-1): Product Details Name : Dollar Men's Light Weight Breathable Windcheater Jacket with UV Protection and 2 Side Pockets Fabric : Polyester Sleeve Length : Long Sleeves Pattern : Solid Net Quantity (N) : 1 Sizes : XL (Chest Size : 48 in, Length Size: 31 in) 4XL (Chest Size : 54 in, Length Size: 28 in) L (Chest Size : 46 in, Length Size: 30 in) M (Chest Size : 44 in, Length Size: 29 in) XXL (Chest Size : 50 in, Length Size: 32 in) XXXL (Chest Size : 52 in, Length Size: 27 in) Stay protected and stylish with our Men's Windcheater. The water-repellent fabric ensures you stay dry during unexpected drizzles, and the lightweight construction allows for easy wear and packing. The added hood offers extra coverage, while 2 front side pockets provide secure storage for all your essentials. Ideal for outdoor adventures and urban wear. Country of Origin : India More Information
   Updated: 2025-10-07T09:48:04Z
   Vendor: DoneDeals
@@ -23642,6 +24092,96 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/q1rou_512.webp?v=1759830478
   Price: ₹0.00 INR
+- [Dollar Men's Colourblock Light Weight Breathable Windcheater Jacket with UV Protection and 2 Side Pockets](https://donedeals.xyz/products/dollar-mens-colourblock-light-weight-breathable-windcheater-jacket-with-uv-protection-and-2-side-pockets): Product Details Name : Dollar Men's Colourblock Light Weight Breathable Windcheater Jacket with UV Protection and 2 Side Pockets Fabric : Polyester Sleeve Length : Long Sleeves Pattern : Colorblocked Net Quantity (N) : 1 Sizes : M (Chest Size : 44 in, Length Size: 27 in, Waist Size: 34 in) L (Chest Size : 46 in, Length Size: 28 in, Waist Size: 36 in) XL (Chest Size : 48 in, Length Size: 29 in, Waist Size: 38 in) XXL (Chest Size : 50 in, Length Size: 30 in, Waist Size: 40 in) XXXL (Chest Size : 52 in, Length Size: 31 in, Waist Size: 42 in) 4XL (Chest Size : 54 in, Length Size: 32 in, Waist Size: 44 in) Conquer the elements with our Men's Windcheater, designed for those who refuse to let the weather slow them down. This jacket is windproof, providing robust protection against harsh winds while maintaining comfort. Its water-repellent fabric ensures you stay dry during unexpected drizzles, and the lightweight construction allows for easy wear and packing, making it perfect for on-the-go adventures. Whether you're hiking, commuting, or just enjoying the outdoors, this windcheater has got you covered. Country of Origin : India More Information
+  Updated: 2025-10-12T13:01:56Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/41h1c_512.webp?v=1759830496
+  - [S](https://donedeals.xyz/products/dollar-mens-colourblock-light-weight-breathable-windcheater-jacket-with-uv-protection-and-2-side-pockets?variant=43671644340275)
+    Availability: Available
+    Price: ₹642.00 INR
+  - [M](https://donedeals.xyz/products/dollar-mens-colourblock-light-weight-breathable-windcheater-jacket-with-uv-protection-and-2-side-pockets?variant=43671644373043)
+    Availability: Available
+    Price: ₹642.00 INR
+  - [L](https://donedeals.xyz/products/dollar-mens-colourblock-light-weight-breathable-windcheater-jacket-with-uv-protection-and-2-side-pockets?variant=43671644405811)
+    Availability: Available
+    Price: ₹642.00 INR
+  - [XL](https://donedeals.xyz/products/dollar-mens-colourblock-light-weight-breathable-windcheater-jacket-with-uv-protection-and-2-side-pockets?variant=43671644438579)
+    Availability: Available
+    Price: ₹642.00 INR
+- [100% COTTON STYLISH JACKET FOR MEN](https://donedeals.xyz/products/100-cotton-stylish-jacket-for-men): Product Details Name : 100% COTTON STYLISH JACKET FOR MEN Fabric : Cotton Blend Sleeve Length : Long Sleeves Pattern : Solid Net Quantity (N) : 1 Sizes : S (Chest Size : 40 in, Length Size: 26 in, Waist Size: 36 in) M (Chest Size : 42 in, Length Size: 26 in, Waist Size: 38 in) L (Chest Size : 44 in, Length Size: 28 in, Waist Size: 40 in) XL (Chest Size : 46 in, Length Size: 28 in, Waist Size: 42 in) Country of Origin : India More Information
+  Updated: 2025-10-12T12:55:13Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/ewuwk_512.webp?v=1759830556
+  - [S](https://donedeals.xyz/products/100-cotton-stylish-jacket-for-men?variant=43671645257779)
+    Availability: Available
+    Price: ₹449.00 INR
+  - [M](https://donedeals.xyz/products/100-cotton-stylish-jacket-for-men?variant=43671645290547)
+    Availability: Available
+    Price: ₹449.00 INR
+  - [L](https://donedeals.xyz/products/100-cotton-stylish-jacket-for-men?variant=43671645323315)
+    Availability: Available
+    Price: ₹449.00 INR
+  - [XL](https://donedeals.xyz/products/100-cotton-stylish-jacket-for-men?variant=43671645356083)
+    Availability: Available
+    Price: ₹449.00 INR
+- [Force NXT Super Combed Cotton Mens Jacket with Zipper & Pockets](https://donedeals.xyz/products/force-nxt-super-combed-cotton-mens-jacket-with-zipper-pockets): Product Details Name : Force NXT Super Combed Cotton Mens Jacket with Zipper & Pockets Fabric : Cotton Sleeve Length : Long Sleeves Pattern : Solid Net Quantity (N) : 1 Sizes : S (Chest Size : 40 in, Length Size: 27 in) M (Chest Size : 42 in, Length Size: 28 in) L (Chest Size : 44 in, Length Size: 29 in) XL (Chest Size : 48 in, Length Size: 30 in) XXL (Chest Size : 40 in, Length Size: 30 in) Get ready for comfort and style with our FORCE NXT men's jacket, designed for both casual outings and winter wear. Crafted from super combed cotton rich interlock brushed fabric, this jacket offers an incredibly soft and warm feel, ensuring you stay cozy in cooler temperatures. The ribbed cuffs provide a secure fit, while the convenient zipper pocket adds practicality, perfect for keeping your essentials close at hand. With its modern design and versatile functionality, the FORCE NXT jacket effortlessly combines comfort, style, and practicality, making it an essential addition to your wardrobe for any season. Country of Origin : India More Information
+  Updated: 2025-10-12T13:08:08Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/mgagj_512.webp?v=1759830567
+  - [S](https://donedeals.xyz/products/force-nxt-super-combed-cotton-mens-jacket-with-zipper-pockets?variant=43671645388851)
+    Availability: Available
+    Price: ₹718.00 INR
+  - [M](https://donedeals.xyz/products/force-nxt-super-combed-cotton-mens-jacket-with-zipper-pockets?variant=43671645421619)
+    Availability: Available
+    Price: ₹718.00 INR
+  - [L](https://donedeals.xyz/products/force-nxt-super-combed-cotton-mens-jacket-with-zipper-pockets?variant=43671645454387)
+    Availability: Available
+    Price: ₹718.00 INR
+  - [XL](https://donedeals.xyz/products/force-nxt-super-combed-cotton-mens-jacket-with-zipper-pockets?variant=43671645487155)
+    Availability: Available
+    Price: ₹718.00 INR
+- [Dollar Men's Cotton Rich Fleece Jacket with Full Zipper & Pockets](https://donedeals.xyz/products/dollar-mens-cotton-rich-fleece-jacket-with-full-zipper-pockets): Product Details Name : Dollar Men's Cotton Rich Fleece Jacket with Full Zipper & Pockets Fabric : Cotton Sleeve Length : Long Sleeves Pattern : Solid Net Quantity (N) : 1 Sizes : S (Chest Size : 40 in, Length Size: 27 in) M (Chest Size : 42 in, Length Size: 28 in) L (Chest Size : 44 in, Length Size: 29 in) XL (Chest Size : 48 in, Length Size: 30 in) XXL (Chest Size : 40 in, Length Size: 30 in) Crafted from premium cotton fleece fabric, this jacket combines comfort and style with ease. It features ribbed sleeve cuffs and a bottom hem, ensuring a snug and streamlined fit. The jacket is equipped with straight pockets, each with a secure zip on one side, offering both practicality and sleek design. A contrast cut-and-sew panel with tape adds a bold, contemporary accent, elevating the overall look. Available in a wide range of attractive colors, this versatile jacket is perfect for those who want to stay cozy without sacrificing style. Country of Origin : India More Information
+  Updated: 2025-10-12T13:02:23Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/kmpqc_512.webp?v=1759830577
+  - [S](https://donedeals.xyz/products/dollar-mens-cotton-rich-fleece-jacket-with-full-zipper-pockets?variant=43671645519923)
+    Availability: Available
+    Price: ₹768.00 INR
+  - [M](https://donedeals.xyz/products/dollar-mens-cotton-rich-fleece-jacket-with-full-zipper-pockets?variant=43671645552691)
+    Availability: Available
+    Price: ₹768.00 INR
+  - [L](https://donedeals.xyz/products/dollar-mens-cotton-rich-fleece-jacket-with-full-zipper-pockets?variant=43671645585459)
+    Availability: Available
+    Price: ₹768.00 INR
+  - [XL](https://donedeals.xyz/products/dollar-mens-cotton-rich-fleece-jacket-with-full-zipper-pockets?variant=43671645618227)
+    Availability: Available
+    Price: ₹768.00 INR
+- [fashion upper](https://donedeals.xyz/products/fashion-upper): Product Details Name : fashion upper Fabric : Cotton Blend Sleeve Length : Long Sleeves Pattern : Printed Net Quantity (N) : 1 Sizes : M (Chest Size : 38 in, Length Size: 26 in, Waist Size: 38 in) L (Chest Size : 40 in, Length Size: 27 in, Waist Size: 40 in) A jacket is a garment for the upper body, usually extending below the hips. A jacket typically has sleeves and fastens in the front or slightly on the side. Country of Origin : India More Information
+  Updated: 2025-10-12T13:04:41Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/wierz_512.webp?v=1759830583
+  - [S](https://donedeals.xyz/products/fashion-upper?variant=43671645650995)
+    Availability: Available
+    Price: ₹432.00 INR
+  - [M](https://donedeals.xyz/products/fashion-upper?variant=43671645683763)
+    Availability: Available
+    Price: ₹432.00 INR
+  - [L](https://donedeals.xyz/products/fashion-upper?variant=43671645716531)
+    Availability: Available
+    Price: ₹432.00 INR
+  - [XL](https://donedeals.xyz/products/fashion-upper?variant=43671645749299)
+    Availability: Available
+    Price: ₹432.00 INR
 - [TWEUNBOY Casual Winter Wear Jackets For Men || Men's Solid Wind Cheater Jacket With Zipper || Ribbed Waist And Ribbed Wrist Cuffs For Perfect Fit || Casual And Sports Jacket](https://donedeals.xyz/products/tweunboy-casual-winter-wear-jackets-for-men-mens-solid-wind-cheater-jacket-with-zipper-ribbed-waist-and-ribbed-wrist-cuffs-for-perfect-fit-casual-and-sports-jacket-1): Product Details Name : TWEUNBOY Casual Winter Wear Jackets For Men || Men's Solid Wind Cheater Jacket With Zipper || Ribbed Waist And Ribbed Wrist Cuffs For Perfect Fit || Casual And Sports Jacket Fabric : Polyester Sleeve Length : Long Sleeves Pattern : Solid Net Quantity (N) : 1 Sizes : M (Chest Size : 20 in, Length Size: 26 in) L (Chest Size : 21 in, Length Size: 27 in) XL (Chest Size : 22 in, Length Size: 28 in) XXL (Chest Size : 23 in, Length Size: 29 in) XXXL Wear this stylish Polyester Windcheater from TWEUNBOY This windcheater is comfortable to wear that deflects wind, wicks away moisture and retains body heat; all with a waterproof outer shell. It has Ribbed Waist And Ribbed Wrist Cuffs For Perfect Fit. It is made for your daily schedule. Fetch a casual and cool look for yourself by teaming it with a pair of jeans and sneakers. This Solid pattern Wind cheater jacket which comes with a zip closure that makes it easy to wear. It is designed to provide maximum Comforttfor all outdoor activities, including sports, shopping, walking, hiking, and camping. Full Sleeve, Stylish zipper jacket which is enough of cover your palm when you feel cold, regular length windcheater Jackets, Perfect for Stylish Look. Country of Origin : India More Information
   Updated: 2025-10-07T09:50:18Z
   Vendor: DoneDeals
@@ -23656,6 +24196,60 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/wgg6n_512_728c4745-8b9c-42b4-a573-d66d0c03474b.webp?v=1759830633
   Price: ₹0.00 INR
+- [Dollar Men's Cotton Jacket with Full Zipper & Pockets](https://donedeals.xyz/products/dollar-mens-cotton-jacket-with-full-zipper-pockets): Product Details Name : Dollar Men's Cotton Jacket with Full Zipper & Pockets Fabric : Cotton Sleeve Length : Long Sleeves Pattern : Solid Net Quantity (N) : 1 Sizes : S (Length Size : 26 in) M (Length Size : 27 in) L (Length Size : 28 in) XL (Length Size : 29 in) XXL (Length Size : 30 in) This versatile jacket is meticulously designed to not only keep you warm in chilly weather but also elevate your fashion game with its sophisticated and rugged appeal. Country of Origin : India More Information
+  Updated: 2025-10-12T13:01:26Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/tkit1_512.webp?v=1759830673
+  - [S](https://donedeals.xyz/products/dollar-mens-cotton-jacket-with-full-zipper-pockets?variant=43671646961715)
+    Availability: Available
+    Price: ₹793.00 INR
+  - [M](https://donedeals.xyz/products/dollar-mens-cotton-jacket-with-full-zipper-pockets?variant=43671646994483)
+    Availability: Available
+    Price: ₹793.00 INR
+  - [L](https://donedeals.xyz/products/dollar-mens-cotton-jacket-with-full-zipper-pockets?variant=43671647027251)
+    Availability: Available
+    Price: ₹793.00 INR
+  - [XL](https://donedeals.xyz/products/dollar-mens-cotton-jacket-with-full-zipper-pockets?variant=43671647060019)
+    Availability: Available
+    Price: ₹793.00 INR
+- [black jacket, waterproof men jacket, monsoon wear,](https://donedeals.xyz/products/black-jacket-waterproof-men-jacket-monsoon-wear): Product Details Name : black jacket, waterproof men jacket, monsoon wear, Fabric : Polyester Sleeve Length : Long Sleeves Pattern : Solid Net Quantity (N) : 1 Sizes : S, M (Chest Size : 44 in, Length Size: 26 in) L (Chest Size : 46 in, Length Size: 27 in) XL (Chest Size : 46 in, Length Size: 28 in) XXL Stylish and trendy jacket for men's light waterproof and biker and partywear Men Jacket THANKYOU Country of Origin : India More Information
+  Updated: 2025-10-12T12:56:53Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/sjwso_512.webp?v=1759830683
+  - [S](https://donedeals.xyz/products/black-jacket-waterproof-men-jacket-monsoon-wear?variant=43671647092787)
+    Availability: Available
+    Price: ₹410.00 INR
+  - [M](https://donedeals.xyz/products/black-jacket-waterproof-men-jacket-monsoon-wear?variant=43671647125555)
+    Availability: Available
+    Price: ₹410.00 INR
+  - [L](https://donedeals.xyz/products/black-jacket-waterproof-men-jacket-monsoon-wear?variant=43671647158323)
+    Availability: Available
+    Price: ₹410.00 INR
+  - [XL](https://donedeals.xyz/products/black-jacket-waterproof-men-jacket-monsoon-wear?variant=43671647191091)
+    Availability: Available
+    Price: ₹410.00 INR
+- [Dollar Men's Reversible Light Weight Breathable Windcheater Jacket with UV Protection and 2 Side Pockets](https://donedeals.xyz/products/dollar-mens-reversible-light-weight-breathable-windcheater-jacket-with-uv-protection-and-2-side-pockets): Product Details Name : Dollar Men's Reversible Light Weight Breathable Windcheater Jacket with UV Protection and 2 Side Pockets Fabric : Polyester Sleeve Length : Long Sleeves Pattern : Solid Net Quantity (N) : 1 Sizes : M (Chest Size : 44 in, Length Size: 27 in, Waist Size: 34 in) L (Chest Size : 46 in, Length Size: 28 in, Waist Size: 36 in) XL (Chest Size : 48 in, Length Size: 29 in, Waist Size: 38 in) XXL (Chest Size : 50 in, Length Size: 30 in, Waist Size: 40 in) Experience the perfect blend of style, comfort, and functionality with our Men's Windcheater. This jacket is thoughtfully designed for those who love to stay active, no matter the weather. The water-repellent fabric keeps you dry during light rain, and its lightweight design ensures easy wear and mobility without added bulk. Perfect for outdoor activities, commuting, or casual wear, this windcheater combines functionality with modern style. Country of Origin : India More Information
+  Updated: 2025-10-12T13:02:00Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/igbo9_512.webp?v=1759830693
+  - [S](https://donedeals.xyz/products/dollar-mens-reversible-light-weight-breathable-windcheater-jacket-with-uv-protection-and-2-side-pockets?variant=43671647223859)
+    Availability: Available
+    Price: ₹668.00 INR
+  - [M](https://donedeals.xyz/products/dollar-mens-reversible-light-weight-breathable-windcheater-jacket-with-uv-protection-and-2-side-pockets?variant=43671647256627)
+    Availability: Available
+    Price: ₹668.00 INR
+  - [L](https://donedeals.xyz/products/dollar-mens-reversible-light-weight-breathable-windcheater-jacket-with-uv-protection-and-2-side-pockets?variant=43671647289395)
+    Availability: Available
+    Price: ₹668.00 INR
+  - [XL](https://donedeals.xyz/products/dollar-mens-reversible-light-weight-breathable-windcheater-jacket-with-uv-protection-and-2-side-pockets?variant=43671647322163)
+    Availability: Available
+    Price: ₹668.00 INR
 - [Men Colorblock Casual Jacket](https://donedeals.xyz/products/men-colorblock-casual-jacket-1): Product Details Name : Men Colorblock Casual Jacket Fabric : Nylon Sleeve Length : Long Sleeves Pattern : Colorblocked Net Quantity (N) : 1 Sizes : M (Chest Size : 44 in, Length Size: 26 in) L (Chest Size : 46 in, Length Size: 27 in) XL (Chest Size : 48 in, Length Size: 28 in) Country of Origin : India More Information
   Updated: 2025-10-07T09:52:55Z
   Vendor: DoneDeals
@@ -23663,6 +24257,24 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/lgzkg_512_9667c9c5-2dc0-4f74-a73f-bea1bd2621ff.webp?v=1759830770
   Price: ₹0.00 INR
+- [Black .. bindchater](https://donedeals.xyz/products/black-bindchater): Product Details Name : Black .. bindchater Fabric : Nylon Sleeve Length : Long Sleeves Pattern : Colorblocked Net Quantity (N) : 1 Sizes : L (Length Size : 28 in) Country of Origin : India More Information
+  Updated: 2025-10-12T12:56:46Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/sebla_512.webp?v=1759830790
+  - [S](https://donedeals.xyz/products/black-bindchater?variant=43671648665651)
+    Availability: Available
+    Price: ₹383.00 INR
+  - [M](https://donedeals.xyz/products/black-bindchater?variant=43671648698419)
+    Availability: Available
+    Price: ₹383.00 INR
+  - [L](https://donedeals.xyz/products/black-bindchater?variant=43671648731187)
+    Availability: Available
+    Price: ₹383.00 INR
+  - [XL](https://donedeals.xyz/products/black-bindchater?variant=43671648763955)
+    Availability: Available
+    Price: ₹383.00 INR
 - [jacket for men ; partywear men jacket ; bomber jacket for men ; winter jacket ; biker jacket ; oversize jacket ; men jacket ; designer men jacket ; woolen jacket men ; mens jacket ; puffer jacket](https://donedeals.xyz/products/jacket-for-men-partywear-men-jacket-bomber-jacket-for-men-winter-jacket-biker-jacket-oversize-jacket-men-jacket-designer-men-jacket-woolen-jacket-men-mens-jacket-puffer-jacket-1): Product Details Name : jacket for men ; partywear men jacket ; bomber jacket for men ; winter jacket ; biker jacket ; oversize jacket ; men jacket ; designer men jacket ; woolen jacket men ; mens jacket ; puffer jacket Fabric : Nylon Sleeve Length : Long Sleeves Pattern : Solid Net Quantity (N) : 1 Sizes : M (Chest Size : 44 in, Length Size: 27 in, Waist Size: 38 in) L (Chest Size : 46 in, Length Size: 28 in, Waist Size: 40 in) XL (Chest Size : 48 in, Length Size: 29 in, Waist Size: 42 in) Having more than 10+ years of experience in manufacturing garments, we present to you high quality windcheaters from the house of BrothersFab. These windcheaters are specially manufactured in high quality laminated TPU fabric that's not only waterproof, tear resistant and abrasion resistant but also extremely soft and durable. This windcheater is wind proof and also protects the person in cold weather. It is also equipped with knitted polyester fabric interlining for extra strength, durability and comfort. These windcheaters are carefully stitched and packed under strict regulations. We take care of every small detail so that you feel good while wearing it every day. Country of Origin : India Country of Origin : India More Information
   Updated: 2025-10-07T09:53:48Z
   Vendor: DoneDeals
@@ -23670,6 +24282,42 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/tvzlr_512.webp?v=1759830823
   Price: ₹0.00 INR
+- [Gimco Light Grey Unisex Bomber Jacket](https://donedeals.xyz/products/gimco-light-grey-unisex-bomber-jacket): Product Details Name : Gimco Light Grey Unisex Bomber Jacket Fabric : Polyester Sleeve Length : Long Sleeves Pattern : Solid Net Quantity (N) : 1 Sizes : L (Chest Size : 23 in, Length Size: 28 in) XXL (Chest Size : 25 in, Length Size: 30 in) Gimco Casual Winter wear /Fancy Look/Adult/Boy's/Men/Women/Girls/(M To XXL)/Outdoor Adventures/Twin Utility Pockets Jacket. Country of Origin : India More Information
+  Updated: 2025-10-12T13:11:15Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/liaqy_512.webp?v=1759830833
+  - [S](https://donedeals.xyz/products/gimco-light-grey-unisex-bomber-jacket?variant=43671649321011)
+    Availability: Available
+    Price: ₹425.00 INR
+  - [M](https://donedeals.xyz/products/gimco-light-grey-unisex-bomber-jacket?variant=43671649353779)
+    Availability: Available
+    Price: ₹425.00 INR
+  - [L](https://donedeals.xyz/products/gimco-light-grey-unisex-bomber-jacket?variant=43671649386547)
+    Availability: Available
+    Price: ₹425.00 INR
+  - [XL](https://donedeals.xyz/products/gimco-light-grey-unisex-bomber-jacket?variant=43671649419315)
+    Availability: Available
+    Price: ₹425.00 INR
+- [Black Biker Jacket](https://donedeals.xyz/products/black-biker-jacket): Product Details Name : Black Biker Jacket Fabric : Leather Sleeve Length : Long Sleeves Pattern : Solid Net Quantity (N) : 1 Sizes : S, M, L, XL, XXL Country of Origin : India More Information
+  Updated: 2025-10-12T12:56:44Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/grfdh_512.webp?v=1759830867
+  - [S](https://donedeals.xyz/products/black-biker-jacket?variant=43671649845299)
+    Availability: Available
+    Price: ₹1,105.00 INR
+  - [M](https://donedeals.xyz/products/black-biker-jacket?variant=43671649878067)
+    Availability: Available
+    Price: ₹1,105.00 INR
+  - [L](https://donedeals.xyz/products/black-biker-jacket?variant=43671649910835)
+    Availability: Available
+    Price: ₹1,105.00 INR
+  - [XL](https://donedeals.xyz/products/black-biker-jacket?variant=43671649943603)
+    Availability: Available
+    Price: ₹1,105.00 INR
 - [PLIX Apple Cider Vinegar Effervescent Tablets with the Mother, 700mg ACV with Vit B12, B6, Pack of 1 |Vegan, No Added Sugar, non-GMO & Gluten-Free](https://donedeals.xyz/products/plix-apple-cider-vinegar-effervescent-tablets-with-the-mother-700mg-acv-with-vit-b12-b6-pack-of-1-vegan-no-added-sugar-non-gmo-gluten-free): Product Details Name : PLIX Apple Cider Vinegar Effervescent Tablets with the Mother, 700mg ACV with Vit B12, B6, Pack of 1 |Vegan, No Added Sugar, non-GMO & Gluten-Free Brand : PLIX FSSAI License Number : 11522998000546 Net Quantity (N) : 1 Shelf life (Best Before) : 18 Months A healthy and refreshing ACV drink that combines all the benefits of apples and pomegranates to give you multiple health benefits. Our flavour-filled 500mg of ACV weight loss tablet reduces your cravings and keeps you satiated for longer. This process prevents one from over eating while enabling to manage daily intake of optimal calories. It results in effective weight loss on the scale while also assisting you in achieving your health goals. Further, the acetic acid, present in apple cider vinegar, helps lower fat deposition and boost metabolism. As fat is burned and blood cholesterol and blood sugar levels are lowered, the body limits the production of bad cholesterol and increases insulin sensitivity. This strengthens the gut lining and reduces insulin production resulting in weight loss. The tablets fortified with vitamins B12 and B6 improve brain function and blood haemoglobin levels. Overall, this energy drink helps to lose weight while detoxifying your body. The Vegan, Non-GMO, Gluten-Free & Gelatin Free tablet tube is compact. Stay fit wherever you go with the Plix Apple Cider Vinegar Drink. Ideal for the on-the-go drinkers! Country of Origin : India More Information
   Updated: 2025-10-09T18:32:07Z
   Vendor: DoneDeals
@@ -23733,6 +24381,60 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/4ybck_512.webp?v=1760079494
   Price: ₹0.00 INR
+- [BLACK](https://donedeals.xyz/products/black): Product Details Name : BLACK Fabric : Denim Pattern : Dyed/Washed Net Quantity (N) : 1 DENIM CARGO JEANS JOGGER VERY GOOD FABRIC PRODUCT BY A TRENDS WITH TAGE YOUR CHOICE AND ALL TYPE WASH IN THIS SUMMER PLEASE BUY AND GIVE ME GOOD RETING THANK S Sizes : 36 Country of Origin : India More Information
+  Updated: 2025-10-12T12:56:44Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/iiu2z_512.webp?v=1760079500
+  - [28](https://donedeals.xyz/products/black?variant=43675766620211)
+    Availability: Available
+    Price: ₹390.00 INR
+  - [30](https://donedeals.xyz/products/black?variant=43675766652979)
+    Availability: Available
+    Price: ₹390.00 INR
+  - [32](https://donedeals.xyz/products/black?variant=43675766685747)
+    Availability: Available
+    Price: ₹390.00 INR
+  - [34](https://donedeals.xyz/products/black?variant=43675766718515)
+    Availability: Available
+    Price: ₹390.00 INR
+- [Black jeans for men](https://donedeals.xyz/products/black-jeans-for-men): Product Details Name : Black jeans for men Fabric : Cotton Blend Pattern : Solid Net Quantity (N) : 1 Designed with a modern twist, these jeans boast a flattering fit that pairs well with both casual and dressy looks. Sizes : 28, 30, 32 Country of Origin : India More Information
+  Updated: 2025-10-12T12:57:02Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/mrubs_512.webp?v=1760079552
+  - [28](https://donedeals.xyz/products/black-jeans-for-men?variant=43675767406643)
+    Availability: Available
+    Price: ₹351.00 INR
+  - [30](https://donedeals.xyz/products/black-jeans-for-men?variant=43675767439411)
+    Availability: Available
+    Price: ₹351.00 INR
+  - [32](https://donedeals.xyz/products/black-jeans-for-men?variant=43675767472179)
+    Availability: Available
+    Price: ₹351.00 INR
+  - [34](https://donedeals.xyz/products/black-jeans-for-men?variant=43675767504947)
+    Availability: Available
+    Price: ₹351.00 INR
+- [Gray jeans stylish stretching](https://donedeals.xyz/products/gray-jeans-stylish-stretching): Product Details Name : Gray jeans stylish stretching Fabric : Denim Pattern : Dyed/Washed Net Quantity (N) : 1 Gray stlylish jeans comfortable Sizes : 28, 30, 32 Country of Origin : India More Information
+  Updated: 2025-10-12T13:11:33Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/p3wgw_512.webp?v=1760079560
+  - [28](https://donedeals.xyz/products/gray-jeans-stylish-stretching?variant=43675767537715)
+    Availability: Available
+    Price: ₹606.00 INR
+  - [30](https://donedeals.xyz/products/gray-jeans-stylish-stretching?variant=43675767570483)
+    Availability: Available
+    Price: ₹606.00 INR
+  - [32](https://donedeals.xyz/products/gray-jeans-stylish-stretching?variant=43675767603251)
+    Availability: Available
+    Price: ₹606.00 INR
+  - [34](https://donedeals.xyz/products/gray-jeans-stylish-stretching?variant=43675767636019)
+    Availability: Available
+    Price: ₹606.00 INR
 - [Men Cotton Blend Black jeans](https://donedeals.xyz/products/men-cotton-blend-black-jeans-1): Product Details Name : Men Cotton Blend Black jeans Fabric : Cotton Blend Pattern : Solid Net Quantity (N) : 1 BLACK JEANS FOR MENS Sizes : 28 (Waist Size : 29 in, Length Size: 39 in) 30 (Waist Size : 31 in, Length Size: 39 in) 32 (Waist Size : 33 in, Length Size: 39 in) Country of Origin : India More Information
   Updated: 2025-10-10T06:59:32Z
   Vendor: DoneDeals
@@ -23740,6 +24442,24 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/cuku0_512_7a161029-20fa-4e56-a845-dd3e7105148d.webp?v=1760079567
   Price: ₹0.00 INR
+- [EYEBOGLER MENS TAPERED FIT DENIM JEANS](https://donedeals.xyz/products/eyebogler-mens-tapered-fit-denim-jeans): Product Details Name : EYEBOGLER MENS TAPERED FIT DENIM JEANS Fabric : Denim Pattern : Dyed/Washed Net Quantity (N) : 1 The Eyebogler Men's Tapered Fit Denim Jeans feature a modern tapered silhouette for a sleek look. Made from a soft, durable cotton blend with stretch for , these jeans offer classic five-pocket styling and a zip fly. Available in various washes, they’re versatile enough for both casual and dressed-up occasions. Sizes : 30 (Waist Size : 13 in, Length Size: 37 in, Hip Size: 15 in) 32 (Waist Size : 14 in, Length Size: 38 in, Hip Size: 16 in) 34 (Waist Size : 15 in, Length Size: 39 in, Hip Size: 17 in) 36 (Waist Size : 16 in, Length Size: 40 in, Hip Size: 18 in) Country of Origin : India More Information
+  Updated: 2025-10-12T13:04:22Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/r32ca_512.webp?v=1760079600
+  - [28](https://donedeals.xyz/products/eyebogler-mens-tapered-fit-denim-jeans?variant=43675768193075)
+    Availability: Available
+    Price: ₹654.00 INR
+  - [30](https://donedeals.xyz/products/eyebogler-mens-tapered-fit-denim-jeans?variant=43675768225843)
+    Availability: Available
+    Price: ₹654.00 INR
+  - [32](https://donedeals.xyz/products/eyebogler-mens-tapered-fit-denim-jeans?variant=43675768258611)
+    Availability: Available
+    Price: ₹654.00 INR
+  - [34](https://donedeals.xyz/products/eyebogler-mens-tapered-fit-denim-jeans?variant=43675768291379)
+    Availability: Available
+    Price: ₹654.00 INR
 - [MONK BLACK PLAIN JEANS](https://donedeals.xyz/products/monk-black-plain-jeans-1): Product Details Name : MONK BLACK PLAIN JEANS Fabric : Denim Pattern : Solid Net Quantity (N) : 1 MONK MEN JEANS is an amazing product launched by SHRIRADHE ENTERPRISES. It will fit you perfectly and will enhance your look at any occasion. Sizes : 26, 28 (Waist Size : 28 in, Length Size: 40 in) 30 (Waist Size : 30 in, Length Size: 40 in) 32 (Waist Size : 32 in, Length Size: 40 in) Country of Origin : India More Information
   Updated: 2025-10-10T07:00:46Z
   Vendor: DoneDeals
@@ -23747,6 +24467,60 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/wzglg_512.webp?v=1760079633
   Price: ₹0.00 INR
+- [Baggy Straight fit Men's Cotton Jeans](https://donedeals.xyz/products/baggy-straight-fit-mens-cotton-jeans): Product Details Name : Baggy Straight fit Men's Cotton Jeans Fabric : Cotton Pattern : Solid Net Quantity (N) : 1 Step up in taste with this jeans made from denim and in different shades and colors. Made in cotton stretch fabric - to give extra frill. Perfect for your daily use, could be pair it with a stylish t-shirt or shirt to complete the look. Have comfortable front pockets and back pockets that is perfect for your casual wear. Sizes : 32 (Waist Size : 33 in, Length Size: 41 in, Hip Size: 41 in) 34 (Waist Size : 35 in, Length Size: 41 in, Hip Size: 43 in) Country of Origin : India More Information
+  Updated: 2025-10-12T12:56:03Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/lsnew_512.webp?v=1760079654
+  - [28](https://donedeals.xyz/products/baggy-straight-fit-mens-cotton-jeans?variant=43675768979507)
+    Availability: Available
+    Price: ₹822.00 INR
+  - [30](https://donedeals.xyz/products/baggy-straight-fit-mens-cotton-jeans?variant=43675769012275)
+    Availability: Available
+    Price: ₹822.00 INR
+  - [32](https://donedeals.xyz/products/baggy-straight-fit-mens-cotton-jeans?variant=43675769045043)
+    Availability: Available
+    Price: ₹822.00 INR
+  - [34](https://donedeals.xyz/products/baggy-straight-fit-mens-cotton-jeans?variant=43675769077811)
+    Availability: Available
+    Price: ₹822.00 INR
+- [Blue Cargo Shorts Mid-rise Stretchable 6 Pockets Dyed Washed Denim Shorts For Men Button Closure Jeans Half Pant For Boys](https://donedeals.xyz/products/blue-cargo-shorts-mid-rise-stretchable-6-pockets-dyed-washed-denim-shorts-for-men-button-closure-jeans-half-pant-for-boys): Product Details Name : Blue Cargo Shorts Mid-rise Stretchable 6 Pockets Dyed Washed Denim Shorts For Men Button Closure Jeans Half Pant For Boys Fabric : Denim Pattern : Dyed/Washed Net Quantity (N) : 1 Our Mid-Rise Stretchable Denim Cargo Shorts for men are the epitome of comfort and style. Who doesn't enjoy more storage?, these shorts include six roomy pockets that are ideal for holding your necessities while looking effortlessly stylish. Because they are made of elastic denim, they move with you whether you're lounging or going on adventures. Tough, practical, and fashionable, these cargo shorts are an essential addition to any summer outfit! Sizes : 28 (Waist Size : 28 in, Length Size: 20 in, Hip Size: 36 in) 30 (Waist Size : 30 in, Length Size: 20 in, Hip Size: 37 in) Country of Origin : India More Information
+  Updated: 2025-10-12T12:57:11Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/yhmch_512.webp?v=1760079675
+  - [28](https://donedeals.xyz/products/blue-cargo-shorts-mid-rise-stretchable-6-pockets-dyed-washed-denim-shorts-for-men-button-closure-jeans-half-pant-for-boys?variant=43675769372723)
+    Availability: Available
+    Price: ₹380.00 INR
+  - [30](https://donedeals.xyz/products/blue-cargo-shorts-mid-rise-stretchable-6-pockets-dyed-washed-denim-shorts-for-men-button-closure-jeans-half-pant-for-boys?variant=43675769405491)
+    Availability: Available
+    Price: ₹380.00 INR
+  - [32](https://donedeals.xyz/products/blue-cargo-shorts-mid-rise-stretchable-6-pockets-dyed-washed-denim-shorts-for-men-button-closure-jeans-half-pant-for-boys?variant=43675769438259)
+    Availability: Available
+    Price: ₹380.00 INR
+  - [34](https://donedeals.xyz/products/blue-cargo-shorts-mid-rise-stretchable-6-pockets-dyed-washed-denim-shorts-for-men-button-closure-jeans-half-pant-for-boys?variant=43675769471027)
+    Availability: Available
+    Price: ₹380.00 INR
+- [Black jeans white Rib](https://donedeals.xyz/products/black-jeans-white-rib): Product Details Name : Black jeans white Rib Fabric : Denim Pattern : Solid Net Quantity (N) : 1 Sizes : 28, 30, 32 Country of Origin : India More Information
+  Updated: 2025-10-12T12:56:55Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/usomw_512.webp?v=1760079682
+  - [28](https://donedeals.xyz/products/black-jeans-white-rib?variant=43675769503795)
+    Availability: Available
+    Price: ₹436.00 INR
+  - [30](https://donedeals.xyz/products/black-jeans-white-rib?variant=43675769536563)
+    Availability: Available
+    Price: ₹436.00 INR
+  - [32](https://donedeals.xyz/products/black-jeans-white-rib?variant=43675769569331)
+    Availability: Available
+    Price: ₹436.00 INR
+  - [34](https://donedeals.xyz/products/black-jeans-white-rib?variant=43675769602099)
+    Availability: Available
+    Price: ₹436.00 INR
 - [Men Premium Trousers Pant](https://donedeals.xyz/products/men-premium-trousers-pant-1): Product Details Name : Men Premium Trousers Pant Fabric : Lycra Pattern : Solid Net Quantity (N) : 1 Name : Premium Partywear Mens Trousers Fabric : Lycra Fabric : Lycra Pattern : Solid Net Quan Pattern : Solid Net Quantity (N) : 1 Name : Men 2 way Trouser Fabric : Lycra Pattern : Solid Net Quantity (N) : 1 28 (Waist Size : 28 in, Length Size: 37 in, 30 (Waist Size : 30 in, Length Size: 38 in, 32 (Waist Size : 32 in, Length Size: 39 in, 34 (Waist Size : 34 in, Length Size: 40 in, Country of Origin : India Sizes : 28 (Waist Size : 28 in, Length Size: 37 in, Hip Size: 28 in) 30 (Waist Size : 30 in, Length Size: 38 in, Hip Size: 30 in) 32 (Waist Size : 32 in, Length Size: 39 in, Hip Size: 32 in) 34 (Waist Size : 34 in, Length Size: 40 in, Hip Size: 34 in) Country of Origin : India More Information
   Updated: 2025-10-10T07:02:04Z
   Vendor: DoneDeals
@@ -23754,6 +24528,42 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/fa5ku_512.webp?v=1760079719
   Price: ₹0.00 INR
+- [Eetma ! Lycra trouser! Trending product! Csaual wear! Mens Wear!](https://donedeals.xyz/products/eetma-lycra-trouser-trending-product-csaual-wear-mens-wear): Product Details Name : Eetma ! Lycra trouser! Trending product! Csaual wear! Mens Wear! Fabric : Cotton Pattern : Solid Net Quantity (N) : 1 Trouser !Eetma ! Lycra Trouser ! Casual wear! Mahndi colour ! Sizes : 28 (Waist Size : 28 in, Length Size: 38 in, Hip Size: 32 in) 30 (Waist Size : 30 in, Length Size: 39 in, Hip Size: 34 in) 32 (Waist Size : 32 in, Length Size: 40 in, Hip Size: 36 in) 34 (Waist Size : 34 in, Length Size: 41 in, Hip Size: 38 in) Country of Origin : India More Information
+  Updated: 2025-10-12T13:03:11Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/jqlme_512.webp?v=1760079758
+  - [28](https://donedeals.xyz/products/eetma-lycra-trouser-trending-product-csaual-wear-mens-wear?variant=43675770814515)
+    Availability: Available
+    Price: ₹257.00 INR
+  - [30](https://donedeals.xyz/products/eetma-lycra-trouser-trending-product-csaual-wear-mens-wear?variant=43675770847283)
+    Availability: Available
+    Price: ₹257.00 INR
+  - [32](https://donedeals.xyz/products/eetma-lycra-trouser-trending-product-csaual-wear-mens-wear?variant=43675770880051)
+    Availability: Available
+    Price: ₹257.00 INR
+  - [34](https://donedeals.xyz/products/eetma-lycra-trouser-trending-product-csaual-wear-mens-wear?variant=43675770912819)
+    Availability: Available
+    Price: ₹257.00 INR
+- [HackStar formal Pants for Men | Men's Slim fit Formal Pant | Stretchable Trouser | Party wear Trousers](https://donedeals.xyz/products/hackstar-formal-pants-for-men-mens-slim-fit-formal-pant-stretchable-trouser-party-wear-trousers): Product Details Name : HackStar formal Pants for Men | Men's Slim fit Formal Pant | Stretchable Trouser | Party wear Trousers Fabric : Cotton Blend Pattern : Self-Design Net Quantity (N) : 1 HackStar Cotton Regular Fit Casual Trousers For Man. Formal pant, trouser, office regular casual pant is very comfortableable to wear. you buy our store at low cost with multiple colors AD & AV a Brand trusted by many since last few decades now brings here for the most popular of their products. This Trouser made from High quality fabric . Mid/High Waist comfortable fit product and it ensures relaxed wearer. Multi Utility as Wear makes this must in your wardrobe. Sizes : 26 (Waist Size : 26 in, Length Size: 38 in, Hip Size: 26 in) 28 (Waist Size : 28 in, Length Size: 38 in, Hip Size: 28 in) 30 (Waist Size : 30 in, Length Size: 38 in, Hip Size: 30 in) 32 (Waist Size : 32 in, Length Size: 38 in, Hip Size: 32 in) 34 (Waist Size : 34 in, Length Size: 38 in, Hip Size: 34 in) Country of Origin : India More Information
+  Updated: 2025-10-12T13:10:41Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/wjt82_512.webp?v=1760079764
+  - [28](https://donedeals.xyz/products/hackstar-formal-pants-for-men-mens-slim-fit-formal-pant-stretchable-trouser-party-wear-trousers?variant=43675770945587)
+    Availability: Available
+    Price: ₹258.00 INR
+  - [30](https://donedeals.xyz/products/hackstar-formal-pants-for-men-mens-slim-fit-formal-pant-stretchable-trouser-party-wear-trousers?variant=43675770978355)
+    Availability: Available
+    Price: ₹258.00 INR
+  - [32](https://donedeals.xyz/products/hackstar-formal-pants-for-men-mens-slim-fit-formal-pant-stretchable-trouser-party-wear-trousers?variant=43675771011123)
+    Availability: Available
+    Price: ₹258.00 INR
+  - [34](https://donedeals.xyz/products/hackstar-formal-pants-for-men-mens-slim-fit-formal-pant-stretchable-trouser-party-wear-trousers?variant=43675771043891)
+    Availability: Available
+    Price: ₹258.00 INR
 - [Men Trouser In plain and formal pattern on lowest price](https://donedeals.xyz/products/men-trouser-in-plain-and-formal-pattern-on-lowest-price-1): Product Details Name : Men Trouser In plain and formal pattern on lowest price Fabric : Polycotton Pattern : Solid Net Quantity (N) : 1 Sizes : 28 (Waist Size : 30 in, Length Size: 39 in, Hip Size: 28 in) 30 (Waist Size : 32 in, Length Size: 39 in, Hip Size: 30 in) 32 (Waist Size : 34 in, Length Size: 40 in, Hip Size: 32 in) 34 (Waist Size : 36 in, Length Size: 40 in, Hip Size: 34 in) 36 (Waist Size : 38 in, Length Size: 41 in, Hip Size: 36 in) Country of Origin : India More Information
   Updated: 2025-10-10T07:02:58Z
   Vendor: DoneDeals
@@ -23761,6 +24571,60 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/flcpm_512.webp?v=1760079769
   Price: ₹0.00 INR
+- [Cargo shorts with 6 pocket](https://donedeals.xyz/products/cargo-shorts-with-6-pocket): Product Details Name : Cargo shorts with 6 pocket Fabric : Cotton Pattern : Dyed/Washed Net Quantity (N) : 1 Elevate your casual look with these sleek black cargo shorts! Made with pan ="font-size : 0.9375rem; background-: r and functionality in mind, these shorts feature Sizes : 30 (Waist Size : 30 in, Length Size: 20 in, Hip Size: 39 in) 32 (Waist Size : 32 in, Length Size: 20 in, Hip Size: 41 in) 34 (Waist Size : 34 in, Length Size: 20 in, Hip Size: 43 in) 36 (Waist Size : 36 in, Length Size: 20 in, Hip Size: 45 in) Country of Origin : India More Information
+  Updated: 2025-10-12T12:57:32Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/2afei_512.webp?v=1760079824
+  - [28](https://donedeals.xyz/products/cargo-shorts-with-6-pocket?variant=43675771863091)
+    Availability: Available
+    Price: ₹544.00 INR
+  - [30](https://donedeals.xyz/products/cargo-shorts-with-6-pocket?variant=43675771895859)
+    Availability: Available
+    Price: ₹544.00 INR
+  - [32](https://donedeals.xyz/products/cargo-shorts-with-6-pocket?variant=43675771928627)
+    Availability: Available
+    Price: ₹544.00 INR
+  - [34](https://donedeals.xyz/products/cargo-shorts-with-6-pocket?variant=43675771961395)
+    Availability: Available
+    Price: ₹544.00 INR
+- [Brown and Green Colour Comfortable Flexible best stylish Men’s Cargo Track Pant with 2 Cargo Leg Pocket with Flap, Big Size, Under 500, Best for Cycling & Running Combo of 2](https://donedeals.xyz/products/brown-and-green-colour-comfortable-flexible-best-stylish-men-s-cargo-track-pant-with-2-cargo-leg-pocket-with-flap-big-size-under-500-best-for-cycling-running-combo-of-2): Product Details Name : Brown and Green Colour Comfortable Flexible best stylish Men’s Cargo Track Pant with 2 Cargo Leg Pocket with Flap, Big Size, Under 500, Best for Cycling & Running Combo of 2 Fabric : Lycra Pattern : Solid Net Quantity (N) : 2 Upgrade your wardrobe with this Men’s Trendy Black Jogger Trouser Combo, designed for both style and comfort. Crafted from premium-quality stretchable fabric, these trousers offer a perfect fit for all-day wear. The combo includes solid cargo, jogger, and formal-style trousers — making it ideal for casual outings, office wear, gym, travel, or everyday use. Made with soft breathable material, these pants ensure durability and comfort in every season. The elastic waistband and modern tapered fit give you a smart and fashionable look that pairs perfectly with T-shirts, hoodies, or shirts. ✨ Features Combo of Trendy Jogger & Solid Trouser Pants Premium quality fabric – soft, stretchable, and durable Perfect fit for all-day comfort Suitable for Casual, Formal, Travel & Gym wear Stylish design with a modern look Available in multiple sizes for men ♂️ Ideal For Daily wear Office & college use Casual outings & travel Gym, jogging, and outdoor activities Sizes : 30 (Waist Size : 30 in, Length Size: 38 in, Hip Size: 32 in) 32 (Waist Size : 32 in, Length Size: 39 in, Hip Size: 34 in) 34 (Waist Size : 34 in, Length Size: 40 in, Hip Size: 36 in) 36 (Waist Size : 36 in, Length Size: 41 in, Hip Size: 38 in) Country of Origin : India More Information
+  Updated: 2025-10-12T12:57:22Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/vw2ki_512.webp?v=1760079833
+  - [28](https://donedeals.xyz/products/brown-and-green-colour-comfortable-flexible-best-stylish-men-s-cargo-track-pant-with-2-cargo-leg-pocket-with-flap-big-size-under-500-best-for-cycling-running-combo-of-2?variant=43675771994163)
+    Availability: Available
+    Price: ₹695.00 INR
+  - [30](https://donedeals.xyz/products/brown-and-green-colour-comfortable-flexible-best-stylish-men-s-cargo-track-pant-with-2-cargo-leg-pocket-with-flap-big-size-under-500-best-for-cycling-running-combo-of-2?variant=43675772026931)
+    Availability: Available
+    Price: ₹695.00 INR
+  - [32](https://donedeals.xyz/products/brown-and-green-colour-comfortable-flexible-best-stylish-men-s-cargo-track-pant-with-2-cargo-leg-pocket-with-flap-big-size-under-500-best-for-cycling-running-combo-of-2?variant=43675772059699)
+    Availability: Available
+    Price: ₹695.00 INR
+  - [34](https://donedeals.xyz/products/brown-and-green-colour-comfortable-flexible-best-stylish-men-s-cargo-track-pant-with-2-cargo-leg-pocket-with-flap-big-size-under-500-best-for-cycling-running-combo-of-2?variant=43675772092467)
+    Availability: Available
+    Price: ₹695.00 INR
+- [BEST SELLER FORMAL TROUSER FOR MEN||MENS TROUSER||LYCRA TROUSER FOR MEN||LYCRA TROUSER||MENS TROUSER||STRETCHABLE TROUSER](https://donedeals.xyz/products/best-seller-formal-trouser-for-men-mens-trouser-lycra-trouser-for-men-lycra-trouser-mens-trouser-stretchable-trouser): Product Details Name : BEST SELLER FORMAL TROUSER FOR MEN||MENS TROUSER||LYCRA TROUSER FOR MEN||LYCRA TROUSER||MENS TROUSER||STRETCHABLE TROUSER Fabric : Lycra Pattern : Solid Net Quantity (N) : 1 BEST SELLER FORMAL TROUSER FOR MEN . -• FABRIC : solid Lycra casual trousers are crafted with Premium Quality of Lycra. light weight fabric is used for making these chinos. The fabric used is versatile, light, durable, and low maintenance. -• STRETCHABLE WAIST SIZE : Pant waist is the same as actual waist when measured with a measuring tape. If in doubt, order a size bigger, as the lycra stretch fabric ensures that the waistband STRETCHES UP TO 2 INCHES extra. Due to margin left in the pant, waist size can be altered to further decrease waist by up to 2 inches if needed. Ensures the perfect fitting. -• COMFORTABLE : These casual trouser are made from the lightweight material, offer superior comfortable, and enhance breathability. It gives soft and smooth touch against the skin. It is super comfortable for the whole day or while you dance the night away. Sizes : 28 (Waist Size : 28 in, Length Size: 37 in, Hip Size: 34 in) 30 (Waist Size : 30 in, Length Size: 38 in, Hip Size: 36 in) 32 (Waist Size : 32 in, Length Size: 38 in, Hip Size: 38 in) 34 (Waist Size : 34 in, Length Size: 39 in, Hip Size: 40 in) Country of Origin : India More Information
+  Updated: 2025-10-12T12:56:44Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/tebxu_512.webp?v=1760079843
+  - [28](https://donedeals.xyz/products/best-seller-formal-trouser-for-men-mens-trouser-lycra-trouser-for-men-lycra-trouser-mens-trouser-stretchable-trouser?variant=43675772256307)
+    Availability: Available
+    Price: ₹315.00 INR
+  - [30](https://donedeals.xyz/products/best-seller-formal-trouser-for-men-mens-trouser-lycra-trouser-for-men-lycra-trouser-mens-trouser-stretchable-trouser?variant=43675772289075)
+    Availability: Available
+    Price: ₹315.00 INR
+  - [32](https://donedeals.xyz/products/best-seller-formal-trouser-for-men-mens-trouser-lycra-trouser-for-men-lycra-trouser-mens-trouser-stretchable-trouser?variant=43675772321843)
+    Availability: Available
+    Price: ₹315.00 INR
+  - [34](https://donedeals.xyz/products/best-seller-formal-trouser-for-men-mens-trouser-lycra-trouser-for-men-lycra-trouser-mens-trouser-stretchable-trouser?variant=43675772354611)
+    Availability: Available
+    Price: ₹315.00 INR
 - [Best Cargo for men](https://donedeals.xyz/products/best-cargo-for-men): Product Details Name : Best Cargo for men Fabric : Cotton Blend Pattern : Solid Net Quantity (N) : 1 Best cargo of the year in Saturated world Sizes : 28 (Waist Size : 28 in, Length Size: 38 in, Hip Size: 42 in) 30 (Waist Size : 30 in, Length Size: 39 in, Hip Size: 45 in) 32 (Waist Size : 32 in, Length Size: 40 in, Hip Size: 46 in) 34 (Waist Size : 34 in, Length Size: 41 in, Hip Size: 50 in) Country of Origin : India More Information
   Updated: 2025-10-10T07:04:42Z
   Vendor: DoneDeals
@@ -23775,6 +24639,150 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/ewpwg_512.webp?v=1760079886
   Price: ₹0.00 INR
+- [Gurkha Pants for Men, Trouser Pants for Men- Classic & Stylish Men's Trousers, Mid-Waisted Pleated Pant, Comfortable & Durable Vintage- Gurkha Pant](https://donedeals.xyz/products/gurkha-pants-for-men-trouser-pants-for-men-classic-stylish-mens-trousers-mid-waisted-pleated-pant-comfortable-durable-vintage-gurkha-pant): Product Details Name : Gurkha Pants for Men, Trouser Pants for Men- Classic & Stylish Men's Trousers, Mid-Waisted Pleated Pant, Comfortable & Durable Vintage- Gurkha Pant Fabric : Polycotton Pattern : Solid Net Quantity (N) : 1 Gurkha Pants for Men, Trouser Pants for Men- Classic & Stylish Men's Trousers, Mid-Waisted Pleated Pant, Comfortable & Durable Vintage- Gurkha Pant Sizes : 28 (Waist Size : 28 in, Length Size: 38 in, Hip Size: 17 in) 30 (Waist Size : 30 in, Length Size: 38 in, Hip Size: 18 in) 32 (Waist Size : 32 in, Length Size: 38 in, Hip Size: 19 in) 34 (Waist Size : 34 in, Length Size: 39 in, Hip Size: 20 in) 36 (Waist Size : 36 in, Length Size: 39 in, Hip Size: 21 in) Country of Origin : India More Information
+  Updated: 2025-10-12T13:14:58Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/pu9vp_512.webp?v=1760079896
+  - [28](https://donedeals.xyz/products/gurkha-pants-for-men-trouser-pants-for-men-classic-stylish-mens-trousers-mid-waisted-pleated-pant-comfortable-durable-vintage-gurkha-pant?variant=43675772780595)
+    Availability: Available
+    Price: ₹640.00 INR
+  - [30](https://donedeals.xyz/products/gurkha-pants-for-men-trouser-pants-for-men-classic-stylish-mens-trousers-mid-waisted-pleated-pant-comfortable-durable-vintage-gurkha-pant?variant=43675772813363)
+    Availability: Available
+    Price: ₹640.00 INR
+  - [32](https://donedeals.xyz/products/gurkha-pants-for-men-trouser-pants-for-men-classic-stylish-mens-trousers-mid-waisted-pleated-pant-comfortable-durable-vintage-gurkha-pant?variant=43675772846131)
+    Availability: Available
+    Price: ₹640.00 INR
+  - [34](https://donedeals.xyz/products/gurkha-pants-for-men-trouser-pants-for-men-classic-stylish-mens-trousers-mid-waisted-pleated-pant-comfortable-durable-vintage-gurkha-pant?variant=43675772878899)
+    Availability: Available
+    Price: ₹640.00 INR
+- [Grey formal pants for men| Grey formal trousers for men| Grey formal regular trousers| Grey formal dailywear trousers| Grey regular dailywear trousers](https://donedeals.xyz/products/grey-formal-pants-for-men-grey-formal-trousers-for-men-grey-formal-regular-trousers-grey-formal-dailywear-trousers-grey-regular-dailywear-trousers): Product Details Name : Grey formal pants for men| Grey formal trousers for men| Grey formal regular trousers| Grey formal dailywear trousers| Grey regular dailywear trousers Fabric : Lycra Pattern : Solid Net Quantity (N) : 1 Men's Premium Double Button Trouser : Crafted for Comfortable and Style, Ideal for Business Meetings, Formal Events, and Daily Wear Sizes : 28 (Waist Size : 28 in, Length Size: 37 in, Hip Size: 34 in) 30 (Waist Size : 30 in, Length Size: 38 in, Hip Size: 36 in) 32 (Waist Size : 32 in, Length Size: 38 in, Hip Size: 38 in) 34 (Waist Size : 34 in, Length Size: 39 in, Hip Size: 40 in) Country of Origin : India More Information
+  Updated: 2025-10-12T13:09:35Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/x731w_512.webp?v=1760079933
+  - [28](https://donedeals.xyz/products/grey-formal-pants-for-men-grey-formal-trousers-for-men-grey-formal-regular-trousers-grey-formal-dailywear-trousers-grey-regular-dailywear-trousers?variant=43675773435955)
+    Availability: Available
+    Price: ₹323.00 INR
+  - [30](https://donedeals.xyz/products/grey-formal-pants-for-men-grey-formal-trousers-for-men-grey-formal-regular-trousers-grey-formal-dailywear-trousers-grey-regular-dailywear-trousers?variant=43675773468723)
+    Availability: Available
+    Price: ₹323.00 INR
+  - [32](https://donedeals.xyz/products/grey-formal-pants-for-men-grey-formal-trousers-for-men-grey-formal-regular-trousers-grey-formal-dailywear-trousers-grey-regular-dailywear-trousers?variant=43675773501491)
+    Availability: Available
+    Price: ₹323.00 INR
+  - [34](https://donedeals.xyz/products/grey-formal-pants-for-men-grey-formal-trousers-for-men-grey-formal-regular-trousers-grey-formal-dailywear-trousers-grey-regular-dailywear-trousers?variant=43675773534259)
+    Availability: Available
+    Price: ₹323.00 INR
+- [formal Pants for Men | Men's Slim fit Formal Pant | Full Stretchable Trouser | Office wear Trousers | Trouser For Men | Mens Trouser | Pant | Mens Pant](https://donedeals.xyz/products/formal-pants-for-men-mens-slim-fit-formal-pant-full-stretchable-trouser-office-wear-trousers-trouser-for-men-mens-trouser-pant-mens-pant): Product Details Name : formal Pants for Men | Men's Slim fit Formal Pant | Full Stretchable Trouser | Office wear Trousers | Trouser For Men | Mens Trouser | Pant | Mens Pant Fabric : Lycra Pattern : Solid Net Quantity (N) : 1 Men's Premium Double Button Trouser : Crafted for Comfortable and Style, Ideal for Business Meetings, Formal Events, and Daily Wear Sizes : 28 (Waist Size : 28 in, Length Size: 37 in, Hip Size: 34 in) 30 (Waist Size : 30 in, Length Size: 38 in, Hip Size: 36 in) 32 (Waist Size : 32 in, Length Size: 38 in, Hip Size: 38 in) 34 (Waist Size : 34 in, Length Size: 39 in, Hip Size: 40 in) Country of Origin : India More Information
+  Updated: 2025-10-12T13:13:31Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/2ilmh_512.webp?v=1760079942
+  - [28](https://donedeals.xyz/products/formal-pants-for-men-mens-slim-fit-formal-pant-full-stretchable-trouser-office-wear-trousers-trouser-for-men-mens-trouser-pant-mens-pant?variant=43675773567027)
+    Availability: Available
+    Price: ₹341.00 INR
+  - [30](https://donedeals.xyz/products/formal-pants-for-men-mens-slim-fit-formal-pant-full-stretchable-trouser-office-wear-trousers-trouser-for-men-mens-trouser-pant-mens-pant?variant=43675773599795)
+    Availability: Available
+    Price: ₹341.00 INR
+  - [32](https://donedeals.xyz/products/formal-pants-for-men-mens-slim-fit-formal-pant-full-stretchable-trouser-office-wear-trousers-trouser-for-men-mens-trouser-pant-mens-pant?variant=43675773632563)
+    Availability: Available
+    Price: ₹341.00 INR
+  - [34](https://donedeals.xyz/products/formal-pants-for-men-mens-slim-fit-formal-pant-full-stretchable-trouser-office-wear-trousers-trouser-for-men-mens-trouser-pant-mens-pant?variant=43675773665331)
+    Availability: Available
+    Price: ₹341.00 INR
+- [Black Formal Trousers](https://donedeals.xyz/products/black-formal-trousers): Product Details Name : Black Formal Trousers Fabric : Cotton Blend Pattern : Solid Net Quantity (N) : 1 Description Example Product Description : Upgrade your wardrobe with these premium black formal pants designed for comfort and style. Perfect for office meetings, business events, or formal occasions. Made from high-quality fabric that ensures durability and a polished look all day long. Product Details : Color : Black Fit Type : Slim Fit / Regular Fit (choose accordingly) Fabric : Polyester Blend / Cotton Blend (choose what matches your product) Closure : Button & Zip Occasion : Formal / Office / Business Wear Pockets : 2 Side Pockets, 2 Back Pockets Sizes : 28, 30, 32 Country of Origin : India More Information
+  Updated: 2025-10-12T12:56:55Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/thndz_512.webp?v=1760079997
+  - [28](https://donedeals.xyz/products/black-formal-trousers?variant=43675774353459)
+    Availability: Available
+    Price: ₹704.00 INR
+  - [30](https://donedeals.xyz/products/black-formal-trousers?variant=43675774386227)
+    Availability: Available
+    Price: ₹704.00 INR
+  - [32](https://donedeals.xyz/products/black-formal-trousers?variant=43675774418995)
+    Availability: Available
+    Price: ₹704.00 INR
+  - [34](https://donedeals.xyz/products/black-formal-trousers?variant=43675774451763)
+    Availability: Available
+    Price: ₹704.00 INR
+- [Beige and Light Grey Color Trending Light Weight Flat Front Military Style Pant for men for Daily use Regular fit under 400Combo of 2](https://donedeals.xyz/products/beige-and-light-grey-color-trending-light-weight-flat-front-military-style-pant-for-men-for-daily-use-regular-fit-under-400combo-of-2): Product Details Name : Beige and Light Grey Color Trending Light Weight Flat Front Military Style Pant for men for Daily use Regular fit under 400Combo of 2 Fabric : Polycotton Pattern : Solid Net Quantity (N) : 2 • Fabric : Made from Quick dry Light Weight Polycotton Twill Lycra fabric, soft, breathable and comfortable, allowing your skin to breathe freely with Slim Fit Polyester • Multiple Pocket : 4 (1 Zipper Pocket for Safety of mobile, key and Valuable Papers & 2 D Pocket(2 side), 1 Back Pocket) • Suitable for : Daily use, Yoga, Sport, Gym, Office, Cycling, Running, Exercise, Jogging, Sports, Outdoor activity, Vacation, Travel Wear, Winter, Home, Night, Summer, Tracking, Morning walk, Workout, Party, Aesthetic, Wedding • Pattern : Solid colored casual Designer trousers Latest Design buttoned waist, flat front Skinny fit for men that can be stylish Flexible or formal look • Stretchable Waist Closure : Zipper Fly with 2 Button Closure & expandable, Adjustable Elastic Waistband with Belt Loops, open Bottom • New Style : Pairing this Narrow Full Length pant with Trendy T-shirt • RELAXED FIT : Premium Branded Dress Pant with a regular fit through the seat and thigh with Tapered & Straight Fit, Ankle Length • Please refer Size Chart before a Final Purchase • You can browse from a wide range of options for Men’s Plain Trouser, Cargo, Joggers, Track Pants, Lower, Chino, Baggy Fashion at Our Meesho Shop, so Visit & Follow our Shop to updated from Trending. Also available in Loose Fit, Oversized, Plus Size, Large Size with Military Army Prints at Low Price & High Quality Sizes : 30 (Waist Size : 30 in, Length Size: 38 in, Hip Size: 37 in) 32 (Waist Size : 32 in, Length Size: 39 in, Hip Size: 39 in) 34 (Waist Size : 34 in, Length Size: 40 in, Hip Size: 41 in) 36 (Waist Size : 36 in, Length Size: 41 in, Hip Size: 43 in) Country of Origin : India More Information
+  Updated: 2025-10-12T12:56:22Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/860dy_512.webp?v=1760080044
+  - [28](https://donedeals.xyz/products/beige-and-light-grey-color-trending-light-weight-flat-front-military-style-pant-for-men-for-daily-use-regular-fit-under-400combo-of-2?variant=43675775008819)
+    Availability: Available
+    Price: ₹592.00 INR
+  - [30](https://donedeals.xyz/products/beige-and-light-grey-color-trending-light-weight-flat-front-military-style-pant-for-men-for-daily-use-regular-fit-under-400combo-of-2?variant=43675775041587)
+    Availability: Available
+    Price: ₹592.00 INR
+  - [32](https://donedeals.xyz/products/beige-and-light-grey-color-trending-light-weight-flat-front-military-style-pant-for-men-for-daily-use-regular-fit-under-400combo-of-2?variant=43675775074355)
+    Availability: Available
+    Price: ₹592.00 INR
+  - [34](https://donedeals.xyz/products/beige-and-light-grey-color-trending-light-weight-flat-front-military-style-pant-for-men-for-daily-use-regular-fit-under-400combo-of-2?variant=43675775107123)
+    Availability: Available
+    Price: ₹592.00 INR
+- [Cargo Jogger Pant Trouser Casual wear for Kids Boys Six Pocket Pants for Boys -Boys Stylish Cargo Pants/Boys](https://donedeals.xyz/products/cargo-jogger-pant-trouser-casual-wear-for-kids-boys-six-pocket-pants-for-boys-boys-stylish-cargo-pants-boys): Product Details Name : Cargo Jogger Pant Trouser Casual wear for Kids Boys Six Pocket Pants for Boys -Boys Stylish Cargo Pants/Boys Fabric : Satin Pattern : Solid Net Quantity (N) : 1 Stylish Cotton Cargo Pant for Boys | Cotton Casual Trousers for Kids | Multi-Pockets & Relaxed Fit Track Pants for Children | Joggers Solid Cargo Pants for Toddlers Solid Pant for Kids | Joggers Commando Pants for Children | Regular Fit for Boys with Multi Pockets. Sizes : 2-3 Years, 3-4 Years, 5-6 Years, 6-7 Years, 7-8 Years, 8-9 Years, 9-10 Years, 10-11 Years, 11-12 Years Country of Origin : India More Information
+  Updated: 2025-10-12T12:57:32Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/muck8_512.webp?v=1760080069
+  - [28](https://donedeals.xyz/products/cargo-jogger-pant-trouser-casual-wear-for-kids-boys-six-pocket-pants-for-boys-boys-stylish-cargo-pants-boys?variant=43675775402035)
+    Availability: Available
+    Price: ₹425.00 INR
+  - [30](https://donedeals.xyz/products/cargo-jogger-pant-trouser-casual-wear-for-kids-boys-six-pocket-pants-for-boys-boys-stylish-cargo-pants-boys?variant=43675775434803)
+    Availability: Available
+    Price: ₹425.00 INR
+  - [32](https://donedeals.xyz/products/cargo-jogger-pant-trouser-casual-wear-for-kids-boys-six-pocket-pants-for-boys-boys-stylish-cargo-pants-boys?variant=43675775467571)
+    Availability: Available
+    Price: ₹425.00 INR
+  - [34](https://donedeals.xyz/products/cargo-jogger-pant-trouser-casual-wear-for-kids-boys-six-pocket-pants-for-boys-boys-stylish-cargo-pants-boys?variant=43675775500339)
+    Availability: Available
+    Price: ₹425.00 INR
+- [GYM VEST](https://donedeals.xyz/products/gym-vest): Product Details Name : GYM VEST Fabric : Polyester Sleeve Length : Sleeveless Pattern : Self-Design Net Quantity (N) : 1 This Vest is made from 100% DRIFT Premium Fabric. This Vest is perfect for morning jogs or gym workouts.Easily Fit for a Wide Range of Motion, Perfect for Gym, Physical Fitness, Weight-Training, and Workout, Bodybuilding, Running, Morning walkBasketball and other outdoor activities. The Deep Cutting Allows Your Arms to Move More Easily.Soft to skin, breathable and comfortable to wear. Y back, side cut and hem bottom designed for gym bodybuilder, muscle fit & fashionable look. Unique shape an extra comfort. Sizes : M, L, XL Country of Origin : India More Information
+  Updated: 2025-10-12T13:23:53Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/3ca3w_512.webp?v=1760080094
+  - [28](https://donedeals.xyz/products/gym-vest?variant=43675775795251)
+    Availability: Available
+    Price: ₹180.00 INR
+  - [30](https://donedeals.xyz/products/gym-vest?variant=43675775828019)
+    Availability: Available
+    Price: ₹180.00 INR
+  - [32](https://donedeals.xyz/products/gym-vest?variant=43675775860787)
+    Availability: Available
+    Price: ₹180.00 INR
+  - [34](https://donedeals.xyz/products/gym-vest?variant=43675775893555)
+    Availability: Available
+    Price: ₹180.00 INR
+- [Active vest combo of grey and black | Men black and grey sando | Trending and viral printed gym vest](https://donedeals.xyz/products/active-vest-combo-of-grey-and-black-men-black-and-grey-sando-trending-and-viral-printed-gym-vest): Product Details Name : Active vest combo of grey and black | Men black and grey sando | Trending and viral printed gym vest Fabric : Polyester Sleeve Length : Sleeveless Pattern : Printed Net Quantity (N) : 2 Sizes : M, L, XL Country of Origin : India More Information
+  Updated: 2025-10-12T12:55:32Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/e825n_512.webp?v=1760080104
+  - [28](https://donedeals.xyz/products/active-vest-combo-of-grey-and-black-men-black-and-grey-sando-trending-and-viral-printed-gym-vest?variant=43675775926323)
+    Availability: Available
+    Price: ₹299.00 INR
+  - [30](https://donedeals.xyz/products/active-vest-combo-of-grey-and-black-men-black-and-grey-sando-trending-and-viral-printed-gym-vest?variant=43675775959091)
+    Availability: Available
+    Price: ₹299.00 INR
+  - [32](https://donedeals.xyz/products/active-vest-combo-of-grey-and-black-men-black-and-grey-sando-trending-and-viral-printed-gym-vest?variant=43675775991859)
+    Availability: Available
+    Price: ₹299.00 INR
+  - [34](https://donedeals.xyz/products/active-vest-combo-of-grey-and-black-men-black-and-grey-sando-trending-and-viral-printed-gym-vest?variant=43675776024627)
+    Availability: Available
+    Price: ₹299.00 INR
 - [GYM VEST](https://donedeals.xyz/products/gym-vest-1): Product Details Name : GYM VEST Fabric : Polyester Sleeve Length : Sleeveless Pattern : Solid Net Quantity (N) : 1 Sizes : M, L, XL Country of Origin : India More Information
   Updated: 2025-10-10T07:08:51Z
   Vendor: DoneDeals
@@ -23782,6 +24790,42 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/uxwsy_512.webp?v=1760080120
   Price: ₹0.00 INR
+- [Gymvest Sleeveless Tshirt For Men](https://donedeals.xyz/products/gymvest-sleeveless-tshirt-for-men): Product Details Name : Gymvest Sleeveless Tshirt For Men Fabric : Polyester Sleeve Length : Sleeveless Pattern : Solid Net Quantity (N) : 2 Think Tech present this sports / gym / Yoga / Home Use Gym Vest for Men. It is a Perfect Fit which is comfortable and stylish. It is Weaved with unique mingle of 20% polyster, 60% Micro and 20% Spandex Thread ( Dryfit ). It has ultra-soft , breathable, lightweight and comfortable Gym Vest. Attain ultimate comfort and royal status by wearing this amazing Round neck Gym Vest. This Gym Vest is Ultra soft and Very Ligh Weighted Also. Sizes : S, M, L, XL Country of Origin : India More Information
+  Updated: 2025-10-12T13:20:52Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/3w3mw_512.webp?v=1760080151
+  - [28](https://donedeals.xyz/products/gymvest-sleeveless-tshirt-for-men?variant=43675776450611)
+    Availability: Available
+    Price: ₹278.00 INR
+  - [30](https://donedeals.xyz/products/gymvest-sleeveless-tshirt-for-men?variant=43675776483379)
+    Availability: Available
+    Price: ₹278.00 INR
+  - [32](https://donedeals.xyz/products/gymvest-sleeveless-tshirt-for-men?variant=43675776516147)
+    Availability: Available
+    Price: ₹278.00 INR
+  - [34](https://donedeals.xyz/products/gymvest-sleeveless-tshirt-for-men?variant=43675776548915)
+    Availability: Available
+    Price: ₹278.00 INR
+- [Best Quality Super Fine Cotton Vest Pack of 6](https://donedeals.xyz/products/best-quality-super-fine-cotton-vest-pack-of-6): Product Details Name : Best Quality Super Fine Cotton Vest Pack of 6 Fabric : Combed Cotton Sleeve Length : Sleeveless Pattern : Solid Net Quantity (N) : 6 100% GENIUNE COTTON PRODUCT FROM URBAN TEXTILE HELPS YOU TO KEEP AWAY FROM ANY TYPE OF ITCHING OR IRRITATION WHICH CAN BE CAUSED FROM FABRIC Sizes : 70cm, 75cm, 80cm, 85cm, 90cm, 95cm, 100cm, XXS, XS, S, M, L, XL, 2XL Country of Origin : India More Information
+  Updated: 2025-10-12T12:56:45Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/n9yrc_512.webp?v=1760080178
+  - [28](https://donedeals.xyz/products/best-quality-super-fine-cotton-vest-pack-of-6?variant=43675776843827)
+    Availability: Available
+    Price: ₹312.00 INR
+  - [30](https://donedeals.xyz/products/best-quality-super-fine-cotton-vest-pack-of-6?variant=43675776876595)
+    Availability: Available
+    Price: ₹312.00 INR
+  - [32](https://donedeals.xyz/products/best-quality-super-fine-cotton-vest-pack-of-6?variant=43675776909363)
+    Availability: Available
+    Price: ₹312.00 INR
+  - [34](https://donedeals.xyz/products/best-quality-super-fine-cotton-vest-pack-of-6?variant=43675776942131)
+    Availability: Available
+    Price: ₹312.00 INR
 - [MENS ROUND NECK VEST](https://donedeals.xyz/products/mens-round-neck-vest-1): Product Details Name : MENS ROUND NECK VEST Fabric : Cotton Blend Sleeve Length : Sleeveless Pattern : Printed Net Quantity (N) : 3 Sizes : S, M, L, XL, 2XL Country of Origin : India More Information
   Updated: 2025-10-10T07:09:51Z
   Vendor: DoneDeals
@@ -23824,6 +24868,24 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/uop5x_512.webp?v=1760080322
   Price: ₹0.00 INR
+- [CHHOTE NAWAB Men's (Pack of 5) Red Innerwear Vests](https://donedeals.xyz/products/chhote-nawab-mens-pack-of-5-red-innerwear-vests): Product Details Name : CHHOTE NAWAB Men's (Pack of 5) Red Innerwear Vests Fabric : Cotton Sleeve Length : Sleeveless Pattern : Solid Net Quantity (N) : 5 W-Boys Mens Inner wear color block Vest- Stretchable Quality Sizes : M (Length Size : 24 in) L (Length Size : 25 in) XL (Length Size : 26 in) XXL (Length Size : 27 in) Country of Origin : India More Information
+  Updated: 2025-10-12T12:58:11Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/kspyp_512.webp?v=1760080333
+  - [28](https://donedeals.xyz/products/chhote-nawab-mens-pack-of-5-red-innerwear-vests?variant=43675778285619)
+    Availability: Available
+    Price: ₹339.00 INR
+  - [30](https://donedeals.xyz/products/chhote-nawab-mens-pack-of-5-red-innerwear-vests?variant=43675778318387)
+    Availability: Available
+    Price: ₹339.00 INR
+  - [32](https://donedeals.xyz/products/chhote-nawab-mens-pack-of-5-red-innerwear-vests?variant=43675778351155)
+    Availability: Available
+    Price: ₹339.00 INR
+  - [34](https://donedeals.xyz/products/chhote-nawab-mens-pack-of-5-red-innerwear-vests?variant=43675778383923)
+    Availability: Available
+    Price: ₹339.00 INR
 - [Active vest combo of grey and black | Men black and grey sando | Trending and viral printed gym vest](https://donedeals.xyz/products/active-vest-combo-of-grey-and-black-men-black-and-grey-sando-trending-and-viral-printed-gym-vest-1): Product Details Name : Active vest combo of grey and black | Men black and grey sando | Trending and viral printed gym vest Fabric : Polyester Sleeve Length : Sleeveless Pattern : Printed Net Quantity (N) : 2 Sizes : M, L, XL Country of Origin : India More Information
   Updated: 2025-10-10T07:12:25Z
   Vendor: DoneDeals
@@ -23845,6 +24907,42 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/3ca3w_512_b20994f6-70eb-4b79-971a-2a285ee2c444.webp?v=1760080352
   Price: ₹0.00 INR
+- [Dollar Pack of 2 All Over Print Stylish Men Bermuda With One Side Zipper](https://donedeals.xyz/products/dollar-pack-of-2-all-over-print-stylish-men-bermuda-with-one-side-zipper): Product Details Name : Dollar Pack of 2 All Over Print Stylish Men Bermuda With One Side Zipper Fabric : Cotton Blend Pattern : Printed Net Quantity (N) : 2 Made from premium cotton rich fabric.Contrast piping, One side zipper pocket with embossed branding. Self waistband with drawcord wide array of attractive colours. Sizes : 34 (Waist Size : 34 in, Length Size: 30 in) 36 (Waist Size : 36 in, Length Size: 31 in) 38 (Waist Size : 38 in, Length Size: 32 in) 30 (Waist Size : 30 in, Length Size: 28 in) 32 (Waist Size : 32 in, Length Size: 29 in) Country of Origin : India More Information
+  Updated: 2025-10-12T13:02:45Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/slmz0_512.webp?v=1760080371
+  - [28](https://donedeals.xyz/products/dollar-pack-of-2-all-over-print-stylish-men-bermuda-with-one-side-zipper?variant=43675778580531)
+    Availability: Available
+    Price: ₹638.00 INR
+  - [30](https://donedeals.xyz/products/dollar-pack-of-2-all-over-print-stylish-men-bermuda-with-one-side-zipper?variant=43675778613299)
+    Availability: Available
+    Price: ₹638.00 INR
+  - [32](https://donedeals.xyz/products/dollar-pack-of-2-all-over-print-stylish-men-bermuda-with-one-side-zipper?variant=43675778646067)
+    Availability: Available
+    Price: ₹638.00 INR
+  - [34](https://donedeals.xyz/products/dollar-pack-of-2-all-over-print-stylish-men-bermuda-with-one-side-zipper?variant=43675778678835)
+    Availability: Available
+    Price: ₹638.00 INR
+- [Essential men Boxers](https://donedeals.xyz/products/essential-men-boxers): Product Details Name : Essential men Boxers Fabric : Lyocell Pattern : Solid Net Quantity (N) : 3 PACK OF 3 PIC Sizes : 30 (Waist Size : 30 in, Hip Size: 30 in, Length Size: 16 in) 32 (Waist Size : 32 in, Hip Size: 32 in, Length Size: 17 in) 34 (Waist Size : 34 in, Hip Size: 34 in, Length Size: 18 in) L (Waist Size : 30 in, Hip Size: 30 in, Length Size: 16 in) XL (Waist Size : 32 in, Hip Size: 32 in, Length Size: 17 in) XXL (Waist Size : 34 in, Hip Size: 34 in, Length Size: 18 in) Country of Origin : India More Information
+  Updated: 2025-10-12T13:03:25Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/mvvle_512.webp?v=1760080390
+  - [28](https://donedeals.xyz/products/essential-men-boxers?variant=43675778842675)
+    Availability: Available
+    Price: ₹348.00 INR
+  - [30](https://donedeals.xyz/products/essential-men-boxers?variant=43675778875443)
+    Availability: Available
+    Price: ₹348.00 INR
+  - [32](https://donedeals.xyz/products/essential-men-boxers?variant=43675778908211)
+    Availability: Available
+    Price: ₹348.00 INR
+  - [34](https://donedeals.xyz/products/essential-men-boxers?variant=43675778940979)
+    Availability: Available
+    Price: ₹348.00 INR
 - [Dollar Pack of 2 All Over Print Stylish Men Bermuda With One Side Zipper](https://donedeals.xyz/products/dollar-pack-of-2-all-over-print-stylish-men-bermuda-with-one-side-zipper-1): Product Details Name : Dollar Pack of 2 All Over Print Stylish Men Bermuda With One Side Zipper Fabric : Cotton Blend Pattern : Printed Net Quantity (N) : 2 Made from premium cotton rich fabric.Contrast piping, One side zipper pocket with embossed branding. Self waistband with drawcord wide array of attractive colours. Sizes : 34 (Waist Size : 34 in, Length Size: 30 in) 36 (Waist Size : 36 in, Length Size: 31 in) 38 (Waist Size : 38 in, Length Size: 32 in) 30 (Waist Size : 30 in, Length Size: 28 in) 32 (Waist Size : 32 in, Length Size: 29 in) Country of Origin : India More Information
   Updated: 2025-10-10T07:13:27Z
   Vendor: DoneDeals
@@ -23852,6 +24950,24 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/ysobn_512.webp?v=1760080400
   Price: ₹0.00 INR
+- [Gven Premium White Pocket Underwear (Pack of 3)](https://donedeals.xyz/products/gven-premium-white-pocket-underwear-pack-of-3): Product Details Name : Gven Premium White Pocket Underwear (Pack of 3) Fabric : Cotton Color : White Occasion : Casual Pattern : Solid Net Quantity (N) : 3 These trunks are made up of 100 percent combed cotton.Just enjoy the experience of your second skin.� Comfortable briefs for men made of 100% combed cotton. Fabric in these briefs for men is highly breathable, sweat absorbent and skin friendly, making it ideal for full day usage as comfortable mens innerwear. � Mens briefs underwear Featuring stylish, inclined piping of soft fabric. The modern design incorporates contract colours giving a distinct look for today's confident men. � Mens Briefs have reinforced Spandex Elastic bands ensure perfect shape and fit. The outer elastic band gives better fit and lasts longer. These innerwear for men have a contoured double pouch, special sewing thread for long lasting life. � These men innerwear briefs have a mid waist fit with full rear coverage makes this ideal innerwear for trousers, pants, jeans and ethnic bottomwear. � Care Instructions : Wash cold and dark colors separately. Do not iron, dry clean or bleach. Sizes : XS, S, M, L, XL, XXL, XXXL, 4XL Country of Origin : India More Information
+  Updated: 2025-10-12T13:12:19Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/cyfw7_512.webp?v=1760080478
+  - [28](https://donedeals.xyz/products/gven-premium-white-pocket-underwear-pack-of-3?variant=43675779891251)
+    Availability: Available
+    Price: ₹342.00 INR
+  - [30](https://donedeals.xyz/products/gven-premium-white-pocket-underwear-pack-of-3?variant=43675779924019)
+    Availability: Available
+    Price: ₹342.00 INR
+  - [32](https://donedeals.xyz/products/gven-premium-white-pocket-underwear-pack-of-3?variant=43675779956787)
+    Availability: Available
+    Price: ₹342.00 INR
+  - [34](https://donedeals.xyz/products/gven-premium-white-pocket-underwear-pack-of-3?variant=43675779989555)
+    Availability: Available
+    Price: ₹342.00 INR
 - [MEN UNDERWEAR](https://donedeals.xyz/products/men-underwear-1): Product Details Name : MEN UNDERWEAR Fabric : Nylon Color : Multicolor Occasion : Casual Pattern : Printed Net Quantity (N) : 3 Sizes : S, M, XL Country of Origin : India More Information
   Updated: 2025-10-10T07:15:29Z
   Vendor: DoneDeals
@@ -23859,6 +24975,78 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/ajss2_512.webp?v=1760080524
   Price: ₹0.00 INR
+- [Ethnic Elegance Men's Printed Cotton Kurta Pajama Set – Festive & Casual Wear](https://donedeals.xyz/products/ethnic-elegance-mens-printed-cotton-kurta-pajama-set-festive-casual-wear): Product Details Name : Ethnic Elegance Men's Printed Cotton Kurta Pajama Set – Festive & Casual Wear Top Fabric : Cotton Blend Bottom Fabric : Cotton Blend Scarf Fabric : No Scarf Sleeve Length : Long Sleeves Bottom Type : Straight Pajama Stitch Type : Stitched Pattern : Printed Sizes : S (Chest Size : 41 in, Top Length Size: 36 in, Bottom Waist Size: 36 in, Bottom Hip Size: 34 in, Bottom Length Size: 34 in) M (Chest Size : 43 m, Top Length Size: 38 m, Bottom Waist Size: 38 m, Bottom Hip Size: 36 m, Bottom Length Size: 36 m) L (Chest Size : 45 in, Top Length Size: 38 in, Bottom Waist Size: 39 in, Bottom Hip Size: 38 in, Bottom Length Size: 38 in) XL (Chest Size : 47 in, Top Length Size: 39 in, Bottom Waist Size: 40 in, Bottom Hip Size: 40 in, Bottom Length Size: 40 in) XXL (Chest Size : 49 in, Top Length Size: 40 in, Bottom Waist Size: 42 in, Bottom Hip Size: 42 in, Bottom Length Size: 42 in) Printed kurta pajama, men's printed kurta pajama, ethnic printed kurta pajama, festive printed kurta, casual printed kurta, cotton printed kurta pajama, printed kurta set, men's printed kurta set, Diwali printed kurta, Eid printed kurta, Holi printed kurta, Raksha Bandhan printed kurta Country of Origin : India More Information
+  Updated: 2025-10-12T13:03:54Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/t48xl_512.webp?v=1760080538
+  - [S](https://donedeals.xyz/products/ethnic-elegance-mens-printed-cotton-kurta-pajama-set-festive-casual-wear?variant=43675780677683)
+    Availability: Available
+    Price: ₹424.00 INR
+  - [M](https://donedeals.xyz/products/ethnic-elegance-mens-printed-cotton-kurta-pajama-set-festive-casual-wear?variant=43675780710451)
+    Availability: Available
+    Price: ₹424.00 INR
+  - [L](https://donedeals.xyz/products/ethnic-elegance-mens-printed-cotton-kurta-pajama-set-festive-casual-wear?variant=43675780743219)
+    Availability: Available
+    Price: ₹424.00 INR
+  - [XL](https://donedeals.xyz/products/ethnic-elegance-mens-printed-cotton-kurta-pajama-set-festive-casual-wear?variant=43675780775987)
+    Availability: Available
+    Price: ₹424.00 INR
+- [Embroidered blue kurta pajama for men](https://donedeals.xyz/products/embroidered-blue-kurta-pajama-for-men): Product Details Name : Embroidered blue kurta pajama for men Top Fabric : Cotton Blend Bottom Fabric : Cotton Blend Scarf Fabric : No Scarf Sleeve Length : Three-Quarter Sleeves Bottom Type : Straight Pajama Stitch Type : Stitched Pattern : Embroidered Sizes : S (Chest Size : 25 in, Top Length Size: 36 in, Bottom Waist Size: 24 in, Bottom Hip Size: 25 in, Bottom Length Size: 36 in) M (Chest Size : 26 in, Top Length Size: 38 in, Bottom Waist Size: 25 in, Bottom Hip Size: 26 in, Bottom Length Size: 38 in) L (Chest Size : 27 in, Top Length Size: 40 in, Bottom Waist Size: 26 in, Bottom Hip Size: 27 in, Bottom Length Size: 40 in) XL (Chest Size : 28 in, Top Length Size: 42 in, Bottom Waist Size: 27 in, Bottom Hip Size: 28 in, Bottom Length Size: 42 in) XXL (Chest Size : 29 in, Top Length Size: 44 in, Bottom Waist Size: 28 in, Bottom Hip Size: 29 in, Bottom Length Size: 44 in) This elegant embroidered kurta pajama for men features intricate threadwork that adds a touch of tradition and sophistication. Made from premium fabric, the kurta is designed for comfort and style, perfect for festive occasions, weddings, or cultural events. Paired with a matching pajama, this outfit blends timeless craftsmanship with modern charm. Country of Origin : India More Information
+  Updated: 2025-10-12T13:04:02Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/akolj_512.webp?v=1760080544
+  - [S](https://donedeals.xyz/products/embroidered-blue-kurta-pajama-for-men?variant=43675780808755)
+    Availability: Available
+    Price: ₹342.00 INR
+  - [M](https://donedeals.xyz/products/embroidered-blue-kurta-pajama-for-men?variant=43675780841523)
+    Availability: Available
+    Price: ₹342.00 INR
+  - [L](https://donedeals.xyz/products/embroidered-blue-kurta-pajama-for-men?variant=43675780874291)
+    Availability: Available
+    Price: ₹342.00 INR
+  - [XL](https://donedeals.xyz/products/embroidered-blue-kurta-pajama-for-men?variant=43675780907059)
+    Availability: Available
+    Price: ₹342.00 INR
+- [FABZY MENS LONG FANCY NEW DESIGNS PRINTED KURTA PAJAMA SET](https://donedeals.xyz/products/fabzy-mens-long-fancy-new-designs-printed-kurta-pajama-set): Product Details Name : FABZY MENS LONG FANCY NEW DESIGNS PRINTED KURTA PAJAMA SET Top Fabric : Cotton Blend Bottom Fabric : Cotton Blend Scarf Fabric : Cotton Sleeve Length : Long Sleeves Bottom Type : Straight Pajama Stitch Type : Stitched Pattern : Printed Sizes : S (Top Length Size : 37 in, Bottom Waist Size: 28 in, Bottom Length Size: 40 in) M (Top Length Size : 38 in, Bottom Waist Size: 30 in, Bottom Length Size: 40 in) L (Top Length Size : 39 in, Bottom Waist Size: 32 in, Bottom Length Size: 41 in) XL (Top Length Size : 40 in, Bottom Waist Size: 34 in, Bottom Length Size: 42 in) XXL (Top Length Size : 41 in, Bottom Waist Size: 36 in, Bottom Length Size: 42 in) FABZY MENS LONG FANCY NEW DESIGNS PRINTED KURTA PAJAMA SET Country of Origin : India More Information
+  Updated: 2025-10-12T13:04:43Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/tyz3c_512.webp?v=1760080565
+  - [S](https://donedeals.xyz/products/fabzy-mens-long-fancy-new-designs-printed-kurta-pajama-set?variant=43675781070899)
+    Availability: Available
+    Price: ₹444.00 INR
+  - [M](https://donedeals.xyz/products/fabzy-mens-long-fancy-new-designs-printed-kurta-pajama-set?variant=43675781103667)
+    Availability: Available
+    Price: ₹444.00 INR
+  - [L](https://donedeals.xyz/products/fabzy-mens-long-fancy-new-designs-printed-kurta-pajama-set?variant=43675781136435)
+    Availability: Available
+    Price: ₹444.00 INR
+  - [XL](https://donedeals.xyz/products/fabzy-mens-long-fancy-new-designs-printed-kurta-pajama-set?variant=43675781169203)
+    Availability: Available
+    Price: ₹444.00 INR
+- [Chikankari kurta Gold kurta set 1](https://donedeals.xyz/products/chikankari-kurta-gold-kurta-set-1): Product Details Name : Chikankari kurta Gold kurta set 1 Top Fabric : Cotton Bottom Fabric : Cotton Scarf Fabric : Cotton Sleeve Length : Long Sleeves Bottom Type : Straight Pajama Stitch Type : Unstitched Pattern : Chikankari Sizes : M (Chest Size : 40 in, Top Length Size: 40 in, Top Waist Size: 10 in, Top Hip Size: 10 in, Bottom Waist Size: 38 in, Bottom Hip Size: 10 in, Bottom Length Size: 40 in, Scarf Length Size: 1.5 in) L (Chest Size : 42 in, Top Length Size: 42 in, Top Waist Size: 11 in, Top Hip Size: 11 in, Bottom Waist Size: 40 in, Bottom Hip Size: 10 in, Bottom Length Size: 42 in, Scarf Length Size: 1.6 in) XL (Chest Size : 44 in, Top Length Size: 44 in, Top Waist Size: 12 in, Top Hip Size: 12 in, Bottom Waist Size: 42 in, Bottom Hip Size: 10 in, Bottom Length Size: 44 in, Scarf Length Size: 1.7 in) XXL (Chest Size : 46 m, Top Length Size: 46 m, Top Waist Size: 13 m, Top Hip Size: 13 m, Bottom Waist Size: 44 m, Bottom Hip Size: 10 m, Bottom Length Size: 46 m, Scarf Length Size: 1.8 m) Fill According top product Country of Origin : India More Information
+  Updated: 2025-10-12T12:58:22Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/s7unt_512.webp?v=1760080589
+  - [S](https://donedeals.xyz/products/chikankari-kurta-gold-kurta-set-1?variant=43675781464115)
+    Availability: Available
+    Price: ₹371.00 INR
+  - [M](https://donedeals.xyz/products/chikankari-kurta-gold-kurta-set-1?variant=43675781496883)
+    Availability: Available
+    Price: ₹371.00 INR
+  - [L](https://donedeals.xyz/products/chikankari-kurta-gold-kurta-set-1?variant=43675781529651)
+    Availability: Available
+    Price: ₹371.00 INR
+  - [XL](https://donedeals.xyz/products/chikankari-kurta-gold-kurta-set-1?variant=43675781562419)
+    Availability: Available
+    Price: ₹371.00 INR
 - [Men CROSSED Work Kurta Best Quality At Lowest Price Set](https://donedeals.xyz/products/men-crossed-work-kurta-best-quality-at-lowest-price-set-1): Product Details Name : Men CROSSED Work Kurta Best Quality At Lowest Price Set Fabric : Cotton Sleeve Length : Long Sleeves Pattern : Printed Combo of : Single Sizes : M (Chest Size : 40 in, Length Size: 38 in, Waist Size: 38 in, Hip Size: 42 in) L (Chest Size : 42 in, Length Size: 40 in, Waist Size: 39 in, Hip Size: 44 in) XL (Chest Size : 44 in, Length Size: 40 in, Waist Size: 40 in, Hip Size: 46 in) XXL (Chest Size : 46 in, Length Size: 41 in, Waist Size: 41 in, Hip Size: 48 in) Care Instructions : Hand Wash Only Fit Type: Relaxed HIGH QUALITY MATERIAL: Made from the cotton blend fabric. Lightweight and breathable material gives this kurta pajama set soft, comfortable feel. BEAUTIFUL HANDLOOM KURTA : This is a 2-pieces set that includes long button down shirt or kurta and a drawstring . Traditional design on this kurta captures all of the details of the classic Indian men's garment with long sleeves, COMFORTABLE FIT: Sizing is designed for a regular relaxed fit. Collar: Mandarin, Sleeves: Full, Length: Knee length Kurta, Occasion: Casual, Party, Festival and Special Occasions, Package content: Kurta for Diwali Fancy Kurta Having Vibrant Color and Attractive design. Country of Origin : India More Information
   Updated: 2025-10-10T07:16:50Z
   Vendor: DoneDeals
@@ -23866,6 +25054,24 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/ltjvj_512.webp?v=1760080606
   Price: ₹0.00 INR
+- [Fancy Men Kurta Set](https://donedeals.xyz/products/fancy-men-kurta-set): Product Details Name : Fancy Men Kurta Set Top Fabric : Cotton Blend Bottom Fabric : Cotton Blend Scarf Fabric : No Scarf Sleeve Length : Long Sleeves Bottom Type : Straight Pajama Stitch Type : Stitched Pattern : Embellished Sizes : S (Chest Size : 38 in, Top Length Size: 39 in, Bottom Waist Size: 38 in, Bottom Hip Size: 44 in, Bottom Length Size: 40 in) M (Chest Size : 40 in, Top Length Size: 39 in, Bottom Waist Size: 40 in, Bottom Hip Size: 48 in, Bottom Length Size: 40 in) L (Chest Size : 42 in, Top Length Size: 39 in, Bottom Waist Size: 42 in, Bottom Hip Size: 50 in, Bottom Length Size: 40 in) Country of Origin : India More Information
+  Updated: 2025-10-12T13:06:29Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/qdap9_512.webp?v=1760080641
+  - [S](https://donedeals.xyz/products/fancy-men-kurta-set?variant=43675782250547)
+    Availability: Available
+    Price: ₹503.00 INR
+  - [M](https://donedeals.xyz/products/fancy-men-kurta-set?variant=43675782283315)
+    Availability: Available
+    Price: ₹503.00 INR
+  - [L](https://donedeals.xyz/products/fancy-men-kurta-set?variant=43675782316083)
+    Availability: Available
+    Price: ₹503.00 INR
+  - [XL](https://donedeals.xyz/products/fancy-men-kurta-set?variant=43675782348851)
+    Availability: Available
+    Price: ₹503.00 INR
 - [PRINTED KURTA PAJAMA FOR MEN](https://donedeals.xyz/products/printed-kurta-pajama-for-men-1): Product Details Name : PRINTED KURTA PAJAMA FOR MEN Top Fabric : Cotton Bottom Fabric : Cotton Scarf Fabric : No Scarf Sleeve Length : Long Sleeves Bottom Type : Straight Pajama Stitch Type : Stitched Pattern : Printed Sizes : M (Chest Size : 42 in, Top Length Size: 39 in, Top Waist Size: 40 in, Top Hip Size: 38 in, Bottom Waist Size: 32 in, Bottom Hip Size: 38 in, Bottom Length Size: 41 in, Scarf Length Size: 1.5 in) L (Chest Size : 44 in, Top Length Size: 39 in, Top Waist Size: 42 in, Top Hip Size: 40 in, Bottom Waist Size: 34 in, Bottom Hip Size: 40 in, Bottom Length Size: 41 in, Scarf Length Size: 1.5 in) XL (Chest Size : 45 in, Top Length Size: 40 in, Top Waist Size: 44 in, Top Hip Size: 42 in, Bottom Waist Size: 36 in, Bottom Hip Size: 42 in, Bottom Length Size: 42 in, Scarf Length Size: 1.5 in) XXL (Chest Size : 46 m, Top Length Size: 40 m, Top Waist Size: 46 m, Top Hip Size: 44 m, Bottom Waist Size: 38 m, Bottom Hip Size: 44 m, Bottom Length Size: 42 m, Scarf Length Size: 1.5 m) Very stylish kurta Set for daily and party wear purpose for boys and men with reasonable price. Country of Origin : India More Information
   Updated: 2025-10-10T07:17:33Z
   Vendor: DoneDeals
@@ -23873,6 +25079,96 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/rfoch_512.webp?v=1760080648
   Price: ₹0.00 INR
+- [Green kurta set in men faishan comfortable solid pis](https://donedeals.xyz/products/green-kurta-set-in-men-faishan-comfortable-solid-pis): Product Details Name : Green kurta set in men faishan comfortable solid pis Top Fabric : Cotton Bottom Fabric : Cotton Scarf Fabric : Cotton Sleeve Length : Long Sleeves Bottom Type : Straight Pajama Stitch Type : Stitched Pattern : Chikankari Sizes : M, L, XL, XXL Green kurta set in men faishan comfortable solid pis Country of Origin : India More Information
+  Updated: 2025-10-12T13:11:18Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/gkg1u_512.webp?v=1760080655
+  - [S](https://donedeals.xyz/products/green-kurta-set-in-men-faishan-comfortable-solid-pis?variant=43675782512691)
+    Availability: Available
+    Price: ₹470.00 INR
+  - [M](https://donedeals.xyz/products/green-kurta-set-in-men-faishan-comfortable-solid-pis?variant=43675782545459)
+    Availability: Available
+    Price: ₹470.00 INR
+  - [L](https://donedeals.xyz/products/green-kurta-set-in-men-faishan-comfortable-solid-pis?variant=43675782578227)
+    Availability: Available
+    Price: ₹470.00 INR
+  - [XL](https://donedeals.xyz/products/green-kurta-set-in-men-faishan-comfortable-solid-pis?variant=43675782610995)
+    Availability: Available
+    Price: ₹470.00 INR
+- [Embroidred Kurta and Pajama Set for Men](https://donedeals.xyz/products/embroidred-kurta-and-pajama-set-for-men): Product Details Name : Embroidred Kurta and Pajama Set for Men Top Fabric : Cotton Bottom Fabric : Cotton Scarf Fabric : No Scarf Sleeve Length : Long Sleeves Bottom Type : Straight Pajama Stitch Type : Stitched Pattern : Embroidered Sizes : M (Chest Size : 38 in, Top Length Size: 38 in, Top Waist Size: 38 in, Top Hip Size: 38 in, Bottom Waist Size: 52 in, Bottom Hip Size: 52 in, Bottom Length Size: 40 in, Scarf Length Size: 1.5 in) L (Chest Size : 40 in, Top Length Size: 40 in, Top Waist Size: 40 in, Top Hip Size: 40 in, Bottom Waist Size: 52 in, Bottom Hip Size: 52 in, Bottom Length Size: 40 in, Scarf Length Size: 1.5 in) XL (Chest Size : 42 in, Top Length Size: 42 in, Top Waist Size: 42 in, Top Hip Size: 42 in, Bottom Waist Size: 52 in, Bottom Hip Size: 52 in, Bottom Length Size: 42 in, Scarf Length Size: 1.5 in) XXL (Chest Size : 44 in, Top Length Size: 44 in, Top Waist Size: 44 in, Top Hip Size: 44 in, Bottom Waist Size: 52 in, Bottom Hip Size: 52 in, Bottom Length Size: 44 in, Scarf Length Size: 1.5 in) Embroidred Kurta and Pajama set for Party, Festival and Daily Uses Country of Origin : India More Information
+  Updated: 2025-10-12T13:02:56Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/9sstk_512.webp?v=1760080661
+  - [S](https://donedeals.xyz/products/embroidred-kurta-and-pajama-set-for-men?variant=43675782643763)
+    Availability: Available
+    Price: ₹347.00 INR
+  - [M](https://donedeals.xyz/products/embroidred-kurta-and-pajama-set-for-men?variant=43675782676531)
+    Availability: Available
+    Price: ₹347.00 INR
+  - [L](https://donedeals.xyz/products/embroidred-kurta-and-pajama-set-for-men?variant=43675782709299)
+    Availability: Available
+    Price: ₹347.00 INR
+  - [XL](https://donedeals.xyz/products/embroidred-kurta-and-pajama-set-for-men?variant=43675782742067)
+    Availability: Available
+    Price: ₹347.00 INR
+- [CHIKANKARI KURTA SET NEW GREEN](https://donedeals.xyz/products/chikankari-kurta-set-new-green): Product Details Name : CHIKANKARI KURTA SET NEW GREEN Top Fabric : Cotton Blend Bottom Fabric : Cotton Blend Scarf Fabric : Cotton Sleeve Length : Long Sleeves Bottom Type : Straight Pajama Stitch Type : Semi-Stitched Pattern : Embroidered Sizes : M (Chest Size : 38 in, Top Length Size: 11 in, Top Waist Size: 38 in, Top Hip Size: 10 in, Bottom Waist Size: 28 in, Bottom Hip Size: 10 in, Bottom Length Size: 10 in, Scarf Length Size: 1.5 in) L (Chest Size : 40 in, Top Length Size: 12 in, Top Waist Size: 40 in, Top Hip Size: 11 in, Bottom Waist Size: 30 in, Bottom Hip Size: 11 in, Bottom Length Size: 11 in, Scarf Length Size: 1.5 in) XL (Chest Size : 42 in, Top Length Size: 13 in, Top Waist Size: 42 in, Top Hip Size: 12 in, Bottom Waist Size: 32 in, Bottom Hip Size: 12 in, Bottom Length Size: 12 in, Scarf Length Size: 1.55 in) XXL (Chest Size : 44 in, Top Length Size: 14 in, Top Waist Size: 44 in, Top Hip Size: 13 in, Bottom Waist Size: 34 in, Bottom Hip Size: 13 in, Bottom Length Size: 13 in, Scarf Length Size: 1.55 in) Country of Origin : India More Information
+  Updated: 2025-10-12T12:58:22Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/n8yd2_512.webp?v=1760080687
+  - [S](https://donedeals.xyz/products/chikankari-kurta-set-new-green?variant=43675783168051)
+    Availability: Available
+    Price: ₹457.00 INR
+  - [M](https://donedeals.xyz/products/chikankari-kurta-set-new-green?variant=43675783200819)
+    Availability: Available
+    Price: ₹457.00 INR
+  - [L](https://donedeals.xyz/products/chikankari-kurta-set-new-green?variant=43675783233587)
+    Availability: Available
+    Price: ₹457.00 INR
+  - [XL](https://donedeals.xyz/products/chikankari-kurta-set-new-green?variant=43675783266355)
+    Availability: Available
+    Price: ₹457.00 INR
+- [Elegant Men's Kurta - Perfect for Special Occasions](https://donedeals.xyz/products/elegant-mens-kurta-perfect-for-special-occasions): Product Details Name : Elegant Men's Kurta - Perfect for Special Occasions Top Fabric : Rayon Bottom Fabric : Cotton Scarf Fabric : Cotton Sleeve Length : Long Sleeves Bottom Type : Straight Pajama Stitch Type : Stitched Pattern : Printed Sizes : M, L, XL, XXL "Upgrade your wardrobe with our Premium Men's Kurta – a timeless blend of traditional elegance and contemporary comfort. Crafted with soft, breathable cotton fabric, this kurta offers the perfect balance of style and ease. Ideal for festive occasions, casual outings, or daily wear, it features intricate embroidery and a classic, relaxed fit that flatters all body types. Whether you're celebrating a special occasion or just want to look effortlessly stylish, this kurta will keep you looking sharp and feeling comfortable all day long." Premium Fabric : Made from 100% high-quality cotton for breathability and comfort. Stylish Design : Features a traditional yet modern cut with fine embroidery for an added touch of sophistication. Versatile Fit : Designed to fit comfortably and suit various body types – slim, regular, and athletic builds. Perfect for Occasions : Ideal for weddings, festivals, family gatherings, or casual wear. Easy to Maintain : Machine washable with durable stitching that withstands regular use. Multiple Color Options : Available in a variety of colors to match your personal style and preferences. Lightweight & Breathable : Keeps you comfortable throughout the day, making it ideal for warmer weather. Men’s Kurta Traditional Kurta for Men Cotton Kurta Men’s Ethnic Wear Casual Kurta for Men Wedding Kurta Festival Kurta for Men Indian Kurta for Men Embroid Country of Origin : India More Information
+  Updated: 2025-10-12T13:03:07Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/8clwl_512.webp?v=1760080697
+  - [S](https://donedeals.xyz/products/elegant-mens-kurta-perfect-for-special-occasions?variant=43675783299123)
+    Availability: Available
+    Price: ₹490.00 INR
+  - [M](https://donedeals.xyz/products/elegant-mens-kurta-perfect-for-special-occasions?variant=43675783331891)
+    Availability: Available
+    Price: ₹490.00 INR
+  - [L](https://donedeals.xyz/products/elegant-mens-kurta-perfect-for-special-occasions?variant=43675783364659)
+    Availability: Available
+    Price: ₹490.00 INR
+  - [XL](https://donedeals.xyz/products/elegant-mens-kurta-perfect-for-special-occasions?variant=43675783397427)
+    Availability: Available
+    Price: ₹490.00 INR
+- [COTTON EMROIDERED KURTA AND PAIJAMA SET](https://donedeals.xyz/products/cotton-emroidered-kurta-and-paijama-set): Product Details Name : COTTON EMROIDERED KURTA AND PAIJAMA SET Top Fabric : Cotton Bottom Fabric : Cotton Scarf Fabric : No Scarf Sleeve Length : Three-Quarter Sleeves Bottom Type : Straight Pajama Stitch Type : Stitched Pattern : Solid Sizes : M (Chest Size : 38 in, Top Length Size: 38 in, Top Waist Size: 38 in, Top Hip Size: 38 in, Bottom Waist Size: 38 in, Bottom Hip Size: 38 in, Bottom Length Size: 38 in, Scarf Length Size: 1.5 in) L (Chest Size : 40 in, Top Length Size: 40 in, Top Waist Size: 40 in, Top Hip Size: 40 in, Bottom Waist Size: 40 in, Bottom Hip Size: 40 in, Bottom Length Size: 40 in, Scarf Length Size: 1.5 in) XL (Chest Size : 42 in, Top Length Size: 42 in, Top Waist Size: 42 in, Top Hip Size: 42 in, Bottom Waist Size: 42 in, Bottom Hip Size: 42 in, Bottom Length Size: 42 in, Scarf Length Size: 1.5 in) XXL (Chest Size : 44 in, Top Length Size: 44 in, Top Waist Size: 44 in, Top Hip Size: 44 in, Bottom Waist Size: 44 in, Bottom Hip Size: 44 in, Bottom Length Size: 44 in, Scarf Length Size: 1.5 in) Elegant and ethnic, this Navy Blue Cotton Kurta is perfect for casual wear and festivals. Soft and lightweight, with intricate embroidery details and a classic V-neck design. Available in sizes XS-XXXL. Suitable for office wear, meetings, or special events. Made from breathable cotton for ultimate comfort." Country of Origin : India More Information
+  Updated: 2025-10-12T13:00:03Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/ts1cb_512.webp?v=1760080707
+  - [S](https://donedeals.xyz/products/cotton-emroidered-kurta-and-paijama-set?variant=43675783430195)
+    Availability: Available
+    Price: ₹340.00 INR
+  - [M](https://donedeals.xyz/products/cotton-emroidered-kurta-and-paijama-set?variant=43675783462963)
+    Availability: Available
+    Price: ₹340.00 INR
+  - [L](https://donedeals.xyz/products/cotton-emroidered-kurta-and-paijama-set?variant=43675783495731)
+    Availability: Available
+    Price: ₹340.00 INR
+  - [XL](https://donedeals.xyz/products/cotton-emroidered-kurta-and-paijama-set?variant=43675783528499)
+    Availability: Available
+    Price: ₹340.00 INR
 - [MEN EMBROIDERY COTTON KURTA SET](https://donedeals.xyz/products/men-embroidery-cotton-kurta-set-1): Product Details Name : MEN EMBROIDERY COTTON KURTA SET Top Fabric : Cotton Bottom Fabric : Cotton Scarf Fabric : No Scarf Sleeve Length : Long Sleeves Bottom Type : Straight Pajama Stitch Type : Stitched Pattern : Embroidered Sizes : M (Chest Size : 38 in, Top Length Size: 38 in, Top Waist Size: 38 in, Top Hip Size: 38 in, Bottom Waist Size: 38 in, Bottom Hip Size: 38 in, Bottom Length Size: 38 in, Scarf Length Size: 1.5 in) L (Chest Size : 40 m, Top Length Size: 40 m, Top Waist Size: 40 m, Top Hip Size: 40 m, Bottom Waist Size: 40 m, Bottom Hip Size: 40 m, Bottom Length Size: 40 m, Scarf Length Size: 1.5 m) XL (Chest Size : 42 in, Top Length Size: 42 in, Top Waist Size: 42 in, Top Hip Size: 42 in, Bottom Waist Size: 42 in, Bottom Hip Size: 42 in, Bottom Length Size: 42 in, Scarf Length Size: 1.5 in) XXL (Chest Size : 44 m, Top Length Size: 44 m, Top Waist Size: 44 m, Top Hip Size: 44 m, Bottom Waist Size: 44 m, Bottom Hip Size: 44 m, Bottom Length Size: 44 m, Scarf Length Size: 1.5 m) MEN EMBROIDERED COTTON KURTA Country of Origin : India More Information
   Updated: 2025-10-10T07:19:15Z
   Vendor: DoneDeals
@@ -23880,6 +25176,42 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/6znr9_512.webp?v=1760080750
   Price: ₹0.00 INR
+- [CHIKAN KURTA FOR MEN](https://donedeals.xyz/products/chikan-kurta-for-men): Product Details Name : CHIKAN KURTA FOR MEN Fabric : Viscose Rayon Sleeve Length : Long Sleeves Pattern : Solid Combo of : Single Sizes : M (Chest Size : 38 in, Length Size: 37 in, Waist Size: 40 in) L (Chest Size : 39 in, Length Size: 39 in, Waist Size: 42 in) XL (Chest Size : 41 in, Length Size: 41 in, Waist Size: 44 in) XXL (Chest Size : 44 in, Length Size: 43 in, Waist Size: 46 in) LUCKNOWI CHIKAN KURTA FOR MEN IN SOFT RAYON VISCOSE FABRIC Country of Origin : India More Information
+  Updated: 2025-10-12T12:58:21Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/b8n7j_512.webp?v=1760080780
+  - [S](https://donedeals.xyz/products/chikan-kurta-for-men?variant=43675784740915)
+    Availability: Available
+    Price: ₹517.00 INR
+  - [M](https://donedeals.xyz/products/chikan-kurta-for-men?variant=43675784773683)
+    Availability: Available
+    Price: ₹517.00 INR
+  - [L](https://donedeals.xyz/products/chikan-kurta-for-men?variant=43675784806451)
+    Availability: Available
+    Price: ₹517.00 INR
+  - [XL](https://donedeals.xyz/products/chikan-kurta-for-men?variant=43675784839219)
+    Availability: Available
+    Price: ₹517.00 INR
+- [Elegant Men Kurtas](https://donedeals.xyz/products/elegant-men-kurtas): Product Details Name : Elegant Men Kurtas Fabric : Rayon Sleeve Length : Long Sleeves Pattern : Embellished Combo of : Single Sizes : M (Chest Size : 38 in, Length Size: 39 in, Waist Size: 38 in) L (Chest Size : 40 in, Length Size: 40 in, Waist Size: 40 in) XL (Chest Size : 42 in, Length Size: 41 in, Waist Size: 42 in) XXL (Chest Size : 44 in, Length Size: 42 in, Waist Size: 44 in) Country of Origin : India More Information
+  Updated: 2025-10-12T13:03:00Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/vb7f0_512.webp?v=1760080810
+  - [S](https://donedeals.xyz/products/elegant-men-kurtas?variant=43675785265203)
+    Availability: Available
+    Price: ₹595.00 INR
+  - [M](https://donedeals.xyz/products/elegant-men-kurtas?variant=43675785297971)
+    Availability: Available
+    Price: ₹595.00 INR
+  - [L](https://donedeals.xyz/products/elegant-men-kurtas?variant=43675785330739)
+    Availability: Available
+    Price: ₹595.00 INR
+  - [XL](https://donedeals.xyz/products/elegant-men-kurtas?variant=43675785363507)
+    Availability: Available
+    Price: ₹595.00 INR
 - [Elegant Men Kurtas](https://donedeals.xyz/products/elegant-men-kurtas-1): Product Details Name : Elegant Men Kurtas Fabric : Rayon Sleeve Length : Long Sleeves Pattern : Embellished Combo of : Single Sizes : M (Chest Size : 38 in, Length Size: 39 in, Waist Size: 38 in) L (Chest Size : 40 in, Length Size: 40 in, Waist Size: 40 in) XL (Chest Size : 42 in, Length Size: 41 in, Waist Size: 42 in) XXL (Chest Size : 44 in, Length Size: 42 in, Waist Size: 44 in) Country of Origin : India More Information
   Updated: 2025-10-10T07:20:32Z
   Vendor: DoneDeals
@@ -23887,6 +25219,24 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/86pyz_512.webp?v=1760080826
   Price: ₹0.00 INR
+- [Floral Embroidered Cotton Mens Kurta](https://donedeals.xyz/products/floral-embroidered-cotton-mens-kurta): Product Details Name : Floral Embroidered Cotton Mens Kurta Fabric : Rayon Sleeve Length : Long Sleeves Pattern : Embroidered Combo of : Single Sizes : S (Chest Size : 34 in, Length Size: 34 in) M (Chest Size : 36 in, Length Size: 36 in) L (Chest Size : 38 in, Length Size: 38 in) XL (Chest Size : 40 in, Length Size: 40 in) XXL (Chest Size : 42 in, Length Size: 42 in) Floral Embroidered Cotton Mens Kurta Country of Origin : India More Information
+  Updated: 2025-10-12T13:10:27Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/soofp_512.webp?v=1760080855
+  - [S](https://donedeals.xyz/products/floral-embroidered-cotton-mens-kurta?variant=43675785920563)
+    Availability: Available
+    Price: ₹470.00 INR
+  - [M](https://donedeals.xyz/products/floral-embroidered-cotton-mens-kurta?variant=43675785953331)
+    Availability: Available
+    Price: ₹470.00 INR
+  - [L](https://donedeals.xyz/products/floral-embroidered-cotton-mens-kurta?variant=43675785986099)
+    Availability: Available
+    Price: ₹470.00 INR
+  - [XL](https://donedeals.xyz/products/floral-embroidered-cotton-mens-kurta?variant=43675786018867)
+    Availability: Available
+    Price: ₹470.00 INR
 - [Sunshopping Men? Formal & Causal Leatherite Belt and Wallet Combo(Pack of 3)](https://donedeals.xyz/products/sunshopping-men-formal-causal-leatherite-belt-and-wallet-combopack-of-3): Product Details Name : Sunshopping Men? Formal & Causal Leatherite Belt and Wallet Combo(Pack of 3) Material : PU Pattern : Striped Net Quantity (N) : 2 Sizes : 28 (Waist Size : 28 in) 30 (Waist Size : 30 in) 32 (Waist Size : 32 in) 34 (Waist Size : 34 in) 36 (Waist Size : 36 in) Sunshopping Men’s Formal & Causal Leatherite Belt and Wallet Combo(Pack of 3) Country of Origin : India More Information
   Updated: 2025-10-10T10:02:29Z
   Vendor: DoneDeals
@@ -24230,6 +25580,363 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/yuvxf_512.webp?v=1760090470
   Price: ₹233.00 INR
+- [ARKER Trendy Latest Stylish Design Boot for Women Latest Design Ankle Length Boot for Women Extra Soft Comfort Boot for Women Chunky Sole Boot For Women High Heel Boot For Women Casual Boot For Women/Girls/Female/Ladies](https://donedeals.xyz/products/arker-trendy-latest-stylish-design-boot-for-women-latest-design-ankle-length-boot-for-women-extra-soft-comfort-boot-for-women-chunky-sole-boot-for-women-high-heel-boot-for-women-casual-boot-for-women-girls-female-ladies): Product Details Name : ARKER Trendy Latest Stylish Design Boot for Women Latest Design Ankle Length Boot for Women Extra Soft Comfort Boot for Women Chunky Sole Boot For Women High Heel Boot For Women Casual Boot For Women/Girls/Female/Ladies Material : Synthetic Sole Material : Pvc Pattern : Solid Fastening & Back Detail : Lace-Up Net Quantity (N) : 1 Style is something which makes you shine out of crowd. First thing anyone notices about you is how well you are dressed up & to add to your looks & style this product from the house of DEAS is a class apart made from synthetic material on the outside and canvas inside and is finished in an attractive color. It features rubber sole, round toe, are designed to be used as casual wear & special needs footwear. It is a must have for casual occasions. Sizes : IND-3 (Foot Length Size : 23.7 cm) IND-4 (Foot Length Size : 24.3 cm) IND-5 (Foot Length Size : 25 cm) IND-6 (Foot Length Size : 25.5 cm) IND-7 (Foot Length Size : 26.1 cm) IND-8 (Foot Length Size : 26.7 cm) Country of Origin : India More Information
+  Updated: 2025-10-12T12:55:52Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/4plg4_512.webp?v=1760152998
+  - [5](https://donedeals.xyz/products/arker-trendy-latest-stylish-design-boot-for-women-latest-design-ankle-length-boot-for-women-extra-soft-comfort-boot-for-women-chunky-sole-boot-for-women-high-heel-boot-for-women-casual-boot-for-women-girls-female-ladies?variant=43677082353715)
+    Availability: Available
+    Price: ₹417.00 INR
+  - [6](https://donedeals.xyz/products/arker-trendy-latest-stylish-design-boot-for-women-latest-design-ankle-length-boot-for-women-extra-soft-comfort-boot-for-women-chunky-sole-boot-for-women-high-heel-boot-for-women-casual-boot-for-women-girls-female-ladies?variant=43677082386483)
+    Availability: Available
+    Price: ₹417.00 INR
+  - [7](https://donedeals.xyz/products/arker-trendy-latest-stylish-design-boot-for-women-latest-design-ankle-length-boot-for-women-extra-soft-comfort-boot-for-women-chunky-sole-boot-for-women-high-heel-boot-for-women-casual-boot-for-women-girls-female-ladies?variant=43677082419251)
+    Availability: Available
+    Price: ₹417.00 INR
+  - [8](https://donedeals.xyz/products/arker-trendy-latest-stylish-design-boot-for-women-latest-design-ankle-length-boot-for-women-extra-soft-comfort-boot-for-women-chunky-sole-boot-for-women-high-heel-boot-for-women-casual-boot-for-women-girls-female-ladies?variant=43677082452019)
+    Availability: Available
+    Price: ₹417.00 INR
+  - [9](https://donedeals.xyz/products/arker-trendy-latest-stylish-design-boot-for-women-latest-design-ankle-length-boot-for-women-extra-soft-comfort-boot-for-women-chunky-sole-boot-for-women-high-heel-boot-for-women-casual-boot-for-women-girls-female-ladies?variant=43677082484787)
+    Availability: Available
+    Price: ₹417.00 INR
+- [Attractive,Comfortable & Stylish Casual High Block Heel Boot For Women Ankle Length Design](https://donedeals.xyz/products/attractive-comfortable-stylish-casual-high-block-heel-boot-for-women-ankle-length-design): Product Details Name : Attractive,Comfortable & Stylish Casual High Block Heel Boot For Women Ankle Length Design Material : Syntethic Leather Sole Material : Pvc Pattern : Solid Fastening & Back Detail : Lace-Up Net Quantity (N) : 1 Shoes are made from very high-quality material, we never compromise with quality, are fully dedicated to providing the highest quality product. Stylish, flexible and comfort dress shoes perfect for wedding,business,work,formal and casual. The Comfortable dress shoe is suitable not only for work,but also for formal occasions like wedding EASY TO MATCH - This Shoes for men have classic color matching designed, easy to match clothing. You can worn this shoes with jeans, casual pants, cropped pants and shorts. Perfect for any occasions. Designed to be your favorite Shoe for all occasions, Wally Free embodies the lifestyle by combining your passion for comfort, quality, and fashion. this casual features highly flexible stretch materials and a maximum cushioned insole. Sizes : IND-3 (Foot Length Size : 23.5 cm) IND-4 (Foot Length Size : 24 cm) IND-5 (Foot Length Size : 24.5 cm) IND-6 (Foot Length Size : 25 cm) IND-7 (Foot Length Size : 25.5 cm) IND-8 (Foot Length Size : 26 cm) Country of Origin : India More Information
+  Updated: 2025-10-12T12:56:04Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/7eug6_512.webp?v=1760153007
+  - [5](https://donedeals.xyz/products/attractive-comfortable-stylish-casual-high-block-heel-boot-for-women-ankle-length-design?variant=43677082517555)
+    Availability: Available
+    Price: ₹417.00 INR
+  - [6](https://donedeals.xyz/products/attractive-comfortable-stylish-casual-high-block-heel-boot-for-women-ankle-length-design?variant=43677082550323)
+    Availability: Available
+    Price: ₹417.00 INR
+  - [7](https://donedeals.xyz/products/attractive-comfortable-stylish-casual-high-block-heel-boot-for-women-ankle-length-design?variant=43677082583091)
+    Availability: Available
+    Price: ₹417.00 INR
+  - [8](https://donedeals.xyz/products/attractive-comfortable-stylish-casual-high-block-heel-boot-for-women-ankle-length-design?variant=43677082615859)
+    Availability: Available
+    Price: ₹417.00 INR
+  - [9](https://donedeals.xyz/products/attractive-comfortable-stylish-casual-high-block-heel-boot-for-women-ankle-length-design?variant=43677082648627)
+    Availability: Available
+    Price: ₹417.00 INR
+- [Casual women boots](https://donedeals.xyz/products/casual-women-boots): Product Details Name : Casual women boots Material : Pu Sole Material : Pvc Pattern : Solid Fastening & Back Detail : Lace-Up Net Quantity (N) : 1 Stylish women boots Sizes : IND-3, IND-4, IND-5, IND-6, IND-7, IND-8 Country of Origin : India More Information
+  Updated: 2025-10-12T12:58:11Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/qwfyu_512.webp?v=1760153013
+  - [5](https://donedeals.xyz/products/casual-women-boots?variant=43677082681395)
+    Availability: Available
+    Price: ₹403.00 INR
+  - [6](https://donedeals.xyz/products/casual-women-boots?variant=43677082714163)
+    Availability: Available
+    Price: ₹403.00 INR
+  - [7](https://donedeals.xyz/products/casual-women-boots?variant=43677082746931)
+    Availability: Available
+    Price: ₹403.00 INR
+  - [8](https://donedeals.xyz/products/casual-women-boots?variant=43677082779699)
+    Availability: Available
+    Price: ₹403.00 INR
+  - [9](https://donedeals.xyz/products/casual-women-boots?variant=43677082812467)
+    Availability: Available
+    Price: ₹403.00 INR
+- [Fashionable Trendy Women Boots](https://donedeals.xyz/products/fashionable-trendy-women-boots): Product Details Name : Fashionable Trendy Women Boots Material : Velvet Sole Material : PU Pattern : Solid Net Quantity (N) : 1 Sizes : IND-3, IND-4, IND-5, IND-6, IND-7, IND-8 Country of Origin : India More Information
+  Updated: 2025-10-12T13:04:40Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/vg02w_512.webp?v=1760153031
+  - [5](https://donedeals.xyz/products/fashionable-trendy-women-boots?variant=43677083009075)
+    Availability: Available
+    Price: ₹337.00 INR
+  - [6](https://donedeals.xyz/products/fashionable-trendy-women-boots?variant=43677083041843)
+    Availability: Available
+    Price: ₹337.00 INR
+  - [7](https://donedeals.xyz/products/fashionable-trendy-women-boots?variant=43677083074611)
+    Availability: Available
+    Price: ₹337.00 INR
+  - [8](https://donedeals.xyz/products/fashionable-trendy-women-boots?variant=43677083107379)
+    Availability: Available
+    Price: ₹337.00 INR
+  - [9](https://donedeals.xyz/products/fashionable-trendy-women-boots?variant=43677083140147)
+    Availability: Available
+    Price: ₹337.00 INR
+- [Colorful Women Boots](https://donedeals.xyz/products/colorful-women-boots): Product Details Name : Colorful Women Boots Material : Suede Sole Material : Tpr Pattern : Printed Fastening & Back Detail : Lace-Up Net Quantity (N) : 1 Sizes : IND-3 (Foot Length Size : 23.7 cm) IND-4 (Foot Length Size : 24.3 cm) IND-5 (Foot Length Size : 25 cm) IND-6 (Foot Length Size : 25.5 cm) IND-7 (Foot Length Size : 26.1 cm) IND-8 (Foot Length Size : 26.7 cm) Country of Origin : India More Information
+  Updated: 2025-10-12T12:58:52Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/kba9l_512.webp?v=1760153041
+  - [5](https://donedeals.xyz/products/colorful-women-boots?variant=43677083172915)
+    Availability: Available
+    Price: ₹367.00 INR
+  - [6](https://donedeals.xyz/products/colorful-women-boots?variant=43677083205683)
+    Availability: Available
+    Price: ₹367.00 INR
+  - [7](https://donedeals.xyz/products/colorful-women-boots?variant=43677083238451)
+    Availability: Available
+    Price: ₹367.00 INR
+  - [8](https://donedeals.xyz/products/colorful-women-boots?variant=43677083271219)
+    Availability: Available
+    Price: ₹367.00 INR
+  - [9](https://donedeals.xyz/products/colorful-women-boots?variant=43677083303987)
+    Availability: Available
+    Price: ₹367.00 INR
+- [Boots](https://donedeals.xyz/products/boots): Product Details Name : Boots Material : Suede Sole Material : Tpr Pattern : Solid Net Quantity (N) : 1 Sizes : IND-3, IND-4, IND-5, IND-6, IND-7, IND-8 Country of Origin : India More Information
+  Updated: 2025-10-12T12:57:07Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/a38u8_512.webp?v=1760153051
+  - [5](https://donedeals.xyz/products/boots?variant=43677083336755)
+    Availability: Available
+    Price: ₹409.00 INR
+  - [6](https://donedeals.xyz/products/boots?variant=43677083369523)
+    Availability: Available
+    Price: ₹409.00 INR
+  - [7](https://donedeals.xyz/products/boots?variant=43677083402291)
+    Availability: Available
+    Price: ₹409.00 INR
+  - [8](https://donedeals.xyz/products/boots?variant=43677083435059)
+    Availability: Available
+    Price: ₹409.00 INR
+  - [9](https://donedeals.xyz/products/boots?variant=43677083467827)
+    Availability: Available
+    Price: ₹409.00 INR
+- [commander shoes Casual boots for girls and women (801)](https://donedeals.xyz/products/commander-shoes-casual-boots-for-girls-and-women-801): Product Details Name : commander shoes Casual boots for girls and women (801) Material : Synthetic Sole Material : Rubber Pattern : Solid Fastening & Back Detail : Lace-Up Net Quantity (N) : 1 These Fashionable Boots from "commander shoes" feature a versatile design that can be flaunted by women and Girls. Whether you need a pair to stay comfortable while attending college, Parties, Trips or something that will truly compliment your evening attire, these Boots have the eye-catching design. Made from Synthetic Material for long lasting and gives it elegant Look. Characterized by Good sole, These Boots make for must-have pairs in your wardrobe, Click Add to Cart Now... Grab a pair or two!!. --These Women Footwear from commander shoes, combines eye catching design in a modern look. We have Different variety of Colors which can Match your Outfit, the Women on the go will surely like to spruce up their look wearing these Shoes. Sizes : IND-3 (Foot Length Size : 22.5 cm, Foot Width Size: 7.2 cm) IND-4 (Foot Length Size : 23.2 cm, Foot Width Size: 7.3 cm) IND-6 (Foot Length Size : 24.6 cm, Foot Width Size: 7.6 cm) Country of Origin : India More Information
+  Updated: 2025-10-12T12:59:27Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/wjqjn_512.webp?v=1760153122
+  - [5](https://donedeals.xyz/products/commander-shoes-casual-boots-for-girls-and-women-801?variant=43677084319795)
+    Availability: Available
+    Price: ₹485.00 INR
+  - [6](https://donedeals.xyz/products/commander-shoes-casual-boots-for-girls-and-women-801?variant=43677084352563)
+    Availability: Available
+    Price: ₹485.00 INR
+  - [7](https://donedeals.xyz/products/commander-shoes-casual-boots-for-girls-and-women-801?variant=43677084385331)
+    Availability: Available
+    Price: ₹485.00 INR
+  - [8](https://donedeals.xyz/products/commander-shoes-casual-boots-for-girls-and-women-801?variant=43677084418099)
+    Availability: Available
+    Price: ₹485.00 INR
+  - [9](https://donedeals.xyz/products/commander-shoes-casual-boots-for-girls-and-women-801?variant=43677084450867)
+    Availability: Available
+    Price: ₹485.00 INR
+- [Alluring Women Boots](https://donedeals.xyz/products/alluring-women-boots): Product Details Name : Alluring Women Boots Material : Patent Leather Sole Material : Tpr Pattern : Solid Fastening & Back Detail : Lace-Up Net Quantity (N) : 1 presents to you elegant and quality footwear for women just like an art. Made from out of good quality material which is durable and comfortable to wear, ABJ Fashion provides you a variety of designs and styles with unique straps and soles. These stylish shoes are the perfect inspiration for a fashionable look. The comfortable sole makes sure that your feet stay comfortable throughout the day and you enjoy optimal grip. Designed to have comfort at its best, without compromising on style. Avani Fashion committed to provide the finest shoes ever made. Sizes : IND-4, IND-5, IND-6, IND-7, IND-8 Country of Origin : India More Information
+  Updated: 2025-10-12T12:55:34Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/rpyj4_512.webp?v=1760153144
+  - [5](https://donedeals.xyz/products/alluring-women-boots?variant=43677084647475)
+    Availability: Available
+    Price: ₹597.00 INR
+  - [6](https://donedeals.xyz/products/alluring-women-boots?variant=43677084680243)
+    Availability: Available
+    Price: ₹597.00 INR
+  - [7](https://donedeals.xyz/products/alluring-women-boots?variant=43677084713011)
+    Availability: Available
+    Price: ₹597.00 INR
+  - [8](https://donedeals.xyz/products/alluring-women-boots?variant=43677084745779)
+    Availability: Available
+    Price: ₹597.00 INR
+  - [9](https://donedeals.xyz/products/alluring-women-boots?variant=43677084778547)
+    Availability: Available
+    Price: ₹597.00 INR
+- [Affordable Shoe boots Women's Boots - Comfortable, Stylish, and Durable without lace-up for modelling shoe for Girl winter and summer outing shoe/ work boots, Boots, High heels boots, Wedge boot, cowboy boot](https://donedeals.xyz/products/affordable-shoe-boots-womens-boots-comfortable-stylish-and-durable-without-lace-up-for-modelling-shoe-for-girl-winter-and-summer-outing-shoe-work-boots-boots-high-heels-boots-wedge-boot-cowboy-boot): Product Details Name : Affordable Shoe boots Women's Boots - Comfortable, Stylish, and Durable without lace-up for modelling shoe for Girl winter and summer outing shoe/ work boots, Boots, High heels boots, Wedge boot, cowboy boot Material : Syntethic Leather Sole Material : Pvc Pattern : Colorblocked Fastening & Back Detail : Lace-Up Net Quantity (N) : 1 Lifestyle : Walking Casual Mid Top Style, Trending Fashion Latest Collection Boot. Comfortable Movement- Allows the feet to move as naturally as possible, particularly around the toe area where maximum flexibility is required. This pair is having a classic style which will add glamour to your look. These boot go well with your casual wear. Team it with your casual attire to complete your perfect casual or Festive look. The simple design combining with comfort and falling in line with your demand for the latest in fashion. The comfortable sole makes sure that your feet stay comfortable throughout the day and you enjoy optimal Grip. These stylish Boots are the perfect inspiration for a fashionable look Sizes : IND-3 (Foot Length Size : 23.5 cm) IND-4 (Foot Length Size : 24 cm) IND-5 (Foot Length Size : 24.5 cm) IND-6 (Foot Length Size : 25 cm) IND-7 (Foot Length Size : 25.5 cm) IND-8 (Foot Length Size : 26 cm) Country of Origin : India More Information
+  Updated: 2025-10-12T12:55:33Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/r98fv_512.webp?v=1760153173
+  - [5](https://donedeals.xyz/products/affordable-shoe-boots-womens-boots-comfortable-stylish-and-durable-without-lace-up-for-modelling-shoe-for-girl-winter-and-summer-outing-shoe-work-boots-boots-high-heels-boots-wedge-boot-cowboy-boot?variant=43677085138995)
+    Availability: Available
+    Price: ₹439.00 INR
+  - [6](https://donedeals.xyz/products/affordable-shoe-boots-womens-boots-comfortable-stylish-and-durable-without-lace-up-for-modelling-shoe-for-girl-winter-and-summer-outing-shoe-work-boots-boots-high-heels-boots-wedge-boot-cowboy-boot?variant=43677085171763)
+    Availability: Available
+    Price: ₹439.00 INR
+  - [7](https://donedeals.xyz/products/affordable-shoe-boots-womens-boots-comfortable-stylish-and-durable-without-lace-up-for-modelling-shoe-for-girl-winter-and-summer-outing-shoe-work-boots-boots-high-heels-boots-wedge-boot-cowboy-boot?variant=43677085204531)
+    Availability: Available
+    Price: ₹439.00 INR
+  - [8](https://donedeals.xyz/products/affordable-shoe-boots-womens-boots-comfortable-stylish-and-durable-without-lace-up-for-modelling-shoe-for-girl-winter-and-summer-outing-shoe-work-boots-boots-high-heels-boots-wedge-boot-cowboy-boot?variant=43677085237299)
+    Availability: Available
+    Price: ₹439.00 INR
+  - [9](https://donedeals.xyz/products/affordable-shoe-boots-womens-boots-comfortable-stylish-and-durable-without-lace-up-for-modelling-shoe-for-girl-winter-and-summer-outing-shoe-work-boots-boots-high-heels-boots-wedge-boot-cowboy-boot?variant=43677085270067)
+    Availability: Available
+    Price: ₹439.00 INR
+- [Fabulous Women Boots](https://donedeals.xyz/products/fabulous-women-boots): Product Details Name : Fabulous Women Boots Material : Velvet Sole Material : Pvc Pattern : Colorblocked Fastening & Back Detail : Slip-On Net Quantity (N) : 1 Elevate your style with this classy pair of Loafer from the house of Avani Collection. Featuring a contemporary refined design with exceptional comfort, this pair is perfect to give your quintessential dressing an upgrade. Sizes : IND-4 (Foot Length Size : 10 cm, Foot Width Size: 10 cm) IND-5 (Foot Length Size : 10.1 cm, Foot Width Size: 10.1 cm) IND-6 (Foot Length Size : 10.2 cm, Foot Width Size: 10.2 cm) IND-7 (Foot Length Size : 10.3 cm, Foot Width Size: 10.4 cm) IND-8 (Foot Length Size : 10.4 cm, Foot Width Size: 10.5 cm) Country of Origin : India More Information
+  Updated: 2025-10-12T13:04:33Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/8emol_512.webp?v=1760153194
+  - [5](https://donedeals.xyz/products/fabulous-women-boots?variant=43677085466675)
+    Availability: Available
+    Price: ₹566.00 INR
+  - [6](https://donedeals.xyz/products/fabulous-women-boots?variant=43677085499443)
+    Availability: Available
+    Price: ₹566.00 INR
+  - [7](https://donedeals.xyz/products/fabulous-women-boots?variant=43677085532211)
+    Availability: Available
+    Price: ₹566.00 INR
+  - [8](https://donedeals.xyz/products/fabulous-women-boots?variant=43677085564979)
+    Availability: Available
+    Price: ₹566.00 INR
+  - [9](https://donedeals.xyz/products/fabulous-women-boots?variant=43677085597747)
+    Availability: Available
+    Price: ₹566.00 INR
+- [commander shoes boots for girls and women (802)](https://donedeals.xyz/products/commander-shoes-boots-for-girls-and-women-802): Product Details Name : commander shoes boots for girls and women (802) Material : Synthetic Sole Material : Rubber Pattern : Solid Fastening & Back Detail : Lace-Up Net Quantity (N) : 1 These Fashionable Boots from "commander shoes" feature a versatile design that can be flaunted by women and Girls. Whether you need a pair to stay comfortable while attending college, Parties, Trips or something that will truly compliment your evening attire, these Boots have the eye-catching Flower design. Made from Synthetic Material for long lasting and gives it elegant Look. Characterized by Good sole, These Boots make for must-have pairs in your wardrobe, Click Add to Cart Now... Grab a pair or two!!. --These Women Footwear from commander shoes, combines eye catching design in a modern look. We have Different variety of Colors which can Match your Outfit, the Women on the go will surely like to spruce up their look wearing these Shoes. Sizes : IND-3 (Foot Length Size : 22.5 cm, Foot Width Size: 7.2 cm) IND-4 (Foot Length Size : 23.2 cm, Foot Width Size: 7.3 cm) IND-5 (Foot Length Size : 23.9 cm, Foot Width Size: 7.5 cm) Country of Origin : India More Information
+  Updated: 2025-10-12T12:59:27Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/t6abb_512.webp?v=1760153235
+  - [5](https://donedeals.xyz/products/commander-shoes-boots-for-girls-and-women-802?variant=43677086122035)
+    Availability: Available
+    Price: ₹474.00 INR
+  - [6](https://donedeals.xyz/products/commander-shoes-boots-for-girls-and-women-802?variant=43677086154803)
+    Availability: Available
+    Price: ₹474.00 INR
+  - [7](https://donedeals.xyz/products/commander-shoes-boots-for-girls-and-women-802?variant=43677086187571)
+    Availability: Available
+    Price: ₹474.00 INR
+  - [8](https://donedeals.xyz/products/commander-shoes-boots-for-girls-and-women-802?variant=43677086220339)
+    Availability: Available
+    Price: ₹474.00 INR
+  - [9](https://donedeals.xyz/products/commander-shoes-boots-for-girls-and-women-802?variant=43677086253107)
+    Availability: Available
+    Price: ₹474.00 INR
+- [Classy and Fashionable Velvet boots with Diamond Pattern](https://donedeals.xyz/products/classy-and-fashionable-velvet-boots-with-diamond-pattern): Product Details Name : Classy and Fashionable Velvet boots with Diamond Pattern Material : Velvet Sole Material : Synthetic Pattern : Solid Fastening & Back Detail : Zip Net Quantity (N) : 1 Sizes : IND-3 (Foot Length Size : 20 cm) IND-4 (Foot Length Size : 20.1 cm) Country of Origin : India More Information
+  Updated: 2025-10-12T12:58:38Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/kf353_512.webp?v=1760153255
+  - [5](https://donedeals.xyz/products/classy-and-fashionable-velvet-boots-with-diamond-pattern?variant=43677086449715)
+    Availability: Available
+    Price: ₹371.00 INR
+  - [6](https://donedeals.xyz/products/classy-and-fashionable-velvet-boots-with-diamond-pattern?variant=43677086482483)
+    Availability: Available
+    Price: ₹371.00 INR
+  - [7](https://donedeals.xyz/products/classy-and-fashionable-velvet-boots-with-diamond-pattern?variant=43677086515251)
+    Availability: Available
+    Price: ₹371.00 INR
+  - [8](https://donedeals.xyz/products/classy-and-fashionable-velvet-boots-with-diamond-pattern?variant=43677086548019)
+    Availability: Available
+    Price: ₹371.00 INR
+  - [9](https://donedeals.xyz/products/classy-and-fashionable-velvet-boots-with-diamond-pattern?variant=43677086580787)
+    Availability: Available
+    Price: ₹371.00 INR
+- [commander shoes latest casual boots for girls and women (812)](https://donedeals.xyz/products/commander-shoes-latest-casual-boots-for-girls-and-women-812): Product Details Name : commander shoes latest casual boots for girls and women (812) Material : Suede Sole Material : Rubber Pattern : Solid Fastening & Back Detail : Lace-Up Net Quantity (N) : 1 These Fashionable Boots from "commander shoes" feature a versatile design that can be flaunted by women and Girls. Whether you need a pair to stay comfortable while attending college, Parties, Trips or something that will truly compliment your evening attire, these fur Boots have the eye-catching design. Made from Suede Material for long lasting style; We has come up with these Boots that merge elegant style. Characterized by Good sole, these Boots have been designed to give stylish comfort to your feet at all times; These Boots make for must-have pairs in your wardrobe, Click Add to Cart Now... Grab a pair or two!!.--These Women Footwear from commander shoes, combines eye catching design and style in a modern look. We have Different variety of Colors which can Match your Outfit, the Women on the go will surely like to spruce up their look wearing these Shoes. Sizes : IND-3 (Foot Length Size : 22.5 cm, Foot Width Size: 7.2 cm) IND-5 (Foot Length Size : 23.9 cm, Foot Width Size: 7.5 cm) IND-6 (Foot Length Size : 24.6 cm, Foot Width Size: 7.6 cm) IND-7 (Foot Length Size : 25.5 cm, Foot Width Size: 7.7 cm) Country of Origin : India More Information
+  Updated: 2025-10-12T12:59:27Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/4spyp_512.webp?v=1760153274
+  - [5](https://donedeals.xyz/products/commander-shoes-latest-casual-boots-for-girls-and-women-812?variant=43677086777395)
+    Availability: Available
+    Price: ₹496.00 INR
+  - [6](https://donedeals.xyz/products/commander-shoes-latest-casual-boots-for-girls-and-women-812?variant=43677086810163)
+    Availability: Available
+    Price: ₹496.00 INR
+  - [7](https://donedeals.xyz/products/commander-shoes-latest-casual-boots-for-girls-and-women-812?variant=43677086842931)
+    Availability: Available
+    Price: ₹496.00 INR
+  - [8](https://donedeals.xyz/products/commander-shoes-latest-casual-boots-for-girls-and-women-812?variant=43677086875699)
+    Availability: Available
+    Price: ₹496.00 INR
+  - [9](https://donedeals.xyz/products/commander-shoes-latest-casual-boots-for-girls-and-women-812?variant=43677086908467)
+    Availability: Available
+    Price: ₹496.00 INR
+- [Canvas Modern Casual Latest Chunky Party Stylish Trendy Design Comfortable shoe Boot For Women High Heel Ankle Length Women Fashion Casual Shoe Partywear Outdoor Boot For Women Comfortable Extra Soft Lightweight Boot For Women/Ladies/Girls](https://donedeals.xyz/products/canvas-modern-casual-latest-chunky-party-stylish-trendy-design-comfortable-shoe-boot-for-women-high-heel-ankle-length-women-fashion-casual-shoe-partywear-outdoor-boot-for-women-comfortable-extra-soft-lightweight-boot-for-women-ladies-girls): Product Details Name : Canvas Modern Casual Latest Chunky Party Stylish Trendy Design Comfortable shoe Boot For Women High Heel Ankle Length Women Fashion Casual Shoe Partywear Outdoor Boot For Women Comfortable Extra Soft Lightweight Boot For Women/Ladies/Girls Material : Synthetic Sole Material : PVC Pattern : Embellished Net Quantity (N) : 1 Sizes : IND-3, IND-4, IND-5, IND-6, IND-7, IND-8 Romds is dedicated to the application of Footwear science and innovation in the development of high performance, comfortable Footwear the ground breaking materials and innovative with new technology. We make products for a wide range of sports and activities included running, trails, walking and training or all day comfort wear. Our tag line Factory to home signifies stopping at nothing and putting in everything in delivering the best product to our customers. " ROMDS" Presents to You Elegant and Quality Footwear for Womans Just Like an Art. Made From Out Of Best Quality Material Which Is Durable and Comfortable to Wear, ROMDS Offers You a Variety of Designs and Styles with Unique Straps and Soles. These stylish shoe are the perfect inspiration for a fashionable look. The comfortable sole makes sure that your feet stay comfortable throughout the day and you enjoy optimal Grip. Designed to offer comfort at its best, without compromising on style. ROMDSis committed to deliver the finest shoes ever made. Converting designs and ideas into masterpiece is the work of ROMDS Country of Origin : India More Information
+  Updated: 2025-10-12T12:57:33Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/nyybn_512.webp?v=1760153296
+  - [5](https://donedeals.xyz/products/canvas-modern-casual-latest-chunky-party-stylish-trendy-design-comfortable-shoe-boot-for-women-high-heel-ankle-length-women-fashion-casual-shoe-partywear-outdoor-boot-for-women-comfortable-extra-soft-lightweight-boot-for-women-ladies-girls?variant=43677087105075)
+    Availability: Available
+    Price: ₹418.00 INR
+  - [6](https://donedeals.xyz/products/canvas-modern-casual-latest-chunky-party-stylish-trendy-design-comfortable-shoe-boot-for-women-high-heel-ankle-length-women-fashion-casual-shoe-partywear-outdoor-boot-for-women-comfortable-extra-soft-lightweight-boot-for-women-ladies-girls?variant=43677087137843)
+    Availability: Available
+    Price: ₹418.00 INR
+  - [7](https://donedeals.xyz/products/canvas-modern-casual-latest-chunky-party-stylish-trendy-design-comfortable-shoe-boot-for-women-high-heel-ankle-length-women-fashion-casual-shoe-partywear-outdoor-boot-for-women-comfortable-extra-soft-lightweight-boot-for-women-ladies-girls?variant=43677087170611)
+    Availability: Available
+    Price: ₹418.00 INR
+  - [8](https://donedeals.xyz/products/canvas-modern-casual-latest-chunky-party-stylish-trendy-design-comfortable-shoe-boot-for-women-high-heel-ankle-length-women-fashion-casual-shoe-partywear-outdoor-boot-for-women-comfortable-extra-soft-lightweight-boot-for-women-ladies-girls?variant=43677087203379)
+    Availability: Available
+    Price: ₹418.00 INR
+  - [9](https://donedeals.xyz/products/canvas-modern-casual-latest-chunky-party-stylish-trendy-design-comfortable-shoe-boot-for-women-high-heel-ankle-length-women-fashion-casual-shoe-partywear-outdoor-boot-for-women-comfortable-extra-soft-lightweight-boot-for-women-ladies-girls?variant=43677087236147)
+    Availability: Available
+    Price: ₹418.00 INR
+- [Amazing Design Women's Ankle Length Block Heel White Stylish and Fashionable Boots| Stylish Latest & Trendy Boots for Casual Wear, Office Wear](https://donedeals.xyz/products/amazing-design-womens-ankle-length-block-heel-white-stylish-and-fashionable-boots-stylish-latest-trendy-boots-for-casual-wear-office-wear): Product Details Name : Amazing Design Women's Ankle Length Block Heel White Stylish and Fashionable Boots| Stylish Latest & Trendy Boots for Casual Wear, Office Wear Material : Synthetic Sole Material : Pu Pattern : Solid Fastening & Back Detail : Lace-Up Net Quantity (N) : 1 When it comes to online shopping looking for the latest women footwear fashion trends, STRASSE PARIS is the one-stop destination. We aim to fulfill all your footwear needs with various styles in trendy and exquisite footwear options. Sizes : IND-3 (Foot Length Size : 21.5 cm) IND-4 (Foot Length Size : 21.9 cm) IND-5 (Foot Length Size : 22.5 cm) IND-6 (Foot Length Size : 23.3 cm) IND-7 (Foot Length Size : 24 cm) IND-8 (Foot Length Size : 24.3 cm) Country of Origin : India More Information
+  Updated: 2025-10-12T12:55:32Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/d5laa_512.webp?v=1760153305
+  - [5](https://donedeals.xyz/products/amazing-design-womens-ankle-length-block-heel-white-stylish-and-fashionable-boots-stylish-latest-trendy-boots-for-casual-wear-office-wear?variant=43677087268915)
+    Availability: Available
+    Price: ₹608.00 INR
+  - [6](https://donedeals.xyz/products/amazing-design-womens-ankle-length-block-heel-white-stylish-and-fashionable-boots-stylish-latest-trendy-boots-for-casual-wear-office-wear?variant=43677087301683)
+    Availability: Available
+    Price: ₹608.00 INR
+  - [7](https://donedeals.xyz/products/amazing-design-womens-ankle-length-block-heel-white-stylish-and-fashionable-boots-stylish-latest-trendy-boots-for-casual-wear-office-wear?variant=43677087334451)
+    Availability: Available
+    Price: ₹608.00 INR
+  - [8](https://donedeals.xyz/products/amazing-design-womens-ankle-length-block-heel-white-stylish-and-fashionable-boots-stylish-latest-trendy-boots-for-casual-wear-office-wear?variant=43677087367219)
+    Availability: Available
+    Price: ₹608.00 INR
+  - [9](https://donedeals.xyz/products/amazing-design-womens-ankle-length-block-heel-white-stylish-and-fashionable-boots-stylish-latest-trendy-boots-for-casual-wear-office-wear?variant=43677087399987)
+    Availability: Available
+    Price: ₹608.00 INR
+- [commander shoes Stylish boots for girls and women (803)](https://donedeals.xyz/products/commander-shoes-stylish-boots-for-girls-and-women-803): Product Details Name : commander shoes Stylish boots for girls and women (803) Material : Synthetic Sole Material : Rubber Pattern : Solid Fastening & Back Detail : Lace-Up Net Quantity (N) : 1 These Fashionable Boots from "commander shoes" feature a versatile design that can be flaunted by women and Girls. Whether you need a pair to stay comfortable while attending college, Parties, Trips or something that will truly compliment your evening attire, these fur Boots have the eye-catching design. Made from Synthetic Material for long lasting and gives it elegant Look. Characterized by Good sole, these Boots have been designed to give stylish comfort to your feet at all times; These Boots make for must-have pairs in your wardrobe, Click Add to Cart Now... Grab a pair or two!!. --These Women Footwear from commander shoes, combines eye catching design and style in a modern look. We have Different variety of Colors which can Match your Outfit, the Women on the go will surely like to spruce up their look wearing these Shoes. Sizes : IND-3 (Foot Length Size : 22.5 cm, Foot Width Size: 7.2 cm) IND-4 (Foot Length Size : 23.2 cm, Foot Width Size: 7.3 cm) IND-5 (Foot Length Size : 23.9 cm, Foot Width Size: 7.5 cm) Country of Origin : India More Information
+  Updated: 2025-10-12T12:59:27Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/qvei7_512.webp?v=1760153374
+  - [5](https://donedeals.xyz/products/commander-shoes-stylish-boots-for-girls-and-women-803?variant=43677088415795)
+    Availability: Available
+    Price: ₹466.00 INR
+  - [6](https://donedeals.xyz/products/commander-shoes-stylish-boots-for-girls-and-women-803?variant=43677088448563)
+    Availability: Available
+    Price: ₹466.00 INR
+  - [7](https://donedeals.xyz/products/commander-shoes-stylish-boots-for-girls-and-women-803?variant=43677088481331)
+    Availability: Available
+    Price: ₹466.00 INR
+  - [8](https://donedeals.xyz/products/commander-shoes-stylish-boots-for-girls-and-women-803?variant=43677088514099)
+    Availability: Available
+    Price: ₹466.00 INR
+  - [9](https://donedeals.xyz/products/commander-shoes-stylish-boots-for-girls-and-women-803?variant=43677088546867)
+    Availability: Available
+    Price: ₹466.00 INR
+- [commander shoes Partywear Boots for Girls and Women (820)](https://donedeals.xyz/products/commander-shoes-partywear-boots-for-girls-and-women-820): Product Details Name : commander shoes Partywear Boots for Girls and Women (820) Material : Synthetic Sole Material : Rubber Pattern : Solid Net Quantity (N) : 1 Sizes : IND-3, IND-4, IND-8 Elevate your style with this classy pair of Zipper Stylish boots from the house of commander shoes. Featuring a contemporary refined design with exceptional comfort, this pair is perfect to give your quintessential dressing an upgrade made of Synthetic Material. These Boots made for must-have pairs in wardrobe, These Women Footwear combines eye catching design and add a style to look attractive. We have Different variety of Colors and sizes, which can Match the Outfit of women, the Women on the go will surely like to spruce up their look wearing these Shoes. Click Add to Cart Now... Grab a set or more.. !! Country of Origin : India More Information
+  Updated: 2025-10-12T12:59:27Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/unkxk_512.webp?v=1760153384
+  - [5](https://donedeals.xyz/products/commander-shoes-partywear-boots-for-girls-and-women-820?variant=43677088579635)
+    Availability: Available
+    Price: ₹611.00 INR
+  - [6](https://donedeals.xyz/products/commander-shoes-partywear-boots-for-girls-and-women-820?variant=43677088612403)
+    Availability: Available
+    Price: ₹611.00 INR
+  - [7](https://donedeals.xyz/products/commander-shoes-partywear-boots-for-girls-and-women-820?variant=43677088645171)
+    Availability: Available
+    Price: ₹611.00 INR
+  - [8](https://donedeals.xyz/products/commander-shoes-partywear-boots-for-girls-and-women-820?variant=43677088677939)
+    Availability: Available
+    Price: ₹611.00 INR
+  - [9](https://donedeals.xyz/products/commander-shoes-partywear-boots-for-girls-and-women-820?variant=43677088710707)
+    Availability: Available
+    Price: ₹611.00 INR
 - [commander shoes boots for girls and women (802)](https://donedeals.xyz/products/commander-shoes-boots-for-girls-and-women-803): Product Details Name : commander shoes boots for girls and women (802) Material : Synthetic Sole Material : Rubber Pattern : Solid Fastening & Back Detail : Lace-Up Net Quantity (N) : 1 These Fashionable Boots from "commander shoes" feature a versatile design that can be flaunted by women and Girls. Whether you need a pair to stay comfortable while attending college, Parties, Trips or something that will truly compliment your evening attire, these Boots have the eye-catching Flower design. Made from Synthetic Material for long lasting and gives it elegant Look. Characterized by Good sole, These Boots make for must-have pairs in your wardrobe, Click Add to Cart Now... Grab a pair or two!!. --These Women Footwear from commander shoes, combines eye catching design in a modern look. We have Different variety of Colors which can Match your Outfit, the Women on the go will surely like to spruce up their look wearing these Shoes. Sizes : IND-3 (Foot Length Size : 22.5 cm, Foot Width Size: 7.2 cm) IND-4 (Foot Length Size : 23.2 cm, Foot Width Size: 7.3 cm) Country of Origin : India More Information
   Updated: 2025-10-11T03:30:11Z
   Vendor: DoneDeals
@@ -24237,6 +25944,468 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/d3jxr_512.webp?v=1760153404
   Price: ₹0.00 INR
+- [Fiia Women Stylish Boots For Outdoor Black](https://donedeals.xyz/products/fiia-women-stylish-boots-for-outdoor-black): Product Details Name : Fiia Women Stylish Boots For Outdoor Black Material : Syntethic Leather Sole Material : Polyurethane Pattern : Textured Fastening & Back Detail : Zip Net Quantity (N) : 1 black boots women’s black boots stylish black boots outdoor black boots black outdoor boots women’s outdoor boots black boots for women black boots for outdoor wear black boots for hiking black boots for casual wear outdoor footwear women’s black outdoor boots fashionable black boots stylish outdoor boots black boots for trekking black boots for winter outdoor black boots for women black boots for outdoor activities black boots with comfortable sole black hiking boots durable black boots women’s stylish black boots black boots for all-weather waterproof black boots black boots for long walks black boots for all-day wear stylish boots for outdoor use black boots for rough terrains versatile black boots black boots for hiking trails outdoor boots for women black outdoor boots for hiking black boots for adventure fashionable outdoor boots comfortable black boots black boots for active wear black boots with sturdy sole rugged black boots black boots for travel weather-resistant black boots black boots with thick sole outdoor black boots for winter winter black boots black boots for nature walks black outdoor boots with warm lining black boots for camping women’s rugged black boots black boots for snowy weather stylish boots for adventure comfortable outdoor black boots black boots with ankle support black boots for exploring black outdoor boots for rainy days casual black boots for Sizes : IND-3 (Foot Length Size : 22 cm) IND-4 (Foot Length Size : 22.5 cm) IND-5 (Foot Length Size : 23 cm) IND-6 (Foot Length Size : 23.5 cm) IND-7 (Foot Length Size : 24 cm) Country of Origin : India More Information
+  Updated: 2025-10-12T13:07:47Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/rnfqj_512.webp?v=1760153446
+  - [5](https://donedeals.xyz/products/fiia-women-stylish-boots-for-outdoor-black?variant=43677089562675)
+    Availability: Available
+    Price: ₹781.00 INR
+  - [6](https://donedeals.xyz/products/fiia-women-stylish-boots-for-outdoor-black?variant=43677089595443)
+    Availability: Available
+    Price: ₹781.00 INR
+  - [7](https://donedeals.xyz/products/fiia-women-stylish-boots-for-outdoor-black?variant=43677089628211)
+    Availability: Available
+    Price: ₹781.00 INR
+  - [8](https://donedeals.xyz/products/fiia-women-stylish-boots-for-outdoor-black?variant=43677089660979)
+    Availability: Available
+    Price: ₹781.00 INR
+  - [9](https://donedeals.xyz/products/fiia-women-stylish-boots-for-outdoor-black?variant=43677089693747)
+    Availability: Available
+    Price: ₹781.00 INR
+- [Charmwalk Fancy Beige Sandals for Women & Girls | Stylish & Comfortable for Winter and Festive Occasions](https://donedeals.xyz/products/charmwalk-fancy-beige-sandals-for-women-girls-stylish-comfortable-for-winter-and-festive-occasions): Product Details Name : Charmwalk Fancy Beige Sandals for Women & Girls | Stylish & Comfortable for Winter and Festive Occasions Material : Pu Sole Material : Polyurethane Pattern : Solid Net Quantity (N) : 1 Charmwalk Presents : Quality Footwear for Women Charmwalk is dedicated to turning designs and ideas into masterpieces. We present to you elegant and quality footwear for women, crafted with the finest materials to ensure durability and comfort. Each pair is designed like a piece of art, offering a variety of styles with unique straps and soles to inspire a fashionable look. The comfortable soles provide optimal grip and ensure your feet stay cozy throughout the day, blending style with comfort effortlessly. Charmwalk is committed to delivering the finest shoes ever made. Features : Comfort : Soft cushioning for all-day comfort. Material : Premium synthetic leather that is both lightweight and durable. Design : Classic black with a minimalist, chic look. Durability : Strong construction with a flexible sole for long-lasting wear. Occasion Suitability : Ideal for casual wear, shopping trips, or a day out with friends. Brand : Charmwalk, known for blending style with comfort. Price Range : Affordable luxury, perfect for budget-conscious fashionistas. Size Disclaimer : Please measure your feet length and refer to the size chart before purchase. Sizes : IND-3 (Foot Length Size : 23.5 cm) IND-4 (Foot Length Size : 24 cm) IND-5 (Foot Length Size : 24.5 cm) IND-6 (Foot Length Size : 25 cm) IND-7 (Foot Length Size : 25.5 cm) IND-8 (Foot Length Size : 26 cm) Country of Origin : India More Information
+  Updated: 2025-10-12T12:58:11Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/r8pwg_512.webp?v=1760153477
+  - [5](https://donedeals.xyz/products/charmwalk-fancy-beige-sandals-for-women-girls-stylish-comfortable-for-winter-and-festive-occasions?variant=43677090054195)
+    Availability: Available
+    Price: ₹618.00 INR
+  - [6](https://donedeals.xyz/products/charmwalk-fancy-beige-sandals-for-women-girls-stylish-comfortable-for-winter-and-festive-occasions?variant=43677090086963)
+    Availability: Available
+    Price: ₹618.00 INR
+  - [7](https://donedeals.xyz/products/charmwalk-fancy-beige-sandals-for-women-girls-stylish-comfortable-for-winter-and-festive-occasions?variant=43677090119731)
+    Availability: Available
+    Price: ₹618.00 INR
+  - [8](https://donedeals.xyz/products/charmwalk-fancy-beige-sandals-for-women-girls-stylish-comfortable-for-winter-and-festive-occasions?variant=43677090152499)
+    Availability: Available
+    Price: ₹618.00 INR
+  - [9](https://donedeals.xyz/products/charmwalk-fancy-beige-sandals-for-women-girls-stylish-comfortable-for-winter-and-festive-occasions?variant=43677090185267)
+    Availability: Available
+    Price: ₹618.00 INR
+- [Classy Women Heels](https://donedeals.xyz/products/classy-women-heels): Product Details Name : Classy Women Heels Material : Velvet Sole Material : Tpr Pattern : Solid Net Quantity (N) : 1 Sizes : IND-4 (Foot Length Size : 22.7 cm) IND-8 (Foot Length Size : 25.9 cm) Country of Origin : India More Information
+  Updated: 2025-10-12T12:58:52Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/hnvhj_512.webp?v=1760153507
+  - [5](https://donedeals.xyz/products/classy-women-heels?variant=43677091299379)
+    Availability: Available
+    Price: ₹220.00 INR
+  - [6](https://donedeals.xyz/products/classy-women-heels?variant=43677091332147)
+    Availability: Available
+    Price: ₹220.00 INR
+  - [7](https://donedeals.xyz/products/classy-women-heels?variant=43677091364915)
+    Availability: Available
+    Price: ₹220.00 INR
+  - [8](https://donedeals.xyz/products/classy-women-heels?variant=43677091397683)
+    Availability: Available
+    Price: ₹220.00 INR
+  - [9](https://donedeals.xyz/products/classy-women-heels?variant=43677091430451)
+    Availability: Available
+    Price: ₹220.00 INR
+- [Block heels belli](https://donedeals.xyz/products/block-heels-belli): Product Details Name : Block heels belli Material : Synthetic Fastening & Back Detail : Slip-On Pattern : Embellished Type : Sandals Sizes : IND-5, IND-6, IND-7, IND-8, IND-9 Country of Origin : India More Information
+  Updated: 2025-10-12T12:57:11Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/xkdw8_512.webp?v=1760153517
+  - [5](https://donedeals.xyz/products/block-heels-belli?variant=43677091463219)
+    Availability: Available
+    Price: ₹276.00 INR
+  - [6](https://donedeals.xyz/products/block-heels-belli?variant=43677091495987)
+    Availability: Available
+    Price: ₹276.00 INR
+  - [7](https://donedeals.xyz/products/block-heels-belli?variant=43677091528755)
+    Availability: Available
+    Price: ₹276.00 INR
+  - [8](https://donedeals.xyz/products/block-heels-belli?variant=43677091561523)
+    Availability: Available
+    Price: ₹276.00 INR
+  - [9](https://donedeals.xyz/products/block-heels-belli?variant=43677091594291)
+    Availability: Available
+    Price: ₹276.00 INR
+- [Comfortable heel ballies for women and girls](https://donedeals.xyz/products/comfortable-heel-ballies-for-women-and-girls): Product Details Name : Comfortable heel ballies for women and girls Material : Synthetic Sole Material : Pvc Pattern : Solid Net Quantity (N) : 1 Comfortable heel ballies for women and girls Sizes : IND-4 (Foot Length Size : 24 cm) IND-6 (Foot Length Size : 25 cm) IND-7 (Foot Length Size : 25.5 cm) IND-8 (Foot Length Size : 26 cm) IND-9 (Foot Length Size : 26.5 cm) Country of Origin : India More Information
+  Updated: 2025-10-12T12:59:07Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/bsdbi_512.webp?v=1760153528
+  - [5](https://donedeals.xyz/products/comfortable-heel-ballies-for-women-and-girls?variant=43677091627059)
+    Availability: Available
+    Price: ₹273.00 INR
+  - [6](https://donedeals.xyz/products/comfortable-heel-ballies-for-women-and-girls?variant=43677091659827)
+    Availability: Available
+    Price: ₹273.00 INR
+  - [7](https://donedeals.xyz/products/comfortable-heel-ballies-for-women-and-girls?variant=43677091692595)
+    Availability: Available
+    Price: ₹273.00 INR
+  - [8](https://donedeals.xyz/products/comfortable-heel-ballies-for-women-and-girls?variant=43677091725363)
+    Availability: Available
+    Price: ₹273.00 INR
+  - [9](https://donedeals.xyz/products/comfortable-heel-ballies-for-women-and-girls?variant=43677091758131)
+    Availability: Available
+    Price: ₹273.00 INR
+- [Gulmeren Casual And Fancy Block Heel Sandals For Women And Girls](https://donedeals.xyz/products/gulmeren-casual-and-fancy-block-heel-sandals-for-women-and-girls): Product Details Name : Gulmeren Casual And Fancy Block Heel Sandals For Women And Girls Material : Patent Leather Sole Material : Tpu Pattern : Solid Net Quantity (N) : 1 Gulmeren Fashion Casual Sandals for Women and Girls. Women/ Girls Stylish Party Wear & Trendy Look Footwear’s. Women low heel Comfortable & Premium Quality .These sandals will provide your feet with maximum flexibility and comfortable and will also be highly durable. Design is also good and looks beautiful. Sizes : IND-4 (Foot Length Size : 22 cm) IND-5 (Foot Length Size : 22.5 cm) IND-6 (Foot Length Size : 23 cm) IND-7 (Foot Length Size : 23.5 cm) IND-8 (Foot Length Size : 24 cm) Country of Origin : India More Information
+  Updated: 2025-10-12T13:12:44Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/rrypj_512.webp?v=1760153538
+  - [5](https://donedeals.xyz/products/gulmeren-casual-and-fancy-block-heel-sandals-for-women-and-girls?variant=43677091790899)
+    Availability: Available
+    Price: ₹311.00 INR
+  - [6](https://donedeals.xyz/products/gulmeren-casual-and-fancy-block-heel-sandals-for-women-and-girls?variant=43677091823667)
+    Availability: Available
+    Price: ₹311.00 INR
+  - [7](https://donedeals.xyz/products/gulmeren-casual-and-fancy-block-heel-sandals-for-women-and-girls?variant=43677091856435)
+    Availability: Available
+    Price: ₹311.00 INR
+  - [8](https://donedeals.xyz/products/gulmeren-casual-and-fancy-block-heel-sandals-for-women-and-girls?variant=43677091889203)
+    Availability: Available
+    Price: ₹311.00 INR
+  - [9](https://donedeals.xyz/products/gulmeren-casual-and-fancy-block-heel-sandals-for-women-and-girls?variant=43677091921971)
+    Availability: Available
+    Price: ₹311.00 INR
+- [BLACK 149](https://donedeals.xyz/products/black-149): Product Details Name : BLACK 149 Material : Patent Leather Sole Material : Airmix Pattern : Solid Net Quantity (N) : 1 Made From Out Of Best Quality Material Which Is Durable and Comfortable by ALINDER Sizes : IND-3 (Foot Length Size : 23 cm) IND-4 (Foot Length Size : 23.5 cm) IND-5 (Foot Length Size : 24 cm) IND-6 (Foot Length Size : 24.5 cm) IND-7 (Foot Length Size : 25 cm) IND-8 (Foot Length Size : 25.5 cm) Country of Origin : India More Information
+  Updated: 2025-10-12T12:56:45Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/3e0yi_512.webp?v=1760153553
+  - [5](https://donedeals.xyz/products/black-149?variant=43677092118579)
+    Availability: Available
+    Price: ₹341.00 INR
+  - [6](https://donedeals.xyz/products/black-149?variant=43677092151347)
+    Availability: Available
+    Price: ₹341.00 INR
+  - [7](https://donedeals.xyz/products/black-149?variant=43677092184115)
+    Availability: Available
+    Price: ₹341.00 INR
+  - [8](https://donedeals.xyz/products/black-149?variant=43677092216883)
+    Availability: Available
+    Price: ₹341.00 INR
+  - [9](https://donedeals.xyz/products/black-149?variant=43677092249651)
+    Availability: Available
+    Price: ₹341.00 INR
+- [Casual Block Heel Sandal For Women](https://donedeals.xyz/products/casual-block-heel-sandal-for-women): Product Details Name : Casual Block Heel Sandal For Women Material : Syntethic Leather Sole Material : Neolite Pattern : Embellished Net Quantity (N) : 1 This footwear Good quality material in the footwear party wear daily wear official footwear womens and girls product by XCEN Newly Collections very premium quality Newly Fashion Casual Block Heel for women and girl. Sizes : IND-3 (Foot Length Size : 22.5 cm) IND-4 (Foot Length Size : 23 cm) IND-5 (Foot Length Size : 23.5 cm) IND-6 (Foot Length Size : 24 cm) IND-7 (Foot Length Size : 24.5 cm) IND-8 (Foot Length Size : 25 cm) Country of Origin : India More Information
+  Updated: 2025-10-12T12:57:32Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/qnceg_512.webp?v=1760153632
+  - [5](https://donedeals.xyz/products/casual-block-heel-sandal-for-women?variant=43677093593139)
+    Availability: Available
+    Price: ₹271.00 INR
+  - [6](https://donedeals.xyz/products/casual-block-heel-sandal-for-women?variant=43677093625907)
+    Availability: Available
+    Price: ₹271.00 INR
+  - [7](https://donedeals.xyz/products/casual-block-heel-sandal-for-women?variant=43677093658675)
+    Availability: Available
+    Price: ₹271.00 INR
+  - [8](https://donedeals.xyz/products/casual-block-heel-sandal-for-women?variant=43677093691443)
+    Availability: Available
+    Price: ₹271.00 INR
+  - [9](https://donedeals.xyz/products/casual-block-heel-sandal-for-women?variant=43677093724211)
+    Availability: Available
+    Price: ₹271.00 INR
+- [Afuzi Women Peach Wedges Sandal](https://donedeals.xyz/products/afuzi-women-peach-wedges-sandal): Product Details Name : Afuzi Women Peach Wedges Sandal Heel Height (in) : 3 inches Material : Syntethic Leather Net Quantity (N) : 1 Occasion : Casual Ornamentation : Western - Embellished Pattern : Solid Primary Color : Sultan Type : Wedges Sizes : IND-4, IND-5, IND-6, IND-7, IND-8 Country of Origin : India More Information
+  Updated: 2025-10-12T12:55:34Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/jzqr6_512.webp?v=1760153684
+  - [5](https://donedeals.xyz/products/afuzi-women-peach-wedges-sandal?variant=43677094576179)
+    Availability: Available
+    Price: ₹304.00 INR
+  - [6](https://donedeals.xyz/products/afuzi-women-peach-wedges-sandal?variant=43677094608947)
+    Availability: Available
+    Price: ₹304.00 INR
+  - [7](https://donedeals.xyz/products/afuzi-women-peach-wedges-sandal?variant=43677094641715)
+    Availability: Available
+    Price: ₹304.00 INR
+  - [8](https://donedeals.xyz/products/afuzi-women-peach-wedges-sandal?variant=43677094674483)
+    Availability: Available
+    Price: ₹304.00 INR
+  - [9](https://donedeals.xyz/products/afuzi-women-peach-wedges-sandal?variant=43677094707251)
+    Availability: Available
+    Price: ₹304.00 INR
+- [Beautiful and comfortable heel belly for women and girls](https://donedeals.xyz/products/beautiful-and-comfortable-heel-belly-for-women-and-girls): Product Details Name : Beautiful and comfortable heel belly for women and girls Material : Syntethic Leather Sole Material : Pvc Pattern : Solid Net Quantity (N) : 1 Folded wings Sizes : IND-3 (Foot Length Size : 23.5 cm) IND-4 (Foot Length Size : 24 cm) IND-5 (Foot Length Size : 24.5 cm) IND-6 (Foot Length Size : 25 cm) IND-7 (Foot Length Size : 25.5 cm) IND-8 (Foot Length Size : 26 cm) IND-9 (Foot Length Size : 26.5 cm) IND-6.5 (Foot Length Size : 25.3 cm) Country of Origin : India More Information
+  Updated: 2025-10-12T12:56:22Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/oyrge_512.webp?v=1760153723
+  - [5](https://donedeals.xyz/products/beautiful-and-comfortable-heel-belly-for-women-and-girls?variant=43677095231539)
+    Availability: Available
+    Price: ₹233.00 INR
+  - [6](https://donedeals.xyz/products/beautiful-and-comfortable-heel-belly-for-women-and-girls?variant=43677095264307)
+    Availability: Available
+    Price: ₹233.00 INR
+  - [7](https://donedeals.xyz/products/beautiful-and-comfortable-heel-belly-for-women-and-girls?variant=43677095297075)
+    Availability: Available
+    Price: ₹233.00 INR
+  - [8](https://donedeals.xyz/products/beautiful-and-comfortable-heel-belly-for-women-and-girls?variant=43677095329843)
+    Availability: Available
+    Price: ₹233.00 INR
+  - [9](https://donedeals.xyz/products/beautiful-and-comfortable-heel-belly-for-women-and-girls?variant=43677095362611)
+    Availability: Available
+    Price: ₹233.00 INR
+- [Elite Women Heels](https://donedeals.xyz/products/elite-women-heels): Product Details Name : Elite Women Heels Material : Synthetic Sole Material : Airmix Pattern : Embellished Net Quantity (N) : 1 It has 1 pair of women's slipper Sizes : IND-3 (Foot Length Size : 22 cm) IND-4 (Foot Length Size : 22.5 cm) IND-5 (Foot Length Size : 23.3 cm) IND-6 (Foot Length Size : 23.9 cm) IND-7 (Foot Length Size : 24.3 cm) IND-8 (Foot Length Size : 25 cm) Country of Origin : India More Information
+  Updated: 2025-10-12T13:03:32Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/ceaja_512.webp?v=1760153733
+  - [5](https://donedeals.xyz/products/elite-women-heels?variant=43677095395379)
+    Availability: Available
+    Price: ₹316.00 INR
+  - [6](https://donedeals.xyz/products/elite-women-heels?variant=43677095428147)
+    Availability: Available
+    Price: ₹316.00 INR
+  - [7](https://donedeals.xyz/products/elite-women-heels?variant=43677095460915)
+    Availability: Available
+    Price: ₹316.00 INR
+  - [8](https://donedeals.xyz/products/elite-women-heels?variant=43677095493683)
+    Availability: Available
+    Price: ₹316.00 INR
+  - [9](https://donedeals.xyz/products/elite-women-heels?variant=43677095526451)
+    Availability: Available
+    Price: ₹316.00 INR
+- [heel for women beige sandal for women, casual heel , women sandal , black heel, heel for women , heel sandal ladies , heel ke sandal , high heel , under 300](https://donedeals.xyz/products/heel-for-women-beige-sandal-for-women-casual-heel-women-sandal-black-heel-heel-for-women-heel-sandal-ladies-heel-ke-sandal-high-heel-under-300): Product Details Name : heel for women beige sandal for women, casual heel , women sandal , black heel, heel for women , heel sandal ladies , heel ke sandal , high heel , under 300 Material : Patent Leather Sole Material : Leather Pattern : Solid Net Quantity (N) : 1 The Popular Brand, HUMARIO A Wide Spectrum Of Stylish Footwear That Are A Fusion Of Contemporary Designs And Impeccable Quality Materials Thus, Reflecting The Spirit Of Youth. HUMARIO believes in developing products that are distinctively unique and ultra comfortable. It incorporates latest trends in all its products and ensures that its customers get nothing but the best. Quality Product And Best Price Use full Products. MY HUMARIO SHOP Sizes : IND-3, IND-4 (Foot Length Size : 23.5 cm) IND-5 (Foot Length Size : 24 cm) IND-6 (Foot Length Size : 24.5 cm) IND-7 (Foot Length Size : 25 cm) IND-8 (Foot Length Size : 25.5 cm) Country of Origin : India More Information
+  Updated: 2025-10-12T13:17:03Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/8j8y4_512.webp?v=1760153881
+  - [5](https://donedeals.xyz/products/heel-for-women-beige-sandal-for-women-casual-heel-women-sandal-black-heel-heel-for-women-heel-sandal-ladies-heel-ke-sandal-high-heel-under-300?variant=43677098147891)
+    Availability: Available
+    Price: ₹271.00 INR
+  - [6](https://donedeals.xyz/products/heel-for-women-beige-sandal-for-women-casual-heel-women-sandal-black-heel-heel-for-women-heel-sandal-ladies-heel-ke-sandal-high-heel-under-300?variant=43677098180659)
+    Availability: Available
+    Price: ₹271.00 INR
+  - [7](https://donedeals.xyz/products/heel-for-women-beige-sandal-for-women-casual-heel-women-sandal-black-heel-heel-for-women-heel-sandal-ladies-heel-ke-sandal-high-heel-under-300?variant=43677098213427)
+    Availability: Not Available
+    Price: ₹271.00 INR
+  - [8](https://donedeals.xyz/products/heel-for-women-beige-sandal-for-women-casual-heel-women-sandal-black-heel-heel-for-women-heel-sandal-ladies-heel-ke-sandal-high-heel-under-300?variant=43677098246195)
+    Availability: Not Available
+    Price: ₹271.00 INR
+  - [9](https://donedeals.xyz/products/heel-for-women-beige-sandal-for-women-casual-heel-women-sandal-black-heel-heel-for-women-heel-sandal-ladies-heel-ke-sandal-high-heel-under-300?variant=43677098278963)
+    Availability: Not Available
+    Price: ₹271.00 INR
+- [Combo of 2 Black Stylish Slippers for Women](https://donedeals.xyz/products/combo-of-2-black-stylish-slippers-for-women): Product Details Name : Combo of 2 Black Stylish Slippers for Women Material : EVA Sole Material : EVA Fastening & Back Detail : Slip-On Pattern : Printed Net Quantity (N) : 2 1)Package contains 2 pair of stylish new ladies slippers in 2 colors Black and Green. 2)Easy to wear comfortable slip-on chappals available at a affordable cost. 3)Suitable for both casual and outdoors. Sizes : IND-5 (Foot Length Size : 23 cm) IND-6 (Foot Length Size : 24 cm) IND-7 (Foot Length Size : 24.4 cm) IND-8 (Foot Length Size : 25 cm) Country of Origin : India More Information
+  Updated: 2025-10-12T12:58:52Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/5gngb_512.webp?v=1760153919
+  - [5](https://donedeals.xyz/products/combo-of-2-black-stylish-slippers-for-women?variant=43677098639411)
+    Availability: Available
+    Price: ₹342.00 INR
+  - [6](https://donedeals.xyz/products/combo-of-2-black-stylish-slippers-for-women?variant=43677098672179)
+    Availability: Available
+    Price: ₹342.00 INR
+  - [7](https://donedeals.xyz/products/combo-of-2-black-stylish-slippers-for-women?variant=43677098704947)
+    Availability: Available
+    Price: ₹342.00 INR
+  - [8](https://donedeals.xyz/products/combo-of-2-black-stylish-slippers-for-women?variant=43677098737715)
+    Availability: Available
+    Price: ₹342.00 INR
+  - [9](https://donedeals.xyz/products/combo-of-2-black-stylish-slippers-for-women?variant=43677098770483)
+    Availability: Available
+    Price: ₹342.00 INR
+- [comfortable flast women fashion stylish](https://donedeals.xyz/products/comfortable-flast-women-fashion-stylish): Product Details Name : comfortable flast women fashion stylish Material : Syntethic Leather Sole Material : Pvc Pattern : Solid Fastening & Back Detail : Slip-On Net Quantity (N) : 1 Sizes : IND-8 (Foot Length Size : 26 cm) IND-9 (Foot Length Size : 26.5 cm) Country of Origin : India More Information
+  Updated: 2025-10-12T12:59:07Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/mj4em_512.webp?v=1760165258
+  - [5](https://donedeals.xyz/products/comfortable-flast-women-fashion-stylish?variant=43677194616883)
+    Availability: Available
+    Price: ₹189.00 INR
+  - [6](https://donedeals.xyz/products/comfortable-flast-women-fashion-stylish?variant=43677194649651)
+    Availability: Available
+    Price: ₹189.00 INR
+  - [7](https://donedeals.xyz/products/comfortable-flast-women-fashion-stylish?variant=43677194682419)
+    Availability: Available
+    Price: ₹189.00 INR
+  - [8](https://donedeals.xyz/products/comfortable-flast-women-fashion-stylish?variant=43677194715187)
+    Availability: Available
+    Price: ₹189.00 INR
+  - [9](https://donedeals.xyz/products/comfortable-flast-women-fashion-stylish?variant=43677194747955)
+    Availability: Available
+    Price: ₹189.00 INR
+- [Bow look style](https://donedeals.xyz/products/bow-look-style): Product Details Name : Bow look style Material : Synthetic Sole Material : Tpr Pattern : Solid Fastening & Back Detail : Slip-On Net Quantity (N) : 1 Women Flat Women One Toe Open Back Stylish Flats Sandals ( Pack Of 1) Fashionable , stylish , trendy and eye-catching design offers everyday fresh look in all seasons and compliment both ethnic and western wears Fashionable , stylish , trendy and eye-catching design offers everyday fresh look in all seasons and compliment both ethnic and western wears Sizes : IND-5 (Foot Length Size : 24 cm) IND-6 (Foot Length Size : 24.5 cm) IND-7 (Foot Length Size : 25 cm) IND-8 (Foot Length Size : 25.5 cm) IND-9 (Foot Length Size : 26 cm) Country of Origin : India More Information
+  Updated: 2025-10-12T12:57:22Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/qinuc_512.webp?v=1760165277
+  - [5](https://donedeals.xyz/products/bow-look-style?variant=43677194944563)
+    Availability: Available
+    Price: ₹204.00 INR
+  - [6](https://donedeals.xyz/products/bow-look-style?variant=43677194977331)
+    Availability: Available
+    Price: ₹204.00 INR
+  - [7](https://donedeals.xyz/products/bow-look-style?variant=43677195010099)
+    Availability: Available
+    Price: ₹204.00 INR
+  - [8](https://donedeals.xyz/products/bow-look-style?variant=43677195042867)
+    Availability: Available
+    Price: ₹204.00 INR
+  - [9](https://donedeals.xyz/products/bow-look-style?variant=43677195075635)
+    Availability: Available
+    Price: ₹204.00 INR
+- [Beautiful Sandals For Women](https://donedeals.xyz/products/beautiful-sandals-for-women): Product Details Name : Beautiful Sandals For Women Material : Syntethic Leather Sole Material : Tpr Pattern : Brand Logo Fastening & Back Detail : Slip-On Net Quantity (N) : 1 Heighten of this brand doubles your style flair in your casual, classic, and ethnic wear, We endow with profound significance and devote ourselves to providing high-quality products with good experiences for people. Sizes : IND-4 (Foot Length Size : 23.5 cm) IND-5 (Foot Length Size : 24 cm) IND-6 (Foot Length Size : 24.5 cm) IND-7 (Foot Length Size : 25 cm) IND-8 (Foot Length Size : 25.5 cm) Country of Origin : India More Information
+  Updated: 2025-10-12T12:56:22Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/7ucvp_512.webp?v=1760165307
+  - [5](https://donedeals.xyz/products/beautiful-sandals-for-women?variant=43677195436083)
+    Availability: Available
+    Price: ₹309.00 INR
+  - [6](https://donedeals.xyz/products/beautiful-sandals-for-women?variant=43677195468851)
+    Availability: Available
+    Price: ₹309.00 INR
+  - [7](https://donedeals.xyz/products/beautiful-sandals-for-women?variant=43677195501619)
+    Availability: Available
+    Price: ₹309.00 INR
+  - [8](https://donedeals.xyz/products/beautiful-sandals-for-women?variant=43677195534387)
+    Availability: Available
+    Price: ₹309.00 INR
+  - [9](https://donedeals.xyz/products/beautiful-sandals-for-women?variant=43677195567155)
+    Availability: Available
+    Price: ₹309.00 INR
+- [Black Striped One-Toe Flats For Women](https://donedeals.xyz/products/black-striped-one-toe-flats-for-women): Product Details Name : Black Striped One-Toe Flats For Women Material : Synthetic Sole Material : Pvc Pattern : Striped Fastening & Back Detail : Slip-On Net Quantity (N) : 1 THIS Brand presents high quality footwear choice for the daily use is this pair of sandals .While the Fabric upper and leather lining of these sandals promise a comfortable walk, the Comfort sole assures good slip and abrasion resistance. Sizes : IND-3, IND-4 (Foot Length Size : 22.5 cm) IND-5 (Foot Length Size : 23.4 cm) IND-6 (Foot Length Size : 24.2 cm) IND-7 (Foot Length Size : 25 cm) IND-8 (Foot Length Size : 25.8 cm) Country of Origin : India More Information
+  Updated: 2025-10-12T12:56:53Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/gdr49_512.webp?v=1760165317
+  - [5](https://donedeals.xyz/products/black-striped-one-toe-flats-for-women?variant=43677195599923)
+    Availability: Available
+    Price: ₹280.00 INR
+  - [6](https://donedeals.xyz/products/black-striped-one-toe-flats-for-women?variant=43677195632691)
+    Availability: Available
+    Price: ₹280.00 INR
+  - [7](https://donedeals.xyz/products/black-striped-one-toe-flats-for-women?variant=43677195665459)
+    Availability: Available
+    Price: ₹280.00 INR
+  - [8](https://donedeals.xyz/products/black-striped-one-toe-flats-for-women?variant=43677195698227)
+    Availability: Available
+    Price: ₹280.00 INR
+  - [9](https://donedeals.xyz/products/black-striped-one-toe-flats-for-women?variant=43677195730995)
+    Availability: Available
+    Price: ₹280.00 INR
+- [Beautiful Comfortable Flats For Women's And Girls](https://donedeals.xyz/products/beautiful-comfortable-flats-for-womens-and-girls): Product Details Name : Beautiful Comfortable Flats For Women's And Girls Material : EVA Sole Material : Eva Pattern : Printed Fastening & Back Detail : Open Back Net Quantity (N) : 1 Threeworld brings you this cool, trendy Flats of Casual Synthetic Leather for Women. Outer material is high quality synthetic leather. The bold look guarantees the wearer much appreciation from people. The casual design makes them perfect for daily use whereas the design aesthetics make it the right choice for wearing to a party. Sizes : IND-2 (Foot Length Size : 23 cm) IND-3 (Foot Length Size : 23.5 cm) IND-4 (Foot Length Size : 24 cm) IND-6 (Foot Length Size : 25 cm) IND-7 (Foot Length Size : 25.5 cm) IND-8 (Foot Length Size : 25.5 cm) IND-9 (Foot Length Size : 26 cm) Country of Origin : India More Information
+  Updated: 2025-10-12T12:56:22Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/9wblp_512.webp?v=1760165327
+  - [5](https://donedeals.xyz/products/beautiful-comfortable-flats-for-womens-and-girls?variant=43677195763763)
+    Availability: Available
+    Price: ₹219.00 INR
+  - [6](https://donedeals.xyz/products/beautiful-comfortable-flats-for-womens-and-girls?variant=43677195796531)
+    Availability: Available
+    Price: ₹219.00 INR
+  - [7](https://donedeals.xyz/products/beautiful-comfortable-flats-for-womens-and-girls?variant=43677195829299)
+    Availability: Available
+    Price: ₹219.00 INR
+  - [8](https://donedeals.xyz/products/beautiful-comfortable-flats-for-womens-and-girls?variant=43677195862067)
+    Availability: Available
+    Price: ₹219.00 INR
+  - [9](https://donedeals.xyz/products/beautiful-comfortable-flats-for-womens-and-girls?variant=43677195894835)
+    Availability: Available
+    Price: ₹219.00 INR
+- [AA FASHION GREEN COLOR T-STRAP SANDALS FOR WOMEN UNDER 200 SANDALS FLATS FOR LADIES CASUAL FLATS DESIGNER FLATS WEDGES ETHNIC SLIDES CASUAL FOOTWEAR CROSS FLATS PRINTED FLATS SLIDES MULES SLIPPERS CHAPPAL EMBROIDERED CASUAL SLIDES MULES SANDALS FLATS](https://donedeals.xyz/products/aa-fashion-green-color-t-strap-sandals-for-women-under-200-sandals-flats-for-ladies-casual-flats-designer-flats-wedges-ethnic-slides-casual-footwear-cross-flats-printed-flats-slides-mules-slippers-chappal-embroidered-casual-slides-mules-sandals-flats): Product Details Name : AA FASHION GREEN COLOR T-STRAP SANDALS FOR WOMEN UNDER 200 SANDALS FLATS FOR LADIES CASUAL FLATS DESIGNER FLATS WEDGES ETHNIC SLIDES CASUAL FOOTWEAR CROSS FLATS PRINTED FLATS SLIDES MULES SLIPPERS CHAPPAL EMBROIDERED CASUAL SLIDES MULES SANDALS FLATS Material : Syntethic Leather Sole Material : Tpr Pattern : Solid Fastening & Back Detail : Open Back Net Quantity (N) : 1 AA FASHION presents an amazing range of Flats and Sandal for Women/Girls who want to look perfect for every occasion. Outer material and inner material made of Synthetic Leather and Open-toe closure type style. It can be worn on all your Casual occasions and use shoe bags to prevent from stains and mildew. Walk in style by wearing this pair of Stylish Sandals from the House of The MOTO. This pair of Synthetic Leather Flats and Sandal is made from High quality material and will get you noticed for all good reasons. This pair features an attractive design, which adds a layer of sophistication to your ensemble .It will be a great addition to your collection. Style Tip : Slip into these Flats and Sandal, teaming them with a pair of shorts and a tee. Wear a pair of glasses to complete the look. flat sandals flflats for women flats for women flats shoes flat shoes women dress flats women shoes flat footwear for women women footwear flat footwear flat dress shoes flat women flat dress shoes for women womens dress flats colorful flats dress with flats ethnic flats ethnic footwear for women's women in flats good flats dress and flats color flats colorful flat shoes footwear for women flats colourful flat shoes ethnic shoes for women shoes flat shoes colourful flats dress and flat shoes colorful women women all ethnic flats Sizes : IND-5 (Foot Length Size : 23.5 cm) IND-6 (Foot Length Size : 24 cm) IND-7 (Foot Length Size : 24.5 cm) IND-8 (Foot Length Size : 25 cm) IND-9 Country of Origin : India More Information
+  Updated: 2025-10-12T12:55:23Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/nahrw_512.webp?v=1760165347
+  - [5](https://donedeals.xyz/products/aa-fashion-green-color-t-strap-sandals-for-women-under-200-sandals-flats-for-ladies-casual-flats-designer-flats-wedges-ethnic-slides-casual-footwear-cross-flats-printed-flats-slides-mules-slippers-chappal-embroidered-casual-slides-mules-sandals-flats?variant=43677196091443)
+    Availability: Available
+    Price: ₹266.00 INR
+  - [6](https://donedeals.xyz/products/aa-fashion-green-color-t-strap-sandals-for-women-under-200-sandals-flats-for-ladies-casual-flats-designer-flats-wedges-ethnic-slides-casual-footwear-cross-flats-printed-flats-slides-mules-slippers-chappal-embroidered-casual-slides-mules-sandals-flats?variant=43677196124211)
+    Availability: Available
+    Price: ₹266.00 INR
+  - [7](https://donedeals.xyz/products/aa-fashion-green-color-t-strap-sandals-for-women-under-200-sandals-flats-for-ladies-casual-flats-designer-flats-wedges-ethnic-slides-casual-footwear-cross-flats-printed-flats-slides-mules-slippers-chappal-embroidered-casual-slides-mules-sandals-flats?variant=43677196156979)
+    Availability: Available
+    Price: ₹266.00 INR
+  - [8](https://donedeals.xyz/products/aa-fashion-green-color-t-strap-sandals-for-women-under-200-sandals-flats-for-ladies-casual-flats-designer-flats-wedges-ethnic-slides-casual-footwear-cross-flats-printed-flats-slides-mules-slippers-chappal-embroidered-casual-slides-mules-sandals-flats?variant=43677196189747)
+    Availability: Available
+    Price: ₹266.00 INR
+  - [9](https://donedeals.xyz/products/aa-fashion-green-color-t-strap-sandals-for-women-under-200-sandals-flats-for-ladies-casual-flats-designer-flats-wedges-ethnic-slides-casual-footwear-cross-flats-printed-flats-slides-mules-slippers-chappal-embroidered-casual-slides-mules-sandals-flats?variant=43677196222515)
+    Availability: Available
+    Price: ₹266.00 INR
+- [Fancy Designer Women Synthetic Flat Sandal](https://donedeals.xyz/products/fancy-designer-women-synthetic-flat-sandal): Product Details Name : Fancy Designer Women Synthetic Flat Sandal Material : Patent Leather Sole Material : Eva Pattern : Solid Fastening & Back Detail : Slip-On Net Quantity (N) : 1 We are providig the best quality women flat sandal which are comfort for ant festive or casual wear. We are also provide the famnct footwear for girls for party wear also which give to attrive look among the people.we are alos deal in ethnic footwear,jaipuri flat,bellies in very competitive price. Sizes : IND-2, IND-3, IND-4, IND-5, IND-6, IND-7, IND-8, IND-9 Country of Origin : India More Information
+  Updated: 2025-10-12T13:06:56Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/3vojd_512.webp?v=1760165366
+  - [5](https://donedeals.xyz/products/fancy-designer-women-synthetic-flat-sandal?variant=43677196419123)
+    Availability: Available
+    Price: ₹215.00 INR
+  - [6](https://donedeals.xyz/products/fancy-designer-women-synthetic-flat-sandal?variant=43677196451891)
+    Availability: Available
+    Price: ₹215.00 INR
+  - [7](https://donedeals.xyz/products/fancy-designer-women-synthetic-flat-sandal?variant=43677196484659)
+    Availability: Available
+    Price: ₹215.00 INR
+  - [8](https://donedeals.xyz/products/fancy-designer-women-synthetic-flat-sandal?variant=43677196517427)
+    Availability: Available
+    Price: ₹215.00 INR
+  - [9](https://donedeals.xyz/products/fancy-designer-women-synthetic-flat-sandal?variant=43677196550195)
+    Availability: Available
+    Price: ₹215.00 INR
+- [collection flat sandal](https://donedeals.xyz/products/collection-flat-sandal): Product Details Name : collection flat sandal Material : Synthetic Sole Material : Pu Pattern : Solid Fastening & Back Detail : Open Back Net Quantity (N) : 1 Material : Syntethic Leather Sole Material : PU Pattern : Solid Fastening & Back Detail : No Back Strap Net Quantity (N) : 1 Kavya collection Women's Comfort Flats Stylish & Casual Footwear for All-Day Comfort flat for women , women flat , ladies flat Sizes : IND-5 (Foot Length Size : 23 cm, Foot Width Size: 10 cm) IND-6 (Foot Length Size : 23.5 cm, Foot Width Size: 10 cm) IND-7 (Foot Length Size : 24 cm, Foot Width Size: 10 cm) IND-8 (Foot Length Size : 24.5 cm, Foot Width Size: 10 cm) Country of Origin : India More Information
+  Updated: 2025-10-12T12:58:52Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/zz7x9_512.webp?v=1760165376
+  - [5](https://donedeals.xyz/products/collection-flat-sandal?variant=43677196582963)
+    Availability: Available
+    Price: ₹345.00 INR
+  - [6](https://donedeals.xyz/products/collection-flat-sandal?variant=43677196615731)
+    Availability: Available
+    Price: ₹345.00 INR
+  - [7](https://donedeals.xyz/products/collection-flat-sandal?variant=43677196648499)
+    Availability: Available
+    Price: ₹345.00 INR
+  - [8](https://donedeals.xyz/products/collection-flat-sandal?variant=43677196681267)
+    Availability: Available
+    Price: ₹345.00 INR
+  - [9](https://donedeals.xyz/products/collection-flat-sandal?variant=43677196714035)
+    Availability: Available
+    Price: ₹345.00 INR
+- [beautifull and stylish flats for women & girls](https://donedeals.xyz/products/beautifull-and-stylish-flats-for-women-girls): Product Details Name : beautifull and stylish flats for women & girls Material : Synthetic Sole Material : Tpr Pattern : Solid Fastening & Back Detail : Slip-On Net Quantity (N) : 1 Sizes : IND-4 (Foot Length Size : 24 cm) IND-5 (Foot Length Size : 24.5 cm) IND-8 (Foot Length Size : 26 cm) IND-9 (Foot Length Size : 26.5 cm) IND-6.5 (Foot Length Size : 25.7 cm) Country of Origin : India More Information
+  Updated: 2025-10-12T12:56:22Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/zbil2_512.webp?v=1760165385
+  - [5](https://donedeals.xyz/products/beautifull-and-stylish-flats-for-women-girls?variant=43677196746803)
+    Availability: Available
+    Price: ₹184.00 INR
+  - [6](https://donedeals.xyz/products/beautifull-and-stylish-flats-for-women-girls?variant=43677196779571)
+    Availability: Available
+    Price: ₹184.00 INR
+  - [7](https://donedeals.xyz/products/beautifull-and-stylish-flats-for-women-girls?variant=43677196812339)
+    Availability: Available
+    Price: ₹184.00 INR
+  - [8](https://donedeals.xyz/products/beautifull-and-stylish-flats-for-women-girls?variant=43677196845107)
+    Availability: Available
+    Price: ₹184.00 INR
+  - [9](https://donedeals.xyz/products/beautifull-and-stylish-flats-for-women-girls?variant=43677196877875)
+    Availability: Available
+    Price: ₹184.00 INR
 - [Women Flats Slipper](https://donedeals.xyz/products/women-flats-slipper-1): Product Details Name : Women Flats Slipper Material : Synthetic Sole Material : Tpr Pattern : Embellished Fastening & Back Detail : Slip-On Net Quantity (N) : 1 Sizes : IND-5 (Foot Length Size : 22 cm) IND-6 (Foot Length Size : 22.5 cm) IND-7 (Foot Length Size : 23 cm) IND-8 (Foot Length Size : 23.5 cm) IND-9 (Foot Length Size : 24 cm) Country of Origin : India More Information
   Updated: 2025-10-11T06:50:34Z
   Vendor: DoneDeals
@@ -24244,6 +26413,174 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/wp1x7_512.webp?v=1760165406
   Price: ₹0.00 INR
+- [24 whoseller](https://donedeals.xyz/products/24-whoseller): Product Details Name : 24 whoseller Material : Synthetic Sole Material : Pvc Pattern : Solid Fastening & Back Detail : Slip-On Net Quantity (N) : 1 Girls Eye cathibg fashionable flat sandal may product good cathing girl Sizes : IND-5 (Foot Length Size : 24 cm) IND-6 (Foot Length Size : 24.5 cm) IND-7 (Foot Length Size : 25 cm) IND-8 (Foot Length Size : 25.5 cm) IND-9 (Foot Length Size : 26 cm) Country of Origin : India More Information
+  Updated: 2025-10-12T12:55:12Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/dqtjl_512.webp?v=1760165433
+  - [5](https://donedeals.xyz/products/24-whoseller?variant=43677197238323)
+    Availability: Available
+    Price: ₹276.00 INR
+  - [6](https://donedeals.xyz/products/24-whoseller?variant=43677197271091)
+    Availability: Available
+    Price: ₹276.00 INR
+  - [7](https://donedeals.xyz/products/24-whoseller?variant=43677197303859)
+    Availability: Available
+    Price: ₹276.00 INR
+  - [8](https://donedeals.xyz/products/24-whoseller?variant=43677197336627)
+    Availability: Available
+    Price: ₹276.00 INR
+  - [9](https://donedeals.xyz/products/24-whoseller?variant=43677197369395)
+    Availability: Available
+    Price: ₹276.00 INR
+- [black croos sileper](https://donedeals.xyz/products/black-croos-sileper): Product Details Name : black croos sileper Material : Syntethic Leather Sole Material : Tpr Pattern : Embellished Fastening & Back Detail : Slip-On Net Quantity (N) : 1 Sizes : IND-5 (Foot Length Size : 24 cm) IND-8 (Foot Length Size : 25.5 cm) Country of Origin : India More Information
+  Updated: 2025-10-12T12:56:55Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/vpcxa_512.webp?v=1760165451
+  - [5](https://donedeals.xyz/products/black-croos-sileper?variant=43677197598771)
+    Availability: Available
+    Price: ₹231.00 INR
+  - [6](https://donedeals.xyz/products/black-croos-sileper?variant=43677197631539)
+    Availability: Available
+    Price: ₹231.00 INR
+  - [7](https://donedeals.xyz/products/black-croos-sileper?variant=43677197664307)
+    Availability: Available
+    Price: ₹231.00 INR
+  - [8](https://donedeals.xyz/products/black-croos-sileper?variant=43677197697075)
+    Availability: Available
+    Price: ₹231.00 INR
+  - [9](https://donedeals.xyz/products/black-croos-sileper?variant=43677197729843)
+    Availability: Available
+    Price: ₹231.00 INR
+- [Bridal & Casual Flat Combo – Perfect for Weddings and Everyday Style](https://donedeals.xyz/products/bridal-casual-flat-combo-perfect-for-weddings-and-everyday-style): Product Details Name : Bridal & Casual Flat Combo – Perfect for Weddings and Everyday Style Material : Pu Sole Material : Tpr Pattern : Brand Logo Fastening & Back Detail : Ankle Loop Net Quantity (N) : 2 Elevate your footwear game with this Bridal & Casual Flat Combo, designed to add elegance and comfort to every occasion. Whether you're attending a wedding or looking for stylish daily wear, this combo is the perfect choice for women who love versatile and fashionable footwear. Key Features : Stylish Design : A blend of traditional and modern styles, suitable for both weddings and casual outings. Premium Comfort : Crafted with soft soles to keep your feet happy all day long. Elegant Details : Intricate embellishments and sleek designs to complement both ethnic and casual outfits. Durable Build : Made with high-quality materials for long-lasting wear. Value for Money : A two-in-one combo at an unbeatable price. Step into style and grace with this Flat Combo that’s perfect for brides, wedding guests, or everyday fashion. Pair them with your favorite sarees, lehengas, or even jeans for a chic look! Sizes : IND-4 (Foot Length Size : 23.4 cm) IND-5 (Foot Length Size : 24.5 cm) IND-6 (Foot Length Size : 25.4 cm) IND-7 (Foot Length Size : 25.9 cm) IND-8 (Foot Length Size : 26 cm) Country of Origin : India More Information
+  Updated: 2025-10-12T12:57:22Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/ku8ji_512.webp?v=1760165511
+  - [5](https://donedeals.xyz/products/bridal-casual-flat-combo-perfect-for-weddings-and-everyday-style?variant=43677198581811)
+    Availability: Available
+    Price: ₹340.00 INR
+  - [6](https://donedeals.xyz/products/bridal-casual-flat-combo-perfect-for-weddings-and-everyday-style?variant=43677198614579)
+    Availability: Available
+    Price: ₹340.00 INR
+  - [7](https://donedeals.xyz/products/bridal-casual-flat-combo-perfect-for-weddings-and-everyday-style?variant=43677198647347)
+    Availability: Available
+    Price: ₹340.00 INR
+  - [8](https://donedeals.xyz/products/bridal-casual-flat-combo-perfect-for-weddings-and-everyday-style?variant=43677198680115)
+    Availability: Available
+    Price: ₹340.00 INR
+  - [9](https://donedeals.xyz/products/bridal-casual-flat-combo-perfect-for-weddings-and-everyday-style?variant=43677198712883)
+    Availability: Available
+    Price: ₹340.00 INR
+- [Flat Sandals For women || Flat Sandals || Women Footwear Combo || 2 pair 2 different colour options || Affordable Combo Footwear](https://donedeals.xyz/products/flat-sandals-for-women-flat-sandals-women-footwear-combo-2-pair-2-different-colour-options-affordable-combo-footwear): Product Details Name : Flat Sandals For women || Flat Sandals || Women Footwear Combo || 2 pair 2 different colour options || Affordable Combo Footwear Material : EVA Sole Material : Tpr Pattern : Embellished Fastening & Back Detail : Slip-On Net Quantity (N) : 2 This flat sandals combo is made just for you! Get not one but TWO stylish pairs in green and pink colour – the perfect mix of elegance and fun. Whether you need flats for girls for casual outings or party wear slippers for girls to add some extra glam, this women footwear combo has got you covered! #Super Trendy & Fashionable – Style that turns heads! #Durable & Comfortable – Walk all day without discomfort #Perfect for Any Occasion – College, shopping, parties, or casual outings #High-Quality Sole – Strong grip, long-lasting wear Whether it's jeans, a kurti, or even a cute dress, these girls slippers flats match everything effortlessly. This chappal combo offer is designed to give you daily use slippers for women that are comfy yet stylish, so you don’t have to compromise! These fancy flat slippers for women party are your new go-to for stepping up your fashion game! Whether you're heading to a wedding function or just chilling with friends, these party wear slippers for women add the perfect finishing touch. This combo flats for women is the ultimate steal – a mix of casual and dressy, making it the best affordable combo footwear deal ever! Don’t miss out-grab your slippers for girls party wear now and make every step a stylish one flats footwear | trendy flats | Elite women flats | latest slippers | fancy women flats | stylish women flats | alluring women flats | flats Sizes : IND-3 (Foot Length Size : 23 cm) IND-4 (Foot Length Size : 23.5 cm) IND-5 (Foot Length Size : 24.5 cm) IND-6 (Foot Length Size : 25 cm) IND-7 (Foot Length Size : 26 cm) IND-8 (Foot Length Size : 26.5 cm) Country of Origin : India More Information
+  Updated: 2025-10-12T13:07:23Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/cvwvc_512.webp?v=1760165548
+  - [5](https://donedeals.xyz/products/flat-sandals-for-women-flat-sandals-women-footwear-combo-2-pair-2-different-colour-options-affordable-combo-footwear?variant=43677199237171)
+    Availability: Available
+    Price: ₹382.00 INR
+  - [6](https://donedeals.xyz/products/flat-sandals-for-women-flat-sandals-women-footwear-combo-2-pair-2-different-colour-options-affordable-combo-footwear?variant=43677199269939)
+    Availability: Available
+    Price: ₹382.00 INR
+  - [7](https://donedeals.xyz/products/flat-sandals-for-women-flat-sandals-women-footwear-combo-2-pair-2-different-colour-options-affordable-combo-footwear?variant=43677199302707)
+    Availability: Available
+    Price: ₹382.00 INR
+  - [8](https://donedeals.xyz/products/flat-sandals-for-women-flat-sandals-women-footwear-combo-2-pair-2-different-colour-options-affordable-combo-footwear?variant=43677199335475)
+    Availability: Available
+    Price: ₹382.00 INR
+  - [9](https://donedeals.xyz/products/flat-sandals-for-women-flat-sandals-women-footwear-combo-2-pair-2-different-colour-options-affordable-combo-footwear?variant=43677199368243)
+    Availability: Available
+    Price: ₹382.00 INR
+- [Comfort sileepar](https://donedeals.xyz/products/comfort-sileepar): Product Details Name : Comfort sileepar Material : Synthetic Sole Material : Pvc Pattern : Solid Fastening & Back Detail : Open Back Net Quantity (N) : 1 Comfort solid synthetic Sizes : IND-8 (Foot Length Size : 25.8 cm) IND-9 (Foot Length Size : 26.6 cm) Country of Origin : India More Information
+  Updated: 2025-10-12T12:59:07Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/01yz9_512.webp?v=1760165578
+  - [5](https://donedeals.xyz/products/comfort-sileepar?variant=43677199728691)
+    Availability: Available
+    Price: ₹216.00 INR
+  - [6](https://donedeals.xyz/products/comfort-sileepar?variant=43677199761459)
+    Availability: Available
+    Price: ₹216.00 INR
+  - [7](https://donedeals.xyz/products/comfort-sileepar?variant=43677199794227)
+    Availability: Available
+    Price: ₹216.00 INR
+  - [8](https://donedeals.xyz/products/comfort-sileepar?variant=43677199826995)
+    Availability: Available
+    Price: ₹216.00 INR
+  - [9](https://donedeals.xyz/products/comfort-sileepar?variant=43677199859763)
+    Availability: Available
+    Price: ₹216.00 INR
+- [ABIOTS Alluring Flat Sandals | Women Fashion Casual Flat slipper | Fashionable & Occasion Wear Flat | Women & Girls |(Black)](https://donedeals.xyz/products/abiots-alluring-flat-sandals-women-fashion-casual-flat-slipper-fashionable-occasion-wear-flat-women-girls-black): Product Details Name : ABIOTS Alluring Flat Sandals | Women Fashion Casual Flat slipper | Fashionable & Occasion Wear Flat | Women & Girls |(Black) Material : EVA Sole Material : Synthetic Pattern : Solid Fastening & Back Detail : Slip-On Net Quantity (N) : 1 ABIOTS Presents This Trendy Sandal. Featuring an exceed pair of casual sandals that makes a great inclusion in your footwear collection. Made from premium quality material, these sandals are lightweight and offer utmost to your feet. The amazing styling of this pair speaks volumes about your classy sense of fashion. These Sandals look best when teamed with denims and a coolest closure, it prevents your feet from any chafe and lets you move around with ease. These sandals are a must have for every Women Sizes : IND-3 (Foot Length Size : 24 cm) IND-4 (Foot Length Size : 23.5 cm) IND-5 (Foot Length Size : 24 cm) IND-6 (Foot Length Size : 24.5 cm) IND-7 (Foot Length Size : 25 cm) IND-8 (Foot Length Size : 26 cm) Country of Origin : India More Information
+  Updated: 2025-10-12T12:55:23Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/vrxak_512.webp?v=1760165598
+  - [5](https://donedeals.xyz/products/abiots-alluring-flat-sandals-women-fashion-casual-flat-slipper-fashionable-occasion-wear-flat-women-girls-black?variant=43677200056371)
+    Availability: Available
+    Price: ₹213.00 INR
+  - [6](https://donedeals.xyz/products/abiots-alluring-flat-sandals-women-fashion-casual-flat-slipper-fashionable-occasion-wear-flat-women-girls-black?variant=43677200089139)
+    Availability: Available
+    Price: ₹213.00 INR
+  - [7](https://donedeals.xyz/products/abiots-alluring-flat-sandals-women-fashion-casual-flat-slipper-fashionable-occasion-wear-flat-women-girls-black?variant=43677200121907)
+    Availability: Available
+    Price: ₹213.00 INR
+  - [8](https://donedeals.xyz/products/abiots-alluring-flat-sandals-women-fashion-casual-flat-slipper-fashionable-occasion-wear-flat-women-girls-black?variant=43677200154675)
+    Availability: Available
+    Price: ₹213.00 INR
+  - [9](https://donedeals.xyz/products/abiots-alluring-flat-sandals-women-fashion-casual-flat-slipper-fashionable-occasion-wear-flat-women-girls-black?variant=43677200187443)
+    Availability: Available
+    Price: ₹213.00 INR
+- [Buckle flat](https://donedeals.xyz/products/buckle-flat): Product Details Name : Buckle flat Material : Synthetic Sole Material : Pvc Pattern : Embellished Fastening & Back Detail : Slip-On Net Quantity (N) : 1 Sizes : IND-4 (Foot Length Size : 23.5 cm) IND-5 (Foot Length Size : 24 cm) IND-6 (Foot Length Size : 24.5 cm) IND-7 (Foot Length Size : 25 cm) IND-8 (Foot Length Size : 25.5 cm) IND-9 (Foot Length Size : 26 cm) Country of Origin : India More Information
+  Updated: 2025-10-12T12:57:23Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/9mtdb_512.webp?v=1760165609
+  - [5](https://donedeals.xyz/products/buckle-flat?variant=43677200220211)
+    Availability: Available
+    Price: ₹247.00 INR
+  - [6](https://donedeals.xyz/products/buckle-flat?variant=43677200252979)
+    Availability: Available
+    Price: ₹247.00 INR
+  - [7](https://donedeals.xyz/products/buckle-flat?variant=43677200285747)
+    Availability: Available
+    Price: ₹247.00 INR
+  - [8](https://donedeals.xyz/products/buckle-flat?variant=43677200318515)
+    Availability: Available
+    Price: ₹247.00 INR
+  - [9](https://donedeals.xyz/products/buckle-flat?variant=43677200351283)
+    Availability: Available
+    Price: ₹247.00 INR
+- [Designer Women Casual Party Wear Flat](https://donedeals.xyz/products/designer-women-casual-party-wear-flat): Product Details Name : Designer Women Casual Party Wear Flat Material : Synthetic Sole Material : Tpr Pattern : Solid Fastening & Back Detail : Buckle Net Quantity (N) : 1 It has 1 pair of women flat Sizes : IND-4 (Foot Length Size : 24 cm) IND-5 (Foot Length Size : 24.5 cm) IND-6 (Foot Length Size : 25 cm) IND-7 (Foot Length Size : 25.5 cm) IND-8 (Foot Length Size : 26 cm) IND-9 (Foot Length Size : 26.5 cm) Country of Origin : India More Information
+  Updated: 2025-10-12T13:01:43Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/qy0cm_512.webp?v=1760165642
+  - [5](https://donedeals.xyz/products/designer-women-casual-party-wear-flat?variant=43677200711731)
+    Availability: Available
+    Price: ₹254.00 INR
+  - [6](https://donedeals.xyz/products/designer-women-casual-party-wear-flat?variant=43677200744499)
+    Availability: Available
+    Price: ₹254.00 INR
+  - [7](https://donedeals.xyz/products/designer-women-casual-party-wear-flat?variant=43677200777267)
+    Availability: Available
+    Price: ₹254.00 INR
+  - [8](https://donedeals.xyz/products/designer-women-casual-party-wear-flat?variant=43677200810035)
+    Availability: Available
+    Price: ₹254.00 INR
+  - [9](https://donedeals.xyz/products/designer-women-casual-party-wear-flat?variant=43677200842803)
+    Availability: Available
+    Price: ₹254.00 INR
 
 ## Collections
 
@@ -24272,8 +26609,8 @@
   Updated: 2025-10-08T09:12:11Z
   Total Products: 0
 - [all](https://donedeals.xyz/collections/all)
-  Updated: 2025-10-12T11:12:58Z
-  Total Products: 2372
+  Updated: 2025-10-12T12:34:07Z
+  Total Products: 2371
 - [men watch](https://donedeals.xyz/collections/men-watch)
   Updated: 2025-10-08T09:12:11Z
   Total Products: 89
