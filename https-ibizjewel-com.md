@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-01-24T04:49:01Z
 - Contact Email: info@ibizjewel.com
-- Updated At: 2025-10-12T00:00:50.553Z
+- Updated At: 2025-10-12T12:00:47.063Z
 
 ## Products
 
@@ -44590,6 +44590,10 @@
     Updated: 2025-10-08T02:39:22Z
     Author: Heris K.
     Tags: diamonds, eco-friendly, ethical diamonds, investment in jewelry, jewelry, reasons to choose diamonds, salt and pepper diamond ring, salt and pepper diamonds, sustainable jewelry
+  - [Designing Your Dream Sustainable Jewelry Collection with Salt and Pepper Diamonds](https://ibizjewel.com/blogs/news/designing-your-dream-sustainable-jewelry-collection-with-salt-and-pepper-diamonds): Designing Your Dream Sustainable Jewelry Collection with Salt and Pepper Diamonds
+    Updated: 2025-10-12T00:09:08Z
+    Author: Heris K.
+    Tags: design collection, diamonds, eco-friendly jewelry, ethical diamonds, jewelry, salt and pepper diamond ring, salt and pepper diamonds, sustainable, sustainable jewelry tips
 
 ## Store Pages
 
