@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-02-07T02:43:04Z
 - Contact Email: alex@honestybrutal.com
-- Updated At: 2025-10-09T20:00:30.836Z
+- Updated At: 2025-10-12T08:00:30.965Z
 
 ## Products
 
@@ -2220,32 +2220,32 @@
     Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/5474672_7066.jpg?v=1759498256
     Price: $55.00 USD
 - [Serpentine Jogger](https://honestybrutal.com/products/serpentine-jogger): The Artist Statement The Serpentine Jogger flows with bold bands of green, yellow, and blue, turning a streetwear essential into a moving artwork. Designed with a modern fit and everyday comfort, these joggers balance function and form — made for both downtime and statement-making moments. The Technicals 60% cotton / 40% polyester premium fleece (14 oz) Shaped side seams for a modern fit Roomy side pockets Pill-resistant fabric to maintain a fresh look Durable, vibrant direct-to-film (DTF) print Digitally printed on demand in Montreal, Canada Transparency & Care Each jogger is produced on demand to eliminate overproduction and waste. Prints are embedded for lasting color that won’t fade with use or washing.
-  Updated: 2025-10-03T13:47:25Z
+  Updated: 2025-10-10T19:16:49Z
   Vendor: Art of Where
   Product Type: Unisex Joggers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/623e342f-652e-4a16-b862-84099da4ca74.png?v=1759499225
-  - [X-Small / Black](https://honestybrutal.com/products/serpentine-jogger?variant=46983549321436)
+  - [X-Small](https://honestybrutal.com/products/serpentine-jogger?variant=46983549321436)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/623e342f-652e-4a16-b862-84099da4ca74.png?v=1759499225
     Price: $195.00 USD
-  - [Small / Black](https://honestybrutal.com/products/serpentine-jogger?variant=46983549354204)
+  - [Small](https://honestybrutal.com/products/serpentine-jogger?variant=46983549354204)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/623e342f-652e-4a16-b862-84099da4ca74.png?v=1759499225
     Price: $195.00 USD
-  - [Medium / Black](https://honestybrutal.com/products/serpentine-jogger?variant=46983549386972)
+  - [Medium](https://honestybrutal.com/products/serpentine-jogger?variant=46983549386972)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/623e342f-652e-4a16-b862-84099da4ca74.png?v=1759499225
     Price: $195.00 USD
-  - [Large / Black](https://honestybrutal.com/products/serpentine-jogger?variant=46983549419740)
+  - [Large](https://honestybrutal.com/products/serpentine-jogger?variant=46983549419740)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/623e342f-652e-4a16-b862-84099da4ca74.png?v=1759499225
     Price: $195.00 USD
-  - [X-Large / Black](https://honestybrutal.com/products/serpentine-jogger?variant=46983549452508)
+  - [X-Large](https://honestybrutal.com/products/serpentine-jogger?variant=46983549452508)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/623e342f-652e-4a16-b862-84099da4ca74.png?v=1759499225
     Price: $195.00 USD
-  - [2x-Large / Black](https://honestybrutal.com/products/serpentine-jogger?variant=46983549485276)
+  - [2x-Large](https://honestybrutal.com/products/serpentine-jogger?variant=46983549485276)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/623e342f-652e-4a16-b862-84099da4ca74.png?v=1759499225
     Price: $195.00 USD
