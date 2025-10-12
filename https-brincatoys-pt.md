@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-10-12T16:01:12.207Z
+- Updated At: 2025-10-12T20:01:12.491Z
 
 ## Products
 
@@ -929,7 +929,7 @@ juego. Incluye mantita de color rosa. Edad recomendada +3 años.
   Price: 47,99 € EUR
 - [Boneca Sweet Baby 42 cm](https://brincatoys.pt/products/boneca-sweet-baby-42-cm): Linda boneca, de 42 cm, com chupeta.
 Cabeça, braços e pernas de vinil macio, agradável ao toque e de grande qualidade.O corpo de pano enchido com um material macio.
-  Updated: 2025-10-10T18:42:20Z
+  Updated: 2025-10-12T18:36:56Z
   Vendor: Seleção Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -3604,7 +3604,7 @@ recoberto por pele.As girafas bebês podem ter até 2,10 metros de altura e pesa
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/heidi-239987216-brincatoys-1178693756.jpg?v=1752844691
   Price: 6,00 € EUR
 - [Heidi Joseph](https://brincatoys.pt/products/heidi-joseph): Figura em borracha termoplástica da série Heidi.Figura com aproximadamente 6 cm.  Dimensão: 6 x 3 x 2 cm. Idade recomendada: + de 3 anos.
-  Updated: 2025-10-10T18:36:22Z
+  Updated: 2025-10-12T18:36:51Z
   Vendor: Seleção Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -11770,7 +11770,7 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/caixa-de-musica-bailarina-com-alca-de-perolas-799097423-3457010909743-brincatoys-1178696614.jpg?v=1752896663
   Price: 32,50 € EUR
 - [Monopoly - Maus Perdedores](https://brincatoys.pt/products/monopoly-maus-perdedores): A vigança é um prato que se come frio. Esta versão do jogo monopoly celebra a derrota. Os jogadores podem ganhar dinheiro com coisas que normalmente são frustantes, como ir para a cadeia, pagar renda ou declarar falência. Neste Monopoly perder não é mau. Tens que perder para ganhar!Cada vez que um jogador sofre uma penalização (como pagar um arrend
-  Updated: 2025-09-29T21:26:36Z
+  Updated: 2025-10-12T18:31:47Z
   Vendor: Monopoly
   Product Type: + 8 anos
   Availability: Available
@@ -14641,7 +14641,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/squishmallows-cheer-squad-peluche-5-cm-23046824-squishville-1178698209.jpg?v=1752921965
   Price: 22,99 € EUR
 - [Cinto de Treinador Pokémon Squirtle](https://brincatoys.pt/products/cinto-de-treinador-pokemon-squirtle): Descubra o Cinto de Treinador Pokémon Squirtle com Pokébolas e figura inclusa. Ideal para fãs e colecionadores, proporcionando horas de diversão e aventura.
-  Updated: 2025-10-06T18:22:51Z
+  Updated: 2025-10-12T16:52:50Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
@@ -15672,7 +15672,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/brinquedo-construcao-magna-tiles-casa-imaginacao-e-educacao-771833224-brincatoys-1178699065.jpg?v=1752935414
   Price: 53,50 € EUR
 - [Phlat Ball Vermelha - Disco Voador e Bola em Um](https://brincatoys.pt/products/phlat-ball-vermelha): Celebre o 25º aniversário com o Phlat Ball Vermelha - Disco voador, o brinquedo 2 em 1 que estimula o exercício ao ar livre. Perfeito para todas as idades.!
-  Updated: 2025-10-10T18:20:27Z
+  Updated: 2025-10-12T16:52:56Z
   Vendor: Seleção Brincatoys
   Product Type: + 5 anos
   Availability: Available
@@ -15833,7 +15833,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/figura-pokemon-select-entei-15-cm-essencial-para-colecao-23320124-0191726483625-pokemon-1178699173.jpg?v=1752936843
   Price: 37,90 € EUR
 - [Squishville Mini Squishmallows - Esquadrão Colorido](https://brincatoys.pt/products/squishville-mini-squishmallows-esquadrao-colorido): Adicione uma pitada de cor e alegria à sua coleção com o Squishville Mini Squishmallows - Esquadrão Colorido. Peluches macios e cativantes.
-  Updated: 2025-10-04T17:02:37Z
+  Updated: 2025-10-12T18:36:41Z
   Vendor: Squishville
   Product Type: + 3 anos
   Availability: Available
@@ -16498,7 +16498,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-friends-42635-cabeleireiro-movel-para-caes-664263524-5702017588841-lego-1178699812.jpg?v=1752947413
   Price: 12,00 € EUR
 - [Brinquedo para bebé - Chocalho Vaca Shake Me](https://brincatoys.pt/products/brinquedo-para-bebe-chocalho-vaca-shake-me): Brinquedo para bebé - Chocalho Vaca Shake Me, perfeito para estimulação sensorial e desenvolvimento motor. Cores vivas, para a felicidade do seu bebé!
-  Updated: 2025-10-10T18:20:26Z
+  Updated: 2025-10-12T18:57:45Z
   Vendor: Seleção Brincatoys
   Product Type: + 3 meses
   Availability: Available
@@ -18822,7 +18822,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-creator-31160-aeronave-aviao-de-corrida-divertido-663116025-5702017822259-lego-1178701529.jpg?v=1752973086
   Price: 17,90 € EUR
 - [Conjunto de beleza das Princesas Disney encantador](https://brincatoys.pt/products/conjunto-de-beleza-das-princesas-disney): Descubra o encantador Conjunto de Beleza das Princesas Disney, perfeito para pequenas fãs! Com acessórios divertidos, a diversão é garantida!
-  Updated: 2025-10-10T18:17:34Z
+  Updated: 2025-10-12T18:37:02Z
   Vendor: Seleção Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -19956,14 +19956,14 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/tartarugas-ninja-mutant-mayhen-splinter-233874125-0043377832867-tartarugas-ninja-1178692501.jpg?v=1752821541
   Price: 19,99 € EUR
 - [Tartarugas Ninja Mutant Mayhen - Superfly](https://brincatoys.pt/products/tartarugas-ninja-mutant-mayhen-superfly): A figura Superfly Fly Guy da linha Teenage Mutant Ninja Turtles Mutant Mayhem traz toda a ousadia de um vilão mutante para a coleção de fãs e miúdos a partir dos 4 anos. Primeiramente, com escultura detalhada em PVC resistente, apresenta corpo texturizado em azul vibrante e olhos facetados em vermelho, recriando fielmente o visual do insecto mutante. Além disso, as asas translúcidas conferem dinamismo e realismo durante as brincadeiras. Ademais, para além do design arrojado, Superfly mede cerca de 10 cm de altura e dispõe de 12 pontos de articulação, o que permite criar poses de voo, ataque ou perseguição pelas ruas de Nova Iorque. Além disso, as mãos articuladas encaixam perfeitamente seis acessórios: um blaster futurista, lança-agulhas, granada tóxica, metralhadora leve, faca de lâmina dupla e bastão extensível. Dessa forma, a imaginação corre solta enquanto se encaixam armas e recriam-se cenas de confronto com as Tartarugas Ninja. Por outro lado, além de incentivar a criatividade, esta figura cumpre rigorosos padrões de segurança CE. Portanto, quer procure um brinquedo duradouro para brincadeiras diárias, quer deseje um item de valor para a sua vitrine, a figura Superfly Fly Guy garante robustez, versatilidade e autenticidade. Com ela, cada batalha contra o mal torna-se épica, enquanto se estimulam competências motoras finas e a coordenação mão-olho. Em suma... Altura: 10 cm (4”); 12 pontos de articulação Material: PVC resistente com pintura detalhada Acessórios: armas intercambiáveis (blaster, lança-agulhas, granada, metralhadora, faca, bastão) Dimensão: 19 x 21 x 5,50 cm.Idade recomendada: + de 4 anos.
-  Updated: 2025-10-11T09:58:16Z
+  Updated: 2025-10-12T17:31:27Z
   Vendor: Tartarugas Ninja
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/tartarugas-ninja-mutant-mayhen-superfly-233874025-0043377832874-tartarugas-ninja-1178692493.jpg?v=1752823323
   Price: 19,99 € EUR
 - [Tartarugas Ninja Mutant Mayhen - Bebop](https://brincatoys.pt/products/tartarugas-ninja-mutant-mayhen-bebop): A figura Bebop da coleção Teenage Mutant Ninja Turtles Mutant Mayhem traz toda a energia e irreverência de um dos vilões mais icónicos da série diretamente para as mãos dos fãs. Em primeiro lugar, com design autêntico, inspirado no filme de animação Mutant Mayhem, apresenta pintura vibrante e escultura rica em detalhes que capturam as tatuagens, a jaqueta rasgada e o moicano rosa de Bebop. Além disso, cada peça é produzida em plástico PVC resistente, garantindo durabilidade para horas de brincadeira. Por outro lado, para maximizar a interatividade, a figura mede 11,5 cm e dispõe de 12 pontos de articulação, permitindo recriar poses de ação e cenas épicas de combate contra as Tartarugas Ninja. Além disso, inclui um conjunto de acessórios — entre eles uma arma principal com efeito de perfuração, faca, machado e bastão — todos compatíveis com os encaixes dos punhos de Bebop. Assim, as crianças podem explorar a criatividade ao montar diferentes cenários de luta. Portanto, quer procure um brinquedo robusto para brincadeiras diárias quer um item de colecionador, a figura Bebop Mutant Mayhem satisfaz ambos os desejos. Por fim, complemente a sua coleção de Tartarugas Ninja com este vilão ameaçador, estimule a motricidade fina e mergulhe num universo de combate e aventura em Nova York! Em suma... Medidas: 11,5 cm e 12 pontos de articulação Material: plástico PVC resistente, acabamento detalhado Acessórios: armas metálicas intercambiáveis Dimensão: 19 x 21 x 5,50 cm.Idade recomendada: + de 4 anos.
-  Updated: 2025-10-11T09:58:17Z
+  Updated: 2025-10-12T17:31:37Z
   Vendor: Tartarugas Ninja
   Product Type: + 4 anos
   Availability: Available
@@ -20581,7 +20581,7 @@ Figura em borracha termoplástica do filme Branca de neve e os sete anões.Figur
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/boneca-elegance-com-alcofa-rosa-conforto-e-estilo-para-brincar-855072924-8427614507299-brincatoys-1178700824.jpg?v=1752961683
   Price: 44,90 € EUR
 - [Monster High Real Drama - Lagoona Blue: Estilo Único](https://brincatoys.pt/products/monster-high-real-drama-lagoona-blue): Adicione à sua coleção a Monster High Real Drama - Lagoona Blue, uma boneca que combina estilo cinematográfico e atitude! Entre em ação!
-  Updated: 2025-10-12T14:49:10Z
+  Updated: 2025-10-12T17:50:17Z
   Vendor: Monster High
   Product Type: + 6 anos
   Availability: Available
