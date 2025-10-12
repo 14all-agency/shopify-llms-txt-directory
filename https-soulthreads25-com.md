@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-07-21T23:17:39Z
 - Contact Email: dustin1986williamson@gmail.com
-- Updated At: 2025-10-11T12:00:33.162Z
+- Updated At: 2025-10-12T04:00:33.315Z
 
 ## Products
 
@@ -10115,7 +10115,7 @@
   Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/2936c753-a09a-41b1-8f59-b206d1e8a581.jpg?v=1759296964
   Price: $24.99 USD
 - [Realtree Fitbit Watch Band for Versa 3 & Sense 1 - Stylish Accessory](https://soulthreads25.com/products/realtree-aspect-hd-fitbit-versa-3-and-sense-1-watch-band): Elevate your style with the Realtree Fitbit Watch Band for Versa 3 and Sense 1. This durable accessory combines fashion and functionality for the perfect look. Shop now!
-  Updated: 2025-10-11T03:42:52Z
+  Updated: 2025-10-11T13:48:37Z
   Vendor: Affinity Bands
   Product Type: Realtree HD Fitbit Watch Band
   Availability: Available
@@ -10129,7 +10129,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/20-RT-Aspect-3Q_26aae5bd-954b-4f06-9e35-3e9457341898.jpg?v=1759296971
     Price: $29.99 USD
 - [Realtree Excape HD Apple Watch Band - Soul threads](https://soulthreads25.com/products/realtree-excape-hd-apple-watch-band): Enhance your Apple Watch with the Realtree Excape HD Apple Watch Band. This stylish, durable band combines comfort and outdoor aesthetics for the perfect accessory.
-  Updated: 2025-10-11T00:18:38Z
+  Updated: 2025-10-11T20:10:28Z
   Vendor: Affinity Bands
   Product Type: Realtree HD Apple Band
   Availability: Available
@@ -10469,7 +10469,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/8-PickleballBlue-HDA_8f0fe22c-7542-41e7-932a-8d080321d719.jpg?v=1759297195
     Price: $29.99 USD
 - [Pickleball iPhone 13 Mag-Safe Case - HD Protection & Stylish Design](https://soulthreads25.com/products/pickleball-hd-apple-iphone-13-series-mag-safe-phone-case): Protect your iPhone 13 in style with our Pickleball iPhone 13 Mag-Safe Case. Enjoy HD protection and a sleek design that showcases your love for pickleball. Order yours today!
-  Updated: 2025-10-10T04:53:12Z
+  Updated: 2025-10-11T23:18:41Z
   Vendor: Affinity Bands
   Product Type: Pickleball Apple iPhone 13 Case
   Availability: Available
@@ -10571,7 +10571,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/8-PickleballBlue-HDA_634b800f-85ba-4316-a65b-00202f2f552b.jpg?v=1759297222
     Price: $29.99 USD
 - [Pickleball iPhone 16 Mag-Safe Case for Stylish Protection on the Go](https://soulthreads25.com/products/pickleball-hd-apple-iphone-16-mag-safe-phone-case): Protect your iPhone 16 in style with our Pickleball iPhone 16 Mag-Safe Case. Enjoy ultimate durability and a sleek design, perfect for pickleball lovers on the go!
-  Updated: 2025-10-11T10:34:56Z
+  Updated: 2025-10-11T23:18:39Z
   Vendor: Affinity Bands
   Product Type: Pickleball HD iPhone 16 Case
   Availability: Available
@@ -10705,7 +10705,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/57c9ebdf-6f5d-40c4-a5f9-ed75f6745a78.jpg?v=1759297276
     Price: $29.99 USD
 - [Realtree Edge HD Watch Band – Stylish and Durable for Apple Watch](https://soulthreads25.com/products/realtree-edge-hd-apple-watch-band): Meta Description: Upgrade your Apple Watch with the Realtree Edge HD Watch Band. This durable and stylish band offers a perfect blend of comfort and performance for adventurous lifestyles.
-  Updated: 2025-10-11T03:43:08Z
+  Updated: 2025-10-12T02:27:13Z
   Vendor: Affinity Bands
   Product Type: Realtree HD Apple Band
   Availability: Available
@@ -10855,7 +10855,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/9-Edge-Snow.jpg?v=1759297333
     Price: $29.99 USD
 - [Pride HD iPhone 16 Mag-Safe Case for Ultimate Protection & Style](https://soulthreads25.com/products/pride-hd-apple-iphone-16-mag-safe-phone-case): Protect your iPhone 16 in style with the Pride HD iPhone 16 Mag-Safe Case. Experience ultimate durability and a sleek design that enhances your device's look and feel.
-  Updated: 2025-10-11T10:35:28Z
+  Updated: 2025-10-11T23:18:49Z
   Vendor: Affinity Bands
   Product Type: Pride HD iPhone 16 Case
   Availability: Available
@@ -11021,7 +11021,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/6eb4d45d-bb14-4181-8fc4-7093b95d007a.jpg?v=1759297401
     Price: $29.99 USD
 - [Pickleball iPhone 14 Mag-Safe Case - Durable HD Protection for iPhone](https://soulthreads25.com/products/pickleball-hd-apple-iphone-14-series-mag-safe-phone-case): Enhance your iPhone 14 with our Pickleball iPhone 14 Mag-Safe Case. Enjoy HD protection and a perfect fit for your device while showcasing your love for pickleball!
-  Updated: 2025-10-11T07:18:27Z
+  Updated: 2025-10-12T02:28:08Z
   Vendor: Affinity Bands
   Product Type: Pickleball Apple iPhone 14 Case
   Availability: Available
@@ -11970,6 +11970,238 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/retro-trucker-hat-black-front-68e5f8fccd8e6.jpg?v=1759902398
   Price: $19.00 USD
+- [Unisex classic tee - Soul threads](https://soulthreads25.com/products/unisex-classic-tee-10): The 100% cotton unisex classic tee will help you land a more structured look. It sits nicely, maintains sharp lines around the edges, and goes perfectly with layered streetwear outfits. Plus, it's extra trendy now! • 100% cotton • Sport Grey is 90% cotton, 10% polyester • Ash Grey is 99% cotton, 1% polyester • Heather colors are 50% cotton, 50% polyester • Fabric weight: 5.0–5.3 oz/yd² (170-180 g/m²) • Open-end yarn • Tubular fabric • Taped neck and shoulders • Double seam at sleeves and bottom hem • Blank product sourced from Honduras, Nicaragua, Haiti, Dominican Republic, Bangladesh, Mexico Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Dark color speckles throughout the fabric are expected for the color Natural. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (cm) WIDTH (cm) SLEEVE LENGTH (cm) S 71.1 45.7 39.7 M 73.7 50.8 43.2 L 76.2 55.9 47 XL 78.7 61 50.8 2XL 81.3 66 54.6 3XL 83.8 71.1 58 4XL 86.4 76.2 61.5 5XL 89 81.3 64.3 - Soul threads
+  Updated: 2025-10-12T02:35:14Z
+  Vendor: Soul threads
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/unisex-classic-tee-black-front-68eb13bc7e4c1.jpg?v=1760236494
+  - [Black / S](https://soulthreads25.com/products/unisex-classic-tee-10?variant=51470796390631)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/unisex-classic-tee-black-front-68eb13bc7e4c1.jpg?v=1760236494
+    Price: $12.25 USD
+  - [Black / M](https://soulthreads25.com/products/unisex-classic-tee-10?variant=51470796423399)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/unisex-classic-tee-black-front-68eb13bc7e4c1.jpg?v=1760236494
+    Price: $12.25 USD
+  - [Black / L](https://soulthreads25.com/products/unisex-classic-tee-10?variant=51470796456167)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/unisex-classic-tee-black-front-68eb13bc7e4c1.jpg?v=1760236494
+    Price: $12.25 USD
+  - [Black / XL](https://soulthreads25.com/products/unisex-classic-tee-10?variant=51470796488935)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/unisex-classic-tee-black-front-68eb13bc7e4c1.jpg?v=1760236494
+    Price: $12.25 USD
+  - [Black / 2XL](https://soulthreads25.com/products/unisex-classic-tee-10?variant=51470796521703)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/unisex-classic-tee-black-front-68eb13bc7e4c1.jpg?v=1760236494
+    Price: $14.25 USD
+  - [Black / 3XL](https://soulthreads25.com/products/unisex-classic-tee-10?variant=51470796554471)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/unisex-classic-tee-black-front-68eb13bc7e4c1.jpg?v=1760236494
+    Price: $16.25 USD
+  - [Black / 4XL](https://soulthreads25.com/products/unisex-classic-tee-10?variant=51470796587239)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/unisex-classic-tee-black-front-68eb13bc7e4c1.jpg?v=1760236494
+    Price: $18.25 USD
+  - [Black / 5XL](https://soulthreads25.com/products/unisex-classic-tee-10?variant=51470796620007)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/unisex-classic-tee-black-front-68eb13bc7e4c1.jpg?v=1760236494
+    Price: $20.25 USD
+  - [Navy / S](https://soulthreads25.com/products/unisex-classic-tee-10?variant=51470796652775)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/unisex-classic-tee-navy-front-68eb13bc8074b.jpg?v=1760236493
+    Price: $12.25 USD
+  - [Navy / M](https://soulthreads25.com/products/unisex-classic-tee-10?variant=51470796685543)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/unisex-classic-tee-navy-front-68eb13bc8074b.jpg?v=1760236493
+    Price: $12.25 USD
+  - [Navy / L](https://soulthreads25.com/products/unisex-classic-tee-10?variant=51470796718311)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/unisex-classic-tee-navy-front-68eb13bc8074b.jpg?v=1760236493
+    Price: $12.25 USD
+  - [Navy / XL](https://soulthreads25.com/products/unisex-classic-tee-10?variant=51470796751079)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/unisex-classic-tee-navy-front-68eb13bc8074b.jpg?v=1760236493
+    Price: $12.25 USD
+  - [Navy / 2XL](https://soulthreads25.com/products/unisex-classic-tee-10?variant=51470796783847)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/unisex-classic-tee-navy-front-68eb13bc8074b.jpg?v=1760236493
+    Price: $14.25 USD
+  - [Navy / 3XL](https://soulthreads25.com/products/unisex-classic-tee-10?variant=51470796816615)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/unisex-classic-tee-navy-front-68eb13bc8074b.jpg?v=1760236493
+    Price: $16.25 USD
+  - [Navy / 4XL](https://soulthreads25.com/products/unisex-classic-tee-10?variant=51470796849383)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/unisex-classic-tee-navy-front-68eb13bc8074b.jpg?v=1760236493
+    Price: $18.25 USD
+  - [Navy / 5XL](https://soulthreads25.com/products/unisex-classic-tee-10?variant=51470796882151)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/unisex-classic-tee-navy-front-68eb13bc8074b.jpg?v=1760236493
+    Price: $20.25 USD
+  - [Purple / S](https://soulthreads25.com/products/unisex-classic-tee-10?variant=51470796914919)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/unisex-classic-tee-purple-front-68eb13bc845e9.jpg?v=1760236497
+    Price: $12.25 USD
+  - [Purple / M](https://soulthreads25.com/products/unisex-classic-tee-10?variant=51470796947687)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/unisex-classic-tee-purple-front-68eb13bc845e9.jpg?v=1760236497
+    Price: $12.25 USD
+  - [Purple / L](https://soulthreads25.com/products/unisex-classic-tee-10?variant=51470796980455)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/unisex-classic-tee-purple-front-68eb13bc845e9.jpg?v=1760236497
+    Price: $12.25 USD
+  - [Purple / XL](https://soulthreads25.com/products/unisex-classic-tee-10?variant=51470797013223)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/unisex-classic-tee-purple-front-68eb13bc845e9.jpg?v=1760236497
+    Price: $12.25 USD
+  - [Purple / 2XL](https://soulthreads25.com/products/unisex-classic-tee-10?variant=51470797045991)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/unisex-classic-tee-purple-front-68eb13bc845e9.jpg?v=1760236497
+    Price: $14.25 USD
+  - [Purple / 3XL](https://soulthreads25.com/products/unisex-classic-tee-10?variant=51470797078759)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/unisex-classic-tee-purple-front-68eb13bc845e9.jpg?v=1760236497
+    Price: $16.25 USD
+  - [Forest Green / S](https://soulthreads25.com/products/unisex-classic-tee-10?variant=51470797111527)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/unisex-classic-tee-forest-green-front-68eb13bc8aa61.jpg?v=1760236507
+    Price: $12.25 USD
+  - [Forest Green / M](https://soulthreads25.com/products/unisex-classic-tee-10?variant=51470797144295)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/unisex-classic-tee-forest-green-front-68eb13bc8aa61.jpg?v=1760236507
+    Price: $12.25 USD
+  - [Forest Green / L](https://soulthreads25.com/products/unisex-classic-tee-10?variant=51470797177063)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/unisex-classic-tee-forest-green-front-68eb13bc8aa61.jpg?v=1760236507
+    Price: $12.25 USD
+  - [Forest Green / XL](https://soulthreads25.com/products/unisex-classic-tee-10?variant=51470797209831)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/unisex-classic-tee-forest-green-front-68eb13bc8aa61.jpg?v=1760236507
+    Price: $12.25 USD
+  - [Forest Green / 2XL](https://soulthreads25.com/products/unisex-classic-tee-10?variant=51470797242599)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/unisex-classic-tee-forest-green-front-68eb13bc8aa61.jpg?v=1760236507
+    Price: $14.25 USD
+  - [Forest Green / 3XL](https://soulthreads25.com/products/unisex-classic-tee-10?variant=51470797275367)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/unisex-classic-tee-forest-green-front-68eb13bc8aa61.jpg?v=1760236507
+    Price: $16.25 USD
+  - [Forest Green / 4XL](https://soulthreads25.com/products/unisex-classic-tee-10?variant=51470797308135)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/unisex-classic-tee-forest-green-front-68eb13bc8aa61.jpg?v=1760236507
+    Price: $18.25 USD
+  - [Forest Green / 5XL](https://soulthreads25.com/products/unisex-classic-tee-10?variant=51470797340903)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/unisex-classic-tee-forest-green-front-68eb13bc8aa61.jpg?v=1760236507
+    Price: $20.25 USD
+  - [Royal / S](https://soulthreads25.com/products/unisex-classic-tee-10?variant=51470797373671)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/unisex-classic-tee-royal-front-68eb13bc92898.jpg?v=1760236494
+    Price: $12.25 USD
+  - [Royal / M](https://soulthreads25.com/products/unisex-classic-tee-10?variant=51470797406439)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/unisex-classic-tee-royal-front-68eb13bc92898.jpg?v=1760236494
+    Price: $12.25 USD
+  - [Royal / L](https://soulthreads25.com/products/unisex-classic-tee-10?variant=51470797439207)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/unisex-classic-tee-royal-front-68eb13bc92898.jpg?v=1760236494
+    Price: $12.25 USD
+  - [Royal / XL](https://soulthreads25.com/products/unisex-classic-tee-10?variant=51470797471975)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/unisex-classic-tee-royal-front-68eb13bc92898.jpg?v=1760236494
+    Price: $12.25 USD
+  - [Royal / 2XL](https://soulthreads25.com/products/unisex-classic-tee-10?variant=51470797504743)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/unisex-classic-tee-royal-front-68eb13bc92898.jpg?v=1760236494
+    Price: $14.25 USD
+  - [Royal / 3XL](https://soulthreads25.com/products/unisex-classic-tee-10?variant=51470797537511)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/unisex-classic-tee-royal-front-68eb13bc92898.jpg?v=1760236494
+    Price: $16.25 USD
+  - [Sapphire / S](https://soulthreads25.com/products/unisex-classic-tee-10?variant=51470797570279)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/unisex-classic-tee-sapphire-front-68eb13bc9ce46.jpg?v=1760236494
+    Price: $12.25 USD
+  - [Sapphire / M](https://soulthreads25.com/products/unisex-classic-tee-10?variant=51470797603047)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/unisex-classic-tee-sapphire-front-68eb13bc9ce46.jpg?v=1760236494
+    Price: $12.25 USD
+  - [Sapphire / L](https://soulthreads25.com/products/unisex-classic-tee-10?variant=51470797635815)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/unisex-classic-tee-sapphire-front-68eb13bc9ce46.jpg?v=1760236494
+    Price: $12.25 USD
+  - [Sapphire / XL](https://soulthreads25.com/products/unisex-classic-tee-10?variant=51470797668583)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/unisex-classic-tee-sapphire-front-68eb13bc9ce46.jpg?v=1760236494
+    Price: $12.25 USD
+  - [Sapphire / 2XL](https://soulthreads25.com/products/unisex-classic-tee-10?variant=51470797701351)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/unisex-classic-tee-sapphire-front-68eb13bc9ce46.jpg?v=1760236494
+    Price: $14.25 USD
+  - [Sapphire / 3XL](https://soulthreads25.com/products/unisex-classic-tee-10?variant=51470797734119)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/unisex-classic-tee-sapphire-front-68eb13bc9ce46.jpg?v=1760236494
+    Price: $16.25 USD
+  - [Sapphire / 4XL](https://soulthreads25.com/products/unisex-classic-tee-10?variant=51470797766887)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/unisex-classic-tee-sapphire-front-68eb13bc9ce46.jpg?v=1760236494
+    Price: $18.25 USD
+  - [Sapphire / 5XL](https://soulthreads25.com/products/unisex-classic-tee-10?variant=51470797799655)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/unisex-classic-tee-sapphire-front-68eb13bc9ce46.jpg?v=1760236494
+    Price: $20.25 USD
+  - [Tropical Blue / S](https://soulthreads25.com/products/unisex-classic-tee-10?variant=51470797832423)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/unisex-classic-tee-tropical-blue-front-68eb13bca8f94.jpg?v=1760236494
+    Price: $12.25 USD
+  - [Tropical Blue / M](https://soulthreads25.com/products/unisex-classic-tee-10?variant=51470797865191)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/unisex-classic-tee-tropical-blue-front-68eb13bca8f94.jpg?v=1760236494
+    Price: $12.25 USD
+  - [Tropical Blue / L](https://soulthreads25.com/products/unisex-classic-tee-10?variant=51470797897959)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/unisex-classic-tee-tropical-blue-front-68eb13bca8f94.jpg?v=1760236494
+    Price: $12.25 USD
+  - [Tropical Blue / XL](https://soulthreads25.com/products/unisex-classic-tee-10?variant=51470797930727)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/unisex-classic-tee-tropical-blue-front-68eb13bca8f94.jpg?v=1760236494
+    Price: $12.25 USD
+  - [Tropical Blue / 2XL](https://soulthreads25.com/products/unisex-classic-tee-10?variant=51470797963495)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/unisex-classic-tee-tropical-blue-front-68eb13bca8f94.jpg?v=1760236494
+    Price: $14.25 USD
+  - [Tropical Blue / 3XL](https://soulthreads25.com/products/unisex-classic-tee-10?variant=51470797996263)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/unisex-classic-tee-tropical-blue-front-68eb13bca8f94.jpg?v=1760236494
+    Price: $16.25 USD
+- [Unisex premium mid-weight hoodie - Soul threads](https://soulthreads25.com/products/unisex-premium-mid-weight-hoodie-19): Modern and built for the streets—this hoodie’s got that clean everyday look with serious comfort. True-to-size cut, smooth cotton face, and ideal for layering or lounging. Your new go-to, no matter the forecast. • 80% cotton, 20% recycled polyester • Heather Gray is 70% cotton, 30% recycled polyester • Charcoal and Oatmeal Heather are 60% cotton, 40% recycled polyester • Fabric weight: 8.25 oz./yd.² (280 g/m²) • 100% cotton face • Regular fit • Side-seamed construction • Double-needle topstitch on all seams • Kangaroo pocket, ribbed cuffs and waistband • Dyed-to-match drawcords with tipped ends and metal eyelets • Under 5% shrinkage • Blank product sourced from Pakistan Disclaimer: Size up for a looser fit. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! - Soul threads
+  Updated: 2025-10-12T02:49:07Z
+  Vendor: Soul threads
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/unisex-premium-mid-weight-hoodie-heather-grey-front-68eb170c63907.jpg?v=1760237343
+  - [S](https://soulthreads25.com/products/unisex-premium-mid-weight-hoodie-19?variant=51470800322791)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/unisex-premium-mid-weight-hoodie-heather-grey-front-68eb170c63907.jpg?v=1760237343
+    Price: $26.00 USD
+  - [M](https://soulthreads25.com/products/unisex-premium-mid-weight-hoodie-19?variant=51470800355559)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/unisex-premium-mid-weight-hoodie-heather-grey-front-68eb170c63907.jpg?v=1760237343
+    Price: $26.00 USD
+  - [L](https://soulthreads25.com/products/unisex-premium-mid-weight-hoodie-19?variant=51470800388327)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/unisex-premium-mid-weight-hoodie-heather-grey-front-68eb170c63907.jpg?v=1760237343
+    Price: $26.00 USD
+  - [XL](https://soulthreads25.com/products/unisex-premium-mid-weight-hoodie-19?variant=51470800421095)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/unisex-premium-mid-weight-hoodie-heather-grey-front-68eb170c63907.jpg?v=1760237343
+    Price: $26.00 USD
+  - [2XL](https://soulthreads25.com/products/unisex-premium-mid-weight-hoodie-19?variant=51470800453863)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/unisex-premium-mid-weight-hoodie-heather-grey-front-68eb170c63907.jpg?v=1760237343
+    Price: $28.00 USD
 
 ## Collections
 
@@ -11980,14 +12212,14 @@
   Updated: 2025-10-01T05:15:05Z
   Total Products: 0
 - [Spiritual Clothing: Hoodies that Lift Your Spirit for Inner Peace](https://soulthreads25.com/collections/spiritual-clothing-2): Discover our collection of spiritual clothing, featuring hoodies that lift your spirit and promote inner peace. Embrace comfort and positivity in every stitch!
-  Updated: 2025-10-06T15:41:55Z
-  Total Products: 14
+  Updated: 2025-10-12T02:49:03Z
+  Total Products: 15
 - [Spiritual Clothing: Unique Hoodies for Mindful Living and Serenity](https://soulthreads25.com/collections/spiritual-clothing-3): Discover our unique collection of spiritual clothing, featuring hoodies designed for mindful living. Elevate your style and spirit with our thoughtfully crafted designs.
   Updated: 2025-10-07T05:12:21Z
   Total Products: 14
 - [Spiritual Clothing: Stylish Tees and Tank Tops for Every Soul](https://soulthreads25.com/collections/spiritual-clothing-4): Discover our Spiritual Clothing Collection featuring stylish tees and tank tops. Embrace your vibe with unique spiritual clothing that speaks to your soul. Shop now!
-  Updated: 2025-10-07T05:05:37Z
-  Total Products: 29
+  Updated: 2025-10-12T02:35:00Z
+  Total Products: 30
 - [Spiritual Clothing - Embrace Your Spirit with Our Pants Collection](https://soulthreads25.com/collections/pants): Discover our PANTS collection and embrace your spirit with unique spiritual clothing. Shop now for styles that elevate your vibe and express your inner self!
   Updated: 2025-09-25T23:24:38Z
   Total Products: 1
@@ -11998,11 +12230,11 @@
   Updated: 2025-09-28T21:35:26Z
   Total Products: 15
 - [spiritual clothing - AVADA Best Sellers Top Collection for You](https://soulthreads25.com/collections/avada-best-sellers): Discover our AVADA Best Sellers - Top Spiritual Clothing Collection. Elevate your style and spirit with our unique spiritual clothing designed for mindfulness and self-expression.
-  Updated: 2025-10-08T05:39:45Z
-  Total Products: 123
+  Updated: 2025-10-12T02:49:27Z
+  Total Products: 125
 - [Spirital Clothing - APPPlaza Best Sellers for Mindful Living](https://soulthreads25.com/collections/spiritual-wear): Discover APPPlaza's best sellers in spirital clothing. Embrace comfort and style while showcasing your unique spirit. Shop now for exclusive designs that inspire!
-  Updated: 2025-10-08T05:39:45Z
-  Total Products: 123
+  Updated: 2025-10-12T02:49:27Z
+  Total Products: 125
 
 ## Blogs
 
@@ -12023,7 +12255,7 @@
 - [Contact Us - Get in Touch for Assistance and Support Today!](https://soulthreads25.com/pages/contact): Contact Us - Get in Touch for Assistance and SupportIf you have questions, need assistance, or simply want to reach out to our team, our Contact Us...
   Updated: 2025-09-25T23:08:31Z
 - [Privacy Preferences: Manage Your Privacy Choices Effectively Today](https://soulthreads25.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
-  Updated: 2025-09-28T17:24:45Z
+  Updated: 2025-10-11T16:30:46Z
 - [HTML Sitemap for SEO: Boost Website Navigation and Improve Indexing](https://soulthreads25.com/pages/html-sitemap): HTML Sitemap for SEO: Improve Your Website's Visibility and User ExperienceAn HTML sitemap for SEO is an essential tool that not only enhances your...
   Updated: 2025-09-25T23:10:55Z
 - [Affiliate Dashboard: Maximize Your Earnings with Essential Tools](https://soulthreads25.com/pages/affiliate): Unlock Your Potential with Our Affiliate DashboardIf you're looking to enhance your online business and maximize your earnings, our affiliate dashb...
