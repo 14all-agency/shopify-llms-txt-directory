@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-07-19T18:27:19Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-10-11T20:00:34.996Z
+- Updated At: 2025-10-12T04:00:35.742Z
 
 ## Products
 
@@ -9699,6 +9699,9 @@
     Author: User
   - [Mastering Fabric Terminology for Informed Purchases](https://fabricsstar.com/blogs/news/mastering-fabric-terminology-for-informed-purchases): Mastering Fabric Terminology for Informed Purchases
     Updated: 2025-10-08T02:38:14Z
+    Author: User
+  - [The Essential Checklist for Designing with Textiles](https://fabricsstar.com/blogs/news/the-essential-checklist-for-designing-with-textiles): The Essential Checklist for Designing with Textiles
+    Updated: 2025-10-12T00:08:27Z
     Author: User
 
 ## Store Pages
