@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2017-07-28T20:56:09Z
 - Contact Email: jenny@skinqri.com
-- Updated At: 2025-10-12T00:00:29.023Z
+- Updated At: 2025-10-12T04:00:31.451Z
 
 ## Products
 
