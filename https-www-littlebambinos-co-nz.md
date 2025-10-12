@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2014-08-05T01:45:52Z
 - Contact Email: info@littlebambinos.co.nz
-- Updated At: 2025-10-12T04:00:50.690Z
+- Updated At: 2025-10-12T08:00:51.254Z
 
 ## Products
 
@@ -11399,7 +11399,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/disc11.png?v=1737426497
   Price: $90.00 NZD
 - [TOPSY TURVY Multi-Use Arch](https://www.littlebambinos.co.nz/products/climbing-arch): NOTE Please allow 7 - 14 days from order to reciept of the product, due to the size and nature of the customisation of our products. Introducing the Topsy Turvy Climbing Arch and plush cushion – a revolutionary piece of children's furniture designed to inspire active play, foster development, and ignite imaginations. Our arch is designed to grow with your child, catering to different developmental stages and play preferences. From supporting infants with its use as a baby gym to providing endless entertainment for older children as a climbing arch, table, or storage unit, it offers something for everyone from ages 0 to 9. Our climbing arch is more than just a static structure; it's an invitation to adventure. Crafted to support active play, it encourages children to engage their gross motor skills, coordination, balance, and strength. As they climb the rungs, they not only build physical agility but also develop confidence in their abilities. Beyond its primary function as a climbing arch, it morphs into a range of imaginative play settings. From a cozy rerading rocker to a play fort, it adapts to suit every play scenario. It can even transform into an indoor football goal, sparking lively games and competitions. Used alone, or alongside a Swedish Ladder, this arch is the gateway to a world of exploration and fun for kids of all ages.Adult supervision is essential during play to ensure safe movement and prevent accidents. Experience the joy of play and the wonder of exploration with a Topsy Turvy climbing arch – where every climb is a step towards adventure! *Note: Includes cushion
-  Updated: 2025-10-01T03:22:41Z
+  Updated: 2025-10-12T07:22:41Z
   Vendor: Topsy Turvy NZ
   Product Type: 
   Availability: Available
@@ -13216,7 +13216,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $89.00 NZD
 - [Clarity Mist](https://www.littlebambinos.co.nz/products/hayfeverspritzer): 100% Natural Reduce brain fogHayfever relief Enhance focus Naturally boost your brainpower & focus with our Clarity Mist. This versatile formulation draws on oils known to enhance cognitive performance, brain fog & memory retention, as well as ease symptoms of hayfever & respiratory problems. Spray & let rosemary, lemongrass & clove do their work. Not suggested for first trimester pregnancy. Previously named Hayfever and Sinus Remedy. How it works: Lemongrass, Peppermint - Instantly refreshing to the respiratory system making it easier to breathe. Lavender - A natural soothing allergy relief Clove and Rosemary - Amazing for the brain, memory retention and pain-relieving ability. How to use Use as a mist to inhale (close eyes & breathe in), as a body & aura spray, or a room spray & linen spray. Ingredients Purified Aqua, Rosmarinus Officinalis* (Rosemary), Cymbopogon Flexuosus* (Lemongrass), Lavandula Angustifolia* (Lavender), Mentha Avensis* (Peppermint) Syzgium Aromaticum* (Clove Bud), and Limnanthes Alba * (Meadow foam seed oil) *Organic
-  Updated: 2025-10-09T21:18:41Z
+  Updated: 2025-10-12T06:56:40Z
   Vendor: Oria Skin
   Product Type: Spritzer
   Availability: Available
@@ -13315,7 +13315,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Brightening_enzyme_polish_0e4248ac-be4d-462a-9664-dc5effe82b4f.jpg?v=1744072243
   Price: $69.00 NZD
 - [ORIA SKIN Gentle Cleansing Milk](https://www.littlebambinos.co.nz/products/gentle-cleansing-milk): 100% Natural Soothe inflammation.Deep hydration.Bring balance. Working with your skin, not against it, Gentle Cleansing Milk uses hormone-friendly ingredients including organic chamomile, castor oil & palmarosa to clean & purify. Remove the day’s grime while balancing your skin’s natural oils, to keep your skin healthy & hydrated. How this works: Chamomile water removes excess oil, dirt and impurities for your pores without stripping it from it's natural moisture. While soothing and reduces redness and inflammation Castor Oil - antimicrobial - which means it can help decrease pimples and bacteria Jojoba - Softens and soothes your skin How to use Use to cleanse morning & night. Apply to a damp face & leave it to work its magic while you complete your bathroom routine. Rinse off & follow with Oria Skin serum, moisturiser & oil for the best glow. For the double-cleanse method, use Luminous Cleanse oil first, wipe away with warm cloth, follow with Gentle Cleansing Milk as per instruction. Ingredients Aqua, Matricaria recutita distillate (Chamomile Water), Simmondsia chinensis seed oil* (Jojoba), Ricinus communis seed oil* (Castor), Cetearyl Olivate & Sorbitan Olivate (Emulsifying wax), Glycerin, Geogard 221 & Cymbopogon martinii (Palmarosa essential oil). *Organic
-  Updated: 2025-10-12T03:46:41Z
+  Updated: 2025-10-12T07:46:40Z
   Vendor: Oria Skin
   Product Type: Skincare
   Availability: Available
@@ -13363,7 +13363,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/hormone_helper_e27ec68c-c508-46d1-8d4d-a801a8d6d0b8.jpg?v=1744071968
   Price: $59.00 NZD
 - [ORIA SKIN Blemish Repair Balm](https://www.littlebambinos.co.nz/products/blemish-repair-balm): 100% Natural Soothe inflammation Heal breakoutsReduce redness Crafted for hormonal imbalances, Blemish Repair Balm works with your skin to naturally heal & soothe spots. Zinc oxide provides relief with an instant moisture barrier, alongside effective healers Chamomile & Lavender oils. How it works: Zinc - Significantly reduces the swelling and redness of a skin problem like acne. Can help heal the wound or spot overnight. German Chamomile - relieves irritation, removes redness and swelling. Niacinamide - helps treat acne by reducing inflammation, regulates excess oil production, a skin regenerator so helps the scarring caused by a pimple. Niacinamide, also known as Vitamin B3, is a highly effective ingredient for treating and preventing breakouts. Here's how it helps: Reduces Inflammation: Niacinamide has anti-inflammatory properties that can help calm the skin and reduce the redness and swelling associated with acne. Regulates Sebum Production: It helps balance the skin's oil production, preventing excessive sebum that can clog pores and contribute to breakouts. Minimizes Pore Size: Niacinamide can help tighten and refine pores, reducing the likelihood of clogged pores, which are a common cause of acne. Improves Skin Barrier: By strengthening the skin's natural barrier, niacinamide helps retain moisture and protect the skin from harmful bacteria, further preventing breakouts. Fights Hyperpigmentation: It helps to reduce post-acne marks and dark spots, promoting a more even skin tone over time. How to use Apply to pimples, spots, rashes & other skin breakouts. Patch test before use. Ingredients Zinc Oxide, , Butyrospermum parkii* (shea butter)*, Simmondsia chinensis seed oil* (Jojoba oil*) Matricaria recutita (Chamomile german essential oil). Lavandula angustifolia (Lavender oil*) *Organic
-  Updated: 2025-10-06T21:38:43Z
+  Updated: 2025-10-12T07:56:41Z
   Vendor: Oria Skin
   Product Type: 
   Availability: Available
@@ -13416,13 +13416,6 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/image_6605c1d1-30ad-4b0f-90f1-435f58b094b6.jpg?v=1744073588
   Price: $149.00 NZD
-- [INKAH Billie Side table](https://www.littlebambinos.co.nz/products/untitled-sep10_07-17): This rattan side table isn't just a pretty face – it packs lots of storage! Two deep drawers give you plenty of space, and its sturdy construction means you can trust it to last. Bring a bit of practicality to your bedroom. Measures: 40cm deep x 45cm wide x 60cm high Please note drawers are not on runners.
-  Updated: 2025-08-06T22:45:27Z
-  Vendor: Inkah Limited
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/E138ADFC-2992-4C48-BA86-6BC8ADDA6BDB.jpg?v=1744073617
-  Price: $339.00 NZD
 - [INKAH Daisy Shelf](https://www.littlebambinos.co.nz/products/daisy-shelf): Our Daisy Shelf is the perfect way to add a touch of floral flair to your wall! This beautiful rattan shelf comes complete with a bar at the bottom, perfect for hanging any trinkets and treasures you have. Measures: 60cm wide x 60cm high x 25cm deep
   Updated: 2025-10-03T06:32:41Z
   Vendor: Inkah Limited
@@ -15692,7 +15685,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/ChatGPTImageJul17_2025_01_32_44PM_1.png?v=1756095029
   Price: $129.00 NZD
 - [LIL MOO Adapters](https://www.littlebambinos.co.nz/products/adapters): Adapter 1 - Medela, Pigeon Slim Neck, Dr. Browns Narrow Neck, NUK Classic, BIBS Adapter 2 - Tommee Tippee Adapter 3 - MAM, Pigeon Wide Neck Adapter 4 - Haakaa Gen 3, Como Tomo, Boon Nursh, Ola Baby Adapter 5 - NUK Nature Sense Adapter 7 - Dr. Browns Wide Neck Adapter 9 - NUK First Choice, Crane Wide Neck NO ADAPTER IS REQUIRED FOR - AVENT, Harmony, Tiny Bloom, Chicco Perfect 5 & Original Touch, Minbie, Combi, Dodie, Lasinoh, Richell, Spectra. Please note: All adapters have an additional insert sealing ring, which keeps the connection between baby bottle and adapter tight. The device is only 100% tight if both sealing rings (heating plate and adapter) are used. If you are leaking fluid, you have most likely forgotten a seal ring
-  Updated: 2025-10-11T22:22:43Z
+  Updated: 2025-10-12T07:22:46Z
   Vendor: lil moo
   Product Type: 
   Availability: Available
@@ -16800,7 +16793,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:26Z
   Total Products: 0
 - [Facebook Product Feed](https://www.littlebambinos.co.nz/collections/facebook-product-feed)
-  Updated: 2025-10-12T03:47:11Z
+  Updated: 2025-10-12T07:47:11Z
   Total Products: 419
 - [Sleepy Doe](https://www.littlebambinos.co.nz/collections/sleepy-doe): A British sleepwear brand specialising in small, organic sleep collections for women and children. Founder Sophie launched Sleepy Doe in 2016 and is a firm believer that often the simple things are the best things in life. She wanted to create a line of long-lasting sleepwear to sit comfortably in any home and to be loved by both adult and child. The collection is made with 100% Organic GOTS certified cotton and all products are proudly manufactured in the U.K supporting independent factories and businesses. // window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-172659890-2'); // ]]>
   Updated: 2025-08-06T22:46:42Z
@@ -17652,8 +17645,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-10-04T11:02:23Z
   Total Products: 10
 - [Labour Day Sale Collection 23](https://www.littlebambinos.co.nz/collections/labour-day-sale-22-excl-connetix-and-by-billie)
-  Updated: 2025-10-12T03:47:11Z
-  Total Products: 1328
+  Updated: 2025-10-12T07:47:11Z
+  Total Products: 1327
 - [Summer Edit](https://www.littlebambinos.co.nz/collections/summer-edit-1): Shop our Summer edit
   Updated: 2025-10-10T11:02:49Z
   Total Products: 501
