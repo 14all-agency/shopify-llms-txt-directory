@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2025-08-16T21:32:57Z
 - Contact Email: support@goldendealpeaks.com
-- Updated At: 2025-10-12T00:00:31.151Z
+- Updated At: 2025-10-12T16:00:29.761Z
 
 ## Products
 
@@ -429,7 +429,7 @@
     Image: https://cdn.shopify.com/s/files/1/0657/1576/5454/files/ce81c7f5-a147-4ff4-a251-efc60da22dec_trans.jpg?v=1758554913
     Price: $12.99 USD
 - [Golden Deal Peaks™ Bluetooth Headband Headphones — Sports / Sleeping Music Eye Mask](https://goldendealpeaks.com/products/golden-deal-peaks™-bluetooth-headband-headphones-sports-sleeping-music-eye-mask): Golden Deal Peaks™ Bluetooth Sleep Headband — Wireless Music Eye-Mask & Sports Headphones Block the light. Keep the beat. Sleep or sweat in comfort. The Golden Deal Peaks™ Bluetooth Sleep Headband combines a soft, elastic eye-mask with low-profile wireless speakers—so you can relax, focus, or work out without bulky earbuds. Drift off to playlists or white noise, take calls hands-free, or power through a run with a secure, no-slip fit. Highlights 2-in-1 design: Light-blocking eye-mask + headband headphones in one sleek piece Wireless freedom: Bluetooth connection for iPhone, Android, tablets, and laptops Side-sleeper friendly: Low-profile/flat speakers sit comfortably between ear and pillow Stay-put comfort: Elastic, breathable knit hugs gently without slipping—great for sleep, travel, yoga, or the gym Built-in controls & mic: Play/pause, volume, skip tracks, and take calls—no phone fumbling Easy care: Remove the speaker module to hand-wash and keep it fresh Use it for Sleep & naps: Block ambient light and listen to calm sounds or white noise Travel: Long flights, trains, or road trips—no pressure from over-ear cups Focus & meditation: Guided sessions without distractions Workouts: Jogging, yoga, stretching—music without dangling wires Fit & care Size: One size, elastic headband Care: Remove the electronics; hand-wash the fabric band, air dry Safety: Do not use while cycling/driving; this is not a hearing-protection device In the box Golden Deal Peaks™ Bluetooth Sleep Headband (music eye-mask style) Charging cable User guide
-  Updated: 2025-10-10T13:11:05Z
+  Updated: 2025-10-12T13:32:22Z
   Vendor: Golden Deal Peaks
   Product Type: 
   Availability: Available
