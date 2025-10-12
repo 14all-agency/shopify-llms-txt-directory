@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2020-04-27T19:06:17Z
 - Contact Email: laurend@skinqri.com
-- Updated At: 2025-10-12T08:00:30.300Z
+- Updated At: 2025-10-12T12:00:30.666Z
 
 ## Products
 
@@ -117,20 +117,20 @@
 ## Collections
 
 - [All Products](https://shop.mykerafactor.com/collections/all-hair-products)
-  Updated: 2025-10-11T11:04:21Z
+  Updated: 2025-10-12T11:04:58Z
   Total Products: 16
 - [Catalogs for the website](https://shop.mykerafactor.com/collections/catalogs-for-the-website)
-  Updated: 2025-10-11T11:04:21Z
+  Updated: 2025-10-12T11:04:58Z
   Total Products: 2
 - [Lashes and Brows by KeraFactor®](https://shop.mykerafactor.com/collections/lashes-and-brows-by-kerafactor): Introducing the newest additions to the KeraFactor family!
 ﻿Elevate your natural beauty with our cutting-edge formulas designed to give you voluminous lashes and perfectly defined brows that make a statement.
-  Updated: 2025-10-11T11:04:21Z
+  Updated: 2025-10-12T11:04:58Z
   Total Products: 2
 - [KeraFlex Laser Cap](https://shop.mykerafactor.com/collections/keraflex-laser-cap)
-  Updated: 2025-10-11T11:04:21Z
+  Updated: 2025-10-12T11:04:58Z
   Total Products: 2
 - [DTC Store](https://shop.mykerafactor.com/collections/dtc-store)
-  Updated: 2025-10-11T11:04:21Z
+  Updated: 2025-10-12T11:04:58Z
   Total Products: 13
 
 ## Blogs
