@@ -6,12 +6,12 @@
 - Timezone: Europe/Madrid
 - Created At: 2022-07-18T15:24:40Z
 - Contact Email: info@hifimediastore.com
-- Updated At: 2025-10-12T16:01:14.396Z
+- Updated At: 2025-10-12T20:01:14.642Z
 
 ## Products
 
 - [Altavoz inalámbrico de conducción ósea Humbird - Hifi Media Store](https://hifimediastore.com/products/bone-conduction-wireless-humbird-speaker): Todo tiene sus propios sonidos Adoptando la tecnología de conducción ósea y la tecnología acústica de bobina móvil, el altavoz Humbird convierte el sonido en una vibración mecánica de diferentes frecuencias, aprovechando los efectos de los distintos materiales sobre los que se coloca y utiliza. Sus vibraciones producen una colección de sonidos realmente original, variable y personalizable a través de la autovibración. Todo tiene su propio sonido, ¿cuántos sonidos has descubierto ya? Hecho para pioneros con buen gusto Debido a su diseño estéticamente notable y compacto, así como a sus impresionantes características, el altavoz HumBird es la elección perfecta para los pioneros con buen gusto que quieren ser los primeros en adoptar la tecnología con un gran aprecio por el diseño inteligente. Portátil y ligero Además de tener un diseño extremadamente bonito, el altavoz HumBird es extremadamente compacto. De hecho, sólo tiene 40 mm de diámetro y pesa tan sólo 35 gramos , siendo sólo ligeramente más grande que una moneda. Puede llevarlo en la cartera, en el bolsillo o incluso colgado del cuello en un collar o en un llavero. Características: Este altavoz te permite escuchar música, seguir podcasts, mantener conversaciones telefónicas individuales o conferencias telefónicas, e incluso disfrutar de una experiencia increíble del sonido de tus juegos, vídeos o películas reproducidos en tu dispositivo. Funciona como un humBird, pequeño pero potente. Ofrece un volumen de sonido elevado, de 4 a 5 veces superior al volumen medio de los altavoces de los teléfonos móviles, alcanzando hasta 115db, y le permite personalizar . Descripción: Colóquelo en la parte superior de diferentes superficies, como una guitarra, una caja de kraft, una caja de almacenamiento de plástico, marcos de fotos, casco deportivo o incluso salpicaderos canprovide que varían de efectos de sonido. Notas: 1. Debido a la diferencia entre diferentes monitores, la imagen puede no reflejar el color real del artículo. Garantizamos que el estilo es el mismo que se muestra en las imágenes. 2. Por favor, permita una ligera diferencia de dimensiones debido a la diferente medición manual. 3. Instrucciones de radio FM: En el modo Bluetooth, pulse brevemente el botón de encendido para cambiar al modo de radio FM, el sonido prompt "modo de radio";Pulse la tecla de función durante 3 segundos para iniciar la búsqueda automática de FM.Después de la búsqueda de la estación se ha completado, el altavoz almacenará automáticamente las estaciones que han sido searched.VVolume control: un solo clic en el botón-disminuir el volumen, haga doble clic en el botón-aumentar el volumen, tres clics en el botón-cambiar las estaciones de radio.(*Antes de iniciar la radio, el cable USB debe ser insertado en el puerto de carga del altavoz como una antena de radio FM, que es mejor para el uso al aire libre). Especificaciones: A prueba de agua: NoControl de voz: NoSoporta tarjeta de memoria: SíTipo de altavoz: PortátilSensibilidad: 115dControl remoto: NoFuente de alimentación: USBPotencia de salida: 3Número de altavoces: 1Número de carriles: Doble carrilNúmero de canales: 2 (2.0)Número de cajas acústicas: 1Protección contra la humedad: NoNúmero de modelo: Humbird Sound Box SpeakerMaterial: AluminioSoporte para tarjeta de memoria: NoMaterial: MetalPotencia de entrada(W): <25 W Display Screen: NoConnec
-  Updated: 2025-09-27T10:43:55Z
+  Updated: 2025-10-12T19:19:02Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -101,7 +101,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/Altavoz_Humbird_Inalambrico_de_Conduccion_Osea_-_Hifi_Media_Store-964943.jpg?v=1722072728
     Price: 39,99 € EUR
 - [E900/E900 Pro Headset Gamer Wired PC USB 3.5mm Microphone 7.1 Surround Hifi Media Store](https://hifimediastore.com/products/e900-e900-pro-headset-gamer-wired-microphone-7-1-surround): There are 2 versions, E900Pro and E900, Only E900 Pro has virtual 7.1 sound on PC by USB cable. Immersive Virtual 7.1 Surround Sound E900 Pro Create an immersive gaming experience with stereo surround sound in the game. Accurate sound positioning, to avoid attack, defeat the enemy to win. Software drivers are easy to download and install for 7.1 surround sound.Note: 7.1 surround sound can only be achieved by using a USB connection to a computer, and 7.1 surround sound cannot be achieved using a 3.5mm audio cable connection, only stereo effectDriver download link:https://www.eksa.net/pages/download Humanized Design Imported soft material memory foam and an ergonomically padded headband allow long gaming sessions without fatigue. It is also very light at 288g, which is lighter and comfortable than most headset. 2 in 1(USB/3.5mm) Plug Type, Compatible with Multiple Platforms E900Pro 2 plug type can compatible with any audio output device, such as Xbox/ps4/pc/cellphone/desktop/notebook/tablet etc, don't need buy 2 headphone, only 1 can enjoy music and gamer. Noise Cancelling Microphone With great sensitivity can catch clear voice and communicate clearly. Easy to Operate E900 Pro, buttons are on headcup, very easy to operate. Widely Use One Any Situation E900 Pro as a professional gaming headset , Because of its long-time wearing comfort and two different sound effects, it can not only be used as a gaming headset, but also is the best choice for you listen to music/watch movies and online classes. Specifications: Plug type: 3.5mm jack/ USBDriver diameter: 50mmSensitivity:118 dB ± 3 dBSpeaker impedance: 16ΩFrequency range: 20Hz-20KhzCable length: 1.8meterHeadphones Net weight: about 250gHeadphone color: black with red led lightMic sensitivity: -42 dB ± 3 dBMic size:4.0*1.5mmMic impedance: 2.2kΩSupply voltage: 3VPower consumption: max 0.5mA E900 Pro Package: 1 x E900 Pro Virtual7.1 gaming headset1 x USB cable1 x 3.5mm audio cable with volume control and mute1 x Pluggable microphone1 x Audio splitter cable1 x User manual1 x Pouch
-  Updated: 2025-06-22T07:51:28Z
+  Updated: 2025-10-12T19:19:03Z
   Vendor: Hifi Media Store
   Product Type: 0
   Availability: Available
@@ -127,7 +127,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/3_5_mm_y_Microfono_-_Hifi_Media_Store-971175.jpg?v=1719010496
     Price: 83,99 € EUR
 - [E900 Headset Gamer with Microphone and 7.1 Surround Sound Hifi Media Store](https://hifimediastore.com/products/e900-headset-gamer-with-microphone-7-1-surround-sound): There are 2 versions ,E900Pro and E900, Only E900 Pro has virtual 7.1 sound on PC by USB cable. Immersive Surround Sound E900 Create an im.mersive gaming experience with stereo surround sound in the game. Accurate sound positioning, to avoid attack, defeat the enemy to win. Humanized design Imported soft protein material memory foam and an ergonomically padded headband allow long gaming sessions without fatigue. It is also very light at 288g, which is lighter and comfortable than most headset. 3.5mm plug type,compatible with multiple platforms E900 plug type can compatible with any audio output device. Noise cancelling microphone With great sensitivity can catch clear voice and communicate clearly. Easy to Operate E900, buttons are on headcup, very easy to operate. Widely use one any situation E900 as a professional gaming headset , Because of its long-time wearing comfort and two different sound effects, it can not only be used as a gaming headset, but also is the best choice for you listen to music/watch movies and online classes. Specifications: Plug type: 3.5mm jack/ USBDriver diameter: 50mmSensitivity:118 dB ± 3 dBSpeaker impedance: 16ΩFrequency range: 20Hz-20KhzCable length: 1.8meterHeadphones Net weight: about 250gHeadphone color: black with red led lightMic sensitivity: -42 dB ± 3 dBMic size:4.0*1.5mmMic impedance: 2.2kΩSupply voltage: 3V Power consumption: max 0.5mA E900 box Package: 1 x E900 Gaming Headset1 x Pluggable Microphone1 x 3.5mm Cable Splitter1 x Operating Instruction1 x Safety Instruction1 x Pouch
-  Updated: 2025-06-22T07:51:28Z
+  Updated: 2025-10-12T19:19:03Z
   Vendor: Hifi Media Store
   Product Type: 0
   Availability: Available
@@ -145,7 +145,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/E900_Headset_Gamer_with_Microphone_and_7.1_Surround_Sound_-_Hifi_Media_Store-971160.jpg?v=1719010457
     Price: 43,99 € EUR
 - [H260 RGB Wired Gaming Headset Hifi Media Store](https://hifimediastore.com/products/h260-rgb-wired-gaming-headset): About this item： Multi-Platform Gaming Headset: Compatible with Xbox One, Nintendo Switch (audio only), PlayStation, PS4, PS5, MAC, PC and Laptop. RGB Backlit: With built-in Volume control and omnidirectional Microphone. Crystal Clear Stereo Sound: The 50mm neodymium directional drivers with 110dB sensitivity deliver Crystal Clear audio precision, while the soft padded Closed ear cups offer advanced passive noise isolation. Lightweight and Comfortable: The headset offers ultimate comfort for prolonged gaming sessions through its low weight and Noise Reducing Closed Ear Cups using Soft Comfortable Signature Memory Foam with highly adjustable headband for perfect fit. Noise Cancelling Microphone: The Microphone offers optimized Noise and Echo Cancelling technology for your Voice Chat during gaming sessions. Comes with 6-foot-long high quality cable, gold plated 3.5mm Audio jack,3.5mm Mic jack & USB-A connector. Product description: H260 Wired RGB Backlit Gaming Headset with Microphone. The H260 wired RGB backlit Gaming Headphone let you hear every detail, just as the game developer intended. Enemy fire, your opponent’s footsteps and you can Focus to Win! Exceptional Wearing Comfort and Customized Fit For eSports pros engaging in long gaming sessions. The Comfortable Signature Memory Foam ensures comfort at all times. Ergonomically adjustable headband ensures superior wearing comfort ensuring a perfect fit for different head sizes and shapes. Features Highlights: * Closed acoustic design * Passive Noise Isolation helps to block ambient noise * 50mm Audio drivers * Adjustable microphone for crystal clear in-game chat * 110dB Sensitivity * Ergonomic design for customized fit * 6 feet high quality cable * Gold plated corrosion free 3.5mm Audio jack,3.5mm Mic jack & USB-A connector * Multi-Platform compatible with Xbox One,PlayStation, PS3, PS4, PS5, MAC, PC, Laptop,Nintendo Switch (audio only)
-  Updated: 2025-06-22T07:51:29Z
+  Updated: 2025-10-12T19:19:03Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -180,21 +180,21 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/XBOX_One_-_Hifi_Media_Store-974784.jpg?v=1719017220
   Price: 66,99 € EUR
 - [H520 Gaming Headset With Noise Cancelling And 7.1 Surround Sound For PC/PS4/Xbox One/Phone Hifi Media Store](https://hifimediastore.com/products/h520-gaming-headset-with-noise-cancelling-and-7-1-surround-sound-for-pc-ps4-xbox-one-phone): Put It On And Listen To The World! Accurate and clear audio-enjoy 7.1 surround sound technology, enjoy true clear and lossless sound quality, whether in the game field, listening to a concert or chat room chat room, you can create an immersive field. The 50mm driver provides a wider frequency range, a richer sound field, greater clarity and extremely high fidelity sound quality. For All Platforms With 3.5mm braided cable, mic/audio splitter cable, and an extra control box USB cable. Styled to match any platform you use, whether PC, PS4/3, Xbox One X/Series X, NS(Some models like S in old version might need an adapter, adapter NOT included), Switch or Mobile Devices. Precisely Clear Audio Enjoy the real clear and lossless sound quality with 7.1 Surround-Sound technology, creating a field of immersion wherever in-game field, listening to an alive concert, or in a chatroom chat room. The 50mm drivers offer a wider frequency range, richer sound fields, higher definition, and extreme fidelity sound. Adjustable And Comfortable Its free-adjustable headband with a lightweight durable made steel frame will free your head from extra burdens when gaming or listening to music. The finest leatherette with premium memory foam filler enables your ear to breathe and keep them dry and cool. No need to worry, even after hours of wear you feel nothing but comfort. All In Control The H520 boasts independent line control with sound volume +/-, on/off and mic on/off. 7.1 surround sound (under software running), and mic on/off status are monitored on the USB cable panel. Talk It Like You Hear It Not only can you hear lossless sound but you can talk it out. The detachable 4mm-thick foam wrapped microphone will surely offer you the clearest communication between teammates or friends, no more distorted sound and boomed mic cases. Tech Specs: Size: 50mm Impedance: 32Ω±15% Sensitivity: 115±3dB Frequency Response: 20-20KHZ Ratred Power: 10-15mW Microphone Size: 6.0x2.7mm Impedance: 2.2KΩ(max) Sensitivity: -42±3dB Frequency Response: 50-10KHZ Type: Omni directional Rated Voltage: 2V Package List: 1 x H520 Headset 1 x Detachable Microphone 1 x In- line Control USB Cable 1 x "Y" Splitter Cable 1 x Storage Case
-  Updated: 2025-06-22T07:51:30Z
+  Updated: 2025-10-12T19:19:04Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/Phone_-_Hifi_Media_Store-975308.jpg?v=1719018018
   Price: 93,99 € EUR
 - [H710 Helios USB Wired Gaming Headset - 7.1 Surround Sound - 50MM Drivers Hifi Media Store](https://hifimediastore.com/products/h710-helios-usb-wired-gaming-headset-7-1-surround-sound-50mm-drivers): Precisely Clear Audio Enjoy the real clear and lossless sound quality with 7.1 Surround-Sound technology, creating a field of immersion wherever in game field, listening to alive concert or in a chatroom chat room. The 50mm drivers offer a wider frequency range, richer sound fields, higher definition and extreme fidelity sound. Adjustable and Comfortable Its free-adjustable headband with lightweight durable made steel frame will free your head from extra burdens when gaming or listening to music. The finest leatherette with premium memory foam filler enables your ear to breathe and keep them dry and cool. No need to worry, even after hours of wear you feel nothing but comfort. Talk it Like You Hear It Not only can you hear lossless sound but you can talk it out. The detachable noise-cancellation microphone will surely offer you the most clear communication between teammates or friends, no more distorted sound and boomed mic cases. Pro EQ Controller The H710 boasts independent EQ Controller with 3 modes, music, movie & game. All dedicated modes can be switched by one hand to meet different needs in any situation. Styled for All Platforms With 3.5mm braided cable built-in USB EQ control box. Styled to match any entertaining/platform you want, listening music, watching movie and playing game on whether PC, PS4, and Switch.
-  Updated: 2025-06-22T07:51:30Z
+  Updated: 2025-10-12T19:19:04Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/H710_Helios_USB_Wired_Gaming_Headset_-_7.1_Surround_Sound_-_50MM_Drivers_-_Hifi_Media_Store-975396.jpg?v=1719018147
   Price: 96,99 € EUR
 - [Headset H510 Zeus 2 Wired Gaming 7.1 For PC PS5/4 / Xbox One / Switch Hifi Media Store](https://hifimediastore.com/products/headset-h510-zeus-2-wired-gaming-7-1-for-pc-ps5-4-xbox-one-switch): Headset H510 Zeus 2 Wired Gaming Headset Precisely Clear Audio Enjoy the real clear and lossless sound quality with 7.1 Surround-Sound technology, creating a field of immersion wherever in-game field, listening to an alive concert, or in a chat room. The 53mm drivers offer a wider frequency range, richer sound fields, higher definition, and extreme fidelity sound. Adjustable And Comfortable Its free-adjustable headband with a lightweight durable made steel frame will free your head from extra burdens when gaming or listening to music. The finest leatherette with premium memory foam filler enables your ear to breathe and keep them dry and cool. No need to worry, even after hours of wear you feel nothing but comfort. Detachable Microphone Not only can you hear lossless sound but you can talk it out. The detachable noise-cancellation microphone will surely offer you the clearest communication between teammates or friends, no more distorted sound, and boomed mic cases. You're In Control The H510 boasts independent line control with sound volume +/-, on/off and mic on/off. All settings can be adjusted by one hand to meet different needs in any situation, make sure you can doing well even in a tense game. Syled For All Platforms With detachable 3.5mm braided cable built-in USB control box and 3.5mm jack input. Styled to match any platform you use, whether PC, PS4/3, Xbox One X(Some models like S in old version might need an adapter, adapter NOT included), Switch or Mobile Devices. Package List: 1 x H510 Headset 1 x Detachable Microphone 1 x 3.5mm Detachable Audio Cable 1 x "Y" Splitter Cable 1 x USB Control Box 1 x Storage Bag 1 x User Manual
-  Updated: 2025-09-08T22:41:42Z
+  Updated: 2025-10-12T19:19:04Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -212,7 +212,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/Switch_-_Hifi_Media_Store-975656.jpg?v=1719018535
     Price: 88,99 € EUR
 - [H510 Zeus X Wired Gaming Headset With RGB Lighting And 7.1 Surround For PC PS4 Hifi Media Store](https://hifimediastore.com/products/h510-zeus-x-wired-gaming-headset-with-rgb-lighting-and-7-1-surround-for-pc-ps4): About this item Precisely Clear Audio - Enjoy the real clear and lossless sound quality with 7.1 Surround-Sound technology, creating a field of immersion wherever in game field, listening to alive concert or in a chatroom chat room. The 53mm drivers offer a wider frequency range, richer sound fields, higher definition and extreme fidelity sound. Adjustable and Comfortable - Its freely adjustable headband with a lightweight and durable steel frame will keep your head from extra burden when playing games or listening to music.The best woven cloth with premium memory foam filler keeps your ears breathing and stays dry and cool.There is no need to worry, even after a few hours of dressing, you only feel comfortable. All in Control - The H510-RGB boasts independent line control with sound volume +/-, on/off and mic on/off. All settings can be adjusted by one hand to meet different needs in any situation, make sure you can doing well even in a tense game. Talk it Like You Hear it - Not only can you hear lossless sound but you can talk it out. The detachable noise-cancellation microphone will surely offer you the clearest communication between teammates or friends, no more distorted sound and boomed mic cases. Warm Prompt： The headphone microphone is non-detachable, the USB cable is non-detachable, and the earmuffs are woven. Specification: Drive Unit dimension: 53MM Controller-on-cable: Yes Speaker impedance: 64 Sensitivity: 98±3dB Rated power: 10mW Frequency range: 50Hz-20Khz Plug type: USB Product weight: 343±5g Cable length:2M±10%M Package List: 1 x H510 X Headset 1 x User Manual
-  Updated: 2025-08-15T07:51:17Z
+  Updated: 2025-10-12T19:19:05Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -238,14 +238,14 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/H510_Zeus_X_Wired_Gaming_Headset_With_RGB_Lighting_And_7.1_Surround_For_PC_PS4_-_Hifi_Media_Store-975235.jpg?v=1719017914
     Price: 70,99 € EUR
 - [SCYLLA H901 GAMING HEADSET Standard OD3.5 Audio Jack With Mic PC Hifi Media Store](https://hifimediastore.com/products/scylla-h901-gaming-headset-standard-od3-5-audio-jack-with-mic-pc): Description: 1. Crystal Clear Sound and Excellent Noise Isolation brings you a total immersion into your gaming session. The 40mm neodymium directional drivers with 113dB sensitivity deliver extreme audio precision, while the soft padded closed ear cups offer advanced passive noise isolation. Perfect for various games like Halo 5 Guardians, Metal Gear Solid, Call of Duty, Star Wars Battlefront, Overwatch, World of Warcraft Legion, etc. 2. Lightweight and Comfortable; The headset offers ultimate comfort for prolonged gaming sessions through its low weight and Noise Reducing Closed Ear Cups, using Soft Comfortable Signature Memory Foam with highly adjustable headband for a perfect fit. 3. Highly adjustable Noise Cancelling Microphone for perfect positioning; the highly adjustable omnidirectional Microphone offers optimized Noise and Echo Cancelling technology for your Voice Chat during gaming sessions. 4. High Quality Cable with Smart In-line Volume control, the 6 foot long high quality cable comes with a gold plated 3.5mm connector and smart in-line volume controller which offers convenient and precise volume control. 5. Compatible with multiple platforms; You can use the H901 SCYLLA Gaming Headset on multiple platforms such as PlayStation 4, PS4, PC Laptop, Tablet, Xbox One, Nintendo Switch. (Stereo Adapter is included)
-  Updated: 2025-06-22T07:51:30Z
+  Updated: 2025-10-12T19:19:05Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/SCYLLA_H901_GAMING_HEADSET_Standard_OD3.5_Audio_Jack_With_Mic_PC_-_Hifi_Media_Store-996527.jpg?v=1719072118
   Price: 43,99 € EUR
 - [Sport Headset Model 8200T with Noise Reduction with Bluetooth USB TV Adaptor Hifi Media Store](https://hifimediastore.com/products/sport-headset-model-8200t-with-noise-reduction-with-bluetooth-usb-tv-adaptor): Advantages: The headphone has the retractable design, which is convenient for storage. It supports Bluetooth 5.0, which can remote control the music playing. With high sensitivity, the microphone provides clear call. It is suitable for mobile phones, laptops, PCs, etc. 2 devices can connect to it simultaneously. Specifications: Model: 8200T Headset with Bluetooth adaptor Uses: wireless headphones, voice headsets. Bluetooth version: . Bluetooth mode support: A2DP 1.2, AVRCP 1.0, HSP, HSF 1.5. Frequency: 2.402-2.480GHZ, 2.4G ISM band. RF performance: receiver sensitivity: -84dBm; transmit power up to 4dBm. Frequency response: 20 Hz-20 KHz. Signal to noise ratio (SNR): 70Db. Total harmonic distortion rate (THD) 0.1%. Power indicator: Red and blue indicators flash alternately. Headphone charging: rechargeable 400MAH lithium battery. Charging port: USB charging interface. Normal charging time: 2.5 hours. Talk time: up to 10 hours. Standby time: up to 10 days. Working temperature: -20 C -55 C. Other features: support status indicator, charging indicator display. Packing list: 1 x Bluetooth headset. 1 x Bluetooth adaptor for TV 1 x charging cable. 1 x 3.5mm audio cable. 1 x user manual.
-  Updated: 2025-09-02T13:12:01Z
+  Updated: 2025-10-12T19:19:06Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -259,7 +259,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/Sport_Headset_Model_8200T_with_Noise_Reduction_with_Bluetooth_USB_TV_Adaptor_-_Hifi_Media_Store-997185.jpg?v=1719077112
     Price: 34,99 € EUR
 - [LY903 Wireless Headphone with Active Noise Cancelling and Bluetooth Adaptor Hifi Media Store](https://hifimediastore.com/products/ly903-wireless-headphone-with-active-noise-cancelling-and-bluetooth-adaptor): 1. Bluetooth function support stereo music playing, phone calling... 2. Support all audio devices that have Bluetooth capability, such as, cell phone ,tablet PC,laptop,computer etc. 3. 3.5mm audio jack, provides a simple wired connection of a variety of devices without Bluetooth. 4. Allow you to answer or reject phone calls anytime and anywhere. 5. Charged via USB, rechargeable battery, convenient and practical. 6. Playing time up to 8 hours, and continue talk time up to 10 hours, standby time up to 300 hours. 7. Good quality, foldable design and adjustable length hinges, very comfortable to wear and easy to carry. 8. Best choice for listening music, watching movie, chatting online etc. 9. Cool shinging outlook adds the fashionable feel. Specifications: Model: 903 ANC Headphone Bluetooth Version: V5.0 Effective range: 10M Talking time: 10 hours Music time: 8 hours Standby time: 300hours Charge time: 3 hours Package Content: 1 x Bluetooth headset 1 x 3.5mm audio cable 1 x Charging cable 1 x User manual
-  Updated: 2025-09-01T09:50:15Z
+  Updated: 2025-10-12T19:19:06Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -281,7 +281,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/LY903_Wireless_Headphone_with_Active_Noise_Cancelling_and_Bluetooth_Adaptor_-_Hifi_Media_Store-983724.jpg?v=1719030547
     Price: 55,99 € EUR
 - [Bluetooth Headphones model L700 with Microphone Hifi Media Store](https://hifimediastore.com/products/bluetooth-headphones-model-l700-with-microphone): Description: L700 wireless headphones use BT V5.1 technology, delivering high speed and stable transmission. It has multiple playback modes, such as BT connection, TF card, and 3.5mm audio cable, allowing you to enjoy endless music. Foldable and adjustable headband length, soft ear cushion, easy for storage, and comfortable to wear for a long time. Also, built-in microphone enables hands-free calls, delivering clear and real talking sound. Specifications: Model Number: L700 BT Version: V5.1 Operation Range: 10 Meters Speaker Unit: 40mm Frequency Response: 20Hz-20kHz Impedance: 32Ω Sensitivity: 108+/-3dB Music Time: about 18-40 hours Charging Time: about 2-3 Hours Charging Port: Micro USB Color: Black, Blue , Pink, Gray Green (Optional) Packing list: 1 x Bluetooth headphone 1 x Charging cable. 1 x 3.5mm audio cable. 1 x User manual
-  Updated: 2025-06-22T07:51:31Z
+  Updated: 2025-10-12T19:19:06Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -307,7 +307,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/Bluetooth_Headphones_model_L700_with_Microphone_-_Hifi_Media_Store-969646.jpg?v=1719006937
     Price: 41,99 € EUR
 - [VJ320 Wireless Headphones With Bluetooth Adaptor Hifi Media Store](https://hifimediastore.com/products/vj320-wireless-headphones-with-bluetooth-adaptor): Description: The delivered audio cable can be connected a computer and various audio equipment. Foldable wireless headphones with Bluetooth 5.0 chip. Bluetooth, TF card and radio, 3 modes. Over Ear Soft Memory Earpads, It is comfortable to wear. Support 10H Playtime for Bluetooth Wireless, Hi-Fi Sound. Bass Dual 40mm drivers provide you with deep, accurate bass response for sound that's crisp, powerful & kept within a soundproof design to help you enjoy your music better. Wired mode you can also use it as a wired headphone with the provided audio cable so the headphone will never power off. Specifications: Model: VJ320 with bluetooth adaptor Bluetooth Version: V5.0 Frequency: 2.40GHz-2.48GHz Power: ≤ 4 dBm, class 2 Effective range: 10-15M Sensitivity: 100dB Frequency response: 20 Hz - 20 KHz S/N rate: 85dB Distortion: 0.10% Speaker size: 40mm Transfer Protocol :support A2DP 1.2, AVRCP 1.0, HSP, HSF 1.5 Music time: about 10-12 hours Standby time: about 200 hours Charge time: 2-3 hours Operate temperature: -4 ~ +131°F(-20 ~ +55°C) Switch mode :bluetooth /radio/TF card Product weight : about 350g Bluetooth version: 5.0 Bluetooth call: yes Package Content: 1 x Bluetooth headphone 1 x Bluetooth 5.0 adaptor 1 x Charging cable 2 x Audio cable 1 x User manual
-  Updated: 2025-06-22T07:51:31Z
+  Updated: 2025-10-12T19:19:06Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -329,7 +329,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/VJ320_Wireless_Headphones_With_Bluetooth_Adaptor_-_Hifi_Media_Store-998846.jpg?v=1719085216
     Price: 40,99 € EUR
 - [B39 Wireless Headphones Hifi Media Store](https://hifimediastore.com/products/b39-wireless-headphones): Specifications: Model: B39 with Bluetooth adaptor Uses: wireless headphones, voice headsets. Bluetooth version: V5.0. Bluetooth mode support: A2DP 1.2, AVRCP 1.0, HSP, HSF 1.5. Frequency: 2.402-2.480GHZ, 2.4G ISM band. RF performance: receiver sensitivity: -84dBm; transmit power up to 4dBm. Frequency response: 20 Hz-20 KHz. Signal to noise ratio (SNR): 70Db. Total harmonic distortion rate (THD) 0.1%. Power indicator: Red and blue indicators flash alternately. Headphone charging: rechargeable 400MAH lithium battery. Charging port: USB charging interface. Normal charging time: 2.5 hours. Talk time: up to 10 hours. Standby time: up to 20 days. Working temperature: -20 ° C -55 ° C. Other features: support status indicator, charging indicator display. Package Content: 1 x Bluetooth Headphone 1 x Bluetooth adaptor for TV 1 x Charging cable. 2 x 3.5mm audio cable. 1 x User manual
-  Updated: 2025-08-05T06:28:16Z
+  Updated: 2025-10-12T19:19:07Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -359,7 +359,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/B39_Wireless_Headphones_-_Hifi_Media_Store-968820.jpg?v=1719005125
     Price: 36,99 € EUR
 - [P47 Wireless Headset with Bluetooth Adaptor Hifi Media Store](https://hifimediastore.com/products/p47-wireless-headset-with-bluetooth-adaptor): Description: Impressive Sound The High-fidelity stereo sound benefits from the 40 mm powerful driver. And the around-ear cushion design take you lose in the music! Support Wireless & Wired The wireless mode: Battery update to 4-8hour music time/talking time in a single charge. The Wired mode: You can also use it as a wired headphone with the provided audio cable. Portable Adjustable Design The adjustable Headband is not only designed for saving your desk space but for carrying in the provided bag. If you want use to watch TV in night, select Headphones with TV Bluetooth adaptor, then you can Watch TV not effect your family rest. Specifications: Model: P47 with bluetooth adaptor Bluetooth Version: V5.0 Effective range: About 10M Sensitivity: 90dB Speaker size: 40mm Music time: About 4-8 hours Charge time: 2-3 hours Packing list: 1 x P47 Bluetooth headphones 1 x Wireless Bluetooth Adaptor 1 x Charging cable 1 x 3.5 audio cable 1 x User manual
-  Updated: 2025-09-18T14:37:29Z
+  Updated: 2025-10-12T19:19:07Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -2578,7 +2578,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/K3_Portable_Bluetooth_Speaker_-_Hifi_Media_Store-982157.jpg?v=1719028056
   Price: 33,99 € EUR
 - [G90 Speaker Alarm Clock with Radio and LED Lights](https://hifimediastore.com/products/g90-speaker-alarm-clock-with-radio-and-led-lights): Colorful RGB LED Light Alternately emit colorful lights, which is attractive in the dark. Enhance the atmosphere of watching movies and playing games. Dual Alarm Clock Dual alarms can separate your waking-up time from your partner and are suitable for your timetable. Wake up to buzzer or radio should your preference. Hi-Fi Stereo Built-in 3w full range horn with bass diaphragm, DSP technology bring amazing clarity and precision, let you enjoy all the details of dialogue, music and movies. Heavy Bass With bass radiator further enhance the sound quality. Vocal for an unmatched listening experience. LED Auto Sensor Screen Move within 4 meters in front of the speaker screen and the screen will automatically light up. Turn off automatically after 10 seconds. Long Time Standby Built high capacity 2000mAh battery, support for music playback up to 18 hours. Bluetooth 5.0 Built-in Bluetooth 5.0 chip, auto-pairing when turn on, with more than 10 meters connection distance,compatible with all bluetooth devices. Portable Mini Size It is small, does not occupy space, enough for you pick it up only a palm,or packed in your bag carrying outdoors. FM Radio Built-in FM radio feature lets you select from a wide range of free stations to listen to the news, talk shows, broadcasts, etc. Hands Free Call You can easy pick up a call in car, bathroom, home or office, anywhere during connected to your smart phone. Support SD/TF Card Support TF Card plug and play, support up to 32G. Color Optional 4 Colors for your preference. Easy Button Control You can press buttons to turn on/off, play/pause, switch mode, skip songs, adjust volume etc. Specifications: Bluetooth Version: V5.0 Built in Voltage: 3.7V Frequency Response: 150HZ-20KHZ Play Mode: Bluetooth, AUX, TF Cards, FM Size: 85*85mm Signal-to-noise ratio: ≥90DB Battery Capacity: 2000mAH Charging Voltage: 5V/500mA Play time: 12-18H Waterproof Level: IPX5 Waterproof: Yes Voice Control: No Tweeter material: Metal Support Music Format: mp3, WAV, WMA, FLAC, APE Support Memory Card: Yes Support Apt-x: No Speaker Type: Portable Remote Control: No Power Source: AC,Battery,USB Playback Function: Radio,mp3 Output Power: 3W Number of Loudspeaker Enclosure: 1 Model Number: LED Bluetooth Speaker Material: Plastic Listening/Talking Time: 10-12 hours Interface Type: USB Input Power(W): <25 W Frequency Range: 70Hz-20KHz Distortion rate: 1% Display Screen: Yes Control: Volume control,Playback,Input selector Connection: SD/TF Card Communication: bluetooth Codecs: sbc,AAC Charging Time: 2-3 hours Channels: 2 (2.0) Certification: CE,FCC,RoHS Cabinet Material: Plastic Built-in Microphone: Yes Battery: Yes Package Content: 1 X Bluetooth Speaker1 X USB Charge Cable1 X Manual Instruction
-  Updated: 2025-06-22T07:52:01Z
+  Updated: 2025-10-12T19:18:39Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -2596,7 +2596,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/G90_Speaker_Alarm_Clock_with_Radio_and_LED_Lights_-_Hifi_Media_Store-973304.jpg?v=1719014880
     Price: 29,99 € EUR
 - [TG117 Wireless Portable Speaker With FM Radio](https://hifimediastore.com/products/tg117-wireless-portable-speaker-with-fm-radio): Function key operation introduction: 1. Switch music or FM: Short press the M key. 2. Previous/Next: Short press the volume key. 3. Volume up/down: Long press the volume key. To enter FM radio mode: Short press "M key" to enter FM mode. 1. Short press the power button for the first time to automatically search, and the radio station will be automatically saved after the search is completed, please wait patiently. A second short press of the power button can stop the search early. (It will take a few minutes to search all stations. After the search is complete, you can press the volume buttons to switch to your preferred channel). 2. Switch channel: Short press the volume key. 3. Volume up/down: Long press the volume key. Note: In FM radio mode, the audio cable will be better when plugged into the charging port as an FM antenna, please insert an audio cable to increase the radio signal strength, the radio effect will be better. TWS serial port mode: 1. 2 speakers of the same model are turned on at the same time. 2. Immediately after powering on, press and hold the M key of any speaker until the sound is emitted, which means the pairing of the speakers is completed. Call Function Noise canceling microphone makes you answer calls without reaching your phone. Battery 1200 mAh battery for up to 8~10hours of playtime at 2/3 volume on a full charge. Specifications: Waterproof: Yes Voice Control: Yes Support Memory Card: Yes Support Apt-x: Yes Speaker Type: Portable Sensitivity: 85dB Remote Control: No Power Source: Battery,USB Playback Function: Radio,mp3,FLAC,WAV PMPO: 10W Output Power: 10W Number of Loudspeaker Enclosure: 2 Model Number: TG117 Input Power(W): <25 W Impedance: 4-6 Ohm Frequency Range: 100Hz-20KHz Display Screen: No Control: Volume control Communication: AUX,USB,bluetooth,Audio Line Codecs: sbc,AAC Channels: 3 (2.1) Certification: CE Built-in Microphone: Yes Bluetooth Version: 5.0 Battery: Yes Bluetooth distance: <33Ft Support: FM, TF card input, U disk input, 3.5mm audio input Extended memory: 32G(Not included) Battery capacity: 1200mAh Charging Time: 2-3 hours Listening/Talking time: 8-10hours Waterproof level: IPX5 Charging parameters: 5V Support music format: MP3, wav, wma, FLAC, APE Signal to noise ratio: ≧95dB Distortion rate: <0.5% Material: ABS Package Content: 1 x TG117 Speaker 1 x USB Cable 1 x Audio Cable 1 x User Manual
-  Updated: 2025-06-22T07:52:01Z
+  Updated: 2025-10-12T19:18:39Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -2626,7 +2626,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/TG117_Wireless_Portable_Speaker_With_FM_Radio_-_Hifi_Media_Store-997887.jpg?v=1719080643
     Price: 36,99 € EUR
 - [TG106 - Altavoz Inalámbrico Portátil](https://hifimediastore.com/products/tg106-wireless-portable-speaker): Llamada de Voz con Manos Libres Micrófono con cancelación de ruido DSP, puedes contestar llamadas sin alcanzar tu teléfono. Tiempo de Reproducción Prolongado Batería recargable de alta capacidad de 1200 mAh para hasta 10 horas de reproducción a 2/3 del volumen con una carga completa. Función FM Busca canales FM automáticamente, escúchalos libremente en cualquier lugar y en cualquier momento. Graves Mejorados Los radiadores pasivos duales y la tecnología mejorada funcionan en conjunto. Para aumentar los graves en tiempo real, incluso a volúmenes bajos. Sonido Estéreo de 5 W El sonido estéreo hace que tu música suene más inmersiva. Y mejora la atmósfera tanto en espacios interiores como exteriores. Altavoz Portátil Altavoz ultraportátil de mano, muy adecuado para viajes, senderismo, ciclismo, montañismo... Hay una base en el lateral, que se puede colocar sobre una mesa. 4 Modos de Reproducción No solo es compatible con Bluetooth, también puedes disfrutar de música desde Micro SD de hasta 32 GB, tarjeta TF (no incluida) y AUX. Especificaciones: Resistente al agua: SíControl por voz: No Admite tarjeta de memoria: SíSoporta Apt-x: No Tipo de altavoz: PortátilControl Remoto: No Fuente de alimentación: Batería, USBFunción de reproducción: Radio, mp3, FLAC, WAV Potencia de salida: 5WNúmero de cajas acústicas: 2 Modelo: TG106 Material: Plástico Potencia de entrada(W): <25 W Impedancia: 2-4 Ohm Rango de frecuencias: 100Hz-20KHz Pantalla de visualización: No Comunicación: AUX, USB, bluetooth, Audio Line Códecs: AACCanales: 3 (2.1) Certificación: CE Micrófono incorporado: SíVersión Bluetooth: 5.0 Batería: SíAlcance del Bluetooth: 10MetrosRelación audiofrecuencia/ruido:>= 90dBCapacidad de la batería: 1200mAhTensión integrada: 3.7VReproducción: 8-10HTamaño de la bocina: 45mm*2Entrada de carga: 5V/500maPeso del producto individual: 405GTamaño del producto:160*67.5*69MM Contenido del paquete: 1 x Altavoz TG1061 x Cable de audio auxiliar1 x Cable de carga USB
-  Updated: 2025-10-02T01:37:06Z
+  Updated: 2025-10-12T19:18:39Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -2652,7 +2652,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/TG106_-_Altavoz_Inalambrico_Portatil_-_Hifi_Media_Store-997835.jpg?v=1719080539
     Price: 44,99 € EUR
 - [TG157 Portable Bluetooth Speaker With LED Lights](https://hifimediastore.com/products/tg157-portable-bluetooth-speaker-with-led-lights): Superior Shockproof Material Speaker is made of engineer plastic, shockproof, keep intact even falling onto the floor. Covered by special dustproof and waterproof mesh. FM function Support FM radio, you can directly search the stations in the listening area. Bass diaphragm 360° stereo 1. 5W x 2 big power with two bass diaphragms on each side, vibrate when playing music. 2. Cylindrical shape and built-in left and right channel offer 360° stereo. 4 Play Modes Not only by Bluetooth-compatible, you also can enjoy music from up to 32GB Micro SD, TF card (not provided) and AUX. IPX5 Waterproof: TG157 provides the soundtrack for any adventure. Its IPX5 waterproof protection defends it against rain, snow, mud and more. The Music Goes On and On A 1200mAh Li-ion battery with technology and safety system gives you up to 10 hours of non-stop music on a single charge. Bluetooth-compatible 5.0 The latest Bluetooth-compatible version delivers a stronger, more stable connection for seamless streaming. Handsfree voice call DSP noise cancelling mic, you can answer call without reaching your phone. Beat-Driven Light Show A multicolored LED ring beats, pops, and phases in time to your music. Watch a halo of LEDs phase, pulse, and shine with the rhythm of your music for a completely immersive audiovisual experience.Multiple customizable modes elevate the atmosphere of any event or setting. Specifications: Waterproof: IPX5 Usage time: 8-10hours Wireless transmission range: 10M Waterproof: Yes Support Memory Card: Yes Support Apt-x: Yes Speaker Type: Portable Sound quality: bass Sensitivity: 80dB Remote Control: No Power Source: Battery,USB Playback Function: Radio,mp3,FLAC,WAV PMPO: 10W Output Power: 10W Number of Loudspeaker Enclosure: 1 Model Number: TG157 Material: Plastic Input Power(W): <25 W Impedance: 4-6 Ohm Frequency Range: 100Hz-20KHz Feature: Play Video Display Screen: No Communication: AUX,USB,bluetooth,Audio Line Channels: 2 (2.0) Certification: CE Cabinet Material: Plastic Built-in Microphone: Yes Bluetooth Version: 5.0 Battery: Yes Audio Crossover: Full-Range Charging voltage: DC 5V-500mah Battery capacity:built-in 1200mAh/3.7V Normal volume playing time:8-10H Speaker: ￠45MM＊2 Power: 5W *2 S/N Ratio:≥90db Product Weight: 490g Package List: 1 x 157 speaker 1 x Charge cable 1 x AUX cable
-  Updated: 2025-10-03T07:09:29Z
+  Updated: 2025-10-12T19:18:40Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -2678,14 +2678,14 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/TG157_Portable_Bluetooth_Speaker_With_LED_Lights_-_Hifi_Media_Store-997927.jpg?v=1719080729
     Price: 57,99 € EUR
 - [Bluetooth Portable Speaker with Radio Receiver](https://hifimediastore.com/products/bluetooth-portable-speaker-with-radio-receiver): Features: 1. With Wireless 5.0 chip, the transmission is faster and more stable, and the power consumption is lower. 2. Support TF Card Play, USB Play, FM/AM/SW radio. 3. With 8W high-power full range speaker and bass diaphragm, to sure the clear and bright sound quality. 4. With retractable radio antenna, it can enhance the reception of radio signal, and the radio effect is better. 5. Support caller hands-free function. 6. Top mobile phone rack function design, can place mobile phone / tablet and other electronic equipment. How To Use? Power on: Turn the knob to the right to power on. Switch music or radio mode: Short press the M key to switch. Toggle FM/AM/SW: In radio mode, the default is FM, and the knob can be adjusted. Click AM or SW to switch. Specifications: Woofer/Widerange material: Other Waterproof: No Voice Control: No Tweeter type: HORN Tweeter material: Other Total Harmonic Distortion: 1% Support Memory Card: Yes Support Apt-x: No Speaker Type: Portable Sensitivity: 95dB Subwoofer cabinet material: Metal Remote Control: No Power Source: Battery Playback Function: Radio,mp3 PMPO: 8W Output Power: 8W Number of Loudspeaker Enclosure: 1 Mid-range material: Other Material: Plastic Input Power(W): <25 W Impedance: 2-4 Ohm Frequency Range: 2KHz-30KHz Display Screen: Yes Control: Volume control Communication: AUX,USB,bluetooth Codecs: AAC Channels: 1 Cabinet Material: Plastic Built-in Microphone: Yes Bluetooth Version: 5.0 Battery: Yes Audio Crossover: Full-Range Acoustic enclosure: Other Working Distance: 10 meters Loudspeaker: Φ67mm 4Ω 8W Battery capacity: 1200mAh Charging time: 2-3 hours Working hours: 5-12 hours Product size: 200*62*90mm Package Content: 1 x Wireless speaker 1 x Charging cable 1 x Packing Box
-  Updated: 2025-09-10T06:42:54Z
+  Updated: 2025-10-12T19:18:40Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/Bluetooth_Portable_Speaker_with_Radio_Receiver_-_Hifi_Media_Store-969747.jpg?v=1719007175
   Price: 36,99 € EUR
 - [TG506 Mini Portable Bluetooth Speaker Wireless](https://hifimediastore.com/products/tg506-mini-portable-bluetooth-speaker-wireless): Specifications: Waterproof: IPX5 Voice Control: No Support Memory Card: Yes Support Apt-x: No Speaker Type: Portable Sensitivity: 85dB Remote Control: No Power Source: Battery,USB Playback Function: Radio,mp3,DVD PMPO: 5W Output Power: 5W Number of Loudspeaker Enclosure: 1 Model Number: TG506 Material: Plastic Input Power(W): <25 W Frequency Range: 100Hz-20KHz Display Screen: No Communication: AUX,USB,bluetooth,Audio Line Channels: 1 Certification: CE Cabinet Material: Plastic Built-in Microphone: Yes Battery: Yes Audio Crossover: Full-Range 5W x 2 big power with two bass diaphragms on each side, vibrate when playing music. Cylindrical shape and built-in left and right channel offer 360° stereo. FM receiver makes you listen to the radio freely. Support MP3, WMA, WAV, FLAC, APE format music files. Support TF Card or micro SD Card up to 32G, support USB 2.0 Disk. Support USB flash disk plug and play. Support external MP3 / MP4 / computer and other audio input function (AUX) TWS function, you can connect two speakers with one phone sync. Easy button control, you can press buttons to turn on/off, play/pause, switch mode, skip songs, adjust volume etc. Bluetooth 5.0, fast connection and stable signal, compatible with all Bluetooth devices. 400 mAh battery for up to 2-5 hours of playtime on a full charge. It's not only a bluetooth speaker, but also a radio, a wired speaker, a bass boom box. Bluetooth distance: <33Ft Support: FM, TF card input, U disk input, 3.5mm audio input Extended memory: 32G(Not included) Battery capacity: 400mAh Charging Time: 1-2 hours Listening/Talking time: 2-5hours Waterproof level: IPX5 Charging parameters: 5V Signal to noise ratio: ≧95dB Distortion rate: <0.5% Material: ABS, mesh Package List: 1 x Portable Bluetooth Speaker 1 x USB Cable 1 x Audio Cable 1 x User Manual
-  Updated: 2025-06-22T07:52:02Z
+  Updated: 2025-10-12T19:18:40Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -2711,7 +2711,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/TG506_Mini_Portable_Bluetooth_Speaker_Wireless_-_Hifi_Media_Store-998364.jpg?v=1719082259
     Price: 38,99 € EUR
 - [F216 Portable Bluetooth Speaker  With FM Radio](https://hifimediastore.com/products/f216-portable-bluetooth-speaker-with-fm-radio): Characteristics: 1. High power 5W with bass diaphragms. 2. Call function, noise canceling microphone allows you to answer calls without reaching the phone. 3. FM radio allows you to listen to radio freely. (In radio mode, press the play / pause button for 3 seconds, it will automatically search and store radio stations.) 4. Support TF card or misro SD card up to 32G, support USB 2.0 disk. 5. Support USB flash drive plug and play. 6. Support external MP3 / MP4 / computer and other audio input (AUX) functions 7. Bluetooth-compatible 5.0, fast connection and stable signal, compatible with all bluetooth devices. 8. 1200mAh battery provides up to 8 hours of playback at 2/3 volume when fully charged. 9. Support TWS connection function, two speakers are connected at the same time to create a real stereo sound system (press the "+" or "-" button twice after booting). Specifications: Waterproof: No Voice Control: No Support Memory Card: Yes Support Apt-x: No Speaker Type: Portable Remote Control: No Power Source: Battery,USB Playback Function: Radio,mp3 PMPO: 5W Output Power: 5W Number of Loudspeaker Enclosure: 1 Model Number: F216 Material: Plastic Input Power(W): <25 W Frequency Range: Other Feature: Phone Function,Play Video Display Screen: Yes Communication: AUX,USB,bluetooth,Audio Line Channels: 1 Certification: CE,NONE Cabinet Material: Plastic Built-in Microphone: Yes Bluetooth Version: 5.0 Battery: Yes Audio Crossover: Full-Range Bluetooth distance: <33 feet Supports: FM radio, TF card, AC input, U disk USB input, 3.5mm AC audio input, TWS in-ear headphones Expanded Memory: 32G (not included) Battery capacity: 1200mAh Charging time: 2-3 hours Listening / Talking Time: 6-8 hours Product size: 171 * 63 * 73mm Package List: 1 x Speaker 1 x Charging cable
-  Updated: 2025-06-22T07:52:02Z
+  Updated: 2025-10-12T19:18:41Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -2729,7 +2729,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/F216_Portable_Bluetooth_Speaker_With_FM_Radio_-_Hifi_Media_Store-971991.jpg?v=1719012581
     Price: 34,99 € EUR
 - [T6 Mini Portable Speaker](https://hifimediastore.com/products/t6-mini-portable-speaker): 360° Surround Sound Stunning 360° surround sound for a room-filling experience. IPX6 Water Resistant Rain or even heavy splashes of water won't interrupt your music. True Wireless Stereo Makes It Even Better Pair two T6 Mini wirelessly for true stereo sound. Grab and Go Ultra-portable enough to be taken anywhere, like outdoor gatherings, poolside or any other adventures. Unmatched Bass A passive radiator works with a custom magnetic levitating driver to produce deep bass with detailed clarity. All-Day Playtime Play more than 500 songs in 24 hours on just a single charge (On a 50% volume level). Most Stable Connection The latest Bluetooth 5.0 provides the most stable connectivity to keep you free from tangled wires. Voice Assistant Access Siri or Google now for help from your speaker via the built-in microphone. *Hold the Play/Pause button for 5 seconds to activate your personal assistant. USB-C Charge Use the same cable with your other USB-C device, without carrying one more cable on-the-go. Specifications: Waterproof: IPX6 Waterproof Portable Speaker Voice Control: Yes Voice Assistant: Support Voice Assistant True Wireless Stereo: Yes Surround Sound: 360 Degree Surround Sound Support Memory Card: Yes Support Apt-x: No Speaker Type: Portable Remote Control: No Power Source: DC,Battery Playback Function: mp3,FLAC,APE Play-time: Up to 24 Hours Play-time PMPO: 15W Output (watt): 15W max. Number of Loudspeaker Enclosure: 1 Micro SD: Supports TF/Micro SD Material: Plastic Model: T6 Mini Bluetooth Speaker Input Power(W): <25 W Display Screen: No Communication: AUX,bluetooth Channels: 2 (2.0) Certification: CE,FCC,RoHS Cabinet Material: Plastic Built-in Microphone: Yes Bluetooth Version: 5.0 Battery: 2500 mAh Battery: Yes Audio Crossover: Full-Range Bluetooth compatibility: A2DP / AVRCP / HFP Transmission distance: Up to 30m/100ft (open area) Frequency range: 20Hz - 16000Hz Waterproof: IPX6 Playtime: Up to 24 hours (50% volume level) Talk time: Up to 20 hours (50% volume level) Charge input: DC 5V/2.1A Charging time: About 3 hours Dimension: 92 x 92 x 120 mm / 3.62 x 3.62 x 4.72 inches Weight: 560 ± 5 g / 19.8 ± 0.2 oz Package Content: 1 x T6 Mini bluetooth speaker 1 x USB C charging cable 1 x 3.5mm audio cable 1 x User manual
-  Updated: 2025-09-18T00:07:53Z
+  Updated: 2025-10-12T19:18:42Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -2751,7 +2751,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/T6_Mini_Portable_Speaker_-_Hifi_Media_Store-997544.jpg?v=1719078970
     Price: 51,99 € EUR
 - [Element Mega Bluetooth Portable Speaker 40W  with Touch Control](https://hifimediastore.com/products/element-mega-bluetooth-portable-speaker-40w-with-touch-control): Intuitive Touch Panel with Gesture Control Fully integrated touch panel with unique slide-to-control volume mechanism. High-fidelity Sound 28 core high-fidelity large subwoofer horn capable of producing louder output up to 40W. Pitch Perfect Sound 3D digital sound integrated with DSP technology for pitch-perfect output in any setting of your living environment. SoundPulse Technology Give your party an extra boost with SoundPulse™ SoundPulse™ technology delivers a 40W max output making the bass deeper, and vocals more define. True Wireless Stereo (TWS) Compatible with True Wireless Stereo (TWS). Connect two Mega speakers simultaneously with your paired device for a true stereo sound effect. Supports NFC Connect and stream music easily with one-touch NFC technology. Bluetooth 5.0 Equipped Bluetooth 5.0 for optimal connection with all your device. Offers the latest connectivity option for more stable connection & better range. Up to 15 hours of play time Music lasts for up to 15 hours on a single charge. Voice Assistant With a simple button tap, you can activate and talk to your device’s Voice Assistant now from the speaker. Note: Extreme temperatures will harm the battery. (Recommended temperatures for use -20° to 60°C or -4° to 140°F, for recharge 0° to 40°C or 32° to 104°F.) Specifications: Woofer/Widerange material: Other Waterproof: No Voice Control: Yes Type: Bluetooth Speaker Total Harmonic Distortion: 1% Support Memory Card: Yes Support Apt-x: No Speaker Type: Portable Subwoofer cabinet material: Plastic Remote Control: No Power Source: DC,Battery Playtime: Up to 15 hours Playback Function: mp3,FLAC,APE,Other PMPO: 40W Output Power: 20W x 2 Number of Loudspeaker Enclosure: 1 MicroSD Card: Support Material: Plastic Input Power(W): <25 W Impedance: 4 Ohm Display Screen: No Communication: AUX,USB,NFC,bluetooth Channels: 2 (2.0) Certification: CE,FCC,RoHS Cabinet Material: Plastic Built-in Microphone: Yes Bluetooth Version: 5.0 Battery: Yes Model: Element Mega Bluetooth: 5.0 Transmission Range: 30m (Open field) Battery: 3300mAh x 2 Power Supply: 5V/2.1A Frequency Response: 115Hz-13KHz Distortion: ≤1.0% Driver Unit: 4Ω 20W/53mm Playing Time: Up to 15 hours Dimensions: 193mm x 57mm x 82mm Weight: 662.3g (with built-in lithium polymer battery) Package Content: 1 x Element Mega Bluetooth Speaker 1 x User manual 1 x USB cable 1 x Aux cable
-  Updated: 2025-06-22T07:52:03Z
+  Updated: 2025-10-12T19:18:42Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -2769,7 +2769,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/Element_Mega_Bluetooth_Portable_Speaker_40W_with_Touch_Control_-_Hifi_Media_Store-971787.jpg?v=1719012066
     Price: 87,99 € EUR
 - [T6 Max Bluetooth Portable Speaker 60W with Deep Bass](https://hifimediastore.com/products/t6-max-bluetooth-portable-speaker-60w-with-deep-bass): Intuitive Touch Control Integrated lighting touch panel offers convenient tapping control, and lets you easily recognize the buttons even in a dark room. Personal Assistant Access Siri or Google to check your calendar, schedule, alarms, reminders, and more from the speaker with a simple tap. Wireless with Bluetooth and NFC Playing music wirelessly via Bluetooth or simply touch your NFC-enabled smartphone to the speaker and get the music streaming seamlessly. 360-degree Surround Sound With the finely engineered position of 4 tweeters and 1 woofer inside, the T6 Max delivers well-balanced surround sound to ensure that everyone can enjoy the equally excellent sound, from any angle. Unrivalled Deep Bass A custom-designed array of 8 passive radiators delivers monstrous sound along with the hardest hitting bass that you will not only hear but also feel it, even in a low level of volume. SoundPulse™ Technology SoundPulse™ technology delivers a 60W max output making every beat of bass more intense, more detailed, and more define. Tri-Bass Effects ﻿Hear your music in 3 different equalizer audio modes that can suit any music genre. Up to 20H Playtime Built-in rechargeable 12,000mAh Li-ion battery gives you up to 20 hours of continuous playtime on a single charge. *On 50% volume level. True Wireless Stereo Wirelessly connect two T6 Max speakers for an extraordinarily elevated audio listening experience. Enjoy the true home theatre surround sound. IPX5 Splashproof With an IPX5 rating, T6 Max stands up to sweat, splashes and rain. Elegant Craft. Iconic Decor Designed in a classic cylindrical form and crafted in premium aluminum alloy and fabric finish for a truly elegant look and feel. It's an iconic decoration at home. Specifications: Waterproof: IPX5 Waterproof Waterproof: Yes Voice Control: Yes Voice Assistant: Support Voice Assistant True Wireless Stereo: Yes Support Memory Card: No Support Apt-x: No Speaker Type: Portable Remote Control: No Power Source: DC,Battery Playback Function: mp3,FLAC,APE,Other Play-time: Up to 20 Hours Play-time PMPO: 60W Output: 60W Number of Loudspeaker Enclosure: 1 NFC: Support NFC Material: Plastic Model: T6 Max Bluetooth Speaker Intelligent Personal Assistant: Apple's Siri Input Power(W): <25 W Display Screen: No Deep Bass: Unrivaled Deep Bass Control: Volume control,EQ Communication: AUX,bluetooth Channels: 2 (2.0) Certification: CE,FCC,RoHS Cabinet Material: Plastic Built-in Microphone: Yes Bluetooth Version: 5.0 Battery: Yes Battery: 12000 mAh Audio Crossover: Full-Range Acoustic enclosure: Other Model: Tronsmart T6 Max Bluetooth Speaker Charging time: About 6 hours Charge input: DC 5V/3A, 24V/0.65A Transmission distance: 10m / 33ft (open area) Frequency range: 40Hz - 20KHz Radio frequency: 2.402 - 2.483G Bluetooth profile : A2DP V1.3, AVRCP V1.6, GAVDP V1.3, HFP V1.7, HID V1.1, IOPT, SPP V1.2 Dimension: 140 x 140 x 193 mm / 5.51 x 5.51 x 7.60 inches Weight: 1.982kg / 69.91oz Package Content: 1 x T6 Max Bluetooth speaker 1 x USB-C charging cable 1 x 3.5mm audio cable 1 x User manual
-  Updated: 2025-06-22T07:52:04Z
+  Updated: 2025-10-12T19:18:43Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -2791,7 +2791,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/T6_Max_Bluetooth_Portable_Speaker_60W_with_Deep_Bass_-_Hifi_Media_Store-997540.jpg?v=1719078958
     Price: 148,99 € EUR
 - [Groove 2 Bluetooth Portable Speaker with LED Light](https://hifimediastore.com/products/groove-2-bluetooth-portable-speaker-with-led-light): Groove 2 Bluetooth Speaker Portable with True Wireless Stereo 1. Captivating Bass. 2. Diverse Light Modes. 3. Convenient Carabiner. 4. IPX7 Waterproof. 5. True Wireless Stereo Pairing. 6. Dual EQ Modes. Specifications: Waterproof: Yes Waterproof: IPX7 Voice Control: No Type: Portable Speaker Tweeter type: Cone Total Harmonic Distortion: 1% Support Memory Card: No Support Apt-x: No Speaker Type: Portable Sensitivity: 20dB Subwoofer cabinet material: Plastic Remote Control: No Power Source: Battery Playtime(Varied by Volume Level & Audio Content): Up to 18 Hours(LED Off) & Up to 6 Hours(LED On) Playback Function: mp3 PMPO: 10W Output Power: 10W Number of Loudspeaker Enclosure: 1 Model: Groove 2 Speaker Mid-range material: Other Material: Plastic Input Power(W): <25 W Input Power: 5V/1A, via Type-C port Impedance: 4 Ohm Frequency Range: 20Hz-20kHz Display Screen: No Communication: AUX,USB,bluetooth,Audio Line Codecs: sbc Charging Time: 3.5 Hours Channels: 2 (2.0) Certification: CE,FCC,RoHS Cabinet Material: Plastic Built-in Microphone: No Bluetooth Range: Up to 18m/59ft (Open Area) Bluetooth Profile: HSP / HFP / A2DP /AVRCP Bluetooth: Bluetooth 5.3 Battery: Yes Battery: 2500mAh Audio Codec: SBC Package Content: 1 x Groove 2 Bluetooth Speaker 1 x Type-C Charging Cable 1 x 3.5mm Aux Cable 1 x Carabiner 1 x User Manual FAQ 1. Do the volume buttons control the phone's volume? Or does it have its own volume? It could control the volume of iOS device. But it may not synchronize with some Android devices. 2. Should I charge the speaker before the first use? Yes, you could charge the speaker for 3 hours. 3. How do you reset it? The blue light is flashing. I can't turn it off or get it to pair. Please reset it by pressing “Play/Pause” button for 8s. 4. How far about can they be from each other and still pair with each other? If the two speakers are without obstructions interference, the Bluetooth range is 18m and the stereo pairing range is 10m. 5. Does this light up to beats of music Yes, it could switch LED Lighting Modes among breathing, circle light, beat-driven light show as well as light-off. 6. What is the IP rating on this speaker? IPX7 Waterproof is made for strong protection against any water activities. 7. How long can this speaker play？ Up to 18 hours with LED off. Kindly note that playtime may vary by volume level & audio content 8. Does this have an auto-off function? Yes, the speaker will power off automatically after 10 minutes if it does not pair with any device through Bluetooth. 9. Does it work with Siri? Yes, you could triple press the "?‖" button to activate voice assistant such as Siri, Google Assistant, etc. 10. Can you plug your auxiliary cord into it to listen to music? Yes, you could plug in an Aux-in cable to listen to music.
-  Updated: 2025-06-22T07:52:04Z
+  Updated: 2025-10-12T19:18:43Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -2809,7 +2809,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/Groove_2_Bluetooth_Portable_Speaker_with_LED_Light_-_Hifi_Media_Store-974635.jpg?v=1719016985
     Price: 63,99 € EUR
 - [T2 Plus Portable Speaker](https://hifimediastore.com/products/t2-plus-portable-speaker): Deep Bass, Powerful Audio 20W of deep bass and punchy sound delivered from dual full-range loudspeakers and a passive radiator. IPX7 Fully Waterproof Engineered for water - ready for throwing into whatever beach and pool. All-Day Playtime Keep your favorite playlist going on with up to 24 hours / 500 songs on a single charge. *On a 50% volume level. Voice Assistant Access Siri or Google now for help from your speaker with a simple button tap. Stereo Sound, Double Fun Pair two T2 Plus for a more stereo surround sound to bring your party to life. *Two speakers will pair seamlessly after turned on. Wireless with Bluetooth and NFC Play music wirelessly via Bluetooth or simply touch your NFC-enabled device to the speaker to get the music streaming seamlessly. Palm-sized, Built to Go Fits in your hand easily to play tunes anywhere anytime. USB-C Charge Use the same cable with your other USB-C device, without carrying one more cable on-the-go. Improved Design Exclusive engineering for a smooth and comfortable grabbing. Specifications: Weight: 470 ± 5g / 16.6 ± 0.2oz Waterproof: IPX7 Waterproof Voice Control: Yes Voice Assistant: Support Voice Assistant True Wireless Stereo and NFC: Yes Support Memory Card: Yes Support Apt-x: No Speaker Type: Portable Speaker Power: 2x10W Max Remote Control: No Power Source: DC,Battery Playtime: up to 24 hours PMPO: 20W Output Power: 20W Number of Loudspeaker Enclosure: 1 Micro SD: Supports TF/Micro SD Model: T2 Plus Intelligent Personal Assistant: Apple's Siri Input Power(W): <25 W Frequency Range: 20Hz-20KHz Display Screen: No Communication: AUX,NFC,bluetooth Charging Cable: USB C;Type C Charging Cable Channels: 2 (2.0) Certification: CE,FCC,RoHS Cabinet Material: Plastic Built-in Microphone: Yes Bluetooth Version: 5.0 Battery: Yes Battery: 2*1800mAh Audio Crossover: Full-Range Bluetooth Compatibility: A2DP/AVRCP/HFP Transmission distance: Up to 30m/100ft(open area) Playtime: Up to 24hours(50% volume level) Battery: 2*1800mAh Charge input: DC 5V/2.0A Charging time: 3 hours TF card music format: WAV/APE/MP3 Dimension: 175X 69X53mm/6.89X2.72X2.09 inches Package Content: 1 x T2 Plus Bluetooth Speaker 1 x USB charging cable 1 x 3.5mm Aux Cable 1 x User Manual
-  Updated: 2025-06-22T07:52:04Z
+  Updated: 2025-10-12T19:18:44Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -2827,7 +2827,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/T2_Plus_Portable_Speaker_-_Hifi_Media_Store-997306.jpg?v=1719077642
     Price: 49,99 € EUR
 - [Mega Pro Bluetooth Portable Speaker 60W](https://hifimediastore.com/products/mega-pro-bluetooth-portable-speaker-60w): Stunning Sound with Enhanced Bass Equipped with 2 tweeters, 1 woofer together with 1 passive radiator and 2 amplifiers. SoundPulse® Technology The rated output of 60W delivers more defined bass.2.1-channel audio for stereo sound. Pair Together. Sound Better Pair two Mega Pro ones together for more intense sound. NFC Seamless Connection. Dust & Splash-Proof The Mega Pro has the IPX5 certificate and is therefore protected against dust and splash water. Unstoppable Playtime The built-in rechargeable 10.400mAh battery pack gives you up to 10 hours of unstoppable playtime on a single charge. Three EQ effects switchable Deep Bass (default); Vocal; 3D. Smart Voice Assistant. Intuitive Touch Panel with Integrated Lighting Specifications: Waterproof: Yes Waterproof: IPX5 Voice Control: Yes Tweeter type: Cone Support Memory Card: Yes Standby: About 24 months Speaker Type: Portable Power Supply: DC 5V/3A, via Type-C port Power Source: Battery Power: Up to 60W Playback Function: mp3,Other PMPO: 60W Number of Loudspeaker Enclosure: 1 Material: Plastic Input Power(W): <25 W Impedance: Other Frequency Range: 20Hz-20KHz Display Screen: No Control: Volume control,Playback,EQ Communication: AUX,NFC,bluetooth Charging Time: 4 Hours Channels: 2 (2.0) Certification: CE,FCC,RoHS Cabinet Material: Plastic Built-in Microphone: Yes Bluetooth transmission: Up to 20m/66ft (open area) Bluetooth Version: 5.0 Bluetooth Profile: A2DP V1.3, ACRCP V1.4, HFP V1.6 Battery Model: Built-in lithium battery Battery: Yes Audio Crossover: Full-Range Model: Mega pro Bluetooth transmission: Up to 20m/66ft (open area) Li-battery Capability: 10400mAh Power: 60W(Max) Waterproof: Waterproof IPX5 Power supply: DC 5V/3A, via Type-C port Battery: Built-in lithium battery Playtime: Up to 10 hours (on a 50% volume) Talk time: Up to 20 hours (on a 70% volume) Standby: About 24 months Charging time: 4 hours Dimension: 9.84 x 3.23 x 4.09 inches / 250 x 82 x 104 mm Weight: 1780 g / 62.78 oz Package Content: 1 x Mega Pro Bluetooth speaker 1 x Charging cable 1 x 3.5mm AUX cable 1 x User manual
-  Updated: 2025-08-22T04:41:08Z
+  Updated: 2025-10-12T19:18:44Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -2845,14 +2845,14 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/Mega_Pro_Bluetooth_Portable_Speaker_60W_-_Hifi_Media_Store-985095.jpg?v=1719032679
     Price: 136,99 € EUR
 - [T7 Mini TWS Portable Speaker with LED Modes](https://hifimediastore.com/products/t7-mini-tws-portable-speaker-with-led-modes): Ultimate Stereo Sound Compact size with punchy bass. Secure & Robust Double Sound, Double Fun Pair 2 speakers for superior stereo sound. Rhythm-driven Light Show Elevates passions in any occasions. Grab & Go Ultra portable. IPX7 Waterproof Free to carry outdoors. Up to 18 Hours of Playtime *Playtime(Varied by Volume Level & Audio Content): Up to 18 Hours(LED Off) Up to 8 Hours(LED On) Specifications: Waterproof: Waterproof IPX7 Waterproof: Yes Voice Control: No Tweeter type: HORN Tweeter material: Other Total Harmonic Distortion: 1% Support Memory Card: No Support Apt-x: No Speaker Type: Portable Sensitivity: 20dB Subwoofer cabinet material: Plastic Remote Control: No Power Source: Battery Playtime(Varied by Volume Level & Audio Content): Up to 18 Hours(LED Off) Up to 8 Hours(LED On) PMPO: 15W Output Power: 15W(Max) Number of Loudspeaker Enclosure: 1 Model: T7 Mini Mid-range material: Other LED Modes: Support Input Power(W): <25 W Input Power: 5V/1A, via Type-C port Impedance: Other Frequency Range: 20Hz-20KHz Display Screen: No Control: Volume control,Playback Communication: AUX,bluetooth Codecs: sbc Charging Time: 3 Hours Channels: 2 (2.0) Certification: CE,FCC,RoHS Cabinet Material: Plastic Built-in Microphone: Yes Bluetooth Version: 5.3 Bluetooth Profile: HSP / HFP / A2DP /AVRCP Battery: Yes Battery: 2500mAh Audio Crossover: Full-Range Audio Codec: SBC Active Noise-Cancellation: Passive with active subwoofer Acoustic enclosure: Sealed Audio Codec: SBC Bluetooth Range: Up to 18m/59ft (open area) Package Content: 1 x T7 Mini Outdoor Speaker 1 x User Manual 1 x Type-C Charging Cable 1 x Aux-in Cable FAQ Can the lights be turned off? If any disturbance, you could press the LED Light Switch button once to cycle the light features or freely turn it off. How long will it take to be fully charged? 3 Hours. Can you use Siri or voice control when paired with an iPhone? Yes, you could double press the “Play/Pause” button to activate voice assistant such as Siri, Google Assistant, Cortana, etc. How far about can they be from each other and still pair with each other? If the two speakers are without obstructions interference, the Bluetooth range is 18m and the stereo pairing range is 10m. How do you disconnect this speaker to pair it with another device? Quickly connect to another device, you could press the 'Volume +’ & “Volume -” button for 2s to disconnect from the device. Is there a prompt for the Bluetooth connection? Yes. When you connect successfully, there will be a beep. How long can this speaker play？ Up to 18 hours with LED off. Kindly note that playtime may vary by volume level & audio content Can you connect by TF/SD Card or just bluetooth? Yes, you could connect by Aux-in cable TF/SD card or bluetooth. Can it be used while plugged into the outlet? Or it isn't recommendable? Yes, it will operate while plugged in. But it is recommended that you play the music after fully charged for sake of extending your lifespan. Can I connect the bluetooth speaker for phone call audio as well? Yes, the built-in microphone is made for hands-free calls.
-  Updated: 2025-06-22T07:52:05Z
+  Updated: 2025-10-12T19:18:45Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/T7_Mini_TWS_Portable_Speaker_with_LED_Modes_-_Hifi_Media_Store-997621.jpg?v=1719079586
   Price: 56,99 € EUR
 - [Tronsmart Bang Bluetooth Speaker 60W Portable](https://hifimediastore.com/products/tronsmart-bang-bluetooth-speaker-60w-portable): Tronsmart Bang Outdoor Party Speaker Featured with dual tweeters, dual woofers & dual passive radiators, Tronsmart Bang delivers impactful Hi-Res audio with professional acoustic tuning. Integrated SoundPulse® Audio. Presents rich-sounding with superior bass. TuneConn™ Technology Sync audio across up to 100+ speakers for an exhilarating acoustic carnival. IPX6 Waterproof Advanced IPX6 waterproof prevents spills, rain & splash, always ready for outdoor activities. Built-in Power Bank Built-in powerbank gives your device a boost when an emergency. Up to 15 Hours of Playtime Earlier party with longer play *Party Mode On: 4 Hours(100% Volume with LED On) Party Mode Off: Up to 15 Hours(Varied by Volume Level & Audio Contents) Beat-driven Light Show. Dazzling halos gleam with the rhythm of music to create a higher-level auditory feast. Portable Utilized Handle. Upgraded from the portable lanyard, Tronsmart Bang outdoor party speaker comes with a built-in handle. NFC Seamless Connection USB Flash Drive as well as NFC enable Tronsmart Bang party speaker to connect your device besides Bluetooth. Tronsmart App Empowers personalization by offering you multiple preset modes or a customizable EQ experience. Voice Assistant Enabled Various Music Playing Modes(BT, TF Card, U-disk or Aux-in). A low-consumption rechargeable battery guarantees you could get 15 hours of pounding sound and breathing light on a single charge. Specifications: Weight: 3.08kg Waterproof: IPX6 Waterproof: Yes Voice Control: Yes Transmission Distance: 18m/59ft(open environment) Support Memory Card: Yes Support Apt-x: No Support APP: Yes Speaker Type: Party Box Remote Control: No Power Source: Battery Power: 60W Playing Time: Party Mode On: 4 Hours(100% Volume with LED On) Party Mode Off: Up to 15 Hours(Varied by Volume Level & Audio Contents) Playing Modes: TF Card, U-disk, Aux-in Patented Technology 2: TuneConn Patented Technology 1: SoundPulse PMPO: 60W Output Power: 60W Number of Loudspeaker Enclosure: 1 Internal Model: Bang Input Power(W): <25 W Input: 5V/2A via Type-C Port Frequency Range: 20Hz-20KHz EQ Effects: Eight EQ Effects Display Screen: No Dimension: 361x183.4x150.3 mm Control: Volume control,phase,Playback Communication: AUX,USB,NFC,bluetooth Codecs: sbc Charging Time: 4.5 Hours Channels: 2 (2.0) Certification: CE,FCC,RoHS Cabinet Material: Plastic Built-in Microphone: Yes Bluetooth Version: 5.0 Bluetooth Compatibility: A2DP/AVRCP/HFP/HSP Battery Capacity: 10800mAh Battery: Yes Audio Decoding: SBC Audio Crossover: Full-Range App Control: Support Input: 5V/2A via Type-C Port Bluetooth Version: 5.0 Bluetooth Compatibility: A2DP/AVRCP/HFP/HSP Audio Decodec: SBC Transmission Distance: 18m/59ft Water Resistant: IPX6 Battery Capacity: 10800mAh Play Time: LED On: Up to 8 Hours(on a 50% Volume) LED Off: Up to 15 Hours(on a 50% Volume) Charging Time: 4.5 Hours Frequency Range: 20Hz-20KHz Dimension: 361*183.4*150.3 mm/ 14.2*7.2*5.9inch Net Weight: 3.08kg/108.6oz Package List: 1 x Tronsmart Bang 1 x User Manual 1 x Type-C Cable 1 x Aux Cable
-  Updated: 2025-09-18T02:36:48Z
+  Updated: 2025-10-12T19:18:45Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -2874,7 +2874,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/Tronsmart_Bang_Bluetooth_Speaker_60W_Portable_-_Hifi_Media_Store-998536.jpg?v=1719082985
     Price: 153,99 € EUR
 - [Tronsmart Trip Bluetooth Portable Speaker With Dual-Driver](https://hifimediastore.com/products/tronsmart-trip-bluetooth-portable-speaker-with-dual-driver): Boost in Compact Size Dual full-frequency driver units with dual passive radiators deliver tonal balance with rich-detailed treble & penetrating bass. Quick Connect Offers more robust & smoother wireless streaming. Exclusive SoundPulse® Audio Delivers rich-sounding audio with exceptional clarity. Ultra Portable Must-have for your journey. Elegant fabric handle makes it convenient to carry everywhere. IPX7 Waterproof Take it on outdoor adventures without worrying about sands & water spray. True Wireless Stereo Pairing Pair 2 speakers for powerful stereo sound. Vibrant Color Options Lively colors complement the environment anywhere you take it. Bluetooth 5.3 Quick Connect Enhanced wireless streaming ensures exceptionally smooth & robust connection for instant listening. Up to 20 Hours of Playtime Voice Assistant Access Type-C Charging Button Control Specifications: Woofer/Widerange material: Other Waterproof: IPX7 Waterproof: Yes Voice Control: Yes Voice Assistant: Support Voice Assistant Tweeter type: HORN Tweeter material: Other Total Harmonic Distortion: 7% TWS: Support TWS Support Memory Card: No Support Apt-x: No Speaker Type: Portable Sensitivity: 75dB Subwoofer cabinet material: Plastic Remote Control: No Power Source: Battery Power: 10W RMS Playtime: Up to 20 Hours Playback Function: Other Passive radiators: Dual passive radiators PMPO: 10W Output Power: 10W Number of Loudspeaker Enclosure: 1 Mid-range material: Other Material: Plastic Internal Model: Trip Portable Speaker Input Power(W): <25 W Impedance: 4 Ohm Frequency driver: Dual full-frequency driver Frequency Range: 20Hz-20KHz Display Screen: No Dimension: 169.5 x 81 x 40.7mm/6.67 x 3.19 x 1.6inch Control: Button Control Communication: AUX,bluetooth Charging Port: Type-C Channels: 2 (2.0) Certification: CE,FCC,RoHS Cabinet Material: Plastic Built-in Microphone: No Bluetooth: Bluetooth 5.3 Battery: Yes Aux-in: Support Aux-in Audio Quality: SBC Audio Crossover: Full-Range Active Noise-Cancellation: PASSIVE Acoustic enclosure: Other Package Content: 1 x Trip speaker 1 x Type-C Cable 1 x Aux-in Cable 1 x User Manual
-  Updated: 2025-06-22T07:52:05Z
+  Updated: 2025-10-12T19:18:46Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -2934,7 +2934,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/NBY8891_Bluetooth_Portable_Speaker_with_3D_Surround_Stereo_Sound_-_Hifi_Media_Store-987756.jpg?v=1719039204
     Price: 49,99 € EUR
 - [NBY8893A Mini Bluetooth Speaker](https://hifimediastore.com/products/nby8893a-mini-bluetooth-speaker): Specifications: Support Memory Card: Yes Speaker Type: Portable Subwoofer cabinet material: Plastic Power Source: Battery Playback Function: Radio,mp3 Number of Loudspeaker Enclosure: 1 Model Number: 8893A Material: Plastic Input Power(W): <25 W Frequency Range: 100Hz-20KHz Communication: AUX,USB,bluetooth Channels: 2 (2.0) Certification: CE Cabinet Material: Plastic Built-in Microphone: Yes Bluetooth Version: 5.0 Battery: Yes Audio Crossover: Full-Range
-  Updated: 2025-06-22T07:52:06Z
+  Updated: 2025-10-12T19:18:46Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -2962,14 +2962,14 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/NBY8892_Bluetooth_Portable_Speaker_with_LED_Light_-_Hifi_Media_Store-987794.jpg?v=1719039332
     Price: 45,99 € EUR
 - [NBY5510 Bluetooth Portable Speaker](https://hifimediastore.com/products/nby5510-bluetooth-portable-speaker): Portable Wireless Bluetooth Speaker Dual 5W Drivers Supper Bass 3D Stereo Music 1. Superior sound quality: Enjoy your music through 5W dual high-performance drivers and an unique enhanced bass. 2. Multifunction button control: Easily manage audio playback and calls with volume controls, multifunction button, and built-in microphone. You can even connect the Bluetooth speakers directly to a non-Bluetooth-enabled device with the 3.5mm audio cable. 3. Wireless portable bluetooth speaker: Enjoy a High Definition stereo sound with a impressive volume.Portable Bluetooth speaker with 10m wireless range,you can go just about anywhere with the sound carrying clearly across several rooms without being too loud and distorted 4. Bluetooth 5.0 technology: Equipped with the advanced technology,compatible with all Bluetooth devices. Speaker automatically reconnects to the last device used 5. Long playtime: Built-in Li-Ion1200 mAh rechargeable battery guarantees up to 6 hours playtime. Recharge in just 1-2 hours with included micro USB cable. Specifications: Wireless Type: Bluetooth Waterproof: No Voice Control: No Support Memory Card: Yes Support Apt-x: No Speaker Type: Portable Speaker Structure: Sealed Speaker Classification: Loudspeaker Remote Control: No Power Source: Battery Playback Function: mp3,Radio PMPO: 10W Output Power: 10W Number of Loudspeaker Enclosure: 2 Model Number: NBY5510 Material: Plastic Interface Type: USB Input Power(W): <25 W Frequency Range: 85Hz-20KHz Display Screen: No Communication: Wireless+Wired Communication: AUX,bluetooth,USB Channels: 2 (2.0) Certification: CE Cabinet Material: Plastic Built-in Microphone: Yes Bluetooth Version: 5.0 Battery: Yes Audio Crossover: Full-Range Speaker: 5W X 2 Microphone: Hands-Free Microphone Material: ABS Plastic Pairing Range: upto 10 meters under barrier-free condition Input Voltage: DC-5V/1.5A Battery capacity: 1200mAh Charging time: about 2.5 hours Playing Time: about 8 hours Product Dimension: 208mm(L) x65mm(W)x 68mm(H) Package Content: 1 x Bluetooth Speaker 1 x AUX Audio Cable 1 x USB Charging Cable 1 x User Manual
-  Updated: 2025-06-22T07:52:06Z
+  Updated: 2025-10-12T19:18:47Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/NBY5510_Bluetooth_Portable_Speaker_-_Hifi_Media_Store-987640.jpg?v=1719038775
   Price: 50,99 € EUR
 - [NBY5540 Bluetooth Portable Speaker](https://hifimediastore.com/products/nby5540-bluetooth-portable-speaker): Specifications: Waterproof: No Voice Control: No Support Memory Card: Yes Support Apt-x: No Speaker Type: Portable Remote Control: No Power Source: Battery Playback Function: mp3 PMPO: 10W Output Power: 10W Number of Loudspeaker Enclosure: 1 Model Number: NBY5540 Material: Plastic Input Power(W): <25 W Display Screen: No Communication: AUX,bluetooth,USB Channels: 2 (2.0) Certification: CE Cabinet Material: Plastic Built-in Microphone: Yes Bluetooth Version: 4.2 Battery: Yes Audio Crossover: Full-Range Speaker: 5W X 2 Microphone: Hands-Free Microphone Material: ABS Plastic Pairing Range: upto 10 meters under barrier-free condition Input Voltage: DC-5V/1.5A Battery capacity: 1200mAh Charging time: about 2.5 hours Playing Time: about 8 hours Package Content: 1 x NBY5540 Bluetooth Speaker 1 x AUX Audio Cable 1 x USB Charging Cable 1 x User Manual
-  Updated: 2025-09-09T08:58:45Z
+  Updated: 2025-10-12T19:18:47Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -3013,7 +3013,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/NBY6660_Bluetooth_Portable_Speaker_-_Hifi_Media_Store-987700.png?v=1719039000
     Price: 62,99 € EUR
 - [Bluetooth Portable Speaker Model S53 with HIFI Stereo Sound](https://hifimediastore.com/products/bluetooth-portable-speaker-model-s53-with-hifi-stereo-sound): Specifications: Woofer/Widerange material: Metal Wi-Fi Music: Apple Music Waterproof: Yes Voice Control: No Tweeter material: Metal Total Harmonic Distortion: 1% Support Memory Card: Yes Support Apt-x: No Speaker Type: Portable Sensitivity: 95dB Subwoofer cabinet material: Metal Remote Control: No Power Source: AC,DC,Battery Playback Function: Radio,mp3 PMPO: 20W Output Power: 20W Number of Loudspeaker Enclosure: 1 Mid-range material: Metal Material: Plastic Input Power(W): <25 W Impedance: 2-4 Ohm Frequency Range: 100Hz-20KHz Display Screen: No Control: Volume control,Playback Communication: AUX,USB,bluetooth Codecs: AAC Channels: 2 (2.0) Certification: CE Cabinet Material: Plastic Built-in Microphone: Yes Bluetooth Version: 5.0 Battery: Yes Audio Crossover: Full-Range Acoustic enclosure: HORN Battery capacity: 4400mah Transmission distance: 10m Signal to noise ratio: ≥85dB Working voltage: 3.7V Distortion: <1% Charging voltage: DC5V Charging port: Micro USB Talk time: 10h Playing time: 12h Standby time: ≥90 days Charging time: 6-10H Packing size: 100*100*140mm Weight: 560g Package Content: 1 x S53 wireless speaker 1 x USB charge cable 1 x User manual
-  Updated: 2025-06-22T07:52:07Z
+  Updated: 2025-10-12T19:18:48Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -3067,14 +3067,14 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/Bluetooth_Portable_Speaker_Model_S53_with_HIFI_Stereo_Sound_-_Hifi_Media_Store-969685.jpg?v=1719007035
     Price: 45,99 € EUR
 - [NBYS18 Bluetooth Portable Speaker](https://hifimediastore.com/products/nbys18-bluetooth-portable-speaker): Superior Quality Sound Unique precision acoustic drivers delivers the sound of perfect quality with Built-in Dual 2*5W Driver speakers Long Battery Life High Capacity 2200mAH rechargeable battery for up to 12 hours of playtime at 66% volume on a full charge. Bluetooth 4.5 Seamless Connectivity The latest and advanced Bluetooth 4.5, consume less power but offer extended 33 ft connectivity range. Support FM radio. Specifications: Wireless Type: Bluetooth Waterproof: No Voice Control: No Support Memory Card: Yes Support Apt-x: No Speaker Type: Portable Speaker Structure: Sealed Speaker Classification: Loudspeaker Size: 190mm*60*mm55mm Subwoofer cabinet material: Plastic Remote Control: No Power Source: Battery Playback Function: Radio,mp3 PMPO: 10W Output Power: 10W Number of Loudspeaker Enclosure: 1 Model Number: NBYS18 Material: Plastic Interface Type: USB Input Power(W): <25 W Frequency Range: 85Hz-20KHz Display Screen: No Communication: AUX,Bluetooth,USB Communication: Wireless+Wired Channels: 2 (2.0) Certification: CE Cabinet Material: Plastic Built-in Microphone: Yes Bluetooth Version: 5.0 Battery: Yes Package Content: 1 x NBY-S18 Bluetooth Speaker 1 x USB Charging cable 1 x 3.5mm Audio cable 1 x User manual
-  Updated: 2025-06-22T07:52:07Z
+  Updated: 2025-10-12T19:18:48Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/NBYS18_Bluetooth_Portable_Speaker_-_Hifi_Media_Store-987826.jpg?v=1719039436
   Price: 39,99 € EUR
 - [NBY18 Bluetooth Portable Speaker](https://hifimediastore.com/products/nby18-bluetooth-portable-speaker): FM Radio Mode 1. Press mode switch button into FM mode 2. When in FM mode,first short press to auto search FM channel,short press again to stop searching the radio station . Note: Plug the charge cable into charging port as FM antenna. Two Speakers Connection Mode More power, richer stereo, stronger bass 1. Turn on two same model speakers at the same time . 2. Press the mode button of one of the speakers twice to pair, when you hear the prompt sound, or observe that the blue light stays on, the pairing is successful. Note: The new version black and silver, supports TWS Bluetooth connection, blue and red not support. High Quality Speaker Stereo Sound & Super Bass The speaker includes 3W dual acoustic drivers and two-channel enhanced bass module to provide strong bass without distortion even at highest volume. Bluetooth 5.0 Wireless Compatible with most major smart phones, Apple iPhone, iPad, Samsung, laptops and desktops, MP3 & DVD players and Bluetooth-enabled products. Long Playing Time Built-in Li-Ion 1200 mAh rechargeable battery guarantees up to 7-8 hours playtime. Recharge in just 2-3 hours with included micro USB cable. Hands-free Call Built in Mic ,answering your calls from your phone with one simple key, set your hands free. Support FM Radio Support FM Radio function/TF Card/USB flash/AUX audio music play. Note: In FM radio mode, Audio cable into the charging port as FM antenna. Specifications: Waterproof: No Voice Control: Yes Support Memory Card: Yes Speaker Type: Portable Subwoofer cabinet material: Plastic Power Source: Battery Playback Function: Radio,mp3 PMPO: 6W Output Power: 6W Number of Loudspeaker Enclosure: 2 Model Number: NBY18 Material: Plastic Input Power(W): <25 W Frequency Range: 20Hz-20KHz Feature: Phone Function Communication: AUX,USB,bluetooth Channels: 2 (2.0) Certification: CE Cabinet Material: Plastic Built-in Microphone: Yes Bluetooth Version: 5.0 Battery: Yes Audio Crossover: Full-Range Transmission Distance: 33 feets range Frequency Response Range :85hz~20KHz Signal-to-noise ratio: 84db or higher Sensitivity:80db+2db Size:190mm*55mm*60m Package Content: 1 x NBY-18 Bluetooth Speaker1 x USB Charging cable1 x 3.5mm Audio cable1 x User manual
-  Updated: 2025-09-07T00:18:02Z
+  Updated: 2025-10-12T19:18:49Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -3096,14 +3096,14 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/NBY18_Bluetooth_Portable_Speaker_-_Hifi_Media_Store-987617.jpg?v=1719038683
     Price: 32,99 € EUR
 - [GW100 Gaming Headset Wireless+Wired](https://hifimediastore.com/products/gw100-gaming-headset-wireless-wired): Description: 1.It is our private tooling design, The Bluetooth headphone is compatible with two modes：Bluetooth/Wired connection √Bluetooth connect: Bluetooth version with microphone, it is common wireless bluetooth headphone. it can not compatible with PS4 station when it is bluetooth version. √3.5mm audio cable connect: Wired headphone for computer/IPAD/Mobile phone/Tablet.3.5mm detachable audio cable. Wired version can compatible with PS4. 2.The unique LED lighting design of the headset is very delicate and beautiful. Press the power button twice in a row to turn off the light. . The headphone will be packed with bubble bag to keep it safely. Specifications: With Microphone: Yes Wireless distance: 10m Wireless Type: bluetooth Volume Control: Yes Style: Over the Ear Sensitivity: 106dB Resistance: 32Ω Number Of Drivers: 2 Music time: 10 hours Model Number: GW100 Input DC: 5V/130mA Impedance Range: up to 32 Ω Headphone Pads Material: Memory Foam Frequency Response Range: 20 - 20000Hz Feature: With Microphone,Detachable Cable Driver Diameter: 50mm Control Button: No Connectors: 3.5mm Communication: Wireless+Wired Charging Method: Cable Certification: CE Bluetooth Version: 5.1 Battery: 400mAh Audio cable length: Approx. 120cm / 3.94ft Noise-Cancellation: No Package List: 1 x User Manual 1 x Bluetooth headset 1 x USB charging cable 1 x 3.5mm audio cable
-  Updated: 2025-06-22T07:52:07Z
+  Updated: 2025-10-12T19:18:49Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/GW100_Gaming_Headset_Wireless_Wired_-_Hifi_Media_Store-974672.jpg?v=1719017044
   Price: 39,99 € EUR
 - [Onyx Pure TWS Earbuds](https://hifimediastore.com/products/onyx-pure-tws-earbuds): Hi-Fi Audio, Immersive Listening Enjoy Live Concert as You Like Advanced Hybrid Dual Drivers Ultimate Listening Powerful Bass, Pure Audio, 9D Stereo, 4xSound Quality As if Nothing Ergonomic Fit Music alongs with You Aware of Battery Low, hassle-free about running out 3EQ Modes for Various Styles Choose You Wish Easy & Convenient Quick Access to All Functions Lightweight & Portable Pocket-friendly Size with 4.5g only Specifications: With Microphone: Yes Wireless Version: v5.3 Wireless Type: bluetooth Wireless Profile: HFP/HSP/AVRCP/A2DP Waterproof: Yes Volume Control: Yes Total Harmonic Distortion: 3% Support Memory Card: No Style: In-ear Sensitivity: 95dB Resistance: 32Ω Model: Onyx Pure Max Output: 0.5mW Magnet Type: Neodymium Wireless: Yes Impedance Range: up to 32 Ω Hall Switch: Support Frequency Range: 20-20KHz Earbuds With Charging Case: Playtime: Up to 32 Hours of Playtime (60% Volume) Earbuds Playtime: 7 Hours on a Single Charge(60% Volume) Earbuds Charging Time: 1.5 Hours Driver Diameter: 10mm Driver: Hybrid Dual Driver(Dynamic Driver * Balanced Armature) Control Button: No Connectors: Type c Communication: Wireless Charging Method: Charging case Charging Case Time: 2 Hours Certification: CE,FCC,RoHS Bluetooth Version: Other Audio Codec: AAC, SBC Noise-Cancellation: Passive 3 EQ Modes: Support Transmission Distance: Up to 10 meters / 33 feet Earbuds Battery: 40mAh Charging Case Battery: 400 mAh Charging Case: 2 Hours Package Content: 1 x Onyx Pure Earbuds 1 x Charging Cable 1 x User Manual 1 x Charging Case FAQ How to reset if both earbuds could not pair with each other? A. Put both earbuds into the charging case. B. Press the reset button for 10s with the case opened. The charging case isn't charged. Please check if you have connected to certified charging cable. If not, please charge with certified cables to check if it works normally. The earbuds couldn't be charged. Please check whether the charging case is under fully-charged. If yes, please try to clean the charging contacts with alcohol. If not, please make it fully charged for a better experience. Can I use either earbud in mono mode while another charge? Yes, you can either earbud in mono mode but kindly note that the volume cannot be adjusted. Do these have voice assistant control? Yes, Onyx Pure has voice Assistant control. You can triple tap the right earbud to activate voice assistant. Are there any EQ Modes for different styles? Yes, it has 3 EQ modes. You could choose to meet your music feeds. How far can your phone be from the earbuds for them to still be connected? I think as far as 33 feet in open spaces even in separate rooms. How long does it play? A single charge enables 7 hours of playtime and a total of 32 hours with charging case. What's the dimension of charging case? 61.7 x 53 x 31 mm / 2.43 x 1.73 x 1.22 inches.
-  Updated: 2025-09-20T00:23:00Z
+  Updated: 2025-10-12T19:18:49Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -3117,7 +3117,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/Onyx_Pure_TWS_Earbuds_-_Hifi_Media_Store-988808.jpg?v=1719042721
     Price: 52,99 € EUR
 - [E68 Auriculares Intraurales TWS](https://hifimediastore.com/products/e68-tws-earbuds): Especificaciones: Con micrófono: síTipo inalámbrico: BluetoothImpermeable: síControl de volumen: SíDistorsión armónica total: 1%Estilo: intrauditivoSensibilidad: 125 dBResistencia: 32ΩNúmero de conductores: 2Salida máxima: 1 mWTipo de imán: neodimioRango de impedancia: hasta 32 ΩMaterial de las almohadillas para auriculares: siliconaRango de respuesta de frecuencia: 20 - 2000 HzTipo de auriculares: semiabiertosDiámetro del controlador: 10 mmBotón de control: SíConectores: USBComunicación: verdaderamente inalámbricaMétodo de carga: estuche de cargaCertificación: CEVersión de Bluetooth: 5.0Cancelación de ruido: pasiva Contenido del paquete: 1 x E68 Auriculares Intraurales TWS1 x Cable de carga1 x Estuche de carga1 x Manual del usuario
-  Updated: 2025-06-22T07:52:07Z
+  Updated: 2025-10-12T19:18:49Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -3143,7 +3143,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/E68_Auriculares_Intraurales_TWS_-_Hifi_Media_Store-971083.jpg?v=1719010267
     Price: 24,99 € EUR
 - [XT91 Auriculares Intraurales Bluetooth TWS con pantalla LED](https://hifimediastore.com/products/xt91-tws-bluetooth-earbuds-with-led-display): Características: 1. Bluetooth V5.0, compatible con la mayoría de los dispositivos Bluetooth y de menor consumo de energía. 2. El estuche de carga de 300mAh puede cargar completamente 2 auriculares unas 5 veces, ofreciendo más de 24 horas de música. 3. Con tecnología impermeable, ya no tendrás que preocuparte por el agua y el sudor. 4. 10mms unidades de accionamiento dual, disfrutar de 9D fuerte sonido de la música de graves profundos. 5. Función de control táctil, soporte para cambiar canciones, llamadas telefónicas y asistente de voz. Especificaciones: Con micrófono: SíTipo inalámbrico: BluetoothResistente al agua: SíControl de volumen: SíCarga rápida tipo C: 1.5H Para carga completaDistorsión armónica total: 1%Estilo: Auriculares IntrauralesTiempo en espera: hasta 48 horasSensibilidad: 92dBResistencia: 32ΩNúmero de controladores: 2Nombre: XT91 Auriculares Bluetooth inalámbricosDuración de la música: Alrededor de 3-4 horasSalida máx.: 10mWTipo de imán: NeodymiumGama de impedancias: hasta 32 ΩRango de respuesta en frecuencia: 20 - 20000HzTipo de orejeras: SelladoDiámetro del Driver: 10mmBotón de control: YesConectores: Tipo cComunicación: InalámbricoCódecs: AAC,sbcMétodo de carga: Estuche de cargaCapacidad del estuche de carga: 300 mAh Estuche de cargaCertificación: CEVersión Bluetooth: 5.0Cancelación de ruido: Pasivo Contenido del paquete: 2 x Auriculares Bluetooth (izquierdo y derecho)1 x Estuche de carga1 x Cable USB1 x Manual del usuario
-  Updated: 2025-06-22T07:52:08Z
+  Updated: 2025-10-12T19:18:50Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -3165,7 +3165,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/XT91_Auriculares_Intraurales_Bluetooth_TWS_con_pantalla_LED_-_Hifi_Media_Store-1004396.jpg?v=1719120167
     Price: 27,99 € EUR
 - [XT95 - Auriculares Bluetooth TWS Ultraplanos](https://hifimediastore.com/products/xt95-tws-bluetooth-earbuds-ultra-thin): Características: 1. Bluetooth V5.0, compatible con la mayoría de dispositivos bluetooth y menor consumo de energía. 2. El estuche de carga de 230 mAh puede cargar completamente 2 auriculares aproximadamente 5 veces y ofrece más tiempo de música las 24 horas. 3. Con tecnología impermeable, ya no tendrás que preocuparte por el agua y el sudor. 4. Unidades de disco dual de 10 mm, disfrute de un sonido musical de graves profundos y potentes en 9D. 5. Función de control táctil popular, soporte para cambiar canciones, llamadas telefónicas y asistente de voz. Especificaciones: Con micrófono: SíTipo de conexión inalámbrica: BluetoothResistente al agua: SíControl de volumen: SíPrincipio de vocalidad: DinámicaCarga rápida tipo C: 1.5H Para carga completaDistorsión armónica total: 1%Admite tarjeta de memoria: NoEstilo: AuricularesTiempo en espera: hasta 48 horasSensibilidad: 92dBResistencia: 32ΩNúmero de Drivers: 2Nombre: XT95Duración de la música: Alrededor de 3-4 horasSalida máx.: 10mWTipo de imán: NeodimioRango de impedancia: hasta 32 ΩRango de respuesta en frecuencia: 20 - 20000HzTipo de orejeras: SelladoDiámetro delDriver: 13mmBotón de control: SíConectores: Tipo CComunicación: InalámbricoCódecs: AAC, sbcMétodo de carga: Estuche de cargaCapacidad del estuche de carga: 230 mAhCertificación: CEVersión Bluetooth: 5.0Cancelación activa del ruido: No Contenido del paquete: 2 x Auriculares Bluetooth (izquierdo y derecho)1 x Estuche de carga1 x Cable USB1 x Manual del usuario
-  Updated: 2025-06-22T07:52:08Z
+  Updated: 2025-10-12T19:18:50Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -3187,7 +3187,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/XT95_-_Auriculares_Bluetooth_TWS_Ultraplanos_-_Hifi_Media_Store-1004434.jpg?v=1719120514
     Price: 28,99 € EUR
 - [XT96 Auriculares Intrauales TWS](https://hifimediastore.com/products/xt96-tws-earbuds): Características: 1. Bluetooth V5.1, compatible con la mayoría de los dispositivos Bluetooth y de menor consumo de energía. 2. El estuche de carga de 350mAh puede cargar completamente 2 auriculares unas 5 veces, ofreciendo más de 24 horas de música. 3. Con tecnología impermeable, ya no tendrás que preocuparte por el agua y el sudor. 4. Unidades de accionamiento dual de 10mms, disfruta de un sonido de música de graves profundos y fuertes 9D. 5. Función de control táctil popular, canciones de conmutación de apoyo, llamada telefónica y la voz de llamada assistant. Especificaciones: Con micrófono: síTipo inalámbrico: BluetoothImpermeable: síControl de volumen: SíPrincipio de vocalismo: dinámicoCarga rápida tipo C: 1 hora para carga completaDistorsión armónica total: 1%Tarjeta de memoria compatible: NoEstilo: AuricularesTiempo en espera: hasta 48 horasSensibilidad: 92 dBResistencia: 32ΩNúmero de conductores: 2Nombre: auriculares inalámbricos Bluetooth XT96Tiempo de música: alrededor de 3-4 horasSalida máxima: 10 mWTipo de imán: neodimioRango de impedancia: hasta 32 ΩMaterial de las almohadillas para auriculares: otroRango de respuesta de frecuencia: 20 - 20000 HzTipo de auriculares: selladoDiámetro del controlador: 13 mmBotón de control: SíConectores: tipo cComunicación: inalámbricaMétodo de carga: estuche de cargaCapacidad del estuche de carga: estuche de carga de 350 mAhCertificación: CEVersión de Bluetooth: 5.1Cancelación activa de ruido: Pasiva Contenido del Paquete: 2 x Auriculares Bluetooth (izquierdo y derecho)1 x Estuche de carga1 x Cable USB1 x Manual del usuario
-  Updated: 2025-06-22T07:52:08Z
+  Updated: 2025-10-12T19:18:50Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -3209,7 +3209,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/XT96_Auriculares_Intrauales_TWS_-_Hifi_Media_Store-1004477.jpg?v=1719120823
     Price: 35,99 € EUR
 - [V9 Auricular Bluetooth](https://hifimediastore.com/products/v9-bluetooth-earphone): Especificaciones: Con micrófono: SíTipo inalámbrico: BluetoothResistente al agua: SíControl de volumen: SíPrincipio de vocalidad: DinámicoEstilo: In-earNúmero de controladores: 1Tipo de imán: FerritaBotón de control: SíComunicación: InalámbricoMétodo de carga: CableCertificación: CE,FCC,ULCancelación de ruido: Reducción de ruido CVC 6.0 Contenido del paquete: 1 x V9 Auricular Bluetooth1 x Manual del usuario1 x Cable de carga
-  Updated: 2025-09-09T15:05:15Z
+  Updated: 2025-10-12T19:18:51Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -3223,7 +3223,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/V9_Auricular_Bluetooth_-_Hifi_Media_Store-998721.jpg?v=1719083915
     Price: 19,99 € EUR
 - [LPT660 Wireless Foldable Earphone](https://hifimediastore.com/products/lpt660-wireless-foldable-earphone): Features: 【HI-FI,CD Sound Quality】- The closed-back design of bluetooth headphones provides immersive Hi-Fi sound with BLUETOOTH V4.0 chip and 40mm driver together , which make exceptional sound reproduction and wide dynamic range to provide outstanding sound quality, rich and strong bass, crisp and clear highs. 【Multi-Functions】- With TF Card slot, a small TF card is enough for enjoy music any time and any where ; With FM Radio Function, Allowing You To Listen To Radio Anywhere, Anytime ( Note: FM Radio May Can't Work In Some Foreign Countries ) . 3.5mm audio jack, provides a simple wired connection of a variety of devices without Bluetooth. 【Comfortable And Foldable Design】- Comes with extremely soft Memory-protein ear muff ensuring lasting comfort when you using this wireless headset. Folding and lightweight design makes the wireless bluetooth headphone easy to be carried and stored.It is suitable for use on trips,vacation,or any other place,achieve enjoy music everywhere and any time. 【Smart Handsfree Talking】- Built-in Concealed High Definition Sensitive Microphone, The Headphone Itself Has A Answer Incoming Phone Calls' Button To Pick Up Phone Call, Wireless Handsfree Talking. 【Long Play Time】- Playing time up to10 hours, and continue talk time up to 8 hours, standby time up to 250 hours. 【Widely Use Range】- Compatible for almost all the mobile phone, tablet PC, notebook, almost any devices with bluetooth function. Specifications: Talking time: 15-25 hours Support system: A2DP 1.2, AVRCP 1.0, HSP, HSF 1.5 Standby time: 350hour Mode: stereo sound mode Charge time: 2-3 hour With Microphone: Yes Wireless Type: bluetooth Waterproof: No Volume Control: Yes Voltage: 3.7VDC (built-in 400MAH rechargeable battery) Total Harmonic Distortion: 0.38% Support Memory Card: Yes Style: Headphone Sensitivity: 85dB Resistance: 32Ω Plug Type: Line Type Other function: TF card playing(excluded TF card) Number Of Drivers: 2 Model Number: LPT660 Max Output: 1238mW Magnet Type: Neodymium Wireless: Yes Headphone Pads Material: Genuine Leather Frequency Response Range: 18 - 22000Hz Frequency: 2.40GHz-2.48GHz Features: Detachable Cable Effective range: as far as 15 meters Earcups Type: Semi-open Driver Diameter: 40mm Control Button: Yes Connectors: 3.5mm Communication: wireless Codecs: sbc Charging Method: CABLE Certification: CE,FCC,RoHS,UL Bluetooth version: V5.0+EDR Noise-Cancellation: No
-  Updated: 2025-06-22T07:52:08Z
+  Updated: 2025-10-12T19:18:51Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -3325,7 +3325,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/LPT660_Wireless_Foldable_Earphone_-_Hifi_Media_Store-983583.jpg?v=1719030333
     Price: 33,99 € EUR
 - [NBY-6670 Bluetooth Portable Speaker 10W](https://hifimediastore.com/products/nby-6670-bluetooth-portable-speaker-10w): Specifications: Waterproof: Yes Voice Control: No Support Memory Card: Yes Support Apt-x: No Speaker Type: Portable Remote Control: No Power Source: Battery Playback Function: mp3 PMPO: 10W Output Power: 10W Number of Loudspeaker Enclosure: 1 Model Number: NBY6670 Material: Metal Input Power(W): <25 W Display Screen: No Communication: AUX,USB,bluetooth Channels: 2 (2.0) Certification: CE Cabinet Material: Metal Built-in Microphone: Yes Bluetooth Version: 4.2 Battery: Yes Loundspeaker Output: 4Ω5W*2(4ohm,THD<1%) Speaker: 45mm*2 Version: V4.2 Frequency Response Range: 90Hz-20KHz Signal Noise Rate: >80dB Battery Capacity /voltage: 1800mAh/3.7V Battery Charge Time: around 2H Working Time: 4-6hours USB Power Input: 5V 2A Speaker Size: 172*76*76mm Package Content: 1 x NBY-6670 Bluetooth Speaker 1 x Audio Cable 1 x Charging Cable 1 x User Manual
-  Updated: 2025-06-22T07:52:09Z
+  Updated: 2025-10-12T19:18:52Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -3339,7 +3339,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/NBY-6670_Bluetooth_Portable_Speaker_10W_-_Hifi_Media_Store-987553.jpg?v=1719038456
     Price: 44,99 € EUR
 - [Airtoms Pro Auriculares Bluetooth con cancelación de ruido ENC](https://hifimediastore.com/products/airtoms-pro-bluetooth-earbuds-with-enc-noise-cancelling): Cancelación de ruido La exclusiva tecnología ENC combinada con un micrófono de alta calidad puede reducir eficazmente las interferencias del ruido ambiental. Graves profundos y potentes La unidad de altavoz ultra grande de 12 mm puede proporcionar simultáneamente una alta frecuencia cristalina y una sensación de graves ultra profundos. Sensor Smart Touch El chipset 5.2 más reciente proporciona una señal más estable, un emparejamiento automático más rápido y sencillas funciones de control táctil inteligente. Larga Duración: Hasta 6 horas La batería de alta calidad proporciona más de 6 horas de carga única y más de 20 horas de energía extra. Puerto de carga Tipo-C Sólo tarda 1 hora en cargarse por completo. Especificaciones: Con micrófono: SíTipo inalámbrico: BluetoothImpermeable: IPX5Resistente al agua: SíControl de volumen: SíPrincipio de vocalidad: DinámicaEstilo: In EarSensibilidad: 42dBResistencia: 16ΩNúmero de controladores: 2Modelo: Airtoms ProInalámbrico: SíRango de impedancia: hasta 32 ΩMaterial de las almohadillas: SiliconaRango de respuesta en frecuencia: 20 - 20000HzTipo de orejeras: SemiabiertoDiámetro del Driver: 12mmBotón de control: NoConectores: Tipo CComunicación: InalámbricoCódecs: AACMétodo de carga: Estuche de cargaCertificación: CEVersión Bluetooth: 5.2Capacidad de la batería: 40mAh/320mAhCancelación de ruido: Cancelación de ruido ENC Contenido del paquete: 1 x Manual del usuario1 x Estuche de carga1 x Cable de carga1 x Auriculares Airtoms Pro
-  Updated: 2025-06-22T07:52:09Z
+  Updated: 2025-10-12T19:18:53Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -3357,14 +3357,14 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/Airtoms_Pro_Auriculares_Bluetooth_con_cancelacion_de_ruido_ENC_-_Hifi_Media_Store-964549.jpg?v=1718995520
     Price: 36,99 € EUR
 - [BE1036 Sports Bluetooth Earbuds](https://hifimediastore.com/products/be1036-sports-bluetooth-earbuds): Bluetooth V5.1 Technology Compared with bluetooth 5.0 earbuds, 5.1 version wireless earbuds offer you an unparalleled audio experience with faster transmission speed, stronger connection stability, and longer range of bluetooth. Premium Deep Bass Stereo Sound and CVC 8.0 Noise Cancelling Adopted 10mm dynamic drivers, provides authentic, strong stereo bass, loud sound quality even if you are in noisy environment. Combination with CVC 8.0 noise cancellation technology, further enhances bass, deliver powerful yet authentic stereo sound quality with distortion-free bass and clearer treble, providing a clear music and call experience even in noisy environments. 30 Hours Playtime and One Step Pairing Built-in long powerful battery, the wireless earbuds can last for 5 Hours music time on a single full charge. The charging case can charge the twin sports earphones 6 times, So the earphones with the portable charging case will get about 30hrs playing music in dual-mode. IPX5 Waterproof and Touch Control Adopting the advanced touch control technology, you can easily play/pause/skip music, answer/end/reject calls or activate voice assistant with simple-tap operating.Headphones waterproof earbuds are made of high quality waterproof materials, multi process design headphone body, high specification waterproof test. Specifications: With Microphone: Yes Wireless Type: Bluetooth Waterproof: Yes Volume Control: No Support Memory Card: No Style: Ear Hook Sensitivity: 96dB Resistance: 32Ω Number Of Drivers: 2 Model Number: be1036 Wireless: Yes Impedance Range: up to 32 Ω Headphone Pads Material: Silicone Frequency Response Range: 20 - 20000Hz Earcups Type: Sealed Driver Diameter: 10mm Control Button: No Connectors: Type c Communication: Wireless Codecs: AAC Charging Method: Charging case Certification: CE Bluetooth Version: 5.1 Noise-Cancellation: CVC8.0 Noise Cancelling Package Content: 1 x User Manual 1 x Charging case 1 x Charging Cable 1 x Be1036 Earbuds
-  Updated: 2025-06-22T07:52:10Z
+  Updated: 2025-10-12T19:18:53Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/BE1036_Sports_Bluetooth_Earbuds_-_Hifi_Media_Store-968899.jpg?v=1719005297
   Price: 54,99 € EUR
 - [J8 TWS Bluetooth Earbuds with Active Noise Cancelling](https://hifimediastore.com/products/j8-tws-bluetooth-earbuds-with-active-noise-cancelling): ANC/ENC Noise Reduction Adopts the active noise reduction technology,detects the external environment and the excess noise in the ear canal,and the maximum noise reduction effect can reach 38 dB,giving you a pure listening enjoyment. Bluetooth 5.2 Technology Wireless earbuds uses the bluetooth 5.2 technology. It has a faster transmission rate, lower latency and lower power consumption, providing a fast and stable connection without signal loss or music loss. Super Long Play Time Waterproof earbuds are super efficient for charging; Easy to carry, all-day endurance, quick charge. The type C charging port provides convenient and fast charging. Intelligent Back Connect Open the cover immediately back connect,If there is a connection record, open the charging box to connect back to the phone, smart and fast. Fingerprint Touch Operation Bluetooth earbuds are upgrade the intelligent touch operation, abandon the complicated, gently touch,You can cut the song, answer and disconnect, adjust the volume and other operation instructions. Specifications: With Microphone: Yes Wireless Type: Bluetooth Waterproof: Yes Volume Control: Yes Vocalism Principle: Dynamic Total Harmonic Distortion: 1% Style: Ear Hook Sensitivity: 38dB Resistance: 32Ω Number Of Drivers: 4 Model: J8 Earbuds Magnet Type: Other Wireless: Yes Impedance Range: up to 32 Ω Frequency Response Range: 20 - 20000Hz Earcups Type: Sealed Driver Diameter: 13mm Connectors: Type c Communication: True Wireless Codecs: AAC,Apt-X Charging Method: Charging case Certification: CE Bluetooth Version: 5.2 Noise-Cancellation: ENC and Active Noise Cancelling Package Content: 1 x User Manual 1 x Charging case 1 x Charging Cable 1 x J8 Earbuds
-  Updated: 2025-06-22T07:52:10Z
+  Updated: 2025-10-12T19:18:54Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -3382,7 +3382,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/J8_TWS_Bluetooth_Earbuds_with_Active_Noise_Cancelling_-_Hifi_Media_Store-980476.jpg?v=1719025391
     Price: 40,99 € EUR
 - [J7 Auriculares Bluetooth TWS con ENC y ANC](https://hifimediastore.com/products/j7-tws-bluetooth-earbuds-with-enc-and-active-noise-cancellation): Gran rendimiento Se adopta el nuevo chip Bluetooth 5.2 para mejorar el rendimiento de los auriculares inalámbricos. Reducción de ruido, conexión inalámbrica más estable, mayor rango de conexión, audio más sincronizado y menor latencia. A través de la conexión Bluetooth, se puede conectar fácil y rápidamente a todos los smartphones. La primera conexión, la próxima vez que se abra la caja de carga, se conectará automáticamente. Se trata de unos auténticos auriculares inalámbricos Bluetooth. Sonido de alta calidad Los auriculares Bluetooth reducen muy bien el ruido, hacen que las llamadas sean más claras y, al mismo tiempo, mejoran el efecto de sonido y equilibran el audio para que puedas escuchar un sonido más nítido cuando hablas por teléfono. Cuando escuchas música, te permite disfrutar de efectos de sonido de mayor calidad. Smart Touch Cada auricular tiene un diseño táctil inteligente. Puedes utilizar la función táctil para controlar directamente el volumen, las llamadas, el asistente de voz y otras funciones del teléfono cuando estés haciendo ejercicio o cuando te resulte incómodo sacar el teléfono. Cómodo de llevar Se trata de unos auriculares inalámbricos muy cómodos de llevar. Los auriculares tienen forma ergonómica y vienen con almohadillas de silicona que no causan dolor en los oídos incluso con un uso prolongado. Los auriculares inalámbricos no sólo son potentes, sino también muy prácticos. Podemos usarlos muchas veces en nuestra vida, como en videoconferencias, retransmisiones en directo, deportes y para contestar llamadas en entornos ruidosos. Bluetooth 5.2 Nuevo chip Bluetooth 5.2, bajo consumo de energía, señal de conexión estable y sin demoras, para que puedas disfrutar de la libertad de la conexión inalámbrica. Después de la primera conexión, la conexión se puede emparejar automáticamente abriendo la tapa y se puede apagar automáticamente volviendo a colocarla en la caja. Compatible con la mayoría de teléfonos móviles, tablets, portátiles y otros dispositivos del mercado. Cancelación de ruido. Nueva actualización ANC, cancelación de ruido de llamadas, aclara las llamadas. Cancelación de ruido inteligente ENC, debilitación del ruido ambiental en tiempo real, incluso en áreas ruidosas, las llamadas permanecen claras. Nuevos auriculares inalámbricos con cancelación de ruido que brindan una experiencia auditiva precisa. Fiesta Auditiva El altavoz dinámico de 10 mm complementado con una película de titanio compuesto de PU de alta elasticidad restaura la delicada voz humana en la música, el sonido envolvente y la experiencia musical estéreo 3D. Interruptor de modo binaural, auriculares izquierdo y derecho; disfruta del festín auditivo. Touch Control El uso de sensores es sensible al control táctil, una experiencia más conveniente y libertad táctil con la punta de los dedos. Toca al alcance de tu mano, apunta un poco, gran variedad de controles funcionales al alcance de tu mano. Batería de Larga Duración Auriculares con compartimento de carga de gran capacidad, podrás cargar los auriculares de forma continua, sin miedo a que los auriculares se queden sin energía de repente. Compartimento de carga de batería de 500 mAh, se puede almacenar de 4 a 5 veces, carga completa de 1 hora. Especificaciones: Con micrófono: SíTipo inalámbrico: BluetoothResistente al agua: SíControl de volumen: SíEstilo: In-EarSensibilidad: 42dBResistencia: 32ΩNúmero de controladores: 4Modelo: J7 Auriculares TWSInalámbrico: SíRango de impedancia: hasta 32 ΩRango de respuesta en frecuencia: 20 - 20000HzTipo de orejeras: SelladoDiámetro del conductor: 10mmBotón de control: NoConectores: Tipo CComunicación: True WirelessCódecs: AAC,Apt-XMétodo de carga: Estuche de cargaCertificación: CEVersión Bluetooth: 5.2Cancelación de ruido: ANC y ENC Contenido del paquete: 1 x Manual del usuario1 x Estuche de carga1 x Cable de carga1 x Juego de almohadillas reemplazables1 x J7 TWS Earbuds
-  Updated: 2025-09-03T00:35:02Z
+  Updated: 2025-10-12T19:18:54Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -3396,7 +3396,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/J7_Auriculares_Bluetooth_TWS_con_ENC_y_ANC_-_Hifi_Media_Store-980408.jpg?v=1719025256
     Price: 40,99 € EUR
 - [H350 Pandora Wired Gaming Headset for PC/PS4/XBOX One/NS With Led Lights](https://hifimediastore.com/products/h350-pandora-wired-gaming-headset-for-pc-ps4-xbox-one-ns-with-led-lights): About this item RGB and More In Control - H350 Pandora is the first headset with RGB backlight, dynamic and static RGB backlit modes can be switched easily via audio in-line control, volume adjustment and mic mute are also in control too. 2.0 Channel Surround Sound - Equipped with 50mm audio driver and intelligent extreme bass enhances the sound clarity and provides you phenomenal sound field and makes it valuable for various games. Detachable Clear Mic - A detachable microphone wrapped in 4mm thick foam picks-up only your voice loud and clear. Ideal for in-game and online chat, and then remove it when watching movies or listening to music. Feel the Comfort - The 2cm thick, cozy memory foam earpads ensure that you won't be burdened during marathon gaming sessions or tiring business trip. Stay in The Game - With 3.5mm + USB powered braided cable and 2 x 3.5mm cables splitter (mic/audio), H350 is fully compatible with all major gaming platforms including PC and consoles. RGB and More in Control H350 Pandora is the first headset with RGB backlight, dynamic and static RGB backlit modes can be switched easily via audio in-line control, volume adjustment and mic mute are also in control too. 2.0 Channel Surround Sound Equipped with 50mm audio driver and intelligent extreme bass enhances the sound clarity and provides you phenomenal sound field and makes it valuable for various games. Detachable Clear Mic A detachable microphone wrapped in 4mm thick foam picks-up only your voice loud and clear. Perfect for in-game and online chat, and then remove it when watching movies or listening to music. Stay In The Game With 3.5mm + USB powered braided cable and 2 x 3.5mm cables splitter (mic/audio), H350 is fully compatible with all major gaming platforms including PC and consoles. Feel The Comfort The 2cm thick, cozy memory foam earpads ensure that you won't be burdened during marathon gaming sessions or tiring business trip. Specifications: With Microphone: YesWaterproof: NoVolume Control: YesVocalism Principle: DynamicSupport Memory Card: NoStyle: Gaming HeadsetSensitivity: 93+/-3DBdBResistance: 240±15%ΩLine Length: 2mWireless: NoHeadphone Pads Material: Memory FoamFrequency Response Range: 20 - 20000HzControl Button: YesConnectors: USBCommunication: WiredCertification: CE,FCCNoise-Cancellation: No Package Content: 1 x User Manual1 x H350 Gaming Headset
-  Updated: 2025-06-22T07:52:10Z
+  Updated: 2025-10-12T19:18:55Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -3410,7 +3410,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/NS_With_Led_Lights_-_Hifi_Media_Store-975087.jpg?v=1719017690
     Price: 76,99 € EUR
 - [SIMU S2 True Wireless Earbuds With Active Noise Cancelling](https://hifimediastore.com/products/simu-s2-true-wireless-earbuds-with-active-noise-cancelling): Hybrid ANC Technology Hybrid ANC technology plus a hybrid digital noise cancellation chip allow -32db noise reduction via real-time algorithms, giving you a silent world. Enjoy Good Music ALL Day and ALL Night Advanced Wireless 5.0 solution reduces power consumption and offers longer battery Life . Give you about 7 hours of battery Life on a single charge when ANC off and about 24 hours playback time with a charging case. Never Get Tired of Pleasant Sounds 10mm Neodymium magnet moving coils. PU composite diaphragms. AAC / SBC high quality decoding. Mode Selection Long press left or right earphone 2 second for disable ANC-enable ASM-enable ANC-reject a call In-ear Detection Function The second you wear or take out an earphone, your content plays or pauses as a smart optical in-ear sensor detects your action through light changes. Wireless Charging, Ultimate Convenience Turn on Hybrid ANC, Enter a Quiet World Hybrid ANC technology combines feed-forward and feedback ANC . The dual microphone picks up external and in-ear noise respectively , and the moving coil emits anti-phase sound wave to reduce ambient and low frequency noise by up to -32db. Ambient Sound Mode for Small Talk Long press to enable ambient sound mode when you need to hear the outside world to make small talk and listen to a boarding announcement. Clear Calls for a Pleasant Conversation High-sensitivity MEMS microphones in a triple microphone array accurately pick up the sound while removing all kinds of noise, allowing you to talk like talking face to face anywhere. BES Wireless 5.0, More Stable Connection BES 2300YP chip and FPC antenna further enhance the RF performance, reducing delay and stabilizing signals. Low Latency for Enjoying Games AV synchronization and low latency for videos and games allow you to launch a fast attack and control the battle at any time. Specifications: With Microphone: Yes Wireless Type: bluetooth Waterproof: Yes Waterproof: IPX4 Volume Control: No Vocalism Principle: Dynamic Total Harmonic Distortion: 1% Support Memory Card: No Style: In-ear Sensitivity: 107dB Resistance: 20Ω Number Of Drivers: 3 Max Output: 0mW Magnet Type: Other Wireless: Yes Impedance Range: up to 32 Ω Frequency Response Range: 20 - 20000Hz Earcups Type: Sealed Driver Diameter: 10mm Connectors: Type c Communication: True Wireless Charging Method: Charging case Certification: CE,FCC,RoHS Bluetooth Version: 5.0 Model: SIMU S2 Noise-Cancellation: ANC (Active Noise Cancelling) Package Content: 1 x User Manual 1 x Charging Case 1 x Charging Cable 1 x SIMU S2 Earbuds
-  Updated: 2025-09-30T17:02:35Z
+  Updated: 2025-10-12T19:18:56Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -3440,7 +3440,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/SIMU_S2_True_Wireless_Earbuds_With_Active_Noise_Cancelling_-_Hifi_Media_Store-996743.jpg?v=1719073902
     Price: 118,99 € EUR
 - [Bowie M2/M2 Pro TWS Earbuds With Active Noise Cancelling and ENC Noise Reduction](https://hifimediastore.com/products/bowie-m2-m2-pro-tws-earbuds-with-active-noise-cancelling-and-enc-noise-reduction): Description: Adaptive Noise Cancellation up to -42dB Bluetooth 5.2 4-Mic ENC Call Noise Cancellation 0.038s Low Latency Designed to Calm Your World ANC Mode/Transparency Mode Intelligent Noise Cancellation. 3 different noise cancellation modes to choose in the app. 10 adjustable settings for every noisy situation. Indoor Mode Commute Mode Outdoor Mode 4-MIC ENC technology uses an Al neural network algorithm to separate the ambient noise from human sounds. Even in a noisy back -ground , you can still enjoy a high-quality phone call. Superb Connectivity with Low Latency 0.038 seconds surprisingly low latency, perfect for videos and games. 10 Minutes Charging 2 Hours Enjoying About 30 hours Use with the charging case. Simultaneous Connection for 2 Devices You can connect the earphones to 2 different devices at the same time and seamlessly switch audios between the devices so that you wont miss any important calls. Premium Sound Quality 10mm moving coils. Cater to Your Preference Customize Storm Lite to your own preference in the app. Auto Connection In-ear Detection After the first time pairing , the earphones can be automatically connected by opening the charging case . The smart in-ear detection module enables play and pause when wear and take out the earphones. Responsive Touch Control. Only M2 Pro Support Wired & Wireless Charging (M2 Support Wired Charging) *OTA Upgrade Download the baseus app, bind the M2 headset, enter the settings, upgrade the version, and enjoy the latest features. Specifications: With Microphone: Yes Wireless Type: bluetooth Waterproof: IPX4 Volume Control: No Vocalism Principle: Dynamic Total Harmonic Distortion: 1% Support Memory Card: No Support APP: Yes Style: In-ear Sensitivity: 42dB Resistance: 20Ω Number Of Drivers: 4 Max Output: 0mW Magnet Type: Other Wireless: Yes Impedance Range: from 33 to 100 Ω Frequency Response Range: 20 - 20000Hz Earcups Type: Semi-open Driver Diameter: 10mm Connectors: Type c Communication: True Wireless Codecs: AAC,sbc Charging time: About 1 hour Charging Method: Charging case Certification: CE,FCC Bluetooth Version: Other Bluetooth: V5.2 Battery capacity: 40 mah / 0.148wh (earphones),400 mah / 1.48wh ( charging case) Noise-Cancellation: Active Noise Cancelling Package Content: 1 x User Manual 1 x Charging case 1 x Charging Cable 1 x Bowie M2/M2 Pro Earbuds
-  Updated: 2025-06-22T07:52:11Z
+  Updated: 2025-10-12T19:18:56Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -3494,7 +3494,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/M2_Pro_TWS_Earbuds_With_Active_Noise_Cancelling_and_ENC_Noise_Reduction_-_Hifi_Media_Store-969981.jpg?v=1719007734
     Price: 112,99 € EUR
 - [JEYX3 Luxury Bluetooth Earbuds with CVC 8.0 Noise Reduction](https://hifimediastore.com/products/jeyx3-luxury-bluetooth-earbuds-with-cvc-8-0-noise-reduction): Specifications: With Microphone: Yes Wireless Type: bluetooth Waterproof: Yes, IPX7 Volume Control: No Vocalism Principle: Dynamic Style: In-ear Sensitivity: 123dB Resistance: 32Ω Wireless: Yes Impedance Range: up to 32 Ω Frequency Response Range: 20 - 20000Hz Control Button: Yes Communication: Wireless Charging Method: Charging case Bluetooth Version: 5.0 Noise-Cancellation: CVC8.0 Noise Reduction Name: JEYX3 Luxury Earbuds Capacity of Earphones: 30mAh Capacity of Charging Case: 300mAh Music Time: About 4-5 Hours Standby Time: About 120 Hours Music Control: Touch Control Super Bass HiFi Music Smart Touch Control Package Content: 1 x Luxury Wireless Earbuds 1 x Charging Cable 1 x User Manual
-  Updated: 2025-06-22T07:52:11Z
+  Updated: 2025-10-12T19:18:56Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -3512,14 +3512,14 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/JEYX3_Luxury_Bluetooth_Earbuds_with_CVC_8.0_Noise_Reduction_-_Hifi_Media_Store-981947.jpg?v=1719027726
     Price: 43,99 € EUR
 - [Air3 Pro TWS Earbuds With Hybrid ANC Noise Cancelling](https://hifimediastore.com/products/air3-pro-tws-earbuds-with-hybrid-anc-noise-cancelling): Description: Equipped with a high level of ANC effect, to a quiet listening space Equipped with an ANC (active noise canceling) effect equivalent to the industry's highest level ANC earphones (selling price of 20,000 yen or more). Unlike the call noise can technology, it cancels external noise with a waveform of the opposite phase and mute it even in normal use, and has a noise reduction performance of up to 35 dB (result of detailed inspection). The reliable ANC function that you can experience blocks external noise in your daily life and creates a comfortable environment with a high immersive feeling both on the go and indoors. * It also supports the external sound capture (hear-through) mode, which allows you to easily hear the surrounding sounds without removing the earphones. Biocellulose diaphragm reproduces sound delicately, no compromise on sound quality Adopts a diaphragm using "biocellulose" produced from plant-derived fibers. It realizes beautiful mid-high range reproduction with high resolution and delicateness, and faithfully reproduces low-mid range with large amplitude by adopting a free edge with good linearity. With a 12mm dynamic driver that can reproduce the sound of different frequencies in detail, the sound quality is close to that of a high-end brand by achieving both a three-dimensional sound with a natural and transparent texture and an outstanding ANC effect. High resolution mainstream codec aptX Adaptive compatible Adopts the latest chipset "QCC3046" from Qualcomm (Qualcomm aptX). aptX Adaptive unifies high-quality sound aptX HD and low-latency aptX LL, the operation mode is automatically determined based on the algorithm, and the judgment of low-latency, high bit rate, low bit rate mode is based on the usage situation. It is done automatically. By varying the transfer bit rate according to the radio wave condition and data volume of the listening environment, a stable and low-delay audio listening environment can be realized, sound quality and stability are dramatically improved, and high synchronization performance and advanced performance are achieved. Achieves original sound reproduction. Transcendence improvement of wireless earphone left and right independent reception method Compatible with Qualcomm TrueWireless Mirroring technology, which can be said to be the dawn of the next generation left and right independent reception method. Realizes simultaneous left and right connection with wireless earphones, enhances the sensitivity of wireless communication independently, and tunes to realize low power consumption and low delay, so you can enjoy music and calls without interruption. Further evolved Bluetooth 5.2 compatible. It has a faster and more stable communication function, optimizes the transmission / reception power of the device, and can transmit high-quality sound quality while consuming low power. Compact size and overwhelming stamina that can be used for a long time Supports Type-C high-speed charging. Fully charged in one and a half hours, the earphone can be used for 6 hours alone, and can be used with the case for up to 24 hours. You can use it for a long time without worrying about the remaining charge, such as at an online meeting or at a travel destination. Note: The APP is still in the debugging stage and will be available in the near future. Please wait for the official notification for the specific availability time. Specifications: Wireless Type: bluetooth Waterproof: Yes Volume Control: Yes Vocalism Principle: Dynamic Style: In-ear Plug Type: L Bending Number Of Drivers: 2 Model: Air3 Pro Wireless: Yes Impedance Range: up to 32 Ω Headphone Pads Material: Silicone Frequency Response Range: 20 - 20000Hz Driver Diameter: 12mm Control Button: Yes Connectors: Type c Communication: True Wireless Charging Method: Charging case Certification: CE,FCC,RoHS,pse Noise-Cancellation: ANC Noise Canceling Bluetooth Version:V5.2 Bluetooth Chipset:QCC3046 Supported Bluetooth Codec: AAC,SBC,APTX,APTX-adaptive Bluetooth Prole: HSP, HFP, A2DP, AVRCP Sensitivity: 112±1.5dB Resistance: 32Ω±10% Maximum Working Range: 33feet/10m(no obstacle) Charging Input:5V/1A Playing Time: About 6 Hours（ANC\Pass through：5H） Earbuds Charging Time: About 1.5 Hours Charging Case Charging Time: About 2 Hours Charging Case Recharge Earphones: 3 times Earbud Power Capacity: 40mAh*2+280mAh Earbud Dimension(L*W*H): 32.5*21.5*23.5mm Charging Case Dimension(L*W*H): 60*24*45mm Earbuds Weight(Single):4.5g Charging Case Weight: 33g Package Content: 1 x Air3 Pro Hybrid ANC Noise Cancelling Earbuds 1 x Type-C Charging Cable 6 x Interchangeable Ear Tips 1 x Charging Case 1 x User Manual
-  Updated: 2025-06-22T07:52:11Z
+  Updated: 2025-10-12T19:18:56Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/Air3_Pro_TWS_Earbuds_With_Hybrid_ANC_Noise_Cancelling_-_Hifi_Media_Store-964510.jpg?v=1718995428
   Price: 79,99 € EUR
 - [Mini Pro Wireless Earbuds With Hybrid Active Noise Cancelling](https://hifimediastore.com/products/mini-pro-wireless-earbuds-with-hybrid-active-noise-cancelling): Mini Pro Hybrid ANC Earbuds Compact Yet Powerful When it comes to our pursuits, our goal has always been to get smaller and stronger. Now Mini Pro did it. With this such small size, what will shock you is its powerful performance. Not only performs extremely well in hybrid active noise cancellation with industry-leading performance, it also does well in connection stability, sound quality, and other aspects. Trust us, you'll be totally amazed at how much energy inside its tiny body if you know more about them. [Hybrid Active Noise Cancelling Technology] Mini Pro show industry-leading performance at noise cancellation in both depth and width. They can effectively suppress surrounding noises to a considerable extent and never compromise the sound quality while the depth can be up to 35dB. Just one touch, you can concentrate on your music no matter where you are.[QCC3040 & aptX-Adaptive] Advanced Qualcomm QCC3040 chip and latest Bluetooth 5.2 technology ensure seamless connection, fast transmission, and ultra-low power consumption. With the combination of 10mm bio-diaphragm driver and aptX-Adaptive decoding technology, these wireless earbuds truly restore every detail and offer you CD-level lossless original sound.[Transparency Mode & Delicate Design] Long press the left earbud will make a fast switch to transparency mode, you can perceive the outside world while still enjoying the music. Repeatedly adjusted design make these earbuds smooth and compact. Ultra-lightweight and ergonomic build ensure the comfortable wearing experience to meet your needs of true wireless enjoyment.[Clear Calls & TrueWireless Mirroring] Utilizing Qualcomm’s cVc noise reduction technology, Mini Pro Bluetooth earbuds eliminate background noises to a large degree and ensure your voice be heard clearly without any interference. With Qualcomm TrueWireless technology, you can use either one as master earbud freely and enjoy seamless switching between single and twin mode.[Game Mode & Long Time Company] 60ms ultra-low latency in game mode makes sound effects sync with your screen all the time. You can identify the position of sound accurately and react faster than others at every fight. 7 hours in normal mode (5 hours in ANC mode) for a single charge and twice from the charging case make total working time up to 21 hours. Note: Products with electrical plugs are designed for use in the US. Outlets and voltage differ internationally and this product may require an adapter or converter for use in your destination. Please check compatibility before purchasing. Specifications: With Microphone: Yes Wireless Type: bluetooth Waterproof: Yes Water resistance: IPX5 Volume Control: Yes Vocalism Principle: Dynamic Support APP: Yes Style: In-ear Sensitivity: 105dB Resistance: 32Ω Model: Mini Pro Wireless: Yes Impedance Range: up to 32 Ω Frequency Response Range: 20 - 20000Hz Earcups Type: Semi-open Driver Diameter: 10mm Control Button: Yes Connectors: Type c Communication: True Wireless Codecs: Apt-X,sbc Charging Method: Charging case Certification: CE,FCC,RoHS,pse Bluetooth Version: 5.2 Noise-Cancellation: Hybrid ANC and CVC 8.0 Control Type: Touch Control Playtime per Charge: 7 Hrs (5 Hrs in ANC mode) Playtime in Total: 21 Hrs Single Earbud Weight: 0.17oz Total Weight: 0.98oz Cable Feature: USB Type-C Normal Mode/ANC Mode/Transparency Mode: Long press the left MFB for 1.5s Enter/Exit Game Mode: Triple tap the left FMB Voice Assistant: Triple tap the right FMB Package Content: 1 x Mini Pro Earbuds 1 x User Manual 1 x Charging Case 1 x Charging Cable 1 x Replaceable Pads Set
-  Updated: 2025-06-22T07:52:12Z
+  Updated: 2025-10-12T19:18:57Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -3533,7 +3533,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/Mini_Pro_Wireless_Earbuds_With_Hybrid_Active_Noise_Cancelling_-_Hifi_Media_Store-985585.jpg?v=1719033750
     Price: 74,99 € EUR
 - [Zealot S1 Bluetooth Portable Speaker for Bicycle with Flashlight](https://hifimediastore.com/products/zealot-s1-bluetooth-portable-speaker-for-bicycle-with-flashlight): Specifications: Waterproof: Yes Voice Control: No Tweeter type: HORN Total Harmonic Distortion: 1% Support Memory Card: Yes Support Apt-x: No Speaker Type: Portable Remote Control: No Power Source: DC,Battery Playback Function: mp3 PMPO: 3W Number of Loudspeaker Enclosure: 1 Material: Plastic Input Power(W): <25 W Feature: Wireless subwoofer Display Screen: No Control: Volume control Communication: Bluetooth Codecs: AAC Channels: 2 (2.0) Certification: CE Cabinet Material: Plastic Built-in Microphone: Yes Bluetooth Version: 5.0 Battery: Yes Audio Crossover: Full-Range Acoustic enclosure: HORN FM radio function Power bank function Led flashlight function (3 SOS light modes) With micro sd/TF card slot Output voltage: 5v/1A Speaker: 4Ω 3W Φ40mm Transmission distance: 10m Frequency response: 80Hz-20KHz Output power: 3w Signal to noise ratio: ≥90dB Working voltage: 3.7V Size: 15.5cm x 5cm x 5cm Battery capacity: 3000mAh Music play time: 8-10 hours Call duration: 10h Standby time: greater than or equal to 30 days Charging time: about 5 hours Item weight: 260g Packing Content: 1 x Zealot S1 bluetooth speaker 1 x Bike mount bracket 1 x USB charge cable 1 x English manual
-  Updated: 2025-06-22T07:52:12Z
+  Updated: 2025-10-12T19:18:58Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -3559,7 +3559,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/Zealot_S1_Bluetooth_Portable_Speaker_for_Bicycle_with_Flashlight_-_Hifi_Media_Store-1004600.jpg?v=1719121689
     Price: 41,99 € EUR
 - [X10 Gaming Earbuds with ANC](https://hifimediastore.com/products/x10-gaming-earbuds-with-anc): Features: 【IPX 7 Waterproof】You can listen to music while lying by the water and basking in the sun without worrying about the headphones falling into the water.【Active noise control】With ANC technology, the embedded forward and backward microphones help collect noises from both environment and ear canal, Reverse sound wave will be soon generated to neutralize such noises.【Environmetal noise cancellation】With ENC technology, It can reduce the ambient noise by 90% during the call, Listening is one step closer to getting quiet talk free even in noisy places.【Bluetooth 5.2】With the cutting-edge Bluetooth 5.2 technology, it has less power consumption, faster transmission and lower latency.【True stereo mode】4 microphones create a stereo sound environment, You can enjoy stereo sound from ear to ear.【Easy Pairing】When you open the charging case and it will turn on and pair your device automatically. 【Touch Control 】Whenever you need a quiet world just touch the earbud. you can press to play, pause, and skip through songs, or answer and end calls. Specifications: With Microphone: Yes Wireless Type: bluetooth Waterproof: Yes Volume Control: Yes Vocalism Principle: Dynamic Support Memory Card: No Sensitivity: 108dB Number Of Drivers: 2 Magnet Type: Other Wireless: Yes Impedance Range: up to 32 Ω Headphone Pads Material: Silicone Frequency Response Range: 20 - 20000Hz Earcups Type: Sealed Driver Diameter: 7mm Control Button: Yes Connectors: Type c Communication: Wireless Codecs: AAC,sbc Charging Method: Charging case Certification: CE Bluetooth Version: 5.1 Active Noise-Cancellation: Yes Product name: X10Available system: iOS/AndroidOperation range: 10mTalk time: 3.5hrMusic time: 5hr/6hr(ANC ON/OFF)Battery capacity(case): 380mAhCharging port: Type-C Package Content: 1 x X10 Earphone3 x pairs eartips S/M/L (one pair has been assembled)1 x Type-C USB charging cable1 x User manual Note: * Please choose proper eartips for best noise canceling experience.* ANC mode will be activated by default in stereo mode (ANC is not available in mono mode).* ANC will be auto turned of when you are calling.* Transparent mode, Click the button 4 times in a row to enter Transparent mode, notice the world around you, Safer for drivers, Chat to friends without taking off earbuds, Keep noticing important information in places like airport.* Pairing pop-up window requires Android system. (Please keep the app running in the background).
-  Updated: 2025-06-22T07:52:12Z
+  Updated: 2025-10-12T19:18:58Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -3580,7 +3580,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/B18_Gaming_Earbuds_-_Hifi_Media_Store-968712.jpg?v=1719004859
     Price: 38,99 € EUR
 - [INVAQ 002 Auriculares con diseño Mecha](https://hifimediastore.com/products/invaq-002-mecha-design-earbuds): Especificaciones: Con micrófono: Sí Tipo inalámbrico: bluetooth Peso[g]: 6 Resistente al agua: Sí Control de volumen: Sí Asistente de voz integrado: SÍ Principio de vocalidad: Dinámica Distorsión armónica total: 1% Soporta tarjeta de memoria: No Estilo: In-ear Aislamiento acústico: SÍ Sensibilidad: 96dB Resistencia: 32Ω Número de controladores: 2 Tecnología NFC: No Alcance inalámbrico máximo[m]: 10m-20m Salida máxima: 16mW Material: Gel de sílice Tipo de imán: Other Inalámbrico: Yes Rango de impedancia: de 33 a 100 Ω Material de las almohadillas de los auriculares: Silicona Rango de respuesta en frecuencia: 20 - 20000Hz Tipo de orejeras: Sellado Diámetro del driver: 10mm Botón de control: Sí Conectores: Type C Comunicación: Inalámbrico Códecs: AAC,Apt-X Método de carga: Inalámbrico Certificación: EAC Categoría: Auriculares Versión Bluetooth: 5.3 Duración de la batería hasta[horas]: 6 Capacidad de la batería[mAh]: 320 Reducción de ruido: ENC Contenido del paquete: 1 x Manual del usuario 1 x Cargador 1 x Estuche de carga 1 x Adaptador USB Tipo-C
-  Updated: 2025-06-22T07:52:13Z
+  Updated: 2025-10-12T19:18:59Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -3610,7 +3610,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/INVAQ_002_Auriculares_con_diseno_Mecha_-_Hifi_Media_Store-980189.jpg?v=1719024892
     Price: 75,99 € EUR
 - [Inva-X AK2803 Altavoz Bluetooth](https://hifimediastore.com/products/inva-x-ak2803-bluetooth-speaker): Características: Pequeño y exquisito: Es pequeño y liviano, fácil de transportar y puede usarse durante mucho tiempo. Cuando no lo estés usando, puedes guardarlo en tu bolsillo o bolso. Bluetooth: El altavoz está equipado con bluetooth, que se puede conectar a tu smartphone, tableta u otros dispositivos sin tener que preocuparte por la conexión de auriculares inalámbricos. Súper conveniente: El altavoz tiene un cable de alimentación incorporado, que se puede conectar fácilmente a tu dispositivo. Es muy cómodo de usar y no ocupa demasiado espacio. Especificaciones: Resistente al agua: NoControl por voz: NoTipo de producto: AltavozFuente de alimentación: BateríaNúmero de cajas acústicas: 1Potencia de entrada(W): 200-299WPMPO: 60WCanales: 2 (2.0)Certificación: CECabinet Material: MetalVersión Bluetooth: 5.0Batería: SíCruce de audio: Rango completoModelo: AK2803 Contenido del paquete: 1 x Altavoz AK28031 x Cable de audio1 x Cable de carga1 x Manual del usuario
-  Updated: 2025-06-22T07:52:13Z
+  Updated: 2025-10-12T19:19:00Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -3624,7 +3624,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/Inva-X_AK2803_Altavoz_Bluetooth_-_Hifi_Media_Store-980095.jpg?v=1719024737
     Price: 196,99 € EUR
 - [SOOLK High Power Speaker 100W](https://hifimediastore.com/products/soolk-high-power-speaker-100w): Features: [Shocking sound effect] The front and rear speakers can produce sound, along with intelligent digital audio processing chips to ensure sound balance, excellent resolution, and frequency response range. [Wireless interconnection] Two interconnected wireless speakers can play TWS wireless stereo sound outdoors. [Dual diaphragm] The RGB lights will shine with the rhythm of the music. [Three balanced modes] Standard (no light), soft mode (green light), enhanced mode (white light). [IPX5 Waterproof] Prevent the speaker from splashing and jetting. [Long battery life] 5000mAh capacity, long battery life and emergency mobile power supply to charge the phone and make the device fully charged. [Multiple connection methods] Bluetooth mode, AUX, U disk, TF card, etc. [Portable] It can be carried with you for outdoor sports such as polar camping, mountain climbing, cycling and skateboarding, which is very convenient. The lightweight suspension design allows you to enjoy the melody on the go. Specifications: Waterproof: YesVoice Control: NoTotal Harmonic Distortion: 0.1%Support Memory Card: YesSpeaker Type: PortableSound Mode: 3D Surround Sound Mode,Stereo Sound Mode,Live Sound Mode,Extra Bass Mode,3EQ ModesSensitivity: 75dBSubwoofer cabinet material: MetalRemote Control: NoPower Source: Battery,USBPlayback Function: mp3,FLAC,APE,WAVPMPO: 100WOutput Power: 100WNumber of Loudspeaker Enclosure: 4Material: PlasticInput/Output: USBInput Power(W): 200-299WImpedance: 5-8 OhmFrequency Range: 100Hz-20KHzDisplay Screen: NoControl: Volume controlCommunication: AUX,USB,bluetoothCodecs: Apt-X HDChannels: 3 (2.1)Certification: CE,FCC,RoHSCategory: SpeakersCabinet Material: PlasticBuilt-in Microphone: YesBluetooth Version: 5.0Battery: YesAudio Crossover: Full-Range100W 3D stereo surround soundmodname=ckeditor100W 3D stereo surround sound IPX5 waterproof bluetooth speakerSuper bass portable bluetooth speakersDSP TF U-Disk PowerbankSupport tws voice assistantTWS interconnection=200WAppearance size: 240*92*82MM Product weight: 1.55 (KG)
-  Updated: 2025-06-22T07:52:14Z
+  Updated: 2025-10-12T19:19:01Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -4196,7 +4196,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/Apple_iPhone_14_128GB_Blanco_Estrella_Starlight_White_-_Hifi_Media_Store-966510.jpg?v=1718999858
   Price: 733,99 € EUR
 - [Apple iPhone 14 256GB Negro Medianoche (Midnight Black) MPVX3QL/A](https://hifimediastore.com/products/apple-iphone-14-256gb-negro-medianoche-midnight-black-mpvx3ql-a): iPhone 14  iOS 16 Detección de accidentes Gran batería  Pantalla 21% más grande Super Retina OLED XDR Modo Acción  Chip A15 Bionic  Este iPhone no incluye cargador ni auriculares en la caja original.
-  Updated: 2025-10-11T23:12:43Z
+  Updated: 2025-10-12T17:20:17Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
@@ -4511,14 +4511,14 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/A_-_Hifi_Media_Store-967101.jpg?v=1719001262
   Price: 832,99 € EUR
 - [Apple iPhone 15 128GB Verde (Green) MTP53QL/A](https://hifimediastore.com/products/apple-iphone-15-128gb-verde-green-mtp53ql-a): Apple iPhone 15:  Chip A16 Bionic Cámara dual de 48MP + 12MP Zoom óptico Vídeo 4K HDR Pantalla Super Retina XDR de 6,1" USB-C Hasta 20H de reproducción de vídeo
-  Updated: 2025-10-12T03:55:15Z
+  Updated: 2025-10-12T17:20:15Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/A_-_Hifi_Media_Store-967121.jpg?v=1719001304
   Price: 898,99 € EUR
 - [Apple iPhone 15 Plus 128GB Negro (Black) MU0Y3QL/A](https://hifimediastore.com/products/apple-iphone-15-plus-128gb-negro-black-mu0y3ql-a): Apple iPhone 15 Plus:  Chip A16 Bionic Cámara dual de 48MP + 12MP Zoom óptico Vídeo 4K HDR Pantalla Super Retina XDR de 6,7" USB-C Hasta 26H de reproducción de vídeo Batería de 4383 mAh
-  Updated: 2025-10-12T00:09:33Z
+  Updated: 2025-10-12T17:25:10Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
@@ -4546,7 +4546,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/A_-_Hifi_Media_Store-967255.jpg?v=1719001616
   Price: 1060,99 € EUR
 - [Apple iPhone 15 Plus 128GB Amarillo (Yellow) MU123QL/A](https://hifimediastore.com/products/apple-iphone-15-plus-128gb-amarillo-yellow-mu123ql-a): Apple iPhone 15 Plus:  Chip A16 Bionic Cámara dual de 48MP + 12MP Zoom óptico Vídeo 4K HDR Pantalla Super Retina XDR de 6,7" USB-C Hasta 26H de reproducción de vídeo Batería de 4383 mAh
-  Updated: 2025-10-12T00:09:38Z
+  Updated: 2025-10-12T17:25:10Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
@@ -4560,7 +4560,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/256GB_Azul_Alpine_Blue_Dual_SIM_-_Hifi_Media_Store-1000214.jpg?v=1719092984
   Price: 416,99 € EUR
 - [Apple iPhone 15 128GB Rosa (Pink) MTP13QL/A](https://hifimediastore.com/products/apple-iphone-15-128gb-rosa-pink-mtp13ql-a): Apple iPhone 15:  Chip A16 Bionic Cámara dual de 48MP + 12MP Zoom óptico Vídeo 4K HDR Pantalla Super Retina XDR de 6,1" USB-C Hasta 20H de reproducción de vídeo
-  Updated: 2025-10-12T00:10:19Z
+  Updated: 2025-10-12T17:20:16Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
@@ -4784,19 +4784,19 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/128GB_Plata_Silver_Dual_SIM_SM-A057G_-_Hifi_Media_Store-992566.jpg?v=1719051937
   Price: 172,99 € EUR
 - [Samsung Galaxy S24 5G 8GB/256GB Gris (Marble Gray) Dual SIM SM-S921B](https://hifimediastore.com/products/samsung-galaxy-s24-5g-8gb-256gb-gris-marble-gray-dual-sim-sm-s921b): Samsung Galaxy S24 5G Pantalla FHD Dynamic AMOLED 2X Procesador Samsung Exynos 2400 Deca Core Camara Triple 50 MP 10 MP 12 MP y video en 8K Bateria de 4000 mAh y Carga Rapida de 25 W Android 14 One UI 61 Condiciones de Samsung Pay en la descri
-  Updated: 2025-10-12T00:32:33Z
+  Updated: 2025-10-12T18:10:15Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/256GB_Gris_Marble_Gray_Dual_SIM_SM-S921B_-_Hifi_Media_Store-995700.jpg?v=1719067217
   Price: 711,99 € EUR
 - [Samsung Galaxy S24 5G 8GB/256GB Amarillo (Amber Yellow) Dual SIM SM-S921B](https://hifimediastore.com/products/samsung-galaxy-s24-5g-8gb-256gb-amarillo-amber-yellow-dual-sim-sm-s921b): Samsung Galaxy S24 5G Pantalla FHD Dynamic AMOLED 2X Procesador Samsung Exynos 2400 Deca Core Camara Triple 50 MP 10 MP 12 MP y video en 8K Bateria de 4000 mAh y Carga Rapida de 25 W Android 14 One UI 61 Condiciones de Samsung Pay en la descri
-  Updated: 2025-10-12T00:32:35Z
+  Updated: 2025-10-12T19:16:29Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/256GB_Amarillo_Amber_Yellow_Dual_SIM_SM-S921B_-_Hifi_Media_Store-995697.jpg?v=1719067200
-  Price: 738,99 € EUR
+  Price: 711,99 € EUR
 - [Samsung Galaxy A05s 4GB/128GB Negro (Black) Dual SIM SM-A057G](https://hifimediastore.com/products/samsung-galaxy-a05s-4gb-128gb-negro-black-dual-sim-sm-a057g): Samsung Galaxy A05s:  Pantalla LCD 6,7" FDH+ con 90 Hz Triple cámara de 50 MP Chip Qualcomm Snapdragon 680 4G Batería de 5000 mAh y Carga rápida de 25W Android 13  *Condiciones de Samsung Pay en la descripción.
   Updated: 2025-10-11T21:26:52Z
   Vendor: Samsung
@@ -4819,7 +4819,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/64GB_Azul_Twilight_Blue_Dual_SIM_-_Hifi_Media_Store-1003266.jpg?v=1719112214
   Price: 172,99 € EUR
 - [Xiaomi Redmi Note 13 4G 6GB/128GB Verde (Mint Green) Dual SIM](https://hifimediastore.com/products/xiaomi-redmi-note-13-4g-6gb-128gb-verde-mint-green-dual-sim): Xiaomi Redmi Note 13:  Pantalla AMOLED FHD+ de 120 Hz Cámara de 108 MP supernítida Batería de 5000 mAh Carga turbo de 33 W Procesador Snapdragon® de gran rendimiento Android 13, MIUI 14
-  Updated: 2025-10-11T21:30:08Z
+  Updated: 2025-10-12T18:40:15Z
   Vendor: Xiaomi
   Product Type: Smartphone
   Availability: Available
@@ -5176,7 +5176,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/power-case-headphones---mic-deepgaming--_246394_3_b3f6d896-2cf8-43df-8b45-5cb814f02ffd.jpg?v=1756402755
   Price: 28,99 € EUR
 - [Honor 200 Lite 5G 8GB/256GB Negro (Midnight Black) Dual SIM](https://hifimediastore.com/products/honor-200-lite-5g-8gb-256gb-negro-midnight-black-dual-sim): HONOR 200 Lite:  Pantalla AMOLED de 6,7" Diseño ultra fino y ligero Cámara de 108 MP Chip MediaTek Dimensity 6080 Batería de 4500 mAh Carga rápida de 35W Android 14, MagicOS 8
-  Updated: 2025-10-11T21:43:31Z
+  Updated: 2025-10-12T17:10:20Z
   Vendor: Honor
   Product Type: Smartphone
   Availability: Available
@@ -5211,7 +5211,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/512GB_Negro_Black_Dual_SIM_-_Hifi_Media_Store-1001018.jpg?v=1723742435
   Price: 455,99 € EUR
 - [Samsung Galaxy S24 5G 8GB/256GB Violeta (Cobalt Violet) Dual SIM SM-S921B](https://hifimediastore.com/products/samsung-galaxy-s24-5g-8gb-256gb-violeta-cobalt-violet-dual-sim-sm-s921b-1): Samsung Galaxy S24 5G Pantalla FHD Dynamic AMOLED 2X Procesador Samsung Exynos 2400 Deca Core Camara Triple 50 MP 10 MP 12 MP y video en 8K Bateria de 4000 mAh y Carga Rapida de 25 W Android 14 One UI 61 Condiciones de Samsung Pay en la descri
-  Updated: 2025-10-11T21:43:52Z
+  Updated: 2025-10-12T18:10:15Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
@@ -5323,7 +5323,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/hp-poly-bw-3320-stereo-usb-c-hs-----usb-_379536_6_fc58648e-92b4-498b-a060-77dcf4658373.jpg?v=1756402689
   Price: 45,99 € EUR
 - [Motorola Edge 50 Fusion 5G 8GB/256GB Azul (Forest Blue) XT2429-2](https://hifimediastore.com/products/motorola-edge-50-fusion-5g-8gb-256gb-azul-forest-blue-xt2429-2): Motorol Edge 50 Fusion:  Pantalla pOLED de 6,7" Cámara Dual de 50MP y 13MP Cámara selfie de 32MP con tecnología Quad Pixel Procesador Qualcomm Snapdragon 7 Gen 2 Batería de 5000 mAh Carga TurboPower de 68W Android 14 Protección IP68
-  Updated: 2025-10-11T21:47:20Z
+  Updated: 2025-10-12T17:30:21Z
   Vendor: Motorola
   Product Type: Smartphone
   Availability: Available
@@ -5582,7 +5582,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/auricular-diadema-philips-tah8506wt_00-_305887_7.jpg?v=1756401613
   Price: 112,99 € EUR
 - [Honor 200 5G 12GB/512GB Negro (Black) Dual SIM](https://hifimediastore.com/products/honor-200-5g-12gb-512gb-negro-black-dual-sim): HONOR 200:  Pantalla AMOLED de 6,7" Triple cámara de 50MP Chip Snapdragon 7 Gen 3 Batería de 5200 mAh HONOR SuperCharge de 100W Android 14, MagicOS 8
-  Updated: 2025-10-11T21:51:07Z
+  Updated: 2025-10-12T17:10:16Z
   Vendor: Honor
   Product Type: Smartphone
   Availability: Available
@@ -6037,7 +6037,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/trust-gxt-498-forta-auriculares-negro-ps5_7568ca02-1514-4566-babf-8463193ba223.jpg?v=1756571194
   Price: 73,99 € EUR
 - [Samsung Galaxy Z Fold6 5G 12GB/256GB Azul Oscuro (Navy) Dual SIM](https://hifimediastore.com/products/samsung-galaxy-z-fold6-5g-12gb-256gb-azul-oscuro-navy-dual-sim): Samsung Galaxy Z Fold6 Pantalla Dynamic AMOLED 2X Plegado 63 y Desplegado 76 Resistencia al agua IPX8 Qualcomm Snapdragon 8 Gen 3 Triple camara de 50MP Galaxy AI Conexion 5G Condiciones de Samsung Pay en la descripcion No incluye cargador ni aur
-  Updated: 2025-10-11T21:51:59Z
+  Updated: 2025-10-12T18:20:20Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
@@ -6310,7 +6310,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/13148.jpg?v=1723761966
   Price: 208,99 € EUR
 - [Xiaomi Redmi Pad SE 11" 8GB/256GB Wi-Fi Gris Grafito (Graphite Gray) 23073RPBFG](https://hifimediastore.com/products/xiaomi-redmi-pad-se-11-8gb-256gb-wi-fi-gris-grafito-graphite-gray-23073rpbfg): Xiaomi Redmi Pad SE:  Pantalla IPS LCD de 11" FHD+ y 90Hz Chip Qualcomm Snapdragon 680 4G (6 nm) Batería de 8.000 mAh y carga rápida de 10W Cuatro Altavoces compatibles con Dolby Atmos® Conector para auriculares de 3,5 mm MIUI Pad 14 con Android 13
-  Updated: 2025-10-12T11:55:15Z
+  Updated: 2025-10-12T18:40:22Z
   Vendor: Xiaomi
   Product Type: Tablet's
   Availability: Available
@@ -6520,7 +6520,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/5007.jpg?v=1723765574
   Price: 411,99 € EUR
 - [Honor Pad X9 11,5" 4GB/128GB Wi-Fi Gris (Space Gray)](https://hifimediastore.com/products/honor-pad-x9-115-4gb-128gb-wi-fi-gris-space-gray): Honor Pad X9;  Pantalla LCD TFT (IPS) 11,5" Plataforma móvil Snapdragon® 685 4G Ocho núcleos MagicOS 7.1 (Android 13) Cámara 5 MP Batería de polímero de litio 7250 mAh Wi-Fi 5, 802.11 a/b/g/n/ac Bluetooth BT5.1 267,3 mm x 167,4 mm x 6,9 mm 495 g.
-  Updated: 2025-10-12T00:10:06Z
+  Updated: 2025-10-12T17:15:12Z
   Vendor: Honor
   Product Type: Tablet's
   Availability: Available
@@ -6541,7 +6541,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/12212.jpg?v=1723769709
   Price: 722,99 € EUR
 - [Samsung Galaxy Tab S9 11,0" 12GB/256GB WiFi Gris (Graphite) X710N](https://hifimediastore.com/products/samsung-galaxy-tab-s9-110-12gb-256gb-wifi-gris-graphite-x710n): Samsung Galaxy Tab S9:  Resistente al agua y al polvo IP68 S Pen con certificación IP68 Pantalla Dynamic AMOLED 2X con Vision Booster Procesador Snapdragon 8 Gen 2 Batería 8400 mAh Android 13, One UI 5.1
-  Updated: 2025-10-12T00:17:20Z
+  Updated: 2025-10-12T18:10:22Z
   Vendor: Samsung
   Product Type: Tablet's
   Availability: Available
@@ -6625,7 +6625,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/14795.jpg?v=1725047425
   Price: 278,99 € EUR
 - [Google Pixel Buds Pro Auriculares Bluetooth Azul (Heavenly)](https://hifimediastore.com/products/google-pixel-buds-pro-auriculares-bluetooth-azul-heavenly): Google Pixel Buds Pro Cancelacion de Ruido Activa con Silent Seal Altavoz de 11 mm Ecualizador de 5 bandas Modo Sonido Ambiente Almohadillas flexibles Sensores para la presion del canal auditivo Microfonos con conformacion de haces Acelerometro de voz
-  Updated: 2025-10-12T10:25:12Z
+  Updated: 2025-10-12T17:10:11Z
   Vendor: Google
   Product Type: Bluetooth
   Availability: Available
@@ -6653,7 +6653,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/17213.jpg?v=1725048645
   Price: 180,99 € EUR
 - [Samsung Galaxy Buds3 Auriculares Bluetooth Blanco (White) SM-R530](https://hifimediastore.com/products/samsung-galaxy-buds3-auriculares-bluetooth-blanco-white-sm-r530): Galaxy Buds3:  Diseño totalmente novedoso Bluetooth 5.4 Driver dinámico de 11mm Capacidad de la Batería (auricular); 48 mAh Capacidad de la Batería (estuche); 515 mAh Audio 360 Galaxy AI
-  Updated: 2025-10-12T04:55:11Z
+  Updated: 2025-10-12T18:20:12Z
   Vendor: Samsung
   Product Type: Bluetooth
   Availability: Available
@@ -6674,7 +6674,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/18018.jpg?v=1725048954
   Price: 34,99 € EUR
 - [Motorola Moto Buds Auriculares Bluetooth Azul (Glacier Blue)](https://hifimediastore.com/products/motorola-moto-buds-auriculares-bluetooth-azul-glacier-blue): Motorola Moto Buds:  Dolby Atmos Cancelación de ruido inteligente Hasta 42 horas de reproducción Diseño repelente al agua Aplicación Moto Buds Bluetooth 5.3
-  Updated: 2025-10-11T21:25:11Z
+  Updated: 2025-10-12T17:30:14Z
   Vendor: Motorola
   Product Type: Bluetooth
   Availability: Available
@@ -6828,7 +6828,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/18508.jpg?v=1726613410
   Price: 1517,99 € EUR
 - [Apple iPhone 16 Pro 256GB Titano Natural (Natural Titanium)](https://hifimediastore.com/products/apple-iphone-16-pro-256gb-titano-natural-natural-titanium): Apple iPhone 16 Pro:  Pantalla Super Retina XDR OLED Chip A18 Pro Control de cámara Ultra gran angular de 48 MP Velocidad 5G Fabricado en Titanio de grado 5 iOS 18  * Es posible que este iPhone no incluya cargador, ni auriculares en la caja original.
-  Updated: 2025-10-11T21:59:08Z
+  Updated: 2025-10-12T17:25:12Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
@@ -6842,7 +6842,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/18537.jpg?v=1726698027
   Price: 2233,99 € EUR
 - [Apple iPhone 16 Pro 256GB Titano Negro (Black Titanium)](https://hifimediastore.com/products/apple-iphone-16-pro-256gb-titano-negro-black-titanium): Apple iPhone 16 Pro:  Pantalla Super Retina XDR OLED Chip A18 Pro Control de cámara Ultra gran angular de 48 MP Velocidad 5G Fabricado en Titanio de grado 5 iOS 18  * Es posible que este iPhone no incluya cargador, ni auriculares en la caja original.
-  Updated: 2025-10-11T21:59:20Z
+  Updated: 2025-10-12T17:25:11Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
@@ -6856,14 +6856,14 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/18549.jpg?v=1726698054
   Price: 1511,99 € EUR
 - [Apple iPhone 16 Pro 512GB Titano Blanco (White Titanium)](https://hifimediastore.com/products/apple-iphone-16-pro-512gb-titano-blanco-white-titanium): Apple iPhone 16 Pro:  Pantalla Super Retina XDR OLED Chip A18 Pro Control de cámara Ultra gran angular de 48 MP Velocidad 5G Fabricado en Titanio de grado 5 iOS 18  * Es posible que este iPhone no incluya cargador, ni auriculares en la caja original.
-  Updated: 2025-10-12T14:28:25Z
+  Updated: 2025-10-12T17:25:19Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/18557.jpg?v=1726698071
   Price: 1669,99 € EUR
 - [Xiaomi Redmi Buds 6 Lite Auriculares Bluetooth Negro (Black)](https://hifimediastore.com/products/xiaomi-redmi-buds-6-lite-auriculares-bluetooth-negro-black): Xiaomi Redmi Buds 6 Lite Bluetooth 53 Cuatro ajustes de ecualizacion Diafragma de titanio de 124 mm Bateria de hasta 38 horas de duracion Escucha hasta 2h de musica con una carga de 10 minutos Anulacion de ruido activa de hasta 40 dB Conectividad int
-  Updated: 2025-10-11T02:35:15Z
+  Updated: 2025-10-12T18:40:10Z
   Vendor: Xiaomi
   Product Type: Bluetooth
   Availability: Available
@@ -6877,7 +6877,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/18569.jpg?v=1726698096
   Price: 34,99 € EUR
 - [Google Pixel 9 Pro 5G 16GB/128GB Negro (Obsidian) Dual SIM](https://hifimediastore.com/products/google-pixel-9-pro-5g-16gb-128gb-negro-obsidian-dual-sim): Google Pixel 9 Pro:  Pantalla Super Actua OLED de 6,3", HDR10+ Y 120Hz Procesador Google Tensor G4 Cámara avanzada y edición de fotos con IA Batería de 4700 mAh y carga rápida de 45W Diseño elegante y duradero Android 14
-  Updated: 2025-10-11T21:59:49Z
+  Updated: 2025-10-12T17:10:15Z
   Vendor: Google
   Product Type: Smartphone
   Availability: Available
@@ -7241,7 +7241,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/20452.jpg?v=1735851009
   Price: 151,99 € EUR
 - [Apple Airpods 3ª Gen. Auriculares Inalámbricos Blancos con estuche de carga Lightning](https://hifimediastore.com/products/apple-airpods-3-gen-auriculares-inalambricos-blancos-con-estuche-de-carga-lightning): Apple Airpods de 3ª generación MME73TY/A  Audio espacial con seguimiento dinámico de la cabeza Dos micrófonos con tecnología beamforming Resistentes al sudor y al agua (IPX4) Hasta 6 horas de reproducción de audio con una sola carga
-  Updated: 2025-10-11T22:12:24Z
+  Updated: 2025-10-12T17:35:11Z
   Vendor: Apple
   Product Type: Bluetooth
   Availability: Available
@@ -7528,7 +7528,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/21155.jpg?v=1738692069
   Price: 1095,99 € EUR
 - [Samsung Galaxy S25+ 5G 12GB/512GB Gris (Silver Shadow) Dual SIM SM-S936B](https://hifimediastore.com/products/samsung-galaxy-s25-5g-12gb-512gb-gris-silver-shadow-dual-sim-sm-s936b): Samsung Galaxy S25+:  Pantalla FHD+ de 6,7" Dynamic AMOLED 2X Qualcomm Snapdragon 8 Elite Triple cámara de 50 MP Grabación de vídeo en 8K Batería de 4900 mAh Carga Rápida de 45 W Android 15, One UI 7  *Condiciones de Samsung Pay en la descripción.
-  Updated: 2025-10-11T22:18:38Z
+  Updated: 2025-10-12T18:20:12Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
@@ -7822,7 +7822,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/21951.jpg?v=1743060020
   Price: 180,99 € EUR
 - [Samsung Galaxy A26 5G 6GB/128GB Verde (Mint) Dual SIM A266](https://hifimediastore.com/products/samsung-galaxy-a26-5g-6gb-128gb-verde-mint-dual-sim-a266): Samsung Galaxy A26 5G Pantalla FHD Super AMOLED de 67 Triple camara de 50MP y camara selfie de 13MP Bateria de 5000 mAh Carga Rapida de 25W Procesador octa core y conectividad 5G Corning Gorilla Glass Victus Certificacion IP67 No incluye carg
-  Updated: 2025-10-11T22:24:07Z
+  Updated: 2025-10-12T18:15:17Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
@@ -8103,7 +8103,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/23231.jpg?v=1748475627
   Price: 602,99 € EUR
 - [Realme GT 7T 5G 12GB/512GB Negro (IceSense Black) Dual SIM](https://hifimediastore.com/products/realme-gt-7t-5g-12gb-512gb-negro-icesense-black-dual-sim): Realme GT 7T:  Pantalla Pro-Esports de 6000 nits Mediatek Dimensity 8400 Max Batería Titan de 7000 mAh Carga SUPERVOOC de 120W Cámara Dual de 50MP con IA Android 15, Realme UI 6.0 IP69
-  Updated: 2025-10-11T22:32:09Z
+  Updated: 2025-10-12T18:00:16Z
   Vendor: Realme
   Product Type: Smartphone
   Availability: Available
@@ -8264,7 +8264,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/23500.jpg?v=1749592508
   Price: 70,99 € EUR
 - [Apple iPad Air 2025 11" M3 128GB WiFi Azul (Blue)](https://hifimediastore.com/products/apple-ipad-air-2025-11-m3-128gb-wifi-azul-blue): Apple iPad Air 2025 Pantalla Liquid Retina de 11 Chip M3 de Apple Camara trasera de 12 MP con HDR y Video en 4K Camara frontal de 12 MP en horizontal Conexion WiFi 6E Ultrarrapida Apple Intelligence iPadOS 1832 Compatible con Apple Pencil Pro y Mag
-  Updated: 2025-10-12T15:08:31Z
+  Updated: 2025-10-12T16:55:11Z
   Vendor: Apple
   Product Type: Tablet's
   Availability: Available
@@ -8585,10 +8585,10 @@
   Updated: 2025-06-22T07:51:28Z
   Total Products: 0
 - [Best Selling Products](https://hifimediastore.com/collections/best-selling-products)
-  Updated: 2025-10-12T15:07:09Z
+  Updated: 2025-10-12T19:16:31Z
   Total Products: 5467
 - [Newest Products](https://hifimediastore.com/collections/newest-products)
-  Updated: 2025-10-12T15:07:09Z
+  Updated: 2025-10-12T19:16:31Z
   Total Products: 5467
 - [Altavoces](https://hifimediastore.com/collections/speakers): Explora nuestra gama de altavoces de alta calidad y llévatee la experiencia del festival a casa con nuestros altavoces.
   Updated: 2025-10-10T22:01:24Z
@@ -8642,8 +8642,8 @@
   Updated: 2025-10-10T22:05:52Z
   Total Products: 22
 - [AVADA - Best Sellers](https://hifimediastore.com/collections/avada-best-sellers)
-  Updated: 2025-10-12T15:07:09Z
-  Total Products: 1413
+  Updated: 2025-10-12T19:16:31Z
+  Total Products: 1411
 - [Intercomunicadores para moto](https://hifimediastore.com/collections/motorcycle-intercoms)
   Updated: 2025-06-22T07:51:29Z
   Total Products: 17
@@ -8651,7 +8651,7 @@
   Updated: 2025-06-22T07:51:30Z
   Total Products: 4
 - [Móviles y Smartphones Libres 4G y 5G](https://hifimediastore.com/collections/smartphones): Compra móviles y smartphones libres 4G y 5G. Pago a plazos con SeQura. Envío rápido y garantía oficial.
-  Updated: 2025-10-12T14:26:32Z
+  Updated: 2025-10-12T19:16:31Z
   Total Products: 3564
 - [Alcatel](https://hifimediastore.com/collections/alcatel)
   Updated: 2025-10-11T23:22:15Z
@@ -8711,7 +8711,7 @@
   Updated: 2025-10-12T14:25:04Z
   Total Products: 957
 - [Samsung](https://hifimediastore.com/collections/samsung)
-  Updated: 2025-10-12T13:54:16Z
+  Updated: 2025-10-12T19:16:31Z
   Total Products: 930
 - [Acer](https://hifimediastore.com/collections/acer)
   Updated: 2025-10-11T23:22:13Z
@@ -8966,7 +8966,7 @@
   Updated: 2025-08-31T12:20:56Z
   Total Products: 4
 - [Teléfonos móviles y accesorios en Hi-Fi Media Store](https://hifimediastore.com/collections/todos-los-productos): Somos especialistas en teléfonos móviles y accesorios. En Hi-Fi Media Store encontrarás una gran variedad de productos de las mejores marcas.
-  Updated: 2025-10-12T15:07:09Z
+  Updated: 2025-10-12T19:16:31Z
   Total Products: 5466
 - [Lindy](https://hifimediastore.com/collections/lindy)
   Updated: 2025-10-10T23:08:17Z
@@ -9023,8 +9023,8 @@
   Updated: 2025-10-10T22:47:39Z
   Total Products: 3
 - [OrderlyEmails - Recommended Products](https://hifimediastore.com/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-10-12T15:07:09Z
-  Total Products: 1416
+  Updated: 2025-10-12T19:16:31Z
+  Total Products: 1414
 - [Razer](https://hifimediastore.com/collections/razer)
   Updated: 2025-10-10T22:17:19Z
   Total Products: 24
@@ -9086,8 +9086,8 @@
   Updated: 2025-10-10T22:02:27Z
   Total Products: 2
 - [Outlet](https://hifimediastore.com/collections/outlet)
-  Updated: 2025-10-12T12:07:58Z
-  Total Products: 350
+  Updated: 2025-10-12T19:16:31Z
+  Total Products: 351
 - [Edifier](https://hifimediastore.com/collections/edifier)
   Updated: 2025-10-10T22:12:51Z
   Total Products: 1
@@ -9161,7 +9161,7 @@
   Updated: 2025-10-12T06:57:24Z
   Total Products: 79
 - [IVA 21](https://hifimediastore.com/collections/iva-21)
-  Updated: 2025-10-12T15:07:09Z
+  Updated: 2025-10-12T19:16:31Z
   Total Products: 5097
 - [Tablets Xiaomi](https://hifimediastore.com/collections/tablets-xiaomi)
   Updated: 2025-10-12T00:22:20Z
@@ -9173,7 +9173,7 @@
   Updated: 2025-10-12T00:12:32Z
   Total Products: 4
 - [Samsung](https://hifimediastore.com/collections/samsung-1)
-  Updated: 2025-10-12T13:54:16Z
+  Updated: 2025-10-12T19:16:31Z
   Total Products: 1092
 - [Tablets Oneplus](https://hifimediastore.com/collections/tablets-oneplus)
   Updated: 2025-10-12T00:12:20Z
@@ -9200,7 +9200,7 @@
   Updated: 2025-10-11T23:49:29Z
   Total Products: 14
 - [IVA 21](https://hifimediastore.com/collections/21-iva)
-  Updated: 2025-10-12T15:07:09Z
+  Updated: 2025-10-12T19:16:31Z
   Total Products: 4080
 - [Realme](https://hifimediastore.com/collections/realme-1)
   Updated: 2025-10-12T07:12:23Z
@@ -9257,7 +9257,7 @@
   Updated: 2025-08-31T12:05:21Z
   Total Products: 3
 - [Productos para teléfonos móviles y accesorios](https://hifimediastore.com/collections/all): Hi-Fi Media Store: Tu tienda online para teléfonos móviles y accesorios de las mejores marcas. Encuentra smartphones, auriculares inalámbricos y con cable, altavoces y una amplia gama de accesorios para complementar tu experiencia móvil. Compra con seguridad y disfruta de una garantía de satisfacción. Visita nuestra tienda online y descubre un mundo de posibilidades para tu teléfono móvil.
-  Updated: 2025-10-12T15:07:09Z
+  Updated: 2025-10-12T19:16:31Z
   Total Products: 5466
 - [Beats](https://hifimediastore.com/collections/beats)
   Updated: 2025-10-11T22:16:14Z
@@ -9272,7 +9272,7 @@
   Updated: 2025-10-10T21:27:13Z
   Total Products: 11
 - [Ultimate Search - Do not delete](https://hifimediastore.com/collections/ultimate-search-do-not-delete): Ultimate Search app uses this temporary collection to fetch best selling items.Please do not delete this collection.If you have removed the app, it is safe to remove this collection.
-  Updated: 2025-10-12T15:07:09Z
+  Updated: 2025-10-12T19:16:31Z
   Total Products: 5466
 - [Nubia](https://hifimediastore.com/collections/nubia)
   Updated: 2025-10-11T22:34:25Z
