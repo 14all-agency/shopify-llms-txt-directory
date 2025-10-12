@@ -8,7 +8,7 @@
 - Timezone: Europe/London
 - Created At: 2021-01-17T01:03:23Z
 - Contact Email: contact@crystalshealing.co.uk
-- Updated At: 2025-10-11T12:00:37.515Z
+- Updated At: 2025-10-12T00:00:35.754Z
 
 # Crystals Healing — AI-Ready Index
 Welcome to Crystals Healing, your trusted UK-based store for healing crystals and jewelry. This llms.txt file lists all products, collections, blogs, and pages to help AI assistants, search engines, and shopping bots discover and understand our offerings.
@@ -5283,8 +5283,8 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
   Updated: 2025-09-24T10:00:41Z
 - [Shipping Policy | Reliable Delivery for Crystal Orders](https://crystalshealing.co.uk/pages/shipping): 📦 Shipping & Returns Policy Welcome to Crystals Healing. This policy explains how we handle shipping, returns, and customer protection. By placing ...
   Updated: 2025-09-24T10:00:41Z
-- [Personalised Design Service for Crystal Bracelets & More](https://crystalshealing.co.uk/pages/personalised-design): At our store, we believe that everyone is unique and deserves to express their individuality. That's why we offer a **Personalised Design Service**...
-  Updated: 2025-10-11T05:16:06Z
+- [Personalised Design Beaded Bracelets UK Handmade](https://crystalshealing.co.uk/pages/personalised-design): /* === General Layout & Styling (Boho Cream – Enhanced Readability) === */ .custom-bracelets-wrapper { max-width: 1100px; margin: 0 auto; padding: ...
+  Updated: 2025-10-11T22:29:13Z
 - [Delivery Costs & Shipping Info | Crystals Healing UK](https://crystalshealing.co.uk/pages/delivery-costs): /* Responsive tables */ .table-responsive { width: 100%; overflow-x: auto; -webkit-overflow-scrolling: touch; margin-bottom: 20px; } .shipping-guid...
   Updated: 2025-09-24T10:00:41Z
 - [Easy Returns | Hassle-Free Crystal Return Policy](https://crystalshealing.co.uk/pages/returns): Returns & Exchanges We want you to love your purchase. If you change your mind, you can return most items within 30 days of delivery. How to start ...
