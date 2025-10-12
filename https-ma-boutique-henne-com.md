@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2018-01-12T21:20:39Z
 - Contact Email: contact@ma-boutique-henne.com
-- Updated At: 2025-10-12T12:00:36.563Z
+- Updated At: 2025-10-12T20:00:36.429Z
 
 ## Products
 
@@ -143,15 +143,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/HTB13Y8iarsTMeJjy1zbq6AhlVXab.jpg?v=1518461143
   Price: 17,50 € EUR
-- [Poudre d'Hibiscus - Ibisco, Phitofilos](https://ma-boutique-henne.com/products/poudre-dhibiscus-100gr): Hibiscus, ibisco, phitofilos, poudre, fleur, plante ayurvédique appelée aussi "Bissap" ou encore "Oseille de Guinée" cheveux et visage, henné, coloration violine, peau, antioxydant, couleur rose, rouge, auburn, bordeaux, henné, coloration naturelle, chevelure, brillance, volume, lutte chute cheveux, ghassoul, violine
-  Updated: 2025-10-09T18:58:36Z
-  Vendor: Ma Boutique Henné
-  Product Type: Poudres colorantes
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/2730/3378/products/ib.png?v=1554112871
-  Price: 11,00 € EUR
 - [Garance Indienne pure, Manjistha - Robbia, Phitofilos](https://ma-boutique-henne.com/products/garance-en-poudre-manjistha-100gr): Robbia Phitofilos Manjistha ou Garance Indienne apporte aux cheveux de magnifiques reflets, rouge vif, acajou violine sur cheveux foncés. - coloration cheveux, cuivrés, violet, pourpre, bio, naturel, yemen, jamila, aubergine, soin, donne brillance et volume. henne, sidr, katam, henné d'algérie, rouge cerise, recette
-  Updated: 2025-09-23T08:15:55Z
+  Updated: 2025-10-12T18:29:16Z
   Vendor: Ma Boutique Henné
   Product Type: Poudres colorantes
   Availability: Available
@@ -228,7 +221,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/phitofilos-argile-smectique-terre-a-foulon-100-g-1099486-fr.jpg?v=1570714287
   Price: 8,00 € EUR
 - [Véritable Red Kamala (100% Mallotus Philippensis) - Le Erbe Di Janas](https://ma-boutique-henne.com/products/red-kalama-en-poudre-100gr): Le Red Kalama, Kamala, poudre provient de Mallotus Philippensis, colore les cheveux en rouge, roux, bordeaux, violine, henné, coloration naturelle, Kalama Rouge, le erbe di janas, sidr, ghassoul, cheveux roux, couleur violine, rouge cerise, le erbe di jana, coloration cheveux bordeaux, cuivré, algérie, bio, vegan
-  Updated: 2025-10-07T16:28:05Z
+  Updated: 2025-10-12T18:44:55Z
   Vendor: Ma Boutique Henné
   Product Type: Poudres colorantes
   Availability: Available
@@ -347,7 +340,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/Sanstitre.jpg?v=1673468979
   Price: 10,00 € EUR
 - [Bois de Campêche en poudre - Legno Di Campeggio, Phitofilos](https://ma-boutique-henne.com/products/bois-de-campeche-en-poudre-100gr): Campêche Phitofilos  "bois de Campêche", legno di campeggio, poudre rouge foncée, legno di campeggio, Colore les cheveux du rouge grenat au violine, pourpre, teintes violines, violet, rose, bordeaux, rouge, boutique, plante, henné, coloration, cheveux, soin capillaire, hemani, bio, biologique, vegan, naturelle, plante
-  Updated: 2025-10-12T11:47:31Z
+  Updated: 2025-10-12T18:29:17Z
   Vendor: Ma Boutique Henné
   Product Type: Poudres colorantes
   Availability: Available
@@ -403,7 +396,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/3.png?v=1613134590
   Price: 11,00 € EUR
 - [Masque Soin Hydratant aux plantes - Impacco Emolliente, Phitofilos](https://ma-boutique-henne.com/products/masque-soin-hydratant-aux-plantes-100gr): Phitofilos, impacco emolliente, masque, soin capillaire, nourrissant, hydratant, cheveux secs, ternes, cassants, fragilisés, cheveux nourrir, hydrater, doux, brillant, lisse, masque plante, naturel, végéral, vegan, bio, guimauve, avoine, luzerne, lin, douceur, réparer, boutique, poudre, soigner, coloration, henne
-  Updated: 2025-10-07T08:33:13Z
+  Updated: 2025-10-12T14:29:27Z
   Vendor: Ma Boutique Henné
   Product Type: Poudre de soin
   Availability: Available
@@ -473,7 +466,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/camomille-matricaire-sachet-50g.jpg?v=1524736429
   Price: 13,50 € EUR
 - [Henné Naturel du Rajasthan, Inde ECOCERT - Henna Red](https://ma-boutique-henne.com/products/henne-naturel-du-rajasthan-inde-100gr): 100% naturel, mayam, elementals, Henné naturel rajasthan Inde ,Centifolia, rajasthan, coloration cheveux roux, rousse, rouge, auburn, bordeaux, brillance, nuance, chevelure, boutique, doux brillants, bio, coloration naturelle, soin capillaire, couverture cheveux blancs, rouge cerise, reflets cuivrés, cheveux, algérie
-  Updated: 2025-10-12T09:32:45Z
+  Updated: 2025-10-12T18:29:16Z
   Vendor: Ma Boutique Henné
   Product Type: Henné
   Availability: Available
@@ -744,7 +737,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/cald-500x717.jpg?v=1598882776
   Price: 9,50 € EUR
 - [Henné Rouge Violine (Froid) - Le Erbe Di Janas](https://ma-boutique-henne.com/products/henne-rouge-violine-froid-le-erbe-di-janas): Henné Rouge Violine Froid Le Erbe di Janas, henne rosso freddo, coloration rouge cerise, henné violine,  soigne et apaise le cuir chevelu, brillance, volume, couvre cheveux blancs et gris, brillance cheveux châtains , soin capillaire et coloration, naturelle, plantes henné, éclaircir, gaine, nourrit, henné d'algérie
-  Updated: 2025-10-09T18:58:35Z
+  Updated: 2025-10-12T18:29:17Z
   Vendor: Ma Boutique Henné
   Product Type: Henné
   Availability: Available
@@ -922,7 +915,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/files/soin-ombre-naturelle-200ml.png?v=1724147967
   Price: 32,50 € EUR
 - [Henné Brunette - ECOCERT](https://ma-boutique-henne.com/products/henne-brunette): brou de noix, henne brunette, henné, henna brown mayam elemental noce mallo, coque de la noix. poudre hyper fine, nuances de châtain, à marron, chocolat, brun. couvre cheveux blancs, henné, coloration chatain naturelle, katam, feuille, noyer, brune, bio, biologique, nature, coloration marron chocolat, brune,
-  Updated: 2025-10-10T18:10:00Z
+  Updated: 2025-10-12T14:29:26Z
   Vendor: Ma Boutique Henné
   Product Type: Poudres colorantes
   Availability: Available
@@ -1404,7 +1397,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/argile-rouge_2.jpg?v=1583089080
   Price: 10,50 € EUR
 - [Lot de 2 Feuilles Pochoirs Tatouages au Henné - grand modèle](https://ma-boutique-henne.com/products/lot-de-2-feuilles-pochoirs-tatouages-au-henne-grand-modele): feuille pochoir henné tatouage maquillage 100% naturelle à base d'extrait pur de Henné, longue tenue, pour les yeux, les lèvres et les sourcils, curiosa neways, henna penna, tatouage au henné, tattoo henna, henna lips, henna eyes, henna makeup, cosmétique bio, henné, sidr, katam, rouge cerise, cheveux, rouge, violet,
-  Updated: 2025-08-09T15:25:07Z
+  Updated: 2025-10-12T17:27:14Z
   Vendor: Ma Boutique Henné
   Product Type: Maquillage
   Availability: Available
@@ -1732,13 +1725,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/walnut.png?v=1605611664
   Price: 19,50 € EUR
-- [Coloration Végétale BRUN FONCE - DARK BROWN, Cultivator's Colors from Nature](https://ma-boutique-henne.com/products/coloration-vegetale-brun-fonce-dark-brown-cultivators-colors-from-nature): coloration végétale naturelle cultivator cultivators cultivator's dark brown, brun foncé cheveux chatain foncé marron, châtain, noir doux, brown, dark brown, Acajou, rouge, color me, bourgogne, hair colour, me, Henné, Manjistha, orcanette, henné violine, violet, couvre cheveux blancs, henna, katam, bio, biologique
-  Updated: 2025-09-27T15:17:05Z
-  Vendor: Ma Boutique Henné
-  Product Type: Poudres colorantes
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/2730/3378/products/darkbrown4.png?v=1605621195
-  Price: 19,50 € EUR
 - [Coloration Végétale BRUN - BROWN, Cultivator's Colors from Nature](https://ma-boutique-henne.com/products/coloration-vegetale-brun-brown-cultivators-colors-from-nature): coloration végétale naturelle cultivator cultivators cultivator's dark brown, brun foncé cheveux chatain foncé marron, châtain, noir doux, brown, dark brown, Acajou, rouge, color me, bourgogne, hair colour, me, Henné, Manjistha, orcanette, henné violine, violet, couvre cheveux blancs, henna, katam, bio, biologique
   Updated: 2025-09-05T14:41:46Z
   Vendor: Ma Boutique Henné
@@ -1796,7 +1782,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/henne-blond-dore.png?v=1605703923
   Price: 19,50 € EUR
 - [Henné Rouge Renforcé Intense - Exclusivité Ma Boutique Henné](https://ma-boutique-henne.com/products/henne-rouge-renforce): Ce henné 100% naturel, du Soudan, rouge cerise renforcé sodium picramate BAQ, biologique. coloration et soin des cheveux, couleur rousse, reflets cuivrés, auburn, bordeaux, rouge, cheveux brillants, volume, henne, Yémen, rouge chocolat,poudre plante, soudanais, coloration, coloration cheveux gris, henna, algérie
-  Updated: 2025-10-12T11:47:30Z
+  Updated: 2025-10-12T18:44:56Z
   Vendor: Ma Boutique Henné
   Product Type: Henné
   Availability: Available
@@ -2132,7 +2118,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/files/shampoing-creme-cheveux-normaux.jpg?v=1760086169
   Price: 9,90 € EUR
 - [Shampoing Démêlant et Fixateur de Couleur, Grenade Bio - Centifolia](https://ma-boutique-henne.com/products/shampoing-demelant-et-fixateur-de-couleur-grenade-bio-centifolia): shampoing hydratant cheveux normaux secs amande douce aloe vera Centifolia, naturel bio, vegan, centifolia, hydrater cheveux soin capillaire, henne, cosmetique
-  Updated: 2025-10-11T00:48:22Z
+  Updated: 2025-10-12T19:11:01Z
   Vendor: Ma Boutique Henné
   Product Type: Shampoing
   Availability: Available
