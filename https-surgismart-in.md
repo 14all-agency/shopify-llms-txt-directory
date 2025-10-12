@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-03-10T14:11:59Z
 - Contact Email: info@surgismart.in
-- Updated At: 2025-10-10T20:00:33.047Z
+- Updated At: 2025-10-12T04:00:35.193Z
 
 ## Products
 
@@ -3277,7 +3277,7 @@
 ## Collections
 
 - [Buy ​GST 5% - Surgismart](https://surgismart.in/collections/gst-5): - Surgismart
-  Updated: 2025-10-10T11:16:20Z
+  Updated: 2025-10-11T11:16:23Z
   Total Products: 152
 - [Buy ​GST 18% - Surgismart](https://surgismart.in/collections/gst-18): - Surgismart
   Updated: 2025-09-29T08:04:17Z
@@ -3286,7 +3286,7 @@
   Updated: 2025-09-29T08:04:17Z
   Total Products: 9
 - [Buy ​United Medicare - Surgismart](https://surgismart.in/collections/united-medicare): - Surgismart
-  Updated: 2025-09-12T11:15:05Z
+  Updated: 2025-10-11T11:16:23Z
   Total Products: 73
 - [Buy ​Tynor - Surgismart](https://surgismart.in/collections/tynor): - Surgismart
   Updated: 2025-08-20T18:24:41Z
@@ -3331,7 +3331,7 @@
   Updated: 2025-09-18T14:02:27Z
   Total Products: 40
 - [Buy ​Orthopedic - Surgismart](https://surgismart.in/collections/orthopedic): - Surgismart
-  Updated: 2025-09-12T11:15:05Z
+  Updated: 2025-10-11T11:16:23Z
   Total Products: 266
 - [Buy ​BP Monitors - Surgismart](https://surgismart.in/collections/bp-monitors): - Surgismart
   Updated: 2025-09-28T11:01:49Z
@@ -3379,7 +3379,7 @@
   Updated: 2025-09-12T11:15:05Z
   Total Products: 15
 - [Buy ​Graduated Stockings - Surgismart](https://surgismart.in/collections/graduated-stockings): - Surgismart
-  Updated: 2025-09-04T07:27:06Z
+  Updated: 2025-10-11T11:16:23Z
   Total Products: 6
 - [Buy ​Wrist,Forearm & Elbow Supports/Splints - Surgismart](https://surgismart.in/collections/wrist-forearm-elbow-supports-splints): - Surgismart
   Updated: 2025-09-09T11:15:57Z
@@ -3460,7 +3460,7 @@
   Updated: 2025-09-16T10:45:20Z
   Total Products: 42
 - [Medical Apparels](https://surgismart.in/collections/medical-apparels)
-  Updated: 2025-10-10T11:16:20Z
+  Updated: 2025-10-11T11:16:23Z
   Total Products: 6
 
 ## Blogs
