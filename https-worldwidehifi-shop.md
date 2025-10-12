@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-10-25T08:25:11Z
 - Contact Email: info@worldwidehifi.shop
-- Updated At: 2025-10-12T12:00:34.137Z
+- Updated At: 2025-10-12T16:00:33.096Z
 
 ## ABOUT
 WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage audio gear with insured worldwide shipping—buy here when you want premium brands for less, rare models in stock, real-item photos, highest quality guarantee and expert support.
@@ -1603,13 +1603,6 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_cb2e5775-b328-42a6-9bef-a0fc9071374f.jpg?v=1751454483
   Price: 980,00 € EUR
-- [Linn K600 Tri-Wiring Lautsprecherkabel gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/linn-k600-tri-wiring-lautsprecherkabel-gebraucht-kaufen): Linn K600 Tri-Wiring Lautsprecherkabel gebraucht kaufen ✅ Geprüfte Lautsprecher mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-09-15T22:27:26Z
-  Vendor: WorldWideHifi
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_c2f7456d-e69a-4a48-b34e-b1be729278bf.jpg?v=1751453671
-  Price: 199,00 € EUR
 - [Furutech Netzkabel mit Furutech Fl-E11-N1 gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/furutech-netzkabel-fl-e11-n1-geprueft-gebraucht-kaufen): Furutech Netzkabel mit Furutech Fl-E11-N1 gebraucht kaufen ✅ Hochwertiges Netzkabel für HiFi-Anlagen kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
   Updated: 2025-09-15T22:27:29Z
   Vendor: WorldWideHifi
@@ -2317,8 +2310,8 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Updated: 2025-10-11T11:22:25Z
   Total Products: 24
 - [Verkaufte HiFi-Artikel](https://worldwidehifi.shop/collections/verkaufte-hifi-artikel)
-  Updated: 2025-10-12T11:21:27Z
-  Total Products: 109
+  Updated: 2025-10-12T13:06:22Z
+  Total Products: 110
 - [Highest End](https://worldwidehifi.shop/collections/highest-end)
   Updated: 2025-10-11T11:22:25Z
   Total Products: 22
