@@ -37,7 +37,7 @@ Primary Languages: English, German, Ukrainian, Dutch, French, Denmark
 Taglines:
 Modern engagement rings with ethical sparkle.
 
-- Updated At: 2025-10-11T16:00:33.087Z
+- Updated At: 2025-10-12T20:00:34.016Z
 
 Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced engagement rings and fine jewelry. We specialize in premium moissanite and lab-grown diamonds, offering a modern, sustainable choice for the stylish couple. Our commitment to exceptional craftsmanship ensures that each piece sparkles with brilliance and elegance. Explore our curated collection, where every ring tells a story of love, quality, and timeless beauty.
 
@@ -89,7 +89,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Availability: Available
     Price: €379.00 EUR
 - [1CT Round Moissanite Ring – The Everly | Chantal Vaulet](https://www.chantalvaulet.com/products/the-everly-round-cut-moissanite-solitaire-ring-1ct): The Everly is a 1CT round-cut moissanite engagement ring, featuring timeless elegance and brilliance, perfect for your proposal.
-  Updated: 2025-10-11T15:02:56Z
+  Updated: 2025-10-11T19:56:55Z
   Vendor: Chantal Vaulet
   Product Type: Ring
   Availability: Available
@@ -425,7 +425,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Availability: Available
     Price: €349.00 EUR
 - [1CT Round Moissanite Engagement Ring – The Elara | Chantal Vaulet](https://www.chantalvaulet.com/products/the-elara-moissanite-side-stone-engagement-ring-1ct): The Elara is a 1CT round moissanite engagement ring featuring 16 side stones, blending modern elegance with classic charm.
-  Updated: 2025-09-28T19:28:44Z
+  Updated: 2025-10-11T21:59:55Z
   Vendor: Chantal Vaulet
   Product Type: Ring
   Availability: Available
@@ -8511,7 +8511,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Availability: Available
     Price: €79.00 EUR
 - [2.0 CT Round Moissanite Ring – The Seraphielle | Chantal Vaulet](https://www.chantalvaulet.com/products/the-seraphielle-round-cut-moissanite-ring-0-5ct-1-0ct-1-5ct-2-0ct-3-0ct): The Seraphielle features a round-cut moissanite engagement ring with stunning brilliance, adorned with zirconia for added elegance.
-  Updated: 2025-09-28T19:28:57Z
+  Updated: 2025-10-11T20:13:24Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
@@ -9632,7 +9632,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Availability: Available
     Price: €859.00 EUR
 - [The Florisse Moissanite Tennis Bracelet](https://www.chantalvaulet.com/products/the-florisse-moissanite-tennis-bracelet): Shop The Florisse Moissanite Tennis Bracelet today at Chantal Vaulet. Discover stunning jewelry collections, crafted for style and brilliance.
-  Updated: 2025-09-28T19:29:00Z
+  Updated: 2025-10-12T13:59:03Z
   Vendor: Chantal Vaulet
   Product Type: BRACELET
   Availability: Available
@@ -9976,7 +9976,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Availability: Available
     Price: €1,825.00 EUR
 - [Éclairia 4CT Radiant-Cut Lab Diamond Engagement Ring](https://www.chantalvaulet.com/products/eclairia-4ct-radiant-cut-ring): Discover the Éclairia engagement ring with a 4CT radiant-cut lab diamond and 154 pavé-set accents. Ethical luxury with breathtaking brilliance.
-  Updated: 2025-10-11T15:01:44Z
+  Updated: 2025-10-11T21:01:36Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
@@ -10696,7 +10696,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Availability: Available
     Price: €1,069.00 EUR
 - [The Elvika](https://www.chantalvaulet.com/products/1-5-ct-oval-moissanite-engagement-ring-the-elvika-chantal-vaulet): Discover the Elvika 1.5CT Oval-Cut Engagement Ring, merging Nordic elegance with stunning moissanite or lab diamond brilliance.
-  Updated: 2025-10-11T04:53:45Z
+  Updated: 2025-10-11T20:11:24Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
@@ -10881,6 +10881,318 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
   - [18K White Gold](https://www.chantalvaulet.com/products/the-solenia-1-5mm-lab-diamond-huggie-earrings?variant=42154817290305)
     Availability: Available
     Price: €609.00 EUR
+- [Amora 2CT Heart Lab-Grown Diamond Engagement Ring | VVS D, 2EX, IGI](https://www.chantalvaulet.com/products/amora-2ct-heart-engagement-ring): 2.00 ct heart Moissanite or Lab-grown Diamond engagement ring with 14 pavé side stones. VVS clarity, D color, 2EX, IGI certified center. Crafted in white gold
+  Updated: 2025-10-12T08:33:56Z
+  Vendor: Chantal Vaulet
+  Product Type: RING
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/TheAmora-heart-ring1.webp?v=1760212950
+  - [Moissanite / 9K White Gold / 5](https://www.chantalvaulet.com/products/amora-2ct-heart-engagement-ring?variant=42921463054401)
+    Availability: Available
+    Price: €665.00 EUR
+  - [Moissanite / 9K White Gold / 5.25](https://www.chantalvaulet.com/products/amora-2ct-heart-engagement-ring?variant=42921481601089)
+    Availability: Available
+    Price: €665.00 EUR
+  - [Moissanite / 9K White Gold / 5.75](https://www.chantalvaulet.com/products/amora-2ct-heart-engagement-ring?variant=42921481699393)
+    Availability: Available
+    Price: €665.00 EUR
+  - [Moissanite / 9K White Gold / 6](https://www.chantalvaulet.com/products/amora-2ct-heart-engagement-ring?variant=42921481797697)
+    Availability: Available
+    Price: €665.00 EUR
+  - [Moissanite / 9K White Gold / 6.5](https://www.chantalvaulet.com/products/amora-2ct-heart-engagement-ring?variant=42921481896001)
+    Availability: Available
+    Price: €665.00 EUR
+  - [Moissanite / 9K White Gold / 7](https://www.chantalvaulet.com/products/amora-2ct-heart-engagement-ring?variant=42921482059841)
+    Availability: Available
+    Price: €665.00 EUR
+  - [Moissanite / 9K White Gold / 7.25](https://www.chantalvaulet.com/products/amora-2ct-heart-engagement-ring?variant=42921482158145)
+    Availability: Available
+    Price: €665.00 EUR
+  - [Moissanite / 9K White Gold / 7.75](https://www.chantalvaulet.com/products/amora-2ct-heart-engagement-ring?variant=42921482256449)
+    Availability: Available
+    Price: €665.00 EUR
+  - [Moissanite / 9K White Gold / 8](https://www.chantalvaulet.com/products/amora-2ct-heart-engagement-ring?variant=42921482584129)
+    Availability: Available
+    Price: €665.00 EUR
+  - [Moissanite / 9K White Gold / 8½](https://www.chantalvaulet.com/products/amora-2ct-heart-engagement-ring?variant=42921482682433)
+    Availability: Available
+    Price: €665.00 EUR
+  - [Moissanite / 9K White Gold / 8.75](https://www.chantalvaulet.com/products/amora-2ct-heart-engagement-ring?variant=42921482780737)
+    Availability: Available
+    Price: €665.00 EUR
+  - [Moissanite / 9K White Gold / 9](https://www.chantalvaulet.com/products/amora-2ct-heart-engagement-ring?variant=42921483010113)
+    Availability: Available
+    Price: €665.00 EUR
+  - [Moissanite / 14K White Gold / 5](https://www.chantalvaulet.com/products/amora-2ct-heart-engagement-ring?variant=42921481273409)
+    Availability: Available
+    Price: €859.00 EUR
+  - [Moissanite / 14K White Gold / 5.25](https://www.chantalvaulet.com/products/amora-2ct-heart-engagement-ring?variant=42921481633857)
+    Availability: Available
+    Price: €859.00 EUR
+  - [Moissanite / 14K White Gold / 5.75](https://www.chantalvaulet.com/products/amora-2ct-heart-engagement-ring?variant=42921481732161)
+    Availability: Available
+    Price: €859.00 EUR
+  - [Moissanite / 14K White Gold / 6](https://www.chantalvaulet.com/products/amora-2ct-heart-engagement-ring?variant=42921481830465)
+    Availability: Available
+    Price: €859.00 EUR
+  - [Moissanite / 14K White Gold / 6.5](https://www.chantalvaulet.com/products/amora-2ct-heart-engagement-ring?variant=42921481928769)
+    Availability: Available
+    Price: €859.00 EUR
+  - [Moissanite / 14K White Gold / 7](https://www.chantalvaulet.com/products/amora-2ct-heart-engagement-ring?variant=42921482092609)
+    Availability: Available
+    Price: €859.00 EUR
+  - [Moissanite / 14K White Gold / 7.25](https://www.chantalvaulet.com/products/amora-2ct-heart-engagement-ring?variant=42921482190913)
+    Availability: Available
+    Price: €859.00 EUR
+  - [Moissanite / 14K White Gold / 7.75](https://www.chantalvaulet.com/products/amora-2ct-heart-engagement-ring?variant=42921482289217)
+    Availability: Available
+    Price: €859.00 EUR
+  - [Moissanite / 14K White Gold / 8](https://www.chantalvaulet.com/products/amora-2ct-heart-engagement-ring?variant=42921482616897)
+    Availability: Available
+    Price: €859.00 EUR
+  - [Moissanite / 14K White Gold / 8½](https://www.chantalvaulet.com/products/amora-2ct-heart-engagement-ring?variant=42921482715201)
+    Availability: Available
+    Price: €859.00 EUR
+  - [Moissanite / 14K White Gold / 8.75](https://www.chantalvaulet.com/products/amora-2ct-heart-engagement-ring?variant=42921482813505)
+    Availability: Available
+    Price: €859.00 EUR
+  - [Moissanite / 14K White Gold / 9](https://www.chantalvaulet.com/products/amora-2ct-heart-engagement-ring?variant=42921483042881)
+    Availability: Available
+    Price: €859.00 EUR
+  - [Moissanite / 18K White Gold / 5](https://www.chantalvaulet.com/products/amora-2ct-heart-engagement-ring?variant=42921481371713)
+    Availability: Available
+    Price: €1,005.00 EUR
+  - [Moissanite / 18K White Gold / 5.25](https://www.chantalvaulet.com/products/amora-2ct-heart-engagement-ring?variant=42921481666625)
+    Availability: Available
+    Price: €1,005.00 EUR
+  - [Moissanite / 18K White Gold / 5.75](https://www.chantalvaulet.com/products/amora-2ct-heart-engagement-ring?variant=42921481764929)
+    Availability: Available
+    Price: €1,005.00 EUR
+  - [Moissanite / 18K White Gold / 6](https://www.chantalvaulet.com/products/amora-2ct-heart-engagement-ring?variant=42921481863233)
+    Availability: Available
+    Price: €1,005.00 EUR
+  - [Moissanite / 18K White Gold / 6.5](https://www.chantalvaulet.com/products/amora-2ct-heart-engagement-ring?variant=42921481961537)
+    Availability: Available
+    Price: €1,005.00 EUR
+  - [Moissanite / 18K White Gold / 7](https://www.chantalvaulet.com/products/amora-2ct-heart-engagement-ring?variant=42921482125377)
+    Availability: Available
+    Price: €1,005.00 EUR
+  - [Moissanite / 18K White Gold / 7.25](https://www.chantalvaulet.com/products/amora-2ct-heart-engagement-ring?variant=42921482223681)
+    Availability: Available
+    Price: €1,005.00 EUR
+  - [Moissanite / 18K White Gold / 7.75](https://www.chantalvaulet.com/products/amora-2ct-heart-engagement-ring?variant=42921482321985)
+    Availability: Available
+    Price: €1,005.00 EUR
+  - [Moissanite / 18K White Gold / 8](https://www.chantalvaulet.com/products/amora-2ct-heart-engagement-ring?variant=42921482649665)
+    Availability: Available
+    Price: €1,005.00 EUR
+  - [Moissanite / 18K White Gold / 8½](https://www.chantalvaulet.com/products/amora-2ct-heart-engagement-ring?variant=42921482747969)
+    Availability: Available
+    Price: €1,005.00 EUR
+  - [Moissanite / 18K White Gold / 8.75](https://www.chantalvaulet.com/products/amora-2ct-heart-engagement-ring?variant=42921482846273)
+    Availability: Available
+    Price: €1,005.00 EUR
+  - [Moissanite / 18K White Gold / 9](https://www.chantalvaulet.com/products/amora-2ct-heart-engagement-ring?variant=42921483075649)
+    Availability: Available
+    Price: €1,005.00 EUR
+  - [Lab Diamond / 9K White Gold / 5](https://www.chantalvaulet.com/products/amora-2ct-heart-engagement-ring?variant=42921483468865)
+    Availability: Available
+    Price: €1,295.00 EUR
+  - [Lab Diamond / 9K White Gold / 5.25](https://www.chantalvaulet.com/products/amora-2ct-heart-engagement-ring?variant=42921483501633)
+    Availability: Available
+    Price: €1,295.00 EUR
+  - [Lab Diamond / 9K White Gold / 5.75](https://www.chantalvaulet.com/products/amora-2ct-heart-engagement-ring?variant=42921483534401)
+    Availability: Available
+    Price: €1,295.00 EUR
+  - [Lab Diamond / 9K White Gold / 6](https://www.chantalvaulet.com/products/amora-2ct-heart-engagement-ring?variant=42921483567169)
+    Availability: Available
+    Price: €1,295.00 EUR
+  - [Lab Diamond / 9K White Gold / 6.5](https://www.chantalvaulet.com/products/amora-2ct-heart-engagement-ring?variant=42921483599937)
+    Availability: Available
+    Price: €1,295.00 EUR
+  - [Lab Diamond / 9K White Gold / 7](https://www.chantalvaulet.com/products/amora-2ct-heart-engagement-ring?variant=42921483632705)
+    Availability: Available
+    Price: €1,295.00 EUR
+  - [Lab Diamond / 9K White Gold / 7.25](https://www.chantalvaulet.com/products/amora-2ct-heart-engagement-ring?variant=42921483665473)
+    Availability: Available
+    Price: €1,295.00 EUR
+  - [Lab Diamond / 9K White Gold / 7.75](https://www.chantalvaulet.com/products/amora-2ct-heart-engagement-ring?variant=42921483698241)
+    Availability: Available
+    Price: €1,295.00 EUR
+  - [Lab Diamond / 9K White Gold / 8](https://www.chantalvaulet.com/products/amora-2ct-heart-engagement-ring?variant=42921483731009)
+    Availability: Available
+    Price: €1,295.00 EUR
+  - [Lab Diamond / 9K White Gold / 8½](https://www.chantalvaulet.com/products/amora-2ct-heart-engagement-ring?variant=42921483763777)
+    Availability: Available
+    Price: €1,295.00 EUR
+  - [Lab Diamond / 9K White Gold / 8.75](https://www.chantalvaulet.com/products/amora-2ct-heart-engagement-ring?variant=42921483796545)
+    Availability: Available
+    Price: €1,295.00 EUR
+  - [Lab Diamond / 9K White Gold / 9](https://www.chantalvaulet.com/products/amora-2ct-heart-engagement-ring?variant=42921483829313)
+    Availability: Available
+    Price: €1,295.00 EUR
+  - [Lab Diamond / 14K White Gold / 5](https://www.chantalvaulet.com/products/amora-2ct-heart-engagement-ring?variant=42921483862081)
+    Availability: Available
+    Price: €1,495.00 EUR
+  - [Lab Diamond / 14K White Gold / 5.25](https://www.chantalvaulet.com/products/amora-2ct-heart-engagement-ring?variant=42921483894849)
+    Availability: Available
+    Price: €1,495.00 EUR
+- [The Eira 3CT Moissanite or Lab Diamond Bridal Set - Chantal Vaulet](https://www.chantalvaulet.com/products/the-eira-set): The Eira Bridal Set features a 3CT round center stone with 3mm side stones and a perfectly matched pavé wedding band. Available in moissanite or lab diamond, set in rose gold.
+  Updated: 2025-10-12T16:25:43Z
+  Vendor: Chantal Vaulet
+  Product Type: RING
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/Gold_ring_with_diamonds_on_a_beige_jewelry_box.webp?v=1760286226
+  - [Moissanite / 9K Yellow Gold / 5](https://www.chantalvaulet.com/products/the-eira-set?variant=42928262578241)
+    Availability: Available
+    Price: €1,495.00 EUR
+  - [Moissanite / 9K Yellow Gold / 5.25](https://www.chantalvaulet.com/products/the-eira-set?variant=42928262676545)
+    Availability: Available
+    Price: €1,495.00 EUR
+  - [Moissanite / 9K Yellow Gold / 5.75](https://www.chantalvaulet.com/products/the-eira-set?variant=42928262774849)
+    Availability: Available
+    Price: €1,495.00 EUR
+  - [Moissanite / 9K Yellow Gold / 6](https://www.chantalvaulet.com/products/the-eira-set?variant=42928262873153)
+    Availability: Available
+    Price: €1,495.00 EUR
+  - [Moissanite / 9K Yellow Gold / 6.5](https://www.chantalvaulet.com/products/the-eira-set?variant=42928262971457)
+    Availability: Available
+    Price: €1,495.00 EUR
+  - [Moissanite / 9K Yellow Gold / 7](https://www.chantalvaulet.com/products/the-eira-set?variant=42928263069761)
+    Availability: Available
+    Price: €1,495.00 EUR
+  - [Moissanite / 9K Yellow Gold / 7.25](https://www.chantalvaulet.com/products/the-eira-set?variant=42928263168065)
+    Availability: Available
+    Price: €1,495.00 EUR
+  - [Moissanite / 9K Yellow Gold / 7.75](https://www.chantalvaulet.com/products/the-eira-set?variant=42928263266369)
+    Availability: Available
+    Price: €1,495.00 EUR
+  - [Moissanite / 9K Yellow Gold / 8](https://www.chantalvaulet.com/products/the-eira-set?variant=42928263364673)
+    Availability: Available
+    Price: €1,495.00 EUR
+  - [Moissanite / 9K Yellow Gold / 8½](https://www.chantalvaulet.com/products/the-eira-set?variant=42928263462977)
+    Availability: Available
+    Price: €1,495.00 EUR
+  - [Moissanite / 9K Yellow Gold / 9](https://www.chantalvaulet.com/products/the-eira-set?variant=42928263561281)
+    Availability: Available
+    Price: €1,495.00 EUR
+  - [Moissanite / 14K Yellow Gold / 5](https://www.chantalvaulet.com/products/the-eira-set?variant=42928262611009)
+    Availability: Available
+    Price: €1,750.00 EUR
+  - [Moissanite / 14K Yellow Gold / 5.25](https://www.chantalvaulet.com/products/the-eira-set?variant=42928262709313)
+    Availability: Available
+    Price: €1,750.00 EUR
+  - [Moissanite / 14K Yellow Gold / 5.75](https://www.chantalvaulet.com/products/the-eira-set?variant=42928262807617)
+    Availability: Available
+    Price: €1,750.00 EUR
+  - [Moissanite / 14K Yellow Gold / 6](https://www.chantalvaulet.com/products/the-eira-set?variant=42928262905921)
+    Availability: Available
+    Price: €1,750.00 EUR
+  - [Moissanite / 14K Yellow Gold / 6.5](https://www.chantalvaulet.com/products/the-eira-set?variant=42928263004225)
+    Availability: Available
+    Price: €1,750.00 EUR
+  - [Moissanite / 14K Yellow Gold / 7](https://www.chantalvaulet.com/products/the-eira-set?variant=42928263102529)
+    Availability: Available
+    Price: €1,750.00 EUR
+  - [Moissanite / 14K Yellow Gold / 7.25](https://www.chantalvaulet.com/products/the-eira-set?variant=42928263200833)
+    Availability: Available
+    Price: €1,750.00 EUR
+  - [Moissanite / 14K Yellow Gold / 7.75](https://www.chantalvaulet.com/products/the-eira-set?variant=42928263299137)
+    Availability: Available
+    Price: €1,750.00 EUR
+  - [Moissanite / 14K Yellow Gold / 8](https://www.chantalvaulet.com/products/the-eira-set?variant=42928263397441)
+    Availability: Available
+    Price: €1,750.00 EUR
+  - [Moissanite / 14K Yellow Gold / 8½](https://www.chantalvaulet.com/products/the-eira-set?variant=42928263495745)
+    Availability: Available
+    Price: €1,750.00 EUR
+  - [Moissanite / 14K Yellow Gold / 9](https://www.chantalvaulet.com/products/the-eira-set?variant=42928263594049)
+    Availability: Available
+    Price: €1,750.00 EUR
+  - [Moissanite / 18K Yellow Gold / 5](https://www.chantalvaulet.com/products/the-eira-set?variant=42928262643777)
+    Availability: Available
+    Price: €1,995.00 EUR
+  - [Moissanite / 18K Yellow Gold / 5.25](https://www.chantalvaulet.com/products/the-eira-set?variant=42928262742081)
+    Availability: Available
+    Price: €1,995.00 EUR
+  - [Moissanite / 18K Yellow Gold / 5.75](https://www.chantalvaulet.com/products/the-eira-set?variant=42928262840385)
+    Availability: Available
+    Price: €1,995.00 EUR
+  - [Moissanite / 18K Yellow Gold / 6](https://www.chantalvaulet.com/products/the-eira-set?variant=42928262938689)
+    Availability: Available
+    Price: €1,995.00 EUR
+  - [Moissanite / 18K Yellow Gold / 6.5](https://www.chantalvaulet.com/products/the-eira-set?variant=42928263036993)
+    Availability: Available
+    Price: €1,995.00 EUR
+  - [Moissanite / 18K Yellow Gold / 7](https://www.chantalvaulet.com/products/the-eira-set?variant=42928263135297)
+    Availability: Available
+    Price: €1,995.00 EUR
+  - [Moissanite / 18K Yellow Gold / 7.25](https://www.chantalvaulet.com/products/the-eira-set?variant=42928263233601)
+    Availability: Available
+    Price: €1,995.00 EUR
+  - [Moissanite / 18K Yellow Gold / 7.75](https://www.chantalvaulet.com/products/the-eira-set?variant=42928263331905)
+    Availability: Available
+    Price: €1,995.00 EUR
+  - [Moissanite / 18K Yellow Gold / 8](https://www.chantalvaulet.com/products/the-eira-set?variant=42928263430209)
+    Availability: Available
+    Price: €1,995.00 EUR
+  - [Moissanite / 18K Yellow Gold / 8½](https://www.chantalvaulet.com/products/the-eira-set?variant=42928263528513)
+    Availability: Available
+    Price: €1,995.00 EUR
+  - [Moissanite / 18K Yellow Gold / 9](https://www.chantalvaulet.com/products/the-eira-set?variant=42928263626817)
+    Availability: Available
+    Price: €1,995.00 EUR
+  - [Lab Diamond / 9K Yellow Gold / 5](https://www.chantalvaulet.com/products/the-eira-set?variant=42928264151105)
+    Availability: Available
+    Price: €2,279.00 EUR
+  - [Lab Diamond / 9K Yellow Gold / 5.25](https://www.chantalvaulet.com/products/the-eira-set?variant=42928264183873)
+    Availability: Available
+    Price: €2,279.00 EUR
+  - [Lab Diamond / 9K Yellow Gold / 5.75](https://www.chantalvaulet.com/products/the-eira-set?variant=42928264216641)
+    Availability: Available
+    Price: €2,279.00 EUR
+  - [Lab Diamond / 9K Yellow Gold / 6](https://www.chantalvaulet.com/products/the-eira-set?variant=42928264249409)
+    Availability: Available
+    Price: €2,279.00 EUR
+  - [Lab Diamond / 9K Yellow Gold / 6.5](https://www.chantalvaulet.com/products/the-eira-set?variant=42928264282177)
+    Availability: Available
+    Price: €2,279.00 EUR
+  - [Lab Diamond / 9K Yellow Gold / 7](https://www.chantalvaulet.com/products/the-eira-set?variant=42928264314945)
+    Availability: Available
+    Price: €2,279.00 EUR
+  - [Lab Diamond / 9K Yellow Gold / 7.25](https://www.chantalvaulet.com/products/the-eira-set?variant=42928264347713)
+    Availability: Available
+    Price: €2,279.00 EUR
+  - [Lab Diamond / 9K Yellow Gold / 7.75](https://www.chantalvaulet.com/products/the-eira-set?variant=42928264380481)
+    Availability: Available
+    Price: €2,279.00 EUR
+  - [Lab Diamond / 9K Yellow Gold / 8](https://www.chantalvaulet.com/products/the-eira-set?variant=42928264413249)
+    Availability: Available
+    Price: €2,279.00 EUR
+  - [Lab Diamond / 9K Yellow Gold / 8½](https://www.chantalvaulet.com/products/the-eira-set?variant=42928264446017)
+    Availability: Available
+    Price: €2,279.00 EUR
+  - [Lab Diamond / 9K Yellow Gold / 9](https://www.chantalvaulet.com/products/the-eira-set?variant=42928264478785)
+    Availability: Available
+    Price: €2,279.00 EUR
+  - [Lab Diamond / 14K Yellow Gold / 5](https://www.chantalvaulet.com/products/the-eira-set?variant=42928264511553)
+    Availability: Available
+    Price: €2,450.00 EUR
+  - [Lab Diamond / 14K Yellow Gold / 5.25](https://www.chantalvaulet.com/products/the-eira-set?variant=42928264544321)
+    Availability: Available
+    Price: €2,450.00 EUR
+  - [Lab Diamond / 14K Yellow Gold / 5.75](https://www.chantalvaulet.com/products/the-eira-set?variant=42928264577089)
+    Availability: Available
+    Price: €2,450.00 EUR
+  - [Lab Diamond / 14K Yellow Gold / 6](https://www.chantalvaulet.com/products/the-eira-set?variant=42928264609857)
+    Availability: Available
+    Price: €2,450.00 EUR
+  - [Lab Diamond / 14K Yellow Gold / 6.5](https://www.chantalvaulet.com/products/the-eira-set?variant=42928264642625)
+    Availability: Available
+    Price: €2,450.00 EUR
+  - [Lab Diamond / 14K Yellow Gold / 7](https://www.chantalvaulet.com/products/the-eira-set?variant=42928264675393)
+    Availability: Available
+    Price: €2,450.00 EUR
 
 ## Collections
 
@@ -10888,23 +11200,23 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
   Updated: 2025-10-10T20:45:27Z
   Total Products: 19
 - [Elegant Rings Collection - Perfect for Every Occasion](https://www.chantalvaulet.com/collections/rings): Discover our stunning collection of rings, designed to elevate your style for any occasion. Shop now for timeless elegance!
-  Updated: 2025-10-11T08:07:27Z
-  Total Products: 131
+  Updated: 2025-10-12T15:44:59Z
+  Total Products: 132
 - [Stunning Earrings Collection 💎✨](https://www.chantalvaulet.com/collections/earrings): Explore our exquisite earrings collection featuring Moissanite, Gold, & Diamonds. Shine bright with every look! 💖🌟
   Updated: 2025-10-10T18:40:55Z
   Total Products: 22
 - [✨ Stunning Moissanite Necklaces Collection 💎](https://www.chantalvaulet.com/collections/necklaces): Explore our exquisite Moissanite necklaces collection. Perfect elegance for every occasion! ✨
-  Updated: 2025-10-05T15:09:25Z
-  Total Products: 38
+  Updated: 2025-10-12T18:56:04Z
+  Total Products: 39
 - [Stunning Bracelets Collection 💎✨](https://www.chantalvaulet.com/collections/bracelets): Discover exquisite bracelets in moissanite, silver & gold! Elevate your style with our stunning collection! 💖
   Updated: 2025-09-28T19:28:43Z
   Total Products: 11
 - [Best Sellers Collection - Top Rated Products](https://www.chantalvaulet.com/collections/best-sellers): Explore our Best Sellers Collection featuring top-rated products that customers love! Discover what’s trending and shop now.
-  Updated: 2025-10-11T08:07:27Z
-  Total Products: 199
+  Updated: 2025-10-12T18:56:04Z
+  Total Products: 202
 - [925 Sterling Silver Collection](https://www.chantalvaulet.com/collections/silver-925): Explore our exquisite 925 sterling silver jewelry collection, featuring timeless designs.
-  Updated: 2025-10-11T08:51:08Z
-  Total Products: 185
+  Updated: 2025-10-12T18:56:04Z
+  Total Products: 186
 - [✨ White Gold Collection: Stunning Jewelry Pieces ✨](https://www.chantalvaulet.com/collections/white-gold): Explore our White Gold Collection featuring exquisite moissanite jewelry. Perfect for any occasion! 💍💖
   Updated: 2025-10-10T21:26:54Z
   Total Products: 8
@@ -10912,20 +11224,20 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
   Updated: 2025-10-11T08:07:27Z
   Total Products: 6
 - [✨ Moissanite & Silver Treasures: €50-€150 Collection 💎](https://www.chantalvaulet.com/collections/price-between-50-eur-and-100-eur): Discover stunning Moissanite and silver pieces priced between 50 and 150 euro! Elevate your style with elegant jewelry! 💖
-  Updated: 2025-10-10T17:55:37Z
-  Total Products: 167
+  Updated: 2025-10-12T18:56:04Z
+  Total Products: 168
 - [Jewelry Collection Above €150 | Moissanite, Gold, Diamonds](https://www.chantalvaulet.com/collections/above-150): Explore our exquisite collection of jewelry above €150 featuring stunning moissanite, gold, and diamond pieces.
-  Updated: 2025-10-11T08:07:27Z
-  Total Products: 23
+  Updated: 2025-10-12T15:44:59Z
+  Total Products: 25
 - [Explore All Products: Jewelry, Moissanite, Diamonds ✨💎](https://www.chantalvaulet.com/collections/all-products): Shop our stunning selection of all products, including moissanite, diamonds, and gold jewelry! 💖
-  Updated: 2025-10-11T08:07:27Z
-  Total Products: 199
+  Updated: 2025-10-12T18:56:04Z
+  Total Products: 202
 - [Lab-Grown Diamond Engagement Rings | Chantal Vaulet](https://www.chantalvaulet.com/collections/lab-grown-engagement-rings): Shop lab-grown diamond engagement rings—ethical, brilliant, and responsibly priced. Styles: solitaire, halo, oval, pear, emerald & more. Free delivery
-  Updated: 2025-10-11T08:07:27Z
-  Total Products: 8
+  Updated: 2025-10-12T15:44:59Z
+  Total Products: 10
 - [Moissanite Engagement Rings](https://www.chantalvaulet.com/collections/moissanite-engagement-rings): Explore moissanite engagement rings—solitaire, halo & pavé. White, yellow or rose gold. Custom sizes, free shipping, lifetime care.
-  Updated: 2025-10-11T08:07:27Z
-  Total Products: 107
+  Updated: 2025-10-12T15:44:59Z
+  Total Products: 109
 - [Stunning Bundles of Engagement & Wedding Jewelry](https://www.chantalvaulet.com/collections/bundles): Discover exquisite engagement rings, wedding rings, earrings, and necklaces crafted with moissanite and lab diamonds.
   Updated: 2025-09-28T19:28:44Z
   Total Products: 3
@@ -10933,23 +11245,23 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
   Updated: 2025-10-11T08:07:27Z
   Total Products: 14
 - [Engagement Rings – Lab-Grown Diamonds & Moissanite | Chantal Vaulet](https://www.chantalvaulet.com/collections/engagement-rings): Shop engagement rings in lab-grown diamond or moissanite, solitaire, halo, oval & custom. Ethical, budget-friendly. Free shipping
-  Updated: 2025-10-11T08:07:27Z
-  Total Products: 108
+  Updated: 2025-10-12T15:44:59Z
+  Total Products: 110
 - [Wedding Rings – Lab-Grown Diamonds & Moissanite | Chantal Vaulet](https://www.chantalvaulet.com/collections/wedding-rings): Wedding rings in lab-grown diamond and moissanite. Timeless to modern styles. Ethical sparkle, enduring quality. Budget friendly. Shop the collection.
-  Updated: 2025-10-10T20:18:15Z
-  Total Products: 17
+  Updated: 2025-10-12T15:44:59Z
+  Total Products: 18
 - [Lab-Grown Diamond Wedding Rings | Chantal Vaulet](https://www.chantalvaulet.com/collections/lab-grown-wedding-rings): Shop lab-grown diamond wedding rings: ethical sparkle, exceptional value. Classic and modern bands—pavé, eternity, plain, and custom designs
-  Updated: 2025-10-10T20:18:15Z
-  Total Products: 3
+  Updated: 2025-10-12T15:44:59Z
+  Total Products: 4
 - [Wedding Rings — Moissanite | Chantal Vaulet](https://www.chantalvaulet.com/collections/moissanite-wedding-rings): Browse handcrafted moissanite wedding rings & bands—eternity, pavé, solitaire, and matching sets. Ethical metals, custom sizing, and sparkle that lasts.
-  Updated: 2025-10-04T08:47:42Z
-  Total Products: 14
+  Updated: 2025-10-12T15:44:59Z
+  Total Products: 15
 - [Oval Engagement Rings — Lab-Grown & Moissanite | Chantal Vaulet](https://www.chantalvaulet.com/collections/oval-engagement-rings): Shop oval engagement rings in lab-grown diamond & moissanite. Ethical sparkle, customizable settings in 18K gold or platinum. Handcrafted by Chantal Vaulet.
   Updated: 2025-10-10T16:59:29Z
   Total Products: 11
 - [Round Engagement Rings — Lab-Grown & Moissanite | Chantal Vaulet](https://www.chantalvaulet.com/collections/round-engagement-rings): Shop round engagement rings in lab-grown diamond & moissanite. Classic solitaire, halo & pavé designs in gold, platinum or silver. Free shipping
-  Updated: 2025-10-11T08:07:27Z
-  Total Products: 149
+  Updated: 2025-10-12T18:56:04Z
+  Total Products: 151
 - [Emerald-Cut Engagement Rings — Lab-Grown & Moissanite | Chantal Vaulet](https://www.chantalvaulet.com/collections/emerald-cut-engagement-rings): Shop emerald-cut engagement rings in lab-grown diamond and moissanite—solitaire, three-stone, halo & vintage-inspired. Ethical sparkle, great value. Free shipping
   Updated: 2025-10-10T17:55:37Z
   Total Products: 11
@@ -10957,8 +11269,8 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
   Updated: 2025-10-05T18:55:30Z
   Total Products: 8
 - [Heart-Shaped Engagement Rings — Lab-Grown & Moissanite | Chantal Vaulet](https://www.chantalvaulet.com/collections/heart-shaped-engagement-rings): Shop heart-shaped engagement rings in lab-grown diamond and moissanite—solitaire, halo & three-stone styles. Ethical sparkle, romantic silhouette, great value. Free shipping.
-  Updated: 2025-10-05T18:57:25Z
-  Total Products: 4
+  Updated: 2025-10-11T20:54:33Z
+  Total Products: 5
 - [Marquise Engagement Rings — Lab-Grown & Moissanite | Chantal Vaulet](https://www.chantalvaulet.com/collections/marquise-engagement-rings): Discover marquise engagement rings in lab-grown diamond and moissanite—solitaire, halo & vintage-inspired styles. Ethical sparkle, elongated silhouette, great value. Free shipping.
   Updated: 2025-10-05T18:54:39Z
   Total Products: 1
@@ -10981,14 +11293,14 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
   Updated: 2025-10-05T19:27:28Z
   Total Products: 39
 - [Pavé Engagement Rings – Lab-Grown & Moissanite | Chantal Vaulet](https://www.chantalvaulet.com/collections/pave-engagement-rings): Shop pavé engagement rings in lab-grown diamond and moissanite—micro & French pavé bands, classic to modern styles. Ethical, handcrafted. Free shipping.
-  Updated: 2025-10-09T11:12:20Z
-  Total Products: 72
+  Updated: 2025-10-12T15:44:59Z
+  Total Products: 74
 - [Three-Stone Engagement Rings — Lab-Grown Diamond & Moissanite | Chantal Vaulet](https://www.chantalvaulet.com/collections/three-stone-engagement-rings): Shop three-stone engagement rings in lab-grown diamond & moissanite—past-present-future styles, handcrafted in fine gold. Ethical & affordable. Free shipping.
   Updated: 2025-10-05T20:21:24Z
   Total Products: 2
 - [Solitaire Engagement Rings — Lab-Grown Diamond & Moissanite | Chantal Vaulet](https://www.chantalvaulet.com/collections/solitaire-engagement-rings): Discover classic solitaire engagement rings in lab-grown diamond & moissanite. Handcrafted settings, ethical materials, lifetime sparkle. Free shipping.
-  Updated: 2025-10-11T08:07:27Z
-  Total Products: 43
+  Updated: 2025-10-12T15:44:59Z
+  Total Products: 44
 - [Statement Engagement Rings — Lab-Grown Diamond & Moissanite | Chantal Vaulet](https://www.chantalvaulet.com/collections/statement-engagement-rings): Shop statement engagement rings in lab-grown diamond & moissanite—bold, unique designs handcrafted to order. Ethical materials and free shipping.
   Updated: 2025-10-05T20:23:21Z
   Total Products: 6
@@ -10996,11 +11308,11 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
   Updated: 2025-10-11T08:07:27Z
   Total Products: 10
 - [Wedding Rings — Lab-Grown Diamond | Chantal Vaulet](https://www.chantalvaulet.com/collections/lab-grown-diamond-wedding-bands): Discover lab-grown diamond wedding rings—classic bands, pavé, and eternity styles. Ethical sparkle, budget-friendly, handcrafted quality. Free shipping.
-  Updated: 2025-10-10T20:18:15Z
-  Total Products: 3
+  Updated: 2025-10-12T15:44:59Z
+  Total Products: 4
 - [Wedding Rings — Moissanite | Chantal Vaulet](https://www.chantalvaulet.com/collections/moissanite-wedding-bands): Shop moissanite wedding rings—classic bands, pavé, and eternity styles. Brilliant, durable, conflict-free, budget-friendly. Handcrafted quality. Free shipping.
-  Updated: 2025-10-05T22:08:30Z
-  Total Products: 14
+  Updated: 2025-10-12T15:44:59Z
+  Total Products: 15
 - [Eternity Wedding Ring – Diamond Band](https://www.chantalvaulet.com/collections/eternity-wedding-ring): Eternity wedding ring with a continuous circle of diamonds. Expertly crafted in platinum or 18K gold. Free shipping and lifetime care.
   Updated: 2025-10-05T22:40:57Z
   Total Products: 2
@@ -11008,8 +11320,8 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
   Updated: 2025-10-05T22:41:56Z
   Total Products: 1
 - [Round-Cut Engagement Rings | Moissanite & Lab Diamonds](https://www.chantalvaulet.com/collections/engagement-rings-round-cut): Explore timeless round-cut engagement rings crafted with brilliant moissanite and lab-grown diamonds. A perfect symbol of everlasting love.
-  Updated: 2025-10-11T08:07:27Z
-  Total Products: 86
+  Updated: 2025-10-12T15:44:59Z
+  Total Products: 87
 - [Oval Engagement Rings | Moissanite & Lab-Grown Diamonds](https://www.chantalvaulet.com/collections/engagement-rings-oval): Discover elegant oval engagement rings featuring moissanite and lab-created diamonds. Elongated beauty with modern sophistication.
   Updated: 2025-10-10T16:59:29Z
   Total Products: 4
@@ -11023,8 +11335,8 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
   Updated: 2025-10-07T14:38:42Z
   Total Products: 6
 - [Heart-Shaped Engagement Rings | Romantic Moissanite & Lab Diamonds](https://www.chantalvaulet.com/collections/engagement-rings-heart-shaped): Celebrate love with heart-shaped engagement rings crafted with sparkling moissanite or lab-grown diamonds. A symbol of romance and devotion.
-  Updated: 2025-10-07T14:39:16Z
-  Total Products: 2
+  Updated: 2025-10-11T21:03:42Z
+  Total Products: 3
 - [Trillion-Cut Engagement Rings | Unique Moissanite & Diamond Designs](https://www.chantalvaulet.com/collections/engagement-rings-trillion-cut): Explore bold trillion-cut engagement rings, featuring triangular moissanite or lab-created diamonds. For a love that defies convention.
   Updated: 2025-10-07T14:42:26Z
   Total Products: 2
@@ -11035,8 +11347,8 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
   Updated: 2025-10-09T10:05:13Z
   Total Products: 1
 - [Gold Engagement Rings – 9K, 14K & 18K Yellow, White & Rose](https://www.chantalvaulet.com/collections/gold-engagement-rings): Shop gold engagement rings in 9K, 14K & 18K yellow, white and rose gold. Solitaire, halo and three-stone designs with ethically sourced diamonds. Handcrafted, free shipping.
-  Updated: 2025-10-11T15:28:23Z
-  Total Products: 7
+  Updated: 2025-10-12T15:44:59Z
+  Total Products: 9
 - [Sterling Silver Engagement Rings | Chantal Vaulet](https://www.chantalvaulet.com/collections/silver-engagement-rings): Explore 925 sterling silver engagement rings in classic solitaire, halo and pavé styles with diamond or gemstone settings. Timeless designs for every proposal.
   Updated: 2025-10-11T15:23:19Z
   Total Products: 99
@@ -11111,7 +11423,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
 ## Alternate Currencies & Languages
 
 - [Australia (en / AUD)](https://www.chantalvaulet.com/llms.txt?market=australia)
-- [Canada (en / CAD)](https://www.chantalvaulet.com/llms.txt?market=canada)
+- [Canada (en / CAD)](https://www.chantalvaulet.com//llms.txt?market=canada)
 - [Europe - EUR (en / EUR)](https://www.chantalvaulet.com/llms.txt?market=netherlands)
 - [Europe - non EUR - Collecting (en / EUR)](https://www.chantalvaulet.com/llms.txt?market=europe-international)
 - [Rest of world (en / EUR)](https://www.chantalvaulet.com/llms.txt?market=dont-show-taxes)
