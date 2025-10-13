@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2018-01-12T21:20:39Z
 - Contact Email: contact@ma-boutique-henne.com
-- Updated At: 2025-10-13T00:00:39.505Z
+- Updated At: 2025-10-13T08:00:36.310Z
 
 ## Products
 
@@ -18,7 +18,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/blonde-henna.jpg?v=1659530518
   Price: 11,50 € EUR
 - [Poudre de Sidr (Jujubier - Ziziphus), Phitofilos](https://ma-boutique-henne.com/products/copy-of-henne-neutre-cassia-100gr): La poudre de Sidr (Jujubier) Phitofilos, ziziphus, poudre lavante cheveux fragilisés, secs et cuirs chevelus sensibles. Lave en douceur et soigne les irritations de la peau, phitofilos, jujubier,henné, laver chevelure, poudre plante, soin capillaire naturel, vegan, ritha, noix lavage, ghassoul, shikakai, demeler, sdir
-  Updated: 2025-10-09T14:48:36Z
+  Updated: 2025-10-13T03:02:36Z
   Vendor: ma boutique henné
   Product Type: Poudres de soin
   Availability: Available
@@ -221,7 +221,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/phitofilos-argile-smectique-terre-a-foulon-100-g-1099486-fr.jpg?v=1570714287
   Price: 8,00 € EUR
 - [Véritable Red Kamala (100% Mallotus Philippensis) - Le Erbe Di Janas](https://ma-boutique-henne.com/products/red-kalama-en-poudre-100gr): Le Red Kalama, Kamala, poudre provient de Mallotus Philippensis, colore les cheveux en rouge, roux, bordeaux, violine, henné, coloration naturelle, Kalama Rouge, le erbe di janas, sidr, ghassoul, cheveux roux, couleur violine, rouge cerise, le erbe di jana, coloration cheveux bordeaux, cuivré, algérie, bio, vegan
-  Updated: 2025-10-12T18:44:55Z
+  Updated: 2025-10-13T03:02:37Z
   Vendor: Ma Boutique Henné
   Product Type: Poudres colorantes
   Availability: Available
@@ -284,7 +284,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/maroc3.jpg?v=1605869326
   Price: 7,30 € EUR
 - [Henné Rouge du Yémen](https://ma-boutique-henne.com/products/henne-du-yemen-100gr): Ce henné est 100% naturel, du Yémen, biologique. coloration et soin des cheveux, couleur rousse, reflets cuivrés, auburn, bordeaux, rouge, cheveux brillants, volume, cuir chevelu sensible, boutique, cosmétique, coiffure, poudre plante, tazarine, algérie, henna, shikakai, ghassoul, rouge cerise, bio, vegan, sidr, katam
-  Updated: 2025-10-12T20:55:00Z
+  Updated: 2025-10-13T07:49:02Z
   Vendor: Ma Boutique Henné
   Product Type: Henné
   Availability: Available
@@ -466,7 +466,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/camomille-matricaire-sachet-50g.jpg?v=1524736429
   Price: 13,50 € EUR
 - [Henné Naturel du Rajasthan, Inde ECOCERT - Henna Red](https://ma-boutique-henne.com/products/henne-naturel-du-rajasthan-inde-100gr): 100% naturel, mayam, elementals, Henné naturel rajasthan Inde ,Centifolia, rajasthan, coloration cheveux roux, rousse, rouge, auburn, bordeaux, brillance, nuance, chevelure, boutique, doux brillants, bio, coloration naturelle, soin capillaire, couverture cheveux blancs, rouge cerise, reflets cuivrés, cheveux, algérie
-  Updated: 2025-10-12T18:29:16Z
+  Updated: 2025-10-13T07:49:05Z
   Vendor: Ma Boutique Henné
   Product Type: Henné
   Availability: Available
@@ -618,13 +618,13 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/1-X-100ML-EMPTY-PLASTIC-PERFUME-TRANSPARENT-ATOMIZER-SPRAY-BOTTLE-D0598.jpg?v=1531144013
   Price: 3,50 € EUR
 - [Bonnet oreilles de Chat, microfibres éponge - Plusieurs coloris](https://ma-boutique-henne.com/products/bonnet-oreilles-de-chat-bleu-microfibre-eponge-serviette-de-bain-sechage-rapide): Bonnet tout doux en éponge microfibre, séchage rapide des cheveux, faire poser un soin capillaire ou un henné (après-shampoing, masque aux plantes etc) et renforcer son action en le gardant au chaud, Pour camoufler un henné en cours de pose, boutique, coiffure, accessoire, brosse, rouge, cheveux, sécher, rouge cerise
-  Updated: 2025-10-09T08:06:05Z
+  Updated: 2025-10-13T07:42:06Z
   Vendor: Ma Boutique Henné
   Product Type: Accessoires
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/HTB176CKXovrK1RjSspcxh6zSXXa5.jpeg?v=1546632246
   - [Bleu](https://ma-boutique-henne.com/products/bonnet-oreilles-de-chat-bleu-microfibre-eponge-serviette-de-bain-sechage-rapide?variant=12906361913387)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/2730/3378/products/HTB1D_ZBp3aTBuNjSszfq6xgfpXa9.jpg?v=1546632246
     Price: 11,00 € EUR
   - [Rose](https://ma-boutique-henne.com/products/bonnet-oreilles-de-chat-bleu-microfibre-eponge-serviette-de-bain-sechage-rapide?variant=15285331525675)
@@ -702,7 +702,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/curcuma.png?v=1538729593
   Price: 8,00 € EUR
 - [Henné Rouge de Gabès - Tunisie](https://ma-boutique-henne.com/products/henne-de-gabes-tunisie): Ce henné est 100% naturel, du Gabès, henné gabésien, tunisie, BAQ, biologique. coloration et soin des cheveux, rousse, reflets cuivrés, auburn, bordeaux, rouge cerise, cheveux brillants, volume, henne, Yémen, rouge chocolat,poudre plante, coloration couvre les cheveux blancs, première application, cheveux gris, henna
-  Updated: 2025-10-08T12:30:41Z
+  Updated: 2025-10-13T07:59:14Z
   Vendor: Ma Boutique Henné
   Product Type: Henné
   Availability: Available
@@ -915,7 +915,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/files/soin-ombre-naturelle-200ml.png?v=1724147967
   Price: 32,50 € EUR
 - [Henné Brunette - ECOCERT](https://ma-boutique-henne.com/products/henne-brunette): brou de noix, henne brunette, henné, henna brown mayam elemental noce mallo, coque de la noix. poudre hyper fine, nuances de châtain, à marron, chocolat, brun. couvre cheveux blancs, henné, coloration chatain naturelle, katam, feuille, noyer, brune, bio, biologique, nature, coloration marron chocolat, brune,
-  Updated: 2025-10-12T14:29:26Z
+  Updated: 2025-10-13T07:42:08Z
   Vendor: Ma Boutique Henné
   Product Type: Poudres colorantes
   Availability: Available
@@ -1782,7 +1782,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/henne-blond-dore.png?v=1605703923
   Price: 19,50 € EUR
 - [Henné Rouge Renforcé Intense - Exclusivité Ma Boutique Henné](https://ma-boutique-henne.com/products/henne-rouge-renforce): Ce henné 100% naturel, du Soudan, rouge cerise renforcé sodium picramate BAQ, biologique. coloration et soin des cheveux, couleur rousse, reflets cuivrés, auburn, bordeaux, rouge, cheveux brillants, volume, henne, Yémen, rouge chocolat,poudre plante, soudanais, coloration, coloration cheveux gris, henna, algérie
-  Updated: 2025-10-12T20:16:22Z
+  Updated: 2025-10-13T03:02:37Z
   Vendor: Ma Boutique Henné
   Product Type: Henné
   Availability: Available
@@ -1929,7 +1929,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/files/noir.png?v=1728041034
   Price: 7,50 € EUR
 - [Henné Natur - CHATAIN](https://ma-boutique-henne.com/products/henne-natur-chatain): henné biologique henne natur nature hennedrog, colorations capillaires, végétales, couleur cheveux plantes, henné, cheveux rouge, henne rouge cuivré noir prune auburn prune châtain clair acajou auburn, soins capillaires
-  Updated: 2025-10-09T14:48:36Z
+  Updated: 2025-10-13T07:06:41Z
   Vendor: Ma Boutique Henné
   Product Type: Poudres colorantes
   Availability: Available
