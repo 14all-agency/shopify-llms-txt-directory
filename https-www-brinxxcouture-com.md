@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2025-10-13T12:00:49.294Z
+- Updated At: 2025-10-13T20:00:50.953Z
 
 ## Products
 
@@ -852,7 +852,7 @@
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Moissanite-Rhodium-Plated-Necklace-Brinxx-Couture-839.jpg?v=1709270989
   Price: $550.00 USD
 - [Silver Moissanite Tennis Bracelet - Brinxx Couture](https://www.brinxxcouture.com/products/moissanite-bracelet): This Silver Moissanite Tennis Bracelet is the perfect addition to any outfit. Wether it's for a formal night out or just a casual t-shirt and jeans day you can't go wrong with it on your wrist.
-  Updated: 2025-10-02T17:11:56Z
+  Updated: 2025-10-13T16:57:52Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -7470,7 +7470,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Round-Neck-Short-Sleeve-Mini-Dress-Brinxx-Couture-3030.jpg?v=1709841777
     Price: $19.99 USD
 - [Long Tie Waist Pocketed Pants - Brinxx Couture](https://www.brinxxcouture.com/products/long-tie-waist-pocketed-pants): Look good and feel confident in our Long Tie Waist Pocketed Pants. Crafted with breathable fabric, these pants have a unique tie waist for flattering comfort.
-  Updated: 2025-10-07T09:01:26Z
+  Updated: 2025-10-13T14:01:40Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -7879,7 +7879,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Tie-Back-Cutout-Round-Neck-Split-Dress-Brinxx-Couture-6081.jpg?v=1709843255
     Price: $30.00 USD
 - [Stacy Block Heel Sock Boots - Brinxx Couture](https://www.brinxxcouture.com/products/weeboo-stacy-block-heel-sock-boots): Step into style with the Stacy Block Heel Sock Boots! These fashion-forward boots feature a sleek silhouette that pairs perfectly with any look.
-  Updated: 2025-10-02T17:12:08Z
+  Updated: 2025-10-13T14:18:20Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -8460,7 +8460,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/High-Neck-Long-Sleeve-Ribbed-Top-Brinxx-Couture-6079_ae99505f-4811-4797-bf89-89c3a0f73de1.jpg?v=1736050169
     Price: $25.00 USD
 - [Distressed Raw Hem Denim Jacket - Brinxx Couture](https://www.brinxxcouture.com/products/distressed-raw-hem-denim-jacket): This distressed raw hem denim jacket is the perfect way to make a statement. With its distressed raw hem design, you'll look cool and effortless.
-  Updated: 2025-10-13T08:21:56Z
+  Updated: 2025-10-13T15:28:54Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -19587,7 +19587,7 @@
   Availability: Available
   Price: $39.00 USD
 - [Stretchy Stitch Pants  - Brinxx Couture](https://www.brinxxcouture.com/products/stretchystitch-pants-by-basic-bae): Introducing the Stretchy Stitch Pants - the ultimate combination of comfort and style! These pants are stretchy that allows for maximum flexibility.
-  Updated: 2025-10-12T15:45:22Z
+  Updated: 2025-10-13T19:45:18Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -22238,7 +22238,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Round-Neck-Long-Sleeve-Top-and-Pants-Lounge-Set-Brinxx-Couture-9593.jpg?v=1730296620
     Price: $45.00 USD
 - [Drawstring Long Sleeve Top and Shorts Lounge Set - Brinxx Couture](https://www.brinxxcouture.com/products/drawstring-long-sleeve-top-and-shorts-lounge-set): Experience ultimate comfort and style with our Drawstring Long Sleeve Top and Shorts Lounge Set. The drawstring design allows for a perfect fit.
-  Updated: 2025-10-13T01:02:17Z
+  Updated: 2025-10-13T16:41:41Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -22304,7 +22304,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Drawstring-Long-Sleeve-Top-and-Shorts-Lounge-Set-Brinxx-Couture-7833_f649b4c4-31b9-490a-a999-d715291eec52.jpg?v=1736049829
     Price: $41.54 USD
 - [Lapel Collar Sherpa Coat - Brinxx Couture](https://www.brinxxcouture.com/products/lapel-collar-sherpa-coat): Step out in style with our Lapel Collar Sherpa Coat! This coat features a lapel collar design that adds a touch of sophistication to your ensemble.
-  Updated: 2025-10-08T20:02:01Z
+  Updated: 2025-10-13T17:21:02Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -23430,7 +23430,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Notch-Lapel-Woven-Coat-with-Side-Pockets-Brinxx-Couture-2936.jpg?v=1730297108
     Price: $40.00 USD
 - [Cable-Knit Round Neck Sweater Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress): Wrap yourself in cozy comfort and timeless style with our Cable-Knit Round Neck Sweater Dress! Made from soft, high-quality materials.
-  Updated: 2025-10-13T11:43:17Z
+  Updated: 2025-10-13T18:09:07Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -23444,7 +23444,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Cable-Knit-Round-Neck-Sweater-Dress-Brinxx-Couture-228.jpg?v=1730297216
     Price: $49.99 USD
   - [Tan / L](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress?variant=43426819571894)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Cable-Knit-Round-Neck-Sweater-Dress-Brinxx-Couture-228.jpg?v=1730297216
     Price: $49.99 USD
   - [Tan / XL](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress?variant=43426819604662)
