@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2019-08-25T03:49:02Z
 - Contact Email: sales@milvertons.com
-- Updated At: 2025-10-12T04:00:38.116Z
+- Updated At: 2025-10-13T00:00:34.213Z
 
 ## Products
 
@@ -4862,7 +4862,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/ribbed-cardigan-with-feather-accents-and-gold-button-details-918504.jpg?v=1729021092
     Price: $84.00 USD
 - [Cropped Blazer with Fringe Trim and Lapel Collar Detail](https://milvertons.com/products/fringe-trim-lapel-collar-cropped-blazer): Cropped Blazer with Fringe Trim and Lapel Collar Detail. Unique and Stylish, this blazer adds a touch of sophistication and edge to any outfit. Order yours now
-  Updated: 2025-10-12T03:20:40Z
+  Updated: 2025-10-12T22:00:56Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Outerwear - Jackets
   Availability: Available
@@ -8888,7 +8888,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/davi-dani-floral-mesh-long-sleeve-sheer-layering-top-54912892.webp?v=1751141455
     Price: $44.69 USD
 - [Davi & Dani Floral Mesh Long-Sleeved Sheer Layering Top](https://milvertons.com/products/davi-dani-floral-mesh-long-sleeved-sheer-layering-top): This Floral Mesh Long-Sleeved Sheer Layering Top is perfect for adding a subtly sexy and sophisticated touch to your ensembles for various occasions. Shop now!
-  Updated: 2025-10-07T17:18:21Z
+  Updated: 2025-10-12T21:24:31Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Shirts - Blouses
   Availability: Available
@@ -8902,7 +8902,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/davi-dani-floral-mesh-long-sleeved-sheer-layering-top-71230932.webp?v=1751141455
     Price: $44.69 USD
   - [Burgundy / L](https://milvertons.com/products/davi-dani-floral-mesh-long-sleeved-sheer-layering-top?variant=46682714505454)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/davi-dani-floral-mesh-long-sleeved-sheer-layering-top-71230932.webp?v=1751141455
     Price: $44.69 USD
 - [BiBi Popcorn Waffle Knit with Buttoned Front Cami Top](https://milvertons.com/products/bibi-popcorn-waffle-knit-with-buttoned-front-cami-top): The BiBi Popcorn Waffle Knit with Buttoned Front Cami Top is a chic and versatile piece for your wardrobe, a must-have for any fashion-forward individual.
@@ -9172,7 +9172,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/2025-rhinestone-heels-handbag-set-for-weddings-elegant-3803940.webp?v=1751472876
     Price: $120.76 USD
 - [Italian Fashion Heels and Matching Bag Set – 2025 Edition](https://milvertons.com/products/italian-fashion-heels-and-matching-bag-set-2025-edition): Italian Fashion Heels and Matching Bag Set. Elevate your wardrobe with this unique blend of style and craft that sets it apart from ordinary fashion accessories
-  Updated: 2025-10-11T16:47:44Z
+  Updated: 2025-10-12T04:47:29Z
   Vendor: Milvertons
   Product Type: Women - Shoes
   Availability: Available
@@ -10536,7 +10536,7 @@
   Updated: 2025-04-04T00:42:58Z
   Total Products: 66
 - [Women's Clothing Collection](https://milvertons.com/collections/womens-clothing): Discover chic and stylish women's clothing at Milvertons! Browse our collection of fashionable apparel, from timeless classics to on-trend pieces. Shop now for the ultimate fashion experience!
-  Updated: 2025-10-08T09:26:24Z
+  Updated: 2025-10-12T09:26:32Z
   Total Products: 153
 - [Men's Clothing - Menswear, Trendy Ethnic designs and more](https://milvertons.com/collections/mens-clothing): Men's Clothing - Menswear, Trendy Ethnic designs and more. Shop our Men's Clothing Collection  at Milvertons today!
   Updated: 2025-10-06T18:28:51Z
@@ -10569,7 +10569,7 @@
   Updated: 2025-10-05T19:25:37Z
   Total Products: 7
 - [All Products](https://milvertons.com/collections/all): Explore our carefully curated collection of products - Women's Shoes and Bags, Women's Clothing, Men's Shoes, Men's Clothing and Clothing Accessories, and more!
-  Updated: 2025-10-11T09:25:44Z
+  Updated: 2025-10-12T09:25:30Z
   Total Products: 162
 - [Gift Cards for your loved ones](https://milvertons.com/collections/gift-cards): Gift Cards - Milvertons e-gift cards for your loved ones, no expiry date, redeemable at checkout.
   Updated: 2025-09-26T06:52:18Z
@@ -10641,7 +10641,7 @@
   Updated: 2025-09-26T06:52:19Z
   Total Products: 5
 - [Shoes with Matching Bag Sets Collection](https://milvertons.com/collections/shoes-with-matching-bag-sets): Explore our curated collection of shoes with matching bags that combine fashion-forward designs and impeccable craftsmanship. Shop now and complete your ensemble with our exquisite shoe and bag pairings.
-  Updated: 2025-10-11T09:26:02Z
+  Updated: 2025-10-12T09:25:47Z
   Total Products: 56
 - [UpOrder - Recommended Products](https://milvertons.com/collections/spently_products): This collection is used by the UpOrder app, to make product recommendations in your Shopify notification and auto follow up emails. It's important to note that this collection is “hidden”, it is not be visible on your website. By default, your Best-Selling products will be recommended, but you can customize what is recommend by editing the collection. The collection is updated automatically every 4 hours in order to recommend the best products to your customers in your emails. We only recommend products that are in stock, visible online, and have not been purchased by the customer receiving the notification or auto follow-up email. To enable/disable recommendations in your emails, login to the UpOrder app, remove the Recommended Products component, and re-export your template.
   Updated: 2025-10-08T21:18:15Z
