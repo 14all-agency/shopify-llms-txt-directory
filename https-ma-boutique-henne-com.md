@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2018-01-12T21:20:39Z
 - Contact Email: contact@ma-boutique-henne.com
-- Updated At: 2025-10-12T20:00:36.429Z
+- Updated At: 2025-10-13T00:00:39.505Z
 
 ## Products
 
@@ -284,7 +284,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/maroc3.jpg?v=1605869326
   Price: 7,30 € EUR
 - [Henné Rouge du Yémen](https://ma-boutique-henne.com/products/henne-du-yemen-100gr): Ce henné est 100% naturel, du Yémen, biologique. coloration et soin des cheveux, couleur rousse, reflets cuivrés, auburn, bordeaux, rouge, cheveux brillants, volume, cuir chevelu sensible, boutique, cosmétique, coiffure, poudre plante, tazarine, algérie, henna, shikakai, ghassoul, rouge cerise, bio, vegan, sidr, katam
-  Updated: 2025-10-10T18:23:45Z
+  Updated: 2025-10-12T20:55:00Z
   Vendor: Ma Boutique Henné
   Product Type: Henné
   Availability: Available
@@ -424,7 +424,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/D1Fae6-Q.jpeg?v=1548344088
   Price: 10,50 € EUR
 - [Poudre d'Amla - Phitofilos](https://ma-boutique-henne.com/products/amla-100gr): Phitofilos, poudre d'amla, fonce, foncer, cheveux brun, brune, chatain, neutraliser roux, cuivré, noisette, coloration, rouge cerise, henné naturel, brillance, nourrit, démêle, hydrate, hydratation hydrater, chevelure, soin capillaire, cheveux châtain, soin capillaire, bio, vegan, boutique henné, gaine.
-  Updated: 2025-08-31T17:20:06Z
+  Updated: 2025-10-12T20:55:01Z
   Vendor: Ma Boutique Henné
   Product Type: Poudres colorantes
   Availability: Available
@@ -438,7 +438,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/alcana.png?v=1538729409
   Price: 10,50 € EUR
 - [Bois de Santal - Sandalo Rosso, Phitofilos](https://ma-boutique-henne.com/products/bois-de-santal-sandalo-rosso-50gr): Phitofilos, poudre bois de santal, sandalo rosso, coloration bordeaux, violine, pourpre, violet, reflets, rose, coloration, rouge cerise, henné naturel, brillance, nourrit, démêle, hydrate, hydratation hydrater, chevelure, soin capillaire, cheveux châtain, soin capillaire, bio, vegan, boutique henné, gaine.
-  Updated: 2025-10-07T21:16:41Z
+  Updated: 2025-10-12T20:55:00Z
   Vendor: Ma Boutique Henné
   Product Type: Poudres colorantes
   Availability: Available
@@ -1782,7 +1782,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/henne-blond-dore.png?v=1605703923
   Price: 19,50 € EUR
 - [Henné Rouge Renforcé Intense - Exclusivité Ma Boutique Henné](https://ma-boutique-henne.com/products/henne-rouge-renforce): Ce henné 100% naturel, du Soudan, rouge cerise renforcé sodium picramate BAQ, biologique. coloration et soin des cheveux, couleur rousse, reflets cuivrés, auburn, bordeaux, rouge, cheveux brillants, volume, henne, Yémen, rouge chocolat,poudre plante, soudanais, coloration, coloration cheveux gris, henna, algérie
-  Updated: 2025-10-12T18:44:56Z
+  Updated: 2025-10-12T20:16:22Z
   Vendor: Ma Boutique Henné
   Product Type: Henné
   Availability: Available
