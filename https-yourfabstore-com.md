@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2023-02-25T23:29:15Z
 - Contact Email: info@yourfabstore.com
-- Updated At: 2025-10-13T04:00:32.954Z
+- Updated At: 2025-10-13T08:00:31.915Z
 
 ## Products
 
@@ -7275,7 +7275,7 @@
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/12019891560501313409-2048-_5.jpg?v=1759285001
     Price: $30.00 USD
 - [Retro One Piece Friends in Sunglasses Unisex Tee](https://yourfabstore.com/products/retro-one-piece-friends-in-sunglasses): This Tee features a one piece anime design, perfect for anime and manga enthusiasts. Made from specially spun fibers, this Tee is strong and smooth, ideal for printing. It is relevant for otaku and Japanese culture fans, fitting into casual and everyday wear. Suitable for holidays like Comic-Con or birthdays of anime fans.Product features- Shoulder tape for stability- Ribbed knit collar for elasticity- Ethically sourced US cotton- Classic fit for comfort- Direct-to-Film and Direct-to-Garment printing techniquesCare instructions- Machine wash: warm (max 40C or 105F)- Non-chlorine: bleach as needed- Tumble dry: medium- Do not iron- Do not dryclean S M L XL 2XL 3XL 4XL 5XL Width, in 18.00 20.00 22.00 24.00 26.00 28.00 30.00 32.00 Length, in 28.00 29.00 30.00 31.00 32.00 33.00 34.00 35.00 Sleeve length (from center back), in 15.10 16.50 18.00 19.50 21.00 22.40 23.70 25.00 Size tolerance, in 1.50 1.50 1.50 1.50 1.50 1.50 1.50 1.50 EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Gildan 5000, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: For adults, Made in Nicaragua Care instructions: Machine wash: warm (max 40C or 105F), Non-chlorine: bleach as needed, Tumble dry: medium, Do not iron, Do not dryclean
-  Updated: 2025-10-12T05:47:50Z
+  Updated: 2025-10-13T06:00:02Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
