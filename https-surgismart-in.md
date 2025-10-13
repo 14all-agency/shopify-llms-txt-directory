@@ -6,1115 +6,1115 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-03-10T14:11:59Z
 - Contact Email: info@surgismart.in
-- Updated At: 2025-10-13T04:00:34.267Z
+- Updated At: 2025-10-13T12:00:33.200Z
 
 ## Products
 
 - [Buy ​United Medicare Lumbar Corset with Strap (A-01) - Surgismart](https://surgismart.in/products/a-01): Key Features:Lumbar corset provides support, restricts motion, and facilitates healing with uniform compression. UM Lumbar corset is an ideal back support for general use with mild back aches. Provides noticeable therapeutic relief for the lumbar spine and supports the back muscles. May promote good posture and even helps reduce pelvic anterotation. Anatomically rigid splints may provide effective immobilisation and maintain correct and comfortable posture. Hook and loop closures that adjust for the most comfortable and easy fit. Direction of use: Place on the lower back and stretch the elastic from both the sides to lock in the front. Stretch and lock the loop elastic for additional reinforcement. Safety information: Read the label instruction carefully before using Keep reach out of children UM lumbar corset provides therapeutic relief for the lumbar spine. It also provides firm support for the lower back and helps maintain correct posture with enhanced compression for the lumber. Yes, you can wear your UM lumbar corset daily; however, you should consult your physician.UM lumbar corset with strap is used for patients who have acute lower back pain, slip disc, disc herniation, lumbar spondylitis, or muscle weakness. A lumbar corset works by applying pressure to your abdomen; it relieves pressure on your spine and joints, allowing you to recover more quickly. The corset can also be used to relieve discomfort following a sprain or strain for a brief period of time. Discuss the fit of your corset with your healthcare professional. It is important that your corset is the correct size for you and fits properly. Your healthcare professional will advise you on how long and how tight to make the corset to cover the areas that require support.Sold by: Surgismart - Surgismart
-  Updated: 2025-09-28T11:24:00Z
+  Updated: 2025-10-13T11:20:33Z
   Vendor: United Medicare
   Product Type: Lumbar Support
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/um_lumbar_corset_w_strap_a01_l_408435_0_0-2.jpg?v=1751478757
   - [S](https://surgismart.in/products/a-01?variant=50359964926232)
     Availability: Available
-    Price: ₹625.00 INR
+    Price: ₹790.00 INR
   - [M](https://surgismart.in/products/a-01?variant=50359964893464)
     Availability: Available
-    Price: ₹625.00 INR
+    Price: ₹790.00 INR
   - [L](https://surgismart.in/products/a-01?variant=50359964860696)
     Availability: Available
-    Price: ₹625.00 INR
+    Price: ₹790.00 INR
   - [XL](https://surgismart.in/products/a-01?variant=50376259272984)
     Availability: Available
-    Price: ₹625.00 INR
+    Price: ₹790.00 INR
   - [XXL](https://surgismart.in/products/a-01?variant=50376259305752)
     Availability: Available
-    Price: ₹625.00 INR
+    Price: ₹790.00 INR
 - [Buy ​United Medicare Contoured Back Support (A-02) - Surgismart](https://surgismart.in/products/a-02): Key Features:Contoured back support for compressing and maintaining the lumbar and sacral regions in a neutral position. Anatomically contoured, rigid splints provide effective immobilisation and maintain correct posture. Malleable aluminium splints can be customised for accurate shape and enhanced immobilisation. Double-pull mechanism enhances compression and splinting action. Eva foam back pads offer high cushioning in thin sections and enhance comfort. Direction of Use: Wrap the Contoured Back Support around your waist. Close the hook and loop as per your comfort. Now, stretch and fasten the double pull mechanism tightly to add firmness and grip. Size Chart: Size S  28 to 32 inches (70 to 80 cm). Size M  32 to 36 inches (80 to 90 cm). Size L  36 to 40 inches (90 to 100 cm). Size XL  40 to 44 inches (100 to 110 cm). Size XXL  44 to 48 inches (110 to 120 cm). Safety Information: Wash at least once a week. Dont wear it too tight. Keep out of reach of children. Contoured back support is used for compressing and maintaining the lumbar and sacral regions in a neutral position.It is not recommended to wear the back support while sleeping unless advised by your doctor.Contoured back supports can be used by people who have lumbar spondylitis, Spondylolisthesis, lumbago, or postural fatigue.Contoured back support is used to prevent unnecessary movements that further damage the back. It provides immobilisation in the neutral position to stabilise the vertebral fractures.UM contoured back support has an anatomically contoured splint and malleable aluminium splints; it delivers effective immobilisation, helps maintain correct posture, thus relieving pain and discomfort.Sold by: Surgismart - Surgismart
-  Updated: 2025-08-13T07:39:36Z
+  Updated: 2025-10-13T11:20:32Z
   Vendor: United Medicare
   Product Type: Back Support
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/lumbar.webp?v=1751478756
   - [S](https://surgismart.in/products/a-02?variant=50359966269720)
     Availability: Available
-    Price: ₹960.00 INR
+    Price: ₹1,220.00 INR
   - [M](https://surgismart.in/products/a-02?variant=50359966302488)
     Availability: Available
-    Price: ₹960.00 INR
+    Price: ₹1,220.00 INR
   - [L](https://surgismart.in/products/a-02?variant=50359966171416)
     Availability: Available
-    Price: ₹960.00 INR
+    Price: ₹1,220.00 INR
   - [XL](https://surgismart.in/products/a-02?variant=50376259371288)
     Availability: Available
-    Price: ₹960.00 INR
+    Price: ₹1,220.00 INR
   - [XXL](https://surgismart.in/products/a-02?variant=50376259404056)
     Availability: Available
-    Price: ₹960.00 INR
+    Price: ₹1,220.00 INR
 - [Buy ​United Medicare UTech Lumbar Corset Chair Back Support (A-06) - Surgismart](https://surgismart.in/products/a-06): Key Features:Lumbar corset chair back support provides outstanding support and maximum comfort to the back. The lace pull mechanism provides independent top and bottom pressures with minimal force to provide big compression. High-quality and ventilated fabric for enhanced comfort, long functional life, and royal aesthetics. An anatomic design provides excellent fitting, rigid immobilisation, and posture correction. PU foam liner enhances comfort, and the front panel houses a rigid plate for enhanced decompression of IVF( lumbar intervertebral foramen) Direction of use: Wear it as directed by the label Safety information: Hand wash with cold water & mild detergent. Hand rinse to remove excess water. Dry at room temperature. Do not machine wash. UM U-Tech lumbar corset chair back support is used for lumbar spondylitis and postural fatigue. It provides outstanding support and maximum comfort to the back.Lumbar Corset Chair Back Support is used to provide noticeable therapeutic relief for the lumbar spine, support the back muscles, promote good posture, reduce stress on the back, and alleviate lower back pain. Your brace should be snug, but not so tight that it causes pain, bruising, or other issues, if you experience any of the following, please consult your doctor. The lumbar corset chair back supports lace pull mechanism provides independent top and bottom pressures with minimal force to provide optimum compression.UM Lumbar Corset Chair Back support is made of PU foam material, which enhances comfort, and the front panel houses a rigid plate for enhanced decompression of IVF.Sold by: Surgismart - Surgismart
-  Updated: 2025-08-13T07:39:36Z
+  Updated: 2025-10-13T11:20:32Z
   Vendor: United Medicare
   Product Type: Lumbar Support
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/um_u_tech_lumbar_corset_chair_back_support_a06_xl_1s_409472_0_0.jpg?v=1751478755
   - [S](https://surgismart.in/products/a-06?variant=50359968039192)
     Availability: Available
-    Price: ₹1,800.00 INR
+    Price: ₹2,300.00 INR
   - [M](https://surgismart.in/products/a-06?variant=50359968006424)
     Availability: Available
-    Price: ₹1,800.00 INR
+    Price: ₹2,300.00 INR
   - [L](https://surgismart.in/products/a-06?variant=50359968137496)
     Availability: Available
-    Price: ₹1,800.00 INR
+    Price: ₹2,300.00 INR
   - [XL](https://surgismart.in/products/a-06?variant=50376259567896)
     Availability: Available
-    Price: ₹1,800.00 INR
+    Price: ₹2,300.00 INR
   - [XXL](https://surgismart.in/products/a-06?variant=50376259600664)
     Availability: Available
-    Price: ₹1,800.00 INR
+    Price: ₹2,300.00 INR
 - [Buy ​United Medicare Rib Belt (A-08) - Surgismart](https://surgismart.in/products/a-08): Key Features:Rib belt provides controlled compression to the thoracic and upper abdominal regions. Durable, high-quality elastic webbing three nylon reeves prevent the belt from rolling over. Additional Eva foam pads offer a strong localised grip at the fracture side. Extra-porous material ensures good ventilation and patient comfort. Hook and loop closure that adjusts for the most comfortable and easy fit. Direction of use Place the special compression pad at the site of fracture and wrap the rib belt around the rib cage, ensuring that the desired region is enclosed properly. Safety information Wash at least once a week. Dont wear it too tight. Keep out of reach of children. Size chart Size S  28 to 32 inches (70 to 80 cm). Size M  32 to 36 inches (80 to 90 cm). Size L  36 to 40 inches (90 to 100 cm). Size XL  40 to 44 inches (100 to 110 cm). Size XXL  44 to 48 inches (110 to 120 cm). Note: Measure circumference around the chest.UM rib belt is used to provide compression to the thoracic and upper abdominal regions. It compresses the rib cage, offering extra support after the injury/surgery.A rib belt is used to offer ideal postoperative care, protect and bind the surgical incisions, and also allows sufficient flexibility and comfortable breathing.No. If you wear a rib belt tightly, it causes pressure in the rib cage tightness, tension, aches, and pains. It can also feel like there is a burning sensation in the ribs and rib cage area, so dont wear the rib belt tight.The UM Rib Belt is made of Eva foam that offers a strong localised grip at the fracture side.Measure the circumference around the waist immediately below the navel, and you can also choose your rib belt sizes from the United Medicare size chart based on that.Sold by: Surgismart - Surgismart
-  Updated: 2025-08-13T07:39:35Z
+  Updated: 2025-10-13T11:20:32Z
   Vendor: United Medicare
   Product Type: Chest Brace
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/UM-Rib-Belt-A08-XL-1.jpg?v=1751478754
   - [S](https://surgismart.in/products/a-08?variant=50359968694552)
     Availability: Available
-    Price: ₹525.00 INR
+    Price: ₹670.00 INR
   - [M](https://surgismart.in/products/a-08?variant=50359968825624)
     Availability: Available
-    Price: ₹525.00 INR
+    Price: ₹670.00 INR
   - [L](https://surgismart.in/products/a-08?variant=50359968792856)
     Availability: Available
-    Price: ₹525.00 INR
+    Price: ₹670.00 INR
   - [XL](https://surgismart.in/products/a-08?variant=50376259797272)
     Availability: Available
-    Price: ₹525.00 INR
+    Price: ₹670.00 INR
   - [XXL](https://surgismart.in/products/a-08?variant=50376259830040)
     Availability: Available
-    Price: ₹525.00 INR
+    Price: ₹670.00 INR
 - [Buy ​United Medicare Abdominal Binder 9 (A-10) - Surgismart](https://surgismart.in/products/a-10): Key Features:UM Abdominal Binder is designed to provide better support and compression to the abdominal muscles. It binds your abdominal muscles together to reduce pain and strengthen them. Hook-and-loop closure allows for a wider range of adjustability and easy application. This UM abdominal binder belt can compress the bulge or tone up abdominal muscles. Offers ideal post-operative care, protects and binds the surgical incisions of the abdomen. Direction of use Wrap the abdominal binder around your waist and ensure the desired abdominal region is enclosed properly. Safety information Hand wash it with mild detergent and water. Dont wear it too tight. Keep out of reach of children. UM Abdominal Binder 9 is used to provide better support and compression to the abdominal muscles. It protects and binds the surgical incisions in the abdomen.Generally abdominal binder is not required or suggested for usage at night, therefore ask your doctor before using it.Abdominal Binder 9 is used for patients who have surgical incisions, containment of small and medium events, post-surgical and post-natal containment, and lumbar containment support.UM Abdominal Binder 9 tightens loose abdominal muscles while providing firm compression, increased ventilation, and gives comfort during sudden movements.UM Abdominal Binder hook-and-loop closure allows for a wider range of adjustability and easy application to the abdominal binder.Sold by: Surgismart - Surgismart
-  Updated: 2025-08-13T07:39:35Z
+  Updated: 2025-10-13T11:20:32Z
   Vendor: United Medicare
   Product Type: Abdominal Support
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/um_abdominal_binder_9_inch_a10_xxl_1s_409510_0_0.jpg?v=1751478753
   - [S](https://surgismart.in/products/a-10?variant=50359969218840)
     Availability: Available
-    Price: ₹565.00 INR
+    Price: ₹715.00 INR
   - [M](https://surgismart.in/products/a-10?variant=50359969251608)
     Availability: Available
-    Price: ₹565.00 INR
+    Price: ₹715.00 INR
   - [L](https://surgismart.in/products/a-10?variant=50359969284376)
     Availability: Available
-    Price: ₹565.00 INR
+    Price: ₹715.00 INR
   - [XL](https://surgismart.in/products/a-10?variant=50376260092184)
     Availability: Available
-    Price: ₹565.00 INR
+    Price: ₹715.00 INR
   - [XXL](https://surgismart.in/products/a-10?variant=50376260124952)
     Availability: Available
-    Price: ₹565.00 INR
+    Price: ₹715.00 INR
 - [Buy ​United Medicare Abdomina Support Neoprene (A-12) - Surgismart](https://surgismart.in/products/a-12): Key Features: UM abdominal effectively supports and compresses the abdominal muscles. It is made of high-quality perforated neoprene material, which gives excellent durability and comfort. Abdominal support can be used to compress the bulge or tone up the abdominal muscles. Hook-and-loop self-adhesive loop material allows for a wider range of adjustability. Neoprene material helps to retain body heat and improves blood circulation. Abdominal support neoprene has a front two-part closure panel that gives customised compression. Ideal as a postoperative support, it protects and binds the surgical incisions of the abdomen. Direction of use: Wrap the support around your waist. Adjust the two part closure panel and ensure the desired abdominal region is enclosed properly. Safety information: Read the label carefully before use Keep out of reach of children UM abdominal support is designed to tone up abdominal muscles. It provides comfort during sudden movements or coughing in thoracic surgeries.Abdominal supports are available in 2 different sizes: universal (2844 CM) and XXL (4452 CM), so you can choose your suitable size.You can use abdominal support depending on your injuries; if you have any discomfort, pain, or irritation consult a physician. UM abdominal support is made of high-quality perforated neoprene material, which gives excellent durability and comfort to the abdomen.Abdominal support is not necessary or recommended to wear at night or anytime while you are sleeping, so consult your doctor before using the support . Sold by: Surgismart - Surgismart
-  Updated: 2025-08-13T07:39:35Z
+  Updated: 2025-10-13T11:20:31Z
   Vendor: United Medicare
   Product Type: Abdominal Support
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/p11-1.jpg?v=1751478752
   - [XXL](https://surgismart.in/products/a-12?variant=50376260321560)
     Availability: Available
-    Price: ₹899.00 INR
+    Price: ₹1,150.00 INR
   - [UNIVERSAL](https://surgismart.in/products/a-12?variant=50376260354328)
     Availability: Available
-    Price: ₹899.00 INR
+    Price: ₹1,150.00 INR
 - [Buy ​United Medicare Hernia Belt (A-14) - Surgismart](https://surgismart.in/products/a-14): Key Features:UM hernia belt is ideal to be used for inguinal hernias, weak inguinal muscles, and post-operative support. It has etha foam pads that are light in weight, smooth and comfortable to wear. Adjustable pelvic and leg straps for perfect fitting and customised pressure. Hernia pad is moulded out of special-grade ethafoam material for appropriate hardness. Specially designed hernia belt provides gentle and controlled pressure. Direction of use Place the hernia support belt around your hips so that the hernia pads come over the groin area. Then press the inguinal aperture at the correct angle. Adjust the pelvic and leg straps for your comfort. Wear your hernia belt tightly but not too tight. Safety information Hand wash with mild detergent. Dont dry clean; dont iron or bleach. Dont wear it too tight. Size chart Size S  28 to 32 inches (70 to 80 cm). Size M  32 to 36 inches (80 to 90 cm). Size L  36 to 40 inches (90 to 100 cm). Size XL  40 to 44 inches (100 to 110 cm). Size XXL  44 to 48 inches (110 to 120 cm). Note: Measure circumference around the waist (2 inch below naval). UM hernia belt is designed to relieve pain from painful hernias. That belt provides even pressure around the abdominal area and provides a perfect fit that ensures customised pressure.United medicare hernia belt is available in 5 different sizes: S, M, L, XL, and XXL, so you can choose your suitable sizes from the hernia belt sizes chart.UM hernia belt helps to relieve pain and discomfort from the inguinal hernia. Its moulded etha foam pads are light in weight, smooth, and comfortable for hernias and has adjustable leg and abdominal straps for perfect fitting.Hernia belt is used by people who have inguinal hernias, pre- and post-surgical weakness, and weak inguinal muscles.Hernia belt is made of moulded etha foam material which provides light weight, is smooth and comfortable.Sold by: Surgismart - Surgismart
-  Updated: 2025-08-13T07:39:35Z
+  Updated: 2025-10-13T11:20:32Z
   Vendor: United Medicare
   Product Type: Hernia Support
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/um_hernia_belt_a14_l_409966_0_0.jpg?v=1751478751
   - [S](https://surgismart.in/products/a-14?variant=50359970758936)
     Availability: Available
-    Price: ₹490.00 INR
+    Price: ₹620.00 INR
   - [M](https://surgismart.in/products/a-14?variant=50359970791704)
     Availability: Available
-    Price: ₹490.00 INR
+    Price: ₹620.00 INR
   - [L](https://surgismart.in/products/a-14?variant=50359970660632)
     Availability: Available
-    Price: ₹490.00 INR
+    Price: ₹620.00 INR
   - [XL](https://surgismart.in/products/a-14?variant=50376260550936)
     Availability: Available
-    Price: ₹490.00 INR
+    Price: ₹620.00 INR
   - [XXL](https://surgismart.in/products/a-14?variant=50376260583704)
     Availability: Available
-    Price: ₹490.00 INR
+    Price: ₹620.00 INR
 - [Buy ​United Medicare Chest Binder (A-15) - Surgismart](https://surgismart.in/products/a-15): Key Features:Chest binder helps reduce postoperative pain and discomfort in the thoracic region. Strong, tapered-shaped monofilament cotton elastic band gives stable compression. PU foam chest pad gives better cushioning and a longer functional life for the chest binder. A strong elastic band provides a good grip and helps in the equal distribution of pressure over the binder and the chest. 50-mm-thick PUF pad holds and binds the fractured sternum and helps in equal distribution of pressure Size chart Size S  28 to 32 inches (70 to 80 cm). Size M  32 to 36 inches (80 to 90 cm). Size L  36 to 40 inches (90 to 100 cm). Size XL  40 to 44 inches (100 to 110 cm). Size XXL  44 to 48 inches (110 to 120 cm). Size XXXL  48 to 52 inches (120 to 130 cm). Note: Measure circumference around the chestDirection of use Place the special PUF pad at the chest and wrap the chest binder around the chest region. Safety information Wash at least once a week. Dont wear it too tight. Keep out of reach of children Chest binder is used to reduce postoperative pain and discomfort levels among patients. It provides a good grip and helps in the equal distribution of pressure over the binder and the chest.Chest binders are used to compress and bind the rib cage and provide splinting to the sternum while allowing sufficient flexibility for comfortable breathing.Chest binder is used to reduce pain, deal with degenerative processes, and provide stable compression to the chest binder. It has a thick PUF pad that holds and binds the fractured sternum and helps in equal distribution of pressure. Anatomic chest pad. Controlled compression. Optimum chest splinting Sizing flexibility. Sleek construction. Has pleasant aestheticsUM chest binder is made of strong tapered monofilament cotton. It provides stable compression and decreases postoperative pain and discomfort to the patients.Sold by: Surgismart - Surgismart
-  Updated: 2025-08-13T07:39:34Z
+  Updated: 2025-10-13T11:20:32Z
   Vendor: United Medicare
   Product Type: Chest Brace
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/p3-12-1.jpg?v=1751478750
   - [S](https://surgismart.in/products/a-15?variant=50359971086616)
     Availability: Available
-    Price: ₹790.00 INR
+    Price: ₹1,050.00 INR
   - [M](https://surgismart.in/products/a-15?variant=50359971184920)
     Availability: Available
-    Price: ₹790.00 INR
+    Price: ₹1,050.00 INR
   - [L](https://surgismart.in/products/a-15?variant=50359971152152)
     Availability: Available
-    Price: ₹790.00 INR
+    Price: ₹1,050.00 INR
   - [XL](https://surgismart.in/products/a-15?variant=50376260682008)
     Availability: Available
-    Price: ₹790.00 INR
+    Price: ₹1,050.00 INR
   - [XXL](https://surgismart.in/products/a-15?variant=50376260714776)
     Availability: Available
-    Price: ₹790.00 INR
+    Price: ₹1,050.00 INR
 - [Buy ​United Medicare Ab Wrap Neoprene (A-19) - Surgismart](https://surgismart.in/products/a-19): Key Features: Abs wrap is used to aid in weight loss, but it can also improve your posture and tone your abs. Durable, high-quality perforated neoprene fabric provides excellent, comfortable support. The front panel allows for a wider range of adjustability and easy application. Provides better support and compression for the abdominal muscles. It is primarily used for waistline reduction and as a postoperative aid. Direction of use Wrap the abdominal support around your waist. Use the hook and large loop closures to adjust the tightness. Ensure the desired abdominal region is enclosed properly. Safety information Hand wash it with mild detergent and water. Dont wear it too tight. Keep out of reach of children. Size chart Size Universal  28 to 44 inches (71 to 112 cm). Size XXL  44 to 52 inches (112 to 132 cm). UM abs wrap helps tone up loose abdominal muscles and provides firm compression. It allows for a wider range of adjustability and easy application.Yes, UM Abs wrap can reduce abdominal laxity by toning abdominal muscles, it also can improve your posture.Abs wrap is used for people who have lumbosacral pain, lumboscatice, weak and atonic muscles,pre-and post-operative, spondylarthrosis and tone abs.The UM abs wrap is used to tone up the abdominal muscles. It supports and compresses the abdominal muscles for waistline reduction and also can be used as a postoperative aid.Hand wash it with light detergent and water after each usage, and dont wear it too tight, keep it out of reach of children. Sold by: Surgismart - Surgismart
-  Updated: 2025-08-13T07:39:34Z
+  Updated: 2025-10-13T11:20:32Z
   Vendor: United Medicare
   Product Type: Lumbar Support
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/um_abs_wrap_neoprene_a19_u_410000_0_0.jpg?v=1751478750
   - [XXL](https://surgismart.in/products/a-19?variant=50376264057112)
     Availability: Available
-    Price: ₹825.00 INR
+    Price: ₹1,050.00 INR
   - [UNIVERSAL](https://surgismart.in/products/a-19?variant=50376264089880)
     Availability: Available
-    Price: ₹825.00 INR
+    Price: ₹1,050.00 INR
 - [Buy ​United Medicare U-Tech Lumbar Corset (Lace-Pull Slim fit) (A-23) - Surgismart](https://surgismart.in/products/a-23): Key Features:U-tech brace with lace pull mechanism provides independent top and bottom pressures. The U-Tech brace is designed to support a three-stage control protocol. easy application; slim fit style; wear under clothes. The degree of compression can be changed while wearing minimal force to provide big compression. Anatomic back panels provide excellent fitting, rigid immobilisation, and posture correction. Easy to use, light weight, pleasing aesthetics, durable, and long functional life. Direction of use Wear it as directed by the label Safety information Hand wash with mild detergent. Dont dry clean; dont iron or bleach. Dont wear it too tight. U-Tech lumbar corset is used if you have low back pain, arthritis, or degenerative disc disease. A corset can also be used for a short time to control pain from a sprain or strain.UM U-Tech Lumbar Corset Lace Pull Slim Fit offers separate top and bottom pressures, has a slim fit style, and can be worn under clothes for a comfortable compression.UM U-Tech Lumbar Corset is available in 6 different sizes: S & M, L & XL, and XXL & XXXL. So you can choose your suitable sizes for your comfort.UM lumber corsets have special features used to support a three-stage control Protocol. Easy application; slim fit style; wear under clothes.UM u-tech lumbar support is constructed of breathable air-mesh fabric for maximum comfort. Hook and loop closures that adapt for the most comfortable and easiest fitSold by: Surgismart - Surgismart
-  Updated: 2025-08-13T07:39:34Z
+  Updated: 2025-10-13T11:20:31Z
   Vendor: United Medicare
   Product Type: Lumbar Support
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/Lumbar-corset-1.jpg?v=1751478749
   - [S](https://surgismart.in/products/a-23?variant=50359974166808)
     Availability: Available
-    Price: ₹1,420.00 INR
+    Price: ₹1,800.00 INR
   - [M](https://surgismart.in/products/a-23?variant=50359974068504)
     Availability: Available
-    Price: ₹1,420.00 INR
+    Price: ₹1,800.00 INR
   - [L](https://surgismart.in/products/a-23?variant=50359974035736)
     Availability: Available
-    Price: ₹1,420.00 INR
+    Price: ₹1,800.00 INR
   - [XL](https://surgismart.in/products/a-23?variant=50376264483096)
     Availability: Available
-    Price: ₹1,420.00 INR
+    Price: ₹1,800.00 INR
   - [XXL](https://surgismart.in/products/a-23?variant=50376264515864)
     Availability: Available
-    Price: ₹1,420.00 INR
+    Price: ₹1,800.00 INR
   - [XXXL](https://surgismart.in/products/a-23?variant=50376264548632)
     Availability: Available
-    Price: ₹1,420.00 INR
+    Price: ₹1,800.00 INR
 - [Buy ​United Medicare Cervica Soft Collar with Support (B-02) - Surgismart](https://surgismart.in/products/b-02): Key Features:Cervical soft collar used for cervical disc injuries, strain on the neck muscles, and cervical spondylosis. UM cervical soft collar is used to support and alter the neck posture as required. Made of high-density PU foam, which provides better support and enhanced immobilisation. Has higher cushioning, better comfort, higher patient compliance, and long functional life. Reinforced with L.D. sheet with thick round edges to enhance support and comfort. Rust-proof eyelets provide proper ventilation and enhanced comfort. Direction of use Place the collar around your neck with the open end at the back. Adjust the Velcro closures as per your comfort. Safety information Hand wash with mild detergent and water. Dont wear it too tight. Keep out of reach of children. Size chart Size S 3 to 3.5inches (7.5 to 8.75cm). Size M  3.5 to 4 inches (8.75 to 10cm). Size L  4 to 4.5 inches (10 to 11.25 cm). UM soft cervical collar is used to help limit the movement of your neck. Its low-contour design maintains the head in a neutral position and provides proper ventilation and enhanced comfort.Cervical support is used for people who have a neck sprain, stiff neck, ortho and neuro conditions, cervical neuralgia, cervical spondylitis, cervical disc disease, or torticollis.UM cervical soft collar with support is used to provide comfortable immobilisation without the harsh, uncomfortable firmness to the neck. Its edge does not bite into the skin, providing more comfort and enhancing life.Cervical soft collar is made of high-density PU foam, which provides better support and enhanced immobilisation, higher patient compliance, and long functional life.UM soft cervical collar with support is used to support, immobilize, or alter the neck into the desired posture. It is recommended when partial or controlled cervical immobilization is necessary.Sold by: Surgismart - Surgismart
-  Updated: 2025-08-13T07:39:34Z
+  Updated: 2025-10-13T11:20:30Z
   Vendor: United Medicare
   Product Type: Cervical Support
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/t22.jpg?v=1751478748
   - [S](https://surgismart.in/products/b-02?variant=50359975674136)
     Availability: Available
-    Price: ₹280.00 INR
+    Price: ₹370.00 INR
   - [M](https://surgismart.in/products/b-02?variant=50359975706904)
     Availability: Available
-    Price: ₹280.00 INR
+    Price: ₹370.00 INR
   - [L](https://surgismart.in/products/b-02?variant=50359975739672)
     Availability: Available
-    Price: ₹280.00 INR
+    Price: ₹370.00 INR
 - [Buy ​United Medicare Cervica Pillow (Regular) (B-05) - Surgismart](https://surgismart.in/products/b-05): Key Features:UM cervical pillow keeps the neck in a slight hyperextension position and provides optimal muscle relaxation. It provides proper support to the head and neck during sleep. Cervical pillow promotes a healthy, natural posture of the cervical spine. High density foam ensures effective support to the neck, good resilience and long life. Plush covering provides soft feel, good aesthetics and durability. Direction of use Place the pillow comfortably with high end towards the neck and flat end on head. Safety information Read the label carefully Store in a cool, dry place Keep it clean and hygiene Keep out of reach of children UM cervical pillow is used in cases of neck pain or cervical spondylosis. It supports the neck, relaxes the neck muscles and ligaments, and provides proper support to the head and neck during sleep.UM cervical pillow is used for those who have neck pain, cervical spondylitis, stiff neck, and neck sprains, and cervical injuries.Cervical pillow helps you align your neck with the cervical bones that connect your neck to your spine. It offers support and comfort to the upper part of your backbone and reduces neck pain and back pain.The UM cervical pillow is made of PU foam material. It provides high density and ensures effective support to the neck, good resilience and long life.Cervical pillow can provide proper fitting and help you maintain the normal cervical curve while sleeping on your back, allowing your muscles and ligaments to relax and regain their normal length.Sold by: Surgismart - Surgismart
-  Updated: 2025-08-28T01:50:46Z
+  Updated: 2025-10-13T11:20:30Z
   Vendor: United Medicare
   Product Type: Cervical Support
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/um_cervical_pillow_regular_b05_u_408494_0_0.jpg?v=1751478747
-  Price: ₹945.00 INR
+  Price: ₹1,200.00 INR
 - [Buy ​United Medicare Contoured Cervica Pillow (B-06) - Surgismart](https://surgismart.in/products/b-06): Key Features:UM contoured pillow is useful in neck pain, stiffness in the neck, neck muscle strain, and spinal alignment during sleep. It has a unique design of different heights on two sides that provide therapeutic support. Helping to sleep in a healthy position, supports the neck muscle and ligament with firmness & resilience. Provides therapeutic relief for side sleepers, back sleepers, and stomach sleepers. It is a specially designed cervical pillow with premium quality PU foam. Direction of use Place the pillow under your neck so that the neck rests completely and there should be no gap between the pillow and the neck. Safety information Hand wash the outer cover with mild detergent. Dont dry clean. Keep out of reach of children. UM contoured cervical pillow keeps the neck in a slightly hyperextension position while sleeping. This counters the stress and strain by relaxing the muscles.UM contoured cervical pillow is made of high density PU foam, ensures effective support to the neck and long functional life.UM cervical is used to support the neck muscle, ligament with firmness & resilience. It combines softness and comfort and maintains optional spinal alignment and is good for back and side sleepers.The contoured cervical pillow is used for those who have Neck Sprains, Stiff Neck, Cervical Spondylitis, Cervical Disc Disease, Neck Pain.Plush covering provides a soft texture, good aesthetics, durability, and enhanced comfort.Sold by: Surgismart - Surgismart
-  Updated: 2025-08-13T07:39:33Z
+  Updated: 2025-10-13T11:20:30Z
   Vendor: United Medicare
   Product Type: Cervical Support
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/um_contoured_cervical_pillow_b06_u_1s_408496_0_0.jpg?v=1751478746
-  Price: ₹1,420.00 INR
+  Price: ₹1,800.00 INR
 - [Buy ​United Medicare Cast Shoe (C-03) - Surgismart](https://surgismart.in/products/c-03): Key Features:UM Cast shoe is an ankle-high shoe designed to provide support for the foot. Prevents wear and tear of the cast and also reduces impact on the injured leg. Hook and loop strapping feature ensures firm, secure and perfect fit. Cast shoes used to immobilise the transtibial joint, allowing for more movement, particularly during the lifting phase. Cast shoe effectively supports the injured leg while walking. Direction of use Place your foot in the cast shoe so that it fits snugly. Tighten and lock with velcro as per your comfort. Safety information Dont dry clean; dont iron or bleach. Dont wear it too tight. Dont wash very frequently. Keep out of reach of children. The UM Cost shoe is designed to prevent wear and tear of the cast and also reduce impact on the injured leg. It ensures a firm, secure, and perfect fit for people.A cast shoe is used for post-foot and toe operations,It is used to reduce impact on the injured leg while walking and give the patient better balance.Cast shoe can be used by people who have had a post-foot and toe operation, a foot cast, an injured leg, or a plaster cast.You can use an UM cast shoe for post foot or toe operation. But the duration depends on the severity of the injury, so you should wear your cast shoe for as long as directed by your consultant.UM Cast shoes are available in four different sizes: S, L, M, and XL.Sold by: Surgismart - Surgismart
-  Updated: 2025-08-13T07:39:33Z
+  Updated: 2025-10-13T11:20:29Z
   Vendor: United Medicare
   Product Type: Foot Support
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/um_cast_shoe_c03_m_430648_0_0.jpg?v=1751478745
   - [S](https://surgismart.in/products/c-03?variant=50359977935128)
     Availability: Available
-    Price: ₹560.00 INR
+    Price: ₹750.00 INR
   - [M](https://surgismart.in/products/c-03?variant=50359978000664)
     Availability: Available
-    Price: ₹560.00 INR
+    Price: ₹750.00 INR
   - [L](https://surgismart.in/products/c-03?variant=50359977967896)
     Availability: Available
-    Price: ₹560.00 INR
+    Price: ₹750.00 INR
   - [XL](https://surgismart.in/products/c-03?variant=50376266776856)
     Availability: Available
-    Price: ₹560.00 INR
+    Price: ₹750.00 INR
 - [Buy ​United Medicare Clavicle Brace with Velcro (C-04) - Surgismart](https://surgismart.in/products/c-04): Key Features:Clavicle brace is designed with a buckle to provide perfect fitting and help you maintain proper shoulder posture. Two padded webbing straps adjust in a figure-of-eight design and are fixed to a clavicle pad. Reverse buckle fastening with hook-and-loop tapes offers better tightening and grip. PU foam padding ensures no underarm rash on one hand and better comfort. Improves immobilisation and compression while ensuring linear union of clavicle bone fractures with appealing aesthetics. Direction of use Wear the clavicle brace around your shoulders so that the buckle comes between your shoulder blades. Now, Pull the straps on both the sides through the buckles and fasten to the required firmness. Safety information Hand wash with mild detergent and water. Keep out of reach of children. UM clavicle brace is designed reduce clavicle fractures and injuries. It also helps to maintain proper shoulder posture.The clavicle brace provides stability to the clavicle bone, which can help prevent further injury and promote healing and its reverse buckle fastening with hook-and-loop tapes offers better tightening and grip.Clavicle braces can be used for people who have clavicle dislocations, collarbone fractures, humpbacks, and around shoulder control and posture control.Clavicle brace is made of cotton liner material that provides maximum comfort on the shoulder regions.Clavicle brace is available in five different Sizes: S, L, M, XL, and XXL. So you can choose your suitable sizes.Sold by: Surgismart - Surgismart
-  Updated: 2025-08-25T19:06:13Z
+  Updated: 2025-10-13T11:20:30Z
   Vendor: United Medicare
   Product Type: Clavicle Brace
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/lm6.jpg?v=1751478744
   - [S](https://surgismart.in/products/c-04?variant=50359978197272)
     Availability: Available
-    Price: ₹399.00 INR
+    Price: ₹510.00 INR
   - [M](https://surgismart.in/products/c-04?variant=50359978131736)
     Availability: Available
-    Price: ₹399.00 INR
+    Price: ₹510.00 INR
   - [L](https://surgismart.in/products/c-04?variant=50359978164504)
     Availability: Available
-    Price: ₹399.00 INR
+    Price: ₹510.00 INR
   - [XL](https://surgismart.in/products/c-04?variant=50376266907928)
     Availability: Available
-    Price: ₹399.00 INR
+    Price: ₹510.00 INR
   - [XXL](https://surgismart.in/products/c-04?variant=50376266940696)
     Availability: Available
-    Price: ₹399.00 INR
+    Price: ₹510.00 INR
 - [Buy ​United Medicare Elastic Shoulder Immobilizer (C-05) - Surgismart](https://surgismart.in/products/c-05): Key Features:Elastic shoulder immobilizer is used for conditions like dislocation and post-surgical immobilisation. Has two strap belts to hold the forearm and arm in place to immobilise the shoulder. Specially designed to provide better immobilisation with maximum comfort. Its elastic belt, buckled grip, and sleek design ensure smart convenience and comfort. UM elastic immobiliser gives effective support and stabilisation to the shoulder region. Direction of use Wrap and lock the immobilizer around your chest. Now, lock the arm belt and forearm belt. Adjust to the resting position of the shoulder and hand. Safety information Hand wash with mild detergent and water. Keep out of reach of children. UM elastic shoulder immobiliser is used to offer shoulder immobilisation in case of shoulder injury or surgery while maintaining optimal comfort.UM elastic shoulder immobiliser is available in 5 different Sizes: S, M, L, XL, and XXL. You can choose your suitable size.The elastic shoulder immobiliser is designed to provide shoulder immobilisation during dislocation and post-operative rehabilitation. It gives effective support and stabilisation to the shoulder region, and the elastic belt provides better grip.Shoulder immobiliser can be used for patients who have dislocation, post-surgical immobilisation, sprains, Non-displaced and non-joint scapula fractures, and anterior shoulder dislocationUM shoulder immobiliser has two strap belts, It is used to hold the forearm and arm in place to immobilise the shoulder.Sold by: Surgismart - Surgismart
-  Updated: 2025-08-13T07:39:32Z
+  Updated: 2025-10-13T11:20:29Z
   Vendor: United Medicare
   Product Type: Pain Relief
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/um_elastic_shoulder_immobilizer_c05_xxl_408511_0_0-1.jpg?v=1751478743
   - [S](https://surgismart.in/products/c-05?variant=50359978459416)
     Availability: Available
-    Price: ₹550.00 INR
+    Price: ₹700.00 INR
   - [M](https://surgismart.in/products/c-05?variant=50359978361112)
     Availability: Available
-    Price: ₹550.00 INR
+    Price: ₹700.00 INR
   - [L](https://surgismart.in/products/c-05?variant=50359978492184)
     Availability: Available
-    Price: ₹550.00 INR
+    Price: ₹700.00 INR
   - [XL](https://surgismart.in/products/c-05?variant=50376267006232)
     Availability: Available
-    Price: ₹550.00 INR
+    Price: ₹700.00 INR
   - [XXL](https://surgismart.in/products/c-05?variant=50376267039000)
     Availability: Available
-    Price: ₹550.00 INR
+    Price: ₹700.00 INR
 - [Buy ​United Medicare Elastic Shoulder Immobilizer with Cup (C-06) - Surgismart](https://surgismart.in/products/c-06): Key Features:UM elastic shoulder immobiliser with a cup is beneficial for conditions like dislocation and post-surgical immobilisation. Additional shoulder cup improves immobilisation and easy fit. The shoulder cup effectively supports and stabilises the shoulder region. Improves grip on the injured shoulder and provides warmth for enhanced comfort. Adjustable elastic belt features ensure perfect and convenient fitting. Direction of use First, position the shoulder cup and wear a chest band with the wrist strap in the center and on the front side. Fix the arm strap for the affected upper arm. Now, fix your arm in the flexion position using the wrist strap. So that the wider end faces towards the neck side. Make sure the shoulder immobilizer tightly , but not too tight. Safety information Hand wash with mild detergent and water. Keep out of reach of children. UMs elastic shoulder immobiliser is used to assist the shoulder injuries. It contains additional shoulder cups to improve immobilisation to the shoulder.UM elastic shoulder immobiliser with cup is available in 5 different Sizes: S, M, L, XL, and XXL. You can choose your suitable size.An immobiliser is used for patients who have rheumatoid polyarthritis, post-surgical sprains, Non-displaced and non-joint scapula fractures, and anterior shoulder dislocation.UM elastic shoulder immobiliser with cup can stabilise the shoulder joint and limit excessive motions, preventing additional dislocation. The shoulder cup effectively supports and stabilises the shoulder region.Yes, you can use the UM elastic shoulder immobiliser with a cup for both left and right arms.Sold by: Surgismart - Surgismart
-  Updated: 2025-08-13T07:39:32Z
+  Updated: 2025-10-13T11:20:30Z
   Vendor: United Medicare
   Product Type: Pain Relief
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/um_elastic_shoulder_immobilizer_with_cup_c06_m_408563_0_0.jpg?v=1751478742
   - [S](https://surgismart.in/products/c-06?variant=50359978754328)
     Availability: Available
-    Price: ₹695.00 INR
+    Price: ₹880.00 INR
   - [M](https://surgismart.in/products/c-06?variant=50359978721560)
     Availability: Available
-    Price: ₹695.00 INR
+    Price: ₹880.00 INR
   - [L](https://surgismart.in/products/c-06?variant=50359978688792)
     Availability: Available
-    Price: ₹695.00 INR
+    Price: ₹880.00 INR
   - [XL](https://surgismart.in/products/c-06?variant=50376267202840)
     Availability: Available
-    Price: ₹695.00 INR
+    Price: ₹880.00 INR
   - [XXL](https://surgismart.in/products/c-06?variant=50376267235608)
     Availability: Available
-    Price: ₹695.00 INR
+    Price: ₹880.00 INR
 - [Buy ​United Medicare Ar Sling Tropica (C-07) - Surgismart](https://surgismart.in/products/c-07): Key Features:UM arm sling is designed to reduce neck and shoulder pressure and provide shoulder protection. Supports the arm and carries the weight across the back and shoulders. Thumb loop inside for desired hand rest. Easy closing and opening of the buckle allows easy application. It has an adjustment band that allows regulation of arm height and shoulder protection. Its inner layer is bonded with PU fabric to provide coolness and comfort Direction of use Place your arm inside the arm sling tropical. Connect the buckle system as per your comfortable resting height and angle of the arm. Safety information Hand wash with mild detergent and water. Dont dry clean. Dont iron or bleach. Keep out of reach of children UM Arm Sling Tropical holds, supports, and immobilises the sprained, broken, or surgically operated arm in the flexion position while it recuperates. A sleek and smart design is ideally suitable for hot and humid climatic conditions.An arm sling helps your arm or shoulder heal after an upper-body injury or surgery. It supports the arm and carries the weight across the back and shoulders.UM arm sling tropical has arm slide buckle with single touch opening and closing, so it provides very easy application as well as removal.UM arm sling is available in 5 different sizes: S, M, L, XL, and XXL. You can choose the suitable size.Arm sling tropical is made in lightweight PU laminated material and it provides comfort, durability & soft feel.Sold by: Surgismart - Surgismart
-  Updated: 2025-10-03T10:33:58Z
+  Updated: 2025-10-13T11:20:28Z
   Vendor: United Medicare
   Product Type: Arm Support
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/ln11.jpg?v=1751478741
   - [S](https://surgismart.in/products/c-07?variant=50359978983704)
     Availability: Available
-    Price: ₹295.00 INR
+    Price: ₹375.00 INR
   - [M](https://surgismart.in/products/c-07?variant=50359979049240)
     Availability: Available
-    Price: ₹295.00 INR
+    Price: ₹375.00 INR
   - [L](https://surgismart.in/products/c-07?variant=50359978950936)
     Availability: Available
-    Price: ₹295.00 INR
+    Price: ₹375.00 INR
   - [XL](https://surgismart.in/products/c-07?variant=50376267301144)
     Availability: Available
-    Price: ₹295.00 INR
+    Price: ₹375.00 INR
   - [XXL](https://surgismart.in/products/c-07?variant=50376267333912)
     Availability: Available
-    Price: ₹295.00 INR
+    Price: ₹375.00 INR
 - [Buy ​United Medicare Ar Sling Baggy (C-08) - Surgismart](https://surgismart.in/products/c-08): Key Features:UM baggy pouch arm sling will keep your arm in a resting position, allowing for faster healing. It covers the arm completely and also can accommodate even bulky casts or bandages. Arm sling made of a three-layered PU bonded fabric that is both sturdy and non-tear able. The strap extends from the wrist part and has a soft feel thumb loop inside for desired hand rest. D-buckles that attach to a drip stand and allow arm elevation. The universal design suits both the left and right arm. Direction of use Place your arm inside the sling pouch. Connect the straps as per your comfortable resting height and angle of the arm. Safety information Hand wash with mild detergent and water. Keep out of reach of children. UM arm sling baggy is designed to protect your shoulder and arm. It will keep your arm in a resting position, allowing for faster healing.UM baggy sling is available in 4 different sizes: S, M, L and XL, you can choose your suitable size.Arm sling baggy supports the arm in fractures, surgeries, and dislocation cases, and it supports the fractured arm by providing warmth and improving blood circulation.UM baggy arm sling is made in lightweight PU material and it provides comfort, durability & soft feel.Baggy arm sling is designed for protected arm and shoulder injuries and who has arm and shoulder injuries, shoulder immobilization, dislocated shoulder, post cast care, surgically operated arm.Sold by: Surgismart - Surgismart
-  Updated: 2025-09-17T03:34:04Z
+  Updated: 2025-10-13T11:20:28Z
   Vendor: United Medicare
   Product Type: Pain Relief
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/um_arm_sling_baggy_c08_m_408545_0_0.jpg?v=1751478740
   - [S](https://surgismart.in/products/c-08?variant=50359979442456)
     Availability: Available
-    Price: ₹310.00 INR
+    Price: ₹395.00 INR
   - [M](https://surgismart.in/products/c-08?variant=50359979409688)
     Availability: Available
-    Price: ₹310.00 INR
+    Price: ₹395.00 INR
   - [L](https://surgismart.in/products/c-08?variant=50359979376920)
     Availability: Available
-    Price: ₹310.00 INR
+    Price: ₹395.00 INR
   - [XL](https://surgismart.in/products/c-08?variant=50376267399448)
     Availability: Available
-    Price: ₹310.00 INR
+    Price: ₹395.00 INR
   - [XXL](https://surgismart.in/products/c-08?variant=50376267432216)
     Availability: Available
-    Price: ₹310.00 INR
+    Price: ₹395.00 INR
 - [Buy ​United Medicare Shoulder Immobilizer (C-10) - Surgismart](https://surgismart.in/products/c-10): Key Features:Simple padded sling supports the arm, while webbing shoulder straps cross the back to keep the arm in place. Adjustable body binder holds the upper arm close to the body for increased shoulder stability. Double straps on the shoulders evenly distribute the load, and the adjustable strap feature assures a perfect and comfortable fit. Specially designed to provide better immobilization and support with maximum comfort. It is made with a universal design that fits the right and left arms. Direction of use: Insert your hand through the sling and place the neck strap around your neck. Adjust the angle of the sling to the resting position of the shoulder. Wrap and lock the broad strap around the injured hand and chest. Safety Information: Hand wash with mild detergent and water. Avoid physical damage. The United Medicare shoulder immobilizer is designed to restrict movement of the shoulder joint and arm. It provides stability and prevents excessive movement.The shoulder immobilizer is used to immobilize the shoulder joint and arm following shoulder surgery, fractures, or other shoulder injuries.It depends on the severity of the injuries and your healthcare providers instructions.Wearing a shoulder support can decrease the risk of shoulder dislocation by limiting movements.Until your doctor says you dont need to wear a sling or immobilizer any more.Sold by: Surgismart - Surgismart
-  Updated: 2025-08-13T07:39:31Z
+  Updated: 2025-10-13T11:20:29Z
   Vendor: United Medicare
   Product Type: Pain Relief
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/P50-17.webp?v=1751478736
   - [XXL](https://surgismart.in/products/c-10?variant=50376267596056)
     Availability: Available
-    Price: ₹545.00 INR
+    Price: ₹690.00 INR
   - [UNIVERSAL](https://surgismart.in/products/c-10?variant=50376267628824)
     Availability: Available
-    Price: ₹545.00 INR
+    Price: ₹690.00 INR
 - [Buy ​United Medicare Sling Strap (C-12) - Surgismart](https://surgismart.in/products/c-12): Key Features:UM sling strap is used to support and stabilize the arm for faster healing after a fracture. Sling strap aids in keeping the forearm and elbow in 90o flexion. It is commonly used for conservative and surgical management post arm fracture, sprain and strain. The sling strap comes in one size and can be worn on either the right or left arm. Sling strap comfortably fits and supports the elbow, and its sleek design ensures better ventilation. Direction of use Place the strap around the neck and arm. Keep the hand in 90o angle. Make sure your arm is in a neutral position at your side. Safety information Do not dry clean, iron or bleach. Use as per medical advice UMs Sling Strap helps to suspend the forearm and elbow in 90o flexion. It is a support to the arm and shoulder in cases of conservation and surgical management of strain sprain and fracture.UM sling straps are designed to use both arms. They can be used on the right or left arm.Using a sling strap supports the arm and shoulder and relieves pain. It comfortably fits and supports the elbow.UM sling strap is used for those who have mild shoulder injuries, humeral head fractures, post-surgeries.You can use the UM sling strap for post-surgery injuries, fractures, and bursitis, So you should wear your sling for as long as directed by your consultant.Sold by: Surgismart - Surgismart
-  Updated: 2025-08-13T07:39:31Z
+  Updated: 2025-10-13T11:20:29Z
   Vendor: United Medicare
   Product Type: Arm Support
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/b12.webp?v=1751478735
   - [UNIVERSAL / Left](https://surgismart.in/products/c-12?variant=50376267923736)
     Availability: Available
-    Price: ₹160.00 INR
+    Price: ₹200.00 INR
   - [UNIVERSAL / Right](https://surgismart.in/products/c-12?variant=50376267956504)
     Availability: Available
-    Price: ₹160.00 INR
+    Price: ₹200.00 INR
 - [Buy ​United Medicare Posture Brace (C-15) - Surgismart](https://surgismart.in/products/c-15): Key Features:UM Posture Brace can be used for poor posture, slouching and pain in the thoracic spine. It provides strong posture for the upper back and pulls shoulder backs. Posture Brace is made of comfortable and breathable material, and it can be used under the cloth. The brace acts as a correction brace and may prevent the spine from attaining a crooked form. UM brace suitable for all and convenient to use at home, office or during workout. Direction of use Pass elastic straps through buckle locks to fit it to your shoulder that way you put on a backpack pull. Make sure the brace tightly but not tight. Safety information Do not dry clean, machine wash or iron. For single person use only. Sizes chart Body parts measurements Code sizes inches cms XXL 28-38 70-96 Chest, abdomen Measure circumference around the chest below underarms. C15 Universal 38-46 96-116 UM posture brace is designed to help in correcting poor posture in the back shoulder.It may align your shoulders and spine to help you maintain a healthy posture and keep your body in a neutral position.UM posture brace is available in universal and XXL sizes, so you can choose your suitable posture brace.UM posture brace is used to help your body muscles to get accustomed to their place, ensuring that your shoulder muscles are properly aligned.Yes, UM posture brace is made of comfortable and breathable material, and it can be used under the cloth.You can use this UM posture brace for poor posture or kyphotic posture correction. It is not recommended for use for more than 3 to 4 hours per day, so you should consult your doctor and follow the instructions.Sold by: Surgismart - Surgismart
-  Updated: 2025-10-02T06:51:48Z
+  Updated: 2025-10-13T11:20:28Z
   Vendor: United Medicare
   Product Type: Pain Relief
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/um_posture_brace_c15_u_408517_0_0.jpg?v=1751478735
   - [UNIVERSAL](https://surgismart.in/products/c-15?variant=50376268480792)
     Availability: Available
-    Price: ₹680.00 INR
+    Price: ₹862.00 INR
   - [XXL](https://surgismart.in/products/c-15?variant=50376268448024)
     Availability: Available
-    Price: ₹680.00 INR
+    Price: ₹862.00 INR
 - [Buy ​United Medicare Ankle Binder Elastic (D-01) - Surgismart](https://surgismart.in/products/d-01): Key Features:Elasticized wrap in figure eight design stabilises ankle control inversion/eversion and plantar flexion. Ankle binder gives the ankle protection during intense physical activity. Used to prevent ankle stability, provide support, and increase production for athletic and work activities. Ergonomic design of ankle binders makes them comfortable and soothing for the foot. Offers customised compression, greater grip, better ankle stability, and simple application Direction of use Firstly, let it free the heel part and wrap the elastic strap in a figure-eight pattern around the ankle. Adjust the elastic strap for your convenience, tight but not too tight Safety information Keep cool and dry, away from direct sunlight. Keep out of the reach of children. Avoid physical harm The ankle binder elastic is a compression wrap designed to provide ankle joint support and stability. It is made of high-quality elastic material that fits around the ankle comfortably and snugly.The ankle binding elastic has various advantages. It includes giving ankle joint support and stability, lowering swelling and inflammation, and assisting in the healing process of ankle injuries.Anyone suffering from ankle pain, weakness, or instability as a result of an injury can use the Ankle binder, it is also appropriate for athletes who want to prevent ankle injuries during sporting activities.Ankle binder elastic is used for different cases, so before you use the ankle binder, consult your doctors instructions on how long you should wear your ankle binder.No, you should not wear an ankle binder while sleeping; it may cause discomfort and pain, so consult your doctor first and then follow his or her advice.Sold by: Surgismart - Surgismart
-  Updated: 2025-08-13T07:39:31Z
+  Updated: 2025-10-13T11:20:28Z
   Vendor: United Medicare
   Product Type: Ankle Support
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/lm4.jpg?v=1751478734
   - [S](https://surgismart.in/products/d-01?variant=50359981539608)
     Availability: Available
-    Price: ₹190.00 INR
+    Price: ₹240.00 INR
   - [M](https://surgismart.in/products/d-01?variant=50359981441304)
     Availability: Available
-    Price: ₹190.00 INR
+    Price: ₹240.00 INR
   - [L](https://surgismart.in/products/d-01?variant=50359981506840)
     Availability: Available
-    Price: ₹190.00 INR
+    Price: ₹240.00 INR
   - [XL](https://surgismart.in/products/d-01?variant=50376268939544)
     Availability: Available
-    Price: ₹190.00 INR
+    Price: ₹240.00 INR
 - [Buy ​United Medicare Ankle Support with Strap Neoprene (D-02) - Surgismart](https://surgismart.in/products/d-02): Key Features: UM Ankle Support is designed to prevent ankle injuries and protect the ankle area. Ankle support may reduce mild ankle injuries, joint effusion, and provide support with protection for work activities. A long-lasting, high-quality perforated neoprene material allows for adjustable compression. The open-front crossover strap design makes application simple and secure. Neoprene fabric provides excellent compression and heat retention. Ankle support with criss cross strap adds compression and allows for an adjustable fit Direction of use Insert your foot into the ankle brace. Make sure the open side comes into your heel part. Adjust the strap to your comfort level Safety information Do not machine wash; instead, hand wash. Use only as directed by your doctor UM ankle support neoprene is intended to provide ankle joint support and stability. Its also made of high- quality neoprene.Individuals with ankle diseases, such as sprains or strains, as well as those with chronic ankle instability, can benefit from the ankle support.The ankle support is made of neoprene, which gives the ankle joint compression and warmth. It serves as the external support to limit certain motions used to prevent ankle injuries and also gives ankle joint and stability.No, you should not wash your ankle brace in the washing machine; instead, you can wash it with your hands using soap.Insert your foot into the UM ankle support, then make sure the open side comes into your heel part, and you should tighten your ankle brace for your comfort. You can use straps to adjust your ankle support, but you need to be careful that the ankle support is tight, normally not too tight. Sold by: Surgismart - Surgismart
-  Updated: 2025-08-13T07:39:31Z
+  Updated: 2025-10-13T11:20:28Z
   Vendor: United Medicare
   Product Type: Ankle Support
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/lm29.jpg?v=1751478733
   - [XXL](https://surgismart.in/products/d-02?variant=50376269005080)
     Availability: Available
-    Price: ₹625.00 INR
+    Price: ₹793.00 INR
   - [UNIVERSAL](https://surgismart.in/products/d-02?variant=50376269037848)
     Availability: Available
-    Price: ₹625.00 INR
+    Price: ₹793.00 INR
 - [Buy ​United Medicare Foa Lite Ankle Stirrup Brace (D-03) - Surgismart](https://surgismart.in/products/d-03): Key Features:Semi-unbending shell and air cells to give comfort and support amid action. Extra pressure and adjustment by front talofibular cross strap and vital forefoot and skin wraps. Respective unbending internal shells prevent valgus or varus deviation. ATF cross-strap for lower leg adjustment. Integral forefoot and skin wrap for support. Programmed damnation width modification for simple application. Smooth anatomic plan for an agreeable mass free fit.Sold by: Surgismart - Surgismart
-  Updated: 2025-08-13T07:39:30Z
+  Updated: 2025-10-13T11:20:28Z
   Vendor: United Medicare
   Product Type: Ankle Brace
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/b1.webp?v=1751478733
   - [XXL](https://surgismart.in/products/d-03?variant=50376269070616)
     Availability: Available
-    Price: ₹740.00 INR
+    Price: ₹943.00 INR
   - [UNIVERSAL](https://surgismart.in/products/d-03?variant=50376269103384)
     Availability: Available
-    Price: ₹740.00 INR
+    Price: ₹943.00 INR
 - [Buy ​United Medicare Anklet Comfort 2N (D-04) - Surgismart](https://surgismart.in/products/d-04): Key Features:Anklet provides efficient protection from sports-related injuries and are easy to put on. A mellowed heel area ensures a close fit, firm compression, and easy ankle movement. Anklet can help reduce ankle joint strain, tension, and pressure Flexible compression supports the ankles and promotes sense of motion. Contoured knitted ankle sleeve with intelligent compression profile for optimal comfort and support. Direction of use The longer part of the anklet pair should be facing up. Simple pull-on operation, similar to socks Align the opening piece of the shoe around the heel. Safety information Before using, carefully read the label. Keep out of childrens reach. Anklet comfort gives the ankle joint mild compression, warmth, and support. It is used for alleviating pain and inflammation that are commonly related with ageing, arthritis, or injury.Anklet can help reduce ankle joint strain, tension, and pressure. An anklet comfort is commonly used to immobilise the joint and help reduce swelling after an injury.You should tighten your ankle brace for your different needs, but you need to be careful that the ankle support is tight, normally not too tight.No, you should not wear ankle socks every day. Maybe this brace makes you feel discomfort or irrationality. So you remove your brace from your ankle and let it air out for your ankle; it gives you comfort.UM ankle comfort is made of drytex fabric that provides good compression, better grip, comfort, and durability, and it provides heat retention for pain relief.Sold by: Surgismart - Surgismart
-  Updated: 2025-08-13T07:39:30Z
+  Updated: 2025-10-13T11:20:26Z
   Vendor: United Medicare
   Product Type: Ankle Support
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/re30.jpg?v=1751478732
   - [S](https://surgismart.in/products/d-04?variant=50359982293272)
     Availability: Available
-    Price: ₹275.00 INR
+    Price: ₹350.00 INR
   - [M](https://surgismart.in/products/d-04?variant=50359982326040)
     Availability: Available
-    Price: ₹275.00 INR
+    Price: ₹350.00 INR
   - [L](https://surgismart.in/products/d-04?variant=50359982260504)
     Availability: Available
-    Price: ₹275.00 INR
+    Price: ₹350.00 INR
   - [XL](https://surgismart.in/products/d-04?variant=50376269201688)
     Availability: Available
-    Price: ₹275.00 INR
+    Price: ₹420.00 INR
 - [Buy ​United Medicare Ankle Brace Swedish (D-05) - Surgismart](https://surgismart.in/products/d-05): Key Features:UM ankle brace swedish is designed to give ankle joint support and stability. Ankle brace is used to prevent ankle injuries, ankle pain, and osteoarthritis problems. High-quality neoprene material ensures customized compression to the users. Sleek design ensures perfect fitting and can be used inside the shoe. Hook and Loop closure ensures comfortable wearing experience and supports pain relief. Direction of use Put your feet into the ankle brace. Tighten the straps according to your convenience. Make sure the brace is tight, but not too tight. Safety information Before using, carefully read the label. Keep out of childrens reach UM ankle brace is designed to give ankle joint support and stability. It is made of high-quality materials and has a unique design that provides maximum comfort and flexibility.Ankle brace swedish is ideal for anyone who has an ankle injury or is experiencing ankle pain; it also benefits athletes, fitness enthusiasts, and everyone who wants to stay active and healthy.The ankle brace is designed to be worn very easily. First, put your feet into the ankle brace. And tighten the two straps according to your convenience. Then make sure the brace is tight but not too tight.UM ankle brace swedish is made of high-quality fabric that ensures customized compression and a perfect fit for the ankle.UM ankle brace gives you a comfortable feeling, easy to tighten and loosen as straps, less skin irritation, better grip, and a comfortable fit for your ankle and also used for sport activities.Sold by: Surgismart - Surgismart
-  Updated: 2025-08-13T07:39:30Z
+  Updated: 2025-10-13T11:20:27Z
   Vendor: United Medicare
   Product Type: Ankle Brace
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/p2-15.jpg?v=1751478731
   - [UNIVERSAL](https://surgismart.in/products/d-05?variant=50376269267224)
     Availability: Available
-    Price: ₹750.00 INR
+    Price: ₹1,000.00 INR
   - [XXL](https://surgismart.in/products/d-05?variant=50376269234456)
     Availability: Available
-    Price: ₹750.00 INR
+    Price: ₹1,000.00 INR
 - [Buy ​United Medicare Foot Drop Splint (D-07) - Surgismart](https://surgismart.in/products/d-07): Key Features:Foot drop is designed to be used for prevention and correction of foot drop. It is beneficial to cure neurological deficits and paralysis on the foot. A lightweight, dorsiflexion-assistance foot drop splint made of polycarbonate. Prevents plantar flexion; the low arch and open heel give a neat shape. A foot splint can be easily adjusted to fit patients of various sizes and shapes. It fits into a shoe easily, and the calf section is padded for comfort. Foot splint supports and stabilizes the ankle and foot in all foot-drop conditions. Direction of use Use as directed by the physician Safety information Read the enclosed manual carefully. Never leave the child unattended. Do not use a car seat if any component is damaged, broken or missing parts. A Foot drop splint is used to support the foot and ankle when walking and prevent the foot from dropping or dragging. A Foot Drop splint is beneficial for persons who have nerve loss or muscle weakness in their legs, which can cause difficulty boosting the foot when walking A Foot Drop splint can give various advantages, including more mobility, increased safety, a lower risk of falling, and less fatigue while walking UM foot drop splints are available in two sizes: M and L. You can use this foot splint on both legs No, you should not wear your foot splint while you sleep, but its better to ask your physician before you do soSold by: Surgismart - Surgismart
-  Updated: 2025-08-13T07:39:30Z
+  Updated: 2025-10-13T11:20:27Z
   Vendor: United Medicare
   Product Type: Foot Splint
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/left.webp?v=1751478730
   - [M / Right](https://surgismart.in/products/d-07?variant=50359983702296)
     Availability: Available
-    Price: ₹985.00 INR
+    Price: ₹1,250.00 INR
   - [M / Left](https://surgismart.in/products/d-07?variant=50359983636760)
     Availability: Available
-    Price: ₹985.00 INR
+    Price: ₹1,250.00 INR
   - [L / Right](https://surgismart.in/products/d-07?variant=50359983669528)
     Availability: Available
-    Price: ₹985.00 INR
+    Price: ₹1,250.00 INR
   - [L / Left](https://surgismart.in/products/d-07?variant=50359983603992)
     Availability: Available
-    Price: ₹985.00 INR
+    Price: ₹1,250.00 INR
 - [Buy ​United Medicare P.F Night Splint (De-Rotation) (D-08) - Surgismart](https://surgismart.in/products/d-08): Key Features:A night splint helps prevent achilles tendon contracture during prolonged bed rest. The night splint has adjustable closure straps and a dorsiflexion assist strap. De-rotation bar assists in the rotation of the leg in postoperative care. The night splint strap provided can be tied at the end of the bed to fix it. It is used to support an injured or fractured bone after an operation or during the recovery process. Direction of use Loosen all the straps. Thread the leg through the straps and tighten the ankle strap along while adjusting the cushion pad. Similarly, adjust and tighten the rest of the straps as per comfort level. The angle of dorsiflexion can be customized by pulling or loosening both hook loop fasteners present on either side of the night splint. Safety information Before using, carefully read the label. Keep out of childrens reach. The UM P.F night splint is designed to prevent hip rotation and the de-rotation bar assists the rotation of the foot. It is also available in universal sizes, so anyone can use it easily.A night splint is used to control conditions such as achilles tendinopathy and plantar fasciitis.The night splint has adjustable closure straps and a dorsiflexion assist strap. It is used to de-rotate and assist in the rotation of the leg in postoperative care.UM night splint is used for patients who have plantar fasciitis, achilles tendonitis and foot surgery. It provides immobilization for the foot post-surgery.You should use PF night splint as per your doctors instructions. So before you use the night splint, consult your doctor to know how long you should wear your night splint.Sold by: Surgismart - Surgismart
-  Updated: 2025-08-13T07:39:29Z
+  Updated: 2025-10-13T11:20:27Z
   Vendor: United Medicare
   Product Type: Knee Support
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/um_p_f_night_splint_d08_u_430684_0_0.jpg?v=1751478730
-  Price: ₹1,100.00 INR
+  Price: ₹1,400.00 INR
 - [Buy ​United Medicare Plantar Fasciiti Sleep Support (D-09) - Surgismart](https://surgismart.in/products/d-09): Key Features:Plantar fasciitis sleep support provides an effective dorsal approach to controlling plantar fasciitis and achilles tendonitis. Sleep support includes a padded layer for patient comfort and fits both left and right feet. Plantar fasciitis can assist transfer pressure evenly across your foot, enhancing your stability. Plantar support used to prevent ankle injuries, sprains, small fractures, post-surgery injuries, and sport injuries. UM sleep support is comfortable and securely stabilises your foot in the proper therapeutic position all night. Direction of use Slide your feet into the plantar fasciitis sleep support so that the opening part of the support comes over your heel. Adjusted with the straps to your comfort. Make sure the straps are tight, but not too tight. Safety information Wash the liner by hand in cold water with a mild laundry soap. Rinse it thoroughly. Let it air-dry. UM plantar fasciitis sleep support is designed to comfortably hold the foot in the recommended therapeutic position all night for those suffering from plantar fasciitisUM plantar fasciitis sleep support is designed to provide support and comfort to the foot while sleeping, reducing pain from plantar fasciitis.Yes, planter sleep support is suitable for everyone because its available in universal size.No, you cant use sleep support in the shoe because its designed to prevent plantar problems while sleeping.Plantar sleep support is used for people who have plantar problems, ankle injuries, sprains, small fractures, post-surgery injuries, and sport injuries.Sold by: Surgismart - Surgismart
-  Updated: 2025-08-13T07:39:29Z
+  Updated: 2025-10-13T11:20:26Z
   Vendor: United Medicare
   Product Type: Foot Support
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/um_plantar_fasciitis_p_f_sleep_support_d09_u_430686_0_0.jpg?v=1751478729
-  Price: ₹850.00 INR
+  Price: ₹1,080.00 INR
 - [Buy ​United Medicare Anklet with Binder Comfort (D-11) - Surgismart](https://surgismart.in/products/d-11): Key Features:Ankle binder comfort is designed to prevent postoperative and post-injury irritation. Ensures snug fitting, strong compression with comfort. An elasticized wrap in the figure of eight improves ankle stability and controls inversion and aversion injuries. Ankle comfort is easy to use, washable, dermophilic, has good aesthetics, and long functional life. Circular knitting with a mellowed heel spot ensures comfortable ankle movement Direction of use Wrap the anklet around your foot and ankle such that it forms a figure of eight shape. Adjust the elasticized loop wrap to your convenience. Wear the anklet with binder comfort tight but not too tight Safety information Hand wash the anklet with mild soap and water. Do not dry clean. Do not iron or bleach. Keep out of the childrens reach UM anklet with binder comfort is used to prevent ankle injuries and provides comfortable ankle movements.Anklet binders are available in 4 different sizes: S, M, L, and XL.Anklet with binder is of great use in case of soft tissue injury and ligament strains. It offers firm compression and therapeutic warmth and is also useful for post-operative rehabilitation.UM anklet binder uses dermo-phallic cotton. It ensures comfort in all weather conditions and offers firm compression and therapeutic warmth.UM anklet binder comfort can be used by people who have mild ankle instability, joint effusion,and post-injury irritation.Sold by: Surgismart - Surgismart
-  Updated: 2025-08-13T07:39:29Z
+  Updated: 2025-10-13T11:20:26Z
   Vendor: United Medicare
   Product Type: Ankle Support
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/115-3.jpg?v=1751478728
   - [S](https://surgismart.in/products/d-11?variant=50359985078552)
     Availability: Available
-    Price: ₹240.00 INR
+    Price: ₹305.00 INR
   - [M](https://surgismart.in/products/d-11?variant=50359985045784)
     Availability: Available
-    Price: ₹240.00 INR
+    Price: ₹305.00 INR
   - [L](https://surgismart.in/products/d-11?variant=50359985144088)
     Availability: Available
-    Price: ₹240.00 INR
+    Price: ₹305.00 INR
   - [XL](https://surgismart.in/products/d-11?variant=50376269791512)
     Availability: Available
-    Price: ₹240.00 INR
+    Price: ₹330.00 INR
 - [Buy ​United Medicare Anklet Pro Support 2N (D-13) - Surgismart](https://surgismart.in/products/d-13): Key Features:Simple pull-on application and a mellowed heel spot ensure snug fitting, strong compression, and comfortable ankle movement. Designed to provide ankle support, reduce discomfort, and promote stability. It provides effective protection from sports-related injuries. It gives you a smooth and soft feel, so you can wear the sleeve all day long. Comes in a pair, so you can wear the sleeves on both your right and left feet. Direction of use: Slide your foot into the anklet support, ensuring that the heel cutout fits snugly around your heel. Safety Information: Keep it clean and hygienic. Avoid physical damage. Yes, you can wear shoes while wearing the anklet support that provides added stability and protection to your ankles.The United Medicare anklet support is designed to provide support and stability to the ankle joint. It helps prevent injuries during physical activities.Anyone who experiences ankle pain, instability, or injuries can benefit from wearing an ankle support. However, always consult with your doctor.The anklet support can be worn during sports, exercise, walking, or prolonged standing. You can also wear it when healing from ankle injury.United Medicare anklet support can be hand-washed with mild soap and water and left to air dry.Sold by: Surgismart - Surgismart
-  Updated: 2025-08-13T07:39:29Z
+  Updated: 2025-10-13T11:20:26Z
   Vendor: United Medicare
   Product Type: Ankle Support
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/P38-9.webp?v=1751478727
   - [S](https://surgismart.in/products/d-13?variant=50359986749720)
     Availability: Available
-    Price: ₹325.00 INR
+    Price: ₹415.00 INR
   - [M](https://surgismart.in/products/d-13?variant=50407608221976)
     Availability: Available
-    Price: ₹325.00 INR
+    Price: ₹415.00 INR
   - [L](https://surgismart.in/products/d-13?variant=50407608254744)
     Availability: Available
-    Price: ₹325.00 INR
+    Price: ₹415.00 INR
   - [XL](https://surgismart.in/products/d-13?variant=50407608287512)
     Availability: Available
-    Price: ₹325.00 INR
+    Price: ₹415.00 INR
 - [Buy ​United Medicare Air Walker Shoe Short Type (D-16) - Surgismart](https://surgismart.in/products/d-16): Key Features:Air Walker is effective during stable fractures of the fibula, talus, calcaneus, and medial malleolus. The medial and lateral air bladders provide enhanced stabilisation. Provides rigid support and improved immobilisation through the use of customizable aluminium bars. A dual-axis rocker bottom encourages a more natural gait. Air walker contains a breathable air mesh liner with malleable aluminium uprights and a removable heel cup. Direction of use: Insert your foot into the air walker shoe. Then wrap around fastening straps for the leg, ankle, and foot. Make sure its a snug fit and not too tight. Size chart Sizes inches centimetres S 7.2-8.4 18-21 M 9.4-9.6 21-24 L 9.6-10.8 24-27Measures circumference approximately 2 inches above the inner ankle joint Safety information: Keep reaching out of children Read the instruction label carefully before using UM Air Walker Shoe is intended for injuries and fractures of the foot, ankle, or lower leg. It provides a secure fit and complete immobilisation of the affected foot.UM air walker shoe is used for rehabilitation after injury, gives support to the ankle and leg with enhanced stability of the lower leg.Improper / wrong size walker boots can cause pain. So, choose the correct size of the boot and wear it properly.The UM Air Walker shoe is used by people who have lower leg injuries such as ankle sprains and strains, forefoot sprains, stable foot fractures, and distal tibia fractures.The airwaker should be tight enough to ensure a secure fit and complete immobilisation, so wear your air walker shoe snugly, but not too tightly.Yes, UM airwalker shoe is beneficial for patients suffering from soft tissue injuries, ankle strains and sprains, and stable fractures.Sold by: Surgismart - Surgismart
-  Updated: 2025-08-23T16:26:04Z
+  Updated: 2025-10-13T11:20:26Z
   Vendor: United Medicare
   Product Type: Foot Support
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/d-16.jpg?v=1751478727
   - [S](https://surgismart.in/products/d-16?variant=50359986880792)
     Availability: Available
-    Price: ₹4,299.00 INR
+    Price: ₹5,500.00 INR
   - [M](https://surgismart.in/products/d-16?variant=50359986848024)
     Availability: Available
-    Price: ₹4,299.00 INR
+    Price: ₹5,500.00 INR
   - [L](https://surgismart.in/products/d-16?variant=50359986913560)
     Availability: Available
-    Price: ₹4,299.00 INR
+    Price: ₹5,500.00 INR
 - [Buy ​United Medicare Air Walker Shoe Long Type with Full Shell (D-17) - Surgismart](https://surgismart.in/products/d-17): Key Features:Air walker long type is used for acute ankle sprains, post-operative use following achilles tendon repair, and stable lower leg, foot, and ankle fractures. Streamlined, the semi-rigid shell is lightweight which provides maximum support for the leg and ankle. Medial and lateral air bladders offer customized compression to increase comfort and reduce oedema. Rocker sole helps promote a natural gait and allows the continuation of daily activities. Direction of use Insert your foot into the air walker shoe. Then wrap around fastening straps for the leg, ankle, and foot. Make sure its a snug fit and not too tight. Safety information Keep reaching out of children Read the instruction label carefully before using Air walker shoe type is used to help give maximum support to the leg or ankle following injury or post-operative procedures. It offers customized compression to increase comfort and reduce edema.UM Air walker shoe is available in 3 different Sizes: S, M, and L, so you can choose your suitable size.UM Air walker shoe long type is used by people who have lower leg injuries such as ankle sprains and strains, oedema reduction, plantar fasciitis, forefoot sprains, and stable foot fractures.You can use air walker long type for distal fracture, fibula, talus, post-surgical oedema reduction like different injuries, so you should follow your doctors instructions.No. You should not drive with a walker boot.Sold by: Surgismart - Surgismart
-  Updated: 2025-09-14T18:33:31Z
+  Updated: 2025-10-13T11:20:22Z
   Vendor: United Medicare
   Product Type: Foot Support
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/p19-3.jpg?v=1751478726
   - [S](https://surgismart.in/products/d-17?variant=50359987274008)
     Availability: Available
-    Price: ₹4,750.00 INR
+    Price: ₹5,500.00 INR
   - [M](https://surgismart.in/products/d-17?variant=50359987306776)
     Availability: Available
-    Price: ₹4,750.00 INR
+    Price: ₹5,500.00 INR
   - [L](https://surgismart.in/products/d-17?variant=50359987339544)
     Availability: Available
-    Price: ₹4,750.00 INR
+    Price: ₹5,500.00 INR
 - [Buy ​United Medicare Finger Cot Splint (E-01) - Surgismart](https://surgismart.in/products/e-01): Key Features:UM cot splint made of malleable aluminum, helps in healing fractures and wounds. Its inside lining allows it to be adjusted to fit any finger without the use of a closure device. Other fingers can still move freely while wearing a finger cot splint. Finger splint is recommended for burns, fingertip, nail bed, and fracture injuries. It allows flexion and extension and helps in grasping, clawing, or reaching functions. Direction of use Just place the splint on top of the hurt finger. Ensure that the thimble shape fits the fingertip. Adjust the velcro straps as per your convenience. Make sure the splint is snug but not overly tight. Safety information Avoid dry cleaning. Hands should be washed with a light detergent powder. Dont use bleach. United Medicare Finger Cot Splint is a supportive splint that is used to immobilize the finger in case of injury or trauma.The finger cot splint is intended to limit finger movement while also providing support to the wounded area. It works by keeping the finger steady, which reduces pain and prevents additional damage.Yes, if necessary, the finger splint can be worn all day. It is recommended, however, that you remove the splint for a every few hours to allow the finger to flex and prevent stiffness.Yes, you can reuse the finger cot splint. To preserve hygiene, it is advised that you clean the splint after each use.UM finger cot splints can assist with a variety of injuries, including fractures and torn tendons, by stabilizing the injured area and preventing further damage.Sold by: Surgismart - Surgismart
-  Updated: 2025-09-13T05:29:54Z
+  Updated: 2025-10-13T11:20:25Z
   Vendor: United Medicare
   Product Type: Finger Splint
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/555.jpg?v=1751478725
   - [M](https://surgismart.in/products/e-01?variant=50359987470616)
     Availability: Available
-    Price: ₹110.00 INR
+    Price: ₹140.00 INR
   - [L](https://surgismart.in/products/e-01?variant=50359987437848)
     Availability: Available
-    Price: ₹110.00 INR
+    Price: ₹140.00 INR
 - [Buy ​United Medicare Mallet Finger Splint (E-02) - Surgismart](https://surgismart.in/products/e-02): Key Features:The Mallet Finger Splints interior lining enables it to be adapted to any finger without the need for a closure system. The lower part comes from the distal interphalangeal articulation and has a thimble shape to house the tip of the finger. Padded with closed cell PU foam, non allergic foam for maximum patient comfort. Stretches to the distal interphalangeal articulation. Supports the DIP joint in hyperextension while permitting unrestricted movements. Direction of use Fix your fingers DIP joint in its extended position on this splint. Now adjust the strap as per your comfort. Safety information Hand wash with mild detergent and water. Keep out of reach of children. The main purpose of an orthosis for the mallet finger is to maintain the DIP finger joint in passive (or slight hyper) extension so that healing of the injured tissue can take place. The orthosis should allow functional flexion of the proximal interphalangeal (PIP) joint.The splint is not need to be worn all the time. You should consult your therapist or doctor.Splints are necessary for mallet finger injuries to be managed conservatively and after surgery in order to speed healing. Maintain the distal interphalangeal joints stability.The Mallet Finger Splint is made of aluminium and may be bent to match the patients needed. It is lightweight, strong, and offering unbending immobilization.A persistent bend in your finger known as mallet finger results from injury to the extensor tendon, the mechanism that allows your finger to straighten.Sold by: Surgismart - Surgismart
-  Updated: 2025-08-13T07:39:28Z
+  Updated: 2025-10-13T11:20:25Z
   Vendor: United Medicare
   Product Type: Finger Splint
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/United-Medicare-Mallet-Finger-Splint-E-02.jpg?v=1751478724
-  Price: ₹100.00 INR
+  Price: ₹420.00 INR
 - [Buy ​United Medicare Frog Splint Finger (E-03) - Surgismart](https://surgismart.in/products/e-03): Key Features:Frog splint provides rigid immobilization and can be bent for customization. Ensures exact joint alignment by keeping them in their best functioning position. UM frog splint is made of flexible aluminum and has an inside lining that allows it to be customized to fit any finger. Can be used after finger fracture, damage or burn to protect the metacarpals and phalanges. Aluminum body with soft cushioned liningdurable, light, and aesthetically beautiful. Direction of use Put your damaged finger into the inserted bend. Bend the sides according to the size of the finger. Then, make sure your splint is snug but not too tight. Safety information Avoid dry cleaning. Use a mild powdered detergent to wash your hands. Avoid using bleach. UM frog splint is designed to support and immobilize the interphalangeal joints of the fingers in their natural functional positions.United medicare frog splint is intended to offer stability and support to the finger joint as it recovers from an operation or damage. It aids in immobilizing the finger and avoiding future injury or discomfort.The severity of your injury or condition will determine how long you should wear the splint. For how long per day you should wear the splint, your doctor will give you instructions.Hand-wash your splint in warm, not hot, soapy water. First, remove the metal post. Do not put it in the washing machine because it may change shape, and dry with air. Before every use, make sure the splint is clean.Finger splints can assist control a variety of injuries, including fractures and torn tendons, by stabilizing the injured area and preventing further damage.Sold by: Surgismart - Surgismart
-  Updated: 2025-08-13T07:39:27Z
+  Updated: 2025-10-13T11:20:25Z
   Vendor: United Medicare
   Product Type: Finger Splint
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/um_frog_splint_e03_u_408592_0_0.jpg?v=1751478724
-  Price: ₹105.00 INR
+  Price: ₹130.00 INR
 - [Buy ​United Medicare Knee Support (F-01) - Surgismart](https://surgismart.in/products/f-01): Key Features:Demophillic cotton bi-layered structure ensures comfort in all weather conditions. The nylon exterior ensures durability, stunning appearance, and cloth fastness. Effective compression, comfort, and no fabric buckling are all provided by the four-way flexible knit. Thick knits keep the body warm, give therapeutic warmth, and provide support. Relieves the discomfort caused by ligament and muscular problems. Direction of use Slide your leg into the knee support. Pull upwards up to 34 inches above your knee joint. Ensure there are no creases. Safety information Hand washing with water and a mild detergent. Keep out of childrens reach. Do not dry clean. Do not double clean. Knee braces are supports that are worn when you have knee pain. Some people use them to prevent knee injuries while participating in sports.UM knee support is made of a blend of neoprene, nylon, and spandex. This material combination provides a pleasant and supportive fit for the knee.UM Knee Support is offered in five sizes: S, M, L, XL and XXL.Knee support can be used for long periods of time, but it should be removed on a regular basis to enable the skin to breathe and avoid discomfort.Yes, you can wear the Knee support during physical activities or sports to provide support and stability to your knee. However, get the guidance of a healthcare professional.Sold by: Surgismart - Surgismart
-  Updated: 2025-08-13T07:39:27Z
+  Updated: 2025-10-13T11:20:23Z
   Vendor: United Medicare
   Product Type: Knee Support
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/United-Medicare-Knee-Support-1.jpg?v=1751478723
   - [S](https://surgismart.in/products/f-01?variant=50359988355352)
     Availability: Available
-    Price: ₹285.00 INR
+    Price: ₹360.00 INR
   - [M](https://surgismart.in/products/f-01?variant=50359988420888)
     Availability: Available
-    Price: ₹285.00 INR
+    Price: ₹360.00 INR
   - [L](https://surgismart.in/products/f-01?variant=50359988388120)
     Availability: Available
-    Price: ₹285.00 INR
+    Price: ₹360.00 INR
   - [XL](https://surgismart.in/products/f-01?variant=50407617331480)
     Availability: Available
-    Price: ₹285.00 INR
+    Price: ₹360.00 INR
   - [XXL](https://surgismart.in/products/f-01?variant=50407617364248)
     Availability: Available
-    Price: ₹285.00 INR
+    Price: ₹360.00 INR
 - [Buy ​United Medicare Knee Support Comfort (F-02) - Surgismart](https://surgismart.in/products/f-02): Key Features:Designed to give compression and support during minor knee joint instability. Thick knit retains body heat while also providing therapeutic warmth and support. Patellar ring on a four-way stretchy, soft and comfy knee brace. Silicon patellar cushioning improves blood flow and speeds up healing. Relieves the discomfort caused by ligament and muscular problems. Direction of use Just slide it over your knee. The brace should securely surround the knee. It shouldnt be overly tight. Ensure that the knee support is comfortably covering the entire knee by placing it correctly. Safety information Hand wash with a gentle detergent. Do not dry clean, iron, or bleach. Wear it comfortably. Keep out of childrens reach. United medicare knee support comfort is a knee support that is designed to provide support and comfort to people who are suffering from knee discomfort or injury. It is made of high-quality materials and will fit snugly around the knee.Individuals suffering from knee discomfort or injuries such as arthritis, tendinitis may benefit from the knee support comfort. It can also help people who participate in sports or other activities that put strain on their knees.Yes, UM knee support comfort is designed to be used for long periods of time. However, if you feel any discomfort or irritation while wearing it, you should take it off.UM knee support comfort is made to fit the majority of people. Make sure to select the size that suits your knee the best because it comes in a variety of sizes, the available sizes are S, L, M, XL, XXL.UM knee brace is made of a blend of neoprene, nylon, dermophillic cotton and spandex. This material combination provides a pleasant and supportive fit for the knee.Sold by: Surgismart - Surgismart
-  Updated: 2025-09-27T04:23:22Z
+  Updated: 2025-10-13T11:20:24Z
   Vendor: United Medicare
   Product Type: Knee Support
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/um_knee_support_comfort_f02_m_1s_425527_1_0.jpg?v=1751478722
   - [S](https://surgismart.in/products/f-02?variant=50359988683032)
     Availability: Available
-    Price: ₹365.00 INR
+    Price: ₹460.00 INR
   - [M](https://surgismart.in/products/f-02?variant=50359988617496)
     Availability: Available
-    Price: ₹365.00 INR
+    Price: ₹460.00 INR
   - [L](https://surgismart.in/products/f-02?variant=50359988748568)
     Availability: Available
-    Price: ₹365.00 INR
+    Price: ₹460.00 INR
   - [XL](https://surgismart.in/products/f-02?variant=50376270184728)
     Availability: Available
-    Price: ₹365.00 INR
+    Price: ₹460.00 INR
   - [XXL](https://surgismart.in/products/f-02?variant=50376270217496)
     Availability: Available
-    Price: ₹365.00 INR
+    Price: ₹460.00 INR
 - [Buy ​United Medicare Knee Immobilizer Long Type 19 (F-04) - Surgismart](https://surgismart.in/products/f-04): Key Features:UM knee immobilizer is designed with three layers to allow for quicker sweat dispersion, more elasticity, and better fit. Consists of a patella pad, an inflating process, a condyle airbag, and a polycentric joint on one side. Includes two straps to counteract the inflating bag and flexible stays. Knee immobilizer is made up of three layers: terry cloth, polyurethane foam, and elastic microfiber fabric. Polycentric joint on one side with a condyle airbag and inflation system Direction of use Prepare the knee brace and straps. Position the immobilizer behind the leg, centered behind the knee. Align the patellar cutout of the immobilizer over the patella. Place the stabilizing bars if they are removable or adjustable on the immobilizer. Use the fastening straps above and below the knee to secure the stabilizing bars Safety information Any open wounds must be properly covered by the knee immobilizer. Hand wash in warm, soapy water, then thoroughly rinse and air dry. A knee immobilizer is used to limit the movement of the knee joint. It is used in cases where there is a suspected or diagnosed injury to the knee, such as a sprain or strain.Usually, this brace is only used when walking. Unless your doctor or therapist instructs you otherwise, you can remove it while sitting or lying in bed.Knee immobilizers are used following surgery or in the case of a severe knee injury. They are prescribed by doctors or physical therapists to keep the knee stable and prevent further damage after injury or surgery.You could utilize a knee immobilizer for tibia plateau fractures, injury of the patellar tendon, dislocation of the patella, injury of the quadriceps tendon, knee fractures and ligament injuries and injuries which require immobilization.UM knee immobilizers available are in 5 sizes: S, L, M, XL, and XXL.Sold by: Surgismart - Surgismart
-  Updated: 2025-09-21T02:14:45Z
+  Updated: 2025-10-13T11:20:24Z
   Vendor: United Medicare
   Product Type: Knee Brace
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/17-4.jpg?v=1751478721
   - [S](https://surgismart.in/products/f-04?variant=50359989305624)
     Availability: Available
-    Price: ₹905.00 INR
+    Price: ₹1,150.00 INR
   - [M](https://surgismart.in/products/f-04?variant=50359989272856)
     Availability: Available
-    Price: ₹905.00 INR
+    Price: ₹1,150.00 INR
   - [L](https://surgismart.in/products/f-04?variant=50359989371160)
     Availability: Available
-    Price: ₹905.00 INR
+    Price: ₹1,150.00 INR
   - [XL](https://surgismart.in/products/f-04?variant=50376270250264)
     Availability: Available
-    Price: ₹905.00 INR
+    Price: ₹1,150.00 INR
   - [XXL](https://surgismart.in/products/f-04?variant=50376270283032)
     Availability: Available
-    Price: ₹905.00 INR
+    Price: ₹1,150.00 INR
 - [Buy ​United Medicare Knee Immobilizer Short Type 14 (F-05) - Surgismart](https://surgismart.in/products/f-05): Key Features:A well-fitting, comfortable knee immobiliser designed to maintain knee extension following surgery, trauma, and soft tissue injuries. The extra patellar straps add extra production to the knee. A foam-laminated wrap with a cotton lining and an anatomically contoured aluminium splint ensure perfect immobilisation. Offers knee immobilisation following fractures, muscular ligament injuries, and dislocations. UM knee immobiliser, consisting of a patella pad, polycentric joint, condyle airbag, and inflation system Direction of use Prepare the knee brace and straps. Position the immobilizer behind the leg, centered behind the knee. Align the patellar cutout of the immobilizer over the patella. Use the fastening straps above and below the knee to secure the immobilizer Safety information Any open wounds must be properly covered by the knee immobilizer. Hand wash in warm, soapy water, then thoroughly rinse and air dry The knee joint is supported and immobilised using a knee immobiliser. It can be utilised to stop further damage and speed healing following knee surgery or an injury.Knee immobilisers are used following surgery or in the case of a severe knee injury. They are prescribed by doctors or physical therapists to keep the knee stable and prevent further damage after injury or surgery.It is not recommended that you use the Knee Immobiliser while you sleep because it could be uncomfortable and disturb your rest.The knee immobiliser is designed to be used for walking while protecting the injuries and wearing a brace can improve your ability to get around, help you walk farther comfortably, and lift your legs straight.The knee immobiliser short type is available in 5 different sizes: X, L, M, XL, and XXL.Sold by: Surgismart - Surgismart
-  Updated: 2025-08-13T07:39:26Z
+  Updated: 2025-10-13T11:20:24Z
   Vendor: United Medicare
   Product Type: Knee Brace
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/lm27.jpg?v=1751478720
   - [S](https://surgismart.in/products/f-05?variant=50359989633304)
     Availability: Available
-    Price: ₹750.00 INR
+    Price: ₹950.00 INR
   - [M](https://surgismart.in/products/f-05?variant=50359989600536)
     Availability: Available
-    Price: ₹750.00 INR
+    Price: ₹950.00 INR
   - [L](https://surgismart.in/products/f-05?variant=50359989567768)
     Availability: Available
-    Price: ₹750.00 INR
+    Price: ₹950.00 INR
   - [XL](https://surgismart.in/products/f-05?variant=50376270577944)
     Availability: Available
-    Price: ₹750.00 INR
+    Price: ₹950.00 INR
   - [XXL](https://surgismart.in/products/f-05?variant=50376270610712)
     Availability: Available
-    Price: ₹750.00 INR
+    Price: ₹950.00 INR
 - [Buy ​United Medicare Knee Hinge Support (F-06) - Surgismart](https://surgismart.in/products/f-06): Key Features:Knee hinge provides ideal compression, increased comfort, a firm grip, and increased durability. The knee hinge supports the knees while performing heavy activities. This fabric allows for breathability, ensures required compression and support. The mediolateral instability biaxial heavy duty steel hinge allows for full weight bearing and free flexion movement An injured knee can be supported and stabilized with a hinged knee brace. Direction of use Unhook the hook-and-loop fasteners. Apply the support with the wider side facing up. So that the open patella comes over your knee hinge. The hinge fulcrum should line up with the knee joint. Fasten the hook loops, beginning with the lower one, for a secure yet comfortable fit. Safety information Keep out of childrens reach. Use only if your doctor has prescribed it. UM knee support hinge provides knee support and stability. It is intended to assist those who have knee injuries or chronic knee illnesses, helps in relieving pain and increasing mobility.No, you should not sleep with your knee hinge brace; you must follow your doctors directions.UM Knee hinge provides ideal compression, a firm grip, increased comfort and durability. It may also reduce pain and pressure if you have arthritis.A knee support can be used by someone who experiences knee sprain, sports injuries, lateromedial instability, or knee injuries. It allows the knee joint to flex properly and move freely.UM knee hinge supports are available in two different sizes: Universal and XXL. So you can choose your suitable sizes.Sold by: Surgismart - Surgismart
-  Updated: 2025-08-13T07:39:26Z
+  Updated: 2025-10-13T11:20:23Z
   Vendor: United Medicare
   Product Type: Knee Support
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/l1.jpg?v=1751478720
   - [XXL](https://surgismart.in/products/f-06?variant=50376270643480)
     Availability: Available
-    Price: ₹565.00 INR
+    Price: ₹715.00 INR
   - [UNIVERSAL](https://surgismart.in/products/f-06?variant=50376270676248)
     Availability: Available
-    Price: ₹565.00 INR
+    Price: ₹715.00 INR
 - [Buy ​United Medicare Knee Support Open Patella (Neoprene) (F-07) - Surgismart](https://surgismart.in/products/f-07): Key Features: Durable, high-quality perforated neoprene ensures customized compression, improved grip, and simple application. The anterior wrap-around design works for lateral or medial patella subluxations. It facilitates rapid dispersion of sweat, greater elasticity, and a better fit Open patella design to relieve knee cap pressure relief. Neoprene fabric provides warmth and support to the knee, reducing discomfort and inflammation that usually comes with ageing, arthritis, and sports injuries. Direction of use Place the open patella over your kneecap while wearing it up over your leg. The brace should be snug but not too tight. If necessary to ensure comfort and a good fit, adjust Safety information Hand wash with a gentle detergent. Do not dry clean, iron, or bleach. Keep out of the reach of children. An open patella knee brace is a brace with a small hole in the front for the patella. This helps support the kneecap and maintain proper alignment.Knee cap open patella aids in the recovery process of any ligament or muscle injury around the knee joint; it also aids in the management of osteoarthritic knee pain and protects the knee joint from injury.If you have mild arthritis in your knee, a neoprene knee cap can give support, compression, and warmth. It can be worn for as long as it provides relief; however, before using this knee cap, visit your doctor.Knee cap open patella gives strong compression, warmth, and support to the knee to relieve pain and inflammation caused by aging, arthritis, sports injuries, and other factors.Place the open patella over your kneecap while wearing it up over your leg. The brace should be snug but not too tight. If necessary to ensure comfort and a good fit, adjust. Sold by: Surgismart - Surgismart
-  Updated: 2025-08-13T07:39:26Z
+  Updated: 2025-10-13T11:20:22Z
   Vendor: United Medicare
   Product Type: Knee Support
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/re26.jpg?v=1751478719
   - [XXL](https://surgismart.in/products/f-07?variant=50376270709016)
     Availability: Available
-    Price: ₹970.00 INR
+    Price: ₹1,230.00 INR
   - [UNIVERSAL](https://surgismart.in/products/f-07?variant=50376270741784)
     Availability: Available
-    Price: ₹970.00 INR
+    Price: ₹1,230.00 INR
 - [Buy ​United Medicare Knee Support Open Patella (Drytex)(F-08) - Surgismart](https://surgismart.in/products/f-08): Key Features:UM drytex knee support is designed to provide mild to moderate support to relieve pain. Drytex fabric, which is stretchable in four directions, provides gentle compression with no buckling. The anterior wrap-around design works for lateral or medial patella subluxations. Facilitates rapid dispersion of sweat, greater elasticity, and a better fit fastening straps above and below the knee enable for simple application, adjustability, and proper fit Direction of use First, unfasten the straps. Wrap the UM knee support open patella so that the open patella region comes over your knee cap. Adjust the fastening straps to your comfort level. Make sure the straps are tight, but not too tight Safety information Hand washing with water and mild detergent No bleaching or ironing An open patella knee brace is a brace with a small hole in the front for the patella. This helps support the kneecap and maintain proper alignment.Yes, the drytex material is skin-friendly and it enables for greater airflow between your brace and skin, so your brace will not overheat your leg during sporting activities.UM Knee Support open patella is used to relieve knee pressure and extra knee cap support with proper movement and tracking. It also serves as a support for the knee and prevents injuries.Drytex improves airflow while still providing sufficient support and compression. People who live in warm areas and have neoprene allergies or irritations prefer it. Neoprene is a thicker material that resembles a wetsuit. It offers plenty of support and compression while also being a warmer alternativeUM knee support open patella is available in 2 sizes: one is universal and the other is XXL.Sold by: Surgismart - Surgismart
-  Updated: 2025-08-13T07:39:26Z
+  Updated: 2025-10-13T11:20:23Z
   Vendor: United Medicare
   Product Type: Knee Support
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/24-1.jpg?v=1751478718
   - [XXL](https://surgismart.in/products/f-08?variant=50376270807320)
     Availability: Available
-    Price: ₹499.00 INR
+    Price: ₹630.00 INR
   - [UNIVERSAL](https://surgismart.in/products/f-08?variant=50376270840088)
     Availability: Available
-    Price: ₹499.00 INR
+    Price: ₹630.00 INR
 - [Buy ​United Medicare RO Knee Brace Adjuster post operative (F-11) - Surgismart](https://surgismart.in/products/f-11): Key Features:Great for postoperative care and rehabilitation; supports anterior cruciate ligament and posterior cruciate ligament injuries. Rom knee brace provides controlled tightening, enhanced grip and is easy to wear. The knee brace delivers a range of motion from 0 to 120 degrees of flexion and 0 to 60 degrees of hyperextension. A rom knee brace may help with movement and pain reduction caused by knee injury or weakness. Neoprene liner with a silicone coating enhances product grip and improves cushioning and comfort. Direction of use: Use a directed by the health-care professional. Safety information: To be used under medical advice. For external use only. UM ROM Knee Brace controls and restricts the degree of flexion of the knee joint using a multi-point fixation system, allowing a range of motion in your knee.UM rom a knee brace assists in controlling and limiting the degree of flexion of the knee joint. The brace allows for range of motion or immobilization of the knee using a multi-point fixation mechanism.UM rom knee brace is made of neoprene material, and the neoprene liner with a silicone coating enhances product grip and improves cushioning and comfort for the knee brace.No. Sleeping in a ROM knee brace might restrict your range of motion and induce muscular tightness. This is especially difficult if you have a knee issue.A ROM brace adjuster is used for patients who have condylar fractures, anterior cruciate ligament injuries, and posterior cruciate ligament injuries.Sold by: Surgismart - Surgismart
-  Updated: 2025-09-13T12:25:01Z
+  Updated: 2025-10-13T11:20:22Z
   Vendor: United Medicare
   Product Type: Knee Support
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/um_rom_knee_brace_adjuster_post_operative_f11_u_1s_427682_0_0.jpg?v=1751478717
-  Price: ₹2,165.00 INR
+  Price: ₹2,750.00 INR
 - [Buy ​United Medicare O.A. Knee Brace (F-13) - Surgismart](https://surgismart.in/products/f-13): Key Features:A knee brace is designed to immobilize the knee in case of injury or pain. O.A. Knee Brace F-13 is ideal for sports and activities of daily living. Provides anterior tibial support and avoids rubbing and unnecessary loading of the popliteal area. Helps to achieve complete immobilization to facilitate recovery from a muscle pull, strain, ligament tear, or knee operation. Offers superior knee rehabilitation from most injuries, preventing re-injuries. Direction of use Sit and place your leg on a raised surface. Place the O.A brace on your knee Adjust the straps on your comfort (Dont too tight) Safety information Keep out of reach of children. Dont use it for any other purpose. An O.A. knee brace can take pressure off the part of your joint most affected by osteoarthritis and help relieve pain.OA knee brace designed to offer right/left varus/valgus adjustment correction can be used as a bowed knee brace for knock knees and offers superior knee rehabilitation from most injuries, preventing re-injuries.OA knee braces are used for those most affected by osteoarthritis, rheumatoid arthritis knee discomfort and sports injuries.If your orthopedist recommends it, you can wear your brace all day.OA knee braces are not advised to be worn while sleeping unless instructed by your doctor.Sold by: Surgismart - Surgismart
-  Updated: 2025-08-13T07:39:25Z
+  Updated: 2025-10-13T11:20:21Z
   Vendor: United Medicare
   Product Type: Knee Brace
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/re38.jpg?v=1751478717
   - [Left / S](https://surgismart.in/products/f-13?variant=50359991927064)
     Availability: Available
-    Price: ₹7,480.00 INR
+    Price: ₹9,500.00 INR
   - [Left / M](https://surgismart.in/products/f-13?variant=50359992025368)
     Availability: Available
-    Price: ₹7,480.00 INR
+    Price: ₹9,500.00 INR
   - [Left / L](https://surgismart.in/products/f-13?variant=50359991959832)
     Availability: Available
-    Price: ₹7,480.00 INR
+    Price: ₹9,500.00 INR
   - [Right / S](https://surgismart.in/products/f-13?variant=50359991894296)
     Availability: Available
-    Price: ₹7,480.00 INR
+    Price: ₹9,500.00 INR
   - [Right / M](https://surgismart.in/products/f-13?variant=50359991992600)
     Availability: Available
-    Price: ₹7,480.00 INR
+    Price: ₹9,500.00 INR
   - [Right / L](https://surgismart.in/products/f-13?variant=50359991861528)
     Availability: Available
-    Price: ₹7,480.00 INR
+    Price: ₹9,500.00 INR
 - [Buy ​United Medicare Knee Support 3D (F-15) - Surgismart](https://surgismart.in/products/f-15): Key Features:Knee Support was developed using 3D knitted fabric, providing greater transversal elasticity at the same time as it exerts the necessary compression in each area. This new knitted fabric concept provides better hold on the skin and stability during movement and does not require any fastening system. Visco-elastic cushion in ring form that manages knee cap control with blockage in an upper and lower lateral sense. Incorporates lateral stabilisers on both sides, which prevent it from rolling up. May help individuals with knee pain, sports injury prevention, and knee osteoarthritis. Direction of use Worn by a simple pull on applicationwith the broader side facing upwards. Safety information Do not bleach or iron. Dry in the shade on a flat surface. Do not overstretch. Wearing a knee support while sleeping is not recommended unless directed by your doctor.A knee support can be used by individuals with knee pain. Who have undergone knee surgery or have chronic knee problems like arthritis or osteoarthritis.Knee support might also help reduce pain. The knee is the bodys biggest joint, making it particularly vulnerable to damage from too much strain on the knees. Knee support can help support your knees and avoid additional injuries.The knee support provides leverage for your muscles as they bend and straighten the leg. It also protects the knee joint.The 3D Knee Cap is a knee support that helps stabilise and protect the knee joint. It is made of breathable fabric and features a three-dimensional design that provides extra support and comfort.The knee support is ideal for people who suffer from chronic pain, arthritis, or other joint injuries.Knee support is available in sizes S, M, L, XL, and XXL.Sold by: Surgismart - Surgismart
-  Updated: 2025-08-13T07:39:25Z
+  Updated: 2025-10-13T11:20:21Z
   Vendor: United Medicare
   Product Type: Knee Support
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/um_sport_knee_support_3d_f15_l_1s_429486_0_0.jpg?v=1751478716
   - [S](https://surgismart.in/products/f-15?variant=50359992123672)
     Availability: Available
-    Price: ₹385.00 INR
+    Price: ₹490.00 INR
   - [L](https://surgismart.in/products/f-15?variant=50359992156440)
     Availability: Available
-    Price: ₹385.00 INR
+    Price: ₹490.00 INR
 - [Buy ​United Medicare Knee Support With Thigh Strap (F-21) - Surgismart](https://surgismart.in/products/f-21): Key Features:Knee support with thigh strap is an orthopedic support designed to stabilize and provide support to the knee joint. Provides greater transversal elasticity at the same time as it exerts the necessary compression in each area The strap helps compress the patellar tendon and aims to alleviate stress on the tendon. The thigh strap helps secure the knee support in place, preventing it from slipping or shifting during activities. UM knee support is intended to alleviate knee discomfort, knee injuries, and osteoarthritis. It is excellent for pain relief as well as comfort and support to the knee. Direction of use Insert your knee on the wider side and pull it up to the knee. Then adjust the straps to ensure a secure fit. Wear the knee support with a thigh strap tightly, but not too tight. Safety information It is important to store it in a clean, dry location. Inspect regularly for any damage or wear and tear. Hand wash with mild detergent powder and water. Do not bleach or iron. The knee support with thigh strap is a orthopeadic support designed to provide optimal support, compression, and stability for the knee joint. It features an adjustable thigh strap to ensure a secure fit.A knee support with a thigh strap is used to relieve swelling and discomfort and improves blood circulation. It is also beneficial to prevent the knee from slipping or shifting during activities.Yes, you can use a knee with a thigh strap for everyday activities. The thigh strap helps to support your knee and keep the support in place during activities.UM knee support with thigh strap is available in 5 different sizes: S,M, L, XL, and XXL , so you can choose your suitable size.UM knee support with a thigh strap can be used by people who have knee pain, knee injuries, or osteoarthritis. It is great for relieving pain and providing comfort and support.Sold by: Surgismart - Surgismart
-  Updated: 2025-09-11T03:58:27Z
+  Updated: 2025-10-13T11:20:21Z
   Vendor: United Medicare
   Product Type: Knee Support
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/um_sport_knee_support_with_thigh_strap_f21_m_430632_0_0.jpg?v=1751478715
   - [S](https://surgismart.in/products/f-21?variant=50359993172248)
     Availability: Available
-    Price: ₹299.00 INR
+    Price: ₹380.00 INR
   - [M](https://surgismart.in/products/f-21?variant=50359993237784)
     Availability: Available
-    Price: ₹299.00 INR
+    Price: ₹380.00 INR
   - [L](https://surgismart.in/products/f-21?variant=50359993270552)
     Availability: Available
-    Price: ₹299.00 INR
+    Price: ₹380.00 INR
   - [XL](https://surgismart.in/products/f-21?variant=50376271593752)
     Availability: Available
-    Price: ₹299.00 INR
+    Price: ₹380.00 INR
 - [Buy ​United Medicare Wrist And Forearm Brace (G-01) - Surgismart](https://surgismart.in/products/g-01): Key Features:Wrist braces may help bring relief to wrist discomfort and pain, prevent repetitive movements, and control conditions such as arthritis and tendonitis. Mesh-padded, puf-lined wrist and forearm brace with a full-length, adjustable aluminium resting splint Ambidextrous design allows customised compression and case of use. Can be easily adjusted to hold the wrist and fingers in the desired position. Adjustable straps allow for a customised fit for more or less constraining support. With a pad that is stabilised. Controlled compression and perfect lateral splinting provide stability and compression support for injuries including sprains, wrist dislocations, frozen wrists, and more.Sold by: Surgismart - Surgismart
-  Updated: 2025-09-02T05:19:19Z
+  Updated: 2025-10-13T11:20:21Z
   Vendor: United Medicare
   Product Type: Forearm Splint
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/um_wrist_forearm_brace_long_g01_u_408634_0_0.jpg?v=1751478714
-  Price: ₹510.00 INR
+  Price: ₹750.00 INR
 - [Buy ​United Medicare Wrist Splint with Thumb Spica (G-03) - Surgismart](https://surgismart.in/products/g-03): Key Features:The innovative design features breathable mesh material, lightweight structure, and comfortable-fitting thumb spica. The anatomically shaped solution is an easy-to-use, well-fitting solution for thumb care. Bilateral design for left or right that provides the right immobilization to relieve pain during everyday activity. The strap around the wrist gives additional stability. Made with elastic lycra for a comfortable fit and Velcro fastening with buckles. Direction of use: Slide your hand into the splint, making sure your fingers are extended fully. Gently wrap the strap around your thumb and secure tingly but not too tight. Wrap the straps around your wrist and fasten the straps securely. Ensure that the splint feels comfortable and secure without causing any discomfort. Safety Information: Avoid physical damage. Avoid over-tightening the wrist splint. The wrist splint with thumb spica is designed to provide support, stability, and immobilization to the wrist and thumb joints.Yes. Wrist splints with thumb spica can be worn during activities that may involve repetitive wrist movements, lifting heavy objects, or participating in sports.The thumb spica is intended to stabilize and support sore or injured thumbs while also helping to improve hand function and reduce pain.Generally, it is recommended to use a mild detergent and lukewarm water to gently clean the splint to maintain hygiene and prevent bacterial growth.Its generally safe to wear the wrist splint with thumb spica during the day. However, you should always consult with your healthcare provider.Sold by: Surgismart - Surgismart
-  Updated: 2025-08-13T07:39:24Z
+  Updated: 2025-10-13T11:20:21Z
   Vendor: United Medicare
   Product Type: Pain Relief
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/WhatsApp-Image-2024-05-01-at-11.14.54-AM.webp?v=1751478714
-  Price: ₹399.00 INR
+  Price: ₹500.00 INR
 - [Buy ​United Medicare Wrist Wrap with Double Lock (G-06) - Surgismart](https://surgismart.in/products/g-06): Key Features:Wrist Wrap with lock delivers adjustable compression with a velcro strap. Useful for protecting weak muscles and preventing sports injuries. Provides good warmth and compression to the wrist area. Provides support and acts as a guard around the wrist while doing any physical activity. Adjustable loop hooks ensure comfortable movement of the wrist. Directions for Use: Adjust the wrap to fit your wrist Adjust the two locks to create a secure fit Brace can be worn either on the top of the hand or underneath Safety Information: Keep out of reach of children Read the instruction manual carefully for more details The Wrist Wrap With Double Lock hand brace is an adjustable brace designed to provide support and stability to the wrist and hand. It is constructed from a strong, lightweight material and consists of a wrap and two locks that can be adjusted to fit any size wrist.To use the Wrist Wrap With Double Lock hand brace, first adjust the wrap to fit your wrist. Place your hand and wrist into the wrap and make sure that it is snug but not too tight. Then adjust the two locks to create a secure fit. The brace can be worn either on the top of the hand or underneath. Helps to reduce pain and discomfort Provides support and stability to the wrist and hand Helps to reduce the risk of further injury or strain The Wrist Wrap With Double Lock hand brace can be worn as needed throughout the day to provide support and stability to the wrist and hand. When not in use, the brace should be stored in a cool, dry place.Wrist Wrap With Double Lock support hand brace available in size universal.Sold by: Surgismart - Surgismart
-  Updated: 2025-08-13T07:39:24Z
+  Updated: 2025-10-13T11:20:20Z
   Vendor: United Medicare
   Product Type: Pain Relief
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/um_wrist_wrap_with_double_lock_g06_u_408652_0_0.jpg?v=1751478713
-  Price: ₹180.00 INR
+  Price: ₹230.00 INR
 - [Buy ​United Medicare Thumb Spica (G-07) - Surgismart](https://surgismart.in/products/g-07): Key Features: Thumb Spica has a malleable aluminium abduction thumb splint, elastic lycra on the back for easy fitting, and velcro fasteners with buckles. A comfortable brace designed to aid in the relief of thumb pain and injuries Designed to evenly distribute pressure on the thumb joint and limit its movement, allowing the thumb to heal properly. The brace is designed strap that wraps around the thumb and fastens on the back of the hand. Adjustable Thumb/Wrist/Palm support, made of premium quality neoprene, with velcro for size adjustment thumb support. Direction of use Fix your thumb into the extended portion of the splint. Tighten the thumb strap and adjust the angle of the thumb as required. Now, wrap the elastic strap around the wrist and lock as per your comfort. Safety information Hand wash with mild detergent and water. Keep out of reach of children. A Thumb Spica Hand Brace G-07 is a type of drytex cotton lycra puf-lined material to provide support to the thumb joint. It is typically used to immobilise the thumb joint and help with pain relief.A thumb spics hand brace is often prescribed to those who have suffered an injury to the thumb joint. It may also be used by those who have certain conditions that can cause pain or instability in the thumb joint.Using a thumb-spica hand brace can help reduce pain and inflammation in the thumb joint, as well as provide support and stability. It may also help reduce the risk of further injury to the thumb joint and aid in healing.The length of time that you should wear a Thumb Spica Hand Brace G-07 will depend on the severity of your condition and follow your doctors advice.Using a thumb Spica hand brace (G-07 is generally considered safe. However, it is important to be aware that overuse of the brace may lead to further injury or discomfort. It is also important to ensure that the brace fits properly in order to prevent skin irritation. Sold by: Surgismart - Surgismart
-  Updated: 2025-09-05T23:58:39Z
+  Updated: 2025-10-13T11:20:21Z
   Vendor: United Medicare
   Product Type: Pain Relief
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/um_thumb_spica_g07_u_408654_0_0.jpg?v=1751478712
-  Price: ₹215.00 INR
+  Price: ₹270.00 INR
 - [Buy ​United Medicare Wrist and Forearm with Thumb Stabilizer (G-08) - Surgismart](https://surgismart.in/products/g-08): Key Features:Lightweight structure and comfortable fitting provide complete thumb splinting in the abduction position. Wrist and Forearm with Thumb Stabilizer has moldable, contoured splints along the full length of the thumb. An easy closure system with individual straps that can be fastened around the wrist with only one hand provides a secure and fully adjustable fit. Two flexible stays on the back to help its stabilization function, elastic Lycra for easy fitting and Velcro fasteners with buckles Direction of use Wear it by inserting your arm inside the wrist and forearm splint by aligning with the palmar crease. Fasten the straps Safety information Do not fasten the splint too tight. Use as per medical advice only A wrist and forearm with thumb stabilizer G-08 is a type designed to provide support and stabilization to the wrist, forearm, and thumb. It is commonly used to treat conditions such as wrist, thumb injuries.The stabilizer typically consists of a splint made from a rigid or semi-rigid material that wraps around the wrist, forearm, and thumb. It is designed to limit the movement of these areas, providing stability and preventing excessive bending or twisting. By immobilizing the affected area, it allows for proper healing and reduces strain on the injured structures.It helps immobilize the wrist, forearm, and thumb, which can promote healing and prevent further injury. Stabilizer can alleviate pain associated with wrist, forearm, and thumb conditions. The stabilizer improves stability and reduces the risk of re-injury.If you have had a fall or think you may have fractured your hand or wrist, it is OK to wear a brace overnight.You can use this Wrist Thumb Stabilizer if you have pain, a sprain, or even a fracture in your wrist.Sold by: Surgismart - Surgismart
-  Updated: 2025-09-20T16:36:58Z
+  Updated: 2025-10-13T11:20:21Z
   Vendor: United Medicare
   Product Type: Pain Relief
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/ln1.jpg?v=1751478712
-  Price: ₹490.00 INR
+  Price: ₹620.00 INR
 - [Buy ​United Medicare Tenni Elbow Support Wrap Round (G-09) - Surgismart](https://surgismart.in/products/g-09): Key Features: Tennis elbow support helps provide support for the elbow joint. Elbow support is lightweight, and there is no problem moving the elbows. It gives support to the joint during physical activities. The band applies pressure to the muscles and tendons, helping to relieve strain and reduce pain. Tennis elbow is made of skin-friendly drytex cotton lycra puf lined martial for excellent aesthetics Direction of use Position the tennis elbow support wrap on your elbow. Pass the velcro on the wrap Compression the elbow wrap you need Safety information Position the tennis elbow support wrap on your elbow. Pass the velcro on the wrap Compression the elbow wrap you need A tennis elbow support wrap is designed to provide compression, support, and pain relief for individuals suffering from tennis elbow; it helps to reduce pain on elbow.Tennis elbow support wrapped around the forearm, just below the elbow joint. It provides stability for the elbow, allowing for better movement and preventing further injury.Yes, tennis elbow support wraps can be used for other conditions, such as golfers elbow, tendinitis, or general overuse injuries. However, its always best to consult with a healthcare professional.Tennis elbow support wraps are generally safe to use, but its important to ensure that the wrap is not too tight, as it could restrict blood flow or cause discomfort and if you can be any pains you must consult with a healthcare professional.Tennis Elbow Support Wrap Round can be used to bone pain, muscle pain, and while playing tennis or gym sessions. Sold by: Surgismart - Surgismart
-  Updated: 2025-09-01T05:58:08Z
+  Updated: 2025-10-13T11:20:17Z
   Vendor: United Medicare
   Product Type: Elbow Brace
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/lm36.jpg?v=1751478711
-  Price: ₹199.00 INR
+  Price: ₹250.00 INR
 - [Buy ​United Medicare Elbow Wrap G-10 - Surgismart](https://surgismart.in/products/g-10): Key Features: Elbow wraps are useful for protecting weak muscles and preventing sports injuries. Adjustable compression by side Velcro straps. Provides relief for the elbows from pain and stress. Mobilizes the arm while immobilizing the elbow joint. Supports the elbow while performing sports activities. Available in size Universal. Direction of use Position the elbow wrap so that it is aligned with the center of the elbow joint. Adjust the tightness of the wrap if necessary as needed. Safety information Store it in a cool, dry place. Keep it clean and hygienic. Keep out of reach of children. The Elbow Wrap G-10 is made of a long-lasting, high-quality perforated neoprene material that is meant to reduce elbow pain.An elbow wrap compresses the afflicted area, so protecting the elbows from discomfort and tension. It may also enhance blood circulation to the area, relieving pain.It is normally recommended that you rest your elbow and allow the joint to move naturally. Follow the manufacturers instructions or get specialised advice from a healthcare professional. Long-lasting, high-quality perforated neoprene material ensures customised compression, improved grip, and simple application. Provides good warmth and compression to the elbow area Side Velcro straps provide adjustable compression for guarding weak muscles and reducing sports injuries. Full open wrap style allows for easy and uncomplicated wear. Elbow wraps can indirectly assist you boost your bench press by providing additional stability and compression when working out. Sold by: Surgismart - Surgismart
-  Updated: 2025-08-13T07:39:23Z
+  Updated: 2025-10-13T11:20:19Z
   Vendor: United Medicare
   Product Type: Elbow Brace
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/p25.jpg?v=1751478710
-  Price: ₹475.00 INR
+  Price: ₹600.00 INR
 - [Buy ​United Medicare  Elbow Support with Strap Comfort (G-11) - Surgismart](https://surgismart.in/products/g-11): Key Features:UM Elbow Support with Strap Comfort G-11 provides size of small, medium, long, XL, XXL. Helps improve elbow stability and mobility during sports, exercise, or daily activities. Supports the elbow while performing sports activities. Provides warmth and reduces pain and stress. High-quality nylon spandex yarn provides a four-way stretch elastic loop strap to adjust compression level. Preventing sports injuries high-elastic material for the users maximum fitting and comfort. Direction of use Slide the arm inside the support in such a way that the soft ribbed portion lies below the elbow. Safety information Do not dry clean, iron, or bleach. For single-person use only. If pain persists, consult an orthopedician. Elbow Support with Strap Comfort G-11 is a comfortable and adjustable elbow support designed to provide stability and relief from pain. It comes with a strap for a secure and adjustable fit. Elbow Support with Strap helps relieve elbow pain and offers stability and support. The adjustable strap provides a secure fit to ensure comfort and safety. Elbow Support with Strap Comfort G-11 is made of elastic material with a lightweight design for maximum comfort. Elbow Support with Strap Comfort G-11 is available in S, M, L, XL, XXL sizes. Yes, Elbow Support with Strap Comfort G-11 is adjustable with the strap. The strap provides a secure and comfortable fit.Sold by: Surgismart - Surgismart
-  Updated: 2025-08-13T07:39:23Z
+  Updated: 2025-10-13T11:20:19Z
   Vendor: United Medicare
   Product Type: Elbow Support
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/um_tennis_elbow_support_with_strap_comfort_g11_m_408626_0_0.jpg?v=1751478709
   - [S](https://surgismart.in/products/g-11?variant=50359999496472)
     Availability: Available
-    Price: ₹189.00 INR
+    Price: ₹240.00 INR
   - [M](https://surgismart.in/products/g-11?variant=50359999463704)
     Availability: Available
-    Price: ₹189.00 INR
+    Price: ₹240.00 INR
   - [L](https://surgismart.in/products/g-11?variant=50359999365400)
     Availability: Available
-    Price: ₹189.00 INR
+    Price: ₹240.00 INR
   - [XL](https://surgismart.in/products/g-11?variant=50376272511256)
     Availability: Available
-    Price: ₹189.00 INR
+    Price: ₹240.00 INR
   - [XXL](https://surgismart.in/products/g-11?variant=50376272544024)
     Availability: Available
-    Price: ₹189.00 INR
+    Price: ₹240.00 INR
 - [Buy ​United Medicare Wrist Splint Elastic (G-12) - Surgismart](https://surgismart.in/products/g-12): Key Features: UM wrist splint provides protection and support for painful, weak hand muscles and their surroundings. It has a high modulus of elasticity, retains shape and size even after using it for a long time. Anatomical thumb opening allows free and natural movement of thumb and fingers. It provides stabilisation and immobilisation in an easy-to-wear, open-wrap style. Offers benefits that include reduced pain, improved wrist stability, range of motion, and overall wrist health. Direction of use: To put on a wrist splint elastic. First, be sure to read the instructions that come with it. You should begin by wrapping the splint around the hand. Used to close 4 open elastic wraps. Make sure the splint fits snugly but is not too tight. Safety information: Gently hand wash using mild soap and warm water. Allow it to air dry before using it again. Keep out of reach of children. A wrist splint elastic is a medical orthopedic support that provides support and stability to your wrist. It is often composed of a flexible fabric that wraps around and includes adjustable elastic fastening mechanisms.When you experience wrist pain or discomfort, you should wear an elastic wrist splint. It can also be worn during activities that place extra strain on the wrist.Wrist splint elastic is suitable for persons who have wrist ailments such sprains, strains, or carpal tunnel syndrome, athletes and anyone suffering from wrist pain or discomfort might also benefit from it.Wrist splints are intended to protect and support sore, swollen, or weak joints and their surrounding structures by properly positioning your hand and wrist. You should wear a wrist splint depending on the nature of your injury. If you intend to use the splint for an extended amount of time, you should consult with your doctor. Sold by: Surgismart - Surgismart
-  Updated: 2025-08-13T07:39:23Z
+  Updated: 2025-10-13T11:20:20Z
   Vendor: United Medicare
   Product Type: Pain Relief
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/um_wrist_splint_elastic_right_g12_l_408662_0_0.jpg?v=1751478709
   - [Right / S](https://surgismart.in/products/g-12?variant=50360000348440)
     Availability: Available
-    Price: ₹350.00 INR
+    Price: ₹450.00 INR
   - [Right / M](https://surgismart.in/products/g-12?variant=50360000184600)
     Availability: Available
-    Price: ₹350.00 INR
+    Price: ₹450.00 INR
   - [Right / L](https://surgismart.in/products/g-12?variant=50360000086296)
     Availability: Available
-    Price: ₹350.00 INR
+    Price: ₹450.00 INR
   - [Right / XL](https://surgismart.in/products/g-12?variant=50376272609560)
     Availability: Available
-    Price: ₹350.00 INR
+    Price: ₹450.00 INR
   - [Right / XXL](https://surgismart.in/products/g-12?variant=50376272675096)
     Availability: Available
-    Price: ₹350.00 INR
+    Price: ₹450.00 INR
   - [Left / S](https://surgismart.in/products/g-12?variant=50360000217368)
     Availability: Available
-    Price: ₹350.00 INR
+    Price: ₹450.00 INR
   - [Left / M](https://surgismart.in/products/g-12?variant=50360000315672)
     Availability: Available
-    Price: ₹350.00 INR
+    Price: ₹450.00 INR
   - [Left / L](https://surgismart.in/products/g-12?variant=50360000381208)
     Availability: Available
-    Price: ₹350.00 INR
+    Price: ₹450.00 INR
   - [Left / XL](https://surgismart.in/products/g-12?variant=50376272642328)
     Availability: Available
-    Price: ₹350.00 INR
+    Price: ₹450.00 INR
   - [Left / XXL](https://surgismart.in/products/g-12?variant=50376272707864)
     Availability: Available
-    Price: ₹350.00 INR
+    Price: ₹450.00 INR
 - [Buy ​United Medicare Tenni Elbow Support With Silicone Pad (G-14) - Surgismart](https://surgismart.in/products/g-14): Key Features: UM tennis elbow support is used to reduce pressure on the injured tendon in the elbow. Breathable puf fused aero spacer fabric gives excellent aesthetics. The silicone pad allows excellent support and compression. Velcro straps are easy and simple to wear by wrap buckle style. A silicone compression pad reduces the pain caused by tennis elbow or golfers elbow. Will be beneficial for tennis elbow, golfers elbow, elbow pain, and elbow strain Direction of use Pull the hook end through the buckle. The silicone pad faces inside the support, creating a loop. Position the pad on the point of radiating pain. Tighten the strap until the fit is tight yet comfortable Safety information Pull the hook end through the buckle. The silicone pad faces inside the support, creating a loop. Position the pad on the point of radiating pain. Tighten the strap until the fit is tight yet comfortable UM Tennis elbow support has silicone pads that offer protection through their warming compression properties and reduce discomfort caused by elbow tendonitis, golfers elbow, arthritis, and more. Elbow support are protective pads worn on the elbows to prevent or reduce elbow injuries during a fall or collision. UM tennis elbow support with silicone pad is designed to reduce elbow pain and elbow strain. It provides support to the elbow muscles, controlled compression, and pain relief for strained muscles. UM Tennis Elbow Supports are available in 2 different sizes: universal and XXL, so you can choose your suitable sizes. You can wear UM tennis elbow support for elbow pain,elbow strain and sprains for different purposes. you can follow your doctors instructions or your physical therapists directions. Sold by: Surgismart - Surgismart
-  Updated: 2025-08-13T07:39:23Z
+  Updated: 2025-10-13T11:20:19Z
   Vendor: United Medicare
   Product Type: Elbow Support
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/lm15.jpg?v=1751478708
   - [XXL](https://surgismart.in/products/g-14?variant=50376272773400)
     Availability: Available
-    Price: ₹220.00 INR
+    Price: ₹280.00 INR
   - [UNIVERSAL](https://surgismart.in/products/g-14?variant=50376272806168)
     Availability: Available
-    Price: ₹220.00 INR
+    Price: ₹280.00 INR
 - [Buy ​United Medicare Ar Immobilizer (Adjustable) (G-17) - Surgismart](https://surgismart.in/products/g-17): Key Features: Arm immobiliser with lateral and rear shapeable plates and external velour fabric and internal cotton boucle. Fastening strap design limits posterior arm mobility to reduce shoulder pain. The three-panel adjustment mechanism allows for perfect fitting. The use of fastening straps in the internal panel to prevent sliding. It is designed to provide support and protection to the arm when it is injured or after a surgical procedure. Direction of use Insert your arm into your arm immobiliser. attached the straps at the top and bottom. Make sure your fastening straps are tight, but not too tight. Safety information Do not dry clean, machine wash, or bleach. Keep out of reach of the children. Avoid physical damage. United medicare arm immobilizer is an orthopedic support used to immobilise the arm. It is designed to immobilise the arm in the proper position to promote healing and prevent further injury.The arm immobiliser works by restricting the movement of the arm. It is designed to hold the arm in the proper position to promote healing and prevent further injury. The arm immobilizer is typically worn for a period of time as directed by a healthcare provider.The arm immobilizer can be used by anyone who needs to immobilize their arm. It is commonly used after surgery or injury to the shoulder, elbow, or wrist.The amount of time you should wear the arm immobiliser will be based on your particular circumstance. Your physician will tell you how long you should use the device.UM arm immobiliser is designed to support your arm from doing certain motions. It is also used to protect the arm at night while you are sleeping. Sold by: Surgismart - Surgismart
-  Updated: 2025-08-13T07:39:22Z
+  Updated: 2025-10-13T11:20:19Z
   Vendor: United Medicare
   Product Type: Arm Support
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/um_arm_immobilizer_adjustable_g17_u_408618_0_0.jpg?v=1751478707
   - [UNIVERSAL](https://surgismart.in/products/g-17?variant=50376272970008)
     Availability: Available
-    Price: ₹780.00 INR
+    Price: ₹990.00 INR
   - [XXL](https://surgismart.in/products/g-17?variant=50407651901720)
     Availability: Available
-    Price: ₹780.00 INR
+    Price: ₹990.00 INR
 - [Buy ​United Medicare Hand and Finger Splint (G-19) - Surgismart](https://surgismart.in/products/g-19): Key Features: Has a removable flexible splint that allows for customizable thumb abduction and stability in the CMC and MCP joints. Distal buddy strapping prevents finger rotation. Padded stays are flexible and may be adjusted for fit. One splint serves as a boxers fracture splint, radial gutter splint and middle and ring finger splint all in one. The splint provides positioning for fractures or injuries to the metacarpals, proximal phalanx, and MCP joints. It is adjustable and can be customized to fit the users hand and fingers comfortably. Direction of use Refer to the enclosed manual for better representation or consult your doctor before using this hand and finger splint. Safety information Read the label carefully before using. Keep cool and dry, away from direct sunlight. Keep out of the reach of children. UM Hand and finger splints are used to immobilise and support the hand and fingers. It is commonly used to help in the healing process of the hand and fingers.Duration of wearing the finger splint is dependent on the injury; so it is best to consult your doctor and follow the provided instructions.The UM finger splint is available in universal size, so anyone can use it easily.A finger splint is used to prevent finger injuries, hand-related problems, fractures, injuries, metacarpals, and proximal phalanx problems. Whoever has this problem can use a finger splint to protect their hands and fingers.UM finger splint acts as a boxers fracture splint, a radial gutter splint, and a middle and ring finger splint. Its adjustable straps give better adjustment and comfort for the fingers. Sold by: Surgismart - Surgismart
-  Updated: 2025-08-13T07:39:22Z
+  Updated: 2025-10-13T11:20:19Z
   Vendor: United Medicare
   Product Type: Finger Splint
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/er1.jpg?v=1751478706
-  Price: ₹310.00 INR
+  Price: ₹395.00 INR
 - [Buy ​United Medicare Carpa Tunne Splint (G-21) - Surgismart](https://surgismart.in/products/g-21): Key Features: Anatomically designed for conversion management of mild carpal tunnel syndrome. The Carpal Tunnel Splint is crafted by an elastic and padded light metal splint to deliver exceptional support. High modulus of elasticity retains shape and size for a long time. Designed with a universal size that fits your right or left hand. The elastic band keeps the splint in place and gives the required compression. Direction of use Insert the affected thumb into the loop provided. With the left side of the pad touching the hand, wrap the elastic band over the wrist joint. Position the felt pad over the middle of the dorsal side of the wrist. Safety information Read the label carefully before use. Avoid physical damage. The Carpal Tunnel Splint is designed to help alleviate symptoms associated with carpal tunnel syndrome. It helps to keep the hand in a neutral position for better support.Yes. The Carpal Tunnel Splint is specially formulated for both the left and right hands.Individuals who have carpal tunnel syndrome or are experiencing symptoms such as wrist pain or weakness in the hands and fingers may benefit from using this carpal tunnel splint.Yes, wearing the carpal tunnel splint can help alleviate nighttime symptoms of carpal tunnel syndrome, such as numbness, tingling, and discomfort.The carpal tunnel splint is made of elastic and padded, light metal materials. Sold by: Surgismart - Surgismart
-  Updated: 2025-09-04T00:06:39Z
+  Updated: 2025-10-13T11:20:19Z
   Vendor: United Medicare
   Product Type: Pain Relief
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/l138.webp?v=1751478705
-  Price: ₹245.00 INR
+  Price: ₹310.00 INR
 - [Buy ​United Medicare Restrainer (G-22) - Surgismart](https://surgismart.in/products/g-22): Key Features:The restrainer provides perfect restraint and prevents harmful movement. Air-filled bubble interfaces ensure good grip, high cushioning, increased air circulation, and enhanced comfort. Made with soft, non-abrasive materials that prevent irritation, allergies, and wounds from occurring with prolonged use. An adjustable buckle provides secure tying to the bed or chair and easy length adjustment. It can easily be used on the right/left wrist or ankle with a universal size. Direction of use: Place the strap over the wrist or ankle of the patient and lock it with Velcro for a firm and comfortable grip. Tie the other end of the strap to the chair for a secure grip. Safety Information: Read the label instruction carefully before using. Avoid physical damage. The Restrainer is used to restrict movement of the wrists to prevent further damage and promote healing.It is easy to tie and open, and it has a universal size that can fit all sizes of wrist and ankle for both the right and left sides.No. United Medicare Restrainer is made of soft and non-abrasive materials, ensures no rash or allergy and no wound on repeated use.The United Medicare Restrainer has an adjustable buckle that provides secure tying to the bed or chair and easy length adjustment.You can clean your restrainer with mild soap and water, then air dry thoroughly.Sold by: Surgismart - Surgismart
-  Updated: 2025-09-14T04:38:36Z
+  Updated: 2025-10-13T11:20:15Z
   Vendor: United Medicare
   Product Type: Pain Relief
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/p1-10.webp?v=1751478705
-  Price: ₹299.00 INR
+  Price: ₹380.00 INR
 - [Buy ​United Medicare Pelvic Traction Set with Weight Bag (H-05) - Surgismart](https://surgismart.in/products/h-05): Key Features: Complete pelvic traction kit is designed to perform pelvic traction. Sturdy design for a long life and multiple uses. The belt wraps around the pelvis area, with the traction straps on the lower side. The sturdy design allows for a long life and multiple uses. Spreader bar holds the traction belt and keeps the pulley rope flexible for movements. Water bag is made of durable material to hold the required weight to perform traction. Direction of use Wrap the traction belt around your pelvic region and fasten with the Velcro. Connect the belt to the pully through spreader bar with recommended weight on the other side. Safety information Hand wash with mild detergent and water. To be strictly used as per medical advice. Weight should not exceed the recommended Kg. Keep out of reach of children. Pelvic traction relieves pain by providing pressure and stress release to the pelvic region.The Pelvic Traction Set works by applying a controlled pulling force to the pelvis, providing stabilization, alignment, and pain relief for patients with pelvic fractures, instability, or certain spinal conditions.United Medicare Pelvic Traction is made of PU laminate fabric with foam padding and sweat-absorbing fabric inside for added comfort.Pelvic traction is beneficial for individuals who are suffering from pelvis issues or should be performed only under the supervision of a healthcare provider.While pelvic traction is generally considered safe, some individuals may experience temporary soreness or discomfort during or after traction. Consult with your doctor if you experience side effects. Sold by: Surgismart - Surgismart
-  Updated: 2025-08-26T00:36:45Z
+  Updated: 2025-10-13T11:20:18Z
   Vendor: United Medicare
   Product Type: Pain Relief
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/k3.jpg?v=1751478704
   - [S](https://surgismart.in/products/h-05?variant=50360011227416)
     Availability: Available
-    Price: ₹2,080.00 INR
+    Price: ₹2,645.00 INR
   - [M](https://surgismart.in/products/h-05?variant=50360011260184)
     Availability: Available
-    Price: ₹2,080.00 INR
+    Price: ₹2,645.00 INR
   - [L](https://surgismart.in/products/h-05?variant=50360011292952)
     Availability: Available
-    Price: ₹2,080.00 INR
+    Price: ₹2,645.00 INR
   - [XL](https://surgismart.in/products/h-05?variant=50376273723672)
     Availability: Available
-    Price: ₹2,080.00 INR
+    Price: ₹2,645.00 INR
 - [Buy ​United Medicare Silicone Elastomer Insole (I-02) - Surgismart](https://surgismart.in/products/i-02): Key Features:The soft silicone area in the calcaneal spur region provides comfort and lowers ankle impact loads. The full length provides an over-pressure relief over a larger surface. The blue insert relieves pressure on painful heel metatarsal areas. Insoles are made to fit into any shoe, you may easily use them with your preferred pair of shoes. Absorbs shocks and vibrations while distributing weight equally throughout the entire foot. Direction of use Place the insoles into your shoes and wear your shoes as casual. Make sure they are properly aligned with the shoes. Safety information Keep away from high temperatures and caustic liquids. To avoid any form of harm. Hand wash and air dry with any mild soap. Silicone elastomer insoles are high-quality insoles developed to provide your feet with better comfort and support. They are made of a soft, flexible, and long-lasting silicone elastomer substance.The goal of Silicone Elastomer Insoless is to relieve foot pain, discomfort, and fatigue caused by prolonged standing or walking. These insoles are made to relieve foot discomfort, distribute weight more evenly, and absorb shock and protect the feet from harm.Silicone insoles distribute and absorb shock forces that may cause damage or be uncomfortable. Designed to be used during athletic activities, for general comfort, and to relieve heel pain and minor rear foot damage.Wearing a silicone insole absorbs shock in the heel and metatarsal areas. It also aids in the preservation of the foots arch.The elastomer insoles are made of silicone material. The silicone is more comfortable for the feet.Sold by: Surgismart - Surgismart
-  Updated: 2025-08-13T07:39:21Z
+  Updated: 2025-10-13T11:20:18Z
   Vendor: United Medicare
   Product Type: Foot Support
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/528.jpg?v=1751478703
   - [S](https://surgismart.in/products/i-02?variant=50360012636440)
     Availability: Available
-    Price: ₹1,299.00 INR
+    Price: ₹1,650.00 INR
   - [M](https://surgismart.in/products/i-02?variant=50360012538136)
     Availability: Available
-    Price: ₹1,299.00 INR
+    Price: ₹1,650.00 INR
   - [L](https://surgismart.in/products/i-02?variant=50360012570904)
     Availability: Available
-    Price: ₹1,299.00 INR
+    Price: ₹1,650.00 INR
   - [XL](https://surgismart.in/products/i-02?variant=50376274247960)
     Availability: Available
-    Price: ₹1,299.00 INR
+    Price: ₹1,650.00 INR
 - [Buy ​United Medicare Rehab Hot and Cold Ge Pack (I-04) - Surgismart](https://surgismart.in/products/i-04): Key Features: Cotton and nylex bag is used to keep the hot/cold pack in place while compressing the affected area. The gel pack is contoured to the body, ensuring optimal coverage and efficiency. The rehab hot & cold gel pack is a versatile item that can be used for a range of therapeutic applications. Both flexible ice and relaxing heat are available. Cold is used to control pain and swelling, whereas heat can help with muscle aches and stiffness. Hot and cold gel packs are good replacements for hot water bags and ice bags. Direction of use Place the gel pouch in the microwaveable container. Fill it with water and heat the water with the gel pack. Remove and feel the temperature before use. Place it on your body where you need heat massage; take off at frequent intervals. Dont place it in the same area to avoid heartburn. Cold pack: place in a freezer at about 0 degrees for a minimum of one hour. Remove and use immediately. Safety information Always use the hot and cold packs in the fabric pouch. Do not use it if the pack is leaked or damaged. A hot and cold pack is a reusable, high-quality gel pack designed to offer both heat and cold massaging in a single product.Yes, you can use UM hot & cold gel packs that can be used multiple times. Simply follow the directions for heating or cooling as needed.Yes, depending on your needs, the gel pack can be used for both hot and cold therapy. Just make sure to follow the heating and cooling suggestions.The length of time you should use the gel pack depends on your particular needs. In general, you should use the pack for 15-20 minutes at a time.Heat increases the flow of blood and nutrients to a specific part of the body. It is frequently used to relieve morning stiffness or to warm up muscles before physical exertion. Cold reduces swelling and pain by slowing blood flow. Its usually best for acute pain, such as a sprain or strain. Sold by: Surgismart - Surgismart
-  Updated: 2025-08-13T07:39:21Z
+  Updated: 2025-10-13T11:20:18Z
   Vendor: United Medicare
   Product Type: Cold/Heat Therapy
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/um_rehab_hot_cold_gel_pack_u_i04_1s_424134_0_0.jpg?v=1751478703
-  Price: ₹475.00 INR
+  Price: ₹600.00 INR
 - [Buy ​United Medicare Toe Separator Silicone (I-07) - Surgismart](https://surgismart.in/products/i-07): Key Features:Toe separator made of non-toxic, hypoallergenic, and dermatologically accepted materials. It consists of viscoelastic polymer gel, which prevents bacterial development. Silicone has a high cushioning coefficient, absorbs impact, and has a long functional life. Lightweight and flexible, allowing you to move freely and comfortably while wearing it. UM toe separator offers better tolerance and compliance. Can be used in postsurgical care. Direction of use Position the toe spreader between your big and index toes. Put on your shoes as usual. Safety information Simply use soap to wash. Each use with water. Toe separators are used to separate toes and offer cushioning when there is friction between toes. It can be inserted between toes to separate them.United medicare toe separators are reusable, and the toe separators can be cleaned repeatedly without losing their quality.Toe separators are intended to be used for common foot diseases, pain reduction, muscular stretching, and toe realignment. In addition, the toe separator stretches and adjusts the toes to their original shape.Yes, UM toe separator is designed to be worn with shoes; it makes you comfortable.UM toe separators are made from viscoelastic polymer gel, which prevents bacterial development that can cushion the toes and provide gentle separation.Sold by: Surgismart - Surgismart
-  Updated: 2025-08-13T07:39:21Z
+  Updated: 2025-10-13T11:20:17Z
   Vendor: United Medicare
   Product Type: Foot Support
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/United-Medicare-Toe-Separator-Silicone-I-07-Universal.jpg?v=1751478702
-  Price: ₹120.00 INR
+  Price: ₹130.00 INR
 - [Buy ​United Medicare Exercise Ge Bal (I-08) - Surgismart](https://surgismart.in/products/i-08): Key Features: UM gel ball is designed to provide ultimate relief from stress and keep you relaxed. Gel ball increases the flexibility and strength of the fingers and hands. Exercise ball aids in the management of both physical and mental stress. The egg-shaped balls fit nicely in the palms of the hands. Made from high-quality polymeric gel that is skin-friendly and washable. Direction of use Squeeze the ball in your hand using your fingers and thumb. The ball can be squeezed between any two fingers. Use your finger to push the ball down onto a table or other sturdy surface. Use your thumb and one other finger of your choice to hold the ball away from your palm. Safety information Keep the ball clean and dry. Use a wet cloth to clean. Keep out of childrens reach. You can conduct simple hand and finger exercises with the aid of a gel exercise ball to increase your range of motion, strengthen your grip, relieve joint pain, and relax your hands and fingers.Simply hold an exercise gel ball in your hand and squeeze it repeatedly to use it. This can be done while working out, sitting at your desk, or watching TV. Increase your use of it gradually, starting with a few minutes every day.The gel-like material within an exercise gel ball provides resistance when squeezed, working your muscles. Your hands, fingers, and forearms will get stronger and toned if you squeeze and release the ball regularly.For people of all ages who want to strengthen their hands, using an exercise gel ball can be helpful. People who have experienced a hand injury or have a medical condition that reduces their hand strength will find it especially helpful.United medicare gel ball is made of high-quality polymeric gel, which is skin-friendly, washable, has excellent resilience, and has a long functional life. Sold by: Surgismart - Surgismart
-  Updated: 2025-08-13T07:39:21Z
+  Updated: 2025-10-13T11:20:17Z
   Vendor: United Medicare
   Product Type: Fitness Equipment
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/um_exercise_gel_ball_i08_u_408704_0_0.jpg?v=1751478701
-  Price: ₹340.00 INR
+  Price: ₹430.00 INR
 - [Buy ​United Medicare Coccyx Cushion Seat (J-05) - Surgismart](https://surgismart.in/products/j-05): Key Features:It offers high resilience, better cushioning, and a longer functional life. It relieves tailbone pain symptoms for those sitting for extended periods of time. Coccyx cushion seat can be used for body weights up to 95 kg and made up of durable foam. It can be used to reduce back pain and other chronic pain conditions such as inflammatory pain. Its high-density PU foam provides exceptional resilience and makes it a soft foam. Direction of use Place the cushion on your chair / sofa. Sit on the pillow such that there is no pressure on your tail bone. Safety information Dont use it for any other purpose. Hand wash with mild detergent and water. Dont dry clean. Keep out of reach of children. United Medicare Coccyx Cushion Seat is a specialized cushion designed to provide tailbone pain relief and support for the coccyx region.The Coccyx Cushion Seat can benefit individuals who experience tailbone pain or other chronic pain conditions.You can wash and dry the cover to maintain hygiene and prolong the cushions lifespan.The Coccyx cushion seat is intended to provide comfort while sitting while also encouraging healthier and more upright posture.Yes. As walking or standing can relieve the pressure on your tailbone, walking is good for coccyx pain.Sold by: Surgismart - Surgismart
-  Updated: 2025-08-16T19:55:18Z
+  Updated: 2025-10-13T11:20:17Z
   Vendor: United Medicare
   Product Type: Coccyx Support
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/p3-10.jpg?v=1751478700
-  Price: ₹1,399.00 INR
+  Price: ₹1,800.00 INR
 - [Buy ​United Medicare Orthopaedic Heating Pad (J-10) - Surgismart](https://surgismart.in/products/j-10): Key Features: An orthopaedic heating pad can provide a great deal of relief and comfort while helping to reduce long-term pain and discomfort. Long cable improves convenience in the built-in twin thermostat for 100% safety with an ultra-soft Nylex cover. Heating pad helps to relax muscles, reduce stiffness, and increase blood flow, which can help reduce pain. Heating pads also helps to reduce stress and tension, allowing for better relaxation. An orthopaedic heating pad is made to administer heat to the injured area, reducing pain and swelling. Direction of use: Make sure the heating pad is plugged in and turned on. Set the temperature to the desired level. Place the heating pad on the affected area. Leave the heating pad on the area for no more than 15 minutes at a time. Unplug the heating pad when finished. Safety information: Do not use the heating pad while sleeping. Do not fold a heating pad or wrap it around your body. Do not use an electric heating pad on infants or young children. An orthopaedic heating pad is a device that is used to help relieve muscle and joint pain. It is designed to apply heat to the affected area, providing relief from pain and inflammation.Using an orthopaedic heating pad can provide relief from a range of aches and pains, including muscle and joint stiffness and inflammation. It can also help reduce swelling in the affected area and relax tense muscles.It is recommended that you use an orthopaedic heating pad for no longer than 15 minutes at a time.Orthopaedic Heating Pad: It is important to ensure that the heating pad is set to the correct temperature for your skin. Do not use the pad if it is too hot, as this could cause burns. Additionally, it is important to check the power cord of the heating pad before each use to ensure it is in good working order. Finally, never leave the heating pad plugged in when not in use.An orthopaedic heating pad is helpful for pain in the muscles and joints, frozen shoulders, and backaches. Sold by: Surgismart - Surgismart
-  Updated: 2025-08-13T07:39:20Z
+  Updated: 2025-10-13T11:20:17Z
   Vendor: United Medicare
   Product Type: Cold/Heat Therapy
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/ty58.jpg?v=1751478700
-  Price: ₹1,099.00 INR
+  Price: ₹1,350.00 INR
 - [Buy ​United Medicare Compression Stockings  (J-32/J-33) - Surgismart](https://surgismart.in/products/j-32): Key Features: Anatomical shape provides upward-graded compression for effective blood evacuation. The use of high-quality dermophilic material provides effective compression and strength. The compression stockings can reduce deep vein thrombosis (DVT) by promoting blood circulation. Closed heel and open toe ensure comfort at the heel and reduce wear and tear. Easy to use, washable, long functional life, and color fastness. Direction of use Pull the compression sock all the way up, so that the compression is well dispersed across your feet and legs. Safety information Do not share stockings with any other person. Keep away from sharp things. United Medicare mid-thigh compression stocking is specialized garments that apply graduated pressure to the legs, reaching up to the mid-thigh area.Mid-thigh compression stockings are beneficial for individuals with various medical conditions, including deep vein thrombosis, chronic venous insufficiency, and varicose veins.Mid-thigh compression stockings exert graduated pressure on the legs, with the highest pressure at the ankle and gradually decreasing pressure as they extend up the leg.Yes, mid-thigh compression stockings can be worn comfortably under clothing. Its very comfortable and easy to wear.Wearing the wrong size of compression stockings can lead to several potential side effects, such as itchiness and redness. Sold by: Surgismart - Surgismart
-  Updated: 2025-10-10T12:45:40Z
+  Updated: 2025-10-13T11:20:14Z
   Vendor: United Medicare
   Product Type: Compression Support
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/p88.jpg?v=1751478699
   - [Knee / S](https://surgismart.in/products/j-32?variant=50360016404760)
     Availability: Available
-    Price: ₹475.00 INR
+    Price: ₹600.00 INR
   - [Knee / M](https://surgismart.in/products/j-32?variant=50360016371992)
     Availability: Available
-    Price: ₹475.00 INR
+    Price: ₹600.00 INR
   - [Knee / L](https://surgismart.in/products/j-32?variant=50360016306456)
     Availability: Available
-    Price: ₹475.00 INR
+    Price: ₹600.00 INR
   - [Knee / XL](https://surgismart.in/products/j-32?variant=50376275427608)
     Availability: Available
-    Price: ₹475.00 INR
+    Price: ₹600.00 INR
   - [Knee / XXL](https://surgismart.in/products/j-32?variant=50376275460376)
     Availability: Available
-    Price: ₹475.00 INR
+    Price: ₹600.00 INR
   - [Thigh / S](https://surgismart.in/products/j-32?variant=50407717110040)
     Availability: Available
-    Price: ₹710.00 INR
+    Price: ₹900.00 INR
   - [Thigh / M](https://surgismart.in/products/j-32?variant=50407717142808)
     Availability: Available
-    Price: ₹710.00 INR
+    Price: ₹900.00 INR
   - [Thigh / L](https://surgismart.in/products/j-32?variant=50407717175576)
     Availability: Available
-    Price: ₹710.00 INR
+    Price: ₹900.00 INR
   - [Thigh / XL](https://surgismart.in/products/j-32?variant=50407717208344)
     Availability: Available
-    Price: ₹710.00 INR
+    Price: ₹900.00 INR
   - [Thigh / XXL](https://surgismart.in/products/j-32?variant=50407717241112)
     Availability: Available
-    Price: ₹710.00 INR
+    Price: ₹900.00 INR
 - [Buy ​United Medicare Medical Compression Stockings Class 2 (J-34/J-35) - Surgismart](https://surgismart.in/products/j-34): Key Features: Anatomical shape provides perfect fitting and uniform compression, even on uneven limb surfaces. Top silicone line band ensures no slippage and provides optimal grip. Open-toe design makes it easy to wear and reduces wear and tear. Use of high-quality materials ensures a strong, durable, and long functional life with pleasant aesthetics. The class 2 compression stocking provides graduate compression from the ankle to the knee. Direction of use Insert your hand in the stocking and hold the heel portion in your palm. Now reverse the stocking outward. Slide the inverted stocking so that its heel portion fits your heel perfectly. Now slowly start pulling up the stocking. Safety information Keep away from sharp things. Hand wash with mild detergent and water. Class 2 below-knee medical compression stockings are specialized garments designed to apply graduated pressure to the lower leg, from the ankle to just below the knee.Class 2 compression stockings offer a moderate level of compression. They exert a higher pressure on the ankle compared to class 1 stockings.Class 2 compression stockings work by applying graduated pressure to the leg, with the highest pressure exerted at the ankle and gradually decreasing pressure as they move up the leg.Class 2 compression stockings manage weak and tired legs and other conditions causing pain and discomfort in the legs and requiring mild compression support.Insert your hand in the stocking and hold the heel portion in your palm. Now reverse the stocking outward. Slide the inverted stocking up to the heel, and then pull the stocking up to knee level. Ensure there are no wrinkles. Sold by: Surgismart - Surgismart
-  Updated: 2025-08-13T07:39:20Z
+  Updated: 2025-10-13T11:20:16Z
   Vendor: United Medicare
   Product Type: Compression Support
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/p96.jpg?v=1751478698
   - [Knee / S](https://surgismart.in/products/j-34?variant=50360016961816)
     Availability: Available
-    Price: ₹1,499.00 INR
+    Price: ₹1,900.00 INR
   - [Knee / M](https://surgismart.in/products/j-34?variant=50360016994584)
     Availability: Available
-    Price: ₹1,499.00 INR
+    Price: ₹1,900.00 INR
   - [Knee / L](https://surgismart.in/products/j-34?variant=50360017027352)
     Availability: Available
-    Price: ₹1,499.00 INR
+    Price: ₹1,900.00 INR
   - [Knee / XL](https://surgismart.in/products/j-34?variant=50376275591448)
     Availability: Available
-    Price: ₹1,499.00 INR
+    Price: ₹1,900.00 INR
   - [Knee / XXL](https://surgismart.in/products/j-34?variant=50376275624216)
     Availability: Available
-    Price: ₹1,499.00 INR
+    Price: ₹1,900.00 INR
   - [Thigh / S](https://surgismart.in/products/j-34?variant=50407730479384)
     Availability: Available
-    Price: ₹2,125.00 INR
+    Price: ₹2,700.00 INR
   - [Thigh / M](https://surgismart.in/products/j-34?variant=50407730512152)
     Availability: Available
-    Price: ₹2,125.00 INR
+    Price: ₹2,700.00 INR
   - [Thigh / L](https://surgismart.in/products/j-34?variant=50407730544920)
     Availability: Available
-    Price: ₹2,125.00 INR
+    Price: ₹2,700.00 INR
   - [Thigh / XL](https://surgismart.in/products/j-34?variant=50407730577688)
     Availability: Available
-    Price: ₹2,125.00 INR
+    Price: ₹2,700.00 INR
   - [Thigh / XXL](https://surgismart.in/products/j-34?variant=50407730610456)
     Availability: Available
-    Price: ₹2,125.00 INR
+    Price: ₹2,700.00 INR
 - [Buy ​United Medicare D.V.T. Stocking Thigh High (J-36/J-37) - Surgismart](https://surgismart.in/products/j-36): Key Features: Anatomical shape provides perfect fitting and uniform compression, even on uneven limb surfaces. Top silicone line band ensures no slippage and provides optimal grip. Open-toe design makes it easy to wear and reduces wear and tear. Use of high-quality materials ensures a strong and durable. Provides long functional life with excellent aesthetics. Direction of use Slide the stocking up towards the thigh. Insert your hand in the stocking and hold the heel portion in your palm. Now reverse the stocking outward. Slide the inverted stocking so that its heel portion fits your heel perfectly. Safety information Keep away from sharp things. Hand wash with mild detergent and water. United Medicare Thigh-High DVT (Deep Vein Thrombosis) Stocking is specialized compression stockings that cover the entire leg up to the thigh. It is designed to prevent or manage deep vein thrombosis.United Medicare DVT stocking can help manage a variety of conditions, such as varicose veins, swollen venous insufficiency, and deep vein thrombosis.DVT stocking is indicated for people who are at risk of DVT (Deep Vein Thrombosis), such as those with limited mobility or DVT-related conditions.The top silicone-lined band helps to ensure no slippage and helps to provide optimal grip to the patient.United Medicare DVT stockings work by applying graduated compression, which is tightest at the ankle and gradually loosens as they move up the leg. Sold by: Surgismart - Surgismart
-  Updated: 2025-08-13T07:39:19Z
+  Updated: 2025-10-13T11:20:16Z
   Vendor: United Medicare
   Product Type: Compression Support
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/P10-6.jpg?v=1751478697
   - [Knee / S](https://surgismart.in/products/j-36?variant=50360017387800)
     Availability: Available
-    Price: ₹749.00 INR
+    Price: ₹950.00 INR
   - [Knee / M](https://surgismart.in/products/j-36?variant=50360017355032)
     Availability: Available
-    Price: ₹749.00 INR
+    Price: ₹950.00 INR
   - [Knee / L](https://surgismart.in/products/j-36?variant=50360017420568)
     Availability: Available
-    Price: ₹749.00 INR
+    Price: ₹950.00 INR
   - [Knee / XL](https://surgismart.in/products/j-36?variant=50376275755288)
     Availability: Available
-    Price: ₹749.00 INR
+    Price: ₹950.00 INR
   - [Knee / XXL](https://surgismart.in/products/j-36?variant=50376275788056)
     Availability: Available
-    Price: ₹749.00 INR
+    Price: ₹950.00 INR
   - [Thigh / S](https://surgismart.in/products/j-36?variant=50407737360664)
     Availability: Available
-    Price: ₹1,499.00 INR
+    Price: ₹1,900.00 INR
   - [Thigh / M](https://surgismart.in/products/j-36?variant=50407737393432)
     Availability: Available
-    Price: ₹1,499.00 INR
+    Price: ₹1,900.00 INR
   - [Thigh / L](https://surgismart.in/products/j-36?variant=50407737426200)
     Availability: Available
-    Price: ₹1,499.00 INR
+    Price: ₹1,900.00 INR
   - [Thigh / XL](https://surgismart.in/products/j-36?variant=50407737458968)
     Availability: Available
-    Price: ₹1,499.00 INR
+    Price: ₹1,900.00 INR
   - [Thigh / XXL](https://surgismart.in/products/j-36?variant=50407737491736)
     Availability: Available
-    Price: ₹1,499.00 INR
+    Price: ₹1,900.00 INR
 - [Buy ​United Medicare Rehab Silicone Hee Cup (I -01) - Surgismart](https://surgismart.in/products/united-medicare-rehab-silicone-hee-cup-i-01): Key Features: Comfortable soft silicone patch in the calcaneal spur region lowers impact pressures on the ankle, knee, hip, and spine during steps. Absorbs shocks and vibrations while distributing weight equally throughout the entire foot. The soft silicone patch in the calcaneal spur region is anatomically shaped for a good fit and offers comfort while lowering impact stresses. Soft silicone can aid with plantar fasciitis, heel spurs, and achilles tendonitis by lowering the shock and vibration loads on joints. Anatomical shape with the right amount of thickness offers ideal cushioning, load distribution, and ease of use in shoes. Direction of use Set the silicone heel cups into your shoes. Rounded side facing upwards and the flat side facing downwards. Make sure they are positioned in the heel area of your shoes. Directly under your heels. Wear them throughout the day. Safety information Hand wash and air dry with any mild soap. Apply talcum to the shoe before reattaching it. Silicone heel cups work by dispersing the pressure on the heel reducing pain and discomfort. They are made to be worn within the shoes.Heel cups function by absorbing shock and pressure on the heel area, hence reducing pain and discomfort. They also provide additional foot support and stability.These heel cups can last several months or perhaps a year with proper maintenance, depending on usage and wear and tear.Individuals suffering from plantar fasciitis, heel spurs, and other sorts of heel pain will benefit from rehab silicone heel cups. They can also aid in the relief of pain and discomfort caused by prolonged standing or walking.UM silicone heel cups are made of hypoallergenic, non-toxic, non-flammable material and without odour. They are great for heel pain, ankle pain, heel spurs, knee and back pain. Sold by: Surgismart - Surgismart
-  Updated: 2025-08-13T07:39:19Z
+  Updated: 2025-10-13T11:20:16Z
   Vendor: United Medicare
   Product Type: Foot Support
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/530-1-1.jpg?v=1751478697
   - [S](https://surgismart.in/products/united-medicare-rehab-silicone-hee-cup-i-01?variant=50360019058968)
     Availability: Available
-    Price: ₹600.00 INR
+    Price: ₹770.00 INR
   - [M](https://surgismart.in/products/united-medicare-rehab-silicone-hee-cup-i-01?variant=50360019026200)
     Availability: Available
-    Price: ₹600.00 INR
+    Price: ₹770.00 INR
   - [L](https://surgismart.in/products/united-medicare-rehab-silicone-hee-cup-i-01?variant=50360018993432)
     Availability: Available
-    Price: ₹600.00 INR
+    Price: ₹770.00 INR
 - [Buy ​KRUPS Noble Digital Baby Weighing Scale - Surgismart](https://surgismart.in/products/krups-noble-digital-baby-weighing-scale): Powered by Li-ion battery 3.7V 1200mAH with BMS with 40 Hour Battery Back (Approx) Sturdy and Durable Construction One button Operation for Switch ON and OFF Adapter for Charging Battery included Single Load Cell Based Design for Superior Accuracy Capacity 20Kg and Minimum Graduation of 10g Weighing Pan with Sliding Mechanism No Screws Bottom of the scale fixed with high quality Rubber Feet for rugged usage Height Measurement Sticker affixed on Pan for measuring length of babies - Surgismart
   Updated: 2025-08-13T07:38:43Z
   Vendor: Krups
@@ -3173,26 +3173,26 @@
     Availability: Available
     Price: ₹1,000.00 INR
 - [Classic Scrub Suit, Navy](https://surgismart.in/products/classic-scrub-suit-navy): 🧵 Fabric & Comfort: This scrub suit, offered by Surgismart, is crafted from a breathable poly-cotton blend that provides all-day comfort. It’s soft on the skin, easy to maintain, and suitable for long shifts in hospitals, clinics, and labs. The material helps reduce wrinkles and ensures a clean look throughout your workday. 👗 Design & Fit: The top features a classic cross V-neck design, offering a simple yet professional appearance. The pants include an elasticized back and an adjustable front drawstring, allowing for a flexible and comfortable fit. Recommended for individuals with a height range of 5’2” to 5’5”. 🩺 Practical Storage: Designed for convenience, this set includes a total of 4 practical pockets: 2 bottom pockets on the scrub top and 2 side pockets on the pants. Ideal for keeping small work essentials like pens, notepads, phones, and tools within reach. 🎨 Size & Colour Options: Available in multiple sizes to suit different body types. Choose from a selection of appealing, workplace-friendly colours. Note: Actual product colour may vary slightly due to photographic lighting or monitor settings. 🧼 Wash Care Instructions Wash inside out Hand wash or machine wash with similar colours Do not bleach Dry in shade; avoid direct sunlight Use medium heat for ironing; avoid high temperatures 📦 Package Includes 1 Scrub Top 1 Scrub Pant 1 Unisex Cap 1 Face Mask
-  Updated: 2025-10-10T16:07:15Z
+  Updated: 2025-10-13T11:23:26Z
   Vendor: Surgismart
   Product Type: Free Shipping
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/1_18d024c3-bc74-446f-ba71-d6c0b025a4fd.jpg?v=1759745552
   - [S](https://surgismart.in/products/classic-scrub-suit-navy?variant=50425589825816)
     Availability: Available
-    Price: ₹749.00 INR
+    Price: ₹899.00 INR
   - [M](https://surgismart.in/products/classic-scrub-suit-navy?variant=50425589858584)
     Availability: Available
-    Price: ₹749.00 INR
+    Price: ₹899.00 INR
   - [L](https://surgismart.in/products/classic-scrub-suit-navy?variant=50425589891352)
     Availability: Available
-    Price: ₹749.00 INR
+    Price: ₹899.00 INR
   - [XL](https://surgismart.in/products/classic-scrub-suit-navy?variant=50425589924120)
     Availability: Available
-    Price: ₹749.00 INR
+    Price: ₹899.00 INR
   - [XXL](https://surgismart.in/products/classic-scrub-suit-navy?variant=50425589956888)
     Availability: Available
-    Price: ₹749.00 INR
+    Price: ₹899.00 INR
 - [Classic Lab Coat Apron](https://surgismart.in/products/lab-coat-apron): Everyday lab coat apron comes in short length and short sleeves. With two convenient pockets, this lab coat is a great everyday addition to scrubs for functionality and comfort. This lab coat apron is lightweight and exceptionally breathable for your comfort and functionality.
   Updated: 2025-10-06T12:57:07Z
   Vendor: Surgismart
@@ -3232,61 +3232,61 @@
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/41Y6_Ka-2UL._UF1000_1000_QL80.jpg?v=1759045844
   Price: ₹99.00 INR
 - [Classic Scrub Suit, Black](https://surgismart.in/products/classic-scrub-suit-black): 🧵 Fabric & Comfort: This scrub suit, offered by Surgismart, is crafted from a breathable poly-cotton blend that provides all-day comfort. It’s soft on the skin, easy to maintain, and suitable for long shifts in hospitals, clinics, and labs. The material helps reduce wrinkles and ensures a clean look throughout your workday. 👗 Design & Fit: The top features a classic cross V-neck design, offering a simple yet professional appearance. The pants include an elasticized back and an adjustable front drawstring, allowing for a flexible and comfortable fit. Recommended for individuals with a height range of 5’2” to 5’5”. 🩺 Practical Storage: Designed for convenience, this set includes a total of 4 practical pockets: 2 bottom pockets on the scrub top and 2 side pockets on the pants. Ideal for keeping small work essentials like pens, notepads, phones, and tools within reach. 🎨 Size & Colour Options: Available in multiple sizes to suit different body types. Choose from a selection of appealing, workplace-friendly colours. Note: Actual product colour may vary slightly due to photographic lighting or monitor settings. 🧼 Wash Care Instructions Wash inside out Hand wash or machine wash with similar colours Do not bleach Dry in shade; avoid direct sunlight Use medium heat for ironing; avoid high temperatures 📦 Package Includes 1 Scrub Top 1 Scrub Pant 1 Unisex Cap 1 Face Mask
-  Updated: 2025-10-10T16:11:07Z
+  Updated: 2025-10-13T11:23:47Z
   Vendor: Surgismart
   Product Type: Free Shipping
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/1_701988da-42be-4b40-826c-14a5349ceec0.jpg?v=1759746991
   - [S](https://surgismart.in/products/classic-scrub-suit-black?variant=50718191157528)
     Availability: Available
-    Price: ₹749.00 INR
+    Price: ₹899.00 INR
   - [M](https://surgismart.in/products/classic-scrub-suit-black?variant=50718191190296)
     Availability: Available
-    Price: ₹749.00 INR
+    Price: ₹899.00 INR
   - [L](https://surgismart.in/products/classic-scrub-suit-black?variant=50718191223064)
     Availability: Available
-    Price: ₹749.00 INR
+    Price: ₹899.00 INR
   - [XL](https://surgismart.in/products/classic-scrub-suit-black?variant=50718191255832)
     Availability: Available
-    Price: ₹749.00 INR
+    Price: ₹899.00 INR
   - [XXL](https://surgismart.in/products/classic-scrub-suit-black?variant=50718191288600)
     Availability: Available
-    Price: ₹749.00 INR
+    Price: ₹899.00 INR
 - [Classic Scrub Suit, WIne](https://surgismart.in/products/classic-scrub-suit-wine): 🧵 Fabric & Comfort: This scrub suit, offered by Surgismart, is crafted from a breathable poly-cotton blend that provides all-day comfort. It’s soft on the skin, easy to maintain, and suitable for long shifts in hospitals, clinics, and labs. The material helps reduce wrinkles and ensures a clean look throughout your workday. 👗 Design & Fit: The top features a classic cross V-neck design, offering a simple yet professional appearance. The pants include an elasticized back and an adjustable front drawstring, allowing for a flexible and comfortable fit. Recommended for individuals with a height range of 5’2” to 5’5”. 🩺 Practical Storage: Designed for convenience, this set includes a total of 4 practical pockets: 2 bottom pockets on the scrub top and 2 side pockets on the pants. Ideal for keeping small work essentials like pens, notepads, phones, and tools within reach. 🎨 Size & Colour Options: Available in multiple sizes to suit different body types. Choose from a selection of appealing, workplace-friendly colours. Note: Actual product colour may vary slightly due to photographic lighting or monitor settings. 🧼 Wash Care Instructions Wash inside out Hand wash or machine wash with similar colours Do not bleach Dry in shade; avoid direct sunlight Use medium heat for ironing; avoid high temperatures 📦 Package Includes 1 Scrub Top 1 Scrub Pant 1 Unisex Cap 1 Face Mask
-  Updated: 2025-10-10T16:10:22Z
+  Updated: 2025-10-13T11:24:07Z
   Vendor: Surgismart
   Product Type: Free Shipping
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/1_464eb740-5a9d-4128-bd66-4e3cc0039638.jpg?v=1759747031
   - [S](https://surgismart.in/products/classic-scrub-suit-wine?variant=50718191649048)
     Availability: Available
-    Price: ₹749.00 INR
+    Price: ₹899.00 INR
   - [M](https://surgismart.in/products/classic-scrub-suit-wine?variant=50718191681816)
     Availability: Available
-    Price: ₹749.00 INR
+    Price: ₹899.00 INR
   - [L](https://surgismart.in/products/classic-scrub-suit-wine?variant=50718191714584)
     Availability: Available
-    Price: ₹749.00 INR
+    Price: ₹899.00 INR
   - [XL](https://surgismart.in/products/classic-scrub-suit-wine?variant=50718191747352)
     Availability: Available
-    Price: ₹749.00 INR
+    Price: ₹899.00 INR
   - [XXL](https://surgismart.in/products/classic-scrub-suit-wine?variant=50718191780120)
     Availability: Available
-    Price: ₹749.00 INR
+    Price: ₹899.00 INR
 
 ## Collections
 
 - [Buy ​GST 5% - Surgismart](https://surgismart.in/collections/gst-5): - Surgismart
-  Updated: 2025-10-11T11:16:23Z
+  Updated: 2025-10-13T11:20:32Z
   Total Products: 152
 - [Buy ​GST 18% - Surgismart](https://surgismart.in/collections/gst-18): - Surgismart
-  Updated: 2025-09-29T08:04:17Z
+  Updated: 2025-10-13T11:20:16Z
   Total Products: 22
 - [Buy ​Easycare - Surgismart](https://surgismart.in/collections/easycare): - Surgismart
   Updated: 2025-09-29T08:04:17Z
   Total Products: 9
 - [Buy ​United Medicare - Surgismart](https://surgismart.in/collections/united-medicare): - Surgismart
-  Updated: 2025-10-11T11:16:23Z
+  Updated: 2025-10-13T11:20:32Z
   Total Products: 73
 - [Buy ​Tynor - Surgismart](https://surgismart.in/collections/tynor): - Surgismart
   Updated: 2025-08-20T18:24:41Z
@@ -3325,13 +3325,13 @@
   Updated: 2025-08-01T11:05:29Z
   Total Products: 0
 - [Buy ​Pain Relief & Orthopedic - Surgismart](https://surgismart.in/collections/pain-relief-orthopedic): - Surgismart
-  Updated: 2025-09-09T11:15:57Z
+  Updated: 2025-10-13T11:20:28Z
   Total Products: 13
 - [Buy ​Mobility Aids - Surgismart](https://surgismart.in/collections/mobility-aids): - Surgismart
   Updated: 2025-09-18T14:02:27Z
   Total Products: 40
 - [Buy ​Orthopedic - Surgismart](https://surgismart.in/collections/orthopedic): - Surgismart
-  Updated: 2025-10-11T11:16:23Z
+  Updated: 2025-10-13T11:20:32Z
   Total Products: 266
 - [Buy ​BP Monitors - Surgismart](https://surgismart.in/collections/bp-monitors): - Surgismart
   Updated: 2025-09-28T11:01:49Z
@@ -3355,34 +3355,34 @@
   Updated: 2025-08-01T11:05:30Z
   Total Products: 1
 - [Buy ​Cervical Aids - Surgismart](https://surgismart.in/collections/cervical-aids): - Surgismart
-  Updated: 2025-09-04T07:27:20Z
+  Updated: 2025-10-13T11:20:29Z
   Total Products: 10
 - [Buy ​Abdominal Support - Surgismart](https://surgismart.in/collections/abdominal-support): - Surgismart
   Updated: 2025-09-04T07:27:18Z
   Total Products: 3
 - [Buy ​Rib/Chest Support - Surgismart](https://surgismart.in/collections/rib-chest-support): - Surgismart
-  Updated: 2025-08-01T11:05:30Z
+  Updated: 2025-10-13T11:20:31Z
   Total Products: 1
 - [Buy ​Back & Spinal Support - Surgismart](https://surgismart.in/collections/back-spinal-support): - Surgismart
-  Updated: 2025-09-04T07:27:17Z
+  Updated: 2025-10-13T11:20:32Z
   Total Products: 15
 - [Buy ​Fracture Aids - Surgismart](https://surgismart.in/collections/fracture-aids): - Surgismart
-  Updated: 2025-09-04T07:27:15Z
+  Updated: 2025-10-13T11:20:28Z
   Total Products: 13
 - [Buy ​Knee Supports & Braces - Surgismart](https://surgismart.in/collections/knee-supports-braces): - Surgismart
-  Updated: 2025-09-04T07:27:12Z
+  Updated: 2025-10-13T11:20:26Z
   Total Products: 22
 - [Buy ​Neoprene Supports - Surgismart](https://surgismart.in/collections/neoprene-supports): - Surgismart
-  Updated: 2025-09-04T07:27:14Z
+  Updated: 2025-10-13T11:20:30Z
   Total Products: 5
 - [Buy ​Ankle Supports - Surgismart](https://surgismart.in/collections/ankle-supports): - Surgismart
-  Updated: 2025-09-12T11:15:05Z
+  Updated: 2025-10-13T11:20:26Z
   Total Products: 15
 - [Buy ​Graduated Stockings - Surgismart](https://surgismart.in/collections/graduated-stockings): - Surgismart
-  Updated: 2025-10-11T11:16:23Z
+  Updated: 2025-10-13T11:20:15Z
   Total Products: 6
 - [Buy ​Wrist,Forearm & Elbow Supports/Splints - Surgismart](https://surgismart.in/collections/wrist-forearm-elbow-supports-splints): - Surgismart
-  Updated: 2025-09-09T11:15:57Z
+  Updated: 2025-10-13T11:20:20Z
   Total Products: 18
 - [Buy ​Splint Supports - Surgismart](https://surgismart.in/collections/splint-supports): - Surgismart
   Updated: 2025-09-04T07:27:04Z
@@ -3391,10 +3391,10 @@
   Updated: 2025-09-04T07:27:02Z
   Total Products: 1
 - [Buy ​Finger Exercise & Splint - Surgismart](https://surgismart.in/collections/finger-exercise-splint): - Surgismart
-  Updated: 2025-09-04T07:27:01Z
+  Updated: 2025-10-13T11:20:23Z
   Total Products: 9
 - [Buy ​Footcare - Surgismart](https://surgismart.in/collections/footcare): - Surgismart
-  Updated: 2025-09-04T07:26:59Z
+  Updated: 2025-10-13T11:20:16Z
   Total Products: 8
 - [Buy ​Acare - Surgismart](https://surgismart.in/collections/acare): - Surgismart
   Updated: 2025-09-04T07:27:20Z
@@ -3442,7 +3442,7 @@
   Updated: 2025-09-29T07:56:57Z
   Total Products: 15
 - [Buy ​Cushion - Surgismart](https://surgismart.in/collections/cushion): - Surgismart
-  Updated: 2025-09-18T14:02:25Z
+  Updated: 2025-10-13T11:20:29Z
   Total Products: 26
 - [Massagers](https://surgismart.in/collections/massagers)
   Updated: 2025-09-28T11:02:40Z
@@ -3460,7 +3460,7 @@
   Updated: 2025-09-16T10:45:20Z
   Total Products: 42
 - [Medical Apparels](https://surgismart.in/collections/medical-apparels)
-  Updated: 2025-10-11T11:16:23Z
+  Updated: 2025-10-13T11:19:02Z
   Total Products: 6
 
 ## Blogs
