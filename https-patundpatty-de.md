@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-03-19T17:46:58Z
 - Contact Email: info@patundpatty.de
-- Updated At: 2025-10-12T16:00:34.797Z
+- Updated At: 2025-10-13T08:00:34.607Z
 
 ## Products
 
@@ -149,7 +149,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/waschbares-bio-kuschelkissen-ziege-handgemacht-pat-und-patty.jpg?v=1751450496
     Price: 63,95 € EUR
 - [Bio Kuschelkissen Hund Naturweiß Hellbraun | PAT & PATTY](https://patundpatty.de/products/bio-kuschelkissen-hund): Entdecken Sie das Bio Kuschelkissen Hund von PAT & PATTY. Handgemacht, gefüllt mit Hirsespelz, schadstofffrei, kuschelweich und perfekt für Geborgenheit.
-  Updated: 2025-10-11T12:13:23Z
+  Updated: 2025-10-12T21:02:15Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -163,7 +163,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-kuschelkissen-hund-naturweiss-handgemacht-fuer-babys-pat-und-patty.jpg?v=1751452882
     Price: 63,95 € EUR
   - [hellbraun / Hirsespelz-kbA](https://patundpatty.de/products/bio-kuschelkissen-hund?variant=45479760363788)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-kuschelkissen-hund-naturweiss-mit-inlett-handgemacht-fuer-babys-pat-und-patty.jpg?v=1751454607
     Price: 59,90 € EUR
   - [hellbraun / Dinkelspelz-kbA](https://patundpatty.de/products/bio-kuschelkissen-hund?variant=45479760396556)
@@ -1974,13 +1974,13 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Extra-Weiche-Maiswatte-F_llwatte-Atmungsaktive-Naturf_llung-PAT-Und-PATTY.jpg?v=1752304823
     Price: 215,00 € EUR
 - [Bio Hirsespelz Kissenfüllung – natürlich und atmungsaktiv](https://patundpatty.de/products/bio-hirsespelz-hirsespreu-hirseschalen): Bio Hirsespelz Kissenfüllung von PAT & PATTY: atmungsaktiv, schadstofffrei & nachhaltig. Für erholsamen Schlaf und gesundes Liegen – jetzt online entdecken.
-  Updated: 2025-10-12T13:19:30Z
+  Updated: 2025-10-12T21:50:50Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Hirsespelz-Hirseschalen-Hirsespreu-KbA-Naturfuelueng-PAT-Und-PATTY.jpg?v=1759051693
   - [1000 gr. (ca. 7 L) nachfüllpack](https://patundpatty.de/products/bio-hirsespelz-hirsespreu-hirseschalen?variant=45558908518668)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Hirsespelz-Hirseschalen-Hirsespreu-KbA-Naturfuelueng-PAT-Und-PATTY.jpg?v=1759051693
     Price: 9,90 € EUR
   - [2000 gr. (ca. 14 L) nachfüllpack](https://patundpatty.de/products/bio-hirsespelz-hirsespreu-hirseschalen?variant=45558908551436)
