@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-01-24T04:49:01Z
 - Contact Email: info@ibizjewel.com
-- Updated At: 2025-10-12T20:00:48.348Z
+- Updated At: 2025-10-13T04:00:48.713Z
 
 ## Products
 
@@ -44594,6 +44594,10 @@
     Updated: 2025-10-12T00:09:08Z
     Author: Heris K.
     Tags: design collection, diamonds, eco-friendly jewelry, ethical diamonds, jewelry, salt and pepper diamond ring, salt and pepper diamonds, sustainable, sustainable jewelry tips
+  - [Understanding the Historical Significance of Salt and Pepper Diamond Rings](https://ibizjewel.com/blogs/news/understanding-the-historical-significance-of-salt-and-pepper-diamond-rings): Understanding the Historical Significance of Salt and Pepper Diamond Rings
+    Updated: 2025-10-13T03:39:36Z
+    Author: Heris K.
+    Tags: diamonds, eco-friendly diamonds, ethical rings, historical significance of diamonds, jewelry, meaning of salt and pepper diamonds, salt and pepper, salt and pepper diamond ring, sustainable
 
 ## Store Pages
 
