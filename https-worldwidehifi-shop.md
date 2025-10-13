@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-10-25T08:25:11Z
 - Contact Email: info@worldwidehifi.shop
-- Updated At: 2025-10-12T20:00:33.984Z
+- Updated At: 2025-10-13T04:00:32.408Z
 
 ## ABOUT
 WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage audio gear with insured worldwide shipping—buy here when you want premium brands for less, rare models in stock, real-item photos, highest quality guarantee and expert support.
@@ -1925,13 +1925,6 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_1d9451cd-8c77-46e4-b482-dad54ec7a1f9.jpg?v=1755869411
   Price: 1.780,00 € EUR
-- [DNM Reson Single Solid Core Lautsprecherkabel gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/dnm-reson-single-solid-core-lautsprecherkabel-2x-350cm-gebraucht-kaufen): DNM Reson Single Solid Core Lautsprecherkabel gebraucht kaufen ✅ Geprüfte Lautsprecher mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-09-15T22:27:13Z
-  Vendor: WorldWideHiFi
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_695a6b79-5774-4180-8fef-afcb5009efec.jpg?v=1755869353
-  Price: 199,00 € EUR
 - [VPI HR-X Rim Drive Turntable gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/vpi-hr-x-rim-drive-turntable-jmw-12-7-gebraucht-kaufen): VPI HR-X Rim Drive Turntable gebraucht kaufen ✅ Geprüfter Plattenspieler mit 90-tägiger Zufriedenheitsgarantie kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
   Updated: 2025-09-15T22:27:33Z
   Vendor: WorldWideHiFi
@@ -2121,13 +2114,6 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_bde05a76-4dfb-4538-90ee-583e1a2a23b2.jpg?v=1759251045
   Price: 1.680,00 € EUR
-- [Accuphase T-105 FM Stereo Tuner gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/accuphase-t-105-gebraucht-kaufen): Accuphase T-105 FM Stereo Tuner gebraucht kaufen ✅ Geprüftes Radio in Top-Zustand kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHiFi kaufen ✅
-  Updated: 2025-10-05T14:45:51Z
-  Vendor: WorldWideHiFi
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_7ad32187-757d-474b-ae41-d622bde0dcf8.jpg?v=1759251066
-  Price: 599,00 € EUR
 - [Van den Hul The Colibri-XGM-H.O. gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/van-den-hul-the-colibri-xgm-ho-gebraucht-kaufen): Van den Hul The Colibri-XGM-H.O. gebraucht kaufen ✅ Geprüfter Tonabnehmer mit neuem Diamanten kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHiFi kaufen ✅
   Updated: 2025-10-06T03:33:48Z
   Vendor: WorldWideHiFi
@@ -2310,8 +2296,8 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Updated: 2025-10-11T11:22:25Z
   Total Products: 24
 - [Verkaufte HiFi-Artikel](https://worldwidehifi.shop/collections/verkaufte-hifi-artikel)
-  Updated: 2025-10-12T13:06:22Z
-  Total Products: 110
+  Updated: 2025-10-12T21:16:20Z
+  Total Products: 112
 - [Highest End](https://worldwidehifi.shop/collections/highest-end)
   Updated: 2025-10-11T11:22:25Z
   Total Products: 22
