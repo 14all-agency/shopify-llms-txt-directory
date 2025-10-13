@@ -9,7 +9,7 @@
 - Created At: 2023-11-20T15:32:25Z
 - Contact Email: hello@inky-ingredients.com
 - Address: Units 2, 3 & 5 Athelstan Business Park Hanwell Lane, Hutton Conyers Ripon, North Yorkshire HG4 5BF, UK
-- Updated At: 2025-10-12T16:00:36.278Z
+- Updated At: 2025-10-13T04:00:35.816Z
 
 The UK's largest natural ingredients supplier. INKY Ingredients supplies formulators and makers as well as the general public with the UK's widest range of essential oils, cold pressed oils, waxes, soaps, butters and more. We hold a 7 sustainability accreditations and are committed to providing an unparalleled selection of premium natural oil ingredients, fostering sustainability, and championing the sustainable beauty movement.
 
@@ -215,7 +215,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £177.60 GBP
 - [Ylang Ylang 3, Essential Oil](https://inky-ingredients.com/products/ylang-ylang-3-essential-oil): Ylang Ylang 3 Essential Oil boasts an intense floral aroma. Recognized for its therapeutic benefits, it aids in relaxation and stress reduction, making it a holistic choice.
-  Updated: 2025-10-10T18:36:47Z
+  Updated: 2025-10-12T20:06:10Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -326,7 +326,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £310.80 GBP
 - [Sheanut Butter, Refined (Boxed)](https://inky-ingredients.com/products/sheanut-butter-refined-boxed): Boxed Refined Sheanut Butter is a smooth and creamy cosmetic ingredient. With its refined quality, it offers excellent moisturising properties, making it a popular choice for skincare formulations. It adds a luxurious touch to products, leaving the skin soft and nourished.
-  Updated: 2025-09-26T08:48:10Z
+  Updated: 2025-10-12T20:06:06Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -1040,7 +1040,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £319.80 GBP
 - [Coconut Oil, Refined](https://inky-ingredients.com/products/coconut-oil-refined): Refined Coconut Oil is a versatile culinary oil. With a high smoke point, it's perfect for cooking and baking, providing a neutral flavor to dishes.
-  Updated: 2025-10-10T06:11:21Z
+  Updated: 2025-10-12T20:06:06Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -1295,7 +1295,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £117.60 GBP
 - [Geranium Egyptian, Essential Oil](https://inky-ingredients.com/products/geranium-egyptian-essential-oil): Geranium Egyptian Essential Oil features a rosy, herbaceous fragrance. Valued in aromatherapy, it offers emotional support and enhances skincare routines, bringing a sense of balance and well-being to daily rituals.
-  Updated: 2025-10-10T18:36:50Z
+  Updated: 2025-10-12T20:06:10Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -1577,7 +1577,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £110.66 GBP
 - [Almond (Sweet) BP73 Oil, Refined](https://inky-ingredients.com/products/almond-sweet-bp73-oil-refined): Sweet Almond Oil (BP73), refined, is a cosmetic-grade oil with emollient properties. It easily absorbs into the skin, providing hydration and promoting a soft, supple texture. An ideal ingredient for skincare formulations aiming for a smooth and revitalised complexion.
-  Updated: 2025-10-12T15:47:21Z
+  Updated: 2025-10-12T20:06:10Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -2435,7 +2435,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £453.60 GBP
 - [Rice Bran Oil, Refined](https://inky-ingredients.com/products/rice-bran-oil-refined): Refined Rice Bran Oil is a heart-healthy cooking oil with a mild flavor. Extracted from rice bran, it has a high smoke point and is rich in antioxidants, making it a suitable choice for frying, sautéing, and other culinary applications.
-  Updated: 2025-09-26T08:19:05Z
+  Updated: 2025-10-12T20:18:46Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -2798,7 +2798,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £22.00 GBP
 - [Safflower High Linoleic Oil, Refined](https://inky-ingredients.com/products/safflower-high-linoleic-oil-refined): Refined Safflower High Linoleic Oil, versatile for various formulations. Known for its emollient properties, it enhances skin texture and helps maintain moisture balance without a greasy feel.
-  Updated: 2025-10-07T11:53:01Z
+  Updated: 2025-10-12T20:18:46Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -3080,7 +3080,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £310.80 GBP
 - [Mango, Butter Organic (Buckets)](https://inky-ingredients.com/products/mango-butter-organic-buckets): Mango Butter Organic, sourced from quality mangoes, is a nourishing ingredient for skincare. Packed in convenient buckets, it offers a rich blend of vitamins and antioxidants, promoting skin moisture and elasticity. Its natural goodness enhances the luxurious feel of skincare formulations.
-  Updated: 2025-10-07T20:48:56Z
+  Updated: 2025-10-12T20:14:50Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -3323,7 +3323,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £40.80 GBP
 - [Lavender English, Essential Oil](https://inky-ingredients.com/products/lavender-english-essential-oil): English Lavender Essential Oil is a classic with versatile benefits. Its calming aroma promotes relaxation and soothes the senses. With antibacterial properties, it's an ideal addition to aromatherapy blends, skincare formulations, and products aiming for a serene ambiance.
-  Updated: 2025-10-09T10:15:30Z
+  Updated: 2025-10-12T22:55:26Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -3536,7 +3536,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £36.76 GBP
 - [Cucumber Oil, Cold Pressed](https://inky-ingredients.com/products/cucumber-oil-cold-pressed): Cold-pressed Cucumber Oil is a lightweight moisturiser with cooling properties. Its refreshing feel makes it perfect for skincare, especially in soothing and hydrating sensitive skin.
-  Updated: 2025-10-02T23:25:21Z
+  Updated: 2025-10-12T20:18:46Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -4214,7 +4214,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £235.08 GBP
 - [Broccoli Seed Oil, Cold Pressed Organic](https://inky-ingredients.com/products/broccoli-seed-oil-cold-pressed-organic): Organic and cold-pressed, Broccoli Seed Oil is a lightweight moisturiser. Rich in antioxidants and vitamins, it supports skin health, providing a non-greasy nourishment for a radiant and youthful complexion.
-  Updated: 2025-10-09T22:00:47Z
+  Updated: 2025-10-12T17:10:50Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -4835,7 +4835,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £126.00 GBP
 - [Lavender Bulgarian, Essential Oil](https://inky-ingredients.com/products/lavender-bulgarian-essential-oil): Lavender Bulgarian Essential Oil, renowned for its calming and floral fragrance, is a versatile aromatherapy ingredient. With potential relaxation benefits, it promotes a serene atmosphere, making it a popular choice for diverse skincare and wellness formulations.
-  Updated: 2025-10-10T18:36:50Z
+  Updated: 2025-10-12T22:55:26Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -5225,7 +5225,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £35.50 GBP
 - [Safflower High Linoleic Oil, Cold Pressed Organic](https://inky-ingredients.com/products/safflower-high-linoleic-oil-cold-pressed-organic): Organic cold-pressed Safflower High Linoleic Oil, perfect for skincare. Lightweight and non-comedogenic, it moisturises without clogging pores, promoting a healthy complexion with organic integrity.
-  Updated: 2025-10-11T12:14:26Z
+  Updated: 2025-10-12T17:22:00Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -6217,7 +6217,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £30.00 GBP
 - [Free Gift - Chaulmoogra Seed Oil, Cold Pressed - 50ml](https://inky-ingredients.com/products/free-gift-chaulmoogra-seed-oil-cold-pressed-50ml): A free gift on orders over £85. Cold-pressed Chaulmoogra Seed Oil is a traditional skincare remedy. Renowned for its therapeutic benefits, it soothes and nourishes the skin, making it a valuable addition to formulations targeting various skin concerns.
-  Updated: 2025-10-12T12:25:41Z
+  Updated: 2025-10-12T20:06:06Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -6294,7 +6294,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £39.50 GBP
 - [Olive BP73 Oil, Refined](https://inky-ingredients.com/products/olive-bp73-oil-refined): Refined Olive BP73 Oil is a versatile oil with various applications. Extracted from quality olives, it is refined to meet industry standards. This oil is appreciated for its stability and suitability for use in a range of cosmetic and culinary formulations.
-  Updated: 2025-10-09T10:15:30Z
+  Updated: 2025-10-12T20:06:07Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
