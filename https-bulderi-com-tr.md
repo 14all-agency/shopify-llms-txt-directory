@@ -10,7 +10,7 @@
 - Contact Email: info@bulderi.com.tr
 - Contact Phone: +908503089625
 - Address: Yakuplu Mah. Hürriyet Blv. Skyport Residence No:1/151 Beylikdüzü, İstanbul / Türkiye
-- Updated At: 2025-10-13T00:19:46.460Z
+- Updated At: 2025-10-13T00:35:16.317Z
 
 ## Products
 
@@ -980,6 +980,7 @@
 - [TikTok] (https://www.tiktok.com/@bulderi)
 - [YouTube] (https://www.youtube.com/@buldericomtr)
 - [Pinterest] (https://www.pinterest.com/buldericomtr)
+- [Google Maps] (https://maps.app.goo.gl/2Gwmtz4YM8D6yggN8)
 
 ## Marketplaces
 - [Hepsiburada] (https://app.hb.biz/seY6lTY7Bmn6/)
