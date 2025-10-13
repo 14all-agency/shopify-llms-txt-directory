@@ -6,12 +6,12 @@
 - Timezone: Europe/Athens
 - Created At: 2023-12-24T09:13:07Z
 - Contact Email: info@printexplore9.com
-- Updated At: 2025-10-12T00:00:33.397Z
+- Updated At: 2025-10-13T08:00:30.699Z
 
 ## Products
 
 - [Adorable  Bear Phone Case](https://printexplore9.com/products/tough-cases-print-explore): Add charm & protection with our cute bear phone cases—sleek, durable, and designed to keep your phone safe in style.
-  Updated: 2025-09-28T17:12:10Z
+  Updated: 2025-10-12T09:54:41Z
   Vendor: Printify
   Product Type: Phone Case
   Availability: Available
@@ -23,7 +23,7 @@
     Availability: Available
     Price: $25.99 USD
 - [Cute Bear Bodysuit Soft and Durable Baby Outfit](https://printexplore9.com/products/baby-ribbed-bodysuit): Soft baby bodysuit with cute bear design gentle cotton fabric unisex fit and lap shoulders for easy changes.
-  Updated: 2025-09-28T17:54:12Z
+  Updated: 2025-10-12T09:52:47Z
   Vendor: Printify
   Product Type: Kids clothes
   Availability: Available
@@ -41,7 +41,7 @@
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/infant-baby-rib-bodysuit.jpg?v=1759082039
     Price: $27.98 USD
 - [Cute Bear Family  Toddler T-Shirt](https://printexplore9.com/products/toddler-t-shirt-print-explore): Cute bear Family toddler tee, soft cotton built to last. perfect for active kids. Perfect for playtime and daily wear.
-  Updated: 2025-09-28T17:50:52Z
+  Updated: 2025-10-12T09:53:30Z
   Vendor: Printify
   Product Type: Kids clothes
   Availability: Available
@@ -63,35 +63,35 @@
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/toddler-t-shirt-printandexplore-2.jpg?v=1759081105
     Price: $28.95 USD
 - [Canvas Lunch Bag with Strap](https://printexplore9.com/products/canvas-lunch-bag-with-strap): Shop our eco-friendly canvas lunch bag with strap. Designed for durability and reusability. best for your daily meals and snacks.
-  Updated: 2025-09-28T17:55:28Z
+  Updated: 2025-10-12T09:54:42Z
   Vendor: Printify
   Product Type: Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/lunch-bag-with-strap-printandexplore-1.jpg?v=1722870998
   Price: $14.30 USD
 - [Cute Bears Camping Mug](https://printexplore9.com/products/camping-mug-cute-bears-print-explore): Adventure-ready Cute Bears Camping Mug—lightweight, durable 12oz stainless steel, BPA & lead-free for safe everyday sips!
-  Updated: 2025-09-28T17:50:08Z
+  Updated: 2025-10-12T09:54:41Z
   Vendor: Printify
   Product Type: Mug
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/camping-mug-cute-bears.jpg?v=1759081808
   Price: $16.55 USD
 - [Cotton Tote Bag for Everyday Use](https://printexplore9.com/products/cotton-tote-bag-print-explore): This cotton tote bag is perfect blend of style and eco-friendliness. Made from durable cotton material, these bags are ideal for shopping, errands, and carrying your essentials in an environmentally conscious way.
-  Updated: 2025-09-28T17:50:44Z
+  Updated: 2025-10-12T09:52:47Z
   Vendor: Printify
   Product Type: Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/cotton-tote-bag.jpg?v=1759081843
   Price: $15.95 USD
 - [Microfiber Tea Towel](https://printexplore9.com/products/microfiber-tea-towel-print-explore): Add charm with our blue flowers tea towel—quick-dry, soft & durable. Perfect for everyday messes or a fresh pop of kitchen style!
-  Updated: 2025-09-28T17:49:52Z
+  Updated: 2025-10-12T09:53:31Z
   Vendor: Printify
   Product Type: Home Decor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/microfiber-tea-towel.jpg?v=1759081792
   Price: $15.95 USD
 - [Youth Slide Sandals -famous footwear for kids](https://printexplore9.com/products/youth-slide-sandals): shop our cute and durable youth slide sandals designed for comfort and casual summer style. perfect for all day wear and fun adventures.
-  Updated: 2025-09-28T17:54:30Z
+  Updated: 2025-10-12T09:52:46Z
   Vendor: Printify
   Product Type: Shoes
   Availability: Available
@@ -121,7 +121,7 @@
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/youth-pu-slide-sandals-cute_bears.jpg?v=1759082059
     Price: $29.99 USD
 - [Baby Ribbed Bodysuit - Comfort and style](https://printexplore9.com/products/baby-rib-bodysuit-bears-adorable-comfort-for-your-little-one-print-explore): Made from gentle -stretchy fabric.  this Baby Rib Bodysuit provides comfort all day. Ideal for newborns with easy-snap closures.
-  Updated: 2025-09-28T17:49:54Z
+  Updated: 2025-10-12T09:53:31Z
   Vendor: Printify
   Product Type: Kids clothes
   Availability: Available
@@ -139,7 +139,7 @@
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/baby-rib-bodysuit-bears-printandexplore-3.jpg?v=1759081626
     Price: $27.98 USD
 - [Blue Flowers Makeup Accessory Pouch Durable Lightweight](https://printexplore9.com/products/accessory-pouch-print-explore): Durable lightweight makeup pouch with blue flowers design secure zipper multiple sizes eco-friendly and made in the USA.
-  Updated: 2025-09-28T17:49:38Z
+  Updated: 2025-10-12T09:52:46Z
   Vendor: Printify
   Product Type: Bags
   Availability: Available
@@ -153,7 +153,7 @@
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/accessory-pouch-printandexplore-1.jpg?v=1759081777
     Price: $11.95 USD
 - [Toddler Bear Family short sleeve tee](https://printexplore9.com/products/toddler-short-sleeve-tee-print-explore): Toddler Bear Family Shirt – soft Bella | Canvas, extra-light fabric, tear-away label, made & shipped in the USA.
-  Updated: 2025-09-28T17:50:47Z
+  Updated: 2025-10-12T09:52:47Z
   Vendor: Printify
   Product Type: Kids clothes
   Availability: Available
@@ -191,14 +191,14 @@
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/toddler-short-sleeve-tee.jpg?v=1759081846
     Price: $16.02 USD
 - [Ceramic Mug "Follow Me](https://printexplore9.com/products/ceramic-mug-follow-me-11oz-print-explore): Sip in style with our colorful 11oz "Follow Me" mug – lead-free, BPA-free  microwave & dishwasher safe. Fun, safe and built to last.
-  Updated: 2025-09-28T17:50:13Z
+  Updated: 2025-10-12T09:52:46Z
   Vendor: Printify
   Product Type: Mug
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/ceramic-mug-follow-me.jpg?v=1759081813
   Price: $7.33 USD
 - [Womens Ideal Racerback Tank](https://printexplore9.com/products/womens-ideal-racerback-tank-print-explore): Flatter your figure with our Blue Flowers slim-fit racerback tank—ultra-lightweight breathable fabric and tear-away label for all-day comfort!
-  Updated: 2025-09-28T17:51:59Z
+  Updated: 2025-10-12T09:54:41Z
   Vendor: Printify
   Product Type: Tank Top
   Availability: Available
@@ -224,21 +224,21 @@
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/women-s-ideal-racerback_Tank_Blue_Flowers.jpg?v=1759081919
     Price: $23.95 USD
 - [Scented Soy Candle 9oz](https://printexplore9.com/products/scented-soy-candle-9oz-print-explore): Relax with our eco friendly soy candle clean burn 50 to 60 hours Bear Family design and 5 delightful scents to brighten your space.
-  Updated: 2025-09-28T17:50:29Z
+  Updated: 2025-10-12T09:54:41Z
   Vendor: Printify
   Product Type: Home Decor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/scented-soy-candle-9oz.jpg?v=1759081828
   Price: $18.65 USD
 - [Organic Canvas Tote Bags – Stay with Green](https://printexplore9.com/products/organic-canvas-tote-bags): Shop our stylish organic canvas tote bags and embrace a greener lifestyle. Perfect for shopping, travel, and everyday use—stay with green!
-  Updated: 2025-09-28T17:56:01Z
+  Updated: 2025-10-12T09:52:46Z
   Vendor: Printify
   Product Type: Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/organic-canvas-tote-bag.jpg?v=1759082147
   Price: $34.83 USD
 - [Kiss Cute Stickers](https://printexplore9.com/products/kiss-cute-stickers): Add charm with our cute bear kiss-cut stickers! Perfect for personalizing your gear and spreading joy. Grab your favorites now!
-  Updated: 2025-09-28T17:11:45Z
+  Updated: 2025-10-12T09:54:41Z
   Vendor: Printify
   Product Type: Paper products
   Availability: Available
@@ -250,7 +250,7 @@
     Availability: Available
     Price: $2.32 USD
 - [Tiger Toddler Hoodie — Durable, Cozy, and Stylish](https://printexplore9.com/products/toddler-pullover-fleece-hoodie-print-explore): Toddler hoodie with fun tiger design soft cotton blend durable stitching and side pockets perfect for comfort and style.
-  Updated: 2025-09-30T05:38:33Z
+  Updated: 2025-10-12T09:53:31Z
   Vendor: Printify
   Product Type: Kids clothes
   Availability: Available
@@ -268,14 +268,14 @@
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/toddler-pullover-fleece-hoodie-printandexplore-2.jpg?v=1759081320
     Price: $39.95 USD
 - [Outdoor drawstring bag](https://printexplore9.com/products/outdoor-drawstring-bag-print-explore): Carry your essentials in style with our compact drawstring bags—perfect for gym, errands, or travel with easy, hands-free convenience!
-  Updated: 2025-09-29T07:12:07Z
+  Updated: 2025-10-12T09:52:46Z
   Vendor: Printify
   Product Type: Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/outdoor-drawstring-bag-printandexplore-2.jpg?v=1759081405
   Price: $17.53 USD
 - [Unisex Crewneck Sweatshirt](https://printexplore9.com/products/unisex-heavy-blend-crewneck-sweatshirt-print-explore): Stay warm and cozy in our unisex crewneck sweatshirt made from soft 50/50 cotton-poly blend—durable comfort perfect for chilly days.
-  Updated: 2025-09-28T17:51:55Z
+  Updated: 2025-10-12T09:53:30Z
   Vendor: Printify
   Product Type: Sweatshirt
   Availability: Available
@@ -305,7 +305,7 @@
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/unisex-heavy-Blend_Crewneck_Sweatshirt_LADY.jpg?v=1759081914
     Price: $39.95 USD
 - [Womens Flowy Racerback Tank](https://printexplore9.com/products/womens-flowy-racerback-tank-print-explore): Give the perfect holiday gift! This women's flowy racerback tank flatters every silhouette—stylish -sporty & ultra-comfy!
-  Updated: 2025-09-28T17:52:18Z
+  Updated: 2025-10-12T09:54:42Z
   Vendor: Printify
   Product Type: Tank Top
   Availability: Available
@@ -335,7 +335,7 @@
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/women_s_Flowy_Racerbank_Tank_Lady_in_Tattoo.jpg?v=1759081938
     Price: $29.95 USD
 - [Unisex Moisture Wicking Tee](https://printexplore9.com/products/unisex-moisture-wicking-tee-print-explore): Stay cool and vibrant with our unisex moisture-wicking Sport-Tek® tee—lightweight, breathable  and color-locking for all-day comfort!
-  Updated: 2025-09-28T17:51:59Z
+  Updated: 2025-10-12T09:53:31Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
@@ -365,21 +365,21 @@
     Availability: Available
     Price: $29.95 USD
 - [Cozy Up in Style with Plush Square Pillows](https://printexplore9.com/products/spun-polyester-square-pillow-1): Elevate your space with plush, supportive square pillows—soft-touch feel, lasting shape, and elegant style for ultimate relaxation.
-  Updated: 2025-09-28T17:50:11Z
+  Updated: 2025-10-12T09:54:42Z
   Vendor: Printify
   Product Type: Home Decor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Spun_Polyester_Pillow-Blue_Flowers.jpg?v=1759081811
   Price: $21.87 USD
 - [Eco-Friendly Soy Wax](https://printexplore9.com/products/scented-soy-candle-9oz-print-explore-1): Eco-friendly Apple Harvest soy candles with clean cotton wick 50-60 hrs burn 5 relaxing scents perfect for cozy natural vibes!
-  Updated: 2025-09-28T17:50:23Z
+  Updated: 2025-10-12T09:52:47Z
   Vendor: Printify
   Product Type: Home Decor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Scented_Soy_Candle_pink_flowers.jpg?v=1759081823
   Price: $18.65 USD
 - [Cosmic Bloom Men’s Garment Dyed Cotton T-Shirt](https://printexplore9.com/products/mens-cotton-t-shirt-print-explore): Stay comfortable and stylish in the Cosmic Bloom garment dyed cotton tee with a vibrant purple fractal design relaxed fit and pre-shrunk fabric for lasting shape.
-  Updated: 2025-09-28T17:45:00Z
+  Updated: 2025-10-12T09:53:30Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
@@ -413,7 +413,7 @@
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/men-s-cotton-t-shirt-printandexplore-2.jpg?v=1759081475
     Price: $26.95 USD
 - [Phone Case](https://printexplore9.com/products/tough-cases-print-explore-1): Shield your phone in style with a  pink heart design dual-layer protection sleek glossy or matte. precise cutouts wireless charging.
-  Updated: 2025-09-28T17:11:46Z
+  Updated: 2025-10-12T09:54:41Z
   Vendor: Printify
   Product Type: Phone Case
   Availability: Available
@@ -425,14 +425,14 @@
     Availability: Available
     Price: $23.88 USD
 - [Spacious & Durable Weekender Tote](https://printexplore9.com/products/weekender-bag-print-explore): Escape in style with this spacious blue floral Weekender Tote—durable, comfy, and chic. Your perfect travel companion awaits!
-  Updated: 2025-09-28T17:52:23Z
+  Updated: 2025-10-12T09:54:41Z
   Vendor: Printify
   Product Type: Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/weekender-bag-Blue_Flowers.jpg?v=1759081942
   Price: $39.95 USD
 - [Dual-layer Phone Case](https://printexplore9.com/products/tough-cases-print-explore-2): Protect your phone with the vibrant “Lady in Colors” case! Dual-layer defense, matte or glossy finish. Apple- Samsung & Google devices.
-  Updated: 2025-09-28T17:51:19Z
+  Updated: 2025-10-12T09:53:31Z
   Vendor: Printify
   Product Type: Phone Case
   Availability: Available
@@ -444,7 +444,7 @@
     Availability: Available
     Price: $25.99 USD
 - [Unisex Softstyle T-Shirt - Classic & Ultra-Soft Feel](https://printexplore9.com/products/unisex-softstyle-t-shirt-print-explore): Enjoy casual comfort with the Gildan Softstyle 64000 tee made from 100% ring-spun cotton. Lightweight fabric soft feel and durable ribbed collar for lasting wear.
-  Updated: 2025-09-28T17:52:06Z
+  Updated: 2025-10-12T09:52:46Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
@@ -474,28 +474,28 @@
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/unisex-softstyle-t-shirt-_Lady_in_Tattoo.jpg?v=1759081926
     Price: $29.95 USD
 - [Floral Scented Soy Candle](https://printexplore9.com/products/scented-soy-candle-9oz-print-explore-2): Experience pure bliss with our floral soy candle—natural wax |long burn |cotton wick, stylish jar and 5 refreshing scents to uplift your space!
-  Updated: 2025-09-28T17:50:17Z
+  Updated: 2025-10-12T09:52:46Z
   Vendor: Printify
   Product Type: Home Decor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Scented_Soy_Candle.jpg?v=1759081817
   Price: $18.65 USD
 - [Ceramic Mug- inspirational](https://printexplore9.com/products/ceramic-mug-inspirational-11oz-print-explore): Kickstart your day with our vibrant “Wake Up and Smell the Coffee” mug—durable, safe, and made for your perfect cozy moment!
-  Updated: 2025-09-28T17:50:25Z
+  Updated: 2025-10-12T09:52:46Z
   Vendor: Printify
   Product Type: Mug
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/ceramic-mug-inspirational.jpg?v=1759081824
   Price: $8.95 USD
 - [Matte Canvas stretched](https://printexplore9.com/products/matte-canvas-stretched-1-25-print-explore): Add vibrant energy with the eco-friendly "Lady in Colors" canvas—durable, stylish, and perfect for any space or style!
-  Updated: 2025-09-28T17:45:06Z
+  Updated: 2025-10-12T09:52:47Z
   Vendor: Printify
   Product Type: Canvas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/matte-canvas-stretched-1-25-printandexplore-2.jpg?v=1759081505
   Price: $29.95 USD
 - [Wooden Wall Clock](https://printexplore9.com/products/wall-clock-print-explore): Add timeless elegance with our silent wooden wall clock—premium craftsmanship brings calm style and charm to any room.
-  Updated: 2025-09-28T17:52:30Z
+  Updated: 2025-10-12T09:52:47Z
   Vendor: Printify
   Product Type: Home Decor
   Availability: Available
@@ -508,21 +508,21 @@
     Availability: Available
     Price: $39.99 USD
 - [Blue Flowers Comforter | Cozy Lightweight Warmth](https://printexplore9.com/products/comforter): Enjoy cozy warmth and softness with the Blue Flowers Comforter. Lightweight, fluffy, and perfect for peaceful nights and relaxing mornings.
-  Updated: 2025-09-28T17:50:31Z
+  Updated: 2025-10-12T09:53:30Z
   Vendor: Printify
   Product Type: Home Decor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/comforter-blue-flowers.jpg?v=1759081832
   Price: $139.95 USD
 - [Ceramic Mug Heart](https://printexplore9.com/products/ceramic-mug-heart-11oz-print-explore): Sip in style with our handmade ceramic mugs—each crafted by artisans to bring charm, warmth, and artistry to every morning.
-  Updated: 2025-09-28T17:50:18Z
+  Updated: 2025-10-12T09:53:31Z
   Vendor: Printify
   Product Type: Mug
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/ceramic-mug-heart.jpg?v=1759081818
   Price: $9.95 USD
 - [Cozy Warmth Hoodie | Soft Durable Sweatshirt for Everyday Comfort](https://printexplore9.com/products/unisex-heavy-blend-hooded-sweatshirt-print-explore): Stay warm and stylish with this cozy unisex hoodie featuring a soft fabric blend roomy pocket and adjustable hood for comfort on chilly days.
-  Updated: 2025-09-28T17:38:48Z
+  Updated: 2025-10-12T09:53:30Z
   Vendor: Printify
   Product Type: Hoodie
   Availability: Available
@@ -552,7 +552,7 @@
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/unisex-heavy-blendtm-hooded-sweatshirt-printandexplore-1.jpg?v=1759081114
     Price: $46.32 USD
 - [Women’s Boxy T-Shirt](https://printexplore9.com/products/womans-t-shirt-print-explore): Stand out in ultra-soft 100% Airlume cotton boxy tee with relaxed fit and dropped shoulders—effortless style and vibrant elegance all day long!
-  Updated: 2025-09-28T17:52:11Z
+  Updated: 2025-10-12T09:52:46Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
@@ -578,14 +578,14 @@
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/woman-s-t-shirt-Lady_in_Colors.jpg?v=1759081930
     Price: $26.95 USD
 - [Pink Heart Personalized Bookmark](https://printexplore9.com/products/bookmark-1): Elevate your reading with a sleek aluminum bookmark featuring a pink heart design and secure top slot the perfect gift for book lovers!
-  Updated: 2025-09-28T17:46:54Z
+  Updated: 2025-10-12T09:52:47Z
   Vendor: Printify
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/bookmark-printandexplore-1.jpg?v=1759081600
   Price: $9.25 USD
 - [Kiss-Cut Vinyl Sticker](https://printexplore9.com/products/kiss-cut-stickers-13): Cozy up your space with our fun Brown Bears Family vinyl sticker! Durable 3M adhesive sticks strong yet peels off cleanly every time.
-  Updated: 2025-09-28T17:51:18Z
+  Updated: 2025-10-12T09:53:30Z
   Vendor: Printify
   Product Type: Paper products
   Availability: Available
@@ -598,7 +598,7 @@
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Kiss_Cut_Stickers.jpg?v=1759081877
     Price: $2.32 USD
 - [All-Day Comfort – Floral Bloom Tee in Soft Airlume Cotton](https://printexplore9.com/products/cotton-t-shirt-unisex-print-explore): Experience unmatched comfort with 100% Airlume cotton. Lightweight fabric keeps you cool. Stunning floral design on a rich purple background. Stylish and soft.
-  Updated: 2025-09-28T17:50:36Z
+  Updated: 2025-10-12T09:54:42Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
@@ -632,11 +632,11 @@
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/cotton-t-shirt-unisex.jpg?v=1759081836
     Price: $26.95 USD
 - [Unisex  Selfcare Priority Cotton T-shirt](https://printexplore9.com/products/unisex-cotton-t-shirt-print-explore): Unises Selfcare Priority Cotton T-shirt, Made from 100% combed ring-spun organic cotton, for lasting comfort and durability! Made in USA.
-  Updated: 2025-10-03T10:57:37Z
+  Updated: 2025-10-12T09:54:48Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Selfcare_Organic_Tshirt.png?v=1759488799
+  Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Selfcare_Organic_Tshirt.png?v=1760262887
   - [White / S](https://printexplore9.com/products/unisex-cotton-t-shirt-print-explore?variant=45063003930891)
     Availability: Available
     Price: $29.95 USD
@@ -653,7 +653,7 @@
     Availability: Available
     Price: $29.95 USD
 - [Soft Style T-Shirts](https://printexplore9.com/products/soft-style-t-shirts): Experience unmatched comfort and style with our Soft Style T-Shirts—unisex designs perfect for every wardrobe and all occasions!
-  Updated: 2025-09-28T19:10:53Z
+  Updated: 2025-10-12T09:53:31Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
@@ -767,7 +767,7 @@
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/unisex-t-shirt-softstyle-printandexplore-6.jpg?v=1722871518
     Price: $29.95 USD
 - [Men's  Garment Dyed T-Shirt](https://printexplore9.com/products/mens-garment-dyed-t-shirt): Comfortable men’s t-shirt with bold tiger design relaxed fit durable fabric pre-shrunk shape-retaining ethically made perfect for everyday wear.
-  Updated: 2025-09-28T17:54:46Z
+  Updated: 2025-10-12T09:53:30Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
@@ -801,7 +801,7 @@
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Men_s_Garment_Dyed_T-Shirt.jpg?v=1759082075
     Price: $29.95 USD
 - [Best Men's organic Cotton T-shirts-Printexplore](https://printexplore9.com/products/best-mens-organic-cotton-t-shirts): shop the Best Men's Organic Cotton T-shirts offering unparalled comfort and ec--friendly materials.Elevate your wardrobe with sustainable choices.
-  Updated: 2025-09-28T18:02:07Z
+  Updated: 2025-10-12T09:53:31Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
@@ -867,14 +867,14 @@
     Availability: Available
     Price: $29.95 USD
 - [The Best High Waisted Yoga Leggings for Comfort](https://printexplore9.com/products/best-high-waisted-yoga-leggings): Get the best high-waisted yoga leggings that blend fashin and function. achieve the fitness goals with comfort-confidence and style.
-  Updated: 2025-09-28T17:54:23Z
+  Updated: 2025-10-12T09:53:31Z
   Vendor: Printify
   Product Type: All Over Prints
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/high-waisted-yoga-leggings.jpg?v=1759082047
   Price: $53.48 USD
 - [Unisex Heavy Blend Crewneck Sweatshirt](https://printexplore9.com/products/unisex-heavy-blend-crewneck-sweatshirt): Stay cozy and stylish with this durable crewneck sweatshirt made from a warm cotton-polyester blend. Soft, long-lasting, and itch-free comfort for colder days.
-  Updated: 2025-09-28T19:10:25Z
+  Updated: 2025-10-12T09:53:30Z
   Vendor: Printify
   Product Type: Sweatshirt
   Availability: Available
@@ -972,7 +972,7 @@
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Unisex_-Better_days_ahead_Sweatshirt.jpg?v=1759082302
     Price: $34.23 USD
 - [Colorful Love Letter Pillows | Stylish Room Decor](https://printexplore9.com/products/spun-polyester-square-pillow-2): Vibrant double-sided pillows with love-letter designs. 100% polyester, concealed zippers, and available in various sizes to enhance any room.
-  Updated: 2025-09-28T19:10:13Z
+  Updated: 2025-10-12T09:52:46Z
   Vendor: Printify
   Product Type: Home Decor
   Availability: Available
@@ -992,14 +992,14 @@
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Spun_Polyester_Square_Pillow.jpg?v=1759081805
     Price: $31.77 USD
 - [Insulated Travel Mug 10oz](https://printexplore9.com/products/insulated-travel-mug-10oz-print-explore): Sip in style on the go! This sleek, spill-proof tumbler keeps drinks hot or cold for hours— durable, BPA-free and beautifully finished
-  Updated: 2025-09-28T17:51:13Z
+  Updated: 2025-10-12T09:53:31Z
   Vendor: Printify
   Product Type: Mug
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/insulated-travel-mug-10oz.jpg?v=1759081873
   Price: $32.12 USD
 - [Unisex Heavy Blend™ Crewneck Sweatshirt](https://printexplore9.com/products/lady-in-tattoo-unisex-heavy-blend™-crewneck-sweatshirt): Stand out with this Unisex Heavy Blend™ Crewneck Sweatshirt. Soft and cozy fabric for comfort. perfect for casual looks that make a statement.
-  Updated: 2025-09-28T17:48:13Z
+  Updated: 2025-10-12T09:52:47Z
   Vendor: Printify
   Product Type: Sweatshirt
   Availability: Available
@@ -1077,7 +1077,7 @@
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/lady-in-tattoo-unisex-heavy-blendtm-crewneck-sweatshirt-printandexplore-3.jpg?v=1759081667
     Price: $39.95 USD
 - [Ultra-Soft & Comfy Infant Baby Rib Bodysuit](https://printexplore9.com/products/pink-bears-infant-baby-rib-bodysuit-print-explore): Ultra-soft infant bodysuit with easy lap shoulders for quick changes. Made of 100% ring-spun cotton for ultimate comfort and gentle care. Perfect for your baby.
-  Updated: 2025-09-28T17:47:29Z
+  Updated: 2025-10-12T09:53:31Z
   Vendor: Printify
   Product Type: Kids clothes
   Availability: Available
@@ -1119,7 +1119,7 @@
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/pink-bears-infant-baby-rib-bodysuit-printandexplore-3.jpg?v=1759081600
     Price: $27.98 USD
 - [Personalized Toddler T-Shirt](https://printexplore9.com/products/tiger-in-glasses-toddler-t-shirt-print-explore): Keep your toddler comfy with this soft classic-fit tee featuring durable stitching and a vibrant Tiger in Glasses design. Perfect for playtime and everyday wear.
-  Updated: 2025-09-28T17:49:02Z
+  Updated: 2025-10-12T09:53:30Z
   Vendor: Printify
   Product Type: Kids clothes
   Availability: Available
@@ -1149,14 +1149,14 @@
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/tiger-in-glasses-toddler-t-shirt-printandexplore-4.jpg?v=1759081717
     Price: $12.28 USD
 - [All-Day Hot & Cold Insulated Tumbler – Durable Easy-Clean Drinkware](https://printexplore9.com/products/tumbler-20oz-print-explore): Keep drinks hot or cold all day with this durable 20oz insulated tumbler. Easy to clean and perfect for on-the-go hydration. Stylish and built to last.
-  Updated: 2025-09-28T19:09:45Z
+  Updated: 2025-10-12T09:53:30Z
   Vendor: Printify
   Product Type: Mug
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Tumbler_i_choose_love.jpg?v=1759081889
   Price: $34.60 USD
 - [Oversized Boxy Tee | Effortless Style & comfort](https://printexplore9.com/products/oversized-boxy-tees): Stay chic and comfortable with the Vibrant Elegance oversized boxy tee. Made from 100% Airlume cotton, it offers a soft, breathable fit for ultimate everyday ease.
-  Updated: 2025-09-28T17:55:23Z
+  Updated: 2025-10-12T09:52:47Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
@@ -1260,14 +1260,14 @@
     Availability: Available
     Price: $29.95 USD
 - [Organic Cotton Tote Bag](https://printexplore9.com/products/organic-canvas-tote-bag-print-explore-1): Make a bold statement with this 100% Organic Cotton Tote Bag designed for city life. vibrant elegance design. it's durable and stylish.
-  Updated: 2025-09-28T17:49:59Z
+  Updated: 2025-10-12T09:54:41Z
   Vendor: Printify
   Product Type: Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Organic_Canvas_Tote_Bag.jpg?v=1759081798
   Price: $34.83 USD
 - [Best women's Low-top Sneakers](https://printexplore9.com/products/best-womens-low-top-sneakers): Floral low-top sneakers with soft deodorant memory foam insoles and EVA shock-absorbing soles for all-day comfort and lightweight steps.
-  Updated: 2025-09-28T17:58:42Z
+  Updated: 2025-10-12T09:54:42Z
   Vendor: Printify
   Product Type: Shoes
   Availability: Available
@@ -1300,14 +1300,14 @@
     Availability: Available
     Price: $49.95 USD
 - [Cute Bears Family Suitcase](https://printexplore9.com/products/suitcase): Travel in style with this cute pink bears suitcase. swivel wheels and built-in lock & comfy handle for smooth and secure adventures!
-  Updated: 2025-09-28T18:03:12Z
+  Updated: 2025-10-12T09:54:42Z
   Vendor: Printify
   Product Type: Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/suitcase-Pink_Bears.jpg?v=1759082578
   Price: $223.88 USD
 - [Oversized Cotton Shirt | Comfort and Relaxed Fit](https://printexplore9.com/products/mens-heavy-oversized-tee-print-explore): Embrace comfort with our oversized boxy tees designed for relaxed fit. perfrect for lounging or casual outings. style meets ease effortlessly.
-  Updated: 2025-09-28T19:09:02Z
+  Updated: 2025-10-12T09:53:30Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
@@ -1430,56 +1430,56 @@
     Availability: Available
     Price: $23.63 USD
 - [Ultimate Comfort & Security Suitcase](https://printexplore9.com/products/suitcase-1): Travel easy with this lightweight suitcase that rolls smoothly and keeps your stuff safe. Stylish and tough—your perfect travel buddy for every trip.
-  Updated: 2025-09-28T18:02:11Z
+  Updated: 2025-10-12T09:53:31Z
   Vendor: Printify
   Product Type: Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Suitcase.jpg?v=1759082519
   Price: $239.95 USD
 - [Hyaluronic Acid Complex Serum](https://printexplore9.com/products/hyaluronic-acid-complex-serum-1oz-print-explore): Deeply hydrates- absorbs fast & leaves skin plump |soft and glowing. Packed with Squalane| Green Tea & Vitamin B5. All skin types!
-  Updated: 2025-09-28T18:01:05Z
+  Updated: 2025-10-12T09:54:42Z
   Vendor: Printify
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Hyaluronic_acid_Complex_Serum.jpg?v=1759081859
   Price: $36.20 USD
 - [Best  Hair Tonic for  Hair Growth](https://printexplore9.com/products/best-hair-tonic-for-hair-growth): Boost Hair growth with our vegan tonic enriched with Biotin Turmeric and Caffeine. Reduces thinning for thicker and healthier hair.
-  Updated: 2025-09-28T17:58:17Z
+  Updated: 2025-10-12T09:53:31Z
   Vendor: Printify
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Hair_growth_Tonic.jpg?v=1759082290
   Price: $31.90 USD
 - [Snail Mucin Facial Serum | Skin Care Formula](https://printexplore9.com/products/snail-mucin-facial-serum): Transform your skincare routine with our Snail Facial Serum designed  to nourish and repair the skin.
-  Updated: 2025-09-28T17:54:40Z
+  Updated: 2025-10-12T09:52:46Z
   Vendor: Printify
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Snail_Mucin_Facial_Serum.jpg?v=1759082074
   Price: $31.52 USD
 - [Vitamin Boost Serum | Skin Nutrition](https://printexplore9.com/products/vitamin-boost-serum): Combat dark spots and hyperpigmentation with our Vitamin Boost Serum. Enriched with vitamins C - E and Niacinamide for radiant skin.
-  Updated: 2025-09-28T18:02:35Z
+  Updated: 2025-10-12T09:52:46Z
   Vendor: Printify
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/12978514536144029197_2048.jpg?v=1759082555
   Price: $29.17 USD
 - [Calming Toner |Sensitive Skin](https://printexplore9.com/products/calming-toner-sensitive-skin-print-explore): Perfect for sensitive or acne-prone skin,our gentle formula calms redness, soothes inflammation, and leaves your skin refreshed, balanced, and glowing.
-  Updated: 2025-09-28T17:49:59Z
+  Updated: 2025-10-12T09:52:46Z
   Vendor: Printify
   Product Type: Beauty products
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Calming_Toner.jpg?v=1759081799
   Price: $23.18 USD
-- [Rejuvenating Retinol and Peptide Serum](https://printexplore9.com/products/rejuvenating-retinol-and-peptide-serum): Reveal youthful skin with the best retinol and peptide serum. Smooth fine lines and glow brighter with our top expert pick today.
-  Updated: 2025-09-28T18:00:58Z
+- [Rejuvenating Retinol and Peptide Serum| Radiant skin](https://printexplore9.com/products/rejuvenating-retinol-and-peptide-serum): Rejuvenating Retinol and Peptide Serum smooths fine lines, boosts skin firmness, and enhances your natural glow for youthful, radiant skin.
+  Updated: 2025-10-12T22:59:41Z
   Vendor: Printify
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Best_Retinol_and_Peptide_Serum.jpg?v=1759082110
   Price: $34.90 USD
-- [Women's Ideal Racerback Tank](https://printexplore9.com/products/womens-ideal-racerback-tank): Shop our Women's Ideal Racerback Tank for unmatched comfort and versatility. Perfect for any occasion, this tank is a must-have for your collection.
-  Updated: 2025-09-28T18:00:54Z
+- [Women’s Racerback Tank – Ultimate Comfort & Stylish Fit](https://printexplore9.com/products/womens-ideal-racerback-tank): Shop our Women's Ideal Racerback Tank for unmatched comfort and versatility. Perfect for any occasion, this tank is a must-have for your collection.
+  Updated: 2025-10-12T18:59:44Z
   Vendor: Printify
   Product Type: Tank Top
   Availability: Available
@@ -1509,7 +1509,7 @@
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/woman_s_ideal_Raceback_Tank-Black_Lady.jpg?v=1759082302
     Price: $22.95 USD
 - [Custom Phone Cases – Sleek Design & Superior Protection](https://printexplore9.com/products/tough-cases-print-explore-3): Personalize your phone with premium custom cases. Durable dual-layer. wireless charging compatible matte or glossy finishes for style.
-  Updated: 2025-09-28T19:08:20Z
+  Updated: 2025-10-12T09:54:42Z
   Vendor: Printify
   Product Type: Phone Case
   Availability: Available
@@ -1521,8 +1521,8 @@
   - [iPhone 15 / Matte](https://printexplore9.com/products/tough-cases-print-explore-3?variant=45614564933899)
     Availability: Available
     Price: $25.00 USD
-- [Flowy  Scoop Muscle Tee](https://printexplore9.com/products/womens-flowy-scoop-muscle-tank): Stay stylish and comfortable with our flowy muscle tee—lightweight, relaxed fit, and perfect for casual or athletic looks.
-  Updated: 2025-09-28T17:51:51Z
+- [Flowy  Scoop Muscle Tee | Lightweight, Stylish & Comfortable](https://printexplore9.com/products/womens-flowy-scoop-muscle-tank): Stay stylish and comfortable with our flowy muscle tee—lightweight, relaxed fit, and perfect for casual or athletic looks.
+  Updated: 2025-10-12T19:01:12Z
   Vendor: Printify
   Product Type: Tank Top
   Availability: Available
@@ -1572,14 +1572,14 @@
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/17890824552718949084_2048.jpg?v=1759081073
     Price: $33.72 USD
 - [Daily Moisturizer - Hydrating & Lightweight Skincare](https://printexplore9.com/products/daily-moisturizer-1-7oz-print-explore): Moisturize daily with this lightweight, non-greasy formula. Keeps skin soft and smooth, ideal for all skin types.
-  Updated: 2025-09-28T17:50:48Z
+  Updated: 2025-10-12T09:53:30Z
   Vendor: Printify
   Product Type: Beauty products
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Daily_Moisturizer.jpg?v=1759081847
   Price: $21.88 USD
-- [adidas® Unisex Sport T-shirt](https://printexplore9.com/products/adidas-unisex-sport-t-shirt-print-explore): this adidas® Unisex Sport T-shirt offers comfort and breathability. Made with moisture-wicking fabric to keep you dry. ideal for workouts.
-  Updated: 2025-09-28T17:49:50Z
+- [Adidas® Unisex Sport T-Shirt | Breathable Moisture-Wicking](https://printexplore9.com/products/adidas-unisex-sport-t-shirt-print-explore): this adidas® Unisex Sport T-shirt offers comfort and breathability. Made with moisture-wicking fabric to keep you dry. ideal for workouts.
+  Updated: 2025-10-12T19:03:14Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
@@ -1689,7 +1689,7 @@
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/10380875766604506267_2048.jpg?v=1759081550
     Price: $64.15 USD
 - [Adidas®  Women's Sports T-Shirt](https://printexplore9.com/products/womens-sports-t-shirt): Shop Adidas®  Unisex Women's Sports T-Shirt for a blend of performance and style. Perfect for any activity. These tees are must-have for your wardrobe.
-  Updated: 2025-09-28T17:59:40Z
+  Updated: 2025-10-12T09:53:30Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
@@ -1791,7 +1791,7 @@
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Adidas_t-shirt_performance_meets_sustainability.jpg?v=1759082379
     Price: $64.15 USD
 - [adidas® Fleece Hoodies - Warm and comfortable wear](https://printexplore9.com/products/adidas-fleece-hoodies): The adidas® Fleece Hoodies keeps you warm on chilly days. ideal for active wear. it has a soft interior and relaxed fit for comfort.
-  Updated: 2025-09-28T18:01:53Z
+  Updated: 2025-10-12T09:53:31Z
   Vendor: Printify
   Product Type: Hoodie
   Availability: Available
@@ -1920,8 +1920,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Adidas_Fleece_Hoodies.jpg?v=1759082487
     Price: $82.67 USD
-- [adidas® Sweatshirt | Sustainable & Cozy](https://printexplore9.com/products/adidas®-unisex-fleece-crewneck-sweatshirt): Stay cozy and stylish in this eco-friendly adidas® sweatshirt, crafted from BCI cotton and recycled polyester. Medium-heavy fabric and classic fit deliver lasting comfort and iconic flair.
-  Updated: 2025-09-28T17:49:41Z
+- [adidas® Sweatshirt | Sustainable & Cozy](https://printexplore9.com/products/adidas®-unisex-fleece-crewneck-sweatshirt): Adidas® Sweatshirt – Stay cozy and stylish in eco-friendly BCI cotton & recycled polyester, with medium-heavy fabric and a classic fit.
+  Updated: 2025-10-12T19:05:09Z
   Vendor: Printify
   Product Type: Sweatshirt
   Availability: Available
@@ -2054,15 +2054,15 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/6674904371883623272_2048.jpg?v=1759081781
     Price: $75.27 USD
-- [Hair Oil, 2oz](https://printexplore9.com/products/hair-oil-2oz): Vegan hair growth oil smooths frizz, boosts scalp health & locks in moisture for silky, strong, nourished hair.
-  Updated: 2025-09-28T17:50:54Z
+- [Vegan Hair Growth Oil | Smooth Frizz & Nourish Your Hair](https://printexplore9.com/products/hair-oil-2oz): Vegan hair growth oil smooths frizz, boosts scalp health & locks in moisture for silky, strong, nourished hair.
+  Updated: 2025-10-12T19:07:44Z
   Vendor: Printify
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Hair_Oil.jpg?v=1759081853
   Price: $27.35 USD
-- [Unisex CVC Jersey T Shirt](https://printexplore9.com/products/cvc-jersey-t-shirt): Shop our unisex CVC jersey T-shirt for a blend of softness and classic style. Ideal for daily wear. perfect addition to your wardrobe!
-  Updated: 2025-09-28T18:01:22Z
+- [Soft Unisex CVC Jersey T Shirt](https://printexplore9.com/products/cvc-jersey-t-shirt): Shop our unisex CVC jersey T-shirt for a blend of softness and classic style. Ideal for daily wear. perfect addition to your wardrobe!
+  Updated: 2025-10-12T19:06:25Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
@@ -2115,8 +2115,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/7916294390560664065_2048.jpg?v=1759082472
     Price: $25.65 USD
-- [Unisex Garment-Dyed Tank Top](https://printexplore9.com/products/unisex-garment-dyed-tank-top-print-explore): Experience ultimate comfort in our unisex garment-dyed tank top made from 100% ring-spun US cotton. eco-friendly dyes and relaxed fit.
-  Updated: 2025-09-28T17:51:46Z
+- [Unisex Garment-Dyed Tank Top | 100% US Cotton & Eco-Friendly](https://printexplore9.com/products/unisex-garment-dyed-tank-top-print-explore): Experience ultimate comfort in our unisex garment-dyed tank top made from 100% ring-spun US cotton. eco-friendly dyes and relaxed fit.
+  Updated: 2025-10-12T19:09:02Z
   Vendor: Printify
   Product Type: Tank Top
   Availability: Available
@@ -2245,7 +2245,7 @@
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Unisex_garment_-dyed_Tank_TOP.jpg?v=1759081906
     Price: $37.67 USD
 - [Accessory Pouch with T-Bottom | Stylish & Durable](https://printexplore9.com/products/accessory-pouch-w-t-bottom-print-explore): Stay organized in style with our T-bottom pouch—durable, elegant & compact. Perfect for makeup, stationery, or travel essentials.
-  Updated: 2025-09-28T17:39:18Z
+  Updated: 2025-10-12T09:52:47Z
   Vendor: Printify
   Product Type: Bags
   Availability: Available
@@ -2263,7 +2263,7 @@
     Availability: Available
     Price: $14.03 USD
 - [Modern Wooden Wall Clock- Lady in Colors](https://printexplore9.com/products/wall-clock-print-explore-1): Modern wooden wall clock with colorful Lady in Colors design. Silent, trendy and perfect for bedrooms, living rooms,  offices. Made in US.
-  Updated: 2025-09-28T17:38:48Z
+  Updated: 2025-10-12T09:53:30Z
   Vendor: Printify
   Product Type: Home Decor
   Availability: Available
@@ -2283,14 +2283,14 @@
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/2588225114535239615_2048.jpg?v=1759081116
     Price: $42.23 USD
 - [Gentle Face and Body Cleanser, 6oz](https://printexplore9.com/products/gentle-face-and-body-cleanser-6oz): Gentle Face and Body Cleanser, soothing vegan formula removes excess oil, refreshes skin, and is perfect for sensitive or acne-prone skin.
-  Updated: 2025-09-28T18:00:07Z
+  Updated: 2025-10-12T09:54:42Z
   Vendor: Printify
   Product Type: Beauty products
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/17260147587134241159_2048.jpg?v=1759082371
   Price: $21.35 USD
 - [Fresh Toner | Hydrating & Nourishing Facial Toner](https://printexplore9.com/products/fresh-hydrating-toner): Fresh Hydrating Toner deeply hydrates, soothes redness, and balances pH for healthy, glowing skin. Gentle, vegan formula for all skin types.
-  Updated: 2025-09-28T18:00:08Z
+  Updated: 2025-10-12T09:53:30Z
   Vendor: Printify
   Product Type: Beauty products
   Availability: Available
@@ -2309,10 +2309,10 @@
   Updated: 2025-09-28T17:11:35Z
   Total Products: 23
 - [Sustainable-Customized Accessories](https://printexplore9.com/collections/accessories): Discover sustainable and customized gifts for every occasion — from stylish wall clocks to eco-friendly camping mugs & more.
-  Updated: 2025-09-28T17:11:35Z
+  Updated: 2025-10-12T09:51:11Z
   Total Products: 31
 - [Kids Clothes Collection](https://printexplore9.com/collections/kids): Explore our delightful collection of baby clothes at a cheap price, designed to keep your little one stylish and comfortable without breaking the bank.
-  Updated: 2025-09-29T17:38:25Z
+  Updated: 2025-10-12T09:51:08Z
   Total Products: 7
 - [Shop Sustainable Apparel for Men & Women](https://printexplore9.com/collections/shop-now): Explore our sustainable apparel collection.  Enjoy stylish and eco friendly clothing made for comfort and everyday flair.
   Updated: 2025-09-28T17:11:36Z
@@ -2324,7 +2324,7 @@
   Updated: 2025-09-28T17:11:36Z
   Total Products: 4
 - [Suitcases](https://printexplore9.com/collections/suitcases)
-  Updated: 2025-09-28T17:11:36Z
+  Updated: 2025-10-12T09:51:10Z
   Total Products: 2
 - [Bags](https://printexplore9.com/collections/bags): Sustainable bags that turn heads Built to last with bold designs Elevate your everyday look while protecting the planet.
   Updated: 2025-09-28T17:11:36Z
@@ -2336,26 +2336,26 @@
   Updated: 2025-09-28T17:11:36Z
   Total Products: 9
 - [Sustainable Travel Essentials](https://printexplore9.com/collections/travel-essentials): Sustainable travel essentials combining function and eco care Designed for those who want to minimize their footprint on every trip.
-  Updated: 2025-09-28T17:11:36Z
+  Updated: 2025-10-12T09:51:12Z
   Total Products: 12
 - [SkinCare](https://printexplore9.com/collections/skincare-1): Hydrate- smooth and glow with organic skincare: fresh toner| retinol & peptide serum and snail serum for radiant, healthy skin.
-  Updated: 2025-09-28T17:11:36Z
+  Updated: 2025-10-12T09:26:02Z
   Total Products: 10
 
 ## Blogs
 
 - [News](https://printexplore9.com/blogs/news)
-  - [Style That Lasts Style That Matters](https://printexplore9.com/blogs/news/treat-yourself-and-the-planet-to-sustainable-style-40-off-free-shipping)
-    Updated: 2025-07-13T18:34:08Z
+  - [Style That Lasts, Fashion That Matters | Sustainable & Bold](https://printexplore9.com/blogs/news/treat-yourself-and-the-planet-to-sustainable-style-40-off-free-shipping): Style That Lasts, Fashion That Matters | Sustainable & Bold
+    Updated: 2025-10-12T18:56:49Z
     Author: NAIRA AVALIANI
-  - [Unleash Your Style Fearlessly](https://printexplore9.com/blogs/news/unleash-your-style-fearlessly-unique-designs-secure-shopping-sustainable-choices)
-    Updated: 2025-07-13T18:26:56Z
+  - [Unleash Your Style Fearlessly | Bold & Guilt-Free Fashion](https://printexplore9.com/blogs/news/unleash-your-style-fearlessly-unique-designs-secure-shopping-sustainable-choices): Unleash Your Style Fearlessly | Bold & Guilt-Free Fashion
+    Updated: 2025-10-12T18:53:59Z
     Author: NAIRA AVALIANI
-  - [Mother's day savings](https://printexplore9.com/blogs/news/make-moms-heart-sing-unique-designs-unbeatable-savings-the-gift-of-security): Mother's day savings
-    Updated: 2025-08-12T11:26:16Z
+  - [Celebrate Mom: Exclusive Mother’s Day Discounts & Deals](https://printexplore9.com/blogs/news/make-moms-heart-sing-unique-designs-unbeatable-savings-the-gift-of-security): Celebrate Mom: Exclusive Mother’s Day Discounts & Deals
+    Updated: 2025-10-12T18:51:35Z
     Author: NAIRA AVALIANI
-  - [Printexplore : USA-Made Sustainable Apparel & Organic Skincare](https://printexplore9.com/blogs/news/press-release-printexplore-usa-made-sustainable-apparel-skincare): Printexplore : USA-Made Sustainable Apparel & Organic Skincare
-    Updated: 2025-09-06T21:01:59Z
+  - [Printexplore: US Sustainable Apparel & Organic Skincare](https://printexplore9.com/blogs/news/press-release-printexplore-usa-made-sustainable-apparel-skincare): Printexplore: US Sustainable Apparel & Organic Skincare
+    Updated: 2025-10-12T18:50:09Z
     Author: NAIRA AVALIANI
 
 ## Store Pages
@@ -2364,18 +2364,18 @@
   Updated: 2024-10-06T07:02:17Z
 - [About Us - Best Print on Demand Products Store](https://printexplore9.com/pages/about-us): We stand behind our products! At Print & Explore 9, we’re more than just a store—we’re your go-to destination for personalized products that enhanc...
   Updated: 2025-09-25T12:30:45Z
-- [Shipping Policy](https://printexplore9.com/pages/shipping-policy): At Print & Explore9, we're committed to ensuring a seamless shopping experience for our valued customers. Here's a brief overview of our shipping p...
-  Updated: 2025-09-25T12:24:58Z
-- [FAQs](https://printexplore9.com/pages/faqs): 1. How can I place an order? To place an order, simply browse our online store, select the items you love, choose your size, and click "Add to Cart...
-  Updated: 2024-03-06T03:31:08Z
+- [Shipping Policy – Delivery Information | Printexplore9](https://printexplore9.com/pages/shipping-policy): At Print & Explore9, we're committed to ensuring a seamless shopping experience for our valued customers. Here's a brief overview of our shipping p...
+  Updated: 2025-10-12T09:49:23Z
+- [FAQs – Everything You Need to Know About Printexplore 9](https://printexplore9.com/pages/faqs): 1. How can I place an order? To place an order, simply browse our online store, select the items you love, choose your size, and click "Add to Cart...
+  Updated: 2025-10-12T09:47:15Z
 - [Loyalty Program - Earn Rewards Today - Join For Free](https://printexplore9.com/pages/loyalty-program): 
   Updated: 2024-10-06T07:11:55Z
 - [Size chart](https://printexplore9.com/pages/size-chart): Size Chest Width (inches) Length (inches) Small 34-36 28 Medium 38-40 29 Large 42-44 30 XLarge 46-48 31 XXLarge 50-52 32
   Updated: 2024-12-05T18:55:36Z
-- [Size chart Hoodies](https://printexplore9.com/pages/size-chart-hoodies)
-  Updated: 2024-12-05T19:12:48Z
-- [Size Chart](https://printexplore9.com/pages/size-chart-1)
-  Updated: 2025-01-12T10:30:48Z
+- [Hoodie Size Chart – Find Your Perfect Fit Guide](https://printexplore9.com/pages/size-chart-hoodies): 
+  Updated: 2025-10-12T09:44:52Z
+- [T-Shirt Size Chart – Fit Guide by Printexplore 9](https://printexplore9.com/pages/size-chart-1): 
+  Updated: 2025-10-12T09:42:32Z
 - [Information for AI Tools – AI Disclosure File](https://printexplore9.com/pages/llms-txt): Printexplore9 Your destination for organic skincare and sustainable fashion. This page provides instructions for Large Language Model (LLM) crawler...
   Updated: 2025-08-12T11:41:30Z
 
