@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-10-03T06:30:37Z
 - Contact Email: mandiemaddox@mystichiddengem.com
-- Updated At: 2025-10-12T16:00:28.390Z
+- Updated At: 2025-10-13T08:00:28.871Z
 
 ## Products
 
@@ -1046,6 +1046,64 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/12651550852382776664_2048.jpg?v=1760131999
     Price: $46.98 USD
+- [Deadly Angel Unisex Cotton Tee, Graphic Tee, Casual Wear, Streetwear, Cool T-shirt, Gift for Him/Her](https://lachrymalgems.store/products/deadly-angel-unisex-cotton-tee-graphic-tee-casual-wear-streetwear-cool-t-shirt-gift-for-him-her): Introducing a stylish Unisex Heavy Cotton Tee that combines comfort and personality effortlessly. This tee showcases an eye-catching design that speaks to individual expression, making it a perfect staple for any wardrobe. Whether you're dressing up for a casual day out or lounging at home, this shirt ensures you feel confident and relaxed. Perfect for art lovers, trendsetters, and anyone who enjoys making a bold statement, it’s a fantastic choice for gatherings, birthdays, and creative celebrations. Celebrate life’s moments and embrace your unique style!Product features- Shoulder tape for added durability and comfort- Seamless design reduces waste and enhances aesthetics- Elastic ribbed collar maintains shape- Made from strong, smooth fabric perfect for printing- Classic fit for relaxed, all-day wearCare instructions- Non-chlorine: bleach as needed- Do not iron- Do not dryclean- Machine wash: cold (max 30C or 90F)- Tumble dry: low heat
+  Updated: 2025-10-13T00:29:22Z
+  Vendor: Printify
+  Product Type: T-Shirt
+  Availability: Available
+  - [Black / S](https://lachrymalgems.store/products/deadly-angel-unisex-cotton-tee-graphic-tee-casual-wear-streetwear-cool-t-shirt-gift-for-him-her?variant=47201710309621)
+    Availability: Available
+    Price: $36.35 USD
+  - [Black / M](https://lachrymalgems.store/products/deadly-angel-unisex-cotton-tee-graphic-tee-casual-wear-streetwear-cool-t-shirt-gift-for-him-her?variant=47201710342389)
+    Availability: Available
+    Price: $36.35 USD
+  - [White / L](https://lachrymalgems.store/products/deadly-angel-unisex-cotton-tee-graphic-tee-casual-wear-streetwear-cool-t-shirt-gift-for-him-her?variant=47201710375157)
+    Availability: Available
+    Price: $36.35 USD
+  - [Black / L](https://lachrymalgems.store/products/deadly-angel-unisex-cotton-tee-graphic-tee-casual-wear-streetwear-cool-t-shirt-gift-for-him-her?variant=47201710407925)
+    Availability: Available
+    Price: $36.35 USD
+  - [Black / XL](https://lachrymalgems.store/products/deadly-angel-unisex-cotton-tee-graphic-tee-casual-wear-streetwear-cool-t-shirt-gift-for-him-her?variant=47201710440693)
+    Availability: Available
+    Price: $36.35 USD
+  - [Black / 2XL](https://lachrymalgems.store/products/deadly-angel-unisex-cotton-tee-graphic-tee-casual-wear-streetwear-cool-t-shirt-gift-for-him-her?variant=47201710473461)
+    Availability: Available
+    Price: $38.37 USD
+  - [Black / 3XL](https://lachrymalgems.store/products/deadly-angel-unisex-cotton-tee-graphic-tee-casual-wear-streetwear-cool-t-shirt-gift-for-him-her?variant=47201710506229)
+    Availability: Available
+    Price: $39.50 USD
+  - [Black / 4XL](https://lachrymalgems.store/products/deadly-angel-unisex-cotton-tee-graphic-tee-casual-wear-streetwear-cool-t-shirt-gift-for-him-her?variant=47201710538997)
+    Availability: Available
+    Price: $40.03 USD
+  - [Black / 5XL](https://lachrymalgems.store/products/deadly-angel-unisex-cotton-tee-graphic-tee-casual-wear-streetwear-cool-t-shirt-gift-for-him-her?variant=47201710571765)
+    Availability: Available
+    Price: $40.11 USD
+- [Ringer T-Shirt Decade Love Lost Skeletons Print](https://lachrymalgems.store/products/ringer-t-shirt-decade-love-lost-skeletons-print): Decade Love Lost Skeletons Design Print on a Unisex Cotton Ringer T-Shirt, giving off an Alternative Dark Vaporwave Fashion vibe with a Hint of Glitch Aesthetics. Perfect for those who appreciate unique and edgy fashion styles. Ideal for Goth, or Retro themed events and celebrations.Product features- 100% cotton composition for solid colors- Contrasting 1x1 baby rib binding on collar and sleeves- Side seams for better shape retention- Combed, ring-spun cotton for quality- Light fabric with a classic fitCare instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Iron, steam or dry: low heat- Do not dryclean XS S M L XL 2XL 3XL Width, in 17.50 19.00 20.50 22.00 24.00 26.00 28.00 Length, in 27.00 28.00 29.00 30.00 31.00 32.00 33.00 Image by [BNP Design Studio / Shutterstock]
+  Updated: 2025-10-13T04:09:26Z
+  Vendor: Printify
+  Product Type: T-Shirt
+  Availability: Available
+  - [White/Black / XS](https://lachrymalgems.store/products/ringer-t-shirt-decade-love-lost-skeletons-print?variant=47201974812917)
+    Availability: Available
+    Price: $31.90 USD
+  - [White/Black / S](https://lachrymalgems.store/products/ringer-t-shirt-decade-love-lost-skeletons-print?variant=47201974845685)
+    Availability: Available
+    Price: $31.90 USD
+  - [White/Black / M](https://lachrymalgems.store/products/ringer-t-shirt-decade-love-lost-skeletons-print?variant=47201974878453)
+    Availability: Available
+    Price: $31.90 USD
+  - [White/Black / L](https://lachrymalgems.store/products/ringer-t-shirt-decade-love-lost-skeletons-print?variant=47201974911221)
+    Availability: Available
+    Price: $31.90 USD
+  - [White/Black / XL](https://lachrymalgems.store/products/ringer-t-shirt-decade-love-lost-skeletons-print?variant=47201974943989)
+    Availability: Available
+    Price: $31.90 USD
+  - [White/Black / 2XL](https://lachrymalgems.store/products/ringer-t-shirt-decade-love-lost-skeletons-print?variant=47201974976757)
+    Availability: Available
+    Price: $34.57 USD
+  - [White/Black / 3XL](https://lachrymalgems.store/products/ringer-t-shirt-decade-love-lost-skeletons-print?variant=47201975009525)
+    Availability: Available
+    Price: $36.86 USD
 
 ## Collections
 
@@ -1104,6 +1162,8 @@
   Updated: 2025-10-09T22:40:14Z
 - [FAQs - Lachrymal Gems](https://lachrymalgems.store/pages/frequently-ask-questions): Frequently Asked Questions What products do you offer? We specialize in unique, handcrafted gemstone jewelry and accessories. Each piece is careful...
   Updated: 2025-10-11T02:58:03Z
+- [Your Vision, Our Design](https://lachrymalgems.store/pages/your-vision-our-design): Dreaming of something truly unique? Or perhaps you have a beloved design that just needs that special touch? Our design team specializes in transfo...
+  Updated: 2025-10-12T18:24:44Z
 
 ## Policies
 
