@@ -6,12 +6,12 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-07-26T03:23:12Z
 - Contact Email: donedeals.xyz@gmail.com
-- Updated At: 2025-10-13T04:00:57.238Z
+- Updated At: 2025-10-13T12:00:57.827Z
 
 ## Products
 
 - [LED PIR Motion Sensor Cabinet  With USB Rechargeble](https://donedeals.xyz/products/led-pir-motion-sensor-cabinet-with-usb-rechargeble): Product Name: LED PIR Motion Sensor Cabinet Light With USB Rechargeble Package Contains: 1 PieceColour Temperature- 2500 - 3000 K WarmCord Colour- WirelessNumber of light - 3 lightsFeatures- Battery Operated, Colour-Changing, Dimmable, Easy Installation, Energy Efficient, Energy Saving, Even Lighting, Low Voltage, PIR Motion Sensor, Portable, Rechargeable, Rust Resistant, Sensor, Smart Enabled, Spotlight, Stick-On, USB, Wall Mounted, Waterproof, Wireless, With LightLight Colour- Neutral White, Warm White, WhitePower Source - USBCombo: Pack of 1Weight: 400gramLBH - ? ?40L x 4W x 8.6H Centimeters
-  Updated: 2025-10-12T17:46:27Z
+  Updated: 2025-10-13T11:46:15Z
   Vendor: rakqr0-pn
   Product Type: 
   Availability: Available
@@ -12254,7 +12254,7 @@
   Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/e9hom_512.webp?v=1759383570
   Price: ₹230.00 INR
 - [ZnW Fanny Pack for Men Women | Waist bags men Women stylish | fashion bum bags for boys girls | Small Travel Hiking Trekking Cycling Running Pouch Bag | Tourister Passport essential Document Bags | Money belt Pouch Fanny. Waist Pouch (Blue/Grey)](https://donedeals.xyz/products/znw-fanny-pack-for-men-women-waist-bags-men-women-stylish-fashion-bum-bags-for-boys-girls-small-travel-hiking-trekking-cycling-running-pouch-bag-tourister-passport-essential-document-bags-money-belt-pouch-fanny-waist-pouch-blue-grey): Product Details Name : ZnW Fanny Pack for Men Women | Waist bags men Women stylish | fashion bum bags for boys girls | Small Travel Hiking Trekking Cycling Running Pouch Bag | Tourister Passport essential Document Bags | Money belt Pouch Fanny. Waist Pouch (Blue/Grey) Material : Polyester No. Of Compartments : 3 Water Resistant : Yes Print Or Pattern Type : Colorblocked Net Quantity (N) : 1 1). The spacious main compartment provides ample storage space for your essentials. It easily accommodates your wallet, keys, phone, sunglasses, and even a small water bottle, keeping everything organized and within arm's reach. The secure zipper closure guarantees that your belongings stay safe and protected. Designed for optimal comfort, the adjustable waist strap ensures a perfect fit for individuals of all sizes. The strap can be easily adjusted to sit snugly around your waist, allowing for effortless and hands-free carrying. Whether worn at the front, side, or back, the bag stays securely in place, ensuring a hassle-free experience. 2). Adjustable Waist Strap : The adjustable waist strap allows for a customized and comfortable fit. It can be easily adjusted to accommodate various waist sizes, ensuring a secure and snug fit for all users. 3). This bag is very useful and comfortable to be carried while on work or on small expedition trip., Stylish Design : This waist bag boasts a modern and trendy design that complements any outfit. The sleek silhouette and thoughtful color choices make it suitable for various occasions, from casual outings to more formal events., Unisex Appeal: The ZnW Stylish Waist Bag is designed with both men and women in mind. Its unisex appeal makes it a fantastic accessory for anyone seeking a convenient and fashionable way to carry their belongings. Country of Origin : India More Information
-  Updated: 2025-10-12T18:21:57Z
+  Updated: 2025-10-13T06:22:01Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -26609,7 +26609,7 @@
   Updated: 2025-10-08T09:12:11Z
   Total Products: 0
 - [all](https://donedeals.xyz/collections/all)
-  Updated: 2025-10-12T18:22:27Z
+  Updated: 2025-10-13T11:12:17Z
   Total Products: 2372
 - [men watch](https://donedeals.xyz/collections/men-watch)
   Updated: 2025-10-08T09:12:11Z
@@ -26639,7 +26639,7 @@
   Updated: 2025-10-08T09:12:11Z
   Total Products: 39
 - [men side bags](https://donedeals.xyz/collections/men-side-bags)
-  Updated: 2025-10-12T18:21:58Z
+  Updated: 2025-10-13T11:12:17Z
   Total Products: 47
 - [jewellery](https://donedeals.xyz/collections/jewellery)
   Updated: 2025-10-08T09:12:12Z
