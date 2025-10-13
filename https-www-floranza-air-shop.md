@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-08-20T10:34:43Z
 - Contact Email: enfinlibre256@gmail.com
-- Updated At: 2025-10-13T16:00:40.623Z
+- Updated At: 2025-10-13T20:00:45.698Z
 
 ## Products
 
@@ -23313,6 +23313,581 @@ Fashion Element:simple
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/HTB1s8nxcRCw3KVjSZFlq6AJkFXah.webp?v=1760321036
     Price: 69,00 € EUR
+- [Buy Moter Powerful 350w Kids Folding Mini Ebike Walking Bike Electric Bicycle](https://www.floranza-air.shop/products/buy-moter-powerful-350w-kids-folding-mini-ebike-walking-bike-electric-bicycle): SPECIFICATIONSBattery: 7AhBattery Capacity: 7 Ah,7AhBattery Position: mid tubeBattery capacity: 6.0 AhBattery voltage: 36VBrand Name: MZCharger output: 42V/1.5ACharging Time: 3-5 hCharging time: about 3 hoursFrame Material: Aluminum AlloyGears: 3 SpeedLimited speed: 25 km/h(Speed can be customized)Max Speed: 25 km/hMaximum mileage: 20-25 kmModel Number: M02Motor Power: 350 WMotor position: front hub motorMotor power: 350WPacking Size: 102*28.5*66.5 cmPlace of Origin: Guangdong, ChinaPower Supply: Lithium BatteryProduct Size: 140*110*40CMRange per Power: 10 - 30 kmStyle: StandardTire Width: 4"Tyre Size: 12 inches Air TyreVoltage: 36 VWheel Size: 12"motor: Brushless #detail_decorate_root .magic-0{vertical-align:top}#detail_decorate_root .magic-1{padding:0;margin:0;color:#333;font-size:14px;padding-left:4px;font-weight:bold;white-space:pre-wrap}#detail_decorate_root .magic-2{vertical-align:top;display:block;padding-right:4px;box-sizing:border-box;padding-left:4px}#detail_decorate_root .magic-3{vertical-align:top;padding-bottom:4px;box-sizing:border-box;padding-top:4px}#detail_decorate_root .magic-4{padding:0;margin:0;white-space:pre-wrap;font-size:14px}#detail_decorate_root .magic-5{font-size:16px}#detail_decorate_root .magic-6{width:750px;border-collapse:collapse}#detail_decorate_root .magic-7{min-height:18px;padding:5px 10px;width:275px;min-height:18px;box-sizing:content-box}#detail_decorate_root .magic-8{min-height:18px;padding:5px 10px;width:373px;min-height:18px;box-sizing:content-box}#detail_decorate_root .magic-9{margin-bottom:10px;line-height:0}#detail_decorate_root .magic-10{margin-bottom:0}#detail_decorate_root .magic-11{position:relative;width:100%}#detail_decorate_root .magic-12{font-size:14px} buy moter powerful 350w kids folding mini ebike walking bike electric bicycle Tyre Size 12 inches Air Tyre Limited speed 25 km/h(Speed can be customized) Max distance 20-25 km Motor power 350W Max Loading 120 kg Battery capacity 6.0 Ah Battery voltage 36V Charger output 42V/1.5A Charging time about 3 hours Brake type Two Disc Brake Product Size 140*110*40CM N.W. weight 14.5kg 1Can I order samples to know the quality? How long can I get the samples? of course. The sample is usually a brand new sample and will be sent within 7 days after receiving the sample fee and shipping fee. 2. What are your payment terms and procedures? We only accept wire transfers from new customers, and LC (Credit Line) is only available for returning customers. Paypal is also very good. All payments will be paid to our bank in China. 3. I am a beginner and want to start my electric scooter business, can you introduce me to freight forwarders/freight forwarders? absolute. We can introduce our own contacts directly to you, so it is easier for you. If you want us to help you, we will quote you based on the exact quotation given to us by the freight forwarder, and the price will be transparent so that you know your costs. We want long-term partners. If you do not make money, we will not have business. 4. Can I make a logo on the scooter and carton? What is the minimum order quantity? Yes, we can make your logo on the scooter and carton, but you need to send the logo PDF file to us, and then we will do the drawing design for you, but the minimum order quantity is at least 30 pieces, for us, The quantity is more because it is easy to communicate with the supplier
+  Updated: 2025-10-13T18:55:56Z
+  Vendor: FLORANZA-AIR.SHOP
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Hdbc21d3d2e424c1e9dd673dbb188e84bw.webp?v=1760377275
+  Price: 769,00 € EUR
+- [New Arrivals 8L 1400W Smart Touch Screen Custom Oil Free Electric Deep Fryer Hot Air Fryer](https://www.floranza-air.shop/products/new-arrivals-8l-1400w-smart-touch-screen-custom-oil-free-electric-deep-fryer-hot-air-fryer): SPECIFICATIONSCapacity: 5.1-6LCertification: CB Ce RoHS LFGBColor: Customized ColorFeature: TouchKeywords: Non-oil FryerLogo: Customized Logo AcceptableLogo/graphic design: customNon-Stick Material: PTFEPower (W): 1800WPower Source: ElectricProduct name: Multi Functional Air FryerType: Air Fryerafter-sales service provided: Free Spare Partsapp-controlled: Noapplication: Commercial,Householdbrand name: Kudixiongcapacity: 5Lcontrol type: Digitalmaterial: Plasticmodel number: QF-306operating language: Englishplace of origin: Guangdong, Chinaprivate mold: Noshape: Squaretype: Air Fryervoltage (v): 220warranty: 1 Year #detail_decorate_root .magic-0{width:750px}#detail_decorate_root .magic-1{overflow:hidden;width:750px;height:235px;margin-top:0;margin-bottom:0;margin-left:0;margin-right:0}#detail_decorate_root .magic-2{margin-top:0;margin-left:0;width:750px;height:235px}#detail_decorate_root .magic-3{border-bottom-style:solid;border-bottom-color:#53647a;font-family:Roboto;font-size:24px;color:#53647a;font-style:normal;border-bottom-width:2px;padding-top:8px;padding-bottom:4px}#detail_decorate_root .magic-4{margin-bottom:10px;line-height:0}#detail_decorate_root .magic-5{margin-bottom:0}#detail_decorate_root .magic-6{position:relative;width:100%}#detail_decorate_root .magic-7{overflow:hidden;width:750px;height:1473.4177215189875px;margin-top:0;margin-bottom:0;margin-left:0;margin-right:0}#detail_decorate_root .magic-8{margin-top:0;margin-left:0;width:750.0000000000001px;height:1473.4177215189875px}#detail_decorate_root .magic-9{overflow:hidden;width:750px;height:1406.0126582278483px;margin-top:0;margin-bottom:0;margin-left:0;margin-right:0}#detail_decorate_root .magic-10{margin-top:0;margin-left:0;width:750.0000000000001px;height:1406.0126582278483px}#detail_decorate_root .magic-11{overflow:hidden;width:750px;height:719.6202531645571px;margin-top:0;margin-bottom:0;margin-left:0;margin-right:0}#detail_decorate_root .magic-12{margin-top:0;margin-left:0;width:750.0000000000001px;height:719.6202531645571px}#detail_decorate_root .magic-13{overflow:hidden;width:750px;height:1098.4177215189875px;margin-top:0;margin-bottom:0;margin-left:0;margin-right:0}#detail_decorate_root .magic-14{margin-top:0;margin-left:0;width:750.0000000000001px;height:1098.4177215189875px}#detail_decorate_root .magic-15{overflow:hidden;width:750px;height:1402.2151898734178px;margin-top:0;margin-bottom:0;margin-left:0;margin-right:0}#detail_decorate_root .magic-16{margin-top:0;margin-left:0;width:750.0000000000001px;height:1402.2151898734178px}#detail_decorate_root .magic-17{width:750px;border-collapse:collapse}#detail_decorate_root .magic-18{min-height:28px;padding:5px 10px;width:259px;min-height:18px;box-sizing:content-box}#detail_decorate_root .magic-19{min-height:28px;padding:5px 10px;width:442px;min-height:18px;box-sizing:content-box}#detail_decorate_root .magic-20{overflow:hidden;width:750px;height:1158px;margin-top:0;margin-bottom:0;margin-left:0;margin-right:0}#detail_decorate_root .magic-21{margin-top:0;margin-left:0;width:750px;height:1158px}#detail_decorate_root .magic-22{overflow:hidden;width:750px;height:1068px;margin-top:0;margin-bottom:0;margin-left:0;margin-right:0}#detail_decorate_root .magic-23{margin-top:0;margin-left:0;width:750px;height:1068px}#detail_decorate_root .magic-24{overflow:hidden;width:750px;height:1165px;margin-top:0;margin-bottom:0;margin-left:0;margin-right:0}#detail_decorate_root .magic-25{margin-top:0;margin-left:0;width:750px;height:1165px}#detail_decorate_root .magic-26{overflow:hidden;width:750px;height:491px;margin-top:0;margin-bottom:0;margin-left:0;margin-right:0}#detail_decorate_root .magic-27{margin-top:0;margin-left:0;width:750px;height:491px} Product Description Specification Non-Stick Material PTFE Shape Square Voltage (V) 220 After-sales Service Provided Free spare parts Warranty 1 Year Material Plastic Operating Language English Capacity 5L Application Commercial, Household Power Source Electric Control Type Digital Product name Multi Functional Air Fryer Capacity 5.1-6L Type Air Fryer Feature Touch Keywords Non-oil Fryer Certification CB Ce RoHS LFGB Logo Customized Logo Acceptable Color Customized Color Power (W) 1800W Company Profile
+  Updated: 2025-10-13T18:55:38Z
+  Vendor: FLORANZA-AIR.SHOP
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/H9e83c724abec46b294276f02df0f96f6v.webp?v=1760377433
+  - [AU](https://www.floranza-air.shop/products/new-arrivals-8l-1400w-smart-touch-screen-custom-oil-free-electric-deep-fryer-hot-air-fryer?variant=52103904264529)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/H9e83c724abec46b294276f02df0f96f6v.webp?v=1760377433
+    Price: 169,00 € EUR
+  - [CN](https://www.floranza-air.shop/products/new-arrivals-8l-1400w-smart-touch-screen-custom-oil-free-electric-deep-fryer-hot-air-fryer?variant=52103904297297)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/H9e83c724abec46b294276f02df0f96f6v.webp?v=1760377433
+    Price: 169,00 € EUR
+  - [EU](https://www.floranza-air.shop/products/new-arrivals-8l-1400w-smart-touch-screen-custom-oil-free-electric-deep-fryer-hot-air-fryer?variant=52103904330065)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/H9e83c724abec46b294276f02df0f96f6v.webp?v=1760377433
+    Price: 169,00 € EUR
+  - [UK](https://www.floranza-air.shop/products/new-arrivals-8l-1400w-smart-touch-screen-custom-oil-free-electric-deep-fryer-hot-air-fryer?variant=52103904362833)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/H9e83c724abec46b294276f02df0f96f6v.webp?v=1760377433
+    Price: 169,00 € EUR
+  - [US](https://www.floranza-air.shop/products/new-arrivals-8l-1400w-smart-touch-screen-custom-oil-free-electric-deep-fryer-hot-air-fryer?variant=52103904395601)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/H9e83c724abec46b294276f02df0f96f6v.webp?v=1760377433
+    Price: 169,00 € EUR
+- [ARCX Men's Motorcycle Boots Moto Riding Boots Genuine Cow Leather Motorbike Touring Ankle Shoes Speed Riding Boots](https://www.floranza-air.shop/products/arcx-mens-motorcycle-boots-moto-riding-boots-genuine-cow-leather-motorbike-touring-ankle-shoes-speed-riding-boots): SPECIFICATIONSBoot Height: AnkleBrand Name: ARCXClosure Type: Lace-upFeature: Anti-Slippery,Hard-Wearing,Shock-Absorbant,Sweat-Absorbant,BreathableLining Material: Genuine LeatherMidsole Material: PVCModel Number: L60053Outsole Material: RubberPlace of Origin: Guangdong, ChinaSeason: Autumn,Spring,Summer,WinterStyle: Moto & BikerUpper Material: Genuine Leatherpattern: SolidARCX Motorcycle Boots Moto Riding Boots Genuine Cow Leather Motorbike Touring Ankle Shoes Speed Riding Boots Product Description Packaging & Shipping 1. Each pair shoes are packed into ARCX box with Nonwoven fabric paper 2. 8 pairs or 10 pairs/carton 3. we can ship to the airport or port according to clients’ request. Our Services 1. Provide top quality 7days 24hours service 2. Good quality control with competitive price 3. All of our products are environmental friendly. 4. We aim to offer fast delivery ,professional sales service and best after-sales services. 5. Any inquiries or requirements,please do not hesitate to contact us. 6. We promised your any inquiries will get prompt attention. Company Information Longshine was established on 1992, which was principally engaged in manufacturing functional shoes and motorcycle boots. Factory is located in Shenzhen with convenient transportation access, high-speed rail station only 10min to get and also very near the harbor. Our workers are around 200, every month can produce 20000-30000 pairs boots. Our machine can make good year wear or stitch down boots as customer request. FAQ Q1: Do you have any MOQ limit? A: Yes, our MOQ is around 100 pairs(can mix with different styles )OEM order is 500 pcs. Q2: Is shipping for free?A: No, the shipment fee needs to be paid by buyers, and it is determined by weight and shipment method. Q3: Which payments are acceptable?A: T/T, Paypal, Western Union. Q4: Which shipping methods are available?A: DHL, FEDEX, TNT, UPS, EMS...etc. Q5: How about the lead time and delivery time of my order?A: most of our items were prepared in stock. If all your order are available after checking with our service team, we will ship out in one week after getting paymentQ6: How about your production capacity?A: The current productivity is 20,000pcs per month. Q7: Do you deal with Wholesale or retailers?A: Yes, We do. If you are wholesaler or retailers please contact us. We Can manufacture 100% Customized to fulfill your requirement.
+  Updated: 2025-10-13T18:45:38Z
+  Vendor: FLORANZA-AIR.SHOP
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/HTB1jINfa6vuK1Rjy0Faq6x2aVXaD.webp?v=1760377637
+  - [Black / 38](https://www.floranza-air.shop/products/arcx-mens-motorcycle-boots-moto-riding-boots-genuine-cow-leather-motorbike-touring-ankle-shoes-speed-riding-boots?variant=52103927333201)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/HTB1GV4RczfguuRjSszcq6zb7FXaq.webp?v=1760377637
+    Price: 165,00 € EUR
+  - [Black / 39](https://www.floranza-air.shop/products/arcx-mens-motorcycle-boots-moto-riding-boots-genuine-cow-leather-motorbike-touring-ankle-shoes-speed-riding-boots?variant=52103927365969)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/HTB1GV4RczfguuRjSszcq6zb7FXaq.webp?v=1760377637
+    Price: 165,00 € EUR
+  - [Black / 40](https://www.floranza-air.shop/products/arcx-mens-motorcycle-boots-moto-riding-boots-genuine-cow-leather-motorbike-touring-ankle-shoes-speed-riding-boots?variant=52103927398737)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/HTB1GV4RczfguuRjSszcq6zb7FXaq.webp?v=1760377637
+    Price: 165,00 € EUR
+  - [Black / 41](https://www.floranza-air.shop/products/arcx-mens-motorcycle-boots-moto-riding-boots-genuine-cow-leather-motorbike-touring-ankle-shoes-speed-riding-boots?variant=52103927431505)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/HTB1GV4RczfguuRjSszcq6zb7FXaq.webp?v=1760377637
+    Price: 165,00 € EUR
+  - [Black / 42](https://www.floranza-air.shop/products/arcx-mens-motorcycle-boots-moto-riding-boots-genuine-cow-leather-motorbike-touring-ankle-shoes-speed-riding-boots?variant=52103927464273)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/HTB1GV4RczfguuRjSszcq6zb7FXaq.webp?v=1760377637
+    Price: 165,00 € EUR
+  - [Black / 43](https://www.floranza-air.shop/products/arcx-mens-motorcycle-boots-moto-riding-boots-genuine-cow-leather-motorbike-touring-ankle-shoes-speed-riding-boots?variant=52103927497041)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/HTB1GV4RczfguuRjSszcq6zb7FXaq.webp?v=1760377637
+    Price: 165,00 € EUR
+  - [Black / 44](https://www.floranza-air.shop/products/arcx-mens-motorcycle-boots-moto-riding-boots-genuine-cow-leather-motorbike-touring-ankle-shoes-speed-riding-boots?variant=52103927529809)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/HTB1GV4RczfguuRjSszcq6zb7FXaq.webp?v=1760377637
+    Price: 165,00 € EUR
+  - [Black / 45](https://www.floranza-air.shop/products/arcx-mens-motorcycle-boots-moto-riding-boots-genuine-cow-leather-motorbike-touring-ankle-shoes-speed-riding-boots?variant=52103927562577)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/HTB1GV4RczfguuRjSszcq6zb7FXaq.webp?v=1760377637
+    Price: 165,00 € EUR
+- [Winter Men's Elegant Boots Ankle non slip Leather Shoes British Zip Black Knight boots Pointed Punk Platform male Booties Botas](https://www.floranza-air.shop/products/winter-mens-elegant-boots-ankle-non-slip-leather-shoes-british-zip-black-knight-boots-pointed-punk-platform-male-booties-botas): SPECIFICATIONSBoot Height: AnkleBoot Type: Outdoor BootsBrand Name: YBQJOOCN: AnhuiChoice: yesClosure Type: ZIPDepartment Name: AdultFashion Element: ShallowFit: True to SizeGender: MenHeel Height: Low (1CM - 3CM)High-concerned chemical: NoneInsole Material: EVAItem Type: BOOTSLining Material: PUModel Number: 2024Origin: Mainland ChinaOutsole Material: RubberPattern Type: SolidSeason: WinterShaft Material: PUStyle: Street StyleToe Shape: Pointed ToeUpper Material: PUUpper coverage: Not above ankleUpper fixing method: stickingWhether waterproof: NoWhether with metal toe cap: NoWith or install Professional accessories : Others (fill in by yourself)is_handmade: Yessize_info: {"sizeInfoList":[{"countrySizeMap":{"EU":"36.5","BR":"34.5","JP":"23","UK":"4","KR":"230","MX":"23","US":"4.5"},"length":{"cm":"23","inch":"9.06"},"size":"36","vid":200000334},{"countrySizeMap":{"EU":"37","BR":"35","JP":"23.5","UK":"4.5","KR":"235","MX":"23.5","US":"5"},"length":{"cm":"23.5","inch":"9.25"},"size":"37","vid":100010482},{"countrySizeMap":{"EU":"38","BR":"36","JP":"24","UK":"5","KR":"240","MX":"24","US":"6"},"length":{"cm":"24","inch":"9.45"},"size":"38","vid":200000898},{"countrySizeMap":{"EU":"38.5","BR":"36.5","JP":"24.5","UK":"5.5","KR":"245","MX":"24.5","US":"6.5"},"length":{"cm":"24.5","inch":"9.65"},"size":"39","vid":200000364},{"countrySizeMap":{"EU":"39.5","BR":"37.5","JP":"25","UK":"6.5","KR":"250","MX":"25","US":"7.5"},"length":{"cm":"25","inch":"9.84"},"size":"40","vid":100013888},{"countrySizeMap":{"EU":"40","BR":"38","JP":"25.5","UK":"7","KR":"255","MX":"25.5","US":"8"},"length":{"cm":"25.5","inch":"10.04"},"size":"41","vid":100010483},{"countrySizeMap":{"EU":"41","BR":"39","JP":"26","UK":"7.5","KR":"260","MX":"26","US":"8.5"},"length":{"cm":"26","inch":"10.24"},"size":"42","vid":200000337},{"countrySizeMap":{"EU":"41.5","BR":"39.5","JP":"26.5","UK":"8","KR":"265","MX":"26.5","US":"9"},"length":{"cm":"26.5","inch":"10.43"},"size":"43","vid":200000338},{"countrySizeMap":{"EU":"42.5","BR":"40.5","JP":"27","UK":"8.5","KR":"270","MX":"27","US":"9.5"},"length":{"cm":"27","inch":"10.63"},"size":"44","vid":100010487},{"countrySizeMap":{"EU":"43","BR":"41","JP":"27.5","UK":"9.5","KR":"275","MX":"27.5","US":"10.5"},"length":{"cm":"27.5","inch":"10.83"},"size":"45","vid":3116},{"countrySizeMap":{"EU":"44","BR":"42","JP":"28","UK":"10","KR":"280","MX":"28","US":"11"},"length":{"cm":"28","inch":"11.02"},"size":"46","vid":200000899},{"countrySizeMap":{"EU":"44.5","BR":"42.5","JP":"28.5","UK":"10.5","KR":"285","MX":"28.5","US":"11.5"},"length":{"cm":"28.5","inch":"11.22"},"size":"47","vid":200000339},{"countrySizeMap":{"EU":"45.5","BR":"43.5","JP":"29","UK":"11","KR":"290","MX":"29","US":"12"},"length":{"cm":"29","inch":"11.42"},"size":"48","vid":200000900},{"countrySizeMap":{"EU":"46","BR":"44","JP":"29.5","UK":"11.5","KR":"295","MX":"29.5","US":"12.5"},"length":{"cm":"29.5","inch":"11.61"},"size":"49","vid":100010488},{"countrySizeMap":{"EU":"47","BR":"45","JP":"30","UK":"12.5","KR":"300","MX":"30","US":"13.5"},"length":{"cm":"30","inch":"11.81"},"size":"50","vid":200000901}]}
+  Updated: 2025-10-13T18:45:05Z
+  Vendor: FLORANZA-AIR.SHOP
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S0e4225994c874cc68d79f015c6465f08r.webp?v=1760377946
+  - [black / 47](https://www.floranza-air.shop/products/winter-mens-elegant-boots-ankle-non-slip-leather-shoes-british-zip-black-knight-boots-pointed-punk-platform-male-booties-botas?variant=52103964229969)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Sec5069f75e554f3fbffe9d42f990c7fch.webp?v=1760377946
+    Price: 89,00 € EUR
+  - [black / 46](https://www.floranza-air.shop/products/winter-mens-elegant-boots-ankle-non-slip-leather-shoes-british-zip-black-knight-boots-pointed-punk-platform-male-booties-botas?variant=52103964262737)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Sec5069f75e554f3fbffe9d42f990c7fch.webp?v=1760377946
+    Price: 89,00 € EUR
+  - [black / 42](https://www.floranza-air.shop/products/winter-mens-elegant-boots-ankle-non-slip-leather-shoes-british-zip-black-knight-boots-pointed-punk-platform-male-booties-botas?variant=52103964295505)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Sec5069f75e554f3fbffe9d42f990c7fch.webp?v=1760377946
+    Price: 89,00 € EUR
+  - [black / 41](https://www.floranza-air.shop/products/winter-mens-elegant-boots-ankle-non-slip-leather-shoes-british-zip-black-knight-boots-pointed-punk-platform-male-booties-botas?variant=52103964328273)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Sec5069f75e554f3fbffe9d42f990c7fch.webp?v=1760377946
+    Price: 89,00 € EUR
+  - [black / 39](https://www.floranza-air.shop/products/winter-mens-elegant-boots-ankle-non-slip-leather-shoes-british-zip-black-knight-boots-pointed-punk-platform-male-booties-botas?variant=52103964361041)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Sec5069f75e554f3fbffe9d42f990c7fch.webp?v=1760377946
+    Price: 89,00 € EUR
+  - [black / 48](https://www.floranza-air.shop/products/winter-mens-elegant-boots-ankle-non-slip-leather-shoes-british-zip-black-knight-boots-pointed-punk-platform-male-booties-botas?variant=52103964393809)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Sec5069f75e554f3fbffe9d42f990c7fch.webp?v=1760377946
+    Price: 89,00 € EUR
+- [Snake Pattern Cowboy Boots Men Handmade Mid-calf Mens Boots Retro Pointed-top Western Boots Plus Size 38-48 Unisex Shoes Botas](https://www.floranza-air.shop/products/snake-pattern-cowboy-boots-men-handmade-mid-calf-mens-boots-retro-pointed-top-western-boots-plus-size-38-48-unisex-shoes-botas): SPECIFICATIONSBoot Height: Mid-CalfBoot Type: Riding, EquestrianBrand Name: BKQUCN: ZhejiangClosure Type: Slip-OnDepartment Name: AdultFashion Element: EmbroiderFit: True to SizeGender: MenHeel Height: Low (1CM - 3CM)High-concerned chemical: NoneInsole Material: EVAItem Type: BOOTSLining Material: CottonModel Number: MZYHA614Origin: Mainland ChinaOutsole Material: RubberPattern Type: GeometricShaft Material: PUStyle: PunkToe Shape: Pointed ToeUpper Material: Artificial LeatherUpper coverage: Above the ankle but not to the kneeUpper fixing method: stickingWhether waterproof: NoWhether with metal toe cap: NoWith or install Professional accessories : Others (fill in by yourself)adapt to the season: spring,autumn,winterbotas cafe hombre: moto shoesbotas masculinas: botas de trabajo mujeris_handmade: Yesknight boots for men: handmade shoes for mensize_info: {"sizeInfoList":[{"countrySizeMap":{"EU":"35","BR":"33","JP":"22","UK":"3","KR":"220","MX":"22","US":"3"},"length":{"cm":"22.0","inch":"8.66"},"size":"34","vid":100010481},{"countrySizeMap":{"EU":"35.5","BR":"33.5","JP":"22.5","UK":"3.5","KR":"225","MX":"22.5","US":"4"},"length":{"cm":"22.5","inch":"8.86"},"size":"35","vid":200000333},{"countrySizeMap":{"EU":"36.5","BR":"34.5","JP":"23","UK":"4","KR":"230","MX":"23","US":"4.5"},"length":{"cm":"23.0","inch":"9.06"},"size":"36","vid":200000334},{"countrySizeMap":{"EU":"37","BR":"35","JP":"23.5","UK":"4.5","KR":"235","MX":"23.5","US":"5"},"length":{"cm":"23.5","inch":"9.25"},"size":"37","vid":100010482},{"countrySizeMap":{"EU":"38","BR":"36","JP":"24","UK":"5","KR":"240","MX":"24","US":"6"},"length":{"cm":"24.0","inch":"9.45"},"size":"38","vid":200000898},{"countrySizeMap":{"EU":"38.5","BR":"36.5","JP":"24.5","UK":"5.5","KR":"245","MX":"24.5","US":"6.5"},"length":{"cm":"24.5","inch":"9.65"},"size":"39","vid":200000364},{"countrySizeMap":{"EU":"39.5","BR":"37.5","JP":"25","UK":"6.5","KR":"250","MX":"25","US":"7.5"},"length":{"cm":"25.0","inch":"9.84"},"size":"40","vid":100013888},{"countrySizeMap":{"EU":"40","BR":"38","JP":"25.5","UK":"7","KR":"255","MX":"25.5","US":"8"},"length":{"cm":"25.5","inch":"10.04"},"size":"41","vid":100010483},{"countrySizeMap":{"EU":"41","BR":"39","JP":"26","UK":"7.5","KR":"260","MX":"26","US":"8.5"},"length":{"cm":"26.0","inch":"10.24"},"size":"42","vid":200000337},{"countrySizeMap":{"EU":"41.5","BR":"39.5","JP":"26.5","UK":"8","KR":"265","MX":"26.5","US":"9"},"length":{"cm":"26.5","inch":"10.43"},"size":"43","vid":200000338},{"countrySizeMap":{"EU":"42.5","BR":"40.5","JP":"27","UK":"8.5","KR":"270","MX":"27","US":"9.5"},"length":{"cm":"27.0","inch":"10.63"},"size":"44","vid":100010487},{"countrySizeMap":{"EU":"43","BR":"41","JP":"27.5","UK":"9.5","KR":"275","MX":"27.5","US":"10.5"},"length":{"cm":"27.5","inch":"10.83"},"size":"45","vid":3116},{"countrySizeMap":{"EU":"44","BR":"42","JP":"28","UK":"10","KR":"280","MX":"28","US":"11"},"length":{"cm":"28.0","inch":"11.02"},"size":"46","vid":200000899},{"countrySizeMap":{"EU":"44.5","BR":"42.5","JP":"28.5","UK":"10.5","KR":"285","MX":"28.5","US":"11.5"},"length":{"cm":"28.5","inch":"11.22"},"size":"47","vid":200000339},{"countrySizeMap":{"EU":"45.5","BR":"43.5","JP":"29","UK":"11","KR":"290","MX":"29","US":"12"},"length":{"cm":"29.0","inch":"11.42"},"size":"48","vid":200000900},{"countrySizeMap":{"EU":"46","BR":"44","JP":"29.5","UK":"11.5","KR":"295","MX":"29.5","US":"12.5"},"length":{"cm":"29.5","inch":"11.61"},"size":"49","vid":100010488},{"countrySizeMap":{"EU":"47","BR":"45","JP":"30","UK":"12.5","KR":"300","MX":"30","US":"13.5"},"length":{"cm":"30.0","inch":"11.81"},"size":"50","vid":200000901},{"countrySizeMap":{"EU":"48","BR":"46","JP":"30.5","UK":"13","KR":"305","MX":"30.5","US":"14"},"length":{"cm":"30.5","inch":"12.01"},"size":"51","vid":200000340},{"countrySizeMap":{"EU":"48.5","BR":"46.5","JP":"31","UK":"13.5","KR":"310","MX":"31","US":"14.5"},"length":{"cm":"31.0","inch":"12.20"},"size":"52","vid":200000902}]}tactic boots: high chelsea boots men For Size Please choose size according to the foot length (from heel to toe )! Different country different material have different size standard . So our US size ,Europe size may have some different with yours. Pls measure foot length at first and then choose size correspondingly. The size number marked in shoe outsole is China size number, not European size. About chromatic aberration Due to the different contrast of personal monitors, there may be slight color difference between the picture and the actual product. About smell New shoes that have just left the factory may smell of glue, but it is not a quality problem. I hope it can be understood. The smell will dissipate after being placed in a ventilated place for a period of time Tips Color difference might be caused by different monitors,lights and other factors.Please understand. Notice Usually,order comes without shoes box,only a pair of shoes.But if you need a box,please contact us to increase the price. Refund and Return 1.If there is any problem with the order,please contact with our Customer Service first.We will try our best to help you. 2.All the items must be returned in original condition,otherwise we will refuse to refund. 3.The buyer is responsible for all charges occurred in returning process. Feedback 1.If you are satisfied with your order, please leave us all 5 stars including Item as Described. Communication and Shipping Speed. 2.if you think we can do better,please contact with our Customer Service first.We will give you a satisfied answer.
+  Updated: 2025-10-13T18:44:20Z
+  Vendor: FLORANZA-AIR.SHOP
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S7802e93ef9a147b292148c7ec9711110c.webp?v=1760378083
+  - [Gold / 41](https://www.floranza-air.shop/products/snake-pattern-cowboy-boots-men-handmade-mid-calf-mens-boots-retro-pointed-top-western-boots-plus-size-38-48-unisex-shoes-botas?variant=52103980089681)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S33d5b0631bc44ee592554cce67f44b03y.webp?v=1760378083
+    Price: 79,00 € EUR
+  - [Gold / 40](https://www.floranza-air.shop/products/snake-pattern-cowboy-boots-men-handmade-mid-calf-mens-boots-retro-pointed-top-western-boots-plus-size-38-48-unisex-shoes-botas?variant=52103980122449)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S33d5b0631bc44ee592554cce67f44b03y.webp?v=1760378083
+    Price: 79,00 € EUR
+  - [Gold / 39](https://www.floranza-air.shop/products/snake-pattern-cowboy-boots-men-handmade-mid-calf-mens-boots-retro-pointed-top-western-boots-plus-size-38-48-unisex-shoes-botas?variant=52103980155217)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S33d5b0631bc44ee592554cce67f44b03y.webp?v=1760378083
+    Price: 79,00 € EUR
+  - [Gold / 38](https://www.floranza-air.shop/products/snake-pattern-cowboy-boots-men-handmade-mid-calf-mens-boots-retro-pointed-top-western-boots-plus-size-38-48-unisex-shoes-botas?variant=52103980187985)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S33d5b0631bc44ee592554cce67f44b03y.webp?v=1760378083
+    Price: 79,00 € EUR
+  - [Gold / 45](https://www.floranza-air.shop/products/snake-pattern-cowboy-boots-men-handmade-mid-calf-mens-boots-retro-pointed-top-western-boots-plus-size-38-48-unisex-shoes-botas?variant=52103980220753)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S33d5b0631bc44ee592554cce67f44b03y.webp?v=1760378083
+    Price: 79,00 € EUR
+  - [Gold / 44](https://www.floranza-air.shop/products/snake-pattern-cowboy-boots-men-handmade-mid-calf-mens-boots-retro-pointed-top-western-boots-plus-size-38-48-unisex-shoes-botas?variant=52103980253521)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S33d5b0631bc44ee592554cce67f44b03y.webp?v=1760378083
+    Price: 79,00 € EUR
+  - [Gold / 43](https://www.floranza-air.shop/products/snake-pattern-cowboy-boots-men-handmade-mid-calf-mens-boots-retro-pointed-top-western-boots-plus-size-38-48-unisex-shoes-botas?variant=52103980286289)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S33d5b0631bc44ee592554cce67f44b03y.webp?v=1760378083
+    Price: 79,00 € EUR
+  - [Gold / 42](https://www.floranza-air.shop/products/snake-pattern-cowboy-boots-men-handmade-mid-calf-mens-boots-retro-pointed-top-western-boots-plus-size-38-48-unisex-shoes-botas?variant=52103980319057)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S33d5b0631bc44ee592554cce67f44b03y.webp?v=1760378083
+    Price: 79,00 € EUR
+  - [Silver / 38](https://www.floranza-air.shop/products/snake-pattern-cowboy-boots-men-handmade-mid-calf-mens-boots-retro-pointed-top-western-boots-plus-size-38-48-unisex-shoes-botas?variant=52103980351825)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Seee6ef90388f4ad997faac6494bc55908.webp?v=1760378082
+    Price: 79,00 € EUR
+  - [Gold / 48](https://www.floranza-air.shop/products/snake-pattern-cowboy-boots-men-handmade-mid-calf-mens-boots-retro-pointed-top-western-boots-plus-size-38-48-unisex-shoes-botas?variant=52103980384593)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S33d5b0631bc44ee592554cce67f44b03y.webp?v=1760378083
+    Price: 79,00 € EUR
+  - [Gold / 47](https://www.floranza-air.shop/products/snake-pattern-cowboy-boots-men-handmade-mid-calf-mens-boots-retro-pointed-top-western-boots-plus-size-38-48-unisex-shoes-botas?variant=52103980417361)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S33d5b0631bc44ee592554cce67f44b03y.webp?v=1760378083
+    Price: 79,00 € EUR
+  - [Gold / 46](https://www.floranza-air.shop/products/snake-pattern-cowboy-boots-men-handmade-mid-calf-mens-boots-retro-pointed-top-western-boots-plus-size-38-48-unisex-shoes-botas?variant=52103980450129)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S33d5b0631bc44ee592554cce67f44b03y.webp?v=1760378083
+    Price: 79,00 € EUR
+  - [Silver / 42](https://www.floranza-air.shop/products/snake-pattern-cowboy-boots-men-handmade-mid-calf-mens-boots-retro-pointed-top-western-boots-plus-size-38-48-unisex-shoes-botas?variant=52103980482897)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Seee6ef90388f4ad997faac6494bc55908.webp?v=1760378082
+    Price: 79,00 € EUR
+  - [Silver / 41](https://www.floranza-air.shop/products/snake-pattern-cowboy-boots-men-handmade-mid-calf-mens-boots-retro-pointed-top-western-boots-plus-size-38-48-unisex-shoes-botas?variant=52103980515665)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Seee6ef90388f4ad997faac6494bc55908.webp?v=1760378082
+    Price: 79,00 € EUR
+  - [Silver / 40](https://www.floranza-air.shop/products/snake-pattern-cowboy-boots-men-handmade-mid-calf-mens-boots-retro-pointed-top-western-boots-plus-size-38-48-unisex-shoes-botas?variant=52103980548433)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Seee6ef90388f4ad997faac6494bc55908.webp?v=1760378082
+    Price: 79,00 € EUR
+  - [Silver / 39](https://www.floranza-air.shop/products/snake-pattern-cowboy-boots-men-handmade-mid-calf-mens-boots-retro-pointed-top-western-boots-plus-size-38-48-unisex-shoes-botas?variant=52103980581201)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Seee6ef90388f4ad997faac6494bc55908.webp?v=1760378082
+    Price: 79,00 € EUR
+  - [Silver / 46](https://www.floranza-air.shop/products/snake-pattern-cowboy-boots-men-handmade-mid-calf-mens-boots-retro-pointed-top-western-boots-plus-size-38-48-unisex-shoes-botas?variant=52103980613969)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Seee6ef90388f4ad997faac6494bc55908.webp?v=1760378082
+    Price: 79,00 € EUR
+  - [Silver / 45](https://www.floranza-air.shop/products/snake-pattern-cowboy-boots-men-handmade-mid-calf-mens-boots-retro-pointed-top-western-boots-plus-size-38-48-unisex-shoes-botas?variant=52103980646737)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Seee6ef90388f4ad997faac6494bc55908.webp?v=1760378082
+    Price: 79,00 € EUR
+  - [Silver / 44](https://www.floranza-air.shop/products/snake-pattern-cowboy-boots-men-handmade-mid-calf-mens-boots-retro-pointed-top-western-boots-plus-size-38-48-unisex-shoes-botas?variant=52103980679505)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Seee6ef90388f4ad997faac6494bc55908.webp?v=1760378082
+    Price: 79,00 € EUR
+  - [Silver / 43](https://www.floranza-air.shop/products/snake-pattern-cowboy-boots-men-handmade-mid-calf-mens-boots-retro-pointed-top-western-boots-plus-size-38-48-unisex-shoes-botas?variant=52103980712273)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Seee6ef90388f4ad997faac6494bc55908.webp?v=1760378082
+    Price: 79,00 € EUR
+  - [Silver / 48](https://www.floranza-air.shop/products/snake-pattern-cowboy-boots-men-handmade-mid-calf-mens-boots-retro-pointed-top-western-boots-plus-size-38-48-unisex-shoes-botas?variant=52103980745041)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Seee6ef90388f4ad997faac6494bc55908.webp?v=1760378082
+    Price: 79,00 € EUR
+  - [Silver / 47](https://www.floranza-air.shop/products/snake-pattern-cowboy-boots-men-handmade-mid-calf-mens-boots-retro-pointed-top-western-boots-plus-size-38-48-unisex-shoes-botas?variant=52103980777809)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Seee6ef90388f4ad997faac6494bc55908.webp?v=1760378082
+    Price: 79,00 € EUR
+- [Bottes Botas De Altas Hombre Motocross Ankle Boots  Mens Office Formal Men Dress+Shoes Leather Shoes for Men Shoes Italian](https://www.floranza-air.shop/products/bottes-botas-de-altas-hombre-motocross-ankle-boots-mens-office-formal-men-dress-shoes-leather-shoes-for-men-shoes-italian): SPECIFICATIONSBrand Name: KeshangClosure Type: Lace-upColor: BlackFeature: Anti-Odor,Anti-Slippery,Deodorization,Flat,Hard-Wearing,Insulative,Quick-Drying,Shock-Absorbant,Sweat-Absorbant,BreathableGender: MenLining Material: PuMOQ: 1Midsole Material: PuModel Number: KSZR-0109Outsole Material: RubberPlace of Origin: Fujian, ChinaSeason: Autumn,Spring,Summer,WinterService: OEM/ODMSize: 37-46#Style: OxfordsStyle Classify: Oxford shoesType: Men Dress Shoessapplication: Office & Career #detail_decorate_root .magic-0{border-bottom-style:solid;border-bottom-color:#afb0b1;font-family:Roboto;font-size:24px;color:#000;background-color:#aba8a8;text-align:left;font-style:normal;font-weight:bold;border-bottom-width:2px;padding-top:8px;padding-bottom:4px}#detail_decorate_root .magic-1{width:750px;border-collapse:collapse}#detail_decorate_root .magic-2{min-height:18px;padding:5px 10px;width:727px;min-height:18px;box-sizing:content-box}#detail_decorate_root .magic-3{text-align:center}#detail_decorate_root .magic-4{font-size:24px}#detail_decorate_root .magic-5{display:none}#detail_decorate_root .magic-6{min-height:18px;padding:5px 10px;width:478.2px;min-height:18px;box-sizing:content-box}#detail_decorate_root .magic-7{min-height:18px;padding:5px 10px;width:229px;min-height:18px;box-sizing:content-box}#detail_decorate_root .magic-8{min-height:18px;padding:5px 10px;width:477px;min-height:18px;box-sizing:content-box}#detail_decorate_root .magic-9{min-height:18px;padding:5px 10px;width:476.667px;min-height:18px;box-sizing:content-box}#detail_decorate_root .magic-10{width:750px}#detail_decorate_root .magic-11{overflow:hidden;width:750px;height:284px;margin-top:0;margin-bottom:0;margin-left:0;margin-right:0}#detail_decorate_root .magic-12{margin-top:0;margin-left:0;width:747px;height:177px}#detail_decorate_root .magic-13{margin-bottom:10px;line-height:0}#detail_decorate_root .magic-14{margin-bottom:0}#detail_decorate_root .magic-15{position:relative;width:100%}#detail_decorate_root .magic-16{overflow:hidden;width:247.33333333333334px;height:247.33333333333337px;margin-top:0;margin-bottom:0;margin-left:0;margin-right:0}#detail_decorate_root .magic-17{margin-top:0;margin-left:0;width:247px;height:247px}#detail_decorate_root .magic-18{overflow:hidden;width:247.33333333333334px;height:247.33333333333337px;margin-top:0;margin-bottom:0;margin-left:4px;margin-right:0}#detail_decorate_root .magic-19{margin-top:-19.02564102564103px;margin-left:-86.11605937921729px;width:337px;height:247px}#detail_decorate_root .magic-20{border-bottom-style:solid;border-bottom-color:#53647a;font-family:Roboto;font-size:24px;color:#53647a;font-style:normal;border-bottom-width:2px;padding-top:8px;padding-bottom:4px}#detail_decorate_root .magic-21{vertical-align:top}#detail_decorate_root .magic-22{vertical-align:top;display:block;padding-right:4px;box-sizing:border-box;padding-left:4px}#detail_decorate_root .magic-23{vertical-align:top;padding-bottom:4px;box-sizing:border-box;padding-top:4px}#detail_decorate_root .magic-24{padding:0;margin:0;white-space:pre-wrap;font-size:14px}#detail_decorate_root .magic-25{font-size:14px}#detail_decorate_root .magic-26{overflow:hidden;width:750px;height:750px;margin-top:0;margin-bottom:4px;margin-left:0;margin-right:0}#detail_decorate_root .magic-27{margin-top:0;margin-left:0;width:750px;height:750px}#detail_decorate_root .magic-28{overflow:hidden;width:373px;height:248.66666666666666px;margin-top:0;margin-bottom:0;margin-left:0;margin-right:0}#detail_decorate_root .magic-29{margin-top:0;margin-left:0;width:373px;height:248.66666666666666px}#detail_decorate_root .magic-30{overflow:hidden;width:373px;height:248px;margin-top:0;margin-bottom:0;margin-left:4px;margin-right:0}#detail_decorate_root .magic-31{margin-top:0;margin-left:0;width:373px;height:248.418px}#detail_decorate_root .magic-32{padding:0;margin:0;color:#333;font-size:14px;padding-left:4px;font-weight:bold;white-space:pre-wrap}#detail_decorate_root .magic-33{vertical-align:top;display:inline-block;padding-right:4px;width:33.33%;box-sizing:border-box;margin-bottom:-4px;padding-left:4px;margin-top:-4px}#detail_decorate_root .magic-34{vertical-align:top;box-sizing:border-box;padding-top:4px}#detail_decorate_root .magic-35{width:245px;height:166.35802469135803px;overflow:hidden}#detail_decorate_root .magic-36{position:relative;left:0;top:0;width:244.99999999999997px;height:166.35802469135803px}#detail_decorate_root .magic-37{padding:0;margin:0;color:#333;font-size:14px;line-height:20px;font-weight:bold;white-space:pre-wrap}#detail_decorate_root .magic-39{width:245px;height:166px;overflow:hidden}#detail_decorate_root .magic-40{position:relative;left:-2px;top:-14px;width:245px;height:183.75px}#detail_decorate_root .magic-41{position:relative;left:0;top:0;width:270.42606516290726px;height:166px}#detail_decorate_root .magic-42{width:245px;height:245px;overflow:hidden}#detail_decorate_root .magic-43{position:relative;left:0;top:0;width:245px;height:245px}#detail_decorate_root .magic-44{font-family:inherit;font-size:inherit;font-style:inherit;font-variant-ligatures:inherit;font-variant-caps:inherit}#detail_decorate_root .magic-45{font-size:18px}#detail_decorate_root .magic-46{position:relative;left:0;top:0;width:244.99999999999997px;height:244.99999999999997px} Product Description Bottes Botas De Altas Hombre Motocross Army Boots Mens Office Formal Men Dress +Shoes Leather Shoes For Men Shoes Italian *Gender Men *Style Men Dress Shoes *Model KSzr-0109 *Size Size 37-46# *Color Black *Upper Material PU Leather *Insole Material PU Leather *Outsole Material Rubber *Brand ODM/OEM Detailed Images Related Products Company Introduction Keshang Footwear Co. Ltd. is a shoes company that supplies all kinds of fancy shoes. We have our own factory that is located in Jinjiang city, which is a famous shoes center that aims at R&D and manufacturing of shoes in China. Our factory offers OEM/OEM service for customers and we have a trading department that deals with wholesale and retail service for every customer. In Keshang, you will find small MOQ of OEM/ODM is available. Keshang is always trying best to meet different customers' demands for footwears. "What we make is not only shoes, but also your soulmate." This is our target and purpose. Our Services & Strength According to Customer's requirement of shoes customization, we can build all kinds of mould for customers in small MOQ and low price, to meet every customers' demands. What our goal is to "make your soulmate like what you want". Why Choose Us Best Service Every time you want to ask Keshang for service, Keshang is always there for you. You can chat with us in alibaba, whatsapp, skype, wechat or telephone at every time if you like. We are always there waiting for you. Best Quality We promise to offer our customers best quality of our products and best service after sales. What we want to do is to offer a easier business for our customers with best quality of products. Best Shipping No matter what kind of shipping methods our customer like, we will try our 100% best to meet their demands. Keshang offers all kinds of shipping methods for different demands of our customers. Contact Details Whatsapp:+8613959690776 Wechat:+8613959690776 Email:henry@keshang-shoes.com FAQ 1) Are you a factory or a trading company?We have our own country specializing in fashionable sports shoes, dress shoes, kids shoes, heel shoes, etc. We are very professional in exporting all kinds of fancy shoes in the world. 2) Can you customize sample for just MOQ1? Yes, we can customize the sample for our new customers according to their request at just MOQ 1 pair. 3) Do you have shoes in stock? Normally, all kinds of the shoes in our website have stocks. And we are developing new models all the time. 4) Can I buy just one pair of your shoes? Yes, of course, our company MOQ is just one pair for our customers. 5) What payment methods do you agree? We agree alibaba trade assurance order, L/C. T/T, Western union, Moneygram, Paypal, etc. 6) When will you send after the order placed? Normally we can send your goods in 2days, if for bulk production, normally we can finish in a week. For customized shoes, we can finish the production asap for our customers. 7) Can you give us a better discount? Our company price is reasonable for our customers. If for more qty or bulk order, of course we will offer a better price. There are price ranges for our products. 8) Does the shoes price in the website include the shipping? No yet, the shoes price doesn't include the shipping, but we will provide a best service and a better price for your shipping.
+  Updated: 2025-10-13T18:43:33Z
+  Vendor: FLORANZA-AIR.SHOP
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/H290deef407614df69e86685cc21718015.webp?v=1760378176
+  - [Black / 5.5](https://www.floranza-air.shop/products/bottes-botas-de-altas-hombre-motocross-ankle-boots-mens-office-formal-men-dress-shoes-leather-shoes-for-men-shoes-italian?variant=52103990018385)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/H76b82eb2f52c407a8aefdcfebe9a15499.webp?v=1760378176
+    Price: 90,00 € EUR
+  - [Size Chart / 5.5](https://www.floranza-air.shop/products/bottes-botas-de-altas-hombre-motocross-ankle-boots-mens-office-formal-men-dress-shoes-leather-shoes-for-men-shoes-italian?variant=52103990051153)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Hc86b393821b54fa99db68b81767610baY.webp?v=1760378175
+    Price: 90,00 € EUR
+  - [Black / 6.5](https://www.floranza-air.shop/products/bottes-botas-de-altas-hombre-motocross-ankle-boots-mens-office-formal-men-dress-shoes-leather-shoes-for-men-shoes-italian?variant=52103990083921)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/H76b82eb2f52c407a8aefdcfebe9a15499.webp?v=1760378176
+    Price: 90,00 € EUR
+  - [Black / 7](https://www.floranza-air.shop/products/bottes-botas-de-altas-hombre-motocross-ankle-boots-mens-office-formal-men-dress-shoes-leather-shoes-for-men-shoes-italian?variant=52103990116689)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/H76b82eb2f52c407a8aefdcfebe9a15499.webp?v=1760378176
+    Price: 90,00 € EUR
+  - [Black / 7.5](https://www.floranza-air.shop/products/bottes-botas-de-altas-hombre-motocross-ankle-boots-mens-office-formal-men-dress-shoes-leather-shoes-for-men-shoes-italian?variant=52103990149457)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/H76b82eb2f52c407a8aefdcfebe9a15499.webp?v=1760378176
+    Price: 90,00 € EUR
+  - [Black / 8](https://www.floranza-air.shop/products/bottes-botas-de-altas-hombre-motocross-ankle-boots-mens-office-formal-men-dress-shoes-leather-shoes-for-men-shoes-italian?variant=52103990182225)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/H76b82eb2f52c407a8aefdcfebe9a15499.webp?v=1760378176
+    Price: 90,00 € EUR
+  - [Black / 8.5](https://www.floranza-air.shop/products/bottes-botas-de-altas-hombre-motocross-ankle-boots-mens-office-formal-men-dress-shoes-leather-shoes-for-men-shoes-italian?variant=52103990214993)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/H76b82eb2f52c407a8aefdcfebe9a15499.webp?v=1760378176
+    Price: 90,00 € EUR
+  - [Black / US9/Eur43](https://www.floranza-air.shop/products/bottes-botas-de-altas-hombre-motocross-ankle-boots-mens-office-formal-men-dress-shoes-leather-shoes-for-men-shoes-italian?variant=52103990247761)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/H76b82eb2f52c407a8aefdcfebe9a15499.webp?v=1760378176
+    Price: 90,00 € EUR
+  - [Black / US10/Eur44](https://www.floranza-air.shop/products/bottes-botas-de-altas-hombre-motocross-ankle-boots-mens-office-formal-men-dress-shoes-leather-shoes-for-men-shoes-italian?variant=52103990280529)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/H76b82eb2f52c407a8aefdcfebe9a15499.webp?v=1760378176
+    Price: 90,00 € EUR
+  - [Black / US11/Eur45](https://www.floranza-air.shop/products/bottes-botas-de-altas-hombre-motocross-ankle-boots-mens-office-formal-men-dress-shoes-leather-shoes-for-men-shoes-italian?variant=52103990313297)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/H76b82eb2f52c407a8aefdcfebe9a15499.webp?v=1760378176
+    Price: 90,00 € EUR
+  - [Black / US12/Eur46](https://www.floranza-air.shop/products/bottes-botas-de-altas-hombre-motocross-ankle-boots-mens-office-formal-men-dress-shoes-leather-shoes-for-men-shoes-italian?variant=52103990346065)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/H76b82eb2f52c407a8aefdcfebe9a15499.webp?v=1760378176
+    Price: 90,00 € EUR
+  - [Size Chart / 6.5](https://www.floranza-air.shop/products/bottes-botas-de-altas-hombre-motocross-ankle-boots-mens-office-formal-men-dress-shoes-leather-shoes-for-men-shoes-italian?variant=52103990378833)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Hc86b393821b54fa99db68b81767610baY.webp?v=1760378175
+    Price: 90,00 € EUR
+  - [Size Chart / 7](https://www.floranza-air.shop/products/bottes-botas-de-altas-hombre-motocross-ankle-boots-mens-office-formal-men-dress-shoes-leather-shoes-for-men-shoes-italian?variant=52103990411601)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Hc86b393821b54fa99db68b81767610baY.webp?v=1760378175
+    Price: 90,00 € EUR
+  - [Size Chart / 7.5](https://www.floranza-air.shop/products/bottes-botas-de-altas-hombre-motocross-ankle-boots-mens-office-formal-men-dress-shoes-leather-shoes-for-men-shoes-italian?variant=52103990444369)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Hc86b393821b54fa99db68b81767610baY.webp?v=1760378175
+    Price: 90,00 € EUR
+  - [Size Chart / 8](https://www.floranza-air.shop/products/bottes-botas-de-altas-hombre-motocross-ankle-boots-mens-office-formal-men-dress-shoes-leather-shoes-for-men-shoes-italian?variant=52103990477137)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Hc86b393821b54fa99db68b81767610baY.webp?v=1760378175
+    Price: 90,00 € EUR
+  - [Size Chart / 8.5](https://www.floranza-air.shop/products/bottes-botas-de-altas-hombre-motocross-ankle-boots-mens-office-formal-men-dress-shoes-leather-shoes-for-men-shoes-italian?variant=52103990509905)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Hc86b393821b54fa99db68b81767610baY.webp?v=1760378175
+    Price: 90,00 € EUR
+  - [Size Chart / US9/Eur43](https://www.floranza-air.shop/products/bottes-botas-de-altas-hombre-motocross-ankle-boots-mens-office-formal-men-dress-shoes-leather-shoes-for-men-shoes-italian?variant=52103990542673)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Hc86b393821b54fa99db68b81767610baY.webp?v=1760378175
+    Price: 90,00 € EUR
+  - [Size Chart / US10/Eur44](https://www.floranza-air.shop/products/bottes-botas-de-altas-hombre-motocross-ankle-boots-mens-office-formal-men-dress-shoes-leather-shoes-for-men-shoes-italian?variant=52103990575441)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Hc86b393821b54fa99db68b81767610baY.webp?v=1760378175
+    Price: 90,00 € EUR
+  - [Size Chart / US11/Eur45](https://www.floranza-air.shop/products/bottes-botas-de-altas-hombre-motocross-ankle-boots-mens-office-formal-men-dress-shoes-leather-shoes-for-men-shoes-italian?variant=52103990608209)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Hc86b393821b54fa99db68b81767610baY.webp?v=1760378175
+    Price: 90,00 € EUR
+  - [Size Chart / US12/Eur46](https://www.floranza-air.shop/products/bottes-botas-de-altas-hombre-motocross-ankle-boots-mens-office-formal-men-dress-shoes-leather-shoes-for-men-shoes-italian?variant=52103990640977)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Hc86b393821b54fa99db68b81767610baY.webp?v=1760378175
+    Price: 90,00 € EUR
+- [Night Time Fat Burner - Boost Metabolism, Suppress Appetite Diet，Healthy Weight Management Supplement](https://www.floranza-air.shop/products/night-time-fat-burner-boost-metabolism-suppress-appetite-diet-healthy-weight-management-supplement): SPECIFICATIONSBrand Name: PslalaeCharge Unit: bottlesDate of Manufacture: LatestDepartment Name: AdultGender: UnisexHigh-concerned chemical: NoneIngredients: White Kidney BeanManufacturer: PslalaeOrigin: US(Origin)Packaging: BottleProduct Specification: 30/60/120 CapsulesShelf Life: 2 yearsUsage And Dosage: Take two (2) capsules once dailyWeight: 0.04 Night Time Fat Burner - Boost Metabolism, Suppress Appetite Diet, Healthy Weight Management Function: Fat burning, metabolism Ingredients: White Kidney Bean Extract, Vitamin D3 Directions: Take two (2) capsules once a day Shipping: Ships within 48 hours on weekdays Shelf life: 2 years Boosts Metabolism - Green coffee bean extract helps burn fat quickly for fuel and boosts metabolism. We hand-select only high-quality ingredients so you can get the best weight loss results quickly and safely. Appetite Suppressant & Carb Blocker - Our nighttime fat burner contains essential protein to suppress your appetite by safely increasing hormone levels, keeping you feeling better for longer. Wake Up Refreshed - Our supplement helps men and women see results fast without affecting energy levels, so you can get the restful sleep you need and wake up feeling ready to take on the day. Work while you sleep - You have to sleep, but your metabolism doesn't! Our nighttime fat burner works for you while you dream.
+  Updated: 2025-10-13T18:43:13Z
+  Vendor: FLORANZA-AIR.SHOP
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S29cb9e073c3a46049321578b9e5d8b16g.webp?v=1760378594
+  - [30 Capsules](https://www.floranza-air.shop/products/night-time-fat-burner-boost-metabolism-suppress-appetite-diet-healthy-weight-management-supplement?variant=52104058962257)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S2a8779aabc13442296db669e728f347fE.webp?v=1760378595
+    Price: 11,00 € EUR
+  - [60 Capsules](https://www.floranza-air.shop/products/night-time-fat-burner-boost-metabolism-suppress-appetite-diet-healthy-weight-management-supplement?variant=52104058995025)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Sce870815d1034f418e592e95e2b6c48e3.webp?v=1760378595
+    Price: 22,00 € EUR
+  - [120 Capsules](https://www.floranza-air.shop/products/night-time-fat-burner-boost-metabolism-suppress-appetite-diet-healthy-weight-management-supplement?variant=52104059027793)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S018915cfc9b748d1b98c27f6ff106440T.webp?v=1760378595
+    Price: 31,00 € EUR
+  - [60 Capsule-3bottles](https://www.floranza-air.shop/products/night-time-fat-burner-boost-metabolism-suppress-appetite-diet-healthy-weight-management-supplement?variant=52104059060561)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Sb1d16ebd1ec041b2a15173c3188fe3f4N.webp?v=1760378595
+    Price: 36,00 € EUR
+  - [120 Capsule-3bottles](https://www.floranza-air.shop/products/night-time-fat-burner-boost-metabolism-suppress-appetite-diet-healthy-weight-management-supplement?variant=52104059093329)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S398aa75663a24a869872d6dde4f3e7d4R.webp?v=1760378596
+    Price: 45,00 € EUR
+- [Bee Venom Joint Cream - Gentle and moisturizing, containing bee venom ingredients, suitable for body, neck, knees, legs, waist j](https://www.floranza-air.shop/products/bee-venom-joint-cream-gentle-and-moisturizing-containing-bee-venom-ingredients-suitable-for-body-neck-knees-legs-waist-j): SPECIFICATIONSBrand Name: NoEnName_NullChoice: yesFeature: MoisturizingGender: UnisexHigh-concerned chemical: NoneItem Type: CreamNumber of Pieces: One UnitOrigin: Mainland ChinaSPEC: 100-500GUse: BODYBee Venom Joint Cream - Gentle and moisturizing, containing bee venom ingredients, suitable for body, neck, knees, legs, waist joint care, unisex - 120g
+  Updated: 2025-10-13T18:12:21Z
+  Vendor: FLORANZA-AIR.SHOP
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S5a278b4c2e524d5d97cd7d386d4139fan.webp?v=1760379139
+  Price: 21,00 € EUR
+- [Bee Venom Serum Lightens Fine Lines, Wrinkle Lines, Dullness, Nourishes and Firms Skin, Anti-Wrinkle Serum](https://www.floranza-air.shop/products/bee-venom-serum-lightens-fine-lines-wrinkle-lines-dullness-nourishes-and-firms-skin-anti-wrinkle-serum): SPECIFICATIONSBrand Name: Okeny'sCertificate Number: ---Certification: GZBJZCountry/Region of Manufacture: CHINADate of Manufacture: newDistributor/Importer: ---Effect of cosmetic product: Firming and fading wrinklesFeature: Anti-AgingFormulation: OilGender: FemaleHigh-concerned chemical: NoneIngredient: Water, Bee Venom, Honey Extract, Royal Jelly. Hyaluronic acid, nicotinItem Type: face serumManufacturer: ---Model Number: Reduce fine linesNet content: 15mlNumber of Pieces: One UnitOrigin: Mainland ChinaProduct Name: Bee venomShelf Life: 3,3 yearsUse part: Facial Care ======================================================================================================== Payment method We accept Alipay, West Union, PayPal, TT. All major credit cards are accepted through securepaymentprocessor ESCROW. About Feedback If you are satisfied on our produts, pls give us a postive feedback. Thanks a lot! Pls contact with us before you leave negative feedback, we can work together to resolve any dispute.Your encouragement and support is our continuously forward momentum. we will do our best for yourSatisfaction. Thanks again for your support and help all the time. About us 1.Dropshipping and combine shipping are both avaiable in our store. 2.You can mix all items, sizes and so on. more quantity, more discount. 3.Wholesale and customize are welcomed ! We can ship the goods to your customer directy. About Package In order to protect your privacy, we guarantee to send your products in a safe condition. The product will be packed with a air bag/yellow bubble plastic envelope to avoid damage during transportion. About Warranty Full refund if the item does not match the description or defective. About Product All products are 100% brand new, workable and checked carefully before sending out. All products are made of Medical grade material, 100% safety, harmless to the body, (It is normal that you smell slight odor when first open, because product was in sealed package for months. Please clean it and dry it naturally, the smell will disappear soon.) About Shipment We will send out order within 5 workdays. The delivery time will vary according to different countries and will be affected by weather,pubilc holidays and so on. If order dosen't recevied in declare time, please contact us. 1. WORLDWIDE SHIPPING. (Except some countries and APO/FPO) 2. Orders processed timely after the payment verification. 3. We only ship to confirmed order addresses. Your order address MUST MATCH your Shipping address. 4. SERVICE TRANSIT TIME is provided by the carrier and excludes weekends and holidays. Transit times may vary, particularly during the holiday season. 5. If you have not received your shipment within 60 days from payment, please contact us. We will track the shipment and get back to you as soon as possible with a reply. Our goal is customer satisfaction! 6. Due to stock status and time differences, we will choose to ship your item from our first available warehouse for fast delivery. What to do if meet product problem Please use the product according to the product manual first, if you still cannot use it, please contact customer service in time, please do not open dispute at will, we believe communiocation is much better than dispute. About Working Time Because of time difference, there will be delay in communication, but messages will be reply within one workday. please be patient.
+  Updated: 2025-10-13T18:42:41Z
+  Vendor: FLORANZA-AIR.SHOP
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S1e7d493f5d7a4ade8b7e0d60c6d97447a.webp?v=1760379279
+  Price: 34,00 € EUR
+- [New Womens Bags 2022 Comfortable and Beautiful Handbags Handbag Large and Light Capacity Hand Bag Handbags16282](https://www.floranza-air.shop/products/new-womens-bags-2022-comfortable-and-beautiful-handbags-handbag-large-and-light-capacity-hand-bag-handbags16282): SPECIFICATIONSBrand Name: BateliGender: unisexLining: PolyesterMain material: PUMaterial: PuPattern: OtherPlace of Origin: zhejiang, ChinaProduct name: women bagSize: 28*12*20CMStyle: FashionUsage: Daily useWeight: 0.7kgbrand name: bateliclosure type: Zipperdecoration: None,Feathersgender: Womenmodel number: BTL-16282number of handles/straps: Singleplace of origin: Zhejiang, Chinashape: Casual Totestyle: Fashion #detail_decorate_root .magic-0{margin-bottom:10px;overflow:hidden}#detail_decorate_root .magic-1{width:750px}#detail_decorate_root .magic-2{overflow:hidden;width:750px;height:956px;margin-top:0;margin-bottom:0;margin-left:0;margin-right:0}#detail_decorate_root .magic-3{margin-top:0;margin-left:0;width:750px;height:956px}#detail_decorate_root .magic-4{overflow:hidden;width:750px;height:821px;margin-top:0;margin-bottom:0;margin-left:0;margin-right:0}#detail_decorate_root .magic-5{margin-top:0;margin-left:0;width:750px;height:821px}#detail_decorate_root .magic-6{border-bottom-style:solid;border-bottom-color:#fff;font-family:Roboto;font-size:24px;color:#fff;font-style:normal;border-bottom-width:2px;padding-top:8px;padding-bottom:4px}#detail_decorate_root .magic-7{overflow:hidden;width:750px;height:54px;margin-top:0;margin-bottom:0;margin-left:0;margin-right:0}#detail_decorate_root .magic-8{margin-top:0;margin-left:0;width:750px;height:54px}#detail_decorate_root .magic-9{width:750px;border-collapse:collapse}#detail_decorate_root .magic-10{min-height:28px;padding:5px 10px;width:221px;min-height:28px;box-sizing:content-box}#detail_decorate_root .magic-11{min-height:28px;padding:5px 10px;width:485px;min-height:28px;box-sizing:content-box}#detail_decorate_root .magic-12{min-height:28px;padding:5px 10px;width:726px;min-height:28px;box-sizing:content-box}#detail_decorate_root .magic-13{text-align:center}#detail_decorate_root .magic-14{font-size:26px;color:#2196ed;font-family:inherit;font-style:inherit;font-variant-ligatures:inherit;font-variant-caps:inherit}#detail_decorate_root .magic-15{display:none}#detail_decorate_root .magic-16{min-height:28px;padding:5px 10px;width:486px;min-height:28px;box-sizing:content-box}#detail_decorate_root .magic-17{margin-bottom:10px;line-height:0}#detail_decorate_root .magic-18{margin-bottom:0}#detail_decorate_root .magic-19{position:relative;width:100%}#detail_decorate_root .magic-20{vertical-align:top}#detail_decorate_root .magic-21{vertical-align:top;display:block;padding-right:4px;box-sizing:border-box;padding-left:4px}#detail_decorate_root .magic-22{vertical-align:top;padding-bottom:4px;box-sizing:border-box;padding-top:4px}#detail_decorate_root .magic-23{padding:0;margin:0;white-space:pre-wrap;font-size:14px}#detail_decorate_root .magic-24{font-family:inherit;font-size:inherit;font-style:inherit;font-variant-ligatures:inherit;font-variant-caps:inherit}#detail_decorate_root .magic-25{overflow:hidden;width:750px;height:2607px;margin-top:0;margin-bottom:0;margin-left:0;margin-right:0}#detail_decorate_root .magic-26{margin-top:0;margin-left:0;width:750px;height:2607px}#detail_decorate_root .magic-27{overflow:hidden;width:750px;height:1754px;margin-top:0;margin-bottom:0;margin-left:0;margin-right:0}#detail_decorate_root .magic-28{margin-top:0;margin-left:0;width:750px;height:1754px}#detail_decorate_root .magic-29{overflow:hidden;width:750px;height:688px;margin-top:0;margin-bottom:0;margin-left:0;margin-right:0}#detail_decorate_root .magic-30{margin-top:0;margin-left:0;width:750px;height:688px}#detail_decorate_root .magic-31{overflow:hidden;width:750px;height:1441px;margin-top:0;margin-bottom:0;margin-left:0;margin-right:0}#detail_decorate_root .magic-32{margin-top:0;margin-left:0;width:750px;height:1441px}#detail_decorate_root .magic-33{overflow:hidden;width:750px;height:862px;margin-top:0;margin-bottom:0;margin-left:0;margin-right:0}#detail_decorate_root .magic-34{margin-top:0;margin-left:0;width:750px;height:862px}#detail_decorate_root .magic-35{overflow:hidden;width:750px;height:1430px;margin-top:0;margin-bottom:0;margin-left:0;margin-right:0}#detail_decorate_root .magic-36{margin-top:0;margin-left:0;width:750px;height:1430px}#detail_decorate_root .magic-37{overflow:hidden;width:750px;height:2370px;margin-top:0;margin-bottom:0;margin-left:0;margin-right:0}#detail_decorate_root .magic-38{margin-top:0;margin-left:0;width:750px;height:2370px}#detail_decorate_root .magic-39{overflow:hidden;width:750px;height:1379px;margin-top:0;margin-bottom:0;margin-left:0;margin-right:0}#detail_decorate_root .magic-40{margin-top:0;margin-left:0;width:750px;height:1379px}#detail_decorate_root .magic-41{overflow:hidden;width:750px;height:1735px;margin-top:0;margin-bottom:0;margin-left:0;margin-right:0}#detail_decorate_root .magic-42{margin-top:0;margin-left:0;width:750px;height:1735px} Product Paramenters *Model 16282 *Material PU *Weight 0.7kg *Size 34*11*22cm Color pink, black, light khaki, red, dark khaki, blue, yellow earth *Shoulder strap 1 *Function Cross-body,Handbag,One-shoulder *Production leadtime 7-15working days based on quantity Click Here!! More Details Supply For You! Dear all customer,above dimensions were measured manually with deviation （ranged）at 1-3cm. hope noted. Hot product Factory Display Customer Feedback Certifications Production process Why Choose Us FAQ
+  Updated: 2025-10-13T18:42:08Z
+  Vendor: FLORANZA-AIR.SHOP
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/H38f0ff4d82264852aa0f1d8c52d6854dA.webp?v=1760379519
+  - [Red / S](https://www.floranza-air.shop/products/new-womens-bags-2022-comfortable-and-beautiful-handbags-handbag-large-and-light-capacity-hand-bag-handbags16282?variant=52104212742481)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/H2a51f4496d404e5fab381f802ff46671V.webp?v=1760379519
+    Price: 45,00 € EUR
+  - [light khaki / S](https://www.floranza-air.shop/products/new-womens-bags-2022-comfortable-and-beautiful-handbags-handbag-large-and-light-capacity-hand-bag-handbags16282?variant=52104212775249)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Hb6fdd257ea9a4606a5bcee204acb9aabo.webp?v=1760379519
+    Price: 45,00 € EUR
+  - [Black / S](https://www.floranza-air.shop/products/new-womens-bags-2022-comfortable-and-beautiful-handbags-handbag-large-and-light-capacity-hand-bag-handbags16282?variant=52104212808017)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/H4ae3648f304447d1a70fa222b2aad5abX.webp?v=1760379519
+    Price: 45,00 € EUR
+  - [Dark Khaki / S](https://www.floranza-air.shop/products/new-womens-bags-2022-comfortable-and-beautiful-handbags-handbag-large-and-light-capacity-hand-bag-handbags16282?variant=52104212840785)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/H8e3c0e00060e4ec981c155a9b73817df8.webp?v=1760379519
+    Price: 45,00 € EUR
+  - [pink / S](https://www.floranza-air.shop/products/new-womens-bags-2022-comfortable-and-beautiful-handbags-handbag-large-and-light-capacity-hand-bag-handbags16282?variant=52104212873553)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/H4db52b40abfc435d869fb23f496d79ab7.webp?v=1760379519
+    Price: 45,00 € EUR
+  - [blue / S](https://www.floranza-air.shop/products/new-womens-bags-2022-comfortable-and-beautiful-handbags-handbag-large-and-light-capacity-hand-bag-handbags16282?variant=52104212906321)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/H1e5ed79b207c455480e79fededf9576ev.webp?v=1760379519
+    Price: 45,00 € EUR
+  - [Yellow earth / S](https://www.floranza-air.shop/products/new-womens-bags-2022-comfortable-and-beautiful-handbags-handbag-large-and-light-capacity-hand-bag-handbags16282?variant=52104212939089)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Ha8286b65466a4c2ca19ee101921f892br.webp?v=1760379519
+    Price: 45,00 € EUR
+- [Luxury Ladies Purses and Handbags High Quality Stripe Leather Shoulder Crossbody Bags for Women 2024 Elegant Tote Messenger Bags](https://www.floranza-air.shop/products/luxury-ladies-purses-and-handbags-high-quality-stripe-leather-shoulder-crossbody-bags-for-women-2024-elegant-tote-messenger-bags): SPECIFICATIONSBrand Name: NoEnName_NullCN: ZhejiangClosure Type: ZipperDecoration: NoneExterior: NoneGender: WomenHardness: SOFTHign-concerned Chemical: NoneInterior: Interior Slot Pocket,Interior Zipper PocketLining Material: POLYESTERMain Material: PUModel Number: 2024806Occasion: VersatileOrigin: Mainland ChinaPattern Type: StripedPlace Of Origin: Zhejiang Province,ZHE JIANG ProvinceShape: Casual ToteStyle: Casual
+  Updated: 2025-10-13T18:41:44Z
+  Vendor: FLORANZA-AIR.SHOP
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Se3a361ce93ed4aaa8598cd35e9a97f65i.webp?v=1760379626
+  - [photo color / 30x13x23cm](https://www.floranza-air.shop/products/luxury-ladies-purses-and-handbags-high-quality-stripe-leather-shoulder-crossbody-bags-for-women-2024-elegant-tote-messenger-bags?variant=52104218870097)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S6814ac9434334febbf53e314f4035a7dA.webp?v=1760379626
+    Price: 45,00 € EUR
+  - [photo color 1 / 30x13x23cm](https://www.floranza-air.shop/products/luxury-ladies-purses-and-handbags-high-quality-stripe-leather-shoulder-crossbody-bags-for-women-2024-elegant-tote-messenger-bags?variant=52104218902865)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S425a51b01c0a4112bacd68e56faf7b48M.webp?v=1760379626
+    Price: 45,00 € EUR
+  - [photo color 2 / 30x13x23cm](https://www.floranza-air.shop/products/luxury-ladies-purses-and-handbags-high-quality-stripe-leather-shoulder-crossbody-bags-for-women-2024-elegant-tote-messenger-bags?variant=52104218935633)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S371da9fd2d5b4a83b651905ed445d8abG.webp?v=1760379627
+    Price: 45,00 € EUR
+  - [photo color 3 / 30x13x23cm](https://www.floranza-air.shop/products/luxury-ladies-purses-and-handbags-high-quality-stripe-leather-shoulder-crossbody-bags-for-women-2024-elegant-tote-messenger-bags?variant=52104218968401)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S642427bb64244344a69a5eabb31b1f96B.webp?v=1760379627
+    Price: 45,00 € EUR
+  - [photo color 4 / 30x13x23cm](https://www.floranza-air.shop/products/luxury-ladies-purses-and-handbags-high-quality-stripe-leather-shoulder-crossbody-bags-for-women-2024-elegant-tote-messenger-bags?variant=52104219001169)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S0d94d474e31847e0a1caf503649ef1b0x.webp?v=1760379627
+    Price: 45,00 € EUR
+  - [photo color 5 / 30x13x23cm](https://www.floranza-air.shop/products/luxury-ladies-purses-and-handbags-high-quality-stripe-leather-shoulder-crossbody-bags-for-women-2024-elegant-tote-messenger-bags?variant=52104219033937)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Saeb85f59c76e471089bfb8fd28800a1ab.webp?v=1760379627
+    Price: 45,00 € EUR
+  - [photo color 6 / 30x13x23cm](https://www.floranza-air.shop/products/luxury-ladies-purses-and-handbags-high-quality-stripe-leather-shoulder-crossbody-bags-for-women-2024-elegant-tote-messenger-bags?variant=52104219066705)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S2abfa86e89584b5fa779ddc3efbca9580.webp?v=1760379626
+    Price: 45,00 € EUR
+  - [photo color 7 / 30x13x23cm](https://www.floranza-air.shop/products/luxury-ladies-purses-and-handbags-high-quality-stripe-leather-shoulder-crossbody-bags-for-women-2024-elegant-tote-messenger-bags?variant=52104219099473)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S33d92c46e6e44e14a39e5ec0f548d1e0a.webp?v=1760379627
+    Price: 45,00 € EUR
+  - [photo color 8 / 30x13x23cm](https://www.floranza-air.shop/products/luxury-ladies-purses-and-handbags-high-quality-stripe-leather-shoulder-crossbody-bags-for-women-2024-elegant-tote-messenger-bags?variant=52104219132241)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S6f290d9682ea4b5c8a6a25fad1c37e3a2.webp?v=1760379627
+    Price: 45,00 € EUR
+  - [photo color 9 / 30x13x23cm](https://www.floranza-air.shop/products/luxury-ladies-purses-and-handbags-high-quality-stripe-leather-shoulder-crossbody-bags-for-women-2024-elegant-tote-messenger-bags?variant=52104219165009)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Sca7b9249b71c4e8db0007bf29e78cc87b.webp?v=1760379627
+    Price: 45,00 € EUR
+  - [photo color 10 / 30x13x23cm](https://www.floranza-air.shop/products/luxury-ladies-purses-and-handbags-high-quality-stripe-leather-shoulder-crossbody-bags-for-women-2024-elegant-tote-messenger-bags?variant=52104219197777)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S59a81e73305e48d0af39a69936f477fdj.webp?v=1760379627
+    Price: 45,00 € EUR
+  - [photo color 11 / 30x13x23cm](https://www.floranza-air.shop/products/luxury-ladies-purses-and-handbags-high-quality-stripe-leather-shoulder-crossbody-bags-for-women-2024-elegant-tote-messenger-bags?variant=52104219230545)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S4c36d165d0424985b7f33d9c093694a7z.webp?v=1760379626
+    Price: 45,00 € EUR
+  - [photo color 12 / 30x13x23cm](https://www.floranza-air.shop/products/luxury-ladies-purses-and-handbags-high-quality-stripe-leather-shoulder-crossbody-bags-for-women-2024-elegant-tote-messenger-bags?variant=52104219263313)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S2582cf313bdb410aab4a3facf919597bV.webp?v=1760379627
+    Price: 45,00 € EUR
+  - [photo color 13 / 30x13x23cm](https://www.floranza-air.shop/products/luxury-ladies-purses-and-handbags-high-quality-stripe-leather-shoulder-crossbody-bags-for-women-2024-elegant-tote-messenger-bags?variant=52104219296081)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S6f2773d8fb2741238feacf4d50660765U.webp?v=1760379627
+    Price: 45,00 € EUR
+  - [photo color 14 / 30x13x23cm](https://www.floranza-air.shop/products/luxury-ladies-purses-and-handbags-high-quality-stripe-leather-shoulder-crossbody-bags-for-women-2024-elegant-tote-messenger-bags?variant=52104219328849)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Se5bb3512d73546399d72c9bb2d187bf1C.webp?v=1760379627
+    Price: 45,00 € EUR
+  - [photo color 15 / 30x13x23cm](https://www.floranza-air.shop/products/luxury-ladies-purses-and-handbags-high-quality-stripe-leather-shoulder-crossbody-bags-for-women-2024-elegant-tote-messenger-bags?variant=52104219361617)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S4f2910744ca9488087687d099d0d1063S.webp?v=1760379627
+    Price: 45,00 € EUR
+  - [photo color 16 / 30x13x23cm](https://www.floranza-air.shop/products/luxury-ladies-purses-and-handbags-high-quality-stripe-leather-shoulder-crossbody-bags-for-women-2024-elegant-tote-messenger-bags?variant=52104219394385)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S35323ff053594acd90493fbc4b7b87320.webp?v=1760379627
+    Price: 45,00 € EUR
+  - [photo color 17 / 30x13x23cm](https://www.floranza-air.shop/products/luxury-ladies-purses-and-handbags-high-quality-stripe-leather-shoulder-crossbody-bags-for-women-2024-elegant-tote-messenger-bags?variant=52104219427153)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S1eab02ce07ad4a0faa079e92f25f70caD.webp?v=1760379627
+    Price: 45,00 € EUR
+  - [photo color 18 / 30x13x23cm](https://www.floranza-air.shop/products/luxury-ladies-purses-and-handbags-high-quality-stripe-leather-shoulder-crossbody-bags-for-women-2024-elegant-tote-messenger-bags?variant=52104219459921)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Sbf62e1cd891345daa629a75f739fa23bi.webp?v=1760379627
+    Price: 45,00 € EUR
+  - [photo color 19 / 30x13x23cm](https://www.floranza-air.shop/products/luxury-ladies-purses-and-handbags-high-quality-stripe-leather-shoulder-crossbody-bags-for-women-2024-elegant-tote-messenger-bags?variant=52104219492689)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Sc41b635005fc48aab9d464c85a10b290b.webp?v=1760379627
+    Price: 45,00 € EUR
+- [Laptop 11.6 Inch Intel Celeron N4020 HD Camera 4500 MAH Touchscreens 6GB RAM 2TB SSD DDR4 Win11 360° Flips Portable Tablet](https://www.floranza-air.shop/products/laptop-11-6-inch-intel-celeron-n4020-hd-camera-4500-mah-touchscreens-6gb-ram-2tb-ssd-ddr4-win11-360-flips-portable-tablet-1): SPECIFICATIONSBattery: 4500mAhCPU: Intel Celeron N4020Keyword: Thin LaptopMemory: 128GB, 256GB,512GB,1BT,2TBProduct name: Gmaing LaptopRAM: 6GB DDR3Screen: 11.6"Series: HomeType: RegularUse: GAME HOME STUDYafter-sales service: Call Center and on-line Technical Supportbody material: Plasticbrand name: Ruiforlovecooling system type: DUAL FANdisplay ratio: 16:09display resolution: 1368*768feature: Touchscreengraphics card brand: Intelgraphics card type: Integrated Cardhard drive type: SSDif dual screens: Nokeyboard language: Englishoperating system: Windows 10optical drive type: Nonepackage: Yespanel type: IPSplace of origin: Guangdong, Chinaport: 1*USB3.0ppi: 131private mold: Noprocessor core: Dual Coreprocessor main frequency: 1.10GHzprocessor manufacture: Intelprocessor type: Intel N4020products status: Newrefresh rate: 65HZscreen size: 11.6"series: For Home & Studentthickness: 18 - 20mmvideo card: Intel UHD Graphics 600video memory type: With the main memorywarranty(year): 1-Yearweight: 2kgwlan: WiFi 802.11 a/b/g #detail_decorate_root .magic-0{border-bottom-style:solid;border-bottom-color:#a8aaac;font-family:Roboto;font-size:24px;color:#000;background-color:#b1b0b0;font-style:normal;border-bottom-width:2px;padding-top:8px;padding-bottom:4px}#detail_decorate_root .magic-1{width:750px;border-collapse:collapse}#detail_decorate_root .magic-2{min-height:28px;padding:5px 10px;width:161px;min-height:28px;box-sizing:content-box}#detail_decorate_root .magic-3{min-height:28px;padding:5px 10px;width:544px;min-height:28px;box-sizing:content-box}#detail_decorate_root .magic-4{width:750px}#detail_decorate_root .magic-5{width:446px}#detail_decorate_root .magic-6{overflow:hidden;width:446px;height:449.568px;margin-top:0;margin-bottom:0;margin-left:0;margin-right:0}#detail_decorate_root .magic-7{margin-top:0;margin-left:0;width:449px;height:449px}#detail_decorate_root .magic-8{width:300px;display:flex;flex-direction:column;margin-right:0;margin-left:4px}#detail_decorate_root .magic-9{box-sizing:border-box;margin:0;padding:0;color:#2e3033;font-family:Arial,"Microsoft YaHei","\\5FAE软雅黑","\\5B8B体","Malgun Gothic",Meiryo,sans-serif;font-size:14px;font-style:normal;font-variant:normal;letter-spacing:normal;line-height:14px;text-align:start;text-indent:0;text-transform:none;white-space:normal;word-spacing:0;-webkit-text-stroke-width:0;background-color:#fff}#detail_decorate_root .magic-10{box-sizing:border-box;margin:0 0 10px;padding:0;list-style:none}#detail_decorate_root .magic-11{box-sizing:border-box;margin:0;padding:0;font-size:14px;color:#666;line-height:20px}#detail_decorate_root .magic-13{margin-bottom:10px;line-height:0}#detail_decorate_root .magic-14{margin-bottom:0}#detail_decorate_root .magic-15{position:relative;width:100%}#detail_decorate_root .magic-16{margin-bottom:10px;overflow:hidden}#detail_decorate_root .magic-17{vertical-align:top}#detail_decorate_root .magic-18{vertical-align:top;display:block;padding-right:4px;box-sizing:border-box;padding-left:4px}#detail_decorate_root .magic-19{vertical-align:top;padding-bottom:4px;box-sizing:border-box;padding-top:4px}#detail_decorate_root .magic-20{padding:0;margin:0;white-space:pre-wrap;font-size:14px}#detail_decorate_root .magic-21{overflow:hidden;width:750px;height:750px;margin-top:0;margin-bottom:4px;margin-left:0;margin-right:0}#detail_decorate_root .magic-22{margin-top:0;margin-left:0;width:750px;height:750px}#detail_decorate_root .magic-23{overflow:hidden;width:373px;height:298.4px;margin-top:0;margin-bottom:0;margin-left:0;margin-right:0}#detail_decorate_root .magic-24{margin-top:0;margin-left:0;width:373px;height:298.4px}#detail_decorate_root .magic-25{overflow:hidden;width:373px;height:298px;margin-top:0;margin-bottom:0;margin-left:4px;margin-right:0}#detail_decorate_root .magic-26{padding:0;margin:0;color:#333;font-size:14px;padding-left:4px;font-weight:bold;white-space:pre-wrap} Product Description Product Name 11.6 Inch Laptop Material Plastic 500Battery Capacity 4500mAh Packing Individual box 11.6 Inch N4020 Configuration Parameter 1. Screen size:11.6 inch HD Screen 2. CPU: Intel Celeron N4020 Processor,Dual Cores, Dual Threads, CPU Clock Speed 2.0Ghz; Turbo: 2.9Ghz3. System: Windows 104. Supported languages: Multi-language 5. RAM: DDR6 *1 SO-DIMM 6GB/12GB 6. RAM: SSD 128GB,256GB,512GB,1TB,2TB 7. Front Camera: 0.03MP 8. Battery: 4500mAh, polymer lithium battery 9.BT 4.2 10.Touch pad/Track Pad:Single refers to touch+Left/Right click buttons 11:WIFI/WLAN:802.11 b/g/n wi-fi+BT 12: Process Core:Dual Core Details Images Related Products Company Introduction HanCheng Electronic Technology Co., Ltd., founded in 2015, is a leading high-tech company located in Dongguan City, a globally recognized hub for electronics manufacturing. We specialize in a wide array of products, including laptops, tablets, smartwatches, smartphones, TWS headphones, speakers, and various LED items. With nearly a decade of experience in consumer electronics, our dedicated R&D team consistently innovates and develops new products each year. Our commitment to exceptional OEM/ODM services and effective communication has earned us a strong reputation among customers worldwide. Our Services & Strength Our mission is to help you earn more profits, through increased sales, increased brand recognition and reputation, and/or increased profit margins. FAQ Why do we choose us ?1. We directly control our product quality from three aspects !Every product has to go through THREE steps of quality assessment, from material selection to factory process to final test before packing !2. Stable and fast lead time!We have big stock and quick turn around time, normally our lead time is within 3 days !3. Reduction on transportation charge than most supplier !We have specail cooperation with DHL, UPS, FedEx and other courier, don't be surprised if you pay much less freight fee while cooperting with us !4. We focuses on and specialize in Watches, Speakers, Earbuds & LED Items !Concentration makes excellence ! We focuses on Electronics accessories, we are focused, we are professional and excellent !5. We also provide OEM service!If you have your own brand and designs already, it's fine! We can also produce your brand products !6. We have the most youthful enthusiastic and energetic service group !We are young, we are professional, we promise to offer you the most considerate service !And how to buy???Step 1:Find the model(s) you want,and tell us your detailed requirements;Step 2:Proforma Invoice confirmed, the order will be arranged upon receipt of your payment;Step 3:Confirm and ship the goods, then tracking number will be sent to you promptly;Step 4:We will help to track your goods until you receive them successfully.
+  Updated: 2025-10-13T18:41:24Z
+  Vendor: FLORANZA-AIR.SHOP
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/H5046b9d87e6a46d48529d68b909b86f39_1ef046b2-7eec-4109-8880-db166939b050.webp?v=1760379811
+  - [Silver / 1TB / 6GB|11."N4020](https://www.floranza-air.shop/products/laptop-11-6-inch-intel-celeron-n4020-hd-camera-4500-mah-touchscreens-6gb-ram-2tb-ssd-ddr4-win11-360-flips-portable-tablet-1?variant=52104235614545)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/H758e35a8fa9c4cc1a77e501b347190e8X.jpg_100x100_523aac40-02c7-4c20-987a-14cc3652bd14.webp?v=1760379810
+    Price: 345,00 € EUR
+  - [Silver / 128GB / 6GB|11."N4020](https://www.floranza-air.shop/products/laptop-11-6-inch-intel-celeron-n4020-hd-camera-4500-mah-touchscreens-6gb-ram-2tb-ssd-ddr4-win11-360-flips-portable-tablet-1?variant=52104235647313)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/H758e35a8fa9c4cc1a77e501b347190e8X.jpg_100x100_523aac40-02c7-4c20-987a-14cc3652bd14.webp?v=1760379810
+    Price: 345,00 € EUR
+  - [Silver / 256GB / 6GB|11."N4020](https://www.floranza-air.shop/products/laptop-11-6-inch-intel-celeron-n4020-hd-camera-4500-mah-touchscreens-6gb-ram-2tb-ssd-ddr4-win11-360-flips-portable-tablet-1?variant=52104235680081)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/H758e35a8fa9c4cc1a77e501b347190e8X.jpg_100x100_523aac40-02c7-4c20-987a-14cc3652bd14.webp?v=1760379810
+    Price: 345,00 € EUR
+  - [Silver / 512 GB / 6GB|11."N4020](https://www.floranza-air.shop/products/laptop-11-6-inch-intel-celeron-n4020-hd-camera-4500-mah-touchscreens-6gb-ram-2tb-ssd-ddr4-win11-360-flips-portable-tablet-1?variant=52104235712849)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/H758e35a8fa9c4cc1a77e501b347190e8X.jpg_100x100_523aac40-02c7-4c20-987a-14cc3652bd14.webp?v=1760379810
+    Price: 345,00 € EUR
+- [Focallure Mineral Face Pressed Powder 3 Colors Waterproof Natural Concealer Contouring Makeup Face Powder Oil Control](https://www.floranza-air.shop/products/focallure-mineral-face-pressed-powder-3-colors-waterproof-natural-concealer-contouring-makeup-face-powder-oil-control-1): SPECIFICATIONSBenefit: Nutritious,Moisturizer,Oil-control,sun block,Waterproof / Water-Resistant,Long-lasting,Whitening,BRIGHTEN,ConcealerBrand Name: FOCALLURECertificate Number: 2018143419Certification: GZBJZChoice: yesCountry/Region of Manufacture: CHINADate of Manufacture: Latest dateFinish: MatteFormulation: Pressed PowderHign-concerned Chemical: NoneIngredient: MineralManufacturer: FOCALLUREModel Number: FA16-19082NET WT: 8.4gNumber of Pieces: One UnitOrigin: Mainland ChinaQuantity: 1Shelf Life: 3 YearsSize: Full SizeSkin Type: All Skin TypesType: Powdersemi_Choice: yes Focallure Mineral Face Pressed Powder 3 Colors Waterproof Natural Concealer Contouring Makeup Face Powder Oil Control Stay shine free with finely-milled powder to control oil breakouts. Lightweight powder provides smooth, flawless finish. Compact includes puff applicator and mirror so great for when you're on the go. Colors:3 Color optional, #1 light beige, #2 Nature Brige, 3#WeatenChoose the color most close to your own skin tone. Features:-Delivers a flawless finish throughout the day-Protecting the epidermis from early stages of ultraviolet light damage-Protecting the skin barrier's oil (lipid) balance during the cleansing process Ingredients: Talc, Ethylene/Acrylic Acid Copolymer, Silica Boron Nitride, Ethylhexylpalmitate, Phenoxyethanol, Methylparaben, Propylparaben, Butylparaben, Ethylparaben, Isobuytylparaben. May Contain: Titanium Dioxide, Iron Oxides. Detail:MIUAGIRL Pressed PowderWeight: 26g / 0.92fl.ozSize:7.5cm*1.7cm(D*H)Including a ultra-soft puff Health Licenece: GD.FDA29-XK-3276Produce Licence: XK16-108 8553Executive Standard: QB/T1976-2004
+  Updated: 2025-10-13T18:41:02Z
+  Vendor: FLORANZA-AIR.SHOP
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S0196c09549a347be9dd28e0514243222u_3df3485b-83ae-45ff-9729-f617b49a28f0.webp?v=1760379904
+  - [YL01](https://www.floranza-air.shop/products/focallure-mineral-face-pressed-powder-3-colors-waterproof-natural-concealer-contouring-makeup-face-powder-oil-control-1?variant=52104239841617)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Sefaeb6f832de46f4b6788084b6c2a885y_e42b893e-d14f-4e4f-8423-457c3c9e30b7.webp?v=1760379904
+    Price: 11,00 € EUR
+  - [01](https://www.floranza-air.shop/products/focallure-mineral-face-pressed-powder-3-colors-waterproof-natural-concealer-contouring-makeup-face-powder-oil-control-1?variant=52104239874385)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S0294d9dd8d1a450fa71f7b5cc3bc40a0s_ae022b9e-6587-4275-9962-cc621968cd79.webp?v=1760379903
+    Price: 11,00 € EUR
+  - [02](https://www.floranza-air.shop/products/focallure-mineral-face-pressed-powder-3-colors-waterproof-natural-concealer-contouring-makeup-face-powder-oil-control-1?variant=52104239907153)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S893afbf8aac740aa9b4e0a093a185ba3w_26393d29-4197-4835-a2e2-48a30662cca0.webp?v=1760379904
+    Price: 11,00 € EUR
+  - [03](https://www.floranza-air.shop/products/focallure-mineral-face-pressed-powder-3-colors-waterproof-natural-concealer-contouring-makeup-face-powder-oil-control-1?variant=52104239939921)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Scef5e9f49cdb438cad1625d69bb677f7D_a0fb5dda-b678-4066-af86-3656b418fddb.webp?v=1760379904
+    Price: 11,00 € EUR
+- [53-123cm  Artificial Palm Tree Tropical Fake Plant Green Plastic Palm Leaf Branches Suitable for Home Garden Decoration](https://www.floranza-air.shop/products/53-123cm-artificial-palm-tree-tropical-fake-plant-green-plastic-palm-leaf-branches-suitable-for-home-garden-decoration): SPECIFICATIONSApplications: AnniversaryBrand Name: NoEnName_NullCN: GuangdongChoice: yesHign-concerned Chemical: NoneMaterial: PlasticOrigin: Mainland ChinaPlant Style: TREEPurpose: ExhibitionUsage scenarios: Outdoor
+  Updated: 2025-10-13T18:40:43Z
+  Vendor: FLORANZA-AIR.SHOP
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S0e6854ed58cb46f2a7c33dd807f751f8r.webp?v=1760380056
+  - [C-SWK-18Y-125-2T19](https://www.floranza-air.shop/products/53-123cm-artificial-palm-tree-tropical-fake-plant-green-plastic-palm-leaf-branches-suitable-for-home-garden-decoration?variant=52104245313873)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Saf1ac27d69e14a99a991642894c2884fh.webp?v=1760380056
+    Price: 14,15 € EUR
+  - [C-SWK-18Y-123-2T19](https://www.floranza-air.shop/products/53-123cm-artificial-palm-tree-tropical-fake-plant-green-plastic-palm-leaf-branches-suitable-for-home-garden-decoration?variant=52104245346641)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S2cb3d7cdae7b467988bd67df74e63a2dQ.webp?v=1760380056
+    Price: 16,40 € EUR
+  - [SWK-21Y-79-2T19](https://www.floranza-air.shop/products/53-123cm-artificial-palm-tree-tropical-fake-plant-green-plastic-palm-leaf-branches-suitable-for-home-garden-decoration?variant=52104245379409)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S61ed7d6d22bc4ac8b8f2037069c56d4df.webp?v=1760380056
+    Price: 6,71 € EUR
+  - [SWK-15Y-94-2T19](https://www.floranza-air.shop/products/53-123cm-artificial-palm-tree-tropical-fake-plant-green-plastic-palm-leaf-branches-suitable-for-home-garden-decoration?variant=52104245412177)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S9c81cd32114440ce876f8cd09a056eaaJ.webp?v=1760380056
+    Price: 8,55 € EUR
+  - [SWK-9Y-94-2T19](https://www.floranza-air.shop/products/53-123cm-artificial-palm-tree-tropical-fake-plant-green-plastic-palm-leaf-branches-suitable-for-home-garden-decoration?variant=52104245444945)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Sa3a2e1dbc5c54c1fb04f52340c2d49d3z.webp?v=1760380057
+    Price: 6,64 € EUR
+  - [SWK-18Y-125-2T19](https://www.floranza-air.shop/products/53-123cm-artificial-palm-tree-tropical-fake-plant-green-plastic-palm-leaf-branches-suitable-for-home-garden-decoration?variant=52104245477713)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S2cbde9a0de5249e0a37a6dcd5f5f2519B.webp?v=1760380057
+    Price: 13,55 € EUR
+  - [SWK-18Y-84-2T19](https://www.floranza-air.shop/products/53-123cm-artificial-palm-tree-tropical-fake-plant-green-plastic-palm-leaf-branches-suitable-for-home-garden-decoration?variant=52104245510481)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S1b1ad6a7ed0c460cb7c8fe2da23ed752i.webp?v=1760380057
+    Price: 6,98 € EUR
+  - [SWK-21Y-78-2T19](https://www.floranza-air.shop/products/53-123cm-artificial-palm-tree-tropical-fake-plant-green-plastic-palm-leaf-branches-suitable-for-home-garden-decoration?variant=52104245543249)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S0c1e043cf07e48fab0edbb8b9af23b1d2.webp?v=1760380056
+    Price: 6,73 € EUR
+  - [XSWK-9Y-51-2T19](https://www.floranza-air.shop/products/53-123cm-artificial-palm-tree-tropical-fake-plant-green-plastic-palm-leaf-branches-suitable-for-home-garden-decoration?variant=52104245576017)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Sd92ec0ec2f1a40c3b9a021f0f3cd4627m.webp?v=1760380056
+    Price: 3,92 € EUR
+  - [SWK-12Y-66-2T19](https://www.floranza-air.shop/products/53-123cm-artificial-palm-tree-tropical-fake-plant-green-plastic-palm-leaf-branches-suitable-for-home-garden-decoration?variant=52104245608785)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S10c5d83a25984cce894e4d3b2603f9efX.webp?v=1760380056
+    Price: 4,04 € EUR
+  - [SWK-12Y-94-2T19](https://www.floranza-air.shop/products/53-123cm-artificial-palm-tree-tropical-fake-plant-green-plastic-palm-leaf-branches-suitable-for-home-garden-decoration?variant=52104245641553)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S7773fca72d7547de9efc980ac4961efe9.webp?v=1760380057
+    Price: 7,21 € EUR
+  - [SWK-24Y-125-2T19](https://www.floranza-air.shop/products/53-123cm-artificial-palm-tree-tropical-fake-plant-green-plastic-palm-leaf-branches-suitable-for-home-garden-decoration?variant=52104245674321)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S5e341e2ed90f45d1b00f24f9e643db32j.webp?v=1760380056
+    Price: 16,65 € EUR
+  - [SWK-18Y-105-2T19](https://www.floranza-air.shop/products/53-123cm-artificial-palm-tree-tropical-fake-plant-green-plastic-palm-leaf-branches-suitable-for-home-garden-decoration?variant=52104245707089)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S4cd25bc49a7f42e8946944b99c372f64k.webp?v=1760380057
+    Price: 10,08 € EUR
+  - [k-SWK-24Y-120-2T19](https://www.floranza-air.shop/products/53-123cm-artificial-palm-tree-tropical-fake-plant-green-plastic-palm-leaf-branches-suitable-for-home-garden-decoration?variant=52104245739857)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S2b0119b47af349638a7cadc6ef9cbcb0o.webp?v=1760380056
+    Price: 17,48 € EUR
+  - [k-SWK-12Y-92-2T19](https://www.floranza-air.shop/products/53-123cm-artificial-palm-tree-tropical-fake-plant-green-plastic-palm-leaf-branches-suitable-for-home-garden-decoration?variant=52104245772625)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Sbb1fae55d6114b5588c68ab2e0907a42j.webp?v=1760380056
+    Price: 7,73 € EUR
+  - [SWK-8Y-71-2T19](https://www.floranza-air.shop/products/53-123cm-artificial-palm-tree-tropical-fake-plant-green-plastic-palm-leaf-branches-suitable-for-home-garden-decoration?variant=52104245805393)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S70d898a5e03549129335883483ad1bc4B.webp?v=1760380056
+    Price: 3,45 € EUR
+  - [k-SWK-18Y-123-2T19](https://www.floranza-air.shop/products/53-123cm-artificial-palm-tree-tropical-fake-plant-green-plastic-palm-leaf-branches-suitable-for-home-garden-decoration?variant=52104245838161)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Sb75111973b6d447aa0a39d0f85ce702bv.webp?v=1760380057
+    Price: 14,96 € EUR
+  - [k-SWK-15Y-100-2T19](https://www.floranza-air.shop/products/53-123cm-artificial-palm-tree-tropical-fake-plant-green-plastic-palm-leaf-branches-suitable-for-home-garden-decoration?variant=52104245870929)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Sc4655dbcdaf34952a9584934b4cf5c7ab.webp?v=1760380056
+    Price: 9,88 € EUR
+  - [x-SWK4-24Y-104-2T19](https://www.floranza-air.shop/products/53-123cm-artificial-palm-tree-tropical-fake-plant-green-plastic-palm-leaf-branches-suitable-for-home-garden-decoration?variant=52104245903697)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S995ee834e5d24faf98d957f5d05a31e2M.webp?v=1760380057
+    Price: 11,45 € EUR
+  - [k-SWK-9Y-92-2T19](https://www.floranza-air.shop/products/53-123cm-artificial-palm-tree-tropical-fake-plant-green-plastic-palm-leaf-branches-suitable-for-home-garden-decoration?variant=52104245936465)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S0425ad7b9a114e94a966b162603db120t.webp?v=1760380057
+    Price: 6,73 € EUR
+  - [SWK-24Y-95-2T19](https://www.floranza-air.shop/products/53-123cm-artificial-palm-tree-tropical-fake-plant-green-plastic-palm-leaf-branches-suitable-for-home-garden-decoration?variant=52104245969233)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S5930365a11f54d80856dfc69619c3a43a.webp?v=1760380056
+    Price: 8,16 € EUR
 
 ## Collections
 
@@ -23320,11 +23895,11 @@ Fashion Element:simple
   Updated: 2025-10-13T13:42:20Z
   Total Products: 1
 - [AVADA - Best Sellers](https://www.floranza-air.shop/collections/avada-best-sellers)
-  Updated: 2025-10-13T04:30:41Z
-  Total Products: 424
+  Updated: 2025-10-13T18:55:57Z
+  Total Products: 438
 - [APPPlaza - Best Sellers](https://www.floranza-air.shop/collections/appplaza-best-sellers)
-  Updated: 2025-10-13T04:30:41Z
-  Total Products: 424
+  Updated: 2025-10-13T18:55:57Z
+  Total Products: 438
 - [VENTILATEUR DE COU PORTABLE RECHARGEABLE](https://www.floranza-air.shop/collections/ventilateur-de-cou-portable-rechargeable): Description: Restez au frais partout, en toute liberté ! Vous en avez assez de souffrir de la chaleur lors de vos déplacements, au travail ou pendant vos activités sportives ? Le FLORANZA-AIR™ est la solution parfaite pour vous rafraîchir instantanément, où que vous soyez. ✨ Pourquoi choisir FLORANZA-AIR™ ? Portable et mains libres - Se porte confortablement autour du cou, vous laissant les mains libres pour vos activités Rechargeable USB - Plus besoin de piles jetables, économique et écologique Ultra-léger (239g) - Vous oubliez que vous le portez Silencieux - Profitez d'une brise rafraîchissante sans bruit gênant Parfait pour l'été - Idéal pour le sport, le bureau, les voyages, le jardinage ou toute activité extérieure 🌬️ Caractéristiques techniques : Poids : 239g seulement Alimentation : Rechargeable par USB Design ergonomique pour un confort optimal Ventilation efficace et ciblée Ne laissez plus la chaleur gâcher vos journées ! Commandez votre FLORANZA-AIR™ dès maintenant et profitez d'un confort rafraîchissant instantané. Titre pour le référencement naturel (SEO): FLORANZA-AIR™ Ventilateur de Cou Portable Rechargeable USB - Rafraîchissement Mains Libres Description pour le référencement naturel (SEO): Ventilateur de cou portable rechargeable FLORANZA-AIR™. Ultra-léger (239g), silencieux, mains libres. Parfait pour sport, bureau, voyage. Rechargeable USB. Restez au frais partout ! Balises: 5 modifications
   Updated: 2025-10-13T13:42:20Z
   Total Products: 6
