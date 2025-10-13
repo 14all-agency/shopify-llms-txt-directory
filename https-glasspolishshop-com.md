@@ -7,7 +7,7 @@
 - Currency: EUR
 - Timezone: Europe/Dublin
 - Created At: 2025-01-23T10:54:05Z
-- Updated At: 2025-10-13T00:00:36.900Z
+- Updated At: 2025-10-13T08:00:33.520Z
 
 ## Products
 
@@ -61,7 +61,7 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/14055.jpg?v=1740210658
   Price: €31.95 EUR
 - [PRO Glass Polishing Compound 500ml | High-Grade 2.3 Microns – GP14056](https://glasspolishshop.com/products/gp-pro-glass-polishing-compound-500ml-16-9oz): Glass Polishing Compound Polish away, surface marks, water damage, stain and lime scale, removes hairline scratches for any type of glass
-  Updated: 2025-10-08T10:57:32Z
+  Updated: 2025-10-13T07:50:47Z
   Vendor: Glass Polish
   Product Type: Glass Polishing Compound
   Availability: Available
@@ -1392,7 +1392,7 @@
     Availability: Available
     Price: €44.95 EUR
 - [Glass Polish Felt Polishing Pad 11007](https://glasspolishshop.com/products/gp-pro-felt-polishing-pad-3-inch-75mm): Glass Polish 75mm / 3 inch GP-PRO Felt Polishing Pad. Ideal for cutting and polishing actions resulting high glossy finish on range of surfaces
-  Updated: 2025-10-12T20:28:03Z
+  Updated: 2025-10-13T07:50:46Z
   Vendor: Glass Polish
   Product Type: Felt Polishing Pad
   Availability: Available
@@ -1437,7 +1437,7 @@
     Availability: Available
     Price: €105.95 EUR
 - [Glass Polish Felt Polishing Pad 11010](https://glasspolishshop.com/products/gp-pro-felt-polishing-pad-6-inch-150mm): Glass Polish 150mm / 6 inch GP-PRO Felt Polishing Pad. Ideal for cutting and polishing actions resulting high glossy finish on range of surfaces
-  Updated: 2025-10-10T13:50:01Z
+  Updated: 2025-10-13T07:50:46Z
   Vendor: Glass Polish
   Product Type: Felt Polishing Pad
   Availability: Available
@@ -2431,7 +2431,7 @@
     Availability: Available
     Price: €27.95 EUR
 - [GlasX 60 Fine Grade Silicon Carbide Disc 75mm](https://glasspolishshop.com/products/glasx-60-fine-grade-abrasive-3-inch-75mm): GlasX™ 60 Constructed from the highest quality silicon carbide particles for GREAT PERFORMANCE / CLEAR CUT - no swirl marks / LONG LIFESPAN- last up to 5 times longer than traditional abrasives.
-  Updated: 2025-10-11T20:39:41Z
+  Updated: 2025-10-13T07:50:47Z
   Vendor: Glass Polish
   Product Type: GlasX™ Foam-Backed Abrasive Discs
   Availability: Available
@@ -2503,7 +2503,7 @@
     Availability: Available
     Price: €84.95 EUR
 - [DIY Glass Scratch Removal Kit 75mm – Deep Scratch Repair with Drill](https://glasspolishshop.com/products/diy-glass-scratch-removal-kit-75mm): 75mm glass scratch removal kit for deep scratch repairs on all glass types. Includes abrasives, pads, compound, and drill adaptor. Fast, easy, and effective.
-  Updated: 2025-10-12T06:52:36Z
+  Updated: 2025-10-13T06:28:30Z
   Vendor: Glass Polish
   Product Type: Glass Scratch Removal Kit
   Availability: Available
@@ -2879,7 +2879,7 @@
     Availability: Available
     Price: €54.95 EUR
 - [ProMesh™ P500 Foam Backed Silicon Carbide Sanding Discs 125mm (5”)](https://glasspolishshop.com/products/promesh-p500-foam-backed-sanding-discs-125mm-5-inch): Foam-backed P500 grit discs deliver smooth pre-polishing, even pressure, and swirl-free results. Ideal for refining glass, plastics, ceramics, and metals.
-  Updated: 2025-10-10T20:09:02Z
+  Updated: 2025-10-13T07:50:46Z
   Vendor: Glass Polish
   Product Type: ProMesh™ Foam-Backed Abrasive Discs
   Availability: Available
