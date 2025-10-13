@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-07-19T18:27:19Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-10-13T16:00:36.038Z
+- Updated At: 2025-10-13T20:00:34.901Z
 
 ## Products
 
@@ -1077,7 +1077,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/Navy_8e9d8a29-7d42-4fa6-af34-bb64ab342096.jpg?v=1757517255
     Price: $1.00 USD
 - [Shiny Velvet Fabric | Fabrics Star](https://fabricsstar.com/products/soft-velvet-fabric): Experience luxury and comfort with Soft Velvet Fabric from Fabrics Star. Explore premium quality material for your upholstery needs. Shop now!
-  Updated: 2025-10-10T00:38:21Z
+  Updated: 2025-10-13T16:21:01Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -3031,7 +3031,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/DENVER-GOLD-NAVY-851.jpg?v=1757517611
     Price: $1.00 USD
 - [Cambridge Floral Jacquard Fabric | Fabrics Star](https://fabricsstar.com/products/cambridge-floral-jacquard-fabric): Add a touch of sophistication with Cambridge Floral Jacquard Fabric from Fabrics Star. With a 55-inch width, this fabric is perfect for upholstery, drapery, pillows etc.
-  Updated: 2025-09-21T15:20:24Z
+  Updated: 2025-10-13T18:23:11Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
