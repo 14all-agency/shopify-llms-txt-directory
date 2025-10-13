@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2025-08-20T10:34:43Z
 - Contact Email: enfinlibre256@gmail.com
-- Updated At: 2025-10-13T00:00:42.886Z
+- Updated At: 2025-10-13T04:00:39.529Z
 
 ## Products
 
 - [FLORANZA-AIR™ Ventilateur de Cou Portable Rechargeable USB - Rafraîchissement Mains Libres](https://www.floranza-air.shop/products/floranza-air): Ventilateur de cou portable rechargeable FLORANZA-AIR™. Ultra-léger (239g), silencieux, mains libres. Parfait pour sport, bureau, voyage. Rechargeable USB. Restez au frais partout !
-  Updated: 2025-10-12T13:16:21Z
+  Updated: 2025-10-13T01:16:25Z
   Vendor: FLORANZA-AIR™
   Product Type: 
   Availability: Available
@@ -9511,7 +9511,7 @@
     Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Sa10f1bb99ebc4b92b4d8b9ff5988df92U.webp?v=1759341969
     Price: 577,69 € EUR
 - [2000W Heavy Duty Commercial Blender Stationary Mixer Food Processor Ice Smoothies for Kitchen High Power Juicer Blender BPA Free](https://www.floranza-air.shop/products/2000w-heavy-duty-commercial-blender-stationary-mixer-food-processor-ice-smoothies-for-kitchen-high-power-juicer-blender-bpa-free): SPECIFICATIONSBlade Number: 6Blending Arm Material: PlasticBrand Name: BALASHOVCapacity (l): 1.8-2.1LCertification: ROHS,CEChoice: yesContainer Material: ABSControls Type: Push buttonFunction: Other,Bean Product,Juice Extractor,Rice Paste,Five Cereals,Corn Juice,Milk Tea & Jam,Mung Bean Paste,Fruit Juice,Ice Crushing,STIRRING,Milk ShakeHign-concerned Chemical: NoneHousing Material: PlasticNumber of Pieces: 1Origin: Mainland ChinaPower (W): >1501WRotation Rate(RPM): 45000Style: StandingVoltage: 220V Please note : Plug: EU plug(220V) Plug: US plug (110V) Plug: UK plug(230V) When you place the order, please confirm all the receiver information are correct and complete,Israel buyers must have 7 numbers zip code and detailed address and express not support PO box delivery. It is very important for us to ship the goods out and delivery as soon as possible.Feature:【 Upgrade High Performance Kitchen Blender】2000 watt motor has the power to crush through whole fruits, vegetables and ice in seconds. Powerful nutrient and vitamin extraction provides great tasting, nutritious beverages !【 Sturdy And Durable】The blending jar with BPA Free is built to last, an easy-to-hold handle, and BPA-free lid. The blender base is equipped with anti-slip suction feet, so you can blend safely on your kitchen countertop.【 Hardened Stainless-Steel Blades】Our stainless steel blades are designed to handle the toughest ingredients, so from the first blend to the last, you get the same quality results.【 Healthy, Safety & Hygiene】All materials of this smoothie maker are BPA free . The sturdy, non-slip large handle prevents your hand from slipping out of the handle while pouring the milkshake. Guards every food creator . With a drop of dish soap and warm water, your professional blender high power blender high speed blender can clean itself in 30 to 60 seconds.【 What You Get】(1) 2000W motor base,(1) 2L blending container , (1)Blender Tamper, (1)Manual guideNOTES: ( PEASE READ MANUAL INSTRUCTION BEFORE USING) 1. As soon as you received the blender, please add some water inside the container to test, DO NOT run it without anything inside as it's a bad try for the coupling system, DO NOT grinding dry ingredients over 1 minute.2. Like buy a new car it will has some smelling, it's totally normal situation, when you using at the beginning it may have some smelling even slight smoke comes from motor, but don't worry, that because the new motor gets heating up lubricant which coated on coils, it will goes away after few more times use. Thanks for your attention.3.The Jar is NOT dishwasher safe!!! Note:1. Due to the different monitor and light effect, the actual color of the item might be slightly different from the color showed on the pictures. Thank you!2. Please allow 1-3cm measuring deviation due to manual measurement.
-  Updated: 2025-10-08T10:05:58Z
+  Updated: 2025-10-13T00:28:34Z
   Vendor: FLORANZA-AIR.SHOP
   Product Type: 
   Availability: Available
@@ -22170,7 +22170,7 @@ Fashion Element:simple
     Availability: Available
     Price: 193,99 € EUR
 - [MINI FOCUS 0411new Design Metal Strap Quartz Watch Waterproof Luminous Wristwatch with 24-hour Display square Montres Hommes](https://www.floranza-air.shop/products/mini-focus-0411new-design-metal-strap-quartz-watch-waterproof-luminous-wristwatch-with-24-hour-display-square-montres-hommes): SPECIFICATIONSAge: 2021Band Length: 20 cmBand Material Type: Stainless SteelBand Width: 26mmBand material: stainless steel bandBand width: 26mmBattery Life: 2 yearsBrand Name: Mini Focus & OEMCase Material: AlloyCase Shape: RoundCase Thickness: 11.5mmCase size: 42mmCase thick: 11.5mmClasp Type: Folding Clasp with SafetyDial: Chronograph dialDial Diameter: 42 MMDial Display: PointerDial Window Material Type: HardlexFeature: chronograph,Day/Date,Water Resistant,Waterproof,Luminous,Week Display,Luminous Hands,TACHYMETERGender: Men'sItem name: MINI FOCUS 0411new design Metal watchMaterial: AlloyModel Number: MF0411GMovement: Chrongraph Quartz movementMovement Brand: CHENLONGPlace of Origin: Guangdong, ChinaType: CHARM,Fashion,Limited Edition,Luxury,AntiqueUser: MenWater Resistance Depth: 3BARWater resistant: 3ATM #detail_decorate_root .magic-0{border-bottom-style:solid;border-bottom-color:#53647a;font-family:Roboto;font-size:24px;color:#53647a;font-style:normal;border-bottom-width:2px;padding-top:8px;padding-bottom:4px}#detail_decorate_root .magic-1{width:750px}#detail_decorate_root .magic-2{overflow:hidden;width:750px;height:333.73205741626793px;margin-top:0;margin-bottom:0;margin-left:0;margin-right:0}#detail_decorate_root .magic-3{margin-top:1px;margin-left:-3px;width:750px;height:333.73205741626793px}#detail_decorate_root .magic-4{margin-bottom:10px;overflow:hidden}#detail_decorate_root .magic-5{vertical-align:top}#detail_decorate_root .magic-6{vertical-align:top;display:block;padding-right:4px;box-sizing:border-box;padding-left:4px}#detail_decorate_root .magic-7{vertical-align:top;padding-bottom:4px;box-sizing:border-box;padding-top:4px}#detail_decorate_root .magic-8{padding:0;margin:0;white-space:pre-wrap;font-size:14px}#detail_decorate_root .magic-9{font-size:32px}#detail_decorate_root .magic-10{width:750px;border-collapse:collapse}#detail_decorate_root .magic-11{min-height:28px;padding:5px 10px;width:168px;min-height:18px;box-sizing:content-box}#detail_decorate_root .magic-12{min-height:28px;padding:5px 10px;width:176px;min-height:18px;box-sizing:content-box}#detail_decorate_root .magic-13{min-height:28px;padding:5px 10px;width:177px;min-height:18px;box-sizing:content-box}#detail_decorate_root .magic-14{min-height:28px;padding:5px 10px;width:143px;min-height:18px;box-sizing:content-box}#detail_decorate_root .magic-15{margin-bottom:10px;line-height:0}#detail_decorate_root .magic-16{margin-bottom:0}#detail_decorate_root .magic-17{position:relative;width:100%}#detail_decorate_root .magic-18{padding:0;margin:0;color:#333;font-size:14px;padding-left:4px;font-weight:bold;white-space:pre-wrap}#detail_decorate_root .magic-19{font-size:28px}#detail_decorate_root .magic-21{overflow:hidden;width:750px;height:425.625px;margin-top:0;margin-bottom:0;margin-left:0;margin-right:0}#detail_decorate_root .magic-22{margin-top:0;margin-left:0;width:750px;height:425.625px}#detail_decorate_root .magic-23{overflow:hidden;width:750px;height:750px;margin-top:0;margin-bottom:0;margin-left:0;margin-right:0}#detail_decorate_root .magic-24{margin-top:0;margin-left:0;width:750px;height:750px}#detail_decorate_root .magic-25{overflow:hidden;width:750px;height:562.5px;margin-top:0;margin-bottom:0;margin-left:0;margin-right:0}#detail_decorate_root .magic-26{margin-top:0;margin-left:0;width:750px;height:562.5px}#detail_decorate_root .magic-27{font-size:24px} Company Profile Get our watch list Products Description Case Size: 42mm Water resistant: 3 ATM Case Material: alloy case material Custom LOGO: Yes Band Material： stainless steel band MOQ: 100 Buckle: deployed folded buckle Sample lead time: 35 days Movement: Chronograph movement Mass production lead time: 30 days Caseback: stainless steel Packing: Yes Crown: stainless steel Payment term: 30% deposit firstly Glass: mineral glass Warranty: One year Details Images Send Inquiry Product packaging Our Advantages Manufacturing Technique Feedback Contact person: Ivy LiangWhatsapp & Wechat :+8618682415578 Email:sales55(@)meigeerwatch.com Skype:meigeerwatch55 Why Choose Us - 10 reasons you choose us - 1.We have our own cases and completed watch factory.2.More than 20 years watches OEM & ODM experience.3.100% direct watches factory,supply you more competitive price.4.Approx 100,000pcs completed watches per month production capacity ensure you more faster delivery time.5.Strong and professional watches R & D team,can resolve all your problems on new watches projects timely.6.Strong in-house quality control,ensure you each watches 100% tested before shipment.7.All of our alloy watches with one year warranty.8.Flexible payment:we accept T/T,Western Union,Money Gram,PayPal,L/C and so on.9.Small MOQ,our watches MOQ is only 1-5pcs for our LOGO,100pcs per colour for customized LOGO.10.Professional sales and after-sales service team. FAQ: Q: Is your company a trading company or factory?A: We are professional watch factory since 1997, we have our own stainless steel case factory and assembling factory .Warmly welcome you visit our factory in Shenzhen China. Q : Does your watch meet the US and EUR import standard?A: Our main market are US and Europe,all of our watches comply withquality standard of importing to US and EUR Q:What is your MOQ? Can I mix colors & styles?A:For our brand name watches,the MOQ start from 5pcs.For OEM orders,MOQ start from 300pcs per model,mixed colour is acceptable. Q: Can i have my brand logo on your watches?A: Yes. OEM and ODM is welcome, we can make your brand logo on any of our watches. Q: What about your after sale services?A: We offer two years warranty for all the issues caused by manufacturing fault.
-  Updated: 2025-10-12T12:14:58Z
+  Updated: 2025-10-13T00:19:10Z
   Vendor: FLORANZA-AIR.SHOP
   Product Type: 
   Availability: Available
@@ -22222,7 +22222,7 @@ Fashion Element:simple
     Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Hd1da226e923e4ef1b18f346db2715110e.webp?v=1760233063
     Price: 61,00 € EUR
 - [CURREN 8402 Men Fashion Quartz Movement Watches Reloj Fashion Luxury Montres De Luxe Stainless Steel Strap Men's Wrist Watches](https://www.floranza-air.shop/products/curren-8402-men-fashion-quartz-movement-watches-reloj-fashion-luxury-montres-de-luxe-stainless-steel-strap-mens-wrist-watches): SPECIFICATIONSAdditional Tips: noneApplication: businessBand Length: 23cmBand Material Type: Stainless SteelBand Width: 24 MMBatteries Included: yesBattery Life: 1-2 yearsBoxes Included: noBrand Name: CURRENCase Material: AcrylicCase Shape: RoundCase Thickness: 14 mmClasp Type: Bracelet ClaspDial Diameter: 45 mmDial Display: AnalogDial Window Material Type: HardlexDisplay Type: AnalogFeature: Water Resistant,WaterproofMaterial: Stainless SteelModel Number: CURREN 8402Movement: QuartzMovement Brand: quartzPlace of Origin: Guangdong, ChinaProduct Name: Curren WatchStyle: Luxe,Vintage,Retro,Morden,Japanese,Minimalist,Sporty,Luxury,Business,sport,CasualType: CHARM,Coin,Fashion,Limited Edition,Luxury,sport,Antique,Cartoon,BusinessUser: MenWater Resistance Depth: 3BARWeight: 150gprovide mould making and sample making service: sample making,mould making Welcome to Shihe Watch Any requires, please contact us to get more details and best price! Product Description CURREN 8402 Men Fashion Quartz Movement Watches Reloj Fashion Luxury Montres De Luxe Stainless Steel Strap Men's Wrist Watches WATCH DETAILS Brand CURREN Model 8402 Movement QUARZT Case Material Alloy Steel Waterproof 30M Weight (g) 150g WATCH SIZE Stock Brand your Logo Delivery 7 Days Delivery 30 Days Logo Original Logo Logo Can make your own Logo MOQ 1pcs MOQ 500pcs, can mix colors Payment 100% Safe Payment with Alibaba, T/T Bank Transfer, West Union etc. Packaging & Shipping We help amazon customers FBA shipping and labelling. Packaging * Normal package: Inner pack with poly bag and bubbles, outside pack with carton. * Box package: Pack with original box, wrapped with bubbles and outside packed with standard export carton. Notes: box needs extra cost. * Custom Package: Pack with customer special request. Shipping * Stock products will be sent out in 1-3 days. OEM order will be ready in 15-30 days. * We have our reliable long-term transport company, we can arrange shipping by air, by sea, by express (DHL, UPS, FEDEX, TNT, EMS, E-Packet etc). We will choose the cheapest shipping method for our customer. Our Service * 100% safe payment * 100% return within 15 days * 100% refund with quality issue Company Profile WHY CHOOSE US: * Here is the home base of Amazon / Ebay / Shopify / Lazada / Facebook. * We offer dropshipping, labelling, FBA shipping, custom logo and box services. FAQ 1. Are you manufacturer or trade company? We are both manufacturer and trading company, have our own brand and other famous popular brands with factory price too. 2. What is your MOQ? Our ready stock MOQ is 1pcs, can mix colors and models. For custom logo order MOQ is 500pcs, can mix different color. 3. Can you offer sample before mass order? Yes samples will be kindly arranged for quality check, please contact us for more details. 4. How about your product quality? All of our product has been 3 times quality checked before shipping. All of our battery life is at least 1-2 years. Any quality problem when you receive the products, pls contact us. 5. What is your products delivery time? For ready stock, delivery day is within 2 days, much quicker than general suppliers. For custom orders, delivery day is within 30 days, quicker than general suppliers. Any more questions, please feel free to send us inquiry or leave us messages online, we will reply you very soon.
-  Updated: 2025-10-12T12:17:39Z
+  Updated: 2025-10-13T00:13:04Z
   Vendor: FLORANZA-AIR.SHOP
   Product Type: 
   Availability: Available
@@ -22244,7 +22244,7 @@ Fashion Element:simple
     Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/H4a87bfb7d3eb49aa97ce5ccc6dda21f51.webp?v=1760233199
     Price: 70,00 € EUR
 - [BINBOND 2521 B2521 Men Women Couple Wristwatch Stainless Steel Luminous Quartz Watch for Reloj Montres Homme Relogio Masculino](https://www.floranza-air.shop/products/binbond-2521-b2521-men-women-couple-wristwatch-stainless-steel-luminous-quartz-watch-for-reloj-montres-homme-relogio-masculino): SPECIFICATIONSBand Length: 20 cmBand Material Type: Stainless Steel,LeatherBand Width: 21mmBattery Life: 1-3yearsBrand Name: BinbondCase Material: Stainless SteelCase Shape: RoundCase Thickness: 12 mmClasp Type: BuckleDial Diameter: 43mmDial Display: PointerDial Window Material Type: HardlexFeature: Auto Date,chronograph,Complete Calendar,Day/Date,Water Resistant,Waterproof,Luminous,Luminous Hands,Shock ResistantMaterial: Stainless SteelModel Number: Binbond 2521Movement: QuartzMovement Brand: MIYOTAPlace of Origin: Guangdong, ChinaStyle: Luxe,Vintage,Retro,Morden,Japanese,Minimalist,Business Style,Casual Style,SportyType: CHARM,Coin,Fashion,Limited Edition,Luxury,sport,Antique,Cartoon,BusinessUser: MenWater Resistance Depth: 3BARprovide mould making and sample making service: sample making,mould making Welcome to Shihe Watch Any requires, please contact us to get more details and best price! Related Products Product Description Hot Sale BINBOND 2521 Relogio Masculino Couple Wristwatch Men Stainless Steel Luminous Calendar Quartz Watch WATCH DETAILS Brand Binbond Model 2521 Movement High Quality Quartz Movement Case Material Stainless Steel Waterproof 30M Weight 110g WATCH SIZE Diameter 43mm Case Thickness 12mm Band Width 21mm Band Length 260mm ORDERS Stock Brand your Logo Delivery 2 Days Delivery 30 Days Logo Original Logo Logo Can make your own Logo MOQ 1pcs MOQ 500pcs, can mix colors Payment 100% Safe Payment with Alibaba, T/T Bank Transfer, West Union etc. Company Profile WHY CHOOSE US: * Here is the home base of Amazon / Ebay / Shopify / Lazada / Facebook. * We offer dropshipping, labelling, FBA shipping, custom logo and box services. FAQ 1. Are you manufacturer or trade company? We are both manufacturer and trading company, have our own brand and other famous popular brands with factory price too. 2. What is your MOQ? Our ready stock MOQ is 1pcs, can mix colors and models. For custom logo order MOQ is 500pcs, can mix different color. 3. Can you offer sample before mass order? Yes samples will be kindly arranged for quality check, please contact us for more details. 4. How about your product quality? All of our product has been 3 times quality checked before shipping. All of our battery life is at least 1-2 years. Any quality problem when you receive the products, pls contact us. 5. What is your products delivery time? For ready stock, delivery day is within 2 days, much quicker than general suppliers. For custom orders, delivery day is within 30 days, quicker than general suppliers. Any more questions, please feel free to send us inquiry or leave us messages online, we will reply you very soon.
-  Updated: 2025-10-12T17:10:52Z
+  Updated: 2025-10-13T00:19:07Z
   Vendor: FLORANZA-AIR.SHOP
   Product Type: 
   Availability: Available
@@ -22434,7 +22434,7 @@ Fashion Element:simple
     Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Ha8de347aab1947c199fbe09b33474a82I.webp?v=1760233360
     Price: 76,00 € EUR
 - [BINBONG B2521 2521 Luxury Quartz Watch Women Stainless  Waterproof Ladies Fashion Dress Wristwatch for Girlfriend Lovers Gift](https://www.floranza-air.shop/products/binbong-b2521-2521-luxury-quartz-watch-women-stainless-waterproof-ladies-fashion-dress-wristwatch-for-girlfriend-lovers-gift): SPECIFICATIONSBand Length: 19cmBand Material Type: Stainless Steel,LeatherBand Width: 14mmBattery Life: 1-3yearsBrand Name: BinbondCase Material: Stainless SteelCase Shape: RoundCase Thickness: 12 mmClasp Type: BuckleDial Diameter: 28 mmDial Display: PointerDial Window Material Type: GlassFeature: Auto Date,chronograph,Complete Calendar,Day/Date,Water Resistant,Waterproof,Luminous,Luminous Hands,Shock ResistantMaterial: Stainless SteelModel Number: Binbond 2521Movement Brand: CITIZENPlace of Origin: Guangdong, ChinaStyle: Luxe,Vintage,Retro,Morden,Minimalist,Japanese,Business Style,Casual Style,SportyType: CHARM,Coin,Fashion,Limited Edition,Luxury,sport,Antique,Cartoon,BusinessUser: WomenWater Resistance Depth: 3BARprovide mould making and sample making service: sample making,mould making Welcome to Shihe Watch Any requires, please contact us to get more details and best price! Related Products Product Description BINBOND 2521 Top Brand Luxury Fashion Business Womens Watches 30M Waterproof Week Date Clock Sport Quartz Womens Wristwatch B2521 WATCH DETAILS Brand Binbond Model 2521 Movement High Quality Quartz Movement Case Material Stainless Steel Waterproof 30M Weight 110g WATCH SIZE Diameter 43mm Case Thickness 12mm Band Width 21mm Band Length 260mm ORDERS Stock Brand your Logo Delivery 2 Days Delivery 30 Days Logo Original Logo Logo Can make your own Logo MOQ 1pcs MOQ 500pcs, can mix colors Payment 100% Safe Payment with Alibaba, T/T Bank Transfer, West Union etc. Company Profile WHY CHOOSE US: * Here is the home base of Amazon / Ebay / Shopify / Lazada / Facebook. * We offer dropshipping, labelling, FBA shipping, custom logo and box services. FAQ 1. Are you manufacturer or trade company? We are both manufacturer and trading company, have our own brand and other famous popular brands with factory price too. 2. What is your MOQ? Our ready stock MOQ is 1pcs, can mix colors and models. For custom logo order MOQ is 500pcs, can mix different color. 3. Can you offer sample before mass order? Yes samples will be kindly arranged for quality check, please contact us for more details. 4. How about your product quality? All of our product has been 3 times quality checked before shipping. All of our battery life is at least 1-2 years. Any quality problem when you receive the products, pls contact us. 5. What is your products delivery time? For ready stock, delivery day is within 2 days, much quicker than general suppliers. For custom orders, delivery day is within 30 days, quicker than general suppliers. Any more questions, please feel free to send us inquiry or leave us messages online, we will reply you very soon.
-  Updated: 2025-10-12T12:17:38Z
+  Updated: 2025-10-13T00:10:13Z
   Vendor: FLORANZA-AIR.SHOP
   Product Type: 
   Availability: Available
@@ -22680,7 +22680,7 @@ Fashion Element:simple
     Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Sbec91af44c484f409273ca29219e7af9X.webp?v=1760233818
     Price: 69,00 € EUR
 - [OLEVS 5609  Oem Brand Watch Men Custom logo Waterproof Luxury Watches Brands  Luminous Business Classic Quartz Watch for Man](https://www.floranza-air.shop/products/olevs-5609-oem-brand-watch-men-custom-logo-waterproof-luxury-watches-brands-luminous-business-classic-quartz-watch-for-man): SPECIFICATIONSBand Length: 19CmBand Material Type: Stainless SteelBand Width: 20 mmBatteries Included: YESBattery Life: 2 yearsBrand Name: OLEVSCase Material: AlloyCase Shape: RoundCase Thickness: 11 MMClasp Type: Bracelet ClaspDial Diameter: 41 MMDial Display: PointerDial Window Material Type: Coated GlassDisplay Type: PointerFeature: Day/Date,chronographMaterial: AlloyModel Number: 5609Movement: QuartzMovement Brand: chinaPlace of Origin: Guangdong, ChinaStyle: sport,Luxury,FashionType: Fashion,Luxury,sportUser: MenWater Resistance Depth: 3BARWeight: 114Gprovide mould making and sample making service: mould making,sample making #detail_decorate_root .magic-0{border-bottom-style:solid;border-bottom-color:#53647a;font-family:Roboto;font-size:24px;color:#53647a;font-style:normal;border-bottom-width:2px;padding-top:8px;padding-bottom:4px}#detail_decorate_root .magic-1{margin-bottom:10px;line-height:0}#detail_decorate_root .magic-2{margin-bottom:0}#detail_decorate_root .magic-3{position:relative;width:100%}#detail_decorate_root .magic-4{width:750px;border-collapse:collapse}#detail_decorate_root .magic-5{min-height:18px;padding:5px 10px;width:259px;min-height:18px;box-sizing:content-box}#detail_decorate_root .magic-6{min-height:18px;padding:5px 10px;width:442px;min-height:18px;box-sizing:content-box}#detail_decorate_root .magic-7{margin-bottom:10px;overflow:hidden}#detail_decorate_root .magic-8{width:750px}#detail_decorate_root .magic-9{overflow:hidden;width:750px;height:2563.2911392405067px;margin-top:0;margin-bottom:0;margin-left:0;margin-right:0}#detail_decorate_root .magic-10{margin-top:0;margin-left:0;width:750.0000000000001px;height:2563.2911392405067px}#detail_decorate_root .magic-11{overflow:hidden;width:750px;height:1518.9873417721521px;margin-top:0;margin-bottom:0;margin-left:0;margin-right:0}#detail_decorate_root .magic-12{margin-top:0;margin-left:0;width:750.0000000000001px;height:1518.9873417721521px}#detail_decorate_root .magic-13{overflow:hidden;width:750px;height:2373.4177215189875px;margin-top:0;margin-bottom:0;margin-left:0;margin-right:0}#detail_decorate_root .magic-14{margin-top:0;margin-left:0;width:750.0000000000001px;height:2373.4177215189875px}#detail_decorate_root .magic-15{overflow:hidden;width:750px;height:386px;margin-top:0;margin-bottom:0;margin-left:0;margin-right:0}#detail_decorate_root .magic-16{margin-top:0;margin-left:0;width:750px;height:386px}#detail_decorate_root .magic-17{overflow:hidden;width:750px;height:996px;margin-top:0;margin-bottom:0;margin-left:0;margin-right:0}#detail_decorate_root .magic-18{margin-top:0;margin-left:0;width:750px;height:996px}#detail_decorate_root .magic-19{overflow:hidden;width:750px;height:1181.9620253164558px;margin-top:0;margin-bottom:0;margin-left:0;margin-right:0}#detail_decorate_root .magic-20{margin-top:0;margin-left:0;width:750.0000000000001px;height:1181.9620253164558px}#detail_decorate_root .magic-21{overflow:hidden;width:750px;height:760px;margin-top:0;margin-bottom:0;margin-left:0;margin-right:0}#detail_decorate_root .magic-22{margin-top:0;margin-left:0;width:750px;height:760px}#detail_decorate_root .magic-23{overflow:hidden;width:750px;height:1033px;margin-top:0;margin-bottom:0;margin-left:0;margin-right:0}#detail_decorate_root .magic-24{margin-top:0;margin-left:0;width:750px;height:1033px} Product Description Specification item value Movement Brand china Dial Window Material Type Coated Glass Case Shape Round Band Length 19Cm Clasp Type Bracelet Clasp Water Resistance Depth 3BAR Place of Origin China Guangdong Type Fashion, Luxury, sport Feature Day/Date, chronograph Case Material ALLOY User Men Dial Diameter 41mm Band Width 20mm Case Thickness 11mm provide mould making and sample making service mould making, sample making Brand Name OLEVS Model Number 5609 Material Stainless steel Band Material Type Stainless steel Dial Display Pointer Company Profile
-  Updated: 2025-10-12T12:10:02Z
+  Updated: 2025-10-13T00:17:59Z
   Vendor: FLORANZA-AIR.SHOP
   Product Type: 
   Availability: Available
@@ -22757,6 +22757,562 @@ Fashion Element:simple
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/H46d3f6b2d1da456b822b76e70260d5e8a.webp?v=1760234306
     Price: 99,00 € EUR
+- [Down Cotton-padded Jacket Women's Short Fur Collar Thickened Coat Winter Clothing](https://www.floranza-air.shop/products/down-cotton-padded-jacket-womens-short-fur-collar-thickened-coat-winter-clothing): Overview: Unique design, stylish and beautiful. Good material, comfortable wear. A variety of colors, any choice. Product information: Fabric name: acrylic Color: brown, black, white Sleeve type: Flight sleeve Main fabric composition: Polyester Fiber Size: M 42.50kg-55.00kg,L 55.00kg-65.00kg,XL 65.00kg-75.00kg,2XL 75.00kg-85.00kg Style type: temperament commute Sleeve length: long sleeves Filler: polyester fiber Popular elements: zipper Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Coat x1 Product Image:
+  Updated: 2025-10-13T00:51:33Z
+  Vendor: FLORANZA-AIR™
+  Product Type: Bracelets en pierres fines
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/8e27d992-07fa-4837-9fb9-772f40651454.jpg?v=1760316677
+  - [Black / 2XL](https://www.floranza-air.shop/products/down-cotton-padded-jacket-womens-short-fur-collar-thickened-coat-winter-clothing?variant=52100344447313)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/aed00f4f-2d8e-407b-b5f8-ff4a59cc0893.jpg?v=1760316686
+    Price: 123,43 € EUR
+  - [Black / L](https://www.floranza-air.shop/products/down-cotton-padded-jacket-womens-short-fur-collar-thickened-coat-winter-clothing?variant=52100344480081)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/aed00f4f-2d8e-407b-b5f8-ff4a59cc0893.jpg?v=1760316686
+    Price: 123,43 € EUR
+  - [Black / M](https://www.floranza-air.shop/products/down-cotton-padded-jacket-womens-short-fur-collar-thickened-coat-winter-clothing?variant=52100344512849)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/aed00f4f-2d8e-407b-b5f8-ff4a59cc0893.jpg?v=1760316686
+    Price: 123,43 € EUR
+  - [Black / S](https://www.floranza-air.shop/products/down-cotton-padded-jacket-womens-short-fur-collar-thickened-coat-winter-clothing?variant=52100344545617)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/aed00f4f-2d8e-407b-b5f8-ff4a59cc0893.jpg?v=1760316686
+    Price: 123,43 € EUR
+  - [Black / XL](https://www.floranza-air.shop/products/down-cotton-padded-jacket-womens-short-fur-collar-thickened-coat-winter-clothing?variant=52100344578385)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/aed00f4f-2d8e-407b-b5f8-ff4a59cc0893.jpg?v=1760316686
+    Price: 123,43 € EUR
+  - [Brown / 2XL](https://www.floranza-air.shop/products/down-cotton-padded-jacket-womens-short-fur-collar-thickened-coat-winter-clothing?variant=52100344611153)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/caf245f4-fa13-4396-8c9e-1f183e98c628.jpg?v=1760316686
+    Price: 123,43 € EUR
+  - [Brown / 3XL](https://www.floranza-air.shop/products/down-cotton-padded-jacket-womens-short-fur-collar-thickened-coat-winter-clothing?variant=52100344643921)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/caf245f4-fa13-4396-8c9e-1f183e98c628.jpg?v=1760316686
+    Price: 105,72 € EUR
+  - [Brown / L](https://www.floranza-air.shop/products/down-cotton-padded-jacket-womens-short-fur-collar-thickened-coat-winter-clothing?variant=52100344676689)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/caf245f4-fa13-4396-8c9e-1f183e98c628.jpg?v=1760316686
+    Price: 125,13 € EUR
+  - [Brown / M](https://www.floranza-air.shop/products/down-cotton-padded-jacket-womens-short-fur-collar-thickened-coat-winter-clothing?variant=52100344709457)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/caf245f4-fa13-4396-8c9e-1f183e98c628.jpg?v=1760316686
+    Price: 123,43 € EUR
+  - [Brown / S](https://www.floranza-air.shop/products/down-cotton-padded-jacket-womens-short-fur-collar-thickened-coat-winter-clothing?variant=52100344742225)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/caf245f4-fa13-4396-8c9e-1f183e98c628.jpg?v=1760316686
+    Price: 108,56 € EUR
+  - [Brown / XL](https://www.floranza-air.shop/products/down-cotton-padded-jacket-womens-short-fur-collar-thickened-coat-winter-clothing?variant=52100344774993)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/caf245f4-fa13-4396-8c9e-1f183e98c628.jpg?v=1760316686
+    Price: 123,43 € EUR
+  - [White / 2XL](https://www.floranza-air.shop/products/down-cotton-padded-jacket-womens-short-fur-collar-thickened-coat-winter-clothing?variant=52100344807761)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/26e57a1d-3f29-4417-b979-e6b02e883076.jpg?v=1760316686
+    Price: 123,43 € EUR
+  - [White / 3XL](https://www.floranza-air.shop/products/down-cotton-padded-jacket-womens-short-fur-collar-thickened-coat-winter-clothing?variant=52100344840529)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/26e57a1d-3f29-4417-b979-e6b02e883076.jpg?v=1760316686
+    Price: 108,56 € EUR
+  - [White / L](https://www.floranza-air.shop/products/down-cotton-padded-jacket-womens-short-fur-collar-thickened-coat-winter-clothing?variant=52100344873297)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/26e57a1d-3f29-4417-b979-e6b02e883076.jpg?v=1760316686
+    Price: 123,43 € EUR
+  - [White / M](https://www.floranza-air.shop/products/down-cotton-padded-jacket-womens-short-fur-collar-thickened-coat-winter-clothing?variant=52100344906065)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/26e57a1d-3f29-4417-b979-e6b02e883076.jpg?v=1760316686
+    Price: 140,92 € EUR
+  - [White / S](https://www.floranza-air.shop/products/down-cotton-padded-jacket-womens-short-fur-collar-thickened-coat-winter-clothing?variant=52100344938833)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/26e57a1d-3f29-4417-b979-e6b02e883076.jpg?v=1760316686
+    Price: 123,43 € EUR
+  - [White / XL](https://www.floranza-air.shop/products/down-cotton-padded-jacket-womens-short-fur-collar-thickened-coat-winter-clothing?variant=52100344971601)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/26e57a1d-3f29-4417-b979-e6b02e883076.jpg?v=1760316686
+    Price: 123,43 € EUR
+- [Women's Short Drop-shoulder Leather Cotton Coat Jacket](https://www.floranza-air.shop/products/womens-short-drop-shoulder-leather-cotton-coat-jacket): Product information: Collar type: Lapel Placket: zipper Color: Black, Brown Filler: Silk Cotton Fabric Category: PU leather Thickness: regular Clothing length: short Size: S,M,L Size: Unit: cm Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: 1*Jacket Product Image:
+  Updated: 2025-10-13T01:03:59Z
+  Vendor: FLORANZA-AIR™
+  Product Type: Bracelets en pierres fines
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/bd688e75-a6ce-46ab-aeee-dcb7a45554df.jpg?v=1760317414
+  - [Black / L](https://www.floranza-air.shop/products/womens-short-drop-shoulder-leather-cotton-coat-jacket?variant=52100370334033)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/0135bb60-d0fb-441b-85d3-08235fed82ac.jpg?v=1760317426
+    Price: 347,81 € EUR
+  - [Black / M](https://www.floranza-air.shop/products/womens-short-drop-shoulder-leather-cotton-coat-jacket?variant=52100370366801)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/0135bb60-d0fb-441b-85d3-08235fed82ac.jpg?v=1760317426
+    Price: 347,81 € EUR
+  - [Black / S](https://www.floranza-air.shop/products/womens-short-drop-shoulder-leather-cotton-coat-jacket?variant=52100370399569)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/0135bb60-d0fb-441b-85d3-08235fed82ac.jpg?v=1760317426
+    Price: 347,81 € EUR
+  - [Brown / L](https://www.floranza-air.shop/products/womens-short-drop-shoulder-leather-cotton-coat-jacket?variant=52100370432337)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/e1bb081d-d0de-4cbd-92c0-3f47c0f675c1.jpg?v=1760317426
+    Price: 347,81 € EUR
+  - [Brown / M](https://www.floranza-air.shop/products/womens-short-drop-shoulder-leather-cotton-coat-jacket?variant=52100370465105)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/e1bb081d-d0de-4cbd-92c0-3f47c0f675c1.jpg?v=1760317426
+    Price: 347,81 € EUR
+  - [Brown / S](https://www.floranza-air.shop/products/womens-short-drop-shoulder-leather-cotton-coat-jacket?variant=52100370497873)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/e1bb081d-d0de-4cbd-92c0-3f47c0f675c1.jpg?v=1760317426
+    Price: 347,81 € EUR
+- [Spring Loose Long Sleeved Top](https://www.floranza-air.shop/products/spring-loose-long-sleeved-top): Product information : Garment placket: zipper Color category: off-white Sleeve type: regular Size Information: Size: S,M,L,XL Unit：CM Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly fromthe following images. Packing list: Top*1
+  Updated: 2025-10-13T01:05:18Z
+  Vendor: FLORANZA-AIR™
+  Product Type: Bracelets en pierres fines
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/50bbccec-2403-498d-93b0-2251462ea888.jpg?v=1760317508
+  - [Off white / L](https://www.floranza-air.shop/products/spring-loose-long-sleeved-top?variant=52100373250385)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/50bbccec-2403-498d-93b0-2251462ea888_7520d3eb-1ad3-454c-a45c-66fc4a94e6d1.jpg?v=1760317516
+    Price: 128,90 € EUR
+  - [Off white / M](https://www.floranza-air.shop/products/spring-loose-long-sleeved-top?variant=52100373283153)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/50bbccec-2403-498d-93b0-2251462ea888_7520d3eb-1ad3-454c-a45c-66fc4a94e6d1.jpg?v=1760317516
+    Price: 128,90 € EUR
+  - [Off white / S](https://www.floranza-air.shop/products/spring-loose-long-sleeved-top?variant=52100373315921)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/50bbccec-2403-498d-93b0-2251462ea888_7520d3eb-1ad3-454c-a45c-66fc4a94e6d1.jpg?v=1760317516
+    Price: 128,90 € EUR
+  - [Off white / XL](https://www.floranza-air.shop/products/spring-loose-long-sleeved-top?variant=52100373348689)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/50bbccec-2403-498d-93b0-2251462ea888_7520d3eb-1ad3-454c-a45c-66fc4a94e6d1.jpg?v=1760317516
+    Price: 128,90 € EUR
+- [Winter Short Down Jacket Women's Imitation Fox Fur Woolen Women's Winter Wear Vest Cardigan](https://www.floranza-air.shop/products/winter-short-down-jacket-womens-imitation-fox-fur-woolen-womens-winter-wear-vest-cardigan): Product information: Fabric name: Nylon Color: light gray, black, apricot Size: S (45.00 kg-52.50 kg, M (53.00 kg-57.50 kg, L (58.00 kg-62.50 kg, XL (63.00 kg-67.50 kg, 2XL (68.00 kg-72.50 kg Applicable Gender: Female Style type: temperament commute Applicable age group: Adult Style: stitching Style: urban style Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Coat * 1 Product Image:
+  Updated: 2025-10-13T01:07:31Z
+  Vendor: FLORANZA-AIR™
+  Product Type: Bracelets en pierres fines
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/326bea32-b739-4fef-9d7e-57c795b71f03.jpg?v=1760317634
+  - [Apricot / 2XL](https://www.floranza-air.shop/products/winter-short-down-jacket-womens-imitation-fox-fur-woolen-womens-winter-wear-vest-cardigan?variant=52100376789329)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/b215622e-1797-4b0f-a36d-e17310995979.jpg?v=1760317646
+    Price: 83,22 € EUR
+  - [Apricot / L](https://www.floranza-air.shop/products/winter-short-down-jacket-womens-imitation-fox-fur-woolen-womens-winter-wear-vest-cardigan?variant=52100376822097)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/b215622e-1797-4b0f-a36d-e17310995979.jpg?v=1760317646
+    Price: 82,92 € EUR
+  - [Apricot / M](https://www.floranza-air.shop/products/winter-short-down-jacket-womens-imitation-fox-fur-woolen-womens-winter-wear-vest-cardigan?variant=52100376854865)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/b215622e-1797-4b0f-a36d-e17310995979.jpg?v=1760317646
+    Price: 82,76 € EUR
+  - [Apricot / S](https://www.floranza-air.shop/products/winter-short-down-jacket-womens-imitation-fox-fur-woolen-womens-winter-wear-vest-cardigan?variant=52100376887633)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/b215622e-1797-4b0f-a36d-e17310995979.jpg?v=1760317646
+    Price: 82,61 € EUR
+  - [Apricot / XL](https://www.floranza-air.shop/products/winter-short-down-jacket-womens-imitation-fox-fur-woolen-womens-winter-wear-vest-cardigan?variant=52100376920401)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/b215622e-1797-4b0f-a36d-e17310995979.jpg?v=1760317646
+    Price: 83,06 € EUR
+  - [Black / 2XL](https://www.floranza-air.shop/products/winter-short-down-jacket-womens-imitation-fox-fur-woolen-womens-winter-wear-vest-cardigan?variant=52100376953169)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/a3eb7680-d115-4586-a0fd-7ab5239a61c0.jpg?v=1760317645
+    Price: 83,22 € EUR
+  - [Black / L](https://www.floranza-air.shop/products/winter-short-down-jacket-womens-imitation-fox-fur-woolen-womens-winter-wear-vest-cardigan?variant=52100376985937)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/a3eb7680-d115-4586-a0fd-7ab5239a61c0.jpg?v=1760317645
+    Price: 82,92 € EUR
+  - [Black / M](https://www.floranza-air.shop/products/winter-short-down-jacket-womens-imitation-fox-fur-woolen-womens-winter-wear-vest-cardigan?variant=52100377018705)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/a3eb7680-d115-4586-a0fd-7ab5239a61c0.jpg?v=1760317645
+    Price: 82,76 € EUR
+  - [Black / S](https://www.floranza-air.shop/products/winter-short-down-jacket-womens-imitation-fox-fur-woolen-womens-winter-wear-vest-cardigan?variant=52100377051473)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/a3eb7680-d115-4586-a0fd-7ab5239a61c0.jpg?v=1760317645
+    Price: 82,61 € EUR
+  - [Black / XL](https://www.floranza-air.shop/products/winter-short-down-jacket-womens-imitation-fox-fur-woolen-womens-winter-wear-vest-cardigan?variant=52100377084241)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/a3eb7680-d115-4586-a0fd-7ab5239a61c0.jpg?v=1760317645
+    Price: 83,06 € EUR
+  - [Light Gray / 2XL](https://www.floranza-air.shop/products/winter-short-down-jacket-womens-imitation-fox-fur-woolen-womens-winter-wear-vest-cardigan?variant=52100377117009)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/07c06d25-9b48-4df3-af1e-050d7b670dcc.jpg?v=1760317646
+    Price: 83,22 € EUR
+  - [Light Gray / L](https://www.floranza-air.shop/products/winter-short-down-jacket-womens-imitation-fox-fur-woolen-womens-winter-wear-vest-cardigan?variant=52100377149777)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/07c06d25-9b48-4df3-af1e-050d7b670dcc.jpg?v=1760317646
+    Price: 82,92 € EUR
+  - [Light Gray / M](https://www.floranza-air.shop/products/winter-short-down-jacket-womens-imitation-fox-fur-woolen-womens-winter-wear-vest-cardigan?variant=52100377182545)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/07c06d25-9b48-4df3-af1e-050d7b670dcc.jpg?v=1760317646
+    Price: 82,76 € EUR
+  - [Light Gray / S](https://www.floranza-air.shop/products/winter-short-down-jacket-womens-imitation-fox-fur-woolen-womens-winter-wear-vest-cardigan?variant=52100377215313)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/07c06d25-9b48-4df3-af1e-050d7b670dcc.jpg?v=1760317646
+    Price: 82,61 € EUR
+  - [Light Gray / XL](https://www.floranza-air.shop/products/winter-short-down-jacket-womens-imitation-fox-fur-woolen-womens-winter-wear-vest-cardigan?variant=52100377248081)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/07c06d25-9b48-4df3-af1e-050d7b670dcc.jpg?v=1760317646
+    Price: 83,06 € EUR
+- [Leather Coat Women's Locomotive Style Top](https://www.floranza-air.shop/products/leather-coat-womens-locomotive-style-top): Product information: Color: brown, black Size: S,M,L,XL Leather classification: imitation leather Fabric name: PU leather Main fabric composition: Polyester (polyester fiber) Length: normal (50cm Applicable Gender: Female Sleeve length: long sleeve Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: 1* Coat Product Image:
+  Updated: 2025-10-13T01:09:16Z
+  Vendor: FLORANZA-AIR™
+  Product Type: Bracelets en pierres fines
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/0a83abf9-df95-4730-8a6f-9298c41d304b.jpg?v=1760317738
+  - [Black / 2XL](https://www.floranza-air.shop/products/leather-coat-womens-locomotive-style-top?variant=52100378952017)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/0a83abf9-df95-4730-8a6f-9298c41d304b_94992513-1ee5-431b-bdbb-d887a0e6d04b.jpg?v=1760317752
+    Price: 78,84 € EUR
+  - [Black / L](https://www.floranza-air.shop/products/leather-coat-womens-locomotive-style-top?variant=52100378984785)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/0a83abf9-df95-4730-8a6f-9298c41d304b_94992513-1ee5-431b-bdbb-d887a0e6d04b.jpg?v=1760317752
+    Price: 78,54 € EUR
+  - [Black / M](https://www.floranza-air.shop/products/leather-coat-womens-locomotive-style-top?variant=52100379017553)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/0a83abf9-df95-4730-8a6f-9298c41d304b_94992513-1ee5-431b-bdbb-d887a0e6d04b.jpg?v=1760317752
+    Price: 77,77 € EUR
+  - [Black / S](https://www.floranza-air.shop/products/leather-coat-womens-locomotive-style-top?variant=52100379050321)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/0a83abf9-df95-4730-8a6f-9298c41d304b_94992513-1ee5-431b-bdbb-d887a0e6d04b.jpg?v=1760317752
+    Price: 77,63 € EUR
+  - [Black / XL](https://www.floranza-air.shop/products/leather-coat-womens-locomotive-style-top?variant=52100379083089)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/0a83abf9-df95-4730-8a6f-9298c41d304b_94992513-1ee5-431b-bdbb-d887a0e6d04b.jpg?v=1760317752
+    Price: 78,69 € EUR
+  - [Brown / 2XL](https://www.floranza-air.shop/products/leather-coat-womens-locomotive-style-top?variant=52100379115857)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/ac3f3782-60cd-4f62-a70b-c4bf4a1cfc7f.jpg?v=1760317752
+    Price: 78,84 € EUR
+  - [Brown / L](https://www.floranza-air.shop/products/leather-coat-womens-locomotive-style-top?variant=52100379148625)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/92da81df-32be-4740-9247-81d707a3cdd2.jpg?v=1760317753
+    Price: 78,54 € EUR
+  - [Brown / M](https://www.floranza-air.shop/products/leather-coat-womens-locomotive-style-top?variant=52100379181393)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/92da81df-32be-4740-9247-81d707a3cdd2.jpg?v=1760317753
+    Price: 77,77 € EUR
+  - [Brown / S](https://www.floranza-air.shop/products/leather-coat-womens-locomotive-style-top?variant=52100379214161)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/92da81df-32be-4740-9247-81d707a3cdd2.jpg?v=1760317753
+    Price: 81,82 € EUR
+  - [Brown / XL](https://www.floranza-air.shop/products/leather-coat-womens-locomotive-style-top?variant=52100379246929)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/92da81df-32be-4740-9247-81d707a3cdd2.jpg?v=1760317753
+    Price: 78,69 € EUR
+- [Women's Sheepskin Coat Retro Biker's Leather Coat](https://www.floranza-air.shop/products/womens-sheepskin-coat-retro-bikers-leather-coat): Product information: Fabric name: acrylic Color: Black Sleeve type: flying sleeves Main fabric composition: sheepskin Size: M is suitable for 45.00 kg-52.50 kg, L is suitable for 52.50 kg-60.00 kg, XL is suitable for 60.00 kg-65.00 kg, 2XL Sleeve length: super long sleeve Popular elements: zipper Style: British style Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: COAT*1 Product Image:
+  Updated: 2025-10-13T01:11:00Z
+  Vendor: FLORANZA-AIR™
+  Product Type: Bracelets en pierres fines
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/d3735495-0597-449d-8236-6a574b31b8c9.jpg?v=1760317844
+  - [Black / 2XL](https://www.floranza-air.shop/products/womens-sheepskin-coat-retro-bikers-leather-coat?variant=52100380885329)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/57aabe83-e61b-423b-aab1-b9dc726c7fbf.jpg?v=1760317857
+    Price: 156,87 € EUR
+  - [Black / L](https://www.floranza-air.shop/products/womens-sheepskin-coat-retro-bikers-leather-coat?variant=52100380918097)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/57aabe83-e61b-423b-aab1-b9dc726c7fbf.jpg?v=1760317857
+    Price: 156,26 € EUR
+  - [Black / M](https://www.floranza-air.shop/products/womens-sheepskin-coat-retro-bikers-leather-coat?variant=52100380950865)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/57aabe83-e61b-423b-aab1-b9dc726c7fbf.jpg?v=1760317857
+    Price: 155,95 € EUR
+  - [Black / XL](https://www.floranza-air.shop/products/womens-sheepskin-coat-retro-bikers-leather-coat?variant=52100380983633)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/57aabe83-e61b-423b-aab1-b9dc726c7fbf.jpg?v=1760317857
+    Price: 156,57 € EUR
+- [Elegant Retro Zipper PU Leather American Casual Jacket Coat](https://www.floranza-air.shop/products/elegant-retro-zipper-pu-leather-american-casual-jacket-coat): Product information: Pattern: solid color Color: Brown Size: S,M,L Version: slim fit Style type: Street hipster Popular elements: zipper Thickness: medium Fabric name: pu Sleeve type: regular sleeve Main fabric composition: PU Length: ordinary (50cm Applicable Gender: Female Sleeve length: long sleeve Style: locomotive style Craft: collage/stitching Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Coat*1 Product Image:
+  Updated: 2025-10-13T01:12:40Z
+  Vendor: FLORANZA-AIR™
+  Product Type: Bracelets en pierres fines
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/69b7c501-f7b9-4b41-a050-aefada5fb4f3.jpg?v=1760317946
+  - [Brown / L](https://www.floranza-air.shop/products/elegant-retro-zipper-pu-leather-american-casual-jacket-coat?variant=52100382589265)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/82f3ad98-5d05-4b89-aeef-203d0c515822.jpg?v=1760317957
+    Price: 36,03 € EUR
+  - [Brown / M](https://www.floranza-air.shop/products/elegant-retro-zipper-pu-leather-american-casual-jacket-coat?variant=52100382622033)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/82f3ad98-5d05-4b89-aeef-203d0c515822.jpg?v=1760317957
+    Price: 35,88 € EUR
+  - [Brown / S](https://www.floranza-air.shop/products/elegant-retro-zipper-pu-leather-american-casual-jacket-coat?variant=52100382654801)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/82f3ad98-5d05-4b89-aeef-203d0c515822.jpg?v=1760317957
+    Price: 35,73 € EUR
+- [Letter Printing Street Handsome Motorcycle Clothes Plus Size Women's Leather Clothing](https://www.floranza-air.shop/products/letter-printing-street-handsome-motorcycle-clothes-plus-size-womens-leather-clothing): Product information: Fabric name: polyester fiber Style category: coat Main fabric composition: polyester fiber (polyester) Popular elements: rivets, prints, corns zippers. Technology: printing/dyeing Size Information: Size: XL,2XL,3XL,4XL,5XL Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Coat *1 Product Image:
+  Updated: 2025-10-13T01:15:27Z
+  Vendor: FLORANZA-AIR™
+  Product Type: Bracelets en pierres fines
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/ef335107-bc4f-492c-b4ff-1b370fc72035.jpg?v=1760318117
+  - [Yellow / 2XL](https://www.floranza-air.shop/products/letter-printing-street-handsome-motorcycle-clothes-plus-size-womens-leather-clothing?variant=52100385341777)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/ef335107-bc4f-492c-b4ff-1b370fc72035_24260ec8-03d0-4c88-8e2b-0b8566c10d80.jpg?v=1760318124
+    Price: 98,82 € EUR
+  - [Yellow / 3XL](https://www.floranza-air.shop/products/letter-printing-street-handsome-motorcycle-clothes-plus-size-womens-leather-clothing?variant=52100385374545)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/ef335107-bc4f-492c-b4ff-1b370fc72035_24260ec8-03d0-4c88-8e2b-0b8566c10d80.jpg?v=1760318124
+    Price: 99,12 € EUR
+  - [Yellow / 4XL](https://www.floranza-air.shop/products/letter-printing-street-handsome-motorcycle-clothes-plus-size-womens-leather-clothing?variant=52100385407313)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/ef335107-bc4f-492c-b4ff-1b370fc72035_24260ec8-03d0-4c88-8e2b-0b8566c10d80.jpg?v=1760318124
+    Price: 99,43 € EUR
+  - [Yellow / 5XL](https://www.floranza-air.shop/products/letter-printing-street-handsome-motorcycle-clothes-plus-size-womens-leather-clothing?variant=52100385440081)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/ef335107-bc4f-492c-b4ff-1b370fc72035_24260ec8-03d0-4c88-8e2b-0b8566c10d80.jpg?v=1760318124
+    Price: 99,72 € EUR
+  - [Yellow / XL](https://www.floranza-air.shop/products/letter-printing-street-handsome-motorcycle-clothes-plus-size-womens-leather-clothing?variant=52100385472849)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/ef335107-bc4f-492c-b4ff-1b370fc72035_24260ec8-03d0-4c88-8e2b-0b8566c10d80.jpg?v=1760318124
+    Price: 98,51 € EUR
+- [Faux Leather Double-sided Jacket European And American Locomotive Long Breasted Coat](https://www.floranza-air.shop/products/faux-leather-double-sided-jacket-european-and-american-locomotive-long-breasted-coat): Product information: Material: Polyester (polyester fiber) Style: Europe and America Colour: Dark coffee Size Information: Size: XS/S/M/L UNIT:CM Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: COAT*1
+  Updated: 2025-10-13T01:16:53Z
+  Vendor: FLORANZA-AIR™
+  Product Type: Bracelets en pierres fines
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/4f70f058-3bc8-4073-87aa-3a8b794cf2e4.jpg?v=1760318199
+  - [Dark coffee / L](https://www.floranza-air.shop/products/faux-leather-double-sided-jacket-european-and-american-locomotive-long-breasted-coat?variant=52100387045713)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/d7fbc981-6a51-40b4-be19-08d03e56e3dc.jpg?v=1760318210
+    Price: 108,98 € EUR
+  - [Dark coffee / M](https://www.floranza-air.shop/products/faux-leather-double-sided-jacket-european-and-american-locomotive-long-breasted-coat?variant=52100387078481)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/d7fbc981-6a51-40b4-be19-08d03e56e3dc.jpg?v=1760318210
+    Price: 108,52 € EUR
+  - [Dark coffee / S](https://www.floranza-air.shop/products/faux-leather-double-sided-jacket-european-and-american-locomotive-long-breasted-coat?variant=52100387111249)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/d7fbc981-6a51-40b4-be19-08d03e56e3dc.jpg?v=1760318210
+    Price: 107,90 € EUR
+  - [Dark coffee / XS](https://www.floranza-air.shop/products/faux-leather-double-sided-jacket-european-and-american-locomotive-long-breasted-coat?variant=52100387144017)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/d7fbc981-6a51-40b4-be19-08d03e56e3dc.jpg?v=1760318210
+    Price: 109,42 € EUR
+- [Women's Motorcycle Clothing Suede Lamb Wool Reverse Coat](https://www.floranza-air.shop/products/womens-motorcycle-clothing-suede-lamb-wool-reverse-coat): Product information: Clothing placket: zipper Color classification: Brown Fabric material: Polyester Sleeve type: Regular Thickness: regular Clothing length: mid-length Size: S,M,L Size: Unit：CM Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: 1* Coat Product Image:
+  Updated: 2025-10-13T01:30:20Z
+  Vendor: FLORANZA-AIR™
+  Product Type: Bracelets en pierres fines
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/9f118b33-0d4c-434f-9551-a54959d7635c.jpg?v=1760319000
+  - [Brown / L](https://www.floranza-air.shop/products/womens-motorcycle-clothing-suede-lamb-wool-reverse-coat?variant=52100402708817)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/b871bc81-aaea-4be3-8677-4a081e68eabd.jpg?v=1760319019
+    Price: 107,23 € EUR
+  - [Brown / M](https://www.floranza-air.shop/products/womens-motorcycle-clothing-suede-lamb-wool-reverse-coat?variant=52100402741585)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/b871bc81-aaea-4be3-8677-4a081e68eabd.jpg?v=1760319019
+    Price: 106,92 € EUR
+  - [Brown / S](https://www.floranza-air.shop/products/womens-motorcycle-clothing-suede-lamb-wool-reverse-coat?variant=52100402774353)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/b871bc81-aaea-4be3-8677-4a081e68eabd.jpg?v=1760319019
+    Price: 106,63 € EUR
+- [High Street Contrast Patchwork Embroidered Leather Jacket](https://www.floranza-air.shop/products/high-street-contrast-patchwork-embroidered-leather-jacket): Product information: Material: PU leather Style: Leisure Colour: Milky white coffee Size Information: Size: S/M/L/XL UNIT:CM Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: COAT*1
+  Updated: 2025-10-13T01:32:21Z
+  Vendor: FLORANZA-AIR™
+  Product Type: Bracelets en pierres fines
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/7e3238c9-879d-4000-aaa7-b0dbb1ddbb3c.jpg?v=1760319124
+  - [Coffee / L](https://www.floranza-air.shop/products/high-street-contrast-patchwork-embroidered-leather-jacket?variant=52100405887313)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/be24a173-78b0-4901-b03a-683648234e52.jpg?v=1760319138
+    Price: 85,96 € EUR
+  - [Coffee / M](https://www.floranza-air.shop/products/high-street-contrast-patchwork-embroidered-leather-jacket?variant=52100405920081)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/be24a173-78b0-4901-b03a-683648234e52.jpg?v=1760319138
+    Price: 85,65 € EUR
+  - [Coffee / S](https://www.floranza-air.shop/products/high-street-contrast-patchwork-embroidered-leather-jacket?variant=52100405952849)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/be24a173-78b0-4901-b03a-683648234e52.jpg?v=1760319138
+    Price: 85,34 € EUR
+  - [Coffee / XL](https://www.floranza-air.shop/products/high-street-contrast-patchwork-embroidered-leather-jacket?variant=52100405985617)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/be24a173-78b0-4901-b03a-683648234e52.jpg?v=1760319138
+    Price: 86,26 € EUR
+  - [White / L](https://www.floranza-air.shop/products/high-street-contrast-patchwork-embroidered-leather-jacket?variant=52100406018385)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/7e3238c9-879d-4000-aaa7-b0dbb1ddbb3c_903d5568-2d84-486f-bc16-4d7f3f99994a.jpg?v=1760319138
+    Price: 85,96 € EUR
+  - [White / M](https://www.floranza-air.shop/products/high-street-contrast-patchwork-embroidered-leather-jacket?variant=52100406051153)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/7e3238c9-879d-4000-aaa7-b0dbb1ddbb3c_903d5568-2d84-486f-bc16-4d7f3f99994a.jpg?v=1760319138
+    Price: 85,65 € EUR
+  - [White / S](https://www.floranza-air.shop/products/high-street-contrast-patchwork-embroidered-leather-jacket?variant=52100406083921)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/7e3238c9-879d-4000-aaa7-b0dbb1ddbb3c_903d5568-2d84-486f-bc16-4d7f3f99994a.jpg?v=1760319138
+    Price: 85,34 € EUR
+  - [White / XL](https://www.floranza-air.shop/products/high-street-contrast-patchwork-embroidered-leather-jacket?variant=52100406116689)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/7e3238c9-879d-4000-aaa7-b0dbb1ddbb3c_903d5568-2d84-486f-bc16-4d7f3f99994a.jpg?v=1760319138
+    Price: 86,26 € EUR
+- [Short Autumn And Winter Warm Quilted Jacket Men's And Women's Same Black Gold Winter Clothing Coat](https://www.floranza-air.shop/products/short-autumn-and-winter-warm-quilted-jacket-mens-and-womens-same-black-gold-winter-clothing-coat): Product information: Color: Black and Gold cotton-padded coat Suitable for people: Youth Size: S,M,L,XL,2XL,3XL,4XL,5XL Lining composition: Nylon Thickness: thickening Main fabric composition: Polyester Fiber (polyester) Applicable Gender: Male Applicable age group: Adult Suitable season: Winter Filler: white duck down Style: Simple Error range: 1-3CM Process: non-ironing Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Cotton jacket * 1 Product Image:
+  Updated: 2025-10-13T01:39:55Z
+  Vendor: FLORANZA-AIR™
+  Product Type: Bracelets en pierres fines
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/7428f9c1-e73a-4529-800b-2a8fcc9f5f18.jpg?v=1760319587
+  - [Black Gold / 2XL](https://www.floranza-air.shop/products/short-autumn-and-winter-warm-quilted-jacket-mens-and-womens-same-black-gold-winter-clothing-coat?variant=52100415291729)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/6f69c461-a5c8-4640-9eb5-1a8064d09e9e.jpg?v=1760319592
+    Price: 57,81 € EUR
+  - [Black Gold / 3XL](https://www.floranza-air.shop/products/short-autumn-and-winter-warm-quilted-jacket-mens-and-womens-same-black-gold-winter-clothing-coat?variant=52100415324497)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/6f69c461-a5c8-4640-9eb5-1a8064d09e9e.jpg?v=1760319592
+    Price: 58,10 € EUR
+  - [Black Gold / 4XL](https://www.floranza-air.shop/products/short-autumn-and-winter-warm-quilted-jacket-mens-and-womens-same-black-gold-winter-clothing-coat?variant=52100415357265)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/6f69c461-a5c8-4640-9eb5-1a8064d09e9e.jpg?v=1760319592
+    Price: 58,41 € EUR
+  - [Black Gold / 5XL](https://www.floranza-air.shop/products/short-autumn-and-winter-warm-quilted-jacket-mens-and-womens-same-black-gold-winter-clothing-coat?variant=52100415390033)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/6f69c461-a5c8-4640-9eb5-1a8064d09e9e.jpg?v=1760319592
+    Price: 58,72 € EUR
+  - [Black Gold / L](https://www.floranza-air.shop/products/short-autumn-and-winter-warm-quilted-jacket-mens-and-womens-same-black-gold-winter-clothing-coat?variant=52100415422801)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/6f69c461-a5c8-4640-9eb5-1a8064d09e9e.jpg?v=1760319592
+    Price: 57,19 € EUR
+  - [Black Gold / M](https://www.floranza-air.shop/products/short-autumn-and-winter-warm-quilted-jacket-mens-and-womens-same-black-gold-winter-clothing-coat?variant=52100415455569)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/6f69c461-a5c8-4640-9eb5-1a8064d09e9e.jpg?v=1760319592
+    Price: 56,90 € EUR
+  - [Black Gold / S](https://www.floranza-air.shop/products/short-autumn-and-winter-warm-quilted-jacket-mens-and-womens-same-black-gold-winter-clothing-coat?variant=52100415488337)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/6f69c461-a5c8-4640-9eb5-1a8064d09e9e.jpg?v=1760319592
+    Price: 56,58 € EUR
+  - [Black Gold / XL](https://www.floranza-air.shop/products/short-autumn-and-winter-warm-quilted-jacket-mens-and-womens-same-black-gold-winter-clothing-coat?variant=52100415521105)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/6f69c461-a5c8-4640-9eb5-1a8064d09e9e.jpg?v=1760319592
+    Price: 57,50 € EUR
+- [NA044 Men Fashion Leather Boots Pointed Toe Waterproof Warm Fur Plush Boots Man Ankle Boots British Style Shoes](https://www.floranza-air.shop/products/na044-men-fashion-leather-boots-pointed-toe-waterproof-warm-fur-plush-boots-man-ankle-boots-british-style-shoes): SPECIFICATIONSBrand Name: Man ShoesClosure Type: Slip-OnFeature: Height IncreasingLining Material: Genuine LeatherMidsole Material: RubberModel Number: NA044Outsole Material: RubberPlace of Origin: Jiangsu, ChinaSeason: AutumnStyle: BootsUpper Material: Genuine Leatherapplication: Partypattern: Solid Wedding Party Product Overviews Size Information Packaging & Shipping 1. We ship to worldwide2. We will ship within 3-15 business day after we receive payment or when it clears the bank. (Except the weekends and holidays) 3. Shipping via DHL will take 3-7 working days for delivery. 4. Shipping via EMS will take 5-10 working days for delivery. (Brazil, Germany,Russia will take longer) 5. Import Duties, taxes and or shipping charges are not included in the item price. These charges are the buyer's responsibility. For more details, please contact us before ordering. 6. China post air mail delivery time is 30—60 working days 7. Hong kong post delivery time 20-40 working days 8. Ocean Freight. (A bit slow , yet cheap. If your order is for stock sales, this is the best way to transport. ) Contact Way View More Man Shoes
+  Updated: 2025-10-13T02:01:41Z
+  Vendor: FLORANZA-AIR.SHOP
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Hae8553bdd0674980ac536a2ab94fa9d2R.webp?v=1760320900
+  - [as pic / 6](https://www.floranza-air.shop/products/na044-men-fashion-leather-boots-pointed-toe-waterproof-warm-fur-plush-boots-man-ankle-boots-british-style-shoes?variant=52100478239057)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/HTB1Fz18l8nTBKNjSZPf762f1XXag.webp?v=1760320900
+    Price: 200,00 € EUR
+  - [as pic / 6.5](https://www.floranza-air.shop/products/na044-men-fashion-leather-boots-pointed-toe-waterproof-warm-fur-plush-boots-man-ankle-boots-british-style-shoes?variant=52100478271825)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/HTB1Fz18l8nTBKNjSZPf762f1XXag.webp?v=1760320900
+    Price: 200,00 € EUR
+  - [as pic / 7](https://www.floranza-air.shop/products/na044-men-fashion-leather-boots-pointed-toe-waterproof-warm-fur-plush-boots-man-ankle-boots-british-style-shoes?variant=52100478304593)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/HTB1Fz18l8nTBKNjSZPf762f1XXag.webp?v=1760320900
+    Price: 200,00 € EUR
+  - [as pic / 8](https://www.floranza-air.shop/products/na044-men-fashion-leather-boots-pointed-toe-waterproof-warm-fur-plush-boots-man-ankle-boots-british-style-shoes?variant=52100478337361)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/HTB1Fz18l8nTBKNjSZPf762f1XXag.webp?v=1760320900
+    Price: 200,00 € EUR
+  - [as pic / 8.5](https://www.floranza-air.shop/products/na044-men-fashion-leather-boots-pointed-toe-waterproof-warm-fur-plush-boots-man-ankle-boots-british-style-shoes?variant=52100478370129)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/HTB1Fz18l8nTBKNjSZPf762f1XXag.webp?v=1760320900
+    Price: 200,00 € EUR
+  - [as pic / 9.5](https://www.floranza-air.shop/products/na044-men-fashion-leather-boots-pointed-toe-waterproof-warm-fur-plush-boots-man-ankle-boots-british-style-shoes?variant=52100478402897)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/HTB1Fz18l8nTBKNjSZPf762f1XXag.webp?v=1760320900
+    Price: 200,00 € EUR
+  - [as pic / 10](https://www.floranza-air.shop/products/na044-men-fashion-leather-boots-pointed-toe-waterproof-warm-fur-plush-boots-man-ankle-boots-british-style-shoes?variant=52100478435665)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/HTB1Fz18l8nTBKNjSZPf762f1XXag.webp?v=1760320900
+    Price: 200,00 € EUR
+  - [as pic / 11](https://www.floranza-air.shop/products/na044-men-fashion-leather-boots-pointed-toe-waterproof-warm-fur-plush-boots-man-ankle-boots-british-style-shoes?variant=52100478468433)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/HTB1Fz18l8nTBKNjSZPf762f1XXag.webp?v=1760320900
+    Price: 200,00 € EUR
+  - [as pic / 12](https://www.floranza-air.shop/products/na044-men-fashion-leather-boots-pointed-toe-waterproof-warm-fur-plush-boots-man-ankle-boots-british-style-shoes?variant=52100478501201)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/HTB1Fz18l8nTBKNjSZPf762f1XXag.webp?v=1760320900
+    Price: 200,00 € EUR
+- [Winter Autumn Warm Men Waterproof Hiking Boots Wholesale High Ankle Hiking Boots for Men](https://www.floranza-air.shop/products/winter-autumn-warm-men-waterproof-hiking-boots-wholesale-high-ankle-hiking-boots-for-men): SPECIFICATIONSBrand Name: FONLEADERColor: Black,Green,GreyGender: Men,UnisexKey words: Winter Hiking ShoesLead Time: 3-5 days after paymentLining Material: Cotton FabricMOQ: 1 PairMidsole Material: EVAModel Number: QFC-6025Outsole Material: RubberPayment Term: Trade Assurance/OthersPlace of Origin: Fujian, ChinaSeason: Autumn,Spring,Summer,WinterService: Custom\OEM \ ODM ServiceSize: Eur 39-45#Style: SneakerType: Trekking shoesUpper Material: Suede #detail_decorate_root .magic-0{border-bottom-width:2px;border-bottom-style:solid;border-bottom-color:#53647a;background-color:#c5ccde;margin-left:0;margin-right:0;padding-left:8px;padding-right:8px;color:#53647a;font-family:Roboto;font-size:24px;padding-top:8px;padding-bottom:4px}#detail_decorate_root .magic-1{vertical-align:top}#detail_decorate_root .magic-2{vertical-align:top;display:block;padding-right:4px;box-sizing:border-box;padding-left:4px}#detail_decorate_root .magic-3{vertical-align:top;padding-bottom:4px;box-sizing:border-box;padding-top:4px}#detail_decorate_root .magic-4{padding:0;margin:0;white-space:pre-wrap;font-size:14px}#detail_decorate_root .magic-5{text-align:center;margin:0;padding:0}#detail_decorate_root .magic-6{width:750px;border-collapse:collapse}#detail_decorate_root .magic-7{min-height:18px;padding:5px 10px;overflow:hidden;width:166px;min-height:18px;box-sizing:content-box}#detail_decorate_root .magic-8{min-height:18px;padding:5px 10px;overflow:hidden;width:536px;min-height:18px;box-sizing:content-box}#detail_decorate_root .magic-9{width:750px}#detail_decorate_root .magic-10{overflow:hidden;width:750px;height:474.7229916897507px;margin-top:0;margin-bottom:0;margin-left:0;margin-right:0}#detail_decorate_root .magic-11{margin-top:0;margin-left:0;width:750px;height:474.7229916897507px}#detail_decorate_root .magic-12{overflow:hidden;width:750px;height:750px;margin-top:0;margin-bottom:0;margin-left:0;margin-right:0}#detail_decorate_root .magic-13{margin-top:0;margin-left:0;width:750px;height:750px}#detail_decorate_root .magic-14{overflow:hidden;width:750px;height:1499.05px;margin-top:0;margin-bottom:0;margin-left:0;margin-right:0}#detail_decorate_root .magic-15{margin-top:0;margin-left:0;width:750px;height:1499.05px}#detail_decorate_root .magic-16{overflow:hidden;width:750px;height:1369.94px;margin-top:0;margin-bottom:0;margin-left:0;margin-right:0}#detail_decorate_root .magic-17{margin-top:0;margin-left:0;width:750px;height:1369.94px}#detail_decorate_root .magic-18{overflow:hidden;width:750px;height:1242.72px;margin-top:0;margin-bottom:0;margin-left:0;margin-right:0}#detail_decorate_root .magic-19{margin-top:0;margin-left:0;width:750px;height:1242.72px}#detail_decorate_root .magic-20{overflow:hidden;width:750px;height:1351.9px;margin-top:0;margin-bottom:0;margin-left:0;margin-right:0}#detail_decorate_root .magic-21{margin-top:0;margin-left:0;width:750px;height:1351.9px}#detail_decorate_root .magic-22{overflow:hidden;width:750px;height:1602.53px;margin-top:0;margin-bottom:0;margin-left:0;margin-right:0}#detail_decorate_root .magic-23{margin-top:0;margin-left:0;width:750px;height:1602.53px}#detail_decorate_root .magic-24{overflow:hidden;width:750px;height:1794.3px;margin-top:0;margin-bottom:0;margin-left:0;margin-right:0}#detail_decorate_root .magic-25{margin-top:0;margin-left:0;width:750px;height:1794.3px}#detail_decorate_root .magic-26{overflow:hidden;width:750px;height:532.258064516129px;margin-top:0;margin-bottom:0;margin-left:0;margin-right:0}#detail_decorate_root .magic-27{margin-top:0;margin-left:0;width:750px;height:532.258064516129px}#detail_decorate_root .magic-28{padding:0;margin:0;color:#333;font-size:14px;padding-left:4px;font-weight:bold;white-space:pre-wrap}#detail_decorate_root .magic-29{font-size:18px}#detail_decorate_root .magic-30{overflow:hidden;width:750px;height:358.3470394736842px;margin-top:0;margin-bottom:0;margin-left:0;margin-right:0}#detail_decorate_root .magic-31{margin-top:0;margin-left:0;width:750px;height:358.3470394736842px}#detail_decorate_root .magic-32{overflow:hidden;width:750px;height:587.3376623376623px;margin-top:0;margin-bottom:0;margin-left:0;margin-right:0}#detail_decorate_root .magic-33{margin-top:0;margin-left:0;width:750px;height:587.3376623376623px}#detail_decorate_root .magic-34{overflow:hidden;width:750px;height:387.1280724450194px;margin-top:0;margin-bottom:0;margin-left:0;margin-right:0}#detail_decorate_root .magic-35{margin-top:0;margin-left:0;width:750px;height:387.1280724450194px}#detail_decorate_root .magic-36{overflow:hidden;width:750px;height:309.91735537190084px;margin-top:0;margin-bottom:0;margin-left:0;margin-right:0}#detail_decorate_root .magic-37{margin-top:0;margin-left:0;width:750px;height:309.91735537190084px}#detail_decorate_root .magic-38{overflow:hidden;width:750px;height:862.2004357298474px;margin-top:0;margin-bottom:0;margin-left:0;margin-right:0}#detail_decorate_root .magic-39{margin-top:0;margin-left:0;width:750px;height:862.2004357298474px}#detail_decorate_root .magic-40{overflow:hidden;width:750px;height:259.76909413854355px;margin-top:0;margin-bottom:0;margin-left:0;margin-right:0}#detail_decorate_root .magic-41{margin-top:0;margin-left:0;width:750.0000000000001px;height:259.76909413854355px}#detail_decorate_root .magic-42{vertical-align:top;display:inline-block;padding-right:4px;width:50%;box-sizing:border-box;margin-bottom:-4px;padding-left:4px;margin-top:-4px}#detail_decorate_root .magic-43{padding:0;margin:0}#detail_decorate_root .magic-44{padding:0;margin:0;color:#333;font-size:14px;line-height:20px;font-weight:bold;white-space:pre-wrap}#detail_decorate_root .magic-45{white-space:pre-wrap;font-size:14px}#detail_decorate_root .magic-46{overflow:hidden;width:750px;height:211.1344537815126px;margin-top:0;margin-bottom:0;margin-left:0;margin-right:0}#detail_decorate_root .magic-47{margin-top:0;margin-left:0;width:750px;height:211.1344537815126px}#detail_decorate_root .magic-48{overflow:hidden;width:750px;height:204.93197278911566px;margin-top:0;margin-bottom:0;margin-left:0;margin-right:0}#detail_decorate_root .magic-49{margin-top:0;margin-left:0;width:750px;height:204.93197278911566px}#detail_decorate_root .magic-50{overflow:hidden;width:750px;height:40.92475588742102px;margin-top:0;margin-bottom:0;margin-left:0;margin-right:0}#detail_decorate_root .magic-51{margin-top:0;margin-left:0;width:750px;height:40.92475588742102px} Product Description Factory Direct Men Waterproof Hiking Boots China Wholesale High Ankle Hiking Boots for Men Item: QFC-6025 Style: Sneakers Type: Sport shoes Gender: Unisex Size: Eur 39-45# Colors: Black,Green,Grey Upper: Suede Outsole: Rubber Occasion Outdoor activity Product Images Fonleader Footwear is devoted to supplying various kinds of footwear products. It's located in Jinjiang City, famous for one of the most advanced fashion industry center in China.We have 1 self-managed factory with a foreign trading team selling products to the world. Fonleader is also cooperating with many local factories for meeting the various kinds of requirements of customers all over the world.We support wholesale, retail, dropshipping and OEM or ODM service at a small MOQ business mode. We have attained a favorable reputation due to our high-quality products, competitive price and prompt delivery. Superior Service We are available on Alibaba, WhatsApp, Skype, WeChat for 24 hours around. And we also offer after-sale service to help our customers deal with any problem about our products. Best Price Guarantee We promise to offer our customers the best price. Try to reach a high sales volume and earn customers loyalty by sacrificing our profit. Fast Shipping, Charge Paid on Delivery Small Wholesale order delivered in 3 days, mass production order delivered in 30-45 days. Shipping charge can be paid on delivery. Multiple Cooperation Mode We support multiple cooperation modes. Wholesale order 1 pair to start. And you also get wholesale price at buying only one pair. Custom order 300 pairs/color/design to start. Sample time 7-10 days. Clearance Service We are cooperating with many shipping companies in offering our customers the best importing experience. We have our own warehouse in dozens of countries. You just need to pick up cargo from our warehouse directly. Quality Control Our QC team will control the whole production procedures and inspect again before delivery to make sure no inferior product is delivered from our warehouse so that customers can get the perfect products. 1.Can I order sample to check your quality?Yes, we can send the available sample in 3 days. New developing sample will need more time, about 7 to 10 days. We haveavedeveloping center preparing sample.2.Can I add my logo or customize my own design? Can you make design for us?Yes, we can put your logo on our products or develop your own design, minimum quantity is required. We can design artwork for your confirmation before making samples.3.Do I need to pay for sample?Small quantity of sample with unit price less than $5.00 is free of charge. Buyer is required to pay express charge for samples.4.What's your MOQ?Our minimum is 1 pair/pc for wholesale. from 100 to 800 pairs/pieces for mass production, Don't worry about quantity, we can find solution for you even you order small quantity. Please discuss with our professional sales team.5.How can I make the payment?Online Trade Assurance and Secure Payment are welcome. We also accept L/C,T/T,Western Union, Paypal etc.6.When will you deliver my order after payment?Our delivery time for mass production order is about 45 days. Our delivery time for wholesale order is from 2 to 15 days.7.How can I know product cost?We send spread sheets with details from which you will know our cost and product details. Please contact our sales team for spread sheets.8.How can I know freight?We have agreement with express and logistics companies to get cheaper freight rate. We can quote the freight according to order quantity and destination country.
+  Updated: 2025-10-13T02:04:09Z
+  Vendor: FLORANZA-AIR.SHOP
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/HLB1Q2jATQvoK1RjSZFDq6xY3pXa5.webp?v=1760321036
+  - [Black / Eur 39](https://www.floranza-air.shop/products/winter-autumn-warm-men-waterproof-hiking-boots-wholesale-high-ankle-hiking-boots-for-men?variant=52100481352017)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/HTB1IafqcL1H3KVjSZFHq6zKppXa2.webp?v=1760321036
+    Price: 69,00 € EUR
+  - [Grey / Eur 39](https://www.floranza-air.shop/products/winter-autumn-warm-men-waterproof-hiking-boots-wholesale-high-ankle-hiking-boots-for-men?variant=52100481384785)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/HTB1dNEEX2Bj_uVjSZFpq6A0SXXaY.webp?v=1760321036
+    Price: 69,00 € EUR
+  - [Green / Eur 39](https://www.floranza-air.shop/products/winter-autumn-warm-men-waterproof-hiking-boots-wholesale-high-ankle-hiking-boots-for-men?variant=52100481417553)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/HTB1s8nxcRCw3KVjSZFlq6AJkFXah.webp?v=1760321036
+    Price: 69,00 € EUR
+  - [Black / 0](https://www.floranza-air.shop/products/winter-autumn-warm-men-waterproof-hiking-boots-wholesale-high-ankle-hiking-boots-for-men?variant=52100481450321)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/HTB1IafqcL1H3KVjSZFHq6zKppXa2.webp?v=1760321036
+    Price: 69,00 € EUR
+  - [Grey / Eur 40](https://www.floranza-air.shop/products/winter-autumn-warm-men-waterproof-hiking-boots-wholesale-high-ankle-hiking-boots-for-men?variant=52100481483089)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/HTB1dNEEX2Bj_uVjSZFpq6A0SXXaY.webp?v=1760321036
+    Price: 69,00 € EUR
+  - [Grey / Eur 41](https://www.floranza-air.shop/products/winter-autumn-warm-men-waterproof-hiking-boots-wholesale-high-ankle-hiking-boots-for-men?variant=52100481515857)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/HTB1dNEEX2Bj_uVjSZFpq6A0SXXaY.webp?v=1760321036
+    Price: 69,00 € EUR
+  - [Grey / Eur 42](https://www.floranza-air.shop/products/winter-autumn-warm-men-waterproof-hiking-boots-wholesale-high-ankle-hiking-boots-for-men?variant=52100481548625)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/HTB1dNEEX2Bj_uVjSZFpq6A0SXXaY.webp?v=1760321036
+    Price: 69,00 € EUR
+  - [Grey / Eur 43](https://www.floranza-air.shop/products/winter-autumn-warm-men-waterproof-hiking-boots-wholesale-high-ankle-hiking-boots-for-men?variant=52100481581393)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/HTB1dNEEX2Bj_uVjSZFpq6A0SXXaY.webp?v=1760321036
+    Price: 69,00 € EUR
+  - [Grey / Eur 44](https://www.floranza-air.shop/products/winter-autumn-warm-men-waterproof-hiking-boots-wholesale-high-ankle-hiking-boots-for-men?variant=52100481614161)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/HTB1dNEEX2Bj_uVjSZFpq6A0SXXaY.webp?v=1760321036
+    Price: 69,00 € EUR
+  - [Grey / Eur 45](https://www.floranza-air.shop/products/winter-autumn-warm-men-waterproof-hiking-boots-wholesale-high-ankle-hiking-boots-for-men?variant=52100481646929)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/HTB1dNEEX2Bj_uVjSZFpq6A0SXXaY.webp?v=1760321036
+    Price: 69,00 € EUR
+  - [Black / Eur 40](https://www.floranza-air.shop/products/winter-autumn-warm-men-waterproof-hiking-boots-wholesale-high-ankle-hiking-boots-for-men?variant=52100481679697)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/HTB1IafqcL1H3KVjSZFHq6zKppXa2.webp?v=1760321036
+    Price: 69,00 € EUR
+  - [Black / Eur 41](https://www.floranza-air.shop/products/winter-autumn-warm-men-waterproof-hiking-boots-wholesale-high-ankle-hiking-boots-for-men?variant=52100481712465)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/HTB1IafqcL1H3KVjSZFHq6zKppXa2.webp?v=1760321036
+    Price: 69,00 € EUR
+  - [Black / Eur 42](https://www.floranza-air.shop/products/winter-autumn-warm-men-waterproof-hiking-boots-wholesale-high-ankle-hiking-boots-for-men?variant=52100481745233)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/HTB1IafqcL1H3KVjSZFHq6zKppXa2.webp?v=1760321036
+    Price: 69,00 € EUR
+  - [Black / Eur 43](https://www.floranza-air.shop/products/winter-autumn-warm-men-waterproof-hiking-boots-wholesale-high-ankle-hiking-boots-for-men?variant=52100481778001)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/HTB1IafqcL1H3KVjSZFHq6zKppXa2.webp?v=1760321036
+    Price: 69,00 € EUR
+  - [Black / Eur 44](https://www.floranza-air.shop/products/winter-autumn-warm-men-waterproof-hiking-boots-wholesale-high-ankle-hiking-boots-for-men?variant=52100481810769)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/HTB1IafqcL1H3KVjSZFHq6zKppXa2.webp?v=1760321036
+    Price: 69,00 € EUR
+  - [Black / Eur 45](https://www.floranza-air.shop/products/winter-autumn-warm-men-waterproof-hiking-boots-wholesale-high-ankle-hiking-boots-for-men?variant=52100481843537)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/HTB1IafqcL1H3KVjSZFHq6zKppXa2.webp?v=1760321036
+    Price: 69,00 € EUR
+  - [Green / Eur 40](https://www.floranza-air.shop/products/winter-autumn-warm-men-waterproof-hiking-boots-wholesale-high-ankle-hiking-boots-for-men?variant=52100481876305)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/HTB1s8nxcRCw3KVjSZFlq6AJkFXah.webp?v=1760321036
+    Price: 69,00 € EUR
+  - [Green / Eur 41](https://www.floranza-air.shop/products/winter-autumn-warm-men-waterproof-hiking-boots-wholesale-high-ankle-hiking-boots-for-men?variant=52100481909073)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/HTB1s8nxcRCw3KVjSZFlq6AJkFXah.webp?v=1760321036
+    Price: 69,00 € EUR
+  - [Green / Eur 42](https://www.floranza-air.shop/products/winter-autumn-warm-men-waterproof-hiking-boots-wholesale-high-ankle-hiking-boots-for-men?variant=52100481941841)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/HTB1s8nxcRCw3KVjSZFlq6AJkFXah.webp?v=1760321036
+    Price: 69,00 € EUR
+  - [Green / Eur 43](https://www.floranza-air.shop/products/winter-autumn-warm-men-waterproof-hiking-boots-wholesale-high-ankle-hiking-boots-for-men?variant=52100481974609)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/HTB1s8nxcRCw3KVjSZFlq6AJkFXah.webp?v=1760321036
+    Price: 69,00 € EUR
+  - [Green / Eur 44](https://www.floranza-air.shop/products/winter-autumn-warm-men-waterproof-hiking-boots-wholesale-high-ankle-hiking-boots-for-men?variant=52100482007377)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/HTB1s8nxcRCw3KVjSZFlq6AJkFXah.webp?v=1760321036
+    Price: 69,00 € EUR
+  - [Green / Eur 45](https://www.floranza-air.shop/products/winter-autumn-warm-men-waterproof-hiking-boots-wholesale-high-ankle-hiking-boots-for-men?variant=52100482040145)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/HTB1s8nxcRCw3KVjSZFlq6AJkFXah.webp?v=1760321036
+    Price: 69,00 € EUR
 
 ## Collections
 
@@ -22764,11 +23320,11 @@ Fashion Element:simple
   Updated: 2025-10-08T10:05:18Z
   Total Products: 1
 - [AVADA - Best Sellers](https://www.floranza-air.shop/collections/avada-best-sellers)
-  Updated: 2025-10-12T17:10:54Z
-  Total Products: 410
+  Updated: 2025-10-13T02:04:21Z
+  Total Products: 424
 - [APPPlaza - Best Sellers](https://www.floranza-air.shop/collections/appplaza-best-sellers)
-  Updated: 2025-10-12T17:10:54Z
-  Total Products: 410
+  Updated: 2025-10-13T02:04:21Z
+  Total Products: 424
 - [VENTILATEUR DE COU PORTABLE RECHARGEABLE](https://www.floranza-air.shop/collections/ventilateur-de-cou-portable-rechargeable): Description: Restez au frais partout, en toute liberté ! Vous en avez assez de souffrir de la chaleur lors de vos déplacements, au travail ou pendant vos activités sportives ? Le FLORANZA-AIR™ est la solution parfaite pour vous rafraîchir instantanément, où que vous soyez. ✨ Pourquoi choisir FLORANZA-AIR™ ? Portable et mains libres - Se porte confortablement autour du cou, vous laissant les mains libres pour vos activités Rechargeable USB - Plus besoin de piles jetables, économique et écologique Ultra-léger (239g) - Vous oubliez que vous le portez Silencieux - Profitez d'une brise rafraîchissante sans bruit gênant Parfait pour l'été - Idéal pour le sport, le bureau, les voyages, le jardinage ou toute activité extérieure 🌬️ Caractéristiques techniques : Poids : 239g seulement Alimentation : Rechargeable par USB Design ergonomique pour un confort optimal Ventilation efficace et ciblée Ne laissez plus la chaleur gâcher vos journées ! Commandez votre FLORANZA-AIR™ dès maintenant et profitez d'un confort rafraîchissant instantané. Titre pour le référencement naturel (SEO): FLORANZA-AIR™ Ventilateur de Cou Portable Rechargeable USB - Rafraîchissement Mains Libres Description pour le référencement naturel (SEO): Ventilateur de cou portable rechargeable FLORANZA-AIR™. Ultra-léger (239g), silencieux, mains libres. Parfait pour sport, bureau, voyage. Rechargeable USB. Restez au frais partout ! Balises: 5 modifications
   Updated: 2025-10-12T16:35:31Z
   Total Products: 6
