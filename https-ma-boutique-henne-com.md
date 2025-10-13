@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2018-01-12T21:20:39Z
 - Contact Email: contact@ma-boutique-henne.com
-- Updated At: 2025-10-13T12:00:37.911Z
+- Updated At: 2025-10-13T16:00:40.985Z
 
 ## Products
 
@@ -1191,7 +1191,7 @@
     Image: https://cdn.shopify.com/s/files/1/2730/3378/products/MintBlue-Color-Swatches-Curiosa.jpg?v=1594907881
     Price: 19,50 € EUR
 - [Henna Eyebrows - Sourcils au Henné, longue tenue - plusieurs coloris](https://ma-boutique-henne.com/products/henna-eyebrows-sourcils-au-henne-longue-tenue-plusieurs-coloris): maquillage 100% naturelle à base d'extrait pur de Henné, longue tenue, pour les yeux, les lèvres et les sourcils, curiosa neways, henna lips, henna eyebrows, henna brows, soucils, henna makeup, cosmétique bio, henné, sidr, katam, rouge cerise, cheveux, rouge, violet, rouge à lèvres bordeaux, chili, rose, mauve, marron
-  Updated: 2025-09-15T19:00:25Z
+  Updated: 2025-10-13T13:27:50Z
   Vendor: Ma Boutique Henné
   Product Type: Maquillage
   Availability: Available
