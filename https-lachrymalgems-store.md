@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-10-03T06:30:37Z
 - Contact Email: mandiemaddox@mystichiddengem.com
-- Updated At: 2025-10-13T08:00:28.871Z
+- Updated At: 2025-10-13T12:00:29.143Z
 
 ## Products
 
@@ -918,12 +918,12 @@
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/background-editor_output_a0f551fc-8888-4c42-a5fb-9cf3220590c5.png?v=1760042149
   Price: $37.77 USD
 - [Lachrymal Gems Skeleton Love Lost Heart Seed Planting Dark Aesthetic Backpack](https://lachrymalgems.store/products/lachrymal-gems-skeleton-love-lost-heart-seed-planting-dark-aesthetic-backpack): This backpack features a dark aesthetic with vaporwave neon glitch vibes, perfect for those who appreciate alternative trap aesthetic. It gives off a mysterious and edgy vibe, making it ideal for students, travelers, or anyone who loves unique designs. It is relevant for back-to-school season, music festivals, and everyday streetwear.Product features- Premium lightweight tear resistant Oxford fabric- 6 compartments for organizational convenience- Padded mesh back panel and straps for extra comfort- Adjustable shoulder straps for a customized fit- Black base and inside color for a sleek lookCare instructions- Before cleaning the bag, remove all the items from the bag. Suggested to pretreat visible stains with stain remover. Mix warm water with laundry detergent and clean the bag with terry washcloth or soft bristle brush. Let the bag air dry. One size Length, in 10.83 Width, in 4.92 Height, in 13.58
-  Updated: 2025-10-12T15:35:54Z
+  Updated: 2025-10-13T10:44:53Z
   Vendor: Printify
   Product Type: Bags
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/background-editor_output_e7b2e695-ed06-4f83-9b25-d7e36f1908c5.png?v=1760041599
-  Price: $40.43 USD
+  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/663816918128052747_2048.jpg?v=1760352283
+  Price: $59.05 USD
 - [Skin-Glow Face and Body Cleanser, 6oz](https://lachrymalgems.store/products/skin-glow-face-and-body-cleanser-6oz): This gentle cleanser equips your daily skincare routine with a versatile solution for both face and body care. This cleansing gel comes in a convenient 6 fl. oz. clear PET bottle with a white pump, making it easy to use and store. Ideal for sensitive or acne-prone skin, it effectively removes excess oil without causing irritation. With its balanced and gentle formula, it leaves your skin feeling refreshed and clean without any added fragrance. Plus, it's 100% vegan, cruelty-free, and packaged in recyclable materials. Made in the USA from globally sourced ingredients.Aqua, Cocamidopropyl Betaine, Glycerin, Decyl Glucoside, Panthenol, Glycyrrhiza Glabra (Licorice) Root Extract, Camellia Sinensis Leaf Extract, Xanthan Gum, Hamamelis Virginiana (Witch Hazel) Water, Alcohol, Butylene Glycol, Fomes Officinalis (Mushroom) Extract, Disodium EDTA, Citric Acid, Phenoxyethanol, Ethylhexylglycerin.Free of parabens, formaldehydes, formaldehyde-releasing agents, phthalates, mineral oil, oxybenzone, coal tar, hydroquinone, sulfates SLS & SLES, triclocarban, triclosan, and synthetic fragrance.Please note: This product is not eligible for publishing on Etsy and TikTok Shop US. More info here. .: Recommended for sensitive or acne-prone skin.: Cleansing gel for removing excess oil.: Face and body use.: Balanced and gentle formula.: Fragrance-Free.: 100% vegan, cruelty-free, and comes in recyclable packaging.: Clear PET bottle with white pump.: Design printed on a sticker label.: Made in the USA from globally sourced ingredients.: 6 fl. oz. (177ml).: Please note: This product is shipped only to the United States and their territories, as well as Canada.: Please note: This product is not eligible for publishing on Etsy and TikTok Shop US. 6oz Bottle height, in 7.20 Bottle diameter, in 1.26
   Updated: 2025-10-12T15:35:55Z
   Vendor: Printify
@@ -1108,8 +1108,8 @@
 ## Collections
 
 - [Home page](https://lachrymalgems.store/collections/frontpage): Landing pages display of best selling products
-  Updated: 2025-10-12T15:35:49Z
-  Total Products: 16
+  Updated: 2025-10-13T10:44:37Z
+  Total Products: 17
 - [Ladies Alt. Style](https://lachrymalgems.store/collections/ladies-alt-style): Ladies trending apparel, Seasonal Fashion
   Updated: 2025-10-12T15:35:49Z
   Total Products: 13
@@ -1120,7 +1120,7 @@
   Updated: 2025-10-12T15:35:49Z
   Total Products: 4
 - [Baggage with Benifiets](https://lachrymalgems.store/collections/baggage-with-benifiets): Carry what matters, drop what doesn't. We all carry something at least make it cute . Match your vibe not your outfit.
-  Updated: 2025-10-12T15:35:49Z
+  Updated: 2025-10-13T10:44:37Z
   Total Products: 4
 - [Spiritual Drip](https://lachrymalgems.store/collections/spiritual-drip): For the girl who smudges her crystals and her contour.Every piece has a secret meaning — only the wearer knows.
   Updated: 2025-10-12T15:35:49Z
