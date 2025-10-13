@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-10-12T20:00:48.264Z
+- Updated At: 2025-10-13T00:00:45.324Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -15658,7 +15658,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £165.00 GBP
 - [Silver Oval Diamond Locket | Premium Diamond Necklace + photos](https://www.lilyblanche.com/products/silver-small-oval-diamond-locket): Shop our solid silver & diamond oval locket. Ethically sourced diamond. Can be personalised with 2 photos. Free shipping, photos & care kit. Order today
-  Updated: 2025-08-17T10:50:23Z
+  Updated: 2025-10-12T20:45:03Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -16955,7 +16955,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £140.00 GBP
 - [Men's Heavy Sterling Silver Cross Necklace - Premium Craftsmanship](https://www.lilyblanche.com/products/mens-silver-cross-necklace): Men's heavy sterling silver cross necklace. Handcrafted heirloom quality, 44mm pendant with choice of chains. UK made. Free delivery, gift wrap & care kit. £145
-  Updated: 2025-10-11T12:23:02Z
+  Updated: 2025-10-12T23:07:10Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
