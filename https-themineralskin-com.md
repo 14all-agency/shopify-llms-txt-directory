@@ -1,17 +1,20 @@
 # Mineral (https://themineralskin.com)
 
+> Discover The Mineral Skin's range of natural skincare products designed specifically for Everyone. From age-defying creams to beard grooming essentials, our formulations are crafted to rejuvenate and nourish your skin. Experience the power of natural botanicals with The Mineral Skin.
+
 - Domain: https://themineralskin.com
 - Locale: en
 - Currency: USD
 - Timezone: Europe/Rome
 - Created At: 2025-08-25T14:01:44Z
 - Contact Email: support@themineralskin.com
-- Updated At: 2025-10-13T12:15:09.155Z
+- Address: 17 Heath Drive, London NW3 7SL, United Kingdom
+- Updated At: 2025-10-13T12:35:31.547Z
 
 ## Products
 
 - [Icelandic Volcano Scrub – Revitalize Your Skin with Natural Exfoliation](https://themineralskin.com/products/icelandic-volcano-face-body-scrub): Revitalize your skin with our Icelandic Volcano Scrub. This face and body scrub harnesses volcanic minerals for deep cleansing, exfoliation, and hydration. Experience glowing skin!
-  Updated: 2025-10-06T07:32:27Z
+  Updated: 2025-10-13T12:23:01Z
   Vendor: The Mineral
   Product Type: 
   Availability: Available
@@ -32,35 +35,35 @@
   Image: https://cdn.shopify.com/s/files/1/0918/9451/3992/files/hair-body-botanic-wash-1266704.png?v=1757489623
   Price: $36.00 USD
 - [Look Fresh with Botanic Mix Eye Cream for Radiant, Youthful Skin](https://themineralskin.com/products/botanic-mix-eye-cream): Revitalize your eyes with our Botanic Mix Eye Cream. Reduce puffiness and dark circles for a fresh, youthful look. Perfect for all skin types. Shop now and illuminate your gaze!
-  Updated: 2025-10-06T07:29:14Z
+  Updated: 2025-10-13T12:23:02Z
   Vendor: The Mineral
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0918/9451/3992/files/botanic-mix-eye-cream-4658680.png?v=1757489618
   Price: $31.00 USD
 - [Botanic Purge Foam - Fast Action to Blast Away Skin Impurities](https://themineralskin.com/products/botanic-purge-foam): Botanic Purge Foam deeply cleans skin by removing dirt, oil, and clogged pores using natural ingredients. It purifies without drying and shows clear results in 21 days.
-  Updated: 2025-10-11T11:19:56Z
+  Updated: 2025-10-13T12:23:02Z
   Vendor: The Mineral
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0918/9451/3992/files/botanic-purge-foam-8322755.png?v=1757489620
   Price: $35.00 USD
 - [Caffeine Blend Infuser for All-Day Energy and Focus Boost](https://themineralskin.com/products/caffeine-blend-infuser): Stay sharp all day with our Caffeine Blend Infuser. Boost your energy and focus effortlessly. Perfect for coffee lovers seeking a quick caffeine fix. Order now!
-  Updated: 2025-10-06T07:24:37Z
+  Updated: 2025-10-13T12:23:03Z
   Vendor: The Mineral
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0918/9451/3992/files/caffeine-blend-infuser-3176952.png?v=1757489620
   Price: $35.00 USD
 - [Botanic Beard Elixir: Make Your Beard Legendary with Natural Power](https://themineralskin.com/products/botanic-blend-elixir): Transform your grooming routine with our Botanic Beard Elixir. Nourish, soften, and style your beard for legendary results. Elevate your beard game today!
-  Updated: 2025-10-09T19:49:10Z
+  Updated: 2025-10-13T12:23:04Z
   Vendor: The Mineral
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0918/9451/3992/files/botanic-beard-elixir-6459706.png?v=1757489619
   Price: $39.00 USD
 - [Make Your Skin Look Young with Botanic Age Regression Cream](https://themineralskin.com/products/botanic-age-regression-cream): Revitalize your skin with our Botanic Age Regression Cream. Experience youthful radiance and reduce signs of aging! Achieve a smoother, firmer complexion today!
-  Updated: 2025-10-13T07:04:23Z
+  Updated: 2025-10-13T12:23:07Z
   Vendor: The Mineral
   Product Type: 
   Availability: Available
@@ -74,7 +77,7 @@
   Image: https://cdn.shopify.com/s/files/1/0918/9451/3992/files/sp.webp?v=1759397634
   Price: $1.60 USD
 - [The Modern Man’s Guide to Natural Skin (Ebook) - Mineral](https://themineralskin.com/products/the-modern-man-s-guide-to-natural-skin-ebook): A simple, science-backed guide for men who want healthy, natural skin—without harsh chemicals or 10-step routines. This book breaks down everything from what your skin truly needs to how to build a minimal, effective routine. 📘 Inside the book: Introduction: The New Face of Grooming Chapter 1: What Skin Actually Needs Chapter 2: Nature vs. Chemicals Chapter 3: Minimal Routine, Maximal Results Chapter 4: The Modern Man’s Mistakes Chapter 5: Building Your Natural Arsenal Chapter 6: Skincare as Self-Respect Conclusion: Back to the Source Bonus: Your Free Skin Coach Length: ~55 pagesPublisher: The Mineral Skin A clean, modern guide that helps men rediscover skincare as confidence, discipline, and self-respect — naturally. - Mineral -  - The Mineral
-  Updated: 2025-10-06T17:34:28Z
+  Updated: 2025-10-13T12:23:08Z
   Vendor: The Mineral
   Product Type: 
   Availability: Available
@@ -84,13 +87,13 @@
 ## Collections
 
 - [Best Selling Natural Skincare | The Mineral Skin](https://themineralskin.com/collections/best-sellers): Discover The Mineral Skin’s best selling skincare products made with natural, effective ingredients. Shop customer favorites for radiant, youthful, and healthy skin — loved by thousands.
-  Updated: 2025-10-13T11:25:52Z
+  Updated: 2025-10-13T12:23:09Z
   Total Products: 6
 - [Daily Essentials](https://themineralskin.com/collections/daily-essentials)
   Updated: 2025-10-07T11:25:35Z
   Total Products: 3
 - [Age & Recovery Skincare | Anti-Aging Natural Care – The Mineral Skin](https://themineralskin.com/collections/age-recovery): Revitalize your skin with The Mineral Skin’s Age & Recovery collection. Natural anti-aging formulas that reduce fine lines, restore firmness, and promote youthful radiance.
-  Updated: 2025-10-07T11:25:35Z
+  Updated: 2025-10-13T12:23:09Z
   Total Products: 4
 - [Beard & Shave Care | Natural Grooming Products – The Mineral Skin](https://themineralskin.com/collections/beard-shave-care): Shop premium beard and shave care essentials from The Mineral Skin. Natural grooming products designed to nourish, protect, and deliver a smooth, confident shave.
   Updated: 2025-10-03T14:30:25Z
@@ -99,17 +102,17 @@
   Updated: 2025-10-13T11:25:52Z
   Total Products: 4
 - [Botanic Natural Collection: Discover the Beauty of Nature's Wonders](https://themineralskin.com/collections/the-botanic™-collection): Discover the Botanic Natural Collection, where nature's beauty comes alive. Explore our unique range of eco-friendly products designed to enhance your natural lifestyle. Shop now!
-  Updated: 2025-10-07T11:25:35Z
+  Updated: 2025-10-13T12:23:09Z
   Total Products: 5
 - [Best Selling Products](https://themineralskin.com/collections/best-selling-products)
-  Updated: 2025-10-13T11:25:52Z
+  Updated: 2025-10-13T12:23:10Z
   Total Products: 10
 
 ## Blogs
 
 - [News](https://themineralskin.com/blogs/news)
   - [The Mineral Skin: For Skin That Works as Hard as You Do](https://themineralskin.com/blogs/news/the-mineral-skin-for-skin-that-works-as-hard-as-you-do)
-    Updated: 2025-09-30T13:59:04Z
+    Updated: 2025-10-13T12:23:13Z
     Author: Michele Galli
   - [The Secret to Energized, Radiant Skin (Without Another Cup of Coffee)](https://themineralskin.com/blogs/news/the-secret-to-energized-radiant-skin-without-another-cup-of-coffee)
     Updated: 2025-10-13T12:05:35Z
@@ -160,6 +163,11 @@
   Updated: 2025-10-02T13:45:29+02:00
 - [Contact Information](https://themineralskin.com/policies/contact-information)
   Updated: 2025-10-03T07:45:55+02:00
+
+## Alternate Currencies & Languages
+
+- [UK (en / undefined)](https://themineralskin.com/llms.txt?market=uk)
+- [US (en / undefined)](https://themineralskin.com/llms.txt?market=us)
 
 ## Optional
 
