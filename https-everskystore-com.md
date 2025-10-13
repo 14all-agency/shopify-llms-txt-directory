@@ -6,7 +6,7 @@
 - Timezone: America/Kentucky/Louisville
 - Created At: 2025-08-12T15:00:07Z
 - Contact Email: helplandu78@gmail.com
-- Updated At: 2025-10-13T04:00:32.115Z
+- Updated At: 2025-10-13T08:00:31.583Z
 
 ## Products
 
@@ -1939,7 +1939,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7339/4867/files/6cc2a5d9-3567-4a5f-8957-24da60cfebaa.jpg?v=1759167399
     Price: $35.00 USD
 - [New Tube Lip Rich Lip Color Slightly Spicy Lip Honey Lip Glass Mirror Face Lip Mirror Liquid Lipstick](https://everskystore.com/products/new-tube-lip-rich-lip-color-slightly-spicy-lip-honey-lip-glass-mirror-face-lip-mirror-liquid-lipstick): Overview: 1. Lightweight and comfortable to wear, silky texture 2. Very Pigmented and easy to wear and remove 3. Smooth slippery, create shiny sexy lips 4. 6 color-optional 5. Portable and convenient to use Product Information: Efficacy: moisturizing, moisturizing Color: 1 #,2 #,3 #(,4 #,5 #,6# Specifications: Standard specifications Series: lip gloss Applicable skin type: Universal Cosmetics for special purposes: no Net content: 5ml Packing List: 1*lip gloss Product Image:
-  Updated: 2025-10-11T16:06:31Z
+  Updated: 2025-10-13T07:58:35Z
   Vendor: DC-Fifth & Ninth
   Product Type: Accessories
   Availability: Available
@@ -2259,7 +2259,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7339/4867/files/5969663626923.jpg?v=1759167618
     Price: $50.00 USD
 - [Reflective Collar - Waterproof Airtag Holder for Pets](https://everskystore.com/products/reflective-collar-waterproof-holder-case-for-airtag-air-tag-airtags-protective-cover-cat-dog-kitten-puppy-nylon-collar): Explore our Reflective Collar that features a waterproof Airtag holder. Keep your pets safe with this durable and stylish accessory.
-  Updated: 2025-10-12T02:06:02Z
+  Updated: 2025-10-13T05:11:13Z
   Vendor: DC-Fifth & Ninth
   Product Type: Accessories
   Availability: Available
@@ -2611,7 +2611,7 @@
   Image: https://cdn.shopify.com/s/files/1/0726/7339/4867/files/cca7f07c-5f48-4078-8988-62c62f7cad91.jpg?v=1759167743
   Price: $125.00 USD
 - [BSYS L-Carnitine L-Tartrate 60's](https://everskystore.com/products/bsys-l-carnitine-l-tartrate-60s)
-  Updated: 2025-09-29T17:42:53Z
+  Updated: 2025-10-13T07:57:14Z
   Vendor: DC-Fifth & Ninth
   Product Type: Accessories
   Availability: Available
@@ -2625,7 +2625,7 @@
   Image: https://cdn.shopify.com/s/files/1/0726/7339/4867/files/4334ad32-cb9a-41c2-be5f-279d6e8d8418.jpg?v=1759167794
   Price: $29.00 USD
 - [7-Day Colon Cleanse & Detox Formula Capsulese](https://everskystore.com/products/7-day-colon-cleanse-detox-formula-capsulese)
-  Updated: 2025-09-29T17:43:38Z
+  Updated: 2025-10-13T07:57:15Z
   Vendor: DC-Fifth & Ninth
   Product Type: Accessories
   Availability: Available
@@ -2820,7 +2820,7 @@
   Image: https://cdn.shopify.com/s/files/1/0726/7339/4867/files/ac3010f3-2e8e-4ef1-a1fe-80c1af67824e.jpg?v=1759167984
   Price: $65.00 USD
 - [X2 Blue Game Console 4K Double Connection Battle Wireless](https://everskystore.com/products/x2-blue-game-console-4k-double-connection-battle-wireless-1): Product information: Interface: HDMI Additional features: game system Material: Plastic Packing List: host one HDMI one USB charging cable one wireless handle two TF cards Product Size: 16x10x12cm Applicable age group: over 6 years old Packing list: Host +HDMI+ wireless controller two +TF card+USB charging cableX1 sets Product Image:
-  Updated: 2025-10-08T04:07:16Z
+  Updated: 2025-10-13T05:11:22Z
   Vendor: DC-Fifth & Ninth
   Product Type: Accessories
   Availability: Available
@@ -3044,7 +3044,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7339/4867/files/0d9884ef-9270-4b78-83da-9ea0c76f3189.jpg?v=1759168252
     Price: $59.00 USD
 - [Silicone Dog Bath Massage Gloves Brush Pet Cat Bathroom Cleaning Tool Comb Brush For Dog Can Pour Shampoo Dog Grooming Supplies](https://everskystore.com/products/silicone-dog-bath-massage-gloves-brush-pet-cat-bathroom-cleaning-tool-comb-brush-for-dog-can-pour-shampoo-dog-grooming-supplies): Overview: 1. It leaves pet skin clean and helps restore sheen and luster to the coat. Our handheld grooming tool won’t pull on hair making it a perfect brush for pets with sensitive skin. 2. Turn grooming into a soothing massage for your pet that feels good, gets them clean and helps keep their skin and coat healthy. 3. At the top of the bottom, you can open the small ring and pour shampoo and water. 4. Dilute your pet's shampoo in advance, then hold it and distribute the blisters to the pet's fur during the bath. Specification: Product category: bath brush/massage brush Applicable object: Adult Name: Silicone Bath Brush Size: 7.9*8.5*5.5cm, weighs about 85g Packaging: single opp+carton packaging Packing Content: Silicone brush*1 Product Image:
-  Updated: 2025-10-13T00:45:17Z
+  Updated: 2025-10-13T07:59:33Z
   Vendor: DC-Fifth & Ninth
   Product Type: Accessories
   Availability: Available
