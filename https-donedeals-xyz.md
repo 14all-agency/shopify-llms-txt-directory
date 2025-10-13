@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-07-26T03:23:12Z
 - Contact Email: donedeals.xyz@gmail.com
-- Updated At: 2025-10-12T20:00:58.665Z
+- Updated At: 2025-10-13T00:01:01.015Z
 
 ## Products
 
@@ -23814,7 +23814,7 @@
     Availability: Available
     Price: ₹282.00 INR
 - [Laycra Printed Men Shirt](https://donedeals.xyz/products/laycra-printed-men-shirt-1): Product Details Name : Laycra Printed Men Shirt Fabric : Lycra Sleeve Length : Long Sleeves Pattern : Striped Net Quantity (N) : 1 Sizes : S (Chest Size : 38 in, Length Size: 28 in) M (Chest Size : 40 in, Length Size: 28.5 in) L (Chest Size : 42 in, Length Size: 29 in) XL (Chest Size : 44 in, Length Size: 30 in) Shirt, shirt, SHIRT, imported popcorn febric shirt, PRINTED shirt, casual shirt, formal shirt, party wear shirt, shirt for men, shirts, shirts for meShirt, shirt, SHIRT, imported popcorn febric shirt, PRINTED shirt, casual shirt, formal shirt, party wear shirt, shirt for men, shirts, shirts for mens, office shirt, full sleeve shirt, solid shirt Men kurta type Shirts shirts, shirt for men white colour, shirt for men cotton, shirt for, shirt formal, shirt for man combo, shirt for mens combo, shirt for men double pocket, shirt for mans, short for mens stylish, shirt for mens stylish, shirt for mens black, shirt under 100, shirt under 300, shirt under 150, shirt under 150 for men, shirt under 500, shirt under 200, shir under 200 for womenns, office shirt, full sleeve shirt, solid shirt Men kurta type Shirts Country of Origin : India More Information
-  Updated: 2025-10-12T10:17:37Z
+  Updated: 2025-10-12T22:17:42Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
