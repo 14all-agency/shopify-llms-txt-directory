@@ -9,7 +9,7 @@
 - Created At: 2025-08-25T14:01:44Z
 - Contact Email: support@themineralskin.com
 - Address: 17 Heath Drive, London NW3 7SL, United Kingdom
-- Updated At: 2025-10-13T12:35:35.308Z
+- Updated At: 2025-10-13T12:46:54.292Z
 
 ## Products
 
@@ -136,20 +136,10 @@
   Updated: 2025-10-11T16:24:57Z
 - [About Us - Know more about mineral](https://themineralskin.com/pages/ai-skincare-advisor)
   Updated: 2025-10-11T15:48:12Z
-- [HTML Sitemap](https://themineralskin.com/pages/html-sitemap): Products Icelandic Volcano Scrub for Fa... Hydrate Like a Pro with Botani... Clean Harder, Feel Stronger wi... Look Fresh with Botanic Mix Ey... Bo...
-  Updated: 2025-10-03T14:05:28Z
-- [html sitemap products](https://themineralskin.com/pages/html-sitemap-products): Products Icelandic Volcano Scrub for Fa... Hydrate Like a Pro with Botani... Clean Harder, Feel Stronger wi... Look Fresh with Botanic Mix Ey... Bo...
-  Updated: 2025-10-03T14:05:20Z
-- [html sitemap collections](https://themineralskin.com/pages/html-sitemap-collections): Collections Best Selling Products Best Sellers Daily Essentials Age & Recovery Beard & Shave Care Deep Clean & Energy The Botanic Collection .seoan...
-  Updated: 2025-10-03T14:05:22Z
-- [html sitemap blogs](https://themineralskin.com/pages/html-sitemap-blogs): Blogs News .seoant-html-sitemap-row { margin-bottom: 2.1rem; } .seoant-html-sitemap-row a { color: inherit; } .seoant-html-sitemap-row > h3 { margi...
-  Updated: 2025-10-03T14:05:24Z
-- [html sitemap articles](https://themineralskin.com/pages/html-sitemap-articles): Blog Posts The Mineral Skin: For Skin Tha... The Secret to Energized, Radia... Turn Back Time with Botanic Ag... .seoant-html-sitemap-row { margin-...
-  Updated: 2025-10-03T14:05:25Z
-- [html sitemap pages](https://themineralskin.com/pages/html-sitemap-pages): Pages Contact Track Order Your privacy choices Why Natural? HTML Sitemap html sitemap products html sitemap collections html sitemap blogs html sit...
-  Updated: 2025-10-03T14:05:27Z
 - [Why It Works? - Know More About Our Products](https://themineralskin.com/pages/why-it-works-know-more-about-our-products)
   Updated: 2025-10-12T10:39:14Z
+- [HTML Sitemap](https://themineralskin.com/pages/html-sitemap)
+  Updated: 2025-10-13T12:44:40Z
 
 ## Policies
 
