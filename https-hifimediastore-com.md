@@ -6,7 +6,7 @@
 - Timezone: Europe/Madrid
 - Created At: 2022-07-18T15:24:40Z
 - Contact Email: info@hifimediastore.com
-- Updated At: 2025-10-13T16:01:14.194Z
+- Updated At: 2025-10-13T20:01:13.063Z
 
 ## Products
 
@@ -6310,12 +6310,12 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/13148.jpg?v=1723761966
   Price: 208,99 € EUR
 - [Samsung Galaxy Tab A9 8,7" 8GB/128GB WiFi Gris (Graphite) X110](https://hifimediastore.com/products/samsung-galaxy-tab-a9-87-8gb-128gb-wifi-gris-graphite-x110): Samsung Galaxy Tab A9 Pantalla TFT LCD 87 Camara Principal 8MP y Camara delantera 2MP Android 12 One UI 51 Octacore Mediatek Helio G99 Amplicion de memoria hata 1 TB Bateria 5100 mAh con carga rapida 15W Wi Fi Bluetooth 53 GPS USB Tipo C 20
-  Updated: 2025-10-13T14:30:26Z
+  Updated: 2025-10-13T16:58:48Z
   Vendor: Samsung
   Product Type: Tablet's
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/13237.jpg?v=1723762227
-  Price: 205,99 € EUR
+  Price: 217,99 € EUR
 - [Xiaomi Redmi Pad SE 11" 8GB/256GB Wi-Fi Gris Grafito (Graphite Gray) 23073RPBFG](https://hifimediastore.com/products/xiaomi-redmi-pad-se-11-8gb-256gb-wi-fi-gris-grafito-graphite-gray-23073rpbfg): Xiaomi Redmi Pad SE:  Pantalla IPS LCD de 11" FHD+ y 90Hz Chip Qualcomm Snapdragon 680 4G (6 nm) Batería de 8.000 mAh y carga rápida de 10W Cuatro Altavoces compatibles con Dolby Atmos® Conector para auriculares de 3,5 mm MIUI Pad 14 con Android 13
   Updated: 2025-10-13T14:55:16Z
   Vendor: Xiaomi
@@ -6506,7 +6506,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/17882.jpg?v=1723771014
   Price: 498,99 € EUR
 - [Apple iPad 10,2" 2021 (9ª generación) 64GB Wi-Fi Plata (Silver)](https://hifimediastore.com/products/apple-ipad-102-2021-9-generacion-64gb-wi-fi-plata-silver): Apple iPad 10,2" 2021 (9ª generación) 64GB Plata:  Apple A13 Bionic Cámara selfie ultra wide 12MP Tecnología Wi-Fi ultrarrápida Potente, versátil y fácil de utilizar
-  Updated: 2025-10-13T13:10:08Z
+  Updated: 2025-10-13T19:50:11Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
@@ -7010,7 +7010,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/fc11f5aaf0793ad9feb804730abdb4c0d7ad7c7f_750_750.jpg?v=1756642559
   Price: 1123,99 € EUR
 - [Apple Airpods 4 Bluetooth Blanco (White)](https://hifimediastore.com/products/apple-airpods-4-bluetooth-blanco-white): AirPods 4:  Chip H2 Aislamiento de voz Hasta 5 horas de reproducción con una sola carga Hasta 30 horas de reproducción de audio con estuche de carga Carga fácil con USB-C Bluetooth 5.3 Calificación IP54
-  Updated: 2025-10-12T23:45:16Z
+  Updated: 2025-10-13T19:50:11Z
   Vendor: Apple
   Product Type: Bluetooth
   Availability: Available
@@ -7605,7 +7605,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/21460.jpg?v=1740605414
   Price: 601,99 € EUR
 - [Apple AirPods Max (2ª Gen.) Bluetooth Púrpura (Purple)](https://hifimediastore.com/products/apple-airpods-max-2-gen-bluetooth-purpura-purple): AirPods Max 2ª Gen:  Sonido de alta fidelidad Cancelación activa de ruido de nivel profesional Audio espacial personalizado con seguimiento dinámico de la cabeza Diseño tipo casco Comodidad y ajuste perfecto Hasta 20 horas de autonomía Conector USB-C
-  Updated: 2025-10-11T22:20:19Z
+  Updated: 2025-10-13T19:50:11Z
   Vendor: Apple
   Product Type: Bluetooth
   Availability: Available
@@ -8264,7 +8264,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/23500.jpg?v=1749592508
   Price: 70,99 € EUR
 - [Apple iPad Air 2025 11" M3 128GB WiFi Azul (Blue)](https://hifimediastore.com/products/apple-ipad-air-2025-11-m3-128gb-wifi-azul-blue): Apple iPad Air 2025 Pantalla Liquid Retina de 11 Chip M3 de Apple Camara trasera de 12 MP con HDR y Video en 4K Camara frontal de 12 MP en horizontal Conexion WiFi 6E Ultrarrapida Apple Intelligence iPadOS 1832 Compatible con Apple Pencil Pro y Mag
-  Updated: 2025-10-13T13:10:12Z
+  Updated: 2025-10-13T19:50:15Z
   Vendor: Apple
   Product Type: Tablet's
   Availability: Available
@@ -8572,7 +8572,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/26160.jpg?v=1759764306
   Price: 3159,99 € EUR
 - [Apple Airpods Pro 3 Bluetooth Blanco (White) MFHP4ZM/A](https://hifimediastore.com/products/apple-airpods-pro-3-bluetooth-blanco-white-mfhp4zm-a): AirPods 3 Pro:  Chip H2 Hasta 8 horas de reproducción con una sola carga Medición de frecuencia cardiaca Protección auditiva Carga fácil con USB-C Bluetooth 5.3 Calificación IP57
-  Updated: 2025-10-11T22:50:24Z
+  Updated: 2025-10-13T19:50:10Z
   Vendor: Apple
   Product Type: Bluetooth
   Availability: Available
@@ -8585,10 +8585,10 @@
   Updated: 2025-06-22T07:51:28Z
   Total Products: 0
 - [Best Selling Products](https://hifimediastore.com/collections/best-selling-products)
-  Updated: 2025-10-13T15:44:36Z
+  Updated: 2025-10-13T17:50:48Z
   Total Products: 5467
 - [Newest Products](https://hifimediastore.com/collections/newest-products)
-  Updated: 2025-10-13T15:44:36Z
+  Updated: 2025-10-13T17:50:48Z
   Total Products: 5467
 - [Altavoces](https://hifimediastore.com/collections/speakers): Explora nuestra gama de altavoces de alta calidad y llévatee la experiencia del festival a casa con nuestros altavoces.
   Updated: 2025-10-10T22:01:24Z
@@ -8606,16 +8606,16 @@
   Updated: 2025-10-10T23:19:29Z
   Total Products: 171
 - [Todos los auriculares intraurales](https://hifimediastore.com/collections/all-earbuds)
-  Updated: 2025-10-13T09:04:04Z
+  Updated: 2025-10-13T17:50:48Z
   Total Products: 465
 - [Auriculares Intraurales Gaming](https://hifimediastore.com/collections/gaming-earbuds): Sumérgete en la acción de tus videojuegos favoritos con nuestros auriculares intraurales gaming y disfruta de una experiencia única.
   Updated: 2025-10-11T00:51:31Z
   Total Products: 62
 - [Auriculares Intraurales Bluetooth](https://hifimediastore.com/collections/bluetooth-earbuds)
-  Updated: 2025-10-13T09:04:04Z
+  Updated: 2025-10-13T17:50:48Z
   Total Products: 416
 - [Auriculares Intraurales con ANC](https://hifimediastore.com/collections/earbuds-with-anc): Pon el mundo en pausa. Aíslate del mundo escuchando tu música favorita con nuestros auriculares intraurales con ANC más avanzados.
-  Updated: 2025-10-13T09:04:04Z
+  Updated: 2025-10-13T17:50:48Z
   Total Products: 156
 - [Auriculares de conducción ósea](https://hifimediastore.com/collections/bone-conduction-earphones): Descubre nuestros auriculares de conducción ósea, una tecnología que permite al oyente percibir el contenido de audio sin obstruir el canal auditivo, lo que evita daños en el tímpano.
   Updated: 2025-10-10T23:14:51Z
@@ -8642,8 +8642,8 @@
   Updated: 2025-10-10T22:05:52Z
   Total Products: 22
 - [AVADA - Best Sellers](https://hifimediastore.com/collections/avada-best-sellers)
-  Updated: 2025-10-13T15:44:36Z
-  Total Products: 1406
+  Updated: 2025-10-13T19:50:45Z
+  Total Products: 1405
 - [Intercomunicadores para moto](https://hifimediastore.com/collections/motorcycle-intercoms)
   Updated: 2025-06-22T07:51:29Z
   Total Products: 17
@@ -8819,10 +8819,10 @@
   Updated: 2025-10-10T22:48:46Z
   Total Products: 4
 - [Xiaomi](https://hifimediastore.com/collections/xiaomi-1)
-  Updated: 2025-10-13T15:24:23Z
+  Updated: 2025-10-13T17:50:48Z
   Total Products: 1061
 - [Auriculares Xiaomi](https://hifimediastore.com/collections/auriculares-xiaomi)
-  Updated: 2025-10-12T00:29:59Z
+  Updated: 2025-10-13T17:50:48Z
   Total Products: 52
 - [Acer](https://hifimediastore.com/collections/acer-1)
   Updated: 2025-10-11T23:22:13Z
@@ -8966,7 +8966,7 @@
   Updated: 2025-08-31T12:20:56Z
   Total Products: 4
 - [Teléfonos móviles y accesorios en Hi-Fi Media Store](https://hifimediastore.com/collections/todos-los-productos): Somos especialistas en teléfonos móviles y accesorios. En Hi-Fi Media Store encontrarás una gran variedad de productos de las mejores marcas.
-  Updated: 2025-10-13T15:44:36Z
+  Updated: 2025-10-13T17:50:48Z
   Total Products: 5466
 - [Lindy](https://hifimediastore.com/collections/lindy)
   Updated: 2025-10-10T23:08:17Z
@@ -9023,8 +9023,8 @@
   Updated: 2025-10-10T22:47:39Z
   Total Products: 3
 - [OrderlyEmails - Recommended Products](https://hifimediastore.com/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-10-13T15:44:36Z
-  Total Products: 1409
+  Updated: 2025-10-13T19:50:45Z
+  Total Products: 1408
 - [Razer](https://hifimediastore.com/collections/razer)
   Updated: 2025-10-10T22:17:19Z
   Total Products: 24
@@ -9086,8 +9086,8 @@
   Updated: 2025-10-10T22:02:27Z
   Total Products: 2
 - [Outlet](https://hifimediastore.com/collections/outlet)
-  Updated: 2025-10-13T15:01:47Z
-  Total Products: 341
+  Updated: 2025-10-13T19:50:46Z
+  Total Products: 342
 - [Edifier](https://hifimediastore.com/collections/edifier)
   Updated: 2025-10-10T22:12:51Z
   Total Products: 1
@@ -9143,7 +9143,7 @@
   Updated: 2025-10-10T22:01:24Z
   Total Products: 27
 - [Tablets iPad y Android | Financia con SeQura](https://hifimediastore.com/collections/tablets): Compra tablets iPad y Android con envío rápido y financiación flexible con SeQura. Compra fácil y segura online.
-  Updated: 2025-10-13T15:24:30Z
+  Updated: 2025-10-13T16:58:50Z
   Total Products: 525
 - [iPad](https://hifimediastore.com/collections/ipad)
   Updated: 2025-10-12T15:07:09Z
@@ -9158,10 +9158,10 @@
   Updated: 2025-10-12T00:13:27Z
   Total Products: 4
 - [Tablets Samsung](https://hifimediastore.com/collections/tablets-samsung)
-  Updated: 2025-10-12T06:57:24Z
+  Updated: 2025-10-13T16:58:50Z
   Total Products: 79
 - [IVA 21](https://hifimediastore.com/collections/iva-21)
-  Updated: 2025-10-13T15:44:36Z
+  Updated: 2025-10-13T17:50:48Z
   Total Products: 5097
 - [Tablets Xiaomi](https://hifimediastore.com/collections/tablets-xiaomi)
   Updated: 2025-10-12T00:22:20Z
@@ -9173,13 +9173,13 @@
   Updated: 2025-10-12T00:12:32Z
   Total Products: 4
 - [Samsung](https://hifimediastore.com/collections/samsung-1)
-  Updated: 2025-10-13T15:24:30Z
+  Updated: 2025-10-13T16:58:50Z
   Total Products: 1092
 - [Tablets Oneplus](https://hifimediastore.com/collections/tablets-oneplus)
   Updated: 2025-10-12T00:12:20Z
   Total Products: 3
 - [Bluetooth](https://hifimediastore.com/collections/bluetooth)
-  Updated: 2025-10-13T09:04:04Z
+  Updated: 2025-10-13T17:50:48Z
   Total Products: 264
 - [sbs](https://hifimediastore.com/collections/sbs)
   Updated: 2025-06-22T07:51:40Z
@@ -9200,7 +9200,7 @@
   Updated: 2025-10-13T09:04:04Z
   Total Products: 14
 - [IVA 21](https://hifimediastore.com/collections/21-iva)
-  Updated: 2025-10-13T15:44:36Z
+  Updated: 2025-10-13T17:50:48Z
   Total Products: 4080
 - [Realme](https://hifimediastore.com/collections/realme-1)
   Updated: 2025-10-13T15:06:05Z
@@ -9257,7 +9257,7 @@
   Updated: 2025-08-31T12:05:21Z
   Total Products: 3
 - [Productos para teléfonos móviles y accesorios](https://hifimediastore.com/collections/all): Hi-Fi Media Store: Tu tienda online para teléfonos móviles y accesorios de las mejores marcas. Encuentra smartphones, auriculares inalámbricos y con cable, altavoces y una amplia gama de accesorios para complementar tu experiencia móvil. Compra con seguridad y disfruta de una garantía de satisfacción. Visita nuestra tienda online y descubre un mundo de posibilidades para tu teléfono móvil.
-  Updated: 2025-10-13T15:44:36Z
+  Updated: 2025-10-13T17:50:48Z
   Total Products: 5466
 - [Beats](https://hifimediastore.com/collections/beats)
   Updated: 2025-10-11T22:16:14Z
@@ -9272,7 +9272,7 @@
   Updated: 2025-10-10T21:27:13Z
   Total Products: 11
 - [Ultimate Search - Do not delete](https://hifimediastore.com/collections/ultimate-search-do-not-delete): Ultimate Search app uses this temporary collection to fetch best selling items.Please do not delete this collection.If you have removed the app, it is safe to remove this collection.
-  Updated: 2025-10-13T15:44:36Z
+  Updated: 2025-10-13T17:50:48Z
   Total Products: 5466
 - [Nubia](https://hifimediastore.com/collections/nubia)
   Updated: 2025-10-11T22:34:25Z
