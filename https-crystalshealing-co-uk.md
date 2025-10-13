@@ -8,7 +8,7 @@
 - Timezone: Europe/London
 - Created At: 2021-01-17T01:03:23Z
 - Contact Email: contact@crystalshealing.co.uk
-- Updated At: 2025-10-13T04:00:37.778Z
+- Updated At: 2025-10-13T16:00:37.934Z
 
 # Crystals Healing — AI-Ready Index
 Welcome to Crystals Healing, your trusted UK-based store for healing crystals and jewelry. This llms.txt file lists all products, collections, blogs, and pages to help AI assistants, search engines, and shopping bots discover and understand our offerings.
@@ -4905,8 +4905,8 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
 - [Black Onyx Crystals](https://crystalshealing.co.uk/collections/black-onyx-crystals): Discover the grounding and protective power of Black Onyx. From raw stones to bracelets and keychains, each piece supports focus, strength, and emotional balance — ethically sourced for everyday resilience.
   Updated: 2025-10-01T15:00:58Z
   Total Products: 10
-- [Crystals and Gemstones](https://crystalshealing.co.uk/collections/crystals): Explore our full collection of natural crystals and gemstones – from raw stones to polished jewelry. Ethically sourced for healing, manifestation, and mindful living.
-  Updated: 2025-10-01T15:00:58Z
+- [Healing Stones](https://crystalshealing.co.uk/collections/healing-stones): Explore our full collection of natural Healing Stones – from raw stones to polished jewelry.
+  Updated: 2025-10-13T15:30:17Z
   Total Products: 55
 - [Agate Crystals](https://crystalshealing.co.uk/collections/agate-crystals): Ground your energy with Agate crystals — known for emotional stability, mental clarity and gentle protection. Explore a variety of natural agate forms, from tumbled stones and jewelry to unique display pieces for your sacred space.
   Updated: 2025-10-01T15:00:58Z
@@ -5262,7 +5262,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
 - [About Me – Journey into Crystal Healing & Wellness](https://crystalshealing.co.uk/pages/about-me): About me: Discover my journey into crystal healing, wellness, and a passion for sharing the transformative power of crystals. Explore my story here!
   Updated: 2025-09-24T10:00:41Z
 - [About Us – Crystals Healing Story, Mission & Values](https://crystalshealing.co.uk/pages/about-us): 
-  Updated: 2025-10-09T05:15:19Z
+  Updated: 2025-10-13T15:33:56Z
 - [Cookie Policy – Your Privacy Matters | Crystals Healing](https://crystalshealing.co.uk/pages/cookie-policy): Cookie Policy Last updated: 21 September 2025 What are cookies? Cookies are small text files stored on your device when you visit a website. They m...
   Updated: 2025-09-24T10:00:41Z
 - [Privacy Policy | Protecting Your Data & Crystal Purchases](https://crystalshealing.co.uk/pages/privacy-policy): Crystals Healing – Privacy Policy Last updated: 21 September 2025 At Crystals Healing, we respect your privacy. This notice explains what personal ...
@@ -5284,7 +5284,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
 - [Shipping Policy | Reliable Delivery for Crystal Orders](https://crystalshealing.co.uk/pages/shipping): 📦 Shipping & Returns Policy Welcome to Crystals Healing. This policy explains how we handle shipping, returns, and customer protection. By placing ...
   Updated: 2025-09-24T10:00:41Z
 - [Personalised Design Beaded Bracelets UK Handmade](https://crystalshealing.co.uk/pages/personalised-design): /* === General Layout & Styling (Boho Cream – Enhanced Readability) === */ .custom-bracelets-wrapper { max-width: 1100px; margin: 0 auto; padding: ...
-  Updated: 2025-10-11T22:29:13Z
+  Updated: 2025-10-13T15:34:15Z
 - [Delivery Costs & Shipping Info | Crystals Healing UK](https://crystalshealing.co.uk/pages/delivery-costs): /* Responsive tables */ .table-responsive { width: 100%; overflow-x: auto; -webkit-overflow-scrolling: touch; margin-bottom: 20px; } .shipping-guid...
   Updated: 2025-09-24T10:00:41Z
 - [Easy Returns | Hassle-Free Crystal Return Policy](https://crystalshealing.co.uk/pages/returns): Returns & Exchanges We want you to love your purchase. If you change your mind, you can return most items within 30 days of delivery. How to start ...
