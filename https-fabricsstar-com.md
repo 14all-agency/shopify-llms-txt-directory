@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-07-19T18:27:19Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-10-13T12:00:36.149Z
+- Updated At: 2025-10-13T16:00:36.038Z
 
 ## Products
 
@@ -9349,7 +9349,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/RELLA-WHITE.jpg?v=1757518810
     Price: $1.00 USD
 - [ROLLS ROYCE Jacquard Fabric, 58 Inch. in Width, | Home Décor](https://fabricsstar.com/products/rolls-royce): DIMENSION - Size of the Jacquard fabric is 58 Inch wide. Cut by the Yard Fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 58' x 36'. Order of 3 yards (Qty=3) is 58' x 108' Orders can be customized to be cut in pieces by request. We highly recommend purchasing a sample before purchasing your final order MATERIAL - Jacquard fabric by the yard is medium weight and made of 100% polyester. USEFUL - Ideal Jacquard Material for Upholstery, drapery, pillows, slipcovers, tablecloths, sewing, DIY, handbags, arts & crafts Etc DESIGN - Add a touch of elegance to your event with the Portland jacquard fabric. The beautiful design tablecloth will uplift any occasion and create a luxurious atmosphere for your guests. Care - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-09-16T00:43:24Z
+  Updated: 2025-10-13T15:26:22Z
   Vendor: Fabrics Star
   Product Type: 
   Availability: Available
@@ -9441,7 +9441,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/RUSSEL-SILVER-8.jpg?v=1757518821
     Price: $1.00 USD
 - [VINTAGE Jacquard Fabric, 54 Inch. in Width, | Home Décor](https://fabricsstar.com/products/vintage): DIMENSION - Size of the Jacquard fabric is 54 Inch wide. Cut by the Yard Fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 54' x 36'. Order of 3 yards (Qty=3) is 54' x 108' Orders can be customized to be cut in pieces by request. We highly recommend purchasing a sample before purchasing your final order MATERIAL - Jacquard fabric by the yard is medium weight and made of 100% polyester. USEFUL - Ideal Jacquard Material for Upholstery, drapery, pillows, slipcovers, tablecloths, sewing, DIY, handbags, arts & crafts Etc DESIGN - Add a touch of elegance to your event with the Portland jacquard fabric. The beautiful design tablecloth will uplift any occasion and create a luxurious atmosphere for your guests. Care - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-09-16T00:43:25Z
+  Updated: 2025-10-13T14:15:22Z
   Vendor: Fabrics Star
   Product Type: 
   Availability: Available
