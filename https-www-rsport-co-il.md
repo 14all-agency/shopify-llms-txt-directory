@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-10-13T08:01:02.240Z
+- Updated At: 2025-10-13T12:01:05.496Z
 
 ## Products
 
@@ -37283,7 +37283,7 @@
     Availability: Available
     Price: ‏170.00 ‏₪ ILS
 - [נעלי כדורגל מקצועיות Phantom 6 Elite High SG-Pro](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-sg-pro): נעלי כדורגל מקצועיות Phantom 6 Elite High SG-Pro מתאימות לשחקנים ברמה מקצועית המחפשים שליטה ונוחות משופרת. טכנולוגיית Gripknit עם טקסטורה מיקרו-אחיזה משפרת את השליטה בכדור בכל תנאי מזג האוויר. סוליית Cyclone 360 מספקת אחיזה סיבובית משופרת לשינויי כיוון מהירים וזריזים. מבנה הנעל החדשני מעניק התאמה טבעית ונוחה יותר לכף הרגל, במיוחד באזור האצבעות. הנעל כוללת קרסול גבוה בעיצוב א-סימטרי לתמיכה נוחה ולהפחתת חיכוך. אזור בעיטה חלק ונקי ללא שרוכים לדיוק מירבי. מחזק העקב משפר את היציבות במהלך המשחק. סוליית SG-Pro מצוידת בפקקים מתכתיים מתכווננים לשימוש במגרשים רכים.
-  Updated: 2025-10-09T08:57:41Z
+  Updated: 2025-10-13T09:52:36Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -37333,7 +37333,7 @@
   - [45](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-sg-pro?variant=47480542003450)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
-  - [½45](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-sg-pro?variant=47480542036218)
+  - [45½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-sg-pro?variant=47480542036218)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
   - [46](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-sg-pro?variant=47480481415418)
@@ -37342,7 +37342,7 @@
   - [47](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-sg-pro?variant=47480542068986)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
-  - [½47](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-sg-pro?variant=47480542101754)
+  - [47½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-sg-pro?variant=47480542101754)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
 - [נעלי כדורגל מקצועיות Phantom 6 Elite Low SG-Pro](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-sg-pro): נעלי כדורגל מקצועיות Phantom 6 Elite Low SG-Pro נעלי כדורגל איכותיות לשחקנים התקפיים שמחפשים דיוק ושליטה מושלמים בדריבל ובעיטות. חלק עליון בטכנולוגיית Gripknit מיקרוטקסטורה לשיפור התחושה והדיוק בכדור. סוליית Cyclone 360 מאפשרת תנועות זריזות, שינויי כיוון יציבים ונוחות מרבית. עיצוב נוח עם התאמה טבעית באזור האצבעות, צווארון Flyknit אסימטרי למניעת גירויים ומערכת ייצוב עקב עם סנפירים. דגם Player Edition כולל סוליית SG-Pro עם מסמרים מתכתיים עמידים ומתכווננים (מפתחות נמכרים בנפרד). מיועדות למגרשי דשא טבעי רך.
@@ -37397,7 +37397,7 @@
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
 - [נעלי כדורגל מקצועיות Phantom 6 Elite High FG](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-fg): נעלי כדורגל מקצועיות Phantom 6 Elite High FG בצבע כחול, לבן וכחול כהה, מיועדות לשחקנים תוקפניים המחפשים דיוק ושליטה מוחלטת. טכנולוגיית Gripknit עם טקסטורה מיוחדת על החלק העליון משפרת את השליטה בכדור לדריבל ובעטות מדויקות. סוליית Cyclone 360 עם פקקי אצבעות סיבוביים מאפשרת שינויי כיוון מהירים וזורמים, ומפחיתה עומס על כף הרגל לנוחות ויציבות משופרות. העיצוב החדש מותאם למגוון צורות רגליים, במיוחד באזור האצבעות, לשיפור הנוחות והביצועים.
-  Updated: 2025-10-09T08:57:42Z
+  Updated: 2025-10-13T09:52:37Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -37447,7 +37447,7 @@
   - [45](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-fg?variant=47480690376954)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
-  - [½45](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-fg?variant=47480690409722)
+  - [45½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-fg?variant=47480690409722)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
   - [46](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-fg?variant=47480690442490)
@@ -37456,11 +37456,11 @@
   - [47](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-fg?variant=47480690475258)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
-  - [½47](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-fg?variant=47480690508026)
+  - [47½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-fg?variant=47480690508026)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
 - [נעלי כדורגל מקצועיות Phantom 6 Elite Low FG](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-fg): נעלי כדורגל מקצועיות Phantom 6 Elite נמוכה FG בצבע כחול, לבן וכחול כהה. מיועדות לשחקנים התקפיים המחפשים דיוק ושליטה. טכנולוגיית Gripknit משפרת דריבל ובעטות מדויקות. סוליית Cyclone 360 עם פקקי סיבוב לשינויי כיוון מהירים ונוחות גבוהה. עיצוב חדש מותאם לאזור האצבעות לנוחות והתאמה טובה יותר.
-  Updated: 2025-10-09T08:57:42Z
+  Updated: 2025-10-13T09:52:38Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -37510,7 +37510,7 @@
   - [45](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-fg?variant=47480717771002)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
-  - [½45](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-fg?variant=47480717803770)
+  - [45½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-fg?variant=47480717803770)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
   - [46](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-fg?variant=47480717836538)
@@ -37519,11 +37519,11 @@
   - [47](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-fg?variant=47480717869306)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
-  - [½47](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-fg?variant=47480717902074)
+  - [47½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-fg?variant=47480717902074)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
 - [נעלי כדורגל Phantom 6 Academy High FG/MG](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-academy-high-fg-mg): נעלי כדורגל Phantom 6 Academy High FG/MG בצבע כחול, לבן וכחול כהה, מיועדות לשחקנים התקפיים. החלק העליון עשוי בד מיוחד שמגביר שליטה בכדור לדריבל ובעיטות מדויקות. סוליית Cyclone 360 עם פקקי סיבוב מאפשרת תנועה מהירה ושינויי כיוון חלקים. הנעל נוחה ומתאימה לסוגי רגל שונים, במיוחד באזור האצבעות. בנוסף, נעלי Team הן אופציה איכותית למתחילים ומתקדמים, עם חומרים עמידים ונוחות גבוהה במחיר נגיש.
-  Updated: 2025-10-09T08:57:42Z
+  Updated: 2025-10-13T09:52:38Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -37570,7 +37570,7 @@
   - [45](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-academy-high-fg-mg?variant=47480731402490)
     Availability: Available
     Price: ‏699.00 ‏₪ ILS
-  - [½45](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-academy-high-fg-mg?variant=47480731435258)
+  - [45½](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-academy-high-fg-mg?variant=47480731435258)
     Availability: Available
     Price: ‏699.00 ‏₪ ILS
   - [46](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-academy-high-fg-mg?variant=47480731468026)
@@ -37579,11 +37579,11 @@
   - [47](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-academy-high-fg-mg?variant=47480731500794)
     Availability: Available
     Price: ‏699.00 ‏₪ ILS
-  - [½47](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-academy-high-fg-mg?variant=47480731533562)
+  - [47½](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-academy-high-fg-mg?variant=47480731533562)
     Availability: Available
     Price: ‏699.00 ‏₪ ILS
 - [נעלי כדורגל Phantom 6 Academy Low FG/MG](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-academy-low-fg-mg): נעלי כדורגל Phantom 6 Academy נמוכות FG/MG בצבע כחול, לבן וכחול כהה, לעיצוב תוקפני ולשליטה מדויקת בכדור. החלק העליון עשוי מבד איכותי שמשפר דריבל ובעטות מדויקות. סוליית Cyclone 360 עם פקקים סיבוביים מאפשרת שינויי כיוון מהירים ונוחות בתנועה. עיצוב חדש מתאים במיוחד לאזור האצבעות ומספק נוחות לאורך המשחק. הנעלות מתאימות למגרשי דשא טבעי ומלאכותי.
-  Updated: 2025-10-09T08:57:43Z
+  Updated: 2025-10-13T09:52:39Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -37630,7 +37630,7 @@
   - [45](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-academy-low-fg-mg?variant=47480788517114)
     Availability: Available
     Price: ‏699.00 ‏₪ ILS
-  - [½45](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-academy-low-fg-mg?variant=47480788549882)
+  - [45½](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-academy-low-fg-mg?variant=47480788549882)
     Availability: Available
     Price: ‏699.00 ‏₪ ILS
   - [46](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-academy-low-fg-mg?variant=47480788582650)
@@ -37639,11 +37639,11 @@
   - [47](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-academy-low-fg-mg?variant=47480788615418)
     Availability: Available
     Price: ‏699.00 ‏₪ ILS
-  - [½47](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-academy-low-fg-mg?variant=47480788648186)
+  - [47½](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-academy-low-fg-mg?variant=47480788648186)
     Availability: Available
     Price: ‏699.00 ‏₪ ILS
 - [נעלי כדורגל מקצועיות Phantom 6 Elite LE High FG](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-le-high-fg): נעלי כדורגל מקצועיות Phantom 6 Elite LE High FG מיועדות לשחקנים תוקפניים המחפשים שליטה מדויקת ונוחות גבוהה. החלק העליון בטכנולוגיית Gripknit מיקרו-טקסטורה משפר את השליטה והדיוק בדריבל ובעיטות. סוליית Cyclone 360 עם פקקי סיבוב מאפשרת שינויי כיוון מהירים ונוחות בתנועה. עיצוב חדש מותאם במיוחד לאזור האצבעות, עם קרסול גבוה לתמיכה ונוחות. מערכת שרוכים מוסתרת לבעיטה חלקה. מתאימות למגרשי דשא קשה.
-  Updated: 2025-10-09T08:57:43Z
+  Updated: 2025-10-13T09:52:39Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -37693,7 +37693,7 @@
   - [45](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-le-high-fg?variant=47480802050298)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
-  - [½45](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-le-high-fg?variant=47480802083066)
+  - [45½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-le-high-fg?variant=47480802083066)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
   - [46](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-le-high-fg?variant=47480802115834)
@@ -37702,7 +37702,7 @@
   - [47](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-le-high-fg?variant=47480802148602)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
-  - [½47](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-le-high-fg?variant=47480802181370)
+  - [47½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-le-high-fg?variant=47480802181370)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
 - [נעלי כדורגל מקצועיות Phantom 6 Elite LE Low FG](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-le-low-fg-hyper-turq-chrome-black-total-crimson): נעלי כדורגל מקצועיות Phantom 6 Elite LE Low FG בעיצוב נמוך, עם טכנולוגיית Gripknit מיקרו-טקסטורה לחיזוק השליטה והדיוק בדריבל ובעיטות. סוליית Cyclone 360 עם פקקי סיבוב מאפשרת שינויי כיוון מהירים ונוחות מוגברת. העיצוב החדש מתאים במיוחד לאזור האצבעות, עם קרסול נמוך לתמיכה ונוחות. מתאימות למגרשי דשא קשה.
@@ -45809,7 +45809,7 @@
     Availability: Available
     Price: ‏150.00 ‏₪ ILS
 - [נעלי כדורגל מקצועיות Phantom 6 Elite Low FG x EAFC](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-fg-x-eafc): ‏נעלי כדורגל מקצועיות Phantom 6 Elite Low FG במהדורה מיוחדת בשיתוף EA Sports FC עם אפקט גליץ' שמעניקות דיוק ושליטה מרבית Gripknit בצבעי RGB וסווש פיקסלואידי לשדרוג הביצועים והעיצוב הדיגיטלי סוליית Cyclone 360 מאפשרת תנועה מהירה ושינויי כיוון חלקים עם יציבות ונוחות גבוהה עיצוב שמתאים למגוון סוגי רגליים לחוויית משחק התקפית ונוחה במיוחד
-  Updated: 2025-10-09T08:57:44Z
+  Updated: 2025-10-13T09:52:40Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -45841,14 +45841,14 @@
   - [45](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-fg-x-eafc?variant=47779200270586)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
-  - [½45](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-fg-x-eafc?variant=47779200303354)
+  - [45½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-fg-x-eafc?variant=47779200303354)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
   - [46](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-fg-x-eafc?variant=47779200336122)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
 - [נעלי כדורגל מקצועיות Phantom 6 Elite High FG x EAFC](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-fg-x-eafc): ‏נעליים במהדורה מיוחדת בשיתוף EA Sports FC עם אפקט גליץ' לשיפור דיוק ושליטה בכדור Gripknit בצבעי RGB וסווש פיקסלואידי מעניקים טאץ' דיגיטלי מודרני וסוליית Cyclone 360 מאפשרת תנועה זריזה ושינוי כיוון חלק עם יציבות ונוחות מרבית להתאמה למגוון סוגי רגליים ולחוויית משחק התקפית ונוחה
-  Updated: 2025-10-09T08:57:41Z
+  Updated: 2025-10-13T09:52:41Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -45898,7 +45898,7 @@
   - [45](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-fg-x-eafc?variant=47779361128698)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
-  - [½45](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-fg-x-eafc?variant=47779361161466)
+  - [45½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-fg-x-eafc?variant=47779361161466)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
   - [46](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-fg-x-eafc?variant=47779361194234)
@@ -45907,7 +45907,7 @@
   - [47](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-fg-x-eafc?variant=47779361227002)
     Availability: Not Available
     Price: ‏1,699.00 ‏₪ ILS
-  - [½47](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-fg-x-eafc?variant=47779361259770)
+  - [47½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-fg-x-eafc?variant=47779361259770)
     Availability: Not Available
     Price: ‏1,699.00 ‏₪ ILS
 - [נעלי כדורגל מקצועיות ילדים Phantom 6 Low FG/MG x EAFC](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ילדים-phantom-6-low-fg-mg-x-eafc): ‏נעלי כדורגל מקצועיות Phantom 6 Elite Low FG במהדורה מיוחדת בשיתוף EA Sports FC עם אפקט גליץ' שמעניקות דיוק ושליטה מרבית Gripknit בצבעי RGB וסווש פיקסלואידי לשדרוג הביצועים והעיצוב הדיגיטלי סוליית Cyclone 360 מאפשרת תנועה מהירה ושינויי כיוון חלקים עם יציבות ונוחות גבוהה עיצוב שמתאים למגוון סוגי רגליים לחוויית משחק התקפית ונוחה במיוחד
@@ -46517,7 +46517,7 @@
     Availability: Available
     Price: ‏749.00 ‏₪ ILS
 - [נעלי כדורגל מקצועיות Air Zoom Mercurial Superfly 10 Elite SG Max Voltage](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-sg-max-voltage): נעלי הכדורגל המקצועיות Nike Air Zoom Mercurial Superfly 10 Elite SG מיועדות למהירות וביצועים גבוהים על המגרש. הדגם בצבע Limelight/Volt/Hyper Crimson מציע שילוב של אחיזה, קלות משקל ושליטה מצוינת בכדור. מערכת ה-Zoom Air נבנתה לשיפור התגובה והאצה מהירה. אזור הדריכה הקדמי כולל מבנה גלים חדש המסייע לפיזור הלחץ ולמקסום האנרגיה בכל צעד, כך שנשמרת תחושת קלילות וזריזות לאורך זמן. סוליית ה-SG Pro כוללת יתדות מעוצבות לאחיזה מיטבית גם במגרשים רטובים, בשילוב בליידים ארוכים לשינוי כיוון מהיר. העיצוב מבוסס על מבנה מינימליסטי וקלי משקל. החלק העליון של הנעל עשוי שילוב של טכנולוגיות Knit מתקדמות: Flyknit לנוחות, Atomknit ליציבות ו-Gripknit לשיפור השליטה בכדור בתנאי מזג אוויר שונים. Gripknit הוא חומר גמיש ודביק במידה, שמאפשר מגע מדויק עם הכדור גם במהירות גבוהה.
-  Updated: 2025-10-09T09:33:35Z
+  Updated: 2025-10-13T09:52:03Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -46552,11 +46552,11 @@
   - [47](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-sg-max-voltage?variant=47802096124154)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
-  - [½47](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-sg-max-voltage?variant=47802096156922)
+  - [47½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-sg-max-voltage?variant=47802096156922)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
 - [נעלי כדורגל מקצועיות Air Zoom Mercurial Vapor 10 Elite SG](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-10-elite-sg): נעלי הכדורגל המקצועיות Nike Air Zoom Mercurial Vapor 16 Elite SG-Pro משלבות מהירות, תגובה מהירה ושליטה גבוהה בכדור. הדגם בצבע Limelight/Volt/Hyper Crimson מציע ביצועים מיטביים על מגרשים רטובים ויבשים. מערכת ה-Zoom Air תוכננה לשפר את התגובה והאנרגיה בכל צעד. החלק הקדמי כולל מבנה גלים חדש שמגדיל את שטח המגע עם הקרקע ומספק החזרת אנרגיה יעילה יותר, לשמירה על מהירות גבוהה לאורך זמן. סוליית ה-SG Pro כוללת יתדות בעיצוב מתקדם לאחיזה יציבה ולתמרון מהיר, עם שילוב בין בליידים ויתדות עגולות לשינויי כיוון חלקים ובטוחים. החלק העליון של הנעל עשוי שלוש שכבות קלות במיוחד בשילוב טכנולוגיות Knit מתקדמות: Flyknit לנוחות וגמישות, Atomknit לתמיכה, ו-Gripknit לשליטה מדויקת בכדור. Gripknit הוא חומר דביק וגמיש העמיד בפני מזג אוויר משתנה, המספק מגע עקבי עם הכדור ושליטה טובה גם במהירות גבוהה.
-  Updated: 2025-10-09T08:57:41Z
+  Updated: 2025-10-13T09:52:41Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -46588,7 +46588,7 @@
   - [45](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-10-elite-sg?variant=47804557852922)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
-  - [½45](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-10-elite-sg?variant=47804597436666)
+  - [45½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-10-elite-sg?variant=47804597436666)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
   - [46](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-10-elite-sg?variant=47804557885690)
@@ -46597,11 +46597,11 @@
   - [47](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-10-elite-sg?variant=47804557918458)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
-  - [½47](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-10-elite-sg?variant=47804557951226)
+  - [47½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-10-elite-sg?variant=47804557951226)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
 - [נעלי כדורגל מקצועיות Phantom 6 Elite Low SG Max Voltage](https://www.rsport.co.il/products/nipro-phantom-6-elite-low-cut-sg-pro-max-voltage-limelight-black-hyper-crimson): נעלי הכדורגל המקצועיות Nike Phantom 6 Elite Low SG-Pro נועדו לשחקנים התקפיים שמחפשים דיוק ושליטה מירבית בכדור. הדגם בצבע Limelight/Hyper Crimson/Black מציע שילוב של אחיזה, יציבות ותחושת נוחות גבוהה לאורך כל המשחק. החלק העליון של הנעל עשוי חומר Gripknit עם מרקם מיקרו, המשפר את תחושת המגע עם הכדור ומספק שליטה מדויקת בעת כדרור וביצוע בעיטות. Gripknit הוא חומר גמיש ודביק במידה, שמבטיח שליטה עקבית בתנאי מזג אוויר שונים. סוליית ה-SG Pro מבוססת על מערכת Cyclone 360 החדשה, המאפשרת שינויי כיוון חלקים ותגובה מהירה בזכות יתדות סיבוביות באזור האצבעות. המבנה תומך בתנועה טבעית של כף הרגל ומפחית עומס במהלך משחק אינטנסיבי. החלק הפנימי של הנעל עוצב מחדש להתאמה נוחה למגוון רחב של מבני כף רגל, במיוחד באזור האצבעות. כך מתקבלת תחושת יציבות ונוחות משופרת לכל אורך המשחק.
-  Updated: 2025-10-09T20:45:15Z
+  Updated: 2025-10-13T09:52:42Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -46645,7 +46645,7 @@
   - [45](https://www.rsport.co.il/products/nipro-phantom-6-elite-low-cut-sg-pro-max-voltage-limelight-black-hyper-crimson?variant=47806390436090)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
-  - [½45](https://www.rsport.co.il/products/nipro-phantom-6-elite-low-cut-sg-pro-max-voltage-limelight-black-hyper-crimson?variant=47806390468858)
+  - [45½](https://www.rsport.co.il/products/nipro-phantom-6-elite-low-cut-sg-pro-max-voltage-limelight-black-hyper-crimson?variant=47806390468858)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
   - [46](https://www.rsport.co.il/products/nipro-phantom-6-elite-low-cut-sg-pro-max-voltage-limelight-black-hyper-crimson?variant=47806390501626)
@@ -46654,7 +46654,7 @@
   - [47](https://www.rsport.co.il/products/nipro-phantom-6-elite-low-cut-sg-pro-max-voltage-limelight-black-hyper-crimson?variant=47806390534394)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
-  - [½47](https://www.rsport.co.il/products/nipro-phantom-6-elite-low-cut-sg-pro-max-voltage-limelight-black-hyper-crimson?variant=47806390567162)
+  - [47½](https://www.rsport.co.il/products/nipro-phantom-6-elite-low-cut-sg-pro-max-voltage-limelight-black-hyper-crimson?variant=47806390567162)
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
 - [נעלי כדורגל מקצועיות Air Zoom Mercurial Superfly 10 Elite FG Max Voltage](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-fg-max-voltage): נעלי הכדורגל Future 8 Ultimate FG של PUMA מיועדות לשחקנים שמחפשים חופש תנועה ושליטה מלאה במגרש. החלק העליון משלב שכבות רבות עם LYCRA בסריג FUZIONSKIN, ומעניק התאמה אישית עם תמיכה בכל תנועה. 3D FUZIONPODS בחזית הנעל מגנים על הרגל ומאפשרים גמישות טבעית למשחק ללא הגבלה, בעוד רצועות PWRTAPE במרכז כף הרגל שומרות על יציבות בזמן דריבל ועקיפה של שחקנים.
@@ -46790,7 +46790,7 @@
 - [נעלי כדורגל מקצועיות Air Zoom Mercurial Vapor 16 Elite FG Max Voltage](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-16-elite-fg-max-voltage): נעלי הכדורגל Future 8 Ultimate FG של PUMA מיועדות לשחקנים שמחפשים חופש תנועה ושליטה מלאה במגרש. החלק העליון משלב שכבות רבות עם LYCRA בסריג FUZIONSKIN, ומעניק התאמה אישית עם תמיכה בכל תנועה. 3D FUZIONPODS בחזית הנעל מגנים על הרגל ומאפשרים גמישות טבעית למשחק ללא הגבלה, בעוד רצועות PWRTAPE במרכז כף הרגל שומרות על יציבות בזמן דריבל ועקיפה של שחקנים.
 
 השכבה החיצונית כוללת רשת צפופה עם גימור GripControl Pro, המגביר אחיזה בכדור ומסייע לשליטה מלאה בדריבל ולפריצת קווים. סוליית הנעל עם מסמרות בעיצוב מיוחד מאפשרת תנועות סיבוביות חופשיות ומגיבה לכל שינוי כיוון, כדי למקסם את הזריזות והמהירות במגרש. Future 8 Ultimate FG נותנות לך את הכלים לשלוט במשחק ולהשפיע על כל מצב במגרש.
-  Updated: 2025-10-13T07:40:04Z
+  Updated: 2025-10-13T10:42:27Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -46852,6 +46852,159 @@
   - [48½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-16-elite-fg-max-voltage?variant=47817274523898)
     Availability: Available
     Price: ‏1,499.00 ‏₪ ILS
+- [נעלי כדורגל מקצועיות Air Zoom Mercurial Vapor 16 Elite AG Max Voltage](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-16-elite-ag-pro-max-voltage): נעלי הכדורגל Future 8 Ultimate FG של PUMA מיועדות לשחקנים שמחפשים חופש תנועה ושליטה מלאה במגרש. החלק העליון משלב שכבות רבות עם LYCRA בסריג FUZIONSKIN, ומעניק התאמה אישית עם תמיכה בכל תנועה. 3D FUZIONPODS בחזית הנעל מגנים על הרגל ומאפשרים גמישות טבעית למשחק ללא הגבלה, בעוד רצועות PWRTAPE במרכז כף הרגל שומרות על יציבות בזמן דריבל ועקיפה של שחקנים.
+
+השכבה החיצונית כוללת רשת צפופה עם גימור GripControl Pro, המגביר אחיזה בכדור ומסייע לשליטה מלאה בדריבל ולפריצת קווים. סוליית הנעל עם מסמרות בעיצוב מיוחד מאפשרת תנועות סיבוביות חופשיות ומגיבה לכל שינוי כיוון, כדי למקסם את הזריזות והמהירות במגרש. Future 8 Ultimate FG נותנות לך את הכלים לשלוט במשחק ולהשפיע על כל מצב במגרש.
+  Updated: 2025-10-13T10:44:16Z
+  Vendor: R:SPORT
+  Product Type: נעלי כדורגל
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/21_7b12957a-6078-4ba7-893b-c053673a7488.jpg?v=1760344551
+  - [½38](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-16-elite-ag-pro-max-voltage?variant=47818798661882)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [39](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-16-elite-ag-pro-max-voltage?variant=47818798694650)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-16-elite-ag-pro-max-voltage?variant=47818798727418)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [½40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-16-elite-ag-pro-max-voltage?variant=47818798760186)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [41](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-16-elite-ag-pro-max-voltage?variant=47818798792954)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [42](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-16-elite-ag-pro-max-voltage?variant=47818798825722)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [42½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-16-elite-ag-pro-max-voltage?variant=47818798858490)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [43](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-16-elite-ag-pro-max-voltage?variant=47818798891258)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [44](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-16-elite-ag-pro-max-voltage?variant=47818798924026)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [44½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-16-elite-ag-pro-max-voltage?variant=47818798956794)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [45](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-16-elite-ag-pro-max-voltage?variant=47818798989562)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [46](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-16-elite-ag-pro-max-voltage?variant=47818799022330)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [47](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-16-elite-ag-pro-max-voltage?variant=47818799087866)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+- [נעלי כדורגל Air Zoom Mercurial Vapor 16 FG Max Voltage](https://www.rsport.co.il/products/נעלי-כדורגל-air-zoom-mercurial-vapor-16-fg-max-voltage-16730): נעלי הכדורגל Future 8 Ultimate FG של PUMA מיועדות לשחקנים שמחפשים חופש תנועה ושליטה מלאה במגרש. החלק העליון משלב שכבות רבות עם LYCRA בסריג FUZIONSKIN, ומעניק התאמה אישית עם תמיכה בכל תנועה. 3D FUZIONPODS בחזית הנעל מגנים על הרגל ומאפשרים גמישות טבעית למשחק ללא הגבלה, בעוד רצועות PWRTAPE במרכז כף הרגל שומרות על יציבות בזמן דריבל ועקיפה של שחקנים.
+
+השכבה החיצונית כוללת רשת צפופה עם גימור GripControl Pro, המגביר אחיזה בכדור ומסייע לשליטה מלאה בדריבל ולפריצת קווים. סוליית הנעל עם מסמרות בעיצוב מיוחד מאפשרת תנועות סיבוביות חופשיות ומגיבה לכל שינוי כיוון, כדי למקסם את הזריזות והמהירות במגרש. Future 8 Ultimate FG נותנות לך את הכלים לשלוט במשחק ולהשפיע על כל מצב במגרש.
+  Updated: 2025-10-13T10:48:15Z
+  Vendor: R:SPORT
+  Product Type: נעלי כדורגל
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/1_04d4744d-b2d9-471e-88ba-253179efb983.jpg?v=1760348487
+  - [36½](https://www.rsport.co.il/products/נעלי-כדורגל-air-zoom-mercurial-vapor-16-fg-max-voltage-16730?variant=47818890805498)
+    Availability: Available
+    Price: ‏999.00 ‏₪ ILS
+  - [38](https://www.rsport.co.il/products/נעלי-כדורגל-air-zoom-mercurial-vapor-16-fg-max-voltage-16730?variant=47818885300474)
+    Availability: Available
+    Price: ‏999.00 ‏₪ ILS
+  - [½38](https://www.rsport.co.il/products/נעלי-כדורגל-air-zoom-mercurial-vapor-16-fg-max-voltage-16730?variant=47818885333242)
+    Availability: Available
+    Price: ‏999.00 ‏₪ ILS
+  - [39](https://www.rsport.co.il/products/נעלי-כדורגל-air-zoom-mercurial-vapor-16-fg-max-voltage-16730?variant=47818885366010)
+    Availability: Available
+    Price: ‏999.00 ‏₪ ILS
+  - [40](https://www.rsport.co.il/products/נעלי-כדורגל-air-zoom-mercurial-vapor-16-fg-max-voltage-16730?variant=47818885398778)
+    Availability: Available
+    Price: ‏999.00 ‏₪ ILS
+  - [½40](https://www.rsport.co.il/products/נעלי-כדורגל-air-zoom-mercurial-vapor-16-fg-max-voltage-16730?variant=47818885431546)
+    Availability: Available
+    Price: ‏999.00 ‏₪ ILS
+  - [41](https://www.rsport.co.il/products/נעלי-כדורגל-air-zoom-mercurial-vapor-16-fg-max-voltage-16730?variant=47818885464314)
+    Availability: Available
+    Price: ‏999.00 ‏₪ ILS
+  - [42](https://www.rsport.co.il/products/נעלי-כדורגל-air-zoom-mercurial-vapor-16-fg-max-voltage-16730?variant=47818885497082)
+    Availability: Available
+    Price: ‏999.00 ‏₪ ILS
+  - [42½](https://www.rsport.co.il/products/נעלי-כדורגל-air-zoom-mercurial-vapor-16-fg-max-voltage-16730?variant=47818885529850)
+    Availability: Available
+    Price: ‏999.00 ‏₪ ILS
+  - [43](https://www.rsport.co.il/products/נעלי-כדורגל-air-zoom-mercurial-vapor-16-fg-max-voltage-16730?variant=47818885562618)
+    Availability: Available
+    Price: ‏999.00 ‏₪ ILS
+  - [44](https://www.rsport.co.il/products/נעלי-כדורגל-air-zoom-mercurial-vapor-16-fg-max-voltage-16730?variant=47818885595386)
+    Availability: Available
+    Price: ‏999.00 ‏₪ ILS
+  - [44½](https://www.rsport.co.il/products/נעלי-כדורגל-air-zoom-mercurial-vapor-16-fg-max-voltage-16730?variant=47818885628154)
+    Availability: Available
+    Price: ‏999.00 ‏₪ ILS
+  - [45](https://www.rsport.co.il/products/נעלי-כדורגל-air-zoom-mercurial-vapor-16-fg-max-voltage-16730?variant=47818885660922)
+    Availability: Available
+    Price: ‏999.00 ‏₪ ILS
+  - [45½](https://www.rsport.co.il/products/נעלי-כדורגל-air-zoom-mercurial-vapor-16-fg-max-voltage-16730?variant=47818890838266)
+    Availability: Available
+    Price: ‏999.00 ‏₪ ILS
+  - [46](https://www.rsport.co.il/products/נעלי-כדורגל-air-zoom-mercurial-vapor-16-fg-max-voltage-16730?variant=47818885693690)
+    Availability: Available
+    Price: ‏999.00 ‏₪ ILS
+  - [47](https://www.rsport.co.il/products/נעלי-כדורגל-air-zoom-mercurial-vapor-16-fg-max-voltage-16730?variant=47818885759226)
+    Availability: Available
+    Price: ‏999.00 ‏₪ ILS
+  - [47½](https://www.rsport.co.il/products/נעלי-כדורגל-air-zoom-mercurial-vapor-16-fg-max-voltage-16730?variant=47818890871034)
+    Availability: Available
+    Price: ‏999.00 ‏₪ ILS
+- [נעלי כדורגל Air Zoom Mercurial Vapor 16 Pro AG](https://www.rsport.co.il/products/נעלי-כדורגל-air-zoom-mercurial-vapor-16-pro-ag-pro-limelight-volt-hyper-crimson-9082490): נעלי הכדורגל Future 8 Ultimate FG של PUMA מיועדות לשחקנים שמחפשים חופש תנועה ושליטה מלאה במגרש. החלק העליון משלב שכבות רבות עם LYCRA בסריג FUZIONSKIN, ומעניק התאמה אישית עם תמיכה בכל תנועה. 3D FUZIONPODS בחזית הנעל מגנים על הרגל ומאפשרים גמישות טבעית למשחק ללא הגבלה, בעוד רצועות PWRTAPE במרכז כף הרגל שומרות על יציבות בזמן דריבל ועקיפה של שחקנים.
+
+השכבה החיצונית כוללת רשת צפופה עם גימור GripControl Pro, המגביר אחיזה בכדור ומסייע לשליטה מלאה בדריבל ולפריצת קווים. סוליית הנעל עם מסמרות בעיצוב מיוחד מאפשרת תנועות סיבוביות חופשיות ומגיבה לכל שינוי כיוון, כדי למקסם את הזריזות והמהירות במגרש. Future 8 Ultimate FG נותנות לך את הכלים לשלוט במשחק ולהשפיע על כל מצב במגרש.
+  Updated: 2025-10-13T11:11:30Z
+  Vendor: R:SPORT
+  Product Type: נעלי כדורגל
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/7_62b4d5e8-110e-41e8-86ee-5fd640edbeb4.jpg?v=1760353234
+  - [½38](https://www.rsport.co.il/products/נעלי-כדורגל-air-zoom-mercurial-vapor-16-pro-ag-pro-limelight-volt-hyper-crimson-9082490?variant=47818993369338)
+    Availability: Not Available
+    Price: ‏980.00 ‏₪ ILS
+  - [39](https://www.rsport.co.il/products/נעלי-כדורגל-air-zoom-mercurial-vapor-16-pro-ag-pro-limelight-volt-hyper-crimson-9082490?variant=47818993402106)
+    Availability: Available
+    Price: ‏980.00 ‏₪ ILS
+  - [40](https://www.rsport.co.il/products/נעלי-כדורגל-air-zoom-mercurial-vapor-16-pro-ag-pro-limelight-volt-hyper-crimson-9082490?variant=47818993434874)
+    Availability: Available
+    Price: ‏980.00 ‏₪ ILS
+  - [½40](https://www.rsport.co.il/products/נעלי-כדורגל-air-zoom-mercurial-vapor-16-pro-ag-pro-limelight-volt-hyper-crimson-9082490?variant=47818993467642)
+    Availability: Available
+    Price: ‏980.00 ‏₪ ILS
+  - [41](https://www.rsport.co.il/products/נעלי-כדורגל-air-zoom-mercurial-vapor-16-pro-ag-pro-limelight-volt-hyper-crimson-9082490?variant=47818993500410)
+    Availability: Available
+    Price: ‏980.00 ‏₪ ILS
+  - [42](https://www.rsport.co.il/products/נעלי-כדורגל-air-zoom-mercurial-vapor-16-pro-ag-pro-limelight-volt-hyper-crimson-9082490?variant=47818993533178)
+    Availability: Available
+    Price: ‏980.00 ‏₪ ILS
+  - [42½](https://www.rsport.co.il/products/נעלי-כדורגל-air-zoom-mercurial-vapor-16-pro-ag-pro-limelight-volt-hyper-crimson-9082490?variant=47818993565946)
+    Availability: Available
+    Price: ‏980.00 ‏₪ ILS
+  - [43](https://www.rsport.co.il/products/נעלי-כדורגל-air-zoom-mercurial-vapor-16-pro-ag-pro-limelight-volt-hyper-crimson-9082490?variant=47818993598714)
+    Availability: Available
+    Price: ‏980.00 ‏₪ ILS
+  - [44](https://www.rsport.co.il/products/נעלי-כדורגל-air-zoom-mercurial-vapor-16-pro-ag-pro-limelight-volt-hyper-crimson-9082490?variant=47818993631482)
+    Availability: Available
+    Price: ‏980.00 ‏₪ ILS
+  - [44½](https://www.rsport.co.il/products/נעלי-כדורגל-air-zoom-mercurial-vapor-16-pro-ag-pro-limelight-volt-hyper-crimson-9082490?variant=47818993664250)
+    Availability: Available
+    Price: ‏980.00 ‏₪ ILS
+  - [45](https://www.rsport.co.il/products/נעלי-כדורגל-air-zoom-mercurial-vapor-16-pro-ag-pro-limelight-volt-hyper-crimson-9082490?variant=47818993697018)
+    Availability: Available
+    Price: ‏980.00 ‏₪ ILS
+  - [46](https://www.rsport.co.il/products/נעלי-כדורגל-air-zoom-mercurial-vapor-16-pro-ag-pro-limelight-volt-hyper-crimson-9082490?variant=47818993729786)
+    Availability: Available
+    Price: ‏980.00 ‏₪ ILS
+  - [47](https://www.rsport.co.il/products/נעלי-כדורגל-air-zoom-mercurial-vapor-16-pro-ag-pro-limelight-volt-hyper-crimson-9082490?variant=47818993762554)
+    Availability: Not Available
+    Price: ‏980.00 ‏₪ ILS
 
 ## Collections
 
@@ -46862,7 +47015,7 @@
   Updated: 2025-10-03T17:44:54Z
   Total Products: 74
 - [גברים](https://www.rsport.co.il/collections/גברים)
-  Updated: 2025-10-12T11:17:24Z
+  Updated: 2025-10-13T11:15:47Z
   Total Products: 933
 - [נשים](https://www.rsport.co.il/collections/נשים)
   Updated: 2025-10-06T22:42:14Z
@@ -46904,13 +47057,13 @@
   Updated: 2025-10-12T11:17:24Z
   Total Products: 68
 - [חולצות כדורגל ומוצרי ספורט של הליגה הספרדית](https://www.rsport.co.il/collections/ליגה-ספרדית): גלה את המבחר הגדול של חולצות כדורגל מהליגה הספרדית – ברצלונה, ריאל מדריד, אתלטיקו מדריד ועוד
-  Updated: 2025-10-11T11:17:45Z
+  Updated: 2025-10-13T11:15:47Z
   Total Products: 144
 - [ליגה איטלקית](https://www.rsport.co.il/collections/ליגה-איטלקית): אצלנו באתר rsport.co.il תוכלו למצוא את המבחר הגדול ביותר של חולצות כדורגל מהליגה האיטלקית, חולצות משחק, חולצות אוהד, חליפות לילדים, אימוניות ארוכות, חולצות שוער, חולצות רטרו ועוד. אנחנו מציעים מוצרים איכותיים של הקבוצות המובילות בעולם כמו יובנטוס, מילאן, אינטר ונאפולי. כל המוצרים באתר מגיעים במחירים משתלמים, ומיוצרים מחומרים איכותיים שיעניקו לכם חוויית לבישה מושלמת.
   Updated: 2025-10-02T13:33:14Z
   Total Products: 138
 - [חולצות ריאל מדריד וציוד ספורט | Real Madrid](https://www.rsport.co.il/collections/ריאל-מדריד): תוכלו למצוא מבחר רחב של חולצות ריאל מדריד לכל אוהד ממדי הבית הקלאסיים ועד דגמים חדשים ומיוחדים
-  Updated: 2025-10-12T11:17:24Z
+  Updated: 2025-10-13T11:15:47Z
   Total Products: 105
 - [אתלטיקו מדריד](https://www.rsport.co.il/collections/אתלטיקו-מדריד): חולצת אתלטיקו מדריד היא הרבה יותר מפריט לבוש זו הצהרת אהבה לקבוצה אדומה-לבנה עם אופי לוחמני ומסורת מרגשת. בקטגוריה הזו תמצאו מגוון רחב של חולצות אתלטיקו מדריד לגברים, נשים וילדים, לצד חליפות כדורגל, בגדי אימון ואביזרים שישלימו את ההופעה שלכם כאוהדים אמיתיים. כל הפריטים עשויים מחומרים איכותיים ומעוצבים בהשראת הקבוצה מהוונדה מטרופוליטנו כדי שתוכלו להתחבר לרוח של אתלטיקו, בכל מקום.
   Updated: 2025-10-02T12:25:51Z
@@ -47231,13 +47384,13 @@
   Updated: 2025-10-06T19:08:54Z
   Total Products: 14
 - [נעלי כדורגל](https://www.rsport.co.il/collections/נעלי-כדורגל)
-  Updated: 2025-10-12T19:46:02Z
-  Total Products: 63
-- [נעלי כדורגל FG](https://www.rsport.co.il/collections/football-boots-groundtype-firmground)
-  Updated: 2025-10-12T19:46:02Z
-  Total Products: 50
+  Updated: 2025-10-13T11:07:58Z
+  Total Products: 66
+- [נעלי כדורגל FG](https://www.rsport.co.il/collections/נעלי-כדורגל-fg)
+  Updated: 2025-10-13T10:50:41Z
+  Total Products: 51
 - [חולצות כדורגל - מגוון רחב במחירים משתלמים](https://www.rsport.co.il/collections/חולצות-כדורגל): האתר מתמחה במגוון רחב של חולצות משחק, כולל חולצות עבר, חולצות אימוניות וחליפות כדורגל לילדים.
-  Updated: 2025-10-12T11:17:24Z
+  Updated: 2025-10-13T11:15:47Z
   Total Products: 816
 - [חליפות כדורגל ילדים | הדפסת שם ומספר | משלוחים חינם](https://www.rsport.co.il/collections/חליפות-כדורגל-ילדים): אם אתם מחפשים את המתנה המושלמת לילד שאוהב כדורגל חליפות כדורגל לילדים באיכות גבוהה ובמחירים ללא תחרות הפתיעו את הילדים עם חליפה של הקבוצה האהובה עליהם
   Updated: 2025-10-12T11:17:24Z
@@ -47330,13 +47483,13 @@
   Updated: 2025-10-02T11:31:37Z
   Total Products: 12
 - [AVADA - Best Sellers](https://www.rsport.co.il/collections/avada-best-sellers)
-  Updated: 2025-10-12T19:46:02Z
-  Total Products: 2068
+  Updated: 2025-10-13T11:15:47Z
+  Total Products: 2071
 - [פיורנטינה רטרו](https://www.rsport.co.il/collections/פיורנטינה-רטרו): אנו מציעים חולצות כדורגל רטרו של פיורנטינה מהעבר המפואר, בעיצובים קלאסיים ששימשו את הקבוצה בשנות ה-90 ותחילת ה-2000. בין השחקנים הבולטים מהתקופות הללו: גבריאל באטיסטוטה, ווֹלפגנג מולה, אנג'לו די ליוויו ופרנצ'סקו טולדו. כל פריט בקטגוריה מחבר אתכם להיסטוריה המפוארת של פיורנטינה ומספק חוויה נוסטלגית לחובבי הכדורגל.
   Updated: 2025-10-02T11:15:25Z
   Total Products: 9
 - [חולצות כדורגל 25/26](https://www.rsport.co.il/collections/חולצות-כדורגל-25-26): חולצות הכדורגל של עונת 25/26 מביאות את הסטייל החדש של הקבוצות הגדולות בעולם כולל חולצת ריאל מדריד, חולצת ברצלונה, חולצת מנצ'סטר יונייטד, חולצת יובנטוס, חולצת ארסנל, פריז סן ז'רמן, אינטר, באיירן מינכן ועוד. כל חולצה מעוצבת בטכנולוגיה מתקדמת, עם נוחות מרבית ועיצוב עדכני שמתאים ליציע, לרחוב ולחיים עצמם. זו ההזדמנות שלך להראות את הגאווה הקבוצתית שלך בעונה חדשה ומרגשת.
-  Updated: 2025-10-11T11:17:45Z
+  Updated: 2025-10-13T11:15:47Z
   Total Products: 274
 - [ווסטהאם](https://www.rsport.co.il/collections/ווסטהאם)
   Updated: 2025-10-02T11:30:57Z
@@ -47348,7 +47501,7 @@
   Updated: 2025-10-02T11:15:26Z
   Total Products: 2
 - [בגביע העולם למועדונים | חולצות ואביזרים](https://www.rsport.co.il/collections/fifa-club-world-cup): גלה את קולקציית חולצות ומוצרי הספורט של קבוצות המשתתפות בגביע העולם למועדונים. מבחר בלעדי לאוהדים אמיתיים איכות, סטייל, ותשוקה למשחק.
-  Updated: 2025-10-12T11:17:24Z
+  Updated: 2025-10-13T11:15:47Z
   Total Products: 366
 - [ליגה מקסיקנית](https://www.rsport.co.il/collections/ליגה-מקסיקנית): ליגת העל המקסיקנית (Liga MX) היא אחת הליגות התוססות, העשירות והאהודות באמריקה הלטינית, עם היסטוריה ספורטיבית עמוקה ואווירה סוחפת באצטדיונים. הליגה מתאפיינת במשחק התקפי, קצב גבוה ותשוקה אמיתית לכדורגל. קבוצות כמו מונטריי, קלוב אמריקה, טיגרס, גוודלחרה וקרוס אסול מובילות את הטבלה מדי עונה ומושכות קהלים עצומים ברחבי מקסיקו והעולם. בין אם אתה אוהד נאמן של אחת היריבות הגדולות או פשוט מוקסם מהכדורגל המקסיקני.
   Updated: 2025-10-02T11:52:10Z
@@ -47519,7 +47672,7 @@
   Updated: 2025-10-11T11:17:45Z
   Total Products: 156
 - [חולצות כדורגל שרוול ארוך](https://www.rsport.co.il/collections/חולצות-כדורגל-שרוול-ארוך)
-  Updated: 2025-10-06T22:42:07Z
+  Updated: 2025-10-13T11:15:47Z
   Total Products: 31
 - [חולצות כדורגל ומוצרי ספורט ליונל מסי](https://www.rsport.co.il/collections/חולצות-כדורגל-ומוצרי-ספורט-ליונל-מסי): ליאונל מסי הוא הגדול מכולם, מהרחובות של רוסאריו ועד למונדיאל 2022 שבו הפך לאגדה נצחית עם שמונה כדורי זהב, ארבע ליגות אלופות ועשרות שיאים היסטוריים בברצלונה, פריז ואינטר מיאמי. אצלנו תמצאו את קולקציית מסי המלאה – חולצות בית, חוץ ושלישית של ברצלונה, חולצות נבחרת ארגנטינה כולל מהגביע העולמי, חולצות אינטר מיאמי, בגדי אימון ופריטי אספנות. לצד זה מחכות לכם נעלי כדורגל F50 בעיצוב חדשני עם טקסטורה לשליטה מושלמת, התאמה נוחה וסוליה מתקדמת לאחיזה וזריזות. כל פריט מביא אליכם את הקסם, הדיוק והמהירות של מסי כדי שתוכלו ללבוש ולהרגיש את ה־ GOAT בכל משחק.
   Updated: 2025-10-11T11:17:45Z
@@ -47528,8 +47681,8 @@
   Updated: 2025-10-04T20:33:30Z
   Total Products: 3
 - [Artificial Grass Football Boots](https://www.rsport.co.il/collections/football-boots-groundtype-artificial-grass): גלו את מגוון נעלי הכדורגל AG המובילות למשחק על דשא סינתטי ב-R:Sport. נעליים אלו, המיועדות במיוחד למשטחי "כל מזג אוויר", מעניקות אחיזה מושלמת, יציבות וביצועים מקצועיים בכל שלב של המשחק. סוליות נעלי AG כוללות פקקים צפופים ומדויקים, לעיתים חלולים או מחוררים, כדי להפחית משקל ולספק ריכוך וזעזועים, תוך שמירה על אחיזה מקסימלית. העיצוב שלהן מתאים במיוחד לשחיקה המוגברת של דשא סינתטי, ומאפשר חופש תנועה מלא, גם למשחקים תובעניים. ב-R:Sport תמצאו דגמים לילדים, בני נוער ומבוגרים, מהדגמים החדשים ביותר ועד דגמי AG ייחודיים. כל נעל נבחרה בקפידה כדי להבטיח שאתם תישארו מקצועיים על המגרש ותיהנו מביצועים יוצאי דופן לאורך כל המשחק. עשו את הצעד הנכון עם נעלי כדורגל, ציוד קבוצתי וכדורי כדורגל איכותיים למשחק. בנוסף, ב-R:Sport תמצאו גם מגוון רחב של חולצות כדורגל לכל אוהד ושחקן.
-  Updated: 2025-10-12T19:26:30Z
-  Total Products: 5
+  Updated: 2025-10-13T11:07:58Z
+  Total Products: 7
 - [PUMA Hot Pursuit](https://www.rsport.co.il/collections/puma-hot-pursuit)
   Updated: 2025-10-12T18:32:28Z
   Total Products: 8
@@ -47558,10 +47711,13 @@
   Updated: 2025-10-12T19:40:48Z
   Total Products: 3
 - [Nike Max Voltage](https://www.rsport.co.il/collections/nike-max-voltage)
-  Updated: 2025-10-12T19:46:02Z
-  Total Products: 6
+  Updated: 2025-10-13T11:07:58Z
+  Total Products: 9
 - [נעלי כדורגל Mercurial](https://www.rsport.co.il/collections/football-boots-mercurial)
-  Updated: 2025-10-12T19:46:02Z
+  Updated: 2025-10-13T11:07:58Z
+  Total Products: 8
+- [נעלי כדורגל Mercurial Vapor](https://www.rsport.co.il/collections/נעלי-כדורגל-mercurial-vapor)
+  Updated: 2025-10-13T11:07:58Z
   Total Products: 5
 
 ## Blogs
