@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-10-13T12:00:48.289Z
+- Updated At: 2025-10-13T16:00:47.374Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -9566,7 +9566,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £70.00 GBP
 - [Curb Chain | Gold | High Quality | Fast Shipping | Lily Blanche](https://www.lilyblanche.com/products/curb-chain-gold): This classic, medium-weight 18-carat gold vermeil curb chain is the perfect chain for any occasion. Wear on it is own or with one of our gold vermeil lockets. A wonderful gift for a friend who loves classic jewellery chains. Order online today and receive a free jewellery care kit worth £20.
-  Updated: 2025-10-10T00:48:17Z
+  Updated: 2025-10-13T13:46:48Z
   Vendor: Lily Blanche
   Product Type: Choose Your Chain
   Availability: Available
@@ -17993,7 +17993,7 @@ From £119
     Availability: Available
     Price: £465.00 GBP
 - [Solid 9 Carat White Gold Rope Chain](https://www.lilyblanche.com/products/solid-white-gold-rope-chain): This solid 9-carat white gold Prince of Wales rope chain will add interest and texture to any look. Available in 5 lengths. The perfect gift, the rope chain comes with a complimentary jewellery care kit. Shop solid white gold chains today.
-  Updated: 2025-10-03T03:11:04Z
+  Updated: 2025-10-13T15:34:36Z
   Vendor: Lily Blanche
   Product Type: Choose Your Chain
   Availability: Available
@@ -23006,25 +23006,6 @@ From £190.
   - [30 inch (72 cm) belcher chain](https://www.lilyblanche.com/products/engravable-compass-locket-for-men-sterling-silver-photo-locket?variant=55385562284418)
     Availability: Available
     Price: £245.00 GBP
-- [Large Personalised St Christopher Necklace in 18ct Gold Vermeil](https://www.lilyblanche.com/products/large-personalised-st-christopher-necklace-in-18ct-gold-vermeil): Travel safely with the Large Personalised St Christopher Necklace in 18ct gold vermeil. Personalise with free engraving & premium chains. Free UK shipping & care kit. 
-From £150
-  Updated: 2025-10-11T13:24:37Z
-  Vendor: Lily Blanche
-  Product Type: Necklace
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/files/st_christopher_gold_coin_necklace_1.webp?v=1754469589
-  - [18 inch (46 cm) belcher chain](https://www.lilyblanche.com/products/large-personalised-st-christopher-necklace-in-18ct-gold-vermeil?variant=55552063734146)
-    Availability: Available
-    Price: £185.00 GBP
-  - [20 inch (51 cm) belcher chain](https://www.lilyblanche.com/products/large-personalised-st-christopher-necklace-in-18ct-gold-vermeil?variant=55552063766914)
-    Availability: Available
-    Price: £195.00 GBP
-  - [22 inch (56 cm) belcher chain](https://www.lilyblanche.com/products/large-personalised-st-christopher-necklace-in-18ct-gold-vermeil?variant=55552063799682)
-    Availability: Available
-    Price: £205.00 GBP
-  - [24 inch (61 cm) belcher chain](https://www.lilyblanche.com/products/large-personalised-st-christopher-necklace-in-18ct-gold-vermeil?variant=55552063832450)
-    Availability: Available
-    Price: £215.00 GBP
 - [Handcrafted 9 Carat Solid Gold Belcher Chain | UK Investment Jewellery |](https://www.lilyblanche.com/products/solid-gold-belcher-chain-uk-handcrafted): 9 carat solid gold belcher chain, UK hallmarked. Timeless investment piece perfect for layering or wearing alone. Durable, elegant & versatile. Free UK delivery.
   Updated: 2025-09-28T19:50:31Z
   Vendor: Lily Blanche
@@ -23056,7 +23037,7 @@ From £150
     Availability: Available
     Price: £475.00 GBP
 - [Large Personalised St Christopher Necklace in Sterling Silver](https://www.lilyblanche.com/products/st-christopher-coin-necklace-silver): Travel safely with the Large Personalised St Christopher Necklace in sterling silver. Customise with free engraving & premium chain. Free UK shipping gift wrap & jewellery care kit.
-  Updated: 2025-09-22T12:10:51Z
+  Updated: 2025-10-13T15:57:39Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -23293,7 +23274,7 @@ From £129
     Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/files/white_gold_initial_necklace_Q.webp?v=1755082435
     Price: £145.00 GBP
 - [Men's Extra Large Sterling Silver Cross Necklace | XL Bold Statement Cross](https://www.lilyblanche.com/products/mens-heavy-xl-silver-cross-necklace): Make a bold statement with our extra-large sterling silver cross necklace for men. Handcrafted from solid sterling silver, this premium XL pendant (67mm x 35mm) is our largest men's cross, designed for a powerful and striking look.
-  Updated: 2025-10-08T00:53:06Z
+  Updated: 2025-10-13T15:59:50Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
