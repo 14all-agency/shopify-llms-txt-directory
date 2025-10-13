@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2025-10-13T08:00:51.911Z
+- Updated At: 2025-10-13T12:00:49.294Z
 
 ## Products
 
@@ -8460,7 +8460,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/High-Neck-Long-Sleeve-Ribbed-Top-Brinxx-Couture-6079_ae99505f-4811-4797-bf89-89c3a0f73de1.jpg?v=1736050169
     Price: $25.00 USD
 - [Distressed Raw Hem Denim Jacket - Brinxx Couture](https://www.brinxxcouture.com/products/distressed-raw-hem-denim-jacket): This distressed raw hem denim jacket is the perfect way to make a statement. With its distressed raw hem design, you'll look cool and effortless.
-  Updated: 2025-10-13T04:02:55Z
+  Updated: 2025-10-13T08:21:56Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -9522,7 +9522,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Gradient-Sports-Tank-and-Leggings-Set-Brinxx-Couture-5408.jpg?v=1709850856
     Price: $34.99 USD
 - [Snap Down Collared Winter Coat - Brinxx Couture](https://www.brinxxcouture.com/products/snap-down-collared-winter-coat): Stay warm and stylish in this Snap Down Collared Winter Coat. The high-quality fabric and unique snap closure ensures a weatherproof fit.
-  Updated: 2025-10-08T10:01:45Z
+  Updated: 2025-10-13T10:22:31Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -9628,7 +9628,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Snap-Down-Collared-Winter-Coat-Brinxx-Couture-6193_4d0ab028-0d84-4a8e-b51a-8595dbbe05fb.jpg?v=1736050128
     Price: $45.00 USD
   - [French Blue / 2XL](https://www.brinxxcouture.com/products/snap-down-collared-winter-coat?variant=43362615132342)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Snap-Down-Collared-Winter-Coat-Brinxx-Couture-6193_4d0ab028-0d84-4a8e-b51a-8595dbbe05fb.jpg?v=1736050128
     Price: $45.00 USD
   - [Pink / L](https://www.brinxxcouture.com/products/snap-down-collared-winter-coat?variant=43362615165110)
@@ -12185,7 +12185,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Heathered-Turtleneck-Mini-Sweater-Dress-Brinxx-Couture-1471.jpg?v=1709868845
     Price: $34.00 USD
 - [Ruched Surplice Long Sleeve Midi Dress - Brinxx Couture](https://www.brinxxcouture.com/products/ruched-bodycon-long-sleeve-midi-dress): This beautiful Ruched Surplice Long Sleeve Midi Dress will make you look and feel like a goddess. Its flattering and feminine silhouette, with ruched detailing.
-  Updated: 2025-10-08T10:40:35Z
+  Updated: 2025-10-13T08:42:42Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -21763,7 +21763,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Crochet-Flower-Button-Up-Cardigan-Brinxx-Couture-9388.jpg?v=1730296211
     Price: $49.00 USD
 - [Striped Round Neck Long Sleeve Sweater - Brinxx Couture](https://www.brinxxcouture.com/products/striped-round-neck-long-sleeve-sweater): Wrap yourself in style and comfort with our Striped Round Neck Long Sleeve Sweater. Made from soft and breathable fabric, this sweater features a round neck.
-  Updated: 2025-10-12T06:00:40Z
+  Updated: 2025-10-13T10:01:58Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -21883,7 +21883,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Ribbed-Round-Neck-Top-and-Shorts-Set-Brinxx-Couture-1381.jpg?v=1730296298
     Price: $25.00 USD
 - [Tied Pleated Printed Cap Sleeve Dress - Brinxx Couture](https://www.brinxxcouture.com/products/tied-pleated-printed-cap-sleeve-dress): Get ready to take on the day in style with our Tied Pleated Printed Cap Sleeve Dress! This fun and flirty dress feature cap sleeves and a playful, pleated design.
-  Updated: 2025-10-11T06:40:47Z
+  Updated: 2025-10-13T08:21:50Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -23430,7 +23430,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Notch-Lapel-Woven-Coat-with-Side-Pockets-Brinxx-Couture-2936.jpg?v=1730297108
     Price: $40.00 USD
 - [Cable-Knit Round Neck Sweater Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress): Wrap yourself in cozy comfort and timeless style with our Cable-Knit Round Neck Sweater Dress! Made from soft, high-quality materials.
-  Updated: 2025-10-13T06:44:48Z
+  Updated: 2025-10-13T11:43:17Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -23464,7 +23464,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Cable-Knit-Round-Neck-Sweater-Dress-Brinxx-Couture-2059.webp?v=1730297243
     Price: $49.99 USD
   - [Black / XL](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress?variant=43426819735734)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Cable-Knit-Round-Neck-Sweater-Dress-Brinxx-Couture-2059.webp?v=1730297243
     Price: $49.99 USD
   - [Sage / S](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress?variant=43432153710774)
@@ -26090,7 +26090,7 @@
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/18K-Gold-Plated-Stainless-Steel-Stud-Earring-Brinxx-Couture-9396.jpg?v=1733888456
   Price: $15.00 USD
 - [Velvet Button Up Long Sleeve Shirt - Brinxx Couture](https://www.brinxxcouture.com/products/button-up-long-sleeve-shirt): Discover the versatility and style of our Velvet Button Up Long Sleeve Shirt! With its classic design and comfortable fit, this shirt is perfect for any occasion.
-  Updated: 2025-10-13T07:01:42Z
+  Updated: 2025-10-13T10:03:32Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -34163,7 +34163,7 @@
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/WH2002222.jpg?v=1747426418
   Price: $89.99 USD
 - [V-Back Bow Tie Denim Dress - Brinxx Couture](https://www.brinxxcouture.com/products/v-back-bow-tie-denim-dress): Elevate your style with our V-Back Bow Tie Denim Dress. This flattering silhouette features a charming bow-tie detail at the back, creating a vintage twist.
-  Updated: 2025-10-11T09:21:40Z
+  Updated: 2025-10-13T09:22:16Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -36375,7 +36375,7 @@
   Updated: 2025-10-02T17:11:54Z
   Total Products: 0
 - [Women's Dresses - All Styles & Occasions - Brinxx Couture](https://www.brinxxcouture.com/collections/dresses): Discover Brinxx Couture's complete dress collection. From casual to formal, find the perfect dress for any occasion. Bold designs that make a statement.
-  Updated: 2025-10-10T09:38:28Z
+  Updated: 2025-10-13T08:03:28Z
   Total Products: 221
 - [Top Beauty Products | Skincare, Makeup & Haircare Essentials](https://www.brinxxcouture.com/collections/beauty): Explore our range of beauty products. Find top skincare, makeup, and haircare essentials to enhance your natural beauty. Free shipping on all orders!
   Updated: 2025-10-02T17:11:54Z
