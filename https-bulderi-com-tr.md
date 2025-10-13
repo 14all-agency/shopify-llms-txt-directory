@@ -10,7 +10,7 @@
 - Contact Email: info@bulderi.com.tr
 - Contact Phone: +908503089625
 - Address: Yakuplu Mah. Hürriyet Blv. Skyport Residence No:1/151 Beylikdüzü, İstanbul / Türkiye
-- Updated At: 2025-10-12T20:00:29.001Z
+- Updated At: 2025-10-13T00:19:46.460Z
 
 ## Products
 
@@ -984,6 +984,16 @@
 ## Marketplaces
 - [Hepsiburada] (https://app.hb.biz/seY6lTY7Bmn6/)
 - [Trendyol] (https://www.trendyol.com/magaza/bulderi-m-826281)
+
+## Official Domains
+- [Main Domain] (https://bulderi.com.tr/)
+- [Turkish Version] (https://bulderi.tr/)
+- [Global Version] (https://bulderi.com/)
+- [Germany/EU Version] (https://bulderi.de/)
+
+## Payment Methods
+- Credit, Debit and Virtual Cards on iyzico
+- Manuel Bank Transfer or SWIFT
 
 ## Optional
 
