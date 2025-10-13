@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-10-13T16:01:13.348Z
+- Updated At: 2025-10-13T20:01:07.992Z
 
 ## Products
 
@@ -8493,13 +8493,6 @@ Figura com aproximadamente 8 cm.
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/roca-gnomo-81395318-brincatoys-1178695320.png?v=1752872282
   Price: 9,99 € EUR
-- [Roca Mordedor Girafa Sofia Colo'rings 100% hévea natural](https://brincatoys.pt/products/roca-mordedor-girafa-sofia-colorings-100-hevea-natural): Este colorido anel de dentição da girafa Sophie tem diferentes texturas para favorecer a dentição do bebé e é feito de borracha 100% natural da árvore Hevea, além de pintado com tinta alimentar, uma alternativa totalmente natural para crianças. Os pais vão adorar as suas múltiplas cores, então escolha este grande presente para o seu filho.      Dim
-  Updated: 2025-10-13T06:27:06Z
-  Vendor: Girafa Sofia
-  Product Type: + 3 meses
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/roca-mordedor-girafa-sofia-colo-rings-100-hevea-natural-102012022-girafa-sofia-1178695324.jpg?v=1752872295
-  Price: 18,99 € EUR
 - [Roca Rato](https://brincatoys.pt/products/roca-rato): Uma roca em madeira de faia - uma madeira higiénica que não cria fungos nem bactérias - e com anéis de plástico para algum barulho, é ideal como primeiro brinquedo e pode ser levada à boca vezes sem conta.   Dimensão: 9 x 6,50 cm. Idade recomendada: + de 6 meses.
   Updated: 2025-10-13T06:27:05Z
   Vendor: Seleção Brincatoys
@@ -13674,13 +13667,6 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/boneca-minnie-com-saia-amarela-772164623-brincatoys-1178697572.jpg?v=1752800646
   Price: 15,99 € EUR
-- [Boneca Minnie com saia cor-de-rosa](https://brincatoys.pt/products/boneca-minnie-com-saia-cor-de-rosa): A Boneca Minnie Mouse é uma peça encantadora e absolutamente irresistível para qualquer fã da Disney! Inspirada na doce e charmosa Minnie Mouse, esta boneca foi cuidadosamente projetada para imitar a personagem de maneira precisa e adorável. Com um tamanho aproximado de 25 cm, a boneca yem vestida com uma saia cor-de-rosa vibrante, recriando fielmente o estilo inconfundível da personagem, e tem o tamanho perfeito para brincadeiras imaginativas e aventuras mágicas. É uma companheira perfeita para as crianças que gostam da personagem da Disney. A boneca é articulada, permitindo que a criança recrie as poses e movimentos clássicos da Minnie. Isso adiciona uma camada extra de diversão e realismo à brincadeira. Traga a magia da Disney para a sua casa com esta linda Boneca Articulada Minnie Mouse! Dimensão: 11,50 x 28 x 7,50 cm. Idade Recomendada: + de 3 anos.
-  Updated: 2025-10-13T06:21:46Z
-  Vendor: Seleção Brincatoys
-  Product Type: + 3 anos
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/boneca-minnie-com-saia-cor-de-rosa-772164523-brincatoys-1178697574.jpg?v=1752800653
-  Price: 15,99 € EUR
 - [Princesa Disney Cinderela](https://brincatoys.pt/products/princesa-disney-cinderela): Entre no mundo mágico da Disney com a Princesa Disney Cinderela. Esta encantadora boneca de 15 cm é o brinquedo perfeito para recriar e imaginar as histórias e aventuras favoritas da Cinderela. A Cinderela é articulada, permitindo posá-la em inúmeras posturas reais. Ela apresenta lindos detalhes no seu vestido charmoso, replicando o icônico vestido azul que todos nós conhecemos do filme clássico da Disney. E não nos esqueçamos dos seus lindos cabelos loiros! Incluído com a boneca vem um mini pente para que a sua criança possa brincar e estilizar os cabelos da Cinderela, adicionando uma camada extra de diversão e interatividade à brincadeira. Com o seu visual característico, a nossa pequena Cinderela não passará despercebida. Ela é feita para chamar a atenção das crianças e oferecer brincadeiras alegres e intermináveis. Não perca a oportunidade de trazer um pouco de magia Disney para a sua casa com a Princesa Disney Cinderela! Dimensão:10,50 x 19 x 6 cm. Idade Recomendada: + de 3 anos.
   Updated: 2025-10-13T06:21:46Z
   Vendor: Princesas Disney
@@ -14445,7 +14431,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/figura-pokemon-select-chikorita-colecionavel-de-vinil-23295824-2600000-pokemon-1178698085.jpg?v=1752919330
   Price: 14,99 € EUR
 - [Figura Pokémon Select - Growlithe para Fãs e Colecionadores](https://brincatoys.pt/products/pokemon-select-growlithe): Apresentamos a figura Pokémon Select - Growlithe, o adorável companheiro das suas aventuras! Adquira a sua e comece a sua jornada hoje!
-  Updated: 2025-10-13T06:20:56Z
+  Updated: 2025-10-13T19:18:12Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
@@ -15077,7 +15063,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/bluey-camiao-dos-bombeiros-641761024-8056379165521-bluey-1178698521.jpg?v=1752928097
   Price: 40,90 € EUR
 - [Godzilla x Kong - Kong com luva B.E.A.S.T.](https://brincatoys.pt/products/godzilla-x-kong-kong): Retorne à Hollow Earth com Godzilla e Kong numa aventura totalmente nova! Quando uma ameaça colossal é descoberta no nosso mundo, Godzilla e Kong devem lutar para proteger a sua existência e a nossa. Prepare-se para a batalha épica com o novo brinquedo da série Monsterverse: Godzilla x Kong – Kong com luva B.E.A.S.T.! Recrie cenas memoráveis ou crie as suas próprias aventuras com esta figura de Kong, meticulosamente desenhada para proporcionar uma experiência autêntica e emocionante. Primeiramente, destaca-se a atenção aos detalhes na textura e cor da pele, imitando perfeitamente a aparência robusta e selvagem deste icónico titã. Além disso, esta figura vem equipada com a icónica luva B.E.A.S.T., aumentando o poder de Kong e oferecendo-lhe uma artilharia extra contra qualquer adversário. A luva não só é um adereço visual impressionante, mas também atua como uma ferramenta interativa para brincadeiras cheias de ação. As crianças vão ficar fascinadas com a capacidade de equipar Kong para batalha, incentivando a criatividade e o jogo imaginativo. Nem só de aparência vive este brinquedo, pois também foi concebido para ser durável e seguro para crianças a partir dos 4 anos, cumprindo com todas as normas de segurança. Contudo, é importante notar que o produto contém peças pequenas, o que requer supervisão perto de crianças mais novas para evitar o risco de asfixia. Ideal para colecionadores e jovens fãs, o Godzilla x Kong – Kong com luva B.E.A.S.T. é um aditivo perfeito para qualquer coleção Monsterverse que possam ter. Pode ser o presente ideal para cativar a mente e estimular a imaginação dos aspirantes a pequenos guerreiros ou entusiastas do universo de Godzilla e King Kong. Em suma... Figura detalhada de Kong com texturas realistas. Luva B.E.A.S.T. interativa e destacável. Feito para durabilidade e segurança das crianças. Ideal para fãs de todas as idades, colecionadores e como um presente estimulante. Dimensão: 19 x 23 x 7,50 cm Idade recomendada: + de 4 anos.
-  Updated: 2025-10-13T06:20:19Z
+  Updated: 2025-10-13T19:29:30Z
   Vendor: Godzilla vs Kong
   Product Type: + 4 anos
   Availability: Available
@@ -15140,7 +15126,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/godzilla-x-kong-kong-gigante-com-luva-b-e-a-s-t-233931524-0043377355526-godzilla-vs-kong-1178698573.jpg?v=1752929166
   Price: 36,99 € EUR
 - [Godzilla x Kong: Minifiguras Surpresa](https://brincatoys.pt/products/godzilla-x-kong-minifiguras-surpresa): Apresentamos as fascinantes Minifiguras Surpresa da coleção Godzilla x Kong, uma linha de brinquedos que captura a essência épica da batalha dos titãs diretamente para a sua casa. O Godzilla x Kong Hollow Earth Crystal com surpresa de minifigura de 5 cm de altura traz um monstro misterioso para a sua coleção! O conjunto inclui uma minifigura e vem numa embalagem cega exclusiva do Godzilla X Kong! Abra um cristal para revelar o seu monstro misterioso. Inicialmente, estas minifiguras surpresa vêm em embalagens vibrantes e colecionáveis, garantindo que cada abertura seja uma aventura emocionante. Além disso, cada embalagem oculta uma de entre várias figuras espetaculares baseadas nos personagens icônicos - sejam elas o imponente Godzilla ou o poderoso Kong, e até mesmo outros monstros do MonsterVerse. Designadas com um detalhismo impressionante, as minifiguras oferecem um grau de realismo e qualidade que irá, sem dúvida, encantar colecionadores e fãs jovens. As texturas e cores das minifiguras foram cuidadosamente escolhidas para refletir os traços característicos dos personagens cinematográficos, desde o tom azulado e espinhos luminescentes de Godzilla até a expressividade e força simbolizadas por Kong. Além disso, a versatilidade das minifiguras é notável, permitindo que se criem cenas épicas de combate ou que simplesmente se adicionem a uma estante de exposição como um artefato de admiração. Estes brinquedos não são apenas um passatempo divertido, mas também um meio de estimular a imaginação e a criatividade nas crianças, encorajando a narrativa e a recriação de cenas dos filmes. Além de proporcionar horas de entretenimento, as Minifiguras Surpresa Godzilla x Kong ajudam a desenvolver habilidades motoras finas e coordenação através do manuseamento e posicionamento das figuras em variadas posturas. Em suma... Embalagens colecionáveis surpresa com personagens do MonsterVerse. Detalhismo e realismo impressionante nas minifiguras de Godzilla e Kong. Estímulo à imaginação, criatividade e desenvolvimento de habilidades motoras. Ideal para fãs, colecionadores e crianças acima de 4 anos. Dimensão: 11 x 7 x 4,50 cm. Idade recomendada: + de 4 anos.
-  Updated: 2025-10-13T06:20:15Z
+  Updated: 2025-10-13T19:32:10Z
   Vendor: Godzilla vs Kong
   Product Type: + 4 anos
   Availability: Available
@@ -15182,7 +15168,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/figuras-de-batalha-pokemon-machop-snubbull-23263424-0191726424376-pokemon-1178698617.jpg?v=1752929775
   Price: 12,99 € EUR
 - [Figuras de Batalha Pokémon – Machop & Snivy](https://brincatoys.pt/products/figuras-de-batalha-pokemon-machop-snivy): Prepare-se para intensificar a sua coleção Pokémon com o empolgante pacote de Figuras de Batalha Pokémon – Machop & Snivy, um duo pronto para a ação! Se é um grande fã de Pokémon e quer lutar com os seus amigos? Então estas figuras de batalha são exatamente o que precisa. Com este artigo expandirá a sua coleção com figuras Pokémon em escala e detalhadas. Liberte o poder dos seus Pokémon para apoiá-lo na sua próxima batalha épica de Pokémon. Recrie cenas ou lute com sua equipa e torne-se o mestre Pokémon definitivo. Inicialmente, destaca-se Machop, o poderoso guerreiro tipo Lutador, conhecido pela sua força bruta e postura de combate imponente. Com articulações cuidadosamente desenhadas para refletir sua capacidade de movimento, Machop está pronto para encarar qualquer desafio no jogo de simulação de batalhas. Adicionalmente, Snivy, o elegante Pokémon de tipo Planta, complementa este conjunto com sua aparência aguçada e expressão confiante. A sua coloração vibrante e texturas precisas capturam a essência deste Pokémon com um nível de detalhe que deslumbra fãs de todas as idades. deal para recriar cenas icônicas ou para elaborar novas estratégias de batalha, este par dinâmico possibilita uma imersão total no universo Pokémon. Em termos de qualidade, ambas as figuras demonstram uma construção robusta e segura, utilizando materiais resistentes para garantir durabilidade, mesmo em mãos das crianças mais entusiasmadas. Este pacote não só alimenta a imaginação, como também incentiva o jogo cooperativo e estratégico, habilidades valiosas para o desenvolvimento social e cognitivo. Além disso, o pacote inclui detalhes que o tornam uma escolha perfeita para presentear ou para aficionar aos devotos colecionadores, como a embalagem temática que ressalta a prontidão de batalha e a energia vibrante do mundo Pokémon. Indubitavelmente, este conjunto é uma mais-valia para qualquer entusiasta de Pokémon. Em suma... Contém duas figuras de ação: Machop e Snivy. Detalhamento e articulação de alta qualidade para recriação fiel e jogo interativo. Construção durável, ideal para fãs e colecionadores de todas as idades. Favorece o desenvolvimento de habilidades de jogo estratégico e interação social. Dimensão: 11 x 17,50 x 6 cm. Idade recomendada: + de 4 anos.
-  Updated: 2025-10-13T06:20:13Z
+  Updated: 2025-10-13T19:24:33Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
@@ -15532,7 +15518,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/livro-de-colorir-kitty-divertido-arte-e-relaxamento-para-todos-251271324-brincatoys-1178698941.jpg?v=1752933501
   Price: 5,99 € EUR
 - [Marcadores Duplos Top Model para Artistas](https://brincatoys.pt/products/marcador-duplo-top-model): Marcadores Duplos Top Model - explore a criatividade com 10 cores intensas e versatilidade de duas pontas. Para todas as idades, inspire arte duradoura!
-  Updated: 2025-10-13T06:19:44Z
+  Updated: 2025-10-13T19:21:49Z
   Vendor: Seleção Brincatoys
   Product Type: + 6 anos
   Availability: Available
@@ -19599,7 +19585,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-marvel-76312-camiao-do-hulk-vs-thanos-acao-epica-667631225-5702017817859-lego-1178702042.jpg?v=1752981252
   Price: 32,90 € EUR
 - [Smurfs Casa Surpresa com Figura: Magia e Diversão](https://brincatoys.pt/products/smurfs-casa-surpresa-com-figura): Explore a magia da Aldeia dos Smurfs com a Casa Surpresa com Figura! Cada embalagem encanta com uma casinha-cogumelo e uma figura surpresa. 🌟
-  Updated: 2025-10-13T06:15:02Z
+  Updated: 2025-10-13T19:46:42Z
   Vendor: Seleção Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -19788,7 +19774,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/contas-de-madeira-animais-familiares-brinquedo-educativo-26150424-3048700015044-brincatoys-1178700644.jpg?v=1752959169
   Price: 22,50 € EUR
 - [Biberão Mágico com som Petitcollin para Brincar](https://brincatoys.pt/products/biberao-magico-com-som-1): Descubra o Biberão Mágico com som Petitcollin, que traz realismo às brincadeiras com bonecas. Oferta encantadora para as pequenas! 🌟
-  Updated: 2025-10-13T06:14:46Z
+  Updated: 2025-10-13T18:55:55Z
   Vendor: Seleção Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -21179,8 +21165,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-30T11:52:07Z
   Total Products: 38
 - [Figuras de ação](https://brincatoys.pt/collections/figuras-de-acao)
-  Updated: 2025-10-13T11:22:28Z
-  Total Products: 564
+  Updated: 2025-10-13T19:24:32Z
+  Total Products: 563
 - [Instrumentos musicais](https://brincatoys.pt/collections/instrumentos-musicais)
   Updated: 2025-10-05T15:27:18Z
   Total Products: 28
@@ -21197,8 +21183,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-10T10:09:18Z
   Total Products: 11
 - [Lego Disney](https://brincatoys.pt/collections/lego-disney): Celebra 100 anos de encantamento mágico com os conjuntos LEGO® | Disney e as suas personagens icónicas. Os fãs podem recriar as cenas memoráveis, as atrações dos parques de diversões e construir os castelos encantados da Disney. Junta-te ao Mickey e Amigos, às Princesas Disney e a muitas outras personagens em brincadeiras criativas e divertidas.
-  Updated: 2025-10-06T16:39:25Z
-  Total Products: 17
+  Updated: 2025-10-13T19:27:46Z
+  Total Products: 16
 - [Lego Duplo](https://brincatoys.pt/collections/lego-duplo): Quando os mais pequenos têm uma grande imaginação, as peças de construção LEGO® DUPLO® libertam a sua criatividade através da aprendizagem e desenvolvimento. Este conjuntos oferecem aos mais pequenos diversão ilimitada, autoexpressão e a felicidade da descoberta.
   Updated: 2025-10-10T10:56:06Z
   Total Products: 22
@@ -21215,7 +21201,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-07T19:09:07Z
   Total Products: 5
 - [Lego Marvel](https://brincatoys.pt/collections/lego-marvel): Recria as cenas emocionantes dos filmes do Universo Cinematográfico Marvel e participa na batalha do bem contra o mal nos conjuntos LEGO® Marvel. Junta-te a algumas das personagens favoritas, como os Guardiões da Galáxia, Homem-Formiga, Pantera Negra, Homem-Aranha, Hulk e muitos outros em emocionantes aventuras de encenação.
-  Updated: 2025-10-08T11:21:45Z
+  Updated: 2025-10-13T19:28:10Z
   Total Products: 29
 - [Lego Minecraft](https://brincatoys.pt/collections/lego-minecraft): Inspira infinitas aventuras de Minecraft® para os fãs recriarem os icónicos detalhes pixelizados do famoso videojogo. Utiliza a criatividade para dar vida às autênticas personagens de Minecraft® e constrói estruturas e cenas únicas para criares histórias divertidas e emocionantes.
   Updated: 2025-10-01T12:11:29Z
@@ -21239,8 +21225,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-10T09:24:34Z
   Total Products: 11
 - [Trabalhos manuais](https://brincatoys.pt/collections/trabalhos-manuais)
-  Updated: 2025-10-10T11:21:00Z
-  Total Products: 105
+  Updated: 2025-10-13T19:23:14Z
+  Total Products: 103
 - [Peluches](https://brincatoys.pt/collections/peluches)
   Updated: 2025-10-06T16:33:09Z
   Total Products: 106
@@ -21251,14 +21237,14 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-08-20T23:28:51Z
   Total Products: 1
 - [Puzzle Infantil](https://brincatoys.pt/collections/puzzles-infantis)
-  Updated: 2025-10-08T11:21:45Z
+  Updated: 2025-10-13T19:15:56Z
   Total Products: 101
 - [Puzzle Adulto](https://brincatoys.pt/collections/puzzles-adulto)
   Updated: 2025-10-06T18:30:00Z
   Total Products: 98
 - [Bonecas](https://brincatoys.pt/collections/bonecas)
-  Updated: 2025-10-13T13:55:35Z
-  Total Products: 239
+  Updated: 2025-10-13T19:32:57Z
+  Total Products: 240
 - [Bonecas clássicas](https://brincatoys.pt/collections/bonecas-classicas)
   Updated: 2025-10-06T19:06:40Z
   Total Products: 59
@@ -21275,26 +21261,26 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-05T15:27:50Z
   Total Products: 54
 - [Brinquedos para Bebé](https://brincatoys.pt/collections/primeira-infancia-brinquedos-para-bebe)
-  Updated: 2025-10-06T18:24:39Z
-  Total Products: 98
+  Updated: 2025-10-13T19:05:59Z
+  Total Products: 97
 - [Musicais](https://brincatoys.pt/collections/brinquedos-musicais-bebe)
   Updated: 2025-10-07T18:45:47Z
   Total Products: 20
 - [Primeiros encaixes](https://brincatoys.pt/collections/primeira-infancia-primeiros-encaixes)
-  Updated: 2025-10-08T11:21:45Z
-  Total Products: 121
+  Updated: 2025-10-13T19:14:28Z
+  Total Products: 120
 - [Roca e Mordedores](https://brincatoys.pt/collections/primeira-infancia-roca-e-mordedores)
-  Updated: 2025-10-03T13:37:25Z
-  Total Products: 46
+  Updated: 2025-10-13T19:30:21Z
+  Total Products: 45
 - [Veículos](https://brincatoys.pt/collections/carro-de-brinquedo)
-  Updated: 2025-10-09T11:22:38Z
+  Updated: 2025-10-13T19:36:03Z
   Total Products: 201
 - [Veículos de colecção](https://brincatoys.pt/collections/carro-de-brinquedo-colecao)
-  Updated: 2025-10-09T09:16:43Z
+  Updated: 2025-10-13T19:10:56Z
   Total Products: 176
 - [Veículos Primeira Infância](https://brincatoys.pt/collections/carro-de-brinquedo-primeira-infancia)
-  Updated: 2025-10-07T18:38:53Z
-  Total Products: 107
+  Updated: 2025-10-13T19:34:47Z
+  Total Products: 105
 - [Lego Sonic](https://brincatoys.pt/collections/lego-sonic): Acelera com o herói dos videojogos nos fantásticos conjuntos LEGO® Sonic the Hedgehog™. O Sonic junta-se aos amigos Tails e Amy em desafios emocionantes para apanharem anéis e enfrentarem o Dr. Eggman, o Cubot e os Badniks.
   Updated: 2025-09-23T18:58:24Z
   Total Products: 9
@@ -21314,20 +21300,20 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-10T09:24:34Z
   Total Products: 23
 - [0 - 12 meses](https://brincatoys.pt/collections/0-12-meses)
-  Updated: 2025-10-10T11:21:00Z
-  Total Products: 326
+  Updated: 2025-10-13T19:30:21Z
+  Total Products: 324
 - [2 - 3 anos](https://brincatoys.pt/collections/2-3-anos)
-  Updated: 2025-10-11T11:20:00Z
-  Total Products: 1565
+  Updated: 2025-10-13T19:36:03Z
+  Total Products: 1562
 - [4 - 5 anos](https://brincatoys.pt/collections/4-5-anos)
-  Updated: 2025-10-13T13:55:41Z
-  Total Products: 701
+  Updated: 2025-10-13T19:27:46Z
+  Total Products: 699
 - [8 - 10 anos](https://brincatoys.pt/collections/8-10-anos)
-  Updated: 2025-10-13T11:22:28Z
+  Updated: 2025-10-13T19:18:17Z
   Total Products: 318
 - [+ 3 meses](https://brincatoys.pt/collections/3-meses)
-  Updated: 2025-10-03T13:38:28Z
-  Total Products: 20
+  Updated: 2025-10-13T18:51:30Z
+  Total Products: 19
 - [+ 6 meses](https://brincatoys.pt/collections/6-meses)
   Updated: 2025-10-05T17:12:02Z
   Total Products: 54
@@ -21338,25 +21324,25 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-12T12:25:16Z
   Total Products: 1299
 - [Até €25](https://brincatoys.pt/collections/ate-25)
-  Updated: 2025-10-13T14:58:51Z
-  Total Products: 2405
+  Updated: 2025-10-13T20:00:21Z
+  Total Products: 2406
 - [Até €35](https://brincatoys.pt/collections/ate-35)
-  Updated: 2025-10-13T14:58:51Z
-  Total Products: 2868
+  Updated: 2025-10-13T20:00:21Z
+  Total Products: 2869
 - [Até €50](https://brincatoys.pt/collections/ate-50)
-  Updated: 2025-10-13T14:58:51Z
-  Total Products: 3251
+  Updated: 2025-10-13T20:00:21Z
+  Total Products: 3252
 - [Até €60](https://brincatoys.pt/collections/ate-60)
-  Updated: 2025-10-13T14:58:51Z
-  Total Products: 3387
+  Updated: 2025-10-13T20:00:21Z
+  Total Products: 3388
 - [Até €80](https://brincatoys.pt/collections/ate-80)
-  Updated: 2025-10-13T14:58:51Z
-  Total Products: 3466
+  Updated: 2025-10-13T20:00:21Z
+  Total Products: 3467
 - [Até €100](https://brincatoys.pt/collections/ate-100)
-  Updated: 2025-10-13T14:58:51Z
-  Total Products: 3515
+  Updated: 2025-10-13T20:00:21Z
+  Total Products: 3516
 - [Novidades](https://brincatoys.pt/collections/novidades)
-  Updated: 2025-10-13T13:55:35Z
+  Updated: 2025-10-13T19:27:46Z
   Total Products: 388
 - [Outlet](https://brincatoys.pt/collections/outlet): Saldos válidos de 04/07/2025 a 26/12/2025, limitado ao stock existente e acumulável com outros descontos ou promoções.
   Updated: 2025-09-29T15:16:28Z
@@ -21464,8 +21450,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-04T18:23:54Z
   Total Products: 29
 - [LEGO](https://brincatoys.pt/collections/lego)
-  Updated: 2025-10-10T10:56:06Z
-  Total Products: 377
+  Updated: 2025-10-13T19:28:10Z
+  Total Products: 376
 - [LOL Surprise](https://brincatoys.pt/collections/lol-surprise)
   Updated: 2025-10-05T14:47:19Z
   Total Products: 11
@@ -21482,7 +21468,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-06T19:02:19Z
   Total Products: 4
 - [Monster High](https://brincatoys.pt/collections/monster-high)
-  Updated: 2025-10-13T13:58:38Z
+  Updated: 2025-10-13T16:22:16Z
   Total Products: 42
 - [Naruto](https://brincatoys.pt/collections/naruto)
   Updated: 2025-10-05T19:22:59Z
@@ -21506,8 +21492,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-07T18:50:10Z
   Total Products: 122
 - [Pokémon](https://brincatoys.pt/collections/pokemon)
-  Updated: 2025-10-11T11:20:00Z
-  Total Products: 101
+  Updated: 2025-10-13T19:24:32Z
+  Total Products: 100
 - [Polly Pocket](https://brincatoys.pt/collections/polly-pocket)
   Updated: 2025-10-07T18:36:52Z
   Total Products: 3
@@ -21545,11 +21531,11 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-06T17:09:21Z
   Total Products: 9
 - [Catálogo](https://brincatoys.pt/collections/all)
-  Updated: 2025-10-13T14:58:51Z
-  Total Products: 3549
+  Updated: 2025-10-13T20:00:21Z
+  Total Products: 3550
 - [6 - 7 anos](https://brincatoys.pt/collections/6-7-anos)
-  Updated: 2025-10-13T12:31:16Z
-  Total Products: 286
+  Updated: 2025-10-13T19:28:10Z
+  Total Products: 285
 - [11 - 14 anos](https://brincatoys.pt/collections/11-14-anos)
   Updated: 2025-10-06T18:54:16Z
   Total Products: 184
@@ -21557,11 +21543,11 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-11T16:10:10Z
   Total Products: 117
 - [+ 3 anos](https://brincatoys.pt/collections/de-3-anos)
-  Updated: 2025-10-13T13:55:13Z
-  Total Products: 1214
+  Updated: 2025-10-13T18:51:35Z
+  Total Products: 1213
 - [+ 4 anos](https://brincatoys.pt/collections/de-4-anos)
-  Updated: 2025-10-13T13:55:41Z
-  Total Products: 493
+  Updated: 2025-10-13T16:22:30Z
+  Total Products: 494
 - [+ 5 anos](https://brincatoys.pt/collections/de-5-anos)
   Updated: 2025-10-13T14:53:06Z
   Total Products: 139
@@ -21581,11 +21567,11 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-06T11:23:20Z
   Total Products: 83
 - [Os mais procurados](https://brincatoys.pt/collections/os-mais-populares)
-  Updated: 2025-10-13T14:58:51Z
-  Total Products: 3549
+  Updated: 2025-10-13T20:00:21Z
+  Total Products: 3550
 - [Recém-chegados](https://brincatoys.pt/collections/recem-chegados)
-  Updated: 2025-10-13T14:58:51Z
-  Total Products: 3549
+  Updated: 2025-10-13T20:00:21Z
+  Total Products: 3550
 - [Produtos em destaque](https://brincatoys.pt/collections/produtos-em-destaque)
   Updated: 2025-10-13T12:31:16Z
   Total Products: 22
@@ -21596,20 +21582,20 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-12T11:21:00Z
   Total Products: 6
 - [OrderlyEmails - Recommended Products](https://brincatoys.pt/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-10-13T13:55:46Z
-  Total Products: 3072
+  Updated: 2025-10-13T20:00:22Z
+  Total Products: 3075
 - [Girafa Sofia](https://brincatoys.pt/collections/girafa-sofia)
-  Updated: 2025-10-03T13:37:25Z
-  Total Products: 20
+  Updated: 2025-10-13T18:51:31Z
+  Total Products: 19
 - [Bburago](https://brincatoys.pt/collections/bburago)
-  Updated: 2025-10-09T11:22:38Z
+  Updated: 2025-10-13T19:10:56Z
   Total Products: 126
 - [Marketplace](https://brincatoys.pt/collections/marketplace)
-  Updated: 2025-10-13T13:55:46Z
-  Total Products: 3072
+  Updated: 2025-10-13T20:00:22Z
+  Total Products: 3075
 - [EzConnector](https://brincatoys.pt/collections/ezconnector)
-  Updated: 2025-10-13T13:55:35Z
-  Total Products: 923
+  Updated: 2025-10-13T19:56:57Z
+  Total Products: 925
 
 ## Blogs
 
