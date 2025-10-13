@@ -10,7 +10,7 @@
 - Contact Email: support@eolasprints.com
 - Contact Phone: +34-942735955
 - Address: Parque Empresarial Besaya D14, Reocín 39538, Cantabria, Spain
-- Updated At: 2025-10-13T00:00:31.416Z
+- Updated At: 2025-10-13T08:00:34.372Z
 
 Welcome to Eolas Prints - Your Trusted 3D Printing & Digital Fabrication Partner
 
@@ -95,7 +95,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/pla-ingeo-870-filament-white-football-helmet-1-75-mm-1-kg-372.webp?v=1725009998
     Price: €30.50 EUR
 - [Pla Filament 1.75 Mm for Food Contact Applications](https://eolasprints.com/products/pla-filament-1-75-mm): Eolas Prints PLA filament in 1.75mm diameter offers premium quality in over 20 colors. A versatile material for 3D printing, suitable for food contact items.
-  Updated: 2025-10-10T11:58:02Z
+  Updated: 2025-10-13T00:42:43Z
   Vendor: Eolas Prints
   Product Type: 3D Printer Filament
   Availability: Available
@@ -447,7 +447,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/pla-filament-2-85-mm-3d-printed-prosthetic-leg-1-kg-natural-267.webp?v=1725569350
     Price: €117.50 EUR
 - [Pla Transition Filament for 3d Printing](https://eolasprints.com/products/pla-transition-filament): Eolas Prints PLA transition filament is a premium, non-toxic material. This user-friendly and eco-conscious filament is made from sustainable, renewable resources.
-  Updated: 2025-09-30T12:30:25Z
+  Updated: 2025-10-13T00:42:41Z
   Vendor: Eolas Prints
   Product Type: 3D Printer Filament
   Availability: Available
@@ -461,7 +461,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/pla-transition-filament-pair-3d-printed-boots-1-75-mm-1-kg-960.webp?v=1725277266
     Price: €13.90 EUR
 - [Durable Petg Filament Stronger than Pla Filament](https://eolasprints.com/products/petg-filament): Eolas Prints PETG filament offers superior mechanical properties and printing ease, bridging the performance gap between PLA filament and ABS for professional use.
-  Updated: 2025-10-09T07:35:31Z
+  Updated: 2025-10-13T07:45:12Z
   Vendor: Eolas Prints
   Product Type: 3D Printer Filament
   Availability: Available
@@ -611,7 +611,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/petg-filament-spool-3d-printer-1-75-mm-250-g-natural-620.webp?v=1725009923
     Price: €147.02 EUR
 - [Tpu Flexible Filament 93a for 3d Printing](https://eolasprints.com/products/tpu-filament): Eolas Prints TPU Flex Filament 93A is a food-safe tpu flexible filament offering durability for printing flexible parts with a balance of strength and elasticity.
-  Updated: 2025-10-10T13:43:50Z
+  Updated: 2025-10-13T06:37:27Z
   Vendor: Eolas Prints
   Product Type: 3D Printer Filament
   Availability: Available
@@ -1283,7 +1283,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-d53-spool-black-3d-1-75-mm-1-kg-928.webp?v=1725528325
     Price: €38.50 EUR
 - [Antibacterial Matte Pla 3d Printer Filament](https://eolasprints.com/products/pla-antibacterial-filament): Eolas Prints PLA Antibacterial matte filament provides advanced antimicrobial surface protection. ISO certified, it is over 99.9% more hygienic than standard PLA.
-  Updated: 2025-10-06T11:17:21Z
+  Updated: 2025-10-13T00:42:41Z
   Vendor: Eolas Prints
   Product Type: 3D Printer Filament
   Availability: Available
@@ -1415,7 +1415,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/original-prusa-mini-semi-assembled-orange-black-3d-848.webp?v=1745446094
   Price: €549.00 EUR
 - [Premium Pla Neon Filament for Vibrant 3d Prints](https://eolasprints.com/products/pla-neon-filament): Eolas Prints premium PLA neon filament offers a vibrant, eye-catching finish for 3D printing. This high-quality material minimizes layer lines for smoother prints.
-  Updated: 2025-10-06T11:36:47Z
+  Updated: 2025-10-13T00:42:40Z
   Vendor: Eolas Prints
   Product Type: 3D Printer Filament
   Availability: Available
