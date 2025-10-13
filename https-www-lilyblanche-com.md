@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-10-13T16:00:47.374Z
+- Updated At: 2025-10-13T20:00:47.981Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -792,7 +792,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_f0230542-bb42-4c13-9de9-537ebec86ac3.jpg?v=1741874848
   Price: £110.00 GBP
 - [Silver Baby Rattle Perfect New Baby Gift Heirloom Quality](https://www.lilyblanche.com/products/silver-baby-rattle): The perfect Christening, baptism, baby naming or new baby gift, our solid silver Vintage Baby Rattle is an heirloom gift which can be engraved with baby's name. Hallmarked in the UK. Order today with free shipping
-  Updated: 2025-10-08T20:03:41Z
+  Updated: 2025-10-13T16:39:01Z
   Vendor: Lily Blanche
   Product Type: Rattle
   Availability: Available
@@ -15728,7 +15728,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_892d66ff-d56a-4be7-ba20-89281ad4bba3.jpg?v=1741884250
   Price: £90.00 GBP
 - [2 Photo Diamond Heart Locket Silver + Photos](https://www.lilyblanche.com/products/2-photo-diamond-heart-locket-silver): Handcrafted in premium sterling silver & featuring a genuine diamond, this bestselling locket holds two photos, letting you keep loved ones close. Choice of chain lengths. Free care kit
-  Updated: 2025-10-12T09:47:05Z
+  Updated: 2025-10-13T18:26:46Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -16847,7 +16847,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £250.00 GBP
 - [Gorgeous Diamond Heart Lockets With Photos & Engraving](https://www.lilyblanche.com/products/2-photo-diamond-heart-locket-gold): Our 2-photo diamond heart locket makes the ideal gift. Crafted from 18-carat gold vermeil, the locket keeps loved ones close. Purchase online for free photos.
-  Updated: 2025-10-13T10:34:00Z
+  Updated: 2025-10-13T16:04:18Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -16955,7 +16955,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £140.00 GBP
 - [Men's Heavy Sterling Silver Cross Necklace - Premium Craftsmanship](https://www.lilyblanche.com/products/mens-silver-cross-necklace): Men's heavy sterling silver cross necklace. Handcrafted heirloom quality, 44mm pendant with choice of chains. UK made. Free delivery, gift wrap & care kit. £145
-  Updated: 2025-10-12T23:07:10Z
+  Updated: 2025-10-13T18:37:26Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -22827,7 +22827,7 @@ From £190.
     Availability: Available
     Price: £240.00 GBP
 - [Men's Heavy Gold Cross Necklace – Strong, Stylish & Durable](https://www.lilyblanche.com/products/mens-heavy-gold-cross-necklace): Expertly crafted men's heavy cross necklace in 18-carat gold vermeil. High-quality, precision design, & lasting durability. A bold & timeless statement piece.
-  Updated: 2025-10-12T15:59:45Z
+  Updated: 2025-10-13T18:50:45Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -23274,7 +23274,7 @@ From £129
     Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/files/white_gold_initial_necklace_Q.webp?v=1755082435
     Price: £145.00 GBP
 - [Men's Extra Large Sterling Silver Cross Necklace | XL Bold Statement Cross](https://www.lilyblanche.com/products/mens-heavy-xl-silver-cross-necklace): Make a bold statement with our extra-large sterling silver cross necklace for men. Handcrafted from solid sterling silver, this premium XL pendant (67mm x 35mm) is our largest men's cross, designed for a powerful and striking look.
-  Updated: 2025-10-13T15:59:50Z
+  Updated: 2025-10-13T17:03:29Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -24740,8 +24740,8 @@ From £129
   Updated: 2025-03-26T11:37:00Z
 - [Personalisation - Engraving and photo service for jewellery](https://www.lilyblanche.com/pages/personalisation): Make it personal with our in-house specialist photo & engraving team Have you ever wondered how to resize your photos for a locket? Lockets come in...
   Updated: 2025-09-22T17:51:40Z
-- [Our Jewellery Materials & Craftsmanship | Silver & Gold.  What Is Vermeil?](https://www.lilyblanche.com/pages/our-materials): OUR MATERIALS & CRAFTSMANSHIP THE PRICE OF GOLD The gold price has reached multiple record highs in 2025, most recently peaking on October 7 2025, ...
-  Updated: 2025-10-08T13:39:15Z
+- [Our Jewellery Materials & Craftsmanship | Silver & Gold.  What Is Vermeil?](https://www.lilyblanche.com/pages/our-materials): OUR MATERIALS & CRAFTSMANSHIP THE PRICE OF GOLD The gold price has reached multiple record highs in 2025, most recently peaking on October 13 2025,...
+  Updated: 2025-10-13T16:49:31Z
 - [Discover The Lily Blanche  Hallmark - Mark Of Quality](https://www.lilyblanche.com/pages/our-hallmark): What Is Hallmarking? Hallmarking in Britain dates back to 1300 and the reign of Edward I. A hallmark is a set of component marks or icons which is ...
   Updated: 2025-04-03T12:52:34Z
 - [What Is A Locket Necklace? Everything you need to know about Lockets](https://www.lilyblanche.com/pages/what-is-a-locket-necklace): Everything You Need To Know About Lockets. You may be wondering what is a locket necklace? A locket necklace is a pendant or charm which opens up t...
