@@ -10,7 +10,7 @@
 - Contact Email: support@eolasprints.com
 - Contact Phone: +34-942735955
 - Address: Parque Empresarial Besaya D14, Reocín 39538, Cantabria, Spain
-- Updated At: 2025-10-13T12:00:34.771Z
+- Updated At: 2025-10-13T20:00:34.834Z
 
 Welcome to Eolas Prints - Your Trusted 3D Printing & Digital Fabrication Partner
 
@@ -301,7 +301,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/pla-filament-1-75-mm-spool-white-3d-250-g-329.webp?v=1724892336
     Price: €117.50 EUR
 - [Pla Filament 2.85 Mm Datasheet Download](https://eolasprints.com/products/pla-filament-2-85-mm): Eolas Prints premium 2.85mm PLA filament in over 20 vibrant colors provides exceptional detail for 3D printing. An eco-friendly and easy-to-use material.
-  Updated: 2025-10-08T12:12:47Z
+  Updated: 2025-10-13T17:58:42Z
   Vendor: Eolas Prints
   Product Type: 3D Printer Filament
   Availability: Available
@@ -1261,7 +1261,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/flashforge-adventurer-5m-3d-printer-digital-379.webp?v=1759097305
   Price: €299.00 EUR
 - [Tpu Flex Filament D53 for Creating Flexible Parts](https://eolasprints.com/products/tpu-flex-filament-shore-d53): Eolas Prints TPU Flex Filament - D53 offers superior performance and ease of use for creating flexible parts, from prototypes to functional end-use components.
-  Updated: 2025-10-10T09:19:12Z
+  Updated: 2025-10-13T15:46:17Z
   Vendor: Eolas Prints
   Product Type: 3D Printer Filament
   Availability: Available
