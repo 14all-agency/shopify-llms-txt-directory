@@ -37,7 +37,7 @@ Primary Languages: English, German, Ukrainian, Dutch, French, Denmark
 Taglines:
 Modern engagement rings with ethical sparkle.
 
-- Updated At: 2025-10-12T20:00:34.016Z
+- Updated At: 2025-10-13T16:00:35.253Z
 
 Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced engagement rings and fine jewelry. We specialize in premium moissanite and lab-grown diamonds, offering a modern, sustainable choice for the stylish couple. Our commitment to exceptional craftsmanship ensures that each piece sparkles with brilliance and elegance. Explore our curated collection, where every ring tells a story of love, quality, and timeless beauty.
 
@@ -11038,7 +11038,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Availability: Available
     Price: €1,495.00 EUR
 - [The Eira 3CT Moissanite or Lab Diamond Bridal Set - Chantal Vaulet](https://www.chantalvaulet.com/products/the-eira-set): The Eira Bridal Set features a 3CT round center stone with 3mm side stones and a perfectly matched pavé wedding band. Available in moissanite or lab diamond, set in rose gold.
-  Updated: 2025-10-12T16:25:43Z
+  Updated: 2025-10-13T04:01:42Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
@@ -11206,31 +11206,31 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
   Updated: 2025-10-10T18:40:55Z
   Total Products: 22
 - [✨ Stunning Moissanite Necklaces Collection 💎](https://www.chantalvaulet.com/collections/necklaces): Explore our exquisite Moissanite necklaces collection. Perfect elegance for every occasion! ✨
-  Updated: 2025-10-12T18:56:04Z
+  Updated: 2025-10-12T20:56:23Z
   Total Products: 39
 - [Stunning Bracelets Collection 💎✨](https://www.chantalvaulet.com/collections/bracelets): Discover exquisite bracelets in moissanite, silver & gold! Elevate your style with our stunning collection! 💖
   Updated: 2025-09-28T19:28:43Z
   Total Products: 11
 - [Best Sellers Collection - Top Rated Products](https://www.chantalvaulet.com/collections/best-sellers): Explore our Best Sellers Collection featuring top-rated products that customers love! Discover what’s trending and shop now.
-  Updated: 2025-10-12T18:56:04Z
+  Updated: 2025-10-12T20:56:23Z
   Total Products: 202
 - [925 Sterling Silver Collection](https://www.chantalvaulet.com/collections/silver-925): Explore our exquisite 925 sterling silver jewelry collection, featuring timeless designs.
-  Updated: 2025-10-12T18:56:04Z
+  Updated: 2025-10-12T20:56:23Z
   Total Products: 186
 - [✨ White Gold Collection: Stunning Jewelry Pieces ✨](https://www.chantalvaulet.com/collections/white-gold): Explore our White Gold Collection featuring exquisite moissanite jewelry. Perfect for any occasion! 💍💖
-  Updated: 2025-10-10T21:26:54Z
-  Total Products: 8
+  Updated: 2025-10-12T21:02:00Z
+  Total Products: 9
 - [Yellow Gold Collection 💛 | Stunning 14k Gold & Moissanite](https://www.chantalvaulet.com/collections/yellow-gold): Explore our Yellow Gold Collection featuring exquisite 14k gold, Moissanite gems, and radiant diamonds! ✨💎
   Updated: 2025-10-11T08:07:27Z
   Total Products: 6
 - [✨ Moissanite & Silver Treasures: €50-€150 Collection 💎](https://www.chantalvaulet.com/collections/price-between-50-eur-and-100-eur): Discover stunning Moissanite and silver pieces priced between 50 and 150 euro! Elevate your style with elegant jewelry! 💖
-  Updated: 2025-10-12T18:56:04Z
+  Updated: 2025-10-12T20:56:23Z
   Total Products: 168
 - [Jewelry Collection Above €150 | Moissanite, Gold, Diamonds](https://www.chantalvaulet.com/collections/above-150): Explore our exquisite collection of jewelry above €150 featuring stunning moissanite, gold, and diamond pieces.
-  Updated: 2025-10-12T15:44:59Z
-  Total Products: 25
+  Updated: 2025-10-12T21:02:00Z
+  Total Products: 26
 - [Explore All Products: Jewelry, Moissanite, Diamonds ✨💎](https://www.chantalvaulet.com/collections/all-products): Shop our stunning selection of all products, including moissanite, diamonds, and gold jewelry! 💖
-  Updated: 2025-10-12T18:56:04Z
+  Updated: 2025-10-12T20:56:23Z
   Total Products: 202
 - [Lab-Grown Diamond Engagement Rings | Chantal Vaulet](https://www.chantalvaulet.com/collections/lab-grown-engagement-rings): Shop lab-grown diamond engagement rings—ethical, brilliant, and responsibly priced. Styles: solitaire, halo, oval, pear, emerald & more. Free delivery
   Updated: 2025-10-12T15:44:59Z
@@ -11242,8 +11242,8 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
   Updated: 2025-09-28T19:28:44Z
   Total Products: 3
 - [Gold Collection - Exclusive Jewelry Pieces](https://www.chantalvaulet.com/collections/gold): Explore our stunning Gold Collection featuring exquisite designs and timeless pieces perfect for any occasion.
-  Updated: 2025-10-11T08:07:27Z
-  Total Products: 14
+  Updated: 2025-10-12T21:02:00Z
+  Total Products: 15
 - [Engagement Rings – Lab-Grown Diamonds & Moissanite | Chantal Vaulet](https://www.chantalvaulet.com/collections/engagement-rings): Shop engagement rings in lab-grown diamond or moissanite, solitaire, halo, oval & custom. Ethical, budget-friendly. Free shipping
   Updated: 2025-10-12T15:44:59Z
   Total Products: 110
@@ -11260,7 +11260,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
   Updated: 2025-10-10T16:59:29Z
   Total Products: 11
 - [Round Engagement Rings — Lab-Grown & Moissanite | Chantal Vaulet](https://www.chantalvaulet.com/collections/round-engagement-rings): Shop round engagement rings in lab-grown diamond & moissanite. Classic solitaire, halo & pavé designs in gold, platinum or silver. Free shipping
-  Updated: 2025-10-12T18:56:04Z
+  Updated: 2025-10-12T20:56:23Z
   Total Products: 151
 - [Emerald-Cut Engagement Rings — Lab-Grown & Moissanite | Chantal Vaulet](https://www.chantalvaulet.com/collections/emerald-cut-engagement-rings): Shop emerald-cut engagement rings in lab-grown diamond and moissanite—solitaire, three-stone, halo & vintage-inspired. Ethical sparkle, great value. Free shipping
   Updated: 2025-10-10T17:55:37Z
