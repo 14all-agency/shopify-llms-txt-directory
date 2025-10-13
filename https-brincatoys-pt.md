@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-10-13T08:01:09.539Z
+- Updated At: 2025-10-13T12:01:10.718Z
 
 ## Products
 
@@ -1730,7 +1730,7 @@ melhor amiga, não vai participar e está só a ajudar! Cavalo de plástico e
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/figura-de-borracha-disney-cinderela-para-brincar-621259922-princesas-disney-1195031833.jpg?v=1759060807
   Price: 9,00 € EUR
 - [Cinderela](https://brincatoys.pt/products/cinderela-1): Figura em borracha termoplástica do filme Cinderela.Figura com aproximadamente 11,7 cm.
-  Updated: 2025-10-13T06:33:47Z
+  Updated: 2025-10-13T11:06:44Z
   Vendor: Princesas Disney
   Product Type: + 3 anos
   Availability: Available
@@ -10944,7 +10944,7 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/conjunto-5-figuras-rapunzel-775534123-princesas-disney-1178696186.jpg?v=1752888617
   Price: 22,99 € EUR
 - [Water Magic Unicórnios](https://brincatoys.pt/products/water-magic-unicornios): Water Magic Unicórnios contém 6 desenhos reutilizáveis ​​para colorir com hidrocor. Encha o marcador com água e use-o para descobrir os desenhos ocultos. As cores aparecem como num passe de mágica, repetidas vezes. Ideal para viagens. Desenvolve a criatividade dos mais pequenos. Dimensão: 14,50 x 26,50 x 1 cm.Idade Recomendada: + de 3 anos.
-  Updated: 2025-10-13T06:24:35Z
+  Updated: 2025-10-13T08:37:00Z
   Vendor: Seleção Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -15039,8 +15039,8 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-ninjago-71809-egalt-o-mestre-dragao-conjunto-epico-667180924-5702017584539-lego-1178698509.jpg?v=1752927963
   Price: 69,90 € EUR
-- [Cartão-presente](https://brincatoys.pt/products/cartao-presente): Um Cartão Presente é uma óptima forma de oferecer presentes, deixando a escolha dos produtos a quem os vai receber.O cartão Presente BRINCATOYS consiste num voucher enviado por e-mail ao cliente ou destinatário, no valor previamente selecionado, o qual poderá ser utilizado, até ao limite do saldo existente, na realização de uma ou mais compras em www.brincatoys.pt. Este voucher é válido a partir do momento que é emitido e não expira. O Cartão Presente funciona da seguinte forma: 1º Selecciona um valor pré-existente e adiciona ao cesto de compras. 2º Caso pretenda enviar por e-mail para um terceiro, preenche o formulário com o endereço electrónico (e-mail) do destinatário, podendo, opcionalmente, elaborar um texto de felicitações e identificar o destinatário. 3º Indica a data de envio do cartão presente. 4º Depois de adicionado ao cesto de compras e ao finalizar a encomenda, se não for cliente registado, procede ao seu registo prévio. 5º Seguidamente, preenche os dados de facturação e procede ao pagamento. 6º Após o processamento da encomenda, o destinatário e remetente receberão, no respectivo e-mail, um Voucher referente ao Cartão Presente adquirido. 7º Caso o destinatário do e-mail seja apenas o comprador/cliente poderá, querendo, oferecer o cartão presente reencaminhando ou imprimindo o e-mail. 8º Quem receber o Voucher Cartão Presente faz uma compra em www.brincatoys.pt, e na finalização da mesma insere o código que consta no Voucher, no campo do cartão presente, de forma a utilizar total ou parcialmente, o valor do cartão presente. 9º Esse código é válido no check-out da loja podendo ser utilizado em diversas compras individuais até se esgotar o saldo existente. 10º Se o valor da compra exceder o crédito disponível no Voucher Cartão Presente, o cliente pagará o valor excedente com um método de pagamento à sua escolha, aceite em www.brincatoys.pt. 11º O saldo do Cartão presente pode ser consultado no campo apresentado no e-mail recebido ou, no caso de ser portador de Apple Wallet, adicionado e visualizado nessa aplicação. 12º O Cartão Presente BRINCATOYS não pode ser trocado por dinheiro, revendido, reembolsado, mesmo parcialmente, ou creditado num cartão ou conta bancária e é apenas válido para compras on-line em www.brincatoys.pt. A BRINCATOYS não se responsabiliza pela perda, roubo, extravio, danificação, destruição ou uso sem permissão do Voucher Cartão Presente. O mesmo não será substituído em nenhuma circunstância.
-  Updated: 2025-10-13T06:20:21Z
+- [Cartão-oferta](https://brincatoys.pt/products/cartao-presente): Um Cartão Presente é uma óptima forma de oferecer presentes, deixando a escolha dos produtos a quem os vai receber.O cartão Presente BRINCATOYS consiste num voucher enviado por e-mail ao cliente ou destinatário, no valor previamente selecionado, o qual poderá ser utilizado, até ao limite do saldo existente, na realização de uma ou mais compras em www.brincatoys.pt. Este voucher é válido a partir do momento que é emitido e não expira. O Cartão Presente funciona da seguinte forma: 1º Selecciona um valor pré-existente e adiciona ao cesto de compras. 2º Caso pretenda enviar por e-mail para um terceiro, preenche o formulário com o endereço electrónico (e-mail) do destinatário, podendo, opcionalmente, elaborar um texto de felicitações e identificar o destinatário. 3º Indica a data de envio do cartão presente. 4º Depois de adicionado ao cesto de compras e ao finalizar a encomenda, se não for cliente registado, procede ao seu registo prévio. 5º Seguidamente, preenche os dados de facturação e procede ao pagamento. 6º Após o processamento da encomenda, o destinatário e remetente receberão, no respectivo e-mail, um Voucher referente ao Cartão Presente adquirido. 7º Caso o destinatário do e-mail seja apenas o comprador/cliente poderá, querendo, oferecer o cartão presente reencaminhando ou imprimindo o e-mail. 8º Quem receber o Voucher Cartão Presente faz uma compra em www.brincatoys.pt, e na finalização da mesma insere o código que consta no Voucher, no campo do cartão presente, de forma a utilizar total ou parcialmente, o valor do cartão presente. 9º Esse código é válido no check-out da loja podendo ser utilizado em diversas compras individuais até se esgotar o saldo existente. 10º Se o valor da compra exceder o crédito disponível no Voucher Cartão Presente, o cliente pagará o valor excedente com um método de pagamento à sua escolha, aceite em www.brincatoys.pt. 11º O saldo do Cartão presente pode ser consultado no campo apresentado no e-mail recebido ou, no caso de ser portador de Apple Wallet, adicionado e visualizado nessa aplicação. 12º O Cartão Presente BRINCATOYS não pode ser trocado por dinheiro, revendido, reembolsado, mesmo parcialmente, ou creditado num cartão ou conta bancária e é apenas válido para compras on-line em www.brincatoys.pt. A BRINCATOYS não se responsabiliza pela perda, roubo, extravio, danificação, destruição ou uso sem permissão do Voucher Cartão Presente. O mesmo não será substituído em nenhuma circunstância.
+  Updated: 2025-10-13T09:31:30Z
   Vendor: Seleção Brincatoys
   Product Type: 
   Availability: Available
@@ -16806,21 +16806,21 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/minifiguras-colecionaveis-one-piece-7-cm-233952724-810087215293-brincatoys-1178700028.jpg?v=1752949689
   Price: 10,00 € EUR
 - [Design & Shine - Pulseiras Doce para Crianças](https://brincatoys.pt/products/design-shine-pulseiras-doce): Impulsione a criatividade infantil com Design & Shine - Pulseiras Doce. O conjunto de pulseiras para crianças que incentiva habilidades manuais.
-  Updated: 2025-10-13T06:18:16Z
+  Updated: 2025-10-13T08:21:49Z
   Vendor: Seleção Brincatoys
   Product Type: + 6 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/design-shine-pulseiras-doce-para-criancas-392821024-8714274028210-brincatoys-1178700040.jpg?v=1752949924
   Price: 14,99 € EUR
 - [Design & Shine - Pulseiras brilhantes para Crianças](https://brincatoys.pt/products/design-shine-pulseiras-brilhantes): Impulsione a criatividade infantil com Design & Shine - Pulseiras brilhantes. O conjunto de pulseiras para crianças que incentiva habilidades manuais.
-  Updated: 2025-10-13T06:18:16Z
+  Updated: 2025-10-13T08:21:34Z
   Vendor: Seleção Brincatoys
   Product Type: + 6 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/design-shine-pulseiras-brilhantes-para-criancas-392823424-8714274028234-brincatoys-1178700044.jpg?v=1752949935
   Price: 14,99 € EUR
 - [conjunto Creativity - Pulseiras Letras para Crianças](https://brincatoys.pt/products/conjunto-creativity-pulseiras-letras): Impulsione a criatividade infantil com o conjunto Creativity - Pulseiras Letras. O conjunto de pulseiras para crianças que incentiva habilidades manuais.
-  Updated: 2025-10-13T06:18:15Z
+  Updated: 2025-10-13T08:21:10Z
   Vendor: Seleção Brincatoys
   Product Type: + 4 anos
   Availability: Available
@@ -17772,7 +17772,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-star-wars-75376-tantive-iv-aventura-galactica-em-lego-667537624-5702017584355-lego-1178700768.jpg?v=1752960962
   Price: 79,99 € EUR
 - [LEGO Star Wars 75378 - Fuga de BARC Speeder](https://brincatoys.pt/products/lego-star-wars-fuga-de-barc-speeder): Viaje até o universo de Star Wars com o LEGO Star Wars 75378 - Fuga de BARC Speeder. Construa o impressionante BARC Speeder e tenha horas de diversão.
-  Updated: 2025-10-13T06:17:08Z
+  Updated: 2025-10-13T09:11:16Z
   Vendor: LEGO
   Product Type: + 8 anos
   Availability: Available
@@ -18675,14 +18675,14 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/jogo-de-tabuleiro-party-co-family-inesquecivel-81011925-8410446101193-brincatoys-1178695942.jpg?v=1752883461
   Price: 34,90 € EUR
 - [kit Pulseiras da Amizade para crianças: Criatividade e Partilha](https://brincatoys.pt/products/kit-pulseiras-da-amizade-para-criancas): Deixe a criatividade fluir com o Kit de Pulseiras da Amizade para Crianças. Dezenas de cores, missangas e autocolantes para criar acessórios únicos! 😍
-  Updated: 2025-10-13T06:16:03Z
+  Updated: 2025-10-13T08:33:47Z
   Vendor: Seleção Brincatoys
   Product Type: + 7 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/kit-pulseiras-da-amizade-para-criancas-criatividade-e-partilha-80439325-5011979565785-brincatoys-1178701433.jpg?v=1752971172
   Price: 10,90 € EUR
 - [Kit de Pulseiras Brilhantes para Crianças: Moda e Brilho Divertido](https://brincatoys.pt/products/pulseiras-brilhantes-para-criancas): O Kit de Pulseiras Brilhantes para Crianças é a escolha perfeita para festas e brincadeiras com amigos. Presenteie criatividade e diversão!
-  Updated: 2025-10-13T06:16:02Z
+  Updated: 2025-10-13T08:34:29Z
   Vendor: Seleção Brincatoys
   Product Type: + 5 anos
   Availability: Available
@@ -18710,7 +18710,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/jogo-lectron-temas-educativos-aprender-de-forma-divertida-86382825-8410446638286-brincatoys-1178701449.jpg?v=1752971298
   Price: 18,90 € EUR
 - [Kit de Pulseiras Divertidas para Crianças: Diversão Garantida](https://brincatoys.pt/products/kit-de-pulseiras-divertidas-para-criancas): Crie pulseiras e colares únicos com o Kit de Pulseiras Divertidas para Crianças. Mais de 200 missangas e 10 pingentes divertidos para horas de diversão! 💫
-  Updated: 2025-10-13T06:16:00Z
+  Updated: 2025-10-13T08:34:08Z
   Vendor: Seleção Brincatoys
   Product Type: + 5 anos
   Availability: Available
@@ -19501,7 +19501,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/tartarugas-ninja-shouts-michelangelo-com-som-iconico-233874925-043377833536-tartarugas-ninja-1178701982.jpg?v=1752780131
   Price: 22,99 € EUR
 - [Tartarugas Ninja Shouts - Donatello: Figura Interativa](https://brincatoys.pt/products/tartarugas-ninja-shouts-donatello): Entre no mundo das Tartarugas Ninja com a figura interativa Tartarugas Ninja Shouts - Donatello! Descubra sons icónicos e aventuras épicas. 🔥
-  Updated: 2025-10-13T06:15:08Z
+  Updated: 2025-10-13T11:06:41Z
   Vendor: Tartarugas Ninja
   Product Type: + 4 anos
   Availability: Available
@@ -19564,7 +19564,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/tartarugas-ninja-mutant-mayhen-leonardo-acao-e-heroismo-233873625-043377832812-tartarugas-ninja-1178702018.jpg?v=1752780006
   Price: 19,99 € EUR
 - [Tartarugas Ninja Mutant Mayhen - Raphael: Ação e Detalhes](https://brincatoys.pt/products/tartarugas-ninja-mutant-mayhen-raphael): Desperte a imaginação da sua criança com a figura de ação Tartarugas Ninja Mutant Mayhen - Raphael! Pose feroz e detalhes incríveis esperam por você!
-  Updated: 2025-10-13T06:15:05Z
+  Updated: 2025-10-13T09:58:25Z
   Vendor: Tartarugas Ninja
   Product Type: + 4 anos
   Availability: Available
@@ -19956,14 +19956,14 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/tartarugas-ninja-mutant-mayhen-splinter-233874125-0043377832867-tartarugas-ninja-1178692501.jpg?v=1752821541
   Price: 19,99 € EUR
 - [Tartarugas Ninja Mutant Mayhen - Superfly](https://brincatoys.pt/products/tartarugas-ninja-mutant-mayhen-superfly): A figura Superfly Fly Guy da linha Teenage Mutant Ninja Turtles Mutant Mayhem traz toda a ousadia de um vilão mutante para a coleção de fãs e miúdos a partir dos 4 anos. Primeiramente, com escultura detalhada em PVC resistente, apresenta corpo texturizado em azul vibrante e olhos facetados em vermelho, recriando fielmente o visual do insecto mutante. Além disso, as asas translúcidas conferem dinamismo e realismo durante as brincadeiras. Ademais, para além do design arrojado, Superfly mede cerca de 10 cm de altura e dispõe de 12 pontos de articulação, o que permite criar poses de voo, ataque ou perseguição pelas ruas de Nova Iorque. Além disso, as mãos articuladas encaixam perfeitamente seis acessórios: um blaster futurista, lança-agulhas, granada tóxica, metralhadora leve, faca de lâmina dupla e bastão extensível. Dessa forma, a imaginação corre solta enquanto se encaixam armas e recriam-se cenas de confronto com as Tartarugas Ninja. Por outro lado, além de incentivar a criatividade, esta figura cumpre rigorosos padrões de segurança CE. Portanto, quer procure um brinquedo duradouro para brincadeiras diárias, quer deseje um item de valor para a sua vitrine, a figura Superfly Fly Guy garante robustez, versatilidade e autenticidade. Com ela, cada batalha contra o mal torna-se épica, enquanto se estimulam competências motoras finas e a coordenação mão-olho. Em suma... Altura: 10 cm (4”); 12 pontos de articulação Material: PVC resistente com pintura detalhada Acessórios: armas intercambiáveis (blaster, lança-agulhas, granada, metralhadora, faca, bastão) Dimensão: 19 x 21 x 5,50 cm.Idade recomendada: + de 4 anos.
-  Updated: 2025-10-13T06:14:37Z
+  Updated: 2025-10-13T09:58:26Z
   Vendor: Tartarugas Ninja
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/tartarugas-ninja-mutant-mayhen-superfly-233874025-0043377832874-tartarugas-ninja-1178692493.jpg?v=1752823323
   Price: 19,99 € EUR
 - [Tartarugas Ninja Mutant Mayhen - Bebop](https://brincatoys.pt/products/tartarugas-ninja-mutant-mayhen-bebop): A figura Bebop da coleção Teenage Mutant Ninja Turtles Mutant Mayhem traz toda a energia e irreverência de um dos vilões mais icónicos da série diretamente para as mãos dos fãs. Em primeiro lugar, com design autêntico, inspirado no filme de animação Mutant Mayhem, apresenta pintura vibrante e escultura rica em detalhes que capturam as tatuagens, a jaqueta rasgada e o moicano rosa de Bebop. Além disso, cada peça é produzida em plástico PVC resistente, garantindo durabilidade para horas de brincadeira. Por outro lado, para maximizar a interatividade, a figura mede 11,5 cm e dispõe de 12 pontos de articulação, permitindo recriar poses de ação e cenas épicas de combate contra as Tartarugas Ninja. Além disso, inclui um conjunto de acessórios — entre eles uma arma principal com efeito de perfuração, faca, machado e bastão — todos compatíveis com os encaixes dos punhos de Bebop. Assim, as crianças podem explorar a criatividade ao montar diferentes cenários de luta. Portanto, quer procure um brinquedo robusto para brincadeiras diárias quer um item de colecionador, a figura Bebop Mutant Mayhem satisfaz ambos os desejos. Por fim, complemente a sua coleção de Tartarugas Ninja com este vilão ameaçador, estimule a motricidade fina e mergulhe num universo de combate e aventura em Nova York! Em suma... Medidas: 11,5 cm e 12 pontos de articulação Material: plástico PVC resistente, acabamento detalhado Acessórios: armas metálicas intercambiáveis Dimensão: 19 x 21 x 5,50 cm.Idade recomendada: + de 4 anos.
-  Updated: 2025-10-13T06:14:36Z
+  Updated: 2025-10-13T09:58:25Z
   Vendor: Tartarugas Ninja
   Product Type: + 4 anos
   Availability: Available
@@ -21186,13 +21186,13 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-30T11:52:07Z
   Total Products: 38
 - [Figuras de ação](https://brincatoys.pt/collections/figuras-de-acao)
-  Updated: 2025-10-11T11:20:00Z
+  Updated: 2025-10-13T11:22:28Z
   Total Products: 564
 - [Instrumentos musicais](https://brincatoys.pt/collections/instrumentos-musicais)
   Updated: 2025-10-05T15:27:18Z
   Total Products: 28
 - [Jogos educativos e de tabuleiro](https://brincatoys.pt/collections/jogos-educativos-e-de-tabuleiro)
-  Updated: 2025-10-09T15:34:31Z
+  Updated: 2025-10-13T11:22:28Z
   Total Products: 182
 - [Lego City](https://brincatoys.pt/collections/lego-city): Explora o mundo vibrante de LEGO® City onde há muito para fazer. Vai até à baixa da cidade, encena histórias emocionantes com os serviços de urgência e descobre as novas fronteiras, dos oceanos ao espaço. Constrói veículos fantásticos, viaja de comboio ou organiza incríveis espetáculos de acrobacias.
   Updated: 2025-10-06T16:42:49Z
@@ -21264,7 +21264,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-06T18:30:00Z
   Total Products: 98
 - [Bonecas](https://brincatoys.pt/collections/bonecas)
-  Updated: 2025-10-09T22:42:40Z
+  Updated: 2025-10-13T11:22:28Z
   Total Products: 238
 - [Bonecas clássicas](https://brincatoys.pt/collections/bonecas-classicas)
   Updated: 2025-10-06T19:06:40Z
@@ -21327,10 +21327,10 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-11T11:20:00Z
   Total Products: 1565
 - [4 - 5 anos](https://brincatoys.pt/collections/4-5-anos)
-  Updated: 2025-10-11T11:20:00Z
+  Updated: 2025-10-13T11:22:28Z
   Total Products: 700
 - [8 - 10 anos](https://brincatoys.pt/collections/8-10-anos)
-  Updated: 2025-10-10T11:21:00Z
+  Updated: 2025-10-13T11:22:28Z
   Total Products: 318
 - [+ 3 meses](https://brincatoys.pt/collections/3-meses)
   Updated: 2025-10-03T13:38:28Z
@@ -21345,25 +21345,25 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-12T12:25:16Z
   Total Products: 1299
 - [Até €25](https://brincatoys.pt/collections/ate-25)
-  Updated: 2025-10-12T12:25:16Z
+  Updated: 2025-10-13T11:22:28Z
   Total Products: 2401
 - [Até €35](https://brincatoys.pt/collections/ate-35)
-  Updated: 2025-10-12T12:25:16Z
+  Updated: 2025-10-13T11:22:28Z
   Total Products: 2864
 - [Até €50](https://brincatoys.pt/collections/ate-50)
-  Updated: 2025-10-12T12:25:16Z
+  Updated: 2025-10-13T11:22:28Z
   Total Products: 3245
 - [Até €60](https://brincatoys.pt/collections/ate-60)
-  Updated: 2025-10-12T12:25:16Z
+  Updated: 2025-10-13T11:22:28Z
   Total Products: 3381
 - [Até €80](https://brincatoys.pt/collections/ate-80)
-  Updated: 2025-10-12T12:25:16Z
+  Updated: 2025-10-13T11:22:28Z
   Total Products: 3460
 - [Até €100](https://brincatoys.pt/collections/ate-100)
-  Updated: 2025-10-12T12:25:16Z
+  Updated: 2025-10-13T11:22:28Z
   Total Products: 3509
 - [Novidades](https://brincatoys.pt/collections/novidades)
-  Updated: 2025-10-11T11:20:00Z
+  Updated: 2025-10-13T11:22:28Z
   Total Products: 387
 - [Outlet](https://brincatoys.pt/collections/outlet): Saldos válidos de 04/07/2025 a 26/12/2025, limitado ao stock existente e acumulável com outros descontos ou promoções.
   Updated: 2025-09-29T15:16:28Z
@@ -21432,7 +21432,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-05T16:51:43Z
   Total Products: 18
 - [Monopoly](https://brincatoys.pt/collections/monopoly)
-  Updated: 2025-10-06T11:23:20Z
+  Updated: 2025-10-13T11:22:28Z
   Total Products: 13
 - [Play-Doh](https://brincatoys.pt/collections/play-doh)
   Updated: 2025-10-05T15:18:37Z
@@ -21489,7 +21489,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-06T19:02:19Z
   Total Products: 4
 - [Monster High](https://brincatoys.pt/collections/monster-high)
-  Updated: 2025-10-09T22:42:40Z
+  Updated: 2025-10-13T11:22:28Z
   Total Products: 40
 - [Naruto](https://brincatoys.pt/collections/naruto)
   Updated: 2025-10-05T19:22:59Z
@@ -21543,7 +21543,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-08-26T21:33:40Z
   Total Products: 6
 - [Tartarugas Ninja](https://brincatoys.pt/collections/tartarugas-ninja)
-  Updated: 2025-10-11T11:20:00Z
+  Updated: 2025-10-13T11:22:28Z
   Total Products: 31
 - [Vet Squad](https://brincatoys.pt/collections/vet-squad)
   Updated: 2025-08-20T23:28:55Z
@@ -21552,10 +21552,10 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-06T17:09:21Z
   Total Products: 9
 - [Catálogo](https://brincatoys.pt/collections/all)
-  Updated: 2025-10-12T12:25:16Z
-  Total Products: 3542
+  Updated: 2025-10-13T11:22:28Z
+  Total Products: 3543
 - [6 - 7 anos](https://brincatoys.pt/collections/6-7-anos)
-  Updated: 2025-10-10T09:47:31Z
+  Updated: 2025-10-13T11:22:28Z
   Total Products: 287
 - [11 - 14 anos](https://brincatoys.pt/collections/11-14-anos)
   Updated: 2025-10-06T18:54:16Z
@@ -21567,19 +21567,19 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-12T12:25:16Z
   Total Products: 1213
 - [+ 4 anos](https://brincatoys.pt/collections/de-4-anos)
-  Updated: 2025-10-11T11:20:00Z
+  Updated: 2025-10-13T11:22:28Z
   Total Products: 492
 - [+ 5 anos](https://brincatoys.pt/collections/de-5-anos)
   Updated: 2025-10-08T09:28:56Z
   Total Products: 140
 - [+ 6 anos](https://brincatoys.pt/collections/6-anos)
-  Updated: 2025-10-09T11:22:38Z
+  Updated: 2025-10-13T11:22:28Z
   Total Products: 188
 - [+ 7 anos](https://brincatoys.pt/collections/7-anos)
   Updated: 2025-10-10T09:47:31Z
   Total Products: 77
 - [+ 8 anos](https://brincatoys.pt/collections/8-anos)
-  Updated: 2025-10-10T11:21:00Z
+  Updated: 2025-10-13T11:22:28Z
   Total Products: 217
 - [+ 12 anos](https://brincatoys.pt/collections/12-anos)
   Updated: 2025-10-05T15:16:44Z
@@ -21588,11 +21588,11 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-06T11:23:20Z
   Total Products: 83
 - [Os mais procurados](https://brincatoys.pt/collections/os-mais-populares)
-  Updated: 2025-10-12T12:25:16Z
-  Total Products: 3542
+  Updated: 2025-10-13T11:22:28Z
+  Total Products: 3543
 - [Recém-chegados](https://brincatoys.pt/collections/recem-chegados)
-  Updated: 2025-10-12T12:25:17Z
-  Total Products: 3542
+  Updated: 2025-10-13T11:22:28Z
+  Total Products: 3543
 - [Produtos em destaque](https://brincatoys.pt/collections/produtos-em-destaque)
   Updated: 2025-10-08T10:33:18Z
   Total Products: 23
@@ -21603,7 +21603,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-12T11:21:00Z
   Total Products: 6
 - [OrderlyEmails - Recommended Products](https://brincatoys.pt/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-10-12T14:58:35Z
+  Updated: 2025-10-13T11:22:28Z
   Total Products: 3064
 - [Girafa Sofia](https://brincatoys.pt/collections/girafa-sofia)
   Updated: 2025-10-03T13:37:25Z
@@ -21612,7 +21612,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-09T11:22:38Z
   Total Products: 126
 - [Marketplace](https://brincatoys.pt/collections/marketplace)
-  Updated: 2025-10-12T14:58:35Z
+  Updated: 2025-10-13T11:22:28Z
   Total Products: 3064
 - [EzConnector](https://brincatoys.pt/collections/ezconnector)
   Updated: 2025-10-10T10:55:59Z
