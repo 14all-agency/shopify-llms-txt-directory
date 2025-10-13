@@ -10,7 +10,7 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
 - Timezone: Europe/Brussels
 - Created At: 2025-05-21T21:01:24Z
 - Contact Email: info@newbro.be
-- Updated At: 2025-10-12T20:00:31.194Z
+- Updated At: 2025-10-13T00:00:33.212Z
 
 ## Products
 
@@ -123,136 +123,6 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/midden-oosten-islam-armband-18mm-kralenarmbanden-voor-geloof-612.webp?v=1755816707
     Price: € 9,05 EUR
-- [Serene chiffon hoofddoek – licht & comfortabel hijab](https://newbro.be/products/moslim-chiffon-hijab-hoofddoek): Ervaar ultiem comfort met de Serene Chiffon Hoofddoek. Licht, ademend, zacht & duurzaam. Ideaal als hijab, feestaccessoire of zomersjaal.
-  Updated: 2025-10-08T19:51:11Z
-  Vendor: BRO Webshop
-  Product Type: 1
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/moslim-chiffon-hijab-180-80-cm-licht-ademend-hoofddoek-voor-islam-442.webp?v=1755891053
-  - [1 - Havelock Blauw](https://newbro.be/products/moslim-chiffon-hijab-hoofddoek?variant=55399658226044)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/moslim-chiffon-hijab-180-80-cm-licht-ademend-hoofddoek-voor-islam-117.webp?v=1755891078
-    Price: € 10,00 EUR
-  - [2 - Rodeo Dust](https://newbro.be/products/moslim-chiffon-hijab-hoofddoek?variant=55399658586492)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/moslim-chiffon-hijab-180-80-cm-licht-ademend-hoofddoek-voor-islam-886.webp?v=1755891078
-    Price: € 10,00 EUR
-  - [3 - Wit](https://newbro.be/products/moslim-chiffon-hijab-hoofddoek?variant=55399658946940)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/moslim-chiffon-hijab-180-80-cm-licht-ademend-hoofddoek-voor-islam-626.webp?v=1755891053
-    Price: € 10,00 EUR
-  - [4 - Fontein Blauw](https://newbro.be/products/moslim-chiffon-hijab-hoofddoek?variant=55399659045244)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/moslim-chiffon-hijab-180-80-cm-licht-ademend-hoofddoek-voor-islam-716.webp?v=1755891053
-    Price: € 10,00 EUR
-  - [5 - Geiser](https://newbro.be/products/moslim-chiffon-hijab-hoofddoek?variant=55399659078012)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/moslim-chiffon-hijab-180-80-cm-licht-ademend-hoofddoek-voor-islam-557.webp?v=1755891053
-    Price: € 10,00 EUR
-  - [6 - Grijs Bruin](https://newbro.be/products/moslim-chiffon-hijab-hoofddoek?variant=55399659110780)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/moslim-chiffon-hijab-180-80-cm-licht-ademend-hoofddoek-voor-islam-403.webp?v=1755891053
-    Price: € 10,00 EUR
-  - [7 -Turks Roze](https://newbro.be/products/moslim-chiffon-hijab-hoofddoek?variant=55399659143548)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/moslim-chiffon-hijab-180-80-cm-licht-ademend-hoofddoek-voor-islam-121.webp?v=1755891078
-    Price: € 10,00 EUR
-  - [8 -  Briljant Roze](https://newbro.be/products/moslim-chiffon-hijab-hoofddoek?variant=55399659176316)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/moslim-chiffon-hijab-180-80-cm-licht-ademend-hoofddoek-voor-islam-715.webp?v=1755816883
-    Price: € 10,00 EUR
-  - [9 - Juniper](https://newbro.be/products/moslim-chiffon-hijab-hoofddoek?variant=55399659209084)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/moslim-chiffon-hijab-180-80-cm-licht-ademend-hoofddoek-voor-islam-962.webp?v=1755816888
-    Price: € 10,00 EUR
-  - [10 - Mystic](https://newbro.be/products/moslim-chiffon-hijab-hoofddoek?variant=55399658258812)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/moslim-chiffon-hijab-180-80-cm-licht-ademend-hoofddoek-voor-islam-442.webp?v=1755891053
-    Price: € 10,00 EUR
-  - [11 - Kastanje Roos](https://newbro.be/products/moslim-chiffon-hijab-hoofddoek?variant=55399658291580)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/moslim-chiffon-hijab-180-80-cm-licht-ademend-hoofddoek-voor-islam-733.webp?v=1755891078
-    Price: € 10,00 EUR
-  - [12 - Grijs Bruin](https://newbro.be/products/moslim-chiffon-hijab-hoofddoek?variant=55399658324348)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/moslim-chiffon-hijab-180-80-cm-licht-ademend-hoofddoek-voor-islam-987.webp?v=1755891078
-    Price: € 10,00 EUR
-  - [13 - Parel Roos](https://newbro.be/products/moslim-chiffon-hijab-hoofddoek?variant=55399658357116)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/moslim-chiffon-hijab-180-80-cm-licht-ademend-hoofddoek-voor-islam-957.webp?v=1755891078
-    Price: € 10,00 EUR
-  - [14 - Lola](https://newbro.be/products/moslim-chiffon-hijab-hoofddoek?variant=55399658389884)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/moslim-chiffon-hijab-180-80-cm-licht-ademend-hoofddoek-voor-islam-205.webp?v=1755891078
-    Price: € 10,00 EUR
-  - [15 - Roze](https://newbro.be/products/moslim-chiffon-hijab-hoofddoek?variant=55399658422652)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/moslim-chiffon-hijab-180-80-cm-licht-ademend-hoofddoek-voor-islam-608.webp?v=1755891078
-    Price: € 10,00 EUR
-  - [16 - Schemering](https://newbro.be/products/moslim-chiffon-hijab-hoofddoek?variant=55399658455420)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/moslim-chiffon-hijab-180-80-cm-licht-ademend-hoofddoek-voor-islam-699.webp?v=1755891078
-    Price: € 10,00 EUR
-  - [17 - Granaatappel](https://newbro.be/products/moslim-chiffon-hijab-hoofddoek?variant=55399658488188)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/moslim-chiffon-hijab-180-80-cm-licht-ademend-hoofddoek-voor-islam-343.webp?v=1755891078
-    Price: € 10,00 EUR
-  - [18 - Fiord](https://newbro.be/products/moslim-chiffon-hijab-hoofddoek?variant=55399658520956)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/moslim-chiffon-hijab-180-80-cm-licht-ademend-hoofddoek-voor-islam-277.webp?v=1755891078
-    Price: € 10,00 EUR
-  - [19 - Neptunus](https://newbro.be/products/moslim-chiffon-hijab-hoofddoek?variant=55399658553724)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/moslim-chiffon-hijab-180-80-cm-licht-ademend-hoofddoek-voor-islam-262.webp?v=1755891078
-    Price: € 10,00 EUR
-  - [20 - Trendy Pink](https://newbro.be/products/moslim-chiffon-hijab-hoofddoek?variant=55399658619260)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/moslim-chiffon-hijab-180-80-cm-licht-ademend-hoofddoek-voor-islam-884.webp?v=1755891078
-    Price: € 10,00 EUR
-  - [21 - Zeekoe](https://newbro.be/products/moslim-chiffon-hijab-hoofddoek?variant=55399658652028)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/moslim-chiffon-hijab-180-80-cm-licht-ademend-hoofddoek-voor-islam-598.webp?v=1755891078
-    Price: € 10,00 EUR
-  - [22 - Disco](https://newbro.be/products/moslim-chiffon-hijab-hoofddoek?variant=55399658684796)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/moslim-chiffon-hijab-180-80-cm-licht-ademend-hoofddoek-voor-islam-721.webp?v=1755891078
-    Price: € 10,00 EUR
-  - [23 - Del Rio](https://newbro.be/products/moslim-chiffon-hijab-hoofddoek?variant=55399658717564)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/moslim-chiffon-hijab-180-80-cm-licht-ademend-hoofddoek-voor-islam-264.webp?v=1755891078
-    Price: € 10,00 EUR
-  - [24 - Siam Groen](https://newbro.be/products/moslim-chiffon-hijab-hoofddoek?variant=55399658750332)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/moslim-chiffon-hijab-180-80-cm-licht-ademend-hoofddoek-voor-islam-355.webp?v=1755891078
-    Price: € 10,00 EUR
-  - [25 - Koffie](https://newbro.be/products/moslim-chiffon-hijab-hoofddoek?variant=55399658783100)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/moslim-chiffon-hijab-180-80-cm-licht-ademend-hoofddoek-voor-islam-614.webp?v=1755891053
-    Price: € 10,00 EUR
-  - [26 - Oslo Grijs](https://newbro.be/products/moslim-chiffon-hijab-hoofddoek?variant=55399658815868)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/moslim-chiffon-hijab-180-80-cm-licht-ademend-hoofddoek-voor-islam-780.webp?v=1755891053
-    Price: € 10,00 EUR
-  - [27 - Celeste Grijs](https://newbro.be/products/moslim-chiffon-hijab-hoofddoek?variant=55399658848636)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/moslim-chiffon-hijab-180-80-cm-licht-ademend-hoofddoek-voor-islam-412.webp?v=1755891053
-    Price: € 10,00 EUR
-  - [28 - Viking](https://newbro.be/products/moslim-chiffon-hijab-hoofddoek?variant=55399658881404)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/moslim-chiffon-hijab-180-80-cm-licht-ademend-hoofddoek-voor-islam-363.webp?v=1755891053
-    Price: € 10,00 EUR
-  - [29 - Kashmir Blauw](https://newbro.be/products/moslim-chiffon-hijab-hoofddoek?variant=55399658914172)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/moslim-chiffon-hijab-180-80-cm-licht-ademend-hoofddoek-voor-islam-656.webp?v=1755891053
-    Price: € 10,00 EUR
-  - [30 - Congo Bruin](https://newbro.be/products/moslim-chiffon-hijab-hoofddoek?variant=55399658979708)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/moslim-chiffon-hijab-180-80-cm-licht-ademend-hoofddoek-voor-islam-271.webp?v=1755891053
-    Price: € 10,00 EUR
-  - [31 - Champagne](https://newbro.be/products/moslim-chiffon-hijab-hoofddoek?variant=55399659012476)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/moslim-chiffon-hijab-180-80-cm-licht-ademend-hoofddoek-voor-islam-981.webp?v=1755891053
-    Price: € 10,00 EUR
 - [Islam armband Allah - Spirituele Verbinding met de Moslim Bangle kopen](https://newbro.be/products/islam-armband-allah): Ontdek de Islam armband Allah (SWT) - een spirituele verbinding voor moslims. Draag deze bangle en versterk uw geloof en verbinding met Allah. Perfect voor elke gelegenheid.
   Updated: 2025-10-08T19:51:11Z
   Vendor: BRO Webshop
@@ -365,124 +235,8 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/moslim-ring-elegante-en-authentieke-sieraden-voor-gelovigen-golden-717.webp?v=1752270791
     Price: € 9,05 EUR
-- [Moslim Tulband Hijab Ondermuts – Comfortabele en Veelzijdige Effen Kleuren](https://newbro.be/products/moslim-tulband-hijab-diverse-kleuren): Stijlvolle moslim tulband hijab ondermuts in diverse effen kleuren. Zacht, rekbaar en ideaal als dagelijkse hoofdbedekking. Kies jouw kleur en comfort!
-  Updated: 2025-10-08T19:51:13Z
-  Vendor: BRO Webshop
-  Product Type: 1
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/moslim-tulband-hijab-veelzijdige-effen-kleuren-comfortabel-1-246.webp?v=1759952328
-  - [Leger Groen](https://newbro.be/products/moslim-tulband-hijab-diverse-kleuren?variant=55399790739836)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/moslim-tulband-hijab-veelzijdige-effen-kleuren-comfortabel-army-860.webp?v=1752271596
-    Price: € 7,00 EUR
-  - [Beige](https://newbro.be/products/moslim-tulband-hijab-diverse-kleuren?variant=55399790772604)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/moslim-tulband-hijab-veelzijdige-effen-kleuren-comfortabel-beige-1-213.webp?v=1752271600
-    Price: € 7,00 EUR
-  - [Zwart](https://newbro.be/products/moslim-tulband-hijab-diverse-kleuren?variant=55399790805372)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/moslim-tulband-hijab-veelzijdige-effen-kleuren-comfortabel-black-1-172.webp?v=1752271604
-    Price: € 7,00 EUR
-  - [Blauw](https://newbro.be/products/moslim-tulband-hijab-diverse-kleuren?variant=55399790838140)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/moslim-tulband-hijab-veelzijdige-effen-kleuren-comfortabel-blue-1-330.webp?v=1752271608
-    Price: € 7,00 EUR
-  - [Camel](https://newbro.be/products/moslim-tulband-hijab-diverse-kleuren?variant=55399790870908)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/moslim-tulband-hijab-veelzijdige-effen-kleuren-comfortabel-camel-1-270.webp?v=1752271612
-    Price: € 7,00 EUR
-  - [Koffie](https://newbro.be/products/moslim-tulband-hijab-diverse-kleuren?variant=55399790903676)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/moslim-tulband-hijab-veelzijdige-effen-kleuren-comfortabel-coffee-1-964.webp?v=1752271616
-    Price: € 7,00 EUR
-  - [Grijs](https://newbro.be/products/moslim-tulband-hijab-diverse-kleuren?variant=55399790936444)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/moslim-tulband-hijab-veelzijdige-effen-kleuren-comfortabel-grey-1-694.webp?v=1752271620
-    Price: € 7,00 EUR
-  - [Wit](https://newbro.be/products/moslim-tulband-hijab-diverse-kleuren?variant=55399790969212)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/moslim-tulband-hijab-veelzijdige-effen-kleuren-comfortabel-white-1-336.webp?v=1752271624
-    Price: € 7,00 EUR
-- [Moslim Hidjab van Slub Katoen – Sjaal met Kwastjes in Diverse Kleuren](https://newbro.be/products/moslim-hidjab-van-slub-katoen): Ontdek de Moslim Hidjab van Slub Katoen, een stijlvolle sjaal van 180×80 cm met kwastjes. Beschikbaar in diverse kleuren, perfect voor elke gelegenheid!
-  Updated: 2025-10-08T19:51:13Z
-  Vendor: BRO Webshop
-  Product Type: 1
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/moslim-hidjab-van-slub-katoen-sjaal-met-kwastjes-180-80-cm-709.webp?v=1759952426
-  - [ZJM002 Light Gray](https://newbro.be/products/moslim-hidjab-van-slub-katoen?variant=55399794999676)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/moslim-hidjab-van-slub-katoen-sjaal-met-kwastjes-180-80-cm-468.webp?v=1759952510
-    Price: € 9,00 EUR
-  - [ZJM002 Begonia Red](https://newbro.be/products/moslim-hidjab-van-slub-katoen?variant=55399794737532)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/moslim-hidjab-van-slub-katoen-sjaal-met-kwastjes-180-80-cm-935.webp?v=1759952458
-    Price: € 9,00 EUR
-  - [ZJM002 Black](https://newbro.be/products/moslim-hidjab-van-slub-katoen?variant=55399794770300)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/moslim-hidjab-van-slub-katoen-sjaal-met-kwastjes-180-80-cm-950.webp?v=1759952465
-    Price: € 9,00 EUR
-  - [ZJM002 Brown](https://newbro.be/products/moslim-hidjab-van-slub-katoen?variant=55399794803068)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/moslim-hidjab-van-slub-katoen-sjaal-met-kwastjes-180-80-cm-172.webp?v=1759952472
-    Price: € 9,00 EUR
-  - [ZJM002 Custard](https://newbro.be/products/moslim-hidjab-van-slub-katoen?variant=55399794835836)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/moslim-hidjab-van-slub-katoen-sjaal-met-kwastjes-180-80-cm-446.webp?v=1759952479
-    Price: € 9,00 EUR
-  - [ZJM002 Dark Blue](https://newbro.be/products/moslim-hidjab-van-slub-katoen?variant=55399794868604)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/moslim-hidjab-van-slub-katoen-sjaal-met-kwastjes-180-80-cm-469.webp?v=1759952486
-    Price: € 9,00 EUR
-  - [ZJM002 Dark Gray](https://newbro.be/products/moslim-hidjab-van-slub-katoen?variant=55399794901372)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/moslim-hidjab-van-slub-katoen-sjaal-met-kwastjes-180-80-cm-791.webp?v=1759952492
-    Price: € 9,00 EUR
-  - [ZJM002 Khaki](https://newbro.be/products/moslim-hidjab-van-slub-katoen?variant=55399794934140)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/moslim-hidjab-van-slub-katoen-sjaal-met-kwastjes-180-80-cm-126.webp?v=1759952498
-    Price: € 9,00 EUR
-  - [ZJM002 Lake Blue](https://newbro.be/products/moslim-hidjab-van-slub-katoen?variant=55399794966908)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/moslim-hidjab-van-slub-katoen-sjaal-met-kwastjes-180-80-cm-583.webp?v=1759952504
-    Price: € 9,00 EUR
-  - [ZJM002 Maroon](https://newbro.be/products/moslim-hidjab-van-slub-katoen?variant=55399795032444)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/moslim-hidjab-van-slub-katoen-sjaal-met-kwastjes-180-80-cm-864.webp?v=1759952516
-    Price: € 9,00 EUR
-  - [ZJM002 Peach](https://newbro.be/products/moslim-hidjab-van-slub-katoen?variant=55399795065212)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/moslim-hidjab-van-slub-katoen-sjaal-met-kwastjes-180-80-cm-978.webp?v=1759952522
-    Price: € 9,00 EUR
-  - [ZJM002 Purplish Red](https://newbro.be/products/moslim-hidjab-van-slub-katoen?variant=55399795097980)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/moslim-hidjab-van-slub-katoen-sjaal-met-kwastjes-180-80-cm-958.webp?v=1755891911
-    Price: € 9,00 EUR
-  - [ZJM002 Roland Purple](https://newbro.be/products/moslim-hidjab-van-slub-katoen?variant=55399795130748)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/moslim-hidjab-van-slub-katoen-sjaal-met-kwastjes-180-80-cm-144.webp?v=1759952528
-    Price: € 9,00 EUR
-  - [ZJM002 Sapphire Blue](https://newbro.be/products/moslim-hidjab-van-slub-katoen?variant=55399795163516)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/moslim-hidjab-van-slub-katoen-sjaal-met-kwastjes-180-80-cm-439.webp?v=1759952534
-    Price: € 9,00 EUR
-  - [ZJM002 Sauce Purple](https://newbro.be/products/moslim-hidjab-van-slub-katoen?variant=55399795196284)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/moslim-hidjab-van-slub-katoen-sjaal-met-kwastjes-180-80-cm-187.webp?v=1755891911
-    Price: € 9,00 EUR
-  - [ZJM002 Turmeric](https://newbro.be/products/moslim-hidjab-van-slub-katoen?variant=55399795229052)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/moslim-hidjab-van-slub-katoen-sjaal-met-kwastjes-180-80-cm-481.webp?v=1759952540
-    Price: € 9,00 EUR
-  - [ZJM002 Watermelon Red](https://newbro.be/products/moslim-hidjab-van-slub-katoen?variant=55399795261820)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/moslim-hidjab-van-slub-katoen-sjaal-met-kwastjes-180-80-cm-880.webp?v=1759952547
-    Price: € 9,00 EUR
-  - [ZJM002 White](https://newbro.be/products/moslim-hidjab-van-slub-katoen?variant=55399795294588)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/moslim-hidjab-van-slub-katoen-sjaal-met-kwastjes-180-80-cm-971.webp?v=1759952553
-    Price: € 9,00 EUR
 - [Moslim Tasbih Kralen - 33 Agaat & Kristal Natuursteen Dhikr Kralen](https://newbro.be/products/moslim-tasbih-kralen): Ontdek de Moslim Tasbih Kralen 33 Agaat & Kristal. Perfect voor Dhikr, handgemaakte natuursteen kralen voor spirituele rust en focus. Bestel nu!
-  Updated: 2025-10-08T19:51:14Z
+  Updated: 2025-10-12T23:51:53Z
   Vendor: BRO Webshop
   Product Type: 1
   Availability: Available
@@ -567,444 +321,6 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/moslim-tasbih-kralen-33-agaat-kristal-natuursteen-dhikr-22-style-1-211.webp?v=1759952869
     Price: € 12,05 EUR
-- [Effen sjaal - Katoenen sjaal met franjes voor vrouwen kopen](https://newbro.be/products/effen-sjaal-van-katoen-met-franjes): Ontdek onze Effen sjaal van katoen met franjes voor vrouwen. Perfect voor elke gelegenheid. Voeg stijl en comfort toe aan je outfit met deze veelzijdige sjaal!
-  Updated: 2025-10-08T19:53:44Z
-  Vendor: BRO Webshop
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/effen-sjaal-van-katoen-met-franjes-voor-vrouwen-1-style-180cm-761.webp?v=1759952914
-  - [1 style / 180cm](https://newbro.be/products/effen-sjaal-van-katoen-met-franjes?variant=55440777773436)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/effen-sjaal-van-katoen-met-franjes-voor-vrouwen-1-style-180cm-761.webp?v=1759952914
-    Price: € 9,00 EUR
-  - [10 style / 180cm](https://newbro.be/products/effen-sjaal-van-katoen-met-franjes?variant=55440777806204)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/effen-sjaal-van-katoen-met-franjes-voor-vrouwen-10-style-180cm-855.webp?v=1759952925
-    Price: € 9,00 EUR
-  - [11 style / 180cm](https://newbro.be/products/effen-sjaal-van-katoen-met-franjes?variant=55440777838972)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/effen-sjaal-van-katoen-met-franjes-voor-vrouwen-11-style-180cm-203.webp?v=1759952933
-    Price: € 9,00 EUR
-  - [12 style / 180cm](https://newbro.be/products/effen-sjaal-van-katoen-met-franjes?variant=55440777871740)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/effen-sjaal-van-katoen-met-franjes-voor-vrouwen-12-style-180cm-610.webp?v=1759952920
-    Price: € 9,00 EUR
-  - [13 style / 180cm](https://newbro.be/products/effen-sjaal-van-katoen-met-franjes?variant=55440777904508)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/effen-sjaal-van-katoen-met-franjes-voor-vrouwen-13-style-180cm-464.webp?v=1759952939
-    Price: € 9,00 EUR
-  - [14 style / 180cm](https://newbro.be/products/effen-sjaal-van-katoen-met-franjes?variant=55440777937276)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/effen-sjaal-van-katoen-met-franjes-voor-vrouwen-14-style-180cm-528.webp?v=1759952945
-    Price: € 9,00 EUR
-  - [15 style / 180cm](https://newbro.be/products/effen-sjaal-van-katoen-met-franjes?variant=55440777970044)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/effen-sjaal-van-katoen-met-franjes-voor-vrouwen-15-style-180cm-460.webp?v=1759952951
-    Price: € 9,00 EUR
-  - [16 style / 180cm](https://newbro.be/products/effen-sjaal-van-katoen-met-franjes?variant=55440778002812)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/effen-sjaal-van-katoen-met-franjes-voor-vrouwen-16-style-180cm-295.webp?v=1759952956
-    Price: € 9,00 EUR
-  - [17 style / 180cm](https://newbro.be/products/effen-sjaal-van-katoen-met-franjes?variant=55440778035580)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/effen-sjaal-van-katoen-met-franjes-voor-vrouwen-17-style-180cm-921.webp?v=1759952962
-    Price: € 9,00 EUR
-  - [18 style / 180cm](https://newbro.be/products/effen-sjaal-van-katoen-met-franjes?variant=55440778068348)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/effen-sjaal-van-katoen-met-franjes-voor-vrouwen-18-style-180cm-626.webp?v=1759952969
-    Price: € 9,00 EUR
-  - [19 style / 180cm](https://newbro.be/products/effen-sjaal-van-katoen-met-franjes?variant=55440778101116)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/effen-sjaal-van-katoen-met-franjes-voor-vrouwen-19-style-180cm-820.webp?v=1759952975
-    Price: € 9,00 EUR
-  - [2 style / 180cm](https://newbro.be/products/effen-sjaal-van-katoen-met-franjes?variant=55440778133884)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/effen-sjaal-van-katoen-met-franjes-voor-vrouwen-2-style-180cm-912.webp?v=1759952982
-    Price: € 9,00 EUR
-  - [20 style / 180cm](https://newbro.be/products/effen-sjaal-van-katoen-met-franjes?variant=55440778166652)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/effen-sjaal-van-katoen-met-franjes-voor-vrouwen-20-style-180cm-231.webp?v=1759952988
-    Price: € 9,00 EUR
-  - [21 style / 180cm](https://newbro.be/products/effen-sjaal-van-katoen-met-franjes?variant=55440778199420)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/effen-sjaal-van-katoen-met-franjes-voor-vrouwen-21-style-180cm-558.webp?v=1759952994
-    Price: € 9,00 EUR
-  - [22 style / 180cm](https://newbro.be/products/effen-sjaal-van-katoen-met-franjes?variant=55440778232188)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/effen-sjaal-van-katoen-met-franjes-voor-vrouwen-22-style-180cm-285.webp?v=1759953001
-    Price: € 9,00 EUR
-  - [23 style / 180cm](https://newbro.be/products/effen-sjaal-van-katoen-met-franjes?variant=55440778264956)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/effen-sjaal-van-katoen-met-franjes-voor-vrouwen-23-style-180cm-209.webp?v=1759953007
-    Price: € 9,00 EUR
-  - [24 style / 180cm](https://newbro.be/products/effen-sjaal-van-katoen-met-franjes?variant=55440778297724)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/effen-sjaal-van-katoen-met-franjes-voor-vrouwen-24-style-180cm-123.webp?v=1759953012
-    Price: € 9,00 EUR
-  - [25 style / 180cm](https://newbro.be/products/effen-sjaal-van-katoen-met-franjes?variant=55440778330492)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/effen-sjaal-van-katoen-met-franjes-voor-vrouwen-25-style-180cm-595.webp?v=1759953019
-    Price: € 9,00 EUR
-  - [26 style / 180cm](https://newbro.be/products/effen-sjaal-van-katoen-met-franjes?variant=55440778363260)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/effen-sjaal-van-katoen-met-franjes-voor-vrouwen-26-style-180cm-816.webp?v=1759953024
-    Price: € 9,00 EUR
-  - [27 style / 180cm](https://newbro.be/products/effen-sjaal-van-katoen-met-franjes?variant=55440778396028)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/effen-sjaal-van-katoen-met-franjes-voor-vrouwen-27-style-180cm-650.webp?v=1759953032
-    Price: € 9,00 EUR
-  - [28 style / 180cm](https://newbro.be/products/effen-sjaal-van-katoen-met-franjes?variant=55440778428796)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/effen-sjaal-van-katoen-met-franjes-voor-vrouwen-28-style-180cm-811.webp?v=1759953038
-    Price: € 9,00 EUR
-  - [29 style / 180cm](https://newbro.be/products/effen-sjaal-van-katoen-met-franjes?variant=55440778461564)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/effen-sjaal-van-katoen-met-franjes-voor-vrouwen-29-style-180cm-267.webp?v=1759953046
-    Price: € 9,00 EUR
-  - [3 style / 180cm](https://newbro.be/products/effen-sjaal-van-katoen-met-franjes?variant=55440778494332)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/effen-sjaal-van-katoen-met-franjes-voor-vrouwen-3-style-180cm-346.webp?v=1759953054
-    Price: € 9,00 EUR
-  - [30 style / 180cm](https://newbro.be/products/effen-sjaal-van-katoen-met-franjes?variant=55440778527100)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/effen-sjaal-van-katoen-met-franjes-voor-vrouwen-30-style-180cm-854.webp?v=1759953061
-    Price: € 9,00 EUR
-  - [31 style / 180cm](https://newbro.be/products/effen-sjaal-van-katoen-met-franjes?variant=55440778559868)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/effen-sjaal-van-katoen-met-franjes-voor-vrouwen-31-style-180cm-158.webp?v=1759953067
-    Price: € 9,00 EUR
-  - [32 style / 180cm](https://newbro.be/products/effen-sjaal-van-katoen-met-franjes?variant=55440778592636)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/effen-sjaal-van-katoen-met-franjes-voor-vrouwen-32-style-180cm-549.webp?v=1759953073
-    Price: € 9,00 EUR
-  - [33 style / 180cm](https://newbro.be/products/effen-sjaal-van-katoen-met-franjes?variant=55440778625404)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/effen-sjaal-van-katoen-met-franjes-voor-vrouwen-33-style-180cm-167.webp?v=1759953079
-    Price: € 9,00 EUR
-  - [34 style / 180cm](https://newbro.be/products/effen-sjaal-van-katoen-met-franjes?variant=55440778658172)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/effen-sjaal-van-katoen-met-franjes-voor-vrouwen-34-style-180cm-725.webp?v=1759953086
-    Price: € 9,00 EUR
-  - [35 style / 180cm](https://newbro.be/products/effen-sjaal-van-katoen-met-franjes?variant=55440778690940)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/effen-sjaal-van-katoen-met-franjes-voor-vrouwen-35-style-180cm-771.webp?v=1759953090
-    Price: € 9,00 EUR
-  - [36 style / 180cm](https://newbro.be/products/effen-sjaal-van-katoen-met-franjes?variant=55440778723708)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/effen-sjaal-van-katoen-met-franjes-voor-vrouwen-36-style-180cm-209.webp?v=1759953096
-    Price: € 9,00 EUR
-  - [37 style / 180cm](https://newbro.be/products/effen-sjaal-van-katoen-met-franjes?variant=55440778756476)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/effen-sjaal-van-katoen-met-franjes-voor-vrouwen-37-style-180cm-852.webp?v=1759953101
-    Price: € 9,00 EUR
-  - [38 style / 180cm](https://newbro.be/products/effen-sjaal-van-katoen-met-franjes?variant=55440778789244)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/effen-sjaal-van-katoen-met-franjes-voor-vrouwen-38-style-180cm-135.webp?v=1759953109
-    Price: € 9,00 EUR
-  - [39 style / 180cm](https://newbro.be/products/effen-sjaal-van-katoen-met-franjes?variant=55440778822012)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/effen-sjaal-van-katoen-met-franjes-voor-vrouwen-39-style-180cm-742.webp?v=1759953118
-    Price: € 9,00 EUR
-  - [4 style / 180cm](https://newbro.be/products/effen-sjaal-van-katoen-met-franjes?variant=55440778854780)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/effen-sjaal-van-katoen-met-franjes-voor-vrouwen-4-style-180cm-926.webp?v=1759953123
-    Price: € 9,00 EUR
-  - [40 style / 180cm](https://newbro.be/products/effen-sjaal-van-katoen-met-franjes?variant=55440778887548)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/effen-sjaal-van-katoen-met-franjes-voor-vrouwen-40-style-180cm-303.webp?v=1759953129
-    Price: € 9,00 EUR
-  - [41 style / 180cm](https://newbro.be/products/effen-sjaal-van-katoen-met-franjes?variant=55440778920316)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/effen-sjaal-van-katoen-met-franjes-voor-vrouwen-41-style-180cm-120.webp?v=1759953137
-    Price: € 9,00 EUR
-  - [42 style / 180cm](https://newbro.be/products/effen-sjaal-van-katoen-met-franjes?variant=55440778953084)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/effen-sjaal-van-katoen-met-franjes-voor-vrouwen-42-style-180cm-885.webp?v=1759953142
-    Price: € 9,00 EUR
-  - [43 style / 180cm](https://newbro.be/products/effen-sjaal-van-katoen-met-franjes?variant=55440778985852)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/effen-sjaal-van-katoen-met-franjes-voor-vrouwen-43-style-180cm-188.webp?v=1759953147
-    Price: € 9,00 EUR
-  - [44 style / 180cm](https://newbro.be/products/effen-sjaal-van-katoen-met-franjes?variant=55440779018620)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/effen-sjaal-van-katoen-met-franjes-voor-vrouwen-44-style-180cm-961.webp?v=1759953155
-    Price: € 9,00 EUR
-  - [45 style / 180cm](https://newbro.be/products/effen-sjaal-van-katoen-met-franjes?variant=55440779051388)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/effen-sjaal-van-katoen-met-franjes-voor-vrouwen-45-style-180cm-835.webp?v=1759953161
-    Price: € 9,00 EUR
-  - [46 style / 180cm](https://newbro.be/products/effen-sjaal-van-katoen-met-franjes?variant=55440779084156)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/effen-sjaal-van-katoen-met-franjes-voor-vrouwen-46-style-180cm-888.webp?v=1759953167
-    Price: € 9,00 EUR
-  - [47 style / 180cm](https://newbro.be/products/effen-sjaal-van-katoen-met-franjes?variant=55440779116924)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/effen-sjaal-van-katoen-met-franjes-voor-vrouwen-47-style-180cm-317.webp?v=1759953175
-    Price: € 9,00 EUR
-  - [48 style / 180cm](https://newbro.be/products/effen-sjaal-van-katoen-met-franjes?variant=55440779149692)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/effen-sjaal-van-katoen-met-franjes-voor-vrouwen-48-style-180cm-222.webp?v=1759953181
-    Price: € 9,00 EUR
-  - [49 style / 180cm](https://newbro.be/products/effen-sjaal-van-katoen-met-franjes?variant=55440779182460)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/effen-sjaal-van-katoen-met-franjes-voor-vrouwen-49-style-180cm-110.webp?v=1759953187
-    Price: € 9,00 EUR
-  - [5 style / 180cm](https://newbro.be/products/effen-sjaal-van-katoen-met-franjes?variant=55440779215228)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/effen-sjaal-van-katoen-met-franjes-voor-vrouwen-5-style-180cm-928.webp?v=1759953192
-    Price: € 9,00 EUR
-  - [50 style / 180cm](https://newbro.be/products/effen-sjaal-van-katoen-met-franjes?variant=55440779247996)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/effen-sjaal-van-katoen-met-franjes-voor-vrouwen-50-style-180cm-719.webp?v=1759953198
-    Price: € 9,00 EUR
-  - [51 style / 180cm](https://newbro.be/products/effen-sjaal-van-katoen-met-franjes?variant=55440779280764)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/effen-sjaal-van-katoen-met-franjes-voor-vrouwen-51-style-180cm-883.webp?v=1759953204
-    Price: € 9,00 EUR
-  - [52 style / 180cm](https://newbro.be/products/effen-sjaal-van-katoen-met-franjes?variant=55440779313532)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/effen-sjaal-van-katoen-met-franjes-voor-vrouwen-52-style-180cm-858.webp?v=1759953211
-    Price: € 9,00 EUR
-  - [53 style / 180cm](https://newbro.be/products/effen-sjaal-van-katoen-met-franjes?variant=55440779346300)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/effen-sjaal-van-katoen-met-franjes-voor-vrouwen-53-style-180cm-133.webp?v=1759953216
-    Price: € 9,00 EUR
-  - [54 style / 180cm](https://newbro.be/products/effen-sjaal-van-katoen-met-franjes?variant=55440779379068)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/effen-sjaal-van-katoen-met-franjes-voor-vrouwen-54-style-180cm-838.webp?v=1759953223
-    Price: € 9,00 EUR
-- [Monochrome Pearl Chiffon Hijab Sjaal 70x180cm | Elegante accessoires](https://newbro.be/products/monochrome-pearl-chiffon-hijab-sjaal): Ervaar elegantie met onze 70x180cm Monochrome Pearl Chiffon Hijab Sjaal. Perfect voor elke gelegenheid, stijlvol en veelzijdig. Shop nu je favoriete hijab op webshop.newbro.be !
-  Updated: 2025-10-08T19:59:20Z
-  Vendor: BRO Webshop
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/70x180cm-monochrome-pearl-chiffon-hijab-sjaal-20-276.webp?v=1759953230
-  - [10](https://newbro.be/products/monochrome-pearl-chiffon-hijab-sjaal?variant=55440782918012)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/70x180cm-monochrome-pearl-chiffon-hijab-sjaal-10-245.webp?v=1759953237
-    Price: € 9,00 EUR
-  - [1](https://newbro.be/products/monochrome-pearl-chiffon-hijab-sjaal?variant=55440782885244)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/70x180cm-monochrome-pearl-chiffon-hijab-sjaal-1-126.webp?v=1759953243
-    Price: € 9,00 EUR
-  - [11](https://newbro.be/products/monochrome-pearl-chiffon-hijab-sjaal?variant=55440782950780)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/70x180cm-monochrome-pearl-chiffon-hijab-sjaal-11-955.webp?v=1759953251
-    Price: € 9,00 EUR
-  - [12](https://newbro.be/products/monochrome-pearl-chiffon-hijab-sjaal?variant=55440782983548)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/70x180cm-monochrome-pearl-chiffon-hijab-sjaal-12-973.webp?v=1759953257
-    Price: € 9,00 EUR
-  - [13](https://newbro.be/products/monochrome-pearl-chiffon-hijab-sjaal?variant=55440783016316)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/70x180cm-monochrome-pearl-chiffon-hijab-sjaal-13-959.webp?v=1759953263
-    Price: € 9,00 EUR
-  - [14](https://newbro.be/products/monochrome-pearl-chiffon-hijab-sjaal?variant=55440783049084)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/70x180cm-monochrome-pearl-chiffon-hijab-sjaal-14-712.webp?v=1759953268
-    Price: € 9,00 EUR
-  - [15](https://newbro.be/products/monochrome-pearl-chiffon-hijab-sjaal?variant=55440783081852)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/70x180cm-monochrome-pearl-chiffon-hijab-sjaal-15-385.webp?v=1759953276
-    Price: € 9,00 EUR
-  - [16](https://newbro.be/products/monochrome-pearl-chiffon-hijab-sjaal?variant=55440783114620)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/70x180cm-monochrome-pearl-chiffon-hijab-sjaal-16-253.webp?v=1759953282
-    Price: € 9,00 EUR
-  - [17](https://newbro.be/products/monochrome-pearl-chiffon-hijab-sjaal?variant=55440783147388)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/70x180cm-monochrome-pearl-chiffon-hijab-sjaal-17-784.webp?v=1759953289
-    Price: € 9,00 EUR
-  - [18](https://newbro.be/products/monochrome-pearl-chiffon-hijab-sjaal?variant=55440783180156)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/70x180cm-monochrome-pearl-chiffon-hijab-sjaal-18-188.webp?v=1759953295
-    Price: € 9,00 EUR
-  - [19](https://newbro.be/products/monochrome-pearl-chiffon-hijab-sjaal?variant=55440783212924)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/70x180cm-monochrome-pearl-chiffon-hijab-sjaal-19-839.webp?v=1759953300
-    Price: € 9,00 EUR
-  - [2](https://newbro.be/products/monochrome-pearl-chiffon-hijab-sjaal?variant=55440783245692)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/70x180cm-monochrome-pearl-chiffon-hijab-sjaal-2-231.webp?v=1759953307
-    Price: € 9,00 EUR
-  - [20](https://newbro.be/products/monochrome-pearl-chiffon-hijab-sjaal?variant=55440783278460)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/70x180cm-monochrome-pearl-chiffon-hijab-sjaal-20-276.webp?v=1759953230
-    Price: € 9,00 EUR
-  - [21](https://newbro.be/products/monochrome-pearl-chiffon-hijab-sjaal?variant=55440783311228)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/70x180cm-monochrome-pearl-chiffon-hijab-sjaal-21-751.webp?v=1759953314
-    Price: € 9,00 EUR
-  - [22](https://newbro.be/products/monochrome-pearl-chiffon-hijab-sjaal?variant=55440783343996)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/70x180cm-monochrome-pearl-chiffon-hijab-sjaal-22-897.webp?v=1759953319
-    Price: € 9,00 EUR
-  - [23](https://newbro.be/products/monochrome-pearl-chiffon-hijab-sjaal?variant=55440783376764)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/70x180cm-monochrome-pearl-chiffon-hijab-sjaal-23-597.webp?v=1759953325
-    Price: € 9,00 EUR
-  - [24](https://newbro.be/products/monochrome-pearl-chiffon-hijab-sjaal?variant=55440783409532)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/70x180cm-monochrome-pearl-chiffon-hijab-sjaal-24-618.webp?v=1759953334
-    Price: € 9,00 EUR
-  - [25](https://newbro.be/products/monochrome-pearl-chiffon-hijab-sjaal?variant=55440783442300)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/70x180cm-monochrome-pearl-chiffon-hijab-sjaal-25-505.webp?v=1759953340
-    Price: € 9,00 EUR
-  - [26](https://newbro.be/products/monochrome-pearl-chiffon-hijab-sjaal?variant=55440783475068)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/70x180cm-monochrome-pearl-chiffon-hijab-sjaal-26-972.webp?v=1759953348
-    Price: € 9,00 EUR
-  - [27](https://newbro.be/products/monochrome-pearl-chiffon-hijab-sjaal?variant=55440783507836)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/70x180cm-monochrome-pearl-chiffon-hijab-sjaal-27-884.webp?v=1759953355
-    Price: € 9,00 EUR
-  - [28](https://newbro.be/products/monochrome-pearl-chiffon-hijab-sjaal?variant=55440783540604)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/70x180cm-monochrome-pearl-chiffon-hijab-sjaal-28-783.webp?v=1759953361
-    Price: € 9,00 EUR
-  - [29](https://newbro.be/products/monochrome-pearl-chiffon-hijab-sjaal?variant=55440783573372)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/70x180cm-monochrome-pearl-chiffon-hijab-sjaal-29-446.webp?v=1759953367
-    Price: € 9,00 EUR
-  - [3](https://newbro.be/products/monochrome-pearl-chiffon-hijab-sjaal?variant=55440783606140)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/70x180cm-monochrome-pearl-chiffon-hijab-sjaal-3-737.webp?v=1759953373
-    Price: € 9,00 EUR
-  - [30](https://newbro.be/products/monochrome-pearl-chiffon-hijab-sjaal?variant=55440783638908)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/70x180cm-monochrome-pearl-chiffon-hijab-sjaal-30-741.webp?v=1759953379
-    Price: € 9,00 EUR
-  - [31](https://newbro.be/products/monochrome-pearl-chiffon-hijab-sjaal?variant=55440783671676)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/70x180cm-monochrome-pearl-chiffon-hijab-sjaal-31-893.webp?v=1759953389
-    Price: € 9,00 EUR
-  - [32](https://newbro.be/products/monochrome-pearl-chiffon-hijab-sjaal?variant=55440783704444)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/70x180cm-monochrome-pearl-chiffon-hijab-sjaal-32-827.webp?v=1759953395
-    Price: € 9,00 EUR
-  - [33](https://newbro.be/products/monochrome-pearl-chiffon-hijab-sjaal?variant=55440783737212)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/70x180cm-monochrome-pearl-chiffon-hijab-sjaal-33-810.webp?v=1759953402
-    Price: € 9,00 EUR
-  - [34](https://newbro.be/products/monochrome-pearl-chiffon-hijab-sjaal?variant=55440783769980)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/70x180cm-monochrome-pearl-chiffon-hijab-sjaal-34-965.webp?v=1759953410
-    Price: € 9,00 EUR
-  - [35](https://newbro.be/products/monochrome-pearl-chiffon-hijab-sjaal?variant=55440783802748)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/70x180cm-monochrome-pearl-chiffon-hijab-sjaal-35-944.webp?v=1759953417
-    Price: € 9,00 EUR
-  - [36](https://newbro.be/products/monochrome-pearl-chiffon-hijab-sjaal?variant=55440783835516)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/70x180cm-monochrome-pearl-chiffon-hijab-sjaal-36-294.webp?v=1759953422
-    Price: € 9,00 EUR
-  - [37](https://newbro.be/products/monochrome-pearl-chiffon-hijab-sjaal?variant=55440783868284)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/70x180cm-monochrome-pearl-chiffon-hijab-sjaal-37-186.webp?v=1759953430
-    Price: € 9,00 EUR
-  - [38](https://newbro.be/products/monochrome-pearl-chiffon-hijab-sjaal?variant=55440783901052)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/70x180cm-monochrome-pearl-chiffon-hijab-sjaal-38-467.webp?v=1759953436
-    Price: € 9,00 EUR
-  - [39](https://newbro.be/products/monochrome-pearl-chiffon-hijab-sjaal?variant=55440783933820)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/70x180cm-monochrome-pearl-chiffon-hijab-sjaal-39-667.webp?v=1759953441
-    Price: € 9,00 EUR
-  - [4](https://newbro.be/products/monochrome-pearl-chiffon-hijab-sjaal?variant=55440783966588)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/70x180cm-monochrome-pearl-chiffon-hijab-sjaal-4-250.webp?v=1759953448
-    Price: € 9,00 EUR
-  - [40](https://newbro.be/products/monochrome-pearl-chiffon-hijab-sjaal?variant=55440783999356)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/70x180cm-monochrome-pearl-chiffon-hijab-sjaal-40-798.webp?v=1757161074
-    Price: € 9,00 EUR
-  - [41](https://newbro.be/products/monochrome-pearl-chiffon-hijab-sjaal?variant=55440784032124)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/70x180cm-monochrome-pearl-chiffon-hijab-sjaal-41-193.webp?v=1757161074
-    Price: € 9,00 EUR
-  - [42](https://newbro.be/products/monochrome-pearl-chiffon-hijab-sjaal?variant=55440784064892)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/70x180cm-monochrome-pearl-chiffon-hijab-sjaal-41-193.webp?v=1757161074
-    Price: € 9,00 EUR
-  - [43](https://newbro.be/products/monochrome-pearl-chiffon-hijab-sjaal?variant=55440784097660)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/70x180cm-monochrome-pearl-chiffon-hijab-sjaal-41-193.webp?v=1757161074
-    Price: € 9,00 EUR
-  - [44](https://newbro.be/products/monochrome-pearl-chiffon-hijab-sjaal?variant=55440784130428)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/70x180cm-monochrome-pearl-chiffon-hijab-sjaal-41-193.webp?v=1757161074
-    Price: € 9,00 EUR
-  - [45](https://newbro.be/products/monochrome-pearl-chiffon-hijab-sjaal?variant=55440784163196)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/70x180cm-monochrome-pearl-chiffon-hijab-sjaal-41-193.webp?v=1757161074
-    Price: € 9,00 EUR
-  - [46](https://newbro.be/products/monochrome-pearl-chiffon-hijab-sjaal?variant=55440784195964)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/70x180cm-monochrome-pearl-chiffon-hijab-sjaal-41-193.webp?v=1757161074
-    Price: € 9,00 EUR
-  - [47](https://newbro.be/products/monochrome-pearl-chiffon-hijab-sjaal?variant=55440784228732)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/70x180cm-monochrome-pearl-chiffon-hijab-sjaal-41-193.webp?v=1757161074
-    Price: € 9,00 EUR
-  - [48](https://newbro.be/products/monochrome-pearl-chiffon-hijab-sjaal?variant=55440784261500)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/70x180cm-monochrome-pearl-chiffon-hijab-sjaal-41-193.webp?v=1757161074
-    Price: € 9,00 EUR
-  - [49](https://newbro.be/products/monochrome-pearl-chiffon-hijab-sjaal?variant=55440784294268)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/70x180cm-monochrome-pearl-chiffon-hijab-sjaal-41-193.webp?v=1757161074
-    Price: € 9,00 EUR
-  - [5](https://newbro.be/products/monochrome-pearl-chiffon-hijab-sjaal?variant=55440784327036)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/70x180cm-monochrome-pearl-chiffon-hijab-sjaal-5-603.webp?v=1759953457
-    Price: € 9,00 EUR
-  - [50](https://newbro.be/products/monochrome-pearl-chiffon-hijab-sjaal?variant=55440784359804)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/70x180cm-monochrome-pearl-chiffon-hijab-sjaal-41-193.webp?v=1757161074
-    Price: € 9,00 EUR
-  - [51](https://newbro.be/products/monochrome-pearl-chiffon-hijab-sjaal?variant=55440784392572)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/70x180cm-monochrome-pearl-chiffon-hijab-sjaal-51-386.webp?v=1757161074
-    Price: € 9,00 EUR
-  - [52color](https://newbro.be/products/monochrome-pearl-chiffon-hijab-sjaal?variant=55440784425340)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/70x180cm-monochrome-pearl-chiffon-hijab-sjaal-52color-144.webp?v=1759953463
-    Price: € 9,00 EUR
-  - [53color](https://newbro.be/products/monochrome-pearl-chiffon-hijab-sjaal?variant=55440784458108)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/70x180cm-monochrome-pearl-chiffon-hijab-sjaal-53color-698.webp?v=1759953469
-    Price: € 9,00 EUR
-  - [54color](https://newbro.be/products/monochrome-pearl-chiffon-hijab-sjaal?variant=55440784490876)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/70x180cm-monochrome-pearl-chiffon-hijab-sjaal-54color-135.webp?v=1759953475
-    Price: € 9,00 EUR
-- [Effen kleur hijab damesmode – stijlvolle, zachte chiffon & trendkleuren | NewBro](https://newbro.be/products/damesmode-effen-kleur-hijab-stijlvolle-vrouwen): Ontdek de effen kleur hijab van zachte chiffon – stijlvol, ademend én veelzijdig. Beschikbaar in zwart, blauw, groen, roze & paars. Perfecte match voor jouw outfit voor dagelijks gebruik & speciale gelegenheden.
-  Updated: 2025-10-08T20:00:49Z
-  Vendor: BRO Webshop
-  Product Type: 1
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/damesmode-effen-kleur-hijab-voor-stijlvolle-vrouwen-1-356.webp?v=1759953616
-  - [Zwart / Uni-size](https://newbro.be/products/damesmode-effen-kleur-hijab-stijlvolle-vrouwen?variant=55445048263036)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/damesmode-effen-kleur-hijab-voor-stijlvolle-vrouwen-black-one-size-1-766.webp?v=1759953623
-    Price: € 11,00 EUR
-  - [Blauw / Uni-size](https://newbro.be/products/damesmode-effen-kleur-hijab-stijlvolle-vrouwen?variant=55445048295804)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/damesmode-effen-kleur-hijab-voor-stijlvolle-vrouwen-blue-one-size-1-597.webp?v=1759953629
-    Price: € 11,00 EUR
-  - [Groen / Uni-size](https://newbro.be/products/damesmode-effen-kleur-hijab-stijlvolle-vrouwen?variant=55445048328572)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/damesmode-effen-kleur-hijab-voor-stijlvolle-vrouwen-green-one-size-1-800.webp?v=1759953636
-    Price: € 11,00 EUR
-  - [Roze / Uni-size](https://newbro.be/products/damesmode-effen-kleur-hijab-stijlvolle-vrouwen?variant=55445048361340)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/damesmode-effen-kleur-hijab-voor-stijlvolle-vrouwen-pink-one-size-1-722.webp?v=1759953642
-    Price: € 11,00 EUR
-  - [Paars / Uni-size](https://newbro.be/products/damesmode-effen-kleur-hijab-stijlvolle-vrouwen?variant=55445048394108)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/damesmode-effen-kleur-hijab-voor-stijlvolle-vrouwen-purple-one-size-384.webp?v=1759953648
-    Price: € 11,00 EUR
 - [Sieradenketting, dinner sieradenset voor bruiloft](https://newbro.be/products/aaa-jewelry-chain-bridal-banquet-dinner-jewelry-set): BRO Webshop: sieradenketting, bruiloft banket en dinner sieraadset. Perfect voor speciale gelegenheden. Stijlvolle elegantie.
   Updated: 2025-10-08T20:18:43Z
   Vendor: BRO Webshop
@@ -3185,100 +2501,6 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/elegant-floral-print-long-sleeve-abaya-dress-white-s-4-297.webp?v=1752284815
     Price: € 29,15 EUR
-- [Zachte Hijab in Diverse Hevige Kleuren - BRO Webshop](https://newbro.be/products/muslim-soft-under-scarf-hat-cap-bone-bonnet-neck-cover): Zachte Hijab in Diverse Hevige Kleuren - BRO Webshop
-  Updated: 2025-10-04T22:45:47Z
-  Vendor: BRO Webshop
-  Product Type: 0
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-soft-under-scarf-hat-cap-bone-bonnet-neck-cover-medium-pink-262.webp?v=1757162503
-  - [Beige](https://newbro.be/products/muslim-soft-under-scarf-hat-cap-bone-bonnet-neck-cover?variant=55445608890748)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-soft-under-scarf-hat-cap-bone-bonnet-neck-cover-beige-289.webp?v=1757162503
-    Price: € 7,00 EUR
-  - [Meer blauw](https://newbro.be/products/muslim-soft-under-scarf-hat-cap-bone-bonnet-neck-cover?variant=55445608595836)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-soft-under-scarf-hat-cap-bone-bonnet-neck-cover-lake-blue-913.webp?v=1757162503
-    Price: € 7,00 EUR
-  - [Violet](https://newbro.be/products/muslim-soft-under-scarf-hat-cap-bone-bonnet-neck-cover?variant=55445608628604)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-soft-under-scarf-hat-cap-bone-bonnet-neck-cover-violet-160.webp?v=1757162503
-    Price: € 7,00 EUR
-  - [Geel](https://newbro.be/products/muslim-soft-under-scarf-hat-cap-bone-bonnet-neck-cover?variant=55445608661372)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-soft-under-scarf-hat-cap-bone-bonnet-neck-cover-yellow-692.webp?v=1757162503
-    Price: € 7,00 EUR
-  - [Marine blauw](https://newbro.be/products/muslim-soft-under-scarf-hat-cap-bone-bonnet-neck-cover?variant=55445608694140)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-soft-under-scarf-hat-cap-bone-bonnet-neck-cover-navy-blue-967.webp?v=1757162503
-    Price: € 7,00 EUR
-  - [Wit](https://newbro.be/products/muslim-soft-under-scarf-hat-cap-bone-bonnet-neck-cover?variant=55445608726908)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-soft-under-scarf-hat-cap-bone-bonnet-neck-cover-white-748.webp?v=1757162503
-    Price: € 7,00 EUR
-  - [Leder roze](https://newbro.be/products/muslim-soft-under-scarf-hat-cap-bone-bonnet-neck-cover?variant=55445608759676)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-soft-under-scarf-hat-cap-bone-bonnet-neck-cover-leather-pink-326.webp?v=1757162503
-    Price: € 7,00 EUR
-  - [Donker paars](https://newbro.be/products/muslim-soft-under-scarf-hat-cap-bone-bonnet-neck-cover?variant=55445608792444)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-soft-under-scarf-hat-cap-bone-bonnet-neck-cover-dark-purple-945.webp?v=1757162503
-    Price: € 7,00 EUR
-  - [Groen](https://newbro.be/products/muslim-soft-under-scarf-hat-cap-bone-bonnet-neck-cover?variant=55445608825212)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-soft-under-scarf-hat-cap-bone-bonnet-neck-cover-green-306.webp?v=1757162503
-    Price: € 7,00 EUR
-  - [Paars](https://newbro.be/products/muslim-soft-under-scarf-hat-cap-bone-bonnet-neck-cover?variant=55445608857980)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-soft-under-scarf-hat-cap-bone-bonnet-neck-cover-purple-650.webp?v=1757162503
-    Price: € 7,00 EUR
-  - [Bruin](https://newbro.be/products/muslim-soft-under-scarf-hat-cap-bone-bonnet-neck-cover?variant=55445608923516)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-soft-under-scarf-hat-cap-bone-bonnet-neck-cover-brown-255.webp?v=1757162503
-    Price: € 7,00 EUR
-  - [Claret](https://newbro.be/products/muslim-soft-under-scarf-hat-cap-bone-bonnet-neck-cover?variant=55445608956284)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-soft-under-scarf-hat-cap-bone-bonnet-neck-cover-claret-680.webp?v=1757162503
-    Price: € 7,00 EUR
-  - [Khaki](https://newbro.be/products/muslim-soft-under-scarf-hat-cap-bone-bonnet-neck-cover?variant=55445608989052)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-soft-under-scarf-hat-cap-bone-bonnet-neck-cover-khaki-912.webp?v=1757162503
-    Price: € 7,00 EUR
-  - [Leger groen](https://newbro.be/products/muslim-soft-under-scarf-hat-cap-bone-bonnet-neck-cover?variant=55445609021820)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-soft-under-scarf-hat-cap-bone-bonnet-neck-cover-army-green-754.webp?v=1757162503
-    Price: € 7,00 EUR
-  - [Medium roze](https://newbro.be/products/muslim-soft-under-scarf-hat-cap-bone-bonnet-neck-cover?variant=55445609054588)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-soft-under-scarf-hat-cap-bone-bonnet-neck-cover-medium-pink-262.webp?v=1757162503
-    Price: € 7,00 EUR
-  - [Licht garnaal rood](https://newbro.be/products/muslim-soft-under-scarf-hat-cap-bone-bonnet-neck-cover?variant=55445609087356)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-soft-under-scarf-hat-cap-bone-bonnet-neck-cover-light-shrimp-339.webp?v=1752286285
-    Price: € 7,00 EUR
-  - [Zwart](https://newbro.be/products/muslim-soft-under-scarf-hat-cap-bone-bonnet-neck-cover?variant=55445609120124)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-soft-under-scarf-hat-cap-bone-bonnet-neck-cover-black-671.webp?v=1752286289
-    Price: € 7,00 EUR
-  - [Korenbloem blauw](https://newbro.be/products/muslim-soft-under-scarf-hat-cap-bone-bonnet-neck-cover?variant=55445609152892)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-soft-under-scarf-hat-cap-bone-bonnet-neck-cover-cornflower-blue-737.webp?v=1752286294
-    Price: € 7,00 EUR
-  - [Rozen rood](https://newbro.be/products/muslim-soft-under-scarf-hat-cap-bone-bonnet-neck-cover?variant=55445609185660)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-soft-under-scarf-hat-cap-bone-bonnet-neck-cover-rose-red-352.webp?v=1752286299
-    Price: € 7,00 EUR
-  - [rood](https://newbro.be/products/muslim-soft-under-scarf-hat-cap-bone-bonnet-neck-cover?variant=55445609218428)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-soft-under-scarf-hat-cap-bone-bonnet-neck-cover-red-305.webp?v=1752286303
-    Price: € 7,00 EUR
-  - [Donker Grijs](https://newbro.be/products/muslim-soft-under-scarf-hat-cap-bone-bonnet-neck-cover?variant=55445609251196)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-soft-under-scarf-hat-cap-bone-bonnet-neck-cover-dark-grey-266.webp?v=1752286307
-    Price: € 7,00 EUR
-  - [Oranje](https://newbro.be/products/muslim-soft-under-scarf-hat-cap-bone-bonnet-neck-cover?variant=55445609283964)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-soft-under-scarf-hat-cap-bone-bonnet-neck-cover-orange-865.webp?v=1752286312
-    Price: € 7,00 EUR
 - [Arab Muslim Casual Clothing Multi-color Bat Sleeve Robe - BRO Webshop](https://newbro.be/products/arab-muslim-casual-clothing-multi-color-bat-sleeve-robe): Product information: Style category: dress Popular elements: collage/splicing, solid color Process: Knitting Fabric name: milk silk Main fabric composition: polyester fiber (polyester) The content of main fabric components: 81%-90% Color: white, black, dark coffee, medium gray, dark blue, pink, plum red, wood green, light coffee, dark blue, dark purple, shrimp red, apricot, jujube red Size Information: Size: L, XL, XXL, M size M L XL 2XL Skirt length 145 147 149 151 Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Bat sleeve robe*1 Product Image: - BRO Webshop
   Updated: 2025-10-06T06:45:29Z
   Vendor: BRO Webshop
@@ -4101,47 +3323,6 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/elegant-floral-printed-abaya-middle-eastern-muslim-clothing-for-women-583.webp?v=1752290310
     Price: € 22,15 EUR
-- [Chiffon sjaal met kapje – zacht, ademend & ideaal voor elk seizoen - BRO Webshop](https://newbro.be/products/veiled-muslim-ladies-chiffon-turban-scarf-set): Stijlvolle chiffon sjaal met kapje, zacht en ademend. Perfect voor bruiloft, feest of dagelijks gebruik. Ideaal cadeau en geschikt voor alle seizoenen.
-  Updated: 2025-10-04T22:45:44Z
-  Vendor: BRO Webshop
-  Product Type: 0
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/veiled-muslim-ladies-chiffon-turban-scarf-set-771.webp?v=1755891835
-  - [1 - Zwart](https://newbro.be/products/veiled-muslim-ladies-chiffon-turban-scarf-set?variant=55445637955964)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/veiled-muslim-ladies-chiffon-turban-scarf-set-1style-494.webp?v=1752291573
-    Price: € 9,00 EUR
-  - [2 - Marine Blauw](https://newbro.be/products/veiled-muslim-ladies-chiffon-turban-scarf-set?variant=55445637988732)
-    Availability: Available
-    Price: € 9,00 EUR
-  - [3 - Schorpioen Grijs](https://newbro.be/products/veiled-muslim-ladies-chiffon-turban-scarf-set?variant=55445638021500)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/veiled-muslim-ladies-chiffon-turban-scarf-set-3style-186.webp?v=1752291583
-    Price: € 9,00 EUR
-  - [4 - Wit](https://newbro.be/products/veiled-muslim-ladies-chiffon-turban-scarf-set?variant=55445638054268)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/veiled-muslim-ladies-chiffon-turban-scarf-set-4style-252.webp?v=1752291587
-    Price: € 9,00 EUR
-  - [5 - Grijs](https://newbro.be/products/veiled-muslim-ladies-chiffon-turban-scarf-set?variant=55445638087036)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/veiled-muslim-ladies-chiffon-turban-scarf-set-5style-596.webp?v=1752291592
-    Price: € 9,00 EUR
-  - [6 - Wijn Rood](https://newbro.be/products/veiled-muslim-ladies-chiffon-turban-scarf-set?variant=55445638119804)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/veiled-muslim-ladies-chiffon-turban-scarf-set-6style-575.webp?v=1752291597
-    Price: € 9,00 EUR
-  - [7 - Paars](https://newbro.be/products/veiled-muslim-ladies-chiffon-turban-scarf-set?variant=55445638152572)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/veiled-muslim-ladies-chiffon-turban-scarf-set-7style-682.webp?v=1752291601
-    Price: € 9,00 EUR
-  - [8 - Cashmere](https://newbro.be/products/veiled-muslim-ladies-chiffon-turban-scarf-set?variant=55445638185340)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/veiled-muslim-ladies-chiffon-turban-scarf-set-8style-615.webp?v=1752291607
-    Price: € 9,00 EUR
-  - [9 - Roze](https://newbro.be/products/veiled-muslim-ladies-chiffon-turban-scarf-set?variant=55445638218108)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/veiled-muslim-ladies-chiffon-turban-scarf-set-9style-300.webp?v=1752291613
-    Price: € 9,00 EUR
 - [Solid Color Plus Size Lace-up Muslim Dress - BRO Webshop](https://newbro.be/products/solid-color-plus-size-lace-up-muslim-dress): Product information: Applicable gender: female pattern: plain Suitable for the season: all seasons Fabric name: Nida Main fabric ingredient content: 95 Main fabric composition: polyester fiber (polyester) Color: purple, gray, black, apricot, pink, dark red, turmeric, army green, turmeric color added, brown Suitable age: 25-29 years old Size Information : Size: S, M, L, XL, XXL Precautions: 1. Asian Sizes Are 1 To 2 Sizes Smaller Than European And American People. Choose The Larger Size If Your Size Between Two Sizes. Please Allow 2-3Cm Differences Due To Manual Measurement. 2. Please Check The Size Chart Carefully Before You Buy The Item, If You Don't Know How To Choose Size, Please Contact Our Customer Service. 3.As You Know, The Different Computers Display Colors Differently, The Color Of The Actual Item May Vary Slightly From The Following Images. - BRO Webshop
   Updated: 2025-10-06T06:45:26Z
   Vendor: BRO Webshop
@@ -4328,60 +3509,6 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/solid-color-plus-size-lace-up-muslim-dress-dark-brown-l-749.webp?v=1752293495
     Price: € 26,95 EUR
-- [Gypsophila solid color cotton monochrome turban - BRO Webshop](https://newbro.be/products/gypsophila-solid-color-cotton-monochrome-turban): material: cotton Applicable gender: female Function: Decoration Style: Square scarf Shape: square scarf - BRO Webshop
-  Updated: 2025-10-04T22:45:44Z
-  Vendor: BRO Webshop
-  Product Type: 0
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/gypsophila-solid-color-cotton-monochrome-turban-540.webp?v=1757155678
-  - [Champagne](https://newbro.be/products/gypsophila-solid-color-cotton-monochrome-turban?variant=55445647065468)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/gypsophila-solid-color-cotton-monochrome-turban-champagne-593.webp?v=1752294712
-    Price: € 9,00 EUR
-  - [Purple](https://newbro.be/products/gypsophila-solid-color-cotton-monochrome-turban?variant=55445646967164)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/gypsophila-solid-color-cotton-monochrome-turban-purple-891.webp?v=1752294698
-    Price: € 9,00 EUR
-  - [Khaki](https://newbro.be/products/gypsophila-solid-color-cotton-monochrome-turban?variant=55445646999932)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/gypsophila-solid-color-cotton-monochrome-turban-khaki-422.webp?v=1752294702
-    Price: € 9,00 EUR
-  - [Green](https://newbro.be/products/gypsophila-solid-color-cotton-monochrome-turban?variant=55445647032700)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/gypsophila-solid-color-cotton-monochrome-turban-green-989.webp?v=1752294707
-    Price: € 9,00 EUR
-  - [Yellow](https://newbro.be/products/gypsophila-solid-color-cotton-monochrome-turban?variant=55445647098236)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/gypsophila-solid-color-cotton-monochrome-turban-yellow-374.webp?v=1752294717
-    Price: € 9,00 EUR
-  - [Pink](https://newbro.be/products/gypsophila-solid-color-cotton-monochrome-turban?variant=55445647131004)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/gypsophila-solid-color-cotton-monochrome-turban-pink-806.webp?v=1752294721
-    Price: € 9,00 EUR
-  - [Red wine](https://newbro.be/products/gypsophila-solid-color-cotton-monochrome-turban?variant=55445647163772)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/gypsophila-solid-color-cotton-monochrome-turban-red-wine-572.webp?v=1752294727
-    Price: € 9,00 EUR
-  - [Blue](https://newbro.be/products/gypsophila-solid-color-cotton-monochrome-turban?variant=55445647196540)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/gypsophila-solid-color-cotton-monochrome-turban-blue-275.webp?v=1752294731
-    Price: € 9,00 EUR
-  - [Black](https://newbro.be/products/gypsophila-solid-color-cotton-monochrome-turban?variant=55445647229308)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/gypsophila-solid-color-cotton-monochrome-turban-black-261.webp?v=1752294736
-    Price: € 9,00 EUR
-  - [White](https://newbro.be/products/gypsophila-solid-color-cotton-monochrome-turban?variant=55445647262076)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/gypsophila-solid-color-cotton-monochrome-turban-white-485.webp?v=1752294741
-    Price: € 9,00 EUR
-  - [Rubber powder](https://newbro.be/products/gypsophila-solid-color-cotton-monochrome-turban?variant=55445647294844)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/gypsophila-solid-color-cotton-monochrome-turban-rubber-powder-205.webp?v=1752294745
-    Price: € 9,00 EUR
-  - [Navy](https://newbro.be/products/gypsophila-solid-color-cotton-monochrome-turban?variant=55445647327612)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/gypsophila-solid-color-cotton-monochrome-turban-navy-554.webp?v=1752294750
-    Price: € 9,00 EUR
 - [Islamic Muslim clothing - BRO Webshop](https://newbro.be/products/islamic-muslim-clothing): Applicable gender: female pattern: plain Suitable for the season: all seasons Fabric name: Four sides elastic The content of the main fabric composition: 90 Main fabric composition: polyester fiber (polyester) Suitable age: 25-29 years old 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. - BRO Webshop
   Updated: 2025-10-06T06:45:20Z
   Vendor: BRO Webshop
@@ -5390,85 +4517,6 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/middle-east-dubai-clear-muslim-split-size-dress-shallow-apricot-s-463.webp?v=1752299214
     Price: € 29,00 EUR
-- [Gold Leaf Print Women's Versatile Scarf Turban Shawl - BRO Webshop](https://newbro.be/products/gold-leaf-print-womens-versatile-scarf-turban-shawl): Product information: Weaving method: plain weave Processing method: jacquard Popular elements: printing Function: decoration Style: regular Width (CM): 175*80cm Style: wild Color: 1#, 2#, 3#, 4#, 5#, 6#, 7#, 8# Packing list: Scarf*1 - BRO Webshop
-  Updated: 2025-10-08T19:51:22Z
-  Vendor: BRO Webshop
-  Product Type: 0
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/gold-leaf-print-womens-versatile-scarf-turban-shawl-1-style-169.webp?v=1755891498
-  - [1 Style](https://newbro.be/products/gold-leaf-print-womens-versatile-scarf-turban-shawl?variant=55445678719356)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/gold-leaf-print-womens-versatile-scarf-turban-shawl-1-style-169.webp?v=1755891498
-    Price: € 9,00 EUR
-  - [2 Style](https://newbro.be/products/gold-leaf-print-womens-versatile-scarf-turban-shawl?variant=55445678752124)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/gold-leaf-print-womens-versatile-scarf-turban-shawl-2-style-645.webp?v=1755891498
-    Price: € 9,00 EUR
-  - [3 Style](https://newbro.be/products/gold-leaf-print-womens-versatile-scarf-turban-shawl?variant=55445678784892)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/gold-leaf-print-womens-versatile-scarf-turban-shawl-3-style-932.webp?v=1755891498
-    Price: € 9,00 EUR
-  - [4 Style](https://newbro.be/products/gold-leaf-print-womens-versatile-scarf-turban-shawl?variant=55445678817660)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/gold-leaf-print-womens-versatile-scarf-turban-shawl-4-style-608.webp?v=1755891498
-    Price: € 9,00 EUR
-  - [5 Style](https://newbro.be/products/gold-leaf-print-womens-versatile-scarf-turban-shawl?variant=55445678850428)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/gold-leaf-print-womens-versatile-scarf-turban-shawl-5-style-630.webp?v=1755891498
-    Price: € 9,00 EUR
-  - [6 Style](https://newbro.be/products/gold-leaf-print-womens-versatile-scarf-turban-shawl?variant=55445678883196)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/gold-leaf-print-womens-versatile-scarf-turban-shawl-6-style-511.webp?v=1755891498
-    Price: € 9,00 EUR
-  - [7 Style](https://newbro.be/products/gold-leaf-print-womens-versatile-scarf-turban-shawl?variant=55445678915964)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/gold-leaf-print-womens-versatile-scarf-turban-shawl-7-style-124.webp?v=1755891498
-    Price: € 9,00 EUR
-  - [8 Style](https://newbro.be/products/gold-leaf-print-womens-versatile-scarf-turban-shawl?variant=55445678948732)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/gold-leaf-print-womens-versatile-scarf-turban-shawl-8-style-787.webp?v=1755891498
-    Price: € 9,00 EUR
-- [Monochrome Hoofddoek van Chiffon - BRO Webshop](https://newbro.be/products/solid-color-robe-fashion-chiffon-turban): Monochrome Hoofddoek van Chiffon vervaardigd - bij BRO Webshop
-  Updated: 2025-10-08T19:51:22Z
-  Vendor: BRO Webshop
-  Product Type: 0
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/solid-color-robe-fashion-chiffon-turban-blue-one-size-897.webp?v=1757160185
-  - [Blauw / 1 maat](https://newbro.be/products/solid-color-robe-fashion-chiffon-turban?variant=55445681176956)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/solid-color-robe-fashion-chiffon-turban-blue-one-size-897.webp?v=1757160185
-    Price: € 11,00 EUR
-  - [Leder Poeder / 1 maat](https://newbro.be/products/solid-color-robe-fashion-chiffon-turban?variant=55445681144188)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/solid-color-robe-fashion-chiffon-turban-leather-powder-one-size-894.webp?v=1757160149
-    Price: € 11,00 EUR
-  - [Wijn Rood / 1 maat](https://newbro.be/products/solid-color-robe-fashion-chiffon-turban?variant=55445681111420)
-    Availability: Available
-    Price: € 11,00 EUR
-  - [Grijs / 1 maat](https://newbro.be/products/solid-color-robe-fashion-chiffon-turban?variant=55445681209724)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/solid-color-robe-fashion-chiffon-turban-grey-one-size-271.webp?v=1752301040
-    Price: € 11,00 EUR
-  - [Leger Groen / 1 maat](https://newbro.be/products/solid-color-robe-fashion-chiffon-turban?variant=55445681242492)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/solid-color-robe-fashion-chiffon-turban-army-green-one-size-415.webp?v=1752301045
-    Price: € 11,00 EUR
-  - [Licht Groen / 1 maat](https://newbro.be/products/solid-color-robe-fashion-chiffon-turban?variant=55445681275260)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/solid-color-robe-fashion-chiffon-turban-light-green-one-size-728.webp?v=1752301049
-    Price: € 11,00 EUR
-  - [Apricot / 1 maat](https://newbro.be/products/solid-color-robe-fashion-chiffon-turban?variant=55445681308028)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/solid-color-robe-fashion-chiffon-turban-apricot-one-size-511.webp?v=1752301053
-    Price: € 11,00 EUR
-  - [Wit / 1 maat](https://newbro.be/products/solid-color-robe-fashion-chiffon-turban?variant=55445681340796)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/solid-color-robe-fashion-chiffon-turban-white-one-size-378.webp?v=1752301057
-    Price: € 11,00 EUR
-  - [Zwart / 1 maat](https://newbro.be/products/solid-color-robe-fashion-chiffon-turban?variant=55445681373564)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/solid-color-robe-fashion-chiffon-turban-black-one-size-270.webp?v=1752301061
-    Price: € 11,00 EUR
 - [Solid Color Long Sleeve Casual Muslim Dress Robe Robe Dress - BRO Webshop](https://newbro.be/products/solid-color-long-sleeve-casual-muslim-dress-robe-robe-dress): Product information: Pattern: solid color Fabric name: Chemical Fiber blending Color: green, black, pink Main fabric composition: Polyester Fiber (polyester) Suitable age: 18-24 years old Size: S,M,L,XL,XXL Applicable Gender: Female Suitable season: Four Seasons Universal Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Robe dress*1 Product Image: - BRO Webshop
   Updated: 2025-10-08T19:51:23Z
   Vendor: BRO Webshop
@@ -5942,66 +4990,6 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-cardigan-coat-chiffon-patchwork-white-l-628.webp?v=1752303187
     Price: € 22,90 EUR
-- [Modale katoenen hijab-sjaal effen kleuren | NewBro](https://newbro.be/products/cotton-womens-knitted-long-muslim-shawl-plain-soft-womens-islamic-headscarf): Ontdek onze lange modale katoenen hijab sjaal in effen kleuren: zacht, ademend & 170×60 cm. Perfect als daily headscarf of voor speciale gelegenheden.
-  Updated: 2025-10-08T19:51:24Z
-  Vendor: BRO Webshop
-  Product Type: 0
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/cotton-womens-knitted-long-muslim-shawl-plain-soft-islamic-headscarf-574.webp?v=1752303566
-  - [Zwart / 170 To 60cm](https://newbro.be/products/cotton-womens-knitted-long-muslim-shawl-plain-soft-womens-islamic-headscarf?variant=55445696086396)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/cotton-womens-knitted-long-muslim-shawl-plain-soft-islamic-headscarf-293.webp?v=1752303575
-    Price: € 9,00 EUR
-  - [Marine Blauw / 170 To 60cm](https://newbro.be/products/cotton-womens-knitted-long-muslim-shawl-plain-soft-womens-islamic-headscarf?variant=55445696119164)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/cotton-womens-knitted-long-muslim-shawl-plain-soft-islamic-headscarf-970.webp?v=1752303579
-    Price: € 9,00 EUR
-  - [Grijs / 170 To 60cm](https://newbro.be/products/cotton-womens-knitted-long-muslim-shawl-plain-soft-womens-islamic-headscarf?variant=55445696151932)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/cotton-womens-knitted-long-muslim-shawl-plain-soft-islamic-headscarf-522.webp?v=1752303584
-    Price: € 9,00 EUR
-  - [Khaki / 170 To 60cm](https://newbro.be/products/cotton-womens-knitted-long-muslim-shawl-plain-soft-womens-islamic-headscarf?variant=55445696184700)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/cotton-womens-knitted-long-muslim-shawl-plain-soft-islamic-headscarf-846.webp?v=1752303588
-    Price: € 9,00 EUR
-  - [Koffie / 170 To 60cm](https://newbro.be/products/cotton-womens-knitted-long-muslim-shawl-plain-soft-womens-islamic-headscarf?variant=55445696217468)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/cotton-womens-knitted-long-muslim-shawl-plain-soft-islamic-headscarf-199.webp?v=1752303592
-    Price: € 9,00 EUR
-  - [Camel / 170 To 60cm](https://newbro.be/products/cotton-womens-knitted-long-muslim-shawl-plain-soft-womens-islamic-headscarf?variant=55445696250236)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/cotton-womens-knitted-long-muslim-shawl-plain-soft-islamic-headscarf-973.webp?v=1752303595
-    Price: € 9,00 EUR
-  - [Roze / 170 To 60cm](https://newbro.be/products/cotton-womens-knitted-long-muslim-shawl-plain-soft-womens-islamic-headscarf?variant=55445696283004)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/cotton-womens-knitted-long-muslim-shawl-plain-soft-islamic-headscarf-701.webp?v=1752303599
-    Price: € 9,00 EUR
-  - [Blauw / 170 To 60cm](https://newbro.be/products/cotton-womens-knitted-long-muslim-shawl-plain-soft-womens-islamic-headscarf?variant=55445696315772)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/cotton-womens-knitted-long-muslim-shawl-plain-soft-islamic-headscarf-656.webp?v=1752303605
-    Price: € 9,00 EUR
-  - [Groen / 170 To 60cm](https://newbro.be/products/cotton-womens-knitted-long-muslim-shawl-plain-soft-womens-islamic-headscarf?variant=55445696348540)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/cotton-womens-knitted-long-muslim-shawl-plain-soft-islamic-headscarf-986.webp?v=1752303610
-    Price: € 9,00 EUR
-  - [Licht Paars / 170 To 60cm](https://newbro.be/products/cotton-womens-knitted-long-muslim-shawl-plain-soft-womens-islamic-headscarf?variant=55445696381308)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/cotton-womens-knitted-long-muslim-shawl-plain-soft-islamic-headscarf-250.webp?v=1752303615
-    Price: € 9,00 EUR
-- [Effen polyester hoofddoek – zwart, grijs of bruin | BRO Webshop](https://newbro.be/products/printed-chiffon-turkish-turban-polyester-headscarf): Stijlvolle effen polyester hoofddoek in zwart, grijs of bruin. One size (70×180 cm), licht en veelzijdig. Ontdek hem nu bij BRO Webshop.
-  Updated: 2025-10-08T19:51:24Z
-  Vendor: BRO Webshop
-  Product Type: 0
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/printed-chiffon-turkish-turban-polyester-headscarf-579.webp?v=1757155233
-  - [Zwart / 70X180CM](https://newbro.be/products/printed-chiffon-turkish-turban-polyester-headscarf?variant=55445698707836)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/printed-chiffon-turkish-turban-polyester-headscarf-black-70x180cm-754.webp?v=1752304461
-    Price: € 12,00 EUR
-  - [Bruin / 70X180CM](https://newbro.be/products/printed-chiffon-turkish-turban-polyester-headscarf?variant=55445698740604)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/printed-chiffon-turkish-turban-polyester-headscarf-brown-70x180cm-633.webp?v=1752304467
-    Price: € 12,00 EUR
 - [Muslim Women's Wear Robe Sequined Embroidery - BRO Webshop](https://newbro.be/products/muslim-womens-wear-robe-sequined-embroidery): Product information: Color: blue, dark green Sleeve type: regular sleeve Main fabric composition: Polyester (polyester fiber) Size: M,L,XL,XXL Skirt length: long skirt Sleeve length: long sleeve Craft: Embroidery Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Robe * 1 Product Image: - BRO Webshop
   Updated: 2025-10-08T19:51:24Z
   Vendor: BRO Webshop
@@ -6041,7 +5029,7 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-womens-wear-robe-sequined-embroidery-dark-green-m-919.webp?v=1752304712
     Price: € 28,50 EUR
 - [Abaya – gebedskleed met losse pasvorm, lange mouwen & effen kleur | BRO Webshop](https://newbro.be/products/abaya-gebedskleed-met-losse-pasvorm-lange-mouwen-effen-kleur): Abaya – gebedskleed met losse pasvorm, lange mouwen & effen kleur. Met luchtige pasvorm, lange mouwen en strijkvrije stof. Comfortabel, modest en elegant. Shop nu bij BRO Webshop.
-  Updated: 2025-10-08T19:51:25Z
+  Updated: 2025-10-12T23:57:45Z
   Vendor: BRO Webshop
   Product Type: 0
   Availability: Available
@@ -6120,82 +5108,6 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/arab-dubai-ethnic-clothes-middle-east-abaya-coat-tassle-fashion-dress-411.webp?v=1752306804
     Price: € 25,75 EUR
-- [Multicolor ademende hijab met hoge elasticiteit | BRO Webshop](https://newbro.be/products/multi-color-breathable-neck-high-elastic-base-cap-cover-turban): Effen katoenen hijab, ademend en stijlvol. Verkrijgbaar in diverse kleuren. Geschikt voor elk seizoen. Ontdek hem nu bij BRO Webshop.
-  Updated: 2025-10-08T19:51:25Z
-  Vendor: BRO Webshop
-  Product Type: 0
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/multi-color-breathable-neck-high-elastic-base-cap-cover-turban-gray-712.webp?v=1757162221
-  - [Beige](https://newbro.be/products/multi-color-breathable-neck-high-elastic-base-cap-cover-turban?variant=55445702869372)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/multi-color-breathable-neck-high-elastic-base-cap-cover-turban-beige-767.webp?v=1752306969
-    Price: € 7,00 EUR
-  - [Bruin](https://newbro.be/products/multi-color-breathable-neck-high-elastic-base-cap-cover-turban?variant=55445702607228)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/multi-color-breathable-neck-high-elastic-base-cap-cover-turban-brown-379.webp?v=1757162221
-    Price: € 7,00 EUR
-  - [Zwart](https://newbro.be/products/multi-color-breathable-neck-high-elastic-base-cap-cover-turban?variant=55445702639996)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/multi-color-breathable-neck-high-elastic-base-cap-cover-turban-black-884.webp?v=1757162221
-    Price: € 7,00 EUR
-  - [Wit](https://newbro.be/products/multi-color-breathable-neck-high-elastic-base-cap-cover-turban?variant=55445702672764)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/multi-color-breathable-neck-high-elastic-base-cap-cover-turban-white-737.webp?v=1757162221
-    Price: € 7,00 EUR
-  - [Licht Grijs](https://newbro.be/products/multi-color-breathable-neck-high-elastic-base-cap-cover-turban?variant=55445702705532)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/multi-color-breathable-neck-high-elastic-base-cap-cover-turban-light-583.webp?v=1757162221
-    Price: € 7,00 EUR
-  - [Licht Khaki](https://newbro.be/products/multi-color-breathable-neck-high-elastic-base-cap-cover-turban?variant=55445702738300)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/multi-color-breathable-neck-high-elastic-base-cap-cover-turban-light-694.webp?v=1757162221
-    Price: € 7,00 EUR
-  - [Gras Groen](https://newbro.be/products/multi-color-breathable-neck-high-elastic-base-cap-cover-turban?variant=55445702771068)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/multi-color-breathable-neck-high-elastic-base-cap-cover-turban-grass-401.webp?v=1757162221
-    Price: € 7,00 EUR
-  - [Gember Geel](https://newbro.be/products/multi-color-breathable-neck-high-elastic-base-cap-cover-turban?variant=55445702803836)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/multi-color-breathable-neck-high-elastic-base-cap-cover-turban-ginger-809.webp?v=1757162221
-    Price: € 7,00 EUR
-  - [Grijs](https://newbro.be/products/multi-color-breathable-neck-high-elastic-base-cap-cover-turban?variant=55445702836604)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/multi-color-breathable-neck-high-elastic-base-cap-cover-turban-gray-712.webp?v=1757162221
-    Price: € 7,00 EUR
-  - [Saffier Blauw](https://newbro.be/products/multi-color-breathable-neck-high-elastic-base-cap-cover-turban?variant=55445702902140)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/multi-color-breathable-neck-high-elastic-base-cap-cover-turban-221.webp?v=1752306973
-    Price: € 7,00 EUR
-- [Zacht chiffon hijab hoofddoek – licht antislip, veelzijdig & geschikt voor elk seizoen](https://newbro.be/products/chiffon-turban-pleated-drawstring-cap-suit-monochrome): Ervaar ultiem comfort met onze chiffon hijab hoofddoek met verstelbare bandjes. Licht antislip materiaal, ademend en perfect voor lente, zomer, herfst en winter. Voeg stijl toe aan je dagelijkse look met maximale grip zonder te schuiven.
-  Updated: 2025-10-08T19:51:25Z
-  Vendor: BRO Webshop
-  Product Type: 0
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/chiffon-turban-pleated-drawstring-cap-suit-monochrome-250.webp?v=1757155109
-  - [Wit](https://newbro.be/products/chiffon-turban-pleated-drawstring-cap-suit-monochrome?variant=55445703623036)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/chiffon-turban-pleated-drawstring-cap-suit-monochrome-white-452.webp?v=1752307128
-    Price: € 9,00 EUR
-  - [Zwart](https://newbro.be/products/chiffon-turban-pleated-drawstring-cap-suit-monochrome?variant=55445703655804)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/chiffon-turban-pleated-drawstring-cap-suit-monochrome-black-608.webp?v=1752307132
-    Price: € 9,00 EUR
-  - [Wijn Rood](https://newbro.be/products/chiffon-turban-pleated-drawstring-cap-suit-monochrome?variant=55445703688572)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/chiffon-turban-pleated-drawstring-cap-suit-monochrome-wine-red-454.webp?v=1752307138
-    Price: € 9,00 EUR
-  - [Saffier Blauw](https://newbro.be/products/chiffon-turban-pleated-drawstring-cap-suit-monochrome?variant=55445703721340)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/chiffon-turban-pleated-drawstring-cap-suit-monochrome-sapphire-blue-267.webp?v=1752307143
-    Price: € 9,00 EUR
-  - [Marine Blauw](https://newbro.be/products/chiffon-turban-pleated-drawstring-cap-suit-monochrome?variant=55445703754108)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/chiffon-turban-pleated-drawstring-cap-suit-monochrome-navy-blue-279.webp?v=1752307147
-    Price: € 9,00 EUR
-  - [Bruin](https://newbro.be/products/chiffon-turban-pleated-drawstring-cap-suit-monochrome?variant=55445703786876)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/chiffon-turban-pleated-drawstring-cap-suit-monochrome-brown-783.webp?v=1752307152
-    Price: € 9,00 EUR
 - [Premium 'Keep Calm' T-shirt voor moslima's](https://newbro.be/products/premium-organic-shirt-women): Dames T-shirt met regular fit. • Gemaakt van 100 % gekamd, ringgesponnen biologisch katoen (180 gsm) voor een zacht premium gevoel• Ingezette mouwen• 1x1 geribde halsboord• Brede dubbele doorstikking aan mouwuiteinden en zoom voor extra duurzaamheid Was het T-shirt binnenstebuiten met gelijkaardige kleuren en strijk niet rechtstreeks over de print. Dit premium ‘Keep Calm’ T-shirt is ideaal voor moslima’s die op zoek zijn naar een comfortabel, stijlvol kledingstuk voor casual of modest fashion. Zoekwoorden: premium moslima T-shirt, islamitisch T-shirt, biologisch katoen shirt voor dames, modest fashion België. Tolerance +/- 3cm XS S M L XL XXL Width 45 48 51 54 57 61 Length 56,5 59,5 61,5 63,5 65,5 67,5
   Updated: 2025-10-08T19:51:26Z
   Vendor: BRO Webshop
@@ -6251,7 +5163,7 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/689267b5a5bc3.jpg?v=1754425671
     Price: € 22,95 EUR
 - [Luxe jersey, zachte stretch – jouw everyday hijab | bij BRO](https://newbro.be/products/luxe-jersey-zachte-stretch-jouw-nieuwe-everyday-hijab): Luxe Jersey, zachte stretch – jouw nieuwe everyday hijab, zacht, ademend, mooie val en blijft goed zitten. Makkelijk te stylen en te wassen.
-  Updated: 2025-10-11T15:18:35Z
+  Updated: 2025-10-12T21:05:23Z
   Vendor: Diellla - Netazone
   Product Type: Direct sales
   Availability: Available
@@ -6259,79 +5171,79 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
   - [#27 Lila Grijs](https://newbro.be/products/luxe-jersey-zachte-stretch-jouw-nieuwe-everyday-hijab?variant=55806945821052)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Licht_Grijs_LQ_4a312efc-e89c-42af-9992-13775776a066.jpg?v=1760296559
-    Price: € 9,85 EUR
+    Price: € 11,85 EUR
   - [#1 Zwart](https://newbro.be/products/luxe-jersey-zachte-stretch-jouw-nieuwe-everyday-hijab?variant=55658487153020)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/zwart_LQ.jpg?v=1760296559
-    Price: € 9,85 EUR
+    Price: € 11,85 EUR
   - [#2 Wit](https://newbro.be/products/luxe-jersey-zachte-stretch-jouw-nieuwe-everyday-hijab?variant=55768113250684)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Wit_LQ.jpg?v=1760296559
-    Price: € 9,85 EUR
+    Price: € 11,85 EUR
   - [#3 Prelude](https://newbro.be/products/luxe-jersey-zachte-stretch-jouw-nieuwe-everyday-hijab?variant=55737994281340)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Prelude_LQ.jpg?v=1760296559
-    Price: € 9,85 EUR
+    Price: € 11,85 EUR
   - [#6 Roze](https://newbro.be/products/luxe-jersey-zachte-stretch-jouw-nieuwe-everyday-hijab?variant=55804757705084)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Roze_LQ.jpg?v=1760296559
-    Price: € 9,85 EUR
+    Price: € 11,85 EUR
   - [#11 Oud Roze](https://newbro.be/products/luxe-jersey-zachte-stretch-jouw-nieuwe-everyday-hijab?variant=55804761309564)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Oud_Roze_LQ.jpg?v=1760296559
-    Price: € 9,85 EUR
+    Price: € 11,85 EUR
   - [#14 Hampton](https://newbro.be/products/luxe-jersey-zachte-stretch-jouw-nieuwe-everyday-hijab?variant=55658487087484)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Hampton_LQ.jpg?v=1760296559
-    Price: € 9,85 EUR
+    Price: € 11,85 EUR
   - [#15 Tan](https://newbro.be/products/luxe-jersey-zachte-stretch-jouw-nieuwe-everyday-hijab?variant=55737995559292)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Tan_LQ.jpg?v=1760296559
-    Price: € 9,85 EUR
+    Price: € 11,85 EUR
   - [#16 Lichte Klei](https://newbro.be/products/luxe-jersey-zachte-stretch-jouw-nieuwe-everyday-hijab?variant=55768332861820)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/16_Lichte_Klei_LQ.jpg?v=1760296559
-    Price: € 9,85 EUR
+    Price: € 11,85 EUR
   - [#17 Beige](https://newbro.be/products/luxe-jersey-zachte-stretch-jouw-nieuwe-everyday-hijab?variant=55806970003836)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Beige_LQ.jpg?v=1760296559
-    Price: € 9,85 EUR
+    Price: € 11,85 EUR
   - [#20 Kashmir Blauw](https://newbro.be/products/luxe-jersey-zachte-stretch-jouw-nieuwe-everyday-hijab?variant=55806884807036)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Kashmir_Blue_LQ.jpg?v=1760296559
-    Price: € 9,85 EUR
+    Price: € 11,85 EUR
   - [#21 Konings Blauw](https://newbro.be/products/luxe-jersey-zachte-stretch-jouw-nieuwe-everyday-hijab?variant=55804763537788)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Konings_Blauw_LQ.jpg?v=1760195915
-    Price: € 9,85 EUR
+    Price: € 11,85 EUR
   - [#24 Cape Cod](https://newbro.be/products/luxe-jersey-zachte-stretch-jouw-nieuwe-everyday-hijab?variant=55737996312956)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Cape_Cod_LQ.jpg?v=1760195915
-    Price: € 9,85 EUR
+    Price: € 11,85 EUR
   - [#30 Donker Grijs](https://newbro.be/products/luxe-jersey-zachte-stretch-jouw-nieuwe-everyday-hijab?variant=55737997459836)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Grijs_groen_LQ.jpg?v=1760195915
-    Price: € 9,85 EUR
+    Price: € 11,85 EUR
   - [#32 Donker Bruin](https://newbro.be/products/luxe-jersey-zachte-stretch-jouw-nieuwe-everyday-hijab?variant=55658487120252)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Donker_Bruin_LQ.jpg?v=1760195915
-    Price: € 9,85 EUR
+    Price: € 11,85 EUR
   - [#37 Donker Groen](https://newbro.be/products/luxe-jersey-zachte-stretch-jouw-nieuwe-everyday-hijab?variant=55768100045180)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/groen_LQ.jpg?v=1760195915
-    Price: € 9,85 EUR
+    Price: € 11,85 EUR
   - [#39 Oosters Blauw](https://newbro.be/products/luxe-jersey-zachte-stretch-jouw-nieuwe-everyday-hijab?variant=55768228561276)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Eastern_Blue_LQ.jpg?v=1760195915
-    Price: € 9,85 EUR
+    Price: € 11,85 EUR
   - [#42 Koper](https://newbro.be/products/luxe-jersey-zachte-stretch-jouw-nieuwe-everyday-hijab?variant=55768271454588)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Koper_LQ.jpg?v=1760195915
-    Price: € 9,85 EUR
+    Price: € 11,85 EUR
   - [#44 Dennenappel Bruin](https://newbro.be/products/luxe-jersey-zachte-stretch-jouw-nieuwe-everyday-hijab?variant=55768412684668)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Lissabon_Bruin_LQ.jpg?v=1760195915
-    Price: € 9,85 EUR
+    Price: € 11,85 EUR
 - [No Snag Hijab Clip.](https://newbro.be/products/no-snag-hijab-clip-een-set-van-vier): No Snag Hijab Clip, een set van vier niet-uitzakkende hijabpinnen zijn een praktische en stijlvolle oplossing om twee stukken stof aan elkaar te bevestigen, met name gebruikt voor hijaabs. Deze pinnen zijn zo ontworpen dat ze gemakkelijk op de stof kunnen worden geschoven en zorgen voor een stevige grip zonder dat ze doorzakken of hangen.
   Updated: 2025-10-05T23:10:04Z
   Vendor: BRO Webshop
@@ -6355,7 +5267,7 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/sluitpinnen_Hijab_2.webp?v=1757344329
     Price: € 1,50 EUR
 - [Premium Jersey Hijab met subtiele lijnafwerking.](https://newbro.be/products/premium-jersey-met-lijn): Zachte, rekbare jersey hijab met subtiele lijnafwerking. Valt elegant, kreukt weinig en blijft de hele dag comfortabel zitten.
-  Updated: 2025-10-12T18:08:20Z
+  Updated: 2025-10-12T21:04:11Z
   Vendor: Diellla - Netazone
   Product Type: 
   Availability: Available
@@ -6363,66 +5275,66 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
   - [#11 Pine Cone](https://newbro.be/products/premium-jersey-met-lijn?variant=55836822962556)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Pine_Cone_LQ.jpg?v=1760185852
-    Price: € 9,85 EUR
+    Price: € 11,85 EUR
   - [#12 Dove Grey](https://newbro.be/products/premium-jersey-met-lijn?variant=55836822995324)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Dove_Grey_LQ.jpg?v=1760185852
-    Price: € 9,85 EUR
+    Price: € 11,85 EUR
   - [#14 Almond Frost](https://newbro.be/products/premium-jersey-met-lijn?variant=55836823060860)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Almond_Frost_LQ.jpg?v=1760185852
-    Price: € 9,85 EUR
+    Price: € 11,85 EUR
   - [#17 Pickled Bluewood](https://newbro.be/products/premium-jersey-met-lijn?variant=55836823159164)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Pickled_Bluewood_LQ.jpg?v=1760185852
-    Price: € 9,85 EUR
+    Price: € 11,85 EUR
   - [#2 Black](https://newbro.be/products/premium-jersey-met-lijn?variant=55836822897020)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Black_LQ.jpg?v=1760287436
-    Price: € 9,85 EUR
+    Price: € 11,85 EUR
   - [#10 Clam Shell](https://newbro.be/products/premium-jersey-met-lijn?variant=55836822929788)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Clam_Shell_LQ.jpg?v=1760287436
-    Price: € 9,85 EUR
+    Price: € 11,85 EUR
   - [#15 Parelmoer](https://newbro.be/products/premium-jersey-met-lijn?variant=55836823093628)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Parelmoer_LQ.jpg?v=1760287436
-    Price: € 9,85 EUR
+    Price: € 11,85 EUR
   - [#16 Calypso](https://newbro.be/products/premium-jersey-met-lijn?variant=55836823126396)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Calypso_LQ.jpg?v=1760287436
-    Price: € 9,85 EUR
+    Price: € 11,85 EUR
   - [#20 Envy](https://newbro.be/products/premium-jersey-met-lijn?variant=55836823191932)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Envy_LQ.jpg?v=1760287436
-    Price: € 9,85 EUR
+    Price: € 11,85 EUR
   - [#21 Saddle](https://newbro.be/products/premium-jersey-met-lijn?variant=55836823224700)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Saddle_LQ_17485c8e-5fda-49f6-b070-27cc821373b0.jpg?v=1760287436
-    Price: € 9,85 EUR
+    Price: € 11,85 EUR
 - [Luxe jersey hijab in Lila Grijs | bij BRO](https://newbro.be/products/luxe-jersey-hijab-kopie-lila-grijs): Deze luxe Jersey hijab, zacht, ademend, mooie val en blijft goed zitten. Makkelijk te stylen en te wassen.
-  Updated: 2025-10-12T19:34:28Z
+  Updated: 2025-10-12T21:18:18Z
   Vendor: Diellla - Netazone
   Product Type: Direct sales
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Licht_Grijs_LQ_4a312efc-e89c-42af-9992-13775776a066.jpg?v=1760296559
   Price: € 9,85 EUR
 - [Luxe jersey hijab in Zwart | bij BRO](https://newbro.be/products/luxe-jersey-hijab-zwart): Deze luxe Jersey hijab, zacht, ademend, mooie val en blijft goed zitten. Makkelijk te stylen en te wassen.
-  Updated: 2025-10-12T19:47:03Z
+  Updated: 2025-10-12T21:18:58Z
   Vendor: Diellla - Netazone
   Product Type: Direct sales
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/zwart_LQ.jpg?v=1760296559
   Price: € 9,85 EUR
 - [Luxe jersey hijab in Lila Grijs | bij BRO](https://newbro.be/products/luxe-jersey-hijab-wit): Deze luxe Jersey hijab, zacht, ademend, mooie val en blijft goed zitten. Makkelijk te stylen en te wassen.
-  Updated: 2025-10-12T19:51:35Z
+  Updated: 2025-10-12T21:19:27Z
   Vendor: Diellla - Netazone
   Product Type: Direct sales
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Wit_LQ.jpg?v=1760296559
   Price: € 9,85 EUR
 - [Luxe jersey hijab Prelude | bij BRO](https://newbro.be/products/luxe-jersey-hijab-prelude): Deze luxe Jersey hijab, zacht, ademend, mooie val en blijft goed zitten. Makkelijk te stylen en te wassen.
-  Updated: 2025-10-12T19:57:43Z
+  Updated: 2025-10-12T21:20:10Z
   Vendor: Diellla - Netazone
   Product Type: Direct sales
   Availability: Available
@@ -6444,7 +5356,7 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
 Hijab kopen online ?
 Jilbab dames modeshop ?
 BRO Webshop - de one-stop-shop voor Islamitische kleding - Halal mode - Modest fashion
-  Updated: 2025-10-08T19:51:11Z
+  Updated: 2025-10-12T23:08:27Z
   Total Products: 194
 - [Islam beleving : Alles Voor Salat](https://newbro.be/collections/gebedskleed-kopen-online-bij-de-islam-webshop-voor-moslim-tapijt): In onze collectie "Islam beleving" vind je alles voor de salat.  een gebedskleed voor moslims of een Tasbih, je vindt het er allemaal.
   Updated: 2025-10-05T18:39:48Z
@@ -6459,8 +5371,8 @@ BRO Webshop - De one-stop-shop voor Islamitische kleding - Halal mode - Modest f
   Updated: 2025-10-08T20:44:47Z
   Total Products: 90
 - [Hijab kopen online](https://newbro.be/collections/hijab-kopen-online-elegante-hoofdmode-bij-bro-webshop): Een hijab kopen online? Je kunt nu eenvoudig jouw ideale hijab kopen online. Ontdek onze selectie en laat je inspireren. Bekijk onze collectie.
-  Updated: 2025-10-12T19:17:50Z
-  Total Products: 67
+  Updated: 2025-10-12T23:24:42Z
+  Total Products: 60
 - [Moderne kleding voor de moslim man](https://newbro.be/collections/moderne-kleding-voor-de-moslim-man): Deze collectie biedt een verfijnde selectie moderne kleding voor de moslim man die elegantie moeiteloos combineren met islamitische waarden - BRO Webshop
   Updated: 2025-10-06T23:45:05Z
   Total Products: 27
@@ -6470,23 +5382,23 @@ BRO Webshop - De one-stop-shop voor Islamitische kleding - Halal mode - Modest f
 - [Elegante Burkini Collectie voor Dames Online](https://newbro.be/collections/elegante-burkini-collectie-voor-dames-bij-bro-webshop): Elegante burkini collectie voor dames. Modieuze, sneldrogende burkinis die comfort en stijl combineren. Ideaal voor strand en zwembad - BRO Webshop
   Updated: 2025-10-05T18:39:39Z
   Total Products: 10
-- [Stretchy & comfortabel](https://newbro.be/collections/stretchy-comfortabel-premium-jersey)
-  Updated: 2025-10-12T19:57:42Z
-  Total Products: 22
+- [Stretchy & comfortabel](https://newbro.be/collections/stretchy-comfortabel-premium-jersey): Een hijab die stretchy en comfortabel is, makkelijk blijft zitten zonder speldjes. Ideaal voor dagelijks gebruik en sport.
+  Updated: 2025-10-12T23:34:06Z
+  Total Products: 17
 - [Superzacht, ademend & eco-vriendelijk](https://newbro.be/collections/superzacht-ademend-eco-vriendelijk-bamboo-jersey)
   Updated: 2025-10-08T19:51:11Z
   Total Products: 0
 - [Luchtig en chic](https://newbro.be/collections/luchtig-en-chic-chiffon-hoofddoek)
-  Updated: 2025-10-08T19:51:11Z
+  Updated: 2025-10-12T23:08:27Z
   Total Products: 8
 - [Voor een semi-formele & professionele look](https://newbro.be/collections/voor-een-semi-formele-professionel-look-georgette-hoofddoek)
   Updated: 2025-10-08T19:51:11Z
   Total Products: 0
 - [Soepel, zacht & ademend](https://newbro.be/collections/soepel-zacht-ademend-viscose-hoofddoek)
-  Updated: 2025-10-08T19:51:11Z
+  Updated: 2025-10-12T23:08:27Z
   Total Products: 2
 - [Basic maar comfortabel](https://newbro.be/collections/basic-maar-comfortabel-katoenen-hoofddoek)
-  Updated: 2025-10-08T19:51:11Z
+  Updated: 2025-10-12T23:08:27Z
   Total Products: 5
 - [Casual chic, soepel en netjes](https://newbro.be/collections/casual-chic-soepel-en-netjes-crepe-hoofddoek)
   Updated: 2025-10-08T19:51:11Z
@@ -6501,7 +5413,7 @@ BRO Webshop - De one-stop-shop voor Islamitische kleding - Halal mode - Modest f
   Updated: 2025-10-08T19:51:11Z
   Total Products: 0
 - [Decoratieve hijabs & sjaals](https://newbro.be/collections/decoratief-laat-je-zien)
-  Updated: 2025-10-08T19:51:11Z
+  Updated: 2025-10-12T23:08:26Z
   Total Products: 5
 - [Luxe jersey, zachte stretch – jouw nieuwe everyday hijab](https://newbro.be/collections/luxe-jersey-zachte-stretch-jouw-nieuwe-everyday-hijab): “Luxe jersey, zachte stretch – jouw nieuwe everyday hijab” combineert comfort met een verfijnde look.De premium jersey met lycra voelt zacht aan, ademt en valt natuurlijk, zodat je hijab de hele dag mooi blijft zitten zonder speldenregen of constant bijstellen.Dankzij de soepele stretch style je hem in één beweging: casual voor overdag of elegant voor een avondje uit.Kreukarm en onderhoudsvriendelijk—perfect voor een drukke agenda.
   Updated: 2025-10-12T19:57:42Z
