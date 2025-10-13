@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-10-25T08:25:11Z
 - Contact Email: info@worldwidehifi.shop
-- Updated At: 2025-10-13T08:00:33.188Z
+- Updated At: 2025-10-13T12:00:33.061Z
 
 ## ABOUT
 WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage audio gear with insured worldwide shipping—buy here when you want premium brands for less, rare models in stock, real-item photos, highest quality guarantee and expert support.
@@ -2269,16 +2269,16 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Updated: 2025-10-07T04:42:58Z
   Total Products: 7
 - [HiFi Tuner gebraucht kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/netzwerkplayer-gebraucht-kaufen): HiFi Tuner gebraucht kaufen ✓ Netzwerkplayer, HiFi-Tuner, HiFi-Streamer & mehr im Top-Zustand ✓ Weltweit sicherer Versand ✓ Preiswertes High-End HiFi bestellen
-  Updated: 2025-10-05T13:03:39Z
+  Updated: 2025-10-13T11:19:22Z
   Total Products: 11
 - [HiFi Möbel gebraucht kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/hifi-moebel-gebraucht-kaufen): HiFi Möbel gebraucht kaufen ✓ Gebrauchte HiFi Möbel & HiFi Racks im Top-Zustand ✓ Sicherer Versand ✓ Preiswertes High-End HiFi
   Updated: 2025-08-16T16:03:59Z
   Total Products: 5
 - [Gebrauchte HiFi Kabel kaufen, Kabel für High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/hifi-kabel-gebraucht-kaufen): Gebrauchte HiFi Kabel kaufen ✓ Lautsprecherkabel & Kabel für High-End Geräte im Top-Zustand ✓ Sicherer Versand ✓ Günstiges High-End HiFi
-  Updated: 2025-10-11T11:22:25Z
+  Updated: 2025-10-13T11:19:22Z
   Total Products: 162
 - [Gebrauchte Lautsprecherkabel kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/gebrauchte-lautsprecherkabel-kaufen): Gebrauchte Lautsprecherkabel kaufen ✓ Gebrauchte Lautsprecherkabel & mehr im Top-Zustand ✓ Sicherer Versand ✓ Preiswertes High-End HiFi
-  Updated: 2025-10-06T11:19:30Z
+  Updated: 2025-10-13T11:19:22Z
   Total Products: 38
 - [HiFi Netzkabel gebraucht kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/high-end-netzkabel-gebraucht-kaufen): HiFi Netzkabel gebraucht kaufen ✓ High-End Audiokabel, HiFi Netzkabel & mehr im Top-Zustand ✓ Versicherter Versand ✓ Preiswertes High-End HiFi online bestellen
   Updated: 2025-10-11T11:22:25Z
@@ -2296,7 +2296,7 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Updated: 2025-10-11T11:22:25Z
   Total Products: 24
 - [Verkaufte HiFi-Artikel](https://worldwidehifi.shop/collections/verkaufte-hifi-artikel)
-  Updated: 2025-10-12T21:16:20Z
+  Updated: 2025-10-13T11:19:22Z
   Total Products: 112
 - [Highest End](https://worldwidehifi.shop/collections/highest-end)
   Updated: 2025-10-11T11:22:25Z
