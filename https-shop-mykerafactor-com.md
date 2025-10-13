@@ -6,26 +6,26 @@
 - Timezone: America/Chicago
 - Created At: 2020-04-27T19:06:17Z
 - Contact Email: laurend@skinqri.com
-- Updated At: 2025-10-13T00:00:29.277Z
+- Updated At: 2025-10-13T12:00:30.428Z
 
 ## Products
 
 - [KeraFactor® Scalp Stimulating Shampoo and Conditioner](https://shop.mykerafactor.com/products/kerafactor-scalp-stimulating-shampoo-conditioner): The KeraFactor 2 in 1 Shampoo and Conditioner exfoliates and stimulates the scalp and hair using a unique combination of conditioners and growth factors designed to enhance scalp circulation and reinvigorate the scalp and hair, leading to hair that appears fuller, has more body, and is healthier. Each 100ml bottle has enough quantity to be used daily for at least 1 month. Lasts for 40 washes Only a pea-sized drop is used and lathered before massaging into the scalp. Leave in for 1 minute before rinsing. For patients with significant hair, it is recommended to use regular shampoo first and use this product as more of a scalp and hair treatment than a shampoo wash. Lastly, condition your ends with your regular conditioner. List of Ingredients Aqua, Coco-Glucoside, Glycerin, Caprylyl/Capryl Glucoside, Pentylene Glycol, Disodium Lauryl Sulfosuccinate, Lauramidopropyl Betaine, Sodium Cocoyl Apple Amino Acids, Glycol Distearate, Betaine, Polyquatenium-10, sh-Oligopeptide-1, sh-Oligopeptide-4, sh-Polypeptide-1, sh-Polypeptide-7, sh-Polypeptide-9, sh-Polypeptide-11, sh-Polypeptide-71, Copper Tripeptide-1, Niacinamide, 3-0-Ethyl Ascorbic Acid, Adenosine, Caffeine, Arginine, Tetrahydrocurcumin, Curcumin, Menthol, Silk Amino Acids, Tetrasodium Glutamate Diacetate, Mensa Avensis Leaf/Stem Oil, Lecithin, Trehalose, Glyceryl Caprylate, Hexylene Glycol, Panthenol, Polysorbate 60, Citric Acid, Sodium Citrate, Sodium Chloride, Phenoxyethanol Possible Adverse Reactions: Scalp irritation, rash, or temporary redness. If a reaction occurs, please discontinue use. Warning: Avoid this product if you are allergic to Curcumin. Avoid contact with eyes. In case of contact with eyes, rinse immediately with plenty of water. Keep out of reach of children. Not intended for use by pregnant or nursing women or by any person under the age of 18. If you are taking any medications, consult with your doctor or health professional before use. Storage: Keep in a cool place. Do not freeze.
-  Updated: 2025-10-12T19:57:57Z
+  Updated: 2025-10-13T05:05:46Z
   Vendor: KeraFactor by SkinQRI
   Product Type: Hair Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0283/3016/4333/files/28-opt.jpg?v=1751547430
   Price: $49.00 USD
 - [KeraFactor® Scalp Stimulating Solution](https://shop.mykerafactor.com/products/kerafactor-scalp-stimulating-solution): KeraFactor® Scalp Stimulating Solution – 50ml Bottle Healthy-looking hair starts at the scalp. This 50ml bottle of KeraFactor® Scalp Stimulating Solution is formulated with our patented KeraFactor Peptide Complex (KFP™) and next-generation Nanofluorosome™ Technology to help nourish the scalp and support visibly thicker, fuller, and stronger hair. Why it works: KFP™ delivers a concentrated dose of 7 biomimetic growth factors and skin proteins that target thinning, weak, or dormant hair follicles. These ingredients are designed to boost circulation, improve scalp health, and encourage healthier hair growth. Now enhanced with Nanofluorosomes™—a patented delivery system containing a naturally fluorescent anti-inflammatory and anti-androgenic compound that can be activated with red-light therapy devices (630–690nm) for amplified results. Includes a precision dropper applicator for easy, mess-free application directly to the scalp. ✔ Supports Hair Density and Strength ✔ Drug-Free & Hormone-Free ✔ Ideal for Daily Use or Post /Microneedling ✔ Activates with Red-Light Therapy ✔ Developed by Dermatologists ✔ FDA Cosmetics Registered (MoCRA Compliant) How to Use: Apply a full dropper directly to the scalp once daily or as directed by your provider. Massage in gently. Do not rinse. Caution: Avoid use if allergic to curcumin. For external use only. Avoid eye contact. Not recommended for individuals under 18 or for those who are pregnant or nursing. Storage: Store in a cool, dry place. Do not freeze. Ingredients: Water, Pentylene Glycol, Niacinamide, Panthenol, Arginine, Glycerin, Carbomer, Polysorbate 60, Xanthan gum, Lecithin, Curcumin, Tetrahydrocurcumin, 3-0-ethyl ascorbic acid, Phenoxyethanol, Hyaluronic Acid, Sodium Citrate, Citric Acid, p-Anisic Acid, Copper Tripeptide-1, sh-Oligopeptide-1, sh-Oligopeptide-4, sh-Polypeptide-7, sh-Polypeptide-9, sh-Polypeptide-1, sh-Polypeptide-11, sh-Polypeptide-71
-  Updated: 2025-10-12T23:59:46Z
+  Updated: 2025-10-13T10:22:16Z
   Vendor: KeraFactor by SkinQRI
   Product Type: Hair Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0283/3016/4333/files/Untitled_design-3.jpg?v=1757998827
   Price: $169.00 USD
 - [KeraFactor® Combo System](https://shop.mykerafactor.com/products/kerafactor-solution-and-conditioner-combo): What's in the Box?: KeraFactor Scalp Stimulating Solution KeraFactor Scalp Stimulating Shampoo and Conditioner KeraFactor Scalp Stimulating Wet & Dry Brush Scalp Stimulating Solution Each highly concentrated 50ml bottle of KeraFactor Solution contains the proprietary KeraFactor Peptide Complex (KFP™). KFP is a unique formula that contains 7 Polypeptides that include both specifically selected growth factors and skin proteins to help with hair and scalp health. This patented complex helps to "turn on" weak or resting hair follicles and improve scalp circulation and nutrients to produce thicker, longer healthy-looking hair. In addition to the solution, each bottle contains a dropper applicator for specific and efficient delivery of the KFP to the scalp and surrounding follicles. Use 1 full dropper morning or night on dry or wet hair, massage onto scalp. KeraFactor Shampoo and Conditioner The KeraFactor Shampoo and Conditioner exfoliates and stimulates the scalp and hair using a unique combination of conditioners and growth factors designed to enhance scalp circulation and reinvigorate the scalp and hair, leading to hair that appears fuller, has more body, and is healthier. Each 100ml bottle has enough quantity to be used daily for at least 1 month. Only a pea-sized drop is used and lathered before massaging into the scalp. Leave in for 1 minute before rinsing. It is recommended for patients with significant hair to use regular shampoo first and use it as more of a scalp and hair treatment than a shampoo wash. Lastly, condition your ends with your regular conditioner. Scalp Stimulating Brush We recommend using the brush on wet or dry hair with small circular or back and forth motions. The gently curved brush is designed to fit comfortably in the palm of your hand. The soft bristles are contoured to effectively remove debris and increase circulation on the scalp. Directions: Use this brush to massage the scalp with any KeraFactor Scalp Stimulating products. Warning: Do not over-scrub, the scalp should be in a light pink color. If prolonged redness or irritation persists in the scalp, please discontinue immediately. NanoFluorosomes: We are very happy to announce the next generation of our proprietary KeraFactor formula, Kerafactor with Nanofluorosomes. Nanofluorosomes are a technology that we have been working on for quite a while at KeraFactor and the new KeraFactor take-home solution is the first to include this new compound. What is a nanofluorosome and why are we so excited to add it to our products? Since the beginning of KeraFactor, we have strived to be the best fertilizer for the scalp, but we also know that being the fertilizer is not good enough alone you also have to try and reduce inflammation and follicle miniaturization. This is where the nanofluorosomes come in. We found a potent anti-inflammatory and anti-androgenic compound and wrapped it into our nanoliposome technology to create a nanofluorosome. What makes the compound even more special is that it is naturally fluorescent, which means this compound can be additionally activated with the correct laser or light source. This is why we call it a nanofluorosome and why this new formula has a yellowish glow to it. Nanofluorosomes can be activated by laser hair caps or machines in the 630-690nm range. Which is already used by many patients to improve hair and scalp circulation and inflammation, now they can add this new formula to their at-home laser routine for even better results. Possible Adverse Reactions: Scalp irritation, rash, or temporary redness. If a reaction occurs, please discontinue use. Warning: Avoid this product if you are allergic to Curcumin. Avoid contact with eyes. In case of contact with eyes, rinse immediately with plenty of water. Keep out of reach of children. Not intended for use by pregnant or nursing women or by any person under the age of 18. If you are taking any medications, consult with your doctor or health professional before use. Storage: Keep in a cool place. Do not freeze.
-  Updated: 2025-10-12T14:54:13Z
+  Updated: 2025-10-13T07:42:01Z
   Vendor: KeraFactor by SkinQRI
   Product Type: Hair Care
   Availability: Available
@@ -39,7 +39,7 @@
   Image: https://cdn.shopify.com/s/files/1/0283/3016/4333/files/8-opt.jpg?v=1751546409
   Price: $99.00 USD
 - [Brows by KeraFactor®](https://shop.mykerafactor.com/products/brows-by-kerafactor): Introducing Brows by KeraFactor – a cutting-edge brow serum formulated with a potent blend of nine biomimetic growth factors, meticulously selected to stimulate and nourish brow follicles for fuller, thicker, and more defined looking brows. At the heart of our formula lies a powerful combination of biomimetic growth factors harnessed to ignite the growth process of your brows. These growth factors work synergistically to activate dormant follicles while enhancing the thickness and density of existing ones. Pentylene Glycol serves as the foundation of our formula, offering moisturizing, hydrating, and antimicrobial properties to create an optimal environment for healthy brows. Glycerin, a staple in skincare, not only shapes and defines your brows but also seals in moisture, ensuring they stay hydrated, which is crucial for promoting healthy brow rejuvenation. To maximize brow health, Brows by KeraFactor features a proprietary blend of nine growth factors. These growth factors, including Sh-Oligopeptides, and sh-Polypeptides, stimulate the follicle, improve circulation, and enhance the Anagen Phase. This synergistic action revitalizes dormant follicles, elongates the Anagen Phase, and reduces shedding, resulting in fuller-looking, more defined brows. Additional ingredients like Nicotinamide Mononucleotide, Adenosine, and Acetyl Cysteine provide antioxidant properties, promote cellular repair, reduce inflammation, and induce the Anagen Phase, further optimizing brow health. It's fuel for your brows! Unlock the full potential of your brows with Brows by KeraFactor – the ultimate solution for achieving fuller, thicker, and more defined-looking brows through the power of nine bioidentical growth factors. DIRECTIONS: Apply once daily to a clean makeup-free brow area. INGREDIENTS: Aqua; Pentylene Glycol; Glycerin; PDRN; sh-Oligopeptide-1; sh-Oligopeptide-4; sh-Polypeptide-1; sh-Polypeptide-4; sh-Polypeptide-7; sh-Polypeptide-9; sh-Polypeptide-11; sh-Polypeptide-71; sh-Polypeptide-86; Nicotinamide Mononucleotide; Adenosine; Acetyl Cysteine; Ketoglutaric Acid; 3-0-Ethyl Ascorbic Acid; Glycine; Glutathione; Arginine; Lecithin; Carbomer; Sodium Citrate; Citric Acid; Polysorbate 60; Phenoxyethanol Safe Products: Our serums are proudly free of drugs, hormones, SLS, parabens, gluten, bimatoprost, prostaglandin analogs (PGAs), sulfates, phthalates, animal testing, carcinogens, oils, and fragrances. Since KeraFactor does not contain bimatoprost and prostaglandin analogs (PGAs), it won't alter the iris or eye color, nor will it cause skin discoloration around the eye or break down fat in the eye area. Possible Adverse Reactions: irritation, rash, or temporary redness. If a reaction occurs, please discontinue use. Warning: Avoid contact with eyes. In case of contact with eyes, rinse immediately with plenty of water. Keep out of reach of children. Not intended for use by pregnant or nursing women or by any person under the age of 18. If you are taking any medications, consult with your doctor or health professional before use. Storage: Keep in a cool place. Do not freeze.
-  Updated: 2025-10-12T14:54:15Z
+  Updated: 2025-10-13T10:22:17Z
   Vendor: KeraFactor by SkinQRI
   Product Type: Brow
   Availability: Available
@@ -53,7 +53,7 @@
   Image: https://cdn.shopify.com/s/files/1/0283/3016/4333/files/10_affe34a8-1d19-4ef1-9214-d3c49ebe7bcd-opt.jpg?v=1751544973
   Price: $1,399.00 USD
 - [KeraSmooth Hair Brush](https://shop.mykerafactor.com/products/kerasmooth-hair-brush): Introducing the KeraSmooth Hair Brush by KeraFactor Discover the ultimate solution for delicate detangling with the KeraSmooth Hair Brush. Designed specifically for thinning or fine hair, KeraSmooth features innovative soft-flex teeth that ensure minimal breakage and gentle care for your locks. Key Features: Soft-Flex Teeth: Specially designed to reduce breakage and pulling, making it perfect for fragile or color-treated hair. Pain-Free Detangling: Effortlessly detangle wet hair without any discomfort. Ideal for use in the shower to distribute shampoo and conditioner evenly from root to tip. Versatile Use: Perfect for detangling after washing, prepping for blow drying, or embracing your natural hair texture. Gentle on Scalps: The soft-flex teeth are tough on knots but gentle on sensitive scalps, providing a soothing brushing experience. Patented Two-Tiered Design: Long teeth detangle and remove knots, while short teeth smooth hair for a glossy, frizz-free finish. How to Use: In the Shower: Use on wet hair to painlessly detangle and evenly distribute shampoo and conditioning treatments. Post-Wash: Detangle hair after washing to prepare for blow drying or to style your natural hair. Avoid Heat: Do not use with heat tools to maintain the integrity of the soft-flex teeth. Elevate your hair care routine with the KeraSmooth Hair Brush. Experience delicate detangling and healthier, shinier hair with every use.
-  Updated: 2025-10-12T19:02:50Z
+  Updated: 2025-10-13T02:11:13Z
   Vendor: KeraFactor by SkinQRI
   Product Type: 
   Availability: Available
@@ -93,7 +93,7 @@
   Image: https://cdn.shopify.com/s/files/1/0283/3016/4333/files/2_4a3af1ff-abfe-46a6-83a1-7ab147e53173.jpg?v=1757547576
   Price: $2,000.00 USD
 - [KeraFactor Toiletry Bag](https://shop.mykerafactor.com/products/kerafactor-toiletry-bag): Sleek. Functional. Essential. This premium black toiletry bag is the perfect companion for all your KeraFactor scalp-stimulating essentials. Designed for durability and style, it easily fits your KeraFactor Shampoo & Conditioner, Scalp Stimulating Solution, Brush, and more, whether you’re traveling or keeping your routine organized at home.
-  Updated: 2025-10-12T14:54:19Z
+  Updated: 2025-10-13T07:42:00Z
   Vendor: KeraFactor by SkinQRI
   Product Type: 
   Availability: Available
@@ -117,20 +117,20 @@
 ## Collections
 
 - [All Products](https://shop.mykerafactor.com/collections/all-hair-products)
-  Updated: 2025-10-12T11:04:58Z
+  Updated: 2025-10-13T11:04:34Z
   Total Products: 16
 - [Catalogs for the website](https://shop.mykerafactor.com/collections/catalogs-for-the-website)
-  Updated: 2025-10-12T11:04:58Z
+  Updated: 2025-10-13T11:04:34Z
   Total Products: 2
 - [Lashes and Brows by KeraFactor®](https://shop.mykerafactor.com/collections/lashes-and-brows-by-kerafactor): Introducing the newest additions to the KeraFactor family!
 ﻿Elevate your natural beauty with our cutting-edge formulas designed to give you voluminous lashes and perfectly defined brows that make a statement.
-  Updated: 2025-10-12T11:04:58Z
+  Updated: 2025-10-13T11:04:34Z
   Total Products: 2
 - [KeraFlex Laser Cap](https://shop.mykerafactor.com/collections/keraflex-laser-cap)
   Updated: 2025-10-12T11:04:58Z
   Total Products: 2
 - [DTC Store](https://shop.mykerafactor.com/collections/dtc-store)
-  Updated: 2025-10-12T11:04:58Z
+  Updated: 2025-10-13T11:04:34Z
   Total Products: 13
 
 ## Blogs
