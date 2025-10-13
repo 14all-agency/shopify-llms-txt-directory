@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2025-10-13T00:00:50.023Z
+- Updated At: 2025-10-13T08:00:51.911Z
 
 ## Products
 
@@ -8460,7 +8460,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/High-Neck-Long-Sleeve-Ribbed-Top-Brinxx-Couture-6079_ae99505f-4811-4797-bf89-89c3a0f73de1.jpg?v=1736050169
     Price: $25.00 USD
 - [Distressed Raw Hem Denim Jacket - Brinxx Couture](https://www.brinxxcouture.com/products/distressed-raw-hem-denim-jacket): This distressed raw hem denim jacket is the perfect way to make a statement. With its distressed raw hem design, you'll look cool and effortless.
-  Updated: 2025-10-12T15:00:41Z
+  Updated: 2025-10-13T04:02:55Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -10840,7 +10840,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Caramel-Platform-Combat-Boots-Brinxx-Couture-3438.jpg?v=1709862667
     Price: $50.00 USD
 - [Round Neck Puff Sleeve Sleeve Blouse - Brinxx Couture](https://www.brinxxcouture.com/products/round-neck-puff-sleeve-sleeve-blouse): This Round Neck Puff Sleeve Sleeve Blouse is perfect for any occasion! Its round neck design and puff long sleeves add a touch of elegance to your style.
-  Updated: 2025-10-12T08:01:10Z
+  Updated: 2025-10-13T01:21:11Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -16126,7 +16126,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/products/Cutout-Mock-Neck-Sleeveless-Dress-Brinxx-Couture-7698.jpg?v=1709885128
     Price: $29.99 USD
 - [Rhinestone Mock Neck Long Sleeve Dress - Brinxx Couture](https://www.brinxxcouture.com/products/rhinestone-mock-neck-long-sleeve-dress): Add some sparkle to your wardrobe with our Rhinestone Mock Neck Long Sleeve Dress! This dress features a trendy mock neck and long sleeves, adorned with dazzling rhinestones. Perfect for any special occasion, it's sure to make you stand out and feel glamorous. Shine on! Sheer: Semi-sheer Stretch: Slightly stretchy Body: Not lined Material composition: 60% viscose, 31% polyamide, 9% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements:S: Bust 29.92 in, Shoulder 13.78 in, Sleeve Length 22.83 in, Waist 26.77 in, HIP 34.65 in, Length 35.63 inM: Bust 32.28 in, Shoulder 14.37 in, Sleeve Length 23.23 in, Waist 29.13 in, HIP 37.01 in, Length 36.42 inL: Bust 34.65 in, Shoulder 14.96 in, Sleeve Length 23.62 in, Waist 31.50 in, HIP 39.37 in, Length 37.20 inXL: Bust 37.80 in, Shoulder 15.94 in, Sleeve Length 24.02 in, Waist 34.65 in, HIP 42.52 in, Length 37.99 in
-  Updated: 2025-10-12T23:41:01Z
+  Updated: 2025-10-13T03:24:12Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -17021,7 +17021,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Openwork-Color-Block-Plunge-Cover-Up-Brinxx-Couture-6527.jpg?v=1712073394
     Price: $30.00 USD
 - [Scoop Neck Spaghetti Strap Two-Piece Swim Set - Brinxx Couture](https://www.brinxxcouture.com/products/scoop-neck-spaghetti-strap-two-piece-swim-set): Dive into style and confidence with our Scoop Neck Spaghetti Strap Two-Piece Swim Set! Show off your curves and make a splash with this chic and comfortable swimsuit.
-  Updated: 2025-10-12T21:00:36Z
+  Updated: 2025-10-13T02:22:17Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -17630,7 +17630,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Backless-Cowl-Neck-Sleeveless-Cami-Dress-Brinxx-Couture-8187.jpg?v=1730294572
     Price: $25.00 USD
 - [Ruched V-Neck Sleeveless Romper](https://www.brinxxcouture.com/products/ruched-v-neck-sleeveless-romper): Features: Ruched Sheer: Opaque Material composition: 100% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Size US Top Length Bust Waist HIP Shoulder S 4 31.1 37.4 29.5 39.4 13.4 M 6/8 31.6 39 31.1 40.9 13.8 L 10/12 32.3 41.3 33.5 43.3 14.2 XL 14 33 43.7 35.8 45.7 14.6
-  Updated: 2025-10-08T05:20:55Z
+  Updated: 2025-10-13T06:21:47Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -22238,7 +22238,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Round-Neck-Long-Sleeve-Top-and-Pants-Lounge-Set-Brinxx-Couture-9593.jpg?v=1730296620
     Price: $45.00 USD
 - [Drawstring Long Sleeve Top and Shorts Lounge Set - Brinxx Couture](https://www.brinxxcouture.com/products/drawstring-long-sleeve-top-and-shorts-lounge-set): Experience ultimate comfort and style with our Drawstring Long Sleeve Top and Shorts Lounge Set. The drawstring design allows for a perfect fit.
-  Updated: 2025-10-12T20:00:47Z
+  Updated: 2025-10-13T01:02:17Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -23430,7 +23430,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Notch-Lapel-Woven-Coat-with-Side-Pockets-Brinxx-Couture-2936.jpg?v=1730297108
     Price: $40.00 USD
 - [Cable-Knit Round Neck Sweater Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress): Wrap yourself in cozy comfort and timeless style with our Cable-Knit Round Neck Sweater Dress! Made from soft, high-quality materials.
-  Updated: 2025-10-12T21:20:51Z
+  Updated: 2025-10-13T06:44:48Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -24475,7 +24475,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Faux-Fur-Large-Collared-Coat-Brinxx-Couture-4154.jpg?v=1730298299
     Price: $69.99 USD
 - [Eclipse Elegence Square Sunglasses - Brinxx Couture](https://www.brinxxcouture.com/products/eclipse-elegence-square-sunglasses): Shine bright with our Eclipse Elegence Square Sunglasses! These stylish frames are designed to make a statement and protect your eyes with UV400 lenses.
-  Updated: 2025-10-06T18:28:53Z
+  Updated: 2025-10-13T02:08:47Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -26090,7 +26090,7 @@
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/18K-Gold-Plated-Stainless-Steel-Stud-Earring-Brinxx-Couture-9396.jpg?v=1733888456
   Price: $15.00 USD
 - [Velvet Button Up Long Sleeve Shirt - Brinxx Couture](https://www.brinxxcouture.com/products/button-up-long-sleeve-shirt): Discover the versatility and style of our Velvet Button Up Long Sleeve Shirt! With its classic design and comfortable fit, this shirt is perfect for any occasion.
-  Updated: 2025-10-12T06:00:46Z
+  Updated: 2025-10-13T07:01:42Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -29476,7 +29476,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01pTwQ7K1D9HPxwMo7n__2210235870173-0-cib.jpg?v=1735321332
     Price: $69.99 USD
 - [Off-Shoulder Long Sleeve Lace Dress - Brinxx Couture](https://www.brinxxcouture.com/products/off-shoulder-long-sleeve-lace-dress): This elegant off-shoulder dress with long lace sleeves will make you feel confident and stylish. The sexy lace adds a touch of romance to this versatile piece.
-  Updated: 2025-10-11T02:57:30Z
+  Updated: 2025-10-13T04:06:49Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -29680,7 +29680,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/8752f6cf5b91414fb0fd06a0dd136a96-Max.jpg?v=1736541194
     Price: $49.99 USD
 - [Stylish Lace-Up Backless Mesh Dress for Prom Night](https://www.brinxxcouture.com/products/stylish-lace-up-backless-mesh-dress): Shop our Stylish Lace-Up Backless Mesh Dress from Brinxx Couture for a unique prom look. Features an elegant lace-up backless design. Limited stock, order now!
-  Updated: 2025-10-12T22:37:01Z
+  Updated: 2025-10-13T05:43:16Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -29694,7 +29694,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/c5d15a0063bb4d1da282e3226b864b9b-Max.jpg?v=1736541229
     Price: $49.99 USD
   - [Black / M](https://www.brinxxcouture.com/products/stylish-lace-up-backless-mesh-dress?variant=43719285047478)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/c5d15a0063bb4d1da282e3226b864b9b-Max.jpg?v=1736541229
     Price: $49.99 USD
   - [Black / L](https://www.brinxxcouture.com/products/stylish-lace-up-backless-mesh-dress?variant=43719285080246)
@@ -34290,92 +34290,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01jDARLA1sX0KLUgUBa__2213265065775-0-cib.jpg?v=1747685292
     Price: $29.99 USD
-- [Ribbed Wrap Midi Dress with Side Slit - Brinxx Couture](https://www.brinxxcouture.com/products/ribbed-wrap-midi-dress-with-side-slit): Elevate your wardrobe with the Ribbed Wrap Midi Dress featuring a flattering side slit. Its ribbed texture adds subtle sophistication, the wrap design accentuates
-  Updated: 2025-10-10T04:33:15Z
-  Vendor: Brinxx Couture
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/2d7bfed057714211bc082c15884f6451-Max-Origin.webp?v=1749232689
-  - [Army Green / XS](https://www.brinxxcouture.com/products/ribbed-wrap-midi-dress-with-side-slit?variant=44038384517302)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/2d7bfed057714211bc082c15884f6451-Max-Origin.webp?v=1749232689
-    Price: $39.99 USD
-  - [Army Green / S](https://www.brinxxcouture.com/products/ribbed-wrap-midi-dress-with-side-slit?variant=44038384550070)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/2d7bfed057714211bc082c15884f6451-Max-Origin.webp?v=1749232689
-    Price: $39.99 USD
-  - [Army Green / M](https://www.brinxxcouture.com/products/ribbed-wrap-midi-dress-with-side-slit?variant=44038384582838)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/2d7bfed057714211bc082c15884f6451-Max-Origin.webp?v=1749232689
-    Price: $39.99 USD
-  - [Army Green / L](https://www.brinxxcouture.com/products/ribbed-wrap-midi-dress-with-side-slit?variant=44038384615606)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/2d7bfed057714211bc082c15884f6451-Max-Origin.webp?v=1749232689
-    Price: $39.99 USD
-  - [Army Green / XL](https://www.brinxxcouture.com/products/ribbed-wrap-midi-dress-with-side-slit?variant=44038384648374)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/2d7bfed057714211bc082c15884f6451-Max-Origin.webp?v=1749232689
-    Price: $39.99 USD
-  - [Light Brown / XS](https://www.brinxxcouture.com/products/ribbed-wrap-midi-dress-with-side-slit?variant=44038384681142)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/fc03144920de441b9da60258a0fa31a2-Max-Origin.webp?v=1749232690
-    Price: $39.99 USD
-  - [Light Brown / S](https://www.brinxxcouture.com/products/ribbed-wrap-midi-dress-with-side-slit?variant=44038384713910)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/fc03144920de441b9da60258a0fa31a2-Max-Origin.webp?v=1749232690
-    Price: $39.99 USD
-  - [Light Brown / M](https://www.brinxxcouture.com/products/ribbed-wrap-midi-dress-with-side-slit?variant=44038384746678)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/fc03144920de441b9da60258a0fa31a2-Max-Origin.webp?v=1749232690
-    Price: $39.99 USD
-  - [Light Brown / L](https://www.brinxxcouture.com/products/ribbed-wrap-midi-dress-with-side-slit?variant=44038384779446)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/fc03144920de441b9da60258a0fa31a2-Max-Origin.webp?v=1749232690
-    Price: $39.99 USD
-  - [Light Brown / XL](https://www.brinxxcouture.com/products/ribbed-wrap-midi-dress-with-side-slit?variant=44038384812214)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/fc03144920de441b9da60258a0fa31a2-Max-Origin.webp?v=1749232690
-    Price: $39.99 USD
-  - [Black / XS](https://www.brinxxcouture.com/products/ribbed-wrap-midi-dress-with-side-slit?variant=44038384844982)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/05f09cfe2bf04f73b185299091e91257-Max-Origin.webp?v=1749232689
-    Price: $39.99 USD
-  - [Black / S](https://www.brinxxcouture.com/products/ribbed-wrap-midi-dress-with-side-slit?variant=44038384877750)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/05f09cfe2bf04f73b185299091e91257-Max-Origin.webp?v=1749232689
-    Price: $39.99 USD
-  - [Black / M](https://www.brinxxcouture.com/products/ribbed-wrap-midi-dress-with-side-slit?variant=44038384910518)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/05f09cfe2bf04f73b185299091e91257-Max-Origin.webp?v=1749232689
-    Price: $39.99 USD
-  - [Black / L](https://www.brinxxcouture.com/products/ribbed-wrap-midi-dress-with-side-slit?variant=44038384943286)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/05f09cfe2bf04f73b185299091e91257-Max-Origin.webp?v=1749232689
-    Price: $39.99 USD
-  - [Black / XL](https://www.brinxxcouture.com/products/ribbed-wrap-midi-dress-with-side-slit?variant=44038384976054)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/05f09cfe2bf04f73b185299091e91257-Max-Origin.webp?v=1749232689
-    Price: $39.99 USD
-  - [Wine Red / XS](https://www.brinxxcouture.com/products/ribbed-wrap-midi-dress-with-side-slit?variant=44038385008822)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/96813dfca88c43378a44c610d2595c06-Max-Origin.webp?v=1749232689
-    Price: $39.99 USD
-  - [Wine Red / S](https://www.brinxxcouture.com/products/ribbed-wrap-midi-dress-with-side-slit?variant=44038385041590)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/96813dfca88c43378a44c610d2595c06-Max-Origin.webp?v=1749232689
-    Price: $39.99 USD
-  - [Wine Red / M](https://www.brinxxcouture.com/products/ribbed-wrap-midi-dress-with-side-slit?variant=44038385074358)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/96813dfca88c43378a44c610d2595c06-Max-Origin.webp?v=1749232689
-    Price: $39.99 USD
-  - [Wine Red / L](https://www.brinxxcouture.com/products/ribbed-wrap-midi-dress-with-side-slit?variant=44038385107126)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/96813dfca88c43378a44c610d2595c06-Max-Origin.webp?v=1749232689
-    Price: $39.99 USD
-  - [Wine Red / XL](https://www.brinxxcouture.com/products/ribbed-wrap-midi-dress-with-side-slit?variant=44038385139894)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/96813dfca88c43378a44c610d2595c06-Max-Origin.webp?v=1749232689
-    Price: $39.99 USD
 - [Backless Slit Sleeveless Bodycon Maxi Dress](https://www.brinxxcouture.com/products/backless-slit-sleeveless-bodycon-maxi-dress): Turn heads effortlessly in this Backless Slit Sleeveless Bodycon Maxi Dress. Designed to hug your curves, its sleek silhouette and daring backless detail .
   Updated: 2025-08-25T13:47:05Z
   Vendor: Brinxx Couture
