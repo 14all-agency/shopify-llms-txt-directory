@@ -6,7 +6,7 @@
 - Timezone: Asia/Kuala_Lumpur
 - Created At: 2022-10-06T05:47:12Z
 - Contact Email: sales@bath2u.com
-- Updated At: 2025-10-13T00:00:34.951Z
+- Updated At: 2025-10-13T20:00:32.952Z
 
 ## Products
 
@@ -1376,7 +1376,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/TAP-3535.png?v=1675133962
   Price: RM 68.00 MYR
 - [TAPI 50cm Safety Grab Bar](https://bath2u.com/products/tapi-50cm-safety-grab-bar): Specifications : Dimension : 500 L x 90 W x 80 H (ø35 mm) SUS 304 S / Steel (Inner) / ABS White (Casing) Max. Loading Weight : 150kg
-  Updated: 2025-09-30T00:27:23Z
+  Updated: 2025-10-13T00:26:40Z
   Vendor: TAPI
   Product Type: Safety Bar
   Availability: Available
@@ -2262,6 +2262,20 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/32643-NORC.png?v=1675742624
   Price: RM 55.00 MYR
+- [1700mm Vila Nova One Piece Stand Alone Bathtub](https://bath2u.com/products/1700mm-vila-nova-one-piece-stand-alone-bathtub): A modern luxury free standing double ended bathtub, made from quality high grade acrylic with a superb white surface finish. The bath tub has been ergonomically designed for long deep relaxing soaks. Perfect for use as a bold centre piece for the bathroom. This bath has tap holes, looks stunning when used with floor mounted free standing bath taps. Specifications : Length : 1700mm Width : 800mm Height : 600mm Acrylic Bathtub Drainer Stainless Steel Bracket Adjusting Crew
+  Updated: 2025-10-13T06:56:00Z
+  Vendor: Bath2u
+  Product Type: Bath Tub
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/ARS-34C.png?v=1675744860
+  - [Chrome](https://bath2u.com/products/1700mm-vila-nova-one-piece-stand-alone-bathtub?variant=39970797355092)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/ARS-34C.png?v=1675744860
+    Price: RM 4,020.00 MYR
+  - [Black](https://bath2u.com/products/1700mm-vila-nova-one-piece-stand-alone-bathtub?variant=39970797387860)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/ARS-34B.png?v=1675744861
+    Price: RM 4,200.00 MYR
 - [Ivano 1500mm Left/Right Skirt One Piece Bathtub](https://bath2u.com/products/ivano-1500mm-left-right-skirt-one-piece-bathtub): Our versatile Bath will meet your needs whether you've opted for a traditional or modern look in your bathroom – the simplicity of style means it will integrate seamlessly into a range of different spaces.﻿ Specifications : Length : 1500mm Width : 750mm Height : 580mm 1x1.0HP Surf Pump Water Cleaning System Air Bubble Jet LED Light 6pcs Surfing Nozzle 2pcs Soft Pillow Functional Transformation Hot/Cold Water Switch Anti-overflow Protection Portable Hand Shower Drain
   Updated: 2025-10-01T19:36:08Z
   Vendor: Bath2u
@@ -2424,7 +2438,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/BJZ-SERIES-1.png?v=1676968861
   Price: RM 639.00 MYR
 - [TAPI Black Adjustable Stainless Steel Basket for Kitchen Sink](https://bath2u.com/products/tapi-black-adjustable-stainless-steel-basket-for-kitchen-sink): The most convenient way of Cleaning, Washing, and Storing Fruits & vegetables Ideal way of draining & drying dishes, cutlery & cups. Dish drainer for use on a counter or over your sink, perfect for small kitchens, and keeps counter clean and clutter-free.Specifications : Finish : Polish Material : Acrylonitrile butadiene styrene ( ABS ), Stainless Steel Length : 310 to 430 mm Width : 215 mm Height : 90 mm Shape : Rectangular Basket Tier : 1x Tier
-  Updated: 2025-09-27T19:51:03Z
+  Updated: 2025-10-13T01:23:15Z
   Vendor: TAPI
   Product Type: Kitchen Basket
   Availability: Available
@@ -3020,7 +3034,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/OT-76009.jpg?v=1678862611
   Price: RM 73.00 MYR
 - [ONIMI Chrome 165mm FinishTowel Ring](https://bath2u.com/products/onimi-chrome-165mm-finishtowel-ring): Specification : Measurement : 165 (L) x 67 (W) x 215 (H) mmType : Wall MountedFinish : ChromeMaterial : Stainless Steel 304
-  Updated: 2025-10-01T07:10:52Z
+  Updated: 2025-10-13T08:26:59Z
   Vendor: ONIMI
   Product Type: Towel Ring
   Availability: Available
@@ -3030,10 +3044,10 @@
 ## Collections
 
 - [Home page](https://bath2u.com/collections/frontpage)
-  Updated: 2025-10-11T11:11:17Z
+  Updated: 2025-10-13T11:11:02Z
   Total Products: 399
 - [Featured Products](https://bath2u.com/collections/featured-products)
-  Updated: 2025-10-11T11:11:17Z
+  Updated: 2025-10-13T11:11:02Z
   Total Products: 400
 - [One Piece WC](https://bath2u.com/collections/water-closet-wc): Provides wide variety of water closet, toilet bowl and bathroom accessories in Malaysia. Low price and fast delivery.
   Updated: 2025-10-11T11:11:17Z
@@ -3168,7 +3182,7 @@
   Updated: 2023-03-06T06:53:15Z
   Total Products: 8
 - [Kitchen](https://bath2u.com/collections/kitchen): Kitchen fittings are the various fixtures, appliances and accessories that are used in a kitchen to make it more functional and efficient. These can include items such as kitchen sinks, faucets, cabinets, countertops, and built-in appliances like ovens, cooktops, and range hoods. Kitchen fittings can come in a variety of styles, from modern to traditional, and can be made of different materials such as stainless steel, granite, and wood. They can also come in different finishes like polished, matte, and brushed. Kitchen fittings can be customized to fit the specific needs and preferences of the homeowner, and can be used to complement the overall design of the kitchen. They are designed to make kitchen activities such as cooking, cleaning, and food preparation more convenient and enjoyable.
-  Updated: 2023-09-18T11:40:28Z
+  Updated: 2025-10-13T11:11:02Z
   Total Products: 30
 - [Doors](https://bath2u.com/collections/doors): Bathroom doors are the doors that are used to enclose a bathroom and provide privacy. They come in different styles and materials, from traditional wooden doors to modern glass or acrylic sliding doors. They can also come in different finishes like polished, matte, and brushed. Bathroom doors can be hinged, sliding or pocket doors and can be designed to match the overall style and decor of the bathroom. They can also be designed with different features such as locks, handles, and peepholes for added security and privacy. Bathroom doors can be made of various materials such as wood, glass, metal, and PVC. They are an important part of any bathroom, providing privacy and security while also enhancing the overall aesthetic of the bathroom.
   Updated: 2023-02-15T02:58:27Z
@@ -3225,7 +3239,7 @@
   Updated: 2023-02-16T04:03:57Z
   Total Products: 0
 - [White Nylon Anti-Slip Grab Bar](https://bath2u.com/collections/white-nylon-anti-slip-grab-bar): A white nylon abs grab bar is a bathroom safety accessory that is designed to provide support and stability for people in the bathroom. It is typically made of a combination of materials such as white nylon, which is a strong and durable plastic material, and ABS (Acrylonitrile Butadiene Styrene) which is a thermoplastic polymer known for its impact resistance, strength, and durability. The grab bar is usually installed on the wall in areas such as near the toilet, shower or bathtub to provide support for getting in or out of the bathtub, or for balance while using the toilet. They can be mounted on the wall using screws or other hardware, and they come in different sizes and lengths to accommodate different needs. White nylon abs grab bars are a practical and convenient addition to any bathroom, as they provide added safety and stability for people who may have mobility issues, or for those who need extra support in the bathroom. They are also easy to install and maintain, and they can be cleaned with a damp cloth. Additionally, they are usually rust-proof and easy to clean, they also have a sleek and modern design.
-  Updated: 2025-09-30T11:12:38Z
+  Updated: 2025-10-13T11:11:02Z
   Total Products: 10
 - [Matt Stainless Steel Grab Bar](https://bath2u.com/collections/matt-stainless-steel-grab-bar): A matt stainless steel grab bar is a bathroom safety accessory that is designed to provide support and stability for people in the bathroom. It is typically made of stainless steel, which is a type of steel that is known for its durability, resistance to corrosion, and its ability to maintain its appearance over time. The grab bar is usually installed on the wall in areas such as near the toilet, shower or bathtub to provide support for getting in or out of the bathtub, or for balance while using the toilet. They can be mounted on the wall using screws or other hardware, and they come in different sizes and lengths to accommodate different needs. Matt stainless steel grab bars have a matte finish which gives them a sleek and modern look. They are also corrosion-resistant and easy to clean, making them a suitable option for bathroom environments. They are a practical and convenient addition to any bathroom, as they provide added safety and stability for people who may have mobility issues, or for those who need extra support in the bathroom.
   Updated: 2023-02-09T14:34:23Z
@@ -3237,7 +3251,7 @@
   Updated: 2023-03-13T04:23:49Z
   Total Products: 17
 - [Kitchen Accessories](https://bath2u.com/collections/kitchen-accessories): Kitchen accessories are items that are used to enhance the functionality and appearance of a kitchen. They include a wide range of items such as kitchen organizers, cutting boards, kitchen scales, kitchen timers, and many more. Kitchen accessories can be made of materials such as plastic, wood, metal, or glass and they come in a wide variety of styles and designs to match different kitchen decors. Kitchen accessories serve many purposes. They help to organize and store kitchen essentials, enhance the overall look of the kitchen, and provide additional comfort and convenience for the user. Some accessories like kitchen organizers, cutting boards, and kitchen timers are functional and help to keep kitchen essentials within easy reach. Other accessories like kitchen scales and decorative pieces can add a touch of style and personality to the kitchen. Kitchen accessories are available in various price ranges to suit different budgets and needs. They are also easy to install and maintain, making them a practical and convenient addition to any kitchen. They can be a great addition to any kitchen renovation or remodel and add a touch of personality to the space.
-  Updated: 2023-09-18T11:40:28Z
+  Updated: 2025-10-13T11:11:02Z
   Total Products: 2
 - [Kitchen Appliance](https://bath2u.com/collections/kitchen-appliance): Kitchen appliance are electrical or mechanical devices that are used to perform various tasks in the kitchen such as cooking, cleaning, and food preservation. They include a wide range of items such as ovens, refrigerators, dishwashers, microwave ovens, toasters, and many more. Kitchen appliances can come in a wide variety of styles, designs, and sizes to fit different kitchen layouts and needs. Kitchen appliances serve many purposes. They are used for cooking, cleaning, and food preservation, and they help to make the process of preparing food more efficient and convenient. They can be powered by electricity, gas, or other sources of energy, and they come in a wide range of designs, features, and sizes. Some appliances, like ovens and refrigerators, are considered essential and are found in nearly every kitchen, while others, like a stand mixer, are considered more specialty items.
   Updated: 2023-02-21T06:31:04Z
@@ -3294,7 +3308,7 @@
   Updated: 2023-02-09T14:59:01Z
   Total Products: 6
 - [Safety Bars](https://bath2u.com/collections/safety-bars)
-  Updated: 2025-09-30T11:12:38Z
+  Updated: 2025-10-13T11:11:02Z
   Total Products: 17
 - [Water Closet](https://bath2u.com/collections/water-closet)
   Updated: 2025-10-11T11:11:17Z
@@ -3303,7 +3317,7 @@
   Updated: 2023-04-16T12:49:45Z
   Total Products: 87
 - [Clearance](https://bath2u.com/collections/clearance): a promotional event in which merchandise is sold at a reduced price to clear out inventory and make room for new products.
-  Updated: 2023-09-18T11:40:28Z
+  Updated: 2025-10-13T11:11:02Z
   Total Products: 3
 - [Smart Intelligent Water Closet](https://bath2u.com/collections/smart-intelligent-water-closet): A Smart Intelligent Water Closet, also known as a smart toilet, is a technologically advanced toilet that comes equipped with a range of features and functions designed to enhance the user experience. Smart toilets typically use sensors, cameras, and other electronic components to provide a range of benefits. Overall, smart toilets offer a range of benefits in terms of convenience, hygiene, and sustainability. However, they can be more expensive than traditional toilets and may require additional maintenance or technical expertise.
   Updated: 2023-03-10T04:33:31Z
@@ -3381,7 +3395,7 @@
   Updated: 2025-10-01T09:07:17Z
   Total Products: 106
 - [TAPI](https://bath2u.com/collections/brand-tapi)
-  Updated: 2025-10-01T09:08:21Z
+  Updated: 2025-10-13T11:11:02Z
   Total Products: 67
 
 ## Blogs
