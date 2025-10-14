@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-10-13T20:01:04.437Z
+- Updated At: 2025-10-14T00:01:03.342Z
 
 ## Products
 
@@ -46855,7 +46855,7 @@
 - [נעלי כדורגל מקצועיות Air Zoom Mercurial Vapor 16 Elite AG Max Voltage](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-16-elite-ag-pro-max-voltage): נעלי הכדורגל Future 8 Ultimate FG של PUMA מיועדות לשחקנים שמחפשים חופש תנועה ושליטה מלאה במגרש. החלק העליון משלב שכבות רבות עם LYCRA בסריג FUZIONSKIN, ומעניק התאמה אישית עם תמיכה בכל תנועה. 3D FUZIONPODS בחזית הנעל מגנים על הרגל ומאפשרים גמישות טבעית למשחק ללא הגבלה, בעוד רצועות PWRTAPE במרכז כף הרגל שומרות על יציבות בזמן דריבל ועקיפה של שחקנים.
 
 השכבה החיצונית כוללת רשת צפופה עם גימור GripControl Pro, המגביר אחיזה בכדור ומסייע לשליטה מלאה בדריבל ולפריצת קווים. סוליית הנעל עם מסמרות בעיצוב מיוחד מאפשרת תנועות סיבוביות חופשיות ומגיבה לכל שינוי כיוון, כדי למקסם את הזריזות והמהירות במגרש. Future 8 Ultimate FG נותנות לך את הכלים לשלוט במשחק ולהשפיע על כל מצב במגרש.
-  Updated: 2025-10-13T10:44:16Z
+  Updated: 2025-10-13T20:35:55Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -46902,7 +46902,7 @@
 - [נעלי כדורגל Air Zoom Mercurial Vapor 16 FG Max Voltage](https://www.rsport.co.il/products/נעלי-כדורגל-air-zoom-mercurial-vapor-16-fg-max-voltage-16730): נעלי הכדורגל Future 8 Ultimate FG של PUMA מיועדות לשחקנים שמחפשים חופש תנועה ושליטה מלאה במגרש. החלק העליון משלב שכבות רבות עם LYCRA בסריג FUZIONSKIN, ומעניק התאמה אישית עם תמיכה בכל תנועה. 3D FUZIONPODS בחזית הנעל מגנים על הרגל ומאפשרים גמישות טבעית למשחק ללא הגבלה, בעוד רצועות PWRTAPE במרכז כף הרגל שומרות על יציבות בזמן דריבל ועקיפה של שחקנים.
 
 השכבה החיצונית כוללת רשת צפופה עם גימור GripControl Pro, המגביר אחיזה בכדור ומסייע לשליטה מלאה בדריבל ולפריצת קווים. סוליית הנעל עם מסמרות בעיצוב מיוחד מאפשרת תנועות סיבוביות חופשיות ומגיבה לכל שינוי כיוון, כדי למקסם את הזריזות והמהירות במגרש. Future 8 Ultimate FG נותנות לך את הכלים לשלוט במשחק ולהשפיע על כל מצב במגרש.
-  Updated: 2025-10-13T10:48:15Z
+  Updated: 2025-10-13T21:43:53Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -46961,7 +46961,7 @@
 - [נעלי כדורגל Air Zoom Mercurial Vapor 16 Pro AG](https://www.rsport.co.il/products/נעלי-כדורגל-air-zoom-mercurial-vapor-16-pro-ag-pro-limelight-volt-hyper-crimson-9082490): נעלי הכדורגל Future 8 Ultimate FG של PUMA מיועדות לשחקנים שמחפשים חופש תנועה ושליטה מלאה במגרש. החלק העליון משלב שכבות רבות עם LYCRA בסריג FUZIONSKIN, ומעניק התאמה אישית עם תמיכה בכל תנועה. 3D FUZIONPODS בחזית הנעל מגנים על הרגל ומאפשרים גמישות טבעית למשחק ללא הגבלה, בעוד רצועות PWRTAPE במרכז כף הרגל שומרות על יציבות בזמן דריבל ועקיפה של שחקנים.
 
 השכבה החיצונית כוללת רשת צפופה עם גימור GripControl Pro, המגביר אחיזה בכדור ומסייע לשליטה מלאה בדריבל ולפריצת קווים. סוליית הנעל עם מסמרות בעיצוב מיוחד מאפשרת תנועות סיבוביות חופשיות ומגיבה לכל שינוי כיוון, כדי למקסם את הזריזות והמהירות במגרש. Future 8 Ultimate FG נותנות לך את הכלים לשלוט במשחק ולהשפיע על כל מצב במגרש.
-  Updated: 2025-10-13T11:11:30Z
+  Updated: 2025-10-13T23:00:39Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
