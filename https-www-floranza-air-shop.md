@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-08-20T10:34:43Z
 - Contact Email: enfinlibre256@gmail.com
-- Updated At: 2025-10-13T20:00:45.698Z
+- Updated At: 2025-10-14T00:00:46.786Z
 
 ## Products
 
@@ -23888,6 +23888,180 @@ Fashion Element:simple
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S5930365a11f54d80856dfc69619c3a43a.webp?v=1760380056
     Price: 8,16 € EUR
+- [Original PALLADIUM Pampa Hi Work Casual Breathable Sneakers Lace Up Ankle Boots Lace Up Canvas Men Walking Shoes Size 39-45](https://www.floranza-air.shop/products/original-palladium-pampa-hi-work-casual-breathable-sneakers-lace-up-ankle-boots-lace-up-canvas-men-walking-shoes-size-39-45): SPECIFICATIONSBoot Height: AnkleBoot Type: Outdoor BootsBrand Name: PALLADIUMClosure Type: Lace-UpDepartment Name: AdultFit: True to SizeInsole Material: Latex FoamItem Type: BOOTSLining Material: CANVAS,CANVASModel Number: PalladiumOrigin: Mainland ChinaOutsole Material: RubberSeason: Spring/AutumnShaft Material: CANVASUpper Material: Lacesize_info: {"sizeInfoList":[{"length":{"cm":"24","inch":"9.45"},"size":"39","vid":-1},{"length":{"cm":"25","inch":"9.84"},"size":"40","vid":-5},{"length":{"cm":"26","inch":"10.24"},"size":"41","vid":-9},{"length":{"cm":"27","inch":"10.63"},"size":"42","vid":-13},{"length":{"cm":"28","inch":"11.02"},"size":"43","vid":-17},{"length":{"cm":"28.5","inch":"11.22"},"size":"44","vid":-21},{"length":{"cm":"29.5","inch":"11.61"},"size":"45","vid":-25}]} If you need a shoe box, please contact customer service
+  Updated: 2025-10-13T22:11:24Z
+  Vendor: FLORANZA-AIR.SHOP
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S727cf143f87b41f8abd4f694afae4885w.webp?v=1760393479
+  - [6 / 45](https://www.floranza-air.shop/products/original-palladium-pampa-hi-work-casual-breathable-sneakers-lace-up-ankle-boots-lace-up-canvas-men-walking-shoes-size-39-45?variant=52104990228817)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Hadadc3a6fae643d4b7faa0fa061da85bk.webp?v=1760393479
+    Price: 53,66 € EUR
+  - [5 / 45](https://www.floranza-air.shop/products/original-palladium-pampa-hi-work-casual-breathable-sneakers-lace-up-ankle-boots-lace-up-canvas-men-walking-shoes-size-39-45?variant=52104990261585)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/H8e24b8826cd0431999ba17ca2ecadf42Q.webp?v=1760393479
+    Price: 53,66 € EUR
+  - [2 / 45](https://www.floranza-air.shop/products/original-palladium-pampa-hi-work-casual-breathable-sneakers-lace-up-ankle-boots-lace-up-canvas-men-walking-shoes-size-39-45?variant=52104990294353)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S9828366007a2435094df1b5e8f8445f6M.webp?v=1760393479
+    Price: 53,66 € EUR
+  - [4 / 45](https://www.floranza-air.shop/products/original-palladium-pampa-hi-work-casual-breathable-sneakers-lace-up-ankle-boots-lace-up-canvas-men-walking-shoes-size-39-45?variant=52104990327121)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Hc43a1efa6ddc4fe79d7ed404d5d9fcc7U.webp?v=1760393479
+    Price: 53,66 € EUR
+  - [3 / 39](https://www.floranza-air.shop/products/original-palladium-pampa-hi-work-casual-breathable-sneakers-lace-up-ankle-boots-lace-up-canvas-men-walking-shoes-size-39-45?variant=52104990359889)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S8011ca7f42b44ac98a9dc10f65bd23105.webp?v=1760393478
+    Price: 53,66 € EUR
+  - [1 / 39](https://www.floranza-air.shop/products/original-palladium-pampa-hi-work-casual-breathable-sneakers-lace-up-ankle-boots-lace-up-canvas-men-walking-shoes-size-39-45?variant=52104990392657)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S854896ce85814ddfb2b279d3b34647ebQ.webp?v=1760393479
+    Price: 53,66 € EUR
+  - [6 / 39](https://www.floranza-air.shop/products/original-palladium-pampa-hi-work-casual-breathable-sneakers-lace-up-ankle-boots-lace-up-canvas-men-walking-shoes-size-39-45?variant=52104990425425)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Hadadc3a6fae643d4b7faa0fa061da85bk.webp?v=1760393479
+    Price: 53,66 € EUR
+  - [5 / 39](https://www.floranza-air.shop/products/original-palladium-pampa-hi-work-casual-breathable-sneakers-lace-up-ankle-boots-lace-up-canvas-men-walking-shoes-size-39-45?variant=52104990458193)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/H8e24b8826cd0431999ba17ca2ecadf42Q.webp?v=1760393479
+    Price: 53,66 € EUR
+  - [2 / 39](https://www.floranza-air.shop/products/original-palladium-pampa-hi-work-casual-breathable-sneakers-lace-up-ankle-boots-lace-up-canvas-men-walking-shoes-size-39-45?variant=52104990490961)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S9828366007a2435094df1b5e8f8445f6M.webp?v=1760393479
+    Price: 53,66 € EUR
+  - [4 / 39](https://www.floranza-air.shop/products/original-palladium-pampa-hi-work-casual-breathable-sneakers-lace-up-ankle-boots-lace-up-canvas-men-walking-shoes-size-39-45?variant=52104990523729)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Hc43a1efa6ddc4fe79d7ed404d5d9fcc7U.webp?v=1760393479
+    Price: 53,66 € EUR
+  - [6 / 41](https://www.floranza-air.shop/products/original-palladium-pampa-hi-work-casual-breathable-sneakers-lace-up-ankle-boots-lace-up-canvas-men-walking-shoes-size-39-45?variant=52104990556497)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Hadadc3a6fae643d4b7faa0fa061da85bk.webp?v=1760393479
+    Price: 53,66 € EUR
+  - [5 / 41](https://www.floranza-air.shop/products/original-palladium-pampa-hi-work-casual-breathable-sneakers-lace-up-ankle-boots-lace-up-canvas-men-walking-shoes-size-39-45?variant=52104990589265)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/H8e24b8826cd0431999ba17ca2ecadf42Q.webp?v=1760393479
+    Price: 53,66 € EUR
+  - [2 / 41](https://www.floranza-air.shop/products/original-palladium-pampa-hi-work-casual-breathable-sneakers-lace-up-ankle-boots-lace-up-canvas-men-walking-shoes-size-39-45?variant=52104990622033)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S9828366007a2435094df1b5e8f8445f6M.webp?v=1760393479
+    Price: 53,66 € EUR
+  - [4 / 41](https://www.floranza-air.shop/products/original-palladium-pampa-hi-work-casual-breathable-sneakers-lace-up-ankle-boots-lace-up-canvas-men-walking-shoes-size-39-45?variant=52104990654801)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Hc43a1efa6ddc4fe79d7ed404d5d9fcc7U.webp?v=1760393479
+    Price: 53,66 € EUR
+  - [2 / 42](https://www.floranza-air.shop/products/original-palladium-pampa-hi-work-casual-breathable-sneakers-lace-up-ankle-boots-lace-up-canvas-men-walking-shoes-size-39-45?variant=52104990687569)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S9828366007a2435094df1b5e8f8445f6M.webp?v=1760393479
+    Price: 53,66 € EUR
+  - [4 / 42](https://www.floranza-air.shop/products/original-palladium-pampa-hi-work-casual-breathable-sneakers-lace-up-ankle-boots-lace-up-canvas-men-walking-shoes-size-39-45?variant=52104990720337)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Hc43a1efa6ddc4fe79d7ed404d5d9fcc7U.webp?v=1760393479
+    Price: 53,66 € EUR
+  - [3 / 42](https://www.floranza-air.shop/products/original-palladium-pampa-hi-work-casual-breathable-sneakers-lace-up-ankle-boots-lace-up-canvas-men-walking-shoes-size-39-45?variant=52104990753105)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S8011ca7f42b44ac98a9dc10f65bd23105.webp?v=1760393478
+    Price: 53,66 € EUR
+  - [1 / 42](https://www.floranza-air.shop/products/original-palladium-pampa-hi-work-casual-breathable-sneakers-lace-up-ankle-boots-lace-up-canvas-men-walking-shoes-size-39-45?variant=52104990785873)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S854896ce85814ddfb2b279d3b34647ebQ.webp?v=1760393479
+    Price: 53,66 € EUR
+  - [2 / 40](https://www.floranza-air.shop/products/original-palladium-pampa-hi-work-casual-breathable-sneakers-lace-up-ankle-boots-lace-up-canvas-men-walking-shoes-size-39-45?variant=52104990818641)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S9828366007a2435094df1b5e8f8445f6M.webp?v=1760393479
+    Price: 53,66 € EUR
+  - [4 / 40](https://www.floranza-air.shop/products/original-palladium-pampa-hi-work-casual-breathable-sneakers-lace-up-ankle-boots-lace-up-canvas-men-walking-shoes-size-39-45?variant=52104990851409)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Hc43a1efa6ddc4fe79d7ed404d5d9fcc7U.webp?v=1760393479
+    Price: 53,66 € EUR
+  - [3 / 40](https://www.floranza-air.shop/products/original-palladium-pampa-hi-work-casual-breathable-sneakers-lace-up-ankle-boots-lace-up-canvas-men-walking-shoes-size-39-45?variant=52104990884177)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S8011ca7f42b44ac98a9dc10f65bd23105.webp?v=1760393478
+    Price: 53,66 € EUR
+  - [1 / 40](https://www.floranza-air.shop/products/original-palladium-pampa-hi-work-casual-breathable-sneakers-lace-up-ankle-boots-lace-up-canvas-men-walking-shoes-size-39-45?variant=52104990916945)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S854896ce85814ddfb2b279d3b34647ebQ.webp?v=1760393479
+    Price: 53,66 € EUR
+  - [3 / 41](https://www.floranza-air.shop/products/original-palladium-pampa-hi-work-casual-breathable-sneakers-lace-up-ankle-boots-lace-up-canvas-men-walking-shoes-size-39-45?variant=52104990949713)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S8011ca7f42b44ac98a9dc10f65bd23105.webp?v=1760393478
+    Price: 53,66 € EUR
+  - [1 / 41](https://www.floranza-air.shop/products/original-palladium-pampa-hi-work-casual-breathable-sneakers-lace-up-ankle-boots-lace-up-canvas-men-walking-shoes-size-39-45?variant=52104990982481)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S854896ce85814ddfb2b279d3b34647ebQ.webp?v=1760393479
+    Price: 53,66 € EUR
+  - [6 / 40](https://www.floranza-air.shop/products/original-palladium-pampa-hi-work-casual-breathable-sneakers-lace-up-ankle-boots-lace-up-canvas-men-walking-shoes-size-39-45?variant=52104991015249)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Hadadc3a6fae643d4b7faa0fa061da85bk.webp?v=1760393479
+    Price: 53,66 € EUR
+  - [5 / 40](https://www.floranza-air.shop/products/original-palladium-pampa-hi-work-casual-breathable-sneakers-lace-up-ankle-boots-lace-up-canvas-men-walking-shoes-size-39-45?variant=52104991048017)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/H8e24b8826cd0431999ba17ca2ecadf42Q.webp?v=1760393479
+    Price: 53,66 € EUR
+  - [2 / 44](https://www.floranza-air.shop/products/original-palladium-pampa-hi-work-casual-breathable-sneakers-lace-up-ankle-boots-lace-up-canvas-men-walking-shoes-size-39-45?variant=52104991080785)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S9828366007a2435094df1b5e8f8445f6M.webp?v=1760393479
+    Price: 53,66 € EUR
+  - [4 / 44](https://www.floranza-air.shop/products/original-palladium-pampa-hi-work-casual-breathable-sneakers-lace-up-ankle-boots-lace-up-canvas-men-walking-shoes-size-39-45?variant=52104991113553)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Hc43a1efa6ddc4fe79d7ed404d5d9fcc7U.webp?v=1760393479
+    Price: 53,66 € EUR
+  - [3 / 44](https://www.floranza-air.shop/products/original-palladium-pampa-hi-work-casual-breathable-sneakers-lace-up-ankle-boots-lace-up-canvas-men-walking-shoes-size-39-45?variant=52104991146321)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S8011ca7f42b44ac98a9dc10f65bd23105.webp?v=1760393478
+    Price: 53,66 € EUR
+  - [1 / 44](https://www.floranza-air.shop/products/original-palladium-pampa-hi-work-casual-breathable-sneakers-lace-up-ankle-boots-lace-up-canvas-men-walking-shoes-size-39-45?variant=52104991179089)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S854896ce85814ddfb2b279d3b34647ebQ.webp?v=1760393479
+    Price: 53,66 € EUR
+  - [3 / 45](https://www.floranza-air.shop/products/original-palladium-pampa-hi-work-casual-breathable-sneakers-lace-up-ankle-boots-lace-up-canvas-men-walking-shoes-size-39-45?variant=52104991211857)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S8011ca7f42b44ac98a9dc10f65bd23105.webp?v=1760393478
+    Price: 53,66 € EUR
+  - [1 / 45](https://www.floranza-air.shop/products/original-palladium-pampa-hi-work-casual-breathable-sneakers-lace-up-ankle-boots-lace-up-canvas-men-walking-shoes-size-39-45?variant=52104991244625)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S854896ce85814ddfb2b279d3b34647ebQ.webp?v=1760393479
+    Price: 53,66 € EUR
+  - [6 / 44](https://www.floranza-air.shop/products/original-palladium-pampa-hi-work-casual-breathable-sneakers-lace-up-ankle-boots-lace-up-canvas-men-walking-shoes-size-39-45?variant=52104991277393)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Hadadc3a6fae643d4b7faa0fa061da85bk.webp?v=1760393479
+    Price: 53,66 € EUR
+  - [5 / 44](https://www.floranza-air.shop/products/original-palladium-pampa-hi-work-casual-breathable-sneakers-lace-up-ankle-boots-lace-up-canvas-men-walking-shoes-size-39-45?variant=52104991310161)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/H8e24b8826cd0431999ba17ca2ecadf42Q.webp?v=1760393479
+    Price: 53,66 € EUR
+  - [3 / 43](https://www.floranza-air.shop/products/original-palladium-pampa-hi-work-casual-breathable-sneakers-lace-up-ankle-boots-lace-up-canvas-men-walking-shoes-size-39-45?variant=52104991342929)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S8011ca7f42b44ac98a9dc10f65bd23105.webp?v=1760393478
+    Price: 53,66 € EUR
+  - [1 / 43](https://www.floranza-air.shop/products/original-palladium-pampa-hi-work-casual-breathable-sneakers-lace-up-ankle-boots-lace-up-canvas-men-walking-shoes-size-39-45?variant=52104991375697)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S854896ce85814ddfb2b279d3b34647ebQ.webp?v=1760393479
+    Price: 53,66 € EUR
+  - [6 / 42](https://www.floranza-air.shop/products/original-palladium-pampa-hi-work-casual-breathable-sneakers-lace-up-ankle-boots-lace-up-canvas-men-walking-shoes-size-39-45?variant=52104991408465)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Hadadc3a6fae643d4b7faa0fa061da85bk.webp?v=1760393479
+    Price: 53,66 € EUR
+  - [5 / 42](https://www.floranza-air.shop/products/original-palladium-pampa-hi-work-casual-breathable-sneakers-lace-up-ankle-boots-lace-up-canvas-men-walking-shoes-size-39-45?variant=52104991441233)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/H8e24b8826cd0431999ba17ca2ecadf42Q.webp?v=1760393479
+    Price: 53,66 € EUR
+  - [6 / 43](https://www.floranza-air.shop/products/original-palladium-pampa-hi-work-casual-breathable-sneakers-lace-up-ankle-boots-lace-up-canvas-men-walking-shoes-size-39-45?variant=52104991474001)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Hadadc3a6fae643d4b7faa0fa061da85bk.webp?v=1760393479
+    Price: 53,66 € EUR
+  - [5 / 43](https://www.floranza-air.shop/products/original-palladium-pampa-hi-work-casual-breathable-sneakers-lace-up-ankle-boots-lace-up-canvas-men-walking-shoes-size-39-45?variant=52104991506769)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/H8e24b8826cd0431999ba17ca2ecadf42Q.webp?v=1760393479
+    Price: 53,66 € EUR
+  - [2 / 43](https://www.floranza-air.shop/products/original-palladium-pampa-hi-work-casual-breathable-sneakers-lace-up-ankle-boots-lace-up-canvas-men-walking-shoes-size-39-45?variant=52104991539537)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S9828366007a2435094df1b5e8f8445f6M.webp?v=1760393479
+    Price: 53,66 € EUR
+  - [4 / 43](https://www.floranza-air.shop/products/original-palladium-pampa-hi-work-casual-breathable-sneakers-lace-up-ankle-boots-lace-up-canvas-men-walking-shoes-size-39-45?variant=52104991572305)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Hc43a1efa6ddc4fe79d7ed404d5d9fcc7U.webp?v=1760393479
+    Price: 53,66 € EUR
 
 ## Collections
 
@@ -23895,11 +24069,11 @@ Fashion Element:simple
   Updated: 2025-10-13T13:42:20Z
   Total Products: 1
 - [AVADA - Best Sellers](https://www.floranza-air.shop/collections/avada-best-sellers)
-  Updated: 2025-10-13T18:55:57Z
-  Total Products: 438
+  Updated: 2025-10-13T22:11:41Z
+  Total Products: 439
 - [APPPlaza - Best Sellers](https://www.floranza-air.shop/collections/appplaza-best-sellers)
-  Updated: 2025-10-13T18:55:57Z
-  Total Products: 438
+  Updated: 2025-10-13T22:11:41Z
+  Total Products: 439
 - [VENTILATEUR DE COU PORTABLE RECHARGEABLE](https://www.floranza-air.shop/collections/ventilateur-de-cou-portable-rechargeable): Description: Restez au frais partout, en toute liberté ! Vous en avez assez de souffrir de la chaleur lors de vos déplacements, au travail ou pendant vos activités sportives ? Le FLORANZA-AIR™ est la solution parfaite pour vous rafraîchir instantanément, où que vous soyez. ✨ Pourquoi choisir FLORANZA-AIR™ ? Portable et mains libres - Se porte confortablement autour du cou, vous laissant les mains libres pour vos activités Rechargeable USB - Plus besoin de piles jetables, économique et écologique Ultra-léger (239g) - Vous oubliez que vous le portez Silencieux - Profitez d'une brise rafraîchissante sans bruit gênant Parfait pour l'été - Idéal pour le sport, le bureau, les voyages, le jardinage ou toute activité extérieure 🌬️ Caractéristiques techniques : Poids : 239g seulement Alimentation : Rechargeable par USB Design ergonomique pour un confort optimal Ventilation efficace et ciblée Ne laissez plus la chaleur gâcher vos journées ! Commandez votre FLORANZA-AIR™ dès maintenant et profitez d'un confort rafraîchissant instantané. Titre pour le référencement naturel (SEO): FLORANZA-AIR™ Ventilateur de Cou Portable Rechargeable USB - Rafraîchissement Mains Libres Description pour le référencement naturel (SEO): Ventilateur de cou portable rechargeable FLORANZA-AIR™. Ultra-léger (239g), silencieux, mains libres. Parfait pour sport, bureau, voyage. Rechargeable USB. Restez au frais partout ! Balises: 5 modifications
   Updated: 2025-10-13T13:42:20Z
   Total Products: 6
