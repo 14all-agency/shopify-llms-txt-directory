@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-09-05T06:24:05Z
 - Contact Email: fusionvibestoreofficial@gmail.com
-- Updated At: 2025-10-13T12:00:29.759Z
+- Updated At: 2025-10-14T12:00:31.867Z
 
 ## Products
 
@@ -41,26 +41,19 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/a8bf7a9a-6417-44bb-87a9-5c236807c372.jpg?v=1757311437
     Price: $19.00 USD
 - [Self-Stirring Magnetic Mug | Automatic Stirring Coffee Cup (14oz/400ml)](https://fusionvibestore.com/products/self-stirring-magnetic-mug): Never stir your coffee again! This self-stirring mug uses a magnetic mechanism to mix your drink perfectly. Great for coffee, hot chocolate, and protein shakes. A perfect gift idea!
-  Updated: 2025-10-09T08:15:48Z
+  Updated: 2025-10-14T08:53:11Z
   Vendor: z60ja0-0n
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/5043419837.jpg?v=1757492266
   Price: $12.38 USD
 - [Professional Electronic Pedicure Tool | Callus & Dead Skin Remover](https://fusionvibestore.com/products/electronic-pedicure-tool): Salon-quality pedicures at home! This electronic pedicure tool safely and effectively removes calluses and dead skin. Leaves your feet feeling soft and smooth. Order now.
-  Updated: 2025-10-06T09:56:37Z
+  Updated: 2025-10-14T07:50:11Z
   Vendor: z60ja0-0n
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/4981101820.jpg?v=1757492380
   Price: $9.56 USD
-- [Magnetic Desk Lamp | Flexible Gooseneck LED Light for Office & Study](https://fusionvibestore.com/products/magnetic-lamp-light): Illuminate your workspace! This magnetic base lamp features a flexible gooseneck for perfect positioning. Bright LED light ideal for desks, workshops, or reading. Get yours today!
-  Updated: 2025-10-06T09:56:37Z
-  Vendor: z60ja0-0n
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/8273983222.jpg?v=1757520343
-  Price: $11.56 USD
 - [Women's Long Sleeve Casual Dress | Fashion Everyday & Office Wear](https://fusionvibestore.com/products/womens-long-sleeve-fashion-casual-dress): Stay stylish and comfortable. This women's long sleeve casual dress is perfect for everyday wear, the office, or a day out. Flattering fit and versatile design. Shop the collection now. Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: 1* Dress Product Image:
   Updated: 2025-10-06T09:56:37Z
   Vendor: FusionVibestore
@@ -358,7 +351,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/3078165f-845c-47ab-962f-a76255f5ba70.jpg?v=1758013249
     Price: $25.36 USD
 - [3-Piece Cozy Pajama & Lounge Set | Matching Winter Loungewear](https://fusionvibestore.com/products/cozy-pajama-set-3-piece-lounge-set-cute-loungewear-warm-suit-sets-matching-set-lounge-set): Ultimate comfort! This adorable 3-piece pajama set is perfect for lounging or sleeping. Soft, warm, and stylish. Get your matching winter loungewear set today with fast delivery. Specification: Style: a pants suit Top style: vest Top sleeve length: long sleeve Pants style: wide-leg pants Length: trousers Craft: Collage/Stitching Fabric Name: cotton blended Main fabric composition: polyester fiber (polyester) The content of the main fabric ingredient: 30%-50% Main fabric composition 2: polyester fiber (polyester) The content of main fabric ingredient 2: 100% Lining composition: polyester fiber (polyester) Lining ingredient content: 100% Color: white, pink, camel Size: S, M, L, XL Package content: 1 x Set 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size is between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose a size, please contact our customer service. 3. As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images.
-  Updated: 2025-10-09T22:27:31Z
+  Updated: 2025-10-13T20:26:07Z
   Vendor: z60ja0-0n
   Product Type: BAGS
   Availability: Available
@@ -1123,7 +1116,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/O1CN01EtIKj92IMdN8kpURB__2218673939272-0-cib.jpg?v=1759739185
     Price: $15.45 USD
 - [Magic Flying Fairy Magic Flying](https://fusionvibestore.com/products/magic-flying-fairy-magic-flying): Product Name - Magic Flying Fairy Princess DollPackage Contain - Pack of 1Material - Others Weight - 300Dimension - 9*9*6
-  Updated: 2025-10-07T17:41:49Z
+  Updated: 2025-10-14T08:53:11Z
   Vendor: z60ja0-0n
   Product Type: 
   Availability: Available
@@ -1387,13 +1380,13 @@
   Updated: 2025-10-01T17:59:11Z
   Total Products: 1
 - [Gadgets](https://fusionvibestore.com/collections/gadgets)
-  Updated: 2025-10-10T16:39:40Z
+  Updated: 2025-10-14T11:17:41Z
   Total Products: 16
 - [CLOTHING](https://fusionvibestore.com/collections/clothing)
   Updated: 2025-10-06T09:56:37Z
   Total Products: 7
 - [Gadgets](https://fusionvibestore.com/collections/gadgets-1)
-  Updated: 2025-10-09T08:15:49Z
+  Updated: 2025-10-14T11:17:41Z
   Total Products: 11
 
 ## Store Pages
