@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-09-03T22:17:37Z
 - Contact Email: INFO.REBIRTH1@GMAIL.COM
-- Updated At: 2025-10-12T00:00:31.821Z
+- Updated At: 2025-10-14T04:00:30.107Z
 
 ## Products
 
@@ -3236,8 +3236,6 @@
   Updated: 2025-09-03T22:17:41Z
 - [Your privacy choices](https://rebirthshoponline.myshopify.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2025-09-03T22:17:50Z
-- [About ReBirth. - Our Story and Mission](https://rebirthshoponline.myshopify.com/pages/about-us-1): Welcome to ReBirth. Welcome to Rebirth! We are absolutely delighted to share our vision with you. We are a new, independent online clothing store f...
-  Updated: 2025-10-09T17:16:10Z
 
 ## Policies
 
