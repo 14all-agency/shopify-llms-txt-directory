@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-06-23T16:52:36Z
 - Contact Email: customerservice@aliciaadamsalpaca.com
-- Updated At: 2025-10-14T04:00:40.564Z
+- Updated At: 2025-10-14T12:00:38.394Z
 
 ## Products
 
@@ -3237,7 +3237,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-aa112-112-rainbowhat-pearlgrey-white-web.jpg?v=1735910881
     Price: $155.00 USD
 - [Field Blanket | Luxury Alpaca Field Blanket | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/field-blanket): Experience rustic charm and eco-conscious luxury with the alicia adams alpaca Field Blanket. As featured on The Today Show, this versatile throw offers unparalleled warmth and style. Buy now for luxurious comfort and earn rewards on fair-trade, eco-friendly luxury goods at alicia adams alpaca.
-  Updated: 2025-10-13T03:40:25Z
+  Updated: 2025-10-14T08:48:56Z
   Vendor: alicia adams alpaca
   Product Type: Blankets & Throws
   Availability: Available
@@ -3313,6 +3313,32 @@
   - [Ivory / Light Grey / Beige](https://aliciaadamsalpaca.com/products/field-blanket?variant=40826887995507)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522-01-12-02-FieldBlanket-Ivory-LightGrey-Beige-wood-web_4e2fd549-5506-4613-a017-54a217431786.jpg?v=1692200878
+    Price: $575.00 USD
+  - [Forest Green](https://aliciaadamsalpaca.com/products/field-blanket?variant=53506368209268)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522S-89-Field-Blanket-Hunter-wood-web_dcbc1cb9-fbc4-494b-9642-bfa6bb1fae3c.jpg?v=1759425876
+    Price: $575.00 USD
+  - [Ivory](https://aliciaadamsalpaca.com/products/field-blanket?variant=53506368242036)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522S-01-Field-Blanket-Ivory-wood-web_1df741bf-0d75-4e68-beb6-2f2d9c5f0112.jpg?v=1759425876
+    Price: $575.00 USD
+  - [Light Taupe](https://aliciaadamsalpaca.com/products/field-blanket?variant=53506368274804)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522S-102-Field-Blanket-Light-Taupe-wood-web_98287bd7-5837-4446-919f-9df8595d3df6.jpg?v=1759425876
+    Price: $575.00 USD
+  - [Scarlet](https://aliciaadamsalpaca.com/products/field-blanket?variant=53506368307572)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522S-37-Field-Blanket-Scarlet-wood-web_513998e1-058f-479c-ab6f-16e24ebcf5cd.jpg?v=1759425876
+    Price: $575.00 USD
+  - [Chambray](https://aliciaadamsalpaca.com/products/field-blanket?variant=53506368340340)
+    Availability: Not Available
+    Price: $575.00 USD
+  - [Bordeaux](https://aliciaadamsalpaca.com/products/field-blanket?variant=53506368373108)
+    Availability: Not Available
+    Price: $575.00 USD
+  - [Camel](https://aliciaadamsalpaca.com/products/field-blanket?variant=53506368405876)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH522S-49-Field-Blanket-Camel-wood-web_d10fa638-09c1-4bab-bfb6-01cc44dd8b31.jpg?v=1759425876
     Price: $575.00 USD
 - [Buy Aspen Throw | Luxury Alpaca Throws | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/aspen-throw): Buy Aspen Throw, luxury alpaca Throws at alicia adams alpaca. Earn Rewards. Shop our fair-trade made, eco-friendly luxury goods.
   Updated: 2025-10-11T00:08:46Z
@@ -15039,13 +15065,13 @@
   Updated: 2025-09-09T19:35:38Z
   Total Products: 0
 - [Shop Women's Designer Alpaca Apparel | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/shop-women): Discover our exquisite collection of luxury alpaca women's clothing, from chic coats to cozy sweaters, all crafted from 100% baby alpaca wool for unmatched style and comfort.
-  Updated: 2025-10-13T11:15:10Z
+  Updated: 2025-10-14T11:16:32Z
   Total Products: 116
 - [Designer Alpaca Children's Clothing | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/shop-children): Explore our collection of alpaca children's clothing and accessories. Envelop your little ones in expertly crafted alpaca apparel, ensuring warmth and comfort.
   Updated: 2025-10-10T11:13:46Z
   Total Products: 19
 - [Alicia Adams Alpaca | Home Living | Alpaca Home Decor](https://aliciaadamsalpaca.com/collections/home-living): Discover luxurious artisan-crafted alpaca home decor and accessories that blend sophistication and comfort. Explore exquisite alpaca throws, blankets, pillows.
-  Updated: 2025-10-13T11:15:10Z
+  Updated: 2025-10-14T11:16:32Z
   Total Products: 78
 - [alicia adams alpaca | girls | girl's clothing & accessories](https://aliciaadamsalpaca.com/collections/shop-children-girls): Our girls collection features ultra-soft alpaca sweaters & tops, scarves, & more. We value high quality materials & craftsmanship for something you'll love.
   Updated: 2025-09-09T19:35:38Z
@@ -15054,7 +15080,7 @@
   Updated: 2025-10-13T11:15:10Z
   Total Products: 43
 - [Alicia Adams Alpaca | Alpaca Throw Blankets | Luxury Alpaca Throws](https://aliciaadamsalpaca.com/collections/decorative-throws): Discover our exquisite decorative alpaca throw blankets, crafted from 100% baby alpaca wool. Over 100 unique colors and patterns to complement any home style.
-  Updated: 2025-10-13T11:15:10Z
+  Updated: 2025-10-14T11:16:32Z
   Total Products: 38
 - [Luxury Alpaca Baby & Shower Gifts | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/shop-children-babies): Discover our collection of children’s alpaca apparel and accessories. Shop the ultimate selection of alpaca baby and shower gifts.
   Updated: 2025-10-10T11:13:46Z
@@ -15075,10 +15101,10 @@
   Updated: 2025-10-12T11:13:05Z
   Total Products: 40
 - [alicia adams alpaca | gifts for home | alpaca home gifts](https://aliciaadamsalpaca.com/collections/gifts-for-home): Our gifts for home offer artisan-crafted baby alpaca pillows, throws and blankets, to luxurious accents. These alpaca goods are the perfect housewarming gift.
-  Updated: 2025-10-13T11:15:10Z
+  Updated: 2025-10-14T11:16:32Z
   Total Products: 63
 - [Luxury Alpaca Bedding Collections | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/home-living-premium-alpaca-bedding-shop): Browse luxury bedding arrangements featuring artisan-crafted alpaca bedding. Each look incorporates layered textures and patterns with a breathtaking result.
-  Updated: 2025-10-04T11:14:20Z
+  Updated: 2025-10-14T11:16:32Z
   Total Products: 5
 - [alicia adams alpaca | boys | alpaca clothes for boys](https://aliciaadamsalpaca.com/collections/shop-children-boys): Our boys collection features ultra-soft alpaca sweaters & tops, scarves, & more. We value high quality materials & craftsmanship for something you'll love.
   Updated: 2025-09-09T19:35:39Z
@@ -15093,7 +15119,7 @@
   Updated: 2025-10-10T11:13:46Z
   Total Products: 11
 - [Shop Women's Apparel | Luxury Alpaca Womens Apparel | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/womens-apparel): Artisan alpaca sweaters, tops, capes and shawls, and more, shop our women's apparel and choose from an array styles and colors fit for any wardrobe and season.
-  Updated: 2025-10-13T11:15:10Z
+  Updated: 2025-10-14T11:16:32Z
   Total Products: 44
 - [Luxury Decorative Throw Pillows | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/decorative-pillows): Discover hypoallergenic, custom decorative alpaca pillows to add elegance to any room. Explore colors and styles including throw pillows, lumbar, and euros.
   Updated: 2025-10-07T11:14:50Z
@@ -15102,7 +15128,7 @@
   Updated: 2025-10-10T11:13:46Z
   Total Products: 22
 - [Shop All Products | Alpaca Home Decor | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/all): Alicia Adams Alpaca is known for a curated, elegant approach to all things alpaca - including alpaca home decor, apparel, and accessories. Free Shipping in US.
-  Updated: 2025-10-13T11:15:10Z
+  Updated: 2025-10-14T11:16:32Z
   Total Products: 305
 - [alicia adams alpaca | mazing collection | alpaca collection](https://aliciaadamsalpaca.com/collections/mazing-collection): With its unique southwestern design, our Mazing Collection is sure to offer an enticing and conversation pillows, capes, and more for your home or wardrobe.
   Updated: 2025-10-11T11:15:39Z
@@ -15114,7 +15140,7 @@
   Updated: 2025-08-18T16:44:54Z
   Total Products: 5
 - [Luxury Alpaca Bed Blankets | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/bed-blankets): Discover our luxurious alpaca bed blankets, designed to enhance your bedroom with elegance and comfort. Shop our exclusive collection and array of colors.
-  Updated: 2025-09-29T16:28:48Z
+  Updated: 2025-10-14T11:16:32Z
   Total Products: 14
 - [Shop Scandia Home Down Comforters & Duvets | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/down-comforters-duvets): Shop Scandia Home Down Comforters & Duvets. Earn rewards on every purchase. Free shipping over $175.
   Updated: 2025-09-09T19:35:40Z
@@ -15153,7 +15179,7 @@
   Updated: 2025-10-01T11:16:30Z
   Total Products: 15
 - [alicia adams alpaca | women best sellers](https://aliciaadamsalpaca.com/collections/women-best-sellers): Shop women best selling products, luxury alpaca items at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-10-13T11:15:10Z
+  Updated: 2025-10-14T11:16:32Z
   Total Products: 5
 - [alicia adams alpaca | men best sellers](https://aliciaadamsalpaca.com/collections/men-best-sellers): Shop men best selling products, luxury alpaca items at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
   Updated: 2025-09-16T13:04:51Z
@@ -15165,13 +15191,13 @@
   Updated: 2025-10-12T11:13:05Z
   Total Products: 5
 - [alicia adams alpaca | bedding best sellers](https://aliciaadamsalpaca.com/collections/bedding-best-sellers): Shop bedding best sellers, luxury alpaca items at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-10-13T11:15:10Z
+  Updated: 2025-10-14T11:16:32Z
   Total Products: 10
 - [Holiday Gifts](https://aliciaadamsalpaca.com/collections/holiday-gifts): With the holidays coming up, we have selected some beautiful items from our collection to make a special gift to your loved ones.
-  Updated: 2025-10-13T11:15:10Z
+  Updated: 2025-10-14T11:16:32Z
   Total Products: 27
 - [alicia adams alpaca | best sellers](https://aliciaadamsalpaca.com/collections/best-sellers): Shop best selling products, luxury alpaca items at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-10-13T11:15:10Z
+  Updated: 2025-10-14T11:16:32Z
   Total Products: 35
 - [Capes + Wraps Homepage | alicia adams alpaca](https://aliciaadamsalpaca.com/collections/capes-wraps-homepage): Shop capes and wraps, luxury alpaca capes and wraps at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
   Updated: 2025-10-13T11:15:10Z
@@ -15180,19 +15206,19 @@
   Updated: 2025-10-13T11:15:10Z
   Total Products: 5
 - [alicia adams alpaca | shop women homepage](https://aliciaadamsalpaca.com/collections/shop-women-homepage): Shop women products, luxury alpaca items at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-10-13T11:15:10Z
+  Updated: 2025-10-14T11:16:32Z
   Total Products: 5
 - [Discountable Old](https://aliciaadamsalpaca.com/collections/discountable)
-  Updated: 2025-10-13T11:15:10Z
+  Updated: 2025-10-14T11:16:32Z
   Total Products: 188
 - [Alicia Products | Luxury Alpaca Products | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/alicia-adams-alpaca): Shop luxury alpaca products at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-10-13T13:28:16Z
+  Updated: 2025-10-14T11:16:32Z
   Total Products: 223
 - [Lounge Collection | alicia adams alpaca](https://aliciaadamsalpaca.com/collections/lounge-collection): Shop alicia adams alpaca's premium lounge collection—luxurious alpaca sweatshirts, sweatpants, hoodies, and more. Handcrafted for elegance, warmth, and sustainability. Shop now!
   Updated: 2025-09-28T11:17:26Z
   Total Products: 9
 - [Classic Collection | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/classic-collection): Shop the Classic Alpaca Collection available in 100+ colors. The ultimate selection of luxury alpaca throws and blankets at Alicia Adams Alpaca. Free shipping over $175.
-  Updated: 2025-10-12T11:13:05Z
+  Updated: 2025-10-14T11:16:32Z
   Total Products: 6
 - [Sale for Her | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/sale-for-her): Shop our exclusive women’s sale. Bring a new look to your wardrobe with our selection of limited-time discounted luxe alpaca apparel and accessories.
   Updated: 2025-10-13T11:15:10Z
@@ -15204,16 +15230,16 @@
   Updated: 2025-09-22T11:16:30Z
   Total Products: 6
 - [Sale for Home | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/sale-for-home): Explore our home sale selection. Elevate your home’s look with our luxurious alpaca throws, blankets, pillows, and more at a discounted price.
-  Updated: 2025-10-13T11:15:10Z
+  Updated: 2025-10-14T11:16:32Z
   Total Products: 13
 - [Meet the Family Collection](https://aliciaadamsalpaca.com/collections/meet-the-family-collection): Meet the Family Collection
   Updated: 2025-10-13T11:15:10Z
   Total Products: 6
 - [Sale | Luxury Alpaca Home Decor and Apparel | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/sale): Shop the latest reductions in alpaca home decor, apparel, and accessories from Alicia Adams Alpaca. Earn rewards on every purchase.
-  Updated: 2025-10-13T11:15:10Z
+  Updated: 2025-10-14T11:16:32Z
   Total Products: 50
 - [All Products - No Gift Wrap - DO NOT DELETE](https://aliciaadamsalpaca.com/collections/all-products-no-gift-wrap)
-  Updated: 2025-10-13T13:28:16Z
+  Updated: 2025-10-14T11:16:32Z
   Total Products: 253
 - [Southwest Inspired](https://aliciaadamsalpaca.com/collections/southwest-inspired)
   Updated: 2025-10-13T11:15:10Z
@@ -15222,31 +15248,31 @@
   Updated: 2025-09-22T11:16:30Z
   Total Products: 7
 - [Low Inventory](https://aliciaadamsalpaca.com/collections/low-inventory)
-  Updated: 2025-10-13T11:15:10Z
+  Updated: 2025-10-14T11:16:32Z
   Total Products: 250
 - [Shop Women | Luxury Alpaca Apparel | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/shop-women-1)
-  Updated: 2025-10-13T11:15:10Z
+  Updated: 2025-10-14T11:16:32Z
   Total Products: 90
 - [Shop All Products | Luxury Alpaca Home Decor & Apparel | alicia adams alpaca](https://aliciaadamsalpaca.com/collections/all-products): Alicia Adams Alpaca is known for a curated, elegant approach to all things alpaca - including alpaca home decor, men, women and children's apparel, and accessories. Free Shipping in US.
-  Updated: 2025-10-13T13:28:16Z
+  Updated: 2025-10-14T11:16:32Z
   Total Products: 248
 - [Shop Men's Luxury Alpaca Apparel | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/shop-men): Discover our luxury men’s alpaca apparel, coats, sweaters, and loungewear made from the highest quality 100% baby alpaca wool for style and comfort year-round.
   Updated: 2025-10-13T11:15:10Z
   Total Products: 42
 - [Holiday Gift Guide](https://aliciaadamsalpaca.com/collections/holiday-gift-guide)
-  Updated: 2025-10-13T11:15:10Z
+  Updated: 2025-10-14T11:16:32Z
   Total Products: 14
 - [Scandia Products](https://aliciaadamsalpaca.com/collections/scandia-products)
   Updated: 2025-09-25T11:41:06Z
   Total Products: 46
 - [Discountable](https://aliciaadamsalpaca.com/collections/discountable2)
-  Updated: 2025-10-13T11:15:10Z
+  Updated: 2025-10-14T11:16:32Z
   Total Products: 220
 - [Coats & Capes Sale](https://aliciaadamsalpaca.com/collections/coat-and-cape-sale): Save up to 80% Off
-  Updated: 2025-09-10T11:15:58Z
+  Updated: 2025-10-14T11:16:32Z
   Total Products: 9
 - [EasyGift All Products](https://aliciaadamsalpaca.com/collections/easygift-all-products): EasyGift all products collection
-  Updated: 2025-10-13T11:15:10Z
+  Updated: 2025-10-14T11:16:32Z
   Total Products: 341
 - [Featured Products | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/featured-products): Discover Alicia Adams Alpaca's premium featured collection—luxurious alpaca scarves, wraps, and accessories. Handcrafted for elegance, warmth, and sustainability. Shop now!
   Updated: 2025-10-13T11:15:10Z
@@ -15258,10 +15284,10 @@
   Updated: 2025-10-13T11:15:10Z
   Total Products: 44
 - [Featured Sale](https://aliciaadamsalpaca.com/collections/featured-sale): BUY ONE GET ONE FREE - Mix and Match Add two or more products to your cart, get 1 free! Promo automatically applied at checkout.
-  Updated: 2025-10-13T11:15:10Z
+  Updated: 2025-10-14T11:16:32Z
   Total Products: 4
 - [Tops & Sweaters](https://aliciaadamsalpaca.com/collections/tops-sweaters)
-  Updated: 2025-10-13T11:15:10Z
+  Updated: 2025-10-14T11:16:32Z
   Total Products: 30
 - [Shirts & Sweaters](https://aliciaadamsalpaca.com/collections/shirts-sweaters)
   Updated: 2025-10-13T11:15:10Z
@@ -15270,7 +15296,7 @@
   Updated: 2025-10-12T11:13:05Z
   Total Products: 13
 - [Women's Coats & Jackets](https://aliciaadamsalpaca.com/collections/womens-coats-jackets)
-  Updated: 2025-09-10T11:15:58Z
+  Updated: 2025-10-14T11:16:32Z
   Total Products: 9
 - [Men's Coats & Jackets](https://aliciaadamsalpaca.com/collections/mens-coats-jackets)
   Updated: 2025-09-09T19:35:43Z
@@ -15279,7 +15305,7 @@
   Updated: 2025-10-13T11:15:10Z
   Total Products: 34
 - [Trade Exclusions](https://aliciaadamsalpaca.com/collections/trade-exclusions)
-  Updated: 2025-10-12T11:13:05Z
+  Updated: 2025-10-14T11:16:32Z
   Total Products: 2
 - [Wedding Gifts](https://aliciaadamsalpaca.com/collections/wedding-gifts)
   Updated: 2025-10-12T11:13:05Z
@@ -15288,7 +15314,7 @@
   Updated: 2025-09-30T20:30:29Z
   Total Products: 3
 - [MADE TO ORDER](https://aliciaadamsalpaca.com/collections/made-to-order)
-  Updated: 2025-10-06T11:16:48Z
+  Updated: 2025-10-14T11:16:32Z
   Total Products: 13
 
 ## Blogs
