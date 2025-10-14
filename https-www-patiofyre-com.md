@@ -10,7 +10,7 @@
 - Contact Email: support@patiofyre.com
 - Contact Phone: 1-800-247-7384
 - Address: 20590 NE Empire Ave. Bend, OR 97701, United States of America
-- Updated At: 2025-10-14T00:00:27.791Z
+- Updated At: 2025-10-14T16:00:30.972Z
 
 Shop Patiofyre Today – Experience 8 Feet of Luxury Heat for Patios, Restaurants, and Backyards Nationwide
 
@@ -24,7 +24,7 @@ Shop Patiofyre Today – Experience 8 Feet of Luxury Heat for Patios, Restaurant
   Image: https://cdn.shopify.com/s/files/1/0685/7228/3129/files/patiofyre_2425_full-safety-cage_JLMBC_1.jpg?v=1739922588
   Price: $869.00 USD
 - [Metro Jetlamp Outdoor Heater | Patiofyre](https://www.patiofyre.com/products/metro): Discover the Metro Jetlamp: a sleek wood pellet patio heater that transforms outdoor heating with style and sustainability.
-  Updated: 2025-10-13T15:21:24Z
+  Updated: 2025-10-14T04:00:31Z
   Vendor: PatioFyre
   Product Type: 
   Availability: Available
@@ -73,7 +73,7 @@ Shop Patiofyre Today – Experience 8 Feet of Luxury Heat for Patios, Restaurant
   Image: https://cdn.shopify.com/s/files/1/0685/7228/3129/files/patiofyre_2425_budeez-pellet-storage_ABPS_a7f8e2cd-6849-4934-b1b7-395ec0501a14.jpg?v=1731968837
   Price: $17.99 USD
 - [Propane Torch | Patiofyre](https://www.patiofyre.com/products/propane-torch): Light your wood pellet patio heater easily with our propane torch. Designed for quick, efficient ignition in any outdoor setting.
-  Updated: 2025-10-13T03:50:47Z
+  Updated: 2025-10-14T04:00:31Z
   Vendor: PatioFyre
   Product Type: 
   Availability: Available
@@ -126,7 +126,7 @@ Shop Patiofyre Today – Experience 8 Feet of Luxury Heat for Patios, Restaurant
   Image: https://cdn.shopify.com/s/files/1/0685/7228/3129/files/patiofyre_2425_jetlamp_full-safety-cage_SCFM.png?v=1745942416
   Price: $1,849.00 USD
 - [Jetlamp Starter Kit | Patiofyre](https://www.patiofyre.com/products/jetlamp-starter-kit): Everything you need to get started with your Jetlamp, designed to keep your wood pellet patio heater in top condition for optimal performance.
-  Updated: 2025-10-06T23:13:38Z
+  Updated: 2025-10-14T04:00:31Z
   Vendor: Patiofyre
   Product Type: 
   Availability: Available
@@ -139,25 +139,25 @@ Shop Patiofyre Today – Experience 8 Feet of Luxury Heat for Patios, Restaurant
   Updated: 2024-09-24T17:07:40Z
   Total Products: 1
 - [Outdoor Heating Accessories | Patiofyre](https://www.patiofyre.com/collections/accessories): Enhance your patio heater with our top-quality accessories. Browse our selection to find the perfect addition to your outdoor space.
-  Updated: 2025-10-13T11:17:27Z
+  Updated: 2025-10-14T11:18:41Z
   Total Products: 13
 - [Jetlamps](https://www.patiofyre.com/collections/jetlamps): Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-  Updated: 2025-10-13T15:22:55Z
+  Updated: 2025-10-14T11:18:41Z
   Total Products: 3
 - [Best Selling Products](https://www.patiofyre.com/collections/best-selling-products)
-  Updated: 2025-10-13T15:22:55Z
+  Updated: 2025-10-14T11:18:41Z
   Total Products: 29
 - [Newest Products](https://www.patiofyre.com/collections/newest-products)
-  Updated: 2025-10-13T15:22:55Z
+  Updated: 2025-10-14T11:18:41Z
   Total Products: 29
 - [Jetlamp Only](https://www.patiofyre.com/collections/jetlamp-only)
-  Updated: 2025-10-13T15:22:55Z
+  Updated: 2025-10-14T11:18:41Z
   Total Products: 3
 - [Metro Jetlamps](https://www.patiofyre.com/collections/metro-jetlamps): Our Jetlamps enhance any outdoor area with their striking design and brilliant capacity to emanate heat. What's more, they provide a smokeless, odorless, and eco-friendly burn at a fraction of the cost of propane.
-  Updated: 2025-10-13T15:22:55Z
+  Updated: 2025-10-14T11:18:41Z
   Total Products: 3
 - [Related Products - Jetlamp PDPs](https://www.patiofyre.com/collections/related-products-jetlamp-pdps)
-  Updated: 2025-10-11T11:21:10Z
+  Updated: 2025-10-14T11:18:41Z
   Total Products: 4
 
 ## Blogs
