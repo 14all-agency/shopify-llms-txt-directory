@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-01-24T04:49:01Z
 - Contact Email: info@ibizjewel.com
-- Updated At: 2025-10-14T12:00:49.694Z
+- Updated At: 2025-10-14T20:00:49.970Z
 
 ## Products
 
@@ -22524,7 +22524,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDBA-63_1.jpg?v=1710848697
     Price: $719.00 USD
 - [Moissanite 0.05CT Marquise Diamond Art Deco Handmade Band](https://ibizjewel.com/products/moissanite-0-05ct-marquise-diamond-art-deco-handmade-band): This Moissanite 0.05ct Marquise Diamond Art Deco Handmade Band Offers A Unique Combination Of Durability And Elegance. With A Captivating Marquise Diamond And Expertly Crafted Art Deco Design, This Handmade Band Is Perfect For Adding A Touch Of Luxury To Any Outfit. Made With High-quality Moissanite, This Band Is Sure To Dazzle And Delight For Years To Come.
-  Updated: 2025-10-02T10:30:58Z
+  Updated: 2025-10-14T15:49:58Z
   Vendor: Moissanite Diamond Women's Bands
   Product Type: Moissanite Marquise Diamond Band
   Availability: Available
