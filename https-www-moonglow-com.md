@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2017-10-24T19:06:01Z
 - Contact Email: support@moonglow.com
-- Updated At: 2025-10-14T08:00:38.472Z
+- Updated At: 2025-10-14T12:00:37.717Z
 
 ## Products
 
 - [Silver Link Bracelet](https://www.moonglow.com/products/silver-link-bracelet): Classic, timeless, and uniquely personal, the Silver Link Bracelet is the perfect everyday bracelet. Wear it alone or pair it with other Moonglow bracelets.
-  Updated: 2025-10-14T04:09:57Z
+  Updated: 2025-10-14T08:54:31Z
   Vendor: Moonglow Jewelry
   Product Type: Bracelets
   Availability: Available
@@ -77,7 +77,7 @@
     Availability: Available
     Price: $48.00 USD
 - [Twin Moon Soulmate Charm Bracelet](https://www.moonglow.com/products/twin-moon-soulmate-charm-custom-bracelet): The Twin Moon Soulmate Charm Bracelet features silver-plated links and 2 personalized charms, custom-made using the moon phases from your chosen dates.
-  Updated: 2025-10-14T04:10:52Z
+  Updated: 2025-10-14T08:54:44Z
   Vendor: Moonglow Jewelry
   Product Type: Bracelets
   Availability: Available
@@ -289,7 +289,7 @@
   Image: https://cdn.shopify.com/s/files/1/2486/3224/files/Oct2025_Ecom_Lovers_in_the_Locket_SS.jpg?v=1759439314
   Price: $85.00 USD
 - [The Maginus Cufflinks in Stainless Steel](https://www.moonglow.com/products/maginus-cufflinks-stainless-steel): Our personalized cufflinks make just the style statement you’re looking for. Let The Maginus Cufflinks in Stainless Steel capture your imagination and forever mark a significant day for you or someone special in your life.
-  Updated: 2025-10-14T04:11:09Z
+  Updated: 2025-10-14T08:54:45Z
   Vendor: Moonglow Jewelry
   Product Type: Bracelets
   Availability: Available
@@ -376,7 +376,7 @@
   Image: https://cdn.shopify.com/s/files/1/2486/3224/files/cloudinary__dtoj7paiy__image__upload__Moonglow-_p-2Fproducts-_p-2FMini_Ituri_Necklace_in_Stainless_Steel-_p-2Fiturinecklaceinsilver__cld.jpg?v=1758215312
   Price: $85.00 USD
 - [Pallene Bracelet In stainless steel](https://www.moonglow.com/products/pallene-bracelet-in-silver): Classic and elegant, the Pallene Bracelet circles the wrist, embracing your own personal moon phase or that of someone special. It is perfect for the business professional who wants a little sass in their work attire, or the fashionista who needs something spectacular but not too over-the-top.
-  Updated: 2025-10-14T06:10:10Z
+  Updated: 2025-10-14T08:54:31Z
   Vendor: Moonglow Jewelry
   Product Type: Bracelets
   Availability: Available
@@ -1343,7 +1343,7 @@
     Availability: Available
     Price: $65.00 USD
 - [Mini Usambara Necklace In Stainless Steel](https://www.moonglow.com/products/mini-usambara-necklace): Bring your fondest memories to light with our newest addition to the Mini Moon Collection. With its modern design and sophisticated style the mini Usambara features a trio of 10mm lunar charms cradled in luminous silver plate and held close to the heart on its own silver chain. Wear it to remember those indelible moments shared with family and friends or life’s milestones that bring you comfort and happiness. So uniquely yours, the Usambara is sure to invite conversation and inspire awe when it lights in darkness like the moon itself. Whether you choose to make it yours or give it to someone special, the necklace will arrive in its own signature gift box with a card describing the moon phases you’ve selected. 3 mini moon pendants silver plated 16-19" stainless steel chain
-  Updated: 2025-10-14T06:11:00Z
+  Updated: 2025-10-14T08:54:41Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
@@ -1423,7 +1423,7 @@
     Availability: Available
     Price: $29.40 USD
 - [Moon Memory Key Ring](https://www.moonglow.com/products/moon-memory-key-ring): Our personalized moon key ring features a full-sized lunar charm that recalls a special moment in time. Perfect for yourself or a loved one. Featuring the moon from the date of your choice.
-  Updated: 2025-10-14T04:10:03Z
+  Updated: 2025-10-14T08:54:24Z
   Vendor: Moonglow Jewelry
   Product Type: Keychains
   Availability: Available
@@ -1826,7 +1826,7 @@
     Availability: Available
     Price: $79.00 USD
 - [Cosmic Spiral Ring In Rose Gold](https://www.moonglow.com/products/cosmic-spiral-ring-in-rose-gold): Engrave your Cosmic Spiral Ring In Rose Gold with your special date and keep your story alive forever. Features the moon from the date of your choice accented with a mini crystal and adjustable band.
-  Updated: 2025-10-14T06:10:11Z
+  Updated: 2025-10-14T08:54:26Z
   Vendor: Moonglow Jewelry
   Product Type: Rings
   Availability: Available
@@ -2332,7 +2332,7 @@
     Availability: Not Available
     Price: $95.00 USD
 - [Pallene Bracelet | Moonglow](https://www.moonglow.com/products/pink-moon-pallene-bracelet): Feel the power of the moon with the Pallene Bracelet, a moon charm bracelet that reflects the lunar sign of a special date or event. Give this bracelet as the ultimate gift to celebrate christenings, anniversaries, or "just because I love you."
-  Updated: 2025-10-14T06:10:05Z
+  Updated: 2025-10-14T08:54:27Z
   Vendor: Moonglow Jewelry
   Product Type: Bracelets
   Availability: Available
@@ -2452,7 +2452,7 @@
     Availability: Not Available
     Price: $95.00 USD
 - [Moon & Crystal Tie Bar in Stainless Steel](https://www.moonglow.com/products/moon-crystal-tie-bar-in-stainless-steel): More personal than initials. More modern than traditional clips. Our slim moon phase tie bar makes an eye-catching style statement for the fashion-forward and comfortably casual alike. Artfully crafted in black matte or brushed stainless steel, it features a lunar phase charm that recalls a special moment in time.
-  Updated: 2025-10-14T06:09:41Z
+  Updated: 2025-10-14T08:54:28Z
   Vendor: Moonglow Jewelry
   Product Type: Tie Clips
   Availability: Available
@@ -2518,7 +2518,7 @@
     Availability: Available
     Price: $48.00 USD
 - [Moonrise Cufflinks in Matte Black](https://www.moonglow.com/products/the-maginus-cufflinks-in-black-matte-stainless-stee): Our personalized cufflinks make just the style statement you’re looking for – and in a cool matte black finish! Let our Moonrise Cufflinks capture your imagination and forever mark a significant day for you or someone special in your life. With two unique moon phases, celebrate one or two special memories.
-  Updated: 2025-10-14T04:11:08Z
+  Updated: 2025-10-14T08:54:45Z
   Vendor: Moonglow Jewelry
   Product Type: Cufflinks
   Availability: Available
@@ -2612,7 +2612,7 @@
     Availability: Available
     Price: $75.00 USD
 - [Moonglow Paw Pendant in Gold](https://www.moonglow.com/products/moonglow-paw-pendant-in-gold): Featuring the moon from the special date of your choice encased in a paw pendant in honor of your furriest friend. Available in gold plate and stainless steel.
-  Updated: 2025-10-14T06:10:15Z
+  Updated: 2025-10-14T08:54:26Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
@@ -2678,14 +2678,14 @@
     Availability: Available
     Price: $49.30 USD
 - [Moonglow Gift Bag](https://www.moonglow.com/products/moonglow-gift-bag): Elevate your gifting game with Moonglow gift wrapping. Featuring the perfect bag and tissue to make any Moonglow piece extra special.
-  Updated: 2025-10-14T05:27:41Z
+  Updated: 2025-10-14T08:46:16Z
   Vendor: Moonglow Jewelry
   Product Type: Gift Wrap
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2486/3224/files/Ecom_Gift_bag.jpg?v=1758553708
   Price: $8.00 USD
 - [Luna Mia Necklace](https://www.moonglow.com/products/the-luna-mia-necklace): Our all new moon phase necklace is the perfect everyday staple to celebrate your special dates close to your heart! Featuring the moon from the date of your choice.
-  Updated: 2025-10-14T06:09:49Z
+  Updated: 2025-10-14T08:54:31Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
@@ -3009,7 +3009,7 @@
     Availability: Available
     Price: $55.00 USD
 - [Double Moon Memory Key Ring in Stainless Steel](https://www.moonglow.com/products/double-moon-memory-key-ring-in-stainless-steel): The Double Moon Memory Key Ring lets two of your most precious Moments shine bright! Featuring two moons from any special dates of your choice on a stainless steel key ring.
-  Updated: 2025-10-14T04:11:09Z
+  Updated: 2025-10-14T08:54:42Z
   Vendor: Moonglow Jewelry
   Product Type: Keychains
   Availability: Available
@@ -3455,7 +3455,7 @@
     Availability: Available
     Price: $28.00 USD
 - [Pink Milestone bracelet](https://www.moonglow.com/products/pink-milestone-bracelet): The Milestone Bracelet in sky gray is a symbol of your resolve. It lights up your path in the dark, and is a reminder of your goals. Featuring the moon from the date of your choice.
-  Updated: 2025-10-14T06:10:17Z
+  Updated: 2025-10-14T08:54:35Z
   Vendor: Moonglow Jewelry
   Product Type: Bracelets
   Availability: Available
@@ -3535,7 +3535,7 @@
   Image: https://cdn.shopify.com/s/files/1/2486/3224/files/43_fd01f782-163f-4015-a9fa-d0d09d765e77.png?v=1756768109
   Price: $49.00 USD
 - [Pink Milestone with Pink Moon](https://www.moonglow.com/products/pink-milestone-with-pink-moon): Giving back to support breast cancer survivors with every purchase the Pink Moon Sky Light moon phase necklace is a beautiful tribute to the victories survivors have worked so hard for. Featuring the PINK moon from any special date of your choice in a silver plated pendant.
-  Updated: 2025-10-14T06:10:12Z
+  Updated: 2025-10-14T08:54:31Z
   Vendor: Moonglow Jewelry
   Product Type: Bracelets
   Availability: Available
@@ -3793,7 +3793,7 @@
     Availability: Available
     Price: $44.00 USD
 - [Luna Love Necklace in Gold](https://www.moonglow.com/products/luna-love-necklace-in-gold): Presenting our enchanting Luna Love Necklace in Gold, a piece that weaves the magic of the moon into the timeless word of love. Crafted with precision and artistry, the necklace elegantly incorporates a moon from the special date of your choice seamlessly creating a romantic piece.
-  Updated: 2025-10-14T06:10:14Z
+  Updated: 2025-10-14T08:54:26Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
@@ -4913,7 +4913,7 @@
   Image: https://cdn.shopify.com/s/files/1/2486/3224/files/cloudinary__dtoj7paiy__image__upload__Moonglow-_p-2Fproducts-_p-2FShadow_Chain-_p-2F253__cld.jpg?v=1758294526
   Price: $35.00 USD
 - [Gift Bag + Greeting Card Bundle](https://www.moonglow.com/products/gift-bag-greeting-card-bundle): Gift Bag + Greeting Card Bundle
-  Updated: 2025-10-14T05:54:05Z
+  Updated: 2025-10-14T08:53:50Z
   Vendor: Moonglow Jewelry
   Product Type: Gift Wrap
   Availability: Available
@@ -5119,31 +5119,31 @@
     Availability: Available
     Price: $49.00 USD
 - [ACCORDION](https://www.moonglow.com/products/accordion)
-  Updated: 2025-10-14T06:09:20Z
+  Updated: 2025-10-14T08:53:51Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
   Price: $0.00 USD
 - [MAILER](https://www.moonglow.com/products/mailer)
-  Updated: 2025-10-14T06:09:19Z
+  Updated: 2025-10-14T08:53:51Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
   Price: $0.00 USD
 - [JEWELRY CARD](https://www.moonglow.com/products/jewelry-card)
-  Updated: 2025-10-14T06:09:14Z
+  Updated: 2025-10-14T08:53:56Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
   Price: $0.00 USD
 - [POUCH](https://www.moonglow.com/products/pouch)
-  Updated: 2025-10-14T06:09:16Z
+  Updated: 2025-10-14T08:53:49Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
   Price: $0.00 USD
 - [CLEAR BAGS](https://www.moonglow.com/products/clear-bags)
-  Updated: 2025-10-14T06:09:18Z
+  Updated: 2025-10-14T08:53:49Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
@@ -5311,7 +5311,7 @@
   Availability: Available
   Price: $0.00 USD
 - [FS13-DROP](https://www.moonglow.com/products/fs13-drop)
-  Updated: 2025-10-14T04:09:03Z
+  Updated: 2025-10-14T08:53:51Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
@@ -5382,7 +5382,7 @@
   Availability: Available
   Price: $0.00 USD
 - [Tri-Mare Charm Necklace | Triple Pendants](https://www.moonglow.com/products/tri-mare-charm-necklace): Moonglow’s Tri-Mare Charm Necklace is a silver triple moon pendant featuring three 13mm moon images from the dates of your choice. The perfect accessory for any star-gazer.
-  Updated: 2025-10-14T04:10:54Z
+  Updated: 2025-10-14T08:54:46Z
   Vendor: Moonglow Jewelry
   Product Type: Necklaces
   Availability: Available
@@ -5673,7 +5673,7 @@
   Availability: Available
   Price: $0.00 USD
 - [Charm1SS-B-KEYC](https://www.moonglow.com/products/charm1ss-b-keyc)
-  Updated: 2025-10-14T04:09:05Z
+  Updated: 2025-10-14T08:53:49Z
   Vendor: Moonglow Jewelry
   Product Type: 
   Availability: Available
@@ -6255,73 +6255,73 @@
   Updated: 2025-09-08T04:42:01Z
   Total Products: 0
 - [Jewelry For Women | Moonglow Jewelry](https://www.moonglow.com/collections/women): Unique and special jewelry for women. Celebrate a milestone or an everyday occasion with a Moonglow piece of jewelry that fits your personality and style.
-  Updated: 2025-10-13T16:56:58Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 233
 - [Necklaces, Bracelets & Key Rings | Men’s](https://www.moonglow.com/collections/men): Browse our men's moon jewelry collection featuring chains, bracelets, cufflinks, and key rings. The perfect gift for adventurous men who dare to be different.
-  Updated: 2025-10-14T01:39:38Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 31
 - [Moonlight Jewelry Collection | Moonglow](https://www.moonglow.com/collections/moonlight-collection): Moonlight jewelry collection of pendants, necklaces, and chain are easy to customize. Simply select a special day you want to remember like a birthday, wedding, or anniversary, and then order in seconds.
-  Updated: 2025-10-13T23:37:34Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 4
 - [Mini And Skinny Moon Jewelry | Moonglow](https://www.moonglow.com/collections/mini-moon-collection): Mini Moon Collection, earrings, necklaces, and rings--oh my! Our mini moon collection is out of this world, and it's the perfect way to bring your style to the next level. Accessorizing has never been easier than it is now with these customizable jewelry pieces.
-  Updated: 2025-10-14T06:11:06Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 34
 - [Womens Choker Necklaces | Moonglow Jewelry](https://www.moonglow.com/collections/choker-necklaces): With Moonglow’s women’s choker necklaces collection, you can wear a necklace that is stylish, trendy, and has a special meaning that only you know.
-  Updated: 2025-10-13T15:55:37Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 3
 - [Unique Birthstone Jewelry](https://www.moonglow.com/collections/unique-birthstone-jewelry): Unique Birthstone Jewelry designed to suit your style. Available in stainless steel or silver, each piece features a moon phase from a date of your choice.
   Updated: 2025-10-07T13:24:15Z
   Total Products: 3
 - [Gold Moon Jewelry](https://www.moonglow.com/collections/gold-jewelry): Uncover the beauty and meaning of gold jewelry with Moonglow's Golden Memories collection. Perfect for cherished memories and unique moments.
-  Updated: 2025-10-14T01:39:40Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 46
 - [Jewelry Gift For Special Moment | Moonglow](https://www.moonglow.com/collections/jewelry-gifts): Select the perfect moon phase jewelry gift for special moments. Moonglow offers meaningful moment with our artisan-crafted moon jewelry gift for men and women.
-  Updated: 2025-10-13T11:09:31Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 110
 - [Personalized Women’s Moon Necklaces](https://www.moonglow.com/collections/womens-necklaces-old): Moon Necklaces are perfect gifts for women who have everything, even a deep connection with the cosmos. Personalized with the moon from any date of your choice.
-  Updated: 2025-10-14T06:11:06Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 66
 - [Charm Bracelets For Women](https://www.moonglow.com/collections/womens-bracelets): We offer a wide range of moon charm bracelets for women that are perfect for any occasion. Choose from stainless steel, pewter, gold, silver, or rose gold.
-  Updated: 2025-10-13T11:09:31Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 93
 - [Get a Moon Ring With Your Chosen Moon Phase](https://www.moonglow.com/collections/rings): Indulge your wanderlust with a Moonglow ring. Simple yet timeless, our moon rings mix art and utility. Get one for yourself or gift it to someone special.
-  Updated: 2025-10-14T06:10:19Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 20
 - [Moon Chains Collection](https://www.moonglow.com/collections/chains): Our timeless moon chain collection features pieces made with outstanding attention to detail. Find chains in a variety of lengths, designs, and finishings.
-  Updated: 2025-10-13T11:09:30Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 5
 - [Moon Phases Earrings](https://www.moonglow.com/collections/earrings): Adorn your ears with these beautiful moon phases earrings. Our moon earrings are perfect for any occasion and will be cherished for years to come.
-  Updated: 2025-10-13T11:09:31Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 17
 - [Moon Phase Jewelry Sets And Pendant Sets | Moonglow](https://www.moonglow.com/collections/moon-pendant-sets): Customized moon phase jewelry sets and pendant sets for women. Giving the perfect gift may seem like an intimidating task, but it’s actually easier than you’d think with these women’s jewelry sets and pendant sets!
   Updated: 2025-09-08T04:42:02Z
   Total Products: 3
 - [Bangle Moon Bracelets](https://www.moonglow.com/collections/bangle-bracelets): A moon bracelet adds a perfect accent to any outfit. Delicate and subtle, these jewelry bracelets are a statement of love, style, and affection.
-  Updated: 2025-10-14T06:10:17Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 98
 - [Custom Mens Necklaces With Moon Phase | Moonglow](https://www.moonglow.com/collections/mens-necklaces): Modern, masculine and uniquely personal collection of mens necklaces with moon phase at Moonglow. These personalized mens necklaces are designed to inspire the imagination and stir the soul.
-  Updated: 2025-10-13T11:09:30Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 18
 - [Custom Mens Bracelets With Moon Phase | Moonglow](https://www.moonglow.com/collections/mens-bracelets): Choose from Moonglow's custom mens bracelet collection with moon phase for the perfect gift to your masculine yet sensitive guy. These personalized bracelets for men are stylish, trendy, and classic enough to stand the test of time.
-  Updated: 2025-10-13T11:09:30Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 3
 - [Custom Anniversary Jewelry | Moonglow](https://www.moonglow.com/collections/anniversary-2): All of our custom anniversary jewelry gift options have some serious flair-matching to any style and making it easier than ever for you to choose the best-ever anniversary gift for that special someone.
-  Updated: 2025-10-13T11:09:31Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 38
 - [Gift Guide | Moonglow](https://www.moonglow.com/collections/gift-guide): If you want to surprise that special person in your life with a cool Christmas gift, there is no better way to achieve that goal than to give them a custom made piece of Moonglow jewelry. You can present your loved one with an expertly crafted piece of jewelry that depicts a special moment in your history together. Moonglow gift jewelry is the perfect way to avoid the same old cliché Christmas gifts. Our unique pieces of jewelry are cool gifts for Christmas. Every necklace, ring and set of earrings our artisans create is original and unique to you and the one you love. Each handcrafted piece of Christmas gift jewelry is more than just an object; it is a symbol of the precious moments you have shared with your loved ones. Moonglow jewelry is a great way to show your love that you care on Christmas. Our expert designers and staff would be thrilled to help you create a beautiful, cool Christmas gift.
-  Updated: 2025-10-13T11:09:31Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 110
 - [Personalized Jewelry For The One You Love | Moonglow](https://www.moonglow.com/collections/love): Shop our personalized jewelry for the one you love. There’s no better way to show off style and love at the same time with a customized moon jewelry gift.
-  Updated: 2025-10-13T11:09:31Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 70
 - [Moonglow Collections | Moonglow](https://www.moonglow.com/collections/collections): Looking for a customized moon phase jewelry collection you love? Browse the list below to explore our favorite Moonglow collection jewelry as you like.
-  Updated: 2025-10-13T23:37:34Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 65
 - [Womens Necklaces | Moonglow](https://www.moonglow.com/collections/womens-necklaces): Moon phase necklaces that hold your moments.
-  Updated: 2025-10-14T06:11:06Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 115
 - [Moonphase | Moonglow](https://www.moonglow.com/collections/moon-phase)
-  Updated: 2025-10-13T11:09:30Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 4
 - [Astrological Signs | Moonglow](https://www.moonglow.com/collections/astrological-signs)
   Updated: 2025-09-08T04:42:02Z
@@ -6339,7 +6339,7 @@
   Updated: 2025-10-06T21:14:26Z
   Total Products: 4
 - [Summer Styles | Moonglow](https://www.moonglow.com/collections/summer-styles)
-  Updated: 2025-10-13T11:09:31Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 6
 - [Love and Honor Pendants | Moonglow](https://www.moonglow.com/collections/love-and-honor-pendants)
   Updated: 2025-09-08T04:42:03Z
@@ -6351,13 +6351,13 @@
   Updated: 2025-09-25T11:56:18Z
   Total Products: 3
 - [*Old - Breast Cancer Jewelry](https://www.moonglow.com/collections/breast-cancer-jewellery): Explore our Breast Cancer Jewelry collection, created to inspire strength and love. Choose a classic, timeless, and uniquely personal piece of jewelry.
-  Updated: 2025-10-13T11:09:31Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 16
 - [Homepage Best Sellers | Moonglow](https://www.moonglow.com/collections/homepage-bestsellers)
-  Updated: 2025-10-13T11:09:31Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 46
 - [Shop + Save | Moonglow](https://www.moonglow.com/collections/shop-and-save): Shop and use your discount code to save.
-  Updated: 2025-10-13T11:09:31Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 152
 - [POS | Moonglow](https://www.moonglow.com/collections/pos)
   Updated: 2025-09-25T11:56:19Z
@@ -6366,52 +6366,52 @@
   Updated: 2025-09-25T11:56:19Z
   Total Products: 0
 - [Custom Anklets](https://www.moonglow.com/collections/anklets): Unlock your personal story with our custom anklet collection. We offer a wide range of custom anklets from classic link or snake chains to modern designs.
-  Updated: 2025-10-11T11:04:30Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 5
 - [Moon Phase Jewelry](https://www.moonglow.com/collections/jewelry): Moonglow’s moon phase jewelry is a unique and exciting way to connect with the moon and everyone around us. Designed to keep your memories alive.
-  Updated: 2025-10-14T06:11:06Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 348
 - [Many Moments | Moonglow](https://www.moonglow.com/collections/many-moments): Every Moon, a Different Meaning.
-  Updated: 2025-10-13T11:09:31Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 52
 - [Gift Cards | Moonglow](https://www.moonglow.com/collections/gift-card-collection)
   Updated: 2025-10-09T11:05:25Z
   Total Products: 2
 - [Active Products | Moonglow](https://www.moonglow.com/collections/active-products): All products that are active on the Online Store Excludes upcoming discontinued list
-  Updated: 2025-10-13T11:09:31Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 125
 - [Friday the 13th | Moonglow](https://www.moonglow.com/collections/friday-the-13th)
   Updated: 2025-10-11T11:04:30Z
   Total Products: 3
 - [password protected | Moonglow](https://www.moonglow.com/collections/password-protected)
-  Updated: 2025-10-13T11:09:30Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 13
 - [*Old - BFF](https://www.moonglow.com/collections/bff)
   Updated: 2025-09-08T04:42:03Z
   Total Products: 0
 - [Just Landed | New Products | Moonglow](https://www.moonglow.com/collections/just-landed): Hot off the press, fresh out of the oven––you get it. Here are all things brand spankin’ new at Moonglow. Be one of the first to grab our newest products. Who knows, they may not be here for long…
-  Updated: 2025-10-13T11:09:31Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 78
 - [We Think You'd Like | Moonglow](https://www.moonglow.com/collections/we-think-youd-like)
   Updated: 2025-09-08T04:42:03Z
   Total Products: 1
 - [Lunar Boutique | Moonglow](https://www.moonglow.com/collections/lunar-boutique)
-  Updated: 2025-10-13T11:09:30Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 6
 - [Top Selling Jewelry | Moonglow](https://www.moonglow.com/collections/top-selling-jewelry): Choose from any of our top selling jewelry items. Necklaces, bracelets, chains, pendants and more!
-  Updated: 2025-10-13T11:09:31Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 40
 - [Engraving | Moonglow](https://www.moonglow.com/collections/engraving)
   Updated: 2025-09-08T04:42:03Z
   Total Products: 0
 - [*Old - Lunar Boutique](https://www.moonglow.com/collections/lunar-boutique-1)
-  Updated: 2025-10-13T11:09:30Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 8
 - [Rose Gold | Moonglow](https://www.moonglow.com/collections/rose-gold): On Wednesdays we wear pink...and every other day. Shop custom moon phase necklaces and bracelets in a jaw-dropping rose gold finish.
   Updated: 2025-10-13T11:09:30Z
   Total Products: 9
 - [48 Hour Flash Sale](https://www.moonglow.com/collections/flash-sale): Enjoy your long weekend with 15% off some of our most desired pieces!
-  Updated: 2025-10-13T11:09:31Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 3
 - [Halloween Sale](https://www.moonglow.com/collections/halloween-sale)
   Updated: 2025-09-25T11:56:19Z
@@ -6420,10 +6420,10 @@
   Updated: 2025-09-25T11:56:20Z
   Total Products: 0
 - [For Us](https://www.moonglow.com/collections/for-us)
-  Updated: 2025-10-14T00:56:27Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 49
 - [Black Friday 25](https://www.moonglow.com/collections/black-friday-25)
-  Updated: 2025-10-13T11:09:31Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 77
 - [SHOP Holiday Deals](https://www.moonglow.com/collections/christmas-sale)
   Updated: 2025-10-13T11:09:30Z
@@ -6435,79 +6435,79 @@
   Updated: 2025-09-25T11:56:20Z
   Total Products: 0
 - [*Old - Sale items](https://www.moonglow.com/collections/sale-items)
-  Updated: 2025-10-13T11:09:30Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 27
 - [End of Winter Sale](https://www.moonglow.com/collections/end-of-winter-sale)
   Updated: 2025-09-25T11:56:20Z
   Total Products: 0
 - [St. Patrick's Day Sale](https://www.moonglow.com/collections/st-patricks-day-sale)
-  Updated: 2025-10-13T23:37:34Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 320
 - [*Old - Beaded Bracelets](https://www.moonglow.com/collections/beaded-bracelets)
-  Updated: 2025-10-13T11:09:31Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 7
 - [Mother’s Day Jewelry](https://www.moonglow.com/collections/mothers-day-sale): On this Mother’s Day, show your mom how much you care with beautiful Moonglow jewelry. Make your gift extra special by engraving it with a special date.
   Updated: 2025-10-13T11:09:30Z
   Total Products: 6
 - [Engravable Jewelry](https://www.moonglow.com/collections/engravable-leg): Moonglow’s engravable jewelry is the perfect way to celebrate meaningful moments. Customize your piece with an engravable word or date and a lunar phase.
-  Updated: 2025-10-14T06:10:17Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 158
 - [*Old - Summer Sale](https://www.moonglow.com/collections/summer-sale)
   Updated: 2025-09-08T04:42:04Z
   Total Products: 0
 - [Sitewide Sale](https://www.moonglow.com/collections/sitewide-sale)
-  Updated: 2025-10-13T23:37:34Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 320
 - [Gifts Under $50](https://www.moonglow.com/collections/gifts-under-50)
-  Updated: 2025-10-14T02:40:10Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 257
 - [Engravables-old](https://www.moonglow.com/collections/engravables-old)
-  Updated: 2025-10-13T11:09:31Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 21
 - [Deal of the Week](https://www.moonglow.com/collections/deal-of-the-week)
   Updated: 2025-10-09T11:05:27Z
   Total Products: 1
 - [Moon Gifts For Her](https://www.moonglow.com/collections/gift-collection): The Moonglow Gift Collection is the perfect gift for her. Each piece is carefully crafted and can be personalized with a date of your choice.
-  Updated: 2025-10-10T20:31:45Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 5
 - [*Old - National Family Day](https://www.moonglow.com/collections/national-family-day-1)
-  Updated: 2025-10-13T11:09:31Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 47
 - [Beautiful Jewelry For Boyfriend’s Day](https://www.moonglow.com/collections/national-boyfriends-day): On National Boyfriend's Day, show your man how much you appreciate him with a jewelry gift from Moonglow. Personalize your piece with a date of your choice.
   Updated: 2025-10-11T11:04:30Z
   Total Products: 6
 - [Holiday Gift Guide](https://www.moonglow.com/collections/holiday-gift-guide): Every moment has a moon, and every person on your holiday shopping list has a special moment to be cherished. Whether it’s gifting your spouse with the moon from the day you said “I do”,  group-gifting for your grandchildren, or celebrating your baby’s first Christmas, Moonglow jewelry Holiday Gift Guide Collection offers the perfect gifts to commemorate the people and moments you hold closest to your heart. Enjoy free holiday gift wrapping with every purchase all holiday season, so you can spend less time on wrapping presents and more time on what matters most.
-  Updated: 2025-10-13T11:09:31Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 74
 - [Holiday Sale Best Sellers](https://www.moonglow.com/collections/holiday-sale-best-sellers)
-  Updated: 2025-10-13T11:09:31Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 25
 - [*Old - Sitewide Black Friday Sale Collection](https://www.moonglow.com/collections/sitewide-black-friday-sale-collection)
-  Updated: 2025-10-13T11:09:31Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 83
 - [Holiday Deals | Jewelry On Sale](https://www.moonglow.com/collections/holiday-deals): Introducing our latest stylish pieces, now on holiday sale. All our jewelry pieces feature unique designs that are sure to turn heads. Shop yours here!
-  Updated: 2025-10-13T11:09:31Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 19
 - [Aurelie's Sale](https://www.moonglow.com/collections/aurelies-sale)
   Updated: 2025-09-08T04:42:05Z
   Total Products: 1
 - [Free Birthstone Bracelet with Purchase of $100+](https://www.moonglow.com/collections/free-birthstone-bracelet-with-purchase-of-100)
-  Updated: 2025-10-13T11:09:31Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 137
 - [Waning Gibbous](https://www.moonglow.com/collections/waning-gibbous)
-  Updated: 2025-10-13T11:09:31Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 115
 - [Waxing Gibbous Collection | Moon Necklaces & More](https://www.moonglow.com/collections/waxing-gibbous): Experience the magic of the lunar cycle with Moonglow's waxing gibbous necklace. Perfect for gifting or treating yourself to celestial elegance.
-  Updated: 2025-10-13T11:09:31Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 116
 - [New Moon Jewelry | Necklaces, Bracelets, Rings & More](https://www.moonglow.com/collections/new-moon): Explore Moonglow's New Moon Jewelry Collection. Embrace new beginnings with our unique new moon necklaces and more. Wear the magic of the moon!
-  Updated: 2025-10-13T11:09:31Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 93
 - [Full Moon Collection](https://www.moonglow.com/collections/full-moon): Indulge in the allure of the moon with our Full Moon jewelry collection. Connect with the moon’s cosmic energy and symbolism every day.
-  Updated: 2025-10-13T11:09:31Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 124
 - [Waxing Crescent Moon Collection | Moonglow Jewelry](https://www.moonglow.com/collections/waxing-crescent): Moonglow's Waxing Crescent jewelry is a symbol of personal growth, love, and curiosity. Delve into the captivating allure of this jewelry collection today.
-  Updated: 2025-10-13T11:09:31Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 122
 - [Lunar Eclipse](https://www.moonglow.com/collections/lunar-eclipse)
   Updated: 2025-10-06T21:14:27Z
@@ -6516,85 +6516,85 @@
   Updated: 2025-10-02T11:04:44Z
   Total Products: 14
 - [Waning Crescent Moon Jewelry | Moonglow Jewelry](https://www.moonglow.com/collections/waning-crescent): Moonglow's Waning Crescent Moon jewelry celebrates the beauty of the waning crescent moon. A collection for dreamers and creatives that's sure to impress.
-  Updated: 2025-10-13T11:09:31Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 113
 - [Birthday Gift Guide](https://www.moonglow.com/collections/birthday): Looking for a birthday gift for the moon lover in your life? Moonglow's Birthday Gift Guide has curated some of our favorite pieces to make their birth moons glow bright! Whether you choose a birth moon and birthstone necklace or an astrological constelation ring – find the perfect gift here.
-  Updated: 2025-10-13T11:09:31Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 24
 - [Celebrate Friendship](https://www.moonglow.com/collections/friendship)
-  Updated: 2025-10-13T11:09:31Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 42
 - [New Mom](https://www.moonglow.com/collections/new-mom)
-  Updated: 2025-10-13T11:09:31Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 18
 - [Anniversary Jewelry Gift Guide](https://www.moonglow.com/collections/anniversary-engagement): Moonglow's Anniversary Jewelry is the perfect way to celebrate and surprise someone you love. Wear these beautiful pieces as a symbol of your commitment.
-  Updated: 2025-10-13T11:09:31Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 38
 - [Achievement](https://www.moonglow.com/collections/achievement)
-  Updated: 2025-10-13T11:09:30Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 12
 - [Memorial Jewelry Collection](https://www.moonglow.com/collections/memorial): Celebrate the beauty in all things and how we're all connected with Moonglow’s Memorial jewelry. Personalize each piece with a date you cherish.
   Updated: 2025-10-13T11:09:30Z
   Total Products: 23
 - [Pet Lovers](https://www.moonglow.com/collections/pets)
-  Updated: 2025-10-13T11:09:30Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 18
 - [Spiritual](https://www.moonglow.com/collections/spiritual)
   Updated: 2025-10-11T11:04:30Z
   Total Products: 2
 - [shop-all](https://www.moonglow.com/collections/shop-all)
-  Updated: 2025-10-13T23:37:34Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 480
 - [*Old - soldout](https://www.moonglow.com/collections/soldout)
-  Updated: 2025-10-14T06:11:06Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 189
 - [Smart Products Filter Index - Do not delete](https://www.moonglow.com/collections/globofilter-best-selling-products-index)
-  Updated: 2025-10-13T23:37:34Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 581
 - [Bundle & Save](https://www.moonglow.com/collections/bundles)
   Updated: 2025-10-13T11:09:30Z
   Total Products: 42
 - [Gifts Under $100](https://www.moonglow.com/collections/gifts-under-100)
-  Updated: 2025-10-14T06:10:20Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 365
 - [Gifts Under $200](https://www.moonglow.com/collections/under-200)
-  Updated: 2025-10-14T06:11:07Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 437
 - [Engravable Pendant](https://www.moonglow.com/collections/engraved-on-back)
-  Updated: 2025-10-14T01:39:44Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 26
 - [Celestial Muse](https://www.moonglow.com/collections/celestial-muse-collection)
-  Updated: 2025-10-13T11:09:30Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 35
 - [Key Chains](https://www.moonglow.com/collections/key-chains)
-  Updated: 2025-10-13T11:09:30Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 5
 - [Inspired By Virgo | Moonglow Jewelry](https://www.moonglow.com/collections/virgo): The Inspired By Virgo jewelry collection features delicate necklaces, rings, and bracelets. Captivate those around you with the power of Virgo!
-  Updated: 2025-10-13T11:09:31Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 52
 - [Pink Jewelry Necklaces & Chokers](https://www.moonglow.com/collections/pink-moon-collection): Moonglow’s pink jewelry necklaces serve as a reminder to find beauty in even the darkest times. Choose our pink moons to embrace hope and love.
-  Updated: 2025-10-13T11:09:31Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 24
 - [Inspired by Libra](https://www.moonglow.com/collections/libra): Custom moon phase jewelry designed for Libras. Featuring the moon from the date of your choice.
-  Updated: 2025-10-13T11:09:31Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 45
 - [Warmth & Wane Collection](https://www.moonglow.com/collections/fall2020)
   Updated: 2025-10-08T11:04:48Z
   Total Products: 6
 - [Inspired By Scorpio | Moonglow Jewelry Collection](https://www.moonglow.com/collections/scorpio): Be inspired by the power of Scorpio with this stunning jewelry collection by Moonglow. This collection offers necklaces, keychains, rings, and bracelets.
-  Updated: 2025-10-13T11:09:31Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 49
 - [Inspired by Sagittarius](https://www.moonglow.com/collections/inspired-by-sagittarius)
-  Updated: 2025-10-13T11:09:31Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 45
 - [The Toujours Collection](https://www.moonglow.com/collections/the-toujours-collection)
   Updated: 2025-10-08T11:04:48Z
   Total Products: 3
 - [Valentine's Gift Guide](https://www.moonglow.com/collections/valentines-gift-guide): Your go-to Moonglow gift guide for the love(s) in your life! From parents, to galentines, to your Valentine – give the gift of Moonglow.
-  Updated: 2025-10-13T11:09:31Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 59
 - [Inspired by Capricorns](https://www.moonglow.com/collections/capricorn)
-  Updated: 2025-10-13T11:09:31Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 14
 - [Inspired by Taurus](https://www.moonglow.com/collections/taurus)
   Updated: 2025-10-13T11:09:30Z
@@ -6612,22 +6612,22 @@
   Updated: 2025-10-13T11:09:30Z
   Total Products: 4
 - [Inspired by Aquarius](https://www.moonglow.com/collections/aquarius)
-  Updated: 2025-10-13T11:09:31Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 43
 - [Inspired by Pisces](https://www.moonglow.com/collections/pisces)
-  Updated: 2025-10-13T11:09:30Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 18
 - [Stellar Sky Collection](https://www.moonglow.com/collections/stellar-collection): Meet our latest celestial obsession, “The Stellar Sky Collection”. The pieces you know and love now reintroduced with a twist that was written in the stars. For our astrology and star-crossed lovers alike, we present the 12 zodiac constellations in place of the Moon. Look for the “Astral” to know it’s a piece from the Stellar Sky Collection.
   Updated: 2025-10-06T21:14:28Z
   Total Products: 33
 - [Boost All](https://www.moonglow.com/collections/boost-all)
-  Updated: 2025-10-13T23:37:34Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 480
 - [Moon and Stars](https://www.moonglow.com/collections/my-moon-and-stars): Combine your moon phase and ruling constellation to capture the night sky from the date you were born with the Moon and Stars collection! Our signature beautiful moon phase jewelry combines with the constellation of your astrological sign to make you birth date glow!
   Updated: 2025-10-06T21:14:28Z
   Total Products: 7
 - [Gifts for Mother's Day](https://www.moonglow.com/collections/gifts-for-mothers-day): Celebrate the Moms in your life with the original moon phase jewelry. From dog moms, adoptive moms, to grand-moms celebrate their bond with a moon phase necklace or moon ring with a date closest to their hearts.
-  Updated: 2025-10-13T11:09:31Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 62
 - [Layers of Love](https://www.moonglow.com/collections/layers-of-love)
   Updated: 2025-10-06T21:14:29Z
@@ -6636,16 +6636,16 @@
   Updated: 2025-10-13T11:09:30Z
   Total Products: 2
 - [Graduation](https://www.moonglow.com/collections/graduation)
-  Updated: 2025-10-13T11:09:30Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 20
 - [Memorial 2021](https://www.moonglow.com/collections/memorial-2021)
-  Updated: 2025-10-13T11:09:31Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 38
 - [core](https://www.moonglow.com/collections/core)
-  Updated: 2025-10-13T11:09:31Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 72
 - [Father's Day](https://www.moonglow.com/collections/fathers-day)
-  Updated: 2025-10-13T11:09:30Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 17
 - [*Old - Prime Deals](https://www.moonglow.com/collections/prime-deals)
   Updated: 2025-10-13T11:09:30Z
@@ -6654,7 +6654,7 @@
   Updated: 2025-10-06T21:14:29Z
   Total Products: 8
 - [Endless Summer Collection](https://www.moonglow.com/collections/endless-summer-collection): Meet the Endless Collection, inspired by our wish to have one of the best summersyet, to soak in the sun, to bask in the moon and stars and be together again.
-  Updated: 2025-10-13T11:09:31Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 13
 - [*Old - Labor Day Sale 2021](https://www.moonglow.com/collections/labor-day-sale-2021)
   Updated: 2025-10-13T11:09:30Z
@@ -6663,16 +6663,16 @@
   Updated: 2025-10-06T21:23:14Z
   Total Products: 3
 - [Many Moon Bracelets](https://www.moonglow.com/collections/many-moon-bracelets): Celebrate all of life's Moments with bracelets that capture more than just one special day!
-  Updated: 2025-10-13T11:09:30Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 30
 - [Astral Bracelets](https://www.moonglow.com/collections/astral-bracelets): Celebrate the astrology lover in your life with our Astral Bracelets! Capture their constellation from their moon sign.
   Updated: 2025-10-06T21:14:29Z
   Total Products: 14
 - [Gold & Rose Gold Bracelets](https://www.moonglow.com/collections/gold-rose-gold-bracelets): Have a gold lover in your life? Treat them to golden memories with golden bracelets!
-  Updated: 2025-10-12T11:04:16Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 13
 - [Julien's Gift Guide](https://www.moonglow.com/collections/juliens-gift-guide): Our CEO and Co-Founder Julien has put together his favorite Moonglow gifts from over the years to help you make your 2021 gifting dreams come true!
-  Updated: 2025-10-13T11:09:31Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 18
 - [Aurelie's Gift Guide](https://www.moonglow.com/collections/aurelies-gift-guide): Our visionary, Creative Director, and Co-Founder Aurelie brings us her favorite pieces to make your 2021 holidays extra special with a gift from the heart.
   Updated: 2025-10-12T11:04:16Z
@@ -6681,13 +6681,13 @@
   Updated: 2025-10-13T11:09:31Z
   Total Products: 27
 - [Gifting For Him](https://www.moonglow.com/collections/gifting-for-him): Shop Moments for him!
-  Updated: 2025-10-13T11:09:30Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 12
 - [Golden Gift Guide](https://www.moonglow.com/collections/golden-gift-guide): Have a gold lover in your life? Give them the gift a Moment that makes their heart glow in jewelry that they will want to wear all year long!
   Updated: 2025-10-12T11:04:16Z
   Total Products: 6
 - [Gifts for Them](https://www.moonglow.com/collections/gifts-for-them): Bundle and save for your gifts! Celebrate siblings, best friends, or a couple close to your heart because sometimes two Moments are better than one.
-  Updated: 2025-10-13T11:09:30Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 35
 - [$100 Gift Bundles](https://www.moonglow.com/collections/100-holiday-bundles): Get your holiday shopping done with our $100 gifting bundles! Receive a special Moonglow Moment, gift bag, and accessory for our flat rate and be holiday ready.
   Updated: 2025-10-06T21:14:29Z
@@ -6699,16 +6699,16 @@
   Updated: 2025-10-06T21:14:29Z
   Total Products: 0
 - [Last Call](https://www.moonglow.com/collections/last-call): Some of our favorite moon phase jewelry is in its final phase. Get your favorite moments while you can!
-  Updated: 2025-10-14T06:11:07Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 6
 - [Be My Valentine](https://www.moonglow.com/collections/be-my-valentine): Find the perfect moon phase gift for your Valentine – or Galentine! – with Moonglow! From new perfectly paired his and hers moon jewelry sets to our most loved styles, find the perfect gift or be inspired today!
-  Updated: 2025-10-13T11:09:31Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 72
 - [Astral Necklaces](https://www.moonglow.com/collections/astral-necklaces): Capture your star sign with our astrological constellation necklaces! With beautiful blue sky and bright stars let your ruling constelation glow bright.
   Updated: 2025-10-11T11:04:30Z
   Total Products: 8
 - [Many Moon Necklaces](https://www.moonglow.com/collections/many-moon-necklaces): Celebrate all of your memories with the many moon necklaces! From two moons to five moon necklaces celebrate them all!
-  Updated: 2025-10-13T11:09:31Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 11
 - [Gold & Rose Gold Necklaces](https://www.moonglow.com/collections/gold-rose-gold-necklaces): Celebrate your moon moment with gold and rose gold moon phase necklaces.
   Updated: 2025-10-13T11:09:31Z
@@ -6717,40 +6717,40 @@
   Updated: 2025-10-06T21:14:29Z
   Total Products: 0
 - [Gold & Rose Gold Rings](https://www.moonglow.com/collections/gold-rose-gold-rings): Celebrate your deaest memories with custom moon phase jewelry. Find the date closest to your heart and select one of our beautiful moon phase rings in gold to make it shine extra bright!
-  Updated: 2025-10-13T11:09:30Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 23
 - [Ring Bundles](https://www.moonglow.com/collections/ring-bundles): Want to celebrate many moments, or find a matching set for you and a loved one to share? With bundles get two precious moon phase jewelry pieces and save up to 10% off!
   Updated: 2025-10-06T21:14:30Z
   Total Products: 0
 - [Hoop Earrings](https://www.moonglow.com/collections/hoop-earrings): Celebrate one or two special memories with your personal flare with our beautiful moon phase hoop earrings!
-  Updated: 2025-10-13T11:09:31Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 3
 - [Stud Earrings](https://www.moonglow.com/collections/stud-earrings): From one Moment to two, celebrate the memories closest to your heart with moon phase stud earrings.
-  Updated: 2025-10-06T21:14:30Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 3
 - [Astral Earrings](https://www.moonglow.com/collections/astral-earrings): Show off your star sign with beautiful customizable stud earrings!
   Updated: 2025-10-06T21:14:30Z
   Total Products: 1
 - [Engravable](https://www.moonglow.com/collections/engravable): Customize your moon phase jewelry with words from the heart with our engravable tags!
-  Updated: 2025-10-13T16:56:58Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 229
 - [Engravable Gold Jewelry](https://www.moonglow.com/collections/engravable-gold-jewelry)
-  Updated: 2025-10-13T11:09:31Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 35
 - [Men's Accessories](https://www.moonglow.com/collections/mens-accessories)
-  Updated: 2025-10-13T11:09:30Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 25
 - [Gifts for Men](https://www.moonglow.com/collections/gifts-for-men)
-  Updated: 2025-10-13T11:09:30Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 8
 - [Core Products](https://www.moonglow.com/collections/core-products)
-  Updated: 2025-10-13T11:09:31Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 74
 - [Retailer Friendly](https://www.moonglow.com/collections/retailer-friendly)
-  Updated: 2025-10-13T11:09:30Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 20
 - [Bangles](https://www.moonglow.com/collections/bangles)
-  Updated: 2025-10-13T11:09:30Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 9
 - [Furry Friends](https://www.moonglow.com/collections/furry-friends)
   Updated: 2025-10-06T21:23:14Z
@@ -6759,19 +6759,19 @@
   Updated: 2025-10-06T21:14:30Z
   Total Products: 3
 - [Non core](https://www.moonglow.com/collections/non-core)
-  Updated: 2025-10-13T23:37:34Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 320
 - [Anniversary Sale](https://www.moonglow.com/collections/anniversary-sale)
-  Updated: 2025-10-13T11:09:31Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 137
 - [Nautical Summer](https://www.moonglow.com/collections/nautical-summer)
-  Updated: 2025-10-13T11:09:31Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 28
 - [His & Hers](https://www.moonglow.com/collections/his-hers)
-  Updated: 2025-10-13T11:09:30Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 18
 - [Back to School](https://www.moonglow.com/collections/back-to-school): Give them the best gift under the moon to celebrate another year of school! Whether counting down the days to graduation, beginning college, or their first day as a teacher – honor their BIG Moments!
-  Updated: 2025-10-13T11:09:31Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 66
 - [Virgo](https://www.moonglow.com/collections/virgo-1)
   Updated: 2025-10-06T21:14:30Z
@@ -6783,37 +6783,37 @@
   Updated: 2025-10-12T11:04:16Z
   Total Products: 3
 - [Black Matte and Vintage](https://www.moonglow.com/collections/black-matte-and-vintage)
-  Updated: 2025-10-13T11:09:30Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 18
 - [SOLAR](https://www.moonglow.com/collections/solar)
   Updated: 2025-10-06T21:14:30Z
   Total Products: 15
 - [Gifts Under $40](https://www.moonglow.com/collections/under-40)
-  Updated: 2025-10-13T23:37:34Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 227
 - [thanks](https://www.moonglow.com/collections/thanks)
   Updated: 2025-10-12T11:04:16Z
   Total Products: 4
 - [Thanksgiving Promo Deals](https://www.moonglow.com/collections/thanksgiving-promo-deals)
-  Updated: 2025-10-13T11:09:31Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 34
 - [The Chloé Caroline Edit](https://www.moonglow.com/collections/the-chloe-caroline-edit)
-  Updated: 2025-10-13T11:09:30Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 11
 - [Soulmate](https://www.moonglow.com/collections/soulmate)
-  Updated: 2025-10-13T11:09:30Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 31
 - [Product Feed Collection](https://www.moonglow.com/collections/product-feed-collection): Our collection for our Moonglow product feeds.
-  Updated: 2025-10-13T11:09:31Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 95
 - [Shop All](https://www.moonglow.com/collections/gemstone-jewelry)
-  Updated: 2025-10-13T11:09:31Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 5
 - [Wedding](https://www.moonglow.com/collections/wedding)
-  Updated: 2025-10-13T11:09:31Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 89
 - [Secret](https://www.moonglow.com/collections/secret)
-  Updated: 2025-10-13T11:09:31Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 15
 - [Solid Gold + Sterling Silver](https://www.moonglow.com/collections/solid-gold-sterling-silver)
   Updated: 2025-10-12T11:04:16Z
@@ -6828,13 +6828,13 @@
   Updated: 2025-10-06T21:14:31Z
   Total Products: 4
 - [Accessories](https://www.moonglow.com/collections/accessories)
-  Updated: 2025-10-13T11:09:30Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 8
 - [Gemstones](https://www.moonglow.com/collections/summer-gemstones)
-  Updated: 2025-10-13T11:09:31Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 12
 - [Products](https://www.moonglow.com/collections/all)
-  Updated: 2025-10-13T23:37:34Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 480
 - [The Blue Moon](https://www.moonglow.com/collections/the-blue-moon)
   Updated: 2025-09-25T11:56:50Z
@@ -6846,7 +6846,7 @@
   Updated: 2025-09-25T11:56:51Z
   Total Products: 3
 - [Fall 2023](https://www.moonglow.com/collections/fall-2023)
-  Updated: 2025-10-13T16:56:58Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 12
 - [*Old - Bundles](https://www.moonglow.com/collections/couples)
   Updated: 2025-10-09T11:05:27Z
@@ -6858,52 +6858,52 @@
   Updated: 2025-09-25T11:56:21Z
   Total Products: 1
 - [Christmas Best Sellers](https://www.moonglow.com/collections/christmas-best-sellers)
-  Updated: 2025-10-13T11:09:30Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 35
 - [Cyber Monday Sale](https://www.moonglow.com/collections/bf-2023)
-  Updated: 2025-10-13T23:37:34Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 455
 - [SALE 40% OFF AND ABOVE](https://www.moonglow.com/collections/40off)
-  Updated: 2025-10-13T11:09:30Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 38
 - [OVER40](https://www.moonglow.com/collections/over40)
   Updated: 2025-09-25T11:56:51Z
   Total Products: 1
 - [Trending](https://www.moonglow.com/collections/trending)
-  Updated: 2025-10-13T11:09:31Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 64
 - [*Old - Holiday Best Sellers](https://www.moonglow.com/collections/holiday-best-sellers)
-  Updated: 2025-10-13T11:09:30Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 8
 - [20-30% OFF](https://www.moonglow.com/collections/20-30-off)
   Updated: 2025-10-13T11:09:30Z
   Total Products: 42
 - [40 & 50 % OFF](https://www.moonglow.com/collections/40-50-off)
-  Updated: 2025-10-13T11:09:30Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 15
 - [60% OFF](https://www.moonglow.com/collections/60-off)
   Updated: 2025-10-13T11:09:30Z
   Total Products: 14
 - [Black Matte](https://www.moonglow.com/collections/black-matte)
-  Updated: 2025-10-13T11:09:30Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 19
 - [One sku](https://www.moonglow.com/collections/one-sku)
-  Updated: 2025-10-13T11:09:30Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 6
 - [This Month's Best Sellers](https://www.moonglow.com/collections/valentine2024)
-  Updated: 2025-10-13T11:09:30Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 69
 - [Any 2 items for $80](https://www.moonglow.com/collections/any-2-items-for-80)
   Updated: 2025-10-13T11:09:30Z
   Total Products: 14
 - [BOGO](https://www.moonglow.com/collections/bogo)
-  Updated: 2025-10-13T11:09:30Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 17
 - [San Francisco 49ers](https://www.moonglow.com/collections/san-francisco-49ers)
-  Updated: 2025-10-13T11:09:30Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 19
 - [Kansas City Chiefs](https://www.moonglow.com/collections/kansas-city-cheifs)
-  Updated: 2025-10-13T11:09:30Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 16
 - [Cosmic Intentions Collection](https://www.moonglow.com/collections/cosmos-intentions-collection)
   Updated: 2025-10-11T11:04:30Z
@@ -6915,7 +6915,7 @@
   Updated: 2025-09-25T11:56:52Z
   Total Products: 1
 - [Spring 2024 Sale Collection](https://www.moonglow.com/collections/buy-one-get-one-half-off-1)
-  Updated: 2025-10-13T11:09:30Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 13
 - [Mother's Day Bundles 2024](https://www.moonglow.com/collections/mothers-day-bundles-2024)
   Updated: 2025-10-13T11:09:30Z
@@ -6924,7 +6924,7 @@
   Updated: 2025-10-13T11:09:30Z
   Total Products: 29
 - [*Old - Pets](https://www.moonglow.com/collections/pets-1)
-  Updated: 2025-10-12T11:04:16Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 6
 - [Purple and Blue Moon Collection](https://www.moonglow.com/collections/purple-and-blue-moon-collection)
   Updated: 2025-10-06T21:14:31Z
@@ -6933,55 +6933,55 @@
   Updated: 2025-10-13T11:09:30Z
   Total Products: 6
 - [Summer Collection](https://www.moonglow.com/collections/summer-collection)
-  Updated: 2025-10-13T11:09:31Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 60
 - [Prime Deals](https://www.moonglow.com/collections/prime-deals-1)
-  Updated: 2025-10-13T11:09:30Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 43
 - [Xmas in July](https://www.moonglow.com/collections/xmas-in-july)
-  Updated: 2025-10-13T23:37:34Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 26
 - [Labor Day Sale old](https://www.moonglow.com/collections/labor-day-sale-1)
-  Updated: 2025-10-13T23:37:34Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 64
 - [Terra Luna Collection](https://www.moonglow.com/collections/terra-luna-collection)
-  Updated: 2025-10-13T11:09:30Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 16
 - [Friendship Jewelry](https://www.moonglow.com/collections/friendship-jewelry)
   Updated: 2025-10-09T01:48:14Z
   Total Products: 7
 - [Harvest Moon Deals](https://www.moonglow.com/collections/harvest-moon-deals)
-  Updated: 2025-10-13T23:37:34Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 17
 - [Halloween Collection](https://www.moonglow.com/collections/halloween-collection)
-  Updated: 2025-10-13T23:37:34Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 20
 - [Breast Cancer Awareness](https://www.moonglow.com/collections/breast-cancer-awareness)
-  Updated: 2025-10-13T11:09:31Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 17
 - [Holiday Best Sellers](https://www.moonglow.com/collections/holiday-best-sellers-1)
-  Updated: 2025-10-13T23:37:34Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 41
 - [Holiday Gift Sets](https://www.moonglow.com/collections/holiday-gift-sets)
   Updated: 2025-10-13T11:09:30Z
   Total Products: 33
 - [Stocking Stuffers](https://www.moonglow.com/collections/stocking-stuffers)
-  Updated: 2025-10-13T23:37:34Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 18
 - [Gifts for Her](https://www.moonglow.com/collections/gifts-for-her)
-  Updated: 2025-10-13T11:09:31Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 31
 - [Gifts for Him](https://www.moonglow.com/collections/gifts-for-him)
-  Updated: 2025-10-13T11:09:30Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 22
 - [Best Seller Couple Sets](https://www.moonglow.com/collections/best-seller-couple-sets)
   Updated: 2025-10-09T11:05:27Z
   Total Products: 20
 - [Cyber Monday Deals](https://www.moonglow.com/collections/cyber-monday-deals-1)
-  Updated: 2025-10-13T23:37:34Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 50
 - [Last Chance Deals](https://www.moonglow.com/collections/last-chance-deals)
-  Updated: 2025-10-13T23:37:34Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 28
 - [moonstone-jewelry](https://www.moonglow.com/collections/moonstone-jewelry)
   Updated: 2025-10-13T11:09:31Z
@@ -6990,34 +6990,34 @@
   Updated: 2025-10-06T21:14:32Z
   Total Products: 0
 - [opal-jewelry](https://www.moonglow.com/collections/opal-jewelry)
-  Updated: 2025-10-13T11:09:30Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 13
 - [black onyx jewelry](https://www.moonglow.com/collections/black-onyx-jewelry)
-  Updated: 2025-10-13T11:09:30Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 12
 - [Rose Quartz Ring](https://www.moonglow.com/collections/rose-quartz-ring)
-  Updated: 2025-10-13T11:09:30Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 5
 - [Moonstone Rings](https://www.moonglow.com/collections/moonstone-rings)
-  Updated: 2025-10-13T11:09:30Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 12
 - [End of Year Sale](https://www.moonglow.com/collections/end-of-year-sale)
-  Updated: 2025-10-13T23:37:34Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 48
 - [Create Your Own](https://www.moonglow.com/collections/create-your-own)
   Updated: 2025-10-13T11:09:31Z
   Total Products: 18
 - [VALENTINE'S DAY COLLECTION](https://www.moonglow.com/collections/valentine25)
-  Updated: 2025-10-13T11:09:31Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 56
 - [Chains](https://www.moonglow.com/collections/chains-1)
-  Updated: 2025-10-13T11:09:30Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 5
 - [Lucky Glow Collection](https://www.moonglow.com/collections/st-patricks-day-2025)
-  Updated: 2025-10-13T11:09:30Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 24
 - [Mother's Day UK](https://www.moonglow.com/collections/mothers-day-uk)
-  Updated: 2025-10-13T23:37:34Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 41
 - [Mercury](https://www.moonglow.com/collections/mercury)
   Updated: 2025-10-06T21:14:32Z
@@ -7029,85 +7029,85 @@
   Updated: 2025-10-13T11:09:31Z
   Total Products: 15
 - [Mother's Day Sale 2025](https://www.moonglow.com/collections/mothers-day-sale-2025)
-  Updated: 2025-10-13T23:37:34Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 38
 - [Mother's Day Gift Guide](https://www.moonglow.com/collections/forever-connected)
-  Updated: 2025-10-13T11:09:31Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 40
 - [Shine Within](https://www.moonglow.com/collections/shine-within)
-  Updated: 2025-10-13T11:09:31Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 42
 - [Graduation](https://www.moonglow.com/collections/graduation-1)
   Updated: 2025-10-06T21:14:32Z
   Total Products: 1
 - [Graduation Gifts Collection](https://www.moonglow.com/collections/graduation-gifts-collection)
-  Updated: 2025-10-13T11:09:30Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 25
 - [Wedding Gift Bundles](https://www.moonglow.com/collections/wedding-gifts-collection)
   Updated: 2025-10-09T11:05:27Z
   Total Products: 11
 - [Wedding Gift Collection](https://www.moonglow.com/collections/wedding-gift-collection)
-  Updated: 2025-10-13T11:09:30Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 36
 - [Memorial Day](https://www.moonglow.com/collections/memorial-day)
-  Updated: 2025-10-13T23:37:34Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 46
 - [Memorial Day 5/23 - 5/25](https://www.moonglow.com/collections/memorial-day-5-23-5-25)
   Updated: 2025-10-13T11:09:30Z
   Total Products: 10
 - [Father's Day 2025](https://www.moonglow.com/collections/fathers-day-collection)
-  Updated: 2025-10-13T11:09:30Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 34
 - [Stainless Steel](https://www.moonglow.com/collections/stainless-steel)
-  Updated: 2025-10-13T11:09:30Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 21
 - [4th of July SALE](https://www.moonglow.com/collections/4th-of-july-sale)
-  Updated: 2025-10-13T11:09:31Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 25
 - [Moonglow Prime Deals](https://www.moonglow.com/collections/moonglow-prime-deals)
-  Updated: 2025-10-13T11:09:31Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 38
 - [free travel case collection](https://www.moonglow.com/collections/free-travel-case-collection)
-  Updated: 2025-10-13T11:09:31Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 118
 - [In Memory](https://www.moonglow.com/collections/in-memory)
-  Updated: 2025-10-13T11:09:31Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 26
 - [Active Products Inteligent](https://www.moonglow.com/collections/active-products-inteligent)
-  Updated: 2025-10-13T23:37:34Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 480
 - [back-to-school-favorite](https://www.moonglow.com/collections/back-to-school-favorite)
-  Updated: 2025-10-13T11:09:30Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 7
 - [NEW MOON SALE](https://www.moonglow.com/collections/new-moon-sale)
-  Updated: 2025-10-13T11:09:30Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 12
 - [Gifts](https://www.moonglow.com/collections/gifts)
-  Updated: 2025-10-13T11:09:31Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 35
 - [Labor Day Sale](https://www.moonglow.com/collections/labor-day-sale)
-  Updated: 2025-10-13T23:37:34Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 29
 - [Harvest Glow Collection](https://www.moonglow.com/collections/harvest-glow-collection-page)
-  Updated: 2025-10-13T16:56:58Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 14
 - [Halloween Collection 2025](https://www.moonglow.com/collections/halloween-collection2025)
-  Updated: 2025-10-13T11:09:30Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 14
 - [ALL ACTIVE PRODCTS - NOT PINK](https://www.moonglow.com/collections/all-active-prodcts-not-pink)
-  Updated: 2025-10-13T23:37:34Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 459
 - [Glow In The Dark Collection](https://www.moonglow.com/collections/glow-in-the-dark-collection)
-  Updated: 2025-10-13T11:09:31Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 40
 - [Pink Moon Collection 2025](https://www.moonglow.com/collections/pink-moon-collection-2025)
-  Updated: 2025-10-13T11:09:31Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 24
 - [Engravable or gift products - for sitemap don't delete](https://www.moonglow.com/collections/no-engravable-or-gift-products-for-sitemap)
-  Updated: 2025-10-13T11:09:30Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 14
 - [+$99 USD products - not pink](https://www.moonglow.com/collections/99-usd-products-not-pink)
-  Updated: 2025-10-13T11:09:31Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 61
 - [Lunar Phases Collection](https://www.moonglow.com/collections/lunar-phases-collection)
   Updated: 2025-10-03T21:30:22Z
@@ -7116,7 +7116,7 @@
   Updated: 2025-10-06T23:33:18Z
   Total Products: 0
 - [New Arrivals](https://www.moonglow.com/collections/new-arrivals): Hot off the press, fresh out of the oven––you get it. Here are all things brand spankin’ new at Moonglow. Be one of the first to grab our newest products. Who knows, they may not be here for long…
-  Updated: 2025-10-13T11:09:31Z
+  Updated: 2025-10-14T11:05:15Z
   Total Products: 77
 
 ## Blogs
