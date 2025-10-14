@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2025-09-03T06:10:26Z
 - Contact Email: help@playspuls.com
-- Updated At: 2025-10-14T03:11:50.548Z
+- Updated At: 2025-10-14T04:00:26.601Z
 
 ## Products
 
@@ -18,7 +18,7 @@
   Image: https://cdn.shopify.com/s/files/1/0715/4676/5479/files/1.jpg?v=1757901036
   Price: $39.00 USD
 - [Labubu 3.0  Blind Box Whole Set 6 Boxes](https://www.playspuls.com/products/labubu-3-0-blind-boxset-6-boxes): The Big Into Energy Series features characters full of dynamic energy and expression. Each figure is carefully designed with bold colors and vibrant poses. Figures measure 6.69 inches tall. The PVC material provides durability for long-lasting display. Every figure features unique facial expressions and energetic designs. Bright colors make each piece stand out in any collection. Box dimensions are approximately 11.8 x 5.9 x 6.1 inches. Material: PVC / Polyester Stuffing: Polyester / Iron Wire Include: 6 boxes
-  Updated: 2025-10-11T23:49:04Z
+  Updated: 2025-10-14T03:37:25Z
   Vendor: PlaysPuls
   Product Type: Toy doll
   Availability: Available
