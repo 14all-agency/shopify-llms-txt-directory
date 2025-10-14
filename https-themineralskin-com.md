@@ -9,7 +9,7 @@
 - Created At: 2025-08-25T14:01:44Z
 - Contact Email: support@themineralskin.com
 - Address: 17 Heath Drive, London NW3 7SL, United Kingdom
-- Updated At: 2025-10-13T15:17:09.546Z
+- Updated At: 2025-10-14T08:00:28.061Z
 
 ## Products
 
@@ -27,8 +27,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0918/9451/3992/files/botanic-blend-moisturizer-3172770.png?v=1757489620
   Price: $37.00 USD
-- [Hair and Body Wash - Clean Harder, Feel Stronger with Botanic Formula](https://themineralskin.com/products/hair-body-botanic-wash): Meta Description: Experience the ultimate refreshment with our hair and body wash. Our botanic formula cleans harder and leaves you feeling stronger and revitalized. Perfect for daily use!
-  Updated: 2025-10-11T11:20:35Z
+- [Hair and Body Wash - Clean Harder, Feel Stronger with Botanic Formula](https://themineralskin.com/products/hair-body-botanic-wash): Experience the ultimate refreshment with our hair and body wash. Our botanic formula cleans harder and leaves you feeling stronger and revitalized. Perfect for daily use!
+  Updated: 2025-10-14T06:52:20Z
   Vendor: The Mineral
   Product Type: 
   Availability: Available
@@ -122,6 +122,9 @@
     Author: Michele Galli
   - [Botanic Age Regression Cream Review – Unlocking Youthful Skin Naturally](https://themineralskin.com/blogs/news/botanic-age-regression-cream-review-unlocking-youthful-skin-naturally)
     Updated: 2025-10-13T12:05:56Z
+    Author: Michele Galli
+  - [Caffeine Blend Infuser: The Secret to Energized, Radiant, and Youthful Skin](https://themineralskin.com/blogs/news/caffeine-blend-infuser-the-secret-to-energized-radiant-and-youthful-skin)
+    Updated: 2025-10-13T15:21:13Z
     Author: Michele Galli
 
 ## Store Pages
