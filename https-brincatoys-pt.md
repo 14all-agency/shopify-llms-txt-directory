@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-10-14T16:01:11.479Z
+- Updated At: 2025-10-14T20:01:13.892Z
 
 ## Products
 
@@ -12630,13 +12630,6 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/ladybug-cat-noir-marinette-865015023-ladybug-1178696970.jpg?v=1752902778
   Price: 39,99 € EUR
-- [Baralho de cartas -  Kiki's Delivery Service](https://brincatoys.pt/products/baralho-de-cartas-kikis-delivery-service): Os fãs do filme do Studio Ghibli "Kiki's Delivery Service" vão adorar este conjunto exclusivo de baralho de cartas com cenas do filme e todos os seus personagens favoritos! Este baralho de cartas de alta qualidade da ensky apresenta uma linda arte colorida em cada face da carta e uma imagem de Jiji no verso. É uma maneira divertida de trazer um pou
-  Updated: 2025-10-13T06:22:51Z
-  Vendor: Seleção Brincatoys
-  Product Type: + 3 anos
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/baralho-de-cartas-kiki-s-delivery-service-861819623-brincatoys-1178696972.jpg?v=1752903003
-  Price: 20,99 € EUR
 - [Lego Star Wars - Caça de Piratas Espaciais](https://brincatoys.pt/products/lego-star-wars-caca-de-piratas-espaciais): Construa o primeiro modelo de peças LEGO® do Caça de Piratas Espaciais que estreou na 3.ª temporada de Star Wars: The Mandalorian! Recrie os detalhes autênticos deste fantástico caça estelar. Coloque o Piloto do Caça Estelar no cockpit e o detonador térmico no compartimento traseiro e depois entre em ação. Acione os disparador de espigas contra os
   Updated: 2025-10-13T06:22:51Z
   Vendor: LEGO
@@ -14249,7 +14242,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/figura-pokemon-tyranitar-colecionavel-select-23241323-0191726402688-pokemon-1178697956.jpg?v=1752917166
   Price: 39,50 € EUR
 - [Figura Pokémon Cubone - Coleção Select](https://brincatoys.pt/products/figura-pokemon-cubone): Adquira a figura Pokémon Cubone em vinil, perfeita para colecionadores e fãs. Qualidade superior, design autêntico Compre já a sua!
-  Updated: 2025-10-13T06:21:07Z
+  Updated: 2025-10-14T16:05:00Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
@@ -17310,7 +17303,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-city-60426-todo-o-terreno-explorador-da-selva-666042624-5702017586014-lego-1178700449.jpg?v=1752786852
   Price: 32,90 € EUR
 - [Lego City 60435 - Camião-Reboque e Reparação de Carro](https://brincatoys.pt/products/lego-city-camiao-reboque-e-reparacao-de-carro-desportivo): Descubra o Lego City 60435 - Camião-Reboque e Reparação de Carro Desportivo. Um conjunto que combina diversão e aprendizagem numa aventura urbana.
-  Updated: 2025-10-13T06:17:41Z
+  Updated: 2025-10-14T16:34:21Z
   Vendor: LEGO
   Product Type: + 4 anos
   Availability: Available
@@ -17870,7 +17863,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-de-brincar-lamborghini-huracan-performante-682109225-8719247525376-bburago-1178700866.jpg?v=1752962283
   Price: 23,99 € EUR
 - [Lamborghini Sian FKP 37 vermelho e preto: Experiência Interativa](https://brincatoys.pt/products/lamborghini-sian-fkp-37-vermelho-preto): Para os apaixonados por carros desportivos, o Lamborghini Sian FKP 37 em vermelho e preto é o presente perfeito. Réplica em escala 1:24.
-  Updated: 2025-10-13T06:16:58Z
+  Updated: 2025-10-14T18:27:43Z
   Vendor: Bburago
   Product Type: + 3 anos
   Availability: Available
@@ -19711,7 +19704,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/homem-aranha-metamorfose-liquida-acao-e-diversao-85072825-5010996295392-marvel-1178692630.jpg?v=1752825138
   Price: 34,90 € EUR
 - [Nenuco rosa com 3 funções – Boneca Interativa](https://brincatoys.pt/products/nenuco-rosa-com-3-funcoes): Nenuco rosa com 3 funções, um brinquedo interactivo perfeito para estimular a empatia e cuidado nas crianças. Ideal para desenvolvimento socioeducativo.
-  Updated: 2025-10-13T06:14:50Z
+  Updated: 2025-10-14T17:46:16Z
   Vendor: Nenuco
   Product Type: + 12 meses
   Availability: Available
@@ -20427,7 +20420,7 @@ Figura em borracha termoplástica do filme Branca de neve e os sete anões.Figur
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/autocolantes-reutilizaveis-bombeiros-921937325-8410782193739-brincatoys-1182965216.jpg?v=1756214283
   Price: 9,80 € EUR
 - [Autocolantes reutilizáveis - Dinossauros](https://brincatoys.pt/products/autocolantes-reutilizaveis-dinossauros): Transforma quartos, janelas ou mesas numa numa viagem ao período jurássico que cabe na palma da mão.com o set de Autocolantes Reutilizáveis para crianças – Dinossauros. Em primeiro lugar, este kit inclui um painel de 40×30 cm com uma ilustração vibrante de paisagem pré-histórica — pântanos, florestas tropicais e vulcões em erupção — que serve de cenário para as tuas criações. Além disso, quatro folhas com mais de 50 autocolantes reutilizáveis trazem ao teu alcance espécies icónicas como T-Rex, Velociraptor, Triceratops, Pterodáctilo e muito mais, bem como folhas, ovos e pequenos insetos fósseis. Por outro lado, graças ao adesivo suave, as crianças podem colar, descolar e reposicionar as figuras inúmeras vezes sem danificar superfícies, tornando cada brincadeira sempre diferente. Do mesmo modo, o material resistente à água facilita a limpeza: basta passar um pano húmido para remover resíduos de pó e permitir novas composições. Por isso, o kit adapta-se a várias superfícies lisas – vidro, metal, plástico ou paredes pintadas – sem deixar vestígios. Ademais, o design colorido e divertido estimula a coordenação motora fina e e o sentido de sequência narrativa. Consequentemente, esta atividade desenvolve a coordenação motora fina e estimula a criatividade, ao mesmo tempo que apresenta conceitos básicos de paleontologia. Ademais, ao identificar cada dinossauro, a criança aprende a relacionar formas, cores e nomes científicos num contexto lúdico. Ganha-se vocabulário especializado e reforça-se o interesse pela ciência de forma divertida. Do mesmo modo, a aplicação é simples: basta destacar a figura, colar no local pretendido e ajustar a composição conforme a imaginação de cada criança. Desta forma, os Autocolantes Reutilizáveis para crianças – Dinossauros revelam-se perfeitos para passatempo educativo. Por outro lado, a embalagem compacta mantém todos os elementos organizados e fáceis de transportar, ideal para levar em viagens ou atividades em grupo. Por fim, o Autocolantes Reutilizáveis – Dinossauros transforma qualquer espaço num verdadeiro museu de história natural, onde cada história pré-histórica ganha vida com um simples toque. Em suma... Cenário de 40×30 cm com cenário jurássico detalhado +50 autocolantes reutilizáveis: dinossauros, plantas, ovos e insetos Adesivo suave, sem PVC, não danifica superfícies Fácil limpeza com pano húmido e reposicionamento ilimitado Estimula coordenação motora fina, criatividade e vocabulário Recomendado para maiores de 3 anos, certificado CE Dimensão: 22 x 23,40 x 1 cm.Idade recomendada: + de 3 anos.
-  Updated: 2025-10-13T06:14:08Z
+  Updated: 2025-10-14T17:04:01Z
   Vendor: Seleção Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -21156,6 +21149,41 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/monster-high-scary-sweet-birthday-cleo-de-nile-festa-772599125-0194735259915-monster-high-1197016488.jpg?v=1760053685
   Price: 39,99 € EUR
+- [Monster High Nefera de Nile: Estilo Egípcio Único](https://brincatoys.pt/products/monster-high-nefera-de-nile): Descobre a Monster High Nefera de Nile, a boneca perfeita para brincadeiras criativas. Com seu visual de realeza moderna, surpreenda-se!
+  Updated: 2025-10-14T16:24:49Z
+  Vendor: Monster High
+  Product Type: + 4 anos
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/monster-high-nefera-de-nile-estilo-egipcio-unico-772887425-0194735288748-monster-high-1197393428.jpg?v=1760370605
+  Price: 39,99 € EUR
+- [Monster High - Draculaura com Scooter e Count Fabulous](https://brincatoys.pt/products/monster-high-draculaura-com-scooter): Prepare-se para a diversão com a Monster High - Draculaura com Scooter! Aventure-se com estilo e criatividade ao lado do seu morcego favorito.
+  Updated: 2025-10-14T16:25:56Z
+  Vendor: Monster High
+  Product Type: + 4 anos
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/monster-high-draculaura-com-scooter-e-count-fabulous-772887625-0194735288762-monster-high-1197446096.jpg?v=1760392317
+  Price: 39,99 € EUR
+- [Cartas Cenas de Filme – Kiki’s Delivery Service](https://brincatoys.pt/products/cartas-cenas-de-filme-kiki-s-delivery-service): Desfrute das Cartas Cenas de Filme - Kiki's Delivery Service e mergulhe na magia do Studio Ghibli. Adquira já o seu baralho e jogue com estilo!
+  Updated: 2025-10-14T16:29:54Z
+  Vendor: Brincatoys
+  Product Type: + 14 anos
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/cartas-cenas-de-filme-kiki-s-delivery-service-868027125-4970381802714-brincatoys-1197446092.jpg?v=1760392206
+  Price: 19,99 € EUR
+- [Cartas Cenas de Filme – Castle in the Sky para Jogar](https://brincatoys.pt/products/cartas-cenas-de-filme-castle-in-the-sky): Transforme suas partidas com as Cartas Cenas de Filme – Castle in the Sky, repletas de ilustrações icónicas do Studio Ghibli. Adquira já o seu baralho!
+  Updated: 2025-10-14T16:28:28Z
+  Vendor: Brincatoys
+  Product Type: + 14 anos
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/cartas-cenas-de-filme-castle-in-the-sky-para-jogar-868027225-4970381802721-brincatoys-1197454423.jpg?v=1760399529
+  Price: 19,99 € EUR
+- [Cartas Cenas de Filmes – Spirited Away para Fãs](https://brincatoys.pt/products/cartas-cenas-de-filmes-spirited-away): Descubra a magia das Cartas Cenas de Filmes – Spirited Away e reviva momentos icónicos com amigos em cada jogo. Adquira já o seu baralho!
+  Updated: 2025-10-14T16:27:23Z
+  Vendor: Brincatoys
+  Product Type: + 14 anos
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/cartas-cenas-de-filmes-spirited-away-para-fas-868027425-4970381802745-brincatoys-1197454419.jpg?v=1760399517
+  Price: 19,99 € EUR
 
 ## Collections
 
@@ -21178,7 +21206,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-05T15:27:18Z
   Total Products: 28
 - [Jogos educativos e de tabuleiro](https://brincatoys.pt/collections/jogos-educativos-e-de-tabuleiro)
-  Updated: 2025-10-13T20:15:33Z
+  Updated: 2025-10-14T16:29:54Z
   Total Products: 184
 - [Lego City](https://brincatoys.pt/collections/lego-city): Explora o mundo vibrante de LEGO® City onde há muito para fazer. Vai até à baixa da cidade, encena histórias emocionantes com os serviços de urgência e descobre as novas fronteiras, dos oceanos ao espaço. Constrói veículos fantásticos, viaja de comboio ou organiza incríveis espetáculos de acrobacias.
   Updated: 2025-10-06T16:42:49Z
@@ -21232,8 +21260,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-10T09:24:34Z
   Total Products: 11
 - [Trabalhos manuais](https://brincatoys.pt/collections/trabalhos-manuais)
-  Updated: 2025-10-13T19:23:14Z
-  Total Products: 103
+  Updated: 2025-10-14T18:18:48Z
+  Total Products: 107
 - [Peluches](https://brincatoys.pt/collections/peluches)
   Updated: 2025-10-06T16:33:09Z
   Total Products: 106
@@ -21250,7 +21278,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-06T18:30:00Z
   Total Products: 98
 - [Bonecas](https://brincatoys.pt/collections/bonecas)
-  Updated: 2025-10-13T19:32:57Z
+  Updated: 2025-10-14T16:25:24Z
   Total Products: 240
 - [Bonecas clássicas](https://brincatoys.pt/collections/bonecas-classicas)
   Updated: 2025-10-06T19:06:40Z
@@ -21310,10 +21338,10 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-13T19:30:21Z
   Total Products: 324
 - [2 - 3 anos](https://brincatoys.pt/collections/2-3-anos)
-  Updated: 2025-10-14T11:20:30Z
-  Total Products: 1562
+  Updated: 2025-10-14T18:18:54Z
+  Total Products: 1566
 - [4 - 5 anos](https://brincatoys.pt/collections/4-5-anos)
-  Updated: 2025-10-14T11:20:30Z
+  Updated: 2025-10-14T16:25:24Z
   Total Products: 699
 - [8 - 10 anos](https://brincatoys.pt/collections/8-10-anos)
   Updated: 2025-10-13T22:01:58Z
@@ -21328,29 +21356,29 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-13T14:58:51Z
   Total Products: 125
 - [Até €15](https://brincatoys.pt/collections/ate-15)
-  Updated: 2025-10-14T11:20:30Z
-  Total Products: 1299
+  Updated: 2025-10-14T19:40:06Z
+  Total Products: 1302
 - [Até €25](https://brincatoys.pt/collections/ate-25)
-  Updated: 2025-10-14T11:20:30Z
-  Total Products: 2406
+  Updated: 2025-10-14T19:40:06Z
+  Total Products: 2409
 - [Até €35](https://brincatoys.pt/collections/ate-35)
-  Updated: 2025-10-14T11:20:30Z
-  Total Products: 2869
+  Updated: 2025-10-14T19:40:06Z
+  Total Products: 2872
 - [Até €50](https://brincatoys.pt/collections/ate-50)
-  Updated: 2025-10-14T11:20:30Z
-  Total Products: 3252
+  Updated: 2025-10-14T19:40:06Z
+  Total Products: 3255
 - [Até €60](https://brincatoys.pt/collections/ate-60)
-  Updated: 2025-10-14T11:20:30Z
-  Total Products: 3388
+  Updated: 2025-10-14T19:40:06Z
+  Total Products: 3391
 - [Até €80](https://brincatoys.pt/collections/ate-80)
-  Updated: 2025-10-14T11:20:30Z
-  Total Products: 3467
+  Updated: 2025-10-14T19:40:06Z
+  Total Products: 3470
 - [Até €100](https://brincatoys.pt/collections/ate-100)
-  Updated: 2025-10-14T11:20:30Z
-  Total Products: 3516
+  Updated: 2025-10-14T19:40:06Z
+  Total Products: 3519
 - [Novidades](https://brincatoys.pt/collections/novidades)
-  Updated: 2025-10-14T11:20:30Z
-  Total Products: 391
+  Updated: 2025-10-14T18:18:48Z
+  Total Products: 394
 - [Outlet](https://brincatoys.pt/collections/outlet): Saldos válidos de 04/07/2025 a 26/12/2025, limitado ao stock existente e acumulável com outros descontos ou promoções.
   Updated: 2025-09-29T15:16:28Z
   Total Products: 50
@@ -21475,7 +21503,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-06T19:02:19Z
   Total Products: 4
 - [Monster High](https://brincatoys.pt/collections/monster-high)
-  Updated: 2025-10-13T16:22:16Z
+  Updated: 2025-10-14T16:25:24Z
   Total Products: 42
 - [Naruto](https://brincatoys.pt/collections/naruto)
   Updated: 2025-10-05T19:22:59Z
@@ -21538,22 +21566,22 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-06T17:09:21Z
   Total Products: 9
 - [Catálogo](https://brincatoys.pt/collections/all)
-  Updated: 2025-10-14T11:20:30Z
-  Total Products: 3549
+  Updated: 2025-10-14T19:40:06Z
+  Total Products: 3552
 - [6 - 7 anos](https://brincatoys.pt/collections/6-7-anos)
   Updated: 2025-10-13T19:28:10Z
   Total Products: 285
 - [11 - 14 anos](https://brincatoys.pt/collections/11-14-anos)
-  Updated: 2025-10-13T20:16:02Z
+  Updated: 2025-10-14T16:29:54Z
   Total Products: 187
 - [+ 2 anos](https://brincatoys.pt/collections/de-2-anos)
   Updated: 2025-10-11T16:10:10Z
   Total Products: 117
 - [+ 3 anos](https://brincatoys.pt/collections/de-3-anos)
-  Updated: 2025-10-14T11:20:30Z
-  Total Products: 1213
+  Updated: 2025-10-14T19:40:06Z
+  Total Products: 1217
 - [+ 4 anos](https://brincatoys.pt/collections/de-4-anos)
-  Updated: 2025-10-14T11:20:30Z
+  Updated: 2025-10-14T16:25:24Z
   Total Products: 494
 - [+ 5 anos](https://brincatoys.pt/collections/de-5-anos)
   Updated: 2025-10-13T14:53:06Z
@@ -21571,14 +21599,14 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-05T15:16:44Z
   Total Products: 91
 - [+ 14 anos](https://brincatoys.pt/collections/14-anos)
-  Updated: 2025-10-13T20:16:02Z
+  Updated: 2025-10-14T16:29:54Z
   Total Products: 86
 - [Os mais procurados](https://brincatoys.pt/collections/os-mais-populares)
-  Updated: 2025-10-14T11:20:30Z
-  Total Products: 3550
+  Updated: 2025-10-14T19:40:06Z
+  Total Products: 3553
 - [Recém-chegados](https://brincatoys.pt/collections/recem-chegados)
-  Updated: 2025-10-14T11:20:30Z
-  Total Products: 3550
+  Updated: 2025-10-14T19:40:06Z
+  Total Products: 3553
 - [Produtos em destaque](https://brincatoys.pt/collections/produtos-em-destaque)
   Updated: 2025-10-13T12:31:16Z
   Total Products: 22
@@ -21589,8 +21617,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-12T11:21:00Z
   Total Products: 6
 - [OrderlyEmails - Recommended Products](https://brincatoys.pt/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-10-14T12:20:41Z
-  Total Products: 3075
+  Updated: 2025-10-14T19:40:06Z
+  Total Products: 3078
 - [Girafa Sofia](https://brincatoys.pt/collections/girafa-sofia)
   Updated: 2025-10-13T18:51:31Z
   Total Products: 19
@@ -21598,10 +21626,10 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-14T11:20:30Z
   Total Products: 126
 - [Marketplace](https://brincatoys.pt/collections/marketplace)
-  Updated: 2025-10-14T12:20:41Z
-  Total Products: 3075
+  Updated: 2025-10-14T19:40:06Z
+  Total Products: 3078
 - [EzConnector](https://brincatoys.pt/collections/ezconnector)
-  Updated: 2025-10-13T22:08:57Z
+  Updated: 2025-10-14T18:18:48Z
   Total Products: 924
 
 ## Blogs
