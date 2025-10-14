@@ -6,33 +6,33 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-10T04:36:55Z
 - Contact Email: info@bioblends.co.nz
-- Updated At: 2025-10-14T12:00:31.596Z
+- Updated At: 2025-10-14T20:00:31.832Z
 
 ## Products
 
 - [Liver Love](https://www.bioblends.com/products/liver-love): Your liver plays a crucial role in your energy, the detoxification and elimination of problematic substances (‘toxins’), hormone balance and clear skin — fundamentally shaping how you look and feel each day. Nourish and protect this vital organ with Liver Love, a potent blend designed for optimal liver health and detoxification. “Liver loaders” enter the body via what we eat, drink and absorb through our skin – helping them leave the body efficiently can make a significant difference to how we feel each day.
-  Updated: 2025-10-14T11:28:01Z
+  Updated: 2025-10-14T19:40:30Z
   Vendor: Bio Blends
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0705/0684/0315/files/Liver1_12dd3dd9-6f54-456a-a8f7-d856585cbfd9.jpg?v=1746054864
   Price: $69.95 NZD
 - [Cycle Essentials](https://www.bioblends.com/products/cycle-essentials): Cycle Essentials harnesses a potent blend of foods and botanicals (medicinal herbs) to support healthy progesterone production, easing challenges that can come with monthly hormonal shifts as well as those that can arise during perimenopause, fostering a smoother transition across this time. It is renown for reducing cycle-related anxiousness and mood lows, as well as bloating and fluid retention. This formula supports robust adrenal function for a milder stress response and aids in decreasing sweet cravings.
-  Updated: 2025-10-14T07:53:01Z
+  Updated: 2025-10-14T18:49:16Z
   Vendor: Bio Blends
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0705/0684/0315/files/Cycle1_04b1dd23-e2d5-48e0-bee8-8091daae833b.jpg?v=1743047443
   Price: $69.95 NZD
 - [Organic Daily Greens & Reds](https://www.bioblends.com/products/organic-daily-greens-reds): Nourish, energise, oxygenate and eliminate. The daily blend that is a powerhouse of concentrated, food-grown goodness. This nutrient-rich powder combines whole blackcurrants, wheatgrass, barley grass, broccoli, dandelion and beetroot, delivering a burst of antioxidants, vitamins, minerals and unique phytochemicals that the whole family will benefit from.
-  Updated: 2025-10-14T10:33:06Z
+  Updated: 2025-10-14T18:48:31Z
   Vendor: Bio Blends
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0705/0684/0315/files/Greens1_fa3078aa-1028-4491-ad52-90069ae7f000.jpg?v=1743047448
   Price: $69.95 NZD
 - [Organic Zinc](https://www.bioblends.com/products/organic-zinc-extract): Imagine you have a bucket inside you that can hold zinc. You want it nice and full, so zinc can be supplied when and where it’s needed. If the bucket doesn’t have much zinc in it, the body will have to prioritise where zinc goes, meaning numerous processes that require it, won’t be able to function well or at all. Zinc is an essential mineral that plays a pivotal role in maintaining so many aspects of health, particularly robust immune function, digestion, hormone production, mood, wound healing and skin clarity, as well as hair and nail quality – it’s indispensable to a wide range of physiological functions. Despite its importance, zinc deficiency is surprisingly common, typically due to inadequate dietary intake from diminished top soil quality.
-  Updated: 2025-10-14T11:28:01Z
+  Updated: 2025-10-14T17:59:47Z
   Vendor: Bio Blends
   Product Type: 
   Availability: Available
@@ -46,14 +46,14 @@
   Image: https://cdn.shopify.com/s/files/1/0705/0684/0315/files/Calm1_7b0e0aae-4d7f-4a50-9d27-a4ece69051c6.jpg?v=1743047442
   Price: $69.95 NZD
 - [Meno Ease](https://www.bioblends.com/products/meno-magic): Meno Ease is for those seeking relief from hormone-related symptoms once menstruation has ceased or become highly irregular (such as three periods per year). Perimenopause has three stages, the last of which is the lead up to menopause, which is the 12 month anniversary of your last period. In this last stage of perimenopause as well as post-menopause, estrogen is low and ovulation has ceased, meaning progesterone is also low (only the adrenal production remains). Some women cruise through the menopausal transition while others suffer mildly or in a debilitating way.&nbsp;
-  Updated: 2025-10-13T22:35:03Z
+  Updated: 2025-10-14T19:40:30Z
   Vendor: Bio Blends
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0705/0684/0315/files/Meno1_3341f6ed-e46b-4e9b-bc47-24e71f86540e.jpg?v=1743047447
   Price: $69.95 NZD
 - [Skin Nutrition](https://www.bioblends.com/products/skin-nutrition-1): Our Skin Nutrition formula offers a unique, proprietary blend of meticulously sourced plants, herbs and foods, specifically designed to revitalise your skin from the inside out. The known and potent antioxidant action of the blend gives cells what they need to function and therefore look their best. Unlock your radiant skin with every capsule, feeding your cells the essential nutrition they crave.
-  Updated: 2025-10-14T08:11:06Z
+  Updated: 2025-10-14T19:40:30Z
   Vendor: Bio Blends
   Product Type: 
   Availability: Available
@@ -81,7 +81,7 @@
     Availability: Available
     Price: $200.00 NZD
 - [Glow and Nourish Bundle](https://www.bioblends.com/products/beauty-bundle): YOUR ULTIMATE INSIDE-OUT SKIN SOLUTION. Get our limited edition bundle and receive Dr Libby’s The Beauty Guide FREE (valued at $39.95)! This powerful trio is designed to nourish your skin from the inside out, targeting the key foundations of radiant skin: optimal nutrient levels, hormone balance and effective detoxification. What’s inside? Skin Nutrition – Antioxidant-rich botanicals, wholefood vitamin C, silica and zinc to support collagen production and protect against oxidative stress. Liver Love – A blend of research-backed herbs including St Mary’s thistle, turmeric and gentian to support detoxification, hormone metabolism and clearer skin. Organic Zinc – Essential for skin repair, inflammation control and maintaining a strong skin barrier. Save 10% when you buy this bundle + receive a FREE copy of Dr Libby’s The Beauty Guide, packed with expert insights and strategies for glowing skin. Gift with purchase available while stocks last. Offer valid from Tuesday 25 March to Monday 31 March, ending at midnight.
-  Updated: 2025-10-14T11:28:05Z
+  Updated: 2025-10-14T19:40:35Z
   Vendor: Bio Blends 
   Product Type: 
   Availability: Available
@@ -95,7 +95,7 @@
   Image: https://cdn.shopify.com/s/files/1/0705/0684/0315/files/BeautyGuide.jpg?v=1743047454
   Price: $39.95 NZD
 - [Iconic Iron™](https://www.bioblends.com/products/iconic-iron): Your liver plays a crucial role in your energy, the detoxification and elimination of problematic substances (‘toxins’), hormone balance and clear skin — fundamentally shaping how you look and feel each day. Nourish and protect this vital organ with Liver Love, a potent blend designed for optimal liver health and detoxification. “Liver loaders” enter the body via what we eat, drink and absorb through our skin – helping them leave the body efficiently can make a significant difference to how we feel each day.
-  Updated: 2025-10-14T11:28:04Z
+  Updated: 2025-10-14T19:40:30Z
   Vendor: Bio Blends
   Product Type: 
   Availability: Available
@@ -109,7 +109,7 @@
   Image: https://cdn.shopify.com/s/files/1/0705/0684/0315/files/FixIronFirst.jpg?v=1750636809
   Price: $39.95 NZD
 - [The Iron Reset](https://www.bioblends.com/products/iron-bundle): If you’ve been battling low energy, brain fog, heavy periods or relentless fatigue — and nothing seems to help — this bundle is for you. The Iron Reset bundle brings together Fix Iron First, Dr Libby’s illuminating new book, and Iconic Iron, our gentle, highly bioavailable ferritin-iron supplement. Together they offer a complete plan of attack: understand what’s really driving your symptoms, why your iron levels have been so hard to restore and how to support your body with a form of iron it can actually absorb and use — without the gut upset. Learn the why. Use what works. And finally start feeling like yourself again. Because when you give your body what it truly what it needs, everything begins to shift.
-  Updated: 2025-10-14T11:28:05Z
+  Updated: 2025-10-14T19:40:41Z
   Vendor: Bio Blends 
   Product Type: 
   Availability: Available
