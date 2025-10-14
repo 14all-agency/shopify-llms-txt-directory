@@ -10,7 +10,7 @@
 - Contact Email: info@theblissfuldog.com
 - Contact Phone: 855-364-2547
 - Address: 50688 235th ave NW
-- Updated At: 2025-10-14T12:00:41.514Z
+- Updated At: 2025-10-14T16:00:41.916Z
 
 ## Products
 
@@ -191,7 +191,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/NOSE-BUTTER-ALL-SIZES-MASTER.jpg?v=1738658906
     Price: $18.95 USD
 - [Affenpinscher Nose Butter Handcrafted Balm for Your Dog's Dry Nose](https://theblissfuldog.com/products/affenpinscher-nose-butter): Affenpinscher Nose Butter moisturizes your dog's dry nose with all-natural butter & oils. Use 2-3x a day for 2-3 days to get their nose in shape, then as needed
-  Updated: 2025-06-24T16:13:59Z
+  Updated: 2025-10-14T15:39:47Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
