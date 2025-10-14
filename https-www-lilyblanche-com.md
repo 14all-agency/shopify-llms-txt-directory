@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-10-13T20:00:47.981Z
+- Updated At: 2025-10-14T00:00:47.877Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -9788,7 +9788,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £110.00 GBP
 - [Gold Twist Chain | High Quality Necklace | Lily Blanche](https://www.lilyblanche.com/products/twist-chain-gold): This fancy, 18 carat gold vermeil twisted bar chain is a light-reflecting necklace. A perfect stand alone piece, the twist chain is similar to Gemma Owen's necklace on Love Island 2022. Free UK Shipping. Free jewellery care kit included worth £20. Order yours online today. Express delivery is available.
-  Updated: 2025-10-04T19:53:56Z
+  Updated: 2025-10-13T23:10:21Z
   Vendor: Lily Blanche
   Product Type: Choose Your Chain
   Availability: Available
@@ -16955,7 +16955,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £140.00 GBP
 - [Men's Heavy Sterling Silver Cross Necklace - Premium Craftsmanship](https://www.lilyblanche.com/products/mens-silver-cross-necklace): Men's heavy sterling silver cross necklace. Handcrafted heirloom quality, 44mm pendant with choice of chains. UK made. Free delivery, gift wrap & care kit. £145
-  Updated: 2025-10-13T18:37:26Z
+  Updated: 2025-10-13T22:38:56Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -16991,7 +16991,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £205.00 GBP
 - [St Christopher Necklace | Silver |Engravable | Lily Blanche](https://www.lilyblanche.com/products/st-christopher-necklace-silver-1): Give a meaningful gift with our timeless and stylish St Christopher Necklace in solid silver. Believed to keep travellers and loved ones safe as they embark on life's journey, the St Christopher medal is a meaningful gift. Personalise with free engraving. Order today and receive a free jewellery care kit!
-  Updated: 2025-10-11T17:26:05Z
+  Updated: 2025-10-13T23:09:30Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -22827,7 +22827,7 @@ From £190.
     Availability: Available
     Price: £240.00 GBP
 - [Men's Heavy Gold Cross Necklace – Strong, Stylish & Durable](https://www.lilyblanche.com/products/mens-heavy-gold-cross-necklace): Expertly crafted men's heavy cross necklace in 18-carat gold vermeil. High-quality, precision design, & lasting durability. A bold & timeless statement piece.
-  Updated: 2025-10-13T18:50:45Z
+  Updated: 2025-10-13T20:37:15Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
