@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-10-13T20:01:07.992Z
+- Updated At: 2025-10-14T00:01:05.092Z
 
 ## Products
 
@@ -15945,7 +15945,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/squishville-mini-squishmallows-esquadrao-safari-23050824-191726877028-squishville-1178699285.jpg?v=1752938524
   Price: 28,90 € EUR
 - [Figura de Batalha Pokémon - Tauros](https://brincatoys.pt/products/figura-de-batalha-pokemon-tauros): Descubra a Figura de Batalha Pokémon - Tauros! Ação interativa, durabilidade e detalhes fiéis ao personagem para fãs de todas as idades.
-  Updated: 2025-10-13T06:19:14Z
+  Updated: 2025-10-13T20:49:21Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
@@ -16785,14 +16785,14 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/design-shine-pulseiras-doce-para-criancas-392821024-8714274028210-brincatoys-1178700040.jpg?v=1752949924
   Price: 14,99 € EUR
 - [Design & Shine - Pulseiras brilhantes para Crianças](https://brincatoys.pt/products/design-shine-pulseiras-brilhantes): Impulsione a criatividade infantil com Design & Shine - Pulseiras brilhantes. O conjunto de pulseiras para crianças que incentiva habilidades manuais.
-  Updated: 2025-10-13T08:21:34Z
+  Updated: 2025-10-13T20:19:52Z
   Vendor: Seleção Brincatoys
   Product Type: + 6 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/design-shine-pulseiras-brilhantes-para-criancas-392823424-8714274028234-brincatoys-1178700044.jpg?v=1752949935
   Price: 14,99 € EUR
 - [conjunto Creativity - Pulseiras Letras para Crianças](https://brincatoys.pt/products/conjunto-creativity-pulseiras-letras): Impulsione a criatividade infantil com o conjunto Creativity - Pulseiras Letras. O conjunto de pulseiras para crianças que incentiva habilidades manuais.
-  Updated: 2025-10-13T08:21:10Z
+  Updated: 2025-10-13T20:18:56Z
   Vendor: Seleção Brincatoys
   Product Type: + 4 anos
   Availability: Available
@@ -18661,7 +18661,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/kit-pulseiras-da-amizade-para-criancas-criatividade-e-partilha-80439325-5011979565785-brincatoys-1178701433.jpg?v=1752971172
   Price: 10,90 € EUR
 - [Kit de Pulseiras Brilhantes para Crianças: Moda e Brilho Divertido](https://brincatoys.pt/products/pulseiras-brilhantes-para-criancas): O Kit de Pulseiras Brilhantes para Crianças é a escolha perfeita para festas e brincadeiras com amigos. Presenteie criatividade e diversão!
-  Updated: 2025-10-13T08:34:29Z
+  Updated: 2025-10-13T20:19:30Z
   Vendor: Seleção Brincatoys
   Product Type: + 5 anos
   Availability: Available
@@ -18689,7 +18689,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/jogo-lectron-temas-educativos-aprender-de-forma-divertida-86382825-8410446638286-brincatoys-1178701449.jpg?v=1752971298
   Price: 18,90 € EUR
 - [Kit de Pulseiras Divertidas para Crianças: Diversão Garantida](https://brincatoys.pt/products/kit-de-pulseiras-divertidas-para-criancas): Crie pulseiras e colares únicos com o Kit de Pulseiras Divertidas para Crianças. Mais de 200 missangas e 10 pingentes divertidos para horas de diversão! 💫
-  Updated: 2025-10-13T08:34:08Z
+  Updated: 2025-10-13T20:19:15Z
   Vendor: Seleção Brincatoys
   Product Type: + 5 anos
   Availability: Available
@@ -20883,6 +20883,13 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-creator-31173-tucano-tropical-diversao-3-em-1-663117325-5702017879956-lego-1197064306.jpg?v=1760097369
   Price: 16,99 € EUR
+- [LEGO Super Heroes 76322 Vingadores: Endgame](https://brincatoys.pt/products/lego-super-heroes-76322-vingadores-endgame-thor-contra-chitauri): Liberte a ação com o LEGO Super Heroes 76322 Vingadores: Endgame – Thor contra Chitauri. Crie batalhas épicas e invente histórias emocionantes!
+  Updated: 2025-10-13T23:50:07Z
+  Vendor: LEGO
+  Product Type: + 8 anos
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-super-heroes-76322-vingadores-endgame-667632225-5702017817941-lego-1197454415.jpg?v=1760399406
+  Price: 54,50 € EUR
 - [LEGO One Piece 75639 O Navio Pirata Going Merry - Aventura](https://brincatoys.pt/products/lego-one-piece-75639-o-navio-pirata-going-merry): Construa e explore o LEGO One Piece 75639 O Navio Pirata Going Merry com 1376 peças! Aventura-se com os seus heróis favoritos!
   Updated: 2025-10-13T06:13:40Z
   Vendor: LEGO
@@ -21171,8 +21178,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-05T15:27:18Z
   Total Products: 28
 - [Jogos educativos e de tabuleiro](https://brincatoys.pt/collections/jogos-educativos-e-de-tabuleiro)
-  Updated: 2025-10-13T12:31:16Z
-  Total Products: 181
+  Updated: 2025-10-13T20:15:33Z
+  Total Products: 184
 - [Lego City](https://brincatoys.pt/collections/lego-city): Explora o mundo vibrante de LEGO® City onde há muito para fazer. Vai até à baixa da cidade, encena histórias emocionantes com os serviços de urgência e descobre as novas fronteiras, dos oceanos ao espaço. Constrói veículos fantásticos, viaja de comboio ou organiza incríveis espetáculos de acrobacias.
   Updated: 2025-10-06T16:42:49Z
   Total Products: 38
@@ -21201,8 +21208,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-07T19:09:07Z
   Total Products: 5
 - [Lego Marvel](https://brincatoys.pt/collections/lego-marvel): Recria as cenas emocionantes dos filmes do Universo Cinematográfico Marvel e participa na batalha do bem contra o mal nos conjuntos LEGO® Marvel. Junta-te a algumas das personagens favoritas, como os Guardiões da Galáxia, Homem-Formiga, Pantera Negra, Homem-Aranha, Hulk e muitos outros em emocionantes aventuras de encenação.
-  Updated: 2025-10-13T19:28:10Z
-  Total Products: 29
+  Updated: 2025-10-13T22:01:58Z
+  Total Products: 30
 - [Lego Minecraft](https://brincatoys.pt/collections/lego-minecraft): Inspira infinitas aventuras de Minecraft® para os fãs recriarem os icónicos detalhes pixelizados do famoso videojogo. Utiliza a criatividade para dar vida às autênticas personagens de Minecraft® e constrói estruturas e cenas únicas para criares histórias divertidas e emocionantes.
   Updated: 2025-10-01T12:11:29Z
   Total Products: 20
@@ -21309,8 +21316,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-13T19:27:46Z
   Total Products: 699
 - [8 - 10 anos](https://brincatoys.pt/collections/8-10-anos)
-  Updated: 2025-10-13T19:18:17Z
-  Total Products: 318
+  Updated: 2025-10-13T22:01:58Z
+  Total Products: 319
 - [+ 3 meses](https://brincatoys.pt/collections/3-meses)
   Updated: 2025-10-13T18:51:30Z
   Total Products: 19
@@ -21324,26 +21331,26 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-12T12:25:16Z
   Total Products: 1299
 - [Até €25](https://brincatoys.pt/collections/ate-25)
-  Updated: 2025-10-13T20:00:21Z
+  Updated: 2025-10-13T20:15:33Z
   Total Products: 2406
 - [Até €35](https://brincatoys.pt/collections/ate-35)
-  Updated: 2025-10-13T20:00:21Z
+  Updated: 2025-10-13T20:15:33Z
   Total Products: 2869
 - [Até €50](https://brincatoys.pt/collections/ate-50)
-  Updated: 2025-10-13T20:00:21Z
+  Updated: 2025-10-13T20:15:33Z
   Total Products: 3252
 - [Até €60](https://brincatoys.pt/collections/ate-60)
-  Updated: 2025-10-13T20:00:21Z
+  Updated: 2025-10-13T22:01:58Z
   Total Products: 3388
 - [Até €80](https://brincatoys.pt/collections/ate-80)
-  Updated: 2025-10-13T20:00:21Z
+  Updated: 2025-10-13T22:01:58Z
   Total Products: 3467
 - [Até €100](https://brincatoys.pt/collections/ate-100)
-  Updated: 2025-10-13T20:00:21Z
+  Updated: 2025-10-13T22:01:58Z
   Total Products: 3516
 - [Novidades](https://brincatoys.pt/collections/novidades)
-  Updated: 2025-10-13T19:27:46Z
-  Total Products: 388
+  Updated: 2025-10-13T20:15:33Z
+  Total Products: 391
 - [Outlet](https://brincatoys.pt/collections/outlet): Saldos válidos de 04/07/2025 a 26/12/2025, limitado ao stock existente e acumulável com outros descontos ou promoções.
   Updated: 2025-09-29T15:16:28Z
   Total Products: 50
@@ -21450,7 +21457,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-04T18:23:54Z
   Total Products: 29
 - [LEGO](https://brincatoys.pt/collections/lego)
-  Updated: 2025-10-13T19:28:10Z
+  Updated: 2025-10-13T22:01:58Z
   Total Products: 376
 - [LOL Surprise](https://brincatoys.pt/collections/lol-surprise)
   Updated: 2025-10-05T14:47:19Z
@@ -21531,14 +21538,14 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-06T17:09:21Z
   Total Products: 9
 - [Catálogo](https://brincatoys.pt/collections/all)
-  Updated: 2025-10-13T20:00:21Z
+  Updated: 2025-10-13T22:01:58Z
   Total Products: 3550
 - [6 - 7 anos](https://brincatoys.pt/collections/6-7-anos)
   Updated: 2025-10-13T19:28:10Z
   Total Products: 285
 - [11 - 14 anos](https://brincatoys.pt/collections/11-14-anos)
-  Updated: 2025-10-06T18:54:16Z
-  Total Products: 184
+  Updated: 2025-10-13T20:16:02Z
+  Total Products: 187
 - [+ 2 anos](https://brincatoys.pt/collections/de-2-anos)
   Updated: 2025-10-11T16:10:10Z
   Total Products: 117
@@ -21558,19 +21565,19 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-10T09:47:31Z
   Total Products: 77
 - [+ 8 anos](https://brincatoys.pt/collections/8-anos)
-  Updated: 2025-10-13T11:22:28Z
-  Total Products: 217
+  Updated: 2025-10-13T22:01:58Z
+  Total Products: 218
 - [+ 12 anos](https://brincatoys.pt/collections/12-anos)
   Updated: 2025-10-05T15:16:44Z
   Total Products: 91
 - [+ 14 anos](https://brincatoys.pt/collections/14-anos)
-  Updated: 2025-10-06T11:23:20Z
-  Total Products: 83
+  Updated: 2025-10-13T20:16:02Z
+  Total Products: 86
 - [Os mais procurados](https://brincatoys.pt/collections/os-mais-populares)
-  Updated: 2025-10-13T20:00:21Z
+  Updated: 2025-10-13T22:01:58Z
   Total Products: 3550
 - [Recém-chegados](https://brincatoys.pt/collections/recem-chegados)
-  Updated: 2025-10-13T20:00:21Z
+  Updated: 2025-10-13T22:01:58Z
   Total Products: 3550
 - [Produtos em destaque](https://brincatoys.pt/collections/produtos-em-destaque)
   Updated: 2025-10-13T12:31:16Z
@@ -21582,7 +21589,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-12T11:21:00Z
   Total Products: 6
 - [OrderlyEmails - Recommended Products](https://brincatoys.pt/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-10-13T20:00:22Z
+  Updated: 2025-10-13T22:01:58Z
   Total Products: 3075
 - [Girafa Sofia](https://brincatoys.pt/collections/girafa-sofia)
   Updated: 2025-10-13T18:51:31Z
@@ -21591,11 +21598,11 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-13T19:10:56Z
   Total Products: 126
 - [Marketplace](https://brincatoys.pt/collections/marketplace)
-  Updated: 2025-10-13T20:00:22Z
+  Updated: 2025-10-13T22:01:58Z
   Total Products: 3075
 - [EzConnector](https://brincatoys.pt/collections/ezconnector)
-  Updated: 2025-10-13T19:56:57Z
-  Total Products: 925
+  Updated: 2025-10-13T22:08:57Z
+  Total Products: 924
 
 ## Blogs
 
