@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2025-10-14T12:00:51.705Z
+- Updated At: 2025-10-14T20:00:52.241Z
 
 ## Products
 
@@ -187,7 +187,7 @@
     Availability: Not Available
     Price: $44.99 USD
 - [Animal Print Black Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cap2-24-cd2787-id-55570): Stand out from the crowd in this sexy Animal Print Black Dress at Brinxx Couture. Form fitting thigh length long sleeve dress. Great for evening, birthdays and the club.
-  Updated: 2025-10-02T17:11:55Z
+  Updated: 2025-10-14T13:18:03Z
   Vendor: Brinxx Couture
   Product Type: Dress
   Availability: Available
@@ -8460,7 +8460,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/High-Neck-Long-Sleeve-Ribbed-Top-Brinxx-Couture-6079_ae99505f-4811-4797-bf89-89c3a0f73de1.jpg?v=1736050169
     Price: $25.00 USD
 - [Distressed Raw Hem Denim Jacket - Brinxx Couture](https://www.brinxxcouture.com/products/distressed-raw-hem-denim-jacket): This distressed raw hem denim jacket is the perfect way to make a statement. With its distressed raw hem design, you'll look cool and effortless.
-  Updated: 2025-10-14T11:50:43Z
+  Updated: 2025-10-14T17:31:38Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -16126,7 +16126,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/products/Cutout-Mock-Neck-Sleeveless-Dress-Brinxx-Couture-7698.jpg?v=1709885128
     Price: $29.99 USD
 - [Rhinestone Mock Neck Long Sleeve Dress - Brinxx Couture](https://www.brinxxcouture.com/products/rhinestone-mock-neck-long-sleeve-dress): Add some sparkle to your wardrobe with our Rhinestone Mock Neck Long Sleeve Dress! This dress features a trendy mock neck and long sleeves, adorned with dazzling rhinestones. Perfect for any special occasion, it's sure to make you stand out and feel glamorous. Shine on! Sheer: Semi-sheer Stretch: Slightly stretchy Body: Not lined Material composition: 60% viscose, 31% polyamide, 9% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements:S: Bust 29.92 in, Shoulder 13.78 in, Sleeve Length 22.83 in, Waist 26.77 in, HIP 34.65 in, Length 35.63 inM: Bust 32.28 in, Shoulder 14.37 in, Sleeve Length 23.23 in, Waist 29.13 in, HIP 37.01 in, Length 36.42 inL: Bust 34.65 in, Shoulder 14.96 in, Sleeve Length 23.62 in, Waist 31.50 in, HIP 39.37 in, Length 37.20 inXL: Bust 37.80 in, Shoulder 15.94 in, Sleeve Length 24.02 in, Waist 34.65 in, HIP 42.52 in, Length 37.99 in
-  Updated: 2025-10-14T02:05:54Z
+  Updated: 2025-10-14T18:09:21Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -18392,7 +18392,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/8-Carat-Moissanite-925-Sterling-Silver-Ring-Brinxx-Couture-2208.jpg?v=1730294698
     Price: $149.99 USD
 - [3 Stone 3 Carat Moissanite Ring - Brinxx Couture](https://www.brinxxcouture.com/products/3-stone-3-carat-moissanite-ring): Unleash the radiance and brilliance of this 3 Stone 3 Carat Moissanite Ring! Crafted with expert design, this ring flaunts a trio of stunning moissanite stones.
-  Updated: 2025-10-11T04:07:20Z
+  Updated: 2025-10-14T13:18:41Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -19581,7 +19581,7 @@
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Enjoy-The-Simple-Things-Fedora-Hat-Brinxx-Couture-7135.jpg?v=1745425105
   Price: $39.00 USD
 - [Beige Fedora Hat - Brinxx Couture](https://www.brinxxcouture.com/products/beige-fedora-hat): Get ready to elevate your style with our Beige Fedora Hat! This timeless classic is the perfect accessory to add a touch of sophistication to any outfit.
-  Updated: 2025-10-10T14:25:17Z
+  Updated: 2025-10-14T14:10:03Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -21435,7 +21435,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Ruched-Midi-Dress-Long-Sleeve-Brinxx-Couture-5310.jpg?v=1730296020
     Price: $25.00 USD
 - [Ribbed Bodycon Midi Dress - Brinxx Couture](https://www.brinxxcouture.com/products/ribbed-bodycon-midi-dress): Elevate your style with our Ribbed Bodycon Midi Dress! This dress features a flattering bodycon fit and a unique ribbed texture that adds dimension to any outfit.
-  Updated: 2025-10-08T02:24:55Z
+  Updated: 2025-10-14T13:18:06Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -21615,7 +21615,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Pink-Terry-Mesh-Rhinestone-Detail-Jogger-Set-Brinxx-Couture-3639.jpg?v=1730296162
     Price: $60.00 USD
 - [Ribbed Knit Romper - Chic & Comfortable All-Day Wear](https://www.brinxxcouture.com/products/ribbed-knit-romper): Discover the Ribbed Knit Romper in Grey with a luxurious blend of Polyester and Spandex, a fitted silhouette, and a sophisticated back zipper. Perfect for any occasion.
-  Updated: 2025-09-24T12:15:05Z
+  Updated: 2025-10-14T13:18:11Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -21629,7 +21629,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Ribbed-Knit-Romper-Brinxx-Couture-2287.jpg?v=1730296174
     Price: $25.00 USD
   - [Blue Haze / L](https://www.brinxxcouture.com/products/ribbed-knit-romper?variant=43386805387446)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Ribbed-Knit-Romper-Brinxx-Couture-2287.jpg?v=1730296174
     Price: $25.00 USD
   - [Red / S](https://www.brinxxcouture.com/products/ribbed-knit-romper?variant=43386805420214)
@@ -23430,7 +23430,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Notch-Lapel-Woven-Coat-with-Side-Pockets-Brinxx-Couture-2936.jpg?v=1730297108
     Price: $40.00 USD
 - [Cable-Knit Round Neck Sweater Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress): Wrap yourself in cozy comfort and timeless style with our Cable-Knit Round Neck Sweater Dress! Made from soft, high-quality materials.
-  Updated: 2025-10-14T10:11:41Z
+  Updated: 2025-10-14T18:11:56Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -23566,7 +23566,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Fuzzy-Zip-Up-Long-Sleeve-Hooded-Jacket-Brinxx-Couture-2156.jpg?v=1730297285
     Price: $49.99 USD
 - [Suede Fringe Adjustable Strap Shoulder Bag - Brinxx Couture](https://www.brinxxcouture.com/products/suede-fringe-adjustable-strap-shoulder-bag): Effortlessly stylish and versatile, our Suede Fringe Adjustable Strap Shoulder Bag is a must-have addition. The soft material provide comfort and durability.
-  Updated: 2025-10-12T16:05:46Z
+  Updated: 2025-10-14T15:39:16Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -26090,7 +26090,7 @@
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/18K-Gold-Plated-Stainless-Steel-Stud-Earring-Brinxx-Couture-9396.jpg?v=1733888456
   Price: $15.00 USD
 - [Velvet Button Up Long Sleeve Shirt - Brinxx Couture](https://www.brinxxcouture.com/products/button-up-long-sleeve-shirt): Discover the versatility and style of our Velvet Button Up Long Sleeve Shirt! With its classic design and comfortable fit, this shirt is perfect for any occasion.
-  Updated: 2025-10-14T10:20:37Z
+  Updated: 2025-10-14T15:40:41Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -26100,7 +26100,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Velvet-Button-Up-Long-Sleeve-Shirt-Brinxx-Couture-9449_548e90d3-d37d-47c5-913a-1fb9b9e4c7d4.jpg?v=1736049304
     Price: $30.00 USD
   - [Burgundy / M](https://www.brinxxcouture.com/products/button-up-long-sleeve-shirt?variant=43531892785334)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Velvet-Button-Up-Long-Sleeve-Shirt-Brinxx-Couture-9449_548e90d3-d37d-47c5-913a-1fb9b9e4c7d4.jpg?v=1736049304
     Price: $30.00 USD
   - [Burgundy / L](https://www.brinxxcouture.com/products/button-up-long-sleeve-shirt?variant=43531892818102)
@@ -27572,60 +27572,6 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Letter-Buckle-And-Button-Detail-Pants-Brinxx-Couture-751.jpg?v=1733888516
     Price: $45.00 USD
-- [Long Sleeve High Neck Sweater Dress - Brinxx Couture](https://www.brinxxcouture.com/products/long-sleeve-high-neck-sweater-dress): Elevate your fall wardrobe with Long Sleeve High Neck Sweater Dress. This dress combines cozy comfort with chic style, making it a must-have for the season.
-  Updated: 2025-07-07T20:59:44Z
-  Vendor: Brinxx Couture
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Long-Sleeve-High-Neck-Sweater-Dress-Brinxx-Couture-5437.jpg?v=1733888518
-  - [Heather Taupe / S](https://www.brinxxcouture.com/products/long-sleeve-high-neck-sweater-dress?variant=43580032385206)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Long-Sleeve-High-Neck-Sweater-Dress-Brinxx-Couture-7924.jpg?v=1733888522
-    Price: $29.99 USD
-  - [Heather Taupe / M](https://www.brinxxcouture.com/products/long-sleeve-high-neck-sweater-dress?variant=43580032417974)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Long-Sleeve-High-Neck-Sweater-Dress-Brinxx-Couture-7924.jpg?v=1733888522
-    Price: $29.99 USD
-  - [Heather Taupe / L](https://www.brinxxcouture.com/products/long-sleeve-high-neck-sweater-dress?variant=43580032450742)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Long-Sleeve-High-Neck-Sweater-Dress-Brinxx-Couture-7924.jpg?v=1733888522
-    Price: $29.99 USD
-  - [Heather Grey / S](https://www.brinxxcouture.com/products/long-sleeve-high-neck-sweater-dress?variant=43580032483510)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Long-Sleeve-High-Neck-Sweater-Dress-Brinxx-Couture-988.jpg?v=1733888528
-    Price: $29.99 USD
-  - [Heather Grey / M](https://www.brinxxcouture.com/products/long-sleeve-high-neck-sweater-dress?variant=43580032516278)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Long-Sleeve-High-Neck-Sweater-Dress-Brinxx-Couture-988.jpg?v=1733888528
-    Price: $29.99 USD
-  - [Heather Grey / L](https://www.brinxxcouture.com/products/long-sleeve-high-neck-sweater-dress?variant=43580032549046)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Long-Sleeve-High-Neck-Sweater-Dress-Brinxx-Couture-988.jpg?v=1733888528
-    Price: $29.99 USD
-  - [Black / S](https://www.brinxxcouture.com/products/long-sleeve-high-neck-sweater-dress?variant=43580032581814)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Long-Sleeve-High-Neck-Sweater-Dress-Brinxx-Couture-7919.jpg?v=1733888536
-    Price: $29.99 USD
-  - [Black / M](https://www.brinxxcouture.com/products/long-sleeve-high-neck-sweater-dress?variant=43580032614582)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Long-Sleeve-High-Neck-Sweater-Dress-Brinxx-Couture-7919.jpg?v=1733888536
-    Price: $29.99 USD
-  - [Black / L](https://www.brinxxcouture.com/products/long-sleeve-high-neck-sweater-dress?variant=43580032647350)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Long-Sleeve-High-Neck-Sweater-Dress-Brinxx-Couture-7919.jpg?v=1733888536
-    Price: $29.99 USD
-  - [Army Olive / S](https://www.brinxxcouture.com/products/long-sleeve-high-neck-sweater-dress?variant=43580032680118)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Long-Sleeve-High-Neck-Sweater-Dress-Brinxx-Couture-3400.jpg?v=1733888544
-    Price: $29.99 USD
-  - [Army Olive / M](https://www.brinxxcouture.com/products/long-sleeve-high-neck-sweater-dress?variant=43580032712886)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Long-Sleeve-High-Neck-Sweater-Dress-Brinxx-Couture-3400.jpg?v=1733888544
-    Price: $29.99 USD
-  - [Army Olive / L](https://www.brinxxcouture.com/products/long-sleeve-high-neck-sweater-dress?variant=43580032745654)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Long-Sleeve-High-Neck-Sweater-Dress-Brinxx-Couture-3400.jpg?v=1733888544
-    Price: $29.99 USD
 - [Lapel Large Pocket Zip-Up Plush Coat - Brinxx Couture](https://www.brinxxcouture.com/products/lapel-large-pocket-zip-up-plush-coat): Stay warm and stylish with our Lapel Large Pocket Zip-Up Plush Coat. Featuring a lapel design and spacious pockets, this coat will elevate any outfit.
   Updated: 2025-08-30T18:22:46Z
   Vendor: Brinxx Couture
@@ -33932,7 +33878,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/5a399dda-d4b0-4a18-8025-7545e0a97c84-Max-Origin.webp?v=1747318949
     Price: $49.99 USD
 - [Textured Single Shoulder Maxi Dress - Brinxx Couture](https://www.brinxxcouture.com/products/textured-single-shoulder-maxi-dress): Dress Indulge in luxury with our Textured Single Shoulder Maxi Dress. With a sophisticated design, this dress features a single shoulder and a textured fabric.
-  Updated: 2025-10-01T22:27:42Z
+  Updated: 2025-10-14T19:30:31Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
