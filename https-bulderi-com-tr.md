@@ -10,7 +10,7 @@
 - Contact Email: info@bulderi.com.tr
 - Contact Phone: +908503089625
 - Address: Yakuplu Mah. Hürriyet Blv. Skyport Residence No:1/151 Beylikdüzü, İstanbul / Türkiye
-- Updated At: 2025-10-14T00:00:32.750Z
+- Updated At: 2025-10-14T00:47:56.287Z
 
 ## Products
 
@@ -974,17 +974,17 @@
 - [Türkiye (tr / TRY)](https://bulderi.com.tr//llms.txt?market=tr)
 
 ## Social Media
-- [Instagram] (https://instagram.com/bulderi.com.tr)
-- [Facebook] (https://facebook.com/bulderi.com.tr)
-- [X] (https://x.com/buldericomtr)
-- [TikTok] (https://www.tiktok.com/@bulderi)
-- [YouTube] (https://www.youtube.com/@buldericomtr)
-- [Pinterest] (https://www.pinterest.com/buldericomtr)
-- [Google Maps] (https://maps.app.goo.gl/2Gwmtz4YM8D6yggN8)
+- [Instagram] (https://instagram.com/bulderi.com.tr): Bulderi Instagram Account
+- [Facebook] (https://facebook.com/bulderi.com.tr): Bulderi Facebook Page
+- [X] (https://x.com/buldericomtr): Bulderi X Account
+- [TikTok] (https://www.tiktok.com/@bulderi): Bulderi TikTok Channel
+- [YouTube] (https://www.youtube.com/@buldericomtr): Bulderi YouTube Channel
+- [Pinterest] (https://www.pinterest.com/buldericomtr): Bulderi Pinterest Page
+- [Google Maps] (https://maps.app.goo.gl/2Gwmtz4YM8D6yggN8): Bulderi Google Maps Page
 
 ## Marketplaces
-- [Hepsiburada] (https://app.hb.biz/seY6lTY7Bmn6/)
-- [Trendyol] (https://www.trendyol.com/magaza/bulderi-m-826281)
+- [Hepsiburada] (https://app.hb.biz/seY6lTY7Bmn6/): Bulderi Store on Hepsiburada Merchant
+- [Trendyol] (https://www.trendyol.com/magaza/bulderi-m-826281): Bulderi Store on Hepsiburada Merchant
 
 ## Official Domains
 - [Main Domain] (https://bulderi.com.tr/)
