@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-10-14T00:01:05.092Z
+- Updated At: 2025-10-14T04:01:10.622Z
 
 ## Products
 
@@ -4177,7 +4177,7 @@ Como jogar: As crianças colocam as cartas viradas para baixo e misturam-nas. Um
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/jogo-rei-dos-numeros-810359022-brincatoys-1178693936.jpg?v=1752847688
   Price: 16,99 € EUR
 - [Jogo Rummikub de Viagem Caixa Metálica](https://brincatoys.pt/products/jogo-rummikub-de-viagem-caixa-metalica): Rummikub de Viagem - Caixa Metálica, é um jogo com números para entreter-te e iniciar-te nesta grande habilidade. Desfruta do jogo de mesa e estratégia mais divertido! Faz escadas e trios e combina os números até que fiques sem fichas. Se consegues ser o primeiro em ficar sem fichas, ganhas!Um jogo familiar e divertido que, graças ao formato de via
-  Updated: 2025-10-13T12:48:44Z
+  Updated: 2025-10-14T00:25:32Z
   Vendor: Seleção Brincatoys
   Product Type: + 6 anos
   Availability: Available
@@ -9120,7 +9120,7 @@ numerosa.Figura em borracha termoplástica não tóxica e livre d...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/transformers-x-jurassicpark-tyrannocon-rex-vs-autobot-jp93-232644222-transformers-1178695538.jpg?v=1752876968
   Price: 99,99 € EUR
 - [Triominos Tour Edition](https://brincatoys.pt/products/triominos-tour-edition): Leve consigo a emoção e a diversão com este fantástico jogo Triominos Tour Edition, o jogo de tabuleiro mais simples e emocionante. Divirta-se com esta nova versão do Triominos, com uma caixa de metal, criada especialmente para a maioria dos viajantes. O famoso jogo de dominó triangular, agora num tamanho especial e prático.  Dimensão: 19 x 12 x 5
-  Updated: 2025-10-13T12:54:23Z
+  Updated: 2025-10-14T00:54:08Z
   Vendor: Seleção Brincatoys
   Product Type: + 6 anos
   Availability: Available
@@ -13920,7 +13920,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/shadow-high-pinkie-james-779283923-0035051592839-rainbow-high-1178697739.jpg?v=1752800407
   Price: 39,99 € EUR
 - [NexCube 3x3](https://brincatoys.pt/products/nexcube-3x3): É o cubo preferido dos Speedcubers mais velozes do mundo! Poderá resolver o cubo 3×3 mais rápido do que nunca. Um dos segredos deste novo cubo reside nos cantos arredondados e na construção precisa, graças aos quais ele é resolvido de forma mais rápida e suave do que qualquer outro cubo do mercado. Jogar com o NexCube estimula a mente e oferece inúmeros benefícios, tais como melhora a capacidade visual/espacial, a atenção, a concentração, a paciência, a agilidade e o desenvolvimento da memória. Inclui uma base para poder colocá-lo numa mesa ou numa estante. Dimensão: 10 x 10 x 9,50 cm. Idade Recomendada: + de 3 anos.
-  Updated: 2025-10-13T13:03:57Z
+  Updated: 2025-10-14T00:59:40Z
   Vendor: Seleção Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -15019,7 +15019,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-ninjago-71809-egalt-o-mestre-dragao-conjunto-epico-667180924-5702017584539-lego-1178698509.jpg?v=1752927963
   Price: 69,90 € EUR
 - [Cartão-oferta](https://brincatoys.pt/products/cartao-presente): Um Cartão Presente é uma óptima forma de oferecer presentes, deixando a escolha dos produtos a quem os vai receber.O cartão Presente BRINCATOYS consiste num voucher enviado por e-mail ao cliente ou destinatário, no valor previamente selecionado, o qual poderá ser utilizado, até ao limite do saldo existente, na realização de uma ou mais compras em www.brincatoys.pt. Este voucher é válido a partir do momento que é emitido e não expira. O Cartão Presente funciona da seguinte forma: 1º Selecciona um valor pré-existente e adiciona ao cesto de compras. 2º Caso pretenda enviar por e-mail para um terceiro, preenche o formulário com o endereço electrónico (e-mail) do destinatário, podendo, opcionalmente, elaborar um texto de felicitações e identificar o destinatário. 3º Indica a data de envio do cartão presente. 4º Depois de adicionado ao cesto de compras e ao finalizar a encomenda, se não for cliente registado, procede ao seu registo prévio. 5º Seguidamente, preenche os dados de facturação e procede ao pagamento. 6º Após o processamento da encomenda, o destinatário e remetente receberão, no respectivo e-mail, um Voucher referente ao Cartão Presente adquirido. 7º Caso o destinatário do e-mail seja apenas o comprador/cliente poderá, querendo, oferecer o cartão presente reencaminhando ou imprimindo o e-mail. 8º Quem receber o Voucher Cartão Presente faz uma compra em www.brincatoys.pt, e na finalização da mesma insere o código que consta no Voucher, no campo do cartão presente, de forma a utilizar total ou parcialmente, o valor do cartão presente. 9º Esse código é válido no check-out da loja podendo ser utilizado em diversas compras individuais até se esgotar o saldo existente. 10º Se o valor da compra exceder o crédito disponível no Voucher Cartão Presente, o cliente pagará o valor excedente com um método de pagamento à sua escolha, aceite em www.brincatoys.pt. 11º O saldo do Cartão presente pode ser consultado no campo apresentado no e-mail recebido ou, no caso de ser portador de Apple Wallet, adicionado e visualizado nessa aplicação. 12º O Cartão Presente BRINCATOYS não pode ser trocado por dinheiro, revendido, reembolsado, mesmo parcialmente, ou creditado num cartão ou conta bancária e é apenas válido para compras on-line em www.brincatoys.pt. A BRINCATOYS não se responsabiliza pela perda, roubo, extravio, danificação, destruição ou uso sem permissão do Voucher Cartão Presente. O mesmo não será substituído em nenhuma circunstância.
-  Updated: 2025-10-13T09:31:30Z
+  Updated: 2025-10-14T00:20:02Z
   Vendor: Seleção Brincatoys
   Product Type: 
   Availability: Available
