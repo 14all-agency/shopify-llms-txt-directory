@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-10-12T12:05:24Z
 - Contact Email: jaswanthkapli4@gmail.com
-- Updated At: 2025-10-14T02:53:53.775Z
+- Updated At: 2025-10-14T12:00:28.871Z
 
 ## Products
 
@@ -764,7 +764,7 @@
     Availability: Available
     Price: ₹551.00 INR
 - [Slim Fit Casual Plaid Shirt for Men](https://mylonic.myshopify.com/products/slim-fit-casual-plaid-shirt-for-men): Step out in style with our Men Casual Plaid Shirt Slim Fit, expertly crafted from high-quality Cotton for ultimate comfort and breathability. This shirt is the perfect fusion of classic design and modern fit, making it an essential addition to any man's wardrobe. With a slim fit design and a stylish lapel, this shirt effortlessly combines sophistication with a casual vibe, allowing you to transition seamlessly from day to night. Available in three striking colors: white, red, and blue, you can easily find the perfect hue to match your personal style. Whether you're heading out for a relaxed weekend brunch or gearing up for a casual meeting, this shirt ensures you look sharp and put together. The versatile design pairs well with jeans, chinos, or shorts, making it a go-to option for any occasion. Choose from a range of sizes, including 2XL, 3XL, 4XL, L, M, and XL, ensuring a fit that flatters every body type. Check out the size chart to find your perfect match! See the shirt in action with our vibrant images below: Elevate your everyday style with this must-have plaid shirt. Don’t miss out – grab yours today and redefine your casual look!
-  Updated: 2025-10-14T02:43:51Z
+  Updated: 2025-10-14T05:56:30Z
   Vendor: Lonic
   Product Type: 
   Availability: Available
@@ -842,7 +842,7 @@
     Image: https://cdn.shopify.com/s/files/1/0790/9333/4235/files/LNwmb5wv7z23Etip.webp?v=1760378333
     Price: ₹650.00 INR
 - [Men's Sauna Body Shaper Waist Trainer Slimming Belt](https://mylonic.myshopify.com/products/mens-sauna-body-shaper-waist-trainer-slimming-belt): Transform your fitness journey with our Men's Abdomen Reducer Sauna Body Shaper. Designed to enhance your workouts, this fitness sweat trimmer belt is your ultimate companion for achieving a slimmer waist and a more defined abdomen. Whether you're hitting the gym, practicing yoga, or simply going about your day, this waist trainer is perfect for every occasion. Crafted from a premium blend of 92% polyester and 8% spandex, the outer layer is made of compression fabric that instantly slims and shapes your figure, while the inner layer features thermogenic polymer fabric that boosts your core temperature to promote sweating. This unique combination creates a sauna-like experience, maximizing sweat production and helping you shed water weight quickly. With sizes ranging from S-M to 4XL-5XL, our waist trimmer is designed to be incredibly light and comfortable for extended wear. It molds to your body, providing the necessary core support you need during workouts or daily activities. No more bulky or restrictive shapewear—this trimmer is discreet and flexible enough to wear under your clothes. Experience the benefits of increased sweating, including detoxification and cleansing of your pores, all while feeling great. It's time to elevate your fitness routine with our Men's Abdomen Reducer Sauna Body Shaper and start seeing results faster than ever before! Color: Black Size Options: S-M, L-XL, 2XL-3XL, 4XL-5XL
-  Updated: 2025-10-14T02:43:52Z
+  Updated: 2025-10-14T05:58:04Z
   Vendor: Lonic
   Product Type: 
   Availability: Available
@@ -863,6 +863,57 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0790/9333/4235/files/NWQbgvnf7FhZEjZK.webp?v=1760378330
     Price: ₹500.00 INR
+- [Cotton Printed Full Sleeves Mens Hoodie](https://mylonic.myshopify.com/products/cotton-printed-full-sleeves-mens-hoodie): Product Cotton Printed Full Sleeves Mens Hoodie Package Contains: It has pack of 1 Hoodie Fabric: Cotton Blend Color: Multicolor Pattern: Color Block Fit: Loose Sleeves Type: Full Sleeves Neck Type: Hood Length (in Inches): 26 Closure: Draw-String Occasion: Casual Combo: Pack of 1 Ideal For: Men Weight: 400
+  Updated: 2025-10-14T08:47:33Z
+  Vendor: 7168md-du
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0790/9333/4235/files/5714463547.jpg?v=1760431634
+  - [L](https://mylonic.myshopify.com/products/cotton-printed-full-sleeves-mens-hoodie?variant=47744714637531)
+    Availability: Available
+    Price: ₹406.00 INR
+  - [XL](https://mylonic.myshopify.com/products/cotton-printed-full-sleeves-mens-hoodie?variant=47744714670299)
+    Availability: Available
+    Price: ₹406.00 INR
+  - [M](https://mylonic.myshopify.com/products/cotton-printed-full-sleeves-mens-hoodie?variant=47744714703067)
+    Availability: Available
+    Price: ₹406.00 INR
+- [Cotton Blend Printed Full Sleeves Mens Hooded Neck T-Shirt](https://mylonic.myshopify.com/products/cotton-blend-printed-full-sleeves-mens-hooded-neck-t-shirt): Product Name: Cotton Blend Printed Full Sleeves Mens Hooded Neck T-Shirt Package Contains: It Has 1 Piece Of Mens Hooded T-Shirt Fabric: Cotton Blend Color: Black Pattern: Printed Fit: Regular Sleeves Type: Full Sleeves Neck Type: Hooded Neck Occasion: Casual Combo: Pack of 1 Ideal For: Men Weight: 250
+  Updated: 2025-10-14T08:49:09Z
+  Vendor: 7168md-du
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0790/9333/4235/files/8182746004.jpg?v=1760431735
+  - [M](https://mylonic.myshopify.com/products/cotton-blend-printed-full-sleeves-mens-hooded-neck-t-shirt?variant=47744781844699)
+    Availability: Available
+    Price: ₹421.00 INR
+  - [L](https://mylonic.myshopify.com/products/cotton-blend-printed-full-sleeves-mens-hooded-neck-t-shirt?variant=47744781877467)
+    Availability: Available
+    Price: ₹421.00 INR
+  - [XL](https://mylonic.myshopify.com/products/cotton-blend-printed-full-sleeves-mens-hooded-neck-t-shirt?variant=47744781910235)
+    Availability: Available
+    Price: ₹421.00 INR
+- [Mens Casual Cotton Color Block Hoodies](https://mylonic.myshopify.com/products/mens-casual-cotton-color-block-hoodies): Product Name: Mena Casual Cotton Printed Hoodies Package Contains: It has pair of casual hoodies for mens Fabric: Cotton Color: Black Pattern: Solid Fit: Slim Sleeves Type: Full Sleeves Neck Type: Round Neck Length (in Inches): 28 Closure: No Closure Occasion: Casual Combo: Pack of 1 Ideal For: Men Weight: 500
+  Updated: 2025-10-14T08:50:03Z
+  Vendor: 7168md-du
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0790/9333/4235/files/8114937961.jpg?v=1760431793
+  - [XXL](https://mylonic.myshopify.com/products/mens-casual-cotton-color-block-hoodies?variant=47744864026843)
+    Availability: Available
+    Price: ₹384.00 INR
+  - [L](https://mylonic.myshopify.com/products/mens-casual-cotton-color-block-hoodies?variant=47744864059611)
+    Availability: Not Available
+    Price: ₹384.00 INR
+  - [M](https://mylonic.myshopify.com/products/mens-casual-cotton-color-block-hoodies?variant=47744864092379)
+    Availability: Not Available
+    Price: ₹384.00 INR
+  - [XL](https://mylonic.myshopify.com/products/mens-casual-cotton-color-block-hoodies?variant=47744864125147)
+    Availability: Not Available
+    Price: ₹384.00 INR
+  - [S](https://mylonic.myshopify.com/products/mens-casual-cotton-color-block-hoodies?variant=47744864157915)
+    Availability: Not Available
+    Price: ₹384.00 INR
 
 ## Collections
 
