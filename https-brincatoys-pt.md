@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-10-14T12:01:12.770Z
+- Updated At: 2025-10-14T16:01:11.479Z
 
 ## Products
 
@@ -10069,7 +10069,7 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/guitarra-infantil-111400423-2600000-brincatoys-1178695799.jpg?v=1752881651
   Price: 39,99 € EUR
 - [Barbie Signature Looks Morena Curvy](https://brincatoys.pt/products/barbie-signature-looks-morena-curvy): Apresentando detalhes da moda, com o seu rosto novo e corpo articulado, a Barbie Looks está pronta para desfilar, posar, e fotografar. Esta boneca Barbie Looks apresenta um design de rosto exclusivo e longos e volumosos cabelos castanhos cheios de cachos e franja. As suas roupas premium incluem um vestido preto de dois tons e um decote em prata bri
-  Updated: 2025-10-13T06:25:31Z
+  Updated: 2025-10-14T14:51:12Z
   Vendor: Barbie Signature
   Product Type: + 6 anos
   Availability: Available
@@ -17765,7 +17765,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/brinquedo-gabby-conjuto-de-beleza-entre-em-um-mundo-magico-770294324-8445484394757-brincatoys-1178700788.jpg?v=1752961220
   Price: 17,90 € EUR
 - [Boneca L.O.L. Surprise Loves Hello Kitty: Uma colaboração mágica](https://brincatoys.pt/products/boneca-l-o-l-surprise-loves-hello-kitty): Prepare-se para a diversão com a boneca L.O.L Surprise Loves Hello Kitty! Uma colaboração única que combina o melhor dos dois mundos.
-  Updated: 2025-10-14T11:46:24Z
+  Updated: 2025-10-14T12:16:30Z
   Vendor: LOL Surprise
   Product Type: + 3 anos
   Availability: Available
@@ -18388,7 +18388,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/boneco-de-peluche-da-bluey-45-cm-o-companheiro-perfeito-231301024-8056379131632-bluey-1178701136.jpg?v=1752966242
   Price: 32,50 € EUR
 - [Lego Botanicals - Buquê de Flores Cor-de-Rosa Elegante](https://brincatoys.pt/products/lego-botanicals-buque-de-flores-cor-de-rosa-elegante): Crie um buquê personalizado que realça a beleza de um arranjo floral clássico com o Lego Botanicals 10342 - Buquê de Flores Cor-de-Rosa Elegante.
-  Updated: 2025-10-13T06:16:24Z
+  Updated: 2025-10-14T14:00:35Z
   Vendor: LEGO
   Product Type: + 14 anos
   Availability: Available
@@ -21122,7 +21122,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/mercedes-benz-190sl-cabrio-1955-1-18-classico-em-metal-133182425-0090159318248-brincatoys-1196919827.jpg?v=1760003397
   Price: 56,50 € EUR
 - [Carro de brincar Porsche 911 Targa 4 GTS em escala 1:18](https://brincatoys.pt/products/carro-de-brincar-porsche-911-targa-4-gts): A ficha técnica do carro de brincar Porsche 911 Targa 4 GTS vai encantar os pequenos e colecionadores. Explore o realismo e estilos únicos! 🚗
-  Updated: 2025-10-13T06:13:23Z
+  Updated: 2025-10-14T13:39:50Z
   Vendor: Seleção Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -21136,7 +21136,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-de-brincar-mercedes-benz-280-se-1967-1-18-133181125-0090159318118-brincatoys-1196929118.jpg?v=1760011436
   Price: 56,50 € EUR
 - [Carro de brincar Ford Bronco Wildtrak 2021 Preto](https://brincatoys.pt/products/carro-de-brincar-ford-bronco-wildtrak-2021-preto-1-18): Experimente a emoção da aventura com o carro de brincar Ford Bronco Wildtrak 2021 Preto. Com detalhes realistas, é o modelo perfeito para colecionadores!
-  Updated: 2025-10-13T06:13:22Z
+  Updated: 2025-10-14T12:20:10Z
   Vendor: Seleção Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -21589,7 +21589,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-12T11:21:00Z
   Total Products: 6
 - [OrderlyEmails - Recommended Products](https://brincatoys.pt/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-10-14T11:20:30Z
+  Updated: 2025-10-14T12:20:41Z
   Total Products: 3075
 - [Girafa Sofia](https://brincatoys.pt/collections/girafa-sofia)
   Updated: 2025-10-13T18:51:31Z
@@ -21598,7 +21598,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-14T11:20:30Z
   Total Products: 126
 - [Marketplace](https://brincatoys.pt/collections/marketplace)
-  Updated: 2025-10-14T11:20:30Z
+  Updated: 2025-10-14T12:20:41Z
   Total Products: 3075
 - [EzConnector](https://brincatoys.pt/collections/ezconnector)
   Updated: 2025-10-13T22:08:57Z
