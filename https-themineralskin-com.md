@@ -9,7 +9,7 @@
 - Created At: 2025-08-25T14:01:44Z
 - Contact Email: support@themineralskin.com
 - Address: 17 Heath Drive, London NW3 7SL, United Kingdom
-- Updated At: 2025-10-14T08:00:28.061Z
+- Updated At: 2025-10-14T12:00:29.153Z
 
 ## Products
 
@@ -125,6 +125,9 @@
     Author: Michele Galli
   - [Caffeine Blend Infuser: The Secret to Energized, Radiant, and Youthful Skin](https://themineralskin.com/blogs/news/caffeine-blend-infuser-the-secret-to-energized-radiant-and-youthful-skin)
     Updated: 2025-10-13T15:21:13Z
+    Author: Michele Galli
+  - [New Study Reveals Surprising Insight About The Mineral Skin Caffeine Blend Infuser](https://themineralskin.com/blogs/news/new-study-reveals-surprising-insight-about-the-mineral-skin-caffeine-blend-infuser)
+    Updated: 2025-10-14T08:17:59Z
     Author: Michele Galli
 
 ## Store Pages
