@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-10-03T06:30:37Z
 - Contact Email: mandiemaddox@mystichiddengem.com
-- Updated At: 2025-10-13T12:00:29.143Z
+- Updated At: 2025-10-14T12:00:30.375Z
 
 ## Products
 
@@ -183,7 +183,7 @@
     Availability: Available
     Price: $27.72 USD
 - [Eternal Loop Lost Skeleton Lovers Cropped Sweatshirt](https://lachrymalgems.store/products/eternal-loop-lost-skeleton-lovers-cropped-sweatshirt-for-trendy-women-retro-vibe-perfect-for-casual-outings-gifts-and-events): This stylish Women's Cropped Sweatshirt adds a pop of personality to any wardrobe with the very warming love lost skeletons each items telling its own story within the digital art S M L XL 2XL Length, in 17.00 18.00 18.00 20.00 22.00 Width, in 21.37 22.75 25.50 27.12 29.12 Sleeve length, in 20.67 20.67 20.87 20.98 21.10 Size tolerance, in 1.00 1.00 1.00 1.00 1.00 . Made from a blend of soft, luxurious cotton and polyester, it offers the perfect balance of comfort and style. The relaxed fit with dropped shoulders ensures a laid-back vibe, making it an ideal choice for casual outings or cozy nights in. With its edgy raw bottom hem and ribbed-knit cuffs and collar, this sweatshirt is designed to stand out. Perfect for those who appreciate unique fashion, it makes a wonderful gift for friends or family celebrating milestone birthdays, cozy winter gatherings, or simply for anyone looking to elevate their everyday look. Whether paired with high-waisted jeans or leggings, this cropped sweatshirt will be your go-to for showcasing your individuality during casual hangouts or laid-back parties.Product features- Soft and luxurious fabric blend for ultimate comfort.- Relaxed fit with dropped shoulders for easy wear.- Edgy raw bottom hem adds a fashionable touch.- Highly elastic ribbed-knit cuffs and collar retain shape.- Adult sizing with a tear-away label for convenience.Care instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Iron, steam or dry: low heat- Do not dryclean
-  Updated: 2025-10-12T15:35:50Z
+  Updated: 2025-10-13T14:33:10Z
   Vendor: Printify
   Product Type: Sweatshirt
   Availability: Available
@@ -193,72 +193,72 @@
     Price: $55.20 USD
   - [Mauve / S](https://lachrymalgems.store/products/eternal-loop-lost-skeleton-lovers-cropped-sweatshirt-for-trendy-women-retro-vibe-perfect-for-casual-outings-gifts-and-events?variant=47092254114037)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/7590772071000907401_2048.jpg?v=1760133208
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/7590772071000907401_2048.jpg?v=1760365958
     Price: $55.20 USD
   - [Deep Heather / S](https://lachrymalgems.store/products/eternal-loop-lost-skeleton-lovers-cropped-sweatshirt-for-trendy-women-retro-vibe-perfect-for-casual-outings-gifts-and-events?variant=47092254146805)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/5892335986013518364_2048.jpg?v=1760133208
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/5892335986013518364_2048.jpg?v=1760365958
     Price: $55.20 USD
   - [Dusty Blue / S](https://lachrymalgems.store/products/eternal-loop-lost-skeleton-lovers-cropped-sweatshirt-for-trendy-women-retro-vibe-perfect-for-casual-outings-gifts-and-events?variant=47092254179573)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/9407029694078201566_2048.jpg?v=1760133208
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/9407029694078201566_2048.jpg?v=1760365958
     Price: $55.20 USD
   - [Black / M](https://lachrymalgems.store/products/eternal-loop-lost-skeleton-lovers-cropped-sweatshirt-for-trendy-women-retro-vibe-perfect-for-casual-outings-gifts-and-events?variant=47092254212341)
     Availability: Available
     Price: $55.20 USD
   - [Mauve / M](https://lachrymalgems.store/products/eternal-loop-lost-skeleton-lovers-cropped-sweatshirt-for-trendy-women-retro-vibe-perfect-for-casual-outings-gifts-and-events?variant=47092254245109)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/7590772071000907401_2048.jpg?v=1760133208
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/7590772071000907401_2048.jpg?v=1760365958
     Price: $55.20 USD
   - [Deep Heather / M](https://lachrymalgems.store/products/eternal-loop-lost-skeleton-lovers-cropped-sweatshirt-for-trendy-women-retro-vibe-perfect-for-casual-outings-gifts-and-events?variant=47092254277877)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/5892335986013518364_2048.jpg?v=1760133208
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/5892335986013518364_2048.jpg?v=1760365958
     Price: $55.20 USD
   - [Dusty Blue / M](https://lachrymalgems.store/products/eternal-loop-lost-skeleton-lovers-cropped-sweatshirt-for-trendy-women-retro-vibe-perfect-for-casual-outings-gifts-and-events?variant=47092254310645)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/9407029694078201566_2048.jpg?v=1760133208
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/9407029694078201566_2048.jpg?v=1760365958
     Price: $55.20 USD
   - [Black / L](https://lachrymalgems.store/products/eternal-loop-lost-skeleton-lovers-cropped-sweatshirt-for-trendy-women-retro-vibe-perfect-for-casual-outings-gifts-and-events?variant=47092254343413)
     Availability: Available
     Price: $55.20 USD
   - [Mauve / L](https://lachrymalgems.store/products/eternal-loop-lost-skeleton-lovers-cropped-sweatshirt-for-trendy-women-retro-vibe-perfect-for-casual-outings-gifts-and-events?variant=47092254376181)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/7590772071000907401_2048.jpg?v=1760133208
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/7590772071000907401_2048.jpg?v=1760365958
     Price: $55.20 USD
   - [Deep Heather / L](https://lachrymalgems.store/products/eternal-loop-lost-skeleton-lovers-cropped-sweatshirt-for-trendy-women-retro-vibe-perfect-for-casual-outings-gifts-and-events?variant=47092254408949)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/5892335986013518364_2048.jpg?v=1760133208
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/5892335986013518364_2048.jpg?v=1760365958
     Price: $55.20 USD
   - [Dusty Blue / L](https://lachrymalgems.store/products/eternal-loop-lost-skeleton-lovers-cropped-sweatshirt-for-trendy-women-retro-vibe-perfect-for-casual-outings-gifts-and-events?variant=47092254441717)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/9407029694078201566_2048.jpg?v=1760133208
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/9407029694078201566_2048.jpg?v=1760365958
     Price: $55.20 USD
   - [Black / XL](https://lachrymalgems.store/products/eternal-loop-lost-skeleton-lovers-cropped-sweatshirt-for-trendy-women-retro-vibe-perfect-for-casual-outings-gifts-and-events?variant=47092254474485)
     Availability: Available
     Price: $55.20 USD
   - [Mauve / XL](https://lachrymalgems.store/products/eternal-loop-lost-skeleton-lovers-cropped-sweatshirt-for-trendy-women-retro-vibe-perfect-for-casual-outings-gifts-and-events?variant=47092254507253)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/7590772071000907401_2048.jpg?v=1760133208
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/7590772071000907401_2048.jpg?v=1760365958
     Price: $55.20 USD
   - [Deep Heather / XL](https://lachrymalgems.store/products/eternal-loop-lost-skeleton-lovers-cropped-sweatshirt-for-trendy-women-retro-vibe-perfect-for-casual-outings-gifts-and-events?variant=47092254540021)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/5892335986013518364_2048.jpg?v=1760133208
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/5892335986013518364_2048.jpg?v=1760365958
     Price: $55.20 USD
   - [Dusty Blue / XL](https://lachrymalgems.store/products/eternal-loop-lost-skeleton-lovers-cropped-sweatshirt-for-trendy-women-retro-vibe-perfect-for-casual-outings-gifts-and-events?variant=47092254572789)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/9407029694078201566_2048.jpg?v=1760133208
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/9407029694078201566_2048.jpg?v=1760365958
     Price: $55.20 USD
   - [Deep Heather / 2XL](https://lachrymalgems.store/products/eternal-loop-lost-skeleton-lovers-cropped-sweatshirt-for-trendy-women-retro-vibe-perfect-for-casual-outings-gifts-and-events?variant=47092254605557)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/5892335986013518364_2048.jpg?v=1760133208
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/5892335986013518364_2048.jpg?v=1760365958
     Price: $61.24 USD
   - [Dusty Blue / 2XL](https://lachrymalgems.store/products/eternal-loop-lost-skeleton-lovers-cropped-sweatshirt-for-trendy-women-retro-vibe-perfect-for-casual-outings-gifts-and-events?variant=47092254638325)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/9407029694078201566_2048.jpg?v=1760133208
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/9407029694078201566_2048.jpg?v=1760365958
     Price: $61.24 USD
   - [Mauve / 2XL](https://lachrymalgems.store/products/eternal-loop-lost-skeleton-lovers-cropped-sweatshirt-for-trendy-women-retro-vibe-perfect-for-casual-outings-gifts-and-events?variant=47092254671093)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/7590772071000907401_2048.jpg?v=1760133208
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/7590772071000907401_2048.jpg?v=1760365958
     Price: $61.24 USD
 - [Galaxy Lost Love Skeletons Relaxed Shorts](https://lachrymalgems.store/products/galaxy-lost-love-skeletons-print-womens-relaxed-shorts-comfy-lounge-wear-summer-outfits-festival-attire-gifts-for-space-lovers): XS S M L XL 2XL Waist width, in 13.39 13.98 14.57 15.16 15.75 16.34 Hips width, in 20.08 21.06 22.05 23.03 24.02 25.98 Length, in 10.31 10.79 11.26 11.73 12.20 12.68 ​Blast off into unique style and ultimate comfort with our "Galaxy Lost Love Skeletons" Women's Relaxed Shorts. These shorts are a stellar fusion of cosmic wonder and poignant artistry, perfect for summer adventures, comfy lounge wear, or making a vibrant statement at your next festival. ​Why These Shorts Will Be Your New Favorite: ​Celestial "Lost Love" Design: Featuring an ethereal galaxy backdrop swirling with vibrant nebulae and distant stars, adorned with two intertwined skeletons, symbolizing enduring connection or poignant "lost love." This captivating graphic is truly out of this world. ​Vibrant & Eye-Catching: The rich, colorful galaxy print ensures these shorts are a head-turner, adding a dynamic and artistic touch to any outfit. ​Ultimate Comfort & Relaxation: Crafted for a relaxed fit, these shorts provide exceptional comfort, whether you're lounging at home, exploring the outdoors, or dancing the night away. ​Versatile for Any Occasion: ​Summer Outfits: Lightweight and breathable for hot weather. ​Comfy Lounge Wear: Perfect for casual days and relaxing. ​Festival Attire: Stand out in the crowd with a unique, expressive design. ​Gifts for Space Lovers: An ideal present for anyone fascinated by the cosmos and distinctive art. ​High-Quality Print & Fabric: The vivid galaxy print is sublimated into durable fabric, ensuring the colors stay brilliant and the design lasts, wear after wear. ​Range of Sizes: Available in XS to 2XL to ensure a comfortable fit for diverse body types Product features- 100% Polyester for strength and durability- Soft fabric ensures comfortable wear- Adjustable drawstring waist for a perfect fit- Side seams provide structural support- Medium fabric weight for versatility and comfortCare instructions- Do not dryclean- Do not iron- Tumble dry: low heat- Do not bleach- Machine wash: cold (max 30C or 90F) Image by [clearviewstock / Shutterstock]
   Updated: 2025-10-12T15:35:50Z
@@ -918,7 +918,7 @@
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/background-editor_output_a0f551fc-8888-4c42-a5fb-9cf3220590c5.png?v=1760042149
   Price: $37.77 USD
 - [Lachrymal Gems Skeleton Love Lost Heart Seed Planting Dark Aesthetic Backpack](https://lachrymalgems.store/products/lachrymal-gems-skeleton-love-lost-heart-seed-planting-dark-aesthetic-backpack): This backpack features a dark aesthetic with vaporwave neon glitch vibes, perfect for those who appreciate alternative trap aesthetic. It gives off a mysterious and edgy vibe, making it ideal for students, travelers, or anyone who loves unique designs. It is relevant for back-to-school season, music festivals, and everyday streetwear.Product features- Premium lightweight tear resistant Oxford fabric- 6 compartments for organizational convenience- Padded mesh back panel and straps for extra comfort- Adjustable shoulder straps for a customized fit- Black base and inside color for a sleek lookCare instructions- Before cleaning the bag, remove all the items from the bag. Suggested to pretreat visible stains with stain remover. Mix warm water with laundry detergent and clean the bag with terry washcloth or soft bristle brush. Let the bag air dry. One size Length, in 10.83 Width, in 4.92 Height, in 13.58
-  Updated: 2025-10-13T10:44:53Z
+  Updated: 2025-10-13T22:44:42Z
   Vendor: Printify
   Product Type: Bags
   Availability: Available
@@ -1078,32 +1078,27 @@
   - [Black / 5XL](https://lachrymalgems.store/products/deadly-angel-unisex-cotton-tee-graphic-tee-casual-wear-streetwear-cool-t-shirt-gift-for-him-her?variant=47201710571765)
     Availability: Available
     Price: $40.11 USD
-- [Ringer T-Shirt Decade Love Lost Skeletons Print](https://lachrymalgems.store/products/ringer-t-shirt-decade-love-lost-skeletons-print): Decade Love Lost Skeletons Design Print on a Unisex Cotton Ringer T-Shirt, giving off an Alternative Dark Vaporwave Fashion vibe with a Hint of Glitch Aesthetics. Perfect for those who appreciate unique and edgy fashion styles. Ideal for Goth, or Retro themed events and celebrations.Product features- 100% cotton composition for solid colors- Contrasting 1x1 baby rib binding on collar and sleeves- Side seams for better shape retention- Combed, ring-spun cotton for quality- Light fabric with a classic fitCare instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Iron, steam or dry: low heat- Do not dryclean XS S M L XL 2XL 3XL Width, in 17.50 19.00 20.50 22.00 24.00 26.00 28.00 Length, in 27.00 28.00 29.00 30.00 31.00 32.00 33.00 Image by [BNP Design Studio / Shutterstock]
-  Updated: 2025-10-13T04:09:26Z
-  Vendor: Printify
-  Product Type: T-Shirt
+- [Men's Shampoo](https://lachrymalgems.store/products/mens-shampoo): Description Designed with effective ingredients and certified organic extracts, this carefully crafted men’s shampoo is worth the try. Inspired by nature, this shampoo does all the right things - invigorates the scalp for growth, deeply cleanses your hair, all with a gentle scent that’s not too overpowering. A complete blend of certified organic extracts and oils will leave your hair smelling fresh. Treat your hair and scalp with the best ingredients and leave your hair looking lush and strong. Made in North America. Benefits Certified organic extracts strengthens hair growth Blend of lavender, lemon and chamomile leaves a gentle scent Formulated with ingredients to deeply clean excess oils from your scalp Paraben, gluten, and cruelty free Vegan and certified organic Net 10 fl. oz. / 300 mL Application Lather shampoo in wet hair Rinse with warm water Avoid contact with eyes Ingredients Aqua, Sodium Methyl 2-Sulfolaurate, Disodium 2-Sulfolaurate, Cetyl Betaine, Glycerin, Sodium Lauryl Sulfoacetate, Guar Hydroxypropyltrimonium Chloride, *CO Glycerin, *CO Humulus Lupulus (Hops) Extract, *CO Lavandula Angustifolia (Lavender) Flower/Leaf/Stem Extract, *CO Calendula Officinalis Flower Extract, *CO Chamomilla Recutita (Matricaria) Flower Extract, *CO Citrus Limon (Lemon) Peel Extract, *CO Cucumis Sativus (Cucumber) Seed Extract, *CO Camellia Sinensis Leaf Extract, *CO Pyrus Malus (Apple) Fruit Extract, *CO Spirulina Platensis Extract, Fragrance, Benzyl Alcohol, Dehydroacetic Acid *CO Certified Organic
+  Updated: 2025-10-14T11:46:03Z
+  Vendor: Lachrymal Gems
+  Product Type: 
   Availability: Available
-  - [White/Black / XS](https://lachrymalgems.store/products/ringer-t-shirt-decade-love-lost-skeletons-print?variant=47201974812917)
-    Availability: Available
-    Price: $31.90 USD
-  - [White/Black / S](https://lachrymalgems.store/products/ringer-t-shirt-decade-love-lost-skeletons-print?variant=47201974845685)
-    Availability: Available
-    Price: $31.90 USD
-  - [White/Black / M](https://lachrymalgems.store/products/ringer-t-shirt-decade-love-lost-skeletons-print?variant=47201974878453)
-    Availability: Available
-    Price: $31.90 USD
-  - [White/Black / L](https://lachrymalgems.store/products/ringer-t-shirt-decade-love-lost-skeletons-print?variant=47201974911221)
-    Availability: Available
-    Price: $31.90 USD
-  - [White/Black / XL](https://lachrymalgems.store/products/ringer-t-shirt-decade-love-lost-skeletons-print?variant=47201974943989)
-    Availability: Available
-    Price: $31.90 USD
-  - [White/Black / 2XL](https://lachrymalgems.store/products/ringer-t-shirt-decade-love-lost-skeletons-print?variant=47201974976757)
-    Availability: Available
-    Price: $34.57 USD
-  - [White/Black / 3XL](https://lachrymalgems.store/products/ringer-t-shirt-decade-love-lost-skeletons-print?variant=47201975009525)
-    Availability: Available
-    Price: $36.86 USD
+  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/85362-BLNK-SS-05-07-SMP.webp?v=1760399157
+  Price: $40.60 USD
+- [Rose Quartz Roller](https://lachrymalgems.store/products/rose-quartz-roller): Description Get the best-looking, detoxed skin you crave for with our high-impact rose quartz roller! Not only can you use this for your spa nights for relaxation, you can use it daily to reduce skin puffiness. The rose quartz roller stimulates lymphatic drainage and promotes blood circulation, making it the ideal tool to reduce fine lines and wrinkles. The best part? Our rose quartz roller will help skincare products penetrate deeper into the skin so match this with your current skin routine for extra benefits! Benefits Rose quartz is famously known to remain cool to the touch to reduce skin puffiness Stimulates lymphatic drainage to eliminate toxins Promotes blood circulation to reduce fine lines Reduces acne and oily skin symptoms Application Start in the middle of the face and roll outward towards the cheeks Start from the eyebrows and roll upward across the forehead Roll from under the lower lip down to the chin Rolling across the neck is optional Ingredients 100% Natural Rose Quartz Stone, Zinc Alloy, Aluminum
+  Updated: 2025-10-14T11:46:13Z
+  Vendor: Lachrymal Gems
+  Product Type: Beauty products
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/85362-BLNK-AB-04-02-RO-QZ1.webp?v=1760399169
+  Price: $25.90 USD
+- [Glow Mask](https://lachrymalgems.store/products/glow-mask): Description Experience the rejuvenating effects of our deep-cleansing Glow Mask, which restores radiance and revitalizes your complexion after a single spa night. Cleanse your skin thoroughly with this thermal charcoal formula, utilizing sodium bicarbonate to absorb surplus oil and unclog your pores. Use warm water to activate the binchotan white charcoal formula, purifying your skin by eliminating toxins and impurities. Discover the seamless harmony among the ingredients, working in unison to deliver an earthy, grounding scent. Effortlessly dissolve stress and debris simultaneously with your newfound favorite, the Glow Mask. Made in North America. Benefits Binchotan white charcoal formula purifies and detoxes your skin Invigorates and energizes the complexion for a healthy glow Natural, earthy, grounding scent Suitable for all oily and mixed skin types Vegan and cruelty-free Paraben-free and recyclable packaging Net wt. 2.2 oz. / 62.5 g Application Apply a generous amount to a dry, clean face, avoid the immediate eye area Leave for 5 minutes, then wet hands and massage into skin to activate Remove with moistened cotton pads and rinse well with warm water Follow with moisturizer or night cream Ingredients PEG-8, Sodium Bicarbonate, Butylene Glycol, Glyceryl Stearate, Silica, Kaolin, Charcoal Powder, Tocopheryl Acetate, Sea Salt, Potassium Stearate, Phenoxyethanol, Fragrance (Parfum)
+  Updated: 2025-10-14T11:46:27Z
+  Vendor: Lachrymal Gems
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/background-editor_output_09a7f8e6-6f29-46f0-8ec1-70ec8bf4245f.png?v=1760437251
+  Price: $51.80 USD
 
 ## Collections
 
@@ -1126,8 +1121,8 @@
   Updated: 2025-10-12T15:35:49Z
   Total Products: 2
 - [Magic Mirror](https://lachrymalgems.store/collections/magic-mirror): Rituals for your face, your frequency, and your feels.Reflections that remind you — you are the main character.
-  Updated: 2025-10-12T15:35:49Z
-  Total Products: 3
+  Updated: 2025-10-14T02:18:33Z
+  Total Products: 6
 - [Vibe bin](https://lachrymalgems.store/collections/vibe-bin): Everything that feeds the mood board of your life. Shop the little things that recharge your frequency.
   Updated: 2025-10-12T15:35:49Z
   Total Products: 6
