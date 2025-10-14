@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-10-14T16:00:39.977Z
+- Updated At: 2025-10-14T20:00:42.048Z
 
 ## Products
 
@@ -2818,7 +2818,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/scented-enzyme-block-urinal-screen-green-cucumber-melon-10-sheets-plastic-glove-urinal-screens-essential-supplies-387705.jpg?v=1719445804
   Price: $81.00 NZD
 - [Scented Enzyme Block Urinal Screen - Grey, Executive - 10 Sheets + Plastic Glove *Popular*](https://essentialsupplies.co.nz/products/scented-enzyme-block-urinal-screen-grey-executive-10-plastic-glove-popular): Scented enzyme urinal screens attack the problem of smell in your washroom from two completely different angles. As soon as the mat is placed in a clean urinal the premium fragrances work to mask any residual odour which may be present. The 50g enzymatic bacterial block at its centre then releases beneficial bacteria which digest the odour causing anaerobic bacteria, resulting in long term removal of malodours. The 50g block has a concentration of beneficial enzyme based bacteria to the level of 5.9 x 10 to the eighth per gram ensuring rapid response to lingering odours for up to 30 days. The screen will reduce the urine splash by up to 95% reducing cleaning time. Includes Glove Fragrance: Executive Colour: Grey Pack of 10 individually packed sheets
-  Updated: 2025-01-17T18:27:44Z
+  Updated: 2025-10-14T16:19:01Z
   Vendor: Mattews Packaging
   Product Type: Urinal Screens
   Availability: Available
@@ -2832,7 +2832,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/scented-enzyme-block-urinal-screen-blue-kiwi-grapefruit-10-sheets-plastic-glove-urinal-screens-essential-supplies-456258.jpg?v=1719445810
   Price: $81.00 NZD
 - [Scented Enzyme Block Urinal Screen - Dark Green, Super Lime - 10 Sheets + Plastic Glove](https://essentialsupplies.co.nz/products/scented-enzyme-block-urinal-screen-dark-green-super-lime-10-plastic-glove): Scented enzyme urinal screens attack the problem of smell in your washroom from two completely different angles.As soon as the mat is placed in a clean urinal the premium fragrances work to mask any residual odour which may be present. The 50g enzymatic bacterial block at its centre then releases beneficial bacteria which digest the odour causing anaerobic bacteria, resulting in long term removal of malodours. The 50g block has a concentration of beneficial enzyme based bacteria to the level of 5.9 x 10 to the eighth per gram ensuring rapid response to lingering odours for up to 30 days. The screen will reduce the urine splash by up to 95% reducing cleaning time. Includes Glove Fragrance: Super Lime Colour: Dark Green Pack of 10 individually packed sheets
-  Updated: 2024-11-21T15:43:55Z
+  Updated: 2025-10-14T18:49:56Z
   Vendor: Mattews Packaging
   Product Type: Urinal Screens
   Availability: Available
@@ -5322,7 +5322,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/neutral-floor-cleaner-beige-5l-refill-bottle-floor-care-essential-supplies-892216.jpg?v=1719445331
   Price: $60.00 NZD
 - [Floor Polish & Sealer - Clear, 5L Refill Bottle](https://essentialsupplies.co.nz/products/floor-polish-sealer-clear-5l-refill-bottle-2): Floor polish & sealer is a durable and hard wearing floor polish, which can be applied to a range of floor surfaces which will effectively perform a 2 in 1 polish and seal job. Offering excellent durability and resistance to black heel marks, scuffs and dirt.
-  Updated: 2025-01-16T10:22:57Z
+  Updated: 2025-10-14T16:44:10Z
   Vendor: Mattews Packaging
   Product Type: Floor Care
   Availability: Available
