@@ -6,12 +6,12 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-07-26T03:23:12Z
 - Contact Email: donedeals.xyz@gmail.com
-- Updated At: 2025-10-14T04:00:58.836Z
+- Updated At: 2025-10-14T16:00:55.694Z
 
 ## Products
 
 - [LED PIR Motion Sensor Cabinet  With USB Rechargeble](https://donedeals.xyz/products/led-pir-motion-sensor-cabinet-with-usb-rechargeble): Product Name: LED PIR Motion Sensor Cabinet Light With USB Rechargeble Package Contains: 1 PieceColour Temperature- 2500 - 3000 K WarmCord Colour- WirelessNumber of light - 3 lightsFeatures- Battery Operated, Colour-Changing, Dimmable, Easy Installation, Energy Efficient, Energy Saving, Even Lighting, Low Voltage, PIR Motion Sensor, Portable, Rechargeable, Rust Resistant, Sensor, Smart Enabled, Spotlight, Stick-On, USB, Wall Mounted, Waterproof, Wireless, With LightLight Colour- Neutral White, Warm White, WhitePower Source - USBCombo: Pack of 1Weight: 400gramLBH - ? ?40L x 4W x 8.6H Centimeters
-  Updated: 2025-10-13T15:46:48Z
+  Updated: 2025-10-14T15:46:33Z
   Vendor: rakqr0-pn
   Product Type: 
   Availability: Available
@@ -115,7 +115,7 @@
     Availability: Available
     Price: ₹301.00 INR
 - [Casuals For Men (Black)](https://donedeals.xyz/products/casuals-for-men-black): jootiyapa brand casual shoes for men in black color. Made with mesh outer material and features lace-up closure. Ideal for casual occasions. Available in sizes 6-10 UK/India (Euro Size 41). Article Number: S-ADVANCHAR. Brand: jootiyapa. Available in multiple colors including Black, Grey, and TBlue.
-  Updated: 2025-10-12T12:58:07Z
+  Updated: 2025-10-14T06:44:30Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
@@ -9370,12 +9370,12 @@
   Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/hnwfa_512.webp?v=1759220885
   Price: ₹315.00 INR
 - [MANBAT OVERSIZED TSHIRT](https://donedeals.xyz/products/manbat-oversized-tshirt-1): Product Details Name : MANBAT OVERSIZED TSHIRT Fabric : Cotton Sleeve Length : Short Sleeves Pattern : Printed Net Quantity (N) : 1 Sizes : S (Chest Size : 38 in, Length Size: 26 in) M (Chest Size : 40 in, Length Size: 26.5 in) L (Chest Size : 42 in, Length Size: 27 in) XL (Chest Size : 44 in, Length Size: 27.5 in) XXL (Chest Size : 46 in, Length Size: 28 in) printed oversize t-shirt men Country of Origin : India More Information
-  Updated: 2025-09-30T08:28:23Z
+  Updated: 2025-10-14T06:48:41Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/y0o5m_512_d713b822-5fee-4560-ae15-2578fe513573.webp?v=1759220892
-  Price: ₹0.00 INR
+  Price: ₹299.00 INR
 - [FinZee Polo Neck Solid Tshirt Full Sleeve Cotton Blend Fabric high quality Premium](https://donedeals.xyz/products/finzee-polo-neck-solid-tshirt-full-sleeve-cotton-blend-fabric-high-quality-premium): Product Details Name : FinZee Polo Neck Solid Tshirt Full Sleeve Cotton Blend Fabric high quality Premium Fabric : Cotton Blend Sleeve Length : Long Sleeves Pattern : Striped Net Quantity (N) : 1 Sizes : S (Chest Size : 18 in, Length Size: 27 in) M (Chest Size : 19 in, Length Size: 27.5 in) L (Chest Size : 20 in, Length Size: 28 in) XL (Chest Size : 21 in, Length Size: 28.5 in) XXL (Chest Size : 22 in, Length Size: 29 in) FinZee Premium Quality CottonBlend T-Shirt Elevate your everyday wardrobe with the Dobuddy Premium Quality Polyester T-Shirt. Crafted from high-grade polyester, this T-shirt delivers a superior blend of comfort, durability, and style. The fabric boasts a soft, smooth texture that feels gentle against your skin, while its moisture-wicking properties keep you cool and dry throughout the day. Designed with a modern, streamlined fit, this T-shirt offers a sleek silhouette without sacrificing freedom of movement. The vibrant colors and sharp prints retain their brilliance wash after wash, thanks to the fabric's exceptional colorfastness. Whether you're hitting the gym, running errands, or just relaxing, the Dobuddy T-Shirt provides the perfect balance of functionality and fashion. Country of Origin : India More Information
   Updated: 2025-09-30T09:11:26Z
   Vendor: DoneDeals
@@ -26581,6 +26581,69 @@
   - [9](https://donedeals.xyz/products/designer-women-casual-party-wear-flat?variant=43677200842803)
     Availability: Available
     Price: ₹254.00 INR
+- [Silver_Much_Chappal](https://donedeals.xyz/products/silver_much_chappal): Product Details Name : Silver_Much_Chappal Material : Velvet Sole Material : Pvc Pattern : Textured Fastening & Back Detail : Open Back Net Quantity (N) : 1 Sizes : IND-5 (Foot Length Size : 25.4 cm) IND-6 (Foot Length Size : 26 cm) IND-7 (Foot Length Size : 27 cm) IND-8 (Foot Length Size : 27.9 cm) IND-9 (Foot Length Size : 26 cm) Country of Origin : India More Information
+  Updated: 2025-10-14T10:21:45Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/zpmua_512.webp?v=1760165668
+  - [5](https://donedeals.xyz/products/silver_much_chappal?variant=43677201203251)
+    Availability: Available
+    Price: ₹159.00 INR
+  - [6](https://donedeals.xyz/products/silver_much_chappal?variant=43677201236019)
+    Availability: Available
+    Price: ₹159.00 INR
+  - [7](https://donedeals.xyz/products/silver_much_chappal?variant=43677201268787)
+    Availability: Available
+    Price: ₹159.00 INR
+  - [8](https://donedeals.xyz/products/silver_much_chappal?variant=43677201301555)
+    Availability: Available
+    Price: ₹159.00 INR
+  - [9](https://donedeals.xyz/products/silver_much_chappal?variant=43677201334323)
+    Availability: Available
+    Price: ₹159.00 INR
+- [WOMEN FLAT SANDALS/ PARTY WEAR SANDALS FOR WOMEN/ WOMENS FASHION FLAT/TRENDY SANDALS FOR GIRLS](https://donedeals.xyz/products/women-flat-sandals-party-wear-sandals-for-women-womens-fashion-flat-trendy-sandals-for-girls): Product Details Name : WOMEN FLAT SANDALS/ PARTY WEAR SANDALS FOR WOMEN/ WOMENS FASHION FLAT/TRENDY SANDALS FOR GIRLS Material : Syntethic Leather Sole Material : Pvc Pattern : Striped Fastening & Back Detail : Slip-On Net Quantity (N) : 1 Trendy Design : Stylish bow-knot detailing with shimmering strap adds elegance and charm to your look. Premium Comfort : Soft cushioned footbed for all-day wear without discomfort. Durable Build : Made with high-quality synthetic material ensuring long-lasting use. Versatile Wear : Perfect for casual outings, festive occasions, parties, and daily use. Modern Look : Square toe shape with chic finish gives a fashionable and premium touch. Easy to Match : Neutral mauve shade pairs well with ethnic wear, western outfits, and party dresses. Lightweight & Easy to Carry : Comfortable for everyday walking and travel.ladies fancy sandals party wear slippers for women stylish bow sandals women’s fashion flats trendy sandals for girls wedding party footwear women casual ethnic wear slippers designer sandals for women comfortable flat sandals daily wear fashionable slippers ladies chappal stylish bow knot sandals for women women flat heels sandals festive footwear for women western party sandals Sizes : IND-5 (Foot Length Size : 24.1 cm, Foot Width Size: 8.3 cm) IND-6 (Foot Length Size : 24.6 cm, Foot Width Size: 8.3 cm) IND-7 (Foot Length Size : 25.4 cm, Foot Width Size: 8.8 cm) IND-8 (Foot Length Size : 25.9 cm, Foot Width Size: 8.8 cm) Country of Origin : India More Information
+  Updated: 2025-10-14T10:20:00Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/cgia1_512.webp?v=1760165677
+  - [5](https://donedeals.xyz/products/women-flat-sandals-party-wear-sandals-for-women-womens-fashion-flat-trendy-sandals-for-girls?variant=43677201367091)
+    Availability: Available
+    Price: ₹417.00 INR
+  - [6](https://donedeals.xyz/products/women-flat-sandals-party-wear-sandals-for-women-womens-fashion-flat-trendy-sandals-for-girls?variant=43677201399859)
+    Availability: Available
+    Price: ₹417.00 INR
+  - [7](https://donedeals.xyz/products/women-flat-sandals-party-wear-sandals-for-women-womens-fashion-flat-trendy-sandals-for-girls?variant=43677201432627)
+    Availability: Available
+    Price: ₹417.00 INR
+  - [8](https://donedeals.xyz/products/women-flat-sandals-party-wear-sandals-for-women-womens-fashion-flat-trendy-sandals-for-girls?variant=43677201465395)
+    Availability: Available
+    Price: ₹417.00 INR
+  - [9](https://donedeals.xyz/products/women-flat-sandals-party-wear-sandals-for-women-womens-fashion-flat-trendy-sandals-for-girls?variant=43677201498163)
+    Availability: Available
+    Price: ₹417.00 INR
+- [Stylish Women's Slip-On Flats Combo for Daily Use](https://donedeals.xyz/products/stylish-womens-slip-on-flats-combo-for-daily-use): Product Details Name : Stylish Women's Slip-On Flats Combo for Daily Use Material : EVA Sole Material : Pvc Pattern : Solid Fastening & Back Detail : No Back Strap Net Quantity (N) : 2 Step out in style and comfort with this Buy 1 Get 1 Free combo pack of women’s flat slip-on sandals. Perfect for daily wear, these sandals feature a soft sole and lightweight design that keeps your feet relaxed all day. Designed for modern women, these no-heel sandals pair well with ethnic wear, jeans, kurtis, and casual outfits. Crafted for everyday use, these sandals come in a combo pack of 2 stylish designs that are both fashionable and practical. Whether you're going to the market, office, college, or on a casual outing, this combo offers comfort, value, and trend in one. Combo of 2 Slip-On Flat Sandals – Buy 1 Get 1 Free ✅ Soft Sole & No-Heel Design for all-day comfort Ideal for daily use, college, office & casual wear Available in trendy designs & neutral colors Lightweight, stylish & easy to slip on and off Easy to clean and long-lasting materia Sizes : IND-4 (Foot Length Size : 21.5 cm) IND-5 (Foot Length Size : 22.5 cm) IND-6 (Foot Length Size : 23.5 cm) IND-7 (Foot Length Size : 24 cm) IND-8 (Foot Length Size : 24.5 cm) IND-9 (Foot Length Size : 25.5 cm) Country of Origin : India More Information
+  Updated: 2025-10-14T10:20:01Z
+  Vendor: DoneDeals
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/sxgdr_512.webp?v=1760165687
+  - [5](https://donedeals.xyz/products/stylish-womens-slip-on-flats-combo-for-daily-use?variant=43677201530931)
+    Availability: Available
+    Price: ₹324.00 INR
+  - [6](https://donedeals.xyz/products/stylish-womens-slip-on-flats-combo-for-daily-use?variant=43677201563699)
+    Availability: Available
+    Price: ₹324.00 INR
+  - [7](https://donedeals.xyz/products/stylish-womens-slip-on-flats-combo-for-daily-use?variant=43677201596467)
+    Availability: Available
+    Price: ₹324.00 INR
+  - [8](https://donedeals.xyz/products/stylish-womens-slip-on-flats-combo-for-daily-use?variant=43677201629235)
+    Availability: Available
+    Price: ₹324.00 INR
+  - [9](https://donedeals.xyz/products/stylish-womens-slip-on-flats-combo-for-daily-use?variant=43677201662003)
+    Availability: Available
+    Price: ₹324.00 INR
 
 ## Collections
 
@@ -26609,13 +26672,13 @@
   Updated: 2025-10-08T09:12:11Z
   Total Products: 0
 - [all](https://donedeals.xyz/collections/all)
-  Updated: 2025-10-13T11:12:17Z
-  Total Products: 2372
+  Updated: 2025-10-14T10:18:41Z
+  Total Products: 2373
 - [men watch](https://donedeals.xyz/collections/men-watch)
   Updated: 2025-10-08T09:12:11Z
   Total Products: 89
 - [T-shirt](https://donedeals.xyz/collections/men-t-shirt)
-  Updated: 2025-10-08T09:12:11Z
+  Updated: 2025-10-14T06:48:41Z
   Total Products: 111
 - [kitehen](https://donedeals.xyz/collections/kitehen)
   Updated: 2025-10-10T12:15:39Z
