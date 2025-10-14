@@ -7,7 +7,7 @@
 - Created At: 2025-05-23T17:13:08Z
 - Contact Email: sklep@lunnea.pl
 - Address: Nowa Wola Gołębiowska 40, Radom 26-613 Polska
-- Updated At: 2025-10-14T00:00:32.832Z
+- Updated At: 2025-10-14T08:00:29.462Z
 
 ## Products
 
@@ -57,7 +57,7 @@
     Availability: Available
     Price: 139,00 zł PLN
 - [Bransoletka czarno złota z okrągłą zawieszką](https://lunnea.pl/products/bransoletka-czarno-zlota-z-okragla-zawieszka): Elegancka bransoletka handmade z czarnych kryształków i złotego hematytu Ręcznie robiona bransoletka z czarnych kryształków i złotego hematytu to idealna propozycja dla kobiet ceniących elegancję i subtelną wyrazistość.
-  Updated: 2025-10-13T16:53:42Z
+  Updated: 2025-10-14T04:53:47Z
   Vendor: Lunnea
   Product Type: Bransoletka
   Availability: Available
@@ -552,6 +552,10 @@
     Updated: 2025-10-12T13:37:00Z
     Author: Admin
     Tags: Cynk w biżuterii, Cynkowa biżuteria, Czernienie biżuterii, Złocenie biżuterii, Złota biżuteria
+  - [Ametyst znaczenie - kamień o niezwykłym uroku](https://lunnea.pl/blogs/news/ametyst-znaczenie-kamien-o-niezwyklym-uroku): Poznaj znaczenie ametystów i odkryj naszą kolekcję ręcznie wykonanej biżuterii z tymi niezwykłymi kamieniami.
+    Updated: 2025-10-14T02:15:01Z
+    Author: Admin
+    Tags: Ametyst znaczenie, Kamień do medytacji, Kamień ochronny, Kamień szlachetny, Mistyczne właściwości ametystu, Symbolizm ametystu
 
 ## Store Pages
 
