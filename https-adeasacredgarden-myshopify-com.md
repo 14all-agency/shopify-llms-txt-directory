@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-09-27T21:18:07Z
 - Contact Email: adeasacredgarden@gmail.com
-- Updated At: 2025-10-14T11:06:52.275Z
+- Updated At: 2025-10-14T20:00:27.580Z
 
 A’Dea’s Sacred Garden is a microgreens grower based in Tinley Park, Illinois, specializing in locally grown, nutrient-rich greens including broccoli, sunflower, radish, pea shoots, and basil. Our mission is to bring fresh, sustainable, and intentional food to the Chicagoland area through local delivery and wholesale distribution.
 
@@ -74,7 +74,7 @@ A’Dea’s Sacred Garden is a microgreens grower based in Tinley Park, Illinois
     Availability: Available
     Price: $39.95 USD
 - [Sunflower Microgreens - Nutty & Crunchy | A'Dea's](https://adeasacredgarden.myshopify.com/products/black-oil-sunflower-microgreens): Fresh sunflower microgreens with nutty flavor. Packed with vitamin E & B vitamins. Perfect for salads, wraps & bowls. Free delivery on $20+.
-  Updated: 2025-10-14T01:48:48Z
+  Updated: 2025-10-14T11:26:59Z
   Vendor: A'Dea's Sacred Garden
   Product Type: Microgreens
   Availability: Available
