@@ -9,7 +9,7 @@
 - Created At: 2023-11-20T15:32:25Z
 - Contact Email: hello@inky-ingredients.com
 - Address: Units 2, 3 & 5 Athelstan Business Park Hanwell Lane, Hutton Conyers Ripon, North Yorkshire HG4 5BF, UK
-- Updated At: 2025-10-13T20:00:35.943Z
+- Updated At: 2025-10-14T08:00:36.417Z
 
 The UK's largest natural ingredients supplier. INKY Ingredients supplies formulators and makers as well as the general public with the UK's widest range of essential oils, cold pressed oils, waxes, soaps, butters and more. We hold a 7 sustainability accreditations and are committed to providing an unparalleled selection of premium natural oil ingredients, fostering sustainability, and championing the sustainable beauty movement.
 
@@ -2120,7 +2120,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £24.50 GBP
 - [Sunflower Seed Oil, Refined](https://inky-ingredients.com/products/sunflower-seed-oil-refined): Refined sunflower seed oil is a lightweight and odorless oil rich in vitamin E. With its moisturising properties, it is suitable for skincare formulations, leaving the skin soft and supple.
-  Updated: 2025-10-12T15:47:21Z
+  Updated: 2025-10-13T23:53:45Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -3368,7 +3368,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £238.80 GBP
 - [Jojoba Seed Oil, Refined](https://inky-ingredients.com/products/jojoba-seed-oil-refined): Refined Jojoba Seed Oil, with a clear appearance, is a versatile moisturiser. It closely resembles the skin's natural oils, providing hydration without greasiness. Ideal for skincare, haircare, and massage applications.
-  Updated: 2025-09-26T09:47:42Z
+  Updated: 2025-10-13T23:53:45Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -5382,7 +5382,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £320.40 GBP
 - [Kukui Nut Oil, Refined](https://inky-ingredients.com/products/kukui-nut-oil-refined): Refined Kukui Nut Oil, derived from Hawaiian nuts, is a versatile moisturiser. Rich in essential fatty acids, it nourishes and soothes the skin without a greasy feel. Ideal for skincare formulations aiming for lightweight hydration.
-  Updated: 2025-09-26T09:22:10Z
+  Updated: 2025-10-13T23:53:46Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -7110,7 +7110,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Not Available
     Price: £258.00 GBP
 - [Elderberry Seed Oil, Cold Pressed Organic](https://inky-ingredients.com/products/elderberry-seed-oil-cold-pressed-organic)
-  Updated: 2025-10-13T11:09:37Z
+  Updated: 2025-10-14T07:46:23Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
