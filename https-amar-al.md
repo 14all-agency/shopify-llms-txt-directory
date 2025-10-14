@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2025-01-13T13:26:43Z
 - Contact Email: info@amar.al
-- Updated At: 2025-10-13T20:00:36.944Z
+- Updated At: 2025-10-14T00:00:35.275Z
 
 ## Products
 
@@ -753,7 +753,7 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/180-Lirene-ANTI-CELLULITE-MESOTHERAPY-Body-shape-remodel-cellulite-and-fat-reducer-200-ml-1.png?v=1737122482
   Price: ALL 0.00 ALL
 - [Lirene BB Cream 30 ml - Amar Pharma - Lirene - Krem BB](https://amar.al/products/lirene-bb-cream-30-ml): BB cream is the perfect combination of makeup and skin care. - Amar Pharma - Lirene - Krem BB
-  Updated: 2025-10-13T09:32:19Z
+  Updated: 2025-10-13T21:31:34Z
   Vendor: Lirene
   Product Type: Krem BB
   Availability: Available
