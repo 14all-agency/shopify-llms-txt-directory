@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-07-26T03:23:12Z
 - Contact Email: donedeals.xyz@gmail.com
-- Updated At: 2025-10-14T16:00:55.694Z
+- Updated At: 2025-10-14T20:00:59.837Z
 
 ## Products
 
@@ -9370,7 +9370,7 @@
   Image: https://cdn.shopify.com/s/files/1/0658/2406/3539/files/hnwfa_512.webp?v=1759220885
   Price: ₹315.00 INR
 - [MANBAT OVERSIZED TSHIRT](https://donedeals.xyz/products/manbat-oversized-tshirt-1): Product Details Name : MANBAT OVERSIZED TSHIRT Fabric : Cotton Sleeve Length : Short Sleeves Pattern : Printed Net Quantity (N) : 1 Sizes : S (Chest Size : 38 in, Length Size: 26 in) M (Chest Size : 40 in, Length Size: 26.5 in) L (Chest Size : 42 in, Length Size: 27 in) XL (Chest Size : 44 in, Length Size: 27.5 in) XXL (Chest Size : 46 in, Length Size: 28 in) printed oversize t-shirt men Country of Origin : India More Information
-  Updated: 2025-10-14T06:48:41Z
+  Updated: 2025-10-14T18:58:19Z
   Vendor: DoneDeals
   Product Type: 
   Availability: Available
