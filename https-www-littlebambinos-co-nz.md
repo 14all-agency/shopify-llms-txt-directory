@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2014-08-05T01:45:52Z
 - Contact Email: info@littlebambinos.co.nz
-- Updated At: 2025-10-14T00:00:50.020Z
+- Updated At: 2025-10-14T04:00:49.557Z
 
 ## Products
 
@@ -329,7 +329,7 @@
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/Originals1copy.jpg?v=1633398218
   Price: $20.00 NZD
 - [HONEYSTICKS Bath Crayons](https://www.littlebambinos.co.nz/products/honeysticks-bath-crayons): Crayons made for bath time! These jumbo sized, 100% natural & food-grade, biodegradable and reusableÂ crayons are theÂ perfectÂ way to make bath time FUN! Nothing will go in the rubbish, even the wrap is made from rocks! DETAILS Easy clean food grade colourantsÂ making clean up super easy Made from an all natural soy beeeswax blend Made in New Zealand Seven vibrant colours: blue, maroon, green, orange, pink, yellow and brown Crayon dimensions: 10cm long, 2cm thick. Honeysticks was created out of necessity. TheyÂ take traditional art supplies found in schools and homes, remove all of the chemicals and nasty ingredients and recreate them to be better.Â TheirÂ products are handmade in New Zealand using foodgrade and natural ingredients. Designed to be durable and ergonomic with your childâ€™s developmental needs in mind.
-  Updated: 2025-08-07T00:56:45Z
+  Updated: 2025-10-14T00:39:57Z
   Vendor: Honeysticks
   Product Type: Crayon
   Availability: Available
@@ -2900,13 +2900,6 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/image_540x_485153ba-497a-4401-8319-d20f8529d5d2.jpg?v=1665538292
   Price: $34.00 NZD
-- [Lion + Lamb Milestone Set - Rainbow](https://www.littlebambinos.co.nz/products/lion-lamb-milestone-set-rainbow): Capture and treasure your little darlings milestones with our unique laser engraved wooden discs. The rainbow design is a gorgeous gender neutral gift idea for expecting parents.
-  Updated: 2025-08-06T22:46:24Z
-  Vendor: Lion + Lamb
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/products/image_540x_7439fad5-064c-4dac-9e75-f77946ed502d.jpg?v=1665538219
-  Price: $34.00 NZD
 - [SONNIE Charlie Short - Off White](https://www.littlebambinos.co.nz/products/sonnie-charlie-short-off-white): The Charlie Long Shorts are a summer must-have. They are lightweight and loose fitting with an elasticated waist, back pocket, signature Sonnie flag embroidery and cut in 100% GOTS certified organic cotton.Â DETAILS 100% GOTS certified organic cotton jersey Elasticated waistband Loose leg Sonnie embroidery at thigh Back & side pockets Composition: 100% organic cotton - GOTS Certified.Â CARE: Machine wash cold. Tumble dry low.Â GOTS (Global Organic Textile Standard) is the worldâ€™s highestÂ certification of organic fibres. The GOTS label ensures a garment is authentically organic from seed to finished product.
   Updated: 2025-08-06T22:46:25Z
   Vendor: Sonnie
@@ -4079,21 +4072,6 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Price: $39.00 NZD
   - [9m](https://www.littlebambinos.co.nz/products/konges-slojd-collette-2-pack-baby-bikini-pants-orangery-blue?variant=39968676773982)
     Availability: Available
-    Price: $39.00 NZD
-- [KONGES SLOJD Classic Ls Body - Fleur Tricolore](https://www.littlebambinos.co.nz/products/konges-slojd-classic-ls-body-gots-fleur-tricolore): Soft body made in 100 percent organic cotton with picot edges. Designed with a practical envelope neck and snap buttons between the legs.
-  Updated: 2025-09-01T03:17:04Z
-  Vendor: Konges slojd
-  Product Type: Bodysuits
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/KS4846-CLASSICLSNEWBORNBODYGOTS-FLEURTRICOLORE-Main.jpg?v=1719282489
-  - [0-1m](https://www.littlebambinos.co.nz/products/konges-slojd-classic-ls-body-gots-fleur-tricolore?variant=39968675299422)
-    Availability: Available
-    Price: $39.00 NZD
-  - [3m](https://www.littlebambinos.co.nz/products/konges-slojd-classic-ls-body-gots-fleur-tricolore?variant=39968675332190)
-    Availability: Not Available
-    Price: $39.00 NZD
-  - [6m](https://www.littlebambinos.co.nz/products/konges-slojd-classic-ls-body-gots-fleur-tricolore?variant=39968675364958)
-    Availability: Not Available
     Price: $39.00 NZD
 - [KONGES SLOJD Classic Newborn Onesie - Fleur Tricolore](https://www.littlebambinos.co.nz/products/konges-slojd-classic-newborn-onesie-gots-fleur-tricolore): Soft onesie made in 100 percent organic cotton with picot edges. Snap buttons along the sides make it easy to wrap the garment around the baby.
   Updated: 2025-08-31T15:28:03Z
@@ -8825,7 +8803,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $59.00 NZD
 - [RYLEE + CRU Cru Baggy Cord Pant - Saddle Check](https://www.littlebambinos.co.nz/products/rylee-cru-cru-baggy-cord-pant-saddle-check): Super soft slub knit pant in almond from Rylee and Cru. Wooden button detail at center front. Featuring elastic waistband, and a relaxed fit. Shop Rylee + Cru for kids. Free shipping within New Zealand on orders over $100.
-  Updated: 2025-08-06T22:49:02Z
+  Updated: 2025-10-14T01:04:06Z
   Vendor: rylee + cru
   Product Type: Bottoms
   Availability: Available
@@ -8834,7 +8812,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $69.00 NZD
   - [18-24m](https://www.littlebambinos.co.nz/products/rylee-cru-cru-baggy-cord-pant-saddle-check?variant=41071489155166)
-    Availability: Available
+    Availability: Not Available
     Price: $69.00 NZD
   - [2-3y](https://www.littlebambinos.co.nz/products/rylee-cru-cru-baggy-cord-pant-saddle-check?variant=41071489187934)
     Availability: Not Available
@@ -11099,7 +11077,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BBB_1508_OPTIMISED.jpg?v=1734473001
   Price: $12.00 NZD
 - [BYEBYEBAD Prebiotic Handwash — Fresh forest scent with exfoliating pumice 550ml](https://www.littlebambinos.co.nz/products/prebiotic-handwash-fresh-forest-scent-with-exfoliating-pumice): byebyebad ™ Prebiotic Handwash with Fresh Forest scent & exfoliating pumice says bye to bad bacteria by cleaning hands (important) while leaving your hands smelling and feeling like you’ve touched the tree of life (bonus). But it also nourishes the good bacteria unlike other harsh products that strip them off. That’s thanks to the prebiotic skin loving ingredients which act as a food source for your naturally occurring probiotics, keeping them fed, happy and healthy and your skin soft and moisturised. Your hands will be clapping for it. 98% natural protects the skin barrier rebalances skin ph levels soap free formulation antibacterial & antioxidant bioactive totarol™ made in new zealand cruelty free vegan friendly smooth operator Ingredients: Aqua (Water); Sodium Coco Sulfate; Coco Glucoside; Aloe Barbadensis (Aloe Vera) Leaf Juice; Pumice; Fragrance (100% natural); Totarol; Helianthus Annuus (Sunflower) Seed Oil; Polysorbate 60; Caprylhydroxamic Acid; Glyceryl Caprylate; Glycerin; Guar Hydroxypropyltrimonium Chloride; Dehydroacetic Acid; Benzyl Alcohol; Alcohol; Acrylates/C10-30 Alkyl Acrylate Crosspolymer; Caramel.
-  Updated: 2025-10-13T12:06:40Z
+  Updated: 2025-10-14T02:50:44Z
   Vendor: byebyebad™
   Product Type: 
   Availability: Available
@@ -12291,7 +12269,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $73.00 NZD
 - [GROWN Everyday Pants - Paint](https://www.littlebambinos.co.nz/products/grown-everyday-pants-paint): 100% CottonCool gentle machine wash Fit is true to size. Refer to size chart for garment measurement. Studio Model is aged 4 and wearing a size 4.
-  Updated: 2025-09-13T21:40:31Z
+  Updated: 2025-10-14T01:04:05Z
   Vendor: Grown
   Product Type: Pants
   Availability: Available
@@ -12300,7 +12278,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $62.00 NZD
   - [18-24m](https://www.littlebambinos.co.nz/products/grown-everyday-pants-paint?variant=41416557985886)
-    Availability: Available
+    Availability: Not Available
     Price: $62.00 NZD
   - [2-3y](https://www.littlebambinos.co.nz/products/grown-everyday-pants-paint?variant=41416558018654)
     Availability: Available
@@ -12676,13 +12654,13 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $78.00 NZD
 - [HUXBABY Dreamy Denim Shorts - Denim](https://www.littlebambinos.co.nz/products/huxbaby-dreamy-denim-shorts-denim): No other shorts compare. Made from the softest denim you’ll ever feel, they feature a kid-friendly elasticated waistband and adjustable drawstring. Front and back pockets hide treasures perfectly, and an oversized, relaxed cut looks cool on every occasion. Spot the Spot the Huxbear patch on the bum as they run away to play.
-  Updated: 2025-08-06T22:36:49Z
+  Updated: 2025-10-14T01:04:07Z
   Vendor: HUXBABY
   Product Type: Shorts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/HB6022W25_01_WHITE.jpg?v=1741123830
   - [1y](https://www.littlebambinos.co.nz/products/huxbaby-dreamy-denim-shorts-denim?variant=41450122903646)
-    Availability: Available
+    Availability: Not Available
     Price: $67.00 NZD
   - [2y](https://www.littlebambinos.co.nz/products/huxbaby-dreamy-denim-shorts-denim?variant=41450122936414)
     Availability: Available
@@ -13284,14 +13262,14 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/stress_relief_3d85644d-7191-425c-bb69-cc6ff0660e8e.jpg?v=1744072591
   Price: $39.00 NZD
 - [ORIA SKIN Rose Calming Toner](https://www.littlebambinos.co.nz/products/pink-moon-calming-toner): 100% Natural Restore hydration.Reduce inflammation.Bring balance. Soothe stressed, damaged or dry skin with this refreshing face mist. Nature's calming rose water hydrates & relieves skin irritation while balancing your protective barrier. Geranium’s hormone balancing, healing and antiseptic properties are suitable for dry, oily or combination skin. Use as a traditional toner or when extra hydration is needed. Balance is the key to your glow. How this works: Rosewater has anti-inflammatory properties that can help you get rid of acne, eczema, dermatitis and reduces redness of irritated skin. Hydrates, revitalises, and moisturises the skin. Helps to maintain the skin's pH balance and is suitable for all types of skin. How to use Mist over face after cleansing or when extra hydration is needed. Follow with serum, moisturiser and oil to complete your skin regime. Ingredients Rosa damascena distillate* (Rose Hydrosol), Aqua, Hamamelis Virginiana* Witch Hazel, Water (and) Alcohol, Pelargonium graveolens* (Geranium essential oil). *organic
-  Updated: 2025-10-12T03:22:45Z
+  Updated: 2025-10-14T00:42:46Z
   Vendor: Oria Skin
   Product Type: Skincare
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/rose_calming_toner_6abfe88c-d35b-4d05-a12f-049533b6db78.jpg?v=1744072563
   Price: $49.00 NZD
 - [ORIA SKIN Luminous Cleanse Oil](https://www.littlebambinos.co.nz/products/sol-luminous-cleanse-oil): 100% Natural Soothe inflammation.Deep hydration.Remove makeup. Named ‘luminous’ for a reason. A natural all-in-one cleanser & face oil that works to solve hormonal skin challenges, including breakouts, inflammation & dryness. Non-comedogenic peptides & ceramides – including coriander oil & rock rose – balance your skin’s natural oil levels, while clearing & soothing inflammation, leaving behind a renewed glow. Cleanse or hydrate with Luminous Skin Oil’s combination of antioxidants, vitamins & fatty acids for skin that’s clean, clear, soft & replenished. How it works: Sunflower oil removes dead skin from the cells, this will clear clogged pores making them in turn smaller and tighter Hazelnut oil is a n oil regulator so it is good for acne prone skin, balances your complexion without stripping it of its natural, vital oils. Coriander essential oil is an absolute secret queen in skincare - it helps fade dark spots and scars with its high vitamin c, has a anti-ageing properties while being a good remedy for pimples. Cistus is also amazing for healing wounds or spots, antibacterial and firming. How To Use For cleansing – apply oil to a dry face & wipe clean with a warm wet cloth before your skin regime. For the double-cleanse method use Luminous Cleanse oil first, wipe away with warm cloth, follow with Gentle Cleansing Milk as per instruction. For use as an oil – apply to your face & neck at the end of your routine. Ingredients Helianthus annuus* (Sunflower Oil), Corylus avellana (Hazelnut Oil), Sesamum indicum* (Sesame Oil), Carthumus tinctorius* (Safflower Oil), Hippophae rhamnoides* (Sea Buckthorn), Coriandrum sativum (Coriander Essential Oil), Cistus ladaniferus (Cistus essential oil) *Organic
-  Updated: 2025-10-08T09:22:40Z
+  Updated: 2025-10-14T00:40:42Z
   Vendor: Oria Skin
   Product Type: Skincare
   Availability: Available
@@ -13343,7 +13321,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Brightening_enzyme_polish_0e4248ac-be4d-462a-9664-dc5effe82b4f.jpg?v=1744072243
   Price: $69.00 NZD
 - [ORIA SKIN Gentle Cleansing Milk](https://www.littlebambinos.co.nz/products/gentle-cleansing-milk): 100% Natural Soothe inflammation.Deep hydration.Bring balance. Working with your skin, not against it, Gentle Cleansing Milk uses hormone-friendly ingredients including organic chamomile, castor oil & palmarosa to clean & purify. Remove the day’s grime while balancing your skin’s natural oils, to keep your skin healthy & hydrated. How this works: Chamomile water removes excess oil, dirt and impurities for your pores without stripping it from it's natural moisture. While soothing and reduces redness and inflammation Castor Oil - antimicrobial - which means it can help decrease pimples and bacteria Jojoba - Softens and soothes your skin How to use Use to cleanse morning & night. Apply to a damp face & leave it to work its magic while you complete your bathroom routine. Rinse off & follow with Oria Skin serum, moisturiser & oil for the best glow. For the double-cleanse method, use Luminous Cleanse oil first, wipe away with warm cloth, follow with Gentle Cleansing Milk as per instruction. Ingredients Aqua, Matricaria recutita distillate (Chamomile Water), Simmondsia chinensis seed oil* (Jojoba), Ricinus communis seed oil* (Castor), Cetearyl Olivate & Sorbitan Olivate (Emulsifying wax), Glycerin, Geogard 221 & Cymbopogon martinii (Palmarosa essential oil). *Organic
-  Updated: 2025-10-13T23:50:42Z
+  Updated: 2025-10-14T03:50:41Z
   Vendor: Oria Skin
   Product Type: Skincare
   Availability: Available
@@ -15713,7 +15691,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Little-Bambinos-Connetix-Magnetic-Blocks-Toys-48-pieces-Bright-Portal-Pack-1_1000x1000_4411a74e-a294-418c-83b7-efde0148d533.webp?v=1754442773
   Price: $140.00 NZD
 - [LIL MOO Portable Bottle Warmer](https://www.littlebambinos.co.nz/products/portable-bottle-warmer-white): Never be caught out with a cold bottle again! Heat bottles wherever, whenever. Ultra-Compact & Lightweight – Unlike other bulky warmers, this sleek design takes up minimal space in your baby bag. Super lightweight and conveniently small. Cordless & Rechargeable – No power outlet? No problem. Easily charge via USB at home, in the car, or with a power bank. Fast, Even Heating – Heats water, breastmilk or formula quickly and evenly, with no hot spots. Safe for vital nutrients found in breastmilk & formula. Perfect Temperature Every Time – Built-in smart temperature control keeps milk at the ideal warmth. Choose from 37°c, 40°c, or 45°c. Compatible with Most Bottles – No need to buy special bottles, works with most major brands using our bottle adapters. BPA Free - Made from high-quality, BPA-free materials for safe, worry-free use. 1 Year Warranty - Purchase with confidence. These portable bottle warmers are compatible with some bottle brands without an adapter but you may need an adapter for some bottle brands- Check Here
-  Updated: 2025-10-13T23:42:42Z
+  Updated: 2025-10-14T03:22:46Z
   Vendor: lil moo
   Product Type: Bottle Warmers & Sterilizers
   Availability: Available
@@ -16254,7 +16232,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $75.00 NZD
 - [KONGES SLOJD  2 pk Glitter Cups - Outer Space](https://www.littlebambinos.co.nz/products/konges-slojd-2-pk-glitter-cups-outer-space): These glitter cups are made from durable Polyethylene Terephthalate Glycol (PCTG) with purified water and Polyethylene Terephthalate (PET) filler. They hold 180 ml and measure 6.5 cm in diameter by 9 cm in height. Please note, they are not dishwasher or microwave safe. Suitable for temperatures between 0°C and 100°C.
-  Updated: 2025-10-08T02:48:56Z
+  Updated: 2025-10-14T00:35:12Z
   Vendor: Konges slojd
   Product Type: Cup
   Availability: Available
@@ -16596,13 +16574,13 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $35.00 NZD
 - [WILSON & FRENCHY Long Sleeved Swimsuit - Strawberry Kisses](https://www.littlebambinos.co.nz/products/wilson-frenchy-long-sleeved-swimsuit-strawberry-kisses): This cute long-sleeved swimsuit from Wilson & Frenchy’s summer range showcases a delightful strawberry kisses pattern. Made with recycled polyester and providing UPF 50+ sun protection, it’s ideal for sunny pool or beach
-  Updated: 2025-10-13T03:41:20Z
+  Updated: 2025-10-14T01:00:22Z
   Vendor: Wilson & Frenchy
   Product Type: Swimwear
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/WFS2568-03_1_1728x_4d091753-2bb7-454c-ba24-e390b401220f.webp?v=1758616233
   - [3-6m](https://www.littlebambinos.co.nz/products/wilson-frenchy-long-sleeved-swimsuit-strawberry-kisses?variant=42054893404254)
-    Availability: Available
+    Availability: Not Available
     Price: $49.00 NZD
   - [6-12m](https://www.littlebambinos.co.nz/products/wilson-frenchy-long-sleeved-swimsuit-strawberry-kisses?variant=42054893437022)
     Availability: Not Available
@@ -16638,7 +16616,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $49.00 NZD
 - [WILSON & FRENCHY Swim Board Short - Green Bean Stripe](https://www.littlebambinos.co.nz/products/wilson-frenchy-swim-board-short-green-bean-stripe): Dress your children comfortably in Wilson & Frenchy’s collection, featuring items made with natural fibres to provide gentle care.
-  Updated: 2025-10-02T02:16:40Z
+  Updated: 2025-10-14T01:04:07Z
   Vendor: Wilson & Frenchy
   Product Type: Swimwear
   Availability: Available
@@ -16650,7 +16628,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $39.00 NZD
   - [1y](https://www.littlebambinos.co.nz/products/wilson-frenchy-swim-board-short-green-bean-stripe?variant=42054894190686)
-    Availability: Available
+    Availability: Not Available
     Price: $39.00 NZD
   - [2y](https://www.littlebambinos.co.nz/products/wilson-frenchy-swim-board-short-green-bean-stripe?variant=42054894223454)
     Availability: Available
@@ -16659,7 +16637,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $39.00 NZD
 - [WILSON & FRENCHY One Piece Boyleg Swimsuit - Sunny Scales](https://www.littlebambinos.co.nz/products/wilson-frenchy-one-piece-boyleg-swimsuit-sunny-scales): Wilson and Frenchy’s long-sleeve, one-piece boyleg swimsuit is ideal for sunny adventures. Crafted from recycled polyester with full lining, it provides excellent UPF 50+ sun protection and resists chlorine for lasting durability. The front zip makes it easy to put on and take off, ensuring comfort throughout the day.
-  Updated: 2025-10-02T02:16:40Z
+  Updated: 2025-10-14T01:00:19Z
   Vendor: Wilson & Frenchy
   Product Type: Swimwear
   Availability: Available
@@ -16677,7 +16655,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $55.00 NZD
   - [3Y](https://www.littlebambinos.co.nz/products/wilson-frenchy-one-piece-boyleg-swimsuit-sunny-scales?variant=42054895763550)
-    Availability: Available
+    Availability: Not Available
     Price: $55.00 NZD
 - [WILSON & FRENCHY Sun Hat - Green Bean Stripe](https://www.littlebambinos.co.nz/products/wilson-frenchy-sun-hat-green-bean-stripe): Keep your child safe under the sun with our printed sunhat. Crafted from 100% cotton and offering UPF 50+ protection, it has a wide brim to provide ample shade throughout the day.
   Updated: 2025-10-02T02:16:40Z
@@ -17680,8 +17658,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-10-04T11:02:23Z
   Total Products: 10
 - [Labour Day Sale Collection 23](https://www.littlebambinos.co.nz/collections/labour-day-sale-22-excl-connetix-and-by-billie)
-  Updated: 2025-10-13T16:27:13Z
-  Total Products: 1327
+  Updated: 2025-10-14T01:00:51Z
+  Total Products: 1325
 - [Summer Edit](https://www.littlebambinos.co.nz/collections/summer-edit-1): Shop our Summer edit
   Updated: 2025-10-13T11:01:57Z
   Total Products: 501
@@ -18364,8 +18342,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-10-12T21:51:28Z
   Total Products: 1584
 - [Lucky Lasts](https://www.littlebambinos.co.nz/collections/lucky-lasts-1): These are our lucky lasts! Final sizes, final styles. Once they’re out the door, that’s all. Shop now before they're gone.
-  Updated: 2025-10-13T11:01:57Z
-  Total Products: 3096
+  Updated: 2025-10-14T00:35:42Z
+  Total Products: 3097
 - [Lil Moo](https://www.littlebambinos.co.nz/collections/lil-moo)
   Updated: 2025-09-28T20:55:17Z
   Total Products: 3
