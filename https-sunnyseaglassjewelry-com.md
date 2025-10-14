@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-08-22T04:17:36Z
 - Contact Email: Sunnymello810@gmail.com
-- Updated At: 2025-10-12T00:00:32.738Z
+- Updated At: 2025-10-14T16:00:30.001Z
 
 ## Products
 
@@ -259,6 +259,21 @@
   - [No.3](https://sunnyseaglassjewelry.com/products/handmade-macrame-sea-glass-bracelet-hunter-green-sea-glass-bracelet-adjustable-sea-glass-macrame-bracelets-surfers-sea-glass-bracelet?variant=42904251596881)
     Availability: Available
     Price: $20.00 USD
+- [Macramé Goldstone Bracelet with Sliding Knot ,Bohemian Design Jewelry, Boho Style Stone Beaded Adjustable  Bracelet, Brown Bracelet,](https://sunnyseaglassjewelry.com/products/macrame-goldstone-bracelet-with-sliding-knot-bohemian-design-jewelry-boho-style-stone-beaded-adjustable-bracelet-brown-bracelet): GOLD STONES are known for sparkle & glitter This handcrafted macramé goldstone bracelet features a sliding knot design that combines bohemian style with natural stone beauty. This bracelet piece showcases a boho style design, featuring a natural stone beaded bracelet with a distinctive gold sparkles. AUTHENTIC HANDCRAFTED MACRAMÉ BRACELET WITH NATURAL STONE ACCENTS * Hand woven using high-quality brown S-Lon cord and featuring eye-catching 10mm goldstone beads * Adjustable sliding knot closure ensures a perfect fit for 6-8 inch wrists * Elegant copper-colored sparkling stone beads add a touch of sophistication to the design * Perfect as a thoughtful spiritual gift or as a statement piece for any boho lover * Each bracelet is handmade with care, making it a truly unique and meaningful keepsake ◄ HOW TO ORDER ► 1. Input quantity (Default is 1) 2. Click the "Add to cart" button 3. Checkout using the "Proceed to checkout" button *WRIST SIZE: Please choose your actual "wrist size" in drop down menu. For the snug fit, add .25 inch to your actual size of your bracelet. *More beautiful Bracelets are available: www.etsy.com/shop/SunVDesigns?ref=seller-platform-mcnav§ion_id=18771429 Your order will arrive in a gift box ready for gift giving. Thank you very much for visiting my shop.
+  Updated: 2025-10-13T19:30:48Z
+  Vendor: My Store
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/67a7b6d3-il_fullxfull.7168304095_hm3k.jpg?v=1756000927
+  - [No.1 Old Gold](https://sunnyseaglassjewelry.com/products/macrame-goldstone-bracelet-with-sliding-knot-bohemian-design-jewelry-boho-style-stone-beaded-adjustable-bracelet-brown-bracelet?variant=42904252940369)
+    Availability: Available
+    Price: $20.95 USD
+  - [No](https://sunnyseaglassjewelry.com/products/macrame-goldstone-bracelet-with-sliding-knot-bohemian-design-jewelry-boho-style-stone-beaded-adjustable-bracelet-brown-bracelet?variant=42904252973137)
+    Availability: Available
+    Price: $20.95 USD
+  - [2 Brown](https://sunnyseaglassjewelry.com/products/macrame-goldstone-bracelet-with-sliding-knot-bohemian-design-jewelry-boho-style-stone-beaded-adjustable-bracelet-brown-bracelet?variant=42904253005905)
+    Availability: Available
+    Price: $20.95 USD
 - [Christmas Tree Earrings, Sea Glass Christmas Dangle Earrings, Sterling Silver Holiday Christmas Earrings, Coastal Holiday Earrings](https://sunnyseaglassjewelry.com/products/christmas-tree-earrings-sea-glass-christmas-dangle-earrings-sterling-silver-holiday-christmas-earrings-coastal-holiday-earrings): Beautiful Holiday earrings for everyday or special occasions. Fun & festive holiday earrings sure to be noticed! These earrings will make a great gift for friends, coworkers too. Beautiful pale seafoam aqua Sea glass beads are wire wrapped in .925 sterling silver or gold finished wires accented with star glass beads and Crystals. Sea glass beads measures 18x 12mm. They dangle nicely slightly under 1.5 inch from the bottom of the .925 sterling silver or god finished earwires. A ray of sunshine shines on your dangling from your ears! ***Email me for any inquiries Thank you for visiting my shop.
   Updated: 2025-09-15T22:34:08Z
   Vendor: My Store
@@ -2400,42 +2415,6 @@
   - [Lavender cord](https://sunnyseaglassjewelry.com/products/adjustable-sea-glass-macrame-anklets-sea-glass-ankle-bracelet-blue-green-ankle-bracelet-nautical-sea-glass-bracelet-sea-glass-jewelry?variant=42904349966417)
     Availability: Available
     Price: $17.95 USD
-- [Sterling Silver & Leather Sea Glass Bracelet, Beach Glass Ocean Wave Bracelet, Ocean Wave Bracelet ,Beach Jewelry, Nautical Bracelet,](https://sunnyseaglassjewelry.com/products/sterling-silver-leather-sea-glass-bracelet-beach-glass-ocean-wave-bracelet-ocean-wave-bracelet-beach-jewelry-nautical-bracelet): Gorgeous Sea Burst Beads ~ in the multiple shades of colors!.... Cultured Sea glass jewelry. The same soft finish as found in natural sea glass. These bracelets are made, starts out with handmade .925 sterling silver wave in the center of the freeform 18 x 17 mm nugget style cultured sea glasses in multiple colors, then they are connected to sterling silver spacer beads , sterling silver chain & double strands of black color Greek leathers. They are finished with .925 sterling silver handmade "S" hook for easy on & off clasps. *Choose your desired style in the drop sown menu. * ALL the components in these bracelets are .925 sterling silver, genuine leather. AVAILABLE IN : These fun, colorful earrings are carefully Wire Wrapped with .925 sterling silver wires on recycled unique, wavy nugget sea glass beads approximately 18 x 17mm mm. They are dangling down from crystals Swarovski white pearl, silver beads. They dangle nicely slightly over 1 inch from the bottom of the .925 sterling silver ear wires. A ray of sunshine shines on your dangling from your ears! Here is the link: www.etsy.com/shop/SunVDesigns?ref=seller-platform-mcnav&search_query=sea+glass+earrings ***Email me for any inquiries. Thank you for visiting my shop!
-  Updated: 2025-09-15T22:34:26Z
-  Vendor: My Store
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/bd7b5ef6-il_fullxfull.6290347071_lwx6.jpg?v=1756001013
-  - [Sterling Silver / 5.5 inch](https://sunnyseaglassjewelry.com/products/sterling-silver-leather-sea-glass-bracelet-beach-glass-ocean-wave-bracelet-ocean-wave-bracelet-beach-jewelry-nautical-bracelet?variant=42904350031953)
-    Availability: Available
-    Price: $25.95 USD
-  - [Sterling Silver / 6.0 inch](https://sunnyseaglassjewelry.com/products/sterling-silver-leather-sea-glass-bracelet-beach-glass-ocean-wave-bracelet-ocean-wave-bracelet-beach-jewelry-nautical-bracelet?variant=42904350064721)
-    Availability: Available
-    Price: $25.95 USD
-  - [Sterling Silver / 6.5 inch](https://sunnyseaglassjewelry.com/products/sterling-silver-leather-sea-glass-bracelet-beach-glass-ocean-wave-bracelet-ocean-wave-bracelet-beach-jewelry-nautical-bracelet?variant=42904350097489)
-    Availability: Available
-    Price: $25.95 USD
-  - [Sterling Silver / 7.0 inch](https://sunnyseaglassjewelry.com/products/sterling-silver-leather-sea-glass-bracelet-beach-glass-ocean-wave-bracelet-ocean-wave-bracelet-beach-jewelry-nautical-bracelet?variant=42904350130257)
-    Availability: Available
-    Price: $25.95 USD
-  - [Sterling Silver / 7.5 inch](https://sunnyseaglassjewelry.com/products/sterling-silver-leather-sea-glass-bracelet-beach-glass-ocean-wave-bracelet-ocean-wave-bracelet-beach-jewelry-nautical-bracelet?variant=42904350163025)
-    Availability: Available
-    Price: $25.95 USD
-  - [Leather / 5.5 inch](https://sunnyseaglassjewelry.com/products/sterling-silver-leather-sea-glass-bracelet-beach-glass-ocean-wave-bracelet-ocean-wave-bracelet-beach-jewelry-nautical-bracelet?variant=42904350195793)
-    Availability: Available
-    Price: $25.95 USD
-  - [Leather / 6.0 inch](https://sunnyseaglassjewelry.com/products/sterling-silver-leather-sea-glass-bracelet-beach-glass-ocean-wave-bracelet-ocean-wave-bracelet-beach-jewelry-nautical-bracelet?variant=42904350228561)
-    Availability: Available
-    Price: $25.95 USD
-  - [Leather / 6.5 inch](https://sunnyseaglassjewelry.com/products/sterling-silver-leather-sea-glass-bracelet-beach-glass-ocean-wave-bracelet-ocean-wave-bracelet-beach-jewelry-nautical-bracelet?variant=42904350261329)
-    Availability: Available
-    Price: $25.95 USD
-  - [Leather / 7.0 inch](https://sunnyseaglassjewelry.com/products/sterling-silver-leather-sea-glass-bracelet-beach-glass-ocean-wave-bracelet-ocean-wave-bracelet-beach-jewelry-nautical-bracelet?variant=42904350294097)
-    Availability: Available
-    Price: $25.95 USD
-  - [Leather / 7.5 inch](https://sunnyseaglassjewelry.com/products/sterling-silver-leather-sea-glass-bracelet-beach-glass-ocean-wave-bracelet-ocean-wave-bracelet-beach-jewelry-nautical-bracelet?variant=42904350326865)
-    Availability: Available
-    Price: $25.95 USD
 - [Periwinkle Sea Glass Earrings in STERLING SILVER, Sea Glass Earrings,Beach Weddings, Beach Glass Jewelry, Wired Sea glass Earrings,](https://sunnyseaglassjewelry.com/products/periwinkle-sea-glass-earrings-in-sterling-silver-sea-glass-earrings-beach-weddings-beach-glass-jewelry-wired-sea-glass-earrings): Gorgeous Sea glass Beads in shade of Periwinkle! Bluish Lavender shades! This my new collection: recycled /cultured Sea glass jewelry. The same soft finish as found in natural sea glass. These fun, colorful earrings are carefully Wire Wrapped with .925 sterling silver wires on recycled unique sea glass beads approximately 18 x 12mm. They are dangling down from blue crystals/ sterling silver silver beads. They dangle nicely slightly under inch from the bottom of the .925 sterling silver earwires. ***Choose the earrings with silver bead or crystal finished style ***Email me for any inquiries Thank you for visiting my shop!*
   Updated: 2025-09-15T22:34:26Z
   Vendor: Sunny Sea Glass Jewelry
@@ -3680,7 +3659,7 @@
   Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/3ca17301-il_fullxfull.6728990758_2fw4.jpg?v=1756001042
   Price: $22.95 USD
 - [Fancy Swirl Lapis Lazuli Earrings in Sterling Silver, September Birthstone Earrings, Lapis Jewelry, Blue Lapis Dangling Earrings,](https://sunnyseaglassjewelry.com/products/fancy-swirl-lapis-lazuli-earrings-in-sterling-silver-september-birthstone-earrings-lapis-jewelry-blue-lapis-dangling-earrings): These elegant Lapis Lazuli earrings feature radiant 8mm teardrop stones set in .925 sterling silver wire, making an ideal gift for anyone born in September. Lightweight and comfortable, they hang about 1 inch (25mm) from sterling silver French earwires, perfect for both everyday wear and special occasions. Each pair is beautifully packaged in a gift box with a bow. Feel free to reach out with any questions—thank you for visiting our shop!
-  Updated: 2025-10-11T23:25:28Z
+  Updated: 2025-10-12T11:25:31Z
   Vendor: My Store
   Product Type: Wire Wrapped Earrings
   Availability: Available
@@ -4363,10 +4342,10 @@
   Updated: 2025-10-11T01:45:38Z
   Total Products: 57
 - [Sea Glass Bracelets/Anklets](https://sunnyseaglassjewelry.com/collections/sea-glass-bracelets-anklets)
-  Updated: 2025-10-11T01:35:14Z
+  Updated: 2025-10-12T02:12:21Z
   Total Products: 10
 - [Wire Wrapped Earrings](https://sunnyseaglassjewelry.com/collections/sea-glass-jewlry)
-  Updated: 2025-10-11T23:25:27Z
+  Updated: 2025-10-13T19:34:31Z
   Total Products: 28
 - [Wire Wrapped Necklace](https://sunnyseaglassjewelry.com/collections/wire-wrapped-necklace): Wire Wrapped Opal Necklace, sterling silver with chain, swirl design
   Updated: 2025-10-11T01:32:56Z
@@ -4378,17 +4357,11 @@
   Updated: 2025-10-11T01:06:42Z
   Total Products: 5
 - [New Arrivals](https://sunnyseaglassjewelry.com/collections/new-arrivals)
-  Updated: 2025-10-11T01:47:34Z
-  Total Products: 13
-- [Best Sellers](https://sunnyseaglassjewelry.com/collections/best-sellers)
-  Updated: 2025-10-11T00:52:46Z
-  Total Products: 0
-- [On Sale](https://sunnyseaglassjewelry.com/collections/on-sale)
-  Updated: 2025-10-11T00:59:50Z
-  Total Products: 0
+  Updated: 2025-10-13T19:31:11Z
+  Total Products: 14
 - [Wire Wrapped Bracelets](https://sunnyseaglassjewelry.com/collections/wire-wrapped-bracelet-1)
-  Updated: 2025-10-11T01:47:34Z
-  Total Products: 11
+  Updated: 2025-10-13T19:34:31Z
+  Total Products: 12
 - [HOLIDAY Jewelry](https://sunnyseaglassjewelry.com/collections/holiday-jewelry)
   Updated: 2025-10-11T01:45:37Z
   Total Products: 10
