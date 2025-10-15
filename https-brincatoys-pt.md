@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-10-15T04:01:09.944Z
+- Updated At: 2025-10-15T12:01:12.606Z
 
 ## Products
 
@@ -39,7 +39,7 @@ para relacionar o número com a quantidade de animais. Óptimo para ajudar
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/10-puzzles-iniciacao-numeros-e-quantidades-810746821-4010168074689-brincatoys-1178692646.jpg?v=1752825365
   Price: 13,50 € EUR
 - [Puzzle para criança da HABA - O meu brinquedo](https://brincatoys.pt/products/puzzle-crianca-haba-meu-brinquedo): Descubra o Puzzle para criança da HABA - O meu brinquedo, um conjunto educativo de 10 puzzles que promove o desenvolvimento cognitivo e a coordenação motora
-  Updated: 2025-10-13T06:35:27Z
+  Updated: 2025-10-15T10:39:44Z
   Vendor: Seleção Brincatoys
   Product Type: + 2 anos
   Availability: Available
@@ -3118,7 +3118,7 @@ renascer das cinzas.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/figura-sonic-629031022-8412906903101-sonic-the-hedgehog-1178693609.jpg?v=1752841334
   Price: 8,00 € EUR
 - [Figura Sonic Eggrobo](https://brincatoys.pt/products/figura-sonic-eggrobo): Sonic the Hedgehog é um dos personagens de videojogo mais icônicos do mundo de todos os tempos.  Junto com os seus amigos, ele viaja pelo planeta para lutar contra a injustiça e derrotar o seu arqui-inimigo, o malvado Dr. Eggman. Diverte-te com a figura de acção Eggrobo de 10 cm. Esta figura apresenta vários pontos de articulação e vem com um acess
-  Updated: 2025-10-13T06:32:27Z
+  Updated: 2025-10-15T06:47:32Z
   Vendor: Sonic the Hedgehog
   Product Type: + 3 anos
   Availability: Available
@@ -4240,7 +4240,7 @@ Como jogar: As crianças colocam as cartas viradas para baixo e misturam-nas. Um
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/jogo-tesouro-brilhante-810358623-brincatoys-1178693966.jpg?v=1752848295
   Price: 19,99 € EUR
 - [Jogo Triominos Deluxe](https://brincatoys.pt/products/jogo-triominos-deluxe): Trinomios de Luxe, a variante mais fascinante do dominó e três vezes mais divertido. Um jogo que inclui emoção, sorte e diversão para desfrutar em família ou com os amigos. Faz com que coincidam os números, completa figuras geométricas e ganha pontos extra. Com regras muito simples e muitas possibilidades.   Dimensão: 30 x 26,50 x 6 cm. Idade Recom
-  Updated: 2025-10-13T12:56:20Z
+  Updated: 2025-10-15T09:51:31Z
   Vendor: Seleção Brincatoys
   Product Type: + 7 anos
   Availability: Available
@@ -7237,28 +7237,28 @@ ela tem o seu arco e flecha, assim como a sua lança preparados. A Knight
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/pocoyo-loula-23916816-brincatoys-1178694904.jpg?v=1752865577
   Price: 8,00 € EUR
 - [Pokémon Clip 'N' Go Piplup & Poké Ball – Entre na Aventura!](https://brincatoys.pt/products/pokemon-clip-n-go-piplup-poke-ball): Descubra o Pokémon Clip 'N' Go com Piplup e Poké Ball, o brinquedo ideal para crianças e fãs da saga Pokémon. Garanta já a melhor experiência de treinador
-  Updated: 2025-10-13T06:28:26Z
+  Updated: 2025-10-15T08:53:58Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/pokemon-clip-n-go-piplup-poke-ball-entre-na-aventura-230266122-0191726424697-pokemon-1178694908.jpg?v=1752865809
   Price: 22,50 € EUR
 - [Pokémon Clip 'N' Go Snubbull & Luxury Ball](https://brincatoys.pt/products/pokemon-clip-n-go-snubbull-luxury-ball): Treine para a batalha com o Pokémon Clip 'N' Go. Este conjunto Clip 'N' Go apresenta uma bola de luxo especial e vem com o Pokémon Snubbull. Funciona com qualquer Pokémon de 5 cm    Dimensão: 14 x 20 x 8 cm.Idade Recomendada: + de 4 anos.
-  Updated: 2025-10-13T06:28:25Z
+  Updated: 2025-10-15T08:54:34Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/pokemon-clip-n-go-snubbull-luxury-ball-230265622-pokemon-1178694910.jpg?v=1752865814
   Price: 22,50 € EUR
 - [Pokémon Clip 'N' Go Torchic & Poké Ball](https://brincatoys.pt/products/pokemon-clip-n-go-torchic-poke-ball): Se eles estão a viajar pelo universo Pokemon ou preparando-se para lutar contra os pokémons de outros treinadores, a Pokébola Clip 'N' Go da Pokemon manterá os amigos do seu filho seguros em movimento. Este conjunto de poke-ball inclui uma figura pronta para atacar e uma poke ball para fácil portabilidade. A pokebola vem com um clipe que se prende
-  Updated: 2025-10-13T06:28:25Z
+  Updated: 2025-10-15T08:54:34Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/pokemon-clip-n-go-torchic-poke-ball-233820622-pokemon-1178694912.webp?v=1752865820
   Price: 22,50 € EUR
 - [Pokémon Clip 'N' Go Treecko & Poké Ball](https://brincatoys.pt/products/pokemon-clip-n-go-treecko-poke-ball): Se eles estão a viajar pelo universo Pokemon ou preparando-se para lutar contra os pokémons de outros treinadores, a Pokébola Clip 'N' Go da Pokemon manterá os amigos do seu filho seguros em movimento. Este conjunto de poke-ball inclui uma figura pronta para atacar e uma poke ball para fácil portabilidade. A pokebola vem com um clipe que se prende
-  Updated: 2025-10-13T06:28:24Z
+  Updated: 2025-10-15T08:54:35Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
@@ -7279,28 +7279,28 @@ ela tem o seu arco e flecha, assim como a sua lança preparados. A Knight
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/pokemon-ash-pikachu-234069123-2600000-pokemon-1178694931.jpg?v=1752866414
   Price: 22,50 € EUR
 - [Pokemon Ataque Surpresa Charmander vs Riolu](https://brincatoys.pt/products/pokemon-ataque-surpresa-charmander-vs-riolu): Com o Pokémon Surprise Attack Game podes testar as tuas habilidades como treinador Pokémon! Este pacote Pokémon Surprise Attack Game vem com tudo o que precisas para começar a lutar: duas Poké Balls Surprise Attack, duas figuras Pokémon e seis discos de ataque com diferentes tipos para tu escolheres. O Pokémon Surprise Attack Game é fácil de aprend
-  Updated: 2025-10-13T06:28:23Z
+  Updated: 2025-10-15T08:53:58Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/pokemon-ataque-surpresa-charmander-vs-riolu-23250522-0191726409533-pokemon-1178694934.jpg?v=1752866646
   Price: 36,99 € EUR
 - [Pokemon Ataque Surpresa Pikachu vs Bulbasaur](https://brincatoys.pt/products/pokemon-ataque-surpresa-pikachu-vs-bulbasaur): Com o Pokémon Surprise Attack Game podes testar as tuas habilidades como treinador Pokémon! Este pacote Pokémon Surprise Attack Game vem com tudo o que precisas para começar a lutar: duas Poké Balls Surprise Attack, duas figuras Pokémon e seis discos de ataque com diferentes tipos para tu escolheres. O Pokémon Surprise Attack Game é fácil de aprend
-  Updated: 2025-10-13T06:28:23Z
+  Updated: 2025-10-15T08:53:57Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/pokemon-ataque-surpresa-pikachu-vs-bulbasaur-23250422-8432752037904-pokemon-1178694937.jpg?v=1752866654
   Price: 36,99 € EUR
 - [Pokémon Ataque Surpresa Pikachu vs Machoc](https://brincatoys.pt/products/pokemon-ataque-surpresa-pikachu-vs-machoc): Entre na batalha com o conjunto Pokémon Ataque Surpresa Pikachu vs Machoc! Perfeito para fãs de todas as idades, colecione e treine suas figuras favoritas.
-  Updated: 2025-10-13T06:28:22Z
+  Updated: 2025-10-15T08:53:57Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/pokemon-ataque-surpresa-pikachu-vs-machoc-230272122-0191726426349-pokemon-1178694941.jpg?v=1752866764
   Price: 36,99 € EUR
 - [Pokemon Clip n Go  Morpeko + Quick Ball](https://brincatoys.pt/products/pokemon-clip-n-go-morpeko-quick-ball): Se eles estão a viajar pelo universo Pokemon ou preparando-se para lutar contra os pokémons de outros treinadores, a Pokébola Clip 'N' Go da Pokemon manterá os amigos do seu filho seguros em movimento. Este conjunto de poke-ball inclui uma figura pronta para atacar e uma poke ball para fácil portabilidade. A pokebola vem com um clipe que se prende
-  Updated: 2025-10-13T06:28:22Z
+  Updated: 2025-10-15T08:54:34Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
@@ -9922,14 +9922,14 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/pokemon-figuras-de-batalha-234259022-pokemon-1178695739.webp?v=1752879980
   Price: 22,99 € EUR
 - [Pokémon Clip 'N' Go Mudkip & Poké Ball](https://brincatoys.pt/products/pokemon-clip-n-go-mudkip-poke-ball): Se eles estão a viajar pelo universo Pokemon ou preparando-se para lutar contra os pokémons de outros treinadores, a Pokébola Clip 'N' Go da Pokemon manterá os amigos do seu filho seguros em movimento. Este conjunto de poke-ball inclui uma figura pronta para atacar e uma poke ball para fácil portabilidade. A pokebola vem com um clipe que se prende
-  Updated: 2025-10-13T06:25:40Z
+  Updated: 2025-10-15T08:53:57Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/pokemon-clip-n-go-mudkip-poke-ball-233820422-pokemon-1178695741.webp?v=1752880206
   Price: 22,50 € EUR
 - [Pokémon Clip 'N' Go Turtwig & Poké Ball](https://brincatoys.pt/products/pokemon-clip-n-go-turtwig-poke-ball): Se eles estão a viajar pelo universo Pokemon ou preparando-se para lutar contra os pokémons de outros treinadores, a Pokébola Clip 'N' Go da Pokemon manterá os amigos do seu filho seguros em movimento. Este conjunto de poke-ball inclui uma figura pronta para atacar e uma poke ball para fácil portabilidade. A pokebola vem com um clipe que se prende
-  Updated: 2025-10-13T06:25:39Z
+  Updated: 2025-10-15T08:53:57Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
@@ -13808,7 +13808,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/puzzle-peppa-pig-george-construtor-50894723-peppa-pig-1178697672.webp?v=1752799215
   Price: 16,99 € EUR
 - [Puzzle Peppa Pig - Peppa Enfermeira](https://brincatoys.pt/products/puzzle-peppa-pig-peppa-enfermeira): Peppa Pig precisa de ajuda para montar um quebra-cabeças de 24 peças. Este não é um quebra-cabeças comum, é uma representação linda e colorida que, quando concluída, mostrará Pedro Pony no hospital. Peppa Pig quer visitar o seu amigo e precisa que o quebra-cabeças seja montado para que isso aconteça. Este quebra-cabeças foi pensado para as crianças. As peças são grandes para torná-lo mais fácil para as pequenas mãos segurarem. Assim, as crianças podem facilmente agarrar as peças e colocá-las nos lugares corretos. Este é um ótimo exercício para melhorar a coordenação mão-olho e as habilidades motoras finas das crianças, ao mesmo tempo em que se divertem ajudando Peppa Pig. Além disso, este quebra-cabeças vem em uma caixa lindamente ilustrada que pode ser usada como decoração no quarto das crianças. A caixa é tão bonita quanto o quebra-cabeças em si, apresentando Peppa e seus amigos em cores vibrantes que certamente atrairão as crianças. Quando o quebra-cabeças não está a ser usado, pode ser guardado nesta caixa, mantendo as peças seguras e organizadas. Por isso, ajude Peppa Pig a montar este lindo quebra-cabeças de 24 peças. É uma atividade divertida e educativa que as crianças certamente vão adorar. Além disso, elas vão adorar ver a imagem de Pedro Pony no hospital a formar-se peça por peça, e sentir-se-âo orgulhosas por terem ajudado Peppa Pig a visitar o seu amigo Dimensão: 25 x 19 x 6,50 cm. Idade Recomendada: + de 3 anos.
-  Updated: 2025-10-13T06:21:37Z
+  Updated: 2025-10-15T11:50:51Z
   Vendor: Peppa Pig
   Product Type: + 3 anos
   Availability: Available
@@ -14403,7 +14403,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/figuras-pokemon-charmander-metang-e-kabuto-23305224-pokemon-1178698071.jpg?v=1752919091
   Price: 22,99 € EUR
 - [Figuras Pokémon Pikipek Galarian Ponyta e Snorunt](https://brincatoys.pt/products/figuras-pokemon-pikipek-galarian-ponyta-e-snorunt): Transforme seus momentos de brincadeira com o conjunto de Figuras Pokémon Pikipek Galarian Ponyta e Snorunt. Qualidade e diversão para colecionadores e fãs.
-  Updated: 2025-10-13T06:20:57Z
+  Updated: 2025-10-15T08:53:57Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
@@ -14452,21 +14452,21 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/figura-pokemon-select-suicune-articulada-e-colecionavel-23275024-2600000-pokemon-1178698101.jpg?v=1752919699
   Price: 39,99 € EUR
 - [Figuras Pokémon Rockruff Bellossom e Vaporeon](https://brincatoys.pt/products/figuras-pokemon-rockruff-bellossom-e-vaporeon): Descubra as figuras Pokémon Rockruff Bellossom e Vaporeon e traga o encanto de cada personagem para a sua coleção. Qualidade e detalhes autênticos.
-  Updated: 2025-10-13T06:20:54Z
+  Updated: 2025-10-15T08:53:57Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/figuras-pokemon-rockruff-bellossom-e-vaporeon-23304824-pokemon-1178698105.jpg?v=1752919810
   Price: 23,99 € EUR
 - [Figuras Pokémon Carvanha Jolteon e Wooloo - Brincatoys](https://brincatoys.pt/products/figuras-pokemon-carvanha-jolteon-e-wooloo): Adquira já as Figuras Pokémon Carvanha Jolteon e Wooloo e mergulhe na ação com estas peças detalhadas! Perfeitas para colecionadores e fãs.
-  Updated: 2025-10-13T06:20:54Z
+  Updated: 2025-10-15T08:53:57Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/figuras-pokemon-carvanha-jolteon-e-wooloo-brincatoys-23305024-pokemon-1178698109.jpg?v=1752919822
   Price: 23,99 € EUR
 - [Figuras Pokémon Togepi Wartortle e Pancham - Conjunto de Batalha](https://brincatoys.pt/products/figuras-pokemon-togepi-wartortle-e-pancham): Conjunto de figuras Pokémon Togepi Wartortle e Pancham, perfeitas para colecionar ou brincar. Detalhadas e design autêntico para uma experiência imersiva.
-  Updated: 2025-10-13T06:20:54Z
+  Updated: 2025-10-15T08:53:56Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
@@ -14487,35 +14487,35 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/figuras-de-batalha-pokemon-pikachu-e-goomy-23300724-pokemon-1178698125.jpg?v=1752920286
   Price: 12,90 € EUR
 - [Alakazam Pokémon | Brincatoys](https://brincatoys.pt/products/alakazam-pokemon): Apresentando Alakazam, o Pokémon Psi! Figura articulada com ataque psíquico especial. Perfeito para batalhas e diversão! Compre agora na Brincatoys.
-  Updated: 2025-10-13T06:20:52Z
+  Updated: 2025-10-15T09:00:52Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/alakazam-pokemon-brincatoys-23303624-pokemon-1178698129.jpg?v=1752920300
   Price: 21,99 € EUR
 - [Figura Pokémon Cinderace | Para fãs de Pokémon](https://brincatoys.pt/products/figura-pokemon-cinderace): Adicione a incrível figura Pokémon Cinderace à coleção de Pokémon do seu filho. Aumente a diversão e aventure-se no mundo dos treinadores Pokémon.
-  Updated: 2025-10-13T06:20:52Z
+  Updated: 2025-10-15T08:53:56Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/figura-pokemon-cinderace-para-fas-de-pokemon-23016424-pokemon-1178698137.jpg?v=1752920540
   Price: 21,99 € EUR
 - [Umbreon pokemon - a sua próxima figura de batalha!](https://brincatoys.pt/products/umbreon-pokemon-figura-de-batalha): Conheça o incrível Umbreon pokemon disponível na loja online da Brincatoys. Ideal para fãs e pais que procuram presentes especiais do Pokémon!
-  Updated: 2025-10-13T06:20:51Z
+  Updated: 2025-10-15T09:00:52Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/umbreon-pokemon-a-sua-proxima-figura-de-batalha-23301524-pokemon-1178698141.jpg?v=1752920651
   Price: 12,90 € EUR
 - [Figuras de batalha Pokémon para colecionadores | Brincatoys](https://brincatoys.pt/products/figuras-de-batalha-pokemon-omanyte): Adquira as figuras de batalha pokémon com os lendários Omanyte, Pikachu e Lucario. Reviva as batalhas Pokémon com realismo!
-  Updated: 2025-10-13T06:20:51Z
+  Updated: 2025-10-15T09:00:51Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/figuras-de-batalha-pokemon-para-colecionadores-brincatoys-23305424-0191726481331-pokemon-1178698145.jpg?v=1752920766
   Price: 23,99 € EUR
 - [Pokemon Select Mewtwo Figure: Detalhes Fantásticos | Brincatoys](https://brincatoys.pt/products/pokemon-select-mewtwo-figure): Descubra a força da Pokemon Select Mewtwo figure! Desenvolvida para colecionadores exigentes. 15cm de encanto com detalhes incríveis.
-  Updated: 2025-10-13T06:20:50Z
+  Updated: 2025-10-15T09:00:52Z
   Vendor: Pokémon
   Product Type: + 8 anos
   Availability: Available
@@ -14557,35 +14557,35 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/bola-sensorial-montessori-amarela-estimulacao-tatil-infantil-588630124-brincatoys-1178698169.jpg?v=1752921254
   Price: 11,99 € EUR
 - [Comprar Cinto Pokémon - Bulbasaur](https://brincatoys.pt/products/comprar-cinto-pokemon-bulbasaur): Comece sua jornada para se tornar um mestre Pokémon com o Cinto Pokémon - Bulbasaur! Inclui Pokébolas, uma figura de Bulbasaur e muito mais.
-  Updated: 2025-10-13T06:20:48Z
+  Updated: 2025-10-15T08:53:56Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/comprar-cinto-pokemon-bulbasaur-23316024-3701405809065-pokemon-1178698173.jpg?v=1752921363
   Price: 34,99 € EUR
 - [Figuras Pokémon - Garchomp | Brincatoys](https://brincatoys.pt/products/figuras-pokemon-garchomp): Descubra o poder e a majestade do Pokémon Mach, Garchomp, na sua versão Figuras pokémon de Batalha, pronta para aventuras épicas com articulação e ataque especial.
-  Updated: 2025-10-13T06:20:47Z
+  Updated: 2025-10-15T09:00:52Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/figuras-pokemon-garchomp-brincatoys-23336724-pokemon-1178698177.jpg?v=1752921374
   Price: 21,99 € EUR
 - [Figura de batalha Pokémon Vaporeon](https://brincatoys.pt/products/figura-de-batalha-pokemon-vaporeon): Descubra a magia do mundo Pokémon com a Figura de batalha Pokémon Vaporeon, uma peça articulada com 7,50 cm perfeita para fãs.
-  Updated: 2025-10-13T06:20:47Z
+  Updated: 2025-10-15T09:00:51Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/figura-de-batalha-pokemon-vaporeon-23357824-pokemon-1178698181.jpg?v=1752921486
   Price: 12,99 € EUR
 - [Figura de Batalha Pokémon Glaceon](https://brincatoys.pt/products/figura-de-batalha-pokemon-glaceon): A Figura de batalha Pokémon Glaceon, com detalhes fiéis à série e articulações móveis, permite a recriação de batalhas épicas desta personagem do tipo Gelo
-  Updated: 2025-10-13T06:20:47Z
+  Updated: 2025-10-15T09:00:51Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/figura-de-batalha-pokemon-glaceon-23336224-pokemon-1178698185.jpg?v=1752921498
   Price: 12,99 € EUR
 - [Cinto Pokémon Pikachu Clip 'N' Go com figura](https://brincatoys.pt/products/cinto-pokemon-pikachu): Adquira já o Cinto Pokémon Pikachu Clip 'N' Go com figura animada e duas Poké Balls para uma experiência interativa de treinador. Perfeito para fãs do universo Pokémon!
-  Updated: 2025-10-13T06:20:46Z
+  Updated: 2025-10-15T08:53:56Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
@@ -14613,7 +14613,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/squishmallows-cheer-squad-peluche-5-cm-23046824-squishville-1178698209.jpg?v=1752921965
   Price: 22,99 € EUR
 - [Cinto de Treinador Pokémon Squirtle](https://brincatoys.pt/products/cinto-de-treinador-pokemon-squirtle): Descubra o Cinto de Treinador Pokémon Squirtle com Pokébolas e figura inclusa. Ideal para fãs e colecionadores, proporcionando horas de diversão e aventura.
-  Updated: 2025-10-13T06:20:45Z
+  Updated: 2025-10-15T09:00:51Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
@@ -14634,7 +14634,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/five-nights-at-freddy-s-moon-figura-artuculada-237081424-0889698708142-five-nights-at-freddy-s-1178698221.jpg?v=1752922101
   Price: 20,99 € EUR
 - [Cinto de Treinador Pokémon Charmander](https://brincatoys.pt/products/cinto-de-treinador-pokemon-charmander-2): Adquira o Cinto de Treinador Pokémon Charmander para uma verdadeira aventura Pokémon. Cinto ajustável, Pokébolas e figura do Charmander para capturas épicas
-  Updated: 2025-10-13T06:20:43Z
+  Updated: 2025-10-15T08:52:03Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
@@ -15140,28 +15140,28 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/porsche-911-rsr-gt-682801324-8719247603654-bburago-1178698597.jpg?v=1752929417
   Price: 26,50 € EUR
 - [Conjunto de batalha Pokémon - Oshawott & Applin](https://brincatoys.pt/products/conjunto-de-batalha-pokemon-oshawott-applin): Apresentamos com entusiasmo o novíssimo Conjunto de batalha Pokémon - Oshawott & Applin, um item que não pode faltar na coleção de qualquer jovem treinador Pokémon. Com este conjunto exclusivo, mergulhe nas emoções das batalhas Pokémon e deixa a imaginação levar as crianças para aventuras épicas. O conjunto inclui duas figuras detalhadas e dinâmicas: Oshawott, o adorável Pokémon Tipo Água e Applin, a pequena e intrigante criatura Tipo Planta/Dragão. Inicialmente, ressaltamos que Oshawott está pronto para lutar com a sua concha característica, e Applin está à espreita no melhor estilo Pokémon, com cores vivas e atenção aos detalhes. Cada figura é cuidadosamente moldada para capturar a essência destes Pokémon adorados pelos fãs. Ideal para brincadeiras criativas ou para exibição, estas figuras são feitas de materiais duráveis e seguros, garantindo horas de diversão sem preocupações. Além disso, o Conjunto de batalha Pokémon promove o desenvolvimento da coordenação motora fina e imaginação. As crianças podem recriar suas cenas favoritas do anime ou inventar novos cenários para uma batalha emocionante com amigos. Estas figuras também fazem parte de uma coleção que incentiva a interação social e o compartilhar de experiências de jogo, proporcionando uma ótima oportunidade de desenvolver habilidades sociais enquanto jogam. O design autêntico faz com que este conjunto seja um presente perfeito para aniversários ou qualquer ocasião especial. Destinado a crianças com mais de quatro anos, este conjunto de batalha Pokémon é um modo seguro e divertido de introduzir os mais jovens ao mundo Pokémon. o Conjunto de batalha Pokémon - Oshawott & Applin é a escolha ideal para despertar a alegria e a aventura de qualquer treinador Pokémon em formação! Reúna-se com Oshawott e Applin para uma jornada inesquecível através do mundo Pokémon. Em suma, este Conjunto de batalha Pokémon - Oshawott & Applin: Inclui figuras detalhadas de Oshawott e Applin Promove a criatividade e o jogo imaginativo Feito com materiais seguros e duráveis Ideal para coletar e brincar Perfeito para fãs de Pokémon de todas as idades Dimensão: 11 x 17,50 x 6,50 cm. Idade recomendada: + de 4 anos.
-  Updated: 2025-10-13T06:20:14Z
+  Updated: 2025-10-15T09:00:51Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/conjunto-de-batalha-pokemon-oshawott-applin-23300024-2600000-pokemon-1178698609.jpg?v=1752929651
   Price: 12,90 € EUR
 - [Figura de Batalha Pokémon - Porygon](https://brincatoys.pt/products/figuras-de-batalha-pokemon-porygon): Descubra a Figura de Batalha Pokémon - Porygon, a adição perfeita para fãs e colecionadores! Se é um grande fã de Pokémon e quer lutar com os seus amigos? Então esta figura de batalha é exatamente o que precisa. Com este artigo expandirá a sua coleção com uma figura Pokémon em escala e detalhada. Liberte o poder do seu Pokémon para apoiá-lo na sua próxima batalha épica de Pokémon. Recrie cenas ou lute com sua equipa e torne-se o mestre Pokémon definitivo. Esta figura articulada, com aproximadamente 8 cm, é a representação fiel do famoso Pokémon virtual, desenhada com uma atenção ao detalhe que captura a sua essência pixelizada. Apresentada em cores vibrantes, refletindo o design original do jogo, o Porygon é feito de materiais de alta qualidade que garantem durabilidade e segurança durante o jogo. Além disso, a pose dinâmica da figura evoca a ação das batalhas Pokémon, proporcionando uma experiência mais realista. Ideal para recrear cenários e combates do mundo Pokémon ou para exibir numa prateleira como parte de uma coleção. É um presente magnífico para crianças acima dos 4 anos, incentivando a imaginação e o amor pela série Pokémon. Além disso, a figura é compatível com outros produtos da gama Pokémon, o que permite a construção de um universo completo para a diversão sem fim. Brincar com figuras ensina a criança a desenvolver a criatividade,, a imaginação e também a empatia, proporcionando infinitas horas de atividade. Não menos importante, comprando este produto, os clientes recebem a segurança de adquirir uma peça de merchandising oficial Pokémon, assegurando a autenticidade e qualidade que acompanham a marca. Em suma... Figura articulada e detalhada do Pokémon Porygon; Cores vivas e materiais de alta qualidade para jogos seguros e durabilidade; Embalagem colecionável e protetora; Ideal para brincar ou colecionar; Produto oficial da marca Pokémon. Dimensão: 11 x 17,50 x 6 cm. Idade recomendada: + de 4 anos.
-  Updated: 2025-10-13T06:20:14Z
+  Updated: 2025-10-15T09:00:50Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/figura-de-batalha-pokemon-porygon-23300424-0191726480839-pokemon-1178698613.jpg?v=1752929762
   Price: 12,99 € EUR
 - [Figuras de Batalha Pokémon - Machop & Snubbull](https://brincatoys.pt/products/figuras-de-batalha-pokemon-machop-snubbull): Prepare-se para expandir sua coleção Pokémon com este emocionante conjunto de Figuras de Batalha Pokémon, contendo dois personagens icónicos: Machop e Snubbull. Se é um grande fã de Pokémon e quer lutar com os seus amigos? Então estas figuras de batalha são exatamente o que precisa. Com este artigo expandirá a sua coleção com figuras Pokémon em escala e detalhadas. Liberte o poder dos seus Pokémon para apoiá-lo na sua próxima batalha épica de Pokémon. Recrie cenas ou lute com sua equipa e torne-se o mestre Pokémon definitivo. Intrigantemente detalhadas e fiéis ao universo Pokémon, estas figuras são um sonho tornado realidade para fãs de todas as idades. Ao desembalar este pacote, será saudado pelo Machop, conhecido pela sua força e determinação, com um design musculoso e uma pose de batalha dinâmica que reflete sua prontidão para o confronto. Junto a ele, o Snubbull, com o seu aspeto intimidante mas adorável, exib ase suas presas numa pose ousada que evoca tanto a sua coragem quanto o seu carisma único. Além disso, ambas as figuras são feitas de materiais duráveis, garantindo que resistam a inúmeras horas de brincadeiras. Adicionarão ótimas opções para recriar lutas épicas ou simplesmente exibir na sua estante. Além disso, são uma maneira perfeita de iniciar ou aumentar uma coleção Pokémon. A faixa etária recomendada é de 4 anos ou mais, fazendo deste conjunto um presente ideal para jovens treinadores em ascensão ou colecionadores experientes. Como destaque, este conjunto inspira criatividade e imaginação. Enfim, com o seu apelo duradouro e detalhes autênticos, este pack de Figuras de Batalha Pokémon - Machop & Snubbull estimulará contínuas aventuras pelas regiões de Kanto, Johto e além. Em suma... Conjunto contém duas figuras detalhadas: Machop e Snubbull. Design autêntico e poses de batalha para encenação ou exibição. Material durável adequado para brincadeiras prolongadas. Ideal para coleccionadores e fãs de todas as idades. Incentiva a criatividade e o jogo imaginativo. Dimensão: 11 x 17,50 x 6 cm. Idade recomendada: + de 4 anos.
-  Updated: 2025-10-13T06:20:13Z
+  Updated: 2025-10-15T09:00:50Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/figuras-de-batalha-pokemon-machop-snubbull-23263424-0191726424376-pokemon-1178698617.jpg?v=1752929775
   Price: 12,99 € EUR
 - [Figuras de Batalha Pokémon – Machop & Snivy](https://brincatoys.pt/products/figuras-de-batalha-pokemon-machop-snivy): Prepare-se para intensificar a sua coleção Pokémon com o empolgante pacote de Figuras de Batalha Pokémon – Machop & Snivy, um duo pronto para a ação! Se é um grande fã de Pokémon e quer lutar com os seus amigos? Então estas figuras de batalha são exatamente o que precisa. Com este artigo expandirá a sua coleção com figuras Pokémon em escala e detalhadas. Liberte o poder dos seus Pokémon para apoiá-lo na sua próxima batalha épica de Pokémon. Recrie cenas ou lute com sua equipa e torne-se o mestre Pokémon definitivo. Inicialmente, destaca-se Machop, o poderoso guerreiro tipo Lutador, conhecido pela sua força bruta e postura de combate imponente. Com articulações cuidadosamente desenhadas para refletir sua capacidade de movimento, Machop está pronto para encarar qualquer desafio no jogo de simulação de batalhas. Adicionalmente, Snivy, o elegante Pokémon de tipo Planta, complementa este conjunto com sua aparência aguçada e expressão confiante. A sua coloração vibrante e texturas precisas capturam a essência deste Pokémon com um nível de detalhe que deslumbra fãs de todas as idades. deal para recriar cenas icônicas ou para elaborar novas estratégias de batalha, este par dinâmico possibilita uma imersão total no universo Pokémon. Em termos de qualidade, ambas as figuras demonstram uma construção robusta e segura, utilizando materiais resistentes para garantir durabilidade, mesmo em mãos das crianças mais entusiasmadas. Este pacote não só alimenta a imaginação, como também incentiva o jogo cooperativo e estratégico, habilidades valiosas para o desenvolvimento social e cognitivo. Além disso, o pacote inclui detalhes que o tornam uma escolha perfeita para presentear ou para aficionar aos devotos colecionadores, como a embalagem temática que ressalta a prontidão de batalha e a energia vibrante do mundo Pokémon. Indubitavelmente, este conjunto é uma mais-valia para qualquer entusiasta de Pokémon. Em suma... Contém duas figuras de ação: Machop e Snivy. Detalhamento e articulação de alta qualidade para recriação fiel e jogo interativo. Construção durável, ideal para fãs e colecionadores de todas as idades. Favorece o desenvolvimento de habilidades de jogo estratégico e interação social. Dimensão: 11 x 17,50 x 6 cm. Idade recomendada: + de 4 anos.
-  Updated: 2025-10-13T19:24:33Z
+  Updated: 2025-10-15T09:00:50Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
@@ -15714,21 +15714,21 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/boneco-marvel-avengers-capitao-america-brincatoys-909334524-5010996197139-marvel-1178699117.jpg?v=1752793581
   Price: 12,50 € EUR
 - [Figura Pokémon Select Toxtricity para fãs](https://brincatoys.pt/products/pokemon-select-toxtricity): Descubra a Figura Pokémon Select Toxtricity com articulação completa e detalhes incríveis para enriquecer sua coleção de Pokémon. Ideal para fãs.
-  Updated: 2025-10-13T06:19:30Z
+  Updated: 2025-10-15T09:00:50Z
   Vendor: Pokémon
   Product Type: + 8 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/figura-pokemon-select-toxtricity-para-fas-23319924-pokemon-1178699125.jpg?v=1752936486
   Price: 33,50 € EUR
 - [Figuras Pokémon Pikachu & Lechonk - Brincatoys](https://brincatoys.pt/products/pokemon-pikachu-lechonk): Pacote de Figuras Pokémon Pikachu & Lechonk! Perfeitas para brincadeiras imaginativas ou coleção. São a escolha ideal para fãs da SÉRIE Pokémon.
-  Updated: 2025-10-13T06:19:29Z
+  Updated: 2025-10-15T09:00:49Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/figuras-pokemon-pikachu-lechonk-brincatoys-23356624-pokemon-1178699129.jpg?v=1752936498
   Price: 12,99 € EUR
 - [Figura Pokémon Weavile 7,50 cm Articulada - Brincatoys](https://brincatoys.pt/products/pokemon-weavile-5-cm): Figura Pokémon Weavile 7,50 cm com articulações! Ideal para fãs de Pokémon para coleção ou brincadeira. Apropriado para crianças a partir dos 4 anos
-  Updated: 2025-10-13T06:19:29Z
+  Updated: 2025-10-15T09:00:49Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
@@ -15777,28 +15777,28 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/squishville-mini-squishmallows-amigos-perfeitos-23051024-squishville-1178699157.jpg?v=1752793445
   Price: 28,90 € EUR
 - [Figuras Pokémon - Charmander, Galarian Darumaka e Psyduck](https://brincatoys.pt/products/pokemon-charmander-galarian-darumaka-e-psyduck): Conjunto de Figuras Pokémon com Charmander, Galarian Darumaka e Psyduck! Estas figuras articuladas trazem o universo Pokémon para suas mãos.
-  Updated: 2025-10-13T06:19:26Z
+  Updated: 2025-10-15T09:00:50Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/figuras-pokemon-charmander-galarian-darumaka-e-psyduck-23359824-0191726709398-pokemon-1178699161.jpg?v=1752793458
   Price: 22,50 € EUR
 - [Figuras Pokémon - Piplup, Misdreavus e Magmar](https://brincatoys.pt/products/figuras-pokemon-piplup-misdreavus-magmar): Conjunto de Figuras Pokémon com Piplup, Misdreavus e Magmar! Articuladas e fiéis aos originais, são perfeitas para batalhas, coleção e fãs.
-  Updated: 2025-10-13T06:19:25Z
+  Updated: 2025-10-15T09:00:50Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/figuras-pokemon-piplup-misdreavus-e-magmar-23360424-0191726709459-pokemon-1178699165.jpg?v=1752936741
   Price: 22,50 € EUR
 - [Figuras Pokémon - Machoc, Pikachu, Alolan Grotadmorv](https://brincatoys.pt/products/figuras-pokemon-machoc-pikachu-1-alolan-grotadmorv): Descubra as Figuras Pokémon articuladas - Machoc, Pikachu e Alolan Grotadmorv para colecionadores e fãs. Detalhes autênticos para construir a sua equipa.!
-  Updated: 2025-10-13T06:19:25Z
+  Updated: 2025-10-15T09:00:49Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/figuras-pokemon-machoc-pikachu-alolan-grotadmorv-23359724-0191726709381-pokemon-1178699169.jpg?v=1752793092
   Price: 22,50 € EUR
 - [Figura Pokémon Select Entei 15 cm - Essencial para Coleção](https://brincatoys.pt/products/figura-pokemon-select-entei-15-cm): Adicione poder e prestígio à sua coleção com a Figura Pokémon Select Entei 15 cm. DetalheS e articulações ajustáveis para uma experiência autêntica!
-  Updated: 2025-10-13T06:19:25Z
+  Updated: 2025-10-15T09:00:49Z
   Vendor: Pokémon
   Product Type: + 8 anos
   Availability: Available
@@ -15812,42 +15812,42 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/squishville-mini-squishmallows-esquadrao-colorido-23050724-0191726877011-squishville-1178699201.jpg?v=1752937323
   Price: 28,90 € EUR
 - [Figura de batalha Pokémon - Monferno Articulada | Brincatoys](https://brincatoys.pt/products/figura-pokemon-monferno): Adicione a figura de batalha do Pokémon Monferno à sua coleção! Produto de alta qualidade com design autêntico. Perfeito para fãs e colecionadores.
-  Updated: 2025-10-13T06:19:22Z
+  Updated: 2025-10-15T09:00:49Z
   Vendor: Pokémon
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/figura-de-batalha-pokemon-monferno-articulada-brincatoys-23301024-0191726480891-pokemon-1178699206.jpg?v=1752792973
   Price: 12,90 € EUR
 - [Figura de batalha Pokémon - Slowpoke Articulada](https://brincatoys.pt/products/figura-pokemon-slowpoke): Figura de batalha Pokémon Slowpoke com articulações para uma experiência interativa! Esta figura de coleção garante autenticidade no mundo Pokémon.
-  Updated: 2025-10-13T06:19:22Z
+  Updated: 2025-10-15T09:00:49Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/figura-de-batalha-pokemon-slowpoke-articulada-23300924-0191726480884-pokemon-1178699209.jpg?v=1752792984
   Price: 13,90 € EUR
 - [Figuras Pokémon - Pikachu e Charmander | Brincatoys](https://brincatoys.pt/products/figuras-pokemon-pikachu-e-charmander): Adicione magia à sua coleção com as Figuras Pokémon - Pikachu e Charmander. Detalhes fiéis, qualidade e nostalgia em cada peça! Coleção Imperdível
-  Updated: 2025-10-13T06:19:21Z
+  Updated: 2025-10-15T09:00:48Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/figuras-pokemon-pikachu-e-charmander-brincatoys-23358524-8432752048597-pokemon-1178699217.jpg?v=1752937449
   Price: 13,90 € EUR
 - [Figura Pokémon Select - Flygon | Colecionável Articulado](https://brincatoys.pt/products/figura-pokemon-select-flygon): Adquira a Figura Pokémon Select - Flygon para a sua colecção e deixe-se encantar pelo detalhe autêntico. Perfeita para fãs e colecionadores.
-  Updated: 2025-10-13T06:19:21Z
+  Updated: 2025-10-15T09:00:48Z
   Vendor: Pokémon
   Product Type: + 8 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/figura-pokemon-select-flygon-colecionavel-articulado-23320024-0191726483618-pokemon-1178699221.jpg?v=1752937461
   Price: 33,50 € EUR
 - [Figura Pokémon Primeape 7 cm Articulada para Colecção](https://brincatoys.pt/products/figura-pokemon-primeape-7-cm): Figura Pokémon Primeape de 7 cm, a adição ideal para fãs e colecionadores. Figura articulada com detalhes incríveis, promove interatividade e diversão.
-  Updated: 2025-10-13T06:19:20Z
+  Updated: 2025-10-15T09:00:48Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/figura-pokemon-primeape-7-cm-articulada-para-coleccao-23357324-0191726709145-pokemon-1178699225.jpg?v=1752792849
   Price: 13,90 € EUR
 - [Figuras Pokémon - Pikachu e Squirtle | Coleção e Diversão](https://brincatoys.pt/products/figura-pokemon-pikachu-e-squirtle): Conjunto de figuras Pokémon com Pikachu e Squirtle. Detalhes autênticos e perfeitos para colecionadores! Ideal para aumentar a sua coleção Pokémon.
-  Updated: 2025-10-13T06:19:20Z
+  Updated: 2025-10-15T09:00:48Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
@@ -15938,21 +15938,21 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/squishville-mini-squishmallows-esquadrao-safari-23050824-191726877028-squishville-1178699285.jpg?v=1752938524
   Price: 28,90 € EUR
 - [Figura de Batalha Pokémon - Tauros](https://brincatoys.pt/products/figura-de-batalha-pokemon-tauros): Descubra a Figura de Batalha Pokémon - Tauros! Ação interativa, durabilidade e detalhes fiéis ao personagem para fãs de todas as idades.
-  Updated: 2025-10-14T09:04:24Z
+  Updated: 2025-10-15T09:00:48Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/figura-de-batalha-pokemon-tauros-23336924-0191726497851-pokemon-1178699297.jpg?v=1752938657
   Price: 19,99 € EUR
 - [Figuras Pokémon - Squirtle, Magby e Alolan Marowak](https://brincatoys.pt/products/figuras-pokemon-magby-squirtle-e-alolan-marowak): Descubra o conjunto de Figuras Pokémon, apresentando o corajoso Squirtle, o caloroso Magby e o enigmático Alolan Marowak. Adicione-os à sua coleção!
-  Updated: 2025-10-13T06:19:14Z
+  Updated: 2025-10-15T09:00:48Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/figuras-pokemon-squirtle-magby-e-alolan-marowak-23360024-0191726709411-pokemon-1178699302.jpg?v=1752938773
   Price: 23,99 € EUR
 - [Figuras Pokémon - Pikachu, Perrserker e Hawlucha](https://brincatoys.pt/products/figuras-pokemon-pikachu-perrserker-e-hawlucha): Descubra o Trio de Figuras Pokémon - Pikachu, Perrserker e Hawlucha! Alta qualidade e detalhes cativantes perfeitos para colecionar e brincar.
-  Updated: 2025-10-13T06:19:13Z
+  Updated: 2025-10-15T09:00:47Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
@@ -16092,7 +16092,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/jogo-monopoly-deal-em-portugues-estrategia-e-diversao-90035124-5010996284853-monopoly-1178699429.jpg?v=1752941299
   Price: 10,50 € EUR
 - [Figuras Pokémon - Snivy, Pawmi e Lucario](https://brincatoys.pt/products/figuras-pokemon-snivy-pawmi-e-lucario): Descubra o conjunto de Figuras Pokémon - Snivy, Pawmi e Lucario com detalhes incríveis! Adicione estas personagens à sua coleção para batalhas épicas.
-  Updated: 2025-10-13T06:19:05Z
+  Updated: 2025-10-15T09:00:47Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
@@ -16106,7 +16106,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/brinquedos-da-porquinha-peppa-conjunto-familia-90217124-5010993834600-peppa-pig-1178699440.jpg?v=1752941530
   Price: 14,99 € EUR
 - [Figura Pokémon Select - Teddiursa para Colecionadores](https://brincatoys.pt/products/figura-pokemon-select-teddiursa): Conquiste o adorável Teddiursa com a nova Figura Pokémon Select! Perfeita para colecionadores e fãs, com design autêntico e detalhes minuciosos.
-  Updated: 2025-10-13T06:19:03Z
+  Updated: 2025-10-15T09:00:47Z
   Vendor: Pokémon
   Product Type: + 3 anos
   Availability: Available
@@ -16120,7 +16120,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/figuras-mystery-minis-stitch-colecionaveis-em-vinil-237608125-889698760812-brincatoys-1178699473.jpg?v=1752942244
   Price: 9,00 € EUR
 - [Figura Pokémon Select – Pikachu 2 - Figura Colecionável](https://brincatoys.pt/products/figura-pokemon-select-pikachu-2): Figura Pokémon Select - Pikachu 2, a figura que irá eletrificar a sua coleção com detalhes autênticos e qualidade superior. Ideal para fãs do Pokémon.
-  Updated: 2025-10-13T06:19:02Z
+  Updated: 2025-10-15T09:00:47Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
@@ -16351,7 +16351,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/brinquedos-da-patrulha-pata-skye-jato-transformavel-774301124-778988486450-patrulha-pata-1178699641.jpg?v=1752944403
   Price: 26,50 € EUR
 - [Figuras Pokémon - Fennekin, Lechonk e Sirfetch'd](https://brincatoys.pt/products/figuras-pokemon-fennekin-lechonk-sirfetchd): Adicione magia à sua coleção com o conjunto de Figuras Pokémon - Fennekin, Lechonk, Sirfetch'd. Perfeitas para colecionar por fãs de todas as idades.
-  Updated: 2025-10-13T06:18:42Z
+  Updated: 2025-10-15T09:00:47Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
@@ -17317,7 +17317,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-dc-comics-76270-armadura-mech-do-batman-667627024-5702017590219-lego-1178700456.jpg?v=1752786605
   Price: 18,50 € EUR
 - [Lego DC Comics 76272 - A Batcaverna com Batman, Batgirl](https://brincatoys.pt/products/lego-dc-comics-a-batcaverna-com-batman-batgirl-e-the-joker): Descubra a emocionante Lego DC Comics 76272 - A Batcaverna com Batman, Batgirl e The Joker! Com este conjunto oferece aventuras super-heroicas.
-  Updated: 2025-10-13T06:17:40Z
+  Updated: 2025-10-15T11:03:48Z
   Vendor: LEGO
   Product Type: + 4 anos
   Availability: Available
@@ -18353,7 +18353,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/monster-jam-grave-digger-carrocaria-verde-vibrante-770924124-0778988509241-brincatoys-1178701249.jpg?v=1752783498
   Price: 21,50 € EUR
 - [Figura de batalha Pokémon - Floragato: Colecione e batalhe!](https://brincatoys.pt/products/figura-de-batalha-pokemon-floragato): Explore o mundo Pokémon com a Figura de Batalha Pokémon - Floragato. Reviva momentos épicos do anime e videojogos com esta figura articulada e detalhada.
-  Updated: 2025-10-13T06:16:25Z
+  Updated: 2025-10-15T09:00:47Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
@@ -19312,7 +19312,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/figura-toy-story-woody-o-heroi-dos-brinquedos-774600325-0194735046003-toy-story-1178701894.jpg?v=1752979091
   Price: 29,99 € EUR
 - [Monster High Boo-riginal Operetta: Boneca Exclusiva](https://brincatoys.pt/products/monster-high-boo-riginal-operetta): Descubra a boneca Monster High Boo-riginal Operetta, uma edição especial com um estilo vintage rockabilly. Perfeita para colecionadores e crianças!
-  Updated: 2025-10-13T06:15:18Z
+  Updated: 2025-10-15T09:52:10Z
   Vendor: Monster High
   Product Type: + 6 anos
   Availability: Available
@@ -19536,7 +19536,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/tartarugas-ninja-mutant-mayhen-leonardo-acao-e-heroismo-233873625-043377832812-tartarugas-ninja-1178702018.jpg?v=1752780006
   Price: 19,99 € EUR
 - [Tartarugas Ninja Mutant Mayhen - Raphael: Ação e Detalhes](https://brincatoys.pt/products/tartarugas-ninja-mutant-mayhen-raphael): Desperte a imaginação da sua criança com a figura de ação Tartarugas Ninja Mutant Mayhen - Raphael! Pose feroz e detalhes incríveis esperam por você!
-  Updated: 2025-10-13T09:58:25Z
+  Updated: 2025-10-15T11:19:54Z
   Vendor: Tartarugas Ninja
   Product Type: + 4 anos
   Availability: Available
@@ -19906,13 +19906,6 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-telecomandado-power-dragon-velocidade-e-aventura-862467424-4009803124674-brincatoys-1178699457.jpg?v=1752941898
   Price: 44,99 € EUR
-- [Carro Fast & Furious - Brian's Porsche 996 GT3 RS](https://brincatoys.pt/products/carro-fast-furious-brians-porsche-996-gt3-rs): O Carro Fast & Furious – Brian’s Porsche 996 GT3 RS reproduz ao pormenor o icónico veículo de Brian O’Conner, numa escala aproximada de 1:24. Primeiramente, fabricado em die-cast metal reforçado, este modelo apresenta superfícies lacadas em azul vivo, decalques “GT3 RS” realistas e jantes de liga com design multiraio, proporcionando detalhes fiéis ao original. Além disso, inclui componentes em plástico de elevada resistência para zonas como o difusor traseiro, o spoiler aerodinâmico ajustado e a grelha dianteira. Por outro lado, para um realismo superior, o modelo disponibiliza portas laterais e capot dianteiro totalmente funcionais, revelando o interior com bancos tipo competição, volante desportivo e barra de segurança (“roll cage”) visível através dos vidros fumados. Do mesmo modo, as rodas giram livremente e a suspensão ligeiramente rebaixada reflete o carácter de corrida do GT3 RS. Ademais, as luzes traseiras e os faróis dianteiros ostentam acabamento transparente, recriando o aspeto original. Ademais, recomendado para crianças a partir dos 8 anos e colecionadores, este carro die-cast cumpre normas de segurança CE, graças a materiais atóxicos e montagem resistente. Por isso, pais e entusiastas podem confiar na durabilidade do modelo para jogos de ação ou exposição em estantes. Consequentemente, desenvolve a coordenação motora, incentiva a criatividade e permite recriar cenas memoráveis da saga Fast & Furious. Por fim, seja para iniciar ou enriquecer uma vitrina de modelos automóveis, o Brian’s Porsche 996 GT3 RS é uma peça vencedora que combina precisão, qualidade e diversão. Em suma... Modelo die-cast 1:24 em metal e plástico resistente Portas e capot dianteiro funcionais Interior detalhado com volante desportivo e “roll cage” Jantes multiraio e decalques “GT3 RS” originais Dimensão:Idade recomendada: + de 8 anos.
-  Updated: 2025-10-13T06:14:38Z
-  Vendor: Fast & Furious
-  Product Type: + 8 anos
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-fast-furious-brian-s-porsche-996-gt3-rs-868124825-4006333081248-fast-furious-1178692469.jpg?v=1752822258
-  Price: 36,50 € EUR
 - [Tartarugas Ninja Mutant Mayhen - Michelangelo](https://brincatoys.pt/products/tartarugas-ninja-mutant-mayhen-michelangelo): A figura Tartarugas Ninja Mutant Mayhem Michelangelo traz a ação das famosas tartarugas diretamente para as mãos dos miúdos. Ptrimeiramente, com 11 pontos de articulação, esta figura articulada permite criar poses dinâmicas e recriar as cenas mais épicas da série. Além disso, o design colorido e fiel ao estilo Nickelodeon destaca-se pela máscara laranja característica do Michelangelo e pelos detalhes da carapaça em plástico resistente de alta qualidade. Por outro lado, para oferecer ainda mais diversão, este conjunto inclui acessórios: dois pares de nunchakus, duas estrelas ninja, um microfone, um pedaço de pizza, uma mini-tartaruga e restantes armas inspiradas no universo Mutant Mayhem. Desta forma, as crianças podem inventar batalhas, missões de resgate ou concertos improvisados na cidade de Nova Iorque. Ademais, todos os acessórios encaixam facilmente nas mãos da figura, garantindo brincadeiras sem esforço. Igualmente, com cerca de 11 cm (4,25″) de altura, adapta-se perfeitamente a outras figuras da coleção Mutant Mayhem e a cenários de brincadeira diversos. Como resultado, este brinquedo desenvolve a criatividade, a coordenação motora e promove horas de entretenimento ativo longe dos ecrãs. Por fim, seja para começar ou completar a coleção das Tartarugas Ninja, o Michelangelo Mutant Mayhem é uma escolha vencedora que combina qualidade, autenticidade e muita diversão. Em suma... Figura de 11 cm com 11 pontos de articulação Inclui acessórios: nunchakus, estrelas ninja, microfone, pizza e mini-tartaruga Plástico PVC atóxico e resistente, conforme normas CE Dimensão: 19 x 21 x 5,50 cm.Idade recomendada: + de 4 anos.
   Updated: 2025-10-13T06:14:37Z
   Vendor: Tartarugas Ninja
@@ -19928,7 +19921,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/tartarugas-ninja-mutant-mayhen-splinter-233874125-0043377832867-tartarugas-ninja-1178692501.jpg?v=1752821541
   Price: 19,99 € EUR
 - [Tartarugas Ninja Mutant Mayhen - Superfly](https://brincatoys.pt/products/tartarugas-ninja-mutant-mayhen-superfly): A figura Superfly Fly Guy da linha Teenage Mutant Ninja Turtles Mutant Mayhem traz toda a ousadia de um vilão mutante para a coleção de fãs e miúdos a partir dos 4 anos. Primeiramente, com escultura detalhada em PVC resistente, apresenta corpo texturizado em azul vibrante e olhos facetados em vermelho, recriando fielmente o visual do insecto mutante. Além disso, as asas translúcidas conferem dinamismo e realismo durante as brincadeiras. Ademais, para além do design arrojado, Superfly mede cerca de 10 cm de altura e dispõe de 12 pontos de articulação, o que permite criar poses de voo, ataque ou perseguição pelas ruas de Nova Iorque. Além disso, as mãos articuladas encaixam perfeitamente seis acessórios: um blaster futurista, lança-agulhas, granada tóxica, metralhadora leve, faca de lâmina dupla e bastão extensível. Dessa forma, a imaginação corre solta enquanto se encaixam armas e recriam-se cenas de confronto com as Tartarugas Ninja. Por outro lado, além de incentivar a criatividade, esta figura cumpre rigorosos padrões de segurança CE. Portanto, quer procure um brinquedo duradouro para brincadeiras diárias, quer deseje um item de valor para a sua vitrine, a figura Superfly Fly Guy garante robustez, versatilidade e autenticidade. Com ela, cada batalha contra o mal torna-se épica, enquanto se estimulam competências motoras finas e a coordenação mão-olho. Em suma... Altura: 10 cm (4”); 12 pontos de articulação Material: PVC resistente com pintura detalhada Acessórios: armas intercambiáveis (blaster, lança-agulhas, granada, metralhadora, faca, bastão) Dimensão: 19 x 21 x 5,50 cm.Idade recomendada: + de 4 anos.
-  Updated: 2025-10-13T09:58:26Z
+  Updated: 2025-10-15T04:22:52Z
   Vendor: Tartarugas Ninja
   Product Type: + 4 anos
   Availability: Available
@@ -20357,7 +20350,7 @@ Figura em borracha termoplástica do filme Branca de neve e os sete anões.Figur
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/figura-pokemon-select-turtwig-para-fas-e-colecionadores-232671525-0191726726715-pokemon-1181674369.jpg?v=1756212856
   Price: 14,99 € EUR
 - [Figura Pokémon Select Piplup para Fãs e Colecionadores](https://brincatoys.pt/products/pokemon-select-piplup): Apresentamos a figura Pokémon Select Piplup, o adorável companheiro das suas aventuras! Adquira a sua e comece a sua jornada hoje!
-  Updated: 2025-10-13T06:14:12Z
+  Updated: 2025-10-15T08:51:51Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
@@ -20420,7 +20413,7 @@ Figura em borracha termoplástica do filme Branca de neve e os sete anões.Figur
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/autocolantes-reutilizaveis-bombeiros-921937325-8410782193739-brincatoys-1182965216.jpg?v=1756214283
   Price: 9,80 € EUR
 - [Autocolantes reutilizáveis - Dinossauros](https://brincatoys.pt/products/autocolantes-reutilizaveis-dinossauros): Transforma quartos, janelas ou mesas numa numa viagem ao período jurássico que cabe na palma da mão.com o set de Autocolantes Reutilizáveis para crianças – Dinossauros. Em primeiro lugar, este kit inclui um painel de 40×30 cm com uma ilustração vibrante de paisagem pré-histórica — pântanos, florestas tropicais e vulcões em erupção — que serve de cenário para as tuas criações. Além disso, quatro folhas com mais de 50 autocolantes reutilizáveis trazem ao teu alcance espécies icónicas como T-Rex, Velociraptor, Triceratops, Pterodáctilo e muito mais, bem como folhas, ovos e pequenos insetos fósseis. Por outro lado, graças ao adesivo suave, as crianças podem colar, descolar e reposicionar as figuras inúmeras vezes sem danificar superfícies, tornando cada brincadeira sempre diferente. Do mesmo modo, o material resistente à água facilita a limpeza: basta passar um pano húmido para remover resíduos de pó e permitir novas composições. Por isso, o kit adapta-se a várias superfícies lisas – vidro, metal, plástico ou paredes pintadas – sem deixar vestígios. Ademais, o design colorido e divertido estimula a coordenação motora fina e e o sentido de sequência narrativa. Consequentemente, esta atividade desenvolve a coordenação motora fina e estimula a criatividade, ao mesmo tempo que apresenta conceitos básicos de paleontologia. Ademais, ao identificar cada dinossauro, a criança aprende a relacionar formas, cores e nomes científicos num contexto lúdico. Ganha-se vocabulário especializado e reforça-se o interesse pela ciência de forma divertida. Do mesmo modo, a aplicação é simples: basta destacar a figura, colar no local pretendido e ajustar a composição conforme a imaginação de cada criança. Desta forma, os Autocolantes Reutilizáveis para crianças – Dinossauros revelam-se perfeitos para passatempo educativo. Por outro lado, a embalagem compacta mantém todos os elementos organizados e fáceis de transportar, ideal para levar em viagens ou atividades em grupo. Por fim, o Autocolantes Reutilizáveis – Dinossauros transforma qualquer espaço num verdadeiro museu de história natural, onde cada história pré-histórica ganha vida com um simples toque. Em suma... Cenário de 40×30 cm com cenário jurássico detalhado +50 autocolantes reutilizáveis: dinossauros, plantas, ovos e insetos Adesivo suave, sem PVC, não danifica superfícies Fácil limpeza com pano húmido e reposicionamento ilimitado Estimula coordenação motora fina, criatividade e vocabulário Recomendado para maiores de 3 anos, certificado CE Dimensão: 22 x 23,40 x 1 cm.Idade recomendada: + de 3 anos.
-  Updated: 2025-10-14T17:04:01Z
+  Updated: 2025-10-15T05:57:51Z
   Vendor: Seleção Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -21206,7 +21199,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-05T15:27:18Z
   Total Products: 28
 - [Jogos educativos e de tabuleiro](https://brincatoys.pt/collections/jogos-educativos-e-de-tabuleiro)
-  Updated: 2025-10-14T16:29:54Z
+  Updated: 2025-10-15T11:21:15Z
   Total Products: 184
 - [Lego City](https://brincatoys.pt/collections/lego-city): Explora o mundo vibrante de LEGO® City onde há muito para fazer. Vai até à baixa da cidade, encena histórias emocionantes com os serviços de urgência e descobre as novas fronteiras, dos oceanos ao espaço. Constrói veículos fantásticos, viaja de comboio ou organiza incríveis espetáculos de acrobacias.
   Updated: 2025-10-06T16:42:49Z
@@ -21278,7 +21271,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-06T18:30:00Z
   Total Products: 98
 - [Bonecas](https://brincatoys.pt/collections/bonecas)
-  Updated: 2025-10-14T16:25:24Z
+  Updated: 2025-10-15T11:21:15Z
   Total Products: 240
 - [Bonecas clássicas](https://brincatoys.pt/collections/bonecas-classicas)
   Updated: 2025-10-06T19:06:40Z
@@ -21302,7 +21295,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-07T18:45:47Z
   Total Products: 20
 - [Primeiros encaixes](https://brincatoys.pt/collections/primeira-infancia-primeiros-encaixes)
-  Updated: 2025-10-13T19:14:28Z
+  Updated: 2025-10-15T11:21:15Z
   Total Products: 120
 - [Roca e Mordedores](https://brincatoys.pt/collections/primeira-infancia-roca-e-mordedores)
   Updated: 2025-10-13T19:30:21Z
@@ -21311,7 +21304,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-14T11:20:30Z
   Total Products: 201
 - [Veículos de colecção](https://brincatoys.pt/collections/carro-de-brinquedo-colecao)
-  Updated: 2025-10-13T19:10:56Z
+  Updated: 2025-10-15T11:21:15Z
   Total Products: 176
 - [Veículos Primeira Infância](https://brincatoys.pt/collections/carro-de-brinquedo-primeira-infancia)
   Updated: 2025-10-13T19:34:47Z
@@ -21338,7 +21331,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-13T19:30:21Z
   Total Products: 324
 - [2 - 3 anos](https://brincatoys.pt/collections/2-3-anos)
-  Updated: 2025-10-14T18:18:54Z
+  Updated: 2025-10-15T11:21:15Z
   Total Products: 1566
 - [4 - 5 anos](https://brincatoys.pt/collections/4-5-anos)
   Updated: 2025-10-14T16:25:24Z
@@ -21356,28 +21349,28 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-13T14:58:51Z
   Total Products: 125
 - [Até €15](https://brincatoys.pt/collections/ate-15)
-  Updated: 2025-10-14T19:40:06Z
+  Updated: 2025-10-15T11:21:15Z
   Total Products: 1302
 - [Até €25](https://brincatoys.pt/collections/ate-25)
-  Updated: 2025-10-14T19:40:06Z
+  Updated: 2025-10-15T11:21:15Z
   Total Products: 2409
 - [Até €35](https://brincatoys.pt/collections/ate-35)
-  Updated: 2025-10-14T19:40:06Z
+  Updated: 2025-10-15T11:21:15Z
   Total Products: 2872
 - [Até €50](https://brincatoys.pt/collections/ate-50)
-  Updated: 2025-10-14T19:40:06Z
-  Total Products: 3255
+  Updated: 2025-10-15T11:50:00Z
+  Total Products: 3254
 - [Até €60](https://brincatoys.pt/collections/ate-60)
-  Updated: 2025-10-14T19:40:06Z
-  Total Products: 3391
+  Updated: 2025-10-15T11:50:00Z
+  Total Products: 3390
 - [Até €80](https://brincatoys.pt/collections/ate-80)
-  Updated: 2025-10-14T19:40:06Z
-  Total Products: 3470
+  Updated: 2025-10-15T11:50:00Z
+  Total Products: 3469
 - [Até €100](https://brincatoys.pt/collections/ate-100)
-  Updated: 2025-10-14T19:40:06Z
-  Total Products: 3519
+  Updated: 2025-10-15T11:50:00Z
+  Total Products: 3518
 - [Novidades](https://brincatoys.pt/collections/novidades)
-  Updated: 2025-10-14T18:18:48Z
+  Updated: 2025-10-15T11:21:15Z
   Total Products: 394
 - [Outlet](https://brincatoys.pt/collections/outlet): Saldos válidos de 04/07/2025 a 26/12/2025, limitado ao stock existente e acumulável com outros descontos ou promoções.
   Updated: 2025-09-29T15:16:28Z
@@ -21488,7 +21481,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-13T22:01:58Z
   Total Products: 376
 - [LOL Surprise](https://brincatoys.pt/collections/lol-surprise)
-  Updated: 2025-10-05T14:47:19Z
+  Updated: 2025-10-15T11:21:15Z
   Total Products: 11
 - [LadyBug](https://brincatoys.pt/collections/ladybug)
   Updated: 2025-10-03T13:35:48Z
@@ -21503,7 +21496,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-06T19:02:19Z
   Total Products: 4
 - [Monster High](https://brincatoys.pt/collections/monster-high)
-  Updated: 2025-10-14T16:25:24Z
+  Updated: 2025-10-15T11:21:15Z
   Total Products: 42
 - [Naruto](https://brincatoys.pt/collections/naruto)
   Updated: 2025-10-05T19:22:59Z
@@ -21566,19 +21559,19 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-06T17:09:21Z
   Total Products: 9
 - [Catálogo](https://brincatoys.pt/collections/all)
-  Updated: 2025-10-14T19:40:06Z
-  Total Products: 3552
+  Updated: 2025-10-15T11:50:00Z
+  Total Products: 3551
 - [6 - 7 anos](https://brincatoys.pt/collections/6-7-anos)
-  Updated: 2025-10-13T19:28:10Z
+  Updated: 2025-10-15T11:21:15Z
   Total Products: 285
 - [11 - 14 anos](https://brincatoys.pt/collections/11-14-anos)
   Updated: 2025-10-14T16:29:54Z
   Total Products: 187
 - [+ 2 anos](https://brincatoys.pt/collections/de-2-anos)
-  Updated: 2025-10-11T16:10:10Z
+  Updated: 2025-10-15T11:21:15Z
   Total Products: 117
 - [+ 3 anos](https://brincatoys.pt/collections/de-3-anos)
-  Updated: 2025-10-14T19:40:06Z
+  Updated: 2025-10-15T11:21:15Z
   Total Products: 1217
 - [+ 4 anos](https://brincatoys.pt/collections/de-4-anos)
   Updated: 2025-10-14T16:25:24Z
@@ -21587,14 +21580,14 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-13T14:53:06Z
   Total Products: 139
 - [+ 6 anos](https://brincatoys.pt/collections/6-anos)
-  Updated: 2025-10-13T11:22:28Z
+  Updated: 2025-10-15T11:21:15Z
   Total Products: 188
 - [+ 7 anos](https://brincatoys.pt/collections/7-anos)
-  Updated: 2025-10-10T09:47:31Z
+  Updated: 2025-10-15T11:21:15Z
   Total Products: 77
 - [+ 8 anos](https://brincatoys.pt/collections/8-anos)
-  Updated: 2025-10-13T22:01:58Z
-  Total Products: 218
+  Updated: 2025-10-15T11:50:00Z
+  Total Products: 217
 - [+ 12 anos](https://brincatoys.pt/collections/12-anos)
   Updated: 2025-10-05T15:16:44Z
   Total Products: 91
@@ -21602,11 +21595,11 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-14T16:29:54Z
   Total Products: 86
 - [Os mais procurados](https://brincatoys.pt/collections/os-mais-populares)
-  Updated: 2025-10-14T19:40:06Z
-  Total Products: 3553
+  Updated: 2025-10-15T11:50:00Z
+  Total Products: 3552
 - [Recém-chegados](https://brincatoys.pt/collections/recem-chegados)
-  Updated: 2025-10-14T19:40:06Z
-  Total Products: 3553
+  Updated: 2025-10-15T11:50:00Z
+  Total Products: 3552
 - [Produtos em destaque](https://brincatoys.pt/collections/produtos-em-destaque)
   Updated: 2025-10-13T12:31:16Z
   Total Products: 22
@@ -21617,8 +21610,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-12T11:21:00Z
   Total Products: 6
 - [OrderlyEmails - Recommended Products](https://brincatoys.pt/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-10-14T19:40:06Z
-  Total Products: 3078
+  Updated: 2025-10-15T11:21:15Z
+  Total Products: 3077
 - [Girafa Sofia](https://brincatoys.pt/collections/girafa-sofia)
   Updated: 2025-10-13T18:51:31Z
   Total Products: 19
@@ -21626,8 +21619,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-14T11:20:30Z
   Total Products: 126
 - [Marketplace](https://brincatoys.pt/collections/marketplace)
-  Updated: 2025-10-14T19:40:06Z
-  Total Products: 3078
+  Updated: 2025-10-15T11:21:15Z
+  Total Products: 3077
 - [EzConnector](https://brincatoys.pt/collections/ezconnector)
   Updated: 2025-10-14T18:18:48Z
   Total Products: 924
