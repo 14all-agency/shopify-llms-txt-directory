@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-10-15T04:00:42.034Z
+- Updated At: 2025-10-15T12:00:40.362Z
 
 ## Products
 
@@ -1971,7 +1971,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/polyethylene-shoe-covers-white-200mm-x-400mm-35g-1600-pieces-foot-protection-essential-supplies-361671.jpg?v=1719445542
   Price: $85.00 NZD
 - [Polyethylene Extra Long Sleeve Covers - White, 200mm x 600mm x 20mu - 1100 Pieces](https://essentialsupplies.co.nz/products/polyethylene-extra-long-sleeve-covers-white-200mm-x-600mm-x-20mu-1100): Polyethylene sleeve covers constructed from low density polyethylene to provide a waterproof, protective barrier against the transfer of hair, skin and body fluids. Features full protection from wrist to elbow. Certified for use in the medical, farming and food processing industries. Constructed from low density polyethylene Protective barrier against fluid transfer Size: 200mm x 600mm Content: 1100 pieces Colour: White
-  Updated: 2025-07-07T23:23:42Z
+  Updated: 2025-10-15T06:28:03Z
   Vendor: Mattews Packaging
   Product Type: Arm Protection
   Availability: Available
@@ -7259,7 +7259,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/cardboard-corner-board-brown-50mm-x-50mm-x-4mm-x-1500mm-20-boards-corner-boards-essential-supplies-225304.jpg?v=1719444761
   Price: $44.00 NZD
 - [Cardboard Corner Board - Brown, 50mm x 50mm x 4mm x 1750mm - 20 Boards](https://essentialsupplies.co.nz/products/cardboard-corner-board-brown-50mm-x-50mm-x-4mm-x-1750mm-20): Brown pallet corner boards are designed to protect packages, by reducing damage during transportation and storage of palleted goods. Boards provide a cost effective measure to optimise warehouse pallet storage methods. Available in a range of lengths to suit all pallet sizes.
-  Updated: 2025-01-09T07:17:45Z
+  Updated: 2025-10-15T06:52:19Z
   Vendor: Mattews Packaging
   Product Type: Corner Boards
   Availability: Available
@@ -7301,7 +7301,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/void-fill-paper-roll-crumpler-black-600mm-width-1-crumpler-table-or-wall-mount-kraft-paper-rolls-essential-supplies-318890.jpg?v=1719445923
   Price: $575.00 NZD
 - [Void Fill Paper Roll Crumpler - Black, 1000mm Width - 1 Crumpler - *Table or Wall Mount](https://essentialsupplies.co.nz/products/void-fill-paper-roll-crumpler-black-1000mm-width-1-table-or-wall-mount)
-  Updated: 2025-01-09T00:09:40Z
+  Updated: 2025-10-15T11:31:19Z
   Vendor: Mattews Packaging
   Product Type: Kraft Paper Rolls
   Availability: Available
