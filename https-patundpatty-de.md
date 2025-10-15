@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-03-19T17:46:58Z
 - Contact Email: info@patundpatty.de
-- Updated At: 2025-10-14T20:00:34.785Z
+- Updated At: 2025-10-15T16:00:34.319Z
 
 ## Products
 
@@ -149,7 +149,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/waschbares-bio-kuschelkissen-ziege-handgemacht-pat-und-patty.jpg?v=1751450496
     Price: 63,95 € EUR
 - [Bio Kuschelkissen Hund Naturweiß Hellbraun | PAT & PATTY](https://patundpatty.de/products/bio-kuschelkissen-hund): Entdecken Sie das Bio Kuschelkissen Hund von PAT & PATTY. Handgemacht, gefüllt mit Hirsespelz, schadstofffrei, kuschelweich und perfekt für Geborgenheit.
-  Updated: 2025-10-12T21:02:15Z
+  Updated: 2025-10-15T05:02:27Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -1828,7 +1828,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio_Rassel_Schwein_-_PAT_PATTY-4831514.jpg?v=1731590068
     Price: 26,50 € EUR
 - [Bio Rassel Wildschwein – weich, nachhaltig & fair gefertigt](https://patundpatty.de/products/bio-rassel-wildschwein): Bio Rassel Wildschwein von PAT & PATTY: handgemacht, weich, schadstofffrei, nachhaltig & fair gefertigt perfekt zum Greifen, Spielen, Kuscheln & Freude schenken.
-  Updated: 2025-10-02T07:37:30Z
+  Updated: 2025-10-15T12:02:22Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -1900,7 +1900,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Nachhaltig-Verpackte-Bio-Weihnachtsrassel-Maus-Geschenkfertiges-GOTS-Zertifiziertes-Spielzeug-PAT-Und-PATTY.jpg?v=1752305896
     Price: 18,50 € EUR
 - [Bio Baumwollwatte – Füllmaterial für DIY-Projekte und Kissen](https://patundpatty.de/products/bio-baumwollwatte-fuellmaterial): Bio Baumwollwatte von PAT & PATTY: nachhaltig, weich, atmungsaktiv, schadstofffrei, hochwertig und perfekt zum Füllen von Kissen, Kuscheltieren & DIY-Projekten.
-  Updated: 2025-10-12T10:56:35Z
+  Updated: 2025-10-14T20:09:20Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -1930,7 +1930,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Waschbare-Bio-Baumwolle-Bastelwatte-GOTS-Kba-Naturf_llung-F_r-Spielzeug-Und-Bastelarbeiten-PAT-Und-PATTY.png?v=1752305383
     Price: 350,00 € EUR
 - [100 % Bio Schurwolle Kügelchen als Füllmaterial für Kissen](https://patundpatty.de/products/bio-schurwolle-fuellmaterial-wollkugelchen-kbt): Bio Schurwolle Kügelchen von PAT & PATTY: weich, atmungsaktiv, nachhaltig, waschbar und Made in Germany ideal zum Füllen von Kissen, Spielzeug & DIY-Projekten.
-  Updated: 2025-10-14T19:57:35Z
+  Updated: 2025-10-15T08:30:44Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -2358,7 +2358,7 @@
   Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Steckenpferd-Pontos-Mit-Gebiss-Kaufen-Handgemachtes-Hobby-Horsing-Spielzeug-Kinder-Pat-Und-Patty.webp?v=1751481160
   Price: 116,00 € EUR
 - [Bio Hobby Horse Zimtstern mit Gebiss handgemacht nachhaltig](https://patundpatty.de/products/bio-mini-steckenpferd-zimtstern-mit-einem-gebiss): Das Bio Hobby Horse „Zimtstern“ von PAT & PATTY handgemacht, nachhaltig & mit Gebiss ideal für fantasievolles Spielen, kleine Reiter & abenteuerlustige Kinder.
-  Updated: 2025-10-09T10:38:44Z
+  Updated: 2025-10-15T10:11:02Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -2472,7 +2472,7 @@
 ## Collections
 
 - [Bio Kuschelkissen - Nachhaltig & Weich | PAT & PATTY](https://patundpatty.de/collections/bio-kuschelkissen): Entdecke Bio Kuschelkissen und Bezüge aus weichem Plüsch bei PAT&PATTY. Nachhaltige, schadstofffreie Materialien für gesundes Kuschelvergnügen. Jetzt kaufen!
-  Updated: 2025-10-14T11:21:36Z
+  Updated: 2025-10-15T11:22:17Z
   Total Products: 16
 - [Bio Spielzeug & Hobby Horse für Kinder & Babys  | PAT & PATTY](https://patundpatty.de/collections/bio-steckenpferde): Entdecke handgemachte Hobby Horses aus Bio-Materialien. Nachhaltig, fair produziert & mit Liebe zum Detail – exklusiv bei PAT & PATTY. Jetzt kaufen!
   Updated: 2025-09-30T11:20:54Z
@@ -2487,7 +2487,7 @@
   Updated: 2025-10-10T11:22:38Z
   Total Products: 12
 - [Meistverkaufte Produkte - Nachhaltige Favoriten](https://patundpatty.de/collections/die-meistverkauften-produkte-von-patundpatty): Entdecken Sie die legendären Produkte von Pat & Patty: Bio-Kuscheltiere, Kissen & Spielzeug aus GOTS-zertifizierter Baumwolle. Nachhaltig & handgefertigt.
-  Updated: 2025-10-14T11:21:36Z
+  Updated: 2025-10-15T11:22:17Z
   Total Products: 35
 - [Personalisierte Bio Schmusetücher mit Tiermotiv | PAT & PATTY](https://patundpatty.de/collections/bio-schmusetucher-und-schnuffeltucher): Schenke Liebe mit handgemachten Bio-Schmusetüchern von PAT & PATTY – weich, nachhaltig & personalisierbar. Für kleine Hände, große Herzen & glückliche Momente.
   Updated: 2025-10-11T11:21:24Z
@@ -2499,7 +2499,7 @@
   Updated: 2025-09-26T11:21:52Z
   Total Products: 7
 - [Bio Füllmaterialien für DIY – nachhaltig & zertifiziert | PAT&PATTY](https://patundpatty.de/collections/bio-nachhaltige-fuellmaterial): Bio-Füllmaterialien für Kissen & Babyspielzeug: GOTS-zertifiziert, plastikfrei & hautfreundlich – ideal für Hersteller nachhaltiger DIY-Produkte | PAT&PATTY
-  Updated: 2025-10-14T11:21:36Z
+  Updated: 2025-10-15T11:22:17Z
   Total Products: 5
 - [Bio Kuscheltiere fürs Baby – fair & schadstofffrei | PAT & PATTY](https://patundpatty.de/collections/kuscheltiere): Hautfreundliche Bio-Kuscheltiere für Babys – aus GOTS-zertifizierter Bio-Baumwolle, fair produziert & mit Liebe designt von PAT & PATTY. Jetzt bestellen!
   Updated: 2025-10-06T11:22:00Z
@@ -2827,6 +2827,13 @@
     Updated: 2025-10-14T04:59:12Z
     Author: Sharon
     Tags: beispiele für pädagogisches spielzeug
+  - [7 Arten schadstofffreier Spielzeuge für gesunde Kinder](https://patundpatty.de/blogs/news/arten-schadstofffreier-spielzeuge-fuer-gesunde-kinder): Entdecken Sie 7 Arten schadstofffreier Spielzeuge und erfahren Sie, wie Sie gesunde und sichere Spielumgebungen für Ihr Kind schaffen.
+    Updated: 2025-10-15T04:09:26Z
+    Author: Sharon
+    Tags: arten schadstofffreier spielzeuge
+  - [Bio Wärmflasche Rabe: Entdecken Sie das nachhaltige Bio Schmusetuch für Babys von Pat & Patty aus Naturmaterialien](https://patundpatty.de/blogs/news/bio-warmflasche-rabe-entdecken-sie-das-nachhaltige-bio-schmusetuch-fur-babys-von-pat-patty-aus-naturmaterialien): Bio Wärmflasche Rabe: Entdecken Sie das nachhaltige Bio Schmusetuch für Babys von Pat & Patty aus Naturmaterialien
+    Updated: 2025-10-15T10:05:37Z
+    Author: Sharon Engel
 
 ## Store Pages
 
