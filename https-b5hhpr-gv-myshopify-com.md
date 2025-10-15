@@ -6,12 +6,12 @@
 - Timezone: Europe/Bucharest
 - Created At: 2025-10-04T05:09:15Z
 - Contact Email: info@comoripsaltice.ro
-- Updated At: 2025-10-14T12:00:27.862Z
+- Updated At: 2025-10-15T20:00:28.636Z
 
 ## Products
 
 - [Comori Psaltice: Chinonice Duminicale - Muzica Bizantina | Partituri](https://b5hhpr-gv.myshopify.com/products/chinonice-duminicale-partea-i): Descoperă Comori Psaltice cu Chinonice Duminicale! Partituri psaltice în format fizic/PDF, perfecte pentru iubitorii muzicii bizantine.
-  Updated: 2025-10-14T01:01:35Z
+  Updated: 2025-10-14T12:43:20Z
   Vendor: Comori Psaltice
   Product Type: 
   Availability: Available
@@ -30,7 +30,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/1344/4941/files/Extracted-pages-from-chinonice-duminicale-p3-final_Page1-scaled-e1661266449447.jpg?v=1760402959
   Price: 46,99 lei RON
 - [Chinonice Duminicale PDF - Partituri psaltice pentru psalti](https://b5hhpr-gv.myshopify.com/products/chinonice-duminicale-partea-a-ii-a): Volumul Chinonice Duminicale, partea a II-a adună capodopere bizantine ale arilor Dascăli, traduse și adaptate în română – o ediție esențială pentru psalți.
-  Updated: 2025-10-14T01:00:51Z
+  Updated: 2025-10-14T13:00:15Z
   Vendor: Comori Psaltice
   Product Type: 
   Availability: Available
@@ -55,16 +55,16 @@
   Updated: 2025-10-14T04:42:50Z
   Total Products: 0
 - [Chinonice](https://b5hhpr-gv.myshopify.com/collections/chinonice)
-  Updated: 2025-10-14T11:20:21Z
+  Updated: 2025-10-15T11:20:22Z
   Total Products: 3
 - [Digital Goods VAT Tax](https://b5hhpr-gv.myshopify.com/collections/digital-goods-vat-tax)
   Updated: 2025-10-07T06:23:39Z
   Total Products: 0
 - [Volume muzicale](https://b5hhpr-gv.myshopify.com/collections/volume-muzicale)
-  Updated: 2025-10-14T11:20:21Z
+  Updated: 2025-10-15T11:20:22Z
   Total Products: 4
 - [Chinonice](https://b5hhpr-gv.myshopify.com/collections/chinonice-1)
-  Updated: 2025-10-14T11:20:21Z
+  Updated: 2025-10-15T11:20:22Z
   Total Products: 3
 - [Heruvice](https://b5hhpr-gv.myshopify.com/collections/heruvice-1)
   Updated: 2025-10-14T04:42:50Z
