@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-10-15T04:00:45.826Z
+- Updated At: 2025-10-15T08:00:45.976Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -15223,7 +15223,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_929e3302-d250-42ef-ae27-a4f46147290e.jpg?v=1741883702
   Price: £65.00 GBP
 - [Blue 5mm Mini Stud Earrings Gold | December Birthstone Stud Earrings | Lily Blanche](https://www.lilyblanche.com/products/blue-topaz-mini-stud-earrings-gold-december): A pretty pair of real blue topaz  stud earrings measuring 5mm in a 18 carat gold vermeil setting. The ideal birthday gift for a December birthday. Shop now
-  Updated: 2025-08-24T11:08:27Z
+  Updated: 2025-10-15T07:23:10Z
   Vendor: Lily Blanche
   Product Type: Birthstone
   Availability: Available
@@ -16729,7 +16729,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £100.00 GBP
 - [Men's Baroque Pearl Necklace | High Quality |Lily Blanche](https://www.lilyblanche.com/products/mens-baroque-pearl-necklace-ivory-gold): This stunning freshwater baroque men's pearl necklace features a large cultured ivory keshi pearl. Pearl quality AAAA+ Free Jewellery Care Kit Worth £20.
-  Updated: 2025-08-30T19:12:47Z
+  Updated: 2025-10-15T06:34:20Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -16991,7 +16991,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £210.00 GBP
 - [St Christopher Necklace | Silver |Engravable | Lily Blanche](https://www.lilyblanche.com/products/st-christopher-necklace-silver-1): Give a meaningful gift with our timeless and stylish St Christopher Necklace in solid silver. Believed to keep travellers and loved ones safe as they embark on life's journey, the St Christopher medal is a meaningful gift. Personalise with free engraving. Order today and receive a free jewellery care kit!
-  Updated: 2025-10-14T20:56:21Z
+  Updated: 2025-10-15T06:14:35Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -23037,7 +23037,7 @@ From £190.
     Availability: Available
     Price: £475.00 GBP
 - [Men's Solid Sterling Silver Spiga Chain Necklace - Handmade UK Luxury](https://www.lilyblanche.com/products/mens-solid-sterling-silver-spiga-chain-necklace): Men’s solid sterling silver Spiga chain necklace – handcrafted in the UK, heavyweight wheat-link design, polished finish, perfect for gifting, with free care kit.
-  Updated: 2025-10-14T17:11:44Z
+  Updated: 2025-10-15T07:45:07Z
   Vendor: Lily Blanche
   Product Type: Choose Your Chain
   Availability: Available
