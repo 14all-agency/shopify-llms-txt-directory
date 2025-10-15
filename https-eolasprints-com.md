@@ -10,7 +10,7 @@
 - Contact Email: support@eolasprints.com
 - Contact Phone: +34-942735955
 - Address: Parque Empresarial Besaya D14, Reocín 39538, Cantabria, Spain
-- Updated At: 2025-10-14T20:00:34.120Z
+- Updated At: 2025-10-15T00:00:32.970Z
 
 Welcome to Eolas Prints - Your Trusted 3D Printing & Digital Fabrication Partner
 
@@ -1366,19 +1366,12 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/xtool-m1-ultra-the-worlds-first-4-in-1-craft-machine-laser-395.webp?v=1739443953
     Price: €3,499.00 EUR
 - [Bambu Lab P1s with Chamber Camera and Direct Drive](https://eolasprints.com/products/bambu-lab-p1s-combo): The Bambu Lab P1S Combo at Eolas Prints offers an extruder direct drive, chamber monitoring camera, and AMS for high-quality, multi-material 3D printing.
-  Updated: 2025-09-29T23:55:01Z
+  Updated: 2025-10-14T21:38:11Z
   Vendor: Bambu Lab
   Product Type: 3D Printer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/bambu-lab-p1s-combo-815.webp?v=1734018524
-  Price: €1,042.26 EUR
-- [Bambu Lab X1c Combo with Camera and Filament Sensor](https://eolasprints.com/products/bambu-lab-x1c-combo): The Bambu Lab X1C Combo from Eolas Prints is a professional 3D printer with AMS. It includes a filament sensor and a chamber monitoring camera for high quality results.
-  Updated: 2025-09-28T23:13:48Z
-  Vendor: Bambu Lab
-  Product Type: 3D Printer
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/bambu-lab-x1c-combo-professional-desktop-3d-765.webp?v=1734018076
-  Price: €1,698.61 EUR
+  Price: €799.00 EUR
 - [Cricut Maker 3 Smart Cutting Machine Products](https://eolasprints.com/products/cricut-maker-3): The Cricut Maker 3 at Eolas Prints cuts 300+ materials like leather and wood. This smart machine is 2x faster and works with Smart Materials for matless cuts.
   Updated: 2025-09-29T23:54:49Z
   Vendor: Cricut
@@ -1614,6 +1607,13 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   - [Kit](https://eolasprints.com/products/prusa-core-one-ultimate-edition?variant=52470903013703)
     Availability: Available
     Price: €1,499.00 EUR
+- [Bambu Lab P2S Combo](https://eolasprints.com/products/bambu-lab-p2s-combo)
+  Updated: 2025-10-14T21:48:28Z
+  Vendor: Bambu Lab
+  Product Type: 3D Printer
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/bambu-lab-p2s-combo-gray-3d-printer-476.webp?v=1760475514
+  Price: €899.00 EUR
 
 ## Collections
 
@@ -1651,14 +1651,14 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   Updated: 2025-10-11T00:45:51Z
   Total Products: 1
 - [Codigo Escuela 4.0: 3d Printing in Education](https://eolasprints.com/collections/codigo-escuela-4-0): The Codigo Escuela 4.0 collection from Eolas Prints provides 3D printers like Bambu Lab for modern education and digital literacy in Spain.
-  Updated: 2025-10-14T11:14:39Z
-  Total Products: 8
+  Updated: 2025-10-14T21:23:18Z
+  Total Products: 9
 - [Craft Machines for Home Projects and 3d Printing](https://eolasprints.com/collections/craft-machines): This collection of craft machines from Eolas Prints includes the Flashforge AD5X. ISO quality and environment management download certificates are available.
   Updated: 2025-09-28T22:41:04Z
   Total Products: 7
 - [3d Printing Equipment and Supplies Online Store](https://eolasprints.com/collections/3d-printers): Eolas Prints offers a professional collection of 3D printers, including the Flashforge AD5X. Our certified machines meet ISO and REACH quality standards.
-  Updated: 2025-10-04T13:50:07Z
-  Total Products: 17
+  Updated: 2025-10-14T21:24:49Z
+  Total Products: 19
 
 ## Blogs
 
