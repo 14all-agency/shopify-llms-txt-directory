@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2025-10-14T20:00:52.241Z
+- Updated At: 2025-10-15T04:00:53.309Z
 
 ## Products
 
@@ -639,7 +639,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Puff-Sleeve-Shawl-Collar-Blazer-Brinxx-Couture-6013.jpg?v=1739988534
     Price: $54.00 USD
 - [Side Slit Drop Shoulder Sweatshirt - Brinxx Couture](https://www.brinxxcouture.com/products/side-slit-drop-shoulder-sweatshirt): Stay stylish while staying comfy with this chic Side Slit Drop Shoulder Sweatshirt. Featuring a unique design with a dramatic side slit, this cozy garment is perfect for everyday wear and special occasions. Its drop shoulder cut ensures maximum comfort and freedom of movement.
-  Updated: 2025-10-14T08:21:42Z
+  Updated: 2025-10-15T02:32:50Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -5688,7 +5688,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Candy-Leather-Metallic-Pants-Brinxx-Couture-5060.jpg?v=1709349851
     Price: $30.00 USD
 - [2 Carat Moissanite Stud Earrings - Brinxx Couture](https://www.brinxxcouture.com/products/2-carat-moissanite-rhodium-plated-stud-earrings): These 2-carat moissanite stud earrings radiate beauty and elegance with its rhodium plating. These high quality earrings will last a lifetime! 🤩
-  Updated: 2025-10-05T01:53:07Z
+  Updated: 2025-10-14T21:04:27Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -8460,7 +8460,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/High-Neck-Long-Sleeve-Ribbed-Top-Brinxx-Couture-6079_ae99505f-4811-4797-bf89-89c3a0f73de1.jpg?v=1736050169
     Price: $25.00 USD
 - [Distressed Raw Hem Denim Jacket - Brinxx Couture](https://www.brinxxcouture.com/products/distressed-raw-hem-denim-jacket): This distressed raw hem denim jacket is the perfect way to make a statement. With its distressed raw hem design, you'll look cool and effortless.
-  Updated: 2025-10-14T17:31:38Z
+  Updated: 2025-10-15T03:52:18Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -10640,7 +10640,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Sport-Tank-and-Leggings-Set-Brinxx-Couture-6482.jpg?v=1709860365
     Price: $30.00 USD
 - [Woven Houndstooth Open Front Cardigan - Brinxx Couture](https://www.brinxxcouture.com/products/woven-houndstooth-open-front-cardigan): Stay warm and stylish with this woven Houndstooth cardigan! Featuring an open front and cozy oversized fit, you'll love the comfort and timeless appeal of this classic cardigan!
-  Updated: 2025-10-14T00:19:17Z
+  Updated: 2025-10-14T21:33:26Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -12736,13 +12736,13 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Mock-Neck-Long-Sleeve-Maxi-Bodycon-Dress-Brinxx-Couture-431.jpg?v=1709870644
     Price: $29.99 USD
 - [Fringe Trim Lapel Collar Cropped Blazer - Brinxx Couture](https://www.brinxxcouture.com/products/fringe-trim-lapel-collar-cropped-blazer): This stylish cropped blazer is the perfect pick for any event. Featuring a fringe trim lapel collar and an asymmetric and open-front design.
-  Updated: 2025-10-13T22:00:41Z
+  Updated: 2025-10-14T23:11:16Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Fringe-Trim-Lapel-Collar-Cropped-Blazer-Brinxx-Couture-6445.jpg?v=1709870913
   - [Camel / S](https://www.brinxxcouture.com/products/fringe-trim-lapel-collar-cropped-blazer?variant=42505799467190)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Fringe-Trim-Lapel-Collar-Cropped-Blazer-Brinxx-Couture-6445.jpg?v=1709870913
     Price: $59.99 USD
   - [Camel / M](https://www.brinxxcouture.com/products/fringe-trim-lapel-collar-cropped-blazer?variant=42505799499958)
@@ -16126,7 +16126,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/products/Cutout-Mock-Neck-Sleeveless-Dress-Brinxx-Couture-7698.jpg?v=1709885128
     Price: $29.99 USD
 - [Rhinestone Mock Neck Long Sleeve Dress - Brinxx Couture](https://www.brinxxcouture.com/products/rhinestone-mock-neck-long-sleeve-dress): Add some sparkle to your wardrobe with our Rhinestone Mock Neck Long Sleeve Dress! This dress features a trendy mock neck and long sleeves, adorned with dazzling rhinestones. Perfect for any special occasion, it's sure to make you stand out and feel glamorous. Shine on! Sheer: Semi-sheer Stretch: Slightly stretchy Body: Not lined Material composition: 60% viscose, 31% polyamide, 9% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements:S: Bust 29.92 in, Shoulder 13.78 in, Sleeve Length 22.83 in, Waist 26.77 in, HIP 34.65 in, Length 35.63 inM: Bust 32.28 in, Shoulder 14.37 in, Sleeve Length 23.23 in, Waist 29.13 in, HIP 37.01 in, Length 36.42 inL: Bust 34.65 in, Shoulder 14.96 in, Sleeve Length 23.62 in, Waist 31.50 in, HIP 39.37 in, Length 37.20 inXL: Bust 37.80 in, Shoulder 15.94 in, Sleeve Length 24.02 in, Waist 34.65 in, HIP 42.52 in, Length 37.99 in
-  Updated: 2025-10-14T18:09:21Z
+  Updated: 2025-10-15T03:52:01Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -18392,7 +18392,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/8-Carat-Moissanite-925-Sterling-Silver-Ring-Brinxx-Couture-2208.jpg?v=1730294698
     Price: $149.99 USD
 - [3 Stone 3 Carat Moissanite Ring - Brinxx Couture](https://www.brinxxcouture.com/products/3-stone-3-carat-moissanite-ring): Unleash the radiance and brilliance of this 3 Stone 3 Carat Moissanite Ring! Crafted with expert design, this ring flaunts a trio of stunning moissanite stones.
-  Updated: 2025-10-14T13:18:41Z
+  Updated: 2025-10-15T01:38:41Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -18402,7 +18402,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/3-Carat-Moissanite-925-Sterling-Silver-Ring-Brinxx-Couture-6529.jpg?v=1726379970
     Price: $99.99 USD
   - [Silver / 5](https://www.brinxxcouture.com/products/3-stone-3-carat-moissanite-ring?variant=43335410483382)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/3-Carat-Moissanite-925-Sterling-Silver-Ring-Brinxx-Couture-6529.jpg?v=1726379970
     Price: $99.99 USD
   - [Silver / 6](https://www.brinxxcouture.com/products/3-stone-3-carat-moissanite-ring?variant=43335410516150)
@@ -19244,13 +19244,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Plus-Size-Gradient-Sports-Bra-Brinxx-Couture-2413.jpg?v=1726380387
     Price: $35.00 USD
-- [Plus Size Contrast Yoga Set - Brinxx Couture](https://www.brinxxcouture.com/products/plus-size-contrast-yoga-set): Elevate your yoga practice with our Plus Size Contrast Yoga Set. This set is designed specifically for plus size individuals, providing comfort and support.
-  Updated: 2025-07-07T20:58:50Z
-  Vendor: Brinxx Couture
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Plus-Size-Contrast-Yoga-Set-Brinxx-Couture-6100.jpg?v=1726380406
-  Price: $59.00 USD
 - [ChromaBlend DuoTint pH Elixir Stick - Versatile Makeup Essential](https://www.brinxxcouture.com/products/chromablend-duotint-ph-elixir-stick): Discover the ChromaBlend DuoTint pH Elixir Stick. Blush, highlighter, and lip color in one. Adaptable, long-lasting, and cruelty-free. Order now for a radiant look!
   Updated: 2025-07-07T20:58:53Z
   Vendor: BimeBeauty
@@ -23430,7 +23423,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Notch-Lapel-Woven-Coat-with-Side-Pockets-Brinxx-Couture-2936.jpg?v=1730297108
     Price: $40.00 USD
 - [Cable-Knit Round Neck Sweater Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress): Wrap yourself in cozy comfort and timeless style with our Cable-Knit Round Neck Sweater Dress! Made from soft, high-quality materials.
-  Updated: 2025-10-14T18:11:56Z
+  Updated: 2025-10-15T03:31:21Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -27786,60 +27779,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Striped-Halter-Backless-Romper-Brinxx-Couture-1127.jpg?v=1733888714
     Price: $30.00 USD
-- [Brinxx Couture: Long Sleeve Twisted Top PU Leather Pants Set](https://www.brinxxcouture.com/products/long-sleeve-twisted-top-pu-leather-pants-set): Explore the Long Sleeve Twisted Top PU Leather Pants Set at Brinxx Couture. This chic and comfortable ensemble is perfect for any occasion. Shop today for style
-  Updated: 2025-08-22T19:26:04Z
-  Vendor: Brinxx Couture
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Long-Sleeve-Twisted-Top-PU-Leather-Pants-Set-Brinxx-Couture-7500.jpg?v=1733888716
-  - [S / Black](https://www.brinxxcouture.com/products/long-sleeve-twisted-top-pu-leather-pants-set?variant=43614535778486)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Long-Sleeve-Twisted-Top-PU-Leather-Pants-Set-Brinxx-Couture-1413.jpg?v=1733888722
-    Price: $49.99 USD
-  - [M / Black](https://www.brinxxcouture.com/products/long-sleeve-twisted-top-pu-leather-pants-set?variant=43614535811254)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Long-Sleeve-Twisted-Top-PU-Leather-Pants-Set-Brinxx-Couture-1413.jpg?v=1733888722
-    Price: $49.99 USD
-  - [L / Black](https://www.brinxxcouture.com/products/long-sleeve-twisted-top-pu-leather-pants-set?variant=43614535844022)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Long-Sleeve-Twisted-Top-PU-Leather-Pants-Set-Brinxx-Couture-1413.jpg?v=1733888722
-    Price: $49.99 USD
-  - [S / Brown](https://www.brinxxcouture.com/products/long-sleeve-twisted-top-pu-leather-pants-set?variant=43614535876790)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Long-Sleeve-Twisted-Top-PU-Leather-Pants-Set-Brinxx-Couture-3914.jpg?v=1733888718
-    Price: $49.99 USD
-  - [M / Brown](https://www.brinxxcouture.com/products/long-sleeve-twisted-top-pu-leather-pants-set?variant=43614535909558)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Long-Sleeve-Twisted-Top-PU-Leather-Pants-Set-Brinxx-Couture-3914.jpg?v=1733888718
-    Price: $49.99 USD
-  - [L / Brown](https://www.brinxxcouture.com/products/long-sleeve-twisted-top-pu-leather-pants-set?variant=43614535942326)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Long-Sleeve-Twisted-Top-PU-Leather-Pants-Set-Brinxx-Couture-3914.jpg?v=1733888718
-    Price: $49.99 USD
-  - [S / Blue](https://www.brinxxcouture.com/products/long-sleeve-twisted-top-pu-leather-pants-set?variant=43614535975094)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Long-Sleeve-Twisted-Top-PU-Leather-Pants-Set-Brinxx-Couture-6536.jpg?v=1733888720
-    Price: $49.99 USD
-  - [M / Blue](https://www.brinxxcouture.com/products/long-sleeve-twisted-top-pu-leather-pants-set?variant=43614536007862)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Long-Sleeve-Twisted-Top-PU-Leather-Pants-Set-Brinxx-Couture-6536.jpg?v=1733888720
-    Price: $49.99 USD
-  - [L / Blue](https://www.brinxxcouture.com/products/long-sleeve-twisted-top-pu-leather-pants-set?variant=43614536040630)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Long-Sleeve-Twisted-Top-PU-Leather-Pants-Set-Brinxx-Couture-6536.jpg?v=1733888720
-    Price: $49.99 USD
-  - [S / Yellow](https://www.brinxxcouture.com/products/long-sleeve-twisted-top-pu-leather-pants-set?variant=43614536073398)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Long-Sleeve-Twisted-Top-PU-Leather-Pants-Set-Brinxx-Couture-7500.jpg?v=1733888716
-    Price: $49.99 USD
-  - [M / Yellow](https://www.brinxxcouture.com/products/long-sleeve-twisted-top-pu-leather-pants-set?variant=43614536106166)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Long-Sleeve-Twisted-Top-PU-Leather-Pants-Set-Brinxx-Couture-7500.jpg?v=1733888716
-    Price: $49.99 USD
-  - [L / Yellow](https://www.brinxxcouture.com/products/long-sleeve-twisted-top-pu-leather-pants-set?variant=43614536138934)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Long-Sleeve-Twisted-Top-PU-Leather-Pants-Set-Brinxx-Couture-7500.jpg?v=1733888716
-    Price: $49.99 USD
 - [Brinxx Couture: Round Toe Block Heel Boots for Chic Style](https://www.brinxxcouture.com/products/round-toe-block-heel-boots): Shop the Round Toe Block Heel Boots at Brinxx Couture. Stylish and comfortable, these versatile boots are perfect for any occasion. Elevate your look today!
   Updated: 2025-10-06T12:49:17Z
   Vendor: Brinxx Couture
@@ -29626,7 +29565,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/8752f6cf5b91414fb0fd06a0dd136a96-Max.jpg?v=1736541194
     Price: $49.99 USD
 - [Stylish Lace-Up Backless Mesh Dress for Prom Night](https://www.brinxxcouture.com/products/stylish-lace-up-backless-mesh-dress): Shop our Stylish Lace-Up Backless Mesh Dress from Brinxx Couture for a unique prom look. Features an elegant lace-up backless design. Limited stock, order now!
-  Updated: 2025-10-13T05:43:16Z
+  Updated: 2025-10-14T22:09:26Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -34109,7 +34048,7 @@
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/WH2002222.jpg?v=1747426418
   Price: $89.99 USD
 - [V-Back Bow Tie Denim Dress - Brinxx Couture](https://www.brinxxcouture.com/products/v-back-bow-tie-denim-dress): Elevate your style with our V-Back Bow Tie Denim Dress. This flattering silhouette features a charming bow-tie detail at the back, creating a vintage twist.
-  Updated: 2025-10-14T08:21:22Z
+  Updated: 2025-10-15T00:52:04Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -34131,7 +34070,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/b5fd43c3-243a-4886-a3a4-ac44e52b7cf3-Max-Origin.webp?v=1747681659
     Price: $64.99 USD
   - [Navy / S](https://www.brinxxcouture.com/products/v-back-bow-tie-denim-dress?variant=43998614257846)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/3e33a05d-3a90-4961-85d6-82cfb51ff58e-Max-Origin.webp?v=1747681659
     Price: $64.99 USD
   - [Navy / M](https://www.brinxxcouture.com/products/v-back-bow-tie-denim-dress?variant=43998614290614)
@@ -36229,7 +36168,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/a8008b2a6ef44510baf6b699b44de1d1-Max-Origin.webp?v=1759770558
     Price: $29.99 USD
 - [Lapel Collar Long Sleeve Coat - Classic Style | Brinxx](https://www.brinxxcouture.com/products/lapel-collar-long-sleeve-coat): Discover timeless elegance with our Lapel Collar Long Sleeve Coat. Classic tailoring meets modern style. Perfect for professional & casual wear. Free Shipping!
-  Updated: 2025-10-07T05:10:49Z
+  Updated: 2025-10-15T00:34:11Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -36327,7 +36266,7 @@
   Updated: 2025-10-02T17:11:54Z
   Total Products: 14
 - [Stylish Co-ord Sets & One-Piece Outfits - Brinxx Couture](https://www.brinxxcouture.com/collections/womens-coord-sets): Discover Brinxx Couture's collection of trendy co-ord sets and chic one-piece outfits. Shop now for stylish, coordinated looks perfect for any occasion.
-  Updated: 2025-10-10T02:34:32Z
+  Updated: 2025-10-15T01:49:50Z
   Total Products: 59
 - [Plus Size Clothing | Stylish Dresses, Tops & More | Brinxx Couture](https://www.brinxxcouture.com/collections/plus-size-clothing-for-women): Discover flattering plus size clothing at Brinxx Couture. We offer trendy styles for all sizes. Shop dresses, tops, pants & more. Free shipping!
   Updated: 2025-10-03T14:53:47Z
@@ -36405,7 +36344,7 @@
   Updated: 2025-08-18T18:43:19Z
   Total Products: 0
 - [Plus Size Active Wear | Brinxx Couture](https://www.brinxxcouture.com/collections/plus-size-activewear): Stay fit and stylish with our collection of plus size active wear. Shop comfortable and trendy workout clothes at Brinxx Couture.
-  Updated: 2025-10-02T17:11:55Z
+  Updated: 2025-10-15T01:50:43Z
   Total Products: 12
 - [Women’s Graphic Tees | Brinxx Couture](https://www.brinxxcouture.com/collections/graphic-tees): Express your style with our collection of women’s graphic tees. Shop trendy and unique designs at Brinxx Couture.
   Updated: 2025-10-02T17:11:55Z
