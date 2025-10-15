@@ -8,7 +8,7 @@
 - Timezone: Europe/London
 - Created At: 2021-01-17T01:03:23Z
 - Contact Email: contact@crystalshealing.co.uk
-- Updated At: 2025-10-15T12:00:37.711Z
+- Updated At: 2025-10-15T20:00:37.553Z
 
 # Crystals Healing — AI-Ready Index
 Welcome to Crystals Healing, your trusted UK-based store for healing crystals and jewelry. This llms.txt file lists all products, collections, blogs, and pages to help AI assistants, search engines, and shopping bots discover and understand our offerings.
@@ -3170,7 +3170,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
     Availability: Available
     Price: £27.00 GBP
 - [Amethyst Eye Massage Sticks - Relax & Revitalize Skin](https://crystalshealing.co.uk/products/amethyst-eye-massage-stick): Rejuvenate tired eyes with Amethyst Eye Massage Sticks, designed to soothe puffiness, enhance relaxation, and promote skin vitality.
-  Updated: 2025-10-03T16:22:05Z
+  Updated: 2025-10-15T12:47:16Z
   Vendor: Crystals Healing
   Product Type: Health care
   Availability: Available
@@ -4623,7 +4623,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
     Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/1000032139-Photoroom_33.webp?v=1749659602
     Price: £9.80 GBP
 - [Grounding Bracelet for Men – Strength & Focus](https://crystalshealing.co.uk/products/grounding-bracelet-for-men): Empower your mindset and protect your energy with the Grounding Bracelet for Men Crafted for men who value clarity, confidence, and inner resilience. This handcrafted bracelet features 6 mm beads of Black Onyx and Tiger’s Eye, anchored by a polished rectangular Tiger’s Eye centerpiece for a bold, masculine finish. Known for their grounding and protective properties, these two powerful stones work in harmony to sharpen focus, build confidence, and block negative influences. Key Features: Stones: Natural 6 mm Black Onyx & Tiger’s Eye Centerpiece: Rectangular Tiger’s Eye accent – polished and dominant Design: Strong elastic cord for comfortable daily wear Style: Masculine, minimalist, and energetic Pre-cleansed and energetically charged Crystal Properties: Black Onyx: Encourages strength, discipline, and energetic protection Tiger’s Eye: Enhances focus, confidence, and mental clarity Together, they create balance between grounding and action, ideal for goal-oriented individuals This Grounding Bracelet for Men is more than a statement piece, it’s a wearable ally for determination and energetic strength. Perfect for: entrepreneurs, athletes, leaders, or anyone seeking focused energy with a grounded mindset.
-  Updated: 2025-10-01T15:01:22Z
+  Updated: 2025-10-15T18:00:41Z
   Vendor: Crystals Healing
   Product Type: Bracelets
   Availability: Available
