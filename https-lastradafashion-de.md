@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2023-03-22T10:49:51Z
 - Contact Email: onlineshop@lastradafashion.de
-- Updated At: 2025-10-15T16:00:56.429Z
+- Updated At: 2025-10-15T20:00:55.271Z
 
 La Strada is love for Italian Fashion. Our collections represents the latest fashion trends from Italy and is lovingly created and arranged for the modern fashionable woman who is looking for the newest trends, the best quality and best price. 
 
@@ -277,7 +277,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI4MjA3MTEuanBn.jpg?v=1741966620
     Price: 12,00 € EUR
 - [Basic T-Shirt mit Wellensaum](https://lastradafashion.de/products/basic-t-shirt-mit-wellensaum): Dieses Basic T-Shirt darf auf keinen Fall in Ihrem Kleiderschrank fehlen! Es hat unten und an den Ärmeln einen Wellensaum und kann als Grundlage für diverse Outfits getragen werden. Kombinieren Sie es mit einer Jeans, einem Rock oder einer Bundfaltenhose und tragen Sie es unter Cardigans, Jeansjacken oder Blazern, die Möglichkeiten sind unendlich! MARKE - La Strada PASSFORM UND SCHNITT - One Size (von Größen 36 bis 42) - normal geschnitten, locker fallend, reicht bis zur Hüfte - Rundhalsausschnitt, kurzer Arm MATERIAL UND VERARBEITUNG - Materialmix: 95% Viskose 5% Elastan - Materialqualität: leichtes Material, elastisches Material PFLEGEHINWEIS - Maschinenwäsche 30°C MODEL - Das Model ist 174cm groß und trägt Konfektionsgröße 36 bzw. S
-  Updated: 2025-10-15T11:42:15Z
+  Updated: 2025-10-15T17:41:30Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
@@ -1731,7 +1731,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI4NjM5NjUuanBn.jpg?v=1742225132
     Price: 89,00 € EUR
 - [Jeanshose mit weitem Umschlag](https://lastradafashion.de/products/jeanshose-mit-weitem-umschlag): Ein starker Auftritt für Denim-Liebhaberinnen: Die Jeanshose „Urban Cuff“ begeistert mit ihrem modischen Wide-Leg-Schnitt und dem markanten, extrabreiten Saumumschlag. Das dunkle Denim mit Kontrastnähten unterstreicht den modernen Charakter und verleiht der Hose einen cleanen, urbanen Look. Die aufgesetzten Taschen vorn sorgen für eine trendige Utility-Note, während der elastische Baumwollmix angenehm nachgibt und optimalen Tragekomfort bietet. Ein Highlight für stilbewusste Frauen, die das Besondere suchen – ein echtes Must-have!
-  Updated: 2025-10-15T11:33:38Z
+  Updated: 2025-10-15T16:06:26Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
@@ -2084,8 +2084,8 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
   Updated: 2024-09-04T14:12:32Z
   Total Products: 1
 - [Neu eingetroffene italienische Damenmode](https://lastradafashion.de/collections/neuheiten): Die Neuheiten spiegeln die aktuellen Modetrends wider und bieten den Kunden die Möglichkeit, immer up-to-date zu sein. Jetzt vorbeischauen!
-  Updated: 2025-10-15T14:22:56Z
-  Total Products: 1532
+  Updated: 2025-10-15T16:06:56Z
+  Total Products: 1533
 - [Italienische Abendmode für Damen](https://lastradafashion.de/collections/abend-looks): Italienische Abend-Outfits von La Strada entdecken. Lassen Sie sich von der neusten italienischen Damenmode inspirieren und bestellen Sie bequem, sicher & schnell.
   Updated: 2025-03-28T12:31:57Z
   Total Products: 240
