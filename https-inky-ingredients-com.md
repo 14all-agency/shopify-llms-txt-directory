@@ -9,7 +9,7 @@
 - Created At: 2023-11-20T15:32:25Z
 - Contact Email: hello@inky-ingredients.com
 - Address: Units 2, 3 & 5 Athelstan Business Park Hanwell Lane, Hutton Conyers Ripon, North Yorkshire HG4 5BF, UK
-- Updated At: 2025-10-15T16:00:35.777Z
+- Updated At: 2025-10-15T20:00:37.453Z
 
 The UK's largest natural ingredients supplier. INKY Ingredients supplies formulators and makers as well as the general public with the UK's widest range of essential oils, cold pressed oils, waxes, soaps, butters and more. We hold a 7 sustainability accreditations and are committed to providing an unparalleled selection of premium natural oil ingredients, fostering sustainability, and championing the sustainable beauty movement.
 
@@ -565,7 +565,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £552.00 GBP
 - [Rosehip Seed Oil, Cold Pressed Organic (O Colour)](https://inky-ingredients.com/products/rosehip-seed-oil-cold-pressed-organic-o-colour): Cold-pressed organic Rosehip Seed Oil, rich in nutrients. This oil, with its natural colour, nourishes and revitalises the skin, promoting a healthy glow while maintaining organic purity.
-  Updated: 2025-10-15T12:51:36Z
+  Updated: 2025-10-15T16:35:41Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
