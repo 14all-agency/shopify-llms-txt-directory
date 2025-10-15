@@ -9,12 +9,12 @@
 - Created At: 2025-08-25T14:01:44Z
 - Contact Email: support@themineralskin.com
 - Address: 17 Heath Drive, London NW3 7SL, United Kingdom
-- Updated At: 2025-10-14T12:00:29.153Z
+- Updated At: 2025-10-15T16:00:28.753Z
 
 ## Products
 
-- [Icelandic Volcano Scrub – Revitalize Your Skin with Natural Exfoliation](https://themineralskin.com/products/icelandic-volcano-face-body-scrub): Revitalize your skin with our Icelandic Volcano Scrub. This face and body scrub harnesses volcanic minerals for deep cleansing, exfoliation, and hydration. Experience glowing skin!
-  Updated: 2025-10-13T12:23:01Z
+- [Icelandic Volcano Face & Body Scrub | Volcanic Sand Exfoliator for Glowing Skin](https://themineralskin.com/products/icelandic-volcano-face-body-scrub): Reveal smoother, radiant skin with the Icelandic Volcano Face & Body Scrub, enriched with volcanic sand, fruit AHAs, and antioxidant-rich berry extracts. Gently exfoliates dead cells, refines texture, and boosts glow. Vegan, natural formula.
+  Updated: 2025-10-15T06:52:50Z
   Vendor: The Mineral
   Product Type: 
   Availability: Available
@@ -34,36 +34,36 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0918/9451/3992/files/hair-body-botanic-wash-1266704.png?v=1757489623
   Price: $36.00 USD
-- [Look Fresh with Botanic Mix Eye Cream for Radiant, Youthful Skin](https://themineralskin.com/products/botanic-mix-eye-cream): Revitalize your eyes with our Botanic Mix Eye Cream. Reduce puffiness and dark circles for a fresh, youthful look. Perfect for all skin types. Shop now and illuminate your gaze!
-  Updated: 2025-10-13T12:23:02Z
+- [Botanic Mix Eye Cream | Natural Eye Care for Dark Circles & Puffiness](https://themineralskin.com/products/botanic-mix-eye-cream): Refresh tired eyes with Botanic Mix Eye Cream, a lightweight, fast-absorbing formula enriched with 1% CBD and multi-molecular hyaluronic acid to reduce dark circles, puffiness & fine lines. 100% natural & Ecocert certified.
+  Updated: 2025-10-15T06:51:20Z
   Vendor: The Mineral
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0918/9451/3992/files/botanic-mix-eye-cream-4658680.png?v=1757489618
   Price: $31.00 USD
-- [Botanic Purge Foam - Fast Action to Blast Away Skin Impurities](https://themineralskin.com/products/botanic-purge-foam): Botanic Purge Foam deeply cleans skin by removing dirt, oil, and clogged pores using natural ingredients. It purifies without drying and shows clear results in 21 days.
-  Updated: 2025-10-13T12:23:02Z
+- [Botanic Purge Foam | Deep-Cleansing Mousse for Face & Pores](https://themineralskin.com/products/botanic-purge-foam): Purify your skin with Botanic Purge Foam, a fast-acting mousse cleanser that dissolves oil, removes impurities, unclogs pores, and leaves skin hydrated. 99% natural, ECOCERT certified, gentle yet effective for all skin types.
+  Updated: 2025-10-15T06:56:20Z
   Vendor: The Mineral
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0918/9451/3992/files/botanic-purge-foam-8322755.png?v=1757489620
   Price: $35.00 USD
-- [Caffeine Blend Infuser for All-Day Energy and Focus Boost](https://themineralskin.com/products/caffeine-blend-infuser): Stay sharp all day with our Caffeine Blend Infuser. Boost your energy and focus effortlessly. Perfect for coffee lovers seeking a quick caffeine fix. Order now!
-  Updated: 2025-10-13T12:23:03Z
+- [Caffeine Blend Infuser | Energizing Gel Booster for Skin & Eyes](https://themineralskin.com/products/caffeine-blend-infuser): Revitalize tired skin with the Caffeine Blend Infuser, a lightweight, oil-free gel booster enriched with 1% caffeine to reduce puffiness, brighten dark circles, and refresh facial skin naturally. 100% natural, vegan, Ecocert certified.
+  Updated: 2025-10-15T06:55:47Z
   Vendor: The Mineral
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0918/9451/3992/files/caffeine-blend-infuser-3176952.png?v=1757489620
   Price: $35.00 USD
-- [Botanic Beard Elixir: Make Your Beard Legendary with Natural Power](https://themineralskin.com/products/botanic-blend-elixir): Transform your grooming routine with our Botanic Beard Elixir. Nourish, soften, and style your beard for legendary results. Elevate your beard game today!
-  Updated: 2025-10-13T12:23:04Z
+- [Botanic Blend Elixir | Botanical Face Oil Serum for Radiant Skin](https://themineralskin.com/products/botanic-blend-elixir): Illuminate your skin with Botanic Blend Elixir, a luxurious botanical oil-serum blend with nourishing plant oils and antioxidants to deeply hydrate, restore glow, and balance skin tone. Ideal for daily facial care.
+  Updated: 2025-10-15T06:54:16Z
   Vendor: The Mineral
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0918/9451/3992/files/botanic-beard-elixir-6459706.png?v=1757489619
   Price: $39.00 USD
-- [Make Your Skin Look Young with Botanic Age Regression Cream](https://themineralskin.com/products/botanic-age-regression-cream): Revitalize your skin with our Botanic Age Regression Cream. Experience youthful radiance and reduce signs of aging! Achieve a smoother, firmer complexion today!
-  Updated: 2025-10-13T12:23:07Z
+- [Botanic Age Regression Cream | Natural Anti-Aging Face Moisturizer](https://themineralskin.com/products/botanic-age-regression-cream): Discover the Botanic Age Regression Cream, a 100% natural, vegan, Ecocert-certified anti-aging face cream formulated with multi-molecular hyaluronic acid, marine actives & botanical antioxidants. Smooth wrinkles, boost hydration, and promote firmer, glowing skin.
+  Updated: 2025-10-15T06:53:40Z
   Vendor: The Mineral
   Product Type: 
   Availability: Available
@@ -77,7 +77,7 @@
   Image: https://cdn.shopify.com/s/files/1/0918/9451/3992/files/sp.webp?v=1759397634
   Price: $1.60 USD
 - [The Modern Man’s Guide to Natural Skin (Ebook) - Mineral](https://themineralskin.com/products/the-modern-man-s-guide-to-natural-skin-ebook): A simple, science-backed guide for men who want healthy, natural skin—without harsh chemicals or 10-step routines. This book breaks down everything from what your skin truly needs to how to build a minimal, effective routine. 📘 Inside the book: Introduction: The New Face of Grooming Chapter 1: What Skin Actually Needs Chapter 2: Nature vs. Chemicals Chapter 3: Minimal Routine, Maximal Results Chapter 4: The Modern Man’s Mistakes Chapter 5: Building Your Natural Arsenal Chapter 6: Skincare as Self-Respect Conclusion: Back to the Source Bonus: Your Free Skin Coach Length: ~55 pagesPublisher: The Mineral Skin A clean, modern guide that helps men rediscover skincare as confidence, discipline, and self-respect — naturally. - Mineral -  - The Mineral
-  Updated: 2025-10-13T12:23:08Z
+  Updated: 2025-10-15T09:51:53Z
   Vendor: The Mineral
   Product Type: 
   Availability: Available
@@ -87,13 +87,13 @@
 ## Collections
 
 - [Best Selling Natural Skincare | The Mineral Skin](https://themineralskin.com/collections/best-sellers): Discover The Mineral Skin’s best selling skincare products made with natural, effective ingredients. Shop customer favorites for radiant, youthful, and healthy skin — loved by thousands.
-  Updated: 2025-10-13T12:23:09Z
+  Updated: 2025-10-15T11:26:19Z
   Total Products: 6
 - [Daily Essentials](https://themineralskin.com/collections/daily-essentials)
   Updated: 2025-10-07T11:25:35Z
   Total Products: 3
 - [Age & Recovery Skincare | Anti-Aging Natural Care – The Mineral Skin](https://themineralskin.com/collections/age-recovery): Revitalize your skin with The Mineral Skin’s Age & Recovery collection. Natural anti-aging formulas that reduce fine lines, restore firmness, and promote youthful radiance.
-  Updated: 2025-10-13T12:23:09Z
+  Updated: 2025-10-15T11:26:19Z
   Total Products: 4
 - [Beard & Shave Care | Natural Grooming Products – The Mineral Skin](https://themineralskin.com/collections/beard-shave-care): Shop premium beard and shave care essentials from The Mineral Skin. Natural grooming products designed to nourish, protect, and deliver a smooth, confident shave.
   Updated: 2025-10-03T14:30:25Z
@@ -102,48 +102,48 @@
   Updated: 2025-10-13T11:25:52Z
   Total Products: 4
 - [Botanic Natural Collection: Discover the Beauty of Nature's Wonders](https://themineralskin.com/collections/the-botanic™-collection): Discover the Botanic Natural Collection, where nature's beauty comes alive. Explore our unique range of eco-friendly products designed to enhance your natural lifestyle. Shop now!
-  Updated: 2025-10-13T12:23:09Z
+  Updated: 2025-10-15T11:26:19Z
   Total Products: 5
 - [Best Selling Products](https://themineralskin.com/collections/best-selling-products)
-  Updated: 2025-10-13T12:23:10Z
+  Updated: 2025-10-15T11:26:19Z
   Total Products: 10
 
 ## Blogs
 
 - [News](https://themineralskin.com/blogs/news)
-  - [The Mineral Skin: For Skin That Works as Hard as You Do](https://themineralskin.com/blogs/news/the-mineral-skin-for-skin-that-works-as-hard-as-you-do)
-    Updated: 2025-10-13T12:23:13Z
+  - [Mineral Skin Care: Achieve Radiant Skin That Works as Hard as You Do](https://themineralskin.com/blogs/news/the-mineral-skin-for-skin-that-works-as-hard-as-you-do): Mineral Skin Care: Achieve Radiant Skin That Works as Hard as You Do
+    Updated: 2025-10-15T07:07:18Z
     Author: Michele Galli
-  - [The Secret to Energized, Radiant Skin (Without Another Cup of Coffee)](https://themineralskin.com/blogs/news/the-secret-to-energized-radiant-skin-without-another-cup-of-coffee)
-    Updated: 2025-10-13T12:05:35Z
+  - [The Secret to Energized, Radiant Skin Without Coffee Boost](https://themineralskin.com/blogs/news/the-secret-to-energized-radiant-skin-without-another-cup-of-coffee): The Secret to Energized, Radiant Skin Without Coffee Boost
+    Updated: 2025-10-15T07:08:14Z
     Author: Michele Galli
-  - [Turn Back Time with Botanic Age Regression Cream](https://themineralskin.com/blogs/news/turn-back-time-with-botanic-age-regression-cream)
-    Updated: 2025-10-13T12:05:46Z
+  - [Botanic Age Regression Cream: Turn Back Time for Youthful Skin](https://themineralskin.com/blogs/news/turn-back-time-with-botanic-age-regression-cream): Botanic Age Regression Cream: Turn Back Time for Youthful Skin
+    Updated: 2025-10-15T07:09:00Z
     Author: Michele Galli
-  - [Botanic Age Regression Cream Review – Unlocking Youthful Skin Naturally](https://themineralskin.com/blogs/news/botanic-age-regression-cream-review-unlocking-youthful-skin-naturally)
-    Updated: 2025-10-13T12:05:56Z
+  - [Botanic Age Regression Cream Review - Discover Naturally Youthful Skin](https://themineralskin.com/blogs/news/botanic-age-regression-cream-review-unlocking-youthful-skin-naturally): Botanic Age Regression Cream Review - Discover Naturally Youthful Skin
+    Updated: 2025-10-15T07:09:45Z
     Author: Michele Galli
-  - [Caffeine Blend Infuser: The Secret to Energized, Radiant, and Youthful Skin](https://themineralskin.com/blogs/news/caffeine-blend-infuser-the-secret-to-energized-radiant-and-youthful-skin)
-    Updated: 2025-10-13T15:21:13Z
+  - [Caffeine Blend Infuser for Energized, Radiant, Youthful Skin](https://themineralskin.com/blogs/news/caffeine-blend-infuser-the-secret-to-energized-radiant-and-youthful-skin): Caffeine Blend Infuser for Energized, Radiant, Youthful Skin
+    Updated: 2025-10-15T07:10:07Z
     Author: Michele Galli
-  - [New Study Reveals Surprising Insight About The Mineral Skin Caffeine Blend Infuser](https://themineralskin.com/blogs/news/new-study-reveals-surprising-insight-about-the-mineral-skin-caffeine-blend-infuser)
-    Updated: 2025-10-14T08:17:59Z
+  - [New Study Reveals Surprising Benefits of Mineral Skin Caffeine Infuser](https://themineralskin.com/blogs/news/new-study-reveals-surprising-insight-about-the-mineral-skin-caffeine-blend-infuser): New Study Reveals Surprising Benefits of Mineral Skin Caffeine Infuser
+    Updated: 2025-10-15T07:11:26Z
     Author: Michele Galli
 
 ## Store Pages
 
-- [Contact](https://themineralskin.com/pages/contact)
-  Updated: 2025-08-25T14:01:48Z
-- [Track Order](https://themineralskin.com/pages/track-order)
-  Updated: 2025-10-11T16:25:18Z
+- [Contact Us for Inquiries and Support - Your Questions Answered Here](https://themineralskin.com/pages/contact): 
+  Updated: 2025-10-15T07:12:40Z
+- [Track Order Status | Order Tracking Made Easy for Your Convenience](https://themineralskin.com/pages/track-order): 
+  Updated: 2025-10-15T07:13:19Z
 - [Your privacy choices](https://themineralskin.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2025-08-27T12:49:23Z
-- [Why Natural?](https://themineralskin.com/pages/why-natural)
-  Updated: 2025-10-11T16:24:57Z
-- [About Us - Know more about mineral](https://themineralskin.com/pages/ai-skincare-advisor)
-  Updated: 2025-10-11T15:48:12Z
-- [Why It Works? - Know More About Our Products](https://themineralskin.com/pages/why-it-works-know-more-about-our-products)
-  Updated: 2025-10-12T10:39:14Z
+- [Natural Products Benefits Skincare Products for Effective Solutions](https://themineralskin.com/pages/why-natural): 
+  Updated: 2025-10-15T07:15:25Z
+- [Mineral Skincare Brand Information - About Us and Our Values](https://themineralskin.com/pages/ai-skincare-advisor): 
+  Updated: 2025-10-15T07:16:03Z
+- [Skincare Product Effectiveness Reasons - Learn About Our Quality Products](https://themineralskin.com/pages/why-it-works-know-more-about-our-products): 
+  Updated: 2025-10-15T07:16:46Z
 - [HTML Sitemap](https://themineralskin.com/pages/html-sitemap)
   Updated: 2025-10-13T12:44:40Z
 
