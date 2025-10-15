@@ -10,7 +10,7 @@
 - Contact Email: info@theblissfuldog.com
 - Contact Phone: 855-364-2547
 - Address: 50688 235th ave NW
-- Updated At: 2025-10-15T12:00:43.030Z
+- Updated At: 2025-10-15T16:00:42.827Z
 
 ## Products
 
@@ -12842,7 +12842,7 @@
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/GSMD_15TUBE_COMBOcopy_6abec734-df81-4632-808f-898fcaa48bda.jpg?v=1648502794
   Price: $19.95 USD
 - [The Blissful Dog Greyhound Tube Combo For Greyhound Skin Care](https://theblissfuldog.com/products/greyhound-tube-combo): The Blissful Dog Greyhound Skin Care Tube Combo - All natural balms for your Greyhound's dry nose, rough paws, elbow calluses, bug bites & itchy skin.
-  Updated: 2025-06-24T16:12:27Z
+  Updated: 2025-10-15T13:21:30Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
