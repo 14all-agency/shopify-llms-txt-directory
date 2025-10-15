@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-06-23T16:52:36Z
 - Contact Email: customerservice@aliciaadamsalpaca.com
-- Updated At: 2025-10-15T12:00:39.449Z
+- Updated At: 2025-10-15T16:00:38.882Z
 
 ## Products
 
@@ -750,7 +750,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-as290-07-24-houndstoothscarf-brown-lightblue-white-web.jpg?v=1735832602
     Price: $95.00 USD
 - [Buy Alassio Wrap | Luxury Alpaca Wrap | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/alassio-wrap): Buy Alassio Wrap, luxury alpaca Wrap at alicia adams alpaca. Earn Rewards. Shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-10-10T17:31:02Z
+  Updated: 2025-10-15T13:31:33Z
   Vendor: alicia adams alpaca
   Product Type: Scarves & Wraps
   Availability: Available
@@ -772,7 +772,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AS133-12-90-AlassioWrap-LightGrey-Yellow-white-web.jpg?v=1719259343
     Price: $295.00 USD
   - [Ivory / ONE SIZE](https://aliciaadamsalpaca.com/products/alassio-wrap?variant=40826821476467)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AS133-01-Alassio-Wrap-Ivory-2-white-web.jpg?v=1719259343
     Price: $295.00 USD
   - [Navy / Ivory / ONE SIZE](https://aliciaadamsalpaca.com/products/alassio-wrap?variant=40826821378163)
@@ -4918,7 +4918,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-MysticPillow-IndianSummer-FlatWhite.jpg?v=1741011011
     Price: $245.00 USD
 - [Buy Dixie Driving Gloves | Luxury Alpaca Gloves | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/dixie-driving-gloves): buy dixie driving gloves, luxury alpaca gloves at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-10-10T14:50:03Z
+  Updated: 2025-10-15T12:43:56Z
   Vendor: alicia adams alpaca
   Product Type: Gloves & Mittens
   Availability: Available
@@ -5435,13 +5435,13 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-reversiblehat_deniumblue_charcoal_flatwhite.jpg?v=1759498174
     Price: $165.00 USD
 - [Buy Suri Wrap | Luxury Alpaca Wrap | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/suri-wrap): buy suri wrap, luxury alpaca wrap at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-10-10T14:50:31Z
+  Updated: 2025-10-15T13:31:33Z
   Vendor: alicia adams alpaca
   Product Type: Scarves & Wraps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-suriwrap-model-web_5_1.jpg?v=1738770371
   - [Beige / Light Taupe](https://aliciaadamsalpaca.com/products/suri-wrap?variant=40826949959795)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-as105-02-102-suriwrap-beige-lighttaupe-white-hr.jpg?v=1693227925
     Price: $495.00 USD
   - [Hunter / Dark Grey](https://aliciaadamsalpaca.com/products/suri-wrap?variant=40826949992563)
@@ -5453,7 +5453,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-as105-27-17-suriwrap-navy-black-white-hr.jpg?v=1693227925
     Price: $495.00 USD
 - [Buy Gia Jacket | Luxury Alpaca Jacket | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/gia-jacket): buy gia jacket, luxury alpaca jacket at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-10-13T14:25:01Z
+  Updated: 2025-10-15T15:37:14Z
   Vendor: alicia adams alpaca
   Product Type: Coats & Jackets
   Availability: Available
@@ -11716,7 +11716,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH534-139-124-ZebraThrow-JuniperMoss-FlatWhite.jpg?v=1759490717
     Price: $495.00 USD
 - [Buy Classic Throw | Luxury Alpaca Throws | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/classic-throw): Discover luxurious comfort with our Alicia Adams Alpaca Classic Throws. Available in over 100 vibrant hues, these throws add elegance to any space. Perfect for cozy nights or stylish accents. Buy now & earn rewards! Shop our fair-trade, eco-friendly luxury goods.
-  Updated: 2025-10-13T17:33:47Z
+  Updated: 2025-10-15T12:33:16Z
   Vendor: alicia adams alpaca
   Product Type: Blankets & Throws
   Availability: Available
@@ -12324,7 +12324,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-img_1273.jpg?v=1759490287
     Price: $145.00 USD
 - [Buy Gift Wrap | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/gift-wrap): buy gift wrap, luxury alpaca wrapin at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-10-13T20:53:56Z
+  Updated: 2025-10-15T13:31:33Z
   Vendor: wrapin
   Product Type: wrapin
   Availability: Available
