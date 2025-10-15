@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2014-08-05T01:45:52Z
 - Contact Email: info@littlebambinos.co.nz
-- Updated At: 2025-10-15T04:00:50.143Z
+- Updated At: 2025-10-15T08:00:50.594Z
 
 ## Products
 
@@ -11049,21 +11049,21 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BBB_1504_OPTIMISED.jpg?v=1734472147
   Price: $24.00 NZD
 - [BYEBYEBAD Natural Hand Protector 75ml](https://www.littlebambinos.co.nz/products/alcohol-free-hand-protector): Wave your hands like you’ve won the lottery, knowing your precious mitts can now be protected from bad bugs without the need to use yucky, stinky hand sanitisers! Our natural, alcohol-free, Bioactive Totarol™ powered Hand Protector applies a layer over the skin that inhibits growth of bad bacteria, this allows the good bacteria to thrive, the more good bacteria are thriving the more you are protected (unlike traditional hand sanitisers that kill everything). It stays active for 24 hours all while nourishing your skin by fusing Kawakawa, Hemp, Manuka and Echinacea. A few sprays a day of this natural hand protector will keep the bad bugs at bay! Our handy 75ml travel size, is perfect for on-the-go, storing in your handbag, car, desk drawer or nappy bag. 99% natural protects against 99.99% of bugs alcohol-free tested and proven against a range of household pathogens active for 24hrs rebalances skin ph levels antibacterial & antioxidant bioactive totarol™ made in new zealand cruelty free vegan friendly protector of all things good Ingredients: Water (aqua), Decyl glucoside, Betaine, Polyglyceryl-4 Laurate/Sebacate, polyglyceryl-6 caprylate/caprate, Glycerine, tocopherol, Aloe Barbendasis (Aloe Vera) Leaf Extract, Galactoarabinan, Mentha Piperita (Peppermint) Leaf Oil, Organic Cannabis Sativa (Hemp) Seed Oil, Sodium Caproyl/Lauroyl Lactylate/Triethyl Citrate, Salvia Officinalis (Sage) Oil, Echinacea Purpurea (Echinacea) Root Extract, Macropiper Excelsum (Kawakawa) Leaf Extract, Calendula Officinalis (Calendula) Flower Extract, Benzyl Alcohol, Helianthus Annuus (Sunflower) Seed Oil, Totarol, Polysorbate 60, Caprylhydroxamic Acid, Glyceryl Caprylate.
-  Updated: 2025-10-15T00:12:41Z
+  Updated: 2025-10-15T06:52:40Z
   Vendor: byebyebad™
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BBB_1501_OPTIMISED.jpg?v=1734472211
   Price: $6.00 NZD
 - [BYEBYEBAD Prebiotic mouth refresher 75ml](https://www.littlebambinos.co.nz/products/alcohol-free-mouth-refresher): Mouths. So much good stuff happens in them. Eating, drinking, kissing, breathing. But unfortunately, there's also bad. A buildup of bacteria is often caused from these activities which can lead to gingivitis, tooth decay, sore throats and sadly…bad breath. Since you can't avoid these activities, let the byebyebad® Prebiotic Mouth Refresher be your trusty new friend. Packed with antioxidant, antibacterial and anti-inflammatory goodness like Bioactive Totarol™, sweet fennel oil and peppermint oil, designed to kick bacteria in the butt and leave you with a fresh, clean, soothed mouth hole. Keep a bottle handy for a spritz when it’s needed most. 98% natural soothes & refreshes reduces & prevents mouth bacteria keeps breath fresh antibacterial & antioxidant bioactive totarol™ made in new zealand cruelty free vegan friendly good to take on a date Ingredients: Aqua (Water), Glycerin, Aloe Barbadensis (Aloe Vera) Leaf Juice, Fructoligosaccharide, Galactoarabinan, Totarol, D-Panthenol, Helianthus Annuus (Sunflower) Seed Oil, Polysorbate 60, Mentha Spicata (Spearmint) Leaf Oil, Mentha Piperita (Peppermint) Leaf Oil, Foeniculum Vulgare Dulce (Fennel) Seed Oil, Decyl Glucoside, Lauryl Glucoside, Sodium Cocoyl Glutamate, Saccharin, Citric Acid.
-  Updated: 2025-10-13T22:42:40Z
+  Updated: 2025-10-15T07:02:40Z
   Vendor: byebyebad™
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BBB_1508_OPTIMISED.jpg?v=1734473001
   Price: $12.00 NZD
 - [BYEBYEBAD Prebiotic Handwash — Fresh forest scent with exfoliating pumice 550ml](https://www.littlebambinos.co.nz/products/prebiotic-handwash-fresh-forest-scent-with-exfoliating-pumice): byebyebad ™ Prebiotic Handwash with Fresh Forest scent & exfoliating pumice says bye to bad bacteria by cleaning hands (important) while leaving your hands smelling and feeling like you’ve touched the tree of life (bonus). But it also nourishes the good bacteria unlike other harsh products that strip them off. That’s thanks to the prebiotic skin loving ingredients which act as a food source for your naturally occurring probiotics, keeping them fed, happy and healthy and your skin soft and moisturised. Your hands will be clapping for it. 98% natural protects the skin barrier rebalances skin ph levels soap free formulation antibacterial & antioxidant bioactive totarol™ made in new zealand cruelty free vegan friendly smooth operator Ingredients: Aqua (Water); Sodium Coco Sulfate; Coco Glucoside; Aloe Barbadensis (Aloe Vera) Leaf Juice; Pumice; Fragrance (100% natural); Totarol; Helianthus Annuus (Sunflower) Seed Oil; Polysorbate 60; Caprylhydroxamic Acid; Glyceryl Caprylate; Glycerin; Guar Hydroxypropyltrimonium Chloride; Dehydroacetic Acid; Benzyl Alcohol; Alcohol; Acrylates/C10-30 Alkyl Acrylate Crosspolymer; Caramel.
-  Updated: 2025-10-14T02:50:44Z
+  Updated: 2025-10-15T05:30:42Z
   Vendor: byebyebad™
   Product Type: 
   Availability: Available
@@ -13148,7 +13148,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Screenshot2025-03-14at1.06.00PM_1aec2c1f-de17-40ea-9126-b5332b2a5f61.png?v=1746087936
   Price: $20.00 NZD
 - [BIBS Pacifier (Orthodontic) - Couture - Silicone - Vanilla + Peach](https://www.littlebambinos.co.nz/products/bibs-pacifier-orthodontic-couture-silicone-vanilla-peach): The BIBS Couture pacifier has an anatomically shaped nipple - also known as an orthodontic nipple - which is curved at the top for a natural fit to the baby's palate. The shield is carefully designed with large holes on each side to ensure minimum contact with the delicate skin around the babyÃ¢â‚¬â„¢s mouth.
-  Updated: 2025-10-07T23:03:45Z
+  Updated: 2025-10-15T06:50:46Z
   Vendor: BIBS
   Product Type: Pacifier
   Availability: Available
@@ -13220,14 +13220,14 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $49.00 NZD
 - [Rejuvenating Face Oil](https://www.littlebambinos.co.nz/products/moon-rejuvenating-face-oil): 100% Natural Deep hydration. Brighten skin tone.Bring balance. Crafted to work in harmony with your hormones, this Vitamin A-rich blend does exactly what it promises – firms, hydrated instantly, reduces dark spots & brings the glow. As a natural Retinol, the Rejuvenating Face Oil is the answer to skin you’re proud to be in.This is your result-driven skincare with the benefit of a ritual. How this works: Renews your skin smoothing wrinkles Preserves and softens skin without being too oily Fades spots, scars or dark patches How to use Apply morning & night to the face & neck as the last step in your skincare routine. This beauty seals in your serum & moisturiser, for healthy, happy skin. Ingredients Caryodendron orinocense (Cacay Oil) , Sclerocara birrea (Marula oil), Borago officinalis (Borage seed oil), Vitis vinifera (Grapeseed oil), Simmondsia chinensis (Jojoba Oil), Actinida chinensis (Kiwifruit seed oil), Frankincense Olibanum Essential Oil, Citrus aurantium amara (Neroli essential oil). Cacay Oil - Cacay oil is being touted as the best anti-ageing oil yet! is a non-irritating, natural vitamin A (AKA a bio-retinol), which stimulates cell renewal to help smooth the appearance of fine lines and wrinkles. Marula and Borage oils - Marula helps soften and lock in moisture in the skin while not being too oily - it is also enhances the penetration of other ingredients to be absorbed into the skin while Borage helps preserve the suppleness of the skin - it;s really soothing to the skin. Frankincense and neroli - From the days of Cleopatra, she knew about this beauty oil -it reduces the appearance of wrinkles, scars and discoloration. Also, great for acne with its anti-inflammatory and antimicrobial benefits. Meanwhile the most amazing nervous-system soothing oil that also stimulates skin cells to regenerate, giving it anti-scarring properties.
-  Updated: 2025-10-14T08:02:54Z
+  Updated: 2025-10-15T07:22:42Z
   Vendor: Oria Skin
   Product Type: Skincare
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/rejuvenating_face_oil.jpg?v=1743995362
   Price: $79.00 NZD
 - [Positivity Mist](https://www.littlebambinos.co.nz/products/positivity-mist): 100% Natural Uplift moodPromote confidenceIncrease optimism Bring lightness, energy & optimism into your day with our Positivity Mist. This light pick-me-up is formulated with organic essential oils known to promote confidence, clear thinking & positivity. Simply mist & enjoy the benefits of geranium, grapefruit, sweet orange & more. 200ml How to use Use as a body & aura spray or room & linen spray. Ingredients Purified aqua, Pelargonium Graveolens* (Geranium Essential Oil), Citrus Paradisii* (Grapefruit), (Sweet Orange), Cymbopogon Flexuosus* (Lemongrass), Citrus Aurantium (Neroli), Citrus Sinensis* Cymbopogon Winterianus jowitt* (Citronella), Limnanthes Alba (Meadow foam seed oil)
-  Updated: 2025-10-09T21:22:46Z
+  Updated: 2025-10-15T05:42:40Z
   Vendor: Oria Skin
   Product Type: Spritzer
   Availability: Available
@@ -13268,14 +13268,14 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $59.00 NZD
 - [ORIA SKIN All Body Oil](https://www.littlebambinos.co.nz/products/all-body-oil): 100% Natural Deep hydrationSoothes dryness Balanced mood A true multi-tasking oil, use all over to leave your body feeling supple and nourished. Rich in vitamins A, C & E to bring hydration & glow to your skin, while geranium regulates & supports hormones. Lovingly massage into body after surf, sun, shave or shower. Can also be used to tame unruly hair. How it works: Apricot Kernel - deeply moisturises the skin but also helps prevent further environmental damage Sesame Oil - has a reverse ageing effect -helps prevents further premature ageing and UV damage to the skin while giving it an instant renewed glow. Effective in treating skin conditions like inflammation, eczema, psoriasis, and redness. Avocado - speeds the healing of the skin by revving up the collagen production Geranium - Balancing to the hormones, mood and mind. How to use Massage whole body for hydration or use as a nourishing bath and shower oil. Reach for this oil when hormonal support is needed. Ingredients Prunus armeniaca oil (Apricot Kernal), Helianthus annuus oil* (Sunflower)l,Sesamum indicum oil* (Sesame)l, Persea gratissima oil (Avocado*), Genus Pelargoniun (Geranium) Essential Oil. *Organic
-  Updated: 2025-10-15T03:52:46Z
+  Updated: 2025-10-15T07:52:41Z
   Vendor: Oria Skin
   Product Type: Skincare
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/all_body_oil_4f8190e3-b9fc-4a7c-8e7f-7f4946ec9084.jpg?v=1744072483
   Price: $75.00 NZD
 - [ORIA SKIN Overnight Firming Cream](https://www.littlebambinos.co.nz/products/overnight-firming-cream): 100% Natural Minimise lines.Restore plumpness.Bring balance. Formulated for all stages of life, let the natural bioactives work their magic while you sleep. Wake up to plumper, smoother & happier skin thanks to the hormone-friendly ingredients, organic jasmine, avocado oil & aloe; The natural way to rejuvenate your skin & preserve your glow. How it works: Marine actives that instantly hydrate your face in 15 minutes Notice plumper, firmer skin in 14 days. Repeated use will prolong and improve results, reducing the visibility of fine lines and wrinkles Rose essential oil is a regenerative oil, helping skin become more elastic, hydrated and suitable for sensitive and dry skin. How to use Apply nightly to face & neck in upward strokes. Follow with the Oria Skin Rejuvenating Face Oil. Useful to apply extra around eyes, and neck skin. Select Rose if you are pregnant** Ingredients Overnight Firming Cream 65g (square box) Aloe barbadensis (aloe vera) leaf juice*, Persea gratissima (avocado) oil*, Helianthus annuus (sunflower) seed oil*, Butyrospermum parkii (shea butter)*, Theobroma cacao (cocoa) seed butter*,Sarcothalia circumcincta (Red seaweed), Cyathea medullaris leaf extract (Black fern), Gluconolactone, Sodium benzoate, Potassium sorbate, Calcium gluconate, Glycerin*, Cetearyl olivate, Sorbitan olivate, Dehydroacetic acid, Benzyl alcohol, Aqua, Caesalpinia spinosa gum, Camellia oleifera seed oil*, Totarol* (fallen Totora tree extract) Rosa damascena (Rose essential Oil). *organic
-  Updated: 2025-10-09T00:54:42Z
+  Updated: 2025-10-15T07:12:57Z
   Vendor: Oria Skin
   Product Type: Skincare
   Availability: Available
@@ -13307,7 +13307,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Brightening_enzyme_polish_0e4248ac-be4d-462a-9664-dc5effe82b4f.jpg?v=1744072243
   Price: $69.00 NZD
 - [ORIA SKIN Gentle Cleansing Milk](https://www.littlebambinos.co.nz/products/gentle-cleansing-milk): 100% Natural Soothe inflammation.Deep hydration.Bring balance. Working with your skin, not against it, Gentle Cleansing Milk uses hormone-friendly ingredients including organic chamomile, castor oil & palmarosa to clean & purify. Remove the day’s grime while balancing your skin’s natural oils, to keep your skin healthy & hydrated. How this works: Chamomile water removes excess oil, dirt and impurities for your pores without stripping it from it's natural moisture. While soothing and reduces redness and inflammation Castor Oil - antimicrobial - which means it can help decrease pimples and bacteria Jojoba - Softens and soothes your skin How to use Use to cleanse morning & night. Apply to a damp face & leave it to work its magic while you complete your bathroom routine. Rinse off & follow with Oria Skin serum, moisturiser & oil for the best glow. For the double-cleanse method, use Luminous Cleanse oil first, wipe away with warm cloth, follow with Gentle Cleansing Milk as per instruction. Ingredients Aqua, Matricaria recutita distillate (Chamomile Water), Simmondsia chinensis seed oil* (Jojoba), Ricinus communis seed oil* (Castor), Cetearyl Olivate & Sorbitan Olivate (Emulsifying wax), Glycerin, Geogard 221 & Cymbopogon martinii (Palmarosa essential oil). *Organic
-  Updated: 2025-10-15T03:50:42Z
+  Updated: 2025-10-15T07:50:41Z
   Vendor: Oria Skin
   Product Type: Skincare
   Availability: Available
@@ -13341,7 +13341,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/guasha_a40f1570-746c-49cd-9c71-e49434801a4b.jpg?v=1744072088
   Price: $39.00 NZD
 - [ORIA SKIN Vitamin C Renewal Serum](https://www.littlebambinos.co.nz/products/vitamin-c-renewal-serum): 100% Natural Brighten skin tone. Protect skin health.Bring balance. Crafted with skin brightening turmeric, the Vitamin C Renewal serum gives you results without the drama. Using a high concentration of Vitamin C boosted with plant extracts, this hormone-supporting formula fades scars, brightens & protects against damage. Renew & protect your glow, naturally. How this works: Protects your skin from damaging ageing free-radicals Hinders the body’s melanin production (the pigment that gives your skin colour). Less melanin means less pigmentation and fewer dark spots , leaving your skin brighter and more even. Vit C encourages your skin to get to work and produce more collagen. (the protein that plumps and firms) Provitamin B5 - maximises the moisture in your skin - by creating a moisture barrier shield. Stops dry, flaky and red skin. How to use Cleanse your face & apply Vitamin C Renewal Serum to clean skin morning & night. Follow it with an Oria Skin moisturiser or oil. Ingredients Aqua, Sodium Hyaluronate (inc benzyl alcohol & dehydroacetic acid) , Turmeric (Curcuma longa Root), Kakadu plum (Terminalia ferdinandiana fruit extract), Mamaku (Cyathea medullaris Leaf), Vitamin C (Magnesium Ascorbyl Phosphate), Glycerine, Sodium Benzoate, Citric Acid, Potassium Sorbate, Provitamin B5, Geogard 221 & Citrus aurantium spp bergamia (Bergamot essential oil FCF free) Our Vitmain C ingredient is Magnesium Ascorbyl Phosphate (MAP), which is a derivative of Vitamin C. It's a stable, water-soluble form of Vitamin C (ascorbic acid) that is commonly used in skincare products due to its ability to deliver the benefits of Vitamin C without the instability issues that pure ascorbic acid often faces. Here are some key points about MAP: Stability: Unlike pure ascorbic acid, which can break down easily when exposed to air and light, MAP is much more stable, making it a popular choice for skincare formulations. Gentler on the Skin: It’s considered milder and less irritating compared to pure Vitamin C, making it suitable for sensitive skin types. Benefits: Like other forms of Vitamin C, MAP has antioxidant properties that help to brighten the skin, promote collagen production, and protect against environmental damage. Absorption: It still needs to be converted into ascorbic acid in the skin to be effective, but it’s a slower process, allowing for a more gradual release of Vitamin C benefits. So, MAP is essentially a more stable, skin-friendly form of Vitamin C used to achieve the same benefits without the drawbacks of traditional ascorbic acid.
-  Updated: 2025-10-14T19:34:49Z
+  Updated: 2025-10-15T04:54:41Z
   Vendor: Oria Skin
   Product Type: Skincare
   Availability: Available
@@ -13394,6 +13394,13 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/set_2_1_7b053d5f-ff5d-4a51-9a4f-8bc858b6a505.jpg?v=1744001792
   Price: $69.00 NZD
+- [INKAH Posy Rattan Headboard](https://www.littlebambinos.co.nz/products/indah-rattan-bed-head-small-pre-order): With its enchanting design, the elegantly designed Posy Rattan Bed Head is one sure to impress. Crafted with a flower shape frame and square rattan webbing finish. Designed to fit a single, king single and double. Measurements: Leg width: 900mm Petals at widest point: 1300mm Height: 1300mm
+  Updated: 2025-10-15T04:02:42Z
+  Vendor: Inkah Limited
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/876F507F-0105-40EA-A1CE-65ED2391DD16.jpg?v=1744073556
+  Price: $449.00 NZD
 - [INKAH Rattan Dolls Pram](https://www.littlebambinos.co.nz/products/rattan-dolls-pram): Our rattan dolls pram feature wooden wheels for extra stability and a large spacious pram cot to fit lots of teddies or dolls. When not in use, our prams are perfect for storage and look gorgeous in any room. Measures: 75cm long (inc handle) x 62cm high x 30cm wide
   Updated: 2025-10-13T08:04:37Z
   Vendor: Inkah Limited
@@ -16792,7 +16799,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:26Z
   Total Products: 0
 - [Facebook Product Feed](https://www.littlebambinos.co.nz/collections/facebook-product-feed)
-  Updated: 2025-10-15T03:53:16Z
+  Updated: 2025-10-15T07:53:12Z
   Total Products: 438
 - [Sleepy Doe](https://www.littlebambinos.co.nz/collections/sleepy-doe): A British sleepwear brand specialising in small, organic sleep collections for women and children. Founder Sophie launched Sleepy Doe in 2016 and is a firm believer that often the simple things are the best things in life. She wanted to create a line of long-lasting sleepwear to sit comfortably in any home and to be loved by both adult and child. The collection is made with 100% Organic GOTS certified cotton and all products are proudly manufactured in the U.K supporting independent factories and businesses. // window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-172659890-2'); // ]]>
   Updated: 2025-08-06T22:46:42Z
@@ -17644,8 +17651,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-10-04T11:02:23Z
   Total Products: 10
 - [Labour Day Sale Collection 23](https://www.littlebambinos.co.nz/collections/labour-day-sale-22-excl-connetix-and-by-billie)
-  Updated: 2025-10-15T03:53:16Z
-  Total Products: 1323
+  Updated: 2025-10-15T07:53:12Z
+  Total Products: 1324
 - [Summer Edit](https://www.littlebambinos.co.nz/collections/summer-edit-1): Shop our Summer edit
   Updated: 2025-10-14T11:02:23Z
   Total Products: 501
