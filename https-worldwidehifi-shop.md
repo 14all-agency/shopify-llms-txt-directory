@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-10-25T08:25:11Z
 - Contact Email: info@worldwidehifi.shop
-- Updated At: 2025-10-14T08:00:37.299Z
+- Updated At: 2025-10-15T16:00:33.356Z
 
 ## ABOUT
 WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage audio gear with insured worldwide shipping—buy here when you want premium brands for less, rare models in stock, real-item photos, highest quality guarantee and expert support.
@@ -1610,13 +1610,6 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_0cb6b259-aad1-4f3a-a8ec-37414b434192.jpg?v=1751454070
   Price: 280,00 € EUR
-- [Furutech Fl-E11-N1 Gold 200cm Power cord cable gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/furutech-fl-e11-n1-gold-200cm-power-cord-gebraucht-kaufen): Furutech Fl-E11-N1 Gold 200cm Power cord cable gebraucht kaufen ✅ Hochleistungs-Stromkabel geprüft mit 24 Monaten Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-09-15T22:27:29Z
-  Vendor: WorldWideHifi
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_1dbbade5-9dda-4d79-b2ac-fafee979e699.jpg?v=1751454160
-  Price: 69,00 € EUR
 - [Oelflex 150cm Power cord cable gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/oelflex-150cm-power-cord-cable-gebraucht-kaufen): Oelflex 150cm Power cord cable gebraucht kaufen ✅ Geprüftes Kabel mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
   Updated: 2025-09-15T22:27:19Z
   Vendor: WorldWideHifi
@@ -2263,7 +2256,7 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Updated: 2025-09-30T17:09:45Z
   Total Products: 4
 - [Gebrauchte CD-Player kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/gebrauchte-cd-player-kaufen): Gebrauchte CD-Player kaufen ✓ HiFi CD-Player & CD-Wechsler im Top-Zustand ✓ Sicherer Versand weltweit ✓ High-End HiFi günstig online bestellen
-  Updated: 2025-10-10T11:22:37Z
+  Updated: 2025-10-14T11:25:20Z
   Total Products: 32
 - [Netzwerkplayer gebraucht kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/nezwerkplayer-gebraucht-kaufen): Netzwerkplayer gebraucht kaufen ✓ Netzwerkplayer & Musikstreamer im Top-Zustand ✓ Sicherer Versand weltweit ✓ Preiswerte High-End HiFi online bestellen
   Updated: 2025-10-07T04:42:58Z
@@ -2275,13 +2268,13 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Updated: 2025-08-16T16:03:59Z
   Total Products: 5
 - [Gebrauchte HiFi Kabel kaufen, Kabel für High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/hifi-kabel-gebraucht-kaufen): Gebrauchte HiFi Kabel kaufen ✓ Lautsprecherkabel & Kabel für High-End Geräte im Top-Zustand ✓ Sicherer Versand ✓ Günstiges High-End HiFi
-  Updated: 2025-10-13T11:19:22Z
+  Updated: 2025-10-15T11:20:54Z
   Total Products: 162
 - [Gebrauchte Lautsprecherkabel kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/gebrauchte-lautsprecherkabel-kaufen): Gebrauchte Lautsprecherkabel kaufen ✓ Gebrauchte Lautsprecherkabel & mehr im Top-Zustand ✓ Sicherer Versand ✓ Preiswertes High-End HiFi
   Updated: 2025-10-13T11:19:22Z
   Total Products: 38
 - [HiFi Netzkabel gebraucht kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/high-end-netzkabel-gebraucht-kaufen): HiFi Netzkabel gebraucht kaufen ✓ High-End Audiokabel, HiFi Netzkabel & mehr im Top-Zustand ✓ Versicherter Versand ✓ Preiswertes High-End HiFi online bestellen
-  Updated: 2025-10-11T11:22:25Z
+  Updated: 2025-10-15T11:20:54Z
   Total Products: 48
 - [HiFi-Netzleisten gebraucht kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/hifi-netzleisten-gebraucht-kaufen): HiFi-Netzleisten gebraucht kaufen ✓ Gebrauchte Netzleisten für HiFi-Geräte im Top-Zustand! ✓ Sicherer Versand weltweit ✓ High-End HiFi online bestellen
   Updated: 2025-10-05T14:45:51Z
@@ -2296,8 +2289,8 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Updated: 2025-10-11T11:22:25Z
   Total Products: 24
 - [Verkaufte HiFi-Artikel](https://worldwidehifi.shop/collections/verkaufte-hifi-artikel)
-  Updated: 2025-10-13T14:11:21Z
-  Total Products: 111
+  Updated: 2025-10-15T11:20:54Z
+  Total Products: 112
 - [Highest End](https://worldwidehifi.shop/collections/highest-end)
   Updated: 2025-10-11T11:22:25Z
   Total Products: 22
