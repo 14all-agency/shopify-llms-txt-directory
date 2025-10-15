@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-10-15T08:00:37.351Z
+- Updated At: 2025-10-15T20:00:37.013Z
 
 ## Products
 
@@ -4471,7 +4471,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/CONTEMPORARY_161620_Risotto32cm5.2L_1.jpg?v=1756779113
   Price: $159.99 NZD
 - [Raco Contemporary Nonstick Induction Covered Sauté - 30cm/4.5L](https://everydayhome.co.nz/products/raco-contemporary-nonstick-induction-covered-saute-30cm-4-5l): Elevate your cooking with the Raco Contemporary Nonstick Induction Covered Sauté, designed for precision and convenience. Its 30cm diameter and 4.5L capacity provide ample space for preparing diverse dishes, from sautéed vegetables to hearty stews. The tight-fitting lid locks in moisture and flavors, delivering consistently delicious results. Crafted with durable materials, this sauté pan is a reliable addition to any kitchen, combining modern design with professional performance to enhance your culinary experience.
-  Updated: 2025-09-23T12:39:28Z
+  Updated: 2025-10-15T18:37:10Z
   Vendor: Raco
   Product Type: Kitchenware
   Availability: Available
@@ -4820,7 +4820,7 @@
   Updated: 2025-10-09T11:07:26Z
   Total Products: 133
 - [Furniture](https://everydayhome.co.nz/collections/furniture)
-  Updated: 2025-10-02T04:08:32Z
+  Updated: 2025-10-15T11:06:50Z
   Total Products: 56
 - [New Arrivals](https://everydayhome.co.nz/collections/new-arrivals)
   Updated: 2025-10-03T11:06:46Z
@@ -4832,13 +4832,13 @@
   Updated: 2025-09-23T12:13:26Z
   Total Products: 22
 - [All products](https://everydayhome.co.nz/collections/all-products)
-  Updated: 2025-10-14T11:06:49Z
+  Updated: 2025-10-15T11:06:50Z
   Total Products: 1051
 - [Brands](https://everydayhome.co.nz/collections/brands)
-  Updated: 2025-10-14T11:06:49Z
+  Updated: 2025-10-15T11:06:50Z
   Total Products: 1051
 - [Umbra](https://everydayhome.co.nz/collections/umbra): Shop Umbra for modern, unique home decor and organisation products at Everyday Home. Find on trend designs in storage, wall art, furniture, and many other pieces to renew your living space in style and functionality. Shop now and enjoy free shipping across NZ on orders over $99*
-  Updated: 2025-10-14T11:06:49Z
+  Updated: 2025-10-15T11:06:50Z
   Total Products: 278
 - [Brabantia](https://everydayhome.co.nz/collections/brabantia)
   Updated: 2025-10-13T11:05:41Z
@@ -4904,7 +4904,7 @@
   Updated: 2025-10-13T11:05:41Z
   Total Products: 347
 - [Home & Living](https://everydayhome.co.nz/collections/home-living)
-  Updated: 2025-10-14T11:06:49Z
+  Updated: 2025-10-15T11:06:50Z
   Total Products: 236
 - [Bed & Bath](https://everydayhome.co.nz/collections/bedroom-bathroom)
   Updated: 2025-10-09T11:07:26Z
@@ -4964,7 +4964,7 @@
   Updated: 2025-10-08T11:08:09Z
   Total Products: 31
 - [Shelves & Tables](https://everydayhome.co.nz/collections/shelves-tables)
-  Updated: 2025-10-02T04:08:32Z
+  Updated: 2025-10-15T11:06:50Z
   Total Products: 24
 - [Coffee Tables](https://everydayhome.co.nz/collections/coffee-tables)
   Updated: 2025-09-25T00:52:25Z
@@ -5051,10 +5051,10 @@
   Updated: 2025-09-23T12:14:08Z
   Total Products: 19
 - [Sale](https://everydayhome.co.nz/collections/sale): Save up to 60% off on Umbra, Brabantia, Dutch Deluxes and more at Everyday Home! Don’t miss out on huge discounts on premium home essentials during our limited-time sale. From chic home must-haves to stylish kitchen essentials. Shop now and transform your home with the latest trends.
-  Updated: 2025-10-13T11:05:41Z
+  Updated: 2025-10-15T11:06:50Z
   Total Products: 173
 - [All Home & Living](https://everydayhome.co.nz/collections/all-home-living)
-  Updated: 2025-10-14T11:06:49Z
+  Updated: 2025-10-15T11:06:50Z
   Total Products: 262
 - [Shop All Kitchen](https://everydayhome.co.nz/collections/shop-all-kitchen)
   Updated: 2025-10-13T11:05:41Z
@@ -5144,7 +5144,7 @@
   Updated: 2025-09-23T12:17:48Z
   Total Products: 5
 - [All Products](https://everydayhome.co.nz/collections/all)
-  Updated: 2025-10-14T11:06:49Z
+  Updated: 2025-10-15T11:06:50Z
   Total Products: 1065
 - [All products excluding Sale items](https://everydayhome.co.nz/collections/all-products-excluding-sale-items-1)
   Updated: 2025-10-14T11:06:49Z
@@ -5174,7 +5174,7 @@
   Updated: 2025-10-09T11:07:26Z
   Total Products: 4
 - [Gifting](https://everydayhome.co.nz/collections/gifting)
-  Updated: 2025-10-14T11:06:49Z
+  Updated: 2025-10-15T11:06:50Z
   Total Products: 123
 
 ## Store Pages
