@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-08-20T10:34:43Z
 - Contact Email: enfinlibre256@gmail.com
-- Updated At: 2025-10-15T00:00:43.598Z
+- Updated At: 2025-10-15T04:00:43.073Z
 
 ## Products
 
@@ -24062,6 +24062,750 @@ Fashion Element:simple
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Hc43a1efa6ddc4fe79d7ed404d5d9fcc7U.webp?v=1760393479
     Price: 53,66 € EUR
+- [New Boho Flower Print Wide Headbands Vintage Knot Elastic Turban Headwrap for Women Girls Cotton Soft Bandana Hair Accessories](https://www.floranza-air.shop/products/new-boho-flower-print-wide-headbands-vintage-knot-elastic-turban-headwrap-for-women-girls-cotton-soft-bandana-hair-accessories): SPECIFICATIONSApplicable Scene: CASUALApplicable Season: Four SeasonsBrand Name: NoEnName_NullCN: Zhejiang,GuangdongChoice: yesDepartment Name: AdultFeature: Decorate Gender: WomenHigh-concerned chemical: NoneItem Type: headwearMaterial: POLYESTERModel Number: WJU0206Origin: Mainland ChinaPattern Type: GeometricRelease Date: Spring2022Style: FashionType: Headbandssemi_Choice: yes Product DescriptionName: Fashion Bohemian Headband Type: hair band/headband/elastic hair bandsGift:Christmas,party,wedding,birthday,anniversaryNote:1 The order amount exceeds 5 USD. we will send faster logistics.2 Due to the different display settings, the real product may have a little color error.
+  Updated: 2025-10-15T01:08:09Z
+  Vendor: FLORANZA-AIR.SHOP
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S5fd8d4917e1d41ed875007452a90d3e6Q.webp?v=1760487853
+  - [411W / Size fits all / CHINA](https://www.floranza-air.shop/products/new-boho-flower-print-wide-headbands-vintage-knot-elastic-turban-headwrap-for-women-girls-cotton-soft-bandana-hair-accessories?variant=52111076950353)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S1a207eeb5fb24238adbc5ed7fd2e6aa0P.webp?v=1760487854
+    Price: 8,00 € EUR
+  - [421W / Size fits all / CHINA](https://www.floranza-air.shop/products/new-boho-flower-print-wide-headbands-vintage-knot-elastic-turban-headwrap-for-women-girls-cotton-soft-bandana-hair-accessories?variant=52111076983121)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S684c73607bb54872b55f9bb1be4a6c8ax.webp?v=1760487854
+    Price: 8,00 € EUR
+  - [171W / Size fits all / CHINA](https://www.floranza-air.shop/products/new-boho-flower-print-wide-headbands-vintage-knot-elastic-turban-headwrap-for-women-girls-cotton-soft-bandana-hair-accessories?variant=52111077015889)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S35669f22026746f88662d368dc0c9644F.webp?v=1760487854
+    Price: 8,00 € EUR
+  - [401W / Size fits all / CHINA](https://www.floranza-air.shop/products/new-boho-flower-print-wide-headbands-vintage-knot-elastic-turban-headwrap-for-women-girls-cotton-soft-bandana-hair-accessories?variant=52111077048657)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Sa4f6aedcae124bc7b47324d494f790e9S.webp?v=1760487855
+    Price: 8,00 € EUR
+  - [181W / Size fits all / CHINA](https://www.floranza-air.shop/products/new-boho-flower-print-wide-headbands-vintage-knot-elastic-turban-headwrap-for-women-girls-cotton-soft-bandana-hair-accessories?variant=52111077081425)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S0142f39586cd4ceab25caf42b9c3a98e2.webp?v=1760487855
+    Price: 8,00 € EUR
+  - [191W / Size fits all / CHINA](https://www.floranza-air.shop/products/new-boho-flower-print-wide-headbands-vintage-knot-elastic-turban-headwrap-for-women-girls-cotton-soft-bandana-hair-accessories?variant=52111077114193)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S8eafe97453844cda9c5702c6a591ae47q.webp?v=1760487854
+    Price: 8,00 € EUR
+  - [431W / Size fits all / CHINA](https://www.floranza-air.shop/products/new-boho-flower-print-wide-headbands-vintage-knot-elastic-turban-headwrap-for-women-girls-cotton-soft-bandana-hair-accessories?variant=52111077146961)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S85208cc4c3994d1e90b713a4e96e1c7dt.webp?v=1760487854
+    Price: 8,00 € EUR
+  - [491W / Size fits all / CHINA](https://www.floranza-air.shop/products/new-boho-flower-print-wide-headbands-vintage-knot-elastic-turban-headwrap-for-women-girls-cotton-soft-bandana-hair-accessories?variant=52111077179729)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S41282cd7e0c547149cd3cf231f93e9fcw.webp?v=1760487853
+    Price: 8,00 € EUR
+  - [81W / Size fits all / CHINA](https://www.floranza-air.shop/products/new-boho-flower-print-wide-headbands-vintage-knot-elastic-turban-headwrap-for-women-girls-cotton-soft-bandana-hair-accessories?variant=52111077212497)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S4fecf2713bbb4d2aa1de41c206e38b12k.webp?v=1760487854
+    Price: 8,00 € EUR
+  - [91W / Size fits all / CHINA](https://www.floranza-air.shop/products/new-boho-flower-print-wide-headbands-vintage-knot-elastic-turban-headwrap-for-women-girls-cotton-soft-bandana-hair-accessories?variant=52111077245265)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Se7a69b622c5f41829f693d2e2fc29665g.webp?v=1760487855
+    Price: 8,00 € EUR
+  - [61W / Size fits all / CHINA](https://www.floranza-air.shop/products/new-boho-flower-print-wide-headbands-vintage-knot-elastic-turban-headwrap-for-women-girls-cotton-soft-bandana-hair-accessories?variant=52111077278033)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Sf2888a298158441ab4952782bf41d9c3m.webp?v=1760487854
+    Price: 8,00 € EUR
+  - [71W / Size fits all / CHINA](https://www.floranza-air.shop/products/new-boho-flower-print-wide-headbands-vintage-knot-elastic-turban-headwrap-for-women-girls-cotton-soft-bandana-hair-accessories?variant=52111077310801)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Sc14ef0c2ae984717b3500a7319954b14O.webp?v=1760487854
+    Price: 8,00 € EUR
+  - [121W / Size fits all / CHINA](https://www.floranza-air.shop/products/new-boho-flower-print-wide-headbands-vintage-knot-elastic-turban-headwrap-for-women-girls-cotton-soft-bandana-hair-accessories?variant=52111077343569)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S4b5743a45fcf4d12a0b975d4589eeaef3.webp?v=1760487855
+    Price: 8,00 € EUR
+  - [161W / Size fits all / CHINA](https://www.floranza-air.shop/products/new-boho-flower-print-wide-headbands-vintage-knot-elastic-turban-headwrap-for-women-girls-cotton-soft-bandana-hair-accessories?variant=52111077376337)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Sa5a65cfb9e714092b533d484460b7ce2n.webp?v=1760487854
+    Price: 8,00 € EUR
+  - [101W / Size fits all / CHINA](https://www.floranza-air.shop/products/new-boho-flower-print-wide-headbands-vintage-knot-elastic-turban-headwrap-for-women-girls-cotton-soft-bandana-hair-accessories?variant=52111077409105)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S45f69b9df8a549a18ea7fd02f6ecdc6f7.webp?v=1760487856
+    Price: 8,00 € EUR
+  - [111W / Size fits all / CHINA](https://www.floranza-air.shop/products/new-boho-flower-print-wide-headbands-vintage-knot-elastic-turban-headwrap-for-women-girls-cotton-soft-bandana-hair-accessories?variant=52111077441873)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S70f6902264b94887948e98ed72809668t.webp?v=1760487855
+    Price: 8,00 € EUR
+  - [11W / Size fits all / CHINA](https://www.floranza-air.shop/products/new-boho-flower-print-wide-headbands-vintage-knot-elastic-turban-headwrap-for-women-girls-cotton-soft-bandana-hair-accessories?variant=52111077474641)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S84e0fe7907d545d3bc2760fc13117f146.webp?v=1760487855
+    Price: 8,00 € EUR
+  - [41W / Size fits all / CHINA](https://www.floranza-air.shop/products/new-boho-flower-print-wide-headbands-vintage-knot-elastic-turban-headwrap-for-women-girls-cotton-soft-bandana-hair-accessories?variant=52111077507409)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S8132ed0207224081a77831c9934494a41.webp?v=1760487855
+    Price: 8,00 € EUR
+  - [51W / Size fits all / CHINA](https://www.floranza-air.shop/products/new-boho-flower-print-wide-headbands-vintage-knot-elastic-turban-headwrap-for-women-girls-cotton-soft-bandana-hair-accessories?variant=52111077540177)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Scd9f6a5fa77141f88faa0b74bdb343884.webp?v=1760487853
+    Price: 8,00 € EUR
+  - [21W / Size fits all / CHINA](https://www.floranza-air.shop/products/new-boho-flower-print-wide-headbands-vintage-knot-elastic-turban-headwrap-for-women-girls-cotton-soft-bandana-hair-accessories?variant=52111077572945)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S42a9f7abf7d64b7798e00a5d3f5c9a558.webp?v=1760487854
+    Price: 8,00 € EUR
+  - [31W / Size fits all / CHINA](https://www.floranza-air.shop/products/new-boho-flower-print-wide-headbands-vintage-knot-elastic-turban-headwrap-for-women-girls-cotton-soft-bandana-hair-accessories?variant=52111077605713)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S197b78f7af1f4375a4933dc1bb390121N.webp?v=1760487854
+    Price: 8,00 € EUR
+  - [471W / Size fits all / CHINA](https://www.floranza-air.shop/products/new-boho-flower-print-wide-headbands-vintage-knot-elastic-turban-headwrap-for-women-girls-cotton-soft-bandana-hair-accessories?variant=52111077638481)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Sf2888a298158441ab4952782bf41d9c3m.webp?v=1760487854
+    Price: 8,00 € EUR
+  - [481W / Size fits all / CHINA](https://www.floranza-air.shop/products/new-boho-flower-print-wide-headbands-vintage-knot-elastic-turban-headwrap-for-women-girls-cotton-soft-bandana-hair-accessories?variant=52111077671249)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Sc14ef0c2ae984717b3500a7319954b14O.webp?v=1760487854
+    Price: 8,00 € EUR
+  - [451W / Size fits all / CHINA](https://www.floranza-air.shop/products/new-boho-flower-print-wide-headbands-vintage-knot-elastic-turban-headwrap-for-women-girls-cotton-soft-bandana-hair-accessories?variant=52111077704017)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S8132ed0207224081a77831c9934494a41.webp?v=1760487855
+    Price: 8,00 € EUR
+  - [461W / Size fits all / CHINA](https://www.floranza-air.shop/products/new-boho-flower-print-wide-headbands-vintage-knot-elastic-turban-headwrap-for-women-girls-cotton-soft-bandana-hair-accessories?variant=52111077736785)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Scd9f6a5fa77141f88faa0b74bdb343884.webp?v=1760487853
+    Price: 8,00 € EUR
+  - [501W / Size fits all / CHINA](https://www.floranza-air.shop/products/new-boho-flower-print-wide-headbands-vintage-knot-elastic-turban-headwrap-for-women-girls-cotton-soft-bandana-hair-accessories?variant=52111077769553)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S4fecf2713bbb4d2aa1de41c206e38b12k.webp?v=1760487854
+    Price: 8,00 € EUR
+  - [351W / Size fits all / CHINA](https://www.floranza-air.shop/products/new-boho-flower-print-wide-headbands-vintage-knot-elastic-turban-headwrap-for-women-girls-cotton-soft-bandana-hair-accessories?variant=52111077802321)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S12cbd560b3c64c0e8bd15151cd85d0aeX.webp?v=1760487854
+    Price: 8,00 € EUR
+  - [361W / Size fits all / CHINA](https://www.floranza-air.shop/products/new-boho-flower-print-wide-headbands-vintage-knot-elastic-turban-headwrap-for-women-girls-cotton-soft-bandana-hair-accessories?variant=52111077835089)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Sa1595b95143940a8a8dcf3a3f3cbc9a5F.webp?v=1760487855
+    Price: 8,00 € EUR
+  - [331W / Size fits all / CHINA](https://www.floranza-air.shop/products/new-boho-flower-print-wide-headbands-vintage-knot-elastic-turban-headwrap-for-women-girls-cotton-soft-bandana-hair-accessories?variant=52111077867857)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S3a05245e67eb4448a9de21de49e208270.webp?v=1760487853
+    Price: 8,00 € EUR
+  - [341W / Size fits all / CHINA](https://www.floranza-air.shop/products/new-boho-flower-print-wide-headbands-vintage-knot-elastic-turban-headwrap-for-women-girls-cotton-soft-bandana-hair-accessories?variant=52111077900625)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S9867df4fde0f4057ab1b452e15d7d1c5h.webp?v=1760487854
+    Price: 8,00 € EUR
+  - [391W / Size fits all / CHINA](https://www.floranza-air.shop/products/new-boho-flower-print-wide-headbands-vintage-knot-elastic-turban-headwrap-for-women-girls-cotton-soft-bandana-hair-accessories?variant=52111077933393)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S42a9f7abf7d64b7798e00a5d3f5c9a558.webp?v=1760487854
+    Price: 8,00 € EUR
+  - [441W / Size fits all / CHINA](https://www.floranza-air.shop/products/new-boho-flower-print-wide-headbands-vintage-knot-elastic-turban-headwrap-for-women-girls-cotton-soft-bandana-hair-accessories?variant=52111077966161)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S197b78f7af1f4375a4933dc1bb390121N.webp?v=1760487854
+    Price: 8,00 € EUR
+  - [371W / Size fits all / CHINA](https://www.floranza-air.shop/products/new-boho-flower-print-wide-headbands-vintage-knot-elastic-turban-headwrap-for-women-girls-cotton-soft-bandana-hair-accessories?variant=52111077998929)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S9201aee428014299be401183857094e6t.webp?v=1760487854
+    Price: 8,00 € EUR
+  - [381W / Size fits all / CHINA](https://www.floranza-air.shop/products/new-boho-flower-print-wide-headbands-vintage-knot-elastic-turban-headwrap-for-women-girls-cotton-soft-bandana-hair-accessories?variant=52111078031697)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S84e0fe7907d545d3bc2760fc13117f146.webp?v=1760487855
+    Price: 8,00 € EUR
+  - [271W / Size fits all / CHINA](https://www.floranza-air.shop/products/new-boho-flower-print-wide-headbands-vintage-knot-elastic-turban-headwrap-for-women-girls-cotton-soft-bandana-hair-accessories?variant=52111078064465)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S322a969c0c76426bbd88fc883b4e1a81W.webp?v=1760487855
+    Price: 8,00 € EUR
+  - [281W / Size fits all / CHINA](https://www.floranza-air.shop/products/new-boho-flower-print-wide-headbands-vintage-knot-elastic-turban-headwrap-for-women-girls-cotton-soft-bandana-hair-accessories?variant=52111078097233)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S002cef4774d145e2b5d7a97e209f6fd9m.webp?v=1760487854
+    Price: 8,00 € EUR
+  - [251W / Size fits all / CHINA](https://www.floranza-air.shop/products/new-boho-flower-print-wide-headbands-vintage-knot-elastic-turban-headwrap-for-women-girls-cotton-soft-bandana-hair-accessories?variant=52111078130001)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Sc378336a9aea4a6cbce4f06dcd85608aC.webp?v=1760487853
+    Price: 8,00 € EUR
+  - [261W / Size fits all / CHINA](https://www.floranza-air.shop/products/new-boho-flower-print-wide-headbands-vintage-knot-elastic-turban-headwrap-for-women-girls-cotton-soft-bandana-hair-accessories?variant=52111078162769)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Sce8a501cbfb04df4b195c477a3718778v.webp?v=1760487854
+    Price: 8,00 € EUR
+  - [311W / Size fits all / CHINA](https://www.floranza-air.shop/products/new-boho-flower-print-wide-headbands-vintage-knot-elastic-turban-headwrap-for-women-girls-cotton-soft-bandana-hair-accessories?variant=52111078195537)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Sb04c467f48154e498f5ea6c631adbd9bI.webp?v=1760487854
+    Price: 8,00 € EUR
+  - [321W / Size fits all / CHINA](https://www.floranza-air.shop/products/new-boho-flower-print-wide-headbands-vintage-knot-elastic-turban-headwrap-for-women-girls-cotton-soft-bandana-hair-accessories?variant=52111078228305)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Sb255f27b5c794873b0214db94e644d2fO.webp?v=1760487853
+    Price: 8,00 € EUR
+  - [291W / Size fits all / CHINA](https://www.floranza-air.shop/products/new-boho-flower-print-wide-headbands-vintage-knot-elastic-turban-headwrap-for-women-girls-cotton-soft-bandana-hair-accessories?variant=52111078261073)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Sf1ff08adf6d54d0fb20e175b7fda564cu.webp?v=1760487854
+    Price: 8,00 € EUR
+  - [301W / Size fits all / CHINA](https://www.floranza-air.shop/products/new-boho-flower-print-wide-headbands-vintage-knot-elastic-turban-headwrap-for-women-girls-cotton-soft-bandana-hair-accessories?variant=52111078293841)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Sdfa6fb428c48426f99f2c44a5d27b0019.webp?v=1760487854
+    Price: 8,00 € EUR
+  - [141W / Size fits all / CHINA](https://www.floranza-air.shop/products/new-boho-flower-print-wide-headbands-vintage-knot-elastic-turban-headwrap-for-women-girls-cotton-soft-bandana-hair-accessories?variant=52111078326609)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Sa2ba8a18846d47b1b46cc8852a6779bav.webp?v=1760487855
+    Price: 8,00 € EUR
+  - [131W / Size fits all / CHINA](https://www.floranza-air.shop/products/new-boho-flower-print-wide-headbands-vintage-knot-elastic-turban-headwrap-for-women-girls-cotton-soft-bandana-hair-accessories?variant=52111078359377)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S3e8a8f22e19c4f63a4a512089e59991aU.webp?v=1760487855
+    Price: 8,00 € EUR
+  - [201W / Size fits all / CHINA](https://www.floranza-air.shop/products/new-boho-flower-print-wide-headbands-vintage-knot-elastic-turban-headwrap-for-women-girls-cotton-soft-bandana-hair-accessories?variant=52111078392145)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S85d5e0ce919b45f99bcc1b9d225b9fe3h.webp?v=1760487855
+    Price: 8,00 € EUR
+  - [211W / Size fits all / CHINA](https://www.floranza-air.shop/products/new-boho-flower-print-wide-headbands-vintage-knot-elastic-turban-headwrap-for-women-girls-cotton-soft-bandana-hair-accessories?variant=52111078424913)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Se1b07e6c10ad4837ac3d8905751c8149N.webp?v=1760487854
+    Price: 8,00 € EUR
+  - [231W / Size fits all / CHINA](https://www.floranza-air.shop/products/new-boho-flower-print-wide-headbands-vintage-knot-elastic-turban-headwrap-for-women-girls-cotton-soft-bandana-hair-accessories?variant=52111078457681)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S82146ffb78fe4bc5b69d202009321dd3X.webp?v=1760487854
+    Price: 8,00 € EUR
+  - [241W / Size fits all / CHINA](https://www.floranza-air.shop/products/new-boho-flower-print-wide-headbands-vintage-knot-elastic-turban-headwrap-for-women-girls-cotton-soft-bandana-hair-accessories?variant=52111078490449)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S497e459706564f3482889d97091e7d8fA.webp?v=1760487854
+    Price: 8,00 € EUR
+  - [151W / Size fits all / CHINA](https://www.floranza-air.shop/products/new-boho-flower-print-wide-headbands-vintage-knot-elastic-turban-headwrap-for-women-girls-cotton-soft-bandana-hair-accessories?variant=52111078523217)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Se1973873451c4b96812efd24f05c67b5H.webp?v=1760487854
+    Price: 8,00 € EUR
+  - [221W / Size fits all / CHINA](https://www.floranza-air.shop/products/new-boho-flower-print-wide-headbands-vintage-knot-elastic-turban-headwrap-for-women-girls-cotton-soft-bandana-hair-accessories?variant=52111078555985)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S9b35d850106645cea20593e5e096b014f.webp?v=1760487855
+    Price: 8,00 € EUR
+- [Yoga Headbands For Women's Hair Wide Thick Stretchy Boho African Turban Knotted Leopard Head Bands](https://www.floranza-air.shop/products/yoga-headbands-for-womens-hair-wide-thick-stretchy-boho-african-turban-knotted-leopard-head-bands): SPECIFICATIONSApplicable Scene: CASUALApplicable Season: Four SeasonsBrand Name: NoEnName_NullCN: ZhejiangChoice: yesCustom Logo: yesDepartment Name: AdultFeature: Decorate Gender: WomenHigh-concerned chemical: NoneItem Type: headwearMaterial: POLYESTER,SPANDEXModel Number: xd0352Origin: Mainland ChinaPattern Type: PrintPlace Of Origin: China (mainland)Release Date: Spring2022Style: FashionType: Bandanassemi_Choice: yes modname=ckeditor Description: 100% brand new and high quality. We have improved the headband to make it wider, whether you have thick and long hair or your hair too short to holder, or you need a hair accessory to cover your hair from falling on your face, our headbands for non-slip meet all your needs. 1.Material :polyester and spandex 2.Package:1pc/opp bag 3.Color:as picture(20 color) 4.Size: 24×18cm/9.8×7.08inch(L×W) Warm Tips: 1.Please allow little differs due to manual measurement,The above dimensions are only for reference. 2.Please be reminded that due lighting effects, monitor's brightness/contrast settings etc, there could be some slight differences in the colour tone of the website's photo and the actual item. Our service to buyer: 1. We are factory directly. with best price & high quality & quickly production. Dropping and Wholesale are acceptable, We will offer the best price and service for a large quantity (DHL Or EMS will be ok).Pls feel free to contact us.Thanks. 2. We could mark the package as a GIFT and claim a lower price for you. 3. We could send the product pictures to you after you payment 4. We always ship the package to you without retail box,pls look it carefully before you placing a order and making payment. For Russia Friend and Ukraine Friend: pls leave your full name(first,middle and the last name) and the correct address( Apartment No., Street, City, Region and country)when you payment Attention please: If you have any questions about the products size, price and the shippng fee, pls feel freely to conatct us instead of opening a dispute or leave a negative feedback.Thank you very much! modname=ckeditor modname=ckeditor
+  Updated: 2025-10-15T01:08:31Z
+  Vendor: FLORANZA-AIR.SHOP
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S0ff00f3f48dd4dd78dad3cd5adb8154bf.webp?v=1760487932
+  - [black](https://www.floranza-air.shop/products/yoga-headbands-for-womens-hair-wide-thick-stretchy-boho-african-turban-knotted-leopard-head-bands?variant=52111079113041)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Sf4d83a0d88204298b3d5a78e2178d8c8E.webp?v=1760487931
+    Price: 10,00 € EUR
+  - [green](https://www.floranza-air.shop/products/yoga-headbands-for-womens-hair-wide-thick-stretchy-boho-african-turban-knotted-leopard-head-bands?variant=52111079145809)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S201b5d4191fb4ccd987239fce93cdcddK.webp?v=1760487932
+    Price: 10,00 € EUR
+  - [GRAY](https://www.floranza-air.shop/products/yoga-headbands-for-womens-hair-wide-thick-stretchy-boho-african-turban-knotted-leopard-head-bands?variant=52111079178577)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S4b7ab3b61a4c4b0f9068cb5b5aa3a3abS.webp?v=1760487933
+    Price: 10,00 € EUR
+  - [Pink](https://www.floranza-air.shop/products/yoga-headbands-for-womens-hair-wide-thick-stretchy-boho-african-turban-knotted-leopard-head-bands?variant=52111079211345)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S9b991fba1ffd404ab72072103203dd05j.webp?v=1760487932
+    Price: 10,00 € EUR
+  - [WHITE](https://www.floranza-air.shop/products/yoga-headbands-for-womens-hair-wide-thick-stretchy-boho-african-turban-knotted-leopard-head-bands?variant=52111079244113)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S7e7f800f626542e3999d0ce846e866906.webp?v=1760487932
+    Price: 10,00 € EUR
+  - [Light Grey](https://www.floranza-air.shop/products/yoga-headbands-for-womens-hair-wide-thick-stretchy-boho-african-turban-knotted-leopard-head-bands?variant=52111079276881)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S4b7ab3b61a4c4b0f9068cb5b5aa3a3abS.webp?v=1760487933
+    Price: 10,00 € EUR
+  - [Dark Grey](https://www.floranza-air.shop/products/yoga-headbands-for-womens-hair-wide-thick-stretchy-boho-african-turban-knotted-leopard-head-bands?variant=52111079309649)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Sbe56c093be6d4b3180824442a5d41d09B.webp?v=1760487933
+    Price: 10,00 € EUR
+  - [army green](https://www.floranza-air.shop/products/yoga-headbands-for-womens-hair-wide-thick-stretchy-boho-african-turban-knotted-leopard-head-bands?variant=52111079342417)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S7032b565c20541b5aaac5357921a7c81t.webp?v=1760487932
+    Price: 10,00 € EUR
+  - [DARK GRAY](https://www.floranza-air.shop/products/yoga-headbands-for-womens-hair-wide-thick-stretchy-boho-african-turban-knotted-leopard-head-bands?variant=52111079375185)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S506050489d4345a8843a8fbd2a45a70cR.webp?v=1760487931
+    Price: 10,00 € EUR
+  - [LIGHT GRAY](https://www.floranza-air.shop/products/yoga-headbands-for-womens-hair-wide-thick-stretchy-boho-african-turban-knotted-leopard-head-bands?variant=52111079407953)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S1dbeb6d2070c4a5798ed59721c20841by.webp?v=1760487932
+    Price: 10,00 € EUR
+  - [DEEP BLUE](https://www.floranza-air.shop/products/yoga-headbands-for-womens-hair-wide-thick-stretchy-boho-african-turban-knotted-leopard-head-bands?variant=52111079440721)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S67cf11978122402bbdf282e2623acc57V.webp?v=1760487932
+    Price: 10,00 € EUR
+  - [Ginger](https://www.floranza-air.shop/products/yoga-headbands-for-womens-hair-wide-thick-stretchy-boho-african-turban-knotted-leopard-head-bands?variant=52111079473489)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S831b1836e13f49c9b2c1f9dc116f5de08.webp?v=1760487933
+    Price: 10,00 € EUR
+  - [black cashew](https://www.floranza-air.shop/products/yoga-headbands-for-womens-hair-wide-thick-stretchy-boho-african-turban-knotted-leopard-head-bands?variant=52111079506257)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Sf9e5856281b047779c0c0d10b93f30e6e.webp?v=1760487932
+    Price: 10,00 € EUR
+  - [navy blue cashew](https://www.floranza-air.shop/products/yoga-headbands-for-womens-hair-wide-thick-stretchy-boho-african-turban-knotted-leopard-head-bands?variant=52111079539025)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S10c5c03de4734548b52f8a6b75d6431fM.webp?v=1760487932
+    Price: 10,00 € EUR
+  - [wine red](https://www.floranza-air.shop/products/yoga-headbands-for-womens-hair-wide-thick-stretchy-boho-african-turban-knotted-leopard-head-bands?variant=52111079571793)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S27b8d1283bcd43c5b22b651db0f59c41G.webp?v=1760487932
+    Price: 10,00 € EUR
+  - [leopard](https://www.floranza-air.shop/products/yoga-headbands-for-womens-hair-wide-thick-stretchy-boho-african-turban-knotted-leopard-head-bands?variant=52111079604561)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Sf0bceb2d11ae47bdbc393286f99ee7ccI.webp?v=1760487931
+    Price: 10,00 € EUR
+  - [Beige](https://www.floranza-air.shop/products/yoga-headbands-for-womens-hair-wide-thick-stretchy-boho-african-turban-knotted-leopard-head-bands?variant=52111079637329)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S4920d2cc97ec4cf98fc1a5a25cc98180H.webp?v=1760487932
+    Price: 10,00 € EUR
+  - [wine red cashew](https://www.floranza-air.shop/products/yoga-headbands-for-womens-hair-wide-thick-stretchy-boho-african-turban-knotted-leopard-head-bands?variant=52111079670097)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S1a88ffe3a20949349f165b6843b14dcaC.webp?v=1760487932
+    Price: 10,00 € EUR
+  - [rose red striped](https://www.floranza-air.shop/products/yoga-headbands-for-womens-hair-wide-thick-stretchy-boho-african-turban-knotted-leopard-head-bands?variant=52111079702865)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S20843c6a677b4ffb8d685b2b3c6ccffbN.webp?v=1760487932
+    Price: 10,00 € EUR
+- [Extra Wide Headbands For Women Fashion Boho Non Slip Tie Dye Knotted Headband Yoga Workout Head Wraps Turbans](https://www.floranza-air.shop/products/extra-wide-headbands-for-women-fashion-boho-non-slip-tie-dye-knotted-headband-yoga-workout-head-wraps-turbans): SPECIFICATIONSApplicable Scene: CASUALApplicable Season: Four SeasonsBrand Name: NoEnName_NullDepartment Name: AdultFeature: Decorate Gender: WomenItem Type: headwearMaterial: COTTON,POLYESTERModel Number: xd0448Origin: Mainland ChinaPattern Type: PrintPlace Of Origin: China (mainland)Release Date: Spring2022Style: FashionType: Bandanas modname=ckeditor Description: 1.Material:polyester and spandex 2.Package:1pc/opp bag 3.Color:as picture(4 color) 4.Size: 24×15cm/9.45×5.9inch(L×W) Warm Tips: 1.Please allow little differs due to manual measurement,The above dimensions are only for reference. 2.Please be reminded that due lighting effects, monitor's brightness/contrast settings etc, there could be some slight differences in the colour tone of the website's photo and the actual item. Our service to buyer: 1. We are factory directly. with best price & high quality & quickly production. Dropping and Wholesale are acceptable, We will offer the best price and service for a large quantity (DHL Or EMS will be ok).Pls feel free to contact us.Thanks. 2. We could mark the package as a GIFT and claim a lower price for you. 3. We could send the product pictures to you after you payment 4. We always ship the package to you without retail box,pls look it carefully before you placing a order and making payment. For Russia Friend and Ukraine Friend: pls leave your full name(first,middle and the last name) and the correct address( Apartment No., Street, City, Region and country)when you payment Attention please: If you have any questions about the products size, price and the shippng fee, pls feel freely to conatct us instead of opening a dispute or leave a negative feedback.Thank you very much!
+  Updated: 2025-10-15T01:08:59Z
+  Vendor: FLORANZA-AIR.SHOP
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Sb043daaed07d46539519dfd4d7be810f1.webp?v=1760488052
+  - [2](https://www.floranza-air.shop/products/extra-wide-headbands-for-women-fashion-boho-non-slip-tie-dye-knotted-headband-yoga-workout-head-wraps-turbans?variant=52111083274577)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Sc0bb1dbe257b477ab4eabee1c2f92342e.webp?v=1760488053
+    Price: 10,00 € EUR
+  - [1](https://www.floranza-air.shop/products/extra-wide-headbands-for-women-fashion-boho-non-slip-tie-dye-knotted-headband-yoga-workout-head-wraps-turbans?variant=52111083307345)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S1a16ddc33d3242fc9dd19953a0f9d5a8F.webp?v=1760488053
+    Price: 10,00 € EUR
+  - [4](https://www.floranza-air.shop/products/extra-wide-headbands-for-women-fashion-boho-non-slip-tie-dye-knotted-headband-yoga-workout-head-wraps-turbans?variant=52111083340113)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S2aab1ca28a2e4fdd8d28e9f6e8e88eebh.webp?v=1760488053
+    Price: 10,00 € EUR
+  - [3](https://www.floranza-air.shop/products/extra-wide-headbands-for-women-fashion-boho-non-slip-tie-dye-knotted-headband-yoga-workout-head-wraps-turbans?variant=52111083372881)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S6b0ec89b8a7e4dcab12343af6d6da59fy.webp?v=1760488052
+    Price: 10,00 € EUR
+- [Wide Boho Headbands Women Knotted Headband Non Slip Elastic Hair Bands Tie Dye Turban Head Wraps Workout Yoga Sports Sweatbands](https://www.floranza-air.shop/products/wide-boho-headbands-women-knotted-headband-non-slip-elastic-hair-bands-tie-dye-turban-head-wraps-workout-yoga-sports-sweatbands): SPECIFICATIONSApplicable Scene: CASUALApplicable Season: Four SeasonsBrand Name: NoEnName_NullCN: ZhejiangChoice: yesCustom Logo: yesDepartment Name: AdultFeature: Decorate Gender: WomenItem Type: headwearMaterial: POLYESTER,SPANDEXModel Number: xd0423Origin: Mainland ChinaPattern Type: PrintPlace Of Origin: China (mainland)Release Date: Spring2022Style: FashionType: Bandanassemi_Choice: yes modname=ckeditor Description: 100% brand new and high quality. 1.Material :91% polyester and 9% spandex 2.Package:1pc/opp bag 3.Color:as picture(6 color) 4.Size: 24×15cm/9.45×5.9inch(L×W) Warm Tips: 1.Please allow little differs due to manual measurement,The above dimensions are only for reference. 2.Please be reminded that due lighting effects, monitor's brightness/contrast settings etc, there could be some slight differences in the colour tone of the website's photo and the actual item. Our service to buyer: 1. We are factory directly. with best price & high quality & quickly production. Dropping and Wholesale are acceptable, We will offer the best price and service for a large quantity (DHL Or EMS will be ok).Pls feel free to contact us.Thanks. 2. We could mark the package as a GIFT and claim a lower price for you. 3. We could send the product pictures to you after you payment 4. We always ship the package to you without retail box,pls look it carefully before you placing a order and making payment. For Russia Friend and Ukraine Friend: pls leave your full name(first,middle and the last name) and the correct address( Apartment No., Street, City, Region and country)when you payment Attention please: If you have any questions about the products size, price and the shippng fee, pls feel freely to conatct us instead of opening a dispute or leave a negative feedback.Thank you very much!
+  Updated: 2025-10-15T01:09:30Z
+  Vendor: FLORANZA-AIR.SHOP
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S67a28d5eed9d4080a30e5f29b40039f8C.webp?v=1760488131
+  - [1](https://www.floranza-air.shop/products/wide-boho-headbands-women-knotted-headband-non-slip-elastic-hair-bands-tie-dye-turban-head-wraps-workout-yoga-sports-sweatbands?variant=52111084421457)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S90d8863500f04970a7313ef55e006429K.webp?v=1760488130
+    Price: 9,00 € EUR
+  - [2](https://www.floranza-air.shop/products/wide-boho-headbands-women-knotted-headband-non-slip-elastic-hair-bands-tie-dye-turban-head-wraps-workout-yoga-sports-sweatbands?variant=52111084454225)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S5a57bd1656f648c4b09624dfd899c774H.webp?v=1760488129
+    Price: 9,00 € EUR
+  - [3](https://www.floranza-air.shop/products/wide-boho-headbands-women-knotted-headband-non-slip-elastic-hair-bands-tie-dye-turban-head-wraps-workout-yoga-sports-sweatbands?variant=52111084486993)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Sffab3541bdaa4b78a6bbb1c57a84ddc6N.webp?v=1760488130
+    Price: 9,00 € EUR
+  - [4](https://www.floranza-air.shop/products/wide-boho-headbands-women-knotted-headband-non-slip-elastic-hair-bands-tie-dye-turban-head-wraps-workout-yoga-sports-sweatbands?variant=52111084519761)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S2f21cd055ddc411b8fac05ebb687ed67n.webp?v=1760488130
+    Price: 9,00 € EUR
+  - [5](https://www.floranza-air.shop/products/wide-boho-headbands-women-knotted-headband-non-slip-elastic-hair-bands-tie-dye-turban-head-wraps-workout-yoga-sports-sweatbands?variant=52111084552529)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S20e1c9e09ce34d0496f486382eaaf968Y.webp?v=1760488130
+    Price: 9,00 € EUR
+  - [6](https://www.floranza-air.shop/products/wide-boho-headbands-women-knotted-headband-non-slip-elastic-hair-bands-tie-dye-turban-head-wraps-workout-yoga-sports-sweatbands?variant=52111084585297)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Se8a6578599d14d1d9dfc05974f2151449.webp?v=1760488130
+    Price: 9,00 € EUR
+- [Braided Hair Bands for Girls Hair Hoop Headwear Female Flower Love Fruit Headwear Women New Fashion Hair Accessories](https://www.floranza-air.shop/products/braided-hair-bands-for-girls-hair-hoop-headwear-female-flower-love-fruit-headwear-women-new-fashion-hair-accessories): SPECIFICATIONSBrand Name: NoEnName_NullCN: ZhejiangChoice: yesFine or Fashion: FashionGender: GirlsItem Type: HairwearMaterial: PlasticMetals Type: NoneOrigin: Mainland ChinaStyle: Cute/Romantic Product Description: 1. Product style: Headband 2. Product color: as shown in the figure 3. Product material: plastic,resin 4. Packing: 1pcs of independent packaging 5. Fashion Style:Korean version FAQs: 1. Is the goods in stock?-Yes, all our products are in stock.2. When will it be shipped?-We will deliver the goods within 48 hours, and the logistics information will be updated within 3 days.3. Is your packaging safe?-We will cover a layer of bubble film on the product and put it in a carton made of special hard materials, so the packaging is very safe.4. How soon can we receive the goods?It usually takes 7 to 15 days to arrive (the holiday may be longer).5. What should I do if the goods are damaged or lost in logistics?-Please prepare relevant certificates and send them to our customer service, we will give you a satisfactory answer.6. Feedback-If you like our products, please remember to give us five stars. If you have any questions, please contact us for feedback.**********************************************☆Dear friend! You may find that someone sells products at a lower price than ours, but they cannot guarantee the same quality and service as ours. Thank you!
+  Updated: 2025-10-15T01:07:14Z
+  Vendor: FLORANZA-AIR.SHOP
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S43907fff71af4a159c35a8886b7f4b800.webp?v=1760488243
+  - [17](https://www.floranza-air.shop/products/braided-hair-bands-for-girls-hair-hoop-headwear-female-flower-love-fruit-headwear-women-new-fashion-hair-accessories?variant=52111086813521)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Sd45abcc8f60e4eb798432e75c412e387m.webp?v=1760488242
+    Price: 9,00 € EUR
+  - [18](https://www.floranza-air.shop/products/braided-hair-bands-for-girls-hair-hoop-headwear-female-flower-love-fruit-headwear-women-new-fashion-hair-accessories?variant=52111086846289)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S7d9d3ace70854ec89d5e08816b4e6ca7x.webp?v=1760488242
+    Price: 9,00 € EUR
+  - [8](https://www.floranza-air.shop/products/braided-hair-bands-for-girls-hair-hoop-headwear-female-flower-love-fruit-headwear-women-new-fashion-hair-accessories?variant=52111086879057)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S69e17150bd144f70b3d1e2ceca86ee4aL.webp?v=1760488242
+    Price: 9,00 € EUR
+  - [19](https://www.floranza-air.shop/products/braided-hair-bands-for-girls-hair-hoop-headwear-female-flower-love-fruit-headwear-women-new-fashion-hair-accessories?variant=52111086911825)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S8b90782493d64c5987d238d86df3189c0.webp?v=1760488243
+    Price: 9,00 € EUR
+  - [6](https://www.floranza-air.shop/products/braided-hair-bands-for-girls-hair-hoop-headwear-female-flower-love-fruit-headwear-women-new-fashion-hair-accessories?variant=52111086944593)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S3551bea2c16042d7928999dae7c437fbK.webp?v=1760488243
+    Price: 9,00 € EUR
+  - [7](https://www.floranza-air.shop/products/braided-hair-bands-for-girls-hair-hoop-headwear-female-flower-love-fruit-headwear-women-new-fashion-hair-accessories?variant=52111086977361)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S04bece081156411a93fb2def0aa3e7c4n.webp?v=1760488242
+    Price: 9,00 € EUR
+  - [4](https://www.floranza-air.shop/products/braided-hair-bands-for-girls-hair-hoop-headwear-female-flower-love-fruit-headwear-women-new-fashion-hair-accessories?variant=52111087010129)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Se27690abfe1e4927a4ea8e7ce007c453g.webp?v=1760488243
+    Price: 9,00 € EUR
+  - [5](https://www.floranza-air.shop/products/braided-hair-bands-for-girls-hair-hoop-headwear-female-flower-love-fruit-headwear-women-new-fashion-hair-accessories?variant=52111087042897)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S3f67991fb6444684a05120c0c2631738t.webp?v=1760488243
+    Price: 9,00 € EUR
+  - [2](https://www.floranza-air.shop/products/braided-hair-bands-for-girls-hair-hoop-headwear-female-flower-love-fruit-headwear-women-new-fashion-hair-accessories?variant=52111087075665)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S404e369ccf874716a32e7079a124eb61D.webp?v=1760488242
+    Price: 9,00 € EUR
+  - [3](https://www.floranza-air.shop/products/braided-hair-bands-for-girls-hair-hoop-headwear-female-flower-love-fruit-headwear-women-new-fashion-hair-accessories?variant=52111087108433)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S844c1e0d098e447684969ac49e8478524.webp?v=1760488243
+    Price: 9,00 € EUR
+  - [1](https://www.floranza-air.shop/products/braided-hair-bands-for-girls-hair-hoop-headwear-female-flower-love-fruit-headwear-women-new-fashion-hair-accessories?variant=52111087141201)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Sad4a75be5318445d9d5f8024b5c6921ds.webp?v=1760488242
+    Price: 9,00 € EUR
+  - [12](https://www.floranza-air.shop/products/braided-hair-bands-for-girls-hair-hoop-headwear-female-flower-love-fruit-headwear-women-new-fashion-hair-accessories?variant=52111087173969)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S33f3ed9b19664578b758b000da4e9496c.webp?v=1760488242
+    Price: 9,00 € EUR
+  - [13](https://www.floranza-air.shop/products/braided-hair-bands-for-girls-hair-hoop-headwear-female-flower-love-fruit-headwear-women-new-fashion-hair-accessories?variant=52111087206737)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S596a76433db648abaa9a6c736daed394I.webp?v=1760488242
+    Price: 9,00 € EUR
+  - [14](https://www.floranza-air.shop/products/braided-hair-bands-for-girls-hair-hoop-headwear-female-flower-love-fruit-headwear-women-new-fashion-hair-accessories?variant=52111087239505)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Sbe76236988cd471ebf9c6897004a02bd6.webp?v=1760488243
+    Price: 9,00 € EUR
+  - [15](https://www.floranza-air.shop/products/braided-hair-bands-for-girls-hair-hoop-headwear-female-flower-love-fruit-headwear-women-new-fashion-hair-accessories?variant=52111087272273)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Se1a7baea86bf499d81bd0a2f9ac4c822u.webp?v=1760488242
+    Price: 9,00 € EUR
+  - [9](https://www.floranza-air.shop/products/braided-hair-bands-for-girls-hair-hoop-headwear-female-flower-love-fruit-headwear-women-new-fashion-hair-accessories?variant=52111087305041)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S4a6c9b66694f4076b0c200ca372ff98ar.webp?v=1760488243
+    Price: 9,00 € EUR
+  - [10](https://www.floranza-air.shop/products/braided-hair-bands-for-girls-hair-hoop-headwear-female-flower-love-fruit-headwear-women-new-fashion-hair-accessories?variant=52111087337809)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Sc0ca2e96bd7045d5a8a7185d32515a16u.webp?v=1760488243
+    Price: 9,00 € EUR
+  - [11](https://www.floranza-air.shop/products/braided-hair-bands-for-girls-hair-hoop-headwear-female-flower-love-fruit-headwear-women-new-fashion-hair-accessories?variant=52111087370577)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Sd6357ca8898547268a7044c075afc1ed5.webp?v=1760488242
+    Price: 9,00 € EUR
+- [Deft Bun Hair Band DIY Donut Maker Girls Women Print Knotted Flexible Twister Styling Tool Headband Curler Hair Accessories](https://www.floranza-air.shop/products/deft-bun-hair-band-diy-donut-maker-girls-women-print-knotted-flexible-twister-styling-tool-headband-curler-hair-accessories): SPECIFICATIONSApplicable Scene: CASUALApplicable Season: Four SeasonsBowknot Donuts Twist Bun: Vintage Hairpin Hairstyle GiftsBraider Maker Easy To Use DIY: Deft Bun makerBrand Name: NoEnName_NullCN: JiangxiColor: White Pink Black Green Blue Yellow MulticolorDepartment Name: AdultDonut Bun Former Maker: Soild Hair ScrunchiesFeature: Decorate Gender: WomenHair Bun Maker: Multicolor Cloth ClipHigh-concerned chemical: NoneItem Type: headwearMaterial: POLYESTER,AlloyModel Number: HB21060201Origin: Mainland ChinaPattern Type: PrintPlace Of Origin: China (mainland)Release Date: Summer2021Style: FashionType: Elastic Hair Bands 7096 Deft Bun Fashion Hair Bands Women Summer Knotted Wire Headband Print Hairpin Braider Maker Easy To Use DIY Accessories 96658
+  Updated: 2025-10-15T01:09:59Z
+  Vendor: FLORANZA-AIR.SHOP
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Sa5f36a4891554b68b54c601a986266cfk.webp?v=1760488376
+  - [Yellow](https://www.floranza-air.shop/products/deft-bun-hair-band-diy-donut-maker-girls-women-print-knotted-flexible-twister-styling-tool-headband-curler-hair-accessories?variant=52111089107281)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S5b63006051844e7cbce983ebf354c10au.webp?v=1760488377
+    Price: 10,00 € EUR
+  - [White](https://www.floranza-air.shop/products/deft-bun-hair-band-diy-donut-maker-girls-women-print-knotted-flexible-twister-styling-tool-headband-curler-hair-accessories?variant=52111089140049)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S9500c889a58c4b208c7bdc49acc29b5fI.webp?v=1760488377
+    Price: 10,00 € EUR
+  - [Green](https://www.floranza-air.shop/products/deft-bun-hair-band-diy-donut-maker-girls-women-print-knotted-flexible-twister-styling-tool-headband-curler-hair-accessories?variant=52111089172817)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S5f555e144b63461a974ed5b98a615bc3P.webp?v=1760488377
+    Price: 10,00 € EUR
+  - [navy blue](https://www.floranza-air.shop/products/deft-bun-hair-band-diy-donut-maker-girls-women-print-knotted-flexible-twister-styling-tool-headband-curler-hair-accessories?variant=52111089205585)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Sb333446359144d3d86d1f6fdf3c98fc5Z.webp?v=1760488377
+    Price: 10,00 € EUR
+  - [floral 13](https://www.floranza-air.shop/products/deft-bun-hair-band-diy-donut-maker-girls-women-print-knotted-flexible-twister-styling-tool-headband-curler-hair-accessories?variant=52111089238353)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Sb7f90d41afa7448c98f19dcbc335642ak.webp?v=1760488377
+    Price: 10,00 € EUR
+  - [Beige](https://www.floranza-air.shop/products/deft-bun-hair-band-diy-donut-maker-girls-women-print-knotted-flexible-twister-styling-tool-headband-curler-hair-accessories?variant=52111089271121)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S37d95fe9b9fb4ef2ac5c3f00d6686367y.webp?v=1760488377
+    Price: 10,00 € EUR
+  - [Leopard 3](https://www.floranza-air.shop/products/deft-bun-hair-band-diy-donut-maker-girls-women-print-knotted-flexible-twister-styling-tool-headband-curler-hair-accessories?variant=52111089303889)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Se84df756f59d4edcbaf0318ed3732866x.webp?v=1760488378
+    Price: 10,00 € EUR
+  - [Floral 1](https://www.floranza-air.shop/products/deft-bun-hair-band-diy-donut-maker-girls-women-print-knotted-flexible-twister-styling-tool-headband-curler-hair-accessories?variant=52111089336657)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S8b6f6f6c1ec64f56ba8af04da70810bbr.webp?v=1760488377
+    Price: 10,00 € EUR
+  - [Floral 2](https://www.floranza-air.shop/products/deft-bun-hair-band-diy-donut-maker-girls-women-print-knotted-flexible-twister-styling-tool-headband-curler-hair-accessories?variant=52111089369425)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S78f0ac6f09cf4417a9bfedaff81eeecdS.webp?v=1760488377
+    Price: 10,00 € EUR
+  - [Floral 3](https://www.floranza-air.shop/products/deft-bun-hair-band-diy-donut-maker-girls-women-print-knotted-flexible-twister-styling-tool-headband-curler-hair-accessories?variant=52111089402193)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S5190d99dd8d0414b8294d7552dfba9c1L.webp?v=1760488377
+    Price: 10,00 € EUR
+  - [Floral 13](https://www.floranza-air.shop/products/deft-bun-hair-band-diy-donut-maker-girls-women-print-knotted-flexible-twister-styling-tool-headband-curler-hair-accessories?variant=52111089434961)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S0bece00cb4484a11a2d40faa04faa273S.webp?v=1760488377
+    Price: 10,00 € EUR
+  - [Floral 5](https://www.floranza-air.shop/products/deft-bun-hair-band-diy-donut-maker-girls-women-print-knotted-flexible-twister-styling-tool-headband-curler-hair-accessories?variant=52111089467729)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S2d42ece75b074678901a02a9dae0c417u.webp?v=1760488378
+    Price: 10,00 € EUR
+  - [F14](https://www.floranza-air.shop/products/deft-bun-hair-band-diy-donut-maker-girls-women-print-knotted-flexible-twister-styling-tool-headband-curler-hair-accessories?variant=52111089500497)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S5c375417b4d443ceaa871502613159ecO.webp?v=1760488377
+    Price: 10,00 € EUR
+  - [Floral 7H](https://www.floranza-air.shop/products/deft-bun-hair-band-diy-donut-maker-girls-women-print-knotted-flexible-twister-styling-tool-headband-curler-hair-accessories?variant=52111089533265)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S0d6b81df10984417955528eaa298bf28H.webp?v=1760488377
+    Price: 10,00 € EUR
+  - [Floral 8](https://www.floranza-air.shop/products/deft-bun-hair-band-diy-donut-maker-girls-women-print-knotted-flexible-twister-styling-tool-headband-curler-hair-accessories?variant=52111089566033)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S6cdc5978d67e4c63844e8643869eb059C.webp?v=1760488377
+    Price: 10,00 € EUR
+  - [Floral 9Z](https://www.floranza-air.shop/products/deft-bun-hair-band-diy-donut-maker-girls-women-print-knotted-flexible-twister-styling-tool-headband-curler-hair-accessories?variant=52111089598801)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S19678c8e78374faf9505d49aec9f6e75I.webp?v=1760488377
+    Price: 10,00 € EUR
+  - [Black 2](https://www.floranza-air.shop/products/deft-bun-hair-band-diy-donut-maker-girls-women-print-knotted-flexible-twister-styling-tool-headband-curler-hair-accessories?variant=52111089631569)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S8678fc6bb6b245d7b134f469b7734839x.webp?v=1760488378
+    Price: 10,00 € EUR
+- [Boho Headbands for Women Knotted Wide Headwrap Turban Yoga Workout Head Bands Stretch Hiarbands Cotton Bandana Hair Accessories](https://www.floranza-air.shop/products/boho-headbands-for-women-knotted-wide-headwrap-turban-yoga-workout-head-bands-stretch-hiarbands-cotton-bandana-hair-accessories): SPECIFICATIONSApplicable Scene: CASUALApplicable Season: Four SeasonsBrand Name: BIRDS.UPCN: GuangdongChoice: yesDepartment Name: AdultFeature: Decorate Gender: WomenHigh-concerned chemical: NoneItem Type: headwearMaterial: COTTONModel Number: KPXJOrigin: Mainland ChinaPattern Type: DotPlace Of Origin: China (mainland)Release Date: Spring2022Style: FashionType: Headbandssemi_Choice: yes100% Brand new and high qualityType : knot wide headbandsMaterial : print cotton fabricSize: width 14cm x 24cm / 5.5inch x 9.45inch, head circumference: 55~80 cm (elastic material)Suitable for: women,girlsPackage content: 1 piece with opp bagAbout this item:❤【Comfortable and Soft】: The wide headbands for women are made of polyester and spandex, skin-friendly, soft and comfortable, sweat-absorbent and breathable, not tight and will not cause headaches. Let you feel relaxed and comfortable during exercise.❤【Non-slip and sweat-absorbent】: The wide headband is made of non-slip material, which is not easy to slip off. Absorbs sweat well to keep sweat out of your eyes, keeps your hair neat and your scalp dry.eep sweat out of your eyes, keeps your hair neat and your scalp dry.❤【Widen Design】: Wide Head bands suitable for different head circumferences, especially suitable for women with high hairline, good hair cover The boundary line makes you more confident.❤【Use in Multiple Occasions】: The wide hair band is suitable for outdoor activities, yoga, work and life and other occasions, preventing hair from blocking the view, reducing sweat interference, and allowing you to focus more.❤【Cleaning method】: It is recommended to wash by hand in cold or warm water or put it in a laundry bag to reduce stretching and abrasion. Add a small amount of neutral detergent and gently rub the head band.
+  Updated: 2025-10-15T01:10:25Z
+  Vendor: FLORANZA-AIR.SHOP
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S23df57663efc4ca9af1208defb93a3daw.webp?v=1760488494
+  - [335](https://www.floranza-air.shop/products/boho-headbands-for-women-knotted-wide-headwrap-turban-yoga-workout-head-bands-stretch-hiarbands-cotton-bandana-hair-accessories?variant=52111091138897)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S0a7cf9e6d4324e3ba2a3f52c41de4be5y.webp?v=1760488493
+    Price: 10,00 € EUR
+  - [334](https://www.floranza-air.shop/products/boho-headbands-for-women-knotted-wide-headwrap-turban-yoga-workout-head-bands-stretch-hiarbands-cotton-bandana-hair-accessories?variant=52111091171665)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Sc697981039b7435a83e998201267204dj.webp?v=1760488493
+    Price: 10,00 € EUR
+  - [337](https://www.floranza-air.shop/products/boho-headbands-for-women-knotted-wide-headwrap-turban-yoga-workout-head-bands-stretch-hiarbands-cotton-bandana-hair-accessories?variant=52111091204433)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Sb028a0394e714090a1e3e8b9ddd9783bp.webp?v=1760488493
+    Price: 10,00 € EUR
+  - [336](https://www.floranza-air.shop/products/boho-headbands-for-women-knotted-wide-headwrap-turban-yoga-workout-head-bands-stretch-hiarbands-cotton-bandana-hair-accessories?variant=52111091237201)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S4c2438851a474ca192bdf47860fef51fV.webp?v=1760488493
+    Price: 10,00 € EUR
+  - [331](https://www.floranza-air.shop/products/boho-headbands-for-women-knotted-wide-headwrap-turban-yoga-workout-head-bands-stretch-hiarbands-cotton-bandana-hair-accessories?variant=52111091269969)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Sc46d0c3239eb491288dbc0ee1eb4630aP.webp?v=1760488493
+    Price: 10,00 € EUR
+  - [330](https://www.floranza-air.shop/products/boho-headbands-for-women-knotted-wide-headwrap-turban-yoga-workout-head-bands-stretch-hiarbands-cotton-bandana-hair-accessories?variant=52111091302737)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Sf46427490e214e3fb3bbc208249c63944.webp?v=1760488493
+    Price: 10,00 € EUR
+  - [333](https://www.floranza-air.shop/products/boho-headbands-for-women-knotted-wide-headwrap-turban-yoga-workout-head-bands-stretch-hiarbands-cotton-bandana-hair-accessories?variant=52111091335505)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S30ba12c7cec34c8a801349c1745641387.webp?v=1760488493
+    Price: 10,00 € EUR
+  - [332](https://www.floranza-air.shop/products/boho-headbands-for-women-knotted-wide-headwrap-turban-yoga-workout-head-bands-stretch-hiarbands-cotton-bandana-hair-accessories?variant=52111091368273)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S80515f8d2984406bbcecfcbfd8eef54eV.webp?v=1760488493
+    Price: 10,00 € EUR
+  - [323](https://www.floranza-air.shop/products/boho-headbands-for-women-knotted-wide-headwrap-turban-yoga-workout-head-bands-stretch-hiarbands-cotton-bandana-hair-accessories?variant=52111091401041)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S8b3c475ed280429198b53df5c4cdfa28X.webp?v=1760488494
+    Price: 10,00 € EUR
+  - [322](https://www.floranza-air.shop/products/boho-headbands-for-women-knotted-wide-headwrap-turban-yoga-workout-head-bands-stretch-hiarbands-cotton-bandana-hair-accessories?variant=52111091433809)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Sf687fab917ce4091bf57b718205c07bbv.webp?v=1760488494
+    Price: 10,00 € EUR
+  - [325](https://www.floranza-air.shop/products/boho-headbands-for-women-knotted-wide-headwrap-turban-yoga-workout-head-bands-stretch-hiarbands-cotton-bandana-hair-accessories?variant=52111091466577)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S84a235fc22384df39d928fa41b3346033.webp?v=1760488494
+    Price: 10,00 € EUR
+  - [324](https://www.floranza-air.shop/products/boho-headbands-for-women-knotted-wide-headwrap-turban-yoga-workout-head-bands-stretch-hiarbands-cotton-bandana-hair-accessories?variant=52111091499345)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S2fed6544b84a44bea1732826b5b9ff76A.webp?v=1760488493
+    Price: 10,00 € EUR
+  - [319](https://www.floranza-air.shop/products/boho-headbands-for-women-knotted-wide-headwrap-turban-yoga-workout-head-bands-stretch-hiarbands-cotton-bandana-hair-accessories?variant=52111091532113)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S8ac0f6e8237541458f295f5b756c3cf3E.webp?v=1760488495
+    Price: 10,00 € EUR
+  - [318](https://www.floranza-air.shop/products/boho-headbands-for-women-knotted-wide-headwrap-turban-yoga-workout-head-bands-stretch-hiarbands-cotton-bandana-hair-accessories?variant=52111091564881)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S01baa6faec8b4666baab998e54ea1640m.webp?v=1760488494
+    Price: 10,00 € EUR
+  - [321](https://www.floranza-air.shop/products/boho-headbands-for-women-knotted-wide-headwrap-turban-yoga-workout-head-bands-stretch-hiarbands-cotton-bandana-hair-accessories?variant=52111091597649)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Sebadb57ef64541e396171d77052a62bab.webp?v=1760488494
+    Price: 10,00 € EUR
+  - [320](https://www.floranza-air.shop/products/boho-headbands-for-women-knotted-wide-headwrap-turban-yoga-workout-head-bands-stretch-hiarbands-cotton-bandana-hair-accessories?variant=52111091630417)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S90a796a928d4424384797501c6b59234k.webp?v=1760488494
+    Price: 10,00 € EUR
+  - [351](https://www.floranza-air.shop/products/boho-headbands-for-women-knotted-wide-headwrap-turban-yoga-workout-head-bands-stretch-hiarbands-cotton-bandana-hair-accessories?variant=52111091663185)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Sd4c5788a229948b7aa69495fd9804750M.webp?v=1760488493
+    Price: 10,00 € EUR
+  - [350](https://www.floranza-air.shop/products/boho-headbands-for-women-knotted-wide-headwrap-turban-yoga-workout-head-bands-stretch-hiarbands-cotton-bandana-hair-accessories?variant=52111091695953)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S5f3d40de8eae454bba269991ae57614ck.webp?v=1760488493
+    Price: 10,00 € EUR
+  - [353](https://www.floranza-air.shop/products/boho-headbands-for-women-knotted-wide-headwrap-turban-yoga-workout-head-bands-stretch-hiarbands-cotton-bandana-hair-accessories?variant=52111091728721)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Sc3a244f0f4174f7ab73538e3a6831c396.webp?v=1760488493
+    Price: 10,00 € EUR
+  - [352](https://www.floranza-air.shop/products/boho-headbands-for-women-knotted-wide-headwrap-turban-yoga-workout-head-bands-stretch-hiarbands-cotton-bandana-hair-accessories?variant=52111091761489)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S01d1ce98c22b4a5c984c9b8e68f49affh.webp?v=1760488493
+    Price: 10,00 € EUR
+  - [347](https://www.floranza-air.shop/products/boho-headbands-for-women-knotted-wide-headwrap-turban-yoga-workout-head-bands-stretch-hiarbands-cotton-bandana-hair-accessories?variant=52111091794257)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S13bf0c02033141ac8d5a125167699388I.webp?v=1760488494
+    Price: 10,00 € EUR
+  - [346](https://www.floranza-air.shop/products/boho-headbands-for-women-knotted-wide-headwrap-turban-yoga-workout-head-bands-stretch-hiarbands-cotton-bandana-hair-accessories?variant=52111091827025)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/See8973b14478468199b5c4e747114fc4V.webp?v=1760488493
+    Price: 10,00 € EUR
+  - [349](https://www.floranza-air.shop/products/boho-headbands-for-women-knotted-wide-headwrap-turban-yoga-workout-head-bands-stretch-hiarbands-cotton-bandana-hair-accessories?variant=52111091859793)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S293cfce68a754a09b4d47e78636ceca0b.webp?v=1760488495
+    Price: 10,00 € EUR
+  - [348](https://www.floranza-air.shop/products/boho-headbands-for-women-knotted-wide-headwrap-turban-yoga-workout-head-bands-stretch-hiarbands-cotton-bandana-hair-accessories?variant=52111091892561)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S06e157cababc46c2b4d6ac85c7c07eec3.webp?v=1760488493
+    Price: 10,00 € EUR
+  - [343](https://www.floranza-air.shop/products/boho-headbands-for-women-knotted-wide-headwrap-turban-yoga-workout-head-bands-stretch-hiarbands-cotton-bandana-hair-accessories?variant=52111091925329)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S90b40daf22d640f89d0ea0e0dafb8575L.webp?v=1760488494
+    Price: 10,00 € EUR
+  - [342](https://www.floranza-air.shop/products/boho-headbands-for-women-knotted-wide-headwrap-turban-yoga-workout-head-bands-stretch-hiarbands-cotton-bandana-hair-accessories?variant=52111091958097)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S5616c92d5a18407884c380d8af431951r.webp?v=1760488493
+    Price: 10,00 € EUR
+  - [345](https://www.floranza-air.shop/products/boho-headbands-for-women-knotted-wide-headwrap-turban-yoga-workout-head-bands-stretch-hiarbands-cotton-bandana-hair-accessories?variant=52111091990865)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Sf3c5cb876332419d8ece487f024af051B.webp?v=1760488493
+    Price: 10,00 € EUR
+  - [344](https://www.floranza-air.shop/products/boho-headbands-for-women-knotted-wide-headwrap-turban-yoga-workout-head-bands-stretch-hiarbands-cotton-bandana-hair-accessories?variant=52111092023633)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S6d188fb4da1041c592d49d7b6bf4081fa.webp?v=1760488494
+    Price: 10,00 € EUR
+  - [339](https://www.floranza-air.shop/products/boho-headbands-for-women-knotted-wide-headwrap-turban-yoga-workout-head-bands-stretch-hiarbands-cotton-bandana-hair-accessories?variant=52111092056401)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Sbb1365ddbf854bd1a8bb674c48fc5095Q.webp?v=1760488494
+    Price: 10,00 € EUR
+  - [338](https://www.floranza-air.shop/products/boho-headbands-for-women-knotted-wide-headwrap-turban-yoga-workout-head-bands-stretch-hiarbands-cotton-bandana-hair-accessories?variant=52111092089169)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Sd1af69b2967c4727a31461210ca59f2aV.webp?v=1760488494
+    Price: 10,00 € EUR
+  - [341](https://www.floranza-air.shop/products/boho-headbands-for-women-knotted-wide-headwrap-turban-yoga-workout-head-bands-stretch-hiarbands-cotton-bandana-hair-accessories?variant=52111092121937)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Scd9db44b5a6b42eb978ecf88dce36c990.webp?v=1760488493
+    Price: 10,00 € EUR
+  - [340](https://www.floranza-air.shop/products/boho-headbands-for-women-knotted-wide-headwrap-turban-yoga-workout-head-bands-stretch-hiarbands-cotton-bandana-hair-accessories?variant=52111092154705)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Sf7fb64060eb14640abc2c8efed31804bV.webp?v=1760488493
+    Price: 10,00 € EUR
+  - [315](https://www.floranza-air.shop/products/boho-headbands-for-women-knotted-wide-headwrap-turban-yoga-workout-head-bands-stretch-hiarbands-cotton-bandana-hair-accessories?variant=52111092187473)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Sa995a95687df4914a04f281f97ab892aj.webp?v=1760488494
+    Price: 10,00 € EUR
+  - [314](https://www.floranza-air.shop/products/boho-headbands-for-women-knotted-wide-headwrap-turban-yoga-workout-head-bands-stretch-hiarbands-cotton-bandana-hair-accessories?variant=52111092220241)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S9a062c0aa4f340869eb822e204fdea2d2.webp?v=1760488493
+    Price: 10,00 € EUR
+  - [317](https://www.floranza-air.shop/products/boho-headbands-for-women-knotted-wide-headwrap-turban-yoga-workout-head-bands-stretch-hiarbands-cotton-bandana-hair-accessories?variant=52111092253009)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S6524910be9c54598b62a188779d264acn.webp?v=1760488493
+    Price: 10,00 € EUR
+  - [316](https://www.floranza-air.shop/products/boho-headbands-for-women-knotted-wide-headwrap-turban-yoga-workout-head-bands-stretch-hiarbands-cotton-bandana-hair-accessories?variant=52111092285777)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Sa5d8cd1ce6e64a2abba60eb055a16416b.webp?v=1760488493
+    Price: 10,00 € EUR
+  - [311](https://www.floranza-air.shop/products/boho-headbands-for-women-knotted-wide-headwrap-turban-yoga-workout-head-bands-stretch-hiarbands-cotton-bandana-hair-accessories?variant=52111092318545)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S1bcaace3ea2643e0897921b8524d7663n.webp?v=1760488493
+    Price: 10,00 € EUR
+  - [329](https://www.floranza-air.shop/products/boho-headbands-for-women-knotted-wide-headwrap-turban-yoga-workout-head-bands-stretch-hiarbands-cotton-bandana-hair-accessories?variant=52111092351313)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S3fc4c7139923430bae34323e7ef9a41by.webp?v=1760488493
+    Price: 10,00 € EUR
+  - [313](https://www.floranza-air.shop/products/boho-headbands-for-women-knotted-wide-headwrap-turban-yoga-workout-head-bands-stretch-hiarbands-cotton-bandana-hair-accessories?variant=52111092384081)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S1a0131f35b034c40acd907846d1258e4V.webp?v=1760488494
+    Price: 10,00 € EUR
+  - [312](https://www.floranza-air.shop/products/boho-headbands-for-women-knotted-wide-headwrap-turban-yoga-workout-head-bands-stretch-hiarbands-cotton-bandana-hair-accessories?variant=52111092416849)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Sb9666b9ad3054d738daa6873e8a21553R.webp?v=1760488493
+    Price: 10,00 € EUR
+  - [326](https://www.floranza-air.shop/products/boho-headbands-for-women-knotted-wide-headwrap-turban-yoga-workout-head-bands-stretch-hiarbands-cotton-bandana-hair-accessories?variant=52111092449617)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S057d8b06b0fb4a20977ecd6c0db252bdB.webp?v=1760488493
+    Price: 10,00 € EUR
+  - [328](https://www.floranza-air.shop/products/boho-headbands-for-women-knotted-wide-headwrap-turban-yoga-workout-head-bands-stretch-hiarbands-cotton-bandana-hair-accessories?variant=52111092482385)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Sc2cc95e3706249dd9042195cef098e1cK.webp?v=1760488493
+    Price: 10,00 € EUR
+  - [327](https://www.floranza-air.shop/products/boho-headbands-for-women-knotted-wide-headwrap-turban-yoga-workout-head-bands-stretch-hiarbands-cotton-bandana-hair-accessories?variant=52111092515153)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Sc928c2ba03214b3f874482125e3b33d0L.webp?v=1760488493
+    Price: 10,00 € EUR
+  - [366](https://www.floranza-air.shop/products/boho-headbands-for-women-knotted-wide-headwrap-turban-yoga-workout-head-bands-stretch-hiarbands-cotton-bandana-hair-accessories?variant=52111092547921)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Se231592a1a0c4f3ba5fc396414259341N.webp?v=1760488494
+    Price: 10,00 € EUR
+  - [363](https://www.floranza-air.shop/products/boho-headbands-for-women-knotted-wide-headwrap-turban-yoga-workout-head-bands-stretch-hiarbands-cotton-bandana-hair-accessories?variant=52111092580689)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S3cbfa697d6db40d4b35cd4ad4c4213bch.webp?v=1760488493
+    Price: 10,00 € EUR
+  - [362](https://www.floranza-air.shop/products/boho-headbands-for-women-knotted-wide-headwrap-turban-yoga-workout-head-bands-stretch-hiarbands-cotton-bandana-hair-accessories?variant=52111092613457)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Se23e1a2786b04587994748028530c9d6T.webp?v=1760488494
+    Price: 10,00 € EUR
+  - [365](https://www.floranza-air.shop/products/boho-headbands-for-women-knotted-wide-headwrap-turban-yoga-workout-head-bands-stretch-hiarbands-cotton-bandana-hair-accessories?variant=52111092646225)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S56521cb049df44f2b32784acac1bbfedy.webp?v=1760488493
+    Price: 10,00 € EUR
+  - [364](https://www.floranza-air.shop/products/boho-headbands-for-women-knotted-wide-headwrap-turban-yoga-workout-head-bands-stretch-hiarbands-cotton-bandana-hair-accessories?variant=52111092678993)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Sfb8052a397f14b0d8b6810ffc81007a7z.webp?v=1760488493
+    Price: 10,00 € EUR
+  - [359](https://www.floranza-air.shop/products/boho-headbands-for-women-knotted-wide-headwrap-turban-yoga-workout-head-bands-stretch-hiarbands-cotton-bandana-hair-accessories?variant=52111092711761)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S30966c7532fe4dfcb0f0c0ceded8752bB.webp?v=1760488493
+    Price: 10,00 € EUR
+  - [358](https://www.floranza-air.shop/products/boho-headbands-for-women-knotted-wide-headwrap-turban-yoga-workout-head-bands-stretch-hiarbands-cotton-bandana-hair-accessories?variant=52111092744529)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Sfca39176d63c4f749ee883933fa7488fg.webp?v=1760488494
+    Price: 10,00 € EUR
+- [Women Bonnet Satin Sleeping Hat Long Tail Braid Hair Night Sleep Cap Head Cover Bonnets Shower Caps for Sauna Bathing Bonnet](https://www.floranza-air.shop/products/women-bonnet-satin-sleeping-hat-long-tail-braid-hair-night-sleep-cap-head-cover-bonnets-shower-caps-for-sauna-bathing-bonnet): SPECIFICATIONSBrand Name: NoEnName_NullFeature: Eco-Friendly,StockedFeature 1: Multicolor Comfy Sleep Hair CapFeature 2: Elastic Breathable Soft Night CapFeature 3: Hair Protection Comfy NightcapFeature 4: Personalized Warmth Sleep CapFeature 5: High Elasticity Soft Sleep CapModel Number: Shower CapsOccasion 1: for SleepingOccasion 2: for Shower BathOccasion 3: Gift for BirthdayOccasion 4: for Women GirlOccasion 5: for Long Curly HairOrigin: Mainland ChinaType 1: Stylish Bowknot Long Bonnets for WomenType 2: Fashionable Bowknot Long Tail NightcapType 3: Cute Bowknot Long Tail Bonnets NightcapType 4: Solid-Color Bowknot Long Tail NightcapType 5: Women's Bowknot Long Tail Braid Bonnets Note 1:We will keep your privacy safe and will not reveal any private information. 2:Please contact us if you have any questions. Our after-sales team will give you a perfect solution in the first time. Features: *High-quality material: The bowknot long tail nightcap is made of high-quality material, which is wear-resistant and durable, breathable and comfortable, skin-friendly, and can be used for a long time. *Comfortable to wear: This bowknot nightcap is made of polyester, which will feel smoothly and soft to the touch, comfortable to wear, and designed with loose tight straps. The thoughtful design will make your head more comfortable. *Protecting hair: The hair nightcap is soft and comfortable, can reduce the friction between the hair and the pillow, prevent the hair from getting tangleds, and better protecting the hair. *Multiple uses: This bowknot nightcap is very convenient for daily use, you can use it as a nightcap, a headband, you can wear it to wash your faces, put on makeup, take a shower, and even do housework. And the product is also suitable for chemotherapy patients. *Exquisite gift: This bowknot nightcap is an ideal gift choice for family and friends on Christmas, birthdays, and Thanksgiving. Notice: *Actual color may be slightly different from the image due to different light effect *Please allow 1-3cm deviation due to manual measurement Description: Material: Polyester Size: As Shown Package List: 1 x Nightcap
+  Updated: 2025-10-15T01:10:48Z
+  Vendor: FLORANZA-AIR.SHOP
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S48803d52fe83498f855111bf9c9f14bcG.webp?v=1760488629
+  - [rose red / CHINA](https://www.floranza-air.shop/products/women-bonnet-satin-sleeping-hat-long-tail-braid-hair-night-sleep-cap-head-cover-bonnets-shower-caps-for-sauna-bathing-bonnet?variant=52111094186321)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S19bd4ff40f6f4a8eb1c4833f2193a7deS.webp?v=1760488629
+    Price: 12,00 € EUR
+  - [blue / CHINA](https://www.floranza-air.shop/products/women-bonnet-satin-sleeping-hat-long-tail-braid-hair-night-sleep-cap-head-cover-bonnets-shower-caps-for-sauna-bathing-bonnet?variant=52111094219089)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S6d19b565691040f6aa5df9b3fd0484dbu.webp?v=1760488629
+    Price: 12,00 € EUR
+  - [Pink / CHINA](https://www.floranza-air.shop/products/women-bonnet-satin-sleeping-hat-long-tail-braid-hair-night-sleep-cap-head-cover-bonnets-shower-caps-for-sauna-bathing-bonnet?variant=52111094251857)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S04e8761b24c14f05b4a565e073159198y.webp?v=1760488629
+    Price: 12,00 € EUR
+  - [wine red / CHINA](https://www.floranza-air.shop/products/women-bonnet-satin-sleeping-hat-long-tail-braid-hair-night-sleep-cap-head-cover-bonnets-shower-caps-for-sauna-bathing-bonnet?variant=52111094284625)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S60f1c74ad738426089d7ed142a6597e6J.webp?v=1760488629
+    Price: 12,00 € EUR
+  - [Black / CHINA](https://www.floranza-air.shop/products/women-bonnet-satin-sleeping-hat-long-tail-braid-hair-night-sleep-cap-head-cover-bonnets-shower-caps-for-sauna-bathing-bonnet?variant=52111094317393)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S5e008e4d0d6f4a86837e8afe67c61008L.webp?v=1760488630
+    Price: 12,00 € EUR
+  - [purple / CHINA](https://www.floranza-air.shop/products/women-bonnet-satin-sleeping-hat-long-tail-braid-hair-night-sleep-cap-head-cover-bonnets-shower-caps-for-sauna-bathing-bonnet?variant=52111094350161)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Sc69444c7d1324e3fbd6a7802d71fa160z.webp?v=1760488629
+    Price: 12,00 € EUR
+  - [dark blue / CHINA](https://www.floranza-air.shop/products/women-bonnet-satin-sleeping-hat-long-tail-braid-hair-night-sleep-cap-head-cover-bonnets-shower-caps-for-sauna-bathing-bonnet?variant=52111094382929)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S98be887280bc4e1ea749fb52ec73e4dej.webp?v=1760488629
+    Price: 12,00 € EUR
+  - [yellow / CHINA](https://www.floranza-air.shop/products/women-bonnet-satin-sleeping-hat-long-tail-braid-hair-night-sleep-cap-head-cover-bonnets-shower-caps-for-sauna-bathing-bonnet?variant=52111094415697)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S5060e7e95d494a90b30a1b9d7d9da74aa.webp?v=1760488629
+    Price: 12,00 € EUR
+  - [coffee / CHINA](https://www.floranza-air.shop/products/women-bonnet-satin-sleeping-hat-long-tail-braid-hair-night-sleep-cap-head-cover-bonnets-shower-caps-for-sauna-bathing-bonnet?variant=52111094448465)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/Sec39217a55ea43198da6af6b43e9db57H.webp?v=1760488629
+    Price: 12,00 € EUR
+  - [green / CHINA](https://www.floranza-air.shop/products/women-bonnet-satin-sleeping-hat-long-tail-braid-hair-night-sleep-cap-head-cover-bonnets-shower-caps-for-sauna-bathing-bonnet?variant=52111094481233)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0959/2707/5153/files/S72a3f792caba4049a49d349532e47933e.webp?v=1760488628
+    Price: 12,00 € EUR
 
 ## Collections
 
@@ -24069,11 +24813,11 @@ Fashion Element:simple
   Updated: 2025-10-14T11:18:30Z
   Total Products: 1
 - [AVADA - Best Sellers](https://www.floranza-air.shop/collections/avada-best-sellers)
-  Updated: 2025-10-14T07:28:08Z
-  Total Products: 439
+  Updated: 2025-10-15T01:10:50Z
+  Total Products: 447
 - [APPPlaza - Best Sellers](https://www.floranza-air.shop/collections/appplaza-best-sellers)
-  Updated: 2025-10-14T07:28:08Z
-  Total Products: 439
+  Updated: 2025-10-15T01:10:50Z
+  Total Products: 447
 - [VENTILATEUR DE COU PORTABLE RECHARGEABLE](https://www.floranza-air.shop/collections/ventilateur-de-cou-portable-rechargeable): Description: Restez au frais partout, en toute liberté ! Vous en avez assez de souffrir de la chaleur lors de vos déplacements, au travail ou pendant vos activités sportives ? Le FLORANZA-AIR™ est la solution parfaite pour vous rafraîchir instantanément, où que vous soyez. ✨ Pourquoi choisir FLORANZA-AIR™ ? Portable et mains libres - Se porte confortablement autour du cou, vous laissant les mains libres pour vos activités Rechargeable USB - Plus besoin de piles jetables, économique et écologique Ultra-léger (239g) - Vous oubliez que vous le portez Silencieux - Profitez d'une brise rafraîchissante sans bruit gênant Parfait pour l'été - Idéal pour le sport, le bureau, les voyages, le jardinage ou toute activité extérieure 🌬️ Caractéristiques techniques : Poids : 239g seulement Alimentation : Rechargeable par USB Design ergonomique pour un confort optimal Ventilation efficace et ciblée Ne laissez plus la chaleur gâcher vos journées ! Commandez votre FLORANZA-AIR™ dès maintenant et profitez d'un confort rafraîchissant instantané. Titre pour le référencement naturel (SEO): FLORANZA-AIR™ Ventilateur de Cou Portable Rechargeable USB - Rafraîchissement Mains Libres Description pour le référencement naturel (SEO): Ventilateur de cou portable rechargeable FLORANZA-AIR™. Ultra-léger (239g), silencieux, mains libres. Parfait pour sport, bureau, voyage. Rechargeable USB. Restez au frais partout ! Balises: 5 modifications
   Updated: 2025-10-14T11:18:30Z
   Total Products: 6
