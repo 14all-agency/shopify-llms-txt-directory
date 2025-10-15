@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2025-01-13T13:26:43Z
 - Contact Email: info@amar.al
-- Updated At: 2025-10-15T04:00:37.198Z
+- Updated At: 2025-10-15T16:00:36.784Z
 
 ## Products
 
@@ -718,7 +718,7 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/177-Lirene-ACID-POWER-Moisturizing-serum-with-LACTIC-AND-LACTOBIONIC-ACIDS-30-ml-1.png?v=1737381413
   Price: ALL 1,894.00 ALL
 - [Lirene ACID POWER Moisturizing smoothing cream with LACTOBIONIC ACID 50 ml - Amar Pharma - Lirene - Krem Fytyre](https://amar.al/products/lirene-acid-power-moisturizing-smoothing-cream-with-lactobionic-acid-50-ml): Lirene ACID POWER Krem zbutës hidratues me ACID LAKTOBIONIK 50 mlLIRENE ACID POWER është një formulë inovative që përmban një kombinim unik të acideve profesionale dhe hidrolateve qetësuese. PH i përshtatshëm minimizon rrezikun e acarimit dhe derdhjes jo tërheqëse të lëkurës, duke lejuar stimulim të rregullt, jo agresiv të rigjenerimit të qelizave. Trajtimi zbut gradualisht strukturën dhe tonin e lëkurës, në mënyrë që fytyra të rifitojë freskinë dhe shkëlqimin e saj rinor. Efektet spektakolare*:40% hidratim më i mirë42% reduktuar dukshmërinë e rrudhave84% e reduktuar skuqjen *bazuar në testet e kamerave me femra para dhe pas 3 javësh të përdorimit të kremit. - Amar Pharma - Lirene - Krem Fytyre
-  Updated: 2025-10-01T14:59:12Z
+  Updated: 2025-10-15T04:51:47Z
   Vendor: Lirene
   Product Type: Krem Fytyre
   Availability: Available
@@ -1775,7 +1775,7 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/120-BODY-SCALP-CLEANSING-GEL-normalising-desquamation-PURI-ICHTILIUM-250-ml-1.png?v=1757513928
   Price: ALL 2,556.00 ALL
 - [PURI-ROSALGIN - Amar Pharma - Pharmaceris - Xhel Pastrues](https://amar.al/products/soothing-physiological-face-gel-wash-for-the-face-and-the-skin-in-the-eye-area-puri-rosalgin-190-ml): Pharmaceris – Rosacea Puri-Rosalgin Xheli larës fiziologjik Rosalgin është menduar për pastrimin e përditshëm të lëkurës së ndjeshme, alergjike me rosacea, të prirur për skuqje, eritemë fikse, papula dhe pustula. Gjithashtu siguron kujdes të butë për lëkurën e ndjeshme në zonën e syve. Ai zëvendëson sapunin tradicional. Është i përshtatshëm për lëkurën e të gjitha moshave. Larësi në formë xheli bazohet në një përbërës pastrues jashtëzakonisht të butë pa sapun që ndihmon në ruajtjen e ekuilibrit fiziologjik të lëkurës pa cënuar barrierën natyrore mbrojtëse të epidermës. Largon papastërtitë në mënyrë efektive dhe make-up-in pa shkaktuar acarim ose tharje. Redukton me 90% formimin papulave dhe pustulave. Zvogëlon me 90% intensitetin e skuqjes. Tolerancë dhe efikasitet i lartë. Testuar dermatologjikisht. Udhëzime mbi përdorimin Aplikoni një sasi të vogël të xhelit në dorën tuaj dhe lani fytyrën. Më pas shpëlajeni me ujë. Pasoni larjen me një krem qetësues të duhur nga linja Pharmaceris R. Përdoreni çdo ditë në mëngjes dhe në darkë. - Amar Pharma - Pharmaceris - Xhel Pastrues
-  Updated: 2025-10-03T09:17:10Z
+  Updated: 2025-10-15T11:15:50Z
   Vendor: Pharmaceris
   Product Type: Xhel Pastrues
   Availability: Available
@@ -1831,7 +1831,7 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/61279741662966088.webp?v=1758105639
   Price: ALL 1,390.00 ALL
 - [ROSALGIN ACTIVE+ - Amar Pharma - Pharmaceris - Krem Fytyre](https://amar.al/products/ultra-active-gel-against-erythema-papules-and-pustules-for-face-rosalgin-active-30-ml): Pharmaceris Rosalgin Active+ Pharmaceris Rosalgin Active+ krijuar për të ofruar kujdes për lëkurën me simptoma të rosacea, e cila është e prirur për skuqje, eritemë të vazhdueshme ose të përsëritur, papula dhe pustula. Indikacionet Zvogëlon dukshmërinë e papulave dhe pustulave. Minimizon shfaqjen e eritemës. Ka një efekt qetësues. Posacërisht për lëkurën me simptoma të rosacea. Përbërësit aktivë Azeloglicina – Hidraton dhe qetëson lëkurën, redukton papulat dhe pustula ndërsa minimizon rrezikun e shpërthimit të akneve. AgascalmTM – Zvogëlon zgjerimin e vazhdueshëm të enëve të gjakut, dhe rikthen hidratimin e duhur të lëkurës. Ekstrakti Centella – Ka një efekt qetësues, zvogëlon dukshmërinë e telangjiektazive dhe lezioneve papulopustulare të lëkurës. Uji i lajthisë – Përmirëson qarkullimin e gjakut në lëkurë, dhe tonin e saj. Udhëzime mbi përdorimin Përdoreni xhelin çdo mëngjes dhe mbrëmje. Perfekt si bazë make-up. - Amar Pharma - Pharmaceris - Krem Fytyre
-  Updated: 2025-09-18T09:15:13Z
+  Updated: 2025-10-15T11:15:50Z
   Vendor: Pharmaceris
   Product Type: Krem Fytyre
   Availability: Available
