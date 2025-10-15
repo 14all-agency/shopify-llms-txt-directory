@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-10-15T08:01:02.277Z
+- Updated At: 2025-10-15T12:01:04.993Z
 
 ## Products
 
@@ -15392,7 +15392,7 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו אינטר בית 1997/98](https://www.rsport.co.il/products/retro-shirt-inter-home-1997-98): חולצת רטרו אינטר בית 1997/98 בעיצוב איכותי ונוסטלגי, מושלמת למגרש
-  Updated: 2025-10-06T00:22:04Z
+  Updated: 2025-10-15T09:35:35Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
@@ -32657,7 +32657,7 @@
     Availability: Available
     Price: ‏109.90 ‏₪ ILS
 - [חולצת משחק דפורטיבו טולוקה חוץ 24/25 | גברים](https://www.rsport.co.il/products/חולצת-משחק-דפורטיבו-טולוקה-חוץ-24-25-גברים): חולצת החוץ של דפורטיבו טולוקה לעונת 2024/25 מגיעה בעיצוב נקי, עם נגיעות עיצוב אלגנטיות שמבליטות את סמל המועדון. החולצה עשויה מ־100% פוליאסטר עם בד נושם וקל משקל שמנדף זיעה, מה שהופך אותה לנוחה במיוחד למשחק, אימון או שימוש יומיומי. אידיאלית לאוהדים שרוצים לשלב בין סטייל ונאמנות – גם במשחקי החוץ.
-  Updated: 2025-10-02T11:32:05Z
+  Updated: 2025-10-15T11:46:47Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
