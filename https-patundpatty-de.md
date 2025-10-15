@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-03-19T17:46:58Z
 - Contact Email: info@patundpatty.de
-- Updated At: 2025-10-15T16:00:34.319Z
+- Updated At: 2025-10-15T20:00:34.589Z
 
 ## Products
 
@@ -59,6 +59,20 @@
   - [Dinkelspelz-kbA / ca. 28 x 56 cm](https://patundpatty.de/products/bio-kuschelkissen-eisbaer?variant=45297270456588)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio_Kuschelkissen_Eisbar_-_PAT_PATTY-4830131.jpg?v=1751446325
+    Price: 60,50 € EUR
+- [Bio Kuschelkissen Löwe Plüsch mit Spelzfüllung | PAT & PATTY](https://patundpatty.de/products/bio-kuschelkissen-loewe): Bio Kuschelkissen Löwe aus Bio-Plüsch mit natürlicher Spelzfüllung – weich, nachhaltig & liebevoll handgemacht. Jetzt bestellen & natürlich kuscheln!
+  Updated: 2025-10-15T17:58:26Z
+  Vendor: PAT & PATTY
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio_Kuschelkissen_Loewe_PAT_PATTY_safran.jpg?v=1751446689
+  - [Hirsespelz-kbA](https://patundpatty.de/products/bio-kuschelkissen-loewe?variant=45297309352204)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio_Kuschelkissen_Loewe_PAT_PATTY_safran.jpg?v=1751446689
+    Price: 60,90 € EUR
+  - [Dinkelspelz-kbA](https://patundpatty.de/products/bio-kuschelkissen-loewe?variant=45297309384972)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio_Kuschelkissen_Loewe_PAT_PATTY_gestickt.jpg?v=1751446998
     Price: 60,50 € EUR
 - [Bio Kuschelkissen Pferd – superweich mit Spelzfüllung | PAT&PATTY](https://patundpatty.de/products/bio-kuschelkissen-pferd): Bio-Kuschelkissen Pferd aus Bio-Plüsch mit Hirsespelzfüllung – handgemacht, atmungsaktiv & superweich. Jetzt bei PAT&PATTY entdecken!
   Updated: 2025-10-02T07:34:12Z
@@ -149,7 +163,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/waschbares-bio-kuschelkissen-ziege-handgemacht-pat-und-patty.jpg?v=1751450496
     Price: 63,95 € EUR
 - [Bio Kuschelkissen Hund Naturweiß Hellbraun | PAT & PATTY](https://patundpatty.de/products/bio-kuschelkissen-hund): Entdecken Sie das Bio Kuschelkissen Hund von PAT & PATTY. Handgemacht, gefüllt mit Hirsespelz, schadstofffrei, kuschelweich und perfekt für Geborgenheit.
-  Updated: 2025-10-15T05:02:27Z
+  Updated: 2025-10-15T17:59:22Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -163,7 +177,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-kuschelkissen-hund-naturweiss-handgemacht-fuer-babys-pat-und-patty.jpg?v=1751452882
     Price: 63,95 € EUR
   - [hellbraun / Hirsespelz-kbA](https://patundpatty.de/products/bio-kuschelkissen-hund?variant=45479760363788)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-kuschelkissen-hund-naturweiss-mit-inlett-handgemacht-fuer-babys-pat-und-patty.jpg?v=1751454607
     Price: 59,90 € EUR
   - [hellbraun / Dinkelspelz-kbA](https://patundpatty.de/products/bio-kuschelkissen-hund?variant=45479760396556)
@@ -357,13 +371,13 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio_Kuschelkissen_Rabe_-_PAT_PATTY-made-in-germany.jpg?v=1751452156
     Price: 40,50 € EUR
 - [Bio Steckenpferd Don Camillo – fair und kreativ handgemacht](https://patundpatty.de/products/bio-steckenpferd-don-camillo): Bio Steckenpferd „Don Camillo“ aus weichem Plüsch, handgemacht, fair & nachhaltig – perfekt für fantasievolles Spielen kleiner Reiter:innen. Jetzt bei PAT&PATTY
-  Updated: 2025-10-09T10:39:01Z
+  Updated: 2025-10-15T17:58:36Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio_Steckenpferd_Don_Camillo_-_PAT_PATTY-4832829.jpg?v=1730231158
   - [Mini Don Camillo](https://patundpatty.de/products/bio-steckenpferd-don-camillo?variant=45302662136076)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio_Steckenpferd_Don_Camillo_-_PAT_PATTY-4832848_1594b503-3d21-495e-8fdf-06f21242fe82.jpg?v=1746688799
     Price: 107,00 € EUR
   - [Don Camillo](https://patundpatty.de/products/bio-steckenpferd-don-camillo?variant=45302662168844)
@@ -413,18 +427,32 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio_Steckenpferd_Abraxas_-_PAT_PATTY-4832764.jpg?v=1746688503
     Price: 116,00 € EUR
 - [Bio Steckenpferd Flicka – Plüsch, handgemacht und fair](https://patundpatty.de/products/bio-steckenpferd-flicka): Bio Steckenpferd „Flicka“ aus weichem Plüsch, handgemacht, fair & nachhaltig – ideal für fantasievolles Spielen kleiner Reiter:innen. Jetzt PAT&PATTY bestellen!
-  Updated: 2025-10-04T19:09:54Z
+  Updated: 2025-10-15T17:58:45Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Steckenpferd-Flicka-Handgemacht-Nachhaltiges-Spielzeug-Fuer-Kinder-Pat-Und-Patty.jpg?v=1751455695
   - [Mini Flicka](https://patundpatty.de/products/bio-steckenpferd-flicka?variant=45302927130892)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Steckenpferd-Flicka-Aus-Baumwolle-Kba-Handgemacht-Spielzeug-Fuer-Kinder-Pat-Und-Patty.jpg?v=1751456854
     Price: 102,90 € EUR
   - [Flicka](https://patundpatty.de/products/bio-steckenpferd-flicka?variant=45302927098124)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Steckenpferd-Flicka-Hellbraun-Handgemacht-Spielzeug-Fuer-Kinder-Pat-Und-Patty.jpg?v=1751455847
+    Price: 114,90 € EUR
+- [Bio Steckenpferd „Gandalf“ – aus grauem Plüsch, handgemacht](https://patundpatty.de/products/bio-steckenpferd-gandalf): Bio Steckenpferd Gandalf aus grauem Bio-Plüsch, handgemacht, nachhaltig & kuschelig weich perfekt für fantasievolles Spielen kleiner Reiter:innen jeden Alters!
+  Updated: 2025-10-15T17:58:19Z
+  Vendor: PAT & PATTY
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Steckepferd-Gandalf.webp?v=1744811648
+  - [Mini Gandalf](https://patundpatty.de/products/bio-steckenpferd-gandalf?variant=45302999318796)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio_Steckenpferd_Gandalf_-_PAT_PATTY-4832909.jpg?v=1756398016
+    Price: 102,90 € EUR
+  - [Gandalf](https://patundpatty.de/products/bio-steckenpferd-gandalf?variant=45302999286028)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio_Steckenpferd_Gandalf_-_PAT_PATTY-4832894.jpg?v=1756398016
     Price: 114,90 € EUR
 - [Bio Steckenpferd „Tarik“ – handgemacht, fair & aus Bio-Stoff](https://patundpatty.de/products/bio-steckendpferd-tarik): Bio Steckenpferd Tarik aus schwarzem Bio-Plüsch, handgemacht, fair & nachhaltig robust, fantasievoll & perfekt für kleine Reiter:innen zum Spielen & Entdecken!
   Updated: 2025-10-09T10:37:57Z
@@ -866,6 +894,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Rabe-W_rmflasche-Bio-PAT-Und-PATTY.jpg?v=1753100491
   Price: 42,50 € EUR
+- [Wärmflasche Schaf aus Naturgummi – sicher, fair & nachhaltig](https://patundpatty.de/products/bio-waermflasche-schaf): Wärmflasche Schaf aus Naturgummi – langlebig, schadstofffrei & flexibel. Ideal für wohltuende Wärme. Jetzt bei PAT & PATTY entdecken & bequem online bestellen!
+  Updated: 2025-10-15T17:59:06Z
+  Vendor: PAT & PATTY
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/W_rmflasche-Schaf-Bio-PAT-Und-PATTY.jpg?v=1753099913
+  Price: 42,50 € EUR
 - [Bio Wärmflasche Löwe – kuschelig, handgemacht & nachhaltig](https://patundpatty.de/products/bio-waermflasche-loewe): Bio Wärmflasche Löwe mit Bezug aus 100 % Bio-Baumwolle, GOTS-zertifiziert. Kuschelig, nachhaltig & ideal für Kinder. Jetzt bei PAT & PATTY online bestellen!
   Updated: 2025-10-01T22:00:38Z
   Vendor: PAT & PATTY
@@ -929,7 +964,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Lavendelkissen-Schwein-Mit-Fuellung-PAT-Und-PATTY.jpg?v=1753088672
     Price: 22,50 € EUR
 - [Bio Mini Lavendelkissen Storch Naturweiß handgemacht & fair](https://patundpatty.de/products/lavendelkissen-eule-bio-beruhigend): Bio Lavendelkissen Eule – handgemacht, nachhaltig & weich. Fördert erholsamen Schlaf bei Babys & Erwachsenen. Natürlich beruhigend. Bei PAT & PATTY bestellen!
-  Updated: 2025-10-01T21:36:15Z
+  Updated: 2025-10-15T19:54:51Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -1019,7 +1054,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Mini-Bio-Lavendelkissen-Wildschwein-Motiv-PAT-Und-PATTY.jpg?v=1753014628
     Price: 22,50 € EUR
 - [Bio Mini Lavendelkissen Schaf Naturweiß nachhaltig gefertigt](https://patundpatty.de/products/bio-mini-lavendelkissen-schaf): Bio Mini Lavendelkissen Schaf Naturweiß handgefertigt, weich, nachhaltig & schadstofffrei. Fördert entspannten Schlaf für Babys & Kinder. Jetzt bei PAT & PATTY!
-  Updated: 2025-10-01T21:06:07Z
+  Updated: 2025-10-15T17:59:10Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -1033,7 +1068,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Schaf-Lavendelkissen-Bio-Mini-PAT-Und-PATTY.jpg?v=1753014401
     Price: 22,50 € EUR
   - [Kirschkern](https://patundpatty.de/products/bio-mini-lavendelkissen-schaf?variant=45346316386572)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Lavendelkissen-Mini-Schaf-Design-PAT-Und-PATTY.jpg?v=1753014459
     Price: 22,50 € EUR
 - [Bio Mini Lavendelkissen Löwe – natürlich und handgemacht](https://patundpatty.de/products/bio-lavendelkissen-loewe): Bio Mini Lavendelkissen Löwe – handgefertigt, mit beruhigendem Lavendel gefüllt, schadstofffrei und nachhaltig. Fördert Entspannung. Jetzt bei PAT & PATTY!
@@ -1900,7 +1935,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Nachhaltig-Verpackte-Bio-Weihnachtsrassel-Maus-Geschenkfertiges-GOTS-Zertifiziertes-Spielzeug-PAT-Und-PATTY.jpg?v=1752305896
     Price: 18,50 € EUR
 - [Bio Baumwollwatte – Füllmaterial für DIY-Projekte und Kissen](https://patundpatty.de/products/bio-baumwollwatte-fuellmaterial): Bio Baumwollwatte von PAT & PATTY: nachhaltig, weich, atmungsaktiv, schadstofffrei, hochwertig und perfekt zum Füllen von Kissen, Kuscheltieren & DIY-Projekten.
-  Updated: 2025-10-14T20:09:20Z
+  Updated: 2025-10-15T18:00:38Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -1952,7 +1987,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Temperaturausgleichende-Schurwollkugelchen-Naturf_llung-Aus-KbT-Wolle-PAT-Und-PATTY.jpg?v=1752305096
     Price: 215,90 € EUR
 - [Maiswatte Bastelwatte für Kissen, Spielzeug & Kuscheltiere](https://patundpatty.de/products/100-maiswatte-bastelwatte-als-fullwatte): Maiswatte Bastelwatte von PAT & PATTY: 100 % Maiswatte, weich, waschbar, nachhaltig und umweltfreundlich ideal für Kissen, Kuscheltiere, Puppen & DIY-Projekte.
-  Updated: 2025-10-07T19:59:17Z
+  Updated: 2025-10-15T18:02:46Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -1974,13 +2009,13 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Extra-Weiche-Maiswatte-F_llwatte-Atmungsaktive-Naturf_llung-PAT-Und-PATTY.jpg?v=1752304823
     Price: 215,00 € EUR
 - [Bio Hirsespelz Kissenfüllung – natürlich und atmungsaktiv](https://patundpatty.de/products/bio-hirsespelz-hirsespreu-hirseschalen): Bio Hirsespelz Kissenfüllung von PAT & PATTY: atmungsaktiv, schadstofffrei & nachhaltig. Für erholsamen Schlaf und gesundes Liegen – jetzt online entdecken.
-  Updated: 2025-10-14T19:19:01Z
+  Updated: 2025-10-15T18:01:50Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Hirsespelz-Hirseschalen-Hirsespreu-KbA-Naturfuelueng-PAT-Und-PATTY.jpg?v=1759051693
   - [1000 gr. (ca. 7 L) nachfüllpack](https://patundpatty.de/products/bio-hirsespelz-hirsespreu-hirseschalen?variant=45558908518668)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Hirsespelz-Hirseschalen-Hirsespreu-KbA-Naturfuelueng-PAT-Und-PATTY.jpg?v=1759051693
     Price: 9,90 € EUR
   - [2000 gr. (ca. 14 L) nachfüllpack](https://patundpatty.de/products/bio-hirsespelz-hirsespreu-hirseschalen?variant=45558908551436)
@@ -2358,7 +2393,7 @@
   Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Steckenpferd-Pontos-Mit-Gebiss-Kaufen-Handgemachtes-Hobby-Horsing-Spielzeug-Kinder-Pat-Und-Patty.webp?v=1751481160
   Price: 116,00 € EUR
 - [Bio Hobby Horse Zimtstern mit Gebiss handgemacht nachhaltig](https://patundpatty.de/products/bio-mini-steckenpferd-zimtstern-mit-einem-gebiss): Das Bio Hobby Horse „Zimtstern“ von PAT & PATTY handgemacht, nachhaltig & mit Gebiss ideal für fantasievolles Spielen, kleine Reiter & abenteuerlustige Kinder.
-  Updated: 2025-10-15T10:11:02Z
+  Updated: 2025-10-15T19:54:50Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
