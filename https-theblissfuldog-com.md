@@ -10,7 +10,7 @@
 - Contact Email: info@theblissfuldog.com
 - Contact Phone: 855-364-2547
 - Address: 50688 235th ave NW
-- Updated At: 2025-10-14T16:00:41.916Z
+- Updated At: 2025-10-15T00:00:41.434Z
 
 ## Products
 
@@ -13028,7 +13028,7 @@
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/ROTTIE_COMBO_2022.jpg?v=1651162834
   Price: $19.95 USD
 - [The Blissful Dog Schnauzer Skin Care Combo for Your Dog's Nose+](https://theblissfuldog.com/products/schnauzer-tube-combo): Schnauzer skin care for dry noses, rough paws, bug bites and itchy skin issues. Mix and match your choice of butters for your dog's skin care kit.
-  Updated: 2025-06-24T16:12:27Z
+  Updated: 2025-10-14T23:52:46Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
