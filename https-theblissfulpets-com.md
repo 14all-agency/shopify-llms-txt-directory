@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2024-03-04T12:03:04Z
 - Contact Email: ashley@theblissfuldog.com
-- Updated At: 2025-10-15T04:00:32.117Z
+- Updated At: 2025-10-15T20:00:32.135Z
 
 ## Products
 
@@ -1580,16 +1580,16 @@
   Updated: 2024-08-29T19:15:46Z
   Total Products: 0
 - [Dog Butters](https://theblissfulpets.com/collections/nose-butter)
-  Updated: 2025-10-11T11:22:00Z
+  Updated: 2025-10-15T11:19:29Z
   Total Products: 8
 - [Dog Grooming](https://theblissfulpets.com/collections/dog-grooming)
-  Updated: 2025-10-14T11:18:03Z
+  Updated: 2025-10-15T11:19:29Z
   Total Products: 19
 - [Shop All Dog](https://theblissfulpets.com/collections/shop-all-dog)
-  Updated: 2025-10-14T11:18:03Z
+  Updated: 2025-10-15T11:19:29Z
   Total Products: 37
 - [Sensitive Skin](https://theblissfulpets.com/collections/sensitive-skin)
-  Updated: 2025-10-10T11:19:34Z
+  Updated: 2025-10-15T11:19:29Z
   Total Products: 5
 - [Insect Control](https://theblissfulpets.com/collections/insect-control)
   Updated: 2025-10-11T11:22:00Z
