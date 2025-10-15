@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-10-15T16:00:40.529Z
+- Updated At: 2025-10-15T20:00:40.791Z
 
 ## Products
 
@@ -144,7 +144,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/nitrile-examination-gloves-powder-free-black-m-240mm-cuff-70g-1000-gloves-nitrile-examination-gloves-essential-supplies-508508.jpg?v=1719445412
   Price: $109.00 NZD
 - [Nitrile Examination Gloves Powder Free - Black, S, 240mm Cuff, 7.0g - 1000 Gloves](https://essentialsupplies.co.nz/products/nitrile-examination-gloves-powder-free-black-s-240mm-cuff-7-0g-1000): Black powder free nitrile gloves offer premium snag and ultimate puncture resistance for use in dirty, greasy, industrial work environments. Made of powder and latex free nitrile to avoid allergies and skin irritation.Used when emergency and body protection is paramount with an increased resistance to oils and heat over latex. Made of powder and latex free nitrile to avoid allergies and skin irritation 240mm cuff 7.0g Colour: Black Size: Small Pack:10 packs x 100's Note:*Other sizes available: Medium, Large, Extra Large, Extra Extra Large (2XL)
-  Updated: 2025-07-07T21:49:51Z
+  Updated: 2025-10-15T19:35:28Z
   Vendor: Mattews Packaging
   Product Type: Nitrile Examination Gloves
   Availability: Available
@@ -1880,7 +1880,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/manual-polyethylene-pallet-cover-black-1680mm-x-1680mm-x-20mu-250-sheets-pallet-top-covers-essential-supplies-723132.jpg?v=1719445387
   Price: $110.00 NZD
 - [Manual Polyethylene Pallet Cover - Clear, 1680mm x 1680mm x 20mu - 250 Sheets](https://essentialsupplies.co.nz/products/manual-polyethylene-pallet-cover-clear-1680mm-x-1680mm-x-20mu-250): Pallet top covers are designed to cover the top of your palleted goods.The purpose of the pallet cover is to protect your cargo or load from a variety of contaminants such as moisture or dirt while in transit or in storage. Size: 1680mm x 1680mm Strength: 20 micron Colour: Clear Pack of: 250 sheets
-  Updated: 2025-10-15T02:40:37Z
+  Updated: 2025-10-15T17:18:58Z
   Vendor: Mattews Packaging
   Product Type: Pallet Top Covers
   Availability: Available
@@ -2587,7 +2587,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/fp-recycled-bin-liner-60l-black-650mm-x-900mm-x-30mu-450-pack-rubbish-bin-liners-essential-supplies-220076.jpg?v=1719445076
   Price: $116.00 NZD
 - [FP Recycled Bin Liner 60L - Black, 660mm x 900mm x 20mu - 500 Pack](https://essentialsupplies.co.nz/products/fp-recycled-bin-liner-60l-black-660mm-x-900mm-x-20mu-500): Recycled rubbish bin liners combine puncture strength and versatility to provide reliable, economical protection against leaking and odours.These bags are produced from post consumer plastic, which is then recycled and made into new bags. Recycled bin liners are the most cost effective as they reduce environmental impact, save energy and preserve natural. Tough, strong recycled bags Colour: Black Size: 60 Litres 660mm x 900mm x 20mu Pack of: 500
-  Updated: 2025-01-08T23:09:47Z
+  Updated: 2025-10-15T16:03:34Z
   Vendor: Mattews Packaging
   Product Type: Rubbish Bin Liners
   Availability: Available
@@ -2958,7 +2958,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/sms-coverall-type-56-white-4xl-50gsm-12-pieces-breathable-coverall-sms-coveralls-essential-supplies-518182.jpg?v=1719445807
   Price: $75.00 NZD
 - [SMS Coverall Type 5/6 - White, 3XL, 50gsm - 12 Pieces - *Breathable Coverall](https://essentialsupplies.co.nz/products/sms-coverall-type-5-6-white-3xl-50gsm-12-breathable-coverall): SMS 50gsm coveralls with a layer of meltblown polypropylene sandwiched between two layers of spunbound polypropylene to provide Type 5 and Type 6 anti static protection against fine particulates and liquid splashes. Designed for wood and metal processing, paint spraying, asbestos removal, silica dust and pharmaceutical processing industries. Superior breathability with fully elasticated hood, wrists and ankles. 50gsm Breathable Coverall Provides Type 5 and Type 6 anti static protection against fine particulates and liquid splashes Designed for wood and metal processing, paint spraying, asbestos removal, silica dust and pharmaceutical processing industries Superior breathability with fully elasticated hood, wrists and ankles Size: Extra Extra Extra Large (3XL) Content: 12 pieces Colour: White
-  Updated: 2025-01-09T14:37:59Z
+  Updated: 2025-10-15T16:03:28Z
   Vendor: Mattews Packaging
   Product Type: SMS Coveralls
   Availability: Available
@@ -7245,7 +7245,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/cardboard-corner-board-brown-50mm-x-50mm-x-4mm-x-1000mm-20-boards-corner-boards-essential-supplies-818832.jpg?v=1719444768
   Price: $37.00 NZD
 - [Cardboard Corner Board - Brown, 50mm x 50mm x 4mm x 1250mm - 20 Boards](https://essentialsupplies.co.nz/products/cardboard-corner-board-brown-50mm-x-50mm-x-4mm-x-1250mm-20): Brown pallet corner boards are designed to protect packages, by reducing damage during transportation and storage of palleted goods. Boards provide a cost effective measure to optimise warehouse pallet storage methods. Available in a range of lengths to suit all pallet sizes.
-  Updated: 2025-10-15T15:51:21Z
+  Updated: 2025-10-15T19:56:37Z
   Vendor: Mattews Packaging
   Product Type: Corner Boards
   Availability: Available
