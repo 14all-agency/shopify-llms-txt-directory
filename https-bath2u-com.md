@@ -6,7 +6,7 @@
 - Timezone: Asia/Kuala_Lumpur
 - Created At: 2022-10-06T05:47:12Z
 - Contact Email: sales@bath2u.com
-- Updated At: 2025-10-15T04:00:33.795Z
+- Updated At: 2025-10-15T12:00:32.871Z
 
 ## Products
 
@@ -2592,7 +2592,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/NV-8946ANB.png?v=1678115814
   Price: RM 1,050.00 MYR
 - [GLOREX 800mm Frameless Rectangular LED Mirror](https://bath2u.com/products/glorex-800mm-frameless-rectangular-led-mirror): Specification : Type : Frameless Dimension : 600 mm x 800 mm Thickness : 4 mm Shape : Rectangular LED : Yes
-  Updated: 2025-01-19T18:11:59Z
+  Updated: 2025-10-15T07:35:39Z
   Vendor: GLOREX
   Product Type: Bathroom Mirror
   Availability: Available
