@@ -10,7 +10,7 @@
 - Contact Email: info@theblissfuldog.com
 - Contact Phone: 855-364-2547
 - Address: 50688 235th ave NW
-- Updated At: 2025-10-15T00:00:41.434Z
+- Updated At: 2025-10-15T12:00:43.030Z
 
 ## Products
 
@@ -971,7 +971,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/COLLIE-NOSE-50TUBE-SHEA-BUTTERcopy.jpg?v=1631658060
     Price: $10.95 USD
 - [Doberman Pinscher Nose Butter Moisturizes Rough, Dry Dobie Noses](https://theblissfuldog.com/products/doberman-pinscher): The Blissful Dog Doberman Pinscher Nose Butter® soothes and relives your Dobie's rough, dry, chapped nose using all natural butters and oils. Free Shipping USA!
-  Updated: 2025-06-24T16:09:35Z
+  Updated: 2025-10-15T06:18:43Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
