@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-06-23T16:52:36Z
 - Contact Email: customerservice@aliciaadamsalpaca.com
-- Updated At: 2025-10-15T16:00:38.882Z
+- Updated At: 2025-10-15T20:00:38.204Z
 
 ## Products
 
@@ -750,7 +750,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-as290-07-24-houndstoothscarf-brown-lightblue-white-web.jpg?v=1735832602
     Price: $95.00 USD
 - [Buy Alassio Wrap | Luxury Alpaca Wrap | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/alassio-wrap): Buy Alassio Wrap, luxury alpaca Wrap at alicia adams alpaca. Earn Rewards. Shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-10-15T13:31:33Z
+  Updated: 2025-10-15T17:14:02Z
   Vendor: alicia adams alpaca
   Product Type: Scarves & Wraps
   Availability: Available
@@ -772,7 +772,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AS133-12-90-AlassioWrap-LightGrey-Yellow-white-web.jpg?v=1719259343
     Price: $295.00 USD
   - [Ivory / ONE SIZE](https://aliciaadamsalpaca.com/products/alassio-wrap?variant=40826821476467)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AS133-01-Alassio-Wrap-Ivory-2-white-web.jpg?v=1719259343
     Price: $295.00 USD
   - [Navy / Ivory / ONE SIZE](https://aliciaadamsalpaca.com/products/alassio-wrap?variant=40826821378163)
@@ -6687,7 +6687,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-blainecardigan-merlot-modelwhite.jpg?v=1759492597
     Price: $365.00 USD
 - [Buy Mimi Hat | Luxury Alpaca Knit Hat | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/mimi-womens-alpaca-hat): buy mimi hat, luxury alpaca knit hat at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-10-13T13:51:46Z
+  Updated: 2025-10-15T19:56:31Z
   Vendor: alicia adams alpaca
   Product Type: Hats & Beanies
   Availability: Available
@@ -9993,7 +9993,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH121-93-MysticThrow-IndianSummer-FlatWhite.jpg?v=1759491732
     Price: $495.00 USD
 - [Buy Gia Jacket For Men | Luxury Alpaca Men's Jacket | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/gia-jacket-for-men): buy gia jacket for men, luxury alpaca men's jacket at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-10-10T14:54:47Z
+  Updated: 2025-10-15T16:49:17Z
   Vendor: alicia adams alpaca
   Product Type: Coats & Jackets
   Availability: Available
@@ -12838,7 +12838,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/IMG_3365.jpg?v=1759490041
     Price: $345.00 USD
 - [Buy Reversible Hat for Men | Luxury Alpaca Knit Hat | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/reversible-hat-for-men): buy reversible hat for men, luxury alpaca knit hat at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-10-10T14:57:24Z
+  Updated: 2025-10-15T19:42:07Z
   Vendor: alicia adams alpaca
   Product Type: Hats & Beanies
   Availability: Available
@@ -12856,7 +12856,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-aa280-203-04-reversiblehat-evergreen-taupe-flatwhite_7cfc67e4-f8ff-470e-9732-08f71b85ca85.jpg?v=1735849527
     Price: $165.00 USD
   - [Denim Blue / Charcoal](https://aliciaadamsalpaca.com/products/reversible-hat-for-men?variant=40967080542323)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-reversiblehat_deniumblue_charcoal_flatwhite_e0c6c0db-9ecd-41c8-b64e-c4226a8a3d93.jpg?v=1735849527
     Price: $165.00 USD
   - [Pink Powder / Ivory](https://aliciaadamsalpaca.com/products/reversible-hat-for-men?variant=40967080444019)
