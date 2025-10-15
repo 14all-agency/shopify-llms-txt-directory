@@ -6,7 +6,7 @@
 - Timezone: Europe/Athens
 - Created At: 2023-12-24T09:13:07Z
 - Contact Email: info@printexplore9.com
-- Updated At: 2025-10-15T00:00:34.287Z
+- Updated At: 2025-10-15T16:00:32.304Z
 
 ## Products
 
@@ -431,8 +431,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/weekender-bag-Blue_Flowers.jpg?v=1759081942
   Price: $39.95 USD
-- [Dual-layer Phone Case](https://printexplore9.com/products/tough-cases-print-explore-2): Protect your phone with the vibrant “Lady in Colors” case! Dual-layer defense, matte or glossy finish. Apple- Samsung & Google devices.
-  Updated: 2025-10-12T09:53:31Z
+- [Vibrant & Stylish Phone Case – Colorful Grace](https://printexplore9.com/products/tough-cases-print-explore-2): Keep your iPhone safe and stylish with the Colorful Grace Tough Case. Vibrant colors, premium durability, and a perfect fit.
+  Updated: 2025-10-15T13:05:36Z
   Vendor: Printify
   Product Type: Phone Case
   Availability: Available
@@ -2309,10 +2309,10 @@
   Updated: 2025-09-28T17:11:35Z
   Total Products: 23
 - [Sustainable-Customized Accessories](https://printexplore9.com/collections/accessories): Discover sustainable and customized gifts for every occasion — from stylish wall clocks to eco-friendly camping mugs & more.
-  Updated: 2025-10-12T09:51:11Z
+  Updated: 2025-10-15T12:01:15Z
   Total Products: 31
 - [Kids Clothes Collection](https://printexplore9.com/collections/kids): Explore our delightful collection of baby clothes at a cheap price, designed to keep your little one stylish and comfortable without breaking the bank.
-  Updated: 2025-10-12T09:51:08Z
+  Updated: 2025-10-15T13:07:44Z
   Total Products: 7
 - [Shop Sustainable Apparel for Men & Women](https://printexplore9.com/collections/shop-now): Explore our sustainable apparel collection.  Enjoy stylish and eco friendly clothing made for comfort and everyday flair.
   Updated: 2025-09-28T17:11:36Z
@@ -2321,7 +2321,7 @@
   Updated: 2025-09-28T17:11:36Z
   Total Products: 3
 - [Custom Phone Cases](https://printexplore9.com/collections/phone-cases): Explore our collection of custom phone cases Durable dual-layer protection wireless charging compatible Choose matte or glossy.
-  Updated: 2025-09-28T17:11:36Z
+  Updated: 2025-10-15T12:01:15Z
   Total Products: 4
 - [Suitcases](https://printexplore9.com/collections/suitcases)
   Updated: 2025-10-12T09:51:10Z
@@ -2368,10 +2368,10 @@
   Updated: 2025-10-12T09:49:23Z
 - [FAQs – Everything You Need to Know About Printexplore 9](https://printexplore9.com/pages/faqs): 1. How can I place an order? To place an order, simply browse our online store, select the items you love, choose your size, and click "Add to Cart...
   Updated: 2025-10-12T09:47:15Z
-- [Loyalty Program - Earn Rewards Today - Join For Free](https://printexplore9.com/pages/loyalty-program): 
-  Updated: 2024-10-06T07:11:55Z
-- [Size chart](https://printexplore9.com/pages/size-chart): Size Chest Width (inches) Length (inches) Small 34-36 28 Medium 38-40 29 Large 42-44 30 XLarge 46-48 31 XXLarge 50-52 32
-  Updated: 2024-12-05T18:55:36Z
+- [Loyalty Program | Earn Rewards Today |Join For Free](https://printexplore9.com/pages/loyalty-program): Join the Print&Explore Loyalty Program and turn every purchase into points that you can redeem for discounts, free shipping, exclusive offers. its ...
+  Updated: 2025-10-15T13:34:33Z
+- [T-Shirt Size Chart – Shop With Confidence](https://printexplore9.com/pages/size-chart): Size Chest Width (inches) Length (inches) Small 34-36 28 Medium 38-40 29 Large 42-44 30 XLarge 46-48 31 XXLarge 50-52 32
+  Updated: 2025-10-15T13:24:38Z
 - [Hoodie Size Chart – Find Your Perfect Fit Guide](https://printexplore9.com/pages/size-chart-hoodies): 
   Updated: 2025-10-12T09:44:52Z
 - [T-Shirt Size Chart – Fit Guide by Printexplore 9](https://printexplore9.com/pages/size-chart-1): 
