@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-10-15T16:01:11.841Z
+- Updated At: 2025-10-15T20:01:10.083Z
 
 ## Products
 
@@ -39,7 +39,7 @@ para relacionar o número com a quantidade de animais. Óptimo para ajudar
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/10-puzzles-iniciacao-numeros-e-quantidades-810746821-4010168074689-brincatoys-1178692646.jpg?v=1752825365
   Price: 13,50 € EUR
 - [Puzzle para criança da HABA - O meu brinquedo](https://brincatoys.pt/products/puzzle-crianca-haba-meu-brinquedo): Descubra o Puzzle para criança da HABA - O meu brinquedo, um conjunto educativo de 10 puzzles que promove o desenvolvimento cognitivo e a coordenação motora
-  Updated: 2025-10-15T10:39:44Z
+  Updated: 2025-10-15T18:16:17Z
   Vendor: Seleção Brincatoys
   Product Type: + 2 anos
   Availability: Available
@@ -4240,7 +4240,7 @@ Como jogar: As crianças colocam as cartas viradas para baixo e misturam-nas. Um
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/jogo-tesouro-brilhante-810358623-brincatoys-1178693966.jpg?v=1752848295
   Price: 19,99 € EUR
 - [Jogo Triominos Deluxe](https://brincatoys.pt/products/jogo-triominos-deluxe): Trinomios de Luxe, a variante mais fascinante do dominó e três vezes mais divertido. Um jogo que inclui emoção, sorte e diversão para desfrutar em família ou com os amigos. Faz com que coincidam os números, completa figuras geométricas e ganha pontos extra. Com regras muito simples e muitas possibilidades.   Dimensão: 30 x 26,50 x 6 cm. Idade Recom
-  Updated: 2025-10-15T09:51:31Z
+  Updated: 2025-10-15T18:27:33Z
   Vendor: Seleção Brincatoys
   Product Type: + 7 anos
   Availability: Available
@@ -4569,7 +4569,7 @@ em qualquer ângulo (mesmo virada ao contrário!). Abre um mundo
 infindável de possibilidades de brincadeira imaginativa – desde jardins 
 com relvado até selvas exóticas, encostas de montanha íngremes e 
 máquinas voadoras verdes, espetaculares. E, quando a construção parar, ...
-  Updated: 2025-10-13T06:30:59Z
+  Updated: 2025-10-15T19:18:09Z
   Vendor: LEGO
   Product Type: + 12 meses
   Availability: Available
@@ -5656,7 +5656,7 @@ Provavelmente, a espécie vivente mais próxima é o cachorro-vinagre.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/mogli-621238023-brincatoys-1178694382.webp?v=1752814085
   Price: 7,50 € EUR
 - [Monopoly Guerra dos Tronos](https://brincatoys.pt/products/monopoly-guerra-dos-tronos): A corrida pelo controlo de Westeros acontece no Jogo de Tabuleiro Monopólio Guerra dos Tronos. As mecânicas que durante décadas proporcionaram momentos de diversão emfamília mantêm-se as mesmas, incluindo a compra e venda de recursos, negociação entre jogadores, cartas de ação aleatórias, lançamento de dados, movimentação de peças e gestão de dinhe
-  Updated: 2025-10-13T06:29:58Z
+  Updated: 2025-10-15T19:07:16Z
   Vendor: Monopoly
   Product Type: + 14 anos
   Availability: Available
@@ -10958,7 +10958,7 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-friends-carrinha-de-resgate-de-caes-41741-664174123-5702017415260-lego-1178696202.jpg?v=1752889084
   Price: 33,50 € EUR
 - [Lego Duplo - Caixa de Peças 10913 | Brincatoys](https://brincatoys.pt/products/lego-duplo-caixa-de-pecas): Quando abre este sortido colorido de peças LEGO DUPLO, abre um mundo de brincadeira criativa e benefícios para o desenvolvimento. Este conjunto versátil traz ideias e inspiração para os mais novos. Inclui um carro com rodas móveis, um telhado, janela, flores, pão... tudo para combinar com uma variedade de peças e elementos para um jogo imaginativo
-  Updated: 2025-10-13T06:24:34Z
+  Updated: 2025-10-15T17:53:16Z
   Vendor: LEGO
   Product Type: + 12 meses
   Availability: Available
@@ -13062,7 +13062,7 @@ Figura com aproximadamente 10,8 cm.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/puzzle-peppa-pig-princesa-50895523-2600000-peppa-pig-1178697205.jpg?v=1752906380
   Price: 16,99 € EUR
 - [Puzzle Madeira Peppa Pig - Família na Lama](https://brincatoys.pt/products/puzzle-madeira-peppa-pig-familia-na-lama): Um puzzle de madeira colorido para os mais pequenos. Este quebra-cabeça de 16 peças foi projetado numa fofa moldura com as personagens da Peppa Pig. As peças de madeira coloridas são dimensionadas para crianças de forma a ajudar os pequenos a colocá-las. O quebra-cabeça treina as habilidades motoras e artísticas das crianças e as cores estimulam a
-  Updated: 2025-10-13T06:22:21Z
+  Updated: 2025-10-15T18:26:57Z
   Vendor: Peppa Pig
   Product Type: + 12 meses
   Availability: Available
@@ -13801,7 +13801,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/princesa-disney-asha-21700123-princesas-disney-1178697669.jpg?v=1752799207
   Price: 22,50 € EUR
 - [Puzzle Peppa Pig - George Construtor](https://brincatoys.pt/products/puzzle-peppa-pig-george-construtor): Este puzzle de Peppa Pig é perfeito para todas as crianças que adoram o mundo aconchegante e encantador desta personagem. Junta-te a George, o irmão mais novo de Peppa, enquanto ele está na sua escavadora. Este puzzle com 24 peças é uma atividade divertida e interativa que irá manter as crianças entretidas e incentivar a experiência de construir este quebra-cabeça. É uma excelente maneira de incentivar as habilidades motoras finas, a coordenação olho-mão e a resolução de problemas. As peças deste puzzle são feitas de papelão robusto e resistente, garantindo que possam resistir a brincadeiras mais árduas. As peças são fáceis de manusear e perfeitas para mãos pequenas. Além disso, a qualidade do papelão significa que o puzzle pode ser montado e desmontado várias vezes sem se desgastar. Após concluído, o quebra-cabeça mede 26 x 25 cm. Este é um tamanho perfeito para ser exibido numa moldura ou colocado numa mesa ou prateleira. As crianças vão adorar ver a sua obra de arte finalizada. Este puzzle da Peppa Pig é mais do que apenas um brinquedo. É uma maneira envolvente e divertida de permitir que as crianças explorem o mundo aconchegante de Peppa e George. É uma atividade que irá manter as crianças entretidas e que também pode proporcionar um tempo de qualidade entre pais e filhos. Com este puzzle, as crianças podem se juntar a Peppa e George nas suas aventuras, enquanto desenvolvem habilidades importantes de maneira lúdica e divertida. Dimensão: 24 x 19,50 x 6 cm. Idade Recomendada: + de 3 anos.
-  Updated: 2025-10-13T06:21:37Z
+  Updated: 2025-10-15T18:13:26Z
   Vendor: Peppa Pig
   Product Type: + 3 anos
   Availability: Available
@@ -13871,7 +13871,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-batman-76264-perseguicao-batmobile-667626423-5702017419800-lego-1178697712.jpg?v=1752797901
   Price: 29,99 € EUR
 - [LEGO Star Wars 75370 - Stormtrooper Mech](https://brincatoys.pt/products/lego-star-wars-stormtrooper-mech): LEGO Star Wars 75370 - Stormtrooper Mech. Una-se à batalha intergaláctica. Montagem divertida, design realista e jogo criativo para todas as idades!
-  Updated: 2025-10-13T06:21:33Z
+  Updated: 2025-10-15T18:48:37Z
   Vendor: LEGO
   Product Type: + 6 anos
   Availability: Available
@@ -16400,7 +16400,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/boneca-celia-plumeti-com-cabelo-castanho-brinquedo-elegante-36171124-8435054317118-brincatoys-1178699696.jpg?v=1752945260
   Price: 59,90 € EUR
 - [Carro de Brincar Bugatti Bolide 1/24 - Edição Especial](https://brincatoys.pt/products/carro-de-brincar-bugatti-bolide-1-24): Leve para casa a emoção das pistas com o carro de brincar Bugatti Bolide 1/24. Modelo Maisto detalhado e durável perfeito para colecionadores e crianças.
-  Updated: 2025-10-13T06:18:39Z
+  Updated: 2025-10-15T19:12:56Z
   Vendor: Seleção Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -18528,7 +18528,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-de-brincar-ferrari-racing-f430-gtc-2008-683630325-8719247604026-bburago-1178701365.jpg?v=1752969858
   Price: 29,99 € EUR
 - [Red Bull RB20 (2024) #1, Verstappen: Espírito Competitivo](https://brincatoys.pt/products/red-bull-rb20-2024-verstappen): Reviva a emoção da Fórmula 1 com a miniatura oficial do Red Bull RB20 (2024) #1, Verstappen. Um item indispensável para fãs e colecionadores. 🏎️
-  Updated: 2025-10-13T06:16:13Z
+  Updated: 2025-10-15T18:55:02Z
   Vendor: Bburago
   Product Type: + 3 anos
   Availability: Available
@@ -18556,7 +18556,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/coleccao-vintage-bburago-1-64-carros-classicos-681033225-8719247910332-bburago-1178701381.jpg?v=1752782538
   Price: 19,99 € EUR
 - [Ferrari F1-75 #16 Charles Leclerc](https://brincatoys.pt/products/ferrari-f1-75-16-charles-leclerc-giallo-modena-2022): Adicione um toque de estilo italiano à sua coleção com o Ferrari F1-75 #16 Charles Leclerc 'Giallo Modena' (2022). Detalhes incríveis em escala 1:43.
-  Updated: 2025-10-13T13:27:25Z
+  Updated: 2025-10-15T18:41:11Z
   Vendor: Bburago
   Product Type: + 3 anos
   Availability: Available
@@ -18913,7 +18913,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/marvel-legends-red-hulk-colecionavel-imperdivel-860160525-5010996222381-marvel-1178701605.jpg?v=1752974763
   Price: 49,99 € EUR
 - [Lego Disney 43270 Canoa de Aventuras da Vaiana - Diversão](https://brincatoys.pt/products/lego-disney-canoa-de-aventuras-da-vaiana): Desperte a imaginação com o Lego Disney 43270 Canoa de Aventuras da Vaiana. Construia e explore as emocionantes aventuras de Moana já!
-  Updated: 2025-10-13T06:15:44Z
+  Updated: 2025-10-15T17:24:17Z
   Vendor: LEGO
   Product Type: + 6 anos
   Availability: Available
@@ -19032,7 +19032,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/jurassic-world-hammond-collection-triceratops-realista-238494825-0194735284948-jurassic-world-1178701689.jpg?v=1752781084
   Price: 24,90 € EUR
 - [Jurassic World Hammond Collection: Atrociraptor Detalhada](https://brincatoys.pt/products/jurassic-world-hammond-collection-atrociraptor): Sinta a emoção de Jurassic World com a figura Jurassic World Hammond Collection: Atrociraptor. Detalhes impressionantes que vão te surpreender!
-  Updated: 2025-10-13T06:15:37Z
+  Updated: 2025-10-15T19:01:25Z
   Vendor: Jurassic World
   Product Type: + 8 anos
   Availability: Available
@@ -21363,26 +21363,26 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-13T14:58:51Z
   Total Products: 125
 - [Até €15](https://brincatoys.pt/collections/ate-15)
-  Updated: 2025-10-15T15:34:09Z
-  Total Products: 1302
+  Updated: 2025-10-15T19:52:00Z
+  Total Products: 1303
 - [Até €25](https://brincatoys.pt/collections/ate-25)
-  Updated: 2025-10-15T15:34:09Z
-  Total Products: 2408
+  Updated: 2025-10-15T19:52:00Z
+  Total Products: 2409
 - [Até €35](https://brincatoys.pt/collections/ate-35)
-  Updated: 2025-10-15T15:34:09Z
-  Total Products: 2871
+  Updated: 2025-10-15T19:52:00Z
+  Total Products: 2873
 - [Até €50](https://brincatoys.pt/collections/ate-50)
-  Updated: 2025-10-15T15:34:09Z
-  Total Products: 3253
+  Updated: 2025-10-15T19:52:00Z
+  Total Products: 3256
 - [Até €60](https://brincatoys.pt/collections/ate-60)
-  Updated: 2025-10-15T15:34:09Z
-  Total Products: 3389
+  Updated: 2025-10-15T19:52:01Z
+  Total Products: 3392
 - [Até €80](https://brincatoys.pt/collections/ate-80)
-  Updated: 2025-10-15T15:34:09Z
-  Total Products: 3468
+  Updated: 2025-10-15T19:52:01Z
+  Total Products: 3471
 - [Até €100](https://brincatoys.pt/collections/ate-100)
-  Updated: 2025-10-15T15:34:09Z
-  Total Products: 3517
+  Updated: 2025-10-15T19:52:01Z
+  Total Products: 3520
 - [Novidades](https://brincatoys.pt/collections/novidades)
   Updated: 2025-10-15T15:34:09Z
   Total Products: 394
@@ -21573,8 +21573,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-06T17:09:21Z
   Total Products: 9
 - [Catálogo](https://brincatoys.pt/collections/all)
-  Updated: 2025-10-15T15:34:09Z
-  Total Products: 3550
+  Updated: 2025-10-15T19:52:01Z
+  Total Products: 3553
 - [6 - 7 anos](https://brincatoys.pt/collections/6-7-anos)
   Updated: 2025-10-15T11:21:15Z
   Total Products: 285
@@ -21609,11 +21609,11 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-14T16:29:54Z
   Total Products: 86
 - [Os mais procurados](https://brincatoys.pt/collections/os-mais-populares)
-  Updated: 2025-10-15T15:34:09Z
-  Total Products: 3551
+  Updated: 2025-10-15T19:52:01Z
+  Total Products: 3554
 - [Recém-chegados](https://brincatoys.pt/collections/recem-chegados)
-  Updated: 2025-10-15T15:34:09Z
-  Total Products: 3551
+  Updated: 2025-10-15T19:52:01Z
+  Total Products: 3554
 - [Produtos em destaque](https://brincatoys.pt/collections/produtos-em-destaque)
   Updated: 2025-10-13T12:31:16Z
   Total Products: 22
@@ -21624,8 +21624,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-12T11:21:00Z
   Total Products: 6
 - [OrderlyEmails - Recommended Products](https://brincatoys.pt/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-10-15T15:34:09Z
-  Total Products: 3076
+  Updated: 2025-10-15T19:52:01Z
+  Total Products: 3079
 - [Girafa Sofia](https://brincatoys.pt/collections/girafa-sofia)
   Updated: 2025-10-13T18:51:31Z
   Total Products: 19
@@ -21633,11 +21633,11 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-14T11:20:30Z
   Total Products: 126
 - [Marketplace](https://brincatoys.pt/collections/marketplace)
-  Updated: 2025-10-15T15:34:09Z
-  Total Products: 3076
+  Updated: 2025-10-15T19:52:01Z
+  Total Products: 3079
 - [EzConnector](https://brincatoys.pt/collections/ezconnector)
-  Updated: 2025-10-15T15:33:35Z
-  Total Products: 922
+  Updated: 2025-10-15T19:49:01Z
+  Total Products: 925
 
 ## Blogs
 
