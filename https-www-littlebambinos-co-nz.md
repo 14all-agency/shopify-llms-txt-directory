@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2014-08-05T01:45:52Z
 - Contact Email: info@littlebambinos.co.nz
-- Updated At: 2025-10-14T20:00:49.694Z
+- Updated At: 2025-10-15T00:00:49.581Z
 
 ## Products
 
@@ -960,13 +960,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/Mega1copy.jpg?v=1636411896
   Price: $311.20 NZD
-- [VIVA LA VULVA Perineal Power - Soothing Postpartum Ice Pack](https://www.littlebambinos.co.nz/products/viva-la-vulva-perineal-power-soothing-postpartum-ice-pack): Let this postpartum perineal icepack take care of down there while you take care of your baby. Viva La Vulva Postpartum Ice Packs have been specifically designed and contoured to fit down there to help you â€˜chillâ€™ comfortably. Cold therapy is a safe and natural way to soothe pain and reduce swelling from postpartum tearing, haemorrhoids and wounds. You got this mama!
-  Updated: 2025-08-06T22:41:07Z
-  Vendor: Viva La Vulva
-  Product Type: new arrivals
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/products/freezerpackweb3-lpnraovp-5_large_7f6252de-c09d-4755-9941-fec48f88cf0a.jpg?v=1636415225
-  Price: $45.00 NZD
 - [VIVA LA VULVA Peri Wash Cleansing Bottle](https://www.littlebambinos.co.nz/products/viva-la-vulva-peri-wash-cleansing-bottle): Sometimes wiping just isnâ€™t an option post birth and it stings to pee. Letâ€™s face it, itâ€™s FRAGILE AF down there! Your peri wash bottle helps dilute your urine to prevent stinging and infection. We know it looks weird, but honestly, it will be one of your go-to-best-things-ever to take care of down there after baby is born. When toilet paper feels like sandpaper, use your peri wash bottle on your stitches or tears for the first couple of weeks following your birth. Your vagina and perineum are working double-time to repair themselves. Give them a little extra help by using our easy and portable postpartum cleansing peri wash bottle.
   Updated: 2025-08-06T22:41:08Z
   Vendor: Viva La Vulva
@@ -974,13 +967,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/peribottleweb-yk4yRdzJ-5_large_490c63dc-031d-44bd-bed1-711d74e276cb.jpg?v=1636415496
   Price: $30.00 NZD
-- [VIVA LA VULVA Breasties Therapy Packs](https://www.littlebambinos.co.nz/products/viva-la-vulva-breasties): Breastfeeding can suck the life out of you, literally. If you are finding it hard, hang in there mama, youâ€™re not alone. Itâ€™s a wild ride, and just when you think you might be getting the hang of it, BAM! engorgement, BAM! mastitis. If youâ€™re one of the lucky ones and avoidthose, no doubt your breasts might hurt in between feeds anyway. Viva La Vulva Breasties have been specifically designed to fit the contour of your breasts, sit comfortably in your bra, and even fit around your breast pump.
-  Updated: 2025-08-06T22:41:09Z
-  Vendor: Viva La Vulva
-  Product Type: new arrivals
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/products/vlvbreastiesproductWEB8238-1w2l5kon-4_largecopy.jpg?v=1636415826
-  Price: $40.00 NZD
 - [VIVA LA VULVA B(.) B(.) Balm](https://www.littlebambinos.co.nz/products/viva-la-vulva-b-b-balm): Viva La Vulva hand-blended B( . )( . )B Balm is made from all-natural ingredients in small batches. Apply a small amount after breastfeeding to help soothe and nourish dry and cracked nipples. Hand-blended from all-natural ingredients, Boob Balm is safe for mama and baby too, no need to wash it off before breastfeeding.
   Updated: 2025-08-06T22:41:09Z
   Vendor: Viva La Vulva
@@ -13222,7 +13208,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $89.00 NZD
 - [Clarity Mist](https://www.littlebambinos.co.nz/products/hayfeverspritzer): 100% Natural Reduce brain fogHayfever relief Enhance focus Naturally boost your brainpower & focus with our Clarity Mist. This versatile formulation draws on oils known to enhance cognitive performance, brain fog & memory retention, as well as ease symptoms of hayfever & respiratory problems. Spray & let rosemary, lemongrass & clove do their work. Not suggested for first trimester pregnancy. Previously named Hayfever and Sinus Remedy. How it works: Lemongrass, Peppermint - Instantly refreshing to the respiratory system making it easier to breathe. Lavender - A natural soothing allergy relief Clove and Rosemary - Amazing for the brain, memory retention and pain-relieving ability. How to use Use as a mist to inhale (close eyes & breathe in), as a body & aura spray, or a room spray & linen spray. Ingredients Purified Aqua, Rosmarinus Officinalis* (Rosemary), Cymbopogon Flexuosus* (Lemongrass), Lavandula Angustifolia* (Lavender), Mentha Avensis* (Peppermint) Syzgium Aromaticum* (Clove Bud), and Limnanthes Alba * (Meadow foam seed oil) *Organic
-  Updated: 2025-10-12T06:56:40Z
+  Updated: 2025-10-14T22:16:42Z
   Vendor: Oria Skin
   Product Type: Spritzer
   Availability: Available
@@ -13282,7 +13268,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $59.00 NZD
 - [ORIA SKIN All Body Oil](https://www.littlebambinos.co.nz/products/all-body-oil): 100% Natural Deep hydrationSoothes dryness Balanced mood A true multi-tasking oil, use all over to leave your body feeling supple and nourished. Rich in vitamins A, C & E to bring hydration & glow to your skin, while geranium regulates & supports hormones. Lovingly massage into body after surf, sun, shave or shower. Can also be used to tame unruly hair. How it works: Apricot Kernel - deeply moisturises the skin but also helps prevent further environmental damage Sesame Oil - has a reverse ageing effect -helps prevents further premature ageing and UV damage to the skin while giving it an instant renewed glow. Effective in treating skin conditions like inflammation, eczema, psoriasis, and redness. Avocado - speeds the healing of the skin by revving up the collagen production Geranium - Balancing to the hormones, mood and mind. How to use Massage whole body for hydration or use as a nourishing bath and shower oil. Reach for this oil when hormonal support is needed. Ingredients Prunus armeniaca oil (Apricot Kernal), Helianthus annuus oil* (Sunflower)l,Sesamum indicum oil* (Sesame)l, Persea gratissima oil (Avocado*), Genus Pelargoniun (Geranium) Essential Oil. *Organic
-  Updated: 2025-10-09T05:50:28Z
+  Updated: 2025-10-14T23:52:42Z
   Vendor: Oria Skin
   Product Type: Skincare
   Availability: Available
@@ -13314,14 +13300,14 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Pink_clay_mask_28802afd-54d1-4402-a5bd-df40b82950cc.jpg?v=1744072321
   Price: $59.00 NZD
 - [ORIA SKIN Brightening Enzyme Polish](https://www.littlebambinos.co.nz/products/active-brightening-polish): 100% Natural Brighten skin tone.Exfoliate & smooth.Bring balance. Find freedom from hormonal skin with a twice-weekly gentle exfoliation. An all-natural exfoliant, packed with vitamin C & AHAs to gently smooth, brighten & freshen up your complexion without the usual harshness. Fruit enzymes & antioxidants work together to boost collagen production, for an all over healthy glow. How it works: Pineapple extract enzyme - Enzymes are a natural exfoliator. Creates a chemical reaction on the skin to dissolve dry, hardened and dead skin cells encourages the new growth of healthy new cells to take their place. Harakeke extract - softens your skin while naturally promoting recovery in skin damaged by irritation, environmental stresses and late nights etc. Hibiscus extract - unclogs the pores and hydrates the skin, thus making it visibly soft, smooth, and radiant. Ritual Use twice weekly to gently exfoliate by massaging into damp skin, avoiding contact with eyes. Complete the routine with Oria Skin serum, moisturiser & oil. Espeically useful to use after days of wearing makeup or sunscreen which can cause build up and clog pores. Ingredients Aloe Barbadensis Leaf Juice* (Aloe Vera), Pumice Powder, Hibiscus Sabdariffa Flower (Hibiscus Extract), Ananas sativa Fruit Extract (Pineapple), Phormium tenax extract (Harakeke), Carica Papaya extract, Citric acid, Sodium benzoate, Potassium sorbate, Citrus sinensis* (Orange sweet essential oil). *Organic
-  Updated: 2025-10-11T02:16:42Z
+  Updated: 2025-10-14T23:58:42Z
   Vendor: Oria Skin
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Brightening_enzyme_polish_0e4248ac-be4d-462a-9664-dc5effe82b4f.jpg?v=1744072243
   Price: $69.00 NZD
 - [ORIA SKIN Gentle Cleansing Milk](https://www.littlebambinos.co.nz/products/gentle-cleansing-milk): 100% Natural Soothe inflammation.Deep hydration.Bring balance. Working with your skin, not against it, Gentle Cleansing Milk uses hormone-friendly ingredients including organic chamomile, castor oil & palmarosa to clean & purify. Remove the day’s grime while balancing your skin’s natural oils, to keep your skin healthy & hydrated. How this works: Chamomile water removes excess oil, dirt and impurities for your pores without stripping it from it's natural moisture. While soothing and reduces redness and inflammation Castor Oil - antimicrobial - which means it can help decrease pimples and bacteria Jojoba - Softens and soothes your skin How to use Use to cleanse morning & night. Apply to a damp face & leave it to work its magic while you complete your bathroom routine. Rinse off & follow with Oria Skin serum, moisturiser & oil for the best glow. For the double-cleanse method, use Luminous Cleanse oil first, wipe away with warm cloth, follow with Gentle Cleansing Milk as per instruction. Ingredients Aqua, Matricaria recutita distillate (Chamomile Water), Simmondsia chinensis seed oil* (Jojoba), Ricinus communis seed oil* (Castor), Cetearyl Olivate & Sorbitan Olivate (Emulsifying wax), Glycerin, Geogard 221 & Cymbopogon martinii (Palmarosa essential oil). *Organic
-  Updated: 2025-10-14T19:50:43Z
+  Updated: 2025-10-14T23:50:41Z
   Vendor: Oria Skin
   Product Type: Skincare
   Availability: Available
@@ -16806,7 +16792,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:26Z
   Total Products: 0
 - [Facebook Product Feed](https://www.littlebambinos.co.nz/collections/facebook-product-feed)
-  Updated: 2025-10-14T11:02:23Z
+  Updated: 2025-10-14T23:53:13Z
   Total Products: 438
 - [Sleepy Doe](https://www.littlebambinos.co.nz/collections/sleepy-doe): A British sleepwear brand specialising in small, organic sleep collections for women and children. Founder Sophie launched Sleepy Doe in 2016 and is a firm believer that often the simple things are the best things in life. She wanted to create a line of long-lasting sleepwear to sit comfortably in any home and to be loved by both adult and child. The collection is made with 100% Organic GOTS certified cotton and all products are proudly manufactured in the U.K supporting independent factories and businesses. // window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-172659890-2'); // ]]>
   Updated: 2025-08-06T22:46:42Z
@@ -17658,8 +17644,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-10-04T11:02:23Z
   Total Products: 10
 - [Labour Day Sale Collection 23](https://www.littlebambinos.co.nz/collections/labour-day-sale-22-excl-connetix-and-by-billie)
-  Updated: 2025-10-14T11:02:23Z
-  Total Products: 1325
+  Updated: 2025-10-14T23:54:13Z
+  Total Products: 1323
 - [Summer Edit](https://www.littlebambinos.co.nz/collections/summer-edit-1): Shop our Summer edit
   Updated: 2025-10-14T11:02:23Z
   Total Products: 501
