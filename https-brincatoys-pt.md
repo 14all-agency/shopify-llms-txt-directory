@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-10-14T20:01:13.892Z
+- Updated At: 2025-10-15T00:01:07.700Z
 
 ## Products
 
@@ -9127,7 +9127,7 @@ numerosa.Figura em borracha termoplástica não tóxica e livre d...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/triominos-tour-edition-846063221-brincatoys-1178695540.jpg?v=1752876974
   Price: 15,99 € EUR
 - [Trolls Barb](https://brincatoys.pt/products/trolls-barb): No filme Trolls World Tour, a rainha Poppy e os seus amigos lançam-se numa aventura épica para salvar a música. As crianças podem recriar as cenas do filme ou criar novas aventuras com a figura do filme.  Dimensão: 3.8 x 13.3 x 20.3 cm Idade recomendada: + de 4 anos.
-  Updated: 2025-10-13T06:26:29Z
+  Updated: 2025-10-14T23:31:43Z
   Vendor: Trolls
   Product Type: + 4 anos
   Availability: Available
