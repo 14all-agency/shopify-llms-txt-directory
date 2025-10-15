@@ -10,7 +10,7 @@
 - Contact Email: support@eolasprints.com
 - Contact Phone: +34-942735955
 - Address: Parque Empresarial Besaya D14, Reocín 39538, Cantabria, Spain
-- Updated At: 2025-10-15T04:00:33.517Z
+- Updated At: 2025-10-15T08:00:35.419Z
 
 Welcome to Eolas Prints - Your Trusted 3D Printing & Digital Fabrication Partner
 
@@ -95,7 +95,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/pla-ingeo-870-filament-white-football-helmet-1-75-mm-1-kg-372.webp?v=1725009998
     Price: €30.50 EUR
 - [Pla Filament 1.75 Mm for Food Contact Applications](https://eolasprints.com/products/pla-filament-1-75-mm): Eolas Prints PLA filament in 1.75mm diameter offers premium quality in over 20 colors. A versatile material for 3D printing, suitable for food contact items.
-  Updated: 2025-10-14T15:15:37Z
+  Updated: 2025-10-15T07:54:16Z
   Vendor: Eolas Prints
   Product Type: 3D Printer Filament
   Availability: Available
@@ -461,7 +461,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/pla-transition-filament-pair-3d-printed-boots-1-75-mm-1-kg-960.webp?v=1725277266
     Price: €13.90 EUR
 - [Durable Petg Filament Stronger than Pla Filament](https://eolasprints.com/products/petg-filament): Eolas Prints PETG filament offers superior mechanical properties and printing ease, bridging the performance gap between PLA filament and ABS for professional use.
-  Updated: 2025-10-13T08:22:46Z
+  Updated: 2025-10-15T07:35:59Z
   Vendor: Eolas Prints
   Product Type: 3D Printer Filament
   Availability: Available
@@ -611,7 +611,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/petg-filament-spool-3d-printer-1-75-mm-250-g-natural-620.webp?v=1725009923
     Price: €147.02 EUR
 - [Tpu Flexible Filament 93a for 3d Printing](https://eolasprints.com/products/tpu-filament): Eolas Prints TPU Flex Filament 93A is a food-safe tpu flexible filament offering durability for printing flexible parts with a balance of strength and elasticity.
-  Updated: 2025-10-14T08:48:36Z
+  Updated: 2025-10-15T06:31:17Z
   Vendor: Eolas Prints
   Product Type: 3D Printer Filament
   Availability: Available
@@ -776,24 +776,6 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-bright-red-1-75-mm-1-kg-547.webp?v=1759097053
     Price: €34.90 EUR
-- [Tpu Transition Filament for 3d Printing](https://eolasprints.com/products/tpu-transition-filament): Eolas Prints TPU transition filament offers seamless multi-color blending for striking gradient effects. This durable, flexible TPU creates visually unique 3D prints.
-  Updated: 2025-10-09T09:35:22Z
-  Vendor: Eolas Prints
-  Product Type: 3D Printer Filament
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-transition-filament-spool-3d-printer-1-75-mm-250-g-710.webp?v=1725545341
-  - [1.75 mm / 250 G / Transition](https://eolasprints.com/products/tpu-transition-filament?variant=42324558348547)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-transition-filament-spool-3d-printer-1-75-mm-250-g-710.webp?v=1725545341
-    Price: €11.49 EUR
-  - [1.75 mm / 1 Kg / Transition](https://eolasprints.com/products/tpu-transition-filament?variant=42324558381315)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-transition-filament-spool-3d-printer-1-75-mm-250-g-710.webp?v=1725545341
-    Price: €22.50 EUR
-  - [2.85 mm / 1 Kg / Transition](https://eolasprints.com/products/tpu-transition-filament?variant=42324558446851)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-transition-filament-spool-3d-printer-1-75-mm-250-g-710.webp?v=1725545341
-    Price: €22.50 EUR
 - [Petg Transition Filament with Good Sunlight Resistance](https://eolasprints.com/products/petg-transition-filament): Eolas Prints PETG transition filament offers superior performance for 3D printing with improved thermal stability and good sunlight resistance for heat resistant parts.
   Updated: 2025-09-29T11:53:03Z
   Vendor: Eolas Prints
