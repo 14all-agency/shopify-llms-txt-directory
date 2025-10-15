@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-10-15T00:00:40.164Z
+- Updated At: 2025-10-15T04:00:42.034Z
 
 ## Products
 
@@ -1880,7 +1880,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/manual-polyethylene-pallet-cover-black-1680mm-x-1680mm-x-20mu-250-sheets-pallet-top-covers-essential-supplies-723132.jpg?v=1719445387
   Price: $110.00 NZD
 - [Manual Polyethylene Pallet Cover - Clear, 1680mm x 1680mm x 20mu - 250 Sheets](https://essentialsupplies.co.nz/products/manual-polyethylene-pallet-cover-clear-1680mm-x-1680mm-x-20mu-250): Pallet top covers are designed to cover the top of your palleted goods.The purpose of the pallet cover is to protect your cargo or load from a variety of contaminants such as moisture or dirt while in transit or in storage. Size: 1680mm x 1680mm Strength: 20 micron Colour: Clear Pack of: 250 sheets
-  Updated: 2025-01-09T13:46:10Z
+  Updated: 2025-10-15T02:40:37Z
   Vendor: Mattews Packaging
   Product Type: Pallet Top Covers
   Availability: Available
@@ -5728,7 +5728,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/nitrile-long-cuff-examination-gloves-powder-free-blue-2xl-300mm-cuff-60g-900-gloves-nitrile-examination-gloves-essential-supplies-733055.jpg?v=1719445395
   Price: $115.00 NZD
 - [Nitrile Diamond Grip Gloves Powder Free - Black, S, 240mm Cuff, 9.0g - 1000 Gloves](https://essentialsupplies.co.nz/products/nitrile-diamond-grip-gloves-powder-free-black-s-240mm-cuff-9-0g-1000)
-  Updated: 2025-01-19T14:06:06Z
+  Updated: 2025-10-15T01:08:21Z
   Vendor: Mattews Packaging
   Product Type: Nitrile Examination Gloves
   Availability: Available
