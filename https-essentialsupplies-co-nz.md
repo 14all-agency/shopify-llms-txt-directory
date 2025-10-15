@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-10-15T12:00:40.362Z
+- Updated At: 2025-10-15T16:00:40.529Z
 
 ## Products
 
@@ -7245,7 +7245,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/cardboard-corner-board-brown-50mm-x-50mm-x-4mm-x-1000mm-20-boards-corner-boards-essential-supplies-818832.jpg?v=1719444768
   Price: $37.00 NZD
 - [Cardboard Corner Board - Brown, 50mm x 50mm x 4mm x 1250mm - 20 Boards](https://essentialsupplies.co.nz/products/cardboard-corner-board-brown-50mm-x-50mm-x-4mm-x-1250mm-20): Brown pallet corner boards are designed to protect packages, by reducing damage during transportation and storage of palleted goods. Boards provide a cost effective measure to optimise warehouse pallet storage methods. Available in a range of lengths to suit all pallet sizes.
-  Updated: 2025-01-08T19:13:18Z
+  Updated: 2025-10-15T15:51:21Z
   Vendor: Mattews Packaging
   Product Type: Corner Boards
   Availability: Available
