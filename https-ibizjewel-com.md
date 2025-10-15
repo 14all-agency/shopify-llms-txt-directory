@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-01-24T04:49:01Z
 - Contact Email: info@ibizjewel.com
-- Updated At: 2025-10-14T20:00:49.970Z
+- Updated At: 2025-10-15T04:00:49.724Z
 
 ## Products
 
@@ -1025,7 +1025,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-17_2.jpg?v=1709554170
     Price: $939.00 USD
 - [Moissanite 3.79CT Marquise Diamond Art Deco Handmade Ring](https://ibizjewel.com/products/moissanite-3-79ct-marquise-diamond-art-deco-handmade-ring): This Exquisite Moissanite 3.79CT Marquise Diamond Art Deco Handmade Ring Showcases A Rare And Stunning Marquise Diamond, Creating A Timeless And Elegant Piece. Crafted With Expert Precision And Care, This Ring Is A True Work Of Art And Sure To Make A Statement. Elevate Your Jewelry Collection With This One-Of-A-Kind Piece.
-  Updated: 2025-10-02T10:30:37Z
+  Updated: 2025-10-15T00:31:45Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Marquise Diamond Ring
   Availability: Available
@@ -44598,6 +44598,10 @@
     Updated: 2025-10-13T03:39:36Z
     Author: Heris K.
     Tags: diamonds, eco-friendly diamonds, ethical rings, historical significance of diamonds, jewelry, meaning of salt and pepper diamonds, salt and pepper, salt and pepper diamond ring, sustainable
+  - [Why Salt and Pepper Diamond Rings Are the Future of Sustainable Jewelry](https://ibizjewel.com/blogs/news/why-salt-and-pepper-diamond-rings-are-the-future-of-sustainable-jewelry): Why Salt and Pepper Diamond Rings Are the Future of Sustainable Jewelry
+    Updated: 2025-10-15T02:42:55Z
+    Author: Heris K.
+    Tags: diamonds, eco-friendly rings, engagement rings, ethical jewelry, jewelry, salt and pepper diamond ring, salt and pepper diamonds, sustainable, sustainable luxury fashion
 
 ## Store Pages
 
