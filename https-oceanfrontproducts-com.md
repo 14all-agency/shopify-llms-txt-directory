@@ -6,7 +6,7 @@
 - Timezone: America/Denver
 - Created At: 2024-11-01T17:53:57Z
 - Contact Email: sglobalresorts@gmail.com
-- Updated At: 2025-10-15T12:00:31.964Z
+- Updated At: 2025-10-15T20:00:33.663Z
 
 ## Products
 
@@ -162,7 +162,7 @@
     Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/13036136949016732162_2048.jpg?v=1754880354
     Price: $45.12 USD
 - [Wanderlust Nature Lover Tee for Outdoor Adventures](https://oceanfrontproducts.com/products/wanderlust-nature-lover-tee): Are you a nature lover who can't resist the call of adventure? Our Wanderlust Nature Lover Tee is perfect for you!
-  Updated: 2025-10-14T23:22:57Z
+  Updated: 2025-10-15T12:05:52Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
@@ -13340,7 +13340,7 @@
     Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/978874072303038843_2048.jpg?v=1760483918
     Price: $46.99 USD
 - [Mermaidcore Tee](https://oceanfrontproducts.com/products/mermaidcore-tee): This Mermaidcore & Oceanic tee is perfect for those who love all things related to the sea and mythical creatures. Its lightweight cotton fabric and versatile fit make it ideal for both casual wear and lounging. The tee is great for adults who enjoy embracing their inner mermaid or ocean lover. Perfect for summer, beach trips, ocean-themed parties, and marine life enthusiasts.Product features- Lightweight 100% Airlume combed and ring-spun cotton fabric- Crisp and detailed sleeve printing using various techniques- Versatile retail fit for casual and semi-formal settings- Compliant with REACH certification for safe use- Range of fabric blends for different color optionsCare instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Iron, steam or dry: medium heat- Do not dryclean
-  Updated: 2025-10-15T02:42:28Z
+  Updated: 2025-10-15T13:17:30Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
@@ -13466,7 +13466,7 @@
     Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/12307997470100047347_2048.jpg?v=1760484048
     Price: $32.99 USD
 - [Finance Trader Humor Sweatshirt](https://oceanfrontproducts.com/products/finance-trader-humor-sweatshirt): This Finance & Trader Humor Sweatshirt is perfect for those who work in the financial industry or enjoy trading stocks. It exudes a playful and light-hearted vibe, making it a great conversation starter. Ideal for adults looking to add a touch of humor to their wardrobe, this sweatshirt is perfect for casual wear or lounging around during holidays and weekends.Product features- Unisex Heavy Blend™ Crewneck Sweatshirt made from a medium-heavy 50/50 cotton-polyester blend for comfort and durability- Ribbed knit collar with seam for added elasticity and shape retention- Embroidery decoration available on various areas for customization- Ethically sourced US cotton with OEKO-TEX certified dyes for safety and environmental standards- Ideal for adults in the financial industry or stock trading enthusiastsCare instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Do not iron- Do not dryclean
-  Updated: 2025-10-14T23:21:40Z
+  Updated: 2025-10-15T12:15:00Z
   Vendor: Printify
   Product Type: Sweatshirt
   Availability: Available
@@ -13860,7 +13860,7 @@
     Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/1707987828155301225_2048.jpg?v=1760484129
     Price: $56.62 USD
 - [Lofi Sunset Reflections Tee | Vaporwave Chill Aesthetic | Retro Dreamscape Shirt | Lofi Anime Art T-Shirt](https://oceanfrontproducts.com/products/lofi-sunset-reflections-tee-vaporwave-chill-aesthetic-retro-dreamscape-shirt-lofi-anime-art-t-shirt): Ease into calm vibes with this Lofi Sunset Reflections Tee — a nostalgic vaporwave-inspired design that captures that peaceful end-of-day moment. The artwork features a lone character gazing over misty mountains as the pastel sun sets behind soft clouds. With hues of blush pink, lavender, and tranquil teal, this design embodies the relaxing mood of late-night playlists and slow mornings. It’s the perfect piece for anyone who loves lofi beats, chill vibes, and aesthetic art — a wearable moment of peace in an overstimulated world. 🌅 Design Highlights Soft, dreamy anime-style character watching a pastel sunset Lofi & vaporwave aesthetic with nostalgic color tones Clean rectangular frame design for balance and focus Optimized for DTG printing with 300 DPI resolution Transparent background (centered 4500 × 5400 px) 👕 Fabric & Fit (Recommended: Bella + Canvas 3001 or Gildan 5000) 100 % soft cotton for everyday comfort Unisex classic fit — relaxed but flattering Lightweight (4.2 oz / yd²) and breathable Tear-away label & double-stitched durability Machine-washable — colors stay vibrant 💡 Perfect For Lofi & vaporwave fans 🎧 Anime and chill-music lovers Aesthetic streetwear brands Creators, gamers, and artists seeking peace-inspired fashion
-  Updated: 2025-10-14T23:23:02Z
+  Updated: 2025-10-15T12:56:59Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
@@ -13986,7 +13986,7 @@
     Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/12869488118487823398_2048.jpg?v=1760484155
     Price: $32.99 USD
 - [Sugar Rush for Bliss – Cartoon Snack Party Tee | Colorful Cupcake Design | Whimsical Foodie Shirt | Kawaii Vaporwave Candy Aesthetic](https://oceanfrontproducts.com/products/sugar-rush-for-bliss-cartoon-snack-party-tee-colorful-cupcake-design-whimsical-foodie-shirt-kawaii-vaporwave-candy-aesthetic): Step into pure joy and nostalgia with this Sugar Rush for Bliss tee — a vibrant celebration of your favorite viral snacks! At the center sits a giant cartoon cupcake, frosted in soft pink and sprinkled with rainbow happiness, crowned by a cherry that practically bounces with excitement. Around it, doodle-style fries, donuts, and candies join in a colorful snack party. The playful phrase “Sugar Rush for Bliss” dances above in bubble letters, perfectly blending retro candy-shop vibes with modern pop-art flair. Designed for foodies, creators, and anyone who lives for cheerful, colorful fun. 🍭 Design Highlights • Cartoon-style cupcake centerpiece with joyful cherry on top • Bright “Sugar Rush for Bliss” text in candy-colored bubble letters • Surrounding doodles of fries, donuts & sweets in party motion • Transparent background for easy printing • Centered layout (4500x5400 px, 300 DPI) perfect for apparel or accessories 👕 Fabric & Fit (Recommended Product: Gildan 5000 Unisex Tee) • 100% heavy cotton, durable yet soft • Classic unisex fit • Double-stitched hems & ribbed collar • Machine washable — colors stay vivid 💡 Perfect For • Foodies & snack lovers • Viral merch & UGC creators • Whimsical streetwear collections • Retro pop-art apparel brands
-  Updated: 2025-10-14T23:23:28Z
+  Updated: 2025-10-15T12:16:33Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
@@ -14112,7 +14112,7 @@
     Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/14844993224910811156_2048.jpg?v=1760484184
     Price: $32.99 USD
 - [Stock Investor Humor Tee](https://oceanfrontproducts.com/products/stock-investor-humor-tee): This stock investor humor T-Shirt is perfect for anyone in the finance industry with a sense of humor. It gives off a witty and playful vibe, making it a great conversation starter. Ideal for casual wear or as a quirky gift for a finance enthusiast. Relevant for holidays like April Fools' Day or as a unique birthday present.Product features- Breathable 100% Airlume combed and ring-spun cotton fabric- Retail fit for casual and semi-formal settings- Printed using high-quality sleeve printing techniques for crisp designs- Compliance with age restrictions and REACH Certified- Ethically sourced and manufactured by Bella+Canvas in the USCare instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Iron, steam or dry: medium heat- Do not dryclean
-  Updated: 2025-10-14T23:54:20Z
+  Updated: 2025-10-15T12:36:31Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
@@ -14238,7 +14238,7 @@
     Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/7354746976619848716_2048.jpg?v=1760484973
     Price: $32.99 USD
 - [Funny Investor Humor Sweatshirt](https://oceanfrontproducts.com/products/funny-investor-humor-sweatshirt): This Investor humor sweatshirt brings a touch of fun and wit to your wardrobe, perfect for those who enjoy finance jokes and puns. It offers a comfortable fit and durability for everyday wear, making it a great addition to your casual outfits. Ideal for adults who appreciate stock market humor and want to stay cozy during cold weather. Perfect for gifting on birthdays or holidays, or for wearing to casual gatherings with fellow investors.Product features- Comfortable and durable medium-heavy blend of cotton and polyester- Ribbed knit collar for elasticity and shape retention- Ethically sourced US cotton with certified dyes- Embroidery decoration options available- Great for adults who appreciate finance humorCare instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Do not iron- Do not dryclean
-  Updated: 2025-10-15T00:29:32Z
+  Updated: 2025-10-15T12:22:36Z
   Vendor: Printify
   Product Type: Sweatshirt
   Availability: Available
@@ -14360,7 +14360,7 @@
     Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/15251489948204295862_2048.jpg?v=1760484998
     Price: $46.99 USD
 - [Finance Humor Investment Sweatshirt](https://oceanfrontproducts.com/products/finance-humor-investment-sweatshirt): Get ready to show off your finance humor with this investment-themed sweatshirt. Perfect for those who enjoy a touch of wit in their wardrobe, this sweatshirt is ideal for adults looking for comfort and style. Great for holidays, birthdays, or casual wear.Product features- Comfortable and durable blend of cotton-polyester fabric- Available embroidery decoration method on various parts of the sweatshirt- Ethically sourced US cotton with OEKO-TEX certified dyes- Features ribbed knit collar and double-needle stitching for added durability- Ideal for adults and suitable for various occasionsCare instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Do not iron- Do not dryclean
-  Updated: 2025-10-15T00:25:08Z
+  Updated: 2025-10-15T12:19:07Z
   Vendor: Printify
   Product Type: Sweatshirt
   Availability: Available
