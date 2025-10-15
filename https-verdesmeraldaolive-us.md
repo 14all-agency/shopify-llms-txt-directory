@@ -6,19 +6,19 @@
 - Timezone: America/New_York
 - Created At: 2025-01-24T14:43:04Z
 - Contact Email: manager@verdesmeraldaolive.com
-- Updated At: 2025-10-15T00:00:27.804Z
+- Updated At: 2025-10-15T16:00:29.694Z
 
 ## Products
 
 - [Green Emerald Picual 500ml](https://verdesmeraldaolive.us/products/green-emerald-picual-500ml): GREEN EMERALD PICUAL 500ml CON ESTUCHEVerde Esmeralda' is our gourmet extra virgin olive oil from the 'Gems Line', made from the best olives of the Picual variety, one of the most appreciated for its intensity and complexity, grown in the prestigious region of Jaén, one of the most renowned in the world for the quality of its EVOO oil. This extra virgin olive oil Picual is a high-end product, obtained from a meticulous selection of the best olives, harvested and processed with great care in Andalusia. Traceable at all stages of the production process, it guarantees superior purity and quality. Its elegant packaging, reminiscent of the shape and color of a green gemstone, represents the emerald, a symbol of rarity and perfection, fully reflecting the luxury of this oil.
-  Updated: 2025-09-30T18:03:32Z
+  Updated: 2025-10-15T00:21:01Z
   Vendor: Verde Esmeralda
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0921/1284/7150/files/FGB_2666_EST.jpg?v=1750053125
   Price: $53.00 USD
 - [Blue Sapphire Picual Organic 500ml](https://verdesmeraldaolive.us/products/green-emerald-picual-500ml-copia): Blue Sapphire is a high-class organic extra virgin olive oil made from the olives of the prized Picual variety, one of the most appreciated for its intensity and complexity. This oil is part of the “Gems Line” and is presented in a 500 ml bottle with an exclusive design that recalls the shape and color of the blue sapphire, a symbol of purity, elegance and rarity.Organic Picual oil is distinguished by its very intense and complex organoleptic profile. The taste is sweet at first, then evolves into a perfect balance of spicy and bitter, with a smooth and enveloping texture that persists on the palate. The aftertaste is long and persistent, with nuances of freshly cut grass that make it a true sensory experience. The Picual variety is renowned for its high percentage of oleic acid and its ability to adapt easily to different climatic conditions. Its organic production, obtained exclusively through natural techniques and without the use of pesticides or chemicals, gives this oil an even more intense fruitiness and a more authentic flavor.
-  Updated: 2025-09-30T18:03:33Z
+  Updated: 2025-10-15T15:00:44Z
   Vendor: Verde Esmeralda
   Product Type: 
   Availability: Available
@@ -67,7 +67,7 @@
   Image: https://cdn.shopify.com/s/files/1/0921/1284/7150/files/Gama_Gemas_USA.jpg?v=1750052814
   Price: $162.00 USD
 - [Pack Imagine - Picual, Royal, Organic 500ml](https://verdesmeraldaolive.us/products/pack-imagine-picual-royal-organic-500ml): The Imagine Pack is an exclusive selection of extra virgin olive oils from the Imagine Line by Verde Esmeralda Olive. This set offers a sensory journey through three high-quality EVOO varieties, presented in elegant 500ml bottles: Imagine Picual: bold and structured, with notes of artichoke, green tomato, and almond. Imagine Royal: delicate and fruity, with hints of green apple and a natural sweetness. Imagine Organic Picual: fresh and intense, with a perfect balance of bitterness and spiciness, made from certified organic farming. A perfect pack for those who wish to explore the nuances between olive varieties and experience the very best of extra virgin olive oil.
-  Updated: 2025-09-30T18:03:48Z
+  Updated: 2025-10-15T08:16:34Z
   Vendor: Verde Esmeralda Tienda
   Product Type: 
   Availability: Available
