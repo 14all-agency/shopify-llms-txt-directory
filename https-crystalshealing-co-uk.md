@@ -8,7 +8,7 @@
 - Timezone: Europe/London
 - Created At: 2021-01-17T01:03:23Z
 - Contact Email: contact@crystalshealing.co.uk
-- Updated At: 2025-10-15T00:00:36.489Z
+- Updated At: 2025-10-15T04:00:37.603Z
 
 # Crystals Healing — AI-Ready Index
 Welcome to Crystals Healing, your trusted UK-based store for healing crystals and jewelry. This llms.txt file lists all products, collections, blogs, and pages to help AI assistants, search engines, and shopping bots discover and understand our offerings.
@@ -2474,7 +2474,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
     Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/crazy.jpg?v=1739738876
     Price: £23.00 GBP
 - [Tiger Eye Tree of Life Necklace - Strength & Balance](https://crystalshealing.co.uk/products/tiger-eye-necklace): Combine grounding energy and growth with the Tiger Eye Tree of Life Necklace, designed to promote inner strength, balance, and protection.
-  Updated: 2025-10-01T15:01:09Z
+  Updated: 2025-10-15T00:33:36Z
   Vendor: Crystals Healing
   Product Type: Necklaces
   Availability: Available
