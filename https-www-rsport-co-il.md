@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-10-15T00:01:04.153Z
+- Updated At: 2025-10-15T04:01:03.235Z
 
 ## Products
 
@@ -22550,7 +22550,7 @@
     Availability: Available
     Price: ‏119.99 ‏₪ ILS
 - [חולצת משחק בנפיקה ליסבון בית 2024/25](https://www.rsport.co.il/products/חולצת-משחק-בנפיקה-ליסבון-בית-2024-25): חולצת הבית של בנפיקה ליסבון לעונת 2024/25 מציגה עיצוב מחודש תוך שמירה על המראה הקלאסי המזוהה עם המועדון. החולצה בצבע אדום מסורתי, עם צווארון V בולט בגוון לבן מקדימה ואדום מאחור, כמחווה לעיצובים היסטוריים.
-  Updated: 2025-09-07T22:09:27Z
+  Updated: 2025-10-15T03:29:17Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
