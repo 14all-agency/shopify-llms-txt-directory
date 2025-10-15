@@ -6,7 +6,7 @@
 - Timezone: America/Denver
 - Created At: 2024-11-01T17:53:57Z
 - Contact Email: sglobalresorts@gmail.com
-- Updated At: 2025-10-15T02:14:51.866Z
+- Updated At: 2025-10-15T12:00:31.964Z
 
 ## Products
 
@@ -10824,7 +10824,7 @@
     Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/5052752390623790416_2048.jpg?v=1760193095
     Price: $41.70 USD
 - [Oceanfront “Endless Embrace” Floral Sweatshirt – Cozy Women’s Premium Pullover](https://oceanfrontproducts.com/products/unisex-heavy-blend™-hooded-sweatshirt-2): Wrap yourself in warmth, comfort, and effortless beauty with the Oceanfront “Endless Embrace” Floral Sweatshirt. Designed for women who radiate grace and love the gentle rhythm of life by the ocean, this sweatshirt combines soft comfort with timeless art. 🌸 Features You’ll Love Premium Printify Standard Blend: Soft cotton-poly fabric that keeps its shape and color wash after wash. Elegant Floral Design: Vintage-inspired blooms symbolize balance, strength, and serenity — perfect for cozy mornings or evening walks by the shore. Relaxed Fit for Effortless Style: Designed to flatter every body type while offering all-day comfort. Ribbed Cuffs & Waistband: Keeps warmth in and maintains structure. Ethically Printed & Shipped Fast: Your Oceanfront order supports sustainable production partners. 💙 Where Comfort Meets Coastal Luxury Pair it with your favorite jeans, leggings, or a flowy skirt for that easy, relaxed Oceanfront vibe. Perfect for travel days, beach bonfires, or slow mornings filled with coffee and journaling. 🌊 Style Tip: Layer with the Oceanfront Passport Sweatshirt or Love Is Timeless Mug for the full ocean-inspired look.
-  Updated: 2025-10-14T23:27:48Z
+  Updated: 2025-10-15T11:51:35Z
   Vendor: Printify
   Product Type: Hoodie
   Availability: Available
@@ -13012,7 +13012,7 @@
     Availability: Available
     Price: $30.99 USD
 - [Hooded Sweatshirt Lofi/Vaporwave Design](https://oceanfrontproducts.com/products/hooded-sweatshirt-lofi-vaporwave-design): This Lofi/vaporwave hoodie exudes a chill and retro vibe, perfect for those who enjoy laid-back aesthetics and nostalgia. It is ideal for adults looking for a cozy and stylish piece to wear during colder days. This hoodie is relevant for casual wear, lounging, and adding a touch of vintage flair to everyday outfits. It is suitable for occasions like music festivals, casual gatherings, and relaxing at home.Product features- Spacious kangaroo pouch pocket for keeping hands warm- Adjustable drawstring hood for customizable fit- Made from 50% cotton and 50% polyester for durability and comfort- Ethically made with US cotton and eco-friendly dyes- Ideal for embroidery on various parts of the hoodieCare instructions- Tumble dry: medium- Iron, steam or dry: low heat- Do not dryclean- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed
-  Updated: 2025-10-14T23:24:54Z
+  Updated: 2025-10-15T11:48:38Z
   Vendor: Printify
   Product Type: Hoodie
   Availability: Available
@@ -13198,7 +13198,7 @@
     Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/8167704070068091511_2048.jpg?v=1760484260
     Price: $56.62 USD
 - [Mermaidcore Sweatshirt](https://oceanfrontproducts.com/products/mermaidcore-sweatshirt): This Mermaidcore & Oceanic sweatshirt brings a mystical and oceanic vibe, perfect for those who love all things related to the sea. It offers comfort and durability, making it a great addition to your casual wardrobe. Ideal for adults who enjoy unique designs and want to stay cozy during colder seasons. Perfect for gifting during birthdays, holidays, and special occasions.Product features- Comfortable and durable medium-heavy 50/50 cotton-polyester blend- Classic fit with crew neckline for a comfy wearing experience- Ethically made with ethically grown US cotton and OEKO-TEX certified dyes- Available embroidery decoration on multiple areas- Ideal for adults who appreciate mystical and ocean-themed designsCare instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Do not iron- Do not dryclean
-  Updated: 2025-10-14T23:19:08Z
+  Updated: 2025-10-15T11:49:05Z
   Vendor: Printify
   Product Type: Sweatshirt
   Availability: Available
@@ -13340,7 +13340,7 @@
     Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/978874072303038843_2048.jpg?v=1760483918
     Price: $46.99 USD
 - [Mermaidcore Tee](https://oceanfrontproducts.com/products/mermaidcore-tee): This Mermaidcore & Oceanic tee is perfect for those who love all things related to the sea and mythical creatures. Its lightweight cotton fabric and versatile fit make it ideal for both casual wear and lounging. The tee is great for adults who enjoy embracing their inner mermaid or ocean lover. Perfect for summer, beach trips, ocean-themed parties, and marine life enthusiasts.Product features- Lightweight 100% Airlume combed and ring-spun cotton fabric- Crisp and detailed sleeve printing using various techniques- Versatile retail fit for casual and semi-formal settings- Compliant with REACH certification for safe use- Range of fabric blends for different color optionsCare instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Iron, steam or dry: medium heat- Do not dryclean
-  Updated: 2025-10-14T23:21:15Z
+  Updated: 2025-10-15T02:42:28Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
@@ -13588,7 +13588,7 @@
     Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/15314619389957669930_2048.jpg?v=1760484075
     Price: $55.60 USD
 - [Fall Thanksgiving Tee - Unisex Jersey Short Sleeve](https://oceanfrontproducts.com/products/fall-thanksgiving-tee-unisex-jersey-short-sleeve): A cozy T-Shirt perfect for fall and Thanksgiving vibes, made with 100% Airlume combed and ring-spun cotton. The lightweight fabric is breathable and easy to layer, ideal for active and leisure wear. The retail fit and crew neckline add a classic, neat style that's perfect for casual and semi-formal settings. Suitable for adults and complying with REACH certification.Product features- Made with 100% Airlume combed and ring-spun cotton for lightweight comfort- Retail fit and crew neckline for a classic style- Complies with REACH certification for adults- Manufactured in a humane, sustainable way by Bella+Canvas- Suitable for fall and Thanksgiving celebrationsCare instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Iron, steam or dry: medium heat- Do not dryclean
-  Updated: 2025-10-14T23:22:07Z
+  Updated: 2025-10-15T11:47:20Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
@@ -13714,7 +13714,7 @@
     Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/5204952022495090721_2048.jpg?v=1760484102
     Price: $32.99 USD
 - [Hooded Sweatshirt - Fall/Thanksgiving Cozy Vibes](https://oceanfrontproducts.com/products/hooded-sweatshirt-fall-thanksgiving-cozy-vibes): This Fall/Thanksgiving themed Hoodie exudes cozy vibes, perfect for chilly days and evenings. The spacious pockets and adjustable hood make it practical and comfortable to wear. Ideal for adults looking for a warm and stylish layer during the fall season.Product features- 50% cotton, 50% polyester blend for warmth and durability- Kangaroo pouch pocket for keeping hands warm- Adjustable hood with drawstring for a customizable fit- Ethically sourced and sustainably produced- Embroidery decoration available on various areasCare instructions- Tumble dry: medium- Iron, steam or dry: low heat- Do not dryclean- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed
-  Updated: 2025-10-15T00:20:30Z
+  Updated: 2025-10-15T11:47:46Z
   Vendor: Printify
   Product Type: Hoodie
   Availability: Available
