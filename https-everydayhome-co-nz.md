@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-10-15T00:00:37.377Z
+- Updated At: 2025-10-15T04:00:37.116Z
 
 ## Products
 
@@ -221,7 +221,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Cubiko-Adhesive-Shower-Bins-Black-9.jpg?v=1727659719
   Price: $79.99 NZD
 - [Umbra Cubiko Adhesive Shower Bins - Set of 2 White](https://everydayhome.co.nz/products/cubiko-adhesive-shower-bins-set2-wht): Cubiko Adhesive Shower Bins, Set2,  Wht
-  Updated: 2025-10-12T20:07:11Z
+  Updated: 2025-10-15T02:37:11Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -2230,7 +2230,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Montage-Shelf-Black-UMBRA-2.jpg?v=1731903161
   Price: $99.99 NZD
 - [Montage Shelf - Light Walnut](https://everydayhome.co.nz/products/montage-shelf-light-walnut): Bring life to any wall space with Montage Wall Shelf. Made of natural bentwood, this modern storage solution mixes modern shapes and natural finishes. Easy to install, show off your favorite books, plants and decor and much more. Get creative and use multiple Montage Shelves for an eye-catching wall statement.
-  Updated: 2025-10-06T21:37:11Z
+  Updated: 2025-10-15T01:56:01Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -3213,7 +3213,7 @@
     Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Screenshot2024-06-27115015.png?v=1746478922
     Price: $990.00 NZD
 - [SwiftDry Lifestyle Colonial Airer - Black (3 Sizes)](https://everydayhome.co.nz/products/copy-of-lifestyle-colonial-clothes-airer-1-8-meter): The traditional Lifestyle Colonial Clothes Airer was one of the early designs of its kind made and distributed in New Zealand for the Ceiling mounted clothes drying rack, and it’s sleek, compact, design and ease of use has made it a much loved addition to thousands of New Zealand homes. The Airer is engineered for convenience, allowing for loading at waist height and easy elevation to a drying position just below the ceiling. The user-friendly pulley system enables quick drying of laundry in the warm air near the ceiling, optimizing your available floor space. Featuring Antique powder coated aluminium end brackets hand-cast in the traditional way, and the four wooden rails are crafted from imported kiln-dried American White Ash, specially selected for its straight, beautiful grain and warp-resistant stability. The rails are supplied fine sanded and ready to use but can be stained and clear-coated by the purchaser to match existing décor if required. With 160mm spaces between each wooden lath, you are able to fit larger items on with ease, and with more air circulation space, along with being near the ceiling with its warmer air, they will dry faster than ever before. When fully loaded, the Lifestyle Colonial Clothes Airer will take up to 20kgs of washing. Plus, with a 30-year warranty, you can trust that this premium airer will be a beloved and hassle-free addition to your home for years to come! Making your laundry days simpler! KITSET INCLUDES 2x powder coated aluminium end brackets Pulleys and screw mounting hooks 10m length of braided sash cord with cleat hook and screws (15m available for high ceilings) Easy DIY assembly instructions 30 day money back guarantee 30 yr Warranty SPECIFICATIONS & MATERIALS Black powder coated aluminium end brackets, cleat hooks, and pulleys with nylon pulley wheels for silent, smooth action American White Ash Laths known for its warp resistant stability and beautiful grain Soft, easy to handle braided pulley cord Length: 1.2m / 1.8m / 2.4m Width: 500mm Rack End Colour Options: Black Weight: approx. 5kg ALSO AVAILABLE AT: Mitre 10 Mega Hornby - ChristchurchMitre 10 Mega Papanui - Christchurch
-  Updated: 2025-10-03T21:02:45Z
+  Updated: 2025-10-15T03:22:46Z
   Vendor: SwiftDry Clotheslines NZ
   Product Type: 
   Availability: Available
@@ -3296,7 +3296,7 @@
     Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/22310_IMG-001.png?v=1746478936
     Price: $500.00 NZD
 - [SwiftDry SkyLine Folding Frame Washing line (13 Sizes)](https://everydayhome.co.nz/products/swiftdry-skyline-me28): The SwiftDry SkyLine is the epitome of Style and Strength for a non-conspicuous fold-down out door clothesline. Built tougher than any other clothesline out there (at least we think so!) You can buy with peace of mind, knowing you are getting a top of the line product. Designed to be part of the landscape of your home for years of hassle-free use, with its robust, clean & sharp looking design. Fold against your wall or fence while not in use with a smooth lift, pull, and lower motion. This is the future of natural outdoor drying with the breeze. > Surface Mount and In-concrete Mount post kits available separately under the fold down product category Specifications & Features: See our SkyLine blog article here Rated to 40kg recommended max load weight Dulux Textura Black Powdercoat finish on top of the pre-galvanised steel frame - for Longevity and Style Formed corners - for rigidity and safety Frame made from 1.6mm thick wall square box steel (thickest available in comparable products) so the SkyLine is strong enough to hold a full load of heavy wet wetsuits if needed Nylon Bushes - for smooth operation PVC cord - for no rust and durability All fixings are made from 316 Stainless Steel SwiftDry Easy tensioning system Designed with the front of clothesline frame & lines finishing slightly higher than the rear for ease of accessing the rear lines (as shown in pictures) Smooth and lightweight folding up and down operation from the front bar. Pins included to firmly lock in upright position for windy conditions - the only clothesline available that will not unhitch with wind and allow the frame to bend and washing to end up on the ground! Mounting bracket dimensions: 22.5cm long x 4cm wide. Mounting bracket holes: 8.5 mm - with 20cm between the hole centers - vertically on each bracket. Bottom hole is a 75mm long slot. Mounting Screws included for timber (masonry fasteners required if fixing to brick or concrete) Listed width (eg 2.4m) is fixing hole center to center, however there is up to 20mm adjustment each side when installing to allow for variances in your existing posts/setup. 13 Sizes Available - See details below. Need a custom width not listed below? View our custom selector here 9M SkyLine: Lines: 8 Line Space: 9 m Width: 1.2 m Depth: 0.7 m 11M SkyLine: Lines: 12 Line Space: 11 m Width: 1.0 m Depth: 1.0 m 12M SkyLine: Lines: 8 Line Space: 12 m Width: 1.6 m Depth: 0.7 m 16M SkyLine: Lines: 12 Line Space: 16 m Width: 1.4 m Depth: 1.0 m 17M SkyLine: Lines: 8 Line Space: 17 m Width: 2.2 m Depth: 0.7 m 19M SkyLine: Lines: 8 Line Space: 19 m Width: 2.4 m Depth: 0.7 m 20M SkyLine: Lines: 12 Line Space: 20 m Width: 1.6 m Depth: 1 m 21M SkyLine: Lines: 12 Line Space: 21 m Width: 1.8 m Depth: 1 m 27M SkyLine: Lines: 8 Line Space: 27 m Width: 3.4 m Depth: 0.7 m 28M SkyLine: Lines: 12 Line Space: 28 m Width: 2.4 m Depth: 1.0 m 33M SkyLine: Lines: 14 Line Space: 33 m Width: 2.4 m Depth: 1.5 m 40M SkyLine: Lines: 12 Line Space: 40 m Width: 3.4 m Depth: 1.0 m
-  Updated: 2025-10-12T21:52:11Z
+  Updated: 2025-10-15T01:42:46Z
   Vendor: SwiftDry Clotheslines NZ
   Product Type: 
   Availability: Available
