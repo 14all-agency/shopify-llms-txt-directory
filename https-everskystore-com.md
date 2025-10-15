@@ -6,7 +6,7 @@
 - Timezone: America/Kentucky/Louisville
 - Created At: 2025-08-12T15:00:07Z
 - Contact Email: helplandu78@gmail.com
-- Updated At: 2025-10-15T00:00:30.706Z
+- Updated At: 2025-10-15T20:00:32.994Z
 
 ## Products
 
@@ -3026,7 +3026,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7339/4867/files/23984876692570_5fe274fc-d77e-460e-a0e8-46aa9a1fa60b.jpg?v=1759168228
     Price: $49.00 USD
 - [Women's Round-neck Flared Sleeves Temperament High Waist Slimming Patchwork Dress](https://everskystore.com/products/womens-round-neck-flared-sleeves-temperament-high-waist-slimming-patchwork-dress): Product information: Pattern: solid color Skirt type: high-waisted skirt Color: White Size: S,M,L,XL,XXL Skirt length: long skirt Fabric name: Polyester Style: Socialite style Size Information: Unit: cm Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Dress*1pc Product Image:
-  Updated: 2025-10-06T07:07:31Z
+  Updated: 2025-10-15T06:07:04Z
   Vendor: DC-Fifth & Ninth
   Product Type: Accessories
   Availability: Available
@@ -3044,7 +3044,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7339/4867/files/0d9884ef-9270-4b78-83da-9ea0c76f3189.jpg?v=1759168252
     Price: $59.00 USD
 - [Silicone Dog Bath Massage Gloves Brush Pet Cat Bathroom Cleaning Tool Comb Brush For Dog Can Pour Shampoo Dog Grooming Supplies](https://everskystore.com/products/silicone-dog-bath-massage-gloves-brush-pet-cat-bathroom-cleaning-tool-comb-brush-for-dog-can-pour-shampoo-dog-grooming-supplies): Overview: 1. It leaves pet skin clean and helps restore sheen and luster to the coat. Our handheld grooming tool won’t pull on hair making it a perfect brush for pets with sensitive skin. 2. Turn grooming into a soothing massage for your pet that feels good, gets them clean and helps keep their skin and coat healthy. 3. At the top of the bottom, you can open the small ring and pour shampoo and water. 4. Dilute your pet's shampoo in advance, then hold it and distribute the blisters to the pet's fur during the bath. Specification: Product category: bath brush/massage brush Applicable object: Adult Name: Silicone Bath Brush Size: 7.9*8.5*5.5cm, weighs about 85g Packaging: single opp+carton packaging Packing Content: Silicone brush*1 Product Image:
-  Updated: 2025-10-14T15:07:20Z
+  Updated: 2025-10-15T16:07:26Z
   Vendor: DC-Fifth & Ninth
   Product Type: Accessories
   Availability: Available
@@ -3066,7 +3066,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7339/4867/files/bc62444f-e8e2-4e0c-9ab3-f7b05d3ca9b8.jpg?v=1759168882
     Price: $10.00 USD
 - [PU Leather Office Chair](https://everskystore.com/products/pu-leather-office-chair): Length * width * height: 30.00 x 12.00 x 22.00 inch Length * width * height (package): 30.00 x 12.00 x 22.00 inch Weight: 40.00 LB Weight: 40.00 LB Item No.: ZHUMI-C-2892-1B-BK Specification: Black/Flip-up Armrest Length * width * height: 30.00 x 12.00 x 22.00 inch Length * width * height (package): 30.00 x 12.00 x 22.00 inch Weight: 40.00 LB Weight: 40.00 LB Item No.: ZHUMI-C-2892-1B-WT Specification: Cream/Flip-up Armrest Length * width * height: 30.00 x 12.00 x 22.00 inch Length * width * height (package): 30.00 x 12.00 x 22.00 inch Weight: 40.00 LB Weight: 40.00 LB Item No.: ZHUMI-C-2892-1A-BN Specification: Brown/Fixed Armrest Length * width * height: 30.00 x 12.00 x 22.00 inch Length * width * height (package): 30.00 x 12.00 x 22.00 inch Weight: 40.00 LB Weight: 40.00 LB Item No.: ZHUMI-C-2892-1B-BN Specification: Brown/Flip-up Armrest Description: Material - The executive office chair is made of upholstered, carefully-selected PU material that is waterproof and resistant to stains, easy to wipe clean, and filled with high-density sponge padding for a natural leather look for an upscale look. Functional - Adjustable high-back computer chair for home or office workspaces; segmented padding on the seat and back. The lumbar zone expands and contracts as you lean forward and back; flip-up armrests to allow for more flexibility and motion range when desired. Ergonomic - armrest length 15", seat-to-armrest height 9.4", and the armrests can be flipped to adjust your relaxed posture. The thickly contoured upholstered ergonomic chair supports the waist. You can gain continuous comfort for long hours of gaming or work. High-Quality - It has 360-degree rotatable multi-directional wheels, which glide and move smoothly on the ground. The chair is extra-sturdy and stable, making it a long-lasting office accessory that bears 275 pounds of weight. Easy to Install - Office chairs come with all hardware & necessary tools. Follow the instructions, installation tools, and instructions to make the installation more convenient and complete within 20 minutes.
-  Updated: 2025-10-01T10:07:12Z
+  Updated: 2025-10-15T04:06:12Z
   Vendor: DC-Fifth & Ninth
   Product Type: Accessories
   Availability: Available
@@ -3080,7 +3080,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7339/4867/files/ac9cab52-2ef1-4544-9ac2-05d3c050fb5d.jpg?v=1759170105
     Price: $148.00 USD
   - [CreamFlipup Armrest](https://everskystore.com/products/pu-leather-office-chair?variant=45036534038707)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0726/7339/4867/files/2bb0ae9f-7f05-47dd-be2f-d2fdbbedc816.jpg?v=1759170105
     Price: $148.00 USD
 
