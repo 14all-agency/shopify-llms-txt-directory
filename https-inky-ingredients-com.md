@@ -9,7 +9,7 @@
 - Created At: 2023-11-20T15:32:25Z
 - Contact Email: hello@inky-ingredients.com
 - Address: Units 2, 3 & 5 Athelstan Business Park Hanwell Lane, Hutton Conyers Ripon, North Yorkshire HG4 5BF, UK
-- Updated At: 2025-10-15T04:00:36.068Z
+- Updated At: 2025-10-15T08:00:35.740Z
 
 The UK's largest natural ingredients supplier. INKY Ingredients supplies formulators and makers as well as the general public with the UK's widest range of essential oils, cold pressed oils, waxes, soaps, butters and more. We hold a 7 sustainability accreditations and are committed to providing an unparalleled selection of premium natural oil ingredients, fostering sustainability, and championing the sustainable beauty movement.
 
@@ -58,7 +58,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/INKY-SHOPIFY-SOAPS_53b9fdb6-c817-4ed6-9431-eb48aa4bf464.jpg?v=1756297273
     Price: £55.80 GBP
 - [Melt & Pour SLS - Free Clear Solid Base](https://inky-ingredients.com/products/melt-pour-sls-free-clear-base): Craft gentle and SLS-free clear soaps with Melt & Pour SLS - Free Clear Base. Perfect for those with sensitive skin, it allows for a transparent soap-making experience without compromising on quality.
-  Updated: 2025-09-26T08:14:50Z
+  Updated: 2025-10-15T06:51:46Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -72,7 +72,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Image: https://cdn.shopify.com/s/files/1/0842/5603/1014/files/INKY-SHOPIFY-SOAPS_53b9fdb6-c817-4ed6-9431-eb48aa4bf464.jpg?v=1756297273
     Price: £58.20 GBP
 - [Melt & Pour Goats Milk Solid Base](https://inky-ingredients.com/products/melt-pour-goats-milk-base): Enrich your soap creations with the nourishing qualities of goat's milk using Melt & Pour Goats Milk Base. This base offers a creamy lather and moisturising properties, enhancing the overall bathing experience.
-  Updated: 2025-10-14T11:24:00Z
+  Updated: 2025-10-15T06:51:43Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -298,7 +298,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £2,289.60 GBP
 - [Soya (Eco C3), Wax](https://inky-ingredients.com/products/soya-eco-c3-wax): Soya (Eco C3) wax, derived from soybeans, is an eco-friendly and renewable resource. This versatile wax is used in various cosmetic and candle applications, offering a sustainable alternative with excellent fragrance retention.
-  Updated: 2025-10-01T15:39:41Z
+  Updated: 2025-10-15T06:51:41Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -772,7 +772,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £249.60 GBP
 - [Peppermint Mentha Piperita, Essential Oil](https://inky-ingredients.com/products/peppermint-mentha-piperita-essential-oil): Mentha Piperita Essential Oil, derived from peppermint, is celebrated for its cooling and soothing properties, making it a popular choice in aromatherapy.
-  Updated: 2025-10-10T12:50:44Z
+  Updated: 2025-10-15T06:51:43Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -1309,7 +1309,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £165.84 GBP
 - [Cedarwood, Essential Oil](https://inky-ingredients.com/products/cedarwood-essential-oil): Cedarwood Essential Oil, derived from wood, exhibits a warm and woody aroma. Known for its calming properties, it's often used in aromatherapy to promote relaxation and stress relief.
-  Updated: 2025-10-01T19:00:31Z
+  Updated: 2025-10-15T06:51:42Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -1465,7 +1465,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £690.00 GBP
 - [Black Pepper, Essential Oil](https://inky-ingredients.com/products/black-pepper-essential-oil): Black Pepper Essential Oil, derived from the spicy berries, offers a warming and stimulating aroma. Its versatile uses include aromatherapy, massage, and diffusion for an invigorating experience.
-  Updated: 2025-09-26T08:37:43Z
+  Updated: 2025-10-15T06:51:41Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -1573,7 +1573,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £265.80 GBP
 - [Bakuchi (Bakuchiol) Oil, Cold Pressed](https://inky-ingredients.com/products/bakuchi-bakuchiol-oil-cold-pressed): Embrace the benefits of Bakuchi Oil with this cold-pressed variant. Known for its natural retinol alternative, Bakuchiol nourishes and rejuvenates the skin, promoting a youthful complexion without the sensitivity associated with traditional retinol.
-  Updated: 2025-10-14T18:19:26Z
+  Updated: 2025-10-15T06:33:37Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -4873,7 +4873,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £132.60 GBP
 - [GoldenWax 494](https://inky-ingredients.com/products/goldenwax-494): Discover the brilliance of GoldenWax 494, the ideal choice for wax melts. With exceptional scent throw and smooth performance, it offers versatility and quality for creating lasting, aromatic delights. Melt into luxury!
-  Updated: 2025-10-08T09:30:52Z
+  Updated: 2025-10-15T06:51:45Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -4894,7 +4894,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £158.40 GBP
 - [GoldenWax 464](https://inky-ingredients.com/products/goldenwax-464): Perfect for crafting candles, GoldenWax 464, choose this premium soy wax blend for smooth, clean-burning creations. Known for excellent fragrance retention and a flawless finish, it elevates every candle-making experience. Formulate with this exceptional ingredient today!
-  Updated: 2025-10-08T09:31:54Z
+  Updated: 2025-10-15T06:51:43Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -5763,7 +5763,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £62.34 GBP
 - [Chaulmoogra Seed Oil, Cold Pressed](https://inky-ingredients.com/products/chaulmoogra-seed-oil-cold-pressed): Cold-pressed Chaulmoogra Seed Oil is a traditional skincare remedy. Renowned for its therapeutic benefits, it soothes and nourishes the skin, making it a valuable addition to formulations targeting various skin concerns.
-  Updated: 2025-10-03T16:38:07Z
+  Updated: 2025-10-15T06:33:36Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -7267,7 +7267,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £180.00 GBP
 - [Free Sample - Jojoba, Butter - 50g](https://inky-ingredients.com/products/free-gift-jojoba-butter-50g): A free 50g sample on orders over £85 (packaging will be different to image shown). Jojoba Butter combines the benefits of Jojoba oil with a buttery consistency. Rich in vitamins and antioxidants, it nourishes and conditions the skin, promoting a soft and smooth texture. Ideal for moisturising and soothing.
-  Updated: 2025-10-14T14:48:26Z
+  Updated: 2025-10-15T06:51:40Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
