@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-10-16T00:01:08.271Z
+- Updated At: 2025-10-16T04:01:10.674Z
 
 ## Products
 
@@ -7244,7 +7244,7 @@ ela tem o seu arco e flecha, assim como a sua lança preparados. A Knight
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/pokemon-clip-n-go-torchic-poke-ball-233820622-pokemon-1178694912.webp?v=1752865820
   Price: 22,50 € EUR
 - [Pokémon Clip 'N' Go Treecko & Poké Ball](https://brincatoys.pt/products/pokemon-clip-n-go-treecko-poke-ball): Se eles estão a viajar pelo universo Pokemon ou preparando-se para lutar contra os pokémons de outros treinadores, a Pokébola Clip 'N' Go da Pokemon manterá os amigos do seu filho seguros em movimento. Este conjunto de poke-ball inclui uma figura pronta para atacar e uma poke ball para fácil portabilidade. A pokebola vem com um clipe que se prende
-  Updated: 2025-10-15T15:21:47Z
+  Updated: 2025-10-16T00:47:50Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
@@ -9113,7 +9113,7 @@ numerosa.Figura em borracha termoplástica não tóxica e livre d...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/triominos-tour-edition-846063221-brincatoys-1178695540.jpg?v=1752876974
   Price: 15,99 € EUR
 - [Trolls Barb](https://brincatoys.pt/products/trolls-barb): No filme Trolls World Tour, a rainha Poppy e os seus amigos lançam-se numa aventura épica para salvar a música. As crianças podem recriar as cenas do filme ou criar novas aventuras com a figura do filme.  Dimensão: 3.8 x 13.3 x 20.3 cm Idade recomendada: + de 4 anos.
-  Updated: 2025-10-14T23:31:43Z
+  Updated: 2025-10-16T02:14:25Z
   Vendor: Trolls
   Product Type: + 4 anos
   Availability: Available
@@ -13041,7 +13041,7 @@ Figura com aproximadamente 10,8 cm.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/puzzle-peppa-pig-princesa-50895523-2600000-peppa-pig-1178697205.jpg?v=1752906380
   Price: 16,99 € EUR
 - [Puzzle Madeira Peppa Pig - Família na Lama](https://brincatoys.pt/products/puzzle-madeira-peppa-pig-familia-na-lama): Um puzzle de madeira colorido para os mais pequenos. Este quebra-cabeça de 16 peças foi projetado numa fofa moldura com as personagens da Peppa Pig. As peças de madeira coloridas são dimensionadas para crianças de forma a ajudar os pequenos a colocá-las. O quebra-cabeça treina as habilidades motoras e artísticas das crianças e as cores estimulam a
-  Updated: 2025-10-15T18:26:57Z
+  Updated: 2025-10-16T01:24:47Z
   Vendor: Peppa Pig
   Product Type: + 12 meses
   Availability: Available
