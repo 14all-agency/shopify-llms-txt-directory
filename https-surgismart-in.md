@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-03-10T14:11:59Z
 - Contact Email: info@surgismart.in
-- Updated At: 2025-10-15T00:00:33.392Z
+- Updated At: 2025-10-16T00:00:33.173Z
 
 ## Products
 
@@ -986,14 +986,14 @@
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/p3-10.jpg?v=1751478700
   Price: ₹1,800.00 INR
 - [Buy ​United Medicare Orthopaedic Heating Pad (J-10) - Surgismart](https://surgismart.in/products/j-10): Key Features: An orthopaedic heating pad can provide a great deal of relief and comfort while helping to reduce long-term pain and discomfort. Long cable improves convenience in the built-in twin thermostat for 100% safety with an ultra-soft Nylex cover. Heating pad helps to relax muscles, reduce stiffness, and increase blood flow, which can help reduce pain. Heating pads also helps to reduce stress and tension, allowing for better relaxation. An orthopaedic heating pad is made to administer heat to the injured area, reducing pain and swelling. Direction of use: Make sure the heating pad is plugged in and turned on. Set the temperature to the desired level. Place the heating pad on the affected area. Leave the heating pad on the area for no more than 15 minutes at a time. Unplug the heating pad when finished. Safety information: Do not use the heating pad while sleeping. Do not fold a heating pad or wrap it around your body. Do not use an electric heating pad on infants or young children. An orthopaedic heating pad is a device that is used to help relieve muscle and joint pain. It is designed to apply heat to the affected area, providing relief from pain and inflammation.Using an orthopaedic heating pad can provide relief from a range of aches and pains, including muscle and joint stiffness and inflammation. It can also help reduce swelling in the affected area and relax tense muscles.It is recommended that you use an orthopaedic heating pad for no longer than 15 minutes at a time.Orthopaedic Heating Pad: It is important to ensure that the heating pad is set to the correct temperature for your skin. Do not use the pad if it is too hot, as this could cause burns. Additionally, it is important to check the power cord of the heating pad before each use to ensure it is in good working order. Finally, never leave the heating pad plugged in when not in use.An orthopaedic heating pad is helpful for pain in the muscles and joints, frozen shoulders, and backaches. Sold by: Surgismart - Surgismart
-  Updated: 2025-10-13T11:20:17Z
+  Updated: 2025-10-15T22:39:37Z
   Vendor: United Medicare
   Product Type: Cold/Heat Therapy
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/ty58.jpg?v=1751478700
   Price: ₹1,350.00 INR
 - [Buy ​United Medicare Compression Stockings  (J-32/J-33) - Surgismart](https://surgismart.in/products/j-32): Key Features: Anatomical shape provides upward-graded compression for effective blood evacuation. The use of high-quality dermophilic material provides effective compression and strength. The compression stockings can reduce deep vein thrombosis (DVT) by promoting blood circulation. Closed heel and open toe ensure comfort at the heel and reduce wear and tear. Easy to use, washable, long functional life, and color fastness. Direction of use Pull the compression sock all the way up, so that the compression is well dispersed across your feet and legs. Safety information Do not share stockings with any other person. Keep away from sharp things. United Medicare mid-thigh compression stocking is specialized garments that apply graduated pressure to the legs, reaching up to the mid-thigh area.Mid-thigh compression stockings are beneficial for individuals with various medical conditions, including deep vein thrombosis, chronic venous insufficiency, and varicose veins.Mid-thigh compression stockings exert graduated pressure on the legs, with the highest pressure at the ankle and gradually decreasing pressure as they extend up the leg.Yes, mid-thigh compression stockings can be worn comfortably under clothing. Its very comfortable and easy to wear.Wearing the wrong size of compression stockings can lead to several potential side effects, such as itchiness and redness. Sold by: Surgismart - Surgismart
-  Updated: 2025-10-13T11:20:14Z
+  Updated: 2025-10-15T20:45:00Z
   Vendor: United Medicare
   Product Type: Compression Support
   Availability: Available
@@ -1116,231 +1116,231 @@
     Availability: Available
     Price: ₹770.00 INR
 - [Buy ​KRUPS Noble Digital Baby Weighing Scale - Surgismart](https://surgismart.in/products/krups-noble-digital-baby-weighing-scale): Powered by Li-ion battery 3.7V 1200mAH with BMS with 40 Hour Battery Back (Approx) Sturdy and Durable Construction One button Operation for Switch ON and OFF Adapter for Charging Battery included Single Load Cell Based Design for Superior Accuracy Capacity 20Kg and Minimum Graduation of 10g Weighing Pan with Sliding Mechanism No Screws Bottom of the scale fixed with high quality Rubber Feet for rugged usage Height Measurement Sticker affixed on Pan for measuring length of babies - Surgismart
-  Updated: 2025-08-13T07:38:43Z
+  Updated: 2025-10-15T09:37:47Z
   Vendor: Krups
   Product Type: Digital
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/KRUPSNobleDigitalBabyWeighingScale_0001_2.jpg?v=1751478481
   Price: ₹2,725.00 INR
 - [Buy ​Samso Body Precise Body Analyser Scale - Surgismart](https://surgismart.in/products/samso-body-precise): 6 in 1 Glass Body Analyser Scale with Metal Sensors Large LCD Display, Anti Skid Coating Displays Weight with Body Fat, Muscle Mass, Body Water, Bone Mass, Calories in 0.1% increments 10 User Memory - Surgismart
-  Updated: 2025-08-13T07:38:43Z
+  Updated: 2025-10-15T09:37:47Z
   Vendor: Samso
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/Samso-Precise-5.jpg?v=1751478477
   Price: ₹1,750.00 INR
 - [Buy ​Samso Dura Digital Bathroom Scale - Surgismart](https://surgismart.in/products/samso-dura): Stainless Steel Top Blue Backlit LCD Display Tare Button Feature - Surgismart
-  Updated: 2025-09-01T00:51:20Z
+  Updated: 2025-10-15T09:37:47Z
   Vendor: Samso
   Product Type: Digital
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/Samso-Dura-2.jpg?v=1751478476
   Price: ₹2,100.00 INR
 - [Buy ​Samso Elite Digital Bathroom Scale - Surgismart](https://surgismart.in/products/samso-elite): Glass Top Large Platform Red LED Display - Surgismart
-  Updated: 2025-08-13T07:38:42Z
+  Updated: 2025-10-15T09:37:47Z
   Vendor: Samso
   Product Type: Digital
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/Samso-Elite2.jpg?v=1751478474
   Price: ₹1,675.00 INR
 - [Buy ​Samso Step Digital Bathroom Scale - Surgismart](https://surgismart.in/products/samso-step): ABS Body Blue Backlit LCD Display Large Platform Battery and Ambient Temperature Display - Surgismart
-  Updated: 2025-08-13T07:38:42Z
+  Updated: 2025-10-15T09:37:47Z
   Vendor: Samso
   Product Type: Digital
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/SamsoStep1.jpg?v=1751478473
   Price: ₹1,800.00 INR
 - [Buy ​Samso Supreme Digital Bathroom Scale - Surgismart](https://surgismart.in/products/samso-supreme): Glass Top Red LED Display Two Tone Colours - Surgismart
-  Updated: 2025-08-13T07:38:42Z
+  Updated: 2025-10-15T09:37:48Z
   Vendor: Samso
   Product Type: Digital
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/Samso-Supreme-2.jpg?v=1751478472
   Price: ₹1,465.00 INR
 - [Buy ​Samso Vital Digital Bathroom Scale - Surgismart](https://surgismart.in/products/samso-vital): ABS Body Glass Layering Large Platform Bright White LCD Display - Surgismart
-  Updated: 2025-08-13T07:38:41Z
+  Updated: 2025-10-15T09:37:48Z
   Vendor: Samso
   Product Type: Digital
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/Samso-Vital-2.jpg?v=1751478471
   Price: ₹1,950.00 INR
 - [Buy ​Samso Power Digital Bathroom Scale - Surgismart](https://surgismart.in/products/samso-power): ABS Body Glass Layering Large Platform Bright LCD Display - Surgismart
-  Updated: 2025-09-01T05:27:05Z
+  Updated: 2025-10-15T09:37:48Z
   Vendor: Samso
   Product Type: Digital
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/Samso-Power-5.jpg?v=1751478469
   Price: ₹1,785.00 INR
 - [Buy ​Samso Exact Digital Bathroom Scale - Surgismart](https://surgismart.in/products/samso-exact): Glass Top LCD Display Battery and Ambient Temperature display - Surgismart
-  Updated: 2025-08-13T07:38:41Z
+  Updated: 2025-10-15T09:37:48Z
   Vendor: Samso
   Product Type: Digital
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/Samso-Exact-2.jpg?v=1751478468
   Price: ₹1,280.00 INR
 - [Buy ​Samso Plush Digital Bathroom Scale - Surgismart](https://surgismart.in/products/samso-plush): Glass Top LCD Display Battery and Ambient Temperature display Ideal Height & Weight Chart Printed - Surgismart
-  Updated: 2025-09-27T18:16:05Z
+  Updated: 2025-10-15T09:37:48Z
   Vendor: Samso
   Product Type: Digital
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/Samso-Plush-1.jpg?v=1751478464
   Price: ₹1,350.00 INR
 - [Buy ​Samso Pace Digital Bathroom Scale - Surgismart](https://surgismart.in/products/samso-pace): ABS Body Large LCD Display - Surgismart
-  Updated: 2025-08-13T07:38:40Z
+  Updated: 2025-10-15T09:37:49Z
   Vendor: Samso
   Product Type: Digital
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/Samso-Pace-3.jpg?v=1751478463
   Price: ₹1,505.00 INR
 - [Buy ​Samso Flex Digital Multipurpose Scale - Surgismart](https://surgismart.in/products/samso-flex): Double Side Green LED Display Power Lead Included (Not Adopter) Rechargeable Battery - 3.7V ~ 2000mAH (40 hours backup) Stainless Steel Pan - Surgismart
-  Updated: 2025-08-13T07:38:40Z
+  Updated: 2025-10-15T09:37:49Z
   Vendor: Samso
   Product Type: Digital
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/Samso-Flex4.jpg?v=1751478461
   Price: ₹3,900.00 INR
 - [Buy ​Samso KWS 100 Digital Kitchen Scale - Surgismart](https://surgismart.in/products/samso-kws-100): ABS Body Large Platform Large LCD Display Tare Button Feature - Surgismart
-  Updated: 2025-09-04T04:33:52Z
+  Updated: 2025-10-15T09:37:49Z
   Vendor: Samso
   Product Type: Digital
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/Samso-KWS-100-2.jpg?v=1751478460
   Price: ₹910.00 INR
 - [Buy ​Docbel Braun Baby Popular Mechanical Baby Scale - Surgismart](https://surgismart.in/products/docbel-braun-baby-popular): ABS Plastic Body with Mild Steel Pan Sturdy and durable construction Anti Rust Coated Parts Easily Removable Pan with Sliding Mechanism No Screws Pan with Water Resistant Mat for convenience of babies Height Measurement Sticker affixed on Pan for measuring length of babies Full View Dial helps ease in reading - Surgismart
-  Updated: 2025-09-10T05:46:45Z
+  Updated: 2025-10-15T09:37:49Z
   Vendor: Docbel Braun
   Product Type: Mechanical
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/Baby-scale-3-b.jpg?v=1751478458
   Price: ₹1,399.00 INR
 - [Buy ​Samso Bloom Baby Weighing Scale - Surgismart](https://surgismart.in/products/samso-bloom): ABS Body with Height Printing Large LCD Display with Backlight Touch Buttons Tare Button Feature Weight Lock Feature - Surgismart
-  Updated: 2025-08-13T07:38:39Z
+  Updated: 2025-10-15T09:37:49Z
   Vendor: Samso
   Product Type: Digital
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/Samso-Bloom-2.jpg?v=1751478457
   Price: ₹3,920.00 INR
 - [Buy ​Samso Bright Baby Weighing Scale - Surgismart](https://surgismart.in/products/samso-bright): ABS Body with Height Printing Trough Type Design Large LCD Display Press Buttons Tare Button Feature Weight Lock Feature - Surgismart
-  Updated: 2025-08-13T07:38:39Z
+  Updated: 2025-10-15T09:37:50Z
   Vendor: Samso
   Product Type: Digital
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/Samso-Bright-2.jpg?v=1751478455
   Price: ₹4,270.00 INR
 - [Buy ​Samso Multi Pro Digital Kitchen Scale - Surgismart](https://surgismart.in/products/samso-multi-pro): Box Design Removable Large Pan LCD Display - Surgismart
-  Updated: 2025-08-13T07:38:39Z
+  Updated: 2025-10-15T09:37:50Z
   Vendor: Samso
   Product Type: Digital
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/Samso-Multi-Pro-2.jpg?v=1751478455
   Price: ₹1,050.00 INR
 - [Buy ​Samso Slimmer Mechanical Bathroom Scale - Surgismart](https://surgismart.in/products/samso-slimmer): Strong Mild Steel Body with high precision mechanism for greater accuracy Unique D Shape design Large View Scratch resistant lens Beautiful powder coated colours with stylish mats - Surgismart
-  Updated: 2025-10-03T16:48:20Z
+  Updated: 2025-10-15T09:37:50Z
   Vendor: Samso
   Product Type: Mechanical
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/Samso-Slimmer1.jpg?v=1751478454
   Price: ₹900.00 INR
 - [Buy ​Samso Sleek Mechanical Bathroom Scale - Surgismart](https://surgismart.in/products/samso-sleek): Strong Mild Steel Body with high precision mechanism for greater accuracy Compact Sqaure design Large View Scratch resistant lens Beautiful powder coated colours with stylish mats - Surgismart
-  Updated: 2025-08-26T09:19:53Z
+  Updated: 2025-10-15T09:37:50Z
   Vendor: Samso
   Product Type: Mechanical
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/Samso-Sleek2.jpg?v=1751478453
   Price: ₹885.00 INR
 - [Buy ​Krups Duchess Mechanical Bathroom Weighing Scale - Surgismart](https://surgismart.in/products/krups-duchess): Heavy Mild Steel Body with high precision mechanism for greater accuracy Classic Sqaure design Large View Scratch resistant lens Beautiful powder coated colours with stylish mats - Surgismart
-  Updated: 2025-09-07T02:14:04Z
+  Updated: 2025-10-15T09:37:51Z
   Vendor: Krups
   Product Type: Mechanical
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/Krups-Duchess-2.jpg?v=1751478452
   Price: ₹1,070.00 INR
 - [Buy ​Krups Countess Mechanical Bathroom Weighing Scale - Surgismart](https://surgismart.in/products/krups-countess): The Gold Standard for Mechanical Bathroom Scales. Heavy Mild Steel Body with high precision mechanism for greater accuracy Contemporary round design Clear magnifying break resistant lens encased in a contoured lens holder Beautiful powder coated colours with stylish mats Retractable carrying handle - Surgismart
-  Updated: 2025-08-13T07:38:38Z
+  Updated: 2025-10-15T09:37:51Z
   Vendor: Krups
   Product Type: Mechanical
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/Krups-Countess-1.jpg?v=1751478451
   Price: ₹1,499.00 INR
 - [Buy ​Samso BMI Mechanical Bathroom Weighing Scale - Surgismart](https://surgismart.in/products/samso-bmi): Metal Body Extended Dial BMI Reading - Surgismart
-  Updated: 2025-08-13T07:38:38Z
+  Updated: 2025-10-15T09:37:51Z
   Vendor: Samso
   Product Type: Mechanical
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/Samso-BMI2.jpg?v=1751478450
   Price: ₹1,365.00 INR
 - [Buy ​Samso Pure Digital Bathroom Scale - Surgismart](https://surgismart.in/products/samso-pure): Glass Top LCD Display Anti Skid Coating with Horizontal Stripe Design - Surgismart
-  Updated: 2025-08-13T07:38:37Z
+  Updated: 2025-10-15T09:37:51Z
   Vendor: Samso
   Product Type: Digital
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/Samso-Pure-2.jpg?v=1751478449
   Price: ₹1,465.00 INR
 - [Buy ​Samso Bear Baby Weighing Scale - Surgismart](https://surgismart.in/products/samso-bear): ABS Body, Bear Shape Design Large Removable Pan Converts to Stand on Toddler Scale Large LCD Display Press Buttons Tare Button Feature Weight Lock Feature - Surgismart
-  Updated: 2025-08-13T07:38:37Z
+  Updated: 2025-10-15T09:37:51Z
   Vendor: Samso
   Product Type: Digital
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/Samso-Bear-9.jpg?v=1751478448
   Price: ₹5,600.00 INR
 - [Buy ​Samso Rise Digital Bathroom Scale - Surgismart](https://surgismart.in/products/samso-rise): ABS Body Glass Layering Large Platform Bright Red LED Display Tare Button Feature - Surgismart
-  Updated: 2025-08-13T07:38:37Z
+  Updated: 2025-10-15T09:37:51Z
   Vendor: Samso
   Product Type: Digital
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/Samso-Rise1.jpg?v=1751478447
   Price: ₹2,000.00 INR
 - [Buy ​Lifeline Stethoscope L3-Titanium Pl - Surgismart](https://surgismart.in/products/lifeline-l3-titanium-pl): Stainless steel chest piece with a black gloss finish Dual diaphragm Combined non-chill snap on ring and sensitive floating diaphragm Superlative acoustics Patented 2 way tube with extra gloss finish 5 mm stainless steel headsets provides the perfect fit Non-chill snap on rim ensures patient’s comfort Extra-soft sealing ear tips with innovative ribbed design Recommended for: physicians, paediatricians Tube colors: black, grey, dark blue, green, red, light blue, purple, orange, pink Includes spares and warranty card - Surgismart
-  Updated: 2025-08-13T07:38:36Z
+  Updated: 2025-10-15T09:37:52Z
   Vendor: Lifeline
   Product Type: Life-Line Flagship;Stethoscopes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/Black-scaled.jpg?v=1751478437
   Price: ₹3,299.00 INR
 - [Buy ​Lifeline Stethoscope L1-Steel - Surgismart](https://surgismart.in/products/lifeline-l1-steel): Stainless steel chest piece with a bright finish Dual diaphragm Combined non-chill snap on ring and sensitive floating diaphragm Superlative acoustics Patented 2 way tube with extra glass finish 5 mm stainless steel headsets provide the perfect fit Non-chill snap on rim ensures patient’s comfort Extra-soft sealing ear tips with innovative ribbed design Recommended for: physicians, paediatricians Tube colors: black, grey, dark blue, green, red, light blue, purple, orange, pink Includes spares and warranty card - Surgismart
-  Updated: 2025-09-20T10:50:36Z
+  Updated: 2025-10-15T09:37:52Z
   Vendor: Lifeline
   Product Type: Life-Line Flagship;Stethoscopes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/STH016BL1.png?v=1751478436
   Price: ₹3,199.00 INR
 - [Buy ​Lifeline Stethoscope Gamma (Eco) - Surgismart](https://surgismart.in/products/lifeline-gamma-eco): Aluminium chest piece with a bright silver finish Sensitive diaphragm Superlative acoustics Y-tube with extra glass finish 4 mm stainless steel headsets provide the perfect fit Non-chill snap on rim ensures patient’s comfort Extra-soft sealing ear tips Recommended for: students Tube colors: black, grey, dark blue, green, red, light blue, purple, orange, pink Includes spares and warranty card - Surgismart
-  Updated: 2025-09-01T21:50:46Z
+  Updated: 2025-10-15T09:37:52Z
   Vendor: Lifeline
   Product Type: Paramedic / Economy / MAX;Stethoscopes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/GoogleDrive_STH015GR_5-scaled.jpg?v=1751478435
   Price: ₹799.00 INR
 - [Buy ​Lifeline Stethoscope Beta (Std) - Surgismart](https://surgismart.in/products/lifeline-beta-std): Aluminium chest piece with silver matte finish Sensitive diaphragm Superlative acoustics Y-tube with extra glass finish 4 mm stainless steel headsets provide the perfect fit Non-chill snap on rim ensures patient’s comfort Extra-soft sealing ear tips with innovative ribbed design Recommended for: students Tube colors: black, grey, dark blue, green, red, light blue, purple, orange, pink Includes spares and warranty card - Surgismart
-  Updated: 2025-08-13T07:38:35Z
+  Updated: 2025-10-15T09:37:52Z
   Vendor: Lifeline
   Product Type: Paramedic / Economy / MAX;Stethoscopes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/GoogleDrive_STH014BL_5-scaled.jpg?v=1751478434
   Price: ₹799.00 INR
 - [Buy ​Lifeline Stethoscope Diamond - Surgismart](https://surgismart.in/products/lifeline-diamond): Aluminium chest piece with a bright finish Sensitive diaphragm Superlative acoustics Patented 2-way tube with extra glass finish 5 mm stainless steel headsets provide the perfect fit Non-chill snap on rim ensures patient’s comfort Extra-soft sealing ear tips with innovative ribbed design Recommended for: physicians, nurses, paramedics, students Tube colors: black, grey Includes spares and warranty card - Surgismart
-  Updated: 2025-09-19T03:06:33Z
+  Updated: 2025-10-15T09:37:52Z
   Vendor: Lifeline
   Product Type: Lightweight;Stethoscopes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/GoogleDrive_STH010GR_5-scaled.jpg?v=1751478434
   Price: ₹1,149.00 INR
 - [Buy ​Lifeline Stethoscope Gold - Surgismart](https://surgismart.in/products/lifeline-gold): Aluminum chest piece with a black malt finish Sensitive diaphragm Superlative acoustics Patented 2-way tube with extra glass finish 5 mm stainless steel headsets provide the perfect fit Non-chill snap on rim ensures patient’s comfort Extra-soft sealing ear tips with innovative ribbed design Recommended for: physicians, nurses, paramedics, students Tube colors: black Includes spares and warranty card - Surgismart
-  Updated: 2025-09-06T13:28:08Z
+  Updated: 2025-10-15T09:37:53Z
   Vendor: Lifeline
   Product Type: Lightweight;Stethoscopes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/GoogleDrive_STH009BL_2-scaled.jpg?v=1751478432
   Price: ₹1,199.00 INR
 - [Buy ​Lifeline Stethoscope Pediatric SS - Surgismart](https://surgismart.in/products/lifeline-pediatric-ss): Stainless steel chest piece Sensitive diaphragm Superlative acoustics Patented 2-way tube with extra glass finish 5 mm stainless steel headsets provide the perfect fit Non-chill snap on rim ensures patient’s comfort Extra-soft sealing ear tips with innovative ribbed design Recommended for: paediatricians Tube colors: black, grey, dark blue, green, red, light blue, purple, orange, pink Includes spares and warranty card - Surgismart
-  Updated: 2025-08-28T04:33:05Z
+  Updated: 2025-10-15T09:37:32Z
   Vendor: Lifeline
   Product Type: Paediatric;Stethoscopes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/GoogleDrive_STH006BL_5-scaled.jpg?v=1751478431
   Price: ₹1,649.00 INR
 - [Buy ​Lifeline Stethoscope Excel 2 - Surgismart](https://surgismart.in/products/lifeline-excel-2): Stainless steel chest piece Sensitive diaphragm Superlative acoustics Patented 2-way tube with extra gloss finish 5 mm stainless steel headsets provide the perfect fit Non-chill snap on rim ensures patient’s comfort Extra-soft sealing ear tips with innovative ribbed design Recommended for: physicians, nurses, paramedics, students Tube colours: black, grey, dark blue, green, red, light blue, purple, orange, pink Includes spares and warranty card - Surgismart
-  Updated: 2025-08-13T07:38:34Z
+  Updated: 2025-10-15T09:37:33Z
   Vendor: Lifeline
   Product Type: Life-Line Flagship;Stethoscopes
   Availability: Available
@@ -1354,28 +1354,28 @@
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/GoogleDrive_STH002GN_5-scaled.jpg?v=1751478430
   Price: ₹2,499.00 INR
 - [Buy ​Medvance Memory Foam Cervical Pillow Pro - Surgismart](https://surgismart.in/products/medvance-memory-foam-cervical-pillow-pro): Elevate your sleep quality and wake up refreshed with the Medvance Memory Foam Cervical Pillow. Specially designed to support the natural curve of your neck, this pillow alleviates neck pain, improves posture, and ensures a restful night's sleep. Key Features: Ergonomic Support Contoured Design: The pillow’s shape perfectly aligns with the natural curve of your neck and spine, providing optimal support and reducing neck pain. Premium Memory Foam Adaptive Comfort: Made from high-quality memory foam, the pillow adapts to the contours of your head and neck, offering personalized support and maintaining its shape throughout the night. Pain Relief Targeted Support: Ideal for those suffering from neck pain, stiffness, or chronic conditions such as cervical spondylosis. The pillow helps alleviate pressure and improve posture. Breathable and Hygienic Ventilated Cover: The pillow features a breathable, removable cover that enhances airflow and keeps you cool throughout the night. The cover is also machine washable for easy maintenance. Durable and Long-Lasting High-Quality Construction: The memory foam is designed to retain its shape and firmness over time, ensuring consistent support and comfort. Versatile Use Perfect for All Sleeping Positions: Whether you’re a back, side, or stomach sleeper, the Medvance Memory Foam Cervical Pillow provides the support and comfort you need for a good night’s rest. Why Choose Medvance Memory Foam Cervical Pillow? Invest in your sleep health with the Medvance Memory Foam Cervical Pillow. Designed to provide superior support and alleviate neck pain, this pillow is perfect for anyone seeking a restful and pain-free sleep. Experience the difference with Medvance and wake up feeling rejuvenated and ready to take on the day. - Surgismart
-  Updated: 2025-08-13T07:38:34Z
+  Updated: 2025-10-15T09:37:33Z
   Vendor: Medvance Surgicals
   Product Type: CUSHION
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/2_312c6463-4ede-4c83-9125-ca509f92acd7.jpg?v=1751478429
   Price: ₹1,999.00 INR
 - [Buy ​Medvance Memory Foam Donut Cushion Pro - Surgismart](https://surgismart.in/products/medvance-donut-cushion-pro-memory-foam-tailbone-and-lumbar-support): Experience unparalleled comfort and relief with the Medvance Memory Foam Donut Cushion. Perfectly designed for those dealing with tailbone pain, hemorrhoids, post-surgery discomfort, or prolonged sitting, this cushion offers exceptional support and promotes proper posture. Key Features: Superior Comfort and Support Memory Foam Construction: Made from high-quality memory foam, this cushion adapts to your body's contours, providing customized support and relieving pressure points. Ergonomic Design Donut Shape: The donut shape alleviates pressure on the tailbone and lower back, making it ideal for those recovering from surgery or dealing with sensitive areas. Pain Relief Multi-Purpose Use: Excellent for hemorrhoid relief, post-natal discomfort, sciatica, and other pain conditions. The ergonomic design ensures comfort during extended sitting periods. Durable and Long-Lasting High-Quality Materials: The memory foam maintains its shape and firmness even after prolonged use, ensuring consistent support. Breathable and Hygienic Removable Cover: The cushion comes with a breathable, removable cover that allows for easy cleaning and ensures a fresh sitting experience every time. Versatile and Portable Perfect for Any Chair: Use it at home, in the office, in your car, or even on airplane seats. Its portable design makes it easy to carry wherever you go. Why Choose Medvance Memory Foam Donut Cushion? Invest in your comfort and well-being with the Medvance Memory Foam Donut Cushion. Whether you’re dealing with chronic pain, recovering from surgery, or simply need better support during long sitting sessions, this cushion is designed to provide relief and improve your overall sitting experience. Say goodbye to discomfort and hello to all-day comfort with Medvance. - Surgismart
-  Updated: 2025-08-13T07:38:33Z
+  Updated: 2025-10-15T09:37:33Z
   Vendor: Medvance Surgicals
   Product Type: CUSHION
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/2_83ada1e4-cca4-4870-b17e-7f10272ab8ca.jpg?v=1751478427
   Price: ₹2,399.00 INR
 - [Buy ​Medvance Memory Foam Coccyx Seat Cushion Pro - Surgismart](https://surgismart.in/products/medvance-coccyx-seat-cushion): Ideal Seat Cushion for Tailbone Pain Ergonomic U-Shaped Design: Suspends your coccyx (tailbone) to prevent compression and alleviate pain caused by Coccydynia. The contoured design also improves sitting posture. Effective Solution for Uncomfortable Sitting Pure Memory Foam: Adapts to your body’s curves to relieve pressure throughout the day. The ergonomic shape offers support often lacking in regular chairs. Stays in Shape and Doesn’t Flatten Out Premium Memory Foam: Slowly rebounds to its original shape after each use, providing all-day comfort without flattening, even after long hours of sitting. Premium and Long-Lasting Cover 250 GSM Velvet Cover: Allows air to flow, preventing heat buildup and keeping you cool and comfortable all day. Perfect Fit for All Types of Seats Versatile Use: Ideal for office chairs, home chairs, wheelchairs, and airplane seats. Available in two sizes to accommodate different body weights. Enhance your sitting experience with the Medvance Memory Foam Coccyx Seat Cushion—perfect for tailbone pain relief and improved posture. - Surgismart
-  Updated: 2025-08-13T07:38:33Z
+  Updated: 2025-10-15T09:37:33Z
   Vendor: Medvance Surgicals
   Product Type: CUSHION
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/2_6b5673d5-f954-4278-b202-b2bd3e888fef.jpg?v=1751478426
   Price: ₹2,399.00 INR
 - [Buy ​Medvance Adult Diapers - Superior Absorbency, All-Day Comfort, Reliable Protection, Medium - Surgismart](https://surgismart.in/products/diapermedium): Medvance Adult Diapers - Superior Absorbency and Comfort for All-Day Confidence Looking for a high-quality adult diaper that can handle your incontinence needs? Medvance Adult Diapers are here to provide the ultimate solution. Crafted with premium materials and advanced technology, these diapers ensure maximum absorbency and comfort, keeping you dry and secure all day long. 🌟 Key Features: 💧Superior Absorbency: Medvance Adult Diapers are made with a special blend of Japanese SAP (Super Absorbent Polymer) and American virgin pulp. This unique combination ensures ultra-absorbency, effectively managing both light incontinence and heavy leakage. 🛌Comfortable Fit: Designed for all-day comfort, these diapers offer a snug yet gentle fit. The high-quality materials are soft against the skin, reducing the risk of irritation and maintaining comfort throughout the day. 🛡️Reliable Protection: Whether you're dealing with light incontinence or heavy leakage, Medvance Adult Diapers provide reliable protection. The advanced absorbent core locks in moisture and prevents leaks, giving you peace of mind. Made in India: Trust in the craftsmanship of Medvance Adult Diapers, proudly made in India with the highest quality standards. Each diaper is designed to meet the needs of individuals seeking dependable incontinence solutions. 🇮🇳 Why Choose Medvance Adult Diapers? Medvance Adult Diapers are designed to offer unparalleled absorbency and comfort. The blend of Japanese SAP and American virgin pulp ensures that you stay dry and comfortable, no matter the level of incontinence. With a focus on quality and reliability, these diapers are an excellent choice for anyone seeking effective incontinence management. 👍 Order Now for Peace of Mind and Comfort! Take control of your incontinence with confidence. Order Medvance Adult Diapers today and experience the superior absorbency, comfort, and reliability that only Medvance can provide. Stay dry, comfortable, and confident all day long with these high-quality adult diapers. 🌼 Medvance - Because your comfort matters. 💖 - Surgismart
-  Updated: 2025-08-13T07:38:33Z
+  Updated: 2025-10-15T09:37:33Z
   Vendor: Medvance Surgicals
   Product Type: Adult Diaper
   Availability: Available
@@ -1417,7 +1417,7 @@
     Availability: Available
     Price: ₹4,080.00 INR
 - [Buy ​Medvance Portable Folding Commode Stool, Square - Surgismart](https://surgismart.in/products/medvance-portable-folding-commode-stool-square): The weight capacity for this product is up to 80-100 kg. It features a stainless steel frame (grade 202) with a seating area of 15" width. The frame is held together by rivets and clasps to ensure stability. Additionally, the stool is equipped with anti-slip rubber bushings and made from high-quality, virgin-grade plastic. - Surgismart
-  Updated: 2025-08-13T07:38:32Z
+  Updated: 2025-10-15T09:37:33Z
   Vendor: Medvance Surgicals
   Product Type: Commode Stool
   Availability: Available
@@ -1435,7 +1435,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/9_cc20c172-05e7-43ed-ad59-fc2d22c8bfd7.jpg?v=1751478422
     Price: ₹1,760.00 INR
 - [Buy ​Medvance Portable Folding Commode Stool, Round - Surgismart](https://surgismart.in/products/medvance-portable-folding-commode-stool-round-blue): The Medvance Portable Folding Commode Stool offers comfort and convenience for disabled or aging individuals. Made with high-quality virgin grade plastic, it provides a secure seating area for comfortable and safe use of the toilet. Ideal for both home and travel purposes. - Surgismart
-  Updated: 2025-08-13T07:38:32Z
+  Updated: 2025-10-15T09:37:33Z
   Vendor: Medvance Surgicals
   Product Type: Commode Stool
   Availability: Available
@@ -1457,14 +1457,14 @@
     Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/2_2060ecd0-93a2-43d1-bb58-22a3533da803.jpg?v=1751478419
     Price: ₹1,400.00 INR
 - [Buy ​Medvance Back rest - Surgismart](https://surgismart.in/products/medvance-back-rest): - Surgismart
-  Updated: 2025-08-13T07:38:30Z
+  Updated: 2025-10-15T09:37:34Z
   Vendor: Medvance Surgicals
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/MEDVANCEBACKREST.jpg?v=1751478404
   Price: ₹2,400.00 INR
 - [Buy ​Medvance Koucher Artery Forceps - Surgismart](https://surgismart.in/products/medvance-koucher-artery-forceps): Introducing Medvance Koucher Artery Forceps - the ultimate tool for precision and control in your medical procedures. With its unique design and high-quality construction, this forceps allows for easier and more efficient artery clamping. Don't settle for less, choose Medvance Koucher for top-notch performance and superior results. - Surgismart
-  Updated: 2025-08-13T07:38:30Z
+  Updated: 2025-10-15T09:37:34Z
   Vendor: Medvance Surgicals
   Product Type: Instruments
   Availability: Available
@@ -1483,21 +1483,21 @@
     Availability: Available
     Price: ₹792.00 INR
 - [Buy ​Medvance Green Armitage Forceps - Surgismart](https://surgismart.in/products/med-ss-green-armitage): Get a handle on precision with Medvance Green Armitage Forceps! These forceps are perfect for delicate procedures, providing a sure grip for precise movements. Say goodbye to slipping and hello to accuracy with Medvance. - Surgismart
-  Updated: 2025-08-13T07:38:30Z
+  Updated: 2025-10-15T09:37:34Z
   Vendor: Medvance Surgicals
   Product Type: Instruments
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/24.jpg?v=1751478402
   Price: ₹792.00 INR
 - [Buy ​Medvance Episotomy Scissors - Surgismart](https://surgismart.in/products/medvance-episotomy-scissors): With the Medvance Episotomy Scissors, expect precise and clean cuts every time. These scissors are specially designed for performing episiotomies during childbirth, making the process quicker and more effective. Made from high-quality materials, these scissors are a must-have for any medical professional. - Surgismart
-  Updated: 2025-08-13T07:38:29Z
+  Updated: 2025-10-15T09:37:34Z
   Vendor: Medvance Surgicals
   Product Type: Instruments
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/24_08d8a349-0c21-43ec-8879-9cc534c845a6.jpg?v=1751478402
   Price: ₹792.00 INR
 - [Buy ​Medvance Dissecting Forceps - Surgismart](https://surgismart.in/products/medvance-dissecting-forceps): Expertly designed and crafted Medvance Dissecting Forceps provide precise surgical control and manipulation. Made with durable, high-quality materials, these forceps offer a secure grip and optimal handling for delicate procedures. Perfect for medical professionals seeking reliable and accurate instrumentation. - Surgismart
-  Updated: 2025-08-13T07:38:29Z
+  Updated: 2025-10-15T09:37:34Z
   Vendor: Medvance Surgicals
   Product Type: Instruments
   Availability: Available
@@ -1517,7 +1517,7 @@
     Availability: Available
     Price: ₹239.00 INR
 - [Buy ​Medvance Cuscos Speculam - Surgismart](https://surgismart.in/products/medvance-cuscos-speculam): Medvance Cuscos Speculam is a durable and reliable medical instrument designed for gynecological examinations. Made with high-quality materials, it offers precise and accurate results, making it a must-have for any medical professional's toolkit. Its ergonomic design ensures maximum comfort for both patients and doctors. - Surgismart
-  Updated: 2025-09-12T20:17:12Z
+  Updated: 2025-10-15T09:37:34Z
   Vendor: Medvance Surgicals
   Product Type: Instruments
   Availability: Available
@@ -1533,7 +1533,7 @@
     Availability: Available
     Price: ₹639.00 INR
 - [Buy ​Medvance Cheatle Forceps - Surgismart](https://surgismart.in/products/medvance-cheatle-forceps): The Medvance Cheatle Forceps are precision surgical instruments designed to aid surgeons in securely grasping and manipulating delicate tissues during procedures. Made with high-quality materials and advanced technology, these forceps provide optimal control and precision, allowing for quicker and more efficient surgeries with minimal tissue damage. Trust in the expertise of Medvance for superior surgical tools. - Surgismart
-  Updated: 2025-09-13T03:33:37Z
+  Updated: 2025-10-15T09:37:35Z
   Vendor: Medvance Surgicals
   Product Type: Instruments
   Availability: Available
@@ -1546,7 +1546,7 @@
     Availability: Available
     Price: ₹952.00 INR
 - [Buy ​Medvance BP Handle - Surgismart](https://surgismart.in/products/medvance-bp-handle): The Medvance BP Handle is a key tool for surgical procedures, providing a secure grip on surgical blades to ensure precision and control. With this handle, surgeons can confidently and accurately perform delicate procedures, leading to successful outcomes for patients. Designed with expertise and precision, the Medvance BP Handle is a valuable addition to any surgical toolkit. - Surgismart
-  Updated: 2025-08-13T07:38:28Z
+  Updated: 2025-10-15T09:37:35Z
   Vendor: Medvance Surgicals
   Product Type: Instruments
   Availability: Available
@@ -1560,14 +1560,14 @@
     Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/24_1a689016-3289-41a7-b199-bd35998c4d3f.jpg?v=1751478399
     Price: ₹159.00 INR
 - [Buy ​Medvance Bandage Cutting Forceps - Surgismart](https://surgismart.in/products/medvance-bandage-cutting-forceps): These forceps are designed specifically for cutting bandages, making the bandage removal process quick and easy. The unique design allows for precision cutting, reducing the risk of injury and ensuring a smooth edge for comfortable healing. Perfect for healthcare professionals and individuals alike. - Surgismart
-  Updated: 2025-08-13T07:38:28Z
+  Updated: 2025-10-15T09:37:35Z
   Vendor: Medvance Surgicals
   Product Type: Instruments
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/24_921d0f82-a607-4557-aab0-f71c74e3efbc.jpg?v=1751478398
   Price: ₹792.00 INR
 - [Buy ​Medvance Bab cock Scissors - Surgismart](https://surgismart.in/products/medvance-bab-cock-scissors): Increase precision and reduce hand fatigue with Medvance Babcock Scissors. Designed with a curved blade and finger rings, these scissors offer superior control and comfortable grip for delicate surgical procedures. - Surgismart
-  Updated: 2025-08-13T07:38:28Z
+  Updated: 2025-10-15T09:37:35Z
   Vendor: Medvance Surgicals
   Product Type: Instruments
   Availability: Available
@@ -1581,7 +1581,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/24_c14488f0-2637-4b0a-8501-dc0d4675b82a.jpg?v=1751478397
     Price: ₹792.00 INR
 - [Buy ​Medvance Artery Forceps - Surgismart](https://surgismart.in/products/medvance-artery-forceps): Medvance Artery Forceps are a must-have for any healthcare professional. Made with precision and expertise, these forceps are designed to provide a secure and comfortable grip, allowing for precise and efficient maneuvers during procedures. Trust in Medvance for superior quality and performance. - Surgismart
-  Updated: 2025-08-13T07:38:28Z
+  Updated: 2025-10-15T09:37:35Z
   Vendor: Medvance Surgicals
   Product Type: Instruments
   Availability: Available
@@ -1607,14 +1607,14 @@
     Availability: Available
     Price: ₹952.00 INR
 - [Buy ​Medvance Allice Tissue Forceps - Surgismart](https://surgismart.in/products/medvance-allice-tissue-forceps): Enhance surgical precision with Medvance Allice Tissue Forceps. These forceps provide a secure grip on tissue, reducing the risk of slippage during procedures. The serrated tips and precise alignment offer precise and accurate tissue manipulation. Increase efficiency and accuracy with Medvance Allice Tissue Forceps. - Surgismart
-  Updated: 2025-09-07T14:58:30Z
+  Updated: 2025-10-15T09:37:35Z
   Vendor: Medvance Surgicals
   Product Type: Instruments
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/24_bab48dc4-ac63-49f5-a727-6e0700ef38fb.jpg?v=1751478395
   Price: ₹700.00 INR
 - [Buy ​Medvance Vulsellum Forceps - Surgismart](https://surgismart.in/products/medvance-vulsellum-forceps): Expertly designed and crafted, Medvance Vulsellum Forceps provide precise and secure gripping for medical procedures. Made with high-quality materials, these forceps offer reliable results with minimal risk. Trust the expertise of Medvance for optimal performance in healthcare. - Surgismart
-  Updated: 2025-08-13T07:38:27Z
+  Updated: 2025-10-15T09:37:36Z
   Vendor: Medvance Surgicals
   Product Type: Instruments
   Availability: Available
@@ -1627,35 +1627,35 @@
     Availability: Available
     Price: ₹952.00 INR
 - [Buy ​Medvance Umbilical Cord Cutting Scisors - Surgismart](https://surgismart.in/products/medvance-umbilical-cord-cutting-scisors): The Medvance Umbilical Cord Cutting Scissors are expertly designed for cutting umbilical cords with precision and safety. Crafted with advanced technology, these scissors offer 100% accuracy and reduce the risk of infection. A must-have for any medical professional performing infant care. - Surgismart
-  Updated: 2025-08-13T07:38:27Z
+  Updated: 2025-10-15T09:37:36Z
   Vendor: Medvance Surgicals
   Product Type: Instruments
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/24_d887c77b-e5ed-45a2-bad0-2d0e665275fe.jpg?v=1751478393
   Price: ₹792.00 INR
 - [Buy ​Medvance Tonsil Forceps - Surgismart](https://surgismart.in/products/medvance-tonsil-forceps): The Medvance Tonsil Forceps are expertly designed for precision and efficiency in tonsil removal surgeries. With its durable and ergonomic design, these forceps provide a secure grip and minimize tissue damage, resulting in faster healing times for patients. Trust in Medvance for superior quality and performance. - Surgismart
-  Updated: 2025-08-13T07:38:27Z
+  Updated: 2025-10-15T09:37:36Z
   Vendor: Medvance Surgicals
   Product Type: Instruments
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/24_9eb419c1-1f3f-4ffd-821e-7cbb9b6f0009.jpg?v=1751478392
   Price: ₹792.00 INR
 - [Buy ​Medvance Stitch Cutting Forceps - Surgismart](https://surgismart.in/products/medvance-stitch-cuttingforceps): Efficiently cut through stitches with precision and ease using Medvance Stitch Cutting Forceps. Made with high-quality materials and advanced technology, these forceps provide maximum control and accuracy. Improve your surgical procedures and save time with these versatile and reliable forceps. - Surgismart
-  Updated: 2025-08-13T07:38:27Z
+  Updated: 2025-10-15T09:37:02Z
   Vendor: Medvance Surgicals
   Product Type: Instruments
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/24_f5093d8f-d269-451f-b701-cc4dd9c91221.jpg?v=1751478392
   Price: ₹479.00 INR
 - [Buy ​Medvance Stapler Remover - Surgismart](https://surgismart.in/products/medvance-stapler-remover): Introducing the Medvance Stapler Remover, a superior tool for surgeries. With precision and ease, this exclusive remover effortlessly removes staples, enhancing efficiency and accuracy in delicate procedures. Trust the elegance and sophistication of Medvance for your surgical needs. - Surgismart
-  Updated: 2025-08-20T19:42:14Z
+  Updated: 2025-10-15T09:37:03Z
   Vendor: Medvance Surgicals
   Product Type: Instruments
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/24_29953ff7-44af-40a5-993f-9a70efeac558.jpg?v=1751478391
   Price: ₹792.00 INR
 - [Buy ​Medvance Proctoscope - Surgismart](https://surgismart.in/products/medvance-proctoscope): As an industry expert, trust the precision and accuracy of the Medvance Proctoscope. Experience easy and efficient rectal exams with this state-of-the-art instrument that offers a 90% success rate and unmatched visibility. - Surgismart
-  Updated: 2025-08-13T07:38:26Z
+  Updated: 2025-10-15T09:37:03Z
   Vendor: Medvance Surgicals
   Product Type: Instruments
   Availability: Available
@@ -1674,14 +1674,14 @@
     Availability: Available
     Price: ₹792.00 INR
 - [Buy ​Medvance Sims Speculam - Surgismart](https://surgismart.in/products/medvance-sims-speculam): The Medvance Sims Speculam is a professional-grade medical tool designed for precision and accuracy. With its advanced features, this speculum provides precise and reliable results, enabling healthcare professionals to deliver top-quality care. Trust in Medvance Sims for your medical needs. - Surgismart
-  Updated: 2025-08-13T07:38:26Z
+  Updated: 2025-10-15T09:37:03Z
   Vendor: Medvance Surgicals
   Product Type: Instruments
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/21_2dd102a2-cb60-42f6-9031-e32c44e7caaa.jpg?v=1751478389
   Price: ₹400.00 INR
 - [Buy ​Medvance Dressing Scissors - Surgismart](https://surgismart.in/products/med-ss-scissor): Expertly designed for precision and durability, Medvance Dressing Scissors are a must-have for any medical professional. With sharp and smooth stainless steel blades, these scissors make dressing changes a breeze. Trust in our superior quality, backed by years of domain expertise. - Surgismart
-  Updated: 2025-08-13T07:38:26Z
+  Updated: 2025-10-15T09:37:03Z
   Vendor: Medvance Surgicals
   Product Type: Instruments
   Availability: Available
@@ -1737,7 +1737,7 @@
     Availability: Available
     Price: ₹952.00 INR
 - [Buy ​Medvance Sponge Holding Forceps - Surgismart](https://surgismart.in/products/medvance-sponge-holding-forceps): The Medvance Sponge Holding Forceps are a must-have tool for any medical professional. Made with the highest quality materials, these forceps are designed to securely hold sponges during procedures, allowing for greater precision and control. With their superior grip and ergonomically shaped handles, performing delicate surgeries has never been easier. Trust in the expertise of Medvance for all your surgical needs. - Surgismart
-  Updated: 2025-08-13T07:38:26Z
+  Updated: 2025-10-15T09:37:03Z
   Vendor: Medvance Surgicals
   Product Type: Instruments
   Availability: Available
@@ -1754,7 +1754,7 @@
     Availability: Available
     Price: ₹952.00 INR
 - [Buy ​Medvance Needle Holder - Surgismart](https://surgismart.in/products/medvance-needle-holder): This Medvance Needle Holder is a must-have for any medical professional, providing secure and stable grip for precise needle insertion. Designed with advanced technology, it ensures optimal safety and effectiveness for a wide range of procedures. Order yours today for enhanced patient care and improved clinical outcomes. - Surgismart
-  Updated: 2025-08-13T07:38:25Z
+  Updated: 2025-10-15T09:37:03Z
   Vendor: Medvance Surgicals
   Product Type: Instruments
   Availability: Available
@@ -1777,7 +1777,7 @@
     Availability: Available
     Price: ₹952.00 INR
 - [Buy ​Medvance Mosquito Forceps - Surgismart](https://surgismart.in/products/medvance-mosquito-forceps): Medvance Mosquito Forceps are reliable, precision instruments designed for medical procedures. These forceps offer a secure grip and precise control, allowing for efficient and accurate maneuvering. The durable and lightweight design makes them suitable for various surgical settings, providing healthcare professionals with a valuable tool for optimum patient care. - Surgismart
-  Updated: 2025-08-13T07:38:25Z
+  Updated: 2025-10-15T09:37:04Z
   Vendor: Medvance Surgicals
   Product Type: Instruments
   Availability: Available
@@ -1797,7 +1797,7 @@
     Availability: Available
     Price: ₹620.00 INR
 - [Buy ​Medvance Mayo Scissors - Surgismart](https://surgismart.in/products/medvance-mayo-scissors): Get precise cuts with these mayo scissors from Medvance! Perfect for any medical setting, these scissors are designed with precision and quality in mind. Slice through any tissue or material with ease. - Surgismart
-  Updated: 2025-08-13T07:38:25Z
+  Updated: 2025-10-15T09:37:04Z
   Vendor: Medvance Surgicals
   Product Type: Instruments
   Availability: Available
@@ -1817,14 +1817,14 @@
     Availability: Available
     Price: ₹792.00 INR
 - [Buy ​Medvance Shoe Cover (50 Pair's) - Surgismart](https://surgismart.in/products/medvance-shoe-cover-50-pairs): Protect your shoes with the Medvance Shoe Cover. Each pack contains 50 pairs, ensuring long-lasting use. Made with durable material, these covers provide reliable protection from dirt and debris. Perfect for professionals in healthcare, laboratories, and more. Keep your shoes clean and tidy with Medvance. - Surgismart
-  Updated: 2025-08-13T07:38:25Z
+  Updated: 2025-10-15T09:37:04Z
   Vendor: Medvance Surgicals
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/shoe_cover.png?v=1751478384
   Price: ₹960.00 INR
 - [Buy ​Medvance Disposable Apron (100'S) - Surgismart](https://surgismart.in/products/medvance-disposable-apron): The Medvance Disposable Apron offers convenient protection for a variety of industries. Made with durable material, this apron is easy to use and dispose of, making it a hygienic and efficient choice. Perfect for food service, medical facilities, and more. - Surgismart
-  Updated: 2025-08-13T07:38:24Z
+  Updated: 2025-10-15T09:37:04Z
   Vendor: Medvance Surgicals
   Product Type: 
   Availability: Available
@@ -1838,7 +1838,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/2_09d766f1-def0-4352-ae44-c55b2baef79a.jpg?v=1751478383
     Price: ₹3,920.00 INR
 - [Buy ​Medvance Cervical Pillow, Mesh Black - Surgismart](https://surgismart.in/products/medvance-cervical-pillow-meshblack): Elevate your sleep experience with the Medvance Cervical Pillow. Scientifically designed to support your neck and head, this pillow helps alleviate neck pain and stiffness. Its contoured shape promotes proper spinal alignment, ensuring a restful and rejuvenating sleep. Wake up feeling refreshed and ready to take on the day. - Surgismart
-  Updated: 2025-09-24T06:55:05Z
+  Updated: 2025-10-15T09:37:04Z
   Vendor: Medvance Surgicals
   Product Type: CUSHION
   Availability: Available
@@ -1852,91 +1852,91 @@
     Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/1_1e3110eb-bfc0-448d-b29a-a1f4c7d5b55d.jpg?v=1751478382
     Price: ₹1,359.00 INR
 - [Buy ​Medvance Cervical Pillow - Surgismart](https://surgismart.in/products/medvance-cervical-pillow-blue): Elevate your sleep experience with the Medvance Cervical Pillow. Scientifically designed to support your neck and head, this pillow helps alleviate neck pain and stiffness. Its contoured shape promotes proper spinal alignment, ensuring a restful and rejuvenating sleep. Wake up feeling refreshed and ready to take on the day. - Surgismart
-  Updated: 2025-08-13T07:38:24Z
+  Updated: 2025-10-15T09:37:04Z
   Vendor: Medvance Surgicals
   Product Type: CUSHION
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/3_701dedb0-08ff-4e76-b51e-8b7b4146e436.jpg?v=1751478382
   Price: ₹1,039.00 INR
 - [Buy ​Medvance Portable Folding Commode Chair, Powder Coated, 315 - Surgismart](https://surgismart.in/products/medvance-portable-folding-commode-chair-powder-coated-313-copy): Medvance Commode Chair - Reliable, Comfortable, and Safe Hygiene Solution Discover the perfect blend of comfort and durability with the Medvance CRC Pipe Commode Chair. Designed to meet the highest standards of quality and safety, this commode chair is an essential addition for those seeking dependable support in their daily care routine. Key Features: Spacious Seating Area: The commode chair features a generous 17-inch wide seating area, ensuring ample space for comfortable use. Durable CRC Pipe Construction: Made from 21 gauge CRC pipe with a 19 mm outer diameter, this commode chair offers robust strength and long-lasting durability. MS Screw and Clasp: Equipped with mild steel (MS) screws and clasps, this chair ensures secure assembly and reliable performance. Anti-Slip Rubber Bush: Safety is a top priority with the anti-slip rubber bushes, providing stability and preventing accidental slips or falls during use. Virgin Grade Plastic: The seat and lid are crafted from virgin grade plastic, which is not only durable but also easy to clean, ensuring optimal hygiene. Weight Capacity: Designed to support up to 100 kg, this commode chair accommodates a wide range of users, providing strong and stable support. Why Choose the Medvance CRC Pipe Commode Chair? The Medvance CRC Pipe Commode Chair is thoughtfully designed for individuals needing additional support during their hygiene routine. Its combination of a spacious seating area, high-quality materials, and safety features makes it a reliable choice for home care. Whether used temporarily or as a permanent fixture, this commode chair delivers comfort, stability, and peace of mind. Order Now for Enhanced Comfort and Safety! Invest in your comfort and safety with the premium Medvance CRC Pipe Commode Chair. Order today and experience a product that seamlessly combines quality, durability, and convenience, making your daily hygiene routine more comfortable and secure. - Surgismart
-  Updated: 2025-09-20T21:10:51Z
+  Updated: 2025-10-15T09:37:05Z
   Vendor: Medvance Surgicals
   Product Type: Commode Chair
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/Medvance_Commode_Chair_315.jpg?v=1751478381
   Price: ₹2,240.00 INR
 - [Buy ​Medvance Surgeon Cap - Surgismart](https://surgismart.in/products/medvance-surgeon-cap): The Medvance Surgeon Cap is designed to provide maximum protection and comfort for surgeons during medical procedures. Made from high-quality materials, it offers superior breathability, moisture-wicking, and adjustable fit for long-lasting wear. With its advanced features, it enhances performance while maintaining a professional look. - Surgismart
-  Updated: 2025-08-13T07:38:23Z
+  Updated: 2025-10-15T09:37:05Z
   Vendor: Medvance Surgicals
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/2_fa970b0f-a4d7-42ce-8b97-37731012c486.jpg?v=1751478380
   Price: ₹720.00 INR
 - [Buy ​Medvance Bouffant Cap (100'S) - Surgismart](https://surgismart.in/products/medvance-bouffant-cap): Introducing Medvance Bouffant Cap - the perfect solution for keeping your hair neatly contained while working in a medical or food service setting. This high-quality cap features a classic bouffant design that provides maximum coverage and comfort. Keep your hair out of your face and focus on the task at hand with Medvance Bouffant Cap. - Surgismart
-  Updated: 2025-08-13T07:38:23Z
+  Updated: 2025-10-15T09:37:05Z
   Vendor: Medvance Surgicals
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/3_3ab598af-658f-466c-9188-19950040ab8f.jpg?v=1751478379
   Price: ₹720.00 INR
 - [Buy ​Medvance Walker Folding (Indian) - Surgismart](https://surgismart.in/products/medvance-walker-folding-indian): 🌟 Medvance Premium Double Bar Folding Patient Walker The Medvance Premium Double Bar Folding Patient Walker is purpose-built to provide crucial support and enhance mobility for patients during their recovery. Crafted with care, this mobility aid offers essential features tailored to meet diverse needs: Essential Patient Support: Tailored to aid patients during recovery from surgeries, knee operations, paralysis, or stroke, the Medvance walker provides reliable assistance. Height-Adjustable & Foldable: Easily adjust the height to suit individual preferences, and fold it for convenient storage and transport. Whether at home or on the go, this walker caters to your mobility needs. Double Bar Hand and Leg Support: Designed with a double bar configuration, the Medvance walker offers extensive hand and leg support. This feature enhances stability and confidence for patients seeking reliable mobility aid. Versatile Mobility Aid for Adults: Suitable for a wide range of adult users, including seniors, the Medvance walker provides essential support. It promotes safe movement and independence during recovery. Adaptable for Various Conditions: Ideal for patients recovering from knee operations or dealing with mobility challenges like paralysis, the Medvance walker offers the necessary assistance. It adapts to your unique situation. Sturdy & Lightweight: Crafted with durable yet lightweight materials, the Medvance walker ensures a sturdy frame. Patients can rely on its support while easily managing its weight. Invest in the Medvance Premium Double Bar Folding Patient Walker—a reliable and adaptable mobility aid designed to enhance patients’ mobility journey. Whether recovering from knee surgery, dealing with paralysis, or seeking support as a senior, this walker has you covered. 🚶‍♂️🚶‍♀️ - Surgismart
-  Updated: 2025-08-13T07:38:23Z
+  Updated: 2025-10-15T09:37:05Z
   Vendor: Medvance Surgicals
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/3_ae62ddb6-ec5e-46d2-a5c6-582f930be1d7.jpg?v=1751478378
   Price: ₹1,199.00 INR
 - [Buy ​Medvance Walker Folding (Aluminium) - Surgismart](https://surgismart.in/products/medvance-walker-foldingaluminium): Medvance Aluminum Walking Frame 🚶‍♂️ Enhance Mobility and Independence Medvance Aluminum Walking Frame is designed to provide stability, support, and independence for individuals who need assistance while walking. Whether you’re a senior citizen or recovering from surgery, our walking frame ensures safety and ease of use. Key Features: 1. Height Adjustment With just a one-touch button, you can customize the height of the walker to suit the user’s needs. Adjust the height from 30 inches to 36 inches in 1-inch increments. Proper height ensures comfort and maintains blood circulation during use. 2. Robust Load Bearing Capacity Our walker features a wide and deep frame with sturdy aluminum construction. It can bear a maximum load of 100 kg, distributing weight effectively and preventing falls. Enhanced balance and stability for confident walking. 3. Lightweight and Rust-Proof Crafted from anodized aluminum, the Medvance walker combines strength with lightweight design. Rust-proof material ensures durability and safety. Ideal for both indoor and outdoor use. 4. Anti-Slip Protection Slip-resistant rubber tips on all four legs provide secure footing. Move confidently without worrying about slips or accidents. 5. Comfortable Hand Grips Soft foam-padded hand grips offer extra support. Contoured design reduces hand pressure and fatigue. Safety and comfort combined. 6. Foldable and Portable Need to travel or store the walker? No problem! The Medvance walker folds down easily for convenience. Take it with you wherever you go. 7. Effortless Operation Our walker features a comfy push-button mechanism. One-touch button release ensures safe and easy operation. No balance issues while using the walker. How to Use the Medvance Walking Frame: Adjust the Height: Set the walker to waist-height for comfort. Ensure a slight bend in the elbow to maintain blood circulation. The ideal height (up to the handgrip) aligns with the patient’s wrist when standing with arms at the sides and elbows slightly bent. Position Yourself: Stand in the middle of the walking frame. Pick Up and Place: Pick up the walker and position it a short distance ahead. Begin Walking: Step forward using the affected leg first. Follow with the other leg. Repeat: Continue walking, repeating steps 3 and 4 as needed. - Surgismart
-  Updated: 2025-08-13T07:38:23Z
+  Updated: 2025-10-15T09:37:05Z
   Vendor: Medvance Surgicals
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/2_f9980002-2ca5-4acb-a0cc-69ac93a9c541.jpg?v=1751478377
   Price: ₹1,999.00 INR
 - [Buy ​Medvance Walking Stick Single - Surgismart](https://surgismart.in/products/medvance-walking-stick-single): Medvance Lightweight Anodized Aluminum Crutch 🚶‍♂️ Material: Crafted from lightweight anodized aluminum. Handle Design: Swan-neck shape for ergonomic comfort. Floor Grip: PVC tip ensures a secure hold on any surface. Adjustable Height: Easily adjust from 74 cm to 94 cm. Suitable For: Elderly individuals and those with weakened legs. Stability & Support: Stout body and rounded tip provide stable steps, especially beneficial for frail limbs. Telescopic Height: Customizable height for every user. High-Quality Build: Anodized aluminum ensures durability over time. Portability: Despite its sturdy construction, the crutch remains lightweight and portable. Exceptional Grip: Swan-shaped ergonomic handle for effortless movement. - Surgismart
-  Updated: 2025-08-13T07:38:23Z
+  Updated: 2025-10-15T09:37:05Z
   Vendor: Medvance Surgicals
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/4_8994b708-d6b3-4f73-b4fa-ac6495b76015.png?v=1751478376
   Price: ₹460.00 INR
 - [Buy ​Medvance Walking Stick Tripod - Surgismart](https://surgismart.in/products/medvance-walking-stick-tripod): Medvance Lightweight Anodized Aluminum Telescopic Crutch 🚶‍♂️ Material: Crafted from lightweight anodized aluminum. Handle Design: Swan-neck shape for ergonomic comfort. Floor Grip: PVC tip ensures a secure hold on any surface. Adjustable Height: Easily adjust from 78 cm to 98 cm. Suitable For: Elderly individuals and those with weakened legs. Stability & Support: Stout body and rounded tip provide stable steps, especially beneficial for frail limbs. Telescopic Height: Customizable height for every user. High-Quality Build: Anodized aluminum ensures durability over time. Portability: Despite its sturdy construction, the crutch remains lightweight and portable. Exceptional Grip: Swan-shaped ergonomic handle for effortless movement. - Surgismart
-  Updated: 2025-08-13T07:38:22Z
+  Updated: 2025-10-15T09:37:06Z
   Vendor: Medvance Surgicals
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/4_330ec7a4-9bfc-4334-a058-889fd4438b80.png?v=1751478374
   Price: ₹879.00 INR
 - [Buy ​Medvance Walking Stick Quadripod - Surgismart](https://surgismart.in/products/medvance-walking-stick-quadripod): Medvance Lightweight Anodized Aluminum Telescopic Crutch 🚶‍♂️ Material: Crafted from lightweight anodized aluminum. Handle Design: Swan-neck shape for ergonomic comfort. Floor Grip: PVC tip ensures a secure hold on any surface. Adjustable Height: Easily adjust from 78 cm to 98 cm. Suitable For: Elderly individuals and those with weakened legs. Stability & Support: Stout body and rounded tip provide stable steps, especially beneficial for frail limbs. Telescopic Height: Customizable height for every user. High-Quality Build: Anodized aluminum ensures durability over time. Portability: Despite its sturdy construction, the crutch remains lightweight and portable. Exceptional Grip: Swan-shaped ergonomic handle for effortless movement. - Surgismart
-  Updated: 2025-08-19T02:28:08Z
+  Updated: 2025-10-15T09:37:06Z
   Vendor: Medvance Surgicals
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/4_39dd2614-e401-46e2-9d07-08152f4a49ed.png?v=1751478373
   Price: ₹959.00 INR
 - [Buy ​Medvance Elbow Crutches Single - Surgismart](https://surgismart.in/products/medvance-elbow-crutches-single): Medvance Lightweight Anodized Aluminum Telescopic Crutch Material: Crafted from lightweight anodized aluminum for durability. Adjustable Height: Easily customize the crutch height from 38 inches to 46 inches. Comfortable Elbow Cuff: Padded elbow cuff provides comfort and total forearm support. Stability & Support: The hook and loop closures ensure stability with every step, making it ideal for elderly patients and amputees. Enhanced Grip: PVC tip offers better floor grip, enhancing safety during use. High-Quality Build: Anodized aluminum construction ensures reliability over time. Portability: Despite its sturdy build, the crutch remains lightweight and portable, making it convenient for travel. Ergonomic Handle: Swan-shaped ergonomic handle delivers exceptional grip for effortless movement. - Surgismart
-  Updated: 2025-09-03T00:56:27Z
+  Updated: 2025-10-15T09:37:06Z
   Vendor: Medvance Surgicals
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/2_d8c4671a-0882-4269-86fe-b2a78e07ef8a.jpg?v=1751478372
   Price: ₹719.00 INR
 - [Buy ​Medvance Elbow Crutches Tripod - Surgismart](https://surgismart.in/products/medvance-elbow-crutches-tripod): Medvance Lightweight Anodized Aluminum Telescopic Crutch Material: Crafted from lightweight anodized aluminum for durability. Adjustable Height: Easily customize the crutch height from 38 inches to 46 inches. Comfortable Elbow Cuff: Padded elbow cuff provides comfort and total forearm support. Stability & Support: The hook and loop closures ensure stability with every step, making it ideal for elderly patients and amputees. Enhanced Grip: PVC tip offers better floor grip, enhancing safety during use. High-Quality Build: Anodized aluminum construction ensures reliability over time. Portability: Despite its sturdy build, the crutch remains lightweight and portable, making it convenient for travel. Ergonomic Handle: Swan-shaped ergonomic handle delivers exceptional grip for effortless movement. - Surgismart
-  Updated: 2025-09-12T04:21:16Z
+  Updated: 2025-10-15T09:37:06Z
   Vendor: Medvance Surgicals
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/2_48fa8f84-7c7f-424b-80b5-302db7d3284c.jpg?v=1751478371
   Price: ₹1,199.00 INR
 - [Buy ​Medvance Elbow Crutches Quadripod - Surgismart](https://surgismart.in/products/medvance-elbow-crutches-quadripod): Medvance Lightweight Anodized Aluminum Telescopic Crutch Material: Crafted from lightweight anodized aluminum for durability. Adjustable Height: Easily customize the crutch height from 38 inches to 46 inches. Comfortable Elbow Cuff: Padded elbow cuff provides comfort and total forearm support. Stability & Support: The hook and loop closures ensure stability with every step, making it ideal for elderly patients and amputees. Enhanced Grip: PVC tip offers better floor grip, enhancing safety during use. High-Quality Build: Anodized aluminum construction ensures reliability over time. Portability: Despite its sturdy build, the crutch remains lightweight and portable, making it convenient for travel. Ergonomic Handle: Swan-shaped ergonomic handle delivers exceptional grip for effortless movement. - Surgismart
-  Updated: 2025-08-13T07:38:21Z
+  Updated: 2025-10-15T09:37:06Z
   Vendor: Medvance Surgicals
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/2_954ded7a-f479-432d-a6af-7b4064d52110.jpg?v=1751478370
   Price: ₹1,279.00 INR
 - [Buy ​Medvance OT Gown - Surgismart](https://surgismart.in/products/medvance-ot-gown): This Medvance OT Gown is designed to provide maximum comfort and protection for healthcare professionals during procedures. Made with high-quality materials, it offers 100% fluid resistance, ensuring a safe and sterile environment. Its lightweight and breathable design allows for ease of movement without compromising safety. - Surgismart
-  Updated: 2025-08-13T07:38:21Z
+  Updated: 2025-10-15T09:37:06Z
   Vendor: Medvance Surgicals
   Product Type: 
   Availability: Available
@@ -1990,49 +1990,49 @@
     Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/1_5e1b1b2c-e44a-4eb0-9d03-b116bb08b243.jpg?v=1751478369
     Price: ₹680.00 INR
 - [Buy ​Medvance Orthopedic Donut Cushion, Mesh Black - Surgismart](https://surgismart.in/products/medvance-donut-cushion-meshblack): This Medvance Orthopedic Foam Donut Cushion is an ergonomic solution for those suffering from back pain, tailbone pain, or other sensitive areas. The cushion's U-shaped design evenly distributes weight, reducing pressure and providing natural support. Made of durable PU foam, it maintains its shape even with prolonged use. Its non-skid backing prevents slippage for added safety. Donut Design: This back pain pillow is shaped like a doughnut with an ergonomic “U” shaped cutout, which conforms to lower body contours providing ultimate support with little to no pressure on your most sensitive areas. Even Weight Distribution: Due to the pillow's Ring U-shaped design, the pressure while sitting will be evenly distributed alleviating much of the pressure on your coccyx and tailbone. The pillow has a non-skid backing on the back that combats slippage. Soft PU Foam: The high-density PU foam in the donut pillow will allow you to sit for a long time, without getting uncomfortable, as it won’t flatten over time. It has a breathable mesh cover that doesn't trap heat, so you sit comfortably and cool. - Surgismart
-  Updated: 2025-09-01T13:59:43Z
+  Updated: 2025-10-15T09:37:07Z
   Vendor: Medvance Surgicals
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/2_e772b130-4abd-4dc5-81c7-873e14d72ece.jpg?v=1751478368
   Price: ₹1,359.00 INR
 - [Buy ​Medvance Orthopedic Coccyx Cushion, Mesh Black - Surgismart](https://surgismart.in/products/medvance-coccyx-cushion-meshblack): This Medvance Orthopedic Foam Donut Cushion is an ergonomic solution for those suffering from back pain, tailbone pain, or other sensitive areas. The cushion's U-shaped design evenly distributes weight, reducing pressure and providing natural support. Made of durable PU foam, it maintains its shape even with prolonged use. Its non-skid backing prevents slippage for added safety. Donut Design: This back pain pillow is shaped like a doughnut with an ergonomic “U” shaped cutout, which conforms to lower body contours providing ultimate support with little to no pressure on your most sensitive areas. Even Weight Distribution: Due to the pillow's Ring U-shaped design, the pressure while sitting will be evenly distributed alleviating much of the pressure on your coccyx and tailbone. The pillow has a non-skid backing on the back that combats slippage. Soft PU Foam: The high-density PU foam in the donut pillow will allow you to sit for a long time, without getting uncomfortable, as it won’t flatten over time. It has a breathable mesh cover that doesn't trap heat, so you sit comfortably and cool. - Surgismart
-  Updated: 2025-09-03T21:02:36Z
+  Updated: 2025-10-15T09:37:07Z
   Vendor: Medvance Surgicals
   Product Type: CUSHION
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/2_77c373cd-7e08-4c48-b013-8f5d37c464a0.jpg?v=1751478366
   Price: ₹1,359.00 INR
 - [Buy ​Medvance Orthopedic Coccyx Cushion, Blue - Surgismart](https://surgismart.in/products/medvance-coccyx-cushion-blue): This Medvance Orthopedic Coccyx Cushion in blue is an ergonomic solution for people suffering from back pain, tailbone pain, or other sensitive areas. The cushion's U-shaped design evenly distributes weight, reducing pressure and providing natural support. Made of durable PU foam, it maintains its shape even with prolonged use and has a non-skid backing for added safety. The donut-shaped design conforms to lower body contours, alleviating pressure on sensitive areas. The U-shaped design also evenly distributes weight to relieve pressure on the coccyx and tailbone. The high-density PU foam maintains its shape over time and has a breathable mesh cover to prevent overheating. - Surgismart
-  Updated: 2025-08-13T07:38:20Z
+  Updated: 2025-10-15T09:37:07Z
   Vendor: Medvance Surgicals
   Product Type: CUSHION
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/4_4f3efa2f-68a0-46bf-a29f-89a411e9cd14.jpg?v=1751478365
   Price: ₹1,279.00 INR
 - [Buy ​Medvance Orthopedic Donut Cushion, Blue - Surgismart](https://surgismart.in/products/medvance-donut-cushion-blue): This Medvance Orthopedic Foam Donut Cushion is an ergonomic solution for those suffering from back pain, tailbone pain, or other sensitive areas. The cushion's U-shaped design evenly distributes weight, reducing pressure and providing natural support. Made of durable PU foam, it maintains its shape even with prolonged use. Its non-skid backing prevents slippage for added safety. Donut Design: This back pain pillow is shaped like a doughnut with an ergonomic “U” shaped cutout, which conforms to lower body contours providing ultimate support with little to no pressure on your most sensitive areas. Even Weight Distribution: Due to the pillow's Ring U-shaped design, the pressure while sitting will be evenly distributed alleviating much of the pressure on your coccyx and tailbone. The pillow has a non-skid backing on the back that combats slippage. Soft PU Foam: The high-density PU foam in the donut pillow will allow you to sit for a long time, without getting uncomfortable, as it won’t flatten over time. It has a breathable mesh cover that doesn't trap heat, so you sit comfortably and cool. - Surgismart
-  Updated: 2025-08-13T07:38:20Z
+  Updated: 2025-10-15T09:37:07Z
   Vendor: Medvance Surgicals
   Product Type: CUSHION
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/2_44421f54-2e67-4dbb-8820-45710f351a41.jpg?v=1751478364
   Price: ₹1,279.00 INR
 - [Buy ​Medvance Portable Folding Commode Chair, Powder Coated, 313 - Surgismart](https://surgismart.in/products/medvance-portable-folding-commode-chair-powder-coated-313): Medvance Commode Chair - Reliable, Comfortable, and Safe Hygiene Solution Discover the perfect blend of comfort and durability with the Medvance CRC Pipe Commode Chair. Designed to meet the highest standards of quality and safety, this commode chair is an essential addition for those seeking dependable support in their daily care routine. Key Features: Spacious Seating Area: The commode chair features a generous 17-inch wide seating area, ensuring ample space for comfortable use. Durable CRC Pipe Construction: Made from 21 gauge CRC pipe with a 19 mm outer diameter, this commode chair offers robust strength and long-lasting durability. MS Screw and Clasp: Equipped with mild steel (MS) screws and clasps, this chair ensures secure assembly and reliable performance. Anti-Slip Rubber Bush: Safety is a top priority with the anti-slip rubber bushes, providing stability and preventing accidental slips or falls during use. Virgin Grade Plastic: The seat and lid are crafted from virgin grade plastic, which is not only durable but also easy to clean, ensuring optimal hygiene. Weight Capacity: Designed to support up to 100 kg, this commode chair accommodates a wide range of users, providing strong and stable support. Why Choose the Medvance CRC Pipe Commode Chair? The Medvance CRC Pipe Commode Chair is thoughtfully designed for individuals needing additional support during their hygiene routine. Its combination of a spacious seating area, high-quality materials, and safety features makes it a reliable choice for home care. Whether used temporarily or as a permanent fixture, this commode chair delivers comfort, stability, and peace of mind. Order Now for Enhanced Comfort and Safety! Invest in your comfort and safety with the premium Medvance CRC Pipe Commode Chair. Order today and experience a product that seamlessly combines quality, durability, and convenience, making your daily hygiene routine more comfortable and secure. - Surgismart
-  Updated: 2025-08-13T07:38:20Z
+  Updated: 2025-10-15T09:37:07Z
   Vendor: Medvance Surgicals
   Product Type: Commode Chair
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/2_303fbb83-8b92-47d4-a020-8b354fc244dd.jpg?v=1751478363
   Price: ₹1,920.00 INR
 - [Buy ​Medvance Portable Folding Commode Chair, Powder Coated, 311 - Surgismart](https://surgismart.in/products/medvance-portable-folding-commode-chair-powder-coated-mi311): Medvance Commode Chair - Durable, Comfortable, and Safe Hygiene Solution Upgrade your hygiene routine with the Medvance Commode Chair, expertly designed for comfort, safety, and durability. This commode chair is an ideal choice for individuals seeking reliable support in their daily care routine. Key Features: Spacious Seating Area: The commode chair boasts a 17-inch wide seating area, providing ample space for maximum comfort during use. Durable Powder-Coated Frame: Featuring a sturdy powder-coated frame, this commode chair offers exceptional strength and longevity. The powder coating enhances corrosion resistance, ensuring the chair's durability over time. Stainless Steel Screw and Clasp: Built with stainless steel screws and clasps, the chair ensures secure assembly and dependable performance. Anti-Slip Rubber Bush: Equipped with anti-slip rubber bushes, the commode chair ensures stability and safety, preventing accidental slips or falls. Virgin-Grade Plastic: The seat and lid are made from virgin-grade plastic, offering superior durability and ease of cleaning for optimal hygiene. Weight Capacity: Designed to support up to 100 kg, this commode chair is suitable for a wide range of users, providing robust support and stability. Why Choose the Medvance Commode Chair? This commode chair is thoughtfully designed to meet the needs of individuals requiring additional support during their hygiene routine. The combination of a spacious seating area, durable materials, and safety features makes it an excellent choice for home care. Whether for temporary use or as a permanent fixture, the Medvance Commode Chair ensures comfort, reliability, and peace of mind. Order Now and Experience Enhanced Comfort and Safety! Invest in your comfort and safety with the premium Medvance Powder-Coated Commode Chair. Order now and enjoy a product that combines quality, durability, and convenience, making your daily hygiene routine easier and more comfortable. - Surgismart
-  Updated: 2025-08-13T07:38:20Z
+  Updated: 2025-10-15T09:37:08Z
   Vendor: Medvance Surgicals
   Product Type: Commode Chair
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/2_79d9bb72-78ba-4ce4-9cd4-0badb78721b3.jpg?v=1751478362
   Price: ₹1,440.00 INR
 - [Buy ​Medvance Wet Wipes for Adults (Antibacterial) - Surgismart](https://surgismart.in/products/medvance-wet-wipes-for-adults-antibacterial): Medvance Wet Wipes are a versatile and convenient solution for personal hygiene and incontinence care. Infused with anti-bacterial chlorhexidine gluconate, these disposable wipes are perfect for cleaning and freshening up your skin whenever you need it. Whether you're at home, at the office, or on the go, you can trust in the effectiveness of these wipes to keep you feeling clean and refreshed. Made with a blend of natural ingredients like aqua, glycerine, menthol, allantoin, and vitamin E, these wipes are gentle on the skin and leave you feeling moisturized and rejuvenated. The added aloe vera extract helps to soothe and calm any irritation, making them suitable for use on even the most sensitive skin. And with their refreshing fragrance, you'll feel confident and clean all day long. Whether you're using them for incontinence care or just need a quick way to freshen up, Medvance Wet Wipes are the perfect choice - Surgismart
-  Updated: 2025-09-06T23:34:13Z
+  Updated: 2025-10-15T09:37:08Z
   Vendor: Medvance Surgicals
   Product Type: 
   Availability: Available
@@ -2053,7 +2053,7 @@
     Availability: Available
     Price: ₹9,408.00 INR
 - [Buy ​Medvance Cotton Compression Stockings for Varicose Veins Class 2 (Pair) - Surgismart](https://surgismart.in/products/medvance-compression-stockings-class-ii): Immediate Relief and Comfort: Experience immediate relief from pain and swelling with Medvance Cotton Compression Stockings, specifically designed for the treatment of varicose veins. Our open-toe design in a subtle beige color offers Class 2 compression (23mmHg - 32mmHg), ensuring effective support and comfort throughout the day. Versatile Sizing: Medvance compression stockings are available in a wide range of sizes including Small, Medium, Large, X-Large, XX-Large, and XXX-Large, ensuring a perfect fit for everyone. Unisex design makes them suitable for both women and men. Premium Cotton Material: Crafted from high-quality cotton, Medvance stockings are designed to be cool in summer and warm in winter, providing year-round comfort. The breathable fabric absorbs sweat, prevents odors, and keeps your skin free from itching, irritation, and rashes. The durable cotton material guarantees long-lasting use. Perfect for Indian Climate: Specifically suited for hot and humid Indian weather, our compression stockings offer excellent breathability and moisture management, keeping your legs comfortable and dry even during extended wear. How to Wear: Check out our easy-to-follow instructional video in the images section to learn how to wear and care for your Medvance compression stockings. We provide clear washing instructions and helpful tips to ensure you get the most out of your purchase. Enhanced Features: Targeted Compression: Provides graduated compression with a uniform reduction from bottom to top, ensuring optimal support for varicose veins, spider veins, swelling, and more. Anatomical Fit: The anatomical shape offers a perfect fit and uniform compression, even on uneven limb surfaces. Silicone Top Band: Ensures no slippage and provides a secure grip for all-day comfort. Open Toe Design: Facilitates easy wearing and reduces wear and tear. Durability: Made from strong, durable materials for a long functional life. Applications: Ideal for individuals suffering from varicose veins, spider veins, swelling, or those who require daily support for improved blood circulation. Perfect for use during travel, for pregnant women, or anyone who spends long periods sitting or standing. Quality You Can Trust: At Medvance, we are committed to providing premium quality compression stockings. Our products combine natural and synthetic fibers to offer superior comfort, durability, and effectiveness, without the use of any animal products. - Surgismart
-  Updated: 2025-09-28T00:08:08Z
+  Updated: 2025-10-15T09:37:08Z
   Vendor: Medvance Surgicals
   Product Type: 
   Availability: Available
@@ -2115,7 +2115,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/7.jpg?v=1751478360
     Price: ₹1,999.00 INR
 - [Buy ​Medvance Folding Commode Chair, Stainless Steel, 135kg - Surgismart](https://surgismart.in/products/med-314-commode-chair): The Medvance Folding Commode Chair features a grade 202 stainless steel frame, anti-slip rubber bush, and a virgin grade plastic composition for a sturdy and reliable design. With a weight capacity of 135kg and a spacious 20" seating area, this chair is both durable and comfortable. - Surgismart
-  Updated: 2025-08-13T07:38:19Z
+  Updated: 2025-10-15T09:37:08Z
   Vendor: Medvance Surgicals
   Product Type: Commode Chair
   Availability: Available
@@ -2133,7 +2133,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/5_3d6a6986-f3b0-453c-9d9e-5a84ed76d608.png?v=1751478358
     Price: ₹3,600.00 INR
 - [Buy ​Medvance Portable Folding Commode Stool, Square - Surgismart](https://surgismart.in/products/med-306-commode-stool): The weight capacity for this product is up to 80-100 kg. It features a stainless steel frame (grade 202) with a seating area of 15" width. The frame is held together by rivets and clasps to ensure stability. Additionally, the stool is equipped with anti-slip rubber bushings and made from high-quality, virgin-grade plastic. - Surgismart
-  Updated: 2025-08-13T07:38:19Z
+  Updated: 2025-10-15T09:37:08Z
   Vendor: Medvance Surgicals
   Product Type: Commode Stool
   Availability: Available
@@ -2151,7 +2151,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/18.jpg?v=1751478356
     Price: ₹1,760.00 INR
 - [Buy ​Medvance Portable Folding Commode Stool, Round - Surgismart](https://surgismart.in/products/med-301-commode-stool-ms-round-white): The Medvance Portable Folding Commode Stool offers comfort and convenience for disabled or aging individuals. Made with high-quality virgin grade plastic, it provides a secure seating area for comfortable and safe use of the toilet. Ideal for both home and travel purposes. - Surgismart
-  Updated: 2025-08-13T07:38:19Z
+  Updated: 2025-10-15T09:37:08Z
   Vendor: Medvance Surgicals
   Product Type: Commode Stool
   Availability: Available
@@ -2169,133 +2169,133 @@
     Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/6_b3483cd6-a683-4444-a215-0cc6cdf707ce.jpg?v=1751478353
     Price: ₹1,520.00 INR
 - [Buy ​3M™ Littmann® Classic III™ Monitoring Stethoscope, Smoke Chestpiece, Lime Green Tube, Blue Stem,5875 - Surgismart](https://surgismart.in/products/3m™-littmann®-classic-iii™-monitoring-stethoscope-smoke-chestpiece-lime-green-tube-blue-stem-5875): - Surgismart
-  Updated: 2025-08-13T07:37:57Z
+  Updated: 2025-10-15T09:37:09Z
   Vendor: Littmann
   Product Type: Classic III™ Monitoring Stethoscope
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/61gjylg5als.jpg?v=1751478190
   Price: ₹8,999.00 INR
 - [Buy ​3M™ Littmann® Classic III™ Monitoring Stethoscope, Rainbow-Finish Chestpiece, black stem and headset, Black Tube,27 in,5870 - Surgismart](https://surgismart.in/products/3m™-littmann®-classic-iii™-monitoring-stethoscope-rainbow-finish-chestpiece-black-stem-and-headset-black-tube-27-in-5870): - Surgismart
-  Updated: 2025-08-13T07:37:57Z
+  Updated: 2025-10-15T09:37:09Z
   Vendor: Littmann
   Product Type: Classic III™ Monitoring Stethoscope
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/618vzrjlkgl.jpg?v=1751478189
   Price: ₹13,799.00 INR
 - [Buy ​3M™ Littmann® Classic III™ Monitoring Stethoscope, Smoke Chestpiece, Gray Tube, Violet Gray Stem,5873 - Surgismart](https://surgismart.in/products/3m™-littmann®-classic-iii™-monitoring-stethoscope-smoke-chestpiece-gray-tube-violet-gray-stem-5873): - Surgismart
-  Updated: 2025-09-18T22:30:17Z
+  Updated: 2025-10-15T09:37:09Z
   Vendor: Littmann
   Product Type: Classic III™ Monitoring Stethoscope
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/511wjmijlws.jpg?v=1751478188
   Price: ₹8,999.00 INR
 - [Buy ​3M™ Littmann® Classic III™ Monitoring Stethoscope, Lemon-Lime Tube, 27 in, 5839 - Surgismart](https://surgismart.in/products/3m™-littmann®-classic-iii™-monitoring-stethoscope-lemon-lime-tube-27-in-5839): - Surgismart
-  Updated: 2025-08-13T07:37:56Z
+  Updated: 2025-10-15T09:37:09Z
   Vendor: Littmann
   Product Type: Classic III™ Monitoring Stethoscope
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/6173lxvsqsl.jpg?v=1751478187
   Price: ₹9,599.00 INR
 - [Buy ​3M™ Littmann® Classic III™ Monitoring Stethoscope, Turquoise Tube 27, in, 5835 - Surgismart](https://surgismart.in/products/3m™-littmann®-classic-iii™-monitoring-stethoscope-turquoise-tube-27-in-5835): - Surgismart
-  Updated: 2025-08-13T07:37:56Z
+  Updated: 2025-10-15T09:37:09Z
   Vendor: Littmann
   Product Type: Classic III™ Monitoring Stethoscope
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/61yy9cdr5rl.jpg?v=1751478186
   Price: ₹9,599.00 INR
 - [Buy ​3M™ Littmann® Classic III™ Monitoring Stethoscope, Lavender Tube, 27, in, 5832 - Surgismart](https://surgismart.in/products/3m™-littmann®-classic-iii™-monitoring-stethoscope-lavender-tube-27-in-5832): - Surgismart
-  Updated: 2025-08-13T07:37:56Z
+  Updated: 2025-10-15T09:37:09Z
   Vendor: Littmann
   Product Type: Classic III™ Monitoring Stethoscope
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/51nuu9udqas.jpg?v=1751478186
   Price: ₹9,599.00 INR
 - [Buy ​3M™ Littmann® Classic III™ Monitoring Stethoscope, Plum Tube, 27 in, 5831 - Surgismart](https://surgismart.in/products/3m™-littmann®-classic-iii™-monitoring-stethoscope-plum-tube-27-in-5831): - Surgismart
-  Updated: 2025-08-13T07:37:56Z
+  Updated: 2025-10-15T09:37:10Z
   Vendor: Littmann
   Product Type: Classic III™ Monitoring Stethoscope
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/61chnlry-ml.jpg?v=1751478185
   Price: ₹9,599.00 INR
 - [Buy ​3M™ Littmann® Classic III™ Monitoring Stethoscope, Mirror - Finish Chestpiece, Navy Blue Tube, Smoke Stem,5863 - Surgismart](https://surgismart.in/products/3m™-littmann®-classic-iii™-monitoring-stethoscope-mirror-finish-chestpiece-navy-blue-tube-smoke-stem-5863): - Surgismart
-  Updated: 2025-08-13T07:37:56Z
+  Updated: 2025-10-15T09:37:10Z
   Vendor: Littmann
   Product Type: Classic III™ Monitoring Stethoscope
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/61q6fkijfel.jpg?v=1751478184
   Price: ₹9,526.00 INR
 - [Buy ​3M™ Littmann® Classic III™ Monitoring Stethoscope, Pearl Pink Tube, 27 in, 5633 - Surgismart](https://surgismart.in/products/3m™-littmann®-classic-iii™-monitoring-stethoscope-pearl-pink-tube-27-in-5633): - Surgismart
-  Updated: 2025-08-13T07:37:55Z
+  Updated: 2025-10-15T09:37:10Z
   Vendor: Littmann
   Product Type: Classic III™ Monitoring Stethoscope
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/31rt7g5xzfl.jpg?v=1751478184
   Price: ₹9,599.00 INR
 - [Buy ​3M™ Littmann® Classic III™ Monitoring Stethoscope, Ceil Blue Tube, 27 in, 5630 - Surgismart](https://surgismart.in/products/3m™-littmann®-classic-iii™-monitoring-stethoscope-ceil-blue-tube-27-in-5630): - Surgismart
-  Updated: 2025-09-07T09:32:04Z
+  Updated: 2025-10-15T09:36:35Z
   Vendor: Littmann
   Product Type: Classic III™ Monitoring Stethoscope
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/61969bjsvms.jpg?v=1751478183
   Price: ₹9,599.00 INR
 - [Buy ​3M™ Littmann® Classic III™ Monitoring Stethoscope, Rainbow-Finish, Caribbean Blue Tube, 27 in, 5807 - Surgismart](https://surgismart.in/products/3m™-littmann®-classic-iii™-monitoring-stethoscope-rainbow-finish-caribbean-blue-tube-27-in-5807): - Surgismart
-  Updated: 2025-09-23T06:44:38Z
+  Updated: 2025-10-15T09:36:35Z
   Vendor: Littmann
   Product Type: Classic III™ Monitoring Stethoscope
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/61eqoiyofml.jpg?v=1751478182
   Price: ₹13,799.00 INR
 - [Buy ​3M™ Littmann® Classic III™ Monitoring Stethoscope, Mirror Chestpiece, Ceil Blue Tube, Smoke Stem and Smoke Headset, 27 in, 5959 - Surgismart](https://surgismart.in/products/3m™-littmann®-classic-iii™-monitoring-stethoscope-mirror-chestpiece-ceil-blue-tube-smoke-stem-and-smoke-headset-27-in-5959): - Surgismart
-  Updated: 2025-08-13T07:37:55Z
+  Updated: 2025-10-15T09:36:35Z
   Vendor: Littmann
   Product Type: Classic III™ Monitoring Stethoscope
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/61y0ea-rvks.jpg?v=1751478181
   Price: ₹10,599.00 INR
 - [Buy ​3M™ Littmann® Classic III™ Monitoring Stethoscope, Rainbow-Finish, Raspberry Tube, 27 in, 5806 - Surgismart](https://surgismart.in/products/3m™-littmann®-classic-iii™-monitoring-stethoscope-rainbow-finish-raspberry-tube-27-in-5806): - Surgismart
-  Updated: 2025-08-13T07:37:55Z
+  Updated: 2025-10-15T09:36:35Z
   Vendor: Littmann
   Product Type: Classic III™ Monitoring Stethoscope
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/61pfbklwj3l.jpg?v=1751478181
   Price: ₹11,580.00 INR
 - [Buy ​3M™ Littmann® Classic III™ Monitoring Stethoscope, Burgundy Tube, 27 in, 5627 - Surgismart](https://surgismart.in/products/3m™-littmann®-classic-iii™-monitoring-stethoscope-burgundy-tube-27-in-5627): - Surgismart
-  Updated: 2025-08-13T07:37:54Z
+  Updated: 2025-10-15T09:36:35Z
   Vendor: Littmann
   Product Type: Classic III™ Monitoring Stethoscope
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/61gbffbhxzl.jpg?v=1751478180
   Price: ₹9,599.00 INR
 - [Buy ​3M™ Littmann® Classic III™ Monitoring Stethoscope, Navy Blue Tube, 27 in, 5622 - Surgismart](https://surgismart.in/products/3m™-littmann®-classic-iii™-monitoring-stethoscope-navy-blue-tube-27-in-5622): - Surgismart
-  Updated: 2025-08-13T07:37:54Z
+  Updated: 2025-10-15T09:36:36Z
   Vendor: Littmann
   Product Type: Classic III™ Monitoring Stethoscope
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/61bvte6enml.jpg?v=1751478179
   Price: ₹9,599.00 INR
 - [Buy ​3M™ Littmann® Classic III™ Monitoring Stethoscope, Gray Tube, 27 in, 5621 - Surgismart](https://surgismart.in/products/3m™-littmann®-classic-iii™-monitoring-stethoscope-gray-tube-27-in-5621): - Surgismart
-  Updated: 2025-08-13T07:37:54Z
+  Updated: 2025-10-15T09:36:36Z
   Vendor: Littmann
   Product Type: Classic III™ Monitoring Stethoscope
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/616jrbcywdl.jpg?v=1751478178
   Price: ₹9,599.00 INR
 - [Buy ​3M™ Littmann® Classic III™ Monitoring Stethoscope, Black Tube, 27 in, 5620 - Surgismart](https://surgismart.in/products/3m™-littmann®-classic-iii™-monitoring-stethoscope-black-tube-27-in-5620): - Surgismart
-  Updated: 2025-08-13T07:37:54Z
+  Updated: 2025-10-15T09:36:36Z
   Vendor: Littmann
   Product Type: Classic III™ Monitoring Stethoscope
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/61ejy-svgpl.jpg?v=1751478178
   Price: ₹9,599.00 INR
 - [Buy ​3M™ Littmann® Classic III™ Monitoring Stethoscope, Caribbean Blue Tube, 27 in, 5623 - Surgismart](https://surgismart.in/products/3m™-littmann®-classic-iii™-monitoring-stethoscope-caribbean-blue-tube-27-in-5623): - Surgismart
-  Updated: 2025-08-13T07:37:54Z
+  Updated: 2025-10-15T09:36:36Z
   Vendor: Littmann
   Product Type: Classic III™ Monitoring Stethoscope
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/61gvbv-zjrl.jpg?v=1751478177
   Price: ₹9,599.00 INR
 - [Buy ​Intra Cath IV Cannula - Surgismart](https://surgismart.in/products/intra-cath): I.V Cannula with wing, injection port and luer lock. Manufactured from fully automated CAD/ CAM process. Super sharp Japanese triple facetted beveled needle is designed with two cutting edges for smooth penetration. Kink resistant FEP-Teflon cannula has extremely smooth inner and outer surface to ensure smooth flow. Double tapered molded cannula tip. Transparent flashback chamber for blood detection. Sterile, individually packed in peel open blister pack. IV Cannula size ranging from 14 G to 24 G. IV Cannula color include orange, grey, green, pink, blue, and yellow IV Cannula Size and color Size Color Length EAN 14 G Orange 45 mm 18907265302100 16 G Grey 45 mm 18907265302117 18 G Green 45 mm 18907265302124 20 G Pink 32 mm 18907265302131 22 G Blue 25 mm 18907265302148 24 G Yellow 19 mm 18907265302155 Intracath Product Specifications: Brand Romsons Generic Name Intravenous Cannula with Injection Port Manufacturer Name and Address Romsons Group Private Limited 63-64, Industrial Estate, Nunhai, Agra, 282006 Best Before Best Before 5 Years From the Date of Manufacturing Mfg. License No MFG/MD/2022/000125 Drug License No. MD-42 Registration Number : RMD/DCD/HO-1475/04 MD-42 Registration Number : TN/TVR/MD42/00004 MD-42 Registration Number : MFG/KTK/113/MD-42/2023-24 - Surgismart
-  Updated: 2025-08-13T07:37:53Z
+  Updated: 2025-10-15T09:36:37Z
   Vendor: Romsons
   Product Type: Cannula
   Availability: Available
@@ -2321,14 +2321,14 @@
     Availability: Available
     Price: ₹1,687.00 INR
 - [Buy ​Neo Cath Paediatric Intra Venous Cannula - Surgismart](https://surgismart.in/products/neo-cath-paediatric-intra-venous-cannula): Paediatric Intravenous Cannula. Specially designed for peripheral intravenous infusion. Small flexible wings and absence of injection port permits easy handling and secure fixation. Provided with small projection on main body for ease of handling during insertion. Transparent flashback chamber for blood visualization. Sterile, peel open Blister Pack. Product Specifications Brand Romsons Generic Name Intra Venous Cannula Manufactured By Name and Address Romsons Group Private Limited 63-64, Industrial Estate, Nunhai, Agra- 282006 (U.P.) India Best Before Best Before 5 Years From the Date of Manufacturing Manufacturing License MFG/MD/2022/000572 EAN 18907265302902 Drug License No. MD-42 Registration Number : RMD/DCD/HO-1475/04 MD-42 Registration Number : TN/TVR/MD42/00004 MD-42 Registration Number : MFG/KTK/113/MD-42/2023-24 - Surgismart
-  Updated: 2025-08-23T09:29:46Z
+  Updated: 2025-10-15T09:36:37Z
   Vendor: Romsons
   Product Type: Cannula
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/DSC03670-Edit.jpg?v=1751478175
   Price: ₹1,803.00 INR
 - [Buy ​Triflon Intra Venous Cannula - Surgismart](https://surgismart.in/products/triflon-gs-3006): I.V Cannula with Integrated 3-Way Stop Cock. Facilitates simultaneous infusion of fluids or additional medication. 3-way stop cock handle ensures smooth movement and facilitates easy line selection. Facilitates multiple lines through single IV access. Rigid and sturdy design with flexible wings for convenient maneuvering. Three radio-opaque stripes on cannula for X-Ray visualization. Color coded tap to identify the desired direction of flow. Sterile, individually packed in peel open blister pack. Box of 50 Pieces Product Specifications: Brand Romsons Generic Name Intravenous Cannula Manufacturer Name and Address Romsons Group Private Limited 63-64, Industrial Estate, Nunhai, Agra, 282006 Best Before Best Before 5 Years From the Date of Manufacturing Mfg. License No MFG/MD/2022/000125 EAN 18907265300618 Drug License No. MD-42 Registration Number : RMD/DCD/HO-1475/04 MD-42 Registration Number : TN/TVR/MD42/00004 MD-42 Registration Number : MFG/KTK/113/MD-42/2023-24 - Surgismart
-  Updated: 2025-08-13T07:37:53Z
+  Updated: 2025-10-15T09:36:37Z
   Vendor: Romsons
   Product Type: IV Cannula
   Availability: Available
@@ -2344,21 +2344,21 @@
     Availability: Available
     Price: ₹696.00 INR
 - [Buy ​Micron Paediatric Intra Venous Cannula - Surgismart](https://surgismart.in/products/micron-gs-3031): Neo-Natal I.V. Cannula. Specially designed for peripheral intravenous infusion. Exceptionally Designed clips for better maneuvering. Special, fine and smooth design for use in neonates to deal with the specific problems associated with small and soft vein cannulation. Main body is specially designed with projection for low point gap to facilitate better insertion. Small flexible wings and absence of injection port permits easy handling and secure fixation. Transparent flashback chamber for blood visualization. Sterile, peel open Blister Pack. Box of 100/ Master Box of 2400. Size - 26G Color - Violet length -19 mm Pack - 100 unit Product Specifications Brand Romsons Generic Name Intra Venous Cannula Manufactured By Name and Address Romsons Group Private Limited 63-64, Industrial Estate, Nunhai, Agra- 282006 (U.P.) India Best Before Best Before 5 Years From the Date of Manufacturing Manufacturing License MFG/MD/2022/000125 EAN 18907265303107 Drug License No. MD-42 Registration Number : RMD/DCD/HO-1475/04 MD-42 Registration Number : TN/TVR/MD42/00004 MD-42 Registration Number : MFG/KTK/113/MD-42/2023-24 - Surgismart
-  Updated: 2025-08-13T07:37:53Z
+  Updated: 2025-10-15T09:36:37Z
   Vendor: Romsons
   Product Type: Cannula
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/DSC03666-Edit.jpg?v=1751478174
   Price: ₹2,447.00 INR
 - [Buy ​Neo Care Paediatric Intra Venous Cannula - Surgismart](https://surgismart.in/products/neocare-gs-3211): Premium Paediatric Intravenous Cannula. Fine and smooth design for use in infants to deal with specific problems associated with small and soft vein cannulation. Provided with wing cover that assists during the insertion of cannula. Enhanced design, enables better grip and manoeuvrability during penetration. Suitable for subjects with capillary brittleness, where a non-traumatic and delicate needle is a requirement. Ergonomically shaped clip for better grip and control. Small flexible wings and absence of injection port permits easy handling, maneuvering and secure fixation. Transparent flashback chamber for blood visualization. Sterile, peel open blister pack, with tyvek Lid. Box of 50/ Master Box of 1000. Size/Color - 24G :Yellow Length - 19 mm Product Specifications: Brand Romsons Generic Name Intravenous Cannula without Injection Port Manufacturer Name and Address Romsons Group Private Limited 63-64, Industrial Estate, Nunhai, Agra, 282006 Best Before Best Before 5 Years From the Date of Manufacturing Mfg. License No MFG/MD/2022/000125 EAN 18907265321101 Drug License No. MD-42 Registration Number : RMD/DCD/HO-1475/04 MD-42 Registration Number : TN/TVR/MD42/00004 MD-42 Registration Number : MFG/KTK/113/MD-42/2023-24 - Surgismart
-  Updated: 2025-09-06T02:46:02Z
+  Updated: 2025-10-15T09:36:37Z
   Vendor: Romsons
   Product Type: Cannula
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/DSC03636-Edit.jpg?v=1751478174
   Price: ₹1,919.00 INR
 - [Buy ​Veneport IV Cannula - Surgismart](https://surgismart.in/products/veneport-gs-3210): Premium I.V Cannula. State of the art mechanized manufacturing process of cannula tip ensures easy insertion. Robust, evenly oriented, sharp, triple facetted beveled needle ensures least trauma and reliable insertion. Ergonomically designed injection port. Bio-compatible cannula material enhances in-dwelling time and ensures low rate of phlebitis. Ergonimically designed luer lock cap facilitates instant secure closure immediately after penetration. Sterile, individually packed in blister pack with tyvek lid. Box of 50/ Master Box of 500. Size Color Length EAN 18 G Green 45 mm 18907265321002 20 G Pink 32 mm 18907265321019 22 G Blue 25 mm 18907265321026 Product Specifications: Brand Romsons Generic Name Intravenous Cannula with Injection Port Manufacturer Name and Address Romsons Group Private Limited 63-64, Industrial Estate, Nunhai, Agra, 282006 Best Before Best Before 5 Years From the Date of Manufacturing Mfg. License No MFG/MD/2022/000125 Drug License No. MD-42 Registration Number : RMD/DCD/HO-1475/04 MD-42 Registration Number : TN/TVR/MD42/00004 MD-42 Registration Number : MFG/KTK/113/MD-42/2023-24 - Surgismart
-  Updated: 2025-08-13T07:37:52Z
+  Updated: 2025-10-15T09:36:37Z
   Vendor: Romsons
   Product Type: 
   Availability: Available
@@ -2375,28 +2375,28 @@
     Availability: Available
     Price: ₹1,224.00 INR
 - [Buy ​Bi-Valve Three Way Stop Cock - Surgismart](https://surgismart.in/products/bi-valve-three-way-stop-cock): Three Way Stop Cock. Specially designed lipid resistant 3-way stop cock with smooth tap rotation suitable during pressure infusion and invasive blood pressure monitoring. Made from clear, transparent polycarbonate which facilitates easy visualization of fluid flow. Rigid construction with circular flow channel prevents air entrapment. Smooth three arm handle is easy to operate and indicates fluid path. Minimum residual volume and uniform bore ensures maximum flow and minimum turbulence. Provided with two female luer lock ports and one male luer lock port. Male luer lock with rotating nut prevents accidental disconnection. Screw luer lock ensures safe and secure connection to other standard luers. Universal luer taper facilitates leak proof connection. Sterile, individually packed in blister pack Product Specifications: Brand Romsons Generic Name 3 Way Stop Cock (An Accessory To Perfusion Sets) Manufacturer Name and Address Romsons Group Private Limited 63-64, Industrial Estate, Nunhai, Agra, 282006 Best Before Best Before 5 Years From the Date of Manufacturing Mfg. License No MFG/MD/2022/000125 EAN 18907265304005 Drug License No. MD-42 Registration Number : RMD/DCD/HO-1475/04 MD-42 Registration Number : TN/TVR/MD42/00004 MD-42 Registration Number : MFG/KTK/113/MD-42/2023-24 - Surgismart
-  Updated: 2025-08-19T14:49:14Z
+  Updated: 2025-10-15T09:36:38Z
   Vendor: Romsons
   Product Type: 3 Way Stop Cock
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/romsons-bi-valve-three-way-stop-cock-500x500.webp?v=1751478172
   Price: ₹902.00 INR
 - [Buy ​Exxacta Three Way Stop Cock - Surgismart](https://surgismart.in/products/exxacta-gs-3146): Specially designed three way stop cock with smooth rotation, suitable during pressure infusion and invasive blood pressure monitoring. Compatible with lipid/ emulsions/ most pharmaceutics. Made up of clear, transparent polymer. Rigid construction with circular flow channel prevents air entrapment. Universal 6% male/ female luer taper facilitates leak proof connections with corresponding devices. Male luer lock with ergonomically designed rotating nut prevents accidental disconnection of the line. Residual volume, not more than 0.20 ml, sustains line pressure upto 5 bar. Sterile ; Box of 50/ Master Box of 1000. Product Specifications: Brand Romsons Generic Name Three Way Stop Cock Manufacturer Name and Address Romsons Group Private Limited 62,63, 64, 65, 155 & 156 Industrial Estate, Nunhai, Agra, 282006 Best Before Best Before 5 Years From the Date of Manufacturing Mfg. License No MFG/MD/2022/000125 EAN 18907265314608 Drug License No. MD-42 Registration Number : RMD/DCD/HO-1475/04 MD-42 Registration Number : TN/TVR/MD42/00004 MD-42 Registration Number : MFG/KTK/113/MD-42/2023-24 - Surgismart
-  Updated: 2025-09-22T22:28:54Z
+  Updated: 2025-10-15T09:36:38Z
   Vendor: Romsons
   Product Type: 3 Way Stop Cock
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/Exxacta.jpg?v=1751478172
   Price: ₹1,082.00 INR
 - [Buy ​Soflene IV Cannula Fixator - Surgismart](https://surgismart.in/products/soflene-gs-3202): I.V. Cannula Fixator. Skin coloured, soft breathable fabric. Flexible and gentle to the skin. Ergonomically shaped. Keeps the cannula site secure, clean, tidy and prevents any infection. Adequate adhesion to the skin due to hypoallergenic adhesive quality. Easy to peel-free from skin after use. Sterile, individually packed. Box of 50 Pieces Size - 5*6 cm Product Specifications: Brand Romsons Generic Name IV Cannula Fixator Manufacturer Name and Address Romsons Group Private Limited 62,63, 64, 65, 155 & 156 Industrial Estate, Nunhai, Agra, 282006 Best Before Best Before 3 Years From the Date of Manufacturing Mfg. License No MFG/MD/2022/000125 EAN 18907265320203 Drug License No. MD-42 Registration Number : RMD/DCD/HO-1475/04 MD-42 Registration Number : TN/TVR/MD42/00004 MD-42 Registration Number : MFG/KTK/113/MD-42/2023-24 - Surgismart
-  Updated: 2025-08-13T07:37:52Z
+  Updated: 2025-10-15T09:36:38Z
   Vendor: Romsons
   Product Type: Cannula Fixator
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/Soflene.jpg?v=1751478171
   Price: ₹927.00 INR
 - [Buy ​Vein-O-Line Extension Sets - Surgismart](https://surgismart.in/products/vein-o-line-gs-3034): Low pressure large bore extension line made up of PVC. Used primarily to connect the transducer system to the indwelling catheter. Male luer lock at one end and 3-way stop cock at other enabling the user to run two lines simultaneously. Three way stop cock may be used for blood sampling or extra medication. Can sustain a pressure upto 7 kg/ cm² or 100 psi. Sterile, individually packed in Blister pack. Product Specifications: Brand Romsons Generic Name Extension Line With Male Luer Lock And 3 Way Stop Cock Manufacturer Name and Address Romsons Group Private Limited 63-64, Industrial Estate, Nunhai, Agra, 282006 Best Before Best Before 5 Years From the Date of Manufacturing Mfg. License No MFG/MD/2022/000125 EAN 18907265303428 Drug License No. MD-42 Registration Number : RMD/DCD/HO-1475/04 MD-42 Registration Number : TN/TVR/MD42/00004 MD-42 Registration Number : MFG/KTK/113/MD-42/2023-24 - Surgismart
-  Updated: 2025-08-27T18:09:40Z
+  Updated: 2025-10-15T09:36:38Z
   Vendor: Romsons
   Product Type: Extension Line
   Availability: Available
@@ -2418,28 +2418,28 @@
     Availability: Available
     Price: ₹904.00 INR
 - [Buy ​Vein-O-Line Extension Set (10 cm) - Surgismart](https://surgismart.in/products/vein-o-line-extension-set-10-cm): Low pressure large bore extension line made up of PVC. Used primarily to connect the transducer system to the indwelling catheter. Male luer lock at one end and 3-way stop cock at other enabling the user to run two lines simultaneously. Three way stop cock may be used for blood sampling or extra medication. Can sustain a pressure upto 7 kg/ cm² or 100 psi. Sterile, individually packed in Blister pack. Product Specifications: Brand Romsons Generic Name Extension Line With Male Luer Lock And 3 Way Stop Cock Manufacturer Name and Address Romsons Group Private Limited 63-64, Industrial Estate, Nunhai, Agra, 282006 Best Before Best Before 5 Years From the Date of Manufacturing Mfg. License No MFG/MD/2022/000125 EAN 18907265303404 Drug License No. MD-42 Registration Number : RMD/DCD/HO-1475/04 MD-42 Registration Number : TN/TVR/MD42/00004 MD-42 Registration Number : MFG/KTK/113/MD-42/2023-24 - Surgismart
-  Updated: 2025-08-13T07:37:51Z
+  Updated: 2025-10-15T09:36:38Z
   Vendor: Romsons
   Product Type: Extension Line
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/vein_o_line_a312d3ab-184c-4a8b-a7e9-31c92993688f.png?v=1751478170
   Price: ₹1,642.00 INR
 - [Buy ​RMS Infusion Set - Surgismart](https://surgismart.in/products/rms-infusion-set): Sharp piercing spike for easy insertion in I.V container. Infusion set with built in air vent and bacteria barrier hydrophobic filter. Specially designed transparent cylindrical collapsible drip chamber to visualize the flow rate. Disc type 15μm fluid filter at the bottom of drip chamber filters any particulate matter in the I.V fluid. Provided with latex free “Y” type injection port made up of poly isoprene for additional medication. Efficient roller controller ensures better flow control. Provided with super smooth kink resistant tube for unobstructed flow. Fixed Luer lock for secure connection to all standard devices. Sterile, disposable, non-pyrogenic, individually packed. Product Specifications: Brand Romsons Generic Name Infusion Set Manufacturer Name and Address Romsons Group Private Limited Plant-2, C-1 & C-2, Foundry Nagar, Agra-282006 Best Before Best Before 5 Years From the Date of Manufacturing Mfg. License No MFG/MD/2021/000151 EAN 18907265306207 Drug License No. MD-42 Registration Number : RMD/DCD/HO-1475/04 MD-42 Registration Number : TN/TVR/MD42/00004 MD-42 Registration Number : MFG/KTK/113/MD-42/2023-24 - Surgismart
-  Updated: 2025-08-13T07:37:51Z
+  Updated: 2025-10-15T09:36:38Z
   Vendor: Romsons
   Product Type: Infusion Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/romsons-iv-set-non-vented-one-piece-360x360.jpg?v=1751478169
   Price: ₹802.00 INR
 - [Buy ​Pedia Drip Plus Infusion Set ( Pedia Drip Set ) - Surgismart](https://surgismart.in/products/pedia-drip-plus-infusion-set): Specialized measured volume set made up of DEHP free material. Equipped with a micro drip with reduced drop size of 60 drops per ml. Provided with a burette type chamber of 100 ml capacity with 10 ml overflow limit. Burette chamber is made of bio-compatible medical grade transparent styrene polymer, suitable for infusing all types of fluids. Patent design hanger facilitates hanging on the I.V. stand. Unique floating auto shut off valve acts as a floating indicator and automatically shuts off the drain path to prevent the passage of air in the line. No-kink device prevents kinking of tube during transportation and transfers. Separate plugs for extra medication and change over. Sterile, individually packed. Pedia Drip Set Product Specifications: Brand Romsons Generic Name Measured Volume IV Set Manufacturer Name and Address Romsons Group Private Limited Plant-2, C-1 & C-2, Foundry Nagar, Agra-282006 Best Before Best Before 5 Years From the Date of Manufacturing Mfg. License No MFG/MD/2021/000151 EAN 18907265305705 Drug License No. MD-42 Registration Number : RMD/DCD/HO-1475/04 MD-42 Registration Number : TN/TVR/MD42/00004 MD-42 Registration Number : MFG/KTK/113/MD-42/2023-24 - Surgismart
-  Updated: 2025-08-27T03:55:28Z
+  Updated: 2025-10-15T09:36:38Z
   Vendor: Romsons
   Product Type: Infusion Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/DSC03845-Edit.jpg?v=1751478169
   Price: ₹684.00 INR
 - [Buy ​RMS Vented Infusion Set - Surgismart](https://surgismart.in/products/rms-vented-infusion-set-ss-3060): Romsons RMS Vented Infusion Set is a high-quality medical device designed for safe and efficient administration of fluids to patients. This infusion set features a vented spike that allows for the easy flow of fluids, ensuring a smooth and controlled delivery. The set also includes a drip chamber that allows accurate monitoring of the fluid flow rate. Sharp piercing spike for easy insertion in I.V container. Infusion set with built in air vent and bacteria barrier hydrophobic filter. Specially designed transparent cylindrical collapsible drip chamber to visualize the flow rate. Disc type 15μm fluid filter at the bottom of drip chamber filters any particulate matter in the I.V fluid. Provided with latex free “Y” type injection port made up of poly isoprene for additional medication. Efficient roller controller ensures better flow control. Provided with super smooth kink resistant tube for unobstructed flow. Fixed Luer lock for secure connection to all standard devices. Sterile, disposable, non-pyrogenic, individually packed. Polybag of 25/ Master Box of 500. Product Specifications: Brand Romsons Generic Name Infusion Set Manufacturer Name and Address Romsons Group Private Limited Plant-2, C-1 & C-2, Foundry Nagar, Agra-282006 Best Before Best Before 5 Years From the Date of Manufacturing Mfg. License No MFG/MD/2021/000151 EAN 8907265306002 Drug License No. MD-42 Registration Number : RMD/DCD/HO-1475/04 MD-42 Registration Number : TN/TVR/MD42/00004 MD-42 Registration Number : MFG/KTK/113/MD-42/2023-24 - Surgismart
-  Updated: 2025-09-13T08:32:52Z
+  Updated: 2025-10-15T09:36:39Z
   Vendor: Romsons
   Product Type: Infusion Set
   Availability: Available
@@ -2455,14 +2455,14 @@
     Availability: Available
     Price: ₹840.00 INR
 - [Buy ​Steri Flo Infusion Set - Surgismart](https://surgismart.in/products/steriflo-plus-ss-3308): Premium Infusion Set. Manufactured from safe material to be used in all kinds of patients without any associated complications. Sharp spike is provided for better penetration in all types of fluid containers. Vented set with microbial barrier air vent filter. Large drip chamber ensures better grip. 15µm disc type fluid filter to prevent entry of any particulate matter. Equipped with specially designed “Y” injection port made up of isoprene, having re-sealing property for additional medication. Smooth kink resistant tube with efficient roller controller for unrestricted flow. New advanced rotating luer lock at distal end. Provided with an innovative prime stop, with hydrophobic membrane placed on the luer lock fitting that stops fluid dripping on the floor. Sterile, disposable, non-pyrogenic, individually blister packed. Box of 10/ Master Box of 200. Tube Length - 150 CM | Drop Rate - 20 Drops/ml Product Specifications: Brand Romsons Generic Name Infusion Set Manufacturer Name and Address Romsons Group Private Limited 63-64, Industrial Estate, Nunhai, Agra, 282006 Best Before Best Before 5 Years From the Date of Manufacturing Mfg. License No MFG/MD/2021/000151 EAN 18907265307709 Drug License No. MD-42 Registration Number : RMD/DCD/HO-1475/04 MD-42 Registration Number : TN/TVR/MD42/00004 MD-42 Registration Number : MFG/KTK/113/MD-42/2023-24 - Surgismart
-  Updated: 2025-08-13T07:37:50Z
+  Updated: 2025-10-15T09:36:39Z
   Vendor: Romsons
   Product Type: Infusion Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/Steriflow.jpg?v=1751478168
   Price: ₹634.00 INR
 - [Buy ​Intera Kit - Surgismart](https://surgismart.in/products/intera-kit): I.V Infusion kit. Convenient kit for quick and easy administration of intravenous infusion to a patient in an emergency setting. Kit contains all the items needed to facilitate intravenous delivery. Each item is individually wrapped, conveniently assembled and packed. Sterile, individually packed ; Box of 10/ Master Box of 200. KIT CONSISTS OF : Infusion set : Standard non-vented I.V cannula : 18, 20, 22 G I.V. cannula fixator : 5 x 6 cm Syringe with needle : 5 ml (24 NG x 1″) Alcohol swab : 45 x 50 mm Cannula site protection tab : Standard Product Specifications: Brand Romsons Generic Name I. V. Infusion Kit Manufacturer Name and Address Romsons Group Private Limited 63-64, Industrial Estate, Nunhai, Agra, 282006 Best Before Best Before 5 Years From the Date of Manufacturing Mfg. License No 17/SC/P of 1990 EAN 18907265310327 Drug License No. MD-42 Registration Number : RMD/DCD/HO-1475/04 MD-42 Registration Number : TN/TVR/MD42/00004 MD-42 Registration Number : MFG/KTK/113/MD-42/2023-24 - Surgismart
-  Updated: 2025-08-13T07:37:50Z
+  Updated: 2025-10-15T09:36:39Z
   Vendor: Romsons
   Product Type: 
   Availability: Available
@@ -2478,14 +2478,14 @@
     Availability: Available
     Price: ₹700.00 INR
 - [Buy ​Feeding Bag - Surgismart](https://surgismart.in/products/feeding-bag): Specially designed 1.2 Lit. capacity bag for feeding purpose. An ice pouch is provided with the bag for preserving the food for longer period. A transfer set is directly connected to the bag for easy feeding. Roller controller is provided to control the flow at which food is going to the patient. A hanger is provided with bag for easy handling. Sterile, individually packed in peelable pouch. Product Specifications: Brand Romsons Generic Name Feeding Bag Manufacturer Name and Address Romsons Group Private Limited 63-64, Industrial Estate, Nunhai, Agra, 282006 Best Before Best Before 5 Years From the Date of Manufacturing Mfg. License No MFG/MD/2022/000125 EAN 18907265402800 Drug License No. MD-42 Registration Number : RMD/DCD/HO-1475/04 MD-42 Registration Number : TN/TVR/MD42/00004 MD-42 Registration Number : MFG/KTK/113/MD-42/2023-24 - Surgismart
-  Updated: 2025-08-13T07:37:50Z
+  Updated: 2025-10-15T09:36:39Z
   Vendor: Romsons
   Product Type: Feeding Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/feeding_bag.png?v=1751478166
   Price: ₹1,788.00 INR
 - [Buy ​Feedy Infant Feeding Tube - Surgismart](https://surgismart.in/products/feedy): Infant feeding tube with graduation Made from DEHP Free, non-toxic PVC material completely non-irritant to delicate mucosa. The tube features low friction, super smooth frozen surface ensuring non-traumatic intubation. The tube is marked at every cm starting from tip at 5cm to 40cm to enable accurate placement. Distal end of the tube is coned for smooth intubation and equipped with two lateral eyes for efficient drainage and administration. Proximal end is provided with female luer mount for easy connection to feeding funnel or syringe. Radio-opaque line facilitates accurate tube placement. Color coded for immediate size identification. Sterile, straight packed in peelable soft blister pack. Product Specifications Brand Romsons Generic Name Feeding Tube Manufactured By Name and Address Romsons Group Private Limited 63-64, Industrial Estate, Nunhai, Agra- 282006 (U.P.) India Best Before Best Before 5 Years From the Date of Manufacturing Manufacturing License MFG/MD/2022/000125 EAN 8907265403824 Drug License No. MD-42 Registration Number : RMD/DCD/HO-1475/04 MD-42 Registration Number : TN/TVR/MD42/00004 MD-42 Registration Number : MFG/KTK/113/MD-42/2023-24 - Surgismart
-  Updated: 2025-10-03T19:33:07Z
+  Updated: 2025-10-15T09:36:39Z
   Vendor: Romsons
   Product Type: Feeding Tube
   Availability: Available
@@ -2504,7 +2504,7 @@
     Availability: Available
     Price: ₹992.00 INR
 - [Buy ​Romolene Ryles Tube - Surgismart](https://surgismart.in/products/romolene): Nasogastric tube / Ryle's tube. The tube is marked at 50, 60 and 70 cm from the tip for accurate placement. Designed for introduction of nutrition and aspiration of gastric contents. Made up of non-toxic, non-irritant and kink resistant medical grade PVC. Super smooth, low friction, frozen surface facilitates atraumatic intubation. Four lateral eyes are provided for efficient aspiration and administration. Smooth outer surface also ensures to reduce chances of tissue irritation. Distal end is coned with radio opaque material for easy intubation. Patented soft dual port connector at the proximal end to fit easily with the syringe or feeding bag. Radio-opaque line for X-ray visualization. Colour coded for instant size identification. Sterile, Individually packed in peelable soft blister pack. Product Specifications: Brand Romsons Generic Name Enteral Feeding Catheter Manufacturer Name and Address Romsons Group Private Limited 63-64, Industrial Estate, Nunhai, Agra, 282006 Best Before Best Before 5 Years From the Date of Manufacturing Mfg. License No MFG/MD/2022/000125 EAN 18907265403265 Drug License No. MD-42 Registration Number : RMD/DCD/HO-1475/04 MD-42 Registration Number : TN/TVR/MD42/00004 MD-42 Registration Number : MFG/KTK/113/MD-42/2023-24 - Surgismart
-  Updated: 2025-08-13T07:37:50Z
+  Updated: 2025-10-15T09:36:39Z
   Vendor: Romsons
   Product Type: Feeding Tube
   Availability: Available
@@ -2517,14 +2517,14 @@
     Availability: Available
     Price: ₹973.00 INR
 - [Buy ​Electraa Electro-Surgical Pencil - Surgismart](https://surgismart.in/products/electraa-electro-surgical-pencil): Electro-Surgical Pencil with Tip Cleaner. Provided with 3.1 mtr cable and three pin socket. Ergonomically designed surface for comfort gripping that reduces any slipping when used in wet conditions. Unique combination of ‘Cut’ and ‘Coag’ mode facilitates controlled dissection with imposed hemostasis and also offers least tissue drag. Individually packed in peelable pack. Sterile, ready for use. Product Specifications: Brand Romsons Generic Name Electro-Surgical Pencil Manufacturer Name and Address Romsons Group Private Limited 63-64, Industrial Estate, Nunhai, Agra, 282006 Best Before Best Before 5 Years From the Date of Manufacturing Mfg. License No MFG/MD/2022/000125 EAN 18907265603801 Drug License No. MD-42 Registration Number : RMD/DCD/HO-1475/04 MD-42 Registration Number : TN/TVR/MD42/00004 MD-42 Registration Number : MFG/KTK/113/MD-42/2023-24 - Surgismart
-  Updated: 2025-08-13T07:37:49Z
+  Updated: 2025-10-15T09:36:40Z
   Vendor: Romsons
   Product Type: Surgical Skin Marker & Pencil
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/Electraa.png?v=1751478164
   Price: ₹1,546.00 INR
 - [Buy ​Cee Tee Suction Catheter - Surgismart](https://surgismart.in/products/cee-tee-cath): The Romsons CEE TEE Cath Suction Catheter comes with a Thumb control - It has an ultra soft surface which ensures smooth suctioning and minimal trauma - The catheter is available in the sizes of 08FG, 10FG, 12FG, 14FG - They come in a standard packing of 100 units per box - The Romsons CEE TEE Cath Suction Catheter comes with a Thumb control - It has an ultra soft surface which ensures smooth suctioning and minimal trauma - The catheter is available in the sizes of 08FG, 10FG, 12FG, 14FG - They come in a standard packing of 100 units per box Product Specifications Brand Romsons Generic Name Suction Catheter Manufactured By Name and Address Romsons Group Private Limited 63-64, Industrial Estate, Nunhai, Agra- 282006 (U.P.) India Best Before Best Before 5 Years From the Date of Manufacturing Manufacturing License MFG/MD/2022/000125 EAN 8907265200713 License No. MD-42 Registration Number: RMD/DCD/HO-1475/04 MD-42 Registration Number: TN/TVR/MD42/00004 MD-42 Registration Number: MFG/KTK/113/MD-42/2023-24 - Surgismart
-  Updated: 2025-08-13T07:37:49Z
+  Updated: 2025-10-15T09:36:40Z
   Vendor: Romsons
   Product Type: Catheters
   Availability: Available
@@ -2543,7 +2543,7 @@
     Availability: Available
     Price: ₹1,400.00 INR
 - [Buy ​Suction Catheter Plain - Surgismart](https://surgismart.in/products/suction-catheter-plain-gs-2006): Oro-bronchial catheter to remove respiratory secretions from a patient’s airway to keep it clear. Suitable for removal of secretions from mouth, trachea and bronchial tubes. Provided with universal funnel shaped connector. Atraumatic, soft-rounded distal end is open with one lateral eye to avoid trauma during suctioning. Frozen surface catheter tubing for smooth intubation. Sterile : Box of 100 Product Specifications: Brand Romsons Generic Name Suction Catheter Manufacturer Name and Address Romsons Group Private Limited 63-64, Industrial Estate, Nunhai, Agra, 282006 Best Before Best Before 5 Years From the Date of Manufacturing Mfg. License No MFG/MD/2022/000125 EAN 18907265200628 License No. MD-42 Registration Number : RMD/DCD/HO-1475/04 MD-42 Registration Number : TN/TVR/MD42/00004 MD-42 Registration Number : MFG/KTK/113/MD-42/2023-24 - Surgismart
-  Updated: 2025-08-13T07:37:49Z
+  Updated: 2025-10-15T09:36:40Z
   Vendor: Romsons
   Product Type: Catheters
   Availability: Available
@@ -2568,7 +2568,7 @@
     Availability: Available
     Price: ₹1,198.00 INR
 - [Buy ​Aero Neb Mask - Surgismart](https://surgismart.in/products/romsons-aero-neb-nebulizing-mask-adult-sh-2086): Soft clear Aerosol mask provided with wide adjustable strap for proper positioning on the nasal area. Rotating type connector for patient s comfort. Large surface area provided by unique convex cone design, ensures maximum capillary action. Jet action aids in faster nebulization & maximum utilization of costly medicines. Nebulizes 3 cc medicine within 10 minutes. Angular connection of nebulizer chamber with mask enables to nebulize the patient even in supine position, ensuring no wastage of medicines. Kit consist of Jet type large nebulizer chamber with Mask and 200 cm long multichannel tubing. Product Specifications: Brand Romsons Generic Name Nebulizer Accessories Kit Manufacturer Name and Address Romsons Group Private Limited Plant-4, E-18, 19, 20, Foundry Nagar, Agra-282006 Best Before Best Before 5 Years From the Date of Manufacturing Mfg. License No MFG/MD/2022/000420 EAN 18907265208631 Drug License No. MD-42 Registration Number : RMD/DCD/HO-1475/04 MD-42 Registration Number : TN/TVR/MD42/00004 MD-42 Registration Number : MFG/KTK/113/MD-42/2023-24 - Surgismart
-  Updated: 2025-08-13T07:37:49Z
+  Updated: 2025-10-15T09:36:40Z
   Vendor: Romsons
   Product Type: Aero Neb Mask
   Availability: Available
@@ -2581,7 +2581,7 @@
     Availability: Available
     Price: ₹773.00 INR
 - [Buy ​Micro Sol Nebulizing Mask - Surgismart](https://surgismart.in/products/romsons-micro-sol-sh-2412): Advanced Nebulizing Mask. Soft clear aerosol mask provided with adjustable strap for properpositioning on the nasal area. The swivel connector provides maximum patient comfort. Angular connector helps in nebulizing the patient even in supineposition ensuring no loss of medicine. Jet nebulizer with fine aerosol particles. Easy thumb operated valve at top for faster nebulization if needed. Nebulizes 3cc within 10 minute Product Specifications: Brand Romsons Generic Name Aerosol Mask with Jet Nebulizer Manufacturer Name and Address Romsons Group Private Limited Plant-4, E-18, 19, 20, Foundry Nagar, Agra-282006 Best Before Best Before 5 Years From the Date of Manufacturing Mfg. License No MFG/MD/2022/000125 EAN 18907265241225 Drug License No. MD-42 Registration Number : RMD/DCD/HO-1475/04 MD-42 Registration Number : TN/TVR/MD42/00004 MD-42 Registration Number : MFG/KTK/113/MD-42/2023-24 - Surgismart
-  Updated: 2025-08-13T07:37:48Z
+  Updated: 2025-10-15T09:36:40Z
   Vendor: Romsons
   Product Type: Oxygen Mask
   Availability: Available
@@ -2594,7 +2594,7 @@
     Availability: Available
     Price: ₹734.00 INR
 - [Buy ​Flexi Mask 2Mtr Oxygen Mask - Surgismart](https://surgismart.in/products/romsons-flexi-oxygen-face-mask-sh-2020): Flexi Mask is designed for convenient oxygen therapy.Moulded face mask is manufactured from non-toxic, non irritant medical grade PVC.Provided with adjustable elastic strap for proper positioning of mask on the nasal area.Swivel connector for convenience of attachment to the oxygen tube. 210 cm Product Specifications: Brand Romsons Generic Name Rebreathing Oxygen Face Mask Manufacturer Name and Address Romsons Group Private Limited 63-64, Industrial Estate, Nunhai, Agra, 282006 Best Before Best Before 5 Years From the Date of Manufacturing Mfg. License No MFG/MD/2022/000283 EAN 18907265202059 Drug License No. MD-42 Registration Number : RMD/DCD/HO-1475/04 MD-42 Registration Number : TN/TVR/MD42/00004 MD-42 Registration Number : MFG/KTK/113/MD-42/2023-24 - Surgismart
-  Updated: 2025-09-15T03:47:38Z
+  Updated: 2025-10-15T09:36:40Z
   Vendor: Romsons
   Product Type: Oxygen Mask
   Availability: Available
@@ -2610,7 +2610,7 @@
     Availability: Available
     Price: ₹995.00 INR
 - [Buy ​Hi-Mask (Oxygen Mask) - Surgismart](https://surgismart.in/products/hi-mask-sh-2044): Intended for High Concentration Oxygen Therapy. Equipped with soft, transparent and odour free mask for greater patient comfort. Non-return valves provided at inhale and exhale points, prevents carbon dioxide retention. Light weight reservoir improves the oxygen efficiency and patient comfort. Product Specifications: Brand Romsons Generic Name Non-Rebreathing Oxygen Face Mask Manufacturer Name and Address Romsons Group Private Limited Plant-4, E-18, 19, 20, Foundry Nagar, Agra-282006 Best Before Best Before 5 Years From the Date of Manufacturing Mfg. License No MFG/MD/2022/000283 EAN 18907265204428 Drug License No. MD-42 Registration Number : RMD/DCD/HO-1475/04 MD-42 Registration Number : TN/TVR/MD42/00004 MD-42 Registration Number : MFG/KTK/113/MD-42/2023-24 - Surgismart
-  Updated: 2025-08-13T07:37:48Z
+  Updated: 2025-10-15T09:36:41Z
   Vendor: Romsons
   Product Type: Oxygen Mask
   Availability: Available
@@ -2623,7 +2623,7 @@
     Availability: Available
     Price: ₹1,455.00 INR
 - [Buy ​Aero Mist Nebulizer Cup & Mask Set - Surgismart](https://surgismart.in/products/romsons-aero-mist-nebulizer-cup-mask-set-pack-of-3): The Romsons Aero Mist Nebulizer Cup & Mask Set has a larger surface area provided by unique convex cone design, ensures maximum capillary action and eliminates medication wastage. Gently rolled, feathered edges with nose bridges for extra comfort. Rotating type connector for patient’s comfort. Larger surface area provided by unique convex cone design, ensures maximum capillary action and eliminates medication wastage. Nebulizes 3 cc within 10 minutes in horizontal or vertical position ensuring patient comfort. Product Specifications Brand Romsons Generic Name Nebulizer Accessories Kit Manufactured By Name and Address Romsons Group Private Limited Plant-4, E-18,19,20, Foundry Nagar, Agra, Uttar Pradesh, 282006, India. Best Before Best Before 5 Years From the Date of Manufacturing Manufacturing license MFG/MD/2022/000420 EAN 8907265207446 Drug License No. MD-42 Registration Number : RMD/DCD/HO-1475/04 MD-42 Registration Number : TN/TVR/MD42/00004 MD-42 Registration Number : MFG/KTK/113/MD-42/2023-24 - Surgismart
-  Updated: 2025-08-26T00:29:26Z
+  Updated: 2025-10-15T09:36:41Z
   Vendor: Romsons
   Product Type: Nebulizers
   Availability: Available
@@ -2637,7 +2637,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/aero-mist_-_150_2_2.jpg?v=1751478160
     Price: ₹227.00 INR
 - [Buy ​Romo Vente Bain Circuit Adult - Surgismart](https://surgismart.in/products/romo-vente-bain-circuit-adult): A co-axial modification of the basic "T"-piece system, developed to facilitate scavenging of waste gases. The process includes patient inspiring fresh gas from the outer reservoir tube and expiring into reservoir tube. Convenient, lightweight anesthesia delivery system. It is based on Mapleson "D" system, provided with a corrugated tube, expiratory valve and antistatic bag. The modification improves clinical utility. It is simpler, has single tube convenience and low resistance to breathing. Compact and inexpensive with low dead-space. Sterile and individually packed. Product Specifications: Brand Romsons Generic Name Bain Circuit Manufacturer Name and Address Romsons Group Private Limited Plant-4, E-18, 19, 20, Foundry Nagar, Agra-282006 Best Before Best Before 5 Years From the Date of Manufacturing Mfg. License No MFG/MD/2022/000283 EAN 8907265208801 Drug License No. MD-42 Registration Number : RMD/DCD/HO-1475/04 MD-42 Registration Number : TN/TVR/MD42/00004 MD-42 Registration Number : MFG/KTK/113/MD-42/2023-24 - Surgismart
-  Updated: 2025-08-13T07:37:48Z
+  Updated: 2025-10-15T09:36:41Z
   Vendor: Romsons
   Product Type: Bain Circuit
   Availability: Available
@@ -2650,14 +2650,14 @@
     Availability: Available
     Price: ₹15,379.00 INR
 - [Buy ​Mucus Extractor Infant (Without Filter) - Surgismart](https://surgismart.in/products/mucus-extractor): Specially designed for aspiration of secretions from oropharynx in newly born babies to ensure free respiration. Also ideal for obtaining mucus specimen for micro biological examinations. Transparent container manufactured from medical grade Polypropylene. Clear transparent container permits immediate visual examination of the aspirate collected. Low friction surface of catheter is provided with open end silk smooth round tip, for trauma free insertion and suction. Spare plug cap is provided to seal the container for safe transportation of specimen to laboratory or for aseptic disposal of container. Sterile, individually packed in a peelable soft Blister pack. Product Specifications: Brand Romsons Generic Name Oropharyngeal Catheter Manufacturer Name and Address Romsons Group Private Limited 63-64, Industrial Estate, Nunhai, Agra, 282006 Best Before Best Before 5 Years From the Date of Manufacturing Mfg. License No MFG/MD/2022/000125 EAN 18907265305705 Drug License No. MD-42 Registration Number : RMD/DCD/HO-1475/04 MD-42 Registration Number : TN/TVR/MD42/00004 MD-42 Registration Number : MFG/KTK/113/MD-42/2023-24 - Surgismart
-  Updated: 2025-09-29T01:27:46Z
+  Updated: 2025-10-15T09:36:41Z
   Vendor: Romsons
   Product Type: Mucus Extractor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/mucus_extractor.png?v=1751478159
   Price: ₹1,224.00 INR
 - [Buy ​Vaccu Suck Suction Set - Surgismart](https://surgismart.in/products/vaccu-suck-suction-set): Moulded Yankaur suction handle with flexible kink resistant tube provides unobstructed suction during prolonged use Suction handle with crown tip useful for suction of delicate tissues in low pressure/suction surgery Tube Length 250 cm, diameter 9.00 mm Product Specifications: Brand Romsons Generic Name Suction Tube With Connectors - An Accessory of Catheter Manufacturer Name and Address Romsons Group Private Limited 63-64, Industrial Estate, Nunhai, Agra, 282006 Best Before Best Before 5 Years From the Date of Manufacturing Mfg. License No MFG/MD/2022/000125 EAN 18907265501619 Drug License No. MD-42 Registration Number : RMD/DCD/HO-1475/04 MD-42 Registration Number : TN/TVR/MD42/00004 MD-42 Registration Number : MFG/KTK/113/MD-42/2023-24 - Surgismart
-  Updated: 2025-08-13T07:37:47Z
+  Updated: 2025-10-15T09:36:41Z
   Vendor: Romsons
   Product Type: Yankaur Suction Set
   Availability: Available
@@ -2670,7 +2670,7 @@
     Availability: Available
     Price: ₹1,314.00 INR
 - [Buy ​Romo Vac Set Closed Wound Drainage System - Surgismart](https://surgismart.in/products/romo-vac-set-gs-5002): Suitable to offer surgeons an effective device for close wound drainage under negative pressure postoperatively with the option to use one or two catheters simultaneously. Redon drain catheters are provided with size colour coded, radio opaque line and satin smooth eyes. Connecting tube is kink resistant and is provided with additional strength to withstand the suction. Available in different sizes with catheter matching size curved needle to meet minor,moderate to heavy drainage needs. Easy to depress chamber to activate the suction of bellow unit, single handedly. Product Specifications: Brand Romsons Generic Name Romo Vac Set (Closed Wound Drainage System) Manufacturer Name and Address Romsons Group Private Limited 63-64, Industrial Estate, Nunhai, Agra, 282006 Best Before Best Before 5 Years From the Date of Manufacturing Mfg. License No MFG/MD/2022/000125 EAN 18907265500230 Drug License No. MD-42 Registration Number : RMD/DCD/HO-1475/04 MD-42 Registration Number : TN/TVR/MD42/00004 MD-42 Registration Number : MFG/KTK/113/MD-42/2023-24 - Surgismart
-  Updated: 2025-09-08T00:36:59Z
+  Updated: 2025-10-15T09:36:41Z
   Vendor: Romsons
   Product Type: Romo Vac Set
   Availability: Available
@@ -2689,14 +2689,14 @@
     Availability: Available
     Price: ₹1,410.00 INR
 - [Buy ​Tur Set - Y Shaped Irrigation Set - Surgismart](https://surgismart.in/products/t-u-r-set-gs-1008): "Y"- shaped set for endoscopic irrigation during TURP procedure (Trans Uretheral Resection of Prostate gland). Manufactured from non-toxic and non-irritant medical grade PVC. Provided with thumb operated clamps that help in quick and smooth changeover of bottles. Proximal end is equipped with flexible latex tubing for easy connection to the endoscope. Sterile, ready for use. Individually packed in peelable pouch pack. Product Specifications: Brand Romsons Generic Name Transurethral Resection Set For Endoscopic Turp Manufacturer Name and Address Romsons Group Private Limited 62,63, 64, 65, 155 & 156 Industrial Estate, Nunhai, Agra, 282006 Best Before Best Before 5 Years From the Date of Manufacturing Mfg. License No MFG/MD/2022/000125 EAN 18907265100805 Drug License No. MD-42 Registration Number : RMD/DCD/HO-1475/04 MD-42 Registration Number : TN/TVR/MD42/00004 MD-42 Registration Number : MFG/KTK/113/MD-42/2023-24 - Surgismart
-  Updated: 2025-08-13T07:37:47Z
+  Updated: 2025-10-15T09:36:42Z
   Vendor: Romsons
   Product Type: Irrigation Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/tur_set.png?v=1751478157
   Price: ₹1,314.00 INR
 - [Buy ​Nasopharyngeal Airway - Surgismart](https://surgismart.in/products/nasopharyngeal-airway-gs-2034): Suitable for suctioning in I.C.Us and provide an alternative way when oro-pharyngeal airway is occluded. Design of the tube conforms to the nasopharyngeal anatomy. Flexible for maximum patient comfort. Tube manufactured in medical grade polymer is soft, flexible, kink resistant. Soft material for enhanced nasal passage comfort. Atraumatic soft-rounded edges and smooth surface. Specially designed bevel tip reduces mucosal trauma during insertion. Tube marked with the internal diameter for easier size identification. Thin wall construction provides maximum inner diameter. Interior walls with channel grooves facilitate easy insertion of catheter. Individually packed in peelable pack. Product Specifications: Brand Romsons Generic Name Nasopharyngeal Catheter Manufacturer Name and Address Romsons Group Private Limited 63-64, Industrial Estate, Nunhai, Agra, 282006 Best Before Best Before 5 Years From the Date of Manufacturing Mfg. License No MFG/MD/2022/000125 EAN 18907265203414 Drug License No. MD-42 Registration Number : RMD/DCD/HO-1475/04 MD-42 Registration Number : TN/TVR/MD42/00004 MD-42 Registration Number : MFG/KTK/113/MD-42/2023-24 - Surgismart
-  Updated: 2025-08-13T07:37:47Z
+  Updated: 2025-10-15T09:36:42Z
   Vendor: Romsons
   Product Type: Nasopharyngeal Airway
   Availability: Available
@@ -2712,7 +2712,7 @@
     Availability: Available
     Price: ₹3,767.00 INR
 - [Buy ​RESQ Manual Resuscitator Bag - Surgismart](https://surgismart.in/products/resq-bag-re-usablegs-2050): Resq Bag kit consists of a TPE Manual Resuscitator, Multichannel Kink Resistant Oxygen Tubing, Reservoir Bag and Inflatable Mask. Resuscitator supports bag re-expansion property. Pressure limiting valve ensures crucial adjustments for enhanced performance. Presence of 360° swivel joint between patient valve and face mask and facilitates ease of maneuverability to interface with the patient’s posture. Pack Contains: Silicone Resuscitator Bag (Autoclavable), Silicone Mask (Autoclavable), Oxygen Tubing and Reservoir Bag Box of 1/Master Box of 10. Product Specifications: Brand Romsons Generic Name Manual Resuscitator with Accessories Manufacturer Name and Address Romsons Group Private Limited 63-64, Industrial Estate, Nunhai, Agra, 282006 Best Before Best Before 5 Years From the Date of Manufacturing Mfg. License No MFG/MD/2022/000125 EAN 18907265205029 Drug License No. MD-42 Registration Number : RMD/DCD/HO-1475/04 MD-42 Registration Number : TN/TVR/MD42/00004 MD-42 Registration Number : MFG/KTK/113/MD-42/2023-24 - Surgismart
-  Updated: 2025-09-26T14:49:08Z
+  Updated: 2025-10-15T09:36:42Z
   Vendor: Romsons
   Product Type: RESQ Bag
   Availability: Available
@@ -2728,21 +2728,21 @@
     Availability: Available
     Price: ₹3,478.00 INR
 - [Buy ​Trimmer Plus Disposable Skin Prep Razor - Surgismart](https://surgismart.in/products/copy-of-trimmer-plus-disposable-skin-prep-razor): Disposable Prep Razor. Stainless steel razor with platinum edge blade and teflon coating shaves close without nicks or irritation. Provides high standard of safety and hygiene for pre-operational procedures. Safety cap ensures safety to the handler pre and post procedure. Comb located close to the blade, is specially designed to lift the soft hair. Ribbed handle ensures a steady and efficient grip on the razor. Smoothly follows the natural contours of the body. No need for more than one razor per procedure. Sterile; individually packed minimizes the risk of infections. Product Specifications: Brand Romsons Generic Name Single Edge Comb Style Prep Razor Manufacturer Name and Address Romsons Group Private Limited 63-64, Industrial Estate, Nunhai, Agra, 282006 Best Before Best Before 5 Years From the Date of Manufacturing License No MFG/MD/2022/000125 EAN 18907265902409 Drug License No. MD-42 Registration Number : RMD/DCD/HO-1475/04 MD-42 Registration Number : TN/TVR/MD42/00004 MD-42 Registration Number : MFG/KTK/113/MD-42/2023-24 - Surgismart
-  Updated: 2025-08-25T15:17:34Z
+  Updated: 2025-10-15T09:36:42Z
   Vendor: Romsons
   Product Type: Skin Razor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/Trimmer_7d949ddc-121d-4300-ae6d-76fd5bdece99.jpg?v=1751478155
   Price: ₹739.00 INR
 - [Buy ​Vente Suck Yankaur Suction Set - Surgismart](https://surgismart.in/products/vente-suck-yankaur-suction-set): Surgical removal of secretion and body fluids Soft, flexible and kink-resistant tube A siliconised sleeve on the handle for smooth operation Ribs on the outer surface for better grasping Product Specifications: Brand Romsons Generic Name Yankaur Suction Handle with On-Off Controller Manufacturer Name and Address Romsons Group Private Limited 63-64, Industrial Estate, Nunhai, Agra, 282006 Best Before Best Before 5 Years From the Date of Manufacturing Mfg. License No MFG/MD/2022/000572 EAN 18907265511304 Drug License No. MD-42 Registration Number : RMD/DCD/HO-1475/04 MD-42 Registration Number : TN/TVR/MD42/00004 MD-42 Registration Number : MFG/KTK/113/MD-42/2023-24 - Surgismart
-  Updated: 2025-08-13T07:37:46Z
+  Updated: 2025-10-15T09:36:42Z
   Vendor: Romsons
   Product Type: Yankaur Suction Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/VenteSuck_7fece665-262a-49c5-9b27-3f46a4fb9f4c.png?v=1751478155
   Price: ₹1,391.00 INR
 - [Buy ​Romo ADK Abdominal Drainage Kit - Surgismart](https://surgismart.in/products/romo-adk-gs-5036): Specially designed kit for post-operative abdominal drainage. Consists of super smooth drainage catheter alongwith a collection bag. Made from non-toxic and non-irritant medical grade PVC. Provided with specialised foldable handle which holds the tube upright, prevents accidental kinking during handling and suitable for bedside hanging. Soft and smooth catheter with large atraumatic eyes for efficient drainage. Radio-opaque line throughout catheter length help x-ray visualization. Catheter is colour coded for instant size identification. Sterile, individually packed in a peelable pouch. Product Specifications: Brand Romsons Generic Name Abdominal Drainage Tube Manufacturer Name and Address Romsons Group Private Limited 63-64, Industrial Estate, Nunhai, Agra, 282006 Best Before Best Before 5 Years From the Date of Manufacturing Mfg. License No MFG/MD/2022/000125 EAN 18907265503606 Drug License No. MD-42 Registration Number : RMD/DCD/HO-1475/04 MD-42 Registration Number : TN/TVR/MD42/00004 MD-42 Registration Number : MFG/KTK/113/MD-42/2023-24 - Surgismart
-  Updated: 2025-08-13T07:37:45Z
+  Updated: 2025-10-15T09:36:42Z
   Vendor: Romsons
   Product Type: Surgical Care
   Availability: Available
@@ -2764,7 +2764,7 @@
     Availability: Available
     Price: ₹1,430.00 INR
 - [Buy ​Guedel Airways - Surgismart](https://surgismart.in/products/guedel-airways): Guedel Airways are designed to maintain an unobstructed oropharyngeal airway during or following general anaesthesia and in patients who are unconscious for other reasons. Manufactured from non-toxic, non-irritant PE polymer. Atraumatic soft-rounded edges. Provides access for the insertion of suction catheters. Flexible to ensure dental protection. Integral hard bite block avoids airway occlusion and biting of tongue. Design of the tube conforms to the oropharyngeal anatomy. Stepless airway path for easy cleaning. Bite blocks are color coded for instant size identification. Individually packed in peelable soft blister pack. Sterile, ready for use. Product Specifications: Brand Romsons Generic Name Oropharyngeal Airways Manufacturer Name and Address Romsons Group Private Limited 63-64, Industrial Estate, Nunhai, Agra, 282006 Best Before Best Before 5 Years From the Date of Manufacturing Mfg. License No MFG/MD/2022/000125 EAN 18907265201236 Drug License No. MD-42 Registration Number : RMD/DCD/HO-1475/04 MD-42 Registration Number : TN/TVR/MD42/00004 MD-42 Registration Number : MFG/KTK/113/MD-42/2023-24 - Surgismart
-  Updated: 2025-08-13T07:37:45Z
+  Updated: 2025-10-15T09:36:43Z
   Vendor: Romsons
   Product Type: Oropharyngeal Airway
   Availability: Available
@@ -2792,7 +2792,7 @@
     Availability: Available
     Price: ₹2,029.00 INR
 - [Buy ​ROMO 10 Urine Collection Bag - Surgismart](https://surgismart.in/products/romsons-romo-10-urine-collection-bag): The Romsons Romo 10 Urine Urobag has a capacity of 2 litre and is provided with a 100 cm long super smooth kink resistant tubing to ensure unrestricted flow Moulded handle facilitates easy handling of bag and holds the tube in upright position to prevent kinking. Efficient non-return valve with top outlet. Modified tapered connector facilitates aseptic catheterurine bag connection. The urine bag is meant for short or long term urine drainage The urine collection bag is equipped with an efficient non-return valve with top outlet Large bore kink resistant extra soft tube is easy to milk and ensures unrestricted flow. All other features are as above. The bag is sterile, individually packed in ribbon pack. Product Specifications: Brand Romsons Generic Name Urine Collection Bag Manufacturer Name and Address Romsons Group Private Limited Plant-5, E-6, Foundry Nagar, Agra, Uttar Pradesh, 282006 Best Before Best Before 5 Years From the Date of Manufacturing Mfg. License No MFG/MD/2023/000087 EAN 8907265107005 License No. MD-42 Registration Number : RMD/DCD/HO-1475/04 MD-42 Registration Number : TN/TVR/MD42/00004 MD-42 Registration Number : MFG/KTK/113/MD-42/2023-24 - Surgismart
-  Updated: 2025-08-13T07:37:45Z
+  Updated: 2025-10-15T09:36:43Z
   Vendor: Romsons
   Product Type: Urine Bags
   Availability: Available
@@ -2806,7 +2806,7 @@
     Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/romo-10-urine-collection-bag_2_1.jpg?v=1751478152
     Price: ₹1,401.00 INR
 - [Buy ​Nel Cath Nelaton Catheter - Surgismart](https://surgismart.in/products/romsons-nel-cath-nelaton-catheter-urethral-catheter-fg16-pack-of-20): Nelaton Catheter Features : Designed for short term bladder catheterization through urethera. Manufactured from Medical Grade PVC compatible with catheter lubricants. Frozen surface tubing for super smooth intubation. Coned distal end for atraumatic catheterization. Two lateral eyes for efficient drainage. Radio-opaque line provided throughout the length of catheter for X-ray visualization. Universal funnel shape connector for easy connection to urine bag. Sterile, ready for use. Nelaton Catheter Product Specifications: Brand Romsons Generic Name Nelaton Catheter Manufacturer Name and Address Romsons Group Private Limited 63-64, Industrial Estate, Nunhai, Agra, 282006 Best Before Best Before 3 Years From the Date of Manufacturing Mfg. License No MFG/MD/2022/000125 EAN 18907265100423 License No. MD-42 Registration Number : RMD/DCD/HO-1475/04 MD-42 Registration Number : TN/TVR/MD42/00004 MD-42 Registration Number : MFG/KTK/113/MD-42/2023-24 - Surgismart
-  Updated: 2025-08-13T07:37:45Z
+  Updated: 2025-10-15T09:36:43Z
   Vendor: Romsons
   Product Type: Catheters
   Availability: Available
@@ -2853,7 +2853,7 @@
     Availability: Available
     Price: ₹1,849.00 INR
 - [Buy ​Male Cath External Male Catheter - Surgismart](https://surgismart.in/products/romsons-male-cath-external-male-catheter-35mm-extra-large-pack-of-10): The Romsons Male Cath Male External Catheter is a Penile Sheath/External Catheter specially designed for urine incontinence for day and night use in male patients Male Cath is specially designed for urine incontinence for day and night use in male patients. Manufactured from 100% latex for soft and gentle feel. Provided with soft adhesive coated strip for proper fixing on the penis. Proximal end is designed for safe and easy connection to urine bag/ leg bag. Individually packed in peelable soft blister pack. Sterile, ready for use. Product Specifications: Brand Romsons Generic Name Penile Sheath / External Catheter Manufacturer Name and Address Romsons Group Private Limited 63-64, Industrial Estate, Nunhai, Agra, 282006 Best Before Best Before 3 Years From the Date of Manufacturing Mfg. License No MFG/MD/2022/000125 EAN 18907265101031 License No. MD-42 Registration Number : RMD/DCD/HO-1475/04 MD-42 Registration Number : TN/TVR/MD42/00004 MD-42 Registration Number : MFG/KTK/113/MD-42/2023-24 - Surgismart
-  Updated: 2025-08-26T05:10:26Z
+  Updated: 2025-10-15T09:36:43Z
   Vendor: Romsons
   Product Type: Catheters
   Availability: Available
@@ -3277,7 +3277,7 @@
 ## Collections
 
 - [Buy ​GST 5% - Surgismart](https://surgismart.in/collections/gst-5): - Surgismart
-  Updated: 2025-10-14T11:15:19Z
+  Updated: 2025-10-15T11:16:40Z
   Total Products: 152
 - [Buy ​GST 18% - Surgismart](https://surgismart.in/collections/gst-18): - Surgismart
   Updated: 2025-10-13T11:20:16Z
@@ -3460,7 +3460,7 @@
   Updated: 2025-09-16T10:45:20Z
   Total Products: 42
 - [Medical Apparels](https://surgismart.in/collections/medical-apparels)
-  Updated: 2025-10-14T11:15:19Z
+  Updated: 2025-10-15T11:16:40Z
   Total Products: 4
 
 ## Blogs
@@ -3475,7 +3475,7 @@
 - [Contact](https://surgismart.in/pages/contact)
   Updated: 2025-03-10T14:12:04Z
 - [HTML Sitemap](https://surgismart.in/pages/html-sitemap): Products United Medicare Lumbar Corset with Strap (A-01) United Medicare Contoured Back Support (A-02) United Medicare UTech Lumbar Corset Chair Ba...
-  Updated: 2025-06-26T14:44:31Z
+  Updated: 2025-10-15T11:32:50Z
 - [Wishlist](https://surgismart.in/pages/wishlist)
   Updated: 2025-09-29T11:43:25Z
 
