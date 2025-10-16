@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-01-24T04:49:01Z
 - Contact Email: info@ibizjewel.com
-- Updated At: 2025-10-15T16:00:48.038Z
+- Updated At: 2025-10-16T08:00:48.344Z
 
 ## Products
 
@@ -7785,7 +7785,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/SPDR-81_1.jpg?v=1703830892
     Price: $2,299.00 USD
 - [Natural Salt And Pepper 1.95CT Hexagon Diamond Art Deco Unique Engagement Ring | Handmade Ring | Anniversary Ring](https://ibizjewel.com/products/natural-salt-and-pepper-1-95ct-hexagon-diamond-art-deco-unique-engagement-ring-handmade-ring-anniversary-ring-1): This exquisite Natural Salt And Pepper Hexagon Diamond Art Deco Unique Engagement Ring is sure to make a statement. Handmade with 1.95CT of diamonds, this ring is perfect for a special anniversary or engagement. The unique cut of the diamonds creates an Art Deco style that is sure to stand out.
-  Updated: 2025-10-02T10:30:44Z
+  Updated: 2025-10-16T02:31:20Z
   Vendor: Natural Salt And Pepper Diamond Ring
   Product Type: Natural Salt And Pepper Hexagon Diamond Ring
   Availability: Available
@@ -9450,7 +9450,7 @@
     Availability: Available
     Price: $2,789.00 USD
 - [Lab Grown 1.65CT Heart Cut Diamond Art Deco Unique Engagement Ring | Handmade Ring | Anniversary Ring](https://ibizjewel.com/products/lab-grown-1-65ct-heart-cut-diamond-art-deco-unique-engagement-ring-handmade-ring-anniversary-ring): Beautifully crafted from lab grown diamonds, this attractive 1.65CT Heart Cut Diamond Art Deco Unique Engagement Ring is a symbol of lasting commitment. Its unique design would make it the perfect choice for an anniversary or special occasion gift.
-  Updated: 2025-10-02T10:30:45Z
+  Updated: 2025-10-15T16:42:28Z
   Vendor: Lab Grown Diamond Ring
   Product Type: Lab Grown Heart Diamond Ring
   Availability: Available
@@ -18528,7 +18528,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/SPDR-103_4.jpg?v=1710497059
     Price: $1,352.00 USD
 - [Natural Salt And Pepper 1.35CT Kite Diamond Mid-Century Engagement Ring](https://ibizjewel.com/products/natural-salt-and-pepper-1-35ct-kite-diamond-mid-century-engagement-ring): Experience The Unique And Elegant Charm Of Our Natural Salt And Pepper 1.35ct Kite Diamond Mid-century Engagement Ring. Carefully Crafted With A Stunning Kite-shaped 1.35ct Diamond, This Ring Boasts A One-of-a-kind Salt And Pepper Color, Adding A Special Touch To Your Special Day. Set In A Mid-century Style, This Ring Will Surely Captivate And Enchant.
-  Updated: 2025-10-02T10:30:54Z
+  Updated: 2025-10-16T05:32:30Z
   Vendor: Natural Salt And Pepper Diamond Ring
   Product Type: Natural Salt And Pepper Kite Diamond Ring
   Availability: Available
@@ -30236,7 +30236,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDN-30_4.png?v=1711100786
     Price: $793.00 USD
 - [Moissanite 0.15CT Round Diamond Necklace](https://ibizjewel.com/products/moissanite-0-15ct-round-diamond-necklace): Introducing Our Moissanite 0.15ct Round Diamond Necklace - A Stunning Piece Of Jewelry That Combines The Durability Of Moissanite With The Brilliance And Sparkle Of A 0.15ct Round Diamond. With Its Eye-catching Design And High-quality Materials, This Necklace Is Sure To Make A Statement And Elevate Any Outfit.
-  Updated: 2025-10-02T10:31:03Z
+  Updated: 2025-10-16T00:05:11Z
   Vendor: Moissanite Diamond Necklaces
   Product Type: Moissanite Round Diamond Necklace
   Availability: Available
@@ -37034,7 +37034,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-116_1.jpg?v=1711605313
     Price: $1,062.00 USD
 - [Moissanite 2.80 CT Oval Diamond Boho & Hippie Engagement Ring](https://ibizjewel.com/products/moissanite-2-80-ct-oval-diamond-boho-hippie-engagement-ring): This Moissanite Oval Diamond Engagement Ring Is Perfect For The Boho And Hippie At Heart. Featuring A 2.80 Carat Oval Cut Moissanite, This Ring Offers Excellent Brilliance And Fire. Crafted With A Unique Design, This Ring Is Sure To Stand Out And Make A Statement.
-  Updated: 2025-10-02T10:31:10Z
+  Updated: 2025-10-16T02:54:16Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Oval Diamond Ring
   Availability: Available
