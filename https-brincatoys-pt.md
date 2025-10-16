@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-10-16T16:01:12.771Z
+- Updated At: 2025-10-16T20:01:10.981Z
 
 ## Products
 
@@ -2589,7 +2589,7 @@ comprimento, viveu durante o início do período Cretácico, há cerca de
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/deinonico-430035423-brincatoys-1178693476.jpg?v=1752839415
   Price: 15,50 € EUR
 - [Diabo-da-tasmânia](https://brincatoys.pt/products/diabo-da-tasmania): Os diabos da Tasmânia receberam este nome devido ao seu grito estridente.
-  Updated: 2025-10-13T06:33:00Z
+  Updated: 2025-10-16T18:40:50Z
   Vendor: Seleção Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -12770,13 +12770,6 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-city-geladaria-666036323-5702017415635-lego-1178697045.jpg?v=1752903852
   Price: 38,50 € EUR
-- [Lego City - Camiões de Construção e Grua com Bola Destruidor](https://brincatoys.pt/products/lego-city-camioes-de-construcao-e-grua-com-bola-destruidora): Junte-se aos trabalhadores de construção civil da LEGO® City no local da demolição. Use a barreira para isolar a área, leve a aranha fofinha no carrinho de mão para ficar em segurança e ponha as mãos à obra. Desça as rampas do transportador para acionar a grua com a bola destruidora. Balance a bola para demolir a casa velha. Depois, encaixe o balde
-  Updated: 2025-10-13T06:22:41Z
-  Vendor: LEGO
-  Product Type: + 4 anos
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-city-camioes-de-construcao-e-grua-com-bola-destruidor-666039123-5702017416465-lego-1178697049.jpg?v=1752903962
-  Price: 54,50 € EUR
 - [Lego Ninjago - Cão Caça-Dragões Imperium](https://brincatoys.pt/products/lego-ninjago-cao-caca-dragoes-imperium): Viaje para o Império para uma ousada missão com Jay e Lloyd enquanto enfrentam o General da Garra do Império, que está a montar uma temível Besta Photac. A sua tarefa é impedi-los de capturar dragões e de colher os seus poderes para o mal! A besta está pronta para atacar com garras e espigões afiados. Lute com as catanas dos ninjas. O futuro do nov
   Updated: 2025-10-13T06:22:41Z
   Vendor: LEGO
@@ -15224,7 +15217,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/cartas-uno-the-amazing-spider-man-232414124-0194735241415-uno-1178698721.jpg?v=1752795854
   Price: 14,99 € EUR
 - [Five Nights at Freddy's - Arctic Ballora](https://brincatoys.pt/products/five-nights-at-freddys-ballora): Mergulhe no universo arrepiante de Five Nights at Freddy's com a mais recente adição à sua coleção: da figura de ação "Arctic Ballora"! Inicialmente a figura Five Nights at Freddy's - Arctic Ballora cativa pela sua tonalidade gélida, evocando as frias paisagens árticas que inspiram o seu nome. Ballora, conhecida pelos fãs pela sua dança sinistra e olhar misterioso, surge aqui numa edição espetacular que irá deslumbrar tanto colecionadores como entusiastas da série. Com detalhes intrincados e cores que capturam imediatamente a atenção, esta fiigura Five Nights at Freddy's é fiel ao design original, mostrando uma dedicação ao realismo que qualquer fã apreciará. Desde os alongados cílios até aos intrincados enfeites de gelo que adornam o seu vestuário, cada elemento é elaborado com esmero, garantindo uma réplica excepcional do personagem icónico. A poseabilidade desta figura é outra característica a destacar, permitindo recriar as poses mais memoráveis do jogo ou inventar novas cenas assustadoras. Adicionalmente, esta edição limitada da Funko enriquece o valor de colecionador, transformando a Arctic Ballora numa peça cobiçada por admiradores e colecionadores da franquia. Ao adquiri-la, estará não só a comprar um simples objeto colecionável, mas uma peça de arte que carrega consigo uma atmosfera única e uma história própria no universo de Five Nights at Freddy's. Outro ponto forte é o compromisso com a qualidade e a segurança, refletido nas recomendações de idade e avisos claros na embalagem, tornando este produto um presente ideal tanto para jovens fãs quanto para adultos colecionadores. Adicione um toque congelante à sua coleção com a figura Five Nights at Freddy's Arctic Ballora da Funko. Um must-have para fãs e colecionadores! Em suma... Figura de ação colecionável Arctic Ballora da Funko. Fiel aos detalhes e design original do jogo Five Nights at Freddy's. Edição limitada com grande potencial de valorização. Alta poseabilidade para recriação de cenas do jogo. Atende a padrões de qualidade e segurança. Dimensão: 15 x 22,50 x 5 cm. Idade recomendada: + de 8 anos.
-  Updated: 2025-10-13T06:20:04Z
+  Updated: 2025-10-16T18:42:46Z
   Vendor: Five Nights at Freddy's
   Product Type: + 8 anos
   Availability: Available
@@ -15273,7 +15266,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/furreal-poopalots-corgi-778057324-0886144280573-furreal-friends-1178698761.jpg?v=1752931686
   Price: 39,99 € EUR
 - [Fur Real Friends Walkalots Bernedoodle: Amigo de Quatro Patas](https://brincatoys.pt/products/fur-real-friends-walkalots-bernedoodle): Fur Real Friends Walkalots Bernedoodle, um brinquedo interativo que promete passeios divertidos e muitas aventuras. Encontra aqui o companheiro ideal!
-  Updated: 2025-10-15T20:50:40Z
+  Updated: 2025-10-16T19:36:11Z
   Vendor: FurReal Friends
   Product Type: + 3 anos
   Availability: Available
@@ -20842,7 +20835,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-duplo-10954-comboio-dos-numeros-aprender-a-contar-661095425-5702016911114-lego-1197064298.jpg?v=1760097246
   Price: 22,50 € EUR
 - [LEGO Creator 31166 Cavalo Encantador, 3-em-1 Fantástico](https://brincatoys.pt/products/lego-creator-31166-cavalo-encantador): Explore a diversão com o LEGO Creator 31166 Cavalo Encantador! Este set 3-em-1 aguarda jovens construtores prontos para criar! 🐎
-  Updated: 2025-10-13T06:13:42Z
+  Updated: 2025-10-16T19:25:32Z
   Vendor: LEGO
   Product Type: + 9 anos
   Availability: Available
@@ -21382,14 +21375,14 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-16T15:02:54Z
   Total Products: 3253
 - [Até €60](https://brincatoys.pt/collections/ate-60)
-  Updated: 2025-10-16T15:02:54Z
-  Total Products: 3389
+  Updated: 2025-10-16T19:26:26Z
+  Total Products: 3388
 - [Até €80](https://brincatoys.pt/collections/ate-80)
-  Updated: 2025-10-16T15:02:54Z
-  Total Products: 3468
+  Updated: 2025-10-16T19:26:26Z
+  Total Products: 3467
 - [Até €100](https://brincatoys.pt/collections/ate-100)
-  Updated: 2025-10-16T15:02:54Z
-  Total Products: 3517
+  Updated: 2025-10-16T19:26:27Z
+  Total Products: 3516
 - [Novidades](https://brincatoys.pt/collections/novidades)
   Updated: 2025-10-16T15:05:50Z
   Total Products: 397
@@ -21580,8 +21573,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-06T17:09:21Z
   Total Products: 9
 - [Catálogo](https://brincatoys.pt/collections/all)
-  Updated: 2025-10-16T15:02:54Z
-  Total Products: 3550
+  Updated: 2025-10-16T19:26:27Z
+  Total Products: 3549
 - [6 - 7 anos](https://brincatoys.pt/collections/6-7-anos)
   Updated: 2025-10-15T11:21:15Z
   Total Products: 285
@@ -21595,8 +21588,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-16T15:01:35Z
   Total Products: 1216
 - [+ 4 anos](https://brincatoys.pt/collections/de-4-anos)
-  Updated: 2025-10-16T15:02:54Z
-  Total Products: 495
+  Updated: 2025-10-16T19:26:27Z
+  Total Products: 494
 - [+ 5 anos](https://brincatoys.pt/collections/de-5-anos)
   Updated: 2025-10-13T14:53:06Z
   Total Products: 139
@@ -21616,11 +21609,11 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-14T16:29:54Z
   Total Products: 86
 - [Os mais procurados](https://brincatoys.pt/collections/os-mais-populares)
-  Updated: 2025-10-16T15:02:54Z
-  Total Products: 3551
+  Updated: 2025-10-16T19:26:27Z
+  Total Products: 3550
 - [Recém-chegados](https://brincatoys.pt/collections/recem-chegados)
-  Updated: 2025-10-16T15:02:54Z
-  Total Products: 3551
+  Updated: 2025-10-16T19:26:27Z
+  Total Products: 3550
 - [Produtos em destaque](https://brincatoys.pt/collections/produtos-em-destaque)
   Updated: 2025-10-13T12:31:16Z
   Total Products: 22
