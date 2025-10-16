@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-03-19T17:46:58Z
 - Contact Email: info@patundpatty.de
-- Updated At: 2025-10-16T04:00:34.332Z
+- Updated At: 2025-10-16T08:00:34.474Z
 
 ## Products
 
@@ -1935,7 +1935,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Nachhaltig-Verpackte-Bio-Weihnachtsrassel-Maus-Geschenkfertiges-GOTS-Zertifiziertes-Spielzeug-PAT-Und-PATTY.jpg?v=1752305896
     Price: 18,50 € EUR
 - [Bio Baumwollwatte – Füllmaterial für DIY-Projekte und Kissen](https://patundpatty.de/products/bio-baumwollwatte-fuellmaterial): Bio Baumwollwatte von PAT & PATTY: nachhaltig, weich, atmungsaktiv, schadstofffrei, hochwertig und perfekt zum Füllen von Kissen, Kuscheltieren & DIY-Projekten.
-  Updated: 2025-10-15T18:00:38Z
+  Updated: 2025-10-16T07:34:16Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -2096,7 +2096,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Kuscheltier-Hund-Mit-Gestreiftem-Jersey-PAT-Und-PATTY.jpg?v=1752054238
     Price: 39,95 € EUR
 - [Bio Kuscheltier Oktopus für Kinder – weich und nachhaltig](https://patundpatty.de/products/bio-kinder-kuscheltier-oktopus): Bio Kinder Kuscheltier Oktopus aus Bio-Baumwolle – weich, sicher & ideal zum Kuscheln. Jetzt bei Pat & Patty kaufen – nachhaltig, handgemacht & kinderfreundlich
-  Updated: 2025-09-26T19:35:08Z
+  Updated: 2025-10-16T07:34:06Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -2869,6 +2869,10 @@
   - [Bio Wärmflasche Rabe: Entdecken Sie das nachhaltige Bio Schmusetuch für Babys von Pat & Patty aus Naturmaterialien](https://patundpatty.de/blogs/news/bio-warmflasche-rabe-entdecken-sie-das-nachhaltige-bio-schmusetuch-fur-babys-von-pat-patty-aus-naturmaterialien): Bio Wärmflasche Rabe: Entdecken Sie das nachhaltige Bio Schmusetuch für Babys von Pat & Patty aus Naturmaterialien
     Updated: 2025-10-15T10:05:37Z
     Author: Sharon Engel
+  - [Gefüllte Kissen erklärt: Arten, Vorteile, Sicherheit](https://patundpatty.de/blogs/news/erklaerung-gefuellte-kissen-guide): Erklärung gefüllte Kissen: umfassender Leitfaden zu Füllmaterialien, Varianten, Anwendung für Babys, Sicherheitsaspekte und nachhaltige Kaufkriterien.
+    Updated: 2025-10-16T04:32:04Z
+    Author: Sharon
+    Tags: erklärung gefüllte kissen
 
 ## Store Pages
 
