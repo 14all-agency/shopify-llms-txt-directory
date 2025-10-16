@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-10-16T04:01:03.506Z
+- Updated At: 2025-10-16T12:01:05.208Z
 
 ## Products
 
@@ -33245,7 +33245,7 @@
     Availability: Available
     Price: ‏150.00 ‏₪ ILS
 - [חולצת כדורגל ואסקו דה גאמה בית 2024 | גברים](https://www.rsport.co.il/products/חולצת-כדורגל-ואסקו-דה-גאמה-בית-2024-גברים): חולצת הבית של ואסקו דה גאמה לעונת 2024 מציגה עיצוב קלאסי עם פסים שחורים ולבנים המאפיינים את המועדון. החולצה עשויה מ-100% פוליאסטר, בד נושם וקל משקל שמנדף זיעה, ומספקת נוחות לאורך כל המשחק והאימון. גזרה רגילה המתאימה לגברים, עם עיצוב שמשלב מסורת וחדשנות.
-  Updated: 2025-10-15T21:41:48Z
+  Updated: 2025-10-16T04:07:11Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
@@ -47005,6 +47005,221 @@
   - [47](https://www.rsport.co.il/products/נעלי-כדורגל-air-zoom-mercurial-vapor-16-pro-ag-pro-limelight-volt-hyper-crimson-9082490?variant=47818993762554)
     Availability: Not Available
     Price: ‏980.00 ‏₪ ILS
+- [נעלי כדורגל מקצועיות Air Zoom Mercurial Superfly 10 Elite FG KM](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-fg-kylian-mbappe): נעלי הכדורגל Future 8 Ultimate FG של PUMA מיועדות לשחקנים שמחפשים חופש תנועה ושליטה מלאה במגרש. החלק העליון משלב שכבות רבות עם LYCRA בסריג FUZIONSKIN, ומעניק התאמה אישית עם תמיכה בכל תנועה. 3D FUZIONPODS בחזית הנעל מגנים על הרגל ומאפשרים גמישות טבעית למשחק ללא הגבלה, בעוד רצועות PWRTAPE במרכז כף הרגל שומרות על יציבות בזמן דריבל ועקיפה של שחקנים.
+
+השכבה החיצונית כוללת רשת צפופה עם גימור GripControl Pro, המגביר אחיזה בכדור ומסייע לשליטה מלאה בדריבל ולפריצת קווים. סוליית הנעל עם מסמרות בעיצוב מיוחד מאפשרת תנועות סיבוביות חופשיות ומגיבה לכל שינוי כיוון, כדי למקסם את הזריזות והמהירות במגרש. Future 8 Ultimate FG נותנות לך את הכלים לשלוט במשחק ולהשפיע על כל מצב במגרש.
+  Updated: 2025-10-16T10:54:01Z
+  Vendor: R:SPORT
+  Product Type: נעלי כדורגל
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/12_474df291-49db-4218-b558-d6b05f6accef.jpg?v=1760568837
+  - [36](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-fg-kylian-mbappe?variant=47826946654458)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [37](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-fg-kylian-mbappe?variant=47826946687226)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [37½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-fg-kylian-mbappe?variant=47826946719994)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [38](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-fg-kylian-mbappe?variant=47826946752762)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [38½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-fg-kylian-mbappe?variant=47826946785530)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [39](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-fg-kylian-mbappe?variant=47826946818298)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-fg-kylian-mbappe?variant=47826946851066)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [½40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-fg-kylian-mbappe?variant=47826946883834)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [41](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-fg-kylian-mbappe?variant=47826946916602)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [42](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-fg-kylian-mbappe?variant=47826946949370)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [42½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-fg-kylian-mbappe?variant=47826946982138)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [43](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-fg-kylian-mbappe?variant=47826947014906)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [44](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-fg-kylian-mbappe?variant=47826947047674)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [44½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-fg-kylian-mbappe?variant=47826947080442)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [45](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-fg-kylian-mbappe?variant=47826947113210)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [45½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-fg-kylian-mbappe?variant=47828114243834)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [46](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-fg-kylian-mbappe?variant=47826947145978)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [47](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-fg-kylian-mbappe?variant=47826947211514)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+  - [48½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-superfly-10-elite-fg-kylian-mbappe?variant=47826947244282)
+    Availability: Available
+    Price: ‏1,499.00 ‏₪ ILS
+- [נעלי כדורגל מקצועיות Air Zoom Mercurial Vapor 16 Elite KM FG](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-16-elite-km-fg): נעלי הכדורגל Future 8 Ultimate FG של PUMA מיועדות לשחקנים שמחפשים חופש תנועה ושליטה מלאה במגרש. החלק העליון משלב שכבות רבות עם LYCRA בסריג FUZIONSKIN, ומעניק התאמה אישית עם תמיכה בכל תנועה. 3D FUZIONPODS בחזית הנעל מגנים על הרגל ומאפשרים גמישות טבעית למשחק ללא הגבלה, בעוד רצועות PWRTAPE במרכז כף הרגל שומרות על יציבות בזמן דריבל ועקיפה של שחקנים.
+
+השכבה החיצונית כוללת רשת צפופה עם גימור GripControl Pro, המגביר אחיזה בכדור ומסייע לשליטה מלאה בדריבל ולפריצת קווים. סוליית הנעל עם מסמרות בעיצוב מיוחד מאפשרת תנועות סיבוביות חופשיות ומגיבה לכל שינוי כיוון, כדי למקסם את הזריזות והמהירות במגרש. Future 8 Ultimate FG נותנות לך את הכלים לשלוט במשחק ולהשפיע על כל מצב במגרש.
+  Updated: 2025-10-16T11:22:40Z
+  Vendor: R:SPORT
+  Product Type: נעלי כדורגל
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/6_f4f062d7-0cea-4647-935d-bfdd7c6bab94.jpg?v=1760570556
+  - [36](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-16-elite-km-fg?variant=47826991284474)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [37](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-16-elite-km-fg?variant=47826991317242)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [37½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-16-elite-km-fg?variant=47826991350010)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [38](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-16-elite-km-fg?variant=47826991382778)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [38½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-16-elite-km-fg?variant=47826991415546)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [39](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-16-elite-km-fg?variant=47826991448314)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-16-elite-km-fg?variant=47826991481082)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [½40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-16-elite-km-fg?variant=47826991513850)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [41](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-16-elite-km-fg?variant=47826991546618)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [42](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-16-elite-km-fg?variant=47826991579386)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [42½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-16-elite-km-fg?variant=47826991612154)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [43](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-16-elite-km-fg?variant=47826991644922)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [44](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-16-elite-km-fg?variant=47826991677690)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [44½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-16-elite-km-fg?variant=47826991710458)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [45](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-16-elite-km-fg?variant=47826991743226)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [45½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-16-elite-km-fg?variant=47828127645946)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [46](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-16-elite-km-fg?variant=47826991775994)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [47](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-16-elite-km-fg?variant=47826991841530)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+- [נעלי כדורגל ילדים Mercurial Vapor 16 KM FG](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-mercurial-vapor-16-km-fg): נעלי הכדורגל Future 8 Ultimate FG של PUMA מיועדות לשחקנים שמחפשים חופש תנועה ושליטה מלאה במגרש. החלק העליון משלב שכבות רבות עם LYCRA בסריג FUZIONSKIN, ומעניק התאמה אישית עם תמיכה בכל תנועה. 3D FUZIONPODS בחזית הנעל מגנים על הרגל ומאפשרים גמישות טבעית למשחק ללא הגבלה, בעוד רצועות PWRTAPE במרכז כף הרגל שומרות על יציבות בזמן דריבל ועקיפה של שחקנים.
+
+השכבה החיצונית כוללת רשת צפופה עם גימור GripControl Pro, המגביר אחיזה בכדור ומסייע לשליטה מלאה בדריבל ולפריצת קווים. סוליית הנעל עם מסמרות בעיצוב מיוחד מאפשרת תנועות סיבוביות חופשיות ומגיבה לכל שינוי כיוון, כדי למקסם את הזריזות והמהירות במגרש. Future 8 Ultimate FG נותנות לך את הכלים לשלוט במשחק ולהשפיע על כל מצב במגרש.
+  Updated: 2025-10-16T11:40:36Z
+  Vendor: R:SPORT
+  Product Type: נעלי כדורגל
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/30_4783b39c-09a2-4743-9b14-0990e5506999.jpg?v=1760571631
+  - [33](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-mercurial-vapor-16-km-fg?variant=47827023069434)
+    Availability: Available
+    Price: ‏1,300.00 ‏₪ ILS
+  - [33½](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-mercurial-vapor-16-km-fg?variant=47827023102202)
+    Availability: Available
+    Price: ‏1,300.00 ‏₪ ILS
+  - [34](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-mercurial-vapor-16-km-fg?variant=47827023134970)
+    Availability: Available
+    Price: ‏1,300.00 ‏₪ ILS
+  - [35](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-mercurial-vapor-16-km-fg?variant=47827023167738)
+    Availability: Available
+    Price: ‏1,300.00 ‏₪ ILS
+  - [35½](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-mercurial-vapor-16-km-fg?variant=47827023200506)
+    Availability: Available
+    Price: ‏1,300.00 ‏₪ ILS
+  - [36](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-mercurial-vapor-16-km-fg?variant=47827014254842)
+    Availability: Available
+    Price: ‏1,300.00 ‏₪ ILS
+  - [36½](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-mercurial-vapor-16-km-fg?variant=47827023233274)
+    Availability: Available
+    Price: ‏1,300.00 ‏₪ ILS
+  - [37½](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-mercurial-vapor-16-km-fg?variant=47827014320378)
+    Availability: Available
+    Price: ‏1,300.00 ‏₪ ILS
+  - [38](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-mercurial-vapor-16-km-fg?variant=47827014353146)
+    Availability: Available
+    Price: ‏1,300.00 ‏₪ ILS
+  - [38½](https://www.rsport.co.il/products/נעלי-כדורגל-ילדים-mercurial-vapor-16-km-fg?variant=47827014385914)
+    Availability: Available
+    Price: ‏1,300.00 ‏₪ ILS
+- [נעלי כדורגל מקצועיות Air Zoom Mercurial Vapor 16 Elite KM AG](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-16-elite-km-ag): נעלי הכדורגל Future 8 Ultimate FG של PUMA מיועדות לשחקנים שמחפשים חופש תנועה ושליטה מלאה במגרש. החלק העליון משלב שכבות רבות עם LYCRA בסריג FUZIONSKIN, ומעניק התאמה אישית עם תמיכה בכל תנועה. 3D FUZIONPODS בחזית הנעל מגנים על הרגל ומאפשרים גמישות טבעית למשחק ללא הגבלה, בעוד רצועות PWRTAPE במרכז כף הרגל שומרות על יציבות בזמן דריבל ועקיפה של שחקנים.
+
+השכבה החיצונית כוללת רשת צפופה עם גימור GripControl Pro, המגביר אחיזה בכדור ומסייע לשליטה מלאה בדריבל ולפריצת קווים. סוליית הנעל עם מסמרות בעיצוב מיוחד מאפשרת תנועות סיבוביות חופשיות ומגיבה לכל שינוי כיוון, כדי למקסם את הזריזות והמהירות במגרש. Future 8 Ultimate FG נותנות לך את הכלים לשלוט במשחק ולהשפיע על כל מצב במגרש.
+  Updated: 2025-10-16T11:51:13Z
+  Vendor: R:SPORT
+  Product Type: נעלי כדורגל
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/1_8927e974-8fd7-44ac-b82b-cccf09c150e0.jpg?v=1760572122
+  - [38½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-16-elite-km-ag?variant=47827031261434)
+    Availability: Available
+    Price: ‏1,399.90 ‏₪ ILS
+  - [39](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-16-elite-km-ag?variant=47827031294202)
+    Availability: Available
+    Price: ‏1,399.90 ‏₪ ILS
+  - [40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-16-elite-km-ag?variant=47827031326970)
+    Availability: Available
+    Price: ‏1,399.90 ‏₪ ILS
+  - [½40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-16-elite-km-ag?variant=47827031359738)
+    Availability: Available
+    Price: ‏1,399.90 ‏₪ ILS
+  - [41](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-16-elite-km-ag?variant=47827031392506)
+    Availability: Available
+    Price: ‏1,399.90 ‏₪ ILS
+  - [42](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-16-elite-km-ag?variant=47827031425274)
+    Availability: Available
+    Price: ‏1,399.90 ‏₪ ILS
+  - [42½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-16-elite-km-ag?variant=47827031458042)
+    Availability: Available
+    Price: ‏1,399.90 ‏₪ ILS
+  - [43](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-16-elite-km-ag?variant=47827031490810)
+    Availability: Available
+    Price: ‏1,399.90 ‏₪ ILS
+  - [44](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-16-elite-km-ag?variant=47827031523578)
+    Availability: Available
+    Price: ‏1,399.90 ‏₪ ILS
+  - [44½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-16-elite-km-ag?variant=47827031556346)
+    Availability: Available
+    Price: ‏1,399.90 ‏₪ ILS
+  - [45](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-16-elite-km-ag?variant=47827031589114)
+    Availability: Available
+    Price: ‏1,399.90 ‏₪ ILS
+  - [45½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-16-elite-km-ag?variant=47828135641338)
+    Availability: Available
+    Price: ‏1,399.90 ‏₪ ILS
+  - [46](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-16-elite-km-ag?variant=47827031621882)
+    Availability: Available
+    Price: ‏1,399.90 ‏₪ ILS
+  - [47](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-16-elite-km-ag?variant=47827031654650)
+    Availability: Available
+    Price: ‏1,399.90 ‏₪ ILS
 
 ## Collections
 
@@ -47021,7 +47236,7 @@
   Updated: 2025-10-06T22:42:14Z
   Total Products: 52
 - [ילדים](https://www.rsport.co.il/collections/ילדים)
-  Updated: 2025-10-15T23:53:05Z
+  Updated: 2025-10-16T11:17:57Z
   Total Products: 334
 - [צ'לסי – חולצות כדורגל ומוצרי ספורט | Chelsea FC](https://www.rsport.co.il/collections/צלסי): חולצות כדורגל וחליפות ילדים של צ'לסי במבחר עיצובים וגדלים. לבוש ספורטיבי איכותי לאוהדים הצעירים של הבלוז – סטייל ונוחות במגרש וביום יום.
   Updated: 2025-10-02T12:12:20Z
@@ -47072,7 +47287,7 @@
   Updated: 2025-10-02T12:25:53Z
   Total Products: 70
 - [ליגה צרפתית](https://www.rsport.co.il/collections/ליגה-צרפתית)
-  Updated: 2025-10-07T11:18:18Z
+  Updated: 2025-10-16T11:17:57Z
   Total Products: 114
 - [באיירן מינכן](https://www.rsport.co.il/collections/באיירן-מינכן): אחת הקבוצות הגדולות והאהובות באירופה, עם מסורת מנצחת וכדורגל מרגש. אם גם אתם חלק מצבא האוהדים של "הכוכב הדרומי" הגעתם למקום הנכון, כאן תמצאו מגוון רחב של חולצות כדורגל של באיירן מינכן, כולל דגמי בית, חוץ ושלישית מהעונות האחרונות, לצד חליפות ילדים, חולצות אימון ועוד פריטים מעוצבים באווירת המועדון, החולצות מתאימות לאימונים, למשחקים או כפריט אופנתי לחובבי הקבוצה.
   Updated: 2025-10-02T12:25:51Z
@@ -47093,13 +47308,13 @@
   Updated: 2025-10-07T11:18:18Z
   Total Products: 19
 - [נבחרת ברזיל חולצות כדורגל ומוצרי ספורט](https://www.rsport.co.il/collections/ברזיל): רכוש חולצות כדורגל נבחרת ברזיל – חולצות משחק, אוהדים, חולצות רטרו, חליפות ילדים ועוד במחירים אטרקטיביים ומשלוח מהיר לכל הארץ
-  Updated: 2025-10-07T11:18:18Z
+  Updated: 2025-10-16T11:17:57Z
   Total Products: 25
 - [מכנסי כדורגל קצרים](https://www.rsport.co.il/collections/מכנסי-כדורגל-קצרים)
   Updated: 2025-10-12T11:17:24Z
   Total Products: 207
 - [רכוש חולצות כדורגל נבחרות – איכות גבוהה](https://www.rsport.co.il/collections/נבחרות): קנה חולצות כדורגל נבחרות ברזיל, ארגנטינה, צרפת ועוד. איכות ומחיר משתלם, כולל חליפות ילדים ומשלוח מהיר.
-  Updated: 2025-10-11T11:17:45Z
+  Updated: 2025-10-16T11:17:57Z
   Total Products: 150
 - [איטליה | חולצות כדורגל ומוצרי ספורט](https://www.rsport.co.il/collections/איטליה): גלה את חולצות הכדורגל של נבחרת איטליה ותלבש בגאווה את Gli Azzurri בכל משחק. חולצות בית וחוץ ובגדי אימון איכותיים לאוהדים, עם דגש על נוחות, איכות וסטייל איטלקי.
   Updated: 2025-10-06T22:56:44Z
@@ -47111,7 +47326,7 @@
   Updated: 2025-10-08T11:19:14Z
   Total Products: 100
 - [נבחרות דרום אמריקה](https://www.rsport.co.il/collections/נבחרות-דרום-אמריקה)
-  Updated: 2025-10-11T11:17:45Z
+  Updated: 2025-10-16T11:17:57Z
   Total Products: 60
 - [לידס יונייטד](https://www.rsport.co.il/collections/לידס-יונייטד)
   Updated: 2025-10-02T11:52:13Z
@@ -47189,10 +47404,10 @@
   Updated: 2025-10-06T22:42:03Z
   Total Products: 8
 - [ליגה הולנדית](https://www.rsport.co.il/collections/ליגה-הולנדית)
-  Updated: 2025-10-02T11:30:56Z
+  Updated: 2025-10-16T11:17:57Z
   Total Products: 9
 - [אייאקס | חולצות כדורגל ומוצרי ספורט](https://www.rsport.co.il/collections/אייאקס-אמסטרדם): קנו חולצות כדורגל אייאקס אמסטרדם ומגוון מוצרי ספורט של המועדון. מבחר רחב של פריטים איכותיים לאוהדים אמיתיים.
-  Updated: 2025-10-02T11:52:00Z
+  Updated: 2025-10-16T11:17:57Z
   Total Products: 29
 - [מכנסי כדורסל Just Don | סטייל ונוחות בסגנון רחוב יוקרתי](https://www.rsport.co.il/collections/just-don): מכנסי כדורסל ייחודיים של Just Don בעיצובים בהשראת קבוצות NBA כמו שיקגו בולס, לוס אנג'לס לייקרס, מיאמי היט, פיניקס סאנס ועוד. שילוב מושלם של סטייל ונוחות.
   Updated: 2025-09-29T11:17:23Z
@@ -47384,22 +47599,22 @@
   Updated: 2025-10-06T19:08:54Z
   Total Products: 14
 - [נעלי כדורגל](https://www.rsport.co.il/collections/נעלי-כדורגל)
-  Updated: 2025-10-15T23:54:06Z
+  Updated: 2025-10-16T07:43:38Z
   Total Products: 70
 - [נעלי כדורגל FG](https://www.rsport.co.il/collections/נעלי-כדורגל-fg)
-  Updated: 2025-10-15T23:53:44Z
+  Updated: 2025-10-16T07:39:30Z
   Total Products: 54
 - [חולצות כדורגל - מגוון רחב במחירים משתלמים](https://www.rsport.co.il/collections/חולצות-כדורגל): האתר מתמחה במגוון רחב של חולצות משחק, כולל חולצות עבר, חולצות אימוניות וחליפות כדורגל לילדים.
   Updated: 2025-10-14T11:17:52Z
   Total Products: 816
 - [חליפות כדורגל ילדים | הדפסת שם ומספר | משלוחים חינם](https://www.rsport.co.il/collections/חליפות-כדורגל-ילדים): אם אתם מחפשים את המתנה המושלמת לילד שאוהב כדורגל חליפות כדורגל לילדים באיכות גבוהה ובמחירים ללא תחרות הפתיעו את הילדים עם חליפה של הקבוצה האהובה עליהם
-  Updated: 2025-10-14T11:17:52Z
+  Updated: 2025-10-16T11:17:57Z
   Total Products: 250
 - [סנטוס](https://www.rsport.co.il/collections/סנטוס): סנטוס היא הרבה יותר מקבוצת כדורגל. זו תשוקה ברזילאית, היסטוריה עשירה ואהבה שלא נגמרת. עם קהל עצום שנחשב לאחד מהנאמנים בעולם, רגעים אגדיים בליגה המקומית וסמל שחרוט בלבבות, Santos FC מייצגת גאווה ברזילאית בכל משחק. כאן תמצאו את כל מה שאוהד אמיתי צריך. חולצות בית, חוץ ושלישית של סנטוס, בגדי אימון ואקססוריז שיקפיצו כל לוק של אוהד. אם אתה חי ונושם את השחור לבן הגעת למקום הנכון.
   Updated: 2025-10-02T11:31:50Z
   Total Products: 11
 - [80 off selected items](https://www.rsport.co.il/collections/80-off-selected-items)
-  Updated: 2025-10-14T11:17:52Z
+  Updated: 2025-10-16T11:17:57Z
   Total Products: 700
 - [גרביים](https://www.rsport.co.il/collections/גרביים)
   Updated: 2025-10-06T22:42:09Z
@@ -47435,7 +47650,7 @@
   Updated: 2025-10-02T11:15:17Z
   Total Products: 6
 - [אולימפיק מרסיי | חולצות כדורגל ומוצרי ספורט](https://www.rsport.co.il/collections/אולימפיק-מרסיי): גלה את קולקציית החולצות והאביזרים של אולימפיק מרסיי חולצות בית וחוץ, בגדי אימון איכותיים, נעלי ספורט ואקססוריז לאוהדים בכל הגילאים
-  Updated: 2025-10-07T11:18:18Z
+  Updated: 2025-10-16T11:17:57Z
   Total Products: 19
 - [לידס יונייטד רטרו](https://www.rsport.co.il/collections/לידס-יונייטד-רטרו)
   Updated: 2025-10-02T11:15:21Z
@@ -47483,13 +47698,13 @@
   Updated: 2025-10-02T11:31:37Z
   Total Products: 12
 - [AVADA - Best Sellers](https://www.rsport.co.il/collections/avada-best-sellers)
-  Updated: 2025-10-15T23:54:06Z
+  Updated: 2025-10-16T11:17:57Z
   Total Products: 2075
 - [פיורנטינה רטרו](https://www.rsport.co.il/collections/פיורנטינה-רטרו): אנו מציעים חולצות כדורגל רטרו של פיורנטינה מהעבר המפואר, בעיצובים קלאסיים ששימשו את הקבוצה בשנות ה-90 ותחילת ה-2000. בין השחקנים הבולטים מהתקופות הללו: גבריאל באטיסטוטה, ווֹלפגנג מולה, אנג'לו די ליוויו ופרנצ'סקו טולדו. כל פריט בקטגוריה מחבר אתכם להיסטוריה המפוארת של פיורנטינה ומספק חוויה נוסטלגית לחובבי הכדורגל.
   Updated: 2025-10-02T11:15:25Z
   Total Products: 9
 - [חולצות כדורגל 25/26](https://www.rsport.co.il/collections/חולצות-כדורגל-25-26): חולצות הכדורגל של עונת 25/26 מביאות את הסטייל החדש של הקבוצות הגדולות בעולם כולל חולצת ריאל מדריד, חולצת ברצלונה, חולצת מנצ'סטר יונייטד, חולצת יובנטוס, חולצת ארסנל, פריז סן ז'רמן, אינטר, באיירן מינכן ועוד. כל חולצה מעוצבת בטכנולוגיה מתקדמת, עם נוחות מרבית ועיצוב עדכני שמתאים ליציע, לרחוב ולחיים עצמם. זו ההזדמנות שלך להראות את הגאווה הקבוצתית שלך בעונה חדשה ומרגשת.
-  Updated: 2025-10-14T11:17:52Z
+  Updated: 2025-10-16T11:17:57Z
   Total Products: 274
 - [ווסטהאם](https://www.rsport.co.il/collections/ווסטהאם)
   Updated: 2025-10-02T11:30:57Z
@@ -47681,7 +47896,7 @@
   Updated: 2025-10-04T20:33:30Z
   Total Products: 3
 - [Artificial Grass Football Boots](https://www.rsport.co.il/collections/football-boots-groundtype-artificial-grass): גלו את מגוון נעלי הכדורגל AG המובילות למשחק על דשא סינתטי ב-R:Sport. נעליים אלו, המיועדות במיוחד למשטחי "כל מזג אוויר", מעניקות אחיזה מושלמת, יציבות וביצועים מקצועיים בכל שלב של המשחק. סוליות נעלי AG כוללות פקקים צפופים ומדויקים, לעיתים חלולים או מחוררים, כדי להפחית משקל ולספק ריכוך וזעזועים, תוך שמירה על אחיזה מקסימלית. העיצוב שלהן מתאים במיוחד לשחיקה המוגברת של דשא סינתטי, ומאפשר חופש תנועה מלא, גם למשחקים תובעניים. ב-R:Sport תמצאו דגמים לילדים, בני נוער ומבוגרים, מהדגמים החדשים ביותר ועד דגמי AG ייחודיים. כל נעל נבחרה בקפידה כדי להבטיח שאתם תישארו מקצועיים על המגרש ותיהנו מביצועים יוצאי דופן לאורך כל המשחק. עשו את הצעד הנכון עם נעלי כדורגל, ציוד קבוצתי וכדורי כדורגל איכותיים למשחק. בנוסף, ב-R:Sport תמצאו גם מגוון רחב של חולצות כדורגל לכל אוהד ושחקן.
-  Updated: 2025-10-15T23:54:06Z
+  Updated: 2025-10-16T07:43:38Z
   Total Products: 8
 - [PUMA Hot Pursuit](https://www.rsport.co.il/collections/puma-hot-pursuit)
   Updated: 2025-10-12T18:32:28Z
@@ -47708,19 +47923,19 @@
   Updated: 2025-10-07T12:25:17Z
   Total Products: 2
 - [Mercurial Superfly נעלי כדורגל](https://www.rsport.co.il/collections/football-boots-mercurial-superfly-נעלי-כדורגל)
-  Updated: 2025-10-15T22:40:41Z
+  Updated: 2025-10-16T07:36:33Z
   Total Products: 4
 - [Nike Max Voltage](https://www.rsport.co.il/collections/nike-max-voltage)
-  Updated: 2025-10-15T23:51:31Z
+  Updated: 2025-10-16T07:36:33Z
   Total Products: 10
 - [נעלי כדורגל Mercurial](https://www.rsport.co.il/collections/football-boots-mercurial)
-  Updated: 2025-10-15T23:54:06Z
+  Updated: 2025-10-16T07:43:38Z
   Total Products: 12
 - [נעלי כדורגל Mercurial Vapor](https://www.rsport.co.il/collections/נעלי-כדורגל-mercurial-vapor)
-  Updated: 2025-10-15T23:54:06Z
+  Updated: 2025-10-16T07:43:38Z
   Total Products: 8
 - [חולצות ונעלי כדורגל Kylian Mbappe](https://www.rsport.co.il/collections/חולצות-ונעלי-כדורגל-kylian-mbappe)
-  Updated: 2025-10-16T00:07:23Z
+  Updated: 2025-10-16T07:43:38Z
   Total Products: 28
 
 ## Blogs
@@ -47737,6 +47952,19 @@
     Updated: 2025-10-06T13:49:15Z
     Author: R- SPORT
     Tags: נעלי כדורגל
+  - [PUMA מבעירה את הדשא עם קולקציית “Hot Pursuit” החדשה](https://www.rsport.co.il/blogs/נעלי-כדורגל/puma-מבעירה-את-הדשא-עם-קולקציית-hot-pursuit-החדשה): <h2 data-start="139" data-end="197"><strong data-start="142" data-end="197">PUMA מבעירה את הדשא עם קולקציית “Hot Pursuit” החדשה</strong></h2>
+<p data-start="199" data-end="244"> </p>
+    Updated: 2025-10-16T06:46:30Z
+    Author: R- SPORT
+    Tags: נעלי כדורגל, נעלי כדורגל פומה
+  - [Nike Max Voltage – נייקי מעלה הילוך עם הקולקציה החדשה](https://www.rsport.co.il/blogs/נעלי-כדורגל/קולקציית-max-voltage-החדשה): Nike Max Voltage – נייקי מעלה הילוך עם הקולקציה החדשה
+    Updated: 2025-10-16T08:08:16Z
+    Author: R- SPORT
+    Tags: נעלי כדורגל, נעלי כדורגל נייק
+  - [Kylian Mbappé Player Edition – Limitless Transformation](https://www.rsport.co.il/blogs/נעלי-כדורגל/kylian-mbappe-player-edition-limitless-transformation)
+    Updated: 2025-10-16T08:06:12Z
+    Author: R- SPORT
+    Tags: Kylian Mbappé, נעלי כדורגל אמבפה, נעלי כדורגל נייק
 - [מדריכים](https://www.rsport.co.il/blogs/מדריכים)
   - [חולצות כדורגל: למה לא לקנות מכל מקום?](https://www.rsport.co.il/blogs/מדריכים/חולצות-כדורגל-לא-רוכשים-מכל-מקום-1): חולצות כדורגל: למה לא לקנות מכל מקום?
     Updated: 2025-09-07T22:18:21Z
