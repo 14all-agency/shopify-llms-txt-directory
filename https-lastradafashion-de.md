@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2023-03-22T10:49:51Z
 - Contact Email: onlineshop@lastradafashion.de
-- Updated At: 2025-10-16T12:00:57.487Z
+- Updated At: 2025-10-16T16:01:01.822Z
 
 La Strada is love for Italian Fashion. Our collections represents the latest fashion trends from Italy and is lovingly created and arranged for the modern fashionable woman who is looking for the newest trends, the best quality and best price. 
 
@@ -191,7 +191,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/products/langes-top-mit-spitze-la-strada-14.jpg?v=1706890443
     Price: 19,90 € EUR
 - [Basic Top](https://lastradafashion.de/products/basic-top): Dieses Basic-Top mit seinem anliegenden Schnitt und dem klassischen Rundhalsausschnitt ist ein Must-Have für jede Garderobe. Die breiten Träger sorgen nicht nur für einen bequemen Sitz, sondern verleihen dem Top auch einen modernen Look. Ob als Unterzieh-Shirt unter einem Pullover oder Cardigan oder solo getragen zu einer Jeans oder Rock - dieses vielseitige Top passt zu jedem Outfit. Durch seinen schlichten und zeitlosen Stil ist es ein echtes Allroundtalent, das in keinem Kleiderschrank fehlen sollte. Die hochwertige Verarbeitung und das angenehme Material machen es zudem zu einem echten Lieblingsteil, das man immer wieder gerne trägt. Ein Basic-Top, das einfach immer passt und für einen minimalistischen und cleanen Look sorgt. MARKE - La Strada PASSFORM UND SCHNITT - One Size (von Größen 36 bis 42) - normal geschnitten, locker fallend, reicht über die Hüfte - Rundhalsausschnitt, ärmellos, Rückenausschnitt MATERIAL UND VERARBEITUNG - Materialmix: 95 % Viskose 5 % Elasthan - Materialqualität: leichtes Material, elastisches Material PFLEGEHINWEIS - Maschinenwäsche 30°C MODEL - Das Model ist 176cm groß und trägt Konfektionsgröße 36 bzw. S
-  Updated: 2025-10-14T11:13:46Z
+  Updated: 2025-10-16T13:26:22Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
@@ -1757,7 +1757,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMi0wMDAyLTQwNjgzODIxNjI4MzUtamVhbnNibGF1LTI1MDB4MTg3NXB4LWJndy0xLmpwZWc_5ace154c-9470-47fd-ab67-723c06106dce.jpg?v=1760528017
     Price: 69,00 € EUR
 - [Velours-Fransenbolero](https://lastradafashion.de/products/velours-fransenbolero): Statement-Piece mit Boho-Flair – dieser Bolero aus softem Velours zieht mit seinen langen, schwingenden Fransen alle Blicke auf sich. Die verkürzte Schnittform setzen die Taille gekonnt in Szene und sorgen für eine betont feminine Silhouette. Die elastische Velours-Qualität verleiht dem Look eine luxuriöse Haptik mit weichem Griff, während die Fransen entlang der Ärmel und Vorderkante bei jeder Bewegung stilvoll mitschwingen. Ideal als Eyecatcher über simplen Tops, Kleidern oder zur High-Waist-Hose. Ein Must-have für alle, die Mode inszenieren wollen.
-  Updated: 2025-10-16T09:26:35Z
+  Updated: 2025-10-16T12:58:09Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
@@ -1768,7 +1768,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Price: 39,90 € EUR
   - [One Size / CAMEL](https://lastradafashion.de/products/velours-fransenbolero?variant=58801188045149)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTE1NS0zMzU5Mi00MDY4MzgyMTYyODA0LWNhbWVsLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760538173
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTE1NS0zMzU5Mi00MDY4MzgyMTYyODA0LWNhbWVsLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760619489
     Price: 39,90 € EUR
   - [One Size / SCHWARZ](https://lastradafashion.de/products/velours-fransenbolero?variant=58801188077917)
     Availability: Available
