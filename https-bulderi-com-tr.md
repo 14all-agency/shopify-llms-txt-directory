@@ -10,7 +10,7 @@
 - Contact Email: info@bulderi.com.tr
 - Contact Phone: +908503089625
 - Address: Yakuplu Mah. Hürriyet Blv. Skyport Residence No:1/151 Beylikdüzü, İstanbul / Türkiye
-- Updated At: 2025-10-15T12:00:29.193Z
+- Updated At: 2025-10-16T04:00:29.833Z
 
 ## Products
 
@@ -270,7 +270,7 @@
     Image: https://cdn.shopify.com/s/files/1/0641/0643/0652/files/Kirmizi-Kemerli-Hakiki-Deri-Kadin-Canta1.png?v=1710628015
     Price: ₺1.399,90 TRY
 - [Slim Deri Kartlık - Bulderi](https://bulderi.com.tr/products/slim-deri-kartlik): Slim Deri Kartlık, zarif ve minimalist tasarımıyla tarzınızı tamamlayacak mükemmel bir aksesuardır. Vintage ve modern tarzı bir araya getiren bu kartlık, özenle seçi
-  Updated: 2025-09-03T06:58:16Z
+  Updated: 2025-10-15T20:29:03Z
   Vendor: Bulderi
   Product Type: Kartlık
   Availability: Available
