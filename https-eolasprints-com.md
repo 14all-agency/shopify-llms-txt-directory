@@ -10,7 +10,7 @@
 - Contact Email: support@eolasprints.com
 - Contact Phone: +34-942735955
 - Address: Parque Empresarial Besaya D14, Reocín 39538, Cantabria, Spain
-- Updated At: 2025-10-15T20:00:35.639Z
+- Updated At: 2025-10-16T00:00:32.956Z
 
 Welcome to Eolas Prints - Your Trusted 3D Printing & Digital Fabrication Partner
 
@@ -1590,7 +1590,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Availability: Available
     Price: €1,499.00 EUR
 - [Bambu Lab P2S](https://eolasprints.com/products/bambu-lab-p2s)
-  Updated: 2025-10-15T12:16:16Z
+  Updated: 2025-10-15T23:52:45Z
   Vendor: Bambu Lab
   Product Type: 3D Printer
   Availability: Available
