@@ -7,7 +7,7 @@
 - Currency: EUR
 - Timezone: Europe/Dublin
 - Created At: 2025-01-23T10:54:05Z
-- Updated At: 2025-10-16T08:00:34.707Z
+- Updated At: 2025-10-16T20:00:35.555Z
 
 ## Products
 
@@ -635,117 +635,117 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/12004.jpg?v=1760540567
   Price: €9.95 EUR
 - [Glass Polish Spindle Backer 12015](https://glasspolishshop.com/products/75mm-3-inch-spindle-pad-hard): High Performance Backing Plate  for use with any electric drill. Hook and Loop fastener for easy use with any abrasive discs, polishing pads or detailing foams.
-  Updated: 2025-10-15T20:10:54Z
+  Updated: 2025-10-16T13:49:16Z
   Vendor: Glass Polish
   Product Type: Drill Spindle Backing Pad
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/75mm-_28-3-_29-Spindle-Pad-hard-12015.jpg?v=1737639545
-  Price: €11.95 EUR
+  Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/12015.jpg?v=1760622491
+  Price: €9.95 EUR
 - [Glass Polish Spindle Backer 12007](https://glasspolishshop.com/products/75mm-3-inch-spindle-pad-hook-and-loop-blue-foam-medium): High Performance Backing Plate  for use with any electric drill. Hook and Loop fastener for easy use with any abrasive discs, polishing pads or detailing foams.
-  Updated: 2025-10-15T20:10:54Z
+  Updated: 2025-10-16T13:24:58Z
   Vendor: Glass Polish
   Product Type: Drill Spindle Backing Pad
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/75mm-_28-3-_29-Spindle-Pad-Hook-and-Loop-Blue-Foam-medium-12007.jpg?v=1737639572
-  Price: €12.95 EUR
-- [Glass Polish Spindle Backer 12734](https://glasspolishshop.com/products/100mm-4-inch-spindle-pad-rubber-rigid): Backing Plate  for use with any electric drill. Hook and Loop fastener for easy use with any abrasive discs, polishing pads or detailing foams.
-  Updated: 2025-10-15T20:10:55Z
+  Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/12007.jpg?v=1760617991
+  Price: €9.95 EUR
+- [Hard Spindle Backing Pad for Drill and Pneumatic Polisher](https://glasspolishshop.com/products/100mm-4-inch-spindle-backing-pad-rigid): Hard Spindle Backing Pad for Drill and Pneumatic Polisher. Hook and Loop fastener for easy use with any abrasive discs, polishing pads. Size 100mm (4inch).
+  Updated: 2025-10-16T10:03:18Z
   Vendor: Glass Polish
   Product Type: Drill Spindle Backing Pad
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/100mm-_28-4-_29-Spindle-Pad-Rubber-rigid-12734.jpg?v=1737639599
+  Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/11734.jpg?v=1760608992
   Price: €8.95 EUR
 - [Glass Polish Spindle Backer 12014](https://glasspolishshop.com/products/50mm-2-inch-spindle-pad-hard): High Performance Backing Plate  for use with any electric drill. Hook and Loop fastener for easy use with any abrasive discs, polishing pads or detailing foams.
-  Updated: 2025-10-15T20:10:55Z
+  Updated: 2025-10-16T13:38:35Z
   Vendor: Glass Polish
   Product Type: Drill Spindle Backing Pad
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/50mm-_28-2-_29-Spindle-Pad-hard-12014.jpg?v=1737639627
-  Price: €9.95 EUR
-- [Glass Polish Spindle Backer 12006](https://glasspolishshop.com/products/50mm-2-inch-spindle-pad-hook-and-loop-blue-foam-medium): High Performance Backing Plate  for use with any electric drill. Hook and Loop fastener for easy use with any abrasive discs, polishing pads or detailing foams.
-  Updated: 2025-10-15T20:10:55Z
-  Vendor: Glass Polish
-  Product Type: Drill Spindle Backing Pad
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/50mm-_28-2-_29-Spindle-Pad-Hook-and-Loop-Blue-Foam-Medium-12006.jpg?v=1737639653
-  Price: €10.95 EUR
-- [Glass Polish Spindle Backer 12009](https://glasspolishshop.com/products/50mm-2-inch-spindle-pad-hook-and-loop-yellow-foam-soft): High Performance Backing Plate  for use with any electric drill. Hook and Loop fastener for easy use with any abrasive discs, polishing pads or detailing foams.
-  Updated: 2025-10-15T20:10:56Z
-  Vendor: Glass Polish
-  Product Type: Drill Spindle Backing Pad
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/50mm-_28-2-_29-Spindle-Pad-Hook-and-Loop-yellow-Foam-Soft-12009.jpg?v=1737639680
-  Price: €10.95 EUR
-- [Glass Polish Spindle Backer 12013](https://glasspolishshop.com/products/25mm-1-inch-spindle-pad-plastic-hard): High Performance Backing Plate  for use with any electric drill. Hook and Loop fastener for easy use with any abrasive discs, polishing pads or detailing foams.
-  Updated: 2025-10-15T20:10:56Z
-  Vendor: Glass Polish
-  Product Type: Drill Spindle Backing Pad
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/25mm-_28-1-_29-Spindle-Pad-Plastic-Hard-12013.jpg?v=1737639708
+  Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/12014.jpg?v=1760621858
   Price: €8.95 EUR
+- [Glass Polish Spindle Backer 12006](https://glasspolishshop.com/products/50mm-2-inch-spindle-pad-hook-and-loop-blue-foam-medium): High Performance Backing Plate  for use with any electric drill. Hook and Loop fastener for easy use with any abrasive discs, polishing pads or detailing foams.
+  Updated: 2025-10-16T13:24:48Z
+  Vendor: Glass Polish
+  Product Type: Drill Spindle Backing Pad
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/12006.jpg?v=1760617936
+  Price: €8.95 EUR
+- [Glass Polish Spindle Backer 12009](https://glasspolishshop.com/products/50mm-2-inch-spindle-pad-hook-and-loop-yellow-foam-soft): High Performance Backing Plate  for use with any electric drill. Hook and Loop fastener for easy use with any abrasive discs, polishing pads or detailing foams.
+  Updated: 2025-10-16T13:18:25Z
+  Vendor: Glass Polish
+  Product Type: Drill Spindle Backing Pad
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/12009.jpg?v=1760620671
+  Price: €8.95 EUR
+- [Glass Polish Spindle Backer 12013](https://glasspolishshop.com/products/25mm-1-inch-spindle-pad-plastic-hard): High Performance Backing Plate  for use with any electric drill. Hook and Loop fastener for easy use with any abrasive discs, polishing pads or detailing foams.
+  Updated: 2025-10-16T13:35:28Z
+  Vendor: Glass Polish
+  Product Type: Drill Spindle Backing Pad
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/12013.jpg?v=1760621690
+  Price: €7.45 EUR
 - [Glass Polish Spindle Backer 12005](https://glasspolishshop.com/products/25mm-1-inch-spindle-pad-blue-foam-medium): High Performance Backing Plate  for use with any electric drill. Hook and Loop fastener for easy use with any abrasive discs, polishing pads or detailing foams.
-  Updated: 2025-10-15T20:10:57Z
+  Updated: 2025-10-16T13:24:39Z
   Vendor: Glass Polish
   Product Type: Drill Spindle Backing Pad
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/25mm-_28-1-_29-Spindle-Pad-Blue-Foam-Medium-12005.jpg?v=1737639734
-  Price: €9.45 EUR
+  Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/12005.jpg?v=1760617627
+  Price: €7.45 EUR
 - [Glass Polish Spindle Backer 12008](https://glasspolishshop.com/products/25mm-1-inch-spindle-pad-yellow-foam-soft): High Performance Backing Plate  for use with any electric drill. Hook and Loop fastener for easy use with any abrasive discs, polishing pads or detailing foams.
-  Updated: 2025-10-15T20:10:57Z
+  Updated: 2025-10-16T13:19:22Z
   Vendor: Glass Polish
   Product Type: Drill Spindle Backing Pad
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/25mm-_28-1-_29-Spindle-Pad-yellow-Foam-Soft-12008.jpg?v=1737639761
-  Price: €9.45 EUR
+  Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/12008.jpg?v=1760620411
+  Price: €7.45 EUR
 - [Glass Polish Spindle Backer 12010](https://glasspolishshop.com/products/75mm-3-inch-spindle-pad-hook-and-loop-yellow-foam-soft): High Performance Backing Plate  for use with any electric drill. Hook and Loop fastener for easy use with any abrasive discs, polishing pads or detailing foams.
-  Updated: 2025-10-15T20:10:57Z
+  Updated: 2025-10-16T13:24:08Z
   Vendor: Glass Polish
   Product Type: Drill Spindle Backing Pad
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/75mm-_28-3-_29-Spindle-Pad-Hook-and-Loop-yellow-Foam-Soft-12010.jpg?v=1737639788
-  Price: €12.95 EUR
-- [Glass Polish Spindle Backer 12735](https://glasspolishshop.com/products/115mm-4-5-inch-spindle-pad-rubber-rigid): Backing Plate  for use with any electric drill. Hook and Loop fastener for easy use with any abrasive discs, polishing pads or detailing foams.
-  Updated: 2025-10-15T20:10:57Z
+  Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/12010.jpg?v=1760621011
+  Price: €9.95 EUR
+- [Rigid Spindle Backing Pad for Drill and Pneumatic Polisher](https://glasspolishshop.com/products/115mm-4-5-inch-spindle-backing-pad-rigid): 115mm ( 4.5") Hard Density Backing Pad for Drill. Hook and Loop fastener for easy use with any abrasive discs, polishing pads.
+  Updated: 2025-10-16T10:47:34Z
   Vendor: Glass Polish
   Product Type: Drill Spindle Backing Pad
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/115mm-_28-4.5-_29-Spindle-Pad-Rubber-rigid-12735.jpg?v=1737639815
+  Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/11735.jpg?v=1760609294
   Price: €9.45 EUR
-- [Glass Polish Spindle Backer 12736](https://glasspolishshop.com/products/125mm-5-inch-spindle-pad-black-rubber-rigid): Backing Plate  for use with any electric drill. Hook and Loop fastener for easy use with any abrasive discs, polishing pads or detailing foams.
-  Updated: 2025-10-15T20:10:58Z
+- [Rigid Spindle Backing Pad For Drill and Pneumatic Polisher](https://glasspolishshop.com/products/125mm-5-inch-spindle-backing-pad-rigid): Rigid Spindle Backing Pad For Drill and Pneumatic Polisher. Hook and Loop fastener for easy use with any abrasive discs, polishing pads. Size 125mm (5 inch)
+  Updated: 2025-10-16T12:04:53Z
   Vendor: Glass Polish
   Product Type: Drill Spindle Backing Pad
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/125mm-_28-5-_29-Spindle-Pad-Black-Rubber-Rigid-12736.jpg?v=1737639842
+  Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/11736.jpg?v=1760609432
   Price: €9.95 EUR
 - [Glass Polish Spindle Backer 12738](https://glasspolishshop.com/products/180mm-7-inch-spindle-pad-rubber-rigid): Backing Plate  for use with any electric drill. Hook and Loop fastener for easy use with any abrasive discs, polishing pads or detailing foams.
-  Updated: 2025-10-15T20:10:58Z
+  Updated: 2025-10-16T13:20:27Z
   Vendor: Glass Polish
   Product Type: Drill Spindle Backing Pad
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/180mm-_28-7-_29-Spindle-Pad-Rubber-rigid-12738.jpg?v=1737639870
-  Price: €12.95 EUR
-- [Glass Polish Spindle Backer 12737](https://glasspolishshop.com/products/150mm-6-inch-spindle-pad-rubber-rigid): Backing Plate  for use with any electric drill. Hook and Loop fastener for easy use with any abrasive discs, polishing pads or detailing foams.
-  Updated: 2025-10-15T20:10:58Z
-  Vendor: Glass Polish
-  Product Type: Drill Spindle Backing Pad
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/150mm-_28-6-_29-Spindle-Pad-Rubber-rigid-12737.jpg?v=1737639896
+  Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/11738.jpg?v=1760616630
   Price: €11.95 EUR
+- [150mm (6 inch) Hard Spindle Backing Pad for a drill](https://glasspolishshop.com/products/150mm-6-inch-spindle-backing-pad-rigid): 150mm (6 inch) Hard Spindle Backing Pad for a drill. Hook and Loop fastener for easy use with any abrasive discs, polishing pads.
+  Updated: 2025-10-16T12:08:08Z
+  Vendor: Glass Polish
+  Product Type: Drill Spindle Backing Pad
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/11737.jpg?v=1760616369
+  Price: €10.95 EUR
 - [Glass Polish Rotary Backing Pad 12011](https://glasspolishshop.com/products/50mm-2-inch-spindle-pad-psa-m6-black-foam-medium): M6 Backing Plate with universal drill attachment suitable for use with any electric drill.   PSA Self-Stick for use  with any self adhesive sanding discs.
-  Updated: 2025-10-15T20:10:59Z
+  Updated: 2025-10-16T14:01:45Z
   Vendor: Glass Polish
   Product Type: Drill Spindle Backing Pad
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/50mm-_28-2-_29-Spindle-Pad-PSA-M6-Black-Foam-Medium-12011.jpg?v=1737639923
-  Price: €8.95 EUR
+  Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/12011.jpg?v=1760623305
+  Price: €7.95 EUR
 - [Glass Polish Rotary Backing Pad 12012](https://glasspolishshop.com/products/75mm-3-inch-spindle-pad-psa-m6-medium): M6 Backing Plate with universal drill attachment suitable for use with any electric drill.   PSA Self-Stick for use  with any self adhesive sanding discs.
-  Updated: 2025-10-15T20:10:59Z
+  Updated: 2025-10-16T14:00:04Z
   Vendor: Glass Polish
   Product Type: Drill Spindle Backing Pad
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/75mm-_28-3-_29-Spindle-Pad-PSA-M6-medium-12012.jpg?v=1737639950
-  Price: €9.95 EUR
+  Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/12012.jpg?v=1760623179
+  Price: €8.95 EUR
 - [Glass Polish Dual Action Backer 12706](https://glasspolishshop.com/products/25mm-1-inch-dual-action-spot-repair-1-4-inch-20-yellow-rubber): 1/4&quot;-20 Backing Pad for use with any Dual Action Polisher. Hook and Loop fastener for easy use with any abrasive discs, polishing pads or detailing foams.
   Updated: 2025-10-15T20:10:59Z
   Vendor: Glass Polish
@@ -1090,7 +1090,7 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Quick-Lock-Felt-Buffing-Pad-3-_2875-mm_29-3-pk-Felt-Pads-11102.jpg?v=1737641310
   Price: €11.95 EUR
 - [Glass Polish Roll-on bristle disc 11120](https://glasspolishshop.com/products/quick-lock-bristle-disc-2-inch-50-mm-green-grit-50): Glass Polish 50 Grit (green)  Quick-Lock bristle disc suitable for use with Roloc R-type backing pad., Bristle Disc, for strip, deburr, blend, finish, polish, clean, and remove coatings more effectively than wire brushes.
-  Updated: 2025-10-15T20:11:11Z
+  Updated: 2025-10-16T12:59:08Z
   Vendor: Glass Polish
   Product Type: Quick Lock Pad
   Availability: Available
@@ -2510,7 +2510,7 @@
     Availability: Available
     Price: €84.95 EUR
 - [DIY Glass Scratch Removal Kit 75mm – Deep Scratch Repair with Drill](https://glasspolishshop.com/products/diy-glass-scratch-removal-kit-75mm): 75mm glass scratch removal kit for deep scratch repairs on all glass types. Includes abrasives, pads, compound, and drill adaptor. Fast, easy, and effective.
-  Updated: 2025-10-15T20:11:40Z
+  Updated: 2025-10-16T18:26:35Z
   Vendor: Glass Polish
   Product Type: Glass Scratch Removal Kit
   Availability: Available
@@ -2652,7 +2652,7 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/32006_29d9df40-6a87-4723-a6d0-beeabd640cce.jpg?v=1758027878
   Price: €59.95 EUR
 - [Flex VCE 26 L MC 110V / BS Professional Water Vacuum Cleaner - VCE 26 L MC 110V / BS](https://glasspolishshop.com/products/flex-vce-26-l-mc-110v-bs-professional-water-vacuum-cleaner): Flex VCE 26 L MC 110V / BS Professional Water Vacuum Cleaner - VCE 26 L MC 110V / BS - Flex tools - ✔️The high-performance turbine ensures both a high suction capacity and a high vacuum. The outcome is an excellent extraction result.✔️Level monitor, no ma
-  Updated: 2025-10-15T20:11:44Z
+  Updated: 2025-10-16T11:21:18Z
   Vendor: Flex
   Product Type: 
   Availability: Available
@@ -2758,7 +2758,7 @@
     Availability: Available
     Price: €89.95 EUR
 - [DIY Glass Scratch Removal Kit 50mm – Deep Scratch Repair with Drill](https://glasspolishshop.com/products/diy-glass-scratch-removal-kit-50mm): Compact 50mm glass polishing kit to remove scratches, etching, and water stains. Use with drill for smooth, clear results. Includes abrasives, pads and compound
-  Updated: 2025-10-15T20:11:46Z
+  Updated: 2025-10-16T13:04:51Z
   Vendor: Glass Polish
   Product Type: Glass Scratch Removal Kit
   Availability: Available
@@ -2983,10 +2983,10 @@
 ## Collections
 
 - [Repair Kits – DIY & Professional Restoration for Glass, Plastic & More](https://glasspolishshop.com/collections/repair-kits): Complete range of DIY & professional repair kits for glass, plastic, acrylic, metal and leather. Cost-effective solutions with step-by-step instructions.
-  Updated: 2025-10-15T20:10:38Z
+  Updated: 2025-10-16T11:25:03Z
   Total Products: 28
 - [Glass Restoration Kits | DIY & Professional Scratch Removal Solutions](https://glasspolishshop.com/collections/glass-restoration-kits): Explore our range of DIY and professional glass restoration kits. Remove scratches, polish glass, and restore clarity with easy-to-use, all-in-one repair kits.
-  Updated: 2025-10-15T20:10:38Z
+  Updated: 2025-10-16T11:25:03Z
   Total Products: 13
 - [Metal Polishing Kits | Stainless Steel Polishing Kits](https://glasspolishshop.com/collections/metal-polishing-kits): Metal and Stainless Steel Polishing kits with Advanced Metal Polish Compound that cleans, shines and protects the surface, kits can be used by hand, with an electric drill or polisher.
   Updated: 2025-10-15T20:10:38Z
@@ -2995,10 +2995,10 @@
   Updated: 2025-10-15T20:10:38Z
   Total Products: 5
 - [Backing Pads for Drills, Rotary Polishers, DA and Orbital Sanders](https://glasspolishshop.com/collections/backing-pads): Discover high-quality backing pads for drills, rotary polishers, dual action and orbital sanders, Multiple sizes, thread types and densities, worldwide shipping
-  Updated: 2025-10-15T20:10:38Z
+  Updated: 2025-10-16T13:53:37Z
   Total Products: 128
 - [Drill Spindle Backing Pads – Hook & Loop and PSA Pads](https://glasspolishshop.com/collections/drill-spindle-backing-pads): Shop high-quality drill spindle backing pads with hook & loop or PSA self-stick fixing. Durable, versatile and ideal for sanding, polishing and restoration.
-  Updated: 2025-10-15T20:10:38Z
+  Updated: 2025-10-16T13:53:37Z
   Total Products: 20
 - [Glass Polish Rotary Backing Pads](https://glasspolishshop.com/collections/rotary-device): Glass Polish, backing pads for rotary devices. Full range of backing plates, variety of grip types, thread sizes, diameters. Worldwide shipping available.
   Updated: 2025-10-15T20:10:38Z
@@ -3010,7 +3010,7 @@
   Updated: 2025-10-15T20:10:38Z
   Total Products: 19
 - [Abrasive Sanding & Polishing Discs – For Glass, Plastic & Paint](https://glasspolishshop.com/collections/abrasive-discs-pads): Discover abrasive sanding and polishing discs for scratch removal, surface refining and finishing on glass, plastic, paint, wood, ceramics, metal and more.
-  Updated: 2025-10-15T20:10:38Z
+  Updated: 2025-10-16T11:25:03Z
   Total Products: 30
 - [GP-PRO Waterproof Abrasive Discs – Silicon Carbide Surface Restoration](https://glasspolishshop.com/collections/gp-pro-waterproof-abrasive-discs): Shop GP-PRO waterproof abrasive discs made with premium silicon carbide. Professional-grade sanding discs for surface restoration, polishing and damage removal.
   Updated: 2025-10-15T20:10:38Z
@@ -3022,10 +3022,10 @@
   Updated: 2025-10-15T20:10:38Z
   Total Products: 11
 - [Polishing Pads – Felt, Foam & Wool Pads for Compounding & Polishing](https://glasspolishshop.com/collections/polishing-pads): Shop polishing pads for every stage of restoration. Felt, foam and wool pads for cutting, compounding, polishing and achieving a professional high-gloss finish.
-  Updated: 2025-10-15T20:10:38Z
+  Updated: 2025-10-16T11:25:03Z
   Total Products: 27
 - [Felt Polishing Pads – For Glass, Plastic, Acrylic, Metal & Paint](https://glasspolishshop.com/collections/felt-polishing-pads): Shop felt polishing pads for glass, plastic, metal and paint. Available in medium and dense grades, plus hybrid pads, ideal for scratch removal and finishing.
-  Updated: 2025-10-15T20:10:38Z
+  Updated: 2025-10-16T11:25:03Z
   Total Products: 10
 - [Wool Polishing Pads – For Fast Cutting, Compounding & Restoration](https://glasspolishshop.com/collections/wool-polishing-pads): Discover wool polishing pads for heavy correction and fast results. Ideal for cutting, compounding and paint restoration, trusted by professionals and detailers
   Updated: 2025-10-15T20:10:38Z
@@ -3034,19 +3034,19 @@
   Updated: 2025-10-15T20:10:38Z
   Total Products: 11
 - [Advanced Polishing Compounds for Glass, Plastic and Metal Restoration](https://glasspolishshop.com/collections/polishing-compounds): High-performance polishing compounds for glass, plastic, and metal restorations. Achieve flawless results with professional formulas used by experts worldwide.
-  Updated: 2025-10-15T20:10:38Z
+  Updated: 2025-10-16T11:25:03Z
   Total Products: 32
 - [Glass Scratch Removal Kits for DIY & Professional Glass Repair](https://glasspolishshop.com/collections/glass-scratch-removal-kits): Shop glass scratch removal kits for all glass surfaces. Professional and DIY systems to repair, polish and restore original glass clarity and shine
-  Updated: 2025-10-15T20:10:38Z
+  Updated: 2025-10-16T11:25:03Z
   Total Products: 8
 - [Glass Polish Automotive Glass](https://glasspolishshop.com/collections/windscreen-polish): Glass Polish Automotive Glass Restoration ,  Removes wipe blade damage, side windows scratched from any car glass by using DIY or PRO kit
-  Updated: 2025-10-15T20:10:39Z
+  Updated: 2025-10-16T11:25:03Z
   Total Products: 14
 - [Glass Polishing Compounds – Remove Scratches & Restore Clarity](https://glasspolishshop.com/collections/glass-polishing-compounds): High-performance glass polishing compounds remove fine scratches, sanding marks, haziness and limescale, restoring clarity to glass, ceramics, metals, and more
   Updated: 2025-10-15T20:10:39Z
   Total Products: 8
 - [Cerium Oxide Polishing Powder – Restore Glass Clarity & Shine](https://glasspolishshop.com/collections/cerium-oxide-powder): Suspension-treated, high-purity cerium oxide for polishing glass, gemstones, and crystals. Removes fine scratches, sanding marks, haziness, and limescale
-  Updated: 2025-10-15T20:10:39Z
+  Updated: 2025-10-16T11:25:03Z
   Total Products: 12
 - [Glass Polish Plastic and Acrylic compounds](https://glasspolishshop.com/collections/plastic-polishing-compounds): Plastic Polishing
   Updated: 2025-10-15T20:10:39Z
@@ -3100,25 +3100,25 @@
   Updated: 2025-10-15T20:10:39Z
   Total Products: 3
 - [GLASS POLISH SHOP - Special Offers &amp; Bundles](https://glasspolishshop.com/collections/special-offers-bundles): Huge savings on the products you like
-  Updated: 2025-10-15T20:10:39Z
+  Updated: 2025-10-16T11:25:03Z
   Total Products: 35
 - [GlasX™ Premium Foam-Backed Abrasive Discs – Scratch Removal & Sanding](https://glasspolishshop.com/collections/glasx-foam-backed-abrasive-discs): Shop GlasX™ foam-backed abrasive discs for glass, plastic and headlights. Ideal for scratch removal and pre-polish sanding with smooth, consistent results.
-  Updated: 2025-10-15T20:10:39Z
+  Updated: 2025-10-16T11:25:03Z
   Total Products: 6
 - [flex power tools,](https://glasspolishshop.com/collections/flex-tools): flex tools power tools accessories for professional craftspeople. System solutions for Refurbishment, renovation &amp; modernization, metalworking, automotive
   Updated: 2025-10-15T20:10:39Z
   Total Products: 31
 - [DIY Glass Scratch Removal & Polishing Kits for Home Use](https://glasspolishshop.com/collections/diy-glass-restoration-kits): Remove scratches, restore clarity, and polish glass at home with our easy-to-use DIY kits for windscreens, windows, doors, shower glass, ceramic hobs and more.
-  Updated: 2025-10-15T20:10:39Z
+  Updated: 2025-10-16T11:25:03Z
   Total Products: 8
 - [Discs & Pads – Abrasive, Backing, Polishing & Sanding Pads for Repairs](https://glasspolishshop.com/collections/discs-and-pads): Discover abrasive discs, backing pads, polishing pads, and sanding pads for professional and DIY use. Achieve precision and durability on any surface.
   Updated: 2025-10-15T20:10:40Z
   Total Products: 34
 - [Professional Glass Restoration Scratch Removal Kits & Consumables](https://glasspolishshop.com/collections/professional-glass-restoration-kits-consumables): Explore our range of professional glass restoration kits, abrasives, pads and polishing compounds. Trusted by technicians worldwide for expert scratch removal.
-  Updated: 2025-10-15T20:10:40Z
+  Updated: 2025-10-16T11:25:03Z
   Total Products: 86
 - [Glass Polishing & Restoration Consumables for Glass Scratch Repair](https://glasspolishshop.com/collections/glass-restoration-consumables): Everything You Need to Polish, Restore, and Protect Glass Surfaces. Abrasives, compounds, pads and tools for professional clarity and long-lasting protection.
-  Updated: 2025-10-15T20:10:40Z
+  Updated: 2025-10-16T11:25:03Z
   Total Products: 85
 - [ProMesh™ Foam-Backed Abrasive Discs – Durable Mesh for Restoration](https://glasspolishshop.com/collections/promesh-foam-backed-abrasive-discs): ProMesh™ foam-backed abrasive discs made with durable mesh for glass restoration, plastic polishing and surface repair. Long-lasting performance and precision.
   Updated: 2025-10-15T20:10:40Z
