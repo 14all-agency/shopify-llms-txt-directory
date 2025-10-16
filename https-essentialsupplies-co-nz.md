@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-10-16T12:00:42.520Z
+- Updated At: 2025-10-16T16:00:39.825Z
 
 ## Products
 
@@ -3691,7 +3691,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/fp-recycled-bin-liner-240l-black-1125mm-x-1500mm-x-40mu-125-liners-wheelie-bin-liners-essential-supplies-189359.jpg?v=1719445075
   Price: $104.00 NZD
 - [Plastic Rectangle Bin 8L - White, 8L Capacity](https://essentialsupplies.co.nz/products/plastic-rectangle-bin-8l-white-8l-capacity-1): Plastic wall mounted bins are made from a durable plastic construction. The bin has a 8 litre capacity and is able to stand on its own or be wall mounted for added convenience. Available in a gloss white colour with a range of lids to fit. Suitable for use in washrooms or kitchenettes at the office, hospital, hospitality, education and care facilities.
-  Updated: 2025-01-09T10:44:44Z
+  Updated: 2025-10-16T15:19:38Z
   Vendor: Mattews Packaging
   Product Type: Rubbish Bins
   Availability: Available
@@ -3705,7 +3705,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/plastic-rectangle-bin-8l-bag-support-white-wall-mount-design-1-rubbish-bins-essential-supplies-389211.jpg?v=1719445556
   Price: $10.00 NZD
 - [Plastic Rectangle Bin 8L Swing Lid - White, Weighted Swing Design - 1 Lid](https://essentialsupplies.co.nz/products/plastic-rectangle-bin-8l-swing-lid-white-weighted-swing-design-1)
-  Updated: 2025-01-09T00:17:36Z
+  Updated: 2025-10-16T14:31:58Z
   Vendor: Mattews Packaging
   Product Type: Rubbish Bins
   Availability: Available
