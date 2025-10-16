@@ -6,14 +6,14 @@
 - Timezone: Europe/Berlin
 - Created At: 2023-03-22T10:49:51Z
 - Contact Email: onlineshop@lastradafashion.de
-- Updated At: 2025-10-16T16:01:01.822Z
+- Updated At: 2025-10-16T20:00:54.314Z
 
 La Strada is love for Italian Fashion. Our collections represents the latest fashion trends from Italy and is lovingly created and arranged for the modern fashionable woman who is looking for the newest trends, the best quality and best price. 
 
 ## Products
 
 - [Bindegürtel aus Leder](https://lastradafashion.de/products/bindegurtel-aus-leder): Dieser Leder Gürtel zum Binden ist ein zeitloses Accessoire, das jedes Outfit aufwertet. Mit einer Breite von 9 cm an der breitesten Stelle sorgt er für eine feminine Silhouette und betont die Taille gekonnt. Durch das schmale Ende des Gürtels kann er einfach durch die Schlaufen von Kleidern oder Jumpsuits gezogen und individuell gebunden werden. Das weiche Leder fühlt sich angenehm auf der Haut an und macht den Gürtel zu einem bequemen Begleiter im Alltag. Ob zu einem schlichten Sommerkleid oder einem lässigen Overall, dieser Gürtel ist vielseitig einsetzbar und verleiht jedem Look das gewisse Etwas. Holen Sie sich diesen zeitlosen Klassiker und setzen Sie modische Akzente! MARKE - La Strada PASSFORM UND SCHNITT - Fällt der Größe entsprechend normal aus - normal geschnitten MATERIAL UND VERARBEITUNG - Materialmix: Leder - Materialqualität: mittelschweres Material, festes, nicht dehnbares Material PFLEGEHINWEIS - Nicht waschen, Mit einem feuchten Tuch abwischen, Nicht Trockner geeignet, Bügeln mit niedriger Temperatur (max. 110°C, kein Dampf)
-  Updated: 2025-10-15T14:12:56Z
+  Updated: 2025-10-16T16:11:12Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
@@ -191,7 +191,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/products/langes-top-mit-spitze-la-strada-14.jpg?v=1706890443
     Price: 19,90 € EUR
 - [Basic Top](https://lastradafashion.de/products/basic-top): Dieses Basic-Top mit seinem anliegenden Schnitt und dem klassischen Rundhalsausschnitt ist ein Must-Have für jede Garderobe. Die breiten Träger sorgen nicht nur für einen bequemen Sitz, sondern verleihen dem Top auch einen modernen Look. Ob als Unterzieh-Shirt unter einem Pullover oder Cardigan oder solo getragen zu einer Jeans oder Rock - dieses vielseitige Top passt zu jedem Outfit. Durch seinen schlichten und zeitlosen Stil ist es ein echtes Allroundtalent, das in keinem Kleiderschrank fehlen sollte. Die hochwertige Verarbeitung und das angenehme Material machen es zudem zu einem echten Lieblingsteil, das man immer wieder gerne trägt. Ein Basic-Top, das einfach immer passt und für einen minimalistischen und cleanen Look sorgt. MARKE - La Strada PASSFORM UND SCHNITT - One Size (von Größen 36 bis 42) - normal geschnitten, locker fallend, reicht über die Hüfte - Rundhalsausschnitt, ärmellos, Rückenausschnitt MATERIAL UND VERARBEITUNG - Materialmix: 95 % Viskose 5 % Elasthan - Materialqualität: leichtes Material, elastisches Material PFLEGEHINWEIS - Maschinenwäsche 30°C MODEL - Das Model ist 176cm groß und trägt Konfektionsgröße 36 bzw. S
-  Updated: 2025-10-16T13:26:22Z
+  Updated: 2025-10-16T16:11:12Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
@@ -379,7 +379,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI4MjU3MDcuanBn_52e42fcd-9ce2-4fd9-8a00-ce435475f4cb.jpg?v=1741857469
     Price: 13,00 € EUR
 - [Freizeithose im Crinkle-Look](https://lastradafashion.de/products/freizeithose-im-crinkle-look): Tauchen Sie ein in den ultimativen Komfort und den angesagten Stil unserer Freizeithose im Crinkle-Look. Diese Hose vereint Lässigkeit und Trendbewusstsein auf harmonische Weise und wird schnell zu Ihrem Lieblingsstück für entspannte Tage. Mit ihrer 7/8 Länge strahlt diese Hose Modernität und Frische aus, während der Crinkle-Look ihr eine unverwechselbare Textur verleiht. Dieser dezente Knittereffekt verleiht der Hose eine subtile Dynamik, die den Blick fesselt und Ihnen einen einzigartigen Look verleiht, ohne auf Komfort zu verzichten. Der elastische Bund in Kombination mit dem praktischen Kordelzug erlaubt eine individuelle Anpassung der Passform. Das bedeutet, dass Sie diese Hose so tragen können, wie es Ihnen am bequemsten ist. Der elastische Bund schmiegt sich sanft an Ihre Taille an und sorgt für einen sicheren Sitz, während der Kordelzug zusätzlichen Charme verleiht. Vorne und hinten mit Taschen ausgestattet, wird diese Freizeithose nicht nur durch ihren Stil definiert, sondern auch durch ihre praktische Funktionalität. Bewahren Sie Ihre Essentials in den Taschen auf, während Sie den Tag genießen, sei es beim Bummeln in der Stadt oder beim Relaxen zu Hause. Egal, ob Sie sie mit einem legeren T-Shirt für einen lässigen Look oder mit einem schicken Oberteil für mehr Eleganz kombinieren, diese Freizeithose im Crinkle-Look wird immer eine hervorragende Wahl sein. Sie verleiht Ihnen das Beste aus beiden Welten: Mode und Gemütlichkeit. MARKE - La Strada PASSFORM UND SCHNITT - One Size (von Größen 36 bis 42) - normal geschnitten - Bundhöhe: Mid-Rise, Bund mit Kordelzug - elastischer Bund - schmales Bein, Gesäßtasche/n MATERIAL UND VERARBEITUNG - Materialmix: 95% Viskose 5% Elasthan - Materialqualität: leichtes Material, elastisches Material PFLEGEHINWEIS - Maschinenwäsche 30°C MODEL - Das Model ist 172 cm groß und trägt Konfektionsgröße 36 bzw. S
-  Updated: 2025-10-16T02:27:06Z
+  Updated: 2025-10-16T16:42:26Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
@@ -551,7 +551,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvOTQxOTg5MS5qcGc_0c634f7f-3116-4d4b-8b06-f316825005cb.jpg?v=1740650899
     Price: 59,00 € EUR
 - [Longsleeve mit Wellensaum](https://lastradafashion.de/products/longsleeve-mit-wellensaum): Dieses klassisches dünnes Longsleeve ist ein zeitloses Kleidungsstück, das sich perfekt für den Übergang eignet. Das Longsleeve ist aus einem leichten und weichen Stoff gefertigt, der angenehm auf der Haut liegt und gleichzeitig für ausreichend Wärme sorgt. Mit seinen langen Ärmeln bietet es zusätzlichen Schutz vor kühleren Temperaturen und ermöglicht es, das Kleidungsstück auch an frischeren Tagen zu tragen. Durch den Rundhalsausschnitt erhält das Longsleeve einen klassischen Look, der sowohl elegant als auch lässig wirken kann, je nachdem, wie es kombiniert wird. Der Wellensaum verleiht dem Longsleeve einen besonderen Twist und verleiht ihm einen femininen Touch. Es ist ein zeitloses Kleidungsstück, das in jedem Kleiderschrank eine gute Figur macht und zu verschiedenen Anlässen getragen werden kann – sei es im Büro, bei einem entspannten Treffen mit Freunden oder auf einem Wochenendausflug. MARKE - La Strada PASSFORM UND SCHNITT - One Size (von Größen 36 bis 42), Passgenauigkeit - Passgenau - normal geschnitten, eng anliegend - Rundhalsausschnitt, langer Arm MATERIAL UND VERARBEITUNG - Materialmix: 95% Viskose, 5% Elastan - Materialqualität: leichtes Material, elastisches Material PFLEGEHINWEIS - Maschinenwäsche 30°C, nicht Trockner geeignet, bei 110 Grad bügeln, nicht bleichen MODEL - Das Model ist 170cm groß und trägt Konfektionsgröße 36 bzw. S
-  Updated: 2025-10-14T11:13:40Z
+  Updated: 2025-10-16T17:26:28Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
@@ -1642,7 +1642,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI2NjQ1MzYuanBn.jpg?v=1740502555
     Price: 98,00 € EUR
 - [Softe Longjacke mit Kapuze](https://lastradafashion.de/products/softe-longjacke-mit-kapuze): Die softe Longjacke mit Kapuze ist der perfekte Begleiter für stilvolle und gemütliche Outfits. Ihr kastiger Schnitt sorgt für eine moderne, entspannte Silhouette, während die verlängerte Passform schmeichelhaft über die Hüfte fällt und eine lässige Note verleiht. Die große Kapuze verleiht der Jacke nicht nur einen coolen Look, sondern sorgt auch für zusätzlichen Komfort an kühleren Tagen. Dank des schlichten, unifarbenen Designs lässt sie sich vielseitig kombinieren und passt sowohl zu lässigen Casual-Looks als auch zu eleganteren Outfits. Das weiche, leichte Material macht die Jacke besonders angenehm zu tragen und verleiht ihr eine fließende Optik. Ob über einem Basic-Shirt mit Jeans oder als stylischer Begleiter zu einem Kleid – die softe Longjacke mit Kapuze ist ein echtes Must-have für jede Garderobe! MARKE - La Strada PASSFORM UND SCHNITT - One Size (von Größen 36 bis 42) - normal geschnitten, kastiger Schnitt, reicht über die Hüfte - Jacke MATERIAL UND VERARBEITUNG - Muster: Unifarben - Materialmix: 95% Polyester, 5% Elastan - Materialqualität: leichtes Material PFLEGEHINWEIS - Maschinenwäsche bis 30°C, Nicht Trockner geeignet, Bügeln mit mäßiger Temperatur (max. 150°C), Bleichen nicht erlaubt MODEL - Das Model ist 176cm groß und trägt Konfektionsgröße 36 bzw. S GrößeOne Size
-  Updated: 2025-10-14T11:13:45Z
+  Updated: 2025-10-16T16:27:02Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
