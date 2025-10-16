@@ -10,7 +10,7 @@
 - Contact Email: info@bulderi.com.tr
 - Contact Phone: +908503089625
 - Address: Yakuplu Mah. Hürriyet Blv. Skyport Residence No:1/151 Beylikdüzü, İstanbul / Türkiye
-- Updated At: 2025-10-16T04:00:29.833Z
+- Updated At: 2025-10-16T16:00:30.193Z
 
 ## Products
 
@@ -219,7 +219,7 @@
     Image: https://cdn.shopify.com/s/files/1/0641/0643/0652/files/klasiksiyah5.png?v=1712387089
     Price: ₺899,90 TRY
 - [Klasik Hakiki Deri Siyah Cüzdan - Bulderi](https://bulderi.com.tr/products/klasik-hakiki-deri-siyah-cuzdan): Bu klasik siyah deri cüzdan, zarafetin ve vintage tarzın mükemmel bir kombinasyonunu sunarak kendine özgü bir şıklık sunuyor. Kaliteli deri malzemesi, cüzdanın sağlamlığını ve dayanıklılığını vurgularken, siyah rengi zamanın ötesindeki bir şıklığı temsil ediyor.
-  Updated: 2025-10-11T11:19:01Z
+  Updated: 2025-10-16T14:31:02Z
   Vendor: Bulderi
   Product Type: Klasik Cüzdan
   Availability: Available
