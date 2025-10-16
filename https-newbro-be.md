@@ -10,7 +10,7 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
 - Timezone: Europe/Brussels
 - Created At: 2025-05-21T21:01:24Z
 - Contact Email: info@newbro.be
-- Updated At: 2025-10-14T08:00:33.107Z
+- Updated At: 2025-10-16T00:00:33.727Z
 
 ## Products
 
@@ -1663,86 +1663,86 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/689267b5a5bc3.jpg?v=1754425671
     Price: € 22,95 EUR
 - [Luxe jersey, zachte stretch – jouw everyday hijab | bij BRO](https://newbro.be/products/luxe-jersey-zachte-stretch-jouw-nieuwe-everyday-hijab): Luxe Jersey, zachte stretch – jouw nieuwe everyday hijab, zacht, ademend, mooie val en blijft goed zitten. Makkelijk te stylen en te wassen.
-  Updated: 2025-10-12T21:05:23Z
+  Updated: 2025-10-15T09:51:09Z
   Vendor: Diellla - Netazone
   Product Type: Direct sales
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Premium_Jersey_-_Netazone_-_img001.webp?v=1760296559
+  Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/ChatGPT_Image_14_okt_2025_18_46_42.png?v=1760477606
   - [#27 Lila Grijs](https://newbro.be/products/luxe-jersey-zachte-stretch-jouw-nieuwe-everyday-hijab?variant=55806945821052)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Licht_Grijs_LQ_4a312efc-e89c-42af-9992-13775776a066.jpg?v=1760296559
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/ChatGPT_Image_14_okt_2025_18_46_42.png?v=1760477606
     Price: € 11,85 EUR
   - [#1 Zwart](https://newbro.be/products/luxe-jersey-zachte-stretch-jouw-nieuwe-everyday-hijab?variant=55658487153020)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/zwart_LQ.jpg?v=1760296559
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Black_model.jpg?v=1760477606
     Price: € 11,85 EUR
   - [#2 Wit](https://newbro.be/products/luxe-jersey-zachte-stretch-jouw-nieuwe-everyday-hijab?variant=55768113250684)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Wit_LQ.jpg?v=1760296559
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Wit_model.jpg?v=1760477606
     Price: € 11,85 EUR
   - [#3 Prelude](https://newbro.be/products/luxe-jersey-zachte-stretch-jouw-nieuwe-everyday-hijab?variant=55737994281340)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Prelude_LQ.jpg?v=1760296559
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/ChatGPT_Image_14_okt_2025_18_46_47.png?v=1760477606
     Price: € 11,85 EUR
   - [#6 Roze](https://newbro.be/products/luxe-jersey-zachte-stretch-jouw-nieuwe-everyday-hijab?variant=55804757705084)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Roze_LQ.jpg?v=1760296559
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/ChatGPT_Image_14_okt_2025_18_47_39.png?v=1760477606
     Price: € 11,85 EUR
   - [#11 Oud Roze](https://newbro.be/products/luxe-jersey-zachte-stretch-jouw-nieuwe-everyday-hijab?variant=55804761309564)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Oud_Roze_LQ.jpg?v=1760296559
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/ChatGPT_Image_14_okt_2025_18_47_46.png?v=1760477606
     Price: € 11,85 EUR
   - [#14 Hampton](https://newbro.be/products/luxe-jersey-zachte-stretch-jouw-nieuwe-everyday-hijab?variant=55658487087484)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Hampton_LQ.jpg?v=1760296559
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Hampton_model_48997587-ed55-48b6-94b5-0e9cba8c7f19.jpg?v=1760477606
     Price: € 11,85 EUR
   - [#15 Tan](https://newbro.be/products/luxe-jersey-zachte-stretch-jouw-nieuwe-everyday-hijab?variant=55737995559292)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Tan_LQ.jpg?v=1760296559
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Tan_model.jpg?v=1760477606
     Price: € 11,85 EUR
   - [#16 Lichte Klei](https://newbro.be/products/luxe-jersey-zachte-stretch-jouw-nieuwe-everyday-hijab?variant=55768332861820)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/16_Lichte_Klei_LQ.jpg?v=1760296559
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Lichte_klei_model.jpg?v=1760477606
     Price: € 11,85 EUR
   - [#17 Beige](https://newbro.be/products/luxe-jersey-zachte-stretch-jouw-nieuwe-everyday-hijab?variant=55806970003836)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Beige_LQ.jpg?v=1760296559
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Beige_grijs_model.jpg?v=1760477606
     Price: € 11,85 EUR
   - [#20 Kashmir Blauw](https://newbro.be/products/luxe-jersey-zachte-stretch-jouw-nieuwe-everyday-hijab?variant=55806884807036)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Kashmir_Blue_LQ.jpg?v=1760296559
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Kashmir_blauw_model.jpg?v=1760477606
     Price: € 11,85 EUR
   - [#21 Konings Blauw](https://newbro.be/products/luxe-jersey-zachte-stretch-jouw-nieuwe-everyday-hijab?variant=55804763537788)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Konings_Blauw_LQ.jpg?v=1760195915
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Konings_blauw_model.jpg?v=1760477606
     Price: € 11,85 EUR
   - [#24 Cape Cod](https://newbro.be/products/luxe-jersey-zachte-stretch-jouw-nieuwe-everyday-hijab?variant=55737996312956)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Cape_Cod_LQ.jpg?v=1760195915
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Cape_cod_model.jpg?v=1760477606
     Price: € 11,85 EUR
   - [#30 Donker Grijs](https://newbro.be/products/luxe-jersey-zachte-stretch-jouw-nieuwe-everyday-hijab?variant=55737997459836)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Grijs_groen_LQ.jpg?v=1760195915
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Donker_grijs_model.jpg?v=1760477606
     Price: € 11,85 EUR
   - [#32 Donker Bruin](https://newbro.be/products/luxe-jersey-zachte-stretch-jouw-nieuwe-everyday-hijab?variant=55658487120252)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Donker_Bruin_LQ.jpg?v=1760195915
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Donker_bruin_model.jpg?v=1760477606
     Price: € 11,85 EUR
   - [#37 Donker Groen](https://newbro.be/products/luxe-jersey-zachte-stretch-jouw-nieuwe-everyday-hijab?variant=55768100045180)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/groen_LQ.jpg?v=1760195915
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Donker_groen_model.jpg?v=1760477606
     Price: € 11,85 EUR
   - [#39 Oosters Blauw](https://newbro.be/products/luxe-jersey-zachte-stretch-jouw-nieuwe-everyday-hijab?variant=55768228561276)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Eastern_Blue_LQ.jpg?v=1760195915
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Eastern_blue_model.jpg?v=1760477606
     Price: € 11,85 EUR
   - [#42 Koper](https://newbro.be/products/luxe-jersey-zachte-stretch-jouw-nieuwe-everyday-hijab?variant=55768271454588)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Koper_LQ.jpg?v=1760195915
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Koper_model.jpg?v=1760477606
     Price: € 11,85 EUR
-  - [#44 Dennenappel Bruin](https://newbro.be/products/luxe-jersey-zachte-stretch-jouw-nieuwe-everyday-hijab?variant=55768412684668)
+  - [#44 Dennenappel](https://newbro.be/products/luxe-jersey-zachte-stretch-jouw-nieuwe-everyday-hijab?variant=55768412684668)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Lissabon_Bruin_LQ.jpg?v=1760195915
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Dennappel_model.jpg?v=1760477606
     Price: € 11,85 EUR
 - [No Snag Hijab Clip.](https://newbro.be/products/no-snag-hijab-clip-een-set-van-vier): No Snag Hijab Clip, een set van vier niet-uitzakkende hijabpinnen zijn een praktische en stijlvolle oplossing om twee stukken stof aan elkaar te bevestigen, met name gebruikt voor hijaabs. Deze pinnen zijn zo ontworpen dat ze gemakkelijk op de stof kunnen worden geschoven en zorgen voor een stevige grip zonder dat ze doorzakken of hangen.
   Updated: 2025-10-13T00:28:10Z
@@ -1767,14 +1767,14 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/sluitpinnen_Hijab_2.webp?v=1757344329
     Price: € 1,50 EUR
 - [Premium Jersey Hijab met subtiele lijnafwerking.](https://newbro.be/products/premium-jersey-met-lijn): Zachte, rekbare jersey hijab met subtiele lijnafwerking. Valt elegant, kreukt weinig en blijft de hele dag comfortabel zitten.
-  Updated: 2025-10-12T21:04:11Z
+  Updated: 2025-10-14T23:05:20Z
   Vendor: Diellla - Netazone
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/jersey_hijab_met_golfjewebp.webp?v=1759702985
   - [#11 Pine Cone](https://newbro.be/products/premium-jersey-met-lijn?variant=55836822962556)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Pine_Cone_LQ.jpg?v=1760185852
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/pine_cone_model.jpg?v=1760481416
     Price: € 11,85 EUR
   - [#12 Dove Grey](https://newbro.be/products/premium-jersey-met-lijn?variant=55836822995324)
     Availability: Available
@@ -1782,7 +1782,7 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
     Price: € 11,85 EUR
   - [#14 Almond Frost](https://newbro.be/products/premium-jersey-met-lijn?variant=55836823060860)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Almond_Frost_LQ.jpg?v=1760185852
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Almond_frost_model.jpg?v=1760483110
     Price: € 11,85 EUR
   - [#17 Pickled Bluewood](https://newbro.be/products/premium-jersey-met-lijn?variant=55836823159164)
     Availability: Available
@@ -1806,11 +1806,11 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
     Price: € 11,85 EUR
   - [#20 Envy](https://newbro.be/products/premium-jersey-met-lijn?variant=55836823191932)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Envy_LQ.jpg?v=1760287436
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Envy_model.jpg?v=1760482015
     Price: € 11,85 EUR
   - [#21 Saddle](https://newbro.be/products/premium-jersey-met-lijn?variant=55836823224700)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Saddle_LQ_17485c8e-5fda-49f6-b070-27cc821373b0.jpg?v=1760287436
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Saddle_model.jpg?v=1760482134
     Price: € 11,85 EUR
 - [Luxe jersey hijab in Lila Grijs | bij BRO](https://newbro.be/products/luxe-jersey-hijab-kopie-lila-grijs): Deze luxe Jersey hijab, zacht, ademend, mooie val en blijft goed zitten. Makkelijk te stylen en te wassen.
   Updated: 2025-10-13T06:18:28Z
