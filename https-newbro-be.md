@@ -10,7 +10,7 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
 - Timezone: Europe/Brussels
 - Created At: 2025-05-21T21:01:24Z
 - Contact Email: info@newbro.be
-- Updated At: 2025-10-16T00:00:33.727Z
+- Updated At: 2025-10-16T16:00:31.619Z
 
 ## Products
 
