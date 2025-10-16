@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-10-16T00:00:46.335Z
+- Updated At: 2025-10-16T04:00:47.640Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -23069,7 +23069,7 @@ From £190.
     Availability: Available
     Price: £190.00 GBP
 - [Men's Solid Sterling Silver Rope Chain Necklace. UK Handcrafted](https://www.lilyblanche.com/products/mens-solid-sterling-silver-rope-chain-necklace): Premium heavyweight rope chain necklace in solid 925 sterling silver. Handmade in the UK. Diamond-cut links, 5.5mm width. Three lengths available. Perfect Christmas gift.
-  Updated: 2025-10-15T18:55:56Z
+  Updated: 2025-10-16T03:06:39Z
   Vendor: Lily Blanche
   Product Type: Choose Your Chain
   Availability: Available
