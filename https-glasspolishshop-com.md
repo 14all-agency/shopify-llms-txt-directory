@@ -7,7 +7,7 @@
 - Currency: EUR
 - Timezone: Europe/Dublin
 - Created At: 2025-01-23T10:54:05Z
-- Updated At: 2025-10-16T00:54:29.158Z
+- Updated At: 2025-10-16T08:00:34.707Z
 
 ## Products
 
@@ -614,21 +614,21 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/12002.jpg?v=1760538882
   Price: €8.95 EUR
 - [Soft Spindle Backing Pad for drill 50mm](https://glasspolishshop.com/products/50mm-2-inch-spindle-pad-m6-hook-and-loop-soft): Soft Spindle Backing Pad for drill 50mm. Hook and loop fastener, M6 thread with drill attachment for use with any drill.
-  Updated: 2025-10-15T20:10:53Z
+  Updated: 2025-10-16T03:17:15Z
   Vendor: Glass Polish
   Product Type: Drill Spindle Backing Pad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/12001.jpg?v=1760541393
   Price: €8.95 EUR
 - [Spindle Backing Pad for a drill 75mm](https://glasspolishshop.com/products/75mm-3-inch-spindle-pad-for-drill): Spindle Backing Pad for a drill 75mm with hook and loop fastener, M6 thread with drill attachment for use with any drill.
-  Updated: 2025-10-15T20:10:54Z
+  Updated: 2025-10-16T02:44:55Z
   Vendor: Glass Polish
   Product Type: Drill Spindle Backing Pad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/12003.jpg?v=1760539478
   Price: €9.95 EUR
 - [Soft Spindle Backing Pad for drill 75mm](https://glasspolishshop.com/products/75mm-3-inch-spindle-pad-m6-hook-and-loop-soft): Soft Spindle Backing Pad for drill 75mm. Hook and loop fastener, M6 thread with drill attachment for use with any drill.
-  Updated: 2025-10-15T20:10:54Z
+  Updated: 2025-10-16T03:03:06Z
   Vendor: Glass Polish
   Product Type: Drill Spindle Backing Pad
   Availability: Available
