@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-10-16T12:01:12.059Z
+- Updated At: 2025-10-16T16:01:12.771Z
 
 ## Products
 
@@ -7156,7 +7156,7 @@ favoritos são cantar e dançar. Não é à toa que ela chama a atenção dos
 fãs com a sua energia. Ela usa o seu talento para levar as amigas 
 adiante na sua jornada. Este conjunto da Playmobil inclui pulseira de 
 silicone, pérolas, amuleto microfone, carta para colecionar, au...
-  Updated: 2025-10-13T06:28:29Z
+  Updated: 2025-10-16T13:40:46Z
   Vendor: Playmobil
   Product Type: + 5 anos
   Availability: Available
@@ -9106,7 +9106,7 @@ numerosa.Figura em borracha termoplástica não tóxica e livre d...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/transformers-x-jurassicpark-tyrannocon-rex-vs-autobot-jp93-232644222-transformers-1178695538.jpg?v=1752876968
   Price: 99,99 € EUR
 - [Triominos Tour Edition](https://brincatoys.pt/products/triominos-tour-edition): Leve consigo a emoção e a diversão com este fantástico jogo Triominos Tour Edition, o jogo de tabuleiro mais simples e emocionante. Divirta-se com esta nova versão do Triominos, com uma caixa de metal, criada especialmente para a maioria dos viajantes. O famoso jogo de dominó triangular, agora num tamanho especial e prático.  Dimensão: 19 x 12 x 5
-  Updated: 2025-10-14T00:54:08Z
+  Updated: 2025-10-16T12:04:07Z
   Vendor: Seleção Brincatoys
   Product Type: + 6 anos
   Availability: Available
@@ -17058,7 +17058,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/monster-jam-megalodon-1-24-acao-realista-776913824-0778988509258-brincatoys-1178700259.jpg?v=1752953049
   Price: 21,50 € EUR
 - [Monster Jam - Megalodon azul 1/24: Ação Realista](https://brincatoys.pt/products/monster-jam-megalodon-azul): Monster Jam – Megalodon azul 1/24, o camião com detalhes incrivelmente autênticos e suspensão funcional, perfeito para apaixonados de Monster Jam.
-  Updated: 2025-10-13T06:17:55Z
+  Updated: 2025-10-16T13:34:26Z
   Vendor: Seleção Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -17436,7 +17436,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/so-pure-senso-ball-girafa-sofia-brinquedo-sensorial-para-bebes-102012524-3056562201253-girafa-sofia-1178700548.jpg?v=1752957616
   Price: 19,90 € EUR
 - [Anel de dentição So Pure Girafa Sofia](https://brincatoys.pt/products/anel-de-denticao-so-pure-girafa-sofia): Apresentamos o Anel de dentição So Pure Girafa Sofia, um brinquedo encantador que combina diversão e alívio para o seu bebé durante a fase de dentição. Primeiramente, este produto é cuidadosamente projetado para proporcionar conforto durante os momentos desafiadores do crescimento dos primeiros dentes. Por outro lado, fabricamos o Anel de dentição So'Pure Girafa Sofia com borracha 100% natural, garantindo a máxima segurança e suavidade para as gengivas sensíveis do seu bebé. A textura macia e flexível do anel de dentição oferece alívio imediato, enquanto as diferentes superfícies estimulam o desenvolvimento sensorial. O design icónico da girafa Sophie, com suas manchas laranja características, torna este brinquedo instantaneamente reconhecível e adorável para os bebés. Além disso, o tamanho compacto e o peso leve tornam-no fácil de segurar para as mãozinhas pequenas, promovendo o desenvolvimento motor fino. O Anel de dentição SO'PURE Girafa Sofia faz parte da coleção "So Pure", que se destaca pela utilização de materiais naturais e seguros. Concebida especialmente para os pais que procuram produtos de alta qualidade, livres de produtos químicos nocivos e respeitadores do ambiente. Por fim, o Anel de dentição SO'PURE Girafa Sofia é o companheiro perfeito para o seu bebé durante a fase de dentição, oferecendo conforto e estimulação num único produto de qualidade superior. Escolha este brinquedo versátil e natural para proporcionar momentos de alegria e alívio ao seu pequeno Em suma... Fabricado com borracha 100% natural Função anel de dentição Design icónico da Sophie la girafe Ideal para bebés a partir dos 0 meses Dimensão: 13 x 16,50 x 4 cm.Idade recomendada. + de 0 meses.
-  Updated: 2025-10-15T15:49:15Z
+  Updated: 2025-10-16T12:47:19Z
   Vendor: Girafa Sofia
   Product Type: + 0 meses
   Availability: Available
@@ -21177,6 +21177,27 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/autocolantes-permanentes-fadas-e-flores-para-criar-921804925-8410782180494-selecao-brincatoys-1197573401.jpg?v=1760471285
   Price: 5,50 € EUR
+- [FurReal Poop-a-Lots King Charles Spaniel: Diversão Garantida](https://brincatoys.pt/products/furreal-poop-a-lots-king-charles-spaniel): Conheça o FurReal Poop-a-Lots King Charles Spaniel! Diversão e educação ao cuidar de um adorável cãozinho. Adquira já o seu!
+  Updated: 2025-10-16T15:03:18Z
+  Vendor: FurReal Friends
+  Product Type: + 4 anos
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/furreal-poop-a-lots-king-charles-spaniel-diversao-garantida-772815925-0886144281594-furreal-friends-1197946263.jpg?v=1760572087
+  Price: 39,90 € EUR
+- [Conjunto de Figuras Disney SuperKitties para Brincar](https://brincatoys.pt/products/conjunto-figuras-disney-superkitties): Traga a magia da Disney para casa com o Conjunto de Figuras Disney SuperKitties! As crianças vão adorar recriar aventuras com estas mini-figuras! 🎉
+  Updated: 2025-10-16T15:01:51Z
+  Vendor: Brincatoys
+  Product Type: + 3 anos
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/conjunto-de-figuras-disney-superkitties-para-brincar-776700125-0886144670015-brincatoys-1198003283.jpg?v=1760608086
+  Price: 27,50 € EUR
+- [Cápsula Surpresa figura SuperKittens para Crianças](https://brincatoys.pt/products/capsula-surpresa-figura-superkittens): Descubra a magia com a Cápsula Surpresa figura SuperKittens! Cada figura misteriosa trará alegria às mãos dos seus pequenos. 🎉
+  Updated: 2025-10-16T15:00:31Z
+  Vendor: Brincatoys
+  Product Type: + 3 anos
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/capsula-surpresa-figura-superkittens-para-criancas-776700425-0886144670046-brincatoys-1198015800.jpg?v=1760615408
+  Price: 11,99 € EUR
 
 ## Collections
 
@@ -21193,7 +21214,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-30T11:52:07Z
   Total Products: 38
 - [Figuras de ação](https://brincatoys.pt/collections/figuras-de-acao)
-  Updated: 2025-10-16T11:21:15Z
+  Updated: 2025-10-16T15:01:35Z
   Total Products: 565
 - [Instrumentos musicais](https://brincatoys.pt/collections/instrumentos-musicais)
   Updated: 2025-10-05T15:27:18Z
@@ -21256,7 +21277,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-16T09:30:10Z
   Total Products: 107
 - [Peluches](https://brincatoys.pt/collections/peluches)
-  Updated: 2025-10-15T20:44:59Z
+  Updated: 2025-10-16T15:02:54Z
   Total Products: 107
 - [Outras categorias](https://brincatoys.pt/collections/brinquedos-outras-categorias)
   Updated: 2025-10-16T09:44:16Z
@@ -21304,7 +21325,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-16T11:21:15Z
   Total Products: 201
 - [Veículos de colecção](https://brincatoys.pt/collections/carro-de-brinquedo-colecao)
-  Updated: 2025-10-15T11:21:15Z
+  Updated: 2025-10-16T15:05:50Z
   Total Products: 176
 - [Veículos Primeira Infância](https://brincatoys.pt/collections/carro-de-brinquedo-primeira-infancia)
   Updated: 2025-10-13T19:34:47Z
@@ -21331,13 +21352,13 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-16T11:21:15Z
   Total Products: 324
 - [2 - 3 anos](https://brincatoys.pt/collections/2-3-anos)
-  Updated: 2025-10-16T11:21:15Z
+  Updated: 2025-10-16T15:01:35Z
   Total Products: 1567
 - [4 - 5 anos](https://brincatoys.pt/collections/4-5-anos)
-  Updated: 2025-10-16T11:21:15Z
+  Updated: 2025-10-16T15:02:54Z
   Total Products: 699
 - [8 - 10 anos](https://brincatoys.pt/collections/8-10-anos)
-  Updated: 2025-10-16T11:21:15Z
+  Updated: 2025-10-16T15:05:50Z
   Total Products: 319
 - [+ 3 meses](https://brincatoys.pt/collections/3-meses)
   Updated: 2025-10-13T18:51:30Z
@@ -21349,28 +21370,28 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-13T14:58:51Z
   Total Products: 125
 - [Até €15](https://brincatoys.pt/collections/ate-15)
-  Updated: 2025-10-16T11:21:15Z
+  Updated: 2025-10-16T14:59:56Z
   Total Products: 1300
 - [Até €25](https://brincatoys.pt/collections/ate-25)
-  Updated: 2025-10-16T11:21:15Z
+  Updated: 2025-10-16T14:59:56Z
   Total Products: 2406
 - [Até €35](https://brincatoys.pt/collections/ate-35)
-  Updated: 2025-10-16T11:21:15Z
+  Updated: 2025-10-16T15:01:35Z
   Total Products: 2870
 - [Até €50](https://brincatoys.pt/collections/ate-50)
-  Updated: 2025-10-16T11:21:15Z
+  Updated: 2025-10-16T15:02:54Z
   Total Products: 3253
 - [Até €60](https://brincatoys.pt/collections/ate-60)
-  Updated: 2025-10-16T11:21:15Z
+  Updated: 2025-10-16T15:02:54Z
   Total Products: 3389
 - [Até €80](https://brincatoys.pt/collections/ate-80)
-  Updated: 2025-10-16T11:21:15Z
+  Updated: 2025-10-16T15:02:54Z
   Total Products: 3468
 - [Até €100](https://brincatoys.pt/collections/ate-100)
-  Updated: 2025-10-16T11:21:15Z
+  Updated: 2025-10-16T15:02:54Z
   Total Products: 3517
 - [Novidades](https://brincatoys.pt/collections/novidades)
-  Updated: 2025-10-16T11:21:15Z
+  Updated: 2025-10-16T15:05:50Z
   Total Products: 397
 - [Outlet](https://brincatoys.pt/collections/outlet): Saldos válidos de 04/07/2025 a 26/12/2025, limitado ao stock existente e acumulável com outros descontos ou promoções.
   Updated: 2025-09-29T15:16:28Z
@@ -21421,7 +21442,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-08-24T22:26:21Z
   Total Products: 1
 - [FurReal](https://brincatoys.pt/collections/furreal)
-  Updated: 2025-10-15T20:45:28Z
+  Updated: 2025-10-16T15:02:54Z
   Total Products: 3
 - [Gabby´s Dollhouse](https://brincatoys.pt/collections/gabbys-dollhouse)
   Updated: 2025-08-20T23:28:53Z
@@ -21466,7 +21487,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-05T14:54:58Z
   Total Products: 11
 - [Fast & Furious](https://brincatoys.pt/collections/fast-furious)
-  Updated: 2025-09-06T21:45:03Z
+  Updated: 2025-10-16T15:05:50Z
   Total Products: 5
 - [Firebuds](https://brincatoys.pt/collections/firebuds)
   Updated: 2025-08-23T17:58:45Z
@@ -21559,7 +21580,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-06T17:09:21Z
   Total Products: 9
 - [Catálogo](https://brincatoys.pt/collections/all)
-  Updated: 2025-10-16T11:21:15Z
+  Updated: 2025-10-16T15:02:54Z
   Total Products: 3550
 - [6 - 7 anos](https://brincatoys.pt/collections/6-7-anos)
   Updated: 2025-10-15T11:21:15Z
@@ -21571,10 +21592,10 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-15T11:21:15Z
   Total Products: 117
 - [+ 3 anos](https://brincatoys.pt/collections/de-3-anos)
-  Updated: 2025-10-16T11:21:15Z
+  Updated: 2025-10-16T15:01:35Z
   Total Products: 1216
 - [+ 4 anos](https://brincatoys.pt/collections/de-4-anos)
-  Updated: 2025-10-16T11:21:15Z
+  Updated: 2025-10-16T15:02:54Z
   Total Products: 495
 - [+ 5 anos](https://brincatoys.pt/collections/de-5-anos)
   Updated: 2025-10-13T14:53:06Z
@@ -21595,10 +21616,10 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-14T16:29:54Z
   Total Products: 86
 - [Os mais procurados](https://brincatoys.pt/collections/os-mais-populares)
-  Updated: 2025-10-16T11:21:15Z
+  Updated: 2025-10-16T15:02:54Z
   Total Products: 3551
 - [Recém-chegados](https://brincatoys.pt/collections/recem-chegados)
-  Updated: 2025-10-16T11:21:15Z
+  Updated: 2025-10-16T15:02:54Z
   Total Products: 3551
 - [Produtos em destaque](https://brincatoys.pt/collections/produtos-em-destaque)
   Updated: 2025-10-13T12:31:16Z
@@ -21610,8 +21631,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-12T11:21:00Z
   Total Products: 6
 - [OrderlyEmails - Recommended Products](https://brincatoys.pt/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-10-16T11:46:08Z
-  Total Products: 3076
+  Updated: 2025-10-16T15:02:54Z
+  Total Products: 3075
 - [Girafa Sofia](https://brincatoys.pt/collections/girafa-sofia)
   Updated: 2025-10-16T11:21:15Z
   Total Products: 19
@@ -21619,11 +21640,11 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-16T11:21:15Z
   Total Products: 126
 - [Marketplace](https://brincatoys.pt/collections/marketplace)
-  Updated: 2025-10-16T11:46:08Z
-  Total Products: 3076
+  Updated: 2025-10-16T15:02:54Z
+  Total Products: 3075
 - [EzConnector](https://brincatoys.pt/collections/ezconnector)
-  Updated: 2025-10-16T10:27:32Z
-  Total Products: 926
+  Updated: 2025-10-16T15:04:02Z
+  Total Products: 922
 
 ## Blogs
 
