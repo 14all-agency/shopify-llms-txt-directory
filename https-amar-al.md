@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2025-01-13T13:26:43Z
 - Contact Email: info@amar.al
-- Updated At: 2025-10-16T00:00:35.525Z
+- Updated At: 2025-10-16T08:00:36.923Z
 
 ## Products
 
@@ -1607,7 +1607,7 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/o1.webp?v=1737122896
   Price: ALL 1,831.00 ALL
 - [Power of Plants OPUNTIA Smoothing micellar water - Amar Pharma - Lirene - Ujë Micelar](https://amar.al/products/power-of-plants-opuntia-smoothing-micellar-water): Uji micellar është aleati juaj më i mirë në procesin e pastrimit. Marka Lirene e ka pasuruar me ekstrakt të gjembave, duke e përmirësuar formulën me veti edhe më hidratuese. Seria Power Of Plants Opuntia përfshin hidrolatin hidratues të kaktusit Opuntia, i njohur për cilësitë e tij ruajtëse të lagështirës. I kombinuar me micelat, ky produkt heq në mënyrë efektive grimin dhe papastërtitë, duke rigjallëruar menjëherë lëkurën. Është një shtesë e mrekullueshme për rutinën tuaj të përditshme të kujdesit të lëkurës, veçanërisht e përshtatshme për lëkurën e pjekur dhe të dehidratuar. Karakteristikat e Lirene's Power Of Plants Uji Micellar Opuntia: - Heq butësisht grimin;- Eliminon lehtësisht papastërtitë dhe sebumin;- Hidrolati i gjembave hidraton thellësisht lëkurën;- Vitamina C trajton pikat e pigmentimit;- Përmban 99% përbërës me origjinë natyrale;- Formulë 100% vegane, e pa testuar te kafshët. - Amar Pharma - Lirene - Ujë Micelar
-  Updated: 2025-10-01T14:59:36Z
+  Updated: 2025-10-16T01:40:28Z
   Vendor: Lirene
   Product Type: Ujë Micelar
   Availability: Available
