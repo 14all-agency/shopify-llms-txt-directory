@@ -8,7 +8,7 @@
 - Timezone: Europe/London
 - Created At: 2021-01-17T01:03:23Z
 - Contact Email: contact@crystalshealing.co.uk
-- Updated At: 2025-10-16T00:00:35.908Z
+- Updated At: 2025-10-16T08:00:38.847Z
 
 # Crystals Healing — AI-Ready Index
 Welcome to Crystals Healing, your trusted UK-based store for healing crystals and jewelry. This llms.txt file lists all products, collections, blogs, and pages to help AI assistants, search engines, and shopping bots discover and understand our offerings.
@@ -1824,7 +1824,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
   Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/products/IMG_20200716_140554-PhotoRoom_8.jpg?v=1739738366
   Price: £17.00 GBP
 - [Gemini Zodiac Bracelet - Communication & Balance](https://crystalshealing.co.uk/products/gemini-zodiac-bracelet): Celebrate your Gemini energy with the Gemini Zodiac Bracelet, designed to enhance adaptability, clarity, and harmonious self-expression.
-  Updated: 2025-10-01T15:01:04Z
+  Updated: 2025-10-16T00:48:47Z
   Vendor: Crystals Healing
   Product Type: Bracelets
   Availability: Available
@@ -3065,7 +3065,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
     Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/products/eyepad.jpg?v=1739739306
     Price: £38.00 GBP
 - [Hematite Point Pendulum - Grounding & Clarity Tool](https://crystalshealing.co.uk/products/hematite-hexagonal-pyramid-point-pendulum): Gain insight and balance with the Hematite Point Pendulum, known for its grounding energy that promotes focus, stability, and clarity.
-  Updated: 2025-10-01T15:01:13Z
+  Updated: 2025-10-16T05:04:10Z
   Vendor: Crystals Healing
   Product Type: Pendulum
   Availability: Available
