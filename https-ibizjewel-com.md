@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-01-24T04:49:01Z
 - Contact Email: info@ibizjewel.com
-- Updated At: 2025-10-16T08:00:48.344Z
+- Updated At: 2025-10-16T12:00:48.182Z
 
 ## Products
 
@@ -30236,7 +30236,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDN-30_4.png?v=1711100786
     Price: $793.00 USD
 - [Moissanite 0.15CT Round Diamond Necklace](https://ibizjewel.com/products/moissanite-0-15ct-round-diamond-necklace): Introducing Our Moissanite 0.15ct Round Diamond Necklace - A Stunning Piece Of Jewelry That Combines The Durability Of Moissanite With The Brilliance And Sparkle Of A 0.15ct Round Diamond. With Its Eye-catching Design And High-quality Materials, This Necklace Is Sure To Make A Statement And Elevate Any Outfit.
-  Updated: 2025-10-16T00:05:11Z
+  Updated: 2025-10-16T10:58:35Z
   Vendor: Moissanite Diamond Necklaces
   Product Type: Moissanite Round Diamond Necklace
   Availability: Available
