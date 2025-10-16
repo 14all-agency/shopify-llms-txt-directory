@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-01-24T14:43:04Z
 - Contact Email: manager@verdesmeraldaolive.com
-- Updated At: 2025-10-16T00:00:28.366Z
+- Updated At: 2025-10-16T08:00:30.863Z
 
 ## Products
 
@@ -18,7 +18,7 @@
   Image: https://cdn.shopify.com/s/files/1/0921/1284/7150/files/FGB_2666_EST.jpg?v=1750053125
   Price: $53.00 USD
 - [Blue Sapphire Picual Organic 500ml](https://verdesmeraldaolive.us/products/green-emerald-picual-500ml-copia): Blue Sapphire is a high-class organic extra virgin olive oil made from the olives of the prized Picual variety, one of the most appreciated for its intensity and complexity. This oil is part of the “Gems Line” and is presented in a 500 ml bottle with an exclusive design that recalls the shape and color of the blue sapphire, a symbol of purity, elegance and rarity.Organic Picual oil is distinguished by its very intense and complex organoleptic profile. The taste is sweet at first, then evolves into a perfect balance of spicy and bitter, with a smooth and enveloping texture that persists on the palate. The aftertaste is long and persistent, with nuances of freshly cut grass that make it a true sensory experience. The Picual variety is renowned for its high percentage of oleic acid and its ability to adapt easily to different climatic conditions. Its organic production, obtained exclusively through natural techniques and without the use of pesticides or chemicals, gives this oil an even more intense fruitiness and a more authentic flavor.
-  Updated: 2025-10-15T15:00:44Z
+  Updated: 2025-10-16T01:45:33Z
   Vendor: Verde Esmeralda
   Product Type: 
   Availability: Available
