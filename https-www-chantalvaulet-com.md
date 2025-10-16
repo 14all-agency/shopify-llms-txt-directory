@@ -37,14 +37,14 @@ Primary Languages: English, German, Ukrainian, Dutch, French, Denmark
 Taglines:
 Modern engagement rings with ethical sparkle.
 
-- Updated At: 2025-10-15T12:00:34.211Z
+- Updated At: 2025-10-16T08:00:35.239Z
 
 Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced engagement rings and fine jewelry. We specialize in premium moissanite and lab-grown diamonds, offering a modern, sustainable choice for the stylish couple. Our commitment to exceptional craftsmanship ensures that each piece sparkles with brilliance and elegance. Explore our curated collection, where every ring tells a story of love, quality, and timeless beauty.
 
 ## Products
 
 - [3CT Pear Moissanite Halo Ring – The Zephyra | Chantal Vaulet](https://www.chantalvaulet.com/products/the-zephyra-pear-cut-moissanite-halo-ring-3ct): The Zephyra is a 3CT pear-cut moissanite ring featuring dazzling sparkle and luxurious halo setting, expertly crafted in sterling silver.
-  Updated: 2025-10-13T18:53:12Z
+  Updated: 2025-10-15T19:21:25Z
   Vendor: Chantal Vaulet
   Product Type: Ring
   Availability: Available
@@ -89,7 +89,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Availability: Available
     Price: €379.00 EUR
 - [1CT Round Moissanite Ring – The Everly | Chantal Vaulet](https://www.chantalvaulet.com/products/the-everly-round-cut-moissanite-solitaire-ring-1ct): The Everly is a 1CT round-cut moissanite engagement ring, featuring timeless elegance and brilliance, perfect for your proposal.
-  Updated: 2025-10-13T18:53:14Z
+  Updated: 2025-10-15T19:21:24Z
   Vendor: Chantal Vaulet
   Product Type: Ring
   Availability: Available
@@ -245,7 +245,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Availability: Available
     Price: €965.00 EUR
 - [The Celestia 3CT](https://www.chantalvaulet.com/products/the-celestia-round-cut-moissanite-solitaire-ring-3ct): The Celestia is a stunning 3CT round-cut moissanite ring, radiating elegance and timeless craftsmanship.
-  Updated: 2025-10-13T18:53:15Z
+  Updated: 2025-10-15T19:21:24Z
   Vendor: Chantal Vaulet
   Product Type: Ring
   Availability: Available
@@ -401,7 +401,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Availability: Available
     Price: €1,925.00 EUR
 - [The Aurelia – Moissanite Necklace & Earrings Set](https://www.chantalvaulet.com/products/the-aurelia-moissanite-necklace-earrings-set-2ct): Shop The Aurelia – Moissanite Necklace & Earrings Set today at Chantal Vaulet. Discover stunning jewelry collections, crafted for style and brilliance.
-  Updated: 2025-10-13T18:53:15Z
+  Updated: 2025-10-15T19:21:24Z
   Vendor: Chantal Vaulet
   Product Type: Jewelry Set
   Availability: Available
@@ -413,7 +413,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Availability: Available
     Price: €349.00 EUR
 - [The Isadora set – Moissanite Necklace & Earrings](https://www.chantalvaulet.com/products/the-isadora-set-moissanite-necklace-earrings): Shop The Isadora set – Moissanite Necklace & Earrings today at Chantal Vaulet. Discover stunning jewelry collections, crafted for style and brilliance.
-  Updated: 2025-10-13T18:53:16Z
+  Updated: 2025-10-15T19:21:24Z
   Vendor: Chantal Vaulet
   Product Type: Jewelry Set
   Availability: Available
@@ -560,7 +560,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Availability: Available
     Price: €89.00 EUR
 - [1 CT Round Moissanite Engagement Ring – The Selene | Chantal Vaulet](https://www.chantalvaulet.com/products/the-selene-moissanite-solitaire-engagement-ring-1ct): The Selene is a 1CT round moissanite engagement ring with a twist band, radiating modern elegance and timeless beauty.
-  Updated: 2025-10-13T18:52:44Z
+  Updated: 2025-10-15T19:21:23Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
@@ -650,7 +650,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Availability: Available
     Price: €89.00 EUR
 - [1CT Round Moissanite Engagement Ring – The Lillian | Chantal Vaulet](https://www.chantalvaulet.com/products/the-lillian-moissanite-side-stone-engagement-ring-1ct): The Lillian features a 1CT round moissanite and 14 accent stones, delivering elegance and brilliance for the sophisticated woman.
-  Updated: 2025-10-13T18:52:45Z
+  Updated: 2025-10-15T19:21:23Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
@@ -4494,7 +4494,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Availability: Available
     Price: €135.00 EUR
 - [1.0 CT Moissanite Engagement Ring – The Novalune | Chantal Vaulet](https://www.chantalvaulet.com/products/the-novalune-moissanite-solitaire-ring-1-0-ct-3-ct): Discover the Novalune, a 1.0 CT moissanite engagement ring crafted in 925 sterling silver with a stunning shine and timeless elegance.
-  Updated: 2025-10-13T19:28:34Z
+  Updated: 2025-10-15T19:11:39Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
@@ -5052,7 +5052,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Availability: Available
     Price: €125.00 EUR
 - [1CT Round Moissanite Band – The Vespera | Chantal Vaulet](https://www.chantalvaulet.com/products/the-vespera-moissanite-half-eternity-band-1ct): The Vespera features a 1CT moissanite half-eternity band with dazzling marquise and round cuts, perfect for any elegant occasion.
-  Updated: 2025-10-13T18:52:22Z
+  Updated: 2025-10-15T19:11:37Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
@@ -5097,7 +5097,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Availability: Available
     Price: €109.00 EUR
 - [1.0 CT Moissanite Eternity Band – The Liora | Chantal Vaulet](https://www.chantalvaulet.com/products/the-liora-moissanite-eternity-band-1-0ct): The Liora is a 1.0 carat moissanite eternity band featuring ten dazzling stones, crafted to symbolize everlasting love.
-  Updated: 2025-10-13T18:52:22Z
+  Updated: 2025-10-15T19:11:37Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
@@ -5679,7 +5679,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Availability: Available
     Price: €99.00 EUR
 - [The Iris Round Moissanite Earrings 1CT](https://www.chantalvaulet.com/products/the-iris-round-moissanite-earrings): Shop The Iris Round Moissanite Earrings 1CT today at Chantal Vaulet. Discover stunning jewelry collections, crafted for style and brilliance.
-  Updated: 2025-10-13T18:52:33Z
+  Updated: 2025-10-15T19:11:37Z
   Vendor: Chantal Vaulet
   Product Type: EARRINGS
   Availability: Available
@@ -5690,7 +5690,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Availability: Available
     Price: €149.00 EUR
 - [The Vesta Oval Moissanite Earrings](https://www.chantalvaulet.com/products/the-vesta-oval-moissanite-earrings): Shop The Vesta Oval Moissanite Earrings today at Chantal Vaulet. Discover stunning jewelry collections, crafted for style and brilliance.
-  Updated: 2025-10-13T18:52:33Z
+  Updated: 2025-10-15T19:11:37Z
   Vendor: Chantal Vaulet
   Product Type: EARRINGS
   Availability: Available
@@ -5701,7 +5701,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Availability: Available
     Price: €155.00 EUR
 - [The Rhea Heart-Cut Moissanite Earrings](https://www.chantalvaulet.com/products/the-rhea-heart-cut-moissanite-earrings): Shop The Rhea Heart-Cut Moissanite Earrings today at Chantal Vaulet. Discover stunning jewelry collections, crafted for style and brilliance.
-  Updated: 2025-10-13T18:52:34Z
+  Updated: 2025-10-15T19:11:37Z
   Vendor: Chantal Vaulet
   Product Type: EARRINGS
   Availability: Available
@@ -5713,7 +5713,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Availability: Available
     Price: €155.00 EUR
 - [The Hera Emerald-Cut](https://www.chantalvaulet.com/products/the-hera-emerald-cut): Shop The Hera Emerald-Cut today at Chantal Vaulet. Discover stunning jewelry collections, crafted for style and brilliance.
-  Updated: 2025-10-13T18:52:34Z
+  Updated: 2025-10-15T19:11:36Z
   Vendor: Chantal Vaulet
   Product Type: EARRINGS
   Availability: Available
@@ -5763,7 +5763,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Availability: Available
     Price: €1,095.00 EUR
 - [The Astraea Princess-Cut](https://www.chantalvaulet.com/products/the-astraea-princess-cut): Shop The Astraea Princess-Cut today at Chantal Vaulet. Discover stunning jewelry collections, crafted for style and brilliance.
-  Updated: 2025-10-13T18:52:35Z
+  Updated: 2025-10-15T19:11:36Z
   Vendor: Chantal Vaulet
   Product Type: EARRINGS
   Availability: Available
@@ -5777,7 +5777,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/the-astraea-princess-cut_by_Chantal_Vaulet_4bdfc3bd0de4b6fc44996342fc5bb888.webp?v=1760381554
     Price: €155.00 EUR
 - [The Cyra Trillion-Cut Moissanite Earrings](https://www.chantalvaulet.com/products/the-cyra-trillion-cut-moissanite-earrings): Shop The Cyra Trillion-Cut Moissanite Earrings today at Chantal Vaulet. Discover stunning jewelry collections, crafted for style and brilliance.
-  Updated: 2025-10-13T18:52:35Z
+  Updated: 2025-10-15T19:11:36Z
   Vendor: Chantal Vaulet
   Product Type: EARRINGS
   Availability: Available
@@ -5789,7 +5789,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Availability: Available
     Price: €155.00 EUR
 - [The Arlena Pear-Cut Moissanite Stud Earrings](https://www.chantalvaulet.com/products/the-arlena-pear-cut-moissanite-stud-earrings): Shop The Arlena Pear-Cut Moissanite Stud Earrings today at Chantal Vaulet. Discover stunning jewelry collections, crafted for style and brilliance.
-  Updated: 2025-10-13T18:52:35Z
+  Updated: 2025-10-15T19:11:36Z
   Vendor: Chantal Vaulet
   Product Type: EARRINGS
   Availability: Available
@@ -6070,7 +6070,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Availability: Available
     Price: €109.00 EUR
 - [1.0 CT Pear-Cut Moissanite Ring – The Fiora | Chantal Vaulet](https://www.chantalvaulet.com/products/the-fiora-pear-cut-moissanite-chevron-halo-ring): The Fiora features a 1.0 carat pear-cut moissanite with 0.30CT halo stones, crafted to elevate elegance in your jewelry collection.
-  Updated: 2025-10-13T18:53:18Z
+  Updated: 2025-10-15T19:10:40Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
@@ -6829,7 +6829,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Availability: Available
     Price: €129.00 EUR
 - [0.23 CT Round Moissanite Band – The Alina | Chantal Vaulet](https://www.chantalvaulet.com/products/the-alina-moissanite-pave): The Alina is a 0.23 carat round moissanite eternity band, featuring a classic pavé setting that sparkles elegantly for any occasion.
-  Updated: 2025-10-13T18:51:45Z
+  Updated: 2025-10-15T19:10:40Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
@@ -6874,7 +6874,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Availability: Available
     Price: €75.00 EUR
 - [0.7 CT Round Moissanite Band – The Calina | Chantal Vaulet](https://www.chantalvaulet.com/products/the-calina-moissanite-seven-stone-band): The Calina features 0.7CT of round-cut Moissanites in a classic prong setting, perfect for weddings or stackable elegance.
-  Updated: 2025-10-13T19:28:34Z
+  Updated: 2025-10-15T19:10:39Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
@@ -7331,7 +7331,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
   Availability: Available
   Price: €95.00 EUR
 - [The Aurette Moissanite Halo Stud Earrings](https://www.chantalvaulet.com/products/the-aurette-moissanite-halo-stud-earrings): Shop The Aurette Moissanite Halo Stud Earrings today at Chantal Vaulet. Discover stunning jewelry collections, crafted for style and brilliance.
-  Updated: 2025-10-13T18:51:53Z
+  Updated: 2025-10-15T19:10:39Z
   Vendor: Chantal Vaulet
   Product Type: EARRINGS
   Availability: Available
@@ -7425,7 +7425,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
   Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/the-elanique-moissanite-dancing-heart-pendant_by_Chantal_Vaulet_a5781678c76f765ed6f00222f5a03402.webp?v=1760381514
   Price: €109.00 EUR
 - [The Claravelle Moissanite Dancing Clover Necklace](https://www.chantalvaulet.com/products/the-claravelle-moissanite-dancing-clover-pendant): Shop The Claravelle Moissanite Dancing Clover Necklace today at Chantal Vaulet. Discover stunning jewelry collections, crafted for style and brilliance.
-  Updated: 2025-10-13T18:51:54Z
+  Updated: 2025-10-15T19:10:38Z
   Vendor: Chantal Vaulet
   Product Type: PENDANT
   Availability: Available
@@ -7459,20 +7459,20 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
   Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/the-carencia-moissanite-dancing-heart-pendant_by_Chantal_Vaulet_585ebf77f367c0e6097751d7c61468a8.webp?v=1760381515
   Price: €109.00 EUR
 - [The Loravine Moissanite Dancing Rectangle Necklace](https://www.chantalvaulet.com/products/the-loravine-moissanite-dancing-rectangle-pendant): Shop The Loravine Moissanite Dancing Rectangle Necklace today at Chantal Vaulet. Discover stunning jewelry collections, crafted for style and brilliance.
-  Updated: 2025-10-13T18:51:56Z
+  Updated: 2025-10-15T19:10:37Z
   Vendor: Chantal Vaulet
   Product Type: PENDANT
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/the-loravine-moissanite-dancing-rectangle-pendant_by_Chantal_Vaulet_e1bc5145f87b03aebcc069c44f1434d7.webp?v=1760381516
   Price: €109.00 EUR
 - [The Keylara Moissanite Dancing Key Necklace](https://www.chantalvaulet.com/products/the-keylara-moissanite-dancing-key-pendant): Shop The Keylara Moissanite Dancing Key Necklace today at Chantal Vaulet. Discover stunning jewelry collections, crafted for style and brilliance.
-  Updated: 2025-10-13T18:51:57Z
+  Updated: 2025-10-15T19:10:37Z
   Vendor: Chantal Vaulet
   Product Type: PENDANT
   Availability: Available
   Price: €114.00 EUR
 - [The Felisara Citrine Necklace](https://www.chantalvaulet.com/products/the-felisara-citrine-pendant): Shop The Felisara Citrine Necklace today at Chantal Vaulet. Discover stunning jewelry collections, crafted for style and brilliance.
-  Updated: 2025-10-13T18:51:58Z
+  Updated: 2025-10-15T19:10:37Z
   Vendor: Chantal Vaulet
   Product Type: PENDANT
   Availability: Available
@@ -7684,7 +7684,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/the-calyndra-gemstone-double-halo-pendant_by_Chantal_Vaulet_5c1319e84af81c167d08396acde78543.webp?v=1760381523
     Price: €149.00 EUR
 - [The Luna Moissanite Necklace](https://www.chantalvaulet.com/products/the-luna-moissanite-pendant): Shop The Luna Moissanite Necklace today at Chantal Vaulet. Discover stunning jewelry collections, crafted for style and brilliance.
-  Updated: 2025-10-13T18:52:04Z
+  Updated: 2025-10-15T19:08:18Z
   Vendor: Chantal Vaulet
   Product Type: PENDANT
   Availability: Available
@@ -7714,7 +7714,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Availability: Available
     Price: €155.00 EUR
 - [The Ameliora Moissanite Heart Halo Jewelry Set](https://www.chantalvaulet.com/products/the-ameliora-moissanite-heart-halo-jewelry-set): Shop The Ameliora Moissanite Heart Halo Jewelry Set today at Chantal Vaulet. Discover stunning jewelry collections, crafted for style and brilliance.
-  Updated: 2025-10-13T18:52:05Z
+  Updated: 2025-10-15T19:08:18Z
   Vendor: Chantal Vaulet
   Product Type: Jewelry Set
   Availability: Available
@@ -8667,7 +8667,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Availability: Available
     Price: €125.00 EUR
 - [1.0CT Round Moissanite Ring – The Zarela | Chantal Vaulet](https://www.chantalvaulet.com/products/the-zarela-round-cut-moissanite-ring-0-5ct-or-1-0ct): The Zarela is a stunning 0.5 or 1.0 carat round moissanite ring, designed with a sleek silver band and maximum brilliance.
-  Updated: 2025-10-13T18:51:24Z
+  Updated: 2025-10-15T19:07:58Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
@@ -8751,7 +8751,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Availability: Available
     Price: €89.00 EUR
 - [The Sylvessa Moissanite Engagement Ring](https://www.chantalvaulet.com/products/the-sylvessa-1ct-round-cut-moissanite-ring): The Sylvessa is a 1-carat round moissanite engagement ring, showcasing stunning brilliance and elegance in a timeless six-prong setting.
-  Updated: 2025-10-13T18:51:25Z
+  Updated: 2025-10-15T19:07:56Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
@@ -8796,7 +8796,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Availability: Available
     Price: €109.00 EUR
 - [1CT Heart-Cut Moissanite Ring – The Velmira | Chantal Vaulet](https://www.chantalvaulet.com/products/the-velmira-1ct-heart-cut-moissanite-ring): The Velmira features a stunning 1CT heart-cut moissanite crafted for brilliance, with 17 zirconia accents and a sleek sterling silver band.
-  Updated: 2025-10-13T18:51:25Z
+  Updated: 2025-10-15T19:07:56Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
@@ -8841,7 +8841,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Availability: Available
     Price: €89.00 EUR
 - [1.5CT/2.0CT/3.0CT Round Moissanite Ring – The Calvienne | Chantal Vaulet](https://www.chantalvaulet.com/products/the-calvienne-round-cut-moissanite-ring-1-5ct-2-0ct-or-3-0ct): The Calvienne is a 1.5 carat round-cut Moissanite ring, featuring a dazzling sparkle and elegant 925 sterling silver band.
-  Updated: 2025-10-13T18:51:26Z
+  Updated: 2025-10-15T19:07:57Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
@@ -8964,7 +8964,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Availability: Available
     Price: €159.00 EUR
 - [1.5 CT Round Moissanite Ring – The Zafira | Chantal Vaulet](https://www.chantalvaulet.com/products/the-zafira-round-cut-moissanite-ring-1-5-ct-2-0ct-or-3-0ct): The Zafira is a 1.5 CT round-cut moissanite engagement ring featuring exquisite sparkle with a halo of zirconia accents.
-  Updated: 2025-10-13T18:51:26Z
+  Updated: 2025-10-15T19:07:57Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
@@ -9087,7 +9087,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Availability: Available
     Price: €159.00 EUR
 - [1.5 CT Round Moissanite Ring – The Miralys | Chantal Vaulet](https://www.chantalvaulet.com/products/the-miralys-round-moissanite-ring-1-5ct-2ct-3ct): The Miralys is a 1.5 carat round moissanite ring with stunning fire and brilliance, crafted to radiate elegance.
-  Updated: 2025-10-13T18:51:27Z
+  Updated: 2025-10-15T19:07:55Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
@@ -9210,7 +9210,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Availability: Available
     Price: €159.00 EUR
 - [3CT Round Moissanite Ring – The Valmora | Chantal Vaulet](https://www.chantalvaulet.com/products/the-valmora-3ct-round-cut-moissanite-ring): The Valmora is a 3CT round-cut moissanite engagement ring, featuring a stunning 132PCS zirconia set in 925 sterling silver.
-  Updated: 2025-10-13T18:51:28Z
+  Updated: 2025-10-15T19:07:55Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
@@ -9255,7 +9255,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Availability: Available
     Price: €123.50 EUR
 - [3CT Round Moissanite Ring – The Zalenka | Chantal Vaulet](https://www.chantalvaulet.com/products/the-zalenka-3ct-round-cut-moissanite-ring): The Zalenka is a 3CT round-cut moissanite ring featuring a dazzling D color grade and exquisite pavé zirconia detail in a sterling silver band.
-  Updated: 2025-10-13T18:51:28Z
+  Updated: 2025-10-15T19:07:55Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
@@ -9300,7 +9300,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Availability: Available
     Price: €97.50 EUR
 - [1CT Round Moissanite Ring – The Selmara | Chantal Vaulet](https://www.chantalvaulet.com/products/the-selmara-1ct-round-cut-moissanite-ring): The Selmara is a 1CT round-cut moissanite ring with dazzling brilliance, accented by a floral halo of zirconia, crafted in 925 sterling silver.
-  Updated: 2025-10-13T18:51:29Z
+  Updated: 2025-10-15T19:07:55Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
@@ -9345,7 +9345,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Availability: Available
     Price: €89.00 EUR
 - [The Calivara 1CT Round Cut Moissanite Engagement Ring](https://www.chantalvaulet.com/products/the-calivara-1ct-lotus-round-cut-moissanite-ring): The Calivara is a 1 carat round moissanite engagement ring, featuring D color and VVS clarity for timeless elegance.
-  Updated: 2025-10-13T18:51:30Z
+  Updated: 2025-10-15T19:07:54Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
@@ -9390,7 +9390,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Availability: Available
     Price: €98.00 EUR
 - [The Solviera Moissanite Stud Earrings](https://www.chantalvaulet.com/products/the-solviera-moissanite-stud-earrings): Shop The Solviera Moissanite Stud Earrings today at Chantal Vaulet. Discover stunning jewelry collections, crafted for style and brilliance.
-  Updated: 2025-10-13T18:51:30Z
+  Updated: 2025-10-15T19:07:54Z
   Vendor: Chantal Vaulet
   Product Type: EARRINGS
   Availability: Available
@@ -9405,7 +9405,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Availability: Available
     Price: €149.00 EUR
 - [The Alinora Moissanite Solitaire Necklace](https://www.chantalvaulet.com/products/the-alinora-moissanite-solitaire-pendant): Shop The Alinora Moissanite Solitaire Necklace today at Chantal Vaulet. Discover stunning jewelry collections, crafted for style and brilliance.
-  Updated: 2025-10-13T18:51:30Z
+  Updated: 2025-10-15T19:07:54Z
   Vendor: Chantal Vaulet
   Product Type: PENDANT
   Availability: Available
@@ -9420,7 +9420,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Availability: Available
     Price: €155.00 EUR
 - [The Clariona Moissanite Stud Earrings](https://www.chantalvaulet.com/products/the-clariona-moissanite-stud-earrings): Shop The Clariona Moissanite Stud Earrings today at Chantal Vaulet. Discover stunning jewelry collections, crafted for style and brilliance.
-  Updated: 2025-10-13T18:51:30Z
+  Updated: 2025-10-15T19:07:54Z
   Vendor: Chantal Vaulet
   Product Type: EARRINGS
   Availability: Available
@@ -9435,21 +9435,21 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Availability: Available
     Price: €149.00 EUR
 - [The Velarisse Moissanite Heart Halo Earrings](https://www.chantalvaulet.com/products/the-velarisse-moissanite-heart-halo-earrings): Shop The Velarisse Moissanite Heart Halo Earrings today at Chantal Vaulet. Discover stunning jewelry collections, crafted for style and brilliance.
-  Updated: 2025-10-13T18:51:31Z
+  Updated: 2025-10-15T19:07:53Z
   Vendor: Chantal Vaulet
   Product Type: EARRINGS
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/the-velarisse-moissanite-heart-halo-earrings_by_Chantal_Vaulet_991ad88287a5a22fd5b452f1d7d69441.webp?v=1760381491
   Price: €109.00 EUR
 - [The Velanique Moissanite Heart Halo Earrings](https://www.chantalvaulet.com/products/the-velanique-moissanite-heart-halo-earrings): Shop The Velanique Moissanite Heart Halo Earrings today at Chantal Vaulet. Discover stunning jewelry collections, crafted for style and brilliance.
-  Updated: 2025-10-13T18:51:31Z
+  Updated: 2025-10-15T19:07:53Z
   Vendor: Chantal Vaulet
   Product Type: EARRINGS
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/the-velanique-moissanite-heart-halo-earrings_by_Chantal_Vaulet_c5dffe1df97191b362dfb5b75e438362.webp?v=1760381491
   Price: €109.00 EUR
 - [The Emeralisse Moissanite Solitaire Necklace](https://www.chantalvaulet.com/products/the-emeralisse-moissanite-solitaire-pendant): Shop The Emeralisse Moissanite Solitaire Necklace today at Chantal Vaulet. Discover stunning jewelry collections, crafted for style and brilliance.
-  Updated: 2025-10-13T18:51:31Z
+  Updated: 2025-10-15T19:07:53Z
   Vendor: Chantal Vaulet
   Product Type: PENDANT
   Availability: Available
@@ -9461,7 +9461,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Availability: Available
     Price: €159.00 EUR
 - [The Velanisse Moissanite Heart Necklace](https://www.chantalvaulet.com/products/the-velanisse-moissanite-heart-pendant): Shop The Velanisse Moissanite Heart Necklace today at Chantal Vaulet. Discover stunning jewelry collections, crafted for style and brilliance.
-  Updated: 2025-10-13T18:51:31Z
+  Updated: 2025-10-15T19:07:53Z
   Vendor: Chantal Vaulet
   Product Type: PENDANT
   Availability: Available
@@ -9473,7 +9473,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Availability: Available
     Price: €159.00 EUR
 - [The Clarivelle Moissanite Solitaire Necklace](https://www.chantalvaulet.com/products/the-clarivelle-moissanite-solitaire-pendant): Shop The Clarivelle Moissanite Solitaire Necklace today at Chantal Vaulet. Discover stunning jewelry collections, crafted for style and brilliance.
-  Updated: 2025-10-13T18:51:32Z
+  Updated: 2025-10-15T19:07:53Z
   Vendor: Chantal Vaulet
   Product Type: PENDANT
   Availability: Available
@@ -9488,14 +9488,14 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Availability: Available
     Price: €155.00 EUR
 - [The Loravelle Moissanite Heart Halo Necklace](https://www.chantalvaulet.com/products/the-loravelle-moissanite-heart-halo-pendant): Shop The Loravelle Moissanite Heart Halo Necklace today at Chantal Vaulet. Discover stunning jewelry collections, crafted for style and brilliance.
-  Updated: 2025-10-13T18:51:32Z
+  Updated: 2025-10-15T19:07:53Z
   Vendor: Chantal Vaulet
   Product Type: PENDANT
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/the-loravelle-moissanite-heart-halo-pendant_by_Chantal_Vaulet_f336be4ba234bed48bc77f344713decd.webp?v=1760381492
   Price: €119.00 EUR
 - [The Zaylora Moissanite Solitaire Necklace](https://www.chantalvaulet.com/products/the-zaylora-moissanite-solitaire-pendant): Shop The Zaylora Moissanite Solitaire Necklace today at Chantal Vaulet. Discover stunning jewelry collections, crafted for style and brilliance.
-  Updated: 2025-10-13T18:51:32Z
+  Updated: 2025-10-15T19:07:53Z
   Vendor: Chantal Vaulet
   Product Type: PENDANT
   Availability: Available
@@ -9507,7 +9507,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Availability: Available
     Price: €159.00 EUR
 - [The Velisara Moissanite Princess Necklace](https://www.chantalvaulet.com/products/the-velisara-moissanite-princess-pendant): Shop The Velisara Moissanite Princess Necklace today at Chantal Vaulet. Discover stunning jewelry collections, crafted for style and brilliance.
-  Updated: 2025-10-13T18:51:34Z
+  Updated: 2025-10-15T19:07:53Z
   Vendor: Chantal Vaulet
   Product Type: PENDANT
   Availability: Available
@@ -9519,7 +9519,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Availability: Available
     Price: €159.00 EUR
 - [The Loriana Moissanite Trillion-cut Necklace](https://www.chantalvaulet.com/products/the-loriana-moissanite-trillion-cut-necklace): Shop The Loriana Moissanite Trillion-cut Necklace today at Chantal Vaulet. Discover stunning jewelry collections, crafted for style and brilliance.
-  Updated: 2025-10-13T18:51:34Z
+  Updated: 2025-10-15T19:07:52Z
   Vendor: Chantal Vaulet
   Product Type: PENDANT
   Availability: Available
@@ -9531,7 +9531,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Availability: Available
     Price: €159.00 EUR
 - [The Vynessa Moissanite Solitaire Necklace](https://www.chantalvaulet.com/products/the-vynessa-moissanite-solitaire-pendant): Shop The Vynessa Moissanite Solitaire Necklace today at Chantal Vaulet. Discover stunning jewelry collections, crafted for style and brilliance.
-  Updated: 2025-10-13T18:51:34Z
+  Updated: 2025-10-15T19:07:52Z
   Vendor: Chantal Vaulet
   Product Type: PENDANT
   Availability: Available
@@ -9543,21 +9543,21 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Availability: Available
     Price: €159.00 EUR
 - [The Lyravella Moissanite Halo Necklace](https://www.chantalvaulet.com/products/the-lyravella-moissanite-halo-pendant): Shop The Lyravella Moissanite Halo Necklace today at Chantal Vaulet. Discover stunning jewelry collections, crafted for style and brilliance.
-  Updated: 2025-10-13T18:51:34Z
+  Updated: 2025-10-15T19:07:52Z
   Vendor: Chantal Vaulet
   Product Type: PENDANT
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/the-lyravella-moissanite-halo-pendant_by_Chantal_Vaulet_ee42d54c874f7de603d6f6039993e8af.webp?v=1760381493
   Price: €115.00 EUR
 - [The Liva Moissanite Halo Adjustable Bracelet](https://www.chantalvaulet.com/products/the-liva-moissanite-halo-adjustable-bracelet): Shop The Liva Moissanite Halo Adjustable Bracelet today at Chantal Vaulet. Discover stunning jewelry collections, crafted for style and brilliance.
-  Updated: 2025-10-13T18:51:34Z
+  Updated: 2025-10-15T19:07:52Z
   Vendor: Chantal Vaulet
   Product Type: BRACELET
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/the-liva-moissanite-halo-adjustable-bracelet_by_Chantal_Vaulet_dfa9ef76a81167b507333f17d8bf7319.webp?v=1760381494
   Price: €79.00 EUR
 - [Elentari’s Radiance Moissanite Tennis Bracelet ✨](https://www.chantalvaulet.com/products/elentari-s-radiance-moissanite-tennis-bracelet-✨): Shop Elentari’s Radiance Moissanite Tennis Bracelet ✨ today at Chantal Vaulet. Discover stunning jewelry collections, crafted for style and brilliance.
-  Updated: 2025-10-13T18:51:35Z
+  Updated: 2025-10-15T19:07:51Z
   Vendor: Chantal Vaulet
   Product Type: BRACELET
   Availability: Available
@@ -9572,7 +9572,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Availability: Available
     Price: €750.00 EUR
 - [Eärwen’s Heart Moissanite Tennis Bracelet ❤️✨](https://www.chantalvaulet.com/products/elentari-s-radiance-moissanite-tennis-bracelet-✨-copy): Shop Eärwen’s Heart Moissanite Tennis Bracelet ❤️✨ today at Chantal Vaulet. Discover stunning jewelry collections, crafted for style and brilliance.
-  Updated: 2025-10-13T18:51:35Z
+  Updated: 2025-10-15T19:07:51Z
   Vendor: Chantal Vaulet
   Product Type: BRACELET
   Availability: Available
@@ -9587,7 +9587,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Availability: Available
     Price: €815.00 EUR
 - [The Aetheria Moissanite Tennis Bracelet](https://www.chantalvaulet.com/products/the-aetheria-moissanite-tennis-bracelet): Shop The Aetheria Moissanite Tennis Bracelet today at Chantal Vaulet. Discover stunning jewelry collections, crafted for style and brilliance.
-  Updated: 2025-10-13T18:51:35Z
+  Updated: 2025-10-15T19:07:51Z
   Vendor: Chantal Vaulet
   Product Type: BRACELET
   Availability: Available
@@ -9602,7 +9602,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Availability: Available
     Price: €1,025.00 EUR
 - [The Calantha Moissanite Teardrop Bracelet](https://www.chantalvaulet.com/products/the-calantha-moissanite-teardrop-bracelet): Shop The Calantha Moissanite Teardrop Bracelet today at Chantal Vaulet. Discover stunning jewelry collections, crafted for style and brilliance.
-  Updated: 2025-10-13T18:51:35Z
+  Updated: 2025-10-15T19:07:51Z
   Vendor: Chantal Vaulet
   Product Type: BRACELET
   Availability: Available
@@ -9617,7 +9617,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Availability: Available
     Price: €750.00 EUR
 - [The Étoilelle Moissanite Princess Tennis Bracelet](https://www.chantalvaulet.com/products/the-etoilelle-moissanite-princess-tennis-bracelet): Shop The Étoilelle Moissanite Princess Tennis Bracelet today at Chantal Vaulet. Discover stunning jewelry collections, crafted for style and brilliance.
-  Updated: 2025-10-13T18:51:35Z
+  Updated: 2025-10-15T19:07:49Z
   Vendor: Chantal Vaulet
   Product Type: BRACELET
   Availability: Available
@@ -9632,7 +9632,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Availability: Available
     Price: €859.00 EUR
 - [The Florisse Moissanite Tennis Bracelet](https://www.chantalvaulet.com/products/the-florisse-moissanite-tennis-bracelet): Shop The Florisse Moissanite Tennis Bracelet today at Chantal Vaulet. Discover stunning jewelry collections, crafted for style and brilliance.
-  Updated: 2025-10-13T18:51:36Z
+  Updated: 2025-10-15T19:07:49Z
   Vendor: Chantal Vaulet
   Product Type: BRACELET
   Availability: Available
@@ -9665,7 +9665,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Availability: Available
     Price: €750.00 EUR
 - [Éclat d’Amour Marquise Engagement Ring | 2CT Sparkle](https://www.chantalvaulet.com/products/marquise-cut-engagement-ring-2ct): Discover the Éclat d’Amour 2CT marquise engagement ring with kite side stones. Handcrafted in moissanite or lab diamond for bold elegance and ethical brilliance.
-  Updated: 2025-10-13T18:51:37Z
+  Updated: 2025-10-15T19:07:50Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
@@ -9820,7 +9820,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Availability: Available
     Price: €1,425.00 EUR
 - [3.0 CT Round Moissanite Ring – Étoile d’Or | Chantal Vaulet](https://www.chantalvaulet.com/products/etoile-round-cut-engagement-ring-3-0ct): The Étoile is a 3.0 carat round-cut moissanite ring showcasing exceptional brilliance and elegance, perfect for your love story.
-  Updated: 2025-10-13T18:51:38Z
+  Updated: 2025-10-15T19:07:49Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
@@ -9976,7 +9976,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Availability: Available
     Price: €1,825.00 EUR
 - [Éclairia 4CT Radiant-Cut Lab Diamond Engagement Ring](https://www.chantalvaulet.com/products/eclairia-4ct-radiant-cut-ring): Discover the Éclairia engagement ring with a 4CT radiant-cut lab diamond and 154 pavé-set accents. Ethical luxury with breathtaking brilliance.
-  Updated: 2025-10-13T18:51:39Z
+  Updated: 2025-10-15T19:07:48Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
@@ -10090,7 +10090,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Availability: Available
     Price: €2,950.00 EUR
 - [The Sendrina](https://www.chantalvaulet.com/products/the-sendrina-lab-diamond-eternity-band): The Sendrina is an eternity band adorned with 22 stunning lab diamonds, radiating elegance and unmatched brilliance.
-  Updated: 2025-10-13T18:51:39Z
+  Updated: 2025-10-15T19:07:48Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
@@ -10240,7 +10240,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Availability: Available
     Price: €1,209.00 EUR
 - [The Lunessia](https://www.chantalvaulet.com/products/the-lunessia-3-5mm-round-eternity-ring): Discover the Lunessia 3.57CT lab diamond ring, a radiant eternity band symbolizing eternal love. Ethically crafted with 21 brilliant stones.
-  Updated: 2025-10-13T18:51:40Z
+  Updated: 2025-10-15T19:07:48Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
@@ -10390,7 +10390,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Availability: Available
     Price: €1,049.00 EUR
 - [The Luciella](https://www.chantalvaulet.com/products/2-5mm-half-eternity-lab-diamond-ring-the-luciella-chantal-vaulet): The Luciella is a 2.5MM lab diamond half eternity ring, featuring 9 ethical diamonds that radiate timeless elegance and beauty.
-  Updated: 2025-10-13T18:51:41Z
+  Updated: 2025-10-15T19:07:46Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
@@ -10540,7 +10540,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Availability: Available
     Price: €689.00 EUR
 - [The Maristela](https://www.chantalvaulet.com/products/1-5-ct-round-cut-moissanite-or-lab-diamond-ring-the-maristela): The Maristela is a 1.5 carat round-cut moissanite or lab diamond ring, radiating elegance and brilliance, crafted in exquisite detail.
-  Updated: 2025-10-13T18:51:42Z
+  Updated: 2025-10-15T19:07:47Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
@@ -10696,7 +10696,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Availability: Available
     Price: €1,069.00 EUR
 - [The Elvika](https://www.chantalvaulet.com/products/1-5-ct-oval-moissanite-engagement-ring-the-elvika-chantal-vaulet): Discover the Elvika 1.5CT Oval-Cut Engagement Ring, merging Nordic elegance with stunning moissanite or lab diamond brilliance.
-  Updated: 2025-10-13T18:51:43Z
+  Updated: 2025-10-15T19:07:47Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
@@ -10852,7 +10852,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Availability: Available
     Price: €1,075.00 EUR
 - [The Bellara](https://www.chantalvaulet.com/products/the-bellara-2ct-lab-diamond-drop-earrings): Buy The Bellara 2CT Diamond Drop Earrings at Chantal Vaulet!
-  Updated: 2025-10-13T18:51:43Z
+  Updated: 2025-10-15T19:07:46Z
   Vendor: Chantal Vaulet
   Product Type: EARRINGS
   Availability: Available
@@ -10867,7 +10867,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Availability: Available
     Price: €1,955.00 EUR
 - [The Solenia](https://www.chantalvaulet.com/products/the-solenia-1-5mm-lab-diamond-huggie-earrings): Buy The Solenia 1.5MM Lab Diamond Huggie Earrings at Chantal Vaulet
-  Updated: 2025-10-13T18:51:44Z
+  Updated: 2025-10-15T19:07:45Z
   Vendor: Chantal Vaulet
   Product Type: EARRINGS
   Availability: Available
@@ -10882,7 +10882,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Availability: Available
     Price: €609.00 EUR
 - [Amora 2CT Heart Lab-Grown Diamond Engagement Ring | VVS D, 2EX, IGI](https://www.chantalvaulet.com/products/amora-2ct-heart-engagement-ring): 2.00 ct heart Moissanite or Lab-grown Diamond engagement ring with 14 pavé side stones. VVS clarity, D color, 2EX, IGI certified center. Crafted in white gold
-  Updated: 2025-10-13T18:51:45Z
+  Updated: 2025-10-15T19:07:45Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
@@ -11038,7 +11038,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Availability: Available
     Price: €1,495.00 EUR
 - [The Eira 3CT Moissanite or Lab Diamond Bridal Set - Chantal Vaulet](https://www.chantalvaulet.com/products/the-eira-set): The Eira Bridal Set features a 3CT round center stone with 3mm side stones and a perfectly matched pavé wedding band. Available in moissanite or lab diamond, set in rose gold.
-  Updated: 2025-10-14T06:43:21Z
+  Updated: 2025-10-15T19:07:45Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
@@ -11194,7 +11194,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Availability: Available
     Price: €2,450.00 EUR
 - [The Alouette Moissanite or Lab Diamond Tennis Necklace](https://www.chantalvaulet.com/products/alouette-tennis-necklace): The Alouette Tennis Necklace features 3MM moissanite or lab diamonds in silver or white gold. Available in 42cm, 45cm, or 50cm for a timeless statement of elegance.
-  Updated: 2025-10-15T07:54:16Z
+  Updated: 2025-10-15T19:07:45Z
   Vendor: Chantal Vaulet
   Product Type: PENDANT
   Availability: Available
@@ -11238,12 +11238,6 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
 - [Yellow Gold Collection 💛 | Stunning 14k Gold & Moissanite](https://www.chantalvaulet.com/collections/yellow-gold): Explore our Yellow Gold Collection featuring exquisite 14k gold, Moissanite gems, and radiant diamonds! ✨💎
   Updated: 2025-10-11T08:07:27Z
   Total Products: 6
-- [✨ Moissanite & Silver Treasures: €50-€150 Collection 💎](https://www.chantalvaulet.com/collections/price-between-50-eur-and-100-eur): Discover stunning Moissanite and silver pieces priced between 50 and 150 euro! Elevate your style with elegant jewelry! 💖
-  Updated: 2025-10-15T07:53:27Z
-  Total Products: 168
-- [Jewelry Collection Above €150 | Moissanite, Gold, Diamonds](https://www.chantalvaulet.com/collections/above-150): Explore our exquisite collection of jewelry above €150 featuring stunning moissanite, gold, and diamond pieces.
-  Updated: 2025-10-15T07:53:27Z
-  Total Products: 26
 - [Explore All Products: Jewelry, Moissanite, Diamonds ✨💎](https://www.chantalvaulet.com/collections/all-products): Shop our stunning selection of all products, including moissanite, diamonds, and gold jewelry! 💖
   Updated: 2025-10-15T07:53:27Z
   Total Products: 202
