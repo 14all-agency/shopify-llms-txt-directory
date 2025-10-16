@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-07-19T18:27:19Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-10-15T12:00:35.035Z
+- Updated At: 2025-10-16T00:00:35.209Z
 
 ## Products
 
@@ -1077,7 +1077,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/Navy_8e9d8a29-7d42-4fa6-af34-bb64ab342096.jpg?v=1757517255
     Price: $1.00 USD
 - [Shiny Velvet Fabric | Fabrics Star](https://fabricsstar.com/products/soft-velvet-fabric): Experience luxury and comfort with Soft Velvet Fabric from Fabrics Star. Explore premium quality material for your upholstery needs. Shop now!
-  Updated: 2025-10-13T16:21:01Z
+  Updated: 2025-10-15T18:00:56Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1689,7 +1689,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Chenille Soft Velvet Fabric | Fabrics Star](https://fabricsstar.com/products/chenille-soft-velvet-fabric): Experience luxury with Chenille Soft Velvet Fabric from Fabrics Star. With a width of 118 inches, this fabric is perfect for upholstery projects for coaches and chairs.
-  Updated: 2025-10-05T00:04:56Z
+  Updated: 2025-10-15T14:32:42Z
   Vendor: Fabrics Star
   Product Type: Chenille Fabric
   Availability: Available
@@ -1799,7 +1799,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CHENILLE-WHITE-1.jpg?v=1757517390
     Price: $1.00 USD
 - [Selectra Waves Stretch Velvet Sequin Fabric | Fabrics Star](https://fabricsstar.com/products/selectra-waves-stretch-velvet-sequin-fabric-by-the-yard): The Selectra Waves Stretch Velvet Sequin Fabric by the Yard is made of 100% polyester. It has a soft stretch velvet base that is heavily embellished with sequins.
-  Updated: 2025-09-29T19:19:15Z
+  Updated: 2025-10-15T21:51:07Z
   Vendor: Fabrics Star
   Product Type: Velvet Sequin Fabric
   Availability: Available
@@ -3947,7 +3947,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/AZALEA-DARK-NAVY.jpg?v=1757517782
     Price: $1.00 USD
 - [SPRING GARDEN Floral Digital Print Fabric | 58 Inch Wide](https://fabricsstar.com/products/floral-digital-print-fabric-cotton-hand-58-inch-in-width-home-decor): Discover the SPRING GARDEN Floral Digital Print Fabric, 58" wide for home decor. Medium weight, 100% polyester, sold by the yard. Order now!
-  Updated: 2025-10-15T11:20:08Z
+  Updated: 2025-10-15T22:58:59Z
   Vendor: Fabrics Star
   Product Type: Digital Print Fabric
   Availability: Available
@@ -4491,7 +4491,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/TROPICAL-TURQUISE.jpg?v=1757517974
     Price: $1.00 USD
 - [QUINCY Sequin Fabric on Mesh Material ,2-Way Stretch, 52 Inch. In Width, | Home Decor](https://fabricsstar.com/products/quincy-sequin-fabric-on-mesh-material-2-way-stretch-52-inch-in-width-home-decor): DIMENSION - Size of the fabric is 52 Inch. in width. fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 52' x 36'. Order of 3 yards (Qty=3) is 52’ x 108' Orders can be customized to be cut in pieces by request. MATERIAL - The sequin fabric by the yard is made of 100% polyester. It has a mesh 2-way stretch base and is embellished with sequins. It's recommended to hand wash the fabric with cold water to maintain its quality. GREAT FOR DECORATION - Sequin fabric is a stunning and attractive material that is perfect for decorating weddings, Halloween parties, birthdays, bridal and baby showers, parties, backdrops, celebrations, holidays, graduations, and other special events. Its sparkle adds a touch of glamour to any occasion! GREAT FOR SEWING - Sequin fabric is an ideal fabric for sewing projects due to its ease of cutting. It can be used for a wide range of DIY, arts & crafts and sewing needs, including dresses, skirts, mermaid dresses, pillows, costumes, tablecloths, table runners, curtains, hats, headbands, shoes, bags, and much more. Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-09-16T00:42:59Z
+  Updated: 2025-10-15T21:51:07Z
   Vendor: Fabrics Star
   Product Type: Sequin Mesh Fabric
   Availability: Available
@@ -9477,7 +9477,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/WALDORF-GREY-206.jpg?v=1757518830
     Price: $1.00 USD
 - [VELUXE Soft Velvet Fabric, 72 Inch. in Width, Ideal Material for Home Décor](https://fabricsstar.com/products/veluxe-soft-velvet-fabric-72-inch-in-width-ideal-material-for-home-decor): DIMENSION - Size of the velvet fabric is 72 Inch. in width. Cut by the Yard Velvet Fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 72' x 36'. Order of 3 yards (Qty=3) is 72' x 108' Orders can be customized to be cut in pieces by request SIZE: Soft velvet fabric comes in 72 inch. in width making it the perfect choice for various oversize needs, such as wide tablecloths, upholstery for big coaches etc. MATERIAL - Velvet fabric by the yard is heavyweight and made of 100% polyester. It's soft to the touch and gives a warm and cozy feeling. Wash with lukewarm water, no dryerUSEFUL - Ideal Velvet Material for Upholstery fabric for Coaches and chairs, drapery, pillows, slipcovers, tablecloths, sewing, DIY, handbags, tote bags, arts & crafts Etc Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor.
-  Updated: 2025-10-15T04:05:08Z
+  Updated: 2025-10-15T16:25:06Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
