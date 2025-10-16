@@ -6,7 +6,7 @@
 - Timezone: Asia/Kuwait
 - Created At: 2025-09-29T02:15:58Z
 - Contact Email: elitebuzkw@gmail.com
-- Updated At: 2025-10-16T00:00:32.835Z
+- Updated At: 2025-10-16T12:00:36.252Z
 
 ## Products
 
@@ -2306,7 +2306,7 @@
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/Gemini_Generated_Image_t9e9ijt9e9ijt9e9.png?v=1760179132
   Price: KWD 35.00 KWD
 - [ميزان على شكل حصان للأطفال | تسوق الآن من Dartoys](https://dartoys.com/products/ميزان-لعب-للأطفال-على-شكل-حصان): استمتع بميزان لعب على شكل حصان لتسلية الأطفال وتنمية مهاراتهم. تصميم آمن وممتع. تسوق الآن من Dartoys!
-  Updated: 2025-10-15T23:17:55Z
+  Updated: 2025-10-16T01:16:01Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
