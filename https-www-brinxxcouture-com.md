@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2025-10-16T16:31:10.147Z
+- Updated At: 2025-10-16T20:00:50.886Z
 
 ## Products
 
@@ -351,7 +351,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Boat-Neck-Horizontal-Ribbed-Sweater-Brinxx-Couture-5914.jpg?v=1739987523
     Price: $27.00 USD
 - [Ruffled Flounce Sleeve V-Neck Belted Dress](https://www.brinxxcouture.com/products/ruffled-flounce-sleeve-v-neck-belted-dress): Shop our Ruffled Flounce Sleeve V-Neck Belted Dress | Casual style with buttoned detail and flattering belted waist | Multiple sizes available - [Store Name]
-  Updated: 2025-10-02T17:11:55Z
+  Updated: 2025-10-16T18:43:24Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -8460,7 +8460,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/High-Neck-Long-Sleeve-Ribbed-Top-Brinxx-Couture-6079_ae99505f-4811-4797-bf89-89c3a0f73de1.jpg?v=1736050169
     Price: $25.00 USD
 - [Distressed Raw Hem Denim Jacket - Brinxx Couture](https://www.brinxxcouture.com/products/distressed-raw-hem-denim-jacket): This distressed raw hem denim jacket is the perfect way to make a statement. With its distressed raw hem design, you'll look cool and effortless.
-  Updated: 2025-10-16T11:00:41Z
+  Updated: 2025-10-16T16:40:56Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -14568,7 +14568,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Solid-Hollow-Out-Cutout-Split-Dress-Top-Brinxx-Couture-6320.jpg?v=1709875308
     Price: $34.99 USD
 - [18K Gold-Plated Chain Necklace - Brinxx Couture](https://www.brinxxcouture.com/products/18k-gold-plated-chain-necklace): This 18K gold-plated chain necklace exudes elegance and luxury. Crafted with precision and coated in high-quality gold, it adds a touch of sophistication to any outfit.
-  Updated: 2025-10-15T21:28:25Z
+  Updated: 2025-10-16T19:59:37Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -23683,7 +23683,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Pocketed-Button-Up-Long-Sleeve-Hooded-Cardigan-Brinxx-Couture-8633_f5f696c7-233f-4ed7-9fec-2648fade861f.jpg?v=1736049637
     Price: $44.99 USD
 - [Pocketed Leopard Open Front Cardigan - Brinxx Couture](https://www.brinxxcouture.com/products/pocketed-leopard-open-front-cardigan): Elevate your wardrobe with our chic Pocketed Leopard Open Front Cardigan! With its sleek open front design and trendy leopard print, it's the perfect balance of style.
-  Updated: 2025-10-01T22:27:12Z
+  Updated: 2025-10-16T18:23:56Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
