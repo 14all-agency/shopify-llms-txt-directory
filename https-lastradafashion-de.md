@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2023-03-22T10:49:51Z
 - Contact Email: onlineshop@lastradafashion.de
-- Updated At: 2025-10-15T20:00:55.271Z
+- Updated At: 2025-10-16T04:00:51.368Z
 
 La Strada is love for Italian Fashion. Our collections represents the latest fashion trends from Italy and is lovingly created and arranged for the modern fashionable woman who is looking for the newest trends, the best quality and best price. 
 
@@ -379,7 +379,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI4MjU3MDcuanBn_52e42fcd-9ce2-4fd9-8a00-ce435475f4cb.jpg?v=1741857469
     Price: 13,00 € EUR
 - [Freizeithose im Crinkle-Look](https://lastradafashion.de/products/freizeithose-im-crinkle-look): Tauchen Sie ein in den ultimativen Komfort und den angesagten Stil unserer Freizeithose im Crinkle-Look. Diese Hose vereint Lässigkeit und Trendbewusstsein auf harmonische Weise und wird schnell zu Ihrem Lieblingsstück für entspannte Tage. Mit ihrer 7/8 Länge strahlt diese Hose Modernität und Frische aus, während der Crinkle-Look ihr eine unverwechselbare Textur verleiht. Dieser dezente Knittereffekt verleiht der Hose eine subtile Dynamik, die den Blick fesselt und Ihnen einen einzigartigen Look verleiht, ohne auf Komfort zu verzichten. Der elastische Bund in Kombination mit dem praktischen Kordelzug erlaubt eine individuelle Anpassung der Passform. Das bedeutet, dass Sie diese Hose so tragen können, wie es Ihnen am bequemsten ist. Der elastische Bund schmiegt sich sanft an Ihre Taille an und sorgt für einen sicheren Sitz, während der Kordelzug zusätzlichen Charme verleiht. Vorne und hinten mit Taschen ausgestattet, wird diese Freizeithose nicht nur durch ihren Stil definiert, sondern auch durch ihre praktische Funktionalität. Bewahren Sie Ihre Essentials in den Taschen auf, während Sie den Tag genießen, sei es beim Bummeln in der Stadt oder beim Relaxen zu Hause. Egal, ob Sie sie mit einem legeren T-Shirt für einen lässigen Look oder mit einem schicken Oberteil für mehr Eleganz kombinieren, diese Freizeithose im Crinkle-Look wird immer eine hervorragende Wahl sein. Sie verleiht Ihnen das Beste aus beiden Welten: Mode und Gemütlichkeit. MARKE - La Strada PASSFORM UND SCHNITT - One Size (von Größen 36 bis 42) - normal geschnitten - Bundhöhe: Mid-Rise, Bund mit Kordelzug - elastischer Bund - schmales Bein, Gesäßtasche/n MATERIAL UND VERARBEITUNG - Materialmix: 95% Viskose 5% Elasthan - Materialqualität: leichtes Material, elastisches Material PFLEGEHINWEIS - Maschinenwäsche 30°C MODEL - Das Model ist 172 cm groß und trägt Konfektionsgröße 36 bzw. S
-  Updated: 2025-10-15T11:12:40Z
+  Updated: 2025-10-16T02:27:06Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
@@ -1663,7 +1663,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Availability: Not Available
     Price: 49,90 € EUR
 - [Sweatshirt mit Blumen-Stickerei](https://lastradafashion.de/products/sweatshirt-mit-blumen-stickerei): Das Sweatshirt mit Blumen-Stickerei besticht durch seinen kastigen Schnitt, der locker über die Hüfte reicht und für eine bequeme Passform sorgt. Der Rundhalsausschnitt und die Raglanärmel verleihen dem Shirt eine sportlich-elegante Ausstrahlung. Die dekorative Blumen-Stickerei auf der Vorderseite setzt einen charmanten Akzent und wird durch einen dekorativen Anhänger ergänzt. Das leichte Material aus Polyester, Viskose und Elastan garantiert einen angenehmen Tragekomfort und macht das Sweatshirt zu einem vielseitigen Begleiter für einen entspannten Look mit einem Hauch von Eleganz. MARKE - La Strada PASSFORM UND SCHNITT - One Size (von Größen 36 bis 42) - kastiger Schnitt, reicht über die Hüfte - Rundhalsausschnitt, Raglanärmel, Dekorativer Anhänger MATERIAL UND VERARBEITUNG - Muster: Unifarben - Materialmix: 50% Polyester, 45% Viskose, 5% Elastan - Materialqualität: leichtes Material PFLEGEHINWEIS - Maschinenwäsche bis 30°C, Nicht Trockner geeignet, Bügeln mit niedriger Temperatur (max. 110°C, kein Dampf), Bleichen nicht erlaubt MODEL - Das Model ist 174cm groß und trägt Konfektionsgröße 36 bzw. S GrößeOne Size
-  Updated: 2025-10-14T11:13:36Z
+  Updated: 2025-10-16T02:27:06Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
@@ -1731,7 +1731,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI4NjM5NjUuanBn.jpg?v=1742225132
     Price: 89,00 € EUR
 - [Jeanshose mit weitem Umschlag](https://lastradafashion.de/products/jeanshose-mit-weitem-umschlag): Ein starker Auftritt für Denim-Liebhaberinnen: Die Jeanshose „Urban Cuff“ begeistert mit ihrem modischen Wide-Leg-Schnitt und dem markanten, extrabreiten Saumumschlag. Das dunkle Denim mit Kontrastnähten unterstreicht den modernen Charakter und verleiht der Hose einen cleanen, urbanen Look. Die aufgesetzten Taschen vorn sorgen für eine trendige Utility-Note, während der elastische Baumwollmix angenehm nachgibt und optimalen Tragekomfort bietet. Ein Highlight für stilbewusste Frauen, die das Besondere suchen – ein echtes Must-have!
-  Updated: 2025-10-15T16:06:26Z
+  Updated: 2025-10-15T23:39:08Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
@@ -1757,7 +1757,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMi0wMDAyLTQwNjgzODIxNjI4MzUtamVhbnNibGF1LTI1MDB4MTg3NXB4LWJndy0xLmpwZWc_5ace154c-9470-47fd-ab67-723c06106dce.jpg?v=1760528017
     Price: 69,00 € EUR
 - [Velours-Fransenbolero](https://lastradafashion.de/products/velours-fransenbolero): Statement-Piece mit Boho-Flair – dieser Bolero aus softem Velours zieht mit seinen langen, schwingenden Fransen alle Blicke auf sich. Die verkürzte Schnittform setzen die Taille gekonnt in Szene und sorgen für eine betont feminine Silhouette. Die elastische Velours-Qualität verleiht dem Look eine luxuriöse Haptik mit weichem Griff, während die Fransen entlang der Ärmel und Vorderkante bei jeder Bewegung stilvoll mitschwingen. Ideal als Eyecatcher über simplen Tops, Kleidern oder zur High-Waist-Hose. Ein Must-have für alle, die Mode inszenieren wollen.
-  Updated: 2025-10-15T15:09:32Z
+  Updated: 2025-10-16T00:52:05Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
@@ -1772,7 +1772,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Price: 39,90 € EUR
   - [One Size / SCHWARZ](https://lastradafashion.de/products/velours-fransenbolero?variant=58801188077917)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTE1NS0zMzU5Mi00MDY4MzgyMTYyODExLXNjaHdhcnotMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760538173
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTE1NS0zMzU5Mi00MDY4MzgyMTYyODExLXNjaHdhcnotMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1760563585
     Price: 39,90 € EUR
 
 ## Collections
