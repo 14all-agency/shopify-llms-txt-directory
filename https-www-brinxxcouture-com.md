@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2025-10-16T12:00:51.269Z
+- Updated At: 2025-10-16T16:00:49.339Z
 
 ## Products
 
@@ -9852,7 +9852,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Open-Front-Ribbed-Hooded-Coat-Brinxx-Couture-7459.jpg?v=1709852117
     Price: $49.99 USD
 - [Zip-Up Collared Ribbed Jacket - Brinxx Couture](https://www.brinxxcouture.com/products/zip-up-collared-ribbed-jacket): This stylish zip-up collared ribbed jacket is perfect for keeping you warm and cozy in cold weather. Crafted from high-quality materials.
-  Updated: 2025-10-16T10:20:06Z
+  Updated: 2025-10-16T14:49:55Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -10614,7 +10614,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Sport-Tank-and-Leggings-Set-Brinxx-Couture-6482.jpg?v=1709860365
     Price: $30.00 USD
 - [Woven Houndstooth Open Front Cardigan - Brinxx Couture](https://www.brinxxcouture.com/products/woven-houndstooth-open-front-cardigan): Stay warm and stylish with this woven Houndstooth cardigan! Featuring an open front and cozy oversized fit, you'll love the comfort and timeless appeal of this classic cardigan!
-  Updated: 2025-10-14T21:33:26Z
+  Updated: 2025-10-16T15:40:41Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -19500,7 +19500,7 @@
   Availability: Available
   Price: $39.00 USD
 - [Stretchy Stitch Pants  - Brinxx Couture](https://www.brinxxcouture.com/products/stretchystitch-pants-by-basic-bae): Introducing the Stretchy Stitch Pants - the ultimate combination of comfort and style! These pants are stretchy that allows for maximum flexibility.
-  Updated: 2025-10-13T21:49:47Z
+  Updated: 2025-10-16T13:30:21Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -23343,13 +23343,13 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Notch-Lapel-Woven-Coat-with-Side-Pockets-Brinxx-Couture-2936.jpg?v=1730297108
     Price: $40.00 USD
 - [Cable-Knit Round Neck Sweater Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress): Wrap yourself in cozy comfort and timeless style with our Cable-Knit Round Neck Sweater Dress! Made from soft, high-quality materials.
-  Updated: 2025-10-16T11:40:46Z
+  Updated: 2025-10-16T14:40:50Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Cable-Knit-Round-Neck-Sweater-Dress-Brinxx-Couture-228.jpg?v=1730297216
   - [Tan / S](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress?variant=43426819506358)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Cable-Knit-Round-Neck-Sweater-Dress-Brinxx-Couture-228.jpg?v=1730297216
     Price: $49.99 USD
   - [Tan / M](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress?variant=43426819539126)
@@ -27550,7 +27550,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Sexy-Embroidered-Lace-Backless-Four-Piece-Lingerie-Brinxx-Couture-1362.jpg?v=1733888586
     Price: $39.99 USD
 - [Color Matched Short Sleeve Two Piece Set - Brinxx Couture](https://www.brinxxcouture.com/products/color-matched-short-sleeve-two-piece-set): Find your perfect match with this Color Matched Short Sleeve Two Piece Set! Featuring color-matched short sleeves for a cohesive look, this set is stylish.
-  Updated: 2025-07-07T20:59:45Z
+  Updated: 2025-10-16T14:26:43Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
