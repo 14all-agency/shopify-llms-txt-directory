@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2024-09-16T12:02:11Z
 - Contact Email: online@grownexpackaging.com
-- Updated At: 2025-10-16T04:00:38.091Z
+- Updated At: 2025-10-16T08:00:35.178Z
 
 ## Products
 
@@ -974,7 +974,7 @@
     Availability: Available
     Price: ₹6,999.00 INR
 - [12 Cavity Chocolate Packing Box - Red](https://grownexpackaging.com/products/12-pcs-cavity-chocolate-box-red): 12 Pcs Cavity Chocolate Box - Red: Perfect for gifting chocolates on special occasions. Made from high quality Kapaboard with included cavity tray. Shop now!
-  Updated: 2025-10-14T01:25:18Z
+  Updated: 2025-10-16T07:35:08Z
   Vendor: Grownex Packaging
   Product Type: Chocolate Box
   Availability: Available
@@ -2069,7 +2069,7 @@
     Availability: Available
     Price: ₹3,599.00 INR
 - [Hut Shape Folding Box - Easy Fold, Matt Laminated | Grownex Packaging](https://grownexpackaging.com/products/hut-shape-folding-box-pink-blue): Hut Shape Folding Box Pink Blue: Perfect for multi purpose use. Food safe SBS paperboard, matt laminated, easy to fold, no pasting needed. Shop now!
-  Updated: 2025-09-18T17:43:05Z
+  Updated: 2025-10-16T06:08:07Z
   Vendor: Grownex Packaging
   Product Type: hamper box
   Availability: Available
