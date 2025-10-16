@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-10-15T20:00:40.791Z
+- Updated At: 2025-10-16T00:00:39.803Z
 
 ## Products
 
@@ -144,7 +144,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/nitrile-examination-gloves-powder-free-black-m-240mm-cuff-70g-1000-gloves-nitrile-examination-gloves-essential-supplies-508508.jpg?v=1719445412
   Price: $109.00 NZD
 - [Nitrile Examination Gloves Powder Free - Black, S, 240mm Cuff, 7.0g - 1000 Gloves](https://essentialsupplies.co.nz/products/nitrile-examination-gloves-powder-free-black-s-240mm-cuff-7-0g-1000): Black powder free nitrile gloves offer premium snag and ultimate puncture resistance for use in dirty, greasy, industrial work environments. Made of powder and latex free nitrile to avoid allergies and skin irritation.Used when emergency and body protection is paramount with an increased resistance to oils and heat over latex. Made of powder and latex free nitrile to avoid allergies and skin irritation 240mm cuff 7.0g Colour: Black Size: Small Pack:10 packs x 100's Note:*Other sizes available: Medium, Large, Extra Large, Extra Extra Large (2XL)
-  Updated: 2025-10-15T19:35:28Z
+  Updated: 2025-10-15T22:50:08Z
   Vendor: Mattews Packaging
   Product Type: Nitrile Examination Gloves
   Availability: Available
@@ -1971,7 +1971,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/polyethylene-shoe-covers-white-200mm-x-400mm-35g-1600-pieces-foot-protection-essential-supplies-361671.jpg?v=1719445542
   Price: $85.00 NZD
 - [Polyethylene Extra Long Sleeve Covers - White, 200mm x 600mm x 20mu - 1100 Pieces](https://essentialsupplies.co.nz/products/polyethylene-extra-long-sleeve-covers-white-200mm-x-600mm-x-20mu-1100): Polyethylene sleeve covers constructed from low density polyethylene to provide a waterproof, protective barrier against the transfer of hair, skin and body fluids. Features full protection from wrist to elbow. Certified for use in the medical, farming and food processing industries. Constructed from low density polyethylene Protective barrier against fluid transfer Size: 200mm x 600mm Content: 1100 pieces Colour: White
-  Updated: 2025-10-15T06:28:03Z
+  Updated: 2025-10-15T22:20:51Z
   Vendor: Mattews Packaging
   Product Type: Arm Protection
   Availability: Available
