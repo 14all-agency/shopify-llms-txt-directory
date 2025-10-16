@@ -6,7 +6,7 @@
 - Timezone: Europe/Bucharest
 - Created At: 2025-10-04T05:09:15Z
 - Contact Email: info@comoripsaltice.ro
-- Updated At: 2025-10-15T20:00:28.636Z
+- Updated At: 2025-10-16T23:04:11.921Z
 
 ## Products
 
@@ -96,23 +96,23 @@
     Author: Florian Mihai Vois
     Tags: Noutăți, Studii
   - [Mari imnografi ai Bisericii: Sfântul Ioan Damaschin, Sfântul Cosma Melodul și Sfântul Andrei Criteanul - Comori Psaltice](https://b5hhpr-gv.myshopify.com/blogs/news/mari-imnografi-ai-bisericii-sfantul-ioan-damaschin-sfantul-cosma-melodul-și-sfantul-andrei-criteanul): Mari imnografi ai Bisericii: Sfântul Ioan Damaschin, Sfântul Cosma Melodul și Sfântul Andrei Criteanul - Comori Psaltice
-    Updated: 2025-10-14T01:29:18Z
+    Updated: 2025-10-16T22:02:37Z
     Author: Florian Mihai Vois
     Tags: Imnografie, Studii
   - [Cum alegem ce cântăm? Despre discernământul liturgic - Comori Psaltice](https://b5hhpr-gv.myshopify.com/blogs/news/cum-alegem-ce-cantam-despre-discernamantul-liturgic): Cum alegem ce cântăm? Despre discernământul liturgic - Comori Psaltice
-    Updated: 2025-10-14T01:29:26Z
+    Updated: 2025-10-16T22:02:44Z
     Author: Florian Mihai Vois
     Tags: Noutăți, Reflecții, Studii
   - [Sistemul modal psaltic: o analiză morfologică și hermeneutică a ethosului bizantin - Comori Psaltice](https://b5hhpr-gv.myshopify.com/blogs/news/sistemul-modal-psaltic-o-analiza-morfologica-și-hermeneutica-a-ethosului-bizantin): Sistemul modal psaltic: o analiză morfologică și hermeneutică a ethosului bizantin - Comori Psaltice
-    Updated: 2025-10-14T01:29:34Z
+    Updated: 2025-10-16T22:02:52Z
     Author: Florian Mihai Vois
     Tags: Noutăți, Studii
   - [Mic dictionar de termeni psaltici - Comori Psaltice](https://b5hhpr-gv.myshopify.com/blogs/news/mic-dictionar-de-termeni-psaltici): Mic dictionar de termeni psaltici - Comori Psaltice
-    Updated: 2025-10-14T01:29:42Z
+    Updated: 2025-10-16T22:03:01Z
     Author: Florian Mihai Vois
     Tags: Noutăți, Studii
   - [Chinonicul: comuniune și isihasm în Sfânta Liturghie - Comori Psaltice](https://b5hhpr-gv.myshopify.com/blogs/news/chinonicul-comuniune-și-isihasm-in-sfanta-liturghie): Chinonicul: comuniune și isihasm în Sfânta Liturghie - Comori Psaltice
-    Updated: 2025-10-14T01:29:52Z
+    Updated: 2025-10-16T22:03:08Z
     Author: Florian Mihai Vois
     Tags: Chinonic, Studii
   - [A doua ediție a volumului Chinonice Duminicale – partea I este disponibilă spre achiziție - Comori Psaltice](https://b5hhpr-gv.myshopify.com/blogs/news/a-doua-ediție-a-volumului-chinonice-duminicale-partea-i-este-disponibila-spre-achiziție): A doua ediție a volumului Chinonice Duminicale – partea I este disponibilă spre achiziție - Comori Psaltice
@@ -124,19 +124,19 @@
     Author: Florian Mihai Vois
     Tags: Cărți, Chinonic, Noutăți
   - [Slavă…Și acum, glas II, de la Vecernia Praznicului Nașterii Domnului, de Dimitrie Suceveanu – Partituri psaltice - Comori Psaltice](https://b5hhpr-gv.myshopify.com/blogs/news/slava-și-acum-glas-ii-de-la-vecernia-praznicului-nașterii-domnului-de-dimitrie-suceveanu-partituri-psaltice): Slavă…Și acum, glas II, de la Vecernia Praznicului Nașterii Domnului, de Dimitrie Suceveanu – Partituri psaltice - Comori Psaltice
-    Updated: 2025-10-14T01:30:11Z
+    Updated: 2025-10-16T22:03:26Z
     Author: Florian Mihai Vois
     Tags: Cântări, Partituri psaltice
   - [Sfântul Ierarh Antim Ivireanul – Ctitor de limbă și carte - Comori Psaltice](https://b5hhpr-gv.myshopify.com/blogs/news/sfantul-ierarh-antim-ivireanul-ctitor-de-limba-și-carte): Sfântul Ierarh Antim Ivireanul – Ctitor de limbă și carte - Comori Psaltice
-    Updated: 2025-10-14T01:30:19Z
+    Updated: 2025-10-16T22:03:35Z
     Author: Florian Mihai Vois
     Tags: Studii
   - [Heruvicele lui Constantin Protopsaltul – Sunt acum disponibile - Comori Psaltice](https://b5hhpr-gv.myshopify.com/blogs/news/heruvicele-lui-constantin-protopsaltul-sunt-acum-disponibile): Heruvicele lui Constantin Protopsaltul – Sunt acum disponibile - Comori Psaltice
-    Updated: 2025-10-14T01:30:41Z
+    Updated: 2025-10-16T22:03:55Z
     Author: Florian Mihai Vois
     Tags: Heruvice, Noutăți
   - [Volumul „Heruvice scurte și pe larg de Constantin Protopsaltul” va fi disponibil din 1 Septembrie 2024 - Comori Psaltice](https://b5hhpr-gv.myshopify.com/blogs/news/volumul-heruvice-scurte-și-pe-larg-de-constantin-protopsaltul-va-fi-disponibil-din-1-septembrie-2024): Volumul „Heruvice scurte și pe larg de Constantin Protopsaltul” va fi disponibil din 1 Septembrie 2024 - Comori Psaltice
-    Updated: 2025-10-14T00:56:05Z
+    Updated: 2025-10-16T22:04:15Z
     Author: Florian Mihai Vois
     Tags: Heruvice, Noutăți
   - [Troparul Adormirii Maicii Domnului, glas 1, pe larg, de Dimitrie Suceveanu - Comori Psaltice](https://b5hhpr-gv.myshopify.com/blogs/news/troparul-adormirii-maicii-domnului-glas-1-pe-larg-de-dimitrie-suceveanu): Troparul Adormirii Maicii Domnului, glas 1, pe larg, de Dimitrie Suceveanu - Comori Psaltice
@@ -176,8 +176,8 @@
 
 - [Contactați-ne pentru asistență rapidă și informații utile](https://b5hhpr-gv.myshopify.com/pages/contact): Contact Vă mulțumim că sunteți interesat de a lua legătura cu noi! La [Comori Psaltice, suntem dedicați să oferim cele mai bune produse și servicii...
   Updated: 2025-10-14T01:06:45Z
-- [Despre - Informații despre brand, produse și valori ale companiei](https://b5hhpr-gv.myshopify.com/pages/despre): **Despre** Bine ați venit pe pagina noastră "Despre"! Aici, vă invităm să descoperiți cine suntem, ce facem și de ce suntem dedicați să vă oferim c...
-  Updated: 2025-10-14T01:09:06Z
+- [Despre - Informații despre brand, produse și valori ale companiei](https://b5hhpr-gv.myshopify.com/pages/despre): 
+  Updated: 2025-10-16T19:57:46Z
 - [Vecernie](https://b5hhpr-gv.myshopify.com/pages/vecernie): Fericit bărbatul Fericit barbatul, glas I, de Ierod. Ioan Doamne strigat-am Doamne strigat-am si stihurile, glas 1, de Dimitrie Suceveanu (Anastasi...
   Updated: 2025-10-14T00:23:59Z
 - [Utrenie](https://b5hhpr-gv.myshopify.com/pages/utrenie): Dumnezeu este Domnul Polieleu și Mărturisiți-vă Mărimuri Catavasii Laude Slave Doxologii
@@ -192,11 +192,11 @@
 - [Privacy Policy](https://b5hhpr-gv.myshopify.com/policies/privacy-policy)
   Updated: 2025-10-04T08:09:23+03:00
 - [Refund Policy](https://b5hhpr-gv.myshopify.com/policies/refund-policy)
-  Updated: 2025-10-13T20:43:49+03:00
+  Updated: 2025-10-17T01:44:42+03:00
 - [Terms of Service](https://b5hhpr-gv.myshopify.com/policies/terms-of-service)
-  Updated: 2025-10-14T07:30:25+03:00
+  Updated: 2025-10-17T01:38:58+03:00
 - [Contact Information](https://b5hhpr-gv.myshopify.com/policies/contact-information)
-  Updated: 2025-10-13T20:44:15+03:00
+  Updated: 2025-10-17T01:43:47+03:00
 
 ## Optional
 
