@@ -9,7 +9,7 @@
 - Created At: 2025-08-25T14:01:44Z
 - Contact Email: support@themineralskin.com
 - Address: 17 Heath Drive, London NW3 7SL, United Kingdom
-- Updated At: 2025-10-15T16:00:28.753Z
+- Updated At: 2025-10-16T20:00:29.490Z
 
 ## Products
 
@@ -77,7 +77,7 @@
   Image: https://cdn.shopify.com/s/files/1/0918/9451/3992/files/sp.webp?v=1759397634
   Price: $1.60 USD
 - [The Modern Man’s Guide to Natural Skin (Ebook) - Mineral](https://themineralskin.com/products/the-modern-man-s-guide-to-natural-skin-ebook): A simple, science-backed guide for men who want healthy, natural skin—without harsh chemicals or 10-step routines. This book breaks down everything from what your skin truly needs to how to build a minimal, effective routine. 📘 Inside the book: Introduction: The New Face of Grooming Chapter 1: What Skin Actually Needs Chapter 2: Nature vs. Chemicals Chapter 3: Minimal Routine, Maximal Results Chapter 4: The Modern Man’s Mistakes Chapter 5: Building Your Natural Arsenal Chapter 6: Skincare as Self-Respect Conclusion: Back to the Source Bonus: Your Free Skin Coach Length: ~55 pagesPublisher: The Mineral Skin A clean, modern guide that helps men rediscover skincare as confidence, discipline, and self-respect — naturally. - Mineral -  - The Mineral
-  Updated: 2025-10-15T09:51:53Z
+  Updated: 2025-10-15T21:56:46Z
   Vendor: The Mineral
   Product Type: 
   Availability: Available
