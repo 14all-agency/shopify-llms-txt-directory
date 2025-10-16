@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-09-13T14:03:24Z
 - Contact Email: info@floridasunshine.co.uk
-- Updated At: 2025-10-15T12:00:28.010Z
+- Updated At: 2025-10-16T00:00:31.803Z
 
 ## Products
 
@@ -18,21 +18,21 @@
   Image: https://cdn.shopify.com/s/files/1/0900/3073/5699/files/2_4050cd80-40df-41d9-a06a-22e5e6364f46.png?v=1760159037
   Price: £15.99 GBP
 - [Liposomal Quercetin - 120 Capsules (250mg) - £0.15 per capsule](https://www.floridasunshinevitamins.com/products/liposomal-quercetin): Quercetin, a natural antioxidant found in many fruits and vegetables, helps support the body's immune system, reduce inflammation, and protect cells from oxidative stress. It is a polyphenolic flavonoid compound, different to regular quercetin which has poor water solubility, resulting in limited bioavailability.
-  Updated: 2025-10-11T15:49:25Z
+  Updated: 2025-10-15T13:28:08Z
   Vendor: Florida Sunshine Vitamins
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0900/3073/5699/files/2_c2a51466-3f6f-420b-b9e9-0e69fb9bd867.png?v=1760158445
   Price: £16.99 GBP
 - [Liposomal Vitamin C - 120 Capsules (500mg) - £0.15 per capsule](https://www.floridasunshinevitamins.com/products/liposomal-vitamin-c): Vitamin C has multiple therapeutic, anti-inflammatory, immune-boosting, anti-aging and beauty benefits that help the entire body, from the surface of the skin to deep within the cellular structure.
-  Updated: 2025-10-11T06:21:48Z
+  Updated: 2025-10-15T13:24:52Z
   Vendor: Florida Sunshine Vitamins
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0900/3073/5699/files/liposomal_vit_C_623164a4-fc1f-4280-9329-07b2a7d32f01.png?v=1757068060
   Price: £16.99 GBP
 - [Liposomal Vitamin D3 - 90 Capsules (125mcg) - £0.19 per capsule](https://www.floridasunshinevitamins.com/products/liposomal-vitamin-d3): Vitamin D3 is essential for maintaining bone and muscle health, supporting the immune system, regulating mood, and reducing the risk of various chronic diseases. Regular exposure to sunlight, a balanced diet, and supplementation (if necessary) are key to maintaining adequate Vitamin D3 levels.
-  Updated: 2025-10-11T15:59:57Z
+  Updated: 2025-10-15T13:18:35Z
   Vendor: Florida Sunshine Vitamins
   Product Type: 
   Availability: Available
@@ -46,7 +46,7 @@
   Image: https://cdn.shopify.com/s/files/1/0900/3073/5699/files/2_928d2132-0ffc-4ab3-b914-5a8b98f7701c.png?v=1760156899
   Price: £14.99 GBP
 - [Vitamin C & D3 Bundle – Liposomal Absorption](https://www.floridasunshinevitamins.com/products/liposomal-vitamin-c-d-bundle): Boost your health with Liposomal Vitamin C and Vitamin D3, featuring advanced absorption technologies for maximum benefits.
-  Updated: 2025-10-11T05:27:43Z
+  Updated: 2025-10-15T13:02:23Z
   Vendor: Florida Sunshine Vitamins
   Product Type: 
   Availability: Available
