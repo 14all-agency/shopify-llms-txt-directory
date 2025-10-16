@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2025-01-13T13:26:43Z
 - Contact Email: info@amar.al
-- Updated At: 2025-10-15T20:00:35.767Z
+- Updated At: 2025-10-16T00:00:35.525Z
 
 ## Products
 
@@ -207,7 +207,7 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/70.webp?v=1741428614
   Price: ALL 2,059.00 ALL
 - [COMEDO ACNE-T ME - Amar Pharma - Pharmaceris - Krem Fytyre](https://amar.al/products/anti-comedone-cream-unclogs-and-refines-skin-pores-comedo-acne-40-ml): Pharmaceris – T Anti-Comedone Cream Formula e kremit Anti-Comedone zvogëlon numrin dhe madhësinë e pikave të zeza dhe pikave të bardha, duke ngushtuar gjithashtu poret e lëkurës. Normalizon rrjepjen dhe zhbllokon poret për të promovuar nxjerjen e sebumit. Unifikon tonin e lëkurës dhe zbeh hiperpigmentimin post akne.Zvogëllon skuqjen dhe nxit rigjenerimin e lëkurës. Në mënyrë efektive pengon rritjen e baktereve që shkaktojnë akne (Cutibacterium acnes). Acid Shikimik – ka një efekt të fortë antibakterial kundër akneve dhe zhbllokon poret. Për më tepëlr hidraton dhe rigjeneron lëkurën, duke e lënë atë të butë në prekje.Diglikinat Potasium Azelyol – molekula kombinon acidin azelaik dhe glicinën, është më e butë për lëkurën sesa acidi i pastër azelaik dhe ka veti më të mira hidratuese.Niacinamide – lufton aknet falë vetive të saj anti-inflamatore dhe normalizon sekretimin e dhjamit. Përmirëson teksturëln e lëkurës dhe ka një efekt kundër plakjes, ndërsa zbardh njollat.Udhëzime mbi përdoriminAplikojeni çdo ditë në mëngjes dhe para gjumit në lëkurë të pastër, duke shmangur zonën e syve. Mund të përdoret si bazë make-up. - Amar Pharma - Pharmaceris - Krem Fytyre
-  Updated: 2025-09-30T08:04:05Z
+  Updated: 2025-10-15T20:28:21Z
   Vendor: Pharmaceris
   Product Type: Krem Fytyre
   Availability: Available
@@ -1796,7 +1796,7 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/PHARMACERIS_ONLINE-RICH-CONTENT_STATIC_20250402_38798_T_18391_PREVIEW_01.png?v=1751017976
   Price: ALL 1,832.00 ALL
 - [PURI-SEBOTONIQUE - Amar Pharma - Pharmaceris - Toner](https://amar.al/products/normalizing-face-toner-puri-sebotonique-200-ml): Pharmaceris – Puri-Sebotonique Normalizing Toner Falë vetive të tij antibakteriale, toniku heq në mënyrë efektive papastërtitë dhe mbetjet e make-up-it.Ekstrakti i marinës eksfolon butësisht qelizat e vdekura të epidermës dhe lehtëson aknet.Ekstrakti i burdock dhe PCA i zinkut rregullojnë sekretimin e sebumit dhe ngushtojnë poret e lëkurës. Eksfolon qelizat epidermale të kornifikuara dhe ka veti hidratuese të cilat rivendosin ekuilibrin hidro të lëkurës. Kontrollon në mënyrë efektive mikrofloren bakteriale dhe redukton yndyrën e tepërt të lëkurës. Ka veti antibakteriale. Normalizon aktivitetin e tepërt të gjëndrave dhjamore dhe zvogëlon sekretimin e sebumit. Udhëzime mbi përdorimin Pastroni lëkurën, më pas lagni një tampon pambuku me tonikun dhe aplikojeni butësisht mbi fytyrën tuaj.Përdoreni çdo ditë në mëngjes dhe para gjumit. - Amar Pharma - Pharmaceris - Toner
-  Updated: 2025-09-26T22:35:15Z
+  Updated: 2025-10-15T20:28:20Z
   Vendor: Pharmaceris
   Product Type: Toner
   Availability: Available
