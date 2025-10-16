@@ -6,7 +6,7 @@
 - Timezone: Europe/Athens
 - Created At: 2023-12-24T09:13:07Z
 - Contact Email: info@printexplore9.com
-- Updated At: 2025-10-15T20:00:32.629Z
+- Updated At: 2025-10-16T16:00:31.707Z
 
 ## Products
 
@@ -432,7 +432,7 @@
   Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/weekender-bag-Blue_Flowers.jpg?v=1759081942
   Price: $39.95 USD
 - [Vibrant & Stylish Phone Case – Colorful Grace](https://printexplore9.com/products/tough-cases-print-explore-2): Keep your iPhone safe and stylish with the Colorful Grace Tough Case. Vibrant colors, premium durability, and a perfect fit.
-  Updated: 2025-10-15T13:05:36Z
+  Updated: 2025-10-16T00:09:02Z
   Vendor: Printify
   Product Type: Phone Case
   Availability: Available
