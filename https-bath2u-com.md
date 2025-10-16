@@ -6,7 +6,7 @@
 - Timezone: Asia/Kuala_Lumpur
 - Created At: 2022-10-06T05:47:12Z
 - Contact Email: sales@bath2u.com
-- Updated At: 2025-10-15T12:00:32.871Z
+- Updated At: 2025-10-16T12:00:33.239Z
 
 ## Products
 
@@ -735,7 +735,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/SRTWT6860-GY.jpg?v=1673966519
   Price: RM 370.00 MYR
 - [SORENTO 290mm Modern High Basin Mixer Tap Golden Yellow](https://bath2u.com/products/sorento-290mm-modern-high-basin-mixer-tap-golden-yellow): The tall basin mixer is a unique and reliable tap, manufactured from good quality brass. Fitted with the latest ceramic disk technology and finished with 40 microns of chrome to ensure a highly reflective mirror finish creating that silky feel, mirror-like sheen and tarnish corrosion resistance. Specifications Material: Brass Colour: Golden Yellow Dimension: 155 (L) x 50 (W) x 290 (H) mm Finish: Highly polished chrome Mounting Type: Deck Mounted Package Contents 1 X Basin mixer tap
-  Updated: 2025-02-14T06:56:00Z
+  Updated: 2025-10-16T05:01:42Z
   Vendor: SORENTO
   Product Type: Tall Tap
   Availability: Available
@@ -1460,7 +1460,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/TAP-8534-BK.png?v=1675142831
   Price: RM 523.00 MYR
 - [TAPI 200mm Matte Black Round Exposed Push Button Shower Set](https://bath2u.com/products/tapi-200mm-matte-black-round-exposed-push-button-shower-set): Specifications : Push Button Valve ABS 200mm Round Fixed Shower Head ABS Round Hand Shower ABS Adjustable Holder 1.5m Hose Push Button Valve Wall Mounted Material : Stainless steel PC Matt Black
-  Updated: 2025-01-19T04:57:50Z
+  Updated: 2025-10-16T03:49:41Z
   Vendor: TAPI
   Product Type: Exposed Shower
   Availability: Available
