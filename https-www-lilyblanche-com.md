@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-10-15T20:00:47.324Z
+- Updated At: 2025-10-16T00:00:46.335Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -249,7 +249,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_6d328435-4ff4-4dfa-b450-d29002bc7336.jpg?v=1741874331
   Price: £120.00 GBP
 - [Green Amethyst Earrings Rose Gold| Lily Blanche](https://www.lilyblanche.com/products/green-amethyst-earrings-rose-gold): These green amethyst gemstone earrings in a rose gold vermeil setting have fabulous clarity, depth of colour and luminosity. Matching rings available. Free shipping. Discover our extensive collection of green amethyst jewellery.
-  Updated: 2025-10-12T13:46:00Z
+  Updated: 2025-10-15T21:31:41Z
   Vendor: Lily Blanche
   Product Type: Drop
   Availability: Available
@@ -3775,7 +3775,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £230.00 GBP
 - [Gold Green Amethyst Cocktail Ring | Lily Blanche](https://www.lilyblanche.com/products/green-amethyst-cocktail-ring-rose-gold): This green amethyst gemstone ring, in a rose gold vermeil setting, has fabulous clarity, depth of colour and luminosity.
-  Updated: 2025-08-21T12:53:01Z
+  Updated: 2025-10-15T21:31:41Z
   Vendor: Lily Blanche
   Product Type: Rings
   Availability: Available
@@ -14944,7 +14944,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £255.00 GBP
 - [Sapphire Heart Locket Silver | Free Photos | Lily Blanche](https://www.lilyblanche.com/products/sapphire-vintage-heart-locket-silver): Searching for the perfect romantic gift? This Sapphire Vintage Heart Locket features a genuine sapphire, the birthstone of September. This beautiful vintage locket opens to take two of your personal photos. Hallmarked in Edinburgh. Free UK Shipping & Express Delivery Available. Shop Sapphire Necklaces Online.
-  Updated: 2025-10-15T16:19:36Z
+  Updated: 2025-10-15T23:24:40Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -15975,7 +15975,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £180.00 GBP
 - [Men's Dog Tag Necklace Gold  Superb Quality](https://www.lilyblanche.com/products/mens-dog-tag-necklace-gold): Looking for a classic dog tag necklace but with heft and quality? This striking gold vermeil dog tag necklace is a statement piece which can be engraved both sides with your message. A wonderful, personalised gift for a boyfriend, son, brother, father or friend. Order online today with free shipping.
-  Updated: 2025-10-15T15:26:51Z
+  Updated: 2025-10-15T20:46:30Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
