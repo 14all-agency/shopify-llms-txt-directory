@@ -37,7 +37,7 @@ Primary Languages: English, German, Ukrainian, Dutch, French, Denmark
 Taglines:
 Modern engagement rings with ethical sparkle.
 
-- Updated At: 2025-10-16T08:00:35.239Z
+- Updated At: 2025-10-16T16:00:34.198Z
 
 Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced engagement rings and fine jewelry. We specialize in premium moissanite and lab-grown diamonds, offering a modern, sustainable choice for the stylish couple. Our commitment to exceptional craftsmanship ensures that each piece sparkles with brilliance and elegance. Explore our curated collection, where every ring tells a story of love, quality, and timeless beauty.
 
@@ -11212,34 +11212,34 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
 ## Collections
 
 - [✨ Sale on Moissanite Jewelry: Silver & Gold Deals! 💍](https://www.chantalvaulet.com/collections/sale): Shop our exclusive sale on stunning moissanite jewelry in silver & gold! Don't miss out on these sparkling deals! ✨💖
-  Updated: 2025-10-10T20:45:27Z
+  Updated: 2025-10-16T11:11:15Z
   Total Products: 19
 - [Elegant Rings Collection - Perfect for Every Occasion](https://www.chantalvaulet.com/collections/rings): Discover our stunning collection of rings, designed to elevate your style for any occasion. Shop now for timeless elegance!
-  Updated: 2025-10-12T15:44:59Z
+  Updated: 2025-10-16T11:11:15Z
   Total Products: 132
 - [Stunning Earrings Collection 💎✨](https://www.chantalvaulet.com/collections/earrings): Explore our exquisite earrings collection featuring Moissanite, Gold, & Diamonds. Shine bright with every look! 💖🌟
   Updated: 2025-10-10T18:40:55Z
   Total Products: 22
 - [✨ Stunning Moissanite Necklaces Collection 💎](https://www.chantalvaulet.com/collections/necklaces): Explore our exquisite Moissanite necklaces collection. Perfect elegance for every occasion! ✨
-  Updated: 2025-10-15T07:53:27Z
+  Updated: 2025-10-16T11:11:15Z
   Total Products: 39
 - [Stunning Bracelets Collection 💎✨](https://www.chantalvaulet.com/collections/bracelets): Discover exquisite bracelets in moissanite, silver & gold! Elevate your style with our stunning collection! 💖
   Updated: 2025-09-28T19:28:43Z
   Total Products: 11
 - [Best Sellers Collection - Top Rated Products](https://www.chantalvaulet.com/collections/best-sellers): Explore our Best Sellers Collection featuring top-rated products that customers love! Discover what’s trending and shop now.
-  Updated: 2025-10-15T07:53:27Z
+  Updated: 2025-10-16T11:11:15Z
   Total Products: 202
 - [925 Sterling Silver Collection](https://www.chantalvaulet.com/collections/silver-925): Explore our exquisite 925 sterling silver jewelry collection, featuring timeless designs.
-  Updated: 2025-10-15T07:53:27Z
+  Updated: 2025-10-16T11:11:15Z
   Total Products: 186
 - [✨ White Gold Collection: Stunning Jewelry Pieces ✨](https://www.chantalvaulet.com/collections/white-gold): Explore our White Gold Collection featuring exquisite moissanite jewelry. Perfect for any occasion! 💍💖
-  Updated: 2025-10-15T07:53:27Z
+  Updated: 2025-10-16T11:11:15Z
   Total Products: 9
 - [Yellow Gold Collection 💛 | Stunning 14k Gold & Moissanite](https://www.chantalvaulet.com/collections/yellow-gold): Explore our Yellow Gold Collection featuring exquisite 14k gold, Moissanite gems, and radiant diamonds! ✨💎
   Updated: 2025-10-11T08:07:27Z
   Total Products: 6
 - [Explore All Products: Jewelry, Moissanite, Diamonds ✨💎](https://www.chantalvaulet.com/collections/all-products): Shop our stunning selection of all products, including moissanite, diamonds, and gold jewelry! 💖
-  Updated: 2025-10-15T07:53:27Z
+  Updated: 2025-10-16T11:11:15Z
   Total Products: 202
 - [Lab-Grown Diamond Engagement Rings | Chantal Vaulet](https://www.chantalvaulet.com/collections/lab-grown-engagement-rings): Shop lab-grown diamond engagement rings—ethical, brilliant, and responsibly priced. Styles: solitaire, halo, oval, pear, emerald & more. Free delivery
   Updated: 2025-10-12T15:44:59Z
@@ -11251,25 +11251,25 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
   Updated: 2025-09-28T19:28:44Z
   Total Products: 3
 - [Gold Collection - Exclusive Jewelry Pieces](https://www.chantalvaulet.com/collections/gold): Explore our stunning Gold Collection featuring exquisite designs and timeless pieces perfect for any occasion.
-  Updated: 2025-10-15T07:53:27Z
+  Updated: 2025-10-16T11:11:15Z
   Total Products: 15
 - [Engagement Rings – Lab-Grown Diamonds & Moissanite | Chantal Vaulet](https://www.chantalvaulet.com/collections/engagement-rings): Shop engagement rings in lab-grown diamond or moissanite, solitaire, halo, oval & custom. Ethical, budget-friendly. Free shipping
   Updated: 2025-10-12T15:44:59Z
   Total Products: 110
 - [Wedding Rings – Lab-Grown Diamonds & Moissanite | Chantal Vaulet](https://www.chantalvaulet.com/collections/wedding-rings): Wedding rings in lab-grown diamond and moissanite. Timeless to modern styles. Ethical sparkle, enduring quality. Budget friendly. Shop the collection.
-  Updated: 2025-10-12T15:44:59Z
+  Updated: 2025-10-16T11:11:15Z
   Total Products: 18
 - [Lab-Grown Diamond Wedding Rings | Chantal Vaulet](https://www.chantalvaulet.com/collections/lab-grown-wedding-rings): Shop lab-grown diamond wedding rings: ethical sparkle, exceptional value. Classic and modern bands—pavé, eternity, plain, and custom designs
   Updated: 2025-10-12T15:44:59Z
   Total Products: 4
 - [Wedding Rings — Moissanite | Chantal Vaulet](https://www.chantalvaulet.com/collections/moissanite-wedding-rings): Browse handcrafted moissanite wedding rings & bands—eternity, pavé, solitaire, and matching sets. Ethical metals, custom sizing, and sparkle that lasts.
-  Updated: 2025-10-12T15:44:59Z
+  Updated: 2025-10-16T11:11:15Z
   Total Products: 15
 - [Oval Engagement Rings — Lab-Grown & Moissanite | Chantal Vaulet](https://www.chantalvaulet.com/collections/oval-engagement-rings): Shop oval engagement rings in lab-grown diamond & moissanite. Ethical sparkle, customizable settings in 18K gold or platinum. Handcrafted by Chantal Vaulet.
   Updated: 2025-10-10T16:59:29Z
   Total Products: 11
 - [Round Engagement Rings — Lab-Grown & Moissanite | Chantal Vaulet](https://www.chantalvaulet.com/collections/round-engagement-rings): Shop round engagement rings in lab-grown diamond & moissanite. Classic solitaire, halo & pavé designs in gold, platinum or silver. Free shipping
-  Updated: 2025-10-15T07:53:27Z
+  Updated: 2025-10-16T11:11:15Z
   Total Products: 151
 - [Emerald-Cut Engagement Rings — Lab-Grown & Moissanite | Chantal Vaulet](https://www.chantalvaulet.com/collections/emerald-cut-engagement-rings): Shop emerald-cut engagement rings in lab-grown diamond and moissanite—solitaire, three-stone, halo & vintage-inspired. Ethical sparkle, great value. Free shipping
   Updated: 2025-10-10T17:55:37Z
@@ -11296,7 +11296,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
   Updated: 2025-10-10T20:18:15Z
   Total Products: 6
 - [Half-Eternity Rings – Lab-Grown Diamond & Moissanite | Chantal Vaulet](https://www.chantalvaulet.com/collections/half-eternity-rings): Discover half-eternity rings and wedding bands in lab-grown diamond and moissanite. Shared-prong, micro-pavé and channel styles. Resize-friendly. Free shipping.
-  Updated: 2025-10-10T19:42:04Z
+  Updated: 2025-10-16T11:11:15Z
   Total Products: 10
 - [Halo Engagement Rings – Lab-Grown & Moissanite | Chantal Vaulet](https://www.chantalvaulet.com/collections/halo-engagement-rings): Explore halo engagement rings in lab-grown diamond and moissanite—classic, hidden and double halo styles. Ethical, handcrafted quality. Free shipping.
   Updated: 2025-10-05T19:27:28Z
@@ -11320,13 +11320,13 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
   Updated: 2025-10-12T15:44:59Z
   Total Products: 4
 - [Wedding Rings — Moissanite | Chantal Vaulet](https://www.chantalvaulet.com/collections/moissanite-wedding-bands): Shop moissanite wedding rings—classic bands, pavé, and eternity styles. Brilliant, durable, conflict-free, budget-friendly. Handcrafted quality. Free shipping.
-  Updated: 2025-10-12T15:44:59Z
+  Updated: 2025-10-16T11:11:15Z
   Total Products: 15
 - [Eternity Wedding Ring – Diamond Band](https://www.chantalvaulet.com/collections/eternity-wedding-ring): Eternity wedding ring with a continuous circle of diamonds. Expertly crafted in platinum or 18K gold. Free shipping and lifetime care.
   Updated: 2025-10-05T22:40:57Z
   Total Products: 2
 - [Half Eternity Wedding Ring – Diamond Band](https://www.chantalvaulet.com/collections/half-eternity-wedding-ring): Half eternity wedding ring with diamonds across the band for brilliance and comfort. Handcrafted in platinum or 14 or 18K gold.
-  Updated: 2025-10-05T22:41:56Z
+  Updated: 2025-10-16T11:11:15Z
   Total Products: 1
 - [Round-Cut Engagement Rings | Moissanite & Lab Diamonds](https://www.chantalvaulet.com/collections/engagement-rings-round-cut): Explore timeless round-cut engagement rings crafted with brilliant moissanite and lab-grown diamonds. A perfect symbol of everlasting love.
   Updated: 2025-10-12T15:44:59Z
