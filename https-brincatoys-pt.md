@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-10-15T20:01:10.083Z
+- Updated At: 2025-10-16T00:01:08.271Z
 
 ## Products
 
@@ -1660,7 +1660,7 @@ melhor amiga, não vai participar e está só a ajudar! Cavalo de plástico e
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/cavalo-pippa-810201122-brincatoys-1178693111.jpg?v=1752832932
   Price: 12,50 € EUR
 - [Cavalo Tara](https://brincatoys.pt/products/cavalo-tara): O lindo cavalo Tara aproveita ao máximo a vida no campo na fazenda. Todos os dias come feno e maçãs crocantes! Além disso, Tara está em boa companhia com os outros animais da fazenda!
-  Updated: 2025-10-13T06:33:51Z
+  Updated: 2025-10-15T21:15:40Z
   Vendor: Seleção Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -3118,7 +3118,7 @@ renascer das cinzas.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/figura-sonic-629031022-8412906903101-sonic-the-hedgehog-1178693609.jpg?v=1752841334
   Price: 8,00 € EUR
 - [Figura Sonic Eggrobo](https://brincatoys.pt/products/figura-sonic-eggrobo): Sonic the Hedgehog é um dos personagens de videojogo mais icônicos do mundo de todos os tempos.  Junto com os seus amigos, ele viaja pelo planeta para lutar contra a injustiça e derrotar o seu arqui-inimigo, o malvado Dr. Eggman. Diverte-te com a figura de acção Eggrobo de 10 cm. Esta figura apresenta vários pontos de articulação e vem com um acess
-  Updated: 2025-10-15T06:47:32Z
+  Updated: 2025-10-15T22:56:14Z
   Vendor: Sonic the Hedgehog
   Product Type: + 3 anos
   Availability: Available
@@ -3424,13 +3424,6 @@ exibir.As listras podem ser giratórias ou descendentes da coluna e geralmente s
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/georges-actividades-278677722-brincatoys-1178693695.png?v=1752843021
   Price: 33,99 € EUR
-- [Girafa](https://brincatoys.pt/products/girafa): O seu pescoço comprido faz com que consiga sempre chegar às árvores mais altas e os outros animais pedem-lhe sempre para lhes dar as folhas mais tenras.  Dimensão: 12,50 x 16,50 x 4,50 cm.Idade Recomendada: + de 3 anos.
-  Updated: 2025-10-13T06:32:07Z
-  Vendor: Seleção Brincatoys
-  Product Type: + 3 anos
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/girafa-810475422-brincatoys-1178693696.jpg?v=1752843241
-  Price: 13,99 € EUR
 - [Girafa bebé](https://brincatoys.pt/products/girafa-bebe): A
  girafa é um vertebrado de grande estatura, que apresenta algumas 
 características incomuns como sejam as oito vértebras cervicais e um 
@@ -5981,13 +5974,6 @@ demais mamíferos, como o facto de pôr ovos, a presença de um ...
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/os-tres-porquinhos-tommy-621249125-4007176124918-brincatoys-1178694508.jpg?v=1752857766
   Price: 7,50 € EUR
-- [Ovelha](https://brincatoys.pt/products/ovelha): A ovelha da Quinta é muito apreciada por todos porque é especialmente fofinha e branca! A sua lã é usada pelos caseiros para fazer camisolas bem quentinhas, luvas e meias para as crianças lá da quinta!  Dimensão:6 x 4 x 4 cm.Idade Recomendada: + de 3 anos.
-  Updated: 2025-10-13T06:29:39Z
-  Vendor: Seleção Brincatoys
-  Product Type: + 3 anos
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/ovelha-810298422-brincatoys-1178694510.jpg?v=1752857773
-  Price: 8,99 € EUR
 - [Ovo chocalho Zebra](https://brincatoys.pt/products/ovo-chocalho-zebra): Ovo chocalho para mãos pequenas com muito ritmo.  Dimensão: 7 x 5 cm.Idade Recomendada: + de 6 meses.
   Updated: 2025-10-13T06:29:39Z
   Vendor: Seleção Brincatoys
@@ -7244,14 +7230,14 @@ ela tem o seu arco e flecha, assim como a sua lança preparados. A Knight
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/pokemon-clip-n-go-piplup-poke-ball-entre-na-aventura-230266122-0191726424697-pokemon-1178694908.jpg?v=1752865809
   Price: 22,50 € EUR
 - [Pokémon Clip 'N' Go Snubbull & Luxury Ball](https://brincatoys.pt/products/pokemon-clip-n-go-snubbull-luxury-ball): Treine para a batalha com o Pokémon Clip 'N' Go. Este conjunto Clip 'N' Go apresenta uma bola de luxo especial e vem com o Pokémon Snubbull. Funciona com qualquer Pokémon de 5 cm    Dimensão: 14 x 20 x 8 cm.Idade Recomendada: + de 4 anos.
-  Updated: 2025-10-15T08:54:34Z
+  Updated: 2025-10-15T23:05:29Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/pokemon-clip-n-go-snubbull-luxury-ball-230265622-pokemon-1178694910.jpg?v=1752865814
   Price: 22,50 € EUR
 - [Pokémon Clip 'N' Go Torchic & Poké Ball](https://brincatoys.pt/products/pokemon-clip-n-go-torchic-poke-ball): Se eles estão a viajar pelo universo Pokemon ou preparando-se para lutar contra os pokémons de outros treinadores, a Pokébola Clip 'N' Go da Pokemon manterá os amigos do seu filho seguros em movimento. Este conjunto de poke-ball inclui uma figura pronta para atacar e uma poke ball para fácil portabilidade. A pokebola vem com um clipe que se prende
-  Updated: 2025-10-15T08:54:34Z
+  Updated: 2025-10-15T23:34:59Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
@@ -7300,7 +7286,7 @@ ela tem o seu arco e flecha, assim como a sua lança preparados. A Knight
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/pokemon-ataque-surpresa-pikachu-vs-machoc-230272122-0191726426349-pokemon-1178694941.jpg?v=1752866764
   Price: 36,99 € EUR
 - [Pokemon Clip n Go  Morpeko + Quick Ball](https://brincatoys.pt/products/pokemon-clip-n-go-morpeko-quick-ball): Se eles estão a viajar pelo universo Pokemon ou preparando-se para lutar contra os pokémons de outros treinadores, a Pokébola Clip 'N' Go da Pokemon manterá os amigos do seu filho seguros em movimento. Este conjunto de poke-ball inclui uma figura pronta para atacar e uma poke ball para fácil portabilidade. A pokebola vem com um clipe que se prende
-  Updated: 2025-10-15T08:54:34Z
+  Updated: 2025-10-15T22:58:05Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
@@ -8940,7 +8926,7 @@ dorsais (7, se considerarmos as presentes em cada flanco). A coloração é
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/tatu-436282925-0095866262808-brincatoys-1178695468.jpg?v=1752875526
   Price: 9,99 € EUR
 - [Tigre](https://brincatoys.pt/products/tigre): O tigre é um dos animais que vive no Zoo!  É um sobrevivente e adora viver no Zoo. O seu dia-a-dia é pacato e gosta muito de receber visitas.  Dimensão: 11,50 x 6,50 x 3,00 cm.Idade Recomendada: + de 3 anos.
-  Updated: 2025-10-13T06:26:40Z
+  Updated: 2025-10-15T21:15:40Z
   Vendor: Seleção Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -9415,19 +9401,12 @@ do tempo a caçar no gelo marinho.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/urso-polar-437332923-0095866273309-brincatoys-1178695616.jpg?v=1752807734
   Price: 8,50 € EUR
 - [Urso Polar Bebé](https://brincatoys.pt/products/urso-polar-bebe): O urso polar é um dos animais que vive no Zoo e que está em vias de extinção! O ursinho vive com a sua mãe e foi a mais recente cria a nascer no Zoo.  Dimensão: 6,50 x 4,50 x 3,00 cm.Idade Recomendada: + de 3 anos.
-  Updated: 2025-10-13T06:26:10Z
+  Updated: 2025-10-15T21:15:35Z
   Vendor: Seleção Brincatoys
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/urso-polar-bebe-810544822-brincatoys-1178695617.jpg?v=1752807737
   Price: 8,99 € EUR
-- [Vaca](https://brincatoys.pt/products/vaca): A vaquinha da Quinta é muito necessária! Com o seu casaco branco com manchas cinzentas, é dela que provém o leite que alimenta toda a família da quinta e os amigos quando lá vão. Às vezes também se faz queijo e até manteiga!  Dimensão: 12 x 8,50 x 4,50 cm.Idade Recomendada: + de 3 anos.
-  Updated: 2025-10-13T06:26:09Z
-  Vendor: Seleção Brincatoys
-  Product Type: + 3 anos
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/vaca-810297922-brincatoys-1178695619.webp?v=1752877459
-  Price: 12,99 € EUR
 - [Vaca Aryshire](https://brincatoys.pt/products/vaca-aryshire): Originária de Ayrshire, Escócia, as vacas Ayrshire são uma raça relativamente grande de gado, conhecida por sua dureza, resistência e eficiência na produção de leite.Ao contrário da maioria das raças, as vacas Ayrshire são conhecidas por serem um tanto combativas, teimosas e difíceis.  Figura em borracha termoplástica não tóxica e livre de BPA.  Di
   Updated: 2025-10-13T06:26:09Z
   Vendor: Seleção Brincatoys
@@ -9870,7 +9849,7 @@ do tempo a caçar no gelo marinho.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/zak-storm-e-veiculo-174158518-brincatoys-1178695719.png?v=1752879602
   Price: 12,75 € EUR
 - [Zebra](https://brincatoys.pt/products/zebra-1): Com as suas riscas no pelo, é o animal mais exuberante e é também dos mais simpáticos lá no Zoo! Todos os outros animais gostam muito dela.  Dimensão: 11,50 x 9,50 x 3,00 cm.Idade Recomendada: + de 3 anos.
-  Updated: 2025-10-13T06:25:43Z
+  Updated: 2025-10-15T21:15:38Z
   Vendor: Seleção Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -9922,14 +9901,14 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/pokemon-figuras-de-batalha-234259022-pokemon-1178695739.webp?v=1752879980
   Price: 22,99 € EUR
 - [Pokémon Clip 'N' Go Mudkip & Poké Ball](https://brincatoys.pt/products/pokemon-clip-n-go-mudkip-poke-ball): Se eles estão a viajar pelo universo Pokemon ou preparando-se para lutar contra os pokémons de outros treinadores, a Pokébola Clip 'N' Go da Pokemon manterá os amigos do seu filho seguros em movimento. Este conjunto de poke-ball inclui uma figura pronta para atacar e uma poke ball para fácil portabilidade. A pokebola vem com um clipe que se prende
-  Updated: 2025-10-15T08:53:57Z
+  Updated: 2025-10-15T22:20:15Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/pokemon-clip-n-go-mudkip-poke-ball-233820422-pokemon-1178695741.webp?v=1752880206
   Price: 22,50 € EUR
 - [Pokémon Clip 'N' Go Turtwig & Poké Ball](https://brincatoys.pt/products/pokemon-clip-n-go-turtwig-poke-ball): Se eles estão a viajar pelo universo Pokemon ou preparando-se para lutar contra os pokémons de outros treinadores, a Pokébola Clip 'N' Go da Pokemon manterá os amigos do seu filho seguros em movimento. Este conjunto de poke-ball inclui uma figura pronta para atacar e uma poke ball para fácil portabilidade. A pokebola vem com um clipe que se prende
-  Updated: 2025-10-15T08:53:57Z
+  Updated: 2025-10-15T22:51:50Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
@@ -14277,7 +14256,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/figuras-pokemon-pikachu-e-quaxly-colecao-select-23335723-pokemon-1178697976.jpg?v=1752917643
   Price: 12,90 € EUR
 - [Carteira Squishmallows Mix Squish Fluffy - Fofo e Prático](https://brincatoys.pt/products/squishmallows-mix-squish-fluffy): Carteira Squishmallows Mix Squish Fluffy. Perfeita para um dia cheio de estilo, este acessório embala seus pertences com todo o conforto dos Squishmallows.
-  Updated: 2025-10-13T06:21:05Z
+  Updated: 2025-10-15T20:20:42Z
   Vendor: Squishville
   Product Type: + 3 anos
   Availability: Available
@@ -14403,7 +14382,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/figuras-pokemon-charmander-metang-e-kabuto-23305224-pokemon-1178698071.jpg?v=1752919091
   Price: 22,99 € EUR
 - [Figuras Pokémon Pikipek Galarian Ponyta e Snorunt](https://brincatoys.pt/products/figuras-pokemon-pikipek-galarian-ponyta-e-snorunt): Transforme seus momentos de brincadeira com o conjunto de Figuras Pokémon Pikipek Galarian Ponyta e Snorunt. Qualidade e diversão para colecionadores e fãs.
-  Updated: 2025-10-15T08:53:57Z
+  Updated: 2025-10-15T21:47:08Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
@@ -14452,21 +14431,21 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/figura-pokemon-select-suicune-articulada-e-colecionavel-23275024-2600000-pokemon-1178698101.jpg?v=1752919699
   Price: 39,99 € EUR
 - [Figuras Pokémon Rockruff Bellossom e Vaporeon](https://brincatoys.pt/products/figuras-pokemon-rockruff-bellossom-e-vaporeon): Descubra as figuras Pokémon Rockruff Bellossom e Vaporeon e traga o encanto de cada personagem para a sua coleção. Qualidade e detalhes autênticos.
-  Updated: 2025-10-15T08:53:57Z
+  Updated: 2025-10-15T23:17:53Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/figuras-pokemon-rockruff-bellossom-e-vaporeon-23304824-pokemon-1178698105.jpg?v=1752919810
   Price: 23,99 € EUR
 - [Figuras Pokémon Carvanha Jolteon e Wooloo - Brincatoys](https://brincatoys.pt/products/figuras-pokemon-carvanha-jolteon-e-wooloo): Adquira já as Figuras Pokémon Carvanha Jolteon e Wooloo e mergulhe na ação com estas peças detalhadas! Perfeitas para colecionadores e fãs.
-  Updated: 2025-10-15T08:53:57Z
+  Updated: 2025-10-15T21:00:49Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/figuras-pokemon-carvanha-jolteon-e-wooloo-brincatoys-23305024-pokemon-1178698109.jpg?v=1752919822
   Price: 23,99 € EUR
 - [Figuras Pokémon Togepi Wartortle e Pancham - Conjunto de Batalha](https://brincatoys.pt/products/figuras-pokemon-togepi-wartortle-e-pancham): Conjunto de figuras Pokémon Togepi Wartortle e Pancham, perfeitas para colecionar ou brincar. Detalhadas e design autêntico para uma experiência imersiva.
-  Updated: 2025-10-15T08:53:56Z
+  Updated: 2025-10-15T22:15:19Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
@@ -14487,21 +14466,21 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/figuras-de-batalha-pokemon-pikachu-e-goomy-23300724-pokemon-1178698125.jpg?v=1752920286
   Price: 12,90 € EUR
 - [Alakazam Pokémon | Brincatoys](https://brincatoys.pt/products/alakazam-pokemon): Apresentando Alakazam, o Pokémon Psi! Figura articulada com ataque psíquico especial. Perfeito para batalhas e diversão! Compre agora na Brincatoys.
-  Updated: 2025-10-15T09:00:52Z
+  Updated: 2025-10-15T21:43:29Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/alakazam-pokemon-brincatoys-23303624-pokemon-1178698129.jpg?v=1752920300
   Price: 21,99 € EUR
 - [Figura Pokémon Cinderace | Para fãs de Pokémon](https://brincatoys.pt/products/figura-pokemon-cinderace): Adicione a incrível figura Pokémon Cinderace à coleção de Pokémon do seu filho. Aumente a diversão e aventure-se no mundo dos treinadores Pokémon.
-  Updated: 2025-10-15T08:53:56Z
+  Updated: 2025-10-15T22:56:51Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/figura-pokemon-cinderace-para-fas-de-pokemon-23016424-pokemon-1178698137.jpg?v=1752920540
   Price: 21,99 € EUR
 - [Umbreon pokemon - a sua próxima figura de batalha!](https://brincatoys.pt/products/umbreon-pokemon-figura-de-batalha): Conheça o incrível Umbreon pokemon disponível na loja online da Brincatoys. Ideal para fãs e pais que procuram presentes especiais do Pokémon!
-  Updated: 2025-10-15T09:00:52Z
+  Updated: 2025-10-15T21:25:44Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
@@ -14571,21 +14550,21 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/figuras-pokemon-garchomp-brincatoys-23336724-pokemon-1178698177.jpg?v=1752921374
   Price: 21,99 € EUR
 - [Figura de batalha Pokémon Vaporeon](https://brincatoys.pt/products/figura-de-batalha-pokemon-vaporeon): Descubra a magia do mundo Pokémon com a Figura de batalha Pokémon Vaporeon, uma peça articulada com 7,50 cm perfeita para fãs.
-  Updated: 2025-10-15T09:00:51Z
+  Updated: 2025-10-15T22:03:29Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/figura-de-batalha-pokemon-vaporeon-23357824-pokemon-1178698181.jpg?v=1752921486
   Price: 12,99 € EUR
 - [Figura de Batalha Pokémon Glaceon](https://brincatoys.pt/products/figura-de-batalha-pokemon-glaceon): A Figura de batalha Pokémon Glaceon, com detalhes fiéis à série e articulações móveis, permite a recriação de batalhas épicas desta personagem do tipo Gelo
-  Updated: 2025-10-15T09:00:51Z
+  Updated: 2025-10-15T23:06:02Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/figura-de-batalha-pokemon-glaceon-23336224-pokemon-1178698185.jpg?v=1752921498
   Price: 12,99 € EUR
 - [Cinto Pokémon Pikachu Clip 'N' Go com figura](https://brincatoys.pt/products/cinto-pokemon-pikachu): Adquira já o Cinto Pokémon Pikachu Clip 'N' Go com figura animada e duas Poké Balls para uma experiência interativa de treinador. Perfeito para fãs do universo Pokémon!
-  Updated: 2025-10-15T08:53:56Z
+  Updated: 2025-10-15T22:28:25Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
@@ -15287,14 +15266,14 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/meias-chocalho-burro-491801824-brincatoys-1178698757.jpg?v=1752931575
   Price: 10,99 € EUR
 - [FurReal Poopalots Corgi](https://brincatoys.pt/products/furreal-poop-a-lots-corgi): Apresentamos o encantador e interativo brinquedo FurReal Poopalots Corgi, a adição perfeita para a sua família de brinquedos! Com a sua pelagem macia e expressão adorável, este pequeno cão Corgi promete encantar crianças de todas as idades com a sua personalidade cativante e funcionalidades surpreendentes.Primeiramente, vamos falar sobre a sua interatividade. Além de ser esteticamente atraente, o FurReal Poopalots Corgi tem a capacidade de "comer" e "fazer as suas necessidades", proporcionando uma experiência educativa e divertida, ensinando às crianças as responsabilidades de cuidar de um animal de estimação.É simples fazer a magia acontecer: alimente o seu novo amigo peludo com os acessórios incluídos e depois leve-o a passear com a sua própria trela, onde ele "faz o seu cocó", tal como um verdadeiro cãozinho faria.Além disso, a sua aparência realista é incrivelmente convincente e apelará a fãs de animais de todas as idades. As texturas macias e os detalhes cuidados dão vida a este brinquedo, tornando-o num ótimo companheiro de brincadeiras. E, claro, a diversão não para por aí; a limpeza é facílima, graças aos "cocós" de brinquedo colecionáveis, que são simples de recolher e reciclar no jogo seguinte.Como é lógico, a durabilidade é uma consideração chave. Este FurReal Poopalots Corgi é construído com materiais de alta qualidade para resistir a muitas aventuras e brincadeiras. Continuamente, a marca FurReal é conhecida pela sua qualidade, garantindo que este Corgi seja não apenas divertido, mas também feito para durar.Descubra a companhia perfeita com o FurReal Poop-A-Lots Corgi, um brinquedo que une diversão e aprendizagem com a magia do cuidado animal. Simples de usar e fácil de amar, este Corgi interativo é o presente ideal que promete horas de entretenimento!Em suma... Interativo e educacional, com um mecanismo de "alimentação" e "cocó" Esteticamente adorável e com texturas suaves ao toque Feito com materiais duráveis e fáceis de limpar Acompanhado de acessórios e uma trela para aventuras imaginárias Dimensão: 23 x 22,50 x 13,50 cm.Idade recomendada: + de 3 anos.
-  Updated: 2025-10-13T06:19:58Z
+  Updated: 2025-10-15T20:50:40Z
   Vendor: FurReal Friends
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/furreal-poopalots-corgi-778057324-0886144280573-furreal-friends-1178698761.jpg?v=1752931686
   Price: 39,99 € EUR
 - [Fur Real Friends Walkalots Bernedoodle: Amigo de Quatro Patas](https://brincatoys.pt/products/fur-real-friends-walkalots-bernedoodle): Fur Real Friends Walkalots Bernedoodle, um brinquedo interativo que promete passeios divertidos e muitas aventuras. Encontra aqui o companheiro ideal!
-  Updated: 2025-10-13T06:19:58Z
+  Updated: 2025-10-15T20:50:40Z
   Vendor: FurReal Friends
   Product Type: + 3 anos
   Availability: Available
@@ -15721,7 +15700,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/figura-pokemon-select-toxtricity-para-fas-23319924-pokemon-1178699125.jpg?v=1752936486
   Price: 33,50 € EUR
 - [Figuras Pokémon Pikachu & Lechonk - Brincatoys](https://brincatoys.pt/products/pokemon-pikachu-lechonk): Pacote de Figuras Pokémon Pikachu & Lechonk! Perfeitas para brincadeiras imaginativas ou coleção. São a escolha ideal para fãs da SÉRIE Pokémon.
-  Updated: 2025-10-15T09:00:49Z
+  Updated: 2025-10-15T22:17:23Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
@@ -19032,7 +19011,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/jurassic-world-hammond-collection-triceratops-realista-238494825-0194735284948-jurassic-world-1178701689.jpg?v=1752781084
   Price: 24,90 € EUR
 - [Jurassic World Hammond Collection: Atrociraptor Detalhada](https://brincatoys.pt/products/jurassic-world-hammond-collection-atrociraptor): Sinta a emoção de Jurassic World com a figura Jurassic World Hammond Collection: Atrociraptor. Detalhes impressionantes que vão te surpreender!
-  Updated: 2025-10-15T19:01:25Z
+  Updated: 2025-10-15T21:02:00Z
   Vendor: Jurassic World
   Product Type: + 8 anos
   Availability: Available
@@ -19872,7 +19851,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-da-disney-lightning-mcqueen-global-racers-cup-772002724-0194735200276-cars-1178699732.jpg?v=1752945977
   Price: 11,99 € EUR
 - [Cars Marlon "Clutches" McKay](https://brincatoys.pt/products/cars-jonathan-wrenchworths-copia): Estes emocionantes veículos ajudam os fãs de CARS a divertirem-se contando histórias dos seus personagens favoritos. Cada carro é altamente detalhado, na escala 1:55, apresenta logotipos exclusivos, rodas giratórias e detalhes de personalidade exclusivos.
-  Updated: 2025-10-13T06:14:40Z
+  Updated: 2025-10-15T21:57:07Z
   Vendor: Cars
   Product Type: + 3 anos
   Availability: Available
@@ -21270,8 +21249,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-15T15:34:09Z
   Total Products: 107
 - [Peluches](https://brincatoys.pt/collections/peluches)
-  Updated: 2025-10-06T16:33:09Z
-  Total Products: 106
+  Updated: 2025-10-15T20:44:59Z
+  Total Products: 107
 - [Outras categorias](https://brincatoys.pt/collections/brinquedos-outras-categorias)
   Updated: 2025-10-07T18:50:10Z
   Total Products: 233
@@ -21348,8 +21327,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-15T15:34:09Z
   Total Products: 1566
 - [4 - 5 anos](https://brincatoys.pt/collections/4-5-anos)
-  Updated: 2025-10-14T16:25:24Z
-  Total Products: 699
+  Updated: 2025-10-15T20:45:28Z
+  Total Products: 700
 - [8 - 10 anos](https://brincatoys.pt/collections/8-10-anos)
   Updated: 2025-10-13T22:01:58Z
   Total Products: 319
@@ -21363,29 +21342,29 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-13T14:58:51Z
   Total Products: 125
 - [Até €15](https://brincatoys.pt/collections/ate-15)
-  Updated: 2025-10-15T19:52:00Z
-  Total Products: 1303
+  Updated: 2025-10-15T21:16:10Z
+  Total Products: 1300
 - [Até €25](https://brincatoys.pt/collections/ate-25)
-  Updated: 2025-10-15T19:52:00Z
-  Total Products: 2409
+  Updated: 2025-10-15T21:16:10Z
+  Total Products: 2406
 - [Até €35](https://brincatoys.pt/collections/ate-35)
-  Updated: 2025-10-15T19:52:00Z
-  Total Products: 2873
+  Updated: 2025-10-15T21:16:11Z
+  Total Products: 2870
 - [Até €50](https://brincatoys.pt/collections/ate-50)
-  Updated: 2025-10-15T19:52:00Z
-  Total Products: 3256
+  Updated: 2025-10-15T21:16:11Z
+  Total Products: 3253
 - [Até €60](https://brincatoys.pt/collections/ate-60)
-  Updated: 2025-10-15T19:52:01Z
-  Total Products: 3392
+  Updated: 2025-10-15T21:16:11Z
+  Total Products: 3389
 - [Até €80](https://brincatoys.pt/collections/ate-80)
-  Updated: 2025-10-15T19:52:01Z
-  Total Products: 3471
+  Updated: 2025-10-15T21:16:11Z
+  Total Products: 3468
 - [Até €100](https://brincatoys.pt/collections/ate-100)
-  Updated: 2025-10-15T19:52:01Z
-  Total Products: 3520
+  Updated: 2025-10-15T21:16:11Z
+  Total Products: 3517
 - [Novidades](https://brincatoys.pt/collections/novidades)
-  Updated: 2025-10-15T15:34:09Z
-  Total Products: 394
+  Updated: 2025-10-15T20:44:59Z
+  Total Products: 395
 - [Outlet](https://brincatoys.pt/collections/outlet): Saldos válidos de 04/07/2025 a 26/12/2025, limitado ao stock existente e acumulável com outros descontos ou promoções.
   Updated: 2025-09-29T15:16:28Z
   Total Products: 50
@@ -21435,8 +21414,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-08-24T22:26:21Z
   Total Products: 1
 - [FurReal](https://brincatoys.pt/collections/furreal)
-  Updated: 2025-09-08T21:02:49Z
-  Total Products: 2
+  Updated: 2025-10-15T20:45:28Z
+  Total Products: 3
 - [Gabby´s Dollhouse](https://brincatoys.pt/collections/gabbys-dollhouse)
   Updated: 2025-08-20T23:28:53Z
   Total Products: 1
@@ -21573,8 +21552,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-06T17:09:21Z
   Total Products: 9
 - [Catálogo](https://brincatoys.pt/collections/all)
-  Updated: 2025-10-15T19:52:01Z
-  Total Products: 3553
+  Updated: 2025-10-15T21:16:11Z
+  Total Products: 3550
 - [6 - 7 anos](https://brincatoys.pt/collections/6-7-anos)
   Updated: 2025-10-15T11:21:15Z
   Total Products: 285
@@ -21585,11 +21564,11 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-15T11:21:15Z
   Total Products: 117
 - [+ 3 anos](https://brincatoys.pt/collections/de-3-anos)
-  Updated: 2025-10-15T15:34:09Z
-  Total Products: 1217
+  Updated: 2025-10-15T21:16:11Z
+  Total Products: 1214
 - [+ 4 anos](https://brincatoys.pt/collections/de-4-anos)
-  Updated: 2025-10-14T16:25:24Z
-  Total Products: 494
+  Updated: 2025-10-15T20:45:28Z
+  Total Products: 495
 - [+ 5 anos](https://brincatoys.pt/collections/de-5-anos)
   Updated: 2025-10-13T14:53:06Z
   Total Products: 139
@@ -21609,11 +21588,11 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-14T16:29:54Z
   Total Products: 86
 - [Os mais procurados](https://brincatoys.pt/collections/os-mais-populares)
-  Updated: 2025-10-15T19:52:01Z
-  Total Products: 3554
+  Updated: 2025-10-15T21:16:11Z
+  Total Products: 3551
 - [Recém-chegados](https://brincatoys.pt/collections/recem-chegados)
-  Updated: 2025-10-15T19:52:01Z
-  Total Products: 3554
+  Updated: 2025-10-15T21:16:11Z
+  Total Products: 3551
 - [Produtos em destaque](https://brincatoys.pt/collections/produtos-em-destaque)
   Updated: 2025-10-13T12:31:16Z
   Total Products: 22
@@ -21624,8 +21603,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-12T11:21:00Z
   Total Products: 6
 - [OrderlyEmails - Recommended Products](https://brincatoys.pt/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-10-15T19:52:01Z
-  Total Products: 3079
+  Updated: 2025-10-15T21:16:10Z
+  Total Products: 3078
 - [Girafa Sofia](https://brincatoys.pt/collections/girafa-sofia)
   Updated: 2025-10-13T18:51:31Z
   Total Products: 19
@@ -21633,10 +21612,10 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-14T11:20:30Z
   Total Products: 126
 - [Marketplace](https://brincatoys.pt/collections/marketplace)
-  Updated: 2025-10-15T19:52:01Z
-  Total Products: 3079
+  Updated: 2025-10-15T21:16:10Z
+  Total Products: 3078
 - [EzConnector](https://brincatoys.pt/collections/ezconnector)
-  Updated: 2025-10-15T19:49:01Z
+  Updated: 2025-10-15T20:44:59Z
   Total Products: 925
 
 ## Blogs
