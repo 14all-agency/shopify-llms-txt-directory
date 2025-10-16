@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-10-16T08:00:40.732Z
+- Updated At: 2025-10-16T12:00:42.520Z
 
 ## Products
 
@@ -326,7 +326,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/polyethylene-gloves-blue-s-m-240mm-cuff-10g-5000-gloves-plastic-gloves-essential-supplies-553449.jpg?v=1719445565
   Price: $99.00 NZD
 - [Kraft Paper Roll - Brown, 1200mm x 250m, 80gsm - 1 Roll](https://essentialsupplies.co.nz/products/kraft-paper-roll-brown-1200mm-x-250m-80gsm-1): Brown kraft paper rolls made from 100% recycled content are one of the most cost-efficient methods for wrapping packages and parcels. Ideal for the warehouse, office or retail industries. Available in a range of thicknesses and roll sizes to suit all packaging requirements 100% recycled content 80gsm Width: 1200mm Roll length: 250 metres Colour: Brown
-  Updated: 2025-01-09T13:53:10Z
+  Updated: 2025-10-16T11:38:21Z
   Vendor: Mattews Packaging
   Product Type: Kraft Paper Rolls
   Availability: Available
