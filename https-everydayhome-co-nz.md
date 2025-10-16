@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-10-16T00:00:36.866Z
+- Updated At: 2025-10-16T04:00:37.740Z
 
 ## Products
 
@@ -291,7 +291,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Silicone-Dish-Drying-Mat-Light-Grey-1.jpg?v=1727660074
   Price: $64.99 NZD
 - [Brabantia Linn Clothes Rack - Large Black](https://everydayhome.co.nz/products/linn-clothes-rack-large-black): Linn Clothes Rack, Large, Black
-  Updated: 2025-09-23T12:33:41Z
+  Updated: 2025-10-16T03:37:10Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -333,7 +333,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Bo-Touch-Bin-60L-Platinum-3.jpg?v=1727659714
   Price: $599.99 NZD
 - [Brabantia Renew Soap Dispenser - Dark Grey](https://everydayhome.co.nz/products/soap-dispenser-dark-grey): Soap Dispenser, Dark Grey
-  Updated: 2025-09-23T12:33:44Z
+  Updated: 2025-10-16T00:07:10Z
   Vendor: BRABANTIA
   Product Type: Bed & Bath
   Availability: Available
@@ -1180,7 +1180,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Wooden-Chopping-Board-Medium-4.png?v=1727658636
   Price: $59.95 NZD
 - [Brabantia Profile Wooden Chopping Board Set - Beech Wood](https://everydayhome.co.nz/products/wooden-chopping-board-set-3-c): This set of 3 Brabantia Profile Wooden Chopping Boards is all you need in your kitchen when it comes to cutting. One board for vegetables, one for bread and one for meat. All made of sustainable beech wood, all made for double sided use. All aboard!
-  Updated: 2025-10-06T01:07:12Z
+  Updated: 2025-10-16T03:37:12Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -1929,7 +1929,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Essteele-Per-Salute-2-Piece-Set-Essteele-8.jpg?v=1731901920
   Price: $409.99 NZD
 - [Essteele Per Salute - 20/24/28cm Skillet Triple Pack](https://everydayhome.co.nz/products/essteele-per-salute-20-24-28cm-skillet-triple-pack): Essteele Per Salute combines convenience and solution driven features with a unique fusion of diamond-hard nonstick durability with innovative Thermotech technology. This diamond-reinforced triple pack contains 20cm, 24cm and 28cm premium nonstick skillets, so you can create a variety of delicious dishes both big and small and clean up with ease afterward.
-  Updated: 2025-10-12T21:07:06Z
+  Updated: 2025-10-16T01:07:11Z
   Vendor: Essteele
   Product Type: Kitchenware
   Availability: Available
@@ -2286,14 +2286,14 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Raco-Contemporary-16cm-1-9L-Saucepan-Raco-0.jpg?v=1731903021
   Price: $89.99 NZD
 - [Raco Contemporary - 18cm/2.8L Saucepan](https://everydayhome.co.nz/products/raco-contemporary-18cm-2-8l-ss-saucepan): Welcome to RACO Contemporary! Drawing on years of experience, we’ve designed cookware that combines the durability of stainless steel with the convenience of nonstick. Perfect for creating family meals, our range is dishwasher safe, oven safe up to 200ºC, and induction suitable. Kitchen Favorite: The 18cm Stainless Steel Saucepan This Saucepan is perfect for a variety of cooking tasks, from boiling vegetables to simmering sauces or preparing grains.
-  Updated: 2025-10-01T21:07:11Z
+  Updated: 2025-10-16T03:37:10Z
   Vendor: Raco
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Raco-Contemporary-18cm-2-8L-Saucepan-Raco-9.jpg?v=1731903380
   Price: $99.99 NZD
 - [Raco Contemporary - 20cm Egg Poacher](https://everydayhome.co.nz/products/raco-contemporary-20cm-egg-poacher): Welcome to RACO Contemporary! Drawing on years of experience, we’ve designed cookware that combines the durability of stainless steel with the convenience of nonstick. Perfect for creating family meals, our range is dishwasher safe, oven safe up to 200ºC, and induction suitable. Your Poaching Partner: The 20cm Nonstick Egg Poacher Our Egg Poacher is perfect for anyone who loves making poached eggs regularly. It easily poaches up to 4 eggs in just a few minutes.
-  Updated: 2025-09-29T06:37:05Z
+  Updated: 2025-10-16T03:37:11Z
   Vendor: Raco
   Product Type: Kitchenware
   Availability: Available
@@ -2650,7 +2650,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/TouchBinNew_30L-MattSteelFingerprintProof-8710755115462Brabantia_96dpi_1000x1000px_7_NR-13425.png?v=1734406069
   Price: $189.99 NZD
 - [Brabantia Ironing Board D - Spring Bubbles](https://everydayhome.co.nz/products/ironing-board-d-135x45cm-hripz-35mm-black-frame-spring-bubbles): Need some space? The Brabantia Ironing Board D is so wide, you can iron a shirt in one go. Drape it over the boards shoulder shape to iron it to perfection. There's no iron rest in the way, you can just leave your iron on the heat resistant zone on the cover. A truly great ironing board, that you can even use sitting down.
-  Updated: 2025-10-06T01:07:11Z
+  Updated: 2025-10-16T03:37:13Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -2769,7 +2769,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ReNewBatteryFreeBathroomScale-DarkGrey-8710755281341Brabantia_96dpi_1000x1000px_7_NR-22057.png?v=1734407312
   Price: $119.95 NZD
 - [Brabantia ReNew Battery Free Bathroom Scale - White](https://everydayhome.co.nz/products/renew-battery-free-bathroom-scale-white): Go light on the planet with this Brabantia ReNew Battery-Free Bathroom Scale! The sleek scale with glass surface is compact, but can take up to 150 kg. Just generate power by pushing the button with your foot and step on the scale. Easy to clean, easy to read and easy on the planet.
-  Updated: 2025-10-09T23:37:10Z
+  Updated: 2025-10-16T03:37:14Z
   Vendor: BRABANTIA
   Product Type: Bed & Bath
   Availability: Available
@@ -3296,7 +3296,7 @@
     Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/22310_IMG-001.png?v=1746478936
     Price: $500.00 NZD
 - [SwiftDry SkyLine Folding Frame Washing line (13 Sizes)](https://everydayhome.co.nz/products/swiftdry-skyline-me28): The SwiftDry SkyLine is the epitome of Style and Strength for a non-conspicuous fold-down out door clothesline. Built tougher than any other clothesline out there (at least we think so!) You can buy with peace of mind, knowing you are getting a top of the line product. Designed to be part of the landscape of your home for years of hassle-free use, with its robust, clean & sharp looking design. Fold against your wall or fence while not in use with a smooth lift, pull, and lower motion. This is the future of natural outdoor drying with the breeze. > Surface Mount and In-concrete Mount post kits available separately under the fold down product category Specifications & Features: See our SkyLine blog article here Rated to 40kg recommended max load weight Dulux Textura Black Powdercoat finish on top of the pre-galvanised steel frame - for Longevity and Style Formed corners - for rigidity and safety Frame made from 1.6mm thick wall square box steel (thickest available in comparable products) so the SkyLine is strong enough to hold a full load of heavy wet wetsuits if needed Nylon Bushes - for smooth operation PVC cord - for no rust and durability All fixings are made from 316 Stainless Steel SwiftDry Easy tensioning system Designed with the front of clothesline frame & lines finishing slightly higher than the rear for ease of accessing the rear lines (as shown in pictures) Smooth and lightweight folding up and down operation from the front bar. Pins included to firmly lock in upright position for windy conditions - the only clothesline available that will not unhitch with wind and allow the frame to bend and washing to end up on the ground! Mounting bracket dimensions: 22.5cm long x 4cm wide. Mounting bracket holes: 8.5 mm - with 20cm between the hole centers - vertically on each bracket. Bottom hole is a 75mm long slot. Mounting Screws included for timber (masonry fasteners required if fixing to brick or concrete) Listed width (eg 2.4m) is fixing hole center to center, however there is up to 20mm adjustment each side when installing to allow for variances in your existing posts/setup. 13 Sizes Available - See details below. Need a custom width not listed below? View our custom selector here 9M SkyLine: Lines: 8 Line Space: 9 m Width: 1.2 m Depth: 0.7 m 11M SkyLine: Lines: 12 Line Space: 11 m Width: 1.0 m Depth: 1.0 m 12M SkyLine: Lines: 8 Line Space: 12 m Width: 1.6 m Depth: 0.7 m 16M SkyLine: Lines: 12 Line Space: 16 m Width: 1.4 m Depth: 1.0 m 17M SkyLine: Lines: 8 Line Space: 17 m Width: 2.2 m Depth: 0.7 m 19M SkyLine: Lines: 8 Line Space: 19 m Width: 2.4 m Depth: 0.7 m 20M SkyLine: Lines: 12 Line Space: 20 m Width: 1.6 m Depth: 1 m 21M SkyLine: Lines: 12 Line Space: 21 m Width: 1.8 m Depth: 1 m 27M SkyLine: Lines: 8 Line Space: 27 m Width: 3.4 m Depth: 0.7 m 28M SkyLine: Lines: 12 Line Space: 28 m Width: 2.4 m Depth: 1.0 m 33M SkyLine: Lines: 14 Line Space: 33 m Width: 2.4 m Depth: 1.5 m 40M SkyLine: Lines: 12 Line Space: 40 m Width: 3.4 m Depth: 1.0 m
-  Updated: 2025-10-15T01:42:46Z
+  Updated: 2025-10-16T00:22:45Z
   Vendor: SwiftDry Clotheslines NZ
   Product Type: 
   Availability: Available
