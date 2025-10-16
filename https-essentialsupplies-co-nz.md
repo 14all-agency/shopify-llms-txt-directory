@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-10-16T00:00:39.803Z
+- Updated At: 2025-10-16T04:00:41.156Z
 
 ## Products
 
@@ -6771,7 +6771,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/pvc-electrical-insulation-tape-yellowgreen-18mm-x-20m-x-180mu-electrical-insulation-tape-essential-supplies-782384.jpg?v=1719445686
   Price: $3.00 NZD
 - [PVC Floor Marking Tape - Blue, 48mm x 33m x 150mu](https://essentialsupplies.co.nz/products/pvc-floor-marking-tape-blue-48mm-x-33m-x-150mu-18): Heavy duty floor marking tape made from coloured PVC film with a high strength tack adhesive and premium tensile strength. With good UV and waterproof resistance, ideal for marking factory and warehouse floor areas. Available in a range of vibrant colours.
-  Updated: 2025-02-13T10:52:53Z
+  Updated: 2025-10-16T01:33:37Z
   Vendor: Mattews Packaging
   Product Type: Floor Marking Tape
   Availability: Available
