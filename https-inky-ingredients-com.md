@@ -9,7 +9,7 @@
 - Created At: 2023-11-20T15:32:25Z
 - Contact Email: hello@inky-ingredients.com
 - Address: Units 2, 3 & 5 Athelstan Business Park Hanwell Lane, Hutton Conyers Ripon, North Yorkshire HG4 5BF, UK
-- Updated At: 2025-10-17T00:00:35.973Z
+- Updated At: 2025-10-17T08:00:37.342Z
 
 The UK's largest natural ingredients supplier. INKY Ingredients supplies formulators and makers as well as the general public with the UK's widest range of essential oils, cold pressed oils, waxes, soaps, butters and more. We hold a 7 sustainability accreditations and are committed to providing an unparalleled selection of premium natural oil ingredients, fostering sustainability, and championing the sustainable beauty movement.
 
@@ -2452,7 +2452,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £111.60 GBP
 - [Sheanut Oil, Refined](https://inky-ingredients.com/products/sheanut-oil-refined): Refined Sheanut Oil is a versatile cosmetic oil with a light texture. Ideal for skincare formulations, it nourishes and moisturises the skin without leaving a greasy residue. This refined oil is a valuable ingredient, contributing to the overall effectiveness of skincare products.
-  Updated: 2025-10-03T23:29:27Z
+  Updated: 2025-10-17T02:52:21Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -2536,7 +2536,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £82.58 GBP
 - [Sheanut Butter, Unrefined](https://inky-ingredients.com/products/sheanut-butter-unrefined): Unrefined Sheanut Butter is a wholesome cosmetic ingredient. Cold-pressed and pure, it delivers intense moisture to the skin. With its natural richness, this unrefined butter is a valuable addition to skincare formulations, providing a nourishing and indulgent experience.
-  Updated: 2025-10-10T18:05:35Z
+  Updated: 2025-10-17T02:52:20Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -3229,7 +3229,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £91.68 GBP
 - [Mango, Butter (Buckets)](https://inky-ingredients.com/products/mango-butter-buckets): Mango Butter, in convenient buckets, is a luscious and nourishing ingredient for skincare. With its creamy texture and high fatty acid content, it provides deep hydration and may support skin elasticity. Incorporate it into formulations for a luxurious and moisturising experience.
-  Updated: 2025-10-10T18:36:46Z
+  Updated: 2025-10-17T02:52:21Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -3751,7 +3751,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £52.50 GBP
 - [MCT Oil, Fractionated](https://inky-ingredients.com/products/mct-oil-fractionated): Fractionated MCT Oil, derived from coconut, offers a multitude of health benefits. With its rapid absorption, it's an energy-boosting supplement and a popular ingredient in ketogenic diets.
-  Updated: 2025-10-16T11:43:32Z
+  Updated: 2025-10-17T05:56:30Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -5588,7 +5588,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £135.00 GBP
 - [Cocoa Butter, Deodorised](https://inky-ingredients.com/products/cocoa-butter-deodorised-1): Deodorised Cocoa Butter, with its neutral scent, retains the moisturising benefits of cocoa. Ideal for skincare formulations, it provides a luxurious texture without the characteristic chocolate aroma, leaving skin soft and hydrated.
-  Updated: 2025-10-14T08:27:56Z
+  Updated: 2025-10-17T02:52:21Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
