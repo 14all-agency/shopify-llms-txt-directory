@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-10-03T06:30:37Z
 - Contact Email: mandiemaddox@mystichiddengem.com
-- Updated At: 2025-10-15T20:00:29.744Z
+- Updated At: 2025-10-17T12:00:30.991Z
 
 ## Products
 
@@ -57,8 +57,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/background-editor_output_78f4bfa0-5757-4cd5-a7f8-7fb751fea22e.png?v=1760053253
   Price: $18.99 USD
-- [Love Lost Skeleton Hoodie - Dark Aesthetic Glitch Rose Design](https://lachrymalgems.store/products/cozy-glitch-beyond-death-rose-fall-hoodie): Men's cozy skeleton hoodie featuring unique glitch rose design. Perfect for dark aesthetic & alternative fashion lovers. Premium quality fall hoodie.
-  Updated: 2025-10-15T16:03:30Z
+- [Skeleton Hoodie - Dark Aesthetic Glitch Rose Design Fall Hoodie](https://lachrymalgems.store/products/cozy-glitch-beyond-death-rose-fall-hoodie): Men's cozy skeleton hoodie featuring unique glitch rose design. Perfect for dark aesthetic & alternative fashion lovers. Premium quality fall hoodie.
+  Updated: 2025-10-15T20:18:29Z
   Vendor: Printify
   Product Type: Hoodie
   Availability: Available
@@ -163,15 +163,15 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/12159832977939653862_2048_6ed118ac-75ff-456d-aad2-173cc0213e94.jpg?v=1760038771
     Price: $44.19 USD
-- [Skeleton Basketball Shorts - Love Lost Cyber Glitch Design](https://lachrymalgems.store/products/vibrant-skeleton-love-lost-cyber-graphic-basketball-shorts-unisex-athletic-shorts-summer-sports-wear-trendy-workout-gear-unique-gift-for-athletes): Men's vibrant skeleton basketball shorts with cyber glitch print. Perfect athletic shorts for gym, sports, or casual wear. Unique alternative activewear.
-  Updated: 2025-10-15T15:57:38Z
+- [Skeleton Basketball Shorts - Love Lost Cyber Glitch Athletic Wear](https://lachrymalgems.store/products/vibrant-skeleton-love-lost-cyber-graphic-basketball-shorts-unisex-athletic-shorts-summer-sports-wear-trendy-workout-gear-unique-gift-for-athletes): Men's vibrant skeleton basketball shorts with cyber glitch print. Perfect athletic shorts for gym, sports, or casual wear. Unique alternative activewear.
+  Updated: 2025-10-15T20:24:11Z
   Vendor: Printify
   Product Type: All Over Prints
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/rn-image_picker_lib_temp_e85f573a-571d-4f62-985a-492133268e78.webp?v=1759761086
   Price: $45.80 USD
-- [Love Lost Skeleton Crop Top - Dark Aesthetic Retro Tee](https://lachrymalgems.store/products/love-lost-skeletons-retro-crop-tee-trendy-womens-top-casual-streetwear-graphic-tee-unique-gift-for-her-festival-wear-statement-t-shirt): Trendy skeleton crop tee with glitch dark aesthetic design. Perfect retro streetwear for alternative fashion lovers. Unique graphic tee gift for her.
-  Updated: 2025-10-15T16:08:10Z
+- [Skeleton Crop Top - Dark Aesthetic Retro Tee Alternative Fashion](https://lachrymalgems.store/products/love-lost-skeletons-retro-crop-tee-trendy-womens-top-casual-streetwear-graphic-tee-unique-gift-for-her-festival-wear-statement-t-shirt): Trendy skeleton crop tee with glitch dark aesthetic design. Perfect retro streetwear for alternative fashion lovers. Unique graphic tee gift for her.
+  Updated: 2025-10-15T20:22:44Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
@@ -351,7 +351,7 @@
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/5347049586039609425_2048.jpg?v=1760038730
     Price: $39.72 USD
 - [Lost Love Skeleton Sling Bag - Neon Dark Aesthetic Accessory](https://lachrymalgems.store/products/lost-love-skeleton-sling-bag): Neon dark aesthetic sling bag with lost love skeleton design. Perfect alternative accessories for everyday carry. Unique crossbody bag for gothic style.
-  Updated: 2025-10-15T17:19:59Z
+  Updated: 2025-10-15T20:47:58Z
   Vendor: Printify
   Product Type: Bags
   Availability: Available
@@ -388,14 +388,14 @@
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/15300762413328481391_2048.jpg?v=1760043783
     Price: $61.26 USD
 - [Snail Mucin Facial Serum 1oz - Anti-Aging Skincare](https://lachrymalgems.store/products/snail-mucin-facial-serum-1oz): Premium snail mucin facial serum for anti-aging and hydration. 1oz bottle with natural ingredients. Effective skincare for smooth, glowing skin.
-  Updated: 2025-10-15T06:07:32Z
+  Updated: 2025-10-15T20:46:43Z
   Vendor: Printify
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/background-editor_output_423b8886-6388-4109-8e77-28e094ba25c2.png?v=1760052587
   Price: $24.48 USD
 - [Memento Mori Snapback Hat - Dark Vaporwave Flat Bill Cap](https://lachrymalgems.store/products/memento-mori-snapback-cap-flat-bill-hat-for-alternative-fashion-street-style): Stylish memento mori snapback cap with dark vaporwave aesthetic. Flat bill hat perfect for alternative fashion & streetwear. Unique gothic headwear.
-  Updated: 2025-10-15T17:39:03Z
+  Updated: 2025-10-15T20:46:20Z
   Vendor: Printify
   Product Type: Hats
   Availability: Available
@@ -422,7 +422,7 @@
     Availability: Available
     Price: $28.99 USD
 - [Love Lost Skeleton Leggings - Dark Aesthetic Activewear](https://lachrymalgems.store/products/love-lost-skeleton-leggings-stylish-casual-wear-gym-leggings): Stylish skeleton print leggings perfect for gym, yoga, or casual wear. Unique dark aesthetic design. Comfortable activewear for alternative fashion lovers.
-  Updated: 2025-10-15T16:17:17Z
+  Updated: 2025-10-15T20:45:57Z
   Vendor: Printify
   Product Type: All Over Prints
   Availability: Available
@@ -446,7 +446,7 @@
     Availability: Available
     Price: $36.85 USD
 - [Cosmic Love Lost Crewneck - Graphic Sweatshirt for Space Lovers](https://lachrymalgems.store/products/cosmic-love-lost-crewneck-sweatshirt-graphic-sweatshirt-unisex-apparel-gift-for-space-lovers): Unisex cosmic love lost graphic sweatshirt. Perfect gift for space lovers and alternative fashion enthusiasts. Unique skeleton design crewneck.
-  Updated: 2025-10-15T06:53:27Z
+  Updated: 2025-10-15T20:45:29Z
   Vendor: Printify
   Product Type: Sweatshirt
   Availability: Available
@@ -533,14 +533,14 @@
     Availability: Available
     Price: $52.77 USD
 - [Skeleton Love Necklace - Gothic Aesthetic Pendant Jewelry](https://lachrymalgems.store/products/skeleton-love-necklace-aesthetic-gothic-pendant-unisex-gift-alternative-fashion-unique-statement-piece): Unique skeleton love necklace with gothic aesthetic design. Perfect statement piece for alternative fashion. Unisex gothic pendant necklace gift.
-  Updated: 2025-10-15T17:41:29Z
+  Updated: 2025-10-15T20:44:45Z
   Vendor: Printify
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/background-editor_output_de17e5e3-467d-438c-abce-38a400034691.png?v=1760132615
   Price: $18.25 USD
 - [Memento Mori Sandals - Vaporwave Aesthetic Summer Footwear](https://lachrymalgems.store/products/sandals-memento-mori-sad-lonely-skeleton-swing-vaporwave-aesthetic-fashion): Comfortable sandals with memento mori vaporwave aesthetic design. Perfect summer footwear for alternative fashion lovers. Unique dark aesthetic slide
-  Updated: 2025-10-15T06:06:05Z
+  Updated: 2025-10-15T20:44:17Z
   Vendor: Printify
   Product Type: Shoes
   Availability: Available
@@ -573,49 +573,49 @@
     Availability: Available
     Price: $44.23 USD
 - [Love Lost Skeletons Tank Top - Cat Skeleton Dark Aesthetic](https://lachrymalgems.store/products/tank-top-love-lost-skeletons-with-cat-skeleton-feature-dark-aesthetic): Tank top featuring love lost skeletons with cat skeleton design. Perfect dark aesthetic casual wear. Unique alternative fashion statement piece.
-  Updated: 2025-10-15T06:05:13Z
+  Updated: 2025-10-15T20:43:55Z
   Vendor: Printify
   Product Type: Pets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/background-editor_output_7a45e2dc-83b7-46e3-8adf-689f3640c3c4.png?v=1760042931
   - [L / Black](https://lachrymalgems.store/products/tank-top-love-lost-skeletons-with-cat-skeleton-feature-dark-aesthetic?variant=47095805116661)
     Availability: Available
-    Price: $30.71 USD
+    Price: $27.89 USD
   - [L / Heather](https://lachrymalgems.store/products/tank-top-love-lost-skeletons-with-cat-skeleton-feature-dark-aesthetic?variant=47095805149429)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/6994883495782052557-2048-_2.jpg?v=1760042931
-    Price: $30.71 USD
+    Price: $27.89 USD
   - [L / Pink](https://lachrymalgems.store/products/tank-top-love-lost-skeletons-with-cat-skeleton-feature-dark-aesthetic?variant=47095805182197)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/7258774579055695889-2048-_3.jpg?v=1760042931
-    Price: $30.71 USD
+    Price: $27.89 USD
   - [L / White](https://lachrymalgems.store/products/tank-top-love-lost-skeletons-with-cat-skeleton-feature-dark-aesthetic?variant=47095805214965)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/6336337715706831715-2048-_4.jpg?v=1760042931
-    Price: $30.71 USD
+    Price: $27.89 USD
 - [Memento Mori Hand Towel - Dark Aesthetic Gothic Home Decor](https://lachrymalgems.store/products/gothic-hand-towel-with-memento-mori-design-decorative-towel-for-home-skull-roses-towel-bathroom-decor): Dark aesthetic hand towel with memento mori design. Decorative towel for gothic bathroom decor. Unique skull and roses towel for alternative home style.
-  Updated: 2025-10-15T06:04:07Z
+  Updated: 2025-10-15T20:58:46Z
   Vendor: Printify
   Product Type: Home Decor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/background-editor-output-4b7a4246-5690-4c52-bada-5698334c480d-_1.png?v=1760038656
   Price: $14.66 USD
 - [Embroidered Hiddengem Beanie - Cozy Winter Hat](https://lachrymalgems.store/products/embroidered-hiddengen-beanie): Cozy embroidered Hiddengem beanie perfect for cold weather. Stylish winter hat with unique embroidery. Quality headwear from Lachrymal Gems.
-  Updated: 2025-10-15T06:02:30Z
+  Updated: 2025-10-15T20:42:40Z
   Vendor: Lachrymal Gems
   Product Type: EMBROIDERY
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/background-editor-output-6bdde157-5f47-4220-b080-097a1c9ef117-_1.png?v=1760038654
   Price: $17.50 USD
 - [Clear Tote Bag - Transparent Fashion Accessory | Lachrymal Gems](https://lachrymalgems.store/products/clear-tote-bag): Stylish clear tote bag perfect for events, travel, and everyday use. Transparent bag meets venue requirements. Versatile and trendy accessory.
-  Updated: 2025-10-15T06:01:22Z
+  Updated: 2025-10-16T08:30:29Z
   Vendor: Lachrymal Gems
   Product Type: DECOR
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/background-editor-output-7f590cb7-372f-40c3-a401-0ddf57f04222-_1.png?v=1760038644
   Price: $24.00 USD
 - [Headband - Stylish Hair Accessory | Lachrymal Gems](https://lachrymalgems.store/products/headband): Comfortable and stylish headband perfect for everyday wear. Versatile hair accessory for all occasions. Quality headwear from Lachrymal Gems.
-  Updated: 2025-10-15T05:49:39Z
+  Updated: 2025-10-15T20:41:19Z
   Vendor: Lachrymal Gems
   Product Type: CUT-SEW
   Availability: Available
@@ -627,7 +627,7 @@
     Availability: Available
     Price: $9.50 USD
 - [Love Lost Skeletons Long Sleeve Shirt - Men's Alternative Wear](https://lachrymalgems.store/products/love-lost-skeletons-men-s-long-sleeve-shirt): Men's long sleeve shirt featuring love lost skeletons design. Perfect dark aesthetic casual wear. Unique alternative fashion for everyday comfort.
-  Updated: 2025-10-15T18:09:01Z
+  Updated: 2025-10-15T20:40:37Z
   Vendor: Lachrymal Gems
   Product Type: T-SHIRT
   Availability: Available
@@ -654,28 +654,28 @@
     Availability: Available
     Price: $55.50 USD
 - [Memento Mori Slippers - Enchanting Neon Mystic Ladies Footwear](https://lachrymalgems.store/products/enchanting-neon-memento-mori-mystic-ladies-slippers-cozy-footwear-for-home): Cozy ladies slippers with enchanting neon memento mori mystic design. Perfect comfortable footwear for home. Unique alternative aesthetic slippers.
-  Updated: 2025-10-15T18:08:41Z
+  Updated: 2025-10-15T20:40:09Z
   Vendor: Printify
   Product Type: Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/background-editor_output_0c41e52a-af42-45cb-8dd7-c748f8b71c92.png?v=1760042379
   Price: $15.66 USD
 - [Beauty in the Dark Heart Necklace - Gothic Statement Jewelry](https://lachrymalgems.store/products/beauty-in-the-dark-heart-statement-necklace): Unique beauty in the dark heart statement necklace. Perfect gothic jewelry piece for alternative fashion lovers. Eye-catching dark aesthetic accessory.
-  Updated: 2025-10-15T18:01:38Z
+  Updated: 2025-10-15T20:39:38Z
   Vendor: Printify
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/background-editor_output_c59cae78-3dd1-4bc3-a7b5-8f53b2b679ba.png?v=1759915166
   Price: $24.02 USD
 - [Memento Mori Joggers - Sad Boy Aesthetic Men's Sweatpants](https://lachrymalgems.store/products/sad-boy-aesthetic-memento-mori-mens-joggers): Men's joggers with memento mori sad boy aesthetic design. Comfortable sweatpants perfect for loungewear and streetwear. Dark alternative fashion.
-  Updated: 2025-10-15T18:38:04Z
+  Updated: 2025-10-15T20:39:11Z
   Vendor: Printify
   Product Type: All Over Prints
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/rn-image_picker_lib_temp_40f68d05-1bdc-4f1f-ba3d-2b2376860eda.webp?v=1760028115
   Price: $57.70 USD
 - [Love Lost Skeletons Long Sleeve Tee - Men's Dark Aesthetic](https://lachrymalgems.store/products/love-lost-skeletons-mens-long-sleeve-tee): Men's long sleeve tee with love lost skeletons design. Perfect dark aesthetic casual wear. Unique alternative fashion graphic shirt for everyday style.
-  Updated: 2025-10-15T19:57:47Z
+  Updated: 2025-10-15T20:38:49Z
   Vendor: Printify
   Product Type: Long-sleeve
   Availability: Available
@@ -881,7 +881,7 @@
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/13135556902623223657_2048_9336f76f-cf03-4ad1-abc4-87eec821c37f.jpg?v=1760023608
     Price: $44.20 USD
 - [Anti-Social Tank Top - Men's Dark Aesthetic Neon Streetwear](https://lachrymalgems.store/products/mens-tank-top-dark-aesthetic-neon-vibes-anti-social-club-streetwear-gym-wear): Men's dark aesthetic tank top with neon vibes and anti-social club design. Perfect streetwear and gym wear. Unique alternative fashion statement piece.
-  Updated: 2025-10-15T05:39:19Z
+  Updated: 2025-10-15T20:38:21Z
   Vendor: Printify
   Product Type: Tank Top
   Availability: Available
@@ -911,7 +911,7 @@
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/948668306500115053-2048-_3.jpg?v=1760038631
     Price: $34.90 USD
 - [Memento Mori Skater Dress - Dark Rose Aesthetic Limited Edition](https://lachrymalgems.store/products/skater-dress-memento-mori-dark-rose-aesthetic): Limited edition memento mori skater dress with dark rose aesthetic design. Perfect alternative fashion dress for gothic style lovers. Unique statement piece.
-  Updated: 2025-10-15T18:03:28Z
+  Updated: 2025-10-17T01:57:21Z
   Vendor: Printify
   Product Type: All Over Prints
   Availability: Available
@@ -925,21 +925,21 @@
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/663816918128052747_2048.jpg?v=1760474869
   Price: $59.05 USD
 - [Skin-Glow Face and Body Cleanser 6oz - Natural Skincare](https://lachrymalgems.store/products/skin-glow-face-and-body-cleanser-6oz): Gentle face and body cleanser for glowing skin. 6oz natural skincare formula. Perfect daily cleanser for all skin types. Organic beauty product.
-  Updated: 2025-10-15T17:36:44Z
+  Updated: 2025-10-15T20:37:18Z
   Vendor: Printify
   Product Type: Beauty products
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/background-editor_output_797146df-06ef-4fe0-bad1-4b8de4a98670.png?v=1760198466
   Price: $18.20 USD
 - [Alt.Organic Hair Growth Tonic 2oz - Natural Hair Care](https://lachrymalgems.store/products/alt-organic-hair-growth-tonic-2oz): Organic hair growth tonic for natural hair care. 2oz bottle with alternative organic ingredients. Promotes healthy hair growth and scalp health.
-  Updated: 2025-10-15T05:32:23Z
+  Updated: 2025-10-15T22:17:02Z
   Vendor: Printify
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/background-editor_output_ec418f59-9c7b-4cdd-86b5-af9fdd3bbeb6.png?v=1760198283
   Price: $24.73 USD
 - [Dark Hello Kitty Sports Bra - Purple Alternative Aesthetic](https://lachrymalgems.store/products/sports-bra-dark-hello-kitty-remixed-purple-vibes-alternative-aesthetic): Ladies sports bra with dark Hello Kitty remixed purple vibes design. Perfect alternative aesthetic activewear for gym and yoga. Unique gothic workout gear.
-  Updated: 2025-10-15T19:22:52Z
+  Updated: 2025-10-15T20:36:30Z
   Vendor: Printify
   Product Type: All Over Prints
   Availability: Available
@@ -960,14 +960,14 @@
     Availability: Available
     Price: $31.57 USD
 - [Occult Aesthetic Beanie - Unisex Dark Alternative Headwear](https://lachrymalgems.store/products/occult-aesthetic-unisex-beanie): Unisex occult aesthetic beanie perfect for dark alternative fashion. Cozy all-over print design. Unique gothic headwear for men and women.
-  Updated: 2025-10-15T19:20:31Z
+  Updated: 2025-10-15T20:36:01Z
   Vendor: Printify
   Product Type: All Over Prints
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/background-editor_output_aa595708-f723-4146-a665-6b97c0e9ae02.png?v=1760133093
   Price: $20.62 USD
 - [Men's Dark Aesthetic Canvas Sneakers - High Top Shoes](https://lachrymalgems.store/products/stylish-high-top-sneakers-with-vibrant-design-trendy-footwear-fashionable-sneakers-unique-artistic-shoes-cool-casual-kicks): men's canvas high-top sneakers with vibrant dark aesthetic design. Unique artistic shoes perfect for casual wear and streetwear.
-  Updated: 2025-10-15T16:02:03Z
+  Updated: 2025-10-15T20:35:32Z
   Vendor: Printify
   Product Type: Shoes
   Availability: Available
@@ -1006,45 +1006,50 @@
     Availability: Available
     Price: $39.21 USD
 - [Memento Mori Cropped Hoodie - Vaporwave Alternative Fashion](https://lachrymalgems.store/products/sad-aesthetic-cropped-hoodie): Ladies vaporwave alternative fall fashion cropped hoodie with memento mori design. Perfect dark aesthetic streetwear. Unique gothic style hoodie.
-  Updated: 2025-10-15T15:48:50Z
+  Updated: 2025-10-17T11:28:51Z
   Vendor: Printify
   Product Type: Hoodie
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/background-editor_output_3d18c6f3-a354-4d0c-bc9c-4dc4a0b3815b.png?v=1760132000
+  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/426092206024253302_2048.jpg?v=1760657343
   - [Black / S](https://lachrymalgems.store/products/sad-aesthetic-cropped-hoodie?variant=47120905666805)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/426092206024253302_2048.jpg?v=1760657343
     Price: $45.05 USD
   - [Storm / S](https://lachrymalgems.store/products/sad-aesthetic-cropped-hoodie?variant=47120905699573)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/12651550852382776664_2048.jpg?v=1760131999
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/6258533648390964751_2048.jpg?v=1760657350
     Price: $45.05 USD
   - [Black / M](https://lachrymalgems.store/products/sad-aesthetic-cropped-hoodie?variant=47120905732341)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/426092206024253302_2048.jpg?v=1760657343
     Price: $45.05 USD
   - [Storm / M](https://lachrymalgems.store/products/sad-aesthetic-cropped-hoodie?variant=47120905765109)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/12651550852382776664_2048.jpg?v=1760131999
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/6258533648390964751_2048.jpg?v=1760657350
     Price: $45.05 USD
   - [Black / L](https://lachrymalgems.store/products/sad-aesthetic-cropped-hoodie?variant=47120905797877)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/426092206024253302_2048.jpg?v=1760657343
     Price: $45.05 USD
   - [Storm / L](https://lachrymalgems.store/products/sad-aesthetic-cropped-hoodie?variant=47120905830645)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/12651550852382776664_2048.jpg?v=1760131999
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/6258533648390964751_2048.jpg?v=1760657350
     Price: $45.05 USD
   - [Black / XL](https://lachrymalgems.store/products/sad-aesthetic-cropped-hoodie?variant=47120905863413)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/426092206024253302_2048.jpg?v=1760657343
     Price: $45.05 USD
   - [Storm / XL](https://lachrymalgems.store/products/sad-aesthetic-cropped-hoodie?variant=47120905896181)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/12651550852382776664_2048.jpg?v=1760131999
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/6258533648390964751_2048.jpg?v=1760657350
     Price: $45.05 USD
   - [Black / 2XL](https://lachrymalgems.store/products/sad-aesthetic-cropped-hoodie?variant=47120905928949)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/426092206024253302_2048.jpg?v=1760657343
     Price: $46.98 USD
   - [Storm / 2XL](https://lachrymalgems.store/products/sad-aesthetic-cropped-hoodie?variant=47120905961717)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/12651550852382776664_2048.jpg?v=1760131999
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/6258533648390964751_2048.jpg?v=1760657350
     Price: $46.98 USD
 - [Men's Shampoo](https://lachrymalgems.store/products/mens-shampoo): Description Designed with effective ingredients and certified organic extracts, this carefully crafted men’s shampoo is worth the try. Inspired by nature, this shampoo does all the right things - invigorates the scalp for growth, deeply cleanses your hair, all with a gentle scent that’s not too overpowering. A complete blend of certified organic extracts and oils will leave your hair smelling fresh. Treat your hair and scalp with the best ingredients and leave your hair looking lush and strong. Made in North America. Benefits Certified organic extracts strengthens hair growth Blend of lavender, lemon and chamomile leaves a gentle scent Formulated with ingredients to deeply clean excess oils from your scalp Paraben, gluten, and cruelty free Vegan and certified organic Net 10 fl. oz. / 300 mL Application Lather shampoo in wet hair Rinse with warm water Avoid contact with eyes Ingredients Aqua, Sodium Methyl 2-Sulfolaurate, Disodium 2-Sulfolaurate, Cetyl Betaine, Glycerin, Sodium Lauryl Sulfoacetate, Guar Hydroxypropyltrimonium Chloride, *CO Glycerin, *CO Humulus Lupulus (Hops) Extract, *CO Lavandula Angustifolia (Lavender) Flower/Leaf/Stem Extract, *CO Calendula Officinalis Flower Extract, *CO Chamomilla Recutita (Matricaria) Flower Extract, *CO Citrus Limon (Lemon) Peel Extract, *CO Cucumis Sativus (Cucumber) Seed Extract, *CO Camellia Sinensis Leaf Extract, *CO Pyrus Malus (Apple) Fruit Extract, *CO Spirulina Platensis Extract, Fragrance, Benzyl Alcohol, Dehydroacetic Acid *CO Certified Organic
   Updated: 2025-10-15T01:54:50Z
@@ -1067,32 +1072,128 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/background-editor_output_09a7f8e6-6f29-46f0-8ec1-70ec8bf4245f.png?v=1760437251
   Price: $51.80 USD
+- [Love Lost Skeleton Dark Alternative Make Up Bag](https://lachrymalgems.store/products/love-lost-skeleton-dark-alternative-make-up-bag): This dark vaporwave aesthetic accessory pouch is perfect for storing your makeup or accessories. It exudes a sense of love lost and provides a unique vibe to your daily routine. Ideal for those who appreciate edgy and alternative styles, this pouch is relevant for occasions like Halloween or themed parties.Product features- 100% Polyester with non-woven laminate inside- Vibrant colors with crisp printing- Durable zipper closure with gold color puller- Available in multiple sizes- Assembled in the USA from globally sourced parts Small Top length, in 8.66 Bottom length, in 6.75 Width, in 2.36 Height, in 4.72 Care instructions- Remove all items from the bag before cleaning. Suggested to pretreat visible stains with stain remover. Mix warm water with laundry detergent and clean the bag with terry washcloth or a soft bristle brush. Let the bag air dry.
+  Updated: 2025-10-16T23:26:47Z
+  Vendor: Printify
+  Product Type: Bags
+  Availability: Available
+  - [Small / Black zipper](https://lachrymalgems.store/products/love-lost-skeleton-dark-alternative-make-up-bag?variant=47211808981237)
+    Availability: Available
+    Price: $12.85 USD
+  - [Small / White zipper](https://lachrymalgems.store/products/love-lost-skeleton-dark-alternative-make-up-bag?variant=47211809014005)
+    Availability: Available
+    Price: $12.85 USD
+- [Copy of Love Lost Skeleton Dark Alternative Make Up Bag](https://lachrymalgems.store/products/copy-of-love-lost-skeleton-dark-alternative-make-up-bag): This dark vaporwave aesthetic accessory pouch is perfect for storing your makeup or accessories. It exudes a sense of love lost and provides a unique vibe to your daily routine. Ideal for those who appreciate edgy and alternative styles, this pouch is relevant for occasions like Halloween or themed parties.Product features- 100% Polyester with non-woven laminate inside- Vibrant colors with crisp printing- Durable zipper closure with gold color puller- Available in multiple sizes- Assembled in the USA from globally sourced parts Small Top length, in 8.66 Bottom length, in 6.75 Width, in 2.36 Height, in 4.72 Care instructions- Remove all items from the bag before cleaning. Suggested to pretreat visible stains with stain remover. Mix warm water with laundry detergent and clean the bag with terry washcloth or a soft bristle brush. Let the bag air dry.
+  Updated: 2025-10-16T23:41:53Z
+  Vendor: Printify
+  Product Type: Bags
+  Availability: Available
+  - [Small / Black zipper](https://lachrymalgems.store/products/copy-of-love-lost-skeleton-dark-alternative-make-up-bag?variant=47211822809333)
+    Availability: Available
+    Price: $12.85 USD
+  - [Small / White zipper](https://lachrymalgems.store/products/copy-of-love-lost-skeleton-dark-alternative-make-up-bag?variant=47211822842101)
+    Availability: Available
+    Price: $12.85 USD
+- [Copy of Tapestry Blanket - ROLFGATOR T- Life Marcus Core Design - As Seen on TikTok](https://lachrymalgems.store/products/copy-of-tapestry-blanket-rolfgator-t-life-marcus-core-design-as-seen-on-tiktok): This velveteen plush blanket featuring the ROLFGATOR T- Life Marcus Core design is a must-have for TikTok enthusiasts looking to add a cozy and trendy touch to their space. Perfect for adults who appreciate unique and eye-catching decor. Ideal for gifting during holidays, birthdays, and special occasions.Product features- Double needle topstitch for durability- Made from durable polyester fabric- Ideal for adults- Sourced from China- Compliant with safety standardsCare instructions- Do not dryclean- Do not iron- Tumble dry: low heat- Do not bleach- Machine wash: cold (max 30C or 90F), *hand wash will extend the quality of the product 50" × 60" Width, in 50.00 Height, in 60.00
+  Updated: 2025-10-16T23:42:33Z
+  Vendor: Printify
+  Product Type: All Over Prints
+  Availability: Available
+  Price: $38.52 USD
+- [Copy of Ringer T-Shirt Decade Love Lost Skeletons Print](https://lachrymalgems.store/products/copy-of-ringer-t-shirt-decade-love-lost-skeletons-print): Decade Love Lost Skeletons Design Print on a Unisex Cotton Ringer T-Shirt, giving off an Alternative Dark Vaporwave Fashion vibe with a Hint of Glitch Aesthetics. Perfect for those who appreciate unique and edgy fashion styles. Ideal for Goth, or Retro themed events and celebrations.Product features- 100% cotton composition for solid colors- Contrasting 1x1 baby rib binding on collar and sleeves- Side seams for better shape retention- Combed, ring-spun cotton for quality- Light fabric with a classic fitCare instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Iron, steam or dry: low heat- Do not dryclean XS S M L XL 2XL 3XL Width, in 17.50 19.00 20.50 22.00 24.00 26.00 28.00 Length, in 27.00 28.00 29.00 30.00 31.00 32.00 33.00 Image by [BNP Design Studio / Shutterstock]
+  Updated: 2025-10-17T11:44:11Z
+  Vendor: Printify
+  Product Type: T-Shirt
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/12324707250201142383_2048.jpg?v=1760658247
+  - [White/Black / XS](https://lachrymalgems.store/products/copy-of-ringer-t-shirt-decade-love-lost-skeletons-print?variant=47211823890677)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/12324707250201142383_2048.jpg?v=1760658247
+    Price: $31.90 USD
+  - [White/Black / S](https://lachrymalgems.store/products/copy-of-ringer-t-shirt-decade-love-lost-skeletons-print?variant=47211823923445)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/12324707250201142383_2048.jpg?v=1760658247
+    Price: $31.90 USD
+  - [White/Black / M](https://lachrymalgems.store/products/copy-of-ringer-t-shirt-decade-love-lost-skeletons-print?variant=47211823956213)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/12324707250201142383_2048.jpg?v=1760658247
+    Price: $31.90 USD
+  - [White/Black / L](https://lachrymalgems.store/products/copy-of-ringer-t-shirt-decade-love-lost-skeletons-print?variant=47211823988981)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/12324707250201142383_2048.jpg?v=1760658247
+    Price: $31.90 USD
+  - [White/Black / XL](https://lachrymalgems.store/products/copy-of-ringer-t-shirt-decade-love-lost-skeletons-print?variant=47211824021749)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/12324707250201142383_2048.jpg?v=1760658247
+    Price: $31.90 USD
+  - [White/Black / 2XL](https://lachrymalgems.store/products/copy-of-ringer-t-shirt-decade-love-lost-skeletons-print?variant=47211824054517)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/12324707250201142383_2048.jpg?v=1760658247
+    Price: $34.57 USD
+  - [White/Black / 3XL](https://lachrymalgems.store/products/copy-of-ringer-t-shirt-decade-love-lost-skeletons-print?variant=47211824087285)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/12324707250201142383_2048.jpg?v=1760658247
+    Price: $36.86 USD
+- [Dark Alternative Vaporwave Crop Tee| Love Lost Skeletons](https://lachrymalgems.store/products/dark-alternative-vaporwave-crop-tee-love-lost-skeletons): This Dark Alternative Vaporwave Cropped T Shirt features vibrant colors and a unique all-over print design. Made of 100% polyester, this light fabric tee is perfect for those who love edgy, alternative fashion. Ideal for music festivals, parties, and casual outings, this tee is a statement piece for the bold and creative individual.Product features- 100% polyester fabric for durability and quick drying- Ribbed knit collar for elasticity and shape retention- Vibrant colors with crisp printing techniques- All-over print design for a unique look- Sewn-in care label for convenience XS S M L XL 2XL Width, in 15.00 15.50 16.00 16.50 17.00 17.50 Length, in 18.00 18.50 19.00 19.75 20.50 21.25 Care instructions- Do not dryclean- Do not iron- Tumble dry: low heat- Do not bleach- Machine wash: cold (max 30C or 90F)
+  Updated: 2025-10-17T11:55:07Z
+  Vendor: Printify
+  Product Type: All Over Prints
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/3220511905095698861_2048.jpg?v=1760658899
+  - [Black stitching / XS](https://lachrymalgems.store/products/dark-alternative-vaporwave-crop-tee-love-lost-skeletons?variant=47211838669045)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/6903524216527952166_2048.jpg?v=1760658903
+    Price: $34.01 USD
+  - [Black stitching / S](https://lachrymalgems.store/products/dark-alternative-vaporwave-crop-tee-love-lost-skeletons?variant=47211838701813)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/6903524216527952166_2048.jpg?v=1760658903
+    Price: $34.26 USD
+  - [Black stitching / M](https://lachrymalgems.store/products/dark-alternative-vaporwave-crop-tee-love-lost-skeletons?variant=47211838734581)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/6903524216527952166_2048.jpg?v=1760658903
+    Price: $34.86 USD
+  - [Black stitching / L](https://lachrymalgems.store/products/dark-alternative-vaporwave-crop-tee-love-lost-skeletons?variant=47211838767349)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/6903524216527952166_2048.jpg?v=1760658903
+    Price: $35.36 USD
+  - [White stitching / L](https://lachrymalgems.store/products/dark-alternative-vaporwave-crop-tee-love-lost-skeletons?variant=47211838800117)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/3220511905095698861_2048.jpg?v=1760658899
+    Price: $35.36 USD
+  - [Black stitching / XL](https://lachrymalgems.store/products/dark-alternative-vaporwave-crop-tee-love-lost-skeletons?variant=47211838832885)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/6903524216527952166_2048.jpg?v=1760658903
+    Price: $36.08 USD
+  - [Black stitching / 2XL](https://lachrymalgems.store/products/dark-alternative-vaporwave-crop-tee-love-lost-skeletons?variant=47211838865653)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/6903524216527952166_2048.jpg?v=1760658903
+    Price: $36.57 USD
 
 ## Collections
 
 - [Home page](https://lachrymalgems.store/collections/frontpage): Landing pages display of best selling products
-  Updated: 2025-10-15T04:04:28Z
+  Updated: 2025-10-17T01:57:21Z
   Total Products: 17
 - [Ladies Alt. Style](https://lachrymalgems.store/collections/ladies-alt-style): Ladies trending apparel, Seasonal Fashion
-  Updated: 2025-10-15T06:42:24Z
-  Total Products: 14
+  Updated: 2025-10-17T01:57:21Z
+  Total Products: 15
 - [Mens Alt. Style](https://lachrymalgems.store/collections/mens-alt-style): Mens hip hop alternative trends and seasonal outfits.
-  Updated: 2025-10-15T05:45:01Z
-  Total Products: 13
+  Updated: 2025-10-17T01:57:21Z
+  Total Products: 14
 - [Trap-Core Shoes](https://lachrymalgems.store/collections/trap-core-shoes)
-  Updated: 2025-10-14T22:44:51Z
+  Updated: 2025-10-17T01:57:21Z
   Total Products: 4
 - [Baggage with Benifiets](https://lachrymalgems.store/collections/baggage-with-benifiets): Carry what matters, drop what doesn't. We all carry something at least make it cute . Match your vibe not your outfit.
-  Updated: 2025-10-15T03:49:42Z
+  Updated: 2025-10-17T01:57:21Z
   Total Products: 4
 - [Spiritual Drip](https://lachrymalgems.store/collections/spiritual-drip): For the girl who smudges her crystals and her contour.Every piece has a secret meaning — only the wearer knows.
-  Updated: 2025-10-15T03:55:40Z
+  Updated: 2025-10-17T01:57:21Z
   Total Products: 2
 - [Magic Mirror](https://lachrymalgems.store/collections/magic-mirror): Rituals for your face, your frequency, and your feels.Reflections that remind you — you are the main character.
-  Updated: 2025-10-14T22:44:51Z
+  Updated: 2025-10-17T01:57:21Z
   Total Products: 6
 - [Vibe bin](https://lachrymalgems.store/collections/vibe-bin): Everything that feeds the mood board of your life. Shop the little things that recharge your frequency.
-  Updated: 2025-10-15T04:00:06Z
+  Updated: 2025-10-17T01:57:21Z
   Total Products: 6
 
 ## Blogs
@@ -1109,6 +1210,10 @@
     Updated: 2025-10-10T14:46:26Z
     Author: Mandie Maddox
     Tags: Be yourself, Dark Aesthetic, Emo, Emotional abuse, Gems, Hurts, Identity, Love Kills, Love Lost, Personal, Physical abuse, Scared, Scene, Sharing Scars
+  - [Alternative Fashion Guide 2025: Dark Academia, Vaporwave & Gothic Streetwear Trends](https://lachrymalgems.store/blogs/news/dark-academia-meets-vaporwave-the-ultimate-guide-to-alternative-aesthetic-fashion-in-2025): Alternative Fashion Guide 2025: Dark Academia, Vaporwave & Gothic Streetwear Trends
+    Updated: 2025-10-16T05:51:24Z
+    Author: Mandie Maddox
+    Tags: alternative aesthetic, alternative fashion, dark academia, fashion trends 2025, gothic fashion, occult fashion, streetwear, style guide, TikTok fashion, vaporwave
 - [They Don't Tell You: The Story Behind Our Scars](https://lachrymalgems.store/blogs/they-dont-tell-you-the-story-behind-our-scars)
   - [They Don't Tell You: The Story Behind Our Scars](https://lachrymalgems.store/blogs/they-dont-tell-you-the-story-behind-our-scars/they-dont-tell-you-the-story-behind-our-scars)
     Updated: 2025-10-07T21:08:12Z
