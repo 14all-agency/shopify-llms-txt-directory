@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-06-23T16:52:36Z
 - Contact Email: customerservice@aliciaadamsalpaca.com
-- Updated At: 2025-10-17T04:00:39.134Z
+- Updated At: 2025-10-17T16:00:40.242Z
 
 ## Products
 
@@ -832,13 +832,13 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AS133-17--Alassio-Wrap-Black-2-white-web.jpg?v=1719259343
     Price: $295.00 USD
 - [Buy Reversible Throw | Luxury Alpaca Throws | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/reversible-throw): buy reversible throw, luxury alpaca throws at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-10-16T13:25:06Z
+  Updated: 2025-10-17T14:55:03Z
   Vendor: alicia adams alpaca
   Product Type: Blankets & Throws
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AH504-02-90-Reversible-Throw-Beige-French-Yellow-wood-HR.jpg?v=1759501096
   - [Camel / Light Grey](https://aliciaadamsalpaca.com/products/reversible-throw?variant=40826931740787)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/ac-ah504-49-12-reversiblethrow-camel-lightgrey-wood-hr_3d57d517-d885-4609-bd2d-f84dbc00e5d5.jpg?v=1741012110
     Price: $495.00 USD
   - [Pink Powder / Ivory](https://aliciaadamsalpaca.com/products/reversible-throw?variant=40826931642483)
@@ -870,7 +870,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-img_5403.jpg?v=1741012110
     Price: $495.00 USD
   - [Hunter / Light Taupe](https://aliciaadamsalpaca.com/products/reversible-throw?variant=40826932035699)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C2.jpg?v=1741012110
     Price: $495.00 USD
   - [Aqua / Peridot](https://aliciaadamsalpaca.com/products/reversible-throw?variant=40826931806323)
@@ -2070,7 +2070,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-ap132-203-hudson_square-evergreen-flat_white.jpg?v=1741005408
     Price: $295.00 USD
 - [Buy Graydon Cape | Luxury Alpaca Cape | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/graydon-blanket-cape): buy graydon cape, luxury alpaca cape at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-10-16T13:26:20Z
+  Updated: 2025-10-17T12:54:35Z
   Vendor: alicia adams alpaca
   Product Type: Capes
   Availability: Available
@@ -2457,7 +2457,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AP130-203-Hudson_Lumbar-Evergreen-Flat_White.png?v=1741004686
     Price: $195.00 USD
 - [Buy Reversible Cape | Luxury Alpaca Cape | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/reversible-cape): buy reversible cape, luxury alpaca cape at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-10-16T13:26:35Z
+  Updated: 2025-10-17T12:54:35Z
   Vendor: alicia adams alpaca
   Product Type: Capes
   Availability: Available
@@ -2553,7 +2553,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-aw506-45-jamiesweater-shockingpink-white-web.jpg?v=1693297661
     Price: $295.00 USD
 - [Buy Mazing Cape | Luxury Alpaca Cape | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/mazing-blanket-cape): buy mazing cape, luxury alpaca cape at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-10-16T13:26:39Z
+  Updated: 2025-10-17T12:54:35Z
   Vendor: alicia adams alpaca
   Product Type: Capes
   Availability: Available
@@ -3017,7 +3017,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-img_1960.jpg?v=1759500325
     Price: $495.00 USD
 - [Buy Graydon Throw | Luxury Alpaca Throws | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/graydon-throw): buy graydon throw, luxury alpaca throws at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-10-16T13:27:10Z
+  Updated: 2025-10-17T05:01:41Z
   Vendor: alicia adams alpaca
   Product Type: Blankets & Throws
   Availability: Available
@@ -4234,7 +4234,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-ah217-14-16-aberdeenthrow-darkgrey-charcoal-white-hr_85ca62d1-f418-49df-8acf-d023cbe9848c.jpg?v=1759499541
     Price: $650.00 USD
 - [Buy Empire Cape | Luxury Alpaca Cape | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/empire-cape): buy empire cape, luxury alpaca cape at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-10-16T13:28:12Z
+  Updated: 2025-10-17T12:54:35Z
   Vendor: alicia adams alpaca
   Product Type: Capes
   Availability: Available
@@ -4312,38 +4312,38 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-Ibiza-Throw-Denim-Blue-lighter-for-web.jpg?v=1723645893
     Price: $495.00 USD
 - [Buy Hudson Bed Blanket | Luxury Alpaca Blanket | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/king-hudson-blanket): Experience unparalleled luxury with the Hudson Bed Blanket from alicia adams alpaca. Crafted from a blend of baby alpaca, wool, and nylon, this reversible throw adds warmth and style to any space. Buy now for eco-friendly luxury goods and earn rewards.
-  Updated: 2025-10-16T13:28:17Z
+  Updated: 2025-10-17T12:05:52Z
   Vendor: alicia adams alpaca
   Product Type: Bed Blankets
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/Aberdeen_Euro-Hudson_Square-Hudson_Lumbar-King_Hudson_Blanket-Aberdeen_Throw_2.jpg?v=1756743709
+  Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/Aberdeen_Euro-Hudson_Square-Hudson_Lumbar-King_Hudson_Blanket-Aberdeen_Throw_2.jpg?v=1760702738
   - [French Yellow / Beige / Queen / King](https://aliciaadamsalpaca.com/products/king-hudson-blanket?variant=40826900349043)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AHK216-90-02-KingHudsonBlanket-FrenchYellow-Beige-FlatWhite_2.jpg?v=1741025693
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AHK216-90-02-KingHudsonBlanket-FrenchYellow-Beige-FlatWhite_2.jpg?v=1760702738
     Price: $2,390.00 USD
   - [Ivory / Light Taupe / Queen / King](https://aliciaadamsalpaca.com/products/king-hudson-blanket?variant=40258913501299)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AHK01-102-KingHudsonBlanket-Ivory-LightTaupe-C-white-web.jpg?v=1741025693
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AHK01-102-KingHudsonBlanket-Ivory-LightTaupe-C-white-web.jpg?v=1760702738
     Price: $2,390.00 USD
   - [Aqua / Ivory / Queen / King](https://aliciaadamsalpaca.com/products/king-hudson-blanket?variant=40826900414579)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AHK216-103-01-KingHudsonBlanket-Aqua-Ivory-White.jpg?v=1741025693
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AHK216-103-01-KingHudsonBlanket-Aqua-Ivory-White.jpg?v=1760702738
     Price: $2,390.00 USD
   - [English Manor / Light Taupe / Queen / King](https://aliciaadamsalpaca.com/products/king-hudson-blanket?variant=40826900381811)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AHK216-94-102-KingHudsonBlanket-EnglishManor-LightTaupe-White.jpg?v=1741025693
-    Price: $2,390.00 USD
-  - [Navy / Light Grey / Queen / King](https://aliciaadamsalpaca.com/products/king-hudson-blanket?variant=40826900316275)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AHK216-27-12-KingHudsonBlanket-Navy-LightGrey-C-white-web.jpg?v=1741025693
-    Price: $2,390.00 USD
-  - [Black / Light Taupe / Queen / King](https://aliciaadamsalpaca.com/products/king-hudson-blanket?variant=40826900447347)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AHK216-KingHudsonBlanket-Black-LightTaupe-FlatWhite.jpg?v=1741025693
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AHK216-94-102-KingHudsonBlanket-EnglishManor-LightTaupe-White.jpg?v=1760702738
     Price: $2,390.00 USD
   - [Evergreen / Ivory / Queen / King](https://aliciaadamsalpaca.com/products/king-hudson-blanket?variant=41684495007859)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-ahk216-203-01-hudson_king_blanket-evergreen.jpg?v=1741025693
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-ahk216-203-01-hudson_king_blanket-evergreen.jpg?v=1760702738
+    Price: $2,390.00 USD
+  - [Navy / Light Grey / Queen / King](https://aliciaadamsalpaca.com/products/king-hudson-blanket?variant=40826900316275)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AHK216-27-12-KingHudsonBlanket-Navy-LightGrey-C-white-web.jpg?v=1760702738
+    Price: $2,390.00 USD
+  - [Black / Light Taupe / Queen / King](https://aliciaadamsalpaca.com/products/king-hudson-blanket?variant=40826900447347)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AHK216-KingHudsonBlanket-Black-LightTaupe-FlatWhite.jpg?v=1760702738
     Price: $2,390.00 USD
 - [Buy Mykonos Throw | Luxury Alpaca Throws | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/mykonos-throw): buy mykonos throw, luxury alpaca throws at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
   Updated: 2025-10-16T13:28:19Z
@@ -5319,30 +5319,42 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-spray_1.jpg?v=1749208121
     Price: $68.00 USD
 - [Buy Canyon Throw | Luxury Alpaca Throws | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/canyon-throw): Buy Canyon Throw, luxury alpaca Throws at alicia adams alpaca. Earn Rewards. Shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-10-17T01:42:33Z
+  Updated: 2025-10-17T15:56:39Z
   Vendor: alicia adams alpaca
   Product Type: Blankets & Throws
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AH114-02-01-12-2.jpg?v=1759498479
-  - [Beige / Ivory / Light Grey](https://aliciaadamsalpaca.com/products/canyon-throw?variant=40826850639987)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-02-01-12-CanyonThrow-Beige-Ivory-LightGrey-white-web.jpg?v=1759498517
-    Price: $150.00 USD
   - [Ivory / Light Grey / Beige](https://aliciaadamsalpaca.com/products/canyon-throw?variant=40826851229811)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-01-12-02-CanyonThrow-Ivory-LightGrey-Beige-wood-web.jpg?v=1759498517
     Price: $150.00 USD
-  - [Light Taupe / Tobacco / Shocking Pink](https://aliciaadamsalpaca.com/products/canyon-throw?variant=40826850836595)
+  - [Black / Charcoal / Light Grey](https://aliciaadamsalpaca.com/products/canyon-throw?variant=40826850934899)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-102-115-45-CanyonThrow-Taupe-Tobacco-ShockingPink-white-web.jpg?v=1759498517
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-17-16-12-CanyonThrow-Black-Charcoal-LightGrey-white-web.jpg?v=1759498741
+    Price: $150.00 USD
+  - [Chocolate / Black / Dark Grey](https://aliciaadamsalpaca.com/products/canyon-throw?variant=40826850902131)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-08-17-14-CanyonThrow-Chocolate-Black-DarkGrey-white-web.jpg?v=1760461249
+    Price: $150.00 USD
+  - [Camel](https://aliciaadamsalpaca.com/products/canyon-throw?variant=40826850869363)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114S-49-CanyonThrow-Camel-white-web.jpg?v=1760461249
     Price: $150.00 USD
   - [Taupe / Dark Grey / Paprika](https://aliciaadamsalpaca.com/products/canyon-throw?variant=40826851065971)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-04-14-117-CanyonThrow-Taupe-DarkGrey-Paprika-white-web.jpg?v=1759498517
     Price: $150.00 USD
-  - [Firecracker / Light Taupe / Dark Taupe](https://aliciaadamsalpaca.com/products/canyon-throw?variant=40258962784371)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-69-102-06-CanyonThrow-Firecracker-LightTaupe-DarkTaupe-white-web.jpg?v=1759498741
+  - [Light Taupe / Tobacco / Shocking Pink](https://aliciaadamsalpaca.com/products/canyon-throw?variant=40826850836595)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-102-115-45-CanyonThrow-Taupe-Tobacco-ShockingPink-white-web.jpg?v=1759498517
+    Price: $150.00 USD
+  - [Beige / Ivory / Light Grey](https://aliciaadamsalpaca.com/products/canyon-throw?variant=40826850639987)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-02-01-12-CanyonThrow-Beige-Ivory-LightGrey-white-web.jpg?v=1759498517
+    Price: $150.00 USD
+  - [Charcoal](https://aliciaadamsalpaca.com/products/canyon-throw?variant=40826850967667)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-ah114s-16-3.jpg?v=1759498741
     Price: $150.00 USD
   - [Light Blue / Light Grey / Ivory](https://aliciaadamsalpaca.com/products/canyon-throw?variant=51655979991412)
     Availability: Available
@@ -5360,29 +5372,9 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-114-12-27-CanyonThrow-DenimBlue-LightGrey-Navy-white-web.jpg?v=1759498517
     Price: $150.00 USD
-  - [Charcoal](https://aliciaadamsalpaca.com/products/canyon-throw?variant=40826850967667)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-ah114s-16-3.jpg?v=1759498741
-    Price: $150.00 USD
-  - [Black / Charcoal / Light Grey](https://aliciaadamsalpaca.com/products/canyon-throw?variant=40826850934899)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-17-16-12-CanyonThrow-Black-Charcoal-LightGrey-white-web.jpg?v=1759498741
-    Price: $150.00 USD
-  - [Chocolate / Black / Dark Grey](https://aliciaadamsalpaca.com/products/canyon-throw?variant=40826850902131)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-08-17-14-CanyonThrow-Chocolate-Black-DarkGrey-white-web.jpg?v=1760461249
-    Price: $150.00 USD
-  - [Camel](https://aliciaadamsalpaca.com/products/canyon-throw?variant=40826850869363)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114S-49-CanyonThrow-Camel-white-web.jpg?v=1760461249
-    Price: $150.00 USD
   - [Forest Green](https://aliciaadamsalpaca.com/products/canyon-throw?variant=40826850738291)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114S-89-CanyonThrow-Hunter-white-web.jpg?v=1759498741
-    Price: $150.00 USD
-  - [Forest Green / Charcoal / Light Taupe](https://aliciaadamsalpaca.com/products/canyon-throw?variant=53498047594868)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-89-16-102-CanyonThrow-Hunter-Charcoal-LightTaupe-white-web.jpg?v=1759498741
     Price: $150.00 USD
   - [Navy](https://aliciaadamsalpaca.com/products/canyon-throw?variant=40826851033203)
     Availability: Available
@@ -5395,6 +5387,14 @@
   - [Charcoal / Cognac / Taupe](https://aliciaadamsalpaca.com/products/canyon-throw?variant=40826850771059)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-16-10-04-CanyonThrow-Charcoal-Cognac-Taupe-white-web.jpg?v=1760461249
+    Price: $150.00 USD
+  - [Forest Green / Charcoal / Light Taupe](https://aliciaadamsalpaca.com/products/canyon-throw?variant=53498047594868)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-89-16-102-CanyonThrow-Hunter-Charcoal-LightTaupe-white-web.jpg?v=1759498741
+    Price: $150.00 USD
+  - [Firecracker / Light Taupe / Dark Taupe](https://aliciaadamsalpaca.com/products/canyon-throw?variant=40258962784371)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-69-102-06-CanyonThrow-Firecracker-LightTaupe-DarkTaupe-white-web.jpg?v=1759498741
     Price: $150.00 USD
   - [Scarlet](https://aliciaadamsalpaca.com/products/canyon-throw?variant=40826850803827)
     Availability: Not Available
@@ -5795,7 +5795,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-1sd-img_1812_1.jpg?v=1759498004
     Price: $195.00 USD
 - [Buy Sail Kimono | Luxury Alpaca Cape | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/sail-kimono): buy sail kimono, luxury alpaca cape at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-10-16T13:29:42Z
+  Updated: 2025-10-17T12:54:34Z
   Vendor: alicia adams alpaca
   Product Type: Capes
   Availability: Available
@@ -10164,7 +10164,7 @@
     Availability: Not Available
     Price: $675.00 USD
 - [Buy Mystic Cape | Luxury Alpaca Cape | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/mystic-cape): buy mystic cape, luxury alpaca cape at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-10-16T13:33:52Z
+  Updated: 2025-10-17T12:54:34Z
   Vendor: alicia adams alpaca
   Product Type: Capes
   Availability: Available
@@ -11564,7 +11564,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH221-27-84-CasablancaThrow-Navy-AdmiralsBlue-white-web.jpg?v=1759491087
     Price: $495.00 USD
 - [Buy Casablanca Cape | Luxury Alpaca Cape | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/casablanca-cape): Buy Casablanca Cape, luxury alpaca Cape at alicia adams alpaca. Earn Rewards. Shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-10-16T13:35:18Z
+  Updated: 2025-10-17T12:54:34Z
   Vendor: alicia adams alpaca
   Product Type: Capes
   Availability: Available
@@ -11716,7 +11716,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH534-139-124-ZebraThrow-JuniperMoss-FlatWhite.jpg?v=1759490717
     Price: $495.00 USD
 - [Buy Classic Throw | Luxury Alpaca Throws | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/classic-throw): Discover luxurious comfort with our Alicia Adams Alpaca Classic Throws. Available in over 100 vibrant hues, these throws add elegance to any space. Perfect for cozy nights or stylish accents. Buy now & earn rewards! Shop our fair-trade, eco-friendly luxury goods.
-  Updated: 2025-10-16T13:35:49Z
+  Updated: 2025-10-17T14:09:32Z
   Vendor: alicia adams alpaca
   Product Type: Blankets & Throws
   Availability: Available
@@ -12206,7 +12206,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-ak121-62-mickeysweater-velvetgreen-modelwhite.jpg?v=1759490486
     Price: $175.00 USD
 - [Buy Zebra Cape | Luxury Alpaca  | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/zebra-cape): buy zebra cape, luxury alpaca  at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-10-16T13:36:08Z
+  Updated: 2025-10-17T12:54:34Z
   Vendor: alicia adams alpaca
   Product Type: Capes
   Availability: Available
@@ -12236,7 +12236,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH534-139-124-ZebraThrow-JuniperMoss-FlatWhite_8e458886-1db5-4f4d-98a2-62f7ff076760.jpg?v=1759490413
     Price: $690.00 USD
 - [Buy Canyon Wrap | Luxury Alpaca Wrap | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/canyon-wrap): Buy Canyon Wrap, luxury alpaca Wrap at alicia adams alpaca. Earn Rewards. Shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-10-16T13:36:12Z
+  Updated: 2025-10-17T15:54:56Z
   Vendor: alicia adams alpaca
   Product Type: Scarves & Wraps
   Availability: Available
@@ -12282,7 +12282,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-04-14-117-CanyonThrow-Taupe-DarkGrey-Paprika-white-web_2ec1d4b9-5189-4a05-94ab-4a8ad407a1ba.jpg?v=1737136537
     Price: $495.00 USD
   - [Firecracker / Light Taupe / Dark Taupe](https://aliciaadamsalpaca.com/products/canyon-wrap?variant=40605725360243)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-69-102-06-CanyonThrow-Firecracker-LightTaupe-DarkTaupe-white-web_77990ea3-084e-4f06-8611-c9d607e56e33.jpg?v=1737136537
     Price: $495.00 USD
   - [Charcoal / Cognac / Taupe](https://aliciaadamsalpaca.com/products/canyon-wrap?variant=40826851426419)
@@ -12324,7 +12324,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-img_1273.jpg?v=1759490287
     Price: $145.00 USD
 - [Buy Gift Wrap | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/gift-wrap): buy gift wrap, luxury alpaca wrapin at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-10-16T22:08:17Z
+  Updated: 2025-10-17T05:01:40Z
   Vendor: wrapin
   Product Type: wrapin
   Availability: Available
@@ -12864,7 +12864,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-reversiblehat_pinkpowder_ivory_flatwhite_95bfeed4-f87f-43f0-84e5-77d6d1c3ff34.jpg?v=1735849527
     Price: $165.00 USD
 - [Buy Classic Cape | Luxury Alpaca Cape | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/classic-cape): Buy Classic Cape, available in 100+ colors. The ultimate selection of luxury alpaca capes at Alicia Adams Alpaca. Free shipping over $175
-  Updated: 2025-10-16T13:37:05Z
+  Updated: 2025-10-17T12:54:32Z
   Vendor: alicia adams alpaca
   Product Type: Capes
   Availability: Available
@@ -13070,7 +13070,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-img_1290_16c96f4c-85a8-4acc-bf27-acba61d479c1.jpg?v=1758904457
     Price: $650.00 USD
 - [Buy Classic Bed Blanket | Luxury Alpaca Blankets | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/classic-bed-blanket): Buy Classic Bed Blanket, available in 100+ colors. The ultimate selection of luxury alpaca blankets at Alicia Adams Alpaca. Free shipping over $175
-  Updated: 2025-10-16T13:37:51Z
+  Updated: 2025-10-17T12:54:32Z
   Vendor: alicia adams alpaca
   Product Type: Bed Blankets
   Availability: Available
@@ -13276,7 +13276,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-ah102-12-classicthrow-platinum-white-hr_0c992154-634a-46b0-91b9-52c27a68346e.jpg?v=1759489860
     Price: $2,900.00 USD
 - [Buy Classic Bed Scarf | Luxury Alpaca Blankets | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/classic-bed-scarf): Buy Classic Bed Scarf, available in 100+ colors. The ultimate selection of luxury alpaca blankets at Alicia Adams Alpaca. Free shipping over $175
-  Updated: 2025-10-16T13:38:35Z
+  Updated: 2025-10-17T12:54:32Z
   Vendor: alicia adams alpaca
   Product Type: Bed Blankets
   Availability: Available
@@ -14543,7 +14543,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-IMG_0319.jpg?v=1759424197
     Price: $345.00 USD
 - [Buy Glamper Throw | Luxury Alpaca Throws | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/glamper-blanket-2): Buy Glamper Throw, luxury alpaca Throws at alicia adams alpaca. Earn Rewards. Shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-10-10T14:38:00Z
+  Updated: 2025-10-17T15:55:53Z
   Vendor: alicia adams alpaca
   Product Type: Blankets & Throws
   Availability: Available
@@ -14557,7 +14557,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114S-102-CanyonThrow-LightTaupe-white-web_1.jpg?v=1759498741
     Price: $495.00 USD
   - [Ivory / Light Grey / Beige](https://aliciaadamsalpaca.com/products/glamper-blanket-2?variant=52334673232244)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-01-12-02-CanyonThrow-Ivory-LightGrey-Beige-wood-web.jpg?v=1759498517
     Price: $495.00 USD
   - [Light Grey](https://aliciaadamsalpaca.com/products/glamper-blanket-2?variant=52334673265012)
@@ -15061,13 +15061,13 @@
   Updated: 2025-09-09T19:35:38Z
   Total Products: 0
 - [Shop Women's Designer Alpaca Apparel | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/shop-women): Discover our exquisite collection of luxury alpaca women's clothing, from chic coats to cozy sweaters, all crafted from 100% baby alpaca wool for unmatched style and comfort.
-  Updated: 2025-10-16T11:15:46Z
+  Updated: 2025-10-17T11:16:39Z
   Total Products: 116
 - [Designer Alpaca Children's Clothing | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/shop-children): Explore our collection of alpaca children's clothing and accessories. Envelop your little ones in expertly crafted alpaca apparel, ensuring warmth and comfort.
   Updated: 2025-10-10T11:13:46Z
   Total Products: 19
 - [Alicia Adams Alpaca | Home Living | Alpaca Home Decor](https://aliciaadamsalpaca.com/collections/home-living): Discover luxurious artisan-crafted alpaca home decor and accessories that blend sophistication and comfort. Explore exquisite alpaca throws, blankets, pillows.
-  Updated: 2025-10-16T11:15:46Z
+  Updated: 2025-10-17T11:16:39Z
   Total Products: 78
 - [alicia adams alpaca | girls | girl's clothing & accessories](https://aliciaadamsalpaca.com/collections/shop-children-girls): Our girls collection features ultra-soft alpaca sweaters & tops, scarves, & more. We value high quality materials & craftsmanship for something you'll love.
   Updated: 2025-09-09T19:35:38Z
@@ -15076,16 +15076,16 @@
   Updated: 2025-10-16T11:15:46Z
   Total Products: 43
 - [Alicia Adams Alpaca | Alpaca Throw Blankets | Luxury Alpaca Throws](https://aliciaadamsalpaca.com/collections/decorative-throws): Discover our exquisite decorative alpaca throw blankets, crafted from 100% baby alpaca wool. Over 100 unique colors and patterns to complement any home style.
-  Updated: 2025-10-16T11:15:46Z
+  Updated: 2025-10-17T11:16:39Z
   Total Products: 38
 - [Luxury Alpaca Baby & Shower Gifts | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/shop-children-babies): Discover our collection of children’s alpaca apparel and accessories. Shop the ultimate selection of alpaca baby and shower gifts.
   Updated: 2025-10-10T11:13:46Z
   Total Products: 14
 - [Women's Designer Alpaca Accessories | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/accessories-for-her): Artisan-crafted alpaca women’s designer accessories. Elevate your signature style with unique hats, gloves, and wraps, providing an air of timeless elegance.
-  Updated: 2025-10-16T11:15:46Z
+  Updated: 2025-10-17T11:16:39Z
   Total Products: 41
 - [Luxury Alpaca Nursery & Shower Gifts | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/gifts-shower-nursery-gifts): Discover our luxurious alpaca nursery gifts. Shop heirloom-worthy, eco-friendly gifts perfect for any child's nursery.
-  Updated: 2025-10-16T11:15:46Z
+  Updated: 2025-10-17T11:16:39Z
   Total Products: 13
 - [Rainbow Collection for Him | Benefits GSLEN.org | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/rainbow-collection-for-her): Shop Women's rainbow products, luxury alpaca items at alicia adams alpaca. Earn rewards. 10% of all sales made of the Rainbow Collection will be donated to support GLSEN.org.
   Updated: 2025-08-29T20:33:17Z
@@ -15094,10 +15094,10 @@
   Updated: 2025-10-13T11:15:10Z
   Total Products: 21
 - [Luxury Alpaca Gifts for Women | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/gifts-for-her): Indulge in our curated assortment of special gifts for her. Make any holiday, birthday, or moment unforgettable with luxe alpaca apparel, accessories, and more.
-  Updated: 2025-10-16T11:15:46Z
+  Updated: 2025-10-17T11:16:39Z
   Total Products: 40
 - [alicia adams alpaca | gifts for home | alpaca home gifts](https://aliciaadamsalpaca.com/collections/gifts-for-home): Our gifts for home offer artisan-crafted baby alpaca pillows, throws and blankets, to luxurious accents. These alpaca goods are the perfect housewarming gift.
-  Updated: 2025-10-16T11:15:46Z
+  Updated: 2025-10-17T11:16:39Z
   Total Products: 63
 - [Luxury Alpaca Bedding Collections | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/home-living-premium-alpaca-bedding-shop): Browse luxury bedding arrangements featuring artisan-crafted alpaca bedding. Each look incorporates layered textures and patterns with a breathtaking result.
   Updated: 2025-10-14T11:16:32Z
@@ -15124,7 +15124,7 @@
   Updated: 2025-10-16T11:15:46Z
   Total Products: 22
 - [Shop All Products | Alpaca Home Decor | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/all): Alicia Adams Alpaca is known for a curated, elegant approach to all things alpaca - including alpaca home decor, apparel, and accessories. Free Shipping in US.
-  Updated: 2025-10-16T11:15:46Z
+  Updated: 2025-10-17T11:16:39Z
   Total Products: 305
 - [alicia adams alpaca | mazing collection | alpaca collection](https://aliciaadamsalpaca.com/collections/mazing-collection): With its unique southwestern design, our Mazing Collection is sure to offer an enticing and conversation pillows, capes, and more for your home or wardrobe.
   Updated: 2025-10-11T11:15:39Z
@@ -15205,10 +15205,10 @@
   Updated: 2025-10-14T11:16:32Z
   Total Products: 5
 - [Discountable Old](https://aliciaadamsalpaca.com/collections/discountable)
-  Updated: 2025-10-16T11:15:46Z
+  Updated: 2025-10-17T11:16:39Z
   Total Products: 188
 - [Alicia Products | Luxury Alpaca Products | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/alicia-adams-alpaca): Shop luxury alpaca products at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-10-16T11:15:46Z
+  Updated: 2025-10-17T11:16:39Z
   Total Products: 223
 - [Lounge Collection | alicia adams alpaca](https://aliciaadamsalpaca.com/collections/lounge-collection): Shop alicia adams alpaca's premium lounge collection—luxurious alpaca sweatshirts, sweatpants, hoodies, and more. Handcrafted for elegance, warmth, and sustainability. Shop now!
   Updated: 2025-09-28T11:17:26Z
@@ -15226,31 +15226,31 @@
   Updated: 2025-09-22T11:16:30Z
   Total Products: 6
 - [Sale for Home | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/sale-for-home): Explore our home sale selection. Elevate your home’s look with our luxurious alpaca throws, blankets, pillows, and more at a discounted price.
-  Updated: 2025-10-16T07:06:42Z
+  Updated: 2025-10-17T11:16:39Z
   Total Products: 13
 - [Meet the Family Collection](https://aliciaadamsalpaca.com/collections/meet-the-family-collection): Meet the Family Collection
   Updated: 2025-10-13T11:15:10Z
   Total Products: 6
 - [Sale | Luxury Alpaca Home Decor and Apparel | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/sale): Shop the latest reductions in alpaca home decor, apparel, and accessories from Alicia Adams Alpaca. Earn rewards on every purchase.
-  Updated: 2025-10-16T07:06:42Z
+  Updated: 2025-10-17T11:16:39Z
   Total Products: 50
 - [All Products - No Gift Wrap - DO NOT DELETE](https://aliciaadamsalpaca.com/collections/all-products-no-gift-wrap)
-  Updated: 2025-10-16T11:15:46Z
+  Updated: 2025-10-17T11:16:39Z
   Total Products: 253
 - [Southwest Inspired](https://aliciaadamsalpaca.com/collections/southwest-inspired)
-  Updated: 2025-10-16T07:06:42Z
+  Updated: 2025-10-17T11:16:39Z
   Total Products: 17
 - [Gifts for Him Under $100](https://aliciaadamsalpaca.com/collections/gifts-for-him-under-100)
   Updated: 2025-09-22T11:16:30Z
   Total Products: 7
 - [Low Inventory](https://aliciaadamsalpaca.com/collections/low-inventory)
-  Updated: 2025-10-16T18:52:53Z
+  Updated: 2025-10-17T11:16:39Z
   Total Products: 249
 - [Shop Women | Luxury Alpaca Apparel | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/shop-women-1)
-  Updated: 2025-10-16T11:15:46Z
+  Updated: 2025-10-17T11:16:39Z
   Total Products: 90
 - [Shop All Products | Luxury Alpaca Home Decor & Apparel | alicia adams alpaca](https://aliciaadamsalpaca.com/collections/all-products): Alicia Adams Alpaca is known for a curated, elegant approach to all things alpaca - including alpaca home decor, men, women and children's apparel, and accessories. Free Shipping in US.
-  Updated: 2025-10-16T11:15:46Z
+  Updated: 2025-10-17T11:16:39Z
   Total Products: 248
 - [Shop Men's Luxury Alpaca Apparel | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/shop-men): Discover our luxury men’s alpaca apparel, coats, sweaters, and loungewear made from the highest quality 100% baby alpaca wool for style and comfort year-round.
   Updated: 2025-10-16T11:15:46Z
@@ -15262,22 +15262,22 @@
   Updated: 2025-09-25T11:41:06Z
   Total Products: 46
 - [Discountable](https://aliciaadamsalpaca.com/collections/discountable2)
-  Updated: 2025-10-16T11:15:46Z
+  Updated: 2025-10-17T11:16:39Z
   Total Products: 219
 - [Coats & Capes Sale](https://aliciaadamsalpaca.com/collections/coat-and-cape-sale): Save up to 80% Off
   Updated: 2025-10-14T11:16:32Z
   Total Products: 9
 - [EasyGift All Products](https://aliciaadamsalpaca.com/collections/easygift-all-products): EasyGift all products collection
-  Updated: 2025-10-16T11:15:46Z
+  Updated: 2025-10-17T11:16:39Z
   Total Products: 341
 - [Featured Products | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/featured-products): Discover Alicia Adams Alpaca's premium featured collection—luxurious alpaca scarves, wraps, and accessories. Handcrafted for elegance, warmth, and sustainability. Shop now!
-  Updated: 2025-10-16T11:15:46Z
+  Updated: 2025-10-17T11:16:39Z
   Total Products: 23
 - [Gifts](https://aliciaadamsalpaca.com/collections/gifts): Indulge in our curated assortment of special gifts. Make any holiday, birthday, or moment unforgettable with luxe alpaca apparel, accessories, and more.
-  Updated: 2025-10-16T11:15:46Z
+  Updated: 2025-10-17T11:16:39Z
   Total Products: 27
 - [Accessories](https://aliciaadamsalpaca.com/collections/accessories)
-  Updated: 2025-10-16T11:15:46Z
+  Updated: 2025-10-17T11:16:39Z
   Total Products: 44
 - [Featured Sale](https://aliciaadamsalpaca.com/collections/featured-sale): BUY ONE GET ONE FREE - Mix and Match Add two or more products to your cart, get 1 free! Promo automatically applied at checkout.
   Updated: 2025-10-14T11:16:32Z
@@ -15289,7 +15289,7 @@
   Updated: 2025-10-13T11:15:10Z
   Total Products: 16
 - [Gifts For You](https://aliciaadamsalpaca.com/collections/gifts-for-you)
-  Updated: 2025-10-16T11:15:46Z
+  Updated: 2025-10-17T11:16:39Z
   Total Products: 13
 - [Women's Coats & Jackets](https://aliciaadamsalpaca.com/collections/womens-coats-jackets)
   Updated: 2025-10-14T11:16:32Z
@@ -15298,10 +15298,10 @@
   Updated: 2025-09-09T19:35:43Z
   Total Products: 4
 - [Color of the Month](https://aliciaadamsalpaca.com/collections/color-of-the-month)
-  Updated: 2025-10-16T11:15:46Z
+  Updated: 2025-10-17T11:16:39Z
   Total Products: 34
 - [Trade Exclusions](https://aliciaadamsalpaca.com/collections/trade-exclusions)
-  Updated: 2025-10-16T11:15:46Z
+  Updated: 2025-10-17T11:16:39Z
   Total Products: 2
 - [Wedding Gifts](https://aliciaadamsalpaca.com/collections/wedding-gifts)
   Updated: 2025-10-16T11:15:46Z
