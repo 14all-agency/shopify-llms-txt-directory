@@ -7,7 +7,7 @@
 - Currency: EUR
 - Timezone: Europe/Dublin
 - Created At: 2025-01-23T10:54:05Z
-- Updated At: 2025-10-16T20:00:35.555Z
+- Updated At: 2025-10-17T00:00:37.540Z
 
 ## Products
 
@@ -649,7 +649,7 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/12007.jpg?v=1760617991
   Price: €9.95 EUR
 - [Hard Spindle Backing Pad for Drill and Pneumatic Polisher](https://glasspolishshop.com/products/100mm-4-inch-spindle-backing-pad-rigid): Hard Spindle Backing Pad for Drill and Pneumatic Polisher. Hook and Loop fastener for easy use with any abrasive discs, polishing pads. Size 100mm (4inch).
-  Updated: 2025-10-16T10:03:18Z
+  Updated: 2025-10-16T21:59:44Z
   Vendor: Glass Polish
   Product Type: Drill Spindle Backing Pad
   Availability: Available
@@ -705,14 +705,14 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/12010.jpg?v=1760621011
   Price: €9.95 EUR
 - [Rigid Spindle Backing Pad for Drill and Pneumatic Polisher](https://glasspolishshop.com/products/115mm-4-5-inch-spindle-backing-pad-rigid): 115mm ( 4.5") Hard Density Backing Pad for Drill. Hook and Loop fastener for easy use with any abrasive discs, polishing pads.
-  Updated: 2025-10-16T10:47:34Z
+  Updated: 2025-10-16T22:07:57Z
   Vendor: Glass Polish
   Product Type: Drill Spindle Backing Pad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/11735.jpg?v=1760609294
   Price: €9.45 EUR
 - [Rigid Spindle Backing Pad For Drill and Pneumatic Polisher](https://glasspolishshop.com/products/125mm-5-inch-spindle-backing-pad-rigid): Rigid Spindle Backing Pad For Drill and Pneumatic Polisher. Hook and Loop fastener for easy use with any abrasive discs, polishing pads. Size 125mm (5 inch)
-  Updated: 2025-10-16T12:04:53Z
+  Updated: 2025-10-16T22:12:34Z
   Vendor: Glass Polish
   Product Type: Drill Spindle Backing Pad
   Availability: Available
@@ -2510,7 +2510,7 @@
     Availability: Available
     Price: €84.95 EUR
 - [DIY Glass Scratch Removal Kit 75mm – Deep Scratch Repair with Drill](https://glasspolishshop.com/products/diy-glass-scratch-removal-kit-75mm): 75mm glass scratch removal kit for deep scratch repairs on all glass types. Includes abrasives, pads, compound, and drill adaptor. Fast, easy, and effective.
-  Updated: 2025-10-16T18:26:35Z
+  Updated: 2025-10-16T22:54:41Z
   Vendor: Glass Polish
   Product Type: Glass Scratch Removal Kit
   Availability: Available
