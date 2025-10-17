@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2024-09-16T12:02:11Z
 - Contact Email: online@grownexpackaging.com
-- Updated At: 2025-10-16T20:00:37.748Z
+- Updated At: 2025-10-17T04:00:37.738Z
 
 ## Products
 
@@ -6044,7 +6044,7 @@
     Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/9_d8304f57-6bad-4e18-b91c-128f0624d38a.jpg?v=1760088461
     Price: ₹44,999.00 INR
 - [Polka Pink Basket Set – Festive & Return Gift Hampers](https://grownexpackaging.com/products/polka-pink-basket-setof3): Shop Polka Pink Basket Set of 3 – perfect for Karvachauth hampers, Navratri return gifts, prasad baskets, corporate hampers, and dry fruits baskets. Elegant & reusable.
-  Updated: 2025-10-11T15:47:50Z
+  Updated: 2025-10-16T20:10:51Z
   Vendor: Grownex Packaging
   Product Type: Basket & Tray
   Availability: Available
