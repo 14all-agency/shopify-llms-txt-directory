@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2019-08-25T03:49:02Z
 - Contact Email: sales@milvertons.com
-- Updated At: 2025-10-17T00:00:36.018Z
+- Updated At: 2025-10-17T08:00:36.719Z
 
 ## Products
 
@@ -2182,7 +2182,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/stylish-pencil-pants-for-women-533238.jpg?v=1715725535
     Price: $29.52 USD
 - [Boat Neck Lantern Sleeve Sweater Dress](https://milvertons.com/products/boat-neck-lantern-sleeve-sweater-dress): This Chic Boat Neck Lantern Sleeve Sweater Dress is perfect for any casual occasion.  Shop now at Milvertons and add a touch of sophistication to your wardrobe.
-  Updated: 2025-10-14T08:03:33Z
+  Updated: 2025-10-17T06:16:11Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Dresses - Day to Night
   Availability: Available
@@ -3596,7 +3596,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/italian-shoes-and-matching-bag-for-parties-african-style-753358.webp?v=1715725352
     Price: $119.18 USD
 - [Cap Sleeve Round Neck Knit Two-Piece Set - Top & Pants](https://milvertons.com/products/cap-sleeve-round-neck-knit-two-piece-set-top-pants): Introducing the Cap Sleeve Round Neck Knit Two-Piece Set, a stylish addition to your wardrobe. Shop now at Milvertons and add this chic set to your collection.
-  Updated: 2025-10-14T17:54:31Z
+  Updated: 2025-10-17T00:16:10Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Clothing - Outfit Sets
   Availability: Available
@@ -4862,7 +4862,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/ribbed-cardigan-with-feather-accents-and-gold-button-details-918504.jpg?v=1729021092
     Price: $84.00 USD
 - [Cropped Blazer with Fringe Trim and Lapel Collar Detail](https://milvertons.com/products/fringe-trim-lapel-collar-cropped-blazer): Cropped Blazer with Fringe Trim and Lapel Collar Detail. Unique and Stylish, this blazer adds a touch of sophistication and edge to any outfit. Order yours now
-  Updated: 2025-10-16T09:20:56Z
+  Updated: 2025-10-17T02:01:38Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Outerwear - Jackets
   Availability: Available
@@ -6040,7 +6040,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/trendy-square-toe-wedge-slippers-in-patent-leather-432734.jpg?v=1741499830
     Price: $105.44 USD
 - [Stylish Women's Belted Half Sleeve Cardi Dress - Lightweight](https://milvertons.com/products/womens-polyester-belted-half-sleeve-cardigan-dress): Stylish Women's Belted Half Sleeve Cardi Dress - the perfect combination of fashion and comfort, making it a versatile dress for any occasion. Order yours now!
-  Updated: 2025-10-14T08:12:11Z
+  Updated: 2025-10-17T02:29:20Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Dresses - Day to Night
   Availability: Available
@@ -10500,46 +10500,37 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/elegant-wedding-shoe-and-bag-set-with-handmade-flowers-8755363.webp?v=1759577646
     Price: $119.40 USD
 - [Hemp Wedge Heel Slippers – Casual Sandals for Women](https://milvertons.com/products/hemp-wedge-heel-slippers-casual-sandals-for-women): Hemp Wedge Heel Slippers, designed for women seeking comfy yet stylish shoes. The design features hollow detailing for breathability, ideal for everyday wear.
-  Updated: 2025-10-16T13:02:24Z
+  Updated: 2025-10-17T05:48:43Z
   Vendor: Milvertons
   Product Type: Women - Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/hemp-wedge-heel-slippers-casual-sandals-for-women-2400492.jpg?v=1760572035
   - [White / 35](https://milvertons.com/products/hemp-wedge-heel-slippers-casual-sandals-for-women?variant=47066985988334)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/hemp-wedge-heel-slippers-casual-sandals-for-women-8214266.jpg?v=1760572034
     Price: $28.72 USD
   - [White / 36](https://milvertons.com/products/hemp-wedge-heel-slippers-casual-sandals-for-women?variant=47066986021102)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/hemp-wedge-heel-slippers-casual-sandals-for-women-8214266.jpg?v=1760572034
     Price: $28.72 USD
   - [White / 37](https://milvertons.com/products/hemp-wedge-heel-slippers-casual-sandals-for-women?variant=47066986053870)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/hemp-wedge-heel-slippers-casual-sandals-for-women-8214266.jpg?v=1760572034
     Price: $28.72 USD
   - [White / 38](https://milvertons.com/products/hemp-wedge-heel-slippers-casual-sandals-for-women?variant=47066986086638)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/hemp-wedge-heel-slippers-casual-sandals-for-women-8214266.jpg?v=1760572034
     Price: $28.72 USD
   - [White / 39](https://milvertons.com/products/hemp-wedge-heel-slippers-casual-sandals-for-women?variant=47066986119406)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/hemp-wedge-heel-slippers-casual-sandals-for-women-8214266.jpg?v=1760572034
     Price: $28.72 USD
   - [White / 40](https://milvertons.com/products/hemp-wedge-heel-slippers-casual-sandals-for-women?variant=47066986152174)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/hemp-wedge-heel-slippers-casual-sandals-for-women-8214266.jpg?v=1760572034
     Price: $28.72 USD
   - [White / 41](https://milvertons.com/products/hemp-wedge-heel-slippers-casual-sandals-for-women?variant=47066986184942)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/hemp-wedge-heel-slippers-casual-sandals-for-women-8214266.jpg?v=1760572034
     Price: $28.72 USD
   - [White / 42](https://milvertons.com/products/hemp-wedge-heel-slippers-casual-sandals-for-women?variant=47066986217710)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/hemp-wedge-heel-slippers-casual-sandals-for-women-8214266.jpg?v=1760572034
     Price: $28.72 USD
   - [White / 43](https://milvertons.com/products/hemp-wedge-heel-slippers-casual-sandals-for-women?variant=47066986250478)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/hemp-wedge-heel-slippers-casual-sandals-for-women-8214266.jpg?v=1760572034
     Price: $28.72 USD
   - [Black / 35](https://milvertons.com/products/hemp-wedge-heel-slippers-casual-sandals-for-women?variant=47066985103598)
     Availability: Available
@@ -10722,7 +10713,7 @@
   Updated: 2025-04-04T00:42:58Z
   Total Products: 66
 - [Women's Clothing Collection](https://milvertons.com/collections/womens-clothing): Discover chic and stylish women's clothing at Milvertons! Browse our collection of fashionable apparel, from timeless classics to on-trend pieces. Shop now for the ultimate fashion experience!
-  Updated: 2025-10-16T05:26:16Z
+  Updated: 2025-10-17T05:25:39Z
   Total Products: 153
 - [Men's Clothing - Menswear, Trendy Ethnic designs and more](https://milvertons.com/collections/mens-clothing): Men's Clothing - Menswear, Trendy Ethnic designs and more. Shop our Men's Clothing Collection  at Milvertons today!
   Updated: 2025-10-06T18:28:51Z
@@ -10755,7 +10746,7 @@
   Updated: 2025-10-05T19:25:37Z
   Total Products: 7
 - [All Products](https://milvertons.com/collections/all): Explore our carefully curated collection of products - Women's Shoes and Bags, Women's Clothing, Men's Shoes, Men's Clothing and Clothing Accessories, and more!
-  Updated: 2025-10-16T05:26:04Z
+  Updated: 2025-10-17T05:25:28Z
   Total Products: 163
 - [Gift Cards for your loved ones](https://milvertons.com/collections/gift-cards): Gift Cards - Milvertons e-gift cards for your loved ones, no expiry date, redeemable at checkout.
   Updated: 2025-09-26T06:52:18Z
