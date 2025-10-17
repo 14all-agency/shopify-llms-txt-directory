@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-10-25T08:25:11Z
 - Contact Email: info@worldwidehifi.shop
-- Updated At: 2025-10-17T16:00:34.673Z
+- Updated At: 2025-10-17T20:00:34.599Z
 
 ## ABOUT
 WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage audio gear with insured worldwide shipping—buy here when you want premium brands for less, rare models in stock, real-item photos, highest quality guarantee and expert support.
@@ -84,7 +84,7 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_13e715a9-27fa-43bb-95d0-ae10f733ab3c.jpg?v=1742831157
   Price: 1.950,00 € EUR
 - [HAIGNER TAU Lautsprecher gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/haigner-tau-gebraucht-kaufen): HAIGNER TAU Lautsprecher gebraucht kaufen ✅ Geprüfte Lautsprecher mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-09-15T22:27:17Z
+  Updated: 2025-10-17T17:30:45Z
   Vendor: WorldWideHifi
   Product Type: 
   Availability: Available
@@ -1042,13 +1042,6 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_352ade71-ee2b-497e-8589-46fc7a09594c.jpg?v=1748017027
   Price: 149,00 € EUR
-- [Audioplan Musicable POWERCORD S Cleancord gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/audioplan-musicable-powercord-s-cleancord-gebraucht-kaufen): Audioplan Musicable POWERCORD S Cleancord gebraucht kaufen ✅ Hochwertiges Stromkabel mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-09-15T22:27:03Z
-  Vendor: WorldWideHifi
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_bf9a17f1-561d-403c-95b1-f0a3d12c1d45.jpg?v=1748016953
-  Price: 249,00 € EUR
 - [HMS In Concerto 2x 1,5m Lautsprecherkabel gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/hms-in-concerto-2x-1-5m-highend-lautsprecherkabel-mit-wbt-0645-gebraucht-kaufen): HMS In Concerto 2x 1,5m Lautsprecherkabel gebraucht kaufen ✅ Hochwertige Kabel für HiFi Systeme kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHiFi kaufen ✅
   Updated: 2025-09-15T22:27:18Z
   Vendor: WorldWideHifi
@@ -2289,8 +2282,8 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Updated: 2025-10-11T11:22:25Z
   Total Products: 24
 - [Verkaufte HiFi-Artikel](https://worldwidehifi.shop/collections/verkaufte-hifi-artikel)
-  Updated: 2025-10-15T11:20:54Z
-  Total Products: 112
+  Updated: 2025-10-17T18:11:30Z
+  Total Products: 113
 - [Highest End](https://worldwidehifi.shop/collections/highest-end)
   Updated: 2025-10-11T11:22:25Z
   Total Products: 22
