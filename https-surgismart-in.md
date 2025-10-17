@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-03-10T14:11:59Z
 - Contact Email: info@surgismart.in
-- Updated At: 2025-10-16T16:00:34.294Z
+- Updated At: 2025-10-17T08:00:35.247Z
 
 ## Products
 
@@ -940,7 +940,7 @@
     Availability: Available
     Price: ₹2,645.00 INR
 - [Buy ​United Medicare Silicone Elastomer Insole (I-02) - Surgismart](https://surgismart.in/products/i-02): Key Features:The soft silicone area in the calcaneal spur region provides comfort and lowers ankle impact loads. The full length provides an over-pressure relief over a larger surface. The blue insert relieves pressure on painful heel metatarsal areas. Insoles are made to fit into any shoe, you may easily use them with your preferred pair of shoes. Absorbs shocks and vibrations while distributing weight equally throughout the entire foot. Direction of use Place the insoles into your shoes and wear your shoes as casual. Make sure they are properly aligned with the shoes. Safety information Keep away from high temperatures and caustic liquids. To avoid any form of harm. Hand wash and air dry with any mild soap. Silicone elastomer insoles are high-quality insoles developed to provide your feet with better comfort and support. They are made of a soft, flexible, and long-lasting silicone elastomer substance.The goal of Silicone Elastomer Insoless is to relieve foot pain, discomfort, and fatigue caused by prolonged standing or walking. These insoles are made to relieve foot discomfort, distribute weight more evenly, and absorb shock and protect the feet from harm.Silicone insoles distribute and absorb shock forces that may cause damage or be uncomfortable. Designed to be used during athletic activities, for general comfort, and to relieve heel pain and minor rear foot damage.Wearing a silicone insole absorbs shock in the heel and metatarsal areas. It also aids in the preservation of the foots arch.The elastomer insoles are made of silicone material. The silicone is more comfortable for the feet.Sold by: Surgismart - Surgismart
-  Updated: 2025-10-13T11:20:18Z
+  Updated: 2025-10-16T18:28:06Z
   Vendor: United Medicare
   Product Type: Foot Support
   Availability: Available
