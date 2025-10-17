@@ -10,7 +10,7 @@
 - Contact Email: info@theblissfuldog.com
 - Contact Phone: 855-364-2547
 - Address: 50688 235th ave NW
-- Updated At: 2025-10-17T12:00:43.689Z
+- Updated At: 2025-10-17T16:00:44.241Z
 
 ## Products
 
@@ -1009,7 +1009,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/DOBIE_NOSE_COCONUT_OIL_TIN1.jpg?v=1631726949
     Price: $10.95 USD
 - [Dogo Argentino Nose Butter® All Natural Treatment for Dry, Rough Noses](https://theblissfuldog.com/products/dogo-argentino): Dogo Argentino Nose Butter All natural, handcrafted balms for your Dogo's rough, dry noses. In tins and tubes with Dogo Argentino labels. Free Shipping USA!
-  Updated: 2025-10-16T15:39:30Z
+  Updated: 2025-10-17T12:44:10Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
