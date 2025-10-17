@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-03-19T17:46:58Z
 - Contact Email: info@patundpatty.de
-- Updated At: 2025-10-17T12:00:36.745Z
+- Updated At: 2025-10-17T20:00:35.352Z
 
 ## Products
 
@@ -199,7 +199,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Gots-zertifiziertes-bio-kuschelkissen-esel-mit-inlett-handgemacht-fuer-babys-pat-und-patty.jpg?v=1751454300
     Price: 60,50 € EUR
 - [Bio Kuschelkissen Elefant Plüsch mit Spelzfüllung | PAT & PATTY](https://patundpatty.de/products/bio-kuschelkissen-elefant): Handgefertigtes Bio Kuschelkissen Elefant für Babys & Kinder. Nachhaltige GOTS-Baumwolle, mit Dinkel- oder Hirsespelzfüllung. Perfekt als Geschenk zur Geburt.
-  Updated: 2025-10-13T11:54:41Z
+  Updated: 2025-10-17T14:29:12Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -1428,7 +1428,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Schmusetuch-Wildschwein-PAT-und-PATTY-Naturtextil.jpg?v=1752566626
     Price: 32,50 € EUR
 - [Bio Schmusetuch Schwein Rosa weich, nachhaltig & handgemacht](https://patundpatty.de/products/bio-schmusetuch-schwein): Bio Schmusetuch Schwein in Rosa – weich, handgemacht, schadstofffrei und nachhaltig. Ideal für Babys und personalisierbar. Jetzt bei PAT & PATTY entdecken!
-  Updated: 2025-10-08T17:43:31Z
+  Updated: 2025-10-17T18:07:20Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -1965,7 +1965,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Waschbare-Bio-Baumwolle-Bastelwatte-GOTS-Kba-Naturf_llung-F_r-Spielzeug-Und-Bastelarbeiten-PAT-Und-PATTY.png?v=1752305383
     Price: 350,00 € EUR
 - [100 % Bio Schurwolle Kügelchen als Füllmaterial für Kissen](https://patundpatty.de/products/bio-schurwolle-fuellmaterial-wollkugelchen-kbt): Bio Schurwolle Kügelchen von PAT & PATTY: weich, atmungsaktiv, nachhaltig, waschbar und Made in Germany ideal zum Füllen von Kissen, Spielzeug & DIY-Projekten.
-  Updated: 2025-10-15T08:30:44Z
+  Updated: 2025-10-17T14:01:36Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -2124,7 +2124,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio_Kuscheltier_Alpaka-Lama_-_PAT_PATTY.jpg?v=1752052792
     Price: 34,95 € EUR
 - [Bio Kuscheltier Schwein gefertigt aus 100 % Bio-Baumwolle](https://patundpatty.de/products/bio-baumwolle-kuscheltier-klein-oder-xxl-schwein): Kuscheltier Schwein aus 100 % Bio-Baumwolle, weich gefüllt mit Maiswatte, waschbar und ideal für Babys & Kinder. Nachhaltig , weich & sicher. Jetzt kaufen!
-  Updated: 2025-09-26T19:19:54Z
+  Updated: 2025-10-17T18:07:21Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -2843,8 +2843,8 @@
   - [Nachhaltiges Bio Schmusetuch für Babys: Das Pat & Patty Bio Wildschwein aus Naturmaterialien als persönliches Geschenk mit Namen entdecken](https://patundpatty.de/blogs/news/nachhaltiges-bio-schmusetuch-fur-babys-das-pat-patty-bio-wildschwein-aus-naturmaterialien-als-personliches-geschenk-mit-namen-entdecken): Nachhaltiges Bio Schmusetuch für Babys: Das Pat & Patty Bio Wildschwein aus Naturmaterialien als persönliches Geschenk mit Namen entdecken
     Updated: 2025-10-10T10:06:19Z
     Author: Sharon Engel
-  - [Was ist kuschelfreundlich? Ein umfassendes Verständnis](https://patundpatty.de/blogs/news/was-ist-kuschelfreundlich): Erfahren Sie, was ist kuschelfreundlich und warum es wichtig ist. Eine umfassende Erklärung für Eltern und umweltbewusste Käufer.
-    Updated: 2025-10-11T04:56:06Z
+  - [Was ist kuschelfreundlich?](https://patundpatty.de/blogs/news/was-ist-kuschelfreundlich): Was ist kuschelfreundlich?
+    Updated: 2025-10-17T16:22:41Z
     Author: Sharon
     Tags: was ist kuschelfreundlich
   - [Was ist ein Montessori-Spielzeug? Verständlich erklärt](https://patundpatty.de/blogs/news/was-ist-ein-montessori-spielzeug-verstaendlich-erklaert): Entdecken Sie, was ein Montessori-Spielzeug ist, warum es wichtig ist und wie es die Entwicklung von Kindern fördert. Ein umfassender Überblick.
@@ -2866,8 +2866,8 @@
     Updated: 2025-10-15T04:09:26Z
     Author: Sharon
     Tags: arten schadstofffreier spielzeuge
-  - [Bio Wärmflasche Rabe: Entdecken Sie das nachhaltige Bio Schmusetuch für Babys von Pat & Patty aus Naturmaterialien](https://patundpatty.de/blogs/news/bio-warmflasche-rabe-entdecken-sie-das-nachhaltige-bio-schmusetuch-fur-babys-von-pat-patty-aus-naturmaterialien): Bio Wärmflasche Rabe: Entdecken Sie das nachhaltige Bio Schmusetuch für Babys von Pat & Patty aus Naturmaterialien
-    Updated: 2025-10-15T10:05:37Z
+  - [Bio Rabe Wärmflasche für Babys – nachhaltig](https://patundpatty.de/blogs/news/bio-warmflasche-rabe-entdecken-sie-das-nachhaltige-bio-schmusetuch-fur-babys-von-pat-patty-aus-naturmaterialien): Bio Rabe Wärmflasche für Babys – nachhaltig
+    Updated: 2025-10-17T16:53:21Z
     Author: Sharon Engel
   - [Gefüllte Kissen erklärt: Arten, Vorteile, Sicherheit](https://patundpatty.de/blogs/news/erklaerung-gefuellte-kissen-guide): Erklärung gefüllte Kissen: umfassender Leitfaden zu Füllmaterialien, Varianten, Anwendung für Babys, Sicherheitsaspekte und nachhaltige Kaufkriterien.
     Updated: 2025-10-16T04:32:04Z
@@ -2877,8 +2877,8 @@
     Updated: 2025-10-17T04:21:57Z
     Author: Sharon
     Tags: was ist tierwohl in der spielzeugherstellung
-  - [Bio Mini Lavendelkissen Fuchs als nachhaltiges Bio Schnuffeltuch für Dein Baby: 7 Gründe für einen beruhigenden Schlaf.](https://patundpatty.de/blogs/news/bio-mini-lavendelkissen-fuchs-als-nachhaltiges-bio-schnuffeltuch-fur-dein-baby-7-grunde-fur-einen-beruhigenden-schlaf): Bio Mini Lavendelkissen Fuchs als nachhaltiges Bio Schnuffeltuch für Dein Baby: 7 Gründe für einen beruhigenden Schlaf.
-    Updated: 2025-10-17T10:05:20Z
+  - [Bio Fuchs Lavendelkissen für Babys](https://patundpatty.de/blogs/news/bio-mini-lavendelkissen-fuchs-als-nachhaltiges-bio-schnuffeltuch-fur-dein-baby-7-grunde-fur-einen-beruhigenden-schlaf): Bio Fuchs Lavendelkissen für Babys
+    Updated: 2025-10-17T16:51:01Z
     Author: Sharon Engel
 
 ## Store Pages
