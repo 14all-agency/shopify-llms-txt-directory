@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-02-06T23:04:14Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-10-17T04:00:40.108Z
+- Updated At: 2025-10-17T16:00:42.467Z
 
 ## Products
 
@@ -2846,7 +2846,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Sprite Jacquard - Tablecloth - Teal exclusive at The Tablecloth Store](https://thetableclothstore.com/products/sprite-jacquard-tablecloth-teal-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Jacquard Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-06T20:54:17Z
+  Updated: 2025-10-17T07:26:33Z
   Vendor: The Tablecloth Store
   Product Type: Sprite Jacquard Fabric
   Availability: Available
