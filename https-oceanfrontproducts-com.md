@@ -6,7 +6,7 @@
 - Timezone: America/Denver
 - Created At: 2024-11-01T17:53:57Z
 - Contact Email: sglobalresorts@gmail.com
-- Updated At: 2025-10-17T04:00:32.614Z
+- Updated At: 2025-10-17T20:00:33.620Z
 
 ## Products
 
@@ -1272,7 +1272,7 @@
   Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/8743794040887841130_2048.jpg?v=1754880775
   Price: $68.98 USD
 - [Ugly Christmas Sweatshirt for Cozy Holiday Vibes](https://oceanfrontproducts.com/products/ugly-christmas-sweatshirt): This Ugly Christmas sweater sweatshirt provides a cozy and festive vibe, perfect for the holiday season. It is ideal for anyone looking for a comfortable and durable sweatshirt to wear during the colder months.
-  Updated: 2025-08-11T02:53:24Z
+  Updated: 2025-10-17T13:44:39Z
   Vendor: Printify
   Product Type: Sweatshirt
   Availability: Available
