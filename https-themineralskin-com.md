@@ -9,61 +9,61 @@
 - Created At: 2025-08-25T14:01:44Z
 - Contact Email: support@themineralskin.com
 - Address: 17 Heath Drive, London NW3 7SL, United Kingdom
-- Updated At: 2025-10-17T08:00:28.388Z
+- Updated At: 2025-10-17T20:00:29.674Z
 
 ## Products
 
 - [Icelandic Volcano Face & Body Scrub | Volcanic Sand Exfoliator for Glowing Skin](https://themineralskin.com/products/icelandic-volcano-face-body-scrub): Reveal smoother, radiant skin with the Icelandic Volcano Face & Body Scrub, enriched with volcanic sand, fruit AHAs, and antioxidant-rich berry extracts. Gently exfoliates dead cells, refines texture, and boosts glow. Vegan, natural formula.
-  Updated: 2025-10-15T06:52:50Z
+  Updated: 2025-10-17T17:22:00Z
   Vendor: The Mineral
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0918/9451/3992/files/icelandic-volcano-face-body-scrub-1968742.png?v=1757489617
   Price: $35.00 USD
 - [Botanic Blend Moisturizer: Hydrate Like a Pro for Glowing Skin](https://themineralskin.com/products/botanic-blend-moisturizer-1): Discover the ultimate hydration with our Botanic Blend Moisturizer. Infused with natural ingredients, it nourishes and revitalizes your skin for a healthy glow.
-  Updated: 2025-10-11T11:20:46Z
+  Updated: 2025-10-17T17:20:21Z
   Vendor: The Mineral
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0918/9451/3992/files/botanic-blend-moisturizer-3172770.png?v=1757489620
   Price: $37.00 USD
 - [Hair and Body Wash - Clean Harder, Feel Stronger with Botanic Formula](https://themineralskin.com/products/hair-body-botanic-wash): Experience the ultimate refreshment with our hair and body wash. Our botanic formula cleans harder and leaves you feeling stronger and revitalized. Perfect for daily use!
-  Updated: 2025-10-14T06:52:20Z
+  Updated: 2025-10-17T17:21:42Z
   Vendor: The Mineral
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0918/9451/3992/files/hair-body-botanic-wash-1266704.png?v=1757489623
   Price: $36.00 USD
 - [Botanic Mix Eye Cream | Natural Eye Care for Dark Circles & Puffiness](https://themineralskin.com/products/botanic-mix-eye-cream): Refresh tired eyes with Botanic Mix Eye Cream, a lightweight, fast-absorbing formula enriched with 1% CBD and multi-molecular hyaluronic acid to reduce dark circles, puffiness & fine lines. 100% natural & Ecocert certified.
-  Updated: 2025-10-15T06:51:20Z
+  Updated: 2025-10-17T17:20:56Z
   Vendor: The Mineral
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0918/9451/3992/files/botanic-mix-eye-cream-4658680.png?v=1757489618
   Price: $31.00 USD
 - [Botanic Purge Foam | Deep-Cleansing Mousse for Face & Pores](https://themineralskin.com/products/botanic-purge-foam): Purify your skin with Botanic Purge Foam, a fast-acting mousse cleanser that dissolves oil, removes impurities, unclogs pores, and leaves skin hydrated. 99% natural, ECOCERT certified, gentle yet effective for all skin types.
-  Updated: 2025-10-15T06:56:20Z
+  Updated: 2025-10-17T17:22:32Z
   Vendor: The Mineral
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0918/9451/3992/files/botanic-purge-foam-8322755.png?v=1757489620
   Price: $35.00 USD
 - [Caffeine Blend Infuser | Energizing Gel Booster for Skin & Eyes](https://themineralskin.com/products/caffeine-blend-infuser): Revitalize tired skin with the Caffeine Blend Infuser, a lightweight, oil-free gel booster enriched with 1% caffeine to reduce puffiness, brighten dark circles, and refresh facial skin naturally. 100% natural, vegan, Ecocert certified.
-  Updated: 2025-10-15T06:55:47Z
+  Updated: 2025-10-17T17:18:18Z
   Vendor: The Mineral
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0918/9451/3992/files/caffeine-blend-infuser-3176952.png?v=1757489620
   Price: $35.00 USD
 - [Botanic Blend Elixir | Botanical Face Oil Serum for Radiant Skin](https://themineralskin.com/products/botanic-blend-elixir): Illuminate your skin with Botanic Blend Elixir, a luxurious botanical oil-serum blend with nourishing plant oils and antioxidants to deeply hydrate, restore glow, and balance skin tone. Ideal for daily facial care.
-  Updated: 2025-10-15T06:54:16Z
+  Updated: 2025-10-17T17:17:40Z
   Vendor: The Mineral
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0918/9451/3992/files/botanic-beard-elixir-6459706.png?v=1757489619
   Price: $39.00 USD
 - [Botanic Age Regression Cream | Natural Anti-Aging Face Moisturizer](https://themineralskin.com/products/botanic-age-regression-cream): Discover the Botanic Age Regression Cream, a 100% natural, vegan, Ecocert-certified anti-aging face cream formulated with multi-molecular hyaluronic acid, marine actives & botanical antioxidants. Smooth wrinkles, boost hydration, and promote firmer, glowing skin.
-  Updated: 2025-10-15T06:53:40Z
+  Updated: 2025-10-17T17:16:44Z
   Vendor: The Mineral
   Product Type: 
   Availability: Available
@@ -105,7 +105,7 @@
   Updated: 2025-10-15T11:26:19Z
   Total Products: 5
 - [Best Selling Products](https://themineralskin.com/collections/best-selling-products)
-  Updated: 2025-10-15T11:26:19Z
+  Updated: 2025-10-17T17:14:06Z
   Total Products: 10
 
 ## Blogs
@@ -128,6 +128,9 @@
     Author: Michele Galli
   - [New Study Reveals Surprising Benefits of Mineral Skin Caffeine Infuser](https://themineralskin.com/blogs/news/new-study-reveals-surprising-insight-about-the-mineral-skin-caffeine-blend-infuser): New Study Reveals Surprising Benefits of Mineral Skin Caffeine Infuser
     Updated: 2025-10-15T07:11:26Z
+    Author: Michele Galli
+  - [Botanic Age Regression Cream Review | The Natural Anti-Aging Breakthrough from The Mineral Skin](https://themineralskin.com/blogs/news/botanic-age-regression-cream-a-new-era-in-natural-anti-aging): Botanic Age Regression Cream Review | The Natural Anti-Aging Breakthrough from The Mineral Skin
+    Updated: 2025-10-17T14:19:14Z
     Author: Michele Galli
 
 ## Store Pages
