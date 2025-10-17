@@ -6,7 +6,7 @@
 - Timezone: America/Denver
 - Created At: 2024-11-01T17:53:57Z
 - Contact Email: sglobalresorts@gmail.com
-- Updated At: 2025-10-15T20:00:33.663Z
+- Updated At: 2025-10-17T00:00:37.866Z
 
 ## Products
 
@@ -318,7 +318,7 @@
     Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/9879539490123785759_2048.jpg?v=1754880404
     Price: $39.33 USD
 - [Sunset Beach Tee for Ocean Lovers and Travel Enthusiasts](https://oceanfrontproducts.com/products/sunset-beach-tee): A T-Shirt featuring a beautiful sunset on the beach, perfect for those who love the ocean and peaceful vibes. This tee is ideal for casual outings, beach days, and summer vacations.
-  Updated: 2025-08-11T02:47:32Z
+  Updated: 2025-10-16T20:06:40Z
   Vendor: Oceanfront Products
   Product Type: T-Shirt
   Availability: Available
@@ -4587,7 +4587,7 @@
     Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/5742820874907739006_2048.jpg?v=1754882578
     Price: $54.23 USD
 - [Cute Girly Magical Unicorn Graphic Tee for Fun Lovers](https://oceanfrontproducts.com/products/t-shirt-cute-girly-magical-unicorn-graphic-tee): This Cute Girly magical unicorn T-Shirt exudes a playful and whimsical vibe, making it perfect for unicorn lovers and those who enjoy fun, quirky designs.
-  Updated: 2025-08-11T03:23:17Z
+  Updated: 2025-10-16T21:32:52Z
   Vendor: Oceanfront Products
   Product Type: T-Shirt
   Availability: Available
@@ -8099,7 +8099,7 @@
     Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/2849826525566223827_2048.jpg?v=1736700849
     Price: $49.23 USD
 - [E-ink Screen Phone Case Unlimited Screen Projection Personalized Phone Cover Battery Free New Designer Luxury Phone Case](https://oceanfrontproducts.com/products/e-ink-screen-phone-case-unlimited-screen-projection-personalized-phone-cover-battery-free-new-designer-luxury-phone-case-80613507320-ioctf): How to Use:Install the phone case on your device.Activate your phone's NFC feature and download the "INKZONE" APP.Choose your preferred image and project it onto the screen using the APP.Once the projection is complete, your setup is done.  Product Information:Color: black, gray, white，blue，pinkApplicable model: AppleMaterial: tpuColor classification: BlackPopular elements: MirrorStyle: Two-in-oneStyle: European and AmericanProcess: ImageNon-Apple brand products, compatible with iPhone models  Packing List:  Phone case * 1  Product Image:
-  Updated: 2025-08-11T03:31:11Z
+  Updated: 2025-10-16T05:40:44Z
   Vendor: Oceanfront Products
   Product Type: 
   Availability: Available
@@ -13860,7 +13860,7 @@
     Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/1707987828155301225_2048.jpg?v=1760484129
     Price: $56.62 USD
 - [Lofi Sunset Reflections Tee | Vaporwave Chill Aesthetic | Retro Dreamscape Shirt | Lofi Anime Art T-Shirt](https://oceanfrontproducts.com/products/lofi-sunset-reflections-tee-vaporwave-chill-aesthetic-retro-dreamscape-shirt-lofi-anime-art-t-shirt): Ease into calm vibes with this Lofi Sunset Reflections Tee — a nostalgic vaporwave-inspired design that captures that peaceful end-of-day moment. The artwork features a lone character gazing over misty mountains as the pastel sun sets behind soft clouds. With hues of blush pink, lavender, and tranquil teal, this design embodies the relaxing mood of late-night playlists and slow mornings. It’s the perfect piece for anyone who loves lofi beats, chill vibes, and aesthetic art — a wearable moment of peace in an overstimulated world. 🌅 Design Highlights Soft, dreamy anime-style character watching a pastel sunset Lofi & vaporwave aesthetic with nostalgic color tones Clean rectangular frame design for balance and focus Optimized for DTG printing with 300 DPI resolution Transparent background (centered 4500 × 5400 px) 👕 Fabric & Fit (Recommended: Bella + Canvas 3001 or Gildan 5000) 100 % soft cotton for everyday comfort Unisex classic fit — relaxed but flattering Lightweight (4.2 oz / yd²) and breathable Tear-away label & double-stitched durability Machine-washable — colors stay vibrant 💡 Perfect For Lofi & vaporwave fans 🎧 Anime and chill-music lovers Aesthetic streetwear brands Creators, gamers, and artists seeking peace-inspired fashion
-  Updated: 2025-10-15T12:56:59Z
+  Updated: 2025-10-16T01:08:35Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
