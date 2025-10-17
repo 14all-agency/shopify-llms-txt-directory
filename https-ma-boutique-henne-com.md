@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2018-01-12T21:20:39Z
 - Contact Email: contact@ma-boutique-henne.com
-- Updated At: 2025-10-16T12:00:37.875Z
+- Updated At: 2025-10-17T00:00:42.968Z
 
 ## Products
 
@@ -915,7 +915,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/files/soin-ombre-naturelle-200ml.png?v=1724147967
   Price: 32,50 € EUR
 - [Henné Brunette - ECOCERT](https://ma-boutique-henne.com/products/henne-brunette): brou de noix, henne brunette, henné, henna brown mayam elemental noce mallo, coque de la noix. poudre hyper fine, nuances de châtain, à marron, chocolat, brun. couvre cheveux blancs, henné, coloration chatain naturelle, katam, feuille, noyer, brune, bio, biologique, nature, coloration marron chocolat, brune,
-  Updated: 2025-10-13T07:42:08Z
+  Updated: 2025-10-16T14:04:22Z
   Vendor: Ma Boutique Henné
   Product Type: Poudres colorantes
   Availability: Available
