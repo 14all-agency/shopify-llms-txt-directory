@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2025-10-17T04:00:55.970Z
+- Updated At: 2025-10-17T08:00:51.243Z
 
 ## Products
 
@@ -497,7 +497,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Zip-Back-Ruched-Bodycon-Dress-Brinxx-Couture-1703.jpg?v=1739987724
     Price: $40.00 USD
 - [Pink Boat Neck Lantern Sleeve Sweater Dress - Brinxx Couture](https://www.brinxxcouture.com/products/pink-boat-neck-lantern-sleeve-sweater-dress): Unleash your feminine charm with our Pink Boat Neck Lantern Sleeve Sweater Dress! This stunning piece features a flattering boat neckline and chic lantern sleeves.
-  Updated: 2025-10-02T17:11:56Z
+  Updated: 2025-10-17T06:16:11Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -639,7 +639,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Puff-Sleeve-Shawl-Collar-Blazer-Brinxx-Couture-6013.jpg?v=1739988534
     Price: $54.00 USD
 - [Side Slit Drop Shoulder Sweatshirt - Brinxx Couture](https://www.brinxxcouture.com/products/side-slit-drop-shoulder-sweatshirt): Stay stylish while staying comfy with this chic Side Slit Drop Shoulder Sweatshirt. Featuring a unique design with a dramatic side slit, this cozy garment is perfect for everyday wear and special occasions. Its drop shoulder cut ensures maximum comfort and freedom of movement.
-  Updated: 2025-10-17T03:01:11Z
+  Updated: 2025-10-17T06:41:07Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -8460,7 +8460,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/High-Neck-Long-Sleeve-Ribbed-Top-Brinxx-Couture-6079_ae99505f-4811-4797-bf89-89c3a0f73de1.jpg?v=1736050169
     Price: $25.00 USD
 - [Distressed Raw Hem Denim Jacket - Brinxx Couture](https://www.brinxxcouture.com/products/distressed-raw-hem-denim-jacket): This distressed raw hem denim jacket is the perfect way to make a statement. With its distressed raw hem design, you'll look cool and effortless.
-  Updated: 2025-10-17T03:41:01Z
+  Updated: 2025-10-17T07:01:47Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -9496,7 +9496,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Gradient-Sports-Tank-and-Leggings-Set-Brinxx-Couture-5408.jpg?v=1709850856
     Price: $34.99 USD
 - [Snap Down Collared Winter Coat - Brinxx Couture](https://www.brinxxcouture.com/products/snap-down-collared-winter-coat): Stay warm and stylish in this Snap Down Collared Winter Coat. The high-quality fabric and unique snap closure ensures a weatherproof fit.
-  Updated: 2025-10-16T08:42:15Z
+  Updated: 2025-10-17T07:20:51Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -9852,7 +9852,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Open-Front-Ribbed-Hooded-Coat-Brinxx-Couture-7459.jpg?v=1709852117
     Price: $49.99 USD
 - [Zip-Up Collared Ribbed Jacket - Brinxx Couture](https://www.brinxxcouture.com/products/zip-up-collared-ribbed-jacket): This stylish zip-up collared ribbed jacket is perfect for keeping you warm and cozy in cold weather. Crafted from high-quality materials.
-  Updated: 2025-10-16T14:49:55Z
+  Updated: 2025-10-17T05:50:36Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -12159,7 +12159,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Heathered-Turtleneck-Mini-Sweater-Dress-Brinxx-Couture-1471.jpg?v=1709868845
     Price: $34.00 USD
 - [Ruched Surplice Long Sleeve Midi Dress - Brinxx Couture](https://www.brinxxcouture.com/products/ruched-bodycon-long-sleeve-midi-dress): This beautiful Ruched Surplice Long Sleeve Midi Dress will make you look and feel like a goddess. Its flattering and feminine silhouette, with ruched detailing.
-  Updated: 2025-10-13T08:42:42Z
+  Updated: 2025-10-17T07:01:16Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -15788,7 +15788,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/SO-PINK-BEAUTY-Faux-Mink-Eyelashes-5-Pairs-Brinxx-Couture-2894.jpg?v=1709883405
     Price: $15.00 USD
 - [SO PINK BEAUTY Mink Eyelashes 5 Pairs - Brinxx Couture](https://www.brinxxcouture.com/products/so-pink-beauty-mink-eyelashes): Enhance your natural beauty with SO PINK BEAUTY Mink Eyelashes. Made from high-quality mink fur, these 5 pairs of eyelashes will provide a soft and natural look.
-  Updated: 2025-10-01T22:32:32Z
+  Updated: 2025-10-17T05:17:06Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -22151,7 +22151,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Round-Neck-Long-Sleeve-Top-and-Pants-Lounge-Set-Brinxx-Couture-9593.jpg?v=1730296620
     Price: $45.00 USD
 - [Drawstring Long Sleeve Top and Shorts Lounge Set - Brinxx Couture](https://www.brinxxcouture.com/products/drawstring-long-sleeve-top-and-shorts-lounge-set): Experience ultimate comfort and style with our Drawstring Long Sleeve Top and Shorts Lounge Set. The drawstring design allows for a perfect fit.
-  Updated: 2025-10-16T08:41:15Z
+  Updated: 2025-10-17T07:41:41Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -23343,7 +23343,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Notch-Lapel-Woven-Coat-with-Side-Pockets-Brinxx-Couture-2936.jpg?v=1730297108
     Price: $40.00 USD
 - [Cable-Knit Round Neck Sweater Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress): Wrap yourself in cozy comfort and timeless style with our Cable-Knit Round Neck Sweater Dress! Made from soft, high-quality materials.
-  Updated: 2025-10-17T03:41:01Z
+  Updated: 2025-10-17T07:41:36Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -23393,7 +23393,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Cable-Knit-Round-Neck-Sweater-Dress-Brinxx-Couture-468.webp?v=1730299049
     Price: $49.99 USD
   - [Sage / XL](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress?variant=43432153907382)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Cable-Knit-Round-Neck-Sweater-Dress-Brinxx-Couture-468.webp?v=1730299049
     Price: $49.99 USD
   - [Taupe / S](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress?variant=43441276223670)
@@ -26003,7 +26003,7 @@
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/18K-Gold-Plated-Stainless-Steel-Stud-Earring-Brinxx-Couture-9396.jpg?v=1733888456
   Price: $15.00 USD
 - [Velvet Button Up Long Sleeve Shirt - Brinxx Couture](https://www.brinxxcouture.com/products/button-up-long-sleeve-shirt): Discover the versatility and style of our Velvet Button Up Long Sleeve Shirt! With its classic design and comfortable fit, this shirt is perfect for any occasion.
-  Updated: 2025-10-17T02:01:21Z
+  Updated: 2025-10-17T07:40:51Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -27378,7 +27378,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Zenana-Embroidered-City-Baseball-Cap-Brinxx-Couture-5030.jpg?v=1730301660
     Price: $15.99 USD
 - [Knee High Pointed Toe High Heel - Brinxx Couture](https://www.brinxxcouture.com/products/knee-high-pointed-toe-high-heel-with-fur-trim): Elevate any outfit with these stunning knee high pointed toe high heels! The luxurious fur trim adds a touch of glamour and elegance, with a pointed toe.
-  Updated: 2025-09-12T13:47:51Z
+  Updated: 2025-10-17T07:03:47Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -27388,19 +27388,19 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Heel-High-Leg-Boot-Large-Tube-Circumference-Pointed-Sleeve-Lace-Boots-Boots-Brinxx-Couture-7027.jpg?v=1730301665
     Price: $59.99 USD
   - [39 / Pink](https://www.brinxxcouture.com/products/knee-high-pointed-toe-high-heel-with-fur-trim?variant=43576385896630)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Heel-High-Leg-Boot-Large-Tube-Circumference-Pointed-Sleeve-Lace-Boots-Boots-Brinxx-Couture-7027.jpg?v=1730301665
     Price: $59.99 USD
   - [40 / Pink](https://www.brinxxcouture.com/products/knee-high-pointed-toe-high-heel-with-fur-trim?variant=43576385962166)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Heel-High-Leg-Boot-Large-Tube-Circumference-Pointed-Sleeve-Lace-Boots-Boots-Brinxx-Couture-7027.jpg?v=1730301665
     Price: $59.99 USD
   - [41 / Pink](https://www.brinxxcouture.com/products/knee-high-pointed-toe-high-heel-with-fur-trim?variant=43576385994934)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Heel-High-Leg-Boot-Large-Tube-Circumference-Pointed-Sleeve-Lace-Boots-Boots-Brinxx-Couture-7027.jpg?v=1730301665
     Price: $59.99 USD
   - [42 / Pink](https://www.brinxxcouture.com/products/knee-high-pointed-toe-high-heel-with-fur-trim?variant=43576386027702)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Heel-High-Leg-Boot-Large-Tube-Circumference-Pointed-Sleeve-Lace-Boots-Boots-Brinxx-Couture-7027.jpg?v=1730301665
     Price: $59.99 USD
   - [36 / Black](https://www.brinxxcouture.com/products/knee-high-pointed-toe-high-heel-with-fur-trim?variant=43576386093238)
