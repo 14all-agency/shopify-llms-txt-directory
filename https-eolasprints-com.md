@@ -10,7 +10,7 @@
 - Contact Email: support@eolasprints.com
 - Contact Phone: +34-942735955
 - Address: Parque Empresarial Besaya D14, Reocín 39538, Cantabria, Spain
-- Updated At: 2025-10-17T12:00:35.593Z
+- Updated At: 2025-10-17T20:00:34.802Z
 
 Welcome to Eolas Prints - Your Trusted 3D Printing & Digital Fabrication Partner
 
@@ -611,7 +611,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/petg-filament-spool-3d-printer-1-75-mm-250-g-natural-620.webp?v=1725009923
     Price: €147.02 EUR
 - [Tpu Flexible Filament 93a for 3d Printing](https://eolasprints.com/products/tpu-filament): Eolas Prints TPU Flex Filament 93A is a food-safe tpu flexible filament offering durability for printing flexible parts with a balance of strength and elasticity.
-  Updated: 2025-10-17T11:03:24Z
+  Updated: 2025-10-17T13:13:25Z
   Vendor: Eolas Prints
   Product Type: 3D Printer Filament
   Availability: Available
@@ -776,6 +776,24 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-93a-spool-bright-red-1-75-mm-1-kg-547.webp?v=1759097053
     Price: €34.90 EUR
+- [Tpu Transition Filament for 3d Printing](https://eolasprints.com/products/tpu-transition-filament): Eolas Prints TPU transition filament offers seamless multi-color blending for striking gradient effects. This durable, flexible TPU creates visually unique 3D prints.
+  Updated: 2025-10-17T13:14:06Z
+  Vendor: Eolas Prints
+  Product Type: 3D Printer Filament
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-transition-filament-spool-3d-printer-1-75-mm-250-g-710.webp?v=1725545341
+  - [1.75 mm / 250 G / Transition](https://eolasprints.com/products/tpu-transition-filament?variant=42324558348547)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-transition-filament-spool-3d-printer-1-75-mm-250-g-710.webp?v=1725545341
+    Price: €11.49 EUR
+  - [1.75 mm / 1 Kg / Transition](https://eolasprints.com/products/tpu-transition-filament?variant=42324558381315)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-transition-filament-spool-3d-printer-1-75-mm-250-g-710.webp?v=1725545341
+    Price: €22.50 EUR
+  - [2.85 mm / 1 Kg / Transition](https://eolasprints.com/products/tpu-transition-filament?variant=42324558446851)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-transition-filament-spool-3d-printer-1-75-mm-250-g-710.webp?v=1725545341
+    Price: €22.50 EUR
 - [Petg Transition Filament with Good Sunlight Resistance](https://eolasprints.com/products/petg-transition-filament): Eolas Prints PETG transition filament offers superior performance for 3D printing with improved thermal stability and good sunlight resistance for heat resistant parts.
   Updated: 2025-09-29T11:53:03Z
   Vendor: Eolas Prints
@@ -1548,7 +1566,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/xtool-f1-ultra-20w-fiber-diode-dual-laser-engraver-green-deluxe-860.webp?v=1759190232
     Price: €5,199.00 EUR
 - [Xtool F2 Ultra 60w Mopa 40w Diode Laser Engraver](https://eolasprints.com/products/xtool-f2-ultra-60w-mopa-40w-diode-dual-laser-engraver): The xTool F2 Ultra is a powerful dual laser engraver with a 60W MOPA fiber and 40W Diode laser, offering exceptional precision and speed on numerous materials.
-  Updated: 2025-10-17T11:59:46Z
+  Updated: 2025-10-17T12:32:38Z
   Vendor: xTOOL
   Product Type: Laser Engravers and Cutters
   Availability: Available
@@ -1793,7 +1811,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
 - [Shipping Policy and Local Pickup Faqs](https://eolasprints.com/pages/faqs): We process and ship orders daily from our stocked inventory. To ensure prompt delivery of your pla filament and other products, orders within Spain...
   Updated: 2025-10-11T01:07:23Z
 - [Industrial Grade 3d Printer Filament Spools](https://eolasprints.com/pages/large-3d-printer-filament-spool-for-industries): We manufacture and supply industrial-grade 3D printer filament for professional FDM applications. Our quality-controlled filament spools are engine...
-  Updated: 2025-10-11T01:07:43Z
+  Updated: 2025-10-17T19:46:27Z
 - [Expertos En Pla Filament Calidad y Servicio](https://eolasprints.com/pages/team): Our team is guided by the combined business and technical leadership of Tanuj Goswami, our CEO and CTO. This integrated approach ensures our strate...
   Updated: 2025-10-11T01:08:06Z
 - [Tpu Flex Filament 93a and Pla Customer Reviews](https://eolasprints.com/pages/reviews): Our customers consistently report high satisfaction, with 95% positive feedback across more than 150 reviews. Users from across Europe, including S...
@@ -1802,24 +1820,24 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   Updated: 2025-10-11T01:08:53Z
 - [Climate Commitment Supporting Carbon Removal](https://eolasprints.com/pages/climate-commitment): We recognize that every ecommerce delivery has a carbon footprint. Our climate commitment is to address this impact directly by funding innovative ...
   Updated: 2025-10-11T01:09:14Z
-- [Ups Express and Worldwide Saver Shipping Policy](https://eolasprints.com/pages/shipping-policy): We process and ship orders daily from our readily available stock. To ensure prompt dispatch, orders for Spain and Portugal should be placed before...
-  Updated: 2025-10-11T01:09:35Z
+- [Ups Express and Worldwide Saver Shipping Policy](https://eolasprints.com/pages/shipping-policy): When do you ship? We ship daily from stock. Orders placed after 1PM and 4PM on Fridays are shipped on Monday. Spain & Portugal Orders placed before...
+  Updated: 2025-10-17T19:37:51Z
 - [Medical Anatomical Models for Surgical Planning](https://eolasprints.com/pages/3d-printing-in-healthcare): 3D printing technology is revolutionizing the healthcare industry by enabling the creation of highly precise and patient-specific medical solutions...
   Updated: 2025-10-11T01:09:53Z
 - [Architectural 3d Printing Calidad y Servicio](https://eolasprints.com/pages/architectural-3d-printing): Architectural 3D printing offers a transformative approach to design visualization, enabling the production of physical models with exceptional det...
   Updated: 2025-10-11T01:10:20Z
 - [Getting Started with 3d Printing and Pla Filament](https://eolasprints.com/pages/get-started-with-3d-printing): Getting started with 3D printing, a key technology in additive manufacturing, is an exciting venture. This innovative process creates three dimensi...
   Updated: 2025-10-11T01:10:42Z
-- [Stl Gcode Models and Tools Calidad y Servicio](https://eolasprints.com/pages/3d-models): Discover a collection of high quality 3D models designed for enthusiasts and professionals. These files, available as stl gcode, are optimized for ...
-  Updated: 2025-10-11T01:11:09Z
+- [Stl Gcode Models and Tools Calidad y Servicio](https://eolasprints.com/pages/3d-models): Discover a collection of high quality 3D models designed for enthusiasts and professionals. The collection features unique items like the Eolas Din...
+  Updated: 2025-10-17T19:50:57Z
 - [Professional 3d Printing and Design Service](https://eolasprints.com/pages/3d-printing-service): Our professional printing services transform digital concepts into tangible objects, suitable for everything from detailed prototypes to functional...
   Updated: 2025-10-11T01:11:27Z
 - [Privacy Policy and Targeted Advertising Choices](https://eolasprints.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2025-10-11T01:11:52Z
 - [3d Printer Filament Spool Size Guide for Bambu Lab Ams](https://eolasprints.com/pages/size-guide-3d-printer-filament-spool): This size guide offers detailed specifications for our complete range of 3D printer filament. Understanding the physical dimensions of your printer...
-  Updated: 2025-10-11T01:12:14Z
+  Updated: 2025-10-17T19:42:22Z
 - [Eolas Prints Filaments Print Profiles](https://eolasprints.com/pages/print-profiles-for-eolas-prints-filaments): Achieve superior 3D printing results with our custom print profiles, expertly calibrated for Eolas Prints filaments. These profiles are meticulousl...
-  Updated: 2025-10-11T01:12:29Z
+  Updated: 2025-10-17T19:34:37Z
 
 ## Policies
 
