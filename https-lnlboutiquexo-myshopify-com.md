@@ -5,7 +5,7 @@
 - Currency: CAD
 - Timezone: America/Toronto
 - Created At: 2025-08-23T11:52:48Z
-- Updated At: 2025-10-17T04:00:30.678Z
+- Updated At: 2025-10-17T20:00:30.569Z
 
 ## Products
 
@@ -1354,6 +1354,76 @@
   - [Sand](https://lnlboutiquexo.myshopify.com/products/deliver-to-sweater?variant=53104511156534)
     Availability: Available
     Price: $35.00 CAD
+- [Showgirl Tshirt](https://lnlboutiquexo.myshopify.com/products/showgirl-tshirt): SIZING: * Unisex sizing; slightly larger than typical women's shirts and slightly smaller than typical men's shirts. *Most women find their typical size works best for a loose fit *For an oversized look, size up Easy measuring tip: Take your favorite sweatshirt or tee, lay it on a flat surface and measure the width (armpit to armpit) and length (top to bottom), then compare with our size chart in the image section. * For different colour or style please directly email me (lnlboutiquexo@gmail.com) CARE INSTRUCTIONS: -Machine wash, inside out on the gentle cycle. Lay flat to dry (or tumble dry on low) -Do not iron directly on graphic print. PROCESSING : -Your shirt is made to order, meaning we print it special just for you when your order is placed. Please allow 5-7 business days for us to print your tee. -Shipping time is 4-8 business days depending on the delivery destination. RETURNS AND EXCHANGES: Because the shirts are made to order we do not accept any returns or exchanges. Please double check your sizing and color choice carefully for errors.
+  Updated: 2025-10-17T15:27:00Z
+  Vendor: L&L Boutique 
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0944/0644/3318/files/92DA385C-19E0-455C-A852-CE3095088C06.jpg?v=1760541910
+  - [Pepper / S](https://lnlboutiquexo.myshopify.com/products/showgirl-tshirt?variant=53108889813302)
+    Availability: Available
+    Price: $30.00 CAD
+  - [Black / S](https://lnlboutiquexo.myshopify.com/products/showgirl-tshirt?variant=53108889911606)
+    Availability: Available
+    Price: $30.00 CAD
+  - [Pepper / M](https://lnlboutiquexo.myshopify.com/products/showgirl-tshirt?variant=53108890108214)
+    Availability: Available
+    Price: $30.00 CAD
+  - [Pepper / L](https://lnlboutiquexo.myshopify.com/products/showgirl-tshirt?variant=53108890140982)
+    Availability: Available
+    Price: $30.00 CAD
+  - [Pepper / XL](https://lnlboutiquexo.myshopify.com/products/showgirl-tshirt?variant=53108890173750)
+    Availability: Available
+    Price: $30.00 CAD
+  - [Black / M](https://lnlboutiquexo.myshopify.com/products/showgirl-tshirt?variant=53108890206518)
+    Availability: Available
+    Price: $30.00 CAD
+  - [Black / L](https://lnlboutiquexo.myshopify.com/products/showgirl-tshirt?variant=53108890239286)
+    Availability: Available
+    Price: $30.00 CAD
+  - [Black / XL](https://lnlboutiquexo.myshopify.com/products/showgirl-tshirt?variant=53108890272054)
+    Availability: Available
+    Price: $30.00 CAD
+- [Baby That’s Show Business Tshirt](https://lnlboutiquexo.myshopify.com/products/baby-that-s-show-business-tshirt): Comfort Colours Tshirt SIZING: * Unisex sizing; slightly larger than typical women's shirts and slightly smaller than typical men's shirts. *Most women find their typical size works best for a loose fit *For an oversized look, size up Easy measuring tip: Take your favorite sweatshirt or tee, lay it on a flat surface and measure the width (armpit to armpit) and length (top to bottom), then compare with our size chart in the image section. * For different colour or style please directly email me (lnlboutiquexo@gmail.com) CARE INSTRUCTIONS: -Machine wash, inside out on the gentle cycle. Lay flat to dry (or tumble dry on low) -Do not iron directly on graphic print. PROCESSING : -Your shirt is made to order, meaning we print it special just for you when your order is placed. Please allow 5-7 business days for us to print your tee. -Shipping time is 4-8 business days depending on the delivery destination. RETURNS AND EXCHANGES: Because the shirts are made to order we do not accept any returns or exchanges. Please double check your sizing and color choice carefully for errors.
+  Updated: 2025-10-17T15:25:49Z
+  Vendor: L&L Boutique 
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0944/0644/3318/files/46382038-B495-4775-86CA-6922C56E7113.jpg?v=1757033909
+  Price: $30.00 CAD
+- [Huntrix Kids T](https://lnlboutiquexo.myshopify.com/products/huntrix-kids-t): SIZING: * Unisex sizing; slightly larger than typical women's shirts and slightly smaller than typical men's shirts. *Most women find their typical size works best for a loose fit *For an oversized look, size up Easy measuring tip: Take your favorite sweatshirt or tee, lay it on a flat surface and measure the width (armpit to armpit) and length (top to bottom), then compare with our size chart in the image section. * For different colour or style please directly email me (lnlboutiquexo@gmail.com) CARE INSTRUCTIONS: -Machine wash, inside out on the gentle cycle. Lay flat to dry (or tumble dry on low) -Do not iron directly on graphic print. PROCESSING : -Your shirt is made to order, meaning we print it special just for you when your order is placed. Please allow 5-7 business days for us to print your tee. -Shipping time is 4-8 business days depending on the delivery destination. RETURNS AND EXCHANGES: Because the shirts are made to order we do not accept any returns or exchanges. Please double check your sizing and color choice carefully for errors.
+  Updated: 2025-10-17T15:39:25Z
+  Vendor: L&L Boutique 
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0944/0644/3318/files/521ED73C-3BEA-494D-88CE-8B69E80002EC.jpg?v=1760541909
+  - [White / Huntrix With Star](https://lnlboutiquexo.myshopify.com/products/huntrix-kids-t?variant=53108906164534)
+    Availability: Available
+    Price: $25.00 CAD
+  - [Pink / Huntrix With Star](https://lnlboutiquexo.myshopify.com/products/huntrix-kids-t?variant=53108906197302)
+    Availability: Available
+    Price: $25.00 CAD
+  - [Violet / Huntrix With Star](https://lnlboutiquexo.myshopify.com/products/huntrix-kids-t?variant=53108906230070)
+    Availability: Available
+    Price: $25.00 CAD
+  - [White / Huntrix Logo](https://lnlboutiquexo.myshopify.com/products/huntrix-kids-t?variant=53108909408566)
+    Availability: Available
+    Price: $25.00 CAD
+  - [White / Soda Pop](https://lnlboutiquexo.myshopify.com/products/huntrix-kids-t?variant=53108909441334)
+    Availability: Available
+    Price: $25.00 CAD
+  - [Pink / Huntrix Logo](https://lnlboutiquexo.myshopify.com/products/huntrix-kids-t?variant=53108909474102)
+    Availability: Available
+    Price: $25.00 CAD
+  - [Pink / Soda Pop](https://lnlboutiquexo.myshopify.com/products/huntrix-kids-t?variant=53108909506870)
+    Availability: Available
+    Price: $25.00 CAD
+  - [Violet / Huntrix Logo](https://lnlboutiquexo.myshopify.com/products/huntrix-kids-t?variant=53108909539638)
+    Availability: Available
+    Price: $25.00 CAD
+  - [Violet / Soda Pop](https://lnlboutiquexo.myshopify.com/products/huntrix-kids-t?variant=53108909572406)
+    Availability: Available
+    Price: $25.00 CAD
 
 ## Collections
 
@@ -1367,11 +1437,11 @@
   Updated: 2025-10-02T00:40:36Z
   Total Products: 8
 - [T-Shirts](https://lnlboutiquexo.myshopify.com/collections/tshirts)
-  Updated: 2025-10-16T14:51:15Z
-  Total Products: 11
+  Updated: 2025-10-17T15:39:15Z
+  Total Products: 14
 - [Holiday Collection](https://lnlboutiquexo.myshopify.com/collections/christmas)
-  Updated: 2025-10-16T15:10:47Z
-  Total Products: 26
+  Updated: 2025-10-17T15:39:15Z
+  Total Products: 27
 - [Bookish Collection](https://lnlboutiquexo.myshopify.com/collections/books)
   Updated: 2025-10-02T00:40:36Z
   Total Products: 19
@@ -1388,8 +1458,8 @@
   Updated: 2025-10-15T15:31:29Z
   Total Products: 1
 - [Music & Celebs](https://lnlboutiquexo.myshopify.com/collections/music-celebs)
-  Updated: 2025-10-15T15:38:17Z
-  Total Products: 3
+  Updated: 2025-10-17T15:39:15Z
+  Total Products: 6
 
 ## Store Pages
 
