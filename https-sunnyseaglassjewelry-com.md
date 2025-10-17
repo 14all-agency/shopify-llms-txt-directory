@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-08-22T04:17:36Z
 - Contact Email: Sunnymello810@gmail.com
-- Updated At: 2025-10-15T12:00:29.658Z
+- Updated At: 2025-10-17T00:00:34.720Z
 
 ## Products
 
@@ -2077,6 +2077,27 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/399c3ff9-il_fullxfull.7022686697_zv9u.jpg?v=1756000993
   Price: $22.95 USD
+- [Opal Necklace, Mom's Gift Necklace Sterling Silver,October Birthstone Necklace,Opal Bridal Necklace, Lab Created Opal Jewelry,](https://sunnyseaglassjewelry.com/products/opal-necklace-moms-gift-necklace-sterling-silver-october-birthstone-necklace-opal-bridal-necklace-lab-created-opal-jewelry): This listing includes the necklace only, featuring a dazzling teardrop-shaped synthetic opal pendant wrapped in .925 sterling silver wire. The hammered and forged pendant measures 2 inches tall and 7/8 inch wide, highlighting its intricate design and durability. It hangs on a sterling silver cable chain showcasing the opal’s vibrant, iridescent colors. Each pendant is handmade, so slight variations in shape and stone placement may occur. Inspired by the Tree of Life, this necklace symbolizes wisdom, strength, and protection. Arrives gift-boxed and ready to delight. Matching earrings are also available.
+  Updated: 2025-10-16T14:38:28Z
+  Vendor: My Store
+  Product Type: Wire wrapped necklace
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/4f227618-il_fullxfull.4474945619_2s4y.jpg?v=1756000998
+  - [17](https://sunnyseaglassjewelry.com/products/opal-necklace-moms-gift-necklace-sterling-silver-october-birthstone-necklace-opal-bridal-necklace-lab-created-opal-jewelry?variant=42904332501073)
+    Availability: Available
+    Price: $87.95 USD
+  - [18](https://sunnyseaglassjewelry.com/products/opal-necklace-moms-gift-necklace-sterling-silver-october-birthstone-necklace-opal-bridal-necklace-lab-created-opal-jewelry?variant=42904332533841)
+    Availability: Available
+    Price: $88.95 USD
+  - [19](https://sunnyseaglassjewelry.com/products/opal-necklace-moms-gift-necklace-sterling-silver-october-birthstone-necklace-opal-bridal-necklace-lab-created-opal-jewelry?variant=42904332566609)
+    Availability: Available
+    Price: $89.95 USD
+  - [20](https://sunnyseaglassjewelry.com/products/opal-necklace-moms-gift-necklace-sterling-silver-october-birthstone-necklace-opal-bridal-necklace-lab-created-opal-jewelry?variant=42904332599377)
+    Availability: Available
+    Price: $90.95 USD
+  - [22](https://sunnyseaglassjewelry.com/products/opal-necklace-moms-gift-necklace-sterling-silver-october-birthstone-necklace-opal-bridal-necklace-lab-created-opal-jewelry?variant=42904332632145)
+    Availability: Available
+    Price: $92.95 USD
 - [Sea Glass Necklace Beach Style Pendant with Sterling Silver Chain, Minimalist Design Ocean Light Weight Bohemian Necklace, Choose Colors](https://sunnyseaglassjewelry.com/products/sea-glass-necklace-beach-style-pendant-with-sterling-silver-chain-minimalist-design-ocean-light-weight-bohemian-necklace-choose-colors): Gorgeous shade of Blue !!! This is one of my collection: cultured Sea glass jewelry. The same soft finish as found in natural sea glass. These fun, colorful Necklace is carefully Wire Wrapped with .925 sterling silver wire & lobster clasp. This light weight sea glass necklace features a minimalist design that perfectly captures the beauty of the ocean, making it an ideal summer beach accessory. Handmade by me from .925 sterling silver with vibrant blue and light green sea glass pieces, this bohemian style pendant creates a natural ombre effect that's perfect for beach wear. ELEGANT SEA GLASS NECKLACE: A PIECE OF THE OCEAN FOR YOUR SUMMER STYLE * Lightweight sterling silver chain with freeform sea glass pendant featuring natural blue and light green ombre effect * Multiple chain length options available to suit your preferred styling * Minimalist design perfect for everyday wear or special beach occasions * Each piece is unique due to the natural variations in sea glass color and shape * Makes an excellent coastal-themed gift for someone who loves the beach and ocean. ◄ HOW TO ORDER ► 1. Input quantity (Default is 1) 2. Click the "Add to cart" button 3. Checkout using the "Proceed to checkout" button ◄ BACK TO SHOP ► 🛒 www.sunvdesigns.etsy.com ◄ FOLLOW US ON SOCIAL MEDIA ► * Instagram: sunvdesigns * Facebook: sunvdesigns * Pinterest: sunvdesigns ***Email me for any inquiries Thank you for visiting my shop!*Engraving service is not available.
   Updated: 2025-09-15T22:34:23Z
   Vendor: My Store
@@ -2174,6 +2195,162 @@
   - [Green drop earring / Gold finished](https://sunnyseaglassjewelry.com/products/ready-to-ship-in-1-to-2-days-christmas-tree-earrings-wired-christmas-earrings-swirled-christmas-tree-dangling-earrings-holiday-jewelry-1?variant=42904334958673)
     Availability: Available
     Price: $16.95 USD
+- [Swarovski Crystal Anklet/Bracelet, Swarovski Crystal Bracelets in  Sterling Silver, Crystal Bracelet, Crystal Anklets, Bridal Bracelet](https://sunnyseaglassjewelry.com/products/swarovski-crystal-anklet-bracelet-swarovski-crystal-bracelets-in-sterling-silver-crystal-bracelet-crystal-anklets-bridal-bracelet-1): This elegant Swarovski crystal anklet or bracelet adds sparkle to any look. Made with genuine Swarovski crystals and finished with a sterling silver lobster clasp, it’s perfect for daily wear or special occasions. Choose your size for a comfortable fit, with an adjustable extender for extra length. Each piece is carefully crafted and arrives gift-wrapped, ready to impress. Layer multiple for a stunning effect or wear alone as a delicate statement.
+  Updated: 2025-10-16T14:53:39Z
+  Vendor: My Store
+  Product Type: Wire Wrapped Bracelet/Anklet
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/45c04996-il_fullxfull.3219622507_ru7q.jpg?v=1756001001
+  - [5.5 / No.1 Pearl](https://sunnyseaglassjewelry.com/products/swarovski-crystal-anklet-bracelet-swarovski-crystal-bracelets-in-sterling-silver-crystal-bracelet-crystal-anklets-bridal-bracelet-1?variant=42904338104401)
+    Availability: Available
+    Price: $28.95 USD
+  - [5.5 / no.2 Clear AB](https://sunnyseaglassjewelry.com/products/swarovski-crystal-anklet-bracelet-swarovski-crystal-bracelets-in-sterling-silver-crystal-bracelet-crystal-anklets-bridal-bracelet-1?variant=42904338137169)
+    Availability: Available
+    Price: $28.95 USD
+  - [5.5 / No.3 White Opal AB2X](https://sunnyseaglassjewelry.com/products/swarovski-crystal-anklet-bracelet-swarovski-crystal-bracelets-in-sterling-silver-crystal-bracelet-crystal-anklets-bridal-bracelet-1?variant=42904338169937)
+    Availability: Available
+    Price: $28.95 USD
+  - [5.5 / No.4 Rose AB](https://sunnyseaglassjewelry.com/products/swarovski-crystal-anklet-bracelet-swarovski-crystal-bracelets-in-sterling-silver-crystal-bracelet-crystal-anklets-bridal-bracelet-1?variant=42904338202705)
+    Availability: Available
+    Price: $28.95 USD
+  - [5.5 / No.5 Lt.Topaz AB](https://sunnyseaglassjewelry.com/products/swarovski-crystal-anklet-bracelet-swarovski-crystal-bracelets-in-sterling-silver-crystal-bracelet-crystal-anklets-bridal-bracelet-1?variant=42904338235473)
+    Availability: Available
+    Price: $28.95 USD
+  - [5.5 / N.6 Lt. Green AB](https://sunnyseaglassjewelry.com/products/swarovski-crystal-anklet-bracelet-swarovski-crystal-bracelets-in-sterling-silver-crystal-bracelet-crystal-anklets-bridal-bracelet-1?variant=42904338268241)
+    Availability: Available
+    Price: $28.95 USD
+  - [5.5 / No.7 Mixed AB](https://sunnyseaglassjewelry.com/products/swarovski-crystal-anklet-bracelet-swarovski-crystal-bracelets-in-sterling-silver-crystal-bracelet-crystal-anklets-bridal-bracelet-1?variant=42904338301009)
+    Availability: Available
+    Price: $28.95 USD
+  - [5.5 / No.8 Zet black](https://sunnyseaglassjewelry.com/products/swarovski-crystal-anklet-bracelet-swarovski-crystal-bracelets-in-sterling-silver-crystal-bracelet-crystal-anklets-bridal-bracelet-1?variant=42904338333777)
+    Availability: Available
+    Price: $28.95 USD
+  - [6 / No.1 Pearl](https://sunnyseaglassjewelry.com/products/swarovski-crystal-anklet-bracelet-swarovski-crystal-bracelets-in-sterling-silver-crystal-bracelet-crystal-anklets-bridal-bracelet-1?variant=42904338366545)
+    Availability: Available
+    Price: $29.50 USD
+  - [6 / no.2 Clear AB](https://sunnyseaglassjewelry.com/products/swarovski-crystal-anklet-bracelet-swarovski-crystal-bracelets-in-sterling-silver-crystal-bracelet-crystal-anklets-bridal-bracelet-1?variant=42904338399313)
+    Availability: Available
+    Price: $29.50 USD
+  - [6 / No.3 White Opal AB2X](https://sunnyseaglassjewelry.com/products/swarovski-crystal-anklet-bracelet-swarovski-crystal-bracelets-in-sterling-silver-crystal-bracelet-crystal-anklets-bridal-bracelet-1?variant=42904338432081)
+    Availability: Available
+    Price: $29.50 USD
+  - [6 / No.4 Rose AB](https://sunnyseaglassjewelry.com/products/swarovski-crystal-anklet-bracelet-swarovski-crystal-bracelets-in-sterling-silver-crystal-bracelet-crystal-anklets-bridal-bracelet-1?variant=42904338464849)
+    Availability: Available
+    Price: $29.50 USD
+  - [6 / No.5 Lt.Topaz AB](https://sunnyseaglassjewelry.com/products/swarovski-crystal-anklet-bracelet-swarovski-crystal-bracelets-in-sterling-silver-crystal-bracelet-crystal-anklets-bridal-bracelet-1?variant=42904338497617)
+    Availability: Available
+    Price: $29.50 USD
+  - [6 / N.6 Lt. Green AB](https://sunnyseaglassjewelry.com/products/swarovski-crystal-anklet-bracelet-swarovski-crystal-bracelets-in-sterling-silver-crystal-bracelet-crystal-anklets-bridal-bracelet-1?variant=42904338530385)
+    Availability: Available
+    Price: $29.50 USD
+  - [6 / No.7 Mixed AB](https://sunnyseaglassjewelry.com/products/swarovski-crystal-anklet-bracelet-swarovski-crystal-bracelets-in-sterling-silver-crystal-bracelet-crystal-anklets-bridal-bracelet-1?variant=42904338563153)
+    Availability: Available
+    Price: $29.50 USD
+  - [6 / No.8 Zet black](https://sunnyseaglassjewelry.com/products/swarovski-crystal-anklet-bracelet-swarovski-crystal-bracelets-in-sterling-silver-crystal-bracelet-crystal-anklets-bridal-bracelet-1?variant=42904338595921)
+    Availability: Available
+    Price: $29.50 USD
+  - [6.5 / No.1 Pearl](https://sunnyseaglassjewelry.com/products/swarovski-crystal-anklet-bracelet-swarovski-crystal-bracelets-in-sterling-silver-crystal-bracelet-crystal-anklets-bridal-bracelet-1?variant=42904338628689)
+    Availability: Available
+    Price: $29.95 USD
+  - [6.5 / no.2 Clear AB](https://sunnyseaglassjewelry.com/products/swarovski-crystal-anklet-bracelet-swarovski-crystal-bracelets-in-sterling-silver-crystal-bracelet-crystal-anklets-bridal-bracelet-1?variant=42904338661457)
+    Availability: Available
+    Price: $29.95 USD
+  - [6.5 / No.3 White Opal AB2X](https://sunnyseaglassjewelry.com/products/swarovski-crystal-anklet-bracelet-swarovski-crystal-bracelets-in-sterling-silver-crystal-bracelet-crystal-anklets-bridal-bracelet-1?variant=42904338694225)
+    Availability: Available
+    Price: $29.95 USD
+  - [6.5 / No.4 Rose AB](https://sunnyseaglassjewelry.com/products/swarovski-crystal-anklet-bracelet-swarovski-crystal-bracelets-in-sterling-silver-crystal-bracelet-crystal-anklets-bridal-bracelet-1?variant=42904338726993)
+    Availability: Available
+    Price: $29.95 USD
+  - [6.5 / No.5 Lt.Topaz AB](https://sunnyseaglassjewelry.com/products/swarovski-crystal-anklet-bracelet-swarovski-crystal-bracelets-in-sterling-silver-crystal-bracelet-crystal-anklets-bridal-bracelet-1?variant=42904338759761)
+    Availability: Available
+    Price: $29.95 USD
+  - [6.5 / N.6 Lt. Green AB](https://sunnyseaglassjewelry.com/products/swarovski-crystal-anklet-bracelet-swarovski-crystal-bracelets-in-sterling-silver-crystal-bracelet-crystal-anklets-bridal-bracelet-1?variant=42904338792529)
+    Availability: Available
+    Price: $29.95 USD
+  - [6.5 / No.7 Mixed AB](https://sunnyseaglassjewelry.com/products/swarovski-crystal-anklet-bracelet-swarovski-crystal-bracelets-in-sterling-silver-crystal-bracelet-crystal-anklets-bridal-bracelet-1?variant=42904338825297)
+    Availability: Available
+    Price: $29.95 USD
+  - [6.5 / No.8 Zet black](https://sunnyseaglassjewelry.com/products/swarovski-crystal-anklet-bracelet-swarovski-crystal-bracelets-in-sterling-silver-crystal-bracelet-crystal-anklets-bridal-bracelet-1?variant=42904338858065)
+    Availability: Available
+    Price: $29.95 USD
+  - [7 / No.1 Pearl](https://sunnyseaglassjewelry.com/products/swarovski-crystal-anklet-bracelet-swarovski-crystal-bracelets-in-sterling-silver-crystal-bracelet-crystal-anklets-bridal-bracelet-1?variant=42904338890833)
+    Availability: Available
+    Price: $30.50 USD
+  - [7 / no.2 Clear AB](https://sunnyseaglassjewelry.com/products/swarovski-crystal-anklet-bracelet-swarovski-crystal-bracelets-in-sterling-silver-crystal-bracelet-crystal-anklets-bridal-bracelet-1?variant=42904338923601)
+    Availability: Available
+    Price: $30.50 USD
+  - [7 / No.3 White Opal AB2X](https://sunnyseaglassjewelry.com/products/swarovski-crystal-anklet-bracelet-swarovski-crystal-bracelets-in-sterling-silver-crystal-bracelet-crystal-anklets-bridal-bracelet-1?variant=42904338956369)
+    Availability: Available
+    Price: $30.50 USD
+  - [7 / No.4 Rose AB](https://sunnyseaglassjewelry.com/products/swarovski-crystal-anklet-bracelet-swarovski-crystal-bracelets-in-sterling-silver-crystal-bracelet-crystal-anklets-bridal-bracelet-1?variant=42904338989137)
+    Availability: Available
+    Price: $30.50 USD
+  - [7 / No.5 Lt.Topaz AB](https://sunnyseaglassjewelry.com/products/swarovski-crystal-anklet-bracelet-swarovski-crystal-bracelets-in-sterling-silver-crystal-bracelet-crystal-anklets-bridal-bracelet-1?variant=42904339021905)
+    Availability: Available
+    Price: $30.50 USD
+  - [7 / N.6 Lt. Green AB](https://sunnyseaglassjewelry.com/products/swarovski-crystal-anklet-bracelet-swarovski-crystal-bracelets-in-sterling-silver-crystal-bracelet-crystal-anklets-bridal-bracelet-1?variant=42904339054673)
+    Availability: Available
+    Price: $30.50 USD
+  - [7 / No.7 Mixed AB](https://sunnyseaglassjewelry.com/products/swarovski-crystal-anklet-bracelet-swarovski-crystal-bracelets-in-sterling-silver-crystal-bracelet-crystal-anklets-bridal-bracelet-1?variant=42904339087441)
+    Availability: Available
+    Price: $30.50 USD
+  - [7 / No.8 Zet black](https://sunnyseaglassjewelry.com/products/swarovski-crystal-anklet-bracelet-swarovski-crystal-bracelets-in-sterling-silver-crystal-bracelet-crystal-anklets-bridal-bracelet-1?variant=42904339120209)
+    Availability: Available
+    Price: $30.50 USD
+  - [7.5 / No.1 Pearl](https://sunnyseaglassjewelry.com/products/swarovski-crystal-anklet-bracelet-swarovski-crystal-bracelets-in-sterling-silver-crystal-bracelet-crystal-anklets-bridal-bracelet-1?variant=42904339152977)
+    Availability: Available
+    Price: $30.95 USD
+  - [7.5 / no.2 Clear AB](https://sunnyseaglassjewelry.com/products/swarovski-crystal-anklet-bracelet-swarovski-crystal-bracelets-in-sterling-silver-crystal-bracelet-crystal-anklets-bridal-bracelet-1?variant=42904339185745)
+    Availability: Available
+    Price: $30.95 USD
+  - [7.5 / No.3 White Opal AB2X](https://sunnyseaglassjewelry.com/products/swarovski-crystal-anklet-bracelet-swarovski-crystal-bracelets-in-sterling-silver-crystal-bracelet-crystal-anklets-bridal-bracelet-1?variant=42904339218513)
+    Availability: Available
+    Price: $30.95 USD
+  - [7.5 / No.4 Rose AB](https://sunnyseaglassjewelry.com/products/swarovski-crystal-anklet-bracelet-swarovski-crystal-bracelets-in-sterling-silver-crystal-bracelet-crystal-anklets-bridal-bracelet-1?variant=42904339251281)
+    Availability: Available
+    Price: $30.95 USD
+  - [7.5 / No.5 Lt.Topaz AB](https://sunnyseaglassjewelry.com/products/swarovski-crystal-anklet-bracelet-swarovski-crystal-bracelets-in-sterling-silver-crystal-bracelet-crystal-anklets-bridal-bracelet-1?variant=42904339284049)
+    Availability: Available
+    Price: $30.95 USD
+  - [7.5 / N.6 Lt. Green AB](https://sunnyseaglassjewelry.com/products/swarovski-crystal-anklet-bracelet-swarovski-crystal-bracelets-in-sterling-silver-crystal-bracelet-crystal-anklets-bridal-bracelet-1?variant=42904339316817)
+    Availability: Available
+    Price: $30.95 USD
+  - [7.5 / No.7 Mixed AB](https://sunnyseaglassjewelry.com/products/swarovski-crystal-anklet-bracelet-swarovski-crystal-bracelets-in-sterling-silver-crystal-bracelet-crystal-anklets-bridal-bracelet-1?variant=42904339349585)
+    Availability: Available
+    Price: $30.95 USD
+  - [7.5 / No.8 Zet black](https://sunnyseaglassjewelry.com/products/swarovski-crystal-anklet-bracelet-swarovski-crystal-bracelets-in-sterling-silver-crystal-bracelet-crystal-anklets-bridal-bracelet-1?variant=42904339382353)
+    Availability: Available
+    Price: $30.95 USD
+  - [8 / No.1 Pearl](https://sunnyseaglassjewelry.com/products/swarovski-crystal-anklet-bracelet-swarovski-crystal-bracelets-in-sterling-silver-crystal-bracelet-crystal-anklets-bridal-bracelet-1?variant=42904339415121)
+    Availability: Available
+    Price: $31.50 USD
+  - [8 / no.2 Clear AB](https://sunnyseaglassjewelry.com/products/swarovski-crystal-anklet-bracelet-swarovski-crystal-bracelets-in-sterling-silver-crystal-bracelet-crystal-anklets-bridal-bracelet-1?variant=42904339447889)
+    Availability: Available
+    Price: $31.50 USD
+  - [8 / No.3 White Opal AB2X](https://sunnyseaglassjewelry.com/products/swarovski-crystal-anklet-bracelet-swarovski-crystal-bracelets-in-sterling-silver-crystal-bracelet-crystal-anklets-bridal-bracelet-1?variant=42904339480657)
+    Availability: Available
+    Price: $31.50 USD
+  - [8 / No.4 Rose AB](https://sunnyseaglassjewelry.com/products/swarovski-crystal-anklet-bracelet-swarovski-crystal-bracelets-in-sterling-silver-crystal-bracelet-crystal-anklets-bridal-bracelet-1?variant=42904339513425)
+    Availability: Available
+    Price: $31.50 USD
+  - [8 / No.5 Lt.Topaz AB](https://sunnyseaglassjewelry.com/products/swarovski-crystal-anklet-bracelet-swarovski-crystal-bracelets-in-sterling-silver-crystal-bracelet-crystal-anklets-bridal-bracelet-1?variant=42904339546193)
+    Availability: Available
+    Price: $31.50 USD
+  - [8 / N.6 Lt. Green AB](https://sunnyseaglassjewelry.com/products/swarovski-crystal-anklet-bracelet-swarovski-crystal-bracelets-in-sterling-silver-crystal-bracelet-crystal-anklets-bridal-bracelet-1?variant=42904339578961)
+    Availability: Available
+    Price: $31.50 USD
+  - [8 / No.7 Mixed AB](https://sunnyseaglassjewelry.com/products/swarovski-crystal-anklet-bracelet-swarovski-crystal-bracelets-in-sterling-silver-crystal-bracelet-crystal-anklets-bridal-bracelet-1?variant=42904339611729)
+    Availability: Available
+    Price: $31.50 USD
+  - [8 / No.8 Zet black](https://sunnyseaglassjewelry.com/products/swarovski-crystal-anklet-bracelet-swarovski-crystal-bracelets-in-sterling-silver-crystal-bracelet-crystal-anklets-bridal-bracelet-1?variant=42904339644497)
+    Availability: Available
+    Price: $31.50 USD
+  - [8.5 / No.1 Pearl](https://sunnyseaglassjewelry.com/products/swarovski-crystal-anklet-bracelet-swarovski-crystal-bracelets-in-sterling-silver-crystal-bracelet-crystal-anklets-bridal-bracelet-1?variant=42904339677265)
+    Availability: Available
+    Price: $31.95 USD
+  - [8.5 / no.2 Clear AB](https://sunnyseaglassjewelry.com/products/swarovski-crystal-anklet-bracelet-swarovski-crystal-bracelets-in-sterling-silver-crystal-bracelet-crystal-anklets-bridal-bracelet-1?variant=42904339710033)
+    Availability: Available
+    Price: $31.95 USD
 - [Starfish Earrings in Sterling Silver, Beach Style Summer Jewelry, Summer Vibes Ocean Theme Opal Starfish  dangling Earrings, Opal Earrings](https://sunnyseaglassjewelry.com/products/starfish-earrings-in-sterling-silver-beach-style-summer-jewelry-summer-vibes-ocean-theme-opal-starfish-dangling-earrings-opal-earrings): Embrace the beachy vibe with these sterling silver dangle earrings featuring dazzling 12mm lab-created blue starfish opal charms. Simple yet elegant, they sparkle with a prismatic glow and dangle about 3/4 inch from sterling silver earwires, making them perfect for everyday wear or gifting to ocean lovers. Symbolizing protection, calm, and renewal, these earrings bring a touch of nature’s magic to your look. Packaged in a gift box, they offer a charming, nautical-inspired accessory that captures the essence of summer. Explore matching opal jewelry for a complete style.
   Updated: 2025-09-29T11:35:48Z
   Vendor: My Store
@@ -2517,6 +2694,27 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/42af3e05-il_fullxfull.7046775347_qcs6.jpg?v=1756001021
   Price: $25.95 USD
+- [Swarovski 6 mm Crystal Bracelet in Sterling Silver Clasp, April Birthday Bracelet, Wedding/Bridal Crystal Bracelet, Crystal Bracelet,](https://sunnyseaglassjewelry.com/products/swarovski-6-mm-crystal-bracelet-in-sterling-silver-clasp-april-birthday-bracelet-wedding-bridal-crystal-bracelet-crystal-bracelet): Experience the elegance of this stunning Swarovski 6 mm Crystal Clear AB bracelet, designed to catch every glimmer of light. Crafted with genuine Swarovski crystals, renowned for their exceptional sparkle and quality, this bracelet perfectly complements the matching necklace. Featuring faceted 6 mm crystals and a secure .925 sterling silver lobster clasp, it offers durability and timeless style. Select your preferred length from the options provided. All components are crafted from .925 sterling silver. Beautifully gift-wrapped, it makes an ideal present for birthdays, weddings, or special occasions. Have questions? Feel free to reach out anytime.
+  Updated: 2025-10-16T15:45:12Z
+  Vendor: My Store
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/54249b31-il_fullxfull.3225858952_a0bn.jpg?v=1756001021
+  - [5.5](https://sunnyseaglassjewelry.com/products/swarovski-6-mm-crystal-bracelet-in-sterling-silver-clasp-april-birthday-bracelet-wedding-bridal-crystal-bracelet-crystal-bracelet?variant=42904353144913)
+    Availability: Available
+    Price: $59.95 USD
+  - [6.0](https://sunnyseaglassjewelry.com/products/swarovski-6-mm-crystal-bracelet-in-sterling-silver-clasp-april-birthday-bracelet-wedding-bridal-crystal-bracelet-crystal-bracelet?variant=42904353177681)
+    Availability: Available
+    Price: $60.50 USD
+  - [6.5](https://sunnyseaglassjewelry.com/products/swarovski-6-mm-crystal-bracelet-in-sterling-silver-clasp-april-birthday-bracelet-wedding-bridal-crystal-bracelet-crystal-bracelet?variant=42904353210449)
+    Availability: Available
+    Price: $60.95 USD
+  - [7.0](https://sunnyseaglassjewelry.com/products/swarovski-6-mm-crystal-bracelet-in-sterling-silver-clasp-april-birthday-bracelet-wedding-bridal-crystal-bracelet-crystal-bracelet?variant=42904353243217)
+    Availability: Available
+    Price: $61.50 USD
+  - [7.5](https://sunnyseaglassjewelry.com/products/swarovski-6-mm-crystal-bracelet-in-sterling-silver-clasp-april-birthday-bracelet-wedding-bridal-crystal-bracelet-crystal-bracelet?variant=58285238026321)
+    Availability: Available
+    Price: $61.95 USD
 - [Sterling Silver S Hook Clasp Deerskin Lace Leather Deerskin Lace 3 mm(1/8") Width, Black, Brown, Turquoise Tan Leather, Made in USA,](https://sunnyseaglassjewelry.com/products/sterling-silver-s-hook-clasp-deerskin-lace-leather-deerskin-lace-3-mm1-8-width-black-brown-turquoise-tan-leather-made-in-usa): P.This deerskin leather lace is 3 mm wide, lightweight, and strong enough to hold light to medium pendants. Finished with handmade antiqued copper S-hook clasps, it offers a natural look with slight color variations. Perfect for necklaces, it requires gentle care like suede and fits inner bails over 6 mm. Please note, pendants are not included. Measure your neck carefully to choose the right length. Orders ship via USPS—please provide correct address details to avoid reshipping fees. Contact us with any questions or for custom lengths.
   Updated: 2025-10-04T15:58:29Z
   Vendor: My Store
@@ -2673,6 +2871,21 @@
   - [26 inch / No.5 Turquoise](https://sunnyseaglassjewelry.com/products/sterling-silver-s-hook-clasp-deerskin-lace-leather-deerskin-lace-3-mm1-8-width-black-brown-turquoise-tan-leather-made-in-usa?variant=42904358912081)
     Availability: Available
     Price: $23.49 USD
+- [Wire Wrapped Fire Agate Earrings, Orange Fire Agate Gemstone Earrings, Agate Herringbone Earrings in Copper, Fire Agate Copper Earrings,](https://sunnyseaglassjewelry.com/products/wire-wrapped-fire-agate-earrings-orange-fire-agate-gemstone-earrings-agate-herringbone-earrings-in-copper-fire-agate-copper-earrings): These fabulous earrings are hand wrapped with 10mm orange fire Agate gemstone using a warm copper wires in herringbone weave style. These are great earrings to wear anytime you want a look for casual or special occasions. Great Fall colors to go with your wardrobe. They dangle freely about 3/4 inch from the bottom of the antiqued copper french earwires. They are sure to become your favorite pair. -All elements of these earrings are lead- & nickel-free. Thank you for visiting my shop. Hope you find something that you like..... Any questions, please email me Need more? Let me know
+  Updated: 2025-10-16T15:37:42Z
+  Vendor: My Store
+  Product Type: Wire Wrapped Earrings
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/3388ba51-il_fullxfull.1401971053_8rfu.jpg?v=1756001021
+  - [Natural copper](https://sunnyseaglassjewelry.com/products/wire-wrapped-fire-agate-earrings-orange-fire-agate-gemstone-earrings-agate-herringbone-earrings-in-copper-fire-agate-copper-earrings?variant=42904354783313)
+    Availability: Available
+    Price: $22.95 USD
+  - [Gold Plated](https://sunnyseaglassjewelry.com/products/wire-wrapped-fire-agate-earrings-orange-fire-agate-gemstone-earrings-agate-herringbone-earrings-in-copper-fire-agate-copper-earrings?variant=42904354816081)
+    Availability: Available
+    Price: $22.95 USD
+  - [Sterling silver](https://sunnyseaglassjewelry.com/products/wire-wrapped-fire-agate-earrings-orange-fire-agate-gemstone-earrings-agate-herringbone-earrings-in-copper-fire-agate-copper-earrings?variant=42904354848849)
+    Availability: Available
+    Price: $27.95 USD
 - [Handmade Moonstone, Pearl & Opalite in Gold Long Dangle Earrings, Elegant Moonstone Long Earrings, June Birthstone Gift for Her](https://sunnyseaglassjewelry.com/products/handmade-moonstone-pearl-opalite-in-gold-long-dangle-earrings-elegant-moonstone-long-earrings-june-birthstone-gift-for-her): These handcrafted long gold dangle earrings showcase a beautiful mix of 5mm luminous moonstone, elegant freshwater pearls, and semi-transparent 12mm teardrop Opalite, all arranged to shimmer and move gracefully. Measuring 2-1/4 inches from the 18 KT finished French earwire, they are lightweight and comfortable for everyday wear. Perfect for special occasions or adding a subtle touch of elegance to any outfit, these earrings make a thoughtful gift for birthdays or anniversaries, especially for fans of boho chic and celestial styles. Custom length and bead options are available upon request.
   Updated: 2025-10-11T13:19:06Z
   Vendor: My Store
@@ -4339,35 +4552,38 @@
   Updated: 2025-09-15T22:34:06Z
   Total Products: 31
 - [Sea Glass Earrings](https://sunnyseaglassjewelry.com/collections/sea-glass-earrings)
-  Updated: 2025-10-11T01:45:38Z
+  Updated: 2025-10-16T03:06:45Z
   Total Products: 57
 - [Sea Glass Bracelets/Anklets](https://sunnyseaglassjewelry.com/collections/sea-glass-bracelets-anklets)
-  Updated: 2025-10-12T02:12:21Z
+  Updated: 2025-10-16T03:06:25Z
   Total Products: 10
 - [Wire Wrapped Earrings](https://sunnyseaglassjewelry.com/collections/sea-glass-jewlry)
-  Updated: 2025-10-13T19:34:31Z
-  Total Products: 28
+  Updated: 2025-10-16T03:37:35Z
+  Total Products: 29
 - [Wire Wrapped Necklace](https://sunnyseaglassjewelry.com/collections/wire-wrapped-necklace): Wire Wrapped Opal Necklace, sterling silver with chain, swirl design
-  Updated: 2025-10-11T01:32:56Z
-  Total Products: 31
-- [Pumpkin Earrings, Wire Wrapped Earrings](https://sunnyseaglassjewelry.com/collections/wire-wrapped-bracelet)
-  Updated: 2025-10-10T21:31:02Z
+  Updated: 2025-10-16T03:05:42Z
+  Total Products: 32
+- [Wire Wrapped Earrings](https://sunnyseaglassjewelry.com/collections/wire-wrapped-bracelet)
+  Updated: 2025-10-16T03:04:14Z
   Total Products: 7
 - [All Others](https://sunnyseaglassjewelry.com/collections/all-others)
   Updated: 2025-10-11T01:06:42Z
   Total Products: 5
 - [New Arrivals](https://sunnyseaglassjewelry.com/collections/new-arrivals)
-  Updated: 2025-10-13T19:31:11Z
-  Total Products: 14
+  Updated: 2025-10-16T03:38:49Z
+  Total Products: 15
 - [Wire Wrapped Bracelets](https://sunnyseaglassjewelry.com/collections/wire-wrapped-bracelet-1)
   Updated: 2025-10-13T19:34:31Z
   Total Products: 12
 - [HOLIDAY Jewelry](https://sunnyseaglassjewelry.com/collections/holiday-jewelry)
-  Updated: 2025-10-11T01:45:37Z
-  Total Products: 10
+  Updated: 2025-10-16T02:40:35Z
+  Total Products: 11
 - [Trending now](https://sunnyseaglassjewelry.com/collections/trending-now)
   Updated: 2025-10-11T01:42:24Z
   Total Products: 4
+- [Crystal  Jewelry](https://sunnyseaglassjewelry.com/collections/crystal-jewelry)
+  Updated: 2025-10-16T03:46:41Z
+  Total Products: 2
 
 ## Blogs
 
@@ -4384,8 +4600,8 @@
 
 ## Store Pages
 
-- [Contact](https://sunnyseaglassjewelry.com/pages/contact)
-  Updated: 2025-09-08T19:08:14Z
+- [Contact](https://sunnyseaglassjewelry.com/pages/contact): Return & Exchange Policy We want you to love your jewelry as much as we loved creating it. If for any reason you are not completely satisfied, here...
+  Updated: 2025-10-16T18:35:26Z
 - [Your privacy choices](https://sunnyseaglassjewelry.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2025-08-22T04:17:45Z
 - [Wire Wrapped Earrings](https://sunnyseaglassjewelry.com/pages/wire-wrapped-earrings): Imagine a world where elegance meets creativity, where each piece of jewelry tells a story of craftsmanship and passion. Wire wrapped earrings are ...
@@ -4394,10 +4610,10 @@
   Updated: 2025-09-02T20:36:06Z
 - [Wire Wrapped Bracelet](https://sunnyseaglassjewelry.com/pages/wire-wrapped-bracelet)
   Updated: 2025-09-02T20:37:08Z
-- [About](https://sunnyseaglassjewelry.com/pages/about)
-  Updated: 2025-09-08T19:08:02Z
-- [FAQ](https://sunnyseaglassjewelry.com/pages/faq)
-  Updated: 2025-09-08T19:07:55Z
+- [About](https://sunnyseaglassjewelry.com/pages/about): Welcome to Sunny Sea Glass Jewelry, where every piece captures the serene beauty of the ocean and the joy of endless summer days. Each design is ha...
+  Updated: 2025-10-16T18:27:48Z
+- [FAQ](https://sunnyseaglassjewelry.com/pages/faq): Q1: Are your pieces made from genuine sea glass?A: Yes! We use both genuine and lab-created sea glass, carefully selected for color, clarity, and u...
+  Updated: 2025-10-16T18:22:58Z
 
 ## Policies
 
@@ -4406,11 +4622,11 @@
 - [Shipping Policy](https://sunnyseaglassjewelry.com/policies/shipping-policy)
   Updated: 2025-08-29T17:50:34-04:00
 - [Refund Policy](https://sunnyseaglassjewelry.com/policies/refund-policy)
-  Updated: 2025-08-29T17:43:46-04:00
+  Updated: 2025-10-16T16:18:40-04:00
 - [Terms of Service](https://sunnyseaglassjewelry.com/policies/terms-of-service)
   Updated: 2025-08-29T17:46:39-04:00
 - [Contact Information](https://sunnyseaglassjewelry.com/policies/contact-information)
-  Updated: 2025-08-29T17:51:18-04:00
+  Updated: 2025-10-16T16:28:36-04:00
 
 ## Optional
 
