@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2023-03-22T10:49:51Z
 - Contact Email: onlineshop@lastradafashion.de
-- Updated At: 2025-10-17T04:00:51.629Z
+- Updated At: 2025-10-17T08:00:55.325Z
 
 La Strada is love for Italian Fashion. Our collections represents the latest fashion trends from Italy and is lovingly created and arranged for the modern fashionable woman who is looking for the newest trends, the best quality and best price. 
 
@@ -1076,7 +1076,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIyODQ4NTEuanBn.jpg?v=1740395416
     Price: 49,90 € EUR
 - [Strickpullover mit V-Ausschnitt](https://lastradafashion.de/products/strickpullover-mit-v-ausschnitt-1): Dieser Strickpullover ist ein gemütliches und modisches Kleidungsstück mit einem lockeren Schnitt, der viel Bewegungsfreiheit bietet. Die langen Ärmel sind ideal für kühlere Tage und sorgen dafür, dass Sie sich rundum behaglich fühlen. Der V-Ausschnitt verleiht dem Pullover eine elegante Note und sorgt dafür, dass er sowohl leger als auch schick getragen werden kann. Das Material ist weich und angenehm auf der Haut, was den Tragekomfort erhöht. Durch das moderne und zeitlose Aussehen, lässt sich der Pullover vielseitig kombinieren – egal, ob zu Jeans für einen lässigen Look oder zu einem Rock für etwas Eleganteres. Insgesamt ist dieser Strickpullover ein perfektes Stück, um jedem Outfit eine wohlige und stylische Note zu verleihen. MARKE - La Strada PASSFORM UND SCHNITT - One Size (von Größen 36 bis 42), Passgenauigkeit - Passgenau - normal geschnitten, lockerer Schnitt - V-Ausschnitt, langer Arm MATERIAL UND VERARBEITUNG - Muster: Unifarben - Materialmix: 60% Polyester, 40% Viskose - Materialqualität: leichtes Material, elastisches Material PFLEGEHINWEIS - Handwäsche, Nicht Trockner geeignet, Bügeln mit niedriger Temperatur (max. 110°C, kein Dampf), Bleichen nicht erlaubt, Nicht chemisch reinigen MODEL - Das Model ist 176cm groß und trägt Konfektionsgröße 36 bzw. S GrößeOne Size
-  Updated: 2025-10-14T11:12:55Z
+  Updated: 2025-10-17T07:57:05Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
@@ -1094,7 +1094,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTEwNzg0NDEuanBn_42ff2ae4-2386-48b9-9e89-62b217eddc8d.jpg?v=1739798583
     Price: 29,90 € EUR
   - [One Size / HELLBLAU](https://lastradafashion.de/products/strickpullover-mit-v-ausschnitt-1?variant=53229701529949)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIyODMzMzYuanBn_74d84efa-adfe-4536-9054-69695b38104a.jpg?v=1739798583
     Price: 29,90 € EUR
   - [One Size / HELLGRAU](https://lastradafashion.de/products/strickpullover-mit-v-ausschnitt-1?variant=53229701562717)
@@ -1142,7 +1142,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIyNzk0MjUuanBn_36faedfb-17df-4790-8c7b-cf822f15e1d7.jpg?v=1739798583
     Price: 29,90 € EUR
   - [One Size / GELB](https://lastradafashion.de/products/strickpullover-mit-v-ausschnitt-1?variant=55899993768285)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIyNzkzODQuanBn_7c745028-b3a1-4b88-b7b7-5464acdaa909.jpg?v=1739798583
     Price: 29,90 € EUR
   - [One Size / MINT](https://lastradafashion.de/products/strickpullover-mit-v-ausschnitt-1?variant=55899993801053)
@@ -1455,7 +1455,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIxMjk1OTkuanBn.jpg?v=1734618599
     Price: 25,00 € EUR
 - [Klassischer Strickpullover](https://lastradafashion.de/products/klassischer-strickpullover-2): Dieser Strickpullover ist ein gemütliches und modisches Kleidungsstück mit einem lockeren Schnitt, der viel Bewegungsfreiheit bietet. Die langen Ärmel sind ideal für kühlere Tage und sorgen dafür, dass Sie sich rundum behaglich fühlen. Der Rundhals-Ausschnitt verleiht dem Pullover eine elegante Note und sorgt dafür, dass er sowohl leger als auch schick getragen werden kann. Das Material ist weich und angenehm auf der Haut, was den Tragekomfort erhöht. Durch das moderne und zeitlose Aussehen, lässt sich der Pullover vielseitig kombinieren – egal, ob zu Jeans für einen lässigen Look oder zu einem Rock für etwas Eleganteres. Insgesamt ist dieser Strickpullover ein perfektes Stück, um jedem Outfit eine wohlige und stylische Note zu verleihen. MARKE - La Strada PASSFORM UND SCHNITT - One Size (von Größen 36 bis 42), Fällt der Größe entsprechend normal aus - normal geschnitten, gerader Schnitt - Rundhalsausschnitt, langer Arm, Feines Strickmuster MATERIAL UND VERARBEITUNG - Muster: Unifarben - Materialmix: 60% Polyester, 40% Viskose - Materialqualität: leichtes Material, elastisches Material PFLEGEHINWEIS - Handwäsche, Nicht Trockner geeignet, Bügeln mit niedriger Temperatur (max. 110°C, kein Dampf), Bleichen nicht erlaubt MODEL - Das Model ist 176cm groß und trägt Konfektionsgröße 36 bzw. S GrößeOne Size
-  Updated: 2025-10-16T09:40:45Z
+  Updated: 2025-10-17T07:11:24Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
@@ -1469,11 +1469,11 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIyNzk0MjUuanBn.jpg?v=1742375002
     Price: 29,90 € EUR
   - [One Size / GELB](https://lastradafashion.de/products/klassischer-strickpullover-2?variant=55903812059485)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIyNzk5MDYuanBn.jpg?v=1742375002
     Price: 29,90 € EUR
   - [One Size / HELLBLAU](https://lastradafashion.de/products/klassischer-strickpullover-2?variant=55903812092253)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIyNzk4OTUuanBn.jpg?v=1742375002
     Price: 29,90 € EUR
   - [One Size / HELLGRAU](https://lastradafashion.de/products/klassischer-strickpullover-2?variant=55903812125021)
