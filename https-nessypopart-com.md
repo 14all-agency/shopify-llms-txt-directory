@@ -6,7 +6,7 @@
 - Timezone: Australia/Melbourne
 - Created At: 2025-08-13T08:46:37Z
 - Contact Email: scott@nessypopart.com
-- Updated At: 2025-10-14T10:13:30.378Z
+- Updated At: 2025-10-17T00:00:33.287Z
 
 ## Products
 
@@ -32,26 +32,30 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-a-dogs-life-123-pets-framed-canvas-40x40cm.jpg?v=1755423862
     Price: $495.00 AUD
-- [A DOGS LIFE - Friends Forever](https://nessypopart.com/products/a-dogs-life-friends-forever): He points. We feel it. Love, pure and simple. In Friends Forever, our dog is looking up, proudly pointing to his two favorite stuffed animals. It’s a moment of joyful declaration: These are my friends. Ness captures the innocence and loyalty of a dog’s heart, where even plush companions are cherished with real devotion. The hand-lettered Friends Forever and heart seal the sentiment with warmth. Available in 40×40 cm and 100×100 cm Choose Framed or Rolled For anyone who’s ever loved without hesitation.
-  Updated: 2025-09-27T05:25:29Z
+- [A DOGS LIFE – Friends Forever | Original Pop Art Dog Portrait by Nessy](https://nessypopart.com/products/a-dogs-life-friends-forever): Giclée canvas print by Nessy Pop Art—celebrating loyalty and friendship in a vibrant 100×100 cm or 40x40 cm limited edition artwork.
+  Updated: 2025-10-15T17:30:16Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-a-dogs-life-friends-forever-pets-hero.jpg?v=1755422783
   - [100 x 100 cm / Framed](https://nessypopart.com/products/a-dogs-life-friends-forever?variant=46891313791128)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-a-dogs-life-friends-forever-pets-framed-canvas-100x100cm.jpg?v=1755422783
     Price: $1,295.00 AUD
   - [100 x 100 cm / Rolled](https://nessypopart.com/products/a-dogs-life-friends-forever?variant=46900584513688)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-a-dogs-life-friends-forever-pets-framed-canvas-100x100cm.jpg?v=1755422783
     Price: $995.00 AUD
   - [40 x 40 cm / Framed](https://nessypopart.com/products/a-dogs-life-friends-forever?variant=46891313856664)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-a-dogs-life-friends-forever-pets-framed-canvas-40x40cm.jpg?v=1755422783
     Price: $595.00 AUD
   - [40 x 40 cm / Rolled](https://nessypopart.com/products/a-dogs-life-friends-forever?variant=46900584546456)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-a-dogs-life-friends-forever-pets-framed-canvas-40x40cm.jpg?v=1755422783
     Price: $495.00 AUD
-- [A DOGS LIFE - Gig](https://nessypopart.com/products/a-dogs-life-gig): Fresh, fluffy, and barely holding it together. Gig... captures a dog fresh from the shower—towel wrapped, paw to mouth, giggling like he knows something you don’t. It’s a moment of pure, post-suds delight, where cleanliness meets comedy and Ness’s brushwork turns a private chuckle into public art. The expression is unmistakable: part bashful, part mischievous, all joy. Available in 40×40 cm and 100×100 cm Choose Framed or Rolled For those who believe that laughter is best served damp and wrapped in terry cloth.
-  Updated: 2025-09-27T05:25:29Z
+- [A DOGS LIFE – Gig | Giclée Limited Edition Dog Print on Canvas by Nessy](https://nessypopart.com/products/a-dogs-life-gig): Giclée canvas print by Nessy Pop Art—fresh from the bath, towel-wrapped, and giggling. A cheeky 100×100 cm dog portrait full of charm.
+  Updated: 2025-10-15T15:17:47Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -72,8 +76,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-a-dogs-life-gig-pets-framed-canvas-40x40cm.jpg?v=1755420899
     Price: $495.00 AUD
-- [A DOGS LIFE - Mmmm](https://nessypopart.com/products/a-dogs-life-mmm): One blade of grass. Infinite questions. In Mmmm, Ness captures a dog mid-chew on a single blade of grass—eyes lifted, brow furrowed, as if asking the universe: Is this all there is? Or maybe just Why does grass taste like Tuesday? It’s a moment of quiet inquiry, where the ordinary becomes profound and the chew becomes a question. Available in 40×40 cm and 100×100 cm Framed or Rolled For those who know that curiosity isn’t just for cats.
-  Updated: 2025-09-27T05:25:28Z
+- [A DOGS LIFE – Mmmm | Limited Edition Dog Print on Canvas by Nessy](https://nessypopart.com/products/a-dogs-life-mmm): Giclée canvas print by Nessy Pop Art—one blade of grass, infinite questions. A dog mid-chew, lost in cosmic contemplation.
+  Updated: 2025-10-15T15:31:57Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -94,8 +98,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-a-dogs-life-mmmm-pets-framed-canvas-40x40cm.jpg?v=1755418979
     Price: $495.00 AUD
-- [A DOGS LIFE - Pant](https://nessypopart.com/products/a-dogs-life-pant): Balance, bravado, and a hint of circus cool. Pant... isn’t about catching breath—it’s about catching eyes. This dog rides a unicycle with effortless poise, an apple perched perfectly atop his head. Ness’s brushwork turns whimsy into quiet confidence, celebrating the unexpected grace of a pup who knows how to perform under pressure. Available in 40×40 cm and 100×100 cm Choose Framed or Rolled For collectors who love a little surrealism with their canine charm.
-  Updated: 2025-09-27T05:25:28Z
+- [A DOGS LIFE – Pant | Limited Edition Dog Print on Canvas by Nessy](https://nessypopart.com/products/a-dogs-life-pant): Giclée canvas print by Nessy Pop Art—balance, bravado, and circus cool in a bold 100×100 cm  and 40x40 cm dog portrait
+  Updated: 2025-10-15T15:24:04Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -116,8 +120,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-a-dogs-life-pant-pets-framed-canvas-40x40cm.jpg?v=1755418179
     Price: $495.00 AUD
-- [A DOGS LIFE - Slurp](https://nessypopart.com/products/a-dogs-life-slurp): Refined thirst, canine style. Forget the bowl—this pup prefers a straw. Slurp... captures the quiet comedy of a dog sipping with unexpected elegance, tongue curled just so, eyes focused on the prize. Ness’s brushwork turns a simple act into a portrait of personality: playful, composed, and just a little cheeky. Available in 40×40 cm and 100×100 cm Choose Framed or Rolled For those who know that dogs aren’t just pets—they’re characters.
-  Updated: 2025-09-27T05:25:28Z
+- [A DOGS LIFE – Slurp | Limited Edition Dog Print on Canvas by Nessy](https://nessypopart.com/products/a-dogs-life-slurp): Giclée canvas print by Nessy Pop Art—celebrating loyalty and friendship in a vibrant 100×100 cm limited edition artwork.
+  Updated: 2025-10-15T14:59:24Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -463,7 +467,7 @@
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-hoodie-boy-may-the-force-be-with-you-emotive-pop-art-hero.jpg?v=1755347836
   Price: $495.00 AUD
 - [Hoodie Boy - Me](https://nessypopart.com/products/hoodie-boy-me): Original canvas art from Hoodie Boy series. “Me” reveals quiet strength and vulnerability through vivid acrylics and expressive form.
-  Updated: 2025-09-17T04:11:12Z
+  Updated: 2025-10-15T15:22:16Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -497,8 +501,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-hoodie-boy-peace-not-war-emotive-pop-art-hero.jpg?v=1755347557
   Price: $495.00 AUD
-- [Hoodie Boy - Pills or not](https://nessypopart.com/products/hoodie-boy-pills-or-not): This piece delves into the ambiguity of mental health management. Featuring Hoodie Boy caught in decision, Ness uses acrylic strokes to express compassion, frustration, and choice.
-  Updated: 2025-09-17T04:11:10Z
+- [Hoodie Boy – Pills or Not | Emotional Acrylic Portrait by Nessy Pop Art](https://nessypopart.com/products/hoodie-boy-pills-or-not): Hoodie Boy faces a quiet reckoning—Ness’s acrylic layers compassion, tension, and choice in a 15×15 cm emotional portrait.
+  Updated: 2025-10-15T15:00:20Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -519,7 +523,7 @@
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-hoodie-boy-speak-no-evil-emotive-pop-art-hero.jpg?v=1755347266
   Price: $495.00 AUD
 - [Hoodie Boy – Struggle | Original Pop Art Painting by Ness](https://nessypopart.com/products/hoodie-boy-struggle): Original pop art painting by Ness—Hoodie Boy confronts emotional struggle in vivid acrylic. A bold, expressive work exploring resilience and inner conflict.
-  Updated: 2025-09-27T05:25:27Z
+  Updated: 2025-10-15T15:25:45Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -571,8 +575,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-original-freddie-emotive-mixed-media-canvas-100x75cm-hero.jpg?v=1755251981
   Price: $1,795.00 AUD
-- [JETSONS - Astro & Judy](https://nessypopart.com/products/jetsons-astro-judy): Judy Jetson and Astro share a moment of pure animated joy in this pastel-hued tribute to space-age companionship. With Judy’s signature ponytail and pink ensemble, and Astro’s goofy grin and green collar, this piece captures the heart of futuristic family life—where even the dog has a box of toys labeled with his name. Set against a skyline of flying cars and bubble-domed buildings, it’s a celebration of loyalty, laughter, and the enduring charm of cartoon nostalgia.
-  Updated: 2025-09-27T05:25:27Z
+- [JETSONS – Astro & Judy | Limited Edition Pop Art by Nessy](https://nessypopart.com/products/jetsons-astro-judy): Giclée canvas print by Nessy Pop Art—Astro and Judy share a pastel-hued moment of space-age joy in 40x40 cm and 75×75 cm format.
+  Updated: 2025-10-15T03:04:43Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -585,8 +589,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-jetsons-astro-judy-cartoon-framed-canvas-75x75cm.jpg?v=1757766082
     Price: $1,295.00 AUD
-- [JETSONS - George & Jane](https://nessypopart.com/products/jetsons-george-jane): Mid-century optimism meets animated flair in this vibrant portrait of Jane and George Jetson—domestic royalty of the space-age suburbia. With George’s arms raised in gleeful exaggeration and Jane’s poised smile, this piece captures the playful choreography of futuristic family life. Framed by panoramic windows and a skyline of flying cars, it’s a celebration of love, levity, and the enduring charm of cartoon domesticity.
-  Updated: 2025-09-27T05:25:25Z
+- [JETSONS – George & Jane | Limited Edition Pop Art by Nessy](https://nessypopart.com/products/jetsons-george-jane): Giclée canvas print by Nessy Pop Art—mid-century optimism meets animated flair in a vibrant 40x40 cm or 75×75 cm portrait of George and Jane.
+  Updated: 2025-10-15T03:07:33Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -613,8 +617,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-jetsons-elroy-rosie-cartoon-framed-canvas-75x75cm.jpg?v=1757765074
     Price: $1,295.00 AUD
-- [JETSONS - Rosie Doubtfire](https://nessypopart.com/products/jetsons-rosie-doubtfire): Rosie the Robot meets Mrs. Doubtfire in this retro-futurist mashup that’s equal parts domestic diva and digital daydream. With feather duster in hand and a frilly headpiece perched proudly, she’s the chrome-hearted housekeeper of tomorrow—reimagined with a wink and a wig. Set against a Jetsonian skyline of flying cars and atomic-age optimism, this piece playfully blurs the line between caregiving and code.
-  Updated: 2025-09-27T05:25:25Z
+- [JETSONS – Rosie Doubtfire | Limited Edition Pop Art by Nessy](https://nessypopart.com/products/jetsons-rosie-doubtfire): Retro-futurist Giclée canvas print by Nessy Pop Art—Rosie the Robot meets Mrs. Doubtfire in a playful 40x40 cm and 75×75 cm mashup.
+  Updated: 2025-10-15T03:00:52Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -671,8 +675,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-pixels-pac-bomber-arcade-framed-canvas-75x75cm.jpg?v=1755412375
     Price: $995.00 AUD
-- [PIXEL - Super Chance](https://nessypopart.com/products/pixel-super-chance): Level up your luck. Super Chance is where pixelated power meets capitalist chaos. NessyART’s mashup of Monopoly and Super Mario Bros reimagines the game of life as a side-scrolling sprint through property, pipes, and peril. Whether you're chasing coins or dodging debt, this piece turns every roll of the dice into a pixel-perfect adventure. Limited Editions of 100 each 40x40cm or 75x75cm Rolled or Framed Canvas
-  Updated: 2025-09-27T05:25:24Z
+- [PIXEL – Super Chance | Giclée Limited Edition Pop Art by Nessy](https://nessypopart.com/products/pixel-super-chance): Giclée canvas print by Nessy Pop Art—Monopoly meets Mario in a pixel-powered mashup of luck and chaos.
+  Updated: 2025-10-15T07:10:51Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -787,8 +791,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-superheroes-dr-airedale-comic-framed-canvas-75x75cm.jpg?v=1755492383
     Price: $895.00 AUD
-- [SUPERHERO - Spiderdog](https://nessypopart.com/products/superhero-spiderdog-le): With great power comes great appetite. Spiderdog swings into the Superheroes Series with paws poised for action and spidey senses tuned to the faintest rustle of a treat bag. Agile, alert, and adorably food-motivated, this heroic hound proves that not all heroes wear capes—some just sniff out snacks with supernatural precision. This limited edition giclée on canvas captures Spiderdog mid-mission, balancing bravery with belly-driven instincts. Whether he’s scaling couch cushions or guarding the pantry, he’s a reminder that heroism can be both noble and delicious. Sizes: 40×40 cm or 75×75 cm Finish: Framed or Rolled Edition: Limited to 100
-  Updated: 2025-09-17T04:11:05Z
+- [SUPERHERO – Spiderdog | Framed Limited Edition Canvas Dog Print by Nessy](https://nessypopart.com/products/superhero-spiderdog-le): Giclée canvas print by Nessy Pop Art—Spiderdog swings into action with paws poised and senses tuned. Available in 40×40 or 75×75 cm.
+  Updated: 2025-10-15T23:15:32Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
