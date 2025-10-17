@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-06-23T16:52:36Z
 - Contact Email: customerservice@aliciaadamsalpaca.com
-- Updated At: 2025-10-16T20:00:39.737Z
+- Updated At: 2025-10-17T04:00:39.134Z
 
 ## Products
 
@@ -5319,7 +5319,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-spray_1.jpg?v=1749208121
     Price: $68.00 USD
 - [Buy Canyon Throw | Luxury Alpaca Throws | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/canyon-throw): Buy Canyon Throw, luxury alpaca Throws at alicia adams alpaca. Earn Rewards. Shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-10-16T18:51:40Z
+  Updated: 2025-10-17T01:42:33Z
   Vendor: alicia adams alpaca
   Product Type: Blankets & Throws
   Availability: Available
@@ -5332,10 +5332,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-01-12-02-CanyonThrow-Ivory-LightGrey-Beige-wood-web.jpg?v=1759498517
     Price: $150.00 USD
-  - [Navy / Dark Grey / Ivory](https://aliciaadamsalpaca.com/products/canyon-throw?variant=40826851000435)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-27-14-01-CanyonThrow-Navy-DarkGrey-Ivory-white-web.jpg?v=1759498517
-    Price: $150.00 USD
   - [Light Taupe / Tobacco / Shocking Pink](https://aliciaadamsalpaca.com/products/canyon-throw?variant=40826850836595)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-102-115-45-CanyonThrow-Taupe-Tobacco-ShockingPink-white-web.jpg?v=1759498517
@@ -5345,7 +5341,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-04-14-117-CanyonThrow-Taupe-DarkGrey-Paprika-white-web.jpg?v=1759498517
     Price: $150.00 USD
   - [Firecracker / Light Taupe / Dark Taupe](https://aliciaadamsalpaca.com/products/canyon-throw?variant=40258962784371)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-69-102-06-CanyonThrow-Firecracker-LightTaupe-DarkTaupe-white-web.jpg?v=1759498741
     Price: $150.00 USD
   - [Light Blue / Light Grey / Ivory](https://aliciaadamsalpaca.com/products/canyon-throw?variant=51655979991412)
@@ -5356,17 +5352,13 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-ah114-01-114-27_2.jpg?v=1759498517
     Price: $150.00 USD
+  - [Navy / Dark Grey / Ivory](https://aliciaadamsalpaca.com/products/canyon-throw?variant=40826851000435)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-27-14-01-CanyonThrow-Navy-DarkGrey-Ivory-white-web.jpg?v=1759498517
+    Price: $150.00 USD
   - [Denim Blue / Light Grey / Navy](https://aliciaadamsalpaca.com/products/canyon-throw?variant=51656650064244)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-114-12-27-CanyonThrow-DenimBlue-LightGrey-Navy-white-web.jpg?v=1759498517
-    Price: $150.00 USD
-  - [Navy](https://aliciaadamsalpaca.com/products/canyon-throw?variant=40826851033203)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114S-27-CanyonThrow-Navy-white-web.jpg?v=1759498517
-    Price: $150.00 USD
-  - [Forest Green](https://aliciaadamsalpaca.com/products/canyon-throw?variant=40826850738291)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114S-89-CanyonThrow-Hunter-white-web.jpg?v=1759498741
     Price: $150.00 USD
   - [Charcoal](https://aliciaadamsalpaca.com/products/canyon-throw?variant=40826850967667)
     Availability: Available
@@ -5384,17 +5376,25 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114S-49-CanyonThrow-Camel-white-web.jpg?v=1760461249
     Price: $150.00 USD
-  - [Charcoal / Cognac / Taupe](https://aliciaadamsalpaca.com/products/canyon-throw?variant=40826850771059)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-16-10-04-CanyonThrow-Charcoal-Cognac-Taupe-white-web.jpg?v=1760461249
+  - [Forest Green](https://aliciaadamsalpaca.com/products/canyon-throw?variant=40826850738291)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114S-89-CanyonThrow-Hunter-white-web.jpg?v=1759498741
     Price: $150.00 USD
   - [Forest Green / Charcoal / Light Taupe](https://aliciaadamsalpaca.com/products/canyon-throw?variant=53498047594868)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-89-16-102-CanyonThrow-Hunter-Charcoal-LightTaupe-white-web.jpg?v=1759498741
+    Price: $150.00 USD
+  - [Navy](https://aliciaadamsalpaca.com/products/canyon-throw?variant=40826851033203)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114S-27-CanyonThrow-Navy-white-web.jpg?v=1759498517
     Price: $150.00 USD
   - [Light Grey](https://aliciaadamsalpaca.com/products/canyon-throw?variant=40826850574451)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114S-12-CanyonThrow-LightGrey-white-web.jpg?v=1759498517
+    Price: $150.00 USD
+  - [Charcoal / Cognac / Taupe](https://aliciaadamsalpaca.com/products/canyon-throw?variant=40826850771059)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-16-10-04-CanyonThrow-Charcoal-Cognac-Taupe-white-web.jpg?v=1760461249
     Price: $150.00 USD
   - [Scarlet](https://aliciaadamsalpaca.com/products/canyon-throw?variant=40826850803827)
     Availability: Not Available
@@ -5409,7 +5409,7 @@
     Availability: Not Available
     Price: $150.00 USD
 - [Buy Reversible Hat | Luxury Alpaca Knit Hat | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/reversible-hat-for-women): buy reversible hat for women, luxury alpaca knit hat at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-10-16T13:29:19Z
+  Updated: 2025-10-17T01:46:43Z
   Vendor: alicia adams alpaca
   Product Type: Hats & Beanies
   Availability: Available
@@ -5431,7 +5431,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-aa280-203-04-reversiblehat-evergreen-taupe-flatwhite.jpg?v=1759498174
     Price: $165.00 USD
   - [Denim Blue / Charcoal](https://aliciaadamsalpaca.com/products/reversible-hat-for-women?variant=40345502908531)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-reversiblehat_deniumblue_charcoal_flatwhite.jpg?v=1759498174
     Price: $165.00 USD
 - [Buy Suri Wrap | Luxury Alpaca Wrap | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/suri-wrap): buy suri wrap, luxury alpaca wrap at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
@@ -12324,7 +12324,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-img_1273.jpg?v=1759490287
     Price: $145.00 USD
 - [Buy Gift Wrap | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/gift-wrap): buy gift wrap, luxury alpaca wrapin at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-10-15T13:31:33Z
+  Updated: 2025-10-16T22:08:17Z
   Vendor: wrapin
   Product Type: wrapin
   Availability: Available
