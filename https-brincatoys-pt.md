@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-10-17T04:01:09.513Z
+- Updated At: 2025-10-17T08:01:10.682Z
 
 ## Products
 
@@ -13342,7 +13342,7 @@ Figura com aproximadamente 10,8 cm.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/brinquedos-da-patrulha-pata-the-mighty-movie-zuma-774301224-0778988486498-patrulha-pata-1178697382.webp?v=1752801007
   Price: 26,50 € EUR
 - [LEGO Star Wars 75364 - New Republic E-Wing vs. Starfighter](https://brincatoys.pt/products/lego-star-wars-75364-republic-e-wing-vs-starfighter): Liberte a criatividade e a paixão com o Lego Star Wars 75364. Construa o New Republic E-Wing e o Starfighter de Shin Hati para aventuras épicas.
-  Updated: 2025-10-13T06:22:03Z
+  Updated: 2025-10-17T06:05:15Z
   Vendor: LEGO
   Product Type: + 9 anos
   Availability: Available
