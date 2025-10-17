@@ -10,7 +10,7 @@
 - Contact Email: info@theblissfuldog.com
 - Contact Phone: 855-364-2547
 - Address: 50688 235th ave NW
-- Updated At: 2025-10-17T00:00:42.045Z
+- Updated At: 2025-10-17T04:00:42.944Z
 
 ## Products
 
@@ -15681,7 +15681,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/DDB_COMBO_BFFW_2023copy.jpg?v=1693750979
     Price: $35.95 USD
 - [Blissfully Fresh™ English Toy Spaniel Face Wash For Fresh Dogs](https://theblissfuldog.com/products/english-toy-spaniel-fresh-face-wash): Blissfully Fresh™ English Toy Spaniel Face Wash cleans & refreshes the messiest English Toy Spaniel face for cuddles. Use as directed for sweet ETS kisses!
-  Updated: 2025-10-16T15:41:36Z
+  Updated: 2025-10-17T00:17:34Z
   Vendor: The Blissful Dog® Inc.
   Product Type: FACE WASH
   Availability: Available
