@@ -7,7 +7,7 @@
 - Currency: EUR
 - Timezone: Europe/Dublin
 - Created At: 2025-01-23T10:54:05Z
-- Updated At: 2025-10-17T00:00:37.540Z
+- Updated At: 2025-10-17T04:00:34.655Z
 
 ## Products
 
@@ -635,14 +635,14 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/12004.jpg?v=1760540567
   Price: €9.95 EUR
 - [Glass Polish Spindle Backer 12015](https://glasspolishshop.com/products/75mm-3-inch-spindle-pad-hard): High Performance Backing Plate  for use with any electric drill. Hook and Loop fastener for easy use with any abrasive discs, polishing pads or detailing foams.
-  Updated: 2025-10-16T13:49:16Z
+  Updated: 2025-10-17T01:49:24Z
   Vendor: Glass Polish
   Product Type: Drill Spindle Backing Pad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/12015.jpg?v=1760622491
   Price: €9.95 EUR
 - [Glass Polish Spindle Backer 12007](https://glasspolishshop.com/products/75mm-3-inch-spindle-pad-hook-and-loop-blue-foam-medium): High Performance Backing Plate  for use with any electric drill. Hook and Loop fastener for easy use with any abrasive discs, polishing pads or detailing foams.
-  Updated: 2025-10-16T13:24:58Z
+  Updated: 2025-10-17T00:34:33Z
   Vendor: Glass Polish
   Product Type: Drill Spindle Backing Pad
   Availability: Available
@@ -656,49 +656,49 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/11734.jpg?v=1760608992
   Price: €8.95 EUR
 - [Glass Polish Spindle Backer 12014](https://glasspolishshop.com/products/50mm-2-inch-spindle-pad-hard): High Performance Backing Plate  for use with any electric drill. Hook and Loop fastener for easy use with any abrasive discs, polishing pads or detailing foams.
-  Updated: 2025-10-16T13:38:35Z
+  Updated: 2025-10-17T01:38:38Z
   Vendor: Glass Polish
   Product Type: Drill Spindle Backing Pad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/12014.jpg?v=1760621858
   Price: €8.95 EUR
 - [Glass Polish Spindle Backer 12006](https://glasspolishshop.com/products/50mm-2-inch-spindle-pad-hook-and-loop-blue-foam-medium): High Performance Backing Plate  for use with any electric drill. Hook and Loop fastener for easy use with any abrasive discs, polishing pads or detailing foams.
-  Updated: 2025-10-16T13:24:48Z
+  Updated: 2025-10-17T00:32:45Z
   Vendor: Glass Polish
   Product Type: Drill Spindle Backing Pad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/12006.jpg?v=1760617936
   Price: €8.95 EUR
 - [Glass Polish Spindle Backer 12009](https://glasspolishshop.com/products/50mm-2-inch-spindle-pad-hook-and-loop-yellow-foam-soft): High Performance Backing Plate  for use with any electric drill. Hook and Loop fastener for easy use with any abrasive discs, polishing pads or detailing foams.
-  Updated: 2025-10-16T13:18:25Z
+  Updated: 2025-10-17T01:18:32Z
   Vendor: Glass Polish
   Product Type: Drill Spindle Backing Pad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/12009.jpg?v=1760620671
   Price: €8.95 EUR
 - [Glass Polish Spindle Backer 12013](https://glasspolishshop.com/products/25mm-1-inch-spindle-pad-plastic-hard): High Performance Backing Plate  for use with any electric drill. Hook and Loop fastener for easy use with any abrasive discs, polishing pads or detailing foams.
-  Updated: 2025-10-16T13:35:28Z
+  Updated: 2025-10-17T01:35:43Z
   Vendor: Glass Polish
   Product Type: Drill Spindle Backing Pad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/12013.jpg?v=1760621690
   Price: €7.45 EUR
 - [Glass Polish Spindle Backer 12005](https://glasspolishshop.com/products/25mm-1-inch-spindle-pad-blue-foam-medium): High Performance Backing Plate  for use with any electric drill. Hook and Loop fastener for easy use with any abrasive discs, polishing pads or detailing foams.
-  Updated: 2025-10-16T13:24:39Z
+  Updated: 2025-10-17T00:29:25Z
   Vendor: Glass Polish
   Product Type: Drill Spindle Backing Pad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/12005.jpg?v=1760617627
   Price: €7.45 EUR
 - [Glass Polish Spindle Backer 12008](https://glasspolishshop.com/products/25mm-1-inch-spindle-pad-yellow-foam-soft): High Performance Backing Plate  for use with any electric drill. Hook and Loop fastener for easy use with any abrasive discs, polishing pads or detailing foams.
-  Updated: 2025-10-16T13:19:22Z
+  Updated: 2025-10-17T01:14:07Z
   Vendor: Glass Polish
   Product Type: Drill Spindle Backing Pad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/12008.jpg?v=1760620411
   Price: €7.45 EUR
 - [Glass Polish Spindle Backer 12010](https://glasspolishshop.com/products/75mm-3-inch-spindle-pad-hook-and-loop-yellow-foam-soft): High Performance Backing Plate  for use with any electric drill. Hook and Loop fastener for easy use with any abrasive discs, polishing pads or detailing foams.
-  Updated: 2025-10-16T13:24:08Z
+  Updated: 2025-10-17T01:24:13Z
   Vendor: Glass Polish
   Product Type: Drill Spindle Backing Pad
   Availability: Available
@@ -719,28 +719,28 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/11736.jpg?v=1760609432
   Price: €9.95 EUR
 - [Glass Polish Spindle Backer 12738](https://glasspolishshop.com/products/180mm-7-inch-spindle-pad-rubber-rigid): Backing Plate  for use with any electric drill. Hook and Loop fastener for easy use with any abrasive discs, polishing pads or detailing foams.
-  Updated: 2025-10-16T13:20:27Z
+  Updated: 2025-10-17T00:10:18Z
   Vendor: Glass Polish
   Product Type: Drill Spindle Backing Pad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/11738.jpg?v=1760616630
   Price: €11.95 EUR
 - [150mm (6 inch) Hard Spindle Backing Pad for a drill](https://glasspolishshop.com/products/150mm-6-inch-spindle-backing-pad-rigid): 150mm (6 inch) Hard Spindle Backing Pad for a drill. Hook and Loop fastener for easy use with any abrasive discs, polishing pads.
-  Updated: 2025-10-16T12:08:08Z
+  Updated: 2025-10-17T00:08:13Z
   Vendor: Glass Polish
   Product Type: Drill Spindle Backing Pad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/11737.jpg?v=1760616369
   Price: €10.95 EUR
 - [Glass Polish Rotary Backing Pad 12011](https://glasspolishshop.com/products/50mm-2-inch-spindle-pad-psa-m6-black-foam-medium): M6 Backing Plate with universal drill attachment suitable for use with any electric drill.   PSA Self-Stick for use  with any self adhesive sanding discs.
-  Updated: 2025-10-16T14:01:45Z
+  Updated: 2025-10-17T01:53:43Z
   Vendor: Glass Polish
   Product Type: Drill Spindle Backing Pad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/12011.jpg?v=1760623305
   Price: €7.95 EUR
 - [Glass Polish Rotary Backing Pad 12012](https://glasspolishshop.com/products/75mm-3-inch-spindle-pad-psa-m6-medium): M6 Backing Plate with universal drill attachment suitable for use with any electric drill.   PSA Self-Stick for use  with any self adhesive sanding discs.
-  Updated: 2025-10-16T14:00:04Z
+  Updated: 2025-10-17T01:53:42Z
   Vendor: Glass Polish
   Product Type: Drill Spindle Backing Pad
   Availability: Available
