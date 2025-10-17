@@ -10,7 +10,7 @@
 - Contact Email: support@patiofyre.com
 - Contact Phone: 1-800-247-7384
 - Address: 20590 NE Empire Ave. Bend, OR 97701, United States of America
-- Updated At: 2025-10-17T08:00:30.782Z
+- Updated At: 2025-10-17T20:00:32.328Z
 
 Shop Patiofyre Today – Experience 8 Feet of Luxury Heat for Patios, Restaurants, and Backyards Nationwide
 
@@ -73,7 +73,7 @@ Shop Patiofyre Today – Experience 8 Feet of Luxury Heat for Patios, Restaurant
   Image: https://cdn.shopify.com/s/files/1/0685/7228/3129/files/patiofyre_2425_budeez-pellet-storage_ABPS_a7f8e2cd-6849-4934-b1b7-395ec0501a14.jpg?v=1731968837
   Price: $17.99 USD
 - [Propane Torch | Patiofyre](https://www.patiofyre.com/products/propane-torch): Light your wood pellet patio heater easily with our propane torch. Designed for quick, efficient ignition in any outdoor setting.
-  Updated: 2025-10-14T04:00:31Z
+  Updated: 2025-10-17T19:11:46Z
   Vendor: PatioFyre
   Product Type: 
   Availability: Available
@@ -111,13 +111,6 @@ Shop Patiofyre Today – Experience 8 Feet of Luxury Heat for Patios, Restaurant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/7228/3129/files/metro-jetlamp-feature-image_732e20be-e4c1-4710-b2a3-ae48bd5403c6.png?v=1718110159
   Price: $0.00 USD
-- [Metro Jetlamp Outdoor Heater | Patiofyre](https://www.patiofyre.com/products/metro-jetlamp-with-bistro): Discover the Metro Jetlamp with a steel Bistro table, adding to the base model's appeal as a place to gather and socialize around. The table is designed to allow the allure of the fire to shine through.
-  Updated: 2025-10-13T15:22:37Z
-  Vendor: PatioFyre
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0685/7228/3129/files/patiofyre_2425_jetlamp_bistro-table_JLMBB.jpg?v=1743067181
-  Price: $1,949.00 USD
 - [Metro Jetlamp with Child Safety Cage | Patiofyre](https://www.patiofyre.com/products/metro-jetlamp-with-safety-cage): The Metro Jetlamp Full Safety Cage prevents contact with the stove and glass tube, which get hot during use. Made from powder-coated heavy-gauge steel and stainless steel mesh for durability and safety, the design of the cage still allows the beauty and warmth of fire to be the ultimate hero.
   Updated: 2025-10-13T15:22:54Z
   Vendor: PatioFyre
@@ -126,7 +119,7 @@ Shop Patiofyre Today – Experience 8 Feet of Luxury Heat for Patios, Restaurant
   Image: https://cdn.shopify.com/s/files/1/0685/7228/3129/files/patiofyre_2425_jetlamp_full-safety-cage_SCFM.png?v=1745942416
   Price: $1,849.00 USD
 - [Jetlamp Starter Kit | Patiofyre](https://www.patiofyre.com/products/jetlamp-starter-kit): Everything you need to get started with your Jetlamp, designed to keep your wood pellet patio heater in top condition for optimal performance.
-  Updated: 2025-10-14T04:00:31Z
+  Updated: 2025-10-17T19:11:45Z
   Vendor: Patiofyre
   Product Type: 
   Availability: Available
