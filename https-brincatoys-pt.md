@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-10-17T12:01:14.466Z
+- Updated At: 2025-10-17T16:01:12.866Z
 
 ## Products
 
@@ -3209,14 +3209,14 @@ renascer das cinzas.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/figura-masha-e-o-urso-urso-brincatoys-629980423-brincatoys-1178693633.jpg?v=1752816735
   Price: 7,00 € EUR
 - [Conjunto de Figuras Batman: Diversão e Aventura](https://brincatoys.pt/products/conjunto-figuras-batman-the-new-batman-adventures-heroes): Leve para casa os heróis de Gotham com o Conjunto de Figuras Batman: The New Batman Adventures – Heroes Set. Perfeito para colecionadores e fãs! 🎉
-  Updated: 2025-10-17T11:26:20Z
+  Updated: 2025-10-17T13:48:06Z
   Vendor: DC Comics
   Product Type: + 3 anos
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/Figuras_Batman_The_New_Batman_Adventures_Heroes_page1.jpg?v=1760699866
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/conjunto-de-figuras-batman-diversao-e-aventura-23394016-0054382039400-dc-comics-1198229587.jpg?v=1760708886
   Price: 39,90 € EUR
 - [Figuras Batman: The New Batman Adventures Masked Heroes](https://brincatoys.pt/products/figuras-batman-the-new-batman-adventures-masked-heroes): Desperte o herói que existe em você com as Figuras Batman: The New Batman Adventures Masked Heroes. Perfeitas para brincadeiras e colecionar!
-  Updated: 2025-10-17T11:48:04Z
+  Updated: 2025-10-17T13:48:10Z
   Vendor: DC Comics
   Product Type: + 3 anos
   Availability: Available
@@ -7781,7 +7781,7 @@ de aparência engraçada , usa os seus poderosos pés e garras para escavar
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/puzzle-animais-810390222-brincatoys-1178695108.jpg?v=1752869057
   Price: 13,99 € EUR
 - [Puzzle Animais Bebés](https://brincatoys.pt/products/puzzle-animais-bebes): Estes primeiros 6 quebra-cabeças são ideais para mãos pequenas e um começo perfeito para a diversão dos puzzles, porque cada um consiste em apenas algumas peças grandes e estáveis. Os quebra-cabeças infantis de animais mostram motivos fofos de animais, como gatinhos, dois coelhinhos, patinhos, um cachorrinho, um potro e duas crianças. Uma vez que t
-  Updated: 2025-10-13T06:27:50Z
+  Updated: 2025-10-17T13:49:07Z
   Vendor: Seleção Brincatoys
   Product Type: + 2 anos
   Availability: Available
@@ -11371,7 +11371,7 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/barbie-totally-hair-cabelo-extra-comprido-brincatoys-20148323-0194735014835-barbie-1178696438.jpg?v=1752892817
   Price: 31,90 € EUR
 - [Barbie Fashionista Meschas Violeta | Brincatoys](https://brincatoys.pt/products/barbie-fashionista-meschas-violeta): Barbie Fashionista Meschas Violeta tem um corpo original e está a usar um adorável macacão com um padrão  de prisma multicolorido combinado com sandálias de cunha amarelos. Tem  cabelo louro comprido com reflexos roxos e usa uma bracelete rosa a  condizer. Explorar o estilo pessoal. As crianças vão adorar experimentar a auto-expressão através de ro
-  Updated: 2025-10-13T06:24:06Z
+  Updated: 2025-10-17T14:34:05Z
   Vendor: Barbie
   Product Type: + 3 anos
   Availability: Available
@@ -13759,7 +13759,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/puzzle-peppa-pig-peppa-enfermeira-50895323-5704976089537-peppa-pig-1178697676.jpg?v=1752799325
   Price: 16,99 € EUR
 - [Cubos de Empilhar Peppa Pig](https://brincatoys.pt/products/cubos-de-empilhar-peppa-pig): Este conjunto de empilhamento Peppa Pig é um brinquedo maravilhoso que garante diversão e aprendizagem ao seu filho. Composto por dez cubos de empilhamento, cada um ilustrado com os personagens adoráveis da Peppa Pig, este conjunto é feito de papelão robusto, garantindo sua durabilidade. O ato de empilhar os cubos varia de simples a desafiador, dependendo do tamanho dos cubos. Este brinquedo estimula o seu filho a usar as suas habilidades de concentração à medida que tenta equilibrar cubos de diferentes tamanhos um em cima do outro. Este desafio de equilíbrio aumenta a concentração e o foco do seu filho, habilidades vitais que são úteis na vida diária e na aprendizagem escolar. Além disso, a construção e empilhamento dos cubos melhora significativamente as habilidades motoras finas e grossas do seu filho. As habilidades motoras finas envolvem o uso de músculos pequenos, como os das mãos e dedos, enquanto as habilidades motoras grossas envolvem o uso de músculos maiores, como os dos braços e pernas. Ambas são essenciais para o desenvolvimento físico adequado de uma criança. Este conjunto de empilhamento Peppa Pig também ajuda a aprimorar a coordenação mão-olho do seu filho. A coordenação mão-olho é uma habilidade cognitiva fundamental que envolve a comunicação do cérebro com os músculos do corpo para realizar tarefas que requerem precisão e atenção. Por fim, este brinquedo requer uma quantidade significativa de concentração da parte do seu filho. Isso mantém o seu filho concentrado, entretido e ajuda a aumentar a sua competência cognitiva. A competência cognitiva envolve o uso de habilidades mentais para adquirir conhecimento e compreensão, e é fundamental para o desenvolvimento intelectual de uma criança. Em resumo, este lindo conjunto de empilhamento Peppa Pig é um brinquedo educativo que promove o desenvolvimento cognitivo e motor do seu filho, enquanto também garante horas de diversão e entretenimento. Dimensão: 15 x 15 x 15 cm.Idade Recomendada: + de 2 anos.
-  Updated: 2025-10-13T06:21:36Z
+  Updated: 2025-10-17T14:27:45Z
   Vendor: Peppa Pig
   Product Type: + 2 anos
   Availability: Available
@@ -14466,7 +14466,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/pokemon-select-mewtwo-figure-detalhes-fantasticos-brincatoys-23241724-0191726402725-pokemon-1178698149.jpg?v=1752920779
   Price: 39,99 € EUR
 - [Bolas Sensoriais Montessori - Estimule os mais pequenos!](https://brincatoys.pt/products/bolas-sensoriais-montessori): Descubra as bolas sensoriais Montessori. Superfície texturizada para desenvolvimento tátil. Perfeito para coordenação motora e exploração sensorial.
-  Updated: 2025-10-13T06:20:50Z
+  Updated: 2025-10-17T15:56:46Z
   Vendor: Seleção Brincatoys
   Product Type: + 6 meses
   Availability: Available
@@ -18591,7 +18591,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/jogo-de-tabuleiro-party-co-family-inesquecivel-81011925-8410446101193-brincatoys-1178695942.jpg?v=1752883461
   Price: 34,90 € EUR
 - [kit Pulseiras da Amizade para crianças: Criatividade e Partilha](https://brincatoys.pt/products/kit-pulseiras-da-amizade-para-criancas): Deixe a criatividade fluir com o Kit de Pulseiras da Amizade para Crianças. Dezenas de cores, missangas e autocolantes para criar acessórios únicos! 😍
-  Updated: 2025-10-13T08:33:47Z
+  Updated: 2025-10-17T15:56:51Z
   Vendor: Seleção Brincatoys
   Product Type: + 7 anos
   Availability: Available
@@ -18626,7 +18626,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/jogo-lectron-temas-educativos-aprender-de-forma-divertida-86382825-8410446638286-brincatoys-1178701449.jpg?v=1752971298
   Price: 18,90 € EUR
 - [Kit de Pulseiras Divertidas para Crianças: Diversão Garantida](https://brincatoys.pt/products/kit-de-pulseiras-divertidas-para-criancas): Crie pulseiras e colares únicos com o Kit de Pulseiras Divertidas para Crianças. Mais de 200 missangas e 10 pingentes divertidos para horas de diversão! 💫
-  Updated: 2025-10-13T20:19:15Z
+  Updated: 2025-10-17T13:00:05Z
   Vendor: Seleção Brincatoys
   Product Type: + 5 anos
   Availability: Available
@@ -19641,7 +19641,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/figura-toy-story-jessie-alegria-e-magia-da-pixar-774598325-0194735045983-toy-story-1178692626.jpg?v=1752825126
   Price: 29,99 € EUR
 - [Homem Aranha Metamorfose Líquida – Ação e Diversão](https://brincatoys.pt/products/homem-aranha-metamorfose-liquida): A figura Homem Aranha Metamorfose Líquida traz batalhas épicas do Venom para suas brincadeiras. Pressione o botão e veja a transformação!
-  Updated: 2025-10-13T06:14:51Z
+  Updated: 2025-10-17T14:25:15Z
   Vendor: Marvel
   Product Type: + 4 anos
   Availability: Available
@@ -20315,7 +20315,7 @@ Figura em borracha termoplástica do filme Branca de neve e os sete anões.Figur
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/boneca-barbie-80-aniversario-elegancia-e-estilo-233112025-0194735311200-barbie-1181899605.jpg?v=1756213320
   Price: 17,99 € EUR
 - [Figura Pokémon Select Pikachu para Fãs e Colecionadores](https://brincatoys.pt/products/figura-pokemon-select-pikachu): Apresentamos a figura Pokémon Select Pikachu o adorável companheiro das suas aventuras! Adquira a sua e comece a sua jornada hoje!
-  Updated: 2025-10-13T06:14:11Z
+  Updated: 2025-10-17T15:53:26Z
   Vendor: Pokémon
   Product Type: + 4 anos
   Availability: Available
@@ -21359,7 +21359,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-17T11:23:03Z
   Total Products: 397
 - [Outlet](https://brincatoys.pt/collections/outlet): Saldos válidos de 04/07/2025 a 26/12/2025, limitado ao stock existente e acumulável com outros descontos ou promoções.
-  Updated: 2025-09-29T15:16:28Z
+  Updated: 2025-10-17T15:51:33Z
   Total Products: 50
 - [Bluey](https://brincatoys.pt/collections/bluey)
   Updated: 2025-10-11T17:05:02Z
