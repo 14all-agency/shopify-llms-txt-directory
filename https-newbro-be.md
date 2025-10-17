@@ -10,7 +10,7 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
 - Timezone: Europe/Brussels
 - Created At: 2025-05-21T21:01:24Z
 - Contact Email: info@newbro.be
-- Updated At: 2025-10-16T16:00:31.619Z
+- Updated At: 2025-10-17T20:00:32.152Z
 
 ## Products
 
@@ -1767,50 +1767,50 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/sluitpinnen_Hijab_2.webp?v=1757344329
     Price: € 1,50 EUR
 - [Premium Jersey Hijab met subtiele lijnafwerking.](https://newbro.be/products/premium-jersey-met-lijn): Zachte, rekbare jersey hijab met subtiele lijnafwerking. Valt elegant, kreukt weinig en blijft de hele dag comfortabel zitten.
-  Updated: 2025-10-14T23:05:20Z
+  Updated: 2025-10-17T19:46:13Z
   Vendor: Diellla - Netazone
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/jersey_hijab_met_golfjewebp.webp?v=1759702985
+  Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Envy_model_1efc1ff6-00cd-4143-ac43-1b2e0ff680f1.jpg?v=1760730372
   - [#11 Pine Cone](https://newbro.be/products/premium-jersey-met-lijn?variant=55836822962556)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/pine_cone_model.jpg?v=1760481416
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/pine_cone_model.jpg?v=1760730372
     Price: € 11,85 EUR
   - [#12 Dove Grey](https://newbro.be/products/premium-jersey-met-lijn?variant=55836822995324)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Dove_Grey_LQ.jpg?v=1760185852
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Dove_Grey_LQ.jpg?v=1760730372
     Price: € 11,85 EUR
   - [#14 Almond Frost](https://newbro.be/products/premium-jersey-met-lijn?variant=55836823060860)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Almond_frost_model.jpg?v=1760483110
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Almond_frost_model.jpg?v=1760730372
     Price: € 11,85 EUR
   - [#17 Pickled Bluewood](https://newbro.be/products/premium-jersey-met-lijn?variant=55836823159164)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Pickled_Bluewood_LQ.jpg?v=1760185852
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Pickled_Bluewood_LQ.jpg?v=1760730372
     Price: € 11,85 EUR
   - [#2 Black](https://newbro.be/products/premium-jersey-met-lijn?variant=55836822897020)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Black_LQ.jpg?v=1760287436
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Black_LQ.jpg?v=1760730372
     Price: € 11,85 EUR
   - [#10 Clam Shell](https://newbro.be/products/premium-jersey-met-lijn?variant=55836822929788)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Clam_Shell_LQ.jpg?v=1760287436
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Clam_Shell_LQ.jpg?v=1760730372
     Price: € 11,85 EUR
   - [#15 Parelmoer](https://newbro.be/products/premium-jersey-met-lijn?variant=55836823093628)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Parelmoer_LQ.jpg?v=1760287436
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Parelmoer_LQ.jpg?v=1760730372
     Price: € 11,85 EUR
   - [#16 Calypso](https://newbro.be/products/premium-jersey-met-lijn?variant=55836823126396)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Calypso_LQ.jpg?v=1760287436
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Calypso_LQ.jpg?v=1760730372
     Price: € 11,85 EUR
   - [#20 Envy](https://newbro.be/products/premium-jersey-met-lijn?variant=55836823191932)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Envy_model.jpg?v=1760482015
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Envy_model_1efc1ff6-00cd-4143-ac43-1b2e0ff680f1.jpg?v=1760730372
     Price: € 11,85 EUR
   - [#21 Saddle](https://newbro.be/products/premium-jersey-met-lijn?variant=55836823224700)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Saddle_model.jpg?v=1760482134
+    Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Saddle_model.jpg?v=1760730372
     Price: € 11,85 EUR
 - [Luxe jersey hijab in Lila Grijs | bij BRO](https://newbro.be/products/luxe-jersey-hijab-kopie-lila-grijs): Deze luxe Jersey hijab, zacht, ademend, mooie val en blijft goed zitten. Makkelijk te stylen en te wassen.
   Updated: 2025-10-13T06:18:28Z
