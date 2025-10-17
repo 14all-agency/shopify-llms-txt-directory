@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-10-25T08:25:11Z
 - Contact Email: info@worldwidehifi.shop
-- Updated At: 2025-10-16T16:00:35.335Z
+- Updated At: 2025-10-17T04:00:34.496Z
 
 ## ABOUT
 WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage audio gear with insured worldwide shipping—buy here when you want premium brands for less, rare models in stock, real-item photos, highest quality guarantee and expert support.
@@ -1001,7 +1001,7 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_42ea6a2e-8268-4da1-a0b8-f52678f95ae4.jpg?v=1749050797
   Price: 78,00 € EUR
 - [Monitor Audio Rhodos HighEnd Cinch Kabel gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/monitor-audio-rhodos-highend-cinch-kabel-gebraucht-kaufen-1): Monitor Audio Rhodos HighEnd Cinch Kabel gebraucht kaufen ✅ Hochwertiges RCA Kabel geprüft kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-09-15T22:27:28Z
+  Updated: 2025-10-17T02:46:10Z
   Vendor: WorldWideHifi
   Product Type: 
   Availability: Available
@@ -1085,7 +1085,7 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_c6cb79fc-a9c7-4cec-bd24-67b60ee3173b.jpg?v=1748017455
   Price: 89,00 € EUR
 - [Audioquest Rocket 33 Lautsprecherkabel gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/audioquest-rocket-33-gebraucht-kaufen): Audioquest Rocket 33 Lautsprecherkabel gebraucht kaufen ✅ Hochwertige Kabel mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-09-15T22:27:04Z
+  Updated: 2025-10-17T01:46:18Z
   Vendor: WorldWideHifi
   Product Type: 
   Availability: Available
