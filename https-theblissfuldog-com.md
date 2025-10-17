@@ -10,7 +10,7 @@
 - Contact Email: info@theblissfuldog.com
 - Contact Phone: 855-364-2547
 - Address: 50688 235th ave NW
-- Updated At: 2025-10-17T04:00:42.944Z
+- Updated At: 2025-10-17T12:00:43.689Z
 
 ## Products
 
@@ -10006,7 +10006,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/PUGGLE_RELAX_SPRAY_2500.jpg?v=1623547627
     Price: $13.95 USD
 - [The Blissful Dog Boo Boo Butter for Tibetan Mastiff Skin Care](https://theblissfuldog.com/products/tibetan-mastiff-boo-boo-butter): Boo Boo Butter, for Tibetan Mastiff skin care, soothes your big dog's minor skin irritations and issues using all natural, handcrafted herbal components.
-  Updated: 2025-10-16T15:40:42Z
+  Updated: 2025-10-17T08:53:43Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
