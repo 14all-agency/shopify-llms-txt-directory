@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-10-17T08:01:10.682Z
+- Updated At: 2025-10-17T12:01:14.466Z
 
 ## Products
 
@@ -314,21 +314,21 @@ que o próprio crânio.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/asterix-obelix-asterix-236052416-brincatoys-1178692728.png?v=1752826577
   Price: 6,50 € EUR
 - [Asterix & Obelix -Asterix-](https://brincatoys.pt/products/asterix-obelix-asterix-1): Figura em borracha termoplástica da série de Banda Desenhada Asterix & Obelix.
-  Updated: 2025-10-13T06:35:09Z
+  Updated: 2025-10-17T09:53:44Z
   Vendor: Seleção Brincatoys
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/asterix-obelix-asterix-236055916-brincatoys-1178692729.png?v=1752826581
   Price: 6,50 € EUR
 - [Asterix & Obelix -Asterix-](https://brincatoys.pt/products/asterix-obelix-asterix-2): Figura em borracha termoplástica da série de Banda Desenhada Asterix & Obelix.Figura com aproximadamente 6 cm.
-  Updated: 2025-10-13T06:35:09Z
+  Updated: 2025-10-17T09:53:39Z
   Vendor: Seleção Brincatoys
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/asterix-obelix-asterix-236055816-brincatoys-1178692730.png?v=1752826681
   Price: 6,50 € EUR
 - [Asterix & Obelix -Idefix-](https://brincatoys.pt/products/asterix-obelix-idefix): Figura em borracha termoplástica da série de Banda Desenhada Asterix & Obelix.Figura com aproximadamente 7 cm.
-  Updated: 2025-10-13T06:35:08Z
+  Updated: 2025-10-17T09:53:28Z
   Vendor: Seleção Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -340,13 +340,6 @@ que o próprio crânio.
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/asterix-obelix-idefix-236053816-brincatoys-1178692733.webp?v=1752826690
-  Price: 6,50 € EUR
-- [Asterix & Obelix -Legionnaire Lance-](https://brincatoys.pt/products/asterix-obelix-legionnaire-lance): Figura em borracha termoplástica da série de Banda Desenhada Asterix &amp; Obelix.Figura com aproximadamente 14 cm.
-  Updated: 2025-10-13T06:35:07Z
-  Vendor: Seleção Brincatoys
-  Product Type: + 3 anos
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/asterix-obelix-legionnaire-lance-236052016-brincatoys-1178692734.png?v=1752826694
   Price: 6,50 € EUR
 - [Asterix & Obelix -Obelix com menir-](https://brincatoys.pt/products/asterix-obelix-obelix-com-menir): Figura em borracha termoplástica da série de Banda Desenhada Asterix & Obelix.
   Updated: 2025-10-13T06:35:06Z
@@ -2396,42 +2389,42 @@ Idade Recomendada: + de 6 anos.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/dalmata-433952925-0095866239527-brincatoys-1178693424.jpg?v=1752838205
   Price: 7,50 € EUR
 - [DC Batman](https://brincatoys.pt/products/dc-batman): Figura em PVC não tóxico, flexível, com aproximadamente 21 cm.A flexibilidade ds figura permite a adopção de uma variedade de poses de acção.
-  Updated: 2025-10-13T06:33:11Z
+  Updated: 2025-10-17T10:28:44Z
   Vendor: DC Comics
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/dc-batman-23395316-dc-comics-1178693426.jpg?v=1752838210
   Price: 26,50 € EUR
 - [DC Batman Animated Series -Harley Quinn-](https://brincatoys.pt/products/dc-batman-animated-series-harley-quinn): Colecção animada do Batman com uma figura de 15 cm, Harley Quinn.
-  Updated: 2025-10-13T06:33:11Z
+  Updated: 2025-10-17T10:28:44Z
   Vendor: DC Comics
   Product Type: + 14 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/dc-batman-animated-series-harley-quinn-23033516-dc-comics-1178693428.webp?v=1752838216
   Price: 32,90 € EUR
 - [DC Batman Animated Series -Jervis Tetch-](https://brincatoys.pt/products/dc-batman-animated-series-jervis-tetch): Coleção animada do Batman com esta figura de 15 cm, Jervis Tetch, a figura do Chapeleiro Maluco.Inclui uma variedade de acessórios.
-  Updated: 2025-10-13T06:33:11Z
+  Updated: 2025-10-17T10:28:44Z
   Vendor: DC Comics
   Product Type: + 14 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/dc-batman-animated-series-jervis-tetch-235030815-dc-comics-1178693430.jpg?v=1752838322
   Price: 32,50 € EUR
 - [DC Batman Arkham Knight](https://brincatoys.pt/products/dc-batman-arkham-knight): Figura em PVC não tóxico, flexível, do jogo Batman Arkham Knight,  com aproximadamente 15 cm.A flexibilidade ds figura permite a adopção de uma variedade de poses de acção.
-  Updated: 2025-10-13T06:33:10Z
+  Updated: 2025-10-17T10:28:44Z
   Vendor: DC Comics
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/dc-batman-arkham-knight-23395216-dc-comics-1178693432.jpg?v=1752838329
   Price: 13,99 € EUR
 - [DC Batman Arkham Knight -Harley Quinn-](https://brincatoys.pt/products/dc-batman-arkham-knight-harley-quinn): Figura em PVC não tóxico, flexível, do jogo Batman Arkham Knight,  com aproximadamente 14 cm.A flexibilidade ds figura permite a adopção de uma variedade de poses de acção.
-  Updated: 2025-10-13T06:33:10Z
+  Updated: 2025-10-17T10:28:44Z
   Vendor: DC Comics
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/dc-batman-arkham-knight-harley-quinn-23395416-dc-comics-1178693434.webp?v=1752838334
   Price: 13,99 € EUR
 - [DC Comics Batman](https://brincatoys.pt/products/dc-comics-batman): Figura em PVC não tóxico, flexível, com aproximadamente 13 cm.A flexibilidade ds figura permite a adopção de uma variedade de poses de acção.
-  Updated: 2025-10-13T06:33:09Z
+  Updated: 2025-10-17T10:28:44Z
   Vendor: DC Comics
   Product Type: + 3 anos
   Availability: Available
@@ -2452,14 +2445,14 @@ Idade Recomendada: + de 6 anos.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/dc-comics-super-homem-23396216-dc-comics-1178693439.png?v=1752838568
   Price: 13,99 € EUR
 - [DC Comics Designer Series:  -Batman-](https://brincatoys.pt/products/dc-comics-designer-series-batman): Figura Batman, com aproximadamente 18 cm, do  Designer Greg Capullo.
-  Updated: 2025-10-13T06:33:08Z
+  Updated: 2025-10-17T10:28:43Z
   Vendor: DC Comics
   Product Type: + 14 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/dc-comics-designer-series-batman-23028416-dc-comics-1178693442.jpg?v=1752838578
   Price: 39,99 € EUR
 - [DC Comics Designer Series:  -Batman-](https://brincatoys.pt/products/dc-comics-designer-series-batman-1): Figura Batman, com x cm, do  Designe Lee Bermejo.
-  Updated: 2025-10-13T06:33:08Z
+  Updated: 2025-10-17T10:28:43Z
   Vendor: DC Comics
   Product Type: + 14 anos
   Availability: Available
@@ -2473,7 +2466,7 @@ Idade Recomendada: + de 6 anos.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/dc-comics-justice-league-the-new-frontier-23391016-dc-comics-1178693445.png?v=1752838685
   Price: 39,90 € EUR
 - [DC Comics Pato para banho -Batman-](https://brincatoys.pt/products/dc-comics-pato-para-banho-batman): Aqui está uma versão divertida do clássico patinho de borracha amarelo.Projetado com o personagem icônico da DC Comics, este pato de banho apresenta o Pato Batman.
-  Updated: 2025-10-13T06:33:07Z
+  Updated: 2025-10-17T10:28:43Z
   Vendor: Seleção Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -2508,7 +2501,7 @@ Idade Recomendada: + de 6 anos.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/dc-comics-suicide-squad-joker-23396517-dc-comics-1178693453.png?v=1752838929
   Price: 24,90 € EUR
 - [DC Comics The New 52: Earth 2: Batman](https://brincatoys.pt/products/dc-comics-the-new-52-earth-2-batman): Figura Batman, com aproximadamente 18 cm, do  Designer Nicola Scott.Batman New 52 apresenta Thomas Wayne na sua capa cinza escuro, preta e vermelha, e o seu símbolo vermelho do Batman.Figura Batman Earth 2 New 52 apresenta a versão paralela da Terra do Cavaleiro das Trevas, Batman (Thomas Wayne).
-  Updated: 2025-10-13T06:33:05Z
+  Updated: 2025-10-17T10:28:43Z
   Vendor: DC Comics
   Product Type: + 14 anos
   Availability: Available
@@ -2522,49 +2515,49 @@ Idade Recomendada: + de 6 anos.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/dc-green-lantern-bendable-23390416-dc-comics-1178693457.png?v=1752838940
   Price: 10,00 € EUR
 - [DC The New Batman Adventures -Batgirl-](https://brincatoys.pt/products/dc-the-new-batman-adventures-batgirl): Figura em PVC não tóxico, flexível, da série The New Batman Adventures com aproximadamente 13 cm.A flexibilidade ds figura permite a adopção de uma variedade de poses de acção.
-  Updated: 2025-10-13T06:33:04Z
+  Updated: 2025-10-17T10:28:42Z
   Vendor: DC Comics
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/dc-the-new-batman-adventures-batgirl-23394316-dc-comics-1178693459.jpg?v=1752839045
   Price: 10,00 € EUR
 - [DC The New Batman Adventures -Batgirl-](https://brincatoys.pt/products/dc-the-new-batman-adventures-batgirl-1): Coleção animada do Batman com uma figura de 15 cm, Batgirl. Inclui uma variedade d
-  Updated: 2025-10-13T06:33:04Z
+  Updated: 2025-10-17T10:28:42Z
   Vendor: DC Comics
   Product Type: + 14 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/dc-the-new-batman-adventures-batgirl-23033716-dc-comics-1178693461.jpg?v=1752839051
   Price: 32,90 € EUR
 - [DC The New Batman Adventures -Catwoman-](https://brincatoys.pt/products/dc-the-new-batman-adventures-catwoman): Figura em PVC não tóxico, flexível, da série The New Batman Adventures com aproximadamente 13 cm.A flexibilidade ds figura permite a adopção de uma variedade de poses de acção.
-  Updated: 2025-10-13T06:33:03Z
+  Updated: 2025-10-17T10:28:42Z
   Vendor: DC Comics
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/dc-the-new-batman-adventures-catwoman-23394716-dc-comics-1178693463.webp?v=1752839056
   Price: 10,00 € EUR
 - [DC The New Batman Adventures -Nightwing-](https://brincatoys.pt/products/dc-the-new-batman-adventures-nightwing-1): Coleção animada do Batman com uma figura de aproximadamente 15 cm, Nightwing.Inclui uma variedade de acessórios.
-  Updated: 2025-10-13T06:33:03Z
+  Updated: 2025-10-17T10:28:42Z
   Vendor: DC Comics
   Product Type: + 14 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/dc-the-new-batman-adventures-nightwing-235030515-dc-comics-1178693467.jpg?v=1752839289
   Price: 32,50 € EUR
 - [DC The New Batman Adventures -Poison Ivy-](https://brincatoys.pt/products/dc-the-new-batman-adventures-poison-ivy): Figura em PVC não tóxico, flexível, da série The New Batman Adventures com aproximadamente 13 cm.A flexibilidade ds figura permite a adopção de uma variedade de poses de acção.
-  Updated: 2025-10-13T06:33:02Z
+  Updated: 2025-10-17T10:28:42Z
   Vendor: DC Comics
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/dc-the-new-batman-adventures-poison-ivy-23394616-dc-comics-1178693469.jpg?v=1752839295
   Price: 10,00 € EUR
 - [DC The New Batman Adventures -Robin-](https://brincatoys.pt/products/dc-the-new-batman-adventures-robin-1): Figura em PVC não tóxico, flexível, da série The New Batman Adventures com aproximadamente 14 cm.A flexibilidade ds figura permite a adopção de uma variedade de poses de acção.
-  Updated: 2025-10-13T06:33:02Z
+  Updated: 2025-10-17T10:28:42Z
   Vendor: DC Comics
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/dc-the-new-batman-adventures-robin-23394216-dc-comics-1178693471.jpg?v=1752839302
   Price: 10,00 € EUR
 - [DC The New Batman Adventures -The Creeper-](https://brincatoys.pt/products/dc-the-new-batman-adventures-the-creeper): Coleção animada do Batman com uma figura de aproximadamente 16 cm, The Creeper.Inclui uma variedade de acessórios.
-  Updated: 2025-10-13T06:33:01Z
+  Updated: 2025-10-17T10:28:42Z
   Vendor: DC Comics
   Product Type: + 14 anos
   Availability: Available
@@ -3132,7 +3125,7 @@ renascer das cinzas.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/figura-star-wars-general-hux-23153118-star-wars-1178693613.jpg?v=1752841445
   Price: 11,50 € EUR
 - [Figura Suicide Squad Batman](https://brincatoys.pt/products/figura-suicide-squad-batman): Os heróicos vilões do filme Esquadrão Suicida apresentados numa embalagem com a forma clássica de bomba e alguns elementos únicos para cada personagem.A figura Batman tem aproximadamente 10 cm.  Dimensão: 2,54 x 17,78 x 15,24. Idade recomendada: + de 14 anos.
-  Updated: 2025-10-13T06:32:26Z
+  Updated: 2025-10-17T10:28:42Z
   Vendor: DC Comics
   Product Type: + 14 anos
   Availability: Available
@@ -3215,22 +3208,22 @@ renascer das cinzas.
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/figura-masha-e-o-urso-urso-brincatoys-629980423-brincatoys-1178693633.jpg?v=1752816735
   Price: 7,00 € EUR
-- [Figuras Batman: The New Batman Adventures](https://brincatoys.pt/products/figuras-batman-the-new-batman-adventures): Conjunto de figuras em PVC não tóxico, flexíveis, da série The New Batman Adventures com aproximadamente 14 cm.A flexibilidade das figuras permite a adopção de uma variedade de poses de ação.  Dimensão: 33 x 19 x 4 cm. Idade recomendada: + de 3 anos.
-  Updated: 2025-10-13T06:32:21Z
+- [Conjunto de Figuras Batman: Diversão e Aventura](https://brincatoys.pt/products/conjunto-figuras-batman-the-new-batman-adventures-heroes): Leve para casa os heróis de Gotham com o Conjunto de Figuras Batman: The New Batman Adventures – Heroes Set. Perfeito para colecionadores e fãs! 🎉
+  Updated: 2025-10-17T11:26:20Z
   Vendor: DC Comics
   Product Type: + 3 anos
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/figuras-batman-the-new-batman-adventures-23394016-dc-comics-1178693635.jpg?v=1752816740
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/Figuras_Batman_The_New_Batman_Adventures_Heroes_page1.jpg?v=1760699866
   Price: 39,90 € EUR
-- [Figuras Batman: The New Batman Adventures](https://brincatoys.pt/products/figuras-batman-the-new-batman-adventures-1): Conjunto de figuras em PVC não tóxico, flexíveis, da série The New Batman Adventures com aproximadamente 14 cm.A flexibilidade das figuras permite a adopção de uma variedade de poses de ação. Dimensão: 28 x 15 x 5 cm. Idade recomendada: + de 3 anos.
-  Updated: 2025-10-13T06:32:21Z
+- [Figuras Batman: The New Batman Adventures Masked Heroes](https://brincatoys.pt/products/figuras-batman-the-new-batman-adventures-masked-heroes): Desperte o herói que existe em você com as Figuras Batman: The New Batman Adventures Masked Heroes. Perfeitas para brincadeiras e colecionar!
+  Updated: 2025-10-17T11:48:04Z
   Vendor: DC Comics
   Product Type: + 3 anos
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/figuras-batman-the-new-batman-adventures-23395616-dc-comics-1178693637.jpg?v=1752841814
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/figuras-batman-the-new-batman-adventures-masked-heroes-23395616-0054382039561-dc-comics-1198204570.jpg?v=1760701683
   Price: 39,90 € EUR
 - [Figuras Batman: The New Batman Adventures: Bad Girls](https://brincatoys.pt/products/figuras-batman-the-new-batman-adventures-bad-girls): Conjunto de figuras em PVC não tóxico, flexíveis, da série The New Batman Adventures com aproximadamente 14 cm.A flexibilidade das figuras permite a adopção de uma variedade de poses de ação.  Dimensão: 33 x 19 x 4 cm. Idade recomendada: + de 3 anos.
-  Updated: 2025-10-13T06:32:20Z
+  Updated: 2025-10-17T10:28:41Z
   Vendor: DC Comics
   Product Type: + 3 anos
   Availability: Available
@@ -5170,7 +5163,7 @@ Provavelmente, a espécie vivente mais próxima é o cachorro-vinagre.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/loto-o-pais-das-fadas-810376619-brincatoys-1178694242.png?v=1752853328
   Price: 11,50 € EUR
 - [Lucky Luke](https://brincatoys.pt/products/lucky-luke): Figura em borracha termoplástica da série de Banda Desenhada Lucky Luke.  Dimensão: 7,5 x 2,5 x 2 cm. Idade recomendada: + de 3 anos.
-  Updated: 2025-10-13T06:30:30Z
+  Updated: 2025-10-17T09:53:49Z
   Vendor: Seleção Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -5196,13 +5189,6 @@ Provavelmente, a espécie vivente mais próxima é o cachorro-vinagre.
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lucky-luke-jolly-jumper-236310316-brincatoys-1178694246.webp?v=1752814567
-  Price: 6,50 € EUR
-- [Lucky Luke -William M. Dalton -](https://brincatoys.pt/products/lucky-luke-william-m-dalton): Figura em borracha termoplástica da série de Banda Desenhada Lucky Luke. Figura com aproximadamente 6,5 cm.  Dimensão: 6,5 x 3 x 1 cm. Idade recomendada: + de 3 anos.
-  Updated: 2025-10-13T06:30:28Z
-  Vendor: Seleção Brincatoys
-  Product Type: + 3 anos
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lucky-luke-william-m-dalton-236310916-brincatoys-1178694247.png?v=1752814570
   Price: 6,50 € EUR
 - [Macaco Uivador](https://brincatoys.pt/products/macaco-uivador): O Macaco Uivador, também conhecido por bugio, é famoso pelo seu uivo incrivelmente alto, que pode ser ouvido a quilómetros de distância. Nativo das florestas da América do Sul e Central, o Macaco uivador é um dos maiores macacos do Novo Mundo.Figura em borracha termoplástica não tóxica e livre de BPA.  Dimensão: 11 x 3 x 6 cm. Idade recomendada: +
   Updated: 2025-10-13T06:30:28Z
@@ -5586,7 +5572,7 @@ Provavelmente, a espécie vivente mais próxima é o cachorro-vinagre.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/mini-frozen-com-acessorios-90518818-princesas-disney-1178694359.jpg?v=1752855261
   Price: 13,99 € EUR
 - [Mini Piano Magic Touch: Música para o Seu Bebé](https://brincatoys.pt/products/mini-piano-magic-touch): Descubra a magia da música com o Mini Piano Magic Touch! Este brinquedo leve e colorido é perfeito para os primeiros sons do seu bebé. 🎹
-  Updated: 2025-10-16T20:30:31Z
+  Updated: 2025-10-17T10:58:51Z
   Vendor: Seleção Brincatoys
   Product Type: + 3 meses
   Availability: Available
@@ -5859,7 +5845,7 @@ Provavelmente, a espécie vivente mais próxima é o cachorro-vinagre.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/my-little-pony-aventuras-do-cristal-sunny-starscout-90245422-my-little-pony-1178694472.jpg?v=1752856802
   Price: 12,99 € EUR
 - [Mystery Minis: Batman vs Superman](https://brincatoys.pt/products/mystery-minis-batman-vs-superman): Os seus personagens favoritos do filme Batman vs Superman, apresentados numa mini figura de vinil com aproximadamente 6 cm.O produto vem numa caixa misteriosa e nunca sabemos qual a persongem que nos vai sair.  Dimensão: 5.08 x 5.08 x 7.62 cm. Idade recomendada: + de 3 anos.
-  Updated: 2025-10-13T06:29:46Z
+  Updated: 2025-10-17T10:28:41Z
   Vendor: DC Comics
   Product Type: + 3 anos
   Availability: Available
@@ -7702,35 +7688,35 @@ de aparência engraçada , usa os seus poderosos pés e garras para escavar
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/puzzle-33-pecas-patrulha-pata-860514521-patrulha-pata-1178695079.jpg?v=1752868577
   Price: 9,50 € EUR
 - [Puzzle 3D Batman](https://brincatoys.pt/products/puzzle-3d-batman): Fantástico Puzzle 3D com 54 peças para criar um porta lápis com ilustrações de Batman. Este puzzle usa peças de plástico exclusivas, que se encaixam para construir um modelo robusto e forte. Não é necessária cola. Cada peça do puzzle é impressa com um número no verso, para que possa montá-lo a olho nu ou apenas seguindo os números. Dimensões do puz
-  Updated: 2025-10-16T20:50:58Z
+  Updated: 2025-10-17T10:33:38Z
   Vendor: DC Comics
   Product Type: + 6 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/puzzle-3d-batman-861127522-dc-comics-1178695078.jpg?v=1752868573
   Price: 13,50 € EUR
 - [Puzzle 3D Jurassic World](https://brincatoys.pt/products/puzzle-3d-jurassic-world): Um puzzle 3D redondo do Jurassic World, fácil de montar graças às suas 72 peças numeradas. Basta seguir a ordem dos números e a direcção das setas mostradas na parte de trás das peças do puzzle. Todas as peças se encaixam perfeitamente graças à tecnologia Easyclick. Uma vez montado, o puzzle 3D permanece muito estável, não precisa ser colado e pode
-  Updated: 2025-10-16T20:49:22Z
+  Updated: 2025-10-17T10:33:15Z
   Vendor: Jurassic World
   Product Type: + 6 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/puzzle-3d-jurassic-world-231175722-jurassic-world-1178695084.jpg?v=1752868688
   Price: 16,99 € EUR
 - [Puzzle 3D Ladybug](https://brincatoys.pt/products/puzzle-3d-ladybug): Fantástico Puzzle 3D com 57 peças para criar um porta lápis com ilustrações de Ladybug. Este puzzle usa peças de plástico exclusivas, que se encaixam para construir um modelo robusto e forte. Não é necessária cola. Cada peça do puzzle é impressa com um número no verso, para que possa montá-lo a olho nu ou apenas seguindo os números. Dimensões do pu
-  Updated: 2025-10-16T20:47:46Z
+  Updated: 2025-10-17T10:32:36Z
   Vendor: LadyBug
   Product Type: + 6 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/puzzle-3d-ladybug-861127822-ladybug-1178695086.jpg?v=1752868695
   Price: 13,50 € EUR
 - [Puzzle 3D - Porta Lápis Pokémon | Brincatoys](https://brincatoys.pt/products/puzzle-3d-porta-lapis-pokemon): Fantástico Puzzle 3D com 54 peças para criar um porta lápis com ilustrações de Pokémon.Este puzzle usa peças de plástico exclusivas, que se encaixam para construir um modelo robusto e forte. Não é necessária cola. Cada peça do puzzle é impressa com um número no verso, para que possa montá-lo a olho nu ou apenas seguindo os números. Dimensões do puz
-  Updated: 2025-10-16T20:46:16Z
+  Updated: 2025-10-17T10:32:13Z
   Vendor: Pokémon
   Product Type: + 8 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/puzzle-3d-porta-lapis-pokemon-brincatoys-861125721-pokemon-1178695088.jpg?v=1752868700
   Price: 13,50 € EUR
 - [Puzzle 3D Sneaker Avengers](https://brincatoys.pt/products/puzzle-3d-sneaker-avengers-1): Emocionante puzzle 3D, em forma de tênis, de 112 peças, com imagens das personagens do mundo do Marvel. As peças deste puzzle 3D são fabricadas com qualidade premium, usa peças de plástico exclusivas, que se encaixam para construir um modelo robusto e resistente. Não é necessária cola! Monte a olho ou usando os números no verso.  Dimensão: 19 x 27,
-  Updated: 2025-10-16T20:42:22Z
+  Updated: 2025-10-17T10:30:47Z
   Vendor: Marvel
   Product Type: + 3 anos
   Availability: Available
@@ -9464,28 +9450,28 @@ do tempo a caçar no gelo marinho.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/vampirina-wolfie-231345318-brincatoys-1178695630.jpg?v=1752877809
   Price: 7,50 € EUR
 - [Veículo Batman Arkham Knight Batmobile](https://brincatoys.pt/products/veiculo-batman-arkham-knight-batmobile): Veículo do Batman, de metal, na escala 1/32.  Dimensão: 15.2 x 10.2 x 5.1 cm. Idade recomendada: + de 8 anos.
-  Updated: 2025-10-13T06:26:04Z
+  Updated: 2025-10-17T10:28:41Z
   Vendor: DC Comics
   Product Type: + 8 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/veiculo-batman-arkham-knight-batmobile-239871818-dc-comics-1178695632.jpg?v=1752877815
   Price: 17,50 € EUR
 - [Veículo Batman Batman Forever Batmobile](https://brincatoys.pt/products/veiculo-batman-batman-forever-batmobile): Veículo do Batman, de metal, na escala 1/32. Dimensão: 15.2 x 10.2 x 5.1 cm. Idade recomendada: + de 8 anos.
-  Updated: 2025-10-13T06:26:04Z
+  Updated: 2025-10-17T10:28:41Z
   Vendor: DC Comics
   Product Type: + 8 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/veiculo-batman-batman-forever-batmobile-239871718-dc-comics-1178695634.jpg?v=1752877821
   Price: 17,50 € EUR
 - [Veículo Batman Justice League Batmobile](https://brincatoys.pt/products/veiculo-batman-justice-league-batmobile): Veículo do Batman, de metal, na escala 1/32. Dimensão: 15.2 x 10.2 x 5.1 cm. Idade recomendada: + de 8 anos.
-  Updated: 2025-10-13T06:26:04Z
+  Updated: 2025-10-17T10:28:40Z
   Vendor: DC Comics
   Product Type: + 8 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/veiculo-batman-justice-league-batmobile-239923018-dc-comics-1178695635.jpg?v=1752877921
   Price: 17,50 € EUR
 - [Veículo Batman The Dark Knight Batmobile](https://brincatoys.pt/products/veiculo-batman-the-dark-knight-batmobile): Veículo do Batman, de metal, na escala 1/32. Dimensão: 15.2 x 10.2 x 5.1 cm. Idade recomendada: + de 8 anos.
-  Updated: 2025-10-13T06:26:03Z
+  Updated: 2025-10-17T10:28:40Z
   Vendor: DC Comics
   Product Type: + 8 anos
   Availability: Available
@@ -10776,7 +10762,7 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-ninjago-mech-tita-do-jay-71785-667178523-5702017413013-lego-1178696116.jpg?v=1752887058
   Price: 79,99 € EUR
 - [Lego Technic - Batcycle do Batman 42155 | Brincatoys](https://brincatoys.pt/products/lego-technic-batcycle-do-batman): Defenda as ruas de GOTHAM CITY™ com este LEGO Technic BATCYCLE™ do BATMAN. Capture o espírito de um lendário combatente do crime ao montar as funcionalidades autênticas, como a direção, a suspensão e a transmissão por corrente que liga o motor à roda traseira. Recrie os seus momentos favoritos de Batman™. Depois use o suporte para exibir o seu mode
-  Updated: 2025-10-13T06:24:42Z
+  Updated: 2025-10-17T10:28:40Z
   Vendor: LEGO
   Product Type: + 9 anos
   Availability: Available
@@ -11399,7 +11385,7 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/brinquedos-da-patrulha-pata-rocky-aprender-com-diversao-554904425-0681147037526-patrulha-pata-1192409558.jpg?v=1757627535
   Price: 19,99 € EUR
 - [Figura DC - Batman Clássico 30 cm | Brincatoys](https://brincatoys.pt/products/figura-dc-batman-classico-30-cm): Cria as tuas próprias aventuras épicas de super-heróis e super-vilões com a figuras de ação de 30cm do BATMAN! Cada figura de ação apresenta 11 pontos de articulação e estilo realista detalhado que dá vida aos teus heróis e vilões favoritos do BATMAN! Junta-te ao Dynamic Duo de BATMAN e ROBIN e ajuda a livrar Gotham City dos seus vilões e criminoso
-  Updated: 2025-10-13T06:24:05Z
+  Updated: 2025-10-17T10:28:40Z
   Vendor: DC Comics
   Product Type: + 3 anos
   Availability: Available
@@ -11749,7 +11735,7 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/dc-league-of-super-pets-power-spin-merton-50513423-dc-comics-1178696625.webp?v=1752897012
   Price: 12,99 € EUR
 - [DC League of Super Pets - Ace lançador de disco](https://brincatoys.pt/products/dc-league-of-super-pets-ace-lancador-de-disco): DC League of Super Pets - Ace lançador de disco, um conjunto repleto de ação com o cão do Batman, Ace the Hound. Ace the Hound está pronto para 'esmagar' os bandidos com este  conjunto de figuras de ação DC League of Super-Pets da Fisher-Price. Mova a perna da frente da figura para ativar uma incrível ação de lançamento de disco. Ace the Hound pode
-  Updated: 2025-10-13T06:23:40Z
+  Updated: 2025-10-17T10:28:39Z
   Vendor: DC Comics
   Product Type: + 3 anos
   Availability: Available
@@ -11833,21 +11819,21 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/figura-flash-10-cm-773860223-dc-comics-1178696667.jpg?v=1752897731
   Price: 15,99 € EUR
 - [Figura Batman 10 cm](https://brincatoys.pt/products/figura-batman-10-cm): Corra para a ação com a icônica figura de ação do Batman ! Cada figura inclui 2 acessórios exclusivos. Inspirada no universo DC, esta figura de 10 cm oferece aos fãs da DC ação e aventura emocionante. Cada figura possui 11 pontos de articulação, facilitando a colocação da figura de ação numa variedade de poses de ação dinâmicas. Esta figura de ação
-  Updated: 2025-10-13T06:23:36Z
+  Updated: 2025-10-17T10:28:39Z
   Vendor: DC Comics
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/figura-batman-10-cm-773861923-0778988438619-dc-comics-1178696670.jpg?v=1752897741
   Price: 15,99 € EUR
 - [Figura DC - Red Hood 30 cm](https://brincatoys.pt/products/figura-dc-red-hood-30-cm): Da banda desenhada, dos filmes de acção e agora nas tuas mãos cria as tuas próprias aventuras épicas do mundo dos super-heróis e vilões com a figura de ação de 30 centímetros DC Comics – Red Hood. Cada figura tem 11 pontos de articulação e vai dar vida aos teus personagens preferidos. Com Robin e Batman (vendidos em separado) protege Gotham City do
-  Updated: 2025-10-13T06:23:35Z
+  Updated: 2025-10-17T10:28:39Z
   Vendor: DC Comics
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/figura-dc-red-hood-30-cm-773443723-dc-comics-1178696672.jpg?v=1752897846
   Price: 18,99 € EUR
 - [Figura DC - Batman Cinturão Cinzento 30 cm](https://brincatoys.pt/products/figura-dc-batman-cinturao-cinzento-30-cm): Da banda desenhada, dos filmes de acção e agora nas tuas mãos cria as tuas próprias aventuras épicas do mundo dos super-heróis e vilões com a figura de ação de 30 centímetros DC Comics – Batman Cinturão Cinzento, um dos maiores super-heróis de todos os tempos que protege a cidade de Gotham dos criminosos. Cada figura tem 11 pontos de articulação e
-  Updated: 2025-10-13T06:23:35Z
+  Updated: 2025-10-17T10:28:40Z
   Vendor: DC Comics
   Product Type: + 3 anos
   Availability: Available
@@ -11868,7 +11854,7 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/figura-dc-flash-15-cm-773601123-dc-comics-1178696683.jpg?v=1752897858
   Price: 13,99 € EUR
 - [Figura DC - Batman Preto & Cinzento 30 cm](https://brincatoys.pt/products/figura-dc-batman-preto-cinzento-30-cm): Da banda desenhada, dos filmes de acção e agora nas tuas mãos cria as tuas próprias aventuras épicas do mundo dos super-heróis e vilões com a figura de ação de 30 centímetros DC Comics – Batman Preto & Cinzento, um dos maiores super-heróis de todos os tempos que protege a cidade de Gotham dos criminosos. Cada figura tem 11 pontos de articulação e v
-  Updated: 2025-10-13T06:23:34Z
+  Updated: 2025-10-17T10:28:39Z
   Vendor: DC Comics
   Product Type: + 3 anos
   Availability: Available
@@ -12456,7 +12442,7 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/anel-de-denticao-veado-491861423-brincatoys-1178696903.jpg?v=1752901452
   Price: 16,80 € EUR
 - [Figura de Flash - Batman](https://brincatoys.pt/products/figura-the-flash-batman): Os super-vilões não têm hiótese na luta contra a figura de ação do Batman! Corre para a ação com a figura de ação de 30 cm do Batman! Cada figura de ação apresenta 11 pontos de articulação e o estilo detalhado. As crianças adoram envolver a sua imaginação e criar as suas próprias batalhas do Batman O destino do mundo está nas tuas mãos. Este brinqu
-  Updated: 2025-10-13T06:22:59Z
+  Updated: 2025-10-17T10:28:39Z
   Vendor: DC Comics
   Product Type: + 3 anos
   Availability: Available
@@ -12848,7 +12834,7 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-marvel-figura-de-construcao-de-capitao-america-667625823-5702017419749-lego-1178697111.jpg?v=1752904940
   Price: 39,99 € EUR
 - [Lego DC Comics - Figura de Construção de Batman](https://brincatoys.pt/products/lego-dc-figura-de-construcao-de-batman): Junte-se à ação em GOTHAM CITY™ com a sua própria figura do Batman™! Esta figura fantástica move, torce e vira, tal como o verdadeiro Batman. Com uma cidade inteira para proteger e tantos bandidos para combater, as aventuras emocionantes nunca terão fim!                    Coloque o futuro da GOTHAM CITY™ nas mãos do seu jovem combatente do crime c
-  Updated: 2025-10-13T06:22:32Z
+  Updated: 2025-10-17T10:28:39Z
   Vendor: LEGO
   Product Type: + 8 anos
   Availability: Available
@@ -12985,7 +12971,7 @@ Figura com aproximadamente 10,8 cm.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/camiao-com-figura-12126223-brincatoys-1178697190.jpg?v=1752906018
   Price: 26,99 € EUR
 - [Comboio dos Animais](https://brincatoys.pt/products/comboio-dos-animais): Chegou o comboio mais encantador de todos os tempos! Apresentamos o comboio de madeira, composto por um crocodilo a liderar o caminho, acompanhado de um tucano e três animais magníficos: um leão, uma girafa e um elefante, todos com cores vibrantes e arco-íris. Este brinquedo é perfeito para as crianças soltarem a imaginação e criarem as suas própri
-  Updated: 2025-10-13T06:22:23Z
+  Updated: 2025-10-17T10:58:48Z
   Vendor: Seleção Brincatoys
   Product Type: + 12 meses
   Availability: Available
@@ -13822,7 +13808,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-marvel-76263-hulkbuster-vs-thanos-brincatoys-667626323-5702017419794-lego-1178697708.jpg?v=1752797890
   Price: 29,99 € EUR
 - [Lego Batman 76264 - Perseguição Batmobile](https://brincatoys.pt/products/lego-batman-76264-batwing-batman-vs-the-joker): Descubra a emoção de Gotham com o Lego Batman 76264 - Perseguição Batmobile t: Batman vs. The Joker. Construa o icónico Batmobile e reviva as batalhas épicas.
-  Updated: 2025-10-13T06:21:34Z
+  Updated: 2025-10-17T10:28:39Z
   Vendor: LEGO
   Product Type: + 8 anos
   Availability: Available
@@ -14683,7 +14669,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/puzzle-infantil-bluey-e-familia-de-104-pecas-552716924-8005125271696-bluey-1178698293.jpg?v=1752923406
   Price: 9,99 € EUR
 - [LEGO Batman 76265 Batwing: Batman vs. The Joker](https://brincatoys.pt/products/lego-batman-76265-batwing-batman-vs-the-joker): LEGO Batman 76265 Batwing com 357 peças para recriar o confronto épico entre Batman e The Joker. Ideal para fãs de super-heróis.
-  Updated: 2025-10-13T06:20:38Z
+  Updated: 2025-10-17T10:28:38Z
   Vendor: LEGO
   Product Type: + 8 anos
   Availability: Available
@@ -16253,7 +16239,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/brinquedos-da-patrulha-pata-marshall-aventura-e-aprendizagem-554903325-0681147037397-patrulha-pata-1192379385.jpg?v=1757613003
   Price: 19,99 € EUR
 - [Brinquedos da Patrulha Pata - Skye Helicóptero Eco-Amigável](https://brincatoys.pt/products/patrulha-pata-skye): Descubra o helicóptero da Skye, um dos mais adorados brinquedos da Patrulha Pata, feito com plástico parcialmente reciclado. Para jovens aventureiros!
-  Updated: 2025-10-13T06:18:48Z
+  Updated: 2025-10-17T10:29:41Z
   Vendor: Patrulha Pata
   Product Type: + 3 anos
   Availability: Available
@@ -17268,21 +17254,21 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-city-60435-camiao-reboque-e-reparacao-de-carro-666043524-5702017587325-lego-1178700452.jpg?v=1752786860
   Price: 22,50 € EUR
 - [Lego DC Comics 76270 - Armadura Mech do Batman](https://brincatoys.pt/products/lego-dc-comics-76270-armadura-mech-do-batman): Descubra a Armadura Mech do Batman Lego DC Comics 76270. Construa, brinque e colecione o herói de Gotham em versão robô articulado.
-  Updated: 2025-10-13T06:17:40Z
+  Updated: 2025-10-17T10:28:38Z
   Vendor: LEGO
   Product Type: + 6 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-dc-comics-76270-armadura-mech-do-batman-667627024-5702017590219-lego-1178700456.jpg?v=1752786605
   Price: 18,50 € EUR
 - [Lego DC Comics 76272 - A Batcaverna com Batman, Batgirl](https://brincatoys.pt/products/lego-dc-comics-a-batcaverna-com-batman-batgirl-e-the-joker): Descubra a emocionante Lego DC Comics 76272 - A Batcaverna com Batman, Batgirl e The Joker! Com este conjunto oferece aventuras super-heroicas.
-  Updated: 2025-10-15T11:03:48Z
+  Updated: 2025-10-17T10:28:38Z
   Vendor: LEGO
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-dc-comics-76272-a-batcaverna-com-batman-batgirl-667627224-5702017590233-lego-1178700460.jpg?v=1752786618
   Price: 38,50 € EUR
 - [Lego DC Comics 76274 - Batman com o Batmóvel vs. Harley Quin](https://brincatoys.pt/products/lego-dc-comics-batman-com-o-batmovel-vs-harley-quinn-e-mr-freeze): Descubra a emoção de Gotham City com o Lego DC Comics 76274 - Batman com o Batmóvel vs. Harley Quinn e Mr. Freeze. Construa, brinque e colecione
-  Updated: 2025-10-13T06:17:40Z
+  Updated: 2025-10-17T10:28:38Z
   Vendor: LEGO
   Product Type: + 8 anos
   Availability: Available
@@ -17436,7 +17422,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/espiral-de-atividade-girafa-sofia-brinquedo-educativo-para-bebes-103083124-3056562308310-girafa-sofia-1178700564.jpg?v=1752957740
   Price: 26,90 € EUR
 - [Carro de Brincar Monster Jam -  Megalodon vs Batman](https://brincatoys.pt/products/conjunto-monster-jam-megalodon-vs-batman): Descubra a emoção do carro de Brincar Monster Jam - Megalodon vs Batman na escala 1:64, perfeitos para crianças +3 anos.
-  Updated: 2025-10-13T06:17:26Z
+  Updated: 2025-10-17T10:28:38Z
   Vendor: Seleção Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -17611,7 +17597,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/roca-sensory-girafa-sofia-estimulo-o-desenvolvimento-do-bebe-101051025-3056560105102-girafa-sofia-1178700700.jpg?v=1752960009
   Price: 18,90 € EUR
 - [Telemóvel Musical Girafa Sofia: Cores, Sons e Diversão Educativa](https://brincatoys.pt/products/telemovel-musical-girafa-sofia): Estimule a imaginação e desenvolvimento do seu pequeno com o Telemóvel Musical Girafa Sofia. Sons divertidos, cores vibrantes e elementos educativos.
-  Updated: 2025-10-16T20:30:32Z
+  Updated: 2025-10-17T09:04:49Z
   Vendor: Girafa Sofia
   Product Type: + 3 meses
   Availability: Available
@@ -18612,7 +18598,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/kit-pulseiras-da-amizade-para-criancas-criatividade-e-partilha-80439325-5011979565785-brincatoys-1178701433.jpg?v=1752971172
   Price: 10,90 € EUR
 - [Kit de Pulseiras Brilhantes para Crianças: Moda e Brilho Divertido](https://brincatoys.pt/products/pulseiras-brilhantes-para-criancas): O Kit de Pulseiras Brilhantes para Crianças é a escolha perfeita para festas e brincadeiras com amigos. Presenteie criatividade e diversão!
-  Updated: 2025-10-16T10:34:10Z
+  Updated: 2025-10-17T09:31:00Z
   Vendor: Seleção Brincatoys
   Product Type: + 5 anos
   Availability: Available
@@ -18990,7 +18976,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/jurassic-world-hammond-collection-triceratops-realista-238494825-0194735284948-jurassic-world-1178701689.jpg?v=1752781084
   Price: 24,90 € EUR
 - [Jurassic World Hammond Collection: Atrociraptor Detalhada](https://brincatoys.pt/products/jurassic-world-hammond-collection-atrociraptor): Sinta a emoção de Jurassic World com a figura Jurassic World Hammond Collection: Atrociraptor. Detalhes impressionantes que vão te surpreender!
-  Updated: 2025-10-16T20:21:30Z
+  Updated: 2025-10-17T09:04:10Z
   Vendor: Jurassic World
   Product Type: + 8 anos
   Availability: Available
@@ -21193,10 +21179,10 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-30T11:52:07Z
   Total Products: 38
 - [Figuras de ação](https://brincatoys.pt/collections/figuras-de-acao)
-  Updated: 2025-10-16T15:01:35Z
+  Updated: 2025-10-17T11:23:03Z
   Total Products: 565
 - [Instrumentos musicais](https://brincatoys.pt/collections/instrumentos-musicais)
-  Updated: 2025-10-05T15:27:18Z
+  Updated: 2025-10-17T11:23:03Z
   Total Products: 28
 - [Jogos educativos e de tabuleiro](https://brincatoys.pt/collections/jogos-educativos-e-de-tabuleiro)
   Updated: 2025-10-15T11:21:15Z
@@ -21283,7 +21269,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-16T11:21:15Z
   Total Products: 156
 - [Mundo Fantasia](https://brincatoys.pt/collections/bonecos-disney-mundo-fantasia)
-  Updated: 2025-10-05T15:26:17Z
+  Updated: 2025-10-17T11:23:03Z
   Total Products: 196
 - [Casa de Bonecas e acessórios](https://brincatoys.pt/collections/casa-de-bonecas-e-acessorios)
   Updated: 2025-10-05T15:27:50Z
@@ -21292,7 +21278,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-13T19:05:59Z
   Total Products: 97
 - [Musicais](https://brincatoys.pt/collections/brinquedos-musicais-bebe)
-  Updated: 2025-10-07T18:45:47Z
+  Updated: 2025-10-17T11:23:03Z
   Total Products: 20
 - [Primeiros encaixes](https://brincatoys.pt/collections/primeira-infancia-primeiros-encaixes)
   Updated: 2025-10-16T09:52:22Z
@@ -21328,19 +21314,19 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-10T09:24:34Z
   Total Products: 23
 - [0 - 12 meses](https://brincatoys.pt/collections/0-12-meses)
-  Updated: 2025-10-16T11:21:15Z
+  Updated: 2025-10-17T11:23:03Z
   Total Products: 324
 - [2 - 3 anos](https://brincatoys.pt/collections/2-3-anos)
-  Updated: 2025-10-16T20:44:07Z
+  Updated: 2025-10-17T11:23:03Z
   Total Products: 1567
 - [4 - 5 anos](https://brincatoys.pt/collections/4-5-anos)
   Updated: 2025-10-16T15:02:54Z
   Total Products: 699
 - [8 - 10 anos](https://brincatoys.pt/collections/8-10-anos)
-  Updated: 2025-10-16T15:05:50Z
+  Updated: 2025-10-17T11:23:03Z
   Total Products: 319
 - [+ 3 meses](https://brincatoys.pt/collections/3-meses)
-  Updated: 2025-10-13T18:51:30Z
+  Updated: 2025-10-17T11:23:03Z
   Total Products: 19
 - [+ 6 meses](https://brincatoys.pt/collections/6-meses)
   Updated: 2025-10-05T17:12:02Z
@@ -21349,28 +21335,28 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-13T14:58:51Z
   Total Products: 125
 - [Até €15](https://brincatoys.pt/collections/ate-15)
-  Updated: 2025-10-16T20:51:17Z
-  Total Products: 1300
+  Updated: 2025-10-17T11:23:03Z
+  Total Products: 1298
 - [Até €25](https://brincatoys.pt/collections/ate-25)
-  Updated: 2025-10-16T20:51:17Z
-  Total Products: 2406
+  Updated: 2025-10-17T11:23:03Z
+  Total Products: 2404
 - [Até €35](https://brincatoys.pt/collections/ate-35)
-  Updated: 2025-10-16T20:51:17Z
-  Total Products: 2870
+  Updated: 2025-10-17T11:23:03Z
+  Total Products: 2868
 - [Até €50](https://brincatoys.pt/collections/ate-50)
-  Updated: 2025-10-16T20:51:17Z
-  Total Products: 3253
+  Updated: 2025-10-17T11:23:03Z
+  Total Products: 3251
 - [Até €60](https://brincatoys.pt/collections/ate-60)
-  Updated: 2025-10-16T20:51:17Z
-  Total Products: 3388
+  Updated: 2025-10-17T11:23:03Z
+  Total Products: 3386
 - [Até €80](https://brincatoys.pt/collections/ate-80)
-  Updated: 2025-10-16T20:51:17Z
-  Total Products: 3467
+  Updated: 2025-10-17T11:23:03Z
+  Total Products: 3465
 - [Até €100](https://brincatoys.pt/collections/ate-100)
-  Updated: 2025-10-16T20:51:17Z
-  Total Products: 3516
+  Updated: 2025-10-17T11:23:03Z
+  Total Products: 3514
 - [Novidades](https://brincatoys.pt/collections/novidades)
-  Updated: 2025-10-16T15:05:50Z
+  Updated: 2025-10-17T11:23:03Z
   Total Products: 397
 - [Outlet](https://brincatoys.pt/collections/outlet): Saldos válidos de 04/07/2025 a 26/12/2025, limitado ao stock existente e acumulável com outros descontos ou promoções.
   Updated: 2025-09-29T15:16:28Z
@@ -21430,7 +21416,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-08-22T16:19:55Z
   Total Products: 2
 - [Jurassic World](https://brincatoys.pt/collections/jurassic-world)
-  Updated: 2025-10-16T11:21:15Z
+  Updated: 2025-10-17T11:23:03Z
   Total Products: 36
 - [Marvel](https://brincatoys.pt/collections/marvel)
   Updated: 2025-10-16T20:44:07Z
@@ -21559,8 +21545,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-06T17:09:21Z
   Total Products: 9
 - [Catálogo](https://brincatoys.pt/collections/all)
-  Updated: 2025-10-16T20:51:17Z
-  Total Products: 3549
+  Updated: 2025-10-17T11:23:03Z
+  Total Products: 3547
 - [6 - 7 anos](https://brincatoys.pt/collections/6-7-anos)
   Updated: 2025-10-16T20:51:17Z
   Total Products: 285
@@ -21571,8 +21557,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-15T11:21:15Z
   Total Products: 117
 - [+ 3 anos](https://brincatoys.pt/collections/de-3-anos)
-  Updated: 2025-10-16T20:44:07Z
-  Total Products: 1216
+  Updated: 2025-10-17T11:23:03Z
+  Total Products: 1214
 - [+ 4 anos](https://brincatoys.pt/collections/de-4-anos)
   Updated: 2025-10-16T19:26:27Z
   Total Products: 494
@@ -21586,7 +21572,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-15T11:21:15Z
   Total Products: 77
 - [+ 8 anos](https://brincatoys.pt/collections/8-anos)
-  Updated: 2025-10-16T11:21:15Z
+  Updated: 2025-10-17T11:23:03Z
   Total Products: 217
 - [+ 12 anos](https://brincatoys.pt/collections/12-anos)
   Updated: 2025-10-05T15:16:44Z
@@ -21595,11 +21581,11 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-14T16:29:54Z
   Total Products: 86
 - [Os mais procurados](https://brincatoys.pt/collections/os-mais-populares)
-  Updated: 2025-10-16T20:51:17Z
-  Total Products: 3550
+  Updated: 2025-10-17T11:23:03Z
+  Total Products: 3548
 - [Recém-chegados](https://brincatoys.pt/collections/recem-chegados)
-  Updated: 2025-10-16T20:51:17Z
-  Total Products: 3550
+  Updated: 2025-10-17T11:23:03Z
+  Total Products: 3548
 - [Produtos em destaque](https://brincatoys.pt/collections/produtos-em-destaque)
   Updated: 2025-10-13T12:31:16Z
   Total Products: 22
@@ -21610,17 +21596,17 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-12T11:21:00Z
   Total Products: 6
 - [OrderlyEmails - Recommended Products](https://brincatoys.pt/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-10-16T20:51:17Z
-  Total Products: 3075
+  Updated: 2025-10-17T11:23:03Z
+  Total Products: 3074
 - [Girafa Sofia](https://brincatoys.pt/collections/girafa-sofia)
-  Updated: 2025-10-16T11:21:15Z
+  Updated: 2025-10-17T11:23:03Z
   Total Products: 19
 - [Bburago](https://brincatoys.pt/collections/bburago)
   Updated: 2025-10-16T11:21:15Z
   Total Products: 126
 - [Marketplace](https://brincatoys.pt/collections/marketplace)
-  Updated: 2025-10-16T20:51:17Z
-  Total Products: 3075
+  Updated: 2025-10-17T11:23:03Z
+  Total Products: 3074
 - [EzConnector](https://brincatoys.pt/collections/ezconnector)
   Updated: 2025-10-16T20:51:17Z
   Total Products: 924
