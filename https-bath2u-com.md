@@ -6,7 +6,7 @@
 - Timezone: Asia/Kuala_Lumpur
 - Created At: 2022-10-06T05:47:12Z
 - Contact Email: sales@bath2u.com
-- Updated At: 2025-10-17T08:00:34.208Z
+- Updated At: 2025-10-17T12:00:34.218Z
 
 ## Products
 
@@ -1236,7 +1236,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/SRTWT6853-GY6.jpg?v=1675049540
   Price: RM 460.00 MYR
 - [SORENTO Wall Mounted Brass Round Union Concealed Shower Connector - Golden Yellow](https://bath2u.com/products/sorento-wall-mounted-brass-round-union-concealed-shower-connector-golden-yellow): This high quality brass gold finished wall mounted round union are specially design to provide magnificent look and high quality performance with thermostatic bar showers in your bathroom.Specifications : Width: 50mm Height: 70mm Shape: Round Material: Brass Colour: Golden Yellow Type: Wall Mounted
-  Updated: 2025-10-17T02:52:23Z
+  Updated: 2025-10-17T08:13:56Z
   Vendor: SORENTO
   Product Type: Shower Union
   Availability: Available
