@@ -6,12 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2017-07-28T20:56:09Z
 - Contact Email: jenny@skinqri.com
-- Updated At: 2025-10-17T00:00:31.459Z
+- Updated At: 2025-10-17T16:00:32.162Z
 
 ## Products
 
 - [KeraFactor® Scalp Stimulating Shampoo & Conditioner (Box of 6)](https://mykerafactor.com/products/kerafactor-scalp-stimulating-shampoo-conditioner): 6 x Individual Scalp Stimulating Shampoo and Conditioners per box The KeraFactor Shampoo & Conditioner exfoliates and stimulates the scalp and hair. Using a unique combination of both conditioners and growth factors this product is designed to enhance scalp circulation and reinvigorate the scalp. Continuous use of this conditioning shampoo combined with other Kerafactor products helps create hair that appears fuller, has more body, and is healthier. Each 100ml bottle has enough quantity to be used for 40 washes Only a pea-sized drop is used and lathered before massaging into the scalp. For patients with significant hair, it is recommended to use regular shampoo first and use this product as more of a scalp and hair conditioner than a shampoo wash. RRP per Bottle of Shampoo + Conditioner is $49.00 USD Possible Adverse Reactions: Scalp irritation, rash, or temporary redness. If a reaction occurs, please discontinue use. Warning: Avoid this product if you are allergic to Curcumin. Avoid contact with eyes. In case of contact with eyes, rinse immediately with plenty of water. Keep out of reach of children. Not intended for use by pregnant or nursing women or by any person under the age of 18. If you are taking any medications, consult with your doctor or health professional before use. Storage: Keep in a cool place. Do not freeze. List of Ingredients: Aqua, Coco-Glucoside, Glycerin, Caprylyl/Capryl Glucoside, Pentylene Glycol, Disodium Lauryl Sulfosuccinate, Lauramidopropyl Betaine, Sodium Cocoyl Apple Amino Acids, Glycol Distearate, Betaine, Polyquatenium-10, sh-Oligopeptide-1, sh-Oligopeptide-4, sh-Polypeptide-1, sh-Polypeptide-7, sh-Polypeptide-9, sh-Polypeptide-11, sh-Polypeptide-71, Copper Tripeptide-1, Niacinamide, 3-0-Ethyl Ascorbic Acid, Adenosine, Caffeine, Arginine, Tetrahydrocurcumin, Curcumin, Menthol, Silk Amino Acids, Tetrasodium Glutamate Diacetate, Mensa Avensis Leaf/Stem Oil, Lecithin, Trehalose, Glyceryl Caprylate, Hexylene Glycol, Panthenol, Polysorbate 60, Citric Acid, Sodium Citrate, Sodium Chloride, Phenoxyethanol We are proudly registered with the FDA Cosmetics Direct portal under MoCRA requirements.
-  Updated: 2025-10-16T23:28:03Z
+  Updated: 2025-10-17T02:08:11Z
   Vendor: SkinQRI
   Product Type: Hair Care
   Availability: Available
@@ -39,7 +39,7 @@
   Image: https://cdn.shopify.com/s/files/1/2226/4109/files/hairtipkera-12-opt.jpg?v=1751549921
   Price: $55.00 USD
 - [KeraFactor®MD In-Office Serum (Box of 5)](https://mykerafactor.com/products/kerafactor-2-0-serum): A specific selection and concentration of the 6 biomimetic growth factors, 2 skin proteins, and 2 compounds for Scalp Revitalization. An in-office hair treatment serum. This serum contains only a high concentration of the proprietary formulation of the Kerafactor Peptide Complex. The KeraFactor Peptide complex MD (KFP) plus we have added Follistatin, PolyDeoxyRiboNuculeotide, and NanoFluorosomes. Each specific peptide is wrapped in a nanoliposome-protected carrier for optimum absorption. This serum is designed for use during an in-office procedure and is NOT TO BE INJECTED. 5ml in a syringe with a silicone duckbill applicator. Easy to apply to the patient’s scalp. Possible Adverse Reactions: Scalp irritation, rash, or temporary redness. If a reaction occurs, please discontinue use. For patients with fish allergies, please take a precautionary approach - watch after a cautionary test application. In rare cases, there could be an allergic reaction due to the PDRN in the formula. Warning: Avoid this product if you are allergic to Curcumin. Avoid contact with eyes. In case of contact with eyes, rinse immediately with plenty of water. Keep out of reach of children. Not intended for use by pregnant or nursing women or by any person under the age of 18. If you are taking any medications, consult with your doctor or health professional before use. List of Ingredients for the Serum: Water, Pentylene Glycol, sh-Polypeptide-86, sh-Polypeptide-11, sh-Polypeptide-71, sh-Oligopeptide-1, sh-Oligopeptide-4, sh-Polypeptide-7, sh-Polypeptide-9, sh-Polypeptide-1, DNA(PDRN), Curcumin, Tetrahydrocurcumin, Lecithin, Arginine, Carbomer, Polysorbate 60, Citric Acid, Sodium Citrate, PhenoxyethanolWe are proudly registered with the FDA Cosmetics Direct portal under MoCRA requirements.
-  Updated: 2025-10-16T23:28:04Z
+  Updated: 2025-10-17T15:15:35Z
   Vendor: KeraFactor by SkinQRI
   Product Type: 
   Availability: Available
@@ -187,7 +187,7 @@
 ## Collections
 
 - [Professional Store](https://mykerafactor.com/collections/all)
-  Updated: 2025-10-16T11:04:30Z
+  Updated: 2025-10-17T11:04:37Z
   Total Products: 23
 - [Patient Store](https://mykerafactor.com/collections/buy): buy kerafactor solution shampoo conditioner or keracap laser hair stimulation
   Updated: 2025-03-08T19:40:26Z
