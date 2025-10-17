@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-10-16T16:01:01.321Z
+- Updated At: 2025-10-17T00:01:05.304Z
 
 ## Products
 
@@ -47220,24 +47220,372 @@
   - [47](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-16-elite-km-ag?variant=47827031654650)
     Availability: Available
     Price: ‏1,399.90 ‏₪ ILS
+- [חולצת מנצ'סטר סיטי תלבושת רביעית 25/26 | גברים](https://www.rsport.co.il/products/חולצת-מנצסטר-סיטי-תלבושת-רביעית-25-26-גברים): חולצת מנצ'סטר סיטי תלבושת רביעית לעונת 2025/26 מציגה עיצוב חדש עם שילוב צבעים ייחודי של ירוק כהה ותכלת בהיר. הדגם כולל שרוולים קצרים, גזרה רגילה ונוחה המתאימה לכל מבנה גוף, וצווארון עגול בעיצוב נקי. סמל הקבוצה מופיע בחזית ההדפסה באיכות גבוהה עם גימור עדין שמעניק לחולצה מראה יוקרתי ואלגנטי. החולצה עשויה מ-100% פוליאסטר ממוחזר במשקל קל של כ-150 גרם, עם אריג נושם המאפשר זרימת אוויר רציפה ושמירה על טמפרטורת גוף מאוזנת גם בזמן מאמץ. טכנולוגיית ייבוש מהיר מסייעת לשמור על תחושת רעננות ונוחות לאורך כל פעילות, ומונעת הצטברות לחות וזיעה. מתאימה לשימוש באימונים, משחקים וללבוש יומיומי. עמידה בכביסות חוזרות ושומרת על צבע וצורה לאורך זמן. מיועדת לאוהדי הקבוצה שמחפשים שילוב בין עיצוב ספורטיבי לתחושת נוחות מתקדמת.
+  Updated: 2025-10-16T21:44:02Z
+  Vendor: R:SPORT
+  Product Type: חולצת כדורגל
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/1_84c1511b-35c9-4d72-8f20-d481064f82e4.jpg?v=1760650233
+  - [S](https://www.rsport.co.il/products/חולצת-מנצסטר-סיטי-תלבושת-רביעית-25-26-גברים?variant=47831142826234)
+    Availability: Available
+    Price: ‏180.00 ‏₪ ILS
+  - [M](https://www.rsport.co.il/products/חולצת-מנצסטר-סיטי-תלבושת-רביעית-25-26-גברים?variant=47831142859002)
+    Availability: Available
+    Price: ‏180.00 ‏₪ ILS
+  - [L](https://www.rsport.co.il/products/חולצת-מנצסטר-סיטי-תלבושת-רביעית-25-26-גברים?variant=47831142891770)
+    Availability: Available
+    Price: ‏180.00 ‏₪ ILS
+  - [XL](https://www.rsport.co.il/products/חולצת-מנצסטר-סיטי-תלבושת-רביעית-25-26-גברים?variant=47831142924538)
+    Availability: Available
+    Price: ‏180.00 ‏₪ ILS
+  - [XXL](https://www.rsport.co.il/products/חולצת-מנצסטר-סיטי-תלבושת-רביעית-25-26-גברים?variant=47831142957306)
+    Availability: Available
+    Price: ‏180.00 ‏₪ ILS
+  - [XXXL](https://www.rsport.co.il/products/חולצת-מנצסטר-סיטי-תלבושת-רביעית-25-26-גברים?variant=47831142990074)
+    Availability: Available
+    Price: ‏180.00 ‏₪ ILS
+- [חולצת משחקי מנצ'סטר סיטי תלבושת רביעית 2025/26 | גברים](https://www.rsport.co.il/products/חולצת-משחקי-מנצסטר-סיטי-תלבושת-רביעית-2025-26-גברים): חולצת המשחקים הרביעית של מנצ'סטר סיטי לעונת 2025/26 מעוצבת בהשראת גרסת השחקנים על המגרש. החולצה מציגה עיצוב חדשני בצבע שחור עם נגיעות תכלת, וכוללת גזרה צמודה המדגישה את קווי הגוף ומאפשרת תנועה חופשית ונוחה בזמן משחק. עשויה מ-100% פוליאסטר קל משקל עם אריג נושם המסייע לשמירה על טמפרטורה מאוזנת גם במהלך פעילות אינטנסיבית. החומר מתייבש במהירות ומעניק תחושת רעננות מתמשכת. מתאימה לשחקנים ולאוהדים שמחפשים מראה מקצועי ונקי עם תחושת ביצועים גבוהה.
+  Updated: 2025-10-16T21:52:05Z
+  Vendor: R:SPORT
+  Product Type: חולצת כדורגל
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/3_7a7a2d1b-c155-4f19-8285-30a447b6df48.jpg?v=1760651056
+  - [S](https://www.rsport.co.il/products/חולצת-משחקי-מנצסטר-סיטי-תלבושת-רביעית-2025-26-גברים?variant=47831167140090)
+    Availability: Available
+    Price: ‏200.00 ‏₪ ILS
+  - [M](https://www.rsport.co.il/products/חולצת-משחקי-מנצסטר-סיטי-תלבושת-רביעית-2025-26-גברים?variant=47831167172858)
+    Availability: Available
+    Price: ‏200.00 ‏₪ ILS
+  - [L](https://www.rsport.co.il/products/חולצת-משחקי-מנצסטר-סיטי-תלבושת-רביעית-2025-26-גברים?variant=47831167205626)
+    Availability: Available
+    Price: ‏200.00 ‏₪ ILS
+  - [XL](https://www.rsport.co.il/products/חולצת-משחקי-מנצסטר-סיטי-תלבושת-רביעית-2025-26-גברים?variant=47831167238394)
+    Availability: Available
+    Price: ‏200.00 ‏₪ ILS
+  - [XXL](https://www.rsport.co.il/products/חולצת-משחקי-מנצסטר-סיטי-תלבושת-רביעית-2025-26-גברים?variant=47831167271162)
+    Availability: Available
+    Price: ‏200.00 ‏₪ ILS
+  - [XXXL](https://www.rsport.co.il/products/חולצת-משחקי-מנצסטר-סיטי-תלבושת-רביעית-2025-26-גברים?variant=47831167303930)
+    Availability: Available
+    Price: ‏200.00 ‏₪ ILS
+- [חליפת כדורגל מנצ'סטר סיטי תלבושת רביעית 25/26 | ילדים](https://www.rsport.co.il/products/חליפת-כדורגל-מנצסטר-סיטי-תלבושת-רביעית-25-26-ילדים): חליפת כדורגל מנצ'סטר סיטי תלבושת רביעית 25/26 לילדים, הכוללת חולצה קצרה ומכנס קצר בעיצוב תואם בצבע ירוק כה, העיצוב שומר על הקווים המודרניים של קבוצת מנצ'סטר סיטי ויוצר מראה צעיר ואנרגטי. החליפה עשויה מבד קליל ונושם מ-100% פוליאסטר איכותי, המעניק תחושת נוחות ורעננות גם בזמן פעילות ממושכת. הגזרה מותאמת במיוחד לילדים ומאפשרת חופש תנועה מלא במשחקים, באימונים או בשימוש יומיומי. בחירה מושלמת לכל ילד שאוהב את הקבוצה ורוצה להרגיש חלק ממנה.
+  Updated: 2025-10-16T21:59:21Z
+  Vendor: R:SPORT
+  Product Type: חליפות כדורגל ילדים
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/2025-10-17T005436.502.jpg?v=1760651686
+  - [2-3Y](https://www.rsport.co.il/products/חליפת-כדורגל-מנצסטר-סיטי-תלבושת-רביעית-25-26-ילדים?variant=47831186604282)
+    Availability: Available
+    Price: ‏169.90 ‏₪ ILS
+  - [4-5Y](https://www.rsport.co.il/products/חליפת-כדורגל-מנצסטר-סיטי-תלבושת-רביעית-25-26-ילדים?variant=47831186637050)
+    Availability: Available
+    Price: ‏169.90 ‏₪ ILS
+  - [6-7Y](https://www.rsport.co.il/products/חליפת-כדורגל-מנצסטר-סיטי-תלבושת-רביעית-25-26-ילדים?variant=47831186669818)
+    Availability: Available
+    Price: ‏169.90 ‏₪ ILS
+  - [8-9Y](https://www.rsport.co.il/products/חליפת-כדורגל-מנצסטר-סיטי-תלבושת-רביעית-25-26-ילדים?variant=47831186702586)
+    Availability: Available
+    Price: ‏169.90 ‏₪ ILS
+- [חולצת כדורגל מנצ'סטר סיטי רביעית 25/26 | ג'וניורס](https://www.rsport.co.il/products/חולצת-כדורגל-מנצסטר-סיטי-רביעית-25-26-גוניורס): חולצת כדורגל מנצ'סטר סיטי רביעית 25/26 לג'וניורס בעיצוב חדש ומעודכן בהשראת תלבושת הקבוצה על המגרש. מגיעה בגזרה נוחה ומאווררת, המותאמת במיוחד לפעילות ספורטיבית ולחיי היום-יום של ילדים ונערים. החולצה עשויה מ-100% פוליאסטר קל ונושם המסייע בשמירה על תחושת רעננות לאורך זמן. הבד מתייבש במהירות ומונע הצטברות לחות, מה שמבטיח נוחות גם באימונים אינטנסיביים. הצבע הירוק הכהה בשילוב פרטים תכלת מעניק לחולצה מראה מודרני ומובחן המזוהה עם מנצ'סטר סיטי. מתאימה לאוהדים הצעירים שרוצים להרגיש חלק מהקבוצה, לשחק, להתאמן או ללבוש אותה ביום-יום בגאווה.
+  Updated: 2025-10-16T22:10:33Z
+  Vendor: R:SPORT
+  Product Type: חליפת כדורגל ילדים
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/5_d645bf78-d24f-4baa-85f6-e923218eb120.jpg?v=1760652076
+  - [10-11Y](https://www.rsport.co.il/products/חולצת-כדורגל-מנצסטר-סיטי-רביעית-25-26-גוניורס?variant=47831199645946)
+    Availability: Available
+    Price: ‏140.00 ‏₪ ILS
+  - [11-12Y](https://www.rsport.co.il/products/חולצת-כדורגל-מנצסטר-סיטי-רביעית-25-26-גוניורס?variant=47831199678714)
+    Availability: Available
+    Price: ‏140.00 ‏₪ ILS
+  - [12-13Y](https://www.rsport.co.il/products/חולצת-כדורגל-מנצסטר-סיטי-רביעית-25-26-גוניורס?variant=47831199711482)
+    Availability: Available
+    Price: ‏140.00 ‏₪ ILS
+  - [13-14Y](https://www.rsport.co.il/products/חולצת-כדורגל-מנצסטר-סיטי-רביעית-25-26-גוניורס?variant=47831199744250)
+    Availability: Available
+    Price: ‏140.00 ‏₪ ILS
+- [מכנסי כדורגל קצרים מנצ'סטר סיטי תלבושת רביעית 25/26 | ג'וניורס](https://www.rsport.co.il/products/מכנסי-כדורגל-קצרים-מנצסטר-סיטי-תלבושת-רביעית-25-26-גוניורס): מכנסי כדורגל קצרים לג'וניורס של מנצ'סטר סיטי תלבושת רביעית 25/26 בעיצוב תואם לחולצה הרשמית בצבע ירוק כהה עם פרטים תכלת. המכנסיים משלבים מראה ספורטיבי ונוחות מושלמת לכל פעילות על המגרש או מחוצה לו. עשויים מ-100% פוליאסטר קל ונושם במשקל של כ-140 גרם, עם גזרה נוחה וגומי אלסטי במותן המבטיחים חופש תנועה מלא והתאמה נוחה לילדים. הבד מנדף לחות ומתייבש במהירות, כך שניתן לשמור על תחושת יובש ורעננות גם בזמן משחק ממושך. עיצוב עם סמל הקבוצה בצד הקדמי ותפירה איכותית לשימוש יומיומי או אימונים. פריט אידיאלי לאוהדים הצעירים שרוצים לייצג את מנצ'סטר סיטי בגאווה ולהרגיש חלק מהקבוצה.
+  Updated: 2025-10-16T22:19:55Z
+  Vendor: R:SPORT
+  Product Type: מכנסי כדורגל
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/1_b8276a29-4e3d-4888-aa78-2a48fc9fa5c5.jpg?v=1760652838
+  - [10-11Y](https://www.rsport.co.il/products/מכנסי-כדורגל-קצרים-מנצסטר-סיטי-תלבושת-רביעית-25-26-גוניורס?variant=47831210918138)
+    Availability: Available
+    Price: ‏89.90 ‏₪ ILS
+  - [11-12Y](https://www.rsport.co.il/products/מכנסי-כדורגל-קצרים-מנצסטר-סיטי-תלבושת-רביעית-25-26-גוניורס?variant=47831210950906)
+    Availability: Available
+    Price: ‏89.90 ‏₪ ILS
+  - [12-13Y](https://www.rsport.co.il/products/מכנסי-כדורגל-קצרים-מנצסטר-סיטי-תלבושת-רביעית-25-26-גוניורס?variant=47831210983674)
+    Availability: Available
+    Price: ‏89.90 ‏₪ ILS
+  - [13-14Y](https://www.rsport.co.il/products/מכנסי-כדורגל-קצרים-מנצסטר-סיטי-תלבושת-רביעית-25-26-גוניורס?variant=47831211016442)
+    Availability: Available
+    Price: ‏89.90 ‏₪ ILS
+- [חולצת טוטנהאם הוטספר תלבושת שלישית 25/26 | גברים](https://www.rsport.co.il/products/חולצת-טוטנהאם-הוטספר-תלבושת-שלישית-25-26-גברים): חולצת טוטנהאם הוטספר תלבושת שלישית לעונת 2025/26 לגברים, בעיצוב ייחודי בצבעי צהוב, כחול כהה ותכלת. החולצה משלבת מראה מודרני ונקי עם גזרה רגילה ונוחה, המתאימה למשחקים, לאימונים ולשימוש יומיומי. עשויה מ-100% פוליאסטר קל ונושם במשקל של כ-150 גרם, המסייע לשמור על תחושת רעננות ויובש גם בזמן פעילות אינטנסיבית. הבד מאפשר תנועה חופשית ונוחות מירבית לאורך כל היום, עם גימורים איכותיים וצווארון עגול לנוחות נוספת. העיצוב כולל סמל טוטנהאם הוטספר בצד החזה ודוגמה דינמית המעניקה לחולצה מראה בולט ואנרגטי. פריט מושלם לכל אוהד שרוצה ללבוש את צבעי הקבוצה בגאווה ובסטייל.
+  Updated: 2025-10-16T22:30:15Z
+  Vendor: R:SPORT
+  Product Type: חולצת כדורגל
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/2025-10-17T012406.618.jpg?v=1760653523
+  - [S](https://www.rsport.co.il/products/חולצת-טוטנהאם-הוטספר-תלבושת-שלישית-25-26-גברים?variant=47831257481466)
+    Availability: Available
+    Price: ‏180.00 ‏₪ ILS
+  - [M](https://www.rsport.co.il/products/חולצת-טוטנהאם-הוטספר-תלבושת-שלישית-25-26-גברים?variant=47831257514234)
+    Availability: Available
+    Price: ‏180.00 ‏₪ ILS
+  - [L](https://www.rsport.co.il/products/חולצת-טוטנהאם-הוטספר-תלבושת-שלישית-25-26-גברים?variant=47831257547002)
+    Availability: Available
+    Price: ‏180.00 ‏₪ ILS
+  - [XL](https://www.rsport.co.il/products/חולצת-טוטנהאם-הוטספר-תלבושת-שלישית-25-26-גברים?variant=47831257579770)
+    Availability: Available
+    Price: ‏180.00 ‏₪ ILS
+  - [XXL](https://www.rsport.co.il/products/חולצת-טוטנהאם-הוטספר-תלבושת-שלישית-25-26-גברים?variant=47831257612538)
+    Availability: Available
+    Price: ‏180.00 ‏₪ ILS
+  - [XXXL](https://www.rsport.co.il/products/חולצת-טוטנהאם-הוטספר-תלבושת-שלישית-25-26-גברים?variant=47831257645306)
+    Availability: Available
+    Price: ‏180.00 ‏₪ ILS
+- [חולצת משחקי טוטנהאם הוטספר שלישית 25/26 אותנטית | גברים](https://www.rsport.co.il/products/חולצת-משחקי-טוטנהאם-הוטספר-שלישית-25-26-אותנטית-גברים): חולצת המשחקים השלישית של טוטנהאם הוטספר לעונת 2025/26 בגרסה האותנטית לשחקנים, בעיצוב מקצועי בצבעי צהוב, כחול כהה ותכלת. הדגם מיועד לביצועים ברמה הגבוהה ביותר, עם גזרה צמודה לגוף לחוויית משחק מדויקת ואווירודינמית. החולצה עשויה מ-100% פוליאסטר עם אריג נושם המאפשר זרימת אוויר חופשית ונידוף זיעה מואץ. הבד מתייבש במהירות ומעניק תחושת קלילות ונוחות לאורך זמן, גם בתנאי משחק אינטנסיביים. תוספות גמישות באזורי הכתפיים והגב משפרות את התנועה והביצועים על המגרש. כוללת סמל טוטנהאם הוטספר מודפס בחום עם גימור איכותי, עיצוב דינמי ודגש על פרטים מדויקים כפי שנלבש על ידי שחקני הקבוצה. חולצה זו משלבת בין ביצועים מקצועיים למראה ספורטיבי יוקרתי.
+  Updated: 2025-10-16T22:38:23Z
+  Vendor: R:SPORT
+  Product Type: חולצת כדורגל
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/2025-10-17T013007.707.jpg?v=1760653921
+  - [S](https://www.rsport.co.il/products/חולצת-משחקי-טוטנהאם-הוטספר-שלישית-25-26-אותנטית-גברים?variant=47831287890170)
+    Availability: Available
+    Price: ‏200.00 ‏₪ ILS
+  - [M](https://www.rsport.co.il/products/חולצת-משחקי-טוטנהאם-הוטספר-שלישית-25-26-אותנטית-גברים?variant=47831287922938)
+    Availability: Available
+    Price: ‏200.00 ‏₪ ILS
+  - [L](https://www.rsport.co.il/products/חולצת-משחקי-טוטנהאם-הוטספר-שלישית-25-26-אותנטית-גברים?variant=47831287955706)
+    Availability: Available
+    Price: ‏200.00 ‏₪ ILS
+  - [XL](https://www.rsport.co.il/products/חולצת-משחקי-טוטנהאם-הוטספר-שלישית-25-26-אותנטית-גברים?variant=47831287988474)
+    Availability: Available
+    Price: ‏200.00 ‏₪ ILS
+  - [XXL](https://www.rsport.co.il/products/חולצת-משחקי-טוטנהאם-הוטספר-שלישית-25-26-אותנטית-גברים?variant=47831288021242)
+    Availability: Available
+    Price: ‏200.00 ‏₪ ILS
+  - [XXXL](https://www.rsport.co.il/products/חולצת-משחקי-טוטנהאם-הוטספר-שלישית-25-26-אותנטית-גברים?variant=47831288054010)
+    Availability: Available
+    Price: ‏200.00 ‏₪ ILS
+- [חולצת כדורגל טוטנהאם הוטספר שלישית 25/26 | ג'וניורס](https://www.rsport.co.il/products/חולצת-כדורגל-טוטנהאם-הוטספר-שלישית-25-26-גוניורס): חולצת כדורגל טוטנהאם הוטספר שלישית לעונת 2025/26 לג'וניורס בעיצוב צבעוני ומודרני בצבעי צהוב, כחול כהה ותכלת. החולצה משלבת בין נוחות לביצועים ומותאמת במיוחד לילדים ונערים הפעילים באימונים, משחקים או לשימוש יומיומי. עשויה מ-100% פוליאסטר קל ונושם במשקל של כ-150 גרם, עם גזרה נוחה המאפשרת תנועה חופשית ושמירה על תחושת רעננות לאורך כל היום. החומר מתייבש במהירות ומעניק נוחות גם בזמן פעילות אינטנסיבית. עיצוב נקי עם סמל הקבוצה המודפס בחזית מעניק מראה ספורטיבי ואופנתי לכל אוהד צעיר.
+  Updated: 2025-10-16T22:41:03Z
+  Vendor: R:SPORT
+  Product Type: חליפת כדורגל ילדים
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/14_576f40d5-0233-4106-93f5-67a02a3515aa.jpg?v=1760654369
+  - [10-11Y](https://www.rsport.co.il/products/חולצת-כדורגל-טוטנהאם-הוטספר-שלישית-25-26-גוניורס?variant=47831309418746)
+    Availability: Available
+    Price: ‏150.00 ‏₪ ILS
+  - [11-12Y](https://www.rsport.co.il/products/חולצת-כדורגל-טוטנהאם-הוטספר-שלישית-25-26-גוניורס?variant=47831309451514)
+    Availability: Available
+    Price: ‏150.00 ‏₪ ILS
+  - [12-13Y](https://www.rsport.co.il/products/חולצת-כדורגל-טוטנהאם-הוטספר-שלישית-25-26-גוניורס?variant=47831309484282)
+    Availability: Available
+    Price: ‏150.00 ‏₪ ILS
+  - [13-14Y](https://www.rsport.co.il/products/חולצת-כדורגל-טוטנהאם-הוטספר-שלישית-25-26-גוניורס?variant=47831309517050)
+    Availability: Available
+    Price: ‏150.00 ‏₪ ILS
+- [חליפת ילדים טוטנהאם הוטספר שלישית 25/26](https://www.rsport.co.il/products/חליפת-ילדים-טוטנהאם-הוטספר-שלישית-25-26): חליפת ילדים טוטנהאם הוטספר שלישית לעונת 2025/26 כוללת חולצה קצרה ומכנס קצר בעיצוב תואם בצבעי צהוב, כחול כהה ותכלת. העיצוב שומר על הסגנון הרשמי של הקבוצה ומעניק מראה צעיר, נקי וספורטיבי שמתאים לכל אוהד קטן של טוטנהאם. עשויה מ-100% פוליאסטר קל ונושם עם אריג איכותי המתייבש במהירות ושומר על תחושת רעננות גם בזמן משחקים ואימונים ארוכים. הגזרה מותאמת לילדים ומאפשרת תנועה חופשית ונוחות מירבית לאורך כל היום. החליפה משלבת נוחות יומיומית עם מראה מקצועי על המגרש, והיא הבחירה המושלמת לילדים שרוצים ללבוש את צבעי טוטנהאם בגאווה.
+  Updated: 2025-10-16T23:09:47Z
+  Vendor: R:SPORT
+  Product Type: חליפות כדורגל ילדים
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/12_0787a1e4-1737-4294-8af0-52b8f45b66cd.jpg?v=1760654572
+  - [2-3Y](https://www.rsport.co.il/products/חליפת-ילדים-טוטנהאם-הוטספר-שלישית-25-26?variant=47831315513594)
+    Availability: Available
+    Price: ‏220.00 ‏₪ ILS
+  - [4-5Y](https://www.rsport.co.il/products/חליפת-ילדים-טוטנהאם-הוטספר-שלישית-25-26?variant=47831315546362)
+    Availability: Available
+    Price: ‏220.00 ‏₪ ILS
+  - [6-7Y](https://www.rsport.co.il/products/חליפת-ילדים-טוטנהאם-הוטספר-שלישית-25-26?variant=47831315579130)
+    Availability: Available
+    Price: ‏220.00 ‏₪ ILS
+  - [8-9Y](https://www.rsport.co.il/products/חליפת-ילדים-טוטנהאם-הוטספר-שלישית-25-26?variant=47831315611898)
+    Availability: Available
+    Price: ‏220.00 ‏₪ ILS
+- [חולצת ווסטהאם יונייטד בית 25/26 | גברים](https://www.rsport.co.il/products/חולצת-ווסטהאם-יונייטד-בית-25-26-גברים): חולצת ווסטהאם יונייטד בית לעונת 2025/26 בעיצוב קלאסי ומעודכן בגווני בורדו ותכלת. החולצה משלבת מראה אלגנטי עם קווים נקיים ותחושת סטייל מודרנית, ומתאימה לכל אוהד שרוצה ללבוש את צבעי הקבוצה בגאווה. עשויה מ-100% פוליאסטר קל ונושם, לנוחות גבוהה ולשמירה על תחושת רעננות לאורך כל היום. הגזרה הרגילה מאפשרת תנועה חופשית ומתאימה גם לפעילות ספורטיבית וגם ללבוש יומיומי. עיצוב מינימליסטי עם גימורים איכותיים ופרופיל ספורטיבי נקי מעניקים לחולצה מראה ייחודי וסטייל בריטי אמיתי.
+  Updated: 2025-10-16T22:57:40Z
+  Vendor: R:SPORT
+  Product Type: חולצת כדורגל
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/16_bbc2e666-7329-4cc3-bbad-27782ef70ac0.jpg?v=1760654813
+  - [S](https://www.rsport.co.il/products/חולצת-ווסטהאם-יונייטד-בית-25-26-גברים?variant=47831316988154)
+    Availability: Available
+    Price: ‏180.00 ‏₪ ILS
+  - [M](https://www.rsport.co.il/products/חולצת-ווסטהאם-יונייטד-בית-25-26-גברים?variant=47831317020922)
+    Availability: Available
+    Price: ‏180.00 ‏₪ ILS
+  - [L](https://www.rsport.co.il/products/חולצת-ווסטהאם-יונייטד-בית-25-26-גברים?variant=47831317053690)
+    Availability: Available
+    Price: ‏180.00 ‏₪ ILS
+  - [XL](https://www.rsport.co.il/products/חולצת-ווסטהאם-יונייטד-בית-25-26-גברים?variant=47831317086458)
+    Availability: Available
+    Price: ‏180.00 ‏₪ ILS
+  - [XXL](https://www.rsport.co.il/products/חולצת-ווסטהאם-יונייטד-בית-25-26-גברים?variant=47831317119226)
+    Availability: Available
+    Price: ‏180.00 ‏₪ ILS
+  - [XXXL](https://www.rsport.co.il/products/חולצת-ווסטהאם-יונייטד-בית-25-26-גברים?variant=47831317151994)
+    Availability: Available
+    Price: ‏180.00 ‏₪ ILS
+- [חולצת ווסטהאם יונייטד חוץ 25/26 | גברים](https://www.rsport.co.il/products/חולצת-ווסטהאם-יונייטד-חוץ-25-26-גברים): חולצת ווסטהאם יונייטד חוץ לעונת 2025/26 בעיצוב מודרני בגווני לבן ותכלת עם נגיעות בורדו עדינות. החולצה משלבת בין מראה נקי לסגנון ספורטיבי אלגנטי, ומציעה נוחות גבוהה לכל מצב – על המגרש או ביום-יום. עשויה מ-100% פוליאסטר נושם וקליל, המסייע בשמירה על תחושת יובש ורעננות גם בזמן פעילות אינטנסיבית. הגזרה הרגילה מבטיחה תנועה חופשית ונוחות לאורך זמן, עם בד רך ונעים למגע. עיצוב מסוגנן עם קווים דקים ותחושת סטייל עדינה, ההופכים את החולצה לבחירה מושלמת לאוהדי ווסטהאם שרוצים ללבוש את צבעי הקבוצה בגאווה ובטעם.
+  Updated: 2025-10-16T22:55:38Z
+  Vendor: R:SPORT
+  Product Type: חולצת כדורגל
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/18_8c5aa23c-73b6-46c7-8696-d2e32aebda2f.jpg?v=1760655092
+  - [S](https://www.rsport.co.il/products/חולצת-ווסטהאם-יונייטד-חוץ-25-26-גברים?variant=47831320494330)
+    Availability: Available
+    Price: ‏180.00 ‏₪ ILS
+  - [M](https://www.rsport.co.il/products/חולצת-ווסטהאם-יונייטד-חוץ-25-26-גברים?variant=47831320527098)
+    Availability: Available
+    Price: ‏180.00 ‏₪ ILS
+  - [L](https://www.rsport.co.il/products/חולצת-ווסטהאם-יונייטד-חוץ-25-26-גברים?variant=47831320559866)
+    Availability: Available
+    Price: ‏180.00 ‏₪ ILS
+  - [XL](https://www.rsport.co.il/products/חולצת-ווסטהאם-יונייטד-חוץ-25-26-גברים?variant=47831320592634)
+    Availability: Available
+    Price: ‏180.00 ‏₪ ILS
+  - [XXL](https://www.rsport.co.il/products/חולצת-ווסטהאם-יונייטד-חוץ-25-26-גברים?variant=47831320625402)
+    Availability: Available
+    Price: ‏180.00 ‏₪ ILS
+  - [XXXL](https://www.rsport.co.il/products/חולצת-ווסטהאם-יונייטד-חוץ-25-26-גברים?variant=47831320658170)
+    Availability: Available
+    Price: ‏180.00 ‏₪ ILS
+- [חולצת ווסטהאם יונייטד שלישית 25/26 | גברים](https://www.rsport.co.il/products/חולצת-ווסטהאם-יונייטד-שלישית-25-26-גברים): חולצת ווסטהאם יונייטד שלישית לעונת 2025/26 בעיצוב ייחודי בגווני שחור ותכלת עם נגיעות אפור. החולצה מציגה מראה מודרני ובעל אופי צעיר, המשלב בין נוחות גבוהה לסטייל ספורטיבי בולט. עשויה מ-100% פוליאסטר קל ונושם, המספק תחושת רעננות ונוחות לאורך כל פעילות. הגזרה הרגילה מבטיחה תנועה חופשית והתאמה מושלמת לגוף, עם בד רך וגמיש המתאים גם לאימונים וגם ללבוש יום-יומי. עיצוב עדכני עם פרטים נקיים ותחושת עומק ייחודית בבד מעניקים לחולצה מראה מודגש, מושלם לכל אוהד שמחפש לשלב בין סגנון לביצועים.
+  Updated: 2025-10-16T22:55:38Z
+  Vendor: R:SPORT
+  Product Type: חולצת כדורגל
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/20_c8f3301f-fbe2-4659-bb9e-ce0bf7be7cf1.jpg?v=1760655190
+  - [S](https://www.rsport.co.il/products/חולצת-ווסטהאם-יונייטד-שלישית-25-26-גברים?variant=47831321247994)
+    Availability: Available
+    Price: ‏180.00 ‏₪ ILS
+  - [M](https://www.rsport.co.il/products/חולצת-ווסטהאם-יונייטד-שלישית-25-26-גברים?variant=47831321280762)
+    Availability: Available
+    Price: ‏180.00 ‏₪ ILS
+  - [L](https://www.rsport.co.il/products/חולצת-ווסטהאם-יונייטד-שלישית-25-26-גברים?variant=47831321313530)
+    Availability: Available
+    Price: ‏180.00 ‏₪ ILS
+  - [XL](https://www.rsport.co.il/products/חולצת-ווסטהאם-יונייטד-שלישית-25-26-גברים?variant=47831321346298)
+    Availability: Available
+    Price: ‏180.00 ‏₪ ILS
+  - [XXL](https://www.rsport.co.il/products/חולצת-ווסטהאם-יונייטד-שלישית-25-26-גברים?variant=47831321379066)
+    Availability: Available
+    Price: ‏180.00 ‏₪ ILS
+  - [XXXL](https://www.rsport.co.il/products/חולצת-ווסטהאם-יונייטד-שלישית-25-26-גברים?variant=47831321411834)
+    Availability: Available
+    Price: ‏180.00 ‏₪ ILS
+- [חולצת אברטון בית 25/26 | גברים](https://www.rsport.co.il/products/חולצת-אברטון-בית-25-26-גברים): חולצת אברטון בית לעונת 2025/26 בעיצוב קלאסי בצבע כחול עמוק עם פרטים לבנים. החולצה משלבת בין סגנון אלגנטי למראה ספורטיבי ומציעה נוחות גבוהה לכל אוהד של המועדון. עשויה מ-100% פוליאסטר נושם וקל, המסייע בשמירה על תחושת רעננות לאורך כל היום. הגזרה הרגילה מתאימה לכל מבנה גוף ומאפשרת תנועה חופשית ונוחות בזמן משחק או לבוש יומיומי. עיצוב מודרני עם קווים נקיים ותחושת סטייל בריטי קלאסי, המתאים לכל אוהד שמחפש חולצת כדורגל איכותית עם נוכחות.
+  Updated: 2025-10-16T23:04:36Z
+  Vendor: R:SPORT
+  Product Type: חולצת כדורגל
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/23_9e4db03e-d1e7-41b1-a931-712df880b26c.jpg?v=1760655527
+  - [S](https://www.rsport.co.il/products/חולצת-אברטון-בית-25-26-גברים?variant=47831322853626)
+    Availability: Available
+    Price: ‏160.00 ‏₪ ILS
+  - [M](https://www.rsport.co.il/products/חולצת-אברטון-בית-25-26-גברים?variant=47831322886394)
+    Availability: Available
+    Price: ‏160.00 ‏₪ ILS
+  - [L](https://www.rsport.co.il/products/חולצת-אברטון-בית-25-26-גברים?variant=47831322919162)
+    Availability: Available
+    Price: ‏160.00 ‏₪ ILS
+  - [XL](https://www.rsport.co.il/products/חולצת-אברטון-בית-25-26-גברים?variant=47831322951930)
+    Availability: Available
+    Price: ‏160.00 ‏₪ ILS
+  - [XXL](https://www.rsport.co.il/products/חולצת-אברטון-בית-25-26-גברים?variant=47831322984698)
+    Availability: Available
+    Price: ‏160.00 ‏₪ ILS
+  - [XXXL](https://www.rsport.co.il/products/חולצת-אברטון-בית-25-26-גברים?variant=47831323017466)
+    Availability: Available
+    Price: ‏160.00 ‏₪ ILS
+- [חולצת אברטון חוץ 25/26 | גברים](https://www.rsport.co.il/products/חולצת-אברטון-חוץ-25-26-גברים): חולצת אברטון חוץ לעונת 2025/26 בעיצוב חדשני בצבע לבן עם נגיעות כחול כהה וכתום עדין. החולצה משלבת מראה אלגנטי עם טאץ' ספורטיבי ומתאימה לאוהדים שמחפשים שילוב בין סטייל ונוחות. עשויה מ-100% פוליאסטר קל ונושם, לנוחות מרבית ולשמירה על תחושת יובש לאורך כל היום. הגזרה הרגילה מאפשרת תנועה חופשית ומתאימה לשימוש במשחקים, באימונים או בלבוש יום-יומי. עיצוב מודרני עם קווים עדינים וגימור חלק מעניקים לחולצה מראה נקי ומרשים שמתאים לכל אוהד אברטון בגאווה.
+  Updated: 2025-10-16T23:05:58Z
+  Vendor: R:SPORT
+  Product Type: חולצת כדורגל
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/26_7fcac8d7-9085-4042-89e2-8aebae980255.jpg?v=1760655640
+  - [S](https://www.rsport.co.il/products/חולצת-אברטון-חוץ-25-26-גברים?variant=47831323181306)
+    Availability: Available
+    Price: ‏160.00 ‏₪ ILS
+  - [M](https://www.rsport.co.il/products/חולצת-אברטון-חוץ-25-26-גברים?variant=47831323214074)
+    Availability: Available
+    Price: ‏160.00 ‏₪ ILS
+  - [L](https://www.rsport.co.il/products/חולצת-אברטון-חוץ-25-26-גברים?variant=47831323246842)
+    Availability: Available
+    Price: ‏160.00 ‏₪ ILS
+  - [XL](https://www.rsport.co.il/products/חולצת-אברטון-חוץ-25-26-גברים?variant=47831323279610)
+    Availability: Available
+    Price: ‏160.00 ‏₪ ILS
+  - [XXL](https://www.rsport.co.il/products/חולצת-אברטון-חוץ-25-26-גברים?variant=47831323312378)
+    Availability: Available
+    Price: ‏160.00 ‏₪ ILS
+  - [XXXL](https://www.rsport.co.il/products/חולצת-אברטון-חוץ-25-26-גברים?variant=47831323345146)
+    Availability: Available
+    Price: ‏160.00 ‏₪ ILS
+- [חולצת אברטון שלישית 25/26 | גברים](https://www.rsport.co.il/products/חולצת-אברטון-שלישית-25-26-גברים): חולצת אברטון שלישית לעונת 2025/26 בעיצוב מודרני ונועז בגווני כחול כהה עם נגיעות טורקיז ואפור. החולצה משלבת סגנון צעיר ודינמי עם קווים נקיים ותחושת נוחות גבוהה, ומתאימה לאוהדים שמחפשים מראה בולט וסטייל ייחודי. עשויה מ-100% פוליאסטר קל ונושם, השומר על תחושת רעננות לאורך כל היום ומאפשר תנועה חופשית בזמן משחק או פעילות ספורטיבית. הגזרה הרגילה מספקת התאמה נוחה לגוף עם בד רך ונעים למגע. עיצוב אלגנטי עם גימור איכותי וקונטרסט צבעים עדין, שהופכים את החולצה לפריט חובה לכל אוהד אברטון.
+  Updated: 2025-10-16T23:05:59Z
+  Vendor: R:SPORT
+  Product Type: חולצת כדורגל
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/29_1926b16e-6104-489d-9e7b-ce437ddc3150.jpg?v=1760655640
+  - [S](https://www.rsport.co.il/products/חולצת-אברטון-שלישית-25-26-גברים?variant=47831338025210)
+    Availability: Available
+    Price: ‏160.00 ‏₪ ILS
+  - [M](https://www.rsport.co.il/products/חולצת-אברטון-שלישית-25-26-גברים?variant=47831338057978)
+    Availability: Available
+    Price: ‏160.00 ‏₪ ILS
+  - [L](https://www.rsport.co.il/products/חולצת-אברטון-שלישית-25-26-גברים?variant=47831338090746)
+    Availability: Available
+    Price: ‏160.00 ‏₪ ILS
+  - [XL](https://www.rsport.co.il/products/חולצת-אברטון-שלישית-25-26-גברים?variant=47831338123514)
+    Availability: Available
+    Price: ‏160.00 ‏₪ ILS
+  - [XXL](https://www.rsport.co.il/products/חולצת-אברטון-שלישית-25-26-גברים?variant=47831338156282)
+    Availability: Available
+    Price: ‏160.00 ‏₪ ILS
+  - [XXXL](https://www.rsport.co.il/products/חולצת-אברטון-שלישית-25-26-גברים?variant=47831338189050)
+    Availability: Available
+    Price: ‏160.00 ‏₪ ILS
+- [חליפת כדורגל אברטון בית 25/26 | ילדים](https://www.rsport.co.il/products/חליפת-כדורגל-אברטון-בית-25-26-ילדים): חליפת כדורגל אברטון בית לעונת 2025/26 לילדים, הכוללת חולצה קצרה ומכנס קצר בעיצוב תואם בצבע כחול קלאסי עם פרטים לבנים. החליפה משלבת נוחות, איכות וסטייל ומתאימה למשחקים, לאימונים וללבוש יומיומי. עשויה מ-100% פוליאסטר קל ונושם, המעניק תחושת רעננות ונוחות לאורך זמן. הגזרה מותאמת לילדים ומאפשרת תנועה חופשית בכל פעילות ספורטיבית. החליפה עמידה בכביסות ושומרת על צבע וצורה לאורך זמן. עיצוב נקי עם קווים ישרים וגימורים איכותיים מעניקים לחליפה מראה מודרני שמתאים לכל אוהד צעיר של אברטון.
+  Updated: 2025-10-16T23:10:47Z
+  Vendor: R:SPORT
+  Product Type: חליפות כדורגל ילדים
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/31_ac31afbe-8917-4d13-ae69-74c0bccf6b05.jpg?v=1760655997
+  - [2-3Y](https://www.rsport.co.il/products/חליפת-כדורגל-אברטון-בית-25-26-ילדים?variant=47831360667898)
+    Availability: Available
+    Price: ‏150.00 ‏₪ ILS
+  - [4-5Y](https://www.rsport.co.il/products/חליפת-כדורגל-אברטון-בית-25-26-ילדים?variant=47831360700666)
+    Availability: Available
+    Price: ‏150.00 ‏₪ ILS
+  - [6-7Y](https://www.rsport.co.il/products/חליפת-כדורגל-אברטון-בית-25-26-ילדים?variant=47831360733434)
+    Availability: Available
+    Price: ‏150.00 ‏₪ ILS
+  - [8-9Y](https://www.rsport.co.il/products/חליפת-כדורגל-אברטון-בית-25-26-ילדים?variant=47831360766202)
+    Availability: Available
+    Price: ‏150.00 ‏₪ ILS
 
 ## Collections
 
 - [ליגה אנגלית חולצות כדורגל ומוצרי ספורט](https://www.rsport.co.il/collections/ליגה-אנגלית): המבחר הגדול ביותר של חולצות ומוצרי כדורגל מהליגה האנגלית – עכשיו באר ספורט מציעים לכם מגוון רחב של חולצות כדורגל מהפרמייר ליג, כולל חולצות משחק רשמיות, חולצות אוהד, חליפות ילדים, אימוניות, מעילי רוח, חולצות שוער, חולצות עבר, בגדי תינוקות ועוד. כל המוצרים באיכות הגבוהה ביותר ובמחירים אטרקטיביים. תמצאו כאן את המותגים של הקבוצות הגדולות בעולם – מנצ'סטר סיטי, מנצ'סטר יונייטד, ליברפול, ארסנל, צ'לסי, טוטנהאם ועוד.
-  Updated: 2025-10-14T11:17:52Z
-  Total Products: 227
+  Updated: 2025-10-16T23:09:29Z
+  Total Products: 241
 - [ארסנל חולצות כדורגל, חליפות ספורט ומוצרי אוהדים | Arsenal FC](https://www.rsport.co.il/collections/ארסנל): חולצות ארסנל, חליפות כדורגל ומוצרי ספורט לכל הגילאים. מבחר רחב של מוצרים לאוהדי Arsenal איכות, סטייל ונאמנות למועדון.
   Updated: 2025-10-03T17:44:54Z
   Total Products: 74
 - [גברים](https://www.rsport.co.il/collections/גברים)
-  Updated: 2025-10-14T11:17:52Z
-  Total Products: 933
+  Updated: 2025-10-16T23:04:33Z
+  Total Products: 943
 - [נשים](https://www.rsport.co.il/collections/נשים)
   Updated: 2025-10-06T22:42:14Z
   Total Products: 52
 - [ילדים](https://www.rsport.co.il/collections/ילדים)
-  Updated: 2025-10-16T11:17:57Z
-  Total Products: 334
+  Updated: 2025-10-16T23:09:29Z
+  Total Products: 340
 - [צ'לסי – חולצות כדורגל ומוצרי ספורט | Chelsea FC](https://www.rsport.co.il/collections/צלסי): חולצות כדורגל וחליפות ילדים של צ'לסי במבחר עיצובים וגדלים. לבוש ספורטיבי איכותי לאוהדים הצעירים של הבלוז – סטייל ונוחות במגרש וביום יום.
   Updated: 2025-10-02T12:12:20Z
   Total Products: 37
@@ -47245,8 +47593,8 @@
   Updated: 2025-10-12T11:17:24Z
   Total Products: 67
 - [מנצ’סטר סיטי חולצות כדורגל, חליפות ומוצרי ספורט | Manchester City](https://www.rsport.co.il/collections/מנצסטר-סיטי): חולצות מנצ’סטר סיטי, חליפות כדורגל ומוצרי ספורט לכל הגילאים. מגוון עיצובים עדכניים ואיכותיים לאוהדי Manchester City – סטייל ונאמנות למועדון.
-  Updated: 2025-10-14T11:17:52Z
-  Total Products: 44
+  Updated: 2025-10-16T22:19:54Z
+  Total Products: 49
 - [חולצות כדורגל ליברפול ומוצרי ספורט | איכות ומבחר למעריצים](https://www.rsport.co.il/collections/ליברפול): גלו את קולקציית חולצות הכדורגל של ליברפול לעונת 25/26 ומוצרי ספורט נבחרים. מבחר פריטים איכותיים ומעודכנים לכל אוהדי המועדון
   Updated: 2025-10-06T11:17:45Z
   Total Products: 36
@@ -47254,8 +47602,8 @@
   Updated: 2025-10-02T12:34:16Z
   Total Products: 41
 - [טוטנהאם חולצות כדורגל, חליפות ומוצרי ספורט | Tottenham Hotspur](https://www.rsport.co.il/collections/טוטנהאם): חולצות טוטנהאם, חליפות כדורגל ומוצרי אוהדים לקנייה אונליין מאובטחת. מבחר איכותי לכל גיל – אוהדי Tottenham נהנים מסטייל, נוחות ומקצועיות.
-  Updated: 2025-10-02T11:52:12Z
-  Total Products: 26
+  Updated: 2025-10-16T23:07:11Z
+  Total Products: 30
 - [יובנטוס](https://www.rsport.co.il/collections/יובנטוס)
   Updated: 2025-10-02T11:52:10Z
   Total Products: 37
@@ -47275,8 +47623,8 @@
   Updated: 2025-10-14T11:17:52Z
   Total Products: 144
 - [ליגה איטלקית](https://www.rsport.co.il/collections/ליגה-איטלקית): אצלנו באתר rsport.co.il תוכלו למצוא את המבחר הגדול ביותר של חולצות כדורגל מהליגה האיטלקית, חולצות משחק, חולצות אוהד, חליפות לילדים, אימוניות ארוכות, חולצות שוער, חולצות רטרו ועוד. אנחנו מציעים מוצרים איכותיים של הקבוצות המובילות בעולם כמו יובנטוס, מילאן, אינטר ונאפולי. כל המוצרים באתר מגיעים במחירים משתלמים, ומיוצרים מחומרים איכותיים שיעניקו לכם חוויית לבישה מושלמת.
-  Updated: 2025-10-02T13:33:14Z
-  Total Products: 138
+  Updated: 2025-10-16T22:19:54Z
+  Total Products: 139
 - [חולצות ריאל מדריד וציוד ספורט | Real Madrid](https://www.rsport.co.il/collections/ריאל-מדריד): תוכלו למצוא מבחר רחב של חולצות ריאל מדריד לכל אוהד ממדי הבית הקלאסיים ועד דגמים חדשים ומיוחדים
   Updated: 2025-10-14T11:17:52Z
   Total Products: 105
@@ -47311,11 +47659,11 @@
   Updated: 2025-10-16T11:17:57Z
   Total Products: 25
 - [מכנסי כדורגל קצרים](https://www.rsport.co.il/collections/מכנסי-כדורגל-קצרים)
-  Updated: 2025-10-12T11:17:24Z
-  Total Products: 207
+  Updated: 2025-10-16T22:19:54Z
+  Total Products: 208
 - [רכוש חולצות כדורגל נבחרות – איכות גבוהה](https://www.rsport.co.il/collections/נבחרות): קנה חולצות כדורגל נבחרות ברזיל, ארגנטינה, צרפת ועוד. איכות ומחיר משתלם, כולל חליפות ילדים ומשלוח מהיר.
-  Updated: 2025-10-16T11:17:57Z
-  Total Products: 150
+  Updated: 2025-10-16T22:08:54Z
+  Total Products: 151
 - [איטליה | חולצות כדורגל ומוצרי ספורט](https://www.rsport.co.il/collections/איטליה): גלה את חולצות הכדורגל של נבחרת איטליה ותלבש בגאווה את Gli Azzurri בכל משחק. חולצות בית וחוץ ובגדי אימון איכותיים לאוהדים, עם דגש על נוחות, איכות וסטייל איטלקי.
   Updated: 2025-10-06T22:56:44Z
   Total Products: 14
@@ -47560,8 +47908,8 @@
   Updated: 2025-10-02T11:15:14Z
   Total Products: 16
 - [אברטון | חולצות כדורגל ומוצרי ספורט](https://www.rsport.co.il/collections/אברטון): גלו את קולקציית אברטון עם חולצות כדורגל ומוצרי ספורט איכותיים , חולצות כדורגל ואביזרי ספורט של אברטון מגוון חולצות בית וחוץ, אימון ואקססוריז לאוהדים
-  Updated: 2025-10-02T11:31:04Z
-  Total Products: 3
+  Updated: 2025-10-16T23:09:29Z
+  Total Products: 7
 - [איפסוויץ' טאון | חולצות כדורגל ומוצרי ספורט](https://www.rsport.co.il/collections/איפסוויץ-טאון): גלה את קולקציית חולצות הכדורגל של איפסוויץ' טאון ובגדי ספורט לאוהדים. חולצות בית וחוץ עם עיצובים קלאסיים, דגש על נוחות, איכות וסטייל ייחודי של המועדון.
   Updated: 2025-10-02T11:31:03Z
   Total Products: 3
@@ -47605,17 +47953,17 @@
   Updated: 2025-10-16T07:39:30Z
   Total Products: 54
 - [חולצות כדורגל - מגוון רחב במחירים משתלמים](https://www.rsport.co.il/collections/חולצות-כדורגל): האתר מתמחה במגוון רחב של חולצות משחק, כולל חולצות עבר, חולצות אימוניות וחליפות כדורגל לילדים.
-  Updated: 2025-10-14T11:17:52Z
-  Total Products: 816
+  Updated: 2025-10-16T23:04:33Z
+  Total Products: 826
 - [חליפות כדורגל ילדים | הדפסת שם ומספר | משלוחים חינם](https://www.rsport.co.il/collections/חליפות-כדורגל-ילדים): אם אתם מחפשים את המתנה המושלמת לילד שאוהב כדורגל חליפות כדורגל לילדים באיכות גבוהה ובמחירים ללא תחרות הפתיעו את הילדים עם חליפה של הקבוצה האהובה עליהם
-  Updated: 2025-10-16T11:17:57Z
-  Total Products: 250
+  Updated: 2025-10-16T23:09:29Z
+  Total Products: 255
 - [סנטוס](https://www.rsport.co.il/collections/סנטוס): סנטוס היא הרבה יותר מקבוצת כדורגל. זו תשוקה ברזילאית, היסטוריה עשירה ואהבה שלא נגמרת. עם קהל עצום שנחשב לאחד מהנאמנים בעולם, רגעים אגדיים בליגה המקומית וסמל שחרוט בלבבות, Santos FC מייצגת גאווה ברזילאית בכל משחק. כאן תמצאו את כל מה שאוהד אמיתי צריך. חולצות בית, חוץ ושלישית של סנטוס, בגדי אימון ואקססוריז שיקפיצו כל לוק של אוהד. אם אתה חי ונושם את השחור לבן הגעת למקום הנכון.
   Updated: 2025-10-02T11:31:50Z
   Total Products: 11
 - [80 off selected items](https://www.rsport.co.il/collections/80-off-selected-items)
-  Updated: 2025-10-16T11:17:57Z
-  Total Products: 700
+  Updated: 2025-10-16T23:09:29Z
+  Total Products: 709
 - [גרביים](https://www.rsport.co.il/collections/גרביים)
   Updated: 2025-10-06T22:42:09Z
   Total Products: 91
@@ -47680,8 +48028,8 @@
   Updated: 2025-10-02T12:25:55Z
   Total Products: 8
 - [חולצת אוהד פומה](https://www.rsport.co.il/collections/חולצת-אוהד-פומה)
-  Updated: 2025-10-07T11:18:18Z
-  Total Products: 49
+  Updated: 2025-10-16T21:42:13Z
+  Total Products: 50
 - [באייר לברקוזן](https://www.rsport.co.il/collections/באייר-לברקוזן): הכירו את הקבוצה המרתקת מבאייר לברקוזן – אחת הקבוצות הצעירות והמלהיבות בגרמניה. חולצות כדורגל של באייר לברקוזן מבטאות את רוח המועדון והאופי האגרסיבי של המשחק. אצלנו תמצאו חולצות משחק מדהימות, חולצות אוהדים בעיצובים שונים, חולצות אימון איכותיות, חולצות שוער מקצועיות, חולצות עבר נוסטלגיות לכל אוהד וגם בגדי תינוקות לקהל הצעיר. הצג עוד באייר לברקוזן, עם היסטוריה עשירה ומסורת של כדורגל איכותי, מביאה את סגנון המשחק שלה ישירות אליכם עם חולצות הכדורגל המובילות שלה. חולצות המשחק והאוהדים של הקבוצה עשויות מחומרים איכותיים המעניקים נוחות מרבית ומדגישים את הייחודיות של המועדון. כל חולצה מגיעה במידות שונות ומאפשרת להוסיף את השם או המספר האהוב עליכם, בין אם של שחקן המועדון או שלכם. בין אם אתם מחפשים חולצות עם העיצוב הקלאסי של הקבוצה, חולצות אימון או אפילו חולצות שוער מקצועיות, יש לנו את כל מה שצריך כדי להרגיש חלק מההצלחה של באייר לברקוזן. השירות מקצועי, ההזמנה קלה והמשלוח מגיע לכל הארץ. זה הזמן ללבוש את הקבוצה שלכם בגאווה עם כל מה שאוהד אמיתי צריך, במקום אחד. הצג פחות הכירו את הקבוצה המרתקת מבאייר לברקוזן – אחת הקבוצות הצעירות והמלהיבות בגרמניה. חולצות כדורגל של באייר לברקוזן מבטאות את רוח המועדון והאופי האגרסיבי של המשחק. אצלנו תמצאו חולצות משחק מדהימות, חולצות אוהדים בעיצובים שונים, חולצות אימון איכותיות, חולצות שוער מקצועיות, חולצות עבר נוסטלגיות לכל אוהד וגם בגדי תינוקות לקהל הצעיר... הצג עוד באייר לברקוזן, עם היסטוריה עשירה ומסורת של כדורגל איכותי, מביאה את סגנון המשחק שלה ישירות אליכם עם חולצות הכדורגל המובילות שלה. חולצות המשחק והאוהדים של הקבוצה עשויות מחומרים איכותיים המעניקים נוחות מרבית ומדגישים את הייחודיות של המועדון. כל חולצה מגיעה במידות שונות ומאפשרת להוסיף את השם או המספר האהוב עליכם, בין אם של שחקן המועדון או שלכם. בין אם אתם מחפשים חולצות עם העיצוב הקלאסי של הקבוצה, חולצות אימון או אפילו חולצות שוער מקצועיות, יש לנו את כל מה שצריך כדי להרגיש חלק מההצלחה של באייר לברקוזן. השירות מקצועי, ההזמנה קלה והמשלוח מגיע לכל הארץ. זה הזמן ללבוש את הקבוצה שלכם בגאווה עם כל מה שאוהד אמיתי צריך, במקום אחד. הצג פחות .desktop-only { display: block; direction: rtl; text-align: right; } .mobile-only { display: none; direction: rtl; text-align: right; } .inline-btn { background: none; border: none; color: #0077cc; text-decoration: underline; cursor: pointer; font-size: 1em; padding: 0; margin: 0; } @media (max-width: 768px) { .desktop-only { display: none; } .mobile-only { display: block; } } // הפונקציות שמטפלות בהצגת הטקסט המלא document.getElementById('toggle-btn-desktop').addEventListener('click', function() { document.getElementById('full-text-desktop').style.display = 'block'; document.getElementById('short-text-desktop').style.display = 'none'; }); document.getElementById('toggle-btn-less-desktop').addEventListener('click', function() { document.getElementById('full-text-desktop').style.display = 'none'; document.getElementById('short-text-desktop').style.display = 'block'; }); document.getElementById('toggle-btn').addEventListener('click', function() { document.getElementById('full-text').style.display = 'block'; document.getElementById('short-text').style.display = 'none'; }); document.getElementById('toggle-btn-less').addEventListener('click', function() { document.getElementById('full-text').style.display = 'none'; document.getElementById('short-text').style.display = 'block'; });
   Updated: 2025-10-02T11:31:33Z
   Total Products: 7
@@ -47698,17 +48046,17 @@
   Updated: 2025-10-02T11:31:37Z
   Total Products: 12
 - [AVADA - Best Sellers](https://www.rsport.co.il/collections/avada-best-sellers)
-  Updated: 2025-10-16T11:17:57Z
-  Total Products: 2075
+  Updated: 2025-10-16T23:09:29Z
+  Total Products: 2091
 - [פיורנטינה רטרו](https://www.rsport.co.il/collections/פיורנטינה-רטרו): אנו מציעים חולצות כדורגל רטרו של פיורנטינה מהעבר המפואר, בעיצובים קלאסיים ששימשו את הקבוצה בשנות ה-90 ותחילת ה-2000. בין השחקנים הבולטים מהתקופות הללו: גבריאל באטיסטוטה, ווֹלפגנג מולה, אנג'לו די ליוויו ופרנצ'סקו טולדו. כל פריט בקטגוריה מחבר אתכם להיסטוריה המפוארת של פיורנטינה ומספק חוויה נוסטלגית לחובבי הכדורגל.
   Updated: 2025-10-02T11:15:25Z
   Total Products: 9
 - [חולצות כדורגל 25/26](https://www.rsport.co.il/collections/חולצות-כדורגל-25-26): חולצות הכדורגל של עונת 25/26 מביאות את הסטייל החדש של הקבוצות הגדולות בעולם כולל חולצת ריאל מדריד, חולצת ברצלונה, חולצת מנצ'סטר יונייטד, חולצת יובנטוס, חולצת ארסנל, פריז סן ז'רמן, אינטר, באיירן מינכן ועוד. כל חולצה מעוצבת בטכנולוגיה מתקדמת, עם נוחות מרבית ועיצוב עדכני שמתאים ליציע, לרחוב ולחיים עצמם. זו ההזדמנות שלך להראות את הגאווה הקבוצתית שלך בעונה חדשה ומרגשת.
-  Updated: 2025-10-16T11:17:57Z
-  Total Products: 274
+  Updated: 2025-10-16T22:38:22Z
+  Total Products: 279
 - [ווסטהאם](https://www.rsport.co.il/collections/ווסטהאם)
-  Updated: 2025-10-02T11:30:57Z
-  Total Products: 6
+  Updated: 2025-10-16T22:55:35Z
+  Total Products: 9
 - [ליברפול רטרו](https://www.rsport.co.il/collections/ליברפול-רטרו)
   Updated: 2025-10-02T11:15:32Z
   Total Products: 13
@@ -47716,8 +48064,8 @@
   Updated: 2025-10-02T11:15:26Z
   Total Products: 2
 - [בגביע העולם למועדונים | חולצות ואביזרים](https://www.rsport.co.il/collections/fifa-club-world-cup): גלה את קולקציית חולצות ומוצרי הספורט של קבוצות המשתתפות בגביע העולם למועדונים. מבחר בלעדי לאוהדים אמיתיים איכות, סטייל, ותשוקה למשחק.
-  Updated: 2025-10-14T11:17:52Z
-  Total Products: 366
+  Updated: 2025-10-16T22:19:54Z
+  Total Products: 371
 - [ליגה מקסיקנית](https://www.rsport.co.il/collections/ליגה-מקסיקנית): ליגת העל המקסיקנית (Liga MX) היא אחת הליגות התוססות, העשירות והאהודות באמריקה הלטינית, עם היסטוריה ספורטיבית עמוקה ואווירה סוחפת באצטדיונים. הליגה מתאפיינת במשחק התקפי, קצב גבוה ותשוקה אמיתית לכדורגל. קבוצות כמו מונטריי, קלוב אמריקה, טיגרס, גוודלחרה וקרוס אסול מובילות את הטבלה מדי עונה ומושכות קהלים עצומים ברחבי מקסיקו והעולם. בין אם אתה אוהד נאמן של אחת היריבות הגדולות או פשוט מוקסם מהכדורגל המקסיקני.
   Updated: 2025-10-02T11:52:10Z
   Total Products: 71
@@ -47884,8 +48232,8 @@
   Updated: 2025-10-14T11:17:52Z
   Total Products: 26
 - [חולצות כדורגל גרסת שחקן](https://www.rsport.co.il/collections/חולצות-כדורגל-גרסת-שחקן)
-  Updated: 2025-10-14T11:17:52Z
-  Total Products: 156
+  Updated: 2025-10-16T22:38:22Z
+  Total Products: 158
 - [חולצות כדורגל שרוול ארוך](https://www.rsport.co.il/collections/חולצות-כדורגל-שרוול-ארוך)
   Updated: 2025-10-13T11:15:47Z
   Total Products: 31
