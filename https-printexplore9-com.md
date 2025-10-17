@@ -6,7 +6,7 @@
 - Timezone: Europe/Athens
 - Created At: 2023-12-24T09:13:07Z
 - Contact Email: info@printexplore9.com
-- Updated At: 2025-10-17T00:00:29.373Z
+- Updated At: 2025-10-17T16:00:32.798Z
 
 ## Products
 
@@ -1571,15 +1571,15 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/17890824552718949084_2048.jpg?v=1759081073
     Price: $33.72 USD
-- [Daily Moisturizer - Hydrating & Lightweight Skincare](https://printexplore9.com/products/daily-moisturizer-1-7oz-print-explore): Moisturize daily with this lightweight, non-greasy formula. Keeps skin soft and smooth, ideal for all skin types.
-  Updated: 2025-10-12T09:53:30Z
+- [Daily Moisturizer - Hydrating & Lightweight Skincare](https://printexplore9.com/products/daily-moisturizer-1-7oz-print-explore): Hydrate and soothe dry, acne-prone skin with our lightweight daily moisturizer. Packed with antioxidants, oil-regulating ingredients, and 100% vegan formula.
+  Updated: 2025-10-17T12:07:19Z
   Vendor: Printify
   Product Type: Beauty products
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Daily_Moisturizer.jpg?v=1759081847
   Price: $21.88 USD
 - [Adidas® Unisex Sport T-Shirt | Breathable Moisture-Wicking](https://printexplore9.com/products/adidas-unisex-sport-t-shirt-print-explore): this adidas® Unisex Sport T-shirt offers comfort and breathability. Made with moisture-wicking fabric to keep you dry. ideal for workouts.
-  Updated: 2025-10-12T19:03:14Z
+  Updated: 2025-10-17T11:41:27Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
@@ -1689,7 +1689,7 @@
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/10380875766604506267_2048.jpg?v=1759081550
     Price: $64.15 USD
 - [Adidas®  Women's Sports T-Shirt](https://printexplore9.com/products/womens-sports-t-shirt): Shop Adidas®  Unisex Women's Sports T-Shirt for a blend of performance and style. Perfect for any activity. These tees are must-have for your wardrobe.
-  Updated: 2025-10-12T09:53:30Z
+  Updated: 2025-10-17T11:39:38Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
@@ -1791,7 +1791,7 @@
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Adidas_t-shirt_performance_meets_sustainability.jpg?v=1759082379
     Price: $64.15 USD
 - [adidas® Fleece Hoodies - Warm and comfortable wear](https://printexplore9.com/products/adidas-fleece-hoodies): The adidas® Fleece Hoodies keeps you warm on chilly days. ideal for active wear. it has a soft interior and relaxed fit for comfort.
-  Updated: 2025-10-12T09:53:31Z
+  Updated: 2025-10-17T11:28:32Z
   Vendor: Printify
   Product Type: Hoodie
   Availability: Available
@@ -1920,8 +1920,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Adidas_Fleece_Hoodies.jpg?v=1759082487
     Price: $82.67 USD
-- [adidas® Sweatshirt | Sustainable & Cozy](https://printexplore9.com/products/adidas®-unisex-fleece-crewneck-sweatshirt): Adidas® Sweatshirt – Stay cozy and stylish in eco-friendly BCI cotton & recycled polyester, with medium-heavy fabric and a classic fit.
-  Updated: 2025-10-12T19:05:09Z
+- [Adidas® Sweatshirt | Sustainable & Cozy](https://printexplore9.com/products/adidas®-unisex-fleece-crewneck-sweatshirt): Adidas® Sweatshirt – Stay cozy and stylish in eco-friendly BCI cotton & recycled polyester, with medium-heavy fabric and a classic fit.
+  Updated: 2025-10-17T11:23:19Z
   Vendor: Printify
   Product Type: Sweatshirt
   Availability: Available
@@ -2054,8 +2054,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/6674904371883623272_2048.jpg?v=1759081781
     Price: $75.27 USD
-- [Vegan Hair Growth Oil | Smooth Frizz & Nourish Your Hair](https://printexplore9.com/products/hair-oil-2oz): Vegan hair growth oil smooths frizz, boosts scalp health & locks in moisture for silky, strong, nourished hair.
-  Updated: 2025-10-12T19:07:44Z
+- [Vegan Hair Growth Oil | Smooth Frizz & Nourish Your Hair](https://printexplore9.com/products/hair-oil-2oz): Vegan Hair  Oil smooths frizz, boosts scalp health & locks in moisture for silky, strong, nourished hair. Helps Hair growth.
+  Updated: 2025-10-17T11:12:44Z
   Vendor: Printify
   Product Type: Accessories
   Availability: Available
@@ -2116,7 +2116,7 @@
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/7916294390560664065_2048.jpg?v=1759082472
     Price: $25.65 USD
 - [Unisex Garment-Dyed Tank Top | 100% US Cotton & Eco-Friendly](https://printexplore9.com/products/unisex-garment-dyed-tank-top-print-explore): Experience ultimate comfort in our unisex garment-dyed tank top made from 100% ring-spun US cotton. eco-friendly dyes and relaxed fit.
-  Updated: 2025-10-12T19:09:02Z
+  Updated: 2025-10-17T10:16:25Z
   Vendor: Printify
   Product Type: Tank Top
   Availability: Available
@@ -2283,7 +2283,7 @@
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/2588225114535239615_2048.jpg?v=1759081116
     Price: $42.23 USD
 - [Gentle Face and Body Cleanser, 6oz](https://printexplore9.com/products/gentle-face-and-body-cleanser-6oz): Gentle Face and Body Cleanser, soothing vegan formula removes excess oil, refreshes skin, and is perfect for sensitive or acne-prone skin.
-  Updated: 2025-10-12T09:54:42Z
+  Updated: 2025-10-17T10:11:16Z
   Vendor: Printify
   Product Type: Beauty products
   Availability: Available
@@ -2300,13 +2300,13 @@
 ## Collections
 
 - [Best Sellers](https://printexplore9.com/collections/best-seller): Discover our best sellers with top-rated skincare fashion and personalized gifts loved by customers .
-  Updated: 2025-09-28T17:11:36Z
+  Updated: 2025-10-17T11:59:08Z
   Total Products: 41
 - [Men's Collection - Casual Shirts & Tees for Men](https://printexplore9.com/collections/mens): Explore versatile men's shirts and tees for everyday wear. Find stylish, comfortable essentials for casual or active use.
   Updated: 2025-09-28T17:11:35Z
   Total Products: 10
 - [Sustainable Women's  T-Shirts & Sweatshirts](https://printexplore9.com/collections/womens): Eco friendly womens t-shirts and sweatshirts made from organic cotton. Customize your style with sustainable apparel made for you.
-  Updated: 2025-09-28T17:11:35Z
+  Updated: 2025-10-17T11:14:17Z
   Total Products: 23
 - [Sustainable-Customized Accessories](https://printexplore9.com/collections/accessories): Discover sustainable and customized gifts for every occasion — from stylish wall clocks to eco-friendly camping mugs & more.
   Updated: 2025-10-15T12:01:15Z
@@ -2339,7 +2339,7 @@
   Updated: 2025-10-12T09:51:12Z
   Total Products: 12
 - [SkinCare](https://printexplore9.com/collections/skincare-1): Hydrate- smooth and glow with organic skincare: fresh toner| retinol & peptide serum and snail serum for radiant, healthy skin.
-  Updated: 2025-10-12T09:26:02Z
+  Updated: 2025-10-17T11:59:08Z
   Total Products: 10
 
 ## Blogs
