@@ -7,7 +7,7 @@
 - Currency: EUR
 - Timezone: Europe/Dublin
 - Created At: 2025-01-23T10:54:05Z
-- Updated At: 2025-10-17T12:00:34.961Z
+- Updated At: 2025-10-17T16:00:36.322Z
 
 ## Products
 
@@ -1907,7 +1907,7 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/15101_O_3269c34a-1767-4525-912c-685f55807121.jpg?v=1746022098
   Price: €14.95 EUR
 - [PRO Diamond Hand Sanding Pad - Grit 600 Ultra Fine - GP15100](https://glasspolishshop.com/products/diamond-hand-sanding-pad-600-grit-white): Professional Diamond Hand Pad for glasswork, tile edging, metal rust removal, concrete smoothing, drywalls, woodworking, tool sharpening, and pottery finishing.
-  Updated: 2025-10-15T20:11:25Z
+  Updated: 2025-10-17T15:11:41Z
   Vendor: Glass Polish
   Product Type: Diamond Pads
   Availability: Available
@@ -2746,7 +2746,7 @@
     Availability: Available
     Price: €159.95 EUR
 - [Professional xNet™ Scratched Glass Repair Kit for Rotary Polishers](https://glasspolishshop.com/products/pro-glass-scratch-removal-xnet-kit-75mm-3-inch): Restore any glass surface with the PRO xNet™ kit for rotary polishers. Fast, cost-effective glass scratch removal for automotive, toughened, and household glass.
-  Updated: 2025-10-15T23:58:26Z
+  Updated: 2025-10-17T15:11:41Z
   Vendor: Glass Polish
   Product Type: Glass Scratch Removal Kit
   Availability: Available
