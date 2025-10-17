@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2023-03-22T10:49:51Z
 - Contact Email: onlineshop@lastradafashion.de
-- Updated At: 2025-10-16T20:00:54.314Z
+- Updated At: 2025-10-17T00:00:56.458Z
 
 La Strada is love for Italian Fashion. Our collections represents the latest fashion trends from Italy and is lovingly created and arranged for the modern fashionable woman who is looking for the newest trends, the best quality and best price. 
 
@@ -551,7 +551,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvOTQxOTg5MS5qcGc_0c634f7f-3116-4d4b-8b06-f316825005cb.jpg?v=1740650899
     Price: 59,00 € EUR
 - [Longsleeve mit Wellensaum](https://lastradafashion.de/products/longsleeve-mit-wellensaum): Dieses klassisches dünnes Longsleeve ist ein zeitloses Kleidungsstück, das sich perfekt für den Übergang eignet. Das Longsleeve ist aus einem leichten und weichen Stoff gefertigt, der angenehm auf der Haut liegt und gleichzeitig für ausreichend Wärme sorgt. Mit seinen langen Ärmeln bietet es zusätzlichen Schutz vor kühleren Temperaturen und ermöglicht es, das Kleidungsstück auch an frischeren Tagen zu tragen. Durch den Rundhalsausschnitt erhält das Longsleeve einen klassischen Look, der sowohl elegant als auch lässig wirken kann, je nachdem, wie es kombiniert wird. Der Wellensaum verleiht dem Longsleeve einen besonderen Twist und verleiht ihm einen femininen Touch. Es ist ein zeitloses Kleidungsstück, das in jedem Kleiderschrank eine gute Figur macht und zu verschiedenen Anlässen getragen werden kann – sei es im Büro, bei einem entspannten Treffen mit Freunden oder auf einem Wochenendausflug. MARKE - La Strada PASSFORM UND SCHNITT - One Size (von Größen 36 bis 42), Passgenauigkeit - Passgenau - normal geschnitten, eng anliegend - Rundhalsausschnitt, langer Arm MATERIAL UND VERARBEITUNG - Materialmix: 95% Viskose, 5% Elastan - Materialqualität: leichtes Material, elastisches Material PFLEGEHINWEIS - Maschinenwäsche 30°C, nicht Trockner geeignet, bei 110 Grad bügeln, nicht bleichen MODEL - Das Model ist 170cm groß und trägt Konfektionsgröße 36 bzw. S
-  Updated: 2025-10-16T17:26:28Z
+  Updated: 2025-10-16T20:12:31Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
