@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-08-08T02:49:34Z
 - Contact Email: info@lekue.co.nz
-- Updated At: 2025-10-16T08:00:32.198Z
+- Updated At: 2025-10-17T12:00:33.698Z
 
 ## Products
 
@@ -249,7 +249,7 @@
   Image: https://cdn.shopify.com/s/files/1/0641/8795/7446/files/StackableBigIceLollyMouldsSetof4-Mixed-8710755882180Lekue_96dpi_1000x1000px_7_NR-33245.png?v=1737428747
   Price: $49.98 NZD
 - [Industrial Ice Cube Tray, with Lid, Red](https://www.lekue.co.nz/products/industrial-ice-cube-tray-with-lid): Extra-large ice cube tray with lid to make up to 32 square ice cubes. It is a traditional ice cube tray perfect for everyday life and also for celebrations with guests. Features These ice cube trays are made of rubber. They're flexible so it's easy and quick to remove the ice cubes. It's effortless: just press on the ice cube mould! It includes a lid that prevents odours from transferring from frozen foods to ice cubes. It also allows you to stack the ice cube trays and other containers, saving storage space. It's stable, so you can move the ice cube tray and position it in the freezer drawers without any water leaks. It also includes a rigid base to ensure maximum stability during filling and transport. Recommendations for use: Use these ice cube trays to make ice cubes with water. This prevents contamination from odours and possible damage to the material caused by the acidic components of some foods, such as citrus juices.
-  Updated: 2025-07-16T13:02:02Z
+  Updated: 2025-10-16T21:07:02Z
   Vendor: Lekue
   Product Type: 
   Availability: Available
@@ -298,14 +298,14 @@
   Image: https://cdn.shopify.com/s/files/1/0641/8795/7446/files/Push-UpIceLollyMouldsSetof3-Mixed-8710755888021Lekue_96dpi_1000x1000px_7_NR-40051.png?v=1737081242
   Price: $34.98 NZD
 - [Round Ice Cube Tray, with Lid](https://www.lekue.co.nz/products/round-ice-cube-tray-with-lid): Round ice cube tray with lid to make traditional round ice cubes. Features It has capacity to make up to 18 ice cubes, perfect for any occasion. These ice cube trays are made of rubber. They're flexible so it's easy and quick to remove the ice cubes. It's effortless: just press on the ice cube mould! It includes a lid that prevents odours from transferring from frozen foods to ice cubes. It also allows you to stack the ice cube trays and other containers, saving storage space. It's stable, so you can move the ice cube tray and position it in the freezer drawers without any water leaks. Recommendations for use: Use these ice cube trays to make ice cubes with water. This prevents contamination from odours and possible damage to the material caused by the acidic components of some foods, such as citrus juices.
-  Updated: 2025-07-15T23:38:28Z
+  Updated: 2025-10-16T21:07:01Z
   Vendor: Lekue
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0641/8795/7446/files/RoundIceCubeTraywithLid-Turquoise-8710755882364Lekue_96dpi_1000x1000px_7_NR-33316.png?v=1737411430
   Price: $14.98 NZD
 - [Rectangular Ice Cube Tray, with Lid](https://www.lekue.co.nz/products/rectangular-ice-cube-tray-with-lid): Ice cube tray with lid to make up to 14 rectangular ice cubes. Features It has capacity to make up to 14 ice cubes, perfect for any occasion. These ice cube trays are made of rubber. They're flexible so it's easy and quick to remove the ice cubes. It's effortless: just press on the ice cube mould! It includes a lid that prevents odours from transferring from frozen foods to ice cubes. It also allows you to stack the ice cube trays and other containers, saving storage space. It's stable, so you can move the ice cube tray and position it in the freezer drawers without any water leaks. Recommendations for use: Use these ice cube trays to make ice cubes with water. This prevents contamination from odours and possible damage to the material caused by the acidic components of some foods, such as citrus juices.
-  Updated: 2025-07-15T23:38:28Z
+  Updated: 2025-10-16T21:07:01Z
   Vendor: Lekue
   Product Type: 
   Availability: Available
@@ -529,7 +529,7 @@
   Image: https://cdn.shopify.com/s/files/1/0641/8795/7446/files/MicrowaveSteamCookerwithTray3-4p.-Green-8710755888205Lekue_96dpi_1000x1000px_7_NR-40108.png?v=1752534102
   Price: $89.98 NZD
 - [Ice Box, White](https://www.lekue.co.nz/products/ice-box-red-copy): Transform your water into perfectly shaped ice cubes with this one-of-a-kind ice cube tray. Say goodbye to constantly buying ice and hello to instant and easy access for all your drink needs! Features Freeze and store up to 132 ice cubes and serve them at the table with an original and elegant presentation. Add an elegant and original touch to serving. Container made of ABS plastic. Composed of a hollow base to preserve coldness and avoid the formation of condensation. Lid made of resistant silicone and easy to handle.
-  Updated: 2025-08-29T02:37:09Z
+  Updated: 2025-10-16T21:07:01Z
   Vendor: Lekue
   Product Type: 
   Availability: Available
@@ -633,10 +633,10 @@
   Updated: 2025-07-15T23:38:19Z
   Total Products: 1
 - [Best Sellers Old](https://www.lekue.co.nz/collections/best-sellers)
-  Updated: 2025-10-14T11:22:45Z
+  Updated: 2025-10-17T11:28:05Z
   Total Products: 89
 - [New Arrivals](https://www.lekue.co.nz/collections/new-arrivals)
-  Updated: 2025-10-14T11:22:45Z
+  Updated: 2025-10-17T11:28:05Z
   Total Products: 89
 - [Bakeware](https://www.lekue.co.nz/collections/bakeware)
   Updated: 2025-08-29T02:37:07Z
@@ -663,7 +663,7 @@
   Updated: 2025-10-14T11:22:45Z
   Total Products: 11
 - [Ice & Ice creams](https://www.lekue.co.nz/collections/ice-ice-creams)
-  Updated: 2025-09-17T11:17:44Z
+  Updated: 2025-10-17T11:28:05Z
   Total Products: 18
 - [Kitchen utensils](https://www.lekue.co.nz/collections/kitchen-utensils)
   Updated: 2025-09-23T11:25:38Z
@@ -741,7 +741,7 @@
   Updated: 2025-08-29T02:37:07Z
   Total Products: 3
 - [Welcome Discount collection](https://www.lekue.co.nz/collections/welcome-discount-collection)
-  Updated: 2025-10-14T11:22:45Z
+  Updated: 2025-10-17T11:28:05Z
   Total Products: 90
 - [Best Sellers](https://www.lekue.co.nz/collections/best-sellers-1)
   Updated: 2025-10-14T11:22:45Z
