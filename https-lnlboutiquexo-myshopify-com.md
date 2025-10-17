@@ -5,7 +5,7 @@
 - Currency: CAD
 - Timezone: America/Toronto
 - Created At: 2025-08-23T11:52:48Z
-- Updated At: 2025-10-15T08:00:29.926Z
+- Updated At: 2025-10-17T04:00:30.678Z
 
 ## Products
 
@@ -1276,6 +1276,84 @@
   - [White / 2XL](https://lnlboutiquexo.myshopify.com/products/ya-filthy-animal?variant=53062447694134)
     Availability: Available
     Price: $35.00 CAD
+- [A Special Treat / Dear Santa](https://lnlboutiquexo.myshopify.com/products/a-special-treat-dear-santa): Approximately 13” Wide X 10.5 “ Tall Spot clean only
+  Updated: 2025-10-16T03:28:17Z
+  Vendor: L&L Boutique 
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0944/0644/3318/files/84388BD2-D980-4B1F-8CBC-E3AF9A619365.jpg?v=1760541793
+  - [A Special Treat](https://lnlboutiquexo.myshopify.com/products/a-special-treat-dear-santa?variant=53101724893494)
+    Availability: Available
+    Price: $45.00 CAD
+  - [Dear Santa](https://lnlboutiquexo.myshopify.com/products/a-special-treat-dear-santa?variant=53101724926262)
+    Availability: Available
+    Price: $45.00 CAD
+- [In My Showgirl Era sweater](https://lnlboutiquexo.myshopify.com/products/in-my-showgirl-era-sweater): The unisex crewnecks are definitely one of our favourite sweaters. They are made of 50% cotton and 50% polyester, giving it a cozy, soft and comfortable feeling. True to size for a relaxed fit. Size down for a tighter fit. Please refer to sizing chart in photos for a more accurate fit & for all measurement information. Recommended to wash inside out in cold water, do not bleach, do not use fabric softener, hang to dry or tumble dry on low. Do not iron directly on decal.
+  Updated: 2025-10-16T03:48:29Z
+  Vendor: L&L Boutique 
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0944/0644/3318/files/2928135D-374D-489C-8099-0A2D65E8AA57.jpg?v=1760541910
+  Price: $35.00 CAD
+- [Pickle Christmas Tshirt](https://lnlboutiquexo.myshopify.com/products/pickle-christmas-tshirt): Unisex Tshirt are made with 100% cotton giving it a cozy, soft and comfortable feeling. True to size for a relaxed fit. Size down for a tighter fit. Recommended to wash inside out in cold water, do not bleach, do not use fabric softener, hang to dry or tumble dry on low. Do not iron directly on decal.
+  Updated: 2025-10-17T02:35:28Z
+  Vendor: L&L Boutique 
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0944/0644/3318/files/4052440A-D594-4C4B-A953-8A91A99933DB.jpg?v=1760541910
+  Price: $25.00 CAD
+- [Enchanted Castle Tshirt](https://lnlboutiquexo.myshopify.com/products/enchanted-castle-tshirt): SIZING: * Unisex sizing; slightly larger than typical women's shirts and slightly smaller than typical men's shirts. *Most women find their typical size works best for a loose fit *For an oversized look, size up Easy measuring tip: Take your favorite sweatshirt or tee, lay it on a flat surface and measure the width (armpit to armpit) and length (top to bottom), then compare with our size chart in the image section. * For different colour or style please directly email me (lnlboutiquexo@gmail.com) CARE INSTRUCTIONS: -Machine wash, inside out on the gentle cycle. Lay flat to dry (or tumble dry on low) -Do not iron directly on graphic print. PROCESSING : -Your shirt is made to order, meaning we print it special just for you when your order is placed. Please allow 5-7 business days for us to print your tee. -Shipping time is 4-8 business days depending on the delivery destination. RETURNS AND EXCHANGES: Because the shirts are made to order we do not accept any returns or exchanges. Please double check your sizing and color choice carefully for errors.
+  Updated: 2025-10-17T02:41:23Z
+  Vendor: L&L Boutique 
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0944/0644/3318/files/EBEE076D-2CB9-4F45-95A9-6EBD1BC02D92.jpg?v=1760541910
+  Price: $25.00 CAD
+- [Awesome Friend](https://lnlboutiquexo.myshopify.com/products/awesome-friend): Ceramic ROUND Ornament approximately 2.75” x 2.75” PROCESSING : -Your item is made to order, meaning we print it special just for you when your order is placed. Please allow 5-7 business days for us to complete it -Shipping time is 4-8 business days depending on the delivery destination. RETURNS AND EXCHANGES: Because its made to order we do not accept any returns or exchanges.
+  Updated: 2025-10-17T03:21:31Z
+  Vendor: L&L Boutique 
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0944/0644/3318/files/E8BAB814-5210-4964-9540-D4118BD7D7E8.jpg?v=1760541910
+  Price: $12.00 CAD
+- [Merry Christmas](https://lnlboutiquexo.myshopify.com/products/merry-christmas): 16 oz Glass Clear with lid and straw CARE INSTRUCTIONS: -Spot clean only! -Not dishwasher safe! PROCESSING : -Your item is made to order, meaning we print it special just for you when your order is placed. Please allow 5-7 business days for us to complete it -Shipping time is 4-8 business days depending on the delivery destination. RETURNS AND EXCHANGES: Because its made to order we do not accept any returns or exchanges.
+  Updated: 2025-10-17T03:05:11Z
+  Vendor: L&L Boutique 
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0944/0644/3318/files/75129B29-8761-435B-A433-8691EA4F74B0.jpg?v=1760541910
+  Price: $22.00 CAD
+- [Just A Girl Hoodie](https://lnlboutiquexo.myshopify.com/products/just-a-girl-hoodie): SIZING: * Unisex sizing; slightly larger than typical women's shirts and slightly smaller than typical men's shirts. *Most women find their typical size works best for a loose fit *For an oversized look, size up Easy measuring tip: Take your favorite sweatshirt or tee, lay it on a flat surface and measure the width (armpit to armpit) and length (top to bottom), then compare with our size chart in the image section. * For different colour or style please directly email me (lnlboutiquexo@gmail.com) CARE INSTRUCTIONS: -Machine wash, inside out on the gentle cycle. Lay flat to dry (or tumble dry on low) -Do not iron directly on graphic print. PROCESSING : -Your shirt is made to order, meaning we print it special just for you when your order is placed. Please allow 5-7 business days for us to print your tee. -Shipping time is 4-8 business days depending on the delivery destination. RETURNS AND EXCHANGES: Because the shirts are made to order we do not accept any returns or exchanges. Please double check your sizing and color choice carefully for errors.
+  Updated: 2025-10-17T03:11:11Z
+  Vendor: L&L Boutique 
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0944/0644/3318/files/059B20D0-ECF4-43E7-AE67-3E4EB2A070C7.jpg?v=1760541910
+  Price: $45.00 CAD
+- [Thriving Hoodie](https://lnlboutiquexo.myshopify.com/products/thriving-hoodie): SIZING: * Unisex sizing; slightly larger than typical women's shirts and slightly smaller than typical men's shirts. *Most women find their typical size works best for a loose fit *For an oversized look, size up Easy measuring tip: Take your favorite sweatshirt or tee, lay it on a flat surface and measure the width (armpit to armpit) and length (top to bottom), then compare with our size chart in the image section. * For different colour or style please directly email me (lnlboutiquexo@gmail.com) CARE INSTRUCTIONS: -Machine wash, inside out on the gentle cycle. Lay flat to dry (or tumble dry on low) -Do not iron directly on graphic print. PROCESSING : -Your shirt is made to order, meaning we print it special just for you when your order is placed. Please allow 5-7 business days for us to print your tee. -Shipping time is 4-8 business days depending on the delivery destination. RETURNS AND EXCHANGES: Because the shirts are made to order we do not accept any returns or exchanges. Please double check your sizing and color choice carefully for errors.
+  Updated: 2025-10-17T03:12:00Z
+  Vendor: L&L Boutique 
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0944/0644/3318/files/FC60C082-0195-408F-8AA3-646EB53D1799.jpg?v=1760541910
+  - [White](https://lnlboutiquexo.myshopify.com/products/thriving-hoodie?variant=53104509780278)
+    Availability: Available
+    Price: $45.00 CAD
+  - [Ash](https://lnlboutiquexo.myshopify.com/products/thriving-hoodie?variant=53104509813046)
+    Availability: Available
+    Price: $45.00 CAD
+- [Deliver To Sweater](https://lnlboutiquexo.myshopify.com/products/deliver-to-sweater): SIZING: * Unisex sizing; slightly larger than typical women's shirts and slightly smaller than typical men's shirts. *Most women find their typical size works best for a loose fit *For an oversized look, size up Easy measuring tip: Take your favorite sweatshirt or tee, lay it on a flat surface and measure the width (armpit to armpit) and length (top to bottom), then compare with our size chart in the image section. * For different colour or style please directly email me (lnlboutiquexo@gmail.com) CARE INSTRUCTIONS: -Machine wash, inside out on the gentle cycle. Lay flat to dry (or tumble dry on low) -Do not iron directly on graphic print. PROCESSING : -Your shirt is made to order, meaning we print it special just for you when your order is placed. Please allow 5-7 business days for us to print your tee. -Shipping time is 4-8 business days depending on the delivery destination. RETURNS AND EXCHANGES: Because the shirts are made to order we do not accept any returns or exchanges. Please double check your sizing and color choice carefully for errors.
+  Updated: 2025-10-17T03:12:05Z
+  Vendor: L&L Boutique 
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0944/0644/3318/files/71BBA2BF-29A1-4106-A7F8-76EADDFF2374.jpg?v=1760541910
+  - [White](https://lnlboutiquexo.myshopify.com/products/deliver-to-sweater?variant=53104511123766)
+    Availability: Available
+    Price: $35.00 CAD
+  - [Sand](https://lnlboutiquexo.myshopify.com/products/deliver-to-sweater?variant=53104511156534)
+    Availability: Available
+    Price: $35.00 CAD
 
 ## Collections
 
@@ -1283,32 +1361,35 @@
   Updated: 2025-09-05T18:03:50Z
   Total Products: 1
 - [Sweatshirts & Hoodies](https://lnlboutiquexo.myshopify.com/collections/sweaters)
-  Updated: 2025-10-10T01:02:25Z
-  Total Products: 22
+  Updated: 2025-10-16T15:10:47Z
+  Total Products: 26
 - [Totes](https://lnlboutiquexo.myshopify.com/collections/tote-bags): 100% Heavy Canvas 15”W X 16”H Spot Clean Only
   Updated: 2025-10-02T00:40:36Z
   Total Products: 8
 - [T-Shirts](https://lnlboutiquexo.myshopify.com/collections/tshirts)
-  Updated: 2025-09-19T14:14:48Z
-  Total Products: 9
+  Updated: 2025-10-16T14:51:15Z
+  Total Products: 11
 - [Holiday Collection](https://lnlboutiquexo.myshopify.com/collections/christmas)
-  Updated: 2025-10-10T01:02:25Z
-  Total Products: 18
+  Updated: 2025-10-16T15:10:47Z
+  Total Products: 26
 - [Bookish Collection](https://lnlboutiquexo.myshopify.com/collections/books)
   Updated: 2025-10-02T00:40:36Z
   Total Products: 19
 - [Tumblers & Mugs](https://lnlboutiquexo.myshopify.com/collections/glassware)
-  Updated: 2025-09-18T19:41:43Z
-  Total Products: 13
+  Updated: 2025-10-16T15:01:06Z
+  Total Products: 14
 - [Motivation Collection](https://lnlboutiquexo.myshopify.com/collections/motivation-collection)
-  Updated: 2025-09-19T14:23:44Z
-  Total Products: 8
-- [Limited Supply!](https://lnlboutiquexo.myshopify.com/collections/limited-supply)
-  Updated: 2025-09-21T14:59:37Z
-  Total Products: 3
+  Updated: 2025-10-16T15:07:20Z
+  Total Products: 10
 - [Ornaments](https://lnlboutiquexo.myshopify.com/collections/ornaments): Ceramic Ornament- 2.75 inch Round or Clear Acrylic Ornament - 4 inch Round
-  Updated: 2025-10-10T00:55:51Z
-  Total Products: 0
+  Updated: 2025-10-16T14:56:28Z
+  Total Products: 1
+- [Holiday Tray](https://lnlboutiquexo.myshopify.com/collections/holiday-tray)
+  Updated: 2025-10-15T15:31:29Z
+  Total Products: 1
+- [Music & Celebs](https://lnlboutiquexo.myshopify.com/collections/music-celebs)
+  Updated: 2025-10-15T15:38:17Z
+  Total Products: 3
 
 ## Store Pages
 
