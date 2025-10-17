@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2018-01-12T21:20:39Z
 - Contact Email: contact@ma-boutique-henne.com
-- Updated At: 2025-10-17T12:00:39.809Z
+- Updated At: 2025-10-17T20:00:38.562Z
 
 ## Products
 
@@ -46,7 +46,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/18221622_10155635691354749_2112243025984392406_n_967c934a-5b7c-44ba-b1fe-6882c39d145f.jpg?v=1540027006
   Price: 8,00 € EUR
 - [Brosse à cheveux en bambou naturel, vegan](https://ma-boutique-henne.com/products/brosse-a-cheveux-en-bambou-naturel): Brosse à cheveux en bois de bambou naturel, légère, vegan, bio, naturelle, pour démêler et lisser les cheveux en douceur, brillance, douceur, chevelure, soin capillaire, bio, écologique, recyclable, naturel, shampoing, henne, poudre, sanglier, peigne, peigner
-  Updated: 2025-07-22T01:48:11Z
+  Updated: 2025-10-17T12:14:31Z
   Vendor: ma boutique henné
   Product Type: Accessoires
   Availability: Available
@@ -466,7 +466,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/camomille-matricaire-sachet-50g.jpg?v=1524736429
   Price: 13,50 € EUR
 - [Henné Naturel du Rajasthan, Inde ECOCERT - Henna Red](https://ma-boutique-henne.com/products/henne-naturel-du-rajasthan-inde-100gr): 100% naturel, mayam, elementals, Henné naturel rajasthan Inde ,Centifolia, rajasthan, coloration cheveux roux, rousse, rouge, auburn, bordeaux, brillance, nuance, chevelure, boutique, doux brillants, bio, coloration naturelle, soin capillaire, couverture cheveux blancs, rouge cerise, reflets cuivrés, cheveux, algérie
-  Updated: 2025-10-14T06:06:35Z
+  Updated: 2025-10-17T17:03:31Z
   Vendor: Ma Boutique Henné
   Product Type: Henné
   Availability: Available
@@ -1733,7 +1733,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/brown2.png?v=1605622351
   Price: 19,50 € EUR
 - [Coloration Végétale ACAJOU - MAHOGANY, Cultivator's Colors from Nature](https://ma-boutique-henne.com/products/coloration-vegetale-acajou-mahogany-cultivators-colors-from-nature): coloration végétale naturelle cultivator cultivators cultivator's mahogany roux rouge intense bordeaux Acajou, rouge, color me, bourgogne, vin rouge wine red burgundy hair colour, me, Henné, Manjistha, orcanette, henné violine, violet, couvre cheveux blancs, henna, katam, bio, biologique
-  Updated: 2025-09-29T09:22:05Z
+  Updated: 2025-10-17T18:54:36Z
   Vendor: Ma Boutique Henné
   Product Type: Poudres colorantes
   Availability: Available
@@ -1782,7 +1782,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/henne-blond-dore.png?v=1605703923
   Price: 19,50 € EUR
 - [Henné Rouge Renforcé Intense - Exclusivité Ma Boutique Henné](https://ma-boutique-henne.com/products/henne-rouge-renforce): Henné rouge renforcé intense, coloration cheveux rouges, flamboyant, 1,5% sodium picramate (taux réduit pour préserver votre santé) couvre les cheveux blancs, temps de pose réduit et soin des cheveux, auburn, bordeaux
-  Updated: 2025-10-17T08:20:45Z
+  Updated: 2025-10-17T19:07:53Z
   Vendor: Ma Boutique Henné
   Product Type: Henné
   Availability: Available
@@ -2034,7 +2034,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/files/henne-souad-rouge-clair.jpg?v=1734610987
   Price: 4,50 € EUR
 - [Henné naturel d'Egypte - Exclusivité Ma Boutique Henné](https://ma-boutique-henne.com/products/henne-naturel-degypte-exclusivite-ma-boutique-henne): Ce henné 100% naturel, egypte, rouge roux  naturel BAQ, biologique. coloration et soin des cheveux, couleur rousse, reflets cuivrés, auburn, bordeaux, rouge, cheveux brillants, volume, henne, rouge ,poudre plante, coloration, coloration cheveux gris, henna
-  Updated: 2025-10-16T11:33:57Z
+  Updated: 2025-10-17T16:09:14Z
   Vendor: Ma Boutique Henné
   Product Type: Henné
   Availability: Available
@@ -2083,7 +2083,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/files/IndigoHaare-Pflanzenhaarfarbe_khadi.jpg?v=1745869918
   Price: 9,90 € EUR
 - [Henné Neutre - Ma Boutique Henné](https://ma-boutique-henne.com/products/henne-neutre-ma-boutique-henne): coloration ma boutique henne Indigo pur Bleu, Noir Froid, bleu et bleuté, cheveux châtain moyen et Noir Bleuté brun, brune, marron foncé, indigotier
-  Updated: 2025-10-09T11:59:46Z
+  Updated: 2025-10-17T17:03:31Z
   Vendor: Ma Boutique Henné
   Product Type: Poudre de soin
   Availability: Available
