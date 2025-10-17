@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-10-17T16:00:48.862Z
+- Updated At: 2025-10-17T20:00:48.352Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -16847,7 +16847,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £250.00 GBP
 - [Personalised  Diamond Heart Photo Locket | Engraved 18ct Gold Vermeil](https://www.lilyblanche.com/products/2-photo-diamond-heart-locket-gold): Keep loved ones close this Christmas with our best-selling Diamond Heart Photo Locket. Personalised FREE with 2 Photos. Engraved. Hallmarked 18ct gold vermeil. Order now for Christmas delivery. Rated 4.8/5 from 1627 reviews
-  Updated: 2025-10-17T08:13:32Z
+  Updated: 2025-10-17T16:56:00Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -17256,7 +17256,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/files/single_black_pearl_silver_1080.jpg?v=1741872199
     Price: £240.00 GBP
 - [Diamond Initial Necklace | Solid Gold Disc | A to Z](https://www.lilyblanche.com/products/diamond-initial-necklace-solid-9-carat-gold-disc-a-to-z): Make a sparkling initial impression with our diamond and solid gold Initial DIsc Necklaces. Featuring up to 11 white diamonds, these diamond initial discpendants make luxurious personalised gifts.  Shop now and receive a free jewellery care kit with all orders.
-  Updated: 2025-10-17T15:42:17Z
+  Updated: 2025-10-17T17:56:22Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -17490,7 +17490,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/files/ivory_pearl_on_gold_paperclip_chain_2_1080_0f620459-b075-4794-bd8c-47a031351a77.jpg?v=1741872397
     Price: £215.00 GBP
 - [Diamond Initial Necklace | Solid Gold | A to Z](https://www.lilyblanche.com/products/diamond-initial-necklace-solid-9-carat-gold-charm-a-to-z): Make a sparkling initial impression with our diamond and solid gold Initial Necklaces. Featuring up to 19 white diamonds, these diamond initial pendants make luxurious personalised gifts.  Shop now and receive a free jewellery care kit with all orders.
-  Updated: 2025-10-17T15:52:17Z
+  Updated: 2025-10-17T18:06:23Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -17757,7 +17757,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Price: £390.00 GBP
 - [Handcrafted 9ct Gold Personalised Initial Necklace](https://www.lilyblanche.com/products/personalised-initial-necklace-solid-gold-a-to-z): The bestselling Solid Gold Initial Letter Necklace, handcrafted in 9ct gold. Personalise with any letter A-Z. Free UK delivery, gift wrap & care kit. Rated 4.9/5. 
 From £119
-  Updated: 2025-10-17T02:08:09Z
+  Updated: 2025-10-17T18:49:35Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
