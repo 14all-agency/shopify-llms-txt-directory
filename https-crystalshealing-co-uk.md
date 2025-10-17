@@ -8,7 +8,7 @@
 - Timezone: Europe/London
 - Created At: 2021-01-17T01:03:23Z
 - Contact Email: contact@crystalshealing.co.uk
-- Updated At: 2025-10-17T16:00:39.036Z
+- Updated At: 2025-10-17T20:00:38.994Z
 
 # Crystals Healing — AI-Ready Index
 Welcome to Crystals Healing, your trusted UK-based store for healing crystals and jewelry. This llms.txt file lists all products, collections, blogs, and pages to help AI assistants, search engines, and shopping bots discover and understand our offerings.
@@ -1644,7 +1644,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
   Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/795066336.jpg?v=1739776399
   Price: £23.00 GBP
 - [Aries Zodiac Bracelet – Confidence, Courage & Vitality](https://crystalshealing.co.uk/products/aries-zodiac-bracelet): Embrace courage and bold energy with the Aries Zodiac Bracelet. Featuring Bloodstone, Aventurine, Red Jasper, and Carnelian, it’s the perfect gift for Aries!
-  Updated: 2025-09-25T11:49:35Z
+  Updated: 2025-10-17T18:31:04Z
   Vendor: Crystals Healing
   Product Type: Bracelets
   Availability: Available
@@ -4072,7 +4072,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
     Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/WhatsAppImage2024-03-13at13.32.45_4768ba0b_1_-min.jpg?v=1749144206
     Price: £35.00 GBP
 - [Ultimate Home Protection & Energy Cleansing Kit – Crystals, Sage, and Tools for Positive Energy](https://crystalshealing.co.uk/products/home-protection-kit): Shield and refresh your space with the Home Protection & Energy Cleansing Kit, crafted to remove negativity and promote peace and positivity. Our Home Protection Kit is designed to provide everything you need for a calm, secure, and energetically balanced space. Combining traditional protection tools with modern energy-clearing essentials, this kit is ideal for those looking to shield their home from negativity, restore harmony, and maintain a peaceful environment. What’s Inside the Home Protection Kit? 4 Black Obsidian Tumblestones – Known as powerful grounding stones, black obsidian shields against negativity, enhances home protection, and fosters emotional balance. Palo Santo Stick – A staple in energy cleansing, this sacred wood clears away negative energy, restores calm, and promotes spiritual tranquility. White Sage Smudge Stick – Used in cleansing rituals, sage is known for purifying energy, making it perfect for space clearing and creating a fresh, welcoming atmosphere. Abalone Shell – A stunning natural container for holding your smudge materials, the shell itself embodies protective energy and emotional healing properties. Black Obsidian Pendulum with Chakra Bracelet – Use the pendulum for insight and guidance, while the chakra bracelet aids in balancing and harmonizing your energy centers. Candle for Light and Positivity – Adds a warm glow and helps set the intention for a peaceful, secure space. Royal Blue Velvet Pouch – Provides a convenient and elegant way to store and protect your kit items. Selenite Stick – Renowned for its powerful cleansing properties, selenite can clear and recharge other crystals, maintaining an energetically clean space. White Feather with Evil Eye Bead – Traditionally used in smudging rituals, the feather helps to disperse sage smoke, and the evil eye bead provides additional protection from harm. How to Use Your Home Protection Kit: Cleanse Your Space – Light the sage or Palo Santo and let the smoke flow through each room, focusing on areas that may feel heavy or stagnant. Place Crystals for Shielding – Position the Black Obsidian stones near entrances, windows, or other key points to guard against negative energy. Use the Feather & Pendulum – Direct the cleansing smoke with the feather and use the pendulum to check energy alignment and receive spiritual insight. Why Choose Our Home Protection Kit? Every item in this kit is carefully selected for its protective, grounding, and balancing properties. Ideal for home, office, or any personal space, this kit is perfect for anyone looking to enhance their well-being, keep negative energy at bay, and create a harmonious atmosphere. FAQs 1. What’s included in the Home Protection Kit?This kit features essential items for cleansing, grounding, and protection, including Black Obsidian stones, a Palo Santo stick, White Sage, Abalone Shell, Black Obsidian Pendulum with Chakra Bracelet, a candle, Selenite Stick, a feather with Evil Eye bead, and a velvet pouch. 2. How do I use the items in this kit?Start by smudging your space with the sage or Palo Santo to clear negative energy. Place the Black Obsidian stones near entryways, use the pendulum for guidance, and keep the evil eye feather for ongoing protection. 3. How often should I cleanse my home with this kit?You can cleanse your space as needed, such as weekly or monthly, or anytime you sense a buildup of negativity. Regular cleansing is beneficial for maintaining a peaceful, energized environment. 4. Can I use this kit in any type of space?Yes, the Home Protection Kit is suitable for any environment, including homes, offices, studios, and personal spaces, where you want to foster a sense of safety and positive energy. 5. What’s the purpose of the Abalone Shell in the kit?The Abalone Shell serves as a beautiful and functional holder for burning sage or Palo Santo. Its protective energy complements the other elements, making it ideal for supporting emotional balance. 6. Who is this Home Protection Kit designed for?This kit is perfect for beginners in energy work as well as experienced practitioners. It’s also an excellent gift for anyone seeking more protection, positivity, and balance in their home.
-  Updated: 2025-10-01T15:01:18Z
+  Updated: 2025-10-17T18:14:40Z
   Vendor: Crystals Healing
   Product Type: crystal kits
   Availability: Available
@@ -4462,14 +4462,14 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
   Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/Add_a_heading_30.webp?v=1749663762
   Price: £27.80 GBP
 - [Natural Abalone Shell](https://crystalshealing.co.uk/products/abalone-shell): Bring natural oceanic beauty and healing energy into your space with this stunning natural abalone shell (11–12.5 cm). Known for its vibrant, iridescent colors and strong spiritual symbolism, each shell is a unique treasure—perfect for burning sage, incense sticks, or resins during your sacred rituals. This abalone shell isn’t just functional—it’s also a beautiful piece of decor that brings a serene, coastal vibe to any room. Ideal for use in smudging ceremonies, aromatherapy sessions, or meditation spaces, it also makes a meaningful gift for spiritual seekers and wellness lovers. Perfect for: Smudging with white sage, palo santo, or herbs Burning incense or essential oil resins Creating a spiritual altar or meditation corner Adding a natural, coastal touch to your home decor Gift-giving for energy cleansing or holistic healing Each shell is ethically sourced, hand-selected, and ready to use. 👉 Eco-friendly | Multi-color | Natural & authentic abalone shell
-  Updated: 2025-10-01T15:01:21Z
+  Updated: 2025-10-17T18:14:40Z
   Vendor: Crystals Healing
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/1000032139-Photoroom_8.jpg?v=1749663740
   Price: £11.70 GBP
 - [White Sage Smudge Stick (10 cm)](https://crystalshealing.co.uk/products/white-sage-smudge-stick-10-cm): Cleanse your space, uplift your spirit, and restore balance with this natural white sage smudge stick (10 cm). Hand-tied and carefully dried to be 100% mold-free, each smudge stick is perfect for aura cleansing, stress relief, and spiritual meditation. Traditionally used in energy clearing rituals, the white sage smudge stick helps release negative energy, purify the air, and promote mental clarity. Whether you’re starting a morning intention ritual or closing out your day with peace, this sacred tool is your go-to for grounding and healing. Benefits & Uses: Aura & space cleansing Stress and anxiety relief Meditation & intention setting Yoga & wellness rituals Natural air purification Harvested sustainably and packaged with care for your personal rituals. 👉 All-natural | Mold-free | Ethically sourced | Ready to use
-  Updated: 2025-10-01T15:01:21Z
+  Updated: 2025-10-17T18:14:41Z
   Vendor: Crystals Healing
   Product Type: 
   Availability: Available
