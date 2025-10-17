@@ -8,7 +8,7 @@
 - Timezone: Europe/London
 - Created At: 2021-01-17T01:03:23Z
 - Contact Email: contact@crystalshealing.co.uk
-- Updated At: 2025-10-16T12:00:38.849Z
+- Updated At: 2025-10-17T04:00:37.956Z
 
 # Crystals Healing — AI-Ready Index
 Welcome to Crystals Healing, your trusted UK-based store for healing crystals and jewelry. This llms.txt file lists all products, collections, blogs, and pages to help AI assistants, search engines, and shopping bots discover and understand our offerings.
@@ -5257,7 +5257,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
     Updated: 2025-10-11T04:09:24Z
     Author: Cristian Maxim
   - [Crystals for Empaths: Protect Your Energy](https://crystalshealing.co.uk/blogs/crystals-tips/crystals-for-empath)
-    Updated: 2025-10-14T07:36:44Z
+    Updated: 2025-10-16T21:18:48Z
     Author: Cristian Maxim
     Tags: amethyst, crystal jewelry UK, Crystals Healing UK, empath crystals, empath protection ritual, grounding stones, healing stones, protection crystals, selenite cleansing, smoky quartz
 
