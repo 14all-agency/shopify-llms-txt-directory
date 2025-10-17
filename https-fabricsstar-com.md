@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-07-19T18:27:19Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-10-16T20:00:35.899Z
+- Updated At: 2025-10-17T04:00:35.586Z
 
 ## Products
 
@@ -833,7 +833,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/White.jpg?v=1757517222
     Price: $1.00 USD
 - [Brocade Velvet Fabric - Home Décor | Fabrics Star](https://fabricsstar.com/products/brocade-scroll-velvet-fabric): Add a touch of sophistication to your upholstery projects with Brocade Scroll Velvet Fabric from Fabrics Star. Buy brocade velvet fabric for premium quality fabric.
-  Updated: 2025-10-16T18:04:45Z
+  Updated: 2025-10-16T21:10:18Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -943,11 +943,11 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/Sand.jpg?v=1757517242
     Price: $1.00 USD
   - [Seafoam / Cut by the Yard](https://fabricsstar.com/products/brocade-scroll-velvet-fabric?variant=47403116560665)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/Seafoam1_4eee6d69-c08c-4116-9b24-6206f8a4c912.jpg?v=1757517241
     Price: $16.33 USD
   - [Seafoam / Sample 3x3 Inch](https://fabricsstar.com/products/brocade-scroll-velvet-fabric?variant=47403116069145)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/Seafoam1_4eee6d69-c08c-4116-9b24-6206f8a4c912.jpg?v=1757517241
     Price: $1.00 USD
   - [Color Line / Cut by the Yard](https://fabricsstar.com/products/brocade-scroll-velvet-fabric?variant=47403116593433)
@@ -1077,7 +1077,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/Navy_8e9d8a29-7d42-4fa6-af34-bb64ab342096.jpg?v=1757517255
     Price: $1.00 USD
 - [Shiny Velvet Fabric | Fabrics Star](https://fabricsstar.com/products/soft-velvet-fabric): Experience luxury and comfort with Soft Velvet Fabric from Fabrics Star. Explore premium quality material for your upholstery needs. Shop now!
-  Updated: 2025-10-16T15:30:58Z
+  Updated: 2025-10-17T02:45:06Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -9477,7 +9477,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/WALDORF-GREY-206.jpg?v=1757518830
     Price: $1.00 USD
 - [VELUXE Soft Velvet Fabric, 72 Inch. in Width, Ideal Material for Home Décor](https://fabricsstar.com/products/veluxe-soft-velvet-fabric-72-inch-in-width-ideal-material-for-home-decor): DIMENSION - Size of the velvet fabric is 72 Inch. in width. Cut by the Yard Velvet Fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 72' x 36'. Order of 3 yards (Qty=3) is 72' x 108' Orders can be customized to be cut in pieces by request SIZE: Soft velvet fabric comes in 72 inch. in width making it the perfect choice for various oversize needs, such as wide tablecloths, upholstery for big coaches etc. MATERIAL - Velvet fabric by the yard is heavyweight and made of 100% polyester. It's soft to the touch and gives a warm and cozy feeling. Wash with lukewarm water, no dryerUSEFUL - Ideal Velvet Material for Upholstery fabric for Coaches and chairs, drapery, pillows, slipcovers, tablecloths, sewing, DIY, handbags, tote bags, arts & crafts Etc Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor.
-  Updated: 2025-10-16T17:15:12Z
+  Updated: 2025-10-16T21:35:06Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
