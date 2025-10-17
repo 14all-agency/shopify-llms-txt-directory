@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2025-10-17T12:00:51.266Z
+- Updated At: 2025-10-17T16:00:52.473Z
 
 ## Products
 
@@ -10512,7 +10512,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Lace-Up-Lug-Booties-Brinxx-Couture-206.jpg?v=1709859595
     Price: $60.00 USD
 - [Sport Tank and Leggings Set - Brinxx Couture](https://www.brinxxcouture.com/products/sport-tank-and-leggings-set): Dominate your workout with this stylish Sport Tank and Leggings Set! Offering complete flexibility and comfort, this set is perfect for any activity.
-  Updated: 2025-10-16T21:57:50Z
+  Updated: 2025-10-17T15:59:41Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -18785,7 +18785,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Plus-Size-Cutout-Slit-Round-Neck-Long-Sleeve-Dress-Brinxx-Couture-39.jpg?v=1726380138
     Price: $29.99 USD
 - [Ribbed Mermaid Hem Camisole Maxi Dress - Brinxx Couture](https://www.brinxxcouture.com/products/ribbed-mermaid-hem-camisole-maxi-dress): This Ribbed Mermaid Hem Camisole Maxi Dress is a must-have for any woman. The ribbed material accentuates your curves while the mermaid hem adds elegance.
-  Updated: 2025-09-16T01:40:03Z
+  Updated: 2025-10-17T12:02:30Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -23343,7 +23343,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Notch-Lapel-Woven-Coat-with-Side-Pockets-Brinxx-Couture-2936.jpg?v=1730297108
     Price: $40.00 USD
 - [Cable-Knit Round Neck Sweater Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress): Wrap yourself in cozy comfort and timeless style with our Cable-Knit Round Neck Sweater Dress! Made from soft, high-quality materials.
-  Updated: 2025-10-17T10:40:56Z
+  Updated: 2025-10-17T14:40:35Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -23373,11 +23373,11 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Cable-Knit-Round-Neck-Sweater-Dress-Brinxx-Couture-2059.webp?v=1730297243
     Price: $49.99 USD
   - [Black / L](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress?variant=43426819702966)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Cable-Knit-Round-Neck-Sweater-Dress-Brinxx-Couture-2059.webp?v=1730297243
     Price: $49.99 USD
   - [Black / XL](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress?variant=43426819735734)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Cable-Knit-Round-Neck-Sweater-Dress-Brinxx-Couture-2059.webp?v=1730297243
     Price: $49.99 USD
   - [Sage / S](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress?variant=43432153710774)
@@ -33960,15 +33960,8 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/CC59428CSI3.jpg?v=1747426370
     Price: $39.99 USD
-- [Gold Metal Cage Clutch - Brinxx Couture](https://www.brinxxcouture.com/products/gold-metal-cage-clutch): Indulge in the ultimate luxury with our Gold Metal Cage Clutch. This elegant and exclusive accessory features a stunning gold metal cage design. Unique Style!
-  Updated: 2025-10-12T12:51:25Z
-  Vendor: Brinxx Couture
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/WH2002222.jpg?v=1747426418
-  Price: $89.99 USD
 - [V-Back Bow Tie Denim Dress - Brinxx Couture](https://www.brinxxcouture.com/products/v-back-bow-tie-denim-dress): Elevate your style with our V-Back Bow Tie Denim Dress. This flattering silhouette features a charming bow-tie detail at the back, creating a vintage twist.
-  Updated: 2025-10-15T00:52:04Z
+  Updated: 2025-10-17T13:40:42Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -33990,7 +33983,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/b5fd43c3-243a-4886-a3a4-ac44e52b7cf3-Max-Origin.webp?v=1747681659
     Price: $64.99 USD
   - [Navy / S](https://www.brinxxcouture.com/products/v-back-bow-tie-denim-dress?variant=43998614257846)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/3e33a05d-3a90-4961-85d6-82cfb51ff58e-Max-Origin.webp?v=1747681659
     Price: $64.99 USD
   - [Navy / M](https://www.brinxxcouture.com/products/v-back-bow-tie-denim-dress?variant=43998614290614)
