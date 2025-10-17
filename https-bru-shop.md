@@ -237,7 +237,7 @@ Temperatur-präzise Teezubereitung
 - Currency: EUR
 - Timezone: Europe/Berlin
 - Created At: 2020-06-16T18:10:19Z
-- Updated At: 2025-10-17T08:00:29.587Z
+- Updated At: 2025-10-17T16:00:29.982Z
 
 wir lieben tee
 
@@ -295,8 +295,8 @@ wir lieben tee
   - [Tee im Sommer? Na klar – darum ist Tee ideal bei Hitze](https://bru.shop/blogs/bru-blog/tee-im-sommer-na-klar-darum-ist-tee-ideal-bei-hitze)
     Updated: 2025-07-25T11:59:04Z
     Author: Sandra Baillergeau
-  - [🍂 5 einfache Tipps, um dich sanft auf den Herbst einzustimmen](https://bru.shop/blogs/bru-blog/🍂-5-einfache-tipps-um-dich-sanft-auf-den-herbst-einzustimmen)
-    Updated: 2025-10-10T13:06:04Z
+  - [🍂 5 einfache Tipps, um dich sanft auf den Herbst einzustimmen](https://bru.shop/blogs/bru-blog/5-einfache-tipps-um-dich-sanft-auf-den-herbst-einzustimmen)
+    Updated: 2025-10-17T10:19:24Z
     Author: Sandra Baillergeau
 - [BRU Maker One: Information und Bedienung](https://bru.shop/blogs/bru-maker-one-information-und-bedienung)
   - [Einrichtung des Geräts - BRU](https://bru.shop/blogs/bru-maker-one-information-und-bedienung/einrichtung-des-gerats): Einrichtung des Geräts - BRU
