@@ -7,7 +7,7 @@
 - Created At: 2025-05-23T17:13:08Z
 - Contact Email: sklep@lunnea.pl
 - Address: Nowa Wola Gołębiowska 40, Radom 26-613 Polska
-- Updated At: 2025-10-17T08:00:30.442Z
+- Updated At: 2025-10-17T12:00:30.441Z
 
 ## Products
 
@@ -102,7 +102,7 @@
     Availability: Available
     Price: 135,00 zł PLN
 - [Bransoletka z kamieni naturalnych fluorytu i hematytu](https://lunnea.pl/products/bransoletka-z-kamieni-naturalnych-fluorytu-i-hematyt): Bransoletka z kamieni naturalnych Kolorowa, pełna światła i pozytywnej energii - bransoletka na gumce z kamieni naturalnych fluorytu i złotego hematytu to idealna propozycja dla kobiet, które kochają niebanalną biżuterię handmade. Łączy w sobie naturalne piękno kamieni szlachetnych z wygodą codziennego noszenia. Gumka jubilerska zapewnia idealne dopasowanie, a delikatne dodatki ze stali chirurgicznej - w tym błyszczący kryształek i złota gwiazdka - nadają całości wyjątkowego uroku. To nie tylko ozdoba, ale i talizman – fluoryt uznawany jest za kamień klarowności, a hematyt dodaje odwagi i równowagi. Ta ręcznie robiona bransoletka z kamieni naturalnych idealnie sprawdzi się jako prezent - zarówno dla przyjaciółki, jak i samej siebie. Dzięki różnorodnym barwom kamieni - od pastelowego różu, przez błękit, aż po głębokie fiolety - pasuje do wielu stylizacji i okazji. Biżuteria handmade z duszą - na co dzień i na wyjątkowe momenty. Bransoletka handmade z fluorytu Ta bransoletka na gumce z kamieni naturalnych powstała z myślą o kobietach ceniących delikatność, ale i charakter. Fluoryt tęczowy w odcieniach fioletu, błękitu, różu i zieleni przyciąga wzrok i działa harmonizująco na umysł. Kamień ten często wybierany jest jako wsparcie przy podejmowaniu ważnych decyzji i pracy nad własnym wnętrzem. Z kolei złoty hematyt to symbol siły i odwagi - idealne połączenie równowagi i blasku. Zawieszki ze stali chirurgicznej dodają bransoletce lekkości i nowoczesnego charakteru. Błyszczący kryształek oraz złota gwiazdka to subtelne akcenty, które nadają jej wyjątkowego wdzięku. W bransoletce na żyłce z kamieni naturalnych znajdziesz: Fluoryt tęczowy - gładkie kule 6-6,5 mm, wielobarwne (fiolety, błękity, zielenie, bezbarwne). Złoty hematyt fasetowany - kuleczki 4 mm, jako przekładki dodające blasku. Zawieszka ze stali chirurgicznej - złota gwiazdka. Dekoracyjny kryształek - delikatny, na metalowym mocowaniu. Gumka jubilerska - elastyczna, wygodna, odporna na rozciąganie. Specyfikacja bransoletki z kamieni naturalnych: Indywidualny rozmiar: możliwy - podaj informację w komentarzu w koszyku. Kamienie naturalne: fluoryt (6-6,5 mm), hematyt (4 mm). Elementy metalowe: stal chirurgiczna. Elastyczna żyłka jubilerska - trwała i komfortowa. Dlaczego warto wybrać ręcznie tworzone bransoletki z fluorytu? Wykonana ręcznie - z dbałością o każdy szczegół. Unikalna kompozycja kolorystyczna - każdy egzemplarz różni się układem kamieni. Kamienie naturalne o symbolicznej mocy - fluoryt i hematyt. Wygodne zakładanie dzięki elastycznej gumce. Subtelne zawieszki z chirurgicznej stali - trwałe i hipoalergiczne. Idealna na prezent - dołącz eleganckie opakowanie i podaruj komuś wyjątkowemu. Podaruj ją sobie lub bliskiej osobie - to biżuteria, która zostaje w pamięci na lata.
-  Updated: 2025-10-17T07:10:05Z
+  Updated: 2025-10-17T09:55:57Z
   Vendor: Lunnea
   Product Type: Bransoletka
   Availability: Available
