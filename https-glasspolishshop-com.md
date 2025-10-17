@@ -7,7 +7,7 @@
 - Currency: EUR
 - Timezone: Europe/Dublin
 - Created At: 2025-01-23T10:54:05Z
-- Updated At: 2025-10-17T16:00:36.322Z
+- Updated At: 2025-10-17T20:00:36.709Z
 
 ## Products
 
@@ -2438,7 +2438,7 @@
     Availability: Available
     Price: €27.95 EUR
 - [GlasX 60 Fine Grade Silicon Carbide Disc 75mm](https://glasspolishshop.com/products/glasx-60-fine-grade-abrasive-3-inch-75mm): GlasX™ 60 Constructed from the highest quality silicon carbide particles for GREAT PERFORMANCE / CLEAR CUT - no swirl marks / LONG LIFESPAN- last up to 5 times longer than traditional abrasives.
-  Updated: 2025-10-15T23:58:30Z
+  Updated: 2025-10-17T19:24:21Z
   Vendor: Glass Polish
   Product Type: GlasX™ Foam-Backed Abrasive Discs
   Availability: Available
@@ -2450,7 +2450,7 @@
     Availability: Available
     Price: €34.95 EUR
 - [GlasX 120 Medium Grade Silicon Carbide Disc 75mm](https://glasspolishshop.com/products/glasx-120-medium-grade-abrasive-3-inch-75mm): GlasX™ 120 Constructed from the highest quality silicon carbide particles for GREAT PERFORMANCE / CLEAR CUT - no swirl marks / LONG LIFESPAN- last up to 5 times longer than traditional abrasives.
-  Updated: 2025-10-15T23:58:30Z
+  Updated: 2025-10-17T19:24:24Z
   Vendor: Glass Polish
   Product Type: GlasX™ Foam-Backed Abrasive Discs
   Availability: Available
@@ -2524,7 +2524,7 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/28004.jpg?v=1747667602
   Price: €49.95 EUR
 - [Professional Glass Scratch Removal System with FLEX L1503VR Polisher](https://glasspolishshop.com/products/professional-glass-scratch-removal-xnet-system): Restore any glass surface with the xNet™ system featuring the FLEX L1503VR. Fast, cost-effective scratch removal for automotive, toughened, and household glass.
-  Updated: 2025-10-15T23:58:28Z
+  Updated: 2025-10-17T17:05:02Z
   Vendor: Glass Polish
   Product Type: Glass Scratch Removal Kit
   Availability: Available
