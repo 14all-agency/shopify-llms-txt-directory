@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-10-16T20:00:47.112Z
+- Updated At: 2025-10-17T04:00:46.736Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -2994,7 +2994,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £110.00 GBP
 - [Personalised Jewellery Engraving Service](https://www.lilyblanche.com/products/engrave-my-item-1): Add a personal touch with Lily Blanche’s expert jewellery engraving service. Choose from diamond or laser engraving and three elegant font styles to create jewellery that is uniquely yours.
-  Updated: 2025-10-16T13:47:24Z
+  Updated: 2025-10-17T01:44:18Z
   Vendor: Lily Blanche
   Product Type: 
   Availability: Available
@@ -8978,7 +8978,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £165.00 GBP
 - [Blue Topaz Drop Hoop Earrings | Rose Gold | December | Lily Blanche](https://www.lilyblanche.com/products/blue-topaz-drop-hoop-earrings-rose-gold-december): These gorgeous 18 carat rose gold vermeil hoop earrings feature a real blue topaz gemstone at their centre, making them the perfect personalised gift for a December birthday
-  Updated: 2025-07-12T09:09:57Z
+  Updated: 2025-10-17T02:01:40Z
   Vendor: Lily Blanche
   Product Type: Birthstone
   Availability: Available
@@ -16554,7 +16554,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £235.00 GBP
 - [Men's Hexagon Locket Necklace | Solid Sterling Silver](https://www.lilyblanche.com/products/mens-hexagon-locket-necklace-silver): Treasure precious memories with this solid silver Men's Hexagon Locket necklace. Personalise  with our complimentary photo service & add engraving. High Quality. Fast delivery. Order online today.
-  Updated: 2025-10-14T11:10:20Z
+  Updated: 2025-10-17T03:11:51Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -16955,7 +16955,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £140.00 GBP
 - [Men's Heavy Sterling Silver Cross Necklace - Premium Craftsmanship](https://www.lilyblanche.com/products/mens-silver-cross-necklace): Men's heavy sterling silver cross necklace. Handcrafted heirloom quality, 44mm pendant with choice of chains. UK made. Free delivery, gift wrap & care kit. £145
-  Updated: 2025-10-16T15:31:58Z
+  Updated: 2025-10-16T23:42:20Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -17757,7 +17757,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Price: £390.00 GBP
 - [Handcrafted 9ct Gold Personalised Initial Necklace](https://www.lilyblanche.com/products/personalised-initial-necklace-solid-gold-a-to-z): The bestselling Solid Gold Initial Letter Necklace, handcrafted in 9ct gold. Personalise with any letter A-Z. Free UK delivery, gift wrap & care kit. Rated 4.9/5. 
 From £119
-  Updated: 2025-10-16T14:08:51Z
+  Updated: 2025-10-17T02:08:09Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -20293,7 +20293,7 @@ From £119
     Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/files/gold_hexagon_st_christopher_necklace_curb_square.webp?v=1741872849
     Price: £730.00 GBP
 - [St Christopher Necklace Solid White Gold + Engraving](https://www.lilyblanche.com/products/large-st-christopher-necklace-white-gold-engraving): Give a meaningful gift with our timeless & stylish St Christopher Necklace in solid white gold.  Personalise with free engraving. Free shipping & care kit today
-  Updated: 2025-10-11T17:01:04Z
+  Updated: 2025-10-16T21:44:51Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -22814,7 +22814,7 @@ From £190.
     Availability: Available
     Price: £240.00 GBP
 - [Men's Heavy Gold Cross Necklace – Strong, Stylish & Durable](https://www.lilyblanche.com/products/mens-heavy-gold-cross-necklace): Expertly crafted men's heavy cross necklace in 18-carat gold vermeil. High-quality, precision design, & lasting durability. A bold & timeless statement piece.
-  Updated: 2025-10-16T19:02:30Z
+  Updated: 2025-10-16T23:57:21Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -22850,7 +22850,7 @@ From £190.
     Availability: Available
     Price: £260.00 GBP
 - [Heavy Gold Cross Necklace – Strong, Stylish & Durable](https://www.lilyblanche.com/products/heavy-gold-cross-necklace): Expertly crafted heavy cross necklace in 18-carat gold vermeil. High-quality, precision design, & lasting durability. A bold & timeless statement piece.
-  Updated: 2025-10-16T15:24:58Z
+  Updated: 2025-10-17T00:04:21Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -22886,7 +22886,7 @@ From £190.
     Availability: Available
     Price: £260.00 GBP
 - [Heavy Silver Cross Necklace | High Quality](https://www.lilyblanche.com/products/heavy-silver-cross-necklace): Elevate your style with this bold, heavyweight sterling silver cross necklace—a timeless yet on-trend accessory. Includes a free £20 Jewellery Care Kit!
-  Updated: 2025-10-16T15:09:57Z
+  Updated: 2025-10-16T23:49:21Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -24804,8 +24804,8 @@ From £129
   Updated: 2025-03-26T11:37:00Z
 - [Personalisation - Engraving and photo service for jewellery](https://www.lilyblanche.com/pages/personalisation): Make it personal with our in-house specialist photo & engraving team Have you ever wondered how to resize your photos for a locket? Lockets come in...
   Updated: 2025-10-15T12:23:09Z
-- [Our Jewellery Materials & Craftsmanship | Silver & Gold.  What Is Vermeil?](https://www.lilyblanche.com/pages/our-materials): OUR MATERIALS & CRAFTSMANSHIP THE PRICE OF GOLD The gold price has reached multiple record highs in 2025, most recently peaking on October 15 2025,...
-  Updated: 2025-10-15T19:58:42Z
+- [Our Jewellery Materials & Craftsmanship | Silver & Gold.  What Is Vermeil?](https://www.lilyblanche.com/pages/our-materials): OUR MATERIALS & CRAFTSMANSHIP THE PRICE OF GOLD The gold price has reached multiple record highs in 2025, most recently peaking on October 16 2025,...
+  Updated: 2025-10-16T23:36:02Z
 - [Discover The Lily Blanche  Hallmark - Mark Of Quality](https://www.lilyblanche.com/pages/our-hallmark): What Is Hallmarking? Hallmarking in Britain dates back to 1300 and the reign of Edward I. A hallmark is a set of component marks or icons which is ...
   Updated: 2025-04-03T12:52:34Z
 - [What Is A Locket Necklace? Everything you need to know about Lockets](https://www.lilyblanche.com/pages/what-is-a-locket-necklace): Everything You Need To Know About Lockets. You may be wondering what is a locket necklace? A locket necklace is a pendant or charm which opens up t...
