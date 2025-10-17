@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-10-17T08:00:41.757Z
+- Updated At: 2025-10-17T12:00:42.554Z
 
 ## Products
 
@@ -5406,7 +5406,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/industrial-spray-trigger-black-28400-neck-chemical-resistant-industrial-bottles-triggers-essential-supplies-119269.jpg?v=1719445542
   Price: $6.00 NZD
 - [Plastic Household Bottle - Clear, 28/410 Neck, 500ml](https://essentialsupplies.co.nz/products/plastic-household-bottle-clear-28-410-neck-500ml-121): Household bottles are ideal for use at home or the office. These bottles come empty, unlabelled with variety of closures available to suit a range of cleaning chemicals and it’s trigger spray or lotion pumps allow for quick and easy application.
-  Updated: 2025-02-13T21:47:40Z
+  Updated: 2025-10-17T09:26:25Z
   Vendor: Mattews Packaging
   Product Type: Household Bottles & Triggers
   Availability: Available
