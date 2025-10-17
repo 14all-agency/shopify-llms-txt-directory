@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-01-24T04:49:01Z
 - Contact Email: info@ibizjewel.com
-- Updated At: 2025-10-17T08:00:47.832Z
+- Updated At: 2025-10-17T12:00:48.710Z
 
 ## Products
 
@@ -23658,7 +23658,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/SPBA-21_1.jpg?v=1710915212
     Price: $1,174.00 USD
 - [Natural Salt and Paper 0.15CT Round Diamond Art Deco Vintage Band](https://ibizjewel.com/products/natural-salt-and-paper-0-15ct-round-diamond-art-deco-vintage-band): This Band Features A Stunning 0.15ct Round Diamond With A Unique Vintage Art Deco Design. Made With Natural Salt And Pepper Diamonds, This Band Exudes Timeless Elegance And Sophistication. Perfect For Those Looking For A One-of-a-kind Addition To Their Jewelry Collection.
-  Updated: 2025-10-02T10:30:59Z
+  Updated: 2025-10-17T08:05:33Z
   Vendor: Natural Salt And Pepper Diamond Women's Bands
   Product Type: Natural Salt And Pepper Round Diamond Band
   Availability: Available
