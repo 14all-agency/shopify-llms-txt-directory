@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-10-16T20:01:10.981Z
+- Updated At: 2025-10-17T00:01:09.214Z
 
 ## Products
 
@@ -5327,7 +5327,7 @@ Provavelmente, a espécie vivente mais próxima é o cachorro-vinagre.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/marvel-legends-black-panther-namour-863799822-marvel-1178694283.jpg?v=1752854043
   Price: 39,99 € EUR
 - [Marvel Legends Series X-Men Marvel`s Darwin](https://brincatoys.pt/products/marvel-legends-series-x-men-marvels-darwin): Fãs, colecionadores e crianças podem desfrutar desta figura Marveel`s Darwin da Marvel com 15 cm, inspirada no personagem da Marvel Comics. Apresenta o traje clássico do personagem, incluindo punhos abertos e fechados alternativos edetalhes e acessórios premium.  Dimensão: 15 x 26,50 x 6 cm.Idade Recomendada: + de 4 anos.
-  Updated: 2025-10-13T06:30:21Z
+  Updated: 2025-10-16T23:57:53Z
   Vendor: Marvel
   Product Type: + 3 anos
   Availability: Available
@@ -5586,7 +5586,7 @@ Provavelmente, a espécie vivente mais próxima é o cachorro-vinagre.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/mini-frozen-com-acessorios-90518818-princesas-disney-1178694359.jpg?v=1752855261
   Price: 13,99 € EUR
 - [Mini Piano Magic Touch: Música para o Seu Bebé](https://brincatoys.pt/products/mini-piano-magic-touch): Descubra a magia da música com o Mini Piano Magic Touch! Este brinquedo leve e colorido é perfeito para os primeiros sons do seu bebé. 🎹
-  Updated: 2025-10-13T06:30:02Z
+  Updated: 2025-10-16T20:30:31Z
   Vendor: Seleção Brincatoys
   Product Type: + 3 meses
   Availability: Available
@@ -7027,7 +7027,7 @@ Quando o cavalo está todo limpo seu tempo para montar e sair e...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/playmobil-crystal-fairy-com-unicornio-70809-657080922-playmobil-1178694828.jpg?v=1752863901
   Price: 17,90 € EUR
 - [Playmobil Duo Pack Doutor e Polícia 70823](https://brincatoys.pt/products/playmobil-duo-pack-doutor-e-policia): Às vezes até a polícia precisa de ajuda. A ansiosa policia caiu e aleijo a cabeça. Felizmente, o médico de emergência está no local para aplicar um curativo. Os DuoPacks da PLAYMOBIL oferecem o dobro da diversão. Duas figuras com acessórios para pequenas e grandes aventuras de jogo.
-  Updated: 2025-10-13T06:28:36Z
+  Updated: 2025-10-16T22:07:42Z
   Vendor: Playmobil
   Product Type: + 4 anos
   Availability: Available
@@ -7702,56 +7702,42 @@ de aparência engraçada , usa os seus poderosos pés e garras para escavar
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/puzzle-33-pecas-patrulha-pata-860514521-patrulha-pata-1178695079.jpg?v=1752868577
   Price: 9,50 € EUR
 - [Puzzle 3D Batman](https://brincatoys.pt/products/puzzle-3d-batman): Fantástico Puzzle 3D com 54 peças para criar um porta lápis com ilustrações de Batman. Este puzzle usa peças de plástico exclusivas, que se encaixam para construir um modelo robusto e forte. Não é necessária cola. Cada peça do puzzle é impressa com um número no verso, para que possa montá-lo a olho nu ou apenas seguindo os números. Dimensões do puz
-  Updated: 2025-10-13T06:27:56Z
+  Updated: 2025-10-16T20:50:58Z
   Vendor: DC Comics
   Product Type: + 6 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/puzzle-3d-batman-861127522-dc-comics-1178695078.jpg?v=1752868573
   Price: 13,50 € EUR
-- [Puzzle 3D - Porta Lápis Batman | Brincatoys](https://brincatoys.pt/products/puzzle-3d-porta-lapis-batman): Fantástico Puzzle 3D com 57 peças para criar um porta lápis com ilustrações de Batman. Este puzzle usa peças de plástico exclusivas, que se encaixam para construir um modelo robusto e forte. Não é necessária cola. Cada peça do puzzle é impressa com um número no verso, para que possa montá-lo a olho nu ou apenas seguindo os números. Dimensões do puz
-  Updated: 2025-10-13T06:27:56Z
-  Vendor: DC Comics
-  Product Type: + 6 anos
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/puzzle-3d-porta-lapis-batman-brincatoys-231127522-dc-comics-1178695081.jpg?v=1752868583
-  Price: 13,50 € EUR
 - [Puzzle 3D Jurassic World](https://brincatoys.pt/products/puzzle-3d-jurassic-world): Um puzzle 3D redondo do Jurassic World, fácil de montar graças às suas 72 peças numeradas. Basta seguir a ordem dos números e a direcção das setas mostradas na parte de trás das peças do puzzle. Todas as peças se encaixam perfeitamente graças à tecnologia Easyclick. Uma vez montado, o puzzle 3D permanece muito estável, não precisa ser colado e pode
-  Updated: 2025-10-13T06:27:56Z
+  Updated: 2025-10-16T20:49:22Z
   Vendor: Jurassic World
   Product Type: + 6 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/puzzle-3d-jurassic-world-231175722-jurassic-world-1178695084.jpg?v=1752868688
   Price: 16,99 € EUR
 - [Puzzle 3D Ladybug](https://brincatoys.pt/products/puzzle-3d-ladybug): Fantástico Puzzle 3D com 57 peças para criar um porta lápis com ilustrações de Ladybug. Este puzzle usa peças de plástico exclusivas, que se encaixam para construir um modelo robusto e forte. Não é necessária cola. Cada peça do puzzle é impressa com um número no verso, para que possa montá-lo a olho nu ou apenas seguindo os números. Dimensões do pu
-  Updated: 2025-10-13T06:27:55Z
+  Updated: 2025-10-16T20:47:46Z
   Vendor: LadyBug
   Product Type: + 6 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/puzzle-3d-ladybug-861127822-ladybug-1178695086.jpg?v=1752868695
   Price: 13,50 € EUR
 - [Puzzle 3D - Porta Lápis Pokémon | Brincatoys](https://brincatoys.pt/products/puzzle-3d-porta-lapis-pokemon): Fantástico Puzzle 3D com 54 peças para criar um porta lápis com ilustrações de Pokémon.Este puzzle usa peças de plástico exclusivas, que se encaixam para construir um modelo robusto e forte. Não é necessária cola. Cada peça do puzzle é impressa com um número no verso, para que possa montá-lo a olho nu ou apenas seguindo os números. Dimensões do puz
-  Updated: 2025-10-13T06:27:55Z
+  Updated: 2025-10-16T20:46:16Z
   Vendor: Pokémon
   Product Type: + 8 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/puzzle-3d-porta-lapis-pokemon-brincatoys-861125721-pokemon-1178695088.jpg?v=1752868700
   Price: 13,50 € EUR
-- [Puzzle 3D Sneaker Avengers](https://brincatoys.pt/products/puzzle-3d-sneaker-avengers): Emocionante puzzle 3D, em forma de tênis, de 112 peças, com imagens das personagens do mundo do Marvel.As peças deste puzzle 3D são fabricadas com qualidade premium, usa peças de plástico exclusivas, que se encaixam para construir um modelo robusto e resistente. Não é necessária cola! Monte a olho ou usando os números no verso.  Dimensão: 19 x 27,5
-  Updated: 2025-10-13T06:27:54Z
-  Vendor: Marvel
-  Product Type: + 3 anos
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/puzzle-3d-sneaker-avengers-231211322-marvel-1178695090.jpg?v=1752810846
-  Price: 23,50 € EUR
 - [Puzzle 3D Sneaker Avengers](https://brincatoys.pt/products/puzzle-3d-sneaker-avengers-1): Emocionante puzzle 3D, em forma de tênis, de 112 peças, com imagens das personagens do mundo do Marvel. As peças deste puzzle 3D são fabricadas com qualidade premium, usa peças de plástico exclusivas, que se encaixam para construir um modelo robusto e resistente. Não é necessária cola! Monte a olho ou usando os números no verso.  Dimensão: 19 x 27,
-  Updated: 2025-10-13T06:27:54Z
+  Updated: 2025-10-16T20:42:22Z
   Vendor: Marvel
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/puzzle-3d-sneaker-avengers-861211322-marvel-1178695092.webp?v=1752810852
   Price: 23,50 € EUR
 - [Puzzle 3D Sneaker Super Mario](https://brincatoys.pt/products/puzzle-3d-sneaker-super-mario): Emocionante puzzle 3D, em forma de tênis, com 108 peças com imagens das personagens do mundo do Super Mario. Super Mario Fan! Yoshi parece estar a divertir-se muito! O quebra-cabeça também apresenta alguns de seus outros personagens favoritos do Super Mario, incluindo; Mario, Luigi, Princesa Peach e Toad. Este puzzle 3D é fabricado com qualidade pr
-  Updated: 2025-10-13T06:27:54Z
+  Updated: 2025-10-16T20:37:29Z
   Vendor: Super Mario
   Product Type: + 8 anos
   Availability: Available
@@ -17625,7 +17611,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/roca-sensory-girafa-sofia-estimulo-o-desenvolvimento-do-bebe-101051025-3056560105102-girafa-sofia-1178700700.jpg?v=1752960009
   Price: 18,90 € EUR
 - [Telemóvel Musical Girafa Sofia: Cores, Sons e Diversão Educativa](https://brincatoys.pt/products/telemovel-musical-girafa-sofia): Estimule a imaginação e desenvolvimento do seu pequeno com o Telemóvel Musical Girafa Sofia. Sons divertidos, cores vibrantes e elementos educativos.
-  Updated: 2025-10-13T06:17:13Z
+  Updated: 2025-10-16T20:30:32Z
   Vendor: Girafa Sofia
   Product Type: + 3 meses
   Availability: Available
@@ -19004,7 +18990,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/jurassic-world-hammond-collection-triceratops-realista-238494825-0194735284948-jurassic-world-1178701689.jpg?v=1752781084
   Price: 24,90 € EUR
 - [Jurassic World Hammond Collection: Atrociraptor Detalhada](https://brincatoys.pt/products/jurassic-world-hammond-collection-atrociraptor): Sinta a emoção de Jurassic World com a figura Jurassic World Hammond Collection: Atrociraptor. Detalhes impressionantes que vão te surpreender!
-  Updated: 2025-10-16T08:59:36Z
+  Updated: 2025-10-16T20:21:30Z
   Vendor: Jurassic World
   Product Type: + 8 anos
   Availability: Available
@@ -21171,21 +21157,21 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/autocolantes-permanentes-fadas-e-flores-para-criar-921804925-8410782180494-selecao-brincatoys-1197573401.jpg?v=1760471285
   Price: 5,50 € EUR
 - [FurReal Poop-a-Lots King Charles Spaniel: Diversão Garantida](https://brincatoys.pt/products/furreal-poop-a-lots-king-charles-spaniel): Conheça o FurReal Poop-a-Lots King Charles Spaniel! Diversão e educação ao cuidar de um adorável cãozinho. Adquira já o seu!
-  Updated: 2025-10-16T15:03:18Z
+  Updated: 2025-10-16T20:52:12Z
   Vendor: FurReal Friends
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/furreal-poop-a-lots-king-charles-spaniel-diversao-garantida-772815925-0886144281594-furreal-friends-1197946263.jpg?v=1760572087
   Price: 39,90 € EUR
 - [Conjunto de Figuras Disney SuperKitties para Brincar](https://brincatoys.pt/products/conjunto-figuras-disney-superkitties): Traga a magia da Disney para casa com o Conjunto de Figuras Disney SuperKitties! As crianças vão adorar recriar aventuras com estas mini-figuras! 🎉
-  Updated: 2025-10-16T15:01:51Z
+  Updated: 2025-10-16T20:27:49Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/conjunto-de-figuras-disney-superkitties-para-brincar-776700125-0886144670015-brincatoys-1198003283.jpg?v=1760608086
   Price: 27,50 € EUR
 - [Cápsula Surpresa figura SuperKittens para Crianças](https://brincatoys.pt/products/capsula-surpresa-figura-superkittens): Descubra a magia com a Cápsula Surpresa figura SuperKittens! Cada figura misteriosa trará alegria às mãos dos seus pequenos. 🎉
-  Updated: 2025-10-16T15:00:31Z
+  Updated: 2025-10-16T20:31:07Z
   Vendor: Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -21279,7 +21265,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-08-20T23:28:51Z
   Total Products: 1
 - [Puzzle Infantil](https://brincatoys.pt/collections/puzzles-infantis)
-  Updated: 2025-10-13T19:15:56Z
+  Updated: 2025-10-16T20:51:17Z
   Total Products: 101
 - [Puzzle Adulto](https://brincatoys.pt/collections/puzzles-adulto)
   Updated: 2025-10-06T18:30:00Z
@@ -21345,7 +21331,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-16T11:21:15Z
   Total Products: 324
 - [2 - 3 anos](https://brincatoys.pt/collections/2-3-anos)
-  Updated: 2025-10-16T15:01:35Z
+  Updated: 2025-10-16T20:44:07Z
   Total Products: 1567
 - [4 - 5 anos](https://brincatoys.pt/collections/4-5-anos)
   Updated: 2025-10-16T15:02:54Z
@@ -21363,25 +21349,25 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-13T14:58:51Z
   Total Products: 125
 - [Até €15](https://brincatoys.pt/collections/ate-15)
-  Updated: 2025-10-16T14:59:56Z
+  Updated: 2025-10-16T20:51:17Z
   Total Products: 1300
 - [Até €25](https://brincatoys.pt/collections/ate-25)
-  Updated: 2025-10-16T14:59:56Z
+  Updated: 2025-10-16T20:51:17Z
   Total Products: 2406
 - [Até €35](https://brincatoys.pt/collections/ate-35)
-  Updated: 2025-10-16T15:01:35Z
+  Updated: 2025-10-16T20:51:17Z
   Total Products: 2870
 - [Até €50](https://brincatoys.pt/collections/ate-50)
-  Updated: 2025-10-16T15:02:54Z
+  Updated: 2025-10-16T20:51:17Z
   Total Products: 3253
 - [Até €60](https://brincatoys.pt/collections/ate-60)
-  Updated: 2025-10-16T19:26:26Z
+  Updated: 2025-10-16T20:51:17Z
   Total Products: 3388
 - [Até €80](https://brincatoys.pt/collections/ate-80)
-  Updated: 2025-10-16T19:26:26Z
+  Updated: 2025-10-16T20:51:17Z
   Total Products: 3467
 - [Até €100](https://brincatoys.pt/collections/ate-100)
-  Updated: 2025-10-16T19:26:27Z
+  Updated: 2025-10-16T20:51:17Z
   Total Products: 3516
 - [Novidades](https://brincatoys.pt/collections/novidades)
   Updated: 2025-10-16T15:05:50Z
@@ -21426,7 +21412,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-02T12:15:56Z
   Total Products: 19
 - [DC Comics](https://brincatoys.pt/collections/dc-comics)
-  Updated: 2025-09-10T11:30:51Z
+  Updated: 2025-10-16T20:51:17Z
   Total Products: 55
 - [Dragon Ball](https://brincatoys.pt/collections/dragon-ball)
   Updated: 2025-09-18T17:47:17Z
@@ -21447,7 +21433,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-16T11:21:15Z
   Total Products: 36
 - [Marvel](https://brincatoys.pt/collections/marvel)
-  Updated: 2025-10-08T11:21:45Z
+  Updated: 2025-10-16T20:44:07Z
   Total Products: 116
 - [My Little Pony](https://brincatoys.pt/collections/my-little-pony)
   Updated: 2025-10-05T16:51:43Z
@@ -21573,10 +21559,10 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-06T17:09:21Z
   Total Products: 9
 - [Catálogo](https://brincatoys.pt/collections/all)
-  Updated: 2025-10-16T19:26:27Z
+  Updated: 2025-10-16T20:51:17Z
   Total Products: 3549
 - [6 - 7 anos](https://brincatoys.pt/collections/6-7-anos)
-  Updated: 2025-10-15T11:21:15Z
+  Updated: 2025-10-16T20:51:17Z
   Total Products: 285
 - [11 - 14 anos](https://brincatoys.pt/collections/11-14-anos)
   Updated: 2025-10-14T16:29:54Z
@@ -21585,7 +21571,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-15T11:21:15Z
   Total Products: 117
 - [+ 3 anos](https://brincatoys.pt/collections/de-3-anos)
-  Updated: 2025-10-16T15:01:35Z
+  Updated: 2025-10-16T20:44:07Z
   Total Products: 1216
 - [+ 4 anos](https://brincatoys.pt/collections/de-4-anos)
   Updated: 2025-10-16T19:26:27Z
@@ -21594,7 +21580,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-13T14:53:06Z
   Total Products: 139
 - [+ 6 anos](https://brincatoys.pt/collections/6-anos)
-  Updated: 2025-10-15T11:21:15Z
+  Updated: 2025-10-16T20:51:17Z
   Total Products: 188
 - [+ 7 anos](https://brincatoys.pt/collections/7-anos)
   Updated: 2025-10-15T11:21:15Z
@@ -21609,10 +21595,10 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-14T16:29:54Z
   Total Products: 86
 - [Os mais procurados](https://brincatoys.pt/collections/os-mais-populares)
-  Updated: 2025-10-16T19:26:27Z
+  Updated: 2025-10-16T20:51:17Z
   Total Products: 3550
 - [Recém-chegados](https://brincatoys.pt/collections/recem-chegados)
-  Updated: 2025-10-16T19:26:27Z
+  Updated: 2025-10-16T20:51:17Z
   Total Products: 3550
 - [Produtos em destaque](https://brincatoys.pt/collections/produtos-em-destaque)
   Updated: 2025-10-13T12:31:16Z
@@ -21624,7 +21610,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-12T11:21:00Z
   Total Products: 6
 - [OrderlyEmails - Recommended Products](https://brincatoys.pt/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-10-16T15:02:54Z
+  Updated: 2025-10-16T20:51:17Z
   Total Products: 3075
 - [Girafa Sofia](https://brincatoys.pt/collections/girafa-sofia)
   Updated: 2025-10-16T11:21:15Z
@@ -21633,11 +21619,11 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-16T11:21:15Z
   Total Products: 126
 - [Marketplace](https://brincatoys.pt/collections/marketplace)
-  Updated: 2025-10-16T15:02:54Z
+  Updated: 2025-10-16T20:51:17Z
   Total Products: 3075
 - [EzConnector](https://brincatoys.pt/collections/ezconnector)
-  Updated: 2025-10-16T15:04:02Z
-  Total Products: 922
+  Updated: 2025-10-16T20:51:17Z
+  Total Products: 924
 
 ## Blogs
 
