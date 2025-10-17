@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-10-25T08:25:11Z
 - Contact Email: info@worldwidehifi.shop
-- Updated At: 2025-10-17T04:00:34.496Z
+- Updated At: 2025-10-17T16:00:34.673Z
 
 ## ABOUT
 WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage audio gear with insured worldwide shipping—buy here when you want premium brands for less, rare models in stock, real-item photos, highest quality guarantee and expert support.
@@ -294,7 +294,7 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_0ec0ec6a-f95a-4530-a279-34a93d983388.jpg?v=1744908885
   Price: 1.080,00 € EUR
 - [Harmony Design V9 Phono Amplifier gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/harmony-design-v9-phono-amplifier-gebraucht-kaufen): Harmony Design V9 Phono Amplifier gebraucht kaufen ✅ Geprüfte Phonovorstufe mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-09-15T22:27:17Z
+  Updated: 2025-10-17T15:26:57Z
   Vendor: WorldWideHifi
   Product Type: 
   Availability: Available
@@ -1085,7 +1085,7 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_c6cb79fc-a9c7-4cec-bd24-67b60ee3173b.jpg?v=1748017455
   Price: 89,00 € EUR
 - [Audioquest Rocket 33 Lautsprecherkabel gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/audioquest-rocket-33-gebraucht-kaufen): Audioquest Rocket 33 Lautsprecherkabel gebraucht kaufen ✅ Hochwertige Kabel mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-10-17T01:46:18Z
+  Updated: 2025-10-17T09:14:07Z
   Vendor: WorldWideHifi
   Product Type: 
   Availability: Available
