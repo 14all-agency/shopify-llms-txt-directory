@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-09-03T22:17:37Z
 - Contact Email: INFO.REBIRTH1@GMAIL.COM
-- Updated At: 2025-10-16T16:00:30.413Z
+- Updated At: 2025-10-17T04:00:30.639Z
 
 ## Products
 
@@ -117,30 +117,30 @@
     Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/4275928797428768282_2048.jpg?v=1758042592
     Price: $48.08 USD
 - [Trucker Cap with 'Love All Trust Few' Design](https://rebirthshoponline.myshopify.com/products/trucker-cap-with-love-all-trust-few-design-cool-casual-hat-for-friends-outdoor-events-festivals-gift-idea-everyday-wear): Elevate your outdoor style with this vibrant trucker cap, designed for both comfort and flair. The eye-catching colors and bold statements are perfect for making a statement at festivals, picnics, or casual outings. Whether you’re hitting the beach or running errands, this cap adds a fun element to any outfit. Ideal for adults who appreciate unique accessories, it’s also a fantastic gift for holidays like Father's Day, birthdays, or even just as a thoughtful surprise for friends. With a durable design that stands up to wear and tear, this trucker cap truly brings a relaxed, adventurous vibe to your daily life.Product features- Adjustable strap closure fits head sizes from 20" to 24".- Professionally printed with vibrant colors that resist fading.- Color-matched features for a cohesive look.- Available in seven stylish color combinations.- Crafted from durable materials for everyday wear.Care instructions- Use warm water and dish soap and clean spots off your hat. It's not necessary to soak the whole item. For hard to clean spots use a soft bristled brush.
-  Updated: 2025-09-17T05:19:33Z
+  Updated: 2025-10-16T18:55:58Z
   Vendor: Printify
   Product Type: Hats
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/7193286931507326800_2048.jpg?v=1758043165
+  Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/7269439467855169534_2048.jpg?v=1760640778
   - [Black / One size](https://rebirthshoponline.myshopify.com/products/trucker-cap-with-love-all-trust-few-design-cool-casual-hat-for-friends-outdoor-events-festivals-gift-idea-everyday-wear?variant=47511292608763)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/7193286931507326800_2048.jpg?v=1758043165
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/7269439467855169534_2048.jpg?v=1760640778
     Price: $19.97 USD
   - [Pink / One size](https://rebirthshoponline.myshopify.com/products/trucker-cap-with-love-all-trust-few-design-cool-casual-hat-for-friends-outdoor-events-festivals-gift-idea-everyday-wear?variant=47511292641531)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/7376197231037639309_2048.jpg?v=1758043168
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/17643632513467764187_2048.jpg?v=1760640815
     Price: $19.97 USD
   - [Dark Green / One size](https://rebirthshoponline.myshopify.com/products/trucker-cap-with-love-all-trust-few-design-cool-casual-hat-for-friends-outdoor-events-festivals-gift-idea-everyday-wear?variant=47511292674299)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/9961587565922708322_2048.jpg?v=1758043166
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/11752129561305364443_2048.jpg?v=1760640786
     Price: $19.97 USD
   - [Dark Navy / One size](https://rebirthshoponline.myshopify.com/products/trucker-cap-with-love-all-trust-few-design-cool-casual-hat-for-friends-outdoor-events-festivals-gift-idea-everyday-wear?variant=47511292707067)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/9754575563027305845_2048.jpg?v=1758043167
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/15688660121027729150_2048.jpg?v=1760640806
     Price: $19.97 USD
   - [Royal / One size](https://rebirthshoponline.myshopify.com/products/trucker-cap-with-love-all-trust-few-design-cool-casual-hat-for-friends-outdoor-events-festivals-gift-idea-everyday-wear?variant=47511292739835)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/13823842410986846928_2048.jpg?v=1758043166
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/13413114558149735166_2048.jpg?v=1760640796
     Price: $19.97 USD
 - [Men's Three-Panel Fleece Love All Trust Few Hoodie](https://rebirthshoponline.myshopify.com/products/cozy-three-panel-fleece-hoodie-for-comfort-lovers-soft-casual-wear-layering-essential-perfect-for-fall-and-winter): XS S M L XL 2XL 3XL Width, in 18.00 20.00 22.00 24.00 26.00 28.00 30.00 Length, in 26.00 27.00 28.00 29.00 30.00 31.00 32.00 Sleeve length, in 23.50 24.00 24.50 25.00 25.50 26.00 26.50 Size tolerance, in 1.00 1.00 1.00 1.00 1.00 1.00 1.00 Embrace comfort and style with this cozy fleece hoodie, perfect for those chilly days. Ideal for lounging at home, heading out for a casual outing, or adventuring in nature, this hoodie offers a laid-back vibe that anyone can enjoy. Its soft fabric gently hugs your body, making it a go-to piece for snuggling up by the fire or layering up while running errands. Perfect for teenagers, young adults, and anyone who appreciates cozy fashion, this hoodie makes a thoughtful gift for holidays like Christmas, birthdays, or any casual celebration that calls for warmth and comfort.Product features- Adjustable hood with drawstrings for a personalized fit- Kangaroo pocket to keep hands warm and cozy- Soft, luxurious fabric composed of ring-spun cotton and recycled polyester- Medium-heavy fabric for durability without sacrificing comfort- Regular fit that runs true to size, ensuring a flattering look for all body typesCare instructions- Machine wash: cold (max 30C or 90F)- Do not bleach- Tumble dry: low heat- Iron, steam or dry: low heat- Do not dryclean
   Updated: 2025-09-17T05:40:24Z
@@ -2987,229 +2987,213 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/7717594391626700791_2048.jpg?v=1759431059
     Price: $54.99 USD
-- [Women's Just Breathe Hoodie](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie): A heavy blend hoodie. Crafted from a soft blend of 50% cotton and 50% polyester. Features a double-lined hood with matching drawstring. The fabric's air jet yarn offers a softer feel and reduces pilling. Includes a front pouch pocket, and rib knit cuffs and waistband with spandex. Size guide S M L XL 2XL 3XL 4XL 5XL A) Length (cm) 68.6 71.1 73.7 76.2 78.7 81.3 84 86 B) Width (cm) 101.6 111.8 122 132 142.2 152.4 162 172 B) Half Chest (cm) 50.8 55.9 61 66 71.1 76.2 81 86 C) Sleeve Length (cm) 85.1 87.6 90.2 92.7 95.3 97.8 100 103 S M L XL 2XL 3XL 4XL 5XL A) Length (inches) 27 28 29 30 31 32 33.1 33.9 B) Width (inches) 40 44 48 52 56 60 63.8 67.7 B) Half Chest (inches) 20 22 24 26 28 30 31.9 33.9 C) Sleeve Length (inches) 33.5 34.5 35.5 36.5 37.5 38.5 39.4 40.6 Care Instructions General The Gildan 18500 hoodie is known for its robust fabric blend, comfort, and versatility, making it a popular choice for bulk orders and custom designs. Wash Machine wash with cold water is recommended to maintain the integrity of the fabric. Dry Tumble dry on medium setting. Store This hoodie is widely available online through various retailers, offering ease of purchase.
-  Updated: 2025-10-11T03:21:58Z
+- [Personalized Engraved Cuff Bracelet](https://rebirthshoponline.myshopify.com/products/personalized-engraved-cuff-bracelet): Elevate your accessory game with this stunning cuff bracelet. Crafted from 316L Surgical Grade Stainless Steel and PVD coated for a touch of elegance, this bracelet offers a blend of durability and style. Perfect for daily wear or special occasions, it embodies a chic yet understated vibe that complements any outfit. Ideal for gift-giving, it’s a thoughtful choice for loved ones celebrating birthdays, anniversaries, or just because. Whether worn alone or stacked with other accessories, this bracelet adds a touch of sophistication to any look. A must-have for fashion enthusiasts and a perfect accessory for those who appreciate personal items that are both beautiful and meaningful.Product features- Bracelet engraving for a personal touch.- Made from hypoallergenic material to prevent allergic reactions.- Durable construction ensures longevity.- Designed for adults, appealing to a mature audience.- Sourced from China using high-quality materials.Care instructions- Wipe the dust or any dirt off gently with a clean. dry cloth.
+  Updated: 2025-10-16T18:21:12Z
+  Vendor: Printify
+  Product Type: Accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/13951482216868722619_2048.jpg?v=1760638812
+  - [One Size / 18K Gold PVD coating](https://rebirthshoponline.myshopify.com/products/personalized-engraved-cuff-bracelet?variant=47608739528955)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/14885419619270774478_2048.jpg?v=1760638816
+    Price: $27.55 USD
+  - [One Size / 18K Rose Gold PVD coating](https://rebirthshoponline.myshopify.com/products/personalized-engraved-cuff-bracelet?variant=47608739561723)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/13951482216868722619_2048.jpg?v=1760638812
+    Price: $27.55 USD
+- [Engraved 'Follow Your Heart' Heart Cutout Necklace](https://rebirthshoponline.myshopify.com/products/engraved-follow-your-heart-heart-cutout-necklace): This elegant Heart Cutout Necklace is the perfect way to express love and connection. Crafted from high-quality stainless steel, this necklace boasts a beautiful heart design that radiates warmth and affection. It easily complements both casual and formal attire, making it a versatile addition to any jewelry collection. Whether you’re celebrating an anniversary, birthday, or just because, this necklace adds a personal touch to every occasion. It’s an ideal gift for partners, friends, or family members, making it perfect for Valentine’s Day, Mother’s Day, or any day you want to celebrate love. Wear it yourself or gift it to someone special, and let it become a cherished symbol of your bond.Product features- Hypoallergenic material to minimize allergic reactions.- Durable construction ensures long-lasting wear.- Made from 316L surgical-grade stainless steel for high resistance to fading and tarnishing.- Designed for adults, making it a thoughtful gift for grown-ups.- Available in multiple PVD coating options to suit personal taste.Care instructions
+  Updated: 2025-10-16T18:33:44Z
+  Vendor: Printify
+  Product Type: Accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/13706614773340590176_2048.jpg?v=1760639579
+  - [One Size / 18K Gold PVD coating](https://rebirthshoponline.myshopify.com/products/engraved-follow-your-heart-heart-cutout-necklace?variant=47608755585275)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/4536122418446765401_2048.jpg?v=1760639590
+    Price: $27.55 USD
+  - [One Size / 18K Rose Gold PVD coating](https://rebirthshoponline.myshopify.com/products/engraved-follow-your-heart-heart-cutout-necklace?variant=47608755618043)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/13325084694267994170_2048.jpg?v=1760639585
+    Price: $27.55 USD
+  - [One Size / Stainless Steel (No coating)](https://rebirthshoponline.myshopify.com/products/engraved-follow-your-heart-heart-cutout-necklace?variant=47608755650811)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/13706614773340590176_2048.jpg?v=1760639579
+    Price: $27.55 USD
+- [Mini Circle Necklace - Engraved Spiral Pendant](https://rebirthshoponline.myshopify.com/products/mini-circle-necklace-engraved-spiral-pendant): Adorn yourself with this elegant Mini Circle Necklace, a perfect blend of simplicity and style. Its delicate design emits a gentle, modern vibe, making it ideal for daily wear or special occasions. Whether you're dressing up for a night out, celebrating a milestone, or looking for a thoughtful gift, this necklace fits seamlessly into your life. Engaging for women who appreciate fine jewelry, it resonates especially well during holidays like Mother's Day, birthdays, and anniversaries, serving as a cherished keepsake for those moments. Its hypoallergenic properties ensure it can be worn by anyone without worry, making it a versatile addition to any jewelry collection.Product features- Hypoallergenic material prevents allergic reactions.- Crafted for long-lasting durability and resistance to breakage.- Made from 316L surgical-grade stainless steel.- Designed for adults, ensuring a perfect fit.- Available in stylish PVD coating options.Care instructions- Wipe the dust or any dirt off gently with a clean. dry cloth.
+  Updated: 2025-10-16T18:44:01Z
+  Vendor: Printify
+  Product Type: Accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/6631373754037228162_2048.jpg?v=1760640133
+  - [One Size / 18K Gold PVD coating](https://rebirthshoponline.myshopify.com/products/mini-circle-necklace-engraved-spiral-pendant?variant=47608778916091)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/17991347444040511513_2048.jpg?v=1760640141
+    Price: $29.83 USD
+  - [One Size / 18K Rose Gold PVD coating](https://rebirthshoponline.myshopify.com/products/mini-circle-necklace-engraved-spiral-pendant?variant=47608778948859)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/17581037146448372728_2048.jpg?v=1760640137
+    Price: $29.83 USD
+  - [One Size / Stainless Steel (No coating)](https://rebirthshoponline.myshopify.com/products/mini-circle-necklace-engraved-spiral-pendant?variant=47608778981627)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/6631373754037228162_2048.jpg?v=1760640133
+    Price: $29.83 USD
+- [KING Hat with Leather Patch](https://rebirthshoponline.myshopify.com/products/stylish-dad-hat-with-leather-patch-perfect-gift-for-dads-king-hat-casual-wear-fathers-day-birthday-everyday-use): Introducing this stylish Hat with a leather patch, perfect for adding a touch of laid-back sophistication to your outfit. Crafted from soft, durable chino twill, this unstructured hat combines comfort with a classic vibe. The decorative stitching around the leather patch enhances its handmade appeal, making it a standout piece for any casual occasion. Ideal for dad's, outdoor enthusiasts, or anyone who appreciates quality headwear. Whether you're celebrating Father’s Day, enjoying a summer BBQ, or just going for a stroll, this hat complements any relaxed setting with ease.Product features- Decorative stitching gives a handmade look- Antique brass buckle closure adds vintage charm- Soft, durable chino twill fabric- Unstructured, low-profile design for ultimate comfort- Pre-curved bill for a classic silhouetteCare instructions- Hand wash only.
+  Updated: 2025-10-16T21:40:00Z
+  Vendor: Printify
+  Product Type: Hats
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/737625953471204429_2048.jpg?v=1760650789
+  - [Black / Grey patch / Rectangle / One size](https://rebirthshoponline.myshopify.com/products/stylish-dad-hat-with-leather-patch-perfect-gift-for-dads-king-hat-casual-wear-fathers-day-birthday-everyday-use?variant=47609664274683)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/737625953471204429_2048.jpg?v=1760650789
+    Price: $22.47 USD
+  - [Black / Light Brown / Rectangle / One size](https://rebirthshoponline.myshopify.com/products/stylish-dad-hat-with-leather-patch-perfect-gift-for-dads-king-hat-casual-wear-fathers-day-birthday-everyday-use?variant=47609664307451)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/9389202907899881051_2048.jpg?v=1760650790
+    Price: $22.47 USD
+- [Embroidered Flower Pullover Hoodie](https://rebirthshoponline.myshopify.com/products/embroidered-flower-pullover-hoodie): A heavy blend hoodie. Crafted from a soft blend of 50% cotton and 50% polyester. Features a double-lined hood with matching drawstring. The fabric's air jet yarn offers a softer feel and reduces pilling. Includes a front pouch pocket, and rib knit cuffs and waistband with spandex. Size guide S M L XL 2XL 3XL 4XL 5XL A) Length (cm) 68.6 71.1 73.7 76.2 78.7 81.3 84 86 B) Width (cm) 101.6 111.8 122 132 142.2 152.4 162 172 B) Half Chest (cm) 50.8 55.9 61 66 71.1 76.2 81 86 C) Sleeve Length (cm) 85.1 87.6 90.2 92.7 95.3 97.8 100 103 S M L XL 2XL 3XL 4XL 5XL A) Length (inches) 27 28 29 30 31 32 33.1 33.9 B) Width (inches) 40 44 48 52 56 60 63.8 67.7 B) Half Chest (inches) 20 22 24 26 28 30 31.9 33.9 C) Sleeve Length (inches) 33.5 34.5 35.5 36.5 37.5 38.5 39.4 40.6 Care Instructions General The Gildan 18500 hoodie is known for its robust fabric blend, comfort, and versatility, making it a popular choice for bulk orders and custom designs. Wash Machine wash with cold water is recommended to maintain the integrity of the fabric. Dry Tumble dry on medium setting. Store This hoodie is widely available online through various retailers, offering ease of purchase.
+  Updated: 2025-10-16T23:15:36Z
   Vendor: ReBirth.
   Product Type: Print Material
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/a186445a-9ea4-4f1f-8a22-a2363d8ca29f.webp?v=1760109699
-  - [Light Pink / S](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593606480123)
+  Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/de46e43c-af4a-4eb8-9eea-5a0b9363073a.jpg?v=1760656461
+  - [Light Pink / S](https://rebirthshoponline.myshopify.com/products/embroidered-flower-pullover-hoodie?variant=47610093207803)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/a186445a-9ea4-4f1f-8a22-a2363d8ca29f.webp?v=1760109699
-    Price: $44.14 USD
-  - [Light Pink / M](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593606512891)
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/de46e43c-af4a-4eb8-9eea-5a0b9363073a.jpg?v=1760656461
+    Price: $47.88 USD
+  - [Light Pink / M](https://rebirthshoponline.myshopify.com/products/embroidered-flower-pullover-hoodie?variant=47610093240571)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/a186445a-9ea4-4f1f-8a22-a2363d8ca29f.webp?v=1760109699
-    Price: $44.14 USD
-  - [Light Pink / L](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593606545659)
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/de46e43c-af4a-4eb8-9eea-5a0b9363073a.jpg?v=1760656461
+    Price: $47.88 USD
+  - [Light Pink / L](https://rebirthshoponline.myshopify.com/products/embroidered-flower-pullover-hoodie?variant=47610093273339)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/a186445a-9ea4-4f1f-8a22-a2363d8ca29f.webp?v=1760109699
-    Price: $44.14 USD
-  - [Light Pink / XL](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593606578427)
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/de46e43c-af4a-4eb8-9eea-5a0b9363073a.jpg?v=1760656461
+    Price: $47.88 USD
+  - [Light Pink / XL](https://rebirthshoponline.myshopify.com/products/embroidered-flower-pullover-hoodie?variant=47610093306107)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/a186445a-9ea4-4f1f-8a22-a2363d8ca29f.webp?v=1760109699
-    Price: $44.14 USD
-  - [Light Pink / 2XL](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593606611195)
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/de46e43c-af4a-4eb8-9eea-5a0b9363073a.jpg?v=1760656461
+    Price: $47.88 USD
+  - [Light Pink / 2XL](https://rebirthshoponline.myshopify.com/products/embroidered-flower-pullover-hoodie?variant=47610093338875)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/a186445a-9ea4-4f1f-8a22-a2363d8ca29f.webp?v=1760109699
-    Price: $48.60 USD
-  - [Light Pink / 3XL](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593606643963)
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/de46e43c-af4a-4eb8-9eea-5a0b9363073a.jpg?v=1760656461
+    Price: $51.79 USD
+  - [Light Pink / 3XL](https://rebirthshoponline.myshopify.com/products/embroidered-flower-pullover-hoodie?variant=47610093371643)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/a186445a-9ea4-4f1f-8a22-a2363d8ca29f.webp?v=1760109699
-    Price: $52.72 USD
-  - [Light Pink / 4XL](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593606676731)
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/de46e43c-af4a-4eb8-9eea-5a0b9363073a.jpg?v=1760656461
+    Price: $55.41 USD
+  - [Ash / S](https://rebirthshoponline.myshopify.com/products/embroidered-flower-pullover-hoodie?variant=47610093404411)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/a186445a-9ea4-4f1f-8a22-a2363d8ca29f.webp?v=1760109699
-    Price: $56.82 USD
-  - [Light Pink / 5XL](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593606709499)
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/bc334b83-3c40-489b-9744-453246d73836.jpg?v=1760656464
+    Price: $47.40 USD
+  - [Ash / M](https://rebirthshoponline.myshopify.com/products/embroidered-flower-pullover-hoodie?variant=47610093437179)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/a186445a-9ea4-4f1f-8a22-a2363d8ca29f.webp?v=1760109699
-    Price: $60.94 USD
-  - [Sand / S](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593606742267)
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/bc334b83-3c40-489b-9744-453246d73836.jpg?v=1760656464
+    Price: $47.40 USD
+  - [Ash / L](https://rebirthshoponline.myshopify.com/products/embroidered-flower-pullover-hoodie?variant=47610093469947)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/48967ed2-0e3b-49e9-9055-1844fa7222ff.webp?v=1760109700
-    Price: $44.14 USD
-  - [Sand / M](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593606775035)
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/bc334b83-3c40-489b-9744-453246d73836.jpg?v=1760656464
+    Price: $47.40 USD
+  - [Ash / XL](https://rebirthshoponline.myshopify.com/products/embroidered-flower-pullover-hoodie?variant=47610093502715)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/48967ed2-0e3b-49e9-9055-1844fa7222ff.webp?v=1760109700
-    Price: $44.14 USD
-  - [Sand / L](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593606807803)
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/bc334b83-3c40-489b-9744-453246d73836.jpg?v=1760656464
+    Price: $47.40 USD
+  - [Ash / 2XL](https://rebirthshoponline.myshopify.com/products/embroidered-flower-pullover-hoodie?variant=47610093535483)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/48967ed2-0e3b-49e9-9055-1844fa7222ff.webp?v=1760109700
-    Price: $44.14 USD
-  - [Sand / XL](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593606840571)
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/bc334b83-3c40-489b-9744-453246d73836.jpg?v=1760656464
+    Price: $51.28 USD
+  - [Ash / 3XL](https://rebirthshoponline.myshopify.com/products/embroidered-flower-pullover-hoodie?variant=47610093568251)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/48967ed2-0e3b-49e9-9055-1844fa7222ff.webp?v=1760109700
-    Price: $44.14 USD
-  - [Sand / 2XL](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593606873339)
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/bc334b83-3c40-489b-9744-453246d73836.jpg?v=1760656464
+    Price: $54.86 USD
+  - [Light Blue / S](https://rebirthshoponline.myshopify.com/products/embroidered-flower-pullover-hoodie?variant=47610093601019)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/48967ed2-0e3b-49e9-9055-1844fa7222ff.webp?v=1760109700
-    Price: $48.60 USD
-  - [Sand / 3XL](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593606906107)
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/0087ba0b-b2b0-465a-b224-b7105862bb8d.jpg?v=1760656463
+    Price: $47.88 USD
+  - [Light Blue / M](https://rebirthshoponline.myshopify.com/products/embroidered-flower-pullover-hoodie?variant=47610093633787)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/48967ed2-0e3b-49e9-9055-1844fa7222ff.webp?v=1760109700
-    Price: $52.72 USD
-  - [Sand / 4XL](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593606938875)
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/0087ba0b-b2b0-465a-b224-b7105862bb8d.jpg?v=1760656463
+    Price: $47.88 USD
+  - [Light Blue / L](https://rebirthshoponline.myshopify.com/products/embroidered-flower-pullover-hoodie?variant=47610093666555)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/48967ed2-0e3b-49e9-9055-1844fa7222ff.webp?v=1760109700
-    Price: $56.82 USD
-  - [Sand / 5XL](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593606971643)
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/0087ba0b-b2b0-465a-b224-b7105862bb8d.jpg?v=1760656463
+    Price: $47.88 USD
+  - [Light Blue / XL](https://rebirthshoponline.myshopify.com/products/embroidered-flower-pullover-hoodie?variant=47610093699323)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/48967ed2-0e3b-49e9-9055-1844fa7222ff.webp?v=1760109700
-    Price: $60.94 USD
-  - [Light Blue / S](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593607004411)
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/0087ba0b-b2b0-465a-b224-b7105862bb8d.jpg?v=1760656463
+    Price: $47.88 USD
+  - [Light Blue / 2XL](https://rebirthshoponline.myshopify.com/products/embroidered-flower-pullover-hoodie?variant=47610093732091)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/7db0fdf4-63da-4ec8-8d1f-7b3ddded7891.webp?v=1760109706
-    Price: $44.14 USD
-  - [Light Blue / M](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593607037179)
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/0087ba0b-b2b0-465a-b224-b7105862bb8d.jpg?v=1760656463
+    Price: $51.79 USD
+  - [Light Blue / 3XL](https://rebirthshoponline.myshopify.com/products/embroidered-flower-pullover-hoodie?variant=47610093764859)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/7db0fdf4-63da-4ec8-8d1f-7b3ddded7891.webp?v=1760109706
-    Price: $44.14 USD
-  - [Light Blue / L](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593607069947)
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/0087ba0b-b2b0-465a-b224-b7105862bb8d.jpg?v=1760656463
+    Price: $55.41 USD
+  - [Orange / S](https://rebirthshoponline.myshopify.com/products/embroidered-flower-pullover-hoodie?variant=47610093797627)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/7db0fdf4-63da-4ec8-8d1f-7b3ddded7891.webp?v=1760109706
-    Price: $44.14 USD
-  - [Light Blue / XL](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593607102715)
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/2a7328b2-5e84-4b58-8f4e-24278444662b.jpg?v=1760656465
+    Price: $47.40 USD
+  - [Orange / M](https://rebirthshoponline.myshopify.com/products/embroidered-flower-pullover-hoodie?variant=47610093830395)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/7db0fdf4-63da-4ec8-8d1f-7b3ddded7891.webp?v=1760109706
-    Price: $44.14 USD
-  - [Light Blue / 2XL](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593607135483)
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/2a7328b2-5e84-4b58-8f4e-24278444662b.jpg?v=1760656465
+    Price: $47.40 USD
+  - [Orange / L](https://rebirthshoponline.myshopify.com/products/embroidered-flower-pullover-hoodie?variant=47610093863163)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/7db0fdf4-63da-4ec8-8d1f-7b3ddded7891.webp?v=1760109706
-    Price: $48.60 USD
-  - [Light Blue / 3XL](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593607168251)
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/2a7328b2-5e84-4b58-8f4e-24278444662b.jpg?v=1760656465
+    Price: $47.40 USD
+  - [Orange / XL](https://rebirthshoponline.myshopify.com/products/embroidered-flower-pullover-hoodie?variant=47610093895931)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/7db0fdf4-63da-4ec8-8d1f-7b3ddded7891.webp?v=1760109706
-    Price: $52.72 USD
-  - [Light Blue / 4XL](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593607201019)
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/2a7328b2-5e84-4b58-8f4e-24278444662b.jpg?v=1760656465
+    Price: $47.40 USD
+  - [Orange / 2XL](https://rebirthshoponline.myshopify.com/products/embroidered-flower-pullover-hoodie?variant=47610093928699)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/7db0fdf4-63da-4ec8-8d1f-7b3ddded7891.webp?v=1760109706
-    Price: $56.82 USD
-  - [Light Blue / 5XL](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593607233787)
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/2a7328b2-5e84-4b58-8f4e-24278444662b.jpg?v=1760656465
+    Price: $51.28 USD
+  - [Orange / 3XL](https://rebirthshoponline.myshopify.com/products/embroidered-flower-pullover-hoodie?variant=47610093961467)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/7db0fdf4-63da-4ec8-8d1f-7b3ddded7891.webp?v=1760109706
-    Price: $60.94 USD
-  - [Orchid / S](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593607266555)
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/2a7328b2-5e84-4b58-8f4e-24278444662b.jpg?v=1760656465
+    Price: $54.86 USD
+  - [Military Green / S](https://rebirthshoponline.myshopify.com/products/embroidered-flower-pullover-hoodie?variant=47610093994235)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/b9ece0d9-3a77-4847-9278-56812ae75751.webp?v=1760109705
-    Price: $44.14 USD
-  - [Orchid / M](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593607299323)
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/326be680-4da2-44d0-a875-fe5d262fb191.jpg?v=1760656463
+    Price: $47.40 USD
+  - [Military Green / M](https://rebirthshoponline.myshopify.com/products/embroidered-flower-pullover-hoodie?variant=47610094027003)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/b9ece0d9-3a77-4847-9278-56812ae75751.webp?v=1760109705
-    Price: $44.14 USD
-  - [Orchid / L](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593607332091)
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/326be680-4da2-44d0-a875-fe5d262fb191.jpg?v=1760656463
+    Price: $47.40 USD
+  - [Military Green / L](https://rebirthshoponline.myshopify.com/products/embroidered-flower-pullover-hoodie?variant=47610094059771)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/b9ece0d9-3a77-4847-9278-56812ae75751.webp?v=1760109705
-    Price: $44.14 USD
-  - [Orchid / XL](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593607364859)
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/326be680-4da2-44d0-a875-fe5d262fb191.jpg?v=1760656463
+    Price: $47.40 USD
+  - [Military Green / XL](https://rebirthshoponline.myshopify.com/products/embroidered-flower-pullover-hoodie?variant=47610094092539)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/b9ece0d9-3a77-4847-9278-56812ae75751.webp?v=1760109705
-    Price: $44.14 USD
-  - [Orchid / 2XL](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593607397627)
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/326be680-4da2-44d0-a875-fe5d262fb191.jpg?v=1760656463
+    Price: $47.40 USD
+  - [Military Green / 2XL](https://rebirthshoponline.myshopify.com/products/embroidered-flower-pullover-hoodie?variant=47610094125307)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/b9ece0d9-3a77-4847-9278-56812ae75751.webp?v=1760109705
-    Price: $48.60 USD
-  - [Orchid / 3XL](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593607430395)
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/326be680-4da2-44d0-a875-fe5d262fb191.jpg?v=1760656463
+    Price: $51.28 USD
+  - [Military Green / 3XL](https://rebirthshoponline.myshopify.com/products/embroidered-flower-pullover-hoodie?variant=47610094158075)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/b9ece0d9-3a77-4847-9278-56812ae75751.webp?v=1760109705
-    Price: $52.72 USD
-  - [Sport Grey / S](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593607463163)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/9fcd0fba-ffc3-483e-8ef2-57a5510619ea.webp?v=1760109703
-    Price: $38.58 USD
-  - [Sport Grey / M](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593607495931)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/9fcd0fba-ffc3-483e-8ef2-57a5510619ea.webp?v=1760109703
-    Price: $38.58 USD
-  - [Sport Grey / L](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593607528699)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/9fcd0fba-ffc3-483e-8ef2-57a5510619ea.webp?v=1760109703
-    Price: $38.58 USD
-  - [Sport Grey / XL](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593607561467)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/9fcd0fba-ffc3-483e-8ef2-57a5510619ea.webp?v=1760109703
-    Price: $38.58 USD
-  - [Sport Grey / 2XL](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593607594235)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/9fcd0fba-ffc3-483e-8ef2-57a5510619ea.webp?v=1760109703
-    Price: $42.46 USD
-  - [Sport Grey / 3XL](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593607627003)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/9fcd0fba-ffc3-483e-8ef2-57a5510619ea.webp?v=1760109703
-    Price: $46.04 USD
-  - [Sport Grey / 4XL](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593607659771)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/9fcd0fba-ffc3-483e-8ef2-57a5510619ea.webp?v=1760109703
-    Price: $56.82 USD
-  - [Sport Grey / 5XL](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593607692539)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/9fcd0fba-ffc3-483e-8ef2-57a5510619ea.webp?v=1760109703
-    Price: $60.94 USD
-  - [Azalea / S](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593607725307)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/0003cc5a-ae43-40f4-bfbd-3f3abd246cf8.webp?v=1760109701
-    Price: $44.14 USD
-  - [Azalea / M](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593607758075)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/0003cc5a-ae43-40f4-bfbd-3f3abd246cf8.webp?v=1760109701
-    Price: $44.14 USD
-  - [Azalea / L](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593607790843)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/0003cc5a-ae43-40f4-bfbd-3f3abd246cf8.webp?v=1760109701
-    Price: $44.14 USD
-  - [Azalea / XL](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593607823611)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/0003cc5a-ae43-40f4-bfbd-3f3abd246cf8.webp?v=1760109701
-    Price: $44.14 USD
-  - [Azalea / 2XL](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593607856379)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/0003cc5a-ae43-40f4-bfbd-3f3abd246cf8.webp?v=1760109701
-    Price: $48.60 USD
-  - [Azalea / 3XL](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593607889147)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/0003cc5a-ae43-40f4-bfbd-3f3abd246cf8.webp?v=1760109701
-    Price: $52.72 USD
-  - [Military Green / S](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593607921915)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/c246a047-3385-4dab-b3ae-52a1539e92f5.webp?v=1760109709
-    Price: $44.14 USD
-  - [Military Green / M](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593607954683)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/c246a047-3385-4dab-b3ae-52a1539e92f5.webp?v=1760109709
-    Price: $44.14 USD
-  - [Military Green / L](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593607987451)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/c246a047-3385-4dab-b3ae-52a1539e92f5.webp?v=1760109709
-    Price: $44.14 USD
-  - [Military Green / XL](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593608020219)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/c246a047-3385-4dab-b3ae-52a1539e92f5.webp?v=1760109709
-    Price: $44.14 USD
-  - [Military Green / 2XL](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593608052987)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/c246a047-3385-4dab-b3ae-52a1539e92f5.webp?v=1760109709
-    Price: $48.60 USD
-  - [Military Green / 3XL](https://rebirthshoponline.myshopify.com/products/womens-just-breathe-hoodie?variant=47593608085755)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/c246a047-3385-4dab-b3ae-52a1539e92f5.webp?v=1760109709
-    Price: $52.72 USD
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/326be680-4da2-44d0-a875-fe5d262fb191.jpg?v=1760656463
+    Price: $54.86 USD
 
 ## Collections
 
 - [Home page](https://rebirthshoponline.myshopify.com/collections/frontpage)
-  Updated: 2025-10-10T16:37:34Z
-  Total Products: 8
+  Updated: 2025-10-16T23:14:13Z
+  Total Products: 14
 - [Men's Apparel](https://rebirthshoponline.myshopify.com/collections/mens-apparel)
-  Updated: 2025-10-10T16:37:35Z
-  Total Products: 8
+  Updated: 2025-10-16T23:24:48Z
+  Total Products: 9
 - [Accessories](https://rebirthshoponline.myshopify.com/collections/accessories)
-  Updated: 2025-10-09T11:28:49Z
-  Total Products: 6
+  Updated: 2025-10-16T21:39:45Z
+  Total Products: 10
 - [Women's Hoodies](https://rebirthshoponline.myshopify.com/collections/womens-sweatshirt)
-  Updated: 2025-10-10T15:21:30Z
+  Updated: 2025-10-16T23:14:13Z
   Total Products: 4
 - [Hats](https://rebirthshoponline.myshopify.com/collections/hats)
-  Updated: 2025-10-09T11:28:49Z
+  Updated: 2025-10-16T21:44:09Z
   Total Products: 3
 - [Phone Cases](https://rebirthshoponline.myshopify.com/collections/phone-cases)
   Updated: 2025-10-02T17:16:31Z
@@ -3218,17 +3202,20 @@
   Updated: 2025-10-10T16:37:35Z
   Total Products: 5
 - [Men's T-shirts](https://rebirthshoponline.myshopify.com/collections/mens-activewear)
-  Updated: 2025-10-08T13:40:35Z
-  Total Products: 5
+  Updated: 2025-10-16T23:21:52Z
+  Total Products: 4
 - [Holidays](https://rebirthshoponline.myshopify.com/collections/halloween)
   Updated: 2025-10-02T17:16:36Z
   Total Products: 5
 - [Women's Apparel](https://rebirthshoponline.myshopify.com/collections/womens-apparel)
-  Updated: 2025-10-02T18:50:32Z
-  Total Products: 8
+  Updated: 2025-10-16T23:14:14Z
+  Total Products: 9
 - [Women's Sweatshirts](https://rebirthshoponline.myshopify.com/collections/womens-sweatshirt-1)
   Updated: 2025-10-02T18:27:51Z
   Total Products: 5
+- [Jewelry](https://rebirthshoponline.myshopify.com/collections/jewelry)
+  Updated: 2025-10-16T21:49:51Z
+  Total Products: 3
 
 ## Store Pages
 
