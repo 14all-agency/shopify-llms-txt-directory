@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-01-24T04:49:01Z
 - Contact Email: info@ibizjewel.com
-- Updated At: 2025-10-16T20:00:49.025Z
+- Updated At: 2025-10-17T00:00:48.039Z
 
 ## Products
 
@@ -32270,7 +32270,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDE-04_6.jpg?v=1711176949
     Price: $777.00 USD
 - [Moissanite 1.0CT Princess Diamond Stud Earring](https://ibizjewel.com/products/moissanite-1-0ct-princess-diamond-stud-earring): Made From Lab-created Moissanite, These 1.0ct Princess Diamond Stud Earrings Offer Stunning Sparkle And Shine At An Affordable Price. Each Earring Features A Unique Princess Cut And Comes With A Secure Back Closure For Worry-free Wear. Upgrade Your Jewelry Collection With These Beautiful And Budget-friendly Earrings.
-  Updated: 2025-10-02T10:31:05Z
+  Updated: 2025-10-16T22:17:43Z
   Vendor: Moissanite Diamond Earring
   Product Type: Moissanite Princess Diamond Earring
   Availability: Available
