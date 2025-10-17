@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-03-19T17:46:58Z
 - Contact Email: info@patundpatty.de
-- Updated At: 2025-10-17T00:00:33.745Z
+- Updated At: 2025-10-17T12:00:36.745Z
 
 ## Products
 
@@ -2142,7 +2142,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Kuscheltier-Schwein-Geschenkverpackt-Baumwolle-PAT-UND-PATTY.jpg?v=1752049630
     Price: 49,50 € EUR
 - [Bio Spieluhr  Baby Schnee-Eule aus 100 % Bio-Baumwolle  ca. 22 x 28 cS](https://patundpatty.de/products/bio-spieluhr-schnee-eule): Bio-Spieluhr Baby Schnee-Eule von PAT & PATTY: aus 100 % Baumwolle, gefüllt mit Maiswolle, weich, sicher, handgemacht und ideal zum Kuscheln für Neugeborene.
-  Updated: 2025-10-12T08:54:05Z
+  Updated: 2025-10-17T10:46:27Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -2513,7 +2513,7 @@
   Updated: 2025-10-16T11:22:52Z
   Total Products: 21
 - [Bio Wärmekissen für Kinder in Tierform – PAT & PATTY ❤️](https://patundpatty.de/collections/waermekissen): Entdecke handgemachte Bio-Wärmekissen mit Tiermotiven. GOTS-zertifiziert, nachhaltig & handmade bei PAT & PATTY!
-  Updated: 2025-10-12T11:21:36Z
+  Updated: 2025-10-17T11:21:06Z
   Total Products: 19
 - [Bio Lavendelkissen mit natürlichem Duft | PAT & PATTY](https://patundpatty.de/collections/bio-mini-lavendelkissen): Entdecke das bio Lavendelkissen von PAT & PATTY – natürlich, handgefertigt und mit beruhigendem Duft für entspannte Nächte. Nachhaltig & schadstofffrei.
   Updated: 2025-10-16T11:22:52Z
@@ -2528,13 +2528,13 @@
   Updated: 2025-10-11T11:21:24Z
   Total Products: 21
 - [Bio Rasseln & Greiflinge - Natürliche Baumwolle für Babys| Pat & Patty](https://patundpatty.de/collections/rasseln-greiflinge): Weiche Rasseln & Greiflinge aus Bio-Baumwolle – schadstofffrei, handgemacht & ideal für kleine Hände. Jetzt entdecken und bestellen bei PAT & PATTY!
-  Updated: 2025-10-16T11:22:52Z
+  Updated: 2025-10-17T11:21:06Z
   Total Products: 15
 - [Bio Mini Rasseln & Greiflinge – Sicher & Nachhaltig | PAT & PATTY](https://patundpatty.de/collections/mini-bio-rasseln-und-greiflinge): Entdecke bio Mini Rasseln & Greiflinge von PAT & PATTY – nachhaltig, schadstofffrei und besonders sanft zur Babyhaut. Perfekt für gesunde Entwicklung und Spaß!
   Updated: 2025-09-26T11:21:52Z
   Total Products: 7
 - [Bio Füllmaterialien für DIY – nachhaltig & zertifiziert | PAT&PATTY](https://patundpatty.de/collections/bio-nachhaltige-fuellmaterial): Bio-Füllmaterialien für Kissen & Babyspielzeug: GOTS-zertifiziert, plastikfrei & hautfreundlich – ideal für Hersteller nachhaltiger DIY-Produkte | PAT&PATTY
-  Updated: 2025-10-16T11:22:52Z
+  Updated: 2025-10-17T11:21:06Z
   Total Products: 5
 - [Bio Kuscheltiere fürs Baby – fair & schadstofffrei | PAT & PATTY](https://patundpatty.de/collections/kuscheltiere): Hautfreundliche Bio-Kuscheltiere für Babys – aus GOTS-zertifizierter Bio-Baumwolle, fair produziert & mit Liebe designt von PAT & PATTY. Jetzt bestellen!
   Updated: 2025-10-16T11:22:52Z
@@ -2873,6 +2873,13 @@
     Updated: 2025-10-16T04:32:04Z
     Author: Sharon
     Tags: erklärung gefüllte kissen
+  - [Was ist Tierwohl in der Spielzeugherstellung?](https://patundpatty.de/blogs/news/tierwohl-spielzeugherstellung-deutschland-guide): Tierwohl in der Spielzeugherstellung: Definition, gesetzliche Vorgaben, nachhaltige Materialien und praktische Verantwortung im umfassenden Überblick.
+    Updated: 2025-10-17T04:21:57Z
+    Author: Sharon
+    Tags: was ist tierwohl in der spielzeugherstellung
+  - [Bio Mini Lavendelkissen Fuchs als nachhaltiges Bio Schnuffeltuch für Dein Baby: 7 Gründe für einen beruhigenden Schlaf.](https://patundpatty.de/blogs/news/bio-mini-lavendelkissen-fuchs-als-nachhaltiges-bio-schnuffeltuch-fur-dein-baby-7-grunde-fur-einen-beruhigenden-schlaf): Bio Mini Lavendelkissen Fuchs als nachhaltiges Bio Schnuffeltuch für Dein Baby: 7 Gründe für einen beruhigenden Schlaf.
+    Updated: 2025-10-17T10:05:20Z
+    Author: Sharon Engel
 
 ## Store Pages
 
