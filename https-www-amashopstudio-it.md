@@ -6,7 +6,7 @@
 - Timezone: Europe/Rome
 - Created At: 2024-04-12T22:59:50Z
 - Contact Email: izzomarianna@hotmail.it
-- Updated At: 2025-10-17T00:00:33.705Z
+- Updated At: 2025-10-17T08:00:30.598Z
 
 ## Products
 
@@ -383,7 +383,7 @@
   Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/034CDF75-6C61-4AB4-A4EF-03BD73E6A561.jpg?v=1738686612
   Price: 6,00 € EUR
 - [Borraccia'' Family'' personalizzabile](https://www.amashopstudio.it/products/borracce): Realizzate in alluminio superleggero. Con doppio tappo a vite , per una perfetta chiusura ermetica. Confezionata in scatola di cartoncino bianca, capienza: 500ML. La borraccia Personalizzabile è un'Idea Regalo originale e simpatica. È adatta per ogni tipo di occasione, che sia per la mamma o per il papà, per un amico o per un compagno di vita, che sia per il nonno o per la nonna non importa, è un regalo unico, ideale e multiuso da fare alle persone che ami.
-  Updated: 2025-09-17T14:59:19Z
+  Updated: 2025-10-17T00:01:28Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
