@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-09-03T22:17:37Z
 - Contact Email: INFO.REBIRTH1@GMAIL.COM
-- Updated At: 2025-10-17T04:00:30.639Z
+- Updated At: 2025-10-17T20:00:31.255Z
 
 ## Products
 
@@ -117,7 +117,7 @@
     Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/4275928797428768282_2048.jpg?v=1758042592
     Price: $48.08 USD
 - [Trucker Cap with 'Love All Trust Few' Design](https://rebirthshoponline.myshopify.com/products/trucker-cap-with-love-all-trust-few-design-cool-casual-hat-for-friends-outdoor-events-festivals-gift-idea-everyday-wear): Elevate your outdoor style with this vibrant trucker cap, designed for both comfort and flair. The eye-catching colors and bold statements are perfect for making a statement at festivals, picnics, or casual outings. Whether you’re hitting the beach or running errands, this cap adds a fun element to any outfit. Ideal for adults who appreciate unique accessories, it’s also a fantastic gift for holidays like Father's Day, birthdays, or even just as a thoughtful surprise for friends. With a durable design that stands up to wear and tear, this trucker cap truly brings a relaxed, adventurous vibe to your daily life.Product features- Adjustable strap closure fits head sizes from 20" to 24".- Professionally printed with vibrant colors that resist fading.- Color-matched features for a cohesive look.- Available in seven stylish color combinations.- Crafted from durable materials for everyday wear.Care instructions- Use warm water and dish soap and clean spots off your hat. It's not necessary to soak the whole item. For hard to clean spots use a soft bristled brush.
-  Updated: 2025-10-16T18:55:58Z
+  Updated: 2025-10-17T06:52:57Z
   Vendor: Printify
   Product Type: Hats
   Availability: Available
@@ -2988,7 +2988,7 @@
     Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/7717594391626700791_2048.jpg?v=1759431059
     Price: $54.99 USD
 - [Personalized Engraved Cuff Bracelet](https://rebirthshoponline.myshopify.com/products/personalized-engraved-cuff-bracelet): Elevate your accessory game with this stunning cuff bracelet. Crafted from 316L Surgical Grade Stainless Steel and PVD coated for a touch of elegance, this bracelet offers a blend of durability and style. Perfect for daily wear or special occasions, it embodies a chic yet understated vibe that complements any outfit. Ideal for gift-giving, it’s a thoughtful choice for loved ones celebrating birthdays, anniversaries, or just because. Whether worn alone or stacked with other accessories, this bracelet adds a touch of sophistication to any look. A must-have for fashion enthusiasts and a perfect accessory for those who appreciate personal items that are both beautiful and meaningful.Product features- Bracelet engraving for a personal touch.- Made from hypoallergenic material to prevent allergic reactions.- Durable construction ensures longevity.- Designed for adults, appealing to a mature audience.- Sourced from China using high-quality materials.Care instructions- Wipe the dust or any dirt off gently with a clean. dry cloth.
-  Updated: 2025-10-16T18:21:12Z
+  Updated: 2025-10-17T06:20:20Z
   Vendor: Printify
   Product Type: Accessories
   Availability: Available
@@ -3002,7 +3002,7 @@
     Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/13951482216868722619_2048.jpg?v=1760638812
     Price: $27.55 USD
 - [Engraved 'Follow Your Heart' Heart Cutout Necklace](https://rebirthshoponline.myshopify.com/products/engraved-follow-your-heart-heart-cutout-necklace): This elegant Heart Cutout Necklace is the perfect way to express love and connection. Crafted from high-quality stainless steel, this necklace boasts a beautiful heart design that radiates warmth and affection. It easily complements both casual and formal attire, making it a versatile addition to any jewelry collection. Whether you’re celebrating an anniversary, birthday, or just because, this necklace adds a personal touch to every occasion. It’s an ideal gift for partners, friends, or family members, making it perfect for Valentine’s Day, Mother’s Day, or any day you want to celebrate love. Wear it yourself or gift it to someone special, and let it become a cherished symbol of your bond.Product features- Hypoallergenic material to minimize allergic reactions.- Durable construction ensures long-lasting wear.- Made from 316L surgical-grade stainless steel for high resistance to fading and tarnishing.- Designed for adults, making it a thoughtful gift for grown-ups.- Available in multiple PVD coating options to suit personal taste.Care instructions
-  Updated: 2025-10-16T18:33:44Z
+  Updated: 2025-10-17T06:33:06Z
   Vendor: Printify
   Product Type: Accessories
   Availability: Available
@@ -3020,7 +3020,7 @@
     Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/13706614773340590176_2048.jpg?v=1760639579
     Price: $27.55 USD
 - [Mini Circle Necklace - Engraved Spiral Pendant](https://rebirthshoponline.myshopify.com/products/mini-circle-necklace-engraved-spiral-pendant): Adorn yourself with this elegant Mini Circle Necklace, a perfect blend of simplicity and style. Its delicate design emits a gentle, modern vibe, making it ideal for daily wear or special occasions. Whether you're dressing up for a night out, celebrating a milestone, or looking for a thoughtful gift, this necklace fits seamlessly into your life. Engaging for women who appreciate fine jewelry, it resonates especially well during holidays like Mother's Day, birthdays, and anniversaries, serving as a cherished keepsake for those moments. Its hypoallergenic properties ensure it can be worn by anyone without worry, making it a versatile addition to any jewelry collection.Product features- Hypoallergenic material prevents allergic reactions.- Crafted for long-lasting durability and resistance to breakage.- Made from 316L surgical-grade stainless steel.- Designed for adults, ensuring a perfect fit.- Available in stylish PVD coating options.Care instructions- Wipe the dust or any dirt off gently with a clean. dry cloth.
-  Updated: 2025-10-16T18:44:01Z
+  Updated: 2025-10-17T06:42:20Z
   Vendor: Printify
   Product Type: Accessories
   Availability: Available
@@ -3038,7 +3038,7 @@
     Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/6631373754037228162_2048.jpg?v=1760640133
     Price: $29.83 USD
 - [KING Hat with Leather Patch](https://rebirthshoponline.myshopify.com/products/stylish-dad-hat-with-leather-patch-perfect-gift-for-dads-king-hat-casual-wear-fathers-day-birthday-everyday-use): Introducing this stylish Hat with a leather patch, perfect for adding a touch of laid-back sophistication to your outfit. Crafted from soft, durable chino twill, this unstructured hat combines comfort with a classic vibe. The decorative stitching around the leather patch enhances its handmade appeal, making it a standout piece for any casual occasion. Ideal for dad's, outdoor enthusiasts, or anyone who appreciates quality headwear. Whether you're celebrating Father’s Day, enjoying a summer BBQ, or just going for a stroll, this hat complements any relaxed setting with ease.Product features- Decorative stitching gives a handmade look- Antique brass buckle closure adds vintage charm- Soft, durable chino twill fabric- Unstructured, low-profile design for ultimate comfort- Pre-curved bill for a classic silhouetteCare instructions- Hand wash only.
-  Updated: 2025-10-16T21:40:00Z
+  Updated: 2025-10-17T09:34:06Z
   Vendor: Printify
   Product Type: Hats
   Availability: Available
@@ -3052,7 +3052,7 @@
     Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/9389202907899881051_2048.jpg?v=1760650790
     Price: $22.47 USD
 - [Embroidered Flower Pullover Hoodie](https://rebirthshoponline.myshopify.com/products/embroidered-flower-pullover-hoodie): A heavy blend hoodie. Crafted from a soft blend of 50% cotton and 50% polyester. Features a double-lined hood with matching drawstring. The fabric's air jet yarn offers a softer feel and reduces pilling. Includes a front pouch pocket, and rib knit cuffs and waistband with spandex. Size guide S M L XL 2XL 3XL 4XL 5XL A) Length (cm) 68.6 71.1 73.7 76.2 78.7 81.3 84 86 B) Width (cm) 101.6 111.8 122 132 142.2 152.4 162 172 B) Half Chest (cm) 50.8 55.9 61 66 71.1 76.2 81 86 C) Sleeve Length (cm) 85.1 87.6 90.2 92.7 95.3 97.8 100 103 S M L XL 2XL 3XL 4XL 5XL A) Length (inches) 27 28 29 30 31 32 33.1 33.9 B) Width (inches) 40 44 48 52 56 60 63.8 67.7 B) Half Chest (inches) 20 22 24 26 28 30 31.9 33.9 C) Sleeve Length (inches) 33.5 34.5 35.5 36.5 37.5 38.5 39.4 40.6 Care Instructions General The Gildan 18500 hoodie is known for its robust fabric blend, comfort, and versatility, making it a popular choice for bulk orders and custom designs. Wash Machine wash with cold water is recommended to maintain the integrity of the fabric. Dry Tumble dry on medium setting. Store This hoodie is widely available online through various retailers, offering ease of purchase.
-  Updated: 2025-10-16T23:15:36Z
+  Updated: 2025-10-17T11:14:32Z
   Vendor: ReBirth.
   Product Type: Print Material
   Availability: Available
@@ -3177,6 +3177,180 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/326be680-4da2-44d0-a875-fe5d262fb191.jpg?v=1760656463
     Price: $54.86 USD
+- ['Trust In God' Pullover Hoodie](https://rebirthshoponline.myshopify.com/products/trust-in-god-pullover-hoodie): Experience ultimate comfort and style with our unisex sponge fleece pullover hoodie. The front of the hoodie features a spacious pouch-style pocket that adds both functionality and visual appeal. The hood can be easily adjusted using the white draw cord for a personalized fit. To ensure a secure and snug feel, both the cuffs and waistband are designed with ribbing. Embrace this hoodie's cozy embrace and elevate your casual look with ease. Features: Adjustable hood with white drawstrings, spacious pockets, ribbed-knit cuffs and waistband, side seamed This product is made on demand. No minimums. Size guide S M L XL 2XL 3XL A) Length (cm) 67 69.9 72.7 75.6 78.4 81.3 B) Width (cm) 99 109.2 119.4 129.6 139.8 149.8 B) Half Chest (cm) 49.5 54.6 59.7 64.8 69.9 74.9 C) Sleeve Length (cm) 67.3 69.9 72.4 74.9 76.2 77.5 S M L XL 2XL 3XL A) Length (inches) 26.4 27.5 28.6 29.8 30.9 32 B) Width (inches) 39 43 47 51 55 59 B) Half Chest (inches) 19.5 21.5 23.5 25.5 27.5 29.5 C) Sleeve Length (inches) 26.5 27.5 28.5 29.5 30 30.5 Care instructions Wash Machine wash cold (max 30C or 90F) Bleach Only non-chlorine Tumble Dry Tumble dry: low heat Iron Do not iron Dry clean Do not dry clean
+  Updated: 2025-10-17T15:01:49Z
+  Vendor: ReBirth.
+  Product Type: Print Material
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/a40ccb5a-b800-4653-94e0-ebd16a4b4c90.jpg?v=1760713259
+  - [Athletic Heather / S](https://rebirthshoponline.myshopify.com/products/trust-in-god-pullover-hoodie?variant=47615400313083)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/11935a2e-5f3d-4c4b-86aa-132530ac6278.jpg?v=1760713260
+    Price: $72.76 USD
+  - [Athletic Heather / M](https://rebirthshoponline.myshopify.com/products/trust-in-god-pullover-hoodie?variant=47615400345851)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/11935a2e-5f3d-4c4b-86aa-132530ac6278.jpg?v=1760713260
+    Price: $72.76 USD
+  - [Athletic Heather / L](https://rebirthshoponline.myshopify.com/products/trust-in-god-pullover-hoodie?variant=47615400378619)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/11935a2e-5f3d-4c4b-86aa-132530ac6278.jpg?v=1760713260
+    Price: $72.76 USD
+  - [Athletic Heather / XL](https://rebirthshoponline.myshopify.com/products/trust-in-god-pullover-hoodie?variant=47615400411387)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/11935a2e-5f3d-4c4b-86aa-132530ac6278.jpg?v=1760713260
+    Price: $72.76 USD
+  - [Athletic Heather / 2XL](https://rebirthshoponline.myshopify.com/products/trust-in-god-pullover-hoodie?variant=47615400444155)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/11935a2e-5f3d-4c4b-86aa-132530ac6278.jpg?v=1760713260
+    Price: $77.26 USD
+  - [Athletic Heather / 3XL](https://rebirthshoponline.myshopify.com/products/trust-in-god-pullover-hoodie?variant=47615400476923)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/11935a2e-5f3d-4c4b-86aa-132530ac6278.jpg?v=1760713260
+    Price: $81.41 USD
+  - [Dark Gray Heather / S](https://rebirthshoponline.myshopify.com/products/trust-in-god-pullover-hoodie?variant=47615400509691)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/59c4ed83-7e04-4215-8697-4696cc6a7e51.jpg?v=1760713265
+    Price: $72.76 USD
+  - [Dark Gray Heather / M](https://rebirthshoponline.myshopify.com/products/trust-in-god-pullover-hoodie?variant=47615400542459)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/59c4ed83-7e04-4215-8697-4696cc6a7e51.jpg?v=1760713265
+    Price: $72.76 USD
+  - [Dark Gray Heather / L](https://rebirthshoponline.myshopify.com/products/trust-in-god-pullover-hoodie?variant=47615400575227)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/59c4ed83-7e04-4215-8697-4696cc6a7e51.jpg?v=1760713265
+    Price: $72.76 USD
+  - [Dark Gray Heather / XL](https://rebirthshoponline.myshopify.com/products/trust-in-god-pullover-hoodie?variant=47615400607995)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/59c4ed83-7e04-4215-8697-4696cc6a7e51.jpg?v=1760713265
+    Price: $72.76 USD
+  - [Dark Gray Heather / 2XL](https://rebirthshoponline.myshopify.com/products/trust-in-god-pullover-hoodie?variant=47615400640763)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/59c4ed83-7e04-4215-8697-4696cc6a7e51.jpg?v=1760713265
+    Price: $77.26 USD
+  - [Dark Gray Heather / 3XL](https://rebirthshoponline.myshopify.com/products/trust-in-god-pullover-hoodie?variant=47615400673531)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/59c4ed83-7e04-4215-8697-4696cc6a7e51.jpg?v=1760713265
+    Price: $81.41 USD
+  - [Heather Navy / S](https://rebirthshoponline.myshopify.com/products/trust-in-god-pullover-hoodie?variant=47615400706299)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/c860e609-c471-4674-bfb4-cd023096f07d.jpg?v=1760713262
+    Price: $72.76 USD
+  - [Heather Navy / M](https://rebirthshoponline.myshopify.com/products/trust-in-god-pullover-hoodie?variant=47615400739067)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/c860e609-c471-4674-bfb4-cd023096f07d.jpg?v=1760713262
+    Price: $72.76 USD
+  - [Heather Navy / L](https://rebirthshoponline.myshopify.com/products/trust-in-god-pullover-hoodie?variant=47615400771835)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/c860e609-c471-4674-bfb4-cd023096f07d.jpg?v=1760713262
+    Price: $72.76 USD
+  - [Heather Navy / XL](https://rebirthshoponline.myshopify.com/products/trust-in-god-pullover-hoodie?variant=47615400804603)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/c860e609-c471-4674-bfb4-cd023096f07d.jpg?v=1760713262
+    Price: $72.76 USD
+  - [Heather Navy / 2XL](https://rebirthshoponline.myshopify.com/products/trust-in-god-pullover-hoodie?variant=47615400837371)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/c860e609-c471-4674-bfb4-cd023096f07d.jpg?v=1760713262
+    Price: $77.26 USD
+  - [Heather Navy / 3XL](https://rebirthshoponline.myshopify.com/products/trust-in-god-pullover-hoodie?variant=47615400870139)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/c860e609-c471-4674-bfb4-cd023096f07d.jpg?v=1760713262
+    Price: $81.41 USD
+  - [Heather Forest / S](https://rebirthshoponline.myshopify.com/products/trust-in-god-pullover-hoodie?variant=47615400902907)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/80de8c50-0647-4cf9-b3ad-b2140a085657.jpg?v=1760713264
+    Price: $72.76 USD
+  - [Heather Forest / M](https://rebirthshoponline.myshopify.com/products/trust-in-god-pullover-hoodie?variant=47615400935675)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/80de8c50-0647-4cf9-b3ad-b2140a085657.jpg?v=1760713264
+    Price: $72.76 USD
+  - [Heather Forest / L](https://rebirthshoponline.myshopify.com/products/trust-in-god-pullover-hoodie?variant=47615400968443)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/80de8c50-0647-4cf9-b3ad-b2140a085657.jpg?v=1760713264
+    Price: $72.76 USD
+  - [Heather Forest / XL](https://rebirthshoponline.myshopify.com/products/trust-in-god-pullover-hoodie?variant=47615401001211)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/80de8c50-0647-4cf9-b3ad-b2140a085657.jpg?v=1760713264
+    Price: $72.76 USD
+  - [Heather Forest / 2XL](https://rebirthshoponline.myshopify.com/products/trust-in-god-pullover-hoodie?variant=47615401033979)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/80de8c50-0647-4cf9-b3ad-b2140a085657.jpg?v=1760713264
+    Price: $77.26 USD
+  - [Heather Forest / 3XL](https://rebirthshoponline.myshopify.com/products/trust-in-god-pullover-hoodie?variant=47615401066747)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/80de8c50-0647-4cf9-b3ad-b2140a085657.jpg?v=1760713264
+    Price: $81.41 USD
+  - [Heather True Royal / S](https://rebirthshoponline.myshopify.com/products/trust-in-god-pullover-hoodie?variant=47615401099515)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/a40ccb5a-b800-4653-94e0-ebd16a4b4c90.jpg?v=1760713259
+    Price: $72.76 USD
+  - [Heather True Royal / M](https://rebirthshoponline.myshopify.com/products/trust-in-god-pullover-hoodie?variant=47615401132283)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/a40ccb5a-b800-4653-94e0-ebd16a4b4c90.jpg?v=1760713259
+    Price: $72.76 USD
+  - [Heather True Royal / L](https://rebirthshoponline.myshopify.com/products/trust-in-god-pullover-hoodie?variant=47615401165051)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/a40ccb5a-b800-4653-94e0-ebd16a4b4c90.jpg?v=1760713259
+    Price: $72.76 USD
+  - [Heather True Royal / XL](https://rebirthshoponline.myshopify.com/products/trust-in-god-pullover-hoodie?variant=47615401197819)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/a40ccb5a-b800-4653-94e0-ebd16a4b4c90.jpg?v=1760713259
+    Price: $72.76 USD
+  - [Heather True Royal / 2XL](https://rebirthshoponline.myshopify.com/products/trust-in-god-pullover-hoodie?variant=47615401230587)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/a40ccb5a-b800-4653-94e0-ebd16a4b4c90.jpg?v=1760713259
+    Price: $77.26 USD
+  - [Heather True Royal / 3XL](https://rebirthshoponline.myshopify.com/products/trust-in-god-pullover-hoodie?variant=47615401263355)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/a40ccb5a-b800-4653-94e0-ebd16a4b4c90.jpg?v=1760713259
+    Price: $81.41 USD
+  - [Red / S](https://rebirthshoponline.myshopify.com/products/trust-in-god-pullover-hoodie?variant=47615401296123)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/c6111f12-72d2-4067-b010-4b9b8ee8cb88.jpg?v=1760713263
+    Price: $72.76 USD
+  - [Red / M](https://rebirthshoponline.myshopify.com/products/trust-in-god-pullover-hoodie?variant=47615401328891)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/c6111f12-72d2-4067-b010-4b9b8ee8cb88.jpg?v=1760713263
+    Price: $72.76 USD
+  - [Red / L](https://rebirthshoponline.myshopify.com/products/trust-in-god-pullover-hoodie?variant=47615401361659)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/c6111f12-72d2-4067-b010-4b9b8ee8cb88.jpg?v=1760713263
+    Price: $72.76 USD
+  - [Red / XL](https://rebirthshoponline.myshopify.com/products/trust-in-god-pullover-hoodie?variant=47615401394427)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/c6111f12-72d2-4067-b010-4b9b8ee8cb88.jpg?v=1760713263
+    Price: $72.76 USD
+  - [Red / 2XL](https://rebirthshoponline.myshopify.com/products/trust-in-god-pullover-hoodie?variant=47615401427195)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/c6111f12-72d2-4067-b010-4b9b8ee8cb88.jpg?v=1760713263
+    Price: $77.26 USD
+  - [Red / 3XL](https://rebirthshoponline.myshopify.com/products/trust-in-god-pullover-hoodie?variant=47615401459963)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/c6111f12-72d2-4067-b010-4b9b8ee8cb88.jpg?v=1760713263
+    Price: $81.41 USD
+  - [Navy / S](https://rebirthshoponline.myshopify.com/products/trust-in-god-pullover-hoodie?variant=47615401492731)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/677651c1-f69f-4822-8f37-c2ecd90f43b0.jpg?v=1760713266
+    Price: $72.76 USD
+  - [Navy / M](https://rebirthshoponline.myshopify.com/products/trust-in-god-pullover-hoodie?variant=47615401525499)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/677651c1-f69f-4822-8f37-c2ecd90f43b0.jpg?v=1760713266
+    Price: $72.76 USD
+  - [Navy / L](https://rebirthshoponline.myshopify.com/products/trust-in-god-pullover-hoodie?variant=47615401558267)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/677651c1-f69f-4822-8f37-c2ecd90f43b0.jpg?v=1760713266
+    Price: $72.76 USD
+  - [Navy / XL](https://rebirthshoponline.myshopify.com/products/trust-in-god-pullover-hoodie?variant=47615401591035)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/677651c1-f69f-4822-8f37-c2ecd90f43b0.jpg?v=1760713266
+    Price: $72.76 USD
+  - [Navy / 2XL](https://rebirthshoponline.myshopify.com/products/trust-in-god-pullover-hoodie?variant=47615401623803)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/677651c1-f69f-4822-8f37-c2ecd90f43b0.jpg?v=1760713266
+    Price: $77.26 USD
+  - [Navy / 3XL](https://rebirthshoponline.myshopify.com/products/trust-in-god-pullover-hoodie?variant=47615401656571)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/677651c1-f69f-4822-8f37-c2ecd90f43b0.jpg?v=1760713266
+    Price: $81.41 USD
 
 ## Collections
 
@@ -3184,8 +3358,8 @@
   Updated: 2025-10-16T23:14:13Z
   Total Products: 14
 - [Men's Apparel](https://rebirthshoponline.myshopify.com/collections/mens-apparel)
-  Updated: 2025-10-16T23:24:48Z
-  Total Products: 9
+  Updated: 2025-10-17T15:05:36Z
+  Total Products: 8
 - [Accessories](https://rebirthshoponline.myshopify.com/collections/accessories)
   Updated: 2025-10-16T21:39:45Z
   Total Products: 10
@@ -3199,7 +3373,7 @@
   Updated: 2025-10-02T17:16:31Z
   Total Products: 3
 - [Men's Hoodies](https://rebirthshoponline.myshopify.com/collections/mens-hoodies)
-  Updated: 2025-10-10T16:37:35Z
+  Updated: 2025-10-17T15:04:31Z
   Total Products: 5
 - [Men's T-shirts](https://rebirthshoponline.myshopify.com/collections/mens-activewear)
   Updated: 2025-10-16T23:21:52Z
