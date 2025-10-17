@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-10-17T00:00:41.481Z
+- Updated At: 2025-10-17T04:00:41.851Z
 
 ## Products
 
@@ -1019,7 +1019,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/double-jumbo-roll-dispenser-white-2-roll-capacity-1-dispenser-toilet-tissue-dispensers-essential-supplies-603151.jpg?v=1719444945
   Price: $60.00 NZD
 - [Double Mini Jumbo Roll Dispenser - Black, 2 Roll Capacity - 1 Dispenser](https://essentialsupplies.co.nz/products/double-mini-jumbo-roll-dispenser-black-2-roll-capacity-1): Double mini jumbo toilet tissue dispensers ensure a continuous tissue supply, designed to minimise waste and reduce servicing costs.A sturdy and durable design with lockable cover to prevent tampering. Compatible with all mini jumbo toilet tissue rolls with a double roll capacity. Double mini jumbo toilet tissue dispenser Sturdy and durable design Lockable cover Compatible with all mini jumbo toilet tissue rolls Colour: Black
-  Updated: 2025-01-09T08:03:27Z
+  Updated: 2025-10-17T01:28:19Z
   Vendor: Mattews Packaging
   Product Type: Toilet Tissue Dispensers
   Availability: Available
