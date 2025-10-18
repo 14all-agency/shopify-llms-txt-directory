@@ -10,7 +10,7 @@
 - Contact Email: info@theblissfuldog.com
 - Contact Phone: 855-364-2547
 - Address: 50688 235th ave NW
-- Updated At: 2025-10-18T16:00:43.511Z
+- Updated At: 2025-10-18T20:00:43.230Z
 
 ## Products
 
@@ -11713,7 +11713,7 @@
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/1-FLAT-COAT_CUSTOM-COMBO.jpg?v=1626802466
   Price: $29.95 USD
 - [Whippet Nose Butter® Handcrafted Balm for Your Dog's Rough, Dry Nose](https://theblissfuldog.com/products/whippet-nose-butter): Whippet Nose Butter moisturizes your dog's nose with soothing all natural butters and oils.  In tins or tubes & Unscented or Lightly Scented with Whippet label.
-  Updated: 2025-10-16T15:40:54Z
+  Updated: 2025-10-18T17:16:50Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
