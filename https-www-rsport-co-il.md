@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-10-17T20:01:04.298Z
+- Updated At: 2025-10-18T00:01:04.440Z
 
 ## Products
 
@@ -26822,7 +26822,7 @@
     Availability: Available
     Price: ‏119.00 ‏₪ ILS
 - [גופיית אימון אינטר 24/25 | גברים](https://www.rsport.co.il/products/גופיית-אימון-כחולה-אינטר-24-25-גברים): גופיית האימון של אינטר לעונת 2024/25 בצבע כחול, עשויה 100% פוליאסטר, מציעה עיצוב נוח וקליל המתאים לאימונים אינטנסיביים. עם טכנולוגיית נידוף זיעה מתקדמת, הגופיה שומרת על יובש ונוחות בזמן פעילות ספורטיבית. אידיאלית לאימונים, ריצה ופעילויות ספורטיביות נוספות.
-  Updated: 2025-09-07T22:07:43Z
+  Updated: 2025-10-17T23:41:35Z
   Vendor: R:Sport
   Product Type: גופיית כדורגל
   Availability: Available
