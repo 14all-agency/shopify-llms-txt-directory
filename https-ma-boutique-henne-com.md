@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2018-01-12T21:20:39Z
 - Contact Email: contact@ma-boutique-henne.com
-- Updated At: 2025-10-18T12:00:38.302Z
+- Updated At: 2025-10-18T20:00:38.833Z
 
 ## Products
 
@@ -221,7 +221,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/phitofilos-argile-smectique-terre-a-foulon-100-g-1099486-fr.jpg?v=1570714287
   Price: 8,00 € EUR
 - [Véritable Red Kamala (100% Mallotus Philippensis) - Le Erbe Di Janas](https://ma-boutique-henne.com/products/red-kalama-en-poudre-100gr): Le Red Kalama, Kamala, poudre provient de Mallotus Philippensis, colore les cheveux en rouge, roux, bordeaux, violine, henné, coloration naturelle, Kalama Rouge, le erbe di janas, sidr, ghassoul, cheveux roux, couleur violine, rouge cerise, le erbe di jana, coloration cheveux bordeaux, cuivré, algérie, bio, vegan
-  Updated: 2025-10-13T20:35:20Z
+  Updated: 2025-10-18T18:57:55Z
   Vendor: Ma Boutique Henné
   Product Type: Poudres colorantes
   Availability: Available
@@ -417,7 +417,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/2.png?v=1615548780
   Price: 10,50 € EUR
 - [Poudre de Guimauve - Altea, Phitofilos](https://ma-boutique-henne.com/products/poudre-de-guimauve-100gr): Phitofilos, poudre de guimauve, altea, malva bianca, rosso ardente ciliegia, coloration, rouge cerise, henné naturel, brillance, nourrit, démêle, hydrate, hydratation, douceur, doux, hydrater, chevelure, soin capillaire, cheveux châtain, soin capillaire, bio, vegan, naturelle, plantes, boutique henné, gaine.
-  Updated: 2025-09-27T14:26:52Z
+  Updated: 2025-10-18T18:57:55Z
   Vendor: Ma Boutique Henné
   Product Type: Poudres soins
   Availability: Available
@@ -466,7 +466,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/camomille-matricaire-sachet-50g.jpg?v=1524736429
   Price: 13,50 € EUR
 - [Henné Naturel du Rajasthan, Inde ECOCERT - Henna Red](https://ma-boutique-henne.com/products/henne-naturel-du-rajasthan-inde-100gr): 100% naturel, mayam, elementals, Henné naturel rajasthan Inde ,Centifolia, rajasthan, coloration cheveux roux, rousse, rouge, auburn, bordeaux, brillance, nuance, chevelure, boutique, doux brillants, bio, coloration naturelle, soin capillaire, couverture cheveux blancs, rouge cerise, reflets cuivrés, cheveux, algérie
-  Updated: 2025-10-17T17:03:31Z
+  Updated: 2025-10-18T13:05:45Z
   Vendor: Ma Boutique Henné
   Product Type: Henné
   Availability: Available
@@ -653,7 +653,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/HTB1H6g8OpXXXXXOaXXXq6xXFXXXm.jpg?v=1536174335
   Price: 8,50 € EUR
 - [Coloration Végétale Aubergine Acajou - Viola Mogano (ex-Melanzana), Phitofilos](https://ma-boutique-henne.com/products/coloration-vegetale-aubergine-melanzana-phitofilos): Phitofilos, melanzana, viola mogano, acajou, coloration rouge, violine, violet, aubergine, pourpre, bordeaux, rousse, roux, cuivré, rouge cerise, couvre cheveux blancs et gris, henné naturel, bois santal, garance, hibiscus. brillance cheveux, soin capillaire coloration bio, vegan, naturelle, plantes, boutique henné,
-  Updated: 2025-10-15T20:40:55Z
+  Updated: 2025-10-18T13:33:25Z
   Vendor: Ma Boutique Henné
   Product Type: Poudres colorantes
   Availability: Available
@@ -737,7 +737,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/cald-500x717.jpg?v=1598882776
   Price: 9,50 € EUR
 - [Henné Rouge Violine (Froid) - Le Erbe Di Janas](https://ma-boutique-henne.com/products/henne-rouge-violine-froid-le-erbe-di-janas): Henné Rouge Violine Froid Le Erbe di Janas, henne rosso freddo, coloration rouge cerise, henné violine,  soigne et apaise le cuir chevelu, brillance, volume, couvre cheveux blancs et gris, brillance cheveux châtains , soin capillaire et coloration, naturelle, plantes henné, éclaircir, gaine, nourrit, henné d'algérie
-  Updated: 2025-10-12T18:29:17Z
+  Updated: 2025-10-18T18:57:55Z
   Vendor: Ma Boutique Henné
   Product Type: Henné
   Availability: Available
@@ -1060,7 +1060,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/179-large_default.jpg?v=1548845590
   Price: 6,00 € EUR
 - [Shampoing Bio Clarifiant préparateur à la coloration - Avatara, La Saponaria](https://ma-boutique-henne.com/products/shampoing-clarifiant-preparateur-a-la-coloration-avatara-la-saponaria): Henné blond doré, coloration végétale Devi, la saponaria, Hennetica,  fait maison pour des reflets blonds / dorés dans les cheveux. Mélange naturel de poudres de plantes, éclaircir naturellement, éclaircissement, camomille, rhapontic, rhubarbe, romarin, henné neutre, cuivré, verge d'or, brune, rousse, coloration plante
-  Updated: 2025-10-16T07:27:51Z
+  Updated: 2025-10-18T18:57:55Z
   Vendor: ma boutique henné
   Product Type: Shampoing
   Availability: Available
@@ -1558,7 +1558,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/lpok015332-54775.jpg?v=1588682357
   Price: 3,00 € EUR
 - [Masque Barrière de protection - VIOLET - Normes U.E.](https://ma-boutique-henne.com/products/masque-barriere-de-protection-violet-normes-u-e): visière de protection est disponible en taille universelle. protections, masques, lunettes, visières, protection visage, projections, virus, coronavirus, covid, covid19, lieux public, professions médicales, désinfecter, microbes, sécuriser, environnement, propagation virus, préparation recette, sidr, shikakai, henne
-  Updated: 2025-03-09T15:23:57Z
+  Updated: 2025-10-18T13:49:11Z
   Vendor: Ma Boutique Henné
   Product Type: Protections
   Availability: Available
@@ -1782,7 +1782,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/henne-blond-dore.png?v=1605703923
   Price: 19,50 € EUR
 - [Henné Rouge Renforcé Intense - Exclusivité Ma Boutique Henné](https://ma-boutique-henne.com/products/henne-rouge-renforce): Henné rouge renforcé intense, coloration cheveux rouges, flamboyant, 1,5% sodium picramate (taux réduit pour préserver votre santé) couvre les cheveux blancs, temps de pose réduit et soin des cheveux, auburn, bordeaux
-  Updated: 2025-10-18T11:05:05Z
+  Updated: 2025-10-18T17:11:15Z
   Vendor: Ma Boutique Henné
   Product Type: Henné
   Availability: Available
@@ -2118,7 +2118,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/files/shampoing-creme-cheveux-normaux.jpg?v=1760086169
   Price: 9,90 € EUR
 - [Shampoing Démêlant et Fixateur de Couleur, Grenade Bio - Centifolia](https://ma-boutique-henne.com/products/shampoing-demelant-et-fixateur-de-couleur-grenade-bio-centifolia): shampoing hydratant cheveux normaux secs amande douce aloe vera Centifolia, naturel bio, vegan, centifolia, hydrater cheveux soin capillaire, henne, cosmetique
-  Updated: 2025-10-12T19:11:01Z
+  Updated: 2025-10-18T13:33:25Z
   Vendor: Ma Boutique Henné
   Product Type: Shampoing
   Availability: Available
