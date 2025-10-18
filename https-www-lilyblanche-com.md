@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-10-18T00:00:47.169Z
+- Updated At: 2025-10-18T04:00:48.280Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -15188,7 +15188,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
   Price: £70.00 GBP
 - [Pink Opal 5mm Mini Stud Earrings Rose Gold | October Birthstone Earrings](https://www.lilyblanche.com/products/pink-opal-mini-stud-earrings-rose-gold-october): A pretty pair of real pink opal stud earrings measuring 5mm in an 18ct rose gold vermeil setting. The ideal birthday gift for an October birthday. Free gift wrap & care kit.
 £75
-  Updated: 2025-08-19T10:53:25Z
+  Updated: 2025-10-18T02:21:28Z
   Vendor: Lily Blanche
   Product Type: Birthstone
   Availability: Available
@@ -21513,7 +21513,7 @@ From £119
     Availability: Available
     Price: £600.00 GBP
 - [Solid Silver Cross Necklace | Handcrafted UK](https://www.lilyblanche.com/products/large-silver-cross-necklace): Satisfaction 100% guaranteed with this stunning solid sterling silver cross necklace. An heirloom piece this silver cross necklace is a classic piece that you will wear forever. Order today and receive a free Jewellery Care Kit Worth £20.
-  Updated: 2025-10-17T13:33:18Z
+  Updated: 2025-10-18T01:51:07Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -22610,7 +22610,7 @@ From £190.
     Availability: Available
     Price: £265.00 GBP
 - [Men's XL Dog Tag Necklace Silver + Engraving](https://www.lilyblanche.com/products/mens-xl-dog-tag-necklace-silver): This striking dog tag necklace in sterling silver is a statement piece which will elevate your look and can be engraved with your own message. A wonderful gift for a father, boyfriend, husband or brother. Order today and receive a free jewellery care kit.
-  Updated: 2025-10-17T12:40:43Z
+  Updated: 2025-10-18T00:27:23Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
