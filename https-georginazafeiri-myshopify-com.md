@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2025-08-14T11:11:55Z
 - Contact Email: hello@georginazafeiri.com
-- Updated At: 2025-10-18T18:51:33.382Z
+- Updated At: 2025-10-18T20:00:28.260Z
 
 ## Products
 
@@ -62,7 +62,7 @@
     Availability: Available
     Price: £150.00 GBP
 - [Water Reflections IV](https://georginazafeiri.myshopify.com/products/water-reflections-iv): Water Reflections IV Indian ink on cartridge paper original artwork: 21 x 14.8cm 2024 fine art giclee print on matt, museum etching paper 350gsm, 100% cotton, natural white unframed print size 29.7 x 21cm Frame size fits 30 x 21cm print printed and framed to order
-  Updated: 2025-10-18T06:04:29Z
+  Updated: 2025-10-18T19:51:12Z
   Vendor: Georgina Zafeiri
   Product Type: 
   Availability: Available
