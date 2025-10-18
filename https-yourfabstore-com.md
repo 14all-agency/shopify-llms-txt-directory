@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2023-02-25T23:29:15Z
 - Contact Email: info@yourfabstore.com
-- Updated At: 2025-10-18T12:00:34.383Z
+- Updated At: 2025-10-18T16:00:33.601Z
 
 ## Products
 
@@ -2277,7 +2277,7 @@
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/3121139491902927979_2048.jpg?v=1760725631
     Price: $38.98 USD
 - [Beast Mode Hoodie - for Men](https://yourfabstore.com/products/beast-mode-mens-hoodie): This athletic-inspired hoodie features a motivating 'beast mode' quote, perfect for the gym, workout sessions, and staying focused on your goals. With spacious pockets to keep your hands warm and a drawstring hood for added coziness, this hoodie is designed for adults who are into fitness and want to stay motivated. Ideal for holidays and occasions like New Year's resolutions, fitness goals, and birthdays.Product features- Spacious kangaroo pouch pocket for warmth- Adjustable drawstring hood for comfort- Made with 50% cotton and 50% polyester for strength and smoothness- Ethically made with US-grown cottonCare instructions- Tumble dry: medium- Iron, steam or dry: low heat- Do not dryclean- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed S M L XL 2XL 3XL Width, in 20.08 22.05 24.02 25.98 27.99 29.92 Length, in 27.17 27.95 29.13 29.92 31.10 31.89 Sleeve length from center back, in 33.50 34.50 35.50 36.50 37.50 38.50 Size tolerance, in 1.50 1.50 1.50 1.50 1.50 1.50 EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Gildan 18500, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: For adults, Made in Bangladesh Care instructions: Machine wash: cold (max 30C or 90F), Non-chlorine: bleach as needed, Tumble dry: medium, Iron, steam or dry: low heat, Do not dryclean
-  Updated: 2025-10-18T05:31:19Z
+  Updated: 2025-10-18T14:28:13Z
   Vendor: Printify
   Product Type: Hoodie
   Availability: Available
@@ -3401,7 +3401,7 @@
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/11092987645520074256_2048.jpg?v=1760765315
     Price: $38.98 USD
 - [Women's Hoodie - Strong Barbell With Wings](https://yourfabstore.com/products/barbell-with-wings-womens-hoodie): A women's hoodie featuring a barbell with wings design, exuding strength and confidence. Perfect for a fit and fabulous workout look, adding a touch of sexy flair. Ideal for fitness enthusiasts and those who love stylish activewear. Relevant for gym-goers, athletes, and anyone who wants to show off while working out.Product features- Spacious kangaroo pouch pocket for warmth- Adjustable drawstring hood for customization- Made from 50% cotton and 50% polyester for strength and smoothness- Ethically grown US cotton and OEKO-TEX-certified dyes for sustainabilityCare instructions- Tumble dry: medium- Iron, steam or dry: low heat- Do not dryclean- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed S M L XL 2XL 3XL Width, in 20.08 22.05 24.02 25.98 27.99 29.92 Length, in 27.17 27.95 29.13 29.92 31.10 31.89 Sleeve length from center back, in 33.50 34.50 35.50 36.50 37.50 38.50 Size tolerance, in 1.50 1.50 1.50 1.50 1.50 1.50 EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Gildan 18500, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: For adults, Made in Bangladesh Care instructions: Machine wash: cold (max 30C or 90F), Non-chlorine: bleach as needed, Tumble dry: medium, Iron, steam or dry: low heat, Do not dryclean
-  Updated: 2025-10-18T05:28:33Z
+  Updated: 2025-10-18T14:40:33Z
   Vendor: Printify
   Product Type: Hoodie
   Availability: Available
@@ -6736,7 +6736,7 @@
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/4609068846373390242_2048.jpg?v=1760766717
     Price: $19.00 USD
 - ["Be Bold, Be Brave, Be Humble, Be Kind" Tote Bag](https://yourfabstore.com/products/be-bold-be-brave-tote-bag): This natural cotton canvas tote bag features the inspiring quote 'Be Bold, Be Brave, Be Humble, Be Kind'. It exudes a sense of humility, bravery, and kindness, making it a perfect accessory for those who strive to live by these values. Ideal for everyday use, this tote bag adds a unique and cool touch to any outfit.Product features- Made from 100% natural cotton canvas fabric- Vibrant colors using the latest printing techniques- Generous size of 15" x 16"- Convenient self-fabric handles for easy carryingCare instructions- Machine wash separately: cold (max 30C or 90F), gentle cycle- Tumble dry: low heat- Do not iron directly over the printed area - print may stick to the iron.EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: S&S Bags 42795, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Care instructions: Machine wash separately: cold (max 30C or 90F), gentle cycle, Tumble dry: low heat, Do not iron directly over the printed area - print may stick to the iron.
-  Updated: 2025-10-18T03:25:02Z
+  Updated: 2025-10-18T15:24:44Z
   Vendor: Printify
   Product Type: Bags
   Availability: Available
@@ -6750,7 +6750,7 @@
   Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/1705817934070598763_2048.jpg?v=1760759184
   Price: $9.92 USD
 - ["Love Yourself" Tote Bag](https://yourfabstore.com/products/love-yourself-tote-bag): This inspiring tote bag features a 'Love yourself' quote with a cool and unique roses design, perfect for those who value self-love and positivity. It adds a touch of vibrancy to your everyday life and would make a great gift for special occasions like birthdays, Valentine's Day, or Mother's Day.Product features- 100% natural cotton canvas material for durability- Vibrant colors that match your craziest designs- One size fits all: 15' x 16' with convenient self-fabric handles- 6 oz/yd², 100% natural cotton canvas fabricCare instructions- Machine wash separately: cold (max 30C or 90F), gentle cycle- Tumble dry: low heat- Do not iron directly over the printed area - print may stick to the iron.EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: S&S Bags 42795, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Care instructions: Machine wash separately: cold (max 30C or 90F), gentle cycle, Tumble dry: low heat, Do not iron directly over the printed area - print may stick to the iron.
-  Updated: 2025-10-18T03:48:00Z
+  Updated: 2025-10-18T15:47:41Z
   Vendor: Printify
   Product Type: Bags
   Availability: Available
@@ -8103,7 +8103,7 @@
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/14788689166735898877_2048.jpg?v=1760766455
     Price: $19.00 USD
 - ["Switched Bodies" Straw Hat Friends - One Piece Unisex Tee](https://yourfabstore.com/products/switched-bodies-straw-hat-friends-one-piece-unisex-tee): This limited edition tee features a cool and unique design inspired from One Piece, perfect for anime lovers and otaku. Made from high-quality fabric, this unisex tee is comfortable to wear year-round and is suitable for adults. It is ideal for casual occasions and makes a great gift for friends who share a love for anime.Product features- Shoulder tape for stability- Ribbed knit collar for elasticity- Made from strong and smooth fabric- Ethically grown US cotton- Suitable for adultsCare instructions- Non-chlorine: bleach as needed- Do not iron- Do not dryclean- Machine wash: cold (max 30C or 90F)- Tumble dry: low heat S M L XL 2XL 3XL 4XL 5XL Width, in 18.00 20.00 22.00 24.00 26.00 28.00 30.00 32.00 Length, in 28.00 29.00 30.00 31.00 32.00 33.00 34.00 35.00 Sleeve length (from center back), in 15.10 16.50 18.00 19.50 21.00 22.40 23.70 25.00 Size tolerance, in 1.50 1.50 1.50 1.50 1.50 1.50 1.50 1.50 EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Gildan 5000, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: For adults, Made in Nicaragua Care instructions: Machine wash: cold (max 30C or 90F), Non-chlorine: bleach as needed, Tumble dry: low heat, Do not iron, Do not dryclean
-  Updated: 2025-10-18T05:47:30Z
+  Updated: 2025-10-18T15:20:46Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
