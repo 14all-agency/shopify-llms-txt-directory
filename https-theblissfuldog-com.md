@@ -10,7 +10,7 @@
 - Contact Email: info@theblissfuldog.com
 - Contact Phone: 855-364-2547
 - Address: 50688 235th ave NW
-- Updated At: 2025-10-18T12:00:44.168Z
+- Updated At: 2025-10-18T16:00:43.511Z
 
 ## Products
 
@@ -4564,7 +4564,7 @@
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/1-BORDER-COLLIE-COMBO.jpg?v=1626810397
   Price: $29.95 USD
 - [Boston Terrier Care Kit Keeps Your Boston Looking & Feeling Great](https://theblissfuldog.com/products/boston-terrier-combos): The Blissful Dog Boston Terrier Care Kit for dry noses, rough paws and itchy skin issues. Handcrafted in northern Minnesota using all natural good stuff.
-  Updated: 2025-10-16T15:39:48Z
+  Updated: 2025-10-18T12:39:26Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
@@ -9283,7 +9283,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/AUS_CATTLE_50TUBE_NoseButter_ALL_ingredients_2500_2021.jpg?v=1631565236
     Price: $10.95 USD
 - [If Your Basenji Has Dry Nose Issues Try The Blissful Dog NOSE BUTTER®](https://theblissfuldog.com/products/basenji-nose-butter): If your Basenji has dry nose problems, such as dryness or extreme nasal hyperkeratosis, all natural, handcrafted NOSE BUTTER is the answer to their dry nose.
-  Updated: 2025-10-16T15:40:38Z
+  Updated: 2025-10-18T14:10:24Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
