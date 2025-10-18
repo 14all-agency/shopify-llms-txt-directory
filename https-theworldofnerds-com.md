@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2023-11-06T10:53:38Z
 - Contact Email: theworldofnerdscustomer@gmail.com
-- Updated At: 2025-10-18T08:00:40.302Z
+- Updated At: 2025-10-18T20:00:41.222Z
 
 ## Products
 
@@ -123,7 +123,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/531_1.jpg?v=1723354739
   Price: ₹589.00 INR
 - [VEGETA-ABYSTYLE DRAGON BALL-ACRYL](https://theworldofnerds.com/products/vegeta-abystyle-dragon-ball-acryl): DRAGON BALL Z Acryl® Vegeta Give life to your favorite manga hero! Vegeta reaches his maximum power in his Majin form on this Dragon Ball Z Acryl® by ABYstyle. 3 pieces to set up: character, emblem/logo and base Character height: approximately 11 cm High quality printing on acrylic Pieces to be separated from the printed board
-  Updated: 2025-07-29T05:10:31Z
+  Updated: 2025-10-18T16:09:33Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -466,7 +466,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC03742.jpg?v=1726925924
   Price: ₹399.00 INR
 - [GOJO SATORU BOBBLEHEAD](https://theworldofnerds.com/products/gojo-satoru-bobblehead): Introducing the ultimate blend of fun and functionality: our versatile Bobblehead! Crafted from durable PVC material, this charming figure is designed not only to bring a smile to your face but also to serve multiple practical purposes. Whether you're looking to add a quirky touch to your car dashboard, use it as a handy mobile stand, or showcase it as a unique decorative piece, this Bobblehead has you covered. Its vibrant design makes it a standout collectible for enthusiasts and a delightful showpiece for any space. This whimsical and practical accessory will elevate your decor and keep your mobile device handy.
-  Updated: 2025-09-18T11:05:11Z
+  Updated: 2025-10-18T14:18:15Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -494,7 +494,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC03722.jpg?v=1726927082
   Price: ₹399.00 INR
 - [KAKASHI HATAKE BOBBLEHEAD](https://theworldofnerds.com/products/kakashi-hatake-bobblehead): Introducing the ultimate blend of fun and functionality: our versatile Bobblehead! Crafted from durable PVC material, this charming figure is designed not only to bring a smile to your face but also to serve multiple practical purposes. Whether you're looking to add a quirky touch to your car dashboard, use it as a handy mobile stand, or showcase it as a unique decorative piece, this Bobblehead has you covered. Its vibrant design makes it a standout collectible for enthusiasts and a delightful showpiece for any space. This whimsical and practical accessory will elevate your decor and keep your mobile device handy
-  Updated: 2025-07-29T05:10:44Z
+  Updated: 2025-10-18T14:18:15Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -655,7 +655,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/20241007_203235.jpg?v=1728370776
   Price: ₹199.00 INR
 - [HOT WHEELS MCLAREN P1](https://theworldofnerds.com/products/hot-wheels-mclaren-p1): Unleash the thrill of racing with Hot Wheels cars, the ultimate choice for car enthusiasts and collectors! Each die-cast vehicle is expertly designed with vibrant colors, intricate details, and various styles, from classic muscle cars to futuristic speedsters. With their iconic wheels and impressive designs, Hot Wheels cars are perfect for racing on tracks or displaying in your collection. Whether you’re a young racer or a seasoned collector, Hot Wheels brings the excitement of the open road to life, inspiring imagination and adventure with every turn. Get ready to speed into action with these legendary toys.
-  Updated: 2025-10-10T09:09:06Z
+  Updated: 2025-10-18T16:12:25Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -879,7 +879,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/398.jpg?v=1729515476
   Price: ₹239.00 INR
 - [LUFFY KEYCHAIN](https://theworldofnerds.com/products/luffy-keychain): Add a touch of personality to your keys with our vibrant silicon character keychains! Made from high-quality, durable silicon, these keychains feature various adorable designs that cater to all ages. Our keychains are lightweight, flexible, and available in multiple colors and styles, perfect for everyday use or as a charming gift. Explore our collection to find your favorite character and enjoy the perfect blend of functionality and fun. Whether you want to express your unique style or seek the ideal gift, our silicon keychains are a must-have accessory. Shop now and elevate your key organization game.
-  Updated: 2025-09-14T12:23:02Z
+  Updated: 2025-10-18T16:06:55Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -1278,7 +1278,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/670.jpg?v=1729960165
   Price: ₹379.00 INR
 - [PIKACHU KEYCHAIN](https://theworldofnerds.com/products/pikachu-keychain): Add a touch of personality to your keys with our vibrant character keychains! These keychains are made from high-quality, durable material and feature various adorable designs that cater to all ages. Our keychains are lightweight and available in multiple colors and styles, perfect for everyday use or as a charming gift. Explore our collection to find your favorite character and enjoy the perfect blend of functionality and fun. Whether you want to express your unique style or seek the ideal gift, shop now and elevate your key collection game.
-  Updated: 2025-07-29T05:11:14Z
+  Updated: 2025-10-18T10:43:15Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -1332,13 +1332,6 @@
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/691.jpg?v=1730012734
-  Price: ₹249.00 INR
-- [BABY GROOT KEYCHAIN](https://theworldofnerds.com/products/baby-groot-keychain): Add a touch of personality to your keys with our vibrant character keychains! These keychains are made from high-quality, durable material and feature various adorable designs that cater to all ages. Our keychains are lightweight and available in multiple colors and styles, perfect for everyday use or as a charming gift. Explore our collection to find your favorite character and enjoy the perfect blend of functionality and fun. Whether you want to express your unique style or seek the ideal gift, shop now and elevate your key collection game.
-  Updated: 2025-08-30T04:04:02Z
-  Vendor: The World Of Nerds
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/692.jpg?v=1730012820
   Price: ₹249.00 INR
 - [DOCTOR STRANGE KEYCHAIN](https://theworldofnerds.com/products/doctor-strange-keychain): Add a touch of personality to your keys with our vibrant character keychains! These keychains are made from high-quality, durable material and feature various adorable designs that cater to all ages. Our keychains are lightweight and available in multiple colors and styles, perfect for everyday use or as a charming gift. Explore our collection to find your favorite character and enjoy the perfect blend of functionality and fun. Whether you want to express your unique style or seek the ideal gift, shop now and elevate your key collection game.
   Updated: 2025-07-29T05:11:17Z
@@ -1684,7 +1677,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitled.png?v=1730543815
   Price: ₹369.00 INR
 - [ONE PIECE POCKET WATCH](https://theworldofnerds.com/products/one-piece-pocket-watch): Discover the perfect blend of tradition and style with our exquisite pocket watch. Crafted with precision and attention to detail, this pocket watch features a stunning analog display, intricate craftsmanship, and a polished finish that enhances its classic appeal. Ideal for collectors and enthusiasts, it effortlessly complements any attire, making it a versatile accessory for formal occasions or everyday use. Key Features: Elegant design with a vintage-inspired aesthetic High-quality quartz movement for precision Ideal for gifting or personal use Embrace the charm of classic timekeeping with our pocket watch—where style meets functionality. Shop now and elevate your accessory game.
-  Updated: 2025-09-01T01:14:23Z
+  Updated: 2025-10-18T13:58:41Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -2258,7 +2251,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitled-Photoroom_a10b9261-8fd5-4818-9492-91abcfa5221f.png?v=1731333268
   Price: ₹1,999.00 INR
 - [YORIICHI TSUGIKUNI KATANA](https://theworldofnerds.com/products/yoriichi-t-sugikuni-katana): Unleash the spirit of your favorite anime characters with our meticulously crafted anime katanas. Made from a perfect blend of high-quality wood and durable ABS plastic, these katanas offer an authentic look and feel while ensuring long-lasting performance. Ideal for collectors, cosplayers, and fans alike, each katana features detailed craftsmanship and lightweight construction, making it both visually stunning and easy to handle. Whether you’re adding to your collection or gearing up for your next cosplay, our anime katanas are built to impress with their durability, aesthetic appeal, and high-quality materials. Perfect for display or action-packed cosplay, these katanas bring the legendary katanas from your favorite anime to life.
-  Updated: 2025-10-16T06:01:46Z
+  Updated: 2025-10-18T15:05:40Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -3930,13 +3923,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitleddesign_9_6dad4564-9881-4ada-9602-645b6fc00831.jpg?v=1738747570
   Price: ₹899.00 INR
-- [HOT WHEELS SHELBY COBRA DAYTONA COUPE](https://theworldofnerds.com/products/hot-wheels-shelby-cobra-daytona-coupe): Experience the thrill of speed with the HOT WHEELS SHELBY COBRA DAYTONA COUPE. This intricately detailed model of the iconic car boasts sleek design and high performance. Perfect for collectors and racing enthusiasts. Own a piece of automotive history today.
-  Updated: 2025-10-10T09:33:16Z
-  Vendor: The World Of Nerds
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitleddesign_11.jpg?v=1738747652
-  Price: ₹399.00 INR
 - [HOT WHEELS MCLAREN F1](https://theworldofnerds.com/products/hot-wheels-mclaren-f1): This Hot Wheels McLaren F1 is a precision die-cast replica of the iconic supercar. With realistic design and details, this 1:64 scale model is perfect for collectors and car enthusiasts. Add it to your collection or display it as a showpiece.
   Updated: 2025-10-10T09:30:11Z
   Vendor: The World Of Nerds
@@ -4134,7 +4120,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_e82c14b2-a26a-416b-b5bf-1966fa59210b.jpg?v=1739012132
   Price: ₹2,295.00 INR
 - [BBURAGO SF 23 RED FERRARI FORMULA RACING WITH DRIVER FIGURE CHARLES LECLERC SCALE - 1:24](https://theworldofnerds.com/products/bburago-sf-23-red-ferrari-formula-racing-with-driver-figure-charles-leclerc-scale-1-24): Experience the thrill of the race in your own home with the BBURAGO SF 23 RED FERRARI FORMULA RACING. This 1:24 scale replica features accurate and intricate details, including a driver figure of Charles Leclerc. Add this piece to your collection and feel the speed and sophistication of Ferrari racing.
-  Updated: 2025-08-08T14:54:03Z
+  Updated: 2025-10-18T19:15:56Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -5352,7 +5338,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC8140copy.jpg?v=1740220858
   Price: ₹150.00 INR
 - [BUFFALO](https://theworldofnerds.com/products/buffalo): Introducing BUFFALO, the ultimate toy for your furry friend. Made with high-quality materials, this durable toy is perfect for your dog's playtime. Its unique design and texture provide hours of entertainment and exercise, promoting physical and mental well-being. Give your dog the gift of fun with BUFFALO.
-  Updated: 2025-07-29T05:13:59Z
+  Updated: 2025-10-18T17:45:24Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -5512,13 +5498,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC8700copy.jpg?v=1740490075
   Price: ₹2,299.00 INR
-- [D1-NARUTO SET OF 12 ACTION FIGURE](https://theworldofnerds.com/products/d1-naruto-set-of-12-action-figure): Expertly crafted and designed, the D1-NARUTO set of 12 action figures brings the beloved characters from the anime series to life. Each figure is intricately detailed and poses in iconic stances, making them perfect for display or play. Collect all 12 to complete your NARUTO collection!
-  Updated: 2025-07-29T05:14:04Z
-  Vendor: The World Of Nerds
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitled_design_31.jpg?v=1740571771
-  Price: ₹1,499.00 INR
 - [MY HERO ACADEMIA SET OF 9 ACTION FIGURE](https://theworldofnerds.com/products/my-hero-academia-set-of-9-action-figure): Learn all about your favorite My Hero Academia characters with this set of 9 action figures. Each figure is expertly crafted with scientific detail and comes with a unique ability, just like in the anime. Perfect for collectors and fans alike, these figures will bring the world of My Hero Academia to life in your own home.
   Updated: 2025-09-28T03:37:04Z
   Vendor: The World Of Nerds
@@ -5611,7 +5590,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/IMG_20250227_175751_066_1775107979.jpg?v=1740660594
   Price: ₹2,799.00 INR
 - [HOT WHEELS RWB PORSCHE 930](https://theworldofnerds.com/products/hot-wheels-rwb-porsche-930): Experience the thrill of speed with the HOT WHEELS RWB PORSCHE 930! This sleek and stylish toy car features realistic design and high-quality construction for a truly authentic experience. Perfect for collectors and racing enthusiasts alike, this HOT WHEELS car is sure to provide hours of entertainment.
-  Updated: 2025-07-31T22:31:18Z
+  Updated: 2025-10-18T12:58:26Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -6675,7 +6654,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitleddesign_15_45878a01-2fa5-487b-bedb-755255f5ff01.png?v=1748411410
   Price: ₹899.00 INR
 - [RMZ CITY DODGE CHALLENGER SRT DEMON PULLBACK SCALE - 1:32](https://theworldofnerds.com/products/rmz-city-dodge-challenger-srt-demon-pullback-scale-1-32): This RMZ CITY DODGE CHALLENGER SRT DEMON PULLBACK SCALE - 1:32 is a high-quality and accurate model of the fierce Dodge Challenger SRT Demon. Featuring a smooth pullback mechanism, this 1:32 scale model is both a collectible treasure and a fun, interactive toy for kids and adults alike. Perfect for muscle car enthusiasts and collectors.
-  Updated: 2025-09-15T02:53:02Z
+  Updated: 2025-10-18T15:05:45Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -7508,7 +7487,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/2_f829a1d1-c311-4158-aaf3-477d0f048d65.jpg?v=1751953092
   Price: ₹299.00 INR
 - [Deadpool Chill Mode Figurine](https://theworldofnerds.com/products/deadpool-chill-mode-figurine): Set against a striking red background, this compact Deadpool figure—about 8 cm long and 5 cm tall—reclines in classic “too cool to care” style. One hand casually supports him while the other throws a bold thumbs-up, adding his signature mix of sass and confidence. The moment feels playful yet smug, like he's just wrapped up a wild adventure and decided to take five. It’s equal parts comedy, charisma, and chaos—just like the merc himself. A fun collectible that brings personality to any shelf or workspace.
-  Updated: 2025-08-24T04:53:29Z
+  Updated: 2025-10-18T14:59:35Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -7522,7 +7501,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_6e37f749-2c19-41c2-b3e8-115b447e2056.jpg?v=1751953254
   Price: ₹179.00 INR
 - [Marvel's Chill Deadpool – Laid Back Edition](https://theworldofnerds.com/products/marvels-chill-deadpool-laid-back-edition): Stretching out against a bold red backdrop, this 10 cm Deadpool figurine lounges with attitude, elbow propped and gaze locked, as if waiting to be admired—or to make his next wisecrack. His relaxed yet confident posture tells a story of chaos paused, like the calm after a hilarious storm. There’s humor in the pose, charm in his stillness, and that signature Deadpool vibe that says “I break rules, but I look good doing it.” A fun, quirky addition to any shelf, it radiates laid-back mischief with a dash of superhero swagger.
-  Updated: 2025-10-10T05:11:25Z
+  Updated: 2025-10-18T14:59:35Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -7536,7 +7515,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/2_4b2d7ef3-905b-460b-94a4-6a6919fdfcc8.jpg?v=1751953639
   Price: ₹179.00 INR
 - [Deadpool Lying Pose – Hero on Break](https://theworldofnerds.com/products/deadpool-lying-pose-hero-on-break): Lying flat with his arms folded and chin resting, this approximately 8 cm Deadpool figurine looks oddly peaceful—like a mischievous warrior caught in a quiet moment. Framed by the same deep red as his suit, he stares upward with wide eyes, plotting his next move—or his next joke. It’s a playful yet introspective scene, mixing calmness with a hint of sarcasm, just like the character himself. Whether he's watching the clouds or silently judging the room, this mini collectible brings a quirky stillness that fans of the merc will absolutely love.
-  Updated: 2025-08-28T16:11:01Z
+  Updated: 2025-10-18T14:59:35Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -7718,7 +7697,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/2_8436ea58-c323-49f4-b45a-55dcbe8e07c7.jpg?v=1751966741
   Price: ₹1,499.00 INR
 - [Monkey D. Luffy Gear Fifth Statue – Premium One Piece Display](https://theworldofnerds.com/products/monkey-d-luffy-gear-fifth-statue-premium-one-piece-display): Witness the next level of Luffy’s evolution with this Gear 5 collectible figure, inspired by the legendary One Piece transformation. Designed to reflect his playful power and fearless spirit, this figure features Luffy in a relaxed pose, surrounded by swirling energy and vivid effects. From the wild hair to the expressive sculpt, every detail brings the Gear 5 moment to life. A perfect centerpiece for any anime lover’s collection and a tribute to one of the most unforgettable arcs in One Piece history.
-  Updated: 2025-10-14T19:08:46Z
+  Updated: 2025-10-18T19:29:51Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -7781,7 +7760,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/2_0d1cdb53-bbc8-435d-810f-a0db96dc11d5.jpg?v=1752212899
   Price: ₹375.00 INR
 - [Shinchan with Book Figurine](https://theworldofnerds.com/products/shinchan-with-book-figurine): Shinchan is lost in his favorite comic—and we love to see it! This adorable figurine captures the iconic character in a rare moment of curiosity and calm, wide-eyed with excitement as he reads. Perfect for desks, bookshelves, or as a fun gift for anime fans, this 7cm collectible brings humor and nostalgia to any space. A must-have for Shinchan lovers and collectors of quirky anime merch!
-  Updated: 2025-09-27T07:24:06Z
+  Updated: 2025-10-18T15:05:47Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -8838,7 +8817,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_2dea67fd-940d-4fda-b3f6-b69ce95954cd.jpg?v=1756530398
   Price: ₹2,379.00 INR
 - [Batmobile Diecast Model Car – 1:24 Collector Edition](https://theworldofnerds.com/products/batmobile-diecast-model-car-1-24-collector-edition): Sleek and formidable beneath the bold “BATMAN” sign, this 1:24 scale diecast Batmobile is a tribute to one of pop culture’s most legendary vehicles. The detailed matte-black finish, sweeping fins, and turbine accents bring cinematic excitement and childhood awe to life in the palm of your hand. Every curve and grill revives memories of epic chases through Gotham’s streets and late-night tales of heroism. Displaying this Batmobile, you can’t help but feel the thrill of justice in motion and the nostalgia of imaginative adventures—proof that the enduring spirit of the Dark Knight is alive in every collector’s display.
-  Updated: 2025-08-30T17:34:42Z
+  Updated: 2025-10-18T14:18:15Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -9082,7 +9061,7 @@
   Updated: 2025-10-10T11:58:33Z
   Total Products: 101
 - [KEYCHAINS](https://theworldofnerds.com/collections/keychains): Add a touch of personality to your keys with our vibrant character keychains! These keychains are made from high-quality, durable material and feature various adorable designs that cater to all ages. Our keychains are lightweight and available in multiple colors and styles, perfect for everyday use or as a charming gift. Explore our collection to find your favorite character and enjoy the perfect blend of functionality and fun. Whether you want to express your unique style or seek the ideal gift, shop now and elevate your key collection game.
-  Updated: 2025-10-14T11:12:16Z
+  Updated: 2025-10-18T11:13:36Z
   Total Products: 264
 - [Q Poskets](https://theworldofnerds.com/collections/q-poskets): Bring your favorite characters to life with Q Poskets! These adorable, highly detailed figures capture the charm and personality of iconic anime and manga characters in a unique, stylized form. Known for their cute, wide-eyed expressions and vibrant colors, Q Poskets are perfect for collectors and fans alike. Each figure is carefully crafted with attention to detail, making them a must-have addition to any collection. Whether you're a fan of classic anime or the latest releases, Q Poskets are the perfect way to display your love for your favorite characters!
   Updated: 2025-09-18T11:12:05Z
@@ -9112,13 +9091,13 @@
   Updated: 2025-07-29T05:10:28Z
   Total Products: 27
 - [ALL KATANA](https://theworldofnerds.com/collections/all-katana): A katana toy is like holding a piece of samurai history in your hands! While it's not meant for real combat, these miniature swords are crafted with amazing detail to look just like the real thing. Made from materials like plastic or metal, they usually come with cool features like intricate designs on the hilt and faux blades that shine just like a real katana. Whether you’re into cosplay, love samurai culture, or just think they look awesome, katana toys let you connect with that history and bring a touch of elegance and coolness to your collection or playtime. Perfect for displaying or pretending you’re a legendary warrior!
-  Updated: 2025-10-17T11:13:16Z
+  Updated: 2025-10-18T11:13:36Z
   Total Products: 38
 - [NEON KATANA](https://theworldofnerds.com/collections/neon-katana): Illuminate your collection with our striking Neon Katanas! Combining the traditional elegance of the katana with vibrant, glowing neon colors, these swords are perfect for those who appreciate both art and style. Designed with LED lights that shine brightly in the dark, these neon katanas make an eye-catching display piece or a fun prop for cosplay and themed events. Whether you’re a collector, a fan of futuristic design, or looking for a unique addition to your decor, our neon katanas bring bold, dynamic energy to any space.
   Updated: 2025-07-29T05:10:29Z
   Total Products: 5
 - [WOODEN KATANA](https://theworldofnerds.com/collections/wooden-katana): Unleash the spirit of the samurai with our beautifully crafted Wooden Katanas. Each katana is meticulously made from high-quality wood, designed to resemble the iconic Japanese sword in both style and detail. Perfect for collectors, martial arts enthusiasts, or anyone looking to add a touch of traditional elegance to their space, these wooden katanas offer a safe and striking display piece. Whether you're training, decorating your home, or showcasing your love for Japanese culture, our wooden katanas bring timeless craftsmanship to life.
-  Updated: 2025-10-17T11:13:16Z
+  Updated: 2025-10-18T11:13:36Z
   Total Products: 22
 - [MAISTO BIKE SCALE 1:12](https://theworldofnerds.com/collections/diecast-bikes-2): Bring precision and craftsmanship to your collection with Maisto 1:12 Scale Bikes! Renowned for their attention to detail, these 1:12 scale models offer an impressive representation of iconic motorcycles in miniature form. Each diecast bike features intricate design elements, from realistic engine details to movable parts, capturing the essence of real-world motorcycles. Perfect for collectors and enthusiasts, these Maisto bikes are crafted with durable materials and vibrant finishes, making them ideal for display or as a thoughtful gift. Add a Maisto 1:12 scale bike to your collection and experience the thrill of motorcycling in miniature!
   Updated: 2025-08-29T11:13:28Z
@@ -9175,7 +9154,7 @@
   Updated: 2025-08-27T11:15:12Z
   Total Products: 38
 - [ALL ACTION FIGURES](https://theworldofnerds.com/collections/action-figures): Action figures are more than just toys—they’re a chance to bring your favorite characters to life. With their detailed designs, movable joints, and cool accessories, these figures let you recreate epic moments or imagine your own adventures. Whether it’s superheroes, villains, or characters from your favorite shows, each figure captures the essence of who they are, making them fun to play with or display. For kids, they’re a tool for creativity and storytelling, and for collectors, they’re a way to hold onto a piece of the worlds we love. Simply put, action figures make playtime and display a lot more exciting!
-  Updated: 2025-10-17T11:13:16Z
+  Updated: 2025-10-18T11:13:36Z
   Total Products: 315
 - [RC](https://theworldofnerds.com/collections/rc): Remote control toys are an awesome way to have some fun and let your imagination run wild. Whether it’s racing cars, flying drones, or even controlling a little robot, these toys let you take charge of the action. They’re not just for kids—adults love them too! You can race around, do tricks, or just enjoy the thrill of controlling something with a simple push of a button. Plus, they’re a great way to practice coordination and problem-solving. With so many cool options out there, there’s a remote control toy for pretty much anyone and any interest.
   Updated: 2025-08-30T05:30:08Z
@@ -9184,7 +9163,7 @@
   Updated: 2025-08-12T11:12:51Z
   Total Products: 3
 - [ALL KEYCHAIN](https://theworldofnerds.com/collections/all-keychain): Unlock your style with our collection of unique and customizable keychains! Whether you’re looking for fun, quirky designs or sleek, minimalist accessories, we have keychains to suit every personality. Perfect for holding your keys, adding a touch of charm to your bags, or giving as thoughtful gifts, our keychains are as functional as they are fashionable. Browse through our wide selection and find the perfect keychain to express your style!
-  Updated: 2025-10-14T11:12:16Z
+  Updated: 2025-10-18T11:13:36Z
   Total Products: 300
 - [CARTOON KEYCHAINS](https://theworldofnerds.com/collections/cartoon-keychains): Add some fun and personality to your keys with our vibrant collection of cartoon keychains! Featuring your favorite animated characters, these keychains are the perfect way to showcase your love for beloved cartoons. Made with high-quality materials and colorful designs, each keychain is a delightful accessory that will brighten up your day. Whether you're a fan of classic cartoons, modern favorites, or quirky characters, our collection has something for everyone. Ideal for gifting, collecting, or adding a playful touch to your everyday essentials, these cartoon keychains are sure to bring a smile wherever you go!
   Updated: 2025-10-14T11:12:16Z
@@ -9193,7 +9172,7 @@
   Updated: 2025-10-14T11:12:16Z
   Total Products: 34
 - [ANIME KEYCHAIN](https://theworldofnerds.com/collections/anime-keychain): Show your love for anime with our exclusive collection of Anime Keychains! Featuring your favorite characters from popular anime series, these keychains are the perfect way to carry a piece of your fandom wherever you go. Made with vibrant colors and high-quality materials, each keychain is designed to showcase the iconic heroes, villains, and moments that make anime so unforgettable. Whether you’re looking to add some personality to your bag, keys, or accessories, our anime keychains are the perfect way to express your passion for the world of anime!
-  Updated: 2025-10-13T11:11:20Z
+  Updated: 2025-10-18T11:13:36Z
   Total Products: 143
 - [SPORTS KEYCHAIN](https://theworldofnerds.com/collections/sports-keychain): Show off your love for sports with our collection of Sports Keychains! Whether you're a fan of football, basketball, soccer, or any other sport, these keychains are the perfect way to carry a symbol of your favorite game with you. Crafted with attention to detail and durable materials, each keychain features iconic sports equipment, team logos, or action-packed designs that will make a bold statement. Perfect for athletes, fans, or anyone who loves the thrill of the game, these sports keychains are a great addition to your everyday essentials or make an ideal gift for the sports enthusiast in your life.
   Updated: 2025-07-29T05:10:30Z
@@ -9214,7 +9193,7 @@
   Updated: 2025-10-09T10:31:57Z
   Total Products: 135
 - [SHOP BY MERCHANDISE](https://theworldofnerds.com/collections/anime-action-figures): Explore our exclusive collection of nerd-inspired merchandise, carefully curated for fans of all things geeky! Whether you're into gaming, comics, anime, or pop culture, we have something special for you. Browse through categories like apparel, collectibles, accessories, and home decor to find the perfect addition to your collection. Level up your fandom with high-quality products designed for true enthusiasts. Start shopping now and bring your favorite worlds to life!
-  Updated: 2025-10-17T11:13:16Z
+  Updated: 2025-10-18T11:13:36Z
   Total Products: 473
 - [MAISTO BIKE SCALE 1:6](https://theworldofnerds.com/collections/maisto-scale-1-6): Step up your collection with the impressive Maisto 1:6 Scale Bikes! Known for their exceptional attention to detail and craftsmanship, Maisto offers highly realistic, fully-functional diecast models that are perfect for motorcycle enthusiasts and collectors. With a scale of 1:6, these bikes are larger and packed with intricate features like movable parts, detailed engines, and authentic finishes. From sportbikes to choppers, Maisto’s 1:6 scale bikes are the ultimate way to showcase your love for motorcycles. Whether displayed on a shelf or added to your collection, these models are built to impress.
   Updated: 2025-09-07T11:12:05Z
@@ -9235,7 +9214,7 @@
   Updated: 2025-10-17T11:13:16Z
   Total Products: 418
 - [ANIME & POP CULTURE](https://theworldofnerds.com/collections/anime-pop-culture): "Level up your collection with our latest anime and pop culture arrivals! From highly detailed action figures and adorable Funko Pop! collectibles to stylish keychains, posters, and apparel, we have everything a true fan needs. Whether you're looking to decorate your space, accessorize your style, or expand your collection with exclusive finds, these must-have items bring your favorite characters to life. Don't miss out—shop now and celebrate your fandom in the best way possible!" 🚀🔥
-  Updated: 2025-10-17T11:13:16Z
+  Updated: 2025-10-18T11:13:36Z
   Total Products: 379
 - [TOYS & EXPLORERS FAVOURITES](https://theworldofnerds.com/collections/toys-explorers-favourites): "Unleash the fun with our Toys & Explorers' Favorites collection! From action-packed figures and interactive playsets to educational toys and adventure-ready collectibles, there’s something for every young explorer and collector. Whether you're into superheroes, anime, fantasy worlds, or hands-on discovery, our carefully curated selection brings imagination to life. Perfect for kids and the young at heart—shop now and start your next adventure!" 🚀🎮✨
   Updated: 2025-08-27T11:15:12Z
@@ -9262,7 +9241,7 @@
   Updated: 2025-10-17T11:13:16Z
   Total Products: 59
 - [ONE PIECE](https://theworldofnerds.com/collections/one-piece): One Piece Collection – Set sail on an epic adventure with our exclusive One Piece merchandise inspired by the world of pirates and the Grand Line. Discover a treasure trove of apparel, hoodies, t-shirts, accessories, collectible figurines, and iconic Straw Hat gear. Whether you admire Luffy’s unbreakable spirit, Zoro’s unmatched swordsmanship, or the bond of the Straw Hat crew, our collection lets you celebrate your love for the legendary anime in style. Join the journey, embrace the pirate life, and find your next treasure. Shop now and become a part of the One Piece world.
-  Updated: 2025-10-15T11:11:47Z
+  Updated: 2025-10-18T11:13:36Z
   Total Products: 101
 - [DRAGON BALL Z](https://theworldofnerds.com/collections/dragon-ball-z): Dragon Ball Z Collection – Power up your style with our exclusive Dragon Ball Z merchandise inspired by the legendary Saiyan warriors. Explore a dynamic range of apparel, hoodies, t-shirts, accessories, collectible figurines, and iconic items like Dragon Balls and Saiyan armor. Whether you admire Goku’s unstoppable determination, Vegeta’s fierce pride, or the intense battles that shaped the universe, our collection lets you showcase your love for the series. Train like a true warrior, unleash your power, and take your fandom to the next level. Shop now and channel the energy of the Dragon Ball Z universe.
   Updated: 2025-10-13T06:19:52Z
@@ -9292,7 +9271,7 @@
   Updated: 2025-10-06T11:11:10Z
   Total Products: 49
 - [SHOP ALL BY MERCHANDISE](https://theworldofnerds.com/collections/shop-all-by-merchandise): New arrivals are here! Explore the latest action figures, Funko Pop! collectibles, keychains, and more—perfect for every fan and collector. Whether you're hunting for rare finds, adding to your collection, or looking for the perfect gift, our newest merchandise has something for everyone. Shop now and grab your favorites before they’re gone!" 🎉🔥
-  Updated: 2025-10-17T11:13:16Z
+  Updated: 2025-10-18T11:13:36Z
   Total Products: 959
 - [MARVEL](https://theworldofnerds.com/collections/marvel): "Unleash the power of the Marvel Universe with our latest collection of action figures, Funko Pop! collectibles, keychains, and more! From legendary heroes like Spider-Man, Iron Man, Thor, and Captain America to iconic villains like Thanos and Loki, these high-quality collectibles bring the epic battles and stories of Marvel to life. Whether you're a die-hard fan or a passionate collector, now’s your chance to assemble your favorite characters and celebrate the legacy of Marvel. Shop now and bring the action home!" 🦸♂️⚡🔥
   Updated: 2025-10-14T11:12:16Z
@@ -9304,13 +9283,13 @@
   Updated: 2025-10-13T06:13:25Z
   Total Products: 2
 - [KUNG FU PANDA](https://theworldofnerds.com/collections/kung-fu-panda): "Enter the world of Kung Fu Panda with our latest collectibles! From the legendary Dragon Warrior, Po, to fierce masters like Tigress, Shifu, and Tai Lung, our collection features action figures, Funko Pop! collectibles, keychains, and more. Perfect for fans of the epic kung fu adventures, these high-quality items bring the humor, wisdom, and action of the beloved franchise to life. Add a touch of kung fu awesomeness to your collection today!" 🐼🥋🔥
-  Updated: 2025-08-31T11:14:14Z
+  Updated: 2025-10-18T11:13:36Z
   Total Products: 1
 - [DEATH STROKE](https://theworldofnerds.com/collections/death-stroke): Unleash the power of Deathstroke, the ultimate mercenary and master assassin! Whether you're a fan of his tactical brilliance, unmatched combat skills, or iconic armor, our latest collection of Deathstroke action figures, Funko Pop! collectibles, keychains, and more brings this legendary anti-hero to life. Perfect for collectors and DC fans alike, these must-have items capture his ruthless persona in stunning detail. Add Deathstroke to your collection today!" 🏹🔥
   Updated: 2025-07-29T05:10:33Z
   Total Products: 1
 - [NEW ARRIVALS 📢](https://theworldofnerds.com/collections/new-arrivals-📢): New arrivals just dropped! Explore a fresh selection of high-quality die-cast cars and collectibles, perfect for expanding your collection or finding that one special piece. Whether you're a passionate collector or just starting out, our latest additions feature stunning details, unique designs, and limited-edition finds that you won’t want to miss. Grab yours now before they sell out!" 🚗✨
-  Updated: 2025-10-17T11:13:16Z
+  Updated: 2025-10-18T11:13:36Z
   Total Products: 281
 - [Light Boxes](https://theworldofnerds.com/collections/light-boxes)
   Updated: 2025-10-06T11:11:10Z
@@ -9322,10 +9301,10 @@
   Updated: 2025-09-19T09:57:32Z
   Total Products: 24
 - [PRE ORDERS](https://theworldofnerds.com/collections/pre-orders)
-  Updated: 2025-10-18T04:43:13Z
+  Updated: 2025-10-18T11:13:36Z
   Total Products: 17
 - [ALL ANIME MERCHANDISE](https://theworldofnerds.com/collections/all-anime-merchandise)
-  Updated: 2025-10-17T12:12:45Z
+  Updated: 2025-10-18T11:13:36Z
   Total Products: 417
 
 ## Store Pages
