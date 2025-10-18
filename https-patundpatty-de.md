@@ -6,12 +6,12 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-03-19T17:46:58Z
 - Contact Email: info@patundpatty.de
-- Updated At: 2025-10-18T16:00:35.360Z
+- Updated At: 2025-10-18T20:00:35.208Z
 
 ## Products
 
 - [Bio Kuschelkissen Wildschwein – Bio Spelzfüllung | PAT&PATTY](https://patundpatty.de/products/bio-kuschelkissen-wildschwein): Entdecken Sie das Bio Kuschelkissen Wildschwein, weich und natürlich gefüllt mit Hirsespelz. Handgemacht in Deutschland. Bestellen Sie jetzt!
-  Updated: 2025-10-16T09:23:28Z
+  Updated: 2025-10-18T19:16:16Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -21,7 +21,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Kuschelkissen-Wildschwein-_-Kuscheltier-PAT-_-PATTY-64616145.jpg?v=1748089633
     Price: 60,90 € EUR
   - [braun / Dinkelspelz-kbA](https://patundpatty.de/products/bio-kuschelkissen-wildschwein?variant=45296990126348)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Kuschelkissen-Wildschwein-_-Kuscheltier-PAT-_-PATTY-64616854.jpg?v=1748089652
     Price: 60,50 € EUR
   - [beige / Hirsespelz-kbA](https://patundpatty.de/products/bio-kuschelkissen-wildschwein?variant=45295942566156)
@@ -2880,6 +2880,10 @@
   - [Bio Fuchs Lavendelkissen für Babys](https://patundpatty.de/blogs/news/bio-mini-lavendelkissen-fuchs-als-nachhaltiges-bio-schnuffeltuch-fur-dein-baby-7-grunde-fur-einen-beruhigenden-schlaf): Bio Fuchs Lavendelkissen für Babys
     Updated: 2025-10-17T16:51:01Z
     Author: Sharon Engel
+  - [7 Vorteile handgefertigter Spielwaren für bewusste Eltern](https://patundpatty.de/blogs/news/7-vorteile-handgefertigter-spielwaren-fuer-eltern): Entdecken Sie 7 einzigartige Vorteile handgefertigter Spielwaren und lernen Sie, warum sie für Kinder, Eltern und die Umwelt besonders wertvoll sind.
+    Updated: 2025-10-18T17:31:18Z
+    Author: Sharon
+    Tags: vorteile handgefertigter spielwaren
 
 ## Store Pages
 
