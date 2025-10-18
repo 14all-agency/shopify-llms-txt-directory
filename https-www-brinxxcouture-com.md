@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2025-10-18T16:00:50.886Z
+- Updated At: 2025-10-18T20:00:53.435Z
 
 ## Products
 
@@ -7653,7 +7653,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Contrast-Sequin-One-Shoulder-Sleeveless-Dress-Brinxx-Couture-2140.jpg?v=1730294322
     Price: $65.00 USD
 - [Contrast Sequin Sleeveless Mini Dress - Brinxx Couture](https://www.brinxxcouture.com/products/contrast-sequin-sleeveless-mini-dress): This Contrast Sequin Sleeveless Mini Dress is fit for a princess! Its delicate sequin embellishments give it a beautiful sparkle that will shine at any event.
-  Updated: 2025-10-03T16:59:43Z
+  Updated: 2025-10-18T17:26:00Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -10346,7 +10346,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Ruched-Short-Sleeve-Dress-Brinxx-Couture-4854.jpg?v=1709856574
     Price: $29.99 USD
 - [Ruched Round Neck Short Sleeve Dress - Brinxx Couture](https://www.brinxxcouture.com/products/ruched-round-neck-short-sleeve-dress): Stay stylish with this Ruched Round Neck Short Sleeve Dress. Crafted from 100% Polyester to provide ultimate comfort, this dress features a round neck and short sleeves.
-  Updated: 2025-10-02T17:12:12Z
+  Updated: 2025-10-18T19:23:25Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -19494,7 +19494,7 @@
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Enjoy-The-Simple-Things-Fedora-Hat-Brinxx-Couture-7135.jpg?v=1745425105
   Price: $39.00 USD
 - [Beige Fedora Hat - Brinxx Couture](https://www.brinxxcouture.com/products/beige-fedora-hat): Get ready to elevate your style with our Beige Fedora Hat! This timeless classic is the perfect accessory to add a touch of sophistication to any outfit.
-  Updated: 2025-10-18T02:55:36Z
+  Updated: 2025-10-18T18:00:12Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -23343,7 +23343,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Notch-Lapel-Woven-Coat-with-Side-Pockets-Brinxx-Couture-2936.jpg?v=1730297108
     Price: $40.00 USD
 - [Cable-Knit Round Neck Sweater Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress): Wrap yourself in cozy comfort and timeless style with our Cable-Knit Round Neck Sweater Dress! Made from soft, high-quality materials.
-  Updated: 2025-10-18T12:10:41Z
+  Updated: 2025-10-18T18:30:45Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
