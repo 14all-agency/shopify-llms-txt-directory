@@ -6,7 +6,7 @@
 - Timezone: Europe/Madrid
 - Created At: 2022-07-18T15:24:40Z
 - Contact Email: info@hifimediastore.com
-- Updated At: 2025-10-18T04:01:08.969Z
+- Updated At: 2025-10-18T08:01:13.855Z
 
 ## Products
 
@@ -4511,7 +4511,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/A_-_Hifi_Media_Store-967101.jpg?v=1719001262
   Price: 832,99 € EUR
 - [Apple iPhone 15 Plus 128GB Negro (Black) MU0Y3QL/A](https://hifimediastore.com/products/apple-iphone-15-plus-128gb-negro-black-mu0y3ql-a): Apple iPhone 15 Plus:  Chip A16 Bionic Cámara dual de 48MP + 12MP Zoom óptico Vídeo 4K HDR Pantalla Super Retina XDR de 6,7" USB-C Hasta 26H de reproducción de vídeo Batería de 4383 mAh
-  Updated: 2025-10-18T01:20:10Z
+  Updated: 2025-10-18T08:00:11Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
@@ -4574,7 +4574,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/A_-_Hifi_Media_Store-967173.jpg?v=1719001412
   Price: 1060,99 € EUR
 - [Apple iPhone 15 256GB Rosa (Pink) MTP73QL/A](https://hifimediastore.com/products/apple-iphone-15-256gb-rosa-pink-mtp73ql-a): Apple iPhone 15:  Chip A16 Bionic Cámara dual de 48MP + 12MP Zoom óptico Vídeo 4K HDR Pantalla Super Retina XDR de 6,1" USB-C Hasta 20H de reproducción de vídeo
-  Updated: 2025-10-16T22:30:11Z
+  Updated: 2025-10-18T08:00:11Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
@@ -5246,7 +5246,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/x-auriculares-epos-sennheiser-sc45-jack-_312694_9.jpg?v=1756463449
   Price: 31,99 € EUR
 - [Epos Sennheiser Impact SC 260 USB MS II - Auriculares USB 2.0 con Micrófono Negros](https://hifimediastore.com/products/epos-sennheiser-impact-sc-260-usb-ms-ii-auriculares-usb-2-0-con-microfono-negros): Mantén la energía y la concentración con una comunicación clara entre tú y tu interlocutor, y disfruta de unos auriculares con cable robustos que te ofrecen comodidad durante todo el día. En los bulliciosos centros de contacto, estos auriculares Epos Sennheiser Impact SC 260, son fiables y fáciles de usar. Con EPOS Voice y un micrófono con cancelación de ruido, tanto tú como tus usuarios disfrutaréis de una experiencia de comunicación más natural. Características: Optimiza la transmisión del habla: El brazo pivotante y articulado garantiza una posición perfecta del micrófono y permite diferentes modos de colocación. Personaliza tus auriculares: Placa de nombre con identificación del usuario y surcos numerados para personalizar el ajuste de la diadema. Disfruta de comodidad durante todo el día: Almohadillas de espuma acústica con suaves cubiertas de polipiel y sistema de auricular CircleFlex con dos bisagras para un ajuste perfecto. Hazte con un diseño resistente: Construcción duradera, con diadema ligera reforzada con metal, diseñada para usar a diario durante años. Cuida tu audición: Con la tecnología EPOS ActiveGard de protección frente al impacto acústico. Gestiona fácilmente las llamadas: Unidad de control de llamadas en el cable para silenciar el micrófono, ajustar el volumen y responder/finalizar llamadas. Especificaciones: Conectividad: USB 2.0 Micrófono: Sí Cancelación de ruido: Sí Diseño estilo: Diadema Tecnología EPOS ActiveGard Color: Negro
-  Updated: 2025-08-31T15:54:56Z
+  Updated: 2025-10-18T04:24:11Z
   Vendor: EPOS SENNHEISER
   Product Type: Todos los auriculares
   Availability: Available
@@ -6583,12 +6583,12 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/18151.jpg?v=1724962232
   Price: 865,99 € EUR
 - [Samsung Galaxy Buds2 Pro Auriculares Bluetooth Gris (Graphite) SM-R510](https://hifimediastore.com/products/samsung-galaxy-buds2-pro-auriculares-bluetooth-gris-graphite-sm-r510): SAMSUNG GALAXY BUDS2 PRO Audio Hi Fi de 24 BITS Samsung Seamless Codec Cancelacion activa de ruido ANC 3 microfonos de alta relacion senal ruido SNR Voice Detect y Audio 360 inteligente SmartThings Find funcion de deteccion de ubicacion Hasta 5
-  Updated: 2025-10-18T02:20:11Z
+  Updated: 2025-10-18T05:25:30Z
   Vendor: Samsung
   Product Type: Bluetooth
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/8875.jpg?v=1725044707
-  Price: 165,99 € EUR
+  Price: 148,99 € EUR
 - [Apple AirPods Max Bluetooth Azul Cielo (Sky Blue) MGYL3](https://hifimediastore.com/products/apple-airpods-max-bluetooth-azul-cielo-sky-blue-mgyl3): AirPods Max Sonido de alta fidelidad Cancelacion activa de ruido y modo de sonido ambiente Audio espacila personalizado con seguimiento dinamico de la cabeza Diseno innovador con un ajuste excepcional Hasta 20 horas de reproduccion de audio reproducci
   Updated: 2025-10-17T08:15:45Z
   Vendor: Apple
@@ -6863,7 +6863,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/18541.jpg?v=1726698035
   Price: 2332,99 € EUR
 - [Apple iPhone 16 Pro 256GB Titano Negro (Black Titanium)](https://hifimediastore.com/products/apple-iphone-16-pro-256gb-titano-negro-black-titanium): Apple iPhone 16 Pro:  Pantalla Super Retina XDR OLED Chip A18 Pro Control de cámara Ultra gran angular de 48 MP Velocidad 5G Fabricado en Titanio de grado 5 iOS 18  * Es posible que este iPhone no incluya cargador, ni auriculares en la caja original.
-  Updated: 2025-10-18T01:20:21Z
+  Updated: 2025-10-18T08:00:17Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
@@ -7143,7 +7143,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/tv-led-43_108cm_-panasonic-tv-43w80aez_430759_1.jpg?v=1756403557
   Price: 623,99 € EUR
 - [Tv Philips 32´´ 32PFS6109/12 LED FullHD, Smart TV, Titan OS](https://hifimediastore.com/products/tv-philips-32-32pfs6109-12-led-fullhd-smart-tv-titan-os): Busques lo que busques, este televisor LED Philips PFS6109 lo tiene. El televisor buscará en los principales servicios de streaming por ti o te hará sugerencias sobre qué ver. Obtén un sonido claro y una imagen nítida e intensa que mejora todo lo que ves. Características: Imagen nítida. Visualización vibrante. Gracias al motor de procesamiento de este televisor LED Full HD, que optimiza la calidad de imagen para ofrecer imágenes nítidas, colores ricos y movimientos suaves, te encantará todo lo que veas y siempre disfrutarás de la mejor experiencia visual posible. Encuéntrala fácilmente con TITAN OS. Encuentra lo que buscas fácil y rápidamente con nuestra nueva plataforma de Smart TV TITAN OS. ¿Estás disfrutando de una serie? Puedes seguir viéndola directamente desde la pantalla de inicio. Y si buscas algo nuevo, puedes explorar categorías como Acción o Drama y ver sugerencias de los mejores servicios de streaming, todo en el mismo lugar. Dolby Audio para un sonido de TV más nítido y enriquecido. Sumérgete en tus programas y películas favoritos. Este Smart TV LED es compatible con Dolby Audio para que disfrutes de un sonido más nítido y claro. Independientemente de lo que te guste ver, lo escucharás mejor. Compatible con asistentes de voz. Puedes pedirle a Alexa que controle el televisor a través de dispositivos compatibles, o hacerlo a través de altavoces inteligentes de Google. Encuentra películas y programas, obtén recomendaciones y mucho más con la voz. Mando a distancia con plástico reciclado. Embalaje responsable. Este Smart TV tiene un aspecto elegante y una pantalla prácticamente sin marco que se ve en casi cualquier estancia. El mando a distancia utiliza plástico reciclado, nuestro embalaje utiliza cartón reciclado con certificación FSC y los insertos están impresos en papel reciclado. Diseño atractivo y fino. Especificaciones: Imagen/Pantalla Tamaño diagonal de pantalla (pulgadas): 32 pulgadas Tamaño diagonal de pantalla (métrico): 80 cm Pantalla: LED Full HD Resolución de pantalla: 1920 x 1080 p Frecuencia de actualización nativa: 60 Hz Mejora de la imagen: Pixel Plus Resolución de entrada de la pantalla Resolución-Frecuencia de actualización 576p-50 Hz 640 x 480-60 Hz 720p-50 Hz, 60 Hz 1920 x 1080p -24/25/30/50/60 Hz Sintonizador/recepción/transmisión Televisión digital: TDT/T2/T2-HD/C/S/S2 Guía de programación de televisión*: Guía electrónica de programación de 8 días Indicación de la fuerza de la señal: Sí Teletexto: Hipertexto de 1000 páginas Compatibilidad HEVC: Sí Smart TV Aplicaciones de Smart TV* Netflix HBO YouTube Amazon Prime Video Canal TITAN Aplicación NFT* Sistema operativo: SO TITAN Tamaño de la memoria (Flash)*: 8 GB Funciones de Smart TV Interacción con el usuario: Duplicación de pantalla Televisión interactiva: HbbTV Aplicaciones multimedia Formatos de reproducción de vídeo: AVI, MKV, HEVC, H.264/MPEG-4 AVC, MPEG1, MPEG2, MPEG4, VP9, HEVC (H.265), AV1 Formatos de reproducción de música: MP3, WAV, AAC, FLAC Formatos de subtítulos compatibles: SRT, SMI, SSA, SUB, ASS, TXT Formatos de reproducción de imagen: JPEG, GIF, PNG, BMP, HEIF Sonido Potencia de salida (RMS): 10 W Configuración del altavoz: 2 altavoces de rango completo de 5 W Códec: Dolby Digital MS12 V2.6.2 Mejora del sonido Diálogo nítido Sonido IA Ecualizador IA Nivelador automático de volumen Dolby Modo nocturno Mejora de graves Dolby Conectividad Número de conexiones de HDMI: 3 EasyLink (HDMI-CEC) Conexión mediante mando a distancia Control de audio del sistema Modo de espera del sistema Reproducción con una sola pulsación Número de USB: 2 Conexión inalámbrica: Wi-Fi 802.11n, 2x2, banda única HDCP 2.3: Sí en todas las conexiones HDMI HDMI ARC: Sí, en la conexión HDMI1 EasyLink 2.0 Configuración externa mediante la IU del televisor HDMI-CEC para SB/televisor Philips Funciones de vídeo HDMI compatibles HDR HLG HDR10 Etiqueta energética de la UE Números de registro de EPREL: 2034659 Clase energética para SDR: E Demanda de alimentación en modo de encendido para SDR: 24 kWh/1000 h Clase energética para HDR: G Demanda de alimentación en modo de encendido para HDR: 35 kWh/1000 h Consumo de energía en modo apagado: no disponible Modo de espera en red: 2.0 W Tecnología del panel utilizada: LED LCD Potencia Red eléctrica: 220 - 240 V de CA, 50/60 Hz Consumo en modo de espera: menos de 0,5 W Funciones de ahorro de energía Temporizador de desconexión automática Silenciamiento de imagen (para radio) Modo Eco Sensor de luz Accesorios Accesorios incluidos Mando a distancia 2 pilas AAA Soporte para la mesa Cable de alimentación Guía de inicio rápido Folleto legal y de seguridad Diseño Colores del televisor: Bisel negro mate Diseño del soporte: Soportes de arco negros Dimensiones Peso incluido embalaje: 5,5 kg Compatible con el montaje en pared: 200 x 200 mm Televisor sin soporte (An. x Al. x Pr.): 719 x 432 x 84 mm Televisor con soporte (An. x Al. x Pr.): 719 x 471 x 188 mm Embalaje (An. x Al. x Pr.): 808 x 510 x 136 mm Peso del televisor sin soporte: 4,0 kg Peso del televisor con soporte: 4,1 kg
-  Updated: 2025-10-17T00:53:28Z
+  Updated: 2025-10-18T06:43:54Z
   Vendor: PHILIPS
   Product Type: Televisores
   Availability: Available
@@ -7717,7 +7717,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/21796.jpg?v=1742576419
   Price: 288,99 € EUR
 - [Samsung Galaxy A36 5G 6GB/128GB Verde (Awesome Lime) Dual SIM SM-A366](https://hifimediastore.com/products/samsung-galaxy-a36-5g-6gb-128gb-verde-awesome-lime-dual-sim-sm-a366): Samsung Galaxy A36 5G Diseno fino con un toque de estilo Pantalla Super AMOLED FHD de 67 Qualcomm Snapdragon 6 Gen 3 Triple camara de 50MP y camara selfie de 12MP Bateria de 5000 mAh Carga Rapida de 45W Conexion 5G Certificacion IP67 No incluye c
-  Updated: 2025-10-16T23:56:00Z
+  Updated: 2025-10-18T04:18:11Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
@@ -7991,12 +7991,12 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/22389.jpg?v=1744839915
   Price: 52,99 € EUR
 - [Samsung Galaxy Tab S10 FE 10,9" 12GB/256GB WiFi Gris (Gray) X520B](https://hifimediastore.com/products/samsung-galaxy-tab-s10-fe-109-12gb-256gb-wifi-gris-gray-x520b): Samsung Galaxy Tab S10 FE:  Pantalla IPS LCD de 10,9" Cámara principal de 13MP Cámara selfie de 12MP Batería de 8000 mAh Carga rápida de 45W Android 15, One UI 7 IP68 resistente al polvo y al agua
-  Updated: 2025-10-18T02:10:25Z
+  Updated: 2025-10-18T04:03:22Z
   Vendor: Samsung
   Product Type: Tablet's
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/22468.jpg?v=1745533822
-  Price: 588,99 € EUR
+  Price: 623,99 € EUR
 - [Samsung Galaxy Tab S10 FE 10,9" 8GB/128GB 5G Gris (Gray) X526B](https://hifimediastore.com/products/samsung-galaxy-tab-s10-fe-109-8gb-128gb-5g-gris-gray-x526b): Samsung Galaxy Tab S10 FE:  Pantalla IPS LCD de 10,9" Cámara principal de 13MP Cámara selfie de 12MP Batería de 8000 mAh Carga rápida de 45W Conexión 5G Android 15, One UI 7 IP68 resistente al polvo y al agua
   Updated: 2025-10-17T19:20:26Z
   Vendor: Samsung
@@ -8019,7 +8019,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/22519.jpg?v=1745958616
   Price: 680,99 € EUR
 - [Samsung Galaxy Tab S10 FE+ 13" 8GB/128GB WiFi Azul (Blue) X620B](https://hifimediastore.com/products/samsung-galaxy-tab-s10-fe-13-8gb-128gb-wifi-azul-blue-x620b): Samsung Galaxy Tab S10 FE+:  Pantalla IPS LCD de 13,1" Cámara principal de 13MP Cámara selfie de 12MP Batería de 10090 mAh Carga rápida de 45W Android 15, One UI 7 IP68 resistente al polvo y al agua
-  Updated: 2025-10-11T22:27:44Z
+  Updated: 2025-10-18T04:16:15Z
   Vendor: Samsung
   Product Type: Tablet's
   Availability: Available
@@ -8229,7 +8229,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/23466.jpg?v=1749512410
   Price: 94,99 € EUR
 - [JBL Wave 200TWS Auriculares Bluetooth Blancos](https://hifimediastore.com/products/jbl-wave-200tws-auriculares-bluetooth-blancos): JBL Wave 200TWS:  Diseño ergonómico y ultraligero Sonido JBL Deep Bass Hasta 20 horas de reproducción Carga rápida Bluetooth 5.0
-  Updated: 2025-10-17T18:30:30Z
+  Updated: 2025-10-18T04:10:56Z
   Vendor: JBL
   Product Type: Bluetooth
   Availability: Available
@@ -8390,7 +8390,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/25607.jpg?v=1757619918
   Price: 1302,99 € EUR
 - [Apple iPhone 17 Pro 256GB Azul Oscuro (Deep Blue)](https://hifimediastore.com/products/apple-iphone-17-pro-256gb-azul-oscuro-deep-blue): Apple iPhone 17 Pro:  Pantalla Super Retina XDR OLED Chip A19 Pro Cámara triple Fusion de 48MP Batería de 3988 mAh Velocidad 5G Ceramic Shield 2 iOS 26
-  Updated: 2025-10-18T01:20:25Z
+  Updated: 2025-10-18T08:00:16Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
@@ -8467,7 +8467,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/25863.jpg?v=1758660923
   Price: 1943,99 € EUR
 - [Apple iPhone Air 1TB Azul Cielo (Sky Blue)](https://hifimediastore.com/products/apple-iphone-air-1tb-azul-cielo-sky-blue): Apple iPhone Air:  Pantalla Super Retina XDR OLED Chip A19 Pro Cámara Fusion de 48MP Batería de 3149 mAh Velocidad 5G Ceramic Shield 2 iOS 26
-  Updated: 2025-10-16T02:20:35Z
+  Updated: 2025-10-18T04:23:16Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
@@ -8481,7 +8481,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/25871.jpg?v=1758660937
   Price: 1865,99 € EUR
 - [Apple iPhone Air 256GB Azul Cielo (Sky Blue)](https://hifimediastore.com/products/apple-iphone-air-256gb-azul-cielo-sky-blue): Apple iPhone Air:  Pantalla Super Retina XDR OLED Chip A19 Pro Cámara Fusion de 48MP Batería de 3149 mAh Velocidad 5G Ceramic Shield 2 iOS 26
-  Updated: 2025-10-17T18:30:26Z
+  Updated: 2025-10-18T08:00:16Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
@@ -8509,7 +8509,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/25887.jpg?v=1758660964
   Price: 1526,99 € EUR
 - [Apple iPhone 17 256GB Azul Neblina (Mist Blue)](https://hifimediastore.com/products/apple-iphone-17-256gb-azul-neblina-mist-blue): Apple iPhone 17:  Pantalla Super Retina XDR OLED Chip A19 Cámara dual Fusion de 48MP Batería de 3692 mAh Velocidad 5G Ceramic Shield 2 iOS 26
-  Updated: 2025-10-18T01:20:25Z
+  Updated: 2025-10-18T08:00:19Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
@@ -8523,12 +8523,12 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/25907.jpg?v=1758737738
   Price: 2318,99 € EUR
 - [Apple iPhone 17 Pro 256GB Plata (Silver)](https://hifimediastore.com/products/apple-iphone-17-pro-256gb-plata-silver): Apple iPhone 17 Pro:  Pantalla Super Retina XDR OLED Chip A19 Pro Cámara triple Fusion de 48MP Batería de 3988 mAh Velocidad 5G Ceramic Shield 2 iOS 26
-  Updated: 2025-10-18T01:20:25Z
+  Updated: 2025-10-18T04:23:30Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/25911.jpg?v=1758737746
-  Price: 1838,99 € EUR
+  Price: 1836,99 € EUR
 - [Apple iPhone 17 Pro 512GB Naranja Cósmico (Cosmic Orange)](https://hifimediastore.com/products/apple-iphone-17-pro-512gb-naranja-cosmico-cosmic-orange): Apple iPhone 17 Pro:  Pantalla Super Retina XDR OLED Chip A19 Pro Cámara triple Fusion de 48MP Batería de 3988 mAh Velocidad 5G Ceramic Shield 2 iOS 26
   Updated: 2025-10-18T01:20:25Z
   Vendor: Apple
@@ -8606,11 +8606,11 @@
   Updated: 2025-06-22T07:51:28Z
   Total Products: 0
 - [Best Selling Products](https://hifimediastore.com/collections/best-selling-products)
-  Updated: 2025-10-18T03:59:35Z
-  Total Products: 5478
+  Updated: 2025-10-18T05:25:32Z
+  Total Products: 5481
 - [Newest Products](https://hifimediastore.com/collections/newest-products)
-  Updated: 2025-10-18T03:59:35Z
-  Total Products: 5478
+  Updated: 2025-10-18T05:25:32Z
+  Total Products: 5481
 - [Altavoces](https://hifimediastore.com/collections/speakers): Explora nuestra gama de altavoces de alta calidad y llévatee la experiencia del festival a casa con nuestros altavoces.
   Updated: 2025-10-10T22:01:24Z
   Total Products: 180
@@ -8627,16 +8627,16 @@
   Updated: 2025-10-16T19:30:39Z
   Total Products: 171
 - [Todos los auriculares intraurales](https://hifimediastore.com/collections/all-earbuds)
-  Updated: 2025-10-18T03:30:39Z
+  Updated: 2025-10-18T05:25:32Z
   Total Products: 465
 - [Auriculares Intraurales Gaming](https://hifimediastore.com/collections/gaming-earbuds): Sumérgete en la acción de tus videojuegos favoritos con nuestros auriculares intraurales gaming y disfruta de una experiencia única.
   Updated: 2025-10-11T00:51:31Z
   Total Products: 62
 - [Auriculares Intraurales Bluetooth](https://hifimediastore.com/collections/bluetooth-earbuds)
-  Updated: 2025-10-18T03:30:39Z
+  Updated: 2025-10-18T05:25:32Z
   Total Products: 416
 - [Auriculares Intraurales con ANC](https://hifimediastore.com/collections/earbuds-with-anc): Pon el mundo en pausa. Aíslate del mundo escuchando tu música favorita con nuestros auriculares intraurales con ANC más avanzados.
-  Updated: 2025-10-18T03:30:39Z
+  Updated: 2025-10-18T05:25:32Z
   Total Products: 156
 - [Auriculares de conducción ósea](https://hifimediastore.com/collections/bone-conduction-earphones): Descubre nuestros auriculares de conducción ósea, una tecnología que permite al oyente percibir el contenido de audio sin obstruir el canal auditivo, lo que evita daños en el tímpano.
   Updated: 2025-10-10T23:14:51Z
@@ -8663,8 +8663,8 @@
   Updated: 2025-10-10T22:05:52Z
   Total Products: 22
 - [AVADA - Best Sellers](https://hifimediastore.com/collections/avada-best-sellers)
-  Updated: 2025-10-18T03:59:35Z
-  Total Products: 1449
+  Updated: 2025-10-18T05:25:32Z
+  Total Products: 1450
 - [Intercomunicadores para moto](https://hifimediastore.com/collections/motorcycle-intercoms)
   Updated: 2025-06-22T07:51:29Z
   Total Products: 17
@@ -8672,8 +8672,8 @@
   Updated: 2025-06-22T07:51:30Z
   Total Products: 4
 - [Móviles y Smartphones Libres 4G y 5G](https://hifimediastore.com/collections/smartphones): Compra móviles y smartphones libres 4G y 5G. Pago a plazos con SeQura. Envío rápido y garantía oficial.
-  Updated: 2025-10-18T03:59:35Z
-  Total Products: 3571
+  Updated: 2025-10-18T04:26:55Z
+  Total Products: 3572
 - [Alcatel](https://hifimediastore.com/collections/alcatel)
   Updated: 2025-10-11T23:22:15Z
   Total Products: 20
@@ -8693,16 +8693,16 @@
   Updated: 2025-10-12T00:36:23Z
   Total Products: 7
 - [Google](https://hifimediastore.com/collections/google)
-  Updated: 2025-10-18T01:18:30Z
+  Updated: 2025-10-18T04:26:28Z
   Total Products: 122
 - [Honor](https://hifimediastore.com/collections/honor)
-  Updated: 2025-10-18T03:56:14Z
+  Updated: 2025-10-18T04:06:49Z
   Total Products: 133
 - [Huawei](https://hifimediastore.com/collections/huawei)
   Updated: 2025-10-12T00:33:18Z
   Total Products: 133
 - [Apple](https://hifimediastore.com/collections/apple)
-  Updated: 2025-10-18T03:40:17Z
+  Updated: 2025-10-18T04:23:31Z
   Total Products: 513
 - [Land Rover](https://hifimediastore.com/collections/land-rover)
   Updated: 2025-10-11T23:13:25Z
@@ -8714,7 +8714,7 @@
   Updated: 2025-10-11T23:26:18Z
   Total Products: 12
 - [Motorola](https://hifimediastore.com/collections/motorola)
-  Updated: 2025-10-17T21:58:42Z
+  Updated: 2025-10-18T04:11:33Z
   Total Products: 299
 - [Nokia](https://hifimediastore.com/collections/nokia)
   Updated: 2025-10-12T00:21:21Z
@@ -8723,16 +8723,16 @@
   Updated: 2025-10-18T03:51:44Z
   Total Products: 110
 - [Nothing Tech](https://hifimediastore.com/collections/nothing-tech)
-  Updated: 2025-10-17T18:56:25Z
+  Updated: 2025-10-18T04:18:14Z
   Total Products: 30
 - [Oppo](https://hifimediastore.com/collections/oppo)
-  Updated: 2025-10-17T12:54:30Z
-  Total Products: 183
+  Updated: 2025-10-18T04:27:11Z
+  Total Products: 186
 - [Xiaomi](https://hifimediastore.com/collections/xiaomi)
-  Updated: 2025-10-18T03:58:22Z
+  Updated: 2025-10-18T04:24:15Z
   Total Products: 957
 - [Samsung](https://hifimediastore.com/collections/samsung)
-  Updated: 2025-10-18T03:59:35Z
+  Updated: 2025-10-18T04:26:27Z
   Total Products: 934
 - [Acer](https://hifimediastore.com/collections/acer)
   Updated: 2025-10-11T23:22:13Z
@@ -8783,7 +8783,7 @@
   Updated: 2025-10-17T08:15:46Z
   Total Products: 46
 - [Apple](https://hifimediastore.com/collections/apple-1)
-  Updated: 2025-10-18T03:40:17Z
+  Updated: 2025-10-18T04:23:31Z
   Total Products: 602
 - [Asus](https://hifimediastore.com/collections/asus)
   Updated: 2025-10-10T23:18:20Z
@@ -8828,10 +8828,10 @@
   Updated: 2025-10-10T23:17:56Z
   Total Products: 1
 - [Sony](https://hifimediastore.com/collections/sony-1)
-  Updated: 2025-10-16T19:25:41Z
+  Updated: 2025-10-18T04:11:06Z
   Total Products: 69
 - [Auriculares Sony](https://hifimediastore.com/collections/auriculares-sony)
-  Updated: 2025-10-16T19:25:41Z
+  Updated: 2025-10-18T04:11:06Z
   Total Products: 30
 - [Spirit of Gamer](https://hifimediastore.com/collections/spirit-of-gamer)
   Updated: 2025-10-16T19:22:17Z
@@ -8840,7 +8840,7 @@
   Updated: 2025-10-16T19:22:17Z
   Total Products: 4
 - [Xiaomi](https://hifimediastore.com/collections/xiaomi-1)
-  Updated: 2025-10-18T03:58:22Z
+  Updated: 2025-10-18T04:24:15Z
   Total Products: 1061
 - [Auriculares Xiaomi](https://hifimediastore.com/collections/auriculares-xiaomi)
   Updated: 2025-10-16T17:19:33Z
@@ -8987,8 +8987,8 @@
   Updated: 2025-08-31T12:20:56Z
   Total Products: 4
 - [Teléfonos móviles y accesorios en Hi-Fi Media Store](https://hifimediastore.com/collections/todos-los-productos): Somos especialistas en teléfonos móviles y accesorios. En Hi-Fi Media Store encontrarás una gran variedad de productos de las mejores marcas.
-  Updated: 2025-10-18T03:59:35Z
-  Total Products: 5477
+  Updated: 2025-10-18T05:25:32Z
+  Total Products: 5480
 - [Lindy](https://hifimediastore.com/collections/lindy)
   Updated: 2025-10-10T23:08:17Z
   Total Products: 4
@@ -9002,7 +9002,7 @@
   Updated: 2025-08-28T13:56:16Z
   Total Products: 1
 - [Motorola](https://hifimediastore.com/collections/motorola-1)
-  Updated: 2025-10-17T21:58:42Z
+  Updated: 2025-10-18T04:11:33Z
   Total Products: 312
 - [Auriculares Motorola](https://hifimediastore.com/collections/auriculares-motorola)
   Updated: 2025-10-17T12:40:27Z
@@ -9020,8 +9020,8 @@
   Updated: 2025-10-10T22:42:12Z
   Total Products: 1
 - [Oppo](https://hifimediastore.com/collections/oppo-1)
-  Updated: 2025-10-17T12:54:30Z
-  Total Products: 198
+  Updated: 2025-10-18T04:27:40Z
+  Total Products: 201
 - [Auriculares Oppo](https://hifimediastore.com/collections/auriculares-oppo)
   Updated: 2025-10-11T00:54:27Z
   Total Products: 5
@@ -9044,8 +9044,8 @@
   Updated: 2025-10-10T22:47:39Z
   Total Products: 3
 - [OrderlyEmails - Recommended Products](https://hifimediastore.com/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-10-18T03:59:35Z
-  Total Products: 1452
+  Updated: 2025-10-18T05:25:32Z
+  Total Products: 1453
 - [Razer](https://hifimediastore.com/collections/razer)
   Updated: 2025-10-16T19:26:34Z
   Total Products: 24
@@ -9107,8 +9107,8 @@
   Updated: 2025-10-16T19:25:32Z
   Total Products: 2
 - [Outlet](https://hifimediastore.com/collections/outlet)
-  Updated: 2025-10-18T03:55:21Z
-  Total Products: 262
+  Updated: 2025-10-18T08:00:52Z
+  Total Products: 261
 - [Edifier](https://hifimediastore.com/collections/edifier)
   Updated: 2025-10-10T22:12:51Z
   Total Products: 1
@@ -9164,7 +9164,7 @@
   Updated: 2025-10-10T22:01:24Z
   Total Products: 27
 - [Tablets iPad y Android | Financia con SeQura](https://hifimediastore.com/collections/tablets): Compra tablets iPad y Android con envío rápido y financiación flexible con SeQura. Compra fácil y segura online.
-  Updated: 2025-10-18T03:42:08Z
+  Updated: 2025-10-18T04:26:27Z
   Total Products: 529
 - [iPad](https://hifimediastore.com/collections/ipad)
   Updated: 2025-10-18T00:54:00Z
@@ -9179,29 +9179,29 @@
   Updated: 2025-10-15T00:27:39Z
   Total Products: 4
 - [Tablets Samsung](https://hifimediastore.com/collections/tablets-samsung)
-  Updated: 2025-10-18T03:22:20Z
+  Updated: 2025-10-18T04:03:23Z
   Total Products: 79
 - [IVA 21](https://hifimediastore.com/collections/iva-21)
-  Updated: 2025-10-18T03:59:35Z
-  Total Products: 5108
+  Updated: 2025-10-18T05:25:32Z
+  Total Products: 5111
 - [Tablets Xiaomi](https://hifimediastore.com/collections/tablets-xiaomi)
   Updated: 2025-10-17T21:46:39Z
   Total Products: 37
 - [Honor](https://hifimediastore.com/collections/honor-1)
-  Updated: 2025-10-18T03:56:14Z
+  Updated: 2025-10-18T04:06:49Z
   Total Products: 141
 - [Tablets Honor](https://hifimediastore.com/collections/tablets-honor)
   Updated: 2025-10-16T11:22:15Z
   Total Products: 4
 - [Samsung](https://hifimediastore.com/collections/samsung-1)
-  Updated: 2025-10-18T03:59:35Z
+  Updated: 2025-10-18T05:25:32Z
   Total Products: 1096
 - [Tablets Oneplus](https://hifimediastore.com/collections/tablets-oneplus)
   Updated: 2025-10-12T00:12:20Z
   Total Products: 3
 - [Bluetooth](https://hifimediastore.com/collections/bluetooth)
-  Updated: 2025-10-18T03:30:39Z
-  Total Products: 264
+  Updated: 2025-10-18T05:25:32Z
+  Total Products: 266
 - [sbs](https://hifimediastore.com/collections/sbs)
   Updated: 2025-06-22T07:51:40Z
   Total Products: 2
@@ -9212,16 +9212,16 @@
   Updated: 2025-06-22T07:51:40Z
   Total Products: 2
 - [Google](https://hifimediastore.com/collections/google-1)
-  Updated: 2025-10-18T01:18:30Z
+  Updated: 2025-10-18T04:26:28Z
   Total Products: 136
 - [Auriculares Google](https://hifimediastore.com/collections/auriculares-google)
   Updated: 2025-10-13T00:01:21Z
   Total Products: 13
 - [Auriculares Samsung](https://hifimediastore.com/collections/auriculares-samsung)
-  Updated: 2025-10-18T03:30:39Z
+  Updated: 2025-10-18T05:25:32Z
   Total Products: 14
 - [IVA 21](https://hifimediastore.com/collections/21-iva)
-  Updated: 2025-10-18T03:59:35Z
+  Updated: 2025-10-18T05:25:32Z
   Total Products: 4080
 - [Realme](https://hifimediastore.com/collections/realme-1)
   Updated: 2025-10-18T03:42:30Z
@@ -9278,8 +9278,8 @@
   Updated: 2025-08-31T12:05:21Z
   Total Products: 3
 - [Productos para teléfonos móviles y accesorios](https://hifimediastore.com/collections/all): Hi-Fi Media Store: Tu tienda online para teléfonos móviles y accesorios de las mejores marcas. Encuentra smartphones, auriculares inalámbricos y con cable, altavoces y una amplia gama de accesorios para complementar tu experiencia móvil. Compra con seguridad y disfruta de una garantía de satisfacción. Visita nuestra tienda online y descubre un mundo de posibilidades para tu teléfono móvil.
-  Updated: 2025-10-18T03:59:35Z
-  Total Products: 5477
+  Updated: 2025-10-18T05:25:32Z
+  Total Products: 5480
 - [Beats](https://hifimediastore.com/collections/beats)
   Updated: 2025-10-11T22:16:14Z
   Total Products: 4
@@ -9293,8 +9293,8 @@
   Updated: 2025-10-10T21:27:13Z
   Total Products: 11
 - [Ultimate Search - Do not delete](https://hifimediastore.com/collections/ultimate-search-do-not-delete): Ultimate Search app uses this temporary collection to fetch best selling items.Please do not delete this collection.If you have removed the app, it is safe to remove this collection.
-  Updated: 2025-10-18T03:59:35Z
-  Total Products: 5477
+  Updated: 2025-10-18T05:25:32Z
+  Total Products: 5480
 - [Nubia](https://hifimediastore.com/collections/nubia)
   Updated: 2025-10-11T22:34:25Z
   Total Products: 10
@@ -9305,7 +9305,7 @@
   Updated: 2025-10-11T22:31:50Z
   Total Products: 3
 - [Nothing Tech](https://hifimediastore.com/collections/nothing-tech-1)
-  Updated: 2025-10-17T18:56:25Z
+  Updated: 2025-10-18T04:18:14Z
   Total Products: 33
 - [MARS GAMING](https://hifimediastore.com/collections/mars-gaming-1)
   Updated: 2025-06-22T08:09:42Z
