@@ -8,7 +8,7 @@
 - Timezone: Europe/Sofia
 - Created At: 2023-01-26T07:29:03Z
 - Contact Email: order@zoomagazin.eu
-- Updated At: 2025-10-17T13:51:26.275Z
+- Updated At: 2025-10-18T04:00:28.156Z
 
 [BRAND]
 Нечовешки магазини Д-р Стефанов" е водеща верига зоомагазини в България, лидер в грижата за домашни любимци. Разполагаме с десетки физически обекти в 14 града, както и онлайн магазин с над 30 000 продукта.
@@ -677,8 +677,8 @@
 - [Храни за домашни любимци Rasco Premium - Зоомагазин д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/rasco-premium): Rasco Premium е премиум храна с балансиран състав, насочена към поддържане на отлично здраве и блестяща козина. Купете храна, която любимецът ви заслужава!
   Updated: 2025-10-16T20:49:46Z
   Total Products: 23
-- [Rasco Premium Dog](https://pni-drstefanov-bg.myshopify.com/collections/rasco-premium-dog)
-  Updated: 2025-10-16T20:49:46Z
+- [Лакомства за домашни любимци Rasco](https://pni-drstefanov-bg.myshopify.com/collections/rasco-premium-dog): Вкусни и полезни лакомства Rasco, допълващи диетата и подпомагащи здравето на вашия любимец. Изберете още сега и направете поръчка!
+  Updated: 2025-10-17T13:56:11Z
   Total Products: 13
 - [Rasco Premium Cat](https://pni-drstefanov-bg.myshopify.com/collections/rasco-premium-cat)
   Updated: 2025-10-16T20:49:46Z
@@ -716,8 +716,8 @@
 - [Продукти за котки Flamingo - Зоомагазин д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/flamingo-cat): Flamingo предлага всичко за вашата котка - от драскалки и легла до играчки и тоалетни. Осигурете комфорт и забавление на котката си като поръчате сега.
   Updated: 2025-10-17T09:04:26Z
   Total Products: 113
-- [Lilys Kitchen](https://pni-drstefanov-bg.myshopify.com/collections/lilys-kitchen-1)
-  Updated: 2025-10-16T20:49:46Z
+- [Храни и лакомства за домашни любимци Lilly's Kitchen](https://pni-drstefanov-bg.myshopify.com/collections/lilys-kitchen-1): Продукти Lilly's Kitchen, известни с натурални, вкусни и здравословни рецепти, приготвени с истински продукти. Поръчайте още днес!
+  Updated: 2025-10-17T13:57:21Z
   Total Products: 66
 - [Lilys Kitchen Dog](https://pni-drstefanov-bg.myshopify.com/collections/lilys-kitchen-dog)
   Updated: 2025-10-16T20:49:46Z
@@ -755,8 +755,8 @@
 - [Brit Premium by Nature Cats](https://pni-drstefanov-bg.myshopify.com/collections/brit-premium-by-nature-cats)
   Updated: 2025-10-17T07:54:56Z
   Total Products: 39
-- [Brit Animals](https://pni-drstefanov-bg.myshopify.com/collections/brit-animals)
-  Updated: 2025-10-16T20:49:47Z
+- [Храни за гризачи Brit](https://pni-drstefanov-bg.myshopify.com/collections/brit-animals): Специализирана храна Brit за гризачи, богата на витамини и фибри за дълъг и здравословен живот. Изберете подходящата храна сега.
+  Updated: 2025-10-17T13:59:28Z
   Total Products: 9
 - [Храни и лакомства за домашни любимци Carnilove - Зоомагазин д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/carnilove): Carnilove е храна, базирана на дивата природа, с високо съдържание на месо и без зърнени култури. Открийте пълноценна храна и неустоими лакомства!
   Updated: 2025-10-16T20:49:47Z
@@ -767,8 +767,8 @@
 - [Carnilove Cat](https://pni-drstefanov-bg.myshopify.com/collections/carnilove-cat)
   Updated: 2025-10-16T20:49:47Z
   Total Products: 27
-- [Храни за домашни любимци Oak's Farm - Зоомагазин д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/oaks-farm): Oak's Farm предлага суперпремиум храна с високо съдържание на прясно месо и природни екстракти. Пазарувайте от Зоомагазин д-р Стефанов!
-  Updated: 2025-10-17T08:46:41Z
+- [Храни за домашни любимци Oak's Farm](https://pni-drstefanov-bg.myshopify.com/collections/oaks-farm): Oak's Farm предлага суперпремиум храна с високо съдържание на прясно месо и природни екстракти. Пазарувайте от Зоомагазин д-р Стефанов!
+  Updated: 2025-10-17T13:58:19Z
   Total Products: 20
 - [Oaks Farm Cat](https://pni-drstefanov-bg.myshopify.com/collections/oaks-farm-cat)
   Updated: 2025-10-16T20:49:47Z
