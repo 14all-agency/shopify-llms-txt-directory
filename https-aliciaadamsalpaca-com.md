@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-06-23T16:52:36Z
 - Contact Email: customerservice@aliciaadamsalpaca.com
-- Updated At: 2025-10-17T20:00:40.576Z
+- Updated At: 2025-10-18T00:00:39.115Z
 
 ## Products
 
@@ -3957,7 +3957,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/AA116-224DavosScarfPowder.png?v=1758899635
     Price: $225.00 USD
 - [Buy Davos Hat | Luxury Alpaca Knit Hat | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/davos-hat): buy davos hat, luxury alpaca knit hat at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-10-16T13:27:57Z
+  Updated: 2025-10-17T20:06:48Z
   Vendor: alicia adams alpaca
   Product Type: Hats & Beanies
   Availability: Available
@@ -5319,7 +5319,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-spray_1.jpg?v=1749208121
     Price: $68.00 USD
 - [Buy Canyon Throw | Luxury Alpaca Throws | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/canyon-throw): Buy Canyon Throw, luxury alpaca Throws at alicia adams alpaca. Earn Rewards. Shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-10-17T19:55:55Z
+  Updated: 2025-10-17T23:50:20Z
   Vendor: alicia adams alpaca
   Product Type: Blankets & Throws
   Availability: Available
@@ -5384,10 +5384,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114S-27-CanyonThrow-Navy-white-web.jpg?v=1759498517
     Price: $150.00 USD
-  - [Light Grey](https://aliciaadamsalpaca.com/products/canyon-throw?variant=40826850574451)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114S-12-CanyonThrow-LightGrey-white-web.jpg?v=1759498517
-    Price: $150.00 USD
   - [Charcoal / Cognac / Taupe](https://aliciaadamsalpaca.com/products/canyon-throw?variant=40826850771059)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-16-10-04-CanyonThrow-Charcoal-Cognac-Taupe-white-web.jpg?v=1760461249
@@ -5395,6 +5391,10 @@
   - [Forest Green / Charcoal / Light Taupe](https://aliciaadamsalpaca.com/products/canyon-throw?variant=53498047594868)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114-89-16-102-CanyonThrow-Hunter-Charcoal-LightTaupe-white-web.jpg?v=1759498741
+    Price: $150.00 USD
+  - [Light Grey](https://aliciaadamsalpaca.com/products/canyon-throw?variant=40826850574451)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH114S-12-CanyonThrow-LightGrey-white-web.jpg?v=1759498517
     Price: $150.00 USD
   - [Scarlet](https://aliciaadamsalpaca.com/products/canyon-throw?variant=40826850803827)
     Availability: Not Available
@@ -12324,7 +12324,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-img_1273.jpg?v=1759490287
     Price: $145.00 USD
 - [Buy Gift Wrap | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/gift-wrap): buy gift wrap, luxury alpaca wrapin at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-10-17T19:20:35Z
+  Updated: 2025-10-17T20:06:46Z
   Vendor: wrapin
   Product Type: wrapin
   Availability: Available
