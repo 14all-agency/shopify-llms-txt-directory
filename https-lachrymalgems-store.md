@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-10-03T06:30:37Z
 - Contact Email: mandiemaddox@mystichiddengem.com
-- Updated At: 2025-10-18T08:00:30.610Z
+- Updated At: 2025-10-18T16:00:30.195Z
 
 ## Products
 
@@ -1169,7 +1169,7 @@
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/6903524216527952166_2048.jpg?v=1760658903
     Price: $36.57 USD
 - [Basketball Shorts Men's Occult Sad Satan Vaporwave](https://lachrymalgems.store/products/basketball-shorts-mens-occult-sad-satan-vaporwave): These mens occult sad Satan sport shorts are perfect for those who enjoy a dark and edgy style. Made of 100% moisture-wicking polyester, these shorts are durable and ideal for physical activities. The design gives off a unique vibe and is relevant for those interested in occult aesthetics. Perfect for sports activities, workouts, and casual wear.Product features- 100% Polyester for strength and quick drying- Moisture wicking material keeps you cool during physical activities- Ribbed-knit bottom hems for elasticity and shape retention- Two customizable side-entry pockets for convenience- Standard fit with black detailing and white interiorCare instructions- Do not dryclean- Iron, steam or dry: low heat- Drip dry- Do not bleach- Machine wash: warm (max 30C or 90F) L Waist, in 15.47 Hips, in 23.98 Inseam, in 9.49
-  Updated: 2025-10-18T04:33:43Z
+  Updated: 2025-10-18T15:14:46Z
   Vendor: Printify
   Product Type: All Over Prints
   Availability: Available
@@ -1325,6 +1325,24 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/15382797571737175173_2048.jpg?v=1760760017
     Price: $30.67 USD
+- [Emo Wave Sublimation Socks](https://lachrymalgems.store/products/emo-wave-sublimation-socks): Neon vibrant design emo wave socks for alternative fashion. These crew length socks are perfect to cover up your calf muscles, giving excellent protection and keeping your feet warm. With super soft fleece lining at the bottom and cushioned bottoms, these socks provide both style and comfort. Ideal for those who love alternative fashion and looking to make a bold statement. Perfect for Halloween, music festivals, and everyday wear.Product features- Soft fleece lining for extra comfort- All over print covers entire sock- Available in 3 different sizes- Unisex regular fit- Ribbed tube for secure fitCare instructions- Do not dryclean- Do not iron- Dry flat- Do not bleach- Machine wash: cold (max 30C or 90F) S M L Total Length, in 12.99 15.35 16.14 Width, in 3.94 3.94 3.94 Women's US size 6 - 8 8.5 - 11 11.5 - 13 Men's US size 5 - 6.5 7 - 9.5 10 - 13
+  Updated: 2025-10-18T15:08:51Z
+  Vendor: Printify
+  Product Type: All Over Prints
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/8346601574226317387_2048.jpg?v=1760800087
+  - [S](https://lachrymalgems.store/products/emo-wave-sublimation-socks?variant=47216158998773)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/3756453037890731261_2048.jpg?v=1760800094
+    Price: $11.67 USD
+  - [M](https://lachrymalgems.store/products/emo-wave-sublimation-socks?variant=47216159031541)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/7670246041598638024_2048.jpg?v=1760800091
+    Price: $11.67 USD
+  - [L](https://lachrymalgems.store/products/emo-wave-sublimation-socks?variant=47216159064309)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/8346601574226317387_2048.jpg?v=1760800087
+    Price: $11.67 USD
 
 ## Collections
 
@@ -1335,11 +1353,11 @@
   Updated: 2025-10-17T01:57:21Z
   Total Products: 15
 - [Mens Alt. Style](https://lachrymalgems.store/collections/mens-alt-style): Mens hip hop alternative trends and seasonal outfits.
-  Updated: 2025-10-17T01:57:21Z
-  Total Products: 14
+  Updated: 2025-10-18T13:06:45Z
+  Total Products: 16
 - [Trap-Core Shoes](https://lachrymalgems.store/collections/trap-core-shoes)
-  Updated: 2025-10-17T01:57:21Z
-  Total Products: 4
+  Updated: 2025-10-18T15:07:18Z
+  Total Products: 5
 - [Baggage with Benifiets](https://lachrymalgems.store/collections/baggage-with-benifiets): Carry what matters, drop what doesn't. We all carry something at least make it cute . Match your vibe not your outfit.
   Updated: 2025-10-17T01:57:21Z
   Total Products: 4
