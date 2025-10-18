@@ -6,7 +6,7 @@
 - Timezone: Europe/Bucharest
 - Created At: 2025-10-04T05:09:15Z
 - Contact Email: info@comoripsaltice.ro
-- Updated At: 2025-10-18T08:00:28.100Z
+- Updated At: 2025-10-18T16:00:28.574Z
 
 ## Products
 
@@ -128,7 +128,7 @@
     Author: Florian Mihai Vois
     Tags: Cântări, Partituri psaltice
   - [Sfântul Ierarh Antim Ivireanul – Ctitor de limbă și carte - Comori Psaltice](https://comoripsaltice.ro/blogs/news/sfantul-ierarh-antim-ivireanul-ctitor-de-limba-și-carte): Sfântul Ierarh Antim Ivireanul – Ctitor de limbă și carte - Comori Psaltice
-    Updated: 2025-10-17T15:36:32Z
+    Updated: 2025-10-18T13:24:17Z
     Author: Florian Mihai Vois
     Tags: Studii
   - [Heruvicele lui Constantin Protopsaltul – Sunt acum disponibile - Comori Psaltice](https://comoripsaltice.ro/blogs/news/heruvicele-lui-constantin-protopsaltul-sunt-acum-disponibile): Heruvicele lui Constantin Protopsaltul – Sunt acum disponibile - Comori Psaltice
