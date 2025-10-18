@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2018-01-12T21:20:39Z
 - Contact Email: contact@ma-boutique-henne.com
-- Updated At: 2025-10-18T00:00:41.442Z
+- Updated At: 2025-10-18T04:00:37.800Z
 
 ## Products
 
@@ -1025,7 +1025,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/files/castor-oil-virgin-organic.jpg?v=1688410986
   Price: 9,50 € EUR
 - [Masque Soin Eclat et Brillance aux 11 plantes - Exclusivité Ma Boutique Henné](https://ma-boutique-henne.com/products/masque-soin-eclat-et-brillance-aux-11-plantes-exclusivite-ma-boutique-henne): masque soin éclat et brillance cheveux, 11 herbes, plantes, ayurvédiques, masque, soin capillaire, nourrissant, hydratant, cheveux secs, ternes, cassants, fragilisés, cheveux nourrir, hydrater, doux, brillant, lisse, masque plante, naturel, vegan, bio, neem, ritha, shikakai, tulsi, pellicules, chute, poudre, soigner, henne
-  Updated: 2024-11-15T04:58:47Z
+  Updated: 2025-10-18T01:29:33Z
   Vendor: Ma Boutique Henné
   Product Type: Poudres de soin
   Availability: Available
