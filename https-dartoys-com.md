@@ -6,7 +6,7 @@
 - Timezone: Asia/Kuwait
 - Created At: 2025-09-29T02:15:58Z
 - Contact Email: elitebuzkw@gmail.com
-- Updated At: 2025-10-17T23:21:32.628Z
+- Updated At: 2025-10-18T00:00:35.509Z
 
 ## Products
 
@@ -2812,7 +2812,7 @@
     Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-133756040.png?v=1760250522
     Price: KWD 23.00 KWD
 - [اسكوتر دريفت كهربائي 36 فولت | تسوق الآن من Dartoys](https://dartoys.com/products/اسكوتر-دريفت-شحن-36-فولت-كبير-للأطفال): استمتع بقيادة ممتعة مع اسكوتر دريفت 36 فولت قابل للشحن للأطفال. تصميم قوي وآمن. تسوق الآن من Dartoys واستمتع بالمغامرة!
-  Updated: 2025-10-15T23:17:58Z
+  Updated: 2025-10-17T23:25:28Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
@@ -2826,7 +2826,7 @@
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/29-_-_-_-_-_-_-_-My-Store-133760928.png?v=1760250920
   Price: KWD 25.00 KWD
 - [اسكوتر دريفت كهربائي 36 فولت | تسوق الآن من Dartoys](https://dartoys.com/products/اسكوتر-دريفت-شحن-كبير-36-فولت-للأطفال): اسكوتر دريفت شحن كبير 36 فولت للأطفال ببطارية قوية وتصميم آمن. متعة لا تنتهي! تسوق الآن من Dartoys واستمتع بالمغامرة.
-  Updated: 2025-10-15T23:17:58Z
+  Updated: 2025-10-17T23:26:01Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
@@ -2840,7 +2840,7 @@
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/20-_-_-_-_-_-_-_-_-My-Store-133762886.png?v=1760251482
   Price: KWD 18.00 KWD
 - [اسكوتر دريفت كهربائي صغير للأطفال | تسوق الآن من Dartoys](https://dartoys.com/products/اسكوتر-دريفت-كهربائي-صغير-للأطفال): اسكوتر دريفت صغير للأطفال ببطارية قابلة للشحن وتصميم آمن وممتع. مثالي للهواء الطلق! تسوق الآن من Dartoys.
-  Updated: 2025-10-15T23:17:58Z
+  Updated: 2025-10-17T23:24:59Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
@@ -3164,7 +3164,7 @@
     Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/12-20-_-_-_-_-_-_-My-Store-134405682.png?v=1760280647
     Price: KWD 25.00 KWD
 - [دراجة هوائية 16 بوصة أزرق وأصفر بتصميم رياضي | Dar Toys](https://dartoys.com/products/دراجة-هوائية-16-بوصة-بتصميم-رياضي-ولون-أزرق-وأصفر): دراجة هوائية 16 بوصة باللونين الأزرق والأصفر مع سلة أمامية وتصميم رياضي. احصل على تجربة قيادة ممتعة وآمنة من Dar Toys!
-  Updated: 2025-10-15T23:17:59Z
+  Updated: 2025-10-17T23:59:32Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
@@ -3211,7 +3211,7 @@
     Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/12-_-_-_-_-_-_-_-_-My-Store-136125288.png?v=1760336418
     Price: KWD 18.00 KWD
 - [دراجة هوائية 16/18/20 بوصة حمراء بتصميم رياضي مع سلة خلفية | Dar Toys](https://dartoys.com/products/دراجة-هوائية-16-18-20-بوصة-بتصميم-رياضي-ولون-أحمر): دراجة هوائية 16/18/20 بوصة باللون الأحمر مع تصميم رياضي عصري وسلة خلفية. مثالية للأطفال مع عجلات جانبية لراحة وأمان إضافي. من Dar Toys!
-  Updated: 2025-10-15T23:17:59Z
+  Updated: 2025-10-17T23:58:07Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
@@ -3253,42 +3253,42 @@
     Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/16-18-20-_-_-_-_-_-My-Store-136144286.png?v=1760337389
     Price: KWD 35.00 KWD
 - [دراجة هوائية 24 بوصة أصفر وأزرق مع مظلة وتصميم مميز | Dar Toys](https://dartoys.com/products/دراجة-هوائية-24-بوصة-مع-مظلة-بألوان-زاهية-وتصميم-مميز): دراجة هوائية 24 بوصة بألوان زاهية ومظلة لحماية طفلك من الشمس. توفر الأمان والراحة مع عجلات كبيرة وسلة أمامية. من Dar Toys!
-  Updated: 2025-10-15T23:17:59Z
+  Updated: 2025-10-17T23:57:26Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/24-_-_-_-_-_-_-_-My-Store-136163277.jpg?v=1760338231
   Price: KWD 150.00 KWD
 - [دراجة هوائية 20 بوصة مع مظلة وتصميم عصري لحماية الشمس | Dar Toys](https://dartoys.com/products/دراجة-هوائية-20-بوصة-بتصميم-عصري-مع-مظلة-لحماية-الشمس): دراجة هوائية 20 بوصة مع مظلة لحماية طفلك من الشمس، تصميم عصري وهيكل معدني قوي. مثالية للمغامرات العائلية. احصل عليها الآن من Dar Toys!
-  Updated: 2025-10-15T23:17:59Z
+  Updated: 2025-10-17T23:56:35Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/20-_-_-_-_-_-_-_-My-Store-136170942.jpg?v=1760338551
   Price: KWD 270.00 KWD
 - [دراجة هوائية 24 بوصة مع مظلة لحماية الشمس وتصميم عصري | Dar Toys](https://dartoys.com/products/دراجة-هوائية-24-بوصة-بتصميم-عصري-مع-مظلة-لحماية-الشمس): دراجة هوائية 24 بوصة مع مظلة لحماية الشمس، تصميم عصري وألوان زاهية. توفر راحة وأمان إضافي للأطفال. احصل عليها الآن من Dar Toys!
-  Updated: 2025-10-15T23:17:59Z
+  Updated: 2025-10-17T23:55:47Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/24-_-_-_-_-_-_-_-My-Store-136191066.png?v=1760339187
   Price: KWD 240.00 KWD
 - [دراجة هوائية 20 بوصة لعدة أشخاص مع مظلة لحماية الشمس | Dar Toys](https://dartoys.com/products/دراجة-هوائية-بتصميم-عصري-مع-مظلة-لعدة-أشخاص): دراجة هوائية 20 بوصة لعدة أشخاص مع مظلة لحماية الشمس، مقاعد مريحة وعجلات كبيرة لضمان الاستقرار. مثالية للنزهات الجماعية من Dar Toys!
-  Updated: 2025-10-15T23:17:59Z
+  Updated: 2025-10-17T23:54:19Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-136210050.png?v=1760339666
   Price: KWD 360.00 KWD
 - [دراجة هوائية 20 بوصة لعدة أشخاص مع مظلة لحماية الشمس | Dar Toys](https://dartoys.com/products/دراجة-هوائية-20-بوصة-بتصميم-عصري-مع-مظلة-لعدة-أشخاص): دراجة هوائية 20 بوصة لعدة أشخاص مع مظلة لحماية الشمس، تصميم عصري ومقاعد مريحة. مثالية للنزهات العائلية والجماعية من Dar Toys!
-  Updated: 2025-10-15T23:17:59Z
+  Updated: 2025-10-17T23:53:09Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/20-_-_-_-_-_-_-_-My-Store-136223029.png?v=1760339929
   Price: KWD 460.00 KWD
 - [دراجة هوائية 14/16/18 بوصة أزرق معدني بتصميم رياضي | Dar Toys](https://dartoys.com/products/دراجة-هوائية-14-16-18-بوصة-بتصميم-رياضي-ولون-أزرق-معدني): دراجة هوائية 14/16/18 بوصة بألوان جريئة وتصميم مستوحى من شخصيات الألعاب مع سلة أمامية وعجلات جانبية. من Dar Toys!
-  Updated: 2025-10-15T23:18:00Z
+  Updated: 2025-10-17T23:51:34Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
@@ -3330,7 +3330,7 @@
     Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/14-16-18-_-_-_-_-_-_-My-Store-136257775.png?v=1760340466
     Price: KWD 21.00 KWD
 - [دراجة هوائية 14/18 بوصة للأطفال بتصميم رياضي وألوان معدنية | Dar Toys](https://dartoys.com/products/دراجة-هوائية-للأطفال-بأحجام-14-و18-بوصة-بتصميم-رياضي-وألوان-معدنية-جذابة): دراجة هوائية 14/18 بوصة للأطفال بألوان معدنية جذابة وتصميم رياضي مع عجلات جانبية ومصباح أمامي لمزيد من الأمان. من Dar Toys!
-  Updated: 2025-10-15T23:18:00Z
+  Updated: 2025-10-17T23:50:51Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
@@ -3374,7 +3374,7 @@
     Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/20-_-_-_-_-_-_-_-My-Store-136318050.png?v=1760341741
     Price: KWD 25.00 KWD
 - [دراجة هوائية 16 بوصة حمراء بتصميم رياضي ومصباح أمامي | Dar Toys](https://dartoys.com/products/دراجة-هوائية-16-بوصة-بتصميم-رياضي-ولون-أحمر): دراجة هوائية 16 بوصة باللون الأحمر مع تصميم رياضي، عجلات جانبية، ومصباح أمامي لزيادة الأمان. احصل عليها الآن من Dar Toys!
-  Updated: 2025-10-15T23:18:00Z
+  Updated: 2025-10-17T23:49:41Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
@@ -4395,40 +4395,40 @@
 ## Collections
 
 - [أثاث الأطفال - تشكيلات مميزة وراحة لا مثيل لها](https://dartoys.com/collections/مجموعة-أثاث-الأطفال-والرضع): اكتشف تشكيلات أثاث الأطفال والرضع المريحة والآمنة. تصميمات رائعة تناسب كل الأذواق.
-  Updated: 2025-10-17T23:08:41Z
-  Total Products: 76
+  Updated: 2025-10-17T23:25:25Z
+  Total Products: 75
 - [العاب ومستلزمات الحضانات والمدارس - Dar Toys || متجر دار تويز للألعاب](https://dartoys.com/collections/العاب-ومستلزمات-الحضانات-والمدارس): - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-12T19:48:07Z
-  Total Products: 165
+  Updated: 2025-10-17T23:25:25Z
+  Total Products: 164
 - [العاب الاطفال الرضع - Dar Toys || متجر دار تويز للألعاب](https://dartoys.com/collections/العاب-الاطفال-الرضع): - Dar Toys || متجر دار تويز للألعاب
   Updated: 2025-10-12T19:46:30Z
   Total Products: 43
 - [الألعاب الرياضية وكرة القدم || توصيل مجاني داخل الكويت - Dar Toys ||](https://dartoys.com/collections/الألعاب-الرياضية-وكرة-القدم-توصيل-مجاني-داخل-الكويت): - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-15T06:53:31Z
+  Updated: 2025-10-17T23:59:28Z
   Total Products: 100
 - [ألعاب النشاط - Dar Toys || متجر دار تويز للألعاب](https://dartoys.com/collections/ألعاب-النشاط): - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-15T21:50:12Z
-  Total Products: 246
+  Updated: 2025-10-17T23:59:33Z
+  Total Products: 251
 - [ألعاب خارجية - أفضل معدات اللعب](https://dartoys.com/collections/معدات-اللعب-الخارجية): اكتشف تشكيلة متنوعة من الألعاب الخارجية الممتعة والمناسبة للأطفال. استمتع باللعب في الهواء الطلق مع معدات عالية الجودة.
-  Updated: 2025-10-17T23:07:39Z
-  Total Products: 307
+  Updated: 2025-10-17T23:59:33Z
+  Total Products: 306
 - [أفضل ألعاب أطفال في متجر دار تويز](https://dartoys.com/collections/عروض-متجر-دار-تويز): اكتشف مجموعة مدهشة من ألعاب الأطفال بأسعار تنافسية في متجر دار تويز. تسوق الآن لتحصل على أفضل العروض!
-  Updated: 2025-10-17T23:09:32Z
-  Total Products: 103
+  Updated: 2025-10-17T23:59:33Z
+  Total Products: 105
 - [بيوت لعب الأطفال || العاب آمنه للاطفال || توصيل مجاني داخل الكويت -](https://dartoys.com/collections/بيوت-لعب-الأطفال-العاب-آمنه-للاطفال-توصيل-مجاني-داخل-الكويت): - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-15T06:37:15Z
-  Total Products: 149
+  Updated: 2025-10-17T23:42:56Z
+  Total Products: 136
 - [بقيات شحن وبنزين || توصيل مجاني داخل الكويت - Dar Toys ||](https://dartoys.com/collections/بقيات-كهربائية-شحن-وبنزين-توصيل-مجاني-داخل-الكويت): - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-12T19:47:39Z
-  Total Products: 69
+  Updated: 2025-10-17T23:25:58Z
+  Total Products: 67
 - [العاب شحن سيارات سكوترات || توصيل مجاني في الكويت - Dar Toys || متجر](https://dartoys.com/collections/العاب-شحن-سيارات-سكوترات-توصيل-مجاني-في-الكويت): - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-12T19:47:44Z
-  Total Products: 104
+  Updated: 2025-10-17T23:25:58Z
+  Total Products: 102
 - [سكوترات مميزة من الترا تويز - انطلق بأناقة وثقة! - Dar Toys || متجر](https://dartoys.com/collections/سكوترات-مميزة-من-الترا-تويز-انطلق-بأناقة-وثقة): - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-12T19:47:44Z
-  Total Products: 16
+  Updated: 2025-10-17T23:26:02Z
+  Total Products: 17
 - [دراجات هوائية - مجموعة متنوعة للسوق](https://dartoys.com/collections/مجموعة-الدراجات-الهوائية): اكتشف مجموعة من الدراجات الهوائية المناسبة للمبتدئين والمحترفين. استمتع بتجربة ركوب متميزة.
-  Updated: 2025-10-17T23:08:17Z
+  Updated: 2025-10-17T23:59:33Z
   Total Products: 161
 - [أفضل سيكل كهربائي لعام 2023](https://dartoys.com/collections/سيكل-كهربائي): اكتشف سيكل كهربائي يناسب احتياجاتك اليومية. الخيارات المتاحة، الفوائد، وكيف تختار الأنسب لك.
   Updated: 2025-10-17T23:10:01Z
@@ -4437,10 +4437,10 @@
   Updated: 2025-10-08T20:12:42Z
   Total Products: 6
 - [أفضل المنتجات مبيعا | اكتشف الخيارات المميزة](https://dartoys.com/collections/best-selling-products): استعرض قائمة أفضل المنتجات مبيعا التي تلبي احتياجاتك. اكتشف المزيد عن خيارات الشراء المميزة.
-  Updated: 2025-10-17T23:10:35Z
+  Updated: 2025-10-17T23:59:33Z
   Total Products: 469
 - [أحدث المنتجات الجديدة في السوق](https://dartoys.com/collections/newest-products): استكشف أحدث المنتجات المتوفرة في السوق. تجد هنا المعلومات المفيدة حول التكنولوجيا والموضة وغيرها.
-  Updated: 2025-10-17T23:11:13Z
+  Updated: 2025-10-17T23:59:33Z
   Total Products: 469
 - [استمتع مع نطاطيات وزحلاقيات مدهشة](https://dartoys.com/collections/نطاطيات-وزحلاقيات): اكتشف عالم النطاطيات والزحلاقيات المليء بالمرح والمغامرة. استمتع بتجربة لا تُنسى.
   Updated: 2025-10-17T23:07:21Z
