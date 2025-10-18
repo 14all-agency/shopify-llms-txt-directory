@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-10-18T00:00:40.387Z
+- Updated At: 2025-10-18T16:00:41.401Z
 
 ## Products
 
@@ -1551,7 +1551,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/interleave-toilet-tissue-dispenser-silver-700-sheet-capacity-1-dispenser-toilet-tissue-dispensers-essential-supplies-973431.jpg?v=1719445319
   Price: $68.00 NZD
 - [Eco Interleave Tissue Dispenser - White, 700 Sheet Capacity - 1 Dispenser](https://essentialsupplies.co.nz/products/eco-interleave-tissue-dispenser-white-700-sheet-capacity-1): Interleave toilet tissue dispensers with a stylish look for any bathroom or workspace environment provide superior practicality and hygiene. Compatible with interleave tissue sheets featuring a cloudy white face covering. Interleave toilet tissue dispenser Sturdy and durable design Hold 700 sheets Colour: White
-  Updated: 2025-01-09T22:24:39Z
+  Updated: 2025-10-18T02:46:12Z
   Vendor: Mattews Packaging
   Product Type: Toilet Tissue Dispensers
   Availability: Available
@@ -3315,7 +3315,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/unwrapped-toilet-tissue-boxed-white-2-ply-400-sheets-4-pack-fsc-mix-48-rolls-household-toilet-tissue-essential-supplies-299209.jpg?v=1719445902
   Price: $67.00 NZD
 - [Urinal Floor Mat - Black, 520mm x 450mm - 10 Pack](https://essentialsupplies.co.nz/products/urinal-floor-mat-black-520mm-x-450mm-10): Urinal floor mats leave your washroom clean, tidy and fresh by eliminating unpleasant malodour and killing bacteria while increasing safety by providing a safe, slip resistant floor covering. Anti splash texture prevents cross contamination outside of the restroom. With a translucent and flexible design these mats are pleasantly apple scented. Colour: Black Pack of 10
-  Updated: 2025-01-08T18:14:51Z
+  Updated: 2025-10-18T09:32:49Z
   Vendor: Mattews Packaging
   Product Type: Urinal Mats
   Availability: Available
@@ -4860,7 +4860,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/scrim-hexagonal-dry-wipes-white-300mm-x-500mm-90-sheets-80gsm-4-rolls-dry-wipes-essential-supplies-305841.jpg?v=1719445791
   Price: $92.00 NZD
 - [Antibacterial Textile Wipes - Blue, 400mm x 400mm, 140gsm - 10 Sheets](https://essentialsupplies.co.nz/products/antibacterial-textile-wipes-blue-400mm-x-400mm-140gsm-10)
-  Updated: 2025-02-14T16:47:07Z
+  Updated: 2025-10-18T08:09:29Z
   Vendor: Mattews Packaging
   Product Type: Textile Dry Wipes
   Availability: Available
@@ -5560,7 +5560,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/automatic-air-freshener-dispenser-white-fits-275ml-cans-1-dispenser-automatic-air-fresheners-essential-supplies-321779.jpg?v=1719444774
   Price: $69.00 NZD
 - [Plastic Insect Swat - Red - 1 Swat](https://essentialsupplies.co.nz/products/plastic-insect-swat-red-1): Plastic insect swats provide a poison free and cost effective insect control solution. Featuring a shatterproof polyethylene head with a large surface area for increased kill rate. With a durable long whip flexible handle.
-  Updated: 2025-01-15T09:49:25Z
+  Updated: 2025-10-18T01:39:08Z
   Vendor: Mattews Packaging
   Product Type: Pest Control
   Availability: Available
@@ -6701,7 +6701,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/mono-directional-filament-tape-clear-48mm-x-50m-x-140mu-filament-tape-essential-supplies-871576.jpg?v=1719445345
   Price: $16.00 NZD
 - [Bi Directional Filament Tape - Clear, 48mm x 50m x 140mu](https://essentialsupplies.co.nz/products/bi-directional-filament-tape-clear-48mm-x-50m-x-140mu-18): Bi directional filament tape has a self adhesive tack reinforced with crossing glass fibres for added strength. Featuring a hot melt rubber adhesive, and strong, low stretch. Ideal for packaging heavy boxes, strapping, and other uses where high performance against breaking is required.
-  Updated: 2025-01-09T21:17:17Z
+  Updated: 2025-10-18T14:12:33Z
   Vendor: Mattews Packaging
   Product Type: Filament Tape
   Availability: Available
@@ -6993,7 +6993,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/danger-asbestos-barrier-tape-yellowblack-75mm-x-50m-x-85mu-12-rolls-barrier-tape-essential-supplies-341262.jpg?v=1719444941
   Price: $99.00 NZD
 - [Danger Asbestos Barrier Tape - Yellow/Black, 75mm x 300m x 85mu - 6 Rolls](https://essentialsupplies.co.nz/products/danger-asbestos-barrier-tape-yellow-black-75mm-x-300m-x-85mu-6): Non adhesive barrier tape is a 100 millimeter, 300 meter tape suitable for using in dangerous situations where caution should be advised. Eye catching yellow or red colours alert people risks and hazards. Ideal for using around the workplace, job sites and hazards at home.
-  Updated: 2025-01-09T07:04:05Z
+  Updated: 2025-10-18T06:59:18Z
   Vendor: Mattews Packaging
   Product Type: Barrier Tape
   Availability: Available
