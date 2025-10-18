@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-10-18T00:01:10.846Z
+- Updated At: 2025-10-18T04:01:09.195Z
 
 ## Products
 
@@ -2543,7 +2543,7 @@ Idade Recomendada: + de 6 anos.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/dc-the-new-batman-adventures-nightwing-235030515-dc-comics-1178693467.jpg?v=1752839289
   Price: 32,50 € EUR
 - [DC The New Batman Adventures -Poison Ivy-](https://brincatoys.pt/products/dc-the-new-batman-adventures-poison-ivy): Figura em PVC não tóxico, flexível, da série The New Batman Adventures com aproximadamente 13 cm.A flexibilidade ds figura permite a adopção de uma variedade de poses de acção.
-  Updated: 2025-10-17T10:28:42Z
+  Updated: 2025-10-18T00:04:23Z
   Vendor: DC Comics
   Product Type: + 3 anos
   Availability: Available
@@ -3209,7 +3209,7 @@ renascer das cinzas.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/figura-masha-e-o-urso-urso-brincatoys-629980423-brincatoys-1178693633.jpg?v=1752816735
   Price: 7,00 € EUR
 - [Conjunto de Figuras Batman: Diversão e Aventura](https://brincatoys.pt/products/conjunto-figuras-batman-the-new-batman-adventures-heroes): Leve para casa os heróis de Gotham com o Conjunto de Figuras Batman: The New Batman Adventures – Heroes Set. Perfeito para colecionadores e fãs! 🎉
-  Updated: 2025-10-17T13:48:06Z
+  Updated: 2025-10-18T00:11:22Z
   Vendor: DC Comics
   Product Type: + 3 anos
   Availability: Available
