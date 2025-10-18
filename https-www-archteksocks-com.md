@@ -10,12 +10,12 @@
 - Contact Email: info@archtek.co
 - Contact Phone: 310-435-9279
 - Address: Soksystem, LLC, 2121 Wilshire Boulevard, Suite 101, Santa Monica California 90403, United States
-- Updated At: 2025-10-17T16:00:29.243Z
+- Updated At: 2025-10-18T04:00:28.331Z
 
 ## Products
 
 - [Arch Support Crew Socks | Compression & Comfort – ArchTek®](https://www.archteksocks.com/products/archtek®-crew-socks): Feel the power of arch support crew socks. Patented 5-layer system + compression offers all-day pain relief. Designed by foot surgeons.
-  Updated: 2025-10-17T13:06:37Z
+  Updated: 2025-10-18T01:30:55Z
   Vendor: ArchTek
   Product Type: 
   Availability: Available
@@ -57,7 +57,7 @@
     Image: https://cdn.shopify.com/s/files/1/2361/9921/files/Crew_Gray_Socks_1080x1080_-_B.png?v=1722990207
     Price: $24.99 USD
 - [Crew Sock Bundle | 5-Layer Arch Support & Compression – ArchTek®](https://www.archteksocks.com/products/crew-socks-bundles): Bundle up on comfort. ArchTek® compression crew socks provide doctor-designed support and long-lasting relief. Save more with packs.
-  Updated: 2025-10-17T13:06:27Z
+  Updated: 2025-10-18T01:50:51Z
   Vendor: ArchTek
   Product Type: 
   Availability: Available
@@ -243,7 +243,7 @@
     Image: https://cdn.shopify.com/s/files/1/2361/9921/files/crew-white2_56af0b8e-3359-4c98-8f92-296973edc96b.jpg?v=1723499021
     Price: $85.99 USD
 - [Quarter Arch Support Socks | Lightweight Compression – ArchTek®](https://www.archteksocks.com/products/quarter-socks): ArchTek® quarter socks with arch support provide compression and cushioning for daily relief. Doctor-engineered for active lifestyles.
-  Updated: 2025-10-17T13:06:21Z
+  Updated: 2025-10-18T03:51:28Z
   Vendor: ArchTek
   Product Type: athletic socks
   Availability: Available
@@ -285,7 +285,7 @@
     Image: https://cdn.shopify.com/s/files/1/2361/9921/files/Quarter_Gray_Socks_1080x1080_-_B_f33d722c-e9c5-4b8e-9e2f-4fa407cb197b.png?v=1740601535
     Price: $24.99 USD
 - [ArchTek® Quarter Socks Bundles](https://www.archteksocks.com/products/quarter-socks-bundles): ArchTek® Athletic Socks feature our patented energy return system and six elements of sock perfection. Exercise with long-lasting comfort, thanks to our patented arch support. Benefits: Patented doctor designed 5 layer arch support system Achilles Protection Flap Foot compression Seamless toe closure Antimicrobial coating Right and Left specific design Fits just above shoe line.Materials: 70% Cotton; 28% Poly; 2% Spandex
-  Updated: 2025-10-17T13:06:14Z
+  Updated: 2025-10-18T01:28:25Z
   Vendor: ArchTek
   Product Type: athletic socks
   Availability: Available
@@ -447,7 +447,7 @@
     Image: https://cdn.shopify.com/s/files/1/2361/9921/files/Quarter_Three_Color_Bundle.jpg?v=1723515237
     Price: $85.99 USD
 - [Compression Socks for Pain Relief | Arch Support by ArchTek®](https://www.archteksocks.com/products/archtek®-compression-socks): ArchTek® Compression Socks feature our patented energy return system and six elements of sock perfection. Exercise with long-lasting comfort, thanks to our patented arch support. Benefits: Patented, Doctor designed 5 layer Arch Support System 15-20 mmHg Patented Achilles Protection System Dynamic Energy Return System Right and Left specific design Materials: 55% Polyester 22% Nylon 17% Cotton 6% Spandex
-  Updated: 2025-10-17T13:06:01Z
+  Updated: 2025-10-18T01:06:16Z
   Vendor: ArchTek
   Product Type: Compression Socks
   Availability: Available
@@ -713,7 +713,7 @@
     Image: https://cdn.shopify.com/s/files/1/2361/9921/files/Ankle_3_Bundles.png?v=1744638010
     Price: $85.99 USD
 - [Dress Socks – Polka Dots | Support & Compression – ArchTek®](https://www.archteksocks.com/products/dress-socks-polka-dots): Add support to your style. ArchTek® dress socks with arch support reduce pain and boost circulation. Designed for comfort and flair.
-  Updated: 2025-10-17T13:01:04Z
+  Updated: 2025-10-18T01:01:28Z
   Vendor: ArchTek
   Product Type: dress socks
   Availability: Available
@@ -757,7 +757,7 @@
     Image: https://cdn.shopify.com/s/files/1/2361/9921/files/dress-black-grey1_d889bf7d-4485-47dd-80ea-b17a4df9e99a.jpg?v=1711652703
     Price: $22.99 USD
 - [Dress Socks – Multi Stripes | Stylish Arch Compression – ArchTek®](https://www.archteksocks.com/products/dress-socks-multi-stripes): Color meets comfort. ArchTek® multi-stripe dress socks with arch support deliver pain relief and fit tailored for professionals.
-  Updated: 2025-10-17T12:59:36Z
+  Updated: 2025-10-18T01:23:25Z
   Vendor: ArchTek
   Product Type: dress socks
   Availability: Available
@@ -837,7 +837,7 @@
     Image: https://cdn.shopify.com/s/files/1/2361/9921/files/IMG_0729.jpg?v=1723596013
     Price: $22.99 USD
 - [Dress Socks – Solid Ribbed | Classic Look Arch Comfort – ArchTek®](https://www.archteksocks.com/products/dress-socks-solid-ribbed): ArchTek® ribbed dress socks offer doctor-designed arch support and leg compression for energy and comfort from boardroom to sidewalk.
-  Updated: 2025-10-17T12:59:28Z
+  Updated: 2025-10-18T01:00:42Z
   Vendor: ArchTek
   Product Type: dress socks
   Availability: Available
@@ -871,7 +871,7 @@
     Image: https://cdn.shopify.com/s/files/1/2361/9921/files/dress-pebble-grey-1_4e5126ae-227d-4e79-9111-bd81de4fc8e1.jpg?v=1723592179
     Price: $22.99 USD
 - [Dress Socks – High Stripes | High Compression Support – ArchTek®](https://www.archteksocks.com/products/dress-socks-high-stripes): Style meets science. ArchTek® high-stripe dress socks support your arch, reduce swelling, and provide cushioned all-day wear.
-  Updated: 2025-10-17T12:59:16Z
+  Updated: 2025-10-18T03:33:48Z
   Vendor: ArchTek
   Product Type: dress socks
   Availability: Available
@@ -915,7 +915,7 @@
     Image: https://cdn.shopify.com/s/files/1/2361/9921/files/dress-bliss_e61ead2e-9ba0-4b87-b33b-c0c4e6e4ecff.jpg?v=1711667010
     Price: $99.99 USD
 - [3-Pack Dress Socks | Stylish Compression & Support – ArchTek®](https://www.archteksocks.com/products/dress-socks-bundles-3-pack): 3-pack of ArchTek® dress socks with arch support. Lightweight, compression-based comfort made to reduce swelling and foot pain.
-  Updated: 2025-10-17T12:59:00Z
+  Updated: 2025-10-18T00:59:28Z
   Vendor: ArchTek
   Product Type: dress socks
   Availability: Available
@@ -1011,7 +1011,7 @@
   Image: https://cdn.shopify.com/s/files/1/2361/9921/files/IMG-0583.jpg?v=1718647615
   Price: $3,660.00 USD
 - [Dress Socks – Two Stripes | Comfort + Arch Support – ArchTek®](https://www.archteksocks.com/products/dress-socks-two-stripes): ArchTek® two-stripe dress socks fuse compression, arch support, and moisture-wicking performance for stylish comfort.
-  Updated: 2025-10-17T12:58:52Z
+  Updated: 2025-10-18T02:43:51Z
   Vendor: ArchTek
   Product Type: dress socks
   Availability: Available
@@ -1053,7 +1053,7 @@
     Image: https://cdn.shopify.com/s/files/1/2361/9921/files/dress-white-blue-red1.jpg?v=1723841771
     Price: $22.99 USD
 - [Sporty Dress Socks Bundles - 3 Pack](https://www.archteksocks.com/products/dress-socks-bundles-3-pack-sporty-stripes): ArchTek® Dress Socks feature our patented energy return system and six elements of sock perfection. Exercise with long-lasting comfort, thanks to our patented arch support. Benefits: Patented doctor designed 5 layer arch support system Dynamic y-strap energy return system Form fitting leg compression Seamless toe closure Antimicrobial coating Right and Left specific design Materials: 62% Cotton; 35% Nylon; 3% Spandex
-  Updated: 2025-10-17T12:58:48Z
+  Updated: 2025-10-18T02:47:19Z
   Vendor: ArchTek
   Product Type: dress socks
   Availability: Available
@@ -1113,7 +1113,7 @@
     Image: https://cdn.shopify.com/s/files/1/2361/9921/files/crew-white2_f17f92e2-cd02-439a-a5aa-f998a56eea82.jpg?v=1711980544
     Price: $24.99 USD
 - [Moisture Wicking Black Nylon Crew - ArchTek®](https://www.archteksocks.com/products/moisture-wicking-black-nylon-crew): Power your stride. ArchTek® black crew socks deliver arch support, compression, and sweat-wicking tech to fuel your movement.
-  Updated: 2025-10-17T12:55:09Z
+  Updated: 2025-10-18T00:55:16Z
   Vendor: ArchTek
   Product Type: 
   Availability: Available
@@ -1131,7 +1131,7 @@
     Image: https://cdn.shopify.com/s/files/1/2361/9921/files/crew-black2_d7fc817c-25e2-482e-bb95-95fdf0be618d.jpg?v=1711980544
     Price: $24.99 USD
 - [Moisture Wicking Crew Socks Bundles - ArchTek®](https://www.archteksocks.com/products/moisture-wicking-crew-socks-bundles): Bundle and breathe. ArchTek® crew sock bundles feature moisture-wicking fabric and patented arch support for all-day performance.
-  Updated: 2025-10-17T12:52:43Z
+  Updated: 2025-10-18T00:55:36Z
   Vendor: ArchTek
   Product Type: 
   Availability: Available
@@ -1245,7 +1245,7 @@
     Image: https://cdn.shopify.com/s/files/1/2361/9921/files/crew-white2_56af0b8e-3359-4c98-8f92-296973edc96b.jpg?v=1723499021
     Price: $85.99 USD
 - [No-Show Arch Support Socks | Hidden Fit – ArchTek®](https://www.archteksocks.com/products/archtek®-no-show-socks): ArchTek® No Show Socks feature our patented arch support system and six elements of sock perfection. Walk with long-lasting comfort, thanks to our patented arch support. Benefits: Patented doctor designed 5 layer arch support system Energy Return System Moisture Wicking Technology Seamless Toe Closure Antimicrobial Material Right and Left Specific Design Materials: 70% Cotton; 27% Nylon; 3% Spandex
-  Updated: 2025-10-17T12:51:01Z
+  Updated: 2025-10-18T02:00:12Z
   Vendor: ArchTek
   Product Type: athletic socks
   Availability: Available
@@ -1287,7 +1287,7 @@
     Image: https://cdn.shopify.com/s/files/1/2361/9921/files/no-show-socks-gry1.jpg?v=1740651716
     Price: $19.99 USD
 - [ArchTek® No Show Socks Bundles](https://www.archteksocks.com/products/archtek®-no-show-socks-bundles): ArchTek® No Show Socks feature our patented energy return system and six elements of sock perfection. Exercise with long-lasting comfort, thanks to our patented arch support. Benefits: Patented Doctor Designed 5 Layer Arch Support System Energy Return System Moisture Wicking Technology Seamless Toe Closure Antimicrobial Material Right and Left specific design Materials: 70% Cotton; 27% Poly; 3% Spandex
-  Updated: 2025-10-17T12:50:06Z
+  Updated: 2025-10-18T00:52:16Z
   Vendor: ArchTek
   Product Type: athletic socks
   Availability: Available
