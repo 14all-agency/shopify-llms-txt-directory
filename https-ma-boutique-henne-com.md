@@ -6,12 +6,12 @@
 - Timezone: Europe/Paris
 - Created At: 2018-01-12T21:20:39Z
 - Contact Email: contact@ma-boutique-henne.com
-- Updated At: 2025-10-17T20:00:38.562Z
+- Updated At: 2025-10-18T00:00:41.442Z
 
 ## Products
 
 - [Henné Blond Doré](https://ma-boutique-henne.com/products/copy-of-henne-dalgerie-100gr): Henné blond doré fait maison pour des reflets blonds / dorés dans les cheveux. Mélange naturel de poudres de plantes, éclaircir naturellement, éclaircissement, camomille, rhapontic, rhubarbe, romarin, henné neutre, cuivré, verge d'or, brune, rousse, coloration plante
-  Updated: 2025-10-16T11:33:56Z
+  Updated: 2025-10-17T22:14:50Z
   Vendor: ma boutique henné
   Product Type: Henné
   Availability: Available
