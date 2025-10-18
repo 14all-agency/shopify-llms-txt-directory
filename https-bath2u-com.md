@@ -6,7 +6,7 @@
 - Timezone: Asia/Kuala_Lumpur
 - Created At: 2022-10-06T05:47:12Z
 - Contact Email: sales@bath2u.com
-- Updated At: 2025-10-17T12:00:34.218Z
+- Updated At: 2025-10-18T04:00:34.427Z
 
 ## Products
 
@@ -1775,7 +1775,7 @@
     Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/SL30ers_White_Set.jpg?v=1675309343
     Price: RM 415.00 MYR
 - [JOVAN SL30e Instant Water Heater](https://bath2u.com/products/jovan-sl30e-instant-water-heater): Innovative Features Sleek and Stylish Casing Double Layer 2K Spray Paint Finish with 2 Colour Options Stepless Electronic Power Control Accessories 5 Spray Showerhead Slim and Chromed Slider Bar Durable, Safe and Hygienic Triple Reinforced Non-Conductive Hose Safety Thermostat with Safety Cut-Out Single Pole EELS System with 10mA sensitivity Splash Proof IP25 Casing SVF Valve With Built-In Filter
-  Updated: 2024-04-18T15:06:38Z
+  Updated: 2025-10-18T01:15:32Z
   Vendor: JOVAN
   Product Type: Instant Water Heater
   Availability: Available
