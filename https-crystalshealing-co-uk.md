@@ -8,7 +8,7 @@
 - Timezone: Europe/London
 - Created At: 2021-01-17T01:03:23Z
 - Contact Email: contact@crystalshealing.co.uk
-- Updated At: 2025-10-18T08:00:38.901Z
+- Updated At: 2025-10-18T12:00:39.009Z
 
 # Crystals Healing — AI-Ready Index
 Welcome to Crystals Healing, your trusted UK-based store for healing crystals and jewelry. This llms.txt file lists all products, collections, blogs, and pages to help AI assistants, search engines, and shopping bots discover and understand our offerings.
@@ -1678,7 +1678,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
     Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/20211210_125756-PhotoRoom_2_b420478e-4878-4d00-aee3-200ee38f29e8.jpg?v=1739738268
     Price: £26.00 GBP
 - [September Birthstone Bracelet - Sapphire Elegance](https://crystalshealing.co.uk/products/september-birthstone-bracelet): Celebrate September with the September Birthstone Bracelet, featuring sapphire for its timeless beauty, wisdom, and calming energy.
-  Updated: 2025-09-25T11:49:35Z
+  Updated: 2025-10-18T10:44:50Z
   Vendor: Crystals Healing
   Product Type: Bracelets
   Availability: Available
@@ -4071,8 +4071,8 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/WhatsAppImage2024-03-13at13.32.45_4768ba0b_1_-min.jpg?v=1749144206
     Price: £35.00 GBP
-- [Ultimate Home Protection & Energy Cleansing Kit – Crystals, Sage, and Tools for Positive Energy](https://crystalshealing.co.uk/products/home-protection-kit): Shield and refresh your space with the Home Protection & Energy Cleansing Kit, crafted to remove negativity and promote peace and positivity. Our Home Protection Kit is designed to provide everything you need for a calm, secure, and energetically balanced space. Combining traditional protection tools with modern energy-clearing essentials, this kit is ideal for those looking to shield their home from negativity, restore harmony, and maintain a peaceful environment. What’s Inside the Home Protection Kit? 4 Black Obsidian Tumblestones – Known as powerful grounding stones, black obsidian shields against negativity, enhances home protection, and fosters emotional balance. Palo Santo Stick – A staple in energy cleansing, this sacred wood clears away negative energy, restores calm, and promotes spiritual tranquility. White Sage Smudge Stick – Used in cleansing rituals, sage is known for purifying energy, making it perfect for space clearing and creating a fresh, welcoming atmosphere. Abalone Shell – A stunning natural container for holding your smudge materials, the shell itself embodies protective energy and emotional healing properties. Black Obsidian Pendulum with Chakra Bracelet – Use the pendulum for insight and guidance, while the chakra bracelet aids in balancing and harmonizing your energy centers. Candle for Light and Positivity – Adds a warm glow and helps set the intention for a peaceful, secure space. Royal Blue Velvet Pouch – Provides a convenient and elegant way to store and protect your kit items. Selenite Stick – Renowned for its powerful cleansing properties, selenite can clear and recharge other crystals, maintaining an energetically clean space. White Feather with Evil Eye Bead – Traditionally used in smudging rituals, the feather helps to disperse sage smoke, and the evil eye bead provides additional protection from harm. How to Use Your Home Protection Kit: Cleanse Your Space – Light the sage or Palo Santo and let the smoke flow through each room, focusing on areas that may feel heavy or stagnant. Place Crystals for Shielding – Position the Black Obsidian stones near entrances, windows, or other key points to guard against negative energy. Use the Feather & Pendulum – Direct the cleansing smoke with the feather and use the pendulum to check energy alignment and receive spiritual insight. Why Choose Our Home Protection Kit? Every item in this kit is carefully selected for its protective, grounding, and balancing properties. Ideal for home, office, or any personal space, this kit is perfect for anyone looking to enhance their well-being, keep negative energy at bay, and create a harmonious atmosphere. FAQs 1. What’s included in the Home Protection Kit?This kit features essential items for cleansing, grounding, and protection, including Black Obsidian stones, a Palo Santo stick, White Sage, Abalone Shell, Black Obsidian Pendulum with Chakra Bracelet, a candle, Selenite Stick, a feather with Evil Eye bead, and a velvet pouch. 2. How do I use the items in this kit?Start by smudging your space with the sage or Palo Santo to clear negative energy. Place the Black Obsidian stones near entryways, use the pendulum for guidance, and keep the evil eye feather for ongoing protection. 3. How often should I cleanse my home with this kit?You can cleanse your space as needed, such as weekly or monthly, or anytime you sense a buildup of negativity. Regular cleansing is beneficial for maintaining a peaceful, energized environment. 4. Can I use this kit in any type of space?Yes, the Home Protection Kit is suitable for any environment, including homes, offices, studios, and personal spaces, where you want to foster a sense of safety and positive energy. 5. What’s the purpose of the Abalone Shell in the kit?The Abalone Shell serves as a beautiful and functional holder for burning sage or Palo Santo. Its protective energy complements the other elements, making it ideal for supporting emotional balance. 6. Who is this Home Protection Kit designed for?This kit is perfect for beginners in energy work as well as experienced practitioners. It’s also an excellent gift for anyone seeking more protection, positivity, and balance in their home.
-  Updated: 2025-10-17T18:14:40Z
+- [Home Protection Kit – Ultimate Energy Cleansing Set](https://crystalshealing.co.uk/products/home-protection-kit): Cleanse and protect your space with our Home Protection Kit – crafted to remove negativity and invite peace, grounding, and positive energy into your home.
+  Updated: 2025-10-18T10:07:08Z
   Vendor: Crystals Healing
   Product Type: crystal kits
   Availability: Available
@@ -4622,8 +4622,8 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/1000032139-Photoroom_33.webp?v=1749659602
     Price: £9.80 GBP
-- [Grounding Bracelet for Men – Strength & Focus](https://crystalshealing.co.uk/products/grounding-bracelet-for-men): Empower your mindset and protect your energy with the Grounding Bracelet for Men Crafted for men who value clarity, confidence, and inner resilience. This handcrafted bracelet features 6 mm beads of Black Onyx and Tiger’s Eye, anchored by a polished rectangular Tiger’s Eye centerpiece for a bold, masculine finish. Known for their grounding and protective properties, these two powerful stones work in harmony to sharpen focus, build confidence, and block negative influences. Key Features: Stones: Natural 6 mm Black Onyx & Tiger’s Eye Centerpiece: Rectangular Tiger’s Eye accent – polished and dominant Design: Strong elastic cord for comfortable daily wear Style: Masculine, minimalist, and energetic Pre-cleansed and energetically charged Crystal Properties: Black Onyx: Encourages strength, discipline, and energetic protection Tiger’s Eye: Enhances focus, confidence, and mental clarity Together, they create balance between grounding and action, ideal for goal-oriented individuals This Grounding Bracelet for Men is more than a statement piece, it’s a wearable ally for determination and energetic strength. Perfect for: entrepreneurs, athletes, leaders, or anyone seeking focused energy with a grounded mindset.
-  Updated: 2025-10-15T18:00:41Z
+- [Grounding Bracelet for Men – Strength & Focus](https://crystalshealing.co.uk/products/grounding-bracelet-for-men): Empower your mindset and protect your energy with the Grounding Bracelet for Men Crafted for men who value clarity, confidence, and inner resilience. This handcrafted bracelet features 6 mm beads of Black Tourmaline and Tiger’s Eye, anchored by a polished rectangular Tiger’s Eye centerpiece for a bold, masculine finish. Known for their grounding and protective properties, these two powerful stones work in harmony to sharpen focus, build confidence, and block negative influences. Key Features: Stones: Natural 6 mm Black Tourmaline & Tiger’s Eye Centerpiece: Rectangular Tiger’s Eye accent – polished and dominant Design: Strong elastic cord for comfortable daily wear Style: Masculine, minimalist, and energetic Pre-cleansed and energetically charged Crystal Properties: Black Tourmaline: Encourages strength, discipline, and energetic protection Tiger’s Eye: Enhances focus, confidence, and mental clarity Together, they create balance between grounding and action, ideal for goal-oriented individuals This Grounding Bracelet for Men is more than a statement piece, it’s a wearable ally for determination and energetic strength. Perfect for: entrepreneurs, athletes, leaders, or anyone seeking focused energy with a grounded mindset.
+  Updated: 2025-10-18T09:44:17Z
   Vendor: Crystals Healing
   Product Type: Bracelets
   Availability: Available
@@ -4792,7 +4792,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
 ## Collections
 
 - [Smudging Kits](https://crystalshealing.co.uk/collections/smudging-kits): Cleanse your space and energy with curated smudging kits. Featuring sage, palo santo, Selenite, crystals & shells — perfect for spiritual rituals, home clearing, or meaningful self-care. Ethically & respectfully sourced.
-  Updated: 2025-10-01T15:00:55Z
+  Updated: 2025-10-18T11:16:43Z
   Total Products: 10
 - [Crystal Pendulums](https://crystalshealing.co.uk/collections/pendulums): Discover crystal pendulums for energy work, divination and spiritual guidance. Ethically made using natural stones – ideal for rituals, healing and intention.
   Updated: 2025-10-01T15:00:55Z
@@ -4819,7 +4819,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
   Updated: 2025-10-01T15:00:55Z
   Total Products: 5
 - [Amethyst Crystals](https://crystalshealing.co.uk/collections/amethyst-crystals): Each piece is crafted with care and carries the natural energy of amethyst. Learn more about its meaning and benefits here.
-  Updated: 2025-10-16T11:19:17Z
+  Updated: 2025-10-18T10:07:38Z
   Total Products: 32
 - [Spa Crystal Sets](https://crystalshealing.co.uk/collections/spa-crystal-sets): Transform your self-care with crystal spa sets. Each bundle blends healing stones, oils, tools or salts — designed to soothe your body, calm your mind, and elevate your ritual with energy and intention.
   Updated: 2025-10-01T15:00:55Z
@@ -4831,7 +4831,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
   Updated: 2025-10-01T15:00:55Z
   Total Products: 49
 - [Aromatherapy Crystals](https://crystalshealing.co.uk/collections/aromatherapy): Combine the power of scent and stone. Our aromatherapy crystals and diffuser jewelry are crafted to enhance relaxation, focus, and energetic balance - ethically made with intention.
-  Updated: 2025-10-01T15:00:56Z
+  Updated: 2025-10-18T11:16:43Z
   Total Products: 27
 - [Birthstone Bracelets](https://crystalshealing.co.uk/collections/birthstone-bracelets): Celebrate your birth month with our healing birthstone bracelets. Each piece is infused with the energy of its matching crystal — from Garnet in January to Turquoise in December. Beautiful, meaningful and perfect for gifting or intention-setting.
   Updated: 2025-10-01T15:00:56Z
@@ -4843,7 +4843,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
   Updated: 2025-10-01T15:00:56Z
   Total Products: 13
 - [Crystal Kits](https://crystalshealing.co.uk/collections/crystal-kits): Explore our crystal kits designed for love, protection, abundance, and self-care. Each set includes hand-selected stones and guidance to support your energy rituals. Ideal for beginners and intentional gifting.
-  Updated: 2025-10-01T15:00:56Z
+  Updated: 2025-10-18T11:16:43Z
   Total Products: 26
 - [Friendship Bracelets](https://crystalshealing.co.uk/collections/friendship-bracelets): Celebrate meaningful bonds with crystal friendship bracelets. Crafted with stones for love, loyalty & connection — like Rose Quartz, Lapis Lazuli & Moonstone — these pieces carry energy, intention and lasting memories.
   Updated: 2025-10-01T15:00:56Z
@@ -4858,7 +4858,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
   Updated: 2025-10-16T11:19:17Z
   Total Products: 227
 - [Manifest Intention Jewelry](https://crystalshealing.co.uk/collections/manifest-intention): Wear your intentions with purpose. Our crystal jewelry is designed to support manifestation, clarity, and alignment - featuring Citrine, Clear Quartz, and other high-vibration stones.
-  Updated: 2025-10-16T11:19:17Z
+  Updated: 2025-10-18T11:16:43Z
   Total Products: 60
 - [Moonstone Crystals](https://crystalshealing.co.uk/collections/moonstone-crystals): Connect to feminine energy and intuition with Moonstone crystals. Explore raw stones, tumbled pieces, bracelets and pendants — perfect for new beginnings, inner balance, and emotional healing.
   Updated: 2025-10-01T15:00:56Z
@@ -4882,7 +4882,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
   Updated: 2025-10-01T15:00:57Z
   Total Products: 21
 - [Protection Crystal Jewelry](https://crystalshealing.co.uk/collections/protection): Discover crystal jewelry crafted for energetic protection. Explore bracelets, necklaces & rings made with Black Tourmaline, Obsidian, Amethyst & more - ethically sourced and intention-infused.
-  Updated: 2025-10-01T15:00:57Z
+  Updated: 2025-10-18T11:16:43Z
   Total Products: 38
 - [Howlite Crystals](https://crystalshealing.co.uk/collections/howlite-crystals): Embrace calm and clarity with Howlite crystals. Known for easing anxiety, improving sleep and soothing an overactive mind. Explore tumbled stones, bracelets and tools for peaceful energy and spiritual stillness.
   Updated: 2025-10-01T15:00:57Z
@@ -4939,8 +4939,8 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
   Updated: 2025-10-01T15:00:59Z
   Total Products: 6
 - [Jewellery Sets](https://crystalshealing.co.uk/collections/jewellery-sets): Explore crystal jewellery sets designed to harmonise energy and style. Featuring matching bracelets, necklaces & earrings — crafted with healing stones like Rose Quartz, Citrine, Amethyst & more. Perfect for gifting or intentional wear.
-  Updated: 2025-10-01T15:00:59Z
-  Total Products: 26
+  Updated: 2025-10-18T11:16:43Z
+  Total Products: 27
 - [Handmade Jewellery](https://crystalshealing.co.uk/collections/handmade-jewellery): Explore handmade jewellery created with care and crystal energy. Every piece is unique, ethically sourced, and spiritually meaningful.
   Updated: 2025-10-16T11:19:17Z
   Total Products: 225
@@ -4993,7 +4993,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
   Updated: 2025-10-01T15:01:01Z
   Total Products: 30
 - [Selenite Crystals](https://crystalshealing.co.uk/collections/selenite-crystals): Discover the purifying power of Selenite crystals. Explore charging plates, wands, towers & jewelry — ideal for cleansing energy, protecting your aura, and amplifying spiritual clarity. Ethically sourced.
-  Updated: 2025-10-01T15:01:01Z
+  Updated: 2025-10-18T11:16:43Z
   Total Products: 22
 - [Polished Tumblestone](https://crystalshealing.co.uk/collections/polished-tumblestone): Explore our ethically sourced tumbled stones - polished to perfection for easy use in rituals, crystal grids, carrying or gifting. Choose by intention, chakra or energy need.
   Updated: 2025-10-15T05:14:13Z
@@ -5002,7 +5002,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
   Updated: 2025-10-11T11:19:02Z
   Total Products: 9
 - [All Crystal Products](https://crystalshealing.co.uk/collections/all): Discover our full range of ethically sourced crystal products – from healing stones to handmade jewelry. Ideal for energy balancing, meditation, and mindful gifting.
-  Updated: 2025-10-16T11:19:17Z
+  Updated: 2025-10-18T11:16:43Z
   Total Products: 373
 - [Essential Oils](https://crystalshealing.co.uk/collections/essential-oils): Discover essential oils crafted for emotional healing, meditation and intention setting. From lavender and frankincense to energizing citrus blends — ethically sourced, pure and perfect for pairing with crystal rituals or self-care.
   Updated: 2025-10-01T15:01:01Z
@@ -5017,7 +5017,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
   Updated: 2025-10-01T15:01:01Z
   Total Products: 14
 - [New Arrivals](https://crystalshealing.co.uk/collections/new-arrivals): Discover our latest arrivals – ethically sourced crystals, handmade jewelry, and healing tools. Fresh designs added regularly to inspire your energy journey.
-  Updated: 2025-10-16T11:19:17Z
+  Updated: 2025-10-18T11:16:43Z
   Total Products: 372
 - [Sacred Imperfections](https://crystalshealing.co.uk/collections/sacred-imperfections): Crystals with small flaws and big energy. Sacred Imperfections offer healing, meaning, and sustainability – at a better price.
   Updated: 2025-10-01T15:01:02Z
