@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2023-03-22T10:49:51Z
 - Contact Email: onlineshop@lastradafashion.de
-- Updated At: 2025-10-17T20:00:57.315Z
+- Updated At: 2025-10-18T00:00:56.594Z
 
 La Strada is love for Italian Fashion. Our collections represents the latest fashion trends from Italy and is lovingly created and arranged for the modern fashionable woman who is looking for the newest trends, the best quality and best price. 
 
@@ -976,7 +976,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/grosse-blumen-brosche-la-strada-9.jpg?v=1719331925
     Price: 12,00 € EUR
 - [Oberteil mit Fledermausärmeln](https://lastradafashion.de/products/oberteil-mit-fledermaus-armel): Dieses Oberteil ist aus einem leichten, angenehmen Stoff gefertigt und umschmeichelt sanft die Figur. Der V-Ausschnitt sorgt für ein feminines Dekolleté und die kurzen Fledermausärmel verleihen dem Oberteil einen trendigen Touch. Durch den lockeren Schnitt ist das Oberteil besonders bequem und perfekt für den Alltag geeignet. Dank seiner schlichten Eleganz lässt sich das Basic-Oberteil vielfältig kombinieren – ob lässig zur Jeans und Sneakern oder schick zur Stoffhose und Pumps, es passt zu jedem Style. Ein absolutes Must-Have für jede Garderobe! Egal ob im Büro, beim Shopping oder beim entspannten Treffen mit Freunden, mit diesem Oberteil liegen Sie immer richtig. MARKE - La Strada PASSFORM UND SCHNITT - One Size (von Größen 36 bis 42), Passgenauigkeit - Passgenau - normal geschnitten, lockerer Schnitt - V-Ausschnitt, Fledermausärmel, kurzer Arm MATERIAL UND VERARBEITUNG - Muster: Unifarben - Materialmix: 95% Viskose 5% Elastan - Materialqualität: leichtes Material, elastisches Material PFLEGEHINWEIS - Maschinenwäsche bis 30°C, Nicht Trockner geeignet, Bügeln mit niedriger Temperatur (max. 110°C, kein Dampf), Bleichen nicht erlaubt MODEL - Das Model ist 174cm groß und trägt Konfektionsgröße 36 bzw. S
-  Updated: 2025-10-15T13:12:48Z
+  Updated: 2025-10-17T22:12:11Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
