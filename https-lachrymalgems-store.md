@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-10-03T06:30:37Z
 - Contact Email: mandiemaddox@mystichiddengem.com
-- Updated At: 2025-10-17T12:00:30.991Z
+- Updated At: 2025-10-18T08:00:30.610Z
 
 ## Products
 
@@ -1168,6 +1168,163 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/6903524216527952166_2048.jpg?v=1760658903
     Price: $36.57 USD
+- [Basketball Shorts Men's Occult Sad Satan Vaporwave](https://lachrymalgems.store/products/basketball-shorts-mens-occult-sad-satan-vaporwave): These mens occult sad Satan sport shorts are perfect for those who enjoy a dark and edgy style. Made of 100% moisture-wicking polyester, these shorts are durable and ideal for physical activities. The design gives off a unique vibe and is relevant for those interested in occult aesthetics. Perfect for sports activities, workouts, and casual wear.Product features- 100% Polyester for strength and quick drying- Moisture wicking material keeps you cool during physical activities- Ribbed-knit bottom hems for elasticity and shape retention- Two customizable side-entry pockets for convenience- Standard fit with black detailing and white interiorCare instructions- Do not dryclean- Iron, steam or dry: low heat- Drip dry- Do not bleach- Machine wash: warm (max 30C or 90F) L Waist, in 15.47 Hips, in 23.98 Inseam, in 9.49
+  Updated: 2025-10-18T04:33:43Z
+  Vendor: Printify
+  Product Type: All Over Prints
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/11323999475276821832_2048.jpg?v=1760757281
+  Price: $56.37 USD
+- [Mens Tank Shirt Neon Aesthetic Mens Lachrymal Gems Alternative](https://lachrymalgems.store/products/mens-tank-shirt-neon-aesthetic-mens-lachrymal-gems-alternative): This Mens Lachrymal Gems tank shirt exudes an Alternative Neon aesthetic, perfect for any occasion. Made of 100% cotton, this light fabric tank offers comfort and style. With its retail fit and tear-away label, this tank runs true to size, suitable for adults.Product features- 100% Airlume combed and ring-spun cotton- Light fabric (4.2 oz/yd² (142 g/m²))- Retail fit- Tear-away label- Meets flammability level requirementsCare instructions- Machine wash: warm (max 40C or 105F)- Non-chlorine: bleach as needed- Tumble dry: medium- Iron, steam or dry: medium heat- Do not dryclean XS S M L XL 2XL Width, in 16.26 18.23 20.24 22.24 24.25 26.22 Length, in 25.98 26.97 27.99 28.98 30.00 30.98 Arm opening, in 9.50 10.12 10.75 11.63 12.50 13.37 Size tolerance, in 1.00 1.00 1.00 1.00 1.00 1.00
+  Updated: 2025-10-18T07:13:32Z
+  Vendor: Printify
+  Product Type: Tank Top
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/14128676757780680888_2048.jpg?v=1760759956
+  - [XS / Black](https://lachrymalgems.store/products/mens-tank-shirt-neon-aesthetic-mens-lachrymal-gems-alternative?variant=47214293385461)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/14128676757780680888_2048.jpg?v=1760759956
+    Price: $28.32 USD
+  - [XS / Dark Grey](https://lachrymalgems.store/products/mens-tank-shirt-neon-aesthetic-mens-lachrymal-gems-alternative?variant=47214293418229)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/1479397620717593123_2048.jpg?v=1760759971
+    Price: $28.32 USD
+  - [XS / Kelly](https://lachrymalgems.store/products/mens-tank-shirt-neon-aesthetic-mens-lachrymal-gems-alternative?variant=47214293450997)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/12431962119413912709_2048.jpg?v=1760759997
+    Price: $28.32 USD
+  - [XS / Leaf](https://lachrymalgems.store/products/mens-tank-shirt-neon-aesthetic-mens-lachrymal-gems-alternative?variant=47214293483765)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/1720330856235518313_2048.jpg?v=1760759989
+    Price: $28.32 USD
+  - [XS / Red](https://lachrymalgems.store/products/mens-tank-shirt-neon-aesthetic-mens-lachrymal-gems-alternative?variant=47214293516533)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/17500148335514824991_2048.jpg?v=1760760038
+    Price: $28.32 USD
+  - [XS / True Royal](https://lachrymalgems.store/products/mens-tank-shirt-neon-aesthetic-mens-lachrymal-gems-alternative?variant=47214293549301)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/8874251193595479054_2048.jpg?v=1760760006
+    Price: $28.32 USD
+  - [XS / Navy](https://lachrymalgems.store/products/mens-tank-shirt-neon-aesthetic-mens-lachrymal-gems-alternative?variant=47214293582069)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/15382797571737175173_2048.jpg?v=1760760017
+    Price: $28.32 USD
+  - [S / Black](https://lachrymalgems.store/products/mens-tank-shirt-neon-aesthetic-mens-lachrymal-gems-alternative?variant=47214293614837)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/14128676757780680888_2048.jpg?v=1760759956
+    Price: $28.32 USD
+  - [S / Dark Grey](https://lachrymalgems.store/products/mens-tank-shirt-neon-aesthetic-mens-lachrymal-gems-alternative?variant=47214293647605)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/1479397620717593123_2048.jpg?v=1760759971
+    Price: $28.32 USD
+  - [S / Kelly](https://lachrymalgems.store/products/mens-tank-shirt-neon-aesthetic-mens-lachrymal-gems-alternative?variant=47214293680373)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/12431962119413912709_2048.jpg?v=1760759997
+    Price: $28.32 USD
+  - [S / Leaf](https://lachrymalgems.store/products/mens-tank-shirt-neon-aesthetic-mens-lachrymal-gems-alternative?variant=47214293713141)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/1720330856235518313_2048.jpg?v=1760759989
+    Price: $28.32 USD
+  - [S / Red](https://lachrymalgems.store/products/mens-tank-shirt-neon-aesthetic-mens-lachrymal-gems-alternative?variant=47214293745909)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/17500148335514824991_2048.jpg?v=1760760038
+    Price: $28.32 USD
+  - [S / True Royal](https://lachrymalgems.store/products/mens-tank-shirt-neon-aesthetic-mens-lachrymal-gems-alternative?variant=47214293778677)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/8874251193595479054_2048.jpg?v=1760760006
+    Price: $28.32 USD
+  - [S / Navy](https://lachrymalgems.store/products/mens-tank-shirt-neon-aesthetic-mens-lachrymal-gems-alternative?variant=47214293811445)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/15382797571737175173_2048.jpg?v=1760760017
+    Price: $28.32 USD
+  - [M / Black](https://lachrymalgems.store/products/mens-tank-shirt-neon-aesthetic-mens-lachrymal-gems-alternative?variant=47214293844213)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/14128676757780680888_2048.jpg?v=1760759956
+    Price: $28.32 USD
+  - [M / Dark Grey](https://lachrymalgems.store/products/mens-tank-shirt-neon-aesthetic-mens-lachrymal-gems-alternative?variant=47214293876981)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/1479397620717593123_2048.jpg?v=1760759971
+    Price: $28.32 USD
+  - [M / Leaf](https://lachrymalgems.store/products/mens-tank-shirt-neon-aesthetic-mens-lachrymal-gems-alternative?variant=47214293909749)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/1720330856235518313_2048.jpg?v=1760759989
+    Price: $28.32 USD
+  - [M / Red](https://lachrymalgems.store/products/mens-tank-shirt-neon-aesthetic-mens-lachrymal-gems-alternative?variant=47214293942517)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/17500148335514824991_2048.jpg?v=1760760038
+    Price: $28.32 USD
+  - [M / True Royal](https://lachrymalgems.store/products/mens-tank-shirt-neon-aesthetic-mens-lachrymal-gems-alternative?variant=47214293975285)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/8874251193595479054_2048.jpg?v=1760760006
+    Price: $28.32 USD
+  - [M / Navy](https://lachrymalgems.store/products/mens-tank-shirt-neon-aesthetic-mens-lachrymal-gems-alternative?variant=47214294008053)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/15382797571737175173_2048.jpg?v=1760760017
+    Price: $28.32 USD
+  - [L / Black](https://lachrymalgems.store/products/mens-tank-shirt-neon-aesthetic-mens-lachrymal-gems-alternative?variant=47214294040821)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/14128676757780680888_2048.jpg?v=1760759956
+    Price: $28.32 USD
+  - [L / Dark Grey](https://lachrymalgems.store/products/mens-tank-shirt-neon-aesthetic-mens-lachrymal-gems-alternative?variant=47214294073589)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/1479397620717593123_2048.jpg?v=1760759971
+    Price: $28.32 USD
+  - [L / Red](https://lachrymalgems.store/products/mens-tank-shirt-neon-aesthetic-mens-lachrymal-gems-alternative?variant=47214294106357)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/17500148335514824991_2048.jpg?v=1760760038
+    Price: $28.32 USD
+  - [L / White](https://lachrymalgems.store/products/mens-tank-shirt-neon-aesthetic-mens-lachrymal-gems-alternative?variant=47214294139125)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/10800746592984153345_2048.jpg?v=1760759964
+    Price: $28.32 USD
+  - [L / True Royal](https://lachrymalgems.store/products/mens-tank-shirt-neon-aesthetic-mens-lachrymal-gems-alternative?variant=47214294171893)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/8874251193595479054_2048.jpg?v=1760760006
+    Price: $28.32 USD
+  - [L / Navy](https://lachrymalgems.store/products/mens-tank-shirt-neon-aesthetic-mens-lachrymal-gems-alternative?variant=47214294204661)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/15382797571737175173_2048.jpg?v=1760760017
+    Price: $28.32 USD
+  - [XL / Black](https://lachrymalgems.store/products/mens-tank-shirt-neon-aesthetic-mens-lachrymal-gems-alternative?variant=47214294237429)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/14128676757780680888_2048.jpg?v=1760759956
+    Price: $28.32 USD
+  - [XL / Dark Grey](https://lachrymalgems.store/products/mens-tank-shirt-neon-aesthetic-mens-lachrymal-gems-alternative?variant=47214294270197)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/1479397620717593123_2048.jpg?v=1760759971
+    Price: $28.32 USD
+  - [XL / Red](https://lachrymalgems.store/products/mens-tank-shirt-neon-aesthetic-mens-lachrymal-gems-alternative?variant=47214294302965)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/17500148335514824991_2048.jpg?v=1760760038
+    Price: $28.32 USD
+  - [XL / True Royal](https://lachrymalgems.store/products/mens-tank-shirt-neon-aesthetic-mens-lachrymal-gems-alternative?variant=47214294335733)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/8874251193595479054_2048.jpg?v=1760760006
+    Price: $28.32 USD
+  - [XL / Navy](https://lachrymalgems.store/products/mens-tank-shirt-neon-aesthetic-mens-lachrymal-gems-alternative?variant=47214294368501)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/15382797571737175173_2048.jpg?v=1760760017
+    Price: $28.32 USD
+  - [2XL / Black](https://lachrymalgems.store/products/mens-tank-shirt-neon-aesthetic-mens-lachrymal-gems-alternative?variant=47214294401269)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/14128676757780680888_2048.jpg?v=1760759956
+    Price: $30.67 USD
+  - [2XL / Dark Grey](https://lachrymalgems.store/products/mens-tank-shirt-neon-aesthetic-mens-lachrymal-gems-alternative?variant=47214294434037)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/1479397620717593123_2048.jpg?v=1760759971
+    Price: $30.67 USD
+  - [2XL / Red](https://lachrymalgems.store/products/mens-tank-shirt-neon-aesthetic-mens-lachrymal-gems-alternative?variant=47214294466805)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/17500148335514824991_2048.jpg?v=1760760038
+    Price: $30.67 USD
+  - [2XL / True Royal](https://lachrymalgems.store/products/mens-tank-shirt-neon-aesthetic-mens-lachrymal-gems-alternative?variant=47214294499573)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/8874251193595479054_2048.jpg?v=1760760006
+    Price: $30.67 USD
+  - [2XL / Navy](https://lachrymalgems.store/products/mens-tank-shirt-neon-aesthetic-mens-lachrymal-gems-alternative?variant=47214294532341)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/15382797571737175173_2048.jpg?v=1760760017
+    Price: $30.67 USD
 
 ## Collections
 
@@ -1232,6 +1389,8 @@
   Updated: 2025-10-11T02:58:03Z
 - [Your Vision, Our Design](https://lachrymalgems.store/pages/your-vision-our-design): Dreaming of something truly unique? Or perhaps you have a beloved design that just needs that special touch? Our design team specializes in transfo...
   Updated: 2025-10-12T18:24:44Z
+- [Email Sign Up](https://lachrymalgems.store/pages/email-sign-up): Join Our Mailing List Sign up to receive exclusive updates, special offers, and news about our latest collections. Subscribe
+  Updated: 2025-10-17T22:51:45Z
 
 ## Policies
 
