@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2025-10-18T12:00:53.828Z
+- Updated At: 2025-10-18T16:00:50.886Z
 
 ## Products
 
@@ -859,7 +859,7 @@
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Silver-Moissanite-Tennis-Bracelet-Brinxx-Couture-2353.jpg?v=1709271051
   Price: $250.00 USD
 - [1 Carat Moissanite Heart Ring](https://www.brinxxcouture.com/products/lifelong-journey-1-carat-moissanite-heart-ring): Stunning 1 carat Moissanite heart ring in platinum-plated sterling silver. Comes with certificate of authenticity and limited warranty. Perfect for any occasion.
-  Updated: 2025-10-17T01:20:45Z
+  Updated: 2025-10-18T13:25:39Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -23343,7 +23343,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Notch-Lapel-Woven-Coat-with-Side-Pockets-Brinxx-Couture-2936.jpg?v=1730297108
     Price: $40.00 USD
 - [Cable-Knit Round Neck Sweater Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress): Wrap yourself in cozy comfort and timeless style with our Cable-Knit Round Neck Sweater Dress! Made from soft, high-quality materials.
-  Updated: 2025-10-18T09:11:00Z
+  Updated: 2025-10-18T12:10:41Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -35979,7 +35979,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/WH300025213A.jpg?v=1759501851
     Price: $29.99 USD
 - [Plus Size Surplice Short Sleeve T-Shirt | Brinxx Couture](https://www.brinxxcouture.com/products/plus-size-surplice-short-sleeve-t-shirt): Flattering plus size surplice t-shirt with ruched detailing. Stretchy, comfortable fabric in sizes L-5XL. Perfect for casual wear & layering. Shop now!
-  Updated: 2025-10-07T05:09:36Z
+  Updated: 2025-10-18T14:00:50Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
