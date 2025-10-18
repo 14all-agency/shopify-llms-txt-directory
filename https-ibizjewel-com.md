@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-01-24T04:49:01Z
 - Contact Email: info@ibizjewel.com
-- Updated At: 2025-10-18T12:00:52.753Z
+- Updated At: 2025-10-18T16:00:48.517Z
 
 ## Products
 
@@ -1809,7 +1809,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/SPDR-07_2.jpg?v=1703830705
     Price: $2,809.00 USD
 - [Natural Salt And Pepper 1.70CT Pear Diamond Art Deco Unique Engagement Ring | Handmade Ring | Anniversary Ring](https://ibizjewel.com/products/natural-salt-and-pepper-1-70ct-pear-diamond-art-deco-unique-engagement-ring-handmade-ring-anniversary-ring-1): This Natural Salt And Pepper 1.70CT Pear Diamond Art Deco Unique Engagement Ring is the perfect accompaniment for your special someone. Expertly crafted for a timeless and romantic look, the handmade ring features a captivating pear-shaped center diamond surrounded by exquisite pave-set accents. A truly unique and memorable gift for anniversaries or engagements.
-  Updated: 2025-10-18T10:31:56Z
+  Updated: 2025-10-18T14:02:33Z
   Vendor: Natural Salt And Pepper Diamond Ring
   Product Type: Natural Salt And Pepper Pear Diamond Ring
   Availability: Available
