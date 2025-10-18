@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2025-10-18T08:00:51.524Z
+- Updated At: 2025-10-18T12:00:53.828Z
 
 ## Products
 
@@ -4849,7 +4849,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Fringe-Trim-Wide-Leg-Pants-Brinxx-Couture-5149.jpg?v=1709323049
     Price: $31.00 USD
 - [Rayon Tie-Dye Graphic Beach Cover-Up](https://www.brinxxcouture.com/products/rayon-tie-dye-graphic-beach-cover-up): Beach Cover-Up Rayon Tie-Dye Graphic Print Sunscreen Cardigan. Please use the size guide shown in our pictures. Before choosing a size, please read each element of the size guide carefully. Unique design, classic style, casual and comfortable. It is suitable for outing and leisure. Material composition: 95% polyester, 5% spandex Pattern: Solid Season: Spring-Summer Sleeve type: Dropped shoulder sleeves Style: Bohemia Sleeve length: Sleeveless Size Chart (2)(inch) Size US UK Shoulder Skirt length F 4-12 8-16 41 53
-  Updated: 2025-10-02T17:12:03Z
+  Updated: 2025-10-18T08:28:10Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -8460,7 +8460,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/High-Neck-Long-Sleeve-Ribbed-Top-Brinxx-Couture-6079_ae99505f-4811-4797-bf89-89c3a0f73de1.jpg?v=1736050169
     Price: $25.00 USD
 - [Distressed Raw Hem Denim Jacket - Brinxx Couture](https://www.brinxxcouture.com/products/distressed-raw-hem-denim-jacket): This distressed raw hem denim jacket is the perfect way to make a statement. With its distressed raw hem design, you'll look cool and effortless.
-  Updated: 2025-10-18T06:31:55Z
+  Updated: 2025-10-18T08:30:56Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -10614,7 +10614,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Sport-Tank-and-Leggings-Set-Brinxx-Couture-6482.jpg?v=1709860365
     Price: $30.00 USD
 - [Woven Houndstooth Open Front Cardigan - Brinxx Couture](https://www.brinxxcouture.com/products/woven-houndstooth-open-front-cardigan): Stay warm and stylish with this woven Houndstooth cardigan! Featuring an open front and cozy oversized fit, you'll love the comfort and timeless appeal of this classic cardigan!
-  Updated: 2025-10-17T02:17:45Z
+  Updated: 2025-10-18T08:18:46Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -16100,7 +16100,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/products/Cutout-Mock-Neck-Sleeveless-Dress-Brinxx-Couture-7698.jpg?v=1709885128
     Price: $29.99 USD
 - [Rhinestone Mock Neck Long Sleeve Dress - Brinxx Couture](https://www.brinxxcouture.com/products/rhinestone-mock-neck-long-sleeve-dress): Add some sparkle to your wardrobe with our Rhinestone Mock Neck Long Sleeve Dress! This dress features a trendy mock neck and long sleeves, adorned with dazzling rhinestones. Perfect for any special occasion, it's sure to make you stand out and feel glamorous. Shine on! Sheer: Semi-sheer Stretch: Slightly stretchy Body: Not lined Material composition: 60% viscose, 31% polyamide, 9% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements:S: Bust 29.92 in, Shoulder 13.78 in, Sleeve Length 22.83 in, Waist 26.77 in, HIP 34.65 in, Length 35.63 inM: Bust 32.28 in, Shoulder 14.37 in, Sleeve Length 23.23 in, Waist 29.13 in, HIP 37.01 in, Length 36.42 inL: Bust 34.65 in, Shoulder 14.96 in, Sleeve Length 23.62 in, Waist 31.50 in, HIP 39.37 in, Length 37.20 inXL: Bust 37.80 in, Shoulder 15.94 in, Sleeve Length 24.02 in, Waist 34.65 in, HIP 42.52 in, Length 37.99 in
-  Updated: 2025-10-18T06:11:51Z
+  Updated: 2025-10-18T11:55:06Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -17846,7 +17846,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Slit-Printed-Sleeveless-Midi-Dress-Brinxx-Couture-3868.jpg?v=1721353310
     Price: $29.99 USD
 - [Tied Striped Cap Sleeve Mini Dress](https://www.brinxxcouture.com/products/tied-striped-cap-sleeve-mini-dress): Introducing our Tied Striped Cap Sleeve Mini Dress! Elevate your summer wardrobe with this chic and versatile piece. Crafted with a flattering cap sleeve design and adorned with stylish stripes, this dress is perfect for any occasion, from brunch dates to evenings out. The tie detail adds a touch of flair while accentuating your waistline. Made from high-quality materials, this dress ensures both style and comfort. Pair it with your favorite sandals for a casual look or dress it up with heels for a night on the town. Available now on Brinxx Couture! Size US Bust Length S 4 37.8 33.9 M 6/8 39.4 34.3 L 10/12 41.7 34.6 XL 14 44.1 35 2XL 16 46.5 35.4
-  Updated: 2025-10-01T22:51:50Z
+  Updated: 2025-10-18T08:20:49Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -21796,7 +21796,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Ribbed-Round-Neck-Top-and-Shorts-Set-Brinxx-Couture-1381.jpg?v=1730296298
     Price: $25.00 USD
 - [Tied Pleated Printed Cap Sleeve Dress - Brinxx Couture](https://www.brinxxcouture.com/products/tied-pleated-printed-cap-sleeve-dress): Get ready to take on the day in style with our Tied Pleated Printed Cap Sleeve Dress! This fun and flirty dress feature cap sleeves and a playful, pleated design.
-  Updated: 2025-10-18T06:00:36Z
+  Updated: 2025-10-18T09:00:41Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -23343,7 +23343,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Notch-Lapel-Woven-Coat-with-Side-Pockets-Brinxx-Couture-2936.jpg?v=1730297108
     Price: $40.00 USD
 - [Cable-Knit Round Neck Sweater Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress): Wrap yourself in cozy comfort and timeless style with our Cable-Knit Round Neck Sweater Dress! Made from soft, high-quality materials.
-  Updated: 2025-10-18T06:31:21Z
+  Updated: 2025-10-18T09:11:00Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -23625,7 +23625,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Tied-Printed-Collared-Neck-Long-Sleeve-Jacket-Brinxx-Couture-1412.jpg?v=1730297513
     Price: $39.99 USD
 - [Dolce & Gabbana The One Eau de Parfum for Women | Brinxx Couture](https://www.brinxxcouture.com/products/dolce-gabbana-the-one-eau-de-parfum): Discover the captivating allure of Dolce & Gabbana The One Eau de Parfum for Women. A luxurious blend of bergamot, jasmine, and vanilla in a sleek, golden bottle. Perfect for any occasion.
-  Updated: 2025-08-22T19:25:59Z
+  Updated: 2025-10-18T09:54:30Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -26003,7 +26003,7 @@
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/18K-Gold-Plated-Stainless-Steel-Stud-Earring-Brinxx-Couture-9396.jpg?v=1733888456
   Price: $15.00 USD
 - [Velvet Button Up Long Sleeve Shirt - Brinxx Couture](https://www.brinxxcouture.com/products/button-up-long-sleeve-shirt): Discover the versatility and style of our Velvet Button Up Long Sleeve Shirt! With its classic design and comfortable fit, this shirt is perfect for any occasion.
-  Updated: 2025-10-18T06:40:37Z
+  Updated: 2025-10-18T09:00:42Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -29485,7 +29485,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/8752f6cf5b91414fb0fd06a0dd136a96-Max.jpg?v=1736541194
     Price: $49.99 USD
 - [Stylish Lace-Up Backless Mesh Dress for Prom Night](https://www.brinxxcouture.com/products/stylish-lace-up-backless-mesh-dress): Shop our Stylish Lace-Up Backless Mesh Dress from Brinxx Couture for a unique prom look. Features an elegant lace-up backless design. Limited stock, order now!
-  Updated: 2025-10-14T22:09:26Z
+  Updated: 2025-10-18T11:21:15Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
