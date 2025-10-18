@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-10-17T16:01:12.866Z
+- Updated At: 2025-10-18T00:01:10.846Z
 
 ## Products
 
@@ -930,7 +930,7 @@ Cabeça, braços e pernas de vinil macio, agradável ao toque e de grande qualid
   Price: 39,99 € EUR
 - [Boneca Sweet Baby chorona 42 cm](https://brincatoys.pt/products/boneca-sweet-baby-chorona-42-cm): Linda boneca, de 42 cm, com chupeta e mecanismo de choro.
 Cabeça, braços e pernas de vinil macio, agradável ao toque e de grande qualidade.O corpo de pano enchido com um material macio.
-  Updated: 2025-10-13T06:34:34Z
+  Updated: 2025-10-17T18:10:05Z
   Vendor: Seleção Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -1653,7 +1653,7 @@ melhor amiga, não vai participar e está só a ajudar! Cavalo de plástico e
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/cavalo-pippa-810201122-brincatoys-1178693111.jpg?v=1752832932
   Price: 12,50 € EUR
 - [Cavalo Tara](https://brincatoys.pt/products/cavalo-tara): O lindo cavalo Tara aproveita ao máximo a vida no campo na fazenda. Todos os dias come feno e maçãs crocantes! Além disso, Tara está em boa companhia com os outros animais da fazenda!
-  Updated: 2025-10-15T21:15:40Z
+  Updated: 2025-10-17T21:15:41Z
   Vendor: Seleção Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -2034,7 +2034,7 @@ Cada conjunto inclui:
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/conjunto-de-3-veiculos-retro-40046323-brincatoys-1178693318.jpg?v=1752835923
   Price: 15,99 € EUR
 - [Actividades manuais criativas Cavalos e Diamantes](https://brincatoys.pt/products/conjunto-de-actividades-cavalos-e-diamantes): Desperte a criatividade e a imaginação dos mais pequenos com o conjunto de atividades manuais criativas Cavalos e Diamantes.
-  Updated: 2025-10-13T06:33:30Z
+  Updated: 2025-10-17T16:58:25Z
   Vendor: Seleção Brincatoys
   Product Type: + 5 anos
   Availability: Available
@@ -2389,7 +2389,7 @@ Idade Recomendada: + de 6 anos.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/dalmata-433952925-0095866239527-brincatoys-1178693424.jpg?v=1752838205
   Price: 7,50 € EUR
 - [DC Batman](https://brincatoys.pt/products/dc-batman): Figura em PVC não tóxico, flexível, com aproximadamente 21 cm.A flexibilidade ds figura permite a adopção de uma variedade de poses de acção.
-  Updated: 2025-10-17T10:28:44Z
+  Updated: 2025-10-17T23:58:31Z
   Vendor: DC Comics
   Product Type: + 3 anos
   Availability: Available
@@ -2410,25 +2410,25 @@ Idade Recomendada: + de 6 anos.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/dc-batman-animated-series-jervis-tetch-235030815-dc-comics-1178693430.jpg?v=1752838322
   Price: 32,50 € EUR
 - [DC Batman Arkham Knight](https://brincatoys.pt/products/dc-batman-arkham-knight): Figura em PVC não tóxico, flexível, do jogo Batman Arkham Knight,  com aproximadamente 15 cm.A flexibilidade ds figura permite a adopção de uma variedade de poses de acção.
-  Updated: 2025-10-17T10:28:44Z
+  Updated: 2025-10-17T23:38:03Z
   Vendor: DC Comics
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/dc-batman-arkham-knight-23395216-dc-comics-1178693432.jpg?v=1752838329
   Price: 13,99 € EUR
 - [DC Batman Arkham Knight -Harley Quinn-](https://brincatoys.pt/products/dc-batman-arkham-knight-harley-quinn): Figura em PVC não tóxico, flexível, do jogo Batman Arkham Knight,  com aproximadamente 14 cm.A flexibilidade ds figura permite a adopção de uma variedade de poses de acção.
-  Updated: 2025-10-17T10:28:44Z
+  Updated: 2025-10-17T23:27:24Z
   Vendor: DC Comics
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/dc-batman-arkham-knight-harley-quinn-23395416-dc-comics-1178693434.webp?v=1752838334
   Price: 13,99 € EUR
-- [DC Comics Batman](https://brincatoys.pt/products/dc-comics-batman): Figura em PVC não tóxico, flexível, com aproximadamente 13 cm.A flexibilidade ds figura permite a adopção de uma variedade de poses de acção.
-  Updated: 2025-10-17T10:28:44Z
+- [Figura DC Comics Batman: Aventura e Criatividade](https://brincatoys.pt/products/figura-dc-comics-batman): A figura DC Comics Batman é perfeita para fãs e crianças. Crie poses icónicas e recrie aventuras emocionantes com praticidade! 🦇
+  Updated: 2025-10-17T23:48:05Z
   Vendor: DC Comics
   Product Type: + 3 anos
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/dc-comics-batman-23396116-dc-comics-1178693436.png?v=1752838341
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/figura-dc-comics-batman-aventura-e-criatividade-23396116-0054382039615-dc-comics-1198281893.jpg?v=1760744885
   Price: 13,99 € EUR
 - [DC Comics Mulher Maravilha](https://brincatoys.pt/products/dc-comics-mulher-maravilha): Figura em PVC não tóxico, flexível, com aproximadamente 13 cm.A flexibilidade ds figura permite a adopção de uma variedade de poses de acção.
   Updated: 2025-10-13T06:33:09Z
@@ -2515,28 +2515,28 @@ Idade Recomendada: + de 6 anos.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/dc-green-lantern-bendable-23390416-dc-comics-1178693457.png?v=1752838940
   Price: 10,00 € EUR
 - [DC The New Batman Adventures -Batgirl-](https://brincatoys.pt/products/dc-the-new-batman-adventures-batgirl): Figura em PVC não tóxico, flexível, da série The New Batman Adventures com aproximadamente 13 cm.A flexibilidade ds figura permite a adopção de uma variedade de poses de acção.
-  Updated: 2025-10-17T10:28:42Z
+  Updated: 2025-10-17T23:25:32Z
   Vendor: DC Comics
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/dc-the-new-batman-adventures-batgirl-23394316-dc-comics-1178693459.jpg?v=1752839045
   Price: 10,00 € EUR
 - [DC The New Batman Adventures -Batgirl-](https://brincatoys.pt/products/dc-the-new-batman-adventures-batgirl-1): Coleção animada do Batman com uma figura de 15 cm, Batgirl. Inclui uma variedade d
-  Updated: 2025-10-17T10:28:42Z
+  Updated: 2025-10-17T23:46:51Z
   Vendor: DC Comics
   Product Type: + 14 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/dc-the-new-batman-adventures-batgirl-23033716-dc-comics-1178693461.jpg?v=1752839051
   Price: 32,90 € EUR
 - [DC The New Batman Adventures -Catwoman-](https://brincatoys.pt/products/dc-the-new-batman-adventures-catwoman): Figura em PVC não tóxico, flexível, da série The New Batman Adventures com aproximadamente 13 cm.A flexibilidade ds figura permite a adopção de uma variedade de poses de acção.
-  Updated: 2025-10-17T10:28:42Z
+  Updated: 2025-10-17T23:25:30Z
   Vendor: DC Comics
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/dc-the-new-batman-adventures-catwoman-23394716-dc-comics-1178693463.webp?v=1752839056
   Price: 10,00 € EUR
 - [DC The New Batman Adventures -Nightwing-](https://brincatoys.pt/products/dc-the-new-batman-adventures-nightwing-1): Coleção animada do Batman com uma figura de aproximadamente 15 cm, Nightwing.Inclui uma variedade de acessórios.
-  Updated: 2025-10-17T10:28:42Z
+  Updated: 2025-10-17T23:28:13Z
   Vendor: DC Comics
   Product Type: + 14 anos
   Availability: Available
@@ -2550,7 +2550,7 @@ Idade Recomendada: + de 6 anos.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/dc-the-new-batman-adventures-poison-ivy-23394616-dc-comics-1178693469.jpg?v=1752839295
   Price: 10,00 € EUR
 - [DC The New Batman Adventures -Robin-](https://brincatoys.pt/products/dc-the-new-batman-adventures-robin-1): Figura em PVC não tóxico, flexível, da série The New Batman Adventures com aproximadamente 14 cm.A flexibilidade ds figura permite a adopção de uma variedade de poses de acção.
-  Updated: 2025-10-17T10:28:42Z
+  Updated: 2025-10-17T23:28:53Z
   Vendor: DC Comics
   Product Type: + 3 anos
   Availability: Available
@@ -3216,14 +3216,14 @@ renascer das cinzas.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/conjunto-de-figuras-batman-diversao-e-aventura-23394016-0054382039400-dc-comics-1198229587.jpg?v=1760708886
   Price: 39,90 € EUR
 - [Figuras Batman: The New Batman Adventures Masked Heroes](https://brincatoys.pt/products/figuras-batman-the-new-batman-adventures-masked-heroes): Desperte o herói que existe em você com as Figuras Batman: The New Batman Adventures Masked Heroes. Perfeitas para brincadeiras e colecionar!
-  Updated: 2025-10-17T13:48:10Z
+  Updated: 2025-10-17T23:40:06Z
   Vendor: DC Comics
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/figuras-batman-the-new-batman-adventures-masked-heroes-23395616-0054382039561-dc-comics-1198204570.jpg?v=1760701683
   Price: 39,90 € EUR
 - [Figuras Batman: The New Batman Adventures: Bad Girls](https://brincatoys.pt/products/figuras-batman-the-new-batman-adventures-bad-girls): Conjunto de figuras em PVC não tóxico, flexíveis, da série The New Batman Adventures com aproximadamente 14 cm.A flexibilidade das figuras permite a adopção de uma variedade de poses de ação.  Dimensão: 33 x 19 x 4 cm. Idade recomendada: + de 3 anos.
-  Updated: 2025-10-17T10:28:41Z
+  Updated: 2025-10-17T23:02:28Z
   Vendor: DC Comics
   Product Type: + 3 anos
   Availability: Available
@@ -3417,6 +3417,13 @@ exibir.As listras podem ser giratórias ou descendentes da coluna e geralmente s
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/georges-actividades-278677722-brincatoys-1178693695.png?v=1752843021
   Price: 33,99 € EUR
+- [Girafa](https://brincatoys.pt/products/girafa): O seu pescoço comprido faz com que consiga sempre chegar às árvores mais altas e os outros animais pedem-lhe sempre para lhes dar as folhas mais tenras.  Dimensão: 12,50 x 16,50 x 4,50 cm.Idade Recomendada: + de 3 anos.
+  Updated: 2025-10-17T21:15:41Z
+  Vendor: Seleção Brincatoys
+  Product Type: + 3 anos
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/girafa-810475422-brincatoys-1178693696.jpg?v=1752843241
+  Price: 13,99 € EUR
 - [Girafa bebé](https://brincatoys.pt/products/girafa-bebe): A
  girafa é um vertebrado de grande estatura, que apresenta algumas 
 características incomuns como sejam as oito vértebras cervicais e um 
@@ -5313,7 +5320,7 @@ Provavelmente, a espécie vivente mais próxima é o cachorro-vinagre.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/marvel-legends-black-panther-namour-863799822-marvel-1178694283.jpg?v=1752854043
   Price: 39,99 € EUR
 - [Marvel Legends Series X-Men Marvel`s Darwin](https://brincatoys.pt/products/marvel-legends-series-x-men-marvels-darwin): Fãs, colecionadores e crianças podem desfrutar desta figura Marveel`s Darwin da Marvel com 15 cm, inspirada no personagem da Marvel Comics. Apresenta o traje clássico do personagem, incluindo punhos abertos e fechados alternativos edetalhes e acessórios premium.  Dimensão: 15 x 26,50 x 6 cm.Idade Recomendada: + de 4 anos.
-  Updated: 2025-10-16T23:57:53Z
+  Updated: 2025-10-17T19:56:02Z
   Vendor: Marvel
   Product Type: + 3 anos
   Availability: Available
@@ -5960,6 +5967,13 @@ demais mamíferos, como o facto de pôr ovos, a presença de um ...
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/os-tres-porquinhos-tommy-621249125-4007176124918-brincatoys-1178694508.jpg?v=1752857766
   Price: 7,50 € EUR
+- [Ovelha](https://brincatoys.pt/products/ovelha): A ovelha da Quinta é muito apreciada por todos porque é especialmente fofinha e branca! A sua lã é usada pelos caseiros para fazer camisolas bem quentinhas, luvas e meias para as crianças lá da quinta!  Dimensão:6 x 4 x 4 cm.Idade Recomendada: + de 3 anos.
+  Updated: 2025-10-17T21:15:41Z
+  Vendor: Seleção Brincatoys
+  Product Type: + 3 anos
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/ovelha-810298422-brincatoys-1178694510.jpg?v=1752857773
+  Price: 8,99 € EUR
 - [Ovo chocalho Zebra](https://brincatoys.pt/products/ovo-chocalho-zebra): Ovo chocalho para mãos pequenas com muito ritmo.  Dimensão: 7 x 5 cm.Idade Recomendada: + de 6 meses.
   Updated: 2025-10-13T06:29:39Z
   Vendor: Seleção Brincatoys
@@ -6052,7 +6066,7 @@ por que são cães pastores tão populares.Figura em borracha termoplástica nã
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/pato-colorido-de-empurrar-em-madeira-diversao-e-aprendizagem-26778524-3048700077851-brincatoys-1178694531.jpg?v=1752858132
   Price: 24,90 € EUR
 - [Pato Real](https://brincatoys.pt/products/pato-real): O Pato-Real, facilmente reconhecível pela sua cabeça verde e bico amarelo, está em todo o hemisfério norte, com uma população maior do que qualquer outra espécie de pato. Os patos-reais crescem até quase 2 metros de comprimento e pesam cerca de 1 kg. Figura em borracha termoplástica não tóxica e livre de BPA.  Dimensão: 6,9 x 3,7 x 5 cm. Idade reco
-  Updated: 2025-10-13T06:29:33Z
+  Updated: 2025-10-17T18:14:25Z
   Vendor: Seleção Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -8898,7 +8912,7 @@ dorsais (7, se considerarmos as presentes em cada flanco). A coloração é
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/tatu-436282925-0095866262808-brincatoys-1178695468.jpg?v=1752875526
   Price: 9,99 € EUR
 - [Tigre](https://brincatoys.pt/products/tigre): O tigre é um dos animais que vive no Zoo!  É um sobrevivente e adora viver no Zoo. O seu dia-a-dia é pacato e gosta muito de receber visitas.  Dimensão: 11,50 x 6,50 x 3,00 cm.Idade Recomendada: + de 3 anos.
-  Updated: 2025-10-15T21:15:40Z
+  Updated: 2025-10-17T21:15:41Z
   Vendor: Seleção Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -9373,12 +9387,19 @@ do tempo a caçar no gelo marinho.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/urso-polar-437332923-0095866273309-brincatoys-1178695616.jpg?v=1752807734
   Price: 8,50 € EUR
 - [Urso Polar Bebé](https://brincatoys.pt/products/urso-polar-bebe): O urso polar é um dos animais que vive no Zoo e que está em vias de extinção! O ursinho vive com a sua mãe e foi a mais recente cria a nascer no Zoo.  Dimensão: 6,50 x 4,50 x 3,00 cm.Idade Recomendada: + de 3 anos.
-  Updated: 2025-10-15T21:15:35Z
+  Updated: 2025-10-17T21:15:45Z
   Vendor: Seleção Brincatoys
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/urso-polar-bebe-810544822-brincatoys-1178695617.jpg?v=1752807737
   Price: 8,99 € EUR
+- [Vaca](https://brincatoys.pt/products/vaca): A vaquinha da Quinta é muito necessária! Com o seu casaco branco com manchas cinzentas, é dela que provém o leite que alimenta toda a família da quinta e os amigos quando lá vão. Às vezes também se faz queijo e até manteiga!  Dimensão: 12 x 8,50 x 4,50 cm.Idade Recomendada: + de 3 anos.
+  Updated: 2025-10-17T21:15:41Z
+  Vendor: Seleção Brincatoys
+  Product Type: + 3 anos
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/vaca-810297922-brincatoys-1178695619.webp?v=1752877459
+  Price: 12,99 € EUR
 - [Vaca Aryshire](https://brincatoys.pt/products/vaca-aryshire): Originária de Ayrshire, Escócia, as vacas Ayrshire são uma raça relativamente grande de gado, conhecida por sua dureza, resistência e eficiência na produção de leite.Ao contrário da maioria das raças, as vacas Ayrshire são conhecidas por serem um tanto combativas, teimosas e difíceis.  Figura em borracha termoplástica não tóxica e livre de BPA.  Di
   Updated: 2025-10-13T06:26:09Z
   Vendor: Seleção Brincatoys
@@ -9821,7 +9842,7 @@ do tempo a caçar no gelo marinho.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/zak-storm-e-veiculo-174158518-brincatoys-1178695719.png?v=1752879602
   Price: 12,75 € EUR
 - [Zebra](https://brincatoys.pt/products/zebra-1): Com as suas riscas no pelo, é o animal mais exuberante e é também dos mais simpáticos lá no Zoo! Todos os outros animais gostam muito dela.  Dimensão: 11,50 x 9,50 x 3,00 cm.Idade Recomendada: + de 3 anos.
-  Updated: 2025-10-15T21:15:38Z
+  Updated: 2025-10-17T21:15:41Z
   Vendor: Seleção Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -9943,7 +9964,7 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/3d-optiviewer-11300223-brincatoys-1178695769.webp?v=1752880925
   Price: 16,99 € EUR
 - [Boneco de PVC Urso Lua - Realista e detalhado](https://brincatoys.pt/products/boneco-de-pvc-urso-lua): Este boneco de PVC Urso Lua., feito de material resistente e durável, é um presente ideal para os que apreciam a natureza e os animais.
-  Updated: 2025-10-13T06:25:36Z
+  Updated: 2025-10-17T19:38:10Z
   Vendor: Seleção Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -16477,7 +16498,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/boneco-pvc-my-little-pony-twilight-sparkle-779025424-8412906902548-my-little-pony-1178699848.jpg?v=1752791061
   Price: 8,00 € EUR
 - [Boneco PVC My Little Pony - Fluttershy](https://brincatoys.pt/products/boneco-pvc-my-little-pony-fluttershy): Boneco PVC My Little Pony - Fluttershy - Deixe-se encantar pela fidelidade desta peça coleccionável! Perfeito para presentear e cativar fãs,
-  Updated: 2025-10-13T06:18:31Z
+  Updated: 2025-10-17T16:58:30Z
   Vendor: My Little Pony
   Product Type: + 3 anos
   Availability: Available
@@ -17198,7 +17219,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/five-nights-at-freddy-s-freddy-dourado-com-sala-236492324-0889698649230-five-nights-at-freddy-s-1178700403.jpg?v=1752955340
   Price: 36,99 € EUR
 - [Figura Five Nights at Freddy's - Eclipse](https://brincatoys.pt/products/five-nights-at-freddys-ruin-eclipse): Figura Five Nights at Freddy's - Eclipse, uma peça colecionável com design único e detalhes impressionantes. Ideal para fãs e colecionadores FNAF!
-  Updated: 2025-10-13T06:17:44Z
+  Updated: 2025-10-17T21:27:50Z
   Vendor: Five Nights at Freddy's
   Product Type: + 3 anos
   Availability: Available
@@ -17730,7 +17751,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/miniatura-ferrari-f12-berlinetta-1-24-engenharia-e-design-682600723-8719247331915-bburago-1178697397.jpg?v=1752909369
   Price: 27,50 € EUR
 - [Boneco Ken da Barbie - Dia de Praia | Acessórios Divertidos](https://brincatoys.pt/products/boneco-ken-dia-de-praia): Descubra o Boneco Ken da Barbie - Dia de Praia, completo com acessórios divertidos e roupas modernas. Perfeito para aventuras de verão e horas de diversão!
-  Updated: 2025-10-13T06:17:03Z
+  Updated: 2025-10-17T19:47:03Z
   Vendor: Barbie
   Product Type: + 3 anos
   Availability: Available
@@ -17912,7 +17933,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/autocolantes-para-as-unhas-animais-amigos-594028724-3760301402879-brincatoys-1178700972.jpg?v=1752964334
   Price: 11,99 € EUR
 - [Autocolantes para as unhas - Unicórnio Lily: deal para Crianças](https://brincatoys.pt/products/autocolantes-para-as-unhas-unicornio-lily): Decore as unhas das crianças de forma divertida e criativa com os Autocolantes para Unhas - Unicórnio Lily. Faça a magia acontecer!
-  Updated: 2025-10-13T06:16:51Z
+  Updated: 2025-10-17T18:10:11Z
   Vendor: Seleção Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -19256,7 +19277,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/figura-toy-story-woody-o-heroi-dos-brinquedos-774600325-0194735046003-toy-story-1178701894.jpg?v=1752979091
   Price: 29,99 € EUR
 - [Monster High Boo-riginal Operetta: Boneca Exclusiva](https://brincatoys.pt/products/monster-high-boo-riginal-operetta): Descubra a boneca Monster High Boo-riginal Operetta, uma edição especial com um estilo vintage rockabilly. Perfeita para colecionadores e crianças!
-  Updated: 2025-10-15T09:52:10Z
+  Updated: 2025-10-17T21:07:14Z
   Vendor: Monster High
   Product Type: + 6 anos
   Availability: Available
@@ -20672,7 +20693,7 @@ Figura em borracha termoplástica do filme Branca de neve e os sete anões.Figur
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/conjunto-de-6-figuras-de-banho-542068925-5420071705966-brincatoys-1192457700.jpg?v=1757677808
   Price: 19,99 € EUR
 - [Sonic The Hedgehog - Super Sonic: Figura Articulada 10 cm](https://brincatoys.pt/products/sonic-the-hedgehog-super-sonic): Acelere no mundo de Sonic com a figura Sonic The Hedgehog - Super Sonic! Com 13 pontos de articulação e a Esmeralda-Mestra, ele brilha!
-  Updated: 2025-10-13T06:13:50Z
+  Updated: 2025-10-17T16:15:14Z
   Vendor: Sonic the Hedgehog
   Product Type: + 3 anos
   Availability: Available
@@ -21003,7 +21024,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/mealheiro-dos-smurfs-smurfette-16-cm-para-poupar-238009925-3521320802985-brincatoys-1196092352.jpg?v=1759621805
   Price: 22,50 € EUR
 - [Godzilla x Kong - One-Eye: O Tenente do Skar King](https://brincatoys.pt/products/godzilla-x-kong-one-eye): Prepare-se para intensas batalhas com Godzilla x Kong - One-Eye! Esta figura impressionante traz detalhes incríveis e articulações para poses dinâmicas. 🦖
-  Updated: 2025-10-13T06:13:26Z
+  Updated: 2025-10-17T17:24:42Z
   Vendor: Godzilla vs Kong
   Product Type: + 4 anos
   Availability: Available
@@ -21335,26 +21356,26 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-13T14:58:51Z
   Total Products: 125
 - [Até €15](https://brincatoys.pt/collections/ate-15)
-  Updated: 2025-10-17T11:23:03Z
-  Total Products: 1298
+  Updated: 2025-10-17T21:16:12Z
+  Total Products: 1301
 - [Até €25](https://brincatoys.pt/collections/ate-25)
-  Updated: 2025-10-17T11:23:03Z
-  Total Products: 2404
+  Updated: 2025-10-17T21:16:12Z
+  Total Products: 2407
 - [Até €35](https://brincatoys.pt/collections/ate-35)
-  Updated: 2025-10-17T11:23:03Z
-  Total Products: 2868
+  Updated: 2025-10-17T21:16:12Z
+  Total Products: 2871
 - [Até €50](https://brincatoys.pt/collections/ate-50)
-  Updated: 2025-10-17T11:23:03Z
-  Total Products: 3251
+  Updated: 2025-10-17T21:16:12Z
+  Total Products: 3254
 - [Até €60](https://brincatoys.pt/collections/ate-60)
-  Updated: 2025-10-17T11:23:03Z
-  Total Products: 3386
+  Updated: 2025-10-17T21:16:12Z
+  Total Products: 3389
 - [Até €80](https://brincatoys.pt/collections/ate-80)
-  Updated: 2025-10-17T11:23:03Z
-  Total Products: 3465
+  Updated: 2025-10-17T21:16:12Z
+  Total Products: 3468
 - [Até €100](https://brincatoys.pt/collections/ate-100)
-  Updated: 2025-10-17T11:23:03Z
-  Total Products: 3514
+  Updated: 2025-10-17T21:16:12Z
+  Total Products: 3517
 - [Novidades](https://brincatoys.pt/collections/novidades)
   Updated: 2025-10-17T11:23:03Z
   Total Products: 397
@@ -21545,8 +21566,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-06T17:09:21Z
   Total Products: 9
 - [Catálogo](https://brincatoys.pt/collections/all)
-  Updated: 2025-10-17T11:23:03Z
-  Total Products: 3547
+  Updated: 2025-10-17T21:16:12Z
+  Total Products: 3550
 - [6 - 7 anos](https://brincatoys.pt/collections/6-7-anos)
   Updated: 2025-10-16T20:51:17Z
   Total Products: 285
@@ -21557,8 +21578,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-15T11:21:15Z
   Total Products: 117
 - [+ 3 anos](https://brincatoys.pt/collections/de-3-anos)
-  Updated: 2025-10-17T11:23:03Z
-  Total Products: 1214
+  Updated: 2025-10-17T21:16:12Z
+  Total Products: 1217
 - [+ 4 anos](https://brincatoys.pt/collections/de-4-anos)
   Updated: 2025-10-16T19:26:27Z
   Total Products: 494
@@ -21581,11 +21602,11 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-14T16:29:54Z
   Total Products: 86
 - [Os mais procurados](https://brincatoys.pt/collections/os-mais-populares)
-  Updated: 2025-10-17T11:23:03Z
-  Total Products: 3548
+  Updated: 2025-10-17T21:16:12Z
+  Total Products: 3551
 - [Recém-chegados](https://brincatoys.pt/collections/recem-chegados)
-  Updated: 2025-10-17T11:23:03Z
-  Total Products: 3548
+  Updated: 2025-10-17T21:16:12Z
+  Total Products: 3551
 - [Produtos em destaque](https://brincatoys.pt/collections/produtos-em-destaque)
   Updated: 2025-10-13T12:31:16Z
   Total Products: 22
@@ -21596,8 +21617,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-12T11:21:00Z
   Total Products: 6
 - [OrderlyEmails - Recommended Products](https://brincatoys.pt/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-10-17T11:23:03Z
-  Total Products: 3074
+  Updated: 2025-10-17T21:16:11Z
+  Total Products: 3073
 - [Girafa Sofia](https://brincatoys.pt/collections/girafa-sofia)
   Updated: 2025-10-17T11:23:03Z
   Total Products: 19
@@ -21605,8 +21626,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-16T11:21:15Z
   Total Products: 126
 - [Marketplace](https://brincatoys.pt/collections/marketplace)
-  Updated: 2025-10-17T11:23:03Z
-  Total Products: 3074
+  Updated: 2025-10-17T21:16:11Z
+  Total Products: 3073
 - [EzConnector](https://brincatoys.pt/collections/ezconnector)
   Updated: 2025-10-16T20:51:17Z
   Total Products: 924
