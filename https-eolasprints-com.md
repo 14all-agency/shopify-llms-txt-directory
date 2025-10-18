@@ -10,7 +10,7 @@
 - Contact Email: support@eolasprints.com
 - Contact Phone: +34-942735955
 - Address: Parque Empresarial Besaya D14, Reocín 39538, Cantabria, Spain
-- Updated At: 2025-10-17T20:00:34.802Z
+- Updated At: 2025-10-18T04:00:34.015Z
 
 Welcome to Eolas Prints - Your Trusted 3D Printing & Digital Fabrication Partner
 
@@ -1330,7 +1330,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/original-prusa-xl-fully-assembled-multi-extruder-3d-printer-5-677.webp?v=1759097399
     Price: €4,299.00 EUR
 - [Xtool M1 Smart Laser Engraver and Vinyl Cutter](https://eolasprints.com/products/xtool-m1-smart-laser-engraver-and-vinyl-cutter): The xTool M1 Smart is a versatile laser engraver and vinyl cutter. This 10w all-in-one bundle precisely engraves wood, leather, and acrylic for creative projects.
-  Updated: 2025-09-28T23:12:36Z
+  Updated: 2025-10-17T22:39:43Z
   Vendor: xTOOL
   Product Type: Laser Engravers and Cutters
   Availability: Available
@@ -1344,7 +1344,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/magigoo-pro-flex-the-3d-printing-adhesive-for-flexible-materials-670.webp?v=1733779376
   Price: €25.41 EUR
 - [Xtool M1 Ultra Multi-module Processing Craft Machine](https://eolasprints.com/products/xtool-m1-ultra-the-worlds-first-4-in-1-craft-machine): The xTool M1 Ultra from Eolas Prints is the world's first 4-in-1 craft machine, offering multi-module processing and a superior cutting capacity for various materials.
-  Updated: 2025-09-29T23:52:32Z
+  Updated: 2025-10-17T22:39:43Z
   Vendor: xTOOL
   Product Type: Laser Engravers and Cutters
   Availability: Available
@@ -1530,7 +1530,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/flashforge-ad5x-multi-colour-3d-printer-two-439.webp?v=1756320499
   Price: €399.00 EUR
 - [Xtool F1 Portable High Speed Laser Engraver](https://eolasprints.com/products/xtool-f1-portable-high-speed-laser-engraver): The xTool F1 portable laser engraver delivers professional, high speed precision. This versatile tool cuts and engraves various materials for detailed craft projects.
-  Updated: 2025-09-30T00:10:15Z
+  Updated: 2025-10-17T22:38:08Z
   Vendor: xTOOL
   Product Type: Laser Engravers and Cutters
   Availability: Available
@@ -1548,7 +1548,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/xtool-f1-portable-high-speed-laser-engraver-green-silver-deluxe-bundle-703.webp?v=1759189959
     Price: €2,149.00 EUR
 - [Xtool F1 Ultra Dual Laser Engraver Precision Cutter](https://eolasprints.com/products/xtool-f1-ultra-20w-fiber-diode-dual-laser-engraver): The xTool F1 Ultra dual laser engraver from Eolas Prints delivers professional precision cutting with its 20W fiber and diode lasers for metal, wood, and more.
-  Updated: 2025-09-29T23:57:39Z
+  Updated: 2025-10-17T22:54:27Z
   Vendor: xTOOL
   Product Type: Laser Engravers and Cutters
   Availability: Available
@@ -1566,7 +1566,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/xtool-f1-ultra-20w-fiber-diode-dual-laser-engraver-green-deluxe-860.webp?v=1759190232
     Price: €5,199.00 EUR
 - [Xtool F2 Ultra 60w Mopa 40w Diode Laser Engraver](https://eolasprints.com/products/xtool-f2-ultra-60w-mopa-40w-diode-dual-laser-engraver): The xTool F2 Ultra is a powerful dual laser engraver with a 60W MOPA fiber and 40W Diode laser, offering exceptional precision and speed on numerous materials.
-  Updated: 2025-10-17T12:32:38Z
+  Updated: 2025-10-17T22:36:50Z
   Vendor: xTOOL
   Product Type: Laser Engravers and Cutters
   Availability: Available
@@ -1725,6 +1725,14 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   - [Petg Vs Pla Strength Guide for Functional Parts](https://eolasprints.com/blogs/3d-printing-technology/petg-vs-pla-the-ultimate-strength-comparison-guide-for-3d-printing): Petg Vs Pla Strength Guide for Functional Parts
     Updated: 2025-09-29T00:23:47Z
     Author: Sergio Peciña
+  - [PLA Antibacterial Filament: The Hygiene Revolution in 3D Printing](https://eolasprints.com/blogs/3d-printing-technology/pla-antibacterial-filament-the-hygiene-revolution-in-3d-printing): <p data-pm-slice="1 1 []">When you think about 3D printing, hygiene probably isn't the first thing that comes to mind. But what if your prints could actively protect against harmful bacteria? Enter Eolas Prints' PLA Antibacterial Filament—a game-changing material that combines the ease of traditional PLA with powerful antimicrobial technology.</p>
+    Updated: 2025-10-17T23:07:59Z
+    Author: Tanuj Goswami
+    Tags: PLA
+  - [TPU Flex Filament D60 UV Resistant: The Ultimate Material for Outdoor 3D Printing](https://eolasprints.com/blogs/3d-printing-technology/tpu-flex-filament-d60-uv-resistant-the-ultimate-material-for-outdoor-3d-printing): <p><meta charset="utf-8">When you're designing 3D-printed products for outdoor use, durability isn't optional—it's essential. Sun exposure, temperature fluctuations, and environmental stress can destroy standard filaments in weeks. That's where TPU Flex Filament D60 UV Resistant comes in. This premium flexible material is engineered specifically for projects that face the elements.</p>
+    Updated: 2025-10-17T23:14:39Z
+    Author: Tanuj Goswami
+    Tags: TPU
 - [3D Printing Guides - Eolas Prints](https://eolasprints.com/blogs/3d-printing-guides): Eolas Prints provides 3D printing guides for different materials. Learn how to print with different filaments with our helpful guides.
   - [How to Print with Ams Compatible Eolas Pla Filament](https://eolasprints.com/blogs/3d-printing-guides/how-to-print-with-pla): How to Print with Ams Compatible Eolas Pla Filament
     Updated: 2025-10-11T00:56:12Z
@@ -1798,46 +1806,44 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
 
 ## Store Pages
 
-- [Contacto Pla Filament Calidad y Servicio](https://eolasprints.com/pages/contact-us): We provide comprehensive support for all inquiries regarding our products and services. Our dedication to customer assistance reflects our high sta...
-  Updated: 2025-10-11T01:05:14Z
+- [Contact Eolas Prints](https://eolasprints.com/pages/contact-us): We provide comprehensive support for all inquiries regarding our products and services. Our dedication to customer assistance reflects our high sta...
+  Updated: 2025-10-17T21:26:32Z
 - [3d Printing Solutions & Pla Filament in Cantabria](https://eolasprints.com/pages/company): Eolas Prints, based in Cantabria, Spain, provides professional 3D printing services dedicated to transforming digital concepts into physical realit...
-  Updated: 2025-10-11T01:05:36Z
+  Updated: 2025-10-17T21:26:34Z
 - [Pla Filament De Calidad y Servicio En Cantabria](https://eolasprints.com/pages/find-us): Eolas Prints operates its main offices and advanced manufacturing facility from the Cantabria region of Northern Spain. This integrated location se...
-  Updated: 2025-10-11T01:05:59Z
+  Updated: 2025-10-17T21:26:36Z
 - [Custom Colours for Pla Filament Ral & Pantone](https://eolasprints.com/pages/colour-on-request): For 3D printing projects that require a precise or unique shade, we provide custom colours to match your exact specifications. This service allows ...
-  Updated: 2025-10-11T01:06:37Z
+  Updated: 2025-10-17T21:26:38Z
 - [How Pla and 3d Printer Filament is Made](https://eolasprints.com/pages/making-3d-printer-filament): The creation of premium printer filament is a meticulous manufacturing process, critical for achieving dependable and high-resolution 3D prints. Eo...
-  Updated: 2025-10-11T01:06:57Z
-- [Shipping Policy and Local Pickup Faqs](https://eolasprints.com/pages/faqs): We process and ship orders daily from our stocked inventory. To ensure prompt delivery of your pla filament and other products, orders within Spain...
-  Updated: 2025-10-11T01:07:23Z
+  Updated: 2025-10-17T21:26:39Z
+- [Shipping Policy and Local Pickup Faqs](https://eolasprints.com/pages/faqs): 
+  Updated: 2025-10-17T21:26:47Z
 - [Industrial Grade 3d Printer Filament Spools](https://eolasprints.com/pages/large-3d-printer-filament-spool-for-industries): We manufacture and supply industrial-grade 3D printer filament for professional FDM applications. Our quality-controlled filament spools are engine...
-  Updated: 2025-10-17T19:46:27Z
+  Updated: 2025-10-17T21:26:49Z
 - [Expertos En Pla Filament Calidad y Servicio](https://eolasprints.com/pages/team): Our team is guided by the combined business and technical leadership of Tanuj Goswami, our CEO and CTO. This integrated approach ensures our strate...
-  Updated: 2025-10-11T01:08:06Z
-- [Tpu Flex Filament 93a and Pla Customer Reviews](https://eolasprints.com/pages/reviews): Our customers consistently report high satisfaction, with 95% positive feedback across more than 150 reviews. Users from across Europe, including S...
-  Updated: 2025-10-11T01:08:29Z
+  Updated: 2025-10-17T21:26:51Z
+- [Tpu Flex Filament 93A and Pla Customer Reviews](https://eolasprints.com/pages/reviews): Our customers consistently report high satisfaction, with 95% positive feedback across more than 150 reviews. Users from across Europe, including S...
+  Updated: 2025-10-17T21:26:53Z
 - [Pla Filament Materials Catalogue Calidad y Servicio](https://eolasprints.com/pages/materials-catalogue): The Eolas Prints materials catalogue presents our collection of high-performance PLA filament, engineered for superior print quality and reliabilit...
-  Updated: 2025-10-11T01:08:53Z
-- [Climate Commitment Supporting Carbon Removal](https://eolasprints.com/pages/climate-commitment): We recognize that every ecommerce delivery has a carbon footprint. Our climate commitment is to address this impact directly by funding innovative ...
-  Updated: 2025-10-11T01:09:14Z
+  Updated: 2025-10-17T21:26:55Z
 - [Ups Express and Worldwide Saver Shipping Policy](https://eolasprints.com/pages/shipping-policy): When do you ship? We ship daily from stock. Orders placed after 1PM and 4PM on Fridays are shipped on Monday. Spain & Portugal Orders placed before...
-  Updated: 2025-10-17T19:37:51Z
+  Updated: 2025-10-17T21:26:56Z
 - [Medical Anatomical Models for Surgical Planning](https://eolasprints.com/pages/3d-printing-in-healthcare): 3D printing technology is revolutionizing the healthcare industry by enabling the creation of highly precise and patient-specific medical solutions...
-  Updated: 2025-10-11T01:09:53Z
+  Updated: 2025-10-17T21:26:58Z
 - [Architectural 3d Printing Calidad y Servicio](https://eolasprints.com/pages/architectural-3d-printing): Architectural 3D printing offers a transformative approach to design visualization, enabling the production of physical models with exceptional det...
-  Updated: 2025-10-11T01:10:20Z
+  Updated: 2025-10-17T21:27:00Z
 - [Getting Started with 3d Printing and Pla Filament](https://eolasprints.com/pages/get-started-with-3d-printing): Getting started with 3D printing, a key technology in additive manufacturing, is an exciting venture. This innovative process creates three dimensi...
-  Updated: 2025-10-11T01:10:42Z
-- [Stl Gcode Models and Tools Calidad y Servicio](https://eolasprints.com/pages/3d-models): Discover a collection of high quality 3D models designed for enthusiasts and professionals. The collection features unique items like the Eolas Din...
-  Updated: 2025-10-17T19:50:57Z
+  Updated: 2025-10-17T22:34:21Z
+- [Stl Gcode Models and Tools](https://eolasprints.com/pages/3d-models): Discover a collection of high quality 3D models designed for enthusiasts and professionals. The collection features unique items like the Eolas Din...
+  Updated: 2025-10-17T21:27:04Z
 - [Professional 3d Printing and Design Service](https://eolasprints.com/pages/3d-printing-service): Our professional printing services transform digital concepts into tangible objects, suitable for everything from detailed prototypes to functional...
-  Updated: 2025-10-11T01:11:27Z
+  Updated: 2025-10-17T21:27:06Z
 - [Privacy Policy and Targeted Advertising Choices](https://eolasprints.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
-  Updated: 2025-10-11T01:11:52Z
-- [3d Printer Filament Spool Size Guide for Bambu Lab Ams](https://eolasprints.com/pages/size-guide-3d-printer-filament-spool): This size guide offers detailed specifications for our complete range of 3D printer filament. Understanding the physical dimensions of your printer...
-  Updated: 2025-10-17T19:42:22Z
+  Updated: 2025-10-17T21:27:09Z
+- [3d Printer Filament Spool Size Guide for Bambu Lab Ams](https://eolasprints.com/pages/size-guide-3d-printer-filament-spool): Our spools are compatible with all major 3D printer brands including Prusa, Bambu Lab (AMS & AMS Lite), Flashforge, and more. The standardised axle...
+  Updated: 2025-10-17T21:47:33Z
 - [Eolas Prints Filaments Print Profiles](https://eolasprints.com/pages/print-profiles-for-eolas-prints-filaments): Achieve superior 3D printing results with our custom print profiles, expertly calibrated for Eolas Prints filaments. These profiles are meticulousl...
-  Updated: 2025-10-17T19:34:37Z
+  Updated: 2025-10-17T21:27:13Z
 
 ## Policies
 
