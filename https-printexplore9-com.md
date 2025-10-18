@@ -6,7 +6,7 @@
 - Timezone: Europe/Athens
 - Created At: 2023-12-24T09:13:07Z
 - Contact Email: info@printexplore9.com
-- Updated At: 2025-10-17T16:00:32.798Z
+- Updated At: 2025-10-18T12:00:32.375Z
 
 ## Products
 
@@ -1572,7 +1572,7 @@
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/17890824552718949084_2048.jpg?v=1759081073
     Price: $33.72 USD
 - [Daily Moisturizer - Hydrating & Lightweight Skincare](https://printexplore9.com/products/daily-moisturizer-1-7oz-print-explore): Hydrate and soothe dry, acne-prone skin with our lightweight daily moisturizer. Packed with antioxidants, oil-regulating ingredients, and 100% vegan formula.
-  Updated: 2025-10-17T12:07:19Z
+  Updated: 2025-10-18T00:09:53Z
   Vendor: Printify
   Product Type: Beauty products
   Availability: Available
@@ -1791,7 +1791,7 @@
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Adidas_t-shirt_performance_meets_sustainability.jpg?v=1759082379
     Price: $64.15 USD
 - [adidas® Fleece Hoodies - Warm and comfortable wear](https://printexplore9.com/products/adidas-fleece-hoodies): The adidas® Fleece Hoodies keeps you warm on chilly days. ideal for active wear. it has a soft interior and relaxed fit for comfort.
-  Updated: 2025-10-17T11:28:32Z
+  Updated: 2025-10-18T03:39:03Z
   Vendor: Printify
   Product Type: Hoodie
   Availability: Available
@@ -1921,7 +1921,7 @@
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Adidas_Fleece_Hoodies.jpg?v=1759082487
     Price: $82.67 USD
 - [Adidas® Sweatshirt | Sustainable & Cozy](https://printexplore9.com/products/adidas®-unisex-fleece-crewneck-sweatshirt): Adidas® Sweatshirt – Stay cozy and stylish in eco-friendly BCI cotton & recycled polyester, with medium-heavy fabric and a classic fit.
-  Updated: 2025-10-17T11:23:19Z
+  Updated: 2025-10-18T02:05:44Z
   Vendor: Printify
   Product Type: Sweatshirt
   Availability: Available
@@ -2055,7 +2055,7 @@
     Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/6674904371883623272_2048.jpg?v=1759081781
     Price: $75.27 USD
 - [Vegan Hair Growth Oil | Smooth Frizz & Nourish Your Hair](https://printexplore9.com/products/hair-oil-2oz): Vegan Hair  Oil smooths frizz, boosts scalp health & locks in moisture for silky, strong, nourished hair. Helps Hair growth.
-  Updated: 2025-10-17T11:12:44Z
+  Updated: 2025-10-18T00:15:40Z
   Vendor: Printify
   Product Type: Accessories
   Availability: Available
