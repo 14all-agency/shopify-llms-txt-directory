@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-10-18T12:01:04.184Z
+- Updated At: 2025-10-18T16:01:01.886Z
 
 ## Products
 
@@ -18113,31 +18113,31 @@
     Availability: Available
     Price: ‏314.91 ‏₪ ILS
 - [חליפת ילדים ארוכה ריאל מדריד חוץ 24/25](https://www.rsport.co.il/products/חליפת-ילדים-ארוכה-ריאל-מדריד-חוץ-24-25): חליפת ילדים ארוכה ריאל מדריד חוץ 24/25 עשויה 100% פוליאסטר מנדף זיעה, מה שמבטיח נוחות ואוורור במהלך משחקים ואימונים. החליפה מעוצבת בסגנון מודרני, עם פרטים המזוהים עם הקבוצה, ומספקת לילדים את ההזדמנות להרגיש חלק מהשחקנים האהובים עליהם.
-  Updated: 2025-09-18T18:30:59Z
+  Updated: 2025-10-18T15:03:22Z
   Vendor: R:SPORT
   Product Type: חליפת כדורגל ילדים
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/0203_11.jpg?v=1738544775
   - [XXS](https://www.rsport.co.il/products/חליפת-ילדים-ארוכה-ריאל-מדריד-חוץ-24-25?variant=46938213908730)
-    Availability: Not Available
+    Availability: Available
     Price: ‏110.00 ‏₪ ILS
   - [XS](https://www.rsport.co.il/products/חליפת-ילדים-ארוכה-ריאל-מדריד-חוץ-24-25?variant=46938213941498)
     Availability: Available
     Price: ‏110.00 ‏₪ ILS
   - [S](https://www.rsport.co.il/products/חליפת-ילדים-ארוכה-ריאל-מדריד-חוץ-24-25?variant=46938213974266)
-    Availability: Not Available
+    Availability: Available
     Price: ‏110.00 ‏₪ ILS
   - [M](https://www.rsport.co.il/products/חליפת-ילדים-ארוכה-ריאל-מדריד-חוץ-24-25?variant=46938214007034)
     Availability: Available
     Price: ‏110.00 ‏₪ ILS
   - [L](https://www.rsport.co.il/products/חליפת-ילדים-ארוכה-ריאל-מדריד-חוץ-24-25?variant=46938214039802)
-    Availability: Not Available
+    Availability: Available
     Price: ‏110.00 ‏₪ ILS
   - [XL](https://www.rsport.co.il/products/חליפת-ילדים-ארוכה-ריאל-מדריד-חוץ-24-25?variant=46938214072570)
-    Availability: Not Available
+    Availability: Available
     Price: ‏110.00 ‏₪ ILS
   - [XXL](https://www.rsport.co.il/products/חליפת-ילדים-ארוכה-ריאל-מדריד-חוץ-24-25?variant=46938214105338)
-    Availability: Not Available
+    Availability: Available
     Price: ‏110.00 ‏₪ ILS
 - [חליפת ילדים ארוכה ריאל מדריד בית 24/25](https://www.rsport.co.il/products/חליפת-ילדים-ארוכה-ריאל-מדריד-בית-24-25): חליפת ילדים ארוכה ריאל מדריד בית 24/25 עשויה מבד נושם, מנדף זיעה, המתייבש במהירות ומתאים לכל פעילות ספורטיבית ממושכת. מושלם לריצה או הליכה
   Updated: 2025-09-29T10:35:06Z
@@ -20932,7 +20932,7 @@
     Availability: Available
     Price: ‏109.90 ‏₪ ILS
 - [נעלי כדורגל מקצועיות אדידס Predator Elite Tongue FG](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-אדידס-predator-elite-tongue-fg): adidas Predator Elite הם הבחירה המושלמת לשחקני כדורגל שמחפשים יכולת הקפצה ומגע מדויק עם הכדור. עם טכנולוגיות מתקדמות כמו סנפירי Strikeskin, החלק העליון הגמיש מספק תמיכה אופטימלית לצורך שמירה על יציבות ודיוק בשערים. הנעליים עשויים לפחות 20% חומרים ממוחזרים, מה שמשקף מחויבות לפיתוח ברות קיימא ומפחית פסולת תוך שמירה על איכות המוצר.
-  Updated: 2025-09-07T22:10:17Z
+  Updated: 2025-10-18T15:08:52Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -20998,7 +20998,7 @@
     Availability: Available
     Price: ‏1,499.90 ‏₪ ILS
 - [נעלי כדורגל מקצועיות Predator Elite Laceless FG](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-predator-elite-laceless-fg): המגף Predator העדכני ביותר משלב טכנולוגיות מתקדמות כמו HybridTouch ושיפורי עיצוב שמציעים קנייה מעולה על הכדור, דיוק והסטה מדויקת. עם סנפירי הגומי Strikeskin לשיפור האחיזה ושני צדדי המגף המוכרים מעיצובי אדי הקלאסיים, הוא מספק גם גמישות לדינמיקת המשחק. הסוליה ה-ControlFrame 2.0 מבטיחה יציבות וזריזות עם מתיחה רב-כיוונית, כך שתוכל למקסם את הביצועים שלך במגרש.
-  Updated: 2025-09-07T22:10:16Z
+  Updated: 2025-10-18T15:08:52Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -21064,7 +21064,7 @@
     Availability: Available
     Price: ‏1,399.90 ‏₪ ILS
 - [נעלי כדורגל חצי מקצועיות אדידס Predator Pro Tongue FG](https://www.rsport.co.il/products/נעלי-כדורגל-חצי-מקצועיות-אדידס-predator-pro-tongue-fg): נעלי הכדורגל adidas Predator Pro Tongue FG מציגות טכנולוגיה מתקדמת לשיפור ביצועים, עם חלק עליון HybridTouch לנוחות, סנפירי Strikeskin לשליטה מדויקת, וסוליית ControlFrame 2.0 לניידות מהירה וזריזות על המגרש, מה שהופך אותן לבחירה אידיאלית לשחקנים שמחפשים להעצים את יכולותיהם בהבקעת שערים.
-  Updated: 2025-09-07T22:10:16Z
+  Updated: 2025-10-18T15:08:51Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -21130,7 +21130,7 @@
     Availability: Available
     Price: ‏999.90 ‏₪ ILS
 - [נעלי כדורגל חצי מקצועיות אדידס Predator Pro FG](https://www.rsport.co.il/products/נעלי-כדורגל-חצי-מקצועיות-אדידס-predator-pro-fg): הנעל Predator החדש מציע שיפורים מרשימים בביצועים עם טכנולוגיות מתקדמות כמו HybridTouch לחוויית נוחות ותמיכה משופרת, סנפירים ו-3-Stripes המיועדים לאחיזה מושלמת על הכדור, וסוליית ControlFrame 2.0 המבטיחה יציבות וזינוק בכיוונים שונים, מה שמעניק לשחקנים את הכלים הדרושים כדי להבקיע שוב ושוב.
-  Updated: 2025-09-07T22:10:15Z
+  Updated: 2025-10-18T15:08:51Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -21940,7 +21940,7 @@
     Availability: Available
     Price: ‏164.99 ‏₪ ILS
 - [נעלי כדורגל מקצועיות Predator Elite Tongue x Moments SG](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-predator-elite-tongue-x-moments-sg): שלוט במגרש עם adidas Predator Elite Tongue x Moments SG חגוג 30 שנה לרגעים בלתי נשכחים עם מהדורה מיוחדת בצבעי שחור/לבן/אדום. עיצוב אייקוני עם לוגו Predator ותגית "100% חוקי. 0% הוגן." על הסוליה. שדרוגי HybridTouch מספקים נוחות, שליטה ודיוק משופר, בעוד מבנה Strikeskin מעצים אפקט סיבוב הכדור. סוליית ControlFrame 2.0 מבטיחה אחיזה, יציבות ומהירות – כי ניצחון מתחיל בנעליים שלך.
-  Updated: 2025-09-19T09:58:12Z
+  Updated: 2025-10-18T15:07:18Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -22000,7 +22000,7 @@
     Availability: Available
     Price: ‏1,499.90 ‏₪ ILS
 - [נעלי כדורגל מקצועיות Predator Elite Tongue x Moments FG](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-predator-elite-tongue-x-moments-fg): Predator Elite Tongue x Moments FG – שליטה בלתי ניתנת לעצירה חגגו 30 שנה לרגעים אגדיים עם מהדורה מוגבלת בצבעי שחור/לבן/אדום. עיצוב מחווה להיסטוריה של Predator, כולל לוגו ה-"Eyes" הקלאסי וציטוטי שדרנים מרגעי השיא של זידאן ובקהאם. גפת HybridTouch המשופרת עם אחיזת Strikeskin מעניקה שליטה ודיוק אופטימליים, בעוד שסוליית ControlFrame 2.0 מספקת יציבות, מהירות ואחיזה על משטחי Firm Ground (FG).
-  Updated: 2025-09-07T22:09:57Z
+  Updated: 2025-10-18T15:07:18Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -22051,7 +22051,7 @@
     Availability: Available
     Price: ‏1,499.90 ‏₪ ILS
 - [נעלי כדורגל חצי מקצועיות Predator Pro Tongue x Moments FG](https://www.rsport.co.il/products/נעלי-כדורגל-חצי-מקצועיות-predator-pro-tongue-x-moments-fg): Predator Pro Tongue x Moments FG – שליטה בלתי ניתנת לעצירה חגגו 30 שנות רגעים אגדיים עם מהדורה מוגבלת בצבעי שחור/לבן/אדום. לוגו ה-Predator הקלאסי, הסלוגן האייקוני "100% חוקי. 0% הוגן.", וציטוטים מרגעי השיא של זידאן ובקהאם מוסיפים למורשת. גפת HybridTouch המשופרת עם אחיזת Strikeskin מעניקה שליטה ודיוק יוצאי דופן, בעוד שסוליית ControlFrame 2.0 מספקת יציבות, מהירות ואחיזה אופטימלית עם פקקים מעוצבים לתנועה רב-כיוונית על Firm Ground (FG).
-  Updated: 2025-09-07T22:09:56Z
+  Updated: 2025-10-18T15:08:51Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -29330,7 +29330,7 @@
     Availability: Available
     Price: ‏80.00 ‏₪ ILS
 - [חולצת ריאל מדריד בית 25/26 | גברים](https://www.rsport.co.il/products/חולצת-ריאל-מדריד-בית-25-26-גברים): חולצת הבית של ריאל מדריד לעונת 25/26 בדיוק כמו שהאוהדים אוהבים. לבנה, אלגנטית, עם טאץ’ מודרני ושיק שמזכיר למה זה המועדון הכי גדול בעולם. עשויה 100% פוליאסטר נעים ונושם, בגזרה רגילה שמתאימה גם ליום רגוע בבית וגם למשחק עם חברים. הסמל רקום כמו שצריך, והבד שומר אותך יבש ונוח גם כשאתה בטירוף של המשחק. מושלמת למי שחי ונושם ריאל.
-  Updated: 2025-10-16T00:05:17Z
+  Updated: 2025-10-18T15:03:19Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
@@ -29357,7 +29357,7 @@
     Availability: Available
     Price: ‏140.00 ‏₪ ILS
 - [חולצת ריאל מדריד משחקי בית 2025/26 אותנטית | גברים](https://www.rsport.co.il/products/חולצת-ריאל-מדריד-משחקי-בית-2025-26-אותנטית-גברים): חולצת ריאל מדריד אותנטית לעונת 25/26 היא בדיוק מה שלובשים השחקנים על המגרש גזרה צמודה, בד טכנולוגי מתקדם, ונראות שלא משאירה מקום לספק מי המלכים של אירופה. עשויה מבד איכותי וקל במיוחד שמנדף זיעה ושומר על הגוף יבש ונעים גם בעומס של 90 דקות, הפרטים מדויקים עד רמת התפר, והעיצוב ממשיך את הקו האלגנטי של הלבנים ממדריד עם טאץ' עכשווי לעונה החדשה. מי שמחפש להרגיש חלק מהקבוצה זו החולצה האמיתית
-  Updated: 2025-10-16T00:05:17Z
+  Updated: 2025-10-18T15:03:19Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
@@ -29384,7 +29384,7 @@
     Availability: Available
     Price: ‏190.00 ‏₪ ILS
 - [חליפת כדורגל ריאל מדריד בית 25/26 | ילדים](https://www.rsport.co.il/products/חליפת-כדורגל-ריאל-מדריד-בית-25-26-ילדים): חליפת כדורגל ריאל מדריד בית 25/26 כוללת חולצה ומכנס בגזרה ספורטיבית ונוחה, בצבע הלבן האייקוני עם כל הפרטים המדויקים כמו של השחקנים. עשויה מבד נושם וקליל, מושלמת לאימון, משחק או סתם יום של אהדה אמיתית
-  Updated: 2025-10-16T00:05:17Z
+  Updated: 2025-10-18T15:03:19Z
   Vendor: R:SPORT
   Product Type: חליפות כדורגל ילדים
   Availability: Available
@@ -29402,7 +29402,7 @@
     Availability: Available
     Price: ‏139.90 ‏₪ ILS
 - [חולצת כדורגל ריאל מדריד בית 25/26 | ג'וניורס](https://www.rsport.co.il/products/חולצת-כדורגל-ריאל-מדריד-בית-25-26-גוניורס): חולצת כדורגל ריאל מדריד בית 25/26 לילדים בצבע הלבן הקלאסי, עם כל הפרטים שמאפיינים את הקבוצה. עשויה מבד נושם ונעים שמתאים לפעילות ספורטיבית ויום יומית, בגזרה נוחה שמתאימה במיוחד לילדים. מושלמת לאוהדים הצעירים שרוצים להרגיש חלק מהקבוצה.
-  Updated: 2025-10-16T00:05:17Z
+  Updated: 2025-10-18T15:03:19Z
   Vendor: R:SPORT
   Product Type: חליפת כדורגל ילדים
   Availability: Available
@@ -29456,7 +29456,7 @@
     Availability: Available
     Price: ‏70.00 ‏₪ ILS
 - [חולצת כדורגל ריאל מדריד בית 25/26 | נשים](https://www.rsport.co.il/products/חולצת-כדורגל-ריאל-מדריד-בית-25-26-נשים): חולצת כדורגל נשים של ריאל מדריד עשויה 100% פוליאסטר, קלה, נושמת ונוחה, בגזרה מחמיאה המתאימה לפעילות ספורטיבית וללבישה יומיומית.
-  Updated: 2025-10-16T00:05:16Z
+  Updated: 2025-10-18T15:03:18Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
@@ -30797,7 +30797,7 @@
     Availability: Available
     Price: ‏100.00 ‏₪ ILS
 - [חולצת חוץ ריאל מדריד 25/26 | גברים](https://www.rsport.co.il/products/חולצת-חוץ-ריאל-מדריד-25-26-גברים): חולצת חוץ ריאל מדריד 25/26 לגברים מציעה עיצוב מודרני ונקי בצבעים שמייצגים את המועדון בגאווה. החולצה עשויה 100% פוליאסטר, בד נושם וקל משקל שמסייע בניהול לחות ומעניק נוחות לאורך כל המשחק והיום יום. גזרה רגילה ונוחה שמתאימה לפעילות ספורטיבית וללבוש יומיומי.
-  Updated: 2025-10-16T00:05:16Z
+  Updated: 2025-10-18T15:03:18Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
@@ -30824,7 +30824,7 @@
     Availability: Available
     Price: ‏140.00 ‏₪ ILS
 - [חולצת ריאל מדריד משחקי חוץ 2025/26 אותנטית | גברים](https://www.rsport.co.il/products/חולצת-ריאל-מדריד-משחקי-חוץ-2025-26-אותנטית-גברים): חולצת ריאל מדריד משחקי חוץ 2025/26 אותנטית לגברים מגיעה בעיצוב מודרני ונקי, בגזרה צמודה כמו של השחקנים. החולצה עשויה 100% פוליאסטר, בד נושם וקל משקל שמסייע בניהול לחות ומעניק נוחות לאורך כל המשחק. מתאימה לאוהדים שרוצים מראה מקצועי ונאמנות למועדון.
-  Updated: 2025-10-16T00:05:16Z
+  Updated: 2025-10-18T15:03:18Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
@@ -30851,7 +30851,7 @@
     Availability: Available
     Price: ‏190.00 ‏₪ ILS
 - [חליפת כדורגל ריאל מדריד חוץ 25/26 | ילדים](https://www.rsport.co.il/products/חליפת-כדורגל-ריאל-מדריד-חוץ-25-26-ילדים): חליפת כדורגל ריאל מדריד חוץ 25/26 לילדים כוללת חולצה ומכנסיים קצרים בגזרה מותאמת לילדים, הנוחה במיוחד לפעילות ספורטיבית. החליפה עשויה 100% פוליאסטר, בד נושם וקל משקל שמסייע בנידוף זיעה ושומר על נוחות לאורך כל המשחק והאימון. עיצוב שמייצג את המועדון בגאווה ומתאים לילדים אוהדים שרוצים להרגיש חלק מהקבוצה.
-  Updated: 2025-10-16T00:05:16Z
+  Updated: 2025-10-18T15:03:18Z
   Vendor: R:SPORT
   Product Type: חליפות כדורגל ילדים
   Availability: Available
@@ -30869,7 +30869,7 @@
     Availability: Available
     Price: ‏119.90 ‏₪ ILS
 - [חולצת כדורגל ריאל מדריד חוץ 25/26 | ג'וניורס](https://www.rsport.co.il/products/חולצת-כדורגל-ריאל-מדריד-חוץ-25-26-גוניורס): חולצת כדורגל ריאל מדריד חוץ 25/26 לג'וניורס מגיעה בגזרה מותאמת לילדים ונוער, עם עיצוב מודרני ונקי המייצג את המועדון בגאווה. החולצה עשויה 100% פוליאסטר, בד נושם וקל משקל שמסייע לשמור על יובש ונוחות במהלך המשחק או האימון. מתאימה לילדים וילדות שרוצים להרגיש חלק מהקבוצה עם מראה מקצועי ונוח.
-  Updated: 2025-10-16T00:05:16Z
+  Updated: 2025-10-18T15:03:17Z
   Vendor: R:SPORT
   Product Type: חליפת כדורגל ילדים
   Availability: Available
@@ -30923,7 +30923,7 @@
     Availability: Available
     Price: ‏70.00 ‏₪ ILS
 - [חולצת כדורגל ריאל מדריד חוץ 25/26 | נשים](https://www.rsport.co.il/products/חולצת-כדורגל-ריאל-מדריד-חוץ-25-26-נשים): חולצת כדורגל ריאל מדריד חוץ 25/26 לנשים מציגה עיצוב נקי ומעודכן בגזרה נשית מחמיאה. החולצה עשויה 100% פוליאסטר, מבד נושם וקליל שמנדף זיעה ושומר על נוחות בזמן משחק, אימון או בלבוש יומיומי. מתאימה לאוהדות שרוצות לשלב בין סטייל ונאמנות למועדון.
-  Updated: 2025-10-16T00:05:16Z
+  Updated: 2025-10-18T15:03:17Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
@@ -30986,7 +30986,7 @@
     Availability: Available
     Price: ‏140.00 ‏₪ ILS
 - [חולצת חוץ ריאל מדריד שרוול ארוך 25/26 | גברים](https://www.rsport.co.il/products/חולצת-חוץ-ריאל-מדריד-שרוול-ארוך-25-26-גברים): חולצת חוץ ריאל מדריד שרוול ארוך 25/26 לגברים מציגה את אותו עיצוב אלגנטי של חולצת החוץ, בגרסה עם שרוולים ארוכים שמתאימה במיוחד למזג אוויר קריר או לאימונים. עשויה 100% פוליאסטר, מבד נושם וקל משקל שמנדף זיעה ושומר על נוחות לאורך כל זמן הפעילות. מתאימה לאוהדים שמעדיפים כיסוי נוסף מבלי לוותר על סטייל ונאמנות למועדון.
-  Updated: 2025-10-16T00:05:16Z
+  Updated: 2025-10-18T15:02:33Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
@@ -41367,7 +41367,7 @@
     Availability: Available
     Price: ‏80.00 ‏₪ ILS
 - [חולצת כדורגל ריאל מדריד שלישית 25/26 | גברים](https://www.rsport.co.il/products/חולצת-כדורגל-ריאל-מדריד-שלישית-25-26-גברים): חולצת כדורגל ריאל מדריד שלישית 25/26 לגברים בצבעים כחול ולבן, מציעה עיצוב מודרני ופשוט בצבעים המזוהים עם המועדון. החולצה עשויה 100% פוליאסטר, בד קל ונושם שמסייע בשמירה על תחושת יובש ונוחות לאורך כל היום. הגזרה רגילה ונוחה, מתאימה לפעילות ספורטיבית ולשימוש יומיומי.
-  Updated: 2025-10-16T00:05:16Z
+  Updated: 2025-10-18T15:03:17Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
@@ -41394,7 +41394,7 @@
     Availability: Available
     Price: ‏149.90 ‏₪ ILS
 - [חולצת משחקי ריאל מדריד שלישית 2025/26 אותנטית  | גברים](https://www.rsport.co.il/products/חולצת-משחקי-ריאל-מדריד-שלישית-2025-26-אותנטית-גברים): תמוך בריאל מדריד עם חולצת המשחק השלישית 2025/26 אותנטית לגברים בצבעים כחול ולבן, בהשראת החולצה שלובשים השחקנים על המגרש. החולצה בגרסת שחקן עם גזרה צמודה, מציעה עיצוב מודרני ונושם בצבעים המזוהים עם המועדון. עשויה 100% פוליאסטר, בד קל ונושם שמסייע לשמירה על נוחות וייבוש מהיר לאורך כל המשחק. מתאימה במיוחד לשימוש מקצועי ולמי שמחפש גזרה מדויקת ונוחה.
-  Updated: 2025-10-16T00:04:43Z
+  Updated: 2025-10-18T15:03:16Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
@@ -41421,7 +41421,7 @@
     Availability: Available
     Price: ‏190.00 ‏₪ ILS
 - [חליפת כדורגל ריאל מדריד שלישית 25/26 | ילדים](https://www.rsport.co.il/products/חליפת-כדורגל-ריאל-מדריד-שלישית-25-26-ילדים): חליפת כדורגל ריאל מדריד שלישית 25/26 לילדים בצבעים כחול ולבן, כוללת חולצה ומכנסיים קצרים בגזרה מותאמת ונוחה במיוחד לפעילות ספורטיבית. החליפה עשויה 100% פוליאסטר, בד נושם וקל משקל שמסייע בנידוף זיעה ושומר על נוחות לאורך כל המשחק והאימון. עיצוב בהשראת המועדון, מתאים לילדים שרוצים להרגיש חלק מהקבוצה.
-  Updated: 2025-10-16T00:04:43Z
+  Updated: 2025-10-18T15:03:16Z
   Vendor: R:SPORT
   Product Type: חליפות כדורגל ילדים
   Availability: Available
@@ -41439,7 +41439,7 @@
     Availability: Available
     Price: ‏140.00 ‏₪ ILS
 - [חולצת כדורגל ריאל מדריד שלישית 25/26 | ג'וניורס](https://www.rsport.co.il/products/חולצת-כדורגל-ריאל-מדריד-שלישית-25-26-גוניורס): תמוך בריאל מדריד לילדים ונוער עם חולצת הכדורגל השלישית 25/26 לג'וניורס בצבעים כחול ולבן. החולצה עשויה 100% פוליאסטר, בד נושם וקל משקל שמסייע בנידוף זיעה ושומר על נוחות לאורך כל המשחק והאימון. גזרה רגילה ונוחה שמתאימה לפעילות ספורטיבית ולשימוש יומיומי. עיצוב בהשראת המועדון, מושלם לאוהדים הצעירים שרוצים להרגיש חלק מהקבוצה.
-  Updated: 2025-10-16T00:04:22Z
+  Updated: 2025-10-18T15:03:16Z
   Vendor: R:SPORT
   Product Type: חליפת כדורגל ילדים
   Availability: Available
@@ -41535,7 +41535,7 @@
     Availability: Available
     Price: ‏140.00 ‏₪ ILS
 - [חולצת כדורגל ריאל מדריד תלבושת שלישית 25/26 | נשים](https://www.rsport.co.il/products/חולצת-כדורגל-ריאל-מדריד-תלבושת-שלישית-25-26-נשים): תמכי בריאל מדריד עם חולצת הכדורגל השלישית 25/26 לנשים בצבעים כחול ולבן, בהשראת החולצה של השחקניות על המגרש. החולצה עשויה 100% פוליאסטר, בד קל ונושם שמסייע בנידוף זיעה ומעניק נוחות לאורך כל המשחק או האימון. גזרה רגילה ונוחה, מתאימה לפעילות ספורטיבית ולשימוש יומיומי.
-  Updated: 2025-10-16T00:04:22Z
+  Updated: 2025-10-18T15:03:16Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
@@ -47568,6 +47568,309 @@
   - [8-9Y](https://www.rsport.co.il/products/חליפת-כדורגל-אברטון-בית-25-26-ילדים?variant=47831360766202)
     Availability: Available
     Price: ‏150.00 ‏₪ ILS
+- [נעלי כדורגל מקצועיות Predator Elite Tongue x Bellingham FG](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-predator-elite-tongue-x-bellingham-fg): נעלי Predator Elite Tongue x Bellingham FG מבית adidas מביאות שילוב מושלם של ביצועים מדויקים והשראה מסיפורו של ג’וד בלינגהאם. הדגם במהדורה מיוחדת נוצר בהשראת שנותיו הראשונות בקבוצת נעוריו, עם פרטים בעיצוב שמחברים בין עברו לשיא ההצלחה העולמית. העיצוב כולל גוונים של כחול ולבן המזוהים עם מועדון הבית של בלינגהאם, ופרטי זיהוי ייחודיים על הלשונית שמאזכרים את עיר הולדתו. החלק העליון עשוי חומר HybridTouch חדשני המשלב זמש סינתטי ואלמנטים מבריקים, המעניקים תחושת נוחות קלה ודיוק מושלם בכל נגיעה בכדור. טכנולוגיית Strikeskin המעודכנת מספקת אחיזה משופרת בכדור ודיוק מוגבר בעת בעיטה, בעוד לשונית הנעל המורחבת מעניקה התאמה יציבה ונעימה. סוליית ControlFrame 2.0 משלבת שליטה, יציבות ותאוצה עם אחיזה אופטימלית בזכות סידור פקקים רב־כיווני. נעל זו נועדה לשחקנים שמחפשים שילוב בין נוחות, עוצמה וסגנון — עם נגיעה של השראה מסיפור הצלחה אמיתי.
+  Updated: 2025-10-18T15:24:19Z
+  Vendor: R:SPORT
+  Product Type: נעלי כדורגל
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/2_1f38d7e7-5076-4a8b-9a63-2b2b1d7f7e85.jpg?v=1760792850
+  - [36](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-predator-elite-tongue-x-bellingham-fg?variant=47837118726394)
+    Availability: Available
+    Price: ‏1,799.00 ‏₪ ILS
+  - [⅔36](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-predator-elite-tongue-x-bellingham-fg?variant=47837118759162)
+    Availability: Available
+    Price: ‏1,799.00 ‏₪ ILS
+  - [⅓37](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-predator-elite-tongue-x-bellingham-fg?variant=47837118791930)
+    Availability: Not Available
+    Price: ‏1,799.00 ‏₪ ILS
+  - [38](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-predator-elite-tongue-x-bellingham-fg?variant=47837118824698)
+    Availability: Available
+    Price: ‏1,799.00 ‏₪ ILS
+  - [⅔38](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-predator-elite-tongue-x-bellingham-fg?variant=47837118857466)
+    Availability: Available
+    Price: ‏1,799.00 ‏₪ ILS
+  - [⅓39](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-predator-elite-tongue-x-bellingham-fg?variant=47837114204410)
+    Availability: Available
+    Price: ‏1,799.00 ‏₪ ILS
+  - [40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-predator-elite-tongue-x-bellingham-fg?variant=47837114237178)
+    Availability: Available
+    Price: ‏1,799.00 ‏₪ ILS
+  - [⅔40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-predator-elite-tongue-x-bellingham-fg?variant=47837114269946)
+    Availability: Available
+    Price: ‏1,799.00 ‏₪ ILS
+  - [⅓41](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-predator-elite-tongue-x-bellingham-fg?variant=47837114302714)
+    Availability: Available
+    Price: ‏1,799.00 ‏₪ ILS
+  - [42](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-predator-elite-tongue-x-bellingham-fg?variant=47837114335482)
+    Availability: Available
+    Price: ‏1,799.00 ‏₪ ILS
+  - [⅔42](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-predator-elite-tongue-x-bellingham-fg?variant=47837114368250)
+    Availability: Available
+    Price: ‏1,799.00 ‏₪ ILS
+  - [⅓43](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-predator-elite-tongue-x-bellingham-fg?variant=47837114401018)
+    Availability: Available
+    Price: ‏1,799.00 ‏₪ ILS
+  - [44](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-predator-elite-tongue-x-bellingham-fg?variant=47837114433786)
+    Availability: Available
+    Price: ‏1,799.00 ‏₪ ILS
+  - [⅔44](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-predator-elite-tongue-x-bellingham-fg?variant=47837114466554)
+    Availability: Available
+    Price: ‏1,799.00 ‏₪ ILS
+  - [⅓45](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-predator-elite-tongue-x-bellingham-fg?variant=47837114499322)
+    Availability: Available
+    Price: ‏1,799.00 ‏₪ ILS
+  - [46](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-predator-elite-tongue-x-bellingham-fg?variant=47837114532090)
+    Availability: Available
+    Price: ‏1,799.00 ‏₪ ILS
+  - [⅔46](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-predator-elite-tongue-x-bellingham-fg?variant=47837114564858)
+    Availability: Available
+    Price: ‏1,799.00 ‏₪ ILS
+  - [⅓47](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-predator-elite-tongue-x-bellingham-fg?variant=47837114597626)
+    Availability: Available
+    Price: ‏1,799.00 ‏₪ ILS
+  - [48](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-predator-elite-tongue-x-bellingham-fg?variant=47837118890234)
+    Availability: Available
+    Price: ‏1,799.00 ‏₪ ILS
+  - [⅔48](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-predator-elite-tongue-x-bellingham-fg?variant=47837118923002)
+    Availability: Not Available
+    Price: ‏1,799.00 ‏₪ ILS
+- [נעלי כדורגל מקצועיות | ילדים  Predator Elite Tongue x Bellingham FG](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ילדים-predator-elite-tongue-x-bellingham-fg-core-black-ftwr-white-glory-blue): נעלי Predator Elite Tongue x Bellingham FG לילדים מבית adidas נוצרו בהשראת תחילת דרכו של ג’וד בלינגהאם, עם עיצוב מיוחד שמתחבר למועדון נעוריו ולרוח המשחק שהובילה אותו לפסגת הכדורגל העולמי. השילוב בין סגנון ונוחות מעניק לשחקנים הצעירים חוויית משחק מקצועית וייחודית. החלק העליון עשוי מחומר HybridTouch חדשני המשלב בין זמש סינתטי לחומר קל וגמיש, המספק שליטה מדויקת ותחושת מגע טבעית עם הכדור. טכנולוגיית Strikeskin משופרת מעניקה אחיזה מוגברת בכדור ודיוק מרבי בכל בעיטה, עם לשונית רחבה להתאמה נוחה ותחושת יציבות מושלמת. סוליית ControlFrame 2.0 מבטיחה אחיזה מעולה, יציבות ותאוצה רב־כיוונית, ומאפשרת לילדים לנוע בחופשיות ובביטחון מלא בכל תנאי משחק. הנעל מעוצבת בצבעים המזוהים עם תחילת הקריירה של בלינגהאם ומשדרת השראה, נחישות וסגנון ברמה הגבוהה ביותר.
+  Updated: 2025-10-18T15:24:20Z
+  Vendor: R:SPORT
+  Product Type: נעלי כדורגל
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/11_793c2b0a-e1d9-489d-ac73-22afc0c2c851.jpg?v=1760794777
+  - [28](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ילדים-predator-elite-tongue-x-bellingham-fg-core-black-ftwr-white-glory-blue?variant=47837138714874)
+    Availability: Available
+    Price: ‏990.00 ‏₪ ILS
+  - [½28](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ילדים-predator-elite-tongue-x-bellingham-fg-core-black-ftwr-white-glory-blue?variant=47837138747642)
+    Availability: Available
+    Price: ‏990.00 ‏₪ ILS
+  - [29](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ילדים-predator-elite-tongue-x-bellingham-fg-core-black-ftwr-white-glory-blue?variant=47837138780410)
+    Availability: Available
+    Price: ‏990.00 ‏₪ ILS
+  - [30](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ילדים-predator-elite-tongue-x-bellingham-fg-core-black-ftwr-white-glory-blue?variant=47837138813178)
+    Availability: Available
+    Price: ‏990.00 ‏₪ ILS
+  - [½30](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ילדים-predator-elite-tongue-x-bellingham-fg-core-black-ftwr-white-glory-blue?variant=47837138845946)
+    Availability: Available
+    Price: ‏990.00 ‏₪ ILS
+  - [31](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ילדים-predator-elite-tongue-x-bellingham-fg-core-black-ftwr-white-glory-blue?variant=47837138878714)
+    Availability: Available
+    Price: ‏990.00 ‏₪ ILS
+  - [31½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ילדים-predator-elite-tongue-x-bellingham-fg-core-black-ftwr-white-glory-blue?variant=47837138911482)
+    Availability: Available
+    Price: ‏990.00 ‏₪ ILS
+  - [32](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ילדים-predator-elite-tongue-x-bellingham-fg-core-black-ftwr-white-glory-blue?variant=47837138944250)
+    Availability: Available
+    Price: ‏990.00 ‏₪ ILS
+  - [33](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ילדים-predator-elite-tongue-x-bellingham-fg-core-black-ftwr-white-glory-blue?variant=47837138977018)
+    Availability: Available
+    Price: ‏990.00 ‏₪ ILS
+  - [33½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ילדים-predator-elite-tongue-x-bellingham-fg-core-black-ftwr-white-glory-blue?variant=47837139009786)
+    Availability: Available
+    Price: ‏990.00 ‏₪ ILS
+  - [34](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ילדים-predator-elite-tongue-x-bellingham-fg-core-black-ftwr-white-glory-blue?variant=47837139042554)
+    Availability: Available
+    Price: ‏990.00 ‏₪ ILS
+  - [35](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ילדים-predator-elite-tongue-x-bellingham-fg-core-black-ftwr-white-glory-blue?variant=47837139075322)
+    Availability: Available
+    Price: ‏990.00 ‏₪ ILS
+  - [35½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ילדים-predator-elite-tongue-x-bellingham-fg-core-black-ftwr-white-glory-blue?variant=47837139108090)
+    Availability: Available
+    Price: ‏990.00 ‏₪ ILS
+  - [36](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ילדים-predator-elite-tongue-x-bellingham-fg-core-black-ftwr-white-glory-blue?variant=47837139140858)
+    Availability: Available
+    Price: ‏990.00 ‏₪ ILS
+  - [⅔36](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ילדים-predator-elite-tongue-x-bellingham-fg-core-black-ftwr-white-glory-blue?variant=47837139173626)
+    Availability: Available
+    Price: ‏990.00 ‏₪ ILS
+  - [⅓37](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ילדים-predator-elite-tongue-x-bellingham-fg-core-black-ftwr-white-glory-blue?variant=47837139206394)
+    Availability: Available
+    Price: ‏990.00 ‏₪ ILS
+  - [38](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ילדים-predator-elite-tongue-x-bellingham-fg-core-black-ftwr-white-glory-blue?variant=47837139239162)
+    Availability: Available
+    Price: ‏990.00 ‏₪ ILS
+  - [⅔38](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-ילדים-predator-elite-tongue-x-bellingham-fg-core-black-ftwr-white-glory-blue?variant=47837139271930)
+    Availability: Available
+    Price: ‏990.00 ‏₪ ILS
+- [נעלי כדורגל מקצועיות Predator Elite Tongue x Bellingham SG Core Black/Ftwr White/Glory Blue](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-predator-elite-tongue-x-bellingham-sg-core-black-ftwr-white-glory-blue): נעלי Predator Elite Tongue x Bellingham SG מבית adidas נוצרו בהשראת סיפורו של ג’וד בלינגהאם והדרך שעשה מהמגרשים המקומיים עד לפסגת הכדורגל העולמי. העיצוב במהדורה מיוחדת משלב צבעים המזוהים עם מועדון נעוריו ופרטים ייחודיים על הלשונית שמזכירים את המקום שבו החל את דרכו. החלק העליון עשוי מחומר HybridTouch חדשני – שילוב של זמש סינתטי וחומר קל וגמיש – המספק תחושת נוחות טבעית ושליטה מדויקת בכדור. טכנולוגיית Strikeskin המשופרת עם סנפירי גומי עדינים מעניקה אחיזה משופרת ודיוק מושלם בבעיטות ובמסירות. לשונית גדולה יותר מספקת התאמה נוחה יותר ותחושת יציבות גבוהה בזמן משחק, בעוד שסוליית ControlFrame 2.0 לשטח רך (SG) כוללת שילוב של פקקים מתחלפים ופקקים יצוקים לניצול אופטימלי של אחיזה, מהירות ושליטה בתנאי דשא לחים. זהו דגם שנבנה לשחקנים עם תשוקה לשליטה מוחלטת ולביצועים ברמה עולמית – בדיוק כמו ג’וד בלינגהאם עצמו.
+  Updated: 2025-10-18T15:24:30Z
+  Vendor: R:SPORT
+  Product Type: נעלי כדורגל
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/16_7aac0c99-0191-41bc-b552-fb116c894177.jpg?v=1760801018
+  - [36](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-predator-elite-tongue-x-bellingham-sg-core-black-ftwr-white-glory-blue?variant=47837140418810)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [⅔36](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-predator-elite-tongue-x-bellingham-sg-core-black-ftwr-white-glory-blue?variant=47837140451578)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [⅓37](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-predator-elite-tongue-x-bellingham-sg-core-black-ftwr-white-glory-blue?variant=47837140484346)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [38](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-predator-elite-tongue-x-bellingham-sg-core-black-ftwr-white-glory-blue?variant=47837140517114)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [⅔38](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-predator-elite-tongue-x-bellingham-sg-core-black-ftwr-white-glory-blue?variant=47837140549882)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [⅓39](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-predator-elite-tongue-x-bellingham-sg-core-black-ftwr-white-glory-blue?variant=47837140582650)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-predator-elite-tongue-x-bellingham-sg-core-black-ftwr-white-glory-blue?variant=47837140615418)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [⅔40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-predator-elite-tongue-x-bellingham-sg-core-black-ftwr-white-glory-blue?variant=47837140648186)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [⅓41](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-predator-elite-tongue-x-bellingham-sg-core-black-ftwr-white-glory-blue?variant=47837140680954)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [42](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-predator-elite-tongue-x-bellingham-sg-core-black-ftwr-white-glory-blue?variant=47837140713722)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [⅔42](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-predator-elite-tongue-x-bellingham-sg-core-black-ftwr-white-glory-blue?variant=47837140746490)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [⅓43](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-predator-elite-tongue-x-bellingham-sg-core-black-ftwr-white-glory-blue?variant=47837140779258)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [44](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-predator-elite-tongue-x-bellingham-sg-core-black-ftwr-white-glory-blue?variant=47837140812026)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [⅔44](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-predator-elite-tongue-x-bellingham-sg-core-black-ftwr-white-glory-blue?variant=47837140844794)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [⅓45](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-predator-elite-tongue-x-bellingham-sg-core-black-ftwr-white-glory-blue?variant=47837140877562)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [46](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-predator-elite-tongue-x-bellingham-sg-core-black-ftwr-white-glory-blue?variant=47837140910330)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [⅔46](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-predator-elite-tongue-x-bellingham-sg-core-black-ftwr-white-glory-blue?variant=47837140943098)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [⅓47](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-predator-elite-tongue-x-bellingham-sg-core-black-ftwr-white-glory-blue?variant=47837140975866)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+- [נעלי כדורגל מקצועיות Predator Elite Tongue x Bellingham AG](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-predator-elite-tongue-x-bellingham-ag-core-black-ftwr-white-glory-blue): נעלי Predator Elite Tongue x Bellingham AG של adidas נוצרו בהשראת מסעו המרשים של ג׳וד בלינגהאם מהילדות במועדון נעוריו ועד להפיכתו לסמל עולמי על כר הדשא. העיצוב במהדורה ייחודית משלב פרטים בצבעי שחור, לבן וכחול, עם קריצה לעיר הולדתו ופרטי השראה בלשונית המזכירים את תחילת הדרך שלו בכדורגל המקצועני. החלק העליון עשוי מחומר HybridTouch מתקדם, המשלב בין זמש סינתטי לגימור קליל ונושם. המבנה המשופר של Strikeskin כולל סנפירי גומי עדינים, המעניקים אחיזה מושלמת ושליטה מדויקת בכדור. פסי ה־3-Stripes מופיעים משני צדי הנעל בעיצוב הקלאסי המזוהה עם סדרת Predator, המשדר עוצמה ואלגנטיות בכל תנועה. טכנולוגיית Traxionframe שבלב הסוליה פותחה במיוחד עבור מגרשי דשא סינתטיים (AG), ומספקת אחיזה יציבה, תאוצה חדה ותגובה טבעית לכל תנועה. בנוסף, פקקי Traxion 360 Pivot באזור הקדמי מאפשרים תמרון מהיר, סיבובים מדויקים ושליטה מלאה בקצב המשחק. נעלי Predator Elite Tongue x Bellingham AG הן הבחירה המושלמת לשחקנים שמכוונים גבוה כאלה שמבקשים לשלב בין סגנון אישי, טכנולוגיה מתקדמת וביצועים חדים כמו של הכוכב האנגלי הצעיר.
+  Updated: 2025-10-18T15:24:21Z
+  Vendor: R:SPORT
+  Product Type: נעלי כדורגל
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/23_cae1968f-ad18-446c-8912-9857f622db6f.jpg?v=1760796367
+  - [⅓39](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-predator-elite-tongue-x-bellingham-ag-core-black-ftwr-white-glory-blue?variant=47837147529466)
+    Availability: Available
+    Price: ‏1,799.00 ‏₪ ILS
+  - [40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-predator-elite-tongue-x-bellingham-ag-core-black-ftwr-white-glory-blue?variant=47837147562234)
+    Availability: Available
+    Price: ‏1,799.00 ‏₪ ILS
+  - [⅔40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-predator-elite-tongue-x-bellingham-ag-core-black-ftwr-white-glory-blue?variant=47837147595002)
+    Availability: Available
+    Price: ‏1,799.00 ‏₪ ILS
+  - [⅓41](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-predator-elite-tongue-x-bellingham-ag-core-black-ftwr-white-glory-blue?variant=47837147627770)
+    Availability: Available
+    Price: ‏1,799.00 ‏₪ ILS
+  - [42](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-predator-elite-tongue-x-bellingham-ag-core-black-ftwr-white-glory-blue?variant=47837147660538)
+    Availability: Available
+    Price: ‏1,799.00 ‏₪ ILS
+  - [⅔42](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-predator-elite-tongue-x-bellingham-ag-core-black-ftwr-white-glory-blue?variant=47837147693306)
+    Availability: Available
+    Price: ‏1,799.00 ‏₪ ILS
+  - [⅓43](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-predator-elite-tongue-x-bellingham-ag-core-black-ftwr-white-glory-blue?variant=47837147726074)
+    Availability: Available
+    Price: ‏1,799.00 ‏₪ ILS
+  - [44](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-predator-elite-tongue-x-bellingham-ag-core-black-ftwr-white-glory-blue?variant=47837147758842)
+    Availability: Available
+    Price: ‏1,799.00 ‏₪ ILS
+  - [⅔44](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-predator-elite-tongue-x-bellingham-ag-core-black-ftwr-white-glory-blue?variant=47837147791610)
+    Availability: Available
+    Price: ‏1,799.00 ‏₪ ILS
+  - [⅓45](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-predator-elite-tongue-x-bellingham-ag-core-black-ftwr-white-glory-blue?variant=47837147824378)
+    Availability: Available
+    Price: ‏1,799.00 ‏₪ ILS
+  - [46](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-predator-elite-tongue-x-bellingham-ag-core-black-ftwr-white-glory-blue?variant=47837147857146)
+    Availability: Available
+    Price: ‏1,799.00 ‏₪ ILS
+  - [⅔46](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-predator-elite-tongue-x-bellingham-ag-core-black-ftwr-white-glory-blue?variant=47837147889914)
+    Availability: Available
+    Price: ‏1,799.00 ‏₪ ILS
+  - [⅓47](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-predator-elite-tongue-x-bellingham-ag-core-black-ftwr-white-glory-blue?variant=47837147922682)
+    Availability: Available
+    Price: ‏1,799.00 ‏₪ ILS
+  - [48](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-predator-elite-tongue-x-bellingham-ag-core-black-ftwr-white-glory-blue?variant=47837147955450)
+    Availability: Available
+    Price: ‏1,799.00 ‏₪ ILS
+  - [⅔48](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-predator-elite-tongue-x-bellingham-ag-core-black-ftwr-white-glory-blue?variant=47837147988218)
+    Availability: Available
+    Price: ‏1,799.00 ‏₪ ILS
+- [נעלי כדורגל Predator League Tongue x Bellingham FG/MG](https://www.rsport.co.il/products/נעלי-כדורגל-predator-league-tongue-x-bellingham-fg-mg-core-black-ftwr-white-glory-blue): נעלי Predator League Tongue x Bellingham FG/MG של adidas נוצרו בהשראת תחילת דרכו של ג׳וד בלינגהאם מהילדות במועדון נעוריו ועד לפריצה הגדולה בגיל 16. עיצוב המהדורה המיוחדת משלב אלמנטים בצבעי שחור, לבן וכחול, כמחווה לצבעי הקבוצה בה צמח, עם פרטים ייחודיים המדגישים את סיפורו האישי והקשר למגרש ממנו הכול התחיל. החלק העליון עשוי מחומר HybridFeel חדשני, המעניק תחושת מגע טבעית עם הכדור, גמישות גבוהה ותמיכה מצוינת. טכנולוגיית Strikescale העדכנית כוללת שכבות טקסטורה מדויקות המגבירות שליטה ודיוק בבעיטות ובמסירות, והלשונית הרחבה מאפשרת התאמה נוחה ותחושת אחיזה אחידה לכל אורך הרגל. הסוליה בטכנולוגיית ControlPlate 2.0 מבטיחה אחיזה יציבה, זריזות ומהירות תגובה מרבית במגרשים עם דשא טבעי או סינתטי. המבנה הרב-כיווני של הפקקים תורם ליציבות מלאה, שליטה בתנועה ותמרון חלק גם במשחקים אינטנסיביים. Predator League Tongue x Bellingham FG/MG הן הבחירה המושלמת לשחקנים שמחפשים שילוב של נוחות, עיצוב ייחודי וביצועים אמיתיים בדיוק כמו הכוכב שהן נוצרו בהשראתו.
+  Updated: 2025-10-18T15:24:21Z
+  Vendor: R:SPORT
+  Product Type: נעלי כדורגל
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/3_49339d2d-fd8e-44be-b690-33e21c4a7258.jpg?v=1760801006
+  - [36](https://www.rsport.co.il/products/נעלי-כדורגל-predator-league-tongue-x-bellingham-fg-mg-core-black-ftwr-white-glory-blue?variant=47837162012922)
+    Availability: Available
+    Price: ‏899.90 ‏₪ ILS
+  - [⅔36](https://www.rsport.co.il/products/נעלי-כדורגל-predator-league-tongue-x-bellingham-fg-mg-core-black-ftwr-white-glory-blue?variant=47837162045690)
+    Availability: Available
+    Price: ‏899.90 ‏₪ ILS
+  - [⅓37](https://www.rsport.co.il/products/נעלי-כדורגל-predator-league-tongue-x-bellingham-fg-mg-core-black-ftwr-white-glory-blue?variant=47837162078458)
+    Availability: Available
+    Price: ‏899.90 ‏₪ ILS
+  - [38](https://www.rsport.co.il/products/נעלי-כדורגל-predator-league-tongue-x-bellingham-fg-mg-core-black-ftwr-white-glory-blue?variant=47837162111226)
+    Availability: Available
+    Price: ‏899.90 ‏₪ ILS
+  - [⅔38](https://www.rsport.co.il/products/נעלי-כדורגל-predator-league-tongue-x-bellingham-fg-mg-core-black-ftwr-white-glory-blue?variant=47837162143994)
+    Availability: Available
+    Price: ‏899.90 ‏₪ ILS
+  - [⅓39](https://www.rsport.co.il/products/נעלי-כדורגל-predator-league-tongue-x-bellingham-fg-mg-core-black-ftwr-white-glory-blue?variant=47837162176762)
+    Availability: Available
+    Price: ‏899.90 ‏₪ ILS
+  - [40](https://www.rsport.co.il/products/נעלי-כדורגל-predator-league-tongue-x-bellingham-fg-mg-core-black-ftwr-white-glory-blue?variant=47837162209530)
+    Availability: Available
+    Price: ‏899.90 ‏₪ ILS
+  - [⅔40](https://www.rsport.co.il/products/נעלי-כדורגל-predator-league-tongue-x-bellingham-fg-mg-core-black-ftwr-white-glory-blue?variant=47837162242298)
+    Availability: Available
+    Price: ‏899.90 ‏₪ ILS
+  - [⅓41](https://www.rsport.co.il/products/נעלי-כדורגל-predator-league-tongue-x-bellingham-fg-mg-core-black-ftwr-white-glory-blue?variant=47837162275066)
+    Availability: Available
+    Price: ‏899.90 ‏₪ ILS
+  - [42](https://www.rsport.co.il/products/נעלי-כדורגל-predator-league-tongue-x-bellingham-fg-mg-core-black-ftwr-white-glory-blue?variant=47837162307834)
+    Availability: Available
+    Price: ‏899.90 ‏₪ ILS
+  - [⅔42](https://www.rsport.co.il/products/נעלי-כדורגל-predator-league-tongue-x-bellingham-fg-mg-core-black-ftwr-white-glory-blue?variant=47837162340602)
+    Availability: Available
+    Price: ‏899.90 ‏₪ ILS
+  - [⅓43](https://www.rsport.co.il/products/נעלי-כדורגל-predator-league-tongue-x-bellingham-fg-mg-core-black-ftwr-white-glory-blue?variant=47837162373370)
+    Availability: Available
+    Price: ‏899.90 ‏₪ ILS
+  - [44](https://www.rsport.co.il/products/נעלי-כדורגל-predator-league-tongue-x-bellingham-fg-mg-core-black-ftwr-white-glory-blue?variant=47837162406138)
+    Availability: Available
+    Price: ‏899.90 ‏₪ ILS
+  - [⅔44](https://www.rsport.co.il/products/נעלי-כדורגל-predator-league-tongue-x-bellingham-fg-mg-core-black-ftwr-white-glory-blue?variant=47837162438906)
+    Availability: Available
+    Price: ‏899.90 ‏₪ ILS
+  - [⅓45](https://www.rsport.co.il/products/נעלי-כדורגל-predator-league-tongue-x-bellingham-fg-mg-core-black-ftwr-white-glory-blue?variant=47837162471674)
+    Availability: Available
+    Price: ‏899.90 ‏₪ ILS
+  - [46](https://www.rsport.co.il/products/נעלי-כדורגל-predator-league-tongue-x-bellingham-fg-mg-core-black-ftwr-white-glory-blue?variant=47837162504442)
+    Availability: Available
+    Price: ‏899.90 ‏₪ ILS
+  - [⅔46](https://www.rsport.co.il/products/נעלי-כדורגל-predator-league-tongue-x-bellingham-fg-mg-core-black-ftwr-white-glory-blue?variant=47837162537210)
+    Availability: Available
+    Price: ‏899.90 ‏₪ ILS
+  - [⅓47](https://www.rsport.co.il/products/נעלי-כדורגל-predator-league-tongue-x-bellingham-fg-mg-core-black-ftwr-white-glory-blue?variant=47837162569978)
+    Availability: Available
+    Price: ‏899.90 ‏₪ ILS
+  - [48](https://www.rsport.co.il/products/נעלי-כדורגל-predator-league-tongue-x-bellingham-fg-mg-core-black-ftwr-white-glory-blue?variant=47837162602746)
+    Availability: Available
+    Price: ‏899.90 ‏₪ ILS
+  - [⅔48](https://www.rsport.co.il/products/נעלי-כדורגל-predator-league-tongue-x-bellingham-fg-mg-core-black-ftwr-white-glory-blue?variant=47837162635514)
+    Availability: Available
+    Price: ‏899.90 ‏₪ ILS
 
 ## Collections
 
@@ -47584,8 +47887,8 @@
   Updated: 2025-10-06T22:42:14Z
   Total Products: 52
 - [ילדים](https://www.rsport.co.il/collections/ילדים)
-  Updated: 2025-10-16T23:09:29Z
-  Total Products: 340
+  Updated: 2025-10-18T15:24:18Z
+  Total Products: 341
 - [צ'לסי – חולצות כדורגל ומוצרי ספורט | Chelsea FC](https://www.rsport.co.il/collections/צלסי): חולצות כדורגל וחליפות ילדים של צ'לסי במבחר עיצובים וגדלים. לבוש ספורטיבי איכותי לאוהדים הצעירים של הבלוז – סטייל ונוחות במגרש וביום יום.
   Updated: 2025-10-02T12:12:20Z
   Total Products: 37
@@ -47944,14 +48247,14 @@
   Updated: 2025-10-02T11:31:13Z
   Total Products: 5
 - [Predator](https://www.rsport.co.il/collections/predator)
-  Updated: 2025-10-06T19:08:54Z
-  Total Products: 14
+  Updated: 2025-10-18T15:24:20Z
+  Total Products: 19
 - [נעלי כדורגל](https://www.rsport.co.il/collections/נעלי-כדורגל)
-  Updated: 2025-10-16T07:43:38Z
-  Total Products: 70
+  Updated: 2025-10-18T15:24:20Z
+  Total Products: 75
 - [נעלי כדורגל FG](https://www.rsport.co.il/collections/נעלי-כדורגל-fg)
-  Updated: 2025-10-16T07:39:30Z
-  Total Products: 54
+  Updated: 2025-10-18T15:24:20Z
+  Total Products: 57
 - [חולצות כדורגל - מגוון רחב במחירים משתלמים](https://www.rsport.co.il/collections/חולצות-כדורגל): האתר מתמחה במגוון רחב של חולצות משחק, כולל חולצות עבר, חולצות אימוניות וחליפות כדורגל לילדים.
   Updated: 2025-10-17T11:19:14Z
   Total Products: 826
@@ -48046,8 +48349,8 @@
   Updated: 2025-10-02T11:31:37Z
   Total Products: 12
 - [AVADA - Best Sellers](https://www.rsport.co.il/collections/avada-best-sellers)
-  Updated: 2025-10-17T11:19:14Z
-  Total Products: 2091
+  Updated: 2025-10-18T15:24:20Z
+  Total Products: 2096
 - [פיורנטינה רטרו](https://www.rsport.co.il/collections/פיורנטינה-רטרו): אנו מציעים חולצות כדורגל רטרו של פיורנטינה מהעבר המפואר, בעיצובים קלאסיים ששימשו את הקבוצה בשנות ה-90 ותחילת ה-2000. בין השחקנים הבולטים מהתקופות הללו: גבריאל באטיסטוטה, ווֹלפגנג מולה, אנג'לו די ליוויו ופרנצ'סקו טולדו. כל פריט בקטגוריה מחבר אתכם להיסטוריה המפוארת של פיורנטינה ומספק חוויה נוסטלגית לחובבי הכדורגל.
   Updated: 2025-10-02T11:15:25Z
   Total Products: 9
@@ -48244,8 +48547,8 @@
   Updated: 2025-10-04T20:33:30Z
   Total Products: 3
 - [Artificial Grass Football Boots](https://www.rsport.co.il/collections/football-boots-groundtype-artificial-grass): גלו את מגוון נעלי הכדורגל AG המובילות למשחק על דשא סינתטי ב-R:Sport. נעליים אלו, המיועדות במיוחד למשטחי "כל מזג אוויר", מעניקות אחיזה מושלמת, יציבות וביצועים מקצועיים בכל שלב של המשחק. סוליות נעלי AG כוללות פקקים צפופים ומדויקים, לעיתים חלולים או מחוררים, כדי להפחית משקל ולספק ריכוך וזעזועים, תוך שמירה על אחיזה מקסימלית. העיצוב שלהן מתאים במיוחד לשחיקה המוגברת של דשא סינתטי, ומאפשר חופש תנועה מלא, גם למשחקים תובעניים. ב-R:Sport תמצאו דגמים לילדים, בני נוער ומבוגרים, מהדגמים החדשים ביותר ועד דגמי AG ייחודיים. כל נעל נבחרה בקפידה כדי להבטיח שאתם תישארו מקצועיים על המגרש ותיהנו מביצועים יוצאי דופן לאורך כל המשחק. עשו את הצעד הנכון עם נעלי כדורגל, ציוד קבוצתי וכדורי כדורגל איכותיים למשחק. בנוסף, ב-R:Sport תמצאו גם מגוון רחב של חולצות כדורגל לכל אוהד ושחקן.
-  Updated: 2025-10-16T07:43:38Z
-  Total Products: 8
+  Updated: 2025-10-18T15:24:19Z
+  Total Products: 9
 - [PUMA Hot Pursuit](https://www.rsport.co.il/collections/puma-hot-pursuit)
   Updated: 2025-10-12T18:32:28Z
   Total Products: 8
@@ -48262,8 +48565,8 @@
   Updated: 2025-10-12T18:32:28Z
   Total Products: 2
 - [Soft Ground (SG)](https://www.rsport.co.il/collections/football-boots-groundtype-softground-sg)
-  Updated: 2025-10-09T09:05:31Z
-  Total Products: 9
+  Updated: 2025-10-18T15:24:19Z
+  Total Products: 10
 - [נעלי כדורגל Puma King](https://www.rsport.co.il/collections/נעלי-כדורגל-puma-king)
   Updated: 2025-10-07T12:25:17Z
   Total Products: 2
@@ -48291,6 +48594,9 @@
 - [נעליי כדורגל נייק לילדים](https://www.rsport.co.il/collections/נעליי-כדורגל-נייק-לילדים)
   Updated: 2025-10-17T14:25:29Z
   Total Products: 2
+- [Jude Bellingham](https://www.rsport.co.il/collections/jude-bellingham): ג’וד בלינגהאם הוא אחד השחקנים המוכשרים והמרשימים ביותר בעולם הכדורגל, שחקן שמביא למגרש שילוב נדיר של טכניקה, שליטה וביטחון. כבר מגיל צעיר באנגליה הוא הראה כישרון יוצא דופן, והיום הוא מככב באחד המועדונים הגדולים בעולם, שם הוא מוכיח בכל משחק שהוא בנוי לרגעים הגדולים ביותר. בקטגוריה זו תמצאו מבחר חולצות כדורגל, נעלי כדורגל וציוד מקצועי בהשראת Jude Bellingham, הכוללים דגמים עדכניים ואיכותיים של adidas, שנועדו להעניק ביצועים מושלמים בכל מגרש. המוצרים מציעים נוחות, יציבות ושליטה מלאה בכדור, בדיוק כמו בסגנון המשחק הבטוח והאלגנטי של בלינגהאם. בחרו את הדגם שמתאים לכם, ותחוו את התחושה של אחד הכוכבים הגדולים בכדורגל העולמי.
+  Updated: 2025-10-18T15:24:20Z
+  Total Products: 28
 
 ## Blogs
 
