@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-03-10T14:11:59Z
 - Contact Email: info@surgismart.in
-- Updated At: 2025-10-17T08:00:35.247Z
+- Updated At: 2025-10-18T00:00:33.951Z
 
 ## Products
 
@@ -1065,7 +1065,7 @@
     Availability: Available
     Price: ₹2,700.00 INR
 - [Buy ​United Medicare D.V.T. Stocking Thigh High (J-36/J-37) - Surgismart](https://surgismart.in/products/j-36): Key Features: Anatomical shape provides perfect fitting and uniform compression, even on uneven limb surfaces. Top silicone line band ensures no slippage and provides optimal grip. Open-toe design makes it easy to wear and reduces wear and tear. Use of high-quality materials ensures a strong and durable. Provides long functional life with excellent aesthetics. Direction of use Slide the stocking up towards the thigh. Insert your hand in the stocking and hold the heel portion in your palm. Now reverse the stocking outward. Slide the inverted stocking so that its heel portion fits your heel perfectly. Safety information Keep away from sharp things. Hand wash with mild detergent and water. United Medicare Thigh-High DVT (Deep Vein Thrombosis) Stocking is specialized compression stockings that cover the entire leg up to the thigh. It is designed to prevent or manage deep vein thrombosis.United Medicare DVT stocking can help manage a variety of conditions, such as varicose veins, swollen venous insufficiency, and deep vein thrombosis.DVT stocking is indicated for people who are at risk of DVT (Deep Vein Thrombosis), such as those with limited mobility or DVT-related conditions.The top silicone-lined band helps to ensure no slippage and helps to provide optimal grip to the patient.United Medicare DVT stockings work by applying graduated compression, which is tightest at the ankle and gradually loosens as they move up the leg. Sold by: Surgismart - Surgismart
-  Updated: 2025-10-13T11:20:16Z
+  Updated: 2025-10-17T16:52:33Z
   Vendor: United Medicare
   Product Type: Compression Support
   Availability: Available
@@ -3173,7 +3173,7 @@
     Availability: Available
     Price: ₹1,000.00 INR
 - [Classic New Gen Scrubsuit, Navy](https://surgismart.in/products/classic-scrub-suit-navy): 🧵 Fabric & Comfort: This scrub suit, offered by Surgismart, is crafted from a breathable poly-cotton blend that provides all-day comfort. It’s soft on the skin, easy to maintain, and suitable for long shifts in hospitals, clinics, and labs. The material helps reduce wrinkles and ensures a clean look throughout your workday. 👗 Design & Fit: The top features a classic cross V-neck design, offering a simple yet professional appearance. The pants include an elasticized back and an adjustable front drawstring, allowing for a flexible and comfortable fit. 🩺 Practical Storage: Designed for convenience, this set includes a total of 2 practical pockets Ideal for keeping small work essentials like pens, notepads, phones, and tools within reach. 🎨 Size & Colour Options: Available in multiple sizes to suit different body types. Choose from a selection of appealing, workplace-friendly colours. Note: Actual product colour may vary slightly due to photographic lighting or monitor settings. 🧼 Wash Care Instructions Wash inside out Hand wash or machine wash with similar colours Do not bleach Dry in shade; avoid direct sunlight Use medium heat for ironing; avoid high temperatures 📦 Package Includes 1 Scrub Top 1 Scrub Pant 1 Unisex Cap 1 Face Mask
-  Updated: 2025-10-14T15:09:12Z
+  Updated: 2025-10-17T09:26:18Z
   Vendor: Surgismart
   Product Type: Free Shipping
   Availability: Available
@@ -3277,7 +3277,7 @@
 ## Collections
 
 - [Buy ​GST 5% - Surgismart](https://surgismart.in/collections/gst-5): - Surgismart
-  Updated: 2025-10-15T11:16:40Z
+  Updated: 2025-10-17T11:17:28Z
   Total Products: 152
 - [Buy ​GST 18% - Surgismart](https://surgismart.in/collections/gst-18): - Surgismart
   Updated: 2025-10-13T11:20:16Z
@@ -3460,7 +3460,7 @@
   Updated: 2025-09-16T10:45:20Z
   Total Products: 42
 - [Medical Apparels](https://surgismart.in/collections/medical-apparels)
-  Updated: 2025-10-15T11:16:40Z
+  Updated: 2025-10-17T11:17:28Z
   Total Products: 4
 
 ## Blogs
