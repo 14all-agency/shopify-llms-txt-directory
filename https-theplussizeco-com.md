@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-06-10T17:50:10Z
 - Contact Email: tejusentprs@gmail.com
-- Updated At: 2025-10-18T00:00:32.168Z
+- Updated At: 2025-10-18T20:00:32.138Z
 
 ## Products
 
@@ -163,7 +163,7 @@
   Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/Magenta_Floral_Rayon_Night_Gown_6.jpg?v=1753080045
   Price: ₹795.00 INR
 - [Plus Size Mauve Printed Rayon Night Gown- The Plus Size Co.](https://theplussizeco.com/products/mauve-printed-rayon-night-gown)
-  Updated: 2025-10-14T05:23:33Z
+  Updated: 2025-10-18T12:12:43Z
   Vendor: The Plus Size Co.
   Product Type: Night Gowns
   Availability: Available
@@ -693,7 +693,7 @@
   Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/Lalita_TPSC_6803af6e-3a4d-4da2-b6da-4b9e6d14b5db.png?v=1755492087
   Price: ₹1,195.00 INR
 - [Soft Blue Floral Cotton Suit Set- The Plus Size Co.](https://theplussizeco.com/products/soft-blue-floral-cotton-suit-set): Serenity in every stitch with our Soft Blue Floral Cotton Suit Set. Features cotton fabric and 3/4th sleeves. Paired with pant and dupatta. Sizes in XL to 10XL.
-  Updated: 2025-10-17T10:40:12Z
+  Updated: 2025-10-18T16:00:31Z
   Vendor: The Plus Size Co.
   Product Type: Suit Sets
   Availability: Available
@@ -712,7 +712,7 @@
     Availability: Available
     Price: ₹1,295.00 INR
 - [Maroon Floral Printed Cotton Suit Set- The Plus Size Co.](https://theplussizeco.com/products/maroon-floral-printed-cotton-suit-set): Embrace everyday elegance with our Maroon Floral Printed Cotton Suit Set. Features cotton fabric and V cut neckline. Paired with pant and dupatta. Sizes in XL to 10XL.
-  Updated: 2025-10-14T11:20:06Z
+  Updated: 2025-10-18T11:12:54Z
   Vendor: The Plus Size Co.
   Product Type: Suit Sets
   Availability: Available
@@ -780,7 +780,7 @@
   Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/378.png?v=1755761850
   Price: ₹795.00 INR
 - [Pink Floral Cotton Suit Set- The Plus Size Co.](https://theplussizeco.com/products/pink-floral-cotton-suit-set): Serenity in every stitch with our Pink Floral Cotton Suit Set. Features cotton fabric and 3/4th sleeves. Paired with pant and dupatta. Sizes in XL to 10XL.
-  Updated: 2025-10-06T10:33:07Z
+  Updated: 2025-10-18T17:27:58Z
   Vendor: The Plus Size Co.
   Product Type: Suit Sets
   Availability: Available
@@ -794,7 +794,7 @@
   Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/WomenPlusSizeOrangeFloralSuitSet_1_f987ef9c-9cba-4496-a701-d7b5a35e1b14.png?v=1758689163
   Price: ₹1,295.00 INR
 - [Sky Blue Bandhani Cotton Suit Set- The Plus Size Co.](https://theplussizeco.com/products/sky-blue-bandhani-cotton-suit-set): Serenity in every stitch with our Sky Blue Cotton Suit Set. Features cotton fabric and 3/4th sleeves. Paired with pant and dupatta. Sizes in XL to 10XL.
-  Updated: 2025-10-15T06:03:27Z
+  Updated: 2025-10-18T12:12:43Z
   Vendor: The Plus Size Co.
   Product Type: Suit Sets
   Availability: Available
@@ -815,14 +815,14 @@
   Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/Women_Plus_Size_Yellow_Floral_Cotton_Suit_Set.png?v=1758778320
   Price: ₹1,395.00 INR
 - [Mustard Floral Cotton Suit Set- The Plus Size Co.](https://theplussizeco.com/products/mustard-floral-cotton-suit-set): Serenity in every stitch with our Mustard Floral Cotton Suit Set. Features cotton fabric and 3/4th sleeves. Paired with pant and dupatta. Sizes in XL to 10XL.
-  Updated: 2025-10-17T10:01:36Z
+  Updated: 2025-10-18T12:22:21Z
   Vendor: The Plus Size Co.
   Product Type: Suit Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/WomenPlusSizeMustardSuitSet_1.png?v=1758624630
   Price: ₹1,295.00 INR
 - [Magenta Floral Cotton Suit Set- The Plus Size Co.](https://theplussizeco.com/products/magenta-floral-cotton-suit-set): Serenity in every stitch with our Soft Blue Floral Cotton Suit Set. Features cotton fabric and 3/4th sleeves. Paired with pant and dupatta. Sizes in XL to 10XL.
-  Updated: 2025-10-16T17:41:42Z
+  Updated: 2025-10-18T17:37:50Z
   Vendor: The Plus Size Co.
   Product Type: Suit Sets
   Availability: Available
