@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-10-18T04:01:09.195Z
+- Updated At: 2025-10-18T08:01:11.881Z
 
 ## Products
 
@@ -17590,7 +17590,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/barbie-signature-ted-lasso-keeley-jones-glamour-e-estilo-230973824-0194735097388-barbie-signature-1178700684.jpg?v=1752959884
   Price: 39,99 € EUR
 - [Hot Wheels - Hiway Hauler: O Veículo Verde dos Beatles](https://brincatoys.pt/products/hot-wheels-hiway-hauler): Reviva a magia dos concertos dos Beatles com o Hot Wheels - Hiway Hauler. Um camião de coleção com detalhes autênticos e muita nostalgia.
-  Updated: 2025-10-13T06:17:15Z
+  Updated: 2025-10-18T07:42:46Z
   Vendor: Hot Wheels
   Product Type: + 3 anos
   Availability: Available
@@ -18528,7 +18528,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/ferrari-f1-75-16-charles-leclerc-683683225-8719247769008-bburago-1178701385.jpg?v=1752970094
   Price: 16,99 € EUR
 - [Lego Creator 31161 - Dragão Medieval: Crie Criaturas Mágicas!](https://brincatoys.pt/products/lego-creator-dragao-medieval): Desperta a tua imaginação com o Lego Creator 31161 - Dragão Medieval! Constrói três criaturas mágicas e vive aventuras no mundo medieval. 🧱✨
-  Updated: 2025-10-13T06:16:09Z
+  Updated: 2025-10-18T05:55:57Z
   Vendor: LEGO
   Product Type: + 9 anos
   Availability: Available
