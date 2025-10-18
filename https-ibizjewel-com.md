@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-01-24T04:49:01Z
 - Contact Email: info@ibizjewel.com
-- Updated At: 2025-10-18T00:00:48.369Z
+- Updated At: 2025-10-18T12:00:52.753Z
 
 ## Products
 
@@ -1809,7 +1809,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/SPDR-07_2.jpg?v=1703830705
     Price: $2,809.00 USD
 - [Natural Salt And Pepper 1.70CT Pear Diamond Art Deco Unique Engagement Ring | Handmade Ring | Anniversary Ring](https://ibizjewel.com/products/natural-salt-and-pepper-1-70ct-pear-diamond-art-deco-unique-engagement-ring-handmade-ring-anniversary-ring-1): This Natural Salt And Pepper 1.70CT Pear Diamond Art Deco Unique Engagement Ring is the perfect accompaniment for your special someone. Expertly crafted for a timeless and romantic look, the handmade ring features a captivating pear-shaped center diamond surrounded by exquisite pave-set accents. A truly unique and memorable gift for anniversaries or engagements.
-  Updated: 2025-10-02T10:30:38Z
+  Updated: 2025-10-18T10:31:56Z
   Vendor: Natural Salt And Pepper Diamond Ring
   Product Type: Natural Salt And Pepper Pear Diamond Ring
   Availability: Available
@@ -2925,7 +2925,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/SPDR-25_1.jpg?v=1690543009
     Price: $2,469.00 USD
 - [Natural Salt And Pepper 1.80CT Hexagon Diamond Art Deco Unique Engagement Ring | Handmade Ring | Anniversary Ring](https://ibizjewel.com/products/natural-salt-and-pepper-1-80ct-hexagon-diamond-art-deco-unique-engagement-ring-handmade-ring-anniversary-ring): This stunning natural salt and pepper diamond ring features 1.80CT of hexagon diamonds, handcrafted in an Art Deco style. Its unique design is perfect for an engagement, anniversary, or special occasion. Crafted with care, this ring is sure to stand out.
-  Updated: 2025-10-02T10:30:39Z
+  Updated: 2025-10-18T10:29:25Z
   Vendor: Natural Salt And Pepper Diamond Ring
   Product Type: Natural Salt And Pepper Hexagon Diamond Ring
   Availability: Available
@@ -3135,7 +3135,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/SPDR-28_1.jpg?v=1690543252
     Price: $2,279.00 USD
 - [Natural Salt And Pepper 1.30CT Hexagon Diamond Art Deco Unique Engagement Ring | Handmade Ring | Anniversary Ring](https://ibizjewel.com/products/natural-salt-and-pepper-1-30ct-hexagon-diamond-art-deco-unique-engagement-ring-handmade-ring-anniversary-ring-1): This stunning Natural Salt And Pepper 1.30CT Hexagon Diamond Art Deco Unique Engagement Ring is a wonderful choice for any milestone anniversary or special occasion. Featuring a hexagon diamond, this handmade ring is an elegant symbol of your commitment.
-  Updated: 2025-10-02T10:30:40Z
+  Updated: 2025-10-18T09:47:15Z
   Vendor: Natural Salt And Pepper Diamond Ring
   Product Type: Natural Salt And Pepper Hexagon Diamond Ring
   Availability: Available
@@ -4839,7 +4839,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/SPDR-48_2.jpg?v=1690545905
     Price: $2,219.00 USD
 - [Natural Salt And Pepper 1.65CT Pear Diamond Art Deco Unique Engagement Ring | Handmade Ring | Anniversary Ring](https://ibizjewel.com/products/natural-salt-and-pepper-1-65ct-pear-diamond-art-deco-unique-engagement-ring-handmade-ring-anniversary-ring): This timeless Natural Salt And Pepper 1.65CT Pear Diamond Art Deco Unique Engagement Ring is the ideal choice for any special occasion. Crafted with a pear-shaped diamond and handmade with quality materials, this ring is sure to become a treasured heirloom for years to come.
-  Updated: 2025-10-02T10:30:41Z
+  Updated: 2025-10-18T10:34:04Z
   Vendor: Natural Salt And Pepper Diamond Ring
   Product Type: Natural Salt And Pepper Pear Diamond Ring
   Availability: Available
@@ -26064,7 +26064,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/SPDR-142_2.jpg?v=1710931644
     Price: $1,120.00 USD
 - [Moissanite 0.40CT Princess Diamond Necklace](https://ibizjewel.com/products/moissanite-0-40ct-princess-diamond-necklace): Discover The Unparalleled Brilliance And Sparkle Of Our Moissanite 0.40ct Princess Diamond Necklace. Made With The Finest Quality Moissanite, This Necklace Boasts A Stunning 0.40 Carat Princess Diamond Cut Center Stone. Experience The Beauty And Elegance Of A Diamond Without The High Price Tag. Perfect For Any Occasion.
-  Updated: 2025-10-02T10:31:01Z
+  Updated: 2025-10-18T02:55:42Z
   Vendor: Moissanite Diamond Necklaces
   Product Type: Moissanite Princess Diamond Necklace
   Availability: Available
