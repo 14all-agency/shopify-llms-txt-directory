@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2025-10-17T16:00:52.473Z
+- Updated At: 2025-10-18T00:00:51.924Z
 
 ## Products
 
@@ -8460,7 +8460,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/High-Neck-Long-Sleeve-Ribbed-Top-Brinxx-Couture-6079_ae99505f-4811-4797-bf89-89c3a0f73de1.jpg?v=1736050169
     Price: $25.00 USD
 - [Distressed Raw Hem Denim Jacket - Brinxx Couture](https://www.brinxxcouture.com/products/distressed-raw-hem-denim-jacket): This distressed raw hem denim jacket is the perfect way to make a statement. With its distressed raw hem design, you'll look cool and effortless.
-  Updated: 2025-10-17T10:00:50Z
+  Updated: 2025-10-17T23:51:30Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -9852,7 +9852,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Open-Front-Ribbed-Hooded-Coat-Brinxx-Couture-7459.jpg?v=1709852117
     Price: $49.99 USD
 - [Zip-Up Collared Ribbed Jacket - Brinxx Couture](https://www.brinxxcouture.com/products/zip-up-collared-ribbed-jacket): This stylish zip-up collared ribbed jacket is perfect for keeping you warm and cozy in cold weather. Crafted from high-quality materials.
-  Updated: 2025-10-17T05:50:36Z
+  Updated: 2025-10-17T17:59:25Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -16100,7 +16100,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/products/Cutout-Mock-Neck-Sleeveless-Dress-Brinxx-Couture-7698.jpg?v=1709885128
     Price: $29.99 USD
 - [Rhinestone Mock Neck Long Sleeve Dress - Brinxx Couture](https://www.brinxxcouture.com/products/rhinestone-mock-neck-long-sleeve-dress): Add some sparkle to your wardrobe with our Rhinestone Mock Neck Long Sleeve Dress! This dress features a trendy mock neck and long sleeves, adorned with dazzling rhinestones. Perfect for any special occasion, it's sure to make you stand out and feel glamorous. Shine on! Sheer: Semi-sheer Stretch: Slightly stretchy Body: Not lined Material composition: 60% viscose, 31% polyamide, 9% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements:S: Bust 29.92 in, Shoulder 13.78 in, Sleeve Length 22.83 in, Waist 26.77 in, HIP 34.65 in, Length 35.63 inM: Bust 32.28 in, Shoulder 14.37 in, Sleeve Length 23.23 in, Waist 29.13 in, HIP 37.01 in, Length 36.42 inL: Bust 34.65 in, Shoulder 14.96 in, Sleeve Length 23.62 in, Waist 31.50 in, HIP 39.37 in, Length 37.20 inXL: Bust 37.80 in, Shoulder 15.94 in, Sleeve Length 24.02 in, Waist 34.65 in, HIP 42.52 in, Length 37.99 in
-  Updated: 2025-10-17T11:00:36Z
+  Updated: 2025-10-17T23:51:37Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -19446,7 +19446,7 @@
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/David-Jones-Quilted-PU-Leather-Handbag-Brinxx-Couture-1991.jpg?v=1730294868
   Price: $59.99 USD
 - [PU Leather Tassel Crossbody Bag - Brinxx Couture](https://www.brinxxcouture.com/products/pu-leather-tassel-crossbody-bag): Elevate your style with our PU Leather Tassel Crossbody Bag! Made of premium quality material, It features a trendy tassel design and a crossbody strap.
-  Updated: 2025-10-17T09:40:48Z
+  Updated: 2025-10-17T19:40:02Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -22217,7 +22217,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Drawstring-Long-Sleeve-Top-and-Shorts-Lounge-Set-Brinxx-Couture-7833_f649b4c4-31b9-490a-a999-d715291eec52.jpg?v=1736049829
     Price: $41.54 USD
 - [Lapel Collar Sherpa Coat - Brinxx Couture](https://www.brinxxcouture.com/products/lapel-collar-sherpa-coat): Step out in style with our Lapel Collar Sherpa Coat! This coat features a lapel collar design that adds a touch of sophistication to your ensemble.
-  Updated: 2025-10-15T14:47:30Z
+  Updated: 2025-10-17T19:29:21Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -23343,7 +23343,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Notch-Lapel-Woven-Coat-with-Side-Pockets-Brinxx-Couture-2936.jpg?v=1730297108
     Price: $40.00 USD
 - [Cable-Knit Round Neck Sweater Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress): Wrap yourself in cozy comfort and timeless style with our Cable-Knit Round Neck Sweater Dress! Made from soft, high-quality materials.
-  Updated: 2025-10-17T14:40:35Z
+  Updated: 2025-10-17T23:51:11Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -23373,11 +23373,11 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Cable-Knit-Round-Neck-Sweater-Dress-Brinxx-Couture-2059.webp?v=1730297243
     Price: $49.99 USD
   - [Black / L](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress?variant=43426819702966)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Cable-Knit-Round-Neck-Sweater-Dress-Brinxx-Couture-2059.webp?v=1730297243
     Price: $49.99 USD
   - [Black / XL](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress?variant=43426819735734)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Cable-Knit-Round-Neck-Sweater-Dress-Brinxx-Couture-2059.webp?v=1730297243
     Price: $49.99 USD
   - [Sage / S](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress?variant=43432153710774)
