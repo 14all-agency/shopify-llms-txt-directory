@@ -10,7 +10,7 @@
 - Contact Email: info@archtek.co
 - Contact Phone: 310-435-9279
 - Address: Soksystem, LLC, 2121 Wilshire Boulevard, Suite 101, Santa Monica California 90403, United States
-- Updated At: 2025-10-18T04:00:28.331Z
+- Updated At: 2025-10-18T16:00:29.447Z
 
 ## Products
 
@@ -735,7 +735,7 @@
     Image: https://cdn.shopify.com/s/files/1/2361/9921/files/dress-blue-dots1_4711a9d5-45f0-47bf-bbfb-ff1b210376d8.jpg?v=1711652721
     Price: $22.99 USD
 - [Dress Socks – Zig Zag | Comfort & Arch Support – ArchTek®](https://www.archteksocks.com/products/dress-socks-zig-zag): Experience compression with class. ArchTek® Zig Zag arch support dress socks offer foot relief and seamless wear for all-day confidence.
-  Updated: 2025-10-17T13:00:58Z
+  Updated: 2025-10-18T04:56:16Z
   Vendor: ArchTek
   Product Type: dress socks
   Availability: Available
@@ -893,7 +893,7 @@
     Image: https://cdn.shopify.com/s/files/1/2361/9921/files/dress-choc-red-1_39e5ba6c-9638-489d-ba58-83d035cb8153.jpg?v=1711666993
     Price: $22.99 USD
 - [7-Pack Dress Sock Bundle | Arch Support for Every Day – ArchTek®](https://www.archteksocks.com/products/dress-socks-bundles-7-pack): Stock up on support. This 7-pack of ArchTek® compression dress socks offers premium arch relief and doctor-designed comfort.
-  Updated: 2025-10-17T12:59:10Z
+  Updated: 2025-10-18T04:48:55Z
   Vendor: ArchTek
   Product Type: dress socks
   Availability: Available
@@ -969,7 +969,7 @@
     Image: https://cdn.shopify.com/s/files/1/2361/9921/files/dress-idol_4b139349-e154-44ce-bca2-590d29c07192.jpg?v=1711979989
     Price: $57.99 USD
 - [Wholesale Starter Kit](https://www.archteksocks.com/products/wholesale-starter-kit): This Wholesale Starter Kit features 264 pairs of socks, as follows: 72 Ankle Socks: consisting of 12 black small, 12 black medium, 12 black large, 12 white small, 12 white medium, 12 white large 72 Quarter Socks: consisting of 12 black small, 12 black medium, 12 black large, 12 white small, 12 white medium, 12 white large 72 Crew Socks: consisting of 12 black small, 12 black medium, 12 black large, 12 white small, 12 white medium, 12 white large 48 Compression Socks: consisting of 24 medium pairs and 24 large pairs, in 4 designs--the Black Mountain, Blue Waves, Green Camo, and Orange Hillside designs This kit does not include the display trays, brochure holder, brochures and foot model. Be sure to order those separately!
-  Updated: 2025-10-16T17:49:27Z
+  Updated: 2025-10-18T05:33:11Z
   Vendor: ArchTek
   Product Type: 
   Availability: Available
@@ -1095,7 +1095,7 @@
     Image: https://cdn.shopify.com/s/files/1/2361/9921/files/dress-sporty-beige-bundle.jpg?v=1724088773
     Price: $57.99 USD
 - [Moisture Wicking White Nylon Crew - ArchTek®](https://www.archteksocks.com/products/moisture-wicking-white-nylon-crew): Cool, dry, supported. ArchTek® white nylon crew socks wick moisture, relieve foot pain, and provide arch support for active days.
-  Updated: 2025-10-17T12:58:18Z
+  Updated: 2025-10-18T04:19:14Z
   Vendor: ArchTek
   Product Type: 
   Availability: Available
