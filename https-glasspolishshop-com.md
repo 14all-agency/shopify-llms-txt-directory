@@ -7,7 +7,7 @@
 - Currency: EUR
 - Timezone: Europe/Dublin
 - Created At: 2025-01-23T10:54:05Z
-- Updated At: 2025-10-17T20:00:36.709Z
+- Updated At: 2025-10-18T00:00:37.473Z
 
 ## Products
 
@@ -54,7 +54,7 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/14054.jpg?v=1740150633
   Price: €15.95 EUR
 - [PRO Glass Polishing Compound 250ml | High-Grade 2.3 Microns – GP14055](https://glasspolishshop.com/products/gp-pro-glass-polishing-compound-250ml-8-8oz): Advanced glass polishing Extra Concentrated formula with 2.3-micron cerium oxide. Restores optical clarity, removes fine scratches, and enhances smoothness.
-  Updated: 2025-10-15T20:10:39Z
+  Updated: 2025-10-17T20:08:54Z
   Vendor: Glass Polish
   Product Type: Glass Polishing Compound
   Availability: Available
@@ -1444,7 +1444,7 @@
     Availability: Available
     Price: €105.95 EUR
 - [Glass Polish Felt Polishing Pad 11010](https://glasspolishshop.com/products/gp-pro-felt-polishing-pad-6-inch-150mm): Glass Polish 150mm / 6 inch GP-PRO Felt Polishing Pad. Ideal for cutting and polishing actions resulting high glossy finish on range of surfaces
-  Updated: 2025-10-16T00:11:22Z
+  Updated: 2025-10-17T20:08:51Z
   Vendor: Glass Polish
   Product Type: Felt Polishing Pad
   Availability: Available
@@ -2842,7 +2842,7 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/11033_5ff51f5f-5731-4ab0-a88a-c849605c935c.jpg?v=1749048243
   Price: €8.95 EUR
 - [150mm ( 6 inch) Dense Felt Polishing Pad - 11033](https://glasspolishshop.com/products/150mm-6-inch-dense-felt-polishing-pad): 150mm ( 6 inch) Dense Felt Polishing Pad - 11033 - Felt &amp; Fibre Pads - • Pack of One Dense Polishing Pad• Diameter 150mm ( 6 inch)• Thickness: 10mm• Ideal for polishing, and buffing most metals and stone surfaces. • Hook and Loop Fastening System - co
-  Updated: 2025-10-15T20:11:48Z
+  Updated: 2025-10-17T20:08:56Z
   Vendor: Glass Polish
   Product Type: Felt Polishing Pad
   Availability: Available
