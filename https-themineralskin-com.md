@@ -9,7 +9,7 @@
 - Created At: 2025-08-25T14:01:44Z
 - Contact Email: support@themineralskin.com
 - Address: 17 Heath Drive, London NW3 7SL, United Kingdom
-- Updated At: 2025-10-17T20:00:29.674Z
+- Updated At: 2025-10-19T16:00:29.474Z
 
 ## Products
 
@@ -63,7 +63,7 @@
   Image: https://cdn.shopify.com/s/files/1/0918/9451/3992/files/botanic-beard-elixir-6459706.png?v=1757489619
   Price: $39.00 USD
 - [Botanic Age Regression Cream | Natural Anti-Aging Face Moisturizer](https://themineralskin.com/products/botanic-age-regression-cream): Discover the Botanic Age Regression Cream, a 100% natural, vegan, Ecocert-certified anti-aging face cream formulated with multi-molecular hyaluronic acid, marine actives & botanical antioxidants. Smooth wrinkles, boost hydration, and promote firmer, glowing skin.
-  Updated: 2025-10-17T17:16:44Z
+  Updated: 2025-10-18T15:57:42Z
   Vendor: The Mineral
   Product Type: 
   Availability: Available
