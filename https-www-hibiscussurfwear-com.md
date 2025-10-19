@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2023-04-19T20:10:07Z
 - Contact Email: georgina@hibiscussurfwear.com
-- Updated At: 2025-10-18T18:59:20.531Z
+- Updated At: 2025-10-19T12:00:44.448Z
 
 ## Products
 
@@ -6248,7 +6248,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/youth-staple-tee-heather-columbia-blue-front-648692d116551.jpg?v=1689411089
     Price: £29.30 GBP
 - [Scabious - Hibiscus Surfwear - Ethical Sports bra](https://www.hibiscussurfwear.com/products/scabious-hibiscus-surfwear-ethical-sports-bra): Scabious - Hibiscus Surfwear - Ethical Sports bra This gorgeous sports bra is made from moisture-wicking material that stays dry during low and medium intensity workouts. The bra has support material in the shoulder straps, double layer front, and a wide elastic band to ensure constant support. • 82% polyester, 18% spandex • Fabric weight: 6.78 oz/yd² (230 g/m²), weight may vary by 5% • Moisture-wicking fabric • Four-way stretch material • Scoop neckline and racerback • Flat seams and bias binding that minimize rubbing • Best for A–C cups • Support material in the shoulder straps, double-layered front, and a wide elastic band under breasts for extra support • Blank product components in the EU sourced from China and Lithuania • Blank product components in the US and Mexico sourced from China This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide CHEST (inches) UNDERBUST (inches) XS 33 ⅛ 28 ¾ S 34 ⅝ 29 ½ M 36 ¼ 30 ¼ L 39 ⅜ 31 ⅞ XL 42 ½ 33 ½ 2XL 45 ⅝ 35.0
-  Updated: 2025-04-24T15:44:50Z
+  Updated: 2025-10-19T08:15:33Z
   Vendor: Hibiscus Surfwear
   Product Type: 
   Availability: Available
@@ -7152,7 +7152,7 @@
   Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/all-over-print-large-tote-bag-w-pocket-yellow-front-64877ccb39226.jpg?v=1686600918
   Price: £41.99 GBP
 - [Oaxaca, Mexico - Hibiscus Surfwear - Mens organic cotton t-shirt](https://www.hibiscussurfwear.com/products/oaxaca-mexico-hibiscus-surfwear-mens-organic-cotton-t-shirt): Oaxaca, Mexico - Hibiscus Surfwear - Mens organic cotton t-shirt Made from 100% organic ring-spun cotton, this unisex t-shirt is a total must-have. It's high-quality, super comfy, and best of all—eco-friendly. • 100% organic ring-spun cotton • Fabric weight: 5.3 oz/yd² (180 g/m²) • Single jersey • Medium fit • Set-in sleeves • 1 × 1 rib at collar • Wide double-needle topstitch on the sleeves and bottom hems • Self-fabric neck tape (inside, back of the neck) • Blank product sourced from China or Bangladesh The sizes correspond to a smaller size in the US market, so US customers should order a size up. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide BODY LENGTH (inches) CHEST WIDTH (inches) SLEEVE LENGTH (inches) S 27 ¼ 19 ¼ 8 ⅛ M 28 ¼ 20 ½ 8 ½ L 29 ⅛ 21 ¾ 8 ⅞ XL 29 ⅞ 22 ¾ 8 ⅞ 2XL 30 ¾ 24 9 ¼
-  Updated: 2025-05-19T10:38:07Z
+  Updated: 2025-10-19T09:40:27Z
   Vendor: Hibiscus Surfwear
   Product Type: 
   Availability: Available
@@ -11911,7 +11911,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/kiss-cut-stickers-white-5.5x5.5-lifestyle-2-6498b9b12b17c.jpg?v=1687730630
     Price: £11.99 GBP
 - [Santa Teresa - Hibiscus Surfwear - Ethical Bubble-free stickers](https://www.hibiscussurfwear.com/products/santa-teresa-hibiscus-surfwear-ethical-bubble-free-stickers): Santa Teresa - Hibiscus Surfwear - Ethical Bubble-free stickers These stickers are printed on durable, high opacity adhesive vinyl which makes them perfect for regular use, as well as for covering other stickers or paint. The high-quality vinyl ensures there are no bubbles when applying the stickers. • High opacity film that’s impossible to see through • Fast and easy bubble-free application • Durable vinyl, perfect for indoor use • 95µ density Don't forget to clean the surface before applying the sticker. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide HEIGHT (inches) WIDTH (inches) 3″×3″ 3 3 4″×4″ 4 4 5.5″×5.5″ 5 ½ 5 ½
-  Updated: 2025-04-24T15:45:20Z
+  Updated: 2025-10-18T23:05:39Z
   Vendor: Hibiscus Surfwear
   Product Type: 
   Availability: Available
@@ -18884,7 +18884,7 @@
   Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/enhanced-matte-paper-poster-_in_-11x14-front-6334152d999b9.jpg?v=1720369912
   Price: £72.00 GBP
 - [Waterloo & City III - Georgina Zafeiri - Ethical Matte Print 14 x 11 inches](https://www.hibiscussurfwear.com/products/waterloo-city-iii-gee-tee-ethical-matte-print-14-x-11-inches): Museum-quality posters made on thick matte paper. Add a wonderful accent to your room and office with these posters that are sure to brighten any environment. • Paper thickness: 10.3 mil • Paper weight: 189 g/m² • Opacity: 94% • ISO brightness: 104% • Paper is sourced from Japan
-  Updated: 2025-04-24T15:45:39Z
+  Updated: 2025-10-19T00:52:38Z
   Vendor: Hibiscus Surfwear
   Product Type: 
   Availability: Available
@@ -18951,7 +18951,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/greeting-card-5.83x8.27-front-626053959dfbc.jpg?v=1720369961
     Price: £8.43 GBP
 - [Sunflower positivity - Georgina Zafeiri - Ethical standard Postcard](https://www.hibiscussurfwear.com/products/sunflower-positivity-gee-tee-ethical-standard-postcard): These postcards are made from thick high-quality matte paper, so they serve as a great addition to a gift or just a thoughtful written note to a friend. • Cardboard paper • Paper weight: 7.67–10.32 oz/yd² (260–350 g/m²) • Size: 4″ × 6″ (101 × 152 mm) • Paper thickness: 0.013″ (0.34 mm) • Coated outer surface • Blank product materials sourced from Sweden, US, Brazil, or China
-  Updated: 2025-04-24T15:45:40Z
+  Updated: 2025-10-19T03:31:57Z
   Vendor: Hibiscus Surfwear
   Product Type: 
   Availability: Available
