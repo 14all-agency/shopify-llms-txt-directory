@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-03-10T14:11:59Z
 - Contact Email: info@surgismart.in
-- Updated At: 2025-10-19T00:00:34.286Z
+- Updated At: 2025-10-19T08:00:35.394Z
 
 ## Products
 
@@ -583,7 +583,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/United-Medicare-Mallet-Finger-Splint-E-02.jpg?v=1751478724
   Price: ₹420.00 INR
 - [Buy ​United Medicare Frog Splint Finger (E-03) - Surgismart](https://surgismart.in/products/e-03): Key Features:Frog splint provides rigid immobilization and can be bent for customization. Ensures exact joint alignment by keeping them in their best functioning position. UM frog splint is made of flexible aluminum and has an inside lining that allows it to be customized to fit any finger. Can be used after finger fracture, damage or burn to protect the metacarpals and phalanges. Aluminum body with soft cushioned liningdurable, light, and aesthetically beautiful. Direction of use Put your damaged finger into the inserted bend. Bend the sides according to the size of the finger. Then, make sure your splint is snug but not too tight. Safety information Avoid dry cleaning. Use a mild powdered detergent to wash your hands. Avoid using bleach. UM frog splint is designed to support and immobilize the interphalangeal joints of the fingers in their natural functional positions.United medicare frog splint is intended to offer stability and support to the finger joint as it recovers from an operation or damage. It aids in immobilizing the finger and avoiding future injury or discomfort.The severity of your injury or condition will determine how long you should wear the splint. For how long per day you should wear the splint, your doctor will give you instructions.Hand-wash your splint in warm, not hot, soapy water. First, remove the metal post. Do not put it in the washing machine because it may change shape, and dry with air. Before every use, make sure the splint is clean.Finger splints can assist control a variety of injuries, including fractures and torn tendons, by stabilizing the injured area and preventing further damage.Sold by: Surgismart - Surgismart
-  Updated: 2025-10-13T11:20:25Z
+  Updated: 2025-10-19T02:17:16Z
   Vendor: United Medicare
   Product Type: Finger Splint
   Availability: Available
