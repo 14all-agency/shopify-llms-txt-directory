@@ -8,7 +8,7 @@
 - Timezone: Europe/London
 - Created At: 2021-01-17T01:03:23Z
 - Contact Email: contact@crystalshealing.co.uk
-- Updated At: 2025-10-18T16:00:38.081Z
+- Updated At: 2025-10-19T00:00:37.489Z
 
 # Crystals Healing — AI-Ready Index
 Welcome to Crystals Healing, your trusted UK-based store for healing crystals and jewelry. This llms.txt file lists all products, collections, blogs, and pages to help AI assistants, search engines, and shopping bots discover and understand our offerings.
@@ -4072,7 +4072,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
     Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/WhatsAppImage2024-03-13at13.32.45_4768ba0b_1_-min.jpg?v=1749144206
     Price: £35.00 GBP
 - [Home Protection Kit – Ultimate Energy Cleansing Set](https://crystalshealing.co.uk/products/home-protection-kit): Cleanse and protect your space with our Home Protection Kit – crafted to remove negativity and invite peace, grounding, and positive energy into your home.
-  Updated: 2025-10-18T10:07:08Z
+  Updated: 2025-10-18T22:00:53Z
   Vendor: Crystals Healing
   Product Type: crystal kits
   Availability: Available
@@ -4623,7 +4623,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
     Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/1000032139-Photoroom_33.webp?v=1749659602
     Price: £9.80 GBP
 - [Grounding Bracelet for Men – Strength & Focus](https://crystalshealing.co.uk/products/grounding-bracelet-for-men): Empower your mindset and protect your energy with the Grounding Bracelet for Men Crafted for men who value clarity, confidence, and inner resilience. This handcrafted bracelet features 6 mm beads of Black Tourmaline and Tiger’s Eye, anchored by a polished rectangular Tiger’s Eye centerpiece for a bold, masculine finish. Known for their grounding and protective properties, these two powerful stones work in harmony to sharpen focus, build confidence, and block negative influences. Key Features: Stones: Natural 6 mm Black Tourmaline & Tiger’s Eye Centerpiece: Rectangular Tiger’s Eye accent – polished and dominant Design: Strong elastic cord for comfortable daily wear Style: Masculine, minimalist, and energetic Pre-cleansed and energetically charged Crystal Properties: Black Tourmaline: Encourages strength, discipline, and energetic protection Tiger’s Eye: Enhances focus, confidence, and mental clarity Together, they create balance between grounding and action, ideal for goal-oriented individuals This Grounding Bracelet for Men is more than a statement piece, it’s a wearable ally for determination and energetic strength. Perfect for: entrepreneurs, athletes, leaders, or anyone seeking focused energy with a grounded mindset.
-  Updated: 2025-10-18T09:44:17Z
+  Updated: 2025-10-18T21:44:16Z
   Vendor: Crystals Healing
   Product Type: Bracelets
   Availability: Available
