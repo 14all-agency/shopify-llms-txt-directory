@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2019-08-25T03:49:02Z
 - Contact Email: sales@milvertons.com
-- Updated At: 2025-10-19T12:00:38.221Z
+- Updated At: 2025-10-19T20:00:39.204Z
 
 ## Products
 
@@ -10677,186 +10677,186 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/hemp-wedge-heel-slippers-casual-sandals-for-women-2789869.jpg?v=1760572034
     Price: $28.72 USD
 - [Glam Sexy High Heels Sandals 2025 | Wedding Party Style](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style): These Glam Sexy High Heels Sandals are expertly designed for weddings and parties. Handmade and sized 32-43, these gladiator-style pumps combine style & comfort
-  Updated: 2025-10-19T08:44:43Z
+  Updated: 2025-10-19T19:50:37Z
   Vendor: Milvertons
   Product Type: Women - Shoes
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S6c9418df246f4b18838e03629f85f340p.webp?v=1760844607
+  Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/glam-sexy-high-heels-sandals-2025-wedding-party-style-2706280.webp?v=1760903434
   - [Purple / 33](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078914326766)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/Sbbc753609269436789f4a9517025dfb9r.webp?v=1760845923
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/glam-sexy-high-heels-sandals-2025-wedding-party-style-6247854.webp?v=1760903436
     Price: $84.02 USD
   - [Purple / 34](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078914359534)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/Sbbc753609269436789f4a9517025dfb9r.webp?v=1760845923
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/glam-sexy-high-heels-sandals-2025-wedding-party-style-6247854.webp?v=1760903436
     Price: $84.02 USD
   - [Purple / 35](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078914392302)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/Sbbc753609269436789f4a9517025dfb9r.webp?v=1760845923
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/glam-sexy-high-heels-sandals-2025-wedding-party-style-6247854.webp?v=1760903436
     Price: $84.02 USD
   - [Purple / 36](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078914162926)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/Sbbc753609269436789f4a9517025dfb9r.webp?v=1760845923
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/glam-sexy-high-heels-sandals-2025-wedding-party-style-6247854.webp?v=1760903436
     Price: $84.02 USD
   - [Purple / 37](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078914195694)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/Sbbc753609269436789f4a9517025dfb9r.webp?v=1760845923
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/glam-sexy-high-heels-sandals-2025-wedding-party-style-6247854.webp?v=1760903436
     Price: $84.02 USD
   - [Purple / 38](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078914228462)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/Sbbc753609269436789f4a9517025dfb9r.webp?v=1760845923
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/glam-sexy-high-heels-sandals-2025-wedding-party-style-6247854.webp?v=1760903436
     Price: $84.02 USD
   - [Purple / 39](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078914261230)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/Sbbc753609269436789f4a9517025dfb9r.webp?v=1760845923
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/glam-sexy-high-heels-sandals-2025-wedding-party-style-6247854.webp?v=1760903436
     Price: $84.02 USD
   - [Purple / 40](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078914031854)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/Sbbc753609269436789f4a9517025dfb9r.webp?v=1760845923
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/glam-sexy-high-heels-sandals-2025-wedding-party-style-6247854.webp?v=1760903436
     Price: $84.02 USD
   - [Purple / 41](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078914064622)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/Sbbc753609269436789f4a9517025dfb9r.webp?v=1760845923
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/glam-sexy-high-heels-sandals-2025-wedding-party-style-6247854.webp?v=1760903436
     Price: $84.02 USD
   - [Purple / 42](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078914097390)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/Sbbc753609269436789f4a9517025dfb9r.webp?v=1760845923
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/glam-sexy-high-heels-sandals-2025-wedding-party-style-6247854.webp?v=1760903436
     Price: $84.02 USD
   - [Purple / 43](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078914130158)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/Sbbc753609269436789f4a9517025dfb9r.webp?v=1760845923
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/glam-sexy-high-heels-sandals-2025-wedding-party-style-6247854.webp?v=1760903436
     Price: $84.02 USD
   - [Gold / 33](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078913704174)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S9849a065e0af4280ac7b2ebf1902dfd5E.webp?v=1760845923
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/glam-sexy-high-heels-sandals-2025-wedding-party-style-2252446.webp?v=1760903435
     Price: $84.02 USD
   - [Gold / 34](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078913736942)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S9849a065e0af4280ac7b2ebf1902dfd5E.webp?v=1760845923
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/glam-sexy-high-heels-sandals-2025-wedding-party-style-2252446.webp?v=1760903435
     Price: $84.02 USD
   - [Gold / 35](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078913507566)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S9849a065e0af4280ac7b2ebf1902dfd5E.webp?v=1760845923
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/glam-sexy-high-heels-sandals-2025-wedding-party-style-2252446.webp?v=1760903435
     Price: $84.02 USD
   - [Gold / 36](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078913540334)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S9849a065e0af4280ac7b2ebf1902dfd5E.webp?v=1760845923
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/glam-sexy-high-heels-sandals-2025-wedding-party-style-2252446.webp?v=1760903435
     Price: $84.02 USD
   - [Gold / 37](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078913573102)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S9849a065e0af4280ac7b2ebf1902dfd5E.webp?v=1760845923
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/glam-sexy-high-heels-sandals-2025-wedding-party-style-2252446.webp?v=1760903435
     Price: $84.02 USD
   - [Gold / 38](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078913605870)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S9849a065e0af4280ac7b2ebf1902dfd5E.webp?v=1760845923
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/glam-sexy-high-heels-sandals-2025-wedding-party-style-2252446.webp?v=1760903435
     Price: $84.02 USD
   - [Gold / 39](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078913376494)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S9849a065e0af4280ac7b2ebf1902dfd5E.webp?v=1760845923
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/glam-sexy-high-heels-sandals-2025-wedding-party-style-2252446.webp?v=1760903435
     Price: $84.02 USD
   - [Gold / 40](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078913409262)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S9849a065e0af4280ac7b2ebf1902dfd5E.webp?v=1760845923
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/glam-sexy-high-heels-sandals-2025-wedding-party-style-2252446.webp?v=1760903435
     Price: $84.02 USD
   - [Gold / 41](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078913442030)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S9849a065e0af4280ac7b2ebf1902dfd5E.webp?v=1760845923
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/glam-sexy-high-heels-sandals-2025-wedding-party-style-2252446.webp?v=1760903435
     Price: $84.02 USD
   - [Gold / 42](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078913474798)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S9849a065e0af4280ac7b2ebf1902dfd5E.webp?v=1760845923
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/glam-sexy-high-heels-sandals-2025-wedding-party-style-2252446.webp?v=1760903435
     Price: $84.02 USD
   - [Gold / 43](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078914293998)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S9849a065e0af4280ac7b2ebf1902dfd5E.webp?v=1760845923
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/glam-sexy-high-heels-sandals-2025-wedding-party-style-2252446.webp?v=1760903435
     Price: $84.02 USD
   - [Silver / 33](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078913900782)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S6e10b6ad640e4f4a9bb0400cb41ee9dab.webp?v=1760845923
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/glam-sexy-high-heels-sandals-2025-wedding-party-style-2073494.webp?v=1760903435
     Price: $84.02 USD
   - [Silver / 34](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078913933550)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S6e10b6ad640e4f4a9bb0400cb41ee9dab.webp?v=1760845923
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/glam-sexy-high-heels-sandals-2025-wedding-party-style-2073494.webp?v=1760903435
     Price: $84.02 USD
   - [Silver / 35](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078913966318)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S6e10b6ad640e4f4a9bb0400cb41ee9dab.webp?v=1760845923
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/glam-sexy-high-heels-sandals-2025-wedding-party-style-2073494.webp?v=1760903435
     Price: $84.02 USD
   - [Silver / 36](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078913999086)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S6e10b6ad640e4f4a9bb0400cb41ee9dab.webp?v=1760845923
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/glam-sexy-high-heels-sandals-2025-wedding-party-style-2073494.webp?v=1760903435
     Price: $84.02 USD
   - [Silver / 37](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078914523374)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S6e10b6ad640e4f4a9bb0400cb41ee9dab.webp?v=1760845923
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/glam-sexy-high-heels-sandals-2025-wedding-party-style-2073494.webp?v=1760903435
     Price: $84.02 USD
   - [Silver / 38](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078914556142)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S6e10b6ad640e4f4a9bb0400cb41ee9dab.webp?v=1760845923
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/glam-sexy-high-heels-sandals-2025-wedding-party-style-2073494.webp?v=1760903435
     Price: $84.02 USD
   - [Silver / 39](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078914588910)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S6e10b6ad640e4f4a9bb0400cb41ee9dab.webp?v=1760845923
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/glam-sexy-high-heels-sandals-2025-wedding-party-style-2073494.webp?v=1760903435
     Price: $84.02 USD
   - [Silver / 40](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078914621678)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S6e10b6ad640e4f4a9bb0400cb41ee9dab.webp?v=1760845923
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/glam-sexy-high-heels-sandals-2025-wedding-party-style-2073494.webp?v=1760903435
     Price: $84.02 USD
   - [Silver / 41](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078914425070)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S6e10b6ad640e4f4a9bb0400cb41ee9dab.webp?v=1760845923
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/glam-sexy-high-heels-sandals-2025-wedding-party-style-2073494.webp?v=1760903435
     Price: $84.02 USD
   - [Silver / 42](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078914457838)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S6e10b6ad640e4f4a9bb0400cb41ee9dab.webp?v=1760845923
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/glam-sexy-high-heels-sandals-2025-wedding-party-style-2073494.webp?v=1760903435
     Price: $84.02 USD
   - [Silver / 43](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078914490606)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S6e10b6ad640e4f4a9bb0400cb41ee9dab.webp?v=1760845923
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/glam-sexy-high-heels-sandals-2025-wedding-party-style-2073494.webp?v=1760903435
     Price: $84.02 USD
   - [Black / 33](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078914785518)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S7de0cc0d7f764016931df0792aff4fb6j.webp?v=1760845923
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/glam-sexy-high-heels-sandals-2025-wedding-party-style-8415689.webp?v=1760903436
     Price: $84.02 USD
   - [Black / 34](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078914654446)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S7de0cc0d7f764016931df0792aff4fb6j.webp?v=1760845923
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/glam-sexy-high-heels-sandals-2025-wedding-party-style-8415689.webp?v=1760903436
     Price: $84.02 USD
   - [Black / 35](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078914687214)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S7de0cc0d7f764016931df0792aff4fb6j.webp?v=1760845923
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/glam-sexy-high-heels-sandals-2025-wedding-party-style-8415689.webp?v=1760903436
     Price: $84.02 USD
   - [Black / 36](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078914719982)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S7de0cc0d7f764016931df0792aff4fb6j.webp?v=1760845923
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/glam-sexy-high-heels-sandals-2025-wedding-party-style-8415689.webp?v=1760903436
     Price: $84.02 USD
   - [Black / 37](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078914752750)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S7de0cc0d7f764016931df0792aff4fb6j.webp?v=1760845923
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/glam-sexy-high-heels-sandals-2025-wedding-party-style-8415689.webp?v=1760903436
     Price: $84.02 USD
   - [Black / 38](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078913769710)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S7de0cc0d7f764016931df0792aff4fb6j.webp?v=1760845923
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/glam-sexy-high-heels-sandals-2025-wedding-party-style-8415689.webp?v=1760903436
     Price: $84.02 USD
   - [Black / 39](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078913802478)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S7de0cc0d7f764016931df0792aff4fb6j.webp?v=1760845923
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/glam-sexy-high-heels-sandals-2025-wedding-party-style-8415689.webp?v=1760903436
     Price: $84.02 USD
   - [Black / 40](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078913835246)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S7de0cc0d7f764016931df0792aff4fb6j.webp?v=1760845923
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/glam-sexy-high-heels-sandals-2025-wedding-party-style-8415689.webp?v=1760903436
     Price: $84.02 USD
   - [Black / 41](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078913868014)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S7de0cc0d7f764016931df0792aff4fb6j.webp?v=1760845923
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/glam-sexy-high-heels-sandals-2025-wedding-party-style-8415689.webp?v=1760903436
     Price: $84.02 USD
   - [Black / 42](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078913638638)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S7de0cc0d7f764016931df0792aff4fb6j.webp?v=1760845923
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/glam-sexy-high-heels-sandals-2025-wedding-party-style-8415689.webp?v=1760903436
     Price: $84.02 USD
   - [Black / 43](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078913671406)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S7de0cc0d7f764016931df0792aff4fb6j.webp?v=1760845923
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/glam-sexy-high-heels-sandals-2025-wedding-party-style-8415689.webp?v=1760903436
     Price: $84.02 USD
 
 ## Collections
