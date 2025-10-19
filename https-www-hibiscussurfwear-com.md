@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2023-04-19T20:10:07Z
 - Contact Email: georgina@hibiscussurfwear.com
-- Updated At: 2025-10-19T12:00:44.448Z
+- Updated At: 2025-10-19T20:00:44.757Z
 
 ## Products
 
@@ -18951,7 +18951,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/greeting-card-5.83x8.27-front-626053959dfbc.jpg?v=1720369961
     Price: £8.43 GBP
 - [Sunflower positivity - Georgina Zafeiri - Ethical standard Postcard](https://www.hibiscussurfwear.com/products/sunflower-positivity-gee-tee-ethical-standard-postcard): These postcards are made from thick high-quality matte paper, so they serve as a great addition to a gift or just a thoughtful written note to a friend. • Cardboard paper • Paper weight: 7.67–10.32 oz/yd² (260–350 g/m²) • Size: 4″ × 6″ (101 × 152 mm) • Paper thickness: 0.013″ (0.34 mm) • Coated outer surface • Blank product materials sourced from Sweden, US, Brazil, or China
-  Updated: 2025-10-19T03:31:57Z
+  Updated: 2025-10-19T17:15:29Z
   Vendor: Hibiscus Surfwear
   Product Type: 
   Availability: Available
