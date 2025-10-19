@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2023-11-06T10:53:38Z
 - Contact Email: theworldofnerdscustomer@gmail.com
-- Updated At: 2025-10-19T04:00:42.575Z
+- Updated At: 2025-10-19T08:00:43.747Z
 
 ## Products
 
@@ -1417,13 +1417,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/704.jpg?v=1730014708
   Price: ₹299.00 INR
-- [TOM AND JERRY SLEEPING KEYCHAIN](https://theworldofnerds.com/products/tom-and-jerry-sleeping-keychain-1): Add a touch of personality to your keys with our vibrant character keychains! These keychains are made from high-quality, durable material and feature various adorable designs that cater to all ages. Our keychains are lightweight and available in multiple colors and styles, perfect for everyday use or as a charming gift. Explore our collection to find your favorite character and enjoy the perfect blend of functionality and fun. Whether you want to express your unique style or seek the ideal gift, shop now and elevate your key collection game.
-  Updated: 2025-08-01T00:08:54Z
-  Vendor: The World Of Nerds
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/705.jpg?v=1730014816
-  Price: ₹299.00 INR
 - [DR.SLUMP ARALE NORIMAKI Q POSKET](https://theworldofnerds.com/products/dr-slump-arale-norimaki-q-posket): Discover the enchanting world of Q Poskets, where charm meets artistry! These collectible figures feature a delightful range of beloved characters from anime, movies, and more, each meticulously designed with oversized heads and whimsical expressions. Perfect for fans and collectors alike, Q Poskets bring your favorite characters to life in a unique, stylized form. Key Features: Unique stylized designs High-quality craftsmanship Wide variety of characters Ideal for collectors and fans Start your Q Poskets collection today and celebrate your favorite characters in a whole new way!
   Updated: 2025-09-15T06:20:01Z
   Vendor: The World Of Nerds
@@ -1669,15 +1662,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/584_1.jpg?v=1730542374
   Price: ₹499.00 INR
-- [HARRY POTTER POCKET WATCH](https://theworldofnerds.com/products/harry-potter-pocket-watch): Discover the perfect blend of tradition and style with our exquisite pocket watch. Crafted with precision and attention to detail, this pocket watch features a stunning analog display, intricate craftsmanship, and a polished finish that enhances its classic appeal. Ideal for collectors and enthusiasts, it effortlessly complements any attire, making it a versatile accessory for formal occasions or everyday use. Key Features: Elegant design with a vintage-inspired aesthetic High-quality quartz movement for precision Ideal for gifting or personal use Embrace the charm of classic timekeeping with our pocket watch—where style meets functionality. Shop now and elevate your accessory game.
-  Updated: 2025-09-14T13:30:48Z
-  Vendor: The World Of Nerds
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitled.png?v=1730543815
-  Price: ₹369.00 INR
 - [ONE PIECE POCKET WATCH](https://theworldofnerds.com/products/one-piece-pocket-watch): Discover the perfect blend of tradition and style with our exquisite pocket watch. Crafted with precision and attention to detail, this pocket watch features a stunning analog display, intricate craftsmanship, and a polished finish that enhances its classic appeal. Ideal for collectors and enthusiasts, it effortlessly complements any attire, making it a versatile accessory for formal occasions or everyday use. Key Features: Elegant design with a vintage-inspired aesthetic High-quality quartz movement for precision Ideal for gifting or personal use Embrace the charm of classic timekeeping with our pocket watch—where style meets functionality. Shop now and elevate your accessory game.
-  Updated: 2025-10-18T13:58:41Z
+  Updated: 2025-10-19T04:27:01Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -2314,7 +2300,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitled_4_06bb2f63-79c1-4012-b493-6e178fb89dc8.png?v=1731496786
   Price: ₹2,399.00 INR
 - [TANJIRO-NEW NICHIRIN KATANA](https://theworldofnerds.com/products/tanjiro-new-nichiirin-katana): Unleash the spirit of your favorite anime characters with our meticulously crafted anime katanas. Made from a perfect blend of high-quality wood and durable ABS plastic, these katanas offer an authentic look and feel while ensuring long-lasting performance. Ideal for collectors, cosplayers, and fans alike, each katana features detailed craftsmanship and lightweight construction, making it both visually stunning and easy to handle. Whether you’re adding to your collection or gearing up for your next cosplay, our anime katanas are built to impress with their durability, aesthetic appeal, and high-quality materials. Perfect for display or action-packed cosplay, these katanas bring the legendary katanas from your favorite anime to life.
-  Updated: 2025-10-16T14:03:51Z
+  Updated: 2025-10-19T06:38:26Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -3672,7 +3658,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1-2025-02-03T172405.840.jpg?v=1738583658
   Price: ₹1,690.00 INR
 - [BRICK TECH BRICKS QUAD BIKE KING STEERER 148+ PCS BLOCKS](https://theworldofnerds.com/products/bricks-tech-bricks-quad-bike-king-steerer-148-pcs-blocks): Create an exciting adventure with the BRICKS TECH BRICKS QUAD BIKE KING STEERER 148+ PCS BLOCKS! Build, play, and explore endless possibilities with this set, featuring a quad bike design that will bring your imagination to life. With over 148 pieces, the options are limitless. Perfect for aspiring builders and young engineers, this set is designed to provide endless fun and learning. Get yours today!
-  Updated: 2025-10-19T03:30:17Z
+  Updated: 2025-10-19T07:34:48Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -6367,7 +6353,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_cc81b7f7-7043-4478-96d5-e92f14c3322b.jpg?v=1742887528
   Price: ₹299.00 INR
 - [ZORO POP  KEYCHAIN](https://theworldofnerds.com/products/zoro-pop-keychain): This ZORO POP KEYCHAIN is a must-have accessory for any fan of the popular anime/manga series, One Piece. Made from high-quality materials, this keychain features a cute and detailed design of the character Zoro, making it a perfect collectible item. Attach it to your keys or bag and show off your love for One Piece!
-  Updated: 2025-08-24T04:59:32Z
+  Updated: 2025-10-19T06:52:21Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -7004,14 +6990,14 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/628_1_d5e8c900-050c-4b8b-bb43-7ace6238636c.jpg?v=1748500719
   Price: ₹289.00 INR
 - [ZORO BLACK ENMA KATANA KEYCHAIN](https://theworldofnerds.com/products/zoro-black-enma-katana-keychain): Zoro Black Enma Katana Keychain – Wield the power of Enma with this Zoro Black Enma Katana keychain! Featuring intricate details and a sleek, durable design, it’s perfect for keys, bags, or gifting. A must-have collectible for One Piece fans and swordsman Zoro enthusiasts!
-  Updated: 2025-10-13T11:23:51Z
+  Updated: 2025-10-19T04:27:01Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_1e8087ca-66ed-4e99-88b5-d3197862b1df.jpg?v=1748500988
   Price: ₹219.00 INR
 - [ZORO WHITE ENMA KATANA KEYCHAIN](https://theworldofnerds.com/products/zoro-white-enma-katana-keychain): Zoro White Enma Katana Keychain – Channel the strength of Roronoa Zoro with this White Enma Katana keychain! Designed with fine details and durable material, it's perfect for keys, backpacks, or gifting. A striking collectible for One Piece fans and sword lovers alike!
-  Updated: 2025-10-16T01:36:46Z
+  Updated: 2025-10-19T06:22:41Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -7032,7 +7018,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_9f96848f-5dcc-4545-9968-44949b736cfe.jpg?v=1748501371
   Price: ₹219.00 INR
 - [ZORO KITETSU KATANA KEYCHAIN](https://theworldofnerds.com/products/zoro-kitetsu-katana-keychain): Zoro Kitetsu Katana Keychain – Unleash the cursed power of Zoro’s Kitetsu blade with this striking keychain! Featuring sharp detailing and sturdy design, it’s ideal for keys, bags, or gifting. A bold collectible for One Piece fans and lovers of legendary swords!
-  Updated: 2025-07-29T05:15:06Z
+  Updated: 2025-10-19T06:22:40Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
