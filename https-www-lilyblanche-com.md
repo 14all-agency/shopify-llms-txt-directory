@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-10-19T16:00:49.822Z
+- Updated At: 2025-10-19T20:00:48.314Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -4304,7 +4304,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £90.00 GBP
 - [Garnet Charm Necklace Sterling Silver | January's Birthstone Necklace](https://www.lilyblanche.com/products/garnet-charm-necklace-silver-january): This stunning, genuine garnet necklace in silver features the birthstone for January & makes a perfect gift. Order today & get a free jewellery care kit worth £20
-  Updated: 2025-10-02T17:05:30Z
+  Updated: 2025-10-19T17:28:15Z
   Vendor: Lily Blanche
   Product Type: Birthstone
   Availability: Available
@@ -9764,7 +9764,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £110.00 GBP
 - [Sterling Silver Twist Chain | High Quality Necklace | Lily Blanche](https://www.lilyblanche.com/products/twist-chain-silver): Make a statement with this fancy, sterling silver twisted bar chain is a light-reflecting necklace which shimmers when worn. A perfect stand alone piece, this chain will add a decorative effect to any locket or pendant. Free UK Shipping & Luxury Jewellery Care Kit Worth £20 included. Express Shipping Available Online.
-  Updated: 2025-10-19T14:45:24Z
+  Updated: 2025-10-19T17:17:31Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -9788,7 +9788,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £110.00 GBP
 - [Gold Twist Chain | High Quality Necklace | Lily Blanche](https://www.lilyblanche.com/products/twist-chain-gold): This fancy, 18 carat gold vermeil twisted bar chain is a light-reflecting necklace. A perfect stand alone piece, the twist chain is similar to Gemma Owen's necklace on Love Island 2022. Free UK Shipping. Free jewellery care kit included worth £20. Order yours online today. Express delivery is available.
-  Updated: 2025-10-19T14:37:24Z
+  Updated: 2025-10-19T17:10:31Z
   Vendor: Lily Blanche
   Product Type: Choose Your Chain
   Availability: Available
@@ -9812,7 +9812,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £135.00 GBP
 - [Rose Gold Twist Chain | Premium Quality Necklace | Lily Blanche](https://www.lilyblanche.com/products/twist-chain-rose-gold): This fancy, 18 carat rose gold vermeil twisted bar chain is a light-reflecting necklace. A perfect stand alone piece, the twist chain will add a decorative effect to any locket or pendant. Free Jewellery Care Kit included & Free UK Shipping. Express Shipping Available. Explore quality chains & necklaces online today.
-  Updated: 2025-10-19T14:52:25Z
+  Updated: 2025-10-19T17:25:32Z
   Vendor: Lily Blanche
   Product Type: Choose Your Chain
   Availability: Available
@@ -9833,7 +9833,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £135.00 GBP
 - [White Gold Vermeil Twist Chain High Quality Necklace](https://www.lilyblanche.com/products/twist-chain-white-gold): Need a quality statement necklace? This fancy, white gold vermeil twisted bar chain is a light-reflecting necklace. A perfect stand-alone piece, the Twist Chain will add a decorative effect to any locket or pendant. Trusted UK jewellery brand with over 1500 five-star reviews on Trustpilot. Free UK shipping.
-  Updated: 2025-10-19T14:30:24Z
+  Updated: 2025-10-19T17:02:31Z
   Vendor: Lily Blanche
   Product Type: Choose Your Chain
   Availability: Available
@@ -16605,7 +16605,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £245.00 GBP
 - [Men's Rose Gold Round Locket Necklace | Lily Blanche | Free Photos](https://www.lilyblanche.com/products/mens-round-locket-necklace-rose-gold): This men's round solid 18 carat rose gold vermeil photo locket, which can be engraved, opens to take two photos or a tiny keepsake. Order online today with a free luxury jewellery care kit worth £20
-  Updated: 2025-10-14T11:22:15Z
+  Updated: 2025-10-19T17:55:44Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
