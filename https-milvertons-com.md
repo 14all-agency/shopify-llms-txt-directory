@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2019-08-25T03:49:02Z
 - Contact Email: sales@milvertons.com
-- Updated At: 2025-10-19T00:00:36.189Z
+- Updated At: 2025-10-19T04:00:37.440Z
 
 ## Products
 
@@ -8870,7 +8870,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/pol-v-neck-long-sleeve-t-shirt-with-lace-detail-7119103.webp?v=1751224302
     Price: $70.41 USD
 - [Davi & Dani Floral Mesh Long Sleeve Sheer Layering Top](https://milvertons.com/products/davi-dani-floral-mesh-long-sleeve-sheer-layering-top): Davi & Dani Floral Mesh Long Sleeve Sheer Layering Top. This elegant chiffon blouse features a flattering high neckline, and a fitted silhouette. Shop now!
-  Updated: 2025-10-14T08:18:12Z
+  Updated: 2025-10-19T00:58:36Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Shirts - Blouses
   Availability: Available
@@ -10698,8 +10698,8 @@
   Updated: 2024-04-16T16:48:12Z
   Total Products: 3
 - [Women's Shoes and Bags Collection](https://milvertons.com/collections/women-shoes-bags): Shop our carefully curated selection of Women's Shoes and Bags. This collection features everything from most feminine designs to timelessly classic styles.
-  Updated: 2025-10-16T00:54:35Z
-  Total Products: 137
+  Updated: 2025-10-19T03:30:00Z
+  Total Products: 138
 - [Shoes](https://milvertons.com/collections/shoes): Shoes - A gallery of contemporary shoes
   Updated: 2025-09-07T11:03:40Z
   Total Products: 44
@@ -10728,8 +10728,8 @@
   Updated: 2025-09-25T17:45:57Z
   Total Products: 28
 - [Sale - Discover great prices on hot products](https://milvertons.com/collections/sale): Sale - Discover great prices on hot products. Don't miss out on these deals. Shop now and take advantage of Sales items! Click now to start browsing and saving
-  Updated: 2025-10-07T08:47:51Z
-  Total Products: 98
+  Updated: 2025-10-19T03:30:30Z
+  Total Products: 99
 - [Milvertons Facebook Shop - Manual](https://milvertons.com/collections/milvertons-facebook-shop-old): Milvertons Facebook Shop - Manual
   Updated: 2025-10-07T08:47:27Z
   Total Products: 173
@@ -10782,8 +10782,8 @@
   Updated: 2025-10-11T07:08:02Z
   Total Products: 158
 - [All Products - Active and Draft](https://milvertons.com/collections/all-products-active-and-draft): All Products in the store - Active and Draft
-  Updated: 2025-10-15T19:02:17Z
-  Total Products: 516
+  Updated: 2025-10-19T03:30:30Z
+  Total Products: 517
 - [Milvertons Google Shop](https://milvertons.com/collections/milvertons-google-shop): Milvertons Google Shop - Product listings on Google
   Updated: 2025-09-24T20:00:47Z
   Total Products: 16
@@ -10821,8 +10821,8 @@
   Updated: 2025-10-12T09:25:47Z
   Total Products: 56
 - [UpOrder - Recommended Products](https://milvertons.com/collections/spently_products): This collection is used by the UpOrder app, to make product recommendations in your Shopify notification and auto follow up emails. It's important to note that this collection is “hidden”, it is not be visible on your website. By default, your Best-Selling products will be recommended, but you can customize what is recommend by editing the collection. The collection is updated automatically every 4 hours in order to recommend the best products to your customers in your emails. We only recommend products that are in stock, visible online, and have not been purchased by the customer receiving the notification or auto follow-up email. To enable/disable recommendations in your emails, login to the UpOrder app, remove the Recommended Products component, and re-export your template.
-  Updated: 2025-10-16T22:00:45Z
-  Total Products: 347
+  Updated: 2025-10-19T03:30:31Z
+  Total Products: 348
 - [Black Friday & Cyber Monday Deals](https://milvertons.com/collections/bfcm-deals): Black Friday & Cyber Monday Deals - Products from this collection are on sale at 15% off. Items in this collection trigger this offer when added to your cart.
   Updated: 2023-11-29T08:14:38Z
   Total Products: 0
