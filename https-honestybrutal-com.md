@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-02-07T02:43:04Z
 - Contact Email: alex@honestybrutal.com
-- Updated At: 2025-10-18T04:00:32.144Z
+- Updated At: 2025-10-19T00:00:31.923Z
 
 ## Products
 
@@ -2052,7 +2052,7 @@
     Image: https://cdn.shopify.com/s/files/1/0742/1879/9324/files/2790759_1_3d.jpg?v=1756430532
     Price: $145.00 USD
 - [The Outspoken Box Tee](https://honestybrutal.com/products/the-outspoken-box-tee): The Artist Statement A declaration of identity and motion. The Honesty Brutal logo at the front speaks with clarity and force, while Serpentine Descent unfurls across the back—an alcohol ink work by Alex Z. Wang that channels fluidity, turbulence, and rhythm. More than a tee, it’s a canvas in motion: bold from every angle, unapologetically art. The Technicals Relaxed boxy fit Heavyweight 7.1 oz fabric 100% combed cotton Dropped shoulder design Wide ribbed neckline Preshrunk to minimize shrinkage Double-needle hems, shoulder-to-shoulder tape Transparency Made to order. Please allow about a week for production before shipping.
-  Updated: 2025-10-02T13:02:55Z
+  Updated: 2025-10-18T23:54:44Z
   Vendor: Apliiq
   Product Type: tshirts
   Availability: Available
