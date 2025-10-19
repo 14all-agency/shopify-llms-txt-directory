@@ -6,7 +6,7 @@
 - Timezone: Europe/Madrid
 - Created At: 2022-07-18T15:24:40Z
 - Contact Email: info@hifimediastore.com
-- Updated At: 2025-10-19T00:01:10.547Z
+- Updated At: 2025-10-19T04:01:11.470Z
 
 ## Products
 
@@ -965,7 +965,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/WildRock_Portable_Karaoke_Speaker_with_Wireless_Microphone_-_Hifi_Media_Store-998959.jpg?v=1719085854
     Price: 206,99 € EUR
 - [Wild Camping - Altavoz Bluetooth con Linterna. Sonido 360° y Luz 360°.](https://hifimediastore.com/products/wild-camping-bluetooth-speaker-with-lantern-powerful-360-sound-360-light): Wild Camping: Altavoz Bluetooth con linterna LED para acampar. Efecto de audio envolvente de 360° e iluminación de 360° Sonido profundo, fuerte y envolvente, con cobertura real de 360 ​​grados. Con un ángulo de haz de 360 ​​grados y 230 lúmenes, Wild Camping puede emitir una luz bastante brillante. haciéndolo adecuado para actividades al aire libre. PartyAdd: Más de 100 Conexiones Inalámbricas, Sonido Potente e Iluminación Potente Admite más de 100 conexiones inalámbricas, altavoces compatibles y luces para animar verdaderamente tu fiesta. Diviértete acampando. Tecnología True Wireless Stereo Admite conexión TWS entre dos Wild Camping, disfruta de un impresionante sonido envolvente estéreo. Bluetooth 5.3 y Transmisión inalámbrica por Bluetooth Conecte de forma inalámbrica hasta 2 teléfonos inteligentes o tabletas al altavoz y túrnense para disfrutar del sonido Wild Camping. Dos Modos y Regulación Continua Wild Camping con 2 modos de luz: luz de vela (2000 k) y luz blanca suave (2700 k). Simplemente presione el botón de encendido para cambiarlos. Además, estos modos también son regulables y simplemente gira el botón para ajustar el brillo que desees. Tecnología Diseñada Bright Light Wild Camping está equipado con 8 chips de luz LED y un ángulo de haz de 360 ​​grados para emitir una luz bastante brillante. Batería de Litio de Alta Capacidad de 9600mAh Duración de la batería de audio: aproximadamente 38 horasDuración de la batería de iluminación: aproximadamente 18 horasDuración completa de la batería: aproximadamente 13 horas IPX7 Resistente al Agua Wild Camping ha diseñado y proporcionado totalmente resistente al agua con el más alto grado de protección IPX7. Para ser a prueba de polvo, barro, golpes, lluvia, nieve, acampar en diversos entornos, ideal para piscina, ducha, playa. IP67 Resistente al Polvo A acampar. A la playa. Al parque. Wild Camping es resistente al polvo IP67, por lo que puedes llevar tu altavoz con mifa camping a cualquier lugar. -20°- +40 Temperatura Ambiente Fuerte adaptabilidad ambiental. Se puede utilizar normalmente tanto en climas fríos de -20° como en climas cálidos con una temperatura alta de 40°. Banco de Energía La batería de litio incorporada no solo proporciona energía para música y luz. y también puedes recargar tus dispositivos libremente como una estación de almacenamiento de energía única. Tarjeta Micro SD: Crea una Lista de Reproducción Exclusiva para Fiestas Prepare la lista de reproducción con anticipación para fiestas y actividades. Reproducirá la música inmediatamente cada vez que inserte la tarjeta SD. Portátil y Colgable Diseño de gancho único, Wild Camping para cortes de energía le permite colgarlo en un árbol o dentro de su tienda para obtener una mejor iluminación al iluminar un área de iluminación grande. Genial como luces colgantes para tiendas de campaña. Especificaciones: Resistente al agua: SíSalida USB-A: 5V/2A (MAX)Admite tarjeta de memoria: SíTipo de altavoz: ALTAVOZ EXTERIORTiempo de reproducción del altavoz: unas 38 horasAltavoz: 2 altavoces de rango completo de 45 mmMaterial de la caja del subwoofer: MetalFuente de energía: CC, bateríaFunción de reproducción: mp3, FLAC, APE, Otros, ALAC, WAVRadiadores pasivos: 2 x radiadores de graves (46 mm x 66 mm)Potencia de salida: 2x10W RMSNúmero de cajas acústicas: 1Modelo: Wild CampingFormato Micro SD: MP3, WMA, WAC, FLAC, APEDuración de la iluminación: unas 18 horas (luz en brillo máximo, audio apagado)Temperatura de color de la iluminación: Luz de vela 2000K, blanco suave 2700KBrillo de iluminación: 230LumenPotencia de entrada(W): 25 WGama de frecuencias: 70Hz-20KHzComunicación: bluetoothDuración combinada: unas 13 horas ( depende del volumen y el contenido de audio, luz en brillo máximo)Códecs: sbcPuerto de carga: USB -CCanales: 2 (2.0)Certificación: CE,FCC,RoHSBluetooth: 5.3Tipo de batería: Batería de litio 3.7V 9600mAh/ 35.52WhTiempo de carga de la batería: unas 4 horas (5V/3A)Batería: SíCrossover de audio: Gama completaRelación señal/ruido: 80dBNivel de protección: IP67 a prueba de agua y polvoTamaño del producto: 110mm * 253.5mm * 110mm/ 4.33'' * 9.98'' * 4.33''Peso neto del producto: 0.82kgPeso del paquete: 1.4kg FAQ Se corta continuamente en reproducción Asegúrese de que el altavoz esté dentro del rango de funcionamiento y que no haya obstáculos entre el altavoz y el dispositivo. No se puede conectar al dispositivo 1. Reinicie el altavoz y vuelva a intentarlo 2. Si su dispositivo requiere un código PIN, introduzca 0000 No se puede reproducir la música de la tarjeta Micro SD 1. Asegúrese de que el formato de la tarjeta Micro SD es FAT32. Sólo admite tarjetas Micro SD FAT32 2. Asegúrese de que los formatos de los archivos de música son APE, FLAC, WAV, WMA o MP3. No hay sonido al reproducir 1. Ajuste el volumen del altavoz 2. Ajuste el volumen de su dispositivo 3. Compruebe si el altavoz está en pausa No se puede encender Intenta cargar el altavoz durante unas 3 horas. No responde a ninguna operación Intenta reiniciar el altavoz pulsando el botón de reinicio de la toma AUX-in.
-  Updated: 2025-10-15T01:11:28Z
+  Updated: 2025-10-19T03:05:25Z
   Vendor: Hifi Media Store
   Product Type: 
   Availability: Available
@@ -4595,14 +4595,14 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/A_-_Hifi_Media_Store-967200.jpg?v=1719001480
   Price: 1159,99 € EUR
 - [Apple iPhone 15 512GB Azul (Blue) MTPG3QL/A](https://hifimediastore.com/products/apple-iphone-15-512gb-azul-blue-mtpg3ql-a): Apple iPhone 15:  Chip A16 Bionic Cámara dual de 48MP + 12MP Zoom óptico Vídeo 4K HDR Pantalla Super Retina XDR de 6,1" USB-C Hasta 20H de reproducción de vídeo
-  Updated: 2025-10-18T01:20:10Z
+  Updated: 2025-10-19T03:58:53Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/A_-_Hifi_Media_Store-967188.jpg?v=1719001458
   Price: 1080,99 € EUR
 - [Google Pixel Fold 5G 12GB/256GB Negro (Obsidian) Dual SIM](https://hifimediastore.com/products/google-pixel-fold-5g-12gb-256gb-negro-obsidian-dual-sim): Google Pixel Fold Dimensiones Desplegado 1587 x 1397 x 57 mm Plegado 1397 x 7874 x 127 mm Pantallas Interior 765 OLED FHD a 120Hz y HDR10 Exterior 58 OLED FHD a 120Hz y Gorilla Glass Victus 3 camaras traseras de 48MP 108MP
-  Updated: 2025-10-14T02:55:17Z
+  Updated: 2025-10-19T03:50:16Z
   Vendor: Google
   Product Type: Smartphone
   Availability: Available
@@ -6618,7 +6618,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/14795.jpg?v=1725047425
   Price: 273,99 € EUR
 - [Google Pixel Buds Pro Auriculares Bluetooth Azul (Heavenly)](https://hifimediastore.com/products/google-pixel-buds-pro-auriculares-bluetooth-azul-heavenly): Google Pixel Buds Pro Cancelacion de Ruido Activa con Silent Seal Altavoz de 11 mm Ecualizador de 5 bandas Modo Sonido Ambiente Almohadillas flexibles Sensores para la presion del canal auditivo Microfonos con conformacion de haces Acelerometro de voz
-  Updated: 2025-10-18T01:05:11Z
+  Updated: 2025-10-19T03:50:11Z
   Vendor: Google
   Product Type: Bluetooth
   Availability: Available
@@ -9107,8 +9107,8 @@
   Updated: 2025-10-16T19:25:32Z
   Total Products: 2
 - [Outlet](https://hifimediastore.com/collections/outlet)
-  Updated: 2025-10-18T22:54:13Z
-  Total Products: 262
+  Updated: 2025-10-19T03:50:47Z
+  Total Products: 263
 - [Edifier](https://hifimediastore.com/collections/edifier)
   Updated: 2025-10-10T22:12:51Z
   Total Products: 1
