@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2023-07-19T18:27:19Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-10-19T00:00:35.211Z
+- Updated At: 2025-10-19T08:00:36.291Z
 
 ## Products
 
 - [Stretch Velvet Sequin Fabric | Fabrics Star](https://fabricsstar.com/products/sequin-fabric): Sparkle and shine with Sequin Fabric from Fabrics Star. Perfect for adding glamour to dresses, costumes, and decor, this fabric is a must-have for any sewing enthusiast.
-  Updated: 2025-10-17T16:55:13Z
+  Updated: 2025-10-19T05:24:22Z
   Vendor: Fabrics Star
   Product Type: Velvet Sequin Fabric
   Availability: Available
@@ -1689,7 +1689,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Chenille Soft Velvet Fabric | Fabrics Star](https://fabricsstar.com/products/chenille-soft-velvet-fabric): Experience luxury with Chenille Soft Velvet Fabric from Fabrics Star. With a width of 118 inches, this fabric is perfect for upholstery projects for coaches and chairs.
-  Updated: 2025-10-15T14:32:42Z
+  Updated: 2025-10-19T00:43:49Z
   Vendor: Fabrics Star
   Product Type: Chenille Fabric
   Availability: Available
@@ -1893,7 +1893,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/SELECTRA-WAVES-YELLOW-WHITE.jpg?v=1757517408
     Price: $1.00 USD
 - [Tulle Mesh Fabric Embellished with Sequins, Beads and Pearls](https://fabricsstar.com/products/soft-tulle-mesh-fabric-embellished-with-sequins-beads-pearls): This Soft Tulle Mesh Fabric Embellished with Sequins has a lace base and is heavily embellished with shiny sequins, beautiful beads, & matching high-quality pearls.
-  Updated: 2025-09-16T00:42:47Z
+  Updated: 2025-10-19T03:33:21Z
   Vendor: Fabrics Star
   Product Type: Mesh Fabric
   Availability: Available
@@ -4091,7 +4091,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/LYNSFIELD-LIME-3-1.jpg?v=1757517859
     Price: $1.00 USD
 - [MILANO Jacquard Print Metallic Marbleized Fabric, 118 Inch in Width, | Home Decor](https://fabricsstar.com/products/milano-jacquard-print-metallic-marbleized-fabric-118-inch-in-width-home-decor): DIMENSION - Size of the fabric is 118 Inch. in width. fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 118' x 36'. Order of 3 yards (Qty=3) is 118’ x 108' Orders can be customized to be cut in pieces by request. MATERIAL – Jacquard Print Fabric by the yard is heavy weight and made of 100% polyester. SIZE: Jacquard fabric comes in 118 inch. in width making it the perfect choice for various oversize needs, such as wide tablecloths, etc. PRINT: Experience the beauty and elegance of our fabric with its stunning print! Perfect for any occasion, it will add a touch of sophistication to your gatherings. USEFUL - Ideal Material for Tablecloths, drapery, pillows, slipcovers, sewing, DIY, handbags, tote bags, arts and crafts, Etc. CARE - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-09-17T01:00:17Z
+  Updated: 2025-10-19T04:03:51Z
   Vendor: Fabrics Star
   Product Type: Jacquard Print Fabric
   Availability: Available
@@ -9477,7 +9477,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/WALDORF-GREY-206.jpg?v=1757518830
     Price: $1.00 USD
 - [VELUXE Soft Velvet Fabric, 72 Inch. in Width, Ideal Material for Home Décor](https://fabricsstar.com/products/veluxe-soft-velvet-fabric-72-inch-in-width-ideal-material-for-home-decor): DIMENSION - Size of the velvet fabric is 72 Inch. in width. Cut by the Yard Velvet Fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 72' x 36'. Order of 3 yards (Qty=3) is 72' x 108' Orders can be customized to be cut in pieces by request SIZE: Soft velvet fabric comes in 72 inch. in width making it the perfect choice for various oversize needs, such as wide tablecloths, upholstery for big coaches etc. MATERIAL - Velvet fabric by the yard is heavyweight and made of 100% polyester. It's soft to the touch and gives a warm and cozy feeling. Wash with lukewarm water, no dryerUSEFUL - Ideal Velvet Material for Upholstery fabric for Coaches and chairs, drapery, pillows, slipcovers, tablecloths, sewing, DIY, handbags, tote bags, arts & crafts Etc Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor.
-  Updated: 2025-10-18T10:10:14Z
+  Updated: 2025-10-19T03:10:12Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -9708,6 +9708,9 @@
     Author: User
   - [How Fabric Innovations Are Shaping the Future of Interior Design](https://fabricsstar.com/blogs/news/how-fabric-innovations-are-shaping-the-future-of-interior-design): How Fabric Innovations Are Shaping the Future of Interior Design
     Updated: 2025-10-15T02:42:09Z
+    Author: User
+  - [The history of patterns in fabric design](https://fabricsstar.com/blogs/news/the-history-of-patterns-in-fabric-design): The history of patterns in fabric design
+    Updated: 2025-10-19T00:09:50Z
     Author: User
 
 ## Store Pages
