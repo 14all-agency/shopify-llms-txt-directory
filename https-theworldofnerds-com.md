@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2023-11-06T10:53:38Z
 - Contact Email: theworldofnerdscustomer@gmail.com
-- Updated At: 2025-10-19T00:00:48.180Z
+- Updated At: 2025-10-19T04:00:42.575Z
 
 ## Products
 
@@ -655,7 +655,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/20241007_203235.jpg?v=1728370776
   Price: ₹199.00 INR
 - [HOT WHEELS MCLAREN P1](https://theworldofnerds.com/products/hot-wheels-mclaren-p1): Unleash the thrill of racing with Hot Wheels cars, the ultimate choice for car enthusiasts and collectors! Each die-cast vehicle is expertly designed with vibrant colors, intricate details, and various styles, from classic muscle cars to futuristic speedsters. With their iconic wheels and impressive designs, Hot Wheels cars are perfect for racing on tracks or displaying in your collection. Whether you’re a young racer or a seasoned collector, Hot Wheels brings the excitement of the open road to life, inspiring imagination and adventure with every turn. Get ready to speed into action with these legendary toys.
-  Updated: 2025-10-18T16:12:25Z
+  Updated: 2025-10-19T00:54:56Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -795,7 +795,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/621.jpg?v=1729145728
   Price: ₹239.00 INR
 - [GROOT AS CAPTAIN AMERICA KEYCHAIN](https://theworldofnerds.com/products/groot-as-captain-america-keychain): Add a touch of personality to your keys with our vibrant silicon character keychains! Made from high-quality, durable silicon, these keychains feature a variety of adorable designs that cater to all ages. Perfect for everyday use or as a charming gift, our keychains are lightweight, flexible, and available in multiple colors and styles. Explore our collection to find your favorite character and enjoy the perfect blend of functionality and fun. Whether you're looking to express your unique style or searching for the ideal gift, our silicon keychains are a must-have accessory. Shop now and elevate your key organization game.
-  Updated: 2025-10-13T18:41:37Z
+  Updated: 2025-10-19T02:39:54Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -3672,7 +3672,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1-2025-02-03T172405.840.jpg?v=1738583658
   Price: ₹1,690.00 INR
 - [BRICK TECH BRICKS QUAD BIKE KING STEERER 148+ PCS BLOCKS](https://theworldofnerds.com/products/bricks-tech-bricks-quad-bike-king-steerer-148-pcs-blocks): Create an exciting adventure with the BRICKS TECH BRICKS QUAD BIKE KING STEERER 148+ PCS BLOCKS! Build, play, and explore endless possibilities with this set, featuring a quad bike design that will bring your imagination to life. With over 148 pieces, the options are limitless. Perfect for aspiring builders and young engineers, this set is designed to provide endless fun and learning. Get yours today!
-  Updated: 2025-07-29T05:13:06Z
+  Updated: 2025-10-19T03:30:17Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -3903,7 +3903,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitleddesign_4_030aba0e-415e-4af6-943e-3d9c38d21b5c.jpg?v=1738747334
   Price: ₹349.00 INR
 - [HOT WHEELS TESLA CYBERTRUCK](https://theworldofnerds.com/products/hot-wheels-tesla-cybertruck): Get ready to race with the hot new HOT WHEELS TESLA CYBERTRUCK! This 1:64 scale vehicle features the sleek design and advanced technology of the real Tesla Cybertruck. With its durable construction and high performance, this is the perfect addition to any Hot Wheels collection. Experience the future of racing today.
-  Updated: 2025-10-10T09:32:51Z
+  Updated: 2025-10-19T00:54:55Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -3924,14 +3924,14 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitleddesign_9_6dad4564-9881-4ada-9602-645b6fc00831.jpg?v=1738747570
   Price: ₹899.00 INR
 - [HOT WHEELS MCLAREN F1](https://theworldofnerds.com/products/hot-wheels-mclaren-f1): This Hot Wheels McLaren F1 is a precision die-cast replica of the iconic supercar. With realistic design and details, this 1:64 scale model is perfect for collectors and car enthusiasts. Add it to your collection or display it as a showpiece.
-  Updated: 2025-10-10T09:30:11Z
+  Updated: 2025-10-19T00:54:55Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitleddesign_12.jpg?v=1738747805
   Price: ₹599.00 INR
 - [HOT WHEELS FORD MUSTANG DARK HORSE](https://theworldofnerds.com/products/hot-wheels-ford-mustang-dark-horse): Discover the sleek and powerful HOT WHEELS FORD MUSTANG DARK HORSE. This collectible die-cast car boasts exquisite detailing and a fierce design, perfect for any car enthusiast. With its high-quality craftsmanship and iconic brand, this Mustang is a must-have for any collection.
-  Updated: 2025-10-10T09:29:46Z
+  Updated: 2025-10-19T00:54:55Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -3945,7 +3945,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitleddesign_14.jpg?v=1738748010
   Price: ₹349.00 INR
 - [HOT WHEELS 67 LOTUS TYPE 49](https://theworldofnerds.com/products/hot-wheels-67-lotus-type-49): Discover the thrill of speed with the HOT WHEELS 67 LOTUS TYPE 49. This meticulously detailed model car features the iconic design of the Lotus Type 49, a powerhouse on the race track. Perfect for collectors and enthusiasts alike, this car is sure to impress with its sleek design and high-quality craftsmanship.
-  Updated: 2025-10-10T09:29:15Z
+  Updated: 2025-10-19T00:54:55Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -5338,7 +5338,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC8140copy.jpg?v=1740220858
   Price: ₹150.00 INR
 - [BUFFALO](https://theworldofnerds.com/products/buffalo): Introducing BUFFALO, the ultimate toy for your furry friend. Made with high-quality materials, this durable toy is perfect for your dog's playtime. Its unique design and texture provide hours of entertainment and exercise, promoting physical and mental well-being. Give your dog the gift of fun with BUFFALO.
-  Updated: 2025-10-18T17:45:24Z
+  Updated: 2025-10-19T03:12:14Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
