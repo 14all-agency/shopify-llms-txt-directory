@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-06-10T13:24:53Z
 - Contact Email: georgina@georginatalfana.com
-- Updated At: 2025-10-18T19:01:59.863Z
+- Updated At: 2025-10-19T00:00:33.307Z
 
 ## Products
 
@@ -1175,6 +1175,8 @@
   Updated: 2025-08-17T06:48:15Z
 - [Copy of Duke of Edinburgh's Award expeditions](https://www.georginatalfana.com/pages/copy-of-duke-of-edinburghs-award-expeditions): Georgina is an accredited expeditions assessor and can train groups up to gold level. She can also help you organise your qualifying expedition ven...
   Updated: 2025-09-29T10:04:21Z
+- [Your privacy choices](https://www.georginatalfana.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
+  Updated: 2025-10-18T19:43:16Z
 
 ## Policies
 
