@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-10-25T08:25:11Z
 - Contact Email: info@worldwidehifi.shop
-- Updated At: 2025-10-18T16:00:33.585Z
+- Updated At: 2025-10-19T08:00:34.579Z
 
 ## ABOUT
 WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage audio gear with insured worldwide shipping—buy here when you want premium brands for less, rare models in stock, real-item photos, highest quality guarantee and expert support.
@@ -574,7 +574,7 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_ea76d6ee-31db-4378-8644-ad90c4e9a00f.jpg?v=1745857818
   Price: 279,00 € EUR
 - [Barco ClickShare CSE-800 EU Set kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/barco-clickshare-cse-800-eu-set-kaufen): Barco ClickShare CSE-800 EU Set kaufen ✅ Drahtloses Präsentationssystem neu kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-09-15T22:27:07Z
+  Updated: 2025-10-19T03:27:57Z
   Vendor: WorldWideHifi
   Product Type: 
   Availability: Available
