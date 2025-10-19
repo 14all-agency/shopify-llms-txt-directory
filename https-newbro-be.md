@@ -10,7 +10,7 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
 - Timezone: Europe/Brussels
 - Created At: 2025-05-21T21:01:24Z
 - Contact Email: info@newbro.be
-- Updated At: 2025-10-19T00:00:29.244Z
+- Updated At: 2025-10-19T16:00:33.276Z
 
 ## Products
 
@@ -236,7 +236,7 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/moslim-ring-elegante-en-authentieke-sieraden-voor-gelovigen-golden-717.webp?v=1752270791
     Price: € 9,05 EUR
 - [Moslim Tasbih Kralen - 33 Agaat & Kristal Natuursteen Dhikr Kralen](https://newbro.be/products/moslim-tasbih-kralen): Ontdek de Moslim Tasbih Kralen 33 Agaat & Kristal. Perfect voor Dhikr, handgemaakte natuursteen kralen voor spirituele rust en focus. Bestel nu!
-  Updated: 2025-10-18T14:06:05Z
+  Updated: 2025-10-19T12:25:20Z
   Vendor: BRO Webshop
   Product Type: 1
   Availability: Available
@@ -1529,7 +1529,7 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/muslim-womens-wear-robe-sequined-embroidery-dark-green-m-919.webp?v=1752304712
     Price: € 28,50 EUR
 - [Abaya – gebedskleed met losse pasvorm, lange mouwen & effen kleur | BRO Webshop](https://newbro.be/products/abaya-gebedskleed-met-losse-pasvorm-lange-mouwen-effen-kleur): Abaya – gebedskleed met losse pasvorm, lange mouwen & effen kleur. Met luchtige pasvorm, lange mouwen en strijkvrije stof. Comfortabel, modest en elegant. Shop nu bij BRO Webshop.
-  Updated: 2025-10-18T14:06:05Z
+  Updated: 2025-10-19T12:28:10Z
   Vendor: BRO Webshop
   Product Type: 0
   Availability: Available
@@ -1844,7 +1844,7 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
 ## Collections
 
 - [Halal Accessoires - Collectie voor Moslims](https://newbro.be/collections/halal-accessoires-unieke-collectie-voor-moslims): Halal Accessoires. Vind Stijlvolle Juwelen En Andere Accessoires. Maak Uw Outfit Compleet.
-  Updated: 2025-10-08T19:51:11Z
+  Updated: 2025-10-19T11:34:45Z
   Total Products: 47
 - [Islamitische Woondecoratie.](https://newbro.be/collections/islam-woondecoratie): Islamitische woondecoratie speelt een cruciale rol in het creëren van een sfeervolle thuisomgeving, maar ook een gevoel van rust en spiritualiteit.
   Updated: 2025-10-05T18:39:51Z
@@ -1856,10 +1856,10 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
 Hijab kopen online ?
 Jilbab dames modeshop ?
 BRO Webshop - de one-stop-shop voor Islamitische kleding - Halal mode - Modest fashion
-  Updated: 2025-10-13T00:08:38Z
+  Updated: 2025-10-19T11:34:45Z
   Total Products: 194
 - [Islam beleving : Alles Voor Salat](https://newbro.be/collections/gebedskleed-kopen-online-bij-de-islam-webshop-voor-moslim-tapijt): In onze collectie "Islam beleving" vind je alles voor de salat.  een gebedskleed voor moslims of een Tasbih, je vindt het er allemaal.
-  Updated: 2025-10-05T18:39:48Z
+  Updated: 2025-10-19T11:34:45Z
   Total Products: 24
 - [Ramadan en Eid geschenken : Traditionele Praktijken en Vieringen in Nederland](https://newbro.be/collections/ramadan-en-eid): Ramadan en Eid geschenken ?
 Ramadan cadeaus ?
@@ -1868,7 +1868,7 @@ BRO Webshop - De one-stop-shop voor Islamitische kleding - Halal mode - Modest f
   Updated: 2025-10-05T18:39:51Z
   Total Products: 7
 - [Islamitische kleding voor dames](https://newbro.be/collections/islamitische-kleding-voor-dames): Islamitische kleding voor dames: elegant, bescheiden en stijlvol. Van abaya’s tot modieuze maxi-jurken, ontdek outfits die geloof en mode verenigen.
-  Updated: 2025-10-18T19:32:44Z
+  Updated: 2025-10-19T11:34:45Z
   Total Products: 90
 - [Hijab kopen online](https://newbro.be/collections/hijab-kopen-online-elegante-hoofdmode-bij-bro-webshop): Een hijab kopen online? Je kunt nu eenvoudig jouw ideale hijab kopen online. Ontdek onze selectie en laat je inspireren. Bekijk onze collectie.
   Updated: 2025-10-17T22:14:04Z
@@ -1919,7 +1919,7 @@ BRO Webshop - De one-stop-shop voor Islamitische kleding - Halal mode - Modest f
   Updated: 2025-10-12T19:57:42Z
   Total Products: 18
 - [Gebedskleding](https://newbro.be/collections/gebedskleding): Maak je gebedsmomenten nog specialer met onze gebedskleding voor vrouwen.
-  Updated: 2025-10-18T20:07:39Z
+  Updated: 2025-10-19T11:34:45Z
   Total Products: 2
 - [Elegant, elke dag.](https://newbro.be/collections/elegant-voor-elke-dag): Elegante kleding voor elke dag.
   Updated: 2025-10-18T20:27:41Z
