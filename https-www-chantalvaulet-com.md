@@ -1,45 +1,50 @@
 # Chantal Vaulet (https://www.chantalvaulet.com)
 
-> Store Name: Chantal Vaulet
-Category: Fine Jewelry E-commerce
-Specialties: Moissanite, lab-grown diamonds
-Focus: Engagement rings, wedding bands, earrings, necklaces, bracelets
-Value Propositions: Ethical stones, exceptional sparkle, modern European design, fair pricing, expert guidance
-Audience: Proposal shoppers, modern couples, style-conscious buyers, gift givers
+> Shop Name: Chantal Vaulet
+Industry: Fine Jewelry / E-commerce
+Platform: Shopify
 
-Brand Voice:
-Tone: Warm, expert, reassuring, modern
-Style: Clear, light romance, no hype, simple sentences
-SEO Focus: Product-centric, customer-focused
-Materials & Stones:
-Silver (925/950), 10k/14k/18k Gold, Platinum
-Moissanite, Lab-Grown Diamonds
-Stones have high cut grade and exceptional sparkle
-Key Product Features:
-Custom sizing and gold color options (yellow/white/rose) 
-Matching bands available
-Luxury look, sustainable choice, ethical sourcing
+Brand Overview:
+Chantal Vaulet is a modern fine jewelry brand specializing in engagement rings crafted with moissanite and lab-grown diamonds. Every design reflects timeless elegance, meticulous craftsmanship, and a deep respect for sustainable luxury. Our mission is to make exceptional quality and brilliance accessible without compromise to ethics or beauty.
 
-Services:
-Support: Sizing help, style consultation, care guidance
-Shipping: Fast, discreet packaging;
-Returns: Easy, customer-first policy
-Warranty: lifelong Manufacturer warranty against defects
+Core Values:
+	•	Sustainability: We exclusively use conflict-free, lab-grown gemstones and responsibly sourced metals.
+	•	Transparency: We provide detailed technical specifications for every piece, ensuring clarity and trust.
+	•	Design Excellence: Our jewelry combines classic European artistry with modern minimalist aesthetics.
+	•	Accessibility: We deliver fine jewelry quality at a fraction of traditional diamond prices.
 
-SEO Guidance:
-Primary Keywords: Engagement ring, moissanite engagement ring, lab-grown diamond ring
+Product Focus:
+Our signature collections feature moissanite and lab-grown diamond engagement rings with customizable metal options, carat sizes, and shapes. Each product includes a structured description with these fields:
+	•	Main Stone
+	•	Carat Weight
+	•	Shape
+	•	Cut Grade
+	•	Color Grade
+	•	Clarity
+	•	Setting Type
+	•	Metal Options
+	•	Metal Color
 
-Secondary Keywords: Wedding band, moissanite jewelry, ethical engagement ring
-Avoid: Overpromising or unverifiable claims
+SEO & Content Style:
+Chantal Vaulet uses rich, elegant, SEO-optimized language that highlights the brilliance (“schittering”), quality, and craftsmanship of each piece. Product names follow the format:
+“The [Name] [Carat] [Shape] [Stone Type] Ring”
+(e.g., The Sylvessa 1CT Round-Cut Moissanite Ring)
 
-Languages & Translation Notes:
-Primary Languages: English, German, Ukrainian, Dutch, French, Denmark
-Taglines:
-Modern engagement rings with ethical sparkle.
+Localization:
+Our online store operates in multiple languages—English, German, French, Dutch, Danish, and Ukrainian—to serve customers across Europe and beyond. Each translation maintains the brand’s refined tone and consumer-friendly flow.
 
-- Updated At: 2025-10-19T20:00:36.055Z
+Tagline:
+Ethical Brilliance. Timeless Elegance.
 
-Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced engagement rings and fine jewelry. We specialize in premium moissanite and lab-grown diamonds, offering a modern, sustainable choice for the stylish couple. Our commitment to exceptional craftsmanship ensures that each piece sparkles with brilliance and elegance. Explore our curated collection, where every ring tells a story of love, quality, and timeless beauty.
+
+- Domain: https://www.chantalvaulet.com
+- Locale: en
+- Currency: EUR
+- Timezone: Europe/Warsaw
+- Created At: 2025-01-16T13:53:30Z
+- Contact Email: Info@chantalvaulet.com 
+- Contact Phone: +48 575 543 743
+- Updated At: 2025-10-19T22:30:51.829Z
 
 ## Products
 
@@ -1392,7 +1397,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Availability: Available
     Price: €89.00 EUR
 - [1.0 CT Round Moissanite Ring – Estrella Halo | Chantal Vaulet](https://www.chantalvaulet.com/products/estrella-moissanite-pave-halo-engagement-ring-1-0ct): The Estrella is a 1.0 carat pavé halo moissanite engagement ring, radiating elegance and timeless love in stunning detail.
-  Updated: 2025-10-19T16:51:18Z
+  Updated: 2025-10-19T20:04:53Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
@@ -11644,7 +11649,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Availability: Available
     Price: €1,950.00 EUR
 - [The Sylvarien 1.5CT Pear-Cut Moissanite or Lab Diamond Engagement Ring](https://www.chantalvaulet.com/products/the-sylvarien-1-5ct-pear-solitaire-engagement-ring): The Sylvarien Ring features a 1.5CT pear-cut solitaire in a sculptural bypass setting. Certified moissanite or IGI-certified lab diamond, available in 9K, 14K, or 18K gold.
-  Updated: 2025-10-19T15:58:03Z
+  Updated: 2025-10-19T21:05:33Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
@@ -11800,7 +11805,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Availability: Available
     Price: €1,595.00 EUR
 - [The Nymeria 1.5CT Marquise Engagement Ring – Moissanite or IGI Lab Diamond](https://www.chantalvaulet.com/products/the-nymeria-1-5ct-marquise-engagement-ring): The Nymeria Ring features a 1.5CT marquise-cut center stone in a vintage-inspired setting. Available in certified moissanite or IGI lab diamond, set in 9K, 14K, or 18K gold.
-  Updated: 2025-10-19T15:45:27Z
+  Updated: 2025-10-19T22:19:59Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
@@ -12642,6 +12647,8 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
   Updated: 2025-03-11T13:22:11+01:00
 - [Terms of Service](https://www.chantalvaulet.com/policies/terms-of-service)
   Updated: 2025-03-16T15:50:36+01:00
+- [Contact Information](https://www.chantalvaulet.com/policies/contact-information)
+  Updated: 2025-03-11T14:03:31+01:00
 
 ## Alternate Currencies & Languages
 
@@ -12653,27 +12660,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
 - [Ukraine (en / UAH)](https://www.chantalvaulet.com//llms.txt?market=ukraine)
 - [USA (en / USD)](https://www.chantalvaulet.com/llms.txt?market=usa)
 
-section_1:
-  title: "Engagement Rings"
-  description: "Discover our curated collection of stunning engagement rings, featuring moissanite and lab-grown diamonds in a variety of shapes, sizes, and settings. Whether you're drawn to classic elegance or modern sophistication, we have a ring that’s perfect for your unique love story."
-
-section_2:
-  title: "Wedding Bands"
-  description: "Our wedding bands are designed to complement our engagement rings, offering a seamless match for your special day. Made with the finest materials, each band is crafted to symbolize enduring love and commitment."
-
-section_3:
-  title: "Custom Jewelry"
-  description: "Create a personalized masterpiece with our custom jewelry service. Whether it's an engagement ring, a special gift, or a meaningful keepsake, our design team will work with you to bring your vision to life using ethically sourced stones and precious metals."
-
-section_4:
-  title: "The Chantal Vaulet Promise"
-  description: "At Chantal Vaulet, we stand by the quality of our products and the integrity of our process. All of our jewelry is crafted with care and precision, backed by a warranty to ensure your satisfaction for years to come."
-
 ## Optional
 
 - [robots.txt](https://www.chantalvaulet.com/robots.txt)
 - [sitemap.xml](https://www.chantalvaulet.com/sitemap.xml)
-
-Thank you for visiting Chantal Vaulet, where exceptional quality and ethical sourcing meet timeless beauty. We're here to guide you through every step of your jewelry journey, from choosing the perfect engagement ring to understanding care and maintenance.  
-Need help? Reach out to our support team for sizing assistance, consultations, or any questions you have.  
-Stay connected with us for updates, new arrivals, and special offers.
