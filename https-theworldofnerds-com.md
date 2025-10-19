@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2023-11-06T10:53:38Z
 - Contact Email: theworldofnerdscustomer@gmail.com
-- Updated At: 2025-10-19T12:00:43.102Z
+- Updated At: 2025-10-19T20:00:42.108Z
 
 ## Products
 
@@ -164,13 +164,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/537_1.jpg?v=1723377712
   Price: ₹589.00 INR
-- [NAMI-ABYSTYLE ONE PIECE-ACRYL](https://theworldofnerds.com/products/nami-abystyle-one-piece-acryl): ONE PIECE Acryl® Nami Nami to reconstitute! Nami, the straw hat crew's navigator, is represented on this One Piece Acryl® by ABYstyle! 3 pieces to set up: character, emblem/logo and base Character height: approximately 10cm High quality printing on acrylic Pieces to be separated from the printed board.
-  Updated: 2025-08-15T08:23:54Z
-  Vendor: The World Of Nerds
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/538_1.jpg?v=1723377826
-  Price: ₹589.00 INR
 - [GON-ABYSTYLE HUNTER X HUNTER-ACRYL](https://theworldofnerds.com/products/gon-abystyle-hunter-x-hunter-acryl): HUNTER X HUNTER Acryl® Gon Your favourite hero to reconstruct! Gon is ready to strike a blow on this Hunter X Hunter Acryl® by ABYstyle. 3 pieces to set up: character, emblem/logo and base Character height: approximately 9.5cm High quality printing on acrylic Pieces to be separated from the printed board
   Updated: 2025-09-03T23:02:37Z
   Vendor: The World Of Nerds
@@ -277,7 +270,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC03702.jpg?v=1723455878
   Price: ₹399.00 INR
 - [FUNKO POP! DISNEY:KINGDOM HEARTS-ORGANIZATION 13 MICKEY WITH KEY-334](https://theworldofnerds.com/products/funko-pop-disney-kingdom-hearts-mickey-with-key-334): Funko Pop! collectibles are vibrant, stylized vinyl figures that capture characters from various franchises, including movies, TV shows, comics, video games, and more. Each figure features a distinctive oversized head and a small, simplistic body, making them instantly recognizable and highly collectible. With thousands of different characters released over the years, Funko Pop! figures are celebrated for their quirky charm and attention to detail, allowing fans to bring their favorite characters to life in a fun and visually appealing way. Whether a casual fan or a dedicated collector, Funko Pop! figures offer a delightful way to showcase your passion for pop culture.
-  Updated: 2025-07-29T05:10:37Z
+  Updated: 2025-10-19T12:55:07Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -704,7 +697,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/407.jpg?v=1729082234
   Price: ₹239.00 INR
 - [KAKASHI HATAKE KEYCHAIN](https://theworldofnerds.com/products/kakashi-hatake-keychain): Add a touch of personality to your keys with our vibrant silicon character keychains! Made from high-quality, durable silicon, these keychains feature a variety of adorable designs that cater to all ages. Perfect for everyday use or as a charming gift, our keychains are lightweight, flexible, and available in multiple colors and styles. Explore our collection to find your favorite character and enjoy the perfect blend of functionality and fun. Whether you're looking to express your unique style or searching for the ideal gift, our silicon keychains are a must-have accessory. Shop now and elevate your key organization game.
-  Updated: 2025-09-19T07:26:15Z
+  Updated: 2025-10-19T17:04:36Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -1033,7 +1026,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/627.jpg?v=1729862684
   Price: ₹239.00 INR
 - [BLACK PANTHER KEYCHAIN](https://theworldofnerds.com/products/black-panther-keychain): Add a touch of personality to your keys with our vibrant silicon character keychains! Made from high-quality, durable silicon, these keychains feature various adorable designs that cater to all ages. Our keychains are lightweight, flexible, and available in multiple colors and styles, perfect for everyday use or as a charming gift. Explore our collection to find your favorite character and enjoy the perfect blend of functionality and fun. Whether you want to express your unique style or seek the ideal gift, our silicon keychains are a must-have accessory. Shop now and elevate your key organization game.
-  Updated: 2025-07-29T05:11:07Z
+  Updated: 2025-10-19T17:08:24Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -1180,7 +1173,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/648.jpg?v=1729958105
   Price: ₹239.00 INR
 - [LUFFY KEYCHAIN](https://theworldofnerds.com/products/luffy-keychain-1): Add a touch of personality to your keys with our vibrant silicon character keychains! Made from high-quality, durable silicon, these keychains feature various adorable designs that cater to all ages. Our keychains are lightweight, flexible, and available in multiple colors and styles, perfect for everyday use or as a charming gift. Explore our collection to find your favorite character and enjoy the perfect blend of functionality and fun. Whether you want to express your unique style or seek the ideal gift, our silicon keychains are a must-have accessory. Shop now and elevate your key organization game.
-  Updated: 2025-07-29T05:11:12Z
+  Updated: 2025-10-19T18:53:30Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -1201,7 +1194,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/651.jpg?v=1729958380
   Price: ₹239.00 INR
 - [NAMI KEYCHAIN](https://theworldofnerds.com/products/nami-keychain): Add a touch of personality to your keys with our vibrant silicon character keychains! Made from high-quality, durable silicon, these keychains feature various adorable designs that cater to all ages. Our keychains are lightweight, flexible, and available in multiple colors and styles, perfect for everyday use or as a charming gift. Explore our collection to find your favorite character and enjoy the perfect blend of functionality and fun. Whether you want to express your unique style or seek the ideal gift, our silicon keychains are a must-have accessory. Shop now and elevate your key organization game.
-  Updated: 2025-09-08T13:33:03Z
+  Updated: 2025-10-19T18:53:30Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -2251,7 +2244,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitled_5_daffdb1a-ed44-46e9-bb1d-a83ae9230951.png?v=1731333651
   Price: ₹1,999.00 INR
 - [GIYU-KATANA](https://theworldofnerds.com/products/giyu-katana): Unleash the spirit of your favorite anime characters with our meticulously crafted anime katanas. Made from a perfect blend of high-quality wood and durable ABS plastic, these katanas offer an authentic look and feel while ensuring long-lasting performance. Ideal for collectors, cosplayers, and fans alike, each katana features detailed craftsmanship and lightweight construction, making it both visually stunning and easy to handle. Whether you’re adding to your collection or gearing up for your next cosplay, our anime katanas are built to impress with their durability, aesthetic appeal, and high-quality materials. Perfect for display or action-packed cosplay, these katanas bring the legendary katanas from your favorite anime to life.
-  Updated: 2025-10-16T01:51:45Z
+  Updated: 2025-10-19T13:09:46Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -2468,7 +2461,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_99eae87d-5c25-4ec9-afbc-abdb536bb47b.jpg?v=1732703017
   Price: ₹239.00 INR
 - [DRAGON BALL Z SUPER SAIYAN TRUNKS KEYCHAIN](https://theworldofnerds.com/products/dragon-ball-z-super-saiyan-trunks-keychain): Add a touch of personality to your keys with our vibrant silicon character keychains! Made from high-quality, durable silicon, these keychains feature various adorable designs that cater to all ages. Our keychains are lightweight, flexible, and available in multiple colors and styles, perfect for everyday use or as a charming gift. Explore our collection to find your favorite character and enjoy the perfect blend of functionality and fun. Whether you want to express your unique style or seek the ideal gift, our silicon keychains are a must-have accessory. Shop now and elevate your key organization game.
-  Updated: 2025-09-01T06:38:33Z
+  Updated: 2025-10-19T17:04:36Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -2587,7 +2580,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_e0d7751d-9c8f-4a99-a105-26a5ca78e148.jpg?v=1732709495
   Price: ₹239.00 INR
 - [BLEACH ICHIGO KUROSAKI KEYCHAIN](https://theworldofnerds.com/products/bleach-ichigo-kurosaki-keychain-1): Add a touch of personality to your keys with our vibrant silicon character keychains! Made from high-quality, durable silicon, these keychains feature various adorable designs that cater to all ages. Our keychains are lightweight, flexible, and available in multiple colors and styles, perfect for everyday use or as a charming gift. Explore our collection to find your favorite character and enjoy the perfect blend of functionality and fun. Whether you want to express your unique style or seek the ideal gift, our silicon keychains are a must-have accessory. Shop now and elevate your key organization game.
-  Updated: 2025-07-30T06:34:45Z
+  Updated: 2025-10-19T17:04:36Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -4393,7 +4386,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_3ed96b23-42cc-42fb-89c3-91b9637d4c15.jpg?v=1739599279
   Price: ₹399.00 INR
 - [POKEMON SET OF 6 D1](https://theworldofnerds.com/products/pokemon-collection): This POKEMON SET OF 6 is a must-have for any collector or fan! With 6 unique and iconic characters included, this set offers a diverse and valuable addition to your collection. Made with high-quality materials, these figures are perfect for display or play. Catch 'em all now!
-  Updated: 2025-07-29T05:13:28Z
+  Updated: 2025-10-19T18:14:30Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -7249,7 +7242,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/2_2e7d4147-cbf7-4332-a28c-bfcd4b9bd502.jpg?v=1751886851
   Price: ₹679.00 INR
 - [One Piece Gear 5 Luffy Giant Fist Action Figure](https://theworldofnerds.com/products/one-piece-gear-5-luffy-giant-fist-action-figure): “Thunder cracks, the ground trembles—and there he is. Luffy, approx. 15cm tall, in Gear 5 Sun God Nika form, launching his gigantic fist with a fearless grin, like a scene where hope returns in One Piece. With dynamic smoke effects and vibrant colors, this figure captures Luffy’s awakened power and unbreakable spirit, making it the perfect centerpiece for collectors ready to feel the energy of Gear 5 in their space.”
-  Updated: 2025-07-29T05:15:14Z
+  Updated: 2025-10-19T15:55:55Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
