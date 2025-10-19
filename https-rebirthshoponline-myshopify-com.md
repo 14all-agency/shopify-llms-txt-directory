@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-09-03T22:17:37Z
 - Contact Email: INFO.REBIRTH1@GMAIL.COM
-- Updated At: 2025-10-18T04:00:31.401Z
+- Updated At: 2025-10-19T04:00:32.516Z
 
 ## Products
 
@@ -3178,7 +3178,7 @@
     Image: https://cdn.shopify.com/s/files/1/0774/9478/0155/files/326be680-4da2-44d0-a875-fe5d262fb191.jpg?v=1760656463
     Price: $54.86 USD
 - ['Trust In God' Pullover Hoodie](https://rebirthshoponline.myshopify.com/products/trust-in-god-pullover-hoodie): Experience ultimate comfort and style with our unisex sponge fleece pullover hoodie. The front of the hoodie features a spacious pouch-style pocket that adds both functionality and visual appeal. The hood can be easily adjusted using the white draw cord for a personalized fit. To ensure a secure and snug feel, both the cuffs and waistband are designed with ribbing. Embrace this hoodie's cozy embrace and elevate your casual look with ease. Features: Adjustable hood with white drawstrings, spacious pockets, ribbed-knit cuffs and waistband, side seamed This product is made on demand. No minimums. Size guide S M L XL 2XL 3XL A) Length (cm) 67 69.9 72.7 75.6 78.4 81.3 B) Width (cm) 99 109.2 119.4 129.6 139.8 149.8 B) Half Chest (cm) 49.5 54.6 59.7 64.8 69.9 74.9 C) Sleeve Length (cm) 67.3 69.9 72.4 74.9 76.2 77.5 S M L XL 2XL 3XL A) Length (inches) 26.4 27.5 28.6 29.8 30.9 32 B) Width (inches) 39 43 47 51 55 59 B) Half Chest (inches) 19.5 21.5 23.5 25.5 27.5 29.5 C) Sleeve Length (inches) 26.5 27.5 28.5 29.5 30 30.5 Care instructions Wash Machine wash cold (max 30C or 90F) Bleach Only non-chlorine Tumble Dry Tumble dry: low heat Iron Do not iron Dry clean Do not dry clean
-  Updated: 2025-10-17T15:01:49Z
+  Updated: 2025-10-18T04:46:39Z
   Vendor: ReBirth.
   Product Type: Print Material
   Availability: Available
