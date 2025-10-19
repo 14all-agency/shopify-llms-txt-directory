@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2017-07-28T20:56:09Z
 - Contact Email: jenny@skinqri.com
-- Updated At: 2025-10-18T16:00:31.637Z
+- Updated At: 2025-10-19T04:00:32.782Z
 
 ## Products
 
@@ -25,7 +25,7 @@
   Image: https://cdn.shopify.com/s/files/1/2226/4109/files/Untitled_design-3.jpg?v=1757998710
   Price: $465.00 USD
 - [KeraKits | KeraFactor® Accessory Kit](https://mykerafactor.com/products/kerakits-keralase-accessory-kits): KeraKit includes 6 Non-slip Clips, 3 Tail Combs, 1 Handheld Mirror Our KeraKit is suitable for most hair types long, short, straight, curly, thick, or fine hair to help keep hair parted during the KeraFactor treatment. The non-slip clips keep the hair parted with ease, never pulling or damaging the hair. The tail comb is designed for fast parting, the handle has a tapered tail that allows for quick sectioning, separating, and partings. Handheld mirror provides a crystal clear, true reflection with no magnification and no distortion for the patient to see the KeraFactor treatment. High-Quality Set: Our hair clips and combs are made of durable plastic and the mirror of acrylic. They are lightweight and very sturdy.
-  Updated: 2025-10-16T17:03:50Z
+  Updated: 2025-10-18T21:50:41Z
   Vendor: SkinQRI
   Product Type: Hair Care
   Availability: Available
@@ -39,7 +39,7 @@
   Image: https://cdn.shopify.com/s/files/1/2226/4109/files/hairtipkera-12-opt.jpg?v=1751549921
   Price: $55.00 USD
 - [KeraFactor®MD In-Office Serum (Box of 5)](https://mykerafactor.com/products/kerafactor-2-0-serum): A specific selection and concentration of the 6 biomimetic growth factors, 2 skin proteins, and 2 compounds for Scalp Revitalization. An in-office hair treatment serum. This serum contains only a high concentration of the proprietary formulation of the Kerafactor Peptide Complex. The KeraFactor Peptide complex MD (KFP) plus we have added Follistatin, PolyDeoxyRiboNuculeotide, and NanoFluorosomes. Each specific peptide is wrapped in a nanoliposome-protected carrier for optimum absorption. This serum is designed for use during an in-office procedure and is NOT TO BE INJECTED. 5ml in a syringe with a silicone duckbill applicator. Easy to apply to the patient’s scalp. Possible Adverse Reactions: Scalp irritation, rash, or temporary redness. If a reaction occurs, please discontinue use. For patients with fish allergies, please take a precautionary approach - watch after a cautionary test application. In rare cases, there could be an allergic reaction due to the PDRN in the formula. Warning: Avoid this product if you are allergic to Curcumin. Avoid contact with eyes. In case of contact with eyes, rinse immediately with plenty of water. Keep out of reach of children. Not intended for use by pregnant or nursing women or by any person under the age of 18. If you are taking any medications, consult with your doctor or health professional before use. List of Ingredients for the Serum: Water, Pentylene Glycol, sh-Polypeptide-86, sh-Polypeptide-11, sh-Polypeptide-71, sh-Oligopeptide-1, sh-Oligopeptide-4, sh-Polypeptide-7, sh-Polypeptide-9, sh-Polypeptide-1, DNA(PDRN), Curcumin, Tetrahydrocurcumin, Lecithin, Arginine, Carbomer, Polysorbate 60, Citric Acid, Sodium Citrate, PhenoxyethanolWe are proudly registered with the FDA Cosmetics Direct portal under MoCRA requirements.
-  Updated: 2025-10-17T22:47:47Z
+  Updated: 2025-10-18T21:50:42Z
   Vendor: KeraFactor by SkinQRI
   Product Type: 
   Availability: Available
@@ -60,7 +60,7 @@
   Image: https://cdn.shopify.com/s/files/1/2226/4109/files/4_babf023d-71de-4e77-bd88-0037efb83081-opt.jpg?v=1751548014
   Price: $330.00 USD
 - [KeraFactor® Brochure](https://mykerafactor.com/products/keralase-brochure): (50 QTY) KeraLase brochures per package
-  Updated: 2025-10-17T23:52:36Z
+  Updated: 2025-10-18T21:50:41Z
   Vendor: KeraFactor by SkinQRI
   Product Type: 
   Availability: Available
