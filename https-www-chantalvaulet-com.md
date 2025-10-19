@@ -37,7 +37,7 @@ Primary Languages: English, German, Ukrainian, Dutch, French, Denmark
 Taglines:
 Modern engagement rings with ethical sparkle.
 
-- Updated At: 2025-10-19T12:00:35.437Z
+- Updated At: 2025-10-19T16:00:35.229Z
 
 Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced engagement rings and fine jewelry. We specialize in premium moissanite and lab-grown diamonds, offering a modern, sustainable choice for the stylish couple. Our commitment to exceptional craftsmanship ensures that each piece sparkles with brilliance and elegance. Explore our curated collection, where every ring tells a story of love, quality, and timeless beauty.
 
@@ -8132,11 +8132,11 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Availability: Available
     Price: €79.00 EUR
 - [1CT Round Moissanite Ring – The Isalyn | Chantal Vaulet](https://www.chantalvaulet.com/products/the-isalyn-1ct-round-cut-moissanite-ring): The Isalyn is a 1CT round-cut moissanite ring, featuring an icy-white sparkle in a classic six-prong setting for timeless elegance.
-  Updated: 2025-10-13T18:51:18Z
+  Updated: 2025-10-19T15:59:48Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/the-isalyn-1ct-round-cut-moissanite-ring_by_Chantal_Vaulet_b6ff70b3408ec84285ec4ac20ff7a8cc.webp?v=1760381476
+  Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/the-isalyn-1ct-round-cut-moissanite-ring_by_Chantal_Vaulet.webp?v=1760889587
   - [4.5](https://www.chantalvaulet.com/products/the-isalyn-1ct-round-cut-moissanite-ring?variant=42111500124225)
     Availability: Available
     Price: €89.00 EUR
@@ -11039,7 +11039,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Availability: Available
     Price: €1,495.00 EUR
 - [The Eira 3CT Moissanite or Lab Diamond Bridal Set - Chantal Vaulet](https://www.chantalvaulet.com/products/the-eira-set): The Eira Bridal Set features a 3CT round center stone with 3mm side stones and a perfectly matched pavé wedding band. Available in moissanite or lab diamond, set in rose gold.
-  Updated: 2025-10-15T19:07:45Z
+  Updated: 2025-10-19T16:00:26Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
@@ -11627,11 +11627,11 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Availability: Available
     Price: €1,950.00 EUR
 - [The Sylvarien 1.5CT Pear-Cut Moissanite or Lab Diamond Engagement Ring](https://www.chantalvaulet.com/products/the-sylvarien-1-5ct-pear-solitaire-engagement-ring): The Sylvarien Ring features a 1.5CT pear-cut solitaire in a sculptural bypass setting. Certified moissanite or IGI-certified lab diamond, available in 9K, 14K, or 18K gold.
-  Updated: 2025-10-19T10:08:37Z
+  Updated: 2025-10-19T15:58:03Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/F5F5F5_47.png?v=1760864729
+  Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/the-sylvarien-1-5ct-pear-solitaire-engagement-ring_by_Chantal_Vaulet.webp?v=1760888039
   - [Moissanite / 9K White Gold / 5](https://www.chantalvaulet.com/products/the-sylvarien-1-5ct-pear-solitaire-engagement-ring?variant=42960863559745)
     Availability: Available
     Price: €749.00 EUR
@@ -11783,11 +11783,11 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Availability: Available
     Price: €1,595.00 EUR
 - [The Nymeria 1.5CT Marquise Engagement Ring – Moissanite or IGI Lab Diamond](https://www.chantalvaulet.com/products/the-nymeria-1-5ct-marquise-engagement-ring): The Nymeria Ring features a 1.5CT marquise-cut center stone in a vintage-inspired setting. Available in certified moissanite or IGI lab diamond, set in 9K, 14K, or 18K gold.
-  Updated: 2025-10-19T10:29:51Z
+  Updated: 2025-10-19T15:45:27Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/IMG_2471.jpg?v=1760869195
+  Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/the-nymeria-1-5ct-marquise-engagement-ring_by_Chantal_Vaulet_22473c2f-f58f-4751-9b6f-d632c048a969.webp?v=1760888726
   - [Moissanite / 9K Yellow Gold / 5](https://www.chantalvaulet.com/products/the-nymeria-1-5ct-marquise-engagement-ring?variant=42960909500481)
     Availability: Available
     Price: €759.00 EUR
@@ -11938,15 +11938,482 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
   - [Lab-Diamond / 14K Yellow Gold / 7](https://www.chantalvaulet.com/products/the-nymeria-1-5ct-marquise-engagement-ring?variant=42960918413377)
     Availability: Available
     Price: €1,695.00 EUR
+- [The Elaris 2CT Oval Engagement Ring – Moissanite or IGI Lab Diamond](https://www.chantalvaulet.com/products/the-elaris-2ct-oval-engagement-ring): The Elaris Ring features a certified 2CT Oval-cut center stone with marquise and oval accents. Available in moissanite or IGI-certified lab diamond, set in 9K, 14K, or 18K gold.
+  Updated: 2025-10-19T15:44:52Z
+  Vendor: Chantal Vaulet
+  Product Type: RING
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/the-elaris-2ct-oval-engagement-ring_by_Chantal_Vaulet_6d06de81-94a6-48e6-a1e8-ddd83a7bd36a.webp?v=1760888682
+  - [Moissanite / 9K White Gold / 5](https://www.chantalvaulet.com/products/the-elaris-2ct-oval-engagement-ring?variant=42960919298113)
+    Availability: Available
+    Price: €849.00 EUR
+  - [Moissanite / 9K White Gold / 5.25](https://www.chantalvaulet.com/products/the-elaris-2ct-oval-engagement-ring?variant=42960919330881)
+    Availability: Available
+    Price: €849.00 EUR
+  - [Moissanite / 9K White Gold / 5.75](https://www.chantalvaulet.com/products/the-elaris-2ct-oval-engagement-ring?variant=42960919363649)
+    Availability: Available
+    Price: €849.00 EUR
+  - [Moissanite / 9K White Gold / 6](https://www.chantalvaulet.com/products/the-elaris-2ct-oval-engagement-ring?variant=42960919396417)
+    Availability: Available
+    Price: €849.00 EUR
+  - [Moissanite / 9K White Gold / 6.5](https://www.chantalvaulet.com/products/the-elaris-2ct-oval-engagement-ring?variant=42960919429185)
+    Availability: Available
+    Price: €849.00 EUR
+  - [Moissanite / 9K White Gold / 7](https://www.chantalvaulet.com/products/the-elaris-2ct-oval-engagement-ring?variant=42960919461953)
+    Availability: Available
+    Price: €849.00 EUR
+  - [Moissanite / 9K White Gold / 7.25](https://www.chantalvaulet.com/products/the-elaris-2ct-oval-engagement-ring?variant=42960919494721)
+    Availability: Available
+    Price: €849.00 EUR
+  - [Moissanite / 9K White Gold / 7.75](https://www.chantalvaulet.com/products/the-elaris-2ct-oval-engagement-ring?variant=42960919527489)
+    Availability: Available
+    Price: €849.00 EUR
+  - [Moissanite / 9K White Gold / 8](https://www.chantalvaulet.com/products/the-elaris-2ct-oval-engagement-ring?variant=42960919560257)
+    Availability: Available
+    Price: €849.00 EUR
+  - [Moissanite / 9K White Gold / 8½](https://www.chantalvaulet.com/products/the-elaris-2ct-oval-engagement-ring?variant=42960919593025)
+    Availability: Available
+    Price: €849.00 EUR
+  - [Moissanite / 9K White Gold / 8.75](https://www.chantalvaulet.com/products/the-elaris-2ct-oval-engagement-ring?variant=42960919625793)
+    Availability: Available
+    Price: €849.00 EUR
+  - [Moissanite / 9K White Gold / 9](https://www.chantalvaulet.com/products/the-elaris-2ct-oval-engagement-ring?variant=42960919658561)
+    Availability: Available
+    Price: €849.00 EUR
+  - [Moissanite / 14K White Gold / 5](https://www.chantalvaulet.com/products/the-elaris-2ct-oval-engagement-ring?variant=42960919691329)
+    Availability: Available
+    Price: €1,159.00 EUR
+  - [Moissanite / 14K White Gold / 5.25](https://www.chantalvaulet.com/products/the-elaris-2ct-oval-engagement-ring?variant=42960919724097)
+    Availability: Available
+    Price: €1,159.00 EUR
+  - [Moissanite / 14K White Gold / 5.75](https://www.chantalvaulet.com/products/the-elaris-2ct-oval-engagement-ring?variant=42960919756865)
+    Availability: Available
+    Price: €1,159.00 EUR
+  - [Moissanite / 14K White Gold / 6](https://www.chantalvaulet.com/products/the-elaris-2ct-oval-engagement-ring?variant=42960919789633)
+    Availability: Available
+    Price: €1,159.00 EUR
+  - [Moissanite / 14K White Gold / 6.5](https://www.chantalvaulet.com/products/the-elaris-2ct-oval-engagement-ring?variant=42960919822401)
+    Availability: Available
+    Price: €1,159.00 EUR
+  - [Moissanite / 14K White Gold / 7](https://www.chantalvaulet.com/products/the-elaris-2ct-oval-engagement-ring?variant=42960919855169)
+    Availability: Available
+    Price: €1,159.00 EUR
+  - [Moissanite / 14K White Gold / 7.25](https://www.chantalvaulet.com/products/the-elaris-2ct-oval-engagement-ring?variant=42960919887937)
+    Availability: Available
+    Price: €1,159.00 EUR
+  - [Moissanite / 14K White Gold / 7.75](https://www.chantalvaulet.com/products/the-elaris-2ct-oval-engagement-ring?variant=42960919920705)
+    Availability: Available
+    Price: €1,159.00 EUR
+  - [Moissanite / 14K White Gold / 8](https://www.chantalvaulet.com/products/the-elaris-2ct-oval-engagement-ring?variant=42960919953473)
+    Availability: Available
+    Price: €1,159.00 EUR
+  - [Moissanite / 14K White Gold / 8½](https://www.chantalvaulet.com/products/the-elaris-2ct-oval-engagement-ring?variant=42960919986241)
+    Availability: Available
+    Price: €1,159.00 EUR
+  - [Moissanite / 14K White Gold / 8.75](https://www.chantalvaulet.com/products/the-elaris-2ct-oval-engagement-ring?variant=42960920019009)
+    Availability: Available
+    Price: €1,159.00 EUR
+  - [Moissanite / 14K White Gold / 9](https://www.chantalvaulet.com/products/the-elaris-2ct-oval-engagement-ring?variant=42960920051777)
+    Availability: Available
+    Price: €1,159.00 EUR
+  - [Moissanite / 18K White Gold / 5](https://www.chantalvaulet.com/products/the-elaris-2ct-oval-engagement-ring?variant=42960920084545)
+    Availability: Available
+    Price: €1,495.00 EUR
+  - [Moissanite / 18K White Gold / 5.25](https://www.chantalvaulet.com/products/the-elaris-2ct-oval-engagement-ring?variant=42960920117313)
+    Availability: Available
+    Price: €1,495.00 EUR
+  - [Moissanite / 18K White Gold / 5.75](https://www.chantalvaulet.com/products/the-elaris-2ct-oval-engagement-ring?variant=42960920150081)
+    Availability: Available
+    Price: €1,495.00 EUR
+  - [Moissanite / 18K White Gold / 6](https://www.chantalvaulet.com/products/the-elaris-2ct-oval-engagement-ring?variant=42960920182849)
+    Availability: Available
+    Price: €1,495.00 EUR
+  - [Moissanite / 18K White Gold / 6.5](https://www.chantalvaulet.com/products/the-elaris-2ct-oval-engagement-ring?variant=42960920215617)
+    Availability: Available
+    Price: €1,495.00 EUR
+  - [Moissanite / 18K White Gold / 7](https://www.chantalvaulet.com/products/the-elaris-2ct-oval-engagement-ring?variant=42960920248385)
+    Availability: Available
+    Price: €1,495.00 EUR
+  - [Moissanite / 18K White Gold / 7.25](https://www.chantalvaulet.com/products/the-elaris-2ct-oval-engagement-ring?variant=42960920281153)
+    Availability: Available
+    Price: €1,495.00 EUR
+  - [Moissanite / 18K White Gold / 7.75](https://www.chantalvaulet.com/products/the-elaris-2ct-oval-engagement-ring?variant=42960920313921)
+    Availability: Available
+    Price: €1,495.00 EUR
+  - [Moissanite / 18K White Gold / 8](https://www.chantalvaulet.com/products/the-elaris-2ct-oval-engagement-ring?variant=42960920346689)
+    Availability: Available
+    Price: €1,495.00 EUR
+  - [Moissanite / 18K White Gold / 8½](https://www.chantalvaulet.com/products/the-elaris-2ct-oval-engagement-ring?variant=42960920379457)
+    Availability: Available
+    Price: €1,495.00 EUR
+  - [Moissanite / 18K White Gold / 8.75](https://www.chantalvaulet.com/products/the-elaris-2ct-oval-engagement-ring?variant=42960920412225)
+    Availability: Available
+    Price: €1,495.00 EUR
+  - [Moissanite / 18K White Gold / 9](https://www.chantalvaulet.com/products/the-elaris-2ct-oval-engagement-ring?variant=42960920444993)
+    Availability: Available
+    Price: €1,495.00 EUR
+  - [Lab Diamond / 9K White Gold / 5](https://www.chantalvaulet.com/products/the-elaris-2ct-oval-engagement-ring?variant=42960920477761)
+    Availability: Available
+    Price: €1,295.00 EUR
+  - [Lab Diamond / 9K White Gold / 5.25](https://www.chantalvaulet.com/products/the-elaris-2ct-oval-engagement-ring?variant=42960920510529)
+    Availability: Available
+    Price: €1,295.00 EUR
+  - [Lab Diamond / 9K White Gold / 5.75](https://www.chantalvaulet.com/products/the-elaris-2ct-oval-engagement-ring?variant=42960920543297)
+    Availability: Available
+    Price: €1,295.00 EUR
+  - [Lab Diamond / 9K White Gold / 6](https://www.chantalvaulet.com/products/the-elaris-2ct-oval-engagement-ring?variant=42960920576065)
+    Availability: Available
+    Price: €1,695.00 EUR
+  - [Lab Diamond / 9K White Gold / 6.5](https://www.chantalvaulet.com/products/the-elaris-2ct-oval-engagement-ring?variant=42960920608833)
+    Availability: Available
+    Price: €1,695.00 EUR
+  - [Lab Diamond / 9K White Gold / 7](https://www.chantalvaulet.com/products/the-elaris-2ct-oval-engagement-ring?variant=42960920641601)
+    Availability: Available
+    Price: €1,695.00 EUR
+  - [Lab Diamond / 9K White Gold / 7.25](https://www.chantalvaulet.com/products/the-elaris-2ct-oval-engagement-ring?variant=42960920674369)
+    Availability: Available
+    Price: €1,695.00 EUR
+  - [Lab Diamond / 9K White Gold / 7.75](https://www.chantalvaulet.com/products/the-elaris-2ct-oval-engagement-ring?variant=42960920707137)
+    Availability: Available
+    Price: €1,695.00 EUR
+  - [Lab Diamond / 9K White Gold / 8](https://www.chantalvaulet.com/products/the-elaris-2ct-oval-engagement-ring?variant=42960920739905)
+    Availability: Available
+    Price: €1,695.00 EUR
+  - [Lab Diamond / 9K White Gold / 8½](https://www.chantalvaulet.com/products/the-elaris-2ct-oval-engagement-ring?variant=42960920772673)
+    Availability: Available
+    Price: €1,695.00 EUR
+  - [Lab Diamond / 9K White Gold / 8.75](https://www.chantalvaulet.com/products/the-elaris-2ct-oval-engagement-ring?variant=42960920805441)
+    Availability: Available
+    Price: €1,695.00 EUR
+  - [Lab Diamond / 9K White Gold / 9](https://www.chantalvaulet.com/products/the-elaris-2ct-oval-engagement-ring?variant=42960920838209)
+    Availability: Available
+    Price: €1,695.00 EUR
+  - [Lab Diamond / 14K White Gold / 5](https://www.chantalvaulet.com/products/the-elaris-2ct-oval-engagement-ring?variant=42960920870977)
+    Availability: Available
+    Price: €1,895.00 EUR
+  - [Lab Diamond / 14K White Gold / 5.25](https://www.chantalvaulet.com/products/the-elaris-2ct-oval-engagement-ring?variant=42960920903745)
+    Availability: Available
+    Price: €1,895.00 EUR
+- [The Aerelith 1.5CT Round-Cut Moissanite or Lab Diamond Ring](https://www.chantalvaulet.com/products/the-aerelith-1-5ct-three-stone-engagement-ring): The Aerelith Ring features a certified 1.5CT round center stone flanked by tapered baguette side stones. Available in 9K, 14K, or 18K gold with moissanite or IGI-certified lab diamond.
+  Updated: 2025-10-19T15:30:56Z
+  Vendor: Chantal Vaulet
+  Product Type: RING
+  Availability: Available
+  - [Moissanite / 9K Yellow Gold / 5](https://www.chantalvaulet.com/products/the-aerelith-1-5ct-three-stone-engagement-ring?variant=42961050337345)
+    Availability: Available
+    Price: €779.00 EUR
+  - [Moissanite / 9K Yellow Gold / 5.25](https://www.chantalvaulet.com/products/the-aerelith-1-5ct-three-stone-engagement-ring?variant=42961050370113)
+    Availability: Available
+    Price: €779.00 EUR
+  - [Moissanite / 9K Yellow Gold / 5.75](https://www.chantalvaulet.com/products/the-aerelith-1-5ct-three-stone-engagement-ring?variant=42961050402881)
+    Availability: Available
+    Price: €779.00 EUR
+  - [Moissanite / 9K Yellow Gold / 6](https://www.chantalvaulet.com/products/the-aerelith-1-5ct-three-stone-engagement-ring?variant=42961050435649)
+    Availability: Available
+    Price: €779.00 EUR
+  - [Moissanite / 9K Yellow Gold / 6.5](https://www.chantalvaulet.com/products/the-aerelith-1-5ct-three-stone-engagement-ring?variant=42961050468417)
+    Availability: Available
+    Price: €779.00 EUR
+  - [Moissanite / 9K Yellow Gold / 7](https://www.chantalvaulet.com/products/the-aerelith-1-5ct-three-stone-engagement-ring?variant=42961050501185)
+    Availability: Available
+    Price: €779.00 EUR
+  - [Moissanite / 9K Yellow Gold / 7.25](https://www.chantalvaulet.com/products/the-aerelith-1-5ct-three-stone-engagement-ring?variant=42961050533953)
+    Availability: Available
+    Price: €779.00 EUR
+  - [Moissanite / 9K Yellow Gold / 7.75](https://www.chantalvaulet.com/products/the-aerelith-1-5ct-three-stone-engagement-ring?variant=42961050566721)
+    Availability: Available
+    Price: €779.00 EUR
+  - [Moissanite / 9K Yellow Gold / 8](https://www.chantalvaulet.com/products/the-aerelith-1-5ct-three-stone-engagement-ring?variant=42961050599489)
+    Availability: Available
+    Price: €779.00 EUR
+  - [Moissanite / 9K Yellow Gold / 8½](https://www.chantalvaulet.com/products/the-aerelith-1-5ct-three-stone-engagement-ring?variant=42961050632257)
+    Availability: Available
+    Price: €779.00 EUR
+  - [Moissanite / 9K Yellow Gold / 9](https://www.chantalvaulet.com/products/the-aerelith-1-5ct-three-stone-engagement-ring?variant=42961050665025)
+    Availability: Available
+    Price: €779.00 EUR
+  - [Moissanite / 14K Yellow Gold / 5](https://www.chantalvaulet.com/products/the-aerelith-1-5ct-three-stone-engagement-ring?variant=42961050697793)
+    Availability: Available
+    Price: €1,095.00 EUR
+  - [Moissanite / 14K Yellow Gold / 5.25](https://www.chantalvaulet.com/products/the-aerelith-1-5ct-three-stone-engagement-ring?variant=42961050730561)
+    Availability: Available
+    Price: €1,095.00 EUR
+  - [Moissanite / 14K Yellow Gold / 5.75](https://www.chantalvaulet.com/products/the-aerelith-1-5ct-three-stone-engagement-ring?variant=42961050763329)
+    Availability: Available
+    Price: €1,095.00 EUR
+  - [Moissanite / 14K Yellow Gold / 6](https://www.chantalvaulet.com/products/the-aerelith-1-5ct-three-stone-engagement-ring?variant=42961050796097)
+    Availability: Available
+    Price: €1,095.00 EUR
+  - [Moissanite / 14K Yellow Gold / 6.5](https://www.chantalvaulet.com/products/the-aerelith-1-5ct-three-stone-engagement-ring?variant=42961050828865)
+    Availability: Available
+    Price: €1,095.00 EUR
+  - [Moissanite / 14K Yellow Gold / 7](https://www.chantalvaulet.com/products/the-aerelith-1-5ct-three-stone-engagement-ring?variant=42961050861633)
+    Availability: Available
+    Price: €1,095.00 EUR
+  - [Moissanite / 14K Yellow Gold / 7.25](https://www.chantalvaulet.com/products/the-aerelith-1-5ct-three-stone-engagement-ring?variant=42961050894401)
+    Availability: Available
+    Price: €1,095.00 EUR
+  - [Moissanite / 14K Yellow Gold / 7.75](https://www.chantalvaulet.com/products/the-aerelith-1-5ct-three-stone-engagement-ring?variant=42961050927169)
+    Availability: Available
+    Price: €1,095.00 EUR
+  - [Moissanite / 14K Yellow Gold / 8](https://www.chantalvaulet.com/products/the-aerelith-1-5ct-three-stone-engagement-ring?variant=42961050959937)
+    Availability: Available
+    Price: €1,095.00 EUR
+  - [Moissanite / 14K Yellow Gold / 8½](https://www.chantalvaulet.com/products/the-aerelith-1-5ct-three-stone-engagement-ring?variant=42961050992705)
+    Availability: Available
+    Price: €1,095.00 EUR
+  - [Moissanite / 14K Yellow Gold / 9](https://www.chantalvaulet.com/products/the-aerelith-1-5ct-three-stone-engagement-ring?variant=42961051025473)
+    Availability: Available
+    Price: €1,095.00 EUR
+  - [Moissanite / 18K Yellow Gold / 5](https://www.chantalvaulet.com/products/the-aerelith-1-5ct-three-stone-engagement-ring?variant=42961051058241)
+    Availability: Available
+    Price: €1,425.00 EUR
+  - [Moissanite / 18K Yellow Gold / 5.25](https://www.chantalvaulet.com/products/the-aerelith-1-5ct-three-stone-engagement-ring?variant=42961051091009)
+    Availability: Available
+    Price: €1,425.00 EUR
+  - [Moissanite / 18K Yellow Gold / 5.75](https://www.chantalvaulet.com/products/the-aerelith-1-5ct-three-stone-engagement-ring?variant=42961051123777)
+    Availability: Available
+    Price: €1,425.00 EUR
+  - [Moissanite / 18K Yellow Gold / 6](https://www.chantalvaulet.com/products/the-aerelith-1-5ct-three-stone-engagement-ring?variant=42961051156545)
+    Availability: Available
+    Price: €1,425.00 EUR
+  - [Moissanite / 18K Yellow Gold / 6.5](https://www.chantalvaulet.com/products/the-aerelith-1-5ct-three-stone-engagement-ring?variant=42961051189313)
+    Availability: Available
+    Price: €1,425.00 EUR
+  - [Moissanite / 18K Yellow Gold / 7](https://www.chantalvaulet.com/products/the-aerelith-1-5ct-three-stone-engagement-ring?variant=42961051222081)
+    Availability: Available
+    Price: €1,425.00 EUR
+  - [Moissanite / 18K Yellow Gold / 7.25](https://www.chantalvaulet.com/products/the-aerelith-1-5ct-three-stone-engagement-ring?variant=42961051254849)
+    Availability: Available
+    Price: €1,425.00 EUR
+  - [Moissanite / 18K Yellow Gold / 7.75](https://www.chantalvaulet.com/products/the-aerelith-1-5ct-three-stone-engagement-ring?variant=42961051287617)
+    Availability: Available
+    Price: €1,425.00 EUR
+  - [Moissanite / 18K Yellow Gold / 8](https://www.chantalvaulet.com/products/the-aerelith-1-5ct-three-stone-engagement-ring?variant=42961051320385)
+    Availability: Available
+    Price: €1,425.00 EUR
+  - [Moissanite / 18K Yellow Gold / 8½](https://www.chantalvaulet.com/products/the-aerelith-1-5ct-three-stone-engagement-ring?variant=42961051353153)
+    Availability: Available
+    Price: €1,425.00 EUR
+  - [Moissanite / 18K Yellow Gold / 9](https://www.chantalvaulet.com/products/the-aerelith-1-5ct-three-stone-engagement-ring?variant=42961051385921)
+    Availability: Available
+    Price: €1,425.00 EUR
+  - [Lab-Diamond / 9K Yellow Gold / 5](https://www.chantalvaulet.com/products/the-aerelith-1-5ct-three-stone-engagement-ring?variant=42961051418689)
+    Availability: Available
+    Price: €1,590.00 EUR
+  - [Lab-Diamond / 9K Yellow Gold / 5.25](https://www.chantalvaulet.com/products/the-aerelith-1-5ct-three-stone-engagement-ring?variant=42961051451457)
+    Availability: Available
+    Price: €1,590.00 EUR
+  - [Lab-Diamond / 9K Yellow Gold / 5.75](https://www.chantalvaulet.com/products/the-aerelith-1-5ct-three-stone-engagement-ring?variant=42961051484225)
+    Availability: Available
+    Price: €1,590.00 EUR
+  - [Lab-Diamond / 9K Yellow Gold / 6](https://www.chantalvaulet.com/products/the-aerelith-1-5ct-three-stone-engagement-ring?variant=42961051516993)
+    Availability: Available
+    Price: €1,590.00 EUR
+  - [Lab-Diamond / 9K Yellow Gold / 6.5](https://www.chantalvaulet.com/products/the-aerelith-1-5ct-three-stone-engagement-ring?variant=42961051549761)
+    Availability: Available
+    Price: €1,590.00 EUR
+  - [Lab-Diamond / 9K Yellow Gold / 7](https://www.chantalvaulet.com/products/the-aerelith-1-5ct-three-stone-engagement-ring?variant=42961051582529)
+    Availability: Available
+    Price: €1,590.00 EUR
+  - [Lab-Diamond / 9K Yellow Gold / 7.25](https://www.chantalvaulet.com/products/the-aerelith-1-5ct-three-stone-engagement-ring?variant=42961051615297)
+    Availability: Available
+    Price: €1,590.00 EUR
+  - [Lab-Diamond / 9K Yellow Gold / 7.75](https://www.chantalvaulet.com/products/the-aerelith-1-5ct-three-stone-engagement-ring?variant=42961051648065)
+    Availability: Available
+    Price: €1,590.00 EUR
+  - [Lab-Diamond / 9K Yellow Gold / 8](https://www.chantalvaulet.com/products/the-aerelith-1-5ct-three-stone-engagement-ring?variant=42961051680833)
+    Availability: Available
+    Price: €1,590.00 EUR
+  - [Lab-Diamond / 9K Yellow Gold / 8½](https://www.chantalvaulet.com/products/the-aerelith-1-5ct-three-stone-engagement-ring?variant=42961051713601)
+    Availability: Available
+    Price: €1,590.00 EUR
+  - [Lab-Diamond / 9K Yellow Gold / 9](https://www.chantalvaulet.com/products/the-aerelith-1-5ct-three-stone-engagement-ring?variant=42961051746369)
+    Availability: Available
+    Price: €1,590.00 EUR
+  - [Lab-Diamond / 14K Yellow Gold / 5](https://www.chantalvaulet.com/products/the-aerelith-1-5ct-three-stone-engagement-ring?variant=42961051779137)
+    Availability: Available
+    Price: €1,850.00 EUR
+  - [Lab-Diamond / 14K Yellow Gold / 5.25](https://www.chantalvaulet.com/products/the-aerelith-1-5ct-three-stone-engagement-ring?variant=42961051811905)
+    Availability: Available
+    Price: €1,850.00 EUR
+  - [Lab-Diamond / 14K Yellow Gold / 5.75](https://www.chantalvaulet.com/products/the-aerelith-1-5ct-three-stone-engagement-ring?variant=42961051844673)
+    Availability: Available
+    Price: €1,850.00 EUR
+  - [Lab-Diamond / 14K Yellow Gold / 6](https://www.chantalvaulet.com/products/the-aerelith-1-5ct-three-stone-engagement-ring?variant=42961051877441)
+    Availability: Available
+    Price: €1,850.00 EUR
+  - [Lab-Diamond / 14K Yellow Gold / 6.5](https://www.chantalvaulet.com/products/the-aerelith-1-5ct-three-stone-engagement-ring?variant=42961051910209)
+    Availability: Available
+    Price: €1,850.00 EUR
+  - [Lab-Diamond / 14K Yellow Gold / 7](https://www.chantalvaulet.com/products/the-aerelith-1-5ct-three-stone-engagement-ring?variant=42961051942977)
+    Availability: Available
+    Price: €1,850.00 EUR
+- [The Thaliora 1.5CT Marquise-Cut Moissanite or Lab Diamond Ring](https://www.chantalvaulet.com/products/the-thaliora-1-5ct-marquise-cluster-engagement-ring): The Thaliora Ring features a 1.5CT marquise-cut center stone with clustered round accents. Certified moissanite or IGI lab diamond, available in 9K, 14K, or 18K gold.
+  Updated: 2025-10-19T15:56:30Z
+  Vendor: Chantal Vaulet
+  Product Type: RING
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/the-thaliora-1-5ct-marquise-cluster-engagement-ring_by_Chantal_Vaulet_12d2b94c-2373-42ff-971e-a621f2d43de5.webp?v=1760888871
+  - [Moissanite / 9K Yellow Gold / 5](https://www.chantalvaulet.com/products/the-thaliora-1-5ct-marquise-cluster-engagement-ring?variant=42961070686273)
+    Availability: Available
+    Price: €785.00 EUR
+  - [Moissanite / 9K Yellow Gold / 5.25](https://www.chantalvaulet.com/products/the-thaliora-1-5ct-marquise-cluster-engagement-ring?variant=42961070719041)
+    Availability: Available
+    Price: €785.00 EUR
+  - [Moissanite / 9K Yellow Gold / 5.75](https://www.chantalvaulet.com/products/the-thaliora-1-5ct-marquise-cluster-engagement-ring?variant=42961070751809)
+    Availability: Available
+    Price: €785.00 EUR
+  - [Moissanite / 9K Yellow Gold / 6](https://www.chantalvaulet.com/products/the-thaliora-1-5ct-marquise-cluster-engagement-ring?variant=42961070784577)
+    Availability: Available
+    Price: €785.00 EUR
+  - [Moissanite / 9K Yellow Gold / 6.5](https://www.chantalvaulet.com/products/the-thaliora-1-5ct-marquise-cluster-engagement-ring?variant=42961070817345)
+    Availability: Available
+    Price: €785.00 EUR
+  - [Moissanite / 9K Yellow Gold / 7](https://www.chantalvaulet.com/products/the-thaliora-1-5ct-marquise-cluster-engagement-ring?variant=42961070850113)
+    Availability: Available
+    Price: €785.00 EUR
+  - [Moissanite / 9K Yellow Gold / 7.25](https://www.chantalvaulet.com/products/the-thaliora-1-5ct-marquise-cluster-engagement-ring?variant=42961070882881)
+    Availability: Available
+    Price: €785.00 EUR
+  - [Moissanite / 9K Yellow Gold / 7.75](https://www.chantalvaulet.com/products/the-thaliora-1-5ct-marquise-cluster-engagement-ring?variant=42961070915649)
+    Availability: Available
+    Price: €785.00 EUR
+  - [Moissanite / 9K Yellow Gold / 8](https://www.chantalvaulet.com/products/the-thaliora-1-5ct-marquise-cluster-engagement-ring?variant=42961070948417)
+    Availability: Available
+    Price: €785.00 EUR
+  - [Moissanite / 9K Yellow Gold / 8½](https://www.chantalvaulet.com/products/the-thaliora-1-5ct-marquise-cluster-engagement-ring?variant=42961070981185)
+    Availability: Available
+    Price: €785.00 EUR
+  - [Moissanite / 9K Yellow Gold / 9](https://www.chantalvaulet.com/products/the-thaliora-1-5ct-marquise-cluster-engagement-ring?variant=42961071013953)
+    Availability: Available
+    Price: €785.00 EUR
+  - [Moissanite / 14K Yellow Gold / 5](https://www.chantalvaulet.com/products/the-thaliora-1-5ct-marquise-cluster-engagement-ring?variant=42961071046721)
+    Availability: Available
+    Price: €1,095.00 EUR
+  - [Moissanite / 14K Yellow Gold / 5.25](https://www.chantalvaulet.com/products/the-thaliora-1-5ct-marquise-cluster-engagement-ring?variant=42961071079489)
+    Availability: Available
+    Price: €1,095.00 EUR
+  - [Moissanite / 14K Yellow Gold / 5.75](https://www.chantalvaulet.com/products/the-thaliora-1-5ct-marquise-cluster-engagement-ring?variant=42961071112257)
+    Availability: Available
+    Price: €1,095.00 EUR
+  - [Moissanite / 14K Yellow Gold / 6](https://www.chantalvaulet.com/products/the-thaliora-1-5ct-marquise-cluster-engagement-ring?variant=42961071145025)
+    Availability: Available
+    Price: €1,095.00 EUR
+  - [Moissanite / 14K Yellow Gold / 6.5](https://www.chantalvaulet.com/products/the-thaliora-1-5ct-marquise-cluster-engagement-ring?variant=42961071177793)
+    Availability: Available
+    Price: €1,095.00 EUR
+  - [Moissanite / 14K Yellow Gold / 7](https://www.chantalvaulet.com/products/the-thaliora-1-5ct-marquise-cluster-engagement-ring?variant=42961071210561)
+    Availability: Available
+    Price: €1,095.00 EUR
+  - [Moissanite / 14K Yellow Gold / 7.25](https://www.chantalvaulet.com/products/the-thaliora-1-5ct-marquise-cluster-engagement-ring?variant=42961071243329)
+    Availability: Available
+    Price: €1,095.00 EUR
+  - [Moissanite / 14K Yellow Gold / 7.75](https://www.chantalvaulet.com/products/the-thaliora-1-5ct-marquise-cluster-engagement-ring?variant=42961071276097)
+    Availability: Available
+    Price: €1,095.00 EUR
+  - [Moissanite / 14K Yellow Gold / 8](https://www.chantalvaulet.com/products/the-thaliora-1-5ct-marquise-cluster-engagement-ring?variant=42961071308865)
+    Availability: Available
+    Price: €1,095.00 EUR
+  - [Moissanite / 14K Yellow Gold / 8½](https://www.chantalvaulet.com/products/the-thaliora-1-5ct-marquise-cluster-engagement-ring?variant=42961071341633)
+    Availability: Available
+    Price: €1,095.00 EUR
+  - [Moissanite / 14K Yellow Gold / 9](https://www.chantalvaulet.com/products/the-thaliora-1-5ct-marquise-cluster-engagement-ring?variant=42961071374401)
+    Availability: Available
+    Price: €1,095.00 EUR
+  - [Moissanite / 18K Yellow Gold / 5](https://www.chantalvaulet.com/products/the-thaliora-1-5ct-marquise-cluster-engagement-ring?variant=42961071407169)
+    Availability: Available
+    Price: €1,425.00 EUR
+  - [Moissanite / 18K Yellow Gold / 5.25](https://www.chantalvaulet.com/products/the-thaliora-1-5ct-marquise-cluster-engagement-ring?variant=42961071439937)
+    Availability: Available
+    Price: €1,425.00 EUR
+  - [Moissanite / 18K Yellow Gold / 5.75](https://www.chantalvaulet.com/products/the-thaliora-1-5ct-marquise-cluster-engagement-ring?variant=42961071472705)
+    Availability: Available
+    Price: €1,425.00 EUR
+  - [Moissanite / 18K Yellow Gold / 6](https://www.chantalvaulet.com/products/the-thaliora-1-5ct-marquise-cluster-engagement-ring?variant=42961071505473)
+    Availability: Available
+    Price: €1,425.00 EUR
+  - [Moissanite / 18K Yellow Gold / 6.5](https://www.chantalvaulet.com/products/the-thaliora-1-5ct-marquise-cluster-engagement-ring?variant=42961071538241)
+    Availability: Available
+    Price: €1,425.00 EUR
+  - [Moissanite / 18K Yellow Gold / 7](https://www.chantalvaulet.com/products/the-thaliora-1-5ct-marquise-cluster-engagement-ring?variant=42961071571009)
+    Availability: Available
+    Price: €1,425.00 EUR
+  - [Moissanite / 18K Yellow Gold / 7.25](https://www.chantalvaulet.com/products/the-thaliora-1-5ct-marquise-cluster-engagement-ring?variant=42961071603777)
+    Availability: Available
+    Price: €1,425.00 EUR
+  - [Moissanite / 18K Yellow Gold / 7.75](https://www.chantalvaulet.com/products/the-thaliora-1-5ct-marquise-cluster-engagement-ring?variant=42961071636545)
+    Availability: Available
+    Price: €1,425.00 EUR
+  - [Moissanite / 18K Yellow Gold / 8](https://www.chantalvaulet.com/products/the-thaliora-1-5ct-marquise-cluster-engagement-ring?variant=42961071669313)
+    Availability: Available
+    Price: €1,425.00 EUR
+  - [Moissanite / 18K Yellow Gold / 8½](https://www.chantalvaulet.com/products/the-thaliora-1-5ct-marquise-cluster-engagement-ring?variant=42961071702081)
+    Availability: Available
+    Price: €1,425.00 EUR
+  - [Moissanite / 18K Yellow Gold / 9](https://www.chantalvaulet.com/products/the-thaliora-1-5ct-marquise-cluster-engagement-ring?variant=42961071734849)
+    Availability: Available
+    Price: €1,425.00 EUR
+  - [Lab-Diamond / 9K Yellow Gold / 5](https://www.chantalvaulet.com/products/the-thaliora-1-5ct-marquise-cluster-engagement-ring?variant=42961071767617)
+    Availability: Available
+    Price: €1,590.00 EUR
+  - [Lab-Diamond / 9K Yellow Gold / 5.25](https://www.chantalvaulet.com/products/the-thaliora-1-5ct-marquise-cluster-engagement-ring?variant=42961071800385)
+    Availability: Available
+    Price: €1,590.00 EUR
+  - [Lab-Diamond / 9K Yellow Gold / 5.75](https://www.chantalvaulet.com/products/the-thaliora-1-5ct-marquise-cluster-engagement-ring?variant=42961071833153)
+    Availability: Available
+    Price: €1,590.00 EUR
+  - [Lab-Diamond / 9K Yellow Gold / 6](https://www.chantalvaulet.com/products/the-thaliora-1-5ct-marquise-cluster-engagement-ring?variant=42961071865921)
+    Availability: Available
+    Price: €1,590.00 EUR
+  - [Lab-Diamond / 9K Yellow Gold / 6.5](https://www.chantalvaulet.com/products/the-thaliora-1-5ct-marquise-cluster-engagement-ring?variant=42961071898689)
+    Availability: Available
+    Price: €1,590.00 EUR
+  - [Lab-Diamond / 9K Yellow Gold / 7](https://www.chantalvaulet.com/products/the-thaliora-1-5ct-marquise-cluster-engagement-ring?variant=42961071931457)
+    Availability: Available
+    Price: €1,590.00 EUR
+  - [Lab-Diamond / 9K Yellow Gold / 7.25](https://www.chantalvaulet.com/products/the-thaliora-1-5ct-marquise-cluster-engagement-ring?variant=42961071964225)
+    Availability: Available
+    Price: €1,590.00 EUR
+  - [Lab-Diamond / 9K Yellow Gold / 7.75](https://www.chantalvaulet.com/products/the-thaliora-1-5ct-marquise-cluster-engagement-ring?variant=42961071996993)
+    Availability: Available
+    Price: €1,590.00 EUR
+  - [Lab-Diamond / 9K Yellow Gold / 8](https://www.chantalvaulet.com/products/the-thaliora-1-5ct-marquise-cluster-engagement-ring?variant=42961072029761)
+    Availability: Available
+    Price: €1,590.00 EUR
+  - [Lab-Diamond / 9K Yellow Gold / 8½](https://www.chantalvaulet.com/products/the-thaliora-1-5ct-marquise-cluster-engagement-ring?variant=42961072062529)
+    Availability: Available
+    Price: €1,590.00 EUR
+  - [Lab-Diamond / 9K Yellow Gold / 9](https://www.chantalvaulet.com/products/the-thaliora-1-5ct-marquise-cluster-engagement-ring?variant=42961072095297)
+    Availability: Available
+    Price: €1,590.00 EUR
+  - [Lab-Diamond / 14K Yellow Gold / 5](https://www.chantalvaulet.com/products/the-thaliora-1-5ct-marquise-cluster-engagement-ring?variant=42961072128065)
+    Availability: Available
+    Price: €1,850.00 EUR
+  - [Lab-Diamond / 14K Yellow Gold / 5.25](https://www.chantalvaulet.com/products/the-thaliora-1-5ct-marquise-cluster-engagement-ring?variant=42961072160833)
+    Availability: Available
+    Price: €1,850.00 EUR
+  - [Lab-Diamond / 14K Yellow Gold / 5.75](https://www.chantalvaulet.com/products/the-thaliora-1-5ct-marquise-cluster-engagement-ring?variant=42961072193601)
+    Availability: Available
+    Price: €1,850.00 EUR
+  - [Lab-Diamond / 14K Yellow Gold / 6](https://www.chantalvaulet.com/products/the-thaliora-1-5ct-marquise-cluster-engagement-ring?variant=42961072226369)
+    Availability: Available
+    Price: €1,850.00 EUR
+  - [Lab-Diamond / 14K Yellow Gold / 6.5](https://www.chantalvaulet.com/products/the-thaliora-1-5ct-marquise-cluster-engagement-ring?variant=42961072259137)
+    Availability: Available
+    Price: €1,850.00 EUR
+  - [Lab-Diamond / 14K Yellow Gold / 7](https://www.chantalvaulet.com/products/the-thaliora-1-5ct-marquise-cluster-engagement-ring?variant=42961072291905)
+    Availability: Available
+    Price: €1,850.00 EUR
 
 ## Collections
 
 - [✨ Sale on Moissanite Jewelry: Silver & Gold Deals! 💍](https://www.chantalvaulet.com/collections/sale): Shop our exclusive sale on stunning moissanite jewelry in silver & gold! Don't miss out on these sparkling deals! ✨💖
-  Updated: 2025-10-19T10:31:40Z
+  Updated: 2025-10-19T14:57:06Z
   Total Products: 22
 - [Elegant Rings Collection - Perfect for Every Occasion](https://www.chantalvaulet.com/collections/rings): Discover our stunning collection of rings, designed to elevate your style for any occasion. Shop now for timeless elegance!
-  Updated: 2025-10-19T10:31:40Z
-  Total Products: 138
+  Updated: 2025-10-19T15:43:52Z
+  Total Products: 140
 - [Stunning Earrings Collection 💎✨](https://www.chantalvaulet.com/collections/earrings): Explore our exquisite earrings collection featuring Moissanite, Gold, & Diamonds. Shine bright with every look! 💖🌟
   Updated: 2025-10-10T18:40:55Z
   Total Products: 22
@@ -11957,8 +12424,8 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
   Updated: 2025-09-28T19:28:43Z
   Total Products: 11
 - [Best Sellers Collection - Top Rated Products](https://www.chantalvaulet.com/collections/best-sellers): Explore our Best Sellers Collection featuring top-rated products that customers love! Discover what’s trending and shop now.
-  Updated: 2025-10-19T10:31:40Z
-  Total Products: 208
+  Updated: 2025-10-19T15:43:52Z
+  Total Products: 210
 - [925 Sterling Silver Collection](https://www.chantalvaulet.com/collections/silver-925): Explore our exquisite 925 sterling silver jewelry collection, featuring timeless designs.
   Updated: 2025-10-16T11:11:15Z
   Total Products: 186
@@ -11969,14 +12436,14 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
   Updated: 2025-10-11T08:07:27Z
   Total Products: 6
 - [Explore All Products: Jewelry, Moissanite, Diamonds ✨💎](https://www.chantalvaulet.com/collections/all-products): Shop our stunning selection of all products, including moissanite, diamonds, and gold jewelry! 💖
-  Updated: 2025-10-19T10:31:40Z
-  Total Products: 208
+  Updated: 2025-10-19T15:43:52Z
+  Total Products: 210
 - [Lab-Grown Diamond Engagement Rings | Chantal Vaulet](https://www.chantalvaulet.com/collections/lab-grown-engagement-rings): Shop lab-grown diamond engagement rings—ethical, brilliant, and responsibly priced. Styles: solitaire, halo, oval, pear, emerald & more. Free delivery
-  Updated: 2025-10-19T10:31:40Z
-  Total Products: 15
+  Updated: 2025-10-19T15:43:52Z
+  Total Products: 17
 - [Moissanite Engagement Rings](https://www.chantalvaulet.com/collections/moissanite-engagement-rings): Explore moissanite engagement rings—solitaire, halo & pavé. White, yellow or rose gold. Custom sizes, free shipping, lifetime care.
-  Updated: 2025-10-19T10:31:40Z
-  Total Products: 115
+  Updated: 2025-10-19T15:43:52Z
+  Total Products: 117
 - [Stunning Bundles of Engagement & Wedding Jewelry](https://www.chantalvaulet.com/collections/bundles): Discover exquisite engagement rings, wedding rings, earrings, and necklaces crafted with moissanite and lab diamonds.
   Updated: 2025-09-28T19:28:44Z
   Total Products: 3
@@ -11984,8 +12451,8 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
   Updated: 2025-10-16T11:11:15Z
   Total Products: 15
 - [Engagement Rings – Lab-Grown Diamonds & Moissanite | Chantal Vaulet](https://www.chantalvaulet.com/collections/engagement-rings): Shop engagement rings in lab-grown diamond or moissanite, solitaire, halo, oval & custom. Ethical, budget-friendly. Free shipping
-  Updated: 2025-10-19T10:31:40Z
-  Total Products: 116
+  Updated: 2025-10-19T15:43:52Z
+  Total Products: 118
 - [Wedding Rings – Lab-Grown Diamonds & Moissanite | Chantal Vaulet](https://www.chantalvaulet.com/collections/wedding-rings): Wedding rings in lab-grown diamond and moissanite. Timeless to modern styles. Ethical sparkle, enduring quality. Budget friendly. Shop the collection.
   Updated: 2025-10-18T18:35:48Z
   Total Products: 18
@@ -11996,11 +12463,11 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
   Updated: 2025-10-18T18:35:48Z
   Total Products: 15
 - [Oval Engagement Rings — Lab-Grown & Moissanite | Chantal Vaulet](https://www.chantalvaulet.com/collections/oval-engagement-rings): Shop oval engagement rings in lab-grown diamond & moissanite. Ethical sparkle, customizable settings in 18K gold or platinum. Handcrafted by Chantal Vaulet.
-  Updated: 2025-10-19T10:47:28Z
+  Updated: 2025-10-19T14:57:06Z
   Total Products: 12
 - [Round Engagement Rings — Lab-Grown & Moissanite | Chantal Vaulet](https://www.chantalvaulet.com/collections/round-engagement-rings): Shop round engagement rings in lab-grown diamond & moissanite. Classic solitaire, halo & pavé designs in gold, platinum or silver. Free shipping
-  Updated: 2025-10-18T18:26:06Z
-  Total Products: 151
+  Updated: 2025-10-19T15:40:18Z
+  Total Products: 152
 - [Emerald-Cut Engagement Rings — Lab-Grown & Moissanite | Chantal Vaulet](https://www.chantalvaulet.com/collections/emerald-cut-engagement-rings): Shop emerald-cut engagement rings in lab-grown diamond and moissanite—solitaire, three-stone, halo & vintage-inspired. Ethical sparkle, great value. Free shipping
   Updated: 2025-10-10T17:55:37Z
   Total Products: 11
@@ -12011,8 +12478,8 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
   Updated: 2025-10-11T20:54:33Z
   Total Products: 5
 - [Marquise Engagement Rings — Lab-Grown & Moissanite | Chantal Vaulet](https://www.chantalvaulet.com/collections/marquise-engagement-rings): Discover marquise engagement rings in lab-grown diamond and moissanite—solitaire, halo & vintage-inspired styles. Ethical sparkle, elongated silhouette, great value. Free shipping.
-  Updated: 2025-10-19T10:28:32Z
-  Total Products: 3
+  Updated: 2025-10-19T15:43:52Z
+  Total Products: 4
 - [Pear Engagement Rings — Lab-Grown & Moissanite | Chantal Vaulet](https://www.chantalvaulet.com/collections/pear-engagement-rings): Explore pear-shaped engagement rings in lab-grown diamond and moissanite—solitaire, halo & vintage styles. Ethical sparkle, flattering silhouette.
   Updated: 2025-10-19T10:47:28Z
   Total Products: 17
@@ -12032,7 +12499,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
   Updated: 2025-10-05T19:27:28Z
   Total Products: 39
 - [Pavé Engagement Rings – Lab-Grown & Moissanite | Chantal Vaulet](https://www.chantalvaulet.com/collections/pave-engagement-rings): Shop pavé engagement rings in lab-grown diamond and moissanite—micro & French pavé bands, classic to modern styles. Ethical, handcrafted. Free shipping.
-  Updated: 2025-10-19T10:47:28Z
+  Updated: 2025-10-19T14:57:06Z
   Total Products: 76
 - [Three-Stone Engagement Rings — Lab-Grown Diamond & Moissanite | Chantal Vaulet](https://www.chantalvaulet.com/collections/three-stone-engagement-rings): Shop three-stone engagement rings in lab-grown diamond & moissanite—past-present-future styles, handcrafted in fine gold. Ethical & affordable. Free shipping.
   Updated: 2025-10-05T20:21:24Z
@@ -12059,10 +12526,10 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
   Updated: 2025-10-16T11:11:15Z
   Total Products: 1
 - [Round-Cut Engagement Rings | Moissanite & Lab Diamonds](https://www.chantalvaulet.com/collections/engagement-rings-round-cut): Explore timeless round-cut engagement rings crafted with brilliant moissanite and lab-grown diamonds. A perfect symbol of everlasting love.
-  Updated: 2025-10-18T18:26:07Z
-  Total Products: 87
+  Updated: 2025-10-19T15:40:18Z
+  Total Products: 88
 - [Oval Engagement Rings | Moissanite & Lab-Grown Diamonds](https://www.chantalvaulet.com/collections/engagement-rings-oval): Discover elegant oval engagement rings featuring moissanite and lab-created diamonds. Elongated beauty with modern sophistication.
-  Updated: 2025-10-19T10:47:28Z
+  Updated: 2025-10-19T14:57:06Z
   Total Products: 5
 - [Emerald-Cut Engagement Rings | Step-Cut Moissanite & Lab Diamonds](https://www.chantalvaulet.com/collections/engagement-rings-emerald-cut): Shop emerald-cut engagement rings with sleek step-cut moissanite or lab-grown diamonds. Sophisticated and timeless designs.
   Updated: 2025-10-07T14:36:08Z
@@ -12080,14 +12547,14 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
   Updated: 2025-10-07T14:42:26Z
   Total Products: 2
 - [Marquise Engagement Rings | Vintage Moissanite & Lab Diamonds](https://www.chantalvaulet.com/collections/engagement-rings-marquise): Shop marquise engagement rings with elegant, elongated shapes. Moissanite and lab-grown diamonds bring vintage charm to modern love.
-  Updated: 2025-10-19T10:28:32Z
-  Total Products: 3
+  Updated: 2025-10-19T15:43:52Z
+  Total Products: 4
 - [Radiant-Cut Engagement Rings | Moissanite & Lab Diamond Sparkle](https://www.chantalvaulet.com/collections/engagement-rings-radiant-cut): Discover radiant-cut engagement rings with intense sparkle and brilliance. Choose moissanite or lab-grown diamonds in dazzling designs.
   Updated: 2025-10-19T09:15:54Z
   Total Products: 2
 - [Gold Engagement Rings – 9K, 14K & 18K Yellow, White & Rose](https://www.chantalvaulet.com/collections/gold-engagement-rings): Shop gold engagement rings in 9K, 14K & 18K yellow, white and rose gold. Solitaire, halo and three-stone designs with ethically sourced diamonds. Handcrafted, free shipping.
-  Updated: 2025-10-19T10:31:41Z
-  Total Products: 15
+  Updated: 2025-10-19T15:43:52Z
+  Total Products: 17
 - [Sterling Silver Engagement Rings | Chantal Vaulet](https://www.chantalvaulet.com/collections/silver-engagement-rings): Explore 925 sterling silver engagement rings in classic solitaire, halo and pavé styles with diamond or gemstone settings. Timeless designs for every proposal.
   Updated: 2025-10-11T15:23:19Z
   Total Products: 99
@@ -12096,11 +12563,11 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
 
 - [💍 Moissanite & Diamond News | Jewelry Blog](https://www.chantalvaulet.com/blogs/news): Stay updated with the latest in jewelry news, benefits of moissanite, diamond engagement, and wedding trends! ✨
   - [What is a Moissanite? | Benefits of Moissanite vs. Diamond](https://www.chantalvaulet.com/blogs/news/benefit-of-mossanite): What is a Moissanite? | Benefits of Moissanite vs. Diamond
-    Updated: 2025-09-18T15:26:53Z
+    Updated: 2025-10-19T15:58:40Z
     Author: Bozidar Christof
     Tags: benefits, Diamond, Moissanite
   - [Engagement Rings vs. Wedding Rings: Unveiling the Difference](https://www.chantalvaulet.com/blogs/news/engagement-rings-vs-wedding-rings-unveiling-the-difference-and-choosing-your-symbol-of-love): Engagement Rings vs. Wedding Rings: Unveiling the Difference
-    Updated: 2025-09-18T15:26:56Z
+    Updated: 2025-10-19T15:58:49Z
     Author: Bozidar Christof
     Tags: Engagement, Moissanite, Wedding
   - [How to Choose the Correct Ring Size: A Comprehensive Guide](https://www.chantalvaulet.com/blogs/news/how-to-choose-the-correct-ring-size-a-comprehensive-guide): How to Choose the Correct Ring Size: A Comprehensive Guide
@@ -12112,7 +12579,7 @@ Welcome to Chantal Vaulet, your destination for high-quality, ethically sourced 
     Author: Bozidar Christof
     Tags: Diamond, Engagement, Moissanite, Wedding
   - [Jewelry and Age: A Celebration of Personal Style Beyond Stereotypes](https://www.chantalvaulet.com/blogs/news/jewelry-and-age-a-celebration-of-personal-style-beyond-stereotypes): <p data-start="254" data-end="698">Jewelry has always been a deeply personal form of self-expression—an extension of one’s character, mood, and aesthetic intuition. Yet outdated notions persist: youthful jewelry is for the young, while pearls are reserved for older women. These ideas stem from long-standing societal conventions that divided fashion—and identity—by age. But should we still follow these rules now that the modern fashion world emphasizes individuality over age?</p>
-    Updated: 2025-09-18T15:27:01Z
+    Updated: 2025-10-19T15:58:59Z
     Author: Bozidar Christof
 
 ## Store Pages
