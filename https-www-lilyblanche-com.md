@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-10-18T20:00:48.262Z
+- Updated At: 2025-10-19T00:00:47.943Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -1711,7 +1711,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £150.00 GBP
 - [Memory Keeper Locket® Silver | Lily Blanche | Keep Loved Ones Close](https://www.lilyblanche.com/products/memory-keeper-locket-silver): The Memory Keeper Locket in Sterling Silver is a beautiful & unique way to keep your loved ones close to your heart. This stunning locket can hold up to 6 photos, making it the perfect way to cherish your most precious memories. Order your silver Memory Keeper Locket online & get free photos, shipping & care kit today!
-  Updated: 2025-10-18T16:09:09Z
+  Updated: 2025-10-18T20:09:45Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -9983,7 +9983,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £220.00 GBP
 - [Seahorse Locket in White Gold | Summer Necklace | Lily Blanche](https://www.lilyblanche.com/products/seahorse-locket-white-gold): Carry the beach with you with this lovely 18 carat white gold vermeil seashell necklace which opens to take two photos. The Seahorse Locket is the perfect holiday necklace. Use our free photo service for a unique gift. Now with free UK shipping & luxury gift wrap. Personalise this locket online today
-  Updated: 2025-08-14T11:54:49Z
+  Updated: 2025-10-18T22:32:30Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -10383,7 +10383,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £65.00 GBP
 - [Four Picture Heart Locket | High Quality Gold Necklace | Lily Blanche](https://www.lilyblanche.com/products/four-picture-heart-locket-gold): Keep your loved ones close to your heart with this pretty four photo heart-shaped locket in 18 carat gold vermeil. The unique necklace can be personalised with four of your photos and engraved with a message. The charm locket is hallmarked in Edinburgh. Free locket photos & free shipping. Shop online today.
-  Updated: 2025-10-16T18:45:21Z
+  Updated: 2025-10-18T20:56:00Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -23110,7 +23110,7 @@ From £190.
     Availability: Available
     Price: £150.00 GBP
 - [Men's Solid Sterling Silver Spiga Chain Necklace - Handmade UK Luxury](https://www.lilyblanche.com/products/mens-solid-sterling-silver-spiga-chain-necklace): Men’s solid sterling silver Spiga chain necklace – handcrafted in the UK, heavyweight wheat-link design, polished finish, perfect for gifting, with free care kit.
-  Updated: 2025-10-17T15:54:34Z
+  Updated: 2025-10-19T00:00:21Z
   Vendor: Lily Blanche
   Product Type: Choose Your Chain
   Availability: Available
