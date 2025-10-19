@@ -7,7 +7,7 @@
 - Currency: EUR
 - Timezone: Europe/Dublin
 - Created At: 2025-01-23T10:54:05Z
-- Updated At: 2025-10-18T20:00:34.963Z
+- Updated At: 2025-10-19T04:00:35.704Z
 
 ## Products
 
@@ -2746,7 +2746,7 @@
     Availability: Available
     Price: €159.95 EUR
 - [Professional xNet™ Scratched Glass Repair Kit for Rotary Polishers](https://glasspolishshop.com/products/pro-glass-scratch-removal-xnet-kit-75mm-3-inch): Restore any glass surface with the PRO xNet™ kit for rotary polishers. Fast, cost-effective glass scratch removal for automotive, toughened, and household glass.
-  Updated: 2025-10-17T15:11:41Z
+  Updated: 2025-10-19T02:19:35Z
   Vendor: Glass Polish
   Product Type: Glass Scratch Removal Kit
   Availability: Available
