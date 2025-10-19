@@ -6,7 +6,7 @@
 - Timezone: Europe/Madrid
 - Created At: 2022-07-18T15:24:40Z
 - Contact Email: info@hifimediastore.com
-- Updated At: 2025-10-19T12:01:14.409Z
+- Updated At: 2025-10-19T16:01:15.015Z
 
 ## Products
 
@@ -6142,7 +6142,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/ultimate-ears-everboom-altavoz-inalambri_407153_3.jpg?v=1756457453
   Price: 291,99 € EUR
 - [Sharp HT-SBW182 - Barra de Sonido Slim 2.1 con Subwoofer Inalámbrico 160W](https://hifimediastore.com/products/sharp-ht-sbw182-barra-de-sonido-slim-2-1-con-subwoofer-inalambrico-160w): No importa cuál sea tu serie favorita o esa lista de reproducción que te encanta: tu sistema Sharp cuenta con audio de canal 2.1 con 2 drivers de altavoces de rango completo y un subwoofer especial para recrear el sonido del cine/la discoteca en tu hogar. Características: Bluetooth: Simple, rápido, flexible: usa Bluetooth para conectar de forma inalámbrica tu dispositivo de audio Sharp a otros dispositivos, como tu smartphone o tablet. Hace que tus opciones sean aún más versátiles. HDMI ARC/CEC: Conexiones fáciles: con HDMI ARC, solo necesitarás un cable para conectar tu barra de sonido Sharp a tu TV. La calidad de transmisión es extremadamente estable y libre de interferencias. El HDMI CEC ordena las cosas en el mando a distancia al mismo tiempo. Tu barra de sonido no necesitará ningún control extra, y simplemente la controlarás con el mando de tu TV. Ajustes preestablecidos del ecualizador (EQ): El ecualizador te permite ajustar el sonido de forma acorde con tus preferencias: los ajustes preestablecidos están diseñados para adaptarse a la perfección a tu estilo de música o entretenimiento. Entrada óptica digital: Si no puedes o no deseas conectar tu barra de sonido a través del HDMI, no te preocupes, pues las entradas ópticas son la próxima opción mejor. La señal digital utilizada en la conexión óptica es menos propensa a las interferencias que una señal analógica, y también puede ser compatible con el sonido envolvente Dolby Digital. Compatible con cualquier TV: No hay excusas para no mejorar tu experiencia de entretenimiento en casa: todas las barras de sonido Sharp están diseñadas para ser compatibles con cualquier TV que tenga una conexión HDMI ARC, una conexión óptica digital o una conexión de auriculares (aux). Mando a distancia: Encendido o apagado, con un volumen alto o bajo: podrás controlar fácilmente las funciones de tu dispositivo de audio Sharp con el mando a distancia. Desde la comodidad de tu sofá, por ejemplo. Y, no te preocupes, se incluyen las pilas. Especificaciones: Audio Canales de salida de audio: 2.1 canales Potencia estimada RMS: 160 W Ecualizador: Si Canal de retorno de audio (ARC): Si Subwoofer Subwoofer incluido: Si Conectividad del altavoz de subgraves (subwoofer): Inalámbrico Características Color del producto: Negro Interruptor de encendido/apagado integrado: Si Montaje de pared: Si Uso de soporte de TV: No Certificación: CE (EMC), CB (Safety), ErP (Energy) Puertos e Interfaces Tecnología de conectividad: Inalámbrico y alámbrico Bluetooth: Si Versión de Bluetooth: 4.2 Wifi: No Número de puertos HDMI: 1 Puerto USB: Si Cantidad de puertos USB 2.0: 1 Audio digital, entrada óptica: 1 Entrada auxiliar: Si Enchufe de entrada de CC: Si Control de energía Voltaje de entrada AC: 220 - 240 V Frecuencia de entrada AC: 50 Hz Consumo de energía (inactivo): 0,5 W Peso y dimensiones Ancho: 740 mm Profundidad: 80,5 mm Altura: 63 mm Peso de la barra de sonido: 1,3 kg Ancho de subwoofer: 15 cm Profundidad de subwoofer: 20,2 cm Altura de subwoofer: 25 cm Peso de subwoofer: 1,7 kg Contenido del embalaje Kit de montaje en pared: Si Cables incluidos: Corriente alterna Mando a distancia: Si Otras características Manual de usuario: Si
-  Updated: 2025-10-19T11:06:00Z
+  Updated: 2025-10-19T12:59:17Z
   Vendor: SHARP
   Product Type: Altavoces
   Availability: Available
@@ -6947,7 +6947,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/18772.jpg?v=1727291712
   Price: 27,99 € EUR
 - [Bose Ultra Open Earbuds - Auriculares Bluetooth de Diseño Abierto Plata](https://hifimediastore.com/products/bose-ultra-open-earbuds-auriculares-bluetooth-de-diseno-abierto-plata): Bose Ultra Open Earbuds, auriculares inalámbricos con diseño abierto, audio inmersivo, control táctil, resistencia IPX4, Bluetooth v5.3 y autonomía de hasta 27 horas, plata Los Bose Ultra Open Earbuds son unos auriculares inalámbricos con diseño abierto que combinan una excelente calidad de sonido con una gran comodidad y permiten escuchar lo que ocurre a tu alrededor. Incorporan botones táctiles en cada auricular que posibilitan cambiar de modo estéreo a modo inmersivo, pausar y reproducir fácilmente. Además, cuentan con función de volumen automático, adaptándose a los sonidos del entorno. Por otro lado, su estructura es resistente al agua y está equipada con un sistema de 4 micrófonos para llamadas manos libres. Todo esto con una batería con hasta 27 horas de autonomía con su estuche de carga. Diseño abierto con tecnología OpenAudio El diseño abierto de los Bose Ultra Open Earbuds posee una junta flexible y un agarre ligero que logra un ajuste perfecto a la oreja sin ejercer presión. Además, combina un reconocimiento de lo que sucede en el entorno con un sonido intenso y privado gracias a la tecnología OpenAudio. Función de volumen automático y controles integrados Los Ultra Open Earbuds incluyen controles en cada auricular para alternar entre el modo estéreo y el modo inmersivo, pausar y reproducir música. Asimismo, su control de volumen automático ajusta el mismo acorde al ruido del entorno. Protección IPX4 y Bluetooth v5.3 La estructura de estos auriculares Bose es resistente al agua con certificación IPX4, excelente para realizar actividad física al aire libre. Además, su conectividad Bluetooth v5.3 garantiza un emparejamiento estable, sin la molestia de cables. Batería con una gran autonomía de hasta 7,5 horas La batería de los Ultra Open Earbuds permite hasta 7,5 horas de reproducción continuas y hasta 19,5 horas extra con el estuche de carga. Su carga rápida brinda hasta 2 horas extra con 10 minutos de carga. Especificaciones: Marca: Bose Modelo: Ultra Open Earbuds Sonido: Tecnología OpenAudio Función de audio inmersivo 4 micrófonos por auricular Conexión inalámbrica: Bluetooth v5.3 Alcance: Hasta 9 metros Características: Resistencia al agua IPX4 Diseño abierto Llamadas manos libres Control táctil App Bose Music (Android e iOS) Batería: Tipo: Iones de litio Autonomía: Hasta 7,5 horas (Carga)/Hasta 27 horas (Caja de carga) Tiempo de carga: Hasta 1 hora (Auricular)/Hasta 3 horas (Caja de carga) Carga rápida: 10 minutos para 2 horas Método de carga: USB Tipo C Materiales: plástico, chapado de oro y silicona Dimensiones: Auriculares: 1,9 x 1,7 x 2,7 cm Caja de carga: 4,2 x 6,5 x 2,6 cm Color: Plata Contenido de la caja: 2 x Auriculares Bose Ultra Open Earbuds Plata (Izquierdo y derecho) 1 x Estuche de carga 1 x Cable USB Tipo C 30 cm 1 x Manual de usuario 1 x Ficha de seguridad
-  Updated: 2025-10-19T11:06:00Z
+  Updated: 2025-10-19T12:59:17Z
   Vendor: Bose
   Product Type: 
   Availability: Available
@@ -7787,12 +7787,12 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/21880.jpg?v=1742920826
   Price: 372,99 € EUR
 - [Samsung Galaxy A56 5G 8GB/128GB Negro (Awesome Graphite) Dual SIM SM-A566](https://hifimediastore.com/products/samsung-galaxy-a56-5g-8gb-128gb-negro-awesome-graphite-dual-sim-sm-a566): Samsung Galaxy A56 5G Pantalla FHD Super AMOLED de 67 Triple camara de 50MP y camara selfie de 12MP Bateria de 5000 mAh Carga Rapida de 45W Procesador octa core y conectividad 5G Corning Gorilla Glass Victus Certificacion IP67 No incluye carg
-  Updated: 2025-10-19T04:55:17Z
+  Updated: 2025-10-19T14:29:29Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/21885.jpg?v=1742920835
-  Price: 370,99 € EUR
+  Price: 368,99 € EUR
 - [Samsung Galaxy A56 5G 8GB/128GB Gris (Awesome Light Grey) Dual SIM SM-A566](https://hifimediastore.com/products/samsung-galaxy-a56-5g-8gb-128gb-gris-awesome-light-grey-dual-sim-sm-a566): Samsung Galaxy A56 5G Pantalla FHD Super AMOLED de 67 Triple camara de 50MP y camara selfie de 12MP Bateria de 5000 mAh Carga Rapida de 45W Procesador octa core y conectividad 5G Corning Gorilla Glass Victus Certificacion IP67 No incluye carg
   Updated: 2025-10-16T17:43:25Z
   Vendor: Samsung
@@ -8599,10 +8599,10 @@
   Updated: 2025-06-22T07:51:28Z
   Total Products: 0
 - [Best Selling Products](https://hifimediastore.com/collections/best-selling-products)
-  Updated: 2025-10-19T11:32:10Z
+  Updated: 2025-10-19T14:50:15Z
   Total Products: 5481
 - [Newest Products](https://hifimediastore.com/collections/newest-products)
-  Updated: 2025-10-19T11:32:10Z
+  Updated: 2025-10-19T14:50:15Z
   Total Products: 5481
 - [Altavoces](https://hifimediastore.com/collections/speakers): Explora nuestra gama de altavoces de alta calidad y llévatee la experiencia del festival a casa con nuestros altavoces.
   Updated: 2025-10-10T22:01:24Z
@@ -8656,7 +8656,7 @@
   Updated: 2025-10-10T22:05:52Z
   Total Products: 22
 - [AVADA - Best Sellers](https://hifimediastore.com/collections/avada-best-sellers)
-  Updated: 2025-10-19T11:45:52Z
+  Updated: 2025-10-19T14:50:15Z
   Total Products: 1450
 - [Intercomunicadores para moto](https://hifimediastore.com/collections/motorcycle-intercoms)
   Updated: 2025-06-22T07:51:29Z
@@ -8665,7 +8665,7 @@
   Updated: 2025-06-22T07:51:30Z
   Total Products: 4
 - [Móviles y Smartphones Libres 4G y 5G](https://hifimediastore.com/collections/smartphones): Compra móviles y smartphones libres 4G y 5G. Pago a plazos con SeQura. Envío rápido y garantía oficial.
-  Updated: 2025-10-19T11:32:10Z
+  Updated: 2025-10-19T14:50:15Z
   Total Products: 3572
 - [Alcatel](https://hifimediastore.com/collections/alcatel)
   Updated: 2025-10-11T23:22:15Z
@@ -8722,10 +8722,10 @@
   Updated: 2025-10-18T16:54:38Z
   Total Products: 186
 - [Xiaomi](https://hifimediastore.com/collections/xiaomi)
-  Updated: 2025-10-19T05:24:18Z
+  Updated: 2025-10-19T14:50:15Z
   Total Products: 957
 - [Samsung](https://hifimediastore.com/collections/samsung)
-  Updated: 2025-10-19T07:05:40Z
+  Updated: 2025-10-19T14:29:31Z
   Total Products: 934
 - [Acer](https://hifimediastore.com/collections/acer)
   Updated: 2025-10-11T23:22:13Z
@@ -8833,7 +8833,7 @@
   Updated: 2025-10-16T19:22:17Z
   Total Products: 4
 - [Xiaomi](https://hifimediastore.com/collections/xiaomi-1)
-  Updated: 2025-10-19T05:24:18Z
+  Updated: 2025-10-19T14:50:15Z
   Total Products: 1061
 - [Auriculares Xiaomi](https://hifimediastore.com/collections/auriculares-xiaomi)
   Updated: 2025-10-18T16:16:03Z
@@ -8980,7 +8980,7 @@
   Updated: 2025-08-31T12:20:56Z
   Total Products: 4
 - [Teléfonos móviles y accesorios en Hi-Fi Media Store](https://hifimediastore.com/collections/todos-los-productos): Somos especialistas en teléfonos móviles y accesorios. En Hi-Fi Media Store encontrarás una gran variedad de productos de las mejores marcas.
-  Updated: 2025-10-19T11:32:10Z
+  Updated: 2025-10-19T14:50:15Z
   Total Products: 5480
 - [Lindy](https://hifimediastore.com/collections/lindy)
   Updated: 2025-10-10T23:08:17Z
@@ -9037,7 +9037,7 @@
   Updated: 2025-10-10T22:47:39Z
   Total Products: 3
 - [OrderlyEmails - Recommended Products](https://hifimediastore.com/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-10-19T11:45:52Z
+  Updated: 2025-10-19T14:50:15Z
   Total Products: 1453
 - [Razer](https://hifimediastore.com/collections/razer)
   Updated: 2025-10-16T19:26:34Z
@@ -9175,7 +9175,7 @@
   Updated: 2025-10-18T04:03:23Z
   Total Products: 79
 - [IVA 21](https://hifimediastore.com/collections/iva-21)
-  Updated: 2025-10-19T11:32:10Z
+  Updated: 2025-10-19T14:50:15Z
   Total Products: 5111
 - [Tablets Xiaomi](https://hifimediastore.com/collections/tablets-xiaomi)
   Updated: 2025-10-17T21:46:39Z
@@ -9187,7 +9187,7 @@
   Updated: 2025-10-16T11:22:15Z
   Total Products: 4
 - [Samsung](https://hifimediastore.com/collections/samsung-1)
-  Updated: 2025-10-19T07:05:40Z
+  Updated: 2025-10-19T14:29:31Z
   Total Products: 1096
 - [Tablets Oneplus](https://hifimediastore.com/collections/tablets-oneplus)
   Updated: 2025-10-12T00:12:20Z
@@ -9214,7 +9214,7 @@
   Updated: 2025-10-18T05:25:32Z
   Total Products: 14
 - [IVA 21](https://hifimediastore.com/collections/21-iva)
-  Updated: 2025-10-19T07:05:40Z
+  Updated: 2025-10-19T14:29:31Z
   Total Products: 4080
 - [Realme](https://hifimediastore.com/collections/realme-1)
   Updated: 2025-10-18T03:42:30Z
@@ -9271,7 +9271,7 @@
   Updated: 2025-08-31T12:05:21Z
   Total Products: 3
 - [Productos para teléfonos móviles y accesorios](https://hifimediastore.com/collections/all): Hi-Fi Media Store: Tu tienda online para teléfonos móviles y accesorios de las mejores marcas. Encuentra smartphones, auriculares inalámbricos y con cable, altavoces y una amplia gama de accesorios para complementar tu experiencia móvil. Compra con seguridad y disfruta de una garantía de satisfacción. Visita nuestra tienda online y descubre un mundo de posibilidades para tu teléfono móvil.
-  Updated: 2025-10-19T11:32:10Z
+  Updated: 2025-10-19T14:50:15Z
   Total Products: 5480
 - [Beats](https://hifimediastore.com/collections/beats)
   Updated: 2025-10-11T22:16:14Z
@@ -9286,7 +9286,7 @@
   Updated: 2025-10-10T21:27:13Z
   Total Products: 11
 - [Ultimate Search - Do not delete](https://hifimediastore.com/collections/ultimate-search-do-not-delete): Ultimate Search app uses this temporary collection to fetch best selling items.Please do not delete this collection.If you have removed the app, it is safe to remove this collection.
-  Updated: 2025-10-19T11:32:10Z
+  Updated: 2025-10-19T14:50:15Z
   Total Products: 5480
 - [Nubia](https://hifimediastore.com/collections/nubia)
   Updated: 2025-10-11T22:34:25Z
