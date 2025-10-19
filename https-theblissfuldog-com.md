@@ -10,7 +10,7 @@
 - Contact Email: info@theblissfuldog.com
 - Contact Phone: 855-364-2547
 - Address: 50688 235th ave NW
-- Updated At: 2025-10-19T00:00:40.640Z
+- Updated At: 2025-10-19T08:00:45.113Z
 
 ## Products
 
@@ -7332,7 +7332,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/CSP-BOOBOO-50TUBE-DRIZZLE-2500.jpg?v=1738737050
     Price: $11.95 USD
 - [Boo Boo Butter Herbal Balm for Corgi Skin Irritations, Itchies & Owies](https://theblissfuldog.com/products/corgi-boo-boo-butter): The Blissful Dog Boo Boo Butter for Corgi Skin Irritations. Great for any minor skin irritations; bug bites, scrapes, scratches and abrasions. Free Shipping USA
-  Updated: 2025-10-16T15:40:24Z
+  Updated: 2025-10-19T04:13:18Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -9283,7 +9283,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/AUS_CATTLE_50TUBE_NoseButter_ALL_ingredients_2500_2021.jpg?v=1631565236
     Price: $10.95 USD
 - [If Your Basenji Has Dry Nose Issues Try The Blissful Dog NOSE BUTTER®](https://theblissfuldog.com/products/basenji-nose-butter): If your Basenji has dry nose problems, such as dryness or extreme nasal hyperkeratosis, all natural, handcrafted NOSE BUTTER is the answer to their dry nose.
-  Updated: 2025-10-18T14:10:24Z
+  Updated: 2025-10-19T00:35:28Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -12779,7 +12779,7 @@
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/DOBIE_15TUBE_COMBO_9bc27eb3-fe59-479d-a717-4e996be47651.jpg?v=1648479502
   Price: $19.95 USD
 - [Dogue de Bordeaux Skin Care for Dry Noses, Rough Paws + Itchy Skin](https://theblissfuldog.com/products/dogue-de-bordeaux-tube-combo): The Blissful Dog Build Your Own Dogue de Bordeaux Skin Care Custom Combo. Our all natural balms soothe rough, dry noses, dry paws or itchy skin...naturally.
-  Updated: 2025-10-16T15:41:08Z
+  Updated: 2025-10-19T04:10:22Z
   Vendor: The Blissful Dog
   Product Type: COMBO
   Availability: Available
