@@ -6,12 +6,12 @@
 - Timezone: America/Los_Angeles
 - Created At: 2025-09-03T06:10:26Z
 - Contact Email: help@playspuls.com
-- Updated At: 2025-10-19T16:00:27.909Z
+- Updated At: 2025-10-19T20:00:27.440Z
 
 ## Products
 
 - [Labubu 3.0  Blind Box Big Into Energy Series](https://www.playspuls.com/products/labubu-3-0-blind-box-big-into-energy-series): Big Into Energy SeriesThe Big Into Energy Series features characters full of dynamic energy and expression. Each figure is carefully designed with bold colors and vibrant poses. Figures measure 6.69 inches tall. The PVC material provides durability for long-lasting display. Every figure features unique facial expressions and energetic designs. Bright colors make each piece stand out in any collection. You will receive a random Labubu 3.0 blind box, which could be one of the regular styles, or you might get lucky and land the rare hidden figure — the surprise is revealed only when you open the box!Individual boxes measure approximately 6 x 4 x 4 inches. Character size: Height(Excluding Hanging Loop): 6.69inches Material: Shell: PVC / Polyester Stuffing: Polyester / Iron Wire Include: 1pcs
-  Updated: 2025-10-18T16:32:42Z
+  Updated: 2025-10-19T16:58:46Z
   Vendor: PlaysPuls
   Product Type: Toy doll
   Availability: Available
