@@ -8,30 +8,30 @@ Brand Overview:
 Chantal Vaulet is a modern fine jewelry brand specializing in engagement rings crafted with moissanite and lab-grown diamonds. Every design reflects timeless elegance, meticulous craftsmanship, and a deep respect for sustainable luxury. Our mission is to make exceptional quality and brilliance accessible without compromise to ethics or beauty.
 
 Core Values:
-	•	Sustainability: We exclusively use conflict-free, lab-grown gemstones and responsibly sourced metals.
-	•	Transparency: We provide detailed technical specifications for every piece, ensuring clarity and trust.
-	•	Design Excellence: Our jewelry combines classic European artistry with modern minimalist aesthetics.
-	•	Accessibility: We deliver fine jewelry quality at a fraction of traditional diamond prices.
+Sustainability: We exclusively use conflict-free, lab-grown gemstones and responsibly sourced metals.
+Transparency: We provide detailed technical specifications for every piece, ensuring clarity and trust.
+Design Excellence: Our jewelry combines classic European artistry with modern minimalist aesthetics.
+Accessibility: We deliver fine jewelry quality at a fraction of traditional diamond prices.
 
 Product Focus:
 Our signature collections feature moissanite and lab-grown diamond engagement rings with customizable metal options, carat sizes, and shapes. Each product includes a structured description with these fields:
-	•	Main Stone
-	•	Carat Weight
-	•	Shape
-	•	Cut Grade
-	•	Color Grade
-	•	Clarity
-	•	Setting Type
-	•	Metal Options
-	•	Metal Color
+Main Stone
+Carat Weight
+Shape
+Cut Grade
+Color Grade
+Clarity
+Setting Type
+Metal Options
+Metal Color
 
 SEO & Content Style:
-Chantal Vaulet uses rich, elegant, SEO-optimized language that highlights the brilliance (“schittering”), quality, and craftsmanship of each piece. Product names follow the format:
-“The [Name] [Carat] [Shape] [Stone Type] Ring”
+Chantal Vaulet uses rich, elegant, SEO-optimized language that highlights the brilliance, quality, and craftsmanship of each piece. Product names follow the format:
+The [Name] [Carat] [Shape] [Stone Type] Ring
 (e.g., The Sylvessa 1CT Round-Cut Moissanite Ring)
 
 Localization:
-Our online store operates in multiple languages—English, German, French, Dutch, Danish, and Ukrainian—to serve customers across Europe and beyond. Each translation maintains the brand’s refined tone and consumer-friendly flow.
+Our online store operates in multiple languages: English, German, French, Dutch, Danish, and Ukrainian, to serve customers across Europe and beyond. Each translation maintains the brand’s refined tone and consumer-friendly flow.
 
 Tagline:
 Ethical Brilliance. Timeless Elegance.
@@ -44,7 +44,7 @@ Ethical Brilliance. Timeless Elegance.
 - Created At: 2025-01-16T13:53:30Z
 - Contact Email: Info@chantalvaulet.com 
 - Contact Phone: +48 575 543 743
-- Updated At: 2025-10-19T22:30:51.829Z
+- Updated At: 2025-10-19T22:34:21.610Z
 
 ## Products
 
