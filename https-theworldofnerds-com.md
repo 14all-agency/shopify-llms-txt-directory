@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2023-11-06T10:53:38Z
 - Contact Email: theworldofnerdscustomer@gmail.com
-- Updated At: 2025-10-18T20:00:41.222Z
+- Updated At: 2025-10-19T00:00:48.180Z
 
 ## Products
 
@@ -1943,7 +1943,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitled_9816db80-f3c7-4a8f-81bd-73080f1be7bd.png?v=1731069021
   Price: ₹599.00 INR
 - [MAJORETTE MONSTER ROCKERZ FORD BRONCO WILDTRAK](https://theworldofnerds.com/products/majorette-monster-rockerz-ford-bronco-wildtrak): Discover the excitement of adventure with the Majorette Monster Rockerz Ford Bronco Wildtrak! This impressive die-cast model features rugged off-road styling and a vibrant design, complete with bold details and oversized wheels. It’s ideal for young explorers and collectors alike, ready to conquer any terrain. Enhance your collection with this dynamic and adventurous Ford Bronco! Designed for rugged terrain, this truck is built to conquer any obstacle with its powerful engine and durable construction.
-  Updated: 2025-10-17T23:53:59Z
+  Updated: 2025-10-18T23:59:17Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
