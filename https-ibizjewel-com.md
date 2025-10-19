@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-01-24T04:49:01Z
 - Contact Email: info@ibizjewel.com
-- Updated At: 2025-10-19T00:00:49.556Z
+- Updated At: 2025-10-19T04:00:50.614Z
 
 ## Products
 
@@ -24840,7 +24840,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/SPDR-130_3.jpg?v=1710925619
     Price: $1,254.00 USD
 - [Natural Salt And Pepper 1.45CT Pear Diamond Gothic Engagement Ring](https://ibizjewel.com/products/natural-salt-and-pepper-1-45ct-pear-diamond-gothic-engagement-ring): This Elegant Natural Salt And Pepper 1.45ct Pear Diamond Gothic Engagement Ring Is Crafted With Precision And Offers A Unique Touch. Made From Natural Salt And Pepper Diamonds, This Ring Showcases A 1.45ct Pear Diamond And Boasts A Gothic Design. Perfect For Those Looking For A One-of-a-kind Engagement Ring.
-  Updated: 2025-10-02T10:31:00Z
+  Updated: 2025-10-19T03:54:41Z
   Vendor: Natural Salt And Pepper Diamond Ring
   Product Type: Natural Salt And Pepper Pear Diamond Ring
   Availability: Available
@@ -44602,6 +44602,10 @@
     Updated: 2025-10-15T02:42:55Z
     Author: Heris K.
     Tags: diamonds, eco-friendly rings, engagement rings, ethical jewelry, jewelry, salt and pepper diamond ring, salt and pepper diamonds, sustainable, sustainable luxury fashion
+  - [The Ethical Journey of a Salt and Pepper Diamond Ring](https://ibizjewel.com/blogs/news/the-ethical-journey-of-a-salt-and-pepper-diamond-ring): The Ethical Journey of a Salt and Pepper Diamond Ring
+    Updated: 2025-10-19T00:10:34Z
+    Author: Heris K.
+    Tags: conflict-free diamonds, diamond ring, eco-friendly jewelry, ethical, jewelry, responsible sourcing, salt and pepper, salt and pepper diamond ring, sustainable
 
 ## Store Pages
 
