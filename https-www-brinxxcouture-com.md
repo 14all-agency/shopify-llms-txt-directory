@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2025-10-19T04:00:52.436Z
+- Updated At: 2025-10-19T08:00:55.804Z
 
 ## Products
 
@@ -6172,7 +6172,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Striped-One-Shoulder-Slit-Dress-Brinxx-Couture-3967.jpg?v=1709364517
     Price: $29.00 USD
 - [Straw Woven Beach Bag - Brinxx Couture](https://www.brinxxcouture.com/products/half-round-straw-woven-bag-beach-hand-woven-bag-holiday-womens-bag): Feel the sand between your toes and the sun on your face with our Straw Woven Beach Bag! Crafted from natural straw, this bag is perfect for a day of relaxation on the beach. Enjoy the beauty of nature and the convenience of this stylish bag!
-  Updated: 2025-10-02T17:12:05Z
+  Updated: 2025-10-19T05:21:11Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -8460,7 +8460,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/High-Neck-Long-Sleeve-Ribbed-Top-Brinxx-Couture-6079_ae99505f-4811-4797-bf89-89c3a0f73de1.jpg?v=1736050169
     Price: $25.00 USD
 - [Distressed Raw Hem Denim Jacket - Brinxx Couture](https://www.brinxxcouture.com/products/distressed-raw-hem-denim-jacket): This distressed raw hem denim jacket is the perfect way to make a statement. With its distressed raw hem design, you'll look cool and effortless.
-  Updated: 2025-10-19T03:51:20Z
+  Updated: 2025-10-19T06:32:10Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -16995,7 +16995,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Openwork-Color-Block-Plunge-Cover-Up-Brinxx-Couture-6527.jpg?v=1712073394
     Price: $30.00 USD
 - [Scoop Neck Spaghetti Strap Two-Piece Swim Set - Brinxx Couture](https://www.brinxxcouture.com/products/scoop-neck-spaghetti-strap-two-piece-swim-set): Dive into style and confidence with our Scoop Neck Spaghetti Strap Two-Piece Swim Set! Show off your curves and make a splash with this chic and comfortable swimsuit.
-  Updated: 2025-10-18T02:11:17Z
+  Updated: 2025-10-19T06:32:07Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -23343,7 +23343,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Notch-Lapel-Woven-Coat-with-Side-Pockets-Brinxx-Couture-2936.jpg?v=1730297108
     Price: $40.00 USD
 - [Cable-Knit Round Neck Sweater Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress): Wrap yourself in cozy comfort and timeless style with our Cable-Knit Round Neck Sweater Dress! Made from soft, high-quality materials.
-  Updated: 2025-10-19T02:10:45Z
+  Updated: 2025-10-19T06:31:52Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -25353,7 +25353,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Long-Faux-Fur-Overcoat-Brinxx-Couture-6449.jpg?v=1730299843
     Price: $89.99 USD
 - [Judy Blue Medium Rise Bootcut Jeans - Brinxx Couture](https://www.brinxxcouture.com/products/judy-blue-full-size-medium-rise-bootcut-jeans): Introducing the must-have item for stylish and comfortable everyday wear: Judy Blue Medium Rise Bootcut Jeans! Featuring a flattering medium rise and boot cut.
-  Updated: 2025-10-09T21:43:50Z
+  Updated: 2025-10-19T05:00:30Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
