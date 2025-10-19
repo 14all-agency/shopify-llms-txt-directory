@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2019-08-25T03:49:02Z
 - Contact Email: sales@milvertons.com
-- Updated At: 2025-10-19T04:00:37.440Z
+- Updated At: 2025-10-19T12:00:38.221Z
 
 ## Products
 
@@ -10676,6 +10676,188 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/hemp-wedge-heel-slippers-casual-sandals-for-women-2789869.jpg?v=1760572034
     Price: $28.72 USD
+- [Glam Sexy High Heels Sandals 2025 | Wedding Party Style](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style): These Glam Sexy High Heels Sandals are expertly designed for weddings and parties. Handmade and sized 32-43, these gladiator-style pumps combine style & comfort
+  Updated: 2025-10-19T08:44:43Z
+  Vendor: Milvertons
+  Product Type: Women - Shoes
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S6c9418df246f4b18838e03629f85f340p.webp?v=1760844607
+  - [Purple / 33](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078914326766)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/Sbbc753609269436789f4a9517025dfb9r.webp?v=1760845923
+    Price: $84.02 USD
+  - [Purple / 34](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078914359534)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/Sbbc753609269436789f4a9517025dfb9r.webp?v=1760845923
+    Price: $84.02 USD
+  - [Purple / 35](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078914392302)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/Sbbc753609269436789f4a9517025dfb9r.webp?v=1760845923
+    Price: $84.02 USD
+  - [Purple / 36](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078914162926)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/Sbbc753609269436789f4a9517025dfb9r.webp?v=1760845923
+    Price: $84.02 USD
+  - [Purple / 37](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078914195694)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/Sbbc753609269436789f4a9517025dfb9r.webp?v=1760845923
+    Price: $84.02 USD
+  - [Purple / 38](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078914228462)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/Sbbc753609269436789f4a9517025dfb9r.webp?v=1760845923
+    Price: $84.02 USD
+  - [Purple / 39](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078914261230)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/Sbbc753609269436789f4a9517025dfb9r.webp?v=1760845923
+    Price: $84.02 USD
+  - [Purple / 40](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078914031854)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/Sbbc753609269436789f4a9517025dfb9r.webp?v=1760845923
+    Price: $84.02 USD
+  - [Purple / 41](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078914064622)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/Sbbc753609269436789f4a9517025dfb9r.webp?v=1760845923
+    Price: $84.02 USD
+  - [Purple / 42](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078914097390)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/Sbbc753609269436789f4a9517025dfb9r.webp?v=1760845923
+    Price: $84.02 USD
+  - [Purple / 43](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078914130158)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/Sbbc753609269436789f4a9517025dfb9r.webp?v=1760845923
+    Price: $84.02 USD
+  - [Gold / 33](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078913704174)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S9849a065e0af4280ac7b2ebf1902dfd5E.webp?v=1760845923
+    Price: $84.02 USD
+  - [Gold / 34](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078913736942)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S9849a065e0af4280ac7b2ebf1902dfd5E.webp?v=1760845923
+    Price: $84.02 USD
+  - [Gold / 35](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078913507566)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S9849a065e0af4280ac7b2ebf1902dfd5E.webp?v=1760845923
+    Price: $84.02 USD
+  - [Gold / 36](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078913540334)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S9849a065e0af4280ac7b2ebf1902dfd5E.webp?v=1760845923
+    Price: $84.02 USD
+  - [Gold / 37](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078913573102)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S9849a065e0af4280ac7b2ebf1902dfd5E.webp?v=1760845923
+    Price: $84.02 USD
+  - [Gold / 38](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078913605870)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S9849a065e0af4280ac7b2ebf1902dfd5E.webp?v=1760845923
+    Price: $84.02 USD
+  - [Gold / 39](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078913376494)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S9849a065e0af4280ac7b2ebf1902dfd5E.webp?v=1760845923
+    Price: $84.02 USD
+  - [Gold / 40](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078913409262)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S9849a065e0af4280ac7b2ebf1902dfd5E.webp?v=1760845923
+    Price: $84.02 USD
+  - [Gold / 41](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078913442030)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S9849a065e0af4280ac7b2ebf1902dfd5E.webp?v=1760845923
+    Price: $84.02 USD
+  - [Gold / 42](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078913474798)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S9849a065e0af4280ac7b2ebf1902dfd5E.webp?v=1760845923
+    Price: $84.02 USD
+  - [Gold / 43](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078914293998)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S9849a065e0af4280ac7b2ebf1902dfd5E.webp?v=1760845923
+    Price: $84.02 USD
+  - [Silver / 33](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078913900782)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S6e10b6ad640e4f4a9bb0400cb41ee9dab.webp?v=1760845923
+    Price: $84.02 USD
+  - [Silver / 34](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078913933550)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S6e10b6ad640e4f4a9bb0400cb41ee9dab.webp?v=1760845923
+    Price: $84.02 USD
+  - [Silver / 35](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078913966318)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S6e10b6ad640e4f4a9bb0400cb41ee9dab.webp?v=1760845923
+    Price: $84.02 USD
+  - [Silver / 36](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078913999086)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S6e10b6ad640e4f4a9bb0400cb41ee9dab.webp?v=1760845923
+    Price: $84.02 USD
+  - [Silver / 37](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078914523374)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S6e10b6ad640e4f4a9bb0400cb41ee9dab.webp?v=1760845923
+    Price: $84.02 USD
+  - [Silver / 38](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078914556142)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S6e10b6ad640e4f4a9bb0400cb41ee9dab.webp?v=1760845923
+    Price: $84.02 USD
+  - [Silver / 39](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078914588910)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S6e10b6ad640e4f4a9bb0400cb41ee9dab.webp?v=1760845923
+    Price: $84.02 USD
+  - [Silver / 40](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078914621678)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S6e10b6ad640e4f4a9bb0400cb41ee9dab.webp?v=1760845923
+    Price: $84.02 USD
+  - [Silver / 41](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078914425070)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S6e10b6ad640e4f4a9bb0400cb41ee9dab.webp?v=1760845923
+    Price: $84.02 USD
+  - [Silver / 42](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078914457838)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S6e10b6ad640e4f4a9bb0400cb41ee9dab.webp?v=1760845923
+    Price: $84.02 USD
+  - [Silver / 43](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078914490606)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S6e10b6ad640e4f4a9bb0400cb41ee9dab.webp?v=1760845923
+    Price: $84.02 USD
+  - [Black / 33](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078914785518)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S7de0cc0d7f764016931df0792aff4fb6j.webp?v=1760845923
+    Price: $84.02 USD
+  - [Black / 34](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078914654446)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S7de0cc0d7f764016931df0792aff4fb6j.webp?v=1760845923
+    Price: $84.02 USD
+  - [Black / 35](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078914687214)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S7de0cc0d7f764016931df0792aff4fb6j.webp?v=1760845923
+    Price: $84.02 USD
+  - [Black / 36](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078914719982)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S7de0cc0d7f764016931df0792aff4fb6j.webp?v=1760845923
+    Price: $84.02 USD
+  - [Black / 37](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078914752750)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S7de0cc0d7f764016931df0792aff4fb6j.webp?v=1760845923
+    Price: $84.02 USD
+  - [Black / 38](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078913769710)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S7de0cc0d7f764016931df0792aff4fb6j.webp?v=1760845923
+    Price: $84.02 USD
+  - [Black / 39](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078913802478)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S7de0cc0d7f764016931df0792aff4fb6j.webp?v=1760845923
+    Price: $84.02 USD
+  - [Black / 40](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078913835246)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S7de0cc0d7f764016931df0792aff4fb6j.webp?v=1760845923
+    Price: $84.02 USD
+  - [Black / 41](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078913868014)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S7de0cc0d7f764016931df0792aff4fb6j.webp?v=1760845923
+    Price: $84.02 USD
+  - [Black / 42](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078913638638)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S7de0cc0d7f764016931df0792aff4fb6j.webp?v=1760845923
+    Price: $84.02 USD
+  - [Black / 43](https://milvertons.com/products/glam-sexy-high-heels-sandals-2025-wedding-party-style?variant=47078913671406)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/S7de0cc0d7f764016931df0792aff4fb6j.webp?v=1760845923
+    Price: $84.02 USD
 
 ## Collections
 
@@ -10698,7 +10880,7 @@
   Updated: 2024-04-16T16:48:12Z
   Total Products: 3
 - [Women's Shoes and Bags Collection](https://milvertons.com/collections/women-shoes-bags): Shop our carefully curated selection of Women's Shoes and Bags. This collection features everything from most feminine designs to timelessly classic styles.
-  Updated: 2025-10-19T03:30:00Z
+  Updated: 2025-10-19T05:26:42Z
   Total Products: 138
 - [Shoes](https://milvertons.com/collections/shoes): Shoes - A gallery of contemporary shoes
   Updated: 2025-09-07T11:03:40Z
@@ -10713,7 +10895,7 @@
   Updated: 2025-04-04T00:42:58Z
   Total Products: 66
 - [Women's Clothing Collection](https://milvertons.com/collections/womens-clothing): Discover chic and stylish women's clothing at Milvertons! Browse our collection of fashionable apparel, from timeless classics to on-trend pieces. Shop now for the ultimate fashion experience!
-  Updated: 2025-10-17T05:25:39Z
+  Updated: 2025-10-19T05:26:22Z
   Total Products: 153
 - [Men's Clothing - Menswear, Trendy Ethnic designs and more](https://milvertons.com/collections/mens-clothing): Men's Clothing - Menswear, Trendy Ethnic designs and more. Shop our Men's Clothing Collection  at Milvertons today!
   Updated: 2025-10-06T18:28:51Z
@@ -10728,7 +10910,7 @@
   Updated: 2025-09-25T17:45:57Z
   Total Products: 28
 - [Sale - Discover great prices on hot products](https://milvertons.com/collections/sale): Sale - Discover great prices on hot products. Don't miss out on these deals. Shop now and take advantage of Sales items! Click now to start browsing and saving
-  Updated: 2025-10-19T03:30:30Z
+  Updated: 2025-10-19T04:20:51Z
   Total Products: 99
 - [Milvertons Facebook Shop - Manual](https://milvertons.com/collections/milvertons-facebook-shop-old): Milvertons Facebook Shop - Manual
   Updated: 2025-10-07T08:47:27Z
@@ -10746,8 +10928,8 @@
   Updated: 2025-10-05T19:25:37Z
   Total Products: 7
 - [All Products](https://milvertons.com/collections/all): Explore our carefully curated collection of products - Women's Shoes and Bags, Women's Clothing, Men's Shoes, Men's Clothing and Clothing Accessories, and more!
-  Updated: 2025-10-18T05:25:47Z
-  Total Products: 163
+  Updated: 2025-10-19T05:25:30Z
+  Total Products: 164
 - [Gift Cards for your loved ones](https://milvertons.com/collections/gift-cards): Gift Cards - Milvertons e-gift cards for your loved ones, no expiry date, redeemable at checkout.
   Updated: 2025-09-26T06:52:18Z
   Total Products: 1
@@ -10776,23 +10958,23 @@
   Updated: 2025-10-11T07:08:01Z
   Total Products: 159
 - [All Products - Published and in stock](https://milvertons.com/collections/all-products-available-in-online-store): All Products - Published, Active and Available in the Online Store Sales Channel,
-  Updated: 2025-10-15T19:23:50Z
-  Total Products: 192
+  Updated: 2025-10-19T04:20:51Z
+  Total Products: 193
 - [All Products - OOS](https://milvertons.com/collections/all-products-oos-1): All Products - Out of stock, yet published in Online Store
   Updated: 2025-10-11T07:08:02Z
   Total Products: 158
 - [All Products - Active and Draft](https://milvertons.com/collections/all-products-active-and-draft): All Products in the store - Active and Draft
-  Updated: 2025-10-19T03:30:30Z
+  Updated: 2025-10-19T04:20:51Z
   Total Products: 517
 - [Milvertons Google Shop](https://milvertons.com/collections/milvertons-google-shop): Milvertons Google Shop - Product listings on Google
   Updated: 2025-09-24T20:00:47Z
   Total Products: 16
 - [Milvertons Facebook Shop](https://milvertons.com/collections/milvertons-facebook-shop): Milvertons Facebook Shop
-  Updated: 2025-10-15T19:47:14Z
-  Total Products: 102
+  Updated: 2025-10-19T04:20:51Z
+  Total Products: 103
 - [New Arrivals - Trendy New In](https://milvertons.com/collections/new-arrivals): Browse our New Arrivals Collection and discover why Milvertons Store is the ultimate destination for fashion-conscious individuals who want to look their best
-  Updated: 2025-10-16T00:52:35Z
-  Total Products: 46
+  Updated: 2025-10-19T05:26:08Z
+  Total Products: 47
 - [Milvertons Instagram Shop - Manual](https://milvertons.com/collections/milvertons-instagram-shop): Milvertons Instagram Shop - Manual
   Updated: 2025-10-07T08:47:27Z
   Total Products: 145
@@ -10821,7 +11003,7 @@
   Updated: 2025-10-12T09:25:47Z
   Total Products: 56
 - [UpOrder - Recommended Products](https://milvertons.com/collections/spently_products): This collection is used by the UpOrder app, to make product recommendations in your Shopify notification and auto follow up emails. It's important to note that this collection is “hidden”, it is not be visible on your website. By default, your Best-Selling products will be recommended, but you can customize what is recommend by editing the collection. The collection is updated automatically every 4 hours in order to recommend the best products to your customers in your emails. We only recommend products that are in stock, visible online, and have not been purchased by the customer receiving the notification or auto follow-up email. To enable/disable recommendations in your emails, login to the UpOrder app, remove the Recommended Products component, and re-export your template.
-  Updated: 2025-10-19T03:30:31Z
+  Updated: 2025-10-19T04:20:51Z
   Total Products: 348
 - [Black Friday & Cyber Monday Deals](https://milvertons.com/collections/bfcm-deals): Black Friday & Cyber Monday Deals - Products from this collection are on sale at 15% off. Items in this collection trigger this offer when added to your cart.
   Updated: 2023-11-29T08:14:38Z
