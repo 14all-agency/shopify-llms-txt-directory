@@ -5,7 +5,7 @@
 - Currency: CAD
 - Timezone: America/Toronto
 - Created At: 2025-08-23T11:52:48Z
-- Updated At: 2025-10-18T00:00:27.491Z
+- Updated At: 2025-10-19T08:00:30.364Z
 
 ## Products
 
@@ -1277,17 +1277,17 @@
     Availability: Available
     Price: $35.00 CAD
 - [A Special Treat / Dear Santa](https://lnlboutiquexo.myshopify.com/products/a-special-treat-dear-santa): Approximately 13” Wide X 10.5 “ Tall Spot clean only
-  Updated: 2025-10-16T03:28:17Z
+  Updated: 2025-10-18T18:19:42Z
   Vendor: L&L Boutique 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0944/0644/3318/files/84388BD2-D980-4B1F-8CBC-E3AF9A619365.jpg?v=1760541793
   - [A Special Treat](https://lnlboutiquexo.myshopify.com/products/a-special-treat-dear-santa?variant=53101724893494)
     Availability: Available
-    Price: $45.00 CAD
+    Price: $35.00 CAD
   - [Dear Santa](https://lnlboutiquexo.myshopify.com/products/a-special-treat-dear-santa?variant=53101724926262)
     Availability: Available
-    Price: $45.00 CAD
+    Price: $35.00 CAD
 - [In My Showgirl Era sweater](https://lnlboutiquexo.myshopify.com/products/in-my-showgirl-era-sweater): The unisex crewnecks are definitely one of our favourite sweaters. They are made of 50% cotton and 50% polyester, giving it a cozy, soft and comfortable feeling. True to size for a relaxed fit. Size down for a tighter fit. Please refer to sizing chart in photos for a more accurate fit & for all measurement information. Recommended to wash inside out in cold water, do not bleach, do not use fabric softener, hang to dry or tumble dry on low. Do not iron directly on decal.
   Updated: 2025-10-16T03:48:29Z
   Vendor: L&L Boutique 
@@ -1355,7 +1355,7 @@
     Availability: Available
     Price: $35.00 CAD
 - [Showgirl Tshirt](https://lnlboutiquexo.myshopify.com/products/showgirl-tshirt): SIZING: * Unisex sizing; slightly larger than typical women's shirts and slightly smaller than typical men's shirts. *Most women find their typical size works best for a loose fit *For an oversized look, size up Easy measuring tip: Take your favorite sweatshirt or tee, lay it on a flat surface and measure the width (armpit to armpit) and length (top to bottom), then compare with our size chart in the image section. * For different colour or style please directly email me (lnlboutiquexo@gmail.com) CARE INSTRUCTIONS: -Machine wash, inside out on the gentle cycle. Lay flat to dry (or tumble dry on low) -Do not iron directly on graphic print. PROCESSING : -Your shirt is made to order, meaning we print it special just for you when your order is placed. Please allow 5-7 business days for us to print your tee. -Shipping time is 4-8 business days depending on the delivery destination. RETURNS AND EXCHANGES: Because the shirts are made to order we do not accept any returns or exchanges. Please double check your sizing and color choice carefully for errors.
-  Updated: 2025-10-17T15:27:00Z
+  Updated: 2025-10-18T06:34:32Z
   Vendor: L&L Boutique 
   Product Type: 
   Availability: Available
@@ -1385,14 +1385,14 @@
     Availability: Available
     Price: $30.00 CAD
 - [Baby That’s Show Business Tshirt](https://lnlboutiquexo.myshopify.com/products/baby-that-s-show-business-tshirt): Comfort Colours Tshirt SIZING: * Unisex sizing; slightly larger than typical women's shirts and slightly smaller than typical men's shirts. *Most women find their typical size works best for a loose fit *For an oversized look, size up Easy measuring tip: Take your favorite sweatshirt or tee, lay it on a flat surface and measure the width (armpit to armpit) and length (top to bottom), then compare with our size chart in the image section. * For different colour or style please directly email me (lnlboutiquexo@gmail.com) CARE INSTRUCTIONS: -Machine wash, inside out on the gentle cycle. Lay flat to dry (or tumble dry on low) -Do not iron directly on graphic print. PROCESSING : -Your shirt is made to order, meaning we print it special just for you when your order is placed. Please allow 5-7 business days for us to print your tee. -Shipping time is 4-8 business days depending on the delivery destination. RETURNS AND EXCHANGES: Because the shirts are made to order we do not accept any returns or exchanges. Please double check your sizing and color choice carefully for errors.
-  Updated: 2025-10-17T15:25:49Z
+  Updated: 2025-10-18T05:14:35Z
   Vendor: L&L Boutique 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0944/0644/3318/files/46382038-B495-4775-86CA-6922C56E7113.jpg?v=1757033909
   Price: $30.00 CAD
 - [Huntrix Kids T](https://lnlboutiquexo.myshopify.com/products/huntrix-kids-t): SIZING: * Unisex sizing; slightly larger than typical women's shirts and slightly smaller than typical men's shirts. *Most women find their typical size works best for a loose fit *For an oversized look, size up Easy measuring tip: Take your favorite sweatshirt or tee, lay it on a flat surface and measure the width (armpit to armpit) and length (top to bottom), then compare with our size chart in the image section. * For different colour or style please directly email me (lnlboutiquexo@gmail.com) CARE INSTRUCTIONS: -Machine wash, inside out on the gentle cycle. Lay flat to dry (or tumble dry on low) -Do not iron directly on graphic print. PROCESSING : -Your shirt is made to order, meaning we print it special just for you when your order is placed. Please allow 5-7 business days for us to print your tee. -Shipping time is 4-8 business days depending on the delivery destination. RETURNS AND EXCHANGES: Because the shirts are made to order we do not accept any returns or exchanges. Please double check your sizing and color choice carefully for errors.
-  Updated: 2025-10-17T15:39:25Z
+  Updated: 2025-10-18T08:44:23Z
   Vendor: L&L Boutique 
   Product Type: 
   Availability: Available
@@ -1440,7 +1440,7 @@
   Updated: 2025-10-17T15:39:15Z
   Total Products: 14
 - [Holiday Collection](https://lnlboutiquexo.myshopify.com/collections/christmas)
-  Updated: 2025-10-17T15:39:15Z
+  Updated: 2025-10-18T18:19:43Z
   Total Products: 27
 - [Bookish Collection](https://lnlboutiquexo.myshopify.com/collections/books)
   Updated: 2025-10-02T00:40:36Z
@@ -1455,7 +1455,7 @@
   Updated: 2025-10-16T14:56:28Z
   Total Products: 1
 - [Holiday Tray](https://lnlboutiquexo.myshopify.com/collections/holiday-tray)
-  Updated: 2025-10-15T15:31:29Z
+  Updated: 2025-10-18T18:19:43Z
   Total Products: 1
 - [Music & Celebs](https://lnlboutiquexo.myshopify.com/collections/music-celebs)
   Updated: 2025-10-17T15:39:15Z
