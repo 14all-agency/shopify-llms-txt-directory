@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-10-19T04:00:47.761Z
+- Updated At: 2025-10-19T08:00:48.515Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -2094,7 +2094,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_15d0c3f5-8890-4c91-8462-a0f5ca9df560.jpg?v=1741876390
   Price: £100.00 GBP
 - [Memory Keeper Locket® Rose Gold | Lily Blanche | Keep Loved Ones Close](https://www.lilyblanche.com/products/memory-keeper-locket-rose-gold): The Memory Keeper Locket in rose gold is a beautiful and unique way to keep your loved ones close to your heart. This stunning locket can hold up to 6 photos, making it the perfect way to cherish your most precious memories. Order your Memory Keeper Locket in rose gold online and receive free photos & jewellery care kit today!
-  Updated: 2025-10-18T16:26:45Z
+  Updated: 2025-10-19T05:08:40Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -16955,7 +16955,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £140.00 GBP
 - [Men's Heavy Sterling Silver Cross Necklace - Premium Craftsmanship](https://www.lilyblanche.com/products/mens-silver-cross-necklace): Men's heavy sterling silver cross necklace. Handcrafted heirloom-quality, 44mm pendant with a choice of chains. UK-made. Free delivery, gift wrap & care kit. £140
-  Updated: 2025-10-18T17:22:05Z
+  Updated: 2025-10-19T04:46:59Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
