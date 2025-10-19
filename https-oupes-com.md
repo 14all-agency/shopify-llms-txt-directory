@@ -6,12 +6,12 @@
 - Timezone: Asia/Shanghai
 - Created At: 2021-09-03T03:31:14Z
 - Contact Email: support@oupes.com
-- Updated At: 2025-10-19T16:00:34.555Z
+- Updated At: 2025-10-19T20:00:34.896Z
 
 ## Products
 
 - [100W Portable Solar Panel - OUPES](https://oupes.com/products/oupes-100-portable-solar-panel): Charge your devices anywhere with the OUPES 100W Portable Solar Panel. Lightweight, efficient, and foldable—this 100W Portable Solar Panel is perfect for camping, RVs, and off-grid adventures.
-  Updated: 2025-10-14T16:23:31Z
+  Updated: 2025-10-19T16:18:57Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
@@ -157,7 +157,7 @@
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/mega-5-2240w-solar-panel-solar-generator-kit-545398.webp?v=1741944190
   Price: $1,999.00 USD
 - [OUPES Mega 2 Home Backup & Portable Power Station | 2500W, 2048Wh](https://oupes.com/products/oupes-mega-2-home-backup-portable-power-station-2500w-2048wh): OUPES Mega 2 Power Station with 2500W,2048Wh inverter. LiFePO4 battery, expandable to 10.24kWh. 15 outputs, HD display, full charge in 0.6 hrs. Ideal for backup and portable use.
-  Updated: 2025-10-19T14:52:12Z
+  Updated: 2025-10-19T18:28:11Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
