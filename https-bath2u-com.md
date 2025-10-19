@@ -6,7 +6,7 @@
 - Timezone: Asia/Kuala_Lumpur
 - Created At: 2022-10-06T05:47:12Z
 - Contact Email: sales@bath2u.com
-- Updated At: 2025-10-19T16:00:34.404Z
+- Updated At: 2025-10-19T20:00:34.304Z
 
 ## Products
 
@@ -1334,7 +1334,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/ITN160_ebeecd91-b1c8-49d8-96da-18cc81122742.png?v=1675130984
   Price: RM 88.00 MYR
 - [TAPI 64cm Stainless Steel Safety Grab Bar](https://bath2u.com/products/tapi-64cm-stainless-steel-safety-grab-bar): Specifications : Dimension : 645 L x 90 W x 70 H (ø32 mm) Stainless Steel Matt Finish Max. Loading Weight : 150kg
-  Updated: 2024-04-18T15:06:21Z
+  Updated: 2025-10-19T19:51:41Z
   Vendor: TAPI
   Product Type: Safety Bar
   Availability: Available
