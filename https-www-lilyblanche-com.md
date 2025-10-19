@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-10-19T12:00:48.810Z
+- Updated At: 2025-10-19T16:00:49.822Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -249,7 +249,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_6d328435-4ff4-4dfa-b450-d29002bc7336.jpg?v=1741874331
   Price: £120.00 GBP
 - [Green Amethyst Earrings Rose Gold| Lily Blanche](https://www.lilyblanche.com/products/green-amethyst-earrings-rose-gold): These green amethyst gemstone earrings in a rose gold vermeil setting have fabulous clarity, depth of colour and luminosity. Matching rings available. Free shipping. Discover our extensive collection of green amethyst jewellery.
-  Updated: 2025-10-15T21:31:41Z
+  Updated: 2025-10-19T13:56:24Z
   Vendor: Lily Blanche
   Product Type: Drop
   Availability: Available
@@ -1329,7 +1329,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_f91e685f-3e5e-47d4-adc9-1c4f5a02cd34.jpg?v=1741875240
   Price: £130.00 GBP
 - [Gold Bee Pendant | Dainty Bee Necklace](https://www.lilyblanche.com/products/bee-pendant-gold): This sweet little bee necklace is made of 18-carat gold vermeil. Also available in silver and rose gold vermeil. The perfect gift. Free jewellery care kit with all orders. Order today.
-  Updated: 2025-09-02T09:45:06Z
+  Updated: 2025-10-19T13:58:20Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -5343,7 +5343,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £165.00 GBP
 - [Silver Amethyst Charm Necklace | February Birthstone](https://www.lilyblanche.com/products/amethyst-charm-necklace-silver-february): Looking for a personalised necklace? Our genuine Amethyst necklace can be personalised with a silver initial for a stunning piece you will treasure. Perfect for February birthdays and for celebrating friendship, the Amethyst pendant comes gift-boxed. Order online today and receive a free jewellery care kit worth £20.
-  Updated: 2025-09-01T11:12:47Z
+  Updated: 2025-10-19T12:11:10Z
   Vendor: Lily Blanche
   Product Type: Birthstone
   Availability: Available
@@ -9764,7 +9764,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £110.00 GBP
 - [Sterling Silver Twist Chain | High Quality Necklace | Lily Blanche](https://www.lilyblanche.com/products/twist-chain-silver): Make a statement with this fancy, sterling silver twisted bar chain is a light-reflecting necklace which shimmers when worn. A perfect stand alone piece, this chain will add a decorative effect to any locket or pendant. Free UK Shipping & Luxury Jewellery Care Kit Worth £20 included. Express Shipping Available Online.
-  Updated: 2025-10-18T16:05:12Z
+  Updated: 2025-10-19T14:45:24Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -9788,7 +9788,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £110.00 GBP
 - [Gold Twist Chain | High Quality Necklace | Lily Blanche](https://www.lilyblanche.com/products/twist-chain-gold): This fancy, 18 carat gold vermeil twisted bar chain is a light-reflecting necklace. A perfect stand alone piece, the twist chain is similar to Gemma Owen's necklace on Love Island 2022. Free UK Shipping. Free jewellery care kit included worth £20. Order yours online today. Express delivery is available.
-  Updated: 2025-10-13T23:10:21Z
+  Updated: 2025-10-19T14:37:24Z
   Vendor: Lily Blanche
   Product Type: Choose Your Chain
   Availability: Available
@@ -9812,7 +9812,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £135.00 GBP
 - [Rose Gold Twist Chain | Premium Quality Necklace | Lily Blanche](https://www.lilyblanche.com/products/twist-chain-rose-gold): This fancy, 18 carat rose gold vermeil twisted bar chain is a light-reflecting necklace. A perfect stand alone piece, the twist chain will add a decorative effect to any locket or pendant. Free Jewellery Care Kit included & Free UK Shipping. Express Shipping Available. Explore quality chains & necklaces online today.
-  Updated: 2025-10-02T16:35:21Z
+  Updated: 2025-10-19T14:52:25Z
   Vendor: Lily Blanche
   Product Type: Choose Your Chain
   Availability: Available
@@ -9833,7 +9833,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £135.00 GBP
 - [White Gold Vermeil Twist Chain High Quality Necklace](https://www.lilyblanche.com/products/twist-chain-white-gold): Need a quality statement necklace? This fancy, white gold vermeil twisted bar chain is a light-reflecting necklace. A perfect stand-alone piece, the Twist Chain will add a decorative effect to any locket or pendant. Trusted UK jewellery brand with over 1500 five-star reviews on Trustpilot. Free UK shipping.
-  Updated: 2025-09-20T23:50:40Z
+  Updated: 2025-10-19T14:30:24Z
   Vendor: Lily Blanche
   Product Type: Choose Your Chain
   Availability: Available
@@ -15728,13 +15728,13 @@ We take vintage jewellery designs and give them a modern twist by combining them
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_892d66ff-d56a-4be7-ba20-89281ad4bba3.jpg?v=1741884250
   Price: £90.00 GBP
 - [2 Photo Diamond Heart Locket Silver + Photos](https://www.lilyblanche.com/products/2-photo-diamond-heart-locket-silver): Handcrafted in premium sterling silver & featuring a genuine diamond, this bestselling locket holds two photos, letting you keep loved ones close. Choice of chain lengths. Free care kit
-  Updated: 2025-10-17T22:00:05Z
+  Updated: 2025-10-19T15:15:35Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/files/diamond_photo_heart_silver_locket_1_1080.jpg?v=1741884265
   - [16 inch (41 cm) Curb Chain](https://www.lilyblanche.com/products/2-photo-diamond-heart-locket-silver?variant=45524417806654)
-    Availability: Available
+    Availability: Not Available
     Price: £135.00 GBP
   - [18 inch (46 cm) Curb Chain](https://www.lilyblanche.com/products/2-photo-diamond-heart-locket-silver?variant=44782906999102)
     Availability: Available
@@ -16847,7 +16847,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £250.00 GBP
 - [Personalised  Diamond Heart Photo Locket | Engraved 18ct Gold Vermeil](https://www.lilyblanche.com/products/2-photo-diamond-heart-locket-gold): Keep loved ones close this Christmas with our best-selling Diamond Heart Photo Locket. Personalised FREE with 2 Photos. Engraved. Hallmarked 18ct gold vermeil. Order now for Christmas delivery. Rated 4.8/5 from 1627 reviews
-  Updated: 2025-10-17T21:14:18Z
+  Updated: 2025-10-19T12:51:10Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -16955,7 +16955,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £140.00 GBP
 - [Men's Heavy Sterling Silver Cross Necklace - Premium Craftsmanship](https://www.lilyblanche.com/products/mens-silver-cross-necklace): Men's heavy sterling silver cross necklace. Handcrafted heirloom-quality, 44mm pendant with a choice of chains. UK-made. Free delivery, gift wrap & care kit. £140
-  Updated: 2025-10-19T11:06:23Z
+  Updated: 2025-10-19T15:37:28Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
