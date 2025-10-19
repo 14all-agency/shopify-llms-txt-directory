@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-10-18T20:01:04.273Z
+- Updated At: 2025-10-19T00:01:03.694Z
 
 ## Products
 
@@ -9077,7 +9077,7 @@
     Availability: Available
     Price: ‏112.99 ‏₪ ILS
 - [חולצת נבחרת צ'ילה בית 2024](https://www.rsport.co.il/products/חולצת-נבחרת-צילה-בית-2024): חולצת נבחרת צ'ילה בית 2024, שרוול קצר, בצבע אדום עשויה מ-100% פוליאסטר המספק נוחות ואוורור במהלך פעילות ספורטיבית. עם גזרה רגילה ולוגו רקום, היא מתאימה לשימוש יומיומי ולסגנונות ספורטיביים מגוונים.
-  Updated: 2025-10-18T02:47:32Z
+  Updated: 2025-10-18T21:27:54Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
@@ -29843,7 +29843,7 @@
     Availability: Available
     Price: ‏150.00 ‏₪ ILS
 - [חולצת משחק ארוכה מנצ'סטר יונייטד בית 25/26 | גברים](https://www.rsport.co.il/products/football-shirt-ls-mnu-home-25-26-men): חולצה ארוכה במראה ביתי של מנצ'סטר יונייטד לעונת 2025/26, בגזרה רגילה ונוחה. עשויה 100% פוליאסטר איכותי ונושם, שמספק תחושת נוחות לאורך כל היום. העיצוב כולל את הצבע האדום הקלאסי של הקבוצה, סמל רקום וגרפיקה בהשראת אולד טראפורד על השרוולים. מתאימה למשחק, אימון או ללבוש יומיומי, עם דגש על נוחות וסטייל.
-  Updated: 2025-10-05T13:38:23Z
+  Updated: 2025-10-18T23:31:13Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
