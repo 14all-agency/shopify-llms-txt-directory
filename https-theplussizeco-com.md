@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-06-10T17:50:10Z
 - Contact Email: tejusentprs@gmail.com
-- Updated At: 2025-10-19T00:00:32.280Z
+- Updated At: 2025-10-19T04:00:33.111Z
 
 ## Products
 
@@ -78,7 +78,7 @@
   Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/Pink_Floral_Cotton_Straight_Cut_Suit_Set_8.jpg?v=1753159167
   Price: ₹1,195.00 INR
 - [Plus Size Rose Pink Floral Cotton Straight Cut Suit-The Plus Size Co.](https://theplussizeco.com/products/rose-pink-floral-cotton-straight-cut-suit)
-  Updated: 2025-10-17T06:45:51Z
+  Updated: 2025-10-19T00:54:18Z
   Vendor: The Plus Size Co.
   Product Type: Suit Sets
   Availability: Available
@@ -679,7 +679,7 @@
     Availability: Available
     Price: ₹1,195.00 INR
 - [Plus Size Soft Pink Floral Cotton Suit Set- The Plus Size Co.](https://theplussizeco.com/products/soft-pink-floral-cotton-suit-set): ush in style with the charm of our Soft Pink Floral Cotton Suit Set. Features cotton fabric and 3/4th sleeves. Paired with pant and dupatta. Sizes XL to 10XL.
-  Updated: 2025-10-06T11:19:22Z
+  Updated: 2025-10-19T03:46:08Z
   Vendor: The Plus Size Co.
   Product Type: Suit Sets
   Availability: Available
@@ -829,7 +829,7 @@
   Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/WomenPlusSizeHotPinkFloralSuitSet_2.png?v=1758625098
   Price: ₹1,295.00 INR
 - [Black Floral Cotton Suit Set- The Plus Size Co.](https://theplussizeco.com/products/black-floral-cotton-suit-set): Serenity in every stitch with our Black Floral Cotton Suit Set. Features cotton fabric and 3/4th sleeves. Paired with pant and dupatta. Sizes in XL to 10XL.
-  Updated: 2025-10-16T19:25:05Z
+  Updated: 2025-10-19T03:46:05Z
   Vendor: The Plus Size Co.
   Product Type: Suit Sets
   Availability: Available
