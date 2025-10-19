@@ -6,7 +6,7 @@
 - Timezone: Asia/Kuwait
 - Created At: 2025-09-29T02:15:58Z
 - Contact Email: elitebuzkw@gmail.com
-- Updated At: 2025-10-19T16:00:38.165Z
+- Updated At: 2025-10-19T20:00:36.119Z
 
 ## Products
 
@@ -1346,7 +1346,7 @@
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-78587814.jpg?v=1760189489
   Price: ‏12.00 د.ك.‏ KWD
 - [سيارة دز للأطفال خفيفة وآمنة - Dar Toys || متجر دار تويز](https://dartoys.com/products/سيارة-دز-للأطفال-خفيفة-وآمنة): امنح طفلك تجربة لعب ممتعة وآمنة مع سيارة الدز المصممة خصيصًا للأطفال من عمر سنة ونصف وأكثر. تتميز  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-19T01:26:25Z
+  Updated: 2025-10-19T16:26:22Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
@@ -1374,7 +1374,7 @@
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-78590358.jpg?v=1760189505
   Price: ‏9.50 د.ك.‏ KWD
 - [سيارة دز للأطفال على شكل بطة لطيفة - Dar Toys || متجر دار تويز](https://dartoys.com/products/سيارة-دز-للأطفال-على-شكل-بطة-لطيفة): أضف المرح إلى يوم طفلك مع سيارة دز على شكل بطة لطيفة، المصممة خصيصًا لتشجيع الأطفال على الحركة  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-19T01:25:53Z
+  Updated: 2025-10-19T16:03:56Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
@@ -4334,18 +4334,18 @@
     Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-146606351.png?v=1760441254
     Price: ‏14.00 د.ك.‏ KWD
 - [دراجة ثلاثية للأطفال لون أحمر مع مظلة | متوفرة باللون الوردي، الأزرق،](https://dartoys.com/products/دراجة-ثلاثية-للأطفال-لون-أحمر-مع-مظلة-متوفرة-باللون-الوردي-الأزرق-الأحمر): امنح طفلك تجربة قيادة مريحة وآمنة مع هذه الدراجة ثلاثية العجلات بتصميم عصري باللون الأحمر الجذاب.  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-19T00:26:25Z
+  Updated: 2025-10-19T19:18:50Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-147073146.png?v=1760443805
+  Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/Dar_Toys-147073146.png?v=1760901529
   - [أزرق](https://dartoys.com/products/دراجة-ثلاثية-للأطفال-لون-أحمر-مع-مظلة-متوفرة-باللون-الوردي-الأزرق-الأحمر?variant=43975920091251)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-147073336.png?v=1760443807
     Price: ‏14.00 د.ك.‏ KWD
   - [وردي](https://dartoys.com/products/دراجة-ثلاثية-للأطفال-لون-أحمر-مع-مظلة-متوفرة-باللون-الوردي-الأزرق-الأحمر?variant=43975920124019)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-147073146.png?v=1760443805
+    Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/Dar_Toys-147073146.png?v=1760901529
     Price: ‏14.00 د.ك.‏ KWD
   - [أحمر](https://dartoys.com/products/دراجة-ثلاثية-للأطفال-لون-أحمر-مع-مظلة-متوفرة-باللون-الوردي-الأزرق-الأحمر?variant=43975920156787)
     Availability: Available
