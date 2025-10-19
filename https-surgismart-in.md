@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-03-10T14:11:59Z
 - Contact Email: info@surgismart.in
-- Updated At: 2025-10-18T16:00:34.295Z
+- Updated At: 2025-10-19T00:00:34.286Z
 
 ## Products
 
@@ -1936,7 +1936,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/2_954ded7a-f479-432d-a6af-7b4064d52110.jpg?v=1751478370
   Price: ₹1,279.00 INR
 - [Buy ​Medvance OT Gown - Surgismart](https://surgismart.in/products/medvance-ot-gown): This Medvance OT Gown is designed to provide maximum comfort and protection for healthcare professionals during procedures. Made with high-quality materials, it offers 100% fluid resistance, ensuring a safe and sterile environment. Its lightweight and breathable design allows for ease of movement without compromising safety. - Surgismart
-  Updated: 2025-10-15T09:37:06Z
+  Updated: 2025-10-18T16:25:30Z
   Vendor: Medvance Surgicals
   Product Type: 
   Availability: Available
