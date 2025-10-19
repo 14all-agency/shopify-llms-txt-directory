@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2018-01-12T21:20:39Z
 - Contact Email: contact@ma-boutique-henne.com
-- Updated At: 2025-10-18T20:00:38.833Z
+- Updated At: 2025-10-19T00:00:42.463Z
 
 ## Products
 
@@ -1782,7 +1782,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/henne-blond-dore.png?v=1605703923
   Price: 19,50 € EUR
 - [Henné Rouge Renforcé Intense - Exclusivité Ma Boutique Henné](https://ma-boutique-henne.com/products/henne-rouge-renforce): Henné rouge renforcé intense, coloration cheveux rouges, flamboyant, 1,5% sodium picramate (taux réduit pour préserver votre santé) couvre les cheveux blancs, temps de pose réduit et soin des cheveux, auburn, bordeaux
-  Updated: 2025-10-18T17:11:15Z
+  Updated: 2025-10-18T20:59:20Z
   Vendor: Ma Boutique Henné
   Product Type: Henné
   Availability: Available
@@ -2118,7 +2118,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/files/shampoing-creme-cheveux-normaux.jpg?v=1760086169
   Price: 9,90 € EUR
 - [Shampoing Démêlant et Fixateur de Couleur, Grenade Bio - Centifolia](https://ma-boutique-henne.com/products/shampoing-demelant-et-fixateur-de-couleur-grenade-bio-centifolia): shampoing hydratant cheveux normaux secs amande douce aloe vera Centifolia, naturel bio, vegan, centifolia, hydrater cheveux soin capillaire, henne, cosmetique
-  Updated: 2025-10-18T13:33:25Z
+  Updated: 2025-10-18T20:59:20Z
   Vendor: Ma Boutique Henné
   Product Type: Shampoing
   Availability: Available
