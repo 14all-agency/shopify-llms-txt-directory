@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-10-19T00:00:47.943Z
+- Updated At: 2025-10-19T04:00:47.761Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -19123,7 +19123,7 @@ From £119
     Availability: Available
     Price: £730.00 GBP
 - [Men's St Christopher Necklace Solid White Gold + Engraving](https://www.lilyblanche.com/products/mens-large-st-christopher-necklace-white-gold): Give a meaningful gift with our classic Men's St Christopher Necklace in solid white gold.  Personalise with free engraving. Free shipping & care kit today
-  Updated: 2025-10-18T16:05:11Z
+  Updated: 2025-10-19T02:14:15Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -20305,7 +20305,7 @@ From £119
     Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/files/gold_hexagon_st_christopher_necklace_curb_square.webp?v=1741872849
     Price: £730.00 GBP
 - [St Christopher Necklace Solid White Gold + Engraving](https://www.lilyblanche.com/products/large-st-christopher-necklace-white-gold-engraving): Give a meaningful gift with our timeless & stylish St Christopher Necklace in solid white gold.  Personalise with free engraving. Free shipping & care kit today
-  Updated: 2025-10-18T16:05:11Z
+  Updated: 2025-10-19T02:51:33Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
