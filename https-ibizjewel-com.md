@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-01-24T04:49:01Z
 - Contact Email: info@ibizjewel.com
-- Updated At: 2025-10-19T08:00:51.312Z
+- Updated At: 2025-10-19T12:00:51.515Z
 
 ## Products
 
@@ -43916,7 +43916,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-271_5.jpg?v=1716895552
     Price: $1,010.00 USD
 - [Moissanite 3.30 CT Cushion  Diamond Edwardian Anniversary Ring](https://ibizjewel.com/products/moissanite-3-30-ct-cushion-diamond-edwardian-anniversary-ring): Crafted With Expert Precision And Design, Our Moissanite 3.30ct Cushion Diamond Edwardian Anniversary Ring Showcases A Stunning 3.30Carat Cushion-cut Moissanite Stone. This Elegant Ring Combines Old-world Charm With Modern Luxury, Making It The Perfect Choice To Celebrate Your Special Anniversary.
-  Updated: 2025-10-02T10:31:15Z
+  Updated: 2025-10-19T09:29:42Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Cushion Diamond Ring
   Availability: Available
