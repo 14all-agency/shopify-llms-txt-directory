@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2025-10-19T08:00:55.804Z
+- Updated At: 2025-10-19T12:00:52.818Z
 
 ## Products
 
@@ -8460,7 +8460,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/High-Neck-Long-Sleeve-Ribbed-Top-Brinxx-Couture-6079_ae99505f-4811-4797-bf89-89c3a0f73de1.jpg?v=1736050169
     Price: $25.00 USD
 - [Distressed Raw Hem Denim Jacket - Brinxx Couture](https://www.brinxxcouture.com/products/distressed-raw-hem-denim-jacket): This distressed raw hem denim jacket is the perfect way to make a statement. With its distressed raw hem design, you'll look cool and effortless.
-  Updated: 2025-10-19T06:32:10Z
+  Updated: 2025-10-19T08:52:30Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -21348,7 +21348,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Ruched-Midi-Dress-Long-Sleeve-Brinxx-Couture-5310.jpg?v=1730296020
     Price: $25.00 USD
 - [Ribbed Bodycon Midi Dress - Brinxx Couture](https://www.brinxxcouture.com/products/ribbed-bodycon-midi-dress): Elevate your style with our Ribbed Bodycon Midi Dress! This dress features a flattering bodycon fit and a unique ribbed texture that adds dimension to any outfit.
-  Updated: 2025-10-14T13:18:06Z
+  Updated: 2025-10-19T11:42:45Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -21402,7 +21402,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Ribbed-Bodycon-Midi-Dressdress-Brinxx-Couture-3532.jpg?v=1730296064
     Price: $25.00 USD
   - [Gold / S](https://www.brinxxcouture.com/products/ribbed-bodycon-midi-dress?variant=43386725531830)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Ribbed-Bodycon-Midi-Dressdress-Brinxx-Couture-9314.jpg?v=1730296078
     Price: $25.00 USD
   - [Gold / M](https://www.brinxxcouture.com/products/ribbed-bodycon-midi-dress?variant=43386725564598)
@@ -23343,7 +23343,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Notch-Lapel-Woven-Coat-with-Side-Pockets-Brinxx-Couture-2936.jpg?v=1730297108
     Price: $40.00 USD
 - [Cable-Knit Round Neck Sweater Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress): Wrap yourself in cozy comfort and timeless style with our Cable-Knit Round Neck Sweater Dress! Made from soft, high-quality materials.
-  Updated: 2025-10-19T06:31:52Z
+  Updated: 2025-10-19T10:30:42Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -26003,7 +26003,7 @@
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/18K-Gold-Plated-Stainless-Steel-Stud-Earring-Brinxx-Couture-9396.jpg?v=1733888456
   Price: $15.00 USD
 - [Velvet Button Up Long Sleeve Shirt - Brinxx Couture](https://www.brinxxcouture.com/products/button-up-long-sleeve-shirt): Discover the versatility and style of our Velvet Button Up Long Sleeve Shirt! With its classic design and comfortable fit, this shirt is perfect for any occasion.
-  Updated: 2025-10-18T09:00:42Z
+  Updated: 2025-10-19T09:20:41Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
