@@ -6,7 +6,7 @@
 - Timezone: Europe/Madrid
 - Created At: 2022-07-18T15:24:40Z
 - Contact Email: info@hifimediastore.com
-- Updated At: 2025-10-19T16:01:15.015Z
+- Updated At: 2025-10-19T20:01:16.170Z
 
 ## Products
 
@@ -4210,7 +4210,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/128GB_Negro_Titan_Black_Dual_SIM_CPH2449_-_Hifi_Media_Store-988268.jpg?v=1719041017
   Price: 665,99 € EUR
 - [OPPO A57 4GB/64GB Negro (Glowing Black) Dual SIM CPH2387](https://hifimediastore.com/products/oppo-a57-4gb-64gb-negro-glowing-black-dual-sim-cph2387): OPPO A57  Batería de 5000 mAh Carga rápida SuperVooc 33W Pantalla de 6.52" Altavoz estéreo ultralineal Doble cámara trasera de 13 MP
-  Updated: 2025-10-13T20:35:16Z
+  Updated: 2025-10-19T17:55:11Z
   Vendor: Oppo
   Product Type: Smartphone
   Availability: Available
@@ -5015,7 +5015,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/gr_auriculares-logitech-stereo-headset-h111_127745_10_89833578-6aa7-4744-a336-839cb2d8f5b6.jpg?v=1756462304
   Price: 19,99 € EUR
 - [Logitech H650E - Auriculares Estéreo con Micro USB y Cancelación de ruido](https://hifimediastore.com/products/auriculares-con-micro-logitech-h650e-stereo-usb-cancelacion-de-ruido): Auriculares Sofisticados para Profesionales Ocupados El personal de ventas, los representantes de atención al cliente y otros comerciales que se pasan el día al teléfono apreciarán el diseño y la comodidad de Logitech H650e. Sofisticado tanto en aspecto como en tecnología, H650e ofrece audio nítido con funciones como cancelación de eco acústico y un micrófono de varilla con supresión de ruido. Todo pensado para que las llamadas sean lo más cómodas y productivas posible. Atractivo y Elegante La atención por el detalle es lo que distingue a Logitech H650e Headset. Es perfecto para la gente a la que le importan esos toques interesantes como los intuitivos controles integrados en el cable para ajustar el volumen y una brillante luz LED para que los demás sepan que se está en una llamada. Audio con Calidad para la Empresa Los auriculares H650e ofrecen funcionalidad además de estilo. Se trata de unos auriculares con micrófono profesionales, con procesamiento de señal digital, cancelación de eco acústico, audio de banda ancha, ecualizador dinámico y micrófono con supresión de ruido. El personal de ventas y los representantes de atención al cliente pueden realizar y recibir llamadas con absoluta nitidez. Diseño para los Negocios Las certificaciones con los principales programas de software garantizan una experiencia integrada con aplicaciones como Skype for Business y Cisco Jabber™. Un cable plano sin enredos se conecta al puerto USB en un Mac o PC con toda la simplicidad de Plug and Play. Sí, Estoy en una Llamada Situado en la parte posterior de la varilla, un indicador LED sirve como alerta visual para advertir a otros de que está hablando y evitarle interrupciones durante sus llamadas.1 Cancelación de Eco y Supresión de Ruido Con cancelación de eco y micrófono con supresión de ruido, H650e se ha optimizado para oír y que le oigan incluso en los entornos más ruidosos. Controles Intuitivos Controle la llamada mediante los botones de respuesta/finalización,1 subir/bajar volumen y silencio. El botón de aumento de volumen está en una posición superior a la de los demás, para servir como punto de referencia y facilitar el control sin desviar la atención del trabajo. Cable sin Enredos Un cable plano y flexible resiste enredos para que nunca se atasque en una llamada. Audición Segura Logitech Sound Protection protege contra sonidos superiores a 115 dBA, para escuchar música y voz con total comodidad; conforme a EN60950-1. Optimización para Voz y Música Un ecualizador dinámico cambia automáticamente de modo de música a modo de voz, con la mejor calidad de sonido posible en cada caso. Especificaciones: Desempeño Utilizar con: Centro de llamadas/Oficina Diseño Estilo de uso: Diadema Tipo de auricular: Binaural Color del producto: Negro, Plata Puertos e Interfaces Tecnología de conectividad: Alámbrico Dispone de Conexión USB Auriculares Audifonos: Supraaural Frecuencia de auricular: 50 - 10000 Hz Sensibilidad de auricular: 90 dB THD, distorción armónica total: 4% Micrófono Frecuencia de micrófono: 100 - 10000 Hz Sensibilidad de micrófono: -45 dB Tipo de dirección de micrófono: Bidirectional microphone Tipo de transductor: Condensador eléctrico trasero Dispone de Micrófono mudo Requisitos del sistema Sistema operativo Windows soportado: Windows 7 Home Basic,Windows 7 Home Basic x64,Windows 7 Home Premium,Windows 7 Home Premium x64,Windows 7 Professional,Windows 7 Professional x64,Windows 7 Starter,Windows 7 Starter x64,Windows 7 Ultimate,Windows 7 Ultimate x64,Windows 8,Windows 8 Enterprise,Windows 8 Enterprise x64,Windows 8 Pro,Windows 8 Pro x64,Windows 8 x64,Windows Vista Business,Windows Vista Business x64,Windows Vista Enterprise,Windows Vista Enterprise x64,Windows Vista Home Basic,Windows Vista Home Basic x64,Windows Vista Home Premium,Windows Vista Home Premium x64,Windows Vista Ultimate,Windows Vista Ultimate x64 Sistema operativo MAC soportado: Mac OS X 10.7 Lion,Mac OS X 10.8 Mountain Lion Peso y dimensiones Ancho: 174 mm Profundidad: 50 mm Altura: 165 mm Peso: 120 g
-  Updated: 2025-10-18T23:59:03Z
+  Updated: 2025-10-19T18:25:36Z
   Vendor: Logitech
   Product Type: Todos los auriculares
   Availability: Available
@@ -6142,7 +6142,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/ultimate-ears-everboom-altavoz-inalambri_407153_3.jpg?v=1756457453
   Price: 291,99 € EUR
 - [Sharp HT-SBW182 - Barra de Sonido Slim 2.1 con Subwoofer Inalámbrico 160W](https://hifimediastore.com/products/sharp-ht-sbw182-barra-de-sonido-slim-2-1-con-subwoofer-inalambrico-160w): No importa cuál sea tu serie favorita o esa lista de reproducción que te encanta: tu sistema Sharp cuenta con audio de canal 2.1 con 2 drivers de altavoces de rango completo y un subwoofer especial para recrear el sonido del cine/la discoteca en tu hogar. Características: Bluetooth: Simple, rápido, flexible: usa Bluetooth para conectar de forma inalámbrica tu dispositivo de audio Sharp a otros dispositivos, como tu smartphone o tablet. Hace que tus opciones sean aún más versátiles. HDMI ARC/CEC: Conexiones fáciles: con HDMI ARC, solo necesitarás un cable para conectar tu barra de sonido Sharp a tu TV. La calidad de transmisión es extremadamente estable y libre de interferencias. El HDMI CEC ordena las cosas en el mando a distancia al mismo tiempo. Tu barra de sonido no necesitará ningún control extra, y simplemente la controlarás con el mando de tu TV. Ajustes preestablecidos del ecualizador (EQ): El ecualizador te permite ajustar el sonido de forma acorde con tus preferencias: los ajustes preestablecidos están diseñados para adaptarse a la perfección a tu estilo de música o entretenimiento. Entrada óptica digital: Si no puedes o no deseas conectar tu barra de sonido a través del HDMI, no te preocupes, pues las entradas ópticas son la próxima opción mejor. La señal digital utilizada en la conexión óptica es menos propensa a las interferencias que una señal analógica, y también puede ser compatible con el sonido envolvente Dolby Digital. Compatible con cualquier TV: No hay excusas para no mejorar tu experiencia de entretenimiento en casa: todas las barras de sonido Sharp están diseñadas para ser compatibles con cualquier TV que tenga una conexión HDMI ARC, una conexión óptica digital o una conexión de auriculares (aux). Mando a distancia: Encendido o apagado, con un volumen alto o bajo: podrás controlar fácilmente las funciones de tu dispositivo de audio Sharp con el mando a distancia. Desde la comodidad de tu sofá, por ejemplo. Y, no te preocupes, se incluyen las pilas. Especificaciones: Audio Canales de salida de audio: 2.1 canales Potencia estimada RMS: 160 W Ecualizador: Si Canal de retorno de audio (ARC): Si Subwoofer Subwoofer incluido: Si Conectividad del altavoz de subgraves (subwoofer): Inalámbrico Características Color del producto: Negro Interruptor de encendido/apagado integrado: Si Montaje de pared: Si Uso de soporte de TV: No Certificación: CE (EMC), CB (Safety), ErP (Energy) Puertos e Interfaces Tecnología de conectividad: Inalámbrico y alámbrico Bluetooth: Si Versión de Bluetooth: 4.2 Wifi: No Número de puertos HDMI: 1 Puerto USB: Si Cantidad de puertos USB 2.0: 1 Audio digital, entrada óptica: 1 Entrada auxiliar: Si Enchufe de entrada de CC: Si Control de energía Voltaje de entrada AC: 220 - 240 V Frecuencia de entrada AC: 50 Hz Consumo de energía (inactivo): 0,5 W Peso y dimensiones Ancho: 740 mm Profundidad: 80,5 mm Altura: 63 mm Peso de la barra de sonido: 1,3 kg Ancho de subwoofer: 15 cm Profundidad de subwoofer: 20,2 cm Altura de subwoofer: 25 cm Peso de subwoofer: 1,7 kg Contenido del embalaje Kit de montaje en pared: Si Cables incluidos: Corriente alterna Mando a distancia: Si Otras características Manual de usuario: Si
-  Updated: 2025-10-19T12:59:17Z
+  Updated: 2025-10-19T19:00:38Z
   Vendor: SHARP
   Product Type: Altavoces
   Availability: Available
@@ -6303,7 +6303,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/13237.jpg?v=1723762227
   Price: 217,99 € EUR
 - [Xiaomi Redmi Pad SE 11" 8GB/256GB Wi-Fi Gris Grafito (Graphite Gray) 23073RPBFG](https://hifimediastore.com/products/xiaomi-redmi-pad-se-11-8gb-256gb-wi-fi-gris-grafito-graphite-gray-23073rpbfg): Xiaomi Redmi Pad SE:  Pantalla IPS LCD de 11" FHD+ y 90Hz Chip Qualcomm Snapdragon 680 4G (6 nm) Batería de 8.000 mAh y carga rápida de 10W Cuatro Altavoces compatibles con Dolby Atmos® Conector para auriculares de 3,5 mm MIUI Pad 14 con Android 13
-  Updated: 2025-10-19T05:20:16Z
+  Updated: 2025-10-19T18:55:15Z
   Vendor: Xiaomi
   Product Type: Tablet's
   Availability: Available
@@ -6387,7 +6387,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/15970.jpg?v=1723764044
   Price: 300,99 € EUR
 - [Samsung Galaxy Tab S6 Lite 2024 10,4" 4GB/64GB Wi-Fi Gris (Oxford Gray) P620](https://hifimediastore.com/products/samsung-galaxy-tab-s6-lite-2024-104-4gb-64gb-wi-fi-gris-oxford-gray-p620): Samsung Galaxy Tab S6 Lite 2024:  Procesador Octa-Core Qualcomm Snapdragon 720G (8 nm) Pantalla 10,4" LCD FHD+ Cámara Principal 8 MP, HDR y vídeo 1080 p Batería 7040 mAh y carga rápida de 15W Android 14, One UI 6.1
-  Updated: 2025-10-18T22:25:12Z
+  Updated: 2025-10-19T18:40:10Z
   Vendor: Samsung
   Product Type: Tablet's
   Availability: Available
@@ -6562,7 +6562,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/18123.jpg?v=1724781908
   Price: 696,99 € EUR
 - [Google Pixel 9 Pro XL 5G 16GB/256GB Negro (Obsidian) Dual SIM](https://hifimediastore.com/products/google-pixel-9-pro-xl-5g-16gb-256gb-negro-obsidian-dual-sim): Google Pixel 9 Pro XL:  Pantalla Super Actua OLED de 6,8", HDR10+ Y 120Hz Procesador Google Tensor G4 La mejor Cámara Pixel La IA más avanzada Batería de 5060 mAh y carga rápida de 45W Diseño elegante y duradero Android 14
-  Updated: 2025-10-18T01:05:16Z
+  Updated: 2025-10-19T17:25:16Z
   Vendor: Google
   Product Type: Smartphone
   Availability: Available
@@ -6751,7 +6751,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/18288.jpg?v=1726095959
   Price: 55,99 € EUR
 - [OnePlus Nord Buds 3 Pro Auriculares Bluetooth Verde (Soft Jade)](https://hifimediastore.com/products/oneplus-nord-buds-3-pro-auriculares-bluetooth-verde-soft-jade): OnePlus Nord Buds 3 Pro:  Cancelación activa de ruido de hasta 49 dB Hasta 44 horas de reproducción Carga rápida Bluetooth 5.4 Control de volumen táctil Resistencia al agua y al polvo IP55
-  Updated: 2025-10-17T18:45:20Z
+  Updated: 2025-10-19T17:55:15Z
   Vendor: OnePlus
   Product Type: Bluetooth
   Availability: Available
@@ -6793,7 +6793,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/18376.jpg?v=1726272355
   Price: 264,99 € EUR
 - [Apple iPhone 16 128GB Blanco (White)](https://hifimediastore.com/products/apple-iphone-16-128gb-blanco-white): Apple iPhone 16:  Pantalla Super Retina XDR OLED Chip A18 Control de cámara Velocidad 5G Fabricado en Ceramic Shield iOS 18  * Es posible que este iPhone no incluya cargador, ni auriculares en la caja original.
-  Updated: 2025-10-19T04:05:10Z
+  Updated: 2025-10-19T17:40:10Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
@@ -6947,7 +6947,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/18772.jpg?v=1727291712
   Price: 27,99 € EUR
 - [Bose Ultra Open Earbuds - Auriculares Bluetooth de Diseño Abierto Plata](https://hifimediastore.com/products/bose-ultra-open-earbuds-auriculares-bluetooth-de-diseno-abierto-plata): Bose Ultra Open Earbuds, auriculares inalámbricos con diseño abierto, audio inmersivo, control táctil, resistencia IPX4, Bluetooth v5.3 y autonomía de hasta 27 horas, plata Los Bose Ultra Open Earbuds son unos auriculares inalámbricos con diseño abierto que combinan una excelente calidad de sonido con una gran comodidad y permiten escuchar lo que ocurre a tu alrededor. Incorporan botones táctiles en cada auricular que posibilitan cambiar de modo estéreo a modo inmersivo, pausar y reproducir fácilmente. Además, cuentan con función de volumen automático, adaptándose a los sonidos del entorno. Por otro lado, su estructura es resistente al agua y está equipada con un sistema de 4 micrófonos para llamadas manos libres. Todo esto con una batería con hasta 27 horas de autonomía con su estuche de carga. Diseño abierto con tecnología OpenAudio El diseño abierto de los Bose Ultra Open Earbuds posee una junta flexible y un agarre ligero que logra un ajuste perfecto a la oreja sin ejercer presión. Además, combina un reconocimiento de lo que sucede en el entorno con un sonido intenso y privado gracias a la tecnología OpenAudio. Función de volumen automático y controles integrados Los Ultra Open Earbuds incluyen controles en cada auricular para alternar entre el modo estéreo y el modo inmersivo, pausar y reproducir música. Asimismo, su control de volumen automático ajusta el mismo acorde al ruido del entorno. Protección IPX4 y Bluetooth v5.3 La estructura de estos auriculares Bose es resistente al agua con certificación IPX4, excelente para realizar actividad física al aire libre. Además, su conectividad Bluetooth v5.3 garantiza un emparejamiento estable, sin la molestia de cables. Batería con una gran autonomía de hasta 7,5 horas La batería de los Ultra Open Earbuds permite hasta 7,5 horas de reproducción continuas y hasta 19,5 horas extra con el estuche de carga. Su carga rápida brinda hasta 2 horas extra con 10 minutos de carga. Especificaciones: Marca: Bose Modelo: Ultra Open Earbuds Sonido: Tecnología OpenAudio Función de audio inmersivo 4 micrófonos por auricular Conexión inalámbrica: Bluetooth v5.3 Alcance: Hasta 9 metros Características: Resistencia al agua IPX4 Diseño abierto Llamadas manos libres Control táctil App Bose Music (Android e iOS) Batería: Tipo: Iones de litio Autonomía: Hasta 7,5 horas (Carga)/Hasta 27 horas (Caja de carga) Tiempo de carga: Hasta 1 hora (Auricular)/Hasta 3 horas (Caja de carga) Carga rápida: 10 minutos para 2 horas Método de carga: USB Tipo C Materiales: plástico, chapado de oro y silicona Dimensiones: Auriculares: 1,9 x 1,7 x 2,7 cm Caja de carga: 4,2 x 6,5 x 2,6 cm Color: Plata Contenido de la caja: 2 x Auriculares Bose Ultra Open Earbuds Plata (Izquierdo y derecho) 1 x Estuche de carga 1 x Cable USB Tipo C 30 cm 1 x Manual de usuario 1 x Ficha de seguridad
-  Updated: 2025-10-19T12:59:17Z
+  Updated: 2025-10-19T19:00:38Z
   Vendor: Bose
   Product Type: 
   Availability: Available
@@ -7038,7 +7038,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/19294.jpg?v=1730316067
   Price: 1122,99 € EUR
 - [Samsung Galaxy A16 5G 4GB/128GB Gris (Light Gray) Dual SIM SM-A166](https://hifimediastore.com/products/samsung-galaxy-a16-5g-4gb-128gb-gris-light-gray-dual-sim-sm-a166): Samsung Galaxy A16 5G:  Pantalla FHD+ Super AMOLED de 6,7" Cámara triple de 50 MP y cámara selfie de 13 MP Batería de 5000 mAh Carga rápida de 25W Procesador Octa-core Conexión 5G  *Términos de Samsung Pay en la descripción.
-  Updated: 2025-10-18T02:10:10Z
+  Updated: 2025-10-19T18:30:15Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
@@ -7080,7 +7080,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/19424.jpg?v=1730823309
   Price: 1101,99 € EUR
 - [Realme Note 60 4G 6GB/128GB Negro (Marble Black) Dual SIM](https://hifimediastore.com/products/realme-note-60-4g-6gb-128gb-negro-marble-black-dual-sim): Realme Note 60:  Pantalla IPS LCD de 6,74" Cuerpo ultrafino de 7,84 mm Procesador Unisoc Tiger T612 Cámara supernítida de 32 MP Gran batería de 5000 mAh IP64 resistencia al agua y al polvo
-  Updated: 2025-10-19T04:40:21Z
+  Updated: 2025-10-19T18:15:22Z
   Vendor: Realme
   Product Type: Smartphone
   Availability: Available
@@ -7325,7 +7325,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/20950.jpg?v=1738174213
   Price: 986,99 € EUR
 - [Honor Pad X8a 11" 4GB/128GB WiFi Gris (Space Grey)](https://hifimediastore.com/products/honor-pad-x8a-11-4gb-128gb-wifi-gris-space-grey): Honor Pad X8a:  Pantalla Fullview HONOR de 11" Procesador Qualcomm Snapdragon 680 Android 14 y MagicOS 8.0 Cámara principal de 5MP y frontal de 5MP Batería de 8300 mAh Altavoz cuádruple Bluetooth 5.1
-  Updated: 2025-10-16T22:20:15Z
+  Updated: 2025-10-19T17:30:11Z
   Vendor: Honor
   Product Type: Tablet's
   Availability: Available
@@ -7640,7 +7640,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/21576.jpg?v=1741214708
   Price: 822,99 € EUR
 - [Xiaomi 15 5G 12GB/256GB Verde (Green) Dual SIM](https://hifimediastore.com/products/xiaomi-15-5g-12gb-256gb-verde-green-dual-sim): Xiaomi 15:  Pantalla CrystalRes dynamic AMOLED Snapdragon 8 Elite Cámara Leica Batería de 5240 mAh HyperCharge 90W HyperCharge inalámbrica 50W Xiaomi HyperAI Conexión 5G
-  Updated: 2025-10-18T08:09:04Z
+  Updated: 2025-10-19T18:45:15Z
   Vendor: Xiaomi
   Product Type: Smartphone
   Availability: Available
@@ -7899,7 +7899,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/22015.jpg?v=1743208808
   Price: 469,99 € EUR
 - [Apple iPad 2025 11" 6GB/128GB Wi-Fi Plata (Silver)](https://hifimediastore.com/products/apple-ipad-2025-11-6gb-128gb-wi-fi-plata-silver): Apple iPad 2025:  Pantalla Liquid Retina de 11" Cubierta oleófuga antihuellas Chip A16 Cámara de 12MP Center Stage Capacidad de la batería: Hasta 10 horas iPadOs 18 Compatible con Apple Pencil y Magic Keyboard Folio
-  Updated: 2025-10-18T00:50:10Z
+  Updated: 2025-10-19T17:10:10Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
@@ -8194,7 +8194,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/23401.jpg?v=1749074124
   Price: 281,99 € EUR
 - [JBL Wave Flex Auriculares Bluetooth Azules](https://hifimediastore.com/products/jbl-wave-flex-auriculares-bluetooth-azules): JBL Wave Flex:  Diseño ergonómico y ajuste cómodo Sonido JBL Deep Bass Hasta 32 horas de reproducción Resistencia IP54 Carga rápida Bluetooth 5.2
-  Updated: 2025-10-18T01:20:36Z
+  Updated: 2025-10-19T17:40:21Z
   Vendor: JBL
   Product Type: Bluetooth
   Availability: Available
@@ -8376,7 +8376,7 @@
     Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/S4a3b833762f448eaae305e75d959b1e2C.webp?v=1756495067
     Price: 33,99 € EUR
 - [Apple iPhone 17 256GB Negro (Black)](https://hifimediastore.com/products/apple-iphone-17-256gb-negro-black): Apple iPhone 17:  Pantalla Super Retina XDR OLED Chip A19 Cámara dual Fusion de 48MP Batería de 3692 mAh Velocidad 5G Ceramic Shield 2 iOS 26
-  Updated: 2025-10-19T04:05:16Z
+  Updated: 2025-10-19T17:40:16Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
@@ -8439,7 +8439,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/25812.jpg?v=1758298828
   Price: 1526,99 € EUR
 - [Apple iPhone 17 Pro 1TB Azul Oscuro (Deep Blue)](https://hifimediastore.com/products/apple-iphone-17-pro-1tb-azul-oscuro-deep-blue): Apple iPhone 17 Pro:  Pantalla Super Retina XDR OLED Chip A19 Pro Cámara triple Fusion de 48MP Batería de 3988 mAh Velocidad 5G Ceramic Shield 2 iOS 26
-  Updated: 2025-10-17T18:30:21Z
+  Updated: 2025-10-19T17:40:15Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
@@ -8558,7 +8558,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/25977.jpg?v=1758836157
   Price: 2431,99 € EUR
 - [Apple iPhone 17 Pro Max 512GB Plata (Silver)](https://hifimediastore.com/products/apple-iphone-17-pro-max-512gb-plata-silver): Apple iPhone 17 Pro Max:  Pantalla Super Retina XDR OLED Chip A19 Pro Cámara triple Fusion de 48MP Batería de 4832 mAh Velocidad 5G Ceramic Shield 2 iOS 26
-  Updated: 2025-10-18T21:25:17Z
+  Updated: 2025-10-19T17:40:15Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
@@ -8599,10 +8599,10 @@
   Updated: 2025-06-22T07:51:28Z
   Total Products: 0
 - [Best Selling Products](https://hifimediastore.com/collections/best-selling-products)
-  Updated: 2025-10-19T14:50:15Z
+  Updated: 2025-10-19T17:51:55Z
   Total Products: 5481
 - [Newest Products](https://hifimediastore.com/collections/newest-products)
-  Updated: 2025-10-19T14:50:15Z
+  Updated: 2025-10-19T17:51:55Z
   Total Products: 5481
 - [Altavoces](https://hifimediastore.com/collections/speakers): Explora nuestra gama de altavoces de alta calidad y llévatee la experiencia del festival a casa con nuestros altavoces.
   Updated: 2025-10-10T22:01:24Z
@@ -8656,7 +8656,7 @@
   Updated: 2025-10-10T22:05:52Z
   Total Products: 22
 - [AVADA - Best Sellers](https://hifimediastore.com/collections/avada-best-sellers)
-  Updated: 2025-10-19T14:50:15Z
+  Updated: 2025-10-19T17:51:55Z
   Total Products: 1450
 - [Intercomunicadores para moto](https://hifimediastore.com/collections/motorcycle-intercoms)
   Updated: 2025-06-22T07:51:29Z
@@ -8665,7 +8665,7 @@
   Updated: 2025-06-22T07:51:30Z
   Total Products: 4
 - [Móviles y Smartphones Libres 4G y 5G](https://hifimediastore.com/collections/smartphones): Compra móviles y smartphones libres 4G y 5G. Pago a plazos con SeQura. Envío rápido y garantía oficial.
-  Updated: 2025-10-19T14:50:15Z
+  Updated: 2025-10-19T17:51:55Z
   Total Products: 3572
 - [Alcatel](https://hifimediastore.com/collections/alcatel)
   Updated: 2025-10-11T23:22:15Z
@@ -8707,7 +8707,7 @@
   Updated: 2025-10-11T23:26:18Z
   Total Products: 12
 - [Motorola](https://hifimediastore.com/collections/motorola)
-  Updated: 2025-10-19T11:32:10Z
+  Updated: 2025-10-19T17:51:55Z
   Total Products: 299
 - [Nokia](https://hifimediastore.com/collections/nokia)
   Updated: 2025-10-12T00:21:21Z
@@ -8980,7 +8980,7 @@
   Updated: 2025-08-31T12:20:56Z
   Total Products: 4
 - [Teléfonos móviles y accesorios en Hi-Fi Media Store](https://hifimediastore.com/collections/todos-los-productos): Somos especialistas en teléfonos móviles y accesorios. En Hi-Fi Media Store encontrarás una gran variedad de productos de las mejores marcas.
-  Updated: 2025-10-19T14:50:15Z
+  Updated: 2025-10-19T17:51:55Z
   Total Products: 5480
 - [Lindy](https://hifimediastore.com/collections/lindy)
   Updated: 2025-10-10T23:08:17Z
@@ -8995,7 +8995,7 @@
   Updated: 2025-08-28T13:56:16Z
   Total Products: 1
 - [Motorola](https://hifimediastore.com/collections/motorola-1)
-  Updated: 2025-10-19T11:32:10Z
+  Updated: 2025-10-19T17:51:55Z
   Total Products: 312
 - [Auriculares Motorola](https://hifimediastore.com/collections/auriculares-motorola)
   Updated: 2025-10-17T12:40:27Z
@@ -9037,7 +9037,7 @@
   Updated: 2025-10-10T22:47:39Z
   Total Products: 3
 - [OrderlyEmails - Recommended Products](https://hifimediastore.com/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-10-19T14:50:15Z
+  Updated: 2025-10-19T17:51:55Z
   Total Products: 1453
 - [Razer](https://hifimediastore.com/collections/razer)
   Updated: 2025-10-16T19:26:34Z
@@ -9100,8 +9100,8 @@
   Updated: 2025-10-16T19:25:32Z
   Total Products: 2
 - [Outlet](https://hifimediastore.com/collections/outlet)
-  Updated: 2025-10-19T11:45:52Z
-  Total Products: 262
+  Updated: 2025-10-19T18:45:46Z
+  Total Products: 265
 - [Edifier](https://hifimediastore.com/collections/edifier)
   Updated: 2025-10-10T22:12:51Z
   Total Products: 1
@@ -9175,7 +9175,7 @@
   Updated: 2025-10-18T04:03:23Z
   Total Products: 79
 - [IVA 21](https://hifimediastore.com/collections/iva-21)
-  Updated: 2025-10-19T14:50:15Z
+  Updated: 2025-10-19T17:51:55Z
   Total Products: 5111
 - [Tablets Xiaomi](https://hifimediastore.com/collections/tablets-xiaomi)
   Updated: 2025-10-17T21:46:39Z
@@ -9271,7 +9271,7 @@
   Updated: 2025-08-31T12:05:21Z
   Total Products: 3
 - [Productos para teléfonos móviles y accesorios](https://hifimediastore.com/collections/all): Hi-Fi Media Store: Tu tienda online para teléfonos móviles y accesorios de las mejores marcas. Encuentra smartphones, auriculares inalámbricos y con cable, altavoces y una amplia gama de accesorios para complementar tu experiencia móvil. Compra con seguridad y disfruta de una garantía de satisfacción. Visita nuestra tienda online y descubre un mundo de posibilidades para tu teléfono móvil.
-  Updated: 2025-10-19T14:50:15Z
+  Updated: 2025-10-19T17:51:55Z
   Total Products: 5480
 - [Beats](https://hifimediastore.com/collections/beats)
   Updated: 2025-10-11T22:16:14Z
@@ -9286,7 +9286,7 @@
   Updated: 2025-10-10T21:27:13Z
   Total Products: 11
 - [Ultimate Search - Do not delete](https://hifimediastore.com/collections/ultimate-search-do-not-delete): Ultimate Search app uses this temporary collection to fetch best selling items.Please do not delete this collection.If you have removed the app, it is safe to remove this collection.
-  Updated: 2025-10-19T14:50:15Z
+  Updated: 2025-10-19T17:51:55Z
   Total Products: 5480
 - [Nubia](https://hifimediastore.com/collections/nubia)
   Updated: 2025-10-11T22:34:25Z
