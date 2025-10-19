@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2024-06-07T09:35:30Z
 - Contact Email: afshaparfumsofficial@gmail.com
-- Updated At: 2025-10-19T12:00:31.880Z
+- Updated At: 2025-10-19T16:00:31.696Z
 
 ## Products
 
@@ -18,7 +18,7 @@
   Image: https://cdn.shopify.com/s/files/1/0658/0319/0461/files/DSC_5656copy.png?v=1717755335
   Price: ₹1,799.00 INR
 - [Shop Now Opulent Oud by Afsha Parfums - Best Premium Dubai Perfume in India](https://afshaparfums.in/products/opulent-oud-luxury-perfume-in-india): Discover true elegance with Opulent Oud by Afsha Parfums, a sophisticated fragrance crafted for those who cherish luxury. More than just a scent, it’s an experience that captivates and leaves a lasting impression. Explore the best premium Dubai perfume in India.
-  Updated: 2025-10-18T17:31:06Z
+  Updated: 2025-10-19T14:42:35Z
   Vendor: Afsha Parfums
   Product Type: 
   Availability: Available
