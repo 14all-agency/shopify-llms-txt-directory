@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-07-21T23:17:39Z
 - Contact Email: dustin1986williamson@gmail.com
-- Updated At: 2025-10-19T04:00:36.541Z
+- Updated At: 2025-10-19T08:00:34.535Z
 
 ## Products
 
@@ -10115,7 +10115,7 @@
   Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/affinity-bands-realtree-apx-hdx-airpods-gen-1-2-case-default-title-realtree-airpods-case-cover-for-gen-1-2-apx-hdx-design-37937727865063.jpg?v=1760274849
   Price: $24.99 USD
 - [Realtree Fitbit Watch Band for Versa 3 & Sense 1 - Stylish Accessory](https://soulthreads25.com/products/realtree-fitbit-watch-band-for-versa-3-and-sense-1-stylish-and-durable-accessory): Elevate your style with the Realtree Fitbit Watch Band for Versa 3 and Sense 1. This durable accessory combines fashion and functionality for the perfect look. Shop now!
-  Updated: 2025-10-18T16:07:27Z
+  Updated: 2025-10-19T07:09:53Z
   Vendor: Affinity Bands
   Product Type: Realtree HD Fitbit Watch Band
   Availability: Available
@@ -10129,7 +10129,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/affinity-bands-realtree-hd-fitbit-watch-band-aspect-short-realtree-fitbit-watch-band-for-versa-3-and-sense-1-stylish-and-durable-accessory-37937728061671.jpg?v=1760274844
     Price: $29.99 USD
 - [Realtree Excape HD Apple Watch Band - Soul threads](https://soulthreads25.com/products/realtree-excape-hd-apple-watch-band): Enhance your Apple Watch with the Realtree Excape HD Apple Watch Band. This stylish, durable band combines comfort and outdoor aesthetics for the perfect accessory.
-  Updated: 2025-10-18T18:55:12Z
+  Updated: 2025-10-19T07:10:05Z
   Vendor: Affinity Bands
   Product Type: Realtree HD Apple Band
   Availability: Available
@@ -10571,7 +10571,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/affinity-bands-pickleball-apple-iphone-13-case-love-iphone-13-pickleball-iphone-13-mag-safe-case-hd-protection-for-your-device-u-hd3ar13-pb-37937732780263.jpg?v=1760275325
     Price: $29.99 USD
 - [Pickleball iPhone 16 Mag-Safe Case for Stylish Protection on the Go](https://soulthreads25.com/products/pickleball-iphone-16-mag-safe-case-for-ultimate-protection-and-style): Protect your iPhone 16 in style with our Pickleball iPhone 16 Mag-Safe Case. Enjoy ultimate durability and a sleek design, perfect for pickleball lovers on the go!
-  Updated: 2025-10-18T21:43:02Z
+  Updated: 2025-10-19T07:10:55Z
   Vendor: Affinity Bands
   Product Type: Pickleball HD iPhone 16 Case
   Availability: Available
@@ -10705,7 +10705,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/affinity-bands-pickleball-hd-iphone-16-case-love-iphone-16-pro-max-pickleball-iphone-16-mag-safe-case-for-ultimate-protection-and-style-u-hd3am16-pb-37937733468391.jpg?v=1760275297
     Price: $29.99 USD
 - [Realtree Edge HD Watch Band – Stylish and Durable for Apple Watch](https://soulthreads25.com/products/realtree-edge-hd-watch-band-for-apple-watch-durable-and-stylish): Meta Description: Upgrade your Apple Watch with the Realtree Edge HD Watch Band. This durable and stylish band offers a perfect blend of comfort and performance for adventurous lifestyles.
-  Updated: 2025-10-19T03:43:53Z
+  Updated: 2025-10-19T07:10:05Z
   Vendor: Affinity Bands
   Product Type: Realtree HD Apple Band
   Availability: Available
@@ -10855,7 +10855,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/affinity-bands-realtree-hd-apple-band-edge-42-44-45-49mm-46mm-series-10-short-realtree-edge-hd-watch-band-for-apple-watch-durable-and-stylish-rt-hd1-camo-42s-37937735368935.jpg?v=1760275262
     Price: $29.99 USD
 - [Pride HD iPhone 16 Mag-Safe Case for Ultimate Protection & Style](https://soulthreads25.com/products/pride-hd-iphone-16-mag-safe-case-for-ultimate-protection-and-style): Protect your iPhone 16 in style with the Pride HD iPhone 16 Mag-Safe Case. Experience ultimate durability and a sleek design that enhances your device's look and feel.
-  Updated: 2025-10-18T21:43:18Z
+  Updated: 2025-10-19T07:10:44Z
   Vendor: Affinity Bands
   Product Type: Pride HD iPhone 16 Case
   Availability: Available
