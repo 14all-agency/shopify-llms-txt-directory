@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-05-23T06:41:23Z
 - Contact Email: info.kbart@gmail.com
-- Updated At: 2025-10-18T20:00:31.333Z
+- Updated At: 2025-10-19T20:00:32.871Z
 
 ## Products
 
@@ -60,14 +60,14 @@
   Image: https://cdn.shopify.com/s/files/1/0945/9748/0731/files/Decorative_wooden_horse_wall_piece_234d3027-4e6b-4deb-b0f3-d2a9e197109e.jpg?v=1758721536
   Price: ₹999.00 INR
 - [Multicolor Handpainted Wooden Wall Mirror | 9.5x19 Inch Jharokha Decor](https://kbart.in/products/multicolor-handpainted-wooden-wall-mirror): Enhance your space with the KB ART Multicolor Handpainted Wooden Wall Mirror. This stunning 9.5x19 inch traditional Misri Art piece adds a boho charm to any decor. Perfect for unique styling!
-  Updated: 2025-10-16T08:11:12Z
+  Updated: 2025-10-19T18:34:25Z
   Vendor: KB ART
   Product Type: Wooden Handpainted Pattachitra Jharokha Mirror
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0945/9748/0731/files/Handpainted_wooden_wall_mirror.png?v=1758721665
   Price: ₹1,099.00 INR
 - [Jodhpuri Handpainted Wooden Wall Mirror | Unique Boho Home Décor](https://kbart.in/products/jodhpuri-handpainted-wooden-wall-mirror): Enhance your home décor with the KB ART Jodhpuri handpainted wooden wall mirror. Featuring a stunning Pichwai cow & lady design, this 9.5x19 inch arch jharokha piece adds a boho touch.
-  Updated: 2025-10-07T07:23:51Z
+  Updated: 2025-10-19T18:34:25Z
   Vendor: KB ART
   Product Type: Wooden Handpainted Pattachitra Jharokha Mirror
   Availability: Available
