@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-01-24T04:49:01Z
 - Contact Email: info@ibizjewel.com
-- Updated At: 2025-10-18T16:00:48.517Z
+- Updated At: 2025-10-19T00:00:49.556Z
 
 ## Products
 
@@ -2925,7 +2925,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/SPDR-25_1.jpg?v=1690543009
     Price: $2,469.00 USD
 - [Natural Salt And Pepper 1.80CT Hexagon Diamond Art Deco Unique Engagement Ring | Handmade Ring | Anniversary Ring](https://ibizjewel.com/products/natural-salt-and-pepper-1-80ct-hexagon-diamond-art-deco-unique-engagement-ring-handmade-ring-anniversary-ring): This stunning natural salt and pepper diamond ring features 1.80CT of hexagon diamonds, handcrafted in an Art Deco style. Its unique design is perfect for an engagement, anniversary, or special occasion. Crafted with care, this ring is sure to stand out.
-  Updated: 2025-10-18T10:29:25Z
+  Updated: 2025-10-18T20:00:43Z
   Vendor: Natural Salt And Pepper Diamond Ring
   Product Type: Natural Salt And Pepper Hexagon Diamond Ring
   Availability: Available
@@ -11394,7 +11394,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-44_3.jpg?v=1709814281
     Price: $1,015.00 USD
 - [Moissanite 1.80CT Radiant Diamond Victorian Handmade Ring](https://ibizjewel.com/products/moissanite-1-80ct-radiant-diamond-victorian-handmade-ring): Experience Elegance And Beauty With Our Moissanite 1.80ct Radiant Diamond Victorian Handmade Ring. Each Ring Is Carefully Crafted With A Stunning 1.80ct Radiant Moissanite Center Stone And Surrounded By Intricate Victorian Detailing. Adorn Yourself With This Timeless Piece And Add A Touch Of Luxury To Any Outfit.
-  Updated: 2025-10-02T10:30:47Z
+  Updated: 2025-10-18T22:39:06Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Radiant Diamond Ring
   Availability: Available
