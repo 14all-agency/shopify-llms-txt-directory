@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2025-10-18T20:00:53.435Z
+- Updated At: 2025-10-19T04:00:52.436Z
 
 ## Products
 
@@ -4600,7 +4600,7 @@
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Cellulose-Propionate-Frame-Rectangle-Sunglasses-Brinxx-Couture-105.jpg?v=1709319547
   Price: $19.00 USD
 - [Ribbed Tie Back Bikini Set](https://www.brinxxcouture.com/products/ribbed-tie-back-bikini-set): Top type: No underwire Bottom type: High cut Number of pieces: Two Chest pad: Removable padding Pattern type: Solid Style: Beach Features: Tie Material composition: 80% polyamide, 20% elastane Stretch: Highly stretchy Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S: bust 31-33 in, waist 24-26 in, hip 34-35 inM: bust 33-35 in, waist 26-28 in, hip 35-37 inL: bust 35-37 in, waist 28-30 in, hip 37-39 in
-  Updated: 2025-10-02T17:12:02Z
+  Updated: 2025-10-18T21:55:41Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -4642,7 +4642,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Ribbed-Tie-Back-Bikini-Set-Brinxx-Couture-7579.jpg?v=1709321201
     Price: $22.00 USD
 - [Halter Neck Crisscross Ribbed Bikini Set](https://www.brinxxcouture.com/products/halter-neck-crisscross-ribbed-bikini-set): Top type: No underwire Bottom type: High cut Number of pieces: Two Chest pad: Removable padding Pattern type: Solid Style: Beach Features: Tie Material composition: 82% polyester, 18% elastane Stretch: Highly stretchy Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S: bust 31-33 in, waist 24-26 in, hip 34-35 inM: bust 33-35 in, waist 26-28 in, hip 35-37 inL: bust 35-37 in, waist 28-30 in, hip 37-39 in
-  Updated: 2025-10-15T20:00:51Z
+  Updated: 2025-10-18T21:55:43Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -4696,7 +4696,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Halter-Neck-Crisscross-Ribbed-Bikini-Set-Brinxx-Couture-4208.jpg?v=1709321618
     Price: $22.00 USD
 - [Halter Neck Fishnet Bikini Set](https://www.brinxxcouture.com/products/halter-neck-fishnet-bikini-set): Top type: No underwire Number of pieces: Two Chest pad: Removable padding Pattern type: Solid Style: Tropical, Beach Features: Crisscross Material composition: 82% polyester, 18% elastane Stretch: Highly stretchy Care instructions: Hand wash cold. Do not tumble dry. Imported Product measurements: S: bust 31-33 in, waist 24-26 in, hip 34-35 inM: bust 33-35 in, waist 26-28 in, hip 35-37 inL: bust 35-37 in, waist 28-30 in, hip 37-39 in
-  Updated: 2025-10-15T20:01:01Z
+  Updated: 2025-10-18T21:55:42Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -4714,7 +4714,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Halter-Neck-Fishnet-Bikini-Set-Brinxx-Couture-4978.jpg?v=1709321671
     Price: $23.00 USD
 - [Animal Print Halter Neck Bikini Set](https://www.brinxxcouture.com/products/animal-print-halter-neck-bikini-set): Top type: No underwire Bottom type: Mid waist Number of pieces: Two Chest pad: Removable Padding Pattern type: Printed Style: Beach Features: Tie Material composition: 82% polyester, 18% elastane Stretch: Highly stretchy Care instructions: Hand wash cold. Do not tumble dry. Imported Product measurements: Top:S: length 9 in, bust 34 in, cup height 5 inM: length 9 in, bust 36 in, cup height 5 inL: length 10 in, bust 38 in, cup height 5 inBottoms:S: waist 25-37 in, length 11 inM: waist 27-39 in, length 12 inL: waist 28-41 in, length 12 in
-  Updated: 2025-10-02T17:12:02Z
+  Updated: 2025-10-18T21:55:43Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -5688,7 +5688,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Candy-Leather-Metallic-Pants-Brinxx-Couture-5060.jpg?v=1709349851
     Price: $30.00 USD
 - [2 Carat Moissanite Stud Earrings - Brinxx Couture](https://www.brinxxcouture.com/products/2-carat-moissanite-rhodium-plated-stud-earrings): These 2-carat moissanite stud earrings radiate beauty and elegance with its rhodium plating. These high quality earrings will last a lifetime! 🤩
-  Updated: 2025-10-15T14:46:12Z
+  Updated: 2025-10-19T00:08:46Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -7879,7 +7879,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Tie-Back-Cutout-Round-Neck-Split-Dress-Brinxx-Couture-6081.jpg?v=1709843255
     Price: $30.00 USD
 - [Stacy Block Heel Sock Boots - Brinxx Couture](https://www.brinxxcouture.com/products/weeboo-stacy-block-heel-sock-boots): Step into style with the Stacy Block Heel Sock Boots! These fashion-forward boots feature a sleek silhouette that pairs perfectly with any look.
-  Updated: 2025-10-13T14:18:20Z
+  Updated: 2025-10-18T23:51:51Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -8460,7 +8460,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/High-Neck-Long-Sleeve-Ribbed-Top-Brinxx-Couture-6079_ae99505f-4811-4797-bf89-89c3a0f73de1.jpg?v=1736050169
     Price: $25.00 USD
 - [Distressed Raw Hem Denim Jacket - Brinxx Couture](https://www.brinxxcouture.com/products/distressed-raw-hem-denim-jacket): This distressed raw hem denim jacket is the perfect way to make a statement. With its distressed raw hem design, you'll look cool and effortless.
-  Updated: 2025-10-18T08:30:56Z
+  Updated: 2025-10-19T03:51:20Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -10512,7 +10512,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Lace-Up-Lug-Booties-Brinxx-Couture-206.jpg?v=1709859595
     Price: $60.00 USD
 - [Sport Tank and Leggings Set - Brinxx Couture](https://www.brinxxcouture.com/products/sport-tank-and-leggings-set): Dominate your workout with this stylish Sport Tank and Leggings Set! Offering complete flexibility and comfort, this set is perfect for any activity.
-  Updated: 2025-10-17T15:59:41Z
+  Updated: 2025-10-19T00:07:51Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -11290,7 +11290,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/One-Shoulder-Ruched-Slit-Maxi-Dress-Brinxx-Couture-3729.jpg?v=1709864742
     Price: $39.99 USD
 - [2 Carat Moissanite Sterling Silver Ring - Brinxx Couture](https://www.brinxxcouture.com/products/2-carat-moissanite-sterling-silver-ring): This 2 Carat Moissanite Sterling Silver Ring will make an eye-catching addition to any jewelry collection. Crafted using the highest quality of sterling silver.
-  Updated: 2025-10-17T00:19:37Z
+  Updated: 2025-10-18T20:44:20Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -16100,7 +16100,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/products/Cutout-Mock-Neck-Sleeveless-Dress-Brinxx-Couture-7698.jpg?v=1709885128
     Price: $29.99 USD
 - [Rhinestone Mock Neck Long Sleeve Dress - Brinxx Couture](https://www.brinxxcouture.com/products/rhinestone-mock-neck-long-sleeve-dress): Add some sparkle to your wardrobe with our Rhinestone Mock Neck Long Sleeve Dress! This dress features a trendy mock neck and long sleeves, adorned with dazzling rhinestones. Perfect for any special occasion, it's sure to make you stand out and feel glamorous. Shine on! Sheer: Semi-sheer Stretch: Slightly stretchy Body: Not lined Material composition: 60% viscose, 31% polyamide, 9% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements:S: Bust 29.92 in, Shoulder 13.78 in, Sleeve Length 22.83 in, Waist 26.77 in, HIP 34.65 in, Length 35.63 inM: Bust 32.28 in, Shoulder 14.37 in, Sleeve Length 23.23 in, Waist 29.13 in, HIP 37.01 in, Length 36.42 inL: Bust 34.65 in, Shoulder 14.96 in, Sleeve Length 23.62 in, Waist 31.50 in, HIP 39.37 in, Length 37.20 inXL: Bust 37.80 in, Shoulder 15.94 in, Sleeve Length 24.02 in, Waist 34.65 in, HIP 42.52 in, Length 37.99 in
-  Updated: 2025-10-18T11:55:06Z
+  Updated: 2025-10-19T03:51:36Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -19494,7 +19494,7 @@
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Enjoy-The-Simple-Things-Fedora-Hat-Brinxx-Couture-7135.jpg?v=1745425105
   Price: $39.00 USD
 - [Beige Fedora Hat - Brinxx Couture](https://www.brinxxcouture.com/products/beige-fedora-hat): Get ready to elevate your style with our Beige Fedora Hat! This timeless classic is the perfect accessory to add a touch of sophistication to any outfit.
-  Updated: 2025-10-18T18:00:12Z
+  Updated: 2025-10-19T04:00:17Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -22129,7 +22129,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Pocketed-Long-Sleeve-Hooded-Teddy-Coat-Brinxx-Couture-8665_e09500d5-52f1-410f-b415-8b0fd4433a7b.jpg?v=1736049876
     Price: $54.99 USD
 - [Round Neck Long Sleeve Top and Pants Lounge Set - Brinxx Couture](https://www.brinxxcouture.com/products/round-neck-long-sleeve-top-and-pants-lounge-set): Indulge in ultimate comfort with our Round Neck Long Sleeve Top and Pants Lounge Set! Made from high-quality materials, this lounge set is perfect for relaxing.
-  Updated: 2025-10-12T20:00:48Z
+  Updated: 2025-10-19T00:30:38Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -23343,7 +23343,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Notch-Lapel-Woven-Coat-with-Side-Pockets-Brinxx-Couture-2936.jpg?v=1730297108
     Price: $40.00 USD
 - [Cable-Knit Round Neck Sweater Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress): Wrap yourself in cozy comfort and timeless style with our Cable-Knit Round Neck Sweater Dress! Made from soft, high-quality materials.
-  Updated: 2025-10-18T18:30:45Z
+  Updated: 2025-10-19T02:10:45Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -26057,7 +26057,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Velvet-Button-Up-Long-Sleeve-Shirt-Brinxx-Couture-9898_28aff93c-f8ba-4ad4-bf88-33c49108ab07.jpg?v=1736049331
     Price: $30.00 USD
 - [Textured Button Down Collared Neck Coat - Brinxx Couture](https://www.brinxxcouture.com/products/textured-button-down-collared-neck-coat): Elevate your outerwear game with our Textured Button Down Collared Neck Coat! This versatile coat features a sophisticated collared neck and textured fabric.
-  Updated: 2025-10-18T01:31:21Z
+  Updated: 2025-10-19T03:51:27Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -36081,7 +36081,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/a8008b2a6ef44510baf6b699b44de1d1-Max-Origin.webp?v=1759770558
     Price: $29.99 USD
 - [Lapel Collar Long Sleeve Coat - Classic Style | Brinxx](https://www.brinxxcouture.com/products/lapel-collar-long-sleeve-coat): Discover timeless elegance with our Lapel Collar Long Sleeve Coat. Classic tailoring meets modern style. Perfect for professional & casual wear. Free Shipping!
-  Updated: 2025-10-15T06:13:30Z
+  Updated: 2025-10-19T00:39:31Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
