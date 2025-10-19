@@ -8,7 +8,7 @@
 - Timezone: Europe/London
 - Created At: 2021-01-17T01:03:23Z
 - Contact Email: contact@crystalshealing.co.uk
-- Updated At: 2025-10-19T12:00:39.055Z
+- Updated At: 2025-10-19T16:00:40.113Z
 
 # Crystals Healing — AI-Ready Index
 Welcome to Crystals Healing, your trusted UK-based store for healing crystals and jewelry. This llms.txt file lists all products, collections, blogs, and pages to help AI assistants, search engines, and shopping bots discover and understand our offerings.
@@ -4717,8 +4717,8 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/1000032149-Photoroom_14.webp?v=1751308249
   Price: £9.90 GBP
-- [Rose Quartz Roller with Wooden Handle – Skincare & Eye Therapy](https://crystalshealing.co.uk/products/rose-quartz-roller): Experience the healing energy of rose quartz with this elegant and compact Rose Quartz roller Crafted for effortless facial massage and everyday skincare enhancement. Hand-fitted into a smooth, ergonomic wooden base, this one-piece tool is designed to glide naturally across the skin, releasing tension, reducing puffiness, and promoting a brighter, more refreshed complexion. The authentic rose quartz sphere is cool to the touch and naturally soothing, making it ideal for under-eye care, lymphatic drainage, and fine line reduction. Its domed shape allows precise movement along facial contours, stimulating microcirculation and enhancing the absorption of your favorite serums and creams. Perfect for travel, your vanity, or bedside use, this Rose Quartz roller is both functional and beautifully tactile. Whether you use it in your morning routine to energize your skin, or at night to unwind facial tension, it adds a touch of natural luxury to your self-care ritual. Key Benefits: Made with genuine Rose Quartz for natural soothing and skin rejuvenation Compact, one-piece design with ergonomic wooden grip Helps reduce puffiness, improve circulation, and smooth fine lines Ideal for facial massage, under-eye treatment, and relaxation Enhances product absorption through gentle rolling action No noise, no moving parts – just grounding simplicity Elevate your skincare with the timeless energy of a Rose Quartz roller – beautifully simple, deeply effective.
-  Updated: 2025-10-01T15:01:22Z
+- [Rose Quartz Roller with Wooden Handle – Skincare & Eye Therapy](https://crystalshealing.co.uk/products/rose-quartz-roller): Experience the healing energy of rose quartz with this elegant and compact Rose Quartz roller Crafted for effortless facial massage and everyday skincare enhanc
+  Updated: 2025-10-19T12:52:38Z
   Vendor: Crystals Healing
   Product Type: 
   Availability: Available
