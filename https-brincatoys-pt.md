@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-10-19T00:01:07.558Z
+- Updated At: 2025-10-19T04:01:08.964Z
 
 ## Products
 
@@ -20415,7 +20415,7 @@ Figura em borracha termoplástica do filme Branca de neve e os sete anões.Figur
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/transformers-age-of-the-primes-combaticon-vortex-acao-total-861028525-5010996327147-transformers-1184379125.jpg?v=1756215019
   Price: 36,50 € EUR
 - [Patrulha Pata Fire Rescue - Chase: Ação no Brincar](https://brincatoys.pt/products/patrulha-pata-fire-rescue-chase): Transforme o quarto das crianças com o Patrulha Pata Fire Rescue - Chase! O canhão de água e a figura de Chase prometem diversão heroica. 🎉
-  Updated: 2025-10-18T15:48:07Z
+  Updated: 2025-10-19T03:36:01Z
   Vendor: Patrulha Pata
   Product Type: + 3 anos
   Availability: Available
