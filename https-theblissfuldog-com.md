@@ -10,7 +10,7 @@
 - Contact Email: info@theblissfuldog.com
 - Contact Phone: 855-364-2547
 - Address: 50688 235th ave NW
-- Updated At: 2025-10-20T04:00:43.962Z
+- Updated At: 2025-10-20T08:00:46.004Z
 
 ## Products
 
@@ -11785,7 +11785,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/PWD-50TUBE-BOOBOO-ING-2500.jpg?v=1738716982
     Price: $11.95 USD
 - [Herbal Boo Boo Butter for English Cocker Spaniel Skin Irritations](https://theblissfuldog.com/products/english-cocker-spaniel-boo-boo-butter): Boo Boo Butter for English Cocker Spaniel Skin Care soothes your dog's minor skin issues, itchy spots, bug bites, rashes, clipper burn, brush abrasions+
-  Updated: 2025-10-16T15:40:55Z
+  Updated: 2025-10-20T04:20:51Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
