@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2023-11-06T10:53:38Z
 - Contact Email: theworldofnerdscustomer@gmail.com
-- Updated At: 2025-10-20T00:00:49.151Z
+- Updated At: 2025-10-20T04:00:42.564Z
 
 ## Products
 
@@ -6759,7 +6759,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitleddesign_15_7f017d94-3e5e-4f80-aa85-780c30b59274.png?v=1748414665
   Price: ₹899.00 INR
 - [RMZ CITY CHEVROLET CAMARO PULLBACK SCALE - 1:32](https://theworldofnerds.com/products/rmz-city-chevrolet-camaro-pullback-scale-1-33): This RMZ CITY CHEVROLET CAMARO PULLBACK SCALE - 1:32 is a high-quality and detailed model of the iconic Chevrolet Camaro. Featuring a smooth pullback mechanism, this 1:32 scale model is both a collectible treasure and an engaging toy for kids and adults. Perfect for Chevrolet fans and muscle car enthusiasts.
-  Updated: 2025-07-29T05:14:56Z
+  Updated: 2025-10-20T03:09:17Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
