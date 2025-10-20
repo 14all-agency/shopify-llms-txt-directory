@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-01-24T04:49:01Z
 - Contact Email: info@ibizjewel.com
-- Updated At: 2025-10-20T04:00:53.679Z
+- Updated At: 2025-10-20T16:00:50.175Z
 
 ## Products
 
@@ -44606,6 +44606,10 @@
     Updated: 2025-10-19T00:10:34Z
     Author: Heris K.
     Tags: conflict-free diamonds, diamond ring, eco-friendly jewelry, ethical, jewelry, responsible sourcing, salt and pepper, salt and pepper diamond ring, sustainable
+  - [Common Myths About Salt and Pepper Diamond Rings Debunked](https://ibizjewel.com/blogs/news/common-myths-about-salt-and-pepper-diamond-rings-debunked): Common Myths About Salt and Pepper Diamond Rings Debunked
+    Updated: 2025-10-20T04:06:25Z
+    Author: Heris K.
+    Tags: diamonds, eco-friendly jewelry options, engagement alternatives, ethical rings, jewelry, salt and pepper, salt and pepper diamond ring, sustainable, unique diamond rings
 
 ## Store Pages
 
