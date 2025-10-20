@@ -1,12 +1,23 @@
 # Brew Shockalaka (https://brewshock.com)
 
+> Brew Shockalaka is a disruptive, nootropic-enhanced ready-to-drink (RTD) cold brew and coffee alternative created by founders Max Fairchild and Chuck Lechtman. Built for a generation that thrives on energy, focus, and creativity, Brew Shockalaka delivers the smooth stimulation of a premium latte or espresso without the crash, sugar, or artificial hype. Every can represents a true shock to the system, combining clean caffeine with functional nootropics that enhance mental clarity, creativity, and performance across any lifestyle.
+
+The brand’s mission is to revolutionize energy and focus through an inclusive and rebellious spirit. With its bold “brain-in-a-cup” logo and unapologetically fun personality, Brew Shockalaka breaks away from traditional coffee brands. Inspired by music culture, wellness innovation, and Liquid Death–style irreverence, it connects emotionally through rhythm, humor, and authenticity. Whether it’s a pre-workout cold brew, a post-lunch latte, or an espresso kick before a late-night project, Brew Shockalaka keeps creators, athletes, and everyday grinders performing at their peak.
+
+Brew Shockalaka’s lineup features a 12-pack for $39.99 and a 3-pack sampler for $9.99. The 12-pack is built for loyal fans who want sustained clean energy and cognitive performance every day, while the 3-pack sampler serves as the perfect introduction for new customers to discover their favorite flavor and feel the difference. Each can delivers the boldness of espresso, the smoothness of a latte, and the refreshing kick of cold brew—all powered by nootropic ingredients that fuel both body and mind.
+
+Driven by its Brew Crew Ambassador Network, Brew Shockalaka turns creator partnerships into viral storytelling that bridges culture and commerce. Through TikTok Shop, Amazon, gyms, and convenience retailers, the brand merges digital discovery with real-world experiences.
+
+Brew Shockalaka isn’t just another coffee—it’s a lifestyle movement for clarity, creativity, and performance with every sip.
+
 - Domain: https://brewshock.com
 - Locale: en
 - Currency: USD
 - Timezone: America/New_York
 - Created At: 2025-02-26T15:41:09Z
-- Contact Email: max@brewshock.com
-- Updated At: 2025-10-20T15:27:58.853Z
+- Contact Email: info@brewshock.com
+- Address: Plano, Tx
+- Updated At: 2025-10-20T15:40:31.277Z
 
 ## Products
 
