@@ -6,7 +6,7 @@
 - Timezone: Europe/Rome
 - Created At: 2024-04-12T22:59:50Z
 - Contact Email: izzomarianna@hotmail.it
-- Updated At: 2025-10-19T08:00:31.568Z
+- Updated At: 2025-10-20T12:00:34.508Z
 
 ## Products
 
@@ -3160,7 +3160,7 @@
   Updated: 2025-09-17T14:59:12Z
   Total Products: 2
 - [Ultimi arrivi](https://www.amashopstudio.it/collections/ultimi-arrivi)
-  Updated: 2025-09-17T14:59:12Z
+  Updated: 2025-10-19T11:17:45Z
   Total Products: 147
 - [Tote bag](https://www.amashopstudio.it/collections/tote-bag)
   Updated: 2025-09-17T14:59:12Z
@@ -3169,7 +3169,7 @@
   Updated: 2025-09-17T14:59:12Z
   Total Products: 6
 - [Portachiavi](https://www.amashopstudio.it/collections/portachiavi)
-  Updated: 2025-09-17T14:59:12Z
+  Updated: 2025-10-19T11:17:45Z
   Total Products: 8
 - [T-shirt](https://www.amashopstudio.it/collections/t-shirt)
   Updated: 2025-09-17T14:59:12Z
