@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-10-20T00:01:07.887Z
+- Updated At: 2025-10-20T04:01:09.320Z
 
 ## Products
 
@@ -19776,7 +19776,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/boneca-monster-high-draculaura-com-armario-skulltime-775540525-0194735255405-monster-high-1195801132.jpg?v=1759406157
   Price: 49,99 € EUR
 - [Patrulha Pata Rescue Wheels - Chase: Aventura Divertida](https://brincatoys.pt/products/patrulha-pata-rescue-wheels-chase): Prepare-se para a aventura com o Patrulha Pata Rescue Wheels - Chase! Este veículo todo-o-terreno é robusto e perfeito para qualquer desafio. 🚗
-  Updated: 2025-10-19T13:54:05Z
+  Updated: 2025-10-20T00:20:15Z
   Vendor: Patrulha Pata
   Product Type: + 3 anos
   Availability: Available
