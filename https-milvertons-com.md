@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2019-08-25T03:49:02Z
 - Contact Email: sales@milvertons.com
-- Updated At: 2025-10-20T04:00:38.665Z
+- Updated At: 2025-10-20T08:00:36.925Z
 
 ## Products
 
@@ -4862,7 +4862,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/ribbed-cardigan-with-feather-accents-and-gold-button-details-918504.jpg?v=1729021092
     Price: $84.00 USD
 - [Cropped Blazer with Fringe Trim and Lapel Collar Detail](https://milvertons.com/products/fringe-trim-lapel-collar-cropped-blazer): Cropped Blazer with Fringe Trim and Lapel Collar Detail. Unique and Stylish, this blazer adds a touch of sophistication and edge to any outfit. Order yours now
-  Updated: 2025-10-19T23:12:00Z
+  Updated: 2025-10-20T07:50:49Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Outerwear - Jackets
   Availability: Available
@@ -8870,7 +8870,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/pol-v-neck-long-sleeve-t-shirt-with-lace-detail-7119103.webp?v=1751224302
     Price: $70.41 USD
 - [Davi & Dani Floral Mesh Long Sleeve Sheer Layering Top](https://milvertons.com/products/davi-dani-floral-mesh-long-sleeve-sheer-layering-top): Davi & Dani Floral Mesh Long Sleeve Sheer Layering Top. This elegant chiffon blouse features a flattering high neckline, and a fitted silhouette. Shop now!
-  Updated: 2025-10-19T00:58:36Z
+  Updated: 2025-10-20T04:48:28Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Shirts - Blouses
   Availability: Available
@@ -10895,7 +10895,7 @@
   Updated: 2025-04-04T00:42:58Z
   Total Products: 66
 - [Women's Clothing Collection](https://milvertons.com/collections/womens-clothing): Discover chic and stylish women's clothing at Milvertons! Browse our collection of fashionable apparel, from timeless classics to on-trend pieces. Shop now for the ultimate fashion experience!
-  Updated: 2025-10-19T05:26:22Z
+  Updated: 2025-10-20T05:26:15Z
   Total Products: 153
 - [Men's Clothing - Menswear, Trendy Ethnic designs and more](https://milvertons.com/collections/mens-clothing): Men's Clothing - Menswear, Trendy Ethnic designs and more. Shop our Men's Clothing Collection  at Milvertons today!
   Updated: 2025-10-06T18:28:51Z
@@ -10928,7 +10928,7 @@
   Updated: 2025-10-05T19:25:37Z
   Total Products: 7
 - [All Products](https://milvertons.com/collections/all): Explore our carefully curated collection of products - Women's Shoes and Bags, Women's Clothing, Men's Shoes, Men's Clothing and Clothing Accessories, and more!
-  Updated: 2025-10-19T05:25:30Z
+  Updated: 2025-10-20T05:25:37Z
   Total Products: 164
 - [Gift Cards for your loved ones](https://milvertons.com/collections/gift-cards): Gift Cards - Milvertons e-gift cards for your loved ones, no expiry date, redeemable at checkout.
   Updated: 2025-09-26T06:52:18Z
@@ -10973,7 +10973,7 @@
   Updated: 2025-10-19T04:20:51Z
   Total Products: 103
 - [New Arrivals - Trendy New In](https://milvertons.com/collections/new-arrivals): Browse our New Arrivals Collection and discover why Milvertons Store is the ultimate destination for fashion-conscious individuals who want to look their best
-  Updated: 2025-10-19T05:26:08Z
+  Updated: 2025-10-20T05:26:05Z
   Total Products: 47
 - [Milvertons Instagram Shop - Manual](https://milvertons.com/collections/milvertons-instagram-shop): Milvertons Instagram Shop - Manual
   Updated: 2025-10-07T08:47:27Z
