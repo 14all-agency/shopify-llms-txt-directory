@@ -6,7 +6,7 @@
 - Timezone: Europe/Lisbon
 - Created At: 2025-05-17T15:34:30Z
 - Contact Email: yoursportspt.store@gmail.com
-- Updated At: 2025-10-19T16:00:33.756Z
+- Updated At: 2025-10-20T08:00:35.226Z
 
 YourSportsPT is a Portuguese online fitness equipment store dedicated to home workout solutions. We specialize in quality fitness gear including yoga mats, resistance bands, foam rollers, balance balls, and professional exercise equipment. With affordable prices, fast shipping across Portugal and Europe, and dedicated Portuguese customer support, we help fitness enthusiasts achieve their goals from the comfort of their homes.
 
@@ -14,7 +14,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
 ## Products
 
 - [KAYLA TANK TOP - BLACK](https://yoursportspt.com/products/kayla-tank-top-black)
-  Updated: 2025-10-19T15:32:06Z
+  Updated: 2025-10-20T02:34:30Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -35,7 +35,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €24.38 EUR
 - [KAYLA TANK TOP - WHITE](https://yoursportspt.com/products/kayla-tank-top-white)
-  Updated: 2025-10-19T15:32:03Z
+  Updated: 2025-10-20T02:34:18Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -56,7 +56,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €24.38 EUR
 - [KTP MEN'S EMBOSSED CREW NECK JUMPER- BLACK](https://yoursportspt.com/products/ktp-mens-embossed-crew-neck-jumper-black)
-  Updated: 2025-10-19T15:31:47Z
+  Updated: 2025-10-20T02:09:31Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -77,7 +77,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €36.57 EUR
 - [KTP MEN'S EMBOSSED CREW NECK JUMPER- WHITE](https://yoursportspt.com/products/ktp-mens-embossed-crew-neck-jumper-white)
-  Updated: 2025-10-19T15:31:46Z
+  Updated: 2025-10-20T02:03:54Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -98,7 +98,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €36.57 EUR
 - [KTP MEN'S EMBOSSED CREW NECK JUMPER- DARK GREY](https://yoursportspt.com/products/ktp-mens-embossed-crew-neck-jumper-dark-grey)
-  Updated: 2025-10-19T15:32:08Z
+  Updated: 2025-10-20T02:34:35Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -119,7 +119,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €36.57 EUR
 - [KAYLA TANK TOP - ESPRESSO](https://yoursportspt.com/products/kayla-tank-top-espresso)
-  Updated: 2025-10-19T15:32:06Z
+  Updated: 2025-10-20T02:58:52Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -140,7 +140,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €24.38 EUR
 - [KTP - MEN'S BLACK BOXER BRIEFS](https://yoursportspt.com/products/ktp-mens-black-boxer-briefs)
-  Updated: 2025-10-19T15:31:45Z
+  Updated: 2025-10-20T02:04:00Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -161,7 +161,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €14.41 EUR
 - [KAYLA TANK TOP - PINK](https://yoursportspt.com/products/kayla-tank-top-pink)
-  Updated: 2025-10-19T15:33:10Z
+  Updated: 2025-10-20T02:04:01Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -182,7 +182,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €24.38 EUR
 - [KAYLA TANK TOP - COFFEE](https://yoursportspt.com/products/kayla-tank-top-coffee)
-  Updated: 2025-10-19T15:31:43Z
+  Updated: 2025-10-20T02:04:01Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -203,7 +203,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €24.38 EUR
 - [KAYLA TANK TOP - BERRY](https://yoursportspt.com/products/kayla-tank-top-berry)
-  Updated: 2025-10-19T15:31:41Z
+  Updated: 2025-10-20T02:04:02Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -224,7 +224,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €24.38 EUR
 - [EMBOSSED KTP TEE 2 - CHARCOAL](https://yoursportspt.com/products/embossed-ktp-tee-2-charcoal)
-  Updated: 2025-10-19T15:33:13Z
+  Updated: 2025-10-20T02:04:07Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -251,7 +251,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €25.49 EUR
 - [EMBOSSED KTP TEE 2 - MARLE GREY](https://yoursportspt.com/products/embossed-ktp-tee-2-marle-grey)
-  Updated: 2025-10-19T15:31:42Z
+  Updated: 2025-10-20T02:04:07Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -278,7 +278,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €25.49 EUR
 - [EMBOSSED KTP TEE 2 - BLACK](https://yoursportspt.com/products/embossed-ktp-tee-2-black)
-  Updated: 2025-10-19T15:31:41Z
+  Updated: 2025-10-20T02:04:07Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -305,7 +305,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €25.49 EUR
 - [EMBOSSED KTP TEE 2 - BROWN](https://yoursportspt.com/products/embossed-ktp-tee-2-brown)
-  Updated: 2025-10-19T15:33:09Z
+  Updated: 2025-10-20T02:04:08Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -332,7 +332,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €25.49 EUR
 - [EMBOSSED KTP TEE 2 - BEIGE](https://yoursportspt.com/products/embossed-ktp-tee-2-beige)
-  Updated: 2025-10-19T15:33:55Z
+  Updated: 2025-10-20T02:34:30Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -359,7 +359,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €25.49 EUR
 - [LJ V-BACK SCRUNCH SHORTS - ESPRESSO](https://yoursportspt.com/products/lj-v-back-scrunch-shorts-espresso)
-  Updated: 2025-10-19T15:35:16Z
+  Updated: 2025-10-20T02:34:15Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -376,8 +376,8 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
   - [L](https://yoursportspt.com/products/lj-v-back-scrunch-shorts-espresso?variant=52651339874568)
     Availability: Available
     Price: €25.49 EUR
-- [LJ CROP - CLOUD GREY](https://yoursportspt.com/products/lj-crop-cloud-grey)
-  Updated: 2025-10-19T15:31:42Z
+- [TOP MOVEO CROP – CINZENTO NUVEM](https://yoursportspt.com/products/lj-crop-cloud-grey)
+  Updated: 2025-10-20T02:04:13Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -394,8 +394,8 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
   - [L](https://yoursportspt.com/products/lj-crop-cloud-grey?variant=52651339743496)
     Availability: Available
     Price: €23.27 EUR
-- [LJ CROP - ESPRESSO](https://yoursportspt.com/products/lj-crop-espresso)
-  Updated: 2025-10-19T15:31:50Z
+- [TOP MOVEO CROP – CASTANHO ESPRESSO](https://yoursportspt.com/products/lj-crop-espresso)
+  Updated: 2025-10-20T02:35:59Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -413,7 +413,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €23.27 EUR
 - [LJ V-BACK SCRUNCH LEGGING - ESPRESSO](https://yoursportspt.com/products/lj-v-back-scrunch-legging-espresso)
-  Updated: 2025-10-19T15:31:40Z
+  Updated: 2025-10-20T02:58:03Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -430,8 +430,8 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
   - [L](https://yoursportspt.com/products/lj-v-back-scrunch-legging-espresso?variant=52651340267784)
     Availability: Available
     Price: €29.36 EUR
-- [LJ CROP - BLUE TEAL](https://yoursportspt.com/products/lj-crop-blue-teal)
-  Updated: 2025-10-19T15:31:40Z
+- [TOP MOVEO CROP – AZUL PETRÓLEO](https://yoursportspt.com/products/lj-crop-blue-teal)
+  Updated: 2025-10-20T02:04:12Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -448,8 +448,8 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
   - [L](https://yoursportspt.com/products/lj-crop-blue-teal?variant=52651340005640)
     Availability: Available
     Price: €23.27 EUR
-- [LJ CROP - FOREST GREEN](https://yoursportspt.com/products/lj-crop-forest-green)
-  Updated: 2025-10-19T15:33:55Z
+- [TOP MOVEO CROP – VERDE FLORESTA](https://yoursportspt.com/products/lj-crop-forest-green)
+  Updated: 2025-10-20T02:09:51Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -466,8 +466,8 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
   - [L](https://yoursportspt.com/products/lj-crop-forest-green?variant=52651340824840)
     Availability: Available
     Price: €23.27 EUR
-- [LJ CROP - DARK KHAKI GREEN](https://yoursportspt.com/products/lj-crop-dark-khaki-green)
-  Updated: 2025-10-19T15:31:39Z
+- [TOP MOVEO CROP – VERDE KHAKI](https://yoursportspt.com/products/lj-crop-dark-khaki-green)
+  Updated: 2025-10-20T02:04:18Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -484,8 +484,8 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
   - [L](https://yoursportspt.com/products/lj-crop-dark-khaki-green?variant=52651340693768)
     Availability: Available
     Price: €23.27 EUR
-- [LJ CROP - STORM](https://yoursportspt.com/products/lj-crop-storm)
-  Updated: 2025-10-19T15:31:41Z
+- [TOP MOVEO CROP – CINZENTO TEMPESTADE](https://yoursportspt.com/products/lj-crop-storm)
+  Updated: 2025-10-20T02:04:19Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -503,7 +503,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €23.27 EUR
 - [LJ V-BACK SCRUNCH SHORTS - BLUE TEAL](https://yoursportspt.com/products/lj-v-back-scrunch-shorts-blue-teal)
-  Updated: 2025-10-19T15:31:39Z
+  Updated: 2025-10-20T02:04:19Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -521,7 +521,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €25.49 EUR
 - [LJ V-BACK SCRUNCH SHORTS - CLOUD GREY](https://yoursportspt.com/products/lj-v-back-scrunch-shorts-cloud-grey)
-  Updated: 2025-10-19T15:31:39Z
+  Updated: 2025-10-20T02:35:51Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -539,7 +539,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €25.49 EUR
 - [LJ V-BACK SCRUNCH SHORTS - FOREST GREEN](https://yoursportspt.com/products/lj-v-back-scrunch-shorts-forest-green)
-  Updated: 2025-10-19T15:31:39Z
+  Updated: 2025-10-20T02:34:42Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -557,7 +557,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €25.49 EUR
 - [LJ V-BACK SCRUNCH LEGGING - CLOUD GREY](https://yoursportspt.com/products/lj-v-back-scrunch-legging-cloud-grey)
-  Updated: 2025-10-19T15:31:38Z
+  Updated: 2025-10-20T02:04:24Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -575,7 +575,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €29.36 EUR
 - [LJ V-BACK SCRUNCH SHORTS - DARK KHAKI GREEN](https://yoursportspt.com/products/lj-v-back-scrunch-shorts-dark-khaki-green)
-  Updated: 2025-10-19T15:34:24Z
+  Updated: 2025-10-20T02:04:23Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -593,7 +593,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €25.49 EUR
 - [LJ V-BACK SCRUNCH SHORTS - STORM](https://yoursportspt.com/products/lj-v-back-scrunch-shorts-storm)
-  Updated: 2025-10-19T15:31:42Z
+  Updated: 2025-10-20T02:04:24Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -611,7 +611,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €25.49 EUR
 - [LJ V-BACK SCRUNCH LEGGING - BLUE TEAL](https://yoursportspt.com/products/lj-v-back-scrunch-legging-blue-teal)
-  Updated: 2025-10-19T15:31:42Z
+  Updated: 2025-10-20T02:04:24Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -629,7 +629,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €29.36 EUR
 - [LJ V-BACK SCRUNCH LEGGING - DARK KHAKI GREEN](https://yoursportspt.com/products/lj-v-back-scrunch-legging-dark-khaki-green)
-  Updated: 2025-10-19T15:31:38Z
+  Updated: 2025-10-20T02:10:19Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -647,7 +647,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €29.36 EUR
 - [KTP MEN'S DRY FIT LONG SLEEVE TEE - LIGHT BLUE](https://yoursportspt.com/products/ktp-mens-dry-fit-long-sleeve-tee-light-blue)
-  Updated: 2025-10-19T15:31:38Z
+  Updated: 2025-10-20T02:04:31Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -671,7 +671,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €22.16 EUR
 - [LJ V-BACK SCRUNCH LEGGING - FOREST GREEN](https://yoursportspt.com/products/lj-v-back-scrunch-legging-forest-green)
-  Updated: 2025-10-19T15:33:07Z
+  Updated: 2025-10-20T02:04:31Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -689,7 +689,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €29.36 EUR
 - [KTP MEN'S DRY FIT LONG SLEEVE TEE - NAVY](https://yoursportspt.com/products/ktp-mens-dry-fit-long-sleeve-tee-navy)
-  Updated: 2025-10-19T15:32:01Z
+  Updated: 2025-10-20T02:34:53Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -713,7 +713,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €22.16 EUR
 - [LJ V-BACK SCRUNCH LEGGING - STORM](https://yoursportspt.com/products/lj-v-back-scrunch-legging-storm)
-  Updated: 2025-10-19T15:31:37Z
+  Updated: 2025-10-20T02:04:30Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -731,7 +731,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €29.36 EUR
 - [KTP MEN'S DRY FIT LONG SLEEVE TEE - LIGHT GREY](https://yoursportspt.com/products/ktp-mens-dry-fit-long-sleeve-tee-light-grey)
-  Updated: 2025-10-19T15:31:37Z
+  Updated: 2025-10-20T02:04:35Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -755,7 +755,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €22.16 EUR
 - [KTP MEN'S DRY FIT LONG SLEEVE TEE - DARK GREY](https://yoursportspt.com/products/ktp-mens-dry-fit-long-sleeve-tee-dark-grey)
-  Updated: 2025-10-19T15:31:41Z
+  Updated: 2025-10-20T02:04:35Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -779,7 +779,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €22.16 EUR
 - [KTP BBL JACKET - ESPRESSO](https://yoursportspt.com/products/ktp-bel-jacket-espresso)
-  Updated: 2025-10-19T15:31:56Z
+  Updated: 2025-10-20T02:04:36Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -797,7 +797,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €32.69 EUR
 - [KTP BBL JACKET - BLACK](https://yoursportspt.com/products/ktp-bel-jacket-black)
-  Updated: 2025-10-19T15:31:44Z
+  Updated: 2025-10-20T02:35:10Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -815,7 +815,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €32.69 EUR
 - [KTP BBL JACKET - WHITE](https://yoursportspt.com/products/ktp-bbl-jacket-white)
-  Updated: 2025-10-19T15:31:44Z
+  Updated: 2025-10-20T02:04:36Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -833,7 +833,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €32.69 EUR
 - [KTP BBL JACKET - BERRY](https://yoursportspt.com/products/ktp-bel-jacket-berry)
-  Updated: 2025-10-19T15:31:36Z
+  Updated: 2025-10-20T02:04:40Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -851,7 +851,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €32.69 EUR
 - [KTP BBL JACKET - ELECTRIC BLUE](https://yoursportspt.com/products/ktp-bel-jacket-electric-blue)
-  Updated: 2025-10-19T15:31:39Z
+  Updated: 2025-10-20T02:04:40Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -869,7 +869,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €32.69 EUR
 - [KTP BBL JACKET - DARK RED](https://yoursportspt.com/products/ktp-bel-jacket-dark-red)
-  Updated: 2025-10-19T15:31:39Z
+  Updated: 2025-10-20T02:04:40Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -887,7 +887,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €32.69 EUR
 - [KTP BBL JACKET - COFFEE](https://yoursportspt.com/products/ktp-bel-jacket-coffee)
-  Updated: 2025-10-19T15:31:36Z
+  Updated: 2025-10-20T02:36:19Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -905,7 +905,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €32.69 EUR
 - [SIGNATURE CROP - BLACK](https://yoursportspt.com/products/signature-crop-black)
-  Updated: 2025-10-19T15:31:36Z
+  Updated: 2025-10-20T02:04:40Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -926,7 +926,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €23.27 EUR
 - [SIGNATURE LONG SLEEVE CROP - NAVY](https://yoursportspt.com/products/signature-long-sleeve-crop-top-navy)
-  Updated: 2025-10-19T15:31:35Z
+  Updated: 2025-10-20T02:04:54Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -944,7 +944,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €25.49 EUR
 - [SIGNATURE LONG SLEEVE CROP - BLACK](https://yoursportspt.com/products/signature-long-sleeve-crop-top-black)
-  Updated: 2025-10-19T15:31:52Z
+  Updated: 2025-10-20T02:04:47Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -962,7 +962,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €25.49 EUR
 - [SIGNATURE CROP - NAVY](https://yoursportspt.com/products/signature-crop-navy)
-  Updated: 2025-10-19T15:34:24Z
+  Updated: 2025-10-20T02:04:46Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -983,7 +983,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €23.27 EUR
 - [SIGNATURE FLARE PANTS REGULAR LENGTH - BLACK](https://yoursportspt.com/products/signature-flared-pants-normal-length-black)
-  Updated: 2025-10-19T15:33:01Z
+  Updated: 2025-10-20T02:10:22Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -1004,7 +1004,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €30.47 EUR
 - [SIGNATURE CROP - ESPRESSO](https://yoursportspt.com/products/signature-crop-espresso)
-  Updated: 2025-10-19T15:31:43Z
+  Updated: 2025-10-20T02:36:10Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -1022,7 +1022,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €23.27 EUR
 - [SIGNATURE LONG SLEEVE CROP - ESPRESSO](https://yoursportspt.com/products/signature-long-sleeve-crop-top-espresso)
-  Updated: 2025-10-19T15:31:54Z
+  Updated: 2025-10-20T02:04:53Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -1043,7 +1043,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €25.49 EUR
 - [SIGNATURE FLARE PANTS LONG LENGTH - NAVY](https://yoursportspt.com/products/signature-flared-pants-long-length-navy)
-  Updated: 2025-10-19T15:33:03Z
+  Updated: 2025-10-20T02:04:51Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -1064,7 +1064,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €30.47 EUR
 - [SIGNATURE FLARE PANTS REGULAR LENGTH - NAVY](https://yoursportspt.com/products/signature-flared-pants-normal-length-navy)
-  Updated: 2025-10-19T15:33:05Z
+  Updated: 2025-10-20T02:04:53Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -1085,7 +1085,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €30.47 EUR
 - [SIGNATURE FLARE PANTS LONG LENGTH - BLACK](https://yoursportspt.com/products/signature-flared-pants-long-length-black)
-  Updated: 2025-10-19T15:34:31Z
+  Updated: 2025-10-20T02:04:52Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -1106,7 +1106,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €30.47 EUR
 - [SIGNATURE FLARE PANTS REGULAR LENGTH - ESPRESSO](https://yoursportspt.com/products/signature-flared-pants-normal-length-espresso)
-  Updated: 2025-10-19T15:31:39Z
+  Updated: 2025-10-20T02:36:32Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -1127,7 +1127,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €30.47 EUR
 - [SIGNATURE FLARE PANTS LONG LENGTH -  ESPRESSO](https://yoursportspt.com/products/signature-flared-pants-long-length-espresso)
-  Updated: 2025-10-19T15:31:34Z
+  Updated: 2025-10-20T02:04:58Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -1148,7 +1148,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €30.47 EUR
 - [KTP DRY FIT TANK - WHITE](https://yoursportspt.com/products/ktp-dry-fit-tank-tee-white)
-  Updated: 2025-10-19T15:31:53Z
+  Updated: 2025-10-20T02:35:21Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -1172,7 +1172,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €22.16 EUR
 - [KTP DRY FIT TANK - GREY](https://yoursportspt.com/products/ktp-dry-fit-tank-tee-grey)
-  Updated: 2025-10-19T15:31:58Z
+  Updated: 2025-10-20T02:36:44Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -1196,7 +1196,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €22.16 EUR
 - [KTP DRY FIT TANK - BLACK](https://yoursportspt.com/products/ktp-dry-fit-tank-tee-black)
-  Updated: 2025-10-19T15:31:42Z
+  Updated: 2025-10-20T02:35:14Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -1220,49 +1220,49 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €22.16 EUR
 - [UNISEX CLASSIC CAP - LIGHT BLUE](https://yoursportspt.com/products/unisex-classic-cap-light-blue)
-  Updated: 2025-10-19T15:31:34Z
+  Updated: 2025-10-20T02:04:59Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0962/2231/4760/files/DSC09670.jpg?v=1760882696
   Price: €14.96 EUR
 - [UNISEX CLASSIC CAP - NAVY](https://yoursportspt.com/products/unisex-classic-cap-navy)
-  Updated: 2025-10-19T15:31:50Z
+  Updated: 2025-10-20T02:35:40Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0962/2231/4760/files/DSC09660.jpg?v=1760882701
   Price: €14.96 EUR
 - [UNISEX CLASSIC CAP - LIGHT GREY](https://yoursportspt.com/products/unisex-classic-cap-light-grey)
-  Updated: 2025-10-19T15:34:14Z
+  Updated: 2025-10-20T02:05:14Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0962/2231/4760/files/DSC09614_2.jpg?v=1760882701
   Price: €14.96 EUR
 - [UNISEX CLASSIC CAP - BUBBLEGUM PINK](https://yoursportspt.com/products/unisex-classic-cap-bubblegum-pink)
-  Updated: 2025-10-19T15:31:33Z
+  Updated: 2025-10-20T02:05:04Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0962/2231/4760/files/DSC09666.jpg?v=1760882701
   Price: €14.96 EUR
 - [UNISEX CLASSIC CAP - PINK](https://yoursportspt.com/products/unisex-classic-cap-pink)
-  Updated: 2025-10-19T15:31:33Z
+  Updated: 2025-10-20T02:05:04Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0962/2231/4760/files/DSC09673.jpg?v=1760882701
   Price: €14.96 EUR
 - [UNISEX CLASSIC CAP - CHARCOAL](https://yoursportspt.com/products/unisex-classic-cap-charcoal)
-  Updated: 2025-10-19T15:31:33Z
+  Updated: 2025-10-20T02:05:05Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0962/2231/4760/files/DSC09663.jpg?v=1760882701
   Price: €14.96 EUR
 - [MEN'S KTP RIBBED TANK - KHAKI GREEN](https://yoursportspt.com/products/mens-ktp-ribbed-tank-khaki-green)
-  Updated: 2025-10-19T15:31:33Z
+  Updated: 2025-10-20T02:05:09Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -1286,7 +1286,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €18.28 EUR
 - [CORE SCRUNCH SHORTS - TAHITI ORANGE](https://yoursportspt.com/products/core-scrunch-shorts-tahiti-orange)
-  Updated: 2025-10-19T15:31:52Z
+  Updated: 2025-10-20T02:58:03Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -1304,7 +1304,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €22.16 EUR
 - [CORE SCRUNCH SHORTS - CLOUD GREY](https://yoursportspt.com/products/core-scrunch-shorts-cloud-grey)
-  Updated: 2025-10-19T15:31:37Z
+  Updated: 2025-10-20T02:05:16Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -1322,7 +1322,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €22.16 EUR
 - [MEN'S KTP RIBBED TANK - NAVY](https://yoursportspt.com/products/mens-ktp-ribbed-tank-navy)
-  Updated: 2025-10-19T15:31:51Z
+  Updated: 2025-10-20T02:05:10Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -1346,7 +1346,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €18.28 EUR
 - [MEN'S KTP RIBBED TANK - IVORY](https://yoursportspt.com/products/mens-ktp-ribbed-tank-ivory)
-  Updated: 2025-10-19T15:34:26Z
+  Updated: 2025-10-20T02:05:09Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -1369,8 +1369,8 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
   - [3XL](https://yoursportspt.com/products/mens-ktp-ribbed-tank-ivory?variant=52651350360328)
     Availability: Available
     Price: €18.28 EUR
-- [LJ CROP - ICE BLUE](https://yoursportspt.com/products/lj-crop-ice-blue)
-  Updated: 2025-10-19T15:31:32Z
+- [TOP MOVEO CROP – AZUL GELO](https://yoursportspt.com/products/lj-crop-ice-blue)
+  Updated: 2025-10-20T02:05:16Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -1388,7 +1388,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €23.27 EUR
 - [KTP WOMEN'S CARGO JOGGERS - MARL GREY](https://yoursportspt.com/products/ktp-womens-cargo-pants-marle-grey)
-  Updated: 2025-10-19T15:31:33Z
+  Updated: 2025-10-20T02:56:49Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -1406,7 +1406,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €36.57 EUR
 - [CORE SCRUNCH SHORTS - LEMON](https://yoursportspt.com/products/core-scrunch-shorts-lemon)
-  Updated: 2025-10-19T15:31:51Z
+  Updated: 2025-10-20T02:59:19Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -1424,7 +1424,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €22.16 EUR
 - [KTP WOMEN'S CARGO JOGGERS - BLACK](https://yoursportspt.com/products/ktp-womens-cargo-pants-black)
-  Updated: 2025-10-19T15:32:59Z
+  Updated: 2025-10-20T02:10:39Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -1441,8 +1441,8 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
   - [L](https://yoursportspt.com/products/ktp-womens-cargo-pants-black?variant=52651351245064)
     Availability: Available
     Price: €36.57 EUR
-- [LJ CROP - TAHITI ORANGE](https://yoursportspt.com/products/lj-crop-tahiti-orange)
-  Updated: 2025-10-19T15:31:56Z
+- [TOP MOVEO CROP – LARANJA TAHITI](https://yoursportspt.com/products/lj-crop-tahiti-orange)
+  Updated: 2025-10-20T02:58:03Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -1459,8 +1459,8 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
   - [L](https://yoursportspt.com/products/lj-crop-tahiti-orange?variant=52651351376136)
     Availability: Available
     Price: €23.27 EUR
-- [LJ CROP - PINK](https://yoursportspt.com/products/lj-crop-pink)
-  Updated: 2025-10-19T15:31:31Z
+- [TOP MOVEO CROP – ROSA SUAVE](https://yoursportspt.com/products/lj-crop-pink)
+  Updated: 2025-10-20T02:05:20Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -1477,8 +1477,8 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
   - [L](https://yoursportspt.com/products/lj-crop-pink?variant=52651351736584)
     Availability: Available
     Price: €23.27 EUR
-- [LJ CROP - BERRY](https://yoursportspt.com/products/lj-crop-berry)
-  Updated: 2025-10-19T15:31:31Z
+- [TOP MOVEO CROP – ROXO BERRY](https://yoursportspt.com/products/lj-crop-berry)
+  Updated: 2025-10-20T02:05:20Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -1495,8 +1495,8 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
   - [L](https://yoursportspt.com/products/lj-crop-berry?variant=52651352129800)
     Availability: Available
     Price: €23.27 EUR
-- [LJ CROP - AQUA](https://yoursportspt.com/products/lj-crop-aqua)
-  Updated: 2025-10-19T15:34:24Z
+- [TOP MOVEO CROP – AZUL AQUA](https://yoursportspt.com/products/lj-crop-aqua)
+  Updated: 2025-10-20T02:05:21Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -1513,8 +1513,8 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
   - [L](https://yoursportspt.com/products/lj-crop-aqua?variant=52651351998728)
     Availability: Available
     Price: €23.27 EUR
-- [LJ CROP - ELECTRIC BLUE](https://yoursportspt.com/products/lj-crop-electric-blue)
-  Updated: 2025-10-19T15:34:20Z
+- [TOP MOVEO CROP – AZUL ELÉTRICO](https://yoursportspt.com/products/lj-crop-electric-blue)
+  Updated: 2025-10-20T02:59:19Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -1532,7 +1532,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €23.27 EUR
 - [LJ V-BACK SCRUNCH SHORTS - TAHITI ORANGE](https://yoursportspt.com/products/lj-v-back-scrunch-shorts-tahiti-orange)
-  Updated: 2025-10-19T15:31:31Z
+  Updated: 2025-10-20T02:05:21Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -1550,7 +1550,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €25.49 EUR
 - [LJ V-BACK SCRUNCH SHORTS - PINK](https://yoursportspt.com/products/lj-v-back-scrunch-shorts-pink)
-  Updated: 2025-10-19T15:31:50Z
+  Updated: 2025-10-20T02:05:28Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -1568,7 +1568,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €25.49 EUR
 - [LJ V-BACK SCRUNCH SHORTS - ELECTRIC BLUE](https://yoursportspt.com/products/lj-v-back-scrunch-shorts-electric-blue)
-  Updated: 2025-10-19T15:31:35Z
+  Updated: 2025-10-20T02:05:26Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -1586,7 +1586,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €25.49 EUR
 - [LJ V-BACK SCRUNCH LEGGING - TAHITI ORANGE](https://yoursportspt.com/products/lj-v-back-scrunch-legging-tahiti-orange)
-  Updated: 2025-10-19T15:31:54Z
+  Updated: 2025-10-20T02:05:27Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -1604,7 +1604,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €29.36 EUR
 - [LJ V-BACK SCRUNCH SHORTS - ICE BLUE](https://yoursportspt.com/products/lj-v-back-scrunch-shorts-ice-blue)
-  Updated: 2025-10-19T15:31:38Z
+  Updated: 2025-10-20T02:05:27Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -1622,7 +1622,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €25.49 EUR
 - [LJ V-BACK SCRUNCH SHORTS - AUQA](https://yoursportspt.com/products/lj-v-back-scrunch-shorts-auqa)
-  Updated: 2025-10-19T15:31:35Z
+  Updated: 2025-10-20T02:35:41Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -1640,7 +1640,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €25.49 EUR
 - [LJ V-BACK SCRUNCH LEGGING - AQUA](https://yoursportspt.com/products/lj-v-back-scrunch-legging-auqa)
-  Updated: 2025-10-19T15:31:30Z
+  Updated: 2025-10-20T02:05:33Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -1658,7 +1658,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €29.36 EUR
 - [LJ V-BACK SCRUNCH LEGGING - PINK](https://yoursportspt.com/products/lj-v-back-scrunch-legging-pink)
-  Updated: 2025-10-19T15:32:57Z
+  Updated: 2025-10-20T02:05:34Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -1676,7 +1676,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €29.36 EUR
 - [LJ V-BACK SCRUNCH SHORTS - BERRY](https://yoursportspt.com/products/lj-v-back-scrunch-shorts-berry)
-  Updated: 2025-10-19T15:31:31Z
+  Updated: 2025-10-20T02:36:55Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -1694,7 +1694,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €25.49 EUR
 - [LJ V-BACK SCRUNCH LEGGING - ELECTRIC BLUE](https://yoursportspt.com/products/lj-v-back-scrunch-legging-electric-blue)
-  Updated: 2025-10-19T15:31:30Z
+  Updated: 2025-10-20T02:05:33Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -1712,7 +1712,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €29.36 EUR
 - [LJ V-BACK SCRUNCH LEGGING - ICE BLUE](https://yoursportspt.com/products/lj-v-back-scrunch-legging-ice-blue)
-  Updated: 2025-10-19T15:31:29Z
+  Updated: 2025-10-20T02:11:01Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -1730,7 +1730,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €29.36 EUR
 - [DESIRE CROP - NEON PINK](https://yoursportspt.com/products/desire-crop-neon-pink): The Desire crop is a deep plunge sports bra featuring a low neckline, thick underbust band and removable padding to create shape and flatter the chest nicely. The Desire crop is also made of soft light fabric to ensure breathability while working out. Features - Low plunge neckline - Removable padding - Breathable material
-  Updated: 2025-10-19T15:31:30Z
+  Updated: 2025-10-20T02:05:38Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -1748,7 +1748,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €14.41 EUR
 - [ACTIVE SEAMLESS SHORTS - TURQUOISE GREEN](https://yoursportspt.com/products/active-seamless-shorts-turquoise): A sleek look that will compliment your active lifestyle. Designed for intense workout sessions or stylish comfort. These shorts add colour and fun to your gym wardrobe. The material is comfortable, light and stretchy, perfect for intense training sessions! The fit is tailored to ensure they don’t slide up your thighs, while still lifting the glutes and hugging the waist. FEATURES: - Ribbed flexible mid-length waistband - Perfect modest length - Sweat wicking fabric - Light, stretchy and breathable design - Nylon Spandex composition Model is XS and wears XS
-  Updated: 2025-10-19T15:31:36Z
+  Updated: 2025-10-20T02:05:42Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -1766,7 +1766,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €14.41 EUR
 - [CEE JUMPSUIT - GREY](https://yoursportspt.com/products/cee-jumpsuit-grey): Introducing the Cee jumpsuit; a curation by KTP X Christie Swadling. A true embodiment of luxury and style, this piece will stand out from the rest in your active wardrobe. The Cee jumpsuit features a twist front & cut out detail to flatter and shape the upper body nicely. The backless design and scrunch butt detail adds style and sexiness while enhancing your natural curves. To aid customising the fit, we have a tie up feature to allow for adjusting to your liking. Our KTP X CEE gold metal plate logo is a subtle yet luxurious to touch to the piece. Model; Christie wears size XS Important Note: We want to ensure that you have the best possible experience with our Cee Jumpsuit. While the gold metal logo plate adds a touch of elegance to the garment, it's important to note that this feature may be subject to falling off if the jumpsuit is pulled or stretched too tightly. To maintain the integrity of this feature and enjoy your jumpsuit to its fullest, please handle it with care. Care Instructions: When putting on or taking off the jumpsuit, avoid excessive pulling or stretching that may put pressure on the metal logo plate. Be cautious when engaging in activities that involve stretching or twisting, as these movements may affect the attachment of the logo plate. When washing, we recommend putting in a delicates bag and we recommend air drying instead of drying in a dryer machine. If you notice any loosening or detachment of the logo plate, we recommend having it reattached by a professional tailor or seamstress. Please be aware that we cannot be held responsible for any loss or damage to the metal logo plate. We understand that this feature is a valuable part of the jumpsuit's design, and we advise you to take special care to ensure its longevity. We hope you enjoy the style and comfort of our Cee Jumpsuit, and we appreciate your understanding and cooperation in preserving this unique feature. If you have any questions or concerns, please don't hesitate to contact us. Your satisfaction and enjoyment of our products are our top priorities.
-  Updated: 2025-10-19T15:31:52Z
+  Updated: 2025-10-20T02:05:42Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -1784,7 +1784,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €33.24 EUR
 - [LJ V-BACK SCRUNCH LEGGING - BERRY](https://yoursportspt.com/products/lj-v-back-scrunch-legging-berry)
-  Updated: 2025-10-19T15:32:57Z
+  Updated: 2025-10-20T02:11:12Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -1802,7 +1802,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €29.36 EUR
 - [CEE JUMPSUIT - BEIGE](https://yoursportspt.com/products/cee-jumpsuit-beige): Introducing the Cee jumpsuit; a curation by KTP X Christie Swadling. A true embodiment of luxury and style, this piece will stand out from the rest in your active wardrobe. The Cee jumpsuit features a twist front & cut out detail to flatter and shape the upper body nicely. The backless design and scrunch butt detail adds style and sexiness while enhancing your natural curves. To aid customising the fit, we have a tie up feature to allow for adjusting to your liking. Our KTP X CEE gold metal plate logo is a subtle yet luxurious to touch to the piece. Model; Christie wears size XS Important Note: We want to ensure that you have the best possible experience with our Cee Jumpsuit. While the gold metal logo plate adds a touch of elegance to the garment, it's important to note that this feature may be subject to falling off if the jumpsuit is pulled or stretched too tightly. To maintain the integrity of this feature and enjoy your jumpsuit to its fullest, please handle it with care. Care Instructions: When putting on or taking off the jumpsuit, avoid excessive pulling or stretching that may put pressure on the metal logo plate. Be cautious when engaging in activities that involve stretching or twisting, as these movements may affect the attachment of the logo plate. When washing, we recommend putting in a delicates bag and we recommend air drying instead of drying in a dryer machine. If you notice any loosening or detachment of the logo plate, we recommend having it reattached by a professional tailor or seamstress. Please be aware that we cannot be held responsible for any loss or damage to the metal logo plate. We understand that this feature is a valuable part of the jumpsuit's design, and we advise you to take special care to ensure its longevity. We hope you enjoy the style and comfort of our Cee Jumpsuit, and we appreciate your understanding and cooperation in preserving this unique feature. If you have any questions or concerns, please don't hesitate to contact us. Your satisfaction and enjoyment of our products are our top priorities.
-  Updated: 2025-10-19T15:31:29Z
+  Updated: 2025-10-20T02:05:40Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -1820,7 +1820,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €33.24 EUR
 - [ACTIVE SEAMLESS SHORTS - INDIGO BLUE](https://yoursportspt.com/products/active-seamless-shorts-electric-blue): A sleek look that will compliment your active lifestyle. Designed for intense workout sessions or stylish comfort. These shorts add colour and fun to your gym wardrobe. The material is comfortable, light and stretchy, perfect for intense training sessions! The fit is tailored to ensure they don’t slide up your thighs, while still lifting the glutes and hugging the waist. FEATURES: - Ribbed flexible mid-length waistband - Perfect modest length - Sweat wicking fabric - Light, stretchy and breathable design - Nylon Spandex composition Model wears XS
-  Updated: 2025-10-19T15:31:28Z
+  Updated: 2025-10-20T02:05:45Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -1838,7 +1838,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €14.41 EUR
 - [Inspire Shorts - Neon Pink](https://yoursportspt.com/products/inspire-shorts-neon-pink): The Inspire shorts are here to flatter you all day long, inside or outside the gym. Featuring a subtle scrunch effect and snatched waistband to enhance your curves. Pair with our inspire sports bra for the ultimate matching set. Features: - Subtle scrunch bum detail - Heart-shaped back seams to enhance shape - Breathable - Flattering waistband designed to pull you in at all the right places Model wears size XS
-  Updated: 2025-10-19T15:31:28Z
+  Updated: 2025-10-20T02:36:07Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -1856,7 +1856,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €14.41 EUR
 - [ULTRA SEAMLESS SCRUNCH LEGGINGS - DARK BROWN](https://yoursportspt.com/products/ultra-seamless-scrunch-leggings-dark-brown): The softest, stretchiest and most comfortable scrunch leggings you'll own! The Ultra seamless gets its title for the sleek, seamless design which will fit you like a silk glove. Featuring a subtle scrunch butt effect and contouring around the thighs, these are sure to flatter you, especially on leg day! Features: - Scrunch butt effect - Tall girl friendly - Ultra seamless design - Stretchy, soft fabric - High compressive waistband Model wears size XS
-  Updated: 2025-10-19T15:31:28Z
+  Updated: 2025-10-20T02:05:46Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -1874,7 +1874,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €18.84 EUR
 - [Inspire Crop - Neon Green](https://yoursportspt.com/products/inspire-crop-neon-green): The Inspire crop is here to flatter you all day long, inside or outside the gym. Featuring a twist front and open strappy back, you won't just be reaching for this crop for training days. There's nothing better than a sports bra that not just looks good, but feels good and fits right. Features: - Twist front design - Removable padding - Breathable - Medium to low impact Models wears size XS
-  Updated: 2025-10-19T15:31:51Z
+  Updated: 2025-10-20T02:05:46Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -1892,7 +1892,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €14.41 EUR
 - [Inspire Shorts - Deep Cobalt](https://yoursportspt.com/products/inspire-shorts-cobalt): The Inspire shorts are here to flatter you all day long, inside or outside the gym. Featuring a subtle scrunch effect and snatched waistband to enhance your curves. Pair with our inspire sports bra for the ultimate matching set. Features: - Subtle scrunch bum detail - Heart-shaped back seams to enhance shape - Breathable - Flattering waistband designed to pull you in at all the right places Model wears size XS
-  Updated: 2025-10-19T15:31:47Z
+  Updated: 2025-10-20T02:05:46Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -1910,7 +1910,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €14.41 EUR
 - [REFINE BRA - COBALT](https://yoursportspt.com/products/refine-bra-cobalt): The Refine bra presents a new aura of confidence to your activewear wardrobe. Perfect for summer training days with a strappy yet minimal open back design and moisture wicking fabric. Back days have just been made so much better. In this style we recommend sizing down Features: - Open back design - Removable padding - Breathable - Medium to low impact Models wears size XS
-  Updated: 2025-10-19T15:31:32Z
+  Updated: 2025-10-20T02:05:51Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -1928,7 +1928,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €14.41 EUR
 - [REFINE BRA - LILAC](https://yoursportspt.com/products/refine-bra-lilac): The Refine bra presents a new aura of confidence to your activewear wardrobe. Perfect for summer training days with a strappy yet minimal open back design and moisture wicking fabric. Back days have just been made so much better. In this style we recommend sizing down Features: - Open back design - Removable padding - Breathable - Medium to low impact Models wears size XS
-  Updated: 2025-10-19T15:34:24Z
+  Updated: 2025-10-20T02:05:50Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -1946,7 +1946,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €14.41 EUR
 - [KTP Cropped Tee - White](https://yoursportspt.com/products/cropped-tee-white): The KTP cropped tee is an essential. Layer it over a sports bra at the gym or wear out for coffee with some leggings. Made of super soft high quality fabric with a lightweight, breathable second skin feel, you could wear with ease all day long. Size up if you prefer a more relaxed fit. Features: - Crop fit - Capped sleeves - Breathable, comfortable fit - 4 way stretch Model wears size small
-  Updated: 2025-10-19T15:31:27Z
+  Updated: 2025-10-20T02:37:26Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -1964,7 +1964,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €22.16 EUR
 - [KALI CROP - ESPRESSO](https://yoursportspt.com/products/kali-crop-espresso): SIZING DISCLAIMER: SIZING DOWN IS RECOMENDED. The Kali crop is our most flattering sports bra yet. Featuring a twist front and open back strappy design, you won't just be reaching for this crop for the gym. There's nothing better than a sports bra that not just looks good but feels good too. The Kali crop is made of soft, stretchy high quality material. Features: - Open back design - Removable padding - Breathable - Medium to low impact Models wears size XS
-  Updated: 2025-10-19T15:31:27Z
+  Updated: 2025-10-20T02:05:52Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -1982,7 +1982,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €14.41 EUR
 - [Inspire Crop - Marle Grey](https://yoursportspt.com/products/inspire-crop-marle-grey): The Inspire crop is here to flatter you all day long, inside or outside the gym. Featuring a twist front and open strappy back, you won't just be reaching for this crop for training days. Our marle fabric is our most soft and silky fabric yet. There's nothing better than a sports bra that not just looks good, but feels good and fits right. Features: - Twist front design - Removable padding - Breathable - Medium to low impact Models wears size XS
-  Updated: 2025-10-19T15:31:33Z
+  Updated: 2025-10-20T02:05:50Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -2000,7 +2000,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €14.41 EUR
 - [ZARA ROMPER - MOCHA](https://yoursportspt.com/products/zara-romper-mocha): WE RECOMMEND SIZING DOWN IN THIS STYLE The comfiest and cutest one piece has arrived. The Zara romper was made for ultimate comfort with seamless ultra stretch fabric. Featuring a ribbed fabric mid section to create an hourglass shape and provide tummy control. Features: - Ultra stretch seamless fabric - Removable padding - Thick strap, racer back design for maximum support Model wears size xs
-  Updated: 2025-10-19T15:31:28Z
+  Updated: 2025-10-20T02:05:55Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -2018,7 +2018,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €19.95 EUR
 - [KALI CROP - COBALT](https://yoursportspt.com/products/kali-crop-cobalt): SIZING DISCLAIMER: SIZING DOWN IS RECOMENDED. The Kali crop is our most flattering sports bra yet. Featuring a twist front and open back strappy design, you won't just be reaching for this crop for the gym. There's nothing better than a sports bra that not just looks good but feels good too. The Kali crop is made of soft, stretchy high quality material. Features: - Open back design - Removable padding - Breathable - Medium to low impact Models wears size XS
-  Updated: 2025-10-19T15:31:27Z
+  Updated: 2025-10-20T02:05:56Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -2036,7 +2036,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €14.41 EUR
 - [ZARA ROMPER - NAVY](https://yoursportspt.com/products/zara-romper-navy): WE RECOMMEND SIZING DOWN IN THIS STYLE The comfiest and cutest one piece has arrived. The Zara romper was made for ultimate comfort with seamless ultra stretch fabric. Featuring a ribbed fabric mid section to create an hourglass shape and provide tummy control. Features: - Ultra stretch seamless fabric - Removable padding - Thick strap, racer back design for maximum support Model wears size xs
-  Updated: 2025-10-19T15:31:26Z
+  Updated: 2025-10-20T02:05:56Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -2054,7 +2054,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €19.95 EUR
 - [ZARA ROMPER - KHAKI](https://yoursportspt.com/products/zara-romper-khaki): WE RECOMMEND SIZING DOWN IN THIS STYLE The comfiest and cutest one piece has arrived. The Zara romper was made for ultimate comfort with seamless ultra stretch fabric. Featuring a ribbed fabric mid section to create an hourglass shape and provide tummy control. Features: - Ultra stretch seamless fabric - Removable padding - Thick strap, racer back design for maximum support Model wears size xs
-  Updated: 2025-10-19T15:31:26Z
+  Updated: 2025-10-20T02:05:56Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -2072,7 +2072,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €19.95 EUR
 - [ZARA ROMPER - INDIGO BLUE](https://yoursportspt.com/products/zara-romper-indigo-blue): WE RECOMMEND SIZING DOWN IN THIS STYLE The comfiest and cutest one piece has arrived. The Zara romper was made for ultimate comfort with seamless ultra stretch fabric. Featuring a ribbed fabric mid section to create an hourglass shape and provide tummy control. Features: - Ultra stretch seamless fabric - Removable padding - Thick strap, racer back design for maximum support Model wears size xs
-  Updated: 2025-10-19T15:31:26Z
+  Updated: 2025-10-20T02:05:54Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -2090,7 +2090,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €19.95 EUR
 - [RECOIL HIGH WAIST SCRUNCH SHORTS - DARK KHAKI GREEN](https://yoursportspt.com/products/recoil-high-waist-scrunch-shorts-dark-khaki-green)
-  Updated: 2025-10-19T15:31:33Z
+  Updated: 2025-10-20T02:35:48Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -2111,7 +2111,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €25.49 EUR
 - [BANDEAU - DARK KHAKI GREEN](https://yoursportspt.com/products/bandeau-dark-khaki-green)
-  Updated: 2025-10-19T15:31:25Z
+  Updated: 2025-10-20T02:37:35Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -2129,7 +2129,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €22.16 EUR
 - [DEFINE BRA - DARK KHAKI GREEN](https://yoursportspt.com/products/define-crop-dark-khaki-green)
-  Updated: 2025-10-19T15:31:34Z
+  Updated: 2025-10-20T02:06:00Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -2147,7 +2147,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €22.16 EUR
 - [TWIST HALTER BRA - DARK KHAKI GREEN](https://yoursportspt.com/products/twist-halter-bra-dark-khaki-green)
-  Updated: 2025-10-19T15:31:31Z
+  Updated: 2025-10-20T02:06:01Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -2165,7 +2165,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €22.16 EUR
 - [RECOIL SHORTS -DARK KHAKI GREEN](https://yoursportspt.com/products/recoil-shorts-dark-khaki-green)
-  Updated: 2025-10-19T15:31:25Z
+  Updated: 2025-10-20T02:06:01Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -2186,7 +2186,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €25.49 EUR
 - [KTP MEN'S EMBOSSED HOODIES - WHITE](https://yoursportspt.com/products/ktp-mens-embossed-hoodies-white)
-  Updated: 2025-10-19T15:31:25Z
+  Updated: 2025-10-20T02:06:08Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -2207,7 +2207,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €40.44 EUR
 - [KTP MEN'S EMBOSSED HOODIES - DARK GREY](https://yoursportspt.com/products/ktp-mens-embossed-hoodies-dark-grey)
-  Updated: 2025-10-19T15:34:31Z
+  Updated: 2025-10-20T02:06:06Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -2228,7 +2228,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €40.44 EUR
 - [KTP MEN'S EMBOSSED HOODIES - BLACK](https://yoursportspt.com/products/ktp-mens-embossed-hoodies-black)
-  Updated: 2025-10-19T15:31:25Z
+  Updated: 2025-10-20T02:06:07Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -2249,7 +2249,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €40.44 EUR
 - [MEN'S SEASON 1 HOODIE - CHARCOAL](https://yoursportspt.com/products/mens-season-1-hoodie-charcoal)
-  Updated: 2025-10-19T15:31:42Z
+  Updated: 2025-10-20T02:06:07Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -2270,7 +2270,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €32.69 EUR
 - [MEN'S SEASON 1 HOODIE - TEAL](https://yoursportspt.com/products/mens-season-1-hoodie-teal)
-  Updated: 2025-10-19T15:31:24Z
+  Updated: 2025-10-20T02:36:26Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -2291,7 +2291,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €32.69 EUR
 - [RECOIL HALTER CROP - LEMON](https://yoursportspt.com/products/recoil-halter-crop-lemon)
-  Updated: 2025-10-19T15:31:24Z
+  Updated: 2025-10-20T02:06:16Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -2309,7 +2309,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €23.27 EUR
 - [RECOIL HALTER CROP - BERRY](https://yoursportspt.com/products/recoil-halter-crop-berry)
-  Updated: 2025-10-19T15:31:24Z
+  Updated: 2025-10-20T02:06:14Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -2327,21 +2327,21 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €23.27 EUR
 - [GYM BAG - PINK](https://yoursportspt.com/products/gym-bag-pink)
-  Updated: 2025-10-19T15:32:51Z
+  Updated: 2025-10-20T02:06:13Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0962/2231/4760/files/DSC05889_b1a0f4cc-f989-4f8d-a45a-d3f7c5d198c6.jpg?v=1760882768
   Price: €27.70 EUR
 - [GYM BAG - BUBBLEGUM PINK](https://yoursportspt.com/products/gym-bag-bubblegum-pink)
-  Updated: 2025-10-19T15:31:43Z
+  Updated: 2025-10-20T02:55:13Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0962/2231/4760/files/DSC05908_1.jpg?v=1760882769
   Price: €27.70 EUR
 - [RECOIL HALTER CROP - TAHITI ORANGE](https://yoursportspt.com/products/recoil-halter-crop-tahiti-orange)
-  Updated: 2025-10-19T15:31:41Z
+  Updated: 2025-10-20T02:06:13Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -2359,7 +2359,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €23.27 EUR
 - [RECOIL LEGGING - BERRY](https://yoursportspt.com/products/recoil-legging-berry)
-  Updated: 2025-10-19T15:31:47Z
+  Updated: 2025-10-20T02:06:19Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -2380,7 +2380,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €29.36 EUR
 - [RECOIL LEGGING - PINK](https://yoursportspt.com/products/recoil-legging-pink)
-  Updated: 2025-10-19T15:31:25Z
+  Updated: 2025-10-20T02:06:16Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -2401,7 +2401,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €29.36 EUR
 - [RECOIL HALTER CROP - CLOUD GREY](https://yoursportspt.com/products/recoil-halter-crop-cloud-grey)
-  Updated: 2025-10-19T15:31:31Z
+  Updated: 2025-10-20T02:06:17Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -2419,7 +2419,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €23.27 EUR
 - [RECOIL LEGGING - TEAL](https://yoursportspt.com/products/recoil-legging-teal)
-  Updated: 2025-10-19T15:33:37Z
+  Updated: 2025-10-20T02:06:18Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -2440,7 +2440,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €29.36 EUR
 - [RECOIL HALTER CROP - AQUA](https://yoursportspt.com/products/recoil-halter-crop-aqua)
-  Updated: 2025-10-19T15:31:22Z
+  Updated: 2025-10-20T02:06:18Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -2458,7 +2458,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €23.27 EUR
 - [RECOIL BRALETTE - PINK](https://yoursportspt.com/products/recoil-bralette-light-pink)
-  Updated: 2025-10-19T15:31:24Z
+  Updated: 2025-10-20T02:36:40Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -2476,7 +2476,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €24.38 EUR
 - [RECOIL LEGGING - LEMON](https://yoursportspt.com/products/recoil-legging-lemon)
-  Updated: 2025-10-19T15:31:21Z
+  Updated: 2025-10-20T02:06:24Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -2497,7 +2497,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €29.36 EUR
 - [RECOIL BRALETTE - BUBBLEGUM PINK](https://yoursportspt.com/products/recoil-bralette-bubblegum-pink)
-  Updated: 2025-10-19T15:31:22Z
+  Updated: 2025-10-20T02:55:56Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -2515,7 +2515,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €24.38 EUR
 - [RECOIL LEGGING - TAHITI ORANGE](https://yoursportspt.com/products/recoil-legging-tahiti-orange)
-  Updated: 2025-10-19T15:31:22Z
+  Updated: 2025-10-20T02:06:23Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -2536,7 +2536,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €29.36 EUR
 - [RECOIL LEGGING - CLOUD GREY](https://yoursportspt.com/products/recoil-legging-cloud-grey)
-  Updated: 2025-10-19T15:32:53Z
+  Updated: 2025-10-20T02:06:24Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -2557,7 +2557,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €29.36 EUR
 - [RECOIL BRALETTE - ICE BLUE](https://yoursportspt.com/products/recoil-bralette-ice-blue)
-  Updated: 2025-10-19T15:31:21Z
+  Updated: 2025-10-20T02:06:28Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -2575,7 +2575,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €24.38 EUR
 - [RECOIL BRALETTE - BERRY](https://yoursportspt.com/products/recoil-bralette-berry)
-  Updated: 2025-10-19T15:31:20Z
+  Updated: 2025-10-20T02:06:30Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -2593,7 +2593,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €24.38 EUR
 - [RECOIL BRALETTE - LEMON](https://yoursportspt.com/products/recoil-bralette-lemon)
-  Updated: 2025-10-19T15:31:25Z
+  Updated: 2025-10-20T02:36:49Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -2611,7 +2611,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €24.38 EUR
 - [RECOIL BRALETTE - BLACK](https://yoursportspt.com/products/recoil-bralette-black)
-  Updated: 2025-10-19T15:31:23Z
+  Updated: 2025-10-20T02:06:31Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -2629,7 +2629,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €24.38 EUR
 - [RECOIL BRALETTE - OFF WHITE](https://yoursportspt.com/products/recoil-bralette-off-white)
-  Updated: 2025-10-19T15:31:40Z
+  Updated: 2025-10-20T02:36:49Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -2647,7 +2647,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €24.38 EUR
 - [RECOIL BRALETTE - COFFEE](https://yoursportspt.com/products/recoil-bralette-coffee)
-  Updated: 2025-10-19T15:31:27Z
+  Updated: 2025-10-20T02:36:46Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -2665,7 +2665,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €24.38 EUR
 - [RECOIL BRALETTE - DARK RED](https://yoursportspt.com/products/recoil-bralette-dark-red)
-  Updated: 2025-10-19T15:32:48Z
+  Updated: 2025-10-20T02:06:34Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -2683,7 +2683,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €24.38 EUR
 - [RECOIL BRALETTE - INDIGO](https://yoursportspt.com/products/recoil-bralette-indigo)
-  Updated: 2025-10-19T15:31:20Z
+  Updated: 2025-10-20T02:06:34Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -2701,7 +2701,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €24.38 EUR
 - [RECOIL BRALETTE - ESPRESSO](https://yoursportspt.com/products/recoil-bralette-espresso)
-  Updated: 2025-10-19T15:34:28Z
+  Updated: 2025-10-20T02:06:34Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -2719,7 +2719,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €24.38 EUR
 - [RECOIL BRALETTE - FOREST GREEN](https://yoursportspt.com/products/recoil-bralette-forest-green)
-  Updated: 2025-10-19T15:31:19Z
+  Updated: 2025-10-20T02:06:34Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -2737,7 +2737,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €24.38 EUR
 - [KTP TRAINING SINGLET - WHITE](https://yoursportspt.com/products/ktp-training-singlet-white)
-  Updated: 2025-10-19T15:31:21Z
+  Updated: 2025-10-20T02:06:41Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -2758,7 +2758,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €18.28 EUR
 - [KTP TRAINING SINGLET - BLACK](https://yoursportspt.com/products/ktp-training-singlet-black)
-  Updated: 2025-10-19T15:31:19Z
+  Updated: 2025-10-20T02:06:40Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -2779,7 +2779,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €18.28 EUR
 - [RECOIL BRALETTE - TAHITI ORANGE](https://yoursportspt.com/products/recoil-bralette-tahiti-orange)
-  Updated: 2025-10-19T15:31:29Z
+  Updated: 2025-10-20T02:06:39Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -2797,7 +2797,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €24.38 EUR
 - [KTP TRAINING SHORTS - WHITE](https://yoursportspt.com/products/ktp-training-shorts-white)
-  Updated: 2025-10-19T15:31:18Z
+  Updated: 2025-10-20T02:11:55Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -2821,7 +2821,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €29.36 EUR
 - [KTP TRAINING SHORTS - BLACK](https://yoursportspt.com/products/ktp-training-shorts-black)
-  Updated: 2025-10-19T15:31:33Z
+  Updated: 2025-10-20T02:11:45Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -2845,7 +2845,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €29.36 EUR
 - [CLASSIC V-NECK LONG SLEEVE - WINE](https://yoursportspt.com/products/classic-v-neck-long-sleeve-wine)
-  Updated: 2025-10-19T15:31:39Z
+  Updated: 2025-10-20T02:06:44Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -2863,7 +2863,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €22.16 EUR
 - [KTP TRAINING SHORTS - GREY](https://yoursportspt.com/products/ktp-training-shorts-grey)
-  Updated: 2025-10-19T15:31:19Z
+  Updated: 2025-10-20T02:06:47Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -2887,7 +2887,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €29.36 EUR
 - [CLASSIC V-NECK LONG SLEEVE - BLACK](https://yoursportspt.com/products/classic-v-neck-long-sleeve-black)
-  Updated: 2025-10-19T15:32:48Z
+  Updated: 2025-10-20T02:12:03Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -2905,7 +2905,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €22.16 EUR
 - [CLASSIC WIDE LEG SWEATPANTS - WINE](https://yoursportspt.com/products/classic-wide-leg-sweatpants-wine)
-  Updated: 2025-10-19T15:31:18Z
+  Updated: 2025-10-20T02:06:45Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -2923,7 +2923,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €29.36 EUR
 - [CLASSIC V-NECK LONG SLEEVE - BONE](https://yoursportspt.com/products/classic-v-neck-long-sleeve-bone)
-  Updated: 2025-10-19T15:31:25Z
+  Updated: 2025-10-20T02:06:44Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -2941,7 +2941,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €22.16 EUR
 - [DEFINE SHORTS - RED](https://yoursportspt.com/products/define-shorts-red): The Define shorts are here to flatter you all day long, inside or outside the gym. Featuring a subtle scrunch effect and snatched waistband to enhance your curves. Sizing Model wears size XS Features: - Subtle scrunch bum detail - Heart-shaped back seams to enhance shape - Breathable - Flattering waistband designed to pull you in at all the right places
-  Updated: 2025-10-19T15:31:27Z
+  Updated: 2025-10-20T02:06:51Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -2959,14 +2959,14 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €22.16 EUR
 - [KTP BOTTLE - OFF WHITE](https://yoursportspt.com/products/ktp-bottle-off-white)
-  Updated: 2025-10-19T15:34:23Z
+  Updated: 2025-10-20T02:59:20Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0962/2231/4760/files/Untitled_1080x1440px_9.png?v=1760882808
   Price: €15.51 EUR
 - [CLASSIC WIDE LEG SWEATPANTS - BLACK](https://yoursportspt.com/products/classic-wide-leg-sweatpants-black)
-  Updated: 2025-10-19T15:31:35Z
+  Updated: 2025-10-20T02:06:51Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -2984,7 +2984,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €29.36 EUR
 - [CLASSIC WIDE LEG SWEATPANTS - BONE](https://yoursportspt.com/products/classic-wide-leg-sweatpants-bone)
-  Updated: 2025-10-19T15:34:21Z
+  Updated: 2025-10-20T02:06:50Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -3002,7 +3002,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €29.36 EUR
 - [DEFINE SHORTS - ICE BLUE](https://yoursportspt.com/products/define-shorts-ice-blue): The Define shorts are here to flatter you all day long, inside or outside the gym. Featuring a subtle scrunch effect and snatched waistband to enhance your curves. Sizing Model wears size XS Features: - Subtle scrunch bum detail - Heart-shaped back seams to enhance shape - Breathable - Flattering waistband designed to pull you in at all the right places
-  Updated: 2025-10-19T15:31:24Z
+  Updated: 2025-10-20T02:38:11Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -3020,21 +3020,21 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €22.16 EUR
 - [KTP BOTTLE - CREAM](https://yoursportspt.com/products/ktp-bottle-cream)
-  Updated: 2025-10-19T15:31:39Z
+  Updated: 2025-10-20T02:06:57Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0962/2231/4760/files/Untitled_1080x1440px_6.png?v=1760882813
   Price: €15.51 EUR
 - [KTP BOTTLE - PINK](https://yoursportspt.com/products/ktp-bottle-pink)
-  Updated: 2025-10-19T15:31:17Z
+  Updated: 2025-10-20T02:06:57Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0962/2231/4760/files/Untitled_1080x1440px_8.png?v=1760882813
   Price: €15.51 EUR
 - [KTP UNISEX ESSENTIAL JOGGERS - KHAKI GREY](https://yoursportspt.com/products/ktp-essential-joggers-khaki-grey)
-  Updated: 2025-10-19T15:31:17Z
+  Updated: 2025-10-20T02:06:57Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -3058,14 +3058,14 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €29.36 EUR
 - [KTP BOTTLE - BLACK](https://yoursportspt.com/products/ktp-bottle-black)
-  Updated: 2025-10-19T15:31:17Z
+  Updated: 2025-10-20T02:06:58Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0962/2231/4760/files/Untitled_1080x1440px_7.png?v=1760882814
   Price: €15.51 EUR
 - [KTP UNISEX ESSENTIAL JOGGERS - BLACK](https://yoursportspt.com/products/ktp-essential-joggers-black)
-  Updated: 2025-10-19T15:31:32Z
+  Updated: 2025-10-20T02:06:58Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -3089,7 +3089,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €29.36 EUR
 - [KTP UNISEX ESSENTIAL JOGGERS - NAVY](https://yoursportspt.com/products/ktp-essential-joggers-navy)
-  Updated: 2025-10-19T15:32:46Z
+  Updated: 2025-10-20T02:37:17Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -3113,7 +3113,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €29.36 EUR
 - [KTP UNISEX ESSENTIAL JOGGERS - LIGHT GREY](https://yoursportspt.com/products/ktp-essential-joggers-light-grey)
-  Updated: 2025-10-19T15:34:29Z
+  Updated: 2025-10-20T02:38:26Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -3137,7 +3137,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €29.36 EUR
 - [OVERSIZED TEE - PINK](https://yoursportspt.com/products/oversized-tee-pink)
-  Updated: 2025-10-19T15:31:17Z
+  Updated: 2025-10-20T02:56:04Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -3161,7 +3161,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €17.73 EUR
 - [MEN'S KTP RIBBED TANK - LIGHT GREY](https://yoursportspt.com/products/ktp-ribbed-tank-light-grey)
-  Updated: 2025-10-19T15:31:20Z
+  Updated: 2025-10-20T02:07:03Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -3185,7 +3185,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €18.28 EUR
 - [KTP UNISEX ESSENTIAL JOGGERS- OFF WHITE](https://yoursportspt.com/products/ktp-essential-joggers-off-white)
-  Updated: 2025-10-19T15:31:15Z
+  Updated: 2025-10-20T02:07:03Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -3209,7 +3209,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €29.36 EUR
 - [KTP MEN'S EMBOSSED TANK - ICE BLUE](https://yoursportspt.com/products/ktp-mens-embossed-tank-ice-blue)
-  Updated: 2025-10-19T15:34:25Z
+  Updated: 2025-10-20T02:37:11Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -3233,7 +3233,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €22.16 EUR
 - [KTP MEN'S EMBOSSED TANK - CREAM](https://yoursportspt.com/products/ktp-mens-embossed-tank-cream)
-  Updated: 2025-10-19T15:31:16Z
+  Updated: 2025-10-20T02:55:10Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -3257,7 +3257,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €22.16 EUR
 - [MEN'S KTP RIBBED TANK - WHITE](https://yoursportspt.com/products/ktp-ribbed-tank-white-1)
-  Updated: 2025-10-19T15:31:15Z
+  Updated: 2025-10-20T02:07:10Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -3281,7 +3281,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €18.28 EUR
 - [MEN'S KTP RIBBED TANK - BLACK](https://yoursportspt.com/products/ktp-ribbed-tank-black-1)
-  Updated: 2025-10-19T15:31:19Z
+  Updated: 2025-10-20T02:07:08Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -3305,7 +3305,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €18.28 EUR
 - [KTP MEN'S EMBOSSED TANK - TEAL](https://yoursportspt.com/products/ktp-mens-embossed-tank-teal)
-  Updated: 2025-10-19T15:31:15Z
+  Updated: 2025-10-20T02:07:09Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -3329,7 +3329,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €22.16 EUR
 - [KTP MEN'S EMBOSSED TANK - BLACK](https://yoursportspt.com/products/ktp-mens-embossed-tank-black)
-  Updated: 2025-10-19T15:31:24Z
+  Updated: 2025-10-20T02:12:09Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -3353,7 +3353,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €22.16 EUR
 - [KTP MEN'S EMBOSSED TANK - MARLE GREY](https://yoursportspt.com/products/ktp-mens-embossed-tank-marle-grey)
-  Updated: 2025-10-19T15:31:15Z
+  Updated: 2025-10-20T02:07:20Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -3377,7 +3377,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €22.16 EUR
 - [KTP MEN'S EMBOSSED TANK - WHITE](https://yoursportspt.com/products/ktp-mens-embossed-tank-white)
-  Updated: 2025-10-19T15:31:32Z
+  Updated: 2025-10-20T02:38:23Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -3401,7 +3401,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €22.16 EUR
 - [SLEEK TANK TOP - NEON PINK](https://yoursportspt.com/products/sleek-tank-top-neon-pink)
-  Updated: 2025-10-19T15:31:15Z
+  Updated: 2025-10-20T02:37:40Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -3419,7 +3419,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €22.16 EUR
 - [SLEEK BRA - NEON PINK](https://yoursportspt.com/products/sleek-bra-neon-pink)
-  Updated: 2025-10-19T15:31:21Z
+  Updated: 2025-10-20T02:07:14Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -3437,7 +3437,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €22.16 EUR
 - [SLEEK BRA - BERRY](https://yoursportspt.com/products/sleek-bra-berry)
-  Updated: 2025-10-19T15:31:16Z
+  Updated: 2025-10-20T02:07:21Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -3455,7 +3455,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €22.16 EUR
 - [SLEEK SCRUNCH SHORTS - LEMON](https://yoursportspt.com/products/sleek-scrunch-shorts-lemon)
-  Updated: 2025-10-19T15:31:16Z
+  Updated: 2025-10-20T02:07:20Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -3473,7 +3473,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €22.16 EUR
 - [SLEEK SCRUNCH SHORTS - NEON PINK](https://yoursportspt.com/products/sleek-scrunch-shorts-neon-pink)
-  Updated: 2025-10-19T15:31:17Z
+  Updated: 2025-10-20T02:07:21Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -3491,7 +3491,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €22.16 EUR
 - [SLEEK BRA - CRANBERRY](https://yoursportspt.com/products/sleek-bra-cranberry)
-  Updated: 2025-10-19T15:31:21Z
+  Updated: 2025-10-20T02:07:25Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -3509,7 +3509,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €22.16 EUR
 - [SLEEK BRA - LEMON](https://yoursportspt.com/products/sleek-bra-lemon)
-  Updated: 2025-10-19T15:31:14Z
+  Updated: 2025-10-20T02:07:31Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -3527,7 +3527,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €22.16 EUR
 - [SLEEK TOP LONG SLEEVE - LEMON](https://yoursportspt.com/products/sleek-top-long-sleeve-lemon)
-  Updated: 2025-10-19T15:31:17Z
+  Updated: 2025-10-20T02:56:49Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -3545,7 +3545,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €22.16 EUR
 - [SLEEK TOP LONG SLEEVE - NEON PINK](https://yoursportspt.com/products/sleek-top-long-sleeve-neon-pink)
-  Updated: 2025-10-19T15:31:20Z
+  Updated: 2025-10-20T02:07:26Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -3563,7 +3563,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €22.16 EUR
 - [SLEEK SCRUNCH SHORTS - BERRY](https://yoursportspt.com/products/sleek-scrunch-shorts-berry)
-  Updated: 2025-10-19T15:31:13Z
+  Updated: 2025-10-20T02:07:28Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -3581,7 +3581,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €22.16 EUR
 - [SLEEK TOP LONG SLEEVE - BERRY](https://yoursportspt.com/products/sleek-top-long-sleeve-berry)
-  Updated: 2025-10-19T15:31:32Z
+  Updated: 2025-10-20T02:38:51Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -3599,7 +3599,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €22.16 EUR
 - [SLEEK SCRUNCH SHORTS - CRANBERRY](https://yoursportspt.com/products/sleek-scrunch-shorts-cranberry)
-  Updated: 2025-10-19T15:31:12Z
+  Updated: 2025-10-20T02:07:27Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -3617,7 +3617,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €22.16 EUR
 - [SLEEK TOP SHORT SLEEVE - BERRY](https://yoursportspt.com/products/sleek-top-short-sleeve-berry)
-  Updated: 2025-10-19T15:31:13Z
+  Updated: 2025-10-20T02:07:31Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -3635,7 +3635,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €14.41 EUR
 - [SLEEK TANK TOP - LEMON](https://yoursportspt.com/products/sleek-tank-top-lemon)
-  Updated: 2025-10-19T15:31:18Z
+  Updated: 2025-10-20T02:07:35Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -3653,7 +3653,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €22.16 EUR
 - [SLEEK TOP SHORT SLEEVE - LEMON](https://yoursportspt.com/products/sleek-top-short-sleeve-lemon)
-  Updated: 2025-10-19T15:34:28Z
+  Updated: 2025-10-20T02:37:57Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -3671,7 +3671,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €14.41 EUR
 - [SLEEK TOP LONG SLEEVE - CRANBERRY](https://yoursportspt.com/products/sleek-top-long-sleeve-cranberry)
-  Updated: 2025-10-19T15:31:12Z
+  Updated: 2025-10-20T02:12:29Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -3689,7 +3689,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €22.16 EUR
 - [SLEEK TOP SHORT SLEEVE - NEON PINK](https://yoursportspt.com/products/sleek-top-short-sleeve-neon-pink)
-  Updated: 2025-10-19T15:31:12Z
+  Updated: 2025-10-20T02:07:34Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -3707,7 +3707,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €14.41 EUR
 - [SLEEK SCRUNCH LEGGING-LEMON](https://yoursportspt.com/products/sleek-scrunch-legging-lemon)
-  Updated: 2025-10-19T15:31:13Z
+  Updated: 2025-10-20T02:12:27Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -3725,7 +3725,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €22.16 EUR
 - [SLEEK TANK TOP - BERRY](https://yoursportspt.com/products/sleek-tank-top-berry)
-  Updated: 2025-10-19T15:31:11Z
+  Updated: 2025-10-20T02:37:40Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -3743,7 +3743,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €22.16 EUR
 - [SLEEK TANK TOP - CRANBERRY](https://yoursportspt.com/products/sleek-tank-top-cranberry)
-  Updated: 2025-10-19T15:31:17Z
+  Updated: 2025-10-20T02:38:36Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -3761,7 +3761,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €22.16 EUR
 - [SLEEK SCRUNCH LEGGING-CRANBERRY](https://yoursportspt.com/products/sleek-scrunch-legging-cranberry)
-  Updated: 2025-10-19T15:31:15Z
+  Updated: 2025-10-20T02:07:53Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -3779,7 +3779,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €22.16 EUR
 - [SLEEK SCRUNCH LEGGING-NEON PINK](https://yoursportspt.com/products/sleek-scrunch-legging-neon-pink)
-  Updated: 2025-10-19T15:31:17Z
+  Updated: 2025-10-20T02:07:40Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -3797,7 +3797,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €22.16 EUR
 - [DEFINE SHORTS - BERRY](https://yoursportspt.com/products/define-shorts-berry): The Define shorts are here to flatter you all day long, inside or outside the gym. Featuring a subtle scrunch effect and snatched waistband to enhance your curves. Sizing Model wears size XS Features: - Subtle scrunch bum detail - Heart-shaped back seams to enhance shape - Breathable - Flattering waistband designed to pull you in at all the right places
-  Updated: 2025-10-19T15:31:17Z
+  Updated: 2025-10-20T02:12:44Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -3815,7 +3815,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €22.16 EUR
 - [LUXE CROP - COFFEE](https://yoursportspt.com/products/luxe-crop-coffee): Classy & cute is the best way to describe our Luxe crop. It's basic, yet luxe design and feel makes it a timeless piece you'll never stop reaching for. Our favourite thing about the luxe crop is the silky soft feel of the fabric, made of the highest quality nylon/spandex blend. The contoured shape of the curved front design also gives a very flattering look to the bust. Features: - Curved contour front design - Luxe soft feel fabric - U shaped back design - Removable padding - Medium impact Model wears size XS
-  Updated: 2025-10-19T15:31:11Z
+  Updated: 2025-10-20T02:38:06Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -3833,7 +3833,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €22.16 EUR
 - [LUXE CROP - BABY PINK](https://yoursportspt.com/products/luxe-crop-baby-pink): Classy & cute is the best way to describe our Luxe crop. It's basic, yet luxe design and feel makes it a timeless piece you'll never stop reaching for. Our favourite thing about the luxe crop is the silky soft feel of the fabric, made of the highest quality nylon/spandex blend. The contoured shape of the curved front design also gives a very flattering look to the bust. Features: - Curved contour front design - Luxe soft feel fabric - U shaped back design - Removable padding - Medium impact Model wears size XS
-  Updated: 2025-10-19T15:31:15Z
+  Updated: 2025-10-20T02:58:29Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -3851,7 +3851,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €14.41 EUR
 - [SLEEK SCRUNCH LEGGING - BERRY](https://yoursportspt.com/products/sleek-scrunch-legging-berry)
-  Updated: 2025-10-19T15:31:23Z
+  Updated: 2025-10-20T02:07:42Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -3869,7 +3869,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €22.16 EUR
 - [SLEEK TOP SHORT SLEEVE - CRANBERRY](https://yoursportspt.com/products/sleek-top-short-sleeve-cranberry)
-  Updated: 2025-10-19T15:31:10Z
+  Updated: 2025-10-20T02:07:43Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -3887,7 +3887,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €14.41 EUR
 - [SIERRA JUMPSUIT - DARK RED](https://yoursportspt.com/products/sierra-jumpsuit-dark-red)
-  Updated: 2025-10-19T15:31:11Z
+  Updated: 2025-10-20T02:07:49Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -3908,7 +3908,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €33.24 EUR
 - [SIERRA JUMPSUIT - AQUA](https://yoursportspt.com/products/sierra-jumpsuit-aqua)
-  Updated: 2025-10-19T15:31:14Z
+  Updated: 2025-10-20T02:07:50Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -3929,7 +3929,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €33.24 EUR
 - [KAYLA CROP - RED](https://yoursportspt.com/products/kayla-crop-red)
-  Updated: 2025-10-19T15:31:08Z
+  Updated: 2025-10-20T02:13:00Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -3947,7 +3947,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €22.16 EUR
 - [SIERRA JUMPSUIT - BERRY](https://yoursportspt.com/products/sierra-jumpsuit-berry)
-  Updated: 2025-10-19T15:31:08Z
+  Updated: 2025-10-20T02:07:48Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -3968,7 +3968,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €33.24 EUR
 - [SIERRA JUMPSUIT - CRANBERRY](https://yoursportspt.com/products/sierra-jumpsuit-cranberry)
-  Updated: 2025-10-19T15:31:28Z
+  Updated: 2025-10-20T02:39:14Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -3989,7 +3989,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €33.24 EUR
 - [SIERRA JUMPSUIT - TAHITI ORANGE](https://yoursportspt.com/products/sierra-jumpsuit-tahiti-orange)
-  Updated: 2025-10-19T15:32:17Z
+  Updated: 2025-10-20T02:08:00Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -4010,7 +4010,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €33.24 EUR
 - [OVERSIZED TEE - BLUE](https://yoursportspt.com/products/oversized-tee-blue): Our unisex oversized tee is the perfect pump cover for training in, while also being a staple tee to throw on when going out and about. Features: Tag loop label - Crew neck - Acid wash fabric - 100% cotton Model is 184cm tall, usually wears Large and is wearing a size large.
-  Updated: 2025-10-19T15:31:15Z
+  Updated: 2025-10-20T02:58:29Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -4034,7 +4034,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €22.16 EUR
 - [OVERSIZED TEE - BLACK](https://yoursportspt.com/products/oversized-tee-black): Our unisex oversized tee is the perfect pump cover for training in, while also being a staple tee to throw on when going out and about. Features: Tag loop label - Crew neck - Acid wash fabric - 100% cotton Model is 184cm tall, usually wears Large and is wearing a size large.
-  Updated: 2025-10-19T15:31:08Z
+  Updated: 2025-10-20T02:07:55Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -4055,7 +4055,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €22.16 EUR
 - [SIERRA JUMPSUIT - LEMON](https://yoursportspt.com/products/sierra-jumpsuit-lemon)
-  Updated: 2025-10-19T15:31:11Z
+  Updated: 2025-10-20T02:08:06Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -4076,7 +4076,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €33.24 EUR
 - [SIERRA JUMPSUIT - CLOUD GREY](https://yoursportspt.com/products/sierra-jumpsuit-cloud-grey)
-  Updated: 2025-10-19T15:31:13Z
+  Updated: 2025-10-20T02:08:02Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -4097,7 +4097,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €33.24 EUR
 - [OVERSIZED TEE - BEIGE](https://yoursportspt.com/products/oversized-tee-beige): Our unisex oversized tee is the perfect pump cover for training in, while also being a staple tee to throw on when going out and about. Features: Tag loop label - Crew neck - Acid wash fabric - 100% cotton Model is 184cm tall, usually wears Large and is wearing a size large.
-  Updated: 2025-10-19T15:31:16Z
+  Updated: 2025-10-20T02:08:00Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -4121,7 +4121,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €22.16 EUR
 - [OVERSIZED TEE - CHARCOAL](https://yoursportspt.com/products/oversized-tee-charcoal): Our unisex oversized tee is the perfect pump cover for training in, while also being a staple tee to throw on when going out and about. Features: Tag loop label - Crew neck - Acid wash fabric - 100% cotton Model is 184cm tall, usually wears Large and is wearing a size large.
-  Updated: 2025-10-19T15:31:17Z
+  Updated: 2025-10-20T02:38:20Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -4145,7 +4145,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €22.16 EUR
 - [OVERSIZED TEE - WHITE](https://yoursportspt.com/products/oversized-tee-white): Our unisex oversized tee is the perfect pump cover for training in, while also being a staple tee to throw on when going out and about. Features: Tag loop label - Crew neck - Acid wash fabric - 100% cotton Model is 184cm tall, usually wears Large and is wearing a size large.
-  Updated: 2025-10-19T15:32:16Z
+  Updated: 2025-10-20T02:39:15Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -4165,8 +4165,8 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
   - [XXL](https://yoursportspt.com/products/oversized-tee-white?variant=52651379818760)
     Availability: Available
     Price: €22.16 EUR
-- [LJ CROP - LIME GREEN](https://yoursportspt.com/products/lj-crop-lime-green)
-  Updated: 2025-10-19T15:31:19Z
+- [TOP MOVEO CROP – VERDE LIMA](https://yoursportspt.com/products/lj-crop-lime-green)
+  Updated: 2025-10-20T02:08:00Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -4184,7 +4184,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €23.27 EUR
 - [OVERSIZED TEE - SALMON](https://yoursportspt.com/products/oversized-tee-salmon): Our unisex oversized tee is the perfect pump cover for training in, while also being a staple tee to throw on when going out and about. Features: Tag loop label - Crew neck - Acid wash fabric - 100% cotton Model is 184cm tall, usually wears Large and is wearing a size large.
-  Updated: 2025-10-19T15:31:09Z
+  Updated: 2025-10-20T02:59:38Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -4207,8 +4207,8 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
   - [XXL / Salmon](https://yoursportspt.com/products/oversized-tee-salmon?variant=52651380015368)
     Availability: Available
     Price: €22.16 EUR
-- [LJ CROP - RED](https://yoursportspt.com/products/lj-crop-red)
-  Updated: 2025-10-19T15:31:11Z
+- [TOP MOVEO CROP – VERMELHO INTENSO](https://yoursportspt.com/products/lj-crop-red)
+  Updated: 2025-10-20T02:08:04Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -4225,8 +4225,8 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
   - [L](https://yoursportspt.com/products/lj-crop-red?variant=52651380703496)
     Availability: Available
     Price: €23.27 EUR
-- [LJ CROP - LEMON](https://yoursportspt.com/products/lj-crop-lemon)
-  Updated: 2025-10-19T15:31:18Z
+- [TOP MOVEO CROP – AMARELO LIMÃO](https://yoursportspt.com/products/lj-crop-lemon)
+  Updated: 2025-10-20T02:08:05Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -4243,8 +4243,8 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
   - [L](https://yoursportspt.com/products/lj-crop-lemon?variant=52651380572424)
     Availability: Available
     Price: €23.27 EUR
-- [LJ CROP - INDIGO](https://yoursportspt.com/products/lj-crop-indigo)
-  Updated: 2025-10-19T15:32:15Z
+- [TOP MOVEO CROP – AZUL ÍNDIGO](https://yoursportspt.com/products/lj-crop-indigo)
+  Updated: 2025-10-20T02:08:06Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -4261,8 +4261,8 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
   - [L](https://yoursportspt.com/products/lj-crop-indigo?variant=52651380441352)
     Availability: Available
     Price: €23.27 EUR
-- [LJ CROP - BUBBLEGUM PINK](https://yoursportspt.com/products/lj-crop-bubblegum-pink)
-  Updated: 2025-10-19T15:31:17Z
+- [TOP MOVEO CROP – ROSA CHICLETE](https://yoursportspt.com/products/lj-crop-bubblegum-pink)
+  Updated: 2025-10-20T02:08:08Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -4279,8 +4279,8 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
   - [L](https://yoursportspt.com/products/lj-crop-bubblegum-pink?variant=52651380834568)
     Availability: Available
     Price: €23.27 EUR
-- [LJ CROP - CRANBERRY](https://yoursportspt.com/products/lj-crop-cranberry)
-  Updated: 2025-10-19T15:31:20Z
+- [TOP MOVEO CROP – VERMELHO CRANBERRY](https://yoursportspt.com/products/lj-crop-cranberry)
+  Updated: 2025-10-20T02:08:08Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -4298,7 +4298,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €23.27 EUR
 - [LJ V-BACK SCRUNCH SHORTS - INDIGO](https://yoursportspt.com/products/lj-v-back-scrunch-shorts-indigo)
-  Updated: 2025-10-19T15:31:06Z
+  Updated: 2025-10-20T02:08:13Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -4316,7 +4316,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €25.49 EUR
 - [LJ V-BACK SCRUNCH SHORTS - BUBBLEGUM PINK](https://yoursportspt.com/products/lj-v-back-scrunch-shorts-bubblegum-pink)
-  Updated: 2025-10-19T15:31:07Z
+  Updated: 2025-10-20T02:08:12Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -4334,7 +4334,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €25.49 EUR
 - [LJ V-BACK SCRUNCH SHORTS - LIME GREEN](https://yoursportspt.com/products/lj-v-back-scrunch-shorts-lime-green)
-  Updated: 2025-10-19T15:34:22Z
+  Updated: 2025-10-20T02:08:12Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -4352,7 +4352,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €25.49 EUR
 - [LJ V-BACK SCRUNCH SHORTS - LEMON](https://yoursportspt.com/products/lj-v-back-scrunch-shorts-lemon)
-  Updated: 2025-10-19T15:31:05Z
+  Updated: 2025-10-20T02:08:13Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -4370,7 +4370,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €25.49 EUR
 - [LJ V-BACK SCRUNCH SHORTS - RED](https://yoursportspt.com/products/lj-v-back-scrunch-shorts-red)
-  Updated: 2025-10-19T15:31:07Z
+  Updated: 2025-10-20T02:08:12Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -4388,7 +4388,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €25.49 EUR
 - [LJ V-BACK SCRUNCH LEGGING - LEMON](https://yoursportspt.com/products/lj-v-back-scrunch-legging-lemon)
-  Updated: 2025-10-19T15:31:18Z
+  Updated: 2025-10-20T02:13:13Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -4406,7 +4406,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €29.36 EUR
 - [LJ V-BACK SCRUNCH SHORTS - CRANBERRY](https://yoursportspt.com/products/lj-v-back-scrunch-shorts-cranberry)
-  Updated: 2025-10-19T15:34:21Z
+  Updated: 2025-10-20T02:13:13Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -4424,7 +4424,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €25.49 EUR
 - [LJ V-BACK SCRUNCH LEGGING - BUBBLEGUM PINK](https://yoursportspt.com/products/lj-v-back-scrunch-legging-bubblegum-pink)
-  Updated: 2025-10-19T15:31:16Z
+  Updated: 2025-10-20T02:08:19Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -4442,7 +4442,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €29.36 EUR
 - [LJ V-BACK SCRUNCH LEGGING - INDIGO](https://yoursportspt.com/products/lj-v-back-scrunch-legging-indigo)
-  Updated: 2025-10-19T15:31:16Z
+  Updated: 2025-10-20T02:58:29Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -4460,7 +4460,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €29.36 EUR
 - [LJ V-BACK SCRUNCH LEGGING - RED](https://yoursportspt.com/products/lj-v-back-scrunch-legging-red)
-  Updated: 2025-10-19T15:31:06Z
+  Updated: 2025-10-20T03:02:41Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -4478,7 +4478,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €29.36 EUR
 - [LJ V-BACK SCRUNCH LEGGING - LIME GREEN](https://yoursportspt.com/products/lj-v-back-scrunch-legging-lime-green)
-  Updated: 2025-10-19T15:31:12Z
+  Updated: 2025-10-20T02:08:24Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -4496,7 +4496,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €29.36 EUR
 - [LJ V-BACK SCRUNCH LEGGING - CRANBERRY](https://yoursportspt.com/products/lj-v-back-scrunch-legging-cranberry)
-  Updated: 2025-10-19T15:31:25Z
+  Updated: 2025-10-20T02:13:18Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -4514,7 +4514,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €29.36 EUR
 - [BANDEAU - ORANGE SHERBET](https://yoursportspt.com/products/bandeau-orange-sherbert)
-  Updated: 2025-10-19T15:34:27Z
+  Updated: 2025-10-20T02:59:38Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -4532,7 +4532,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €22.16 EUR
 - [RECOIL HIGH WAIST SCRUNCH SHORTS - TAHITI ORANGE](https://yoursportspt.com/products/recoil-high-waist-scrunch-shorts-tahiti-orange): Introducing the New Era of High-Waisted Recoil Shorts! Your favorite best-selling Recoil Shorts just got an upgrade! Say hello to the High-Waisted Recoil, designed to take your summer wardrobe to the next level. Waistband height: 8.5cm These ultimate booty-enhancing shorts feature: ✨ A sleek invisible scrunch for the perfect lift. ✨ A supportive high-waistband for a flawless, sculpted fit. ✨ A style that combines comfort, confidence, and performance. Get ready to turn heads this summer in the shorts that do it all. High-waisted never looked so good!
-  Updated: 2025-10-19T15:31:07Z
+  Updated: 2025-10-20T02:13:18Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -4556,7 +4556,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €25.49 EUR
 - [LUXE CROP - ESPRESSO](https://yoursportspt.com/products/luxe-crop-coco): Classy & cute is the best way to describe our Luxe crop. It's basic, yet luxe design and feel makes it a timeless piece you'll never stop reaching for. Our favourite thing about the luxe crop is the silky soft feel of the fabric, made of the highest quality nylon/spandex blend. The contoured shape of the curved front design also gives a very flattering look to the bust. Features: - Curved contour front design - Luxe soft feel fabric - U shaped back design - Removable padding - Medium impact Model wears size XS
-  Updated: 2025-10-19T15:31:04Z
+  Updated: 2025-10-20T02:08:26Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -4574,7 +4574,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €22.16 EUR
 - [LUXE CROP - SKY BLUE](https://yoursportspt.com/products/luxe-crop-sky-blue): Classy & cute is the best way to describe our Luxe crop. It's basic, yet luxe design and feel makes it a timeless piece you'll never stop reaching for. Our favourite thing about the luxe crop is the silky soft feel of the fabric, made of the highest quality nylon/spandex blend. The contoured shape of the curved front design also gives a very flattering look to the bust. Features: - Curved contour front design - Luxe soft feel fabric - U shaped back design - Removable padding - Medium impact Model wears size XS
-  Updated: 2025-10-19T15:31:16Z
+  Updated: 2025-10-20T02:08:29Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -4592,7 +4592,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €14.41 EUR
 - [LUXE CROP - RED](https://yoursportspt.com/products/luxe-crop-red): Classy & cute is the best way to describe our Luxe crop. It's basic, yet luxe design and feel makes it a timeless piece you'll never stop reaching for. Our favourite thing about the luxe crop is the silky soft feel of the fabric, made of the highest quality nylon/spandex blend. The contoured shape of the curved front design also gives a very flattering look to the bust. Features: - Curved contour front design - Luxe soft feel fabric - U shaped back design - Removable padding - Medium impact Model wears size XS
-  Updated: 2025-10-19T15:34:21Z
+  Updated: 2025-10-20T02:08:29Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -4610,7 +4610,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €14.41 EUR
 - [RECOIL HIGH WAIST SCRUNCH SHORTS - CLOUD GREY](https://yoursportspt.com/products/recoil-high-waist-scrunch-shorts-cloud-grey): Introducing the New Era of High-Waisted Recoil Shorts! Your favorite best-selling Recoil Shorts just got an upgrade! Say hello to the High-Waisted Recoil, designed to take your summer wardrobe to the next level. Waistband height: 8.5cm These ultimate booty-enhancing shorts feature: ✨ A sleek invisible scrunch for the perfect lift. ✨ A supportive high-waistband for a flawless, sculpted fit. ✨ A style that combines comfort, confidence, and performance. Get ready to turn heads this summer in the shorts that do it all. High-waisted never looked so good!
-  Updated: 2025-10-19T15:31:11Z
+  Updated: 2025-10-20T02:08:26Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -4634,7 +4634,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €25.49 EUR
 - [LUXE CROP - TEAL](https://yoursportspt.com/products/luxe-crop-teal): Classy & cute is the best way to describe our Luxe crop. It's basic, yet luxe design and feel makes it a timeless piece you'll never stop reaching for. Our favourite thing about the luxe crop is the silky soft feel of the fabric, made of the highest quality nylon/spandex blend. The contoured shape of the curved front design also gives a very flattering look to the bust.
-  Updated: 2025-10-19T15:31:10Z
+  Updated: 2025-10-20T02:08:27Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -4652,7 +4652,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €14.41 EUR
 - [LUXE CROP - YELLOW](https://yoursportspt.com/products/luxe-crop-yellow): Classy & cute is the best way to describe our Luxe crop. It's basic, yet luxe design and feel makes it a timeless piece you'll never stop reaching for. Our favourite thing about the luxe crop is the silky soft feel of the fabric, made of the highest quality nylon/spandex blend. The contoured shape of the curved front design also gives a very flattering look to the bust. Model wears size xs
-  Updated: 2025-10-19T15:31:13Z
+  Updated: 2025-10-20T02:08:29Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -4670,7 +4670,7 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
     Availability: Available
     Price: €14.41 EUR
 - [LJ V-BACK SCRUNCH LEGGING - BLACK](https://yoursportspt.com/products/lj-v-back-scrunch-legging-black)
-  Updated: 2025-10-19T15:31:03Z
+  Updated: 2025-10-20T02:08:34Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
@@ -4687,8 +4687,8 @@ YourSportsPT is a Portuguese online fitness equipment store dedicated to home wo
   - [L](https://yoursportspt.com/products/lj-v-back-scrunch-legging-black?variant=52651385815304)
     Availability: Available
     Price: €29.36 EUR
-- [LJ CROP - BLACK](https://yoursportspt.com/products/lj-crop-black)
-  Updated: 2025-10-19T15:33:26Z
+- [TOP MOVEO CROP – PRETO ECLIPSE](https://yoursportspt.com/products/lj-crop-black)
+  Updated: 2025-10-20T02:08:34Z
   Vendor: Moveo
   Product Type: 
   Availability: Available
