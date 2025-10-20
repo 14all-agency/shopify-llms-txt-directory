@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-10-20T04:01:09.320Z
+- Updated At: 2025-10-20T08:01:13.502Z
 
 ## Products
 
@@ -13593,7 +13593,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/triciclo-de-equilibrio-globber-para-criancas-823821023-brincatoys-1178697588.jpg?v=1752912855
   Price: 98,50 € EUR
 - [Peluche Patrulha Pata - Chase 27cm](https://brincatoys.pt/products/peluche-patrulha-pata-chase-27cm): Apreciem a diversão e alegria de brincar com o incrível Peluche Patrulha Pata - Chase 27cm! Este adorável boneco de peluche, feito com materiais de alta qualidade, é suave ao toque e perfeito para abraços aconchegantes. O Peluche Patrulha Pata - Chase é uma réplica fiel do corajoso e aventureiro cão policia da popular série de televisão Patrulha Pata. Este brinquedo não só serve como um companheiro de brincadeiras, mas também ajuda a desenvolver a imaginação das crianças ao recriar as suas cenas favoritas da série. E não esqueçamos que Chase é sempre um exemplo de bravura e lealdade - valores importantes que queremos incutir nos nossos pequenos. Surpreenda o seu filho com o Peluche Patrulha Pata - Chase 27cm e observe o sorriso no rosto dele ao brincar com o seu novo amigo. Dimensão: 27 cm. Idade Recomendada: + de 12 meses.
-  Updated: 2025-10-19T18:57:51Z
+  Updated: 2025-10-20T06:57:56Z
   Vendor: Patrulha Pata
   Product Type: + 12 meses
   Availability: Available
@@ -15366,7 +15366,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-71812-ninjago-o-robo-trepador-ninja-do-kai-667181224-5702017584560-lego-1178698893.jpg?v=1752794286
   Price: 69,90 € EUR
 - [LEGO 71819 Ninjago Santuário de Pedra do Dragão](https://brincatoys.pt/products/lego-ninjago-santuario-de-pedra-do-dragao): LEGO 71819 Ninjago Santuário de Pedra do Dragão, o set de construção que proporciona aventuras épicas e estimula a criatividade. Ideal para fãs Ninjago.
-  Updated: 2025-10-13T06:19:47Z
+  Updated: 2025-10-20T07:23:18Z
   Vendor: LEGO
   Product Type: + 14 anos
   Availability: Available
@@ -19580,7 +19580,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/jogo-xadrez-portatil-em-madeira-praticidade-e-estilo-40004025-4013594090407-brincatoys-1178692569.jpg?v=1752824285
   Price: 19,99 € EUR
 - [Puzzle Patrulha Pata 3 x 48 pçs para Crianças](https://brincatoys.pt/products/puzzle-patrulha-pata-3-x-48-pecas): Divirta-se e aprenda com o Puzzle Patrulha Pata 3 x 48 pçs! Três puzzles coloridos para desafiar a atenção e a coordenação dos pequenos. 🐾
-  Updated: 2025-10-19T19:48:07Z
+  Updated: 2025-10-20T06:46:23Z
   Vendor: Patrulha Pata
   Product Type: + 5 anos
   Availability: Available
@@ -20387,7 +20387,7 @@ Figura em borracha termoplástica do filme Branca de neve e os sete anões.Figur
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/autocolantes-reutilizaveis-animais-marinhos-para-criancas-921942825-8410782194286-selecao-brincatoys-1197573413.jpg?v=1760471519
   Price: 9,50 € EUR
 - [Mealheiro da Bluey 15 cm: Aprenda a Poupar Brincando](https://brincatoys.pt/products/mealheiro-da-bluey-15-cm): Descubra a magia do Mealheiro da Bluey 15 cm e ensine os pequenos a poupar de forma divertida! Leve para casa esta prenda encantadora agora!
-  Updated: 2025-10-19T16:37:22Z
+  Updated: 2025-10-20T04:35:44Z
   Vendor: Seleção Brincatoys
   Product Type: + 4 anos
   Availability: Available
@@ -20520,21 +20520,21 @@ Figura em borracha termoplástica do filme Branca de neve e os sete anões.Figur
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/monster-high-boo-riginal-operetta-boneca-exclusiva-772304325-0194735230433-monster-high-1195801128.jpg?v=1759406049
   Price: 44,99 € EUR
 - [Peluche Patrulha Pata - Marshall 27cm](https://brincatoys.pt/products/peluche-patrulha-pata-marshall-27cm): O Peluche Patrulha Pata – Marshall 27 cm chega para abraçar, brincar e decorar o quarto com o dálmata mais carismático da série. Em primeiro lugar, com 27 cm de altura, este boneco tem o tamanho ideal para mãos pequenas e acompanha a criança em todas as aventuras: no sofá, na cama ou nas saídas em família. Além disso, o fato vermelho inspirado nas missões especiais do Marshall apresenta cores vibrantes e pormenores impressos que lhe dão um aspeto heroico irresistível. Por outro lado, feito com tecido macio e enchimento suave, o peluche convida a apertos e oferece conforto na hora de dormir. Ademais, a costura reforçada aumenta a durabilidade e suporta o uso diário, enquanto a forma estável permite que o Marshall se mantenha de pé na prateleira quando não está em ação. Assim, a criança cria histórias, dá voz à personagem e desenvolve criatividade e linguagem sem esforço. E, porque não contém componentes eletrónicos, a brincadeira começa logo que sai da caixa. Igualmente, para os pais, este peluche é prático e fácil de cuidar: basta limpar a superfície com um pano húmido e deixar secar ao ar. Junta-o a outros peluches da Patrulha Pata e completa a equipa para missões épicas antes de dormir. Por fim, compra um boneco, fofo e resistente que inspira carinho e imaginação todos os dias. Preparados? Marshall está pronto para abraçar! Em suma... Altura aproximada: 27 cm Tecido macio e enchimento suave Detalhes oficiais da Patrulha Pata Leve, resistente e estável para exposição Dimensão: 27 cm. Idade Recomendada: + de 12 meses.
-  Updated: 2025-10-19T21:48:00Z
+  Updated: 2025-10-20T06:54:41Z
   Vendor: Patrulha Pata
   Product Type: + 12 meses
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/peluche-patrulha-pata-marshall-27cm-773865525-patrulha-pata-1198568982.jpg?v=1760910479
   Price: 16,99 € EUR
 - [Peluche Patrulha Pata - Rubble 27cm](https://brincatoys.pt/products/peluche-patrulha-pata-rubble-27cm): O Peluche Patrulha Pata – Rubble 27 cm chega para abraçar, brincar e decorar o quarto com o Bulldog Inglês mais carismático da série. Em primeiro lugar, com 27 cm de altura, este boneco tem o tamanho ideal para mãos pequenas e acompanha a criança em todas as aventuras: no sofá, na cama ou nas saídas em família. Além disso, o fato amarelo inspirado nas missões especiais do Rubble apresenta cores vibrantes e pormenores impressos que lhe dão um aspeto heroico irresistível. Por outro lado, feito com tecido macio e enchimento suave, o peluche convida a apertos e oferece conforto na hora de dormir. Ademais, a costura reforçada aumenta a durabilidade e suporta o uso diário, enquanto a forma estável permite que o Rubble se mantenha de pé na prateleira quando não está em ação. Assim, a criança cria histórias, dá voz à personagem e desenvolve criatividade e linguagem sem esforço. E, porque não contém componentes eletrónicos, a brincadeira começa logo que sai da caixa. Igualmente, para os pais, este peluche é prático e fácil de cuidar: basta limpar a superfície com um pano húmido e deixar secar ao ar. Junta-o a outros peluches da Patrulha Pata e completa a equipa para missões épicas antes de dormir. Por fim, compra um boneco, fofo e resistente que inspira carinho e imaginação todos os dias. Preparados? Rubble está pronto para abraçar! Em suma... Altura aproximada: 27 cm Tecido macio e enchimento suave Detalhes oficiais da Patrulha Pata Leve, resistente e estável para exposição Dimensão: 27 cm. Idade Recomendada: + de 12 meses.
-  Updated: 2025-10-19T22:15:16Z
+  Updated: 2025-10-20T06:54:44Z
   Vendor: Patrulha Pata
   Product Type: + 12 meses
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/peluche-patrulha-pata-rubble-27cm-771386525-patrulha-pata-1198568981.jpg?v=1760910476
   Price: 16,99 € EUR
 - [Peluche Patrulha Pata Dino Rescue - Chase 27cm](https://brincatoys.pt/products/peluche-patrulha-pata-dino-rescue-chase-27cm): O Peluche Patrulha Pata Dino Rescue - Chase 27cm chega para abraçar, brincar e decorar o quarto com o pastor alemão mais carismático da série. Em primeiro lugar, com 27 cm de altura, este boneco tem o tamanho ideal para mãos pequenas e acompanha a criança em todas as aventuras: no sofá, na cama ou nas saídas em família. Além disso, o fato azul inspirado nas missões especiais do Chase apresenta cores vibrantes e pormenores impressos que lhe dão um aspeto heroico irresistível. Por outro lado, feito com tecido macio e enchimento suave, o peluche convida a apertos e oferece conforto na hora de dormir. Ademais, a costura reforçada aumenta a durabilidade e suporta o uso diário, enquanto a forma estável permite que o Chase se mantenha de pé na prateleira quando não está em ação. Assim, a criança cria histórias, dá voz à personagem e desenvolve criatividade e linguagem sem esforço. E, porque não contém componentes eletrónicos, a brincadeira começa logo que sai da caixa. Igualmente, para os pais, este peluche é prático e fácil de cuidar: basta limpar a superfície com um pano húmido e deixar secar ao ar. Junta-o a outros peluches da Patrulha Pata e completa a equipa para missões épicas antes de dormir. Por fim, compra um boneco, fofo e resistente que inspira carinho e imaginação todos os dias. Preparados? Chase está pronto para abraçar! Em suma... Altura aproximada: 27 cm Tecido macio e enchimento suave Detalhes oficiais da Patrulha Pata Leve, resistente e estável para exposição Dimensão: 27 cm. Idade Recomendada: + de 12 meses.
-  Updated: 2025-10-19T23:47:57Z
+  Updated: 2025-10-20T06:54:44Z
   Vendor: Patrulha Pata
   Product Type: Peluche
   Availability: Available
