@@ -6,7 +6,7 @@
 - Timezone: Europe/Rome
 - Created At: 2025-07-12T12:43:54Z
 - Contact Email: lazywhiskers.store@gmail.com
-- Updated At: 2025-10-20T04:00:33.512Z
+- Updated At: 2025-10-20T08:00:33.136Z
 
 ## Products
 
@@ -2139,7 +2139,7 @@
 ## Policies
 
 - [Privacy Policy](https://lazywhiskers.shop/policies/privacy-policy)
-  Updated: 2025-09-24T17:05:42+02:00
+  Updated: 2025-10-20T09:54:22+02:00
 - [Shipping Policy](https://lazywhiskers.shop/policies/shipping-policy)
   Updated: 2025-08-16T16:29:02+02:00
 - [Refund Policy](https://lazywhiskers.shop/policies/refund-policy)
