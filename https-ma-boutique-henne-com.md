@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2018-01-12T21:20:39Z
 - Contact Email: contact@ma-boutique-henne.com
-- Updated At: 2025-10-20T12:00:39.408Z
+- Updated At: 2025-10-20T20:00:39.105Z
 
 ## Products
 
@@ -270,7 +270,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/HTB15VpMSFXXXXaKXXXXq6xXFXXXn.jpg?v=1671202777
   Price: 7,50 € EUR
 - [Henné Sahara Tazarine BAQ (boîte jaune)](https://ma-boutique-henne.com/products/henne-tazarine-baq-100gr): Le henné Sahara Tazarine du Maroc; BAQ. traditionnel, 100% naturel, soin cheveux, coloration, tatouage corps, poudre fine, reflet cuivré, roux, rousse, rouge, auburn, bordeaux, masque capillaire, poudre, plante, bio, boutique, rouge cerise, algérie, rajasthan, couleur, chevelure, pousse, cuir chevelu, volume, brillance
-  Updated: 2025-09-15T12:02:11Z
+  Updated: 2025-10-20T19:05:20Z
   Vendor: Ma Boutique Henné
   Product Type: Henné
   Availability: Available
@@ -702,7 +702,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/files/biondoramato.jpg?v=1686165222
   Price: 9,50 € EUR
 - [Henné Jamila - BAQ, Hair Quality](https://ma-boutique-henne.com/products/henne-djamila-baq-hair-quality): henné 100% naturel, Djamila, jamila,BAQ, biologique, inde, pakistan, coloration et soin des cheveux, couleur rousse, reflets cuivrés, auburn, bordeaux, rouge, marron, foncé, cheveux brillants, volume, henne, Yémen, rouge chocolat,poudre , soudanais, coloration couvre les cheveux blancs, coloration cheveux gris, henna
-  Updated: 2025-10-06T04:38:37Z
+  Updated: 2025-10-20T16:41:11Z
   Vendor: Ma Boutique Henné
   Product Type: Henné
   Availability: Available
@@ -767,7 +767,7 @@
     Image: https://cdn.shopify.com/s/files/1/2730/3378/files/S19507382a6d34defafccac91b2f6c8b1q.avif?v=1758195479
     Price: 3,50 € EUR
 - [Lot de 2 paires de ciseaux, Barbe et Cheveux](https://ma-boutique-henne.com/products/lot-de-2-paires-de-ciseaux-barbe-et-cheveux): Ciseaux de qualité professionnelle Cheveux Barbe paire de ciseaux "classique", pour couper en longueur, 1 paire de ciseaux "crantés" pour désépaissir la masse. entretien longueurs et frange, soin barbe, rasage, homme, enfant, couper pointes, henne d'algerie, coloration rouge cerise, sidr, katam, abricot, henné, bio
-  Updated: 2025-10-04T21:10:16Z
+  Updated: 2025-10-20T12:21:16Z
   Vendor: Ma Boutique Henné
   Product Type: Accessoires
   Availability: Available
@@ -1263,7 +1263,7 @@
     Image: https://cdn.shopify.com/s/files/1/2730/3378/products/HTB1vN31N9zqK1RjSZPcq6zTepXaG.jpg?v=1562248279
     Price: 6,00 € EUR
 - [Elastique à cheveux "Fenrir" - tête de Loup Viking Celtique - Bronze, Cuivré ou Argent](https://ma-boutique-henne.com/products/elastique-a-cheveux-fenrir-tete-de-loup-viking-celtique-bronze-cuivre-ou-argent): élastique cheveux barrette pince loup oiseau chien corbeau viking celtique médiévale gothique sorcière argenté, argent doré bronze cuivré Accessoires, pince, barrette, chevelure, coiffure, chignon, tresse, nature, décoration, bijou, boutique, capillaire, strass, pince, pic à cheveux, henne, coloration
-  Updated: 2025-09-30T18:04:50Z
+  Updated: 2025-10-20T12:21:15Z
   Vendor: Ma Boutique Henné
   Product Type: Accessoires
   Availability: Available
@@ -1355,7 +1355,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/Goond-Katira.png?v=1572008247
   Price: 12,00 € EUR
 - [Lot de 2 Pinces à cheveux - Branches d'Or ou Argent](https://ma-boutique-henne.com/products/lot-de-2-pinces-a-cheveux-branches-dor-ou-argent): pince à cheveux, feuille or, branche arbre chignon, coiffure, henné, henne, jolie plume (ou feuille) dans vos coiffures, barrette ou pince à cheveux argenté, doré, or, pour faire de jolis chignons, tresses, chevelures, pic à cheveux, accessoires coiffure, naturel, pagan, coiffer, bio, biologique, boutique, cosmétique
-  Updated: 2025-10-05T14:51:57Z
+  Updated: 2025-10-20T12:21:16Z
   Vendor: Ma Boutique Henné
   Product Type: Accessoires
   Availability: Available
@@ -1418,7 +1418,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/roman-chamomile-water-chamaemelum-nobile-organic_1.webp?v=1677358563
   Price: 8,50 € EUR
 - [Huile d'Aloe Vera Bio](https://ma-boutique-henne.com/products/huile-daloe-vera-bio): Huile aloe vera bio 100 % naturel, végétale, protecteur, anti-oxydant, Nourrit intensément et protège, Propriétés amincissantes, ingrédient de base, coco, cosmétiques, le erbe di janas, huile végétale, mangue, ricin, soin peau, visage, cheveux, sec, abîmés, henne d'algérie, henné rouge cerise, sidr, katam, violine
-  Updated: 2025-10-11T08:17:22Z
+  Updated: 2025-10-20T12:21:15Z
   Vendor: Ma Boutique Henné
   Product Type: Huile Végétale
   Availability: Available
@@ -1768,7 +1768,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/henne-blond-dore.png?v=1605703923
   Price: 19,50 € EUR
 - [Henné Rouge Renforcé Intense - Exclusivité Ma Boutique Henné](https://ma-boutique-henne.com/products/henne-rouge-renforce): Henné rouge renforcé intense, coloration cheveux rouges, flamboyant, 1,5% sodium picramate (taux réduit pour préserver votre santé) couvre les cheveux blancs, temps de pose réduit et soin des cheveux, auburn, bordeaux
-  Updated: 2025-10-20T08:00:36Z
+  Updated: 2025-10-20T12:21:16Z
   Vendor: Ma Boutique Henné
   Product Type: Henné
   Availability: Available
