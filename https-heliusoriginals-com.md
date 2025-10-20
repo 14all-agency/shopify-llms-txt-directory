@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-10-11T09:00:11Z
 - Contact Email: info@heliusoriginals.com
-- Updated At: 2025-10-20T08:00:32.516Z
+- Updated At: 2025-10-20T16:00:31.253Z
 
 ## Products
 
