@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-10-20T08:01:05.726Z
+- Updated At: 2025-10-20T16:01:03.413Z
 
 ## Products
 
@@ -638,7 +638,7 @@
     Availability: Available
     Price: ‏90.00 ‏₪ ILS
 - [מכנסיים קצרים צ'לסי חוץ 24/25](https://www.rsport.co.il/products/מכנסיים-קצרים-צלסי-חוץ-24-25): השלם את המראה החיצוני שלך עם מכנסי צ'לסי קצרים 24/25 אלה. התוספת המושלמת לתלבושת שלך, מכנסיים קצרים אלה מציעים גם סגנון וגם נוחות.
-  Updated: 2025-10-20T05:38:21Z
+  Updated: 2025-10-20T14:48:32Z
   Vendor: R:SPORT
   Product Type: מכנסי כדורגל
   Availability: Available
@@ -1403,7 +1403,7 @@
     Availability: Available
     Price: ‏90.00 ‏₪ ILS
 - [מכנס קצר מנצ'סטר סיטי חוץ 24/25](https://www.rsport.co.il/products/מכנס-קצר-מנצסטר-סיטי-חוץ-24-25): השלם את ההרכב החיצוני שלך עם מכנסי מנצ'סטר סיטי חוץ 24/25. הישאר נוח וקריר עם המכנסיים הקצרים המסוגננים האלה תוך תמיכה בצוות שלך.
-  Updated: 2025-10-19T01:42:58Z
+  Updated: 2025-10-20T08:16:25Z
   Vendor: R:SPORT
   Product Type: מכנסי כדורגל
   Availability: Available
@@ -9203,7 +9203,7 @@
     Availability: Available
     Price: ‏109.90 ‏₪ ILS
 - [חליפת ילדים אייאקס בית 24/25](https://www.rsport.co.il/products/חליפת-ילדים-אייאקס-בית-24-25): חליפת הילדים של אייאקס לעונת 2024/2025 לבית כוללת חולצה ומכנסיים בעיצוב קלאסי ויוקרתי. החולצה עשויה מ-100% פוליאסטר, עם טכנולוגיית ספיגת לחות לשמירה על נוחות במהלך פעילות גופנית. החולצה מגיעה בגזרה נוחה ומתאימה לילדים, עם צבעים המסמלים את אייאקס – אדום ולבן, וסמל המועדון בולט בחזית. המכנסיים מצוידים בגזרה מתאימה לנוחות מקסימלית, מה שהופך את החליפה לבחירה אידיאלית עבור אוהדים צעירים של המועדון.
-  Updated: 2025-10-20T04:43:59Z
+  Updated: 2025-10-20T14:11:56Z
   Vendor: R:SPORT
   Product Type: חליפות כדורגל ילדים
   Availability: Available
@@ -14765,11 +14765,11 @@
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
 - [חולצת רטרו נבחרת ארגנטינה חוץ 1986](https://www.rsport.co.il/products/retro-shirt-arge-away-1986): חולצת רטרו נבחרת ארגנטינה חוץ 1986 עם עיצוב שמחזיר את רגעי הזכייה במונדיאל, עשויה פוליאסטר קל ונושם לנוחות, חופש תנועה וסטייל ייחודי
-  Updated: 2025-10-02T11:14:07Z
+  Updated: 2025-10-20T12:48:40Z
   Vendor: R:Sport
   Product Type: חולצת כדורגל רטרו
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/86_317aedcf-2f99-48a4-a2f5-8c41370ea25f.jpg?v=1738544644
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/rn-image_picker_lib_temp_40c27281-6ff7-4125-b895-733974146926.png?v=1760964498
   - [S](https://www.rsport.co.il/products/retro-shirt-arge-away-1986?variant=46912867533050)
     Availability: Available
     Price: ‏148.99 ‏₪ ILS
@@ -33107,7 +33107,7 @@
     Availability: Available
     Price: ‏180.00 ‏₪ ILS
 - [חולצת כדורגל בוטפוגו שלישית 2024 | גברים](https://www.rsport.co.il/products/חולצת-כדורגל-בוטפוגו-שלישית-2024-גברים): חולצת המשחק השלישית של בוטפוגו לעונת 2024 מציעה עיצוב ייחודי עם שילוב צבעים מודרני ונועז, המדגיש את זהות המועדון בצורה שונה ומרעננת. החולצה עשויה מ-100% פוליאסטר, בד נושם וקל משקל שמנדף זיעה, ומספקת נוחות מקסימלית בזמן המשחק, האימון או השימוש היומיומי. מושלמת לאוהדים שרוצים להראות תמיכה בסגנון ייחודי ומיוחד.
-  Updated: 2025-09-07T22:04:53Z
+  Updated: 2025-10-20T09:48:49Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
@@ -37130,7 +37130,7 @@
     Availability: Available
     Price: ‏160.00 ‏₪ ILS
 - [חולצת נבחרת גרמניה חוץ 2025 אותנטית](https://www.rsport.co.il/products/חולצת-נבחרת-גרמניה-חוץ-2025-אותנטית): תמוך בנבחרת גרמניה המעוטרת ביותר בהיסטוריה של אליפות אירופה לנשים, כשהיא יוצאת למסע מחודש לכיבוש התואר ביורו 2025 חולצת נבחרת גרמניה חוץ 2025 אותנטית מעוצבת בגווני בורדו עמוק עם גרפיקה דינמית בהשראת אמנות רחוב. החולצה עשויה 100% פוליאסטר, עם גזרה צמודה כמו של השחקנים, המאפשרת חופש תנועה ואווירת משחק אותנטית.
-  Updated: 2025-10-02T12:34:14Z
+  Updated: 2025-10-20T14:05:03Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
@@ -47997,6 +47997,136 @@
   - [⅔48](https://www.rsport.co.il/products/נעלי-predator-league-tongue-x-bellingham-tf?variant=47837278339322)
     Availability: Available
     Price: ‏649.90 ‏₪ ILS
+- [נעלי כדורגל מקצועיות Nike Phantom 6 Elite Low Cut FG Max Voltage](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-nike-phantom-6-elite-low-cut-fg-max-voltage-limelight-black-hyper-crimson): נעלי הכדורגל Future 8 Ultimate FG של PUMA מיועדות לשחקנים שמחפשים חופש תנועה ושליטה מלאה במגרש. החלק העליון משלב שכבות רבות עם LYCRA בסריג FUZIONSKIN, ומעניק התאמה אישית עם תמיכה בכל תנועה. 3D FUZIONPODS בחזית הנעל מגנים על הרגל ומאפשרים גמישות טבעית למשחק ללא הגבלה, בעוד רצועות PWRTAPE במרכז כף הרגל שומרות על יציבות בזמן דריבל ועקיפה של שחקנים.
+
+השכבה החיצונית כוללת רשת צפופה עם גימור GripControl Pro, המגביר אחיזה בכדור ומסייע לשליטה מלאה בדריבל ולפריצת קווים. סוליית הנעל עם מסמרות בעיצוב מיוחד מאפשרת תנועות סיבוביות חופשיות ומגיבה לכל שינוי כיוון, כדי למקסם את הזריזות והמהירות במגרש. Future 8 Ultimate FG נותנות לך את הכלים לשלוט במשחק ולהשפיע על כל מצב במגרש.
+  Updated: 2025-10-20T11:17:58Z
+  Vendor: R:SPORT
+  Product Type: נעלי כדורגל
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/3_e05b1a38-7af8-4a94-bb16-980a9a787e5c.jpg?v=1760957739
+  - [36](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-nike-phantom-6-elite-low-cut-fg-max-voltage-limelight-black-hyper-crimson?variant=47841800651002)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [36½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-nike-phantom-6-elite-low-cut-fg-max-voltage-limelight-black-hyper-crimson?variant=47841777221882)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [37½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-nike-phantom-6-elite-low-cut-fg-max-voltage-limelight-black-hyper-crimson?variant=47841800978682)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [38](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-nike-phantom-6-elite-low-cut-fg-max-voltage-limelight-black-hyper-crimson?variant=47841777254650)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [38½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-nike-phantom-6-elite-low-cut-fg-max-voltage-limelight-black-hyper-crimson?variant=47841777287418)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [39](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-nike-phantom-6-elite-low-cut-fg-max-voltage-limelight-black-hyper-crimson?variant=47841777320186)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-nike-phantom-6-elite-low-cut-fg-max-voltage-limelight-black-hyper-crimson?variant=47841777352954)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [½40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-nike-phantom-6-elite-low-cut-fg-max-voltage-limelight-black-hyper-crimson?variant=47841777385722)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [41](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-nike-phantom-6-elite-low-cut-fg-max-voltage-limelight-black-hyper-crimson?variant=47841777418490)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [42](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-nike-phantom-6-elite-low-cut-fg-max-voltage-limelight-black-hyper-crimson?variant=47841777451258)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [42½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-nike-phantom-6-elite-low-cut-fg-max-voltage-limelight-black-hyper-crimson?variant=47841777484026)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [43](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-nike-phantom-6-elite-low-cut-fg-max-voltage-limelight-black-hyper-crimson?variant=47841777516794)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [44](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-nike-phantom-6-elite-low-cut-fg-max-voltage-limelight-black-hyper-crimson?variant=47841777549562)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [44½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-nike-phantom-6-elite-low-cut-fg-max-voltage-limelight-black-hyper-crimson?variant=47841777582330)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [45](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-nike-phantom-6-elite-low-cut-fg-max-voltage-limelight-black-hyper-crimson?variant=47841777615098)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [45½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-nike-phantom-6-elite-low-cut-fg-max-voltage-limelight-black-hyper-crimson?variant=47841777647866)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [46](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-nike-phantom-6-elite-low-cut-fg-max-voltage-limelight-black-hyper-crimson?variant=47841777680634)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [47](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-nike-phantom-6-elite-low-cut-fg-max-voltage-limelight-black-hyper-crimson?variant=47841777713402)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [47½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-nike-phantom-6-elite-low-cut-fg-max-voltage-limelight-black-hyper-crimson?variant=47841777746170)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+- [נעלי כדורגל מקצועיות Phantom 6 Elite High Cut FG Max Voltage](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-cut-fg-max-voltage-limelight-black-hyper-crimson): נעלי הכדורגל Future 8 Ultimate FG של PUMA מיועדות לשחקנים שמחפשים חופש תנועה ושליטה מלאה במגרש. החלק העליון משלב שכבות רבות עם LYCRA בסריג FUZIONSKIN, ומעניק התאמה אישית עם תמיכה בכל תנועה. 3D FUZIONPODS בחזית הנעל מגנים על הרגל ומאפשרים גמישות טבעית למשחק ללא הגבלה, בעוד רצועות PWRTAPE במרכז כף הרגל שומרות על יציבות בזמן דריבל ועקיפה של שחקנים.
+
+השכבה החיצונית כוללת רשת צפופה עם גימור GripControl Pro, המגביר אחיזה בכדור ומסייע לשליטה מלאה בדריבל ולפריצת קווים. סוליית הנעל עם מסמרות בעיצוב מיוחד מאפשרת תנועות סיבוביות חופשיות ומגיבה לכל שינוי כיוון, כדי למקסם את הזריזות והמהירות במגרש. Future 8 Ultimate FG נותנות לך את הכלים לשלוט במשחק ולהשפיע על כל מצב במגרש.
+  Updated: 2025-10-20T11:31:25Z
+  Vendor: R:SPORT
+  Product Type: נעלי כדורגל
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/9_003574df-860a-4ee5-9634-62d39d1acf57.jpg?v=1760959407
+  - [36](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-cut-fg-max-voltage-limelight-black-hyper-crimson?variant=47841813692666)
+    Availability: Not Available
+    Price: ‏1,549.90 ‏₪ ILS
+  - [36½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-cut-fg-max-voltage-limelight-black-hyper-crimson?variant=47841813725434)
+    Availability: Not Available
+    Price: ‏1,549.90 ‏₪ ILS
+  - [37½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-cut-fg-max-voltage-limelight-black-hyper-crimson?variant=47841813758202)
+    Availability: Not Available
+    Price: ‏1,549.90 ‏₪ ILS
+  - [38](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-cut-fg-max-voltage-limelight-black-hyper-crimson?variant=47841813790970)
+    Availability: Not Available
+    Price: ‏1,549.90 ‏₪ ILS
+  - [38½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-cut-fg-max-voltage-limelight-black-hyper-crimson?variant=47841813823738)
+    Availability: Available
+    Price: ‏1,549.90 ‏₪ ILS
+  - [39](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-cut-fg-max-voltage-limelight-black-hyper-crimson?variant=47841813856506)
+    Availability: Available
+    Price: ‏1,549.90 ‏₪ ILS
+  - [40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-cut-fg-max-voltage-limelight-black-hyper-crimson?variant=47841813889274)
+    Availability: Available
+    Price: ‏1,549.90 ‏₪ ILS
+  - [½40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-cut-fg-max-voltage-limelight-black-hyper-crimson?variant=47841813922042)
+    Availability: Available
+    Price: ‏1,549.90 ‏₪ ILS
+  - [41](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-cut-fg-max-voltage-limelight-black-hyper-crimson?variant=47841813954810)
+    Availability: Available
+    Price: ‏1,549.90 ‏₪ ILS
+  - [42](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-cut-fg-max-voltage-limelight-black-hyper-crimson?variant=47841813987578)
+    Availability: Available
+    Price: ‏1,549.90 ‏₪ ILS
+  - [42½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-cut-fg-max-voltage-limelight-black-hyper-crimson?variant=47841814020346)
+    Availability: Available
+    Price: ‏1,549.90 ‏₪ ILS
+  - [43](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-cut-fg-max-voltage-limelight-black-hyper-crimson?variant=47841814053114)
+    Availability: Available
+    Price: ‏1,549.90 ‏₪ ILS
+  - [44](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-cut-fg-max-voltage-limelight-black-hyper-crimson?variant=47841814085882)
+    Availability: Available
+    Price: ‏1,549.90 ‏₪ ILS
+  - [44½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-cut-fg-max-voltage-limelight-black-hyper-crimson?variant=47841814118650)
+    Availability: Available
+    Price: ‏1,549.90 ‏₪ ILS
+  - [45](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-cut-fg-max-voltage-limelight-black-hyper-crimson?variant=47841814151418)
+    Availability: Available
+    Price: ‏1,549.90 ‏₪ ILS
+  - [45½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-cut-fg-max-voltage-limelight-black-hyper-crimson?variant=47841814184186)
+    Availability: Available
+    Price: ‏1,549.90 ‏₪ ILS
+  - [46](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-cut-fg-max-voltage-limelight-black-hyper-crimson?variant=47841814216954)
+    Availability: Available
+    Price: ‏1,549.90 ‏₪ ILS
+  - [47](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-cut-fg-max-voltage-limelight-black-hyper-crimson?variant=47841814249722)
+    Availability: Available
+    Price: ‏1,549.90 ‏₪ ILS
+  - [47½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-cut-fg-max-voltage-limelight-black-hyper-crimson?variant=47841814282490)
+    Availability: Available
+    Price: ‏1,549.90 ‏₪ ILS
 
 ## Collections
 
@@ -48376,10 +48506,10 @@
   Updated: 2025-10-18T17:42:05Z
   Total Products: 17
 - [נעלי כדורגל](https://www.rsport.co.il/collections/נעלי-כדורגל)
-  Updated: 2025-10-18T17:38:39Z
-  Total Products: 77
+  Updated: 2025-10-20T11:29:54Z
+  Total Products: 79
 - [נעלי כדורגל FG](https://www.rsport.co.il/collections/נעלי-כדורגל-fg)
-  Updated: 2025-10-18T17:21:47Z
+  Updated: 2025-10-20T11:10:52Z
   Total Products: 58
 - [חולצות כדורגל - מגוון רחב במחירים משתלמים](https://www.rsport.co.il/collections/חולצות-כדורגל): האתר מתמחה במגוון רחב של חולצות משחק, כולל חולצות עבר, חולצות אימוניות וחליפות כדורגל לילדים.
   Updated: 2025-10-17T11:19:14Z
@@ -48475,8 +48605,8 @@
   Updated: 2025-10-02T11:31:37Z
   Total Products: 12
 - [AVADA - Best Sellers](https://www.rsport.co.il/collections/avada-best-sellers)
-  Updated: 2025-10-18T17:38:39Z
-  Total Products: 2098
+  Updated: 2025-10-20T11:29:54Z
+  Total Products: 2100
 - [פיורנטינה רטרו](https://www.rsport.co.il/collections/פיורנטינה-רטרו): אנו מציעים חולצות כדורגל רטרו של פיורנטינה מהעבר המפואר, בעיצובים קלאסיים ששימשו את הקבוצה בשנות ה-90 ותחילת ה-2000. בין השחקנים הבולטים מהתקופות הללו: גבריאל באטיסטוטה, ווֹלפגנג מולה, אנג'לו די ליוויו ופרנצ'סקו טולדו. כל פריט בקטגוריה מחבר אתכם להיסטוריה המפוארת של פיורנטינה ומספק חוויה נוסטלגית לחובבי הכדורגל.
   Updated: 2025-10-02T11:15:25Z
   Total Products: 9
@@ -48703,20 +48833,20 @@
   Updated: 2025-10-16T07:36:33Z
   Total Products: 4
 - [Nike Max Voltage](https://www.rsport.co.il/collections/nike-max-voltage)
-  Updated: 2025-10-16T07:36:33Z
-  Total Products: 10
+  Updated: 2025-10-20T11:29:54Z
+  Total Products: 12
 - [נעלי כדורגל Mercurial](https://www.rsport.co.il/collections/football-boots-mercurial)
-  Updated: 2025-10-16T07:43:38Z
+  Updated: 2025-10-20T10:56:09Z
   Total Products: 12
 - [נעלי כדורגל Mercurial Vapor](https://www.rsport.co.il/collections/נעלי-כדורגל-mercurial-vapor)
-  Updated: 2025-10-16T07:43:38Z
+  Updated: 2025-10-20T10:56:09Z
   Total Products: 8
 - [חולצות ונעלי כדורגל Kylian Mbappe](https://www.rsport.co.il/collections/חולצות-ונעלי-כדורגל-kylian-mbappe)
-  Updated: 2025-10-16T07:43:38Z
+  Updated: 2025-10-20T10:56:09Z
   Total Products: 28
 - [נעלי כדורגל נייק](https://www.rsport.co.il/collections/נעלי-כדורגל-נייק)
-  Updated: 2025-10-17T14:24:39Z
-  Total Products: 22
+  Updated: 2025-10-20T11:29:54Z
+  Total Products: 24
 - [נעליי כדורגל נייק לילדים](https://www.rsport.co.il/collections/נעליי-כדורגל-נייק-לילדים)
   Updated: 2025-10-17T14:25:29Z
   Total Products: 2
