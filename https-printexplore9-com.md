@@ -6,7 +6,7 @@
 - Timezone: Europe/Athens
 - Created At: 2023-12-24T09:13:07Z
 - Contact Email: info@printexplore9.com
-- Updated At: 2025-10-18T12:00:32.375Z
+- Updated At: 2025-10-20T12:00:33.215Z
 
 ## Products
 
@@ -1429,8 +1429,8 @@
   - [Stone / One size](https://printexplore9.com/products/unisex-distressed-cap-1?variant=45455072067851)
     Availability: Available
     Price: $23.63 USD
-- [Ultimate Comfort & Security Suitcase](https://printexplore9.com/products/suitcase-1): Travel easy with this lightweight suitcase that rolls smoothly and keeps your stuff safe. Stylish and tough—your perfect travel buddy for every trip.
-  Updated: 2025-10-12T09:53:31Z
+- [Explore Custom Suitcase – Lightweight, Durable & Stylish Luggage](https://printexplore9.com/products/suitcase-1): Travel confidently with our custom suitcase—lightweight, secure, and stylish. Smooth wheels and hard-shell design make every trip effortless.
+  Updated: 2025-10-19T11:32:22Z
   Vendor: Printify
   Product Type: Bags
   Availability: Available
@@ -1450,8 +1450,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0713/3066/0619/files/Hair_growth_Tonic.jpg?v=1759082290
   Price: $31.90 USD
-- [Snail Mucin Facial Serum | Skin Care Formula](https://printexplore9.com/products/snail-mucin-facial-serum): Transform your skincare routine with our Snail Facial Serum designed  to nourish and repair the skin.
-  Updated: 2025-10-12T09:52:46Z
+- [Snail Mucin Facial Serum – Brighten, Repair & Hydrate Skin Naturally](https://printexplore9.com/products/snail-mucin-facial-serum): Transform dull skin with our Snail Mucin Serum—brightens tone, boosts elasticity, and deeply hydrates for smooth, youthful, glowing skin.
+  Updated: 2025-10-19T10:21:22Z
   Vendor: Printify
   Product Type: Accessories
   Availability: Available
@@ -2300,7 +2300,7 @@
 ## Collections
 
 - [Best Sellers](https://printexplore9.com/collections/best-seller): Discover our best sellers with top-rated skincare fashion and personalized gifts loved by customers .
-  Updated: 2025-10-17T11:59:08Z
+  Updated: 2025-10-18T17:48:44Z
   Total Products: 41
 - [Men's Collection - Casual Shirts & Tees for Men](https://printexplore9.com/collections/mens): Explore versatile men's shirts and tees for everyday wear. Find stylish, comfortable essentials for casual or active use.
   Updated: 2025-09-28T17:11:35Z
@@ -2309,7 +2309,7 @@
   Updated: 2025-10-17T11:14:17Z
   Total Products: 23
 - [Sustainable-Customized Accessories](https://printexplore9.com/collections/accessories): Discover sustainable and customized gifts for every occasion — from stylish wall clocks to eco-friendly camping mugs & more.
-  Updated: 2025-10-15T12:01:15Z
+  Updated: 2025-10-18T17:48:44Z
   Total Products: 31
 - [Kids Clothes Collection](https://printexplore9.com/collections/kids): Explore our delightful collection of baby clothes at a cheap price, designed to keep your little one stylish and comfortable without breaking the bank.
   Updated: 2025-10-15T13:07:44Z
@@ -2324,7 +2324,7 @@
   Updated: 2025-10-15T12:01:15Z
   Total Products: 4
 - [Suitcases](https://printexplore9.com/collections/suitcases)
-  Updated: 2025-10-12T09:51:10Z
+  Updated: 2025-10-18T17:48:44Z
   Total Products: 2
 - [Bags](https://printexplore9.com/collections/bags): Sustainable bags that turn heads Built to last with bold designs Elevate your everyday look while protecting the planet.
   Updated: 2025-09-28T17:11:36Z
@@ -2339,7 +2339,7 @@
   Updated: 2025-10-12T09:51:12Z
   Total Products: 12
 - [SkinCare](https://printexplore9.com/collections/skincare-1): Hydrate- smooth and glow with organic skincare: fresh toner| retinol & peptide serum and snail serum for radiant, healthy skin.
-  Updated: 2025-10-17T11:59:08Z
+  Updated: 2025-10-18T17:21:39Z
   Total Products: 10
 
 ## Blogs
@@ -2362,8 +2362,8 @@
 
 - [Contact Us - We're Here to Help 24/7](https://printexplore9.com/pages/contact-us): "We make support easy! Got questions? reach out to us, we are here 24/7."
   Updated: 2024-10-06T07:02:17Z
-- [About Us - Best Print on Demand Products Store](https://printexplore9.com/pages/about-us): We stand behind our products! At Print & Explore 9, we’re more than just a store—we’re your go-to destination for personalized products that enhanc...
-  Updated: 2025-09-25T12:30:45Z
+- [Print & Explore 9 | Eco Apparel, Organic Skincare & Custom Gifts](https://printexplore9.com/pages/about-us): Print & Explore 9 – Eco Apparel | Organic Skincare | Custom Gifts We Stand Behind Our Products At Print & Explore 9, we’re more than just a store—w...
+  Updated: 2025-10-20T10:08:44Z
 - [Shipping Policy – Delivery Information | Printexplore9](https://printexplore9.com/pages/shipping-policy): At Print & Explore9, we're committed to ensuring a seamless shopping experience for our valued customers. Here's a brief overview of our shipping p...
   Updated: 2025-10-12T09:49:23Z
 - [FAQs – Everything You Need to Know About Printexplore 9](https://printexplore9.com/pages/faqs): 1. How can I place an order? To place an order, simply browse our online store, select the items you love, choose your size, and click "Add to Cart...
