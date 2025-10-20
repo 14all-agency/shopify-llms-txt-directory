@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-03-10T14:11:59Z
 - Contact Email: info@surgismart.in
-- Updated At: 2025-10-20T16:00:35.391Z
+- Updated At: 2025-10-20T20:00:34.954Z
 
 ## Products
 
@@ -674,7 +674,7 @@
     Availability: Available
     Price: ₹950.00 INR
 - [Buy ​United Medicare Knee Hinge Support (F-06) - Surgismart](https://surgismart.in/products/f-06): Key Features:Knee hinge provides ideal compression, increased comfort, a firm grip, and increased durability. The knee hinge supports the knees while performing heavy activities. This fabric allows for breathability, ensures required compression and support. The mediolateral instability biaxial heavy duty steel hinge allows for full weight bearing and free flexion movement An injured knee can be supported and stabilized with a hinged knee brace. Direction of use Unhook the hook-and-loop fasteners. Apply the support with the wider side facing up. So that the open patella comes over your knee hinge. The hinge fulcrum should line up with the knee joint. Fasten the hook loops, beginning with the lower one, for a secure yet comfortable fit. Safety information Keep out of childrens reach. Use only if your doctor has prescribed it. UM knee support hinge provides knee support and stability. It is intended to assist those who have knee injuries or chronic knee illnesses, helps in relieving pain and increasing mobility.No, you should not sleep with your knee hinge brace; you must follow your doctors directions.UM Knee hinge provides ideal compression, a firm grip, increased comfort and durability. It may also reduce pain and pressure if you have arthritis.A knee support can be used by someone who experiences knee sprain, sports injuries, lateromedial instability, or knee injuries. It allows the knee joint to flex properly and move freely.UM knee hinge supports are available in two different sizes: Universal and XXL. So you can choose your suitable sizes.Sold by: Surgismart - Surgismart
-  Updated: 2025-10-13T11:20:23Z
+  Updated: 2025-10-20T17:18:56Z
   Vendor: United Medicare
   Product Type: Knee Support
   Availability: Available
