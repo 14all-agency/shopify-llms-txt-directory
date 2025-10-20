@@ -7,7 +7,7 @@
 - Currency: EUR
 - Timezone: Europe/Dublin
 - Created At: 2025-01-23T10:54:05Z
-- Updated At: 2025-10-19T20:00:35.417Z
+- Updated At: 2025-10-20T00:00:38.695Z
 
 ## Products
 
@@ -2510,7 +2510,7 @@
     Availability: Available
     Price: €84.95 EUR
 - [DIY Glass Scratch Removal Kit 75mm – Deep Scratch Repair with Drill](https://glasspolishshop.com/products/diy-glass-scratch-removal-kit-75mm): 75mm glass scratch removal kit for deep scratch repairs on all glass types. Includes abrasives, pads, compound, and drill adaptor. Fast, easy, and effective.
-  Updated: 2025-10-18T11:57:10Z
+  Updated: 2025-10-19T22:56:05Z
   Vendor: Glass Polish
   Product Type: Glass Scratch Removal Kit
   Availability: Available
@@ -2631,7 +2631,7 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/SCRATCHLESS-Professional-Glass-Scraper-150-mm-15041.jpg?v=1737646168
   Price: €21.95 EUR
 - [SCRATCHLESS Stainless Steel Blades 25pk - 150 mm](https://glasspolishshop.com/products/scratchless-stainless-steel-blades-25pk-150-mm): SCRATCHLESS Stainless Steel Blades 25pk - 150 mm for Scratchelss glass scraper Glass Polish
-  Updated: 2025-10-15T20:11:43Z
+  Updated: 2025-10-19T22:37:35Z
   Vendor: Glass Polish
   Product Type: 
   Availability: Available
