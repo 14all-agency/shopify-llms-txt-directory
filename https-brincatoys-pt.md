@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-10-20T08:01:13.502Z
+- Updated At: 2025-10-20T12:01:12.984Z
 
 ## Products
 
@@ -1837,7 +1837,7 @@ aos coiotes em tamanho e força, compensam em adaptabilidade já que podem
   Price: 16,99 € EUR
 - [Como desenhar -Na Quinta-](https://brincatoys.pt/products/como-desenhar-na-quinta): O conjunto como desenhar tem tudo o que precisa para facilitar o desenho.Siga as instruções, passo a passo, e estará a desenhar a vida numa Quinta.A identificação das figuras a desenhar, em língua inglesa, estimula a aprendizagem dessa língua.Cada conjunto inclui: 9 lápis de cor, bloco de desenho de 36 páginas, afia lápis e borracha.A
  embalagem...
-  Updated: 2025-10-13T06:33:40Z
+  Updated: 2025-10-20T10:05:26Z
   Vendor: Seleção Brincatoys
   Product Type: + 5 anos
   Availability: Available
@@ -3666,7 +3666,7 @@ aquático do que o hipopótamo comum.
  pelo seu pêlo bonito e espesso e pela sua capacidade de suportar climas
  extremamente frios, o husky siberiano é um fiel amigo e um robusto cão 
 de trabalho.Figura em borracha termoplástica não tóxica e livre de BPA.
-  Updated: 2025-10-13T06:31:52Z
+  Updated: 2025-10-20T10:05:01Z
   Vendor: Seleção Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -4792,7 +4792,7 @@ dinossauros Blue e Beta, um camião, mota e uma jaula de dinossauro com
 armadilha, e também uma coxa de galinha para usar como isca para o 
 dinossauro. Começa a construir e depois encena as tuas fantásticas 
 históri...
-  Updated: 2025-10-18T15:08:56Z
+  Updated: 2025-10-20T11:03:56Z
   Vendor: LEGO
   Product Type: + 6 anos
   Availability: Available
@@ -5836,7 +5836,7 @@ Provavelmente, a espécie vivente mais próxima é o cachorro-vinagre.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/mystery-minis-batman-vs-superman-230873816-849803087388-dc-comics-1178694473.webp?v=1752856805
   Price: 8,90 € EUR
 - [Mystery Minis: League of Legends](https://brincatoys.pt/products/mystery-minis-league-of-legends): Os seus personagens favoritos de League of Legends apresentados numa mini figura de vinil com aproximadamente 6 cm.O produto vem numa caixa misteriosa e nunca sabemos qual a persongem que nos vai sair.  Dimensão: 5.08 x 5.08 x 7.62 cm. Idade recomendada: + de 3 anos.
-  Updated: 2025-10-13T06:29:45Z
+  Updated: 2025-10-20T10:47:23Z
   Vendor: Funko
   Product Type: + 3 anos
   Availability: Available
@@ -12325,7 +12325,7 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/jogo-das-setas-magnetico-america-diversao-familiar-segura-128201824-5414561820185-brincatoys-1178696868.jpg?v=1752900732
   Price: 29,99 € EUR
 - [Frasco de Coloridos Berlindes Sortidos: Uma Explosão de Cores](https://brincatoys.pt/products/frasco-de-coloridos-berlindes-sortidos): Descubra um mundo de cores e texturas com o incrível Frasco de Coloridos Berlindes Sortidos! Divirta-se por horas com esta coleção encantadora.
-  Updated: 2025-10-19T23:02:16Z
+  Updated: 2025-10-20T08:59:10Z
   Vendor: Seleção Brincatoys
   Product Type: + 4 anos
   Availability: Available
@@ -13488,7 +13488,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/marvel-legends-yelena-belova-867997723-marvel-1178697527.jpg?v=1752911780
   Price: 36,50 € EUR
 - [Baralho de Cartas Minecraft](https://brincatoys.pt/products/baralho-de-cartas-minecraft): Este baralho de cartas do Minecraft apresenta os personagens icônicos da série nas faces de cada carta e uma lata protetora para armazenamento que qualquer Minecrafter ou jogador de cartas vai adorar. Se gosta de jogar, este baralho é perfeito para levar no carro ou na bolsa para que esteja sempre pronto para jogar- Dimensão: 11 x 15,50 x 2,50 cm. Idade Recomendada: + de 6 anos.
-  Updated: 2025-10-13T06:21:51Z
+  Updated: 2025-10-20T11:04:00Z
   Vendor: Seleção Brincatoys
   Product Type: + 6 anos
   Availability: Available
@@ -15128,7 +15128,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/play-doh-bluey-fantasias-divertidas-90437424-5010993981359-bluey-1178698665.jpg?v=1752796098
   Price: 19,99 € EUR
 - [NERF Elite 2.0 Set de 50 Dardos](https://brincatoys.pt/products/nerf-elite-2-0-set-de-50-dardos): Apresentamos o NERF Elite 2.0 Set de 50 Dardos, um complemento essencial para qualquer aficionado da emblemática marca de brinquedos de ação. Com este conjunto de 50 dardos oficiais Nerf Elite 2.0 terás todo o poder de que precisas em mãos. Muitas vezes, quando estás em batalha Nerf, alguns dardos desaparecem. Em vez de parar o jogo e procurares os dardos, mantem as recargas à mão para gastar menos tempo à procura dos dardos e mais tempo a jogar. Assim, este conjunto NERF Elite 2.0 Set de 50 Dardos oferece aos jogadores uma quantidade abundante de munições para prolongar as suas intensas batalhas. Além disso, assegura que estejas sempre preparado para qualquer desafio que surja durante o jogo. Ademais, cada dardo foi desenhado com a precisão e durabilidade características da NERF. Possuem uma ponta oca e flexível que se destaca pela sua segurança, minimizando o risco de ferimentos durante o jogo animado. Além disso, a aerodinâmica dos dardos foi otimizada para proporcionar uma trajetória mais reta e um alcance prolongado, garantindo assim que atingirás o teu alvo com maior precisão. Os dardos estão aptos a serem usados com qualquer lançador NERF Elite 2.0, bem como com os modelos anteriores da linha NERF Elite, o que significa que não precisarás de preocupar-te com a compra de equipamentos adicionais. Esta versatilidade permite-te manter um arsenal diversificado para enfrentares qualquer tipo de batalha. O design em azul e laranja não só é esteticamente agradável, mas também facilita a localização dos dardos após serem lançados. Este aspeto é particularmente útil em ambientes exteriores, onde os dardos podem facilmente se misturar com a paisagem. Finalmente, o conjunto é apresentado numa embalagem prática, que não só resguarda os dardos antes de serem usados, mas também serve como uma excelente opção de presente para qualquer entusiasta da gama NERF. Deste modo, com este conjunto de 50 dardos, podes recarregar os lançadores Nerf Elite 2.0 e continuar a batalha Nerf. Em suma... Conjunto de 50 dardos de alta precisão e durabilidade. Compatíveis com todos os lançadores NERF Elite 2.0 e modelos Elite anteriores. Design colorido para fácil recuperação e embalagem ideal para presente. Dimensão: 15,50 x 22,50 x 4,50 cm. Idade Recomendada: + de 8 anos.
-  Updated: 2025-10-13T06:20:08Z
+  Updated: 2025-10-20T11:04:06Z
   Vendor: Nerf
   Product Type: + 8 anos
   Availability: Available
@@ -16164,7 +16164,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/play-doh-festa-da-panqueca-diversao-criativa-na-cozinha-90127924-5010993779741-play-doh-1178699570.jpg?v=1752943822
   Price: 19,99 € EUR
 - [Pistola Nerf Elite 2.0 Prospect QS-4 | Brinquedo para Ação](https://brincatoys.pt/products/nerf-elite-2-0-prospect-qs-4): Pistola Nerf Elite 2.0 Prospect QS-4. Desafie amigos com disparos em rajada e preciseza! Ideal para aprimorar habilidades e criar aventuras.
-  Updated: 2025-10-18T12:51:10Z
+  Updated: 2025-10-20T11:03:45Z
   Vendor: Nerf
   Product Type: + 8 anos
   Availability: Available
@@ -17178,13 +17178,6 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-da-disney-pixar-sheriff-replica-perfeita-555618624-887961561869-cars-1178700412.jpg?v=1752955566
   Price: 11,99 € EUR
-- [Carro da Disney - Rusteze Lightning McQueen](https://brincatoys.pt/products/cars-disney-pixar-rusteze-lightning-mcqueen): Descubra o carro da Disney - Rusteze Lightning McQueen na Brincatoys! Réplica metálica fiel, detalhes autênticos e diversão garantida para fãs de "Carros".
-  Updated: 2025-10-13T06:17:43Z
-  Vendor: Cars
-  Product Type: + 3 anos
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-da-disney-rusteze-lightning-mcqueen-555022625-0887961502268-cars-1178700428.jpg?v=1752955693
-  Price: 11,99 € EUR
 - [: Lego City 60407 - Autocarro Turístico Vermelho de 2 Pisos](https://brincatoys.pt/products/lego-city-autocarro-turistico-vermelho-de-2-pisos): Descubra a emoção da cidade com o Lego City 60407 - Autocarro Turístico Vermelho de 2 Pisos.384 peças de diversão urbana para entusiastas.
   Updated: 2025-10-13T06:17:42Z
   Vendor: LEGO
@@ -17221,7 +17214,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-city-60435-camiao-reboque-e-reparacao-de-carro-666043524-5702017587325-lego-1178700452.jpg?v=1752786860
   Price: 22,50 € EUR
 - [Lego DC Comics 76270 - Armadura Mech do Batman](https://brincatoys.pt/products/lego-dc-comics-76270-armadura-mech-do-batman): Descubra a Armadura Mech do Batman Lego DC Comics 76270. Construa, brinque e colecione o herói de Gotham em versão robô articulado.
-  Updated: 2025-10-17T10:28:38Z
+  Updated: 2025-10-20T10:19:01Z
   Vendor: LEGO
   Product Type: + 6 anos
   Availability: Available
@@ -19566,7 +19559,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/cubo-12-pecas-princesas-disney-para-brincar-e-aprender-854119725-8005125411979-princesas-disney-1178702064.jpg?v=1752981735
   Price: 12,50 € EUR
 - [Dress To Impress - Bonecas Mistério com Estilo e Surpresa](https://brincatoys.pt/products/dress-to-impress-bonecas-misterio): Descobre a magia do Dress To Impress - Bonecas Mistério! Com uma embalagem em forma de estrela, cada conjunto revela uma nova estilista! ⭐
-  Updated: 2025-10-13T06:14:56Z
+  Updated: 2025-10-20T11:19:56Z
   Vendor: Seleção Brincatoys
   Product Type: + 6 anos
   Availability: Available
@@ -19972,7 +19965,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/coelho-de-peluche-com-vestido-rosa-30-cm-ideal-para-criancas-521909225-7340031314992-brincatoys-1192719480.jpg?v=1757879408
   Price: 26,50 € EUR
 - [Coelho de Peluche Blue 15 cm - Amigo para Crianças](https://brincatoys.pt/products/coelho-de-peluche-blue-15-cm): Coelho de Peluche Blue 15 cm, o brinquedo suave e seguro que encanta crianças e decora quartos. Este peluche promete conforto e companheirismo.
-  Updated: 2025-10-18T15:08:51Z
+  Updated: 2025-10-20T10:37:00Z
   Vendor: Seleção Brincatoys
   Product Type: + 6 meses
   Availability: Available
@@ -20723,7 +20716,7 @@ Figura em borracha termoplástica do filme Branca de neve e os sete anões.Figur
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/mr-beast-lab-metallic-panther-diversao-e-aventura-232471825-0630996247181-brincatoys-1192409549.jpg?v=1757627408
   Price: 31,50 € EUR
 - [Mr. Beast Lab Stealth Panther: Experiência Épica de Brincar](https://brincatoys.pt/products/mr-beast-lab-stealth-panther): Prepare-se para a ação com o Mr. Beast Lab Stealth Panther! Em poucos segundos, conjure uma pantera cibernética deslumbrante para suas aventuras. 🐆
-  Updated: 2025-10-13T06:13:50Z
+  Updated: 2025-10-20T11:24:11Z
   Vendor: Seleção Brincatoys
   Product Type: + 5 anos
   Availability: Available
@@ -21225,7 +21218,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
 ## Collections
 
 - [Ar livre](https://brincatoys.pt/collections/ar-livre)
-  Updated: 2025-10-19T09:15:45Z
+  Updated: 2025-10-20T11:23:04Z
   Total Products: 66
 - [Caixas de música](https://brincatoys.pt/collections/caixas-de-musica)
   Updated: 2025-10-19T09:15:45Z
@@ -21288,7 +21281,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-19T09:15:45Z
   Total Products: 26
 - [Lego DC](https://brincatoys.pt/collections/lego-dc-comics): Os conjuntos do Universo DC permitem que as crianças brinquem, inventem e criem um mundo colorido de super-heróis. Com estes conjuntos de jogo, as crianças vão poder construir cenas famosas e divertir-se a inventar novas aventuras entre todos os heróis e vilões. Vão poder divertir-se e aprender muito com cada conjunto.
-  Updated: 2025-10-19T09:15:45Z
+  Updated: 2025-10-20T11:23:04Z
   Total Products: 10
 - [Lego Technic](https://brincatoys.pt/collections/lego-technic): Os conjuntos LEGO® Technic oferecem experiências de construção avançadas e complexas com base em veículos reais grandes e pequenos, como carros desportivos, veículos de construção e motas. Estes veículos estão repletos de detalhes autênticos, como caixas de velocidade, rodas e eixos funcionais.
   Updated: 2025-10-19T09:15:46Z
@@ -21378,10 +21371,10 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-19T12:28:01Z
   Total Products: 1575
 - [4 - 5 anos](https://brincatoys.pt/collections/4-5-anos)
-  Updated: 2025-10-19T18:49:36Z
+  Updated: 2025-10-20T11:23:04Z
   Total Products: 700
 - [8 - 10 anos](https://brincatoys.pt/collections/8-10-anos)
-  Updated: 2025-10-19T09:15:47Z
+  Updated: 2025-10-20T11:23:04Z
   Total Products: 319
 - [+ 3 meses](https://brincatoys.pt/collections/3-meses)
   Updated: 2025-10-19T09:15:47Z
@@ -21393,26 +21386,26 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-19T19:32:53Z
   Total Products: 127
 - [Até €15](https://brincatoys.pt/collections/ate-15)
-  Updated: 2025-10-19T18:49:36Z
-  Total Products: 1295
+  Updated: 2025-10-20T11:23:04Z
+  Total Products: 1294
 - [Até €25](https://brincatoys.pt/collections/ate-25)
-  Updated: 2025-10-19T22:13:45Z
-  Total Products: 2400
+  Updated: 2025-10-20T11:23:04Z
+  Total Products: 2399
 - [Até €35](https://brincatoys.pt/collections/ate-35)
-  Updated: 2025-10-19T22:13:45Z
-  Total Products: 2863
+  Updated: 2025-10-20T11:23:04Z
+  Total Products: 2862
 - [Até €50](https://brincatoys.pt/collections/ate-50)
-  Updated: 2025-10-19T22:13:45Z
-  Total Products: 3245
+  Updated: 2025-10-20T11:23:04Z
+  Total Products: 3244
 - [Até €60](https://brincatoys.pt/collections/ate-60)
-  Updated: 2025-10-19T22:13:45Z
-  Total Products: 3380
+  Updated: 2025-10-20T11:23:04Z
+  Total Products: 3379
 - [Até €80](https://brincatoys.pt/collections/ate-80)
-  Updated: 2025-10-19T22:13:45Z
-  Total Products: 3459
+  Updated: 2025-10-20T11:23:04Z
+  Total Products: 3458
 - [Até €100](https://brincatoys.pt/collections/ate-100)
-  Updated: 2025-10-19T22:13:45Z
-  Total Products: 3508
+  Updated: 2025-10-20T11:23:04Z
+  Total Products: 3507
 - [Novidades](https://brincatoys.pt/collections/novidades)
   Updated: 2025-10-19T18:49:36Z
   Total Products: 396
@@ -21441,8 +21434,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-19T09:15:48Z
   Total Products: 0
 - [Cars](https://brincatoys.pt/collections/cars)
-  Updated: 2025-10-19T14:33:11Z
-  Total Products: 46
+  Updated: 2025-10-20T10:39:21Z
+  Total Products: 45
 - [Cartas Pokémon](https://brincatoys.pt/collections/pokemon-trading-card)
   Updated: 2025-10-19T09:15:48Z
   Total Products: 2
@@ -21522,7 +21515,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-19T09:15:49Z
   Total Products: 29
 - [LEGO](https://brincatoys.pt/collections/lego)
-  Updated: 2025-10-19T18:13:31Z
+  Updated: 2025-10-20T11:23:04Z
   Total Products: 376
 - [LOL Surprise](https://brincatoys.pt/collections/lol-surprise)
   Updated: 2025-10-19T09:15:49Z
@@ -21603,8 +21596,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-19T09:15:50Z
   Total Products: 9
 - [Catálogo](https://brincatoys.pt/collections/all)
-  Updated: 2025-10-19T22:13:45Z
-  Total Products: 3541
+  Updated: 2025-10-20T11:23:04Z
+  Total Products: 3540
 - [6 - 7 anos](https://brincatoys.pt/collections/6-7-anos)
   Updated: 2025-10-19T11:18:25Z
   Total Products: 285
@@ -21615,10 +21608,10 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-19T09:15:50Z
   Total Products: 117
 - [+ 3 anos](https://brincatoys.pt/collections/de-3-anos)
-  Updated: 2025-10-19T14:33:11Z
-  Total Products: 1222
+  Updated: 2025-10-20T10:39:21Z
+  Total Products: 1221
 - [+ 4 anos](https://brincatoys.pt/collections/de-4-anos)
-  Updated: 2025-10-19T16:36:20Z
+  Updated: 2025-10-20T11:23:04Z
   Total Products: 494
 - [+ 5 anos](https://brincatoys.pt/collections/de-5-anos)
   Updated: 2025-10-19T18:49:36Z
@@ -21630,7 +21623,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-19T09:15:50Z
   Total Products: 77
 - [+ 8 anos](https://brincatoys.pt/collections/8-anos)
-  Updated: 2025-10-19T09:15:50Z
+  Updated: 2025-10-20T11:23:04Z
   Total Products: 217
 - [+ 12 anos](https://brincatoys.pt/collections/12-anos)
   Updated: 2025-10-19T09:15:50Z
@@ -21639,11 +21632,11 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-19T09:15:50Z
   Total Products: 86
 - [Os mais procurados](https://brincatoys.pt/collections/os-mais-populares)
-  Updated: 2025-10-19T22:13:45Z
-  Total Products: 3542
+  Updated: 2025-10-20T11:23:04Z
+  Total Products: 3541
 - [Recém-chegados](https://brincatoys.pt/collections/recem-chegados)
-  Updated: 2025-10-19T22:13:45Z
-  Total Products: 3542
+  Updated: 2025-10-20T11:23:04Z
+  Total Products: 3541
 - [Produtos em destaque](https://brincatoys.pt/collections/produtos-em-destaque)
   Updated: 2025-10-19T11:18:25Z
   Total Products: 22
@@ -21654,8 +21647,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-19T09:15:50Z
   Total Products: 6
 - [OrderlyEmails - Recommended Products](https://brincatoys.pt/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-10-19T22:13:45Z
-  Total Products: 3066
+  Updated: 2025-10-20T11:23:04Z
+  Total Products: 3064
 - [Girafa Sofia](https://brincatoys.pt/collections/girafa-sofia)
   Updated: 2025-10-19T09:15:51Z
   Total Products: 19
@@ -21663,8 +21656,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-19T09:15:51Z
   Total Products: 126
 - [Marketplace](https://brincatoys.pt/collections/marketplace)
-  Updated: 2025-10-19T22:13:45Z
-  Total Products: 3066
+  Updated: 2025-10-20T11:23:04Z
+  Total Products: 3064
 - [EzConnector](https://brincatoys.pt/collections/ezconnector)
   Updated: 2025-10-19T22:13:45Z
   Total Products: 910
