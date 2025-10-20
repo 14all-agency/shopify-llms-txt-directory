@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-03-10T14:11:59Z
 - Contact Email: info@surgismart.in
-- Updated At: 2025-10-19T08:00:35.394Z
+- Updated At: 2025-10-20T04:00:35.403Z
 
 ## Products
 
@@ -466,7 +466,7 @@
     Availability: Available
     Price: ₹1,000.00 INR
 - [Buy ​United Medicare Foot Drop Splint (D-07) - Surgismart](https://surgismart.in/products/d-07): Key Features:Foot drop is designed to be used for prevention and correction of foot drop. It is beneficial to cure neurological deficits and paralysis on the foot. A lightweight, dorsiflexion-assistance foot drop splint made of polycarbonate. Prevents plantar flexion; the low arch and open heel give a neat shape. A foot splint can be easily adjusted to fit patients of various sizes and shapes. It fits into a shoe easily, and the calf section is padded for comfort. Foot splint supports and stabilizes the ankle and foot in all foot-drop conditions. Direction of use Use as directed by the physician Safety information Read the enclosed manual carefully. Never leave the child unattended. Do not use a car seat if any component is damaged, broken or missing parts. A Foot drop splint is used to support the foot and ankle when walking and prevent the foot from dropping or dragging. A Foot Drop splint is beneficial for persons who have nerve loss or muscle weakness in their legs, which can cause difficulty boosting the foot when walking A Foot Drop splint can give various advantages, including more mobility, increased safety, a lower risk of falling, and less fatigue while walking UM foot drop splints are available in two sizes: M and L. You can use this foot splint on both legs No, you should not wear your foot splint while you sleep, but its better to ask your physician before you do soSold by: Surgismart - Surgismart
-  Updated: 2025-10-13T11:20:27Z
+  Updated: 2025-10-19T10:44:09Z
   Vendor: United Medicare
   Product Type: Foot Splint
   Availability: Available
@@ -1151,7 +1151,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/SamsoStep1.jpg?v=1751478473
   Price: ₹1,800.00 INR
 - [Buy ​Samso Supreme Digital Bathroom Scale - Surgismart](https://surgismart.in/products/samso-supreme): Glass Top Red LED Display Two Tone Colours - Surgismart
-  Updated: 2025-10-15T09:37:48Z
+  Updated: 2025-10-20T03:09:04Z
   Vendor: Samso
   Product Type: Digital
   Availability: Available
