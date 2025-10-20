@@ -8,7 +8,7 @@
 - Timezone: Europe/London
 - Created At: 2021-01-17T01:03:23Z
 - Contact Email: contact@crystalshealing.co.uk
-- Updated At: 2025-10-20T04:00:39.444Z
+- Updated At: 2025-10-20T16:00:39.395Z
 
 # Crystals Healing — AI-Ready Index
 Welcome to Crystals Healing, your trusted UK-based store for healing crystals and jewelry. This llms.txt file lists all products, collections, blogs, and pages to help AI assistants, search engines, and shopping bots discover and understand our offerings.
@@ -1073,7 +1073,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
     Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/products/20211210_125756-PhotoRoom_2_1.jpg?v=1739737712
     Price: £23.50 GBP
 - [Zodiac Crystals for Virgo - Balance & Clarity Stones](https://crystalshealing.co.uk/products/zodiac-crystals-for-virgo): Support Virgo energy with Zodiac Crystals for Virgo, carefully chosen to enhance clarity, grounding, and emotional balance for this practical sign.
-  Updated: 2025-10-01T15:01:00Z
+  Updated: 2025-10-20T15:29:02Z
   Vendor: Crystals Healing
   Product Type: Zodiac crystals
   Availability: Available
@@ -3079,7 +3079,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
   Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/DIGITALGIFTCARD_81.jpg?v=1739739323
   Price: £11.80 GBP
 - [Rose Quartz Mushroom – Sculpt, Soothe & Glow](https://crystalshealing.co.uk/products/rose-quartz-mushroom): Lift and refresh your skin with the Rose Quartz mushroom. Reduces puffiness, boosts circulation, and enhances glow. Natural crystal facial massage tool.
-  Updated: 2025-09-25T11:49:58Z
+  Updated: 2025-10-20T11:09:36Z
   Vendor: Crystals Healing
   Product Type: Massage Tool
   Availability: Available
@@ -4807,10 +4807,10 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
   Updated: 2025-10-01T15:00:55Z
   Total Products: 18
 - [Crystal Necklaces](https://crystalshealing.co.uk/collections/necklaces): Explore our crystal necklaces – handmade, ethically sourced, and charged with healing energy. Find the perfect piece for love, clarity, protection or intention.
-  Updated: 2025-10-02T12:05:13Z
+  Updated: 2025-10-20T15:05:41Z
   Total Products: 50
-- [Healing Crystal Bracelets](https://crystalshealing.co.uk/collections/crystal-bracelets): Discover our healing crystal bracelets, handcrafted with ethically sourced stones. Wear daily to support emotional balance, protection, love, and inner strength.
-  Updated: 2025-10-16T11:19:17Z
+- [Healing Crystal Bracelets](https://crystalshealing.co.uk/collections/crystal-bracelets): Discover our healing crystal bracelets, handcrafted with ethically sourced stones. Wear daily to support emotional balance, protection, love, and inner strength
+  Updated: 2025-10-20T15:01:33Z
   Total Products: 176
 - [Zodiac Crystals Set](https://crystalshealing.co.uk/collections/zodiac-crystals-set): Discover crystal sets aligned with each zodiac sign — curated for energy, personality and purpose. Ethically sourced stones chosen to support your unique astrological journey.
   Updated: 2025-10-01T15:00:55Z
