@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-10-19T20:01:13.372Z
+- Updated At: 2025-10-20T00:01:07.887Z
 
 ## Products
 
@@ -12325,7 +12325,7 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/jogo-das-setas-magnetico-america-diversao-familiar-segura-128201824-5414561820185-brincatoys-1178696868.jpg?v=1752900732
   Price: 29,99 € EUR
 - [Frasco de Coloridos Berlindes Sortidos: Uma Explosão de Cores](https://brincatoys.pt/products/frasco-de-coloridos-berlindes-sortidos): Descubra um mundo de cores e texturas com o incrível Frasco de Coloridos Berlindes Sortidos! Divirta-se por horas com esta coleção encantadora.
-  Updated: 2025-10-13T06:23:04Z
+  Updated: 2025-10-19T23:02:16Z
   Vendor: Seleção Brincatoys
   Product Type: + 4 anos
   Availability: Available
@@ -19783,14 +19783,14 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/patrulha-pata-rescue-wheels-chase-aventura-divertida-554528225-0778988452820-patrulha-pata-1198508280.jpg?v=1760882045
   Price: 24,99 € EUR
 - [Patrulha Pata Rescue Wheels - Zuma para Aventuras Cheias](https://brincatoys.pt/products/patrulha-pata-rescue-wheels-zuma): Prepare-se para aventuras com o Patrulha Pata Rescue Wheels - Zuma! Com rodas gigantes e entregas emocionantes, comece a sua missão agora!
-  Updated: 2025-10-19T13:55:58Z
+  Updated: 2025-10-19T23:54:33Z
   Vendor: Patrulha Pata
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/patrulha-pata-rescue-wheels-zuma-para-aventuras-cheias-554533725-0778988453377-patrulha-pata-1198508284.jpg?v=1760882157
   Price: 24,99 € EUR
 - [Patrulha Pata Rescue Wheels - Rocky para Aventura](https://brincatoys.pt/products/patrulha-pata-rescue-wheels-rocky): Leve a diversão a outro nível com o Patrulha Pata Rescue Wheels - Rocky! Este camião de reciclagem supera obstáculos e inspira imaginação.
-  Updated: 2025-10-19T13:56:10Z
+  Updated: 2025-10-19T23:20:29Z
   Vendor: Patrulha Pata
   Product Type: + 3 anos
   Availability: Available
@@ -20443,14 +20443,14 @@ Figura em borracha termoplástica do filme Branca de neve e os sete anões.Figur
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/transformers-age-of-the-primes-combaticon-vortex-acao-total-861028525-5010996327147-transformers-1184379125.jpg?v=1756215019
   Price: 36,50 € EUR
 - [Patrulha Pata Fire Rescue - Rocky: Brincadeira Segura](https://brincatoys.pt/products/patrulha-pata-fire-rescue-rocky): O Patrulha Pata Fire Rescue - Rocky traz aventuras de combate a incêndios. Aproveite a ação com este camião-cisterna pronto para brincadeiras!
-  Updated: 2025-10-19T13:58:00Z
+  Updated: 2025-10-19T21:58:28Z
   Vendor: Patrulha Pata
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/patrulha-pata-fire-rescue-rocky-brincadeira-segura-550612125-0681147061217-patrulha-pata-1198508292.jpg?v=1760882279
   Price: 24,99 € EUR
 - [Patrulha Pata Fire Rescue - Zuma: Brincadeiras Aquáticas](https://brincatoys.pt/products/patrulha-pata-fire-rescue-zuma): O Patrulha Pata Fire Rescue - Zuma é perfeito para novas aventuras aquáticas com detalhes autênticos. Pronto para salvar o guaxinim? 🚤
-  Updated: 2025-10-19T11:48:06Z
+  Updated: 2025-10-19T21:55:20Z
   Vendor: Patrulha Pata
   Product Type: + 3 anos
   Availability: Available
@@ -20464,14 +20464,14 @@ Figura em borracha termoplástica do filme Branca de neve e os sete anões.Figur
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/patrulha-pata-fire-rescue-chase-acao-no-brincar-550612025-0681147061200-patrulha-pata-1198461014.jpg?v=1760802487
   Price: 24,99 € EUR
 - [Patrulha Pata Fire Rescue - Skye: Resgates Aéreos Divertidos](https://brincatoys.pt/products/patrulha-pata-fire-rescue-skye): Leve a aventura para casa com o Patrulha Pata Fire Rescue - Skye! Este helicóptero rosa garante horas de diversão e resgates emocionantes. 🐱
-  Updated: 2025-10-19T11:49:56Z
+  Updated: 2025-10-19T20:41:52Z
   Vendor: Patrulha Pata
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/patrulha-pata-fire-rescue-skye-resgates-aereos-divertidos-550614925-0681147061491-patrulha-pata-1198501017.jpg?v=1760874596
   Price: 24,99 € EUR
 - [Patrulha Pata Fire Rescue - Marshall em Ação](https://brincatoys.pt/products/patrulha-pata-fire-rescue-marshall): Desperte a imaginação das crianças com o Patrulha Pata Fire Rescue - Marshall! Com design vibrante e canhão de água, a diversão começa sem pilhas.
-  Updated: 2025-10-19T09:48:06Z
+  Updated: 2025-10-19T20:25:03Z
   Vendor: Patrulha Pata
   Product Type: + 3 anos
   Availability: Available
@@ -20520,18 +20520,25 @@ Figura em borracha termoplástica do filme Branca de neve e os sete anões.Figur
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/monster-high-boo-riginal-operetta-boneca-exclusiva-772304325-0194735230433-monster-high-1195801128.jpg?v=1759406049
   Price: 44,99 € EUR
 - [Peluche Patrulha Pata - Marshall 27cm](https://brincatoys.pt/products/peluche-patrulha-pata-marshall-27cm): O Peluche Patrulha Pata – Marshall 27 cm chega para abraçar, brincar e decorar o quarto com o dálmata mais carismático da série. Em primeiro lugar, com 27 cm de altura, este boneco tem o tamanho ideal para mãos pequenas e acompanha a criança em todas as aventuras: no sofá, na cama ou nas saídas em família. Além disso, o fato vermelho inspirado nas missões especiais do Marshall apresenta cores vibrantes e pormenores impressos que lhe dão um aspeto heroico irresistível. Por outro lado, feito com tecido macio e enchimento suave, o peluche convida a apertos e oferece conforto na hora de dormir. Ademais, a costura reforçada aumenta a durabilidade e suporta o uso diário, enquanto a forma estável permite que o Marshall se mantenha de pé na prateleira quando não está em ação. Assim, a criança cria histórias, dá voz à personagem e desenvolve criatividade e linguagem sem esforço. E, porque não contém componentes eletrónicos, a brincadeira começa logo que sai da caixa. Igualmente, para os pais, este peluche é prático e fácil de cuidar: basta limpar a superfície com um pano húmido e deixar secar ao ar. Junta-o a outros peluches da Patrulha Pata e completa a equipa para missões épicas antes de dormir. Por fim, compra um boneco, fofo e resistente que inspira carinho e imaginação todos os dias. Preparados? Marshall está pronto para abraçar! Em suma... Altura aproximada: 27 cm Tecido macio e enchimento suave Detalhes oficiais da Patrulha Pata Leve, resistente e estável para exposição Dimensão: 27 cm. Idade Recomendada: + de 12 meses.
-  Updated: 2025-10-19T19:25:52Z
+  Updated: 2025-10-19T21:48:00Z
   Vendor: Patrulha Pata
   Product Type: + 12 meses
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/PeluchePatrulhaPata-Marshall27cm_2.jpg?v=1760901688
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/peluche-patrulha-pata-marshall-27cm-773865525-patrulha-pata-1198568982.jpg?v=1760910479
   Price: 16,99 € EUR
-- [Peluche Patrulha Pata - Rubble 27cm](https://brincatoys.pt/products/peluche-patrulha-pata-rubble-27cm): O Peluche Patrulha Pata – Rubble 27 cm chega para abraçar, brincar e decorar o quarto com o dálmata mais carismático da série. Em primeiro lugar, com 27 cm de altura, este boneco tem o tamanho ideal para mãos pequenas e acompanha a criança em todas as aventuras: no sofá, na cama ou nas saídas em família. Além disso, o fato amarelo inspirado nas missões especiais do Rubble apresenta cores vibrantes e pormenores impressos que lhe dão um aspeto heroico irresistível. Por outro lado, feito com tecido macio e enchimento suave, o peluche convida a apertos e oferece conforto na hora de dormir. Ademais, a costura reforçada aumenta a durabilidade e suporta o uso diário, enquanto a forma estável permite que o Rubble se mantenha de pé na prateleira quando não está em ação. Assim, a criança cria histórias, dá voz à personagem e desenvolve criatividade e linguagem sem esforço. E, porque não contém componentes eletrónicos, a brincadeira começa logo que sai da caixa. Igualmente, para os pais, este peluche é prático e fácil de cuidar: basta limpar a superfície com um pano húmido e deixar secar ao ar. Junta-o a outros peluches da Patrulha Pata e completa a equipa para missões épicas antes de dormir. Por fim, compra um boneco, fofo e resistente que inspira carinho e imaginação todos os dias. Preparados? Rubble está pronto para abraçar! Em suma... Altura aproximada: 27 cm Tecido macio e enchimento suave Detalhes oficiais da Patrulha Pata Leve, resistente e estável para exposição Dimensão: 27 cm. Idade Recomendada: + de 12 meses.
-  Updated: 2025-10-19T19:32:39Z
+- [Peluche Patrulha Pata - Rubble 27cm](https://brincatoys.pt/products/peluche-patrulha-pata-rubble-27cm): O Peluche Patrulha Pata – Rubble 27 cm chega para abraçar, brincar e decorar o quarto com o Bulldog Inglês mais carismático da série. Em primeiro lugar, com 27 cm de altura, este boneco tem o tamanho ideal para mãos pequenas e acompanha a criança em todas as aventuras: no sofá, na cama ou nas saídas em família. Além disso, o fato amarelo inspirado nas missões especiais do Rubble apresenta cores vibrantes e pormenores impressos que lhe dão um aspeto heroico irresistível. Por outro lado, feito com tecido macio e enchimento suave, o peluche convida a apertos e oferece conforto na hora de dormir. Ademais, a costura reforçada aumenta a durabilidade e suporta o uso diário, enquanto a forma estável permite que o Rubble se mantenha de pé na prateleira quando não está em ação. Assim, a criança cria histórias, dá voz à personagem e desenvolve criatividade e linguagem sem esforço. E, porque não contém componentes eletrónicos, a brincadeira começa logo que sai da caixa. Igualmente, para os pais, este peluche é prático e fácil de cuidar: basta limpar a superfície com um pano húmido e deixar secar ao ar. Junta-o a outros peluches da Patrulha Pata e completa a equipa para missões épicas antes de dormir. Por fim, compra um boneco, fofo e resistente que inspira carinho e imaginação todos os dias. Preparados? Rubble está pronto para abraçar! Em suma... Altura aproximada: 27 cm Tecido macio e enchimento suave Detalhes oficiais da Patrulha Pata Leve, resistente e estável para exposição Dimensão: 27 cm. Idade Recomendada: + de 12 meses.
+  Updated: 2025-10-19T22:15:16Z
   Vendor: Patrulha Pata
   Product Type: + 12 meses
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/PeluchePatrulhaPata-Rubble27cm_2.jpg?v=1760902172
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/peluche-patrulha-pata-rubble-27cm-771386525-patrulha-pata-1198568981.jpg?v=1760910476
+  Price: 16,99 € EUR
+- [Peluche Patrulha Pata Dino Rescue - Chase 27cm](https://brincatoys.pt/products/peluche-patrulha-pata-dino-rescue-chase-27cm): O Peluche Patrulha Pata Dino Rescue - Chase 27cm chega para abraçar, brincar e decorar o quarto com o pastor alemão mais carismático da série. Em primeiro lugar, com 27 cm de altura, este boneco tem o tamanho ideal para mãos pequenas e acompanha a criança em todas as aventuras: no sofá, na cama ou nas saídas em família. Além disso, o fato azul inspirado nas missões especiais do Chase apresenta cores vibrantes e pormenores impressos que lhe dão um aspeto heroico irresistível. Por outro lado, feito com tecido macio e enchimento suave, o peluche convida a apertos e oferece conforto na hora de dormir. Ademais, a costura reforçada aumenta a durabilidade e suporta o uso diário, enquanto a forma estável permite que o Chase se mantenha de pé na prateleira quando não está em ação. Assim, a criança cria histórias, dá voz à personagem e desenvolve criatividade e linguagem sem esforço. E, porque não contém componentes eletrónicos, a brincadeira começa logo que sai da caixa. Igualmente, para os pais, este peluche é prático e fácil de cuidar: basta limpar a superfície com um pano húmido e deixar secar ao ar. Junta-o a outros peluches da Patrulha Pata e completa a equipa para missões épicas antes de dormir. Por fim, compra um boneco, fofo e resistente que inspira carinho e imaginação todos os dias. Preparados? Chase está pronto para abraçar! Em suma... Altura aproximada: 27 cm Tecido macio e enchimento suave Detalhes oficiais da Patrulha Pata Leve, resistente e estável para exposição Dimensão: 27 cm. Idade Recomendada: + de 12 meses.
+  Updated: 2025-10-19T23:47:57Z
+  Vendor: Patrulha Pata
+  Product Type: Peluche
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/peluche-patrulha-pata-dino-rescue-chase-27cm-773009625-6825611300969-patrulha-pata-1198574453.jpg?v=1760917676
   Price: 16,99 € EUR
 - [Monster High Boo-riginal Operetta: Boneca Exclusiva](https://brincatoys.pt/products/monster-high-real-drama-draculaura): Descubra a boneca Monster High Boo-riginal Operetta, uma edição especial com um estilo vintage rockabilly. Perfeita para colecionadores e crianças!
   Updated: 2025-10-18T13:47:08Z
@@ -21293,8 +21300,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-19T11:18:25Z
   Total Products: 107
 - [Peluches](https://brincatoys.pt/collections/peluches)
-  Updated: 2025-10-19T19:32:39Z
-  Total Products: 109
+  Updated: 2025-10-19T22:13:45Z
+  Total Products: 110
 - [Outras categorias](https://brincatoys.pt/collections/brinquedos-outras-categorias)
   Updated: 2025-10-19T16:36:20Z
   Total Products: 233
@@ -21389,22 +21396,22 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-19T18:49:36Z
   Total Products: 1295
 - [Até €25](https://brincatoys.pt/collections/ate-25)
-  Updated: 2025-10-19T19:32:39Z
+  Updated: 2025-10-19T22:13:45Z
   Total Products: 2400
 - [Até €35](https://brincatoys.pt/collections/ate-35)
-  Updated: 2025-10-19T19:32:39Z
+  Updated: 2025-10-19T22:13:45Z
   Total Products: 2863
 - [Até €50](https://brincatoys.pt/collections/ate-50)
-  Updated: 2025-10-19T19:32:39Z
+  Updated: 2025-10-19T22:13:45Z
   Total Products: 3245
 - [Até €60](https://brincatoys.pt/collections/ate-60)
-  Updated: 2025-10-19T19:32:39Z
+  Updated: 2025-10-19T22:13:45Z
   Total Products: 3380
 - [Até €80](https://brincatoys.pt/collections/ate-80)
-  Updated: 2025-10-19T19:32:39Z
+  Updated: 2025-10-19T22:13:45Z
   Total Products: 3459
 - [Até €100](https://brincatoys.pt/collections/ate-100)
-  Updated: 2025-10-19T19:32:39Z
+  Updated: 2025-10-19T22:13:45Z
   Total Products: 3508
 - [Novidades](https://brincatoys.pt/collections/novidades)
   Updated: 2025-10-19T18:49:36Z
@@ -21440,7 +21447,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-19T09:15:48Z
   Total Products: 2
 - [Patrulha Pata](https://brincatoys.pt/collections/patrulha-pata)
-  Updated: 2025-10-19T19:32:39Z
+  Updated: 2025-10-19T22:13:45Z
   Total Products: 39
 - [Five Nights at Freddy's](https://brincatoys.pt/collections/five-nights-at-freddys)
   Updated: 2025-10-19T09:15:48Z
@@ -21596,7 +21603,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-19T09:15:50Z
   Total Products: 9
 - [Catálogo](https://brincatoys.pt/collections/all)
-  Updated: 2025-10-19T19:32:39Z
+  Updated: 2025-10-19T22:13:45Z
   Total Products: 3541
 - [6 - 7 anos](https://brincatoys.pt/collections/6-7-anos)
   Updated: 2025-10-19T11:18:25Z
@@ -21632,10 +21639,10 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-19T09:15:50Z
   Total Products: 86
 - [Os mais procurados](https://brincatoys.pt/collections/os-mais-populares)
-  Updated: 2025-10-19T19:32:39Z
+  Updated: 2025-10-19T22:13:45Z
   Total Products: 3542
 - [Recém-chegados](https://brincatoys.pt/collections/recem-chegados)
-  Updated: 2025-10-19T19:32:39Z
+  Updated: 2025-10-19T22:13:45Z
   Total Products: 3542
 - [Produtos em destaque](https://brincatoys.pt/collections/produtos-em-destaque)
   Updated: 2025-10-19T11:18:25Z
@@ -21647,7 +21654,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-19T09:15:50Z
   Total Products: 6
 - [OrderlyEmails - Recommended Products](https://brincatoys.pt/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-10-19T19:32:39Z
+  Updated: 2025-10-19T22:13:45Z
   Total Products: 3066
 - [Girafa Sofia](https://brincatoys.pt/collections/girafa-sofia)
   Updated: 2025-10-19T09:15:51Z
@@ -21656,11 +21663,11 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-19T09:15:51Z
   Total Products: 126
 - [Marketplace](https://brincatoys.pt/collections/marketplace)
-  Updated: 2025-10-19T19:32:39Z
+  Updated: 2025-10-19T22:13:45Z
   Total Products: 3066
 - [EzConnector](https://brincatoys.pt/collections/ezconnector)
-  Updated: 2025-10-19T19:32:28Z
-  Total Products: 911
+  Updated: 2025-10-19T22:13:45Z
+  Total Products: 910
 
 ## Blogs
 
