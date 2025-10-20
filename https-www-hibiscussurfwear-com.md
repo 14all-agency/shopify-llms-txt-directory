@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2023-04-19T20:10:07Z
 - Contact Email: georgina@hibiscussurfwear.com
-- Updated At: 2025-10-19T20:00:44.757Z
+- Updated At: 2025-10-20T08:00:42.395Z
 
 ## Products
 
@@ -7152,7 +7152,7 @@
   Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/all-over-print-large-tote-bag-w-pocket-yellow-front-64877ccb39226.jpg?v=1686600918
   Price: £41.99 GBP
 - [Oaxaca, Mexico - Hibiscus Surfwear - Mens organic cotton t-shirt](https://www.hibiscussurfwear.com/products/oaxaca-mexico-hibiscus-surfwear-mens-organic-cotton-t-shirt): Oaxaca, Mexico - Hibiscus Surfwear - Mens organic cotton t-shirt Made from 100% organic ring-spun cotton, this unisex t-shirt is a total must-have. It's high-quality, super comfy, and best of all—eco-friendly. • 100% organic ring-spun cotton • Fabric weight: 5.3 oz/yd² (180 g/m²) • Single jersey • Medium fit • Set-in sleeves • 1 × 1 rib at collar • Wide double-needle topstitch on the sleeves and bottom hems • Self-fabric neck tape (inside, back of the neck) • Blank product sourced from China or Bangladesh The sizes correspond to a smaller size in the US market, so US customers should order a size up. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide BODY LENGTH (inches) CHEST WIDTH (inches) SLEEVE LENGTH (inches) S 27 ¼ 19 ¼ 8 ⅛ M 28 ¼ 20 ½ 8 ½ L 29 ⅛ 21 ¾ 8 ⅞ XL 29 ⅞ 22 ¾ 8 ⅞ 2XL 30 ¾ 24 9 ¼
-  Updated: 2025-10-19T09:40:27Z
+  Updated: 2025-10-19T21:46:45Z
   Vendor: Hibiscus Surfwear
   Product Type: 
   Availability: Available
@@ -20741,7 +20741,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/all-over-print-skater-dress-white-front-66c85e1c8d979.jpg?v=1724407350
     Price: £58.00 GBP
 - [Starbright - Hibiscus Surfwear - Recycled string bikini](https://www.hibiscussurfwear.com/products/starbright-hibiscus-surfwear-recycled-string-bikini): Starbright - Hibiscus Surfwear - Recycled string bikini Stay comfortable and stylish all summer with this All-Over Print Recycled String Bikini set. It’s made from soft recycled polyester with double-layering and UPF 50+. Style the straps how you like, and get ready to swim! • Soft and stretchy material with UPF 50+ • Sizes up to 6XL • Bikini top comes with removable padding for comfort • Multiple ways to tie and style the bikini set • Color design options for swimwear lining • Blank product components in the EU sourced from Spain, Vietnam, Cambodia, Turkey, and China • Blank product components in the US sourced from Colombia, China, Vietnam, and Mexico Disclaimers: • Due to the 2-layered construction and internal stitching, a visible stitch may appear in the crotch seam of the bikini bottom. This is a normal part of the manufacturing process and does not impact the quality or performance of the product. • To make your All-Over Print Recycled String Bikini last longer, thoroughly rinse it off after each use and get rid of any chlorine/salt residue. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide CHEST (inches) HIPS (inches) 2XS 31 ½ 33 ⅞ XS 33 ⅛ 35 ⅜ S 34 ⅝ 37 M 36 ¼ 38 ⅝ L 39 ⅜ 41 ¾ XL 42 ½ 44 ⅞ 2XL 45 ⅝ 48 3XL 48 ⅞ 51 ⅛ 4XL 52 54 ⅜ 5XL 55 ⅛ 57 ½ 6XL 58 ¼ 60 ⅝ CHEST (cm) HIPS (cm) 2XS 80 86 XS 84 90 S 88 94 M 92 98 L 100 106 XL 108 114 2XL 116 122 3XL 124 130 4XL 132 138 5XL 140 146 6XL 148 154
-  Updated: 2025-06-05T00:41:40Z
+  Updated: 2025-10-20T02:02:11Z
   Vendor: Hibiscus Surfwear
   Product Type: 
   Availability: Available
