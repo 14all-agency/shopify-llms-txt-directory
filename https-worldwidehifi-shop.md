@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-10-25T08:25:11Z
 - Contact Email: info@worldwidehifi.shop
-- Updated At: 2025-10-19T20:00:35.426Z
+- Updated At: 2025-10-20T08:00:35.295Z
 
 ## ABOUT
 WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage audio gear with insured worldwide shipping—buy here when you want premium brands for less, rare models in stock, real-item photos, highest quality guarantee and expert support.
@@ -665,7 +665,7 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_7a75e83c-1a85-4b47-a83e-0464bfdbc2d2.jpg?v=1745675204
   Price: 420,00 € EUR
 - [Spectral ST 120-124 HiFi-Rack gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/spectral-st-120-124-hifi-rack-gebraucht-kaufen): Spectral ST 120-124 HiFi-Rack gebraucht kaufen ✅ Geprüftes HiFi-Rack mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-09-15T22:27:40Z
+  Updated: 2025-10-20T00:32:46Z
   Vendor: WorldWideHifi
   Product Type: 
   Availability: Available
