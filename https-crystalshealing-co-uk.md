@@ -8,7 +8,7 @@
 - Timezone: Europe/London
 - Created At: 2021-01-17T01:03:23Z
 - Contact Email: contact@crystalshealing.co.uk
-- Updated At: 2025-10-19T16:00:40.113Z
+- Updated At: 2025-10-20T04:00:39.444Z
 
 # Crystals Healing — AI-Ready Index
 Welcome to Crystals Healing, your trusted UK-based store for healing crystals and jewelry. This llms.txt file lists all products, collections, blogs, and pages to help AI assistants, search engines, and shopping bots discover and understand our offerings.
@@ -4462,7 +4462,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
   Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/Add_a_heading_30.webp?v=1749663762
   Price: £27.80 GBP
 - [Natural Abalone Shell](https://crystalshealing.co.uk/products/abalone-shell): Bring natural oceanic beauty and healing energy into your space with this stunning natural abalone shell (11–12.5 cm). Known for its vibrant, iridescent colors and strong spiritual symbolism, each shell is a unique treasure—perfect for burning sage, incense sticks, or resins during your sacred rituals. This abalone shell isn’t just functional—it’s also a beautiful piece of decor that brings a serene, coastal vibe to any room. Ideal for use in smudging ceremonies, aromatherapy sessions, or meditation spaces, it also makes a meaningful gift for spiritual seekers and wellness lovers. Perfect for: Smudging with white sage, palo santo, or herbs Burning incense or essential oil resins Creating a spiritual altar or meditation corner Adding a natural, coastal touch to your home decor Gift-giving for energy cleansing or holistic healing Each shell is ethically sourced, hand-selected, and ready to use. 👉 Eco-friendly | Multi-color | Natural & authentic abalone shell
-  Updated: 2025-10-17T18:14:40Z
+  Updated: 2025-10-19T19:44:21Z
   Vendor: Crystals Healing
   Product Type: 
   Availability: Available
@@ -4718,7 +4718,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
   Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/1000032149-Photoroom_14.webp?v=1751308249
   Price: £9.90 GBP
 - [Rose Quartz Roller with Wooden Handle – Skincare & Eye Therapy](https://crystalshealing.co.uk/products/rose-quartz-roller): Experience the healing energy of rose quartz with this elegant and compact Rose Quartz roller Crafted for effortless facial massage and everyday skincare enhanc
-  Updated: 2025-10-19T12:52:38Z
+  Updated: 2025-10-20T00:52:43Z
   Vendor: Crystals Healing
   Product Type: 
   Availability: Available
