@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-03-10T14:11:59Z
 - Contact Email: info@surgismart.in
-- Updated At: 2025-10-20T04:00:35.403Z
+- Updated At: 2025-10-20T12:00:35.359Z
 
 ## Products
 
@@ -2204,7 +2204,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/61yy9cdr5rl.jpg?v=1751478186
   Price: ₹9,599.00 INR
 - [Buy ​3M™ Littmann® Classic III™ Monitoring Stethoscope, Lavender Tube, 27, in, 5832 - Surgismart](https://surgismart.in/products/3m™-littmann®-classic-iii™-monitoring-stethoscope-lavender-tube-27-in-5832): - Surgismart
-  Updated: 2025-10-15T09:37:09Z
+  Updated: 2025-10-20T04:11:49Z
   Vendor: Littmann
   Product Type: Classic III™ Monitoring Stethoscope
   Availability: Available
