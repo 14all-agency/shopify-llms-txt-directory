@@ -6,7 +6,7 @@
 - Timezone: Asia/Kuwait
 - Created At: 2025-09-29T02:15:58Z
 - Contact Email: elitebuzkw@gmail.com
-- Updated At: 2025-10-19T20:00:36.119Z
+- Updated At: 2025-10-20T16:00:36.514Z
 
 ## Products
 
@@ -354,7 +354,7 @@
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/8-_-_-_-_-22-_-My-Store-78409825.webp?v=1760188927
   Price: ‏7.00 د.ك.‏ KWD
 - [حصان هزاز للأطفال باللون الماجنتا من Little Tikes - Dar Toys || متجر](https://dartoys.com/products/حصان-هزاز-للأطفال-باللون-الماجنتا-من-little-tikes): استمتع بلحظات لعب آمنة وممتعة مع حصان Little Tikes الكلاسيكي الهزاز باللون الماجنتا. يتميز بتصميم  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-18T01:08:58Z
+  Updated: 2025-10-20T13:47:10Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
@@ -2238,13 +2238,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/DarToys_1_e232ee0a-a75f-4096-be7c-d69771d71675.jpg?v=1760176467
   Price: ‏6.50 د.ك.‏ KWD
-- [دراجة هوائية 29 بوصة بتصميم عصري مع عجلات قوية - Dar Toys || متجر دار](https://dartoys.com/products/دراجة-هوائية-29-بوصة-بتصميم-عصري-مع-عجلات-قوية): أضف لمسة من الأناقة والمتعة مع هذه الدراجة الهوائية بحجم 29 بوصة ذات التصميم العصري والألوان  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-18T01:23:36Z
-  Vendor: My Store
-  Product Type: Kids Toys
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/Gemini_Generated_Image_khpczskhpczskhpc.png?v=1760176469
-  Price: ‏40.00 د.ك.‏ KWD
 - [كرة قدم للأطفال والكبار عالية الجودة - Dar Toys || متجر دار تويز](https://dartoys.com/products/كرة-قدم-للأطفال-والكبار-عالية-الجودة): استمتع برياضة كرة القدم مع كرة القدم عالية الجودة من Dartoys. صممت لتمنحك أداءً ممتازًا وتحكمًا  - Dar Toys || متجر دار تويز للألعاب
   Updated: 2025-10-18T01:23:39Z
   Vendor: My Store
@@ -2299,12 +2292,20 @@
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/Gemini_Generated_Image_qrrd4dqrrd4dqrrd.png?v=1760178750
   Price: ‏70.00 د.ك.‏ KWD
 - [دراجة هوائية 27.5 بوصة بتصميم عصري باللون الأسود والأحمر - Dar Toys ||](https://dartoys.com/products/دراجة-هوائية-27-5-بوصة-بتصميم-عصري-باللون-الأسود-والأحمر): أضف لمسة من الأناقة والراحة مع هذه الدراجة الهوائية بحجم 27.5 بوصة ذات اللون الأسود والأحمر الجذاب.  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-18T01:24:00Z
+  Updated: 2025-10-20T15:35:35Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/Gemini_Generated_Image_t9e9ijt9e9ijt9e9.png?v=1760179132
-  Price: ‏35.00 د.ك.‏ KWD
+  - [25](https://dartoys.com/products/دراجة-هوائية-27-5-بوصة-بتصميم-عصري-باللون-الأسود-والأحمر?variant=43991229005939)
+    Availability: Available
+    Price: ‏33.00 د.ك.‏ KWD
+  - [26](https://dartoys.com/products/دراجة-هوائية-27-5-بوصة-بتصميم-عصري-باللون-الأسود-والأحمر?variant=43991229038707)
+    Availability: Available
+    Price: ‏34.00 د.ك.‏ KWD
+  - [27](https://dartoys.com/products/دراجة-هوائية-27-5-بوصة-بتصميم-عصري-باللون-الأسود-والأحمر?variant=43991229071475)
+    Availability: Available
+    Price: ‏37.00 د.ك.‏ KWD
 - [ميزان لعب للأطفال على شكل حصان - Dar Toys || متجر دار تويز](https://dartoys.com/products/ميزان-لعب-للأطفال-على-شكل-حصان): امنح طفلك لحظات من المرح والتوازن مع ميزان اللعب على شكل حصان. يتميز هذا المنتج بتصميمه اللطيف  - Dar Toys || متجر دار تويز للألعاب
   Updated: 2025-10-18T01:24:04Z
   Vendor: My Store
@@ -2526,13 +2527,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/imgi_3_nn53qso91R7ru99HedfS1UMU9lLpz1sTQ0MWNA6e.jpg?v=1760184862
   Price: ‏19.00 د.ك.‏ KWD
-- [دراجة هوائية 29 بوصة بتصميم عصري مع عجلات قوية - Dar Toys || متجر دار](https://dartoys.com/products/دراجة-هوائية-29-بوصة-بتصميم-عصري-مع-عجلات-قوية-1): أضف لمسة من القوة والأداء مع هذه الدراجة الهوائية بحجم 29 بوصة. تتميز بتصميم عصري وأنيق يناسب جميع  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-18T01:25:41Z
-  Vendor: My Store
-  Product Type: Kids Toys
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/Gemini_Generated_Image_mwqst4mwqst4mwqs.png?v=1760185541
-  Price: ‏40.00 د.ك.‏ KWD
 - [بيت عرائس خشبي وردي مع مزلقان للأطفال - Dar Toys || متجر دار تويز](https://dartoys.com/products/بيت-عرائس-خشبي-وردي-مع-مزلقان-للأطفال): امنحي طفلتك تجربة لعب ممتعة مع بيت العرائس الخشبي الوردي من Dartoys، المصمم خصيصًا لمحبي ألعاب  - Dar Toys || متجر دار تويز للألعاب
   Updated: 2025-10-18T01:25:44Z
   Vendor: My Store
@@ -2541,12 +2535,12 @@
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/Image_Editor-2024-08-16T154419.255.png?v=1760186417
   Price: ‏32.00 د.ك.‏ KWD
 - [دراجة هوائية 26 بوصة بتصميم عصري ولون أزرق - Dar Toys || متجر دار تويز](https://dartoys.com/products/دراجة-هوائية-26-بوصة-بتصميم-عصري-ولون-أزرق): أضف لمسة من القوة والأداء مع هذه الدراجة الهوائية بحجم 26 بوصة ذات اللون الأزرق المميز. تتميز بتصميم  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-18T01:25:48Z
+  Updated: 2025-10-20T15:37:48Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/Gemini_Generated_Image_6dihwj6dihwj6dih.png?v=1760186116
-  Price: ‏27.00 د.ك.‏ KWD
+  Price: ‏33.00 د.ك.‏ KWD
 - [دراجة هوائية 22 بوصة بتصميم عصري ولون أحمر وأسود - Dar Toys || متجر](https://dartoys.com/products/دراجة-هوائية-22-بوصة-بتصميم-عصري-ولون-أحمر-وأسود): والأسود الجذاب. تتميز بتصميم عصري يناسب جميع الأعمار، مع مقعد مريح وعجلات قوية لراحة وثبات مثالي.  - Dar Toys || متجر دار تويز للألعاب
   Updated: 2025-10-18T01:25:51Z
   Vendor: My Store
@@ -2698,13 +2692,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/16-_-_-_-_-_-_-_-_-_-_-My-Store-133722010.png?v=1760247996
   Price: ‏20.00 د.ك.‏ KWD
-- [دراجة هوائية 27.5 بوصة بتصميم احترافي ولون رمادي معدني - Dar Toys ||](https://dartoys.com/products/دراجة-هوائية-27-5-بوصة-بتصميم-احترافي-ولون-رمادي-معدني): انطلق في مغامرتك بثقة مع هذه الدراجة الهوائية الاحترافية بحجم 27.5 بوصة ذات التصميم الرياضي الأنيق  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-18T01:27:01Z
-  Vendor: My Store
-  Product Type: Kids Toys
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/27.5-_-_-_-_-_-_-My-Store-133740454.png?v=1760248365
-  Price: ‏25.00 د.ك.‏ KWD
 - [بيت الدمى الخشبي مع أثاث كامل متعدد الطوابق للأطفال - Dar Toys || متجر](https://dartoys.com/products/بيت-الدمى-الخشبي-مع-أثاث-كامل-متعدد-الطوابق-للأطفال): أدخل عالم المرح والإبداع مع بيت الدمى الخشبي المزود بأثاث كامل. يتميز هذا البيت بصلابة وجودة عالية  - Dar Toys || متجر دار تويز للألعاب
   Updated: 2025-10-18T01:27:04Z
   Vendor: My Store
@@ -2786,13 +2773,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-133752637.jpg?v=1760250228
   Price: ‏45.00 د.ك.‏ KWD
-- [دراجة هوائية 29 بوصة بتصميم احترافي ولون رمادي وبرتقالي - Dar Toys ||](https://dartoys.com/products/دراجة-هوائية-29-بوصة-بتصميم-احترافي-ولون-رمادي-وبرتقالي): استمتع بتجربة قيادة احترافية مع هذه الدراجة الهوائية الجبلية بحجم 29 بوصة وتصميمها المميز باللونين  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-18T01:27:39Z
-  Vendor: My Store
-  Product Type: Kids Toys
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/29-_-_-_-_-_-_-My-Store-133752580.png?v=1760250190
-  Price: ‏35.00 د.ك.‏ KWD
 - [دراجة هوائية للأطفال بتصميم أنيق ولون وردي مع مقعد خلفي وسلة أمامية -](https://dartoys.com/products/دراجة-هوائية-للأطفال-بتصميم-أنيق-ولون-وردي-مع-مقعد-خلفي-وسلة-أمامية): أضيفي لمسة من المرح والأناقة لطفلتك مع هذه الدراجة الهوائية الجميلة المتوفرة بأحجام 12 و16 و20 بوصة  - Dar Toys || متجر دار تويز للألعاب
   Updated: 2025-10-18T01:27:42Z
   Vendor: My Store
@@ -2818,13 +2798,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/36-_-_-_-My-Store-133758872.jpg?v=1760250782
   Price: ‏39.00 د.ك.‏ KWD
-- [دراجة هوائية 29 بوصة بتصميم جبلي احترافي ولون أسود وأخضر - Dar Toys ||](https://dartoys.com/products/دراجة-هوائية-29-بوصة-بتصميم-جبلي-احترافي-ولون-أسود-وأخضر): انطلق في مغامراتك بثقة مع هذه الدراجة الجبلية الاحترافية بحجم 29 بوصة ذات التصميم الرياضي الجذاب  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-18T01:27:50Z
-  Vendor: My Store
-  Product Type: Kids Toys
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/29-_-_-_-_-_-_-_-My-Store-133760928.png?v=1760250920
-  Price: ‏25.00 د.ك.‏ KWD
 - [سكوتر دريفت شحن كبير 36 فولت للأطفال - Dar Toys || متجر دار تويز](https://dartoys.com/products/اسكوتر-دريفت-شحن-كبير-36-فولت-للأطفال): استمتع بأقصى درجات المتعة والحماس مع الاسكوتر الدريفت الكهربائي الكبير بقدرة 36 فولت. تصميم عصري  - Dar Toys || متجر دار تويز للألعاب
   Updated: 2025-10-18T14:35:49Z
   Vendor: My Store
@@ -3572,13 +3545,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/16-_-_-_-_-_-_-My-Store-138150983.jpg?v=1760357539
     Price: ‏20.00 د.ك.‏ KWD
-- [دراجة هوائية 27.5 بوصة بتصميم رياضي ولون أسود وأزرق - Dar Toys || متجر](https://dartoys.com/products/دراجة-هوائية-27-5-بوصة-بتصميم-رياضي-ولون-أسود-وأزرق): استمتع بتجربة قيادة مذهلة مع هذه الدراجة الهوائية بحجم 27.5 بوصة. تتميز بتصميم عصري يجمع بين اللونين  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-19T03:46:44Z
-  Vendor: My Store
-  Product Type: Kids Toys
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/27.5-_-_-_-_-_-_-My-Store-138260117.png?v=1760358073
-  Price: ‏24.99 د.ك.‏ KWD
 - [دراجة هوائية 16 بوصة و20 بوصة بتصميم رياضي ولون أحمر وأسود وأزرق - Dar](https://dartoys.com/products/دراجة-هوائية-16-بوصة-و20-بوصة-بتصميم-رياضي-ولون-أحمر-وأسود-وأزرق): استمتع بتجربة قيادة رائعة مع هذه الدراجة الهوائية المميزة بحجم 16 بوصة و20 بوصة وتصميمها العصري بلون  - Dar Toys || متجر دار تويز للألعاب
   Updated: 2025-10-19T06:20:14Z
   Vendor: My Store
@@ -4407,13 +4373,13 @@
   Updated: 2025-10-19T02:49:30Z
   Total Products: 31
 - [ألعاب النشاط - Dar Toys || متجر دار تويز للألعاب](https://dartoys.com/collections/ألعاب-النشاط): - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-19T02:28:27Z
+  Updated: 2025-10-20T15:37:49Z
   Total Products: 204
 - [ألعاب خارجية - أفضل معدات اللعب](https://dartoys.com/collections/معدات-اللعب-الخارجية): اكتشف تشكيلة متنوعة من الألعاب الخارجية الممتعة والمناسبة للأطفال. استمتع باللعب في الهواء الطلق مع معدات عالية الجودة.
-  Updated: 2025-10-19T02:39:40Z
+  Updated: 2025-10-20T15:37:49Z
   Total Products: 325
 - [أفضل ألعاب أطفال في متجر دار تويز](https://dartoys.com/collections/عروض-متجر-دار-تويز): اكتشف مجموعة مدهشة من ألعاب الأطفال بأسعار تنافسية في متجر دار تويز. تسوق الآن لتحصل على أفضل العروض!
-  Updated: 2025-10-19T01:49:54Z
+  Updated: 2025-10-20T15:37:49Z
   Total Products: 105
 - [بيوت لعب الأطفال || العاب آمنه للاطفال || توصيل مجاني داخل الكويت -](https://dartoys.com/collections/بيوت-لعب-الأطفال-العاب-آمنه-للاطفال-توصيل-مجاني-داخل-الكويت): - Dar Toys || متجر دار تويز للألعاب
   Updated: 2025-10-19T02:48:15Z
@@ -4428,7 +4394,7 @@
   Updated: 2025-10-19T02:26:54Z
   Total Products: 16
 - [دراجات هوائية - مجموعة متنوعة للسوق](https://dartoys.com/collections/مجموعة-الدراجات-الهوائية): اكتشف مجموعة من الدراجات الهوائية المناسبة للمبتدئين والمحترفين. استمتع بتجربة ركوب متميزة.
-  Updated: 2025-10-19T01:55:13Z
+  Updated: 2025-10-20T15:37:49Z
   Total Products: 142
 - [أفضل سيكل كهربائي لعام 2023](https://dartoys.com/collections/سيكل-كهربائي): اكتشف سيكل كهربائي يناسب احتياجاتك اليومية. الخيارات المتاحة، الفوائد، وكيف تختار الأنسب لك.
   Updated: 2025-10-19T01:53:32Z
@@ -4437,10 +4403,10 @@
   Updated: 2025-10-18T01:53:56Z
   Total Products: 5
 - [أفضل المنتجات مبيعا | اكتشف الخيارات المميزة](https://dartoys.com/collections/best-selling-products): استعرض قائمة أفضل المنتجات مبيعا التي تلبي احتياجاتك. اكتشف المزيد عن خيارات الشراء المميزة.
-  Updated: 2025-10-19T01:49:54Z
+  Updated: 2025-10-20T15:37:49Z
   Total Products: 469
 - [أحدث المنتجات الجديدة في السوق](https://dartoys.com/collections/newest-products): استكشف أحدث المنتجات المتوفرة في السوق. تجد هنا المعلومات المفيدة حول التكنولوجيا والموضة وغيرها.
-  Updated: 2025-10-19T01:49:54Z
+  Updated: 2025-10-20T15:37:49Z
   Total Products: 469
 - [استمتع مع نطاطيات وزحلاقيات مدهشة](https://dartoys.com/collections/نطاطيات-وزحلاقيات): اكتشف عالم النطاطيات والزحلاقيات المليء بالمرح والمغامرة. استمتع بتجربة لا تُنسى.
   Updated: 2025-10-19T02:49:30Z
