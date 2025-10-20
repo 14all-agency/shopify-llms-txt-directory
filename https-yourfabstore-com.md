@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2023-02-25T23:29:15Z
 - Contact Email: info@yourfabstore.com
-- Updated At: 2025-10-18T16:00:33.601Z
+- Updated At: 2025-10-20T00:00:34.472Z
 
 ## Products
 
@@ -423,7 +423,7 @@
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/8963453790123555777_2048.jpg?v=1760765805
     Price: $19.00 USD
 - [Retro Vintage Surfer Tee](https://yourfabstore.com/products/retro-vintage-unisex-cotton-t-shirt): This retro, surfer-inspired T-Shirt will give off a vintage and cool vibe, perfect for those who love beach culture. The classic fit and versatile design make it suitable for casual wear or as a statement piece. Ideal for surf enthusiasts and people who enjoy the beach lifestyle. Perfect for summer, beach holidays, and casual outings.Product features- Made from strong and smooth fabric perfect for printing- Ribbed knit collar for elasticity and shape retention- No side seams for a more attractive look- Shoulder tape for stability and prevent stretching- Ethically made with 100% US cottonCare instructions- Machine wash: warm (max 40C or 105F)- Non-chlorine: bleach as needed- Tumble dry: medium- Do not iron- Do not dryclean S M L XL 2XL 3XL 4XL 5XL Width, in 18.00 20.00 22.00 24.00 26.00 28.00 30.00 32.00 Length, in 28.00 29.00 30.00 31.00 32.00 33.00 34.00 35.00 Sleeve length (from center back), in 15.10 16.50 18.00 19.50 21.00 22.40 23.70 25.00 Size tolerance, in 1.50 1.50 1.50 1.50 1.50 1.50 1.50 1.50 EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Gildan 5000, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: For adults, Made in Nicaragua Care instructions: Machine wash: warm (max 40C or 105F), Non-chlorine: bleach as needed, Tumble dry: medium, Do not iron, Do not dryclean
-  Updated: 2025-10-18T05:36:38Z
+  Updated: 2025-10-18T22:31:08Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
@@ -1453,7 +1453,7 @@
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/5719746898155234433_2048.jpg?v=1760765638
     Price: $19.00 USD
 - [Gamer Tee - Men's Game Controller T-Shirt](https://yourfabstore.com/products/game-master-mens-t-shirt): This gamer-inspired tee is perfect for professional gamers and gaming enthusiasts looking for a unique and stylish addition to their wardrobe. The cool design featuring a gaming controller exudes a trendy vibe, making it a must-have for any gaming aficionado. This unisex heavy cotton tee is ideal for adults and is made from high-quality materials that ensure comfort and durability. Whether worn casually or for gaming sessions, this tee is sure to stand out and make a statement.Product features- Unique gamer-inspired design- Made from durable and smooth fabric- Unisex and suitable for adults- Ethically produced with 100% US cotton- Comfortable classic fit with tear-away labelCare instructions- Non-chlorine: bleach as needed- Do not iron- Do not dryclean- Machine wash: cold (max 30C or 90F)- Tumble dry: low heat S M L XL 2XL 3XL 4XL 5XL Width, in 18.00 20.00 22.00 24.00 26.00 28.00 30.00 32.00 Length, in 28.00 29.00 30.00 31.00 32.00 33.00 34.00 35.00 Sleeve length (from center back), in 15.10 16.50 18.00 19.50 21.00 22.40 23.70 25.00 Size tolerance, in 1.50 1.50 1.50 1.50 1.50 1.50 1.50 1.50 EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Bella+Canvas 3001, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Care instructions: Machine wash: cold (max 30C or 90F), Non-chlorine: bleach as needed, Tumble dry: low heat, Iron, steam or dry: medium heat, Do not dryclean
-  Updated: 2025-10-18T07:32:27Z
+  Updated: 2025-10-18T23:56:42Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
@@ -5373,7 +5373,7 @@
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/7777967612746273963_2048.jpg?v=1760765040
     Price: $25.14 USD
 - [Cheerleader Women's T-shirt](https://yourfabstore.com/products/cheerleaders-womens-t-shirt): This cute and pretty T-Shirt is perfect for cheerleaders looking to showcase their spirit and style. Made with 100% Airlume combed and ring-spun cotton, this lightweight tee is breathable and great for active and leisure wear. The retail fit and classic crew neckline make it ideal for casual and semi-formal settings. Perfect for cheerleading events, practice, or casual wear to show off your love for cheering.Product features- Made with 100% lightweight cotton fabric- Retail fit for casual and semi-formal settings- Manufactured in a humane, sustainable way by Bella+Canvas- Tear-away label for minimized skin irritations- Variety of fabric blends availableCare instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Iron, steam or dry: medium heat- Do not dryclean S M L XL 2XL 3XL Width, in 18.00 20.00 22.00 24.00 26.00 28.00 Length, in 28.00 29.00 30.00 31.00 32.00 33.00 Sleeve length, in 8.90 9.20 9.50 9.70 10.00 10.40 Size tolerance, in 1.50 1.50 1.50 1.50 1.50 1.50 EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Bella+Canvas 3001, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Care instructions: Machine wash: cold (max 30C or 90F), Non-chlorine: bleach as needed, Tumble dry: low heat, Iron, steam or dry: medium heat, Do not dryclean
-  Updated: 2025-10-18T05:23:53Z
+  Updated: 2025-10-19T05:45:50Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
@@ -6743,7 +6743,7 @@
   Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/11146996358313550817_2048.jpg?v=1760757885
   Price: $9.92 USD
 - ["When You Can't Find the Sunshine Be the Sunshine" Tote Bag](https://yourfabstore.com/products/when-you-cant-find-the-sunshine-be-the-sunshine-tote-bag): Spread happiness and good vibes with this natural cotton canvas tote bag featuring a 'When You Can't Find the Sunshine Be the Sunshine' quote. The uplifting design will make you smile and radiate positive energy wherever you go. Perfect for those who love spreading positivity and sunshine to the world. Ideal for daily use, shopping trips, beach days, and as a gift for birthdays, holidays, or special occasions.Product features- 100% natural cotton canvas material- Vibrant colors with crisp printing- One size: 15'' x 16''- Convenient self-fabric handlesCare instructions- Machine wash separately: cold (max 30C or 90F), gentle cycle- Tumble dry: low heat- Do not iron directly over the printed area - print may stick to the iron.EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: S&S Bags 42795, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Care instructions: Machine wash separately: cold (max 30C or 90F), gentle cycle, Tumble dry: low heat, Do not iron directly over the printed area - print may stick to the iron.
-  Updated: 2025-10-18T03:46:42Z
+  Updated: 2025-10-18T16:04:07Z
   Vendor: Printify
   Product Type: Bags
   Availability: Available
@@ -6757,21 +6757,21 @@
   Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/5367782582584545831_2048.jpg?v=1760759261
   Price: $9.92 USD
 - [Beach Babe Tote Bag](https://yourfabstore.com/products/beach-babe-tote-bag): This beach-themed tote bag is perfect for the summer-loving beach babe. With a vibrant beach quote design, this unique and cool tote fits seamlessly into a beachgoer's life. Ideal for those who love the island life, ocean vibes, and soaking up the sun, this tote bag is a must-have accessory for trips to the beach, picnics, or everyday use.Product features- 100% natural cotton canvas material- Vibrant colors with crisp printing- 6 oz/yd² fabric for durability- One size 15" x 16", perfect for all your essentials- Convenient self-fabric handles for easy carryingCare instructions- Machine wash separately: cold (max 30C or 90F), gentle cycle- Tumble dry: low heat- Do not iron directly over the printed area - print may stick to the iron.EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: S&S Bags 42795, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Care instructions: Machine wash separately: cold (max 30C or 90F), gentle cycle, Tumble dry: low heat, Do not iron directly over the printed area - print may stick to the iron.
-  Updated: 2025-10-18T03:25:59Z
+  Updated: 2025-10-18T21:37:58Z
   Vendor: Printify
   Product Type: Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/11035810851099539270_2048.jpg?v=1760757946
   Price: $9.92 USD
 - [Positive Energy Tote Bag](https://yourfabstore.com/products/positive-energy-tote-bag): Spread positivity with this natural cotton canvas tote bag featuring a Positive Energy quote. Perfect for carrying your belongings with style and spreading good vibes wherever you go. Ideal for those who value positivity, happiness, and uniqueness. Great for everyday use or as a thoughtful gift for friends and family. Suitable for occasions like birthdays, thanksgiving, and random acts of kindness.Product features- 100% natural cotton canvas material- Vibrant colors- Convenient self-fabric handles for easy carrying- Spreads positive energy and good vibes- Ideal for everyday use or giftingCare instructions- Machine wash separately: cold (max 30C or 90F), gentle cycle- Tumble dry: low heat- Do not iron directly over the printed area - print may stick to the iron.EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: S&S Bags 42795, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Care instructions: Machine wash separately: cold (max 30C or 90F), gentle cycle, Tumble dry: low heat, Do not iron directly over the printed area - print may stick to the iron.
-  Updated: 2025-10-18T03:47:02Z
+  Updated: 2025-10-18T20:52:31Z
   Vendor: Printify
   Product Type: Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/10274575462062133784_2048.jpg?v=1760759211
   Price: $9.92 USD
 - [Sunset Doggos Tote Bag](https://yourfabstore.com/products/sunset-doggos-tote-bag): This Tote Bag features a Sunset Dogs design, perfect for dog lovers looking for a fun and playful accessory. The loyal pets depicted on the bag give off a cool and unique vibe, making it a must-have for any dog owner. Ideal for daily use or for carrying essentials to the beach or park. Perfect for dog lovers, pet owners, and animal enthusiasts. Suitable for birthdays, holidays, and everyday outings.Product features- 100% natural cotton canvas- Vibrant colors with crisp printing- Durable 6 oz/yd² fabric- Convenient self-fabric handles- Double-sided printCare instructions- Machine wash separately: cold (max 30C or 90F), gentle cycle- Tumble dry: low heat- Do not iron directly over the printed area - print may stick to the iron.EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: S&S Bags 42795, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Care instructions: Machine wash separately: cold (max 30C or 90F), gentle cycle, Tumble dry: low heat, Do not iron directly over the printed area - print may stick to the iron.
-  Updated: 2025-10-18T03:49:12Z
+  Updated: 2025-10-18T20:02:20Z
   Vendor: Printify
   Product Type: Bags
   Availability: Available
@@ -7196,7 +7196,7 @@
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/12019891560501313409-2048-_5.jpg?v=1759285001
     Price: $30.00 USD
 - [Retro One Piece Friends in Sunglasses Unisex Tee](https://yourfabstore.com/products/retro-one-piece-friends-in-sunglasses): This Tee features a one piece anime design, perfect for anime and manga enthusiasts. Made from specially spun fibers, this Tee is strong and smooth, ideal for printing. It is relevant for otaku and Japanese culture fans, fitting into casual and everyday wear. Suitable for holidays like Comic-Con or birthdays of anime fans.Product features- Shoulder tape for stability- Ribbed knit collar for elasticity- Ethically sourced US cotton- Classic fit for comfort- Direct-to-Film and Direct-to-Garment printing techniquesCare instructions- Machine wash: warm (max 40C or 105F)- Non-chlorine: bleach as needed- Tumble dry: medium- Do not iron- Do not dryclean S M L XL 2XL 3XL 4XL 5XL Width, in 18.00 20.00 22.00 24.00 26.00 28.00 30.00 32.00 Length, in 28.00 29.00 30.00 31.00 32.00 33.00 34.00 35.00 Sleeve length (from center back), in 15.10 16.50 18.00 19.50 21.00 22.40 23.70 25.00 Size tolerance, in 1.50 1.50 1.50 1.50 1.50 1.50 1.50 1.50 EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Gildan 5000, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: For adults, Made in Nicaragua Care instructions: Machine wash: warm (max 40C or 105F), Non-chlorine: bleach as needed, Tumble dry: medium, Do not iron, Do not dryclean
-  Updated: 2025-10-18T05:51:56Z
+  Updated: 2025-10-18T17:19:33Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
@@ -7357,7 +7357,7 @@
     Availability: Available
     Price: $40.55 USD
 - [Sakamoto Days Anime Tee](https://yourfabstore.com/products/sakamoto-days-anime-tee): This Sakamoto days anime-inspired T-Shirt is perfect for any anime lover or manga enthusiast. The design embodies a mix of Japanese culture and new anime trends, giving a trendy and stylish vibe. It is a great addition to anyone's casual wardrobe, perfect for everyday wear. Ideal for anime conventions, birthdays, or holiday gifts for fans of Japanese pop culture.Product features- Shoulder tape for stability and prevent stretching- Made from smooth and strong fabric perfect for printing- Classic fit for comfy, relaxed wear- Ethically grown and harvested 100% US cotton- Tear-away label for scratch-free experienceCare instructions- Machine wash: warm (max 40C or 105F)- Non-chlorine: bleach as needed- Tumble dry: medium- Do not iron- Do not dryclean S M L XL 2XL 3XL 4XL 5XL Width, in 18.00 20.00 22.00 24.00 26.00 28.00 30.00 32.00 Length, in 28.00 29.00 30.00 31.00 32.00 33.00 34.00 35.00 Sleeve length (from center back), in 15.10 16.50 18.00 19.50 21.00 22.40 23.70 25.00 Size tolerance, in 1.50 1.50 1.50 1.50 1.50 1.50 1.50 1.50 EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Gildan 5000, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: For adults, Made in Nicaragua Care instructions: Machine wash: warm (max 40C or 105F), Non-chlorine: bleach as needed, Tumble dry: medium, Do not iron, Do not dryclean
-  Updated: 2025-10-18T05:50:49Z
+  Updated: 2025-10-18T17:18:21Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
@@ -7744,7 +7744,7 @@
     Image: https://cdn.shopify.com/s/files/1/0725/8334/8499/files/12872020892489991150_2048.jpg?v=1760766550
     Price: $26.02 USD
 - [One Piece Sabo X Ace Mera-Mera no mi Unisex Tee](https://yourfabstore.com/products/one-piece-sabo-x-ace-mera-mera-no-mi-unisex-tee): This tee features a design inspired by One Piece anime, Sabo and Ace making it a perfect choice for otaku fans and those who love the bond between brothers. The Mera Mera no mi was inherited by Sabo after Ace passed away in the series. This unisex heavy cotton tee is ideal for casual wear, semi-formal events, or lounging around at home. It is relevant for anime-themed parties, comic-con events, and as a gift for anime enthusiasts.Product features- Shoulder tape for stabilization- Ribbed knit collar for elasticity- Made with specially spun fibers perfect for printing- Ethically grown and harvested US cotton- Certified by Oeko-Tex for safety and quality assuranceCare instructions- Non-chlorine: bleach as needed- Do not iron- Do not dryclean- Machine wash: cold (max 30C or 90F)- Tumble dry: low heat S M L XL 2XL 3XL 4XL 5XL Width, in 18.00 20.00 22.00 24.00 26.00 28.00 30.00 32.00 Length, in 28.00 29.00 30.00 31.00 32.00 33.00 34.00 35.00 Sleeve length (from center back), in 15.10 16.50 18.00 19.50 21.00 22.40 23.70 25.00 Size tolerance, in 1.50 1.50 1.50 1.50 1.50 1.50 1.50 1.50 EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Gildan 5000, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: For adults, Made in Nicaragua Care instructions: Machine wash: cold (max 30C or 90F), Non-chlorine: bleach as needed, Tumble dry: low heat, Do not iron, Do not dryclean
-  Updated: 2025-10-18T08:34:08Z
+  Updated: 2025-10-18T18:29:15Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
