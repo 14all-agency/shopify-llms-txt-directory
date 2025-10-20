@@ -6,7 +6,7 @@
 - Timezone: Asia/Shanghai
 - Created At: 2021-09-03T03:31:14Z
 - Contact Email: support@oupes.com
-- Updated At: 2025-10-19T20:00:34.896Z
+- Updated At: 2025-10-20T04:00:34.303Z
 
 ## Products
 
@@ -198,7 +198,7 @@
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/oupes-4ft-charging-cable-adapter-958823.png?v=1741944217
   Price: $19.00 USD
 - [B2/B5 Battery connection cable](https://oupes.com/products/b2-b5-battery-connection-cable): Used to connect B2 or B5 batteries to the Mega/Titan series power station.
-  Updated: 2025-10-17T18:44:45Z
+  Updated: 2025-10-20T03:29:41Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
@@ -280,7 +280,7 @@
     Availability: Available
     Price: $4,399.00 USD
 - [OUPES Exodus 256Wh 600W Portable Power Station](https://oupes.com/products/exodus-600-exodus-600-plus): Empower Your Adventures with the Exodus 600 Series Portable Power Station! The OUPES 600W portable power station features a 256Wh capacity and 600W output, offering lightweight, reliable, and versatile energy for all your outdoor activities.
-  Updated: 2025-10-18T00:30:30Z
+  Updated: 2025-10-19T20:51:47Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
@@ -391,7 +391,7 @@
     Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/White_T_shirt_1.png?v=1755138866
     Price: $29.00 USD
 - [OUPES Solar Panel Connector MC4 to DC7909 Female Adapter Cable](https://oupes.com/products/oupes-solar-panel-connector-mc4-to-dc7909-adapter-cable): Connect your solar panels with ease using the OUPES Solar Panel Connector MC4 to DC7909 cable. This durable mc4 to dc7909 cable ensures reliable power transfer for your portable solar setup.
-  Updated: 2025-10-07T11:18:46Z
+  Updated: 2025-10-19T22:41:01Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
@@ -412,14 +412,14 @@
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/oupes-picnic-blanket-347600.jpg?v=1741944333
   Price: $49.00 USD
 - [OUPES Solar Parallel Connection Cable](https://oupes.com/products/oupes-solar-parallel-connection-cable): Connecting multiple solar panels in parallel
-  Updated: 2025-10-06T23:07:02Z
+  Updated: 2025-10-19T22:41:01Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/oupes-solar-parallel-connection-cable-451407.png?v=1741944336
   Price: $19.00 USD
 - [OUPES Y Branch Parallel Adapter 8mm Female to Anderson Connector](https://oupes.com/products/oupes-y-branch-parallel-adapter-8mm-female-to-anderson-connector): Connecting multiple solar panels (with 7909 connectors) to the OUPES 2400W power station's Anderson input port, or for DIY setups.
-  Updated: 2025-10-05T12:12:18Z
+  Updated: 2025-10-19T22:41:01Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
@@ -895,7 +895,7 @@
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/Mega_3_240W_3.png?v=1759221005
   Price: $1,599.00 USD
 - [OUPES Mega 5 Solar Generator, Portable Solar Power Station Kit](https://oupes.com/products/mega-5-3-240w-solar-panel-solar-generator-kit): OUPES Mega 5 solar generator kit with 4*240W solar panel, a 4000W 5040Wh portable solar power station for home and outdoor backup.
-  Updated: 2025-10-12T10:13:24Z
+  Updated: 2025-10-20T00:56:35Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
