@@ -8,7 +8,7 @@
 - Timezone: Europe/Sofia
 - Created At: 2023-01-26T07:29:03Z
 - Contact Email: order@zoomagazin.eu
-- Updated At: 2025-10-20T00:00:33.604Z
+- Updated At: 2025-10-20T16:00:29.289Z
 
 [BRAND]
 Нечовешки магазини Д-р Стефанов" е водеща верига зоомагазини в България, лидер в грижата за домашни любимци. Разполагаме с десетки физически обекти в 14 града, както и онлайн магазин с над 30 000 продукта.
@@ -17,13 +17,13 @@
 ## Collections
 
 - [Всичко за кучето - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/kucheta): Продукти за кучета – храна, аксесоари, играчки, грижа за здравето и много други. Всичко за вашия любимец на едно място в зоомагазин Д-р Стефанов.
-  Updated: 2025-10-17T12:00:08Z
-  Total Products: 7125
+  Updated: 2025-10-20T13:55:39Z
+  Total Products: 7127
 - [Храни за кучета - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/hrani-za-kucheta): Качествена храна за кучета - суха храна, паучове, консерви, barf храни и много други предложения. Разгледайте в зоомагазин Д-р Стефанов още сега.
-  Updated: 2025-10-17T12:00:07Z
+  Updated: 2025-10-20T08:21:05Z
   Total Products: 1525
 - [Суха храна и гранули за кучета - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/granuli-za-kucheta): Открийте висококачествени гранули за кучета – пълноценна храна за всяка порода и възраст. Богат избор от марки с бърза доставка и гарантирано качество.
-  Updated: 2025-10-17T12:00:06Z
+  Updated: 2025-10-20T08:21:05Z
   Total Products: 872
 - [Сурова храна BARF за кучета - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/barf-hrani): Открийте висококачествена сурова храна BARF за кучета. Здравословен избор за силен имунитет и енергия от зоомагазин Д-р Стефанов.
   Updated: 2025-10-16T20:49:37Z
@@ -47,14 +47,14 @@
   Updated: 2025-10-17T08:45:05Z
   Total Products: 29
 - [Козметика за кучета - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/kozmetika-i-gruuming): Купете висококачествена козметика за кучета и продукти за грууминг на супер цени от зоомагазин Д-р Стефанов. Поръчайте бързо и лесно с доставка сега.
-  Updated: 2025-10-17T09:04:44Z
-  Total Products: 755
+  Updated: 2025-10-20T13:55:39Z
+  Total Products: 757
 - [Транспортни продукти за кучета - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/transport): Пътувайте с лекота и комфорт с нашата селекция от транспортни продукти за кучета: чанти, клетки, колани и аксесоари. Купете от Д-р Стефанов днес!
   Updated: 2025-10-17T09:04:21Z
   Total Products: 166
 - [Шампоани и балсами за кучета - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/shampoani-i-balsami): Разгледайте висококачествените продукти, които предлагаме - шампоани за кучета, както и балсами и спрейове от реномирани производители. Поръчайте още днес!
-  Updated: 2025-10-17T09:04:44Z
-  Total Products: 419
+  Updated: 2025-10-20T13:55:39Z
+  Total Products: 421
 - [Дезодоранти и парфюми за кучета - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/dezodoranti-i-parfyumi): Тук ще откриете селекция от качествени и специално разработени за дезодоранти и парфюми за кучета. Разгледайте предложенията на зоомагазин Д-р Стефанов.
   Updated: 2025-10-17T08:46:50Z
   Total Products: 50
@@ -563,23 +563,23 @@
 - [Храна за рибки - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/hrani-za-sadkovodni-ribi): Поръчайте сега храни за рибки – пълноценни и балансирани смеси за здравословен растеж и енергия. Осигурете на вашите рибки вкусна и полезна храна всеки ден!
   Updated: 2025-10-17T08:46:55Z
   Total Products: 110
-- [Витамини и лакомства Brit - Зоомагазин д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/brit): Вкусни и полезни лакомства и хранителни добавки от Brit, допълващи диетата и подпомагащи здравето на вашия любимец. Изберете още сега и направете поръчка!
-  Updated: 2025-10-16T20:49:44Z
+- [Витамини и лакомства Brit](https://pni-drstefanov-bg.myshopify.com/collections/brit): Вкусни и полезни лакомства и хранителни добавки от Brit, допълващи диетата и подпомагащи здравето на вашия любимец. Изберете още сега и направете поръчка!
+  Updated: 2025-10-20T12:25:37Z
   Total Products: 31
 - [Охладители и нагреватели за аквариум - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/nagrevateli-i-ohlazhdane): Охладители и нагреватели за аквариум – поддържат идеалната температура за рибки и растения. Осигурете стабилен и здравословен воден климат целогодишно!
   Updated: 2025-10-16T20:49:44Z
   Total Products: 5
 - [Reduced](https://pni-drstefanov-bg.myshopify.com/collections/reduced)
-  Updated: 2025-10-17T12:00:37Z
-  Total Products: 283
+  Updated: 2025-10-20T13:55:40Z
+  Total Products: 285
 - [Постелки за котешка тоалетна - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/postelki-za-toaletna): Постелки с висока абсорбция и контрол на миризмите за котешки тоалетни. Поръчайте ефективна грижа още днес бързо и лесно онлайн с доставка от Зоомагазин Д-р Стефанов.
   Updated: 2025-10-17T09:04:25Z
   Total Products: 99
 - [Помпи, филтри и скимери за морски аквариум](https://pni-drstefanov-bg.myshopify.com/collections/filtri-pompi-skimeri): Поръчайте помпи, филтри и скимери за соленоводен аквариум. Осигурете чиста вода, правилна циркулация и оптимални условия за риби, корали и морски организми!
   Updated: 2025-10-16T20:49:45Z
   Total Products: 3
-- [Продукти за домашни любимци Ferplast - Зоомагазин д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/ferplast): Ferplast е символ на качество и иновация в продуктите за домашни любимци. Намерете идеалния аксесоар за вашето животно в Зоомагазин д-р Стефанов.
-  Updated: 2025-10-16T20:49:45Z
+- [Продукти за домашни любимци Ferplast](https://pni-drstefanov-bg.myshopify.com/collections/ferplast): Ferplast е символ на качество и иновация в продуктите за домашни любимци. Намерете идеалния аксесоар за вашето животно в Зоомагазин д-р Стефанов.
+  Updated: 2025-10-20T12:29:55Z
   Total Products: 1
 - [Продукти за обезпаразитяване на котки - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/противопаразитни-продукти-за-котки): Продукти за обезпаразитяване на котки – ефективна защита срещу бълхи, кърлежи и вътрешни паразити. Поддържайте здравето на вашата котка лесно и надеждно!
   Updated: 2025-10-16T20:49:45Z
@@ -624,13 +624,13 @@
   Updated: 2025-10-16T20:49:45Z
   Total Products: 10
 - [ВАУЧЕРИ ЗА ПОДАРЪК](https://pni-drstefanov-bg.myshopify.com/collections/ваучери-за-подарък)
-  Updated: 2025-10-16T20:49:45Z
+  Updated: 2025-10-20T07:08:13Z
   Total Products: 4
 - [Regular Priced Items](https://pni-drstefanov-bg.myshopify.com/collections/regular-priced-items)
-  Updated: 2025-10-17T13:47:12Z
-  Total Products: 12154
-- [Храни и лакомства за домашни любимци Essential foods - Зоомагазин д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/essential-foods-1): Essential Foods създава храни, близки до естествената диета на домашния ви любимец. Пазарувайте от Зоомагазин д-р Стефанов!
-  Updated: 2025-10-17T08:45:36Z
+  Updated: 2025-10-20T13:55:40Z
+  Total Products: 12156
+- [Храни и лакомства за домашни любимци Essential foods](https://pni-drstefanov-bg.myshopify.com/collections/essential-foods-1): Essential Foods създава храни, близки до естествената диета на домашния ви любимец. Пазарувайте от Зоомагазин д-р Стефанов!
+  Updated: 2025-10-20T12:29:01Z
   Total Products: 58
 - [Essential Foods - Dogs](https://pni-drstefanov-bg.myshopify.com/collections/essential-foods-dogs)
   Updated: 2025-10-17T08:45:36Z
@@ -638,8 +638,8 @@
 - [Essential Foods - Cats](https://pni-drstefanov-bg.myshopify.com/collections/essential-foods-cats)
   Updated: 2025-10-16T20:49:45Z
   Total Products: 6
-- [Храни за домашни любимци Petkult - Зоомагазин д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/petkult-1): Petkult се фокусира върху натурални съставки, без изкуствени добавки. Открийте здравословната храна Petkult и поръчайте с бърза доставка!
-  Updated: 2025-10-17T09:04:47Z
+- [Храни за домашни любимци Petkult](https://pni-drstefanov-bg.myshopify.com/collections/petkult-1): Petkult се фокусира върху натурални съставки, без изкуствени добавки. Открийте здравословната храна Petkult и поръчайте с бърза доставка!
+  Updated: 2025-10-20T13:18:46Z
   Total Products: 74
 - [Petkult - Dog Food](https://pni-drstefanov-bg.myshopify.com/collections/petkult-dog-food)
   Updated: 2025-10-16T20:49:45Z
@@ -647,23 +647,23 @@
 - [Petkult - Cat Food](https://pni-drstefanov-bg.myshopify.com/collections/petkult-cat-food)
   Updated: 2025-10-17T09:04:47Z
   Total Products: 41
-- [Храни и лакомства за домашни любимци Wolfpack - Зоомагазин д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/wolfpack-1): Wolfpack предлага висококачествена, хипоалергенна храна с висок процент месо, подходяща и за най-чувствителните животни. Купете от Зоомагазин д-р Стефанов.
-  Updated: 2025-10-17T12:00:08Z
+- [Храни и лакомства за домашни любимци Wolfpack](https://pni-drstefanov-bg.myshopify.com/collections/wolfpack-1): Wolfpack предлага висококачествена, хипоалергенна храна с висок процент месо, подходяща и за най-чувствителните животни. Купете от Зоомагазин д-р Стефанов.
+  Updated: 2025-10-20T12:31:38Z
   Total Products: 70
-- [Продукти за домашни любимци Stefo - Зоомагазин д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/stefo-1): Отлични продукти за всички видове домашни любимци от марката Stefo, създадена с грижа. Вижте пълния каталог продукти Stefo и поръчайте сега!
-  Updated: 2025-10-16T20:49:46Z
+- [Продукти за домашни любимци Stefo](https://pni-drstefanov-bg.myshopify.com/collections/stefo-1): Отлични продукти за всички видове домашни любимци от марката Stefo, създадена с грижа. Вижте пълния каталог продукти Stefo и поръчайте сега!
+  Updated: 2025-10-20T12:35:14Z
   Total Products: 122
 - [Rustican](https://pni-drstefanov-bg.myshopify.com/collections/rustican-1)
   Updated: 2025-10-16T20:49:46Z
   Total Products: 20
-- [Продукти за кучета Stefo - Зоомагазин д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/stefo-dog): Stefo предлага избрани аксесоари и консумативи за кучета с оптимално съотношение цена-качество. Намерете всичко необходимо за вашето куче!
-  Updated: 2025-10-16T20:49:46Z
+- [Продукти за кучета Stefo](https://pni-drstefanov-bg.myshopify.com/collections/stefo-dog): Stefo предлага избрани аксесоари и консумативи за кучета с оптимално съотношение цена-качество. Намерете всичко необходимо за вашето куче!
+  Updated: 2025-10-20T12:33:10Z
   Total Products: 110
-- [Продукти за котки Stefo - Зоомагазин д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/stefo-cat): Качествени продукти за котки от собствената марка на зоомагазина Stefo, съчетаващи достъпна цена и добро качество. Разгледайте и пазарувайте изгодно!
-  Updated: 2025-10-16T20:49:46Z
+- [Продукти за котки Stefo](https://pni-drstefanov-bg.myshopify.com/collections/stefo-cat): Качествени продукти за котки от собствената марка на зоомагазина Stefo, съчетаващи достъпна цена и добро качество. Разгледайте и пазарувайте изгодно!
+  Updated: 2025-10-20T12:32:29Z
   Total Products: 8
-- [Храни за домашни любимци Remi - Зоомагазин д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/remi-1): Remi предлага пълноценна и вкусна храна, която отговаря на ежедневните нужди на вашето куче или котка. Осигурете качествено хранене - пазарувайте при нас!
-  Updated: 2025-10-16T20:49:46Z
+- [Храни за домашни любимци Remi](https://pni-drstefanov-bg.myshopify.com/collections/remi-1): Remi предлага пълноценна и вкусна храна, която отговаря на ежедневните нужди на вашето куче или котка. Осигурете качествено хранене - пазарувайте при нас!
+  Updated: 2025-10-20T12:35:36Z
   Total Products: 52
 - [Remi Dog](https://pni-drstefanov-bg.myshopify.com/collections/remi-dog)
   Updated: 2025-10-16T20:49:46Z
@@ -671,11 +671,11 @@
 - [Remi Cat](https://pni-drstefanov-bg.myshopify.com/collections/remi-cat)
   Updated: 2025-10-16T20:49:46Z
   Total Products: 24
-- [Храни за домашни любимци Brit - Зоомагазин д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/brit-1): Brit предлага балансирано хранене, съобразено със специфичните нужди на кучетата и котките от всяка възраст и порода. Разгледайте още днес!
-  Updated: 2025-10-17T07:59:08Z
+- [Храни за домашни любимци Brit](https://pni-drstefanov-bg.myshopify.com/collections/brit-1): Brit предлага балансирано хранене, съобразено със специфичните нужди на кучетата и котките от всяка възраст и порода. Разгледайте още днес!
+  Updated: 2025-10-20T12:24:31Z
   Total Products: 248
-- [Храни за домашни любимци Rasco Premium - Зоомагазин д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/rasco-premium): Rasco Premium е премиум храна с балансиран състав, насочена към поддържане на отлично здраве и блестяща козина. Купете храна, която любимецът ви заслужава!
-  Updated: 2025-10-16T20:49:46Z
+- [Храни за домашни любимци Rasco Premium](https://pni-drstefanov-bg.myshopify.com/collections/rasco-premium): Rasco Premium е премиум храна с балансиран състав, насочена към поддържане на отлично здраве и блестяща козина. Купете храна, която любимецът ви заслужава!
+  Updated: 2025-10-20T12:35:59Z
   Total Products: 23
 - [Лакомства за домашни любимци Rasco](https://pni-drstefanov-bg.myshopify.com/collections/rasco-premium-dog): Вкусни и полезни лакомства Rasco, допълващи диетата и подпомагащи здравето на вашия любимец. Изберете още сега и направете поръчка!
   Updated: 2025-10-17T13:56:11Z
@@ -683,8 +683,8 @@
 - [Rasco Premium Cat](https://pni-drstefanov-bg.myshopify.com/collections/rasco-premium-cat)
   Updated: 2025-10-16T20:49:46Z
   Total Products: 10
-- [Продукти за домашни любимци Tickless - Зоомагазин д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/tickless-1): Tickless предлага иновативна ултразвукова защита срещу кърлежи и бълхи, напълно безопасна за вашия любимец и околната среда.  Поръчайте днес.
-  Updated: 2025-10-17T08:47:04Z
+- [Продукти за домашни любимци Tickless](https://pni-drstefanov-bg.myshopify.com/collections/tickless-1): Tickless предлага иновативна ултразвукова защита срещу кърлежи и бълхи, напълно безопасна за вашия любимец и околната среда.  Поръчайте днес.
+  Updated: 2025-10-20T12:32:02Z
   Total Products: 10
 - [Life Natural](https://pni-drstefanov-bg.myshopify.com/collections/life-natural-1)
   Updated: 2025-10-17T08:46:37Z
@@ -707,14 +707,14 @@
 - [Aspect](https://pni-drstefanov-bg.myshopify.com/collections/aspect-1)
   Updated: 2025-10-16T20:49:46Z
   Total Products: 7
-- [Продукти за домашни любимци Flamingo - Зоомагазин д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/flamingo-2): Аксесоари, играчки и оборудване от Flamingo, които правят живота на вашия любимец по-забавен и комфортен. Разгледайте всички продукти и поръчайте онлайн!
-  Updated: 2025-10-17T09:04:50Z
+- [Продукти за домашни любимци Flamingo](https://pni-drstefanov-bg.myshopify.com/collections/flamingo-2): Аксесоари, играчки и оборудване от Flamingo, които правят живота на вашия любимец по-забавен и комфортен. Разгледайте всички продукти и поръчайте онлайн!
+  Updated: 2025-10-20T12:29:33Z
   Total Products: 539
-- [Продукти за кучета Flamingo - Зоомагазин д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/flamingo-dog): Открийте продукти Flamingo, създадени за активния живот на вашето куче. Разгледайте пълния асортимент за кучета и направете поръчка!
-  Updated: 2025-10-17T09:04:50Z
+- [Продукти за кучета Flamingo](https://pni-drstefanov-bg.myshopify.com/collections/flamingo-dog): Открийте продукти Flamingo, създадени за активния живот на вашето куче. Разгледайте пълния асортимент за кучета и направете поръчка!
+  Updated: 2025-10-20T12:30:52Z
   Total Products: 336
-- [Продукти за котки Flamingo - Зоомагазин д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/flamingo-cat): Flamingo предлага всичко за вашата котка - от драскалки и легла до играчки и тоалетни. Осигурете комфорт и забавление на котката си като поръчате сега.
-  Updated: 2025-10-17T09:04:26Z
+- [Продукти за котки Flamingo](https://pni-drstefanov-bg.myshopify.com/collections/flamingo-cat): Flamingo предлага всичко за вашата котка - от драскалки и легла до играчки и тоалетни. Осигурете комфорт и забавление на котката си като поръчате сега.
+  Updated: 2025-10-20T12:30:20Z
   Total Products: 113
 - [Храни и лакомства за домашни любимци Lilly's Kitchen](https://pni-drstefanov-bg.myshopify.com/collections/lilys-kitchen-1): Продукти Lilly's Kitchen, известни с натурални, вкусни и здравословни рецепти, приготвени с истински продукти. Поръчайте още днес!
   Updated: 2025-10-17T13:57:21Z
@@ -725,11 +725,11 @@
 - [Lilys Kitchen Cat](https://pni-drstefanov-bg.myshopify.com/collections/lilys-kitchen-cat)
   Updated: 2025-10-16T20:49:47Z
   Total Products: 18
-- [Продукти за домашни любимцки Versele Laga - Зоомагазин д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/versele-laga-2): Versele Laga е експерт в храненето и грижата за малките домашни любимци и птици с фокус върху натуралните съставки. Купете сега от Зоомагазин д-р Стефанов!
-  Updated: 2025-10-17T08:47:07Z
+- [Продукти за домашни любимцки Versele Laga](https://pni-drstefanov-bg.myshopify.com/collections/versele-laga-2): Versele Laga е експерт в храненето и грижата за малките домашни любимци и птици с фокус върху натуралните съставки. Купете сега от Зоомагазин д-р Стефанов!
+  Updated: 2025-10-20T12:31:18Z
   Total Products: 202
-- [Храни за домашни любимци Almo Nature - Зоомагазин д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/almo-nature-1): Almo Nature предлага храни, базирани на натурални и чисти съставки, които домашните любимци обожават. Поръчайте с бърза доставка от д-р Стефанов!
-  Updated: 2025-10-16T20:49:47Z
+- [Храни за домашни любимци Almo Nature](https://pni-drstefanov-bg.myshopify.com/collections/almo-nature-1): Almo Nature предлага храни, базирани на натурални и чисти съставки, които домашните любимци обожават. Поръчайте с бърза доставка от д-р Стефанов!
+  Updated: 2025-10-20T12:24:03Z
   Total Products: 49
 - [Almo Nature Dog](https://pni-drstefanov-bg.myshopify.com/collections/almo-nature-dog)
   Updated: 2025-10-16T20:49:47Z
@@ -737,8 +737,8 @@
 - [Almo Nature Cat](https://pni-drstefanov-bg.myshopify.com/collections/almo-nature-cat)
   Updated: 2025-10-16T20:49:47Z
   Total Products: 28
-- [Храни за домашни любимци Brit Care - Зоомагазин д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/brit-care): Brit Care е суперпремиум хипоалергенна храна, създадена да поддържа оптимално здраве и кондиция. Погрижете се за чувствителността на вашето куче или котка.
-  Updated: 2025-10-17T07:54:54Z
+- [Храни за домашни любимци Brit Care](https://pni-drstefanov-bg.myshopify.com/collections/brit-care): Brit Care е суперпремиум хипоалергенна храна, създадена да поддържа оптимално здраве и кондиция. Погрижете се за чувствителността на вашето куче или котка.
+  Updated: 2025-10-20T12:25:15Z
   Total Products: 108
 - [Brit Care Dog](https://pni-drstefanov-bg.myshopify.com/collections/brit-care-1)
   Updated: 2025-10-17T07:54:54Z
@@ -746,8 +746,8 @@
 - [Brit Care Cat](https://pni-drstefanov-bg.myshopify.com/collections/brit-care-cat)
   Updated: 2025-10-16T20:49:47Z
   Total Products: 37
-- [Храни за домашни любимци Brit Premium by Nature - Зоомагазин д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/brit-premium-by-nature): Brit Premium by Nature предлага вкусни и питателни рецепи, които осигуряват енергия и жизненост. Разгледайте серията и купете храна на супер цена!
-  Updated: 2025-10-17T07:59:08Z
+- [Храни за домашни любимци Brit Premium by Nature](https://pni-drstefanov-bg.myshopify.com/collections/brit-premium-by-nature): Brit Premium by Nature предлага вкусни и питателни рецепи, които осигуряват енергия и жизненост. Разгледайте серията и купете храна на супер цена!
+  Updated: 2025-10-20T12:26:11Z
   Total Products: 63
 - [Brit Premium by Nature Dog](https://pni-drstefanov-bg.myshopify.com/collections/brit-premium-by-nature-dog)
   Updated: 2025-10-17T07:59:08Z
@@ -758,8 +758,8 @@
 - [Храни за гризачи Brit](https://pni-drstefanov-bg.myshopify.com/collections/brit-animals): Специализирана храна Brit за гризачи, богата на витамини и фибри за дълъг и здравословен живот. Изберете подходящата храна сега.
   Updated: 2025-10-17T13:59:28Z
   Total Products: 9
-- [Храни и лакомства за домашни любимци Carnilove - Зоомагазин д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/carnilove): Carnilove е храна, базирана на дивата природа, с високо съдържание на месо и без зърнени култури. Открийте пълноценна храна и неустоими лакомства!
-  Updated: 2025-10-16T20:49:47Z
+- [Храни и лакомства за домашни любимци Carnilove](https://pni-drstefanov-bg.myshopify.com/collections/carnilove): Carnilove е храна, базирана на дивата природа, с високо съдържание на месо и без зърнени култури. Открийте пълноценна храна и неустоими лакомства!
+  Updated: 2025-10-20T12:26:30Z
   Total Products: 72
 - [Carnilove Dog](https://pni-drstefanov-bg.myshopify.com/collections/carnilove-dog)
   Updated: 2025-10-16T20:49:47Z
@@ -776,23 +776,23 @@
 - [Oaks Farm Dog](https://pni-drstefanov-bg.myshopify.com/collections/oaks-farm-dog)
   Updated: 2025-10-17T08:46:41Z
   Total Products: 15
-- [Продукти с намалена цена - Зоомагазин д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/sale): Отлични оферти и стоки с временно намалени цени. Спестете пари, без да правите компромис с качеството - пазарувайте изгодно с Зоомагазин д-р Стефанов.
-  Updated: 2025-10-16T20:49:47Z
-  Total Products: 1
-- [Най-продавани - Зоомагазин д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/best-selling-collection): Вижте кои са най-търсените храни, аксесоари и консумативи, които клиентите на Д-р Стефанов харесват най-много. Изберете доказано качество и поръчайте сега!
-  Updated: 2025-10-17T12:00:08Z
-  Total Products: 12153
-- [Нови продукти - Зоомагазин д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/new-products): Бъдете първите, които виждат най-новите и иновативни храни, играчки и аксесоари, добавени в асортимента на Д-р Стефанов. Открийте сега и направете поръчка!
-  Updated: 2025-10-17T12:00:08Z
-  Total Products: 12153
-- [Промоционални оферти - Зоомагазин д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/promo-offers): Не пропускайте специалните промоционални оферти, създадени, за да получите повече на по-добра цена. Възползвайте се от нашите актуални промоции сега!
-  Updated: 2025-10-16T20:49:47Z
-  Total Products: 0
+- [Продукти с намалена цена](https://pni-drstefanov-bg.myshopify.com/collections/sale): Отлични оферти и стоки с временно намалени цени. Спестете пари, без да правите компромис с качеството - пазарувайте изгодно с Зоомагазин д-р Стефанов.
+  Updated: 2025-10-20T13:55:40Z
+  Total Products: 3
+- [Най-продавани](https://pni-drstefanov-bg.myshopify.com/collections/best-selling-collection): Вижте кои са най-търсените храни, аксесоари и консумативи, които клиентите на Д-р Стефанов харесват най-много. Изберете доказано качество и поръчайте сега!
+  Updated: 2025-10-20T13:55:40Z
+  Total Products: 12155
+- [Нови продукти](https://pni-drstefanov-bg.myshopify.com/collections/new-products): Бъдете първите, които виждат най-новите и иновативни храни, играчки и аксесоари, добавени в асортимента на Д-р Стефанов. Открийте сега и направете поръчка!
+  Updated: 2025-10-20T13:55:40Z
+  Total Products: 12155
+- [Промоционални оферти](https://pni-drstefanov-bg.myshopify.com/collections/promo-offers): Не пропускайте специалните промоционални оферти, създадени, за да получите повече на по-добра цена. Възползвайте се от нашите актуални промоции сега!
+  Updated: 2025-10-20T13:55:40Z
+  Total Products: 4
 - [Mandatory Fees](https://pni-drstefanov-bg.myshopify.com/collections/mandatory-fees)
   Updated: 2025-10-16T20:49:47Z
   Total Products: 0
-- [Продукти с подарък - Зоомагазин д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/products-with-gift): Избрани продукти, които идват с допълнителен подарък - лакомство, играчка или аксесоар! Разгледайте и зарадвайте животното си с Зоомагазин д-р Стефанов.
-  Updated: 2025-10-16T20:49:47Z
+- [Продукти с подарък](https://pni-drstefanov-bg.myshopify.com/collections/products-with-gift): Избрани продукти, които идват с допълнителен подарък - лакомство, играчка или аксесоар! Разгледайте и зарадвайте животното си с Зоомагазин д-р Стефанов.
+  Updated: 2025-10-20T12:20:52Z
   Total Products: 0
 - [Price 0](https://pni-drstefanov-bg.myshopify.com/collections/price-0)
   Updated: 2025-10-17T12:00:33Z
@@ -836,6 +836,9 @@
 - [Oasy котки](https://pni-drstefanov-bg.myshopify.com/collections/oasy-котки)
   Updated: 2025-10-17T09:05:02Z
   Total Products: 77
+- [Discount for products except vouchers](https://pni-drstefanov-bg.myshopify.com/collections/discount-for-products-except-vouchers)
+  Updated: 2025-10-20T13:55:40Z
+  Total Products: 12152
 
 ## Blogs
 
