@@ -6,7 +6,7 @@
 - Timezone: Europe/Madrid
 - Created At: 2022-07-18T15:24:40Z
 - Contact Email: info@hifimediastore.com
-- Updated At: 2025-10-20T16:01:15.426Z
+- Updated At: 2025-10-20T20:01:12.940Z
 
 ## Products
 
@@ -4154,12 +4154,12 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/A_-_Hifi_Media_Store-965903.jpg?v=1718998548
   Price: 653,99 € EUR
 - [Apple iPhone 14 128GB Negro (Midnight)](https://hifimediastore.com/products/apple-iphone-14-128gb-negro-midnight): iPhone 14  iOS 16 Detección de accidentes Gran batería  Pantalla 21% más grande Super Retina OLED XDR Modo Acción  Chip A15 Bionic  Este iPhone no incluye cargador ni auriculares en la caja original.
-  Updated: 2025-10-17T18:25:16Z
+  Updated: 2025-10-20T16:18:32Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/Apple_iPhone_14_128GB_Negro_Midnight_-_Hifi_Media_Store-966526.jpg?v=1718999891
-  Price: 723,99 € EUR
+  Price: 719,99 € EUR
 - [Apple iPhone 14 128GB Azul (Blue)](https://hifimediastore.com/products/apple-iphone-14-128gb-azul-blue): iPhone 14  iOS 16 Detección de accidentes Gran batería  Pantalla 21% más grande Super Retina OLED XDR Modo Acción  Chip A15 Bionic  Este iPhone no incluye cargador ni auriculares en la caja original.
   Updated: 2025-10-13T20:15:16Z
   Vendor: Apple
@@ -4280,7 +4280,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/128GB_Verde_Lite_Green_Dual_SIM_2203129G_-_Hifi_Media_Store-999906.jpg?v=1719091392
   Price: 201,99 € EUR
 - [Google Pixel 7 5G 8GB/128GB Negro (Obsidian Black) Dual SIM](https://hifimediastore.com/products/google-pixel-7-5g-8gb-128gb-negro-obsidian-black-dual-sim): Google Pixel 7 5G Pantalla AMOLED 63 FHD con 90Hz y HDR10 Resistencia al agua IP68 y Corning Gorilla Glass Victusᵀᴹ Procesador Google Tensor G2 5 nm Chip certificado Titan M2 de Google y VPN Google One incorporado Camara Dual 50MP con Ultra Gra
-  Updated: 2025-10-11T23:01:44Z
+  Updated: 2025-10-20T18:06:15Z
   Vendor: Google
   Product Type: Smartphone
   Availability: Available
@@ -6317,12 +6317,12 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/13500.jpg?v=1723762254
   Price: 235,99 € EUR
 - [Samsung Galaxy Tab A9+ 11,0" 4GB/64GB WiFi Gris (Graphite) X210](https://hifimediastore.com/products/samsung-galaxy-tab-a9-110-4gb-64gb-wifi-gris-graphite-x210): Samsung Galaxy Tab A9+:  Pantalla TFT LCD 11,0" Cámara Principal 8MP y Cámara delantera 5MP Android 13, One UI 5.1 Octa-core - Qualcomm Snapdragon Batería 7040 mAh con carga rápida 15W Wi-Fi, Bluetooth 5.1, GPS Auriculares 3.5mm
-  Updated: 2025-10-20T14:50:26Z
+  Updated: 2025-10-20T17:34:22Z
   Vendor: Samsung
   Product Type: Tablet's
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/13683.jpg?v=1723762278
-  Price: 199,99 € EUR
+  Price: 196,99 € EUR
 - [Samsung Galaxy Tab A9+ 11,0" 8GB/128GB WiFi Gris (Graphite) X210](https://hifimediastore.com/products/samsung-galaxy-tab-a9-110-8gb-128gb-wifi-gris-graphite-x210): Samsung Galaxy Tab A9+:  Pantalla TFT LCD 11,0" Cámara Principal 8MP y Cámara delantera 5MP Android 13, One UI 5.1 Octa-core - Qualcomm Snapdragon Batería 7040 mAh con carga rápida 15W Wi-Fi, Bluetooth 5.1, GPS Auriculares 3.5mm
   Updated: 2025-10-18T02:10:21Z
   Vendor: Samsung
@@ -8578,10 +8578,10 @@
   Updated: 2025-06-22T07:51:28Z
   Total Products: 0
 - [Best Selling Products](https://hifimediastore.com/collections/best-selling-products)
-  Updated: 2025-10-20T15:58:56Z
+  Updated: 2025-10-20T17:49:05Z
   Total Products: 5481
 - [Newest Products](https://hifimediastore.com/collections/newest-products)
-  Updated: 2025-10-20T15:58:56Z
+  Updated: 2025-10-20T17:49:05Z
   Total Products: 5481
 - [Altavoces](https://hifimediastore.com/collections/speakers): Explora nuestra gama de altavoces de alta calidad y llévatee la experiencia del festival a casa con nuestros altavoces.
   Updated: 2025-10-10T22:01:24Z
@@ -8635,7 +8635,7 @@
   Updated: 2025-10-10T22:05:52Z
   Total Products: 22
 - [AVADA - Best Sellers](https://hifimediastore.com/collections/avada-best-sellers)
-  Updated: 2025-10-20T15:58:56Z
+  Updated: 2025-10-20T17:49:05Z
   Total Products: 1444
 - [Intercomunicadores para moto](https://hifimediastore.com/collections/motorcycle-intercoms)
   Updated: 2025-06-22T07:51:29Z
@@ -8644,7 +8644,7 @@
   Updated: 2025-06-22T07:51:30Z
   Total Products: 4
 - [Móviles y Smartphones Libres 4G y 5G](https://hifimediastore.com/collections/smartphones): Compra móviles y smartphones libres 4G y 5G. Pago a plazos con SeQura. Envío rápido y garantía oficial.
-  Updated: 2025-10-20T15:58:56Z
+  Updated: 2025-10-20T17:49:05Z
   Total Products: 3572
 - [Alcatel](https://hifimediastore.com/collections/alcatel)
   Updated: 2025-10-11T23:22:15Z
@@ -8674,7 +8674,7 @@
   Updated: 2025-10-12T00:33:18Z
   Total Products: 133
 - [Apple](https://hifimediastore.com/collections/apple)
-  Updated: 2025-10-20T15:55:16Z
+  Updated: 2025-10-20T16:18:33Z
   Total Products: 513
 - [Land Rover](https://hifimediastore.com/collections/land-rover)
   Updated: 2025-10-11T23:13:25Z
@@ -8704,7 +8704,7 @@
   Updated: 2025-10-20T15:58:36Z
   Total Products: 957
 - [Samsung](https://hifimediastore.com/collections/samsung)
-  Updated: 2025-10-20T15:54:51Z
+  Updated: 2025-10-20T17:49:05Z
   Total Products: 934
 - [Acer](https://hifimediastore.com/collections/acer)
   Updated: 2025-10-11T23:22:13Z
@@ -8755,7 +8755,7 @@
   Updated: 2025-10-18T16:16:21Z
   Total Products: 46
 - [Apple](https://hifimediastore.com/collections/apple-1)
-  Updated: 2025-10-20T15:55:16Z
+  Updated: 2025-10-20T16:18:33Z
   Total Products: 602
 - [Asus](https://hifimediastore.com/collections/asus)
   Updated: 2025-10-10T23:18:20Z
@@ -8959,7 +8959,7 @@
   Updated: 2025-08-31T12:20:56Z
   Total Products: 4
 - [Teléfonos móviles y accesorios en Hi-Fi Media Store](https://hifimediastore.com/collections/todos-los-productos): Somos especialistas en teléfonos móviles y accesorios. En Hi-Fi Media Store encontrarás una gran variedad de productos de las mejores marcas.
-  Updated: 2025-10-20T15:58:56Z
+  Updated: 2025-10-20T17:49:05Z
   Total Products: 5480
 - [Lindy](https://hifimediastore.com/collections/lindy)
   Updated: 2025-10-10T23:08:17Z
@@ -9016,7 +9016,7 @@
   Updated: 2025-10-10T22:47:39Z
   Total Products: 3
 - [OrderlyEmails - Recommended Products](https://hifimediastore.com/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-10-20T15:58:56Z
+  Updated: 2025-10-20T17:49:05Z
   Total Products: 1447
 - [Razer](https://hifimediastore.com/collections/razer)
   Updated: 2025-10-16T19:26:34Z
@@ -9136,7 +9136,7 @@
   Updated: 2025-10-10T22:01:24Z
   Total Products: 27
 - [Tablets iPad y Android | Financia con SeQura](https://hifimediastore.com/collections/tablets): Compra tablets iPad y Android con envío rápido y financiación flexible con SeQura. Compra fácil y segura online.
-  Updated: 2025-10-20T15:54:51Z
+  Updated: 2025-10-20T17:34:24Z
   Total Products: 529
 - [iPad](https://hifimediastore.com/collections/ipad)
   Updated: 2025-10-18T10:14:05Z
@@ -9151,10 +9151,10 @@
   Updated: 2025-10-15T00:27:39Z
   Total Products: 4
 - [Tablets Samsung](https://hifimediastore.com/collections/tablets-samsung)
-  Updated: 2025-10-18T04:03:23Z
+  Updated: 2025-10-20T17:34:24Z
   Total Products: 79
 - [IVA 21](https://hifimediastore.com/collections/iva-21)
-  Updated: 2025-10-20T15:58:56Z
+  Updated: 2025-10-20T17:49:05Z
   Total Products: 5111
 - [Tablets Xiaomi](https://hifimediastore.com/collections/tablets-xiaomi)
   Updated: 2025-10-17T21:46:39Z
@@ -9166,7 +9166,7 @@
   Updated: 2025-10-16T11:22:15Z
   Total Products: 4
 - [Samsung](https://hifimediastore.com/collections/samsung-1)
-  Updated: 2025-10-20T15:54:51Z
+  Updated: 2025-10-20T17:49:05Z
   Total Products: 1096
 - [Tablets Oneplus](https://hifimediastore.com/collections/tablets-oneplus)
   Updated: 2025-10-12T00:12:20Z
@@ -9193,7 +9193,7 @@
   Updated: 2025-10-18T05:25:32Z
   Total Products: 14
 - [IVA 21](https://hifimediastore.com/collections/21-iva)
-  Updated: 2025-10-20T15:55:16Z
+  Updated: 2025-10-20T17:49:05Z
   Total Products: 4080
 - [Realme](https://hifimediastore.com/collections/realme-1)
   Updated: 2025-10-20T15:39:58Z
@@ -9250,7 +9250,7 @@
   Updated: 2025-08-31T12:05:21Z
   Total Products: 3
 - [Productos para teléfonos móviles y accesorios](https://hifimediastore.com/collections/all): Hi-Fi Media Store: Tu tienda online para teléfonos móviles y accesorios de las mejores marcas. Encuentra smartphones, auriculares inalámbricos y con cable, altavoces y una amplia gama de accesorios para complementar tu experiencia móvil. Compra con seguridad y disfruta de una garantía de satisfacción. Visita nuestra tienda online y descubre un mundo de posibilidades para tu teléfono móvil.
-  Updated: 2025-10-20T15:58:56Z
+  Updated: 2025-10-20T17:49:05Z
   Total Products: 5480
 - [Beats](https://hifimediastore.com/collections/beats)
   Updated: 2025-10-11T22:16:14Z
@@ -9265,7 +9265,7 @@
   Updated: 2025-10-10T21:27:13Z
   Total Products: 11
 - [Ultimate Search - Do not delete](https://hifimediastore.com/collections/ultimate-search-do-not-delete): Ultimate Search app uses this temporary collection to fetch best selling items.Please do not delete this collection.If you have removed the app, it is safe to remove this collection.
-  Updated: 2025-10-20T15:58:56Z
+  Updated: 2025-10-20T17:49:05Z
   Total Products: 5480
 - [Nubia](https://hifimediastore.com/collections/nubia)
   Updated: 2025-10-11T22:34:25Z
