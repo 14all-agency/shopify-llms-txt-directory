@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-10-20T04:00:43.411Z
+- Updated At: 2025-10-20T12:00:43.679Z
 
 ## Products
 
@@ -6239,7 +6239,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/polyethylene-back-tie-apron-blue-800mm-x-1250mm-x-20mu-700-aprons-light-duty-plastic-body-protection-essential-supplies-432190.jpg?v=1719445563
   Price: $113.00 NZD
 - [PVC Apron Waist Hooks - White, 450mm Length - 1 Pack](https://essentialsupplies.co.nz/products/pvc-apron-waist-hooks-white-450mm-length-1)
-  Updated: 2025-01-09T09:54:28Z
+  Updated: 2025-10-20T08:02:41Z
   Vendor: Mattews Packaging
   Product Type: Reusable Aprons
   Availability: Available
