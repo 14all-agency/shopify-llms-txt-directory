@@ -6,7 +6,7 @@
 - Timezone: Asia/Shanghai
 - Created At: 2021-09-03T03:31:14Z
 - Contact Email: support@oupes.com
-- Updated At: 2025-10-20T16:00:35.399Z
+- Updated At: 2025-10-20T20:00:34.735Z
 
 ## Products
 
@@ -88,7 +88,7 @@
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/b5-extra-battery-for-mega-5-titan-5-power-station-788691.webp?v=1741944152
   Price: $1,190.00 USD
 - [OUPES Mega 3 Series 3072Wh 3600W Portable Power Station for Home Backup](https://oupes.com/products/oupes-mega-3-home-backup-portable-power-station-3600w-3072wh): Best Portable Power Station for Home Backup: The OUPES Mega 3 Series offers 3600W of reliable energy with a massive 3072Wh capacity. Stay prepared anywhere!
-  Updated: 2025-10-20T04:55:45Z
+  Updated: 2025-10-20T17:41:46Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
@@ -157,7 +157,7 @@
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/mega-5-2240w-solar-panel-solar-generator-kit-545398.webp?v=1741944190
   Price: $1,999.00 USD
 - [OUPES Mega 2 Home Backup & Portable Power Station | 2500W, 2048Wh](https://oupes.com/products/oupes-mega-2-home-backup-portable-power-station-2500w-2048wh): OUPES Mega 2 Power Station with 2500W,2048Wh inverter. LiFePO4 battery, expandable to 10.24kWh. 15 outputs, HD display, full charge in 0.6 hrs. Ideal for backup and portable use.
-  Updated: 2025-10-20T15:41:48Z
+  Updated: 2025-10-20T19:56:22Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
@@ -198,7 +198,7 @@
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/oupes-4ft-charging-cable-adapter-958823.png?v=1741944217
   Price: $19.00 USD
 - [B2/B5 Battery connection cable](https://oupes.com/products/b2-b5-battery-connection-cable): Used to connect B2 or B5 batteries to the Mega/Titan series power station.
-  Updated: 2025-10-20T03:29:41Z
+  Updated: 2025-10-20T17:10:37Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
@@ -237,7 +237,7 @@
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/mega-5-4240w-solar-panel-solar-generator-kit-886426.webp?v=1741944241
   Price: $2,399.00 USD
 - [OUPES Mega 5 Power Station with B5 Extra Battery | Solar Generator for Home Backup​](https://oupes.com/products/oupes-mega-5-b5-extra-battery): OUPES power station is here! Maximize your energy with the 4000W, 5040Wh Mega 5 Solar Generator for Home Backup—stay powered, stay safe!
-  Updated: 2025-10-20T08:57:31Z
+  Updated: 2025-10-20T16:29:11Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
@@ -298,7 +298,7 @@
     Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/oupes-exodus-600-portable-power-station-600w-256wh-821749.webp?v=1741944269
     Price: $309.00 USD
 - [OUPES B2 Extra Home Backup Battery For Mega 2 Power Station](https://oupes.com/products/oupes-mega-2-b2-extra-battery): The OUPES B2 extra home backup battery enhances the Mega 2 power station, providing extended power for home backup during emergencies and off-grid situations.
-  Updated: 2025-10-20T08:58:20Z
+  Updated: 2025-10-20T16:28:40Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
@@ -335,7 +335,7 @@
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/mega-2-b2-extra-battery-2240w-solar-panel-solar-generator-kit-637987.jpg?v=1741944292
   Price: $1,719.00 USD
 - [20ft 12AWG Solar Panel Extension Cables - OUPES](https://oupes.com/products/solar-panel-female-and-male-connectors): Extend your solar setup with OUPES 20ft 12AWG Solar Panel Extension Cables. Durable and efficient, this extension cord for solar panels ensures reliable power flow in any setup.
-  Updated: 2025-10-20T14:32:44Z
+  Updated: 2025-10-20T17:41:46Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
@@ -916,7 +916,7 @@
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/Mega_5_B5_240W_4.png?v=1759220673
   Price: $3,629.00 USD
 - [OUPES Mega 3 Portable Solar Generator Kit + B2 Battery](https://oupes.com/products/mega-3-b2-extra-battery-2-240w-solar-panel-solar-generator-kit): The OUPES Mega 3 kit with B2 extra battery delivers reliable solar power for camping, outdoor use, and backup. Lightweight, expandable, and ready to go.
-  Updated: 2025-10-20T08:57:51Z
+  Updated: 2025-10-20T16:29:01Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
