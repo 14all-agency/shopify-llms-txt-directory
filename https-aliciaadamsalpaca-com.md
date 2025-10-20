@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-06-23T16:52:36Z
 - Contact Email: customerservice@aliciaadamsalpaca.com
-- Updated At: 2025-10-19T20:00:40.937Z
+- Updated At: 2025-10-20T00:00:39.399Z
 
 ## Products
 
@@ -832,7 +832,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AS133-17--Alassio-Wrap-Black-2-white-web.jpg?v=1719259343
     Price: $295.00 USD
 - [Buy Reversible Throw | Luxury Alpaca Throws | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/reversible-throw): buy reversible throw, luxury alpaca throws at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-10-17T14:55:03Z
+  Updated: 2025-10-19T22:17:40Z
   Vendor: alicia adams alpaca
   Product Type: Blankets & Throws
   Availability: Available
@@ -850,7 +850,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/C_8c2fbfa1-5d38-41d9-b2ab-2a6f2b3b6161.jpg?v=1741012110
     Price: $495.00 USD
   - [Light Taupe / Light Grey](https://aliciaadamsalpaca.com/products/reversible-throw?variant=40258295726195)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/ac-ah504-102-12-reversiblethrow-lighttaupe-lightgrey-wood-hr_a9edf679-7a30-4b05-bb60-0607b80dd85f.jpg?v=1741012110
     Price: $495.00 USD
   - [Rust / Taupe](https://aliciaadamsalpaca.com/products/reversible-throw?variant=40826931773555)
