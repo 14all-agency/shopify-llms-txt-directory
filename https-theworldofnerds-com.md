@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2023-11-06T10:53:38Z
 - Contact Email: theworldofnerdscustomer@gmail.com
-- Updated At: 2025-10-19T20:00:42.108Z
+- Updated At: 2025-10-20T00:00:49.151Z
 
 ## Products
 
@@ -2139,7 +2139,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untiled.png?v=1731329866
   Price: ₹4,699.00 INR
 - [ZORO-PURPLE ENMA KATANA](https://theworldofnerds.com/products/zoro-purple-enma-katana): Unleash the spirit of your favorite anime characters with our meticulously crafted anime katanas. Made from a perfect blend of high-quality wood and durable ABS plastic, these katanas offer an authentic look and feel while ensuring long-lasting performance. Ideal for collectors, cosplayers, and fans alike, each katana features detailed craftsmanship and lightweight construction, making it both visually stunning and easy to handle. Whether you’re adding to your collection or gearing up for your next cosplay, our anime katanas are built to impress with their durability, aesthetic appeal, and high-quality materials. Perfect for display or action-packed cosplay, these katanas bring the legendary katanas from your favorite anime to life.
-  Updated: 2025-10-18T04:58:45Z
+  Updated: 2025-10-19T22:12:30Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -5618,7 +5618,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/IMG_20250228_182258_446_409254614.jpg?v=1740977188
   Price: ₹255.00 INR
 - [VIOLET 1-SCARLET& VIOLET POKEMON TRADING CARDS D2-DEP26](https://theworldofnerds.com/products/violet-1-scarlet-violet-pokemon-trading-cards-d2-dep26): Experience the thrill of collecting and trading with the VIOLET 1-SCARLET& VIOLET POKEMON TRADING CARDS D2-DEP26. Explore the world of Pokemon with these high-quality cards. Perfect for fans and collectors alike, these cards offer endless possibilities for competitive gameplay and nostalgic fun. Get yours today and become the ultimate Pokemon master.
-  Updated: 2025-07-29T05:14:08Z
+  Updated: 2025-10-19T21:02:40Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
