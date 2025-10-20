@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-01-24T04:49:01Z
 - Contact Email: info@ibizjewel.com
-- Updated At: 2025-10-20T00:00:52.439Z
+- Updated At: 2025-10-20T04:00:53.679Z
 
 ## Products
 
@@ -437,7 +437,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-06_2.jpg?v=1690456500
     Price: $849.00 USD
 - [Moissanite 2.55CT Oval Diamond Unique Handmade Ring](https://ibizjewel.com/products/moissanite-2-55ct-oval-diamond-unique-handmade-ring): This Moissanite 2.55CT Oval Diamond Unique Handmade Ring Is A Stunning Piece Crafted With Expert Precision. Made With High-Quality Moissanite, It Boasts A Sparkling Oval Diamond That Captures The Light For A Brilliant Shine. Handmade With Care, This Ring Is A One-Of-A-Kind Piece That Exudes Elegance And Charm. Elevate Any Outfit With This Unique And Timeless Ring.
-  Updated: 2025-10-02T10:30:37Z
+  Updated: 2025-10-20T03:13:04Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Oval Diamond Ring
   Availability: Available
