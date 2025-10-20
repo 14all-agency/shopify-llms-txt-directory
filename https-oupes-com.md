@@ -6,7 +6,7 @@
 - Timezone: Asia/Shanghai
 - Created At: 2021-09-03T03:31:14Z
 - Contact Email: support@oupes.com
-- Updated At: 2025-10-20T12:00:35.081Z
+- Updated At: 2025-10-20T16:00:35.399Z
 
 ## Products
 
@@ -47,7 +47,7 @@
     Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/oupes-240w-portable-solar-panel-440873.png?v=1755138972
     Price: $2,142.00 USD
 - [OUPES Mega 5 Series 5040Wh 4000W Portable Home Backup Power Station](https://oupes.com/products/oupes-mega-5-portable-power-station): OUPES Mega 5 Series: a powerful 4000W portable power station with 5040Wh capacity. Stay prepared with this reliable home backup power solution!
-  Updated: 2025-10-20T08:57:26Z
+  Updated: 2025-10-20T14:57:42Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
@@ -157,7 +157,7 @@
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/mega-5-2240w-solar-panel-solar-generator-kit-545398.webp?v=1741944190
   Price: $1,999.00 USD
 - [OUPES Mega 2 Home Backup & Portable Power Station | 2500W, 2048Wh](https://oupes.com/products/oupes-mega-2-home-backup-portable-power-station-2500w-2048wh): OUPES Mega 2 Power Station with 2500W,2048Wh inverter. LiFePO4 battery, expandable to 10.24kWh. 15 outputs, HD display, full charge in 0.6 hrs. Ideal for backup and portable use.
-  Updated: 2025-10-20T09:31:55Z
+  Updated: 2025-10-20T15:41:48Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
@@ -335,7 +335,7 @@
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/mega-2-b2-extra-battery-2240w-solar-panel-solar-generator-kit-637987.jpg?v=1741944292
   Price: $1,719.00 USD
 - [20ft 12AWG Solar Panel Extension Cables - OUPES](https://oupes.com/products/solar-panel-female-and-male-connectors): Extend your solar setup with OUPES 20ft 12AWG Solar Panel Extension Cables. Durable and efficient, this extension cord for solar panels ensures reliable power flow in any setup.
-  Updated: 2025-10-19T03:52:51Z
+  Updated: 2025-10-20T14:32:44Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
