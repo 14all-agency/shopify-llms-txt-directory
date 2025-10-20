@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-07-19T18:27:19Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-10-20T04:00:37.181Z
+- Updated At: 2025-10-20T08:00:36.562Z
 
 ## Products
 
@@ -1077,7 +1077,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/Navy_8e9d8a29-7d42-4fa6-af34-bb64ab342096.jpg?v=1757517255
     Price: $1.00 USD
 - [Shiny Velvet Fabric | Fabrics Star](https://fabricsstar.com/products/soft-velvet-fabric): Experience luxury and comfort with Soft Velvet Fabric from Fabrics Star. Explore premium quality material for your upholstery needs. Shop now!
-  Updated: 2025-10-19T17:30:07Z
+  Updated: 2025-10-20T04:30:12Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -2375,7 +2375,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/OMAHA-WHITE.jpg?v=1757517495
     Price: $1.00 USD
 - [HILTON Embroidered Mesh Fabric | Fabrics Star](https://fabricsstar.com/products/hilton-embroidered-mesh-fabric): This HILTON Embroidered Mesh Fabric features a mesh backing with beautiful embroidery and a dramatic scalloped border. Its luxurious look makes it the ideal fabric for all your elegant needs.
-  Updated: 2025-10-14T11:17:53Z
+  Updated: 2025-10-20T06:37:02Z
   Vendor: Fabrics Star
   Product Type: Mesh Fabric
   Availability: Available
@@ -8987,7 +8987,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/REBA-19-PURPLE.jpg?v=1757518767
     Price: $1.00 USD
 - [GLASGOW Lace Netting Material 55 Inch in Width | Home Décor](https://fabricsstar.com/products/glasgow): DIMENSION - Size of the embroidered fabric is 55 Inch. in width. Cut by the Yard Fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 55' x 36'. Order of 3 yards (Qty=3) is 55' x 108' Orders can be customized to be cut in pieces by request. MATERIAL -Embroidered mesh fabric is 100% polyester & lightweight DESIGN -This embroidered fabric features a mesh backing with beautiful embroidery. Its luxurious look makes it the ideal fabric for all your elegant needs USEFUL - Perfect fabric for sewing , gowns , dresses , skirts , veils , DIY , Arts & Crafts , tablecloths, table runners, drapery , home décor and more . Add a touch of glitz to your wardrobe with stylish overlays for skirts and dresses or for special occasion decorations like tablecloths CARE - Wash with lukewarm water - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer
-  Updated: 2025-09-16T00:43:22Z
+  Updated: 2025-10-20T05:30:07Z
   Vendor: Fabrics Star
   Product Type: 
   Availability: Available
@@ -9477,7 +9477,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/WALDORF-GREY-206.jpg?v=1757518830
     Price: $1.00 USD
 - [VELUXE Soft Velvet Fabric, 72 Inch. in Width, Ideal Material for Home Décor](https://fabricsstar.com/products/veluxe-soft-velvet-fabric-72-inch-in-width-ideal-material-for-home-decor): DIMENSION - Size of the velvet fabric is 72 Inch. in width. Cut by the Yard Velvet Fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 72' x 36'. Order of 3 yards (Qty=3) is 72' x 108' Orders can be customized to be cut in pieces by request SIZE: Soft velvet fabric comes in 72 inch. in width making it the perfect choice for various oversize needs, such as wide tablecloths, upholstery for big coaches etc. MATERIAL - Velvet fabric by the yard is heavyweight and made of 100% polyester. It's soft to the touch and gives a warm and cozy feeling. Wash with lukewarm water, no dryerUSEFUL - Ideal Velvet Material for Upholstery fabric for Coaches and chairs, drapery, pillows, slipcovers, tablecloths, sewing, DIY, handbags, tote bags, arts & crafts Etc Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor.
-  Updated: 2025-10-19T03:10:12Z
+  Updated: 2025-10-20T04:05:06Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -9711,6 +9711,9 @@
     Author: User
   - [The history of patterns in fabric design](https://fabricsstar.com/blogs/news/the-history-of-patterns-in-fabric-design): The history of patterns in fabric design
     Updated: 2025-10-19T00:09:50Z
+    Author: User
+  - [Frequently asked questions about waterproof textiles](https://fabricsstar.com/blogs/news/frequently-asked-questions-about-waterproof-textiles): Frequently asked questions about waterproof textiles
+    Updated: 2025-10-20T04:05:27Z
     Author: User
 
 ## Store Pages
