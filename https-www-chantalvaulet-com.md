@@ -44,7 +44,7 @@ Ethical Brilliance. Timeless Elegance.
 - Created At: 2025-01-16T13:53:30Z
 - Contact Email: Info@chantalvaulet.com 
 - Contact Phone: +48 575 543 743
-- Updated At: 2025-10-19T22:34:21.610Z
+- Updated At: 2025-10-20T04:00:36.402Z
 
 ## Products
 
@@ -8150,7 +8150,7 @@ Ethical Brilliance. Timeless Elegance.
     Availability: Available
     Price: €79.00 EUR
 - [1CT Round Moissanite Ring – The Isalyn | Chantal Vaulet](https://www.chantalvaulet.com/products/the-isalyn-1ct-round-cut-moissanite-ring): The Isalyn is a 1CT round-cut moissanite ring, featuring an icy-white sparkle in a classic six-prong setting for timeless elegance.
-  Updated: 2025-10-19T16:02:35Z
+  Updated: 2025-10-20T03:59:53Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
@@ -11961,7 +11961,7 @@ Ethical Brilliance. Timeless Elegance.
     Availability: Available
     Price: €1,695.00 EUR
 - [The Elaris 2CT Oval Engagement Ring – Moissanite or IGI Lab Diamond](https://www.chantalvaulet.com/products/the-elaris-2ct-oval-engagement-ring): The Elaris Ring features a certified 2CT Oval-cut center stone with marquise and oval accents. Available in moissanite or IGI-certified lab diamond, set in 9K, 14K, or 18K gold.
-  Updated: 2025-10-19T15:44:52Z
+  Updated: 2025-10-19T22:36:33Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
@@ -12117,7 +12117,7 @@ Ethical Brilliance. Timeless Elegance.
     Availability: Available
     Price: €1,895.00 EUR
 - [The Aerelith 1.5CT Round-Cut Moissanite or Lab Diamond Ring](https://www.chantalvaulet.com/products/the-aerelith-1-5ct-three-stone-engagement-ring): The Aerelith Ring features a certified 1.5CT round center stone flanked by tapered baguette side stones. Available in 9K, 14K, or 18K gold with moissanite or IGI-certified lab diamond.
-  Updated: 2025-10-19T16:23:03Z
+  Updated: 2025-10-20T03:14:37Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
@@ -12272,7 +12272,7 @@ Ethical Brilliance. Timeless Elegance.
     Availability: Available
     Price: €1,850.00 EUR
 - [The Thaliora 1.5CT Marquise-Cut Moissanite or Lab Diamond Ring](https://www.chantalvaulet.com/products/the-thaliora-1-5ct-marquise-cluster-engagement-ring): The Thaliora Ring features a 1.5CT marquise-cut center stone with clustered round accents. Certified moissanite or IGI lab diamond, available in 9K, 14K, or 18K gold.
-  Updated: 2025-10-19T16:22:24Z
+  Updated: 2025-10-20T03:39:53Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
