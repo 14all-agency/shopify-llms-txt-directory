@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-10-20T12:00:47.809Z
+- Updated At: 2025-10-20T16:00:49.237Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -15728,7 +15728,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_892d66ff-d56a-4be7-ba20-89281ad4bba3.jpg?v=1741884250
   Price: £90.00 GBP
 - [2 Photo Diamond Heart Locket Silver + Photos](https://www.lilyblanche.com/products/2-photo-diamond-heart-locket-silver): Handcrafted in premium sterling silver & featuring a genuine diamond, this bestselling locket holds two photos, letting you keep loved ones close. Choice of chain lengths. Free care kit
-  Updated: 2025-10-19T15:15:35Z
+  Updated: 2025-10-20T14:29:11Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -15761,7 +15761,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £150.00 GBP
 - [2 Photo Heart Locket Silver Top Quality Engravable Necklace](https://www.lilyblanche.com/products/large-2-photo-heart-locket-silver): Keep loved ones close with this two photo heart shaped locket in sterling silver is the perfect wearable family album. Hallmarked in Edinburgh. The ideal gift to hold the ones you love close. Add two of your own photos inside. Free UK Shipping & Luxury Gift Wrap included. Shop this necklace online today.
-  Updated: 2025-09-26T11:23:56Z
+  Updated: 2025-10-20T14:53:10Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -16230,7 +16230,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £155.00 GBP
 - [Heart Shaped Gold Photo Locket | Heart Necklace | Lily Blanche](https://www.lilyblanche.com/products/heart-locket-necklace-gold): In need of a romantic gift? This pretty filigree style gold vermeil heart locket opens to take two of your pictures. Hallmarked in the UK. This high quality gold necklace is a perfect bridal or wedding locket. Free UK Shipping & Luxury Jewellery Care Kit. Express delivery available when you shop online today.
-  Updated: 2025-10-12T16:56:16Z
+  Updated: 2025-10-20T13:59:57Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -16879,6 +16879,54 @@ We take vintage jewellery designs and give them a modern twist by combining them
   - [20 inch (50 cm) Beaded Chain](https://www.lilyblanche.com/products/2-photo-diamond-heart-locket-gold?variant=50529295892798)
     Availability: Available
     Price: £195.00 GBP
+- [2 Photo Heart Locket Gold Top Quality Engravable Locket](https://www.lilyblanche.com/products/large-2-photo-heart-locket-gold): Keep loved ones close with this two-photo heart-shaped locket in 18-carat gold vermeil is the perfect wearable family album. Hallmarked in Edinburgh. The ideal gift to hold the ones you love close. Add two of your own photos inside. Free UK Shipping & Luxury Gift Wrap included. Shop this necklace online today.
+  Updated: 2025-10-20T14:59:24Z
+  Vendor: Lily Blanche
+  Product Type: Locket
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/files/gold_2_photo_heart_locket12curb_1080_copy2.jpg?v=1741886233
+  - [18 inch Curb Chain (46 cm)](https://www.lilyblanche.com/products/large-2-photo-heart-locket-gold?variant=46956100419902)
+    Availability: Available
+    Price: £175.00 GBP
+  - [20 inch Curb Chain (51 cm)](https://www.lilyblanche.com/products/large-2-photo-heart-locket-gold?variant=50434626158910)
+    Availability: Available
+    Price: £180.00 GBP
+  - [22 inch Curb Chain (56 cm)](https://www.lilyblanche.com/products/large-2-photo-heart-locket-gold?variant=50434626191678)
+    Availability: Available
+    Price: £185.00 GBP
+  - [24 inch Curb Chain (61 cm)](https://www.lilyblanche.com/products/large-2-photo-heart-locket-gold?variant=46956100452670)
+    Availability: Available
+    Price: £190.00 GBP
+  - [30 inch Curb Chain (72 cm)](https://www.lilyblanche.com/products/large-2-photo-heart-locket-gold?variant=46956100485438)
+    Availability: Available
+    Price: £195.00 GBP
+  - [18 inch Belcher Chain (46 cm)](https://www.lilyblanche.com/products/large-2-photo-heart-locket-gold?variant=46956100518206)
+    Availability: Available
+    Price: £220.00 GBP
+  - [20 inch Belcher Chain (51 cm)](https://www.lilyblanche.com/products/large-2-photo-heart-locket-gold?variant=50434626224446)
+    Availability: Available
+    Price: £230.00 GBP
+  - [22 inch Belcher Chain (56 cm)](https://www.lilyblanche.com/products/large-2-photo-heart-locket-gold?variant=50434626257214)
+    Availability: Available
+    Price: £240.00 GBP
+  - [24 inch Belcher Chain (61 cm)](https://www.lilyblanche.com/products/large-2-photo-heart-locket-gold?variant=46956100550974)
+    Availability: Available
+    Price: £250.00 GBP
+  - [30 inch Belcher Chain (72 cm)](https://www.lilyblanche.com/products/large-2-photo-heart-locket-gold?variant=46956100583742)
+    Availability: Available
+    Price: £260.00 GBP
+  - [18 inch Rope Chain (46 cm)](https://www.lilyblanche.com/products/large-2-photo-heart-locket-gold?variant=50434635891006)
+    Availability: Available
+    Price: £185.00 GBP
+  - [20 inch Rope Chain (51 cm)](https://www.lilyblanche.com/products/large-2-photo-heart-locket-gold?variant=50434635923774)
+    Availability: Available
+    Price: £190.00 GBP
+  - [24 inch Rope Chain (61 cm)](https://www.lilyblanche.com/products/large-2-photo-heart-locket-gold?variant=50434635956542)
+    Availability: Available
+    Price: £195.00 GBP
+  - [30 inch Rope Chain (72 cm)](https://www.lilyblanche.com/products/large-2-photo-heart-locket-gold?variant=50434635989310)
+    Availability: Available
+    Price: £205.00 GBP
 - [Men's St Christopher Necklace in Solid Gold | Premium Quality Pendant](https://www.lilyblanche.com/products/mens-st-christopher-necklace-solid_gold): Give a meaningful gift with our stylish Men's St Christopher Necklace in solid gold. Personalise with free engraving. Free shipping & care kit with orders today
   Updated: 2025-10-17T10:54:21Z
   Vendor: Lily Blanche
@@ -22963,8 +23011,44 @@ From £190.
   - [silver belcher chain 30 inch (72 cm)](https://www.lilyblanche.com/products/heavy-silver-cross-necklace?variant=55116878119298)
     Availability: Available
     Price: £210.00 GBP
+- [Men's St Christopher Locket Necklace Gold + Free Photos](https://www.lilyblanche.com/products/st-christopher-locket-gold-vermeil): Men’s gold St Christopher locket in 18ct vermeil. A travel protection necklace holding two photos & engraving. The perfect gift for life’s next adventure.
+  Updated: 2025-10-20T15:13:12Z
+  Vendor: Lily Blanche
+  Product Type: Locket
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/files/stchristopherlocketgoldsquare.webp?v=1748431826
+  - [18 inch (46 cm) curb chain](https://www.lilyblanche.com/products/st-christopher-locket-gold-vermeil?variant=55228510273922)
+    Availability: Available
+    Price: £225.00 GBP
+  - [20 inch (51 cm) curb chain](https://www.lilyblanche.com/products/st-christopher-locket-gold-vermeil?variant=55228510306690)
+    Availability: Available
+    Price: £235.00 GBP
+  - [22 inch (56 cm) curb chain](https://www.lilyblanche.com/products/st-christopher-locket-gold-vermeil?variant=55253974581634)
+    Availability: Available
+    Price: £245.00 GBP
+  - [24 inch (61 cm) curb chain](https://www.lilyblanche.com/products/st-christopher-locket-gold-vermeil?variant=55228510339458)
+    Availability: Available
+    Price: £255.00 GBP
+  - [30 inch (72 cm) curb chain](https://www.lilyblanche.com/products/st-christopher-locket-gold-vermeil?variant=55228510372226)
+    Availability: Available
+    Price: £285.00 GBP
+  - [18 inch (46 cm) belcher chain](https://www.lilyblanche.com/products/st-christopher-locket-gold-vermeil?variant=55228510404994)
+    Availability: Available
+    Price: £280.00 GBP
+  - [20 inch (51 cm) belcher chain](https://www.lilyblanche.com/products/st-christopher-locket-gold-vermeil?variant=55228510437762)
+    Availability: Available
+    Price: £290.00 GBP
+  - [22 inch (56 cm) belcher chain](https://www.lilyblanche.com/products/st-christopher-locket-gold-vermeil?variant=55253974614402)
+    Availability: Available
+    Price: £300.00 GBP
+  - [24 inch (61 cm) belcher chain](https://www.lilyblanche.com/products/st-christopher-locket-gold-vermeil?variant=55228510470530)
+    Availability: Available
+    Price: £310.00 GBP
+  - [30 inch (72 cm) belcher chain](https://www.lilyblanche.com/products/st-christopher-locket-gold-vermeil?variant=55228510503298)
+    Availability: Available
+    Price: £330.00 GBP
 - [Men's St Christopher Locket Necklace Silver + Free Photos](https://www.lilyblanche.com/products/st-christopher-locket-silver): Men's sterling silver St Christopher locket. A travel protection necklace holding two photos & engraving. The perfect gift for life's next adventure.
-  Updated: 2025-10-17T11:37:08Z
+  Updated: 2025-10-20T15:13:12Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -22999,8 +23083,44 @@ From £190.
   - [30 inch (72 cm) belcher chain](https://www.lilyblanche.com/products/st-christopher-locket-silver?variant=55228525609346)
     Availability: Available
     Price: £260.00 GBP
+- [Men's St Christopher Locket Silver & Gold + Free Photos](https://www.lilyblanche.com/products/st-christopher-locket-silver-gold): Men’s mixed metal St Christopher locket in silver & gold. A travel protection necklace holding two photos & engraving. The perfect gift for life's next adventure.
+  Updated: 2025-10-20T15:13:02Z
+  Vendor: Lily Blanche
+  Product Type: Locket
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/files/st_christopher_locket_silver-gold_6.webp?v=1748438343
+  - [18 inch (46 cm) curb chain](https://www.lilyblanche.com/products/st-christopher-locket-silver-gold?variant=55228530360706)
+    Availability: Available
+    Price: £195.00 GBP
+  - [20 inch (51 cm) curb chain](https://www.lilyblanche.com/products/st-christopher-locket-silver-gold?variant=55228530393474)
+    Availability: Available
+    Price: £200.00 GBP
+  - [22 inch (56 cm) curb chain](https://www.lilyblanche.com/products/st-christopher-locket-silver-gold?variant=55266808103298)
+    Availability: Available
+    Price: £205.00 GBP
+  - [24 inch (61 cm) curb chain](https://www.lilyblanche.com/products/st-christopher-locket-silver-gold?variant=55228530426242)
+    Availability: Available
+    Price: £210.00 GBP
+  - [30 inch (72 cm) curb chain](https://www.lilyblanche.com/products/st-christopher-locket-silver-gold?variant=55228530459010)
+    Availability: Available
+    Price: £230.00 GBP
+  - [18 inch (46 cm) belcher chain](https://www.lilyblanche.com/products/st-christopher-locket-silver-gold?variant=55228530491778)
+    Availability: Available
+    Price: £235.00 GBP
+  - [20 inch (51 cm) belcher chain](https://www.lilyblanche.com/products/st-christopher-locket-silver-gold?variant=55228530524546)
+    Availability: Available
+    Price: £240.00 GBP
+  - [22 inch (56 cm) belcher chain](https://www.lilyblanche.com/products/st-christopher-locket-silver-gold?variant=55266808136066)
+    Availability: Available
+    Price: £245.00 GBP
+  - [24 inch (61 cm) belcher chain](https://www.lilyblanche.com/products/st-christopher-locket-silver-gold?variant=55228530557314)
+    Availability: Available
+    Price: £250.00 GBP
+  - [30 inch (72 cm) belcher chain](https://www.lilyblanche.com/products/st-christopher-locket-silver-gold?variant=55228530590082)
+    Availability: Available
+    Price: £270.00 GBP
 - [Men's Engravable Compass Locket  Silver + Free Photos | German Precision](https://www.lilyblanche.com/products/engravable-compass-locket-for-men-sterling-silver-photo-locket): Navigate life's journey with our German precision-engineered Men's Compass Locket in sterling silver. Holds 2 photos, UK hallmarked, free photos & UK shipping. From £170
-  Updated: 2025-10-17T11:13:21Z
+  Updated: 2025-10-20T15:11:47Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -23035,6 +23155,42 @@ From £190.
   - [30 inch (72 cm) belcher chain](https://www.lilyblanche.com/products/engravable-compass-locket-for-men-sterling-silver-photo-locket?variant=55385562284418)
     Availability: Available
     Price: £260.00 GBP
+- [Men's Engravable Compass Locket Gold + Photos](https://www.lilyblanche.com/products/mens-engravable-compass-locket-gold-photos): Men's Compass Locket Necklace in 18ct gold vermeil. Engravable, holds 2 photos, & features a symbolic compass design for guidance and adventure. Free UK delivery. From £195
+  Updated: 2025-10-20T15:11:41Z
+  Vendor: Lily Blanche
+  Product Type: Locket
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/files/gold_compass_locket_6.webp?v=1754389799
+  - [18 inch (46 cm) curb chain](https://www.lilyblanche.com/products/mens-engravable-compass-locket-gold-photos?variant=55385588138370)
+    Availability: Available
+    Price: £225.00 GBP
+  - [20 inch (51 cm) curb chain](https://www.lilyblanche.com/products/mens-engravable-compass-locket-gold-photos?variant=55385588171138)
+    Availability: Available
+    Price: £235.00 GBP
+  - [22 inch (56 cm ) curb chain](https://www.lilyblanche.com/products/mens-engravable-compass-locket-gold-photos?variant=55385588203906)
+    Availability: Available
+    Price: £245.00 GBP
+  - [24 inch (61 cm) curb chain](https://www.lilyblanche.com/products/mens-engravable-compass-locket-gold-photos?variant=55385588236674)
+    Availability: Available
+    Price: £255.00 GBP
+  - [30 inch (72 cm) curb chain](https://www.lilyblanche.com/products/mens-engravable-compass-locket-gold-photos?variant=55385588269442)
+    Availability: Available
+    Price: £285.00 GBP
+  - [18 inch (46 cm) belcher chain](https://www.lilyblanche.com/products/mens-engravable-compass-locket-gold-photos?variant=55385588302210)
+    Availability: Available
+    Price: £280.00 GBP
+  - [20 inch (51 cm) belcher chain](https://www.lilyblanche.com/products/mens-engravable-compass-locket-gold-photos?variant=55385588334978)
+    Availability: Available
+    Price: £290.00 GBP
+  - [22 inch (56 cm ) belcher chain](https://www.lilyblanche.com/products/mens-engravable-compass-locket-gold-photos?variant=55385588367746)
+    Availability: Available
+    Price: £300.00 GBP
+  - [24 inch (61 cm) belcher chain](https://www.lilyblanche.com/products/mens-engravable-compass-locket-gold-photos?variant=55385588400514)
+    Availability: Available
+    Price: £310.00 GBP
+  - [30 inch (72 cm) belcher chain](https://www.lilyblanche.com/products/mens-engravable-compass-locket-gold-photos?variant=55385588433282)
+    Availability: Available
+    Price: £330.00 GBP
 - [Handcrafted 9 Carat Solid Gold Belcher Chain | UK Investment Jewellery |](https://www.lilyblanche.com/products/solid-gold-belcher-chain-uk-handcrafted): 9 carat solid gold belcher chain, UK hallmarked. Timeless investment piece perfect for layering or wearing alone. Durable, elegant & versatile. Free UK delivery.
   Updated: 2025-10-17T11:10:53Z
   Vendor: Lily Blanche
