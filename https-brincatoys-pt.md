@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-10-20T16:01:12.356Z
+- Updated At: 2025-10-20T20:01:09.412Z
 
 ## Products
 
@@ -1814,7 +1814,7 @@ aos coiotes em tamanho e força, compensam em adaptabilidade já que podem
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/comboio-de-passageiros-82371921-brincatoys-1178693223.jpg?v=1752818656
   Price: 13,99 € EUR
 - [Pista de Comboio Sensorial Hape para Desenvolvimento Infantil](https://brincatoys.pt/products/pista-de-comboio-sensorial-hape): Pista de Comboio Sensorial Hape, uma experiência de aprendizagem estimulante! Ideal para o crescimento criativo e sensorial das crianças.
-  Updated: 2025-10-13T06:33:41Z
+  Updated: 2025-10-20T20:00:02Z
   Vendor: Seleção Brincatoys
   Product Type: + 12 meses
   Availability: Available
@@ -8424,7 +8424,7 @@ Figura com aproximadamente 8 cm.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/roca-sapo-81392319-brincatoys-1178695328.png?v=1752872407
   Price: 11,90 € EUR
 - [Roca Vermelha com Missangas da Hape para Bebés](https://brincatoys.pt/products/roca-vermelha-com-missangas-da-hape): Descubra a Roca Vermelha com missangas da Hape, o brinquedo perfeito para estimular os sentidos e a coordenação do seu bebé. Diversão e aprendizagem!
-  Updated: 2025-10-13T06:27:04Z
+  Updated: 2025-10-20T19:59:30Z
   Vendor: Seleção Brincatoys
   Product Type: + 0 meses
   Availability: Available
@@ -8747,11 +8747,11 @@ reprodutor e suas crias. Cada indivíduo desempenha uma função específic...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/tambor-621242122-brincatoys-1178695431.jpg?v=1752874460
   Price: 6,50 € EUR
 - [Tambor Bebé](https://brincatoys.pt/products/tambor-bebe): Com o tambor de bebé envolvente, o seu filho pode experimentar a maravilha da música e a alegria do ritmo desde muito cedo.  Dimensão: 18 x 18 x 16 cm.Idade Recomendada: + de 6 meses.
-  Updated: 2025-10-20T15:50:37Z
+  Updated: 2025-10-20T19:58:51Z
   Vendor: Seleção Brincatoys
   Product Type: + 6 meses
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/tambor-bebe-82033322-brincatoys-1178695438.jpg?v=1752874700
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/tambor-bebe-82033322-6943478017726-selecao-brincatoys-1198657236.jpg?v=1760982368
   Price: 29,99 € EUR
 - [Brinquedo musical Tambores Magic Touch para Bebés](https://brincatoys.pt/products/tambores-magic-touch): Descubra o brinquedo musical Tambores Magic Touch que faz música desde os 6 meses. Um toque leve é tudo que seu bebé precisa! 🎶
   Updated: 2025-10-13T06:26:46Z
@@ -11196,7 +11196,7 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/my-little-pony-marca-de-beleza-magica-sunny-starscout-90525023-my-little-pony-1178696367.jpg?v=1752891614
   Price: 13,99 € EUR
 - [My Little Pony - Marca de beleza mágica Izzy Moonbow](https://brincatoys.pt/products/my-little-pony-marca-de-beleza-magica-izzy-moonbow): Apresentando Izzy Moonbow: Izzy é um unicórnio criativo de Bridlewood Forest. Izzy é uma optimista cheia de energia que adora criar coisas e muito brilho. Inspirado no filme My Little Pony: A New Generation e a série My Little Pony: Deixe Sua Marca. Inclui pónei lilás de 7,5 cm com cabelo de plástico azul e cauda macia. A figura tem uma Cutie Mark
-  Updated: 2025-10-13T06:24:13Z
+  Updated: 2025-10-20T19:04:20Z
   Vendor: My Little Pony
   Product Type: + 5 anos
   Availability: Available
@@ -11581,7 +11581,7 @@ Diverte-te com a figura de Pantera Negra de 10 cm ...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/mech-strike-mechasaurs-black-panther-sabre-claw-90667623-marvel-1178696547.jpg?v=1752895209
   Price: 29,99 € EUR
 - [Figura Miles Morales Epic Hero – Coleção MARVEL](https://brincatoys.pt/products/figura-miles-morales-epic-hero-copia): Descobre a Figura Miles Morales Epic Hero, repleta de detalhes e articulações para fãs e colecionadores. Adiciona ação e aventura à tua coleção!
-  Updated: 2025-10-13T06:23:47Z
+  Updated: 2025-10-20T16:49:06Z
   Vendor: Marvel
   Product Type: + 4 anos
   Availability: Available
@@ -13090,7 +13090,7 @@ Figura com aproximadamente 10,8 cm.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/dobragem-em-leque-aves-do-campo-kit-criativo-e-divertido-711397625-3760119713976-brincatoys-1182665914.jpg?v=1756214049
   Price: 13,80 € EUR
 - [Dobragem em acórdeão - Animais da Savana](https://brincatoys.pt/products/dobragem-em-acordeao-animais-da-savana): Descubra os dobráveis em acórdeão para animais da savana, o qual constitui uma atividade criativa para crianças dos 4 aos 6 anos que irão criar 4 lindos animais da savana dobrando as tiras de papel impresso e assim criar o seu próprio reino da selva. Graças à técnica de dobragem em acordeão, as crianças poderão criar lindos animais da savana dobrando as tiras de papel impressas e, assim, dar-lhes vida montando-as! Para despertar, educar e estimular a criatividade das crianças, nada é mais eficaz e divertido do que as actividades de trabalhos manuais. Dimensão: 20 x 24,5 x 3,5 cm. Idade Recomendada: + de 4 anos.
-  Updated: 2025-10-13T06:22:14Z
+  Updated: 2025-10-20T19:03:15Z
   Vendor: Seleção Brincatoys
   Product Type: + 4 anos
   Availability: Available
@@ -14913,34 +14913,34 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-ninjago-71809-egalt-o-mestre-dragao-conjunto-epico-667180924-5702017584539-lego-1178698509.jpg?v=1752927963
   Price: 69,90 € EUR
-- [Cartão-oferta](https://brincatoys.pt/products/cartao-presente): Um Cartão Presente é uma óptima forma de oferecer presentes, deixando a escolha dos produtos a quem os vai receber.O cartão Presente BRINCATOYS consiste num voucher enviado por e-mail ao cliente ou destinatário, no valor previamente selecionado, o qual poderá ser utilizado, até ao limite do saldo existente, na realização de uma ou mais compras em www.brincatoys.pt. Este voucher é válido a partir do momento que é emitido e não expira. O Cartão Presente funciona da seguinte forma: 1º Selecciona um valor pré-existente e adiciona ao cesto de compras. 2º Caso pretenda enviar por e-mail para um terceiro, preenche o formulário com o endereço electrónico (e-mail) do destinatário, podendo, opcionalmente, elaborar um texto de felicitações e identificar o destinatário. 3º Indica a data de envio do cartão presente. 4º Depois de adicionado ao cesto de compras e ao finalizar a encomenda, se não for cliente registado, procede ao seu registo prévio. 5º Seguidamente, preenche os dados de facturação e procede ao pagamento. 6º Após o processamento da encomenda, o destinatário e remetente receberão, no respectivo e-mail, um Voucher referente ao Cartão Presente adquirido. 7º Caso o destinatário do e-mail seja apenas o comprador/cliente poderá, querendo, oferecer o cartão presente reencaminhando ou imprimindo o e-mail. 8º Quem receber o Voucher Cartão Presente faz uma compra em www.brincatoys.pt, e na finalização da mesma insere o código que consta no Voucher, no campo do cartão presente, de forma a utilizar total ou parcialmente, o valor do cartão presente. 9º Esse código é válido no check-out da loja podendo ser utilizado em diversas compras individuais até se esgotar o saldo existente. 10º Se o valor da compra exceder o crédito disponível no Voucher Cartão Presente, o cliente pagará o valor excedente com um método de pagamento à sua escolha, aceite em www.brincatoys.pt. 11º O saldo do Cartão presente pode ser consultado no campo apresentado no e-mail recebido ou, no caso de ser portador de Apple Wallet, adicionado e visualizado nessa aplicação. 12º O Cartão Presente BRINCATOYS não pode ser trocado por dinheiro, revendido, reembolsado, mesmo parcialmente, ou creditado num cartão ou conta bancária e é apenas válido para compras on-line em www.brincatoys.pt. A BRINCATOYS não se responsabiliza pela perda, roubo, extravio, danificação, destruição ou uso sem permissão do Voucher Cartão Presente. O mesmo não será substituído em nenhuma circunstância.
-  Updated: 2025-10-16T11:49:55Z
+- [Cartão-oferta](https://brincatoys.pt/products/cartao-oferta): O que é o Cartão-oferta? O Cartão-oferta Brincatoys é a solução ideal para presentear, permitindo que o destinatário escolha exatamente o que deseja na nossa loja online. Consiste num voucher digital, enviado por e-mail, com um valor pré-selecionado. Este valor pode ser utilizado, até ao limite do saldo existente, na realização de uma ou mais compras exclusivamente em www.brincatoys.pt. Como adquirir o Cartão-oferta Escolha o Valor: Selecione um dos valores pré-definidos para o seu cartão e adicione-o ao cesto de compras. Personalize (Opcional): Caso pretenda enviar o cartão diretamente a um terceiro, preencha o formulário com o endereço de e-mail do destinatário. Pode também indicar uma data de envio específica e escrever uma mensagem personalizada. Finalize a Encomenda e Pagamento: Prossiga para o checkout. Preencha os dados de faturação necessários e proceda ao pagamento para concluir a sua encomenda (o registo de cliente não é obrigatório). Receção do Voucher: Após o processamento da encomenda, o voucher digital será enviado para o(s) e-mail(s) indicado(s) (comprador e/ou destinatário). Oferecer Manualmente: Se optar por receber o cartão apenas no seu e-mail, poderá reencaminhá-lo ou imprimi-lo para o oferecer. Como utilizar o Cartão-oferta Faça as suas Compras: Navegue pela loja www.brincatoys.pt e adicione os produtos desejados ao carrinho. Insira o Código: No checkout (finalização da encomenda), insira o código único que consta no voucher no campo "Cartão de oferta". Desconte o Saldo: O valor do cartão será automaticamente deduzido do total da sua compra. Utilização Parcial: O código é válido em diversas compras individuais. Não é necessário utilizar o saldo total de uma só vez; o valor remanescente ficará disponível para compras futuras. Valor Excedente: Se o valor da compra exceder o crédito disponível no Cartão-Oferta, o cliente pagará o valor excedente através de um dos outros métodos de pagamento aceites pela nossa loja. Consulta de Saldo: O saldo do Cartão-oferta pode ser consultado a qualquer momento através do link fornecido no e-mail original ou, caso seja utilizador, adicionado e visualizado na aplicação Apple Wallet. Termos e Condições de utilização Validade: O Cartão-oferta é ativado no momento da emissão e não possui data de validade. Não Reembolsável: O Cartão-oferta BRINCATOYS não pode ser trocado por dinheiro, revendido, reembolsado (mesmo parcialmente) ou creditado num cartão ou conta bancária. Exclusividade Online: O cartão é válido apenas para compras online em www.brincatoys.pt. Responsabilidade: A BRINCATOYS não se responsabiliza pela perda, roubo, extravio, danificação ou uso não autorizado do Voucher Cartão-oferta. O mesmo não será substituído ou reembolsado em nenhuma circunstância.
+  Updated: 2025-10-20T19:38:44Z
   Vendor: Seleção Brincatoys
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/cartao-oferta-selecao-brincatoys-1178702250.png?v=1760615395
-  - [€20](https://brincatoys.pt/products/cartao-presente?variant=45469558604040)
+  - [€20](https://brincatoys.pt/products/cartao-oferta?variant=45469558604040)
     Availability: Available
     Price: 20,00 € EUR
-  - [€30](https://brincatoys.pt/products/cartao-presente?variant=45469558636808)
+  - [€30](https://brincatoys.pt/products/cartao-oferta?variant=45469558636808)
     Availability: Available
     Price: 30,00 € EUR
-  - [€40](https://brincatoys.pt/products/cartao-presente?variant=45469558669576)
+  - [€40](https://brincatoys.pt/products/cartao-oferta?variant=45469558669576)
     Availability: Available
     Price: 40,00 € EUR
-  - [€50](https://brincatoys.pt/products/cartao-presente?variant=45469558702344)
+  - [€50](https://brincatoys.pt/products/cartao-oferta?variant=45469558702344)
     Availability: Available
     Price: 50,00 € EUR
-  - [€60](https://brincatoys.pt/products/cartao-presente?variant=45469558735112)
+  - [€60](https://brincatoys.pt/products/cartao-oferta?variant=45469558735112)
     Availability: Available
     Price: 60,00 € EUR
-  - [€80](https://brincatoys.pt/products/cartao-presente?variant=45469558767880)
+  - [€80](https://brincatoys.pt/products/cartao-oferta?variant=45469558767880)
     Availability: Available
     Price: 80,00 € EUR
-  - [€100](https://brincatoys.pt/products/cartao-presente?variant=45469558800648)
+  - [€100](https://brincatoys.pt/products/cartao-oferta?variant=45469558800648)
     Availability: Available
     Price: 100,00 € EUR
-  - [€150](https://brincatoys.pt/products/cartao-presente?variant=45469558833416)
+  - [€150](https://brincatoys.pt/products/cartao-oferta?variant=45469558833416)
     Availability: Available
     Price: 150,00 € EUR
 - [Bluey Passar a Encomenda](https://brincatoys.pt/products/bluey-passar-a-encomenda): Apresentamos o emocionante conjunto de brinquedos Bluey Passar a Encomenda, o presente ideal para fascinar e estimular a imaginação das crianças em idade pré-escolar! Quem será o sortudo que abrirá o pacote e ganhará o prêmio do jato d'água quando a música parar? Bluey e Bingo usam os seus chapéus de festa neste pacote divertido, além de 2 acessórios de jogo engraçados. Este conjunto é inspirado na popular série de animação australiana ‘Bluey’ e promete horas de jogo interativo e educativo para os mais pequenos. Incluído neste conjunto estão quatro figuras adoráveis representando as personagens favoritas do programa: Bluey, Bingo, o pai do Lucky e Lila, acompanhadas por acessórios temáticos que enriquecem a brincadeira. Ademais, as figuras são desenhadas com detalhes autênticos e vibrantes que capturam a essência de cada personagem. Elas possuem um tamanho adequado para mãos pequenas, facilitando o manuseio e o jogo seguro. Além disso, a durabilidade destes brinquedos é garantida pela sua construção em materiais de alta qualidade, não tóxicos e seguros para as crianças. Cada figura vem com articulações móveis, permitindo que as crianças posicionem e movimentem as personagens durante as suas aventuras imaginárias. Os acessórios incluídos não só complementam as figuras mas também incentivam o jogo de faz de conta, permitindo que as crianças recriem cenas da série ou inventem as suas próprias histórias. Além do mais, este conjunto não é apenas uma fonte de entretenimento, mas também contribui para o desenvolvimento de habilidades sociais e criativas, promovendo a interação entre pares e o jogo cooperativo. Em suma, é um produto imprescindível para fãs de Bluey, adequado para crianças a partir dos 3 anos de idade. É também um excelente presente de aniversário ou para qualquer ocasião especial. Em suma... Conjunto de brinquedos inspirado na série ‘Bluey’; Inclui 4 figuras de personagens e acessórios temáticos; Promove criatividade e habilidades sociais; Feito com materiais seguros e duráveis; Ideal para crianças a partir dos 3 anos. Dimensão: 23 x 16 x 6 cm. Idade Recomendada: + de 3 anos.
@@ -15140,14 +15140,14 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carros-disney-kay-pillar-550765124-0194735076512-cars-1178698713.jpg?v=1752931090
   Price: 11,99 € EUR
 - [Cartas Uno - The Amazing Spider-Man](https://brincatoys.pt/products/cartas-uno-the-amazing-spider-man): Mergulhe no universo do teu super-herói favorito com as Cartas Uno - The Amazing Spider-Man! Os fãs de The Amazing Spider-Man vão adorar jogar este jogo de cartas UNO temático. Com um baralho que apresenta gráficos inspirados nas personagens e cenas favoritas, os jogadores tentam fazer corresponder cores e números. Esta edição especial do clássico jogo de Cartas Uno traz a emociónante ação das aventuras do Homem-Aranha para o conforto da tua casa. Com ilustrações vibrantes retratando o icónico Homem-Aranha e seus inimigos, cada jogo de Cartas Uno - The Amazing Spider-Man torna-se uma batalha épica de estratégia e sorte. A caixa contém um deck personalizado de 112 cartas, cada uma adornada com imagens vívidas que capturam a essência do mundo do Spider-Man. Além das regras tradicionais do jogo de Cartas Uno, esta versão especial introduz uma regra única que adiciona uma reviravolta temática ao jogo. Os jogadores poderão empregar poderes especiais, tal como o Spidey Swing, para ganhar vantagem sobre os adversários. Esta adição garantirá que cada jogo seja uma experiência nova e excitante, perfeito tanto para fãs do Uno quanto do Homem-Aranha. Desenhado para entusiastas de todas as idades, é adequado para jogadores a partir dos 7 anos, tornando-se um item essencial para noites de jogos em família. Concebido para 2 a 10 jogadores o jogo de cartas coleccionável é um excelente presente para os fãs da série de banda desenhada da Marvel! Além disso, a embalagem prática e durável mantém tuas cartas seguras e organizadas, seja em casa ou em viagem. Utilizando ou não a regra especial de "Web Swing" que pode acabar por saltar vários jogadores, quando faltar a última carta, não te esqueças de gritar "UNO! Em suma... Edição especial Uno com tema The Amazing Spider-Man. Regra única para uma nova dimensão estratégica. Ilustrações dinâmicas e cartas personalizadas. Dimensão: 9 x 14,50 x 2 cm. Idade recomendada: + de 7 anos.
-  Updated: 2025-10-13T06:20:05Z
+  Updated: 2025-10-20T17:44:15Z
   Vendor: UNO
   Product Type: + 7 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/cartas-uno-the-amazing-spider-man-232414124-0194735241415-uno-1178698721.jpg?v=1752795854
   Price: 14,99 € EUR
 - [Five Nights at Freddy's - Arctic Ballora](https://brincatoys.pt/products/five-nights-at-freddys-ballora): Mergulhe no universo arrepiante de Five Nights at Freddy's com a mais recente adição à sua coleção: da figura de ação "Arctic Ballora"! Inicialmente a figura Five Nights at Freddy's - Arctic Ballora cativa pela sua tonalidade gélida, evocando as frias paisagens árticas que inspiram o seu nome. Ballora, conhecida pelos fãs pela sua dança sinistra e olhar misterioso, surge aqui numa edição espetacular que irá deslumbrar tanto colecionadores como entusiastas da série. Com detalhes intrincados e cores que capturam imediatamente a atenção, esta fiigura Five Nights at Freddy's é fiel ao design original, mostrando uma dedicação ao realismo que qualquer fã apreciará. Desde os alongados cílios até aos intrincados enfeites de gelo que adornam o seu vestuário, cada elemento é elaborado com esmero, garantindo uma réplica excepcional do personagem icónico. A poseabilidade desta figura é outra característica a destacar, permitindo recriar as poses mais memoráveis do jogo ou inventar novas cenas assustadoras. Adicionalmente, esta edição limitada da Funko enriquece o valor de colecionador, transformando a Arctic Ballora numa peça cobiçada por admiradores e colecionadores da franquia. Ao adquiri-la, estará não só a comprar um simples objeto colecionável, mas uma peça de arte que carrega consigo uma atmosfera única e uma história própria no universo de Five Nights at Freddy's. Outro ponto forte é o compromisso com a qualidade e a segurança, refletido nas recomendações de idade e avisos claros na embalagem, tornando este produto um presente ideal tanto para jovens fãs quanto para adultos colecionadores. Adicione um toque congelante à sua coleção com a figura Five Nights at Freddy's Arctic Ballora da Funko. Um must-have para fãs e colecionadores! Em suma... Figura de ação colecionável Arctic Ballora da Funko. Fiel aos detalhes e design original do jogo Five Nights at Freddy's. Edição limitada com grande potencial de valorização. Alta poseabilidade para recriação de cenas do jogo. Atende a padrões de qualidade e segurança. Dimensão: 15 x 22,50 x 5 cm. Idade recomendada: + de 8 anos.
-  Updated: 2025-10-16T18:42:46Z
+  Updated: 2025-10-20T19:53:55Z
   Vendor: Five Nights at Freddy's
   Product Type: + 8 anos
   Availability: Available
@@ -16358,7 +16358,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-friends-42623-mota-de-agua-de-praia-diversao-aquatica-664262324-5702017589411-lego-1178699808.jpg?v=1752947302
   Price: 12,00 € EUR
 - [Lego Friends 42635 - Cabeleireiro Móvel para Cães](https://brincatoys.pt/products/lego-friends-42635-cabeleireiro-movel-para-caes): Descubra o Lego Friends 42635, um conjunto de cabeleireiro móvel para cães que combina jogo e educação. Perfeito para crianças amantes de animais.
-  Updated: 2025-10-13T06:18:36Z
+  Updated: 2025-10-20T17:50:04Z
   Vendor: LEGO
   Product Type: + 4 anos
   Availability: Available
@@ -17401,7 +17401,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/monster-jam-marvel-black-panther-774685924-brincatoys-1178700580.jpg?v=1752958085
   Price: 11,99 € EUR
 - [Puzzle em Cubos de Madeira - Animais | Brinquedo Educativo](https://brincatoys.pt/products/puzzle-em-cubos-de-madeira-animais): Explore o Puzzle em Cubos de Madeira - Animais da Vilac. Brinquedo educativo para crianças 1+, estimula criatividade e habilidades motoras.
-  Updated: 2025-10-13T06:17:24Z
+  Updated: 2025-10-20T19:38:26Z
   Vendor: Seleção Brincatoys
   Product Type: + 2 anos
   Availability: Available
@@ -17919,7 +17919,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-disney-princess-43216-viagem-encantada-das-princesas-664321624-5702017424835-lego-1178701007.jpg?v=1752964815
   Price: 68,90 € EUR
 - [Lego City 60374 Camião de Controlo de Incêndios](https://brincatoys.pt/products/lego-city-camiao-de-controlo-de-incendios): Prepare-se para o combate a incêndios com o LEGO City 60374 Camião de Controlo de Incêndios. Múltiplas formas de intervenção e cenários realistas.
-  Updated: 2025-10-13T06:16:47Z
+  Updated: 2025-10-20T17:44:31Z
   Vendor: LEGO
   Product Type: + 7 anos
   Availability: Available
@@ -17975,7 +17975,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-harry-potter-76435-o-castelo-de-hogwarts-o-grande-salao-667643524-5702017583150-lego-1178701035.jpg?v=1752965296
   Price: 204,90 € EUR
 - [Five Nights At Freddys - Dreadbear: Colecionável de Ação](https://brincatoys.pt/products/five-nights-at-freddys-dreadbear): Reviva as cenas icônicas de Five Nights At Freddys - Dreadbear. A figura detalhada e articulada, é perfeita para sua coleção. 🐻
-  Updated: 2025-10-13T06:16:44Z
+  Updated: 2025-10-20T17:44:21Z
   Vendor: Five Nights at Freddy's
   Product Type: + 8 anos
   Availability: Available
@@ -18605,7 +18605,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/hot-wheels-nissan-z-gt4-2023-detalhes-realistas-238684625-0194735186846-hot-wheels-1178701469.jpg?v=1752971657
   Price: 15,99 € EUR
 - [Hot Wheels - Corvette C8.R: Miniatura de Corrida Detalhada](https://brincatoys.pt/products/hot-wheels-corvette-c8-r): Descubra a miniatura do Hot Wheels - Corvette C8.R, perfeita para colecionadores e amantes do automobilismo. Adquira já o seu!
-  Updated: 2025-10-13T06:15:59Z
+  Updated: 2025-10-20T17:45:34Z
   Vendor: Hot Wheels
   Product Type: + 3 anos
   Availability: Available
@@ -19060,7 +19060,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-marvel-76307-robo-do-iron-man-contra-ultron-acao-667630725-5702017817804-lego-1178701777.png?v=1752976935
   Price: 17,50 € EUR
 - [LEGO Marvel 76309 Spider-Man contra Muscle Car do Venom](https://brincatoys.pt/products/lego-marvel-spider-man-contra-muscle-car-do-venom): Prepare-se para uma batalha épica com o LEGO Marvel 76309 Spider-Man contra Muscle Car do Venom! Inclui três minifiguras e aventura eletrizante.
-  Updated: 2025-10-13T06:15:29Z
+  Updated: 2025-10-20T17:44:35Z
   Vendor: LEGO
   Product Type: + 7 anos
   Availability: Available
@@ -19487,7 +19487,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/toy-story-buzz-lightyear-aventura-intergalactica-774595225-0194735045952-toy-story-1178702054.jpg?v=1752981486
   Price: 29,99 € EUR
 - [Jogo de cartas Uno da Mattel – Diversão Garantida](https://brincatoys.pt/products/jogo-de-cartas-uno-1): Descubra a emoção do Jogo de cartas Uno da Mattel, o clássico favorito repleto de estratégia e surpresas. Diversão para Toda a Família!
-  Updated: 2025-10-20T12:05:56Z
+  Updated: 2025-10-20T19:43:35Z
   Vendor: UNO
   Product Type: + 7 anos
   Availability: Available
@@ -20182,7 +20182,7 @@ Figura em borracha termoplástica do filme Branca de neve e os sete anões.Figur
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/figura-peppa-pig-zoe-zebra-629015322-peppa-pig-1178693606.jpg?v=1752841326
   Price: 7,50 € EUR
 - [Hot Wheels - Mercedes-Benz E 36 AMG Fast Wagons](https://brincatoys.pt/products/hot-wheels-mercedes-benz-e-36-amg-fast-wagons): Descubra o modelo incrível Hot Wheels - Mercedes-Benz E 36 AMG Fast Wagons com um design detalhado e performance realista. Adicione à sua coleção agora!
-  Updated: 2025-10-13T06:14:17Z
+  Updated: 2025-10-20T17:45:26Z
   Vendor: Hot Wheels
   Product Type: + 3 anos
   Availability: Available
@@ -20413,7 +20413,7 @@ Figura em borracha termoplástica do filme Branca de neve e os sete anões.Figur
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/transformers-age-of-the-primes-alchemist-prime-exclusivo-861026525-5010996327154-transformers-1184071130.jpg?v=1756214538
   Price: 36,50 € EUR
 - [Transformers Age of The Primes - Decepticon Crasher: Ação](https://brincatoys.pt/products/transformers-age-of-the-primes-decepticon-crasher): Desperte o colecionador em você com o Transformers Age of The Primes - Decepticon Crasher! A figura perfeita para batalhas épicas! 🚀
-  Updated: 2025-10-20T14:17:25Z
+  Updated: 2025-10-20T17:50:56Z
   Vendor: Transformers
   Product Type: + 8 anos
   Availability: Available
@@ -20588,14 +20588,14 @@ Figura em borracha termoplástica do filme Branca de neve e os sete anões.Figur
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/brinquedo-para-bebe-telefone-unicornio-820541024-2600000-brincatoys-1178695471.jpg?v=1752875536
   Price: 24,50 € EUR
 - [Lego Speed Champions 76916 Porsche 963: Detalhes Incríveis](https://brincatoys.pt/products/lego-speed-champions-porsche-963-copia): Monte seu próprio  Lego Speed Champions 76916 Porsche 963! Apaixone-se pela réplica detalhada e sinta a emoção das pistas de Le Mans. 🏁
-  Updated: 2025-10-13T06:13:57Z
+  Updated: 2025-10-20T18:23:55Z
   Vendor: LEGO
   Product Type: + 9 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-speed-champions-76916-porsche-963-detalhes-incriveis-667691623-5702017424200-lego-1178696113.jpg?v=1752887048
   Price: 26,99 € EUR
 - [Transformers Age of The Primes - Excellion em Ação](https://brincatoys.pt/products/transformers-age-of-the-primes-excellion): Leva a ação dos Autobots para casa com o Transformers Age of The Primes - Excellion! Transforme-o em 17 passos e divirta-se! 🚗
-  Updated: 2025-10-13T06:13:57Z
+  Updated: 2025-10-20T19:20:01Z
   Vendor: Transformers
   Product Type: + 8 anos
   Availability: Available
@@ -21380,22 +21380,22 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-20T12:13:11Z
   Total Products: 1293
 - [Até €25](https://brincatoys.pt/collections/ate-25)
-  Updated: 2025-10-20T12:13:11Z
+  Updated: 2025-10-20T16:24:05Z
   Total Products: 2398
 - [Até €35](https://brincatoys.pt/collections/ate-35)
-  Updated: 2025-10-20T12:13:11Z
+  Updated: 2025-10-20T16:24:05Z
   Total Products: 2861
 - [Até €50](https://brincatoys.pt/collections/ate-50)
-  Updated: 2025-10-20T12:13:11Z
+  Updated: 2025-10-20T16:24:05Z
   Total Products: 3243
 - [Até €60](https://brincatoys.pt/collections/ate-60)
-  Updated: 2025-10-20T12:13:11Z
+  Updated: 2025-10-20T16:24:05Z
   Total Products: 3378
 - [Até €80](https://brincatoys.pt/collections/ate-80)
-  Updated: 2025-10-20T12:13:11Z
+  Updated: 2025-10-20T16:24:05Z
   Total Products: 3457
 - [Até €100](https://brincatoys.pt/collections/ate-100)
-  Updated: 2025-10-20T12:13:11Z
+  Updated: 2025-10-20T16:24:05Z
   Total Products: 3506
 - [Novidades](https://brincatoys.pt/collections/novidades)
   Updated: 2025-10-19T18:49:36Z
@@ -21623,10 +21623,10 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-19T09:15:50Z
   Total Products: 86
 - [Os mais procurados](https://brincatoys.pt/collections/os-mais-populares)
-  Updated: 2025-10-20T12:13:11Z
+  Updated: 2025-10-20T16:24:05Z
   Total Products: 3540
 - [Recém-chegados](https://brincatoys.pt/collections/recem-chegados)
-  Updated: 2025-10-20T12:13:11Z
+  Updated: 2025-10-20T16:24:05Z
   Total Products: 3540
 - [Produtos em destaque](https://brincatoys.pt/collections/produtos-em-destaque)
   Updated: 2025-10-19T11:18:25Z
@@ -21638,8 +21638,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-19T09:15:50Z
   Total Products: 6
 - [OrderlyEmails - Recommended Products](https://brincatoys.pt/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-10-20T12:46:52Z
-  Total Products: 3063
+  Updated: 2025-10-20T17:45:05Z
+  Total Products: 3061
 - [Girafa Sofia](https://brincatoys.pt/collections/girafa-sofia)
   Updated: 2025-10-19T09:15:51Z
   Total Products: 19
@@ -21647,8 +21647,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-19T09:15:51Z
   Total Products: 126
 - [Marketplace](https://brincatoys.pt/collections/marketplace)
-  Updated: 2025-10-20T12:46:52Z
-  Total Products: 3063
+  Updated: 2025-10-20T17:45:06Z
+  Total Products: 3061
 - [EzConnector](https://brincatoys.pt/collections/ezconnector)
   Updated: 2025-10-20T15:45:45Z
   Total Products: 909
@@ -21672,8 +21672,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-09-12T12:36:48Z
 - [Termos e condições do Brinca Prime](https://brincatoys.pt/pages/termos-e-condicoes-do-brinca-prime): Última atualização: 19 de outubro de 2025 O “Brinca Prime” é o programa de fidelização da loja online Brincatoys, promovido por Brincadeiras ao Cub...
   Updated: 2025-10-19T16:34:30Z
-- [Categorias de Brinquedos](https://brincatoys.pt/pages/categorias-de-brinquedos): 
-  Updated: 2024-05-13T18:09:55Z
+- [Categorias de Brinquedos](https://brincatoys.pt/pages/categorias): 
+  Updated: 2025-10-20T19:15:12Z
 - [Bonecas e Acessórios - Encontre o Presente Perfeito](https://brincatoys.pt/pages/bonecas-e-acessorios): 
   Updated: 2024-05-13T17:33:42Z
 - [Primeira Infância - Brinquedos Educativos](https://brincatoys.pt/pages/primeira-infancia): 
@@ -21687,19 +21687,13 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
 - [As perguntas mais frequentes dos nossos clientes](https://brincatoys.pt/pages/perguntas-frequentes): 
   Updated: 2024-10-16T19:44:17Z
 - [Pedido de Devolução](https://brincatoys.pt/pages/pedido-de-devolucao): 
-  Updated: 2025-03-14T13:37:58Z
+  Updated: 2025-10-20T17:34:07Z
 - [A Nossa História - A Loja de Brinquedos com Tradição](https://brincatoys.pt/pages/a-nossa-historia): 
   Updated: 2024-09-04T10:27:07Z
-- [Zona de Diversão para Crianças](https://brincatoys.pt/pages/zona-de-diversao): 
-  Updated: 2024-05-13T22:41:08Z
-- [Sugestões de Produtos para crianças](https://brincatoys.pt/pages/sugestoes-de-produtos): 
-  Updated: 2024-05-13T22:49:51Z
-- [Os Nossos Contactos - Fale Connosco](https://brincatoys.pt/pages/contactos): 
-  Updated: 2024-05-13T22:19:13Z
-- [Formulário para Empresas com Número VIES](https://brincatoys.pt/pages/formulario-para-empresas-com-numero-vies)
-  Updated: 2025-03-16T19:25:13Z
-- [Encontre uma loja](https://brincatoys.pt/pages/encontre-uma-loja): #progus-store-locator{width: 90vw !important;margin-left: calc(50% - 45vw) !important;margin-right: calc(50% - 45vw) !important;box-sizing: border-...
-  Updated: 2025-10-19T17:24:23Z
+- [Apoio ao cliente](https://brincatoys.pt/pages/apoio-ao-cliente)
+  Updated: 2025-10-20T17:51:28Z
+- [Brinca Prime](https://brincatoys.pt/pages/brinca-prime)
+  Updated: 2025-10-20T19:43:03Z
 
 ## Policies
 
