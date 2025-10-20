@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-07-19T18:27:19Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-10-20T00:00:35.886Z
+- Updated At: 2025-10-20T04:00:37.181Z
 
 ## Products
 
@@ -833,7 +833,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/White.jpg?v=1757517222
     Price: $1.00 USD
 - [Brocade Velvet Fabric - Home Décor | Fabrics Star](https://fabricsstar.com/products/brocade-scroll-velvet-fabric): Add a touch of sophistication to your upholstery projects with Brocade Scroll Velvet Fabric from Fabrics Star. Buy brocade velvet fabric for premium quality fabric.
-  Updated: 2025-10-17T18:52:13Z
+  Updated: 2025-10-20T02:26:22Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -4205,7 +4205,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CARNATION-BLUE-D-19E.jpg?v=1757517907
     Price: $1.00 USD
 - [Digital Print Fabric - Cotton Hand - 58 Inch. in Width, | Home Decor](https://fabricsstar.com/products/digital-print-fabric-cotton-hand-58-inch-in-width-home-decor): DIMENSION - Size of the fabric is 58 Inch. in width. fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 58' x 36'. Order of 3 yards (Qty=3) is 58’ x 108' Orders can be customized to be cut in pieces by request. MATERIAL – Digital Print Fabric by the yard is medium weight and made of 100% polyester. PRINT: Experience the beauty and elegance of our fabric with its stunning digital print! Perfect for any occasion, it will add a touch of sophistication to your gatherings. USEFUL - Ideal Material for Tablecloths, Upholstery for chairs, drapery, pillows, slipcovers, sewing, DIY, handbags, tote bags, arts & crafts Etc. CARE - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-09-16T00:42:57Z
+  Updated: 2025-10-20T02:44:17Z
   Vendor: Fabrics Star
   Product Type: Digital Print Fabric
   Availability: Available
