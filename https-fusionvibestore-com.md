@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-09-05T06:24:05Z
 - Contact Email: fusionvibestoreofficial@gmail.com
-- Updated At: 2025-10-17T20:00:31.469Z
+- Updated At: 2025-10-20T20:00:32.507Z
 
 ## Products
 
@@ -41,19 +41,12 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/a8bf7a9a-6417-44bb-87a9-5c236807c372.jpg?v=1757311437
     Price: $19.00 USD
 - [Self-Stirring Magnetic Mug | Automatic Stirring Coffee Cup (14oz/400ml)](https://fusionvibestore.com/products/self-stirring-magnetic-mug): Never stir your coffee again! This self-stirring mug uses a magnetic mechanism to mix your drink perfectly. Great for coffee, hot chocolate, and protein shakes. A perfect gift idea!
-  Updated: 2025-10-14T08:53:11Z
+  Updated: 2025-10-18T13:48:37Z
   Vendor: z60ja0-0n
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/5043419837.jpg?v=1757492266
   Price: $12.38 USD
-- [Professional Electronic Pedicure Tool | Callus & Dead Skin Remover](https://fusionvibestore.com/products/electronic-pedicure-tool): Salon-quality pedicures at home! This electronic pedicure tool safely and effectively removes calluses and dead skin. Leaves your feet feeling soft and smooth. Order now.
-  Updated: 2025-10-14T07:50:11Z
-  Vendor: z60ja0-0n
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/4981101820.jpg?v=1757492380
-  Price: $9.56 USD
 - [Women's Long Sleeve Casual Dress | Fashion Everyday & Office Wear](https://fusionvibestore.com/products/womens-long-sleeve-fashion-casual-dress): Stay stylish and comfortable. This women's long sleeve casual dress is perfect for everyday wear, the office, or a day out. Flattering fit and versatile design. Shop the collection now. Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: 1* Dress Product Image:
   Updated: 2025-10-06T09:56:37Z
   Vendor: FusionVibestore
@@ -315,7 +308,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/05e85101-ae3e-4b27-976e-09eccfa2ead9.jpg?v=1758013080
     Price: $75.35 USD
 - [Portable Air Cooler Fan with Water Cooling | Personal Evaporative Cooler for Room & Office](https://fusionvibestore.com/products/air-conditioner-air-cooler-fan-water-cooling-fan-air-conditioning-for-room-office-portable-air-conditioner-cars): Beat the heat! This portable air cooler uses water evaporation to provide powerful, energy-efficient cooling. Ideal for your bedroom, office, or small space. Stay cool and save money. Buy now. Product information: Power type: USB Color: Ivory White Rated Power: 25W Specification: 167*225 * 120mm Operation mode: touchscreen Motor type: brushed motor Additional functions: cooling with ice water Fan Speed Mode: 2 gearCold air fan parameters: L7 Power: 25W Battery capacity: 1800 mA Charging time: 2.5-3H Range time: 1-6 hours in first gear, -3 hours in strong gear Gear position: Fan 2nd gear, atomization 1st gear continuous, 2nd gear 5 seconds indirectPacking list: Fan+data cable*1 Product Image:
-  Updated: 2025-10-15T06:27:02Z
+  Updated: 2025-10-20T02:29:37Z
   Vendor: z60ja0-0n
   Product Type: Gadgets
   Availability: Available
@@ -661,7 +654,7 @@
     Availability: Available
     Price: $100.00 USD
 - [Women Retro Sunglasses](https://fusionvibestore.com/products/women-retro-sunglasses): Product information: Frame material: metal Lens color: grey, tawny Frame color: gold, silver Polarization or not: No Glasses structure: frame Glasses style: round frame
-  Updated: 2025-10-06T09:56:39Z
+  Updated: 2025-10-20T15:27:23Z
   Vendor: FusionVibestore
   Product Type: Sunglasses
   Availability: Available
@@ -1116,7 +1109,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/O1CN01EtIKj92IMdN8kpURB__2218673939272-0-cib.jpg?v=1759739185
     Price: $15.45 USD
 - [Magic Flying Fairy Magic Flying](https://fusionvibestore.com/products/magic-flying-fairy-magic-flying): Product Name - Magic Flying Fairy Princess DollPackage Contain - Pack of 1Material - Others Weight - 300Dimension - 9*9*6
-  Updated: 2025-10-17T17:19:41Z
+  Updated: 2025-10-20T17:19:07Z
   Vendor: z60ja0-0n
   Product Type: 
   Availability: Available
@@ -1370,6 +1363,60 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/0761bac7-3a07-49d0-93e3-fcc908da3a7a.jpg?v=1760114372
     Price: $38.89 USD
+- [Halloween Cloak Costumes Wizard Cloak For Children Hooded Capes Mantle Black Party Decoration](https://fusionvibestore.com/products/halloween-cloak-costumes-wizard-cloak-for-children-hooded-capes-mantle-black-party-decoration): Overview: 1. It is all around perfect and of good quality. 2. Unisex Christmas Halloween Witch Party Reversible Hooded Adult Vampire Cape Cloak. 3. Perfect for any dress-up, role play, Halloween photos, costume parties stage costumes, or playing shows. Product Information: Color: black, gold, purple Size: 90cm,120cm,140cm,150cm Material: Satin Craft: Sewing Packing List: Cloak X1 Product Image:
+  Updated: 2025-10-20T02:16:09Z
+  Vendor: z60ja0-0n
+  Product Type: BAGS
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/4b7adf52-f27b-4859-906b-323bf674a6a7.jpg?v=1760883362
+  - [Black / 120cm](https://fusionvibestore.com/products/halloween-cloak-costumes-wizard-cloak-for-children-hooded-capes-mantle-black-party-decoration?variant=45655617601735)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/2feed7c1-099c-40b2-b067-e97b5f0aa695.jpg?v=1760883366
+    Price: $12.00 USD
+  - [Black / 140cm](https://fusionvibestore.com/products/halloween-cloak-costumes-wizard-cloak-for-children-hooded-capes-mantle-black-party-decoration?variant=45655617634503)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/2feed7c1-099c-40b2-b067-e97b5f0aa695.jpg?v=1760883366
+    Price: $12.00 USD
+  - [Black / 150cm](https://fusionvibestore.com/products/halloween-cloak-costumes-wizard-cloak-for-children-hooded-capes-mantle-black-party-decoration?variant=45655617667271)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/2feed7c1-099c-40b2-b067-e97b5f0aa695.jpg?v=1760883366
+    Price: $12.00 USD
+  - [Black / 90cm](https://fusionvibestore.com/products/halloween-cloak-costumes-wizard-cloak-for-children-hooded-capes-mantle-black-party-decoration?variant=45655617700039)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/2feed7c1-099c-40b2-b067-e97b5f0aa695.jpg?v=1760883366
+    Price: $12.00 USD
+  - [Gold / 120cm](https://fusionvibestore.com/products/halloween-cloak-costumes-wizard-cloak-for-children-hooded-capes-mantle-black-party-decoration?variant=45655617732807)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/e512c146-593e-4db6-ba38-217cd0bac015.jpg?v=1760883366
+    Price: $12.00 USD
+  - [Gold / 140cm](https://fusionvibestore.com/products/halloween-cloak-costumes-wizard-cloak-for-children-hooded-capes-mantle-black-party-decoration?variant=45655617765575)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/e512c146-593e-4db6-ba38-217cd0bac015.jpg?v=1760883366
+    Price: $12.00 USD
+  - [Gold / 150cm](https://fusionvibestore.com/products/halloween-cloak-costumes-wizard-cloak-for-children-hooded-capes-mantle-black-party-decoration?variant=45655617798343)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/e512c146-593e-4db6-ba38-217cd0bac015.jpg?v=1760883366
+    Price: $12.00 USD
+  - [Gold / 90cm](https://fusionvibestore.com/products/halloween-cloak-costumes-wizard-cloak-for-children-hooded-capes-mantle-black-party-decoration?variant=45655617831111)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/e512c146-593e-4db6-ba38-217cd0bac015.jpg?v=1760883366
+    Price: $12.00 USD
+  - [Purple / 120cm](https://fusionvibestore.com/products/halloween-cloak-costumes-wizard-cloak-for-children-hooded-capes-mantle-black-party-decoration?variant=45655617863879)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/a209d6a9-eaf9-44e2-aae6-88f261acb0d7.jpg?v=1760883366
+    Price: $12.00 USD
+  - [Purple / 140cm](https://fusionvibestore.com/products/halloween-cloak-costumes-wizard-cloak-for-children-hooded-capes-mantle-black-party-decoration?variant=45655617896647)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/a209d6a9-eaf9-44e2-aae6-88f261acb0d7.jpg?v=1760883366
+    Price: $12.00 USD
+  - [Purple / 150cm](https://fusionvibestore.com/products/halloween-cloak-costumes-wizard-cloak-for-children-hooded-capes-mantle-black-party-decoration?variant=45655617929415)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/a209d6a9-eaf9-44e2-aae6-88f261acb0d7.jpg?v=1760883366
+    Price: $12.00 USD
+  - [Purple / 90cm](https://fusionvibestore.com/products/halloween-cloak-costumes-wizard-cloak-for-children-hooded-capes-mantle-black-party-decoration?variant=45655617962183)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/a209d6a9-eaf9-44e2-aae6-88f261acb0d7.jpg?v=1760883366
+    Price: $12.00 USD
 
 ## Collections
 
