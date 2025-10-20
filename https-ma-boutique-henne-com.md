@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2018-01-12T21:20:39Z
 - Contact Email: contact@ma-boutique-henne.com
-- Updated At: 2025-10-19T20:00:40.384Z
+- Updated At: 2025-10-20T00:00:41.614Z
 
 ## Products
 
@@ -498,13 +498,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/p_1.jpeg?v=1545300189
   Price: 9,50 € EUR
-- [Aloe Véra en Poudre - HennaFox](https://ma-boutique-henne.com/products/aloe-vera-en-poudre-100gr): Poudre Aloe Vera feuille, henna fox, henné d'algérie, hydratation, peau, cheveux, corps, nourrit, assainit le cuir chevelu, traite les affections, pellicules, cheveux rouge cerise, henné de gabès, brillance, douceur, doux, soin capillaire, soyeux, henné, secs, phitofilos, curiosa neways, ayurvédique, vegan, neem, sidr
-  Updated: 2025-10-10T21:18:01Z
-  Vendor: Ma Boutique Henné
-  Product Type: Poudre de soin
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/2730/3378/products/polvo-gel-aloe-vera.jpg?v=1554384272
-  Price: 10,90 € EUR
 - [Poudre de Brahmi - Phitofilos](https://ma-boutique-henne.com/products/poudre-de-brahmi-100gr): Poudre Brahmi, brami, phitofilos, bacopa, amla, fonce, foncer, cheveux brun, brune, chatain, neutraliser roux, cuivré, noisette, coloration, rouge cerise, henné naturel, brillance, nourrit, démêle, hydrate, hydratation hydrater, chevelure, soin capillaire, cheveux châtain, soin capillaire, bio, vegan, boutique henné
   Updated: 2025-08-30T15:52:25Z
   Vendor: Ma Boutique Henné
@@ -1775,7 +1768,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/henne-blond-dore.png?v=1605703923
   Price: 19,50 € EUR
 - [Henné Rouge Renforcé Intense - Exclusivité Ma Boutique Henné](https://ma-boutique-henne.com/products/henne-rouge-renforce): Henné rouge renforcé intense, coloration cheveux rouges, flamboyant, 1,5% sodium picramate (taux réduit pour préserver votre santé) couvre les cheveux blancs, temps de pose réduit et soin des cheveux, auburn, bordeaux
-  Updated: 2025-10-19T16:17:35Z
+  Updated: 2025-10-19T21:33:15Z
   Vendor: Ma Boutique Henné
   Product Type: Henné
   Availability: Available
@@ -1859,7 +1852,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/arte-d-erbe-impacco-lavante.jpg?v=1629905365
   Price: 13,00 € EUR
 - [Henné Rouge Violine ULTRA Froid - Le Erbe Di Janas](https://ma-boutique-henne.com/products/henne-rouge-violine-ultra-froid-le-erbe-di-janas): Henné Rouge Violine ultra Froid Le Erbe di Janas, henne rosso ultra freddo, ultra cold shades red coloration rouge cerise, henné violine,  soigne et apaise le cuir chevelu, brillance, volume, couvre cheveux blancs et gris, brillance cheveux châtains , soin capillaire et coloration, plantes henné, henné d'algérie
-  Updated: 2025-10-05T21:06:13Z
+  Updated: 2025-10-19T21:33:15Z
   Vendor: Ma Boutique Henné
   Product Type: Henné
   Availability: Available
