@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-10-19T20:00:48.314Z
+- Updated At: 2025-10-20T00:00:48.507Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -4061,7 +4061,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £240.00 GBP
 - [Blue Topaz Vintage Heart Locket | Free Photos | Lily Blanche](https://www.lilyblanche.com/products/blue-topaz-vintage-heart-locket-white-gold): Looking for a personalised gift? Keep your loved ones close with this Blue Topaz Vintage Heart Locket in white gold. Featuring a heart-shaped blue topaz gemstone. Let us fill your locket for free with 2 photos for a personalised locket you'll love. Hallmarked in Edinburgh. Buy online today with Free UK Shipping.
-  Updated: 2025-10-18T06:13:35Z
+  Updated: 2025-10-19T23:17:55Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -9854,7 +9854,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £160.00 GBP
 - [Belcher Chain Solid Silver](https://www.lilyblanche.com/products/belcher-chain-silver): This strong sterling silver heavy-weight belcher chain is a statement chain which will elevate your locket or pendant and add an extra dimension to your look. Order today and receive a free jewellery care kit
-  Updated: 2025-10-18T16:05:11Z
+  Updated: 2025-10-19T20:42:05Z
   Vendor: Lily Blanche
   Product Type: Choose Your Chain
   Availability: Available
@@ -16916,7 +16916,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £630.00 GBP
 - [Men's St Christopher Necklace In Silver & Free Engraving & Stylish](https://www.lilyblanche.com/products/mens-st-christopher-necklace-silver): Buy Men's St Christopher Necklaces at Lily Blanche. Our stylish silver St Christopher men's necklace comes with different chain lengths to suit your outfit choices. Uplift your fashion fits today with our popular men's necklaces. Shop & save on quality jewellery with Lily Blanche.
-  Updated: 2025-10-11T17:11:05Z
+  Updated: 2025-10-19T20:39:51Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -22841,7 +22841,7 @@ From £190.
     Availability: Available
     Price: £240.00 GBP
 - [Men's Heavy Gold Cross Necklace – Strong, Stylish & Durable](https://www.lilyblanche.com/products/mens-heavy-gold-cross-necklace): Expertly crafted men's heavy cross necklace in 18-carat gold vermeil. High-quality, precision design, & lasting durability. A bold & timeless statement piece.
-  Updated: 2025-10-16T23:57:21Z
+  Updated: 2025-10-19T22:42:26Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
