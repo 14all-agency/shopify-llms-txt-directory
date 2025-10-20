@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-10-19T20:00:43.194Z
+- Updated At: 2025-10-20T04:00:43.411Z
 
 ## Products
 
@@ -305,7 +305,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/silverlined-latex-gloves-powder-free-yellow-m-300mm-cuff-700g-192-gloves-latex-examination-gloves-essential-supplies-757879.jpg?v=1719445793
   Price: $149.00 NZD
 - [Silverlined Latex Gloves Powder Free - Yellow, S, 300mm Cuff, 70.0g - 192 Gloves](https://essentialsupplies.co.nz/products/silverlined-latex-gloves-powder-free-yellow-s-300mm-cuff-70-0g-192): Blue silverlined rubber gloves designed for easy-on-easy off removal.Featuring sand pitch anti-slip pattern for enhanced grip in wet and dry conditions and chlorinated for low ex-tractable proteins and residual chemicals. Compliant with FDA regulation for use in repeated contact with food 300mm cuff 70.0g Colour: Yellow Size: Small Pack:96 packs x 2's (192 gloves) Note:*Other sizes available: Medium, Large, Extra Large, Extra Extra Large (2XL)
-  Updated: 2025-02-14T05:51:30Z
+  Updated: 2025-10-19T22:43:01Z
   Vendor: Mattews Packaging
   Product Type: Latex Examination Gloves
   Availability: Available
@@ -1663,7 +1663,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/fp-polyethylene-bag-clear-900mm-x-1200mm-x-40mu-200-pieces-polyethylene-bags-essential-supplies-150058.jpg?v=1719445082
   Price: $171.00 NZD
 - [Low Lint Dry Wipes - White, 300mm x 500mm, 90 Sheets, 80gsm - 4 Rolls - *Ultra Low Lint](https://essentialsupplies.co.nz/products/low-lint-dry-wipes-white-300mm-x-500mm-90-sheets-80gsm-4-ultra-low-lint): Low lint dry wipes with a high tear strength and high absorption rate are designed for sensitive cleaning areas.These wipes are made from a 70gsm, 50% wood pulp / 50% polyester mix. Available in a perforated on roll packing format which provides protection from workplace moisture and contaminants. Premium tear & absorption rates High tear strength and high absorption rate Made from 70gsm, 50% wood pulp / 50% polyester mix Designed for sensitive cleaning areas Tissue size: 300mm x 500mm Roll length: 90 sheets Pack: 4 rolls Colour: White
-  Updated: 2025-01-10T00:06:13Z
+  Updated: 2025-10-20T00:42:13Z
   Vendor: Mattews Packaging
   Product Type: Dry Wipes
   Availability: Available
@@ -2538,7 +2538,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/message-tape-sold-whitered-24mm-x-100m-x-50mu-printed-message-tape-essential-supplies-539497.jpg?v=1719445337
   Price: $3.00 NZD
 - [POR Recycled Bin Liner 36L - White, 580mm x 700mm x 15mu - 1450 Pieces - *Peach Scented*](https://essentialsupplies.co.nz/products/por-recycled-bin-liner-36l-white-580mm-x-700mm-x-15mu-1450-peach-scented): Produced from post consumer waste.Recycled rubbish bin liners combine puncture strength and versatility to provide reliable, economical protection against leaking and odours.These bags are produced from post consumer plastic, which is then recycled and made into new bags. Recycled bin liners are the most cost effective as they reduce environmental impact, save energy and preserve natural resources. Capacity: 36 Litres 580mm x 700mm x 15mu 50 bags per roll Pack of: 1450 pieces
-  Updated: 2025-01-10T00:09:04Z
+  Updated: 2025-10-20T03:43:35Z
   Vendor: Mattews Packaging
   Product Type: Office Bin Liners
   Availability: Available
@@ -4874,7 +4874,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/antibacterial-textile-wipes-green-400mm-x-400mm-140gsm-10-sheets-textile-dry-wipes-essential-supplies-681430.jpg?v=1719444754
   Price: $29.00 NZD
 - [Antibacterial Textile Wipes - Pink, 400mm x 400mm, 140gsm - 10 Sheets](https://essentialsupplies.co.nz/products/antibacterial-textile-wipes-pink-400mm-x-400mm-140gsm-10)
-  Updated: 2024-11-22T06:51:00Z
+  Updated: 2025-10-20T00:17:56Z
   Vendor: Mattews Packaging
   Product Type: Textile Dry Wipes
   Availability: Available
@@ -6876,7 +6876,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/desktop-tape-dispenser-small-black-25mm-core-1-dispenser-office-tape-essential-supplies-281909.jpg?v=1719444939
   Price: $23.00 NZD
 - [Desktop Tape Dispenser Large - Black, 25mm Core + 76mm Core - 1) Dispenser](https://essentialsupplies.co.nz/products/desktop-tape-dispenser-large-black-25mm-core-76mm-core-1): Small desktop tape dispenser constructed of ABS plastic with rubberised feet for stable desktop use. Stylish and professional looking design that effortlessly dispenses both 25.4mm core (33m length) or 76.2mm (66m length) tape rolls conveniently at your fingertips.
-  Updated: 2025-02-14T17:08:56Z
+  Updated: 2025-10-20T02:06:07Z
   Vendor: Mattews Packaging
   Product Type: Office Tape
   Availability: Available
