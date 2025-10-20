@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2025-10-20T12:00:54.404Z
+- Updated At: 2025-10-20T16:00:52.707Z
 
 ## Products
 
@@ -7615,7 +7615,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Sleeveless-Plunge-Neck-Slit-Maxi-Dress-Brinxx-Couture-5107.jpg?v=1709842468
     Price: $59.99 USD
 - [Contrast Sequin One Shoulder Sleeveless Dress - Brinxx Couture](https://www.brinxxcouture.com/products/contrast-sequin-one-shoulder-sleeveless-dress): Be the life of the party wearing this dazzling Contrast Sequin One Shoulder Sleeveless Dress! Crafted with a mix of light and dark sequins.
-  Updated: 2025-10-03T17:28:36Z
+  Updated: 2025-10-20T13:42:36Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -9328,7 +9328,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Square-Neck-Long-Sleeve-Slit-Dress-Brinxx-Couture-845.jpg?v=1709850380
     Price: $34.99 USD
 - [Surplice Neck Slit Dress - Brinxx Couture](https://www.brinxxcouture.com/products/plus-size-surplice-neck-slit-dress): This Plus Size Surplice Neck Slit Dress is designed to flatter your figure. Crafted from tailored fabric with a surplice neck, it features a slit for ease of movement.
-  Updated: 2025-10-09T19:19:45Z
+  Updated: 2025-10-20T14:14:52Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -10000,7 +10000,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Candy-Metallic-Hot-Girl-Short-Skirt-Brinxx-Couture-8458.jpg?v=1709855085
     Price: $20.00 USD
 - [Two-Tone Openwork Rib-Knit Sweater - Brinxx Couture](https://www.brinxxcouture.com/products/woven-right-two-tone-openwork-rib-knit-sweater): This stylish two-tone openwork rib-knit sweater features a unique design that adds texture and dimension to any ensemble. The rib-knit construction ensures lasting comfort.
-  Updated: 2025-10-11T23:18:26Z
+  Updated: 2025-10-20T15:29:16Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -12710,7 +12710,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Mock-Neck-Long-Sleeve-Maxi-Bodycon-Dress-Brinxx-Couture-431.jpg?v=1709870644
     Price: $29.99 USD
 - [Fringe Trim Lapel Collar Cropped Blazer - Brinxx Couture](https://www.brinxxcouture.com/products/fringe-trim-lapel-collar-cropped-blazer): This stylish cropped blazer is the perfect pick for any event. Featuring a fringe trim lapel collar and an asymmetric and open-front design.
-  Updated: 2025-10-20T08:51:41Z
+  Updated: 2025-10-20T13:25:46Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -14328,7 +14328,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Inlaid-Zircon-925-Sterling-Silver-Ring-Brinxx-Couture-9906.jpg?v=1709874649
     Price: $25.00 USD
 - [Eternity Sterling Silver Ring - Brinxx Couture](https://www.brinxxcouture.com/products/eternity-sterling-silver-ring): Crafted with the highest quality sterling silver, our Eternity Ring exudes elegance and sophistication. This timeless piece features a classic design that symbolizes endless love.
-  Updated: 2025-10-20T07:58:50Z
+  Updated: 2025-10-20T14:29:46Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -19500,7 +19500,7 @@
   Availability: Available
   Price: $39.00 USD
 - [Stretchy Stitch Pants  - Brinxx Couture](https://www.brinxxcouture.com/products/stretchystitch-pants-by-basic-bae): Introducing the Stretchy Stitch Pants - the ultimate combination of comfort and style! These pants are stretchy that allows for maximum flexibility.
-  Updated: 2025-10-19T17:00:21Z
+  Updated: 2025-10-20T14:37:56Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -23343,7 +23343,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Notch-Lapel-Woven-Coat-with-Side-Pockets-Brinxx-Couture-2936.jpg?v=1730297108
     Price: $40.00 USD
 - [Cable-Knit Round Neck Sweater Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress): Wrap yourself in cozy comfort and timeless style with our Cable-Knit Round Neck Sweater Dress! Made from soft, high-quality materials.
-  Updated: 2025-10-20T11:21:36Z
+  Updated: 2025-10-20T15:01:07Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -23389,7 +23389,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Cable-Knit-Round-Neck-Sweater-Dress-Brinxx-Couture-8635.webp?v=1730299054
     Price: $49.99 USD
   - [Sage / M](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress?variant=43432153874614)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Cable-Knit-Round-Neck-Sweater-Dress-Brinxx-Couture-468.webp?v=1730299049
     Price: $49.99 USD
   - [Sage / XL](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress?variant=43432153907382)
@@ -27844,7 +27844,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Satin-Two-Piece-Sleepwear-Set-Brinxx-Couture-8891.jpg?v=1735530075
     Price: $39.99 USD
 - [Stiletto Round Toe Floral Heels - Brinxx Couture](https://www.brinxxcouture.com/products/stiletto-round-toe-floral-heels): Introducing our Stiletto Round Toe Floral Heels! Elevate your style and confidence with these stunning, floral patterned heels. The stiletto heel adds height.
-  Updated: 2025-08-22T19:26:05Z
+  Updated: 2025-10-20T12:27:00Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
