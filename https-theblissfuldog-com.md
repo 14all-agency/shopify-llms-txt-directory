@@ -10,7 +10,7 @@
 - Contact Email: info@theblissfuldog.com
 - Contact Phone: 855-364-2547
 - Address: 50688 235th ave NW
-- Updated At: 2025-10-19T20:00:44.506Z
+- Updated At: 2025-10-20T04:00:43.962Z
 
 ## Products
 
@@ -10430,7 +10430,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/YORKIE_SOAP_BOTH_2500.jpg?v=1668966868
     Price: $12.95 USD
 - [Rich Bitch & Drama Queen Labrador Retriever Luxury Shampoo & Soap](https://theblissfuldog.com/products/labrador-retriever-rich-bitch-shampoo-soap): Rich Bitch & Drama Queen Labrador Retriever Shampoo for royal Lab bloodlines. As any well-bred brunette knows the secret to perfect chocolate tresses is shampoo
-  Updated: 2025-10-16T15:40:43Z
+  Updated: 2025-10-20T02:00:58Z
   Vendor: The Blissful Dog
   Product Type: SHAMPOO
   Availability: Available
@@ -12779,7 +12779,7 @@
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/DOBIE_15TUBE_COMBO_9bc27eb3-fe59-479d-a717-4e996be47651.jpg?v=1648479502
   Price: $19.95 USD
 - [Dogue de Bordeaux Skin Care for Dry Noses, Rough Paws + Itchy Skin](https://theblissfuldog.com/products/dogue-de-bordeaux-tube-combo): The Blissful Dog Build Your Own Dogue de Bordeaux Skin Care Custom Combo. Our all natural balms soothe rough, dry noses, dry paws or itchy skin...naturally.
-  Updated: 2025-10-19T04:10:22Z
+  Updated: 2025-10-19T23:58:36Z
   Vendor: The Blissful Dog
   Product Type: COMBO
   Availability: Available
