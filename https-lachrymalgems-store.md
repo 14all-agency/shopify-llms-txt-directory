@@ -6,12 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2025-10-03T06:30:37Z
 - Contact Email: mandiemaddox@mystichiddengem.com
-- Updated At: 2025-10-20T04:00:30.862Z
+- Updated At: 2025-10-20T08:00:31.054Z
 
 ## Products
 
 - [Forgotten Gem Duffle Bag - Dark Aesthetic Glitch Travel Bag](https://lachrymalgems.store/products/forgotten-gem-key-duffle-bag): Dark aesthetic glitch duffle bag with forgotten gem key design. Perfect travel bag for gym, weekend trips, or everyday use. Unique alternative luggage.
-  Updated: 2025-10-19T21:49:53Z
+  Updated: 2025-10-20T05:30:17Z
   Vendor: Printify
   Product Type: Bags
   Availability: Available
@@ -51,14 +51,14 @@
     Availability: Available
     Price: $59.99 USD
 - [Hidden Gem VHS Glitch Gaiter Mask - Fall/Winter Face Cover](https://lachrymalgems.store/products/hidden-gem-fall-winter-gaiter): VHS glitch gaiter mask perfect for fall and winter. Hidden gem design face cover for outdoor activities. Unique alternative fashion accessory.
-  Updated: 2025-10-19T21:50:51Z
+  Updated: 2025-10-20T07:23:51Z
   Vendor: Printify
   Product Type: All Over Prints
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/female-model-with-hidden-gem-gaiter-mask.png?v=1760910649
   Price: $18.99 USD
 - [Skeleton Hoodie - Dark Aesthetic Glitch Rose Design Fall Hoodie](https://lachrymalgems.store/products/cozy-glitch-beyond-death-rose-fall-hoodie): Men's cozy skeleton hoodie featuring unique glitch rose design. Perfect for dark aesthetic & alternative fashion lovers. Premium quality fall hoodie.
-  Updated: 2025-10-19T22:23:59Z
+  Updated: 2025-10-20T07:43:54Z
   Vendor: Printify
   Product Type: Hoodie
   Availability: Available
@@ -171,7 +171,7 @@
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/rn-image_picker_lib_temp_e85f573a-571d-4f62-985a-492133268e78.webp?v=1759761086
   Price: $44.99 USD
 - [Skeleton Crop Top - Dark Aesthetic Retro Tee Alternative Fashion](https://lachrymalgems.store/products/love-lost-skeletons-retro-crop-tee-trendy-womens-top-casual-streetwear-graphic-tee-unique-gift-for-her-festival-wear-statement-t-shirt): Trendy skeleton crop tee with glitch dark aesthetic design. Perfect retro streetwear for alternative fashion lovers. Unique graphic tee gift for her.
-  Updated: 2025-10-19T21:51:11Z
+  Updated: 2025-10-20T07:27:23Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
@@ -183,7 +183,7 @@
     Availability: Available
     Price: $27.99 USD
 - [Love Lost Skeletons Dark-Wave Cropped](https://lachrymalgems.store/products/eternal-loop-lost-skeleton-lovers-cropped-sweatshirt-for-trendy-women-retro-vibe-perfect-for-casual-outings-gifts-and-events): Ladies fall fashion cropped sweatshirt with eternal loop skeleton lovers design. Perfect dark alternative aesthetic for casual outings, gifts & eventsThis stylish Women's Cropped Sweatshirt adds a pop of personality to any wardrobe with the very warming love lost skeletons each items telling its own story within the digital art S M L XL 2XL Length, in 17.00 18.00 18.00 20.00 22.00 Width, in 21.37 22.75 25.50 27.12 29.12 Sleeve length, in 20.67 20.67 20.87 20.98 21.10 Size tolerance, in 1.00 1.00 1.00 1.00 1.00 . Made from a blend of soft, luxurious cotton and polyester, it offers the perfect balance of comfort and style. The relaxed fit with dropped shoulders ensures a laid-back vibe, making it an ideal choice for casual outings or cozy nights in. With its edgy raw bottom hem and ribbed-knit cuffs and collar, this sweatshirt is designed to stand out. Perfect for those who appreciate unique fashion, it makes a wonderful gift for friends or family celebrating milestone birthdays, cozy winter gatherings, or simply for anyone looking to elevate their everyday look. Whether paired with high-waisted jeans or leggings, this cropped sweatshirt will be your go-to for showcasing your individuality during casual hangouts or laid-back parties.Product features- Soft and luxurious fabric blend for ultimate comfort.- Relaxed fit with dropped shoulders for easy wear.- Edgy raw bottom hem adds a fashionable touch.- Highly elastic ribbed-knit cuffs and collar retain shape.- Adult sizing with a tear-away label for convenience.Care instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Iron, steam or dry: low heat- Do not dryclean
-  Updated: 2025-10-19T21:52:00Z
+  Updated: 2025-10-20T07:31:47Z
   Vendor: Printify
   Product Type: Sweatshirt
   Availability: Available
@@ -351,14 +351,14 @@
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/5347049586039609425_2048.jpg?v=1760038730
     Price: $39.99 USD
 - [Lost Love Skeleton Sling Bag - Neon Dark Aesthetic Accessory](https://lachrymalgems.store/products/lost-love-skeleton-sling-bag): Neon dark aesthetic sling bag with lost love skeleton design. Perfect alternative accessories for everyday carry. Unique crossbody bag for gothic style.
-  Updated: 2025-10-19T21:46:25Z
+  Updated: 2025-10-20T05:28:58Z
   Vendor: Printify
   Product Type: Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/female-model-leggings-hoodie-dress-slippers-white-skeleton-sling-bag.png?v=1760910384
   Price: $57.99 USD
 - [Cozy Unisex Fleece Joggers - Ultimate Comfort Sweatpants](https://lachrymalgems.store/products/cozy-unisex-fleece-joggers-casual-loungewear-athleisure-workout-pants-comfortable-leisure-bottoms-perfect-for-relaxation): ltimate comfort unisex fleece joggers perfect for loungewear and athleisure. Cozy casual workout pants for relaxation. Comfortable leisure bottoms
-  Updated: 2025-10-19T21:45:45Z
+  Updated: 2025-10-20T07:17:44Z
   Vendor: Printify
   Product Type: Trousers
   Availability: Available
@@ -415,7 +415,7 @@
     Availability: Available
     Price: $28.99 USD
 - [Love Lost Skeleton Leggings](https://lachrymalgems.store/products/love-lost-skeleton-leggings-stylish-casual-wear-gym-leggings): Stylish skeleton print leggings perfect for gym, yoga, or casual wear. Unique dark aesthetic design. Comfortable activewear for alternative fashion lovers.
-  Updated: 2025-10-19T21:44:12Z
+  Updated: 2025-10-20T05:10:38Z
   Vendor: Printify
   Product Type: All Over Prints
   Availability: Available
@@ -439,7 +439,7 @@
     Availability: Available
     Price: $36.99 USD
 - [Cosmic Love Lost Crewneck - Graphic Sweatshirt for Space Lovers](https://lachrymalgems.store/products/cosmic-love-lost-crewneck-sweatshirt-graphic-sweatshirt-unisex-apparel-gift-for-space-lovers): Unisex cosmic love lost graphic sweatshirt. Perfect gift for space lovers and alternative fashion enthusiasts. Unique skeleton design crewneck.
-  Updated: 2025-10-19T21:43:32Z
+  Updated: 2025-10-20T07:41:53Z
   Vendor: Printify
   Product Type: Sweatshirt
   Availability: Available
@@ -526,7 +526,7 @@
     Availability: Available
     Price: $52.99 USD
 - [Memento Mori Sandals - Vaporwave Aesthetic Summer Footwear](https://lachrymalgems.store/products/sandals-memento-mori-sad-lonely-skeleton-swing-vaporwave-aesthetic-fashion): Comfortable sandals with memento mori vaporwave aesthetic design. Perfect summer footwear for alternative fashion lovers. Unique dark aesthetic slide
-  Updated: 2025-10-19T21:43:14Z
+  Updated: 2025-10-20T07:57:12Z
   Vendor: Printify
   Product Type: Shoes
   Availability: Available
@@ -573,14 +573,14 @@
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/female-model-embroidered-hiddengem-beanie.png?v=1760911083
   Price: $17.99 USD
 - [Clear Tote Bag - Transparent Fashion Accessory | Lachrymal Gems](https://lachrymalgems.store/products/clear-tote-bag): Stylish clear tote bag perfect for events, travel, and everyday use. Transparent bag meets venue requirements. Versatile and trendy accessory.
-  Updated: 2025-10-19T21:42:14Z
+  Updated: 2025-10-20T07:28:47Z
   Vendor: Lachrymal Gems
   Product Type: DECOR
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/female-model-love-lost-skeletons-crop-top-clear-tote-bag.png?v=1760910719
   Price: $24.99 USD
 - [Love Lost Skeletons Long Sleeve Shirt - Men's Alternative Wear](https://lachrymalgems.store/products/love-lost-skeletons-men-s-long-sleeve-shirt): Men's long sleeve shirt featuring love lost skeletons design. Perfect dark aesthetic casual wear. Unique alternative fashion for everyday comfort.
-  Updated: 2025-10-19T17:28:49Z
+  Updated: 2025-10-20T05:28:55Z
   Vendor: Lachrymal Gems
   Product Type: T-SHIRT
   Availability: Available
@@ -607,7 +607,7 @@
     Availability: Available
     Price: $55.99 USD
 - [Memento Mori Slippers - Enchanting Neon Mystic Ladies Footwear](https://lachrymalgems.store/products/enchanting-neon-memento-mori-mystic-ladies-slippers-cozy-footwear-for-home): Cozy ladies slippers with enchanting neon memento mori mystic design. Perfect comfortable footwear for home. Unique alternative aesthetic slippers.
-  Updated: 2025-10-19T21:41:23Z
+  Updated: 2025-10-20T05:19:54Z
   Vendor: Printify
   Product Type: Shoes
   Availability: Available
@@ -857,21 +857,21 @@
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/948668306500115053-2048-_3.jpg?v=1760912398
     Price: $36.99 USD
 - [Memento Mori Skater Dress - Dark Rose Aesthetic Limited Edition](https://lachrymalgems.store/products/skater-dress-memento-mori-dark-rose-aesthetic): Limited edition memento mori skater dress with dark rose aesthetic design. Perfect alternative fashion dress for gothic style lovers. Unique statement piece.
-  Updated: 2025-10-19T21:38:19Z
+  Updated: 2025-10-20T07:35:59Z
   Vendor: Printify
   Product Type: All Over Prints
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/female-model-memento-mori-dress-canvas-shoes.png?v=1760909896
   Price: $39.99 USD
 - [Dark Aesthetic Backpack - Skeleton Love Lost Design | Lachrymal Gems](https://lachrymalgems.store/products/lachrymal-gems-skeleton-love-lost-heart-seed-planting-dark-aesthetic-backpack): Unique skeleton love lost backpack with heart seed planting design. Perfect dark aesthetic bag for school, travel, or everyday use. Alternative fashion accessory.
-  Updated: 2025-10-19T21:37:31Z
+  Updated: 2025-10-20T07:07:22Z
   Vendor: Printify
   Product Type: Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/female-model-cropped-hoodie-sad-boy-joggers-slides-backpack-fixed.png?v=1760909688
   Price: $47.99 USD
 - [Dark Hello Kitty Sports Bra - Purple Alternative Aesthetic](https://lachrymalgems.store/products/sports-bra-dark-hello-kitty-remixed-purple-vibes-alternative-aesthetic): Ladies sports bra with dark Hello Kitty remixed purple vibes design. Perfect alternative aesthetic activewear for gym and yoga. Unique gothic workout gear.
-  Updated: 2025-10-19T21:36:58Z
+  Updated: 2025-10-20T07:29:44Z
   Vendor: Printify
   Product Type: All Over Prints
   Availability: Available
@@ -938,7 +938,7 @@
     Availability: Available
     Price: $41.99 USD
 - [Memento Mori Cropped Hoodie - Vaporwave Alternative Fashion](https://lachrymalgems.store/products/sad-aesthetic-cropped-hoodie): Ladies vaporwave alternative fall fashion cropped hoodie with memento mori design. Perfect dark aesthetic streetwear. Unique gothic style hoodie.
-  Updated: 2025-10-19T21:34:49Z
+  Updated: 2025-10-20T07:01:52Z
   Vendor: Printify
   Product Type: Hoodie
   Availability: Available
@@ -1003,7 +1003,7 @@
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/marcus-core-design-tapestry.png?v=1760910911
   Price: $39.99 USD
 - [Love Lost Skeletons Ringer T-Shirt - Alternative Gothic Tee | Lachrymal Gems](https://lachrymalgems.store/products/copy-of-ringer-t-shirt-decade-love-lost-skeletons-print): Stand out in our Love Lost Skeletons Ringer T-Shirt. Classic ringer style meets dark aesthetic. Comfortable, stylish, and uniquely you!
-  Updated: 2025-10-19T21:33:07Z
+  Updated: 2025-10-20T05:17:13Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
@@ -1246,7 +1246,7 @@
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/8346601574226317387_2048.jpg?v=1760866106
     Price: $11.99 USD
 - [Diamond Joggers - All Over Print Sweatpants | Lachrymal Gems](https://lachrymalgems.store/products/diamond-joggers): Elevate your streetwear with our Diamond Joggers featuring unique all-over print design. Comfortable, stylish, and perfect for casual wear. Shop now!
-  Updated: 2025-10-19T19:38:48Z
+  Updated: 2025-10-20T07:39:10Z
   Vendor: Printify
   Product Type: All Over Prints
   Availability: Available
@@ -1353,84 +1353,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/7865233497328293861_2048.jpg?v=1760865260
     Price: $22.99 USD
-- [Unisex Tie-Dye Sweatshirt](https://lachrymalgems.store/products/unisex-tie-dye-sweatshirt): A tie-dye sweatshirt is a staple item for anyone who loves a splash of color. Upload your original designs, and we'll print them picture-perfectly on the 8.5oz, 80/20 cotton-polyester blend fleece. It's hand-dyed in gorgeous colors that'll last for years without fading. The garment is made from pre-shrunk PFD cotton to avoid shrinkage after regular washing.NB! Slight color variations may occur due to the dyeing process..: Material: 80% ring-spun cotton, 20% polyester.: Medium heavy fabric (8.5 oz /yd² (300 g/m²)).: Relaxed fit.: Sewn-in label
-  Updated: 2025-10-20T03:10:15Z
-  Vendor: Printify
-  Product Type: Sweatshirt
-  Availability: Available
-  - [Lagoon / 3XL](https://lachrymalgems.store/products/unisex-tie-dye-sweatshirt?variant=47218102108405)
-    Availability: Available
-    Price: $109.13 USD
-  - [Eternity / 3XL](https://lachrymalgems.store/products/unisex-tie-dye-sweatshirt?variant=47218102141173)
-    Availability: Available
-    Price: $109.13 USD
-- [Deadly Angel Unisex Cotton Tee, Graphic Tee, Casual Wear, Streetwear, Cool T-shirt, Gift for Him/Her](https://lachrymalgems.store/products/deadly-angel-unisex-cotton-tee-graphic-tee-casual-wear-streetwear-cool-t-shirt-gift-for-him-her): Introducing a stylish Unisex Heavy Cotton Tee that combines comfort and personality effortlessly. This tee showcases an eye-catching design that speaks to individual expression, making it a perfect staple for any wardrobe. Whether you're dressing up for a casual day out or lounging at home, this shirt ensures you feel confident and relaxed. Perfect for art lovers, trendsetters, and anyone who enjoys making a bold statement, it’s a fantastic choice for gatherings, birthdays, and creative celebrations. Celebrate life’s moments and embrace your unique style!Product features- Shoulder tape for added durability and comfort- Seamless design reduces waste and enhances aesthetics- Elastic ribbed collar maintains shape- Made from strong, smooth fabric perfect for printing- Classic fit for relaxed, all-day wearCare instructions- Non-chlorine: bleach as needed- Do not iron- Do not dryclean- Machine wash: cold (max 30C or 90F)- Tumble dry: low heat
-  Updated: 2025-10-20T02:19:43Z
-  Vendor: Printify
-  Product Type: T-Shirt
-  Availability: Available
-  - [Black / S](https://lachrymalgems.store/products/deadly-angel-unisex-cotton-tee-graphic-tee-casual-wear-streetwear-cool-t-shirt-gift-for-him-her?variant=47218102206709)
-    Availability: Available
-    Price: $63.00 USD
-  - [Black / M](https://lachrymalgems.store/products/deadly-angel-unisex-cotton-tee-graphic-tee-casual-wear-streetwear-cool-t-shirt-gift-for-him-her?variant=47218102239477)
-    Availability: Available
-    Price: $63.00 USD
-  - [White / L](https://lachrymalgems.store/products/deadly-angel-unisex-cotton-tee-graphic-tee-casual-wear-streetwear-cool-t-shirt-gift-for-him-her?variant=47218102272245)
-    Availability: Available
-    Price: $63.00 USD
-  - [Black / L](https://lachrymalgems.store/products/deadly-angel-unisex-cotton-tee-graphic-tee-casual-wear-streetwear-cool-t-shirt-gift-for-him-her?variant=47218102305013)
-    Availability: Available
-    Price: $63.00 USD
-  - [Black / XL](https://lachrymalgems.store/products/deadly-angel-unisex-cotton-tee-graphic-tee-casual-wear-streetwear-cool-t-shirt-gift-for-him-her?variant=47218102337781)
-    Availability: Available
-    Price: $63.00 USD
-  - [Black / 2XL](https://lachrymalgems.store/products/deadly-angel-unisex-cotton-tee-graphic-tee-casual-wear-streetwear-cool-t-shirt-gift-for-him-her?variant=47218102370549)
-    Availability: Available
-    Price: $67.49 USD
-  - [Black / 3XL](https://lachrymalgems.store/products/deadly-angel-unisex-cotton-tee-graphic-tee-casual-wear-streetwear-cool-t-shirt-gift-for-him-her?variant=47218102403317)
-    Availability: Available
-    Price: $70.00 USD
-  - [Black / 4XL](https://lachrymalgems.store/products/deadly-angel-unisex-cotton-tee-graphic-tee-casual-wear-streetwear-cool-t-shirt-gift-for-him-her?variant=47218102436085)
-    Availability: Available
-    Price: $71.18 USD
-  - [Black / 5XL](https://lachrymalgems.store/products/deadly-angel-unisex-cotton-tee-graphic-tee-casual-wear-streetwear-cool-t-shirt-gift-for-him-her?variant=47218102468853)
-    Availability: Available
-    Price: $71.36 USD
-- [Crop Tee (AOP)](https://lachrymalgems.store/products/crop-tee-aop): This personalized crop top has both comfort and style in spades. Add whimsical patterns, feel-good designs and create a unique AOP crop tee that’s perfect for everyday wear. Made 100% with silky soft polyester that is both lightweight and breathable..: 100% polyester.: Light fabric (6 oz/yd² (203 g/m²)).: Sewn-in care label.: Assembled in the USA from globally sourced parts
-  Updated: 2025-10-20T02:24:15Z
-  Vendor: Printify
-  Product Type: All Over Prints
-  Availability: Available
-  - [White stitching / XS](https://lachrymalgems.store/products/crop-tee-aop?variant=47218103124213)
-    Availability: Available
-    Price: $53.40 USD
-  - [White stitching / S](https://lachrymalgems.store/products/crop-tee-aop?variant=47218103156981)
-    Availability: Available
-    Price: $53.96 USD
-  - [White stitching / M](https://lachrymalgems.store/products/crop-tee-aop?variant=47218103189749)
-    Availability: Available
-    Price: $55.29 USD
-  - [White stitching / L](https://lachrymalgems.store/products/crop-tee-aop?variant=47218103222517)
-    Availability: Available
-    Price: $56.40 USD
-  - [White stitching / XL](https://lachrymalgems.store/products/crop-tee-aop?variant=47218103255285)
-    Availability: Available
-    Price: $58.00 USD
-  - [White stitching / 2XL](https://lachrymalgems.store/products/crop-tee-aop?variant=47218103288053)
-    Availability: Available
-    Price: $59.09 USD
-- [Alt.Organic Hair Growth Tonic, 2oz](https://lachrymalgems.store/products/alt-organic-hair-growth-tonic-2oz): This lightweight hair tonic is enriched with biotin, plant-based turmeric, and caffeine for a nourishing, and strengthening combo that helps boost hair health. This stimulating formula helps improve length retention, reduces signs of hair thinning, and hydrates the follicles for hair that looks thicker, and fuller. Fast-absorbing recipe with no residue that is lightweight and perfect for daily use.Ingredients: Aqua (Water), Alcohol Denat., Propanediol, 1,2-Hexanediol, Phospholipids, Caffeine, Curcuma Longa (Turmeric) Callus Culture Conditioned Media, Biotin.Free of parabens, formaldehydes, formaldehyde-releasing agents, phthalates, mineral oil, oxybenzone, coal tar, hydroquinone, sulfates SLS & SLES, triclocarban, triclosan, and synthetic fragrance.Please note: This product is not eligible for publishing on Etsy and TikTok Shop US. More info here. .: Helps improve length retention.: Reduces signs of hair thinning for thicker, fuller, longer looking hair.: Lightweight, fast-absorbing treatment.: Residue-less formula produces healthy and hydrated results.: 100% vegan, cruelty-free, and comes in recyclable packaging.: Amber glass bottle with black glass dropper.: Design printed on a sticker label.: Assembled in the USA from globally sourced ingredients.: 2 fl oz. (60 ml).: Please note: This product is shipped only to the United States and their territories, as well as Canada.: Please note: This product is not eligible for publishing on Etsy and TikTok Shop US. 2oz Bottle height, in 4.60 Bottle diameter, in 1.50
-  Updated: 2025-10-20T02:52:28Z
-  Vendor: Printify
-  Product Type: Accessories
-  Availability: Available
-  Price: $43.84 USD
-- [Skin-Glow Face and Body Cleanser, 6oz](https://lachrymalgems.store/products/skin-glow-face-and-body-cleanser-6oz): This gentle cleanser equips your daily skincare routine with a versatile solution for both face and body care. This cleansing gel comes in a convenient 6 fl. oz. clear PET bottle with a white pump, making it easy to use and store. Ideal for sensitive or acne-prone skin, it effectively removes excess oil without causing irritation. With its balanced and gentle formula, it leaves your skin feeling refreshed and clean without any added fragrance. Plus, it's 100% vegan, cruelty-free, and packaged in recyclable materials. Made in the USA from globally sourced ingredients.Aqua, Cocamidopropyl Betaine, Glycerin, Decyl Glucoside, Panthenol, Glycyrrhiza Glabra (Licorice) Root Extract, Camellia Sinensis Leaf Extract, Xanthan Gum, Hamamelis Virginiana (Witch Hazel) Water, Alcohol, Butylene Glycol, Fomes Officinalis (Mushroom) Extract, Disodium EDTA, Citric Acid, Phenoxyethanol, Ethylhexylglycerin.Free of parabens, formaldehydes, formaldehyde-releasing agents, phthalates, mineral oil, oxybenzone, coal tar, hydroquinone, sulfates SLS & SLES, triclocarban, triclosan, and synthetic fragrance.Please note: This product is not eligible for publishing on Etsy and TikTok Shop US. More info here. .: Recommended for sensitive or acne-prone skin.: Cleansing gel for removing excess oil.: Face and body use.: Balanced and gentle formula.: Fragrance-Free.: 100% vegan, cruelty-free, and comes in recyclable packaging.: Clear PET bottle with white pump.: Design printed on a sticker label.: Made in the USA from globally sourced ingredients.: 6 fl. oz. (177ml).: Please note: This product is shipped only to the United States and their territories, as well as Canada.: Please note: This product is not eligible for publishing on Etsy and TikTok Shop US. 6oz Bottle height, in 7.20 Bottle diameter, in 1.26
-  Updated: 2025-10-20T03:14:22Z
-  Vendor: Printify
-  Product Type: Beauty products
-  Availability: Available
-  Price: $29.33 USD
 - [Unisex Casual Shoulder Backpack](https://lachrymalgems.store/products/unisex-casual-shoulder-backpack): Casual backpack in a classic shape with a front flap design. It is made of durable Oxford canvas. It has two slip interior pockets and one laptop sleeve in the main compartment, a front zipper pocket, and two side pockets..: Made of 24.34 oz. Oxford canvas.: Flap with strap claps at the front.: Adjustable shoulder straps.: Black base and inside color
   Updated: 2025-10-20T02:25:11Z
   Vendor: Printify
@@ -1438,61 +1360,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/1921614712821865457_2048.jpg?v=1760927085
   Price: $78.73 USD
-- [Beauty in the Dark Heart Statement Necklace,](https://lachrymalgems.store/products/beauty-in-the-dark-heart-statement-necklace): This Heart Necklace is a timeless Dark aesthetic piece that radiates love and elegance. Reminds us to enjoy our loved ones in life and dare not wait till we come to our end. Crafted from high-quality stainless steel, this necklace not only adds a touch of sophistication to any outfit but also gives a sense of enduring charm. Its sleek, engraved design offers a personal touch, making it the perfect gift for a loved one or a treasured self-purchase. Ideal for romantic occasions such as anniversaries, Valentine’s Day, or simply to celebrate a special bond. Its hypoallergenic properties ensure comfort for all, making it a delightful accessory for anyone. This versatile necklace fits seamlessly into any jewelry collection, bringing both grace and affection to everyday life.Product features- Durable stainless steel construction ensures longevity and resistance to rust and corrosion.- Hypoallergenic, making it suitable for those with sensitive skin.- Engraved design offers a sleek, high-end look without the fear of fading or peeling.- Compact size of 0.63'' x 0.55'' inches, making it a delicate and trendy accessory.- Crafted from 316L Surgical Grade Stainless Steel, ensuring quality and elegance.Care instructions- Wipe the dust or any dirt off gently with a clean, dry cloth.
-  Updated: 2025-10-20T02:26:46Z
-  Vendor: Printify
-  Product Type: Accessories
-  Availability: Available
-  Price: $37.82 USD
-- [Tank Top - Love Lost Skeletons with Cat Skeleton Feature Dark Aesthetic](https://lachrymalgems.store/products/tank-top-love-lost-skeletons-with-cat-skeleton-feature-dark-aesthetic): This Tank Top features a cute design of Love Lost Skeletons with a cat skeleton feature, giving off a beautiful dark aesthetic. Perfect for pet owners who want their furry friend to join in on the spooky fun. Ideal for Halloween or gothic loving pet parents.Product features- Made from strong and smooth fabric perfect for printing- Highly elastic fabric with shape retention- Double-needle ribbed binding for clean garment lines- Variety of fiber compositions for different colors- EasyTear™ label for comfort and convenienceCare instructions- Machine wash: cold (max 30C or 90F)- Do not bleach- Tumble dry: low heat- Do not iron- Do not dryclean
-  Updated: 2025-10-20T02:26:51Z
-  Vendor: Printify
-  Product Type: Pets
-  Availability: Available
-  - [L / Black](https://lachrymalgems.store/products/tank-top-love-lost-skeletons-with-cat-skeleton-feature-dark-aesthetic?variant=47218107875573)
-    Availability: Available
-    Price: $50.47 USD
-  - [L / Heather](https://lachrymalgems.store/products/tank-top-love-lost-skeletons-with-cat-skeleton-feature-dark-aesthetic?variant=47218107908341)
-    Availability: Available
-    Price: $50.47 USD
-  - [L / Pink](https://lachrymalgems.store/products/tank-top-love-lost-skeletons-with-cat-skeleton-feature-dark-aesthetic?variant=47218107941109)
-    Availability: Available
-    Price: $50.47 USD
-  - [L / White](https://lachrymalgems.store/products/tank-top-love-lost-skeletons-with-cat-skeleton-feature-dark-aesthetic?variant=47218107973877)
-    Availability: Available
-    Price: $50.47 USD
-- [Skeleton Love Necklace, Aesthetic , Gothic Pendant, Unisex Gift, Alternative Fashion, Unique Statement Piece](https://lachrymalgems.store/products/skeleton-love-necklace-aesthetic-gothic-pendant-unisex-gift-alternative-fashion-unique-statement-piece): Introducing this stunning Oval Necklace that adds a unique touch to any outfit. With its eye-catching elipsoid shape, this piece serves as a canvas for your most vibrant love lost skeletons design One Size Pendant height, in 1.50 Pendant width, in 1.00 Chain length, in 20.47 perfect for expressing your individuality. The glossy finish ensures that every detail pops, making it a standout accessory for casual wear or special occasions. Ideal for art lovers and fashion enthusiasts alike, this necklace is perfect for gifting during holidays like Mother's Day, birthdays, or just to celebrate friendship. Wear it as a statement piece or layer it with other favorites for a trendy look!Product features- Vibrant colors through advanced printing techniques for striking designs.- Glossy finish that enhances the full-color print on the pendant.- Ellipse shape allows for unique customization and personalization.- Secure lobster clasp closure to keep the necklace safely in place.- Durable zinc alloy pendant and chain ensure longevity.Care instructions- Wipe the dust or any dirt off gently with a clean, dry cloth.EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Generic brand, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Care instructions: Wipe the dust or any dirt off gently with a clean, dry cloth.
-  Updated: 2025-10-20T02:27:00Z
-  Vendor: Printify
-  Product Type: Accessories
-  Availability: Available
-  Price: $27.22 USD
-- [Women's Varsity Jacket (AOP)](https://lachrymalgems.store/products/womens-varsity-jacket-aop): This all over print jacket with ribbed stand-up collar, elastic cuffs and elasticized hem is casual slim fit. Customize garment body through the design tool on ArtsAdd reflects your unique personality and style..: Material: polyester, spandex.: Medium fabric (7.96 oz/yd2 (270 g/m2))Image by [tovovan / Shutterstock]
-  Updated: 2025-10-20T02:27:13Z
-  Vendor: Printify
-  Product Type: Outerwear
-  Availability: Available
-  - [XS / Black](https://lachrymalgems.store/products/womens-varsity-jacket-aop?variant=47218108137717)
-    Availability: Available
-    Price: $88.44 USD
-  - [S / Black](https://lachrymalgems.store/products/womens-varsity-jacket-aop?variant=47218108170485)
-    Availability: Available
-    Price: $88.44 USD
-  - [M / Black](https://lachrymalgems.store/products/womens-varsity-jacket-aop?variant=47218108203253)
-    Availability: Available
-    Price: $88.44 USD
-  - [L / Red](https://lachrymalgems.store/products/womens-varsity-jacket-aop?variant=47218108236021)
-    Availability: Available
-    Price: $88.44 USD
-  - [L / Black](https://lachrymalgems.store/products/womens-varsity-jacket-aop?variant=47218108268789)
-    Availability: Available
-    Price: $88.44 USD
-  - [XL / Black](https://lachrymalgems.store/products/womens-varsity-jacket-aop?variant=47218108301557)
-    Availability: Available
-    Price: $88.44 USD
-  - [2XL / Black](https://lachrymalgems.store/products/womens-varsity-jacket-aop?variant=47218108334325)
-    Availability: Available
-    Price: $88.44 USD
 - [Snail Mucin Facial Serum, 1oz](https://lachrymalgems.store/products/snail-mucin-facial-serum-1oz): Snail skincare to the rescue! This snail mucin face serum can aid with skin brightening, provide deep, long-lasting moisturization without residue, and support healthy skin repair and elasticity. Infused with cica/ gotu kola and hyaluronic acid to quickly hydrate, visibly soothe, and support the skin's moisture barrier while also combating fine lines and wrinkles. It is cruelty-free, and comes in recyclable packaging.Ingredients: Aqua (Water), Snail Secretion Filtrate, Propylene Glycol, Glycerin, Glycosaminoglycans, Allantoin, Hydrolyzed Collagen, Pyridoxine HCL, Butylene Glycol, 1,2-Hexanediol, Betaine, Panthenol (Pro-Vitamin B5), Centella Asiatica Extract, Sodium Polyacrylate, Sodium Hyaluronate, Pentylene Glycol, Dimethicone/Vinyl Dimethicone Crosspolymer, Phenoxyethanol, Carbomer, Amodimethicone, Sodium Hydroxide, Disodium EDTA.Free of parabens, formaldehydes, formaldehyde-releasing agents, phthalates, mineral oil, oxybenzone, coal tar, hydroquinone, sulfates SLS & SLES, triclocarban, triclosan, and synthetic fragrance.Please note: This product is not eligible for publishing on Etsy and TikTok Shop US. More info here..: Boosts complexion by targeting dullness and brightening the skin.: Long-lasting hydration without a residue.: Plumps skin and supports healthy elasticity.: Minimizes the look of fine lines and wrinkles.: Product is cruelty-free, and comes in recyclable packaging.: White glass bottle with a white glass dropper.: Design printed on a sticker label.: Made in the USA from globally sourced ingredients.: 1 fl. oz. (29.6 ml).: Please note: This product is shipped only to the United States and their territories, as well as Canada.: Please note: This product is not eligible for publishing on Etsy and TikTok Shop US.
   Updated: 2025-10-20T02:31:36Z
   Vendor: Printify
@@ -1533,48 +1400,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/6022771028308559708_2048.jpg?v=1760927636
     Price: $47.82 USD
-- [Unisex Champion Tie-Dye Hoodie (Embroidery)](https://lachrymalgems.store/products/unisex-champion-tie-dye-hoodie-embroidery): The Champion Tie-Dye Hoodie is the perfect blend of style, comfort, and individuality in one iconic package. Made from a cozy 82% cotton and 18% poly fleece, with a fabric weight of 12 oz/yd² (406.9 g/m²), this hoodie keeps you warm and stylish. The unique scrunch-dye, tie-dye pattern ensures that each hoodie is one-of-a-kind, thanks to the garment-dyeing process. The Reverse Weave® cross-grain cut helps resist shrinkage, ensuring a lasting fit. Features like the two-ply hood with matching drawcords, rib-knit side panels, and a front pouch pocket add to its casual appeal. With the embroidered “C” logo on the left sleeve and a woven label at the back of the neck, this hoodie stands out. .: 82% cotton, 18% poly fleece.: Heavy fabric (12 oz/yd² (406.9 g/m²)).: Scrunch-dye, tie-dye pattern.: Reverse Weave® cross-grain cut.: Two-ply hood with matching drawcords.: Rib knit side panels, sleeve cuffs, and bottom hem.: Front pouch pocket.: Woven label at the back of the neck.: Embroidered "C" logo on the left sleeve
-  Updated: 2025-10-20T02:35:49Z
-  Vendor: Printify
-  Product Type: Hoodie
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/1085093264650455570_2048.jpg?v=1760927667
-  - [S / Black](https://lachrymalgems.store/products/unisex-champion-tie-dye-hoodie-embroidery?variant=47218111217909)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/1085093264650455570_2048.jpg?v=1760927667
-    Price: $144.71 USD
-  - [S / Mulled Berry](https://lachrymalgems.store/products/unisex-champion-tie-dye-hoodie-embroidery?variant=47218111250677)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/10605870787406535903_2048.jpg?v=1760927673
-    Price: $144.71 USD
-  - [M / Black](https://lachrymalgems.store/products/unisex-champion-tie-dye-hoodie-embroidery?variant=47218111283445)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/1085093264650455570_2048.jpg?v=1760927667
-    Price: $144.71 USD
-  - [M / Mulled Berry](https://lachrymalgems.store/products/unisex-champion-tie-dye-hoodie-embroidery?variant=47218111316213)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/10605870787406535903_2048.jpg?v=1760927673
-    Price: $144.71 USD
-  - [L / Black](https://lachrymalgems.store/products/unisex-champion-tie-dye-hoodie-embroidery?variant=47218111348981)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/1085093264650455570_2048.jpg?v=1760927667
-    Price: $144.71 USD
-  - [L / Mulled Berry](https://lachrymalgems.store/products/unisex-champion-tie-dye-hoodie-embroidery?variant=47218111381749)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/10605870787406535903_2048.jpg?v=1760927673
-    Price: $144.71 USD
-  - [XL / Black](https://lachrymalgems.store/products/unisex-champion-tie-dye-hoodie-embroidery?variant=47218111414517)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/1085093264650455570_2048.jpg?v=1760927667
-    Price: $144.71 USD
-  - [XL / Mulled Berry](https://lachrymalgems.store/products/unisex-champion-tie-dye-hoodie-embroidery?variant=47218111447285)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/10605870787406535903_2048.jpg?v=1760927673
-    Price: $144.71 USD
-  - [2XL / Mulled Berry](https://lachrymalgems.store/products/unisex-champion-tie-dye-hoodie-embroidery?variant=47218111480053)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/10605870787406535903_2048.jpg?v=1760927673
-    Price: $148.71 USD
 
 ## Collections
 
@@ -1582,10 +1407,10 @@
   Updated: 2025-10-20T02:33:49Z
   Total Products: 18
 - [Ladies Alt. Style](https://lachrymalgems.store/collections/ladies-alt-style): Ladies trending apparel, Seasonal Fashion
-  Updated: 2025-10-20T02:34:00Z
+  Updated: 2025-10-20T04:52:46Z
   Total Products: 7
 - [Mens Alt. Style](https://lachrymalgems.store/collections/mens-alt-style): Mens hip hop alternative trends and seasonal outfits.
-  Updated: 2025-10-20T02:31:49Z
+  Updated: 2025-10-20T04:52:46Z
   Total Products: 10
 - [Trap-Core Shoes](https://lachrymalgems.store/collections/trap-core-shoes)
   Updated: 2025-10-20T02:34:00Z
