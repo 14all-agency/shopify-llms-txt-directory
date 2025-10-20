@@ -6,7 +6,7 @@
 - Timezone: Asia/Kuala_Lumpur
 - Created At: 2022-10-06T05:47:12Z
 - Contact Email: sales@bath2u.com
-- Updated At: 2025-10-19T20:00:34.304Z
+- Updated At: 2025-10-20T08:00:34.375Z
 
 ## Products
 
@@ -2999,7 +2999,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/SS6707PM.png?v=1678693397
   Price: RM 75.00 MYR
 - [MOCHA 535mm Two (2) Tier Stainless Steel Dish Rack](https://bath2u.com/products/mocha-535mm-two-2-tier-stainless-steel-dish-rack): Specification : Material : Stainless Steel Dimension : 535 (L) x 255 (W) x 385 (H) mm
-  Updated: 2025-01-24T12:09:01Z
+  Updated: 2025-10-20T01:52:14Z
   Vendor: MOCHA
   Product Type: Dish Rack
   Availability: Available
