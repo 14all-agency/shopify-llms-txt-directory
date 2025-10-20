@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2023-04-19T20:10:07Z
 - Contact Email: georgina@hibiscussurfwear.com
-- Updated At: 2025-10-20T12:00:44.978Z
+- Updated At: 2025-10-20T16:00:44.514Z
 
 ## Products
 
@@ -11633,7 +11633,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/sublimation-flip-flops-white-front-left-67ed242591c96.jpg?v=1743594542
     Price: £30.99 GBP
 - [Falling in the deep - Hibiscus Surfwear - Ethical Womens Flip-Flops](https://www.hibiscussurfwear.com/products/falling-in-the-deep-hibiscus-surfwear-ethical-womens-flip-flops): Falling in the deep - Hibiscus Surfwear - Ethical Womens Flip-Flops Prepare for an adventurous and carefree summer with a pair of colorful slippers that are created just for you! The rubber sole is lined with a soft fabric to make sure you feel comfortable wherever your day takes you. • Rubber sole • Customizable 100% polyester fabric lining • Black Y-shaped rubber straps • Toe post style This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide US WOMEN US MEN EU UK S 6-7.5 6-7 37-38.5 4-6 M 8-10 7.5-9.5 39-41 6.5-8 L 10.5-11 10-11.5 42-45 8.5-10.5
-  Updated: 2025-04-24T15:45:16Z
+  Updated: 2025-10-20T13:49:59Z
   Vendor: Hibiscus Surfwear
   Product Type: Flip flops
   Availability: Available
