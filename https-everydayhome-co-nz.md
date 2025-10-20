@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-10-20T16:00:37.961Z
+- Updated At: 2025-10-20T20:00:37.781Z
 
 ## Products
 
@@ -3138,13 +3138,6 @@
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/SinkStyleSoapSqueezer-DarkGrey-8710755228049Brabantia_96dpi_1000x1000px_7_NR-32171.png?v=1734560103
-  Price: $29.99 NZD
-- [Brabantia SinkStyle Soap Squeezer - 200ml Fresh White](https://everydayhome.co.nz/products/sinkstyle-soap-squeezer-200ml-fresh-white): No need to hide your washing up liquid anymore. Just store 200 ml of your favourite dish soap in style with this Brabantia SinkStyle Soap Squeezer. A flexible non-slip and non-drip design, that releases dishwashing liquid when squeezing. Empty? Refill this squeezer easily with the removable screw top. Easy squeezy!
-  Updated: 2025-10-19T19:37:10Z
-  Vendor: BRABANTIA
-  Product Type: Kitchenware
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/SinkStyleSoapSqueezer-FreshWhite-8710755228063Brabantia_96dpi_1000x1000px_7_NR-32175.png?v=1734560199
   Price: $29.99 NZD
 - [Brabantia Sort & Go Built in Bin - 10 + 10 + 20L Dark Grey & Jade Green](https://everydayhome.co.nz/products/sort-go-built-in-bin-10-10-20l-dark-grey-jade-green): Triple your waste-separating power, without losing any floor space with the Brabantia Sort & Go Built-in Bin 10+10+20 litre. Made to hide in the cupboard, with an easy to install mounting frame (self-supporting, so no sagging doors!). These discreet bins fit in most kitchen cupboards, whether the doors open to the left or right. They even have storage space on top and hooks on the side for extra organising. With a long telescopic rail, so you can single-handedly pull them out all the way. And of course they are easy to clean, take out and empty too. A great set.
   Updated: 2025-09-23T12:37:57Z
