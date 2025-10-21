@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2023-04-19T20:10:07Z
 - Contact Email: georgina@hibiscussurfwear.com
-- Updated At: 2025-10-21T00:00:46.930Z
+- Updated At: 2025-10-21T16:00:43.817Z
 
 ## Products
 
@@ -10416,7 +10416,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/white-glossy-mug-white-15oz-handle-on-left-6491fba3c8fba.jpg?v=1687288759
     Price: £27.99 GBP
 - [Richmond to Waterloo III - Hibiscus Surfwear - Ethical White glossy mug](https://www.hibiscussurfwear.com/products/richmond-to-waterloo-iii-hibiscus-surfwear-ethical-white-glossy-mug): Richmond to Waterloo III - Hibiscus Surfwear - Ethical White glossy mug Whether you're drinking your morning coffee, evening tea, or something in between—this mug's for you! It's sturdy and glossy with a vivid print that'll withstand the microwave and dishwasher. • Ceramic • 11 oz mug dimensions: 3.79″ (9.6 cm) in height, 3.25″ (8.3 cm) in diameter • 15 oz mug dimensions: 4.69″ (11.9 cm) in height, 3.35″ (8.5 cm) in diameter • Dishwasher and microwave safe • Blank product sourced from China This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
-  Updated: 2025-04-24T15:45:08Z
+  Updated: 2025-10-21T00:23:55Z
   Vendor: Hibiscus Surfwear
   Product Type: 
   Availability: Available
@@ -17201,7 +17201,7 @@
   Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/all-over-print-large-tote-bag-w-pocket-black-front-6663388fe4492.jpg?v=1717778589
   Price: £41.99 GBP
 - [Echinacea - Hibiscus Surfwear - Womens eco raglan hoodie](https://www.hibiscussurfwear.com/products/echinacea-hibiscus-surfwear-womens-eco-raglan-hoodie): Echinacea - Hibiscus Surfwear - Womens eco raglan hoodie If there’s one fashion rule to live by, let it be that comfort doesn’t have to be compromised for the sake of style. Pair the super-soft unisex eco raglan hoodie with joggers for a relaxed look, or elevate the outfit with a skirt, oversized blazer, or classic trousers. The hoodie’s brushed inside ensures a comfy and snug feel, and will keep you warm during the colder days. • Outside: 100% organic cotton • Charcoal melange is 60% cotton, 40% recycled polyester • Inside for all colors: 80% organic cotton, 20% recycled polyester • Brushed lining • Regular fit • Raglan sleeves • Ribbed cuffs and hem • Drawstrings with metal eyelets and stoppers • Jersey-lined hood • Blank product sourced from Bangladesh This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (inches) WIDTH (inches) XS 25 ⅝ 19 ¼ S 26 ¾ 20 ½ M 27 ¼ 21 ¾ L 27 ⅝ 22 ¾ XL 28.0 24.0 2XL 28 ¼ 25 ¼ 3XL 28 ¾ 26 ⅜
-  Updated: 2025-10-20T21:42:47Z
+  Updated: 2025-10-21T15:45:26Z
   Vendor: Hibiscus Surfwear
   Product Type: 
   Availability: Available
@@ -17227,7 +17227,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-eco-raglan-hoodie-black-front-667577a9c9c99.jpg?v=1718975895
     Price: £67.00 GBP
   - [Black / 2XL](https://www.hibiscussurfwear.com/products/echinacea-hibiscus-surfwear-womens-eco-raglan-hoodie?variant=49458005180729)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-eco-raglan-hoodie-black-front-667577a9c9c99.jpg?v=1718975895
     Price: £67.00 GBP
   - [Black / 3XL](https://www.hibiscussurfwear.com/products/echinacea-hibiscus-surfwear-womens-eco-raglan-hoodie?variant=49458005213497)
@@ -17443,7 +17443,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-eco-raglan-hoodie-white-front-667672bd14be7.jpg?v=1719038931
     Price: £67.00 GBP
 - [Yellow poppies - Hibiscus Surfwear - Womens eco raglan hoodie](https://www.hibiscussurfwear.com/products/yellow-poppies-hibiscus-surfwear-womens-eco-raglan-hoodie): Yellow poppies - Hibiscus Surfwear - Womens eco raglan hoodie If there’s one fashion rule to live by, let it be that comfort doesn’t have to be compromised for the sake of style. Pair the super-soft unisex eco raglan hoodie with joggers for a relaxed look, or elevate the outfit with a skirt, oversized blazer, or classic trousers. The hoodie’s brushed inside ensures a comfy and snug feel, and will keep you warm during the colder days. • Outside: 100% organic cotton • Charcoal melange is 60% cotton, 40% recycled polyester • Inside for all colors: 80% organic cotton, 20% recycled polyester • Brushed lining • Regular fit • Raglan sleeves • Ribbed cuffs and hem • Drawstrings with metal eyelets and stoppers • Jersey-lined hood • Blank product sourced from Bangladesh This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (inches) WIDTH (inches) XS 25 ⅝ 19 ¼ S 26 ¾ 20 ½ M 27 ¼ 21 ¾ L 27 ⅝ 22 ¾ XL 28.0 24.0 2XL 28 ¼ 25 ¼ 3XL 28 ¾ 26 ⅜
-  Updated: 2025-10-20T21:42:47Z
+  Updated: 2025-10-21T15:45:27Z
   Vendor: Hibiscus Surfwear
   Product Type: 
   Availability: Available
@@ -17469,7 +17469,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-eco-raglan-hoodie-black-front-667674c1a222d.jpg?v=1719039262
     Price: £67.00 GBP
   - [Black / 2XL](https://www.hibiscussurfwear.com/products/yellow-poppies-hibiscus-surfwear-womens-eco-raglan-hoodie?variant=49464144036153)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-eco-raglan-hoodie-black-front-667674c1a222d.jpg?v=1719039262
     Price: £67.00 GBP
   - [Black / 3XL](https://www.hibiscussurfwear.com/products/yellow-poppies-hibiscus-surfwear-womens-eco-raglan-hoodie?variant=49464144068921)
@@ -17561,7 +17561,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-eco-raglan-hoodie-white-front-667674c1a62eb.jpg?v=1719039262
     Price: £67.00 GBP
 - [Ficus elastica - Hibiscus Surfwear - Womens eco raglan hoodie](https://www.hibiscussurfwear.com/products/ficus-elastica-hibiscus-surfwear-womens-eco-raglan-hoodie): Ficus elastica - Hibiscus Surfwear - Womens eco raglan hoodie If there’s one fashion rule to live by, let it be that comfort doesn’t have to be compromised for the sake of style. Pair the super-soft unisex eco raglan hoodie with joggers for a relaxed look, or elevate the outfit with a skirt, oversized blazer, or classic trousers. The hoodie’s brushed inside ensures a comfy and snug feel, and will keep you warm during the colder days. • Outside: 100% organic cotton • Charcoal melange is 60% cotton, 40% recycled polyester • Inside for all colors: 80% organic cotton, 20% recycled polyester • Brushed lining • Regular fit • Raglan sleeves • Ribbed cuffs and hem • Drawstrings with metal eyelets and stoppers • Jersey-lined hood • Blank product sourced from Bangladesh This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (inches) WIDTH (inches) XS 25 ⅝ 19 ¼ S 26 ¾ 20 ½ M 27 ¼ 21 ¾ L 27 ⅝ 22 ¾ XL 28.0 24.0 2XL 28 ¼ 25 ¼ 3XL 28 ¾ 26 ⅜
-  Updated: 2025-10-20T21:42:48Z
+  Updated: 2025-10-21T15:45:27Z
   Vendor: Hibiscus Surfwear
   Product Type: 
   Availability: Available
@@ -17587,7 +17587,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-eco-raglan-hoodie-black-front-6676764a1b43a.jpg?v=1719039760
     Price: £67.00 GBP
   - [Black / 2XL](https://www.hibiscussurfwear.com/products/ficus-elastica-hibiscus-surfwear-womens-eco-raglan-hoodie?variant=49464151834937)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-eco-raglan-hoodie-black-front-6676764a1b43a.jpg?v=1719039760
     Price: £67.00 GBP
   - [Black / 3XL](https://www.hibiscussurfwear.com/products/ficus-elastica-hibiscus-surfwear-womens-eco-raglan-hoodie?variant=49464151867705)
@@ -17769,7 +17769,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-eco-raglan-hoodie-white-front-667677b8f09d5.jpg?v=1719040064
     Price: £67.00 GBP
 - [Hummingbird - Hibiscus Surfwear - Womens eco raglan hoodie](https://www.hibiscussurfwear.com/products/hummingbird-hibiscus-surfwear-womens-eco-raglan-hoodie): Hummingbird - Hibiscus Surfwear - Womens eco raglan hoodie If there’s one fashion rule to live by, let it be that comfort doesn’t have to be compromised for the sake of style. Pair the super-soft unisex eco raglan hoodie with joggers for a relaxed look, or elevate the outfit with a skirt, oversized blazer, or classic trousers. The hoodie’s brushed inside ensures a comfy and snug feel, and will keep you warm during the colder days. • Outside: 100% organic cotton • Charcoal melange is 60% cotton, 40% recycled polyester • Inside for all colors: 80% organic cotton, 20% recycled polyester • Brushed lining • Regular fit • Raglan sleeves • Ribbed cuffs and hem • Drawstrings with metal eyelets and stoppers • Jersey-lined hood • Blank product sourced from Bangladesh This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (inches) WIDTH (inches) XS 25 ⅝ 19 ¼ S 26 ¾ 20 ½ M 27 ¼ 21 ¾ L 27 ⅝ 22 ¾ XL 28.0 24.0 2XL 28 ¼ 25 ¼ 3XL 28 ¾ 26 ⅜
-  Updated: 2025-10-20T21:42:47Z
+  Updated: 2025-10-21T15:45:27Z
   Vendor: Hibiscus Surfwear
   Product Type: 
   Availability: Available
@@ -17795,7 +17795,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-eco-raglan-hoodie-black-front-667679003fd9b.jpg?v=1719040508
     Price: £67.00 GBP
   - [Black / 2XL](https://www.hibiscussurfwear.com/products/hummingbird-hibiscus-surfwear-womens-eco-raglan-hoodie?variant=49464164679993)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-eco-raglan-hoodie-black-front-667679003fd9b.jpg?v=1719040508
     Price: £67.00 GBP
   - [Black / 3XL](https://www.hibiscussurfwear.com/products/hummingbird-hibiscus-surfwear-womens-eco-raglan-hoodie?variant=49464164712761)
@@ -17943,7 +17943,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-eco-raglan-hoodie-white-front-6676790046696.jpg?v=1719040293
     Price: £67.00 GBP
 - [Birds of paradise - Hibiscus Surfwear - Womens eco raglan hoodie](https://www.hibiscussurfwear.com/products/birds-of-paradise-hibiscus-surfwear-womens-eco-raglan-hoodie): Birds of paradise - Hibiscus Surfwear - Womens eco raglan hoodie If there’s one fashion rule to live by, let it be that comfort doesn’t have to be compromised for the sake of style. Pair the super-soft unisex eco raglan hoodie with joggers for a relaxed look, or elevate the outfit with a skirt, oversized blazer, or classic trousers. The hoodie’s brushed inside ensures a comfy and snug feel, and will keep you warm during the colder days. • Outside: 100% organic cotton • Charcoal melange is 60% cotton, 40% recycled polyester • Inside for all colors: 80% organic cotton, 20% recycled polyester • Brushed lining • Regular fit • Raglan sleeves • Ribbed cuffs and hem • Drawstrings with metal eyelets and stoppers • Jersey-lined hood • Blank product sourced from Bangladesh This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (inches) WIDTH (inches) XS 25 ⅝ 19 ¼ S 26 ¾ 20 ½ M 27 ¼ 21 ¾ L 27 ⅝ 22 ¾ XL 28.0 24.0 2XL 28 ¼ 25 ¼ 3XL 28 ¾ 26 ⅜
-  Updated: 2025-10-20T21:42:46Z
+  Updated: 2025-10-21T15:45:31Z
   Vendor: Hibiscus Surfwear
   Product Type: 
   Availability: Available
@@ -17969,7 +17969,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-eco-raglan-hoodie-black-front-6676799280d79.jpg?v=1719040600
     Price: £67.00 GBP
   - [Black / 2XL](https://www.hibiscussurfwear.com/products/birds-of-paradise-hibiscus-surfwear-womens-eco-raglan-hoodie?variant=49464167891257)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-eco-raglan-hoodie-black-front-6676799280d79.jpg?v=1719040600
     Price: £67.00 GBP
   - [Black / 3XL](https://www.hibiscussurfwear.com/products/birds-of-paradise-hibiscus-surfwear-womens-eco-raglan-hoodie?variant=49464167924025)
@@ -18117,7 +18117,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-eco-raglan-hoodie-white-front-66767ac9b0203.jpg?v=1719040729
     Price: £67.00 GBP
 - [Pink bloom - Hibiscus Surfwear - Womens eco raglan hoodie](https://www.hibiscussurfwear.com/products/pink-bloom-hibiscus-surfwear-womens-eco-raglan-hoodie): Pink bloom - Hibiscus Surfwear - Womens eco raglan hoodie If there’s one fashion rule to live by, let it be that comfort doesn’t have to be compromised for the sake of style. Pair the super-soft unisex eco raglan hoodie with joggers for a relaxed look, or elevate the outfit with a skirt, oversized blazer, or classic trousers. The hoodie’s brushed inside ensures a comfy and snug feel, and will keep you warm during the colder days. • Outside: 100% organic cotton • Charcoal melange is 60% cotton, 40% recycled polyester • Inside for all colors: 80% organic cotton, 20% recycled polyester • Brushed lining • Regular fit • Raglan sleeves • Ribbed cuffs and hem • Drawstrings with metal eyelets and stoppers • Jersey-lined hood • Blank product sourced from Bangladesh This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (inches) WIDTH (inches) XS 25 ⅝ 19 ¼ S 26 ¾ 20 ½ M 27 ¼ 21 ¾ L 27 ⅝ 22 ¾ XL 28.0 24.0 2XL 28 ¼ 25 ¼ 3XL 28 ¾ 26 ⅜
-  Updated: 2025-10-20T21:42:48Z
+  Updated: 2025-10-21T15:45:31Z
   Vendor: Hibiscus Surfwear
   Product Type: 
   Availability: Available
@@ -18143,7 +18143,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-eco-raglan-hoodie-black-front-66767b80b195d.jpg?v=1719041046
     Price: £67.00 GBP
   - [Black / 2XL](https://www.hibiscussurfwear.com/products/pink-bloom-hibiscus-surfwear-womens-eco-raglan-hoodie?variant=49464177262905)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-eco-raglan-hoodie-black-front-66767b80b195d.jpg?v=1719041046
     Price: £67.00 GBP
   - [Black / 3XL](https://www.hibiscussurfwear.com/products/pink-bloom-hibiscus-surfwear-womens-eco-raglan-hoodie?variant=49464177295673)
@@ -18284,7 +18284,7 @@
     Availability: Available
     Price: £67.00 GBP
 - [Anisoptera - Hibiscus Surfwear - Womens eco raglan hoodie](https://www.hibiscussurfwear.com/products/anisoptera-hibiscus-surfwear-womens-eco-raglan-hoodie): Anisoptera - Hibiscus Surfwear - Womens eco raglan hoodie If there’s one fashion rule to live by, let it be that comfort doesn’t have to be compromised for the sake of style. Pair the super-soft unisex eco raglan hoodie with joggers for a relaxed look, or elevate the outfit with a skirt, oversized blazer, or classic trousers. The hoodie’s brushed inside ensures a comfy and snug feel, and will keep you warm during the colder days. • Outside: 100% organic cotton • Charcoal melange is 60% cotton, 40% recycled polyester • Inside for all colors: 80% organic cotton, 20% recycled polyester • Brushed lining • Regular fit • Raglan sleeves • Ribbed cuffs and hem • Drawstrings with metal eyelets and stoppers • Jersey-lined hood • Blank product sourced from Bangladesh This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (inches) WIDTH (inches) XS 25 ⅝ 19 ¼ S 26 ¾ 20 ½ M 27 ¼ 21 ¾ L 27 ⅝ 22 ¾ XL 28.0 24.0 2XL 28 ¼ 25 ¼ 3XL 28 ¾ 26 ⅜
-  Updated: 2025-10-20T21:42:52Z
+  Updated: 2025-10-21T15:45:31Z
   Vendor: Hibiscus Surfwear
   Product Type: 
   Availability: Available
@@ -18310,7 +18310,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-eco-raglan-hoodie-black-front-66767ca41240e.jpg?v=1719041259
     Price: £67.00 GBP
   - [Black / 2XL](https://www.hibiscussurfwear.com/products/anisoptera-hibiscus-surfwear-womens-eco-raglan-hoodie?variant=49464181424441)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-eco-raglan-hoodie-black-front-66767ca41240e.jpg?v=1719041259
     Price: £67.00 GBP
   - [Black / 3XL](https://www.hibiscussurfwear.com/products/anisoptera-hibiscus-surfwear-womens-eco-raglan-hoodie?variant=49464181457209)
