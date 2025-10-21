@@ -7,7 +7,7 @@
 - Currency: EUR
 - Timezone: Europe/Dublin
 - Created At: 2025-01-23T10:54:05Z
-- Updated At: 2025-10-21T12:00:36.278Z
+- Updated At: 2025-10-21T16:00:36.869Z
 
 ## Products
 
@@ -1384,7 +1384,7 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Liquid-Leather-GT13.5-Leather-Protection-Cream-250-ml-_288.4-oz_29-92000.jpg?v=1737642546
   Price: €14.95 EUR
 - [Glass Polish Felt Polishing Pad 11006](https://glasspolishshop.com/products/gp-pro-felt-polishing-pad-2-inch-50mm): Glass Polish 50mm / 2 inch GP-PRO Felt Polishing Pad. Ideal for cutting and polishing actions resulting high glossy finish on range of surfaces
-  Updated: 2025-10-21T09:33:42Z
+  Updated: 2025-10-21T15:31:36Z
   Vendor: Glass Polish
   Product Type: Felt Polishing Pad
   Availability: Available
@@ -1399,7 +1399,7 @@
     Availability: Available
     Price: €44.95 EUR
 - [Glass Polish Felt Polishing Pad 11007](https://glasspolishshop.com/products/gp-pro-felt-polishing-pad-3-inch-75mm): Glass Polish 75mm / 3 inch GP-PRO Felt Polishing Pad. Ideal for cutting and polishing actions resulting high glossy finish on range of surfaces
-  Updated: 2025-10-21T09:33:13Z
+  Updated: 2025-10-21T15:42:12Z
   Vendor: Glass Polish
   Product Type: Felt Polishing Pad
   Availability: Available
@@ -1414,7 +1414,7 @@
     Availability: Available
     Price: €60.95 EUR
 - [Glass Polish Felt Polishing Pad 11009](https://glasspolishshop.com/products/gp-pro-felt-polishing-pad-4-5-inch-115mm): Glass Polish 115mm / 4.5 inch GP-PRO Felt Polishing Pad. Ideal for cutting and polishing actions resulting high glossy finish on range of surfaces
-  Updated: 2025-10-21T09:30:47Z
+  Updated: 2025-10-21T15:31:36Z
   Vendor: Glass Polish
   Product Type: Felt Polishing Pad
   Availability: Available
@@ -1429,7 +1429,7 @@
     Availability: Available
     Price: €103.95 EUR
 - [Glass Polish Felt Polishing Pad 11008](https://glasspolishshop.com/products/gp-pro-felt-polishing-pad-5-inch-125mm): Glass Polish 125mm / 5 inch GP-PRO Felt Polishing Pad. Ideal for cutting and polishing actions resulting high glossy finish on range of surfaces
-  Updated: 2025-10-21T09:28:00Z
+  Updated: 2025-10-21T15:31:36Z
   Vendor: Glass Polish
   Product Type: Felt Polishing Pad
   Availability: Available
@@ -1444,7 +1444,7 @@
     Availability: Available
     Price: €105.95 EUR
 - [Glass Polish Felt Polishing Pad 11010](https://glasspolishshop.com/products/gp-pro-felt-polishing-pad-6-inch-150mm): Glass Polish 150mm / 6 inch GP-PRO Felt Polishing Pad. Ideal for cutting and polishing actions resulting high glossy finish on range of surfaces
-  Updated: 2025-10-21T09:26:13Z
+  Updated: 2025-10-21T15:31:36Z
   Vendor: Glass Polish
   Product Type: Felt Polishing Pad
   Availability: Available
@@ -1459,7 +1459,7 @@
     Availability: Available
     Price: €129.95 EUR
 - [Glass Polish  Polishing Pad 11023](https://glasspolishshop.com/products/gp-ultra-polishing-pad-5-inch-125mm): 125mm / 5 inch GP-ULTRA the highest quality polishing pad available on the market.  Made of the best quality wool and microfibers to ensure an ultra-fast cutting of surface and shiny finish at the same time.
-  Updated: 2025-10-21T02:56:30Z
+  Updated: 2025-10-21T15:31:36Z
   Vendor: Glass Polish
   Product Type: Hybrid Wool Polishing Pad
   Availability: Available
@@ -1474,7 +1474,7 @@
     Availability: Available
     Price: €69.95 EUR
 - [Glass Polish  Polishing Pad 11025](https://glasspolishshop.com/products/gp-ultra-polishing-pad-6-inch-150mm): 150mm / 6 inch GP-ULTRA the highest quality polishing pad available on the market.  Made of the best quality wool and microfibers to ensure an ultra-fast cutting of surface and shiny finish at the same time.
-  Updated: 2025-10-21T02:57:32Z
+  Updated: 2025-10-21T15:34:27Z
   Vendor: Glass Polish
   Product Type: Hybrid Wool Polishing Pad
   Availability: Available
@@ -1489,7 +1489,7 @@
     Availability: Available
     Price: €82.95 EUR
 - [Glass Polish Premium Wool Pad 16014](https://glasspolishshop.com/products/pro-line-premium-wool-pad-3-inch-75mm): 75mm / 3 inch Pro-Line Premium Wool Pad,  the highest quality wool pad available on the market.  Made of the best quality wool to ensure an ultra-fast cutting of surface and shiny finish at the same time.
-  Updated: 2025-10-21T03:12:13Z
+  Updated: 2025-10-21T15:34:27Z
   Vendor: Glass Polish
   Product Type: Synthetic Wool Polishing Pad
   Availability: Available
@@ -1504,7 +1504,7 @@
     Availability: Available
     Price: €29.95 EUR
 - [Glass Polish Premium Wool Pad 16015](https://glasspolishshop.com/products/pro-line-premium-wool-pad-5-inch-125mm): 125mm / 5 inch Pro-Line Premium Wool Pad,  the highest quality wool pad available on the market.  Made of the best quality wool to ensure an ultra-fast cutting of surface and shiny finish at the same time.
-  Updated: 2025-10-21T03:11:14Z
+  Updated: 2025-10-21T15:34:27Z
   Vendor: Glass Polish
   Product Type: Synthetic Wool Polishing Pad
   Availability: Available
@@ -1519,7 +1519,7 @@
     Availability: Available
     Price: €34.95 EUR
 - [Glass Polish Premium Wool Pad 16010](https://glasspolishshop.com/products/pro-line-premium-wool-pad-3-2-inch-80mm): 80mm / 3.2 inch Pro-Line Premium Wool Pad,  the highest quality wool pad available on the market.  Long wool fibers ensure a bigger cut area than traditional wool pads.
-  Updated: 2025-10-21T03:20:04Z
+  Updated: 2025-10-21T15:34:26Z
   Vendor: Glass Polish
   Product Type: Natural Wool Polishing Pad
   Availability: Available
@@ -1534,7 +1534,7 @@
     Availability: Available
     Price: €34.95 EUR
 - [Glass Polish Premium Wool Pad 16011](https://glasspolishshop.com/products/natural-pro-line-premium-wool-pad-5-inch-125mm): 125mm / 5 inch Natural polishing pad made of 100% 15mm long lambswool fibers. Thanks to its natural origin, it provides an incomparable cutting and shining experience.
-  Updated: 2025-10-21T03:19:43Z
+  Updated: 2025-10-21T15:34:26Z
   Vendor: Glass Polish
   Product Type: Natural Wool Polishing Pad
   Availability: Available
@@ -1549,7 +1549,7 @@
     Availability: Available
     Price: €96.95 EUR
 - [Glass Polish Premium Wool Pad 16012](https://glasspolishshop.com/products/natural-pro-line-premium-wool-pad-6-inch-150mm): 150mm / 6 inch Natural polishing pad made of 100% 15mm long lambswool fibers. Thanks to its natural origin, it provides an incomparable cutting and shining experience.
-  Updated: 2025-10-21T03:21:21Z
+  Updated: 2025-10-21T15:34:26Z
   Vendor: Glass Polish
   Product Type: Natural Wool Polishing Pad
   Availability: Available
@@ -1564,7 +1564,7 @@
     Availability: Available
     Price: €100.95 EUR
 - [Glass Polish Premium Wool Pad 16013](https://glasspolishshop.com/products/natural-pro-line-premium-wool-pad-7-inch-180mm): 180mm / 7 inch Natural polishing pad made of 100% 15mm long lambswool fibers. Thanks to its natural origin, it provides an incomparable cutting and shining experience.
-  Updated: 2025-10-21T03:22:40Z
+  Updated: 2025-10-21T15:34:26Z
   Vendor: Glass Polish
   Product Type: Natural Wool Polishing Pad
   Availability: Available
@@ -1578,12 +1578,27 @@
   - [Pack of 10 Pads](https://glasspolishshop.com/products/natural-pro-line-premium-wool-pad-7-inch-180mm?variant=54283042390351)
     Availability: Available
     Price: €115.95 EUR
-- [Glass Polish Compounding Foam 16102](https://glasspolishshop.com/products/pro-line-compounding-foam-2-inch-50mm): 50mm / 2 inch Pro-Line Compounding Foam. Very firm cutting pad made of 100% white reticulated foam. Blue Velour on one side for high heat resistance and excellent grip against any hook and loop backing pad.
-  Updated: 2025-10-20T21:18:38Z
+- [Glass Polish Compounding Foam 16101](https://glasspolishshop.com/products/pro-line-compounding-foam-1-2-inch-30mm): 30mm / 1.2 inch Pro-Line Compounding Foam. Very firm cutting pad made of 100% white reticulated foam. Blue Velour on one side for high heat resistance and excellent grip against any hook and loop backing pad.
+  Updated: 2025-10-21T14:42:39Z
   Vendor: Glass Polish
   Product Type: Foam Polishing Pad
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Pro-Line-Compounding-Foam-2-50mm-16102.jpg?v=1737642937
+  Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/16101.jpg?v=1761057735
+  - [Pack of 2 Pads](https://glasspolishshop.com/products/pro-line-compounding-foam-1-2-inch-30mm?variant=54283046191439)
+    Availability: Available
+    Price: €4.95 EUR
+  - [Pack of 10 Pads](https://glasspolishshop.com/products/pro-line-compounding-foam-1-2-inch-30mm?variant=54283046224207)
+    Availability: Available
+    Price: €18.95 EUR
+  - [Pack of 20 Pads](https://glasspolishshop.com/products/pro-line-compounding-foam-1-2-inch-30mm?variant=54283046256975)
+    Availability: Available
+    Price: €34.95 EUR
+- [Glass Polish Compounding Foam 16102](https://glasspolishshop.com/products/pro-line-compounding-foam-2-inch-50mm): 50mm / 2 inch Pro-Line Compounding Foam. Very firm cutting pad made of 100% white reticulated foam. Blue Velour on one side for high heat resistance and excellent grip against any hook and loop backing pad.
+  Updated: 2025-10-21T14:46:31Z
+  Vendor: Glass Polish
+  Product Type: Foam Polishing Pad
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/16102.jpg?v=1761057985
   - [Pack of 2 Pads](https://glasspolishshop.com/products/pro-line-compounding-foam-2-inch-50mm?variant=54283049402703)
     Availability: Available
     Price: €8.95 EUR
@@ -1594,11 +1609,11 @@
     Availability: Available
     Price: €63.95 EUR
 - [Glass Polish Compounding Foam 16001](https://glasspolishshop.com/products/pro-line-compounding-foam-3-inch-75mm): 75mm / 3 inch Pro-Line Compounding Foam. Very firm cutting pad made of 100% white reticulated foam. Blue Velour on one side for high heat resistance and excellent grip against any hook and loop backing pad.
-  Updated: 2025-10-20T21:18:38Z
+  Updated: 2025-10-21T15:01:12Z
   Vendor: Glass Polish
   Product Type: Foam Polishing Pad
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Pro-Line-Compounding-Foam-3-75mm-16001.jpg?v=1737642964
+  Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/16103.jpg?v=1761058864
   - [Pack of 2 Pads](https://glasspolishshop.com/products/pro-line-compounding-foam-3-inch-75mm?variant=54283051958607)
     Availability: Available
     Price: €11.95 EUR
@@ -1609,29 +1624,29 @@
     Availability: Available
     Price: €81.95 EUR
 - [Glass Polish Compounding Foam 16002](https://glasspolishshop.com/products/pro-line-compounding-foam-5-inch-125mm): 125mm / 5 inch Pro-Line Compounding Foam. Very firm cutting pad made of 100% white reticulated foam. Blue Velour on one side for high heat resistance and excellent grip against any hook and loop backing pad.
-  Updated: 2025-10-20T21:18:38Z
+  Updated: 2025-10-21T15:13:16Z
   Vendor: Glass Polish
   Product Type: Foam Polishing Pad
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Pro-Line-Compounding-Foam-5-125mm-16002.jpg?v=1737642987
+  Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/16105.jpg?v=1761059520
   - [Pack of 1 Pad](https://glasspolishshop.com/products/pro-line-compounding-foam-5-inch-125mm?variant=54283053007183)
     Availability: Available
-    Price: €7.95 EUR
+    Price: €9.95 EUR
   - [Pack of 5 Pads](https://glasspolishshop.com/products/pro-line-compounding-foam-5-inch-125mm?variant=54283053039951)
     Availability: Available
-    Price: €26.95 EUR
+    Price: €37.25 EUR
   - [Pack of 10 Pads](https://glasspolishshop.com/products/pro-line-compounding-foam-5-inch-125mm?variant=54283053072719)
     Availability: Available
-    Price: €41.95 EUR
+    Price: €59.95 EUR
 - [Glass Polish Compounding Foam 16033](https://glasspolishshop.com/products/pro-line-compounding-foam-6-inch-150mm): 150mm / 6 inch Pro-Line Compounding Foam. Very firm cutting pad made of 100% white reticulated foam. Blue Velour on one side for high heat resistance and excellent grip against any hook and loop backing pad
-  Updated: 2025-10-20T21:18:38Z
+  Updated: 2025-10-21T15:35:57Z
   Vendor: Glass Polish
   Product Type: Foam Polishing Pad
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Pro-Line-Compounding-Foam-6-150mm-16033.jpg?v=1737643014
+  Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/16106.jpg?v=1761059340
   - [Pack of 1 Pad](https://glasspolishshop.com/products/pro-line-compounding-foam-6-inch-150mm?variant=54283055202639)
     Availability: Available
-    Price: €10.95 EUR
+    Price: €11.95 EUR
   - [Pack of 5 Pads](https://glasspolishshop.com/products/pro-line-compounding-foam-6-inch-150mm?variant=54283055235407)
     Availability: Available
     Price: €41.95 EUR
@@ -1639,11 +1654,11 @@
     Availability: Available
     Price: €65.95 EUR
 - [Glass Polish Compounding Foam 16003](https://glasspolishshop.com/products/pro-line-polishing-foam-3-inch-75mm): 75mm / 3 inch Pro-Line Polishing Foam. Ultra-Soft polishing, finishing  pad made of 100% black reticulated foam. Black Velour on one side for high heat resistance and excellent grip against any hook and loop backing pad.
-  Updated: 2025-10-20T21:18:39Z
+  Updated: 2025-10-21T14:24:13Z
   Vendor: Glass Polish
   Product Type: Foam Polishing Pad
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Pro-Line-Polishing-Foam-3-75mm-16003.jpg?v=1737643040
+  Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/16003.jpg?v=1761055220
   - [Pack of 2 Pads](https://glasspolishshop.com/products/pro-line-polishing-foam-3-inch-75mm?variant=54283057365327)
     Availability: Available
     Price: €11.95 EUR
@@ -1654,11 +1669,11 @@
     Availability: Available
     Price: €81.95 EUR
 - [Glass Polish Compounding Foam 16004](https://glasspolishshop.com/products/pro-line-polishing-foam-6-inch-150mm): 150mm / 6 inch Pro-Line Polishing Foam. Ultra-Soft polishing, finishing  pad made of 100% black reticulated foam. Black Velour on one side for high heat resistance and excellent grip against any hook and loop backing pad.
-  Updated: 2025-10-20T21:18:39Z
+  Updated: 2025-10-21T15:16:31Z
   Vendor: Glass Polish
   Product Type: Foam Polishing Pad
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Pro-Line-Polishing-Foam-6-150mm-16005.jpg?v=1737643067
+  Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/16005.jpg?v=1761055459
   - [Pack of 1 Pad](https://glasspolishshop.com/products/pro-line-polishing-foam-6-inch-150mm?variant=54283058807119)
     Availability: Available
     Price: €11.95 EUR
@@ -1669,11 +1684,11 @@
     Availability: Available
     Price: €81.95 EUR
 - [Glass Polish Compounding Foam 16006](https://glasspolishshop.com/products/pro-line-cutting-foam-6-inch-150mm): 150mm / 6 inch Pro-Line Cutting Foam. Firm cutting  pad made of 100% black reticulated foam. Black Velour on one side for high heat resistance and excellent grip against any hook and loop backing pad.
-  Updated: 2025-10-20T21:18:39Z
+  Updated: 2025-10-21T14:22:38Z
   Vendor: Glass Polish
   Product Type: Foam Polishing Pad
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Pro-Line-Cutting-Foam-6-150mm-16006.jpg?v=1737643095
+  Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/16006.jpg?v=1761056535
   - [Pack of 1 Pad](https://glasspolishshop.com/products/pro-line-cutting-foam-6-inch-150mm?variant=54283060052303)
     Availability: Available
     Price: €11.95 EUR
@@ -1696,11 +1711,11 @@
     Availability: Available
     Price: €19.95 EUR
 - [Glass Polish Compounding Foam 16032](https://glasspolishshop.com/products/pro-line-cutting-foam-6-inch-150mm-1): 150mm / 6 inch Pro-Line Cutting Foam. Firm cutting  pad made of 100% black reticulated foam. Black Velour on one side for high heat resistance and excellent grip against any hook and loop backing pad.
-  Updated: 2025-10-20T21:18:39Z
+  Updated: 2025-10-21T14:34:09Z
   Vendor: Glass Polish
   Product Type: Foam Polishing Pad
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Pro-Line-Cutting-Foam-6-150mm-16032.jpg?v=1737643149
+  Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/16032.jpg?v=1761057241
   - [Pack of 1 Pad](https://glasspolishshop.com/products/pro-line-cutting-foam-6-inch-150mm-1?variant=54283065753935)
     Availability: Available
     Price: €11.95 EUR
@@ -2438,7 +2453,7 @@
     Availability: Available
     Price: €27.95 EUR
 - [GlasX 60 Fine Grade Silicon Carbide Disc 75mm](https://glasspolishshop.com/products/glasx-60-fine-grade-abrasive-3-inch-75mm): GlasX™ 60 Constructed from the highest quality silicon carbide particles for GREAT PERFORMANCE / CLEAR CUT - no swirl marks / LONG LIFESPAN- last up to 5 times longer than traditional abrasives.
-  Updated: 2025-10-20T21:18:46Z
+  Updated: 2025-10-21T15:42:07Z
   Vendor: Glass Polish
   Product Type: GlasX™ Foam-Backed Abrasive Discs
   Availability: Available
@@ -2450,7 +2465,7 @@
     Availability: Available
     Price: €34.95 EUR
 - [GlasX 120 Medium Grade Silicon Carbide Disc 75mm](https://glasspolishshop.com/products/glasx-120-medium-grade-abrasive-3-inch-75mm): GlasX™ 120 Constructed from the highest quality silicon carbide particles for GREAT PERFORMANCE / CLEAR CUT - no swirl marks / LONG LIFESPAN- last up to 5 times longer than traditional abrasives.
-  Updated: 2025-10-20T21:18:46Z
+  Updated: 2025-10-21T15:42:11Z
   Vendor: Glass Polish
   Product Type: GlasX™ Foam-Backed Abrasive Discs
   Availability: Available
@@ -2835,21 +2850,21 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/12623_11ba2aed-6f16-411e-9b38-17c1f7326f2d.jpg?v=1760360264
   Price: €16.95 EUR
 - [125mm ( 5 inch) Dense Felt Polishing Pad - 11033](https://glasspolishshop.com/products/125mm-5-inch-dense-felt-polishing-pad): 125mm ( 5 inch) Dense Felt Polishing Pad - 11033 - Felt &amp; Fibre Pads - • Pack of One Dense Polishing Pad• Diameter 125mm ( 5 inch)• Thickness: 10mm• Ideal for polishing, and buffing most metals and stone surfaces. • Hook and Loop Fastening System - co
-  Updated: 2025-10-21T02:45:11Z
+  Updated: 2025-10-21T15:31:35Z
   Vendor: Glass Polish
   Product Type: Felt Polishing Pad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/11033_5ff51f5f-5731-4ab0-a88a-c849605c935c.jpg?v=1749048243
   Price: €8.95 EUR
 - [150mm ( 6 inch) Dense Felt Polishing Pad - 11033](https://glasspolishshop.com/products/150mm-6-inch-dense-felt-polishing-pad): 150mm ( 6 inch) Dense Felt Polishing Pad - 11033 - Felt &amp; Fibre Pads - • Pack of One Dense Polishing Pad• Diameter 150mm ( 6 inch)• Thickness: 10mm• Ideal for polishing, and buffing most metals and stone surfaces. • Hook and Loop Fastening System - co
-  Updated: 2025-10-21T02:45:36Z
+  Updated: 2025-10-21T15:31:35Z
   Vendor: Glass Polish
   Product Type: Felt Polishing Pad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/11033_c36157fd-1670-45b7-b87d-922e81c990c8.jpg?v=1749041046
   Price: €8.95 EUR
 - [180mm ( 7 inch) Dense Felt Polishing Pad - 11034](https://glasspolishshop.com/products/180mm-7-inch-dense-felt-polishing-pad): 180mm ( 7 inch) Dense Felt Polishing Pad - 11034 - Felt &amp; Fibre Pads - • Pack of One Dense Polishing Pad• Diameter 180mm ( 7 inch)• Thickness: 10mm• Ideal for polishing, and buffing most metals and stone surfaces. • Hook and Loop Fastening System - co
-  Updated: 2025-10-21T02:46:13Z
+  Updated: 2025-10-21T15:31:35Z
   Vendor: Glass Polish
   Product Type: Felt Polishing Pad
   Availability: Available
@@ -3022,7 +3037,7 @@
   Updated: 2025-10-21T11:24:09Z
   Total Products: 11
 - [Polishing Pads – Felt, Foam & Wool Pads for Compounding & Polishing](https://glasspolishshop.com/collections/polishing-pads): Shop polishing pads for every stage of restoration. Felt, foam and wool pads for cutting, compounding, polishing and achieving a professional high-gloss finish.
-  Updated: 2025-10-21T11:24:09Z
+  Updated: 2025-10-21T15:12:27Z
   Total Products: 27
 - [Felt Polishing Pads – For Glass, Plastic, Acrylic, Metal & Paint](https://glasspolishshop.com/collections/felt-polishing-pads): Shop felt polishing pads for glass, plastic, metal and paint. Available in medium and dense grades, plus hybrid pads, ideal for scratch removal and finishing.
   Updated: 2025-10-21T11:24:09Z
@@ -3031,7 +3046,7 @@
   Updated: 2025-10-20T21:18:23Z
   Total Products: 8
 - [Foam Polishing Pads – For Detailing, Cutting, Compounding & Finishing](https://glasspolishshop.com/collections/foam-polishing-pads): Explore foam polishing pads for every stage of restoration. Ideal for cutting, compounding, polishing and high-gloss finishing on paint, gelcoat and surfaces.
-  Updated: 2025-10-21T11:24:09Z
+  Updated: 2025-10-21T15:12:27Z
   Total Products: 11
 - [Advanced Polishing Compounds for Glass, Plastic and Metal Restoration](https://glasspolishshop.com/collections/polishing-compounds): High-performance polishing compounds for glass, plastic, and metal restorations. Achieve flawless results with professional formulas used by experts worldwide.
   Updated: 2025-10-21T11:24:09Z
