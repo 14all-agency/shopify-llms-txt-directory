@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2023-07-19T18:27:19Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-10-21T00:00:34.944Z
+- Updated At: 2025-10-21T08:00:37.061Z
 
 ## Products
 
 - [Stretch Velvet Sequin Fabric | Fabrics Star](https://fabricsstar.com/products/sequin-fabric): Sparkle and shine with Sequin Fabric from Fabrics Star. Perfect for adding glamour to dresses, costumes, and decor, this fabric is a must-have for any sewing enthusiast.
-  Updated: 2025-10-19T18:25:07Z
+  Updated: 2025-10-21T06:50:15Z
   Vendor: Fabrics Star
   Product Type: Velvet Sequin Fabric
   Availability: Available
@@ -295,7 +295,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/FESTIVAL-TWILIGHT.jpg?v=1757517134
     Price: $1.00 USD
 - [Soft Velvet Fabric | Fabrics Store](https://fabricsstar.com/products/soft-velvet-fabric-1): Soft Velvet Fabric by the yard is heavyweight and made of 100% polyester. It's soft to the touch and gives a warm and cozy feeling. Shop now!
-  Updated: 2025-10-19T17:30:07Z
+  Updated: 2025-10-21T04:15:28Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -8705,7 +8705,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/WESTBURY-IVORY.jpg?v=1757518722
     Price: $1.00 USD
 - [CONFETTI Fabric, 52 Inch in Width](https://fabricsstar.com/products/confetti)
-  Updated: 2025-09-16T00:43:20Z
+  Updated: 2025-10-21T05:13:38Z
   Vendor: Fabrics Star
   Product Type: Sequin Fabric
   Availability: Available
