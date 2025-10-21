@@ -6,7 +6,7 @@
 - Timezone: Asia/Kuwait
 - Created At: 2025-09-29T02:15:58Z
 - Contact Email: elitebuzkw@gmail.com
-- Updated At: 2025-10-21T16:00:37.130Z
+- Updated At: 2025-10-21T20:00:38.400Z
 
 ## Products
 
@@ -39,19 +39,19 @@
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/100-_-_-My-Store-78357733.webp?v=1760188810
   Price: ‏18.00 د.ك.‏ KWD
 - [مجموعة ألعاب خشبية DP Hailey للأطفال - Dar Toys || متجر دار تويز](https://dartoys.com/products/مجموعة-ألعاب-خشبية-dp-hailey-للأطفال): أضف المرح والتحدي إلى ساحة منزلك مع مجموعة الألعاب ية DP Hailey. تتميز بتصميم متين مصنوع من  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-18T01:06:25Z
+  Updated: 2025-10-21T19:16:07Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/DP-Hailey-_-My-Store-78358352.avif?v=1760188809
-  Price: ‏110.00 د.ك.‏ KWD
+  Price: ‏114.90 د.ك.‏ KWD
 - [مجموعة ألعاب خشبية DP Brooksville Adventure للأطفال - Dar Toys || متجر](https://dartoys.com/products/مجموعة-ألعاب-خشبية-dp-brooksville-adventure-للأطفال): استمتع بمغامرة لا تنتهي مع مجموعة الألعاب الخشبية DP Brooksville Adventure من Dolphin Playground.  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-18T01:06:29Z
+  Updated: 2025-10-21T19:14:03Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/DP-Brooksville-Adventure-_-My-Store-78359378.webp?v=1760188812
-  Price: ‏185.00 د.ك.‏ KWD
+  Price: ‏199.00 د.ك.‏ KWD
 - [طقم ألعاب خشبي Milano من Dolphin Playground للأطفال - Dar Toys || متجر](https://dartoys.com/products/طقم-ألعاب-خشبي-milano-من-dolphin-playground-للأطفال): امنح أطفالك تجربة لعب متكاملة مع طقم الألعاب الخشبي Milano من Dolphin Playground المصمم ليناسب مختلف  - Dar Toys || متجر دار تويز للألعاب
   Updated: 2025-10-18T01:06:32Z
   Vendor: My Store
@@ -3130,7 +3130,7 @@
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/16-_-_-_-_-_-_-My-Store-134416098.png?v=1760281438
   Price: ‏18.00 د.ك.‏ KWD
 - [دراجة هوائية 14, 16, 18, 20 بوصة بتصميم أنثوي ولون وردي مع سلة أمامية](https://dartoys.com/products/دراجة-هوائية-14-16-18-20-بوصة-بتصميم-أنثوي-ولون-وردي-مع-سلة-أمامية): امنح طفلتك تجربة قيادة مليئة بالحماس مع هذه الدراجة الهوائية الرائعة بحجم 16 بوصة بتصميمها العصري  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-18T01:29:32Z
+  Updated: 2025-10-21T18:52:00Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
@@ -4359,7 +4359,7 @@
   Updated: 2025-10-21T03:51:28Z
   Total Products: 37
 - [ألعاب النشاط - Dar Toys || متجر دار تويز للألعاب](https://dartoys.com/collections/ألعاب-النشاط): - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-21T11:19:31Z
+  Updated: 2025-10-21T19:16:08Z
   Total Products: 222
 - [ألعاب خارجية - أفضل معدات اللعب](https://dartoys.com/collections/معدات-اللعب-الخارجية): اكتشف تشكيلة متنوعة من الألعاب الخارجية الممتعة والمناسبة للأطفال. استمتع باللعب في الهواء الطلق مع معدات عالية الجودة.
   Updated: 2025-10-21T03:52:24Z
@@ -4389,16 +4389,16 @@
   Updated: 2025-10-21T01:10:07Z
   Total Products: 6
 - [أفضل المنتجات مبيعا | اكتشف الخيارات المميزة](https://dartoys.com/collections/best-selling-products): استعرض قائمة أفضل المنتجات مبيعا التي تلبي احتياجاتك. اكتشف المزيد عن خيارات الشراء المميزة.
-  Updated: 2025-10-21T11:19:31Z
+  Updated: 2025-10-21T19:16:08Z
   Total Products: 469
 - [أحدث المنتجات الجديدة في السوق](https://dartoys.com/collections/newest-products): استكشف أحدث المنتجات المتوفرة في السوق. تجد هنا المعلومات المفيدة حول التكنولوجيا والموضة وغيرها.
-  Updated: 2025-10-21T11:19:31Z
+  Updated: 2025-10-21T19:16:08Z
   Total Products: 469
 - [استمتع مع نطاطيات وزحلاقيات مدهشة](https://dartoys.com/collections/نطاطيات-وزحلاقيات): اكتشف عالم النطاطيات والزحلاقيات المليء بالمرح والمغامرة. استمتع بتجربة لا تُنسى.
-  Updated: 2025-10-21T03:48:11Z
+  Updated: 2025-10-21T19:16:08Z
   Total Products: 39
 - [ديارف - Dar Toys || متجر دار تويز للألعاب](https://dartoys.com/collections/ديارف): - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-21T03:50:15Z
+  Updated: 2025-10-21T19:16:08Z
   Total Products: 20
 
 ## Blogs
