@@ -7,7 +7,7 @@
 - Currency: EUR
 - Timezone: Europe/Dublin
 - Created At: 2025-01-23T10:54:05Z
-- Updated At: 2025-10-21T16:00:36.869Z
+- Updated At: 2025-10-21T20:00:35.506Z
 
 ## Products
 
@@ -2850,21 +2850,21 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/12623_11ba2aed-6f16-411e-9b38-17c1f7326f2d.jpg?v=1760360264
   Price: €16.95 EUR
 - [125mm ( 5 inch) Dense Felt Polishing Pad - 11033](https://glasspolishshop.com/products/125mm-5-inch-dense-felt-polishing-pad): 125mm ( 5 inch) Dense Felt Polishing Pad - 11033 - Felt &amp; Fibre Pads - • Pack of One Dense Polishing Pad• Diameter 125mm ( 5 inch)• Thickness: 10mm• Ideal for polishing, and buffing most metals and stone surfaces. • Hook and Loop Fastening System - co
-  Updated: 2025-10-21T15:31:35Z
+  Updated: 2025-10-21T19:33:22Z
   Vendor: Glass Polish
   Product Type: Felt Polishing Pad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/11033_5ff51f5f-5731-4ab0-a88a-c849605c935c.jpg?v=1749048243
   Price: €8.95 EUR
 - [150mm ( 6 inch) Dense Felt Polishing Pad - 11033](https://glasspolishshop.com/products/150mm-6-inch-dense-felt-polishing-pad): 150mm ( 6 inch) Dense Felt Polishing Pad - 11033 - Felt &amp; Fibre Pads - • Pack of One Dense Polishing Pad• Diameter 150mm ( 6 inch)• Thickness: 10mm• Ideal for polishing, and buffing most metals and stone surfaces. • Hook and Loop Fastening System - co
-  Updated: 2025-10-21T15:31:35Z
+  Updated: 2025-10-21T19:30:13Z
   Vendor: Glass Polish
   Product Type: Felt Polishing Pad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/11033_c36157fd-1670-45b7-b87d-922e81c990c8.jpg?v=1749041046
   Price: €8.95 EUR
 - [180mm ( 7 inch) Dense Felt Polishing Pad - 11034](https://glasspolishshop.com/products/180mm-7-inch-dense-felt-polishing-pad): 180mm ( 7 inch) Dense Felt Polishing Pad - 11034 - Felt &amp; Fibre Pads - • Pack of One Dense Polishing Pad• Diameter 180mm ( 7 inch)• Thickness: 10mm• Ideal for polishing, and buffing most metals and stone surfaces. • Hook and Loop Fastening System - co
-  Updated: 2025-10-21T15:31:35Z
+  Updated: 2025-10-21T19:27:03Z
   Vendor: Glass Polish
   Product Type: Felt Polishing Pad
   Availability: Available
