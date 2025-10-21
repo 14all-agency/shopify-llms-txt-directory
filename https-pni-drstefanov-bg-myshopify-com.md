@@ -8,7 +8,7 @@
 - Timezone: Europe/Sofia
 - Created At: 2023-01-26T07:29:03Z
 - Contact Email: order@zoomagazin.eu
-- Updated At: 2025-10-21T12:00:30.719Z
+- Updated At: 2025-10-21T16:00:29.932Z
 
 [BRAND]
 Нечовешки магазини Д-р Стефанов" е водеща верига зоомагазини в България, лидер в грижата за домашни любимци. Разполагаме с десетки физически обекти в 14 града, както и онлайн магазин с над 30 000 продукта.
@@ -570,7 +570,7 @@
   Updated: 2025-10-16T20:49:44Z
   Total Products: 5
 - [Reduced](https://pni-drstefanov-bg.myshopify.com/collections/reduced)
-  Updated: 2025-10-20T13:55:40Z
+  Updated: 2025-10-21T13:35:11Z
   Total Products: 285
 - [Постелки за котешка тоалетна - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/postelki-za-toaletna): Постелки с висока абсорбция и контрол на миризмите за котешки тоалетни. Поръчайте ефективна грижа още днес бързо и лесно онлайн с доставка от Зоомагазин Д-р Стефанов.
   Updated: 2025-10-17T09:04:25Z
@@ -786,7 +786,7 @@
   Updated: 2025-10-20T13:55:40Z
   Total Products: 12155
 - [Промоционални оферти](https://pni-drstefanov-bg.myshopify.com/collections/promo-offers): Не пропускайте специалните промоционални оферти, създадени, за да получите повече на по-добра цена. Възползвайте се от нашите актуални промоции сега!
-  Updated: 2025-10-21T07:30:29Z
+  Updated: 2025-10-21T13:35:11Z
   Total Products: 1
 - [Mandatory Fees](https://pni-drstefanov-bg.myshopify.com/collections/mandatory-fees)
   Updated: 2025-10-16T20:49:47Z
