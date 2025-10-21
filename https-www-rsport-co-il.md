@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-10-21T00:01:04.578Z
+- Updated At: 2025-10-21T12:01:04.798Z
 
 ## Products
 
@@ -37397,7 +37397,7 @@
     Availability: Available
     Price: ‏1,699.00 ‏₪ ILS
 - [נעלי כדורגל מקצועיות Phantom 6 Elite High FG](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-fg): נעלי כדורגל מקצועיות Phantom 6 Elite High FG בצבע כחול, לבן וכחול כהה, מיועדות לשחקנים תוקפניים המחפשים דיוק ושליטה מוחלטת. טכנולוגיית Gripknit עם טקסטורה מיוחדת על החלק העליון משפרת את השליטה בכדור לדריבל ובעטות מדויקות. סוליית Cyclone 360 עם פקקי אצבעות סיבוביים מאפשרת שינויי כיוון מהירים וזורמים, ומפחיתה עומס על כף הרגל לנוחות ויציבות משופרות. העיצוב החדש מותאם למגוון צורות רגליים, במיוחד באזור האצבעות, לשיפור הנוחות והביצועים.
-  Updated: 2025-10-20T00:07:19Z
+  Updated: 2025-10-21T05:57:57Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -46790,7 +46790,7 @@
 - [נעלי כדורגל מקצועיות Air Zoom Mercurial Vapor 16 Elite FG Max Voltage](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-air-zoom-mercurial-vapor-16-elite-fg-max-voltage): נעלי הכדורגל Future 8 Ultimate FG של PUMA מיועדות לשחקנים שמחפשים חופש תנועה ושליטה מלאה במגרש. החלק העליון משלב שכבות רבות עם LYCRA בסריג FUZIONSKIN, ומעניק התאמה אישית עם תמיכה בכל תנועה. 3D FUZIONPODS בחזית הנעל מגנים על הרגל ומאפשרים גמישות טבעית למשחק ללא הגבלה, בעוד רצועות PWRTAPE במרכז כף הרגל שומרות על יציבות בזמן דריבל ועקיפה של שחקנים.
 
 השכבה החיצונית כוללת רשת צפופה עם גימור GripControl Pro, המגביר אחיזה בכדור ומסייע לשליטה מלאה בדריבל ולפריצת קווים. סוליית הנעל עם מסמרות בעיצוב מיוחד מאפשרת תנועות סיבוביות חופשיות ומגיבה לכל שינוי כיוון, כדי למקסם את הזריזות והמהירות במגרש. Future 8 Ultimate FG נותנות לך את הכלים לשלוט במשחק ולהשפיע על כל מצב במגרש.
-  Updated: 2025-10-20T21:16:50Z
+  Updated: 2025-10-21T09:16:55Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
@@ -48127,6 +48127,266 @@
   - [47½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-high-cut-fg-max-voltage-limelight-black-hyper-crimson?variant=47841814282490)
     Availability: Available
     Price: ‏1,549.90 ‏₪ ILS
+- [נעלי כדורגל Phantom 6 Pro Low Cut FG Max Voltage](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-pro-low-cut-fg-max-voltage-limelight-black-hyper-crimson): נעלי הכדורגל Future 8 Ultimate FG של PUMA מיועדות לשחקנים שמחפשים חופש תנועה ושליטה מלאה במגרש. החלק העליון משלב שכבות רבות עם LYCRA בסריג FUZIONSKIN, ומעניק התאמה אישית עם תמיכה בכל תנועה. 3D FUZIONPODS בחזית הנעל מגנים על הרגל ומאפשרים גמישות טבעית למשחק ללא הגבלה, בעוד רצועות PWRTAPE במרכז כף הרגל שומרות על יציבות בזמן דריבל ועקיפה של שחקנים.
+
+השכבה החיצונית כוללת רשת צפופה עם גימור GripControl Pro, המגביר אחיזה בכדור ומסייע לשליטה מלאה בדריבל ולפריצת קווים. סוליית הנעל עם מסמרות בעיצוב מיוחד מאפשרת תנועות סיבוביות חופשיות ומגיבה לכל שינוי כיוון, כדי למקסם את הזריזות והמהירות במגרש. Future 8 Ultimate FG נותנות לך את הכלים לשלוט במשחק ולהשפיע על כל מצב במגרש.
+  Updated: 2025-10-21T08:20:41Z
+  Vendor: R:SPORT
+  Product Type: נעלי כדורגל
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/15_cba9f3c6-5fbf-427a-a368-35367996a743.jpg?v=1760991637
+  - [36](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-pro-low-cut-fg-max-voltage-limelight-black-hyper-crimson?variant=47843226255610)
+    Availability: Not Available
+    Price: ‏899.90 ‏₪ ILS
+  - [36½](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-pro-low-cut-fg-max-voltage-limelight-black-hyper-crimson?variant=47843226288378)
+    Availability: Not Available
+    Price: ‏899.90 ‏₪ ILS
+  - [37½](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-pro-low-cut-fg-max-voltage-limelight-black-hyper-crimson?variant=47843226321146)
+    Availability: Not Available
+    Price: ‏899.90 ‏₪ ILS
+  - [38](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-pro-low-cut-fg-max-voltage-limelight-black-hyper-crimson?variant=47843226353914)
+    Availability: Not Available
+    Price: ‏899.90 ‏₪ ILS
+  - [38½](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-pro-low-cut-fg-max-voltage-limelight-black-hyper-crimson?variant=47843226386682)
+    Availability: Available
+    Price: ‏899.90 ‏₪ ILS
+  - [39](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-pro-low-cut-fg-max-voltage-limelight-black-hyper-crimson?variant=47843226419450)
+    Availability: Available
+    Price: ‏899.90 ‏₪ ILS
+  - [40](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-pro-low-cut-fg-max-voltage-limelight-black-hyper-crimson?variant=47843226452218)
+    Availability: Available
+    Price: ‏899.90 ‏₪ ILS
+  - [½40](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-pro-low-cut-fg-max-voltage-limelight-black-hyper-crimson?variant=47843226484986)
+    Availability: Available
+    Price: ‏899.90 ‏₪ ILS
+  - [41](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-pro-low-cut-fg-max-voltage-limelight-black-hyper-crimson?variant=47843226517754)
+    Availability: Available
+    Price: ‏899.90 ‏₪ ILS
+  - [42](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-pro-low-cut-fg-max-voltage-limelight-black-hyper-crimson?variant=47843226550522)
+    Availability: Available
+    Price: ‏899.90 ‏₪ ILS
+  - [42½](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-pro-low-cut-fg-max-voltage-limelight-black-hyper-crimson?variant=47843226583290)
+    Availability: Available
+    Price: ‏899.90 ‏₪ ILS
+  - [43](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-pro-low-cut-fg-max-voltage-limelight-black-hyper-crimson?variant=47843226616058)
+    Availability: Available
+    Price: ‏899.90 ‏₪ ILS
+  - [44](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-pro-low-cut-fg-max-voltage-limelight-black-hyper-crimson?variant=47843226648826)
+    Availability: Available
+    Price: ‏899.90 ‏₪ ILS
+  - [44½](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-pro-low-cut-fg-max-voltage-limelight-black-hyper-crimson?variant=47843226681594)
+    Availability: Available
+    Price: ‏899.90 ‏₪ ILS
+  - [45](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-pro-low-cut-fg-max-voltage-limelight-black-hyper-crimson?variant=47843226714362)
+    Availability: Available
+    Price: ‏899.90 ‏₪ ILS
+  - [45½](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-pro-low-cut-fg-max-voltage-limelight-black-hyper-crimson?variant=47843226747130)
+    Availability: Available
+    Price: ‏899.90 ‏₪ ILS
+  - [46](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-pro-low-cut-fg-max-voltage-limelight-black-hyper-crimson?variant=47843226779898)
+    Availability: Available
+    Price: ‏899.90 ‏₪ ILS
+  - [47](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-pro-low-cut-fg-max-voltage-limelight-black-hyper-crimson?variant=47843226812666)
+    Availability: Available
+    Price: ‏899.90 ‏₪ ILS
+  - [47½](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-pro-low-cut-fg-max-voltage-limelight-black-hyper-crimson?variant=47843226845434)
+    Availability: Available
+    Price: ‏899.90 ‏₪ ILS
+- [נעלי כדורגל Phantom 6 Pro High Cut FG Max Voltage](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-pro-high-cut-fg-max-voltage-limelight-black-hyper-crimson): נעלי הכדורגל Future 8 Ultimate FG של PUMA מיועדות לשחקנים שמחפשים חופש תנועה ושליטה מלאה במגרש. החלק העליון משלב שכבות רבות עם LYCRA בסריג FUZIONSKIN, ומעניק התאמה אישית עם תמיכה בכל תנועה. 3D FUZIONPODS בחזית הנעל מגנים על הרגל ומאפשרים גמישות טבעית למשחק ללא הגבלה, בעוד רצועות PWRTAPE במרכז כף הרגל שומרות על יציבות בזמן דריבל ועקיפה של שחקנים.
+
+השכבה החיצונית כוללת רשת צפופה עם גימור GripControl Pro, המגביר אחיזה בכדור ומסייע לשליטה מלאה בדריבל ולפריצת קווים. סוליית הנעל עם מסמרות בעיצוב מיוחד מאפשרת תנועות סיבוביות חופשיות ומגיבה לכל שינוי כיוון, כדי למקסם את הזריזות והמהירות במגרש. Future 8 Ultimate FG נותנות לך את הכלים לשלוט במשחק ולהשפיע על כל מצב במגרש.
+  Updated: 2025-10-21T08:34:46Z
+  Vendor: R:SPORT
+  Product Type: נעלי כדורגל
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/21_91a8ca7b-658e-46a0-bcba-9049c1b8043f.jpg?v=1760992481
+  - [36](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-pro-high-cut-fg-max-voltage-limelight-black-hyper-crimson?variant=47843269116154)
+    Availability: Available
+    Price: ‏1,189.90 ‏₪ ILS
+  - [36½](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-pro-high-cut-fg-max-voltage-limelight-black-hyper-crimson?variant=47843269148922)
+    Availability: Available
+    Price: ‏1,189.90 ‏₪ ILS
+  - [37½](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-pro-high-cut-fg-max-voltage-limelight-black-hyper-crimson?variant=47843269181690)
+    Availability: Available
+    Price: ‏1,189.90 ‏₪ ILS
+  - [38](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-pro-high-cut-fg-max-voltage-limelight-black-hyper-crimson?variant=47843269214458)
+    Availability: Available
+    Price: ‏1,189.90 ‏₪ ILS
+  - [38½](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-pro-high-cut-fg-max-voltage-limelight-black-hyper-crimson?variant=47843269247226)
+    Availability: Available
+    Price: ‏1,189.90 ‏₪ ILS
+  - [39](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-pro-high-cut-fg-max-voltage-limelight-black-hyper-crimson?variant=47843269279994)
+    Availability: Available
+    Price: ‏1,189.90 ‏₪ ILS
+  - [40](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-pro-high-cut-fg-max-voltage-limelight-black-hyper-crimson?variant=47843269312762)
+    Availability: Available
+    Price: ‏1,189.90 ‏₪ ILS
+  - [½40](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-pro-high-cut-fg-max-voltage-limelight-black-hyper-crimson?variant=47843269345530)
+    Availability: Available
+    Price: ‏1,189.90 ‏₪ ILS
+  - [41](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-pro-high-cut-fg-max-voltage-limelight-black-hyper-crimson?variant=47843269378298)
+    Availability: Available
+    Price: ‏1,189.90 ‏₪ ILS
+  - [42](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-pro-high-cut-fg-max-voltage-limelight-black-hyper-crimson?variant=47843269411066)
+    Availability: Available
+    Price: ‏1,189.90 ‏₪ ILS
+  - [42½](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-pro-high-cut-fg-max-voltage-limelight-black-hyper-crimson?variant=47843269443834)
+    Availability: Available
+    Price: ‏1,189.90 ‏₪ ILS
+  - [43](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-pro-high-cut-fg-max-voltage-limelight-black-hyper-crimson?variant=47843269476602)
+    Availability: Available
+    Price: ‏1,189.90 ‏₪ ILS
+  - [44](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-pro-high-cut-fg-max-voltage-limelight-black-hyper-crimson?variant=47843269509370)
+    Availability: Available
+    Price: ‏1,189.90 ‏₪ ILS
+  - [44½](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-pro-high-cut-fg-max-voltage-limelight-black-hyper-crimson?variant=47843269542138)
+    Availability: Available
+    Price: ‏1,189.90 ‏₪ ILS
+  - [45](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-pro-high-cut-fg-max-voltage-limelight-black-hyper-crimson?variant=47843269574906)
+    Availability: Available
+    Price: ‏1,189.90 ‏₪ ILS
+  - [45½](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-pro-high-cut-fg-max-voltage-limelight-black-hyper-crimson?variant=47843269607674)
+    Availability: Available
+    Price: ‏1,189.90 ‏₪ ILS
+  - [46](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-pro-high-cut-fg-max-voltage-limelight-black-hyper-crimson?variant=47843269640442)
+    Availability: Available
+    Price: ‏1,189.90 ‏₪ ILS
+  - [47](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-pro-high-cut-fg-max-voltage-limelight-black-hyper-crimson?variant=47843269673210)
+    Availability: Available
+    Price: ‏1,189.90 ‏₪ ILS
+  - [47½](https://www.rsport.co.il/products/נעלי-כדורגל-phantom-6-pro-high-cut-fg-max-voltage-limelight-black-hyper-crimson?variant=47843269705978)
+    Availability: Available
+    Price: ‏1,189.90 ‏₪ ILS
+- [נעלי כדורגל מקצועיות Phantom 6 Elite Low Cut FG Scary Good](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-cut-fg-scary-good-royal-tint-bright-crimson): נעלי הכדורגל Future 8 Ultimate FG של PUMA מיועדות לשחקנים שמחפשים חופש תנועה ושליטה מלאה במגרש. החלק העליון משלב שכבות רבות עם LYCRA בסריג FUZIONSKIN, ומעניק התאמה אישית עם תמיכה בכל תנועה. 3D FUZIONPODS בחזית הנעל מגנים על הרגל ומאפשרים גמישות טבעית למשחק ללא הגבלה, בעוד רצועות PWRTAPE במרכז כף הרגל שומרות על יציבות בזמן דריבל ועקיפה של שחקנים.
+
+השכבה החיצונית כוללת רשת צפופה עם גימור GripControl Pro, המגביר אחיזה בכדור ומסייע לשליטה מלאה בדריבל ולפריצת קווים. סוליית הנעל עם מסמרות בעיצוב מיוחד מאפשרת תנועות סיבוביות חופשיות ומגיבה לכל שינוי כיוון, כדי למקסם את הזריזות והמהירות במגרש. Future 8 Ultimate FG נותנות לך את הכלים לשלוט במשחק ולהשפיע על כל מצב במגרש.
+  Updated: 2025-10-21T09:02:57Z
+  Vendor: R:SPORT
+  Product Type: נעלי כדורגל
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/2_d9169951-c1ef-448d-ae7e-8f19adfad9f7.jpg?v=1760994059
+  - [36](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-cut-fg-scary-good-royal-tint-bright-crimson?variant=47843336159482)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [36½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-cut-fg-scary-good-royal-tint-bright-crimson?variant=47843336192250)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [37½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-cut-fg-scary-good-royal-tint-bright-crimson?variant=47843336225018)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [38](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-cut-fg-scary-good-royal-tint-bright-crimson?variant=47843336257786)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [38½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-cut-fg-scary-good-royal-tint-bright-crimson?variant=47843336290554)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [39](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-cut-fg-scary-good-royal-tint-bright-crimson?variant=47843336323322)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-cut-fg-scary-good-royal-tint-bright-crimson?variant=47843336356090)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [½40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-cut-fg-scary-good-royal-tint-bright-crimson?variant=47843336388858)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [41](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-cut-fg-scary-good-royal-tint-bright-crimson?variant=47843336421626)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [42](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-cut-fg-scary-good-royal-tint-bright-crimson?variant=47843336454394)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [42½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-cut-fg-scary-good-royal-tint-bright-crimson?variant=47843336487162)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [43](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-cut-fg-scary-good-royal-tint-bright-crimson?variant=47843336519930)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [44](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-cut-fg-scary-good-royal-tint-bright-crimson?variant=47843336552698)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [44½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-cut-fg-scary-good-royal-tint-bright-crimson?variant=47843336585466)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [45](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-cut-fg-scary-good-royal-tint-bright-crimson?variant=47843336618234)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [45½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-cut-fg-scary-good-royal-tint-bright-crimson?variant=47843336651002)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [46](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-cut-fg-scary-good-royal-tint-bright-crimson?variant=47843336683770)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [47](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-cut-fg-scary-good-royal-tint-bright-crimson?variant=47843336716538)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [47½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-cut-fg-scary-good-royal-tint-bright-crimson?variant=47843336749306)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+- [נעלי כדורגל מקצועיות Phantom 6 Elite Low Cut FG Shadow](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-cut-fg-shadow-black-ice-blue): נעלי הכדורגל Future 8 Ultimate FG של PUMA מיועדות לשחקנים שמחפשים חופש תנועה ושליטה מלאה במגרש. החלק העליון משלב שכבות רבות עם LYCRA בסריג FUZIONSKIN, ומעניק התאמה אישית עם תמיכה בכל תנועה. 3D FUZIONPODS בחזית הנעל מגנים על הרגל ומאפשרים גמישות טבעית למשחק ללא הגבלה, בעוד רצועות PWRTAPE במרכז כף הרגל שומרות על יציבות בזמן דריבל ועקיפה של שחקנים.
+
+השכבה החיצונית כוללת רשת צפופה עם גימור GripControl Pro, המגביר אחיזה בכדור ומסייע לשליטה מלאה בדריבל ולפריצת קווים. סוליית הנעל עם מסמרות בעיצוב מיוחד מאפשרת תנועות סיבוביות חופשיות ומגיבה לכל שינוי כיוון, כדי למקסם את הזריזות והמהירות במגרש. Future 8 Ultimate FG נותנות לך את הכלים לשלוט במשחק ולהשפיע על כל מצב במגרש.
+  Updated: 2025-10-21T09:27:25Z
+  Vendor: R:SPORT
+  Product Type: נעלי כדורגל
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/9999/3594/files/6_fe011367-b4e5-4d19-84f6-7f458f87058e.jpg?v=1760995511
+  - [36](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-cut-fg-shadow-black-ice-blue?variant=47843438592250)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [36½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-cut-fg-shadow-black-ice-blue?variant=47843438625018)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [37½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-cut-fg-shadow-black-ice-blue?variant=47843438657786)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [38](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-cut-fg-shadow-black-ice-blue?variant=47843438690554)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [38½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-cut-fg-shadow-black-ice-blue?variant=47843438723322)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [39](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-cut-fg-shadow-black-ice-blue?variant=47843438756090)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-cut-fg-shadow-black-ice-blue?variant=47843438788858)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [½40](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-cut-fg-shadow-black-ice-blue?variant=47843438821626)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [41](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-cut-fg-shadow-black-ice-blue?variant=47843438854394)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [42](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-cut-fg-shadow-black-ice-blue?variant=47843438887162)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [42½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-cut-fg-shadow-black-ice-blue?variant=47843438919930)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [43](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-cut-fg-shadow-black-ice-blue?variant=47843438952698)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [44](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-cut-fg-shadow-black-ice-blue?variant=47843438985466)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [44½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-cut-fg-shadow-black-ice-blue?variant=47843439018234)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [45](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-cut-fg-shadow-black-ice-blue?variant=47843439051002)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [45½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-cut-fg-shadow-black-ice-blue?variant=47843439083770)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [46](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-cut-fg-shadow-black-ice-blue?variant=47843439116538)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [47](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-cut-fg-shadow-black-ice-blue?variant=47843439149306)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
+  - [47½](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-low-cut-fg-shadow-black-ice-blue?variant=47843439182074)
+    Availability: Available
+    Price: ‏1,499.90 ‏₪ ILS
 
 ## Collections
 
@@ -48506,7 +48766,7 @@
   Updated: 2025-10-18T17:42:05Z
   Total Products: 17
 - [נעלי כדורגל](https://www.rsport.co.il/collections/נעלי-כדורגל)
-  Updated: 2025-10-20T21:27:21Z
+  Updated: 2025-10-21T01:36:12Z
   Total Products: 83
 - [נעלי כדורגל FG](https://www.rsport.co.il/collections/נעלי-כדורגל-fg)
   Updated: 2025-10-20T11:10:52Z
@@ -48605,7 +48865,7 @@
   Updated: 2025-10-02T11:31:37Z
   Total Products: 12
 - [AVADA - Best Sellers](https://www.rsport.co.il/collections/avada-best-sellers)
-  Updated: 2025-10-20T21:27:21Z
+  Updated: 2025-10-21T01:36:12Z
   Total Products: 2104
 - [פיורנטינה רטרו](https://www.rsport.co.il/collections/פיורנטינה-רטרו): אנו מציעים חולצות כדורגל רטרו של פיורנטינה מהעבר המפואר, בעיצובים קלאסיים ששימשו את הקבוצה בשנות ה-90 ותחילת ה-2000. בין השחקנים הבולטים מהתקופות הללו: גבריאל באטיסטוטה, ווֹלפגנג מולה, אנג'לו די ליוויו ופרנצ'סקו טולדו. כל פריט בקטגוריה מחבר אתכם להיסטוריה המפוארת של פיורנטינה ומספק חוויה נוסטלגית לחובבי הכדורגל.
   Updated: 2025-10-02T11:15:25Z
@@ -48833,7 +49093,7 @@
   Updated: 2025-10-16T07:36:33Z
   Total Products: 4
 - [Nike Max Voltage](https://www.rsport.co.il/collections/nike-max-voltage)
-  Updated: 2025-10-20T21:03:23Z
+  Updated: 2025-10-21T01:36:10Z
   Total Products: 14
 - [נעלי כדורגל Mercurial](https://www.rsport.co.il/collections/football-boots-mercurial)
   Updated: 2025-10-20T10:56:09Z
@@ -48845,7 +49105,7 @@
   Updated: 2025-10-20T10:56:09Z
   Total Products: 28
 - [נעלי כדורגל נייק](https://www.rsport.co.il/collections/נעלי-כדורגל-נייק)
-  Updated: 2025-10-20T21:27:21Z
+  Updated: 2025-10-21T01:36:12Z
   Total Products: 28
 - [נעליי כדורגל נייק לילדים](https://www.rsport.co.il/collections/נעליי-כדורגל-נייק-לילדים)
   Updated: 2025-10-17T14:25:29Z
