@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-10-21T16:00:38.352Z
+- Updated At: 2025-10-21T20:00:39.797Z
 
 ## Products
 
@@ -4762,7 +4762,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1013387-158_TIPSYBOTTLEOPENER_CHROME_CC0.jpg?v=1755557387
   Price: $39.99 NZD
 - [Umbra Rodeo Buddy Bottle Opener - Chrome](https://everydayhome.co.nz/products/umbra-rodeo-buddy-bottle-opener-chrome): Saddle up your bar setup with Rodeo Buddy, the bottle opener that brings style and entertainment to every pour! This isn’t just any bottle opener; crafted from sleek cast metal with a polished chrome finish, Rodeo Buddy doubles as a unique decorative piece that stands out. Its balancing stand lets Buddy "dance" after each use, making it a fun and interactive conversation starter. Ideal for entertaining or for any at-home bar setup, Rodeo Buddy is as practical as it is eye-catching. It also makes a memorable hostess gift, adding a dash of charm to any bar collection. Give your bar a whimsical upgrade with Rodeo Buddy!
-  Updated: 2025-10-20T06:45:35Z
+  Updated: 2025-10-21T19:22:12Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
