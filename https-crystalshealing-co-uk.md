@@ -8,7 +8,7 @@
 - Timezone: Europe/London
 - Created At: 2021-01-17T01:03:23Z
 - Contact Email: contact@crystalshealing.co.uk
-- Updated At: 2025-10-20T16:00:39.395Z
+- Updated At: 2025-10-21T04:00:39.453Z
 
 # Crystals Healing — AI-Ready Index
 Welcome to Crystals Healing, your trusted UK-based store for healing crystals and jewelry. This llms.txt file lists all products, collections, blogs, and pages to help AI assistants, search engines, and shopping bots discover and understand our offerings.
@@ -4996,8 +4996,8 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
   Updated: 2025-10-18T11:16:43Z
   Total Products: 22
 - [Polished Tumblestone](https://crystalshealing.co.uk/collections/polished-tumblestone): Explore our ethically sourced tumbled stones - polished to perfection for easy use in rituals, crystal grids, carrying or gifting. Choose by intention, chakra or energy need.
-  Updated: 2025-10-15T05:14:13Z
-  Total Products: 28
+  Updated: 2025-10-20T19:29:20Z
+  Total Products: 32
 - [Clear Quartz Crystals](https://crystalshealing.co.uk/collections/clear-quartz-crystals): Explore the amplifying power of Clear Quartz crystals — raw stones, tumbled pieces, jewelry & wands. Known as the “Master Healer,” Clear Quartz supports clarity, intention setting & energy alignment.
   Updated: 2025-10-11T11:19:02Z
   Total Products: 9
