@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-10-20T20:01:09.412Z
+- Updated At: 2025-10-21T08:01:13.494Z
 
 ## Products
 
@@ -7267,7 +7267,7 @@ ela tem o seu arco e flecha, assim como a sua lança preparados. A Knight
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/figuras-de-batalha-pokemon-chikorita-abra-jolteon-23234922-pokemon-1178694951.jpg?v=1752811803
   Price: 22,99 € EUR
 - [Pokemon GO V Battle Deck Melmetal](https://brincatoys.pt/products/pokemon-go-v-battle-deck-melmetal): Unleash metal mayhem with a deck led by Melmetal V! Melmetal V brings the crushing power of Metal types, so you can land quick hits turn after turn, keep Energy in play, and master all the tricks of these V Battle Decks! In this box, you’ll find: 1 ready-to-play 60-card deck 3 reference cards 1 rules booklet Single-player playmat Damage counters 1
-  Updated: 2025-10-18T09:33:55Z
+  Updated: 2025-10-21T07:46:05Z
   Vendor: Cartas Pokémon
   Product Type: + 6 anos
   Availability: Available
@@ -8747,7 +8747,7 @@ reprodutor e suas crias. Cada indivíduo desempenha uma função específic...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/tambor-621242122-brincatoys-1178695431.jpg?v=1752874460
   Price: 6,50 € EUR
 - [Tambor Bebé](https://brincatoys.pt/products/tambor-bebe): Com o tambor de bebé envolvente, o seu filho pode experimentar a maravilha da música e a alegria do ritmo desde muito cedo.  Dimensão: 18 x 18 x 16 cm.Idade Recomendada: + de 6 meses.
-  Updated: 2025-10-20T19:58:51Z
+  Updated: 2025-10-21T03:50:44Z
   Vendor: Seleção Brincatoys
   Product Type: + 6 meses
   Availability: Available
@@ -14914,7 +14914,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-ninjago-71809-egalt-o-mestre-dragao-conjunto-epico-667180924-5702017584539-lego-1178698509.jpg?v=1752927963
   Price: 69,90 € EUR
 - [Cartão-oferta](https://brincatoys.pt/products/cartao-oferta): O que é o Cartão-oferta? O Cartão-oferta Brincatoys é a solução ideal para presentear, permitindo que o destinatário escolha exatamente o que deseja na nossa loja online. Consiste num voucher digital, enviado por e-mail, com um valor pré-selecionado. Este valor pode ser utilizado, até ao limite do saldo existente, na realização de uma ou mais compras exclusivamente em www.brincatoys.pt. Como adquirir o Cartão-oferta Escolha o Valor: Selecione um dos valores pré-definidos para o seu cartão e adicione-o ao cesto de compras. Personalize (Opcional): Caso pretenda enviar o cartão diretamente a um terceiro, preencha o formulário com o endereço de e-mail do destinatário. Pode também indicar uma data de envio específica e escrever uma mensagem personalizada. Finalize a Encomenda e Pagamento: Prossiga para o checkout. Preencha os dados de faturação necessários e proceda ao pagamento para concluir a sua encomenda (o registo de cliente não é obrigatório). Receção do Voucher: Após o processamento da encomenda, o voucher digital será enviado para o(s) e-mail(s) indicado(s) (comprador e/ou destinatário). Oferecer Manualmente: Se optar por receber o cartão apenas no seu e-mail, poderá reencaminhá-lo ou imprimi-lo para o oferecer. Como utilizar o Cartão-oferta Faça as suas Compras: Navegue pela loja www.brincatoys.pt e adicione os produtos desejados ao carrinho. Insira o Código: No checkout (finalização da encomenda), insira o código único que consta no voucher no campo "Cartão de oferta". Desconte o Saldo: O valor do cartão será automaticamente deduzido do total da sua compra. Utilização Parcial: O código é válido em diversas compras individuais. Não é necessário utilizar o saldo total de uma só vez; o valor remanescente ficará disponível para compras futuras. Valor Excedente: Se o valor da compra exceder o crédito disponível no Cartão-Oferta, o cliente pagará o valor excedente através de um dos outros métodos de pagamento aceites pela nossa loja. Consulta de Saldo: O saldo do Cartão-oferta pode ser consultado a qualquer momento através do link fornecido no e-mail original ou, caso seja utilizador, adicionado e visualizado na aplicação Apple Wallet. Termos e Condições de utilização Validade: O Cartão-oferta é ativado no momento da emissão e não possui data de validade. Não Reembolsável: O Cartão-oferta BRINCATOYS não pode ser trocado por dinheiro, revendido, reembolsado (mesmo parcialmente) ou creditado num cartão ou conta bancária. Exclusividade Online: O cartão é válido apenas para compras online em www.brincatoys.pt. Responsabilidade: A BRINCATOYS não se responsabiliza pela perda, roubo, extravio, danificação ou uso não autorizado do Voucher Cartão-oferta. O mesmo não será substituído ou reembolsado em nenhuma circunstância.
-  Updated: 2025-10-20T19:38:44Z
+  Updated: 2025-10-21T04:12:59Z
   Vendor: Seleção Brincatoys
   Product Type: 
   Availability: Available
@@ -16806,7 +16806,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/play-doh-starters-formas-criativas-kit-criativo-90853424-5010996136435-play-doh-1178700133.jpg?v=1752788414
   Price: 13,50 € EUR
 - [Brinquedo em Peluche da Bluey 20 cm](https://brincatoys.pt/products/peluche-bluey-20-cm): Encontre o brinquedo em peluche da Bluey de 20 cm e ofereça o abraço mais macio e divertido! Este peluche é perfeito para crianças criativas.
-  Updated: 2025-10-13T06:18:07Z
+  Updated: 2025-10-20T21:23:38Z
   Vendor: Bluey
   Product Type: + 3 anos
   Availability: Available
