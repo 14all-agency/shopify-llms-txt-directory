@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2019-08-25T03:49:02Z
 - Contact Email: sales@milvertons.com
-- Updated At: 2025-10-20T16:00:36.773Z
+- Updated At: 2025-10-21T04:00:37.870Z
 
 ## Products
 
@@ -4862,7 +4862,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/ribbed-cardigan-with-feather-accents-and-gold-button-details-918504.jpg?v=1729021092
     Price: $84.00 USD
 - [Cropped Blazer with Fringe Trim and Lapel Collar Detail](https://milvertons.com/products/fringe-trim-lapel-collar-cropped-blazer): Cropped Blazer with Fringe Trim and Lapel Collar Detail. Unique and Stylish, this blazer adds a touch of sophistication and edge to any outfit. Order yours now
-  Updated: 2025-10-20T13:26:11Z
+  Updated: 2025-10-20T23:20:41Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Outerwear - Jackets
   Availability: Available
@@ -8852,7 +8852,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/rhinestone-open-toe-block-heels-sandals-9833808.webp?v=1758168945
     Price: $39.52 USD
 - [POL V-Neck Long Sleeve T-Shirt with Lace Detail](https://milvertons.com/products/pol-v-neck-long-sleeve-t-shirt-with-lace-detail): POL V-Neck Long Sleeve T-Shirt. Features include a flattering V-neckline, long sleeve with intricate lace paneling. Perfect for layering, or creating chic looks
-  Updated: 2025-10-14T08:18:09Z
+  Updated: 2025-10-21T01:15:16Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Shirts - Blouses
   Availability: Available
@@ -8866,7 +8866,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/pol-v-neck-long-sleeve-t-shirt-with-lace-detail-7119103.webp?v=1751224302
     Price: $70.41 USD
   - [Blush Pink / L](https://milvertons.com/products/pol-v-neck-long-sleeve-t-shirt-with-lace-detail?variant=46682706215150)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/pol-v-neck-long-sleeve-t-shirt-with-lace-detail-7119103.webp?v=1751224302
     Price: $70.41 USD
 - [Davi & Dani Floral Mesh Long Sleeve Sheer Layering Top](https://milvertons.com/products/davi-dani-floral-mesh-long-sleeve-sheer-layering-top): Davi & Dani Floral Mesh Long Sleeve Sheer Layering Top. This elegant chiffon blouse features a flattering high neckline, and a fitted silhouette. Shop now!
@@ -10880,8 +10880,8 @@
   Updated: 2024-04-16T16:48:12Z
   Total Products: 3
 - [Women's Shoes and Bags Collection](https://milvertons.com/collections/women-shoes-bags): Shop our carefully curated selection of Women's Shoes and Bags. This collection features everything from most feminine designs to timelessly classic styles.
-  Updated: 2025-10-19T05:26:42Z
-  Total Products: 138
+  Updated: 2025-10-20T22:44:38Z
+  Total Products: 137
 - [Shoes](https://milvertons.com/collections/shoes): Shoes - A gallery of contemporary shoes
   Updated: 2025-09-07T11:03:40Z
   Total Products: 44
@@ -10913,8 +10913,8 @@
   Updated: 2025-10-19T04:20:51Z
   Total Products: 99
 - [Milvertons Facebook Shop - Manual](https://milvertons.com/collections/milvertons-facebook-shop-old): Milvertons Facebook Shop - Manual
-  Updated: 2025-10-07T08:47:27Z
-  Total Products: 173
+  Updated: 2025-10-20T22:44:38Z
+  Total Products: 172
 - [Fashion Boxes and Bags](https://milvertons.com/collections/fashion-boxes-and-bags): Fashion Boxes and Bags
   Updated: 2025-10-05T19:25:35Z
   Total Products: 17
@@ -10946,8 +10946,8 @@
   Updated: 2025-06-30T01:57:26Z
   Total Products: 22
 - [Women's Shoes and Bags - Multiple Size Variants](https://milvertons.com/collections/womens-shoes-and-bags-multiple-size-variants): Women's Shoes and Bags - Multiple Size Variants
-  Updated: 2025-10-07T08:47:27Z
-  Total Products: 58
+  Updated: 2025-10-20T22:44:38Z
+  Total Products: 57
 - [Best Selling Products](https://milvertons.com/collections/best-selling-products): Best Selling Products
   Updated: 2023-03-20T02:46:07Z
   Total Products: 0
@@ -10955,17 +10955,17 @@
   Updated: 2023-03-20T02:45:03Z
   Total Products: 0
 - [All Products - Published but OOS](https://milvertons.com/collections/all-products-oos): Out of Stock Products.
-  Updated: 2025-10-11T07:08:01Z
+  Updated: 2025-10-21T01:15:46Z
   Total Products: 159
 - [All Products - Published and in stock](https://milvertons.com/collections/all-products-available-in-online-store): All Products - Published, Active and Available in the Online Store Sales Channel,
   Updated: 2025-10-19T04:20:51Z
   Total Products: 193
 - [All Products - OOS](https://milvertons.com/collections/all-products-oos-1): All Products - Out of stock, yet published in Online Store
-  Updated: 2025-10-11T07:08:02Z
+  Updated: 2025-10-21T01:15:46Z
   Total Products: 158
 - [All Products - Active and Draft](https://milvertons.com/collections/all-products-active-and-draft): All Products in the store - Active and Draft
-  Updated: 2025-10-19T04:20:51Z
-  Total Products: 517
+  Updated: 2025-10-20T22:44:38Z
+  Total Products: 516
 - [Milvertons Google Shop](https://milvertons.com/collections/milvertons-google-shop): Milvertons Google Shop - Product listings on Google
   Updated: 2025-09-24T20:00:47Z
   Total Products: 16
@@ -10976,8 +10976,8 @@
   Updated: 2025-10-20T05:26:05Z
   Total Products: 47
 - [Milvertons Instagram Shop - Manual](https://milvertons.com/collections/milvertons-instagram-shop): Milvertons Instagram Shop - Manual
-  Updated: 2025-10-07T08:47:27Z
-  Total Products: 145
+  Updated: 2025-10-20T22:44:38Z
+  Total Products: 144
 - [Shirts and Blouses](https://milvertons.com/collections/shirts-and-blouses): Women's Apparel - Shirts and Blouses
   Updated: 2025-03-30T00:47:53Z
   Total Products: 9
@@ -11003,8 +11003,8 @@
   Updated: 2025-10-12T09:25:47Z
   Total Products: 56
 - [UpOrder - Recommended Products](https://milvertons.com/collections/spently_products): This collection is used by the UpOrder app, to make product recommendations in your Shopify notification and auto follow up emails. It's important to note that this collection is “hidden”, it is not be visible on your website. By default, your Best-Selling products will be recommended, but you can customize what is recommend by editing the collection. The collection is updated automatically every 4 hours in order to recommend the best products to your customers in your emails. We only recommend products that are in stock, visible online, and have not been purchased by the customer receiving the notification or auto follow-up email. To enable/disable recommendations in your emails, login to the UpOrder app, remove the Recommended Products component, and re-export your template.
-  Updated: 2025-10-19T04:20:51Z
-  Total Products: 348
+  Updated: 2025-10-21T01:15:46Z
+  Total Products: 347
 - [Black Friday & Cyber Monday Deals](https://milvertons.com/collections/bfcm-deals): Black Friday & Cyber Monday Deals - Products from this collection are on sale at 15% off. Items in this collection trigger this offer when added to your cart.
   Updated: 2023-11-29T08:14:38Z
   Total Products: 0
@@ -11030,8 +11030,8 @@
   Updated: 2025-09-26T06:52:19Z
   Total Products: 82
 - [T-shirt Collective](https://milvertons.com/collections/t-shirt-collective): T-shirt Collective - Shop stylish and expressive t-shirts at T-shirt Collective. Find your next favorite tee! Browse our collection.
-  Updated: 2025-10-06T18:28:51Z
-  Total Products: 24
+  Updated: 2025-10-21T01:15:46Z
+  Total Products: 23
 - [Apparel & Accessories](https://milvertons.com/collections/apparel-accessories)
   Updated: 2025-09-18T18:33:00Z
   Total Products: 0
@@ -11611,11 +11611,11 @@
     Author: The Milvertons Store
     Tags: bags, dresses, fashion, matching accessories, matching shoes and bag for women, outfit coordination, pairing shoes and bags, shoe and bag set for women, shoes, style tips for women, women's clothing, women's fashion, women's shoe and bag set, women's style
   - [Expert Tips for Crafting Coordinated Women's Fashion with Shoes and Bags](https://milvertons.com/blogs/blog/expert-tips-for-crafting-coordinated-womens-fashion-with-shoes-and-bags): Expert Tips for Crafting Coordinated Women's Fashion with Shoes and Bags
-    Updated: 2025-10-20T09:10:16Z
+    Updated: 2025-10-20T18:52:32Z
     Author: The Milvertons Store
     Tags: bags, coordinated outfits, dresses, fashion, matching shoes and bag for women, matching shoes and bags, shoe and bag set for women, shoes, stylish accessories, women's clothing, women's fashion, women's fashion tips, women's shoe and bag set
   - [Italian bag and shoe sets – Polished, coordinated style | Milvertons](https://milvertons.com/blogs/blog/color-pairing-rules-that-elevate-italian-bag-and-shoe-sets): Italian bag and shoe sets – Polished, coordinated style | Milvertons
-    Updated: 2025-10-20T14:00:12Z
+    Updated: 2025-10-20T18:52:34Z
     Author: The Milvertons Store
 
 ## Store Pages
