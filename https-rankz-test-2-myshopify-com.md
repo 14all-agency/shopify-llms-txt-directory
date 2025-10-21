@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2025-10-20T08:44:40Z
 - Contact Email: aleksandar@pursuitz.io
-- Updated At: 2025-10-21T08:02:49.978Z
+- Updated At: 2025-10-21T16:00:29.278Z
 
 ## Products
 
 - [The Inventory Not Tracked Snowboard](https://rankz-test-2.myshopify.com/products/the-inventory-not-tracked-snowboard)
-  Updated: 2025-10-20T20:47:10Z
+  Updated: 2025-10-21T11:18:34Z
   Vendor: rankz-test
   Product Type: snowboard
   Availability: Available
@@ -144,13 +144,13 @@
   Image: https://cdn.shopify.com/s/files/1/0696/3029/6142/files/Main_b13ad453-477c-4ed1-9b43-81f3345adfd6.jpg?v=1760949920
   Price: $749.95 USD
 - [Yellow Snowboard](https://rankz-test-2.myshopify.com/products/yellow-snowboard)
-  Updated: 2025-10-20T09:34:04Z
+  Updated: 2025-10-21T13:18:10Z
   Vendor: rankz-test
   Product Type: 
   Availability: Available
   Price: $100.00 USD
 - [Red Snowboard](https://rankz-test-2.myshopify.com/products/red-snowboard)
-  Updated: 2025-10-20T09:17:55Z
+  Updated: 2025-10-21T12:32:51Z
   Vendor: rankz-test
   Product Type: 
   Availability: Available
