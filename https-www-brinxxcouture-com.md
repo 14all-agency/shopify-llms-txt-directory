@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2025-10-21T12:00:55.334Z
+- Updated At: 2025-10-21T20:00:53.959Z
 
 ## Products
 
@@ -4341,7 +4341,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Plus-Size-Striped-Tie-Back-Cropped-Cami-Brinxx-Couture-2006.jpg?v=1709311114
     Price: $25.00 USD
 - [Plus Size Drawstring Sweetheart Neck Babydoll Blouse](https://www.brinxxcouture.com/products/plus-size-drawstring-sweetheart-neck-babydoll-blouse): Sizing category: Plus Pattern type: Solid Style: Casual, chic Features: Drawstring Neckline: Sweetheart neck Length: Regular Sleeve length: Long sleeves Sleeve type: Flutter sleeves Material: 95% polyester, 5% spandex Stretch: Slightly stretchy Sheer: No Body: Not lined Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: 1X: bust 41 in, sleeve length 11 in, length 21 in, hem width 70 in2X: bust 44 in, sleeve length 11 in, length 21 in, hem width 74 in3X: bust 47 in, sleeve length 12 in, length 22 in, hem width 78 in4X: bust 50 in, sleeve length 12 in, length 22 in, hem width 82 in5X: bust 53 in, sleeve length 12 in, length 22 in, hem width 86 in
-  Updated: 2025-10-14T10:50:41Z
+  Updated: 2025-10-21T12:40:48Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -4359,7 +4359,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Plus-Size-Drawstring-Sweetheart-Neck-Babydoll-Blouse-Brinxx-Couture-5280.jpg?v=1709311319
     Price: $34.00 USD
   - [Black / 4X](https://www.brinxxcouture.com/products/plus-size-drawstring-sweetheart-neck-babydoll-blouse?variant=42181395251382)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Plus-Size-Drawstring-Sweetheart-Neck-Babydoll-Blouse-Brinxx-Couture-5280.jpg?v=1709311319
     Price: $34.00 USD
   - [Black / 5X](https://www.brinxxcouture.com/products/plus-size-drawstring-sweetheart-neck-babydoll-blouse?variant=42181395284150)
@@ -8350,7 +8350,7 @@
     Availability: Available
     Price: $40.00 USD
 - [Long Sleeve Raw Hem Denim Jacket - Brinxx Couture](https://www.brinxxcouture.com/products/long-sleeve-raw-hem-denim-jacket): Step out in style with the Long Sleeve Raw Hem Denim Jacket! Featuring trendy raw hem edges, this jacket brings a fun twist to classic denim vibes. Free Shipping
-  Updated: 2025-10-19T20:40:00Z
+  Updated: 2025-10-21T15:46:37Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -8460,7 +8460,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/High-Neck-Long-Sleeve-Ribbed-Top-Brinxx-Couture-6079_ae99505f-4811-4797-bf89-89c3a0f73de1.jpg?v=1736050169
     Price: $25.00 USD
 - [Distressed Raw Hem Denim Jacket - Brinxx Couture](https://www.brinxxcouture.com/products/distressed-raw-hem-denim-jacket): This distressed raw hem denim jacket is the perfect way to make a statement. With its distressed raw hem design, you'll look cool and effortless.
-  Updated: 2025-10-21T11:00:41Z
+  Updated: 2025-10-21T14:00:36Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -17932,7 +17932,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Tied-Striped-Cap-Sleeve-Mini-Dress-Brinxx-Couture-5143.jpg?v=1721353335
     Price: $24.99 USD
 - [Plus Size Cold Shoulder Short Sleeve Mini Dress](https://www.brinxxcouture.com/products/plus-size-cold-shoulder-short-sleeve-mini-dress): Features: Basic style Sheer: Opaque Stretch: Slightly stretchy Body: Not lined Material composition: 95% polyester, 5% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Size Length Bust 1XL 34.6 39 2XL 35.2 41.3 3XL 35.8 43.7 4XL 36.4 46.1 5XL 37 48.4
-  Updated: 2025-10-01T22:27:01Z
+  Updated: 2025-10-21T15:36:11Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -23257,7 +23257,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Notch-Lapel-Woven-Coat-with-Side-Pockets-Brinxx-Couture-2936.jpg?v=1730297108
     Price: $40.00 USD
 - [Cable-Knit Round Neck Sweater Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress): Wrap yourself in cozy comfort and timeless style with our Cable-Knit Round Neck Sweater Dress! Made from soft, high-quality materials.
-  Updated: 2025-10-21T10:20:48Z
+  Updated: 2025-10-21T15:00:52Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -25161,7 +25161,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Long-Faux-Fur-Overcoat-Brinxx-Couture-6449.jpg?v=1730299843
     Price: $89.99 USD
 - [Judy Blue Medium Rise Bootcut Jeans - Brinxx Couture](https://www.brinxxcouture.com/products/judy-blue-full-size-medium-rise-bootcut-jeans): Introducing the must-have item for stylish and comfortable everyday wear: Judy Blue Medium Rise Bootcut Jeans! Featuring a flattering medium rise and boot cut.
-  Updated: 2025-10-19T20:25:01Z
+  Updated: 2025-10-21T17:03:42Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -25444,7 +25444,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/PU-Leather-Sling-Shoulder-Bag-Brinxx-Couture-7979.webp?v=1730300291
     Price: $19.99 USD
 - [Geometric Round Neck Long Sleeve Sweater - Brinxx Couture](https://www.brinxxcouture.com/products/geometric-round-neck-long-sleeve-sweater): Stay warm and stylish with our Geometric Round Neck Long Sleeve Sweater. This cozy sweater features a unique geometric design on the round neck and long sleeves.
-  Updated: 2025-10-12T16:58:00Z
+  Updated: 2025-10-21T17:07:21Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -33441,7 +33441,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/efb32da1-2832-47bf-8fef-2fa76a585907-Max-Origin.webp?v=1746798144
     Price: $24.99 USD
 - [Ruffled Plunge Sleeveless Maxi Dress - Brinxx Couture](https://www.brinxxcouture.com/products/ruffled-plunge-sleeveless-maxi-dress): Elevate your style with our Ruffled Plunge Sleeveless Maxi Dress. Exude elegance in this luxurious dress, featuring delicate ruffles and a plunging neckline.
-  Updated: 2025-10-19T19:01:50Z
+  Updated: 2025-10-21T12:03:25Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -34075,7 +34075,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/WH300025244D.jpg?v=1756225729
     Price: $31.00 USD
 - [Chevron V Neck Long Sleeve Loose Top - Brinxx Couture](https://www.brinxxcouture.com/products/chevron-v-neck-long-sleeve-loose-top): Brighten your wardrobe with this playful Chevron V Neck Long Sleeve Loose Top. Its vibrant chevron pattern adds a dash of fun, the loose fit keeps you comfy.
-  Updated: 2025-09-25T14:59:53Z
+  Updated: 2025-10-21T12:13:26Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -35001,7 +35001,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01Fg3xbh20yV4W99F2q__3041176918-0-cib.jpg?v=1758137023
     Price: $49.99 USD
 - [High Waist Buckle Belt Pants - Women's Slim Fit Style](https://www.brinxxcouture.com/products/high-waist-buckle-belt-pants-women): Shop stylish high waist buckle belt pants for women. Flared leg design, adjustable belt, perfect for work or evening. Premium fabric for premium comfort.
-  Updated: 2025-10-12T12:51:32Z
+  Updated: 2025-10-21T12:13:38Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
