@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-10-21T12:00:48.651Z
+- Updated At: 2025-10-21T20:00:50.230Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -3247,7 +3247,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £75.00 GBP
 - [Four Photo Heart Charm Locket White Gold](https://www.lilyblanche.com/products/four-photo-heart-charm-locket-white-gold): Hold special memories close to your heart with this Four-Photo Heart Charm Locket in white gold vermeil. This stunning locket necklace takes four photos, making it the perfect love token or gift. Order your Four-Photo Heart Charm Locket in silver online today and receive free photos, & jewellery care kit!
-  Updated: 2025-10-05T17:26:56Z
+  Updated: 2025-10-21T18:53:56Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -5085,7 +5085,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/files/emerald_gold_necklace1_1080.jpg?v=1741879152
   Price: £315.00 GBP
 - [Pink Opal Drop Hoop Earrings | Gold | October | Lily Blanche](https://www.lilyblanche.com/products/pink-opal-drop-hoop-earrings-gold-october): These gorgeous gold vermeil hoop earrings feature a real pink opal gemstone at their centre, making them the perfect personalised gift for your loved one.
-  Updated: 2025-10-06T03:47:10Z
+  Updated: 2025-10-21T15:23:06Z
   Vendor: Lily Blanche
   Product Type: Birthstone
   Availability: Available
@@ -6890,7 +6890,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £85.00 GBP
 - [Moonstone Charm Necklace  Silver | June Birthstone Necklace](https://www.lilyblanche.com/products/moonstone-charm-necklace-silver-june): This genuine moonstone necklace in silver can be personalised with an initial. The birthstone for June, the moonstone necklace, makes a great gift. Shop today
-  Updated: 2025-09-02T09:29:38Z
+  Updated: 2025-10-21T14:43:09Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -7514,7 +7514,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £85.00 GBP
 - [Blue Topaz Charm Necklace | Silver - December](https://www.lilyblanche.com/products/blue-topaz-charm-necklace-silver-december): Brighten your collection with this blue topaz gemstone teardrop pendant. This birthstone necklace features a real blue topaz gemstone at its centre and is beautifully cut to show the stone to the best advantage. As the birthstone for December, blue Topaz encourages confidence and creativity. As well as its calming qualities, topaz is also the gemstone which is given to mark a fourth wedding anniversary. Made of sterling silver, this blue topaz necklace is perfect for everyday or evening wear. The blue topaz gemstone measures 13mm x 10mm. Combine with our matching Blue Topaz Drop Hoop Earrings for a coordinated look. Add a sterling silver initial charm for a truly personalised birthstone pendant. Our blue topaz necklace is presented in a ribbon-tied gift box with a branded polish cloth to keep your jewellery clean and sparkling. Express delivery is available on all UK orders placed before 12pm.
-  Updated: 2025-09-02T02:53:33Z
+  Updated: 2025-10-21T14:47:25Z
   Vendor: Lily Blanche
   Product Type: Birthstone
   Availability: Available
@@ -8744,7 +8744,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £95.00 GBP
 - [Moonstone Drop Hoop Earrings  Silver | June Birthstone Earrings](https://www.lilyblanche.com/products/moonstone-drop-hoop-earrings-silver-june): Featuring real moonstone, the birthstone for June, these gorgeous silver hoop earrings are the perfect birthday gift. Free shipping, care kit & gift wrap today
-  Updated: 2025-07-23T09:17:26Z
+  Updated: 2025-10-21T15:29:59Z
   Vendor: Lily Blanche
   Product Type: Hoop
   Availability: Available
@@ -9011,7 +9011,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £180.00 GBP
 - [Blue Topaz Drop Hoop Earrings | Silver | December | Lily Blanche](https://www.lilyblanche.com/products/blue-topaz-drop-hoop-earrings-silver-december): These gorgeous sterling silver hoop earrings feature a real blue topaz gemstone at their centre, making them the perfect personalised gift for a December birthday.
-  Updated: 2025-07-19T23:31:59Z
+  Updated: 2025-10-21T14:34:04Z
   Vendor: Lily Blanche
   Product Type: Birthstone
   Availability: Available
@@ -10518,7 +10518,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £305.00 GBP
 - [Four Picture Oval Locket | White Gold Photo Necklace | Lily Blanche](https://www.lilyblanche.com/products/four-picture-oval-locket-white-gold): Need a truly personalised gift? This beautiful four photo oval shaped locket in 18 carat white  gold vermeil is the perfect way to keep your loved ones close to your heart. The locket holds four of your photos and can be engraved. Personalise your locket online today with Free UK Shipping & Luxury Gift Wrap Included!
-  Updated: 2025-10-07T15:47:56Z
+  Updated: 2025-10-21T18:53:58Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -15728,7 +15728,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_892d66ff-d56a-4be7-ba20-89281ad4bba3.jpg?v=1741884250
   Price: £90.00 GBP
 - [Silver Diamond Heart Locket For Christmas | 2 Photo Locket Gift](https://www.lilyblanche.com/products/2-photo-diamond-heart-locket-silver): The perfect Christmas gift. Handcrafted in premium sterling silver & featuring a genuine diamond, this bestselling locket holds two photos. Free delivery & gift wrap. Create a magical moment this Christmas.
-  Updated: 2025-10-21T11:57:28Z
+  Updated: 2025-10-21T12:04:19Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -16847,7 +16847,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £250.00 GBP
 - [Personalised  Diamond Heart Photo Locket | Engraved 18ct Gold Vermeil](https://www.lilyblanche.com/products/2-photo-diamond-heart-locket-gold): Keep loved ones close this Christmas with our best-selling Diamond Heart Photo Locket. Personalised FREE with 2 Photos. Engraved. Hallmarked 18ct gold vermeil. Order now for Christmas delivery. Rated 4.8/5 from 1627 reviews
-  Updated: 2025-10-21T11:51:13Z
+  Updated: 2025-10-21T14:31:25Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -16928,7 +16928,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £205.00 GBP
 - [Men's St Christopher Necklace in Solid Gold | Premium Quality Pendant](https://www.lilyblanche.com/products/mens-st-christopher-necklace-solid_gold): Give a meaningful gift with our stylish Men's St Christopher Necklace in solid gold. Personalise with free engraving. Free shipping & care kit with orders today
-  Updated: 2025-10-20T23:35:03Z
+  Updated: 2025-10-21T13:24:36Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -17003,7 +17003,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £140.00 GBP
 - [Men's Heavy Sterling Silver Cross Necklace - Premium Craftsmanship](https://www.lilyblanche.com/products/mens-silver-cross-necklace): Men's heavy sterling silver cross necklace. Handcrafted heirloom-quality, 44mm pendant with a choice of chains. UK-made. Free delivery, gift wrap & care kit. £140
-  Updated: 2025-10-20T20:30:37Z
+  Updated: 2025-10-21T14:55:31Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -19753,7 +19753,7 @@ From £119
     Availability: Available
     Price: £165.00 GBP
 - [Carnelian Drop Hoop Earrings Gold | July Birthstone](https://www.lilyblanche.com/products/carnelian-drop-hoop-earrings-gold-july-birthstone): These gold vermeil hoop earrings, July's birthstone,  feature a real Carnelian gemstone. The stone for happiness, the gems are detachable. Order today with free shipping.
-  Updated: 2025-10-05T07:16:27Z
+  Updated: 2025-10-21T15:01:05Z
   Vendor: Lily Blanche
   Product Type: Birthstone
   Availability: Available
@@ -19788,9 +19788,6 @@ From £119
   - [Blue Topaz](https://www.lilyblanche.com/products/carnelian-drop-hoop-earrings-gold-july-birthstone?variant=50011853422910)
     Availability: Available
     Price: £165.00 GBP
-  - [C](https://www.lilyblanche.com/products/carnelian-drop-hoop-earrings-gold-july-birthstone?variant=55578097058178)
-    Availability: Available
-    Price: £105.00 GBP
 - [Carnelian Drop Hoop Earrings Rose Gold July Birthstone](https://www.lilyblanche.com/products/carnelian-drop-hoop-earrings-rose-gold-july-birthstone): These rose gold vermeil hoop earrings feature a real Carnelian gemstone, the birthstone for July.  The stone for happiness, the carnelian gems are detachable. Order today with free shipping.
   Updated: 2025-08-19T11:56:11Z
   Vendor: Lily Blanche
@@ -20873,7 +20870,7 @@ From £119
     Availability: Available
     Price: £95.00 GBP
 - [Lapis Lazuli Drop Hoop Earrings Gold September Birthstone](https://www.lilyblanche.com/products/lapis-lazuli-drop-hoop-earrings-gold-september): Our Gold Lapis Lazuli Drop Hoop Earrings in 18-carat gold vermeil feature real Lapis lazuli gemstones making them the perfect meaningful jewellery gift for September birthdays. Order today and receive a free jewellery care kit
-  Updated: 2025-09-30T17:47:30Z
+  Updated: 2025-10-21T15:58:00Z
   Vendor: Lily Blanche
   Product Type: Birthstone
   Availability: Available
@@ -21775,7 +21772,7 @@ From £119
     Price: £850.00 GBP
 - [Ruby Cross Necklace in Solid Gold](https://www.lilyblanche.com/products/ruby-cross-necklace-in-solid-gold): Make a sparkling statement with the Lily Blanche Ruby Cross Pendant, crafted in solid 9-carat gold and set with eleven ethically sourced rubies. This timeless, heirloom-worthy necklace offers sophistication and sparkle. Order today and receive a free jewellery care kit worth £20
 £425
-  Updated: 2025-09-30T03:33:57Z
+  Updated: 2025-10-21T14:02:52Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -21812,7 +21809,7 @@ From £119
     Price: £755.00 GBP
 - [Sapphire Cross Necklace in Solid Gold](https://www.lilyblanche.com/products/sapphire-cross-necklace-in-solid-gold): Make a sparkling statement with the Lily Blanche Sapphire Cross Pendant, crafted in solid 9-carat gold and set with eleven ethically sourced sapphires. This timeless, heirloom-worthy necklace offers sophistication and sparkle. Order today and receive a free jewellery care kit worth £20
 From £425
-  Updated: 2025-10-21T11:43:59Z
+  Updated: 2025-10-21T13:54:48Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -23157,7 +23154,7 @@ From £190.
     Availability: Available
     Price: £270.00 GBP
 - [Men's Engravable Compass Locket  Silver + Free Photos | German Precision](https://www.lilyblanche.com/products/engravable-compass-locket-for-men-sterling-silver-photo-locket): Navigate life's journey with our German precision-engineered Men's Compass Locket in sterling silver. Holds 2 photos, UK hallmarked, free photos & UK shipping. From £170
-  Updated: 2025-10-20T15:11:47Z
+  Updated: 2025-10-21T13:59:35Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
