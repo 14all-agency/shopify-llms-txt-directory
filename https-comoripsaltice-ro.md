@@ -6,16 +6,16 @@
 - Timezone: Europe/Bucharest
 - Created At: 2025-10-04T05:09:15Z
 - Contact Email: info@comoripsaltice.ro
-- Updated At: 2025-10-19T20:00:30.383Z
+- Updated At: 2025-10-21T00:00:32.148Z
 
 ## Products
 
 - [Comori Psaltice: Chinonice Duminicale - Muzica Bizantina | Partituri](https://comoripsaltice.ro/products/chinonice-duminicale-partea-i): Descoperă Comori Psaltice cu Chinonice Duminicale! Partituri psaltice în format fizic/PDF, perfecte pentru iubitorii muzicii bizantine.
-  Updated: 2025-10-18T01:15:59Z
+  Updated: 2025-10-20T18:56:45Z
   Vendor: Comori Psaltice
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/1344/4941/files/Extracted-pages-from-CHINONICE-DUMINICALE-PARTEA-1-ED-NOUA-FINAL_Page1-scaled.jpg?v=1760656142
+  Image: https://cdn.shopify.com/s/files/1/0922/1344/4941/files/chinonice-duminicale-partea-i-format-fizicpdf-5035561.jpg?v=1760927324
   - [PDF](https://comoripsaltice.ro/products/chinonice-duminicale-partea-i?variant=52564064141645)
     Availability: Available
     Price: 49,99 lei RON
@@ -23,29 +23,29 @@
     Availability: Available
     Price: 169,99 lei RON
 - [Chinonice Duminicale PDF - Comori psaltice și partituri bizantine](https://comoripsaltice.ro/products/chinonice-duminicale-partea-a-iii-a-pdf): Descoperă "Chinonice Duminicale, partea a III-a - PDF". Adună comori psaltice și partituri psaltice pentru muzica bizantină. Achiziționează acum și îmbogățește-ți repertoriul!
-  Updated: 2025-10-18T01:15:59Z
+  Updated: 2025-10-20T18:56:44Z
   Vendor: Comori Psaltice
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/1344/4941/files/Extracted-pages-from-chinonice-duminicale-p3-final_Page1-scaled-e1661266449447.jpg?v=1760656172
+  Image: https://cdn.shopify.com/s/files/1/0922/1344/4941/files/chinonice-duminicale-partea-a-iii-a-pdf-2452458.jpg?v=1760927305
   Price: 47,99 lei RON
 - [Chinonice Duminicale PDF - Partituri psaltice pentru psalti](https://comoripsaltice.ro/products/chinonice-duminicale-partea-a-ii-a): Volumul Chinonice Duminicale, partea a II-a adună capodopere bizantine ale arilor Dascăli, traduse și adaptate în română – o ediție esențială pentru psalți.
-  Updated: 2025-10-18T01:15:59Z
+  Updated: 2025-10-20T18:56:44Z
   Vendor: Comori Psaltice
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/1344/4941/files/poze-chinonice_Page1-1.png?v=1759814490
+  Image: https://cdn.shopify.com/s/files/1/0922/1344/4941/files/chinonice-duminicale-partea-a-ii-a-pdf-9644261.png?v=1760927303
   Price: 39,99 lei RON
 - [Heruvice scurte și pe larg de Constantin Protopsaltul - ediția a III-a](https://comoripsaltice.ro/products/heruvice-scurte-si-pe-larg-de-constantin-protopsaltul): Prima ediție tipărită a „Heruvice scurte și pe larg” de Constantin Protopsaltul – o capodoperă bizantină, revizuită și tradusă integral în română. Partituri psaltice.
-  Updated: 2025-10-18T01:16:00Z
+  Updated: 2025-10-20T20:30:12Z
   Vendor: Comori Psaltice
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/1344/4941/files/coperta-ed-3.png?v=1760656189
-  - [PDF (fișier)](https://comoripsaltice.ro/products/heruvice-scurte-si-pe-larg-de-constantin-protopsaltul?variant=52538748436813)
+  Image: https://cdn.shopify.com/s/files/1/0922/1344/4941/files/heruvice-scurte-si-pe-larg-de-constantin-protopsaltul-editia-a-iii-a-format-fizicpdf-7204737.png?v=1760927301
+  - [PDF (fișier electronic)](https://comoripsaltice.ro/products/heruvice-scurte-si-pe-larg-de-constantin-protopsaltul?variant=52624979263821)
     Availability: Available
     Price: 43,99 lei RON
-  - [Tipărit (carte fizică)](https://comoripsaltice.ro/products/heruvice-scurte-si-pe-larg-de-constantin-protopsaltul?variant=52538748469581)
+  - [Tipărit (carte fizică)](https://comoripsaltice.ro/products/heruvice-scurte-si-pe-larg-de-constantin-protopsaltul?variant=52624979296589)
     Availability: Available
     Price: 149,99 lei RON
 
@@ -87,88 +87,91 @@
 - [Courses](https://comoripsaltice.ro/collections/courses)
   Updated: 2025-10-18T01:15:59Z
   Total Products: 0
+- [AVADA - Best Sellers](https://comoripsaltice.ro/collections/avada-best-sellers)
+  Updated: 2025-10-20T21:22:42Z
+  Total Products: 4
 
 ## Blogs
 
 - [Blog](https://comoripsaltice.ro/blogs/news)
   - [Sisteme notaționale muzică liturgică: Analiză tradiții bizantină și occidentală](https://comoripsaltice.ro/blogs/news/sisteme-notationale-in-muzica-liturgica-o-analiza-comparativa-intre-traditiile-bizantina-si-occidentala): Sisteme notaționale muzică liturgică: Analiză tradiții bizantină și occidentală
-    Updated: 2025-10-17T15:04:33Z
+    Updated: 2025-10-20T02:26:51Z
     Author: Florian Mihai Vois
     Tags: Noutăți, Studii
   - [Mari imnografi ai Bisericii: Sfântul Ioan Damaschin, Sfântul Cosma Melodul și Sfântul Andrei Criteanul - Comori Psaltice](https://comoripsaltice.ro/blogs/news/mari-imnografi-ai-bisericii-sfantul-ioan-damaschin-sfantul-cosma-melodul-și-sfantul-andrei-criteanul): Mari imnografi ai Bisericii: Sfântul Ioan Damaschin, Sfântul Cosma Melodul și Sfântul Andrei Criteanul - Comori Psaltice
-    Updated: 2025-10-17T15:04:59Z
+    Updated: 2025-10-20T02:26:54Z
     Author: Florian Mihai Vois
     Tags: Imnografie, Studii
   - [Cum alegem ce cântăm? Despre discernământul liturgic - Comori Psaltice](https://comoripsaltice.ro/blogs/news/cum-alegem-ce-cantam-despre-discernamantul-liturgic): Cum alegem ce cântăm? Despre discernământul liturgic - Comori Psaltice
-    Updated: 2025-10-17T15:05:21Z
+    Updated: 2025-10-20T02:26:57Z
     Author: Florian Mihai Vois
     Tags: Noutăți, Reflecții, Studii
   - [Sistemul modal psaltic: o analiză morfologică și hermeneutică a ethosului bizantin - Comori Psaltice](https://comoripsaltice.ro/blogs/news/sistemul-modal-psaltic-o-analiza-morfologica-și-hermeneutica-a-ethosului-bizantin): Sistemul modal psaltic: o analiză morfologică și hermeneutică a ethosului bizantin - Comori Psaltice
-    Updated: 2025-10-17T15:06:08Z
+    Updated: 2025-10-20T02:27:00Z
     Author: Florian Mihai Vois
     Tags: Noutăți, Studii
   - [Mic dictionar de termeni psaltici - Comori Psaltice](https://comoripsaltice.ro/blogs/news/mic-dictionar-de-termeni-psaltici): Mic dictionar de termeni psaltici - Comori Psaltice
-    Updated: 2025-10-17T15:06:30Z
+    Updated: 2025-10-20T02:27:02Z
     Author: Florian Mihai Vois
     Tags: Noutăți, Studii
   - [Chinonicul: comuniune și isihasm în Sfânta Liturghie - Comori Psaltice](https://comoripsaltice.ro/blogs/news/chinonicul-comuniune-și-isihasm-in-sfanta-liturghie): Chinonicul: comuniune și isihasm în Sfânta Liturghie - Comori Psaltice
-    Updated: 2025-10-17T15:06:53Z
+    Updated: 2025-10-20T02:27:07Z
     Author: Florian Mihai Vois
     Tags: Chinonic, Studii
   - [A doua ediție a volumului Chinonice Duminicale – partea I este disponibilă spre achiziție - Comori Psaltice](https://comoripsaltice.ro/blogs/news/a-doua-ediție-a-volumului-chinonice-duminicale-partea-i-este-disponibila-spre-achiziție): A doua ediție a volumului Chinonice Duminicale – partea I este disponibilă spre achiziție - Comori Psaltice
-    Updated: 2025-10-17T15:07:40Z
+    Updated: 2025-10-20T02:27:16Z
     Author: Florian Mihai Vois
     Tags: Cărți, Noutăți
   - [Volumul Chinonice Duminicale – partea I va fi disponibil din 1 Martie 2025 - Comori Psaltice](https://comoripsaltice.ro/blogs/news/volumul-chinonice-duminicale-partea-i-va-fi-disponibil-din-1-martie-2025): Volumul Chinonice Duminicale – partea I va fi disponibil din 1 Martie 2025 - Comori Psaltice
-    Updated: 2025-10-14T00:55:48Z
+    Updated: 2025-10-20T02:27:23Z
     Author: Florian Mihai Vois
     Tags: Cărți, Chinonic, Noutăți
   - [Slavă…Și acum, glas II, de la Vecernia Praznicului Nașterii Domnului, de Dimitrie Suceveanu – Partituri psaltice - Comori Psaltice](https://comoripsaltice.ro/blogs/news/slava-și-acum-glas-ii-de-la-vecernia-praznicului-nașterii-domnului-de-dimitrie-suceveanu-partituri-psaltice): Slavă…Și acum, glas II, de la Vecernia Praznicului Nașterii Domnului, de Dimitrie Suceveanu – Partituri psaltice - Comori Psaltice
-    Updated: 2025-10-18T02:42:23Z
+    Updated: 2025-10-20T02:27:27Z
     Author: Florian Mihai Vois
     Tags: Cântări, Partituri psaltice
   - [Sfântul Ierarh Antim Ivireanul – Ctitor de limbă și carte - Comori Psaltice](https://comoripsaltice.ro/blogs/news/sfantul-ierarh-antim-ivireanul-ctitor-de-limba-și-carte): Sfântul Ierarh Antim Ivireanul – Ctitor de limbă și carte - Comori Psaltice
-    Updated: 2025-10-18T13:24:17Z
+    Updated: 2025-10-20T02:27:30Z
     Author: Florian Mihai Vois
     Tags: Studii
   - [Heruvicele lui Constantin Protopsaltul – Sunt acum disponibile - Comori Psaltice](https://comoripsaltice.ro/blogs/news/heruvicele-lui-constantin-protopsaltul-sunt-acum-disponibile): Heruvicele lui Constantin Protopsaltul – Sunt acum disponibile - Comori Psaltice
-    Updated: 2025-10-17T15:05:50Z
+    Updated: 2025-10-20T02:27:33Z
     Author: Florian Mihai Vois
     Tags: Heruvice, Noutăți
   - [Volumul „Heruvice scurte și pe larg de Constantin Protopsaltul” va fi disponibil din 1 Septembrie 2024 - Comori Psaltice](https://comoripsaltice.ro/blogs/news/volumul-heruvice-scurte-și-pe-larg-de-constantin-protopsaltul-va-fi-disponibil-din-1-septembrie-2024): Volumul „Heruvice scurte și pe larg de Constantin Protopsaltul” va fi disponibil din 1 Septembrie 2024 - Comori Psaltice
-    Updated: 2025-10-17T15:04:01Z
+    Updated: 2025-10-20T02:27:55Z
     Author: Florian Mihai Vois
     Tags: Heruvice, Noutăți
   - [Troparul Adormirii Maicii Domnului, glas 1, pe larg, de Dimitrie Suceveanu - Comori Psaltice](https://comoripsaltice.ro/blogs/news/troparul-adormirii-maicii-domnului-glas-1-pe-larg-de-dimitrie-suceveanu): Troparul Adormirii Maicii Domnului, glas 1, pe larg, de Dimitrie Suceveanu - Comori Psaltice
-    Updated: 2025-10-14T00:56:07Z
+    Updated: 2025-10-20T02:27:59Z
     Author: Florian Mihai Vois
     Tags: Tropare la Praznice Împărătești
   - [Lansarea metodei de cumpărare de Partituri Psaltice la comandă (Print on Demand) - Comori Psaltice](https://comoripsaltice.ro/blogs/news/lansarea-metodei-de-cumparare-de-partituri-psaltice-la-comanda-print-on-demand): Lansarea metodei de cumpărare de Partituri Psaltice la comandă (Print on Demand) - Comori Psaltice
-    Updated: 2025-10-16T23:17:32Z
+    Updated: 2025-10-20T02:28:02Z
     Author: Florian Mihai Vois
     Tags: Noutăți
   - [Slava Vecerniei din Duminica Slabanogului, glas 5, de Konstantinos Pringos - Comori Psaltice](https://comoripsaltice.ro/blogs/news/slava-vecerniei-din-duminica-slabanogului-glas-5-de-konstantinos-pringos): Slava Vecerniei din Duminica Slabanogului, glas 5, de Konstantinos Pringos - Comori Psaltice
-    Updated: 2025-10-14T00:56:12Z
+    Updated: 2025-10-20T02:28:05Z
     Author: Florian Mihai Vois
     Tags: Cântări din Perioada Penticostarului
   - [Doamne femeia ceea ce cazuse, glas 8, de Petru Lampadarie, erminia lui Konstantinos Pringos - Comori Psaltice](https://comoripsaltice.ro/blogs/news/doamne-femeia-ceea-ce-cazuse-glas-8-de-petru-lampadarie-erminia-lui-konstantinos-pringos): Doamne femeia ceea ce cazuse, glas 8, de Petru Lampadarie, erminia lui Konstantinos Pringos - Comori Psaltice
-    Updated: 2025-10-14T00:56:14Z
+    Updated: 2025-10-20T02:28:09Z
     Author: Florian Mihai Vois
     Tags: Cântări din Sătămâna Patimilor
   - [Polieleu – La Râul Babilonului, glas 3, prescurtat de Dimitrie Suceveanu - Comori Psaltice](https://comoripsaltice.ro/blogs/news/polieleu-la-raul-babilonului-glas-3-prescurtat-de-dimitrie-suceveanu): Polieleu – La Râul Babilonului, glas 3, prescurtat de Dimitrie Suceveanu - Comori Psaltice
-    Updated: 2025-10-14T00:56:19Z
+    Updated: 2025-10-20T02:28:14Z
     Author: Florian Mihai Vois
     Tags: Polieleu, Postul Mare
   - [Heruvic, glas 7 varis, de Ierom. Grigorie - Comori Psaltice](https://comoripsaltice.ro/blogs/news/heruvic-glas-7-varis-de-ierom-grigorie): Heruvic, glas 7 varis, de Ierom. Grigorie - Comori Psaltice
-    Updated: 2025-10-14T00:56:21Z
+    Updated: 2025-10-20T02:28:16Z
     Author: Florian Mihai Vois
     Tags: Cântări la Liturghie, Heruvic, Heruvice
   - [Stihira „Vitleeme gătește-te”, glasul 8, de Iacov Protopsaltul - Comori Psaltice](https://comoripsaltice.ro/blogs/news/stihira-vitleeme-gatește-te-glasul-8-de-iacov-protopsaltul): Stihira „Vitleeme gătește-te”, glasul 8, de Iacov Protopsaltul - Comori Psaltice
-    Updated: 2025-10-16T23:18:07Z
+    Updated: 2025-10-20T02:28:19Z
     Author: Florian Mihai Vois
     Tags: Cântări la Nașterea Domnului
   - [Cultura sonoră bizantină: Explorarea legăturilor muzicale dintre Est și Vest - Comori Psaltice](https://comoripsaltice.ro/blogs/news/cultura-sonora-bizantina-explorarea-legaturilor-muzicale-dintre-est-și-vest): Cultura sonoră bizantină: Explorarea legăturilor muzicale dintre Est și Vest - Comori Psaltice
-    Updated: 2025-10-16T23:18:14Z
+    Updated: 2025-10-20T02:28:21Z
     Author: Florian Mihai Vois
     Tags: Studii
 
@@ -186,6 +189,10 @@
   Updated: 2025-10-11T18:24:56Z
 - [Alte partituri](https://comoripsaltice.ro/pages/alte-partituri)
   Updated: 2025-10-11T18:27:16Z
+- [Frequently Asked Questions](https://comoripsaltice.ro/pages/avada-faqs): .main-page-title.page-title { display: none !important; } function loadChattyPage() { const elem = document.createElement('script'); elem.type = 't...
+  Updated: 2025-10-20T00:54:32Z
+- [test](https://comoripsaltice.ro/pages/test)
+  Updated: 2025-10-20T18:45:13Z
 
 ## Policies
 
