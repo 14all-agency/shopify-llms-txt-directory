@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-03-19T17:46:58Z
 - Contact Email: info@patundpatty.de
-- Updated At: 2025-10-20T00:00:34.898Z
+- Updated At: 2025-10-21T12:00:35.982Z
 
 ## Products
 
@@ -149,7 +149,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio_Kuschelkissen_Alpaka-Lama_-_PAT_PATTY-4830086.jpg?v=1733944805
     Price: 60,50 € EUR
 - [Bio Kuschelkissen Ziege Spelzfüllung Plüsch | PAT & PATTY](https://patundpatty.de/products/bio-kuschelkissen-ziege): Entdecken Sie das Bio Kuschelkissen Ziege von PAT & PATTY. Aus Bio-Plüsch, mit natürlicher Spelzfüllung, weich, schadstofffrei und perfekt für Kinderträume.
-  Updated: 2025-10-19T11:57:05Z
+  Updated: 2025-10-20T00:14:54Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -184,7 +184,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-kuschelkissen-hund-hellbraun-handgemacht-weich-fuer-babys-pat-und-patty.jpg?v=1751452957
     Price: 57,90 € EUR
 - [Bio Kuschelkissen „Großer Esel“ –  handgemacht | PAT & PATTY](https://patundpatty.de/products/bio-kuschelkissen-esel): Bio Kuschelkissen Esel grau mit natürlicher Spelzfüllung – weich, atmungsaktiv & nachhaltig. Jetzt bei PAT&PATTY entdecken und Wohlfühlmomente schenken!
-  Updated: 2025-09-30T15:13:54Z
+  Updated: 2025-10-20T21:28:05Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -194,7 +194,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-kuschelkissen-esel-grau-handgemacht-weich-fuer-babys-pat-und-patty.jpg?v=1751454163
     Price: 60,90 € EUR
   - [Dinkelspelz-kbA](https://patundpatty.de/products/bio-kuschelkissen-esel?variant=45298277155084)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Gots-zertifiziertes-bio-kuschelkissen-esel-mit-inlett-handgemacht-fuer-babys-pat-und-patty.jpg?v=1751454300
     Price: 60,50 € EUR
 - [Bio Kuschelkissen Elefant Plüsch mit Spelzfüllung | PAT & PATTY](https://patundpatty.de/products/bio-kuschelkissen-elefant): Handgefertigtes Bio Kuschelkissen Elefant für Babys & Kinder. Nachhaltige GOTS-Baumwolle, mit Dinkel- oder Hirsespelzfüllung. Perfekt als Geschenk zur Geburt.
@@ -326,11 +326,19 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio_Kuschelkissen_Frosch_-_PAT_PATTY-inlet.jpg?v=1751453806
     Price: 40,50 € EUR
 - [Bio Kuschelkissen Fuchs mit Spelzfüllung, weich & nachhaltig](https://patundpatty.de/products/bio-kuschelkissen-fuchs): Bio Kuschelkissen „Fuchs“ von PAT & PATTY – handgemacht, nachhaltig & weich, mit atmungsaktiver Spelzfüllung. Perfekt für natürliche Kuschelmomente bei Kindern!
-  Updated: 2025-10-04T20:06:52Z
+  Updated: 2025-10-20T17:08:41Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Kuschelkissen-Fuchs-Handgemacht-Weich-Fuer-Babys-Pat-Und-Patty.jpg?v=1751455810
+  - [mandarin / Hirsespelz-kbA / 56 x 30 cm](https://patundpatty.de/products/bio-kuschelkissen-fuchs?variant=45477661442316)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Kuschelkissen-Fuchs-Orange-Lang-Handgemacht-Weich-Fuer-Babys-Pat-Und-Patty.jpg?v=1751456682
+    Price: 62,50 € EUR
+  - [mandarin / Dinkelspelz-kbA / 56 x 30 cm](https://patundpatty.de/products/bio-kuschelkissen-fuchs?variant=45477661475084)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Kuschelkissen-Fuchs-Mit-Inlett-Waschbar-Handgemacht-Fuer-Babys-Pat-Und-Patty.jpg?v=1751458407
+    Price: 58,90 € EUR
   - [grau / Hirsespelz-kbA / 24 x 36 cm](https://patundpatty.de/products/bio-kuschelkissen-fuchs?variant=45299779862796)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Kuschelkissen-Fuchs-Grau-Handgemacht-Weich-Fuer-Babys-Pat-Und-Patty.jpg?v=1751456016
@@ -347,14 +355,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Kuschelkissen-Fuchs-Orange-Baumwolle-Waschbar-Handgemacht-Fuer-Babys-Pat-Und-Patty.jpg?v=1751458553
     Price: 40,50 € EUR
-  - [mandarin / Hirsespelz-kbA / 56 x 30 cm](https://patundpatty.de/products/bio-kuschelkissen-fuchs?variant=45477661442316)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Kuschelkissen-Fuchs-Orange-Lang-Handgemacht-Weich-Fuer-Babys-Pat-Und-Patty.jpg?v=1751456682
-    Price: 62,50 € EUR
-  - [mandarin / Dinkelspelz-kbA / 56 x 30 cm](https://patundpatty.de/products/bio-kuschelkissen-fuchs?variant=45477661475084)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Kuschelkissen-Fuchs-Mit-Inlett-Waschbar-Handgemacht-Fuer-Babys-Pat-Und-Patty.jpg?v=1751458407
-    Price: 58,90 € EUR
 - [Bio Kuschelkissen Rabe – weich, waschbar, fair & nachhaltig](https://patundpatty.de/products/bio-kuschelkissen-rabe): Bio Kuschelkissen „Rabe“ aus weichem Bio-Baumwollplüsch – handgemacht, waschbar, fair & nachhaltig. Perfekt zum Kuscheln, Spielen und Entspannen für Kinder!
   Updated: 2025-10-14T07:39:56Z
   Vendor: PAT & PATTY
@@ -744,7 +744,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/W_rmekissen-L_we-Pl_sch-Bio-PAT-Und-PATTY.jpg?v=1754473667
     Price: 31,50 € EUR
 - [Bio Wärmekissen Einhorn – kuschelig, weich und natürlich](https://patundpatty.de/products/bio-warmekissen-einhorn): Zauberhaftes Bio Wärmekissen Einhorn aus Bio-Baumwolle mit Dinkel-Lavendel-Füllung. Spendet wohltuende Wärme, weich, handgemacht & nachhaltig online kaufen!
-  Updated: 2025-10-19T15:31:40Z
+  Updated: 2025-10-20T00:59:42Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -859,14 +859,14 @@
   Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Faultier-W_rmflasche-Bio-Baumwolle-PAT-Und-PATTY.jpg?v=1753258549
   Price: 42,50 € EUR
 - [Bio Wärmflasche Wildschwein Braun Naturgummi & Plüsch Bezug](https://patundpatty.de/products/bio-warmflasche-wildschwein): Bio Wärmflasche Wildschwein Braun aus Naturkautschuk & Bio-Plüsch – weich, handgemacht, schadstofffrei & kuschelig. Jetzt bei PAT & PATTY online entdecken!
-  Updated: 2025-10-19T12:13:15Z
+  Updated: 2025-10-20T08:55:35Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/bio_waermflasche_wildschwein_aus_baumwolle-_1.webp?v=1760875994
   Price: 42,50 € EUR
 - [Bio Wärmflasche Schwein Rosa – Naturkautschuk weich & fair](https://patundpatty.de/products/bio-waermflasche-schwein): Bio Wärmflasche „Schwein“ in Rosa mit Naturkautschuk & Baumwollbezug – weich, sicher, nachhaltig & kuschelig. Ideal für Kinder. Jetzt bei PAT & PATTY kaufen!
-  Updated: 2025-10-02T13:55:45Z
+  Updated: 2025-10-20T08:55:35Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -1137,7 +1137,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Schaf-Waermekissen-Bio-Komfort-PAT-Und-PATTY.jpg?v=1753013133
     Price: 32,50 € EUR
 - [Personalisierter Bio-Hund Neo – handgemacht und nachhaltig](https://patundpatty.de/products/bio-schmusetuch-hund-neo): Personalisiertes Bio-Schmusetuch Hund Neo – weich, handgemacht, schadstofffrei, nachhaltig und perfekt zum Kuscheln. Jetzt bei PAT & PATTY online bestellen!
-  Updated: 2025-10-19T14:01:10Z
+  Updated: 2025-10-20T02:07:51Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -1175,7 +1175,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio_Schmusetuch_Hund_Neo_-_PAT_PATTY-4832070.jpg?v=1730654114
     Price: 32,50 € EUR
 - [Personalisierbares Bio-Schmusetuch Pferd – weich & nachhaltig](https://patundpatty.de/products/bio-schmusetuch-pferd): Personalisiertes Bio-Schmusetuch Pferd – weich, handgemacht, schadstofffrei und nachhaltig. Perfekt zum Kuscheln und Schmusen. Jetzt bei PAT & PATTY kaufen!
-  Updated: 2025-10-19T13:22:31Z
+  Updated: 2025-10-20T01:22:38Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -1213,7 +1213,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio_Schmusetuch_Pferd_-_PAT_PATTY-4832181.jpg?v=1730205853
     Price: 32,50 € EUR
 - [Personalisierbares Bio-Schmusetuch Esel Grau – weich & fair](https://patundpatty.de/products/bio-schmusetuch-esel): Personalisiertes Bio-Schmusetuch Esel Grau weich, handgemacht, schadstofffrei & nachhaltig. Ideal zum Kuscheln % als Geschenk. Jetzt bei PAT & PATTY bestellen!
-  Updated: 2025-10-19T13:17:53Z
+  Updated: 2025-10-20T01:26:14Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -1339,7 +1339,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio_Schnuffeltuch_Schaf_-_PAT_PATTY-4832546.jpg?v=1730653168
     Price: 32,50 € EUR
 - [Personalisiertes Bio-Schmusetuch Löwe – weich und nachhaltig](https://patundpatty.de/products/bio-schnuffeltuch-loewe): Personalisiertes Bio-Schmusetuch Löwe – weich, handgemacht, schadstofffrei und nachhaltig. Ideal zum Kuscheln und als Geschenk. Jetzt bei PAT & PATTY entdecken!
-  Updated: 2025-10-19T13:12:11Z
+  Updated: 2025-10-20T01:26:42Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -1383,7 +1383,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Umweltfreundliches-Baby-Schmusetuch-Mit-Bienenmotiv-Handgefertigt-Von-PAT-Und-PATTY.jpg?v=1752568406
     Price: 32,50 € EUR
 - [Bio Schmusetuch Marienkäfer Rot personalisiert, weich & fair](https://patundpatty.de/products/bio-schmusetuch-marienkaefer): Personalisiertes Bio Schmusetuch Marienkäfer Rot aus 100 % Bio-Baumwolle – weich, handgemacht, schadstofffrei, nachhaltig und ideal zum Kuscheln für Babys.
-  Updated: 2025-10-19T14:03:12Z
+  Updated: 2025-10-20T01:47:08Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -1405,7 +1405,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Nachhaltiges-Baby-Schmusetuch-Marienkaefer-Mit-Naturtextur-PAT-Und-PATTY.jpg?v=1752567934
     Price: 32,50 € EUR
 - [Personalisierte Bio-Schmusetuch Wildschwein Braun weich & fair](https://patundpatty.de/products/bio-schmusetuch-wildschwein): Personalisiertes Bio-Schmusetuch Wildschwein Braun aus 100 % Bio-Baumwolle – weich, handgemacht, schadstofffrei und nachhaltig. Perfekt zum Kuscheln für Babys.
-  Updated: 2025-10-19T13:31:47Z
+  Updated: 2025-10-20T02:05:02Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -1427,7 +1427,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Schmusetuch-Wildschwein-PAT-und-PATTY-Naturtextil.jpg?v=1752566626
     Price: 32,50 € EUR
 - [Bio Schmusetuch Schwein Rosa weich, nachhaltig & handgemacht](https://patundpatty.de/products/bio-schmusetuch-schwein): Bio Schmusetuch Schwein in Rosa – weich, handgemacht, schadstofffrei und nachhaltig. Ideal für Babys und personalisierbar. Jetzt bei PAT & PATTY entdecken!
-  Updated: 2025-10-19T13:25:41Z
+  Updated: 2025-10-20T02:19:40Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -1449,7 +1449,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Schmusetuch-Schwein-Pluesch-GOTS-Baumwolle-PAT-Und-PATTY.jpg?v=1752493211
     Price: 32,50 € EUR
 - [Personalisiertes Bio-Schmusetuch Elefant – sanft und fair](https://patundpatty.de/products/bio-schmusetuch-elefant): Personalisiertes Bio-Schmusetuch Elefant aus 100 % Bio-Baumwolle – weich, handgemacht, schadstofffrei & nachhaltig. Perfekt zum Kuscheln. Jetzt bei PAT & PATTY!
-  Updated: 2025-10-19T13:19:43Z
+  Updated: 2025-10-20T01:26:32Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -1509,7 +1509,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Waschbaer-Schmusetuch-Bio-Baumwolle-GOTS-Zertifiziert-PAT-Und-PATTY.jpg?v=1752491296
     Price: 32,50 € EUR
 - [Personalisiertes Bio-Schmusetuch Fuchs – weich und fair](https://patundpatty.de/products/bio-schmusetuch-schnuffeltuch-fuchs): Personalisiertes Bio-Schmusetuch Fuchs aus 100 % Bio-Baumwolle – weich, handgemacht, schadstofffrei und nachhaltig. Perfekt zum Kuscheln. Jetzt bei PAT & PATTY!
-  Updated: 2025-10-19T13:44:03Z
+  Updated: 2025-10-20T02:17:29Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -1531,7 +1531,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Schmusetuch-Gans-Verpackt-Geschenk-Handgemacht-Pat-Und-Patty.jpg?v=1751889521
     Price: 32,50 € EUR
 - [Personalisiertes Bio-Schmusetuch Eule – fair und einzigartig](https://patundpatty.de/products/bio-schmusetuch-eule): Personalisiertes Bio-Schmusetuch Eule weich, handgemacht, schadstofffrei, nachhaltig & mit Namen personalisierbar. Jetzt bei PAT & PATTY entdecken & bestellen!
-  Updated: 2025-10-19T13:40:10Z
+  Updated: 2025-10-20T01:38:50Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -1655,20 +1655,6 @@
   - [Nicki naturweiss](https://patundpatty.de/products/bio-mini-rassel-einhorn?variant=45524920336652)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Einhorn-Bio-Baby-Rassel-Kleinformat-Handarbeit-PAT-Und-PATTY.jpg?v=1752386236
-    Price: 14,50 € EUR
-- [Bio Mini Rassel Drache – weich, handgemacht und nachhaltig](https://patundpatty.de/products/bio-mini-rassel-maus): Zuckersüße Bio Mini Rassel „Maus“ aus 100 % Bio-Baumwolle (kbA), handgemacht, weich & schadstofffrei. Ideal für kleine Hände. Jetzt bei PAT & PATTY bestellen!
-  Updated: 2025-10-01T16:49:59Z
-  Vendor: PAT & PATTY
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Mini-Bio-Rassel-Maus-Handgemacht-Naturmaterial-GOTS-PAT-Und-PATTY.jpg?v=1752310730
-  - [rosa Ohren](https://patundpatty.de/products/bio-mini-rassel-maus?variant=45606494404876)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Rassel-Maus-Mini-Handgefertigt-Aus-Bio-Baumwolle-PAT-Und-PATTY.jpg?v=1752310777
-    Price: 14,50 € EUR
-  - [eisblau Ohren](https://patundpatty.de/products/bio-mini-rassel-maus?variant=45606494437644)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Mini-Rassel-Bio-Maus-Fuer-Babys-GOTS-Zertifiziert-Von-PAT-Und-PATTY.jpg?v=1752310826
     Price: 14,50 € EUR
 - [Bio Mini Rassel Drache – weich, handgemacht und nachhaltig](https://patundpatty.de/products/bio-mini-rassel-drache): Bio Mini Rassel Drache – weich, schadstofffrei & handgemacht. Perfekt für kleine Babyhände, nachhaltig gefertigt. Jetzt bei PAT & PATTY entdecken und bestellen!
   Updated: 2025-10-01T16:33:04Z
@@ -1934,7 +1920,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Nachhaltig-Verpackte-Bio-Weihnachtsrassel-Maus-Geschenkfertiges-GOTS-Zertifiziertes-Spielzeug-PAT-Und-PATTY.jpg?v=1752305896
     Price: 18,50 € EUR
 - [Bio Baumwollwatte – Füllmaterial für DIY-Projekte und Kissen](https://patundpatty.de/products/bio-baumwollwatte-fuellmaterial): Bio Baumwollwatte von PAT & PATTY: nachhaltig, weich, atmungsaktiv, schadstofffrei, hochwertig und perfekt zum Füllen von Kissen, Kuscheltieren & DIY-Projekten.
-  Updated: 2025-10-16T12:48:50Z
+  Updated: 2025-10-20T19:00:10Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -2008,7 +1994,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Extra-Weiche-Maiswatte-F_llwatte-Atmungsaktive-Naturf_llung-PAT-Und-PATTY.jpg?v=1752304823
     Price: 215,00 € EUR
 - [Bio Hirsespelz Kissenfüllung – natürlich und atmungsaktiv](https://patundpatty.de/products/bio-hirsespelz-hirsespreu-hirseschalen): Bio Hirsespelz Kissenfüllung von PAT & PATTY: atmungsaktiv, schadstofffrei & nachhaltig. Für erholsamen Schlaf und gesundes Liegen – jetzt online entdecken.
-  Updated: 2025-10-19T20:22:35Z
+  Updated: 2025-10-21T10:53:22Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -2081,7 +2067,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Kuscheltier-Wildschwein-Sinnesfreund-F_r-Kleinkinder-PAT-Und-PATTY.png?v=1752230559
     Price: 49,50 € EUR
 - [Bio Kuscheltier Hund – weich, handgemacht und nachhaltig](https://patundpatty.de/products/bio-kuscheltier-hund-aus-100-bio-baumwolle): Bio Kuscheltier Hund von PAT & PATTY: handgemacht aus weichem Bio-Baumwollplüsch, nachhaltig, hautfreundlich, kuschelig und perfekt für Kinder und Babys.
-  Updated: 2025-10-19T13:55:56Z
+  Updated: 2025-10-20T01:56:04Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -2378,7 +2364,7 @@
   Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Pat-Und-Patty-Domainautoritaet-45-Stand-24-05-2025.png?v=1751891722
   Price: 464,00 € EUR
 - [Hobby Horse Bio Steckenpferd kaufen Modell Abraxas handgemacht](https://patundpatty.de/products/bio-hobby-horse-steckenpferd-abraxas-mit-einem-gebiss): Das Bio Steckenpferd „Abraxas“ von PAT & PATTY: handgemacht, nachhaltig, mit Gebiss und ideal für fantasievolles, umweltfreundliches Spielen. ✅
-  Updated: 2025-10-19T13:03:15Z
+  Updated: 2025-10-20T01:20:51Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -2399,7 +2385,7 @@
   Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Steckenpferd-Zimtstern-Mit-Gebiss-Kaufen-Handgemachtes-Hobby-Horsing-Spielzeug-Pat-Und-Patty.webp?v=1751481672
   Price: 116,00 € EUR
 - [Bio-Kuscheltier Löwe Leo weich & kuschelig aus Bio-Material](https://patundpatty.de/products/bio-kuscheltier-lowe-leo-organic-kuschelig): Bio-Kuscheltier Löwe Leo von PAT & PATTY: handgefertigt, kuschelig weich & aus nachhaltigem Bio-Material, perfekt als liebevolles Geschenk für Babys und Kinder.
-  Updated: 2025-10-19T13:41:31Z
+  Updated: 2025-10-20T01:41:36Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -2413,7 +2399,7 @@
   Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Waermeflasche-Hase-Bio-Baumwolle-Pluesch-Waermer-Pat-Und-Patty.jpg?v=1751890196
   Price: 42,50 € EUR
 - [Bio Schmusetuch Hase personalisierbar und nachhaltig genäht](https://patundpatty.de/products/bio-schmusetutuch-hase): Das Bio Schmusetuch Hase von PAT & PATTY: kuschelig weich aus Bio-Baumwolle mit Maiswatte, waschbar, personalisierbar und nachhaltig – ein ideales Babygeschenk.
-  Updated: 2025-10-19T12:47:27Z
+  Updated: 2025-10-20T00:30:37Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -2435,7 +2421,7 @@
     Image: https://cdn.shopify.com/s/files/1/0739/1422/0812/files/Bio-Schmusetuch-Gans-Verpackt-Geschenk-Handgemacht-Pat-Und-Patty.jpg?v=1751889521
     Price: 32,50 € EUR
 - [Bio Schmusetuch Gans personalisierbar und nachhaltig genäht](https://patundpatty.de/products/bio-schmusetuch-gans): Das Bio Schmusetuch Gans von PAT & PATTY: aus Bio-Baumwolle mit Maiswatte, weich, waschbar, personalisierbar & nachhaltig – ein liebevolles Geschenk für Babys.
-  Updated: 2025-10-19T12:15:07Z
+  Updated: 2025-10-20T00:23:53Z
   Vendor: PAT & PATTY
   Product Type: 
   Availability: Available
@@ -2506,22 +2492,22 @@
 ## Collections
 
 - [Bio Kuschelkissen - Nachhaltig & Weich | PAT & PATTY](https://patundpatty.de/collections/bio-kuschelkissen): Entdecke Bio Kuschelkissen und Bezüge aus weichem Plüsch bei PAT&PATTY. Nachhaltige, schadstofffreie Materialien für gesundes Kuschelvergnügen. Jetzt kaufen!
-  Updated: 2025-10-18T11:19:54Z
+  Updated: 2025-10-21T11:21:59Z
   Total Products: 16
 - [Bio Spielzeug & Hobby Horse für Kinder & Babys  | PAT & PATTY](https://patundpatty.de/collections/bio-steckenpferde): Entdecke handgemachte Hobby Horses aus Bio-Materialien. Nachhaltig, fair produziert & mit Liebe zum Detail – exklusiv bei PAT & PATTY. Jetzt kaufen!
   Updated: 2025-10-19T12:52:28Z
   Total Products: 21
 - [Bio Wärmekissen für Kinder in Tierform – PAT & PATTY ❤️](https://patundpatty.de/collections/waermekissen): Entdecke handgefertigte Bio-Wärmekissen von PAT & PATTY mit süßen Tiermotiven. GOTS-zertifiziert, nachhaltig, schadstofffrei & perfekt für Kinder.
-  Updated: 2025-10-19T12:59:38Z
+  Updated: 2025-10-20T11:22:01Z
   Total Products: 19
 - [Bio Lavendelkissen mit natürlichem Duft | PAT & PATTY](https://patundpatty.de/collections/bio-mini-lavendelkissen): Entdecke das bio Lavendelkissen von PAT & PATTY – natürlich, handgefertigt und mit beruhigendem Duft für entspannte Nächte. Nachhaltig & schadstofffrei.
   Updated: 2025-10-16T11:22:52Z
   Total Products: 10
 - [Bio Wärmflaschen Tiermotive – handgemacht & nachhaltig | PAT & PATTY](https://patundpatty.de/collections/bio-waermflaschen-im-tiermotiv-von-pat-und-patty): Handgemachte Bio Wärmflaschen mit Tiermotiven für Kinder & Erwachsene. Nachhaltig, weich & wohltuend – ideal als Geschenk oder für kalte Tage.
-  Updated: 2025-10-10T11:22:38Z
+  Updated: 2025-10-20T11:22:01Z
   Total Products: 12
 - [Meistverkaufte Produkte - Nachhaltige Favoriten](https://patundpatty.de/collections/die-meistverkauften-produkte-von-patundpatty): Entdecken Sie die legendären Produkte von Pat & Patty: Bio-Kuscheltiere, Kissen & Spielzeug aus GOTS-zertifizierter Baumwolle. Nachhaltig & handgefertigt.
-  Updated: 2025-10-19T13:53:38Z
+  Updated: 2025-10-21T11:21:59Z
   Total Products: 35
 - [Personalisierte Bio Schmusetücher mit Tiermotiv | PAT & PATTY](https://patundpatty.de/collections/bio-schmusetucher-und-schnuffeltucher): Schenke Liebe mit handgemachten Bio-Schmusetüchern von PAT & PATTY – weich, nachhaltig & personalisierbar. Für kleine Hände, große Herzen & glückliche Momente.
   Updated: 2025-10-19T14:01:13Z
@@ -2530,10 +2516,10 @@
   Updated: 2025-10-17T11:21:06Z
   Total Products: 15
 - [Bio Mini Rasseln & Greiflinge – Sicher & Nachhaltig | PAT & PATTY](https://patundpatty.de/collections/mini-bio-rasseln-und-greiflinge): Entdecke bio Mini Rasseln & Greiflinge von PAT & PATTY – nachhaltig, schadstofffrei und besonders sanft zur Babyhaut. Perfekt für gesunde Entwicklung und Spaß!
-  Updated: 2025-09-26T11:21:52Z
+  Updated: 2025-10-21T11:21:59Z
   Total Products: 7
 - [Bio Füllmaterialien für DIY – nachhaltig & zertifiziert | PAT&PATTY](https://patundpatty.de/collections/bio-nachhaltige-fuellmaterial): Bio-Füllmaterialien für Kissen & Babyspielzeug: GOTS-zertifiziert, plastikfrei & hautfreundlich – ideal für Hersteller nachhaltiger DIY-Produkte | PAT&PATTY
-  Updated: 2025-10-19T11:19:46Z
+  Updated: 2025-10-21T11:21:59Z
   Total Products: 5
 - [Bio Kuscheltiere fürs Baby – fair & schadstofffrei | PAT & PATTY](https://patundpatty.de/collections/kuscheltiere): Hautfreundliche Bio-Kuscheltiere für Babys – aus GOTS-zertifizierter Bio-Baumwolle, fair produziert & mit Liebe designt von PAT & PATTY. Jetzt bestellen!
   Updated: 2025-10-18T11:19:54Z
@@ -2554,7 +2540,7 @@
   Updated: 2025-10-02T11:22:53Z
   Total Products: 5
 - [Bio Spielzeug & Mehr im SALE - Nachhaltig | PAT & PATTY](https://patundpatty.de/collections/sale): Jetzt im SALE bei PAT & PATTY: Bio-Spielzeug, Kindermode & Accessoires reduziert! Nachhaltig, fair & liebevoll gefertigt – nur solange der Vorrat reicht.
-  Updated: 2025-10-18T11:19:54Z
+  Updated: 2025-10-21T11:21:59Z
   Total Products: 62
 - [Neuheiten aus Bio-Baumwolle | Nachhaltig & Fair – PAT & PATTY](https://patundpatty.de/collections/neu-im-sortiment): Entdecke die neuesten Bio-Baumwollprodukte von PAT & PATTY. Nachhaltig, schadstofffrei und liebevoll hergestellt – perfekt für bewusste Familien.
   Updated: 2025-10-19T12:47:29Z
@@ -2769,7 +2755,7 @@
     Author: Sharon
     Tags: was ist eine rassel
   - [Bio Baumwollwatte - Nachhaltige Hautpflege | PAT & PATTY](https://patundpatty.de/blogs/news/bio-baumwollwatte-naturlich-rein-und-nachhaltig): Bio Baumwollwatte - Nachhaltige Hautpflege | PAT & PATTY
-    Updated: 2025-09-27T15:29:29Z
+    Updated: 2025-10-20T17:19:43Z
     Author: Sharon Engel
     Tags: Baumwollwatte, Bio, Hautpflege, Nachhaltigkeit, Umweltfreundlich
   - [Was ist Lernspielzeug? Verstehen und Entdecken](https://patundpatty.de/blogs/news/was-ist-lernspielzeug-verstehen-und-entdecken): Erfahren Sie, was ist Lernspielzeug, warum es wichtig ist und wie es Kindern beim Lernen hilft. Umfassende Erklärungen für Eltern und Käufer.
@@ -2887,6 +2873,21 @@
     Updated: 2025-10-19T16:59:40Z
     Author: Sharon
     Tags: warum natürliche füllung
+  - [Warum das Bio Mini Lavendelkissen Gans das ideale bio Schmusetuch für Babys ist - schmusetuch aus bio Baumwolle für ruhige Nächte](https://patundpatty.de/blogs/news/warum-das-bio-mini-lavendelkissen-gans-das-ideale-bio-schmusetuch-fur-babys-ist-schmusetuch-aus-bio-baumwolle-fur-ruhige-nachte): Warum das Bio Mini Lavendelkissen Gans das ideale bio Schmusetuch für Babys ist - schmusetuch aus bio Baumwolle für ruhige Nächte
+    Updated: 2025-10-20T10:05:22Z
+    Author: Sharon Engel
+  - [Spielzeug aus Naturmaterialien herstellen: Anleitung für Eltern](https://patundpatty.de/blogs/news/spielzeug-aus-naturmaterialien-herstellen-anleitung): Erfahren Sie, wie Sie Spielzeug aus Naturmaterialien herstellen – Schritt für Schritt von der Auswahl der Materialien bis zur fertigen Qualitätsprüfung.
+    Updated: 2025-10-20T13:26:30Z
+    Author: Sharon
+    Tags: spielzeug aus naturmaterialien herstellen
+  - [Zero-Waste-Spielzeug: Alles, Was Sie Wissen Müssen](https://patundpatty.de/blogs/news/zero-waste-spielzeug-guide): Zero-Waste-Spielzeug erklärt: Definition, Materialien, nachhaltige Produktion, Vorteile gegenüber herkömmlichen Spielwaren und Tipps für bewussten Kauf.
+    Updated: 2025-10-21T03:34:49Z
+    Author: Sharon
+    Tags: was ist zero-waste-spielzeug
+  - [Zero-Waste-Spielzeug: Alles Wichtige für Eltern & Umwelt](https://patundpatty.de/blogs/news/zero-waste-spielzeug-eltern-guide): Zero-Waste-Spielzeug erklärt: Definition, nachhaltige Materialien, Vorteile, Sicherheitsstandards und Tipps für die richtige Auswahl – umfassender Ratgeber.
+    Updated: 2025-10-21T03:36:39Z
+    Author: Sharon
+    Tags: was ist zero-waste-spielzeug
 
 ## Store Pages
 
