@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-10-03T06:30:37Z
 - Contact Email: mandiemaddox@mystichiddengem.com
-- Updated At: 2025-10-21T04:00:31.621Z
+- Updated At: 2025-10-21T20:00:31.163Z
 
 ## Products
 
@@ -171,11 +171,11 @@
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/rn-image_picker_lib_temp_e85f573a-571d-4f62-985a-492133268e78.webp?v=1759761086
   Price: $44.99 USD
 - [Skeleton Crop Top - Dark Aesthetic Retro Tee Alternative Fashion](https://lachrymalgems.store/products/love-lost-skeletons-retro-crop-tee-trendy-womens-top-casual-streetwear-graphic-tee-unique-gift-for-her-festival-wear-statement-t-shirt): Trendy skeleton crop tee with glitch dark aesthetic design. Perfect retro streetwear for alternative fashion lovers. Unique graphic tee gift for her.
-  Updated: 2025-10-21T03:47:53Z
+  Updated: 2025-10-21T06:29:48Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/Gemini_Generated_Image_hs21sehs21sehs21_1.png?v=1760902023
+  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/Gemini_Generated_Image_hs21sehs21sehs21_1.png?v=1761028188
   - [Black / XS/S](https://lachrymalgems.store/products/love-lost-skeletons-retro-crop-tee-trendy-womens-top-casual-streetwear-graphic-tee-unique-gift-for-her-festival-wear-statement-t-shirt?variant=47092253262069)
     Availability: Available
     Price: $27.99 USD
@@ -183,11 +183,11 @@
     Availability: Available
     Price: $27.99 USD
 - [Love Lost Skeletons Dark-Wave Cropped](https://lachrymalgems.store/products/eternal-loop-lost-skeleton-lovers-cropped-sweatshirt-for-trendy-women-retro-vibe-perfect-for-casual-outings-gifts-and-events): Ladies fall fashion cropped sweatshirt with eternal loop skeleton lovers design. Perfect dark alternative aesthetic for casual outings, gifts & eventsThis stylish Women's Cropped Sweatshirt adds a pop of personality to any wardrobe with the very warming love lost skeletons each items telling its own story within the digital art S M L XL 2XL Length, in 17.00 18.00 18.00 20.00 22.00 Width, in 21.37 22.75 25.50 27.12 29.12 Sleeve length, in 20.67 20.67 20.87 20.98 21.10 Size tolerance, in 1.00 1.00 1.00 1.00 1.00 . Made from a blend of soft, luxurious cotton and polyester, it offers the perfect balance of comfort and style. The relaxed fit with dropped shoulders ensures a laid-back vibe, making it an ideal choice for casual outings or cozy nights in. With its edgy raw bottom hem and ribbed-knit cuffs and collar, this sweatshirt is designed to stand out. Perfect for those who appreciate unique fashion, it makes a wonderful gift for friends or family celebrating milestone birthdays, cozy winter gatherings, or simply for anyone looking to elevate their everyday look. Whether paired with high-waisted jeans or leggings, this cropped sweatshirt will be your go-to for showcasing your individuality during casual hangouts or laid-back parties.Product features- Soft and luxurious fabric blend for ultimate comfort.- Relaxed fit with dropped shoulders for easy wear.- Edgy raw bottom hem adds a fashionable touch.- Highly elastic ribbed-knit cuffs and collar retain shape.- Adult sizing with a tear-away label for convenience.Care instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Iron, steam or dry: low heat- Do not dryclean
-  Updated: 2025-10-21T03:47:54Z
+  Updated: 2025-10-21T06:29:41Z
   Vendor: Printify
   Product Type: Sweatshirt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/female-model-love-lost-skeletons-crop-top-clear-tote-bag.png?v=1760910719
+  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/female-model-love-lost-skeletons-crop-top-clear-tote-bag.png?v=1761028180
   - [Black / S](https://lachrymalgems.store/products/eternal-loop-lost-skeleton-lovers-cropped-sweatshirt-for-trendy-women-retro-vibe-perfect-for-casual-outings-gifts-and-events?variant=47092254081269)
     Availability: Available
     Price: $59.99 USD
@@ -261,11 +261,11 @@
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/7590772071000907401_2048.jpg?v=1760902298
     Price: $59.99 USD
 - [Galaxy Skeleton Shorts - Dark Vaporwave Relaxed Fit Women's](https://lachrymalgems.store/products/galaxy-lost-love-skeletons-print-womens-relaxed-shorts-comfy-lounge-wear-summer-outfits-festival-attire-gifts-for-space-lovers): Ladies galaxy lost love skeleton shorts with dark vaporwave print. Perfect relaxed fit for summer, loungewear, or festival attire. Unique space-themed shorts
-  Updated: 2025-10-21T03:47:54Z
+  Updated: 2025-10-21T06:26:11Z
   Vendor: Printify
   Product Type: All Over Prints
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/shorts-crop-tee-clogs-outfit-mockup.png?v=1760909518
+  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/shorts-crop-tee-clogs-outfit-mockup.png?v=1761027970
   - [XS / Black](https://lachrymalgems.store/products/galaxy-lost-love-skeletons-print-womens-relaxed-shorts-comfy-lounge-wear-summer-outfits-festival-attire-gifts-for-space-lovers?variant=47092416381173)
     Availability: Available
     Price: $39.99 USD
@@ -285,25 +285,25 @@
     Availability: Available
     Price: $39.99 USD
 - [Dark Aesthetic Hoodie Dress - Alternative Neon Fall Fashion](https://lachrymalgems.store/products/womens-hoodie-dress-aop): Women's fall fashion hoodie dress with dark aesthetic neon design. Limited inventory alternative streetwear. Cozy and stylish statement dress.
-  Updated: 2025-10-21T03:47:54Z
+  Updated: 2025-10-21T06:30:04Z
   Vendor: Printify
   Product Type: All Over Prints
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/rn-image_picker_lib_temp_d19d8260-8c92-4693-8406-05813ec8ddf3.webp?v=1759803579
+  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/rn-image_picker_lib_temp_d19d8260-8c92-4693-8406-05813ec8ddf3.webp?v=1761028203
   Price: $38.99 USD
 - [Love Lost Skeleton Throw](https://lachrymalgems.store/products/velveteen-microfiber-blanket-love-lost-skeletons-winter-fall-aesthetic-throw-blanket): Cozy velveteen throw blanket with love lost skeleton glitch design. Perfect dark aesthetic home decor for alternative style lovers. Soft microfiber blanket.
-  Updated: 2025-10-21T03:47:54Z
+  Updated: 2025-10-21T06:32:08Z
   Vendor: Printify
   Product Type: Home Decor
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/love-lost-skeleton-throw-blanket.png?v=1760910863
+  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/love-lost-skeleton-throw-blanket.png?v=1761028328
   Price: $27.99 USD
 - [Love Lost Glitch Tank Top - Seeds of Love Dark Aesthetic](https://lachrymalgems.store/products/womens-tank-planting-seed-for-love-japanese-sad-love-aesthetic-design): Women's dark alternative aesthetic tank top featuring love lost skeleton design. Unique glitch graphic tee perfect for casual wear and festival fashion.
-  Updated: 2025-10-21T03:47:55Z
+  Updated: 2025-10-21T06:32:17Z
   Vendor: Printify
   Product Type: Tank Top
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/male-model-love-lost-seeds-of-love-tank.png?v=1760912573
+  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/male-model-love-lost-seeds-of-love-tank.png?v=1761028216
   - [M / Solid White Blend](https://lachrymalgems.store/products/womens-tank-planting-seed-for-love-japanese-sad-love-aesthetic-design?variant=47094312993013)
     Availability: Available
     Price: $29.99 USD
@@ -388,11 +388,11 @@
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/15300762413328481391_2048.jpg?v=1760901455
     Price: $61.99 USD
 - [Memento Mori Dark-Wave Snapback](https://lachrymalgems.store/products/memento-mori-snapback-cap-flat-bill-hat-for-alternative-fashion-street-style): Stylish memento mori snapback cap with dark vaporwave aesthetic. Flat bill hat perfect for alternative fashion & streetwear. Unique gothic headwear.
-  Updated: 2025-10-21T03:47:56Z
+  Updated: 2025-10-21T06:33:32Z
   Vendor: Printify
   Product Type: Hats
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/male-model-memento-mori-snapback-hat.png?v=1760910295
+  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/male-model-memento-mori-snapback-hat.png?v=1761028412
   - [One size / Black/Neon Pink](https://lachrymalgems.store/products/memento-mori-snapback-cap-flat-bill-hat-for-alternative-fashion-street-style?variant=47094983688437)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/6218847670602139680_2048.jpg?v=1760902429
@@ -415,11 +415,11 @@
     Availability: Available
     Price: $28.99 USD
 - [Love Lost Skeleton Leggings](https://lachrymalgems.store/products/love-lost-skeleton-leggings-stylish-casual-wear-gym-leggings): Stylish skeleton print leggings perfect for gym, yoga, or casual wear. Unique dark aesthetic design. Comfortable activewear for alternative fashion lovers.
-  Updated: 2025-10-21T03:47:56Z
+  Updated: 2025-10-21T06:29:32Z
   Vendor: Printify
   Product Type: All Over Prints
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/female-model-leggings-hoodie-dress-slippers.png?v=1760910244
+  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/female-model-leggings-hoodie-dress-slippers.png?v=1761028172
   - [XS / Seam thread color automatically matched to design](https://lachrymalgems.store/products/love-lost-skeleton-leggings-stylish-casual-wear-gym-leggings?variant=47094998401269)
     Availability: Available
     Price: $36.99 USD
@@ -526,11 +526,11 @@
     Availability: Available
     Price: $52.99 USD
 - [Memento Mori Sandals - Vaporwave Aesthetic Summer Footwear](https://lachrymalgems.store/products/sandals-memento-mori-sad-lonely-skeleton-swing-vaporwave-aesthetic-fashion): Comfortable sandals with memento mori vaporwave aesthetic design. Perfect summer footwear for alternative fashion lovers. Unique dark aesthetic slide
-  Updated: 2025-10-21T03:47:56Z
+  Updated: 2025-10-21T06:29:20Z
   Vendor: Printify
   Product Type: Shoes
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/memento-mori-slides-close-up.png?v=1760901631
+  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/memento-mori-slides-close-up.png?v=1761028159
   - [White / US 6](https://lachrymalgems.store/products/sandals-memento-mori-sad-lonely-skeleton-swing-vaporwave-aesthetic-fashion?variant=47095799873781)
     Availability: Available
     Price: $44.99 USD
@@ -566,21 +566,21 @@
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/background-editor-output-4b7a4246-5690-4c52-bada-5698334c480d-_1.png?v=1760038656
   Price: $14.99 USD
 - [Embroidered Hiddengem Beanie - Cozy Winter Hat](https://lachrymalgems.store/products/embroidered-hiddengen-beanie): Cozy embroidered Hiddengem beanie perfect for cold weather. Stylish winter hat with unique embroidery. Quality headwear from Lachrymal Gems.
-  Updated: 2025-10-21T03:47:57Z
+  Updated: 2025-10-21T14:20:52Z
   Vendor: Lachrymal Gems
   Product Type: EMBROIDERY
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/female-model-embroidered-hiddengem-beanie.png?v=1760911083
   Price: $17.99 USD
 - [Clear Tote Bag - Transparent Fashion Accessory | Lachrymal Gems](https://lachrymalgems.store/products/clear-tote-bag): Stylish clear tote bag perfect for events, travel, and everyday use. Transparent bag meets venue requirements. Versatile and trendy accessory.
-  Updated: 2025-10-21T03:47:57Z
+  Updated: 2025-10-21T14:20:55Z
   Vendor: Lachrymal Gems
   Product Type: DECOR
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/female-model-love-lost-skeletons-crop-top-clear-tote-bag.png?v=1760910719
+  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/female-model-love-lost-skeletons-crop-top-clear-tote-bag.png?v=1761028180
   Price: $24.99 USD
 - [Love Lost Skeletons Long Sleeve Shirt - Men's Alternative Wear](https://lachrymalgems.store/products/love-lost-skeletons-men-s-long-sleeve-shirt): Men's long sleeve shirt featuring love lost skeletons design. Perfect dark aesthetic casual wear. Unique alternative fashion for everyday comfort.
-  Updated: 2025-10-21T03:47:58Z
+  Updated: 2025-10-21T14:20:57Z
   Vendor: Lachrymal Gems
   Product Type: T-SHIRT
   Availability: Available
@@ -614,11 +614,11 @@
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/female-model-leggings-hoodie-dress-slippers-white-skeleton-sling-bag.png?v=1760910384
   Price: $15.99 USD
 - [Unisex Memento Mori Joggers](https://lachrymalgems.store/products/sad-boy-aesthetic-memento-mori-mens-joggers): Men's joggers with memento mori sad boy aesthetic design. Comfortable sweatpants perfect for loungewear and streetwear. Dark alternative fashion.
-  Updated: 2025-10-21T03:47:58Z
+  Updated: 2025-10-21T06:26:54Z
   Vendor: Printify
   Product Type: All Over Prints
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/female-model-cropped-hoodie-sad-boy-joggers-exact-design-slides-backpack.png?v=1760912504
+  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/female-model-cropped-hoodie-sad-boy-joggers-exact-design-slides-backpack.png?v=1761028013
   Price: $57.99 USD
 - [Love Lost Skeletons Long Sleeve Tee - Men's Dark Aesthetic](https://lachrymalgems.store/products/love-lost-skeletons-mens-long-sleeve-tee): Men's long sleeve tee with love lost skeletons design. Perfect dark aesthetic casual wear. Unique alternative fashion graphic shirt for everyday style.
   Updated: 2025-10-21T03:48:01Z
@@ -827,11 +827,11 @@
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/13135556902623223657_2048_9336f76f-cf03-4ad1-abc4-87eec821c37f.jpg?v=1760023608
     Price: $48.99 USD
 - [Anti-Social Tank Top - Men's Dark Aesthetic Neon Streetwear](https://lachrymalgems.store/products/mens-tank-top-dark-aesthetic-neon-vibes-anti-social-club-streetwear-gym-wear): Men's dark aesthetic tank top with neon vibes and anti-social club design. Perfect streetwear and gym wear. Unique alternative fashion statement piece.
-  Updated: 2025-10-21T03:48:01Z
+  Updated: 2025-10-21T06:27:58Z
   Vendor: Printify
   Product Type: Tank Top
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/male-model-mens-dark-wave-anti-social-tank.png?v=1760912463
+  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/male-model-mens-dark-wave-anti-social-tank.png?v=1761028077
   - [Black Stone / XS](https://lachrymalgems.store/products/mens-tank-top-dark-aesthetic-neon-vibes-anti-social-club-streetwear-gym-wear?variant=47109922849013)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/948668306500115053-2048-_3.jpg?v=1760912398
@@ -857,25 +857,25 @@
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/948668306500115053-2048-_3.jpg?v=1760912398
     Price: $36.99 USD
 - [Memento Mori Skater Dress - Dark Rose Aesthetic Limited Edition](https://lachrymalgems.store/products/skater-dress-memento-mori-dark-rose-aesthetic): Limited edition memento mori skater dress with dark rose aesthetic design. Perfect alternative fashion dress for gothic style lovers. Unique statement piece.
-  Updated: 2025-10-20T07:35:59Z
+  Updated: 2025-10-21T06:27:52Z
   Vendor: Printify
   Product Type: All Over Prints
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/female-model-memento-mori-dress-canvas-shoes.png?v=1760909896
+  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/female-model-memento-mori-dress-canvas-shoes.png?v=1761028071
   Price: $39.99 USD
 - [Dark Aesthetic Backpack - Skeleton Love Lost Design | Lachrymal Gems](https://lachrymalgems.store/products/lachrymal-gems-skeleton-love-lost-heart-seed-planting-dark-aesthetic-backpack): Unique skeleton love lost backpack with heart seed planting design. Perfect dark aesthetic bag for school, travel, or everyday use. Alternative fashion accessory.
-  Updated: 2025-10-21T03:48:02Z
+  Updated: 2025-10-21T06:27:38Z
   Vendor: Printify
   Product Type: Bags
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/female-model-cropped-hoodie-sad-boy-joggers-slides-backpack-fixed.png?v=1760909688
+  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/female-model-cropped-hoodie-sad-boy-joggers-slides-backpack-fixed.png?v=1761028057
   Price: $47.99 USD
 - [Dark Hello Kitty Sports Bra - Purple Alternative Aesthetic](https://lachrymalgems.store/products/sports-bra-dark-hello-kitty-remixed-purple-vibes-alternative-aesthetic): Ladies sports bra with dark Hello Kitty remixed purple vibes design. Perfect alternative aesthetic activewear for gym and yoga. Unique gothic workout gear.
-  Updated: 2025-10-21T03:48:03Z
+  Updated: 2025-10-21T06:27:21Z
   Vendor: Printify
   Product Type: All Over Prints
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/female-model-sports-bra-skater-skirt.png?v=1760902178
+  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/female-model-sports-bra-skater-skirt.png?v=1761028040
   - [S / White stitching](https://lachrymalgems.store/products/sports-bra-dark-hello-kitty-remixed-purple-vibes-alternative-aesthetic?variant=47117607239925)
     Availability: Available
     Price: $31.99 USD
@@ -892,11 +892,11 @@
     Availability: Available
     Price: $31.99 USD
 - [Occult Aesthetic Beanie - Unisex Dark Alternative Headwear](https://lachrymalgems.store/products/occult-aesthetic-unisex-beanie): Unisex occult aesthetic beanie perfect for dark alternative fashion. Cozy all-over print design. Unique gothic headwear for men and women.
-  Updated: 2025-10-21T03:48:03Z
+  Updated: 2025-10-21T06:27:14Z
   Vendor: Printify
   Product Type: All Over Prints
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/male-model-fleece-joggers-long-sleeve-beanie-duffle-bag_5192fa11-c64f-404b-b95d-ca7e079f026e.png?v=1760909786
+  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/male-model-fleece-joggers-long-sleeve-beanie-duffle-bag_5192fa11-c64f-404b-b95d-ca7e079f026e.png?v=1761028033
   Price: $20.99 USD
 - [Men's Dark Aesthetic Canvas Sneakers - High Top Shoes](https://lachrymalgems.store/products/stylish-high-top-sneakers-with-vibrant-design-trendy-footwear-fashionable-sneakers-unique-artistic-shoes-cool-casual-kicks): men's canvas high-top sneakers with vibrant dark aesthetic design. Unique artistic shoes perfect for casual wear and streetwear.
   Updated: 2025-10-21T03:48:04Z
@@ -938,11 +938,11 @@
     Availability: Available
     Price: $41.99 USD
 - [Memento Mori Cropped Hoodie - Vaporwave Alternative Fashion](https://lachrymalgems.store/products/sad-aesthetic-cropped-hoodie): Ladies vaporwave alternative fall fashion cropped hoodie with memento mori design. Perfect dark aesthetic streetwear. Unique gothic style hoodie.
-  Updated: 2025-10-21T03:48:04Z
+  Updated: 2025-10-21T06:27:38Z
   Vendor: Printify
   Product Type: Hoodie
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/female-model-cropped-hoodie-sad-boy-joggers-exact-design-slides-backpack.png?v=1760912504
+  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/female-model-cropped-hoodie-sad-boy-joggers-exact-design-slides-backpack.png?v=1761028013
   - [Black / S](https://lachrymalgems.store/products/sad-aesthetic-cropped-hoodie?variant=47120905666805)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/426092206024253302_2048.jpg?v=1760900501
@@ -984,11 +984,11 @@
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/6258533648390964751_2048.jpg?v=1760900501
     Price: $46.99 USD
 - [Love Lost Skeleton Makeup Bag - Dark Wave Gothic Accessories | Lachrymal Gems](https://lachrymalgems.store/products/copy-of-love-lost-skeleton-dark-alternative-make-up-bag): Carry your essentials in style with our Love Lost Skeleton Makeup Bag. Dark-wave design, practical storage. Perfect for gothic beauty lovers!
-  Updated: 2025-10-21T03:48:06Z
+  Updated: 2025-10-21T06:26:49Z
   Vendor: Printify
   Product Type: Bags
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/female-model-love-lost-skeleton-dark-wave-make-up-bag.png?v=1760911504
+  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/female-model-love-lost-skeleton-dark-wave-make-up-bag.png?v=1761028008
   - [Small / Black zipper](https://lachrymalgems.store/products/copy-of-love-lost-skeleton-dark-alternative-make-up-bag?variant=47211822809333)
     Availability: Available
     Price: $12.99 USD
@@ -996,18 +996,18 @@
     Availability: Available
     Price: $12.99 USD
 - [Marcus Core Design Blanket - ROLFGATOR TikTok Famous | Lachrymal Gems](https://lachrymalgems.store/products/copy-of-tapestry-blanket-rolfgator-t-life-marcus-core-design-as-seen-on-tiktok): Get the viral Marcus Core Design blanket as seen on TikTok! Soft velveteen plush with ROLFGATOR T-Life design. Perfect for vaporwave fans!
-  Updated: 2025-10-20T09:55:17Z
+  Updated: 2025-10-21T06:26:42Z
   Vendor: Printify
   Product Type: All Over Prints
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/marcus-core-design-tapestry.png?v=1760910911
+  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/marcus-core-design-tapestry.png?v=1761028001
   Price: $39.99 USD
 - [Love Lost Skeletons Ringer T-Shirt - Alternative Gothic Tee | Lachrymal Gems](https://lachrymalgems.store/products/copy-of-ringer-t-shirt-decade-love-lost-skeletons-print): Stand out in our Love Lost Skeletons Ringer T-Shirt. Classic ringer style meets dark aesthetic. Comfortable, stylish, and uniquely you!
-  Updated: 2025-10-21T03:48:07Z
+  Updated: 2025-10-21T06:26:36Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/male-model-ringer-tee-occult-shorts-socks-shoes-snapback.png?v=1760909587
+  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/male-model-ringer-tee-occult-shorts-socks-shoes-snapback.png?v=1761027995
   - [White/Black / XS](https://lachrymalgems.store/products/copy-of-ringer-t-shirt-decade-love-lost-skeletons-print?variant=47211823890677)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/12324707250201142383_2048.jpg?v=1760909587
@@ -1037,11 +1037,11 @@
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/12324707250201142383_2048.jpg?v=1760909587
     Price: $36.99 USD
 - [Love Lost Skeleton Crop Tee - Dark Wave Alternative Fashion | Lachrymal Gems](https://lachrymalgems.store/products/dark-alternative-vaporwave-crop-tee-love-lost-skeletons): Express your dark side with our Love Lost Skeleton Crop Tee. Edgy dark-wave design, comfortable fit. Perfect for gothic and alternative style!
-  Updated: 2025-10-21T03:48:07Z
+  Updated: 2025-10-21T06:26:11Z
   Vendor: Printify
   Product Type: All Over Prints
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/shorts-crop-tee-clogs-outfit-mockup.png?v=1760909518
+  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/shorts-crop-tee-clogs-outfit-mockup.png?v=1761027970
   - [Black stitching / XS](https://lachrymalgems.store/products/dark-alternative-vaporwave-crop-tee-love-lost-skeletons?variant=47211838669045)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/6903524216527952166_2048.jpg?v=1760865666
@@ -1071,21 +1071,21 @@
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/6903524216527952166_2048.jpg?v=1760865666
     Price: $36.99 USD
 - [Occult Vaporwave Shorts - Men's Alternative Aesthetic Wear | Lachrymal Gems](https://lachrymalgems.store/products/basketball-shorts-mens-occult-sad-satan-vaporwave): Rock the occult aesthetic with our Men's Vaporwave Shorts. Bold all-over print design, comfortable fit. Perfect for alternative fashion lovers!
-  Updated: 2025-10-21T03:48:08Z
+  Updated: 2025-10-21T06:25:59Z
   Vendor: Printify
   Product Type: All Over Prints
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/male-model-occult-shorts-tank-socks-shoes-snapback.png?v=1760866106
+  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/male-model-occult-shorts-tank-socks-shoes-snapback.png?v=1761027957
   Price: $51.99 USD
 - [Neon Aesthetic Alternative Tank Top - Men's Vaporwave Style | Lachrymal Gems](https://lachrymalgems.store/products/mens-tank-shirt-neon-aesthetic-mens-lachrymal-gems-alternative): Stand out in our Men's Neon Aesthetic Alternative Tank. Bold vaporwave design, comfortable fit. Perfect for alternative fashion enthusiasts. Shop now!
-  Updated: 2025-10-21T03:48:09Z
+  Updated: 2025-10-21T06:25:49Z
   Vendor: Printify
   Product Type: Tank Top
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/male-model-complete-outfit-joggers-tank-socks-shoes-snapback.png?v=1760909455
+  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/male-model-complete-outfit-joggers-tank-socks-shoes-snapback.png?v=1761027944
   - [XS / Black](https://lachrymalgems.store/products/mens-tank-shirt-neon-aesthetic-mens-lachrymal-gems-alternative?variant=47214293385461)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/14128676757780680888_2048.jpg?v=1760865754
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/14128676757780680888_2048.jpg?v=1761027949
     Price: $30.99 USD
   - [XS / Dark Grey](https://lachrymalgems.store/products/mens-tank-shirt-neon-aesthetic-mens-lachrymal-gems-alternative?variant=47214293418229)
     Availability: Available
@@ -1113,7 +1113,7 @@
     Price: $30.99 USD
   - [S / Black](https://lachrymalgems.store/products/mens-tank-shirt-neon-aesthetic-mens-lachrymal-gems-alternative?variant=47214293614837)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/14128676757780680888_2048.jpg?v=1760865754
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/14128676757780680888_2048.jpg?v=1761027949
     Price: $30.99 USD
   - [S / Dark Grey](https://lachrymalgems.store/products/mens-tank-shirt-neon-aesthetic-mens-lachrymal-gems-alternative?variant=47214293647605)
     Availability: Available
@@ -1141,7 +1141,7 @@
     Price: $30.99 USD
   - [M / Black](https://lachrymalgems.store/products/mens-tank-shirt-neon-aesthetic-mens-lachrymal-gems-alternative?variant=47214293844213)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/14128676757780680888_2048.jpg?v=1760865754
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/14128676757780680888_2048.jpg?v=1761027949
     Price: $30.99 USD
   - [M / Dark Grey](https://lachrymalgems.store/products/mens-tank-shirt-neon-aesthetic-mens-lachrymal-gems-alternative?variant=47214293876981)
     Availability: Available
@@ -1165,7 +1165,7 @@
     Price: $30.99 USD
   - [L / Black](https://lachrymalgems.store/products/mens-tank-shirt-neon-aesthetic-mens-lachrymal-gems-alternative?variant=47214294040821)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/14128676757780680888_2048.jpg?v=1760865754
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/14128676757780680888_2048.jpg?v=1761027949
     Price: $30.99 USD
   - [L / Dark Grey](https://lachrymalgems.store/products/mens-tank-shirt-neon-aesthetic-mens-lachrymal-gems-alternative?variant=47214294073589)
     Availability: Available
@@ -1189,7 +1189,7 @@
     Price: $30.99 USD
   - [XL / Black](https://lachrymalgems.store/products/mens-tank-shirt-neon-aesthetic-mens-lachrymal-gems-alternative?variant=47214294237429)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/14128676757780680888_2048.jpg?v=1760865754
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/14128676757780680888_2048.jpg?v=1761027949
     Price: $30.99 USD
   - [XL / Dark Grey](https://lachrymalgems.store/products/mens-tank-shirt-neon-aesthetic-mens-lachrymal-gems-alternative?variant=47214294270197)
     Availability: Available
@@ -1209,7 +1209,7 @@
     Price: $30.99 USD
   - [2XL / Black](https://lachrymalgems.store/products/mens-tank-shirt-neon-aesthetic-mens-lachrymal-gems-alternative?variant=47214294401269)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/14128676757780680888_2048.jpg?v=1760865754
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/14128676757780680888_2048.jpg?v=1761027949
     Price: $30.99 USD
   - [2XL / Dark Grey](https://lachrymalgems.store/products/mens-tank-shirt-neon-aesthetic-mens-lachrymal-gems-alternative?variant=47214294434037)
     Availability: Available
@@ -1228,11 +1228,11 @@
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/15382797571737175173_2048.jpg?v=1760865754
     Price: $30.99 USD
 - [Emo Wave Sublimation Socks - Alternative Fashion Accessories | Lachrymal Gems](https://lachrymalgems.store/products/emo-wave-sublimation-socks): Express your emo style with our Emo Wave Sublimation Socks. Bold all-over print design, comfortable fit. Perfect for alternative fashion lovers!
-  Updated: 2025-10-21T03:48:10Z
+  Updated: 2025-10-21T06:25:59Z
   Vendor: Printify
   Product Type: All Over Prints
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/male-model-occult-shorts-tank-socks-shoes-snapback.png?v=1760866106
+  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/male-model-occult-shorts-tank-socks-shoes-snapback.png?v=1761027957
   - [S](https://lachrymalgems.store/products/emo-wave-sublimation-socks?variant=47216158998773)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/3756453037890731261_2048.jpg?v=1760866106
@@ -1253,11 +1253,11 @@
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/complete-outfit-mockup-joggers-crewneck-sneakers.png?v=1760864903
   Price: $44.62 USD
 - [Dark Aesthetic Skater Skirt - Gothic Alternative Fashion | Lachrymal Gems](https://lachrymalgems.store/products/dark-aesthetic-skater-skirt): Embrace your dark side with our Dark Aesthetic Skater Skirt. Perfect for gothic and alternative style lovers. Comfortable fit, bold statement. Shop now!
-  Updated: 2025-10-21T03:48:12Z
+  Updated: 2025-10-21T06:29:48Z
   Vendor: Printify
   Product Type: All Over Prints
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/Gemini_Generated_Image_hs21sehs21sehs21_1.png?v=1760902023
+  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/Gemini_Generated_Image_hs21sehs21sehs21_1.png?v=1761028188
   Price: $37.18 USD
 - [Neon Vaporwave Skeleton Clogs - Memento Mori Print Crocs | Lachrymal Gems](https://lachrymalgems.store/products/clogs-neon-vaporwave-memento-mori-skeleton-print-crocks): Stand out with our vibrant Neon Vaporwave Memento Mori Skeleton Print Clogs. Comfortable, eye-catching design perfect for bold style lovers. Shop unique skeleton crocs now!
   Updated: 2025-10-21T03:48:13Z
@@ -1360,17 +1360,213 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/1921614712821865457_2048.jpg?v=1760927085
   Price: $78.73 USD
+- [Men's Neon Dark Deals Aesthetic Tee](https://lachrymalgems.store/products/unisex-softstyle-t-shirt-comfortable-casual-wear-perfect-for-everyday-fashion-gifts-birthdays-relaxed-style-and-celebrations): Introducing a Unisex Softstyle T-Shirt that perfectly blends comfort and style. The lightweight fabric feels blissful against the skin, making it an ideal choice for everyday wear. Its classic fit and crew neckline ensure versatility, so you can dress it up or down for any occasion
+  Updated: 2025-10-21T18:21:41Z
+  Vendor: Printify
+  Product Type: T-Shirt
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/lil-peep-style-models-black-softstyle-t-shirts-front-back.png?v=1761070901
+  - [Navy / S](https://lachrymalgems.store/products/unisex-softstyle-t-shirt-comfortable-casual-wear-perfect-for-everyday-fashion-gifts-birthdays-relaxed-style-and-celebrations?variant=47221842641141)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/5143733093780037210_2048.jpg?v=1761070901
+    Price: $28.99 USD
+  - [Red / S](https://lachrymalgems.store/products/unisex-softstyle-t-shirt-comfortable-casual-wear-perfect-for-everyday-fashion-gifts-birthdays-relaxed-style-and-celebrations?variant=47221842673909)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/3667910535987202444_2048.jpg?v=1761070901
+    Price: $27.99 USD
+  - [White / S](https://lachrymalgems.store/products/unisex-softstyle-t-shirt-comfortable-casual-wear-perfect-for-everyday-fashion-gifts-birthdays-relaxed-style-and-celebrations?variant=47221842706677)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/15540038287618022614_2048.jpg?v=1761070901
+    Price: $25.99 USD
+  - [Black / S](https://lachrymalgems.store/products/unisex-softstyle-t-shirt-comfortable-casual-wear-perfect-for-everyday-fashion-gifts-birthdays-relaxed-style-and-celebrations?variant=47221842739445)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/5995600066440571733_2048.jpg?v=1761070901
+    Price: $27.99 USD
+  - [Navy / M](https://lachrymalgems.store/products/unisex-softstyle-t-shirt-comfortable-casual-wear-perfect-for-everyday-fashion-gifts-birthdays-relaxed-style-and-celebrations?variant=47221842772213)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/5143733093780037210_2048.jpg?v=1761070901
+    Price: $28.99 USD
+  - [Red / M](https://lachrymalgems.store/products/unisex-softstyle-t-shirt-comfortable-casual-wear-perfect-for-everyday-fashion-gifts-birthdays-relaxed-style-and-celebrations?variant=47221842804981)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/3667910535987202444_2048.jpg?v=1761070901
+    Price: $27.99 USD
+  - [White / M](https://lachrymalgems.store/products/unisex-softstyle-t-shirt-comfortable-casual-wear-perfect-for-everyday-fashion-gifts-birthdays-relaxed-style-and-celebrations?variant=47221842837749)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/15540038287618022614_2048.jpg?v=1761070901
+    Price: $27.99 USD
+  - [Black / M](https://lachrymalgems.store/products/unisex-softstyle-t-shirt-comfortable-casual-wear-perfect-for-everyday-fashion-gifts-birthdays-relaxed-style-and-celebrations?variant=47221842870517)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/5995600066440571733_2048.jpg?v=1761070901
+    Price: $27.99 USD
+  - [Navy / L](https://lachrymalgems.store/products/unisex-softstyle-t-shirt-comfortable-casual-wear-perfect-for-everyday-fashion-gifts-birthdays-relaxed-style-and-celebrations?variant=47221842903285)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/5143733093780037210_2048.jpg?v=1761070901
+    Price: $28.99 USD
+  - [Red / L](https://lachrymalgems.store/products/unisex-softstyle-t-shirt-comfortable-casual-wear-perfect-for-everyday-fashion-gifts-birthdays-relaxed-style-and-celebrations?variant=47221842936053)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/3667910535987202444_2048.jpg?v=1761070901
+    Price: $27.99 USD
+  - [White / L](https://lachrymalgems.store/products/unisex-softstyle-t-shirt-comfortable-casual-wear-perfect-for-everyday-fashion-gifts-birthdays-relaxed-style-and-celebrations?variant=47221842968821)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/15540038287618022614_2048.jpg?v=1761070901
+    Price: $25.99 USD
+  - [Black / L](https://lachrymalgems.store/products/unisex-softstyle-t-shirt-comfortable-casual-wear-perfect-for-everyday-fashion-gifts-birthdays-relaxed-style-and-celebrations?variant=47221843001589)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/5995600066440571733_2048.jpg?v=1761070901
+    Price: $27.99 USD
+  - [Navy / XL](https://lachrymalgems.store/products/unisex-softstyle-t-shirt-comfortable-casual-wear-perfect-for-everyday-fashion-gifts-birthdays-relaxed-style-and-celebrations?variant=47221843034357)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/5143733093780037210_2048.jpg?v=1761070901
+    Price: $28.99 USD
+  - [Red / XL](https://lachrymalgems.store/products/unisex-softstyle-t-shirt-comfortable-casual-wear-perfect-for-everyday-fashion-gifts-birthdays-relaxed-style-and-celebrations?variant=47221843067125)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/3667910535987202444_2048.jpg?v=1761070901
+    Price: $27.99 USD
+  - [White / XL](https://lachrymalgems.store/products/unisex-softstyle-t-shirt-comfortable-casual-wear-perfect-for-everyday-fashion-gifts-birthdays-relaxed-style-and-celebrations?variant=47221843099893)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/15540038287618022614_2048.jpg?v=1761070901
+    Price: $27.99 USD
+  - [Black / XL](https://lachrymalgems.store/products/unisex-softstyle-t-shirt-comfortable-casual-wear-perfect-for-everyday-fashion-gifts-birthdays-relaxed-style-and-celebrations?variant=47221843132661)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/5995600066440571733_2048.jpg?v=1761070901
+    Price: $27.99 USD
+  - [Navy / 2XL](https://lachrymalgems.store/products/unisex-softstyle-t-shirt-comfortable-casual-wear-perfect-for-everyday-fashion-gifts-birthdays-relaxed-style-and-celebrations?variant=47221843165429)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/5143733093780037210_2048.jpg?v=1761070901
+    Price: $29.99 USD
+  - [Red / 2XL](https://lachrymalgems.store/products/unisex-softstyle-t-shirt-comfortable-casual-wear-perfect-for-everyday-fashion-gifts-birthdays-relaxed-style-and-celebrations?variant=47221843198197)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/3667910535987202444_2048.jpg?v=1761070901
+    Price: $29.99 USD
+  - [White / 2XL](https://lachrymalgems.store/products/unisex-softstyle-t-shirt-comfortable-casual-wear-perfect-for-everyday-fashion-gifts-birthdays-relaxed-style-and-celebrations?variant=47221843230965)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/15540038287618022614_2048.jpg?v=1761070901
+    Price: $28.99 USD
+  - [Black / 2XL](https://lachrymalgems.store/products/unisex-softstyle-t-shirt-comfortable-casual-wear-perfect-for-everyday-fashion-gifts-birthdays-relaxed-style-and-celebrations?variant=47221843263733)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/5995600066440571733_2048.jpg?v=1761070901
+    Price: $28.99 USD
+  - [Navy / 3XL](https://lachrymalgems.store/products/unisex-softstyle-t-shirt-comfortable-casual-wear-perfect-for-everyday-fashion-gifts-birthdays-relaxed-style-and-celebrations?variant=47221843296501)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/5143733093780037210_2048.jpg?v=1761070901
+    Price: $31.99 USD
+  - [Red / 3XL](https://lachrymalgems.store/products/unisex-softstyle-t-shirt-comfortable-casual-wear-perfect-for-everyday-fashion-gifts-birthdays-relaxed-style-and-celebrations?variant=47221843329269)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/3667910535987202444_2048.jpg?v=1761070901
+    Price: $32.99 USD
+- [Men's Performance Long Sleeve Shirt with Colorful Cloud Design, Athletic Shirt, Outdoor Activity Wear, Gift for Fitness Enthusiasts](https://lachrymalgems.store/products/unisex-performance-long-sleeve-shirt-with-colorful-cloud-design-athletic-shirt-outdoor-activity-wear-gift-for-fitness-enthusiasts): Elevate your activewear collection with this Men's Performance Long Sleeve Shirt. Designed for those who love to stay active, this shirt offers a modern, sleek look that’s perfect for any workout or casual outing. Crafted from lightweight, breathable fabric, it not only keeps you cool during exercise but also transitions effortlessly into your everyday style. Ideal for fitness enthusiasts and outdoor adventurers alike, this shirt is perfect for running, hiking, or lounging on weekends. It makes a thoughtful gift for birthdays, fitness milestones, or holidays like Christmas and New Year’s, reminding loved ones to stay active and stylish in their pursuits.Product features- 100% Polyester ensures durability and shape retention.- Direct-to-Film (DTF) print for vibrant and unique designs.- UPF 30+ sun protection to shield you from harmful rays.- Moisture-wicking material keeps you dry during workouts.- Athletic fit offers a modern, streamlined silhouette.Care instructions- Machine wash: cold (max 30C or 90F)- Do not bleach- Do not tumble dry- Do not iron- Do not dryclean
+  Updated: 2025-10-21T19:03:02Z
+  Vendor: Printify
+  Product Type: Long-sleeve
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/male-model-red-performance-long-sleeve-front-back.png?v=1761073327
+  - [Black / XS](https://lachrymalgems.store/products/unisex-performance-long-sleeve-shirt-with-colorful-cloud-design-athletic-shirt-outdoor-activity-wear-gift-for-fitness-enthusiasts?variant=47221911224565)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/2705715499407780975_2048.jpg?v=1761073327
+    Price: $63.04 USD
+  - [White / XS](https://lachrymalgems.store/products/unisex-performance-long-sleeve-shirt-with-colorful-cloud-design-athletic-shirt-outdoor-activity-wear-gift-for-fitness-enthusiasts?variant=47221911257333)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/10951624154416222797_2048.jpg?v=1761073327
+    Price: $63.04 USD
+  - [Sport Graphite / XS](https://lachrymalgems.store/products/unisex-performance-long-sleeve-shirt-with-colorful-cloud-design-athletic-shirt-outdoor-activity-wear-gift-for-fitness-enthusiasts?variant=47221911290101)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/11699342785334013563_2048.jpg?v=1761073327
+    Price: $63.04 USD
+  - [Sport Red / XS](https://lachrymalgems.store/products/unisex-performance-long-sleeve-shirt-with-colorful-cloud-design-athletic-shirt-outdoor-activity-wear-gift-for-fitness-enthusiasts?variant=47221911322869)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/713796044074234077_2048.jpg?v=1761073327
+    Price: $63.04 USD
+  - [Black / S](https://lachrymalgems.store/products/unisex-performance-long-sleeve-shirt-with-colorful-cloud-design-athletic-shirt-outdoor-activity-wear-gift-for-fitness-enthusiasts?variant=47221911355637)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/2705715499407780975_2048.jpg?v=1761073327
+    Price: $40.47 USD
+  - [White / S](https://lachrymalgems.store/products/unisex-performance-long-sleeve-shirt-with-colorful-cloud-design-athletic-shirt-outdoor-activity-wear-gift-for-fitness-enthusiasts?variant=47221911388405)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/10951624154416222797_2048.jpg?v=1761073327
+    Price: $63.04 USD
+  - [Sport Graphite / S](https://lachrymalgems.store/products/unisex-performance-long-sleeve-shirt-with-colorful-cloud-design-athletic-shirt-outdoor-activity-wear-gift-for-fitness-enthusiasts?variant=47221911421173)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/11699342785334013563_2048.jpg?v=1761073327
+    Price: $63.04 USD
+  - [Sport Red / S](https://lachrymalgems.store/products/unisex-performance-long-sleeve-shirt-with-colorful-cloud-design-athletic-shirt-outdoor-activity-wear-gift-for-fitness-enthusiasts?variant=47221911453941)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/713796044074234077_2048.jpg?v=1761073327
+    Price: $63.04 USD
+  - [Black / M](https://lachrymalgems.store/products/unisex-performance-long-sleeve-shirt-with-colorful-cloud-design-athletic-shirt-outdoor-activity-wear-gift-for-fitness-enthusiasts?variant=47221911486709)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/2705715499407780975_2048.jpg?v=1761073327
+    Price: $63.04 USD
+  - [White / M](https://lachrymalgems.store/products/unisex-performance-long-sleeve-shirt-with-colorful-cloud-design-athletic-shirt-outdoor-activity-wear-gift-for-fitness-enthusiasts?variant=47221911519477)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/10951624154416222797_2048.jpg?v=1761073327
+    Price: $63.04 USD
+  - [Sport Graphite / M](https://lachrymalgems.store/products/unisex-performance-long-sleeve-shirt-with-colorful-cloud-design-athletic-shirt-outdoor-activity-wear-gift-for-fitness-enthusiasts?variant=47221911552245)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/11699342785334013563_2048.jpg?v=1761073327
+    Price: $63.04 USD
+  - [Sport Red / M](https://lachrymalgems.store/products/unisex-performance-long-sleeve-shirt-with-colorful-cloud-design-athletic-shirt-outdoor-activity-wear-gift-for-fitness-enthusiasts?variant=47221911585013)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/713796044074234077_2048.jpg?v=1761073327
+    Price: $63.04 USD
+  - [Black / L](https://lachrymalgems.store/products/unisex-performance-long-sleeve-shirt-with-colorful-cloud-design-athletic-shirt-outdoor-activity-wear-gift-for-fitness-enthusiasts?variant=47221911617781)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/2705715499407780975_2048.jpg?v=1761073327
+    Price: $63.04 USD
+  - [White / L](https://lachrymalgems.store/products/unisex-performance-long-sleeve-shirt-with-colorful-cloud-design-athletic-shirt-outdoor-activity-wear-gift-for-fitness-enthusiasts?variant=47221911650549)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/10951624154416222797_2048.jpg?v=1761073327
+    Price: $63.04 USD
+  - [Sport Graphite / L](https://lachrymalgems.store/products/unisex-performance-long-sleeve-shirt-with-colorful-cloud-design-athletic-shirt-outdoor-activity-wear-gift-for-fitness-enthusiasts?variant=47221911683317)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/11699342785334013563_2048.jpg?v=1761073327
+    Price: $63.04 USD
+  - [Sport Red / L](https://lachrymalgems.store/products/unisex-performance-long-sleeve-shirt-with-colorful-cloud-design-athletic-shirt-outdoor-activity-wear-gift-for-fitness-enthusiasts?variant=47221911716085)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/713796044074234077_2048.jpg?v=1761073327
+    Price: $63.04 USD
+  - [Black / XL](https://lachrymalgems.store/products/unisex-performance-long-sleeve-shirt-with-colorful-cloud-design-athletic-shirt-outdoor-activity-wear-gift-for-fitness-enthusiasts?variant=47221911748853)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/2705715499407780975_2048.jpg?v=1761073327
+    Price: $63.04 USD
+  - [White / XL](https://lachrymalgems.store/products/unisex-performance-long-sleeve-shirt-with-colorful-cloud-design-athletic-shirt-outdoor-activity-wear-gift-for-fitness-enthusiasts?variant=47221911781621)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/10951624154416222797_2048.jpg?v=1761073327
+    Price: $63.04 USD
+  - [Sport Graphite / XL](https://lachrymalgems.store/products/unisex-performance-long-sleeve-shirt-with-colorful-cloud-design-athletic-shirt-outdoor-activity-wear-gift-for-fitness-enthusiasts?variant=47221911814389)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/11699342785334013563_2048.jpg?v=1761073327
+    Price: $63.04 USD
+  - [Sport Red / XL](https://lachrymalgems.store/products/unisex-performance-long-sleeve-shirt-with-colorful-cloud-design-athletic-shirt-outdoor-activity-wear-gift-for-fitness-enthusiasts?variant=47221911847157)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/713796044074234077_2048.jpg?v=1761073327
+    Price: $63.04 USD
+  - [Black / 2XL](https://lachrymalgems.store/products/unisex-performance-long-sleeve-shirt-with-colorful-cloud-design-athletic-shirt-outdoor-activity-wear-gift-for-fitness-enthusiasts?variant=47221911879925)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/2705715499407780975_2048.jpg?v=1761073327
+    Price: $68.62 USD
+  - [White / 2XL](https://lachrymalgems.store/products/unisex-performance-long-sleeve-shirt-with-colorful-cloud-design-athletic-shirt-outdoor-activity-wear-gift-for-fitness-enthusiasts?variant=47221911912693)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/10951624154416222797_2048.jpg?v=1761073327
+    Price: $68.62 USD
+  - [Sport Graphite / 2XL](https://lachrymalgems.store/products/unisex-performance-long-sleeve-shirt-with-colorful-cloud-design-athletic-shirt-outdoor-activity-wear-gift-for-fitness-enthusiasts?variant=47221911945461)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/11699342785334013563_2048.jpg?v=1761073327
+    Price: $68.62 USD
+  - [Sport Red / 2XL](https://lachrymalgems.store/products/unisex-performance-long-sleeve-shirt-with-colorful-cloud-design-athletic-shirt-outdoor-activity-wear-gift-for-fitness-enthusiasts?variant=47221911978229)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/713796044074234077_2048.jpg?v=1761073327
+    Price: $68.62 USD
 
 ## Collections
 
 - [Home page](https://lachrymalgems.store/collections/frontpage): Landing pages display of best selling products
-  Updated: 2025-10-20T02:33:49Z
-  Total Products: 18
+  Updated: 2025-10-21T18:13:59Z
+  Total Products: 19
 - [Ladies Alt. Style](https://lachrymalgems.store/collections/ladies-alt-style): Ladies trending apparel, Seasonal Fashion
-  Updated: 2025-10-21T03:52:56Z
-  Total Products: 18
+  Updated: 2025-10-21T14:18:48Z
+  Total Products: 17
 - [Mens Alt. Style](https://lachrymalgems.store/collections/mens-alt-style): Mens hip hop alternative trends and seasonal outfits.
-  Updated: 2025-10-21T03:54:12Z
+  Updated: 2025-10-21T18:13:59Z
   Total Products: 15
 - [Trap-Core Shoes](https://lachrymalgems.store/collections/trap-core-shoes)
   Updated: 2025-10-21T03:50:12Z
@@ -1416,8 +1612,8 @@
   Updated: 2025-10-09T22:40:14Z
 - [FAQs - Lachrymal Gems](https://lachrymalgems.store/pages/frequently-ask-questions): Frequently Asked Questions What products do you offer? We specialize in unique, handcrafted gemstone jewelry and accessories. Each piece is careful...
   Updated: 2025-10-11T02:58:03Z
-- [Your Vision, Our Design](https://lachrymalgems.store/pages/your-vision-our-design): Dreaming of something truly unique? Or perhaps you have a beloved design that just needs that special touch? Our design team specializes in transfo...
-  Updated: 2025-10-12T18:24:44Z
+- [Personalize Your Fit](https://lachrymalgems.store/pages/your-vision-our-design): Dreaming of something truly unique? Or perhaps you have a beloved design that just needs that special touch? Our design team specializes in transfo...
+  Updated: 2025-10-21T19:22:20Z
 - [Email Sign Up](https://lachrymalgems.store/pages/email-sign-up): Join Our Mailing List Sign up to receive exclusive updates, special offers, and news about our latest collections. Subscribe
   Updated: 2025-10-17T22:51:45Z
 
