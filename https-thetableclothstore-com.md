@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-02-06T23:04:14Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-10-21T00:00:39.374Z
+- Updated At: 2025-10-21T04:00:40.827Z
 
 ## Products
 
@@ -33762,6 +33762,9 @@
     Author: User
   - [How to Incorporate Seasonal Themes into Your Table Setting](https://thetableclothstore.com/blogs/news/how-to-incorporate-seasonal-themes-into-your-table-setting): How to Incorporate Seasonal Themes into Your Table Setting
     Updated: 2025-10-20T00:42:18Z
+    Author: User
+  - [Creative Uses for Tablecloths Beyond the Dining Room](https://thetableclothstore.com/blogs/news/creative-uses-for-tablecloths-beyond-the-dining-room): Creative Uses for Tablecloths Beyond the Dining Room
+    Updated: 2025-10-21T02:03:55Z
     Author: User
 
 ## Store Pages
