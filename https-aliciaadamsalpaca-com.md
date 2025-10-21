@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-06-23T16:52:36Z
 - Contact Email: customerservice@aliciaadamsalpaca.com
-- Updated At: 2025-10-21T12:00:39.518Z
+- Updated At: 2025-10-21T16:00:39.241Z
 
 ## Products
 
@@ -88,7 +88,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AS234-124-PortofinoShawl-Moss-white-web_1.jpg?v=1751375505
     Price: $355.00 USD
 - [Buy Rib Throw | Luxury Alpaca Throws | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/rib-throw): buy rib throw, luxury alpaca throws at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-10-20T12:31:44Z
+  Updated: 2025-10-21T15:55:45Z
   Vendor: alicia adams alpaca
   Product Type: Blankets & Throws
   Availability: Available
@@ -2575,7 +2575,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH542-17-MazingThrow-Black-white-web_d291042d-1a08-47df-a636-74ba2728d1e0.jpg?v=1735830175
     Price: $690.00 USD
 - [Buy Baby Scarf & Bunny Hat | Luxury Alpaca Hat/Scarf Set | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/baby-scarf-bunny-hat): Buy Baby Scarf & Bunny Hat, luxury alpaca Hat/Scarf Set at alicia adams alpaca. Earn Rewards. Shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-10-16T13:26:42Z
+  Updated: 2025-10-21T15:04:41Z
   Vendor: alicia adams alpaca
   Product Type: Gift Sets
   Availability: Available
@@ -3669,7 +3669,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-aw103-90-vnecksweater-frenchyellow-modelwhite.jpg?v=1759500151
     Price: $225.00 USD
 - [Buy Osborne Jacket | Luxury Alpaca Jacket | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/osborne-jacket): buy osborne jacket, luxury alpaca jacket at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-10-16T16:36:46Z
+  Updated: 2025-10-21T15:00:06Z
   Vendor: alicia adams alpaca
   Product Type: Coats & Jackets
   Availability: Available
@@ -4143,7 +4143,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AP217-14-16-AberdeenPillow-DarkGrey-Charcoal-white-web.jpg?v=1759499674
     Price: $295.00 USD
 - [Buy Aberdeen Throw | Luxury Alpaca Throws | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/aberdeen-throw): Buy Aberdeen Throw, luxury alpaca Throws at alicia adams alpaca. Earn Rewards. Shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-10-16T13:28:06Z
+  Updated: 2025-10-21T13:47:11Z
   Vendor: alicia adams alpaca
   Product Type: Blankets & Throws
   Availability: Available
@@ -6405,7 +6405,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-loungewearset_blk-sweatpant_modelwhite.jpg?v=1735831266
     Price: $285.00 USD
 - [Buy Malibu Lounge Hoodie | Luxury Alpaca Women's Sweater | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/lounge-hoodie): Discover luxury with our lounge hoodie, expertly crafted from premium alpaca. Designed for both comfort and style, this women's sweater features vibrant color block details. Buy now to elevate your loungewear collection and earn rewards on fair-trade, eco-friendly luxury goods at alicia adams alpaca.
-  Updated: 2025-10-20T11:26:41Z
+  Updated: 2025-10-21T15:42:52Z
   Vendor: alicia adams alpaca
   Product Type: Loungewear
   Availability: Available
@@ -6413,123 +6413,123 @@
   - [Ivory / XS](https://aliciaadamsalpaca.com/products/lounge-hoodie?variant=40259009970291)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-loungeset_ivory_hoodie-short_modelwhite.jpg?v=1759492637
-    Price: $285.00 USD
+    Price: $345.00 USD
   - [Ivory / S](https://aliciaadamsalpaca.com/products/lounge-hoodie?variant=40826905002099)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-loungeset_ivory_hoodie-short_modelwhite.jpg?v=1759492637
-    Price: $285.00 USD
+    Price: $345.00 USD
   - [Ivory / M](https://aliciaadamsalpaca.com/products/lounge-hoodie?variant=40826905034867)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-loungeset_ivory_hoodie-short_modelwhite.jpg?v=1759492637
-    Price: $285.00 USD
+    Price: $345.00 USD
   - [Ivory / L](https://aliciaadamsalpaca.com/products/lounge-hoodie?variant=40826905067635)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-loungeset_ivory_hoodie-short_modelwhite.jpg?v=1759492637
-    Price: $285.00 USD
+    Price: $345.00 USD
   - [Ivory / XL](https://aliciaadamsalpaca.com/products/lounge-hoodie?variant=40826905100403)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-loungeset_ivory_hoodie-short_modelwhite.jpg?v=1759492637
-    Price: $285.00 USD
+    Price: $345.00 USD
   - [Pink Powder / Ivory / XS](https://aliciaadamsalpaca.com/products/lounge-hoodie?variant=40826905788531)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-loungeset_pinkpowder-ivory_hoodie-short_modelwhite_dbd8270c-c715-4f06-833d-447bb68dcbec.jpg?v=1759492637
-    Price: $285.00 USD
+    Price: $345.00 USD
   - [Pink Powder / Ivory / S](https://aliciaadamsalpaca.com/products/lounge-hoodie?variant=40826905821299)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-loungeset_pinkpowder-ivory_hoodie-short_modelwhite_dbd8270c-c715-4f06-833d-447bb68dcbec.jpg?v=1759492637
-    Price: $285.00 USD
+    Price: $345.00 USD
   - [Pink Powder / Ivory / M](https://aliciaadamsalpaca.com/products/lounge-hoodie?variant=40826905854067)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-loungeset_pinkpowder-ivory_hoodie-short_modelwhite_dbd8270c-c715-4f06-833d-447bb68dcbec.jpg?v=1759492637
-    Price: $285.00 USD
+    Price: $345.00 USD
   - [Pink Powder / Ivory / L](https://aliciaadamsalpaca.com/products/lounge-hoodie?variant=40826905886835)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-loungeset_pinkpowder-ivory_hoodie-short_modelwhite_dbd8270c-c715-4f06-833d-447bb68dcbec.jpg?v=1759492637
-    Price: $285.00 USD
+    Price: $345.00 USD
   - [Pink Powder / Ivory / XL](https://aliciaadamsalpaca.com/products/lounge-hoodie?variant=40826905919603)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-loungeset_pinkpowder-ivory_hoodie-short_modelwhite_dbd8270c-c715-4f06-833d-447bb68dcbec.jpg?v=1759492637
-    Price: $285.00 USD
+    Price: $345.00 USD
   - [Light Sage / Sage / XS](https://aliciaadamsalpaca.com/products/lounge-hoodie?variant=40826905133171)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-0029_lounge_set_sage_hoodie_modelwhite.jpg?v=1738602349
-    Price: $285.00 USD
+    Price: $345.00 USD
   - [Light Sage / Sage / S](https://aliciaadamsalpaca.com/products/lounge-hoodie?variant=40826905165939)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-0029_lounge_set_sage_hoodie_modelwhite.jpg?v=1738602349
-    Price: $285.00 USD
+    Price: $345.00 USD
   - [Light Sage / Sage / M](https://aliciaadamsalpaca.com/products/lounge-hoodie?variant=40826905198707)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-0029_lounge_set_sage_hoodie_modelwhite.jpg?v=1738602349
-    Price: $285.00 USD
+    Price: $345.00 USD
   - [Light Sage / Sage / L](https://aliciaadamsalpaca.com/products/lounge-hoodie?variant=40826905231475)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-0029_lounge_set_sage_hoodie_modelwhite.jpg?v=1738602349
-    Price: $285.00 USD
+    Price: $345.00 USD
   - [Light Sage / Sage / XL](https://aliciaadamsalpaca.com/products/lounge-hoodie?variant=40826905264243)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-0029_lounge_set_sage_hoodie_modelwhite.jpg?v=1738602349
-    Price: $285.00 USD
+    Price: $345.00 USD
   - [Denim Blue / Navy / XS](https://aliciaadamsalpaca.com/products/lounge-hoodie?variant=40826905624691)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-loungehoodie_denimblue_modelwhite.jpg?v=1759492637
-    Price: $285.00 USD
+    Price: $345.00 USD
   - [Denim Blue / Navy / S](https://aliciaadamsalpaca.com/products/lounge-hoodie?variant=40826905657459)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-loungehoodie_denimblue_modelwhite.jpg?v=1759492637
-    Price: $285.00 USD
+    Price: $345.00 USD
   - [Denim Blue / Navy / M](https://aliciaadamsalpaca.com/products/lounge-hoodie?variant=40826905690227)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-loungehoodie_denimblue_modelwhite.jpg?v=1759492637
-    Price: $285.00 USD
+    Price: $345.00 USD
   - [Denim Blue / Navy / L](https://aliciaadamsalpaca.com/products/lounge-hoodie?variant=40826905722995)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-loungehoodie_denimblue_modelwhite.jpg?v=1759492637
-    Price: $285.00 USD
+    Price: $345.00 USD
   - [Denim Blue / Navy / XL](https://aliciaadamsalpaca.com/products/lounge-hoodie?variant=40826905755763)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-loungehoodie_denimblue_modelwhite.jpg?v=1759492637
-    Price: $285.00 USD
+    Price: $345.00 USD
   - [Dark Grey / Black / XS](https://aliciaadamsalpaca.com/products/lounge-hoodie?variant=40826905297011)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-loungeset_drkgry-blk_hoodie_modelwhite.jpg?v=1738602349
-    Price: $285.00 USD
+    Price: $345.00 USD
   - [Dark Grey / Black / S](https://aliciaadamsalpaca.com/products/lounge-hoodie?variant=40826905329779)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-loungeset_drkgry-blk_hoodie_modelwhite.jpg?v=1738602349
-    Price: $285.00 USD
+    Price: $345.00 USD
   - [Dark Grey / Black / M](https://aliciaadamsalpaca.com/products/lounge-hoodie?variant=40826905362547)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-loungeset_drkgry-blk_hoodie_modelwhite.jpg?v=1738602349
-    Price: $285.00 USD
+    Price: $345.00 USD
   - [Dark Grey / Black / L](https://aliciaadamsalpaca.com/products/lounge-hoodie?variant=40826905395315)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-loungeset_drkgry-blk_hoodie_modelwhite.jpg?v=1738602349
-    Price: $285.00 USD
+    Price: $345.00 USD
   - [Dark Grey / Black / XL](https://aliciaadamsalpaca.com/products/lounge-hoodie?variant=40826905428083)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-loungeset_drkgry-blk_hoodie_modelwhite.jpg?v=1738602349
-    Price: $285.00 USD
+    Price: $345.00 USD
   - [Black / XS](https://aliciaadamsalpaca.com/products/lounge-hoodie?variant=40826905460851)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-loungewearset_blkhoodie-modelwhite.jpg?v=1684594309
-    Price: $285.00 USD
+    Price: $345.00 USD
   - [Black / S](https://aliciaadamsalpaca.com/products/lounge-hoodie?variant=40826905493619)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-loungewearset_blkhoodie-modelwhite.jpg?v=1684594309
-    Price: $285.00 USD
+    Price: $345.00 USD
   - [Black / M](https://aliciaadamsalpaca.com/products/lounge-hoodie?variant=40826905526387)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-loungewearset_blkhoodie-modelwhite.jpg?v=1684594309
-    Price: $285.00 USD
+    Price: $345.00 USD
   - [Black / L](https://aliciaadamsalpaca.com/products/lounge-hoodie?variant=40826905559155)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-loungewearset_blkhoodie-modelwhite.jpg?v=1684594309
-    Price: $285.00 USD
+    Price: $345.00 USD
   - [Black / XL](https://aliciaadamsalpaca.com/products/lounge-hoodie?variant=40826905591923)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-loungewearset_blkhoodie-modelwhite.jpg?v=1684594309
-    Price: $285.00 USD
+    Price: $345.00 USD
 - [Buy Samira Coat | Luxury Alpaca Women's Coat | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/samira-coat): buy samira coat, luxury alpaca women's coat at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
   Updated: 2025-10-16T13:30:25Z
   Vendor: alicia adams alpaca
@@ -7080,7 +7080,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-AH227-15-Millbrook-Throw-Dark-Grey-Wood.jpg?v=1705362374
     Price: $495.00 USD
 - [Buy Kingston Throw | Luxury Alpaca Throws | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/kingston-alpaca-throw): buy kingston throw, luxury alpaca throws at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-10-16T13:30:55Z
+  Updated: 2025-10-21T15:39:05Z
   Vendor: alicia adams alpaca
   Product Type: Blankets & Throws
   Availability: Available
@@ -11567,7 +11567,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-img_2878.jpg?v=1759491107
     Price: $550.00 USD
 - [Buy Casablanca Throw | Luxury Alpaca Throws | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/casablanca-throw): Buy Casablanca Throw, luxury alpaca Throws at alicia adams alpaca. Earn Rewards. Shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-10-16T13:35:17Z
+  Updated: 2025-10-21T15:39:30Z
   Vendor: alicia adams alpaca
   Product Type: Blankets & Throws
   Availability: Available
@@ -12103,7 +12103,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-aw127-17m-finncoat-blackmelange-modelwhite.jpg?v=1759844479
     Price: $675.00 USD
 - [Buy Big Sky Scarf | Luxury Alpaca Scarf | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/big-sky-scarf): Buy Big Sky Scarf, luxury alpaca Scarf at alicia adams alpaca. Earn Rewards. Shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-10-20T13:07:55Z
+  Updated: 2025-10-21T13:51:31Z
   Vendor: alicia adams alpaca
   Product Type: Scarves & Wraps
   Availability: Available
@@ -12345,7 +12345,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-img_1273.jpg?v=1759490287
     Price: $245.00 USD
 - [Buy Gift Wrap | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/gift-wrap): buy gift wrap, luxury alpaca wrapin at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-10-21T03:32:40Z
+  Updated: 2025-10-21T15:04:40Z
   Vendor: wrapin
   Product Type: wrapin
   Availability: Available
@@ -12733,7 +12733,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/alicia-gift-card.jpg?v=1750855941
     Price: $5,000.00 USD
 - [Buy Club Sweater For Men | Luxury Alpaca Sweater | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/club-sweater): Shop our Men's Club Sweater and women at Alicia Adams Alpaca. Made with premium Pima Cotton and Baby Alpaca. Earn rewards with each purchase of our luxury alpaca unisex sweater. Discover our fair-trade made, eco-friendly luxury goods. Elevate your style with our sleek design and embrace extraordinary comfort. Shop now!
-  Updated: 2025-10-21T03:32:39Z
+  Updated: 2025-10-21T15:00:05Z
   Vendor: alicia adams alpaca
   Product Type: Shirts & Sweaters
   Availability: Available
@@ -15082,7 +15082,7 @@
   Updated: 2025-09-09T19:35:38Z
   Total Products: 0
 - [Shop Women's Designer Alpaca Apparel | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/shop-women): Discover our exquisite collection of luxury alpaca women's clothing, from chic coats to cozy sweaters, all crafted from 100% baby alpaca wool for unmatched style and comfort.
-  Updated: 2025-10-20T11:38:10Z
+  Updated: 2025-10-21T15:42:53Z
   Total Products: 116
 - [Designer Alpaca Children's Clothing | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/shop-children): Explore our collection of alpaca children's clothing and accessories. Envelop your little ones in expertly crafted alpaca apparel, ensuring warmth and comfort.
   Updated: 2025-10-20T11:37:04Z
@@ -15136,7 +15136,7 @@
   Updated: 2025-10-20T11:32:54Z
   Total Products: 11
 - [Shop Women's Apparel | Luxury Alpaca Womens Apparel | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/womens-apparel): Artisan alpaca sweaters, tops, capes and shawls, and more, shop our women's apparel and choose from an array styles and colors fit for any wardrobe and season.
-  Updated: 2025-10-20T11:26:42Z
+  Updated: 2025-10-21T15:42:53Z
   Total Products: 44
 - [Luxury Decorative Throw Pillows | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/decorative-pillows): Discover hypoallergenic, custom decorative alpaca pillows to add elegance to any room. Explore colors and styles including throw pillows, lumbar, and euros.
   Updated: 2025-10-20T11:21:49Z
@@ -15145,7 +15145,7 @@
   Updated: 2025-10-21T11:16:38Z
   Total Products: 22
 - [Shop All Products | Alpaca Home Decor | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/all): Alicia Adams Alpaca is known for a curated, elegant approach to all things alpaca - including alpaca home decor, apparel, and accessories. Free Shipping in US.
-  Updated: 2025-10-21T11:16:38Z
+  Updated: 2025-10-21T15:42:53Z
   Total Products: 305
 - [alicia adams alpaca | mazing collection | alpaca collection](https://aliciaadamsalpaca.com/collections/mazing-collection): With its unique southwestern design, our Mazing Collection is sure to offer an enticing and conversation pillows, capes, and more for your home or wardrobe.
   Updated: 2025-10-20T11:16:27Z
@@ -15187,7 +15187,7 @@
   Updated: 2025-09-09T19:35:40Z
   Total Products: 3
 - [Shop All Rainbow Products | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/all-rainbow-products): Shop all rainbow products, luxury alpaca items at alicia adams alpaca. Earn rewards. 10% of all sales made of the Rainbow Collection will be donated to support GLSEN.org
-  Updated: 2025-09-09T19:35:40Z
+  Updated: 2025-10-21T12:59:10Z
   Total Products: 3
 - [Vicuña Alpaca Luxury Clothing | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/vicuna): Shop the pinnacle of luxury - vicuña wool clothing, sweaters, and scarves. Indulge in pieces made from the rarest alpaca fiber, meticulously artisan-crafted.
   Updated: 2025-09-09T19:35:40Z
@@ -15229,10 +15229,10 @@
   Updated: 2025-10-21T11:16:38Z
   Total Products: 188
 - [Alicia Products | Luxury Alpaca Products | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/alicia-adams-alpaca): Shop luxury alpaca products at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-10-21T11:16:38Z
+  Updated: 2025-10-21T15:42:53Z
   Total Products: 223
 - [Lounge Collection | alicia adams alpaca](https://aliciaadamsalpaca.com/collections/lounge-collection): Shop alicia adams alpaca's premium lounge collection—luxurious alpaca sweatshirts, sweatpants, hoodies, and more. Handcrafted for elegance, warmth, and sustainability. Shop now!
-  Updated: 2025-10-20T11:26:42Z
+  Updated: 2025-10-21T15:42:53Z
   Total Products: 9
 - [Classic Collection | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/classic-collection): Shop the Classic Alpaca Collection available in 100+ colors. The ultimate selection of luxury alpaca throws and blankets at Alicia Adams Alpaca. Free shipping over $175.
   Updated: 2025-10-20T11:16:27Z
@@ -15256,7 +15256,7 @@
   Updated: 2025-10-21T11:16:38Z
   Total Products: 38
 - [All Products - No Gift Wrap - DO NOT DELETE](https://aliciaadamsalpaca.com/collections/all-products-no-gift-wrap)
-  Updated: 2025-10-21T11:16:38Z
+  Updated: 2025-10-21T15:42:53Z
   Total Products: 253
 - [Southwest Inspired](https://aliciaadamsalpaca.com/collections/southwest-inspired)
   Updated: 2025-10-20T11:16:27Z
@@ -15265,13 +15265,13 @@
   Updated: 2025-10-20T11:38:09Z
   Total Products: 6
 - [Low Inventory](https://aliciaadamsalpaca.com/collections/low-inventory)
-  Updated: 2025-10-21T11:16:38Z
+  Updated: 2025-10-21T15:42:53Z
   Total Products: 249
 - [Shop Women | Luxury Alpaca Apparel | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/shop-women-1)
-  Updated: 2025-10-20T11:38:10Z
+  Updated: 2025-10-21T15:42:53Z
   Total Products: 90
 - [Shop All Products | Luxury Alpaca Home Decor & Apparel | alicia adams alpaca](https://aliciaadamsalpaca.com/collections/all-products): Alicia Adams Alpaca is known for a curated, elegant approach to all things alpaca - including alpaca home decor, men, women and children's apparel, and accessories. Free Shipping in US.
-  Updated: 2025-10-21T11:16:38Z
+  Updated: 2025-10-21T15:42:53Z
   Total Products: 248
 - [Shop Men's Luxury Alpaca Apparel | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/shop-men): Discover our luxury men’s alpaca apparel, coats, sweaters, and loungewear made from the highest quality 100% baby alpaca wool for style and comfort year-round.
   Updated: 2025-10-21T11:16:38Z
@@ -15283,13 +15283,13 @@
   Updated: 2025-09-25T11:41:06Z
   Total Products: 46
 - [Discountable](https://aliciaadamsalpaca.com/collections/discountable2)
-  Updated: 2025-10-21T11:16:38Z
+  Updated: 2025-10-21T15:42:53Z
   Total Products: 232
 - [Coats & Capes Sale](https://aliciaadamsalpaca.com/collections/coat-and-cape-sale): Save up to 80% Off
   Updated: 2025-10-14T11:16:32Z
   Total Products: 9
 - [EasyGift All Products](https://aliciaadamsalpaca.com/collections/easygift-all-products): EasyGift all products collection
-  Updated: 2025-10-21T11:16:38Z
+  Updated: 2025-10-21T15:42:53Z
   Total Products: 341
 - [Featured Products | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/featured-products): Discover Alicia Adams Alpaca's premium featured collection—luxurious alpaca scarves, wraps, and accessories. Handcrafted for elegance, warmth, and sustainability. Shop now!
   Updated: 2025-10-21T11:16:38Z
@@ -15304,7 +15304,7 @@
   Updated: 2025-10-14T11:16:32Z
   Total Products: 4
 - [Tops & Sweaters](https://aliciaadamsalpaca.com/collections/tops-sweaters)
-  Updated: 2025-10-20T11:28:40Z
+  Updated: 2025-10-21T15:42:53Z
   Total Products: 30
 - [Shirts & Sweaters](https://aliciaadamsalpaca.com/collections/shirts-sweaters)
   Updated: 2025-10-21T11:16:38Z
@@ -15958,8 +15958,6 @@
   Updated: 2023-07-12T15:04:31Z
 - [Giving Back | alicia adams alpaca](https://aliciaadamsalpaca.com/pages/giving-back): 
   Updated: 2023-07-12T15:27:47Z
-- [wishlist | alicia adams alpaca](https://aliciaadamsalpaca.com/pages/swym-share-wishlist): window.SwymCallbacks = window.SwymCallbacks || []; window.SwymCallbacks.push(function(swat) { var queryParams = swat.utils.getEncodedAsObject(windo...
-  Updated: 2023-07-11T15:53:33Z
 - [Privacy Policy | alicia adams alpaca](https://aliciaadamsalpaca.com/pages/privacy-policy): LAST UPDATED: AUGUST 7, 2023 Alicia Adams Alpaca ("us", "we", or "our") operates the https://www.aliciaadamsalpaca.com website (the "Service"). Thi...
   Updated: 2025-05-16T12:06:04Z
 - [Read our Terms of Service | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/pages/terms-of-service): 
@@ -15976,12 +15974,8 @@
   Updated: 2025-01-24T14:28:08Z
 - [alicia adams alpaca | luxury alpaca bedding | the bedding shop](https://aliciaadamsalpaca.com/pages/the-bedding-shop-2): 
   Updated: 2023-08-11T02:11:13Z
-- [Let's Celebrate Your Birthday | alicia adams alpaca](https://aliciaadamsalpaca.com/pages/birthday): Let's Celebrate Your Birthday! Follow the simple steps in the image below to add your birthday to your profile. Find the rewards button on the bott...
-  Updated: 2023-07-11T15:37:58Z
 - [SMS Signup](https://aliciaadamsalpaca.com/pages/sms-signup)
   Updated: 2024-12-13T00:09:10Z
-- [Shop Social](https://aliciaadamsalpaca.com/pages/shop-social): .fs-has-links::after { padding:10px 15px;background-color:#ffffff;color:rgba(0, 0, 0, 0.8);content:"SHOP IT"; } .fs-wrapper div.fs-text-container ....
-  Updated: 2023-10-15T14:14:05Z
 - [Holiday Deals](https://aliciaadamsalpaca.com/pages/holidaydeals)
   Updated: 2023-12-02T19:09:06Z
 - [the bedding shop | luxury alpaca | alicia adams alpaca](https://aliciaadamsalpaca.com/pages/the-bedding-shop-4): 
@@ -15998,8 +15992,6 @@
   Updated: 2025-08-29T11:44:59Z
 - [Trade Program](https://aliciaadamsalpaca.com/pages/trade-program)
   Updated: 2025-06-04T13:49:18Z
-- [Trade Test](https://aliciaadamsalpaca.com/pages/trade-test)
-  Updated: 2025-06-26T13:50:31Z
 - [The Pink Collection](https://aliciaadamsalpaca.com/pages/pink-collection): THE PINK COLLECTION { "__shgImageV2Elements": { "uuid": "s-64a2698d-eb3b-4b13-96ac-f3e6bfb0d662" } } This October, 20% of proceeds from our Pink Co...
   Updated: 2025-10-02T14:25:00Z
 - [About Us](https://aliciaadamsalpaca.com/pages/about-us)
