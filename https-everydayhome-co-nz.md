@@ -6,12 +6,12 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-10-20T20:00:37.781Z
+- Updated At: 2025-10-21T00:00:38.512Z
 
 ## Products
 
 - [Umbra Cubiko Shower Caddy - Black](https://everydayhome.co.nz/products/cubiko-shower-caddy-black): Cubiko Shower Caddy, Black
-  Updated: 2025-10-19T19:37:10Z
+  Updated: 2025-10-20T20:52:11Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -53,7 +53,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Peggy-Drawer-Org-2Pc-White-5.jpg?v=1727658605
   Price: $44.99 NZD
 - [Umbra Squire Multi-Use Paper Towel Holder - Black](https://everydayhome.co.nz/products/squire-multi-use-paper-towel-holder-black): Squire Multi-Use Paper Towel Holder, Black
-  Updated: 2025-09-25T13:23:25Z
+  Updated: 2025-10-20T21:07:11Z
   Vendor: UMBRA
   Product Type: Kitchenware
   Availability: Available
@@ -1677,7 +1677,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Buddy-OTD-Double-Hook-White-UMBRA-5.jpg?v=1731901764
   Price: $49.99 NZD
 - [Umbra Buddy Counter Top Paper Towel Holder - Black](https://everydayhome.co.nz/products/buddy-paper-twl-hldr-kd-black): Along with its unique appearance, Buddy is also highly practical; the molded figure provides friction and leverage for one-handed tearing and protects the roll from unravelling. Taking up little space on your countertop, maintenance is hassle-free; cleaning only requires a quick wipe-down.
-  Updated: 2025-10-12T22:22:11Z
+  Updated: 2025-10-20T21:07:10Z
   Vendor: UMBRA
   Product Type: Kitchenware
   Availability: Available
@@ -1922,7 +1922,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Essteele-Per-Salute-2-Piece-Set-Essteele-8.jpg?v=1731901920
   Price: $409.99 NZD
 - [Essteele Per Salute - 20/24/28cm Skillet Triple Pack](https://everydayhome.co.nz/products/essteele-per-salute-20-24-28cm-skillet-triple-pack): Essteele Per Salute combines convenience and solution driven features with a unique fusion of diamond-hard nonstick durability with innovative Thermotech technology. This diamond-reinforced triple pack contains 20cm, 24cm and 28cm premium nonstick skillets, so you can create a variety of delicious dishes both big and small and clean up with ease afterward.
-  Updated: 2025-10-16T01:07:11Z
+  Updated: 2025-10-20T23:07:10Z
   Vendor: Essteele
   Product Type: Kitchenware
   Availability: Available
@@ -2125,7 +2125,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Flex-Drain-Stop-Hair-Catcher-Grey-UMBRA-7.jpg?v=1731903521
   Price: $17.99 NZD
 - [Umbra Flex Adhesive Bin - Black](https://everydayhome.co.nz/products/flex-adhesive-bin-black): This shower caddy has clever storage for your shower essentials including body wash, shampoo and conditioner, razors and loofas. Easy to install, Flex Adhesive Bin includes non-damaging, waterproof adhesive strips that can be applied on various surfaces such as tiles, dry wall, concrete, etc. (does not work on porous surfaces). The Flex Adhesive Bin allows shampoo and soap bottles to be stored flipped over so you can maximize how much of the product you are able to use.
-  Updated: 2025-10-19T19:37:11Z
+  Updated: 2025-10-20T20:52:11Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -2426,7 +2426,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Squire-Paper-Towel-Holder-Black-UMBRA-2.jpg?v=1731901906
   Price: $24.99 NZD
 - [Umbra Step Soap Pump - White](https://everydayhome.co.nz/products/step-soap-sanitiser-dispenser-white): Step has sleek, shiny, and modern, creating a contemporary version of a typical soap pump. The product’s crisp clean lines make it a modern fixture for your space. Constructed of highly durable material melamine, Step has a low-risk for breakage and is long-lasting. With a capacity of 13 ounces (384 mL) and a wide opening, Step is both easy to refill and holds a large quantity of soap. The dispenser has a beautiful glossy finish and is an ideal addition to any washroom, laundry room, or kitchen. Pair this soap pump with other accessories from the Step Bathroom Collection for a more cohesive look.
-  Updated: 2025-10-19T19:37:11Z
+  Updated: 2025-10-20T21:07:11Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -3014,7 +3014,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/CoverforWallFix-Black-8710755420108Brabantia_96dpi_1000x1000px_7_NR-4780.png?v=1734574964
   Price: $39.99 NZD
 - [Brabantia Protective Clothes Cover - Large Set of 2](https://everydayhome.co.nz/products/clothes-cover-set-2-xlge-trans-gry): Do you want keep your long coats and dresses looking good? This set of two 60 x 150 cm Brabantia Protective Clothes Covers is a good-looking solution. These extra long soft-touch transparent zipper bags in size XL protect your garments from dust and moths.
-  Updated: 2025-10-14T04:37:06Z
+  Updated: 2025-10-20T21:07:10Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -3139,6 +3139,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/SinkStyleSoapSqueezer-DarkGrey-8710755228049Brabantia_96dpi_1000x1000px_7_NR-32171.png?v=1734560103
   Price: $29.99 NZD
+- [Brabantia SinkStyle Soap Squeezer - 200ml Fresh White](https://everydayhome.co.nz/products/sinkstyle-soap-squeezer-200ml-fresh-white): No need to hide your washing up liquid anymore. Just store 200 ml of your favourite dish soap in style with this Brabantia SinkStyle Soap Squeezer. A flexible non-slip and non-drip design, that releases dishwashing liquid when squeezing. Empty? Refill this squeezer easily with the removable screw top. Easy squeezy!
+  Updated: 2025-10-20T20:07:11Z
+  Vendor: BRABANTIA
+  Product Type: Kitchenware
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/SinkStyleSoapSqueezer-FreshWhite-8710755228063Brabantia_96dpi_1000x1000px_7_NR-32175.png?v=1734560199
+  Price: $29.99 NZD
 - [Brabantia Sort & Go Built in Bin - 10 + 10 + 20L Dark Grey & Jade Green](https://everydayhome.co.nz/products/sort-go-built-in-bin-10-10-20l-dark-grey-jade-green): Triple your waste-separating power, without losing any floor space with the Brabantia Sort & Go Built-in Bin 10+10+20 litre. Made to hide in the cupboard, with an easy to install mounting frame (self-supporting, so no sagging doors!). These discreet bins fit in most kitchen cupboards, whether the doors open to the left or right. They even have storage space on top and hooks on the side for extra organising. With a long telescopic rail, so you can single-handedly pull them out all the way. And of course they are easy to clean, take out and empty too. A great set.
   Updated: 2025-09-23T12:37:57Z
   Vendor: BRABANTIA
@@ -3182,7 +3189,7 @@
     Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/swiftdry-lifestyle-replacement-double-pulley-black-213946.jpg?v=1746478916
     Price: $30.00 NZD
 - [SwiftDry StreamLine 24M Clothesline (<4m x 0.6m)](https://everydayhome.co.nz/products/swiftdry-streamline-clothesline-black-powdercoated): The SwiftDry StreamLine is a premium fold-down clothesline, perfect for modern homes. Designed to neatly fold away against walls, fences, decks, or balconies, it provides up to 24m of family-sized drying space. Its versatile, adjustable length makes it ideal for fitting along footpaths or the side of your house in a practical, space-saving, and discreet way. A stylish and durable solution for efficient outdoor drying! Features: 6 Lines Suitable for 1-4 people Frame Depth: 600mm Length: up to 4m (can customise length on installation) Line Space: 24m 316 Stainless Steel fixings and lock pins Mounting Bracket Width: 250mm (with 3x 8mm holes on each bracket) Timber mounting screws included. Easy install with step by step instructions Easy tensioning system so your lines will always be tight High tensile galvanised steel construction with Black powdercoating over top for excellent weather protection, durability, and a modern, inconspicuous look. Clothesline folds away against fixing when not in use by releasing a pin on each bracket Warranty: 30 Years - Structural Carton size 65 x 29 x 16cm, 8kg StreamLine Vs Sleekline? Kitset includes: 2x fold down wall/clothesline brackets PVC Nylon UV stable line, and tension lock Easy DIY install instructions 8x wood screws (4 for each bracket) for direct mounting to fence, wall, weatherboard etc. you will need masonry bolts if attaching to brick, concrete, or similar surface 8 x M8x75mm concrete anchor screws supplied with the Surface mounted post kit
-  Updated: 2025-10-20T05:10:45Z
+  Updated: 2025-10-20T22:32:45Z
   Vendor: SwiftDry Clotheslines NZ
   Product Type: 
   Availability: Available
@@ -3272,7 +3279,7 @@
     Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/22310_IMG-001.png?v=1746478936
     Price: $500.00 NZD
 - [SwiftDry SkyLine Folding Frame Washing line (13 Sizes)](https://everydayhome.co.nz/products/swiftdry-skyline-me28): The SwiftDry SkyLine is the epitome of Style and Strength for a non-conspicuous fold-down out door clothesline. Built tougher than any other clothesline out there (at least we think so!) You can buy with peace of mind, knowing you are getting a top of the line product. Designed to be part of the landscape of your home for years of hassle-free use, with its robust, clean & sharp looking design. Fold against your wall or fence while not in use with a smooth lift, pull, and lower motion. This is the future of natural outdoor drying with the breeze. > Surface Mount and In-concrete Mount post kits available separately under the fold down product category Specifications & Features: See our SkyLine blog article here Rated to 40kg recommended max load weight Dulux Textura Black Powdercoat finish on top of the pre-galvanised steel frame - for Longevity and Style Formed corners - for rigidity and safety Frame made from 1.6mm thick wall square box steel (thickest available in comparable products) so the SkyLine is strong enough to hold a full load of heavy wet wetsuits if needed Nylon Bushes - for smooth operation PVC cord - for no rust and durability All fixings are made from 316 Stainless Steel SwiftDry Easy tensioning system Designed with the front of clothesline frame & lines finishing slightly higher than the rear for ease of accessing the rear lines (as shown in pictures) Smooth and lightweight folding up and down operation from the front bar. Pins included to firmly lock in upright position for windy conditions - the only clothesline available that will not unhitch with wind and allow the frame to bend and washing to end up on the ground! Mounting bracket dimensions: 22.5cm long x 4cm wide. Mounting bracket holes: 8.5 mm - with 20cm between the hole centers - vertically on each bracket. Bottom hole is a 75mm long slot. Mounting Screws included for timber (masonry fasteners required if fixing to brick or concrete) Listed width (eg 2.4m) is fixing hole center to center, however there is up to 20mm adjustment each side when installing to allow for variances in your existing posts/setup. 13 Sizes Available - See details below. Need a custom width not listed below? View our custom selector here 9M SkyLine: Lines: 8 Line Space: 9 m Width: 1.2 m Depth: 0.7 m 11M SkyLine: Lines: 12 Line Space: 11 m Width: 1.0 m Depth: 1.0 m 12M SkyLine: Lines: 8 Line Space: 12 m Width: 1.6 m Depth: 0.7 m 16M SkyLine: Lines: 12 Line Space: 16 m Width: 1.4 m Depth: 1.0 m 17M SkyLine: Lines: 8 Line Space: 17 m Width: 2.2 m Depth: 0.7 m 19M SkyLine: Lines: 8 Line Space: 19 m Width: 2.4 m Depth: 0.7 m 20M SkyLine: Lines: 12 Line Space: 20 m Width: 1.6 m Depth: 1 m 21M SkyLine: Lines: 12 Line Space: 21 m Width: 1.8 m Depth: 1 m 27M SkyLine: Lines: 8 Line Space: 27 m Width: 3.4 m Depth: 0.7 m 28M SkyLine: Lines: 12 Line Space: 28 m Width: 2.4 m Depth: 1.0 m 33M SkyLine: Lines: 14 Line Space: 33 m Width: 2.4 m Depth: 1.5 m 40M SkyLine: Lines: 12 Line Space: 40 m Width: 3.4 m Depth: 1.0 m
-  Updated: 2025-10-20T02:02:46Z
+  Updated: 2025-10-20T23:02:45Z
   Vendor: SwiftDry Clotheslines NZ
   Product Type: 
   Availability: Available
@@ -4020,19 +4027,12 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/SinkSideFoodWasteCaddy_1.8L-DarkGrey-8710755117541Brabantia_300dpi_2000x2000px_9_NR-25993.jpg?v=1754620279
   Price: $54.99 NZD
 - [Brabantia Sort & Go Waste Bin - 6L Grey](https://everydayhome.co.nz/products/sort-go-waste-bin-6l-grey): This cute 6 litre Brabantia Sort & Go Recycle Bin with stay-open lid is great for peels, scraps, leftovers... all organic kitchen-waste actually. Just put it on your worktop, in a drawer or hang it on the wall with its included wall bracket. Full? Grab it by its handy handle and empty it. And do you want a bin liner with that? The PerfectFit 100% compostable bags, code S, are a perfect match - and easy to fit too! XS size, XL ease.
-  Updated: 2025-10-12T18:52:10Z
+  Updated: 2025-10-20T21:07:10Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Sort_GoWasteBin_6L-Grey-8710755109720Brabantia_300dpi_2000x2000px_9_NR-1255.jpg?v=1754605929
   Price: $79.99 NZD
-- [Brabantia Sort & Go Waste Bin - 3L Grey](https://everydayhome.co.nz/products/sort-go-waste-bin-3l-grey): This cute 3 litre Brabantia Sort & Go Recycle Bin with stay-open lid is great for peels, scraps, leftovers... all organic kitchen-waste actually. Just display it on your worktop or hide it in a drawer. Full? Grab it by its handy handle and empty it on your compost heap or in your organic waste container. A great bin in XXS size!
-  Updated: 2025-10-12T23:22:11Z
-  Vendor: BRABANTIA
-  Product Type: Waste Care
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Sort_GoWasteBin_3L-Grey-8710755209888Brabantia_300dpi_2000x2000px_9_NR-17479.jpg?v=1754606819
-  Price: $59.99 NZD
 - [Brabantia Sort & Go Waste Bin - 3L Light Grey](https://everydayhome.co.nz/products/sort-go-waste-bin-3l-lght-gry): This cute 3 litre Brabantia Sort & Go Recycle Bin with stay-open lid is great for peels, scraps, leftovers... all organic kitchen-waste actually. Just display it on your worktop or hide it in a drawer. Full? Grab it by its handy handle and empty it on your compost heap or in your organic waste container. A great bin in XXS size!
   Updated: 2025-10-19T19:37:10Z
   Vendor: BRABANTIA
@@ -4041,7 +4041,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Sort_GoWasteBin_3L-LightGrey-8710755213229Brabantia_300dpi_2000x2000px_9_NR-25842.jpg?v=1754607295
   Price: $59.99 NZD
 - [Brabantia Sort & Go Waste Bin - 6L Light Grey](https://everydayhome.co.nz/products/sort-go-waste-bin-6l-lght-gry): This cute 6 litre Brabantia Sort & Go Recycle Bin with stay-open lid is great for peels, scraps, leftovers... all organic kitchen-waste actually. Just put it on your worktop, in a drawer or hang it on the wall with its included wall bracket. Full? Grab it by its handy handle and empty it. And do you want a bin liner with that? The PerfectFit 100% compostable bags, code S, are a perfect match - and easy to fit too! XS size, XL ease.
-  Updated: 2025-10-01T21:22:10Z
+  Updated: 2025-10-20T21:07:11Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
@@ -4069,7 +4069,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Sort_GoRecycleBin_40L-Grey-8710755251047Brabantia_300dpi_2000x2000px_9_NR-23227_4337f1a9-063e-4e75-94ee-76ef1060ea70.jpg?v=1754541748
   Price: $169.99 NZD
 - [Brabantia Sort & Go Waste Bin - 40L Grey](https://everydayhome.co.nz/products/sort-go-waste-bin-40l-grey): Feed your empty packaging, bottles, cans - and anything else you want sorted - to this handy 40 litre Brabantia Sort & Go Recycle Bin. It fits snugly in corners, flat against the wall, and has a large handle for easy carrying and emptying. Just what you need for a smooth running recycling operation at home!
-  Updated: 2025-09-23T12:39:01Z
+  Updated: 2025-10-20T21:07:10Z
   Vendor: BRABANTIA
   Product Type: Waste Care
   Availability: Available
@@ -4468,7 +4468,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1021415-656_FERRISRINGHOLDER_WALNUT_CC01.jpg?v=1756181949
   Price: $79.99 NZD
 - [Umbra Buddy Doorstop - Set of 2 Charcoal](https://everydayhome.co.nz/products/umbra-buddy-doorstop-set-of-2-charcoal): A playful and helpful tool, the Buddy Doorstop features Umbra’s signature Buddy figurine. A new addition to the Buddy Family, this imaginative door stopper helps to keep your door open as it appears as if Buddy is stuck underneath the door.
-  Updated: 2025-10-19T19:37:10Z
+  Updated: 2025-10-20T21:07:11Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -4496,7 +4496,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1021415-040_FERRISRINGHOLDER_BLK_I022.jpg?v=1756183228
   Price: $19.99 NZD
 - [Umbra Flex Shower Caddy - Black](https://everydayhome.co.nz/products/umbra-flex-shower-caddy-black): Store all your shower essentials in one place with Umbra’s highly functional Flex Shower Caddy. Flex was designed to take up minimal space in the shower while still accommodating larger bottle sizes. Made of a rigid plastic frame, Flex Shower Caddy features flexible silicone bands that give plenty of storage options.
-  Updated: 2025-10-19T19:37:10Z
+  Updated: 2025-10-20T20:52:10Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -4566,14 +4566,14 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1021302-660_FLEXADHESIVEDBLHOOK_WHITE_I012.jpg?v=1756169017
   Price: $17.99 NZD
 - [Umbra Buddy Adhesive Squeegee - Black](https://everydayhome.co.nz/products/umbra-buddy-adhesive-squeegee-black): The Buddy Squeegee is a fun twist on a tedious task; the creativity of its design makes the process more enjoyable. Buddy cleans glass surfaces and wipes away fog, in addition to removing any general buildups on shower walls. Rust-proof, Buddy Squeegee will continue to look tidy and fresh in your washroom while remaining in good shape, thanks to its durable material.
-  Updated: 2025-10-19T19:37:10Z
+  Updated: 2025-10-20T21:07:11Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1021303-660_BUDDYADHESIVESQUEEGEE_I02_157e8be1-937e-4913-b912-329688b04737.jpg?v=1755822314
   Price: $24.99 NZD
 - [Umbra Buddy Adhesive Squeegee - White](https://everydayhome.co.nz/products/umbra-buddy-adhesive-squeegee-white): The Buddy Squeegee is a fun twist on a tedious task; the creativity of its design makes the process more enjoyable. Buddy cleans glass surfaces and wipes away fog, in addition to removing any general buildups on shower walls. Rust-proof, Buddy Squeegee will continue to look tidy and fresh in your washroom while remaining in good shape, thanks to its durable material.
-  Updated: 2025-10-19T19:37:10Z
+  Updated: 2025-10-20T21:07:10Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
