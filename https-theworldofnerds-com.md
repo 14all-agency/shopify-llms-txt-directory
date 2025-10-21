@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2023-11-06T10:53:38Z
 - Contact Email: theworldofnerdscustomer@gmail.com
-- Updated At: 2025-10-20T12:00:44.792Z
+- Updated At: 2025-10-21T04:00:45.129Z
 
 ## Products
 
@@ -473,7 +473,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC03722.jpg?v=1726927082
   Price: ₹399.00 INR
 - [KAKASHI HATAKE BOBBLEHEAD](https://theworldofnerds.com/products/kakashi-hatake-bobblehead): Introducing the ultimate blend of fun and functionality: our versatile Bobblehead! Crafted from durable PVC material, this charming figure is designed not only to bring a smile to your face but also to serve multiple practical purposes. Whether you're looking to add a quirky touch to your car dashboard, use it as a handy mobile stand, or showcase it as a unique decorative piece, this Bobblehead has you covered. Its vibrant design makes it a standout collectible for enthusiasts and a delightful showpiece for any space. This whimsical and practical accessory will elevate your decor and keep your mobile device handy
-  Updated: 2025-10-18T14:18:15Z
+  Updated: 2025-10-20T14:17:21Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -837,7 +837,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/395.jpg?v=1729514731
   Price: ₹239.00 INR
 - [PIKACHU ON SKATEBOARD KEYCHAIN](https://theworldofnerds.com/products/pikachu-on-skateboard-keychain): Add a touch of personality to your keys with our vibrant silicon character keychains! Made from high-quality, durable silicon, these keychains feature various adorable designs that cater to all ages. Our keychains are lightweight, flexible, and available in multiple colors and styles, perfect for everyday use or as a charming gift. Explore our collection to find your favorite character and enjoy the perfect blend of functionality and fun. Whether you want to express your unique style or seek the ideal gift, our silicon keychains are a must-have accessory. Shop now and elevate your key organization game.
-  Updated: 2025-07-29T05:11:01Z
+  Updated: 2025-10-20T12:26:04Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -1746,13 +1746,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitled_3fe61f81-47af-4d99-a818-89ec6e16ccf2.png?v=1730704959
   Price: ₹499.00 INR
-- [GIYU TOMIOKA KATANA PEN](https://theworldofnerds.com/products/giyu-tomioka-katana-pen): Experience the perfect blend of elegance and durability with the Katana Pen, crafted from high-quality metal for a sleek and sophisticated writing experience. Inspired by the iconic katana sword, this precision-engineered pen features a unique design, making it not only a functional tool but a striking piece of art. Whether you're signing important documents or jotting down notes, the Katana Pen offers smooth, effortless writing with a durable construction that ensures longevity. Ideal for professionals, collectors, or anyone who appreciates fine craftsmanship, this premium metal pen is a standout addition to any desk. Key Features: Crafted from premium, high-quality metal for strength and elegance Ergonomic design for comfort and smooth writing Sleek, katana-inspired aesthetics for a distinctive look Ideal for gifting or personal use Add a touch of luxury to your writing routine with the Katana Pen—where craftsmanship meets functionality.
-  Updated: 2025-10-12T18:55:55Z
-  Vendor: The World Of Nerds
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitled_4.png?v=1730786834
-  Price: ₹289.00 INR
 - [MITSURI KANROJI KATANA PEN](https://theworldofnerds.com/products/mitsuri-kanroji-katana-pen): Experience the perfect blend of elegance and durability with the Katana Pen, crafted from high-quality metal for a sleek and sophisticated writing experience. Inspired by the iconic katana sword, this precision-engineered pen features a unique design, making it not only a functional tool but a striking piece of art. Whether you're signing important documents or jotting down notes, the Katana Pen offers smooth, effortless writing with a durable construction that ensures longevity. Ideal for professionals, collectors, or anyone who appreciates fine craftsmanship, this premium metal pen is a standout addition to any desk. Key Features: Crafted from premium, high-quality metal for strength and elegance Ergonomic design for comfort and smooth writing Sleek, katana-inspired aesthetics for a distinctive look Ideal for gifting or personal use Add a touch of luxury to your writing routine with the Katana Pen—where craftsmanship meets functionality.
   Updated: 2025-10-14T21:49:59Z
   Vendor: The World Of Nerds
@@ -1761,7 +1754,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitled_4_0c4fe11b-2235-41a1-b0c0-553cc2dbd734.png?v=1730788077
   Price: ₹289.00 INR
 - [SANEMI SHINAZUGAWA KATANA PEN](https://theworldofnerds.com/products/sanemi-shinazugawa-katana-pen): Experience the perfect blend of elegance and durability with the Katana Pen, crafted from high-quality metal for a sleek and sophisticated writing experience. Inspired by the iconic katana sword, this precision-engineered pen features a unique design, making it not only a functional tool but a striking piece of art. Whether you're signing important documents or jotting down notes, the Katana Pen offers smooth, effortless writing with a durable construction that ensures longevity. Ideal for professionals, collectors, or anyone who appreciates fine craftsmanship, this premium metal pen is a standout addition to any desk. Key Features: Crafted from premium, high-quality metal for strength and elegance Ergonomic design for comfort and smooth writing Sleek, katana-inspired aesthetics for a distinctive look Ideal for gifting or personal use Add a touch of luxury to your writing routine with the Katana Pen—where craftsmanship meets functionality.
-  Updated: 2025-07-29T05:11:37Z
+  Updated: 2025-10-20T18:56:56Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -2398,7 +2391,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_058cd023-6e7c-4d35-9482-972d4a7d670d.jpg?v=1732701120
   Price: ₹239.00 INR
 - [DRAGON BALL Z SON GOKU KEYCHAIN](https://theworldofnerds.com/products/dragon-ball-z-son-goku-1): Add a touch of personality to your keys with our vibrant silicon character keychains! Made from high-quality, durable silicon, these keychains feature various adorable designs that cater to all ages. Our keychains are lightweight, flexible, and available in multiple colors and styles, perfect for everyday use or as a charming gift. Explore our collection to find your favorite character and enjoy the perfect blend of functionality and fun. Whether you want to express your unique style or seek the ideal gift, our silicon keychains are a must-have accessory. Shop now and elevate your key organization game.
-  Updated: 2025-07-29T05:12:03Z
+  Updated: 2025-10-20T17:22:28Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -6752,7 +6745,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitleddesign_15_7f017d94-3e5e-4f80-aa85-780c30b59274.png?v=1748414665
   Price: ₹899.00 INR
 - [RMZ CITY CHEVROLET CAMARO PULLBACK SCALE - 1:32](https://theworldofnerds.com/products/rmz-city-chevrolet-camaro-pullback-scale-1-33): This RMZ CITY CHEVROLET CAMARO PULLBACK SCALE - 1:32 is a high-quality and detailed model of the iconic Chevrolet Camaro. Featuring a smooth pullback mechanism, this 1:32 scale model is both a collectible treasure and an engaging toy for kids and adults. Perfect for Chevrolet fans and muscle car enthusiasts.
-  Updated: 2025-10-20T03:09:17Z
+  Updated: 2025-10-20T23:57:11Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -6962,14 +6955,14 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/628_1_d5e8c900-050c-4b8b-bb43-7ace6238636c.jpg?v=1748500719
   Price: ₹289.00 INR
 - [ZORO BLACK ENMA KATANA KEYCHAIN](https://theworldofnerds.com/products/zoro-black-enma-katana-keychain): Zoro Black Enma Katana Keychain – Wield the power of Enma with this Zoro Black Enma Katana keychain! Featuring intricate details and a sleek, durable design, it’s perfect for keys, bags, or gifting. A must-have collectible for One Piece fans and swordsman Zoro enthusiasts!
-  Updated: 2025-10-19T04:27:01Z
+  Updated: 2025-10-20T17:54:31Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_1e8087ca-66ed-4e99-88b5-d3197862b1df.jpg?v=1748500988
   Price: ₹219.00 INR
 - [ZORO WHITE ENMA KATANA KEYCHAIN](https://theworldofnerds.com/products/zoro-white-enma-katana-keychain): Zoro White Enma Katana Keychain – Channel the strength of Roronoa Zoro with this White Enma Katana keychain! Designed with fine details and durable material, it's perfect for keys, backpacks, or gifting. A striking collectible for One Piece fans and sword lovers alike!
-  Updated: 2025-10-19T06:22:41Z
+  Updated: 2025-10-20T17:54:31Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -7655,7 +7648,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/2_8436ea58-c323-49f4-b45a-55dcbe8e07c7.jpg?v=1751966741
   Price: ₹1,499.00 INR
 - [Monkey D. Luffy Gear Fifth Statue – Premium One Piece Display](https://theworldofnerds.com/products/monkey-d-luffy-gear-fifth-statue-premium-one-piece-display): Witness the next level of Luffy’s evolution with this Gear 5 collectible figure, inspired by the legendary One Piece transformation. Designed to reflect his playful power and fearless spirit, this figure features Luffy in a relaxed pose, surrounded by swirling energy and vivid effects. From the wild hair to the expressive sculpt, every detail brings the Gear 5 moment to life. A perfect centerpiece for any anime lover’s collection and a tribute to one of the most unforgettable arcs in One Piece history.
-  Updated: 2025-10-20T07:44:19Z
+  Updated: 2025-10-20T15:04:29Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -7809,7 +7802,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/2_f2f5dd3a-4beb-4273-a244-7bf4e408f2e7.jpg?v=1752214468
   Price: ₹299.00 INR
 - [Mario Kart Action Figure with Racing Kar](https://theworldofnerds.com/products/mario-kart-action-figure-with-racing-kar): Rev up your collection with this vibrant Mario Kart figurine, showcasing Mario in his classic red go-kart. Designed with attention to detail and bold colors, this collectible is a nostalgic tribute to one of gaming’s most beloved characters. Whether you're a longtime Nintendo fan or a toy enthusiast, this figure brings the thrill of the race right to your display. Approximate size: 14 cm long and 9.5 cm tall.
-  Updated: 2025-07-29T05:15:35Z
+  Updated: 2025-10-20T16:46:46Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -8299,7 +8292,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_2e798bbd-d3eb-4155-aa22-200fa6e64be2.jpg?v=1756467716
   Price: ₹119.00 INR
 - [Itachi Uchiha Keychain | Sharingan Akatsuki Collectible Anime Keychain](https://theworldofnerds.com/products/itachi-uchiha-keychain-sharingan-akatsuki-collectible-anime-keychain): Honor the legendary Itachi Uchiha with this double-sided Naruto Shippuden keychain. Featuring his iconic Sharingan eyes, Akatsuki cloak, and crow motif, this keychain is a perfect collectible for Naruto fans.
-  Updated: 2025-10-03T04:53:55Z
+  Updated: 2025-10-20T18:47:41Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -8355,7 +8348,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_27b6a7a2-b5cc-41e6-9c07-230be3ecebae.jpg?v=1756468366
   Price: ₹119.00 INR
 - [Mark of the Brand: Guts and the Eclipse Keychains](https://theworldofnerds.com/products/mark-of-the-brand-guts-and-the-eclipse-keychains): The image of Guts on this keychain speaks to his cursed fate marked by the Brand of Sacrifice. The stark black and white design, with the bold red symbol, represents the unrelenting pain and darkness that Guts faces. This keychain serves as a reminder of his curse and the sacrifices he endures in his quest for vengeance and survival.
-  Updated: 2025-09-26T13:39:03Z
+  Updated: 2025-10-20T18:47:46Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
