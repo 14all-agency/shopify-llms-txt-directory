@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-06-10T17:50:10Z
 - Contact Email: tejusentprs@gmail.com
-- Updated At: 2025-10-21T00:00:32.434Z
+- Updated At: 2025-10-21T04:00:33.417Z
 
 ## Products
 
@@ -436,7 +436,7 @@
     Availability: Available
     Price: ₹995.00 INR
 - [Plus Size Beige Printed Everyday Calf Dress with Pockets-ThePlusSizeCo](https://theplussizeco.com/products/beige-printed-everyday-calf-dress-with-pockets): Black elegance meets floral freshness in our Beige Printed Everyday Calf Dress with Pockets. Features sweetheart neckline and 3/4th sleeves. Sizes in XL to 10XL.
-  Updated: 2025-09-04T21:43:20Z
+  Updated: 2025-10-21T02:34:16Z
   Vendor: The Plus Size Co.
   Product Type: Dresses
   Availability: Available
@@ -445,7 +445,7 @@
     Availability: Available
     Price: ₹895.00 INR
   - [6XL](https://theplussizeco.com/products/beige-printed-everyday-calf-dress-with-pockets?variant=44677237899317)
-    Availability: Available
+    Availability: Not Available
     Price: ₹895.00 INR
 - [Plus Size Wine Safari Printed Cotton Co-ord Set - The Plus Size Co.](https://theplussizeco.com/products/wine-safari-printed-cotton-co-ord-set): Rule the wild in comfort with our Wine Safari Printed Cotton Co-ord Set. Features cotton fabric and V neckline. pair with pant. Sizes in XL to 10XL.
   Updated: 2025-10-09T04:29:21Z
