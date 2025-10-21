@@ -6,7 +6,7 @@
 - Timezone: Europe/Madrid
 - Created At: 2022-07-18T15:24:40Z
 - Contact Email: info@hifimediastore.com
-- Updated At: 2025-10-21T00:01:10.901Z
+- Updated At: 2025-10-21T04:01:11.915Z
 
 ## Products
 
@@ -5099,12 +5099,12 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/apple-earpods-auriculares-inear-con-cable-usb-c-blancos-mtjy3zma.jpg?v=1756147903
   Price: 27,99 € EUR
 - [Samsung Galaxy A35 5G 6GB/128GB Negro (Awesome Navy) Dual SIM SM-A356](https://hifimediastore.com/products/samsung-galaxy-a35-5g-6gb-128gb-negro-awesome-navy-dual-sim-sm-a356-1): Samsung Galaxy A35 5G Pantalla Infinity O mejorada con Super AMOLED Triple camara de 50MP y camara selfie de 13MP Bateria de 5000 mAh Carga Rapida de 25W Procesador octa core y conectividad 5G Dolby Atmos Certificacion IP67 No incluye cargador Cond
-  Updated: 2025-10-20T21:40:11Z
+  Updated: 2025-10-21T00:19:06Z
   Vendor: Samsung
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/128GB_Negro_Awesome_Navy_Dual_SIM_SM-A356_-_Hifi_Media_Store-993805.jpg?v=1719057212
-  Price: 310,99 € EUR
+  Price: 304,99 € EUR
 - [Belkin SoundForm Flow - Auriculares Bluetooth con ANC Negros](https://hifimediastore.com/products/belkin-soundform-flow-auriculares-bluetooth-con-anc-negros): Dejarse llevar: - Las llamadas telefónicas conectadas a través de la tecnología Dual Beamforming se sienten como una conversación en persona, y el conveniente modo Hear-Thru lo ayuda a mantenerse alerta a su entorno por seguridad o para hablar con las personas que lo rodean. Hasta 7 horas de duración de la batería por carga y otras 24 horas de energía en el estuche de carga inalámbrica ofrecen un verdadero placer auditivo durante todo el día. Con materiales resistentes al sudor y al agua con clasificación Ipx5 para mantenerse al día con el clima y los entrenamientos, y una fácil conexión a través de Bluetooth® 5.2, Soundform Flow es la opción perfecta para un audio premium sin ruido que dura todo el día. Corta el ruido, escucha tu entorno: - Nuestra tecnología de cancelación activa de ruido cuenta con un micrófono ANC de avance que filtra de forma inteligente el ruido exterior. Toque para activar el conveniente modo Hear-Thru para mantenerse alerta a su entorno. Controladores dinámicos, sonido dinámico: Deje que fluya el sonido de alta calidad con controladores dinámicos de doble capa de 12 mm equipados con imanes de neodimio que brindan una calidad de audio poderosamente vívida con graves impactantes.- Calidad de llamada nítida: la tecnología Dual Beamforming garantiza que pueda escuchar y ser escuchado claramente en las llamadas como si estuviera en la misma habitación.- Duración de la batería durante todo el día: hasta 31 horas de duración de la batería: 7 horas de tiempo de reproducción por carga para los auriculares, más otras 24 horas de batería en el estuche de carga inalámbrica, lo que significa que puede hablar, escuchar y transmitir sin interrupciones.- Carga inalámbrica conveniente: el estuche de carga inalámbrica ofrece una carga conveniente sin cables en cualquier almohadilla de carga compatible con Qi.- Recarga rápida: obtenga 60 minutos de reproducción con solo 10 minutos de carga USB-C. La carga completa con 31 horas de reproducción tarda solo 2 horas.- Resistente al sudor y al agua: sigue escuchando a través de la lluvia ligera y los entrenamientos desafiantes. Los materiales con clasificación Ipx5 en cada auricular lo tienen cubierto.- Conexión confiable: la tecnología Bluetooth 5.2 es compatible con teléfonos inteligentes, tabletas y computadoras portátiles, y la conexión es rápida y fácil dentro de un rango de 30 pies/10 m.- Control táctil fácil: cada auricular Bluetooth inalámbrico responde al tacto para un control de audio sin botones y sin cables para llamadas telefónicas y para omitir o pausar canciones. De un vistazo: - La tecnología de cancelación activa de ruido presenta un micrófono ANC de avance que filtra de manera inteligente el ruido exterior- El modo Hear-Thru lo ayuda a mantenerse alerta a su entorno- Los controladores dinámicos de 12 mm con imanes de neodimio brindan una calidad de audio poderosamente vívida con bajos impactantes- La tecnología de llamada Dual Beamforming garantiza que pueda escuchar y ser escuchado claramente como si estuviera en la misma habitación- 31 horas de duración total de la batería: 7 horas de tiempo de reproducción en los auriculares, más otras 24 horas de energía en el estuche- El estuche de carga inalámbrica ofrece una carga conveniente sin cables en cualquier almohadilla de carga compatible con Qi- 60 minutos de reproducción con solo 10 minutos de carga USB-C- La carga USB-C rápida proporciona una carga completa de 31 horas en solo 2 horas- Los materiales resistentes al sudor y al agua con clasificación Ipx5 protegen contra el mal tiempo y los entrenamientos duros- Bluetooth 5.2 ofrece una fácil conexión a dispositivos de hasta 10 m- El toque sin botones y sin cables ofrece un verdadero modo mono en cada auricular Especificaciones: Desempeño Tipo de producto: Auriculares Estilo de uso: Dentro de oído Uso recomendado: Llamadas/Música Color del producto: Negro Tipo de auricular: Binaural Funciones de protección: Resistente al sudor, Resistente al agua Código IP (International Protection): IPX5 Productos compatibles: iPad mini 6th Gen, iPhone 13 Pro Max, iPhone 13 Pro, iPhone 13, iPhone 13 mini, iPhone 12 Pro Max, iPhone 12 Pro, iPhone 12, iPhone 12 mini, iPad 9th gen, Galaxy Z Flip 3, Galaxy S20 FE, Galaxy S21 Ultra 5G, Galaxy Note20 Ultra, Galaxy S21+ 5G, Galaxy S21 5G, Galaxy Note20, Galaxy S22 5G, Galaxy S22+ 5G, Galaxy S22 Ultra 5G, Puertos e Interfaces Tecnología de conectividad: Inalámbrico Conector USB: USB Tipo C Dispone de Bluetooth Versión de Bluetooth: 5.2 Auriculares Audífonos: Intraaural Sistema acústico: Cerrado Micrófono Tipo de micrófono: Integrado Dispone de Cancelación de ruido del micrófono Batería Dispone de Batería Autonomía: 31 h Tiempo continuo de reproducción de audio: 7 h Tiempo de recarga de la batería (estuche de carga): 2 h Fuente de carga: Batería Dispone de Cargador inalámbrico
   Updated: 2025-08-29T15:54:15Z
   Vendor: BELKIN
@@ -6632,12 +6632,12 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/17213.jpg?v=1725048645
   Price: 180,99 € EUR
 - [Samsung Galaxy Buds3 Auriculares Bluetooth Blanco (White) SM-R530](https://hifimediastore.com/products/samsung-galaxy-buds3-auriculares-bluetooth-blanco-white-sm-r530): Galaxy Buds3:  Diseño totalmente novedoso Bluetooth 5.4 Driver dinámico de 11mm Capacidad de la Batería (auricular); 48 mAh Capacidad de la Batería (estuche); 515 mAh Audio 360 Galaxy AI
-  Updated: 2025-10-20T21:45:20Z
+  Updated: 2025-10-21T00:30:36Z
   Vendor: Samsung
   Product Type: Bluetooth
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/17861.jpg?v=1725048937
-  Price: 106,99 € EUR
+  Price: 97,99 € EUR
 - [Xiaomi Redmi Buds 6 Active Auriculares Bluetooth Negro (Black)](https://hifimediastore.com/products/xiaomi-redmi-buds-6-active-auriculares-bluetooth-negro-black): Xiaomi Redmi Buds 6 Active Bluetooth 54 Cinco ajustes de ecualizacion Controlador dinamico de 142 mm Bateria de hasta 30 horas de duracion Escucha hasta 2h de musica con una carga de 5 minutos Cancelacion de ruido del viento de hasta 4 m s Conectivid
   Updated: 2025-10-18T22:40:11Z
   Vendor: Xiaomi
@@ -6667,12 +6667,12 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/18084.jpg?v=1725048988
   Price: 168,99 € EUR
 - [Samsung Galaxy Buds3 Pro Auriculares Bluetooth Blanco (White) SM-R630](https://hifimediastore.com/products/samsung-galaxy-buds3-pro-auriculares-bluetooth-blanco-white-sm-r630): Galaxy Buds3 Pro:  Diseño ergonómico totalmente novedoso Bluetooth 5.4 Cancelación Activa de Ruido Capacidad de la Batería (auricular); 53 mAh Capacidad de la Batería (estuche); 515 mAh Audio 360 Galaxy AI
-  Updated: 2025-10-20T21:45:21Z
+  Updated: 2025-10-21T00:31:35Z
   Vendor: Samsung
   Product Type: Bluetooth
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/18087.jpg?v=1725048994
-  Price: 159,99 € EUR
+  Price: 158,99 € EUR
 - [Xiaomi Redmi Buds 6 Active Auriculares Bluetooth Rosa (Transparent Powder)](https://hifimediastore.com/products/xiaomi-redmi-buds-6-active-auriculares-bluetooth-rosa-transparent-powder): Xiaomi Redmi Buds 6 Active Bluetooth 54 Cinco ajustes de ecualizacion Controlador dinamico de 142 mm Bateria de hasta 30 horas de duracion Escucha hasta 2h de musica con una carga de 5 minutos Cancelacion de ruido del viento de hasta 4 m s Conectivid
   Updated: 2025-10-15T20:50:15Z
   Vendor: Xiaomi
@@ -8571,10 +8571,10 @@
   Updated: 2025-06-22T07:51:28Z
   Total Products: 0
 - [Best Selling Products](https://hifimediastore.com/collections/best-selling-products)
-  Updated: 2025-10-21T00:00:16Z
+  Updated: 2025-10-21T01:03:46Z
   Total Products: 5482
 - [Newest Products](https://hifimediastore.com/collections/newest-products)
-  Updated: 2025-10-21T00:00:16Z
+  Updated: 2025-10-21T01:03:46Z
   Total Products: 5482
 - [Altavoces](https://hifimediastore.com/collections/speakers): Explora nuestra gama de altavoces de alta calidad y llévatee la experiencia del festival a casa con nuestros altavoces.
   Updated: 2025-10-10T22:01:24Z
@@ -8592,16 +8592,16 @@
   Updated: 2025-10-16T19:30:39Z
   Total Products: 171
 - [Todos los auriculares intraurales](https://hifimediastore.com/collections/all-earbuds)
-  Updated: 2025-10-20T21:51:40Z
+  Updated: 2025-10-21T00:31:36Z
   Total Products: 465
 - [Auriculares Intraurales Gaming](https://hifimediastore.com/collections/gaming-earbuds): Sumérgete en la acción de tus videojuegos favoritos con nuestros auriculares intraurales gaming y disfruta de una experiencia única.
   Updated: 2025-10-11T00:51:31Z
   Total Products: 62
 - [Auriculares Intraurales Bluetooth](https://hifimediastore.com/collections/bluetooth-earbuds)
-  Updated: 2025-10-20T21:51:40Z
+  Updated: 2025-10-21T00:31:36Z
   Total Products: 416
 - [Auriculares Intraurales con ANC](https://hifimediastore.com/collections/earbuds-with-anc): Pon el mundo en pausa. Aíslate del mundo escuchando tu música favorita con nuestros auriculares intraurales con ANC más avanzados.
-  Updated: 2025-10-19T05:14:16Z
+  Updated: 2025-10-21T00:31:36Z
   Total Products: 156
 - [Auriculares de conducción ósea](https://hifimediastore.com/collections/bone-conduction-earphones): Descubre nuestros auriculares de conducción ósea, una tecnología que permite al oyente percibir el contenido de audio sin obstruir el canal auditivo, lo que evita daños en el tímpano.
   Updated: 2025-10-10T23:14:51Z
@@ -8628,8 +8628,8 @@
   Updated: 2025-10-10T22:05:52Z
   Total Products: 22
 - [AVADA - Best Sellers](https://hifimediastore.com/collections/avada-best-sellers)
-  Updated: 2025-10-21T00:00:16Z
-  Total Products: 1438
+  Updated: 2025-10-21T01:16:00Z
+  Total Products: 1439
 - [Intercomunicadores para moto](https://hifimediastore.com/collections/motorcycle-intercoms)
   Updated: 2025-06-22T07:51:29Z
   Total Products: 17
@@ -8637,7 +8637,7 @@
   Updated: 2025-06-22T07:51:30Z
   Total Products: 4
 - [Móviles y Smartphones Libres 4G y 5G](https://hifimediastore.com/collections/smartphones): Compra móviles y smartphones libres 4G y 5G. Pago a plazos con SeQura. Envío rápido y garantía oficial.
-  Updated: 2025-10-21T00:00:16Z
+  Updated: 2025-10-21T01:03:46Z
   Total Products: 3573
 - [Alcatel](https://hifimediastore.com/collections/alcatel)
   Updated: 2025-10-11T23:22:15Z
@@ -8694,10 +8694,10 @@
   Updated: 2025-10-20T22:21:01Z
   Total Products: 186
 - [Xiaomi](https://hifimediastore.com/collections/xiaomi)
-  Updated: 2025-10-21T00:00:16Z
+  Updated: 2025-10-21T01:03:46Z
   Total Products: 957
 - [Samsung](https://hifimediastore.com/collections/samsung)
-  Updated: 2025-10-20T22:08:43Z
+  Updated: 2025-10-21T00:19:07Z
   Total Products: 934
 - [Acer](https://hifimediastore.com/collections/acer)
   Updated: 2025-10-11T23:22:13Z
@@ -8805,7 +8805,7 @@
   Updated: 2025-10-16T19:22:17Z
   Total Products: 4
 - [Xiaomi](https://hifimediastore.com/collections/xiaomi-1)
-  Updated: 2025-10-21T00:00:16Z
+  Updated: 2025-10-21T01:03:46Z
   Total Products: 1061
 - [Auriculares Xiaomi](https://hifimediastore.com/collections/auriculares-xiaomi)
   Updated: 2025-10-18T16:16:03Z
@@ -8952,7 +8952,7 @@
   Updated: 2025-08-31T12:20:56Z
   Total Products: 4
 - [Teléfonos móviles y accesorios en Hi-Fi Media Store](https://hifimediastore.com/collections/todos-los-productos): Somos especialistas en teléfonos móviles y accesorios. En Hi-Fi Media Store encontrarás una gran variedad de productos de las mejores marcas.
-  Updated: 2025-10-21T00:00:16Z
+  Updated: 2025-10-21T01:03:46Z
   Total Products: 5481
 - [Lindy](https://hifimediastore.com/collections/lindy)
   Updated: 2025-10-10T23:08:17Z
@@ -9009,8 +9009,8 @@
   Updated: 2025-10-10T22:47:39Z
   Total Products: 3
 - [OrderlyEmails - Recommended Products](https://hifimediastore.com/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-10-21T00:00:16Z
-  Total Products: 1441
+  Updated: 2025-10-21T01:16:00Z
+  Total Products: 1442
 - [Razer](https://hifimediastore.com/collections/razer)
   Updated: 2025-10-16T19:26:34Z
   Total Products: 24
@@ -9072,7 +9072,7 @@
   Updated: 2025-10-16T19:25:32Z
   Total Products: 2
 - [Outlet](https://hifimediastore.com/collections/outlet)
-  Updated: 2025-10-20T22:17:58Z
+  Updated: 2025-10-21T00:54:29Z
   Total Products: 257
 - [Edifier](https://hifimediastore.com/collections/edifier)
   Updated: 2025-10-10T22:12:51Z
@@ -9129,7 +9129,7 @@
   Updated: 2025-10-10T22:01:24Z
   Total Products: 27
 - [Tablets iPad y Android | Financia con SeQura](https://hifimediastore.com/collections/tablets): Compra tablets iPad y Android con envío rápido y financiación flexible con SeQura. Compra fácil y segura online.
-  Updated: 2025-10-20T22:10:04Z
+  Updated: 2025-10-21T00:23:39Z
   Total Products: 529
 - [iPad](https://hifimediastore.com/collections/ipad)
   Updated: 2025-10-18T10:14:05Z
@@ -9147,10 +9147,10 @@
   Updated: 2025-10-20T17:34:24Z
   Total Products: 79
 - [IVA 21](https://hifimediastore.com/collections/iva-21)
-  Updated: 2025-10-21T00:00:16Z
+  Updated: 2025-10-21T01:03:46Z
   Total Products: 5112
 - [Tablets Xiaomi](https://hifimediastore.com/collections/tablets-xiaomi)
-  Updated: 2025-10-17T21:46:39Z
+  Updated: 2025-10-21T00:23:39Z
   Total Products: 37
 - [Honor](https://hifimediastore.com/collections/honor-1)
   Updated: 2025-10-20T21:45:40Z
@@ -9159,13 +9159,13 @@
   Updated: 2025-10-16T11:22:15Z
   Total Products: 4
 - [Samsung](https://hifimediastore.com/collections/samsung-1)
-  Updated: 2025-10-20T22:08:43Z
+  Updated: 2025-10-21T00:31:36Z
   Total Products: 1096
 - [Tablets Oneplus](https://hifimediastore.com/collections/tablets-oneplus)
   Updated: 2025-10-12T00:12:20Z
   Total Products: 3
 - [Bluetooth](https://hifimediastore.com/collections/bluetooth)
-  Updated: 2025-10-20T21:51:40Z
+  Updated: 2025-10-21T00:31:36Z
   Total Products: 266
 - [sbs](https://hifimediastore.com/collections/sbs)
   Updated: 2025-06-22T07:51:40Z
@@ -9183,10 +9183,10 @@
   Updated: 2025-10-13T00:01:21Z
   Total Products: 13
 - [Auriculares Samsung](https://hifimediastore.com/collections/auriculares-samsung)
-  Updated: 2025-10-18T05:25:32Z
+  Updated: 2025-10-21T00:31:36Z
   Total Products: 14
 - [IVA 21](https://hifimediastore.com/collections/21-iva)
-  Updated: 2025-10-21T00:00:16Z
+  Updated: 2025-10-21T00:58:32Z
   Total Products: 4081
 - [Realme](https://hifimediastore.com/collections/realme-1)
   Updated: 2025-10-20T22:04:54Z
@@ -9243,7 +9243,7 @@
   Updated: 2025-08-31T12:05:21Z
   Total Products: 3
 - [Productos para teléfonos móviles y accesorios](https://hifimediastore.com/collections/all): Hi-Fi Media Store: Tu tienda online para teléfonos móviles y accesorios de las mejores marcas. Encuentra smartphones, auriculares inalámbricos y con cable, altavoces y una amplia gama de accesorios para complementar tu experiencia móvil. Compra con seguridad y disfruta de una garantía de satisfacción. Visita nuestra tienda online y descubre un mundo de posibilidades para tu teléfono móvil.
-  Updated: 2025-10-21T00:00:16Z
+  Updated: 2025-10-21T01:03:46Z
   Total Products: 5481
 - [Beats](https://hifimediastore.com/collections/beats)
   Updated: 2025-10-11T22:16:14Z
@@ -9258,7 +9258,7 @@
   Updated: 2025-10-10T21:27:13Z
   Total Products: 11
 - [Ultimate Search - Do not delete](https://hifimediastore.com/collections/ultimate-search-do-not-delete): Ultimate Search app uses this temporary collection to fetch best selling items.Please do not delete this collection.If you have removed the app, it is safe to remove this collection.
-  Updated: 2025-10-21T00:00:16Z
+  Updated: 2025-10-21T01:03:46Z
   Total Products: 5481
 - [Nubia](https://hifimediastore.com/collections/nubia)
   Updated: 2025-10-11T22:34:25Z
