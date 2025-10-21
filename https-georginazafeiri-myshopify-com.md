@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2025-08-14T11:11:55Z
 - Contact Email: hello@georginazafeiri.com
-- Updated At: 2025-10-18T20:00:28.260Z
+- Updated At: 2025-10-21T04:00:29.348Z
 
 ## Products
 
@@ -166,7 +166,7 @@
     Availability: Available
     Price: £150.00 GBP
 - [Droplet II](https://georginazafeiri.myshopify.com/products/droplet-ii): Droplet II indian ink on cartridge paper original artwork: 29.7 x 21cm 2024 fine art giclee print on matt, museum etching paper 350gsm, 100% cotton, natural white unframed print size 29.7 x 21cm Frame size fits 30 x 21cm print printed and framed to order
-  Updated: 2025-10-18T05:45:26Z
+  Updated: 2025-10-18T20:34:46Z
   Vendor: Georgina Zafeiri
   Product Type: 
   Availability: Available
@@ -639,7 +639,7 @@
     Availability: Available
     Price: £150.00 GBP
 - [View towards Les Ruinettes, Verbier  from Chateau](https://georginazafeiri.myshopify.com/products/view-towards-les-ruinettes-verbier-from-chateau): View towards Les Ruinettes, Verbier from Chateau metallic pens in a sketchbook original artwork: 38 x 14 cm 2023 fine art giclee print on matt, museum etching paper 350gsm, 100% cotton, natural white unframed print size 29.7 x 21cm Frame size fits 30 x 21cm print printed and framed to order
-  Updated: 2025-10-18T15:31:25Z
+  Updated: 2025-10-19T03:21:48Z
   Vendor: Georgina Zafeiri
   Product Type: 
   Availability: Available
@@ -651,7 +651,7 @@
     Availability: Available
     Price: £150.00 GBP
 - [Mont Rogneux & Mont Brule from Cabane de Mont Fort](https://georginazafeiri.myshopify.com/products/mont-rogneux-mont-brule-from-cabane-de-mont-fort): Mont Rogneux & Mont Brule from Cabane de Mont Fort graphite, watercolour ink and pen on cartridge paper original artwork: 42 x 29.7cm 2024 fine art giclee print on matt, museum etching paper 350gsm, 100% cotton, natural white unframed print size 29.7 x 21cm Frame size fits 30 x 21cm print printed and framed to order
-  Updated: 2025-10-18T15:19:57Z
+  Updated: 2025-10-19T07:39:11Z
   Vendor: Georgina Zafeiri
   Product Type: 
   Availability: Available
@@ -681,7 +681,7 @@
     Availability: Available
     Price: £150.00 GBP
 - [Dome du Gouter, France](https://georginazafeiri.myshopify.com/products/dome-du-gouter-france): Dome du Gouter, France indian ink & watercolour in a sketchbook original artwork size: 2023 fine art giclee print on matt, museum etching paper 350gsm, 100% cotton, natural white unframed print size 21 x 29.7cm Frame size fits 21 x 29.7cm print printed and framed to order
-  Updated: 2025-10-18T15:00:43Z
+  Updated: 2025-10-19T03:16:50Z
   Vendor: Georgina Zafeiri
   Product Type: 
   Availability: Available
@@ -693,7 +693,7 @@
     Availability: Available
     Price: £150.00 GBP
 - [Le Grand Combin, view from Clambin](https://georginazafeiri.myshopify.com/products/le-grand-combin-view-from-clambin): Le Grand Combin, view from Clambin metallic calligraphy pens in a sketchbook original artwork: 38 x 13.5cm 2024 fine art giclee print on matt, museum etching paper 350gsm, 100% cotton, natural white unframed print size 21 x 29.7cm Frame size fits 21 x 29.7cm print printed and framed to order
-  Updated: 2025-10-18T15:33:20Z
+  Updated: 2025-10-19T02:49:47Z
   Vendor: Georgina Zafeiri
   Product Type: 
   Availability: Available
@@ -720,7 +720,7 @@
     Availability: Available
     Price: £150.00 GBP
 - [Deep Dive VI](https://georginazafeiri.myshopify.com/products/deep-dive-vi): Deep Dive VI This abstract painting is 1 of 6 experiments making as many different marks as possible with 3 colours and black and white in 30 minutes. acrylic paint, watercolour inks, oil pastels, kitchen roll, a fork, cardboard and a palette knife. original artwork: 33.5 x 40cm 2024 fine art giclee print on matt, museum etching paper 350gsm, 100% cotton, natural white unframed print size 21 x 29.7cm Frame size fits 21 x 29.7cm print printed and framed to order
-  Updated: 2025-10-18T13:49:32Z
+  Updated: 2025-10-19T07:00:51Z
   Vendor: Georgina Zafeiri
   Product Type: 
   Availability: Available
@@ -735,7 +735,7 @@
     Availability: Available
     Price: £150.00 GBP
 - [Deep Dive IV](https://georginazafeiri.myshopify.com/products/deep-dive-iv): Deep Dive IV This abstract painting is 1 of 6 experiments making as many different marks as possible with 3 colours and black and white in 30 minutes. acrylic paint, watercolour inks, oil pastels, kitchen roll, a fork, cardboard and a palette knife. original artwork: 33.5 x 40cm 2024 fine art giclee print on matt, museum etching paper 350gsm, 100% cotton, natural white unframed print size 21 x 29.7cm Frame size fits 21 x 29.7cm print printed and framed to order
-  Updated: 2025-10-18T13:48:39Z
+  Updated: 2025-10-19T01:48:55Z
   Vendor: Georgina Zafeiri
   Product Type: 
   Availability: Available
@@ -750,7 +750,7 @@
     Availability: Available
     Price: £150.00 GBP
 - [Deep Dive I](https://georginazafeiri.myshopify.com/products/deep-dive-i): Deep Dive I This abstract painting is 1 of 6 experiments making as many different marks as possible with 3 colours and black and white in 30 minutes. acrylic paint, watercolour inks, oil pastels, kitchen roll, a fork, cardboard and a palette knife. original artwork: 33.5 x 32cm 2024 fine art giclee print on matt, museum etching paper 350gsm, 100% cotton, natural white unframed print size 21 x 29.7cm Frame size fits 21 x 29.7cm print printed and framed to order
-  Updated: 2025-10-18T13:47:30Z
+  Updated: 2025-10-19T01:47:34Z
   Vendor: Georgina Zafeiri
   Product Type: 
   Availability: Available
@@ -765,7 +765,7 @@
     Availability: Available
     Price: £150.00 GBP
 - [Deep Dive III](https://georginazafeiri.myshopify.com/products/deep-dive-iii): Deep Dive III This abstract painting is 1 of 6 experiments making as many different marks as possible with 3 colours and black and white in 30 minutes. acrylic paint, watercolour inks, oil pastels, kitchen roll, a fork, cardboard and a palette knife. original artwork: 33.5 x 32cm 2024 fine art giclee print on matt, museum etching paper 350gsm, 100% cotton, natural white unframed print size 21 x 29.7cm Frame size fits 21 x 29.7cm print printed and framed to order
-  Updated: 2025-10-18T13:46:24Z
+  Updated: 2025-10-19T06:12:49Z
   Vendor: Georgina Zafeiri
   Product Type: 
   Availability: Available
@@ -780,7 +780,7 @@
     Availability: Available
     Price: £150.00 GBP
 - [Deep Dive V](https://georginazafeiri.myshopify.com/products/deep-dive-v): Deep Dive V This abstract painting is 1 of 6 experiments making as many different marks as possible with 3 colours and black and white in 30 minutes. I’ve used acrylic paint, watercolour inks, oil pastels, kitchen roll, a fork, cardboard and a palette knife. This artwork was made into an envelope for "The Wonder of Colour," exhibition in support of A Letter in mind and the National Brain Appeal. The envelope can be purchased at https://shop.nationalbrainappeal.org/products/alim2024-761 Prints of the original artwork can be bought here. fine art giclee print on matt, museum etching paper 350gsm, 100% cotton, natural white unframed print size 21 x 29.7cm Frame size fits 21 x 29.7cm print printed and framed to order
-  Updated: 2025-10-18T13:45:21Z
+  Updated: 2025-10-19T01:45:27Z
   Vendor: Georgina Zafeiri
   Product Type: 
   Availability: Available
@@ -794,7 +794,7 @@
     Image: https://cdn.shopify.com/s/files/1/0913/8926/4199/files/56f43a20-ad6345_811e3368ebd745c29e9f21a46a561d8d_mv2.jpg?v=1760013355
     Price: £200.00 GBP
 - [Deep Dive II](https://georginazafeiri.myshopify.com/products/deep-dive-ii): Deep Dive II This abstract painting is 1 of 6 experiments making as many different marks as possible with 3 colours and black and white in 30 minutes. acrylic paint, watercolour inks, oil pastels, kitchen roll, a fork, cardboard and a palette knife. original artwork: 33.5 x 32cm 2024 fine art giclee print on matt, museum etching paper 350gsm, 100% cotton, natural white unframed print size 29.7 x 21cm Frame size fits 29.7 x 21cm print printed and framed to order
-  Updated: 2025-10-18T13:38:05Z
+  Updated: 2025-10-19T01:55:06Z
   Vendor: Georgina Zafeiri
   Product Type: 
   Availability: Available
@@ -924,7 +924,7 @@
   Image: https://cdn.shopify.com/s/files/1/0913/8926/4199/files/1_16.jpg?v=1760095724
   Price: £2,000.00 GBP
 - [Piccadilly Circus](https://georginazafeiri.myshopify.com/products/piccadilly-circus): Piccadilly Circus pen and ink original artwork: 21 x 29.7cm 2018 fine art giclee print on matt, museum etching paper 350gsm, 100% cotton, natural white unframed print size 21 x 29.7cm Frame size fits 21 x 29.7cm print printed and framed to order
-  Updated: 2025-10-18T12:51:09Z
+  Updated: 2025-10-19T00:51:14Z
   Vendor: Georgina Zafeiri
   Product Type: 
   Availability: Available
@@ -942,7 +942,7 @@
     Availability: Available
     Price: £150.00 GBP
 - [Gerrard Street, Soho](https://georginazafeiri.myshopify.com/products/gerrard-street-soho): Gerrard Street, Soho watercolour and pen on watercolour paper original art work: 29.7 x 21cm 2018 fine art giclee print on matt, museum etching paper 350gsm, 100% cotton, natural white unframed print size 29.7 x 21cm Frame size fits 29.7 x 21cm print printed and framed to order
-  Updated: 2025-10-18T12:49:31Z
+  Updated: 2025-10-19T01:25:11Z
   Vendor: Georgina Zafeiri
   Product Type: 
   Availability: Available
@@ -960,7 +960,7 @@
     Availability: Available
     Price: £150.00 GBP
 - [London Overground](https://georginazafeiri.myshopify.com/products/london-overground): London Overground watercolour and ink, original artwork: 27.3 x 20.6cm 2020 fine art giclee print on matt, museum etching paper 350gsm, 100% cotton, natural white unframed print size 29.7 x 21cm Frame size fits 29.7 x 21cm print printed and framed to order
-  Updated: 2025-10-18T12:47:14Z
+  Updated: 2025-10-19T00:47:20Z
   Vendor: Georgina Zafeiri
   Product Type: 
   Availability: Available
@@ -979,7 +979,7 @@
     Availability: Available
     Price: £150.00 GBP
 - [Waterloo to Fleet](https://georginazafeiri.myshopify.com/products/waterloo-to-fleet): Waterloo to Fleet watercolour and ink original artwork: 20.6 x 27.3cm 2022 fine art giclee print on matt, museum etching paper 350gsm, 100% cotton, natural white unframed print size 21 x 29.7cm Frame size fits 21 x 29.7cm print printed and framed to order
-  Updated: 2025-10-18T12:46:36Z
+  Updated: 2025-10-19T05:53:10Z
   Vendor: Georgina Zafeiri
   Product Type: 
   Availability: Available
@@ -997,7 +997,7 @@
     Availability: Available
     Price: £150.00 GBP
 - [Jubilee Line](https://georginazafeiri.myshopify.com/products/jubilee-line): Jubilee Line indian ink, metallic watercolour paints original artwork: 19 x 13.5cm 2022 fine art giclee print on matt, museum etching paper 350gsm, 100% cotton, natural white unframed print size 29.7 x 21cm Frame size fits 29.7 x 21cm print printed and framed to order
-  Updated: 2025-10-18T12:45:53Z
+  Updated: 2025-10-19T00:46:01Z
   Vendor: Georgina Zafeiri
   Product Type: 
   Availability: Available
@@ -1015,7 +1015,7 @@
     Availability: Available
     Price: £150.00 GBP
 - [Richmond to Waterloo IV](https://georginazafeiri.myshopify.com/products/richmond-to-waterloo-iv): Richmond to Waterloo IV indian ink & watercolour original artwork: 19 x 14.6 cm 2020 fine art giclee print on matt, museum etching paper 350gsm, 100% cotton, natural white unframed print size 29.7 x 21cm Frame size fits 29.7 x 21cm print printed and framed to order
-  Updated: 2025-10-18T12:45:36Z
+  Updated: 2025-10-19T00:45:42Z
   Vendor: Georgina Zafeiri
   Product Type: 
   Availability: Available
@@ -1033,7 +1033,7 @@
     Availability: Available
     Price: £150.00 GBP
 - [Richmond to Waterloo I](https://georginazafeiri.myshopify.com/products/richmond-to-waterloo-i): Richmond to Waterloo I indian ink & watercolour original artwork: 19 x 14.6 cm 2019 fine art giclee print on matt, museum etching paper 350gsm, 100% cotton, natural white unframed print size 29.7 x 21cm Frame size fits 29.7 x 21cm print printed and framed to order
-  Updated: 2025-10-18T12:44:36Z
+  Updated: 2025-10-19T01:20:41Z
   Vendor: Georgina Zafeiri
   Product Type: 
   Availability: Available
@@ -1051,7 +1051,7 @@
     Availability: Available
     Price: £150.00 GBP
 - [Richmond to Waterloo II](https://georginazafeiri.myshopify.com/products/richmond-to-waterloo-ii): Richmond to Waterloo II indian ink & watercolour original artwork: 18.9 x 14 cm 2019 fine art giclee print on matt, museum etching paper 350gsm, 100% cotton, natural white unframed print size 29.7 x 21cm Frame size fits 29.7 x 21cm print printed and framed to order
-  Updated: 2025-10-18T12:44:21Z
+  Updated: 2025-10-19T00:44:26Z
   Vendor: Georgina Zafeiri
   Product Type: 
   Availability: Available
@@ -1097,7 +1097,7 @@
   Image: https://cdn.shopify.com/s/files/1/0913/8926/4199/files/83c89daf-ad6345_809da8c8fdb24d778125d8fb4f514f9d_mv2.jpg?v=1755190706
   Price: £750.00 GBP
 - [Waterloo & City IV](https://georginazafeiri.myshopify.com/products/waterloo-city-iv): Waterloo & City IV, original artwork 21 x 37cm, indian ink and watercolour on watercolour paper 2015 fine art giclee print on matt, museum etching paper 350gsm, 100% cotton, natural white unframed print size 21 x 29.7cm Frame size fits 21 x 29.7cm print printed and framed to order
-  Updated: 2025-10-18T12:43:36Z
+  Updated: 2025-10-19T06:30:31Z
   Vendor: Georgina Zafeiri
   Product Type: 
   Availability: Available
@@ -1115,7 +1115,7 @@
     Availability: Available
     Price: £150.00 GBP
 - [Waterloo & City III](https://georginazafeiri.myshopify.com/products/waterloo-city-iii): Waterloo & City III original artwork 37 x 21cm, indian ink and watercolour on watercolour paper 2015 fine art giclee print on matt, museum etching paper 350gsm, 100% cotton, natural white unframed print size 29.7 x 21cm Frame size fits 29.7 x 21cm print printed and framed to order
-  Updated: 2025-10-18T12:42:56Z
+  Updated: 2025-10-19T00:43:01Z
   Vendor: Georgina Zafeiri
   Product Type: 
   Availability: Available
@@ -1133,7 +1133,7 @@
     Availability: Available
     Price: £150.00 GBP
 - [Waterloo & City II](https://georginazafeiri.myshopify.com/products/waterloo-city-ii): Waterloo & City II original artwork 37 x 21cm, indian ink and watercolour on watercolour paper 2015 fine art giclee print on matt, museum etching paper 350gsm, 100% cotton, natural white unframed print size 29.7 x 21cm Frame size fits 29.7 x 21cm print printed and framed to order
-  Updated: 2025-10-18T12:42:34Z
+  Updated: 2025-10-19T02:01:48Z
   Vendor: Georgina Zafeiri
   Product Type: 
   Availability: Available
@@ -1151,7 +1151,7 @@
     Availability: Available
     Price: £150.00 GBP
 - [Waterloo & City I](https://georginazafeiri.myshopify.com/products/waterloo-city-i): Waterloo & City I original artwork 37 x 21cm, indian ink and watercolour on watercolour paper 2015 fine art giclee print on matt, museum etching paper 350gsm, 100% cotton, natural white unframed print size 29.7 x 21cm Frame size fits 29.7 x 21cm print printed and framed to order
-  Updated: 2025-10-18T12:42:17Z
+  Updated: 2025-10-19T00:19:00Z
   Vendor: Georgina Zafeiri
   Product Type: 
   Availability: Available
@@ -1199,7 +1199,7 @@
     Availability: Available
     Price: £195.00 GBP
 - [Millbank - Georgina Zafeiri - Fine art giclee print](https://georginazafeiri.myshopify.com/products/millbank-georgina-zafeiri-fine-art-giclee-print): Millbank - Georgina Zafeiri - Fine art giclee print fine art giclee print on matt, museum etching paper 350gsm, 100% cotton, natural white unframed print size 21 x 29.7cm Frame size fits 21 x 26cm print printed and framed to order
-  Updated: 2025-10-18T12:41:19Z
+  Updated: 2025-10-19T00:28:33Z
   Vendor: Georgina Zafeiri
   Product Type: 
   Availability: Available
