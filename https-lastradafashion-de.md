@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2023-03-22T10:49:51Z
 - Contact Email: onlineshop@lastradafashion.de
-- Updated At: 2025-10-21T00:01:01.043Z
+- Updated At: 2025-10-21T04:00:54.190Z
 
 La Strada is love for Italian Fashion. Our collections represents the latest fashion trends from Italy and is lovingly created and arranged for the modern fashionable woman who is looking for the newest trends, the best quality and best price. 
 
@@ -1789,7 +1789,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDcyMC0xNjgtNDA2ODM4MjE1MTg1My1jYW1lbC0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760788876
     Price: 45,00 € EUR
 - [Sweatjacke mit Kapuze und Kunstfell-Front](https://lastradafashion.de/products/sweatjacke-mit-kapuze-und-kunstfell-front): Diese Kapuzenjacke kombiniert lässigen Komfort mit edlen Details. Die Vorderseite ist mit weichem Kunstfell gearbeitet, was für eine luxuriöse Haptik und einen besonderen Look sorgt. Die Ärmel und die Rückseite sind aus feinem Sweatmaterial gefertigt, wodurch die Jacke leicht und bequem bleibt. Ein durchgehender Reißverschluss, die praktische Kapuze und die sportiven Strickbündchen machen das Modell zu einem vielseitigen Stylingpartner – perfekt für entspannte Alltags-Outfits mit einem Hauch Eleganz.
-  Updated: 2025-10-20T16:07:11Z
+  Updated: 2025-10-21T00:30:15Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
@@ -1847,7 +1847,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAxNS01MDgtNDA2ODM4MjE1ODU2Mi1yb3NhLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760967267
     Price: 45,00 € EUR
 - [Kurzjacke](https://lastradafashion.de/products/kurzjacke): Modern, minimalistisch und mit einem Hauch Extravaganz: Die Jacke ist ein stilvolles Highlight für alle, die klare Linien lieben. Die kastige, leicht verkürzte Silhouette mit Rundhalsausschnitt und großen aufgesetzten Taschen verleiht dem Modell einen angesagten Utility-Charakter. Die edel schimmernde, glatte Oberfläche und die mattgoldenen Druckknöpfe sorgen für ein harmonisches Spiel zwischen sportivem Stil und femininer Raffinesse. Der elastische Saum am Rücken rundet das Design funktional ab. Dank des hochwertigen Stretchmaterials trägt sich die Jacke besonders angenehm und bleibt gleichzeitig in Form. Ein urbanes Key-Piece mit modischer Aussage – ein absolutes Must-have! Materialzusammensetzung 49 % Polyester 44 % Viskose 7 % Elasthan Pflegehinweis 30 °C Maschinenwäsche nicht bleichen nicht im Trockner trocknen bei niedriger Temperatur bügeln nicht chemisch reinigen Herstellungsland Italien Passform und Schnitt Gerade, leicht kastige Passform mit Rundhalsausschnitt, langen Ärmeln und verkürztem Schnitt Fit Guide 3 Materialqualität Glatt, elastisch, formstabil mit leichtem Schimmer Verarbeitung Leicht glänzender Stoff mit aufgesetzten Taschen, elastischem Rückensaum und Knopfleiste Model Das Model ist 175cm groß und trägt Konfektionsgröße 36.
-  Updated: 2025-10-20T15:51:03Z
+  Updated: 2025-10-21T02:08:48Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
@@ -1971,7 +1971,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAzMC0zMzU2NTEtNDA2ODM4MjE2Mjc4MS1zY2h3YXJ6LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760970540
     Price: 39,90 € EUR
 - [Feinstrickpullover mit Animalprint-Applikation](https://lastradafashion.de/products/feinstrickpullover-mit-animalprint-applikation): Mit diesem Feinstrickpullover ziehst du alle Blicke auf dich. Im Zentrum steht der auffällige „N°5“-Schriftzug mit Animalprint-Applikation – ein modisches Statement, das Coolness und feminine Raffinesse gekonnt vereint. Die lässige Passform mit Fledermausärmeln sorgt für angenehme Bewegungsfreiheit und unterstreicht den entspannten Chic des Designs. Die weichfließende Strickqualität fühlt sich traumhaft weich auf der Haut an und schenkt angenehme Wärme – perfekt für stilvolle Übergangslooks. Ein Lieblingsstück mit hohem Style-Faktor und Must-have-Charakter. GrößeOne SizeMaterialzusammensetzung 40 % Viskose 30 % Angora 30 % Wolle Pflegehinweis Nur Handwäsche nicht bleichen nicht im Trockner trocknen nicht heiß bügeln nicht chemisch reinigen HerstellungslandItalienFit Guide3MaterialqualitätSehr weiche Haptik, leichtes Material, leicht elastisches MaterialVerarbeitungFeinstrick, Frontprint mit Animal-ApplikationModelDas Model ist 175cm groß und trägt Konfektionsgröße 36.
-  Updated: 2025-10-20T16:07:13Z
+  Updated: 2025-10-21T03:34:02Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
