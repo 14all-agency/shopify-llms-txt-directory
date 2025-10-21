@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-10-21T00:00:41.703Z
+- Updated At: 2025-10-21T08:00:44.732Z
 
 ## Products
 
@@ -4244,7 +4244,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/platform-broom-brown-610mm-x-28mm-x-1350mm-stiff-bristles-brooms-essential-supplies-682573.jpg?v=1719445569
   Price: $64.00 NZD
 - [Platform Broom - Brown, 760mm x 28mm x 1350mm, Stiff Bristles](https://essentialsupplies.co.nz/products/platform-broom-brown-760mm-x-28mm-x-1350mm-stiff-bristles-3): Platform brooms are built tough from the best quality materials with no rusting parts. The unique bracket design secures the handle deep inside the block. Ergonomic end cap design reduces pressure on hands while sweeping. Available in a range of head widths from 355mm to 915mm to shift dust and heavy debris.
-  Updated: 2025-01-28T21:36:58Z
+  Updated: 2025-10-21T03:07:08Z
   Vendor: Mattews Packaging
   Product Type: Brooms
   Availability: Available
@@ -6239,7 +6239,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/polyethylene-back-tie-apron-blue-800mm-x-1250mm-x-20mu-700-aprons-light-duty-plastic-body-protection-essential-supplies-432190.jpg?v=1719445563
   Price: $113.00 NZD
 - [PVC Apron Waist Hooks - White, 450mm Length - 1 Pack](https://essentialsupplies.co.nz/products/pvc-apron-waist-hooks-white-450mm-length-1)
-  Updated: 2025-10-20T08:02:41Z
+  Updated: 2025-10-21T06:10:58Z
   Vendor: Mattews Packaging
   Product Type: Reusable Aprons
   Availability: Available
