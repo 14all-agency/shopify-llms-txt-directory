@@ -6,7 +6,7 @@
 - Timezone: Europe/Madrid
 - Created At: 2022-07-18T15:24:40Z
 - Contact Email: info@hifimediastore.com
-- Updated At: 2025-10-21T12:01:15.853Z
+- Updated At: 2025-10-21T16:01:15.688Z
 
 ## Products
 
@@ -7199,7 +7199,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/20372.jpg?v=1735071018
   Price: 27,99 € EUR
 - [Xiaomi Redmi Buds 6 Play Auriculares Bluetooth Rosa (Pink)](https://hifimediastore.com/products/xiaomi-redmi-buds-6-play-auriculares-bluetooth-rosa-pink): Xiaomi Redmi Buds 6 Play:  Bluetooth 5.4 Cinco ajustes de ecualización Controlador dinámico de 10 mm Batería de hasta 36 horas de duración Escucha hasta 3h de música con una carga de 10 minutos Reducción de ruido con IA Conectividad inteligente
-  Updated: 2025-10-18T22:40:11Z
+  Updated: 2025-10-21T14:51:14Z
   Vendor: Xiaomi
   Product Type: Bluetooth
   Availability: Available
