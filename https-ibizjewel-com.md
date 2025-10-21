@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-01-24T04:49:01Z
 - Contact Email: info@ibizjewel.com
-- Updated At: 2025-10-20T16:00:50.175Z
+- Updated At: 2025-10-21T00:00:49.659Z
 
 ## Products
 
@@ -437,7 +437,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-06_2.jpg?v=1690456500
     Price: $849.00 USD
 - [Moissanite 2.55CT Oval Diamond Unique Handmade Ring](https://ibizjewel.com/products/moissanite-2-55ct-oval-diamond-unique-handmade-ring): This Moissanite 2.55CT Oval Diamond Unique Handmade Ring Is A Stunning Piece Crafted With Expert Precision. Made With High-Quality Moissanite, It Boasts A Sparkling Oval Diamond That Captures The Light For A Brilliant Shine. Handmade With Care, This Ring Is A One-Of-A-Kind Piece That Exudes Elegance And Charm. Elevate Any Outfit With This Unique And Timeless Ring.
-  Updated: 2025-10-20T03:13:04Z
+  Updated: 2025-10-20T17:37:40Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Oval Diamond Ring
   Availability: Available
@@ -20532,7 +20532,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/IBIZ-06_3.jpg?v=1710566907
     Price: $499.00 USD
 - [Breathtaking Plain Silver New Year Special Gift Band](https://ibizjewel.com/products/breathtaking-plain-silver-best-selling-engagement-gift-band): This Plain Silver Engagement Gift Band Is A Top Seller, Crafted To Perfection With Breathtaking Simplicity. Made From High-quality Silver, This Band Showcases A Timeless Elegance And Is Perfect For Any Engagement. Say "i Do" In Style And Grace With This Best Selling Engagement Gift Band.
-  Updated: 2025-10-02T10:30:55Z
+  Updated: 2025-10-20T20:07:15Z
   Vendor: IBIZ Special
   Product Type: Wedding Band Ring
   Availability: Available
