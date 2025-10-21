@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2025-01-13T13:26:43Z
 - Contact Email: info@amar.al
-- Updated At: 2025-10-21T12:00:37.332Z
+- Updated At: 2025-10-21T20:00:37.545Z
 
 ## Products
 
@@ -543,7 +543,7 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/71-PROFESSIONAL-SOOTHING-SHAMPOO-for-sensitive-scalp-for-fine-and-delicate-hair-1.png?v=1757514569
   Price: ALL 2,095.00 ALL
 - [H-STIMUCLARIS - Amar Pharma - Pharmaceris - Shampo](https://amar.al/products/professional-hair-growth-stimulating-anti-dandruff-shampoo): Pharmaceris – H-Stimuclaris Double Action Hair Growth Stimulating & Anti -Dandruff Shampoo Rekomandohet për larjen e flokëve dhe skalpit të kokës për gratë dhe burrat, për flokët me problemin e zbokthit dhe me tendencë për rënie apo rrallim. H-Stimuclaris rekomandohet për flokë të dobët, të hollë, të yndyrshëm si dhe për inflamacion seborreik të kokës me skuama. Kjo formulë e patentuar për përdorim të përditshëm, është e sigurtë për skalpin e ndjeshëm. Shampoja dermatologjike e specializuar është një zgjidhje efektive për problemet ekzistuese dhe të vështira për t’u kapërcyer me lëkurën e kokës – zbokthin dhe rënien e tepërt të flokëve. Bazuar në piroktonat olamine dhe acidin citrik pastron në mënyrë efektive lëkurën e kokës, duke eliminuar simptomat dhe shkaqet e zbokthit shqetësues dhe jo-estetik, i cili prish ciklin fiziologjik të jetës së flokëve, duke shkaktuar rënie të tepërt dhe rrallim të flokëve. Kompleksi i kafeinës dhe faktori natyror i rritjes FGF, stimulon bioaktivuesin e rritjes së flokëve – proteinën FGF7, përgjegjëse për stabilizimin e ciklit jetësor të flokëve, zgjatjen e fazës së rritjes (fazës anagen). Përmirëson mikroqarkullimin dhe oksigjenimin e qelizave, forcon folikulin e flokëve, ndërkohë që pengon rënien e flokëve dhe aktivizon dhe përshpejton rritjen e tyre natyrale. Si rezultat, parandalon rënien e parakohshme të flokëve, rrallimin, duke forcuar ndjeshëm flokët, duke zbutur strukturën e tyre dhe duke rritur volumin e tyre. Formula delikate e shampos së pasuruar me D-panthenol qetësues, rikthen ekuilibrin e lëkurës së kokës, rikthen rehatinë dhe nivelin e nevojshëm të hidratimit. Redukton kruajtjen dhe yndyrën e flokëve. Rikthen pH natyral të skalpit, duke i lënë flokët të butë duke reduktuar këputjen. Udhëzime mbi përdorimin Përdoreni shampon çdo ditë ose minimalisht 3 herë në javë. Aplikojeni në flokë dhe skalp të lagur. Masazhojeni butësisht për 2-3 minuta, më pas shpëlajeni me ujë. Në rast kontakti me sytë, shpëlajeni me ujë të bollshëm. Për të rritur efektivitetin e veprimit stimulues të rritjes së flokëve, përdoreni së bashku me Pharmaceris H-Stimulinum ose H-Stimuforten. Mund të përdorni peeling trikologjik pastrues H-Stimupeel një herë në javë si masë parandaluese. - Amar Pharma - Pharmaceris - Shampo
-  Updated: 2025-10-16T16:37:54Z
+  Updated: 2025-10-21T17:10:45Z
   Vendor: Pharmaceris
   Product Type: Shampo
   Availability: Available
@@ -1362,7 +1362,7 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/Untitled_design_42.png?v=1758876529
   Price: ALL 2,689.00 ALL
 - [OCTOPIROX® DS LOTION - Amar Pharma - Pharmaceris - Locion](https://amar.al/products/scalp-tonicum-liquid-reducing-scaling-and-redness-octopirox-ds-100-ml): Formulim për përdorim të përditshëm për skalpin dhe trupin me simptoma të dermatitit seborrheik. Rekomandohet në rast të prodhimit të tepërt të sebumit, kruarjes së vazhdueshme dhe skuqjes së lëkurës. I përshtatshëm për fëmijët mbi 12 vjeç dhe të rriturit. Sjell lehtësim të menjëhershëm. Qetëson shpejt kruarjen, djegien, skuqjen dhe yndyrën e tepërt (simptomat e dermatitit seborrheik).Formula qetësuese IMMUNO-PREBIOTIC ruan ekuilibrin e mikroflorës epidermale, duke mbështetur zhvillimin e barrierës natyrore mbrojtëse të lëkurës dhe duke pakësuar mbindjeshmërinë e saj. Përmban kompleksin Octopirox®, me veti të forta anti-bakteriale dhe anti-fungale, me qëllim që të parandalojë rikthimin e simptomave të lidhura me dermatitin seborrheik. Redukton skuqjen e lëkurës.Parandalon rënien e flokëve si pasojë e dermatitit seborrheik. - Amar Pharma - Pharmaceris - Locion
-  Updated: 2025-10-16T16:37:49Z
+  Updated: 2025-10-21T17:10:46Z
   Vendor: Pharmaceris
   Product Type: Locion
   Availability: Available
