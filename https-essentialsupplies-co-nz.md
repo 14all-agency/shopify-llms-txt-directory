@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-10-20T12:00:43.679Z
+- Updated At: 2025-10-21T00:00:41.703Z
 
 ## Products
 
@@ -6876,7 +6876,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/desktop-tape-dispenser-small-black-25mm-core-1-dispenser-office-tape-essential-supplies-281909.jpg?v=1719444939
   Price: $23.00 NZD
 - [Desktop Tape Dispenser Large - Black, 25mm Core + 76mm Core - 1) Dispenser](https://essentialsupplies.co.nz/products/desktop-tape-dispenser-large-black-25mm-core-76mm-core-1): Small desktop tape dispenser constructed of ABS plastic with rubberised feet for stable desktop use. Stylish and professional looking design that effortlessly dispenses both 25.4mm core (33m length) or 76.2mm (66m length) tape rolls conveniently at your fingertips.
-  Updated: 2025-10-20T02:06:07Z
+  Updated: 2025-10-20T12:31:31Z
   Vendor: Mattews Packaging
   Product Type: Office Tape
   Availability: Available
