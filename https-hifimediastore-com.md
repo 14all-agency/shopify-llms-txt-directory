@@ -6,7 +6,7 @@
 - Timezone: Europe/Madrid
 - Created At: 2022-07-18T15:24:40Z
 - Contact Email: info@hifimediastore.com
-- Updated At: 2025-10-21T16:01:15.688Z
+- Updated At: 2025-10-21T20:01:14.546Z
 
 ## Products
 
@@ -5434,6 +5434,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/jabra-evolve2-50-usb-c-uc-mono_373123_10_f178e7e4-3136-41c3-8191-f223cc6f9896.jpg?v=1756484918
   Price: 145,99 € EUR
+- [Kensington K97601WW - Auriculares Hi-Fi USB-A con Micrófono](https://hifimediastore.com/products/kensington-k97601ww-auriculares-hi-fi-usb-a-con-microfono): El sonido estéreo de alta calidad se proporciona a través de potentes controladores de 40 mm con un bajo profundo y un amplio rango dinámico para ofrecer una experiencia sonora excepcional. Características: La mayor comodidad de su clase: diseñados para adaptarse a cabezas de todas las edades, la diadema ajustable está acolchada, el micrófono estilo "Boom" flexible se puede girar 270 grados y las almohadillas de espuma para los oídos están envueltas en una suave cubierta de cuero sintético para ofrecer horas de uso confortables. El micrófono con supresión de ruido utiliza tecnología de resistencia pasiva para suprimir el ruido ambiental y ofrecer una voz clara óptima. El cable USB de 182 cm presenta la longitud ideal para entornos de aprendizaje y es lo suficientemente resistente como para soportar un uso intensivo. La compatibilidad con diversos sistemas permite que los auriculares funcionen con dispositivos Windows, Mac y Chromebook. El límite de sonido seguro establece la salida máxima en 94 db para proteger los oídos de la pérdida auditiva asociada con la exposición a un ruido excesivamente alto. Especificaciones: Desempeño Tipo de producto: Auriculares Estilo de uso: Diadema Uso recomendado: Calls/Music Tipo de auricular: Binaural Color del producto: Negro Longitud de cable: 2 m Puertos e Interfaces Tecnología de conectividad: Alámbrico Conector de 3,5 mm: No Conexión USB: Si Conector USB: USB tipo A Bluetooth: No Auriculares Audífonos: Supraaural Sensibilidad de auricular: 94 dB Unidad de disco: 4 cm Micrófono Tipo de micrófono: Boom Efecto de cancelación de ruido: Si Requisitos del sistema Sistema operativo Windows soportado: Si Compatible con Mac: Si Sistema operativo MAC soportado: Si Peso y dimensiones Ancho: 200 mm Profundidad: 284 mm Altura: 70 mm Peso: 163 g Otras características Conector de 2,5 mm: No
+  Updated: 2025-10-21T19:43:21Z
+  Vendor: KENSINGTON
+  Product Type: Todos los auriculares
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/kensington-auricular-in-ear-con-micro-negro-k97601ww.jpg?v=1761075799
+  Price: 41,99 € EUR
 - [Lindy 42870 - Auriculares USB con Micrófono Negros](https://hifimediastore.com/products/lindy-42870-auriculares-usb-con-microfono-negros): Los auriculares con cable Lindy USB tipo A con control en línea son auriculares profesionales para conectividad con PC, portátiles u otras salidas USB. El diseño binaural proporciona una reproducción de audio estéreo nítida, reemplazando los altavoces integrados de PC o portátiles. El micrófono omnidireccional flexible captura la voz de los usuarios con claridad para lograr una claridad superior en las videollamadas. Los controles en línea aseguran un ajuste simple de volumen y silenciamiento, ideal para un uso flexible dentro de las videoconferencias. El diseño liviano de los auriculares garantiza la comodidad incluso con el uso durante todo el día en oficinas y centros de llamadas, y también se pueden usar junto con el popular software VoIP y Office. Especificaciones: Desempeño Tipo de producto: Auriculares Estilo de uso: Diadema Uso recomendado: Llamadas/Música Tipo de auricular: Binaural Color del producto: Negro Tipo de controles: Caja de control en cable Longitud de cable: 1,95 m Diadema ajustable: Si Material de la carcasa: Plástico Conectar y usar (Plug and Play): Si Certificación: CE, UKCA, FCC, RoHS, REACH, California Proposition 65 Puertos e Interfaces Tecnología de conectividad: Alámbrico Conexión USB: Si Conector USB: USB tipo A Auriculares Audífonos: Supraaural Frecuencia de auricular: 20 - 20000 Hz Obstrucción: 32 ? Sensibilidad de auricular: 58 dB Unidad de disco: 4 cm THD, distorsión armónica total: 0,1% Circuito integrado: HS100 Micrófono Tipo de micrófono: Boom Frecuencia de micrófono: 30 - 16000 Hz Sensibilidad de micrófono: -58 dB Micrófono plegable: Si Micrófono mudo: Si Condiciones ambientales Intervalo de temperatura operativa: -10 - 50 °C Intervalo de temperatura de almacenaje: -10 - 50 °C Intervalo de humedad relativa durante almacenaje: 0 - 95% Peso y dimensiones Ancho: 170 mm Profundidad: 50 mm Altura: 140 mm Peso: 108 g Empaquetado Ancho del paquete: 255 mm Altura del paquete: 236 mm Peso del paquete: 120 g Tipo de embalaje: Bolsa de plástico Contenido del embalaje Material de la almohadilla: Imitación piel Cantidad: 1 Datos logísticos Código de Sistema de Armomización (SA): 85183000 Otras características Manual de usuario: Si
   Updated: 2025-08-29T15:54:19Z
   Vendor: LINDY
@@ -5567,6 +5574,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/dummy.png?v=1720560499
   Price: 124,99 € EUR
+- [Philips TAT2206WT/00 - Auriculares Intraurales Bluetooth Blancos](https://hifimediastore.com/products/philips-tat2206wt-00-auriculares-intraurales-bluetooth-blancos): ¿Se te ocurre algo más práctico que unos auriculares inalámbricos con un estuche de carga que cabe en el bolsillo de un pantalón pitillo? Estos auriculares intrauditivos Philips TAT2206WT/00 resistentes a las salpicaduras y al sudor ofrecen un ajuste seguro dentro de la oreja, un sonido excelente y hasta 18 horas de reproducción. Características: Resistentes al sudor y a las salpicaduras (IPX4). Con un índice de protección IPX4 y potentes altavoces de 6 mm, estos auriculares te permiten disfrutar de un sonido excelente en cualquier condición meteorológica. Son totalmente resistentes a las salpicaduras, no les importará el sudor ni que te pille algún chaparrón con ellos puestos. Estuche de carga superpequeño para hasta 12 horas de reproducción. Sal a la calle con varias cargas en el bolsillo. Disfrutarás de hasta 6 horas de reproducción con una sola carga, además de 12 horas si el estuche está totalmente cargado. Una carga corta de 15 minutos en el estuche te ofrece una hora de reproducción. La carga completa en el escuche tarda 2 horas a través de USB-C. Fijación segura y cómoda dentro de la oreja. Disfruta de una comodidad real gracias a las suaves almohadillas de silicona intercambiables. Las almohadillas de cada auricular se insertan de forma segura en el canal auditivo, creando un sellado perfecto que reduce el ruido externo. El diseño de "palo de hockey" fija cada auricular de forma segura. Modo mono: Realiza llamadas con un único auricular. ¿Recibes muchas llamadas? Puedes duplicar el tiempo de conversación utilizando un auricular mientras el otro se carga. El micrófono se asigna automáticamente al auricular que estás utilizando y solo tienes que cambiar al otro cuando la batería del auricular actual se esté agotando. Controles integrados. Micrófono integrado. Emparejamiento sencillo. Los controles de los auriculares te permiten poner en pausa la lista de reproducción, responder llamadas, controlar el volumen y activar el asistente de voz del teléfono. Los auriculares están listos para emparejarse en el momento en que activas el Bluetooth. Especificaciones: Desempeño Tipo de producto: Auriculares Estilo de uso: Dentro de oído Uso recomendado: Llamadas/Música Tipo de auricular: Binaural Color del producto: Blanco Teclas de funcionamiento: Responder/finalizar llamada, Llamada rechazada Funciones de protección: A prueba de salpicaduras, Resistente al sudor Código IP (International Protection): IPX4 Puertos e Interfaces Tecnología de conectividad: Inalámbrico Bluetooth: Si Perfiles de Bluetooth: A2DP, AVRCP, HSP, SBC Versión de Bluetooth: 5.0 Alcance inalámbrico: 10 m Auriculares Potencia máxima de entrada: 5 mW Audífonos: Intraaural Frecuencia de auricular: 20 - 20000 Hz Obstrucción: 16 Ohmios Sensibilidad de auricular: 101 dB Unidad de disco: 6 mm Micrófono Tipo de micrófono: Integrado Batería Batería: Si Tipo de batería: Batería integrada Tecnología de batería: Polímero de litio Tiempo continuo de reproducción de audio: 6 h Autonomía en reproducción continua de audio (con estuche de carga): 18 h Autonomía en llamadas (con estuche de carga): 18 h Tiempo de conversación: 6 h Tiempo de recarga de la batería: 2 h Carga rápida: Si Tiempo de carga rápida: 15 min Peso y dimensiones Ancho: 57 mm Profundidad: 31 mm Altura: 45,7 mm Peso: 37 g Empaquetado Ancho del paquete: 95 mm Profundidad del paquete: 40 mm Altura del paquete: 172 mm Peso del paquete: 130 g Tipo de embalaje: Caja de cartón Contenido del embalaje Funda de transporte: Si Cables incluidos: USB Tipo C Accesorios incluidos en el set: Almohadillas de silicona en tres tamaños
+  Updated: 2025-10-21T19:59:01Z
+  Vendor: PHILIPS
+  Product Type: Todos los auriculares
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/auricular-bt-philips-tat2206wt-in-ear-blancos.jpg?v=1761076739
+  Price: 43,99 € EUR
 - [Philips TAH8506WT/00 - Auriculares Bluetooth con ANC Blancos](https://hifimediastore.com/products/philips-tah8506wt-00-auriculares-bluetooth-con-anc-blancos): Diseño elegante con reducción de ruido Pro Estos ligeros auriculares inalámbricos no solo tienen un aspecto fantástico, sino que también te permiten centrarte en lo que quieres escuchar. La tecnología avanzada de reducción de ruido filtra los ruidos no deseados de tu entorno. Y el modo de conciencia del exterior te permite volver a tener contacto con el mundo cuando quieras. Gran sonido gracias a los altavoces de 40 mm Los altavoces perfectamente ajustados de 40 mm ofrecen gran cantidad de detalles y graves para cada canción o podcast. Incluso puedes utilizar el cable incluido para conectarte y disfrutar de los archivos de audio de alta resolución disponibles en tu servicio de transmisión favorito. Y cuando no los estés usando, la atractiva funda rígida protege los auriculares. Bluetooth multipunto. Conecta varios dispositivos Puedes ver una película en tu tableta y atender una llamada del teléfono. Con la conectividad Bluetooth multipunto, puedes conectar hasta dos dispositivos inteligentes a estos auriculares simultáneamente y cambiar entre ellos como quieras. Hasta 60 horas de reproducción Con la reducción de ruido desactivada, podrás disfrutar de hasta 60 horas de música, podcasts y mucho más. Con la reducción de ruido activada, hasta 45 horas. Una carga completa tarda 2 horas y, si necesitas acelerarlo, puedes conseguir 5 horas adicionales con una carga rápida de 15 minutos. Control táctil bajo tu control. Activa o desactiva la función táctil Los controles táctiles te permiten controlar tu música y tus llamadas. ¿No quieres activar accidentalmente un control cuando estás concentrado en tus canciones o podcasts? Puedes activar y desactivar los controles táctiles mediante la aplicación. Aplicación Philips Headphones. Sonido personalizado y mucho más La aplicación Philips Headphones te pone al mando de la música que estás escuchando. Ajusta los niveles tú mismo o elige entre los estilos de sonido predeterminados. También puedes usar la aplicación para cambiar entre los modos de reducción de ruido presintonizados. Especificaciones: Desempeño Tipo de producto: Auriculares Estilo de uso: Diadema Uso recomendado: Llamadas/Música Color del producto: Blanco Tipo de controles: On-ear control unit Tipo de control: Botones, Tocar Dispone de Plegable Dispone de Cable extraíble Dispone de Funciona con el Asistente de Google Dispone de Funciona con Apple Siri Puertos e Interfaces Tecnología de conectividad: Inalámbrico Dispone de Conexión USB Conector USB: USB Tipo C Dispone de Bluetooth Perfiles de Bluetooth: A2DP, AVRCP, HFP Versión de Bluetooth: 5.0 Alcance inalámbrico: 10 m Auriculares Audífonos: Circumaural Potencia máxima de entrada: 30 mW Sistema acústico: abrir Frecuencia de auricular: 7 - 40000 Hz Obstrucción: 32 Ohmios Sensibilidad de auricular: 105 dB Unidad de disco: 4 cm Tipo de controlador: Dinámico Micrófono Tipo de micrófono: Integrado número de micrófonos: 4 Dispone de Cancelación híbrida de ruido Dispone de Cancelación de ruido del micrófono Batería Dispone de Batería Tipo de batería: Batería integrada Tecnología de batería: Polímero de litio Autonomía: 60 h Capacidad de batería: 800 mAh Autonomía en reproducción continua de audio (ANC on): 45 h Autonomía en reproducción continua de audio (ANC off): 60 h Tiempo de conversación: 45 h Tiempo de recarga de la batería: 2 h Dispone de Carga rápida Numero de baterías soportadas: 1 Peso y dimensiones Ancho: 185 mm Profundidad: 45 mm Altura: 205 mm Peso: 279 g Empaquetado Ancho del paquete: 192 mm Profundidad del paquete: 72 mm Altura del paquete: 255 mm Peso del paquete: 506 g Contenido del embalaje Dispone de Guía de configuración rápida Dispone de Funda de transporte Cables incluidos: Audio (2.5mm to 3.5mm), USB Tipo C
   Updated: 2025-08-29T15:54:20Z
   Vendor: PHILIPS
@@ -5728,6 +5742,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/981-000512_e4a6003f-9bf6-4adf-a822-c54933bc60a1.jpg?v=1756461426
   Price: 188,99 € EUR
+- [AirPods Pro 2ª Generación - Auriculares con Estuche de Carga Inalámbrica USB-C Blancos](https://hifimediastore.com/products/airpods-pro-2ª-generacion-auriculares-con-estuche-de-carga-inalambrica-usb-c-blancos): AirPods Pro 2ª Generación. Oye bien: la cancelación activa de ruido es hasta dos veces superior. El modo de sonido ambiente te mantiene en contacto con el mundo, mientras que el nuevo audio adaptativo ajusta el control de ruido a tu entorno. El audio espacial te lleva a otra dimensión en una experiencia inmersiva. Y todo sin parar durante las 6 horas de autonomía que te da una sola carga. Justo lo que querías escuchar. Características: H2 y tú. El epicentro del mejor sonido. El chip H2 diseñado por Apple es el secreto mejor guardado de los AirPods Pro y el responsable de que la calidad de audio sea sublime. Trabaja en sintonía con un amplificador y un transductor hechos a medida para ofrecer agudos brillantes, graves profundos y una definición espectacular. Escucha cada sonido con una precisión inaudita, sea en el tono que sea. Me vas a oír. Los AirPods Pro con chip H2 ahora incorporan audio adaptativo, que ajusta las voces y sonidos según dónde estás y da prioridad a lo que requiere tu atención. Esta tecnología combina la cancelación activa de ruido con el modo de sonido ambiente para que escuches alto y claro solo lo que importa en cada momento. Si haces oídos sordos, será porque quieres. Un mayor nivel de control. El control táctil incorpora las funciones de reproducción en la parte alargada del auricular. Desliza hacia arriba o hacia abajo para ajustar el volumen, presiona una vez para reproducir música, pausarla o activar y desactivar el micro durante una llamada. Presiona dos veces para colgar. Y si quieres pasar de un modo de escucha a otro, solo tienes que mantenerlo pulsado. Así de fácil. Tu sonido y tú en la misma onda. Los AirPods Pro te llevarán a un mundo tuyo y solo tuyo. El audio espacial personalizado con seguimiento dinámico de la cabeza se alía con todos tus dispositivos y ofrece un sonido más envolvente. La ecualización adaptativa tiene en cuenta el ajuste de los AirPods Pro y hace que escuches cada frecuencia como se merece. Que vibres con cada onda. Que cada nota sea digna de ovación. Estuche y autonomía. Destapa el poder. El estuche de carga MagSafe4 viene repleto de prestaciones para que vayas con tu música a todas partes. Su diseño actualizado te ayudará a localizarlo, y el plus de autonomía te da más horas de escucha entre cargas. Destápalo. Siempre trae premio. Los AirPods Pro y el estuche de carga MagSafe4 tienen una calificación IP54 de resistencia al polvo, el agua y el sudor. Una experiencia mágica Simplicidad a gran escala. La configuración instantánea y la compati­bilidad con Siri hacen que a los AirPods Pro la magia les venga de familia. Y otras prestaciones permiten pasar de unas tareas a otras con una facilidad sin precedentes. Especificaciones: Tecnología de sonido Transductor a medida de alta excursión de Apple Amplificador a medida de alto rango dinámico Audio adaptativo Cancelación activa de ruido Modo de sonido ambiente Detección de conversación Volumen Personalizado Reducción de ruidos fuertes Compensación de presión mediante un sistema de ranuras Audio espacial personalizado con seguimiento dinámico de la cabeza Ecualización adaptativa Sensores Dos micrófonos con tecnología beamforming Micrófono orientado hacia dentro Sensor de piel Acelerómetro con detección de movimiento Acelerómetro con detección de voz Control táctil Chip Chip H2 de Apple para auriculares Chip U1 de Apple en el estuche de carga MagSafe (USB C) Controles Pulsa una vez para reproducir audio, ponerlo en pausa o responder una llamada Pulsa una vez para responder una llamada o activar y desactivar el micro Pulsa dos veces para colgar Pulsa dos veces para pasar a la canción siguiente Pulsa tres veces para volver a la canción anterior Mantén pulsado para cambiar de modo de escucha Desliza hacia arriba o hacia abajo para ajustar el volumen Di «Oye Siri» para escuchar una canción, hacer una llamada, obtener indicaciones y mucho más Resistencia al polvo, el sudor y el agua Los AirPods Pro y el estuche de carga son resistentes al polvo, el sudor y el agua (IP54) Dimensiones y peso (cada uno) Auricular Alto: 3,09 cm Ancho: 2,18 cm Grosor: 2,4 cm Peso: 5,3 g MagSafe Case Alto: 4,52 cm Ancho: 6,06 cm Grosor: 2,1 cm Peso: 50,7 g Estuche de Carga Compatible con el cargador MagSafe, el cargador del Apple Watch, cargadores con certificación Qi y el conector USB C Autonomía AirPods Pro Hasta 6 horas de reproducción de audio con una sola carga (hasta 5,5 horas si está activado el audio espacial con seguimiento dinámico de la cabeza)5 Hasta 4,5 horas de conversación con una sola carga AirPods Pro con estuche de carga MagSafe (USB C) Hasta 30 horas de reproducción de audio Hasta 24 horas de conversación 5 minutos en el estuche te dan aproximadamente 1 hora de reproducción de audio o 1 hora de conversación Conectividad Tecnología inalámbrica Bluetooth 5.3 Contenido de la caja AirPods Pro Estuche de carga MagSafe (USB C) con altavoz y enganche para correa Almohadillas de silicona (cuatro tamaños: XS, S, M y L) Cable de carga USB C Documentación Requisitos Modelos de iPhone y iPod touch con la última versión de iOS Modelos de iPad con la última versión de iPadOS Modelos de Apple Watch con la última versión de watchOS Modelos de Mac con la última versión de macOS Modelos de Apple TV con la última versión de tvOS
+  Updated: 2025-10-21T19:55:26Z
+  Vendor: APPLE
+  Product Type: Todos los auriculares
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/auriculares-bluetooth-apple-airpods-pro-2nd-usb-c-estuche-de-carga-magsafe.jpg?v=1761076525
+  Price: 298,99 € EUR
 - [Apple Beats Solo Buds - Auriculares Intraurales Bluetooth Negro mate](https://hifimediastore.com/products/apple-beats-solo-buds-auriculares-intraurales-bluetooth-negro-mate): Una potencia que va más allá Estos auriculares intraurales son pequeños pero de gran potencia y ofrecen un sonido alucinante, todo ello en el estuche más diminuto que jamás hemos creado.- Plataforma acústica totalmente personalizada- Boquillas acústicas angulares con un diseño ergonómico para un ajuste natural- Compatibilidad con iOS y Android que incluye el enlace con un toque Diseño centrado en la música Gracias a su ajuste equilibrado y nítido, puedes disfrutar de todos los matices de tu música favorita, con claridad y una nitidez y potencia que no imaginas, además de una reproducción de graves precisa. Transductores de doble capa diseñados específicamente Cada auricular intraural cuenta con transductores de doble capa diseñados para reducir las microdistorsiones de la curva de frecuencia y colocados a conciencia en paralelo a cada boquilla acústica para que el sonido llegue directamente a tus oídos. Orificios perforados con láser Nos hemos mantenido fieles a nuestro enfoque centrado en la música y hemos diseñado los orificios perforados con láser de los auriculares intraurales para que mejoren el rendimiento de los tonos graves y reduzcan ligeramente la presión del aire a fin de aumentar la comodidad. Almohadillas en cuatro tamaños Con el fin de optimizar la comodidad y la supresión pasiva del ruido para distintos tipos y formas de orejas, los Beats Solo Buds ofrecen almohadillas en cuatro tamaños: L, M, S y XS. Compatible con iOS y Android Los Beats Solo Buds están listos para enlazarlos con tu dispositivo Apple o Android sin necesidad de ajustes. Gracias a esta compatibilidad nativa, todo el mundo podrá disfrutar del enlace con un toque, el enlace automático entre tus dispositivos y las prestaciones Buscar o Buscar mi dispositivo. Llamadas nítidas y Bluetooth® de clase 1 Cada auricular dispone de un micrófono diseñado a medida que cuenta con un algoritmo avanzado de aprendizaje de ruidos para que la calidad de las llamadas sea excepcional. Disfruta de un rango extendido con menos interrupciones de sonido gracias al Bluetooth® de clase 1 líder del sector. Especificaciones: Desempeño Tipo de producto: Auriculares Estilo de uso: Dentro de oído Uso recomendado: Llamadas/Música Color del producto: Negro Tipo de auricular: Binaural Puertos e Interfaces Tecnología de conectividad: True Wireless Stereo (TWS) Dispone de Bluetooth Auriculares Audífonos: Intraaural Micrófono Tipo de micrófono: Integrado Batería Dispone de Batería Tipo de batería: Batería integrada Tecnología de batería: Ión de litio Fuente de carga: USB Requisitos del sistema Sistemas operativos móviles soportados: Android, iOS Peso y dimensiones Ancho: 18,5 mm Profundidad: 20,5 mm Altura: 19 mm Peso: 33,4 g Peso de auricular izquierdo: 5,7 g Peso de auricular derecho: 5,7 g Dimensiones de funda de carga (Ancho x Largo x Alto): 35 x 66 x 24 mm Estuche de carga: 22 g
   Updated: 2025-08-29T15:54:21Z
   Vendor: APPLE
@@ -5819,6 +5840,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/hyperx-auriculares-gaming-cloud-stinger-2-core-ps-blancos_500db509-a110-4842-b732-bdce174bc429.jpg?v=1756312196
   Price: 41,99 € EUR
+- [JBL Wave 200 TWS - Auriculares Intraurales Bluetooth Blancos](https://hifimediastore.com/products/jbl-wave-200-tws-auriculares-intraurales-bluetooth-blancos): Mejora tu rutina con tu música Potente sonido JBL Deep Bass y toda la libertad de la tecnología True Wireless hasta 20 horas con JBL Wave 200TWS. Lleva tu mundo siempre contigo. Con solo un toque del auricular, podrás gestionar tus llamadas, tu música y tu asistente de voz. Con la conexión dual puedes utilizar cualquiera de los auriculares y ahorrar batería. El JBL Wave 200TWS, ultraligero, cómodo y ergonómico, es divertido y está listo para usar. Características: 20 horas de reproducción combinada. Con 5 horas en los auriculares y 15 horas en el estuche, el JBL Wave 200TWS se para solo cuando lo haces tú. Cuando necesites una carga rápida, puedes disfrutar de otra hora más de batería con tan solo 15 minutos, o 2 horas para una carga completa. Un oído o los dos. Ahora puede atender llamadas o escuchar música con cualquiera de los dos auriculares (o ambos), con tecnología de doble conexión. Elige cuál utilizar y deja el otro en el estuche para ahorrar batería. Sonido JBL Deep Bass. La música suena mejor con JBL. Y tu día también. Siente los graves profundos de los amplificadores de 8 mm y añade diversión a tu rutina. Especificaciones: Desempeño Tipo de producto: Auriculares Estilo de uso: Dentro de oído Uso recomendado: Música Tipo de auricular: Binaural Color del producto: Blanco Retroiluminación: No Indicadores LED: Si Funciona con el Asistente de Google: No Funciona con Apple Siri: No Funciona con Amazon Alexa: No Puertos e Interfaces Tecnología de conectividad: Inalámbrico Bluetooth: Si Perfiles de Bluetooth: A2DP, AVRCP, HFP Versión de Bluetooth: 5.0 Frecuencia de banda: 2.4 - 2.4835 GHz Auriculares Frecuencia de auricular: 20 - 20000 Hz Obstrucción: 16 ohmios Sensibilidad de auricular: 108 dB Unidad de disco: 8 mm Tipo de controlador: Dinámico Micrófono Tipo de micrófono: Integrado Sensibilidad de micrófono: -38 dB Micrófono extraíble: No Batería Autonomía: 20 h Capacidad de batería: 70 mAh Autonomía en llamadas (con estuche de carga): 20 h Tiempo de conversación: 20 h Tiempo de carga rápida: 120 min Numero de baterías soportadas: 1 Peso y dimensiones Peso: 48 g Empaquetado Ancho del paquete: 85 mm Profundidad del paquete: 120 mm Altura del paquete: 30 mm Peso del paquete: 116 g
+  Updated: 2025-10-21T19:53:10Z
+  Vendor: JBL
+  Product Type: Todos los auriculares
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/auriculares-inalambricos-jbl-wave-200-color-blanco.jpg?v=1761076388
+  Price: 54,99 € EUR
 - [JBL Tune 510BT - Auriculares Inalámbricos Negros](https://hifimediastore.com/products/jbl-tune-510bt-auriculares-inalambricos-negros): Los auriculares JBL Tune 510BT te permiten disfrutar del potente sonido JBL Pure Bass sin nada que te ate. Fáciles de usar, estos auriculares te ofrecen hasta 40 horas de puro placer y 2 horas más de música con tan solo 5 minutos de carga con el cable USB-C. Si mientras ves un vídeo en otro dispositivo entra una llamada, los auriculares JBL Tune 510BT cambian a tu móvil sin ningún problema. Con Bluetooth 5.0 habilitado y diseñados para ser cómodos, los auriculares JBL Tune 510BT también te permiten conectarte a Siri o Google sin usar tu dispositivo móvil. Disponibles en distintos colores y plegables para un transporte sencillo, los auriculares JBL 510BT son una solución fácil para llevar la música a todos los aspectos de tu vida diaria. Características: Sonido JBL Pure Bass: Los auriculares cuentan con el reconocido sonido JBL Pure Bass, presente en las salas de conciertos más famosas de todo el mundo. Transmisión inalámbrica por Bluetooth 5.0: Transmite sonido de gran calidad desde tu móvil de forma inalámbrica, sin ataduras de cables. Hasta 40 horas de autonomía y carga rápida (5 min = 2 horas): Para una diversión más duradera, disfruta de 40 horas de audio inalámbrico y recarga en tan solo 2 horas con el cable USB-C. Con una carga rápida de 5 minutos podrás volver a disfrutar de 2 horas más de música. Conexión multipunto: Te permite cambiar sin esfuerzo de un dispositivo Bluetooth a otro. Puedes cambiar de manera fácil de un vídeo en tu tableta a una llamada en tu móvil, para no perderte ninguna. Llamadas manos libres: Controla la música y las llamadas fácilmente con los botones de los auriculares. Ligeros, cómodos y con diseño plegable: Los materiales ligeros y las suaves almohadillas con banda de sujeción acolchada hacen que los auriculares sean cómodos durante largos períodos. Su diseño plegable te permite llevar tus auriculares siempre y cuando quieras música. Pregunta a Siri o al Asistente de Google: Siri o el Asistente de Google están solo a un botón de distancia. Activa el asistente de voz de tu dispositivo con solo presionar el botón multifunción. Especificaciones: Desempeño Tipo de producto: Auriculares Estilo de uso: Diadema Color del producto: Negro Puertos e Interfaces Tecnología de conectividad: Inalámbrico Conector de 3,5 mm: No Conexión USB: No Bluetooth: Si Perfiles de Bluetooth: A2DP, AVRCP, HFP Versión de Bluetooth: 5.0 Frecuencia de banda: 2.4 – 2.4835 Auriculares Audífonos: Circumaural Frecuencia de auricular: 20 - 20000 Hz Obstrucción: 32 ? Sensibilidad de auricular: 103,5 dB Unidad de disco: 3,2 cm Micrófono Tipo de micrófono: Integrado Sensibilidad de micrófono: -29 dB Batería Batería: Si Tipo de batería: Batería integrada Tecnología de batería: Ión de litio Capacidad de batería: 450 mAh Tensión de entrada (auriculares): 5 V Corriente de entrada (auriculares): 1 A Tiempo continuo de reproducción de audio: 40 h Tiempo de recarga de la batería: 2 h Voltaje de la pila: 3,7 V Fuente de carga: USB Peso y dimensiones Peso: 160 g Contenido del embalaje Base de carga: No Tarjeta de garantía: Si Cables incluidos: USB Tipo C
   Updated: 2025-08-29T15:54:21Z
   Vendor: JBL
@@ -6002,11 +6030,11 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/steelseries-arctis-nova-1-czarne_ab87f00c-25cb-4d5a-bbc5-67039d299dad.jpg?v=1756312515
   Price: 106,99 € EUR
 - [Talius EA-1004BT - Auriculares Bluetooth Deportivos con LED Rosas](https://hifimediastore.com/products/talius-ea-1004bt-auriculares-bluetooth-deportivos-con-led-rosas): Ya no tienes excusas para hacer deporte. Con los auriculares Bluetooth EA-1004BT de Talius tendrás total libertad de movimiento mientras corres, y al mismo tiempo estarás escuchando tu música favorita de manera inalámbrica. Y no sólo te dan libertad de movimiento por ser Bluetooth y colocar su único cable detrás del cuello. Su agarre ergonómico y sus ganchos aurales consiguen fijar los auriculares extraordinariamente y con gran comodidad, te olvidarás de que los llevas puestos. Pero los EA-1004BT de Talius esconden una sorpresa más, algo muy llamativo. Su cable que conecta un auricular con el otro es LED, y se ilumina al ritmo de tu música... Súmale controles de reproducción y volumen, autonomía de 3 horas y la calidad que proporciona el standard de Bluetooth CRS4.0, con gran calidad de audio, y estarás ante unos auriculares perfectos para ejercer deporte con total libertad, con 3 colores disponibles para iluminar tu ritmo. Características: Auriculares intrauditivos Bluetooth CSR 4.0 Alcance Bluetooth de 8 metros Con micrófono y control de volumen (Función manos libres) Autonomía de hasta 3 horas Diámetro del altavoz: 10 mm Impedancia: 16 Ohmnios Frecuencia de respuesta: 20Hz-20KHz Conector Micro USB Especificaciones: Puertos e Interfaces Tecnología de conectividad: Inalámbrico Conector de 3,5 mm: No Conector de 2,5 mm: No Conexión USB: Si Bluetooth: Si Conector USB: MicroUSB Versión de Bluetooth: 4.0 Alcance inalámbrico: 8 m Micrófono Efecto de cancelación de ruido: No Auriculares Audífonos: Intraaural Frecuencia de auricular: 20 - 20000 Hz Obstrucción: 16 ohm Unidad de disco: 1 cm Indicación Indicadores LED: Si Batería Batería: Si Tipo de batería: Batería integrada Recargable: Si Autonomía: 3 h Diseño Tipo de auricular: Binaural Estilo de uso: Dentro de oído Color del producto: Negro, Rosa Diseñado para actividades deportivas: Si Control de volumen: Digital Acorde RoHS: Si Certificación: FCC, CE, CB
-  Updated: 2025-08-30T15:54:36Z
+  Updated: 2025-10-21T19:50:56Z
   Vendor: TALIUS
   Product Type: Todos los auriculares
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/talius-intrauricular-ea-1004bt-sport-blu_312160_7_7f41cdfa-2424-4874-be84-f6b5bee5a4a5.jpg?v=1756565859
+  Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/talius-intrauricular-sport-tal-ea1004bt-bluetooth-led-pink.jpg?v=1761076253
   Price: 25,99 € EUR
 - [Trust GXT 498 Forta - Auriculares Gaming Negros para PS5](https://hifimediastore.com/products/trust-gxt-498-forta-auriculares-gaming-negros-para-ps5): Con licencia para ganar. Disfruta más de tus juegos con estos auriculares GXT 498 Forta con licencia oficial para la PS5™. No solo han sido diseñados para funcionar a la perfección con tu PlayStation®, sino que además van a juego con ella. ¿A qué molan? Características: Una opción limpia y ecológica: Protege el planeta en la realidad virtual y en la vida real con tus nuevos auriculares. Están fabricados un 35 % de plásticos reciclados, por lo que son la mejor manera de combatir el cambio climático. Ponte cómodo: Olvídate de los auriculares que oprimen la cabeza. La diadema acolchada, los auriculares móviles y las suaves almohadillas te harán sentir tan bien como tras tu primera victoria. Sube el volumen: Suenan tan bien que podrás jugar con los ojos cerrados. Los potentes controladores de 50 milímetros y el audio 3D de la PS5™ te sitúan directamente en el centro de la acción, justo donde tienes que estar. Alto y claro: ¿Te apetece charlar? Expresa tus emociones a través del versátil micrófono extraíble. ¿No estás de humor? No pasa nada. Simplemente, desconecta el micrófono y listo. Tú estás al mando: La hora de jugar es para ti, así que haz las cosas a tu manera: el control del volumen en el auricular y el micrófono con silenciador te permiten oír y que te oigan solo cuando tú quieres, mientras que el cable extraíble de 3,5 milímetros y 1,2 metros de longitud te ayuda a conectarte fácilmente a la PS4™, la PS5™ o al ordenador*. ¡Que empiece el juego! *Compatibilidad con el ordenador no probada ni avalada por Sony Interactive Entertainment «PlayStation» y «PS5» son marcas registradas o marcas comerciales de Sony Interactive Entertainment Inc. Todos los derechos reservados. Especificaciones: Desempeño Tipo de producto: Auriculares Estilo de uso: Diadema Uso recomendado: Juego Tipo de auricular: Binaural Color del producto: Negro Teclas de funcionamiento: Silencio, Volumen +, Volume - Control de volumen: Giratorio Tipo de controles: On-ear control unit Tipo de control: Botones, Giratorio Longitud de cable: 1,2 m Color del cable: Negro Nivel de presión sonora (Max): 100 dB Diadema ajustable: Si Material de la carcasa: Acrilonitrilo butadieno estireno (ABS) Productos compatibles: PlayStation 4, PlayStation 4 Original, PlayStation 4 Pro, PlayStation 4 Slim, PlayStation 5, PlayStation 5 Digital Puertos e Interfaces Tecnología de conectividad: Alámbrico Conector de 3,5 mm: Si Bluetooth: No Auriculares Audífonos: Circumaural Sistema acústico: Cerrado Frecuencia de auricular: 20 - 20000 Hz Obstrucción: 32 Ohmios Sensibilidad de auricular: 90 dB Tipo de imán: Neodimio Unidad de disco: 5 cm Número de dispositivos: 2 THD, distorsión armónica total: 1% Micrófono Tipo de micrófono: Boom Frecuencia de micrófono: 100 - 17000 Hz Micrófono: 3,5 mm Tipo de dirección de micrófono: Omnidireccional Micrófono extraíble: Si número de micrófonos: 1 Micrófono mudo: Si Sostenibilidad Cumplimiento de sostenibilidad: Si Certificados de sostenibilidad: SCS Product Category Rule (PCR) Peso y dimensiones Ancho: 165 mm Profundidad: 83 mm Altura: 205 mm Peso: 253 g Contenido del embalaje Guía de configuración rápida: Si Cables incluidos: Audio (3,5mm) Almohadillas para oídos: Si Material de la almohadilla: Imitación piel Cantidad: 1 Detalles técnicos Material reciclado: Si Porcentaje de material reciclado: 35% Otras características Canales de salida de audio: 2.0 canales
   Updated: 2025-08-31T15:54:57Z
@@ -8571,37 +8599,37 @@
   Updated: 2025-06-22T07:51:28Z
   Total Products: 0
 - [Best Selling Products](https://hifimediastore.com/collections/best-selling-products)
-  Updated: 2025-10-21T01:03:46Z
+  Updated: 2025-10-21T19:59:27Z
   Total Products: 5482
 - [Newest Products](https://hifimediastore.com/collections/newest-products)
-  Updated: 2025-10-21T01:03:46Z
+  Updated: 2025-10-21T19:59:27Z
   Total Products: 5482
 - [Altavoces](https://hifimediastore.com/collections/speakers): Explora nuestra gama de altavoces de alta calidad y llévatee la experiencia del festival a casa con nuestros altavoces.
   Updated: 2025-10-10T22:01:24Z
   Total Products: 180
 - [Todos los auriculares](https://hifimediastore.com/collections/all-headphones): No te limites a escuchar música, nuestra selección de auriculares te permitirá ser parte de la música. Tenemos la selección más amplia de auriculares de alto nivel para el audiófilo que hay en todos. Tenemos el equipo de audio perfecto para crear experiencias auditivas inolvidables.
-  Updated: 2025-10-17T08:15:46Z
+  Updated: 2025-10-21T19:47:42Z
   Total Products: 426
 - [Auriculares Bluetooth](https://hifimediastore.com/collections/bluetooth-headphones)
-  Updated: 2025-10-17T08:15:46Z
+  Updated: 2025-10-21T19:47:42Z
   Total Products: 224
 - [Auriculares Gaming](https://hifimediastore.com/collections/gaming-headsets): Sumérgete en la acción de tus videojuegos favoritos con nuestros auriculares para juegos y disfruta de una experiencia única.
-  Updated: 2025-10-16T19:30:39Z
+  Updated: 2025-10-21T19:45:48Z
   Total Products: 177
 - [Auriculares con cable](https://hifimediastore.com/collections/wired-headphones-for-studio-dj)
-  Updated: 2025-10-16T19:30:39Z
+  Updated: 2025-10-21T19:44:48Z
   Total Products: 171
 - [Todos los auriculares intraurales](https://hifimediastore.com/collections/all-earbuds)
-  Updated: 2025-10-21T00:31:36Z
+  Updated: 2025-10-21T19:59:27Z
   Total Products: 465
 - [Auriculares Intraurales Gaming](https://hifimediastore.com/collections/gaming-earbuds): Sumérgete en la acción de tus videojuegos favoritos con nuestros auriculares intraurales gaming y disfruta de una experiencia única.
-  Updated: 2025-10-11T00:51:31Z
+  Updated: 2025-10-21T19:51:39Z
   Total Products: 62
 - [Auriculares Intraurales Bluetooth](https://hifimediastore.com/collections/bluetooth-earbuds)
-  Updated: 2025-10-21T00:31:36Z
+  Updated: 2025-10-21T19:59:27Z
   Total Products: 416
 - [Auriculares Intraurales con ANC](https://hifimediastore.com/collections/earbuds-with-anc): Pon el mundo en pausa. Aíslate del mundo escuchando tu música favorita con nuestros auriculares intraurales con ANC más avanzados.
-  Updated: 2025-10-21T00:31:36Z
+  Updated: 2025-10-21T19:55:27Z
   Total Products: 156
 - [Auriculares de conducción ósea](https://hifimediastore.com/collections/bone-conduction-earphones): Descubre nuestros auriculares de conducción ósea, una tecnología que permite al oyente percibir el contenido de audio sin obstruir el canal auditivo, lo que evita daños en el tímpano.
   Updated: 2025-10-10T23:14:51Z
@@ -8625,11 +8653,11 @@
   Updated: 2025-10-01T11:14:19Z
   Total Products: 64
 - [JBL](https://hifimediastore.com/collections/jbl-2)
-  Updated: 2025-10-10T22:05:52Z
+  Updated: 2025-10-21T19:53:09Z
   Total Products: 22
 - [AVADA - Best Sellers](https://hifimediastore.com/collections/avada-best-sellers)
-  Updated: 2025-10-21T01:16:00Z
-  Total Products: 1439
+  Updated: 2025-10-21T19:59:29Z
+  Total Products: 1443
 - [Intercomunicadores para moto](https://hifimediastore.com/collections/motorcycle-intercoms)
   Updated: 2025-06-22T07:51:29Z
   Total Products: 17
@@ -8745,10 +8773,10 @@
   Updated: 2025-08-25T16:34:07Z
   Total Products: 1
 - [Auriculares Apple](https://hifimediastore.com/collections/auriculares-apple)
-  Updated: 2025-10-18T16:16:21Z
+  Updated: 2025-10-21T19:55:27Z
   Total Products: 46
 - [Apple](https://hifimediastore.com/collections/apple-1)
-  Updated: 2025-10-20T22:20:22Z
+  Updated: 2025-10-21T19:55:27Z
   Total Products: 602
 - [Asus](https://hifimediastore.com/collections/asus)
   Updated: 2025-10-10T23:18:20Z
@@ -8763,28 +8791,28 @@
   Updated: 2025-10-10T23:17:42Z
   Total Products: 8
 - [Jabra](https://hifimediastore.com/collections/jabra)
-  Updated: 2025-10-16T19:29:03Z
+  Updated: 2025-10-21T19:46:58Z
   Total Products: 36
 - [Auriculares Jabra](https://hifimediastore.com/collections/auriculares-jabra)
-  Updated: 2025-10-16T19:29:03Z
+  Updated: 2025-10-21T19:46:58Z
   Total Products: 34
 - [Logitech](https://hifimediastore.com/collections/logitech)
-  Updated: 2025-10-10T22:40:10Z
+  Updated: 2025-10-21T19:37:51Z
   Total Products: 34
 - [Auriculares Logitech](https://hifimediastore.com/collections/auriculares-logitech)
-  Updated: 2025-10-10T22:40:10Z
+  Updated: 2025-10-21T19:37:51Z
   Total Products: 26
 - [Mars Gaming](https://hifimediastore.com/collections/mars-gaming)
-  Updated: 2025-10-16T19:27:12Z
+  Updated: 2025-10-21T19:59:27Z
   Total Products: 28
 - [Auriculares Mars Gaming](https://hifimediastore.com/collections/auriculares-mars-gaming)
-  Updated: 2025-10-16T19:27:12Z
+  Updated: 2025-10-21T19:59:27Z
   Total Products: 24
 - [Philips](https://hifimediastore.com/collections/philips)
-  Updated: 2025-10-10T23:18:08Z
+  Updated: 2025-10-21T19:59:00Z
   Total Products: 31
 - [Auriculares Philips](https://hifimediastore.com/collections/auriculares-philips)
-  Updated: 2025-10-10T23:18:08Z
+  Updated: 2025-10-21T19:59:00Z
   Total Products: 13
 - [Plantronics](https://hifimediastore.com/collections/plantronics)
   Updated: 2025-10-10T23:17:56Z
@@ -8793,16 +8821,16 @@
   Updated: 2025-10-10T23:17:56Z
   Total Products: 1
 - [Sony](https://hifimediastore.com/collections/sony-1)
-  Updated: 2025-10-18T04:11:06Z
+  Updated: 2025-10-21T19:57:17Z
   Total Products: 69
 - [Auriculares Sony](https://hifimediastore.com/collections/auriculares-sony)
-  Updated: 2025-10-18T04:11:06Z
+  Updated: 2025-10-21T19:57:17Z
   Total Products: 30
 - [Spirit of Gamer](https://hifimediastore.com/collections/spirit-of-gamer)
-  Updated: 2025-10-16T19:22:17Z
+  Updated: 2025-10-21T19:34:51Z
   Total Products: 4
 - [Auriculares Spirit of Gamer](https://hifimediastore.com/collections/auriculares-spirit-of-gamer)
-  Updated: 2025-10-16T19:22:17Z
+  Updated: 2025-10-21T19:34:51Z
   Total Products: 4
 - [Xiaomi](https://hifimediastore.com/collections/xiaomi-1)
   Updated: 2025-10-21T01:03:46Z
@@ -8844,10 +8872,10 @@
   Updated: 2025-10-10T22:42:00Z
   Total Products: 6
 - [Belkin](https://hifimediastore.com/collections/belkin)
-  Updated: 2025-10-10T23:04:43Z
+  Updated: 2025-10-21T19:47:26Z
   Total Products: 22
 - [Auriculares Belkin](https://hifimediastore.com/collections/auriculares-belkin)
-  Updated: 2025-10-10T23:04:43Z
+  Updated: 2025-10-21T19:47:26Z
   Total Products: 22
 - [Blade](https://hifimediastore.com/collections/blade)
   Updated: 2025-10-16T19:30:39Z
@@ -8856,10 +8884,10 @@
   Updated: 2025-10-16T19:30:39Z
   Total Products: 7
 - [Celly](https://hifimediastore.com/collections/celly)
-  Updated: 2025-10-10T22:49:23Z
+  Updated: 2025-10-21T19:53:39Z
   Total Products: 19
 - [Auriculares Celly](https://hifimediastore.com/collections/auriculares-celly)
-  Updated: 2025-10-10T22:49:23Z
+  Updated: 2025-10-21T19:53:39Z
   Total Products: 14
 - [Conceptronic](https://hifimediastore.com/collections/conceptronic)
   Updated: 2025-10-10T22:19:49Z
@@ -8880,10 +8908,10 @@
   Updated: 2025-10-16T19:30:28Z
   Total Products: 2
 - [Creative Labs](https://hifimediastore.com/collections/creative-labs)
-  Updated: 2025-10-16T19:24:29Z
+  Updated: 2025-10-21T19:36:02Z
   Total Products: 16
 - [Auriculares Creative Labs](https://hifimediastore.com/collections/auriculares-creative-labs)
-  Updated: 2025-10-16T19:24:29Z
+  Updated: 2025-10-21T19:36:02Z
   Total Products: 7
 - [Deepgaming](https://hifimediastore.com/collections/deepgaming)
   Updated: 2025-06-22T07:51:35Z
@@ -8892,10 +8920,10 @@
   Updated: 2025-08-27T14:03:22Z
   Total Products: 2
 - [Dell](https://hifimediastore.com/collections/dell)
-  Updated: 2025-10-16T19:30:11Z
+  Updated: 2025-10-21T19:47:23Z
   Total Products: 5
 - [Auriculares Dell](https://hifimediastore.com/collections/auriculares-dell)
-  Updated: 2025-10-16T19:30:11Z
+  Updated: 2025-10-21T19:47:23Z
   Total Products: 5
 - [Denver](https://hifimediastore.com/collections/denver)
   Updated: 2025-10-10T22:50:08Z
@@ -8916,10 +8944,10 @@
   Updated: 2025-10-10T22:36:14Z
   Total Products: 4
 - [HP](https://hifimediastore.com/collections/hp)
-  Updated: 2025-10-16T19:28:47Z
+  Updated: 2025-10-21T19:51:33Z
   Total Products: 43
 - [Auriculares HP](https://hifimediastore.com/collections/auriculares-hp)
-  Updated: 2025-10-16T19:28:47Z
+  Updated: 2025-10-21T19:51:33Z
   Total Products: 42
 - [Auriculares Huawei](https://hifimediastore.com/collections/auriculares-huawei)
   Updated: 2025-10-20T21:07:42Z
@@ -8928,10 +8956,10 @@
   Updated: 2025-10-20T21:07:42Z
   Total Products: 170
 - [HyperX](https://hifimediastore.com/collections/hyperx)
-  Updated: 2025-10-16T19:27:36Z
+  Updated: 2025-10-21T19:45:48Z
   Total Products: 28
 - [Auriculares HyperX](https://hifimediastore.com/collections/auriculares-hyperx)
-  Updated: 2025-10-16T19:27:36Z
+  Updated: 2025-10-21T19:45:48Z
   Total Products: 27
 - [Keep Out](https://hifimediastore.com/collections/keep-out)
   Updated: 2025-08-31T13:38:33Z
@@ -8940,10 +8968,10 @@
   Updated: 2025-08-31T13:38:33Z
   Total Products: 5
 - [Kensington](https://hifimediastore.com/collections/kensington)
-  Updated: 2025-10-10T22:20:12Z
+  Updated: 2025-10-21T19:43:04Z
   Total Products: 3
 - [Auriculares Kensington](https://hifimediastore.com/collections/auriculares-kensington)
-  Updated: 2025-10-10T22:20:12Z
+  Updated: 2025-10-21T19:43:04Z
   Total Products: 3
 - [Krom](https://hifimediastore.com/collections/krom)
   Updated: 2025-08-31T12:20:56Z
@@ -8952,13 +8980,13 @@
   Updated: 2025-08-31T12:20:56Z
   Total Products: 4
 - [Teléfonos móviles y accesorios en Hi-Fi Media Store](https://hifimediastore.com/collections/todos-los-productos): Somos especialistas en teléfonos móviles y accesorios. En Hi-Fi Media Store encontrarás una gran variedad de productos de las mejores marcas.
-  Updated: 2025-10-21T01:03:46Z
+  Updated: 2025-10-21T19:59:27Z
   Total Products: 5481
 - [Lindy](https://hifimediastore.com/collections/lindy)
-  Updated: 2025-10-10T23:08:17Z
+  Updated: 2025-10-21T19:39:27Z
   Total Products: 4
 - [Auriculares Lindy](https://hifimediastore.com/collections/auriculares-lindy)
-  Updated: 2025-10-10T23:08:17Z
+  Updated: 2025-10-21T19:39:27Z
   Total Products: 4
 - [Microsoft](https://hifimediastore.com/collections/microsoft-1)
   Updated: 2025-10-11T23:26:18Z
@@ -9009,8 +9037,8 @@
   Updated: 2025-10-10T22:47:39Z
   Total Products: 3
 - [OrderlyEmails - Recommended Products](https://hifimediastore.com/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-10-21T01:16:00Z
-  Total Products: 1442
+  Updated: 2025-10-21T19:59:29Z
+  Total Products: 1446
 - [Razer](https://hifimediastore.com/collections/razer)
   Updated: 2025-10-16T19:26:34Z
   Total Products: 24
@@ -9042,10 +9070,10 @@
   Updated: 2025-08-31T11:42:58Z
   Total Products: 4
 - [Trust](https://hifimediastore.com/collections/trust)
-  Updated: 2025-10-16T19:21:45Z
+  Updated: 2025-10-21T19:57:10Z
   Total Products: 14
 - [Auriculares Trust](https://hifimediastore.com/collections/auriculares-trust)
-  Updated: 2025-10-16T19:21:45Z
+  Updated: 2025-10-21T19:57:10Z
   Total Products: 5
 - [Urban Factory](https://hifimediastore.com/collections/urban-factory)
   Updated: 2025-08-31T11:36:22Z
@@ -9054,10 +9082,10 @@
   Updated: 2025-08-31T11:36:22Z
   Total Products: 6
 - [V7](https://hifimediastore.com/collections/v7)
-  Updated: 2025-10-16T19:26:00Z
+  Updated: 2025-10-21T19:36:54Z
   Total Products: 4
 - [Auriculares V7](https://hifimediastore.com/collections/auriculares-v7)
-  Updated: 2025-10-16T19:26:00Z
+  Updated: 2025-10-21T19:36:54Z
   Total Products: 4
 - [Veho](https://hifimediastore.com/collections/veho)
   Updated: 2025-08-29T10:08:32Z
@@ -9081,7 +9109,7 @@
   Updated: 2025-10-10T22:12:51Z
   Total Products: 1
 - [Auriculares JBL](https://hifimediastore.com/collections/auriculares-jbl)
-  Updated: 2025-10-20T21:51:40Z
+  Updated: 2025-10-21T19:53:09Z
   Total Products: 29
 - [Konix](https://hifimediastore.com/collections/konix)
   Updated: 2025-10-16T19:23:17Z
@@ -9096,10 +9124,10 @@
   Updated: 2025-10-19T05:14:16Z
   Total Products: 11
 - [ZTE](https://hifimediastore.com/collections/zte-1)
-  Updated: 2025-10-17T15:49:03Z
+  Updated: 2025-10-21T19:49:28Z
   Total Products: 14
 - [Auriculares ZTE](https://hifimediastore.com/collections/auriculares-zte)
-  Updated: 2025-10-10T22:08:12Z
+  Updated: 2025-10-21T19:49:28Z
   Total Products: 2
 - [Altavoces portátiles](https://hifimediastore.com/collections/altavoces-portatiles)
   Updated: 2025-10-10T22:01:06Z
@@ -9120,7 +9148,7 @@
   Updated: 2025-10-10T21:50:11Z
   Total Products: 1
 - [Hisense](https://hifimediastore.com/collections/hisense)
-  Updated: 2025-10-10T21:39:50Z
+  Updated: 2025-10-21T19:26:23Z
   Total Products: 7
 - [Torres de Sonido](https://hifimediastore.com/collections/altavoces-de-torre)
   Updated: 2025-10-10T21:55:59Z
@@ -9147,7 +9175,7 @@
   Updated: 2025-10-20T17:34:24Z
   Total Products: 79
 - [IVA 21](https://hifimediastore.com/collections/iva-21)
-  Updated: 2025-10-21T01:03:46Z
+  Updated: 2025-10-21T19:59:27Z
   Total Products: 5112
 - [Tablets Xiaomi](https://hifimediastore.com/collections/tablets-xiaomi)
   Updated: 2025-10-21T00:23:39Z
@@ -9186,7 +9214,7 @@
   Updated: 2025-10-21T00:31:36Z
   Total Products: 14
 - [IVA 21](https://hifimediastore.com/collections/21-iva)
-  Updated: 2025-10-21T00:58:32Z
+  Updated: 2025-10-21T19:59:27Z
   Total Products: 4081
 - [Realme](https://hifimediastore.com/collections/realme-1)
   Updated: 2025-10-20T22:04:54Z
@@ -9195,13 +9223,13 @@
   Updated: 2025-10-10T23:44:01Z
   Total Products: 15
 - [Televisores](https://hifimediastore.com/collections/televisores)
-  Updated: 2025-10-10T21:44:38Z
+  Updated: 2025-10-21T19:33:57Z
   Total Products: 83
 - [Televisores Daewoo](https://hifimediastore.com/collections/televisores-daewoo)
-  Updated: 2025-10-10T21:30:36Z
+  Updated: 2025-10-21T19:33:57Z
   Total Products: 10
 - [Daewoo](https://hifimediastore.com/collections/daewoo)
-  Updated: 2025-10-10T21:30:36Z
+  Updated: 2025-10-21T19:33:57Z
   Total Products: 10
 - [Televisores Engel](https://hifimediastore.com/collections/televisores-engel)
   Updated: 2025-10-10T21:44:38Z
@@ -9210,19 +9238,19 @@
   Updated: 2025-10-10T21:44:38Z
   Total Products: 2
 - [Grundig](https://hifimediastore.com/collections/grundig)
-  Updated: 2025-10-10T21:33:54Z
+  Updated: 2025-10-21T19:30:14Z
   Total Products: 3
 - [Televisores Grundig](https://hifimediastore.com/collections/televisores-grundig)
-  Updated: 2025-10-10T21:33:54Z
+  Updated: 2025-10-21T19:30:14Z
   Total Products: 3
 - [Haier](https://hifimediastore.com/collections/haier)
-  Updated: 2025-06-22T07:51:41Z
+  Updated: 2025-10-21T19:32:35Z
   Total Products: 1
 - [Televisores Haier](https://hifimediastore.com/collections/televisores-haier)
-  Updated: 2025-06-22T07:51:41Z
+  Updated: 2025-10-21T19:32:35Z
   Total Products: 1
 - [Televisores Hisense](https://hifimediastore.com/collections/televisores-hisense)
-  Updated: 2025-10-10T21:39:50Z
+  Updated: 2025-10-21T19:26:23Z
   Total Products: 6
 - [Televisores Sharp](https://hifimediastore.com/collections/televisores-sharp)
   Updated: 2025-10-10T21:40:06Z
@@ -9243,7 +9271,7 @@
   Updated: 2025-08-31T12:05:21Z
   Total Products: 3
 - [Productos para teléfonos móviles y accesorios](https://hifimediastore.com/collections/all): Hi-Fi Media Store: Tu tienda online para teléfonos móviles y accesorios de las mejores marcas. Encuentra smartphones, auriculares inalámbricos y con cable, altavoces y una amplia gama de accesorios para complementar tu experiencia móvil. Compra con seguridad y disfruta de una garantía de satisfacción. Visita nuestra tienda online y descubre un mundo de posibilidades para tu teléfono móvil.
-  Updated: 2025-10-21T01:03:46Z
+  Updated: 2025-10-21T19:59:27Z
   Total Products: 5481
 - [Beats](https://hifimediastore.com/collections/beats)
   Updated: 2025-10-11T22:16:14Z
@@ -9252,13 +9280,13 @@
   Updated: 2025-10-10T21:27:03Z
   Total Products: 2
 - [LG](https://hifimediastore.com/collections/lg-1)
-  Updated: 2025-10-11T23:28:10Z
+  Updated: 2025-10-21T19:13:10Z
   Total Products: 25
 - [Televisores LG](https://hifimediastore.com/collections/televisores-lg)
-  Updated: 2025-10-10T21:27:13Z
+  Updated: 2025-10-21T19:13:10Z
   Total Products: 11
 - [Ultimate Search - Do not delete](https://hifimediastore.com/collections/ultimate-search-do-not-delete): Ultimate Search app uses this temporary collection to fetch best selling items.Please do not delete this collection.If you have removed the app, it is safe to remove this collection.
-  Updated: 2025-10-21T01:03:46Z
+  Updated: 2025-10-21T19:59:27Z
   Total Products: 5481
 - [Nubia](https://hifimediastore.com/collections/nubia)
   Updated: 2025-10-11T22:34:25Z
@@ -9279,7 +9307,7 @@
   Updated: 2025-06-22T07:51:42Z
   Total Products: 0
 - [JBL](https://hifimediastore.com/collections/jbl)
-  Updated: 2025-10-20T21:51:40Z
+  Updated: 2025-10-21T19:53:09Z
   Total Products: 35
 - [Tablets TCL](https://hifimediastore.com/collections/tablets-tcl)
   Updated: 2025-10-18T16:23:39Z
