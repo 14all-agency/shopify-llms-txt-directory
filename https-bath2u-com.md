@@ -6,7 +6,7 @@
 - Timezone: Asia/Kuala_Lumpur
 - Created At: 2022-10-06T05:47:12Z
 - Contact Email: sales@bath2u.com
-- Updated At: 2025-10-20T20:00:33.820Z
+- Updated At: 2025-10-21T08:00:34.394Z
 
 ## Products
 
@@ -1355,7 +1355,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/TAP-010.png?v=1675132444
   Price: RM 350.00 MYR
 - [TAPI 80cm U-Shape Support Rail](https://bath2u.com/products/tapi-80cm-u-shape-support-rail): Specifications : Dimension : 800 L x 80 W x 810 H (ø32 mm) Stainless Steel Matt Finish Max. Loading Weight : 150kg
-  Updated: 2025-03-07T13:12:08Z
+  Updated: 2025-10-21T01:24:32Z
   Vendor: TAPI
   Product Type: Safety Bar
   Availability: Available
