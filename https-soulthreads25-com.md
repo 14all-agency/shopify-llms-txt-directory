@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-07-21T23:17:39Z
 - Contact Email: dustin1986williamson@gmail.com
-- Updated At: 2025-10-21T00:00:33.591Z
+- Updated At: 2025-10-21T08:00:36.136Z
 
 ## Products
 
@@ -10115,7 +10115,7 @@
   Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/affinity-bands-realtree-apx-hdx-airpods-gen-1-2-case-default-title-realtree-airpods-case-cover-for-gen-1-2-apx-hdx-design-37937727865063.jpg?v=1760274849
   Price: $24.99 USD
 - [Realtree Fitbit Watch Band for Versa 3 & Sense 1 - Stylish Accessory](https://soulthreads25.com/products/realtree-fitbit-watch-band-for-versa-3-and-sense-1-stylish-and-durable-accessory): Elevate your style with the Realtree Fitbit Watch Band for Versa 3 and Sense 1. This durable accessory combines fashion and functionality for the perfect look. Shop now!
-  Updated: 2025-10-20T16:05:38Z
+  Updated: 2025-10-21T02:15:51Z
   Vendor: Affinity Bands
   Product Type: Realtree HD Fitbit Watch Band
   Availability: Available
@@ -10151,7 +10151,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/affinity-bands-realtree-hd-apple-band-excape-42-44-45-49mm-46mm-series-10-short-realtree-excape-hd-apple-watch-band-37937728094439.jpg?v=1760274841
     Price: $29.99 USD
 - [Realtree HDX AirPods Gen 3 Case – Ultimate Protection & Style](https://soulthreads25.com/products/realtree-hdx-airpods-gen-3-case-cover-for-maximum-protection): Protect your AirPods in style with our Realtree HDX AirPods Gen 3 Case. Designed for maximum protection and durability, it's the perfect accessory for outdoors enthusiasts.
-  Updated: 2025-10-20T16:05:38Z
+  Updated: 2025-10-21T05:26:03Z
   Vendor: Affinity Bands
   Product Type: Realtree HDX Apple Airpod Gen 3 Case Cover
   Availability: Available
@@ -10705,7 +10705,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/affinity-bands-pickleball-hd-iphone-16-case-love-iphone-16-pro-max-pickleball-iphone-16-mag-safe-case-for-ultimate-protection-and-style-u-hd3am16-pb-37937733468391.jpg?v=1760275297
     Price: $29.99 USD
 - [Realtree Edge HD Watch Band – Stylish and Durable for Apple Watch](https://soulthreads25.com/products/realtree-edge-hd-watch-band-for-apple-watch-durable-and-stylish): Meta Description: Upgrade your Apple Watch with the Realtree Edge HD Watch Band. This durable and stylish band offers a perfect blend of comfort and performance for adventurous lifestyles.
-  Updated: 2025-10-20T23:11:47Z
+  Updated: 2025-10-21T05:26:04Z
   Vendor: Affinity Bands
   Product Type: Realtree HD Apple Band
   Availability: Available
