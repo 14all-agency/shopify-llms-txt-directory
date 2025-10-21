@@ -6,7 +6,7 @@
 - Timezone: America/Denver
 - Created At: 2024-11-01T17:53:57Z
 - Contact Email: sglobalresorts@gmail.com
-- Updated At: 2025-10-21T00:00:37.640Z
+- Updated At: 2025-10-21T16:00:34.080Z
 
 ## Products
 
@@ -5215,7 +5215,7 @@
     Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/7845187339258294579_2048.jpg?v=1754882760
     Price: $61.75 USD
 - [Bluetooth Headphone Comfortable Eye Mask for Music](https://oceanfrontproducts.com/products/bluetooth-headphone): Product call function 2 Bluetooth 5.0 How to head-mounted Music goggles-four core selling points 1. Music playback 2. Bluetooth connection 3. Sleep aid 4.
-  Updated: 2025-10-17T23:45:23Z
+  Updated: 2025-10-21T02:47:17Z
   Vendor: Oceanfront Products
   Product Type: Electronics
   Availability: Available
@@ -5566,7 +5566,7 @@
   Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/1103802844942700088_2048.jpg?v=1736699293
   Price: $21.99 USD
 - [U-Shaped Travel Pillow Neck Scarf for Comfort](https://oceanfrontproducts.com/products/support-collar-u-shaped-pillow-custom-neck-scarf-travel-pillow): Scarf bandanna headband wicks away moisture faster to keep you dry, rock the head / Neck / Wrist to protect skim from the sun or dust in hot days.
-  Updated: 2025-10-17T23:47:10Z
+  Updated: 2025-10-21T02:47:07Z
   Vendor: Oceanfront Products
   Product Type: 
   Availability: Available
@@ -5626,7 +5626,7 @@
     Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/cce9a9e6-15a3-4153-b67d-3643f493a4a9.jpg?v=1736699306
     Price: $125.00 USD
 - [Modyle Gold Color Crystal Heart Bracelets Set](https://oceanfrontproducts.com/products/modyle-gold-color-crystal-wedding-bracelets-set-cz-stone-heart-bracelets-bangles-for-woman): 4 sets of four sets Europe and America Alloy Plating Bracelet women's style heart shape Individually packed Applicable gifts opening ceremony, employee benefits,
-  Updated: 2025-10-17T23:47:32Z
+  Updated: 2025-10-21T02:47:20Z
   Vendor: Oceanfront Products
   Product Type: Accessories
   Availability: Available
@@ -6202,7 +6202,7 @@
     Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/Scd3807fdbdf74218b862a2b6a7ded9dcm.webp?v=1736699577
     Price: $25.00 USD
 - [High-Power Waterproof Bluetooth Speaker for Travel Tech](https://oceanfrontproducts.com/products/high-power-portable-waterproof-wireless-bluetooth-speaker): Type：bluetooth speaker Connection method： Bluetooth connection Interface type / ：USB Battery capacity：1500 Frequency response range：100HZ-20KH Output power：5W Signal to noise ratio： ≥75dB Power supply mode： built-in lithium battery Extended storage：32GB Effective distance：10 meters Function： voice prompt,
-  Updated: 2025-10-17T23:52:13Z
+  Updated: 2025-10-21T02:47:11Z
   Vendor: Oceanfront Products
   Product Type: Electronics
   Availability: Available
@@ -6658,7 +6658,7 @@
     Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/e58-folding-aerial-drone-controller-carrying-case-oceanfront-products-570.webp?v=1754882967
     Price: $128.99 USD
 - [Travel Neck Pillow with Memory Foam for Comfort](https://oceanfrontproducts.com/products/travel-neck-pillow-non-deformed-airplane-pillow-travel-neck-cushion-durable-u-shaped-travel-memory-cotton-nap-neck-pillow): Say Goodbye to Uncomfortable Journeys Whether you're heading off on a long-haul flight or just commuting to work, our TRVL + Pillow has got you covered!
-  Updated: 2025-10-17T23:53:58Z
+  Updated: 2025-10-21T02:47:06Z
   Vendor: Oceanfront Products
   Product Type: 
   Availability: Available
@@ -13444,7 +13444,7 @@
     Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/15314619389957669930_2048_d63a5992-ca72-40d0-a91d-7c3ed74c9fba.jpg?v=1760485028
     Price: $46.99 USD
 - [Adventure Awaits Hoodie](https://oceanfrontproducts.com/products/adventure-awaits-hoodie): Experience the thrill of adventure with this cozy and stylish Hoodie. Perfect for chilly days, this Hoodie features a kangaroo pouch pocket, adjustable hood, and is made from a blend of 50% cotton and 50% polyester for ultimate comfort. This unisex Hoodie is suitable for adults and is ideal for outdoor enthusiasts looking to embrace the spirit of adventure.Product features- 50% cotton, 50% polyester blend for warmth and softness- Adjustable hood with drawstring for a customized fit- Kangaroo pouch pocket for keeping hands warm- Suitable for adults- Ethically and sustainably made with US-grown cottonCare instructions- Tumble dry: medium- Iron, steam or dry: low heat- Do not dryclean- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed
-  Updated: 2025-10-20T19:08:14Z
+  Updated: 2025-10-21T07:07:52Z
   Vendor: Printify
   Product Type: Hoodie
   Availability: Available
@@ -13789,12 +13789,70 @@
   - [Black / 4XL](https://oceanfrontproducts.com/products/adventure-awaits-tee?variant=47208509276408)
     Availability: Available
     Price: $32.99 USD
+- [Oceanfront™ Magic Cleaning Cloth (10-Pack)](https://oceanfrontproducts.com/products/magic-rag-window-cleaning-traceless-cleaning-cloth): Transform your clean routine with Oceanfront™ — the viral streak-free microfiber cloth that leaves glass, mirrors, and counters shining like the sea at sunrise.” Ultra-absorbent Reusable and eco-friendly Zero streaks, zero lint Perfect for glass, stainless steel, and vehicles Product information: Pattern: solid color Color: [thickening] 20*25,[thickening] 30*30,[thickening] 30*40,[thickening] 40*50,[thickening] 50*50,[Thickening] 30*30 3 pairs/bag, [thickening] 30*40 3 pairs/bag, [thickening] 40*50 3 pairs/bag, [Thickening] 30*30 five packs, [thickening] 30*40 five packs, [thickening] 40*50 Five packs, [thickening] 30*30 ten packs, [Thickening] 30*40 ten pieces, [thickening] 40*50 Ten Pieces Function: multifunctional Material: Microfiber Applicable object: kitchen bathroom mirror Packing list: Cleaning cloth×1 Product Image:
+  Updated: 2025-10-21T12:27:48Z
+  Vendor: Oceanfront Products
+  Product Type: Home Decor
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/9316546b-52e8-4e1a-a053-85b475f19122_trans.jpg?v=1761006463
+  Price: $19.99 USD
+- [Oceanfront™ Soft-Life Thermal Sheer Leggings – 220 g Fleece Warmth, Bare-Leg Look ❄️](https://oceanfrontproducts.com/products/fake-translucent-plus-size-leggings-fleece-lined-tights-fall-and-winter-warm-fleece-pantyhose-women-fleece-lined-pantyhose-thermal-winter-tights): Overview: Step into cozy elegance. Our Oceanfront™ Thermal Sheer Leggings keep you warm with ultra-soft fleece while giving the illusion of flawless bare legs. Perfect for winter travel, airport looks, and everyday glam.” Key Features: 220 g thickened fleece for real warmth “Fake translucent” sheer design — slimming effect Stretchy, high-waist comfort fit Ideal for fall & winter outfits, travel, and city strolls Tags: #SoftLife #WinterOutfit #TikTokMadeMeBuyIt #OceanfrontProducts #LeggingsSeason hick cotton leggings. Size Information: Size:220 grams (plus velvet thickening) [suitable for 80-145 Jin], 220 grams (plus size plus velvet thickening) The size is average, 3 kinds thickness ,The middle waist height is 7cm, suitable for height of 155 ~ 175cm and weight of 40 ~ 72.5 kg Packing list: Leggings*1
+  Updated: 2025-10-21T14:07:53Z
+  Vendor: Oceanfront Products
+  Product Type: Apparel
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/f88ba773-7677-42a8-809d-0756ac0ee616.jpg?v=1761012466
+  Price: $24.99 USD
+- [Oceanfront™ TurboCool Mini Handheld Fan — 3-Speed Rechargeable Breeze](https://oceanfrontproducts.com/products/portable-handheld-turbo-fan-cooling-semiconductor-refrigeration-3000mah-battery-wind-speeds-adjustable-mini-personal-fan): Overview: “Instant ocean breeze anywhere 🌊. The Oceanfront™ TurboCool Fan delivers powerful wind speed in a sleek, portable design. Perfect for travel, makeup touch-ups, workouts, and summer adventures.” Key Specs: 3 speed settings Rechargeable USB 180° angle rotation Quiet, bladeless airflow Ideal for travel, gym, or desk
+  Updated: 2025-10-21T15:04:21Z
+  Vendor: Oceanfront Products
+  Product Type: Travel essentials
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/10996ed9-f681-4ad3-bbda-79d2e47043c2.jpg?v=1761015847
+  - [638 Black / 3000 MA](https://oceanfrontproducts.com/products/portable-handheld-turbo-fan-cooling-semiconductor-refrigeration-3000mah-battery-wind-speeds-adjustable-mini-personal-fan?variant=47210158555384)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/595ed38d-f7d1-4678-8cd0-490a70af8c4c.jpg?v=1761015857
+    Price: $24.99 USD
+  - [638 White / 3000 MA](https://oceanfrontproducts.com/products/portable-handheld-turbo-fan-cooling-semiconductor-refrigeration-3000mah-battery-wind-speeds-adjustable-mini-personal-fan?variant=47210158588152)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/470fb79b-3a21-448f-9edf-fe62f36df277.jpg?v=1761015857
+    Price: $24.99 USD
+- [Oceanfront™ CloudStep Insoles – Shock Absorbing Comfort for Travel & Training](https://oceanfrontproducts.com/products/insole-sports-shock-absorption-arch-support-high-elastic-running-military-training): Product information: “Walk on clouds. ☁️ Oceanfront™ CloudStep Insoles use 4D honeycomb cushioning for all-day comfort and posture support. Ideal for travelers, athletes, and anyone always on their feet.” Key Specs: Shock-absorbing 4D air pockets Breathable, anti-sweat mesh Arch support for long standing hours Trim-to-fit sizes Packing list: Insole x1pair Product Image:
+  Updated: 2025-10-21T15:07:42Z
+  Vendor: Oceanfront Products
+  Product Type: Shoes
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/f2cb2118-d84c-48b9-8519-ddbb31583bd3_trans.jpg?v=1761016056
+  - [White Bottomed Gray / 35to36](https://oceanfrontproducts.com/products/insole-sports-shock-absorption-arch-support-high-elastic-running-military-training?variant=47210165141752)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/dee75b55-59c5-4305-b5c9-8ad3ee6a40da_trans.jpg?v=1761016067
+    Price: $14.99 USD
+  - [White Bottomed Gray / 37to38](https://oceanfrontproducts.com/products/insole-sports-shock-absorption-arch-support-high-elastic-running-military-training?variant=47210165174520)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/dee75b55-59c5-4305-b5c9-8ad3ee6a40da_trans.jpg?v=1761016067
+    Price: $15.27 USD
+  - [White Bottomed Gray / 39to40](https://oceanfrontproducts.com/products/insole-sports-shock-absorption-arch-support-high-elastic-running-military-training?variant=47210165207288)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/dee75b55-59c5-4305-b5c9-8ad3ee6a40da_trans.jpg?v=1761016067
+    Price: $15.40 USD
+  - [White Bottomed Gray / 41to42](https://oceanfrontproducts.com/products/insole-sports-shock-absorption-arch-support-high-elastic-running-military-training?variant=47210165240056)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/dee75b55-59c5-4305-b5c9-8ad3ee6a40da_trans.jpg?v=1761016067
+    Price: $15.55 USD
+  - [White Bottomed Gray / 43to44](https://oceanfrontproducts.com/products/insole-sports-shock-absorption-arch-support-high-elastic-running-military-training?variant=47210165272824)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/dee75b55-59c5-4305-b5c9-8ad3ee6a40da_trans.jpg?v=1761016067
+    Price: $15.58 USD
+  - [White Bottomed Gray / 45to46](https://oceanfrontproducts.com/products/insole-sports-shock-absorption-arch-support-high-elastic-running-military-training?variant=47210165305592)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/dee75b55-59c5-4305-b5c9-8ad3ee6a40da_trans.jpg?v=1761016067
+    Price: $15.99 USD
 
 ## Collections
 
 - [Explore Oceanfront Products Home Page Flame Humidifier](https://oceanfrontproducts.com/collections/home-page): Explore the home page of Oceanfront Products featuring a Cryptocurrency Hoodie, Sea & Embers Candles, Tough Cases, and a Flame Humidifier for your home.
-  Updated: 2025-10-13T13:57:33Z
-  Total Products: 40
+  Updated: 2025-10-21T03:10:09Z
+  Total Products: 42
 - [Travel essentials](https://oceanfrontproducts.com/collections/travel-essentials): Discover essential travel items like stylish luggage tags, cozy plush blankets, and versatile travel neck pillows for a comfortable journey.
   Updated: 2025-10-11T17:03:31Z
   Total Products: 27
@@ -13820,8 +13878,8 @@
   Updated: 2025-08-10T23:59:22Z
   Total Products: 29
 - [Best Sellers Flame Humidifiers and Neck Pillows](https://oceanfrontproducts.com/collections/shop-best-sellers-including-flame-humidifier-and-neck-pillow): Oceanfront Products offers Best Sellers, including stylish accessories and unique gifts like flame humidifiers, perfect for busy moms and cherished memories.
-  Updated: 2025-10-20T23:32:05Z
-  Total Products: 246
+  Updated: 2025-10-21T03:13:15Z
+  Total Products: 250
 - [Oceanfront Apparel Collection Unisex T Shirts and Graphic Tees](https://oceanfrontproducts.com/collections/oceanfront-apparel-collection-featuring-unisex-t-shirts-and-graphic): Explore Oceanfront Products' Apparel Collection featuring stylish boss babe graphic tees, unisex t-shirts, and empowering designs perfect for confident individuals.
   Updated: 2025-10-20T23:36:09Z
   Total Products: 44
