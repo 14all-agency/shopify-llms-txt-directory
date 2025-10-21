@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-01-24T04:49:01Z
 - Contact Email: info@ibizjewel.com
-- Updated At: 2025-10-21T04:00:50.733Z
+- Updated At: 2025-10-21T08:00:48.170Z
 
 ## Products
 
@@ -24126,7 +24126,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/SPDR-123_2.jpg?v=1710918530
     Price: $658.00 USD
 - [Natural Salt And Pepper 1.60CT Triangle Diamond Art Nouveau Handmade Ring](https://ibizjewel.com/products/natural-salt-and-pepper-1-60ct-triangle-diamond-art-nouveau-handmade-ring): Expertly Crafted And Elegantly Designed, This Natural Salt And Pepper 1.60ct Triangle Diamond Art Nouveau Handmade Ring Is A Unique Piece Of Jewelry. With Its Eye-catching Diamond And Luxurious Handmade Construction, This Ring Is A Stunning And Timeless Addition To Any Collection.
-  Updated: 2025-10-02T10:31:00Z
+  Updated: 2025-10-21T04:45:46Z
   Vendor: Natural Salt And Pepper Diamond Ring
   Product Type: Natural Salt And Pepper Triangle Diamond Ring
   Availability: Available
