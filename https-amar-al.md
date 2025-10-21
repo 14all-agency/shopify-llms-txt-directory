@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2025-01-13T13:26:43Z
 - Contact Email: info@amar.al
-- Updated At: 2025-10-21T00:00:35.899Z
+- Updated At: 2025-10-21T08:00:39.011Z
 
 ## Products
 
@@ -1929,7 +1929,7 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/01-1-1.png?v=1737381275
   Price: ALL 2,195.00 ALL
 - [SmartAppGuided™ Aqua-Stream Face Cleanser | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal Hidrofacial](https://amar.al/products/smartappguided-aqua-stream-face-cleanser-8-in-1): Po kërkoni një marrje të shpejtë? Pastruesi i fytyrës SmartAppGuided™ Aqua-Stream | 8 në 1 rinovon dhe hidraton lëkurën tuaj në përsosmëri rrezatuese. - Amar Pharma - Geske - Paisje të kujdesit personal Hidrofacial
-  Updated: 2025-10-19T16:56:35Z
+  Updated: 2025-10-21T01:50:45Z
   Vendor: Geske
   Product Type: Paisje të kujdesit personal
   Availability: Available
@@ -1937,28 +1937,28 @@
   Price: ALL 6,594.00 ALL
 - [SmartAppGuided™ Cool & Warm Eye and Face
 Massager - Amar Pharma - Geske - Paisje të kujdesit personal](https://amar.al/products/smartappguided-cool-warm-eye-and-facemassager): Masazhuesi i syve dhe i fytyrës SmartAppGuided™ Cool & Warm prezanton teknologji novatore, duke rritur përthithjen dhe efektivitetin e kremrave dhe serumeve tuaj të dashur. - Amar Pharma - Geske - Paisje të kujdesit personal
-  Updated: 2025-10-16T16:34:31Z
+  Updated: 2025-10-21T01:51:25Z
   Vendor: Geske
   Product Type: Paisje të kujdesit personal
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/B0836_4099702075924_1.png?v=1751545661
   Price: ALL 2,634.00 ALL
 - [SmartAppGuided™ Lip Volumizer & Booster | 4 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://amar.al/products/smartappguided-lip-volumizer-booster-4-in-1): Njihuni me Volumizuesin dhe Përforcuesin e Buzëve SmartAppGuided™ | 4 në 1, shoqëruesi juaj më i fundit i bukurisë për buzët më të plota dhe të lezetshme menjëherë. Ky version më i madh është i specializuar në vëllimin e plotë të buzëve. - Amar Pharma - Geske - Paisje të kujdesit personal
-  Updated: 2025-10-16T16:34:31Z
+  Updated: 2025-10-21T01:52:01Z
   Vendor: Geske
   Product Type: Paisje të kujdesit personal
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/B0054_4099702002449_1.png?v=1751544983
   Price: ALL 1,184.00 ALL
 - [SmartAppGuided™ MicroCurrent Face-Lift Pen | 6 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://amar.al/products/smartappguided-microcurrent-face-lift-pen-6-in-1): I ndjeni shenjat e para të plakjes rreth hundës dhe buzëve? Provoni stilolapsin tonë SmartAppGuided™ MicroCurrent Face-Lift | 6 në 1 për vetitë unike kundër plakjes. - Amar Pharma - Geske - Paisje të kujdesit personal
-  Updated: 2025-10-16T16:34:32Z
+  Updated: 2025-10-21T01:52:26Z
   Vendor: Geske
   Product Type: Paisje të kujdesit personal
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/B0013_4099702000896_1.png?v=1751544634
   Price: ALL 5,274.00 ALL
 - [SmartAppGuided™ MicroCurrent Face-Lifter | 6 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://amar.al/products/smartappguided-microcurrent-face-lifter-6-in-1): Ngritësi i fytyrës MicroCurrent SmartAppGuided™ | 6 në 1 përdor teknologjitë MicroCurrent dhe SmartSonic Pulsation për të forcuar dhe ngritur lëkurën tuaj, duke i dhënë asaj një pamje rinore dhe një shkëlqim të shëndetshëm. - Amar Pharma - Geske - Paisje të kujdesit personal
-  Updated: 2025-10-16T16:34:32Z
+  Updated: 2025-10-21T01:53:02Z
   Vendor: Geske
   Product Type: Paisje të kujdesit personal
   Availability: Available
@@ -1966,42 +1966,42 @@ Massager - Amar Pharma - Geske - Paisje të kujdesit personal](https://amar.al/p
   Price: ALL 6,594.00 ALL
 - [SmartAppGuided™ MicroDermabrasion Blackhead
 Remover | 7 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://amar.al/products/smartappguided-microdermabrasion-blackheadremover-7-in-1): Thuaj lamtumirë pikave të zeza dhe mirëpresim lëkurën e pastër, me shkëlqim dhe pa të meta me heqjen tonë të pikave të zeza SmartAppGuided™ MicroDermabrasion | 7 ne 1. - Amar Pharma - Geske - Paisje të kujdesit personal
-  Updated: 2025-10-18T12:36:35Z
+  Updated: 2025-10-21T01:54:20Z
   Vendor: Geske
   Product Type: Paisje të kujdesit personal
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/B0012_4099702000780_1.png?v=1751544378
   Price: ALL 7,914.00 ALL
 - [SmartAppGuided™ MicroNeedle Face Roller | 9 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal Dermaroller](https://amar.al/products/smartappguided-microneedle-face-roller-9-in-1): Stimuloni lëkurën tuaj me rulin tonë të fytyrës me mikrogjilpërë SmartAppGuided™ | 9 në 1. Kjo pajisje inovative bukurie vjen me një Microgjilpërë, një ftohje dhe një kokë kuarci trëndafili. - Amar Pharma - Geske - Paisje të kujdesit personal Dermaroller
-  Updated: 2025-10-16T16:34:33Z
+  Updated: 2025-10-21T01:55:01Z
   Vendor: Geske
   Product Type: Paisje të kujdesit personal
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/B0053_4099702002333_1.png?v=1751544877
   Price: ALL 5,274.00 ALL
 - [SmartAppGuided™ Precision Trimmer | 4 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://amar.al/products/smartappguided-precision-trimmer-4-in-1): Precision Trimmer 4-në-1 është projektuar për heqjen e qimeve pa dhimbje dhe të synuar. I heq flokët shpejt, si në zona të mëdha ashtu edhe në pika të veçanta, duke ofruar një alternativë miqësore me mjedisin ndaj produkteve të disponueshme. Tehet e zëvendësueshme mbrojnë lëkurën nga infeksionet. Falë formës së saj të hijshme dhe minimaliste, prerësja përshtatet rehat dhe mirë në dorë. Ajo vjen me një kapak plastik për ruajtjen dhe mbrojtjen higjienike. - Amar Pharma - Geske - Paisje të kujdesit personal
-  Updated: 2025-10-19T16:34:21Z
+  Updated: 2025-10-21T01:55:42Z
   Vendor: Geske
   Product Type: Paisje të kujdesit personal
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/B0083_4099702005815_1.png?v=1751545233
   Price: ALL 1,704.00 ALL
 - [SmartAppGuided™ Skin Firming Wand | 7 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://amar.al/products/smartappguided-skin-firming-wand-7-in-1): Përjetoni anti-plakjen e menjëhershme: Shkopi për forcimin e lëkurës SmartAppGuided™ | 7 në 1 ju jep lëkurë më të fortë dhe më të shtrënguar duke ruajtur një shkëlqim rinor. - Amar Pharma - Geske - Paisje të kujdesit personal
-  Updated: 2025-10-16T16:34:34Z
+  Updated: 2025-10-21T01:56:17Z
   Vendor: Geske
   Product Type: Paisje të kujdesit personal
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/B0067_4099702003699_1.png?v=1751544793
   Price: ALL 6,594.00 ALL
 - [SmartAppGuided™ Sonic Facial Brush | 5 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://amar.al/products/smartappguided-sonic-facial-brush-5-in-1): Furça e fytyrës SmartAppGuided™ Sonic | 5 në 1 ofron disa përfitime njëherësh: Pastrim i thellë, forcimi i lëkurës dhe masazhe relaksuese kundër plakjes. - Amar Pharma - Geske - Paisje të kujdesit personal
-  Updated: 2025-10-16T16:34:34Z
+  Updated: 2025-10-21T01:56:52Z
   Vendor: Geske
   Product Type: Paisje të kujdesit personal
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/B0010_4099702000650_1.png?v=1751540650
   Price: ALL 3,954.00 ALL
 - [SmartAppGuided™ Sonic Facial Roller | 4 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://amar.al/products/smartappguided-sonic-facial-roller-4-in-1): Po kërkoni një masazh rinovues të lëkurës rreth zonës së ndjeshme të syve? Mos kërkoni më tej! Roli ynë i fytyrës Sonic SmartAppGuided™ | 4 në 1 është pajisja për ju! - Amar Pharma - Geske - Paisje të kujdesit personal
-  Updated: 2025-10-16T16:34:35Z
+  Updated: 2025-10-21T01:57:31Z
   Vendor: Geske
   Product Type: Paisje të kujdesit personal
   Availability: Available
@@ -2009,14 +2009,14 @@ Remover | 7 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://a
   Price: ALL 5,274.00 ALL
 - [SmartAppGuided™ Sonic Thermo Facial Brush & Face-
 Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://amar.al/products/smartappguided-sonic-thermo-facial-brush-face-lifter-8-in-1): Pajisur me teknologjinë MicroCurrent Face-Lift, Furça dhe Ngritja e Fytyrës SmartAppGuided™ Sonic Thermo | 8 në 1 është përshtatur për një sesion holistik dhe shumë efektiv të kujdesit për lëkurën - Amar Pharma - Geske - Paisje të kujdesit personal
-  Updated: 2025-10-16T16:34:35Z
+  Updated: 2025-10-21T01:58:12Z
   Vendor: Geske
   Product Type: Paisje të kujdesit personal
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/B0006_4099702000407_1.png?v=1751540435
   Price: ALL 7,914.00 ALL
 - [SmartAppGuided™ Sonic Warm & Cool Mask | 9 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://amar.al/products/smartappguided-sonic-warm-cool-mask-9-in-1): Zbuloni fituesin e çmimit Cosmoprof 2022: Aplikoni në mënyrë efektive një maskë për fytyrën, luftoni shenjat e para të plakjes ose shijoni masazhe të nxehta dhe të ftohta - të gjitha këto dhe shumë më tepër nga SmartAppGuided™ Sonic Warm & Cool Mask | 9 në 1. - Amar Pharma - Geske - Paisje të kujdesit personal
-  Updated: 2025-10-16T16:34:36Z
+  Updated: 2025-10-21T01:58:47Z
   Vendor: Geske
   Product Type: Paisje të kujdesit personal
   Availability: Available
@@ -2024,14 +2024,14 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Price: ALL 7,914.00 ALL
 - [SmartAppGuided™ Touchless Magnetic Peeling Mask |
 5 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://amar.al/products/smartappguided-touchless-magnetic-peeling-mask-5-in-1): Aplikoni dhe hiqni maskën tuaj të argjilës në një mënyrë efektive dhe pa rrëmujë me teknologjinë inovative të pastrimit pa prekje të maskës sonë për lëkurë magnetike pa prekje SmartAppGuided™ | 5 në 1. - Amar Pharma - Geske - Paisje të kujdesit personal
-  Updated: 2025-10-16T16:34:36Z
+  Updated: 2025-10-21T01:59:36Z
   Vendor: Geske
   Product Type: Paisje të kujdesit personal
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/B0005_4099702000292_1.png?v=1751545374
   Price: ALL 7,914.00 ALL
 - [SmartAppGuided™ Warm & Cool Eye Energizer | 6 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://amar.al/products/smartappguided-warm-cool-eye-energizer-6-in-1): Sytë e shndritshëm pa rrathë të errët dhe qese sysh përmes kombinimit të disa teknologjive të avancuara: Ja çfarë SmartAppGuided™ Energizer i ngrohtë dhe i ftohtë i syve | 6 në 1 sjell për ju. - Amar Pharma - Geske - Paisje të kujdesit personal
-  Updated: 2025-10-16T16:34:36Z
+  Updated: 2025-10-21T02:00:26Z
   Vendor: Geske
   Product Type: Paisje të kujdesit personal
   Availability: Available
@@ -2332,7 +2332,7 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/6756bcdd101f1_10E5724_slo.png?v=1738853989
   Price: ALL 4,542.85 ALL
 - [Sonic Thermo Facial Brush | 6 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://amar.al/products/sonic-thermo-facial-brush-6-in-1): Kompakt, por i fuqishëm - është një pastrues, një furçë e nxehtë dhe një masazhues fytyre i mbështjellë në një. Bëhuni gati për të zhbllokuar lëkurën natyrale, më të shndritshme dhe të rinovuar, duke filluar nga shtresat e saj më të thella. Furça e fytyrës SmartAppGuided™ Sonic Thermo ofron një pastrim të thellë ultra higjienik të përsosur për rutinën tuaj të përditshme të kujdesit për lëkurën. Thuajini lamtumirë papastërtive, vajit dhe mbetjeve të grimit që bllokojnë poret tuaja në pak sekonda. E gjithë kjo është bërë e mundur falë një sinergjie të përsosur midis teknologjisë sonë të zotëruar të pulsimit SmartSonic me mbi 7500 pulsime në minutë dhe pikave super të buta ultra-higjienike silikoni. Dizajni fleksibël i synuar i zonës së syrit dhe hundës siguron që nuk do të humbisni asnjë pikë të vetme. Tani mund ta çoni rutinën tuaj në nivelin tjetër dhe ta ktheni furçën për të shijuar teknologjinë e ngrohjes së thellë me hapjen e poreve, pasi ajo përgatit në mënyrë të përsosur lëkurën tuaj për thithjen optimale të serumeve dhe kremrave, duke ndihmuar përbërësit aktivë të arrijnë një nivel më të thellë të lëkurës. Përsëri, zona e nxehtë është përshtatur me dizajnin e synuar të zonës sy-hundë të furçës për të arritur në mënyrë të përsosur çdo cep. Për të ngritur në maksimum rutinën tuaj të kujdesit për lëkurën, mund të aktivizoni gjithashtu teknologjinë e masazhit të shkëlqimit rinor që heq, forcon dhe tonifikon lëkurën tuaj për atë pamje mahnitëse dhe të rinovuar. Zhvilluar për Pro-Level Skincare: Pastrim i fytyrës, forcim, ngrohje të thellëPastrim i thellë ditorArritja e lëkurës rrezatuese, me pamje të shëndetshmeMasazh kundër plakjesTë gjitha llojet e lëkurës PërfitimetPastron lëkurën tuaj në vetëm disa sekonda çdo ditëHeq në mënyrë efikase papastërtitë, vajin e tepërt dhe mbetjet e grimitEksfolon lëkurën tuaj dhe hap poretMinimizon shfaqjen e pikave të zeza3-në-1: Ngre, forcon dhe tonifikon lëkurën tuaj - Amar Pharma - Geske - Paisje të kujdesit personal
-  Updated: 2025-10-17T15:38:41Z
+  Updated: 2025-10-21T03:34:56Z
   Vendor: Geske
   Product Type: Paisje të kujdesit personal
   Availability: Available
@@ -2346,7 +2346,7 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/PHARMACERIS_2024_12_P_STATIC_ALL_7d2f5f96-9736-4f49-856b-41821ec4150b.png?v=1738870065
   Price: ALL 9,373.00 ALL
 - [Blue Light Protection Serum - Amar Pharma - Geske - Serum Fytyre](https://amar.al/products/blue-light-protection-serum): Mbron lëkurën nga dëmtimi i dritës blu Telefonat inteligjentë, laptopët dhe ekranet e televizorit janë elementë të jetës sonë të përditshme. Prej kohësh dihet se koha e tepërt e ekranit mund të dëmtojë sytë tanë. Por a e dini se pajisjet mediale lëshojnë gjithashtu dritë blu, e cila e bën lëkurën të plaket më shpejt? Drita depërton në shtresat më të thella të lëkurës dhe dëmton qelizat, duke nxitur kështu formimin e rrudhave, njollave të pigmentit dhe lëkurës së thatë. Serumi mbrojtës nga drita blu u zhvillua për të luftuar efektet negative të kohës para ekranit dhe për të mbrojtur lëkurën nga rrezatimi. Serumi është krijuar për të rimbushur rezervat e lagështisë së lëkurës dhe për ta mbajtur atë të duket rinore për një kohë të gjatë. Formula mbrojtëse Me strukturën e tij të lehtë dhe të mëndafshtë, serumi përthithet shpejt në lëkurë. Ka një aromë të këndshme dhe modeste që është e detyruar të qetësojë shqisat tuaja. Malakiti mbron lëkurën nga ndikimet mjedisore, dhe gjithashtu vepron si një antioksidant. Xhensen ka veti të dobishme antioksidante dhe anti-inflamatore. Serumi përmban gjithashtu laminaria digitata, e njohur më mirë si leshterik, e cila mbron lëkurën nga ndikimet e jashtme. Përdoreni serumin dy herë në ditë për rezultate më të mira. Gjithmonë duhet të përdorni krem ​​kundër diellit për të mbrojtur lëkurën tuaj nga dëmtimi i shkaktuar nga rrezatimi UV. Mësoni më shumë rreth përbërësve aktivë: Malakiti Mbron lëkurën nga ndikimet mjedisore, dhe gjithashtu vepron si një antioksidant. Xhensen Ka veti të dobishme antioksidante dhe anti-inflamatore. Laminaria digitata (leshterik) Mbron lëkurën nga ndikimet e jashtme. Blini tani për të përkëdhelur lëkurën tuaj me produktet më të mira të kujdesit për lëkurën që mbështesin rutinën tuaj të personalizuar të kujdesit të lëkurës të krijuar nga aplikacioni GESKE. - Amar Pharma - Geske - Serum Fytyre
-  Updated: 2025-10-16T16:34:37Z
+  Updated: 2025-10-21T03:36:24Z
   Vendor: Geske
   Product Type: Serum Fytyre
   Availability: Available
@@ -2367,14 +2367,14 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/B0656_GK000656SC01_1.png?v=1751545865
   Price: ALL 2,490.00 ALL
 - [Organic Device Cleanser - Amar Pharma - Geske - Paisje të kujdesit personal](https://amar.al/products/organic-device-cleanser): E butë dhe efektive Pastruesi organik i pajisjeve është zhvilluar posaçërisht për të gjitha pajisjet GESKE. Formulimi pa alkool me përbërës natyralë pastron pajisjet butësisht, por në mënyrë efektive pas përdorimit. Pastrim higjienik, pa alkool Pastruesi organik i pajisjeve është mënyra më e lehtë dhe më efikase për të mbajtur pajisjet tuaja të preferuara GESKE në formën më të mirë. Thjesht spërkatni pajisjen tuaj GESKE me pastrues pas çdo seance dhe lëreni të veprojë për 30 sekonda. Më pas, fshijeni pajisjen me një leckë të lagur dhe thajeni. Spraji është vegan, jo korroziv dhe nuk përmban parfum apo ngjyrë. Blini tani për të përkëdhelur lëkurën tuaj me produktet më të mira të kujdesit për lëkurën që mbështesin rutinën tuaj të personalizuar të kujdesit të lëkurës të krijuar nga aplikacioni GESKE. - Amar Pharma - Geske - Paisje të kujdesit personal
-  Updated: 2025-10-16T16:34:38Z
+  Updated: 2025-10-21T03:38:26Z
   Vendor: Geske
   Product Type: Paisje të kujdesit personal
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/B0665_GK000665PC01_1.png?v=1751545943
   Price: ALL 2,320.00 ALL
 - [Sonic Cool & Warm Face and Body Massager | 9 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://amar.al/products/sonic-cool-warm-face-and-body-massager-9-in-1): Përjetoni kujdesin përfundimtar të lëkurës me këtë pajisje të zhvilluar për fytyrën dhe trupin. E projektuar për të gjitha llojet e lëkurës, ajo kombinon masazhe kundër plakjes me një sipërfaqe me shumë temperatura, të përshtatur posaçërisht për nevojat tuaja. Forma ergonomike siguron përdorim të lehtë, ndërsa aplikimet ngrohëse ose ftohëse në temperatura optimale ofrojnë rezultate të shkëlqyera. Sistemi ftohës minimizon poret dhe redukton ënjtjet, ndërsa sistemi ngrohës ndihmon përbërësit aktivë të depërtojnë thellë në lëkurë. Një përvojë spa relaksuese dhe efektive, e gjitha në një format praktik! - Amar Pharma - Geske - Paisje të kujdesit personal
-  Updated: 2025-10-16T16:34:39Z
+  Updated: 2025-10-21T03:39:03Z
   Vendor: Geske
   Product Type: Paisje të kujdesit personal
   Availability: Available
