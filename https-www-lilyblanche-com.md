@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-10-20T20:00:48.056Z
+- Updated At: 2025-10-21T00:00:47.492Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -9566,7 +9566,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £70.00 GBP
 - [Curb Chain | Gold | High Quality | Fast Shipping | Lily Blanche](https://www.lilyblanche.com/products/curb-chain-gold): This classic, medium-weight 18-carat gold vermeil curb chain is the perfect chain for any occasion. Wear on it is own or with one of our gold vermeil lockets. A wonderful gift for a friend who loves classic jewellery chains. Order online today and receive a free jewellery care kit worth £20.
-  Updated: 2025-10-13T13:46:48Z
+  Updated: 2025-10-20T23:35:50Z
   Vendor: Lily Blanche
   Product Type: Choose Your Chain
   Availability: Available
@@ -16729,7 +16729,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £100.00 GBP
 - [Men's Baroque Pearl Necklace | High Quality |Lily Blanche](https://www.lilyblanche.com/products/mens-baroque-pearl-necklace-ivory-gold): This stunning freshwater baroque men's pearl necklace features a large cultured ivory keshi pearl. Pearl quality AAAA+ Free Jewellery Care Kit Worth £20.
-  Updated: 2025-10-15T06:34:20Z
+  Updated: 2025-10-20T22:45:25Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -16928,7 +16928,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £205.00 GBP
 - [Men's St Christopher Necklace in Solid Gold | Premium Quality Pendant](https://www.lilyblanche.com/products/mens-st-christopher-necklace-solid_gold): Give a meaningful gift with our stylish Men's St Christopher Necklace in solid gold. Personalise with free engraving. Free shipping & care kit with orders today
-  Updated: 2025-10-17T10:54:21Z
+  Updated: 2025-10-20T23:35:03Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -17003,7 +17003,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £140.00 GBP
 - [Men's Heavy Sterling Silver Cross Necklace - Premium Craftsmanship](https://www.lilyblanche.com/products/mens-silver-cross-necklace): Men's heavy sterling silver cross necklace. Handcrafted heirloom-quality, 44mm pendant with a choice of chains. UK-made. Free delivery, gift wrap & care kit. £140
-  Updated: 2025-10-20T09:45:23Z
+  Updated: 2025-10-20T20:30:37Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -22976,7 +22976,7 @@ From £190.
     Availability: Available
     Price: £260.00 GBP
 - [Heavy Silver Cross Necklace | High Quality](https://www.lilyblanche.com/products/heavy-silver-cross-necklace): Elevate your style with this bold, heavyweight sterling silver cross necklace—a timeless yet on-trend accessory. Includes a free £20 Jewellery Care Kit!
-  Updated: 2025-10-16T23:49:21Z
+  Updated: 2025-10-20T23:35:38Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -25002,8 +25002,8 @@ From £129
   Updated: 2025-03-26T11:37:00Z
 - [Personalisation - Engraving and photo service for jewellery](https://www.lilyblanche.com/pages/personalisation): Make it personal with our in-house specialist photo & engraving team Have you ever wondered how to resize your photos for a locket? Lockets come in...
   Updated: 2025-10-15T12:23:09Z
-- [Our Jewellery Materials & Craftsmanship | Silver & Gold.  What Is Vermeil?](https://www.lilyblanche.com/pages/our-materials): OUR MATERIALS & CRAFTSMANSHIP THE PRICE OF GOLD The gold price has reached multiple record highs in 2025, most recently peaking on October 16 2025,...
-  Updated: 2025-10-16T23:36:02Z
+- [Our Jewellery Materials & Craftsmanship | Silver & Gold.  What Is Vermeil?](https://www.lilyblanche.com/pages/our-materials): OUR MATERIALS & CRAFTSMANSHIP THE PRICE OF GOLD The gold price has reached multiple record highs in 2025, most recently peaking on October 21st 202...
+  Updated: 2025-10-20T23:31:28Z
 - [Discover The Lily Blanche  Hallmark - Mark Of Quality](https://www.lilyblanche.com/pages/our-hallmark): What Is Hallmarking? Hallmarking in Britain dates back to 1300 and the reign of Edward I. A hallmark is a set of component marks or icons which is ...
   Updated: 2025-04-03T12:52:34Z
 - [What Is A Locket Necklace? Everything you need to know about Lockets](https://www.lilyblanche.com/pages/what-is-a-locket-necklace): Everything You Need To Know About Lockets. You may be wondering what is a locket necklace? A locket necklace is a pendant or charm which opens up t...
