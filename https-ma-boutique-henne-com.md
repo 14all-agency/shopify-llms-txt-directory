@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2018-01-12T21:20:39Z
 - Contact Email: contact@ma-boutique-henne.com
-- Updated At: 2025-10-20T20:00:39.105Z
+- Updated At: 2025-10-21T00:00:42.088Z
 
 ## Products
 
@@ -74,13 +74,13 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/HTB1mc8WbB_85uJjSZPfq6Ap0FXaN.jpg?v=1528377694
   Price: 5,50 € EUR
 - [Barrette Triangle Ethnique - Or ou Argent](https://ma-boutique-henne.com/products/barrette-triangle-ethnique-doree): Voilà une très jolie barrette bien mystérieuse, en triangle, pour ajouter une touche ethnique à vos coiffures ! Pince, coiffure, chignon, bijou, accessoire, bijou, cheveux, lune, or, doré, hair, tresse, soin, boutique, henne, elastique, pic à cheveux
-  Updated: 2025-09-09T10:38:16Z
+  Updated: 2025-10-20T20:07:55Z
   Vendor: ma boutique henné
   Product Type: Accessoires
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/s-l1600.jpg?v=1538948589
   - [Or](https://ma-boutique-henne.com/products/barrette-triangle-ethnique-doree?variant=42144565231862)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/2730/3378/products/HTB1BtECBNuTBuNkHFNRq6A9qpXaU.jpg?v=1637752165
     Price: 2,90 € EUR
   - [Argent](https://ma-boutique-henne.com/products/barrette-triangle-ethnique-doree?variant=42144565264630)
