@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-02-06T23:04:14Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-10-20T08:00:40.544Z
+- Updated At: 2025-10-21T00:00:39.374Z
 
 ## Products
 
@@ -2006,7 +2006,7 @@
     Availability: Available
     Price: $129.99 USD
 - [Bonanza Jacquard, Quilted Look - Tablecloth - Blush exclusive at The](https://thetableclothstore.com/products/bonanza-jacquard-quilted-look-tablecloth-blush-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:31Z
+  Updated: 2025-10-20T16:51:28Z
   Vendor: The Tablecloth Store
   Product Type: Bonanza Jacquard Fabric
   Availability: Available
@@ -2111,7 +2111,7 @@
     Availability: Available
     Price: $165.99 USD
 - [Bonanza Jacquard, Quilted Look - Tablecloth - Champagne exclusive at](https://thetableclothstore.com/products/bonanza-jacquard-quilted-look-tablecloth-champagne-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:31Z
+  Updated: 2025-10-20T16:51:28Z
   Vendor: The Tablecloth Store
   Product Type: Bonanza Jacquard Fabric
   Availability: Available
@@ -2216,7 +2216,7 @@
     Availability: Available
     Price: $165.99 USD
 - [Bonanza Jacquard, Quilted Look - Tablecloth - Ivory exclusive at The](https://thetableclothstore.com/products/bonanza-jacquard-quilted-look-tablecloth-ivory-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:31Z
+  Updated: 2025-10-20T16:51:28Z
   Vendor: The Tablecloth Store
   Product Type: Bonanza Jacquard Fabric
   Availability: Available
@@ -2321,7 +2321,7 @@
     Availability: Available
     Price: $165.99 USD
 - [Bonanza Jacquard, Quilted Look - Tablecloth - White exclusive at The](https://thetableclothstore.com/products/bonanza-jacquard-quilted-look-tablecloth-white-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:31Z
+  Updated: 2025-10-20T16:51:28Z
   Vendor: The Tablecloth Store
   Product Type: Bonanza Jacquard Fabric
   Availability: Available
@@ -2426,7 +2426,7 @@
     Availability: Available
     Price: $165.99 USD
 - [Sprite Jacquard - Tablecloth - Silver exclusive at The Tablecloth](https://thetableclothstore.com/products/sprite-jacquard-tablecloth-silver-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Jacquard Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:32Z
+  Updated: 2025-10-20T16:51:28Z
   Vendor: The Tablecloth Store
   Product Type: Sprite Jacquard Fabric
   Availability: Available
@@ -2531,7 +2531,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Sprite Jacquard - Tablecloth - Blush exclusive at The Tablecloth Store](https://thetableclothstore.com/products/sprite-jacquard-tablecloth-blush-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Jacquard Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:32Z
+  Updated: 2025-10-20T16:51:28Z
   Vendor: The Tablecloth Store
   Product Type: Sprite Jacquard Fabric
   Availability: Available
@@ -2636,7 +2636,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Sprite Jacquard - Tablecloth - Ivory exclusive at The Tablecloth Store](https://thetableclothstore.com/products/sprite-jacquard-tablecloth-ivory-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Jacquard Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:32Z
+  Updated: 2025-10-20T16:51:29Z
   Vendor: The Tablecloth Store
   Product Type: Sprite Jacquard Fabric
   Availability: Available
@@ -2741,7 +2741,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Sprite Jacquard - Tablecloth - Mint exclusive at The Tablecloth Store](https://thetableclothstore.com/products/sprite-jacquard-tablecloth-mint-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Jacquard Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:32Z
+  Updated: 2025-10-20T16:51:29Z
   Vendor: The Tablecloth Store
   Product Type: Sprite Jacquard Fabric
   Availability: Available
@@ -2846,7 +2846,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Sprite Jacquard - Tablecloth - Teal exclusive at The Tablecloth Store](https://thetableclothstore.com/products/sprite-jacquard-tablecloth-teal-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Jacquard Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:32Z
+  Updated: 2025-10-20T16:51:29Z
   Vendor: The Tablecloth Store
   Product Type: Sprite Jacquard Fabric
   Availability: Available
@@ -2951,7 +2951,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Sprite Jacquard - Tablecloth - White exclusive at The Tablecloth Store](https://thetableclothstore.com/products/sprite-jacquard-tablecloth-white-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Jacquard Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:32Z
+  Updated: 2025-10-20T16:51:29Z
   Vendor: The Tablecloth Store
   Product Type: Sprite Jacquard Fabric
   Availability: Available
@@ -4524,7 +4524,7 @@
     Availability: Available
     Price: $165.99 USD
 - [Abstract Crushed Velvet - Tablecloth - Black exclusive at The](https://thetableclothstore.com/products/abstract-crushed-velvet-tablecloth-black-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Abstract Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:35Z
+  Updated: 2025-10-20T16:51:29Z
   Vendor: The Tablecloth Store
   Product Type: Allandale Crushed Velvet Fabric
   Availability: Available
@@ -4629,7 +4629,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Abstract Crushed Velvet - Tablecloth - Burgundy exclusive at The](https://thetableclothstore.com/products/abstract-crushed-velvet-tablecloth-burgundy-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Abstract Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:35Z
+  Updated: 2025-10-20T16:51:29Z
   Vendor: The Tablecloth Store
   Product Type: Allandale Crushed Velvet Fabric
   Availability: Available
@@ -4734,7 +4734,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Abstract Crushed Velvet - Tablecloth - Forest exclusive at The](https://thetableclothstore.com/products/abstract-crushed-velvet-tablecloth-forest-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Abstract Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:35Z
+  Updated: 2025-10-20T16:51:29Z
   Vendor: The Tablecloth Store
   Product Type: Allandale Crushed Velvet Fabric
   Availability: Available
@@ -4839,7 +4839,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Abstract Crushed Velvet - Tablecloth - Blush exclusive at The Tablecloth Store](https://thetableclothstore.com/products/abstract-crushed-velvet-tablecloth-blush-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Abstract Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:35Z
+  Updated: 2025-10-20T16:51:29Z
   Vendor: The Tablecloth Store
   Product Type: Allandale Crushed Velvet Fabric
   Availability: Available
@@ -4944,7 +4944,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Abstract Crushed Velvet - Tablecloth - French Blue exclusive at The](https://thetableclothstore.com/products/abstract-crushed-velvet-tablecloth-french-blue-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Abstract Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:36Z
+  Updated: 2025-10-20T16:51:29Z
   Vendor: The Tablecloth Store
   Product Type: Allandale Crushed Velvet Fabric
   Availability: Available
@@ -5049,7 +5049,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Abstract Crushed Velvet - Tablecloth - Mauve exclusive at The](https://thetableclothstore.com/products/abstract-crushed-velvet-tablecloth-mauve-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Abstract Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:36Z
+  Updated: 2025-10-20T16:51:29Z
   Vendor: The Tablecloth Store
   Product Type: Allandale Crushed Velvet Fabric
   Availability: Available
@@ -5154,7 +5154,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Abstract Crushed Velvet - Tablecloth - Gold exclusive at The](https://thetableclothstore.com/products/abstract-crushed-velvet-tablecloth-gold-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Abstract Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:36Z
+  Updated: 2025-10-20T16:51:29Z
   Vendor: The Tablecloth Store
   Product Type: Allandale Crushed Velvet Fabric
   Availability: Available
@@ -5259,7 +5259,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Abstract Crushed Velvet - Tablecloth - Maize exclusive at The](https://thetableclothstore.com/products/abstract-crushed-velvet-tablecloth-maize-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Abstract Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:46:11Z
+  Updated: 2025-10-20T16:51:29Z
   Vendor: The Tablecloth Store
   Product Type: Allandale Crushed Velvet Fabric
   Availability: Available
@@ -5364,7 +5364,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Abstract Crushed Velvet - Tablecloth - Natural exclusive at The](https://thetableclothstore.com/products/abstract-crushed-velvet-tablecloth-natural-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Abstract Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:36Z
+  Updated: 2025-10-20T16:51:29Z
   Vendor: The Tablecloth Store
   Product Type: Allandale Crushed Velvet Fabric
   Availability: Available
@@ -5469,7 +5469,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Abstract Crushed Velvet - Tablecloth - Ocean exclusive at The](https://thetableclothstore.com/products/abstract-crushed-velvet-tablecloth-ocean-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Abstract Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:36Z
+  Updated: 2025-10-20T16:51:30Z
   Vendor: The Tablecloth Store
   Product Type: Allandale Crushed Velvet Fabric
   Availability: Available
@@ -5574,7 +5574,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Brocade Damask Velvet - Tablecloth - Black exclusive at The Tablecloth](https://thetableclothstore.com/products/brocade-damask-velvet-tablecloth-black-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Damask Velvet Width: 58" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:46:11Z
+  Updated: 2025-10-20T16:51:30Z
   Vendor: The Tablecloth Store
   Product Type: Hobby Velvet Fabric
   Availability: Available
@@ -5628,7 +5628,7 @@
     Availability: Available
     Price: $136.99 USD
 - [Abstract Crushed Velvet - Tablecloth - Navy exclusive at The](https://thetableclothstore.com/products/abstract-crushed-velvet-tablecloth-navy-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Abstract Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:37Z
+  Updated: 2025-10-20T16:51:30Z
   Vendor: The Tablecloth Store
   Product Type: Allandale Crushed Velvet Fabric
   Availability: Available
@@ -5733,7 +5733,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Brocade Damask Velvet - Tablecloth - Blush exclusive at The Tablecloth](https://thetableclothstore.com/products/brocade-damask-velvet-tablecloth-blush-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Damask Velvet Width: 58" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:46:23Z
+  Updated: 2025-10-20T16:51:30Z
   Vendor: The Tablecloth Store
   Product Type: Hobby Velvet Fabric
   Availability: Available
@@ -5787,7 +5787,7 @@
     Availability: Available
     Price: $136.99 USD
 - [Abstract Crushed Velvet - Tablecloth - Olive exclusive at The](https://thetableclothstore.com/products/abstract-crushed-velvet-tablecloth-olive-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Abstract Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:37Z
+  Updated: 2025-10-20T16:51:30Z
   Vendor: The Tablecloth Store
   Product Type: Allandale Crushed Velvet Fabric
   Availability: Available
@@ -5892,7 +5892,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Brocade Damask Velvet - Tablecloth - Forest exclusive at The](https://thetableclothstore.com/products/brocade-damask-velvet-tablecloth-forest-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Damask Velvet Width: 58" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:46:36Z
+  Updated: 2025-10-20T16:51:30Z
   Vendor: The Tablecloth Store
   Product Type: Hobby Velvet Fabric
   Availability: Available
@@ -5946,7 +5946,7 @@
     Availability: Available
     Price: $136.99 USD
 - [Brocade Damask Velvet - Tablecloth - Chocolate exclusive at The](https://thetableclothstore.com/products/brocade-damask-velvet-tablecloth-chocolate-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Damask Velvet Width: 58" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:46:24Z
+  Updated: 2025-10-20T16:51:30Z
   Vendor: The Tablecloth Store
   Product Type: Hobby Velvet Fabric
   Availability: Available
@@ -6000,7 +6000,7 @@
     Availability: Available
     Price: $136.99 USD
 - [Abstract Crushed Velvet - Tablecloth - Plum exclusive at The](https://thetableclothstore.com/products/abstract-crushed-velvet-tablecloth-plum-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Abstract Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:37Z
+  Updated: 2025-10-20T16:51:30Z
   Vendor: The Tablecloth Store
   Product Type: Allandale Crushed Velvet Fabric
   Availability: Available
@@ -6105,7 +6105,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Brocade Damask Velvet - Tablecloth - Cafe exclusive at The Tablecloth](https://thetableclothstore.com/products/brocade-damask-velvet-tablecloth-cafe-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Damask Velvet Width: 58" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:46:24Z
+  Updated: 2025-10-20T16:51:30Z
   Vendor: The Tablecloth Store
   Product Type: Hobby Velvet Fabric
   Availability: Available
@@ -6159,7 +6159,7 @@
     Availability: Available
     Price: $136.99 USD
 - [Abstract Crushed Velvet - Tablecloth - Rose exclusive at The](https://thetableclothstore.com/products/abstract-crushed-velvet-tablecloth-rose-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Abstract Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:38Z
+  Updated: 2025-10-20T16:51:30Z
   Vendor: The Tablecloth Store
   Product Type: Allandale Crushed Velvet Fabric
   Availability: Available
@@ -6264,7 +6264,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Brocade Damask Velvet - Tablecloth - Sand exclusive at The Tablecloth](https://thetableclothstore.com/products/brocade-damask-velvet-tablecloth-sand-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Damask Velvet Width: 58" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:47:25Z
+  Updated: 2025-10-20T16:51:30Z
   Vendor: The Tablecloth Store
   Product Type: Hobby Velvet Fabric
   Availability: Available
@@ -6318,7 +6318,7 @@
     Availability: Available
     Price: $136.99 USD
 - [Abstract Crushed Velvet - Tablecloth - Silver exclusive at The](https://thetableclothstore.com/products/abstract-crushed-velvet-tablecloth-silver-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Abstract Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:38Z
+  Updated: 2025-10-20T16:51:31Z
   Vendor: The Tablecloth Store
   Product Type: Allandale Crushed Velvet Fabric
   Availability: Available
@@ -6423,7 +6423,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Brocade Damask Velvet - Tablecloth - Taupe exclusive at The Tablecloth](https://thetableclothstore.com/products/brocade-damask-velvet-tablecloth-taupe-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Damask Velvet Width: 58" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:47:37Z
+  Updated: 2025-10-20T16:51:31Z
   Vendor: The Tablecloth Store
   Product Type: Hobby Velvet Fabric
   Availability: Available
@@ -6477,7 +6477,7 @@
     Availability: Available
     Price: $136.99 USD
 - [Abstract Crushed Velvet - Tablecloth - Seafoam exclusive at The](https://thetableclothstore.com/products/abstract-crushed-velvet-tablecloth-seafoam-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Abstract Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:38Z
+  Updated: 2025-10-20T16:51:31Z
   Vendor: The Tablecloth Store
   Product Type: Allandale Crushed Velvet Fabric
   Availability: Available
@@ -6582,7 +6582,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Brocade Damask Velvet - Tablecloth - White exclusive at The Tablecloth](https://thetableclothstore.com/products/brocade-damask-velvet-tablecloth-white-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Damask Velvet Width: 58" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:47:38Z
+  Updated: 2025-10-20T16:51:31Z
   Vendor: The Tablecloth Store
   Product Type: Hobby Velvet Fabric
   Availability: Available
@@ -6636,7 +6636,7 @@
     Availability: Available
     Price: $136.99 USD
 - [Abstract Crushed Velvet - Tablecloth - Taupe exclusive at The](https://thetableclothstore.com/products/abstract-crushed-velvet-tablecloth-taupe-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Abstract Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:39Z
+  Updated: 2025-10-20T16:51:31Z
   Vendor: The Tablecloth Store
   Product Type: Allandale Crushed Velvet Fabric
   Availability: Available
@@ -6741,7 +6741,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Brocade Damask Velvet - Tablecloth - Gold exclusive at The Tablecloth](https://thetableclothstore.com/products/brocade-damask-velvet-tablecloth-gold-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Damask Velvet Width: 58" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:46:36Z
+  Updated: 2025-10-20T16:51:31Z
   Vendor: The Tablecloth Store
   Product Type: Hobby Velvet Fabric
   Availability: Available
@@ -6795,7 +6795,7 @@
     Availability: Available
     Price: $136.99 USD
 - [Brocade Damask Velvet - Tablecloth - Burgundy exclusive at The](https://thetableclothstore.com/products/brocade-damask-velvet-tablecloth-burgundy-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Damask Velvet Width: 58" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:46:25Z
+  Updated: 2025-10-20T16:51:31Z
   Vendor: The Tablecloth Store
   Product Type: Hobby Velvet Fabric
   Availability: Available
@@ -6849,7 +6849,7 @@
     Availability: Available
     Price: $136.99 USD
 - [Abstract Crushed Velvet - Tablecloth - White exclusive at The](https://thetableclothstore.com/products/abstract-crushed-velvet-tablecloth-white-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Abstract Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:40Z
+  Updated: 2025-10-20T16:51:31Z
   Vendor: The Tablecloth Store
   Product Type: Allandale Crushed Velvet Fabric
   Availability: Available
@@ -6954,7 +6954,7 @@
     Availability: Available
     Price: $149.99 USD
 - [Brocade Hunter Velvet - Tablecloth - Goldenrod exclusive at The](https://thetableclothstore.com/products/brocade-hunter-velvet-tablecloth-goldenrod-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:41Z
+  Updated: 2025-10-20T16:51:31Z
   Vendor: The Tablecloth Store
   Product Type: Hunter Velvet Fabric
   Availability: Available
@@ -7023,7 +7023,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Brocade Damask Velvet - Tablecloth - Charcoal exclusive at The](https://thetableclothstore.com/products/brocade-damask-velvet-tablecloth-charcoal-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Damask Velvet Width: 58" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:46:25Z
+  Updated: 2025-10-20T16:51:31Z
   Vendor: The Tablecloth Store
   Product Type: Hobby Velvet Fabric
   Availability: Available
@@ -7077,7 +7077,7 @@
     Availability: Available
     Price: $136.99 USD
 - [Brocade Hunter Velvet - Tablecloth - Sky Blue exclusive at The](https://thetableclothstore.com/products/brocade-hunter-velvet-tablecloth-sky-blue-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:41Z
+  Updated: 2025-10-20T16:51:31Z
   Vendor: The Tablecloth Store
   Product Type: Hunter Velvet Fabric
   Availability: Available
@@ -7146,7 +7146,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Brocade Hunter Velvet - Tablecloth - Gold exclusive at The Tablecloth](https://thetableclothstore.com/products/brocade-hunter-velvet-tablecloth-gold-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:41Z
+  Updated: 2025-10-20T16:51:32Z
   Vendor: The Tablecloth Store
   Product Type: Hunter Velvet Fabric
   Availability: Available
@@ -7215,7 +7215,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Brocade Damask Velvet - Tablecloth - Ivory exclusive at The Tablecloth](https://thetableclothstore.com/products/brocade-damask-velvet-tablecloth-ivory-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Damask Velvet Width: 58" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:46:49Z
+  Updated: 2025-10-20T16:51:32Z
   Vendor: The Tablecloth Store
   Product Type: Hobby Velvet Fabric
   Availability: Available
@@ -7269,7 +7269,7 @@
     Availability: Available
     Price: $136.99 USD
 - [Brocade Hunter Velvet - Tablecloth - Green exclusive at The Tablecloth](https://thetableclothstore.com/products/brocade-hunter-velvet-tablecloth-green-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:42Z
+  Updated: 2025-10-20T16:51:32Z
   Vendor: The Tablecloth Store
   Product Type: Hunter Velvet Fabric
   Availability: Available
@@ -7338,7 +7338,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Brocade Hunter Velvet - Tablecloth - Natural exclusive at The](https://thetableclothstore.com/products/brocade-hunter-velvet-tablecloth-natural-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:42Z
+  Updated: 2025-10-20T16:51:32Z
   Vendor: The Tablecloth Store
   Product Type: Hunter Velvet Fabric
   Availability: Available
@@ -7407,7 +7407,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Brocade Damask Velvet - Tablecloth - Seafoam exclusive at The](https://thetableclothstore.com/products/brocade-damask-velvet-tablecloth-seafoam-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Damask Velvet Width: 58" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:47:25Z
+  Updated: 2025-10-20T16:51:32Z
   Vendor: The Tablecloth Store
   Product Type: Hobby Velvet Fabric
   Availability: Available
@@ -7461,7 +7461,7 @@
     Availability: Available
     Price: $136.99 USD
 - [Brocade Damask Velvet - Tablecloth - Navy exclusive at The Tablecloth](https://thetableclothstore.com/products/brocade-damask-velvet-tablecloth-navy-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Damask Velvet Width: 58" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:47:02Z
+  Updated: 2025-10-20T16:51:32Z
   Vendor: The Tablecloth Store
   Product Type: Hobby Velvet Fabric
   Availability: Available
@@ -7515,7 +7515,7 @@
     Availability: Available
     Price: $136.99 USD
 - [Brocade Scroll Velvet - Tablecloth - Black exclusive at The Tablecloth](https://thetableclothstore.com/products/brocade-scroll-velvet-tablecloth-black-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Scroll Velvet Width: 58" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:46:12Z
+  Updated: 2025-10-20T16:51:32Z
   Vendor: The Tablecloth Store
   Product Type: Lobby Velvet Fabric
   Availability: Available
@@ -7569,7 +7569,7 @@
     Availability: Available
     Price: $136.99 USD
 - [Brocade Scroll Velvet - Tablecloth - Navy exclusive at The Tablecloth](https://thetableclothstore.com/products/brocade-scroll-velvet-tablecloth-navy-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Scroll Velvet Width: 58" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:47:13Z
+  Updated: 2025-10-20T16:51:32Z
   Vendor: The Tablecloth Store
   Product Type: Lobby Velvet Fabric
   Availability: Available
@@ -7623,7 +7623,7 @@
     Availability: Available
     Price: $136.99 USD
 - [Brocade Scroll Velvet - Tablecloth - Charcoal exclusive at The](https://thetableclothstore.com/products/brocade-scroll-velvet-tablecloth-charcoal-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Scroll Velvet Width: 58" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:46:24Z
+  Updated: 2025-10-20T16:51:32Z
   Vendor: The Tablecloth Store
   Product Type: Lobby Velvet Fabric
   Availability: Available
@@ -7677,7 +7677,7 @@
     Availability: Available
     Price: $136.99 USD
 - [Brocade Scroll Velvet - Tablecloth - Chocolate exclusive at The](https://thetableclothstore.com/products/brocade-scroll-velvet-tablecloth-chocolate-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Scroll Velvet Width: 58" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:46:25Z
+  Updated: 2025-10-20T16:51:33Z
   Vendor: The Tablecloth Store
   Product Type: Lobby Velvet Fabric
   Availability: Available
@@ -7731,7 +7731,7 @@
     Availability: Available
     Price: $136.99 USD
 - [Brocade Scroll Velvet - Tablecloth - Burgundy exclusive at The](https://thetableclothstore.com/products/brocade-scroll-velvet-tablecloth-burgundy-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Scroll Velvet Width: 58" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:46:25Z
+  Updated: 2025-10-20T16:51:33Z
   Vendor: The Tablecloth Store
   Product Type: Lobby Velvet Fabric
   Availability: Available
@@ -7785,7 +7785,7 @@
     Availability: Available
     Price: $136.99 USD
 - [Brocade Scroll Velvet - Tablecloth - Forest exclusive at The](https://thetableclothstore.com/products/brocade-scroll-velvet-tablecloth-forest-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Scroll Velvet Width: 58" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:46:36Z
+  Updated: 2025-10-20T16:51:33Z
   Vendor: The Tablecloth Store
   Product Type: Lobby Velvet Fabric
   Availability: Available
@@ -7839,7 +7839,7 @@
     Availability: Available
     Price: $136.99 USD
 - [Brocade Scroll Velvet - Tablecloth - Cafe exclusive at The Tablecloth](https://thetableclothstore.com/products/brocade-scroll-velvet-tablecloth-cafe-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Scroll Velvet Width: 58" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:46:24Z
+  Updated: 2025-10-20T16:51:33Z
   Vendor: The Tablecloth Store
   Product Type: Lobby Velvet Fabric
   Availability: Available
@@ -7893,7 +7893,7 @@
     Availability: Available
     Price: $136.99 USD
 - [Brocade Scroll Velvet - Tablecloth - White exclusive at The Tablecloth](https://thetableclothstore.com/products/brocade-scroll-velvet-tablecloth-white-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Scroll Velvet Width: 58" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:47:39Z
+  Updated: 2025-10-20T16:51:33Z
   Vendor: The Tablecloth Store
   Product Type: Lobby Velvet Fabric
   Availability: Available
@@ -7947,7 +7947,7 @@
     Availability: Available
     Price: $136.99 USD
 - [Brocade Scroll Velvet - Tablecloth - Ivory exclusive at The Tablecloth](https://thetableclothstore.com/products/brocade-scroll-velvet-tablecloth-ivory-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Scroll Velvet Width: 58" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:46:49Z
+  Updated: 2025-10-20T16:51:33Z
   Vendor: The Tablecloth Store
   Product Type: Lobby Velvet Fabric
   Availability: Available
@@ -8001,7 +8001,7 @@
     Availability: Available
     Price: $136.99 USD
 - [Brocade Scroll Velvet - Tablecloth - Blush exclusive at The Tablecloth](https://thetableclothstore.com/products/brocade-scroll-velvet-tablecloth-blush-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Scroll Velvet Width: 58" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:46:25Z
+  Updated: 2025-10-20T16:51:33Z
   Vendor: The Tablecloth Store
   Product Type: Lobby Velvet Fabric
   Availability: Available
@@ -8055,7 +8055,7 @@
     Availability: Available
     Price: $136.99 USD
 - [Brocade Scroll Velvet - Tablecloth - Gold exclusive at The Tablecloth](https://thetableclothstore.com/products/brocade-scroll-velvet-tablecloth-gold-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Scroll Velvet Width: 58" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:46:37Z
+  Updated: 2025-10-20T16:51:33Z
   Vendor: The Tablecloth Store
   Product Type: Lobby Velvet Fabric
   Availability: Available
@@ -8109,7 +8109,7 @@
     Availability: Available
     Price: $136.99 USD
 - [Brocade Scroll Velvet - Tablecloth - Taupe exclusive at The Tablecloth](https://thetableclothstore.com/products/brocade-scroll-velvet-tablecloth-taupe-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Scroll Velvet Width: 58" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:47:37Z
+  Updated: 2025-10-20T16:51:33Z
   Vendor: The Tablecloth Store
   Product Type: Lobby Velvet Fabric
   Availability: Available
@@ -8163,7 +8163,7 @@
     Availability: Available
     Price: $136.99 USD
 - [Brocade Scroll Velvet - Tablecloth - Sand exclusive at The Tablecloth](https://thetableclothstore.com/products/brocade-scroll-velvet-tablecloth-sand-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Scroll Velvet Width: 58" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:47:25Z
+  Updated: 2025-10-20T16:51:33Z
   Vendor: The Tablecloth Store
   Product Type: Lobby Velvet Fabric
   Availability: Available
@@ -8217,7 +8217,7 @@
     Availability: Available
     Price: $136.99 USD
 - [Brocade Scroll Velvet - Tablecloth - Seafoam exclusive at The](https://thetableclothstore.com/products/brocade-scroll-velvet-tablecloth-seafoam-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Scroll Velvet Width: 58" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:47:25Z
+  Updated: 2025-10-20T16:51:34Z
   Vendor: The Tablecloth Store
   Product Type: Lobby Velvet Fabric
   Availability: Available
@@ -8754,7 +8754,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Huntsville Brocade Velvet - Tablecloth - Black exclusive at The](https://thetableclothstore.com/products/huntsville-brocade-velvet-tablecloth-black-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:49Z
+  Updated: 2025-10-20T16:51:34Z
   Vendor: The Tablecloth Store
   Product Type: Huntsville Velvet Fabric
   Availability: Available
@@ -8823,7 +8823,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Huntsville Brocade Velvet - Tablecloth - Cafe exclusive at The](https://thetableclothstore.com/products/huntsville-brocade-velvet-tablecloth-cafe-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:49Z
+  Updated: 2025-10-20T16:51:34Z
   Vendor: The Tablecloth Store
   Product Type: Huntsville Velvet Fabric
   Availability: Available
@@ -8892,7 +8892,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Huntsville Brocade Velvet - Tablecloth - Charcoal exclusive at The](https://thetableclothstore.com/products/huntsville-brocade-velvet-tablecloth-charcoal-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:49Z
+  Updated: 2025-10-20T16:51:34Z
   Vendor: The Tablecloth Store
   Product Type: Huntsville Velvet Fabric
   Availability: Available
@@ -8961,7 +8961,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Huntsville Brocade Velvet - Tablecloth - Forest exclusive at The](https://thetableclothstore.com/products/huntsville-brocade-velvet-tablecloth-forest-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:49Z
+  Updated: 2025-10-20T16:51:34Z
   Vendor: The Tablecloth Store
   Product Type: Huntsville Velvet Fabric
   Availability: Available
@@ -9030,7 +9030,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Huntsville Brocade Velvet - Tablecloth - Copper exclusive at The](https://thetableclothstore.com/products/huntsville-brocade-velvet-tablecloth-copper-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:49Z
+  Updated: 2025-10-20T16:51:34Z
   Vendor: The Tablecloth Store
   Product Type: Huntsville Velvet Fabric
   Availability: Available
@@ -9099,7 +9099,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Huntsville Brocade Velvet - Tablecloth - Blush exclusive at The](https://thetableclothstore.com/products/huntsville-brocade-velvet-tablecloth-blush-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:49Z
+  Updated: 2025-10-20T16:51:34Z
   Vendor: The Tablecloth Store
   Product Type: Huntsville Velvet Fabric
   Availability: Available
@@ -9168,7 +9168,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Huntsville Brocade Velvet - Tablecloth - Champagne exclusive at The](https://thetableclothstore.com/products/huntsville-brocade-velvet-tablecloth-champagne-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:50Z
+  Updated: 2025-10-20T16:51:34Z
   Vendor: The Tablecloth Store
   Product Type: Huntsville Velvet Fabric
   Availability: Available
@@ -9237,7 +9237,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Huntsville Brocade Velvet - Tablecloth - Gold exclusive at The](https://thetableclothstore.com/products/huntsville-brocade-velvet-tablecloth-gold-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:50Z
+  Updated: 2025-10-20T16:51:34Z
   Vendor: The Tablecloth Store
   Product Type: Huntsville Velvet Fabric
   Availability: Available
@@ -9306,7 +9306,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Huntsville Brocade Velvet - Tablecloth - Plum exclusive at The](https://thetableclothstore.com/products/huntsville-brocade-velvet-tablecloth-plum-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:50Z
+  Updated: 2025-10-20T16:51:34Z
   Vendor: The Tablecloth Store
   Product Type: Huntsville Velvet Fabric
   Availability: Available
@@ -9375,7 +9375,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Huntsville Brocade Velvet - Tablecloth - Navy exclusive at The](https://thetableclothstore.com/products/huntsville-brocade-velvet-tablecloth-navy-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:50Z
+  Updated: 2025-10-20T16:51:35Z
   Vendor: The Tablecloth Store
   Product Type: Huntsville Velvet Fabric
   Availability: Available
@@ -9444,7 +9444,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Huntsville Brocade Velvet - Tablecloth - Lavender exclusive at The](https://thetableclothstore.com/products/huntsville-brocade-velvet-tablecloth-lavender-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:50Z
+  Updated: 2025-10-20T16:51:35Z
   Vendor: The Tablecloth Store
   Product Type: Huntsville Velvet Fabric
   Availability: Available
@@ -9513,7 +9513,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Huntsville Brocade Velvet - Tablecloth - Green exclusive at The](https://thetableclothstore.com/products/huntsville-brocade-velvet-tablecloth-green-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:50Z
+  Updated: 2025-10-20T16:51:35Z
   Vendor: The Tablecloth Store
   Product Type: Huntsville Velvet Fabric
   Availability: Available
@@ -9582,7 +9582,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Riverdale Crushed Velvet - Tablecloth - Black exclusive at The](https://thetableclothstore.com/products/riverdale-crushed-velvet-tablecloth-black-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Crushed Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:51Z
+  Updated: 2025-10-20T16:51:35Z
   Vendor: The Tablecloth Store
   Product Type: Riverdale Crushed Velvet Fabric
   Availability: Available
@@ -9687,7 +9687,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Huntsville Brocade Velvet - Tablecloth - Red exclusive at The](https://thetableclothstore.com/products/huntsville-brocade-velvet-tablecloth-red-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:51Z
+  Updated: 2025-10-20T16:51:35Z
   Vendor: The Tablecloth Store
   Product Type: Huntsville Velvet Fabric
   Availability: Available
@@ -9756,7 +9756,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Riverdale Crushed Velvet - Tablecloth - Navy exclusive at The](https://thetableclothstore.com/products/riverdale-crushed-velvet-tablecloth-navy-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Crushed Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:51Z
+  Updated: 2025-10-20T16:51:35Z
   Vendor: The Tablecloth Store
   Product Type: Riverdale Crushed Velvet Fabric
   Availability: Available
@@ -9861,7 +9861,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Huntsville Brocade Velvet - Tablecloth - Oyster exclusive at The](https://thetableclothstore.com/products/huntsville-brocade-velvet-tablecloth-oyster-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:51Z
+  Updated: 2025-10-20T16:51:35Z
   Vendor: The Tablecloth Store
   Product Type: Huntsville Velvet Fabric
   Availability: Available
@@ -9930,7 +9930,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Riverdale Crushed Velvet - Tablecloth - White exclusive at The](https://thetableclothstore.com/products/riverdale-crushed-velvet-tablecloth-white-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Crushed Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:51Z
+  Updated: 2025-10-20T16:51:35Z
   Vendor: The Tablecloth Store
   Product Type: Riverdale Crushed Velvet Fabric
   Availability: Available
@@ -10035,7 +10035,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Riverdale Crushed Velvet - Tablecloth - Natural exclusive at The](https://thetableclothstore.com/products/riverdale-crushed-velvet-tablecloth-natural-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Crushed Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:51Z
+  Updated: 2025-10-20T16:51:36Z
   Vendor: The Tablecloth Store
   Product Type: Riverdale Crushed Velvet Fabric
   Availability: Available
@@ -10140,7 +10140,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Huntsville Brocade Velvet - Tablecloth - Maize exclusive at The](https://thetableclothstore.com/products/huntsville-brocade-velvet-tablecloth-maize-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:52Z
+  Updated: 2025-10-20T16:51:36Z
   Vendor: The Tablecloth Store
   Product Type: Huntsville Velvet Fabric
   Availability: Available
@@ -10209,7 +10209,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Riverdale Crushed Velvet - Tablecloth - Seafoam exclusive at The](https://thetableclothstore.com/products/riverdale-crushed-velvet-tablecloth-seafoam-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Crushed Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:52Z
+  Updated: 2025-10-20T16:51:36Z
   Vendor: The Tablecloth Store
   Product Type: Riverdale Crushed Velvet Fabric
   Availability: Available
@@ -10314,7 +10314,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Huntsville Brocade Velvet - Tablecloth - Seafoam exclusive at The](https://thetableclothstore.com/products/huntsville-brocade-velvet-tablecloth-seafoam-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:52Z
+  Updated: 2025-10-20T16:51:36Z
   Vendor: The Tablecloth Store
   Product Type: Huntsville Velvet Fabric
   Availability: Available
@@ -10383,7 +10383,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Riverdale Crushed Velvet - Tablecloth - Rosset exclusive at The](https://thetableclothstore.com/products/riverdale-crushed-velvet-tablecloth-rosset-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Crushed Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:52Z
+  Updated: 2025-10-20T16:51:36Z
   Vendor: The Tablecloth Store
   Product Type: Riverdale Crushed Velvet Fabric
   Availability: Available
@@ -10488,7 +10488,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Riverdale Crushed Velvet - Tablecloth - Eggshell exclusive at The](https://thetableclothstore.com/products/riverdale-crushed-velvet-tablecloth-eggshell-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Crushed Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:52Z
+  Updated: 2025-10-20T16:51:36Z
   Vendor: The Tablecloth Store
   Product Type: Riverdale Crushed Velvet Fabric
   Availability: Available
@@ -10593,7 +10593,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Huntsville Brocade Velvet - Tablecloth - Sky Blue exclusive at The](https://thetableclothstore.com/products/huntsville-brocade-velvet-tablecloth-sky-blue-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:52Z
+  Updated: 2025-10-20T16:51:36Z
   Vendor: The Tablecloth Store
   Product Type: Huntsville Velvet Fabric
   Availability: Available
@@ -10662,7 +10662,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Riverdale Crushed Velvet - Tablecloth - Champagne exclusive at The](https://thetableclothstore.com/products/riverdale-crushed-velvet-tablecloth-champagne-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Crushed Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:53Z
+  Updated: 2025-10-20T16:51:36Z
   Vendor: The Tablecloth Store
   Product Type: Riverdale Crushed Velvet Fabric
   Availability: Available
@@ -10767,7 +10767,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Riverdale Crushed Velvet - Tablecloth - Gold exclusive at The](https://thetableclothstore.com/products/riverdale-crushed-velvet-tablecloth-gold-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Crushed Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:53Z
+  Updated: 2025-10-20T16:51:37Z
   Vendor: The Tablecloth Store
   Product Type: Riverdale Crushed Velvet Fabric
   Availability: Available
@@ -10872,7 +10872,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Huntsville Brocade Velvet - Tablecloth - Silver exclusive at The](https://thetableclothstore.com/products/huntsville-brocade-velvet-tablecloth-silver-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:53Z
+  Updated: 2025-10-20T16:51:37Z
   Vendor: The Tablecloth Store
   Product Type: Huntsville Velvet Fabric
   Availability: Available
@@ -10941,7 +10941,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Riverdale Crushed Velvet - Tablecloth - Hunter exclusive at The](https://thetableclothstore.com/products/riverdale-crushed-velvet-tablecloth-hunter-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Crushed Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:53Z
+  Updated: 2025-10-20T16:51:37Z
   Vendor: The Tablecloth Store
   Product Type: Riverdale Crushed Velvet Fabric
   Availability: Available
@@ -11046,7 +11046,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Huntsville Brocade Velvet - Tablecloth - Wine exclusive at The](https://thetableclothstore.com/products/huntsville-brocade-velvet-tablecloth-wine-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:53Z
+  Updated: 2025-10-20T16:51:37Z
   Vendor: The Tablecloth Store
   Product Type: Huntsville Velvet Fabric
   Availability: Available
@@ -11115,7 +11115,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Riverdale Crushed Velvet - Tablecloth - Maroon exclusive at The](https://thetableclothstore.com/products/riverdale-crushed-velvet-tablecloth-maroon-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Crushed Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:53Z
+  Updated: 2025-10-20T16:51:37Z
   Vendor: The Tablecloth Store
   Product Type: Riverdale Crushed Velvet Fabric
   Availability: Available
@@ -11220,7 +11220,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Riverdale Crushed Velvet - Tablecloth - Silver exclusive at The](https://thetableclothstore.com/products/riverdale-crushed-velvet-tablecloth-silver-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Crushed Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:54Z
+  Updated: 2025-10-20T16:51:37Z
   Vendor: The Tablecloth Store
   Product Type: Riverdale Crushed Velvet Fabric
   Availability: Available
@@ -11325,7 +11325,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Huntsville Brocade Velvet - Tablecloth - White exclusive at The](https://thetableclothstore.com/products/huntsville-brocade-velvet-tablecloth-white-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:54Z
+  Updated: 2025-10-20T16:51:37Z
   Vendor: The Tablecloth Store
   Product Type: Huntsville Velvet Fabric
   Availability: Available
@@ -11394,7 +11394,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Riverdale Crushed Velvet - Tablecloth - Antique White exclusive at The](https://thetableclothstore.com/products/riverdale-crushed-velvet-tablecloth-antique-white-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Crushed Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:54Z
+  Updated: 2025-10-20T16:51:37Z
   Vendor: The Tablecloth Store
   Product Type: Riverdale Crushed Velvet Fabric
   Availability: Available
@@ -11498,7 +11498,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Shiny Velvet - Tablecloth - Black exclusive at The Tablecloth Store](https://thetableclothstore.com/products/shiny-velvet-tablecloth-black-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Shiny Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:54Z
+  Updated: 2025-10-20T16:51:38Z
   Vendor: The Tablecloth Store
   Product Type: Velveteen Fabric
   Availability: Available
@@ -11567,7 +11567,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Shiny Velvet - Tablecloth - Red exclusive at The Tablecloth Store](https://thetableclothstore.com/products/shiny-velvet-tablecloth-red-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Shiny Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:54Z
+  Updated: 2025-10-20T16:51:38Z
   Vendor: The Tablecloth Store
   Product Type: Velveteen Fabric
   Availability: Available
@@ -11636,7 +11636,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Shiny Velvet - Tablecloth - Fire Red exclusive at The Tablecloth Store](https://thetableclothstore.com/products/shiny-velvet-tablecloth-fire-red-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Shiny Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:54Z
+  Updated: 2025-10-20T16:51:38Z
   Vendor: The Tablecloth Store
   Product Type: Velveteen Fabric
   Availability: Available
@@ -11705,7 +11705,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Shiny Velvet - Tablecloth - White exclusive at The Tablecloth Store](https://thetableclothstore.com/products/shiny-velvet-tablecloth-white-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Shiny Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:55Z
+  Updated: 2025-10-20T16:51:38Z
   Vendor: The Tablecloth Store
   Product Type: Velveteen Fabric
   Availability: Available
@@ -11774,7 +11774,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Shiny Velvet - Tablecloth - Antique White exclusive at The Tablecloth](https://thetableclothstore.com/products/shiny-velvet-tablecloth-antique-white-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Shiny Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:55Z
+  Updated: 2025-10-20T16:51:38Z
   Vendor: The Tablecloth Store
   Product Type: Velveteen Fabric
   Availability: Available
@@ -11843,7 +11843,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Shiny Velvet - Tablecloth - Apple Green exclusive at The Tablecloth](https://thetableclothstore.com/products/shiny-velvet-tablecloth-apple-green-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Shiny Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:55Z
+  Updated: 2025-10-20T16:51:38Z
   Vendor: The Tablecloth Store
   Product Type: Velveteen Fabric
   Availability: Available
@@ -11912,7 +11912,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Shiny Velvet - Tablecloth - Begonia exclusive at The Tablecloth Store](https://thetableclothstore.com/products/shiny-velvet-tablecloth-begonia-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Shiny Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:55Z
+  Updated: 2025-10-20T16:51:38Z
   Vendor: The Tablecloth Store
   Product Type: Velveteen Fabric
   Availability: Available
@@ -11981,7 +11981,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Shiny Velvet - Tablecloth - Aqua exclusive at The Tablecloth Store](https://thetableclothstore.com/products/shiny-velvet-tablecloth-aqua-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Shiny Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:55Z
+  Updated: 2025-10-20T16:51:38Z
   Vendor: The Tablecloth Store
   Product Type: Velveteen Fabric
   Availability: Available
@@ -12050,7 +12050,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Shiny Velvet - Tablecloth - Blush exclusive at The Tablecloth Store](https://thetableclothstore.com/products/shiny-velvet-tablecloth-blush-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Shiny Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:55Z
+  Updated: 2025-10-20T16:51:38Z
   Vendor: The Tablecloth Store
   Product Type: Velveteen Fabric
   Availability: Available
@@ -12119,7 +12119,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Shiny Velvet - Tablecloth - Burgundy exclusive at The Tablecloth Store](https://thetableclothstore.com/products/shiny-velvet-tablecloth-burgundy-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Shiny Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:56Z
+  Updated: 2025-10-20T16:51:39Z
   Vendor: The Tablecloth Store
   Product Type: Velveteen Fabric
   Availability: Available
@@ -12188,7 +12188,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Shiny Velvet - Tablecloth - Champagne exclusive at The Tablecloth](https://thetableclothstore.com/products/shiny-velvet-tablecloth-champagne-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Shiny Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:56Z
+  Updated: 2025-10-20T16:51:39Z
   Vendor: The Tablecloth Store
   Product Type: Velveteen Fabric
   Availability: Available
@@ -12257,7 +12257,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Shiny Velvet - Tablecloth - Charcoal exclusive at The Tablecloth Store](https://thetableclothstore.com/products/shiny-velvet-tablecloth-charcoal-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Shiny Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:56Z
+  Updated: 2025-10-20T16:51:39Z
   Vendor: The Tablecloth Store
   Product Type: Velveteen Fabric
   Availability: Available
@@ -12326,7 +12326,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Shiny Velvet - Tablecloth - Cherry Red exclusive at The Tablecloth](https://thetableclothstore.com/products/shiny-velvet-tablecloth-cherry-red-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Shiny Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:56Z
+  Updated: 2025-10-20T16:51:39Z
   Vendor: The Tablecloth Store
   Product Type: Velveteen Fabric
   Availability: Available
@@ -12395,7 +12395,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Soft Velvet - Tablecloth - Black exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-black-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:56Z
+  Updated: 2025-10-20T16:51:39Z
   Vendor: The Tablecloth Store
   Product Type: Sweden Velvet Fabric
   Availability: Available
@@ -12464,7 +12464,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Shiny Velvet - Tablecloth - Chocolate exclusive at The Tablecloth](https://thetableclothstore.com/products/shiny-velvet-tablecloth-chocolate-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Shiny Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:56Z
+  Updated: 2025-10-20T16:51:39Z
   Vendor: The Tablecloth Store
   Product Type: Velveteen Fabric
   Availability: Available
@@ -12533,7 +12533,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Soft Velvet - Tablecloth - Avocado exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-avocado-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:56Z
+  Updated: 2025-10-20T16:51:39Z
   Vendor: The Tablecloth Store
   Product Type: Sweden Velvet Fabric
   Availability: Available
@@ -12602,7 +12602,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Shiny Velvet - Tablecloth - Copper exclusive at The Tablecloth Store](https://thetableclothstore.com/products/shiny-velvet-tablecloth-copper-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Shiny Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:57Z
+  Updated: 2025-10-20T16:51:39Z
   Vendor: The Tablecloth Store
   Product Type: Velveteen Fabric
   Availability: Available
@@ -12671,7 +12671,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Soft Velvet - Tablecloth - Blush exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-blush-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:57Z
+  Updated: 2025-10-20T16:51:39Z
   Vendor: The Tablecloth Store
   Product Type: Sweden Velvet Fabric
   Availability: Available
@@ -12740,7 +12740,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Soft Velvet - Tablecloth - Champagne exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-champagne-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:57Z
+  Updated: 2025-10-20T16:51:39Z
   Vendor: The Tablecloth Store
   Product Type: Sweden Velvet Fabric
   Availability: Available
@@ -12809,7 +12809,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Shiny Velvet - Tablecloth - Dark Blue exclusive at The Tablecloth](https://thetableclothstore.com/products/shiny-velvet-tablecloth-dark-blue-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Shiny Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:57Z
+  Updated: 2025-10-20T16:51:40Z
   Vendor: The Tablecloth Store
   Product Type: Velveteen Fabric
   Availability: Available
@@ -12878,7 +12878,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Soft Velvet - Tablecloth - Charcoal exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-charcoal-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:57Z
+  Updated: 2025-10-20T16:51:40Z
   Vendor: The Tablecloth Store
   Product Type: Sweden Velvet Fabric
   Availability: Available
@@ -12947,7 +12947,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Soft Velvet - Tablecloth - Chocolate exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-chocolate-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:57Z
+  Updated: 2025-10-20T16:51:40Z
   Vendor: The Tablecloth Store
   Product Type: Sweden Velvet Fabric
   Availability: Available
@@ -13016,7 +13016,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Shiny Velvet - Tablecloth - Forest exclusive at The Tablecloth Store](https://thetableclothstore.com/products/shiny-velvet-tablecloth-forest-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Shiny Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:58Z
+  Updated: 2025-10-20T16:51:40Z
   Vendor: The Tablecloth Store
   Product Type: Velveteen Fabric
   Availability: Available
@@ -13085,7 +13085,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Soft Velvet - Tablecloth - Dark Navy exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-dark-navy-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:58Z
+  Updated: 2025-10-20T16:51:40Z
   Vendor: The Tablecloth Store
   Product Type: Sweden Velvet Fabric
   Availability: Available
@@ -13154,7 +13154,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Soft Velvet - Tablecloth - Navy exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-navy-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:58Z
+  Updated: 2025-10-20T16:51:40Z
   Vendor: The Tablecloth Store
   Product Type: Sweden Velvet Fabric
   Availability: Available
@@ -13223,7 +13223,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Shiny Velvet - Tablecloth - Gold exclusive at The Tablecloth Store](https://thetableclothstore.com/products/shiny-velvet-tablecloth-gold-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Shiny Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:58Z
+  Updated: 2025-10-20T16:51:40Z
   Vendor: The Tablecloth Store
   Product Type: Velveteen Fabric
   Availability: Available
@@ -13292,7 +13292,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Soft Velvet - Tablecloth - Grey exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-grey-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:58Z
+  Updated: 2025-10-20T16:51:40Z
   Vendor: The Tablecloth Store
   Product Type: Sweden Velvet Fabric
   Availability: Available
@@ -13361,7 +13361,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Shiny Velvet - Tablecloth - Fucshia exclusive at The Tablecloth Store](https://thetableclothstore.com/products/shiny-velvet-tablecloth-fucshia-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Shiny Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:58Z
+  Updated: 2025-10-20T16:51:40Z
   Vendor: The Tablecloth Store
   Product Type: Velveteen Fabric
   Availability: Available
@@ -13430,7 +13430,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Soft Velvet - Tablecloth - Levende exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-levende-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:59Z
+  Updated: 2025-10-20T16:51:40Z
   Vendor: The Tablecloth Store
   Product Type: Sweden Velvet Fabric
   Availability: Available
@@ -13499,7 +13499,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Soft Velvet - Tablecloth - Ivory exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-ivory-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:59Z
+  Updated: 2025-10-20T16:51:40Z
   Vendor: The Tablecloth Store
   Product Type: Sweden Velvet Fabric
   Availability: Available
@@ -13568,7 +13568,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Shiny Velvet - Tablecloth - Grey exclusive at The Tablecloth Store](https://thetableclothstore.com/products/shiny-velvet-tablecloth-grey-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Shiny Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:59Z
+  Updated: 2025-10-20T16:51:41Z
   Vendor: The Tablecloth Store
   Product Type: Velveteen Fabric
   Availability: Available
@@ -13637,7 +13637,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Soft Velvet - Tablecloth - Royal Blue exclusive at The Tablecloth](https://thetableclothstore.com/products/soft-velvet-tablecloth-royal-blue-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:59Z
+  Updated: 2025-10-20T16:51:41Z
   Vendor: The Tablecloth Store
   Product Type: Sweden Velvet Fabric
   Availability: Available
@@ -13706,7 +13706,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Soft Velvet - Tablecloth - Rose exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-rose-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:59Z
+  Updated: 2025-10-20T16:51:41Z
   Vendor: The Tablecloth Store
   Product Type: Sweden Velvet Fabric
   Availability: Available
@@ -13775,7 +13775,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Shiny Velvet - Tablecloth - Ivory exclusive at The Tablecloth Store](https://thetableclothstore.com/products/shiny-velvet-tablecloth-ivory-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Shiny Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:59Z
+  Updated: 2025-10-20T16:51:41Z
   Vendor: The Tablecloth Store
   Product Type: Velveteen Fabric
   Availability: Available
@@ -13844,7 +13844,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Soft Velvet - Tablecloth - Malaga exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-malaga-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:40:59Z
+  Updated: 2025-10-20T16:51:41Z
   Vendor: The Tablecloth Store
   Product Type: Sweden Velvet Fabric
   Availability: Available
@@ -13913,7 +13913,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Soft Velvet - Tablecloth - Gold exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-gold-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:41:00Z
+  Updated: 2025-10-20T16:51:41Z
   Vendor: The Tablecloth Store
   Product Type: Sweden Velvet Fabric
   Availability: Available
@@ -13982,7 +13982,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Shiny Velvet - Tablecloth - Levender exclusive at The Tablecloth Store](https://thetableclothstore.com/products/shiny-velvet-tablecloth-levender-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Shiny Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:41:00Z
+  Updated: 2025-10-20T16:51:41Z
   Vendor: The Tablecloth Store
   Product Type: Velveteen Fabric
   Availability: Available
@@ -14051,7 +14051,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Vails Brocade Velvet - Tablecloth - Black exclusive at The Tablecloth](https://thetableclothstore.com/products/vails-brocade-velvet-tablecloth-black-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Brocade Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:41:00Z
+  Updated: 2025-10-20T16:51:41Z
   Vendor: The Tablecloth Store
   Product Type: Vails Velvet Fabric
   Availability: Available
@@ -14120,7 +14120,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Vails Brocade Velvet - Tablecloth - Red exclusive at The Tablecloth](https://thetableclothstore.com/products/vails-brocade-velvet-tablecloth-red-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Brocade Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:41:00Z
+  Updated: 2025-10-20T16:51:41Z
   Vendor: The Tablecloth Store
   Product Type: Vails Velvet Fabric
   Availability: Available
@@ -14189,7 +14189,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Soft Velvet - Tablecloth - Dusty Rose exclusive at The Tablecloth](https://thetableclothstore.com/products/soft-velvet-tablecloth-dusty-rose-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:41:00Z
+  Updated: 2025-10-20T16:51:41Z
   Vendor: The Tablecloth Store
   Product Type: Sweden Velvet Fabric
   Availability: Available
@@ -14258,7 +14258,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Vails Brocade Velvet - Tablecloth - Blush exclusive at The Tablecloth](https://thetableclothstore.com/products/vails-brocade-velvet-tablecloth-blush-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Brocade Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:41:00Z
+  Updated: 2025-10-20T16:51:41Z
   Vendor: The Tablecloth Store
   Product Type: Vails Velvet Fabric
   Availability: Available
@@ -14327,7 +14327,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Shiny Velvet - Tablecloth - Lilac exclusive at The Tablecloth Store](https://thetableclothstore.com/products/shiny-velvet-tablecloth-lilac-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Shiny Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:41:00Z
+  Updated: 2025-10-20T16:51:42Z
   Vendor: The Tablecloth Store
   Product Type: Velveteen Fabric
   Availability: Available
@@ -14396,7 +14396,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Soft Velvet - Tablecloth - Russet exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-russet-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:41:01Z
+  Updated: 2025-10-20T16:51:42Z
   Vendor: The Tablecloth Store
   Product Type: Sweden Velvet Fabric
   Availability: Available
@@ -14465,7 +14465,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Vails Brocade Velvet - Tablecloth - Champagne exclusive at The](https://thetableclothstore.com/products/vails-brocade-velvet-tablecloth-champagne-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Brocade Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:41:01Z
+  Updated: 2025-10-20T16:51:42Z
   Vendor: The Tablecloth Store
   Product Type: Vails Velvet Fabric
   Availability: Available
@@ -14534,7 +14534,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Vails Brocade Velvet - Tablecloth - Forest exclusive at The Tablecloth](https://thetableclothstore.com/products/vails-brocade-velvet-tablecloth-forest-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Brocade Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:41:01Z
+  Updated: 2025-10-20T16:51:42Z
   Vendor: The Tablecloth Store
   Product Type: Vails Velvet Fabric
   Availability: Available
@@ -14603,7 +14603,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Soft Velvet - Tablecloth - Silver exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-silver-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:41:01Z
+  Updated: 2025-10-20T16:51:42Z
   Vendor: The Tablecloth Store
   Product Type: Sweden Velvet Fabric
   Availability: Available
@@ -14672,7 +14672,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Vails Brocade Velvet - Tablecloth - Gold exclusive at The Tablecloth](https://thetableclothstore.com/products/vails-brocade-velvet-tablecloth-gold-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Brocade Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:41:01Z
+  Updated: 2025-10-20T16:51:42Z
   Vendor: The Tablecloth Store
   Product Type: Vails Velvet Fabric
   Availability: Available
@@ -14741,7 +14741,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Shiny Velvet - Tablecloth - Mauve exclusive at The Tablecloth Store](https://thetableclothstore.com/products/shiny-velvet-tablecloth-mauve-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Shiny Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:41:02Z
+  Updated: 2025-10-20T16:51:42Z
   Vendor: The Tablecloth Store
   Product Type: Velveteen Fabric
   Availability: Available
@@ -14810,7 +14810,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Vails Brocade Velvet - Tablecloth - Ice Blue exclusive at The](https://thetableclothstore.com/products/vails-brocade-velvet-tablecloth-ice-blue-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Brocade Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:41:02Z
+  Updated: 2025-10-20T16:51:42Z
   Vendor: The Tablecloth Store
   Product Type: Vails Velvet Fabric
   Availability: Available
@@ -14879,7 +14879,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Soft Velvet - Tablecloth - Seafoam exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-seafoam-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:41:02Z
+  Updated: 2025-10-20T16:51:42Z
   Vendor: The Tablecloth Store
   Product Type: Sweden Velvet Fabric
   Availability: Available
@@ -14948,7 +14948,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Vails Brocade Velvet - Tablecloth - Ivory exclusive at The Tablecloth](https://thetableclothstore.com/products/vails-brocade-velvet-tablecloth-ivory-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Brocade Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:41:02Z
+  Updated: 2025-10-20T16:51:43Z
   Vendor: The Tablecloth Store
   Product Type: Vails Velvet Fabric
   Availability: Available
@@ -15017,7 +15017,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Soft Velvet - Tablecloth - Soft Green exclusive at The Tablecloth](https://thetableclothstore.com/products/soft-velvet-tablecloth-soft-green-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:41:02Z
+  Updated: 2025-10-20T16:51:43Z
   Vendor: The Tablecloth Store
   Product Type: Sweden Velvet Fabric
   Availability: Available
@@ -15086,7 +15086,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Vails Brocade Velvet - Tablecloth - Navy exclusive at The Tablecloth](https://thetableclothstore.com/products/vails-brocade-velvet-tablecloth-navy-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Brocade Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:41:02Z
+  Updated: 2025-10-20T16:51:43Z
   Vendor: The Tablecloth Store
   Product Type: Vails Velvet Fabric
   Availability: Available
@@ -15155,7 +15155,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Shiny Velvet - Tablecloth - Malaga exclusive at The Tablecloth Store](https://thetableclothstore.com/products/shiny-velvet-tablecloth-malaga-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Shiny Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:41:03Z
+  Updated: 2025-10-20T16:51:43Z
   Vendor: The Tablecloth Store
   Product Type: Velveteen Fabric
   Availability: Available
@@ -15224,7 +15224,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Vails Brocade Velvet - Tablecloth - Burgundy exclusive at The](https://thetableclothstore.com/products/vails-brocade-velvet-tablecloth-burgundy-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Brocade Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:41:03Z
+  Updated: 2025-10-20T16:51:43Z
   Vendor: The Tablecloth Store
   Product Type: Vails Velvet Fabric
   Availability: Available
@@ -15293,7 +15293,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Soft Velvet - Tablecloth - White exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-white-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:41:03Z
+  Updated: 2025-10-20T16:51:43Z
   Vendor: The Tablecloth Store
   Product Type: Sweden Velvet Fabric
   Availability: Available
@@ -15362,7 +15362,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Vails Brocade Velvet - Tablecloth - Olive exclusive at The Tablecloth](https://thetableclothstore.com/products/vails-brocade-velvet-tablecloth-olive-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Brocade Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:41:03Z
+  Updated: 2025-10-20T16:51:43Z
   Vendor: The Tablecloth Store
   Product Type: Vails Velvet Fabric
   Availability: Available
@@ -15431,7 +15431,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Shiny Velvet - Tablecloth - Navy exclusive at The Tablecloth Store](https://thetableclothstore.com/products/shiny-velvet-tablecloth-navy-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Shiny Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:41:03Z
+  Updated: 2025-10-20T16:51:43Z
   Vendor: The Tablecloth Store
   Product Type: Velveteen Fabric
   Availability: Available
@@ -15500,7 +15500,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Soft Velvet - Tablecloth - Brass exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-brass-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:41:03Z
+  Updated: 2025-10-20T16:51:43Z
   Vendor: The Tablecloth Store
   Product Type: Sweden Velvet Fabric
   Availability: Available
@@ -15569,7 +15569,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Vails Brocade Velvet - Tablecloth - White exclusive at The Tablecloth](https://thetableclothstore.com/products/vails-brocade-velvet-tablecloth-white-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Brocade Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:41:04Z
+  Updated: 2025-10-20T16:51:43Z
   Vendor: The Tablecloth Store
   Product Type: Vails Velvet Fabric
   Availability: Available
@@ -15638,7 +15638,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Shiny Velvet - Tablecloth - Olive exclusive at The Tablecloth Store](https://thetableclothstore.com/products/shiny-velvet-tablecloth-olive-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Shiny Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:41:04Z
+  Updated: 2025-10-20T16:51:43Z
   Vendor: The Tablecloth Store
   Product Type: Velveteen Fabric
   Availability: Available
@@ -15707,7 +15707,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Shiny Velvet - Tablecloth - Plum exclusive at The Tablecloth Store](https://thetableclothstore.com/products/shiny-velvet-tablecloth-plum-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Shiny Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:41:04Z
+  Updated: 2025-10-20T16:51:44Z
   Vendor: The Tablecloth Store
   Product Type: Velveteen Fabric
   Availability: Available
@@ -15776,7 +15776,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Shiny Velvet - Tablecloth - Rust exclusive at The Tablecloth Store](https://thetableclothstore.com/products/shiny-velvet-tablecloth-rust-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Shiny Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:41:04Z
+  Updated: 2025-10-20T16:51:44Z
   Vendor: The Tablecloth Store
   Product Type: Velveteen Fabric
   Availability: Available
@@ -15845,7 +15845,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Shiny Velvet - Tablecloth - Seafoam exclusive at The Tablecloth Store](https://thetableclothstore.com/products/shiny-velvet-tablecloth-seafoam-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Shiny Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:41:04Z
+  Updated: 2025-10-20T16:51:44Z
   Vendor: The Tablecloth Store
   Product Type: Velveteen Fabric
   Availability: Available
@@ -15914,7 +15914,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Shiny Velvet - Tablecloth - Silver exclusive at The Tablecloth Store](https://thetableclothstore.com/products/shiny-velvet-tablecloth-silver-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Shiny Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:41:04Z
+  Updated: 2025-10-20T16:51:44Z
   Vendor: The Tablecloth Store
   Product Type: Velveteen Fabric
   Availability: Available
@@ -15983,7 +15983,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Shiny Velvet - Tablecloth - Soft Green exclusive at The Tablecloth](https://thetableclothstore.com/products/shiny-velvet-tablecloth-soft-green-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Shiny Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:41:04Z
+  Updated: 2025-10-20T16:51:44Z
   Vendor: The Tablecloth Store
   Product Type: Velveteen Fabric
   Availability: Available
@@ -16052,7 +16052,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Shiny Velvet - Tablecloth - Tiffany exclusive at The Tablecloth Store](https://thetableclothstore.com/products/shiny-velvet-tablecloth-tiffany-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Shiny Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:41:05Z
+  Updated: 2025-10-20T16:51:44Z
   Vendor: The Tablecloth Store
   Product Type: Velveteen Fabric
   Availability: Available
@@ -16121,7 +16121,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Shiny Velvet - Tablecloth - Wine exclusive at The Tablecloth Store](https://thetableclothstore.com/products/shiny-velvet-tablecloth-wine-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Shiny Velvet Width: 72" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:47:45Z
+  Updated: 2025-10-20T16:51:44Z
   Vendor: The Tablecloth Store
   Product Type: Velveteen Fabric
   Availability: Available
@@ -16190,7 +16190,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Soft Velvet - Tablecloth - Blush exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-blush-the-tablecloth-store-1): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:41:05Z
+  Updated: 2025-10-20T16:51:44Z
   Vendor: The Tablecloth Store
   Product Type: Newport Velvet Fabric
   Availability: Available
@@ -16295,7 +16295,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Soft Velvet - Tablecloth - Black exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-black-the-tablecloth-store-1): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:41:05Z
+  Updated: 2025-10-20T16:51:44Z
   Vendor: The Tablecloth Store
   Product Type: Newport Velvet Fabric
   Availability: Available
@@ -16400,7 +16400,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Soft Velvet - Tablecloth - Brick exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-brick-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:41:05Z
+  Updated: 2025-10-20T16:51:44Z
   Vendor: The Tablecloth Store
   Product Type: Newport Velvet Fabric
   Availability: Available
@@ -16505,7 +16505,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Soft Velvet - Tablecloth - Baby Blue exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-baby-blue-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:41:05Z
+  Updated: 2025-10-20T16:51:44Z
   Vendor: The Tablecloth Store
   Product Type: Newport Velvet Fabric
   Availability: Available
@@ -16610,7 +16610,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Soft Velvet - Tablecloth - Ivory exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-ivory-the-tablecloth-store-1): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:41:06Z
+  Updated: 2025-10-20T16:51:45Z
   Vendor: The Tablecloth Store
   Product Type: Newport Velvet Fabric
   Availability: Available
@@ -16715,7 +16715,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Soft Velvet - Tablecloth - Hunter exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-hunter-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:41:06Z
+  Updated: 2025-10-20T16:51:45Z
   Vendor: The Tablecloth Store
   Product Type: Newport Velvet Fabric
   Availability: Available
@@ -16820,7 +16820,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Soft Velvet - Tablecloth - Maroon exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-maroon-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:41:06Z
+  Updated: 2025-10-20T16:51:45Z
   Vendor: The Tablecloth Store
   Product Type: Newport Velvet Fabric
   Availability: Available
@@ -16925,7 +16925,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Soft Velvet - Tablecloth - Eggshell exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-eggshell-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:41:06Z
+  Updated: 2025-10-20T16:51:45Z
   Vendor: The Tablecloth Store
   Product Type: Newport Velvet Fabric
   Availability: Available
@@ -17030,7 +17030,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Soft Velvet - Tablecloth - Silver exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-silver-the-tablecloth-store-1): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:41:06Z
+  Updated: 2025-10-20T16:51:45Z
   Vendor: The Tablecloth Store
   Product Type: Newport Velvet Fabric
   Availability: Available
@@ -17135,7 +17135,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Soft Velvet - Tablecloth - Olive exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-olive-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:41:07Z
+  Updated: 2025-10-20T16:51:45Z
   Vendor: The Tablecloth Store
   Product Type: Newport Velvet Fabric
   Availability: Available
@@ -17240,7 +17240,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Soft Velvet - Tablecloth - Mauve exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-mauve-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:41:07Z
+  Updated: 2025-10-20T16:51:45Z
   Vendor: The Tablecloth Store
   Product Type: Newport Velvet Fabric
   Availability: Available
@@ -17345,7 +17345,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Soft Velvet - Tablecloth - White exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-white-the-tablecloth-store-1): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:41:07Z
+  Updated: 2025-10-20T16:51:45Z
   Vendor: The Tablecloth Store
   Product Type: Newport Velvet Fabric
   Availability: Available
@@ -17450,7 +17450,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Soft Velvet - Tablecloth - Navy exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-navy-the-tablecloth-store-1): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:41:07Z
+  Updated: 2025-10-20T16:51:45Z
   Vendor: The Tablecloth Store
   Product Type: Newport Velvet Fabric
   Availability: Available
@@ -17555,7 +17555,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Soft Velvet - Tablecloth - Royal exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-royal-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:41:07Z
+  Updated: 2025-10-20T16:51:45Z
   Vendor: The Tablecloth Store
   Product Type: Newport Velvet Fabric
   Availability: Available
@@ -17660,7 +17660,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Soft Velvet - Tablecloth - Roseet exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-roseet-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:41:07Z
+  Updated: 2025-10-20T16:51:45Z
   Vendor: The Tablecloth Store
   Product Type: Newport Velvet Fabric
   Availability: Available
@@ -17765,7 +17765,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Soft Velvet - Tablecloth - Soft Green exclusive at The Tablecloth](https://thetableclothstore.com/products/soft-velvet-tablecloth-soft-green-the-tablecloth-store-1): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:41:08Z
+  Updated: 2025-10-20T16:51:46Z
   Vendor: The Tablecloth Store
   Product Type: Newport Velvet Fabric
   Availability: Available
@@ -17870,7 +17870,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Soft Velvet - Tablecloth - Wedgwood exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-wedgwood-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:41:08Z
+  Updated: 2025-10-20T16:51:46Z
   Vendor: The Tablecloth Store
   Product Type: Newport Velvet Fabric
   Availability: Available
@@ -17975,7 +17975,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Soft Velvet - Tablecloth - Amber exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-amber-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:41:08Z
+  Updated: 2025-10-20T16:51:46Z
   Vendor: The Tablecloth Store
   Product Type: Newport Velvet Fabric
   Availability: Available
@@ -18080,7 +18080,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Soft Velvet - Tablecloth - Aqua exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-aqua-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:41:08Z
+  Updated: 2025-10-20T16:51:46Z
   Vendor: The Tablecloth Store
   Product Type: Newport Velvet Fabric
   Availability: Available
@@ -18185,7 +18185,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Soft Velvet - Tablecloth - Antique White exclusive at The Tablecloth](https://thetableclothstore.com/products/soft-velvet-tablecloth-antique-white-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:41:08Z
+  Updated: 2025-10-20T16:51:46Z
   Vendor: The Tablecloth Store
   Product Type: Newport Velvet Fabric
   Availability: Available
@@ -18290,7 +18290,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Soft Velvet - Tablecloth - Cinnamon exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-cinnamon-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:41:08Z
+  Updated: 2025-10-20T16:51:46Z
   Vendor: The Tablecloth Store
   Product Type: Newport Velvet Fabric
   Availability: Available
@@ -18395,7 +18395,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Soft Velvet - Tablecloth - Lime exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-lime-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:41:09Z
+  Updated: 2025-10-20T16:51:46Z
   Vendor: The Tablecloth Store
   Product Type: Newport Velvet Fabric
   Availability: Available
@@ -18500,7 +18500,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Soft Velvet - Tablecloth - Deer exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-deer-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:41:09Z
+  Updated: 2025-10-20T16:51:46Z
   Vendor: The Tablecloth Store
   Product Type: Newport Velvet Fabric
   Availability: Available
@@ -18605,7 +18605,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Soft Velvet - Tablecloth - Grass exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-grass-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:41:09Z
+  Updated: 2025-10-20T16:51:46Z
   Vendor: The Tablecloth Store
   Product Type: Newport Velvet Fabric
   Availability: Available
@@ -18710,7 +18710,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Soft Velvet - Tablecloth - Loden Green exclusive at The Tablecloth](https://thetableclothstore.com/products/soft-velvet-tablecloth-loden-green-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:41:09Z
+  Updated: 2025-10-20T16:51:46Z
   Vendor: The Tablecloth Store
   Product Type: Newport Velvet Fabric
   Availability: Available
@@ -18815,7 +18815,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Soft Velvet - Tablecloth - Mint exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-mint-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:41:09Z
+  Updated: 2025-10-20T16:51:46Z
   Vendor: The Tablecloth Store
   Product Type: Newport Velvet Fabric
   Availability: Available
@@ -18920,7 +18920,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Soft Velvet - Tablecloth - Purple exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-purple-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:41:09Z
+  Updated: 2025-10-20T16:51:47Z
   Vendor: The Tablecloth Store
   Product Type: Newport Velvet Fabric
   Availability: Available
@@ -19025,7 +19025,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Soft Velvet - Tablecloth - Paprika exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-paprika-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:41:10Z
+  Updated: 2025-10-20T16:51:47Z
   Vendor: The Tablecloth Store
   Product Type: Newport Velvet Fabric
   Availability: Available
@@ -19130,7 +19130,7 @@
     Availability: Available
     Price: $109.99 USD
 - [Soft Velvet - Tablecloth - Tulip exclusive at The Tablecloth Store](https://thetableclothstore.com/products/soft-velvet-tablecloth-tulip-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Rich Velvet Width: 118" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:41:10Z
+  Updated: 2025-10-20T16:51:47Z
   Vendor: The Tablecloth Store
   Product Type: Newport Velvet Fabric
   Availability: Available
@@ -22594,7 +22594,7 @@
     Availability: Available
     Price: $129.99 USD
 - [FOLIAGE Jacquard Leave Print - Tablecloth - Black exclusive at The](https://thetableclothstore.com/products/foliage-jacquard-leave-print-tablecloth-black-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:41:15Z
+  Updated: 2025-10-20T16:51:49Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Print Fabric
   Availability: Available
@@ -25510,7 +25510,7 @@
     Availability: Available
     Price: $136.99 USD
 - [Portland Jacquard  - Tablecloth - Beige exclusive at The Tablecloth](https://thetableclothstore.com/products/portland-jacquard-tablecloth-beige-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:46:12Z
+  Updated: 2025-10-20T16:51:47Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -25672,7 +25672,7 @@
     Availability: Available
     Price: $136.99 USD
 - [Portland Jacquard  - Tablecloth - Magenta exclusive at The Tablecloth](https://thetableclothstore.com/products/portland-jacquard-tablecloth-magenta-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:47:14Z
+  Updated: 2025-10-20T16:51:47Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -25834,7 +25834,7 @@
     Availability: Available
     Price: $136.99 USD
 - [Portland Jacquard  - Tablecloth - Copan exclusive at The Tablecloth](https://thetableclothstore.com/products/portland-jacquard-tablecloth-copan-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:47:15Z
+  Updated: 2025-10-20T16:51:47Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -26047,7 +26047,7 @@
     Availability: Available
     Price: $165.99 USD
 - [Portland Jacquard  - Tablecloth - Gold exclusive at The Tablecloth](https://thetableclothstore.com/products/portland-jacquard-tablecloth-gold-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:46:37Z
+  Updated: 2025-10-20T16:51:47Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -26260,7 +26260,7 @@
     Availability: Available
     Price: $165.99 USD
 - [Portland Jacquard  - Tablecloth - Silver exclusive at The Tablecloth](https://thetableclothstore.com/products/portland-jacquard-tablecloth-silver-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:47:37Z
+  Updated: 2025-10-20T16:51:47Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -26524,7 +26524,7 @@
     Availability: Available
     Price: $165.99 USD
 - [Portland Jacquard  - Tablecloth - Taupe exclusive at The Tablecloth](https://thetableclothstore.com/products/portland-jacquard-tablecloth-taupe-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:47:37Z
+  Updated: 2025-10-20T16:51:47Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -26788,7 +26788,7 @@
     Availability: Available
     Price: $165.99 USD
 - [Portland Jacquard  - Tablecloth - Blush exclusive at The Tablecloth](https://thetableclothstore.com/products/portland-jacquard-tablecloth-blush-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:46:25Z
+  Updated: 2025-10-20T16:51:47Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -26842,7 +26842,7 @@
     Availability: Available
     Price: $166.99 USD
 - [Portland Jacquard  - Tablecloth - Grey exclusive at The Tablecloth](https://thetableclothstore.com/products/portland-jacquard-tablecloth-grey-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:46:48Z
+  Updated: 2025-10-20T16:51:48Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -26896,7 +26896,7 @@
     Availability: Available
     Price: $166.99 USD
 - [Portland Jacquard  - Tablecloth - Cloud Blue exclusive at The](https://thetableclothstore.com/products/portland-jacquard-tablecloth-cloud-blue-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:46:13Z
+  Updated: 2025-10-20T16:51:48Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -26950,7 +26950,7 @@
     Availability: Available
     Price: $166.99 USD
 - [Portland Jacquard  - Tablecloth - Black-Gold exclusive at The](https://thetableclothstore.com/products/portland-jacquard-tablecloth-black-gold-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Quilted Look Width: 115" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-20T00:46:37Z
+  Updated: 2025-10-20T16:51:48Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Fabric
   Availability: Available
@@ -32854,7 +32854,7 @@
     Availability: Available
     Price: $136.99 USD
 - [GRANITE - Digital Print Satin - Tablecloth - Black - The Tablecloth Store](https://thetableclothstore.com/products/granite-digital-print-satin-tablecloth-black): Fabric: Satin Granite Width: 58" Fabric Content: 100% Polyester Description - The Tablecloth Store
-  Updated: 2025-10-20T00:46:12Z
+  Updated: 2025-10-20T16:51:49Z
   Vendor: Fabrics Star
   Product Type: Digital Print Fabric
   Availability: Available
@@ -32962,7 +32962,7 @@
     Availability: Available
     Price: $136.99 USD
 - [LYNN Jacquard Print Metallic - Tablecloth - Aqua - The Tablecloth Store](https://thetableclothstore.com/products/lynn-jacquard-print-metallic-tablecloth-aqua): DIMENSION - Size of the fabric is 118 Inch. in width. fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 118' x 36'. Order of 3 yards (Qty=3) is 118’ x 108' Orders can be customized to be cut in pieces by request. MATERIAL – Jacquard Print Fabric by the yard is heavy weight and made of 100% polyester. SIZE: Jacquard fabric comes in 118 inch. in width making it the perfect choice for various oversize needs, such as wide tablecloths, etc. PRINT: Experience the beauty and elegance of our fabric with its stunning print! Perfect for any occasion, it will add a touch of sophistication to your gatherings. USEFUL - Ideal Material for Tablecloths, drapery, pillows, slipcovers, sewing, DIY, handbags, tote bags, arts and crafts, Etc. CARE - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor - The Tablecloth Store
-  Updated: 2025-10-20T00:41:43Z
+  Updated: 2025-10-20T16:51:48Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Print Fabric
   Availability: Available
@@ -33067,7 +33067,7 @@
     Availability: Available
     Price: $109.99 USD
 - [LYNN Jacquard Print Metallic - Tablecloth - Fuchsia - The Tablecloth Store](https://thetableclothstore.com/products/lynn-jacquard-print-metallic-tablecloth-fuchsia): DIMENSION - Size of the fabric is 118 Inch. in width. fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 118' x 36'. Order of 3 yards (Qty=3) is 118’ x 108' Orders can be customized to be cut in pieces by request. MATERIAL – Jacquard Print Fabric by the yard is heavy weight and made of 100% polyester. SIZE: Jacquard fabric comes in 118 inch. in width making it the perfect choice for various oversize needs, such as wide tablecloths, etc. PRINT: Experience the beauty and elegance of our fabric with its stunning print! Perfect for any occasion, it will add a touch of sophistication to your gatherings. USEFUL - Ideal Material for Tablecloths, drapery, pillows, slipcovers, sewing, DIY, handbags, tote bags, arts and crafts, Etc. CARE - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor - The Tablecloth Store
-  Updated: 2025-10-20T00:41:43Z
+  Updated: 2025-10-20T16:51:48Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Print Fabric
   Availability: Available
@@ -33172,7 +33172,7 @@
     Availability: Available
     Price: $109.99 USD
 - [LYNN Jacquard Print Metallic - Tablecloth - Green - The Tablecloth Store](https://thetableclothstore.com/products/lynn-jacquard-print-metallic-tablecloth-green): DIMENSION - Size of the fabric is 118 Inch. in width. fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 118' x 36'. Order of 3 yards (Qty=3) is 118’ x 108' Orders can be customized to be cut in pieces by request. MATERIAL – Jacquard Print Fabric by the yard is heavy weight and made of 100% polyester. SIZE: Jacquard fabric comes in 118 inch. in width making it the perfect choice for various oversize needs, such as wide tablecloths, etc. PRINT: Experience the beauty and elegance of our fabric with its stunning print! Perfect for any occasion, it will add a touch of sophistication to your gatherings. USEFUL - Ideal Material for Tablecloths, drapery, pillows, slipcovers, sewing, DIY, handbags, tote bags, arts and crafts, Etc. CARE - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor - The Tablecloth Store
-  Updated: 2025-10-20T00:41:43Z
+  Updated: 2025-10-20T16:51:48Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Print Fabric
   Availability: Available
@@ -33277,7 +33277,7 @@
     Availability: Available
     Price: $109.99 USD
 - [LYNN Jacquard Print Metallic - Tablecloth - Plum - The Tablecloth Store](https://thetableclothstore.com/products/lynn-jacquard-print-metallic-tablecloth-plum): DIMENSION - Size of the fabric is 118 Inch. in width. fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 118' x 36'. Order of 3 yards (Qty=3) is 118’ x 108' Orders can be customized to be cut in pieces by request. MATERIAL – Jacquard Print Fabric by the yard is heavy weight and made of 100% polyester. SIZE: Jacquard fabric comes in 118 inch. in width making it the perfect choice for various oversize needs, such as wide tablecloths, etc. PRINT: Experience the beauty and elegance of our fabric with its stunning print! Perfect for any occasion, it will add a touch of sophistication to your gatherings. USEFUL - Ideal Material for Tablecloths, drapery, pillows, slipcovers, sewing, DIY, handbags, tote bags, arts and crafts, Etc. CARE - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor - The Tablecloth Store
-  Updated: 2025-10-20T00:41:44Z
+  Updated: 2025-10-20T16:51:48Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Print Fabric
   Availability: Available
@@ -33382,7 +33382,7 @@
     Availability: Available
     Price: $109.99 USD
 - [LYNN Jacquard Print Metallic - Tablecloth - Silver - The Tablecloth Store](https://thetableclothstore.com/products/lynn-jacquard-print-metallic-tablecloth-silver): DIMENSION - Size of the fabric is 118 Inch. in width. fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 118' x 36'. Order of 3 yards (Qty=3) is 118’ x 108' Orders can be customized to be cut in pieces by request. MATERIAL – Jacquard Print Fabric by the yard is heavy weight and made of 100% polyester. SIZE: Jacquard fabric comes in 118 inch. in width making it the perfect choice for various oversize needs, such as wide tablecloths, etc. PRINT: Experience the beauty and elegance of our fabric with its stunning print! Perfect for any occasion, it will add a touch of sophistication to your gatherings. USEFUL - Ideal Material for Tablecloths, drapery, pillows, slipcovers, sewing, DIY, handbags, tote bags, arts and crafts, Etc. CARE - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor - The Tablecloth Store
-  Updated: 2025-10-20T00:41:44Z
+  Updated: 2025-10-20T16:51:49Z
   Vendor: The Tablecloth Store
   Product Type: Jacquard Print Fabric
   Availability: Available
@@ -33490,196 +33490,196 @@
 ## Collections
 
 - [Chenille {Double Width} - The Tablecloth Store](https://thetableclothstore.com/collections/chenille-fabric): - The Tablecloth Store
-  Updated: 2025-10-20T00:40:26Z
+  Updated: 2025-10-20T16:51:26Z
   Total Products: 14
 - [Soft velvet - The Tablecloth Store](https://thetableclothstore.com/collections/sweden-velvet-fabric): - The Tablecloth Store
-  Updated: 2025-10-20T00:40:26Z
+  Updated: 2025-10-20T16:51:26Z
   Total Products: 22
 - [Soft Velvet {Double Width} - The Tablecloth Store](https://thetableclothstore.com/collections/newport-velvet-fabric-118-width): - The Tablecloth Store
-  Updated: 2025-10-20T00:40:26Z
+  Updated: 2025-10-20T16:51:26Z
   Total Products: 30
 - [Shiny velvet - The Tablecloth Store](https://thetableclothstore.com/collections/shiny-velvet): - The Tablecloth Store
-  Updated: 2025-10-20T00:40:26Z
+  Updated: 2025-10-20T16:51:26Z
   Total Products: 35
 - [Dover {Double Width} - The Tablecloth Store](https://thetableclothstore.com/collections/dover-fabric): - The Tablecloth Store
-  Updated: 2025-10-20T00:40:26Z
+  Updated: 2025-10-20T16:51:26Z
   Total Products: 4
 - [Derby {Double Width} - The Tablecloth Store](https://thetableclothstore.com/collections/derby): - The Tablecloth Store
-  Updated: 2025-10-20T00:40:26Z
+  Updated: 2025-10-20T16:51:27Z
   Total Products: 5
 - [Treasure {Double Width} - The Tablecloth Store](https://thetableclothstore.com/collections/treasure): - The Tablecloth Store
-  Updated: 2025-10-20T00:40:27Z
+  Updated: 2025-10-20T16:51:27Z
   Total Products: 5
 - [Bonanza {Double Width} - The Tablecloth Store](https://thetableclothstore.com/collections/bonanza): - The Tablecloth Store
-  Updated: 2025-10-20T00:40:27Z
+  Updated: 2025-10-20T16:51:27Z
   Total Products: 5
 - [Crushed Velvet {Double Width} - The Tablecloth Store](https://thetableclothstore.com/collections/crushed-velvet-double-width): - The Tablecloth Store
-  Updated: 2025-10-20T00:40:27Z
+  Updated: 2025-10-20T16:51:27Z
   Total Products: 14
 - [Brocade Velvet - The Tablecloth Store](https://thetableclothstore.com/collections/brocade-velvet): - The Tablecloth Store
-  Updated: 2025-10-20T00:40:27Z
+  Updated: 2025-10-20T16:51:27Z
   Total Products: 14
 - [Brocade Velvet - The Tablecloth Store](https://thetableclothstore.com/collections/brocade-velvet-1): - The Tablecloth Store
-  Updated: 2025-10-20T00:40:27Z
+  Updated: 2025-10-20T16:51:27Z
   Total Products: 14
 - [Huntsville Velvet - The Tablecloth Store](https://thetableclothstore.com/collections/huntsville-velvet): - The Tablecloth Store
-  Updated: 2025-10-20T00:40:27Z
+  Updated: 2025-10-20T16:51:27Z
   Total Products: 21
 - [Hunter Velvet - The Tablecloth Store](https://thetableclothstore.com/collections/hunter-velvet): - The Tablecloth Store
-  Updated: 2025-10-20T00:40:27Z
+  Updated: 2025-10-20T16:51:27Z
   Total Products: 6
 - [Square {Double Width} - The Tablecloth Store](https://thetableclothstore.com/collections/square-double-width): - The Tablecloth Store
-  Updated: 2025-10-20T00:40:27Z
+  Updated: 2025-10-20T16:51:27Z
   Total Products: 7
 - [Abstract Crushed {Double Width} - The Tablecloth Store](https://thetableclothstore.com/collections/abstract-crushed-double-width): - The Tablecloth Store
-  Updated: 2025-10-20T00:40:27Z
+  Updated: 2025-10-20T16:51:27Z
   Total Products: 18
 - [Track - The Tablecloth Store](https://thetableclothstore.com/collections/track): - The Tablecloth Store
-  Updated: 2025-10-20T00:40:27Z
+  Updated: 2025-10-20T16:51:27Z
   Total Products: 5
 - [Gastonia - The Tablecloth Store](https://thetableclothstore.com/collections/gastonia): - The Tablecloth Store
-  Updated: 2025-10-20T00:40:27Z
+  Updated: 2025-10-20T16:51:27Z
   Total Products: 8
 - [Chrisma - The Tablecloth Store](https://thetableclothstore.com/collections/chrisma): - The Tablecloth Store
-  Updated: 2025-10-20T00:40:28Z
+  Updated: 2025-10-20T16:51:27Z
   Total Products: 9
 - [Gate - The Tablecloth Store](https://thetableclothstore.com/collections/gate): - The Tablecloth Store
-  Updated: 2025-10-20T00:40:28Z
+  Updated: 2025-10-20T16:51:27Z
   Total Products: 8
 - [Vails - The Tablecloth Store](https://thetableclothstore.com/collections/vails): - The Tablecloth Store
-  Updated: 2025-10-20T00:40:28Z
+  Updated: 2025-10-20T16:51:27Z
   Total Products: 13
 - [Starlight - The Tablecloth Store](https://thetableclothstore.com/collections/starlight): - The Tablecloth Store
-  Updated: 2025-10-20T00:40:28Z
+  Updated: 2025-10-20T16:51:27Z
   Total Products: 8
 - [Catch - The Tablecloth Store](https://thetableclothstore.com/collections/catch): - The Tablecloth Store
-  Updated: 2025-10-20T00:40:28Z
+  Updated: 2025-10-20T16:51:27Z
   Total Products: 5
 - [Sprite - The Tablecloth Store](https://thetableclothstore.com/collections/sprite): - The Tablecloth Store
-  Updated: 2025-10-20T00:40:28Z
+  Updated: 2025-10-20T16:51:27Z
   Total Products: 7
 - [Foliage - The Tablecloth Store](https://thetableclothstore.com/collections/foliage): - The Tablecloth Store
-  Updated: 2025-10-20T00:40:28Z
+  Updated: 2025-10-20T16:51:27Z
   Total Products: 3
 - [Fallen Leaves - The Tablecloth Store](https://thetableclothstore.com/collections/fallen-leaves): - The Tablecloth Store
-  Updated: 2025-10-20T00:40:28Z
+  Updated: 2025-10-20T16:51:27Z
   Total Products: 2
 - [Lynn - The Tablecloth Store](https://thetableclothstore.com/collections/lynn): - The Tablecloth Store
-  Updated: 2025-10-20T00:40:29Z
+  Updated: 2025-10-20T16:51:27Z
   Total Products: 6
 - [Milano - The Tablecloth Store](https://thetableclothstore.com/collections/milano): - The Tablecloth Store
-  Updated: 2025-10-20T00:40:29Z
+  Updated: 2025-10-20T16:51:28Z
   Total Products: 7
 - [Palms - The Tablecloth Store](https://thetableclothstore.com/collections/palms): - The Tablecloth Store
-  Updated: 2025-10-20T00:40:29Z
+  Updated: 2025-10-20T16:51:28Z
   Total Products: 3
 - [Poppy - The Tablecloth Store](https://thetableclothstore.com/collections/poppy): - The Tablecloth Store
-  Updated: 2025-10-20T00:40:29Z
+  Updated: 2025-10-20T16:51:28Z
   Total Products: 3
 - [Caracas - The Tablecloth Store](https://thetableclothstore.com/collections/caracas): - The Tablecloth Store
   Updated: 2025-08-25T16:16:15Z
   Total Products: 13
 - [Mumbai - The Tablecloth Store](https://thetableclothstore.com/collections/mumbai): - The Tablecloth Store
-  Updated: 2025-10-20T00:40:29Z
+  Updated: 2025-10-20T16:51:28Z
   Total Products: 6
 - [Marble - The Tablecloth Store](https://thetableclothstore.com/collections/marble): - The Tablecloth Store
-  Updated: 2025-10-20T00:40:29Z
+  Updated: 2025-10-20T16:51:28Z
   Total Products: 3
 - [Stardust - The Tablecloth Store](https://thetableclothstore.com/collections/stardust): - The Tablecloth Store
-  Updated: 2025-10-20T00:40:29Z
+  Updated: 2025-10-20T16:51:28Z
   Total Products: 10
 - [Portland - The Tablecloth Store](https://thetableclothstore.com/collections/portland): - The Tablecloth Store
-  Updated: 2025-10-20T00:40:30Z
+  Updated: 2025-10-20T16:51:28Z
   Total Products: 18
 - [Garden - The Tablecloth Store](https://thetableclothstore.com/collections/garden): - The Tablecloth Store
-  Updated: 2025-10-20T00:40:30Z
+  Updated: 2025-10-20T16:51:28Z
   Total Products: 12
 - [Delhi - The Tablecloth Store](https://thetableclothstore.com/collections/delhi): - The Tablecloth Store
-  Updated: 2025-10-20T00:40:30Z
+  Updated: 2025-10-20T16:51:28Z
   Total Products: 7
 - [Inline - The Tablecloth Store](https://thetableclothstore.com/collections/inline): - The Tablecloth Store
-  Updated: 2025-10-20T00:40:30Z
+  Updated: 2025-10-20T16:51:28Z
   Total Products: 9
 - [Allium - The Tablecloth Store](https://thetableclothstore.com/collections/allium): - The Tablecloth Store
-  Updated: 2025-10-20T00:40:30Z
+  Updated: 2025-10-20T16:51:28Z
   Total Products: 5
 - [Classic - The Tablecloth Store](https://thetableclothstore.com/collections/classic): - The Tablecloth Store
-  Updated: 2025-10-20T00:40:30Z
+  Updated: 2025-10-20T16:51:28Z
   Total Products: 2
 - [Marisol - The Tablecloth Store](https://thetableclothstore.com/collections/marisol): - The Tablecloth Store
-  Updated: 2025-10-20T00:40:31Z
+  Updated: 2025-10-20T16:51:28Z
   Total Products: 10
 - [Sparkle - The Tablecloth Store](https://thetableclothstore.com/collections/sparkle): - The Tablecloth Store
-  Updated: 2025-10-20T00:40:31Z
+  Updated: 2025-10-20T16:51:28Z
   Total Products: 8
 - [Triangle - The Tablecloth Store](https://thetableclothstore.com/collections/triangle): - The Tablecloth Store
-  Updated: 2025-10-20T00:40:31Z
+  Updated: 2025-10-20T16:51:28Z
   Total Products: 8
 - [Misty - The Tablecloth Store](https://thetableclothstore.com/collections/misty): - The Tablecloth Store
-  Updated: 2025-10-20T00:40:31Z
+  Updated: 2025-10-20T16:51:28Z
   Total Products: 7
 - [Vine Tree - The Tablecloth Store](https://thetableclothstore.com/collections/vine-tree): - The Tablecloth Store
-  Updated: 2025-10-20T00:40:31Z
+  Updated: 2025-10-20T16:51:28Z
   Total Products: 7
 - [Ladino - The Tablecloth Store](https://thetableclothstore.com/collections/ladino): - The Tablecloth Store
-  Updated: 2025-10-20T00:40:31Z
+  Updated: 2025-10-20T16:51:28Z
   Total Products: 1
 - [Frontier - The Tablecloth Store](https://thetableclothstore.com/collections/frontier): - The Tablecloth Store
-  Updated: 2025-10-20T00:40:32Z
+  Updated: 2025-10-20T16:51:28Z
   Total Products: 10
 - [Des Arts - The Tablecloth Store](https://thetableclothstore.com/collections/des-arts): - The Tablecloth Store
-  Updated: 2025-10-20T00:40:32Z
+  Updated: 2025-10-20T16:51:28Z
   Total Products: 6
 - [Mahwah - The Tablecloth Store](https://thetableclothstore.com/collections/mahwah): - The Tablecloth Store
-  Updated: 2025-10-20T00:40:32Z
+  Updated: 2025-10-20T16:51:29Z
   Total Products: 9
 - [York - The Tablecloth Store](https://thetableclothstore.com/collections/york): - The Tablecloth Store
-  Updated: 2025-10-20T00:40:32Z
+  Updated: 2025-10-20T16:51:29Z
   Total Products: 6
 - [Patio - The Tablecloth Store](https://thetableclothstore.com/collections/patio): - The Tablecloth Store
-  Updated: 2025-10-20T00:40:32Z
+  Updated: 2025-10-20T16:51:29Z
   Total Products: 5
 - [New Delhi - The Tablecloth Store](https://thetableclothstore.com/collections/new-delhi): - The Tablecloth Store
-  Updated: 2025-10-20T00:40:32Z
+  Updated: 2025-10-20T16:51:29Z
   Total Products: 5
 - [Cambridge - The Tablecloth Store](https://thetableclothstore.com/collections/cambridge): - The Tablecloth Store
-  Updated: 2025-10-20T00:40:33Z
+  Updated: 2025-10-20T16:51:29Z
   Total Products: 10
 - [Denver - The Tablecloth Store](https://thetableclothstore.com/collections/denver): - The Tablecloth Store
-  Updated: 2025-10-20T00:40:33Z
+  Updated: 2025-10-20T16:51:29Z
   Total Products: 6
 - [Lanora - The Tablecloth Store](https://thetableclothstore.com/collections/lanora): - The Tablecloth Store
-  Updated: 2025-10-20T00:40:33Z
+  Updated: 2025-10-20T16:51:29Z
   Total Products: 12
 - [Beacon - The Tablecloth Store](https://thetableclothstore.com/collections/beacon): - The Tablecloth Store
-  Updated: 2025-10-20T00:40:33Z
+  Updated: 2025-10-20T16:51:29Z
   Total Products: 10
 - [Beaconsfield - The Tablecloth Store](https://thetableclothstore.com/collections/beaconsfield): - The Tablecloth Store
-  Updated: 2025-10-20T00:40:33Z
+  Updated: 2025-10-20T16:51:29Z
   Total Products: 9
 - [Gravel - The Tablecloth Store](https://thetableclothstore.com/collections/gravel): - The Tablecloth Store
-  Updated: 2025-10-20T00:40:33Z
+  Updated: 2025-10-20T16:51:29Z
   Total Products: 5
 - [Calcutta - The Tablecloth Store](https://thetableclothstore.com/collections/calcutta): - The Tablecloth Store
-  Updated: 2025-10-20T00:40:34Z
+  Updated: 2025-10-20T16:51:29Z
   Total Products: 5
 - [Granite - The Tablecloth Store](https://thetableclothstore.com/collections/granite): - The Tablecloth Store
-  Updated: 2025-10-20T00:40:34Z
+  Updated: 2025-10-20T16:51:29Z
   Total Products: 5
 - [Lily - The Tablecloth Store](https://thetableclothstore.com/collections/lily): - The Tablecloth Store
-  Updated: 2025-10-20T00:40:34Z
+  Updated: 2025-10-20T16:51:29Z
   Total Products: 3
 - [Festoon - The Tablecloth Store](https://thetableclothstore.com/collections/festoon): - The Tablecloth Store
-  Updated: 2025-10-20T00:40:34Z
+  Updated: 2025-10-20T16:51:29Z
   Total Products: 2
 - [Aurura - The Tablecloth Store](https://thetableclothstore.com/collections/aurura): - The Tablecloth Store
-  Updated: 2025-10-20T00:40:34Z
+  Updated: 2025-10-20T16:51:29Z
   Total Products: 0
 - [Aster](https://thetableclothstore.com/collections/aster)
-  Updated: 2025-10-20T00:40:34Z
+  Updated: 2025-10-20T16:51:29Z
   Total Products: 4
 - [Parrot - The Tablecloth Store](https://thetableclothstore.com/collections/parrot): - The Tablecloth Store
-  Updated: 2025-10-20T00:40:34Z
+  Updated: 2025-10-20T16:51:29Z
   Total Products: 3
 - [APPPlaza - Best Sellers - The Tablecloth Store](https://thetableclothstore.com/collections/appplaza-best-sellers): - The Tablecloth Store
   Updated: 2025-10-11T11:18:54Z
@@ -33688,19 +33688,19 @@
   Updated: 2025-10-11T11:18:54Z
   Total Products: 613
 - [SPRING GARDEN - The Tablecloth Store](https://thetableclothstore.com/collections/spring-garden): - The Tablecloth Store
-  Updated: 2025-10-20T00:40:35Z
+  Updated: 2025-10-20T16:51:29Z
   Total Products: 7
 - [LYNSFIELD - The Tablecloth Store](https://thetableclothstore.com/collections/lynsfield): - The Tablecloth Store
-  Updated: 2025-10-20T00:40:35Z
+  Updated: 2025-10-20T16:51:29Z
   Total Products: 7
 - [Our full catalog - The Tablecloth Store](https://thetableclothstore.com/collections/our-full-catalog): - The Tablecloth Store
-  Updated: 2025-10-20T00:40:35Z
+  Updated: 2025-10-20T16:51:29Z
   Total Products: 592
 - [Try out - The Tablecloth Store](https://thetableclothstore.com/collections/try-out): - The Tablecloth Store
   Updated: 2025-09-04T18:59:07Z
   Total Products: 0
 - [72 Inch - The Tablecloth Store](https://thetableclothstore.com/collections/72-inch): - The Tablecloth Store
-  Updated: 2025-10-20T00:40:35Z
+  Updated: 2025-10-20T16:51:29Z
   Total Products: 22
 - [New! Shopify performance sharing is now turned on - The Tablecloth Store](https://thetableclothstore.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel. - The Tablecloth Store
   Updated: 2025-10-11T11:18:54Z
