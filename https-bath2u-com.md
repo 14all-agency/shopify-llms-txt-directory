@@ -6,7 +6,7 @@
 - Timezone: Asia/Kuala_Lumpur
 - Created At: 2022-10-06T05:47:12Z
 - Contact Email: sales@bath2u.com
-- Updated At: 2025-10-21T20:00:34.183Z
+- Updated At: 2025-10-22T04:00:35.980Z
 
 ## Products
 
@@ -2543,7 +2543,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/HV-T6406-BK-A.png?v=1678084358
   Price: RM 150.00 MYR
 - [NOVA 450mm Undermount Kitchen Sink - Single Bowl](https://bath2u.com/products/nova-450mm-undermount-kitchen-sink-single-bowl): Specification : Material : 304 Stainless Steel Colour : Satin Matt Type : Undermount Length : 450mm Width : 450mm Height : 230mm Thickness : 3.0 mm + 12 mm
-  Updated: 2025-02-14T04:37:48Z
+  Updated: 2025-10-22T03:44:09Z
   Vendor: NOVA
   Product Type: Undermount Kitchen Sinks
   Availability: Available
