@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-10-03T06:30:37Z
 - Contact Email: mandiemaddox@mystichiddengem.com
-- Updated At: 2025-10-22T00:00:30.737Z
+- Updated At: 2025-10-22T12:00:43.800Z
 
 ## Products
 
@@ -1361,7 +1361,7 @@
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/1921614712821865457_2048.jpg?v=1760927085
   Price: $78.73 USD
 - [Men's Neon Dark Deals Aesthetic Tee](https://lachrymalgems.store/products/unisex-softstyle-t-shirt-comfortable-casual-wear-perfect-for-everyday-fashion-gifts-birthdays-relaxed-style-and-celebrations): Introducing a Unisex Softstyle T-Shirt that perfectly blends comfort and style. The lightweight fabric feels blissful against the skin, making it an ideal choice for everyday wear. Its classic fit and crew neckline ensure versatility, so you can dress it up or down for any occasion
-  Updated: 2025-10-21T18:21:41Z
+  Updated: 2025-10-22T09:12:32Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
@@ -1454,8 +1454,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/3667910535987202444_2048.jpg?v=1761070901
     Price: $32.99 USD
-- [Men's Performance Long Sleeve Shirt with Colorful Cloud Design, Athletic Shirt, Outdoor Activity Wear, Gift for Fitness Enthusiasts](https://lachrymalgems.store/products/unisex-performance-long-sleeve-shirt-with-colorful-cloud-design-athletic-shirt-outdoor-activity-wear-gift-for-fitness-enthusiasts): Elevate your activewear collection with this Men's Performance Long Sleeve Shirt. Designed for those who love to stay active, this shirt offers a modern, sleek look that’s perfect for any workout or casual outing. Crafted from lightweight, breathable fabric, it not only keeps you cool during exercise but also transitions effortlessly into your everyday style. Ideal for fitness enthusiasts and outdoor adventurers alike, this shirt is perfect for running, hiking, or lounging on weekends. It makes a thoughtful gift for birthdays, fitness milestones, or holidays like Christmas and New Year’s, reminding loved ones to stay active and stylish in their pursuits.Product features- 100% Polyester ensures durability and shape retention.- Direct-to-Film (DTF) print for vibrant and unique designs.- UPF 30+ sun protection to shield you from harmful rays.- Moisture-wicking material keeps you dry during workouts.- Athletic fit offers a modern, streamlined silhouette.Care instructions- Machine wash: cold (max 30C or 90F)- Do not bleach- Do not tumble dry- Do not iron- Do not dryclean
-  Updated: 2025-10-21T19:03:02Z
+- [Unisex Performance Long Sleeve Shirt - Colorful Cloud Design | Athletic Wear](https://lachrymalgems.store/products/unisex-performance-long-sleeve-shirt-with-colorful-cloud-design-athletic-shirt-outdoor-activity-wear-gift-for-fitness-enthusiasts): Elevate your workout with our unisex performance long sleeve shirt featuring a vibrant colorful cloud design. Perfect for running, hiking & outdoor activities. Moisture-wicking athletic wear for fitness enthusiasts.
+  Updated: 2025-10-22T08:06:17Z
   Vendor: Printify
   Product Type: Long-sleeve
   Availability: Available
@@ -1556,12 +1556,12 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/713796044074234077_2048.jpg?v=1761073327
     Price: $68.62 USD
-- [Gothic Racerback Dress, Spooky Summer Fashion, Halloween Outfit, Casual Everyday Wear, Trendy Festival Dress, Unique Gothic Apparel](https://lachrymalgems.store/products/gothic-racerback-dress-spooky-summer-fashion-halloween-outfit-casual-everyday-wear-trendy-festival-dress-unique-gothic-apparel): Elevate your casual wardrobe with this Women's Racerback Dress. This dress is perfect for those warm, sunny days, providing a stylish, sporty silhouette that feels both comfortable and chic. The vibrant designs bring a unique energy, making it a great choice for casual outings, beach days, or getting together with friends. Ideal for fashion-forward individuals who appreciate creativity in their style, this dress is a fantastic option for summer picnics, music festivals, or fun night out. Celebrate your unique style during special occasions, or simply enjoy everyday wear with a touch of flair!Product features- 100% polyester for durability and quick drying.- Side seams provide structural support and help retain shape.- Self-fabric bindings for a clean and cohesive look.- Lightweight fabric perfect for warm weather.- Tagless design ensures maximum comfort.Care instructions- Do not dryclean- Do not iron- Tumble dry: low heat- Do not bleach- Machine wash: cold (max 30C or 90F), gentle cycle
-  Updated: 2025-10-21T22:32:40Z
+- [Gothic Racerback Dress - Spooky Halloween Fashion | Unique Festival Wear](https://lachrymalgems.store/products/gothic-racerback-dress-spooky-summer-fashion-halloween-outfit-casual-everyday-wear-trendy-festival-dress-unique-gothic-apparel): Stand out in our gothic racerback dress perfect for Halloween, festivals & everyday wear. Trendy spooky summer fashion with unique gothic style. Shop this casual yet edgy dress now!
+  Updated: 2025-10-22T03:25:44Z
   Vendor: Printify
   Product Type: All Over Prints
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/12382581391642116799_2048.jpg?v=1761085944
+  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/female-model-dark-occult-racerback-dress.png?v=1761103544
   Price: $52.42 USD
 
 ## Collections
@@ -1570,8 +1570,8 @@
   Updated: 2025-10-21T18:13:59Z
   Total Products: 19
 - [Ladies Alt. Style](https://lachrymalgems.store/collections/ladies-alt-style): Ladies trending apparel, Seasonal Fashion
-  Updated: 2025-10-21T14:18:48Z
-  Total Products: 17
+  Updated: 2025-10-22T03:25:43Z
+  Total Products: 18
 - [Mens Alt. Style](https://lachrymalgems.store/collections/mens-alt-style): Mens hip hop alternative trends and seasonal outfits.
   Updated: 2025-10-21T18:13:59Z
   Total Products: 15
@@ -1584,6 +1584,9 @@
 - [Vibe bin](https://lachrymalgems.store/collections/vibe-bin): Everything that feeds the mood board of your life. Shop the little things that recharge your frequency.
   Updated: 2025-10-20T02:31:43Z
   Total Products: 2
+- [Partner Products](https://lachrymalgems.store/collections/partner-products)
+  Updated: 2025-10-22T04:20:41Z
+  Total Products: 0
 
 ## Blogs
 
@@ -1603,6 +1606,10 @@
     Updated: 2025-10-16T05:51:24Z
     Author: Mandie Maddox
     Tags: alternative aesthetic, alternative fashion, dark academia, fashion trends 2025, gothic fashion, occult fashion, streetwear, style guide, TikTok fashion, vaporwave
+  - [Why'Alternative Fashion' is a Coded Language for the Souls Who Feel Too Much.](https://lachrymalgems.store/blogs/news/stop-blending-in-this-is-not-a-phase-its-your-armor): Why'Alternative Fashion' is a Coded Language for the Souls Who Feel Too Much.
+    Updated: 2025-10-22T00:06:56Z
+    Author: Mandie Maddox
+    Tags: alternative aesthetic, alternative fashion, Be yourself, Dark Aesthetic, Emo, Gems, Hurts, Identity, Love Lost, occult fashion, streetwear, TikTok fashion, vaporwave
 - [They Don't Tell You: The Story Behind Our Scars](https://lachrymalgems.store/blogs/they-dont-tell-you-the-story-behind-our-scars)
   - [They Don't Tell You: The Story Behind Our Scars](https://lachrymalgems.store/blogs/they-dont-tell-you-the-story-behind-our-scars/they-dont-tell-you-the-story-behind-our-scars)
     Updated: 2025-10-07T21:08:12Z
@@ -1623,6 +1630,8 @@
   Updated: 2025-10-21T19:22:20Z
 - [Email Sign Up](https://lachrymalgems.store/pages/email-sign-up): Join Our Mailing List Sign up to receive exclusive updates, special offers, and news about our latest collections. Subscribe
   Updated: 2025-10-17T22:51:45Z
+- [Other References](https://lachrymalgems.store/pages/other-references)
+  Updated: 2025-10-22T05:00:44Z
 
 ## Policies
 
