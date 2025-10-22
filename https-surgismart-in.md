@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-03-10T14:11:59Z
 - Contact Email: info@surgismart.in
-- Updated At: 2025-10-22T04:00:42.588Z
+- Updated At: 2025-10-22T16:00:37.826Z
 
 ## Products
 
@@ -1354,7 +1354,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/GoogleDrive_STH002GN_5-scaled.jpg?v=1751478430
   Price: ₹2,499.00 INR
 - [Buy ​Medvance Memory Foam Cervical Pillow Pro - Surgismart](https://surgismart.in/products/medvance-memory-foam-cervical-pillow-pro): Elevate your sleep quality and wake up refreshed with the Medvance Memory Foam Cervical Pillow. Specially designed to support the natural curve of your neck, this pillow alleviates neck pain, improves posture, and ensures a restful night's sleep. Key Features: Ergonomic Support Contoured Design: The pillow’s shape perfectly aligns with the natural curve of your neck and spine, providing optimal support and reducing neck pain. Premium Memory Foam Adaptive Comfort: Made from high-quality memory foam, the pillow adapts to the contours of your head and neck, offering personalized support and maintaining its shape throughout the night. Pain Relief Targeted Support: Ideal for those suffering from neck pain, stiffness, or chronic conditions such as cervical spondylosis. The pillow helps alleviate pressure and improve posture. Breathable and Hygienic Ventilated Cover: The pillow features a breathable, removable cover that enhances airflow and keeps you cool throughout the night. The cover is also machine washable for easy maintenance. Durable and Long-Lasting High-Quality Construction: The memory foam is designed to retain its shape and firmness over time, ensuring consistent support and comfort. Versatile Use Perfect for All Sleeping Positions: Whether you’re a back, side, or stomach sleeper, the Medvance Memory Foam Cervical Pillow provides the support and comfort you need for a good night’s rest. Why Choose Medvance Memory Foam Cervical Pillow? Invest in your sleep health with the Medvance Memory Foam Cervical Pillow. Designed to provide superior support and alleviate neck pain, this pillow is perfect for anyone seeking a restful and pain-free sleep. Experience the difference with Medvance and wake up feeling rejuvenated and ready to take on the day. - Surgismart
-  Updated: 2025-10-15T09:37:33Z
+  Updated: 2025-10-22T15:17:02Z
   Vendor: Medvance Surgicals
   Product Type: CUSHION
   Availability: Available
