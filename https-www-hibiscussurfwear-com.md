@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2023-04-19T20:10:07Z
 - Contact Email: georgina@hibiscussurfwear.com
-- Updated At: 2025-10-22T00:00:52.721Z
+- Updated At: 2025-10-22T16:00:49.337Z
 
 ## Products
 
@@ -1630,7 +1630,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/all-over-print-yoga-leggings-white-front-6474131a079ec.jpg?v=1685328683
     Price: £55.99 GBP
 - [Ficus elastica - Hibiscus Surfwear - Ethical Drawstring bag](https://www.hibiscussurfwear.com/products/ficus-elastic-hibiscus-surfwear-ethical-drawstring-bag): Ficus elastica - Hibiscus Surfwear - Ethical Drawstring bagCombine your love for vibrant prints and a sporty style with a cool drawstring bag. It's a must-have gym essential that can be worn as a backpack with drawstring closure at top, and narrow, contrasting shoulder straps. • 100% spun polyester• One size: 15″ × 17″ (38.1 cm × 43.2 cm)• Fabric weight in the US (may vary by 5%): 7.22 oz/yd² (245 g/m²)• Fabric weight in the EU (may vary by 5%): 6.64 oz/yd² (225 g/m²)"• Maximum weight limit: 33 lbs (15 kg)• Twin cotton handles• Drawstring closure• Blank product components sourced from ChinaThis product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
-  Updated: 2025-04-24T15:44:36Z
+  Updated: 2025-10-22T03:04:24Z
   Vendor: Hibiscus Surfwear
   Product Type: Drawstring bags
   Availability: Available
@@ -7867,7 +7867,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/all-over-print-one-piece-swimsuit-white-front-6488bb9b2506f.jpg?v=1686682536
     Price: £53.99 GBP
 - [Costa Rica - Hibiscus Surfwear - Ethical Stainless Steel Water Bottle](https://www.hibiscussurfwear.com/products/costa-rica-hibiscus-surfwear-ethical-stainless-steel-water-bottle): Costa Rica - Hibiscus Surfwear - Ethical Stainless Steel Water Bottle This 17-ounce, double-walled stainless steel water bottle is perfect for your daily outings. It will keep your drink of choice hot or cold for hours. It also features an odor- and leak-proof cap. Throw it in your car's cup holder on your way to work, take it with you on hikes, or toss it in your bag for any time you get thirsty. • High-grade stainless steel • 17 oz (500 ml) • Dimensions: 10.5″ × 2.85″ (27 × 7 cm) • Vacuum flask • Double-wall construction • Bowling pin shape • Glossy finish • Odorless and leak-proof cap • Insulated for hot and cold liquids (keeps the liquid hot or cold for 6 h) • Patented ORCA coating for vibrant colors • Hand-wash only • Blank product sourced from China Disclaimer: Keeping water in the bottle for over 24 hours is unhygienic and can result in an unpleasant smell. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
-  Updated: 2025-04-24T15:44:54Z
+  Updated: 2025-10-22T01:28:55Z
   Vendor: Hibiscus Surfwear
   Product Type: Water bottles
   Availability: Available
@@ -10318,7 +10318,7 @@
   Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/stainless-steel-water-bottle-white-17oz-front-6491f621ccc1e.jpg?v=1687287339
   Price: £36.99 GBP
 - [Waterloo & City III - Hibiscus Surfwear - Ethical Stainless Steel Water Bottle](https://www.hibiscussurfwear.com/products/waterloo-city-iii-hibiscus-surfwear-ethical-stainless-steel-water-bottle): Waterloo & City III - Hibiscus Surfwear - Ethical Stainless Steel Water Bottle This 17-ounce, double-walled stainless steel water bottle is perfect for your daily outings. It will keep your drink of choice hot or cold for hours. It also features an odor- and leak-proof cap. Throw it in your car's cup holder on your way to work, take it with you on hikes, or toss it in your bag for any time you get thirsty. • High-grade stainless steel • 17 oz (500 ml) • Dimensions: 10.5″ × 2.85″ (27 × 7 cm) • Vacuum flask • Double-wall construction • Bowling pin shape • Glossy finish • Odorless and leak-proof cap • Insulated for hot and cold liquids (keeps the liquid hot or cold for 6 h) • Patented ORCA coating for vibrant colors • Hand-wash only • Blank product sourced from China Disclaimer: Keeping water in the bottle for over 24 hours is unhygienic and can result in an unpleasant smell. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
-  Updated: 2025-04-24T15:45:07Z
+  Updated: 2025-10-22T10:54:56Z
   Vendor: Hibiscus Surfwear
   Product Type: 
   Availability: Available
@@ -10578,7 +10578,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/all-over-print-premium-pillow-22x22-front-lifestyle-2-64935f531bf2e.jpg?v=1687379837
     Price: £44.99 GBP
 - [Yellow Poppies - Hibiscus Surfwear - Ethical Premium Scatter Pillow](https://www.hibiscussurfwear.com/products/yellow-poppies-hibiscus-surfwear-ethical-premium-scatter-pillow): Yellow Poppies - Hibiscus Surfwear - Ethical Premium Scatter Pillow Want to add a splash of color to your home? This premium feel pillow with a shape-retaining insert is just what you're looking for! It'll make any room luxurious and provide the perfect excuse for a quick power nap. • 100% pre-shrunk polyester case • Fabric weight: 8.1 oz/yd² (275 g/m²) • Fabric with a linen feel • Hidden zipper • Machine-washable case • Shape-retaining 100% polyester insert included (handwash only) • Blank product components in Mexico sourced from China • Blank product components in the EU sourced from China and Poland This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
-  Updated: 2025-04-24T15:45:10Z
+  Updated: 2025-10-22T02:47:50Z
   Vendor: Hibiscus Surfwear
   Product Type: 
   Availability: Available
