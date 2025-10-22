@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2025-08-14T11:11:55Z
 - Contact Email: hello@georginazafeiri.com
-- Updated At: 2025-10-21T20:00:29.305Z
+- Updated At: 2025-10-22T12:00:32.501Z
 
 ## Products
 
