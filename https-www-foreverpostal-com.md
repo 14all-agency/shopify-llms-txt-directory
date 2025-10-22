@@ -6,14 +6,14 @@
 - Timezone: America/Los_Angeles
 - Created At: 2025-07-18T07:16:51Z
 - Contact Email: help@foreverpostal.com
-- Updated At: 2025-10-22T08:00:32.366Z
+- Updated At: 2025-10-22T12:00:31.614Z
 
 At our dedicated stamp store, we invite enthusiasts and collectors alike to explore a world of philately. Stamps are not just postal essentials; they are tiny pieces of art that carry stories and depict history. Whether you are a seasoned collector or just starting, our store has something for everyone.
 
 ## Products
 
 - [Flag 2025 Forever Stamps Roll - Forever Postal](https://www.foreverpostal.com/products/flag-2025-forever-stamps-roll): The issuance of the 2025 Flag stamps continues its long-standing tradition of paying tribute to the flag. 100pcs/Rolls - Forever Postal
-  Updated: 2025-10-21T12:34:30Z
+  Updated: 2025-10-22T10:15:04Z
   Vendor: foreverpostal
   Product Type: Flag
   Availability: Available
@@ -345,16 +345,16 @@ At our dedicated stamp store, we invite enthusiasts and collectors alike to expl
 ## Collections
 
 - [Flower Stamps - Forever Postal](https://www.foreverpostal.com/collections/frontpage): - Forever Postal
-  Updated: 2025-10-21T11:18:10Z
+  Updated: 2025-10-22T11:17:09Z
   Total Products: 27
 - [Flag Stamps - Forever Postal](https://www.foreverpostal.com/collections/flag-stamps): - Forever Postal
-  Updated: 2025-10-21T11:18:10Z
+  Updated: 2025-10-22T11:17:09Z
   Total Products: 8
 - [Holiday stamps - Forever Postal](https://www.foreverpostal.com/collections/holiday-stamps): - Forever Postal
   Updated: 2025-10-21T11:18:10Z
   Total Products: 13
 - [New! Shopify performance sharing is now turned on - Forever Postal](https://www.foreverpostal.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel. - Forever Postal
-  Updated: 2025-10-21T11:18:10Z
+  Updated: 2025-10-22T11:17:09Z
   Total Products: 47
 
 ## Store Pages
