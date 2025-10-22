@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-10-03T06:30:37Z
 - Contact Email: mandiemaddox@mystichiddengem.com
-- Updated At: 2025-10-22T12:00:43.800Z
+- Updated At: 2025-10-22T20:00:34.553Z
 
 ## Products
 
@@ -358,7 +358,7 @@
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/female-model-leggings-hoodie-dress-slippers-white-skeleton-sling-bag.png?v=1760910384
   Price: $57.99 USD
 - [Cozy Unisex Fleece Joggers - Ultimate Comfort Sweatpants](https://lachrymalgems.store/products/cozy-unisex-fleece-joggers-casual-loungewear-athleisure-workout-pants-comfortable-leisure-bottoms-perfect-for-relaxation): ltimate comfort unisex fleece joggers perfect for loungewear and athleisure. Cozy casual workout pants for relaxation. Comfortable leisure bottoms
-  Updated: 2025-10-21T03:47:55Z
+  Updated: 2025-10-22T13:51:38Z
   Vendor: Printify
   Product Type: Trousers
   Availability: Available
@@ -1573,7 +1573,7 @@
   Updated: 2025-10-22T03:25:43Z
   Total Products: 18
 - [Mens Alt. Style](https://lachrymalgems.store/collections/mens-alt-style): Mens hip hop alternative trends and seasonal outfits.
-  Updated: 2025-10-21T18:13:59Z
+  Updated: 2025-10-22T13:51:41Z
   Total Products: 15
 - [Trap-Core Shoes](https://lachrymalgems.store/collections/trap-core-shoes)
   Updated: 2025-10-21T03:50:12Z
