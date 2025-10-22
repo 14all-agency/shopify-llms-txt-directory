@@ -6,7 +6,7 @@
 - Timezone: Europe/Madrid
 - Created At: 2022-07-18T15:24:40Z
 - Contact Email: info@hifimediastore.com
-- Updated At: 2025-10-21T20:01:14.546Z
+- Updated At: 2025-10-22T00:01:11.771Z
 
 ## Products
 
@@ -5008,7 +5008,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/2a2893d72ff65b6aa60412fb06e0d4fd6fd920ff_0_0_4e07cbc8-b333-4470-9f41-0e0aca56c360.jpg?v=1756147712
   Price: 32,99 € EUR
 - [Logitech H111 - Auriculares Con Microfono y Jack 3.5 Gris](https://hifimediastore.com/products/auriculares-logitech-h111-con-microfono-jack-3-5-gris): Logitech H111 son unos auriculares excelentes para usar con todos tus dispositivos. La forma más sencilla de empezar a hablar usando ordenadores, smartphones o tablets. Tienen una toma de audio estándar de 3,5 mm y son compatibles con la mayoría de los sistemas operativos y plataformas. Permiten oír lo esencial y ser oído con claridad. Características: Sonido estéreo. Disfruta de audio claro para música, juegos y llamadas. Unos auriculares fiables para tareas cotidianas, como las videoconferencias con familiares, amigos y compañeros. Micrófono giratorio. La varilla puede girar 180°, para su colocación en el lado derecho o el izquierdo. El micrófono flexible se puede colocar del modo más adecuado para mejorar la captura de voz y reducir el ruido de fondo. La varilla se puede guardar, para que no estorbe cuando no se use. Diadema ajustable. Auriculares estéreo robustos y ligeros con una amplia gama de ajustes. Las almohadillas de espuma blanda proporcionan comodidad prolongada. Conexión de toma de audio de 3,5mm. Para empezar a usarlos, basta con conectar la toma de 3,5 mm a un ordenador, un smartphone o una tablet. Especificaciones: Requisitos del sistema Sistema operativo Windows soportado: Windows 7 Enterprise,Windows 7 Enterprise x64,Windows 7 Home Basic,Windows 7 Home Basic x64,Windows 7 Home Premium,Windows 7 Home Premium x64,Windows 7 Professional,Windows 7 Professional x64,Windows 7 Starter,Windows 7 Starter x64,Windows 7 Ultimate,Windows 7 Ultimate x64,Windows 8,Windows 8 Enterprise,Windows 8 Enterprise x64,Windows 8 Pro,Windows 8 Pro x64,Windows 8 x64,Windows Vista Business,Windows Vista Business x64,Windows Vista Enterprise,Windows Vista Enterprise x64,Windows Vista Home Basic,Windows Vista Home Basic x64,Windows Vista Home Premium,Windows Vista Home Premium x64,Windows Vista Ultimate,Windows Vista Ultimate x64 Sistema operativo MAC soportado: Mac OS X 10.5 Leopard, Mac OS X 10.6 Snow Leopard, Mac OS X 10.7 Lion, Mac OS X 10.8 Mountain Lion, Mac OS X 10.9 Mavericks Puertos e Interfaces Tecnología de conectividad: Alámbrico Conector de 3,5 mm: Si Conector de 2,5 mm: No 2 conectores de 3,5 mm: No Conexión USB: No Bluetooth: No Longitud de cable: 1,8 m Peso y dimensiones Ancho: 210 mm Profundidad: 50 mm Altura: 160 mm Peso: 73,2 g Micrófono Frecuencia de micrófono: 100 - 16000 Hz Sensibilidad de micrófono: -58 dB Auriculares Audifonos: Circumaural Frecuencia de auricular: 20 - 20000 Hz Obstrucción: 32 Ohm Sensibilidad de auricular: 100 dB Diseño Tipo de auricular: Binaurale Estilo de uso: Diadema Color del producto: Gris Desempeño Utilizar con: PC/Juegos
-  Updated: 2025-08-29T15:54:15Z
+  Updated: 2025-10-21T23:38:04Z
   Vendor: Logitech
   Product Type: Todos los auriculares
   Availability: Available
@@ -5119,6 +5119,12 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/belkin-soundform-mini-wired-on-ear-hp-bl_310143_6.jpg?v=1756469611
   Price: 19,99 € EUR
+- [Belkin SoundForm Motion - Auriculares Bluetooth Negros](https://hifimediastore.com/products/belkin-soundform-motion-auriculares-bluetooth-negros): Belkin SoundForm Motion. Aprovecha al máximo el tiempo que inviertes en tus desplazamientos al trabajo, cuando haces deporte o te relajas con estos auriculares True Wireless que ofrecen una vinculación Bluetooth® y unos controles fluidos y eficientes. Belkin ha diseñado una exclusiva experiencia de audio de alta fidelidad gracias a los transductores de 12 mm y las tres preconfiguraciones de ecualización de audio. Su autonomía mejorada se traduce en hasta 9 horas de uso continuo y su estuche de carga la extiende otras 24 horas. Carga a gran velocidad: 10 minutos de carga parcial proporcionan 1 hora de uso. Fluida y fiable vinculación Bluetooth 5.2 con 10 m de alcance. Dos micrófonos integrados en cada auricular para hablar por teléfono con gran claridad. Cancelación del ruido ambiente. Modo mono para poder usar un solo auricular y ahorrar batería y ser consciente de lo que ocurre en las inmediaciones. Los transductores de 12 mm producen un audio de alta fidelidad. 3 preconfiguraciones de ecualización para una experiencia de escucha personalizada. Confort para todo el día y eficiente cierre estanco que garantiza un adecuado aislamiento acústico. Controles táctiles intuitivos. En el reverso de la tapa del estuche de carga se ha incluido una práctica guía rápida de los controles táctiles. Grado IPX5 de resistencia contra el sudor y las salpicaduras de agua. Certificación Qi. Especificaciones: Desempeño Tipo de producto: Auriculares Estilo de uso: Dentro de oído Uso recomendado: Llamadas/Música/Deporte/Uso diario Color del producto: Negro Tipo de auricular: Binaural Teclas de funcionamiento: Tecla múltiple Tipo de controles: On-ear control unit Tipo de control: Tocar Funciones de protección: A prueba de salpicaduras, Resistente al sudor Código IP (International Protection): IPX5 Dispone de Indicadores LED Productos compatibles: Google Pixel 6 Google Pixel 6a iPhone 14 iPhone 14 Pro iPhone 14 Plus iPhone 14 Pro Max iPhone 12 iPhone 12 mini iPhone 12 Pro iPhone 12 Pro Max iPhone 13 iPhone 13 mini iPhone 13 Pro iPhone 13 Pro Max Galaxy S21 5G Galaxy S21+ 5G Galaxy S21 Ultra 5G Galaxy S22 5G Galaxy S22+ 5G Galaxy S22 Ultra 5G Galaxy S23 Galaxy S23 Plus Galaxy S23 Ultra Galaxy Note20 Ultra Puertos e Interfaces Tecnología de conectividad: True Wireless Stereo (TWS) Dispone de Bluetooth Versión de Bluetooth: 5.2 Alcance inalámbrico: 10 m Auriculares Audífonos: Intraaural Auriculares de tipo Intraural: Auriculares Unidad de disco: 1,2 cm Dispone de Filtrado de ruidos Micrófono Tipo de micrófono: Integrado número de micrófonos: 2 Batería Dispone de Batería Tipo de batería: Batería integrada Tiempo continuo de reproducción de audio: 9 h Autonomía en reproducción continua de audio (con estuche de carga): 24 h Fuente de carga: USB Dispone de Cargador inalámbrico Contenido del embalaje Dispone de Cargador Dispone de Funda de carga Tipo de estuche de carga: Inalámbrico y alámbrico Tipo de conector del estuche de carga: USB Tipo C Cables incluidos: USB Tipo C Dispone de Auriculares adicionales Cantidad: 1
+  Updated: 2025-10-21T20:10:11Z
+  Vendor: BELKIN
+  Product Type: Todos los auriculares
+  Availability: Available
+  Price: 102,99 € EUR
 - [Belkin SoundForm Motion - Auriculares Bluetooth Blancos](https://hifimediastore.com/products/belkin-soundform-motion-auriculares-bluetooth-blancos): Belkin SoundForm Motion. Aprovecha al máximo el tiempo que inviertes en tus desplazamientos al trabajo, cuando haces deporte o te relajas con estos auriculares True Wireless que ofrecen una vinculación Bluetooth® y unos controles fluidos y eficientes. Belkin ha diseñado una exclusiva experiencia de audio de alta fidelidad gracias a los transductores de 12 mm y las tres preconfiguraciones de ecualización de audio. Su autonomía mejorada se traduce en hasta 9 horas de uso continuo y su estuche de carga la extiende otras 24 horas. Carga a gran velocidad: 10 minutos de carga parcial proporcionan 1 hora de uso. Fluida y fiable vinculación Bluetooth 5.2 con 10 m de alcance. Dos micrófonos integrados en cada auricular para hablar por teléfono con gran claridad. Cancelación del ruido ambiente. Modo mono para poder usar un solo auricular y ahorrar batería y ser consciente de lo que ocurre en las inmediaciones. Los transductores de 12 mm producen un audio de alta fidelidad. 3 preconfiguraciones de ecualización para una experiencia de escucha personalizada. Confort para todo el día y eficiente cierre estanco que garantiza un adecuado aislamiento acústico. Controles táctiles intuitivos. En el reverso de la tapa del estuche de carga se ha incluido una práctica guía rápida de los controles táctiles. Grado IPX5 de resistencia contra el sudor y las salpicaduras de agua. Certificación Qi. Especificaciones: Desempeño Tipo de producto: Auriculares Estilo de uso: Dentro de oído Uso recomendado: Llamadas/Música/Deporte/Uso diario Color del producto: Blanco Tipo de auricular: Binaural Teclas de funcionamiento: Tecla múltiple Tipo de controles: On-ear control unit Tipo de control: Tocar Funciones de protección: A prueba de salpicaduras, Resistente al sudor Código IP (International Protection): IPX5 Dispone de Indicadores LED Productos compatibles: Google Pixel 6 Google Pixel 6a iPhone 14 iPhone 14 Pro iPhone 14 Plus iPhone 14 Pro Max iPhone 12 iPhone 12 mini iPhone 12 Pro iPhone 12 Pro Max iPhone 13 iPhone 13 mini iPhone 13 Pro iPhone 13 Pro Max Galaxy S21 5G Galaxy S21+ 5G Galaxy S21 Ultra 5G Galaxy S22 5G Galaxy S22+ 5G Galaxy S22 Ultra 5G Galaxy S23 Galaxy S23 Plus Galaxy S23 Ultra Galaxy Note20 Ultra Puertos e Interfaces Tecnología de conectividad: True Wireless Stereo (TWS) Dispone de Bluetooth Versión de Bluetooth: 5.2 Alcance inalámbrico: 10 m Auriculares Audífonos: Intraaural Auriculares de tipo Intraural: Auriculares Unidad de disco: 1,2 cm Dispone de Filtrado de ruidos Micrófono Tipo de micrófono: Integrado número de micrófonos: 2 Batería Dispone de Batería Tipo de batería: Batería integrada Tiempo continuo de reproducción de audio: 9 h Autonomía en reproducción continua de audio (con estuche de carga): 24 h Fuente de carga: USB Dispone de Cargador inalámbrico Contenido del embalaje Dispone de Cargador Dispone de Funda de carga Tipo de estuche de carga: Inalámbrico y alámbrico Tipo de conector del estuche de carga: USB Tipo C Cables incluidos: USB Tipo C Dispone de Auriculares adicionales Cantidad: 1
   Updated: 2025-08-30T15:54:36Z
   Vendor: BELKIN
@@ -5357,12 +5363,19 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/hp-hyperx-cloud-iii---auriculares-gaming_338672_1.jpg?v=1756402073
   Price: 94,99 € EUR
-- [HyperX Earbuds II - Auriculares Gaming Intraurales con Micrófono Rojos](https://hifimediastore.com/products/hyperx-earbuds-ii-auriculares-gaming-intraurales-con-microfono-rojos): No necesitas llevar unos auriculares para jugar profesionalmente. Si lo que buscas es una buena calidad de audio y una cómoda portabilidad, los auriculares en la nube HyperX II son tu opción ideal. Gracias a los controladores de 14 mm optimizados para un audio móvil, disfrutarás de una gran experiencia auditiva tanto si estás jugando, viendo vídeos o escuchando un buen podcast o audiolibro. Los 4 tamaños rediseñados de almohadillas para auriculares te permitirán conseguir el ajuste perfecto para tus oídos. Los auriculares en la nube II también incluyen un cable de 90° de perfil bajo para evitar los enganches, así como un estuche rígido de transporte. En el caso de los más atareados, el micrófono integrado permite pasar rápidamente de jugar en el móvil a responder llamadas telefónicas con tan solo pulsar el botón multifunción[3]. Estos versátiles auriculares son compatibles con ordenadores[1], consolas Nintendo Switch, videoconsolas Steam Deck™ y dispositivos móviles[2] que utilizan una conexión de 3,5 mm. [1] Es posible que se requiera un cable divisor adicional para los ordenadores con conectores de altavoz y micrófono individuales. [2] Requiere un conector para auriculares de 3,5 mm con conexiones CTIA o un adaptador de 3,5 mm compatible. [3] Acciones de botones multifunción dictadas por el dispositivo; la función real puede variar. Características: Optimizado para jugar y escuchar audio durante los desplazamientos. Con un sonido envolvente ofrecido por los controladores de 14 mm, los auriculares en la nube II se han diseñado para mejorar tu experiencia auditiva, tanto si estás jugando, viendo retransmisiones o escuchando un buen libro. Incluye 4 tamaños de almohadillas para auriculares: encuentra el ajuste ideal. Gracias a los 4 tamaños rediseñados de almohadillas para auriculares, que incluyen tanto almohadillas grandes como almohadillas sumamente pequeñas, no tendrás ningún problema para encontrar el ajuste perfecto para tus oídos. Estuche rígido para un almacenamiento y transporte sencillos. El práctico estuche rígido facilita el transporte y la protección de los auriculares. Conector de 90° de perfil bajo para reducir los enganches. Gracias al conector plano que evita torsiones y enredos de cable, y al conector en ángulo de perfil bajo, los auriculares en la nube II solucionan a la perfección la mayoría de los problemas que tienen los auriculares con cable. Micrófono incorporado y botón multifunción móvil. Atiende llamadas o toma el mando de tu grupo gracias al micrófono de gran definición. El botón multifunción[3] te permite responder rápidamente a las llamadas telefónicas o controlar el contenido en dispositivos compatibles. Compatibilidad multiplataforma. Los auriculares en la nube II son compatibles con ordenadores[1], videoconsolas Steam Deck, consolas Nintendo Switch y dispositivos móviles[2] que utilizan una conexión de 3,5 mm. Especificaciones: Desempeño Tipo de producto: Auriculares Estilo de uso: Dentro de oído Uso recomendado: Juego Tipo de auricular: Binaural Color del producto: Rojo Longitud de cable: 1,2 m Puertos e Interfaces Tecnología de conectividad: Alámbrico Conector de 3,5 mm: Si Auriculares Audífonos: Intraaural Auriculares de tipo Intraural: Auriculares Frecuencia de auricular: 20 - 20000 Hz Obstrucción: 65 ohmios Sensibilidad de auricular: 105 dB Unidad de disco: 1,43 cm THD, distorsión armónica total: 2% Micrófono Tipo de micrófono: Integrado Sensibilidad de micrófono: -42 dB Tipo de dirección de micrófono: Omnidireccional Peso y dimensiones Peso: 20 g
-  Updated: 2025-09-14T05:35:46Z
+- [HyperX Cloud EarBuds II - Auriculares Intraurales Gaming con Micrófono Negros](https://hifimediastore.com/products/hyperx-cloud-earbuds-ii-auriculares-intraurales-gaming-con-microfono-negros): HyperX Cloud Earbuds II cuenta con controladores de 14 mm optimizados para audio móvil, por lo que tendrá una excelente experiencia auditiva, ya sea que esté jugando, viendo transmisiones o escuchando un buen audiolibro. 4 juegos de puntas para los oídos rediseñados ayudarán a garantizar un ajuste excelente. Los Cloud Earbuds II también tienen un cable de 90° de bajo perfil para ayudar a evitar enganches, un estuche rígido y un micrófono incorporado para recibir llamadas. Estos auriculares versátiles son compatibles con PC, Nintendo Switch, Steam Deck™ y dispositivos móvile sque utilizan una conexión de 3,5 mm. Características: Optimizado para juegos y audio sobre la marcha. Con un sonido envolvente proporcionado por controladores de 14 mm, los Cloud Earbuds II están diseñados para mejorar su experiencia auditiva, ya sea que esté jugando, viendo transmisiones o escuchando un buen libro. 4 tamaños de olivas incluidos: encuentre su ajuste ideal. Con 4 tamaños de nuestras olivas rediseñadas que van desde grandes hasta extrapequeñas, no debería tener problemas para encontrar el ajuste perfecto para sus oídos. Estuche rígido para fácil transporte y almacenamiento. El práctico estuche de transporte facilita el embalaje y la protección de los auriculares. Especificaciones: Desempeño Tipo de producto: Auriculares Estilo de uso: Dentro de oído Uso recomendado: Juego Tipo de auricular: Binaural Color del producto: Negro Longitud de cable: 1,2 m Puertos e Interfaces Tecnología de conectividad: Alámbrico Conector de 3,5 mm: Si Auriculares Audífonos: Intraaural Auriculares de tipo Intraural: Auriculares Frecuencia de auricular: 20 - 20000 Hz Obstrucción: 65 ? Sensibilidad de auricular: 105 dB Unidad de disco: 1,43 cm THD, distorsión armónica total: 2% Micrófono Tipo de micrófono: Integrado Sensibilidad de micrófono: -42 dB Tipo de dirección de micrófono: Omnidireccional Peso y dimensiones Peso: 20 g
+  Updated: 2025-10-21T20:06:16Z
   Vendor: HYPERX
   Product Type: Todos los auriculares
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/hyperx-auriculares-en-la-nube-ii-_color-_351379_1.jpg?v=1756569828
+  Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/proyecto-nuevo-2024-05-10t113239976-0e2a25e1-80a2-4ddd-b22e-3a9dd73127b6.jpg?v=1761077170
+  Price: 110,99 € EUR
+- [HyperX Earbuds II - Auriculares Gaming Intraurales con Micrófono Rojos](https://hifimediastore.com/products/hyperx-earbuds-ii-auriculares-gaming-intraurales-con-microfono-rojos): No necesitas llevar unos auriculares para jugar profesionalmente. Si lo que buscas es una buena calidad de audio y una cómoda portabilidad, los auriculares en la nube HyperX II son tu opción ideal. Gracias a los controladores de 14 mm optimizados para un audio móvil, disfrutarás de una gran experiencia auditiva tanto si estás jugando, viendo vídeos o escuchando un buen podcast o audiolibro. Los 4 tamaños rediseñados de almohadillas para auriculares te permitirán conseguir el ajuste perfecto para tus oídos. Los auriculares en la nube II también incluyen un cable de 90° de perfil bajo para evitar los enganches, así como un estuche rígido de transporte. En el caso de los más atareados, el micrófono integrado permite pasar rápidamente de jugar en el móvil a responder llamadas telefónicas con tan solo pulsar el botón multifunción[3]. Estos versátiles auriculares son compatibles con ordenadores[1], consolas Nintendo Switch, videoconsolas Steam Deck™ y dispositivos móviles[2] que utilizan una conexión de 3,5 mm. [1] Es posible que se requiera un cable divisor adicional para los ordenadores con conectores de altavoz y micrófono individuales. [2] Requiere un conector para auriculares de 3,5 mm con conexiones CTIA o un adaptador de 3,5 mm compatible. [3] Acciones de botones multifunción dictadas por el dispositivo; la función real puede variar. Características: Optimizado para jugar y escuchar audio durante los desplazamientos. Con un sonido envolvente ofrecido por los controladores de 14 mm, los auriculares en la nube II se han diseñado para mejorar tu experiencia auditiva, tanto si estás jugando, viendo retransmisiones o escuchando un buen libro. Incluye 4 tamaños de almohadillas para auriculares: encuentra el ajuste ideal. Gracias a los 4 tamaños rediseñados de almohadillas para auriculares, que incluyen tanto almohadillas grandes como almohadillas sumamente pequeñas, no tendrás ningún problema para encontrar el ajuste perfecto para tus oídos. Estuche rígido para un almacenamiento y transporte sencillos. El práctico estuche rígido facilita el transporte y la protección de los auriculares. Conector de 90° de perfil bajo para reducir los enganches. Gracias al conector plano que evita torsiones y enredos de cable, y al conector en ángulo de perfil bajo, los auriculares en la nube II solucionan a la perfección la mayoría de los problemas que tienen los auriculares con cable. Micrófono incorporado y botón multifunción móvil. Atiende llamadas o toma el mando de tu grupo gracias al micrófono de gran definición. El botón multifunción[3] te permite responder rápidamente a las llamadas telefónicas o controlar el contenido en dispositivos compatibles. Compatibilidad multiplataforma. Los auriculares en la nube II son compatibles con ordenadores[1], videoconsolas Steam Deck, consolas Nintendo Switch y dispositivos móviles[2] que utilizan una conexión de 3,5 mm. Especificaciones: Desempeño Tipo de producto: Auriculares Estilo de uso: Dentro de oído Uso recomendado: Juego Tipo de auricular: Binaural Color del producto: Rojo Longitud de cable: 1,2 m Puertos e Interfaces Tecnología de conectividad: Alámbrico Conector de 3,5 mm: Si Auriculares Audífonos: Intraaural Auriculares de tipo Intraural: Auriculares Frecuencia de auricular: 20 - 20000 Hz Obstrucción: 65 ohmios Sensibilidad de auricular: 105 dB Unidad de disco: 1,43 cm THD, distorsión armónica total: 2% Micrófono Tipo de micrófono: Integrado Sensibilidad de micrófono: -42 dB Tipo de dirección de micrófono: Omnidireccional Peso y dimensiones Peso: 20 g
+  Updated: 2025-10-21T20:03:36Z
+  Vendor: HYPERX
+  Product Type: Todos los auriculares
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/230b4e54b15b963c6418a6822ff91c5fe64a64fb_0_0.jpg?v=1761077012
   Price: 110,99 € EUR
 - [HyperX Cloud II Core - Auriculares Gaming Inalámbricos DTS Negro/Rojo](https://hifimediastore.com/products/hyperx-cloud-ii-core-auriculares-gaming-inalambricos-dts-negro-rojo): Los auriculares inalámbricos Cloud II Core de HyperX son la mejor opción para aquellos jugadores que buscan unos cómodos auriculares inalámbricos de 2,4 GHz a buen precio. Con una duración de la batería de hasta 80 horas, los auriculares inalámbricos Cloud II Core tienen una duración de batería más que suficiente para varios días de juego. Mejora tus partidas y el audio gracias al audio espacial de primera calidad DTS® Headphone: X® y a los controladores de Cloud II Core de 53 mm. Las almohadillas de espuma viscoelástica y la comodidad exclusiva de la nube te permitirán mantenerte concentrado y atento en la victoria. Olvídate de los cables y del miedo a perder la conexión gracias a la rápida conectividad de 2,4 GHz. Silencia rápidamente el micrófono y ajusta el volumen de los auriculares gracias a los controles de acceso rápido que se encuentran directamente en los auriculares. Características: Hasta 80 horas de duración de la batería. A nadie le gusta tener que sacar el cable de carga cuando el juego está en juego. Las 80 horas de duración de la batería deberían ayudarlo a despedirse de esas molestas notificaciones de batería baja. Inalámbrico rápido de 2,4 GHz. Pierda el cable, pero no el rendimiento, gracias a la rápida conexión inalámbrica que mantiene el audio claro y sincronizado. Localización de sonido y audio espacial inmersivo. DTS ® Headphone: X ® Spatial Audio ayuda a mejorar la localización del sonido y mejorar la inmersión de sus juegos y entretenimiento de audio. Audio de calidad con controladores de 53 mm. La reproducción de graves mejorada con agudos nítidos, medios claros y graves intensos te mantiene en la cima de tu juego con un audio preciso y cautivador. Manténgase en la zona con la comodidad exclusiva de HyperX. Las almohadillas de espuma con memoria de felpa envueltas en cuero sintético de primera calidad ayudan a brindar una experiencia auditiva cómoda. Manténgase enfocado en sus juegos, trabajo de clase o tareas con el cómodo Cloud II Core Wireless. Acceda fácilmente a los controles de volumen y micrófono. Ahórrese la molestia de tener que buscar en los menús del sistema para encontrar los controles de audio. Ajuste convenientemente el volumen y silencie el micrófono con los controles del auricular. Micrófono desmontable con cancelación de ruido. Asegúrese de hablar con claridad cristalina cuando chatee con sus amigos, compañeros de trabajo y compañeros de clase. El micrófono también se separa para un fácil almacenamiento cuando no está en uso. Marco de aluminio duradero para mayor confiabilidad. El marco de aluminio del Cloud II Core Wireless también está diseñado para ser duradero. Un gran auricular para el uso diario. Especificaciones: Desempeño Tipo de producto: Auriculares Estilo de uso: Diadema Uso recomendado: Juego Tipo de auricular: Binaural Color del producto: Negro Virtual Surround: Si Puertos e Interfaces Tecnología de conectividad: Inalámbrico y alámbrico Conector de 3,5 mm: Si Conexión USB: Si Frecuencia de banda: 2.4 GHz Alcance inalámbrico: 20 m Auriculares Audífonos: Circumaural Frecuencia de auricular: 10 - 21000 Hz Obstrucción: 60 ohmios Sensibilidad de auricular: 100 dB Unidad de disco: 5,3 cm Tipo de controlador: Dinámico Filtrado de ruidos: Si THD, distorsión armónica total: 2% Micrófono Tipo de micrófono: Boom Sensibilidad de micrófono: -17,2 dB Tipo de dirección de micrófono: Micrófono bidireccional Batería Tiempo continuo de reproducción de audio: 80 h Tiempo de recarga de la batería: 4,5 h Peso y dimensiones Peso: 293 g
   Updated: 2025-08-29T15:54:18Z
@@ -8599,13 +8612,13 @@
   Updated: 2025-06-22T07:51:28Z
   Total Products: 0
 - [Best Selling Products](https://hifimediastore.com/collections/best-selling-products)
-  Updated: 2025-10-21T19:59:27Z
+  Updated: 2025-10-21T20:15:40Z
   Total Products: 5482
 - [Newest Products](https://hifimediastore.com/collections/newest-products)
-  Updated: 2025-10-21T19:59:27Z
+  Updated: 2025-10-21T20:15:40Z
   Total Products: 5482
 - [Altavoces](https://hifimediastore.com/collections/speakers): Explora nuestra gama de altavoces de alta calidad y llévatee la experiencia del festival a casa con nuestros altavoces.
-  Updated: 2025-10-10T22:01:24Z
+  Updated: 2025-10-21T20:15:40Z
   Total Products: 180
 - [Todos los auriculares](https://hifimediastore.com/collections/all-headphones): No te limites a escuchar música, nuestra selección de auriculares te permitirá ser parte de la música. Tenemos la selección más amplia de auriculares de alto nivel para el audiófilo que hay en todos. Tenemos el equipo de audio perfecto para crear experiencias auditivas inolvidables.
   Updated: 2025-10-21T19:47:42Z
@@ -8620,16 +8633,16 @@
   Updated: 2025-10-21T19:44:48Z
   Total Products: 171
 - [Todos los auriculares intraurales](https://hifimediastore.com/collections/all-earbuds)
-  Updated: 2025-10-21T19:59:27Z
+  Updated: 2025-10-21T20:12:49Z
   Total Products: 465
 - [Auriculares Intraurales Gaming](https://hifimediastore.com/collections/gaming-earbuds): Sumérgete en la acción de tus videojuegos favoritos con nuestros auriculares intraurales gaming y disfruta de una experiencia única.
-  Updated: 2025-10-21T19:51:39Z
+  Updated: 2025-10-21T20:06:59Z
   Total Products: 62
 - [Auriculares Intraurales Bluetooth](https://hifimediastore.com/collections/bluetooth-earbuds)
-  Updated: 2025-10-21T19:59:27Z
+  Updated: 2025-10-21T20:12:49Z
   Total Products: 416
 - [Auriculares Intraurales con ANC](https://hifimediastore.com/collections/earbuds-with-anc): Pon el mundo en pausa. Aíslate del mundo escuchando tu música favorita con nuestros auriculares intraurales con ANC más avanzados.
-  Updated: 2025-10-21T19:55:27Z
+  Updated: 2025-10-21T20:12:49Z
   Total Products: 156
 - [Auriculares de conducción ósea](https://hifimediastore.com/collections/bone-conduction-earphones): Descubre nuestros auriculares de conducción ósea, una tecnología que permite al oyente percibir el contenido de audio sin obstruir el canal auditivo, lo que evita daños en el tímpano.
   Updated: 2025-10-10T23:14:51Z
@@ -8656,8 +8669,8 @@
   Updated: 2025-10-21T19:53:09Z
   Total Products: 22
 - [AVADA - Best Sellers](https://hifimediastore.com/collections/avada-best-sellers)
-  Updated: 2025-10-21T19:59:29Z
-  Total Products: 1443
+  Updated: 2025-10-21T20:14:38Z
+  Total Products: 1446
 - [Intercomunicadores para moto](https://hifimediastore.com/collections/motorcycle-intercoms)
   Updated: 2025-06-22T07:51:29Z
   Total Products: 17
@@ -8773,10 +8786,10 @@
   Updated: 2025-08-25T16:34:07Z
   Total Products: 1
 - [Auriculares Apple](https://hifimediastore.com/collections/auriculares-apple)
-  Updated: 2025-10-21T19:55:27Z
+  Updated: 2025-10-21T20:12:49Z
   Total Products: 46
 - [Apple](https://hifimediastore.com/collections/apple-1)
-  Updated: 2025-10-21T19:55:27Z
+  Updated: 2025-10-21T20:12:49Z
   Total Products: 602
 - [Asus](https://hifimediastore.com/collections/asus)
   Updated: 2025-10-10T23:18:20Z
@@ -8803,7 +8816,7 @@
   Updated: 2025-10-21T19:37:51Z
   Total Products: 26
 - [Mars Gaming](https://hifimediastore.com/collections/mars-gaming)
-  Updated: 2025-10-21T19:59:27Z
+  Updated: 2025-10-21T20:14:09Z
   Total Products: 28
 - [Auriculares Mars Gaming](https://hifimediastore.com/collections/auriculares-mars-gaming)
   Updated: 2025-10-21T19:59:27Z
@@ -8851,10 +8864,10 @@
   Updated: 2025-10-10T22:55:26Z
   Total Products: 10
 - [Anker](https://hifimediastore.com/collections/anker)
-  Updated: 2025-10-10T23:13:19Z
+  Updated: 2025-10-21T20:12:49Z
   Total Products: 7
 - [Auriculares Anker](https://hifimediastore.com/collections/auriculares-anker)
-  Updated: 2025-10-10T23:13:19Z
+  Updated: 2025-10-21T20:12:49Z
   Total Products: 7
 - [HMD](https://hifimediastore.com/collections/hmd)
   Updated: 2025-10-11T22:19:07Z
@@ -8866,16 +8879,16 @@
   Updated: 2025-10-10T22:57:26Z
   Total Products: 1
 - [Avenzo](https://hifimediastore.com/collections/avenzo)
-  Updated: 2025-10-10T22:42:00Z
+  Updated: 2025-10-21T20:15:40Z
   Total Products: 15
 - [Auriculares Avenzo](https://hifimediastore.com/collections/auriculares-avenzo)
-  Updated: 2025-10-10T22:42:00Z
+  Updated: 2025-10-21T20:12:15Z
   Total Products: 6
 - [Belkin](https://hifimediastore.com/collections/belkin)
-  Updated: 2025-10-21T19:47:26Z
+  Updated: 2025-10-21T20:11:20Z
   Total Products: 22
 - [Auriculares Belkin](https://hifimediastore.com/collections/auriculares-belkin)
-  Updated: 2025-10-21T19:47:26Z
+  Updated: 2025-10-21T20:11:20Z
   Total Products: 22
 - [Blade](https://hifimediastore.com/collections/blade)
   Updated: 2025-10-16T19:30:39Z
@@ -8908,7 +8921,7 @@
   Updated: 2025-10-16T19:30:28Z
   Total Products: 2
 - [Creative Labs](https://hifimediastore.com/collections/creative-labs)
-  Updated: 2025-10-21T19:36:02Z
+  Updated: 2025-10-21T20:14:18Z
   Total Products: 16
 - [Auriculares Creative Labs](https://hifimediastore.com/collections/auriculares-creative-labs)
   Updated: 2025-10-21T19:36:02Z
@@ -8926,10 +8939,10 @@
   Updated: 2025-10-21T19:47:23Z
   Total Products: 5
 - [Denver](https://hifimediastore.com/collections/denver)
-  Updated: 2025-10-10T22:50:08Z
+  Updated: 2025-10-21T20:15:18Z
   Total Products: 7
 - [Auriculares Denver](https://hifimediastore.com/collections/auriculares-denver)
-  Updated: 2025-10-10T22:50:08Z
+  Updated: 2025-10-21T20:07:36Z
   Total Products: 5
 - [Ewent](https://hifimediastore.com/collections/ewent)
   Updated: 2025-10-10T22:37:08Z
@@ -8938,22 +8951,22 @@
   Updated: 2025-10-10T22:37:08Z
   Total Products: 3
 - [Hiditec](https://hifimediastore.com/collections/hiditec)
-  Updated: 2025-10-10T22:36:14Z
+  Updated: 2025-10-21T20:07:27Z
   Total Products: 6
 - [Auriculares Hiditec](https://hifimediastore.com/collections/auriculares-hiditec)
-  Updated: 2025-10-10T22:36:14Z
+  Updated: 2025-10-21T20:07:27Z
   Total Products: 4
 - [HP](https://hifimediastore.com/collections/hp)
-  Updated: 2025-10-21T19:51:33Z
+  Updated: 2025-10-21T20:14:00Z
   Total Products: 43
 - [Auriculares HP](https://hifimediastore.com/collections/auriculares-hp)
-  Updated: 2025-10-21T19:51:33Z
+  Updated: 2025-10-21T20:06:59Z
   Total Products: 42
 - [Auriculares Huawei](https://hifimediastore.com/collections/auriculares-huawei)
-  Updated: 2025-10-20T21:07:42Z
+  Updated: 2025-10-21T20:06:56Z
   Total Products: 29
 - [Huawei](https://hifimediastore.com/collections/huawei-1)
-  Updated: 2025-10-20T21:07:42Z
+  Updated: 2025-10-21T20:06:56Z
   Total Products: 170
 - [HyperX](https://hifimediastore.com/collections/hyperx)
   Updated: 2025-10-21T19:45:48Z
@@ -8980,7 +8993,7 @@
   Updated: 2025-08-31T12:20:56Z
   Total Products: 4
 - [Teléfonos móviles y accesorios en Hi-Fi Media Store](https://hifimediastore.com/collections/todos-los-productos): Somos especialistas en teléfonos móviles y accesorios. En Hi-Fi Media Store encontrarás una gran variedad de productos de las mejores marcas.
-  Updated: 2025-10-21T19:59:27Z
+  Updated: 2025-10-21T20:15:40Z
   Total Products: 5481
 - [Lindy](https://hifimediastore.com/collections/lindy)
   Updated: 2025-10-21T19:39:27Z
@@ -9037,8 +9050,8 @@
   Updated: 2025-10-10T22:47:39Z
   Total Products: 3
 - [OrderlyEmails - Recommended Products](https://hifimediastore.com/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-10-21T19:59:29Z
-  Total Products: 1446
+  Updated: 2025-10-21T20:14:38Z
+  Total Products: 1449
 - [Razer](https://hifimediastore.com/collections/razer)
   Updated: 2025-10-16T19:26:34Z
   Total Products: 24
@@ -9064,7 +9077,7 @@
   Updated: 2025-10-10T23:14:51Z
   Total Products: 3
 - [Talius](https://hifimediastore.com/collections/talius)
-  Updated: 2025-10-10T21:55:59Z
+  Updated: 2025-10-21T20:14:39Z
   Total Products: 7
 - [Auriculares Talius](https://hifimediastore.com/collections/auriculares-talius)
   Updated: 2025-08-31T11:42:58Z
@@ -9100,8 +9113,8 @@
   Updated: 2025-10-16T19:25:32Z
   Total Products: 2
 - [Outlet](https://hifimediastore.com/collections/outlet)
-  Updated: 2025-10-21T00:54:29Z
-  Total Products: 257
+  Updated: 2025-10-21T20:14:38Z
+  Total Products: 259
 - [Edifier](https://hifimediastore.com/collections/edifier)
   Updated: 2025-10-10T22:12:51Z
   Total Products: 1
@@ -9130,13 +9143,13 @@
   Updated: 2025-10-21T19:49:28Z
   Total Products: 2
 - [Altavoces portátiles](https://hifimediastore.com/collections/altavoces-portatiles)
-  Updated: 2025-10-10T22:01:06Z
+  Updated: 2025-10-21T20:15:40Z
   Total Products: 136
 - [Primux](https://hifimediastore.com/collections/primux)
   Updated: 2025-10-10T21:47:31Z
   Total Products: 5
 - [Ultimate Ears](https://hifimediastore.com/collections/ultimate-ears)
-  Updated: 2025-10-10T22:01:06Z
+  Updated: 2025-10-21T20:15:04Z
   Total Products: 15
 - [Barras de Sonido](https://hifimediastore.com/collections/barras-de-sonido)
   Updated: 2025-10-10T21:50:55Z
@@ -9151,10 +9164,10 @@
   Updated: 2025-10-21T19:26:23Z
   Total Products: 7
 - [Torres de Sonido](https://hifimediastore.com/collections/altavoces-de-torre)
-  Updated: 2025-10-10T21:55:59Z
+  Updated: 2025-10-21T20:14:39Z
   Total Products: 3
 - [Altavoces para PC](https://hifimediastore.com/collections/altavoces-para-pc)
-  Updated: 2025-10-10T22:01:24Z
+  Updated: 2025-10-21T20:14:18Z
   Total Products: 27
 - [Tablets iPad y Android | Financia con SeQura](https://hifimediastore.com/collections/tablets): Compra tablets iPad y Android con envío rápido y financiación flexible con SeQura. Compra fácil y segura online.
   Updated: 2025-10-21T00:23:39Z
@@ -9175,7 +9188,7 @@
   Updated: 2025-10-20T17:34:24Z
   Total Products: 79
 - [IVA 21](https://hifimediastore.com/collections/iva-21)
-  Updated: 2025-10-21T19:59:27Z
+  Updated: 2025-10-21T20:15:40Z
   Total Products: 5112
 - [Tablets Xiaomi](https://hifimediastore.com/collections/tablets-xiaomi)
   Updated: 2025-10-21T00:23:39Z
@@ -9214,7 +9227,7 @@
   Updated: 2025-10-21T00:31:36Z
   Total Products: 14
 - [IVA 21](https://hifimediastore.com/collections/21-iva)
-  Updated: 2025-10-21T19:59:27Z
+  Updated: 2025-10-21T20:15:40Z
   Total Products: 4081
 - [Realme](https://hifimediastore.com/collections/realme-1)
   Updated: 2025-10-20T22:04:54Z
@@ -9271,7 +9284,7 @@
   Updated: 2025-08-31T12:05:21Z
   Total Products: 3
 - [Productos para teléfonos móviles y accesorios](https://hifimediastore.com/collections/all): Hi-Fi Media Store: Tu tienda online para teléfonos móviles y accesorios de las mejores marcas. Encuentra smartphones, auriculares inalámbricos y con cable, altavoces y una amplia gama de accesorios para complementar tu experiencia móvil. Compra con seguridad y disfruta de una garantía de satisfacción. Visita nuestra tienda online y descubre un mundo de posibilidades para tu teléfono móvil.
-  Updated: 2025-10-21T19:59:27Z
+  Updated: 2025-10-21T20:15:40Z
   Total Products: 5481
 - [Beats](https://hifimediastore.com/collections/beats)
   Updated: 2025-10-11T22:16:14Z
@@ -9286,7 +9299,7 @@
   Updated: 2025-10-21T19:13:10Z
   Total Products: 11
 - [Ultimate Search - Do not delete](https://hifimediastore.com/collections/ultimate-search-do-not-delete): Ultimate Search app uses this temporary collection to fetch best selling items.Please do not delete this collection.If you have removed the app, it is safe to remove this collection.
-  Updated: 2025-10-21T19:59:27Z
+  Updated: 2025-10-21T20:15:40Z
   Total Products: 5481
 - [Nubia](https://hifimediastore.com/collections/nubia)
   Updated: 2025-10-11T22:34:25Z
