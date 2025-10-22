@@ -6,7 +6,7 @@
 - Timezone: Europe/Rome
 - Created At: 2024-04-12T22:59:50Z
 - Contact Email: izzomarianna@hotmail.it
-- Updated At: 2025-10-21T16:00:32.478Z
+- Updated At: 2025-10-22T12:00:46.754Z
 
 ## Products
 
@@ -411,7 +411,7 @@
   Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/tazzaLAMIABALLERINA.jpg?v=1738426856
   Price: 9,90 € EUR
 - [Tazza “ Foto nel  cuore ” personalizzabile](https://www.amashopstudio.it/products/tazza-foto-nel-cuore-personalizzabile): Prodotto Made in Italy Prodotto esclusivo disegnato e realizzato internamente Tazza in Ceramica di alta qualità Adatta per essere utilizzata in forno a microonde. Lavabile in lavastoviglie Colore bianco. Fai un regalo unico ed originale
-  Updated: 2025-09-17T14:59:20Z
+  Updated: 2025-10-22T09:38:14Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
