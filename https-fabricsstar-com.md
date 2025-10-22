@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2023-07-19T18:27:19Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-10-22T04:00:37.654Z
+- Updated At: 2025-10-22T08:00:37.610Z
 
 ## Products
 
 - [Stretch Velvet Sequin Fabric | Fabrics Star](https://fabricsstar.com/products/sequin-fabric): Sparkle and shine with Sequin Fabric from Fabrics Star. Perfect for adding glamour to dresses, costumes, and decor, this fabric is a must-have for any sewing enthusiast.
-  Updated: 2025-10-22T00:35:11Z
+  Updated: 2025-10-22T04:24:31Z
   Vendor: Fabrics Star
   Product Type: Velvet Sequin Fabric
   Availability: Available
@@ -1077,7 +1077,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/Navy_8e9d8a29-7d42-4fa6-af34-bb64ab342096.jpg?v=1757517255
     Price: $1.00 USD
 - [Shiny Velvet Fabric | Fabrics Star](https://fabricsstar.com/products/soft-velvet-fabric): Experience luxury and comfort with Soft Velvet Fabric from Fabrics Star. Explore premium quality material for your upholstery needs. Shop now!
-  Updated: 2025-10-20T04:30:12Z
+  Updated: 2025-10-22T04:10:05Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -3947,7 +3947,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/AZALEA-DARK-NAVY.jpg?v=1757517782
     Price: $1.00 USD
 - [SPRING GARDEN Floral Digital Print Fabric | 58 Inch Wide](https://fabricsstar.com/products/floral-digital-print-fabric-cotton-hand-58-inch-in-width-home-decor): Discover the SPRING GARDEN Floral Digital Print Fabric, 58" wide for home decor. Medium weight, 100% polyester, sold by the yard. Order now!
-  Updated: 2025-10-22T03:24:25Z
+  Updated: 2025-10-22T04:04:25Z
   Vendor: Fabrics Star
   Product Type: Digital Print Fabric
   Availability: Available
