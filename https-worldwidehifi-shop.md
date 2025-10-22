@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-10-25T08:25:11Z
 - Contact Email: info@worldwidehifi.shop
-- Updated At: 2025-10-20T12:00:36.140Z
+- Updated At: 2025-10-22T12:00:42.341Z
 
 ## ABOUT
 WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage audio gear with insured worldwide shipping—buy here when you want premium brands for less, rare models in stock, real-item photos, highest quality guarantee and expert support.
@@ -1610,13 +1610,6 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_9d017989-909a-4937-a84c-08e147bd7c04.jpg?v=1751453998
   Price: 69,00 € EUR
-- [Ricable MS3 Highend Lautsprecherkabel gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/ricable-ms3-highend-lautsprecherkabel-gebraucht-kaufen): Ricable MS3 Highend Lautsprecherkabel gebraucht kaufen ✅ Geprüfte Lautsprecher mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-09-15T22:27:25Z
-  Vendor: WorldWideHifi
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_24ee3016-cf1a-4e53-83b3-d496975908fc.jpg?v=1751453461
-  Price: 280,00 € EUR
 - [The Chord Company Cadenza Cinch Kabel gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/the-chord-company-cadenza-cinch-kabel-interconnect-rca-kabel-nf-2x-100cm-gebraucht-kaufen): The Chord Company Cadenza Cinch Kabel gebraucht kaufen ✅ Hochwertige RCA Kabel gebraucht kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
   Updated: 2025-09-15T22:27:47Z
   Vendor: WorldWideHifi
@@ -2261,10 +2254,10 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Updated: 2025-08-16T16:03:59Z
   Total Products: 5
 - [Gebrauchte HiFi Kabel kaufen, Kabel für High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/hifi-kabel-gebraucht-kaufen): Gebrauchte HiFi Kabel kaufen ✓ Lautsprecherkabel & Kabel für High-End Geräte im Top-Zustand ✓ Sicherer Versand ✓ Günstiges High-End HiFi
-  Updated: 2025-10-18T11:21:36Z
+  Updated: 2025-10-21T11:18:46Z
   Total Products: 162
 - [Gebrauchte Lautsprecherkabel kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/gebrauchte-lautsprecherkabel-kaufen): Gebrauchte Lautsprecherkabel kaufen ✓ Gebrauchte Lautsprecherkabel & mehr im Top-Zustand ✓ Sicherer Versand ✓ Preiswertes High-End HiFi
-  Updated: 2025-10-13T11:19:22Z
+  Updated: 2025-10-21T11:18:46Z
   Total Products: 38
 - [HiFi Netzkabel gebraucht kaufen, High-End Audio - WorldWideHiFi](https://worldwidehifi.shop/collections/high-end-netzkabel-gebraucht-kaufen): HiFi Netzkabel gebraucht kaufen ✓ High-End Audiokabel, HiFi Netzkabel & mehr im Top-Zustand ✓ Versicherter Versand ✓ Preiswertes High-End HiFi online bestellen
   Updated: 2025-10-18T11:21:36Z
@@ -2282,8 +2275,8 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Updated: 2025-10-11T11:22:25Z
   Total Products: 24
 - [Verkaufte HiFi-Artikel](https://worldwidehifi.shop/collections/verkaufte-hifi-artikel)
-  Updated: 2025-10-18T11:21:36Z
-  Total Products: 113
+  Updated: 2025-10-21T11:18:46Z
+  Total Products: 114
 - [Highest End](https://worldwidehifi.shop/collections/highest-end)
   Updated: 2025-10-11T11:22:25Z
   Total Products: 22
