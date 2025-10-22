@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-06-28T02:42:48Z
 - Contact Email: gtembo034@gmail.com
-- Updated At: 2025-10-22T08:00:33.549Z
+- Updated At: 2025-10-22T16:00:30.598Z
 
 Welcome to GTS Beauty store
 
@@ -3862,7 +3862,7 @@ Welcome to GTS Beauty store
   Updated: 2025-10-22T02:15:56Z
   Total Products: 29
 - [Made for Christmas](https://www.gtsstore.store/collections/made-for-christmas): Christmas Jewelry – Sparkle with Holiday Magic ✨🎅 Celebrate the season in style with our Christmas Jewelry Collection, designed to add a festive touch to every outfit! From dazzling snowflake earrings and Santa charm bracelets to reindeer necklaces and crystal Christmas tree pendants, each piece captures the joy and sparkle of the holidays. Crafted with premium materials and attention to detail, these pieces are lightweight, durable, and hypoallergenic, making them perfect for both everyday wear and special holiday occasions. Whether you’re gifting a loved one or completing your Christmas party look, our jewelry brings warmth, elegance, and cheer to the most wonderful time of the year. ✅ Features: Festive Christmas-themed designs 🎄✨ High-quality, skin-friendly materials Lightweight and comfortable to wear Perfect for gifts, parties, or daily holiday style 🎁 Perfect Gift Idea: Surprise someone special with a piece that shines as bright as their holiday spirit!
-  Updated: 2025-10-22T02:15:56Z
+  Updated: 2025-10-22T11:12:45Z
   Total Products: 37
 - [Halloween Decoration](https://www.gtsstore.store/collections/halloween-decoration): Halloween Decorations – Turn Your Space into a Spooky Wonderland 👻🕸️ Transform your home, office, or party space into a haunted masterpiece with our Halloween Decorations Collection! From eerie lighting and creepy wall hangings to lifelike spiders, pumpkins, and ghostly props, every item is crafted to bring the perfect balance of fright and fun to your celebration. Whether you’re planning a full-on haunted house or just adding a few festive touches, our decorations are durable, reusable, and easy to set up. Designed for both indoor and outdoor use, they create an unforgettable Halloween atmosphere that guests will love and kids will never forget. ✅ Features: Wide variety of spooky designs: ghosts, bats, pumpkins & more 🎃 Easy setup & reusable materials Perfect for homes, schools, offices & parties Suitable for indoor and outdoor decorating Lightweight, durable, and weather-resistant 💀 Perfect For:Haunted houses • Trick-or-treat setups • Halloween parties • Photo backdrops Make your space come alive this Halloween — spooky, stylish, and full of spirit! 🕯️✨
   Updated: 2025-10-22T02:15:56Z
