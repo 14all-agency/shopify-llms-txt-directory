@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-10-21T20:00:39.797Z
+- Updated At: 2025-10-22T08:00:39.991Z
 
 ## Products
 
@@ -150,13 +150,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Hubba-Arched-Mirror-Metal-Titanium-2.jpg?v=1727660039
   Price: $299.99 NZD
-- [Umbra Hubba Arched Full Length Wall Mirror - Brass](https://everydayhome.co.nz/products/hubba-arched-leaning-mirror-50-x-157cm-brass): Hubba Arched Leaning Mirror, (50 X 157Cm), Brass
-  Updated: 2025-10-09T23:37:10Z
-  Vendor: UMBRA
-  Product Type: Home & Living
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Hubba-Arched-Leaning-Mirror-Brass-9.jpg?v=1727658705
-  Price: $359.99 NZD
 - [Umbra Bellwood Coffee Table - Natural](https://everydayhome.co.nz/products/bellwood-coffe-table-natural): Bellwood Coffe Table, Natural
   Updated: 2025-09-25T16:27:13Z
   Vendor: UMBRA
@@ -1642,7 +1635,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Buddy-Hook-Set-3-Assorted-Grey-UMBRA-4.jpg?v=1731902503
   Price: $39.99 NZD
 - [Umbra Buddy Wall Hook - Set of 3 Black](https://everydayhome.co.nz/products/buddy-hook-set-3-black): This set of 3 wall hooks features Umbra’s popular Buddy character “climbing the walls” in various positions. When not in use, they serve as fun, unique wall decor that is sure to be a conversation-starter. Buddy Wall Hooks are the perfect addition to your entryway and a playful, space-saving alternative to a traditional coat rack.
-  Updated: 2025-10-11T21:07:11Z
+  Updated: 2025-10-22T05:20:16Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -1747,14 +1740,14 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Circulon-Scratchdefense-A1-28cm-4-7L-Covered-Saute-7.jpg?v=1731902661
   Price: $299.99 NZD
 - [Circulon Scratchdefense A1 - 30.4cm Open Skillet](https://everydayhome.co.nz/products/circulon-scratchdefense-a1-30-4cm-open-skillet): Discover culinary excellence with the Circulon Open Skillet in 30.4cm. This premium skillet is your key to exceptional cooking. Its versatile size makes it perfect for searing succulent steaks, sautéing fresh veggies, and whipping up delightful omelettes. Crafted for even heat distribution, it ensures every dish is a masterpiece.
-  Updated: 2025-10-19T20:22:10Z
+  Updated: 2025-10-21T21:07:10Z
   Vendor: Circulon
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Circulon-Scratchdefense-A1-30-4cm-Open-Skillet-Cir-2.jpg?v=1731903168
   Price: $219.99 NZD
 - [Circulon Scratchdefense A1 - 34cm Open Stirfry](https://everydayhome.co.nz/products/circulon-scratchdefense-a1-34cm-open-stirfry-w-hh): The Open Stirfry with Helper Handle is your culinary companion for mastering the art of stir-frying. This premium kitchen essential boasts a generous 34cm diameter and a convenient helper handle for effortless manoeuvring.
-  Updated: 2025-10-14T05:07:17Z
+  Updated: 2025-10-21T21:07:10Z
   Vendor: Circulon
   Product Type: Kitchenware
   Availability: Available
@@ -1880,7 +1873,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Essteele-Per-Domani-20-26cm-Skillet-Twin-Pack-Esst-4.jpg?v=1731902220
   Price: $399.99 NZD
 - [Essteele Per Domani - 20cm Open French Skillet](https://everydayhome.co.nz/products/essteele-per-domani-20cm-open-french-skillet): Per Domani is beautifully sleek cookware delivering the ultimate in cooking performance and state-of-the art technological innovation. Built to last longer than ordinary nonstick pans, Essteele Per Domani combines unsurpassed diamond-hard nonstick durability with innovative double induction technology delivering superior strength and premium performance. This 20cm skillet is perfect for side dishes and single-serve meals, providing frying and searing perfection. The European look will complement any kitchen while the super-hard and durable nonstick provides fat-free cooking and effortless clean-up.
-  Updated: 2025-10-18T23:37:10Z
+  Updated: 2025-10-21T21:07:11Z
   Vendor: Essteele
   Product Type: Kitchenware
   Availability: Available
@@ -2153,7 +2146,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Flex-Adhesive-Toilet-Paper-Holder-Shelf-White-UMBR-2.jpg?v=1731902062
   Price: $19.99 NZD
 - [Umbra Flip 5 Hook - Black](https://everydayhome.co.nz/products/flip-5-hook-black): Maximize hanging space and keep your wall sleek with Flip - a modern, retractable coat rack that can hold a surprisingly large number of items. Perfect for coats, scarves, purses, and more, it's a functional and stylish addition to any space.
-  Updated: 2025-09-25T15:22:44Z
+  Updated: 2025-10-22T01:07:11Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -2384,7 +2377,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Raco-Stainless-Steel-Powder-Cleaner-495g-Raco-8.png?v=1731901736
   Price: $14.99 NZD
 - [Umbra Schnook Over The Door Hooks - Set of 3 Black/Nickel](https://everydayhome.co.nz/products/schnook-otd-3-hook-black-nickel): Schnook is a sleek and modern over-the-door hook made of stamped metal in a sleek nickel finish. Both ends of the Schnook have protective black rubber. The rubber on the over the door hook serves as a bumper for your door, which also prevents the hook from sliding. The end of the hook where you hang your clothes has rubber to protect your clothes from snagging or slipping.
-  Updated: 2025-09-25T14:07:21Z
+  Updated: 2025-10-22T05:20:20Z
   Vendor: UMBRA
   Product Type: Kitchenware
   Availability: Available
@@ -2685,7 +2678,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Lift-O-Matic50m_GroundSpike-MetallicGrey-8710755310942Brabantia_96dpi_1000x1000px_7_NR-17765.png?v=1733974183
   Price: $309.99 NZD
 - [Brabantia Ironing Board C - Denim Blue](https://everydayhome.co.nz/products/ironing-board-c-124x45cm-ssir-25mm-black-frame-denim-blue): Those who iron a lot, deserve a lot of ironing board - like this XL Brabantia Ironing Board C offering a whopping 124 x 45 cm ironing space. With a metal holder for your (steam) iron, suitable for left or right-handed use, and an adjustable working height, ironing is smooth!
-  Updated: 2025-09-23T12:37:24Z
+  Updated: 2025-10-21T22:37:11Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -3196,7 +3189,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/SwiftDry_Streamline_DEC24_4.png?v=1746478922
   Price: $496.00 NZD
 - [SwiftDry Lifestyle Colonial Airer - Black (3 Sizes)](https://everydayhome.co.nz/products/copy-of-lifestyle-colonial-clothes-airer-1-8-meter): The traditional Lifestyle Colonial Clothes Airer was one of the early designs of its kind made and distributed in New Zealand for the Ceiling mounted clothes drying rack, and it’s sleek, compact, design and ease of use has made it a much loved addition to thousands of New Zealand homes. The Airer is engineered for convenience, allowing for loading at waist height and easy elevation to a drying position just below the ceiling. The user-friendly pulley system enables quick drying of laundry in the warm air near the ceiling, optimizing your available floor space. Featuring Antique powder coated aluminium end brackets hand-cast in the traditional way, and the four wooden rails are crafted from imported kiln-dried American White Ash, specially selected for its straight, beautiful grain and warp-resistant stability. The rails are supplied fine sanded and ready to use but can be stained and clear-coated by the purchaser to match existing décor if required. With 160mm spaces between each wooden lath, you are able to fit larger items on with ease, and with more air circulation space, along with being near the ceiling with its warmer air, they will dry faster than ever before. When fully loaded, the Lifestyle Colonial Clothes Airer will take up to 20kgs of washing. Plus, with a 30-year warranty, you can trust that this premium airer will be a beloved and hassle-free addition to your home for years to come! Making your laundry days simpler! KITSET INCLUDES 2x powder coated aluminium end brackets Pulleys and screw mounting hooks 10m length of braided sash cord with cleat hook and screws (15m available for high ceilings) Easy DIY assembly instructions 30 day money back guarantee 30 yr Warranty SPECIFICATIONS & MATERIALS Black powder coated aluminium end brackets, cleat hooks, and pulleys with nylon pulley wheels for silent, smooth action American White Ash Laths known for its warp resistant stability and beautiful grain Soft, easy to handle braided pulley cord Length: 1.2m / 1.8m / 2.4m Width: 500mm Rack End Colour Options: Black Weight: approx. 5kg ALSO AVAILABLE AT: Mitre 10 Mega Hornby - ChristchurchMitre 10 Mega Papanui - Christchurch
-  Updated: 2025-10-20T04:02:45Z
+  Updated: 2025-10-22T01:05:27Z
   Vendor: SwiftDry Clotheslines NZ
   Product Type: 
   Availability: Available
@@ -3264,8 +3257,8 @@
   - [450m](https://everydayhome.co.nz/products/clothesline-cord-with-uv-resistant-pvc-covering?variant=50586364412215)
     Availability: Available
     Price: $354.00 NZD
-- [SwiftDry Lifestyle Contemporary 6 Rail Airer - Black (2 Sizes)](https://everydayhome.co.nz/products/copy-of-lifestyle-contemporary-clothes-airer-6-rail-1-2m): The Lifestyle Contemporary 6 Rail Clothes Airer is a 6-rail version of the early design that became a much-loved addition in thousands of New Zealand homes. The Airer has a compact design with six rails, providing ample space for large laundry loads. It is engineered for convenience, allowing for loading at waist height and easy elevation to a drying position just below the ceiling. The user-friendly pulley system enables quick drying of laundry in the warm air near the ceiling, optimizing your available floor space. With 160mm spaces between each wooden lath, you are able to fit larger items on with ease, and with more air circulation space, along with being near the ceiling with its warmer air, they will dry faster than ever before. When fully loaded, the Lifestyle Colonial Clothes Airer will take up to 20kgs of washing. Featuring antique powder-coated aluminum end brackets, hand cast in the traditional way. The six wooden rails are made from imported kiln-dried American White Ash, chosen for its straight, stunning grain and warp-resistant durability. The rails come fine-sanded and ready to use, but if preferred they can be stained and clear-coated to match your home and decor. Plus, with a 30-year warranty, you can trust that this premium airer will be a beloved and hassle-free addition to your home for years to come! Making your laundry days simpler! KITSET INCLUDES (everything you need, except tools to do the job) 2x powder-coated aluminum end brackets Pulleys and screw mounting hooks 6x Wooden rails, 1.2m or 1.8m long 10m length of braided sash cord with cleat hook and screws - if your ceiling is higher than 3 meters let us know and we will supply a 15m rope. Easy DIY assembly instructions SwiftDry 30 year warranty SPECIFICATIONS & MATERIALS Black powder-coated aluminum end brackets, cleat hooks, and pulleys with nylon pulley wheels for silent smooth action American White Ash Laths, known for their warp-resistant stabilitySoft, easy-to-handle braided pulley cord The rails are finely sanded to be gentle on your washing. This also makes it easy for you to stain, varnish, or paint the rails to match your décor if preferred. Length: 1.2m wooden laths (we also have a 1.8m version) Width: 795mm Weight: approx. 5kg
-  Updated: 2025-10-20T02:12:45Z
+- [SwiftDry Lifestyle Contemporary 6 Rail Airer - Black (2 Sizes)](https://everydayhome.co.nz/products/copy-of-lifestyle-contemporary-clothes-airer-6-rail-1-2m): The Lifestyle Contemporary 6 Rail Clothes Airer is a 6-rail version of the early design that became a much-loved addition in thousands of New Zealand homes. The Airer has a compact design with six rails, providing ample space for large laundry loads. It is engineered for convenience, allowing for loading at waist height and easy elevation to a drying position just below the ceiling. The user-friendly pulley system enables quick drying of laundry in the warm air near the ceiling, optimizing your available floor space. With 160mm spaces between each wooden lath, you are able to fit larger items on with ease, and with more air circulation space, along with being near the ceiling with its warmer air, they will dry faster than ever before. When fully loaded, the Lifestyle Colonial Clothes Airer will take up to 20kgs of washing. Featuring antique powder-coated aluminum end brackets, hand cast in the traditional way. The six wooden rails are made from imported kiln-dried American White Ash, chosen for its straight, stunning grain and warp-resistant durability. The rails come fine-sanded and ready to use, but if preferred they can be stained and clear-coated to match your home and decor. Plus, with a 30-year warranty, you can trust that this premium airer will be a beloved and hassle-free addition to your home for years to come! Making your laundry days simpler! KITSET INCLUDES (everything you need, except tools to do the job) 2x powder-coated aluminum end brackets Pulleys and screw mounting hooks 6x Wooden rails, 1.2m or 1.8m long 10m length of braided sash cord with cleat hook and screws - if your ceiling is higher than 3 meters, 15m rope available here. Easy DIY assembly instructions SwiftDry 30 year warranty SPECIFICATIONS & MATERIALS Black powder-coated aluminum end brackets, cleat hooks, and pulleys with nylon pulley wheels for silent smooth action American White Ash Laths, known for their warp-resistant stabilitySoft, easy-to-handle braided pulley cord The rails are finely sanded to be gentle on your washing. This also makes it easy for you to stain, varnish, or paint the rails to match your décor if preferred. Length: 1.2m wooden laths (we also have a 1.8m version) Width: 795mm Weight: approx. 5kg
+  Updated: 2025-10-22T00:50:56Z
   Vendor: SwiftDry Clotheslines NZ
   Product Type: 
   Availability: Available
@@ -3351,7 +3344,7 @@
     Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/SkyLine_Surface_Mounted_Post_Kit.jpg?v=1746478955
     Price: $390.00 NZD
 - [SwiftDry SkyLine Folding Frame Washing Line - (Choose your Custom Size)](https://everydayhome.co.nz/products/skyline-custom-size): Choose the frame size to suit your area. Extra cost for a custom size is $50 which is automatically added for custom sizes when selected. 10 Standard Sizes Available - View standard stocked sizes here The SwiftDry SkyLine is the epitome of Style and Strength for a non-conspicuous fold-down/wall/post mounted outdoor clothesline. Built tougher than any other clothesline out there (at least we think so!) You can buy with peace of mind. Designed to be part of the landscape of your home for years of hassle-free use, with its robust, no frills design Fold against your wall or fence while not in use with a smooth lift, pull, and lower motion. This is the future of natural outdoor drying with the breeze. > Surface Mount and In-concrete Mount post kits available separately under the fold down product category Specifications & Features: See our SkyLine blog article here Rated to 40kg recommended max load weight Dulux Textura Black Powdercoat finish on top of the pre-galvanised steel frame - for Longevity and Style Formed corners - for rigidity and safety Frame made from 1.6mm thick wall square box steel (thickest available in comparable products) so the SkyLine is strong enough to hold a full load of heavy wet wetsuits if needed Nylon Bushes - for smooth operation PVC cord - for no rust and durability All fixings are made from 316 Stainless Steel SwiftDry Easy tensioning system Designed with the front of clothesline frame & lines finishing slightly higher than the rear for ease of accessing the rear lines (as shown in pictures) Smooth and lightweight folding up and down operation from the front bar. Pins included to firmly lock in upright position for windy conditions - the only clothesline available that will not unhitch with wind and allow the frame to bend and washing to end up on the ground! Mounting bracket dimensions: 22.5cm long x 4cm wide. Mounting bracket holes: 8.5 mm - with 20cm between the hole centers - vertically on each bracket. Bottom hole is a 75mm long slot. Mounting Screws included for timber (masonry fasteners required if fixing to brick or concrete) Listed width (eg 2.4m) is fixing hole center to center, however there is up to 30mm adjustment each side when installing to allow for variances in your existing posts/setup. 13 Standard Sizes Available - View standard stocked sizes here
-  Updated: 2025-10-18T07:52:42Z
+  Updated: 2025-10-22T05:12:46Z
   Vendor: SwiftDry Clotheslines NZ
   Product Type: 
   Availability: Available
@@ -3597,8 +3590,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Surfmist-Laundryup_70dde68c-1b23-4473-adca-f7d7e02ab5a2.jpg?v=1746478978
     Price: $181.00 NZD
-- [SwiftDry Loft Pulley Airer White (3 Sizes)](https://everydayhome.co.nz/products/swiftdry-urban-loft-pulley-airer): The SwiftDry Loft Pulley Airer is an innovative addition to our collection of modern pulley airers. This product is specifically designed for homeowners who prioritize practicality, quality, and aesthetics. Offered in a Textura Matt White or Textura Matt Black Powder Coat finish. The Airer is engineered for convenience, allowing for loading at waist height and easy elevation to a drying position just below the ceiling. The user-friendly pulley system enables quick drying of laundry in the warm air near the ceiling, optimizing your available floor space. Constructed with lightweight, powder-coated aluminum end brackets and five wooden rails made from imported kiln-dried American White Ash, this airer exemplifies both aesthetic appeal and durability. The wood features a straight grain that is resistant to warping. While the rails are pre-sanded for immediate use, there is an option to stain and clear-coat them to complement your existing interior décor. With 160mm gaps between each wooden rail, accommodating larger items is effortless. Enhanced air circulation near the ceiling accelerates drying times, with the Loft Clothes Airer capable of holding up to 20kgs of laundry when fully loaded. Supported by a 30-year warranty, this premium airer guarantees years of dependable service and satisfaction. KITSET INCLUDES 2x powder coated aluminium end brackets (light weight) 5x A Grade Wooden Rails Pulleys (1x double and 1x single) and ceiling screw mounting hooks 10m length of braided sash cord with cleat hook and screws Easy DIY assembly instructions 30 year Warranty SPECIFICATIONS & MATERIALS White powder coated aluminium end brackets, cleat hooks, and pulleys with nylon pulley wheels for silent, smooth action American White Ash Laths known for its warp resistant stability and beautiful grain Easy to handle, strong braided sash cord Length: 1.2m / 1.8m / 2.4m Width: 650mm Rack End Colour Options: White (contact us if you want a different colour-Dulux powder coat colours) Box Weight: approx. 5kg NOTES A longer 15 meter sash cord can be purchased if you have a ceiling higher than 3 meters
-  Updated: 2025-10-02T05:22:41Z
+- [SwiftDry Loft Pulley Airer White (3 Sizes)](https://everydayhome.co.nz/products/swiftdry-urban-loft-pulley-airer): The SwiftDry Loft Pulley Airer is an innovative addition to our collection of modern pulley airers. This product is specifically designed for homeowners who prioritize practicality, quality, and aesthetics. Offered in a Textura Matt White or Textura Matt Black Powder Coat finish. The Airer is engineered for convenience, allowing for loading at waist height and easy elevation to a drying position just below the ceiling. The user-friendly pulley system enables quick drying of laundry in the warm air near the ceiling, optimizing your available floor space. Constructed with lightweight, powder-coated aluminum end brackets and five wooden rails made from imported kiln-dried American White Ash, this airer exemplifies both aesthetic appeal and durability. The wood features a straight grain that is resistant to warping. While the rails are pre-sanded for immediate use, there is an option to stain and clear-coat them to complement your existing interior décor. With 160mm gaps between each wooden rail, accommodating larger items is effortless. Enhanced air circulation near the ceiling accelerates drying times, with the Loft Clothes Airer capable of holding up to 20kgs of laundry when fully loaded. Supported by a 30-year warranty, this premium airer guarantees years of dependable service and satisfaction. KITSET INCLUDES 2x powder coated aluminium end brackets (light weight) 5x A Grade Wooden Rails Pulleys (1x double and 1x single) and ceiling screw mounting hooks 10m length of braided sash cord with cleat hook and screws Easy DIY assembly instructions 30 year Warranty SPECIFICATIONS & MATERIALS White powder coated aluminium end brackets, cleat hooks, and pulleys with nylon pulley wheels for silent, smooth action American White Ash Laths known for its warp resistant stability and beautiful grain Easy to handle, strong braided sash cord Length: 1.2m / 1.8m / 2.4m Width: 650mm Rack End Colour Options: White (contact us if you want a different colour-Dulux powder coat colours) Box Weight: approx. 5kg NOTES A longer 15 meter rope can be purchased here if you have a ceiling higher than 3 meters
+  Updated: 2025-10-22T00:45:53Z
   Vendor: SwiftDry Clotheslines NZ
   Product Type: SWIFTDRY PRODUCTS
   Availability: Available
@@ -3626,8 +3619,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/SLPK-SMPK_IMG-001.png?v=1746478984
     Price: $390.00 NZD
-- [SwiftDry Loft Pulley Airer Black (3 Sizes)](https://everydayhome.co.nz/products/swiftdry-loft-pulley-airer-black-3-sizes): The SwiftDry Loft Pulley Airer is an innovative addition to our collection of modern pulley airers. This product is specifically designed for homeowners who prioritize practicality, quality, and aesthetics. Offered in a Textura Matt White or Textura Matt Black Powder Coat finish. The Airer is engineered for convenience, allowing for loading at waist height and easy elevation to a drying position just below the ceiling. The user-friendly pulley system enables quick drying of laundry in the warm air near the ceiling, optimizing your available floor space. Constructed with lightweight, powder-coated aluminum end brackets and five wooden rails made from imported kiln-dried American White Ash, this airer exemplifies both aesthetic appeal and durability. The wood features a straight grain that is resistant to warping. While the rails are pre-sanded for immediate use, there is an option to stain and clear-coat them to complement your existing interior décor. With 160mm gaps between each wooden rail, accommodating larger items is effortless. Enhanced air circulation near the ceiling accelerates drying times, with the Loft Clothes Airer capable of holding up to 20kgs of laundry when fully loaded. Supported by a 30-year warranty, this premium airer guarantees years of dependable service and satisfaction. KITSET INCLUDES 2x powder coated aluminium end brackets (light weight) 5x A Grade Wooden Rails Pulleys (1x double and 1x single) and ceiling screw mounting hooks 10m length of braided sash cord with cleat hook and screws Easy DIY assembly instructions 30 year Warranty SPECIFICATIONS & MATERIALS Black powder coated aluminium end brackets, cleat hooks, and pulleys with nylon pulley wheels for silent, smooth action American White Ash Laths known for its warp resistant stability and beautiful grain Easy to handle, strong braided sash cord Length: 1.2m / 1.8m / 2.4m Width: 650mm Rack End Colour Options: Black (contact us if you want a different colour-Dulux powder coat colours) Box Weight: approx. 5kg NOTE A longer 15 meter sash cord can be purchased if you have a ceiling higher than 3 meters
-  Updated: 2025-10-12T06:40:46Z
+- [SwiftDry Loft Pulley Airer Black (3 Sizes)](https://everydayhome.co.nz/products/swiftdry-loft-pulley-airer-black-3-sizes): The SwiftDry Loft Pulley Airer is an innovative addition to our collection of modern pulley airers. This product is specifically designed for homeowners who prioritize practicality, quality, and aesthetics. Offered in a Textura Matt White or Textura Matt Black Powder Coat finish. The Airer is engineered for convenience, allowing for loading at waist height and easy elevation to a drying position just below the ceiling. The user-friendly pulley system enables quick drying of laundry in the warm air near the ceiling, optimizing your available floor space. Constructed with lightweight, powder-coated aluminum end brackets and five wooden rails made from imported kiln-dried American White Ash, this airer exemplifies both aesthetic appeal and durability. The wood features a straight grain that is resistant to warping. While the rails are pre-sanded for immediate use, there is an option to stain and clear-coat them to complement your existing interior décor. With 160mm gaps between each wooden rail, accommodating larger items is effortless. Enhanced air circulation near the ceiling accelerates drying times, with the Loft Clothes Airer capable of holding up to 20kgs of laundry when fully loaded. Supported by a 30-year warranty, this premium airer guarantees years of dependable service and satisfaction. KITSET INCLUDES 2x powder coated aluminium end brackets (light weight) 5x A Grade Wooden Rails Pulleys (1x double and 1x single) and ceiling screw mounting hooks 10m length of braided sash cord with cleat hook and screws Easy DIY assembly instructions 30 year Warranty SPECIFICATIONS & MATERIALS Black powder coated aluminium end brackets, cleat hooks, and pulleys with nylon pulley wheels for silent, smooth action American White Ash Laths known for its warp resistant stability and beautiful grain Easy to handle, strong braided sash cord Length: 1.2m / 1.8m / 2.4m Width: 650mm Rack End Colour Options: Black (contact us if you want a different colour-Dulux powder coat colours) Box Weight: approx. 5kg NOTE A longer 15 meter rope can be purchased here if you have a ceiling higher than 3 meters
+  Updated: 2025-10-22T00:51:00Z
   Vendor: SwiftDry Clotheslines NZ
   Product Type: SWIFTDRY PRODUCTS
   Availability: Available
@@ -4258,7 +4251,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/IroningCover2020_DenimBlack_96dpi_630x1181px_E_NR-21470_471f3739-090d-40b8-a034-a0cb139f98e9.jpg?v=1756268113
   Price: $59.99 NZD
 - [Brabantia Ironing Board Cover C - Denim Blue](https://everydayhome.co.nz/products/brabantia-ironing-board-cover-c-denim-blue): Need a fresh take on ironing? Just dress your Brabantia Ironing Board C in this new cover. This 100% cotton top layer is Fairtrade certified, durable and practical - the perfect match to your ironing board. Smooth!
-  Updated: 2025-09-23T12:39:13Z
+  Updated: 2025-10-21T22:37:10Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -4762,7 +4755,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1013387-158_TIPSYBOTTLEOPENER_CHROME_CC0.jpg?v=1755557387
   Price: $39.99 NZD
 - [Umbra Rodeo Buddy Bottle Opener - Chrome](https://everydayhome.co.nz/products/umbra-rodeo-buddy-bottle-opener-chrome): Saddle up your bar setup with Rodeo Buddy, the bottle opener that brings style and entertainment to every pour! This isn’t just any bottle opener; crafted from sleek cast metal with a polished chrome finish, Rodeo Buddy doubles as a unique decorative piece that stands out. Its balancing stand lets Buddy "dance" after each use, making it a fun and interactive conversation starter. Ideal for entertaining or for any at-home bar setup, Rodeo Buddy is as practical as it is eye-catching. It also makes a memorable hostess gift, adding a dash of charm to any bar collection. Give your bar a whimsical upgrade with Rodeo Buddy!
-  Updated: 2025-10-21T19:22:12Z
+  Updated: 2025-10-22T05:20:20Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
