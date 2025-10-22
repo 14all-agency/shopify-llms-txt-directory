@@ -10,7 +10,7 @@
 - Contact Email: support@eolasprints.com
 - Contact Phone: +34-942735955
 - Address: Parque Empresarial Besaya D14, Reocín 39538, Cantabria, Spain
-- Updated At: 2025-10-21T16:00:36.624Z
+- Updated At: 2025-10-22T16:00:43.371Z
 
 Welcome to Eolas Prints - Your Trusted 3D Printing & Digital Fabrication Partner
 
@@ -95,7 +95,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/pla-ingeo-870-filament-white-football-helmet-1-75-mm-1-kg-372.webp?v=1725009998
     Price: €30.50 EUR
 - [Pla Filament 1.75 Mm for Food Contact Applications](https://eolasprints.com/products/pla-filament-1-75-mm): Eolas Prints PLA filament in 1.75mm diameter offers premium quality in over 20 colors. A versatile material for 3D printing, suitable for food contact items.
-  Updated: 2025-10-21T15:24:51Z
+  Updated: 2025-10-22T11:00:23Z
   Vendor: Eolas Prints
   Product Type: 3D Printer Filament
   Availability: Available
@@ -611,7 +611,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/petg-filament-spool-3d-printer-1-75-mm-250-g-natural-620.webp?v=1725009923
     Price: €147.02 EUR
 - [Tpu Flexible Filament 93a for 3d Printing](https://eolasprints.com/products/tpu-filament): Eolas Prints TPU Flex Filament 93A is a food-safe tpu flexible filament offering durability for printing flexible parts with a balance of strength and elasticity.
-  Updated: 2025-10-20T13:46:55Z
+  Updated: 2025-10-21T22:46:05Z
   Vendor: Eolas Prints
   Product Type: 3D Printer Filament
   Availability: Available
@@ -913,7 +913,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Availability: Available
     Price: €4.99 EUR
 - [Certified Uv Resistant Petg Filament](https://eolasprints.com/products/petg-filament-certified-uv-resistant): Eolas Prints certified UV resistant PETG filament provides exceptional durability. This professional grade material is ideal for indoor and outdoor applications.
-  Updated: 2025-09-29T23:54:54Z
+  Updated: 2025-10-21T17:57:55Z
   Vendor: Eolas Prints
   Product Type: 3D Printer Filament
   Availability: Available
@@ -1261,7 +1261,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/flashforge-adventurer-5m-3d-printer-digital-379.webp?v=1759097305
   Price: €299.00 EUR
 - [Tpu Flex Filament D53 for Creating Flexible Parts](https://eolasprints.com/products/tpu-flex-filament-shore-d53): Eolas Prints TPU Flex Filament - D53 offers superior performance and ease of use for creating flexible parts, from prototypes to functional end-use components.
-  Updated: 2025-10-20T13:46:55Z
+  Updated: 2025-10-22T11:09:55Z
   Vendor: Eolas Prints
   Product Type: 3D Printer Filament
   Availability: Available
@@ -1608,7 +1608,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Availability: Available
     Price: €1,499.00 EUR
 - [Bambu Lab P2S](https://eolasprints.com/products/bambu-lab-p2s)
-  Updated: 2025-10-15T23:52:45Z
+  Updated: 2025-10-22T07:20:51Z
   Vendor: Bambu Lab
   Product Type: 3D Printer
   Availability: Available
@@ -1639,13 +1639,13 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
 ## Collections
 
 - [Certified High Speed Pla and Transition Filament](https://eolasprints.com/collections/pla): Eolas Prints PLA provides high quality filaments including multi-colour and high speed PLA. Our materials are ISO certified and REACH compliant for consistent printing.
-  Updated: 2025-10-21T11:15:14Z
+  Updated: 2025-10-22T11:14:56Z
   Total Products: 12
 - [Petg and Transition Filament for 3d Prints](https://eolasprints.com/collections/petg): The Eolas Prints PETG collection offers premium multi-colour and petg transition filament. All materials are ISO and REACH certified for superior quality and safety.
-  Updated: 2025-10-20T11:12:41Z
+  Updated: 2025-10-22T11:14:56Z
   Total Products: 5
 - [Tpu Flex Filament and Tpu Transition Filament](https://eolasprints.com/collections/tpu): Eolas Prints TPU offers premium, multi-colour tpu flex filament for 3D printing. Our materials are ISO and REACH certified for high-quality, reliable results.
-  Updated: 2025-10-21T11:15:14Z
+  Updated: 2025-10-22T11:14:56Z
   Total Products: 6
 - [OrderlyEmails - Recommended Products](https://eolasprints.com/collections/orderlyemails-recommended-products): This collection features recommended products for the OrderlyEmails app. It is automatically updated with our best-selling Eolas Prints for notification emails.
   Updated: 2025-09-28T22:37:41Z
@@ -1663,7 +1663,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   Updated: 2025-10-11T00:44:14Z
   Total Products: 5
 - [3d Printer Filament Pla Tpu Petg Abs Asa](https://eolasprints.com/collections/3d-printer-filament): Eolas Prints offers a premium collection of certified 3D printer filaments, including our high-performance Eolas Prints PLA, durable PETG, and flexible TPU.
-  Updated: 2025-10-21T11:15:14Z
+  Updated: 2025-10-22T11:14:56Z
   Total Products: 22
 - [New 3d Printing Innovations by Thought3d Magigoo](https://eolasprints.com/collections/new-arrivals): The latest collection at Eolas Prints includes the new Flashforge AD5X Multi-Colour printer and Thought3D products, all certified to ISO and REACH standards.
   Updated: 2025-10-18T11:11:53Z
@@ -1672,13 +1672,13 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   Updated: 2025-10-11T00:45:51Z
   Total Products: 1
 - [Codigo Escuela 4.0: 3d Printing in Education](https://eolasprints.com/collections/codigo-escuela-4-0): The Codigo Escuela 4.0 collection from Eolas Prints provides 3D printers like Bambu Lab for modern education and digital literacy in Spain.
-  Updated: 2025-10-21T11:15:14Z
+  Updated: 2025-10-22T11:14:56Z
   Total Products: 9
 - [Craft Machines for Home Projects and 3d Printing](https://eolasprints.com/collections/craft-machines): This collection of craft machines from Eolas Prints includes the Flashforge AD5X. ISO quality and environment management download certificates are available.
   Updated: 2025-09-28T22:41:04Z
   Total Products: 7
 - [3d Printing Equipment and Supplies Online Store](https://eolasprints.com/collections/3d-printers): Eolas Prints offers a professional collection of 3D printers, including the Flashforge AD5X. Our certified machines meet ISO and REACH quality standards.
-  Updated: 2025-10-16T09:52:07Z
+  Updated: 2025-10-22T11:14:56Z
   Total Products: 19
 
 ## Blogs
@@ -1879,6 +1879,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
 - [Greece (en / EUR)](https://eolasprints.com/en-gr/llms.txt?market=gr)
 - [Hungary (en / HUF)](https://eolasprints.com/en-hu/llms.txt?market=hu)
 - [International (en / EUR)](https://eolasprints.com/llms.txt?market=international)
+- [International (duties not collected) (en / undefined)](https://eolasprints.com/llms.txt?market=deliver-duties-unpaid-c5d535ed-86d6-4977-950f-f20334459d04)
 - [Ireland (en / EUR)](https://eolasprints.com/en-ie/llms.txt?market=ie)
 - [Israel (en / ILS)](https://eolasprints.com/en-il/llms.txt?market=israel)
 - [Italy (en / EUR)](https://eolasprints.com/en-it/llms.txt?market=it)
@@ -1902,7 +1903,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
 - [Saudi Arabia (en / SAR)](https://eolasprints.com/en-sa/llms.txt?market=saudi-arabia)
 - [Slovakia (en / EUR)](https://eolasprints.com/en-sk/llms.txt?market=sk)
 - [Slovenia (en / EUR)](https://eolasprints.com/en-si/llms.txt?market=si)
-- [Spain (en / EUR)](https://eolasprints.com//llms.txt?market=spain)
+- [Spain (en / EUR)](https://eolasprints.com/llms.txt?market=spain)
 - [Sweden (en / SEK)](https://eolasprints.com/en-se/llms.txt?market=se)
 - [Switzerland (en / CHF)](https://eolasprints.com/en-ch/llms.txt?market=switzerland)
 - [Turkey (en / TRY)](https://eolasprints.com/en-tr/llms.txt?market=turkey)
