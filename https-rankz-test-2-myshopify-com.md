@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-10-20T08:44:40Z
 - Contact Email: aleksandar@pursuitz.io
-- Updated At: 2025-10-21T20:00:27.347Z
+- Updated At: 2025-10-22T00:00:39.205Z
 
 ## Products
 
@@ -137,7 +137,7 @@
   Image: https://cdn.shopify.com/s/files/1/0696/3029/6142/files/Main_9129b69a-0c7b-4f66-b6cf-c4222f18028a.jpg?v=1760949920
   Price: $629.95 USD
 - [The Collection Snowboard: Liquid](https://rankz-test-2.myshopify.com/products/the-collection-snowboard-liquid)
-  Updated: 2025-10-20T20:45:24Z
+  Updated: 2025-10-21T20:12:49Z
   Vendor: Hydrogen Vendor
   Product Type: snowboard
   Availability: Available
