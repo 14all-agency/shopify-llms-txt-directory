@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-10-21T20:00:50.230Z
+- Updated At: 2025-10-22T00:00:48.036Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -15975,7 +15975,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £180.00 GBP
 - [Men's Dog Tag Necklace Gold  Superb Quality](https://www.lilyblanche.com/products/mens-dog-tag-necklace-gold): Looking for a classic dog tag necklace but with heft and quality? This striking gold vermeil dog tag necklace is a statement piece which can be engraved both sides with your message. A wonderful, personalised gift for a boyfriend, son, brother, father or friend. Order online today with free shipping.
-  Updated: 2025-10-21T08:23:56Z
+  Updated: 2025-10-21T21:15:20Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -16847,7 +16847,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £250.00 GBP
 - [Personalised  Diamond Heart Photo Locket | Engraved 18ct Gold Vermeil](https://www.lilyblanche.com/products/2-photo-diamond-heart-locket-gold): Keep loved ones close this Christmas with our best-selling Diamond Heart Photo Locket. Personalised FREE with 2 Photos. Engraved. Hallmarked 18ct gold vermeil. Order now for Christmas delivery. Rated 4.8/5 from 1627 reviews
-  Updated: 2025-10-21T14:31:25Z
+  Updated: 2025-10-21T23:56:29Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -20558,7 +20558,7 @@ From £119
     Availability: Available
     Price: £95.00 GBP
 - [Lapis Lazuli Charm Necklace Gold September Birthstone](https://www.lilyblanche.com/products/lapis-lazuli-charm-necklace-gold-september): Shopping for the perfect gift? Our 18 carat gold vermeil Lapis Lazuli gemstone necklace is the birthstone for September & a perfect birthday gift. Personalise the necklace with your choice of initial. Free jewellery care kit worth £20 with all orders. Express delivery available with all orders. Shop online now.
-  Updated: 2025-09-05T08:44:15Z
+  Updated: 2025-10-21T22:27:13Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
