@@ -7,7 +7,7 @@
 - Currency: EUR
 - Timezone: Europe/Dublin
 - Created At: 2025-01-23T10:54:05Z
-- Updated At: 2025-10-22T16:00:38.742Z
+- Updated At: 2025-10-22T20:00:57.151Z
 
 ## Products
 
@@ -1459,7 +1459,7 @@
     Availability: Available
     Price: €129.95 EUR
 - [Glass Polish  Polishing Pad 11023](https://glasspolishshop.com/products/gp-ultra-polishing-pad-5-inch-125mm): 125mm / 5 inch GP-ULTRA the highest quality polishing pad available on the market.  Made of the best quality wool and microfibers to ensure an ultra-fast cutting of surface and shiny finish at the same time.
-  Updated: 2025-10-21T21:13:17Z
+  Updated: 2025-10-22T17:10:52Z
   Vendor: Glass Polish
   Product Type: Hybrid Wool Polishing Pad
   Availability: Available
