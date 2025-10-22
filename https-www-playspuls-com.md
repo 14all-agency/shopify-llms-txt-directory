@@ -6,12 +6,12 @@
 - Timezone: America/Los_Angeles
 - Created At: 2025-09-03T06:10:26Z
 - Contact Email: help@playspuls.com
-- Updated At: 2025-10-21T16:00:29.351Z
+- Updated At: 2025-10-22T04:00:33.975Z
 
 ## Products
 
 - [Labubu 3.0  Blind Box Big Into Energy Series](https://www.playspuls.com/products/labubu-3-0-blind-box-big-into-energy-series): Big Into Energy SeriesThe Big Into Energy Series features characters full of dynamic energy and expression. Each figure is carefully designed with bold colors and vibrant poses. Figures measure 6.69 inches tall. The PVC material provides durability for long-lasting display. Every figure features unique facial expressions and energetic designs. Bright colors make each piece stand out in any collection. You will receive a random Labubu 3.0 blind box, which could be one of the regular styles, or you might get lucky and land the rare hidden figure — the surprise is revealed only when you open the box!Individual boxes measure approximately 6 x 4 x 4 inches. Character size: Height(Excluding Hanging Loop): 6.69inches Material: Shell: PVC / Polyester Stuffing: Polyester / Iron Wire Include: 1pcs
-  Updated: 2025-10-21T03:58:16Z
+  Updated: 2025-10-21T19:24:37Z
   Vendor: PlaysPuls
   Product Type: Toy doll
   Availability: Available
@@ -25,7 +25,7 @@
   Image: https://cdn.shopify.com/s/files/1/0715/4676/5479/files/1122.png?v=1758546493
   Price: $192.00 USD
 - [Labubu 3.0 Monsters Big into Energy Series Secret Version](https://www.playspuls.com/products/labubu-3-0-monsters-big-into-energy-series-id-secret-version): Labubu is a collectible figure from The Monsters series.Made of high-quality PVC, this charming character adds personality to any shelf and makes a perfect gift or collectible item. Size: Height(Excluding Hanging Loop): 6.69inches Material: Shell: PVC / Polyester Stuffing: Polyester / Iron Wire
-  Updated: 2025-10-20T11:57:32Z
+  Updated: 2025-10-21T22:10:41Z
   Vendor: PlaysPuls
   Product Type: Toy doll
   Availability: Available
@@ -39,7 +39,7 @@
   Image: https://cdn.shopify.com/s/files/1/0715/4676/5479/files/1_f0f81f26-ee23-4bce-b2a8-0da09f1cea5c.jpg?v=1757004622
   Price: $79.99 USD
 - [Monster Coca-Cola series single blind box](https://www.playspuls.com/products/monster-coca-cola-series-single-blind-box): These figures are the perfect gift for any occasion, be it Children's Day, Christmas, Halloween, Thanksgiving, or New Years. A piece of art expressing deep feelings and complicated emotions, it's also a wonderful home decor gift for your family or friends. Size:Height(Excluding Hanging Loop): 6.69inchesMaterial:Shell: PVC / PolyesterStuffing:Polyester / Iron Wire
-  Updated: 2025-10-16T13:35:09Z
+  Updated: 2025-10-21T23:02:11Z
   Vendor: PlaysPuls
   Product Type: Toy doll
   Availability: Available
