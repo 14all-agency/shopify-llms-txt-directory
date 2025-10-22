@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-10-22T00:00:48.036Z
+- Updated At: 2025-10-22T04:00:54.682Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -3883,7 +3883,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £320.00 GBP
 - [Four Photo Oval Butterfly Locket | White Gold Necklace | Lily Blanche](https://www.lilyblanche.com/products/four-photo-oval-butterfly-locket-white-gold): Looking for a personalised gift? This beautiful four photo oval butterfly locket in white gold vermeil is the perfect way to keep your loved ones close to your heart. The locket features a silver butterfly charm, symbolising happiness and transformation. Personalise your locket online today with Free UK Shipping!
-  Updated: 2025-10-12T11:10:05Z
+  Updated: 2025-10-22T03:36:36Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -15728,7 +15728,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_892d66ff-d56a-4be7-ba20-89281ad4bba3.jpg?v=1741884250
   Price: £90.00 GBP
 - [Silver Diamond Heart Locket For Christmas | 2 Photo Locket Gift](https://www.lilyblanche.com/products/2-photo-diamond-heart-locket-silver): The perfect Christmas gift. Handcrafted in premium sterling silver & featuring a genuine diamond, this bestselling locket holds two photos. Free delivery & gift wrap. Create a magical moment this Christmas.
-  Updated: 2025-10-21T12:04:19Z
+  Updated: 2025-10-22T02:03:10Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -17003,7 +17003,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £140.00 GBP
 - [Men's Heavy Sterling Silver Cross Necklace - Premium Craftsmanship](https://www.lilyblanche.com/products/mens-silver-cross-necklace): Men's heavy sterling silver cross necklace. Handcrafted heirloom-quality, 44mm pendant with a choice of chains. UK-made. Free delivery, gift wrap & care kit. £140
-  Updated: 2025-10-21T14:55:31Z
+  Updated: 2025-10-22T00:03:06Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -21809,7 +21809,7 @@ From £119
     Price: £755.00 GBP
 - [Sapphire Cross Necklace in Solid Gold](https://www.lilyblanche.com/products/sapphire-cross-necklace-in-solid-gold): Make a sparkling statement with the Lily Blanche Sapphire Cross Pendant, crafted in solid 9-carat gold and set with eleven ethically sourced sapphires. This timeless, heirloom-worthy necklace offers sophistication and sparkle. Order today and receive a free jewellery care kit worth £20
 From £425
-  Updated: 2025-10-21T13:54:48Z
+  Updated: 2025-10-22T00:24:16Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
