@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-03-10T14:11:59Z
 - Contact Email: info@surgismart.in
-- Updated At: 2025-10-22T00:00:36.164Z
+- Updated At: 2025-10-22T04:00:42.588Z
 
 ## Products
 
@@ -2455,7 +2455,7 @@
     Availability: Available
     Price: ₹840.00 INR
 - [Buy ​Steri Flo Infusion Set - Surgismart](https://surgismart.in/products/steriflo-plus-ss-3308): Premium Infusion Set. Manufactured from safe material to be used in all kinds of patients without any associated complications. Sharp spike is provided for better penetration in all types of fluid containers. Vented set with microbial barrier air vent filter. Large drip chamber ensures better grip. 15µm disc type fluid filter to prevent entry of any particulate matter. Equipped with specially designed “Y” injection port made up of isoprene, having re-sealing property for additional medication. Smooth kink resistant tube with efficient roller controller for unrestricted flow. New advanced rotating luer lock at distal end. Provided with an innovative prime stop, with hydrophobic membrane placed on the luer lock fitting that stops fluid dripping on the floor. Sterile, disposable, non-pyrogenic, individually blister packed. Box of 10/ Master Box of 200. Tube Length - 150 CM | Drop Rate - 20 Drops/ml Product Specifications: Brand Romsons Generic Name Infusion Set Manufacturer Name and Address Romsons Group Private Limited 63-64, Industrial Estate, Nunhai, Agra, 282006 Best Before Best Before 5 Years From the Date of Manufacturing Mfg. License No MFG/MD/2021/000151 EAN 18907265307709 Drug License No. MD-42 Registration Number : RMD/DCD/HO-1475/04 MD-42 Registration Number : TN/TVR/MD42/00004 MD-42 Registration Number : MFG/KTK/113/MD-42/2023-24 - Surgismart
-  Updated: 2025-10-15T09:36:39Z
+  Updated: 2025-10-22T01:42:23Z
   Vendor: Romsons
   Product Type: Infusion Set
   Availability: Available
