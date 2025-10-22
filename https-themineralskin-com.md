@@ -9,7 +9,7 @@
 - Created At: 2025-08-25T14:01:44Z
 - Contact Email: support@themineralskin.com
 - Address: 17 Heath Drive, London NW3 7SL, United Kingdom
-- Updated At: 2025-10-21T04:00:30.402Z
+- Updated At: 2025-10-22T20:00:35.974Z
 
 ## Products
 
@@ -77,7 +77,7 @@
   Image: https://cdn.shopify.com/s/files/1/0918/9451/3992/files/sp.webp?v=1759397634
   Price: $1.60 USD
 - [The Modern Man’s Guide to Natural Skin (Ebook) - Mineral](https://themineralskin.com/products/the-modern-man-s-guide-to-natural-skin-ebook): A simple, science-backed guide for men who want healthy, natural skin—without harsh chemicals or 10-step routines. This book breaks down everything from what your skin truly needs to how to build a minimal, effective routine. 📘 Inside the book: Introduction: The New Face of Grooming Chapter 1: What Skin Actually Needs Chapter 2: Nature vs. Chemicals Chapter 3: Minimal Routine, Maximal Results Chapter 4: The Modern Man’s Mistakes Chapter 5: Building Your Natural Arsenal Chapter 6: Skincare as Self-Respect Conclusion: Back to the Source Bonus: Your Free Skin Coach Length: ~55 pagesPublisher: The Mineral Skin A clean, modern guide that helps men rediscover skincare as confidence, discipline, and self-respect — naturally. - Mineral -  - The Mineral
-  Updated: 2025-10-15T21:56:46Z
+  Updated: 2025-10-21T18:41:03Z
   Vendor: The Mineral
   Product Type: 
   Availability: Available
@@ -131,6 +131,12 @@
     Author: Michele Galli
   - [Botanic Age Regression Cream Review | The Natural Anti-Aging Breakthrough from The Mineral Skin](https://themineralskin.com/blogs/news/botanic-age-regression-cream-a-new-era-in-natural-anti-aging): Botanic Age Regression Cream Review | The Natural Anti-Aging Breakthrough from The Mineral Skin
     Updated: 2025-10-17T14:19:14Z
+    Author: Michele Galli
+  - [Botanic Purge Foam: The Ultimate Natural Deep Cleanser for Men and Women](https://themineralskin.com/blogs/news/botanic-purge-foam-the-ultimate-natural-deep-cleanser-for-men-and-women)
+    Updated: 2025-10-22T13:16:57Z
+    Author: Michele Galli
+  - [Icelandic Volcano Face & Body Scrub Review – The Ultimate Skin Detox for Men and Women](https://themineralskin.com/blogs/news/icelandic-volcano-face-body-scrub-review-the-ultimate-skin-detox-for-men-and-women)
+    Updated: 2025-10-22T13:28:40Z
     Author: Michele Galli
 
 ## Store Pages
