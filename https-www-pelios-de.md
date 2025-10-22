@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-06-23T16:57:53Z
 - Contact Email: info@pelios.de
-- Updated At: 2025-10-22T16:00:29.670Z
+- Updated At: 2025-10-22T20:00:34.234Z
 
 ## Products
 
