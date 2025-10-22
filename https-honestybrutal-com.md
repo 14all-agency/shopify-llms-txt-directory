@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-02-07T02:43:04Z
 - Contact Email: alex@honestybrutal.com
-- Updated At: 2025-10-22T08:00:34.858Z
+- Updated At: 2025-10-22T20:00:33.663Z
 
 ## Products
 
