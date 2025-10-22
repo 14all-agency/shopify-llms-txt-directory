@@ -6,7 +6,7 @@
 - Timezone: Asia/Shanghai
 - Created At: 2024-10-25T12:33:51Z
 - Contact Email: apprevtest6@shopify.com
-- Updated At: 2025-10-22T17:42:48.430Z
+- Updated At: 2025-10-22T18:36:43.838Z
 
 ## Products
 
@@ -37,7 +37,7 @@
   Image: https://cdn.shopify.com/s/files/1/0843/4640/4920/files/Screenrecording2025-09-029.59.44PM.gif?v=1756821738
   Price: $10.00 USD
 - [chukapi](https://7m4pu0-dr.myshopify.com/products/anime-con): 3 days costplay
-  Updated: 2025-10-17T12:46:53Z
+  Updated: 2025-10-22T18:10:45Z
   Vendor: KhaneeingLhameegh 1
   Product Type: 
   Availability: Available
