@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2018-01-12T21:20:39Z
 - Contact Email: contact@ma-boutique-henne.com
-- Updated At: 2025-10-21T12:00:40.657Z
+- Updated At: 2025-10-22T00:00:36.936Z
 
 ## Products
 
@@ -102,7 +102,7 @@
     Image: https://cdn.shopify.com/s/files/1/2730/3378/products/HTB1id5PQpXXXXXLXFXXq6xXFXXXQ.jpg?v=1546614587
     Price: 2,00 € EUR
 - [Brosse à cheveux en soies de sanglier](https://ma-boutique-henne.com/products/brosse-a-cheveux-en-veritable-soies-de-sanglier-qualite-superieure): qualité supérieure brosses et peignes à cheveux fabriqués à la main, avec passion. Kostkamm, Cette brosse à cheveux est composée d'un manche en bois de poirier, sa tête ovale, en poils de sanglier, 8 rangs. soin cheveux, demeler, doux, brosser, chevelure, boutique, accessoire, coiffure
-  Updated: 2025-09-30T18:06:17Z
+  Updated: 2025-10-21T18:20:51Z
   Vendor: ma boutique henné
   Product Type: Accessoires
   Availability: Available
@@ -179,7 +179,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/Moon_Clip.png?v=1528377974
   Price: 5,50 € EUR
 - [Verge d'Or en poudre](https://ma-boutique-henne.com/products/verge-dor-en-poudre-100gr): Une copine de la Camomille Matricaire, la verge d'or en poudre d'ajouter des reflets dorés dans la chevelure, pour un effet soleil. henné naturel, cuivré clair en masque capillaire éclaircissant, éclaircir cheveux, nuances de blond, doré, henné blond, coloration blonde, poudre, plante, coiffure, boutique
-  Updated: 2025-09-27T21:19:41Z
+  Updated: 2025-10-21T16:14:56Z
   Vendor: Ma Boutique Henné
   Product Type: Poudres colorantes
   Availability: Available
@@ -270,7 +270,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/HTB15VpMSFXXXXaKXXXXq6xXFXXXn.jpg?v=1671202777
   Price: 7,50 € EUR
 - [Henné Sahara Tazarine BAQ (boîte jaune)](https://ma-boutique-henne.com/products/henne-tazarine-baq-100gr): Le henné Sahara Tazarine du Maroc; BAQ. traditionnel, 100% naturel, soin cheveux, coloration, tatouage corps, poudre fine, reflet cuivré, roux, rousse, rouge, auburn, bordeaux, masque capillaire, poudre, plante, bio, boutique, rouge cerise, algérie, rajasthan, couleur, chevelure, pousse, cuir chevelu, volume, brillance
-  Updated: 2025-10-20T19:05:20Z
+  Updated: 2025-10-21T18:38:41Z
   Vendor: Ma Boutique Henné
   Product Type: Henné
   Availability: Available
@@ -319,7 +319,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/KATAM.png?v=1538729805
   Price: 15,00 € EUR
 - [Henné Noir HEMANI - 150 GR](https://ma-boutique-henne.com/products/henne-noir-hemani-150-gr): L'authentique Hemani noir, black bakhour, bakhoor, burgundy, ce henné est un mélange de plantes tinctoriales pour d'obtenir une couleur brune foncé et couvre les cheveux blancs, coloration, naturelle, marron, noir bleuté, naturelle, rousse, cerise, auburn, bordeaux, plante, poudre, bio, amla, red kalama, shikakai
-  Updated: 2025-10-04T12:54:17Z
+  Updated: 2025-10-21T12:07:00Z
   Vendor: Ma Boutique Henné
   Product Type: Henné
   Availability: Available
@@ -1242,7 +1242,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/HTB1vDnxbcrrK1RjSspaq6AREXXaS.jpg?v=1556036930
   Price: 5,50 € EUR
 - [Vitamine C en poudre (Ascorbic Acid) - Gros format (100 GR)](https://ma-boutique-henne.com/products/vitamine-c-en-poudre-ascorbic-acid): Poudre de vitamine c acide ascorbique, elemental, éclaircir cheveux, éclaircissement couleur, cheveux blonds, reflets dorés, peaux grasses à imperfections, illumine le teint, lisse, anti ride, anti oxydant, poudre orange argile, neem, katam, henne, rouge cerise, cheveux violine, aubergine, henné d'algérie
-  Updated: 2025-10-09T10:57:20Z
+  Updated: 2025-10-21T16:14:56Z
   Vendor: Ma Boutique Henné
   Product Type: Poudre de soin
   Availability: Available
@@ -1768,7 +1768,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/henne-blond-dore.png?v=1605703923
   Price: 19,50 € EUR
 - [Henné Rouge Renforcé Intense - Exclusivité Ma Boutique Henné](https://ma-boutique-henne.com/products/henne-rouge-renforce): Henné rouge renforcé intense, coloration cheveux rouges, flamboyant, 1,5% sodium picramate (taux réduit pour préserver votre santé) couvre les cheveux blancs, temps de pose réduit et soin des cheveux, auburn, bordeaux
-  Updated: 2025-10-20T12:21:16Z
+  Updated: 2025-10-21T18:25:05Z
   Vendor: Ma Boutique Henné
   Product Type: Henné
   Availability: Available
@@ -2013,7 +2013,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/files/henne-souad-rouge-clair.jpg?v=1734610987
   Price: 4,50 € EUR
 - [Henné naturel d'Egypte - Exclusivité Ma Boutique Henné](https://ma-boutique-henne.com/products/henne-naturel-degypte-exclusivite-ma-boutique-henne): Ce henné 100% naturel, egypte, rouge roux  naturel BAQ, biologique. coloration et soin des cheveux, couleur rousse, reflets cuivrés, auburn, bordeaux, rouge, cheveux brillants, volume, henne, rouge ,poudre plante, coloration, coloration cheveux gris, henna
-  Updated: 2025-10-17T16:09:14Z
+  Updated: 2025-10-21T18:21:37Z
   Vendor: Ma Boutique Henné
   Product Type: Henné
   Availability: Available
@@ -2062,7 +2062,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/files/IndigoHaare-Pflanzenhaarfarbe_khadi.jpg?v=1745869918
   Price: 9,90 € EUR
 - [Henné Neutre - Ma Boutique Henné](https://ma-boutique-henne.com/products/henne-neutre-ma-boutique-henne): coloration ma boutique henne Indigo pur Bleu, Noir Froid, bleu et bleuté, cheveux châtain moyen et Noir Bleuté brun, brune, marron foncé, indigotier
-  Updated: 2025-10-17T17:03:31Z
+  Updated: 2025-10-21T18:22:13Z
   Vendor: Ma Boutique Henné
   Product Type: Poudre de soin
   Availability: Available
