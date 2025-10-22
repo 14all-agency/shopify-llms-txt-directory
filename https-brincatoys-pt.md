@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-10-22T00:01:10.384Z
+- Updated At: 2025-10-22T08:01:17.436Z
 
 ## Products
 
@@ -21206,7 +21206,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/hot-wheels-oracle-red-bull-racing-rb20-11-232638725-0194735263875-hot-wheels-1198768251.jpg?v=1761054596
   Price: 16,90 € EUR
 - [Hot Wheels Oracle Red Bull Racing RB20 (#1)](https://brincatoys.pt/products/hot-wheels-oracle-red-bull-racing-rb20-1): Acelera para a vitória com o Hot Wheels Oracle Red Bull Racing RB20 #1! Esta miniatura premium é indispensável para quem ama Fórmula 1. 🏁
-  Updated: 2025-10-21T13:48:06Z
+  Updated: 2025-10-22T01:23:06Z
   Vendor: Hot Wheels
   Product Type: + 14 anos
   Availability: Available
