@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2023-07-19T18:27:19Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-10-21T08:00:37.061Z
+- Updated At: 2025-10-22T04:00:37.654Z
 
 ## Products
 
 - [Stretch Velvet Sequin Fabric | Fabrics Star](https://fabricsstar.com/products/sequin-fabric): Sparkle and shine with Sequin Fabric from Fabrics Star. Perfect for adding glamour to dresses, costumes, and decor, this fabric is a must-have for any sewing enthusiast.
-  Updated: 2025-10-21T06:50:15Z
+  Updated: 2025-10-22T00:35:11Z
   Vendor: Fabrics Star
   Product Type: Velvet Sequin Fabric
   Availability: Available
@@ -1415,7 +1415,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/natural1.jpg?v=1757517314
     Price: $1.00 USD
 - [Brocade Huntsville Velvet Fabric | Fabrics Star](https://fabricsstar.com/products/unique-quality-fabrics-72-embossed-huntsville-velvet): Elevate your projects with Embossed Huntsville Velvet from Fabrics Star. With its unique texture and quality, this fabric adds a touch of sophistication to upholstery, drapery, and more.
-  Updated: 2025-09-29T17:44:56Z
+  Updated: 2025-10-21T10:00:51Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1689,7 +1689,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Chenille Soft Velvet Fabric | Fabrics Star](https://fabricsstar.com/products/chenille-soft-velvet-fabric): Experience luxury with Chenille Soft Velvet Fabric from Fabrics Star. With a width of 118 inches, this fabric is perfect for upholstery projects for coaches and chairs.
-  Updated: 2025-10-19T00:43:49Z
+  Updated: 2025-10-22T00:37:50Z
   Vendor: Fabrics Star
   Product Type: Chenille Fabric
   Availability: Available
@@ -3031,7 +3031,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/DENVER-GOLD-NAVY-851.jpg?v=1757517611
     Price: $1.00 USD
 - [Cambridge Floral Jacquard Fabric | Fabrics Star](https://fabricsstar.com/products/cambridge-floral-jacquard-fabric): Add a touch of sophistication with Cambridge Floral Jacquard Fabric from Fabrics Star. With a 55-inch width, this fabric is perfect for upholstery, drapery, pillows etc.
-  Updated: 2025-10-13T18:23:11Z
+  Updated: 2025-10-21T13:32:53Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -3947,7 +3947,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/AZALEA-DARK-NAVY.jpg?v=1757517782
     Price: $1.00 USD
 - [SPRING GARDEN Floral Digital Print Fabric | 58 Inch Wide](https://fabricsstar.com/products/floral-digital-print-fabric-cotton-hand-58-inch-in-width-home-decor): Discover the SPRING GARDEN Floral Digital Print Fabric, 58" wide for home decor. Medium weight, 100% polyester, sold by the yard. Order now!
-  Updated: 2025-10-15T22:58:59Z
+  Updated: 2025-10-22T03:24:25Z
   Vendor: Fabrics Star
   Product Type: Digital Print Fabric
   Availability: Available
@@ -4847,7 +4847,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/TREASURE-OFF-WHITE-5A-1.jpg?v=1757518049
     Price: $1.00 USD
 - [Sprite Jacquard, Textured Feel Fabric, 115 Inch. in Width, | Home Decor](https://fabricsstar.com/products/sprite-jacquard-quilted-look-fabric-115-inch-in-width-home-decor): DIMENSION - Size of the Jacquard Fabric is 115 Inch. in width. Cut by the Yard Fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 115' x 36'. Order of 3 yards (Qty=3) is 115' x 108' Orders can be customized to be cut in pieces by request. SIZE: Textured Feel fabric comes in 115 Inch in width making it the perfect choice for various oversized needs, such as wide tablecloths etc. MATERIAL - Jacquard Fabric is a heavyweight fabric made of 100% polyester. DESIGN - Ideal Material for Upholstery, drapery, pillows, slipcovers, tablecloths, sewing, DIY, arts & crafts Etc. Elevate your home decor with the fabric. Its Textured Feel brings a touch of elegance to your tablecloths and furniture, while its durable material ensures long-lasting use. Add a stylish touch to your space with the fabric CARE - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-10-14T20:33:02Z
+  Updated: 2025-10-21T12:39:45Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
@@ -9477,7 +9477,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/WALDORF-GREY-206.jpg?v=1757518830
     Price: $1.00 USD
 - [VELUXE Soft Velvet Fabric, 72 Inch. in Width, Ideal Material for Home Décor](https://fabricsstar.com/products/veluxe-soft-velvet-fabric-72-inch-in-width-ideal-material-for-home-decor): DIMENSION - Size of the velvet fabric is 72 Inch. in width. Cut by the Yard Velvet Fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 72' x 36'. Order of 3 yards (Qty=3) is 72' x 108' Orders can be customized to be cut in pieces by request SIZE: Soft velvet fabric comes in 72 inch. in width making it the perfect choice for various oversize needs, such as wide tablecloths, upholstery for big coaches etc. MATERIAL - Velvet fabric by the yard is heavyweight and made of 100% polyester. It's soft to the touch and gives a warm and cozy feeling. Wash with lukewarm water, no dryerUSEFUL - Ideal Velvet Material for Upholstery fabric for Coaches and chairs, drapery, pillows, slipcovers, tablecloths, sewing, DIY, handbags, tote bags, arts & crafts Etc Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor.
-  Updated: 2025-10-20T04:05:06Z
+  Updated: 2025-10-21T19:25:10Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -9625,10 +9625,10 @@
   Updated: 2025-09-16T00:42:42Z
   Total Products: 1
 - [Buy Sequin Fabric Online | Sequins By The Yard - Fabrics Star](https://fabricsstar.com/collections/sequin-fabrics): Shop sequin fabrics online at Fabrics Star. Find dazzling & elegant sequins by the yard for your next project, offering sparkle and style in every design.
-  Updated: 2025-10-20T11:11:05Z
+  Updated: 2025-10-21T11:12:19Z
   Total Products: 14
 - [Buy Luxury Velvet Fabrics Online | Premium Velvet Fabric](https://fabricsstar.com/collections/velvet-fabrics): Explore luxury velvet fabrics at Fabrics Star. Buy premium velvet fabric online for stunning designs and unmatched quality. Perfect for any project.
-  Updated: 2025-10-20T11:11:05Z
+  Updated: 2025-10-21T11:12:19Z
   Total Products: 28
 - [Embroidered Lace Fabric Online | Buy Luxury Lace Fabrics](https://fabricsstar.com/collections/lace-fabrics): Shop exquisite lace fabrics online at Fabrics Star. Explore beautiful embroidered lace fabric for your creative projects, offering elegance and style!
   Updated: 2025-10-20T11:11:05Z
@@ -9643,19 +9643,19 @@
   Updated: 2025-10-19T11:12:06Z
   Total Products: 26
 - [Our Full line of Fabrics](https://fabricsstar.com/collections/our-full-line-of-fabrics)
-  Updated: 2025-10-20T11:11:05Z
+  Updated: 2025-10-21T11:12:19Z
   Total Products: 666
 - [New! Shopify performance sharing is now turned on](https://fabricsstar.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2025-10-20T11:11:05Z
+  Updated: 2025-10-21T11:12:19Z
   Total Products: 666
 - [110](https://fabricsstar.com/collections/110)
-  Updated: 2025-10-20T11:11:05Z
+  Updated: 2025-10-21T11:12:19Z
   Total Products: 533
 - [72](https://fabricsstar.com/collections/72)
-  Updated: 2025-10-20T11:11:05Z
+  Updated: 2025-10-21T11:12:19Z
   Total Products: 13
 - [APPPlaza - Best Sellers](https://fabricsstar.com/collections/appplaza-best-sellers)
-  Updated: 2025-10-20T11:11:05Z
+  Updated: 2025-10-21T11:12:19Z
   Total Products: 666
 
 ## Blogs
@@ -9714,6 +9714,9 @@
     Author: User
   - [Frequently asked questions about waterproof textiles](https://fabricsstar.com/blogs/news/frequently-asked-questions-about-waterproof-textiles): Frequently asked questions about waterproof textiles
     Updated: 2025-10-20T04:05:27Z
+    Author: User
+  - [Comparing Linen and Cotton Which is Better for Your Project](https://fabricsstar.com/blogs/news/comparing-linen-and-cotton-which-is-better-for-your-project): Comparing Linen and Cotton Which is Better for Your Project
+    Updated: 2025-10-22T02:41:28Z
     Author: User
 
 ## Store Pages
