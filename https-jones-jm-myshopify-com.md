@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-01-12T05:43:12Z
 - Contact Email: hello424242@gmail.com
-- Updated At: 2025-10-22T04:00:34.243Z
+- Updated At: 2025-10-22T08:00:33.690Z
 
 ## Products
 
@@ -72,19 +72,21 @@
     Availability: Available
     Price: $9.95 NZD
 - [Complete Snowboard](https://jones-jm.myshopify.com/products/the-complete-snowboard): snowboard winter sport snowboarding
-  Updated: 2025-07-27T02:26:17Z
+  Updated: 2025-10-22T06:51:26Z
   Vendor: Snowboard Vendor
   Product Type: snowboard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0617/3717/3079/files/Main_589fc064-24a2-4236-9eaf-13b2bd35d21d.jpg?v=1736660631
   - [Ice](https://jones-jm.myshopify.com/products/the-complete-snowboard?variant=41487629484119)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0617/3717/3079/files/Main_589fc064-24a2-4236-9eaf-13b2bd35d21d.jpg?v=1736660631
     Price: $699.95 NZD
   - [Dawn](https://jones-jm.myshopify.com/products/the-complete-snowboard?variant=41487629549655)
     Availability: Available
     Price: $699.95 NZD
   - [Powder](https://jones-jm.myshopify.com/products/the-complete-snowboard?variant=41487629582423)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0617/3717/3079/files/Cow-Plush-Dolls-cashymart-38275788275990.webp?v=1758785141
     Price: $699.95 NZD
   - [Electric](https://jones-jm.myshopify.com/products/the-complete-snowboard?variant=41487629615191)
     Availability: Available
