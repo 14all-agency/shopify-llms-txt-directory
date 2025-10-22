@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2023-11-06T10:53:38Z
 - Contact Email: theworldofnerdscustomer@gmail.com
-- Updated At: 2025-10-22T00:00:55.380Z
+- Updated At: 2025-10-22T04:00:47.423Z
 
 ## Products
 
@@ -5317,7 +5317,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC8047copy.jpg?v=1740221580
   Price: ₹150.00 INR
 - [LNDOMINUS](https://theworldofnerds.com/products/lndominus): Experience the ultimate in dinosaur play with LNDOMINUS toy. This highly detailed LNDOMINUS TOY offers realistic features and precise design, allowing you to engage in thrilling and educational adventures. Perfect for any dinosaur enthusiast or collector.
-  Updated: 2025-07-29T05:14:00Z
+  Updated: 2025-10-22T03:03:53Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
