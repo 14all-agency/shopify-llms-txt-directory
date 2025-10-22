@@ -6,7 +6,7 @@
 - Timezone: Europe/Bucharest
 - Created At: 2025-10-04T05:09:15Z
 - Contact Email: info@comoripsaltice.ro
-- Updated At: 2025-10-21T20:00:29.863Z
+- Updated At: 2025-10-22T00:00:39.119Z
 
 ## Products
 
