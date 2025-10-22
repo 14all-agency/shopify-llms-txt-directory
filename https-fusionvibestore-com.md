@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-09-05T06:24:05Z
 - Contact Email: fusionvibestoreofficial@gmail.com
-- Updated At: 2025-10-21T08:00:32.029Z
+- Updated At: 2025-10-22T16:00:33.716Z
 
 ## Products
 
@@ -41,7 +41,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/a8bf7a9a-6417-44bb-87a9-5c236807c372.jpg?v=1757311437
     Price: $19.00 USD
 - [Self-Stirring Magnetic Mug | Automatic Stirring Coffee Cup (14oz/400ml)](https://fusionvibestore.com/products/self-stirring-magnetic-mug): Never stir your coffee again! This self-stirring mug uses a magnetic mechanism to mix your drink perfectly. Great for coffee, hot chocolate, and protein shakes. A perfect gift idea!
-  Updated: 2025-10-18T13:48:37Z
+  Updated: 2025-10-22T05:43:38Z
   Vendor: z60ja0-0n
   Product Type: 
   Availability: Available
@@ -308,7 +308,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/05e85101-ae3e-4b27-976e-09eccfa2ead9.jpg?v=1758013080
     Price: $75.35 USD
 - [Portable Air Cooler Fan with Water Cooling | Personal Evaporative Cooler for Room & Office](https://fusionvibestore.com/products/air-conditioner-air-cooler-fan-water-cooling-fan-air-conditioning-for-room-office-portable-air-conditioner-cars): Beat the heat! This portable air cooler uses water evaporation to provide powerful, energy-efficient cooling. Ideal for your bedroom, office, or small space. Stay cool and save money. Buy now. Product information: Power type: USB Color: Ivory White Rated Power: 25W Specification: 167*225 * 120mm Operation mode: touchscreen Motor type: brushed motor Additional functions: cooling with ice water Fan Speed Mode: 2 gearCold air fan parameters: L7 Power: 25W Battery capacity: 1800 mA Charging time: 2.5-3H Range time: 1-6 hours in first gear, -3 hours in strong gear Gear position: Fan 2nd gear, atomization 1st gear continuous, 2nd gear 5 seconds indirectPacking list: Fan+data cable*1 Product Image:
-  Updated: 2025-10-20T02:29:37Z
+  Updated: 2025-10-22T10:27:36Z
   Vendor: z60ja0-0n
   Product Type: Gadgets
   Availability: Available
@@ -654,7 +654,7 @@
     Availability: Available
     Price: $100.00 USD
 - [Women Retro Sunglasses](https://fusionvibestore.com/products/women-retro-sunglasses): Product information: Frame material: metal Lens color: grey, tawny Frame color: gold, silver Polarization or not: No Glasses structure: frame Glasses style: round frame
-  Updated: 2025-10-20T15:27:23Z
+  Updated: 2025-10-21T16:30:13Z
   Vendor: FusionVibestore
   Product Type: Sunglasses
   Availability: Available
@@ -1109,7 +1109,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/O1CN01EtIKj92IMdN8kpURB__2218673939272-0-cib.jpg?v=1759739185
     Price: $15.45 USD
 - [Magic Flying Fairy Magic Flying](https://fusionvibestore.com/products/magic-flying-fairy-magic-flying): Product Name - Magic Flying Fairy Princess DollPackage Contain - Pack of 1Material - Others Weight - 300Dimension - 9*9*6
-  Updated: 2025-10-20T17:19:07Z
+  Updated: 2025-10-22T12:18:21Z
   Vendor: z60ja0-0n
   Product Type: 
   Availability: Available
@@ -1364,7 +1364,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/0761bac7-3a07-49d0-93e3-fcc908da3a7a.jpg?v=1760114372
     Price: $38.89 USD
 - [Halloween Cloak Costumes Wizard Cloak For Children Hooded Capes Mantle Black Party Decoration](https://fusionvibestore.com/products/halloween-cloak-costumes-wizard-cloak-for-children-hooded-capes-mantle-black-party-decoration): Overview: 1. It is all around perfect and of good quality. 2. Unisex Christmas Halloween Witch Party Reversible Hooded Adult Vampire Cape Cloak. 3. Perfect for any dress-up, role play, Halloween photos, costume parties stage costumes, or playing shows. Product Information: Color: black, gold, purple Size: 90cm,120cm,140cm,150cm Material: Satin Craft: Sewing Packing List: Cloak X1 Product Image:
-  Updated: 2025-10-20T02:16:09Z
+  Updated: 2025-10-22T03:49:49Z
   Vendor: z60ja0-0n
   Product Type: BAGS
   Availability: Available
@@ -1417,6 +1417,180 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/a209d6a9-eaf9-44e2-aae6-88f261acb0d7.jpg?v=1760883366
     Price: $12.00 USD
+- [Slim-fitting Casual Suit Dress V-neck Long-sleeved Dresses Commuting Office Clothing For Women](https://fusionvibestore.com/products/slim-fitting-casual-suit-dress-v-neck-long-sleeved-dresses-commuting-office-clothing-for-women): Overview: Unique design, stylish and beautiful. Good material, comfortable wear. A variety of colors, any choice. Product information: Fabric name: Chenille Color: Black, a white T-shirt Main fabric composition: Spandex Size: S,M,L,XL,XXL Applicable Gender: Female Applicable age group: Adult Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Dress*1pc Product Image:
+  Updated: 2025-10-22T10:43:19Z
+  Vendor: z60ja0-0n
+  Product Type: BAGS
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/04640810-46a4-461d-9445-fd24a67e90c6.jpg?v=1761120601
+  - [Apricot / L](https://fusionvibestore.com/products/slim-fitting-casual-suit-dress-v-neck-long-sleeved-dresses-commuting-office-clothing-for-women?variant=45663934578887)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/ea3c01b5-e31e-493f-af5b-c07251e4b44c.jpg?v=1761120611
+    Price: $25.23 USD
+  - [Apricot / M](https://fusionvibestore.com/products/slim-fitting-casual-suit-dress-v-neck-long-sleeved-dresses-commuting-office-clothing-for-women?variant=45663934611655)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/ea3c01b5-e31e-493f-af5b-c07251e4b44c.jpg?v=1761120611
+    Price: $25.23 USD
+  - [Apricot / S](https://fusionvibestore.com/products/slim-fitting-casual-suit-dress-v-neck-long-sleeved-dresses-commuting-office-clothing-for-women?variant=45663934644423)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/ea3c01b5-e31e-493f-af5b-c07251e4b44c.jpg?v=1761120611
+    Price: $25.23 USD
+  - [Apricot / XL](https://fusionvibestore.com/products/slim-fitting-casual-suit-dress-v-neck-long-sleeved-dresses-commuting-office-clothing-for-women?variant=45663934677191)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/ea3c01b5-e31e-493f-af5b-c07251e4b44c.jpg?v=1761120611
+    Price: $25.23 USD
+  - [Apricot / XS](https://fusionvibestore.com/products/slim-fitting-casual-suit-dress-v-neck-long-sleeved-dresses-commuting-office-clothing-for-women?variant=45663934709959)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/ea3c01b5-e31e-493f-af5b-c07251e4b44c.jpg?v=1761120611
+    Price: $25.23 USD
+  - [Apricot / XXL](https://fusionvibestore.com/products/slim-fitting-casual-suit-dress-v-neck-long-sleeved-dresses-commuting-office-clothing-for-women?variant=45663934742727)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/ea3c01b5-e31e-493f-af5b-c07251e4b44c.jpg?v=1761120611
+    Price: $25.23 USD
+  - [Black / L](https://fusionvibestore.com/products/slim-fitting-casual-suit-dress-v-neck-long-sleeved-dresses-commuting-office-clothing-for-women?variant=45663934775495)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/187347d1-b2ca-4ba5-8dc5-e26937163853.jpg?v=1761120612
+    Price: $25.23 USD
+  - [Black / M](https://fusionvibestore.com/products/slim-fitting-casual-suit-dress-v-neck-long-sleeved-dresses-commuting-office-clothing-for-women?variant=45663934808263)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/187347d1-b2ca-4ba5-8dc5-e26937163853.jpg?v=1761120612
+    Price: $25.23 USD
+  - [Black / S](https://fusionvibestore.com/products/slim-fitting-casual-suit-dress-v-neck-long-sleeved-dresses-commuting-office-clothing-for-women?variant=45663934841031)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/187347d1-b2ca-4ba5-8dc5-e26937163853.jpg?v=1761120612
+    Price: $25.23 USD
+  - [Black / XL](https://fusionvibestore.com/products/slim-fitting-casual-suit-dress-v-neck-long-sleeved-dresses-commuting-office-clothing-for-women?variant=45663934873799)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/187347d1-b2ca-4ba5-8dc5-e26937163853.jpg?v=1761120612
+    Price: $25.23 USD
+  - [Black / XS](https://fusionvibestore.com/products/slim-fitting-casual-suit-dress-v-neck-long-sleeved-dresses-commuting-office-clothing-for-women?variant=45663934906567)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/187347d1-b2ca-4ba5-8dc5-e26937163853.jpg?v=1761120612
+    Price: $25.23 USD
+  - [Black / XXL](https://fusionvibestore.com/products/slim-fitting-casual-suit-dress-v-neck-long-sleeved-dresses-commuting-office-clothing-for-women?variant=45663934939335)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/187347d1-b2ca-4ba5-8dc5-e26937163853.jpg?v=1761120612
+    Price: $25.23 USD
+  - [Caramel / L](https://fusionvibestore.com/products/slim-fitting-casual-suit-dress-v-neck-long-sleeved-dresses-commuting-office-clothing-for-women?variant=45663934972103)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/703bf192-57d0-4f46-a331-58404f70bdc6.jpg?v=1761120611
+    Price: $25.23 USD
+  - [Caramel / M](https://fusionvibestore.com/products/slim-fitting-casual-suit-dress-v-neck-long-sleeved-dresses-commuting-office-clothing-for-women?variant=45663935004871)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/703bf192-57d0-4f46-a331-58404f70bdc6.jpg?v=1761120611
+    Price: $25.23 USD
+  - [Caramel / S](https://fusionvibestore.com/products/slim-fitting-casual-suit-dress-v-neck-long-sleeved-dresses-commuting-office-clothing-for-women?variant=45663935037639)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/703bf192-57d0-4f46-a331-58404f70bdc6.jpg?v=1761120611
+    Price: $25.23 USD
+  - [Caramel / XL](https://fusionvibestore.com/products/slim-fitting-casual-suit-dress-v-neck-long-sleeved-dresses-commuting-office-clothing-for-women?variant=45663935070407)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/703bf192-57d0-4f46-a331-58404f70bdc6.jpg?v=1761120611
+    Price: $25.23 USD
+  - [Caramel / XS](https://fusionvibestore.com/products/slim-fitting-casual-suit-dress-v-neck-long-sleeved-dresses-commuting-office-clothing-for-women?variant=45663935103175)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/703bf192-57d0-4f46-a331-58404f70bdc6.jpg?v=1761120611
+    Price: $25.23 USD
+  - [Caramel / XXL](https://fusionvibestore.com/products/slim-fitting-casual-suit-dress-v-neck-long-sleeved-dresses-commuting-office-clothing-for-women?variant=45663935135943)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/703bf192-57d0-4f46-a331-58404f70bdc6.jpg?v=1761120611
+    Price: $25.23 USD
+  - [Dark Blue / L](https://fusionvibestore.com/products/slim-fitting-casual-suit-dress-v-neck-long-sleeved-dresses-commuting-office-clothing-for-women?variant=45663935168711)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/f4b29c7f-43ab-49be-8e9f-39bc887d2d77.jpg?v=1761120611
+    Price: $25.23 USD
+  - [Dark Blue / M](https://fusionvibestore.com/products/slim-fitting-casual-suit-dress-v-neck-long-sleeved-dresses-commuting-office-clothing-for-women?variant=45663935201479)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/f4b29c7f-43ab-49be-8e9f-39bc887d2d77.jpg?v=1761120611
+    Price: $25.23 USD
+  - [Dark Blue / S](https://fusionvibestore.com/products/slim-fitting-casual-suit-dress-v-neck-long-sleeved-dresses-commuting-office-clothing-for-women?variant=45663935234247)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/f4b29c7f-43ab-49be-8e9f-39bc887d2d77.jpg?v=1761120611
+    Price: $25.23 USD
+  - [Dark Blue / XL](https://fusionvibestore.com/products/slim-fitting-casual-suit-dress-v-neck-long-sleeved-dresses-commuting-office-clothing-for-women?variant=45663935267015)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/f4b29c7f-43ab-49be-8e9f-39bc887d2d77.jpg?v=1761120611
+    Price: $25.23 USD
+  - [Dark Blue / XS](https://fusionvibestore.com/products/slim-fitting-casual-suit-dress-v-neck-long-sleeved-dresses-commuting-office-clothing-for-women?variant=45663935299783)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/f4b29c7f-43ab-49be-8e9f-39bc887d2d77.jpg?v=1761120611
+    Price: $25.23 USD
+  - [Dark Blue / XXL](https://fusionvibestore.com/products/slim-fitting-casual-suit-dress-v-neck-long-sleeved-dresses-commuting-office-clothing-for-women?variant=45663935332551)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/f4b29c7f-43ab-49be-8e9f-39bc887d2d77.jpg?v=1761120611
+    Price: $25.23 USD
+  - [Grey / L](https://fusionvibestore.com/products/slim-fitting-casual-suit-dress-v-neck-long-sleeved-dresses-commuting-office-clothing-for-women?variant=45663935365319)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/83f50fd2-139a-472c-b245-bfbe359b3503.jpg?v=1761120611
+    Price: $25.23 USD
+  - [Grey / M](https://fusionvibestore.com/products/slim-fitting-casual-suit-dress-v-neck-long-sleeved-dresses-commuting-office-clothing-for-women?variant=45663935398087)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/83f50fd2-139a-472c-b245-bfbe359b3503.jpg?v=1761120611
+    Price: $25.23 USD
+  - [Grey / S](https://fusionvibestore.com/products/slim-fitting-casual-suit-dress-v-neck-long-sleeved-dresses-commuting-office-clothing-for-women?variant=45663935430855)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/83f50fd2-139a-472c-b245-bfbe359b3503.jpg?v=1761120611
+    Price: $25.23 USD
+  - [Grey / XL](https://fusionvibestore.com/products/slim-fitting-casual-suit-dress-v-neck-long-sleeved-dresses-commuting-office-clothing-for-women?variant=45663935463623)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/83f50fd2-139a-472c-b245-bfbe359b3503.jpg?v=1761120611
+    Price: $25.23 USD
+  - [Grey / XS](https://fusionvibestore.com/products/slim-fitting-casual-suit-dress-v-neck-long-sleeved-dresses-commuting-office-clothing-for-women?variant=45663935496391)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/83f50fd2-139a-472c-b245-bfbe359b3503.jpg?v=1761120611
+    Price: $25.23 USD
+  - [Grey / XXL](https://fusionvibestore.com/products/slim-fitting-casual-suit-dress-v-neck-long-sleeved-dresses-commuting-office-clothing-for-women?variant=45663935529159)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/83f50fd2-139a-472c-b245-bfbe359b3503.jpg?v=1761120611
+    Price: $25.23 USD
+  - [Red / L](https://fusionvibestore.com/products/slim-fitting-casual-suit-dress-v-neck-long-sleeved-dresses-commuting-office-clothing-for-women?variant=45663935561927)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/27010aad-ffab-409a-927a-9304400a6ed6.jpg?v=1761120612
+    Price: $25.23 USD
+  - [Red / M](https://fusionvibestore.com/products/slim-fitting-casual-suit-dress-v-neck-long-sleeved-dresses-commuting-office-clothing-for-women?variant=45663935594695)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/27010aad-ffab-409a-927a-9304400a6ed6.jpg?v=1761120612
+    Price: $25.23 USD
+  - [Red / S](https://fusionvibestore.com/products/slim-fitting-casual-suit-dress-v-neck-long-sleeved-dresses-commuting-office-clothing-for-women?variant=45663935627463)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/27010aad-ffab-409a-927a-9304400a6ed6.jpg?v=1761120612
+    Price: $25.23 USD
+  - [Red / XL](https://fusionvibestore.com/products/slim-fitting-casual-suit-dress-v-neck-long-sleeved-dresses-commuting-office-clothing-for-women?variant=45663935660231)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/27010aad-ffab-409a-927a-9304400a6ed6.jpg?v=1761120612
+    Price: $25.23 USD
+  - [Red / XS](https://fusionvibestore.com/products/slim-fitting-casual-suit-dress-v-neck-long-sleeved-dresses-commuting-office-clothing-for-women?variant=45663935692999)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/27010aad-ffab-409a-927a-9304400a6ed6.jpg?v=1761120612
+    Price: $25.23 USD
+  - [Red / XXL](https://fusionvibestore.com/products/slim-fitting-casual-suit-dress-v-neck-long-sleeved-dresses-commuting-office-clothing-for-women?variant=45663935725767)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/27010aad-ffab-409a-927a-9304400a6ed6.jpg?v=1761120612
+    Price: $25.23 USD
+  - [White / L](https://fusionvibestore.com/products/slim-fitting-casual-suit-dress-v-neck-long-sleeved-dresses-commuting-office-clothing-for-women?variant=45663935758535)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/c2105949-4190-4040-911e-eb4ae86ba1b3.jpg?v=1761120612
+    Price: $25.23 USD
+  - [White / M](https://fusionvibestore.com/products/slim-fitting-casual-suit-dress-v-neck-long-sleeved-dresses-commuting-office-clothing-for-women?variant=45663935791303)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/c2105949-4190-4040-911e-eb4ae86ba1b3.jpg?v=1761120612
+    Price: $25.23 USD
+  - [White / S](https://fusionvibestore.com/products/slim-fitting-casual-suit-dress-v-neck-long-sleeved-dresses-commuting-office-clothing-for-women?variant=45663935824071)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/c2105949-4190-4040-911e-eb4ae86ba1b3.jpg?v=1761120612
+    Price: $25.23 USD
+  - [White / XL](https://fusionvibestore.com/products/slim-fitting-casual-suit-dress-v-neck-long-sleeved-dresses-commuting-office-clothing-for-women?variant=45663935856839)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/c2105949-4190-4040-911e-eb4ae86ba1b3.jpg?v=1761120612
+    Price: $25.23 USD
+  - [White / XS](https://fusionvibestore.com/products/slim-fitting-casual-suit-dress-v-neck-long-sleeved-dresses-commuting-office-clothing-for-women?variant=45663935889607)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/c2105949-4190-4040-911e-eb4ae86ba1b3.jpg?v=1761120612
+    Price: $25.23 USD
+  - [White / XXL](https://fusionvibestore.com/products/slim-fitting-casual-suit-dress-v-neck-long-sleeved-dresses-commuting-office-clothing-for-women?variant=45663935922375)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/c2105949-4190-4040-911e-eb4ae86ba1b3.jpg?v=1761120612
+    Price: $25.23 USD
 
 ## Collections
 
@@ -1427,13 +1601,13 @@
   Updated: 2025-10-01T17:59:11Z
   Total Products: 1
 - [Gadgets](https://fusionvibestore.com/collections/gadgets)
-  Updated: 2025-10-14T11:17:41Z
+  Updated: 2025-10-22T11:17:24Z
   Total Products: 16
 - [CLOTHING](https://fusionvibestore.com/collections/clothing)
   Updated: 2025-10-06T09:56:37Z
   Total Products: 7
 - [Gadgets](https://fusionvibestore.com/collections/gadgets-1)
-  Updated: 2025-10-14T11:17:41Z
+  Updated: 2025-10-22T11:17:24Z
   Total Products: 11
 
 ## Store Pages
