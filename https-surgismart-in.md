@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-03-10T14:11:59Z
 - Contact Email: info@surgismart.in
-- Updated At: 2025-10-21T04:00:35.641Z
+- Updated At: 2025-10-22T00:00:36.164Z
 
 ## Products
 
@@ -1151,7 +1151,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/SamsoStep1.jpg?v=1751478473
   Price: ₹1,800.00 INR
 - [Buy ​Samso Supreme Digital Bathroom Scale - Surgismart](https://surgismart.in/products/samso-supreme): Glass Top Red LED Display Two Tone Colours - Surgismart
-  Updated: 2025-10-20T03:09:04Z
+  Updated: 2025-10-21T07:21:05Z
   Vendor: Samso
   Product Type: Digital
   Availability: Available
