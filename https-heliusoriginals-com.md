@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-10-11T09:00:11Z
 - Contact Email: info@heliusoriginals.com
-- Updated At: 2025-10-21T08:00:32.870Z
+- Updated At: 2025-10-22T16:00:36.434Z
 
 ## Products
 
@@ -126,6 +126,10 @@
   - [Smoked Cocktail Recipes for Fall: Zombie, Aviation, Toronto & More](https://heliusoriginals.com/blogs/blog/fall-smoked-cocktail-recipes)
     Updated: 2025-09-29T16:44:00Z
     Author: Helius Originals
+  - [What Is a Smoked Cocktail? | Helius Originals Eco-Luxury Barware](https://heliusoriginals.com/blogs/blog/what-is-a-smoked-cocktail-and-why-smoke-one): What Is a Smoked Cocktail? | Helius Originals Eco-Luxury Barware
+    Updated: 2025-10-21T22:26:10Z
+    Author: Helius Originals
+    Tags: eco-luxury barware, Helius Originals, smoked cocktails
 - [Stay Up-to-Date on the Latest in Smoked Cocktails and Mixology](https://heliusoriginals.com/blogs/news): Stay up-to-date with the latest news and updates from Helius Originals, your source for smoked cocktail kits and unique mixology experiences. Our news section covers everything from new product releases and promotions to events and collaborations.
   - [Bilqees Grant Featured in The Story Exchange: Leading the Rise of Eco-Luxury Cocktail Culture](https://heliusoriginals.com/blogs/news/bilqees-grant-featured-in-the-story-exchange-leading-the-rise-of-eco-luxury-cocktail-culture)
     Updated: 2025-09-28T18:52:35Z
@@ -148,7 +152,7 @@
 - [Cocktail Recipe Books | Smoked Drink & Mixology Guides](https://heliusoriginals.com/pages/recipe-books): 
   Updated: 2025-08-28T21:24:19Z
 - [Privacy Policy | Helius Originals](https://heliusoriginals.com/pages/privacy-policy): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
-  Updated: 2025-08-28T21:25:01Z
+  Updated: 2025-10-22T15:28:26Z
 - [Master the Art of Smoke | Cocktail Kit Instructions](https://heliusoriginals.com/pages/master-the-art-of-smoke): 
   Updated: 2025-08-28T21:23:34Z
 - [Gift List](https://heliusoriginals.com/pages/gift-list): (function () {var as=document.createElement('script');as.type='text/javascript';as.async=true;as.src='https://www.myregistry.com/ScriptPlatform/Sho...
