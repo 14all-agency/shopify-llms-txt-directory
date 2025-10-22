@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2023-11-06T10:53:38Z
 - Contact Email: theworldofnerdscustomer@gmail.com
-- Updated At: 2025-10-22T12:01:02.976Z
+- Updated At: 2025-10-22T20:01:04.923Z
 
 ## Products
 
@@ -1173,7 +1173,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/648.jpg?v=1729958105
   Price: ₹239.00 INR
 - [LUFFY KEYCHAIN](https://theworldofnerds.com/products/luffy-keychain-1): Add a touch of personality to your keys with our vibrant silicon character keychains! Made from high-quality, durable silicon, these keychains feature various adorable designs that cater to all ages. Our keychains are lightweight, flexible, and available in multiple colors and styles, perfect for everyday use or as a charming gift. Explore our collection to find your favorite character and enjoy the perfect blend of functionality and fun. Whether you want to express your unique style or seek the ideal gift, our silicon keychains are a must-have accessory. Shop now and elevate your key organization game.
-  Updated: 2025-10-19T18:53:30Z
+  Updated: 2025-10-22T14:21:39Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -3861,7 +3861,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitleddesign_4_030aba0e-415e-4af6-943e-3d9c38d21b5c.jpg?v=1738747334
   Price: ₹349.00 INR
 - [HOT WHEELS TESLA CYBERTRUCK](https://theworldofnerds.com/products/hot-wheels-tesla-cybertruck): Get ready to race with the hot new HOT WHEELS TESLA CYBERTRUCK! This 1:64 scale vehicle features the sleek design and advanced technology of the real Tesla Cybertruck. With its durable construction and high performance, this is the perfect addition to any Hot Wheels collection. Experience the future of racing today.
-  Updated: 2025-10-20T10:53:36Z
+  Updated: 2025-10-22T12:32:24Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -5485,7 +5485,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitled_design_29.jpg?v=1740571514
   Price: ₹1,699.00 INR
 - [ONE PIECE-SET OF 8 PCS ACTION FIGURE](https://theworldofnerds.com/products/one-piece-set-of-8-pcs-action-figure): Introducing the ONE PIECE-SET OF 8 PCS ACTION FIGURE, perfect for collectors and fans of the popular anime series. These highly detailed figures bring your favorite characters to life and are a must-have for any ONE PIECE fan. Don't miss out on the chance to own all 8 figures in this complete set.
-  Updated: 2025-07-29T05:14:05Z
+  Updated: 2025-10-22T15:31:09Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -7228,7 +7228,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/2_2e7d4147-cbf7-4332-a28c-bfcd4b9bd502.jpg?v=1751886851
   Price: ₹679.00 INR
 - [One Piece Gear 5 Luffy Giant Fist Action Figure](https://theworldofnerds.com/products/one-piece-gear-5-luffy-giant-fist-action-figure): “Thunder cracks, the ground trembles—and there he is. Luffy, approx. 15cm tall, in Gear 5 Sun God Nika form, launching his gigantic fist with a fearless grin, like a scene where hope returns in One Piece. With dynamic smoke effects and vibrant colors, this figure captures Luffy’s awakened power and unbreakable spirit, making it the perfect centerpiece for collectors ready to feel the energy of Gear 5 in their space.”
-  Updated: 2025-10-19T15:55:55Z
+  Updated: 2025-10-22T12:09:44Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
