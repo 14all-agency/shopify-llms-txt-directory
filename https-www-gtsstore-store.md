@@ -6,14 +6,14 @@
 - Timezone: America/Chicago
 - Created At: 2025-06-28T02:42:48Z
 - Contact Email: gtembo034@gmail.com
-- Updated At: 2025-10-21T23:36:35.696Z
+- Updated At: 2025-10-22T04:00:36.448Z
 
 Welcome to GTS Beauty store
 
 ## Products
 
 - [Cosplay Anime Costume Halloween Clothing](https://www.gtsstore.store/products/cosplay-anime-costume-halloween-clothing): Product information: Applicable gender: unisex / both men and women Applicable age group: adult Pattern: plain Main fabric composition: polyester fiber (polyester) Suitable age: 18-24 years old Size information: Size： S,M,L,XL,XXL Unit：cm Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list： Top+Pants+Belt*1
-  Updated: 2025-10-10T07:48:49Z
+  Updated: 2025-10-22T02:15:56Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -59,7 +59,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/adccbf0d-d31e-4337-a384-3b5df65bab5b.jpg?v=1760039325
     Price: $53.80 USD
 - [Children's Halloween Costume Pumpkin Cloak](https://www.gtsstore.store/products/childrens-halloween-costume-pumpkin-cloak): Product information: Fabric name: cotton blend Color: pumpkin cloak Main fabric composition: Polyester Fiber (polyester) Applicable gender: neutral/both men and women Size information: Unit:cm Size: S,M,L,XL,XXL,130,150 Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Cloak X1 Product Image:
-  Updated: 2025-10-10T07:48:59Z
+  Updated: 2025-10-22T02:15:56Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -93,28 +93,28 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/6b75e96a-bded-44da-bf9f-3b4de951eb8b.jpg?v=1760039340
     Price: $40.32 USD
 - [Halloween Party Costume Woman](https://www.gtsstore.store/products/halloween-party-costume-woman): Applicable occasions: ordinary stage costumes Applicable gender: neutral/male and female Applicable age: adult suitable seasons: Spring, Summer, Autumn, Winter Fabric name: cotton blended Main fabric composition: polyester fiber (polyester) The content of the main fabric ingredient: 90 (%) Lining composition: polyethylene fiber (polyethylene)
-  Updated: 2025-10-10T07:49:15Z
+  Updated: 2025-10-22T02:15:56Z
   Vendor: null
   Product Type: 0
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/1708849369052.jpg?v=1760039351
   Price: $50.20 USD
 - [Halloween adult masquerade costume](https://www.gtsstore.store/products/halloween-adult-masquerade-costume): Main fabric composition: polyester fiber (polyester) The content of the main fabric ingredient: 100 (%)
-  Updated: 2025-10-10T07:49:31Z
+  Updated: 2025-10-22T02:15:56Z
   Vendor: null
   Product Type: 0
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/267827288496.jpg?v=1760039366
   Price: $40.78 USD
 - [Adult Halloween Costume Party Costume Show Clothes](https://www.gtsstore.store/products/adult-halloween-costume-party-costume-show-clothes): Product information: Applicable occasions: ordinary stage costumes Applicable gender: female Applicable age: adult Fabric name: knitted fabric Main fabric composition: polyester fiber (polyester) The content of the main fabric ingredient: 85% (%) Color: Adult Sexy Queen of Egypt Size Information: Size: One size Packing list: Princess dress*1 Product Image:
-  Updated: 2025-10-10T07:49:45Z
+  Updated: 2025-10-22T02:15:57Z
   Vendor: null
   Product Type: 0
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/8771604b-a948-4b62-928b-66667a2c5ee6.jpg?v=1760039380
   Price: $44.84 USD
 - [Seraph Witch Halloween Costume](https://www.gtsstore.store/products/seraph-witch-halloween-costume): Fabric name: cotton Main fabric composition: cotton Main fabric ingredient content: 70 (%) size：cm bust Waist circumference Skirt length S 68-84 58-75 60 M 72-92 64-80 62 L 76-99 69-85 64 XL 80-105 75-92 66 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images.
-  Updated: 2025-10-10T07:49:59Z
+  Updated: 2025-10-22T02:15:57Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -136,14 +136,14 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/8915062002873_423fa86f-b787-4a06-ad40-e15f1f818802.jpg?v=1760039403
     Price: $48.78 USD
 - [Cowboy Halloween Pirate Costume](https://www.gtsstore.store/products/cowboy-halloween-pirate-costume): Applicable occasions: ordinary stage costumes Applicable gender: female Applicable age: adult pattern: plain Suitable seasons: spring, autumn, winter, summer Fabric name: Lycra Main fabric composition: spandex Main fabric ingredient content: 80 (%) Fabric composition: polyester Fabric: Polyester Thickness index: conventional Softness index: moderate Elasticity index: micro bomb
-  Updated: 2025-10-10T07:50:18Z
+  Updated: 2025-10-22T02:15:57Z
   Vendor: null
   Product Type: 0
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/2005203786844.jpg?v=1760039412
   Price: $45.88 USD
 - [Halloween child witch costume](https://www.gtsstore.store/products/halloween-child-witch-costume): Applicable gender: female Elements: pastoral, cartoon, lace, printing, princess, net yarn, Europe and America Fabric technology: soft treatment, liquid ammonia treatment Style: European and American AQL sampling standard: 1.0 Flat car stitch pitch 12~14 stitches/3cm: Yes Whether the hair / surplus thread is trimmed: all trimmed clean Main fabric composition: linen Main fabric ingredient content: 90 (%) 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images.
-  Updated: 2025-10-10T07:50:38Z
+  Updated: 2025-10-22T02:15:57Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -337,7 +337,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/6110696887690.jpg?v=1760039442
     Price: $38.55 USD
 - [Halloween Men's Renaissance Costume](https://www.gtsstore.store/products/halloween-mens-renaissance-costume): Product information: Color: dark brown, black, green, green, green, black, green, note the color you want in the inventory order Pants length: trousers Main Ingredients: polyester cotton Jacket style: T-shirt Size: S,M,L,XL,2XL,3XL Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Top * 1, belt * 1, pants * 1, leg covers * 1 pair Product Image:
-  Updated: 2025-10-10T07:51:19Z
+  Updated: 2025-10-22T02:15:58Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -463,7 +463,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/dbba65f3-9ad5-4cc2-8845-3b615f095c7d.jpg?v=1760039478
     Price: $52.42 USD
 - [Cartoon Halloween Cosplay Costume](https://www.gtsstore.store/products/cartoon-halloween-cosplay-costume): Product Introduction: Occasion: Game animation role play Applicable gender: male/female Applicable age: adult Fabric name: hemp blend Main fabric composition: polyester (polyester) Color: full set of long style, full set of short style; B: Lining+long batch+gloves, A; Lining+trousers+long poncho+belt; Full set: top+skirt+pants+wrist accessories * 4 Size Information: Size: S, M, L, XL, XXL, XXXL Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: A set of Cosplay costume
-  Updated: 2025-10-10T07:54:14Z
+  Updated: 2025-10-22T02:15:58Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -589,7 +589,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/30558f6c-9f2e-4e2d-9dd5-978679a256e8.jpg?v=1760039513
     Price: $49.93 USD
 - [Halloween spoof inflatable Costume](https://www.gtsstore.store/products/halloween-spoof-inflatable-costume): Material: Polyester Size: adult 150-190 Children 120-150 Step: 1. Put on this clothes 2.Plug in the power cord, turn on the switch, and put the battery box in the right place on you 3. Zipper up to ensure airtight. 4. Wait a moment, and you can play after the inflation.
-  Updated: 2025-10-10T07:52:17Z
+  Updated: 2025-10-22T02:15:58Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -603,7 +603,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/1518181663963630_e7eb5849-0d2c-4117-81cc-adca1acee18e.jpg?v=1760039537
     Price: $55.32 USD
 - [Costume Sequin Halloween Play Costume Ladies Dress](https://www.gtsstore.store/products/costume-sequin-halloween-play-costume-ladies-dress): Product Details: Applicable gender: female Pattern: plain Main fabric composition: polyester fiber (polyester) The content of main fabric components: 50 (%) Color: green Size information: Size: S, M, L, XL, XXL Unit：cm Note： 1. Asian sizes are 1 to 2 sizes smaller than European and American. If your size is between the two sizes, please choose the larger size. Due to manual measurement, please allow 2-3cm difference. 2. If you don't know how to choose the size, please check the size chart carefully before you buy the item, please contact our customer service. 3. As you know different computers display colors in different ways, the color of the actual item may be slightly different from the image below. Package Contents: Dress *1+ Gloves *1 pair
-  Updated: 2025-10-10T07:52:31Z
+  Updated: 2025-10-22T02:15:58Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -629,7 +629,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/f04a38c4-5980-4ae8-914c-465b181b3db2.jpg?v=1760039556
     Price: $48.35 USD
 - [Suede Vest Halloween Costume](https://www.gtsstore.store/products/suede-vest-halloween-costume): Product information: Fabric name: South korean velvet Color: Black women's viking vest, red women's viking vest, camel women's viking vest Main fabric composition: Regenerated cellulose fiber Size: S,m,l,xl,xxl Applicable occasions: Ordinary stage wear Applicable gender: Neutral/both men and women Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: VEST*1 Product Image:
-  Updated: 2025-10-10T07:52:56Z
+  Updated: 2025-10-22T02:15:58Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -695,7 +695,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/0d58bafe-0b29-43da-ab18-4aa2bfcfe04e.jpg?v=1760039588
     Price: $44.39 USD
 - [Halloween Costume Medieval Friar Wizard Costume](https://www.gtsstore.store/products/halloween-costume-medieval-friar-wizard-costume): Product information: Fabric name: uniform nylon Color: white (monk clothing), wine red (monk clothing), Black (monk clothing), Green (monk clothing), Brown (monk clothing), Gray (monk clothing), blue (monk clothing) Main fabric composition: Polyester Fiber (polyester) Size: S,M,L,XL,XXL Applicable occasions: Game Animation Role Playing Size: Packing list: Monk clothes*1 Product Image:
-  Updated: 2025-10-10T07:53:32Z
+  Updated: 2025-10-22T02:15:59Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -813,7 +813,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/325efb5c-5adf-4848-8b13-9fb99676082d.jpg?v=1760039614
     Price: $41.00 USD
 - [Halloween Medieval Costume Crow Doctor Costume](https://www.gtsstore.store/products/halloween-medieval-costume-crow-doctor-costume): Product information: pattern: plain Fabric name: Cotton blended Main fabric composition: polyester fiber (polyester) The content of the main fabric ingredient: 90 (%) Main fabric composition 2: polyester fiber (polyester) The content of main fabric ingredient 2: 20 (%) Colour: Black Size information: Size: M,L,XL Prevention: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Package: Polyester female suit X1
-  Updated: 2025-10-10T07:53:55Z
+  Updated: 2025-10-22T02:15:59Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -831,14 +831,14 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/e9e0af57-27fe-48e8-8e67-5aa207acd37b_5f227d97-3088-4592-93b1-65f0d4e9fc41.jpg?v=1760039636
     Price: $51.25 USD
 - [Halloween funny costume](https://www.gtsstore.store/products/halloween-funny-costume): Product Category: Halloween Funny Costume Product Name: Skeleton Rocking Horse Children's Clothing Applicable people: general Use holiday: Halloween Toy Series: Witch Elf Material: Polyester
-  Updated: 2025-10-10T07:54:15Z
+  Updated: 2025-10-22T02:15:59Z
   Vendor: null
   Product Type: 0
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/755869611117.jpg?v=1760039646
   Price: $53.09 USD
 - [Children's Halloween Costume](https://www.gtsstore.store/products/childrens-halloween-costume): Overview: Multiple colors to choose, suitable for different people. Comfortable material, comfortable to wear. There are halloween factors, suitable for halloween to wear. Specification: Applicable occasions: game animation role playing Applicable gender: neutral/male and female Applicable age: children Fabric name: knitted fabric Main fabric composition: polyester fiber (polyester) The content of the main fabric ingredient: 90 (%) Package Content: 1 x costume
-  Updated: 2025-10-10T07:54:35Z
+  Updated: 2025-10-22T02:15:59Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -860,7 +860,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/7181382487.jpg?v=1760039670
     Price: $38.70 USD
 - [Halloween kids costume](https://www.gtsstore.store/products/halloween-kids-costume): S is suitable for 95-105cm height children to wear M is suitable for height of children 110-120cm L is suitable for children height 120-130cm XL is suitable for 130-140cm height children to wear
-  Updated: 2025-10-10T07:54:48Z
+  Updated: 2025-10-22T02:16:00Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -926,7 +926,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/361168433739.jpg?v=1760039682
     Price: $40.62 USD
 - [Halloween costume lights](https://www.gtsstore.store/products/halloween-costume-lights): Whether to import: No Order no. : Halloween lantern string Number of LED lamp beads: 7 Size: 20 lights Luminous flux: 2 (LM) Can you dim the light? No Can you mix the colors? No Control mode: manual Usage: indoor and outdoor Life expectancy: 60,000 (H) Input voltage: 3 (V) Shell material: Plastic Scope of Use: Festive decoration Color of light: Colored pumpkin A, Colored pumpkin B, colored pumpkin C, colored spider A, colored spider B, colored spider C, colored skull A, colored skull B, colored bat A, colored bat B, colored bat C, colored bat D Major downstream platforms: ebay, Amazon, Wish, Aliexpress, Independent,LAZADA Main sales areas: Africa, Europe, South America, Southeast Asia, North America, Northeast Asia, Middle East Have an authorized private brand: Yes Whether the goods are exported across the border: Yes Switch type: Manual Power supply: battery box Type: Animal shape lamp
-  Updated: 2025-10-10T07:55:03Z
+  Updated: 2025-10-22T02:16:00Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -984,7 +984,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/1172706429656.jpg?v=1760039702
     Price: $37.25 USD
 - [Jurassic Halloween Costume](https://www.gtsstore.store/products/jurassic-halloween-costume): 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Fabric Name: Chemical Fiber Blended Main fabric composition: polyester fiber (polyester) The content of the main fabric composition: 100 (%) Main fabric composition 2 Polyester fiber: (Polyester) Content of main fabric component 2: 100 (%) 2 components of fabric: polyester fiber (polyester) Content of 2 components of fabric: 100 (%) 3 components of fabric: polyester fiber (polyester) Content of 3 components of fabric: 100 (%) Lining composition: polyester fiber (polyester) Lining composition content: 100 (%)
-  Updated: 2025-10-10T07:56:57Z
+  Updated: 2025-10-22T02:16:00Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -1038,7 +1038,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/911268942303.jpg?v=1760039728
     Price: $49.74 USD
 - [Halloween angel costume](https://www.gtsstore.store/products/halloween-angel-costume): Applicable occasions: ordinary stage costumes Applicable age: adult Main fabric composition: polyester fiber (polyester) The content of the main fabric ingredient: 100 (%) Style: Angel
-  Updated: 2025-10-10T07:55:45Z
+  Updated: 2025-10-22T02:16:00Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -1064,7 +1064,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/1342871254411.jpg?v=1760039746
     Price: $44.55 USD
 - [Halloween Costume Costume For Cosplay](https://www.gtsstore.store/products/halloween-costume-costume-for-cosplay): Product information: Main fabric composition: cotton Main fabric composition content :35 (%) Main fabric Component 2: Polyester fiber (Dacron) Content of main fabric component 2 :65 (%) Application: ordinary stage wear Season: Summer, winter, spring, fall Note: The wigs are the same size Size Information: Size: XS/S/M/L/XL/XXL/3XL Unit:cm Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Shoulder strap x1pc Coat x1pc Belt x1pc Scapula x1pairs Foot set x1pairs Outside the beatles x1pc Gloves x1pairs The eye of god x1pc Socks x1pairs Shorts x1pc Chest accessory X1PC Fringe hanging ornament X1PC Leggings x1pairs or Wig x1pc or Shoulder strap x1pc Coat x1pc Belt x1pc Scapula x1pairs Foot set x1pairs Outside the beatles x1pc Gloves x1pairs The eye of god x1pc Socks x1pairs Shorts x1pc Chest accessory X1PC Fringe hanging ornament X1PC Leggings x1pairs Wig x1pc Product Image:
-  Updated: 2025-10-10T07:56:07Z
+  Updated: 2025-10-22T02:16:00Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -1154,7 +1154,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/395d37e9-d577-4be4-b341-8899c77513f5.jpg?v=1760039764
     Price: $42.12 USD
 - [Halloween Costume Inflatable Clothing Costume](https://www.gtsstore.store/products/halloween-costume-inflatable-clothing-costume): Product information: Fabric name: Chemical Fiber blend Color: yellow, red, blue Main fabric composition: Polyester Fiber (polyester) Suitable age: 18-24 years old Size: average size Applicable occasions: ordinary stage wear Packing list: Inflatable clothing*1 ，Air blower * 1 Product Image:
-  Updated: 2025-10-10T07:56:24Z
+  Updated: 2025-10-22T02:16:01Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -1172,14 +1172,14 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/c8aa76f6-a5f8-4b4e-8148-30493a1f7b3f.jpg?v=1760039784
     Price: $50.13 USD
 - [Halloween Ladies Dress Costume Costume](https://www.gtsstore.store/products/halloween-ladies-dress-costume-costume): Product Details: Applicable gender: female Fabric technology: brushed Fabric name: polyester Main fabric content: 90 (%) Color: White Size Information: Suitable height: one size Size（cm） Bust Waist Skirt long one size 58 54 90 Prevention: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Package Contents: Dress X1
-  Updated: 2025-10-10T07:56:39Z
+  Updated: 2025-10-22T02:16:01Z
   Vendor: null
   Product Type: 0
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/31474a41-befc-4c2e-b02b-fc8debc8235f.jpg?v=1760039794
   Price: $40.44 USD
 - [Halloween Pumpkin Ghost Hanging Decoration](https://www.gtsstore.store/products/halloween-pumpkin-ghost-hanging-decoration): Product information: Color: acrylic color film with iron chain Production process: Printing Material Source: Artificial Material: acrylic Category: acrylic color film pendant Surface Technology: Printing Applicable gift-giving occasions: Full Moon, travel memorial, graduation, housewarming, party gathering, visit to the disease, other Size: SCI152(20*20),SCI152-2(20*20),SCI155(20*20),SCI155-2(20*20),SCI158(20*20) Manufacturing method: Mechanical Style: Pastoral Ornaments form: Ornaments Process: Printing Packing list: Decorations*1 Product Image:
-  Updated: 2025-10-10T07:58:22Z
+  Updated: 2025-10-22T02:16:01Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -1205,7 +1205,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/b3e80032-cace-4967-9bc8-4cf3c7d15c67.jpg?v=1760039907
     Price: $35.43 USD
 - [Undead Chrysanthemum String Decoration Halloween](https://www.gtsstore.store/products/undead-chrysanthemum-string-decoration-halloween): Product information: Color: yellow, orange, yellow orange, other colors can be customized Size: free size Pattern: Plant Type: the flowers Packing list: String X1 Product Image:
-  Updated: 2025-10-10T07:58:44Z
+  Updated: 2025-10-22T02:16:01Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -1223,14 +1223,14 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/0bcf0088-52ef-4883-9294-5c5fae0cdc14_trans.jpg?v=1760039924
     Price: $39.12 USD
 - [Halloween Decoration Luminous Sound Layout Decoration Ornaments](https://www.gtsstore.store/products/halloween-decoration-luminous-sound-layout-decoration-ornaments): Product information: Material: Resin Size: 10.5*10.5 * 24.7cM Function: Luminous Sound Power supply: No. 5 battery * 3 Scenario: scene decoration/party/party/Festival/gift Size: Packing list: Ornaments*1 Product Image:
-  Updated: 2025-10-10T07:59:00Z
+  Updated: 2025-10-22T02:16:02Z
   Vendor: null
   Product Type: 0
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/84b7be60-6216-4f16-862f-7433b10c5736_trans.jpg?v=1760039934
   Price: $45.90 USD
 - [Halloween Heart Candlestick Decoration Horror Decoration Props](https://www.gtsstore.store/products/halloween-heart-candlestick-decoration-horror-decoration-props): Product information: Color: 7150P-01 Gothic Candlestick -- heart shape, 7150P-02 Gothic Candlestick -- brain, 7150P-03 Gothic Candlestick -- black spine, Material: Resin Packing list: 1*Candlestick Product Image:
-  Updated: 2025-10-10T07:59:19Z
+  Updated: 2025-10-22T02:16:02Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -1248,7 +1248,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/e9eb7464-7259-4c94-8f7f-e8c921fc6d7e_trans.jpg?v=1760039959
     Price: $35.52 USD
 - [Halloween Skull Doorbell Decoration](https://www.gtsstore.store/products/halloween-skull-doorbell-decoration): Product information: Color: Halloween style, Christmas New Material Type: Metal Size: 20*15*2.5 Packing list: Doorbell * 1 Product Image:
-  Updated: 2025-10-10T07:59:36Z
+  Updated: 2025-10-22T02:16:02Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -1262,7 +1262,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/1368c212-d3cc-41a8-960a-6f6fd852ff27.jpg?v=1760039976
     Price: $38.89 USD
 - [Halloween Pumpkins Balloon Decoration Bat Helium Balloons Halloween Home Decoration](https://www.gtsstore.store/products/halloween-pumpkins-balloon-decoration-bat-helium-balloons-halloween-home-decoration): Overview Description: Feature: Can be used for any occasion, such as parties, rave parties, discos, clubs, Haloween, birthdays, carnivals, gifts, festivals, and events Note: 1. Due to the light and screen difference, the item's color may be slightly different from the pictures. 2. Please allow 1mm differences due to manual measurement. Specification: Material: Aluminum film/aluminum foil Balloon type: decorative balloon Package Content 1*Balloon
-  Updated: 2025-10-10T07:59:56Z
+  Updated: 2025-10-22T02:16:02Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -1304,7 +1304,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/2430802582045.jpg?v=1760039992
     Price: $36.84 USD
 - [Halloween hanging ghost decoration](https://www.gtsstore.store/products/halloween-hanging-ghost-decoration): Name: Halloween Pirate Hanging Ghost Material: plastic/electronic components/cloth Size: Please see the display below Weight: see style display for details Style: a variety of options Explanation: The eyes of the hanging ghost can glow, and the well makes a terrible ghost call (voice control) Tips: This product uses 2 AA batteries (you need to bring your own batteries) Application: three-dimensional design, vivid, suitable for bar, haunted house, etc.
-  Updated: 2025-10-10T08:00:18Z
+  Updated: 2025-10-22T02:16:03Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -1322,7 +1322,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/1537106086028.jpg?v=1760040016
     Price: $37.23 USD
 - [Halloween Decoration Pumpkin Lamp](https://www.gtsstore.store/products/halloween-decoration-pumpkin-lamp): Overview Christmas is coming, what kind of decoration are you considering? This LED skull candle is a nice decoration that can be used to decorate any event. Small, exquisite, beautiful, will make every Christmas full of joy The Best Gift: This product can also be given to your friends. Record your friendship and make your life more enjoyable. Even if it is not a gift, this product is very good home decor. You can put it in your room, dining table, living room, study... This is beautiful scenery, whether at school or at home. If you have any questions about our product, feel free to contact us and we will respond to you at the soonest. Hope you have a good shopping experience. Specifications: Material: plastic Process: injection molding Processing customization: Yes Props: Lighting Battery specifications and quantity: large size: three AAA batteries (delivered without batteries); small size: three LR44 button batteries or AG13 button batteries (delivered with batteries) Package Content 1* Pumpkin Lamp
-  Updated: 2025-10-10T08:01:17Z
+  Updated: 2025-10-22T02:16:03Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -1364,7 +1364,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/214230967755.jpg?v=1760040036
     Price: $34.98 USD
 - [Halloween Decoration Spider Fruit Plate Decoration](https://www.gtsstore.store/products/halloween-decoration-spider-fruit-plate-decoration): Product information: Suitable Location: Bar ktv family kindergarten Material: Plastic Size: Spider Web fruit plate orange, spider web fruit plate purple, spider web fruit plate Black Applicable holiday: Halloween, Easter Style: Cute Category: fruit plate Size: opening diameter: 29cm, bottom diameter: 14cm, height: 8cm Packing list: Fruit Plate *1 Product Image:
-  Updated: 2025-10-10T08:00:55Z
+  Updated: 2025-10-22T02:16:03Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -1382,7 +1382,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/4418841295_1758972707.jpg?v=1760040066
     Price: $34.76 USD
 - [Halloween decoration lantern](https://www.gtsstore.store/products/halloween-decoration-lantern): Type: LED modeling light Input voltage: 4.5 (V) Luminous flux: 7 (LM) Shell material: PVC Size: 160 (mm) Lamp holder specifications: G4 Can dimming: No Life: 6000 (H) Protection level: ip44
-  Updated: 2025-10-10T08:01:30Z
+  Updated: 2025-10-22T02:16:03Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -1424,42 +1424,42 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/979852672441.jpg?v=1760040097
     Price: $35.70 USD
 - [Halloween decoration lights](https://www.gtsstore.store/products/halloween-decoration-lights): Protection level: IP42 Luminous flux: 2 (lm) Can dimming: No Can it be graded: No Control method: switch Color temperature: 3000 (K) Use occasions: room, bedroom Life: 50000 (H) Input voltage: 3 (V) Shell material: PS Power factor: 1w Use range: interior decoration
-  Updated: 2025-10-10T08:01:53Z
+  Updated: 2025-10-22T02:16:03Z
   Vendor: null
   Product Type: 0
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/1171174112936.jpg?v=1760040108
   Price: $35.47 USD
 - [Wooden Halloween Decoration](https://www.gtsstore.store/products/wooden-halloween-decoration): Product Information: Material: wood Printing form: UV printing Scope of application: home Color: yellow Package Wooden decoration*1
-  Updated: 2025-10-10T08:02:09Z
+  Updated: 2025-10-22T02:16:04Z
   Vendor: null
   Product Type: 0
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/37dbf1da-98c0-4c67-a9ac-8f14f3f3cbc5.jpg?v=1760040124
   Price: $36.77 USD
 - [Creative Halloween Plastic Eyes Halloween Decoration Green Monster Halloween Door Sticker Decoration](https://www.gtsstore.store/products/creative-halloween-plastic-eyes-halloween-decoration-green-monster-halloween-door-sticker-decoration): Product Information Material: Plastic Main Component Of Fabric: Pvc Main Ingredient Content Of Fabric: 100 Sub-Component Of Fabric: Plastic Subcomponent Content Of Fabric: 100 Design And Color: Color Grade: Superior Product Function: Moisture Proof, Moth Proof, Mildew Proof, Beautify Decoration Style: Other Size: Oversized Wall Sticker Style: Three-Dimensional Wall Sticker
-  Updated: 2025-10-10T08:02:25Z
+  Updated: 2025-10-22T02:16:04Z
   Vendor: null
   Product Type: 0
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/1617782290517.jpg?v=1760040139
   Price: $35.95 USD
 - [Halloween Decoration Beige](https://www.gtsstore.store/products/halloween-decoration-beige): Specification Available Ship to: United States Details ● Realistic Human Skull: The decorative fire pit skull looks like a real skull that features realistic scars and cracks, empty eyes and a horrible mouth for a spooky feel. Flames can escape from the eyes and mouth due to a hollowed center, which will create a creepy effect after burning. ● Horrible Halloween Ambience: The imitated human skull fits harmoniously with the theme of Halloween, making your fire pit a hot topic among your neighbors for Halloween decorations. This fire pit skull simulates the horror of a real skull, adding a more scary atmosphere. ● Reliable Ceramic Material: The fire pit skull is made of high-quality ceramic fibre, which can withstand temperature up to 1832℉/1000℃ and serve you for a long time. The ceramic-made skull is a firm and well-made piece that can be reused and burned repeatedly without odor. Note: Do not release any ash or emit toxic fumes while some other low-quality skulls do. ● Halloween Decoration Attachment: The imitated human skull is a perfect complement to various occasions, such as campfire, bonfire, fireplace, haunted house and trick-or-treat event. It provides an impressive scene to attract family and friends to enjoy a cheerful night together. ● Proper in Size and Light in Weight: The Halloween fire pit skull measures 8.5" x 6" x 6" (L x W x H) and weighs 1.5 lbs, making it easy and convenient to carry and store. Note: Minor carton deposits resulting from combustion is natural and add to the realistic appearance of the set. If carbon becomes excessive, it can be lightly brushed or vacuumed away. Specifications Color: Beige Material: Ceramic Fibre Product Dimension: 8.5" x 6" x 6" (L x W x H) Net Weight: 1.5 lbs
-  Updated: 2025-10-10T08:02:40Z
+  Updated: 2025-10-22T02:16:04Z
   Vendor: null
   Product Type: 5
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/5ecbc925-5bbc-4fbc-ab58-a4128aadd5e8.jpg?v=1760040155
   Price: $84.35 USD
 - [Inflatable Halloween Decoration](https://www.gtsstore.store/products/inflatable-halloween-decoration): Specification: - Color: Orange and White - Type: Inflatable Halloween Ghost and Pumpkin - Material: Polyester Cloth - Overall Dimensions: 45.3" W x 23.6" D x 59.1" H - Power Cable Length: 9.8 ft. - Four LED module lights - LED Light Power: 0.25 W - Fan: DC 12 V / 0.6 A - Input Voltage: 100-240 V, 50/60 Hz - Output Voltage: DC 12 V, 1A - Certifications: IP44, UL
-  Updated: 2025-10-10T08:03:02Z
+  Updated: 2025-10-22T02:16:04Z
   Vendor: null
   Product Type: 5
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/1d3ed6d9-ee49-416f-96ce-c87d85cf8b7a.jpg?v=1760040177
   Price: $92.34 USD
 - [Halloween skull decoration](https://www.gtsstore.store/products/halloween-skull-decoration): Overview: Halloween skull skull bleeding, horrible and terrifying. This is a big surprise for your lover, family and friends. The new design of the bar haunted house is suspended. Great for Halloween parties, children's birthday parties, fun parties and more. It can enhance the festive atmosphere of Halloween, decorating parties, bars, families and more. Simply hang on the door or wall to receive your guests or tricks or visitors during the holidays. Specification: Main materials: cloth. Pattern: corpse cloth skull Total length: about 30x35cm. Quantity: 1 piece Package Content: 1 x ghost skull decoration hanging
-  Updated: 2025-10-10T08:03:24Z
+  Updated: 2025-10-22T02:16:05Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -1509,105 +1509,105 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/3155497524033.jpg?v=1760040204
     Price: $34.67 USD
 - [Halloween Decoration](https://www.gtsstore.store/products/halloween-decoration): Specification Available Ship to: United States Details Features: - This inflatable pumpkin ghost in a pumpkin patch brings a cohesive Halloween display together - Flame light and LED lights create a spooky, eerie, and eye-catching effect - It deflates for easy storage (when you're not scaring your neighbors) - It includes seven ground stakes, three drawstrings, and two sandbags to help keep it anchored on windy nights - Waterproof polyester cloth (certified IP44) is suited for indoor and outdoor use Specification: - Primary Color: Orange, Black - Type: A pumpkin ghost with pumpkins - Material: Polyester Cloth - Overall Dimensions: 84.75" W x 47.25" D x 106.25" H - Cord Length: 6.6' L - Light Count: LED: 10, Flame Light: 1 - Single Light Power: LED: 0.24 W, Flame Light: 1.2W - Fan: 12 V / 0.85 A /10 W - Input: 100-240 V, 50/60 Hz - Output: 12 V / 1 A / 12 W NOTE: Ensure the air blower is always connected to the power source to keep the product inflated Keep the product inflated for no more than eight hours at a time to extend the service life of the motor Do not use your inflatable outside in heavy rain, snow, or wind Package Includes: - 1 x Inflatable Halloween Decoration - 7 x Ground Stake - 3 x Drawstring - 2 x Sandbag - 1 x Internal Fan - 1 x Manual
-  Updated: 2025-10-10T08:03:40Z
+  Updated: 2025-10-22T02:16:05Z
   Vendor: null
   Product Type: 5
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/cd34e14b-41f0-4d91-9680-6c20e88e79af.jpg?v=1760040215
   Price: $108.93 USD
 - [Inflatable Halloween Decoration](https://www.gtsstore.store/products/inflatable-halloween-decoration-1): Specification Shipping Limitations: Unlimited Available Ship to: United States Details Features: - Inflatable Halloween pumpkin ghost family brings the Halloween display together - LED lights create a spooky, eerie, and eye-catching effect - Deflates for easy storage (when you're not scaring your neighbors), with a bag for storage - Includes seven ground stakes, two pull ropes and three sandbags to help keep it on the window - Waterproof polyester cloth (rating IP44) is suited for indoor and outdoor use Specification: - Primary Color: Orange - Type: Inflatable Halloween pumpkin ghost family - Material: Polyester Cloth - Overall Dimensions: 88.6" W x 16.5" D x 50.8" H - Power Cable Length: 5.9 ft. - LED Light Count: 5 - LED Light Power: 0.25W - Fan: DC 12V, 9.6W, 0.8A - Input Voltage: AC 100-240V, 50/60Hz, 0.6A - Output Voltage: DC 12V, 12W/1A - Certifications: IP44 NOTE: Ensure the air blower is always connected to the power source to keep the product inflated, but not above eight hours a time for long motor service life Do not use the inflatable outside in heavy rain, snow, or wind Package Includes: - 1 x Inflatable Halloween Decoration - 7 x Ground Stake - 2 x Guy Rope - 3 x Sandbag - 1 x Internal Fan - 1 x Carrying Bag - 1 x Manual
-  Updated: 2025-10-10T08:03:56Z
+  Updated: 2025-10-22T02:16:05Z
   Vendor: null
   Product Type: 5
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/7c60388a-02e5-4f6c-8f77-6eeb4d07fa57.jpg?v=1760040231
   Price: $110.52 USD
 - [Inflatable Halloween Decoration](https://www.gtsstore.store/products/inflatable-halloween-decoration-2): Features: - This ghost inflatable provides fun Halloween atmosphere - Two white LED lights and a purple rotating LED in the internal decoration create a vibrant effect and enhance visibility at night - Automatically inflates after power-on for easy setup - Four ground stakes, two drawstrings and a sandbag for added stability - Deflates for easy storage - Weather-resistant polyester cloth that is against from water, great for indoor and outdoor use Specification: - Color: White - Type: Inflatable Halloween Ghost Decoration Holding a Pumpkin - Material: Polyester Cloth - Overall Dimensions: 41.25" W x 25.5" D x 70.75" H - Power Cable Length: 9.8' L - LED Light Power: 12 V / 0.25 W (white). 12 V / 1.75 W (purple) - Fan: DC 12 V / 0.8 A - Input voltage: 120 V 50/ 60 HZ - Output voltage: DC 12 V / 1.25 A - Certification: UL/IP44 NOTE 1. Ensure the air blower is always connected to keep decoration inflated 2. Please don't place in in hard rain or snow! Package Includes: - 1 x Halloween Inflatable Ghost Decoration - 4 x Ground Stakes - 2 x Drawstrings - 1 x Sandbag - 1 x Manual
-  Updated: 2025-10-10T08:04:12Z
+  Updated: 2025-10-22T02:16:05Z
   Vendor: null
   Product Type: 5
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/1179f568-4425-4894-ba5c-7f3670308467.jpg?v=1760040247
   Price: $98.17 USD
 - [Halloween Decoration](https://www.gtsstore.store/products/halloween-decoration-1): Specification Available Ship to: United States Details Features: - 7.5 ft tall inflatable scary ghost tree with owl, ghost, and jack-o-lanterns - Built-in internal white LED lights - Self-inflates in minutes when plugged into any standard electrical outlet - Made from weather-resistant, polyester cloth material - Comes with all necessary hardware and accessories Specification: - Type: Tree W/ Owl, Ghost, and Pumpkins - Material: Polyester Fabric - Overall Dimensions: 83" L x 40" W x 90" H - Cord Length: 9.8' L - Transformer Voltage (Input): 120 V / 60 HZ - Transformer Voltage (Output): 12V AC /1.5 A - Fan Motor Current: 1.1 A - Net Weight: 5 lbs. NOTE 1. Ensure air blower is always connected to keep decoration inflated 2. Please don't place it outdoor in hard rain or snow!
-  Updated: 2025-10-10T08:04:29Z
+  Updated: 2025-10-22T02:16:06Z
   Vendor: null
   Product Type: 5
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/5502a9cc-3d6f-43c3-86a4-c99baec62ecb.jpg?v=1760040264
   Price: $106.84 USD
 - [Halloween Decoration](https://www.gtsstore.store/products/halloween-decoration-2): Specification Shipping Limitations: Unlimited Available Ship to: United States Details Product Features Realistic and Eerie Design:Our metal human skull gas log is meticulously crafted to create a realistic and spooky effect. With its hollow center, flames pass through the eye sockets, nose, and top, enhancing the eerie ambiance of your fire pit. Perfect for Halloween parties or any spooky gathering, this skull will surely amaze your guests and spark conversations. Durable and Heat-Resistant:Made from high-quality metal, this skull can withstand extreme temperatures up to 3000°F. It doesn't emit any peculiar smell or toxic fumes, ensuring a safe and enjoyable experience. Its durability allows it to be reused multiple times, making it a cost-effective addition to your fire pit accessories. Versatile Use for Various Occasions:Ideal for outdoor fire pits, fireplaces, and even indoor parties, this skull adds a touch of macabre charm to any setting. Use it with a candle indoors for a creepy effect during trick-or-treating or place it in your fire pit for a dramatic outdoor display. It's the perfect decoration for Halloween, themed parties, or any occasion that calls for a spooky atmosphere. Handcrafted Unique Piece:Each skull is hand-built and hand-welded, ensuring no two pieces are exactly the same. This uniqueness adds character and authenticity to your fire pit decoration. Despite the visible welding positions, the skull's functionality remains unaffected, offering a distinct and eye-catching addition to your gatherings. Perfect Gift for Any Occasion:This skull log decoration is a fantastic gift idea for those who seem to have everything. Whether for Father's Day, Halloween, or just as a unique addition to their collection, it's sure to impress. Its realistic burning effect and creepy appearance make it a standout piece that will be the talk of any party.
-  Updated: 2025-10-10T12:14:38Z
+  Updated: 2025-10-22T02:16:06Z
   Vendor: null
   Product Type: 5
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/94df6438-713e-4503-a7ae-a97d5498e24b.jpg?v=1760040281
   Price: $112.33 USD
 - [Halloween Decoration](https://www.gtsstore.store/products/halloween-decoration-3): Specification Available Ship to: United States Details Features: - Halloween window sticker ghost wearing a purple hat being grabbed by a green claw inflatable brings the Halloween display together - LED lights create a spooky, eerie, and eye-catching effect - Deflates for easy storage (when you're not scaring your neighbors), with a bag for storage - Includes three suction cups and a drawstring to help keep it anchored on windy nights - Waterproof polyester cloth (rating IP44) is suited for indoor and outdoor use Specification: - Primary Color: White - Type: Inflatable Halloween Ghost - Material: Polyester Cloth - Overall Dimensions: 25.6" W x 25.6" D x 47.2" H - Power Cable Length: 9.8 ft. - Single LED module lights - LED Light Power: 0.25 W - Fan: DC 12 V / 0.5 A - Input Voltage: 100-240 V, 50/60 Hz - Output Voltage: DC 12 V, 0.7A NOTE: Ensure the air blower is always connected to the power source to keep the product inflated, but not above eight hours a time for long motor service life Do not use the inflatable outside in heavy rain, snow, or wind Package Includes: - 1 x Inflatable Halloween Decoration - 3 x Suction Cup - 1 x Drawstring - 1 x Internal Fan - 1 x Manual
-  Updated: 2025-10-10T08:05:05Z
+  Updated: 2025-10-22T02:16:06Z
   Vendor: null
   Product Type: 5
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/bb33dc40-c58f-4f5e-868a-4dc9b02c5fdc.jpg?v=1760040299
   Price: $91.36 USD
 - [Halloween Decoration](https://www.gtsstore.store/products/halloween-decoration-4): Specification Available Ship to: United States Details Features: - Arm is bendable how you want it - When he senses people nearby, he moves his head and arms back and forth - Red lights in the eyes - The Halloween clown talks and makes laughter - Activates by touch or loud noises. The good choice to scare trick-or-treaters - For indoor and (covered) outdoor use - Battery-operated for flexible placement - Easy assembly, get sections together Specification: - Color: Multi-Colored - Light Color: Red - Material: Polyester, PVC, PE, PE Foam, PP, Steel - Overall Dimensions: 43.25" L x 7.75" W x 65.25" H - Light Count: 2 (eyes) - Power: 0.2 W - Battery: 3 x AA Battery (included) Package Includes: - 1 x Halloween Decoration
-  Updated: 2025-10-10T08:05:25Z
+  Updated: 2025-10-22T02:16:06Z
   Vendor: null
   Product Type: 5
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/e7b4d991-0a85-4e61-bc43-86bce084c453.jpg?v=1760040319
   Price: $114.13 USD
 - [Halloween Decoration](https://www.gtsstore.store/products/halloween-decoration-5): Specification Shipping Limitations: Unlimited Available Ship to: United States Details Product Features Realistic and Eerie Design:Our metal human skull gas log is meticulously crafted to create a realistic and spooky effect. With its hollow center, flames pass through the eye sockets, nose, and top, enhancing the eerie ambiance of your fire pit. Perfect for Halloween parties or any spooky gathering, this skull will surely amaze your guests and spark conversations. Durable and Heat-Resistant:Made from high-quality metal, this skull can withstand extreme temperatures up to 3000°F. It doesn't emit any peculiar smell or toxic fumes, ensuring a safe and enjoyable experience. Its durability allows it to be reused multiple times, making it a cost-effective addition to your fire pit accessories. Versatile Use for Various Occasions:Ideal for outdoor fire pits, fireplaces, and even indoor parties, this skull adds a touch of macabre charm to any setting. Use it with a candle indoors for a creepy effect during trick-or-treating or place it in your fire pit for a dramatic outdoor display. It's the perfect decoration for Halloween, themed parties, or any occasion that calls for a spooky atmosphere. Handcrafted Unique Piece:Each skull is hand-built and hand-welded, ensuring no two pieces are exactly the same. This uniqueness adds character and authenticity to your fire pit decoration. Despite the visible welding positions, the skull's functionality remains unaffected, offering a distinct and eye-catching addition to your gatherings. Perfect Gift for Any Occasion:This skull log decoration is a fantastic gift idea for those who seem to have everything. Whether for Father's Day, Halloween, or just as a unique addition to their collection, it's sure to impress. Its realistic burning effect and creepy appearance make it a standout piece that will be the talk of any party.
-  Updated: 2025-10-10T08:05:40Z
+  Updated: 2025-10-22T02:16:06Z
   Vendor: null
   Product Type: 5
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/6fd9425c-5a82-4eb0-81cb-9fa17668ed14.jpg?v=1760040334
   Price: $112.33 USD
 - [Halloween Decoration](https://www.gtsstore.store/products/halloween-decoration-6): Specification Available Ship to: United States Details Features: - A circus clown in colorful clothes - Activates automatically via touch or loud sounds - The body vibrates when activated - It features ghastly red glowing eyes - Clown lines and laughter enhance the spooky atmosphere - Simple assembly required Specification: - Color: Green, Black - Light Color: Red - Materials: Steel, Polyester, Plastic - Overall Dimensions: 39.4" L x 25.2" W x 72.8" H - Overall Height: 6.1' H - Power: 0.12 W NOTE: Our product activates easily. We suggest turning off the power when in noisy or windy surroundings Package Includes: - 1 x Halloween Decoration;
-  Updated: 2025-10-10T08:05:54Z
+  Updated: 2025-10-22T02:16:07Z
   Vendor: null
   Product Type: 5
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/c4e04327-7ec3-400b-a779-7a1857582a7b.jpg?v=1760040350
   Price: $112.69 USD
 - [Halloween Decoration](https://www.gtsstore.store/products/halloween-decoration-7): Features: - Round-headed ghost ready to scare you inflatable brings a cohesive Halloween display together - LED lights and a blue flame light create a scary, eerie, and eye-catching effect - Deflates for easy storage (when you're not scaring your neighbors) - Includes six stakes, two drawstrings, and three sandbags to help keep it anchored on windy nights - Waterproof polyester cloth is suited for indoor and outdoor use Specification: - Primary Color: Black - Type: Inflatable Halloween Skeleton Ghost - Material: Polyester Cloth - Overall Dimensions: 34.75" W x 31" D x 82.75" H - Power Cable Length: 6.6' L - Light Count: 3 (LED), 1 (Flame Light) - Light Power: 0.24 W (LED), 1.2 W (Flame Light) - Fan: 12 V / 0.85 A - Input Voltage: 100-120 V / 60 Hz - Output Voltage: 12 V / 1.0 A - Certifications: UL/ETL/CSA, CEC(USA)/NRCAN(CA) NOTE: Ensure the air blower is always connected to a power source to keep the Round-Headed Ghost inflated NOTE: Do not use the inflatable outside in heavy rain, snow, or wind. Package Includes: - 1 x Inflatable Halloween Decoration - 6 x Ground Stake - 2 x Drawstring - 3 x Sandbag - 1 x Internal Fan - 1 x Manual
-  Updated: 2025-10-10T08:06:15Z
+  Updated: 2025-10-22T02:16:07Z
   Vendor: null
   Product Type: 5
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/65e9ff64-f127-473d-a67e-1fbfafeaa5fb.jpg?v=1760040369
   Price: $105.63 USD
 - [Halloween Decoration](https://www.gtsstore.store/products/halloween-decoration-8): Specification Shipping Limitations: Unlimited Available Ship to: United States Details Features: - Vampire and coffin inflatable brings a cohesive Halloween display together - LED lights create a scary, eerie, and eye-catching effect - Deflates for easy storage (when you're not scaring your neighbors) - Includes four ground stakes, four drawstrings, and four sandbags to keep it anchored on windy nights - Waterproof polyester cloth is suited for indoor and outdoor use Specification: - Primary Color: Black, Red - Type: Inflatable Halloween Vampire and Coffin - Material: Polyester Cloth - Overall Dimensions: 70.75" W x 31.5" D x 31.5" H - Power Cable Length: 5.9 ft. - Sandbag Weight: 0.44 lbs. - LED Light Power: 0.36 W - Fan: DC 12 V / 10.2 W / 0.85 A - Input Voltage: 120 V / 60 Hz - Output Voltage: DC 12 V / 18 W / 1.5 A - Certifications: UL / cUL NOTE 1. Ensure air blower is always connected to power source to keep the vampire and coffin inflated 2. Please don't place it outdoor in hard rain or snow! Package Includes: 1 x Inflatable Coffin 4 x Ground Stakes 2 x Tethers 2 x Air blowers 1 x Plug 1 x Manual
-  Updated: 2025-10-10T08:06:30Z
+  Updated: 2025-10-22T02:16:07Z
   Vendor: null
   Product Type: 5
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/5a6d9c45-c830-469d-8c12-35094c30b676.jpg?v=1760040384
   Price: $142.80 USD
 - [Halloween Decoration](https://www.gtsstore.store/products/halloween-decoration-9): Specification Available Ship to: United States Details Features: - Crawling spider inflatable brings a cohesive Halloween display together - LED lights create a spooky, eerie, and eye-catching effect - Deflates for easy storage (when you're not scaring your neighbors) - Includes two ground stakes, two drawstrings and a sandbag to help keep it anchored on windy nights - Waterproof polyester cloth (rating IP44) is suited for indoor and outdoor use Specification: - Primary Color: Green - Type: Inflatable Halloween Crawling Spider - Material: Polyester Cloth - Overall Dimensions: 71.75" W x 74.75" D x 19.75" H - Power Cable Length: 9.8 ft. - Sandbag Weight: 0.33 lbs. - Two LED module lights - LED Light Power: 0.1 W - Fan: DC 12 V / 7.2 W / 0.6 A - Input Voltage: 120-240 V, 50/60 Hz - Output Voltage: DC 12 V / 12 W / 1 A - Certifications: IP44 / cUL - Item Label: 844-897V80GN NOTE: Ensure the air blower is always connected to the power source to keep the product inflated, but not above eight hours a time for long motor service life Do not use the inflatable outside in heavy rain, snow, or wind Package Includes: - 1 x Halloween Inflatable - 2 x Ground Stake - 2 x Drawstring - 1 x Sandbag - 1 x Air Blower - 1 x Manual Features: - Crawling spider inflatable brings a cohesive Halloween display together - LED lights create a spooky, eerie, and eye-catching effect - Deflates for easy storage (when you're not scaring your neighbors) - Includes two ground stakes, two drawstrings and a sandbag to help keep it anchored on windy nights - Waterproof polyester cloth (rating IP44) is suited for indoor and outdoor use Specification: - Primary Color: Green - Type: Inflatable Halloween Crawling Spider - Material: Polyester Cloth - Overall Dimensions: 71.75" W x 74.75" D x 19.75" H - Power Cable Length: 9.8 ft. - Sandbag Weight: 0.33 lbs. - Two LED module lights - LED Light Power: 0.1 W - Fan: DC 12 V / 7.2 W / 0.6 A - Input Voltage: 120-240 V, 50/60 Hz - Output Voltage: DC 12 V / 12 W / 1 A NOTE: Ensure the air blower is always connected to the power source to keep the product inflated, but not above eight hours a time for long motor service life Do not use the inflatable outside in heavy rain, snow, or wind Package Includes: - 1 x Halloween Inflatable - 2 x Ground Stake - 2 x Drawstring - 1 x Sandbag - 1 x Air Blower - 1 x Manual
-  Updated: 2025-10-10T08:06:45Z
+  Updated: 2025-10-22T02:16:07Z
   Vendor: null
   Product Type: 5
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/86fdedb7-349b-4c63-946c-339d56683973.jpg?v=1760040401
   Price: $90.32 USD
 - [Halloween Decoration](https://www.gtsstore.store/products/halloween-decoration-10): Specification Shipping Limitations: Unlimited Available Ship to: United States Details Features: - The arms bend to the position of your choosing - It writhes its arms up and down when sensing people near by - It makes spooky ghost sounds and laughs - Red lights in the eyes - Activates by touch or loud noises to scare trick-or-treaters - For indoor and (covered) outdoor use - Battery-operated for flexible placement - Hang it on a fence, tree, balcony, or front porch - No assembly required Specification: - Color: Brown - Light Color: Red - Material: Polyester, PE, Steel - Overall Dimensions: 30" W x 10.75" D x 28" H - Light Count: 2 (eyes) - Power: 0.1 W - Battery: 3 x AAA Battery (included) Package Includes: - 1 x Halloween Decoration;
-  Updated: 2025-10-10T08:07:01Z
+  Updated: 2025-10-22T02:16:07Z
   Vendor: null
   Product Type: 5
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/d35b0144-05b1-4215-97fe-d7519ca36b67.jpg?v=1760040417
   Price: $86.66 USD
 - [Halloween Decoration](https://www.gtsstore.store/products/halloween-decoration-11): Specification Available Ship to: United States Details Features: - A hanging clown corpse with a skeleton face - It activates automatically via touch, sounds - The hands wave when activated - It features ghastly red glowing eyes - It plays circus clown music to enhance the spooky atmosphere - No assembly required Specification: - Color: Purple, Colorful Striped - Light Color: Red - Materials: Steel, Polyester, Plastic - Overall Dimensions: 29.9"L x 9.8"W x 45.3"H - Overall Height: 3.8' H - Power: 0.12W NOTE: Our product activates easily. We suggest turning off the power when in noisy or windy surroundings Package Includes: - 1 x Halloween Decoration;
-  Updated: 2025-10-10T08:07:17Z
+  Updated: 2025-10-22T02:16:08Z
   Vendor: null
   Product Type: 5
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/c69a459a-77bc-4188-9357-2a76878605ea.jpg?v=1760040433
   Price: $87.64 USD
 - [Christmas Fabric Decorative Faceless Doll Ornament Christmas Decorations](https://www.gtsstore.store/products/christmas-fabric-decorative-faceless-doll-ornament-christmas-decorations): Product information: Material: cloth Category: Christmas Decoration Color: red hat for the old man with a white beard holding a light sign, gray hat for the old man with a white beard holding a light sign,Gingerbread man printed hat Rudolph doll for men, Gingerbread man printed hat Rudolph doll for women,Khaki Gingerbread Hat Rudolph Figure for Men, Khaki Gingerbread Hat Rudolph Figure for Women, Khaki Hat with Lights, Rudolph Figure with Walking Stick, Rudolph Figure with Lighted Snowflake Plush Hat Packing list: Doll Ornament*1
-  Updated: 2025-10-10T08:07:47Z
+  Updated: 2025-10-22T02:16:08Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -1649,7 +1649,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/1799c65d-5277-465d-a9b8-57ee6ccf7b05_3651b627-24c0-4706-9996-c0f41f346ec6.jpg?v=1760040466
     Price: $43.44 USD
 - [Christmas knife and fork bag Christmas tableware set](https://www.gtsstore.store/products/christmas-knife-and-fork-bag-christmas-tableware-set): Material :non-woven fabric Product Name: Christmas Tableware Set Size: clothes 12*14cm pants 12*12cm Single set weight: about 25 grams color: red Scope of application: Christmas restaurant table decorations.
-  Updated: 2025-10-10T08:08:06Z
+  Updated: 2025-10-22T02:16:08Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -1663,7 +1663,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/718005048604_d32c057e-e325-4034-bf60-11361cfb0271.jpg?v=1760040489
     Price: $38.68 USD
 - [PE, PVC Christmas Tree, Christmas Decorations, Holiday Decorations](https://www.gtsstore.store/products/pe-pvc-christmas-tree-christmas-decorations-holiday-decorations)
-  Updated: 2025-10-10T08:08:34Z
+  Updated: 2025-10-22T02:16:08Z
   Vendor: null
   Product Type: 5
   Availability: Available
@@ -1681,7 +1681,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/4fad4cbe-269b-41a9-9ab4-b307633a0833.jpg?v=1760040522
     Price: $252.94 USD
 - [PE PVC Christmas Tree](https://www.gtsstore.store/products/pe-pvc-christmas-tree-christmas-decorations-holiday-decorations-1): Bring holiday magic home with this lush PE and PVC Christmas tree that stays vibrant, sturdy, and ready for all your favorite ornaments. Benefits: Realistic and full appearance Easy to assemble and store Durable for years of celebrations Perfect for home or office décor
-  Updated: 2025-10-18T06:28:35Z
+  Updated: 2025-10-22T02:16:09Z
   Vendor: null
   Product Type: 5
   Availability: Available
@@ -1703,7 +1703,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/bfede69d-9c6d-4b1f-b3b0-6ade047a38da.jpg?v=1760040552
     Price: $206.32 USD
 - [Christmas Candy Gift Bag for Kids](https://www.gtsstore.store/products/christmas-children-gift-bag-christmas-eve-candy-bag-christmas-candy-packaging-gift-bag): Make your Christmas celebrations sweeter with this adorable Christmas Candy Gift Bag! Perfect for holding candies, small gifts, or party favors, this festive bag features cute holiday designs that bring joy to children and guests alike. Ideal for Christmas Eve surprises, school parties, or family gatherings. Benefits: 🎅 Cute and colorful Christmas-themed designs 🎁 Perfect for candies, chocolates, and small gifts 🌟 Durable fabric ensures long-lasting use 🎄 Ideal for kids, Christmas parties, and decorations 🧦 Reusable and eco-friendly packaging choice
-  Updated: 2025-10-18T05:19:43Z
+  Updated: 2025-10-22T02:16:09Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -1769,14 +1769,14 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/3c8d2a43-c4ac-4735-8522-bf07182c149e_trans.jpg?v=1760040594
     Price: $38.61 USD
 - [Snowflake Christmas Tree Pendant Decoration](https://www.gtsstore.store/products/christmas-decoration-snowflake-christmas-tree-pendant): Add a touch of winter magic to your tree with this elegant Snowflake Christmas Pendant. Its sparkling design captures the beauty of falling snow, making your Christmas tree shine with festive charm. Benefits: Beautiful snowflake shape adds a wintery touch Lightweight and easy to hang on any tree or garland Made with durable, high-quality materials Perfect for home, office, or party decoration Reusable for many Christmas seasons
-  Updated: 2025-10-18T05:38:34Z
+  Updated: 2025-10-22T02:16:09Z
   Vendor: null
   Product Type: 0
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/4af2e5b2-6a77-4a01-b873-7686fd4a23ae.jpg?v=1760040608
   Price: $38.53 USD
 - [PE &amp; PVC Christmas Tree](https://www.gtsstore.store/products/pe-pvc-christmas-tree-christmas-ornaments): Create your dream holiday centerpiece! This PE and PVC Christmas tree combines lifelike beauty with durability perfect for hanging ornaments and spreading festive joy. Benefits: Realistic mix of PE and PVC branches Strong and stable base for easy setup Perfect for showcasing ornaments and lights Reusable and long-lasting for yearly use Adds warmth and elegance to any holiday space
-  Updated: 2025-10-18T06:09:16Z
+  Updated: 2025-10-22T02:16:09Z
   Vendor: null
   Product Type: 5
   Availability: Available
@@ -1790,7 +1790,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/3dbf7c17-bcbe-4d6c-bfcc-d5b6563980f7.jpg?v=1760040644
     Price: $242.05 USD
 - [Green PVC Christmas Tree](https://www.gtsstore.store/products/green-pvc-christmas-tree-christmas-decorations): Bring holiday magic home! This lush green PVC Christmas tree offers a realistic look, easy setup, and lasting beauty perfect for any festive celebration. Benefits: Made from high-quality, durable PVC Realistic branches for a full, natural look Easy to assemble and decorate Reusable for many Christmas seasons Ideal centerpiece for home or office décor
-  Updated: 2025-10-18T06:08:45Z
+  Updated: 2025-10-22T02:16:10Z
   Vendor: null
   Product Type: 5
   Availability: Available
@@ -1816,7 +1816,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/c432d1b8-ec37-46ac-9577-ebd6a7e48f96.jpg?v=1760040674
     Price: $282.30 USD
 - [Crystal Ball Christmas Gift Light](https://www.gtsstore.store/products/christmas-decorations-crystal-ball-christmas-gift-box-lights): Light up the magic of Christmas! This crystal ball with gift box lights creates a dreamy glow perfect for festive décor or thoughtful holiday gifting. Benefits: Beautiful crystal ball design with LED lights Creates a warm, enchanting Christmas ambiance Perfect as décor or a holiday gift Durable and reusable for yearly use Adds cozy sparkle to any festive space
-  Updated: 2025-10-18T05:45:36Z
+  Updated: 2025-10-22T02:16:10Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -1838,7 +1838,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/e807c2a8-82fa-4953-b4e1-e649737f2da0.jpg?v=1760040697
     Price: $40.02 USD
 - [Printed Christmas Tree Ornament Balls](https://www.gtsstore.store/products/exquisite-printing-christmas-christmas-tree-ornament-ball): Add elegance to your tree! These exquisitely printed ornament balls bring festive color and charm perfect for creating a warm, joyful holiday atmosphere. Benefits: Beautifully printed with festive designs Lightweight and easy to hang on trees Made from durable, shatterproof material Reusable for many Christmas seasons Adds sparkle and elegance to any décor
-  Updated: 2025-10-18T08:12:09Z
+  Updated: 2025-10-22T02:16:10Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -1860,7 +1860,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/1312406b-303d-44b1-beca-ff09cc9d40bc_fine.jpg?v=1760040718
     Price: $42.89 USD
 - [Adult Santa Christmas Costume](https://www.gtsstore.store/products/bar-christmas-costume-adult-men-and-women-santa-christmas-costume-christmas-costume): Bring the holiday spirit to life! This festive Santa costume is perfect for parties, bars, and Christmas events fun, comfortable, and full of cheer. Benefits: Classic Santa design for men and women Made from soft, comfortable materials Ideal for parties, events, or photo shoots Easy to wear and reusable every year Instantly adds festive fun to any occasion
-  Updated: 2025-10-18T05:22:58Z
+  Updated: 2025-10-22T02:16:10Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -1886,7 +1886,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/3861190783982_fdd4c5bb-53d8-4cd8-bcaf-22d0e63995e9.jpg?v=1760040730
     Price: $56.24 USD
 - [Wrought Iron Mini Christmas Tree](https://www.gtsstore.store/products/christmas-wrought-iron-small-christmas-tree-ornaments): Add timeless elegance to your décor! This small wrought iron Christmas tree brings a vintage festive touch perfect for desktops, shelves, or tabletops. Benefits: Durable wrought iron with intricate design Compact size ideal for small spaces Perfect for displaying mini ornaments Reusable and long-lasting holiday décor Adds a classy, festive charm to any room
-  Updated: 2025-10-18T05:01:34Z
+  Updated: 2025-10-22T02:16:10Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -1908,14 +1908,14 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/955931478876.jpg?v=1760040746
     Price: $39.20 USD
 - [Red Christmas Money Box](https://www.gtsstore.store/products/red-christmas-money-box-christmas-party-decoration): Save with festive cheer! This red Christmas money box doubles as a cute party decoration perfect for gifts, savings, or adding holiday spirit to any room. Benefits: Bright red festive design for Christmas décor Durable and reusable material Ideal for saving money or gifting cash Great decorative piece for parties or homes Adds fun and charm to holiday celebrations
-  Updated: 2025-10-18T04:40:28Z
+  Updated: 2025-10-22T02:16:11Z
   Vendor: null
   Product Type: 0
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/82ad2a81-ae44-4566-abd7-25fac47e0cd8.jpg?v=1760040758
   Price: $39.67 USD
 - [Acrylic Christmas Tree Pendants](https://www.gtsstore.store/products/christmas-decorations-christmas-tree-acrylic-flat-pendant): Add sparkle to your holiday décor! These flat acrylic pendants shine beautifully on your tree bringing modern elegance and festive charm to every branch. Benefits: Made from durable, high-quality acrylic Lightweight and easy to hang Perfect for trees, windows, or wreaths Reusable and shatterproof for safety Adds a sleek, festive touch to any décor
-  Updated: 2025-10-18T05:47:16Z
+  Updated: 2025-10-22T02:16:11Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -1941,7 +1941,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/7991d988-aa96-4399-9549-a72aa94e4447.jpg?v=1760040787
     Price: $38.30 USD
 - [Festive Christmas Tree Skirt](https://www.gtsstore.store/products/christmas-decoration-christmas-tree-skirt): Complete your holiday décor in style! This elegant Christmas tree skirt adds warmth and a polished finish perfect for hiding stands and catching fallen needles. Benefits: Soft, durable fabric for long-lasting use Easy to spread and secure around the tree Hides tree base for a clean, festive look Reusable for many Christmas seasons Adds cozy holiday charm to any room
-  Updated: 2025-10-18T05:41:02Z
+  Updated: 2025-10-22T02:16:11Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -1955,7 +1955,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/4432562099_159801191.jpg?v=1760040808
     Price: $42.19 USD
 - [Classic Christmas Santa Hat](https://www.gtsstore.store/products/christmas-hat): Spread holiday cheer in style! This soft, cozy Santa hat is the perfect festive accessory for parties, gifting, and Christmas celebrations. Benefits: Made from soft, comfortable fabric Fits most adults and kids easily Perfect for parties, photos, or costumes Durable and reusable every Christmas Adds instant festive spirit to any outfit
-  Updated: 2025-10-18T04:22:33Z
+  Updated: 2025-10-22T02:16:11Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -1977,7 +1977,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/1791966475385.jpg?v=1760040825
     Price: $40.57 USD
 - [Luminous Ceramic Christmas House](https://www.gtsstore.store/products/ceramic-christmas-tree-desktop-decoration-luminous-christmas-small-house-christmas-snowman): Light up your holiday spirit! This ceramic Christmas house with a glowing tree and snowman brings cozy warmth and festive magic to any space. Benefits: Beautiful ceramic craftsmanship with LED light Features snowman and tree for festive charm Perfect for desktops, mantels, or tabletops Durable, reusable holiday décor piece Creates a cozy, glowing Christmas atmosphere
-  Updated: 2025-10-18T05:00:06Z
+  Updated: 2025-10-22T02:16:12Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -2003,14 +2003,14 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/efa5926f-121c-4b1e-a8fa-150e63433ff4_trans.jpg?v=1760040839
     Price: $43.00 USD
 - [Large Christmas Tree Ornaments](https://www.gtsstore.store/products/christmas-tree-decoration-large-christmas-ornaments): Make your tree shine brighter! These large Christmas decorations add bold sparkle and festive elegance perfect for creating a grand holiday centerpiece. Benefits: Eye-catching size for a dramatic effect Durable and lightweight for easy hanging Perfect for trees, garlands, or displays Reusable for many holiday seasons Adds festive warmth and brilliance to your décor
-  Updated: 2025-10-18T04:31:24Z
+  Updated: 2025-10-22T02:16:12Z
   Vendor: null
   Product Type: 5
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/cfd4adc6-33c0-46a2-a030-9ac0d04e10ba.jpg?v=1760040849
   Price: $127.00 USD
 - [Christmas Eve Candy Socks](https://www.gtsstore.store/products/christmas-decoration-christmas-eve-candy-socks): Make Christmas Eve sweeter! These festive candy socks are perfect for stuffing with treats and small gifts adding excitement and joy to the holiday night. Benefits: Adorable Christmas-themed sock design Ideal for candies, toys, or small gifts Easy to hang on trees, doors, or fireplaces Durable and reusable for yearly fun Brings festive cheer to any holiday décor
-  Updated: 2025-10-18T05:05:43Z
+  Updated: 2025-10-22T02:16:12Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -2032,7 +2032,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/2761258257965.jpg?v=1760040877
     Price: $39.72 USD
 - [Christmas Stocking Gift Pendant](https://www.gtsstore.store/products/christmas-decorations-christmas-stocking-pendant-christmas-stocking-gift-bag-hanging-piece): Fill your holidays with charm! This festive stocking pendant doubles as a gift bag perfect for hanging, decorating, and sharing Christmas surprises. Benefits: Classic Christmas stocking design Can be used as décor or a gift bag Easy to hang on trees, doors, or mantels Durable and reusable holiday accessory Adds warmth and joy to any Christmas setup
-  Updated: 2025-10-18T04:56:07Z
+  Updated: 2025-10-22T02:16:12Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -2082,7 +2082,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/47ab8bad-cdc9-465c-adec-dc034a6c1480.jpg?v=1760040913
     Price: $39.68 USD
 - [Snowman Resin Tree Ornaments](https://www.gtsstore.store/products/christmas-christmas-tree-snowman-resin-pendants): Bring joyful smiles to your tree! These adorable snowman resin pendants add a touch of winter magic and festive charm to your Christmas decorations. Benefits: Cute snowman design for a cheerful look Made from durable, high-quality resin Lightweight and easy to hang on trees Perfect for home, office, or party décor Adds a fun, festive touch to any space
-  Updated: 2025-10-18T03:09:42Z
+  Updated: 2025-10-22T02:16:12Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -2100,7 +2100,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/3414e049-c619-4b65-ae50-4195d44f3763.jpg?v=1760040936
     Price: $39.33 USD
 - [Christmas Sock Gift Ornament](https://www.gtsstore.store/products/christmas-sock-gift-bag-christmas-ornament): Add festive fun to your décor! This Christmas sock gift bag doubles as a charming ornament perfect for holding treats or decorating your holiday space. Benefits: Cute and functional Christmas sock design Ideal for small gifts, candies, or décor Easy to hang on trees, doors, or mantels Made from durable, reusable materials Adds warmth and festive cheer to any room
-  Updated: 2025-10-18T03:55:00Z
+  Updated: 2025-10-22T02:16:13Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -2122,7 +2122,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/4423155279_2086478309.jpg?v=1760040951
     Price: $40.29 USD
 - [Festive Christmas Gift Bag](https://www.gtsstore.store/products/christmas-gift-decoration-christmas-gift-bag): Wrap your presents in holiday cheer! This charming Christmas gift bag makes every gift feel special with its festive design and joyful spirit. Benefits: Beautiful holiday-themed design Durable and reusable material Perfect for gifts, treats, or decorations Easy to use no wrapping needed Adds festive charm to every present
-  Updated: 2025-10-18T03:52:31Z
+  Updated: 2025-10-22T02:16:13Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -2164,7 +2164,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/4754825024571.jpg?v=1760040974
     Price: $38.05 USD
 - [Christmas Decorations Christmas Knitted Small Pendant](https://www.gtsstore.store/products/christmas-decorations-christmas-knitted-small-pendant): Product information: Color: knitted small pendant Red Style A, knitted small pendant Red B, knitted small pendant C style red, knitted small pendant pink type A, knitted small pendant Pink B, knitted small pendant pink C style, knitted small pendant White A, knitted small pendant white type B, knitted small pendant White Style C, knitted small pendant Green A, knitted small pendant Green B style, knitted small pendant Green C, knitted small pendant Gray A, knitted small pendant Gray B, knitted small pendant gray Type C Material: non-woven fabric Packing list: Pendant*1 Product Image:
-  Updated: 2025-10-10T08:16:41Z
+  Updated: 2025-10-22T02:16:13Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -2230,14 +2230,14 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/24ffd563-4b22-42f1-8783-46af5d16cfe4.jpg?v=1760041012
     Price: $38.59 USD
 - [Red Christmas Candy Gift Bag](https://www.gtsstore.store/products/christmas-hot-sale-red-christmas-bag-christmas-wedding-candy-bag): Share sweetness and joy! This festive red Christmas bag is perfect for candies, gifts, or wedding treats adding warmth and cheer to every celebration. Benefits: Elegant red design for festive occasions Ideal for candy, gifts, or wedding favors Durable and reusable fabric material Easy to fill and tie with drawstring closure Perfect for parties, events, and holiday décor
-  Updated: 2025-10-18T03:33:33Z
+  Updated: 2025-10-22T02:16:13Z
   Vendor: null
   Product Type: 0
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/1129313775918.jpg?v=1760041026
   Price: $38.90 USD
 - [Christmas Curtain Banner Set](https://www.gtsstore.store/products/christmas-decorations-christmas-couplets-curtains-christmas-banners-pull-flags-christmas-curtains-hanging-flags-window-pendants): Transform your home into a festive wonderland! These Christmas couplet curtains and hanging flags add warmth, color, and cheer to every window and wall. Benefits: Includes banners, curtains, and hanging flags Bright, festive designs for holiday décor Easy to hang and reusable each year Perfect for windows, doors, and living rooms Instantly creates a joyful Christmas atmosphere
-  Updated: 2025-10-18T03:40:35Z
+  Updated: 2025-10-22T02:16:14Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -2371,7 +2371,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/1168645930596.jpg?v=1760041105
     Price: $40.73 USD
 - [Snowflake &amp; Star Tree Ornaments](https://www.gtsstore.store/products/christmas-snowflakes-stars-christmas-tree-decoration): Add shimmering magic to your Christmas tree! These snowflake and star decorations bring sparkle, elegance, and festive joy to every branch. Benefits: Beautiful snowflake and star designs Lightweight and easy to hang Durable material for long-term use Perfect for trees, wreaths, or garlands Adds a dazzling festive touch to any décor
-  Updated: 2025-10-18T03:44:29Z
+  Updated: 2025-10-22T02:16:14Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -2397,7 +2397,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/28505046918.jpg?v=1760041135
     Price: $39.69 USD
 - [PVC Christmas Tree Decoration](https://www.gtsstore.store/products/pvc-christmas-tree-christmas-decorations): Create the perfect holiday centerpiece! This durable PVC Christmas tree brings festive sparkle and warmth to your home easy to set up and beautifully realistic. Benefits: Made from high-quality, long-lasting PVC Realistic branches for a lush festive look Easy to assemble and decorate Reusable for many Christmas seasons Perfect for home, office, or holiday events
-  Updated: 2025-10-18T04:35:21Z
+  Updated: 2025-10-22T02:16:14Z
   Vendor: null
   Product Type: 5
   Availability: Available
@@ -2411,14 +2411,14 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/92277448-74ef-41d1-947e-a2b9d6862178.jpg?v=1760041164
     Price: $264.87 USD
 - [Merry Christmas Burlap Banner](https://www.gtsstore.store/products/merry-christmas-sackcloth-flag-christmas-banner-christmas-banner-decoration): Celebrate the season with rustic charm! This sackcloth Christmas banner brings cozy farmhouse vibes perfect for parties, mantels, and festive photo backdrops. Benefits: Durable burlap material for long-term use Classic “Merry Christmas” festive design Easy to hang and reusable every year Perfect for home, office, or event décor Adds a warm, traditional holiday touch
-  Updated: 2025-10-18T04:06:20Z
+  Updated: 2025-10-22T02:16:14Z
   Vendor: null
   Product Type: 0
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/653913600065.jpg?v=1760041176
   Price: $40.15 USD
 - [Christmas Eve Bow Gift Bouquet](https://www.gtsstore.store/products/christmas-gift-christmas-eve-single-bow-christmas-eve-fruit-bouquet): Make Christmas Eve extra special! This elegant fruit bouquet wrapped with a festive bow adds warmth, love, and sweetness to your holiday celebrations. Benefits: Beautifully designed with festive details Perfect for gifting on Christmas Eve Combines elegance with a touch of sweetness Ideal centerpiece for holiday gatherings Spreads joy and festive cheer effortlessly
-  Updated: 2025-10-18T03:27:12Z
+  Updated: 2025-10-22T02:16:14Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -2436,7 +2436,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/ddf9341b-163c-4144-b920-cf5863565f89.jpg?v=1760041203
     Price: $40.00 USD
 - [Santa Claus Christmas Gift Socks](https://www.gtsstore.store/products/christmas-decorations-santa-claus-socks-christmas-tree-pendant-christmas-socks-gift-bag-christmas-bag): Spread the joy of giving! These festive Santa socks double as charming tree pendants and gift bags perfect for treats, surprises, and Christmas cheer. Benefits: Adorable Santa-themed holiday design Can be used as décor or gift bags Durable and reusable for every Christmas Easy to hang on trees or fireplaces Perfect for candies, toys, or small gifts
-  Updated: 2025-10-17T00:40:23Z
+  Updated: 2025-10-22T02:16:15Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -2562,7 +2562,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/4258ef03-c3d5-4ca0-8453-fedc1fc3bba8.jpg?v=1760041235
     Price: $38.60 USD
 - [PVC Christmas Tree Décor](https://www.gtsstore.store/products/pvc-christmas-tree-christmas-decorations-1): Bring festive cheer home! This durable PVC Christmas tree decoration adds sparkle, color, and warmth perfect for creating a joyful holiday atmosphere. Benefits: Made from high-quality, long-lasting PVC Easy to assemble and decorate Reusable for years of celebrations Realistic look with festive charm Perfect centerpiece for any Christmas setup
-  Updated: 2025-10-17T00:36:45Z
+  Updated: 2025-10-22T02:16:15Z
   Vendor: null
   Product Type: 5
   Availability: Available
@@ -2584,7 +2584,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/eb6c316b-4ec4-44af-904b-d75dc13004da.jpg?v=1760041269
     Price: $146.94 USD
 - [Christmas Tree Dreamcatcher Ornament](https://www.gtsstore.store/products/christmas-christmas-tree-decoration-dreamcatcher): Add a touch of magic to your tree! This Christmas dreamcatcher blends festive sparkle with peaceful charm perfect for a cozy, enchanting holiday look. Benefits: Unique dreamcatcher-inspired Christmas design Lightweight and easy to hang on any tree Adds elegance and warmth to holiday décor Made with durable, high-quality materials Perfect gift for dreamcatcher or Christmas lovers
-  Updated: 2025-10-17T00:33:24Z
+  Updated: 2025-10-22T02:16:15Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -2610,14 +2610,14 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/060b2c5a-cf1c-4d74-96e8-2080c3e9d786.jpg?v=1760041298
     Price: $48.98 USD
 - [Christmas Countdown Puzzle Calendar](https://www.gtsstore.store/products/christmas-puzzle-christmas-countdown-calendar): Make every day magical! This Christmas countdown puzzle adds fun and excitement to the holiday season perfect for families creating joyful memories together. Benefits: Combines advent calendar and puzzle fun Encourages family bonding and creativity Beautiful holiday-themed illustrations Durable, high-quality puzzle pieces Builds anticipation for Christmas day
-  Updated: 2025-10-21T14:59:26Z
+  Updated: 2025-10-22T02:16:15Z
   Vendor: null
   Product Type: 0
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/9862e5ee-c6f6-4ea0-8e01-e727c9f859fa.jpg?v=1760041312
   Price: $42.01 USD
 - [Festive Christmas Tree Skirt](https://www.gtsstore.store/products/pvc-christmas-tree-christmas-decorations-2): Complete your holiday scene in style! This elegant Christmas tree skirt adds warmth, charm, and a cozy finish to your festive décor. Benefits: Perfect base for any Christmas tree Hides tree stands for a polished look Soft, durable fabric for long-term use Easy to spread and clean Adds festive elegance to your holiday setup
-  Updated: 2025-10-17T00:17:01Z
+  Updated: 2025-10-22T02:16:16Z
   Vendor: null
   Product Type: 5
   Availability: Available
@@ -2647,7 +2647,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/0aaac5e2-03f2-429e-a337-7b60fd7cbf35.jpg?v=1760041337
     Price: $192.28 USD
 - [Festive Christmas Tree Skirt](https://www.gtsstore.store/products/christmas-tree-skirt-christmas-tree-decorations-christmas-gifts-christmas-scene-matching): Complete your holiday scene in style! This elegant Christmas tree skirt adds warmth, charm, and a cozy finish to your festive décor. Benefits: Perfect base for any Christmas tree Hides tree stands for a polished look Soft, durable fabric for long-term use Easy to spread and clean Adds festive elegance to your holiday setup
-  Updated: 2025-10-17T00:06:22Z
+  Updated: 2025-10-22T02:16:16Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -2745,21 +2745,21 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/945361894127.jpg?v=1760041382
     Price: $40.95 USD
 - [DIY Christmas Book Ornaments](https://www.gtsstore.store/products/diy-hand-made-book-ornaments-for-christmas): Create festive magic by hand! These DIY book ornaments let you craft personalized Christmas décor that fills your space with warmth and creativity. Benefits: Easy and fun holiday craft project Encourages creativity for all ages Perfect for decorating trees or gifts Durable materials for lasting keepsakes Adds a handmade, heartfelt touch to Christmas décor
-  Updated: 2025-10-17T00:04:01Z
+  Updated: 2025-10-22T02:16:16Z
   Vendor: null
   Product Type: 0
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/2c07370a-29f0-40f3-8627-70af52fe0ef4.jpg?v=1760041401
   Price: $53.41 USD
 - [Summer Body Chain Jewelry](https://www.gtsstore.store/products/jewelry-summer-body-jewelry-new-jewelry): Shine under the sun! This trendy summer body jewelry adds golden allure to beach days and festivals perfect for confident, fashion-forward women. Benefits: Elegant design enhances any summer outfit Lightweight and comfortable for all-day wear Adjustable fit for all body types Perfect for beaches, parties, or photoshoots Adds a bold, glamorous summer vibe
-  Updated: 2025-10-17T00:02:00Z
+  Updated: 2025-10-22T02:16:17Z
   Vendor: null
   Product Type: 4
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/3ae08810-77c6-4339-b27b-205dae1f5402.jpg?v=1760041734
   Price: $36.50 USD
 - [Korean Style Fashion Necklace](https://www.gtsstore.store/products/necklace-korea-jewelry-accessories-jewelry): Embrace effortless elegance! This Korean-inspired necklace adds a touch of modern charm perfect for daily wear or gifting someone special. Benefits: Minimalist and trendy Korean design Lightweight and comfortable for all-day wear Complements any outfit or occasion High-quality craftsmanship for lasting shine Perfect gift for stylish jewelry lovers
-  Updated: 2025-10-16T23:58:57Z
+  Updated: 2025-10-22T02:16:17Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -2773,7 +2773,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/3014941396_2111267846.jpg?v=1760041764
     Price: $35.19 USD
 - [Punk Fairy Ear Cuff Earring Dark Elf Ear Clip No Piercing Earrings For Women Gothic Jewelry Silver Color Halloween Earcuff Party](https://www.gtsstore.store/products/punk-fairy-ear-cuff-earring-dark-elf-ear-clip-no-piercing-earrings-for-women-gothic-jewelry-silver-color-halloween-earcuff-party): Overview: Dark elf ear clips,incarnate as a little fairy,mysterious and unique,start your fairy tale journey.Enjoy your shopping time! Specification: Style: European and American Material: alloy Treatment process: electroplating Type: Ear stud Style: Female style Modeling: geometric Package Content : Alloy earrings*1
-  Updated: 2025-10-10T08:29:42Z
+  Updated: 2025-10-22T02:16:17Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -2791,7 +2791,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/ef52aed7-b053-4994-946b-8f07df9752b2.jpg?v=1760041788
     Price: $35.40 USD
 - [Luminous Horse Pendant Necklace](https://www.gtsstore.store/products/europe-and-the-united-states-sell-fashionable-luminous-beads-necklace-concise-pierced-horse-pendant-spot-direct-halloween-jewelry): Shine with mystical elegance! This glowing bead horse pendant necklace adds a touch of magic perfect for Halloween nights or everyday charm. Benefits: Glows beautifully in the dark Elegant and minimalist horse design Lightweight and comfortable to wear Perfect for Halloween or daily fashion Great gift for animal and jewelry lovers
-  Updated: 2025-10-16T23:55:23Z
+  Updated: 2025-10-22T02:16:17Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -2809,7 +2809,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/151597550465.jpg?v=1760041803
     Price: $34.92 USD
 - [Glowing Skull Heart Necklace](https://www.gtsstore.store/products/fashion-halloween-skull-palm-heart-pendant-luminous-necklace-for-women-glowing-jewelry-rope-chain-choker-party-statement-gift): Light up your dark side! This luminous skull palm heart necklace adds eerie beauty and Halloween magic perfect for fearless women who love bold statement style. Benefits: Glows brightly in the dark Unique skull and heart pendant design Comfortable rope chain for easy wear Ideal for Halloween parties or cosplay A bold, eye-catching gift for spooky fashion lovers
-  Updated: 2025-10-16T23:53:06Z
+  Updated: 2025-10-22T02:16:18Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -2823,14 +2823,14 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/60a247fc-0d67-4f20-a043-42b48df41110.jpg?v=1760041816
     Price: $34.74 USD
 - [Moon Skull Couple Necklace](https://www.gtsstore.store/products/halloween-moon-shaped-skull-necklace-with-rhinestones-couple-love-clavicle-necklace-men-and-women-jewelry-accessories): Share spooky love under the moon! This rhinestone skull necklace symbolizes eternal connection perfect for Halloween couples who adore gothic romance. Benefits: Unique moon and skull couple design Sparkling rhinestones for elegant shine Adjustable chain for men and women Durable and comfortable for daily wear Perfect Halloween or romantic gothic gift
-  Updated: 2025-10-16T23:32:26Z
+  Updated: 2025-10-22T02:16:18Z
   Vendor: null
   Product Type: 4
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/1d14498f-6b72-4f7f-b7a9-0d3a022c3569.jpg?v=1760041826
   Price: $34.72 USD
 - [Red Bat Lace Choker Necklace](https://www.gtsstore.store/products/gothic-jewelry-red-bat-halloween-necklace-lace-choker-necklace-for-women-nightmare-before-christmas-black-layered-necklace): Unleash your dark elegance! This gothic red bat lace choker brings Nightmare Before Christmas vibes perfect for Halloween nights and bold, stylish women. Benefits: Elegant layered lace and bat design Comfortable, adjustable fit for all styles Ideal for Halloween, cosplay, or gothic fashion Durable materials for long-lasting wear Adds mysterious charm to any outfit
-  Updated: 2025-10-16T23:30:37Z
+  Updated: 2025-10-22T02:16:18Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -2860,7 +2860,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/a7171f5c-43bf-4963-ad8a-db40e8d96828.jpg?v=1760041846
     Price: $38.69 USD
 - [Retro Skull Charm Necklace](https://www.gtsstore.store/products/european-and-american-fashion-alloy-retro-necklace-foreign-trade-hot-sale-skull-charm-halloween-jewelry): Own your dark style! This European-American retro skull necklace adds bold Halloween energy perfect for fashion lovers who crave edgy, timeless charm. Benefits: Stylish retro skull charm design Made from durable, high-quality alloy Lightweight and comfortable for daily wear Perfect for Halloween or gothic fashion Great gift for bold, trendsetting individuals
-  Updated: 2025-10-16T23:24:59Z
+  Updated: 2025-10-22T02:16:18Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -2886,7 +2886,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/0b82d84f-1726-4847-b02f-368c2450fb7e.jpg?v=1760041865
     Price: $34.73 USD
 - [Luminous Pumpkin Ghost Necklace](https://www.gtsstore.store/products/halloween-ghost-festival-necklace-luminous-pumpkin-pendant-night-glowing-ghost-face-accessory-fashion-jewelry-present): Light up the night! This glowing pumpkin ghost necklace brings spooky fun and festive magic perfect for Halloween parties and late-night adventures. Benefits: Glows in the dark for eerie effect Fun pumpkin and ghost face design Lightweight and comfortable to wear Ideal for Halloween gifts or costumes Adds playful, glowing charm to any outfit
-  Updated: 2025-10-16T23:22:11Z
+  Updated: 2025-10-22T02:16:18Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -2908,14 +2908,14 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/8c6e3c0e-2d95-4ccb-a5d7-65013c5d7111.jpg?v=1760041883
     Price: $34.56 USD
 - [Silver Spider Cross Necklace](https://www.gtsstore.store/products/necklace-jewelry-pendants-cross-chain-spider-silver-color-halloween-gift-womens-short): Dare to shine in the dark! This silver spider cross necklace blends elegance with Halloween edge perfect for bold women who love mysterious style. Benefits: Unique spider and cross pendant design Durable silver-color finish for lasting shine Lightweight and comfortable to wear Perfect Halloween or gothic gift Adds edgy elegance to any outfit
-  Updated: 2025-10-16T23:18:27Z
+  Updated: 2025-10-22T02:16:19Z
   Vendor: null
   Product Type: 0
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/1619680373038.jpg?v=1760041897
   Price: $34.66 USD
 - [Pumpkin Cat Halloween Necklace](https://www.gtsstore.store/products/halloween-oil-drop-pumpkin-cat-necklace-creative-clavicle-chain-pendant-fashion-jewelry-accessories): Add a dash of spooky-cute charm! This oil-drop pumpkin cat necklace shines with creative Halloween spirit perfect for playful, fashion-forward souls. Benefits: Unique pumpkin and cat pendant design Smooth oil-drop finish with vibrant color Lightweight and comfortable for daily wear Perfect for Halloween parties or gifts Adds a fun, festive touch to any outfit
-  Updated: 2025-10-16T23:15:50Z
+  Updated: 2025-10-22T02:16:19Z
   Vendor: null
   Product Type: 4
   Availability: Available
@@ -2933,7 +2933,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/f79c0bc7-7e22-4e3a-9f07-af343f5c5ea1.jpg?v=1760041917
     Price: $34.54 USD
 - [Velvet Coffin Jewelry Box](https://www.gtsstore.store/products/velvet-coffin-ring-necklace-stud-earrings-box-halloween-spoof-jewelry-storage-box): Store your treasures in spooky style! This velvet coffin box adds a Halloween twist to jewelry storage perfect for rings, earrings, and playful décor lovers. Benefits: Soft velvet material protects jewelry Unique coffin design for Halloween vibes Compact and durable for travel or gifting Great for rings, earrings, and pendants Fun collectible or decorative display piece
-  Updated: 2025-10-16T23:13:15Z
+  Updated: 2025-10-22T02:16:19Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -2987,7 +2987,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/c0609b65-fe14-4f40-abf3-f20b30ae7bf5.jpg?v=1760041969
     Price: $38.09 USD
 - [Sterling Silver Pumpkin Necklace](https://www.gtsstore.store/products/s925-sterling-silver-drip-glue-hollow-flying-pumpkin-necklace-exquisite-halloween-jewelry): Celebrate Halloween in elegant style! This S925 silver flying pumpkin necklace with drip-glue detail shines with festive charm and exquisite craftsmanship. Benefits: Made from genuine S925 sterling silver Unique hollow flying pumpkin design Hypoallergenic and skin-friendly Perfect Halloween or seasonal gift Adds a classy spooky touch to any outfit
-  Updated: 2025-10-16T23:11:44Z
+  Updated: 2025-10-22T02:16:19Z
   Vendor: null
   Product Type: 4
   Availability: Available
@@ -3005,7 +3005,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/4734b237-cded-4447-a0e1-6b9c0478ee8f_d9f634cf-2a62-41e8-be59-cfbdccf62217.jpg?v=1760041987
     Price: $41.00 USD
 - [Funny Pumpkin Ghost Earrings](https://www.gtsstore.store/products/new-jewelry-halloween-funny-and-fun-pumpkin-ghost-exaggerated-acrylic-earrings): Bring laughter and color to spooky season! These exaggerated acrylic earrings mix Halloween humor with bold style perfect for parties and playful fashion lovers. Benefits: Bright, fun pumpkin and ghost designs Lightweight acrylic for comfy wear Perfect for Halloween parties or gifts Durable and fade-resistant print Adds cheerful, festive flair to any look
-  Updated: 2025-10-16T23:10:26Z
+  Updated: 2025-10-22T02:16:20Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -3051,14 +3051,14 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/b8a361b8-1393-4c89-9c5b-4248c4ea512e.jpg?v=1760042005
     Price: $34.57 USD
 - [Gothic Skull Crown Earrings](https://www.gtsstore.store/products/retro-exaggerated-gothic-coronation-crown-skull-earrings-halloween-gift-witch-jewelry): Rule the dark in style! These retro gothic crown skull earrings blend royal elegance with spooky charm perfect for witches, rebels, and Halloween queens. Benefits: Unique crown and skull design for bold style Lightweight and comfortable for long wear Perfect Halloween or gothic fashion gift High-quality craftsmanship with vintage detail Adds dramatic, witchy flair to any outfit
-  Updated: 2025-10-16T21:41:16Z
+  Updated: 2025-10-22T02:16:20Z
   Vendor: null
   Product Type: 0
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/ee3e15a0-4b44-418f-b563-b4aa8fb8888a.jpg?v=1760042021
   Price: $34.73 USD
 - [Cartoon Ghost & Pumpkin Earrings](https://www.gtsstore.store/products/halloween-funny-earrings-female-personality-ghost-pumpkin-bat-cartoon-jewelry): Add playful spookiness to your style! These funny Halloween earrings feature cute ghosts, pumpkins, and bats perfect for festive fun with a touch of personality. Benefits: Adorable cartoon Halloween designs Lightweight and comfortable for all-day wear Perfect for parties, gifts, or daily fun looks Durable materials with bright, lasting colors Brings festive charm and humor to any outfit
-  Updated: 2025-10-16T21:37:04Z
+  Updated: 2025-10-22T02:16:20Z
   Vendor: null
   Product Type: 4
   Availability: Available
@@ -3100,7 +3100,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/bebbbf1a-016f-476b-8d41-a973bc2d2bca.jpg?v=1760042041
     Price: $34.72 USD
 - [Chainsaw Cry Mask Pendant](https://www.gtsstore.store/products/chainsaw-cry-mask-doll-pendant-halloween-cosplay-jewelry-full-zircon-pendant): Unleash your inner horror icon! This zircon-studded Chainsaw Cry Mask pendant captures Halloween’s chilling energy bold, shiny, and made for fearless style lovers. Benefits: Eye-catching zircon-encrusted design Perfect for Halloween or cosplay looks Durable and high-quality craftsmanship Great gift for horror and jewelry fans Adds bold, spooky flair to any outfit
-  Updated: 2025-10-16T21:08:34Z
+  Updated: 2025-10-22T02:16:20Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -3114,28 +3114,28 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/307807190047.jpg?v=1760042061
     Price: $46.44 USD
 - [Silver Pentagram Gothic Earrings](https://www.gtsstore.store/products/r-gothic-pagan-jewelry-halloween-gift-earrings-silver-circle-pentagram-earrings): Embrace your dark elegance! These silver circle pentagram earrings blend gothic beauty with mystical charm perfect for Halloween or everyday alternative style. Benefits: Timeless gothic pentagram design Made from durable, high-quality metal Lightweight and comfortable to wear Perfect Halloween or witchy gift idea Adds mysterious charm to any outfit
-  Updated: 2025-10-16T20:57:20Z
+  Updated: 2025-10-22T02:16:21Z
   Vendor: null
   Product Type: 0
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/f9bd9f95-a60c-470a-9b30-380f3d5fbdbe.jpg?v=1760042075
   Price: $34.86 USD
 - [Halloween Nail Fashion Ring](https://www.gtsstore.store/products/fashion-jewelry-nail-ring-fashion-simple-ring-halloween-accessories): Show off spooky elegance! This simple yet striking nail ring adds a mysterious Halloween flair perfect for bold fashion lovers and festive statement looks. Benefits: Unique nail-style Halloween accessory Lightweight and comfortable to wear Complements any gothic or chic outfit Durable, high-quality fashion jewelry Perfect for parties, photos, and costumes
-  Updated: 2025-10-16T20:40:30Z
+  Updated: 2025-10-22T02:16:21Z
   Vendor: null
   Product Type: 0
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/1623831594215.jpg?v=1760042095
   Price: $34.30 USD
 - [Red Bat & Spider Earrings](https://www.gtsstore.store/products/halloween-earrings-ins-style-red-bat-spider-retro-earrings-jewelry): Turn heads this Halloween! These retro-inspired red bat and spider earrings add a bold, spooky-chic twist perfect for fashion lovers with a dark aesthetic. Benefits: Trendy “Ins Style” retro design Lightweight and comfortable to wear Perfect for Halloween parties or daily style High-quality craftsmanship with vivid detail Adds a spooky yet elegant touch to any outfit
-  Updated: 2025-10-16T20:38:15Z
+  Updated: 2025-10-22T02:16:21Z
   Vendor: null
   Product Type: 4
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/e206bcd1-970c-4146-aceb-007c9ba18950.jpg?v=1760042114
   Price: $38.81 USD
 - [Exaggerated Skull Halloween Bracelet](https://www.gtsstore.store/products/exaggerated-skull-human-bracelet-fashion-halloween-hand-jewelry): Make a bold statement this Halloween! This skull-themed bracelet brings edgy, gothic flair perfect for those who love daring, attention-grabbing fashion. Benefits: Unique and eye-catching skull design Durable and comfortable to wear Ideal for Halloween, cosplay, or gothic style Complements any bold fashion look Great gift for horror and fashion lovers
-  Updated: 2025-10-16T20:32:46Z
+  Updated: 2025-10-22T02:16:21Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -3153,21 +3153,21 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/6ddde513-43cf-4143-9317-c2da5697cba9.jpg?v=1760042135
     Price: $38.83 USD
 - [Acrylic Pumpkin Halloween Earrings](https://www.gtsstore.store/products/halloween-pumpkin-earrings-color-printing-acrylic-board-jewelry): Light up your spooky style! These color-printed acrylic pumpkin earrings add playful Halloween vibes fun, lightweight, and perfect for festive fashion lovers. Benefits: Bright, high-quality color printing Lightweight and comfortable for all-day wear Perfect for Halloween parties or gifts Durable acrylic for long-lasting shine Adds a fun, festive touch to any outfit
-  Updated: 2025-10-16T20:27:43Z
+  Updated: 2025-10-22T02:16:21Z
   Vendor: null
   Product Type: 0
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/f9982476-5a54-4a01-b5ea-ea86712d7ff1.jpg?v=1760042151
   Price: $38.70 USD
 - [Punk Black Witch Horn Necklace Halloween Jewelry](https://www.gtsstore.store/products/punk-black-witch-horn-necklace-halloween-jewelry): Material: Zinc Alloy Style: Punk ,Gothic,Vintage Color: Black Shape: Geometric Chain Type: Link Chain Chain Length:60 CM Weight: About 8 G Gender: Women,Men Package : Necklace x1
-  Updated: 2025-10-10T12:13:00Z
+  Updated: 2025-10-22T02:16:22Z
   Vendor: null
   Product Type: 4
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/7f9f36c6-ab55-4159-aa61-1c1a6825fc98.jpg?v=1760042173
   Price: $39.63 USD
 - [Sugar Skull Dreamcatcher Necklace](https://www.gtsstore.store/products/sugar-skull-dreamcatcher-necklace-halloween-jewelry-gift): Capture Halloween spirit with meaning! This Sugar Skull dreamcatcher necklace blends beauty and symbolism celebrating life, protection, and the magic of spooky season. Benefits: Unique fusion of skull and dreamcatcher design Perfect Halloween or Day of the Dead gift Lightweight and comfortable to wear Crafted with durable, high-quality materials Adds mystical, festive charm to any outfit
-  Updated: 2025-10-16T20:22:20Z
+  Updated: 2025-10-22T02:16:22Z
   Vendor: null
   Product Type: 4
   Availability: Available
@@ -3205,14 +3205,14 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/1ca7ab14-8dd0-425c-a8f9-b6c212cf2239.jpg?v=1760042208
     Price: $38.92 USD
 - [Pumpkin Skull Halloween Bracelet](https://www.gtsstore.store/products/halloween-bracelet-with-pumpkin-skull-ghost-funny-jewelry): Add a touch of spooky fun to your style! This Halloween bracelet with pumpkin, skull, and ghost charms brings playful fright and festive sparkle to any outfit. Benefits: Fun, eye-catching Halloween design Lightweight and comfortable to wear Perfect for parties, gifts, or costumes Durable materials for long-lasting use Adds festive charm to any Halloween look
-  Updated: 2025-10-16T20:18:52Z
+  Updated: 2025-10-22T02:16:22Z
   Vendor: null
   Product Type: 4
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/63557f23-a6c0-4b68-90f4-cf8013a5ceca.jpg?v=1760042222
   Price: $40.71 USD
 - [Punk Halloween Rubber Necklace](https://www.gtsstore.store/products/punk-style-halloween-simulation-soft-rubber-jewelry-necklace): Dare to shock and stand out! This soft rubber punk necklace adds creepy-cool energy to your Halloween look perfect for rebels who love bold, spooky fashion. Benefits: Realistic soft rubber for comfort and effect Ideal for Halloween parties or cosplay Lightweight and skin-friendly material Completes any punk or horror outfit Unique accessory that grabs attention instantly
-  Updated: 2025-10-16T20:16:13Z
+  Updated: 2025-10-22T02:16:22Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -3230,7 +3230,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/0b9ee143-137a-4da7-a928-fdc7fc4a2e8d.jpg?v=1760042248
     Price: $40.58 USD
 - [Retro Wing Halloween Earrings](https://www.gtsstore.store/products/creative-fashion-halloween-retro-wings-jewelry-earrings): Embrace your dark-side glamour! These retro wing earrings bring a bold, mysterious sparkle perfect for Halloween nights and fashion lovers with a daring twist. Benefits: Unique vintage-inspired wing design Lightweight and comfortable for all-day wear Perfect for Halloween parties or cosplay High-quality craftsmanship with lasting shine Adds a mysterious, stylish edge to any look
-  Updated: 2025-10-16T20:14:53Z
+  Updated: 2025-10-22T02:16:23Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -3244,14 +3244,14 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/82350819-2ead-4067-9c9c-92c07063914b.jpg?v=1760042263
     Price: $38.69 USD
 - [Sterling Silver Demon Necklace](https://www.gtsstore.store/products/sterling-silver-demon-necklace-halloween-jewelry): Unleash your dark elegance this Halloween. This sterling silver demon necklace blends mystery and charm perfect for those who dare to stand out in style. Benefits: Made from premium sterling silver Hypoallergenic and skin-friendly Perfect Halloween or gothic accessory Durable, tarnish-resistant craftsmanship Adds a bold, mysterious touch to any outfit
-  Updated: 2025-10-16T20:13:51Z
+  Updated: 2025-10-22T02:16:23Z
   Vendor: null
   Product Type: 0
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/d8821479-ec35-408e-b3cc-caa13d4aa1a0.jpg?v=1760042272
   Price: $44.53 USD
 - [DIY Halloween Bat Pendant Kit](https://www.gtsstore.store/products/halloween-bat-jewelry-diy-pendant): Create your own eerie elegance! This DIY bat jewelry kit lets you craft spooky-chic pendants that capture the spirit of Halloween with every shimmer and charm. Benefits: Easy and fun to assemble Perfect for Halloween lovers and crafters Unique handmade jewelry piece Great for gifts or costume accessories Encourages creativity and personal style
-  Updated: 2025-10-16T20:11:14Z
+  Updated: 2025-10-22T02:16:23Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -3281,7 +3281,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/20469618-7c29-4b27-94d4-ba545dee37a8.jpg?v=1760042299
     Price: $38.06 USD
 - [Halloween DIY Heat Transfer Ribbon](https://www.gtsstore.store/products/halloween-handmade-diy-heat-transfer-ribbon-ribbon): Add spooky charm to your crafts! This handmade heat transfer ribbon lets you personalize Halloween décor, costumes, and gifts with festive, creative flair. Benefits: Easy to apply with heat press or iron Perfect for DIY costumes, bags, and décor Durable, vibrant, and fade-resistant designs Ideal for crafters and Halloween lovers Turns any project into a festive masterpiece
-  Updated: 2025-10-16T20:08:16Z
+  Updated: 2025-10-22T02:16:23Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -3347,21 +3347,21 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/8d6c1695-9d67-498b-b015-1df9d3d319e2.jpg?v=1760042543
     Price: $37.07 USD
 - [Mysterious Halloween Skull Series Beaded Diy Bracelet](https://www.gtsstore.store/products/mysterious-halloween-skull-series-beaded-diy-bracelet): Product information: Type: diy ornament accessories Treatment Process: oxidation Color: BSC1060,BSC1061,BSC1062,BSC1063,BSC1064 Material: Silver Purity: 925 silver Style: Personality Packing list: Scattered beads*1 Product Image:
-  Updated: 2025-10-10T08:42:50Z
+  Updated: 2025-10-22T02:16:24Z
   Vendor: null
   Product Type: 0
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/4a2d8659-e8f3-4412-bc4b-c5e56f6ee4ef_fine.jpg?v=1760042565
   Price: $40.70 USD
 - [Festive DIY Embroidery Kit](https://www.gtsstore.store/products/diy-embroidery-material-package-christmas-halloween-beginner): Bring holiday magic to life! This beginner-friendly embroidery kit lets you stitch cozy Christmas and Halloween designs relaxing, creative, and full of festive joy. Benefits: Perfect for beginners and hobbyists Includes all essential embroidery materials Great for stress relief and creativity Ideal handmade gift for festive seasons Creates charming Christmas & Halloween décor
-  Updated: 2025-10-16T20:05:50Z
+  Updated: 2025-10-22T02:16:24Z
   Vendor: null
   Product Type: 0
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/a66a1e06-4772-4786-a77c-c9f6da125be5_fine.jpg?v=1760042589
   Price: $37.67 USD
 - [Glow-in-the-Dark Nail Stickers](https://www.gtsstore.store/products/new-halloween-luminous-baking-free-gel-nail-stickers): Shine through spooky nights with these luminous, baking-free gel nail stickers easy to apply, hauntingly beautiful, and perfect for Halloween glam in minutes! Benefits: Glows brilliantly in the dark No baking or drying needed Long-lasting and chip-resistant Safe, non-toxic, and gentle on nails Perfect for Halloween parties or cosplay looks
-  Updated: 2025-10-16T20:04:16Z
+  Updated: 2025-10-22T02:16:24Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -3391,21 +3391,21 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/df2213eb-5367-4ccd-8b98-7e0d9d96b711_trans.jpg?v=1760042623
     Price: $37.45 USD
 - [gtuikl;l/](https://www.gtsstore.store/products/robotime-diy-miniature-dollhouse-kits-yum-burgers-with-led-building-craft-dw010): ROBOTIME DIY Miniature Dollhouse Kits Yum Burgers with LED Building Craft CHARACTERISTICS: Product Name: ROBOTIME DIY Miniature Dollhouse Kits Yum Burgers with LED Building Craft Theme: Yum Burgers Pieces Quality: 110 Pieces Difficulty level: ⭐⭐⭐ Approximate assembling time : 3 hours Self-assembly w ...
-  Updated: 2025-10-16T20:02:22Z
+  Updated: 2025-10-22T02:16:24Z
   Vendor: null
   Product Type: 5
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/1859498950403559424.jpg?v=1760042639
   Price: $69.00 USD
 - [fgjkuligyucxds](https://www.gtsstore.store/products/halloween-armored-ghost-face-ghost-blood-drop): Product Details: Color: BKS1885 blood drop ghost [jelly glue + file] Style: wearable, European square Pattern: cross, cartoon Applicable people: women Package Contents: Nail X24pcs +Jelly glue+filings
-  Updated: 2025-10-15T10:29:53Z
+  Updated: 2025-10-22T02:16:24Z
   Vendor: null
   Product Type: 0
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/5e3705c5-ec39-4200-8788-845c9f5b064b.jpg?v=1760042685
   Price: $36.99 USD
 - [zzdfghjkl;'](https://www.gtsstore.store/products/scream-ghost-face-halloween-wear-armor-advanced): Product information: Pattern: Bow, butterfly, XINGX Color classification: glue type, Kit type Material: Plastic Packing list: 24 tablets of nail polish 1 gram of glue per piece Product Image:
-  Updated: 2025-10-16T19:57:58Z
+  Updated: 2025-10-22T02:16:25Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -3419,7 +3419,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/e2ac03c6-d626-4658-b800-807cd1002dcb.jpg?v=1760042713
     Price: $36.80 USD
 - [fghjkl;';lkjhgfd](https://www.gtsstore.store/products/5d-diy-diamond-painting-stickers-kits-for-kid-christmas-picture-stickers-kits-crafts-set-mobile-phone-cup-diamond-sticker): Overview: 100%Brand new and high quality. DIY children round diamond sticker. Can improve children's hands-on ability,coordination,and enhance the perception of color. You need to do it yourself,all the accessories are complete. Being a good DIY parent-child art activities. Good for kids decorations ...
-  Updated: 2025-10-16T19:56:25Z
+  Updated: 2025-10-22T02:16:25Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -3433,7 +3433,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/4645908716498_364a7305-379a-467e-a6a5-672f56bc9a2a.jpg?v=1760042728
     Price: $37.66 USD
 - [rtjkl;tyuiopjkl](https://www.gtsstore.store/products/halloween-diy-decoration-lamp-pumpkin-head): Product information: Material: Acrylic Size: BJD401 BJD402, BJD501 BJD502, BJD503 Process: Manual Category: Diamond Painting Style: Simple Space: Living room, bedroom, study, outdoor, dining room, porch, balcony, commercial space Packing list: Acrylic point drill board/light string/screw isolation c ...
-  Updated: 2025-10-15T10:24:09Z
+  Updated: 2025-10-22T02:16:25Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -3459,14 +3459,14 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/6d182d51-6081-44bb-a02c-f197bd3a4174.jpg?v=1760042750
     Price: $40.53 USD
 - [fghjkl](https://www.gtsstore.store/products/halloween-pumpkin-cartoon-fake-nail-patch): Product information: Pattern: Cartoon Color: Y063 fun pumpkin [Jelly Glue terms]] Style: European and American Packing list: Plastic nail patch * 1set Product Image:
-  Updated: 2025-10-15T10:21:59Z
+  Updated: 2025-10-22T02:16:25Z
   Vendor: null
   Product Type: 0
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/72015a36-0604-484d-a669-ac64e47011a4.jpg?v=1760042766
   Price: $36.64 USD
 - [xzxdfghjk](https://www.gtsstore.store/products/womens-halloween-handmade-wear-nail-patch): Product information: Pattern: Flowers Color: long K031 Applicable people: Ladies, general, ordinary people Size: XS,S,M,L Style: Wearable Material: Plastic Packing list: Manicure *1set Product Image:
-  Updated: 2025-10-15T10:21:24Z
+  Updated: 2025-10-22T02:16:26Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -3488,7 +3488,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/971a6f94-d080-4891-8563-934eced85f76.jpg?v=1760042787
     Price: $39.85 USD
 - [tyuiolugikytrere](https://www.gtsstore.store/products/halloween-diy-ornament-accessories-dripping-owl): Product information: Type: diy ornament accessories Treatment Process: Electroplating Color: 1,2,3 Material: zinc alloy Size: Large Popular elements: Owl Style: dark style Packing list: Pendant *1 Product Image:
-  Updated: 2025-10-15T10:17:01Z
+  Updated: 2025-10-22T02:16:26Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -3506,7 +3506,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/5eabc6db-3fb6-4f2d-82fb-6822c8dd77ff.jpg?v=1760042800
     Price: $36.99 USD
 - [kgfdszasdfgjkl;](https://www.gtsstore.store/products/luminous-halloween-series-christmas-nail-stickers): Product information: Pattern: Shell, butterfly, embossed Applicable people: Ladies Specifications:ZE347,ZE348,ZE349,ZE350,ZE351,ZE353,ZE354,ZE355,ZE356,ZE357,ZE484,ZE485,ZE486,ZE487,ZE488,ZE489,ZE490,ZE491,ZE493,ZE494,ZE495,ZE496,ZE497,ZE498,ZE499,ZE500,ZE501,ZE502,ZE503,ZE504,ZE505,ZE506,ZE507,ZE50 ...
-  Updated: 2025-10-15T10:15:39Z
+  Updated: 2025-10-22T02:16:26Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -3672,7 +3672,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/15af2a06-e4ad-4209-a068-596fd0a319e6.jpg?v=1760042855
     Price: $36.66 USD
 - [=-0i9u8ytr](https://www.gtsstore.store/products/halloween-diy-embroidery-material-bag): Product information: Name: Halloween Embroidery Material Bag Embroidery cloth size: 30 * 30cm Embroidery shed size: diameter 20cm Production time: 6-8 hours Material: cotton cloth Pattern: Flowers/Grass/Leaves Cross stitch category: set Size: Material bag+bamboo like embroidery Space: living room, b ...
-  Updated: 2025-10-15T10:14:48Z
+  Updated: 2025-10-22T02:16:26Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -3702,7 +3702,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/f14d6e15-a5d8-4a94-91d4-346769fb8fb9.jpg?v=1760042892
     Price: $37.57 USD
 - [Halloween Alloy Skull Nail Ornament](https://www.gtsstore.store/products/halloween-alloy-skull-nail-ornament): Product information: Pattern: Cross Specifications: 1#, 2#, and 3# Series: Halloween Material: Metal Style: affordable luxury style, ins style Packing list: Nail ornament * 1set Product Image:
-  Updated: 2025-10-10T08:48:39Z
+  Updated: 2025-10-22T02:16:26Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -3720,14 +3720,14 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/c9c66802-9ca9-488b-8471-07df5b0e1bf1.jpg?v=1760042927
     Price: $37.78 USD
 - [ROBOTIME DIY Miniature House Kit Magic Study Craft Model Kits](https://www.gtsstore.store/products/robotime-diy-miniature-house-kit-magic-study-craft-model-kits): ROBOTIME DIY Miniature House Kit Magic Study Craft Model Kits for Adult to Build CHARACTERISTICS: Product Name: ROBOTIME DIY Miniature House Kit Magic Study Craft Model Kits for Adult to Build Theme: Magic Study Difficulty level: ⭐⭐⭐⭐ Approximate assembling time :5 hours Self-assembly without glue Age: 14+ Model size: 13 x 19 x 21 cm; 1 kg Product description 【Unique Illuminous Magic Study Theme】Rolife DIY miniature house kit Magic Study features detailed items like cauldrons, spellbooks, and crystal balls, creating a mystic atmosphere that evokes the awakening of dormant magic. The inclusion of an LED light (batteries not included) enhances the enchanting ambiance, making this a dedicated space for alchemy and divination. ️【Enjoy Assembly Fun】With a 5-hour assembly time, the interlocking structure and pre-finished components simplify the process, offering a stress-free experience suitable for DIY craft lovers. Final assembled size: 21x13x19cm. 【Premium Materials & Craftsmanship】Rolife model kits are crafted from wood with an interlocking structure, ensuring exceptional spatial aesthetics. Detailed printed flooring and pre-marked decorative sheets require no cutting, providing a high-quality finish that seamlessly blends fantasy with reality. 【Perfect Gift Choice】The enchanting magic theme makes it an ideal gift for craft lovers and collectors. Whether for Christmas, birthdays, or other special occasions, its exquisite content enhances its uniqueness, creating a thoughtful present that transports the recipient into a magical world. 【Practical and Aesthetic Decor】This detailed DIY miniature house kit is not just decorative; it's functional too. The intricate design, including vintage bookshelves and magical props, makes it a captivating centerpiece, enhancing the artistic vibe of any space. Package Include: 1*3D wooden puzzle（Battery not included） 1*English instruction sheet Shipping Policy 1. Generally, products are shipped out within 1-3 days, and the transportation time is approximately 3-5 working days 2. Sent from China, the usual shipping time is 10-12 days Returns Policy If you receive an item you did not order or if an item you ordered is received damaged or defective, we will refund you the price you paid for it or replace it with identical one. Tips: Our products are not supported for sale in Amazon Temu eBay Walmart AliExpress
-  Updated: 2025-10-10T08:49:05Z
+  Updated: 2025-10-22T02:16:27Z
   Vendor: null
   Product Type: 5
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/f8323e50-ae8b-4351-b60d-9f9b4e5668b5.jpg?v=1760042940
   Price: $65.99 USD
 - [Child On A Beach - Diy Painting By Numbers Kits](https://www.gtsstore.store/products/child-on-a-beach-diy-painting-by-numbers-kits): Product information: Material: cloth, other product information: Category: DIY painting Material: Linen Custom processing: Yes Visual effect: plane Production method: pure hand-painted Packing list: Digital painting x1
-  Updated: 2025-10-10T08:49:28Z
+  Updated: 2025-10-22T02:16:27Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -3749,21 +3749,21 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/1623316165499_cc65d4dc-8ee7-4230-bfa7-68e8a0d838ea.jpg?v=1760042971
     Price: $44.69 USD
 - [Cute Little Village - DIY Painting By Numbers Kits](https://www.gtsstore.store/products/cute-little-village-diy-painting-by-numbers-kits): Oil painting type: digital oil painting Color Classification: 1616 Italian Street View Town Size: Frameless 40X50CM Why Paint By Numbers? FANTASTIC BONDING ACTIVITY - Spend a night in with family or friends to create your own beautiful piece of art to share. DIY HOME DECORATION - Create your own wall art, even with zero artistic ability. That empty wall could do with some art anyway, right? PERFECT GIFT - This makes for thoughtful gift for that is hard not to enjoy, perfect for Mother's day or a birthday. RELAX - Take your mind off anxieties of the day. Skip high cost therapy, and use paint by numbers to ease your tensions. Breakthrough research shows that creative activities like coloring and painting can reduce stress.
-  Updated: 2025-10-10T08:49:52Z
+  Updated: 2025-10-22T02:16:27Z
   Vendor: null
   Product Type: 0
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/1141179244200.jpg?v=1760042987
   Price: $37.85 USD
 - [Bridge Of Faith - DIY Painting By Numbers Kits](https://www.gtsstore.store/products/bridge-of-faith-diy-painting-by-numbers-kits): Product Information: What's in the package: 1x numbered acrylic paint set 1x pre-printed numbered high quality canvas 1x set of 3 brushes (1x small, 1x medium, 1x large) 1 set of easy-to-follow instructions Required skills: Ability to color within lines Ability to color outside of the line Packing list: Digital Painting *1
-  Updated: 2025-10-10T08:50:14Z
+  Updated: 2025-10-22T02:16:28Z
   Vendor: null
   Product Type: 0
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/1623122541603.jpg?v=1760043009
   Price: $39.83 USD
 - [Bicycle Garden - DIY Painting By Numbers Kits](https://www.gtsstore.store/products/bicycle-garden-diy-painting-by-numbers-kits): Product Information: FANTASTIC BONDING ACTIVITY - Spend a night in with family or friends to create your own beautiful piece of art to share. DIY HOME DECORATION - Create your own wall art, even with zero artistic ability. That empty wall could do with some art anyway PERFECT GIFT - This makes for thoughtful gift for that is hard not to enjoy, perfect for Mother's day or a birthday. RELAX - Take your mind off anxieties of the day. Skip high cost therapy, and use paint by numbers to ease your tensions. Breakthrough research shows that creative activities like coloring and painting can reduce stress. Packing List: Digital oil painting*1
-  Updated: 2025-10-10T08:50:33Z
+  Updated: 2025-10-22T02:16:28Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -3781,7 +3781,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/1623048885010_39860f0b-6e56-45ce-b95b-0518e4aee2a6.jpg?v=1760043039
     Price: $46.69 USD
 - [Lost My Heart  DIY Painting By Numbers Kits](https://www.gtsstore.store/products/lost-my-heart-diy-painting-by-numbers-kits): Product information: Material: Non-woven fabric Style: modern and simple Features: pure hand-painted Colour: Picture color Packing list: Digital Painting*1 Product Image:
-  Updated: 2025-10-10T08:50:56Z
+  Updated: 2025-10-22T02:16:28Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -3799,7 +3799,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/d2aedb7b-f816-4023-bd58-6a68ced59a89_2eb6e07e-1cf7-43c0-85a8-86589569cb8d.jpg?v=1760043060
     Price: $46.69 USD
 - [Beach Day - Diy Painting By Numbers Kits](https://www.gtsstore.store/products/beach-day-diy-painting-by-numbers-kits): Product information: Image: Landscape Material: Linen Custom processing: Yes Visual effects: plane Subject: Landscape Painting Style: American Size Information: 40*50cm 50*65cm 60*75cm Packing list Painting*1 Photo
-  Updated: 2025-10-10T08:51:15Z
+  Updated: 2025-10-22T02:16:28Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -3817,7 +3817,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/1622865285172_bbce8123-958a-44f4-9d37-160975f64d45.jpg?v=1760043077
     Price: $46.69 USD
 - [Colorful City - DIY Painting By Numbers Kits](https://www.gtsstore.store/products/colorful-city-diy-painting-by-numbers-kits): Product Information： Material: Linen Visual effects: plane Production method: pure hand-painted Packing list: Canvas + brush 3 + paint + hook + renderings
-  Updated: 2025-10-10T08:51:36Z
+  Updated: 2025-10-22T02:16:28Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -3835,7 +3835,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/1623664235323_c331ae2c-f526-4334-89f8-a9c8dc7eaef0.jpg?v=1760043097
     Price: $45.93 USD
 - [DIY Embroidery Practice Kits](https://www.gtsstore.store/products/diy-embroidery-practice-kits): Style: pastoral Material: cotton and linen Pattern: flowers / grass / leaves Cross stitch category: Kit Cross stitch cloth CT number: Other CT Embroidery type: Other embroidery Applicable space: living room Color: years like song (non-finished products) 20*20cm-send bamboo embroidery stretch, rush that year (non-finished products) 20*20cm-send bamboo embroidery stretch, love in spring (non-finished products) 20*20cm-send bamboo embroidery stretch Size: 20*20
-  Updated: 2025-10-10T08:51:59Z
+  Updated: 2025-10-22T02:16:29Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -3856,19 +3856,19 @@ Welcome to GTS Beauty store
 ## Collections
 
 - [Halloween DIY &Caft kits](https://www.gtsstore.store/collections/halloween-diy-caft-kits): Halloween DIY & Craft Kits – Unleash Your Spooky Creativity! 👻🧙♀️ Bring the Halloween spirit to life with our DIY & Craft Kits, perfect for kids, families, and craft lovers! Each kit is packed with everything you need to create spooky, fun, and colorful Halloween decorations — from creepy pumpkins and ghost garlands to monster masks and haunted house crafts. Made with safe, high-quality materials, these kits inspire imagination, bonding, and hours of creative fun. Whether you’re decorating your home, hosting a Halloween party, or looking for a festive activity for kids, these craft kits make the perfect choice. ✅ What’s Inside: Pre-cut craft materials (foam, stickers, strings & more) Easy step-by-step instructions Fun Halloween designs (pumpkins, bats, ghosts, spiders & more) Safe for children and beginner-friendly 🎃 Perfect for:Family fun • Class projects • Party favors • Home decorations Let your imagination run wild this Halloween — create, decorate, and celebrate spooky season in style!
-  Updated: 2025-10-16T08:07:54Z
+  Updated: 2025-10-22T02:15:56Z
   Total Products: 24
 - [Halloween Jewelry](https://www.gtsstore.store/collections/halloween-jewelry): Halloween Jewelry – Spooky, Stylish & Stunning ✨🕸️ Add a touch of spooky sparkle to your look with our Halloween Jewelry Collection! Perfect for parties, trick-or-treat events, or simply showing your Halloween spirit, each piece is designed to blend style, fun, and festive charm. From glittering pumpkin earrings and skull necklaces to spiderweb bracelets and ghost charms, every accessory is crafted with high-quality materials for comfort and durability. Whether you prefer something cute, creepy, or classy, these pieces will complete your Halloween outfit with a statement! ✅ Features: Unique Halloween-inspired designs 🎃🕷️👻 Lightweight & comfortable for all-day wear Durable, hypoallergenic materials Perfect for costumes, parties, or gifts 🖤 Style Tip: Pair them with your favorite costume or casual outfit to instantly stand out this spooky season!
-  Updated: 2025-10-16T12:01:55Z
+  Updated: 2025-10-22T02:15:56Z
   Total Products: 29
 - [Made for Christmas](https://www.gtsstore.store/collections/made-for-christmas): Christmas Jewelry – Sparkle with Holiday Magic ✨🎅 Celebrate the season in style with our Christmas Jewelry Collection, designed to add a festive touch to every outfit! From dazzling snowflake earrings and Santa charm bracelets to reindeer necklaces and crystal Christmas tree pendants, each piece captures the joy and sparkle of the holidays. Crafted with premium materials and attention to detail, these pieces are lightweight, durable, and hypoallergenic, making them perfect for both everyday wear and special holiday occasions. Whether you’re gifting a loved one or completing your Christmas party look, our jewelry brings warmth, elegance, and cheer to the most wonderful time of the year. ✅ Features: Festive Christmas-themed designs 🎄✨ High-quality, skin-friendly materials Lightweight and comfortable to wear Perfect for gifts, parties, or daily holiday style 🎁 Perfect Gift Idea: Surprise someone special with a piece that shines as bright as their holiday spirit!
-  Updated: 2025-10-17T15:23:56Z
+  Updated: 2025-10-22T02:15:56Z
   Total Products: 37
 - [Halloween Decoration](https://www.gtsstore.store/collections/halloween-decoration): Halloween Decorations – Turn Your Space into a Spooky Wonderland 👻🕸️ Transform your home, office, or party space into a haunted masterpiece with our Halloween Decorations Collection! From eerie lighting and creepy wall hangings to lifelike spiders, pumpkins, and ghostly props, every item is crafted to bring the perfect balance of fright and fun to your celebration. Whether you’re planning a full-on haunted house or just adding a few festive touches, our decorations are durable, reusable, and easy to set up. Designed for both indoor and outdoor use, they create an unforgettable Halloween atmosphere that guests will love and kids will never forget. ✅ Features: Wide variety of spooky designs: ghosts, bats, pumpkins & more 🎃 Easy setup & reusable materials Perfect for homes, schools, offices & parties Suitable for indoor and outdoor decorating Lightweight, durable, and weather-resistant 💀 Perfect For:Haunted houses • Trick-or-treat setups • Halloween parties • Photo backdrops Make your space come alive this Halloween — spooky, stylish, and full of spirit! 🕯️✨
-  Updated: 2025-10-16T07:37:38Z
+  Updated: 2025-10-22T02:15:56Z
   Total Products: 30
 - [Halloween Costume](https://www.gtsstore.store/collections/halloween-costume): Halloween Costumes – Dress to Thrill This Spooky Season 👻✨ Step into the spirit of Halloween with our exclusive costume collection, designed to make you the center of attention at any party or event! From scary vampires and wicked witches to cute pumpkins and funny monsters, our costumes bring your favorite Halloween characters to life with comfort and style. Each costume is made from high-quality, breathable materials that ensure a perfect fit and all-night comfort. Whether you’re looking for something spooky, silly, or stylish, we’ve got the perfect outfit for men, women, and kids alike. ✅ Features: Wide variety of spooky & fun designs 🎭 Comfortable, durable, and easy to wear Available in multiple sizes for all ages Perfect for parties, trick-or-treating & themed events Made with quality fabrics and detailed craftsmanship 🕸️ Perfect For:Halloween parties • Family events • School functions • Cosplay • Photoshoots Dress up, stand out, and make unforgettable memories this Halloween! 🧙♂️🎃
-  Updated: 2025-10-16T07:38:31Z
+  Updated: 2025-10-22T02:15:56Z
   Total Products: 24
 
 ## Store Pages
@@ -3879,6 +3879,14 @@ Welcome to GTS Beauty store
   Updated: 2025-06-28T02:42:59Z
 - [Review Submission](https://www.gtsstore.store/pages/review-submission)
   Updated: 2025-07-25T09:50:38Z
+- [Product Sitemap](https://www.gtsstore.store/pages/product-sitemap): Product Cosplay Anime Costume Halloween Clothing Children's Halloween Costume Pumpkin Cloak Halloween Party Costume Woman Halloween adult masquerad...
+  Updated: 2025-10-22T02:10:51Z
+- [Collection Sitemap](https://www.gtsstore.store/pages/collection-sitemap): Collection Halloween DIY &Caft kits Halloween Jewelry Made for Christmas Halloween Decoration Halloween Costume
+  Updated: 2025-10-22T02:10:51Z
+- [Blog Sitemap](https://www.gtsstore.store/pages/blog-sitemap): Blog News
+  Updated: 2025-10-22T02:10:52Z
+- [Sitemap](https://www.gtsstore.store/pages/sitemap): Product Cosplay Anime Costume Halloween Clothing Children's Halloween Costume Pumpkin Cloak Halloween Party Costume Woman Halloween adult masquerad...
+  Updated: 2025-10-22T02:10:52Z
 
 ## Policies
 
