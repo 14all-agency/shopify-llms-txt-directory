@@ -6,43 +6,43 @@
 - Timezone: Asia/Kolkata
 - Created At: 2023-05-03T12:56:46Z
 - Contact Email: bluenixiein23@gmail.com
-- Updated At: 2025-10-21T13:59:31.800Z
+- Updated At: 2025-10-22T00:00:42.021Z
 
 ## Products
 
 - [Bluenixie BN2514_Teesta C & D Cups Cotton Rich Full Coverage T-Shirt Bra](https://bluenixie.com/products/full-coverage-t-shirt-bra): Made of cotton rich pleated fabric in full coverage design. Broad shoulder straps for better support. 30mm broad under bust belt for better grip. 3x3 57mm eye hook for max support. Removable straps options available.
-  Updated: 2025-10-08T14:50:41Z
+  Updated: 2025-10-21T14:30:06Z
   Vendor: Blue Nixie
   Product Type: Full coverage bra
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2514PEACH_1.jpg?v=1687335027
+  Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2514PEACH_1.jpg?v=1761056911
   - [32C / White](https://bluenixie.com/products/full-coverage-t-shirt-bra?variant=45196481102138)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/products/2154WHITE_3.jpg?v=1687335502
+    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/products/2154WHITE_3.jpg?v=1761056933
     Price: ₹460.00 INR
   - [32C / Black](https://bluenixie.com/products/full-coverage-t-shirt-bra?variant=45268819640634)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2514BLACK_1.jpg?v=1687336070
+    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2514BLACK_1.jpg?v=1761056962
     Price: ₹460.00 INR
   - [32C / Nude Skin](https://bluenixie.com/products/full-coverage-t-shirt-bra?variant=45268819673402)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/products/BN2514N.SKIN_3.jpg?v=1687335392
+    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/products/BN2514N.SKIN_3.jpg?v=1761056922
     Price: ₹460.00 INR
   - [32C / Maroon](https://bluenixie.com/products/full-coverage-t-shirt-bra?variant=45269414412602)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BN2514-R-1.png?v=1689678716
+    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BN2514-R-1.png?v=1761056997
     Price: ₹460.00 INR
   - [32C / Wine](https://bluenixie.com/products/full-coverage-t-shirt-bra?variant=45269414445370)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/products/2514PURPLE_6.jpg?v=1687336812
+    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/products/2514PURPLE_6.jpg?v=1761056976
     Price: ₹460.00 INR
   - [32C / Coral](https://bluenixie.com/products/full-coverage-t-shirt-bra?variant=45414737477946)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2514PEACH_2.jpg?v=1687335028
+    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2514PEACH_2.jpg?v=1761056915
     Price: ₹460.00 INR
   - [32C / Teal](https://bluenixie.com/products/full-coverage-t-shirt-bra?variant=51254936469818)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2514_BLUE_2.jpg?v=1746445258
+    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2514_BLUE_2.jpg?v=1761056998
     Price: ₹460.00 INR
   - [32C / Grey](https://bluenixie.com/products/full-coverage-t-shirt-bra?variant=51254936502586)
     Availability: Not Available
@@ -50,31 +50,31 @@
     Price: ₹460.00 INR
   - [34C / White](https://bluenixie.com/products/full-coverage-t-shirt-bra?variant=45196481200442)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/products/2154WHITE_3.jpg?v=1687335502
+    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/products/2154WHITE_3.jpg?v=1761056933
     Price: ₹460.00 INR
   - [34C / Black](https://bluenixie.com/products/full-coverage-t-shirt-bra?variant=45268819771706)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2514BLACK_1.jpg?v=1687336070
+    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2514BLACK_1.jpg?v=1761056962
     Price: ₹460.00 INR
   - [34C / Nude Skin](https://bluenixie.com/products/full-coverage-t-shirt-bra?variant=45268819804474)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/products/BN2514N.SKIN_3.jpg?v=1687335392
+    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/products/BN2514N.SKIN_3.jpg?v=1761056922
     Price: ₹460.00 INR
   - [34C / Maroon](https://bluenixie.com/products/full-coverage-t-shirt-bra?variant=45269414674746)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BN2514-R-1.png?v=1689678716
+    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BN2514-R-1.png?v=1761056997
     Price: ₹460.00 INR
   - [34C / Wine](https://bluenixie.com/products/full-coverage-t-shirt-bra?variant=45269414707514)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/products/2514PURPLE_1.jpg?v=1687336812
+    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/products/2514PURPLE_1.jpg?v=1761056968
     Price: ₹460.00 INR
   - [34C / Coral](https://bluenixie.com/products/full-coverage-t-shirt-bra?variant=45412499358010)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2514PEACH_2.jpg?v=1687335028
+    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2514PEACH_2.jpg?v=1761056915
     Price: ₹460.00 INR
   - [34C / Teal](https://bluenixie.com/products/full-coverage-t-shirt-bra?variant=51254936535354)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2514_BLUE_2.jpg?v=1746445258
+    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2514_BLUE_2.jpg?v=1761056998
     Price: ₹460.00 INR
   - [34C / Grey](https://bluenixie.com/products/full-coverage-t-shirt-bra?variant=51254936568122)
     Availability: Not Available
@@ -82,31 +82,31 @@
     Price: ₹460.00 INR
   - [36C / White](https://bluenixie.com/products/full-coverage-t-shirt-bra?variant=45196481298746)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/products/2154WHITE_3.jpg?v=1687335502
+    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/products/2154WHITE_3.jpg?v=1761056933
     Price: ₹460.00 INR
   - [36C / Black](https://bluenixie.com/products/full-coverage-t-shirt-bra?variant=45268819902778)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2514BLACK_1.jpg?v=1687336070
+    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2514BLACK_1.jpg?v=1761056962
     Price: ₹460.00 INR
   - [36C / Nude Skin](https://bluenixie.com/products/full-coverage-t-shirt-bra?variant=45268819935546)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/products/BN2514N.SKIN_3.jpg?v=1687335392
+    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/products/BN2514N.SKIN_3.jpg?v=1761056922
     Price: ₹460.00 INR
   - [36C / Maroon](https://bluenixie.com/products/full-coverage-t-shirt-bra?variant=45269414936890)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BN2514-R-1.png?v=1689678716
+    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BN2514-R-1.png?v=1761056997
     Price: ₹460.00 INR
   - [36C / Wine](https://bluenixie.com/products/full-coverage-t-shirt-bra?variant=45269414969658)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2514PURPLE_1.jpg?v=1687335909
+    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2514PURPLE_1.jpg?v=1761056951
     Price: ₹460.00 INR
   - [36C / Coral](https://bluenixie.com/products/full-coverage-t-shirt-bra?variant=45412499390778)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2514PEACH_2.jpg?v=1687335028
+    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2514PEACH_2.jpg?v=1761056915
     Price: ₹460.00 INR
   - [36C / Teal](https://bluenixie.com/products/full-coverage-t-shirt-bra?variant=51254936600890)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2514_BLUE_2.jpg?v=1746445258
+    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2514_BLUE_2.jpg?v=1761056998
     Price: ₹460.00 INR
   - [36C / Grey](https://bluenixie.com/products/full-coverage-t-shirt-bra?variant=51254936633658)
     Availability: Not Available
@@ -114,31 +114,31 @@
     Price: ₹460.00 INR
   - [38C / White](https://bluenixie.com/products/full-coverage-t-shirt-bra?variant=45196481397050)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/products/2154WHITE_3.jpg?v=1687335502
+    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/products/2154WHITE_3.jpg?v=1761056933
     Price: ₹460.00 INR
   - [38C / Black](https://bluenixie.com/products/full-coverage-t-shirt-bra?variant=45268820033850)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2514BLACK_1.jpg?v=1687336070
+    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2514BLACK_1.jpg?v=1761056962
     Price: ₹460.00 INR
   - [38C / Nude Skin](https://bluenixie.com/products/full-coverage-t-shirt-bra?variant=45268820066618)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/products/BN2514N.SKIN_3.jpg?v=1687335392
+    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/products/BN2514N.SKIN_3.jpg?v=1761056922
     Price: ₹460.00 INR
   - [38C / Maroon](https://bluenixie.com/products/full-coverage-t-shirt-bra?variant=45269415199034)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BN2514-R-1.png?v=1689678716
+    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BN2514-R-1.png?v=1761056997
     Price: ₹460.00 INR
   - [38C / Wine](https://bluenixie.com/products/full-coverage-t-shirt-bra?variant=45269415231802)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2514PURPLE_1.jpg?v=1687335909
+    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2514PURPLE_1.jpg?v=1761056951
     Price: ₹460.00 INR
   - [38C / Coral](https://bluenixie.com/products/full-coverage-t-shirt-bra?variant=45412499423546)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2514PEACH_2.jpg?v=1687335028
+    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2514PEACH_2.jpg?v=1761056915
     Price: ₹460.00 INR
   - [38C / Teal](https://bluenixie.com/products/full-coverage-t-shirt-bra?variant=51254936666426)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2514_BLUE_2.jpg?v=1746445258
+    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2514_BLUE_2.jpg?v=1761056998
     Price: ₹460.00 INR
   - [38C / Grey](https://bluenixie.com/products/full-coverage-t-shirt-bra?variant=51254936699194)
     Availability: Not Available
@@ -146,31 +146,31 @@
     Price: ₹460.00 INR
   - [40C / White](https://bluenixie.com/products/full-coverage-t-shirt-bra?variant=45196481495354)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/products/2154WHITE_3.jpg?v=1687335502
+    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/products/2154WHITE_3.jpg?v=1761056933
     Price: ₹475.00 INR
   - [40C / Black](https://bluenixie.com/products/full-coverage-t-shirt-bra?variant=45268820164922)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2514BLACK_1.jpg?v=1687336070
+    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2514BLACK_1.jpg?v=1761056962
     Price: ₹475.00 INR
   - [40C / Nude Skin](https://bluenixie.com/products/full-coverage-t-shirt-bra?variant=45268820197690)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/products/BN2514N.SKIN_3.jpg?v=1687335392
+    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/products/BN2514N.SKIN_3.jpg?v=1761056922
     Price: ₹475.00 INR
   - [40C / Maroon](https://bluenixie.com/products/full-coverage-t-shirt-bra?variant=45269415461178)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BN2514-R-1.png?v=1689678716
+    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BN2514-R-1.png?v=1761056997
     Price: ₹475.00 INR
   - [40C / Wine](https://bluenixie.com/products/full-coverage-t-shirt-bra?variant=45269415493946)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2514PURPLE_1.jpg?v=1687335909
+    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2514PURPLE_1.jpg?v=1761056951
     Price: ₹475.00 INR
   - [40C / Coral](https://bluenixie.com/products/full-coverage-t-shirt-bra?variant=45412499456314)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2514PEACH_2.jpg?v=1687335028
+    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2514PEACH_2.jpg?v=1761056915
     Price: ₹475.00 INR
   - [40C / Teal](https://bluenixie.com/products/full-coverage-t-shirt-bra?variant=51254936731962)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2514_BLUE_2.jpg?v=1746445258
+    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2514_BLUE_2.jpg?v=1761056998
     Price: ₹475.00 INR
   - [40C / Grey](https://bluenixie.com/products/full-coverage-t-shirt-bra?variant=51254936764730)
     Availability: Not Available
@@ -178,31 +178,31 @@
     Price: ₹475.00 INR
   - [42C / White](https://bluenixie.com/products/full-coverage-t-shirt-bra?variant=45196481593658)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/products/2154WHITE_3.jpg?v=1687335502
+    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/products/2154WHITE_3.jpg?v=1761056933
     Price: ₹475.00 INR
   - [42C / Black](https://bluenixie.com/products/full-coverage-t-shirt-bra?variant=45268820295994)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2514BLACK_1.jpg?v=1687336070
+    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2514BLACK_1.jpg?v=1761056962
     Price: ₹475.00 INR
   - [42C / Nude Skin](https://bluenixie.com/products/full-coverage-t-shirt-bra?variant=45268820328762)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/products/BN2514N.SKIN_3.jpg?v=1687335392
+    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/products/BN2514N.SKIN_3.jpg?v=1761056922
     Price: ₹475.00 INR
   - [42C / Maroon](https://bluenixie.com/products/full-coverage-t-shirt-bra?variant=45269415723322)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BN2514-R-1.png?v=1689678716
+    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BN2514-R-1.png?v=1761056997
     Price: ₹475.00 INR
   - [42C / Wine](https://bluenixie.com/products/full-coverage-t-shirt-bra?variant=45269415756090)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2514PURPLE_1.jpg?v=1687335909
+    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2514PURPLE_1.jpg?v=1761056951
     Price: ₹475.00 INR
   - [42C / Coral](https://bluenixie.com/products/full-coverage-t-shirt-bra?variant=45412499489082)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2514PEACH_2.jpg?v=1687335028
+    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2514PEACH_2.jpg?v=1761056915
     Price: ₹475.00 INR
   - [42C / Teal](https://bluenixie.com/products/full-coverage-t-shirt-bra?variant=51254936797498)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2514_BLUE_2.jpg?v=1746445258
+    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2514_BLUE_2.jpg?v=1761056998
     Price: ₹475.00 INR
   - [42C / Grey](https://bluenixie.com/products/full-coverage-t-shirt-bra?variant=51254936830266)
     Availability: Not Available
@@ -210,11 +210,11 @@
     Price: ₹475.00 INR
   - [32D / White](https://bluenixie.com/products/full-coverage-t-shirt-bra?variant=45393494245690)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/products/2154WHITE_3.jpg?v=1687335502
+    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/products/2154WHITE_3.jpg?v=1761056933
     Price: ₹460.00 INR
   - [32D / Black](https://bluenixie.com/products/full-coverage-t-shirt-bra?variant=45393494278458)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2514BLACK_1.jpg?v=1687336070
+    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2514BLACK_1.jpg?v=1761056962
     Price: ₹460.00 INR
 - [Bluenixie BN2204_Monica Plus Size Cotton Rich Full Coverage Bra](https://bluenixie.com/products/plus-size-full-coverage-bra): Made of rich cotton bio-washed fabric in full coverage full support design. Made for plus-size beauties. Broad 25mm elastic for better shoulder support. Minimizer cum shaper cups are designed for a bulge-free look. Fine quality necklace for an attractive look. 3x3 57mm eye hook for better grip.
   Updated: 2025-10-16T07:34:23Z
@@ -2482,8 +2482,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BN1078White_4.jpg?v=1686816182
     Price: ₹299.00 INR
-- [Bluenixie BN1701 Cotton Rich Full Coverage Bra](https://bluenixie.com/products/cotton-rich-full-coverage-bra): Made of combed bio-washed cotton fabric in molded cups with ultra-thin foam sandwiched between 2 layers to give a cushioning effect along with minimizing the nipple prominence.
-  Updated: 2025-10-11T06:05:52Z
+- [Bluenixie BN1701 Cotton Rich Full Coverage Bra](https://bluenixie.com/products/cotton-rich-full-coverage-bra): Shop Bluenixie BN1701 Cotton Rich Full Coverage Bra with molded cups & ultra-thin foam for all-day comfort. Perfect for tight & ethnic wear. Removable straps included.
+  Updated: 2025-10-21T15:16:26Z
   Vendor: Blue Nixie
   Product Type: Full coverage bra
   Availability: Available
@@ -6316,14 +6316,14 @@
     Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/04_1.jpg?v=1746436681
     Price: ₹410.00 INR
 - [Bluenixie BN2514_Teesta_E Cups Full Coverage T Shirt Bra](https://bluenixie.com/products/bluenixie-bn2514_teesta_e-cups-full-coverage-t-shirt-bra): This E cup bra is made of pleated cotton rich fabric in molded cups with broad removable shoulder straps options. It has 3x3 broad eye hook for better grip.31mm broad band elastic for better support. Soft & non stretch cups for better bust hold.C & D Cups also available please search in search option as BN2514 C D Cups.
-  Updated: 2025-10-15T18:29:05Z
+  Updated: 2025-10-21T14:30:07Z
   Vendor: Blue Nixie 
   Product Type: Full coverage bra
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2514_BLUE_2.jpg?v=1746445258
+  Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2514_BLUE_2.jpg?v=1761056998
   - [32E / Teal / Back](https://bluenixie.com/products/bluenixie-bn2514_teesta_e-cups-full-coverage-t-shirt-bra?variant=51255226466618)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2514_BLUE_2.jpg?v=1746445258
+    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2514_BLUE_2.jpg?v=1761056998
     Price: ₹460.00 INR
   - [32E / Gray / Back](https://bluenixie.com/products/bluenixie-bn2514_teesta_e-cups-full-coverage-t-shirt-bra?variant=51255226499386)
     Availability: Available
@@ -6355,7 +6355,7 @@
     Price: ₹460.00 INR
   - [34E / Teal / Back](https://bluenixie.com/products/bluenixie-bn2514_teesta_e-cups-full-coverage-t-shirt-bra?variant=51255226695994)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2514_BLUE_3.jpg?v=1746445258
+    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2514_BLUE_3.jpg?v=1761056998
     Price: ₹460.00 INR
   - [34E / Gray / Back](https://bluenixie.com/products/bluenixie-bn2514_teesta_e-cups-full-coverage-t-shirt-bra?variant=51255226728762)
     Availability: Available
@@ -6387,7 +6387,7 @@
     Price: ₹460.00 INR
   - [36E / Teal / Back](https://bluenixie.com/products/bluenixie-bn2514_teesta_e-cups-full-coverage-t-shirt-bra?variant=51255226925370)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2514_BLUE_2.jpg?v=1746445258
+    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2514_BLUE_2.jpg?v=1761056998
     Price: ₹460.00 INR
   - [36E / Gray / Back](https://bluenixie.com/products/bluenixie-bn2514_teesta_e-cups-full-coverage-t-shirt-bra?variant=51255226958138)
     Availability: Available
@@ -6419,7 +6419,7 @@
     Price: ₹460.00 INR
   - [38E / Teal / Back](https://bluenixie.com/products/bluenixie-bn2514_teesta_e-cups-full-coverage-t-shirt-bra?variant=51255227154746)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2514_BLUE_2.jpg?v=1746445258
+    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2514_BLUE_2.jpg?v=1761056998
     Price: ₹460.00 INR
   - [38E / Gray / Back](https://bluenixie.com/products/bluenixie-bn2514_teesta_e-cups-full-coverage-t-shirt-bra?variant=51255227187514)
     Availability: Available
@@ -6451,7 +6451,7 @@
     Price: ₹460.00 INR
   - [40E / Teal / Back](https://bluenixie.com/products/bluenixie-bn2514_teesta_e-cups-full-coverage-t-shirt-bra?variant=51255227384122)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2514_BLUE_2.jpg?v=1746445258
+    Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2514_BLUE_2.jpg?v=1761056998
     Price: ₹485.00 INR
   - [40E / Gray / Back](https://bluenixie.com/products/bluenixie-bn2514_teesta_e-cups-full-coverage-t-shirt-bra?variant=51255227416890)
     Availability: Available
