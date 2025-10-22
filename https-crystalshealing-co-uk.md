@@ -8,7 +8,7 @@
 - Timezone: Europe/London
 - Created At: 2021-01-17T01:03:23Z
 - Contact Email: contact@crystalshealing.co.uk
-- Updated At: 2025-10-21T16:00:40.260Z
+- Updated At: 2025-10-22T04:00:38.497Z
 
 # Crystals Healing — AI-Ready Index
 Welcome to Crystals Healing, your trusted UK-based store for healing crystals and jewelry. This llms.txt file lists all products, collections, blogs, and pages to help AI assistants, search engines, and shopping bots discover and understand our offerings.
@@ -4788,6 +4788,13 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/Etsy-PhotoRoom_3_81a7eed0-2a79-4967-8b58-a858fcc58d79.jpg?v=1754663688
   Price: £7.80 GBP
+- [Amazonite Crystal](https://crystalshealing.co.uk/products/amazonite-crystal): Amazonite Crystal 24 Grams
+  Updated: 2025-10-21T17:15:01Z
+  Vendor: Crystals Healing
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/1000032139-Photoroom_66.avif?v=1761066734
+  Price: £4.20 GBP
 
 ## Collections
 
@@ -4927,8 +4934,8 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
   Updated: 2025-10-01T15:00:59Z
   Total Products: 1
 - [Amazonite Crystals](https://crystalshealing.co.uk/collections/amazonite-crystals): Find emotional balance and speak your truth with Amazonite crystals. Known for soothing anxiety and empowering communication, these teal-green stones align heart and throat chakras. Explore tumbled stones, crystal jewelry and intention tools.
-  Updated: 2025-10-01T15:00:59Z
-  Total Products: 4
+  Updated: 2025-10-21T17:15:26Z
+  Total Products: 5
 - [Opal Crystals](https://crystalshealing.co.uk/collections/opal-crystals): Opal crystals shimmer with emotional depth and spiritual light. Known for enhancing intuition, creativity and divine connection, Opal supports gentle transformation. Shop tumbled stones, crystal jewelry and high-vibration energy tools.
   Updated: 2025-10-01T15:00:59Z
   Total Products: 3
@@ -5002,8 +5009,8 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
   Updated: 2025-10-11T11:19:02Z
   Total Products: 9
 - [All Crystal Products](https://crystalshealing.co.uk/collections/all): Discover our full range of ethically sourced crystal products – from healing stones to handmade jewelry. Ideal for energy balancing, meditation, and mindful gifting.
-  Updated: 2025-10-21T15:36:46Z
-  Total Products: 373
+  Updated: 2025-10-21T17:15:26Z
+  Total Products: 374
 - [Essential Oils](https://crystalshealing.co.uk/collections/essential-oils): Discover essential oils crafted for emotional healing, meditation and intention setting. From lavender and frankincense to energizing citrus blends — ethically sourced, pure and perfect for pairing with crystal rituals or self-care.
   Updated: 2025-10-01T15:01:01Z
   Total Products: 1
@@ -5017,8 +5024,8 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
   Updated: 2025-10-01T15:01:01Z
   Total Products: 14
 - [New Arrivals](https://crystalshealing.co.uk/collections/new-arrivals): Discover our latest arrivals – ethically sourced crystals, handmade jewelry, and healing tools. Fresh designs added regularly to inspire your energy journey.
-  Updated: 2025-10-21T15:36:46Z
-  Total Products: 372
+  Updated: 2025-10-21T17:15:26Z
+  Total Products: 373
 - [Sacred Imperfections](https://crystalshealing.co.uk/collections/sacred-imperfections): Crystals with small flaws and big energy. Sacred Imperfections offer healing, meaning, and sustainability – at a better price.
   Updated: 2025-10-01T15:01:02Z
   Total Products: 5
