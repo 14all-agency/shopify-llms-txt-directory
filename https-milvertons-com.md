@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2019-08-25T03:49:02Z
 - Contact Email: sales@milvertons.com
-- Updated At: 2025-10-21T16:00:37.714Z
+- Updated At: 2025-10-22T04:00:37.628Z
 
 ## Products
 
@@ -11003,8 +11003,8 @@
   Updated: 2025-10-12T09:25:47Z
   Total Products: 56
 - [UpOrder - Recommended Products](https://milvertons.com/collections/spently_products): This collection is used by the UpOrder app, to make product recommendations in your Shopify notification and auto follow up emails. It's important to note that this collection is “hidden”, it is not be visible on your website. By default, your Best-Selling products will be recommended, but you can customize what is recommend by editing the collection. The collection is updated automatically every 4 hours in order to recommend the best products to your customers in your emails. We only recommend products that are in stock, visible online, and have not been purchased by the customer receiving the notification or auto follow-up email. To enable/disable recommendations in your emails, login to the UpOrder app, remove the Recommended Products component, and re-export your template.
-  Updated: 2025-10-21T01:15:46Z
-  Total Products: 347
+  Updated: 2025-10-21T16:40:06Z
+  Total Products: 346
 - [Black Friday & Cyber Monday Deals](https://milvertons.com/collections/bfcm-deals): Black Friday & Cyber Monday Deals - Products from this collection are on sale at 15% off. Items in this collection trigger this offer when added to your cart.
   Updated: 2023-11-29T08:14:38Z
   Total Products: 0
@@ -11618,7 +11618,7 @@
     Updated: 2025-10-20T18:52:34Z
     Author: The Milvertons Store
   - [Different Shades of Elegance: Dresses Complemented by Shoe and Bag Sets](https://milvertons.com/blogs/blog/different-shades-of-elegance-dresses-complemented-by-shoe-and-bag-sets): Different Shades of Elegance: Dresses Complemented by Shoe and Bag Sets
-    Updated: 2025-10-21T09:05:58Z
+    Updated: 2025-10-21T17:49:26Z
     Author: The Milvertons Store
     Tags: bags, dresses, elegant outfits, fashion accessories, matching sets, matching shoes and bag for women, shoe and bag combinations, shoe and bag set for women, shoes, stylish dress ensembles, women's clothing, women's fashion, women's shoe and bag set
 
