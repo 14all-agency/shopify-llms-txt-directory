@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-08-08T02:49:34Z
 - Contact Email: info@lekue.co.nz
-- Updated At: 2025-10-18T12:00:31.623Z
+- Updated At: 2025-10-22T08:00:39.412Z
 
 ## Products
 
@@ -459,14 +459,14 @@
   Image: https://cdn.shopify.com/s/files/1/0641/8795/7446/files/OilandVinegarDispensersSetof2-Grey-8710755883262Lekue_96dpi_1000x1000px_7_NR-32930.png?v=1737409645
   Price: $79.98 NZD
 - [Spice Shakers, Set of 4](https://www.lekue.co.nz/products/set-of-4-spice-shakers): 4 spice shakers with dual openings to pour and sprinkle spices. Built-in lid clicks for easy access. Ideal for bulk or store-bought spices, or homemade blends like chimichurri, ras el hanout, garam masala. Customize your selection! Features A must-have set for spice lovers who want to store spices more orderly and aesthetically in their kitchen. A practical jar for all types of powdered and herb spices. Designed for more efficient use: You can open it with one hand and use its 2 positions to pour your desired amount. Your spices in order in your kitchen and always ready to add flavor to your dishes! This spice shaker features a dual opening for serving all types of spices. The sprinkle function is perfect for powdered spices such as turmeric, curry and cinnamon. While the pour function is perfect for leaves and seeds such as oregano, parsley and cumin, or for a larger serving.
-  Updated: 2025-07-15T23:38:34Z
+  Updated: 2025-10-20T21:13:26Z
   Vendor: Lekue
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0641/8795/7446/files/SpiceShakersSetof4-Grey-8710755883309Lekue_96dpi_1000x1000px_7_NR-39670.png?v=1737330826
   Price: $34.98 NZD
 - [Salt Cellar](https://www.lekue.co.nz/products/salt-cellar): A practical kitchen salt cellar for everyday cooking. This modern container has an innovative touch for more efficient use and features a moisture-proof seal to preserve your ingredients. Features Enhanced preservation. Thanks to the lid’s Platinum Silicone gasket, when not in use, the container will remain airtight. A practical container for everyday condiments such as salt and sugar. You can open it easily while cooking: simply press the back of the lid with one hand. Ideal size so you don't have to constantly refill it. It is designed for long-lasting and hygienic use and will also add a decorative accent to your kitchen. It also includes a measuring spoon perfect for more accurate recipes such as dough and desserts. The spoon clicks into the lid when not in use, so it doesn't get in the way or get lost.
-  Updated: 2025-07-15T23:38:34Z
+  Updated: 2025-10-20T21:13:26Z
   Vendor: Lekue
   Product Type: 
   Availability: Available
@@ -633,10 +633,10 @@
   Updated: 2025-07-15T23:38:19Z
   Total Products: 1
 - [Best Sellers Old](https://www.lekue.co.nz/collections/best-sellers)
-  Updated: 2025-10-17T11:28:05Z
+  Updated: 2025-10-21T11:23:25Z
   Total Products: 89
 - [New Arrivals](https://www.lekue.co.nz/collections/new-arrivals)
-  Updated: 2025-10-17T11:28:05Z
+  Updated: 2025-10-21T11:23:25Z
   Total Products: 89
 - [Bakeware](https://www.lekue.co.nz/collections/bakeware)
   Updated: 2025-08-29T02:37:07Z
@@ -654,7 +654,7 @@
   Updated: 2025-08-29T02:37:05Z
   Total Products: 8
 - [Food preservation](https://www.lekue.co.nz/collections/food-preservation)
-  Updated: 2025-07-15T23:38:19Z
+  Updated: 2025-10-21T11:23:25Z
   Total Products: 6
 - [Healthy Food](https://www.lekue.co.nz/collections/healthy-food)
   Updated: 2025-09-23T11:25:38Z
@@ -678,7 +678,7 @@
   Updated: 2025-08-29T02:37:07Z
   Total Products: 4
 - [Reusable containers](https://www.lekue.co.nz/collections/reusable-containers)
-  Updated: 2025-07-15T23:38:20Z
+  Updated: 2025-10-21T11:23:25Z
   Total Products: 6
 - [Reuse & Reduce collection](https://www.lekue.co.nz/collections/reuse-reduce-collection)
   Updated: 2025-09-23T11:25:38Z
@@ -741,7 +741,7 @@
   Updated: 2025-08-29T02:37:07Z
   Total Products: 3
 - [Welcome Discount collection](https://www.lekue.co.nz/collections/welcome-discount-collection)
-  Updated: 2025-10-17T11:28:05Z
+  Updated: 2025-10-21T11:23:25Z
   Total Products: 90
 - [Best Sellers](https://www.lekue.co.nz/collections/best-sellers-1)
   Updated: 2025-10-14T11:22:45Z
