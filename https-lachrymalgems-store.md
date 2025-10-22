@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-10-03T06:30:37Z
 - Contact Email: mandiemaddox@mystichiddengem.com
-- Updated At: 2025-10-21T20:00:31.163Z
+- Updated At: 2025-10-22T00:00:30.737Z
 
 ## Products
 
@@ -1556,6 +1556,13 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/713796044074234077_2048.jpg?v=1761073327
     Price: $68.62 USD
+- [Gothic Racerback Dress, Spooky Summer Fashion, Halloween Outfit, Casual Everyday Wear, Trendy Festival Dress, Unique Gothic Apparel](https://lachrymalgems.store/products/gothic-racerback-dress-spooky-summer-fashion-halloween-outfit-casual-everyday-wear-trendy-festival-dress-unique-gothic-apparel): Elevate your casual wardrobe with this Women's Racerback Dress. This dress is perfect for those warm, sunny days, providing a stylish, sporty silhouette that feels both comfortable and chic. The vibrant designs bring a unique energy, making it a great choice for casual outings, beach days, or getting together with friends. Ideal for fashion-forward individuals who appreciate creativity in their style, this dress is a fantastic option for summer picnics, music festivals, or fun night out. Celebrate your unique style during special occasions, or simply enjoy everyday wear with a touch of flair!Product features- 100% polyester for durability and quick drying.- Side seams provide structural support and help retain shape.- Self-fabric bindings for a clean and cohesive look.- Lightweight fabric perfect for warm weather.- Tagless design ensures maximum comfort.Care instructions- Do not dryclean- Do not iron- Tumble dry: low heat- Do not bleach- Machine wash: cold (max 30C or 90F), gentle cycle
+  Updated: 2025-10-21T22:32:40Z
+  Vendor: Printify
+  Product Type: All Over Prints
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/12382581391642116799_2048.jpg?v=1761085944
+  Price: $52.42 USD
 
 ## Collections
 
