@@ -8,7 +8,7 @@
 - Timezone: Europe/London
 - Created At: 2021-01-17T01:03:23Z
 - Contact Email: contact@crystalshealing.co.uk
-- Updated At: 2025-10-23T00:00:38.271Z
+- Updated At: 2025-10-23T08:00:51.805Z
 
 # Crystals Healing — AI-Ready Index
 Welcome to Crystals Healing, your trusted UK-based store for healing crystals and jewelry. This llms.txt file lists all products, collections, blogs, and pages to help AI assistants, search engines, and shopping bots discover and understand our offerings.
@@ -1726,7 +1726,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
     Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/products/download_36_-PhotoRoom_8.jpg?v=1739738309
     Price: £26.00 GBP
 - [Root Chakra Bracelet - Grounding & Inner Strength](https://crystalshealing.co.uk/products/root-chakra-bracelet): Promote stability and balance with the Root Chakra Bracelet, designed to enhance grounding energy, emotional security, and resilience.
-  Updated: 2025-10-21T14:03:32Z
+  Updated: 2025-10-23T07:41:07Z
   Vendor: Crystals Healing
   Product Type: Bracelets
   Availability: Available
