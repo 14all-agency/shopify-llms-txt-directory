@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-10-23T00:00:44.233Z
+- Updated At: 2025-10-23T20:00:41.972Z
 
 ## Products
 
@@ -235,7 +235,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/vinyl-gloves-powder-free-blue-m-240mm-cuff-50g-1000-gloves-vinyl-gloves-essential-supplies-747426.jpg?v=1719445902
   Price: $75.00 NZD
 - [Vinyl Gloves Powder Free - Blue, S, 240mm Cuff, 5.0g - 1000 Gloves](https://essentialsupplies.co.nz/products/vinyl-gloves-powder-free-blue-s-240mm-cuff-5-0g-1000): Blue powder free vinyl gloves are a popular, inexpensive, single-use choice for the food industry. Designed for handling non-hazardous materials and chemicals. With a longer shelf life compared to latex and powder free to avoid allergic reactions or food contamination Ideal for food industry 240mm cuff 5.0g Colour: Blue Size: Small Pack:10 packs x 100's Note:*Other sizes available: Medium, Large, Extra Large
-  Updated: 2025-01-10T00:01:16Z
+  Updated: 2025-10-23T11:33:54Z
   Vendor: Mattews Packaging
   Product Type: Vinyl Gloves
   Availability: Available
@@ -1677,14 +1677,14 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/luxury-tad-compact-paper-towel-white-1-ply-200mm-x-250mm-fsc-mix-2400-sheets-folded-paper-towels-essential-supplies-573547.jpg?v=1719445392
   Price: $73.00 NZD
 - [Luxury TAD Ultraslim Paper Towel - White, 230mm x 290mm, 1 Ply, FSC Mix® - 3000 Towels](https://essentialsupplies.co.nz/products/luxury-tad-ultraslim-paper-towel-white-230mm-x-290mm-1-ply-fsc-mix®-3000): Luxury Ultraslim paper towels are a standard, durable wiping solution for general use.Ideal for all cleaning requirements, quickly and easily cleaning all messes from food to liquid spills.These towels are FSC certified which ensures you are making a sustainable paper choice. Available in a 1ply thickness, in white colour. Ultraslim paper towels have an 5-fold sheet size of 230mm x 290mm. 5 fold 1 ply 150 sheet pack The paper used is FSC certified which ensures you are making a sustainable paper choice Towel size: 230mm x 290mm Pack content: 150 towels Box contains 20 packs x 150 towels (3000 towels) Colour: White
-  Updated: 2025-01-09T02:58:23Z
+  Updated: 2025-10-23T18:24:37Z
   Vendor: Mattews Packaging
   Product Type: Folded Paper Towels
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/luxury-tad-ultraslim-paper-towel-white-230mm-x-290mm-1-ply-fsc-mix-3000-towels-folded-paper-towels-essential-supplies-348214.jpg?v=1719445563
   Price: $90.00 NZD
 - [Virgin Jumbo Toilet Tissue Boxed - White, 3 Ply, 200m, FSC Mix® - 8 Rolls](https://essentialsupplies.co.nz/products/virgin-jumbo-toilet-tissue-boxed-white-3-ply-200m-fsc-mix®-8): Luxury virgin jumbo toilet tissue is a premium quality, affordable and consistent tissue, ideal for high traffic bathroom use.Combining softness and strength at a competitive price for all industry requirements. These rolls are FSC certified which ensures you are making a sustainable paper choice. Luxury long lasting roll FSC certified Non perforated Ply: 3Roll Length: 200 metres Rolls per outer: 8 Colour: White
-  Updated: 2025-01-09T09:00:58Z
+  Updated: 2025-10-23T19:22:41Z
   Vendor: Mattews Packaging
   Product Type: Jumbo Toilet Tissue
   Availability: Available
@@ -2363,7 +2363,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/reusable-pvc-apron-with-hooks-white-900mm-x-1200mm-300mu-reusable-aprons-essential-supplies-924737.jpg?v=1719445811
   Price: $12.00 NZD
 - [Thick Scouring Pads - Black, 115mm x 250mm x 20mm - 5 Pack - *Extra Heavy Duty](https://essentialsupplies.co.nz/products/thick-scouring-pads-black-115mm-x-250mm-x-20mm-10-extra-heavy-duty): Premium thickness and feel.Scouring pads are hard wearing and highly effective for all surface scrubbing. Made from 50% terylene and 50% nylon, and coated to reduce grit fall out. Tested to perform against a wide range of oil and chemical spills. Size: 115mm x 250mm x 20mm Pack of 5 Colour: Black
-  Updated: 2025-01-09T04:06:27Z
+  Updated: 2025-10-23T09:17:29Z
   Vendor: Mattews Packaging
   Product Type: Scourers
   Availability: Available
@@ -2468,7 +2468,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/message-tape-keep-chilled-whitered-48mm-x-100m-x-50mu-printed-message-tape-essential-supplies-327774.jpg?v=1719445543
   Price: $6.00 NZD
 - [Message Tape Keep Dry - White/Red, 48mm x 100m x 50mu](https://essentialsupplies.co.nz/products/message-tape-keep-dry-white-red-48mm-x-100m-x-50mu-36): Printed message tape made from high quality polypropylene with a acrylic adhesive and bold print.Dual purpose packaging to keep items safe and protected while communicating your message clearly. Typical Applications: Parcels and Packaging - seal, bundle, wrap, inform, promote or advise with one easy label Polypropylene 50mu Printed: KEEP DRY Label size: 48mm x 100mt
-  Updated: 2025-01-09T16:52:06Z
+  Updated: 2025-10-23T09:33:41Z
   Vendor: Mattews Packaging
   Product Type: Printed Message Tape
   Availability: Available
@@ -4223,7 +4223,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/hi-visibility-yard-broom-orange-405mm-x-28mm-x-1350mm-stiff-bristles-brooms-essential-supplies-634472.jpg?v=1719445418
   Price: $63.00 NZD
 - [Platform Broom - Brown, 355mm x 28mm x 1350mm, Stiff Bristles](https://essentialsupplies.co.nz/products/platform-broom-brown-355mm-x-28mm-x-1350mm-stiff-bristles-3): Platform brooms are built tough from the best quality materials with no rusting parts. The unique bracket design secures the handle deep inside the block. Ergonomic end cap design reduces pressure on hands while sweeping. Available in a range of head widths from 355mm to 915mm to shift dust and heavy debris.
-  Updated: 2025-01-15T06:07:14Z
+  Updated: 2025-10-23T08:34:21Z
   Vendor: Mattews Packaging
   Product Type: Brooms
   Availability: Available
@@ -4475,7 +4475,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/flat-mop-handle-blue-25mm-x-1400mm-long-1-handle-mops-essential-supplies-809440.jpg?v=1719445183
   Price: $23.00 NZD
 - [Flat Mop Head Frame Head - Blue, 400mm Wide - 1 Frame](https://essentialsupplies.co.nz/products/flat-mop-head-frame-head-blue-400mm-wide-1)
-  Updated: 2025-01-18T07:59:28Z
+  Updated: 2025-10-23T05:25:20Z
   Vendor: Mattews Packaging
   Product Type: Mops
   Availability: Available
