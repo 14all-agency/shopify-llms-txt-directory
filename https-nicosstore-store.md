@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-07-07T17:06:44Z
 - Contact Email: nikualbu92@gmail.com
-- Updated At: 2025-10-23T16:00:35.170Z
+- Updated At: 2025-10-23T20:00:50.278Z
 
 ## Products
 
@@ -7707,12 +7707,62 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/43b2a44cdb114c82bc84f710030815cf-Max-Origin.webp?v=1761067651
     Price: €32.99 EUR
+- [Unisex Sweatshirt](https://nicosstore.store/products/unisex-sweatshirt-2): Each unique, all-over printed sweatshirt is precision-cut and hand-sewn to achieve the best possible look and bring out the intricate design. What's more, the durable fabric with a cotton-feel face and soft brushed fleece inside means that this sweatshirt is bound to become your favorite for a long time. • 96% recycled polyester, 4% elastane for manufacturing in the US/Mexico • 95% recycled polyester, 5% elastane for manufacturing in Latvia • Fabric weight (may vary by 5%): 9.08 oz./yd.² (308 g/m²) • Soft cotton-feel face • Brushed fleece fabric inside • Unisex fit • Overlock seams • Blank components sourced from China This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Age restrictions: For adults EU Warranty: 2 years Other compliance information: Meets the flammability, and formaldehyde, lead, cadmium, phthalates, azo dyes, bisphenols and mercury level requirements. In compliance with the General Product Safety Regulation (GPSR), Albu Nicolae ensures that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact us at nikualbu92@gmail.com or write to us Atzberg 18, Mitterskirskirchen ,84335 ,DE.Size guide CHEST (inches) WAIST (inches) HIPS (inches) 2XS 34 ⅝ 28 ⅜ 35 ⅜ XS 36 ¼ 29 ⅞ 37 S 37 ¾ 31 ½ 38 ⅝ M 39 ⅜ 33 ⅛ 40 ⅛ L 42 ½ 36 ¼ 43 ¼ XL 45 ⅝ 39 ⅜ 46 ½ 2XL 48 ⅞ 42 ½ 49 ⅝ 3XL 52 45 ⅝ 52 ¾ 4XL 55 ⅛ 48 ⅞ 55 ⅞ 5XL 58 ¼ 52 59 6XL 61 ⅜ 55 ⅛ 62 ¼ CHEST (cm) WAIST (cm) HIPS (cm) 2XS 88 72 90 XS 92 76 94 S 96 80 98 M 100 84 102 L 108 92 110 XL 116 100 118 2XL 124 108 126 3XL 132 116 134 4XL 140 124 142 5XL 148 132 150 6XL 156 140 158
+  Updated: 2025-10-23T19:56:51Z
+  Vendor: Nico`s Store
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-recycled-unisex-sweatshirt-white-front-68fa8492db025.jpg?v=1761248446
+  - [2XS](https://nicosstore.store/products/unisex-sweatshirt-2?variant=56045540311365)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-recycled-unisex-sweatshirt-white-front-68fa8492db025.jpg?v=1761248446
+    Price: €26.00 EUR
+  - [XS](https://nicosstore.store/products/unisex-sweatshirt-2?variant=56045540344133)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-recycled-unisex-sweatshirt-white-front-68fa8492db025.jpg?v=1761248446
+    Price: €26.00 EUR
+  - [S](https://nicosstore.store/products/unisex-sweatshirt-2?variant=56045540376901)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-recycled-unisex-sweatshirt-white-front-68fa8492db025.jpg?v=1761248446
+    Price: €26.00 EUR
+  - [M](https://nicosstore.store/products/unisex-sweatshirt-2?variant=56045540409669)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-recycled-unisex-sweatshirt-white-front-68fa8492db025.jpg?v=1761248446
+    Price: €26.00 EUR
+  - [L](https://nicosstore.store/products/unisex-sweatshirt-2?variant=56045540442437)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-recycled-unisex-sweatshirt-white-front-68fa8492db025.jpg?v=1761248446
+    Price: €26.00 EUR
+  - [XL](https://nicosstore.store/products/unisex-sweatshirt-2?variant=56045540475205)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-recycled-unisex-sweatshirt-white-front-68fa8492db025.jpg?v=1761248446
+    Price: €26.00 EUR
+  - [2XL](https://nicosstore.store/products/unisex-sweatshirt-2?variant=56045540507973)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-recycled-unisex-sweatshirt-white-front-68fa8492db025.jpg?v=1761248446
+    Price: €27.50 EUR
+  - [3XL](https://nicosstore.store/products/unisex-sweatshirt-2?variant=56045540540741)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-recycled-unisex-sweatshirt-white-front-68fa8492db025.jpg?v=1761248446
+    Price: €28.50 EUR
+  - [4XL](https://nicosstore.store/products/unisex-sweatshirt-2?variant=56045540573509)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-recycled-unisex-sweatshirt-white-front-68fa8492db025.jpg?v=1761248446
+    Price: €30.00 EUR
+  - [5XL](https://nicosstore.store/products/unisex-sweatshirt-2?variant=56045540606277)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-recycled-unisex-sweatshirt-white-front-68fa8492db025.jpg?v=1761248446
+    Price: €31.50 EUR
+  - [6XL](https://nicosstore.store/products/unisex-sweatshirt-2?variant=56045540639045)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-recycled-unisex-sweatshirt-white-front-68fa8492db025.jpg?v=1761248446
+    Price: €33.00 EUR
 
 ## Collections
 
 - [Home page](https://nicosstore.store/collections/frontpage): MAKE IK IN YOUR WAY
-  Updated: 2025-10-19T18:27:15Z
-  Total Products: 62
+  Updated: 2025-10-23T19:40:49Z
+  Total Products: 63
 - [CoLecti-on](https://nicosstore.store/collections/colecti-on)
   Updated: 2025-10-12T06:49:29Z
   Total Products: 0
