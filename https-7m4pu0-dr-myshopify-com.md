@@ -6,7 +6,7 @@
 - Timezone: Asia/Shanghai
 - Created At: 2024-10-25T12:33:51Z
 - Contact Email: apprevtest6@shopify.com
-- Updated At: 2025-10-22T18:36:54.735Z
+- Updated At: 2025-10-23T00:00:57.814Z
 
 ## Products
 
