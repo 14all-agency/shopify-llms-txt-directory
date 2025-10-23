@@ -6,7 +6,7 @@
 - Timezone: Australia/Sydney
 - Created At: 2025-08-03T22:28:06Z
 - Contact Email: info@upcreatinegummies.com.au
-- Updated At: 2025-10-21T21:11:49.432Z
+- Updated At: 2025-10-23T16:00:31.698Z
 
 ## Products
 
@@ -45,7 +45,7 @@
   Updated: 2025-09-29T04:57:41Z
   Total Products: 0
 - [Get Up](https://upcreatinegummies.com.au/collections/get-up): Power your performance with Up Creatine Gummies – clean, convenient, and crafted for movers who want more from their routine.
-  Updated: 2025-10-21T11:18:53Z
+  Updated: 2025-10-23T11:21:34Z
   Total Products: 4
 
 ## Blogs
@@ -76,6 +76,10 @@
     Updated: 2025-10-20T06:54:28Z
     Author: Up Creatine Gummies
     Tags: Building Muscle With Creatine Gummies
+  - [Up Creatine Gummies  | Recover Faster: How Creatine Gummies Support Muscle Repair and Growth](https://upcreatinegummies.com.au/blogs/read-up/recover-faster-creatine-gummies-support-muscle-growth): Up Creatine Gummies  | Recover Faster: How Creatine Gummies Support Muscle Repair and Growth
+    Updated: 2025-10-23T00:04:02Z
+    Author: Up Creatine Gummies
+    Tags: Creatine Gummies Support Muscle Repair
 
 ## Store Pages
 
