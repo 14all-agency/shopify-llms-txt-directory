@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2023-11-06T10:53:38Z
 - Contact Email: theworldofnerdscustomer@gmail.com
-- Updated At: 2025-10-23T04:01:02.223Z
+- Updated At: 2025-10-23T08:00:58.407Z
 
 ## Products
 
@@ -3881,6 +3881,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitleddesign_9_6dad4564-9881-4ada-9602-645b6fc00831.jpg?v=1738747570
   Price: ₹899.00 INR
+- [HOT WHEELS SHELBY COBRA DAYTONA COUPE](https://theworldofnerds.com/products/hot-wheels-shelby-cobra-daytona-coupe): Experience the thrill of speed with the HOT WHEELS SHELBY COBRA DAYTONA COUPE. This intricately detailed model of the iconic car boasts sleek design and high performance. Perfect for collectors and racing enthusiasts. Own a piece of automotive history today.
+  Updated: 2025-10-23T05:13:57Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitleddesign_11.jpg?v=1738747652
+  Price: ₹399.00 INR
 - [HOT WHEELS MCLAREN F1](https://theworldofnerds.com/products/hot-wheels-mclaren-f1): This Hot Wheels McLaren F1 is a precision die-cast replica of the iconic supercar. With realistic design and details, this 1:64 scale model is perfect for collectors and car enthusiasts. Add it to your collection or display it as a showpiece.
   Updated: 2025-10-19T00:54:55Z
   Vendor: The World Of Nerds
@@ -3889,7 +3896,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitleddesign_12.jpg?v=1738747805
   Price: ₹599.00 INR
 - [HOT WHEELS FORD MUSTANG DARK HORSE](https://theworldofnerds.com/products/hot-wheels-ford-mustang-dark-horse): Discover the sleek and powerful HOT WHEELS FORD MUSTANG DARK HORSE. This collectible die-cast car boasts exquisite detailing and a fierce design, perfect for any car enthusiast. With its high-quality craftsmanship and iconic brand, this Mustang is a must-have for any collection.
-  Updated: 2025-10-21T15:41:46Z
+  Updated: 2025-10-23T05:13:57Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
