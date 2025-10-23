@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-01-24T04:49:01Z
 - Contact Email: info@ibizjewel.com
-- Updated At: 2025-10-23T04:01:00.496Z
+- Updated At: 2025-10-23T16:00:49.391Z
 
 ## Products
 
@@ -2547,7 +2547,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/SPDR-18_1.jpg?v=1690542378
     Price: $2,659.00 USD
 - [Natural Salt And Pepper 1.40CT Hexagon Diamond Art Deco Unique Engagement Ring | Handmade Ring | Anniversary Ring](https://ibizjewel.com/products/natural-salt-and-pepper-1-40ct-hexagon-diamond-art-deco-unique-engagement-ring-handmade-ring-anniversary-ring): This handmade Natural Salt and Pepper 1.40CT Hexagon Diamond Art Deco Unique Engagement Ring is perfect for commemorating a special anniversary. Crafted with genuine diamonds, the hexagon cut center stone catches the eye with its intricate design and adds timeless beauty to any look. With its unique and stylish design, this special ring is the perfect way to express your eternal love.
-  Updated: 2025-10-02T10:30:39Z
+  Updated: 2025-10-23T04:52:23Z
   Vendor: Natural Salt And Pepper Diamond Ring
   Product Type: Natural Salt And Pepper Hexagon Diamond Ring
   Availability: Available
@@ -23118,7 +23118,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/IBIZ-14_4.jpg?v=1710910534
     Price: $519.00 USD
 - [Natural Salt and Paper 0.25CT Marquise Diamond Art Deco Valentine Gift Band](https://ibizjewel.com/products/natural-salt-and-paper-0-25ct-marquise-diamond-art-deco-valentine-gift-band): Indulge In Timeless Elegance With Our Natural Salt And Paper 0.25ct Marquise Diamond Art Deco Valentine Gift Band. Crafted From The Finest Materials, This Band Features A Sparkling 0.25ct Marquise Diamond, Accentuated By Art Deco Detailing. Perfect For Adding A Touch Of Luxury To Any Outfit.
-  Updated: 2025-10-02T10:30:59Z
+  Updated: 2025-10-23T11:21:16Z
   Vendor: Natural Salt And Pepper Diamond Women's Bands
   Product Type: Natural Salt And Pepper Marquise Diamond Band
   Availability: Available
@@ -35438,7 +35438,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-152_3.jpg?v=1711530374
     Price: $951.00 USD
 - [Moisaanite 2.60CT Oval Diamond Brutalist Handmade Ring](https://ibizjewel.com/products/moisaanite-2-60ct-oval-diamond-brutalist-handmade-ring): This Brilliantly Crafted Moisaanite 2.60ct Oval Diamond Brutalist Handmade Ring Showcases A Unique And Eye-catching Style. Combining The Stunning Sparkle Of Moissanite With A Bold And Edgy Handmade Design, This Ring Is Sure To Make A Statement. Add A Touch Of Modern Elegance To Your Jewelry Collection With This One-of-a-kind Piece.
-  Updated: 2025-10-02T10:31:08Z
+  Updated: 2025-10-23T08:44:51Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Oval Diamond Ring
   Availability: Available
