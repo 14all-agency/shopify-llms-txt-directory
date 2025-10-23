@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-10-23T04:01:10.750Z
+- Updated At: 2025-10-23T08:01:17.299Z
 
 ## Products
 
@@ -18724,7 +18724,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-speed-champions-77244-carro-de-corrida-mercedes-am-667724425-lego-1178701557.jpg?v=1752973805
   Price: 28,90 € EUR
 - [LEGO Speed Champions 77245 – Carro de Corrida Aston Martin](https://brincatoys.pt/products/lego-speed-champions-carro-de-corrida-aston-martin-aramco-f1®-amr24): Sinta a emoção das corridas com o LEGO Speed Champions 77245 – Carro de Corrida Aston Martin Aramco F1® AMR24! Construa este modelo autêntico hoje!
-  Updated: 2025-10-13T06:15:49Z
+  Updated: 2025-10-23T05:12:35Z
   Vendor: LEGO
   Product Type: + 10 anos
   Availability: Available
