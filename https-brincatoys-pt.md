@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-10-22T20:01:11.071Z
+- Updated At: 2025-10-23T04:01:10.750Z
 
 ## Products
 
@@ -5619,7 +5619,7 @@ Provavelmente, a espécie vivente mais próxima é o cachorro-vinagre.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/mogli-621238023-brincatoys-1178694382.webp?v=1752814085
   Price: 7,50 € EUR
 - [Monopoly Guerra dos Tronos](https://brincatoys.pt/products/monopoly-guerra-dos-tronos): A corrida pelo controlo de Westeros acontece no Jogo de Tabuleiro Monopólio Guerra dos Tronos. As mecânicas que durante décadas proporcionaram momentos de diversão emfamília mantêm-se as mesmas, incluindo a compra e venda de recursos, negociação entre jogadores, cartas de ação aleatórias, lançamento de dados, movimentação de peças e gestão de dinhe
-  Updated: 2025-10-15T19:07:16Z
+  Updated: 2025-10-22T22:16:26Z
   Vendor: Monopoly
   Product Type: + 14 anos
   Availability: Available
@@ -19907,7 +19907,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/tartarugas-ninja-classic-splinter-233879825-0043377810100-tartarugas-ninja-1178692461.jpg?v=1752822014
   Price: 19,99 € EUR
 - [Hot Wheels - 99 Honda Civic Type R (EK9) & Honda Civic Type R](https://brincatoys.pt/products/hot-wheels-99-honda-civic-type-r-ek9-honda-civic-type-r): Adiciona à tua coleção o Hot Wheels - 99 Honda Civic Type R (EK9) & Honda Civic Type R com detalhes impressionantes. Não percas esta edição exclusiva!
-  Updated: 2025-10-22T17:56:43Z
+  Updated: 2025-10-22T23:02:01Z
   Vendor: Hot Wheels
   Product Type: + 3 anos
   Availability: Available
@@ -20301,7 +20301,7 @@ Figura em borracha termoplástica do filme Branca de neve e os sete anões.Figur
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-minecraft-21251-expedicao-no-deserto-de-steve-662125124-5702017583273-lego-1178698004.jpg?v=1752796930
   Price: 12,00 € EUR
 - [LEGO Speed Champions 77240 – Bugatti Centodieci Model](https://brincatoys.pt/products/lego-speed-champions-carro-desportivo-bugatti-centodieci-hyper): Construa o seu supercarro dos sonhos com o LEGO Speed Champions 77240 – Bugatti Centodieci. Sinta a adrenalina com cada peça! 🏎️
-  Updated: 2025-10-22T15:48:06Z
+  Updated: 2025-10-23T01:14:05Z
   Vendor: LEGO
   Product Type: + 9 anos
   Availability: Available
@@ -20364,7 +20364,7 @@ Figura em borracha termoplástica do filme Branca de neve e os sete anões.Figur
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/jurassic-world-hammond-collection-stygimoloch-premium-figure-232849725-0194735284979-jurassic-world-1192199290.jpg?v=1757505968
   Price: 24,90 € EUR
 - [Hot Wheels - 96 Nissan 180SX Type X & Nissan SilEighty](https://brincatoys.pt/products/hot-wheels-96-nissan-180sx-type-x-nissan-sileighty): Eleva a tua coleção com o Hot Wheels - 96 Nissan 180SX Type X & Nissan SilEighty. A combinação perfeita de detalhe e performance aguarda por ti!
-  Updated: 2025-10-22T17:56:25Z
+  Updated: 2025-10-23T02:44:43Z
   Vendor: Hot Wheels
   Product Type: + 3 anos
   Availability: Available
@@ -21421,8 +21421,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
 - [Novidades](https://brincatoys.pt/collections/novidades)
   Updated: 2025-10-22T17:56:45Z
   Total Products: 401
-- [Outlet](https://brincatoys.pt/collections/outlet): Saldos válidos de 04/07/2025 a 26/12/2025, limitado ao stock existente e acumulável com outros descontos ou promoções.
-  Updated: 2025-10-19T09:15:47Z
+- [Outlet](https://brincatoys.pt/collections/outlet): Oportunidades Outlet exclusivo online. Artigos limitados ao stock existente. Acumulável com outros descontos ou promoções.
+  Updated: 2025-10-22T20:29:39Z
   Total Products: 50
 - [Bluey](https://brincatoys.pt/collections/bluey)
   Updated: 2025-10-21T11:22:55Z
@@ -21527,7 +21527,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-22T17:56:45Z
   Total Products: 35
 - [LEGO](https://brincatoys.pt/collections/lego)
-  Updated: 2025-10-22T13:05:45Z
+  Updated: 2025-10-22T21:29:17Z
   Total Products: 376
 - [LOL Surprise](https://brincatoys.pt/collections/lol-surprise)
   Updated: 2025-10-19T09:15:49Z
@@ -21659,8 +21659,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-19T09:15:50Z
   Total Products: 6
 - [OrderlyEmails - Recommended Products](https://brincatoys.pt/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-10-22T17:56:45Z
-  Total Products: 3057
+  Updated: 2025-10-22T22:16:56Z
+  Total Products: 3056
 - [Girafa Sofia](https://brincatoys.pt/collections/girafa-sofia)
   Updated: 2025-10-19T09:15:51Z
   Total Products: 19
@@ -21668,8 +21668,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-22T11:22:51Z
   Total Products: 126
 - [Marketplace](https://brincatoys.pt/collections/marketplace)
-  Updated: 2025-10-22T17:56:45Z
-  Total Products: 3057
+  Updated: 2025-10-22T22:16:56Z
+  Total Products: 3056
 - [EzConnector](https://brincatoys.pt/collections/ezconnector)
   Updated: 2025-10-22T17:56:44Z
   Total Products: 906
