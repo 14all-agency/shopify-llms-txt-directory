@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-07-07T17:06:44Z
 - Contact Email: nikualbu92@gmail.com
-- Updated At: 2025-10-23T00:00:55.902Z
+- Updated At: 2025-10-23T08:00:40.147Z
 
 ## Products
 
@@ -464,7 +464,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-skater-dress-white-front-68d6be348b47e.jpg?v=1758903879
     Price: €36.00 EUR
 - [Golf rope cap](https://nicosstore.store/products/golf-rope-cap): Add a touch of classic style to your outfit with the golf rope cap. Featuring a structured fit, rope detail, and adjustable snapback, it’s perfect for any outing. • 70% cotton, 30% nylon • Unstructured, 5-panel, front panel lined • Semi-curved bill with contrasting rope • Contrasting snapback closure • One size fits most • Blank product sourced from Vietnam This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! In compliance with the General Product Safety Regulation (GPSR), Albu Nicolae ensures that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact us at nikualbu92@gmail.com or write to us Atzberg 18, Mitterskirskirchen ,84335 ,DE.Size guide A (cm) B (cm) C (cm) D (cm) One size 52-59 12 6.9 18.8
-  Updated: 2025-10-04T18:04:14Z
+  Updated: 2025-10-23T07:40:29Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
@@ -2181,7 +2181,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/17275778035340764426_2048.jpg?v=1759512331
     Price: €5.46 EUR
 - [Leopard Zip Up Fleece Jacket](https://nicosstore.store/products/leopard-zip-up-fleece-jacket): Features:Pocketed,Zipper Thickness:Normal Body:Not lined Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length Shoulder S 23.6 42.9 19.3 23.6 M 24 44.5 19.5 24.4 L 24.6 46.9 19.8 25.6 XL 25.2 49.2 20.1 26.8
-  Updated: 2025-10-22T09:40:35Z
+  Updated: 2025-10-23T06:40:56Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2203,7 +2203,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/3ef299f16d854caab6343103d9c9dd52-Max-Origin.webp?v=1759598855
     Price: €44.22 EUR
 - [Camouflage Print Mesh Long Sleeve Top](https://nicosstore.store/products/camouflage-print-mesh-long-sleeve-top): Features:Sheer Stretch:Slightly stretchy Material composition:95% polyester, 5% elastane Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 22.8 32.3 24 M 23.6 34.6 24.4 L 24.4 37 24.8 XL 25.2 40.2 25.2
-  Updated: 2025-10-22T23:21:50Z
+  Updated: 2025-10-23T03:22:01Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2687,7 +2687,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/9ba22ea1-9c50-4ae4-a4dd-6c37c944714d-Max.webp?v=1759681556
     Price: €29.44 EUR
 - [Leopard Half Button Long Sleeve Hoodie](https://nicosstore.store/products/leopard-half-button-long-sleeve-hoodie): Features: Buttoned Sheer: Opaque Stretch: Slightly stretchy Material composition: 90% polyester, 10% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Bust Sleeve Length Top Length S 4 39.4 28.2 24.2 M 6/8 41.7 28.7 25 L 10/12 44.1 29.3 25.8 XL 14/16 47.2 30 26.6
-  Updated: 2025-10-21T15:20:38Z
+  Updated: 2025-10-23T00:20:40Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2709,7 +2709,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/43b285e2-1149-4a98-8863-897c6119b5bf-Max.webp?v=1759681746
     Price: €23.65 EUR
 - [Double Take Full Size Cable-Knit Round Neck Cap Sleeve Sweater](https://nicosstore.store/products/double-take-full-size-cable-knit-round-neck-cap-sleeve-sweater): Features: Basic style Stretch: Slightly stretchy Material composition: 100% acrylic Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Top Length Shoulder Bust Sleeve Length S 6/8 25.6 23.2 42.5 0 M 10/12 26 24.4 44.9 0 L 14 26.4 25.6 47.2 0 XL 16 26.8 26.8 49.6 0 2XL 18/20 27.2 28.7 53.5 0 3XL 22/24 27.6 30.7 57.5 0
-  Updated: 2025-10-22T19:00:16Z
+  Updated: 2025-10-23T01:30:30Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2857,7 +2857,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/029fb0d8-97a9-44ea-a675-8ebf4e5f1fc8-Max.webp?v=1759681888
     Price: €37.03 EUR
 - [Oh Pima Cotton Wash Wide Striped Collared Neck Long Sleeve Top](https://nicosstore.store/products/oh-pima-cotton-wash-wide-striped-collared-neck-long-sleeve-top): Features: Basic style, Buttoned Sheer: Opaque Stretch: Slightly stretchy Material composition: 100% cotton Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Shoulder Bust Sleeve Length S 27.4 25.2 49.6 17.7 M 27.8 26 52 17.7 L 28.1 26.8 54.3 17.7 XL 28.5 28 57.5 17.7
-  Updated: 2025-10-22T14:00:16Z
+  Updated: 2025-10-23T06:45:15Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2981,7 +2981,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/69970997521447278c9cdd284b7e91a1-Max-Origin.webp?v=1759686330
     Price: €26.12 EUR
 - [Lace Detail Drawstring Long Sleeve Hoodie](https://nicosstore.store/products/lace-detail-drawstring-long-sleeve-hoodie): Features:Lace Detail,Pocketed,Drawstring Stretch:Slightly stretchy Material composition:75% polyester, 25% cotton Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 25.2 40.2 27.4 M 26 42.5 28 L 26.8 44.9 28.5
-  Updated: 2025-10-23T00:00:41Z
+  Updated: 2025-10-23T04:01:15Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5143,7 +5143,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/835a58e4-19a0-4254-9110-78f3797ccd16-Max-Origin.webp?v=1759861937
     Price: €24.99 EUR
 - [Men's Casual Color Block Zip Up Jacket With Hood](https://nicosstore.store/products/mens-casual-color-block-zip-up-jacket-with-hood-varsity-style-soft-fleece-lining-perfect-for-fall-winter-ideal-gift-for-teenagers-young-adults): SPECIFICATIONSApplicable People: MenBelt: NoCollar Style: HoodedComposition: 100% PolyesterDetails: ZipperFabric: Slight StretchFit Type: RegularItem ID: MN02556Length: RegularMaterial: PolyesterOccasion: Weekend CasualOperation Instruction: Machine wash, do not dry cleanOrigin: Jiangxi,ChinaOther Material: PolyesterPattern: PatchworkPlacket Type: PlacketSeason: WinterSheer: NoSleeve Length: Long SleeveSleeve Type: Regular SleeveStyle: CasualType: HoodieWeaving Method: Knit Fabric
-  Updated: 2025-10-14T05:12:44Z
+  Updated: 2025-10-23T05:38:25Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
@@ -5801,7 +5801,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/e57ea952fe6c4985beafe28d07bb261c-Max-Origin.webp?v=1760294810
     Price: €19.99 EUR
 - [Full Size Faux Fur Cropped Zip-Up Jacket Plus Size](https://nicosstore.store/products/full-size-faux-fur-cropped-zip-up-jacket-plus-size): Features:Oversized,Zipper Thickness:Thick Body:Not lined Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 20.9 37.4 22 M 21.3 39 22.4 L 21.7 40.6 22.8 XL 22 42.1 23.2 2XL 22.4 43.7 23.6 3XL 22.8 45.3 24 4XL 23.2 46.9 24.4 5XL 23.6 48.4 24.8
-  Updated: 2025-10-22T04:22:01Z
+  Updated: 2025-10-23T07:23:32Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -6701,7 +6701,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1f3faa88399643f6a94b96552fc6e016-Max.webp?v=1760382884
     Price: €20.99 EUR
 - [Slim Fit Casual Plaid Shirt for Men](https://nicosstore.store/products/slim-fit-casual-plaid-shirt-for-men): Step out in style with our Men Casual Plaid Shirt Slim Fit, expertly crafted from high-quality Cotton for ultimate comfort and breathability. This shirt is the perfect fusion of classic design and modern fit, making it an essential addition to any man's wardrobe. With a slim fit design and a stylish lapel, this shirt effortlessly combines sophistication with a casual vibe, allowing you to transition seamlessly from day to night. Available in three striking colors: white, red, and blue, you can easily find the perfect hue to match your personal style. Whether you're heading out for a relaxed weekend brunch or gearing up for a casual meeting, this shirt ensures you look sharp and put together. The versatile design pairs well with jeans, chinos, or shorts, making it a go-to option for any occasion. Choose from a range of sizes, including 2XL, 3XL, 4XL, L, M, and XL, ensuring a fit that flatters every body type. Check out the size chart to find your perfect match! See the shirt in action with our vibrant images below: Elevate your everyday style with this must-have plaid shirt. Don’t miss out – grab yours today and redefine your casual look!
-  Updated: 2025-10-15T20:01:44Z
+  Updated: 2025-10-23T05:38:26Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
@@ -7313,172 +7313,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/elyzav4cover.jpg?v=1760898260
   Price: €5.99 EUR
-- [Full Size Asymmetrical Zip-Up Hooded Fleece Outerwear Plus Size](https://nicosstore.store/products/full-size-asymmetrical-zip-up-hooded-fleece-outerwear-plus-size): Features:Basic style,Drawstring,Pocketed,Zipper Thickness:Normal Body:Not lined Material composition:95%polyester,5%spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust S 38.2 40.6 M 38.6 42.1 L 39 44.5 XL 39.4 46.5 2XL 39.8 48.4 3XL 40.2 50.4 4XL 40.6 52.4 5XL 40.9 54.3
-  Updated: 2025-10-22T06:52:20Z
-  Vendor: Trendsi
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/74521cee-a9f4-402d-8646-aac7076655d5-Max-Origin.webp?v=1761067206
-  - [Blue / S](https://nicosstore.store/products/full-size-asymmetrical-zip-up-hooded-fleece-outerwear-plus-size?variant=56027677950277)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/cfa45106-da45-40ed-bb09-051457e8d2ef-Max-Origin.webp?v=1761067206
-    Price: €26.99 EUR
-  - [Blue / M](https://nicosstore.store/products/full-size-asymmetrical-zip-up-hooded-fleece-outerwear-plus-size?variant=56027677983045)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/cfa45106-da45-40ed-bb09-051457e8d2ef-Max-Origin.webp?v=1761067206
-    Price: €26.99 EUR
-  - [Blue / L](https://nicosstore.store/products/full-size-asymmetrical-zip-up-hooded-fleece-outerwear-plus-size?variant=56027678015813)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/cfa45106-da45-40ed-bb09-051457e8d2ef-Max-Origin.webp?v=1761067206
-    Price: €26.99 EUR
-  - [Blue / XL](https://nicosstore.store/products/full-size-asymmetrical-zip-up-hooded-fleece-outerwear-plus-size?variant=56027678048581)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/cfa45106-da45-40ed-bb09-051457e8d2ef-Max-Origin.webp?v=1761067206
-    Price: €26.99 EUR
-  - [Blue / 2XL](https://nicosstore.store/products/full-size-asymmetrical-zip-up-hooded-fleece-outerwear-plus-size?variant=56027678081349)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/cfa45106-da45-40ed-bb09-051457e8d2ef-Max-Origin.webp?v=1761067206
-    Price: €26.99 EUR
-  - [Blue / 3XL](https://nicosstore.store/products/full-size-asymmetrical-zip-up-hooded-fleece-outerwear-plus-size?variant=56027678114117)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/cfa45106-da45-40ed-bb09-051457e8d2ef-Max-Origin.webp?v=1761067206
-    Price: €26.99 EUR
-  - [Blue / 4XL](https://nicosstore.store/products/full-size-asymmetrical-zip-up-hooded-fleece-outerwear-plus-size?variant=56027678146885)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/cfa45106-da45-40ed-bb09-051457e8d2ef-Max-Origin.webp?v=1761067206
-    Price: €26.99 EUR
-  - [Blue / 5XL](https://nicosstore.store/products/full-size-asymmetrical-zip-up-hooded-fleece-outerwear-plus-size?variant=56027678179653)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/cfa45106-da45-40ed-bb09-051457e8d2ef-Max-Origin.webp?v=1761067206
-    Price: €26.99 EUR
-  - [Khaki / S](https://nicosstore.store/products/full-size-asymmetrical-zip-up-hooded-fleece-outerwear-plus-size?variant=56027678212421)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/c30e973002da42b4ac5f31baa6ebbd6d-Max-Origin.webp?v=1761067206
-    Price: €26.99 EUR
-  - [Khaki / M](https://nicosstore.store/products/full-size-asymmetrical-zip-up-hooded-fleece-outerwear-plus-size?variant=56027678245189)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/c30e973002da42b4ac5f31baa6ebbd6d-Max-Origin.webp?v=1761067206
-    Price: €26.99 EUR
-  - [Khaki / L](https://nicosstore.store/products/full-size-asymmetrical-zip-up-hooded-fleece-outerwear-plus-size?variant=56027678277957)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/c30e973002da42b4ac5f31baa6ebbd6d-Max-Origin.webp?v=1761067206
-    Price: €26.99 EUR
-  - [Khaki / XL](https://nicosstore.store/products/full-size-asymmetrical-zip-up-hooded-fleece-outerwear-plus-size?variant=56027678310725)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/c30e973002da42b4ac5f31baa6ebbd6d-Max-Origin.webp?v=1761067206
-    Price: €26.99 EUR
-  - [Khaki / 2XL](https://nicosstore.store/products/full-size-asymmetrical-zip-up-hooded-fleece-outerwear-plus-size?variant=56027678343493)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/c30e973002da42b4ac5f31baa6ebbd6d-Max-Origin.webp?v=1761067206
-    Price: €26.99 EUR
-  - [Khaki / 3XL](https://nicosstore.store/products/full-size-asymmetrical-zip-up-hooded-fleece-outerwear-plus-size?variant=56027678376261)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/c30e973002da42b4ac5f31baa6ebbd6d-Max-Origin.webp?v=1761067206
-    Price: €26.99 EUR
-  - [Khaki / 4XL](https://nicosstore.store/products/full-size-asymmetrical-zip-up-hooded-fleece-outerwear-plus-size?variant=56027678409029)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/c30e973002da42b4ac5f31baa6ebbd6d-Max-Origin.webp?v=1761067206
-    Price: €26.99 EUR
-  - [Khaki / 5XL](https://nicosstore.store/products/full-size-asymmetrical-zip-up-hooded-fleece-outerwear-plus-size?variant=56027678441797)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/c30e973002da42b4ac5f31baa6ebbd6d-Max-Origin.webp?v=1761067206
-    Price: €26.99 EUR
-  - [Black / S](https://nicosstore.store/products/full-size-asymmetrical-zip-up-hooded-fleece-outerwear-plus-size?variant=56027678474565)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/7fdce9c4-fdf9-4fa2-aa71-586fb053247a-Max-Origin.webp?v=1761067205
-    Price: €26.99 EUR
-  - [Black / M](https://nicosstore.store/products/full-size-asymmetrical-zip-up-hooded-fleece-outerwear-plus-size?variant=56027678507333)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/7fdce9c4-fdf9-4fa2-aa71-586fb053247a-Max-Origin.webp?v=1761067205
-    Price: €26.99 EUR
-  - [Black / L](https://nicosstore.store/products/full-size-asymmetrical-zip-up-hooded-fleece-outerwear-plus-size?variant=56027678540101)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/7fdce9c4-fdf9-4fa2-aa71-586fb053247a-Max-Origin.webp?v=1761067205
-    Price: €26.99 EUR
-  - [Black / XL](https://nicosstore.store/products/full-size-asymmetrical-zip-up-hooded-fleece-outerwear-plus-size?variant=56027678572869)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/7fdce9c4-fdf9-4fa2-aa71-586fb053247a-Max-Origin.webp?v=1761067205
-    Price: €26.99 EUR
-  - [Black / 2XL](https://nicosstore.store/products/full-size-asymmetrical-zip-up-hooded-fleece-outerwear-plus-size?variant=56027678605637)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/7fdce9c4-fdf9-4fa2-aa71-586fb053247a-Max-Origin.webp?v=1761067205
-    Price: €26.99 EUR
-  - [Black / 3XL](https://nicosstore.store/products/full-size-asymmetrical-zip-up-hooded-fleece-outerwear-plus-size?variant=56027678638405)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/7fdce9c4-fdf9-4fa2-aa71-586fb053247a-Max-Origin.webp?v=1761067205
-    Price: €26.99 EUR
-  - [Black / 4XL](https://nicosstore.store/products/full-size-asymmetrical-zip-up-hooded-fleece-outerwear-plus-size?variant=56027678671173)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/7fdce9c4-fdf9-4fa2-aa71-586fb053247a-Max-Origin.webp?v=1761067205
-    Price: €26.99 EUR
-  - [Black / 5XL](https://nicosstore.store/products/full-size-asymmetrical-zip-up-hooded-fleece-outerwear-plus-size?variant=56027678703941)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/7fdce9c4-fdf9-4fa2-aa71-586fb053247a-Max-Origin.webp?v=1761067205
-    Price: €26.99 EUR
-  - [Pink / S](https://nicosstore.store/products/full-size-asymmetrical-zip-up-hooded-fleece-outerwear-plus-size?variant=56027678736709)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/a4f21475-a3d4-4803-95d0-53694034ec00-Max-Origin.webp?v=1761067205
-    Price: €26.99 EUR
-  - [Pink / M](https://nicosstore.store/products/full-size-asymmetrical-zip-up-hooded-fleece-outerwear-plus-size?variant=56027678769477)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/a4f21475-a3d4-4803-95d0-53694034ec00-Max-Origin.webp?v=1761067205
-    Price: €26.99 EUR
-  - [Pink / L](https://nicosstore.store/products/full-size-asymmetrical-zip-up-hooded-fleece-outerwear-plus-size?variant=56027678802245)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/a4f21475-a3d4-4803-95d0-53694034ec00-Max-Origin.webp?v=1761067205
-    Price: €26.99 EUR
-  - [Pink / XL](https://nicosstore.store/products/full-size-asymmetrical-zip-up-hooded-fleece-outerwear-plus-size?variant=56027678835013)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/a4f21475-a3d4-4803-95d0-53694034ec00-Max-Origin.webp?v=1761067205
-    Price: €26.99 EUR
-  - [Pink / 2XL](https://nicosstore.store/products/full-size-asymmetrical-zip-up-hooded-fleece-outerwear-plus-size?variant=56027678867781)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/a4f21475-a3d4-4803-95d0-53694034ec00-Max-Origin.webp?v=1761067205
-    Price: €26.99 EUR
-  - [Pink / 3XL](https://nicosstore.store/products/full-size-asymmetrical-zip-up-hooded-fleece-outerwear-plus-size?variant=56027678900549)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/a4f21475-a3d4-4803-95d0-53694034ec00-Max-Origin.webp?v=1761067205
-    Price: €26.99 EUR
-  - [Pink / 4XL](https://nicosstore.store/products/full-size-asymmetrical-zip-up-hooded-fleece-outerwear-plus-size?variant=56027678933317)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/a4f21475-a3d4-4803-95d0-53694034ec00-Max-Origin.webp?v=1761067205
-    Price: €26.99 EUR
-  - [Pink / 5XL](https://nicosstore.store/products/full-size-asymmetrical-zip-up-hooded-fleece-outerwear-plus-size?variant=56027678966085)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/a4f21475-a3d4-4803-95d0-53694034ec00-Max-Origin.webp?v=1761067205
-    Price: €26.99 EUR
-  - [Green / S](https://nicosstore.store/products/full-size-asymmetrical-zip-up-hooded-fleece-outerwear-plus-size?variant=56027678998853)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/892f8ddd-d0f3-402b-91f7-4dced07861df-Max-Origin.webp?v=1761067205
-    Price: €26.99 EUR
-  - [Green / M](https://nicosstore.store/products/full-size-asymmetrical-zip-up-hooded-fleece-outerwear-plus-size?variant=56027679031621)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/892f8ddd-d0f3-402b-91f7-4dced07861df-Max-Origin.webp?v=1761067205
-    Price: €26.99 EUR
-  - [Green / L](https://nicosstore.store/products/full-size-asymmetrical-zip-up-hooded-fleece-outerwear-plus-size?variant=56027679064389)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/892f8ddd-d0f3-402b-91f7-4dced07861df-Max-Origin.webp?v=1761067205
-    Price: €26.99 EUR
-  - [Green / XL](https://nicosstore.store/products/full-size-asymmetrical-zip-up-hooded-fleece-outerwear-plus-size?variant=56027679097157)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/892f8ddd-d0f3-402b-91f7-4dced07861df-Max-Origin.webp?v=1761067205
-    Price: €26.99 EUR
-  - [Green / 2XL](https://nicosstore.store/products/full-size-asymmetrical-zip-up-hooded-fleece-outerwear-plus-size?variant=56027679129925)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/892f8ddd-d0f3-402b-91f7-4dced07861df-Max-Origin.webp?v=1761067205
-    Price: €26.99 EUR
-  - [Green / 3XL](https://nicosstore.store/products/full-size-asymmetrical-zip-up-hooded-fleece-outerwear-plus-size?variant=56027679162693)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/892f8ddd-d0f3-402b-91f7-4dced07861df-Max-Origin.webp?v=1761067205
-    Price: €26.99 EUR
-  - [Green / 4XL](https://nicosstore.store/products/full-size-asymmetrical-zip-up-hooded-fleece-outerwear-plus-size?variant=56027679195461)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/892f8ddd-d0f3-402b-91f7-4dced07861df-Max-Origin.webp?v=1761067205
-    Price: €26.99 EUR
-  - [Green / 5XL](https://nicosstore.store/products/full-size-asymmetrical-zip-up-hooded-fleece-outerwear-plus-size?variant=56027679228229)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/892f8ddd-d0f3-402b-91f7-4dced07861df-Max-Origin.webp?v=1761067205
-    Price: €26.99 EUR
 - [Textured Zip Up Long Sleeve Jacket](https://nicosstore.store/products/textured-zip-up-long-sleeve-jacket): Features:Zipper Thickness:Normal Body:Not lined Material composition:95% polyester, 5% spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 24.8 37.8 23.2 M 25.2 39.4 23.6 L 25.6 41.7 24 XL 26 44.1 24.4 2XL 26.4 46.5 24.8
   Updated: 2025-10-22T11:55:31Z
   Vendor: Trendsi
