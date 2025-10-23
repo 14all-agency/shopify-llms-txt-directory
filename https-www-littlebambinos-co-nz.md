@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2014-08-05T01:45:52Z
 - Contact Email: info@littlebambinos.co.nz
-- Updated At: 2025-10-22T20:00:51.324Z
+- Updated At: 2025-10-23T08:00:55.788Z
 
 ## Products
 
@@ -2831,6 +2831,27 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/image_540x_485153ba-497a-4401-8319-d20f8529d5d2.jpg?v=1665538292
   Price: $34.00 NZD
+- [SONNIE Varsity Tee - Dusty Pink](https://www.littlebambinos.co.nz/products/sonnie-varsity-tee-pink): A relaxed fit t-shirt with the SONNIE varsity print on the chest and cut in 100% GOTS certified organic cotton. DETAILS GOTS Certified organic cotton Printed chest logo in blue/red Relaxed fit Unisex CARE: Machine wash cold. Tumble dry low. GOTS (Global Organic Textile Standard) is the world’s highest certification of organic fibres. The GOTS label ensures a garment is authentically organic from seed to finished product.
+  Updated: 2025-10-23T03:25:59Z
+  Vendor: Sonnie
+  Product Type: T-Shirtss
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/products/VarsityTeePink_Front.png?v=1665479679
+  - [1y](https://www.littlebambinos.co.nz/products/sonnie-varsity-tee-pink?variant=39968687194206)
+    Availability: Available
+    Price: $59.00 NZD
+  - [2-3y](https://www.littlebambinos.co.nz/products/sonnie-varsity-tee-pink?variant=39968687226974)
+    Availability: Available
+    Price: $59.00 NZD
+  - [4-5y](https://www.littlebambinos.co.nz/products/sonnie-varsity-tee-pink?variant=39968687259742)
+    Availability: Available
+    Price: $59.00 NZD
+  - [6-7y](https://www.littlebambinos.co.nz/products/sonnie-varsity-tee-pink?variant=39968687292510)
+    Availability: Available
+    Price: $59.00 NZD
+  - [8-9y](https://www.littlebambinos.co.nz/products/sonnie-varsity-tee-pink?variant=39968687325278)
+    Availability: Not Available
+    Price: $59.00 NZD
 - [SONNIE Charlie Short - Off White](https://www.littlebambinos.co.nz/products/sonnie-charlie-short-off-white): The Charlie Long Shorts are a summer must-have. They are lightweight and loose fitting with an elasticated waist, back pocket, signature Sonnie flag embroidery and cut in 100% GOTS certified organic cotton.Â DETAILS 100% GOTS certified organic cotton jersey Elasticated waistband Loose leg Sonnie embroidery at thigh Back & side pockets Composition: 100% organic cotton - GOTS Certified.Â CARE: Machine wash cold. Tumble dry low.Â GOTS (Global Organic Textile Standard) is the worldâ€™s highestÂ certification of organic fibres. The GOTS label ensures a garment is authentically organic from seed to finished product.
   Updated: 2025-08-06T22:46:25Z
   Vendor: Sonnie
@@ -5468,7 +5489,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $45.00 NZD
 - [TOSHI Sunhat Olly - Indiana](https://www.littlebambinos.co.nz/products/copy-of-toshi-sunhat-olly-forest): The Olly Sunhat is a classic, gender-neutral sunhat for children of all ages. The broad and well-structured brim offers increased sun protection. A head toggle creates adjustable sizing and the chin tie with toggle secures the hat and offers ease of wear. 100% cotton.
-  Updated: 2025-09-29T17:27:36Z
+  Updated: 2025-10-23T03:20:46Z
   Vendor: Toshi
   Product Type: Hats
   Availability: Available
@@ -5483,10 +5504,10 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $44.95 NZD
   - [L](https://www.littlebambinos.co.nz/products/copy-of-toshi-sunhat-olly-forest?variant=41998351335518)
-    Availability: Not Available
+    Availability: Available
     Price: $44.95 NZD
 - [TOSHI Sunhat Olly - Marsala](https://www.littlebambinos.co.nz/products/toshi-sunhat-olly-marsala): The Olly Sunhat is a classic, gender-neutral sunhat for children of all ages. The broad and well-structured brim offers increased sun protection. A head toggle creates adjustable sizing and the chin tie with toggle secures the hat and offers ease of wear. 100% cotton.
-  Updated: 2025-09-29T17:27:36Z
+  Updated: 2025-10-23T02:34:29Z
   Vendor: Toshi
   Product Type: Hats
   Availability: Available
@@ -5498,7 +5519,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $44.95 NZD
   - [L](https://www.littlebambinos.co.nz/products/toshi-sunhat-olly-marsala?variant=40039501365342)
-    Availability: Not Available
+    Availability: Available
     Price: $44.95 NZD
 - [TOSHI Swim Baby Bell Hat Classic - Coral](https://www.littlebambinos.co.nz/products/swim-baby-bell-hat-classic-coral): Toshi Swim Bell Hat is a flattering and feminine bell shape baby sunhat. The baby sunhat features an adjustable head tie and chin tie to secure the hat. Pretty styling is created with a softly frilled border. Most importantly, the classic bell hat has a well structured brim that maintains shape when wet.Â DETAILSÂ UPF 50+ UV protection Chlorine safe and pool friendly Well structured brim maintains shape when wet Original and exclusive Toshi print design Quality crafting provides lasting durability SIZINGÂ Size Head Circumference (cm) Age Guide XXS 37 Premmy - Newborn XS 43 Up to 8m S 52 8m - 2y M 54 2y - Small Grown Up L 56 Big Kid - Grown Up
   Updated: 2025-08-06T22:39:49Z
@@ -5531,7 +5552,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $50.00 NZD
 - [TOSHI Swim Flap Cap Classic - Athena Dusk](https://www.littlebambinos.co.nz/products/toshi-swim-flap-cap-classic-athena-dusk): The beauty, functionality and elevated quality for which Toshi is traditionally renowned, is crafted into an exquisite baby swimwear collection. Rated UPF50+, Toshi Swim offers maximised sun protection and water safety. The finest quality fabrication is fast drying, chlorine and salt water friendly. The classic Flap Cap features a neck flap for enhanced sun protection, head tie for adjustable sizing and chin tie to secure the hat. Most importantly, the classic flap cap has a well structured brim that maintains shape when wet. DETAILS Neck flap for enhanced sun protection Head tie for adjustable sizing Chin tie to secure hat Seamless crown Chlorine safe and pool friendly SIZING Size Head Circumference (cm) Age Guide XXS 37 Premmy - Newborn XS 43 Up to 8m S 52 8m - 2y M 54 2y - Small Grown Up L 56 Big Kid - Grown Up Â
-  Updated: 2025-10-01T00:47:08Z
+  Updated: 2025-10-23T02:52:01Z
   Vendor: Toshi
   Product Type: Hats
   Availability: Available
@@ -5567,7 +5588,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $40.00 NZD
 - [TOSHI Swim Flap Cap Classic - Sunny](https://www.littlebambinos.co.nz/products/toshi-swim-flap-cap-classic-sunny): The beauty, functionality and elevated quality for which Toshi is traditionally renowned, is crafted into an exquisite baby swimwear collection. Rated UPF50+, Toshi Swim offers maximised sun protection and water safety. The finest quality fabrication is fast drying, chlorine and salt water friendly. The classic Flap Cap features a neck flap for enhanced sun protection, head tie for adjustable sizing and chin tie to secure the hat. Most importantly, the classic flap cap has a well structured brim that maintains shape when wet. DETAILS Neck flap for enhanced sun protection Head tie for adjustable sizing Chin tie to secure hat Seamless crown Chlorine safe and pool friendly SIZING Size Head Circumference (cm) Age Guide XXS 37 Premmy - Newborn XS 43 Up to 8m S 52 8m - 2y M 54 2y - Small Grown Up L 56 Big Kid - Grown Up Â
-  Updated: 2025-10-01T00:47:08Z
+  Updated: 2025-10-23T02:47:20Z
   Vendor: Toshi
   Product Type: Hats
   Availability: Available
@@ -6275,7 +6296,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $29.00 NZD
 - [SONNIE Classic Crew Sock 2-Pack](https://www.littlebambinos.co.nz/products/sonnie-classic-crew-sock-2-pack-1): Two pairs of classic, comfortable kids' crew socks in white A cosy cotton blend with a hint of stretch. Signature Sonnie flag embroidery in navy Ribbed cuffs ensureÂ a secure, comfortable fit Thick cushioned footbed Composition: 78% cotton, 19% polyester, 3% elastane Care: Machine wash cold. Tumble dry low.
-  Updated: 2025-10-16T13:34:19Z
+  Updated: 2025-10-23T03:23:58Z
   Vendor: Sonnie
   Product Type: Socks
   Availability: Available
@@ -6286,6 +6307,23 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   - [US5-8](https://www.littlebambinos.co.nz/products/sonnie-classic-crew-sock-2-pack-1?variant=40044518572126)
     Availability: Available
     Price: $16.50 NZD
+- [SONNIE Varsity Crewneck - Cobalt Blue](https://www.littlebambinos.co.nz/products/sonnie-varsity-crewneck-cobalt-blue)
+  Updated: 2025-10-23T03:27:09Z
+  Vendor: Sonnie
+  Product Type: Jumpers
+  Availability: Available
+  - [2-3y](https://www.littlebambinos.co.nz/products/sonnie-varsity-crewneck-cobalt-blue?variant=40044521652318)
+    Availability: Available
+    Price: $85.00 NZD
+  - [4-5y](https://www.littlebambinos.co.nz/products/sonnie-varsity-crewneck-cobalt-blue?variant=40044521685086)
+    Availability: Available
+    Price: $85.00 NZD
+  - [6-7y](https://www.littlebambinos.co.nz/products/sonnie-varsity-crewneck-cobalt-blue?variant=40044521717854)
+    Availability: Available
+    Price: $85.00 NZD
+  - [8-9y](https://www.littlebambinos.co.nz/products/sonnie-varsity-crewneck-cobalt-blue?variant=40044521750622)
+    Availability: Available
+    Price: $85.00 NZD
 - [SONNIE Orla Ribbed Bike Shorts - Sunflower](https://www.littlebambinos.co.nz/products/sonnie-orla-ribbed-bike-shorts-sunflower): Soft, comfy, everyday essentials.Â Organic cotton ribbed bike shorts with just enough stretch.Â DETAILS 95% GOTS certified organic cotton, 5% elastane Elasticated waistband Fitted CARE: Machine wash cold. Tumble dry low.Â GOTS (Global Organic Textile Standard) is the worldâ€™s highestÂ certification of organic fibres. The GOTS label ensures a garment is authentically organic from seed to finished product.
   Updated: 2025-08-06T22:48:09Z
   Vendor: Sonnie
@@ -7332,7 +7370,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $49.00 NZD
 - [GROWN Organic Funfetti Overalls - Splice](https://www.littlebambinos.co.nz/products/organic-funfetti-overalls-splice): 100% Organic Cotton with GOTS certification Medium weight, Jersey knitted overalls Wooden buttons with adjustable straps Made from a cosy and soft yarn Funfetti yarn dyed
-  Updated: 2025-08-06T22:48:39Z
+  Updated: 2025-10-23T05:39:12Z
   Vendor: Grown
   Product Type: Overalls
   Availability: Available
@@ -7347,7 +7385,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $42.00 NZD
   - [3](https://www.littlebambinos.co.nz/products/organic-funfetti-overalls-splice?variant=40414141579358)
-    Availability: Available
+    Availability: Not Available
     Price: $42.00 NZD
 - [GROWN Kids Twiggy Tassel Towel - Pistachio](https://www.littlebambinos.co.nz/products/kids-twiggy-tassel-towel-pistachio): 100% COTTON JACQUARD WEAVE, WITH TASSEL KIDS SIZE - 70 X 120CM TWIGGY PATTERN 574GSM
   Updated: 2025-08-07T20:46:30Z
@@ -8952,7 +8990,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $44.95 NZD
 - [TOSHI Sunhat Felicia - Thyme](https://www.littlebambinos.co.nz/products/toshi-sunhat-felicia-sunny-copy): Original and exclusive Toshi print design Fully lined for increased comfort. Quality crafting provides lasting durability. DETAILS: Head tie and toggle for adjustable sizing. Chin tie and toggle to secure hat. Security release clasp for increased wearer safety. Broad brim for enhanced sun protection. Finest quality 100% cotton. SIZING: Size Head Circumference (cm) Age Guide XXS 37 Premmy - Newborn XS 43 Up to 8m S 52 8m - 2y M 54 2y - Small Grown Up L 56 Big Kid - Grown Up
-  Updated: 2025-08-06T22:40:12Z
+  Updated: 2025-10-23T03:15:53Z
   Vendor: Toshi
   Product Type: Hat
   Availability: Available
@@ -8964,7 +9002,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $44.95 NZD
   - [L](https://www.littlebambinos.co.nz/products/toshi-sunhat-felicia-sunny-copy?variant=41083234779230)
-    Availability: Available
+    Availability: Not Available
     Price: $44.95 NZD
 - [TOSHI Flap Cap Baby - Periwinkle](https://www.littlebambinos.co.nz/products/toshi-flap-cap-baby-periwinkle): The Toshi Flap Cap Baby is our most popular baby sunhat. Shielding precious babies form the elements is the priority and our flap cap has a contoured neck flap. Rated UPF 50+, this Toshi Sunhat offers maximised sun protection. DETAILS: A head tie creates adjustable sizing and the chin tie secures the cap. The cap is fully lined for increased comfort. Made from the finest quality cotton knit, the baby sunhat is gentle to wear, functional and practical. Flap Cap Baby Periwinkle features a French navy stripe and is an ideal gender-neutral baby sunhat for fun in the sun. SIZING Size Head Circumference (cm) Age Guide XXS 37 Premmy - Newborn XS 43 Up to 8m S 52 8m - 2y M 54 2y - Small Grown Up L 56 Big Kid - Grown Up
   Updated: 2025-10-11T18:18:19Z
@@ -9000,7 +9038,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $44.95 NZD
 - [TOSHI Children's Sunhat Olly - Chestnut](https://www.littlebambinos.co.nz/products/toshi-sunhat-olly-driftwood): The Olly Sunhat is a classic, gender-neutral sunhat for children of all ages. The broad and well-structured brim offers increased sun protection. A head toggle creates adjustable sizing and the chin tie with toggle secures the hat and offers ease of wear. 100% cotton.
-  Updated: 2025-10-09T00:22:40Z
+  Updated: 2025-10-23T06:21:17Z
   Vendor: Toshi
   Product Type: Hats
   Availability: Available
@@ -9009,13 +9047,13 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Not Available
     Price: $44.95 NZD
   - [M](https://www.littlebambinos.co.nz/products/toshi-sunhat-olly-driftwood?variant=41090996306014)
-    Availability: Not Available
+    Availability: Available
     Price: $44.95 NZD
   - [L](https://www.littlebambinos.co.nz/products/toshi-sunhat-olly-driftwood?variant=41090996338782)
     Availability: Available
     Price: $44.95 NZD
 - [TOSHI Children's Sunhat Olly - Chestnut](https://www.littlebambinos.co.nz/products/toshi-sunhat-olly-ink): The Olly Sunhat is a classic, gender-neutral sunhat for children of all ages. The broad and well-structured brim offers increased sun protection. A head toggle creates adjustable sizing and the chin tie with toggle secures the hat and offers ease of wear. 100% cotton.
-  Updated: 2025-10-21T20:11:54Z
+  Updated: 2025-10-23T02:34:33Z
   Vendor: Toshi
   Product Type: Hats
   Availability: Available
@@ -9027,7 +9065,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $44.95 NZD
   - [L](https://www.littlebambinos.co.nz/products/toshi-sunhat-olly-ink?variant=41091006431326)
-    Availability: Not Available
+    Availability: Available
     Price: $44.95 NZD
 - [TOSHI Organic Booties - Marley Snowflake](https://www.littlebambinos.co.nz/products/toshi-organic-booties-marley-snowflake): The much loved Toshi Organic Baby Booties Marley are made from the finest quality certified 100% organic cotton yarn. Organic certification ensures the booties are gentle on your babies delicate feet, as well as the environment. The beautifully-textured melange yarn brings an element of refinement to this Toshi baby accessory. Carefully crafted with a ribbed knit cuff, Toshi booties stay up while maintaining healthy circulation. Our booties are ankle height and are designed to protect precious tootsies during rest and play. Cute pom poms create a whimsical style and the ties ensure a snug fit. The colour of this pair of booties is Feather, a natural and earthy gender-neutral hue. Toshi booties are packaged in a quality box and make an ideal newborn gift. DETAILS - Certified 100% organic cotton yarn- Organic cotton is gentle on delicate baby skin & our precious environment- Beautifully textured melange yarn- Handcrafted feel- Two cute pom poms adorn each bootie- Ribbed knit cuffs hold booties in place- Ties for secure fit- Individually packaged in quality gift box- Quality crafting provides lasting durability- Designed in Australia, made in China COMPOSITION - Certified 100% Organic Cotton Yarn
   Updated: 2025-08-28T00:04:36Z
@@ -9453,7 +9491,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $44.95 NZD
 - [TOSHI Children's Sunhat Olly - Chestnut](https://www.littlebambinos.co.nz/products/toshi-swim-sunhat-classic-surfs-up): The Olly Sunhat is a classic, gender-neutral sunhat for children of all ages. The broad and well-structured brim offers increased sun protection. A head toggle creates adjustable sizing and the chin tie with toggle secures the hat and offers ease of wear. 100% cotton.
-  Updated: 2025-09-29T07:22:56Z
+  Updated: 2025-10-23T02:34:29Z
   Vendor: Toshi
   Product Type: Hats
   Availability: Available
@@ -9528,13 +9566,13 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $69.00 NZD
 - [TOSHI Swim Kids Bodysuit Classic - Moonlight Bloom](https://www.littlebambinos.co.nz/products/toshi-swim-kids-bodysuit-classic-moonlight-bloom): DETAILS UPF 50+ UV protection Chlorine safe, pool & salt water friendly Quality Nylon fabrication for luxuriously soft hand feel Lightweight, fast drying & sun resistant Inner lining provides for modesty and comfort Enhanced elastic recovery High neckline and long sleeves for greater sun protection Seamless armhole, sleeve and sides for enhanced comfort Front opening zip for ease of dressing YKK zip for superior functionality and durability Original and exclusive Toshi print design Quality crafting provides lasting durability Designed in Australia, made in China
-  Updated: 2025-09-30T02:44:42Z
+  Updated: 2025-10-23T02:48:47Z
   Vendor: Toshi
   Product Type: Swimwear
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/SK_BSU_CLA_MNB_A_Toshi_3f89c262-c4b9-4534-beb8-5f031b73f1a3.jpg?v=1724291607
   - [3y](https://www.littlebambinos.co.nz/products/toshi-swim-kids-bodysuit-classic-moonlight-bloom?variant=41100416778334)
-    Availability: Not Available
+    Availability: Available
     Price: $69.00 NZD
   - [4y](https://www.littlebambinos.co.nz/products/toshi-swim-kids-bodysuit-classic-moonlight-bloom?variant=41100416811102)
     Availability: Not Available
@@ -10404,12 +10442,30 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BUNNYCAPPUCCINONATUR.webp?v=1730256672
   Price: $145.00 NZD
 - [MOONIE Organic Humming Bunny 2.0 - Rose](https://www.littlebambinos.co.nz/products/moonie-organic-humming-bunny-rose): MOONIE the humming bunny is a professional baby sleep aid, helping babies easily fall a sleep.  And that's not all... MOONIE is also night lamp. Features five natural soothing sounds, a gentle lullaby, delicate LED light with 5 settings, Smart Cry Detector, USB rechargeable. Can be used from birth. Made in Poland. Free shipping within New Zealand on orders over $149.
-  Updated: 2025-10-01T06:47:25Z
+  Updated: 2025-10-22T21:55:21Z
   Vendor: MOONIE
   Product Type: Sleep Aid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/rose.webp?v=1730257074
   Price: $145.00 NZD
+- [SONNIE Heart Tee - Violet](https://www.littlebambinos.co.nz/products/sonnie-heart-tee): A relaxed boxy short-sleeve t-shirt with a Red heart embroidery at the chest. This 100% GOTS-certified organic cotton kids' tee is a must-have Spring/Summer staple. Violet colour way100% GOTS-certified organic cotton Boxy fit Red heart embroidery on the chest GOTS (Global Organic Textile Standard) is the world’s highest certification of organic fibres. The GOTS label ensures a garment is authentically organic from seed to finished product.
+  Updated: 2025-10-23T03:26:01Z
+  Vendor: Sonnie
+  Product Type: Tops
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/hearttee.webp?v=1730324507
+  - [1y](https://www.littlebambinos.co.nz/products/sonnie-heart-tee?variant=41249489551454)
+    Availability: Available
+    Price: $59.00 NZD
+  - [2-3y](https://www.littlebambinos.co.nz/products/sonnie-heart-tee?variant=41249489584222)
+    Availability: Available
+    Price: $59.00 NZD
+  - [4-5y](https://www.littlebambinos.co.nz/products/sonnie-heart-tee?variant=41249489616990)
+    Availability: Available
+    Price: $59.00 NZD
+  - [6-7y](https://www.littlebambinos.co.nz/products/sonnie-heart-tee?variant=41249489649758)
+    Availability: Available
+    Price: $59.00 NZD
 - [SONNIE Orla Bike Shorts - Ultra Violet](https://www.littlebambinos.co.nz/products/sonnie-orla-ribbed-bike-shorts-ultra-violet): Soft, comfy, everyday essentials. Organic cotton ribbed bike shorts with just enough stretch. DETAILS 95% GOTS certified organic cotton, 5% elastane Elasticated waistband Fitted CARE: Machine wash cold. Tumble dry low. GOTS (Global Organic Textile Standard) is the worldâ€™s highest certification of organic fibres.
   Updated: 2025-10-16T02:00:09Z
   Vendor: Sonnie
@@ -10942,7 +10998,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BBB_1504_OPTIMISED.jpg?v=1734472147
   Price: $24.00 NZD
 - [BYEBYEBAD Natural Hand Protector 75ml](https://www.littlebambinos.co.nz/products/alcohol-free-hand-protector): Wave your hands like you’ve won the lottery, knowing your precious mitts can now be protected from bad bugs without the need to use yucky, stinky hand sanitisers! Our natural, alcohol-free, Bioactive Totarol™ powered Hand Protector applies a layer over the skin that inhibits growth of bad bacteria, this allows the good bacteria to thrive, the more good bacteria are thriving the more you are protected (unlike traditional hand sanitisers that kill everything). It stays active for 24 hours all while nourishing your skin by fusing Kawakawa, Hemp, Manuka and Echinacea. A few sprays a day of this natural hand protector will keep the bad bugs at bay! Our handy 75ml travel size, is perfect for on-the-go, storing in your handbag, car, desk drawer or nappy bag. 99% natural protects against 99.99% of bugs alcohol-free tested and proven against a range of household pathogens active for 24hrs rebalances skin ph levels antibacterial & antioxidant bioactive totarol™ made in new zealand cruelty free vegan friendly protector of all things good Ingredients: Water (aqua), Decyl glucoside, Betaine, Polyglyceryl-4 Laurate/Sebacate, polyglyceryl-6 caprylate/caprate, Glycerine, tocopherol, Aloe Barbendasis (Aloe Vera) Leaf Extract, Galactoarabinan, Mentha Piperita (Peppermint) Leaf Oil, Organic Cannabis Sativa (Hemp) Seed Oil, Sodium Caproyl/Lauroyl Lactylate/Triethyl Citrate, Salvia Officinalis (Sage) Oil, Echinacea Purpurea (Echinacea) Root Extract, Macropiper Excelsum (Kawakawa) Leaf Extract, Calendula Officinalis (Calendula) Flower Extract, Benzyl Alcohol, Helianthus Annuus (Sunflower) Seed Oil, Totarol, Polysorbate 60, Caprylhydroxamic Acid, Glyceryl Caprylate.
-  Updated: 2025-10-21T23:48:41Z
+  Updated: 2025-10-23T07:52:40Z
   Vendor: byebyebad™
   Product Type: 
   Availability: Available
@@ -10963,7 +11019,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BBB_1493_OPTIMISED.jpg?v=1734472277
   Price: $20.00 NZD
 - [BYEBYEBAD Natural Hand Protector 550ml](https://www.littlebambinos.co.nz/products/natural-hand-protector-550ml): Wave your hands like you’ve won the lottery, knowing your precious mitts can now be protected from bad bugs without the need to use yucky, stinky hand sanitisers! Our natural, alcohol-free, Bioactive Totarol™ powered Hand Protector applies a layer over the skin that inhibits growth of bad bacteria, this allows the good bacteria to thrive, the more good bacteria are thriving, the more you are protected (unlike traditional hand sanitisers that kill everything). It stays active for 24 hours all while nourishing your skin by fusing Kawakawa, Hemp, Manuka and Echinacea. A few pumps a day of this natural hand protector will keep the bad bugs at bay! 99% natural protects against 99.99% of bugs alcohol-free active for 24hrs tested and proven against a range of household pathogens rebalances skin ph levels antibacterial & antioxidant bioactive totarol™ made in new zealand cruelty free vegan friendly protector of all things good Ingredients: Water (aqua), Decyl glucoside, Betaine, Polyglyceryl-4 Laurate/Sebacate, polyglyceryl-6 caprylate/caprate, Glycerine, tocopherol, Aloe Barbendasis (Aloe Vera) Leaf Extract, Galactoarabinan, Mentha Piperita (Peppermint) Leaf Oil, Organic Cannabis Sativa (Hemp) Seed Oil, Sodium Caproyl/Lauroyl Lactylate/Triethyl Citrate, Salvia Officinalis (Sage) Oil, Echinacea Purpurea (Echinacea) Root Extract, Macropiper Excelsum (Kawakawa) Leaf Extract, Calendula Officinalis (Calendula) Flower Extract, Benzyl Alcohol, Helianthus Annuus (Sunflower) Seed Oil, Totarol, Polysorbate 60, Caprylhydroxamic Acid, Glyceryl Caprylate.
-  Updated: 2025-10-21T23:48:42Z
+  Updated: 2025-10-22T21:50:42Z
   Vendor: byebyebad™
   Product Type: 
   Availability: Available
@@ -13120,7 +13176,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/rejuvenating_face_oil.jpg?v=1743995362
   Price: $79.00 NZD
 - [Positivity Mist](https://www.littlebambinos.co.nz/products/positivity-mist): 100% Natural Uplift moodPromote confidenceIncrease optimism Bring lightness, energy & optimism into your day with our Positivity Mist. This light pick-me-up is formulated with organic essential oils known to promote confidence, clear thinking & positivity. Simply mist & enjoy the benefits of geranium, grapefruit, sweet orange & more. 200ml How to use Use as a body & aura spray or room & linen spray. Ingredients Purified aqua, Pelargonium Graveolens* (Geranium Essential Oil), Citrus Paradisii* (Grapefruit), (Sweet Orange), Cymbopogon Flexuosus* (Lemongrass), Citrus Aurantium (Neroli), Citrus Sinensis* Cymbopogon Winterianus jowitt* (Citronella), Limnanthes Alba (Meadow foam seed oil)
-  Updated: 2025-10-19T02:42:41Z
+  Updated: 2025-10-22T20:26:40Z
   Vendor: Oria Skin
   Product Type: Spritzer
   Availability: Available
@@ -13141,7 +13197,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/stress_relief_3d85644d-7191-425c-bb69-cc6ff0660e8e.jpg?v=1744072591
   Price: $39.00 NZD
 - [ORIA SKIN Rose Calming Toner](https://www.littlebambinos.co.nz/products/pink-moon-calming-toner): 100% Natural Restore hydration.Reduce inflammation.Bring balance. Soothe stressed, damaged or dry skin with this refreshing face mist. Nature's calming rose water hydrates & relieves skin irritation while balancing your protective barrier. Geranium’s hormone balancing, healing and antiseptic properties are suitable for dry, oily or combination skin. Use as a traditional toner or when extra hydration is needed. Balance is the key to your glow. How this works: Rosewater has anti-inflammatory properties that can help you get rid of acne, eczema, dermatitis and reduces redness of irritated skin. Hydrates, revitalises, and moisturises the skin. Helps to maintain the skin's pH balance and is suitable for all types of skin. How to use Mist over face after cleansing or when extra hydration is needed. Follow with serum, moisturiser and oil to complete your skin regime. Ingredients Rosa damascena distillate* (Rose Hydrosol), Aqua, Hamamelis Virginiana* Witch Hazel, Water (and) Alcohol, Pelargonium graveolens* (Geranium essential oil). *organic
-  Updated: 2025-10-18T21:22:41Z
+  Updated: 2025-10-23T01:46:40Z
   Vendor: Oria Skin
   Product Type: Skincare
   Availability: Available
@@ -13161,7 +13217,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $59.00 NZD
 - [ORIA SKIN All Body Oil](https://www.littlebambinos.co.nz/products/all-body-oil): 100% Natural Deep hydrationSoothes dryness Balanced mood A true multi-tasking oil, use all over to leave your body feeling supple and nourished. Rich in vitamins A, C & E to bring hydration & glow to your skin, while geranium regulates & supports hormones. Lovingly massage into body after surf, sun, shave or shower. Can also be used to tame unruly hair. How it works: Apricot Kernel - deeply moisturises the skin but also helps prevent further environmental damage Sesame Oil - has a reverse ageing effect -helps prevents further premature ageing and UV damage to the skin while giving it an instant renewed glow. Effective in treating skin conditions like inflammation, eczema, psoriasis, and redness. Avocado - speeds the healing of the skin by revving up the collagen production Geranium - Balancing to the hormones, mood and mind. How to use Massage whole body for hydration or use as a nourishing bath and shower oil. Reach for this oil when hormonal support is needed. Ingredients Prunus armeniaca oil (Apricot Kernal), Helianthus annuus oil* (Sunflower)l,Sesamum indicum oil* (Sesame)l, Persea gratissima oil (Avocado*), Genus Pelargoniun (Geranium) Essential Oil. *Organic
-  Updated: 2025-10-22T19:52:43Z
+  Updated: 2025-10-23T07:52:41Z
   Vendor: Oria Skin
   Product Type: Skincare
   Availability: Available
@@ -13200,7 +13256,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Brightening_enzyme_polish_0e4248ac-be4d-462a-9664-dc5effe82b4f.jpg?v=1744072243
   Price: $69.00 NZD
 - [ORIA SKIN Gentle Cleansing Milk](https://www.littlebambinos.co.nz/products/gentle-cleansing-milk): 100% Natural Soothe inflammation.Deep hydration.Bring balance. Working with your skin, not against it, Gentle Cleansing Milk uses hormone-friendly ingredients including organic chamomile, castor oil & palmarosa to clean & purify. Remove the day’s grime while balancing your skin’s natural oils, to keep your skin healthy & hydrated. How this works: Chamomile water removes excess oil, dirt and impurities for your pores without stripping it from it's natural moisture. While soothing and reduces redness and inflammation Castor Oil - antimicrobial - which means it can help decrease pimples and bacteria Jojoba - Softens and soothes your skin How to use Use to cleanse morning & night. Apply to a damp face & leave it to work its magic while you complete your bathroom routine. Rinse off & follow with Oria Skin serum, moisturiser & oil for the best glow. For the double-cleanse method, use Luminous Cleanse oil first, wipe away with warm cloth, follow with Gentle Cleansing Milk as per instruction. Ingredients Aqua, Matricaria recutita distillate (Chamomile Water), Simmondsia chinensis seed oil* (Jojoba), Ricinus communis seed oil* (Castor), Cetearyl Olivate & Sorbitan Olivate (Emulsifying wax), Glycerin, Geogard 221 & Cymbopogon martinii (Palmarosa essential oil). *Organic
-  Updated: 2025-10-22T19:52:49Z
+  Updated: 2025-10-23T07:52:41Z
   Vendor: Oria Skin
   Product Type: Skincare
   Availability: Available
@@ -14396,7 +14452,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BanwoodMaxiScooterGreen1.png?v=1750297671
   Price: $329.95 NZD
 - [BANWOOD Maxi Scooter - Pink](https://www.littlebambinos.co.nz/products/maxi-scooter-pink): The Banwood Maxi Scooter is the perfect ride for older kids, designed with timeless vintage style, without sacrificing functionality and safety, giving them the ability to develop as individuals and increase their self-confidence while having fun. This cream two-wheel scooter is built to last the test of time and is equipped with an ergonomic T-handlebar that can easily be adjusted to your kid’s height, a lightweight aluminium frame, classic steering system – just like a bike, vintage-inspired rubber grips and a wooden oak anti-slip deck for a safe ride. The Maxi Scooter comes with our iconic wicker basket, great for imaginative play and for bringing the essentials to school, the park, the beach or on a new adventure! Banwood’s beloved wicker basket included Recommended age 6+ Max user weight 100 kg Vintage-inspired rubber grips Weight: 3.35 kg (including basket) Wide oak scooter deck with anti-slip tape Scooter deck dimensions: 45 x 11.5 cm Classic steering system, just like a bike 3 height adjustable T-bar (74.5 - 84.5 cm) Two wheels: 1 front and 1 rear Rear brake Lightweight aluminium frame in pink
-  Updated: 2025-10-19T02:03:48Z
+  Updated: 2025-10-22T20:13:37Z
   Vendor: Banwood
   Product Type: Bicycle
   Availability: Available
@@ -14424,7 +14480,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BanwoodEcoHelmetIvory1_ccf2d4b9-36cf-46cf-b219-35f01d7fcf64.png?v=1750297678
   Price: $78.00 NZD
 - [BANWOOD Eco Helmet - Faded Pink](https://www.littlebambinos.co.nz/products/eco-helmet-faded-pink): RRP $69.95 AUD / $79.95 NZD The Banwood Eco Helmet combines safety and sustainability, made from durable ABS recycled materials with a protective foam lining. It’s lightweight at 355 g, features a dial-fit adjustment system, recycled chinstrap, and ventilation for comfort. Designed for ages 3 years +, it fits head circumferences between 50–54 cm and is Australian/New Zealand Standards certified for reliable protection. Finished with Banwood’s signature logo, it’s the perfect eco-conscious choice for little adventurers. Suggested age range 3 years + Shell Material: Durable ABS shell made from recycled materials. Inner Lining: Protective foam for enhanced safety. Adjustment System: Dial-fit for a comfortable, secure fit. Weight: Lightweight design at 355 g. Size Range: Fits head circumferences between 50–54 cm. Chinstrap: Adjustable strap made from recycled materials. Ventilation: Front, top, and back openings for airflow. Design: Banwood logo printed on the front. Certification: Meets or exceeds AU/NZ Standards
-  Updated: 2025-10-19T02:03:48Z
+  Updated: 2025-10-22T20:13:37Z
   Vendor: Banwood
   Product Type: Bicycle
   Availability: Available
@@ -15570,7 +15626,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/ChatGPTImageJul17_2025_01_32_44PM_1.png?v=1756095029
   Price: $129.00 NZD
 - [LIL MOO Adapters](https://www.littlebambinos.co.nz/products/adapters): Adapter 1 - Medela, Pigeon Slim Neck, Dr. Browns Narrow Neck, NUK Classic, BIBS Adapter 2 - Tommee Tippee Adapter 3 - MAM, Pigeon Wide Neck Adapter 4 - Haakaa Gen 3, Como Tomo, Boon Nursh, Ola Baby Adapter 5 - NUK Nature Sense Adapter 7 - Dr. Browns Wide Neck Adapter 9 - NUK First Choice, Crane Wide Neck NO ADAPTER IS REQUIRED FOR - AVENT, Harmony, Tiny Bloom, Chicco Perfect 5 & Original Touch, Minbie, Combi, Dodie, Lasinoh, Richell, Spectra. Please note: All adapters have an additional insert sealing ring, which keeps the connection between baby bottle and adapter tight. The device is only 100% tight if both sealing rings (heating plate and adapter) are used. If you are leaking fluid, you have most likely forgotten a seal ring
-  Updated: 2025-10-21T19:20:42Z
+  Updated: 2025-10-22T23:08:43Z
   Vendor: lil moo
   Product Type: 
   Availability: Available
@@ -15630,13 +15686,13 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $34.95 NZD
 - [TOSHI Bell Hat Sammy - Dusk](https://www.littlebambinos.co.nz/products/toshi-bell-hat-sammy-dusk): Toshi Bell Hat Sammy has a charming bell shape offers a flattering fit. With a UPF 50+ rating, it delivers excellent sun protection. The adjustable head tie with a soft cotton toggle allows for a customized fit, and the chinstrap with a soft toggle keeps the hat securely in place. A safety release clasp on the chin strap adds extra security, and the fully lined interior enhances comfort throughout wear. Size Approx. Age Head Circ. (cm) XS up to 8 months 43 S 8 months to 2 years 52 M 2 years to small grown up 54
-  Updated: 2025-09-28T20:23:55Z
+  Updated: 2025-10-23T02:27:50Z
   Vendor: Toshi
   Product Type: Hats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/dusk.webp?v=1756348254
   - [XS](https://www.littlebambinos.co.nz/products/toshi-bell-hat-sammy-dusk?variant=41995045404766)
-    Availability: Available
+    Availability: Not Available
     Price: $34.95 NZD
   - [S](https://www.littlebambinos.co.nz/products/toshi-bell-hat-sammy-dusk?variant=41995045437534)
     Availability: Available
@@ -15753,7 +15809,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $39.95 NZD
 - [TOSHI Swim Sunhat Beachcomber - Seagrass](https://www.littlebambinos.co.nz/products/toshi-swim-sunhat-beachcomber-seagrass): Toshi’s renowned blend of beauty, functionality, and premium quality shines in this delightful baby swimwear line. With a UPF50+ rating, the swimwear provides excellent sun protection and water safety. Made from top-quality, quick-drying fabric that resists chlorine and salt water, the Toshi Swim Sunhat offers a well-shaped, wide brim that stays firm even when wet. An adjustable head toggle ensures a perfect fit, while the chin tie with toggle secures the hat comfortably. The safety release clasp adds extra protection. This hat also features an exclusive Toshi print design for a unique look. Size Approx. Age Head Circ. (cm) XXS preemie tonewborn 37 XS up to 8months 43 S 8 months to2 years 52 M 2 years tosmall grown up 54 L big kid togrown up 56 XL bigger kid tobig grown up 58
-  Updated: 2025-10-13T04:02:10Z
+  Updated: 2025-10-23T03:15:52Z
   Vendor: Toshi
   Product Type: Hats
   Availability: Available
@@ -15765,7 +15821,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $39.95 NZD
   - [L](https://www.littlebambinos.co.nz/products/toshi-swim-sunhat-beachcomber-seagrass?variant=42000631758942)
-    Availability: Available
+    Availability: Not Available
     Price: $39.95 NZD
   - [XL](https://www.littlebambinos.co.nz/products/toshi-swim-sunhat-beachcomber-seagrass?variant=42000631791710)
     Availability: Not Available
@@ -15786,7 +15842,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $39.95 NZD
 - [TOSHI Swim Sunhat Paradise - Congo Seagrass](https://www.littlebambinos.co.nz/products/toshi-swim-sunhat-paradise-congo-seagrass): Toshi's renowned craftsmanship and quality come together in this exceptional baby swimwear collection. Rated UPF50+, the Toshi Swim line ensures excellent sun protection and water safety. Made from premium, quick-drying materials resistant to chlorine and salt water, the Swim Sunhat includes a wide, structured brim that keeps its shape even when wet. Adjustable sizing is achieved through a head tie with toggle, while the chin tie with toggle secures the hat comfortably. A safety release clasp on the chin tie adds extra protection. Featuring a unique, exclusive Toshi print, this sunhat combines style with functionality. Size Approx. Age Head Circ. (cm) XXS preemie tonewborn 37 XS up to 8months 43 S 8 months to2 years 52 M 2 years tosmall grown up 54 L big kid togrown up 56 XL bigger kid tobig grown up 58
-  Updated: 2025-09-29T07:22:55Z
+  Updated: 2025-10-23T02:34:27Z
   Vendor: Toshi
   Product Type: Hats
   Availability: Available
@@ -15795,7 +15851,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
     Availability: Available
     Price: $44.95 NZD
   - [M](https://www.littlebambinos.co.nz/products/toshi-swim-sunhat-paradise-congo-seagrass?variant=42000646537310)
-    Availability: Not Available
+    Availability: Available
     Price: $44.95 NZD
   - [L](https://www.littlebambinos.co.nz/products/toshi-swim-sunhat-paradise-congo-seagrass?variant=42000646570078)
     Availability: Available
@@ -16578,6 +16634,129 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   - [3-6m](https://www.littlebambinos.co.nz/products/toshi-organic-baby-booties-driftwood?variant=42061226704990)
     Availability: Available
     Price: $30.00 NZD
+- [SONNIE Varsity Tee - Ink](https://www.littlebambinos.co.nz/products/sonnie-varsity-tee-ink): A relaxed fit t-shirt with the SONNIE varsity print on the chest and cut in 100% GOTS certified organic cotton. DETAILS GOTS Certified organic cotton Printed chest logo in blue/red Relaxed fit Unisex CARE: Machine wash cold. Tumble dry low. GOTS (Global Organic Textile Standard) is the world’s highest certification of organic fibres. The GOTS label ensures a garment is authentically organic from seed to finished product.
+  Updated: 2025-10-23T03:26:02Z
+  Vendor: Sonnie
+  Product Type: T-Shirtss
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/2_4f2502b8-fb59-4b3b-b4f6-07160021ab94.webp?v=1760579190
+  - [1y](https://www.littlebambinos.co.nz/products/sonnie-varsity-tee-ink?variant=42103590912094)
+    Availability: Available
+    Price: $59.00 NZD
+  - [2-3y](https://www.littlebambinos.co.nz/products/sonnie-varsity-tee-ink?variant=42103590944862)
+    Availability: Available
+    Price: $59.00 NZD
+  - [4-5y](https://www.littlebambinos.co.nz/products/sonnie-varsity-tee-ink?variant=42103590977630)
+    Availability: Available
+    Price: $59.00 NZD
+  - [6-7y](https://www.littlebambinos.co.nz/products/sonnie-varsity-tee-ink?variant=42103591010398)
+    Availability: Available
+    Price: $59.00 NZD
+  - [8-9y](https://www.littlebambinos.co.nz/products/sonnie-varsity-tee-ink?variant=42103591043166)
+    Availability: Not Available
+    Price: $59.00 NZD
+- [SONNIE Heart Tee - Shell Pink](https://www.littlebambinos.co.nz/products/sonnie-heart-tee-pink): A relaxed boxy short-sleeve t-shirt with a Red heart embroidery at the chest. This 100% GOTS-certified organic cotton kids' tee is a must-have Spring/Summer staple. Shell Pink colour way100% GOTS-certified organic cotton Boxy fitRed heart embroidery on the chest GOTS (Global Organic Textile Standard) is the world’s highest certification of organic fibres. The GOTS label ensures a garment is authentically organic from seed to finished product.
+  Updated: 2025-10-23T03:27:11Z
+  Vendor: Sonnie
+  Product Type: Tops
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/87_27e5e226-b370-417e-87ef-ea3f9e3cb355.webp?v=1760998043
+  - [1y](https://www.littlebambinos.co.nz/products/sonnie-heart-tee-pink?variant=42103592845406)
+    Availability: Available
+    Price: $59.00 NZD
+  - [2-3y](https://www.littlebambinos.co.nz/products/sonnie-heart-tee-pink?variant=42103592878174)
+    Availability: Available
+    Price: $59.00 NZD
+  - [4-5y](https://www.littlebambinos.co.nz/products/sonnie-heart-tee-pink?variant=42103592910942)
+    Availability: Available
+    Price: $59.00 NZD
+  - [6-7y](https://www.littlebambinos.co.nz/products/sonnie-heart-tee-pink?variant=42103592943710)
+    Availability: Available
+    Price: $59.00 NZD
+- [Toshi Hooded Towel Beachcomber - Seagrass](https://www.littlebambinos.co.nz/products/toshi-hooded-towel-beachcomber-seagrass): Toshi luxuriously soft 100% Cotton Hooded Towel offers the ultimate in comfort and practicality. The UPF 50+ ultraviolet rating indicates enhanced sun safety. A cosy hood supports in drying your little one’s head, creating warmth and gently protecting. Quality towelling fabrication ensures optimised moisture absorption. Generous proportions and ample coverage ensure comfort and freedom of movement. The thoughtful underarm press studs make dressing and undressing a breeze, providing both efficiency and a secure fit. The hood features cute ears for a fun and whimsical touch.
+  Updated: 2025-10-23T03:08:59Z
+  Vendor: Toshi
+  Product Type: Towel
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Toshi_20Hooded_20Towel_20Beachcomber_20-_20_20Seagrass_20img6602.webp?v=1760993796
+  - [0-2y](https://www.littlebambinos.co.nz/products/toshi-hooded-towel-beachcomber-seagrass?variant=42120706261086)
+    Availability: Available
+    Price: $45.00 NZD
+  - [3-5y](https://www.littlebambinos.co.nz/products/toshi-hooded-towel-beachcomber-seagrass?variant=42120706293854)
+    Availability: Available
+    Price: $45.00 NZD
+- [Toshi Hooded Towel Beachcomber - Sunny](https://www.littlebambinos.co.nz/products/toshi-hooded-towel-beachcomber-sunny): Toshi luxuriously soft 100% Cotton Hooded Towel offers the ultimate in comfort and practicality. The UPF 50+ ultraviolet rating indicates enhanced sun safety. A cosy hood supports in drying your little one’s head, creating warmth and gently protecting. Quality towelling fabrication ensures optimised moisture absorption. Generous proportions and ample coverage ensure comfort and freedom of movement. The thoughtful underarm press studs make dressing and undressing a breeze, providing both efficiency and a secure fit. The hood features cute ears for a fun and whimsical touch.
+  Updated: 2025-10-23T03:09:00Z
+  Vendor: Toshi
+  Product Type: Towel
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Toshi_20Hooded_20Towel_20Beachcomber_20-_20_20Sunny_20img6606.webp?v=1760993884
+  - [0-2y](https://www.littlebambinos.co.nz/products/toshi-hooded-towel-beachcomber-sunny?variant=42120707375198)
+    Availability: Available
+    Price: $45.00 NZD
+  - [3-5y](https://www.littlebambinos.co.nz/products/toshi-hooded-towel-beachcomber-sunny?variant=42120707407966)
+    Availability: Available
+    Price: $45.00 NZD
+- [Toshi Hooded Towel Beachcomber - Watermelon](https://www.littlebambinos.co.nz/products/toshi-hooded-towel-beachcomber-watermelon): Toshi luxuriously soft 100% Cotton Hooded Towel offers the ultimate in comfort and practicality. The UPF 50+ ultraviolet rating indicates enhanced sun safety. A cosy hood supports in drying your little one’s head, creating warmth and gently protecting. Quality towelling fabrication ensures optimised moisture absorption. Generous proportions and ample coverage ensure comfort and freedom of movement. The thoughtful underarm press studs make dressing and undressing a breeze, providing both efficiency and a secure fit. The hood features cute ears for a fun and whimsical touch.
+  Updated: 2025-10-23T03:07:48Z
+  Vendor: Toshi
+  Product Type: Towel
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Toshi_20Hooded_20Towel_20Beachcomber_20-_20_20Watermelon_20img6609.webp?v=1760994027
+  - [0-2y](https://www.littlebambinos.co.nz/products/toshi-hooded-towel-beachcomber-watermelon?variant=42120712192094)
+    Availability: Available
+    Price: $45.00 NZD
+  - [3-5y](https://www.littlebambinos.co.nz/products/toshi-hooded-towel-beachcomber-watermelon?variant=42120712224862)
+    Availability: Available
+    Price: $45.00 NZD
+- [Toshi Hooded Towel Beachcomber - Moonlight](https://www.littlebambinos.co.nz/products/toshi-hooded-towel-beachcomber-moonlight): Toshi luxuriously soft 100% Cotton Hooded Towel offers the ultimate in comfort and practicality. The UPF 50+ ultraviolet rating indicates enhanced sun safety. A cosy hood supports in drying your little one’s head, creating warmth and gently protecting. Quality towelling fabrication ensures optimised moisture absorption. Generous proportions and ample coverage ensure comfort and freedom of movement. The thoughtful underarm press studs make dressing and undressing a breeze, providing both efficiency and a secure fit. The hood features cute ears for a fun and whimsical touch.
+  Updated: 2025-10-23T03:09:02Z
+  Vendor: Toshi
+  Product Type: Towel
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Toshi_20Hooded_20Towel_20Beachcomber_20-_20_20Moonlight_20img6599.webp?v=1760994395
+  - [0-2y](https://www.littlebambinos.co.nz/products/toshi-hooded-towel-beachcomber-moonlight?variant=42120722514014)
+    Availability: Available
+    Price: $45.00 NZD
+  - [3-5y](https://www.littlebambinos.co.nz/products/toshi-hooded-towel-beachcomber-moonlight?variant=42120722546782)
+    Availability: Available
+    Price: $45.00 NZD
+- [SONNIE Orla Ribbed Bike Shorts - Violet](https://www.littlebambinos.co.nz/products/sonnie-orla-ribbed-bike-shorts-violet): Soft, comfy, everyday essentials. Organic cotton ribbed bike shorts with just enough stretch. DETAILS 95% GOTS certified organic cotton, 5% elastane Elasticated waistband Fitted CARE: Machine wash cold. Tumble dry low. GOTS (Global Organic Textile Standard) is the worldâ€™s highest certification of organic fibres.
+  Updated: 2025-10-23T03:26:05Z
+  Vendor: Sonnie
+  Product Type: T-Shirtss
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/BIKESHORTSPURPLE.webp?v=1760998481
+  - [1y](https://www.littlebambinos.co.nz/products/sonnie-orla-ribbed-bike-shorts-violet?variant=42120865316958)
+    Availability: Available
+    Price: $55.00 NZD
+  - [2-3y](https://www.littlebambinos.co.nz/products/sonnie-orla-ribbed-bike-shorts-violet?variant=42120865349726)
+    Availability: Available
+    Price: $55.00 NZD
+  - [4-5y](https://www.littlebambinos.co.nz/products/sonnie-orla-ribbed-bike-shorts-violet?variant=42120865382494)
+    Availability: Available
+    Price: $55.00 NZD
+  - [6-7y](https://www.littlebambinos.co.nz/products/sonnie-orla-ribbed-bike-shorts-violet?variant=42120865415262)
+    Availability: Available
+    Price: $55.00 NZD
+- [SONNIE Orla Ribbed Bike Shorts - Dusty Pink](https://www.littlebambinos.co.nz/products/sonnie-orla-ribbed-bike-shorts-dusty-pink): Soft, comfy, everyday essentials. Organic cotton ribbed bike shorts with just enough stretch. DETAILS 95% GOTS certified organic cotton, 5% elastane Elasticated waistband Fitted CARE: Machine wash cold. Tumble dry low. GOTS (Global Organic Textile Standard) is the worldâ€™s highest certification of organic fibres.
+  Updated: 2025-10-23T03:26:06Z
+  Vendor: Sonnie
+  Product Type: T-Shirtss
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/1_0640a918-3715-4dc6-a868-3203d96c04b6.webp?v=1760998540
+  - [1y](https://www.littlebambinos.co.nz/products/sonnie-orla-ribbed-bike-shorts-dusty-pink?variant=42120882159710)
+    Availability: Available
+    Price: $55.00 NZD
+  - [2-3y](https://www.littlebambinos.co.nz/products/sonnie-orla-ribbed-bike-shorts-dusty-pink?variant=42120882192478)
+    Availability: Available
+    Price: $55.00 NZD
+  - [4-5y](https://www.littlebambinos.co.nz/products/sonnie-orla-ribbed-bike-shorts-dusty-pink?variant=42120882225246)
+    Availability: Available
+    Price: $55.00 NZD
+  - [6-7y](https://www.littlebambinos.co.nz/products/sonnie-orla-ribbed-bike-shorts-dusty-pink?variant=42120882258014)
+    Availability: Available
+    Price: $55.00 NZD
 
 ## Collections
 
@@ -16678,8 +16857,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:26Z
   Total Products: 0
 - [Facebook Product Feed](https://www.littlebambinos.co.nz/collections/facebook-product-feed)
-  Updated: 2025-10-22T19:53:19Z
-  Total Products: 433
+  Updated: 2025-10-23T07:53:12Z
+  Total Products: 432
 - [Sleepy Doe](https://www.littlebambinos.co.nz/collections/sleepy-doe): A British sleepwear brand specialising in small, organic sleep collections for women and children. Founder Sophie launched Sleepy Doe in 2016 and is a firm believer that often the simple things are the best things in life. She wanted to create a line of long-lasting sleepwear to sit comfortably in any home and to be loved by both adult and child. The collection is made with 100% Organic GOTS certified cotton and all products are proudly manufactured in the U.K supporting independent factories and businesses. // window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-172659890-2'); // ]]>
   Updated: 2025-08-06T22:46:42Z
   Total Products: 94
@@ -16768,7 +16947,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:29Z
   Total Products: 0
 - [NEW ARRIVALS](https://www.littlebambinos.co.nz/collections/n-new-arrivals)
-  Updated: 2025-10-22T11:01:56Z
+  Updated: 2025-10-23T03:26:04Z
   Total Products: 1615
 - [BABY BOY](https://www.littlebambinos.co.nz/collections/n-baby-boy-0-2y): Shop our collection of baby boy products
   Updated: 2025-10-22T11:01:56Z
@@ -16849,10 +17028,10 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:49:11Z
   Total Products: 141
 - [GIRLS - TOPS](https://www.littlebambinos.co.nz/collections/n-girls-tops): Shop our collection of girls tops
-  Updated: 2025-10-20T22:08:10Z
+  Updated: 2025-10-23T03:26:02Z
   Total Products: 196
 - [BOYS - TOPS](https://www.littlebambinos.co.nz/collections/n-boys-tops): Shop our collection of boys tops
-  Updated: 2025-10-20T22:08:10Z
+  Updated: 2025-10-23T03:26:02Z
   Total Products: 133
 - [GIRLS - JUMPERS + CARDIGANS](https://www.littlebambinos.co.nz/collections/n-girls-jumpers-cardigans): Shop our collection of girls jumpers and cardigans
   Updated: 2025-09-30T11:01:58Z
@@ -16861,10 +17040,10 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-09-30T11:01:58Z
   Total Products: 109
 - [GIRLS - BOTTOMS](https://www.littlebambinos.co.nz/collections/n-girls-bottoms): Shop our collection of girls bottoms
-  Updated: 2025-10-22T11:01:56Z
+  Updated: 2025-10-23T03:26:04Z
   Total Products: 212
 - [BOYS - BOTTOMS](https://www.littlebambinos.co.nz/collections/n-boys-bottoms): Shop our collection of boys bottoms
-  Updated: 2025-10-22T11:01:56Z
+  Updated: 2025-10-23T03:26:04Z
   Total Products: 155
 - [GIRLS - COATS + JACKETS](https://www.littlebambinos.co.nz/collections/n-girls-coats-jackets): Shop our collection of girls coats and jackets
   Updated: 2025-08-06T22:49:04Z
@@ -16927,10 +17106,10 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:33Z
   Total Products: 0
 - [GIRLS](https://www.littlebambinos.co.nz/collections/girls)
-  Updated: 2025-10-22T11:01:56Z
+  Updated: 2025-10-23T03:26:04Z
   Total Products: 1678
 - [BOYS](https://www.littlebambinos.co.nz/collections/boy): Shop our boys collection
-  Updated: 2025-10-22T11:01:56Z
+  Updated: 2025-10-23T03:26:04Z
   Total Products: 942
 - [HUXBABY](https://www.littlebambinos.co.nz/collections/huxbaby): Huxbaby is about minimalist fashions for kids with an adult level of style. Their designs blend super soft organic cotton with a clean aesthetic - clothes that allow kids to be kids without sacrificing style.
   Updated: 2025-10-14T11:02:23Z
@@ -16972,7 +17151,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-09-28T20:35:25Z
   Total Products: 75
 - [Shop Our Sale!](https://www.littlebambinos.co.nz/collections/sale-all-1): We're having a Mid-Year clear out! Explore our sale & shop your favourite brands. Get in quick to grab a bargain! Please choose carefully, sale items cannot be returned or exchanged.
-  Updated: 2025-10-22T11:01:56Z
+  Updated: 2025-10-23T03:26:04Z
   Total Products: 3170
 - [Jumper, Cardigans and Sweatshirts](https://www.littlebambinos.co.nz/collections/second-birthday-celebration-day-3)
   Updated: 2025-07-02T08:33:34Z
@@ -17026,7 +17205,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:36Z
   Total Products: 0
 - [$50 to $100](https://www.littlebambinos.co.nz/collections/50-100): Shop our collection of products between $50 - $100
-  Updated: 2025-10-22T11:01:56Z
+  Updated: 2025-10-23T03:26:04Z
   Total Products: 1574
 - [ALL TOPS](https://www.littlebambinos.co.nz/collections/all-tops): Shop our collection of tops
   Updated: 2023-10-31T02:42:36Z
@@ -17086,7 +17265,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:37Z
   Total Products: 0
 - [ALL Baby](https://www.littlebambinos.co.nz/collections/all-baby)
-  Updated: 2025-10-22T11:01:56Z
+  Updated: 2025-10-23T03:07:46Z
   Total Products: 288
 - [RYLEE + CRU - HOMETOWN SS20](https://www.littlebambinos.co.nz/collections/hometown): RYLEE + CRU SS20 - HOMETOWN LAUNCHES 6AM 28.02 NZST FREE LOCAL SHIPPING - RCFREESHIP Ends Midnight 01.02.20 nzst
   Updated: 2025-07-02T08:33:07Z
@@ -17137,10 +17316,10 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:44:43Z
   Total Products: 1
 - [All Girls](https://www.littlebambinos.co.nz/collections/all-girls)
-  Updated: 2025-10-22T11:01:56Z
+  Updated: 2025-10-23T03:25:59Z
   Total Products: 269
 - [All Boys](https://www.littlebambinos.co.nz/collections/all-boys)
-  Updated: 2025-10-22T11:01:56Z
+  Updated: 2025-10-23T03:07:46Z
   Total Products: 157
 - [Tiny Trove](https://www.littlebambinos.co.nz/collections/tiny-trove): Tiny Trove was simply born through a desire to curate an every-day wardrobe for little ones. Akin to opening up a treasure chest full of beloved pieces, each telling its own story and holding a memory - Tiny Trove hopes to create designs that will be well-worn, well-loved and cherished for a long time for all the tiny loves in your life.
   Updated: 2025-10-04T11:02:23Z
@@ -17185,13 +17364,13 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-07-02T08:33:54Z
   Total Products: 2
 - [Accessories](https://www.littlebambinos.co.nz/collections/accessories): Shop our collection of accessories
-  Updated: 2025-10-20T21:11:52Z
+  Updated: 2025-10-23T03:07:46Z
   Total Products: 143
 - [Ultimate Search Bestseller Collection - DO NOT DELETE](https://www.littlebambinos.co.nz/collections/ultimate-search-bestseller-collection-do-not-delete): Ultimate Search app uses this temporary collection to fetch best selling items.Please do not delete this collection.If you have removed the app, it is safe to remove this collection.
-  Updated: 2025-10-22T11:01:56Z
+  Updated: 2025-10-23T03:26:04Z
   Total Products: 5604
 - [Ultimate Search Bestseller Collection - DO NOT DELETE](https://www.littlebambinos.co.nz/collections/ultimate-search-bestseller-collection-do-not-delete-1): Ultimate Search app uses this temporary collection to fetch best selling items.Please do not delete this collection.If you have removed the app, it is safe to remove this collection.
-  Updated: 2025-10-22T11:01:56Z
+  Updated: 2025-10-23T03:26:04Z
   Total Products: 5604
 - [Teethers & Rattles](https://www.littlebambinos.co.nz/collections/teethers-rattles): Shop our collection of Teethers and Rattles
   Updated: 2025-10-19T11:02:32Z
@@ -17413,7 +17592,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-10-22T11:01:56Z
   Total Products: 13
 - [Subscriber Only Sale](https://www.littlebambinos.co.nz/collections/little-bambinos-flash-winter-sale): Winter Sale! Take 20% OFF STOREWIDE with the code STOREWIDE20 at checkout! Exclusions Apply. This weekend only. Winter sale on baby clothing and accessories. Kids clothing sale New Zealand.
-  Updated: 2025-10-22T11:01:56Z
+  Updated: 2025-10-23T03:07:46Z
   Total Products: 4674
 - [Mama Bear](https://www.littlebambinos.co.nz/collections/mama-bear): Mama Bear is an Auckland based company offering organic, natural and environmental friendly products catering for the while family.
   Updated: 2024-10-05T04:11:20Z
@@ -17515,13 +17694,13 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:48Z
   Total Products: 0
 - [All including sale items & Some non sale brands](https://www.littlebambinos.co.nz/collections/all-excluding-sale-items)
-  Updated: 2025-10-22T11:01:56Z
+  Updated: 2025-10-23T03:26:04Z
   Total Products: 5537
 - [Christmas Gifts](https://www.littlebambinos.co.nz/collections/christmas-gifts): Shop our Christmas gift collection
   Updated: 2025-10-21T11:02:18Z
   Total Products: 242
 - [Sonnie](https://www.littlebambinos.co.nz/collections/sonnie): Each range consists of tracksuits, t-shirts, shorts, hoodies, sweatshirts, polo shirts, caps, socks and more for both boys and girls, with a focus on creating long-lasting organic clothing for kids that can be worn in all seasons.
-  Updated: 2025-10-20T22:15:25Z
+  Updated: 2025-10-23T03:26:04Z
   Total Products: 89
 - [Summer Edit](https://www.littlebambinos.co.nz/collections/summer-edit): Shop our Summer edit
   Updated: 2025-10-22T11:01:56Z
@@ -17530,16 +17709,16 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-10-04T11:02:23Z
   Total Products: 10
 - [Labour Day Sale Collection 23](https://www.littlebambinos.co.nz/collections/labour-day-sale-22-excl-connetix-and-by-billie)
-  Updated: 2025-10-22T19:53:20Z
-  Total Products: 1314
+  Updated: 2025-10-23T07:53:12Z
+  Total Products: 1324
 - [Summer Edit](https://www.littlebambinos.co.nz/collections/summer-edit-1): Shop our Summer edit
-  Updated: 2025-10-22T11:01:56Z
+  Updated: 2025-10-23T03:25:59Z
   Total Products: 504
 - [Liewood](https://www.littlebambinos.co.nz/collections/liewood): With a focus on functionality and innovation, LIEWOOD designs and produces toys, interior, furniture, accessories, wear and footwear for babies and children all which made with aesthetics, quality, and consciousness in mind. Exactly the core values that makes us love LIEWOOD.
   Updated: 2025-09-18T11:02:56Z
   Total Products: 18
 - [SALE For launch](https://www.littlebambinos.co.nz/collections/all-products-for-bf-22)
-  Updated: 2025-10-22T11:01:56Z
+  Updated: 2025-10-23T03:26:04Z
   Total Products: 5583
 - [CYBER SALE PAGE](https://www.littlebambinos.co.nz/collections/cyber-sale-page): Shop our Cyber Monday Sale
   Updated: 2023-10-31T02:42:49Z
@@ -17560,7 +17739,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-09-24T11:01:50Z
   Total Products: 74
 - [New](https://www.littlebambinos.co.nz/collections/new): Shop our collection of New products
-  Updated: 2025-10-22T11:01:56Z
+  Updated: 2025-10-23T03:26:04Z
   Total Products: 1742
 - [Prem](https://www.littlebambinos.co.nz/collections/n-prem): Shop our collection of prem products
   Updated: 2025-10-09T11:01:49Z
@@ -17569,7 +17748,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-09-28T11:02:44Z
   Total Products: 70
 - [Baby Jumpers & Cardigans](https://www.littlebambinos.co.nz/collections/n-jumpers-cardigans)
-  Updated: 2025-10-22T11:01:56Z
+  Updated: 2025-10-23T03:25:59Z
   Total Products: 183
 - [Baby Rompers & Overalls](https://www.littlebambinos.co.nz/collections/n-rompers-overalls): Shop our collection of Baby Rompers and Overalls
   Updated: 2025-10-22T11:01:56Z
@@ -17584,10 +17763,10 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-10-22T11:01:56Z
   Total Products: 326
 - [Baby Tops](https://www.littlebambinos.co.nz/collections/n-baby-tops): Shop our collection of baby tops
-  Updated: 2025-10-20T22:08:10Z
+  Updated: 2025-10-23T03:26:02Z
   Total Products: 166
 - [Baby Bodysuits](https://www.littlebambinos.co.nz/collections/n-baby-bodysuits): Shop our collection of baby bodysuits
-  Updated: 2025-10-20T21:11:52Z
+  Updated: 2025-10-23T03:07:46Z
   Total Products: 123
 - [Baby Onesies & Zipsuits](https://www.littlebambinos.co.nz/collections/n-baby-onesies-sleepwear): Shop our collection of baby onesies and sleepwear
   Updated: 2025-09-28T11:02:44Z
@@ -17617,7 +17796,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:49:02Z
   Total Products: 22
 - [Baby Towels](https://www.littlebambinos.co.nz/collections/n-baby-towels): Shop our collection of baby towels
-  Updated: 2025-10-20T21:11:52Z
+  Updated: 2025-10-23T03:07:46Z
   Total Products: 32
 - [Baby Swim Accessories](https://www.littlebambinos.co.nz/collections/n-swim-accessories): Shop our collection of Baby Swim Accessories
   Updated: 2025-10-20T11:02:15Z
@@ -17644,10 +17823,10 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:49:16Z
   Total Products: 5
 - [Girls Tops](https://www.littlebambinos.co.nz/collections/n-girls-tops-1): Shop our collection of girls tops
-  Updated: 2025-10-20T22:08:10Z
+  Updated: 2025-10-23T03:26:02Z
   Total Products: 147
 - [Girls Bottoms](https://www.littlebambinos.co.nz/collections/n-girls-bottoms-1): Shop our collection of girls bottoms
-  Updated: 2025-10-22T11:01:56Z
+  Updated: 2025-10-23T03:26:04Z
   Total Products: 280
 - [Girls Matching Sets](https://www.littlebambinos.co.nz/collections/n-matching-sets)
   Updated: 2025-10-20T11:02:15Z
@@ -17659,7 +17838,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-09-09T02:26:46Z
   Total Products: 42
 - [Girls Jumpers & Cardigans](https://www.littlebambinos.co.nz/collections/n-girls-jumpers-cardigans-1): Shop our collection of girls jumpers and cardigans
-  Updated: 2025-10-20T11:02:15Z
+  Updated: 2025-10-23T03:25:59Z
   Total Products: 146
 - [Girls Outwear](https://www.littlebambinos.co.nz/collections/n-girls-outwear): Shop our collection of girls outwear
   Updated: 2025-09-28T11:02:44Z
@@ -17668,10 +17847,10 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:48:39Z
   Total Products: 44
 - [Girls Swimwear](https://www.littlebambinos.co.nz/collections/n-girls-swimwear-1): Shop our collection of girls swimwear
-  Updated: 2025-10-20T21:11:52Z
+  Updated: 2025-10-23T03:07:46Z
   Total Products: 212
 - [Boys Tops](https://www.littlebambinos.co.nz/collections/n-boys-tops-1): Shop our collection of boys tops
-  Updated: 2025-10-20T22:08:10Z
+  Updated: 2025-10-23T03:26:02Z
   Total Products: 118
 - [Boys Matching Sets](https://www.littlebambinos.co.nz/collections/n-boys-matching-sets): Shop our selection of boys matching sets!
   Updated: 2025-10-20T11:02:15Z
@@ -17689,7 +17868,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:48:39Z
   Total Products: 44
 - [Boys Swimwear](https://www.littlebambinos.co.nz/collections/n-boys-swimwear-1): Shop our collection of boys swimwear
-  Updated: 2025-10-20T21:11:52Z
+  Updated: 2025-10-23T03:07:46Z
   Total Products: 137
 - [Baby](https://www.littlebambinos.co.nz/collections/n-baby)
   Updated: 2025-08-06T22:49:08Z
@@ -17770,7 +17949,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2023-10-31T02:42:54Z
   Total Products: 0
 - [Towels & Cloths](https://www.littlebambinos.co.nz/collections/n-towels-cloths): Shop our collection of towels and cloths
-  Updated: 2025-10-20T21:11:52Z
+  Updated: 2025-10-23T03:07:46Z
   Total Products: 69
 - [Toothbrush](https://www.littlebambinos.co.nz/collections/n-toothbrush): Shop our collection of toothbrush products
   Updated: 2025-09-13T11:02:24Z
@@ -17875,7 +18054,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-09-28T20:22:39Z
   Total Products: 57
 - [Baby Care](https://www.littlebambinos.co.nz/collections/n-baby-care): Shop our collection of baby care
-  Updated: 2025-10-20T21:11:52Z
+  Updated: 2025-10-23T03:07:46Z
   Total Products: 169
 - [Baby Play](https://www.littlebambinos.co.nz/collections/n-baby-play): Shop our collection of baby play products
   Updated: 2025-10-19T11:02:32Z
@@ -17896,7 +18075,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-09-14T20:55:22Z
   Total Products: 16
 - [Wear](https://www.littlebambinos.co.nz/collections/n-wear): Shop our Wear Collection
-  Updated: 2025-10-22T11:01:56Z
+  Updated: 2025-10-23T03:26:04Z
   Total Products: 2227
 - [Pure Mama](https://www.littlebambinos.co.nz/collections/pure-mama): PURE MAMA FOUNDER AND MAMA OF ONE - Lara Christie"When I fell pregnant I was really surprised by the lack of pregnancy-specific body products available, especially as our skin changes so much during this time and needs extra support.I wanted to create a product range that harnessed the powerful, natural ingredients often used in facial skincare, such as Pomegranate and Raspberry Seed Oil, and concentrated levels of Vitamin E, which are miracle workers for skin hydration, elasticity and repairing damage. We then married these with tried and trusted base blends of Coconut and Almond oils to create a new, more nourishing range of skincare for pregnant woman and nursing mothers."
   Updated: 2025-09-20T11:02:20Z
@@ -17917,13 +18096,13 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-10-21T11:02:18Z
   Total Products: 573
 - [Baby All Clothing](https://www.littlebambinos.co.nz/collections/n-baby-all-clothing-1): Shop our collection all things baby clothing
-  Updated: 2025-10-22T11:01:56Z
+  Updated: 2025-10-23T03:26:02Z
   Total Products: 1737
 - [Baby Swimwear](https://www.littlebambinos.co.nz/collections/n-baby-swimwear): Shop our collection of baby swimwear
   Updated: 2025-10-22T11:01:56Z
   Total Products: 250
 - [Baby Accessories](https://www.littlebambinos.co.nz/collections/n-baby-accessories-n): Shop our collection of baby accessories
-  Updated: 2025-10-22T11:01:56Z
+  Updated: 2025-10-23T03:07:46Z
   Total Products: 520
 - [Nursery](https://www.littlebambinos.co.nz/collections/n-nursery): Shop our collection of nursery products
   Updated: 2025-10-21T11:02:18Z
@@ -17932,13 +18111,13 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-10-22T11:01:56Z
   Total Products: 215
 - [Baby](https://www.littlebambinos.co.nz/collections/n-baby-1): Shop our collection of baby products
-  Updated: 2025-10-22T11:01:56Z
+  Updated: 2025-10-23T03:07:46Z
   Total Products: 980
 - [Kokomo](https://www.littlebambinos.co.nz/collections/kokomo): Kokomo is childhood nostalgia in the form of quality kids clothes. Made for play. Created from an ever-evolving idea that's reminiscent of sandy toes, ice cream drips, and afternoons at the skate park, they aim to bring back the 90's through our classic oversized shapes and retro colour palette. They take inspiration from the California surf scene, and bring in bold colours to ensure it always feels like summer in a Kokomo tee. They've also kept our graphics cheeky, to make sure we measure up to the wearer.
   Updated: 2025-08-06T22:46:57Z
   Total Products: 7
 - [AFTERPAY SALE 24](https://www.littlebambinos.co.nz/collections/afterpay-sale): 20% off Afterpay sale* including items already on sale. Discount applies to marked price on any item on our AFTERPAY DAY page. Selected styles online and some exclusions apply. All sale purchases are final unless faulty, so please choose carefully. Use code: AFTERPAY20 at checkout.
-  Updated: 2025-10-22T11:01:56Z
+  Updated: 2025-10-23T03:26:04Z
   Total Products: 5550
 - [Best-Sellers](https://www.littlebambinos.co.nz/collections/best-sellers): Shop our collection of best sellers
   Updated: 2025-10-21T11:02:18Z
@@ -17953,16 +18132,16 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-08-06T22:48:59Z
   Total Products: 21
 - [Girls](https://www.littlebambinos.co.nz/collections/n-girls-1): Shop our collection of all girls products
-  Updated: 2025-10-22T11:01:56Z
+  Updated: 2025-10-23T03:26:04Z
   Total Products: 1044
 - [Girls All Clothing](https://www.littlebambinos.co.nz/collections/n-girls-all-clothing): Shop our collection of girls clothing
-  Updated: 2025-10-22T11:01:56Z
+  Updated: 2025-10-23T03:26:04Z
   Total Products: 832
 - [Boys](https://www.littlebambinos.co.nz/collections/n-boys): Shop our boys collection
-  Updated: 2025-10-22T11:01:56Z
+  Updated: 2025-10-23T03:26:02Z
   Total Products: 682
 - [Boys All Clothing](https://www.littlebambinos.co.nz/collections/n-boys-all-clothing): Shop our collection of all boys clothing
-  Updated: 2025-10-22T11:01:56Z
+  Updated: 2025-10-23T03:26:02Z
   Total Products: 554
 - [Wear Accessories](https://www.littlebambinos.co.nz/collections/n-wear-accessories): Shop our Wear Accessories
   Updated: 2025-10-22T11:01:56Z
@@ -18004,10 +18183,10 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-10-02T11:02:32Z
   Total Products: 31
 - [Toshi](https://www.littlebambinos.co.nz/collections/toshi-1): Toshi is a designer lifestyle brand dedicated to the creation of children’s accessories, headwear, and organic baby gifts. Their objective is to offer beautiful, aesthetically driven product with high integrity and intelligent functionality.
-  Updated: 2025-10-22T11:01:56Z
+  Updated: 2025-10-23T03:07:46Z
   Total Products: 428
 - [EOFY](https://www.littlebambinos.co.nz/collections/eofy)
-  Updated: 2025-10-22T11:01:56Z
+  Updated: 2025-10-23T03:26:04Z
   Total Products: 3170
 - [Test](https://www.littlebambinos.co.nz/collections/test)
   Updated: 2025-10-13T11:01:57Z
@@ -18031,10 +18210,10 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-10-14T11:02:23Z
   Total Products: 146
 - [Christmas Gifts Under $50 2023](https://www.littlebambinos.co.nz/collections/christmas-gifts-under-50-2023): SIt's never too early to start shopping for Christmas right?! Get started with our Christmas gift guides and ease the last minute holiday stress. Shop our collection of Christmas gifts under $50
-  Updated: 2025-10-20T21:11:52Z
+  Updated: 2025-10-23T03:07:46Z
   Total Products: 92
 - [Christmas Stocking Stuffers](https://www.littlebambinos.co.nz/collections/stocking-fillers-2023): Shop our curated collection of Stocking Stuffer ideas for your children to help with Christmas shopping this year x
-  Updated: 2025-10-20T21:11:52Z
+  Updated: 2025-10-23T03:07:46Z
   Total Products: 158
 - [Gifts Under $100](https://www.littlebambinos.co.nz/collections/christmas-gifts-over-100): It's never too early to start shopping for Christmas! Shop easier with our curated Christmas gift guides. Everything under $100 x
   Updated: 2025-10-20T11:02:15Z
@@ -18079,10 +18258,10 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-10-21T11:02:18Z
   Total Products: 88
 - [Summer Essentials](https://www.littlebambinos.co.nz/collections/summer-essentials)
-  Updated: 2025-10-22T11:01:56Z
+  Updated: 2025-10-23T03:25:59Z
   Total Products: 555
 - [Afterpay 24](https://www.littlebambinos.co.nz/collections/boxing-day-sale-ex-main)
-  Updated: 2025-10-22T11:01:56Z
+  Updated: 2025-10-23T03:26:04Z
   Total Products: 5552
 - [Back To School!](https://www.littlebambinos.co.nz/collections/back-to-school-1): Back to School is just around the corner! Shop our curated range of back-to-school favourites.
   Updated: 2025-10-16T03:46:08Z
@@ -18100,7 +18279,7 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-02-02T20:51:01Z
   Total Products: 17
 - [Welcome 10 Discount](https://www.littlebambinos.co.nz/collections/welcome-10-discount)
-  Updated: 2025-10-22T11:01:56Z
+  Updated: 2025-10-23T03:26:02Z
   Total Products: 2320
 - [Sunny Folk](https://www.littlebambinos.co.nz/collections/sunny-folk)
   Updated: 2025-10-22T11:01:56Z
@@ -18142,16 +18321,16 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-10-22T11:01:56Z
   Total Products: 157
 - [UNDER $50](https://www.littlebambinos.co.nz/collections/under-50): T&Cs - Prices as marked, limited time only. All sale purchases are final, so please choose carefully. Shipping during our Black Friday sale may be longer than usual.
-  Updated: 2025-10-20T22:08:33Z
+  Updated: 2025-10-23T03:26:00Z
   Total Products: 347
 - [UNDER $75](https://www.littlebambinos.co.nz/collections/under-75): T&Cs - Prices as marked, limited time only. All sale purchases are final, so please choose carefully. Shipping during our Black Friday sale may be longer than usual.
   Updated: 2025-10-14T11:02:23Z
   Total Products: 83
 - [UNDER $100](https://www.littlebambinos.co.nz/collections/under-100): T&Cs - Prices as marked, limited time only. All sale purchases are final, so please choose carefully. Shipping during our Black Friday sale may be longer than usual.
-  Updated: 2025-10-19T22:58:10Z
+  Updated: 2025-10-23T03:25:59Z
   Total Products: 169
 - [Boxing Day Sale 24](https://www.littlebambinos.co.nz/collections/boxing-day-sale-24): Shop our Boxing Day Spend & Save and get yourself a bargin - With prices already discounted, you could save up-to 60% Off! Spend $50, get another 10% off | Spend $100, get another 20% off | Spend $150, get another 30% off!
-  Updated: 2025-10-22T11:01:56Z
+  Updated: 2025-10-23T03:26:04Z
   Total Products: 3224
 - [Wear Boxing Day 24](https://www.littlebambinos.co.nz/collections/wear-boxing-day-24)
   Updated: 2024-12-23T02:18:58Z
@@ -18178,10 +18357,10 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-10-01T11:02:11Z
   Total Products: 13
 - [Klaviyo Popup Discount](https://www.littlebambinos.co.nz/collections/klaviyo-popup-discount)
-  Updated: 2025-10-22T11:01:56Z
+  Updated: 2025-10-23T03:26:02Z
   Total Products: 2390
 - [Smart Products Filter Index - Do not delete](https://www.littlebambinos.co.nz/collections/globofilter-best-selling-products-index)
-  Updated: 2025-10-22T11:01:56Z
+  Updated: 2025-10-23T03:26:04Z
   Total Products: 5604
 - [Oria Skin](https://www.littlebambinos.co.nz/collections/oria-skin): Oria Skin solves hormonal skin challenges using natural ingredients. Soothing, brightening, beautiful to use – it’s everything your skin has been asking for. Its hormonal support making it perfect for expecting, new or seasoned mothers.
   Updated: 2025-09-15T11:01:57Z
@@ -18214,8 +18393,8 @@ Combine the cups with MushieÃ¢â‚¬â„¢s other dinnerware products in mat
   Updated: 2025-10-22T11:01:56Z
   Total Products: 1580
 - [Lucky Lasts](https://www.littlebambinos.co.nz/collections/lucky-lasts-1): These are our lucky lasts! Final sizes, final styles. Once they’re out the door, that’s all. Shop now before they're gone.
-  Updated: 2025-10-22T11:01:56Z
-  Total Products: 3105
+  Updated: 2025-10-23T03:26:01Z
+  Total Products: 3103
 - [Lil Moo](https://www.littlebambinos.co.nz/collections/lil-moo)
   Updated: 2025-09-28T20:55:17Z
   Total Products: 3
