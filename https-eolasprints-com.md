@@ -10,7 +10,7 @@
 - Contact Email: support@eolasprints.com
 - Contact Phone: +34-942735955
 - Address: Parque Empresarial Besaya D14, Reocín 39538, Cantabria, Spain
-- Updated At: 2025-10-22T16:00:43.371Z
+- Updated At: 2025-10-23T00:00:35.403Z
 
 Welcome to Eolas Prints - Your Trusted 3D Printing & Digital Fabrication Partner
 
@@ -1566,7 +1566,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/xtool-f1-ultra-20w-fiber-diode-dual-laser-engraver-green-deluxe-860.webp?v=1759190232
     Price: €5,199.00 EUR
 - [Xtool F2 Ultra 60w Mopa 40w Diode Laser Engraver](https://eolasprints.com/products/xtool-f2-ultra-60w-mopa-40w-diode-dual-laser-engraver): The xTool F2 Ultra is a powerful dual laser engraver with a 60W MOPA fiber and 40W Diode laser, offering exceptional precision and speed on numerous materials.
-  Updated: 2025-10-17T22:36:50Z
+  Updated: 2025-10-22T22:26:05Z
   Vendor: xTOOL
   Product Type: Laser Engravers and Cutters
   Availability: Available
