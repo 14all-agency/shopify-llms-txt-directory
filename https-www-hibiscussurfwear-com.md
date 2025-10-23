@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2023-04-19T20:10:07Z
 - Contact Email: georgina@hibiscussurfwear.com
-- Updated At: 2025-10-23T16:00:46.085Z
+- Updated At: 2025-10-23T20:00:50.593Z
 
 ## Products
 
@@ -16135,7 +16135,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/all-over-print-mens-rash-guard-white-front-64be7c10dbf76.jpg?v=1690205214
     Price: £57.30 GBP
 - [New Beginnings - Hibiscus Surfwear - Ethical womens tri-blend t-shirt](https://www.hibiscussurfwear.com/products/new-beginnings-hibiscus-surfwear-ethical-womens-try-blend-t-shirt): New Beginnings - Hibiscus Surfwear - Ethical womens tri-blend t-shirt The tri-blend fabric creates a vintage, fitted look. And extreme durability makes this t-shirt withstand repeated washings and still remain super comfortable. • 50% polyester, 25% combed ring-spun cotton, 25% rayon • Fabric weight: 3.4 oz/yd² (115.3 g/m²) • Pre-shrunk for extra durability • 40 singles • Regular fit • Side-seamed construction • Blank product sourced from Guatemala, Nicaragua, Honduras, or the US This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Size guide LENGTH (inches) WIDTH (inches) XS 27 16 ½ S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2025-04-24T15:45:30Z
+  Updated: 2025-10-23T18:17:05Z
   Vendor: Hibiscus Surfwear
   Product Type: T-shirt
   Availability: Available
