@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-09-05T06:24:05Z
 - Contact Email: fusionvibestoreofficial@gmail.com
-- Updated At: 2025-10-22T16:00:33.716Z
+- Updated At: 2025-10-23T00:00:31.541Z
 
 ## Products
 
@@ -1418,7 +1418,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/a209d6a9-eaf9-44e2-aae6-88f261acb0d7.jpg?v=1760883366
     Price: $12.00 USD
 - [Slim-fitting Casual Suit Dress V-neck Long-sleeved Dresses Commuting Office Clothing For Women](https://fusionvibestore.com/products/slim-fitting-casual-suit-dress-v-neck-long-sleeved-dresses-commuting-office-clothing-for-women): Overview: Unique design, stylish and beautiful. Good material, comfortable wear. A variety of colors, any choice. Product information: Fabric name: Chenille Color: Black, a white T-shirt Main fabric composition: Spandex Size: S,M,L,XL,XXL Applicable Gender: Female Applicable age group: Adult Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Dress*1pc Product Image:
-  Updated: 2025-10-22T10:43:19Z
+  Updated: 2025-10-22T20:55:42Z
   Vendor: z60ja0-0n
   Product Type: BAGS
   Availability: Available
