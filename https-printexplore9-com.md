@@ -6,7 +6,7 @@
 - Timezone: Europe/Athens
 - Created At: 2023-12-24T09:13:07Z
 - Contact Email: info@printexplore9.com
-- Updated At: 2025-10-23T04:00:41.855Z
+- Updated At: 2025-10-23T16:00:33.364Z
 
 ## Products
 
@@ -2311,8 +2311,8 @@
 - [Sustainable-Customized Accessories](https://printexplore9.com/collections/accessories): Discover sustainable and customized gifts for every occasion — from stylish wall clocks to eco-friendly camping mugs & more.
   Updated: 2025-10-18T17:48:44Z
   Total Products: 31
-- [Kids Clothes Collection](https://printexplore9.com/collections/kids): Explore our delightful collection of baby clothes at a cheap price, designed to keep your little one stylish and comfortable without breaking the bank.
-  Updated: 2025-10-15T13:07:44Z
+- [Kids Clothes Collection](https://printexplore9.com/collections/kids): Shop our limited Kids Collection of cute cotton T-shirts, hoodies, and bodysuits.  eco-friendly designs made for comfort and smiles!
+  Updated: 2025-10-23T11:57:48Z
   Total Products: 7
 - [Shop Sustainable Apparel for Men & Women](https://printexplore9.com/collections/shop-now): Explore our sustainable apparel collection.  Enjoy stylish and eco friendly clothing made for comfort and everyday flair.
   Updated: 2025-09-28T17:11:36Z
@@ -2362,8 +2362,8 @@
 
 - [Contact Us - We're Here to Help 24/7](https://printexplore9.com/pages/contact-us): "We make support easy! Got questions? reach out to us, we are here 24/7."
   Updated: 2024-10-06T07:02:17Z
-- [Print & Explore 9 | Eco Apparel, Organic Skincare & Custom Gifts](https://printexplore9.com/pages/about-us): Print & Explore 9 – Eco Apparel | Organic Skincare | Custom Gifts We Stand Behind Our Products At Print & Explore 9, we’re more than just a store—w...
-  Updated: 2025-10-20T18:44:36Z
+- [About | Print & Explore 9](https://printexplore9.com/pages/about-us): We Stand Behind Our Products At Print & Explore 9, we’re more than just a store—we’re your go-to destination for high-quality, sustainable products...
+  Updated: 2025-10-23T10:48:45Z
 - [Shipping Policy – Delivery Information | Printexplore9](https://printexplore9.com/pages/shipping-policy): At Print & Explore9, we're committed to ensuring a seamless shopping experience for our valued customers. Here's a brief overview of our shipping p...
   Updated: 2025-10-12T09:49:23Z
 - [FAQs – Everything You Need to Know About Printexplore 9](https://printexplore9.com/pages/faqs): 1. How can I place an order? To place an order, simply browse our online store, select the items you love, choose your size, and click "Add to Cart...
