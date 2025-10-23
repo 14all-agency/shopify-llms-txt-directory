@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2023-03-22T10:49:51Z
 - Contact Email: onlineshop@lastradafashion.de
-- Updated At: 2025-10-22T12:00:48.093Z
+- Updated At: 2025-10-23T00:00:56.197Z
 
 La Strada is love for Italian Fashion. Our collections represents the latest fashion trends from Italy and is lovingly created and arranged for the modern fashionable woman who is looking for the newest trends, the best quality and best price. 
 
@@ -183,7 +183,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/products/langes-top-mit-spitze-la-strada-14.jpg?v=1706890443
     Price: 19,90 € EUR
 - [Basic Top](https://lastradafashion.de/products/basic-top): Dieses Basic-Top mit seinem anliegenden Schnitt und dem klassischen Rundhalsausschnitt ist ein Must-Have für jede Garderobe. Die breiten Träger sorgen nicht nur für einen bequemen Sitz, sondern verleihen dem Top auch einen modernen Look. Ob als Unterzieh-Shirt unter einem Pullover oder Cardigan oder solo getragen zu einer Jeans oder Rock - dieses vielseitige Top passt zu jedem Outfit. Durch seinen schlichten und zeitlosen Stil ist es ein echtes Allroundtalent, das in keinem Kleiderschrank fehlen sollte. Die hochwertige Verarbeitung und das angenehme Material machen es zudem zu einem echten Lieblingsteil, das man immer wieder gerne trägt. Ein Basic-Top, das einfach immer passt und für einen minimalistischen und cleanen Look sorgt. MARKE - La Strada PASSFORM UND SCHNITT - One Size (von Größen 36 bis 42) - normal geschnitten, locker fallend, reicht über die Hüfte - Rundhalsausschnitt, ärmellos, Rückenausschnitt MATERIAL UND VERARBEITUNG - Materialmix: 95 % Viskose 5 % Elasthan - Materialqualität: leichtes Material, elastisches Material PFLEGEHINWEIS - Maschinenwäsche 30°C MODEL - Das Model ist 176cm groß und trägt Konfektionsgröße 36 bzw. S
-  Updated: 2025-10-21T16:26:35Z
+  Updated: 2025-10-22T14:12:25Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
@@ -621,7 +621,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIxMjc3MTcuanBn_193f8d7f-624c-4c73-bec0-a375dff130e3.jpg?v=1737963603
     Price: 15,90 € EUR
 - [Strickpullover mit Fledermausärmeln](https://lastradafashion.de/products/strickpullover-mit-fledermausarmeln): Dieser Strickpullover ist ein modisches Kleidungsstück, das sowohl Stil als auch Komfort vereint. Hergestellt aus hochwertiger und weicher Strickwolle, verleiht er dem Träger ein angenehmes Gefühl auf der Haut. Der Pullover ist locker geschnitten, was bedeutet, dass er eine lässige und bequeme Passform bietet. Er umschmeichelt die Silhouette und ermöglicht eine maximale Bewegungsfreiheit. Durch den entspannten Schnitt kann der Pullover sowohl leger über Hosen oder Röcke getragen werden, als auch für einen schickeren Anlass gestylt werden. Die Fledermausärmel sind ein Highlight des Pullovers und verleihen ihm eine moderne und trendige Ästhetik. Der Rundhalsausschnitt des Pullovers verleiht dem Outfit einen klassischen Touch. Insgesamt ist der Strickpullover ein vielseitiges und modisches Kleidungsstück, das in jedem Kleiderschrank einen Platz verdient. Mit seinem lockeren Schnitt und den verspielten Ärmeln vereint er Stil und Gemütlichkeit auf elegante Weise. MARKE - La Strada PASSFORM UND SCHNITT - One Size (von Größen 36 bis 42), Passgenauigkeit - Passgenau - normal geschnitten, locker fallend, reicht über die Hüfte - Rundhalsausschnitt, langer Arm MATERIAL UND VERARBEITUNG - Materialmix: 57% Acryl, 29% Polyamide, 7% Viskose, 7% Lana Wolle - Materialqualität: leichtes Material, elastisches Material, leicht transparent PFLEGEHINWEIS - nur Handwäsche, nicht Trockner geeignet, bei 110 Grad bügeln, nicht bleichen MODEL - Das Model ist 176cm groß und trägt Konfektionsgröße 36 bzw. S
-  Updated: 2025-10-22T11:42:22Z
+  Updated: 2025-10-22T14:46:02Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
