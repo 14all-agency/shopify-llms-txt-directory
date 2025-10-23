@@ -9,7 +9,7 @@
 - Created At: 2023-11-20T15:32:25Z
 - Contact Email: hello@inky-ingredients.com
 - Address: Units 2, 3 & 5 Athelstan Business Park Hanwell Lane, Hutton Conyers Ripon, North Yorkshire HG4 5BF, UK
-- Updated At: 2025-10-23T16:00:40.116Z
+- Updated At: 2025-10-23T20:00:44.615Z
 
 The UK's largest natural ingredients supplier. INKY Ingredients supplies formulators and makers as well as the general public with the UK's widest range of essential oils, cold pressed oils, waxes, soaps, butters and more. We hold a 7 sustainability accreditations and are committed to providing an unparalleled selection of premium natural oil ingredients, fostering sustainability, and championing the sustainable beauty movement.
 
@@ -631,7 +631,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £840.00 GBP
 - [Rose Water (Hydrolat)](https://inky-ingredients.com/products/rose-water-hydrolat): Rose Water, a hydrolat produced during steam distillation of rose petals, is a gentle and fragrant toner for the skin. Known for its soothing properties, it refreshes and hydrates, making it a popular addition to skincare routines for a radiant complexion.
-  Updated: 2025-10-19T22:39:35Z
+  Updated: 2025-10-23T19:18:14Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -2536,7 +2536,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £136.25 GBP
 - [Sheanut Butter, Refined Organic](https://inky-ingredients.com/products/sheanut-butter-refined-organic): Refined Organic Sheanut Butter is a premium cosmetic ingredient with a silky texture. Certified organic, it provides intense hydration for the skin. This refined butter is a valuable addition to organic skincare formulations, contributing to a luxurious and nourishing experience.
-  Updated: 2025-10-23T10:42:13Z
+  Updated: 2025-10-23T19:18:16Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
