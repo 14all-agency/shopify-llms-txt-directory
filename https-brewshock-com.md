@@ -17,12 +17,12 @@ Brew Shockalaka isn’t just another coffee—it’s a lifestyle movement for cl
 - Created At: 2025-02-26T15:41:09Z
 - Contact Email: info@brewshock.com
 - Address: Plano, Tx
-- Updated At: 2025-10-23T08:00:32.710Z
+- Updated At: 2025-10-23T16:00:31.654Z
 
 ## Products
 
 - [12 Pack & 3 Pack Brew Shockalaka](https://brewshock.com/products/12-pack): The ultimate nootropic-infused, sugar-free canned coffee that fuels your focus, energy, and hydration—without the crash.
-  Updated: 2025-10-23T03:00:06Z
+  Updated: 2025-10-23T11:09:32Z
   Vendor: brewshockalaka
   Product Type: 
   Availability: Available
@@ -293,10 +293,10 @@ Brew Shockalaka isn’t just another coffee—it’s a lifestyle movement for cl
 ## Collections
 
 - [Home page](https://brewshock.com/collections/frontpage)
-  Updated: 2025-10-22T11:25:42Z
+  Updated: 2025-10-23T11:23:42Z
   Total Products: 1
 - [Brew Shockalaka On the Go RTD](https://brewshock.com/collections/brew-shockalaka-on-the-go-rtd)
-  Updated: 2025-10-22T11:25:42Z
+  Updated: 2025-10-23T11:23:42Z
   Total Products: 3
 - [T-Shirts & Tops](https://brewshock.com/collections/gear)
   Updated: 2025-09-21T11:20:53Z
