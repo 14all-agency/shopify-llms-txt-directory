@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2025-10-22T16:00:55.806Z
+- Updated At: 2025-10-23T00:00:51.049Z
 
 ## Products
 
@@ -10614,7 +10614,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Sport-Tank-and-Leggings-Set-Brinxx-Couture-6482.jpg?v=1709860365
     Price: $30.00 USD
 - [Woven Houndstooth Open Front Cardigan - Brinxx Couture](https://www.brinxxcouture.com/products/woven-houndstooth-open-front-cardigan): Stay warm and stylish with this woven Houndstooth cardigan! Featuring an open front and cozy oversized fit, you'll love the comfort and timeless appeal of this classic cardigan!
-  Updated: 2025-10-18T08:18:46Z
+  Updated: 2025-10-22T17:41:36Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -15762,7 +15762,7 @@
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/SO-PINK-BEAUTY-Faux-Mink-Eyelashes-Variety-Pack-5-Pairs-Brinxx-Couture-8507.jpg?v=1709883269
   Price: $15.00 USD
 - [SO PINK BEAUTY Faux Mink Eyelashes 5 Pairs - Brinxx Couture](https://www.brinxxcouture.com/products/so-pink-beauty-faux-mink-eyelashes-5-pairs): Upgrade your lash game with SO PINK BEAUTY Faux Mink Eyelashes. Individually handcrafted with luxurious mink hair, these lightweight lashes give a natural yet dramatic flare to your eyes.
-  Updated: 2025-10-22T06:45:30Z
+  Updated: 2025-10-22T19:16:06Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -19414,7 +19414,7 @@
   Availability: Available
   Price: $39.00 USD
 - [Stretchy Stitch Pants  - Brinxx Couture](https://www.brinxxcouture.com/products/stretchystitch-pants-by-basic-bae): Introducing the Stretchy Stitch Pants - the ultimate combination of comfort and style! These pants are stretchy that allows for maximum flexibility.
-  Updated: 2025-10-22T15:17:28Z
+  Updated: 2025-10-22T20:23:43Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -21826,7 +21826,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Button-Up-Long-Sleeve-Cardigan-Brinxx-Couture-6076.jpg?v=1730296417
     Price: $40.00 USD
 - [Mock Neck Flounce Sleeve Mini Dress - Brinxx Couture](https://www.brinxxcouture.com/products/mock-neck-flounce-sleeve-mini-dress): Elevate your style game with our Mock Neck Flounce Sleeve Mini Dress! Its mock neck design and flounce sleeves add a touch of elegance to any occasion.
-  Updated: 2025-10-01T22:26:58Z
+  Updated: 2025-10-22T18:51:41Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -23257,7 +23257,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Notch-Lapel-Woven-Coat-with-Side-Pockets-Brinxx-Couture-2936.jpg?v=1730297108
     Price: $40.00 USD
 - [Cable-Knit Round Neck Sweater Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress): Wrap yourself in cozy comfort and timeless style with our Cable-Knit Round Neck Sweater Dress! Made from soft, high-quality materials.
-  Updated: 2025-10-22T14:00:55Z
+  Updated: 2025-10-22T21:41:22Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
