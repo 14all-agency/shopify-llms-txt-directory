@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-10-22T00:00:43.423Z
+- Updated At: 2025-10-23T00:00:44.233Z
 
 ## Products
 
@@ -1474,7 +1474,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/horizontal-toilet-roll-dispenser-white-2-roll-capacity-toilet-tissue-dispensers-essential-supplies-483139.jpg?v=1719445182
   Price: $49.00 NZD
 - [Horizontal Toilet Roll Dispenser - Black, 2 Roll Capacity - 1 Dispenser](https://essentialsupplies.co.nz/products/horizontal-toilet-roll-dispenser-black-2-roll-capacity-1): Horizontal toilet tissue dispenser offers a practical and durable roll dispensing solution.Ensure your bathroom is always fully hygienically stocked. Compatible with the complete toilet tissue range with a 2 roll capacity and easy switch over mechanism. Horizontal toilet tissue dispenser Sturdy and durable design 2 roll capacity Easy switch over mechanism Colour: Black
-  Updated: 2025-01-10T18:00:01Z
+  Updated: 2025-10-22T09:58:58Z
   Vendor: Mattews Packaging
   Product Type: Toilet Tissue Dispensers
   Availability: Available
@@ -3119,7 +3119,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/foaming-wall-dispenser-black-1000ml-capacity-1-dispenser-includes-empty-cartridge-foaming-wall-dispensers-essential-supplies-553658.jpg?v=1719445086
   Price: $56.00 NZD
 - [Foaming Wall Dispenser - Gold, 1000ml Capacity - 1 Dispenser + Includes Empty Cartridge](https://essentialsupplies.co.nz/products/foaming-wall-dispenser-gold-1000ml-capacity-1-includes-empty-cartridge): This manual foaming dispenser is made from sturdy and durable ABS plastic.Convenient, lockable bulk fill system helps to reduce maintenance costs and minimise wastage. Easily mountable and refillable these dispensers are suitable for use in bathrooms, kitchens, offices, hotels and restaurants. Stylish modern design Made from sturdy and durable ABS plastic Suitable for use in bathrooms, kitchens, offices, hotels, restaurants etc. Case colour: Gold Capacity: 1000ml
-  Updated: 2025-02-12T10:04:53Z
+  Updated: 2025-10-22T03:26:52Z
   Vendor: Mattews Packaging
   Product Type: Foaming Wall Dispensers
   Availability: Available
@@ -3866,7 +3866,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/pod-petite-automatic-unit-white-253mm-x-177mm-x-420mm-refill-1-unit-sanitary-hygiene-essential-supplies-228587.jpg?v=1719445579
   Price: $253.00 NZD
 - [Pod Petite Automatic Unit - Black, 253mm x 177mm x 420mm, + Refill - 1 Unit](https://essentialsupplies.co.nz/products/pod-petite-automatic-unit-black-253mm-x-177mm-x-420mm-refill-1): Using a smart motion activated chip, the unique Pod Petite Automatic system opertes touchlessly, silently and reliably - each and every time. It's also easy to install and service with a quick three step process, and the unique liner cassette offers complete protection for service personnel with zero exposure to waste. It's the simple, smart, safer choice for your washroom, your customers, your staff and the environment.
-  Updated: 2025-02-07T03:16:43Z
+  Updated: 2025-10-22T13:31:05Z
   Vendor: Mattews Packaging
   Product Type: Sanitary Hygiene
   Availability: Available
