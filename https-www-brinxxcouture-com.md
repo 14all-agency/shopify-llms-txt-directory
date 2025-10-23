@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2025-10-23T12:00:51.071Z
+- Updated At: 2025-10-23T16:00:51.939Z
 
 ## Products
 
@@ -4293,7 +4293,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Plus-Size-Tied-Cold-Shoulder-Tee-Shirt-Brinxx-Couture-2201.jpg?v=1709311462
     Price: $25.00 USD
 - [Sexy Slim Solid Color Dress - Brinxx Couture](https://www.brinxxcouture.com/products/new-sexy-slim-solid-color-slant-shoulder-sleeveless-hip-dress): The new sexy slim solid color slanted shoulder sleeveless wrap hip dress is suitable for many occasions, and the simple design makes the boring season colorful.
-  Updated: 2025-10-02T17:11:31Z
+  Updated: 2025-10-23T12:05:38Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -7735,7 +7735,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Bodycon-Hip-Knitted-Dress-Brinxx-Couture-8815.jpg?v=1709842960
     Price: $35.00 USD
 - [Tie Back Cutout Round Neck Split Dress - Brinxx Couture](https://www.brinxxcouture.com/products/tie-back-cutout-round-neck-split-dress): Be a fashion trendsetter with the Tie Back Cutout Round Neck Split Dress! Flaunt your style with the fashionable cutout round neck and turn heads.
-  Updated: 2025-10-02T17:12:08Z
+  Updated: 2025-10-23T12:18:02Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -9374,7 +9374,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Gradient-Sports-Tank-and-Leggings-Set-Brinxx-Couture-5408.jpg?v=1709850856
     Price: $34.99 USD
 - [Snap Down Collared Winter Coat - Brinxx Couture](https://www.brinxxcouture.com/products/snap-down-collared-winter-coat): Stay warm and stylish in this Snap Down Collared Winter Coat. The high-quality fabric and unique snap closure ensures a weatherproof fit.
-  Updated: 2025-10-21T03:01:35Z
+  Updated: 2025-10-23T13:50:47Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -9412,7 +9412,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Snap-Down-Collared-Winter-Coat-Brinxx-Couture-9795.jpg?v=1709851014
     Price: $59.99 USD
   - [Black / XL](https://www.brinxxcouture.com/products/snap-down-collared-winter-coat?variant=42381084065974)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Snap-Down-Collared-Winter-Coat-Brinxx-Couture-9795.jpg?v=1709851014
     Price: $59.99 USD
   - [Black / 2XL](https://www.brinxxcouture.com/products/snap-down-collared-winter-coat?variant=42381084098742)
@@ -9784,7 +9784,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Zip-Up-Collared-Ribbed-Jacket-Brinxx-Couture-9208.jpg?v=1709852170
     Price: $49.99 USD
 - [Ribbed Mock Neck Long Sleeve Bodycon Dress - Brinxx Couture](https://www.brinxxcouture.com/products/ribbed-mock-neck-long-sleeve-bodycon-dress): This Ribbed Mock Neck Long Sleeve Bodycon Dress provides an alluring silhouette that is sure to turn heads. Crafted from a ribbed fabric.
-  Updated: 2025-10-02T17:12:11Z
+  Updated: 2025-10-23T12:44:36Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -18092,21 +18092,21 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Sequin-V-bar-Crisscross-Tube-Dress-Brinxx-Couture-7826_6d6f37fc-2343-4b5b-aa2c-17ffff1bf61b.jpg?v=1736049987
     Price: $49.99 USD
 - [Off Shoulders Stretch Dress](https://www.brinxxcouture.com/products/goo2-6-27742x-id-58740): Indulge in effortless style with our Off Shoulders Stretch Dress! This plus size dress features a flattering off-shoulder neckline and stretchy fabric for a comfortable and stylish fit. Perfect for any occasion, this dress will leave you feeling confident and chic!
-  Updated: 2025-10-04T12:29:02Z
+  Updated: 2025-10-23T12:44:43Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Off-Shoulders-Stretch-Dress-Brinxx-Couture-4233.jpg?v=1726379910
   - [Black / 1XL](https://www.brinxxcouture.com/products/goo2-6-27742x-id-58740?variant=43330051965110)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Off-Shoulders-Stretch-Dress-Brinxx-Couture-4233.jpg?v=1726379910
     Price: $59.99 USD
   - [Black / 2XL](https://www.brinxxcouture.com/products/goo2-6-27742x-id-58740?variant=43330051997878)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Off-Shoulders-Stretch-Dress-Brinxx-Couture-4233.jpg?v=1726379910
     Price: $59.99 USD
   - [Black / 3XL](https://www.brinxxcouture.com/products/goo2-6-27742x-id-58740?variant=43330052030646)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Off-Shoulders-Stretch-Dress-Brinxx-Couture-4233.jpg?v=1726379910
     Price: $59.99 USD
   - [Magenta / 1XL](https://www.brinxxcouture.com/products/goo2-6-27742x-id-58740?variant=43330052063414)
@@ -23135,7 +23135,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Notch-Lapel-Woven-Coat-with-Side-Pockets-Brinxx-Couture-2936.jpg?v=1730297108
     Price: $40.00 USD
 - [Cable-Knit Round Neck Sweater Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress): Wrap yourself in cozy comfort and timeless style with our Cable-Knit Round Neck Sweater Dress! Made from soft, high-quality materials.
-  Updated: 2025-10-23T10:11:37Z
+  Updated: 2025-10-23T14:30:44Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -29491,7 +29491,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/10916198532_543910040.jpg?v=1737580843
     Price: $59.99 USD
 - [Knitted Stretch Pant Set - Brinxx Couture](https://www.brinxxcouture.com/products/knitted-stretch-pant-set): Introducing our Knitted Stretch Pant Set in Camel, a stylish and comfortable two-piece ensemble that effortlessly combines relaxation with chic design.
-  Updated: 2025-08-22T19:26:09Z
+  Updated: 2025-10-23T12:44:47Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -33319,7 +33319,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/efb32da1-2832-47bf-8fef-2fa76a585907-Max-Origin.webp?v=1746798144
     Price: $24.99 USD
 - [Ruffled Plunge Sleeveless Maxi Dress - Brinxx Couture](https://www.brinxxcouture.com/products/ruffled-plunge-sleeveless-maxi-dress): Elevate your style with our Ruffled Plunge Sleeveless Maxi Dress. Exude elegance in this luxurious dress, featuring delicate ruffles and a plunging neckline.
-  Updated: 2025-10-21T12:03:25Z
+  Updated: 2025-10-23T15:07:36Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -33501,7 +33501,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/WH2002085F.jpg?v=1747426234
     Price: $99.99 USD
 - [Slim Fit Elastic Casual Pants - Brinxx Couture](https://www.brinxxcouture.com/products/slim-fit-elastic-casual-pants): Indulge in effortless style with our Slim Fit Elastic Casual Pants. Experience a perfect fit with the added comfort of elastic waistband. Versatile and comfortable.
-  Updated: 2025-09-25T11:00:37Z
+  Updated: 2025-10-23T12:44:46Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -33535,7 +33535,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/CC59428SI3.jpg?v=1747426370
     Price: $39.99 USD
   - [Spice / M](https://www.brinxxcouture.com/products/slim-fit-elastic-casual-pants?variant=43991469293750)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/CC59428SI3.jpg?v=1747426370
     Price: $39.99 USD
   - [Spice / L](https://www.brinxxcouture.com/products/slim-fit-elastic-casual-pants?variant=43991469326518)
@@ -33926,24 +33926,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/WH300025244D.jpg?v=1756225729
     Price: $31.00 USD
-- [Chevron V Neck Long Sleeve Loose Top - Brinxx Couture](https://www.brinxxcouture.com/products/chevron-v-neck-long-sleeve-loose-top): Brighten your wardrobe with this playful Chevron V Neck Long Sleeve Loose Top. Its vibrant chevron pattern adds a dash of fun, the loose fit keeps you comfy.
-  Updated: 2025-10-21T12:13:26Z
-  Vendor: Brinxx Couture
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/WH300025212.jpg?v=1756225771
-  - [Green / S](https://www.brinxxcouture.com/products/chevron-v-neck-long-sleeve-loose-top?variant=44222524129462)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/WH300025212B.jpg?v=1756225771
-    Price: $25.00 USD
-  - [Olive / S](https://www.brinxxcouture.com/products/chevron-v-neck-long-sleeve-loose-top?variant=44222524162230)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/WH300025212.jpg?v=1756225771
-    Price: $25.00 USD
-  - [Wine / S](https://www.brinxxcouture.com/products/chevron-v-neck-long-sleeve-loose-top?variant=44222524194998)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/WH300025212D.jpg?v=1756225772
-    Price: $25.00 USD
 - [Solid Crewneck Twist Texture Loose Fit Pullover - Brinxx Couture](https://www.brinxxcouture.com/products/solid-crewneck-twist-texture-loose-fit-pullover): Experience effortless style and comfort with our Solid Crewneck Twist Texture Loose Fit Pullover. Crafted with a unique twist texture. Perfect for layering.
   Updated: 2025-09-15T10:02:51Z
   Vendor: Brinxx Couture
@@ -34831,7 +34813,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01di7lly2C1DAfAR5ef__3953378413-0-cib.jpg?v=1758137012
     Price: $54.99 USD
 - [High Waist Buckle Belt Pants - Women's Slim Fit Style](https://www.brinxxcouture.com/products/high-waist-buckle-belt-pants-women): Shop stylish high waist buckle belt pants for women. Flared leg design, adjustable belt, perfect for work or evening. Premium fabric for premium comfort.
-  Updated: 2025-10-21T12:13:38Z
+  Updated: 2025-10-23T12:44:52Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
