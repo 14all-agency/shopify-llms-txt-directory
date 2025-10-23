@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2023-04-19T20:10:07Z
 - Contact Email: georgina@hibiscussurfwear.com
-- Updated At: 2025-10-23T00:01:08.505Z
+- Updated At: 2025-10-23T12:00:46.792Z
 
 ## Products
 
@@ -18592,7 +18592,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/greeting-card-5.83x8.27-front-6683ecf7aa4c8.jpg?v=1719923594
     Price: £8.43 GBP
 - [NYC - Georgina Zafeiri - Ethical Greeting card](https://www.hibiscussurfwear.com/products/nyc-georgina-hobbs-ethical-greeting-card): Expressing your sentiments or planning an event can be hard. Take some of the weight off of your shoulders by getting yourself an authentic greeting card! • Material: 14.77 oz/yd² (350 g/m²) paperboard • Sizes: Small: 4″ × 6″ (101 × 152 mm) Medium: 5″ × 7″ (127 × 178 mm) Large: 5.83″ × 8.27″ (148 × 210 mm) • Product weight: Small: 0.39 oz (11 g) Medium: 0.6 oz (17 g) Large: 0.85 oz (24 g) • Toner-based printing • Vibrant colors • Comes with a complimentary envelope
-  Updated: 2025-04-24T15:45:35Z
+  Updated: 2025-10-23T09:36:02Z
   Vendor: Hibiscus Surfwear
   Product Type: 
   Availability: Available
