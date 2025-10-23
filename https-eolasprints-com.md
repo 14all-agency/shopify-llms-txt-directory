@@ -10,7 +10,7 @@
 - Contact Email: support@eolasprints.com
 - Contact Phone: +34-942735955
 - Address: Parque Empresarial Besaya D14, Reocín 39538, Cantabria, Spain
-- Updated At: 2025-10-23T04:00:38.287Z
+- Updated At: 2025-10-23T12:00:37.923Z
 
 Welcome to Eolas Prints - Your Trusted 3D Printing & Digital Fabrication Partner
 
@@ -795,7 +795,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-transition-filament-spool-3d-printer-1-75-mm-250-g-710.webp?v=1725545341
     Price: €22.50 EUR
 - [Petg Transition Filament with Good Sunlight Resistance](https://eolasprints.com/products/petg-transition-filament): Eolas Prints PETG transition filament offers superior performance for 3D printing with improved thermal stability and good sunlight resistance for heat resistant parts.
-  Updated: 2025-09-29T11:53:03Z
+  Updated: 2025-10-23T08:05:42Z
   Vendor: Eolas Prints
   Product Type: 3D Printer Filament
   Availability: Available
@@ -1642,10 +1642,10 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   Updated: 2025-10-22T11:14:56Z
   Total Products: 12
 - [Petg and Transition Filament for 3d Prints](https://eolasprints.com/collections/petg): The Eolas Prints PETG collection offers premium multi-colour and petg transition filament. All materials are ISO and REACH certified for superior quality and safety.
-  Updated: 2025-10-22T11:14:56Z
+  Updated: 2025-10-23T11:16:13Z
   Total Products: 5
 - [Tpu Flex Filament and Tpu Transition Filament](https://eolasprints.com/collections/tpu): Eolas Prints TPU offers premium, multi-colour tpu flex filament for 3D printing. Our materials are ISO and REACH certified for high-quality, reliable results.
-  Updated: 2025-10-22T11:14:56Z
+  Updated: 2025-10-23T11:16:13Z
   Total Products: 6
 - [OrderlyEmails - Recommended Products](https://eolasprints.com/collections/orderlyemails-recommended-products): This collection features recommended products for the OrderlyEmails app. It is automatically updated with our best-selling Eolas Prints for notification emails.
   Updated: 2025-09-28T22:37:41Z
@@ -1654,7 +1654,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   Updated: 2025-10-20T11:12:41Z
   Total Products: 5
 - [Quality Pla Filament and Transition Filament Sale](https://eolasprints.com/collections/3d-filament-offers): Eolas Prints presents certified PLA filament and materials in our transition filament sale. Find quality ISO and REACH compliant supplies for your 3D printing projects.
-  Updated: 2025-10-15T11:15:23Z
+  Updated: 2025-10-23T11:16:13Z
   Total Products: 3
 - [Filamento Abs Iso Certificado Calidad y Servicio](https://eolasprints.com/collections/abs): Eolas Prints provides high-performance ABS filament for 3D printing, certified for quality and environmental standards, reflecting our calidad y servicio promise.
   Updated: 2025-10-21T11:15:14Z
@@ -1663,7 +1663,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   Updated: 2025-10-11T00:44:14Z
   Total Products: 5
 - [3d Printer Filament Pla Tpu Petg Abs Asa](https://eolasprints.com/collections/3d-printer-filament): Eolas Prints offers a premium collection of certified 3D printer filaments, including our high-performance Eolas Prints PLA, durable PETG, and flexible TPU.
-  Updated: 2025-10-22T11:14:56Z
+  Updated: 2025-10-23T11:16:13Z
   Total Products: 22
 - [New 3d Printing Innovations by Thought3d Magigoo](https://eolasprints.com/collections/new-arrivals): The latest collection at Eolas Prints includes the new Flashforge AD5X Multi-Colour printer and Thought3D products, all certified to ISO and REACH standards.
   Updated: 2025-10-18T11:11:53Z
@@ -1675,8 +1675,8 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   Updated: 2025-10-22T11:14:56Z
   Total Products: 9
 - [Craft Machines for Home Projects and 3d Printing](https://eolasprints.com/collections/craft-machines): This collection of craft machines from Eolas Prints includes the Flashforge AD5X. ISO quality and environment management download certificates are available.
-  Updated: 2025-09-28T22:41:04Z
-  Total Products: 7
+  Updated: 2025-10-23T11:16:13Z
+  Total Products: 8
 - [3d Printing Equipment and Supplies Online Store](https://eolasprints.com/collections/3d-printers): Eolas Prints offers a professional collection of 3D printers, including the Flashforge AD5X. Our certified machines meet ISO and REACH quality standards.
   Updated: 2025-10-23T00:35:54Z
   Total Products: 19
