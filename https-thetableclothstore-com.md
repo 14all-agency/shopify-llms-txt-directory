@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-02-06T23:04:14Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-10-23T00:00:44.612Z
+- Updated At: 2025-10-23T04:00:40.761Z
 
 ## Products
 
@@ -33765,6 +33765,9 @@
     Author: User
   - [Creative Uses for Tablecloths Beyond the Dining Room](https://thetableclothstore.com/blogs/news/creative-uses-for-tablecloths-beyond-the-dining-room): Creative Uses for Tablecloths Beyond the Dining Room
     Updated: 2025-10-21T02:03:55Z
+    Author: User
+  - [Design Masterpiece: How to Coordinate Table Settings with Your Home Decor](https://thetableclothstore.com/blogs/news/design-masterpiece-how-to-coordinate-table-settings-with-your-home-decor): Design Masterpiece: How to Coordinate Table Settings with Your Home Decor
+    Updated: 2025-10-23T01:31:08Z
     Author: User
 
 ## Store Pages
