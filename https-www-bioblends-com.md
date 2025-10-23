@@ -6,33 +6,33 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-10T04:36:55Z
 - Contact Email: info@bioblends.co.nz
-- Updated At: 2025-10-23T00:00:32.397Z
+- Updated At: 2025-10-23T04:00:32.929Z
 
 ## Products
 
 - [Liver Love](https://www.bioblends.com/products/liver-love): Your liver plays a crucial role in your energy, the detoxification and elimination of problematic substances (‘toxins’), hormone balance and clear skin — fundamentally shaping how you look and feel each day. Nourish and protect this vital organ with Liver Love, a potent blend designed for optimal liver health and detoxification. “Liver loaders” enter the body via what we eat, drink and absorb through our skin – helping them leave the body efficiently can make a significant difference to how we feel each day.
-  Updated: 2025-10-22T23:35:51Z
+  Updated: 2025-10-23T03:53:18Z
   Vendor: Bio Blends
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0705/0684/0315/files/Liver1_12dd3dd9-6f54-456a-a8f7-d856585cbfd9.jpg?v=1746054864
   Price: $69.95 NZD
 - [Cycle Essentials](https://www.bioblends.com/products/cycle-essentials): Cycle Essentials harnesses a potent blend of foods and botanicals (medicinal herbs) to support healthy progesterone production, easing challenges that can come with monthly hormonal shifts as well as those that can arise during perimenopause, fostering a smoother transition across this time. It is renown for reducing cycle-related anxiousness and mood lows, as well as bloating and fluid retention. This formula supports robust adrenal function for a milder stress response and aids in decreasing sweet cravings.
-  Updated: 2025-10-22T20:06:27Z
+  Updated: 2025-10-23T03:53:21Z
   Vendor: Bio Blends
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0705/0684/0315/files/Cycle1_04b1dd23-e2d5-48e0-bee8-8091daae833b.jpg?v=1743047443
   Price: $69.95 NZD
 - [Organic Daily Greens & Reds](https://www.bioblends.com/products/organic-daily-greens-reds): Nourish, energise, oxygenate and eliminate. The daily blend that is a powerhouse of concentrated, food-grown goodness. This nutrient-rich powder combines whole blackcurrants, wheatgrass, barley grass, broccoli, dandelion and beetroot, delivering a burst of antioxidants, vitamins, minerals and unique phytochemicals that the whole family will benefit from.
-  Updated: 2025-10-22T22:41:50Z
+  Updated: 2025-10-23T03:40:02Z
   Vendor: Bio Blends
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0705/0684/0315/files/Greens1_fa3078aa-1028-4491-ad52-90069ae7f000.jpg?v=1743047448
   Price: $69.95 NZD
 - [Organic Zinc](https://www.bioblends.com/products/organic-zinc-extract): Imagine you have a bucket inside you that can hold zinc. You want it nice and full, so zinc can be supplied when and where it’s needed. If the bucket doesn’t have much zinc in it, the body will have to prioritise where zinc goes, meaning numerous processes that require it, won’t be able to function well or at all. Zinc is an essential mineral that plays a pivotal role in maintaining so many aspects of health, particularly robust immune function, digestion, hormone production, mood, wound healing and skin clarity, as well as hair and nail quality – it’s indispensable to a wide range of physiological functions. Despite its importance, zinc deficiency is surprisingly common, typically due to inadequate dietary intake from diminished top soil quality.
-  Updated: 2025-10-22T23:35:51Z
+  Updated: 2025-10-23T02:19:18Z
   Vendor: Bio Blends
   Product Type: 
   Availability: Available
@@ -81,7 +81,7 @@
     Availability: Available
     Price: $200.00 NZD
 - [Glow and Nourish Bundle](https://www.bioblends.com/products/beauty-bundle): YOUR ULTIMATE INSIDE-OUT SKIN SOLUTION. Get our limited edition bundle and receive Dr Libby’s The Beauty Guide FREE (valued at $39.95)! This powerful trio is designed to nourish your skin from the inside out, targeting the key foundations of radiant skin: optimal nutrient levels, hormone balance and effective detoxification. What’s inside? Skin Nutrition – Antioxidant-rich botanicals, wholefood vitamin C, silica and zinc to support collagen production and protect against oxidative stress. Liver Love – A blend of research-backed herbs including St Mary’s thistle, turmeric and gentian to support detoxification, hormone metabolism and clearer skin. Organic Zinc – Essential for skin repair, inflammation control and maintaining a strong skin barrier. Save 10% when you buy this bundle + receive a FREE copy of Dr Libby’s The Beauty Guide, packed with expert insights and strategies for glowing skin. Gift with purchase available while stocks last. Offer valid from Tuesday 25 March to Monday 31 March, ending at midnight.
-  Updated: 2025-10-22T23:35:55Z
+  Updated: 2025-10-23T03:53:21Z
   Vendor: Bio Blends 
   Product Type: 
   Availability: Available
@@ -95,7 +95,7 @@
   Image: https://cdn.shopify.com/s/files/1/0705/0684/0315/files/BeautyGuide.jpg?v=1743047454
   Price: $39.95 NZD
 - [Iconic Iron™](https://www.bioblends.com/products/iconic-iron): Your liver plays a crucial role in your energy, the detoxification and elimination of problematic substances (‘toxins’), hormone balance and clear skin — fundamentally shaping how you look and feel each day. Nourish and protect this vital organ with Liver Love, a potent blend designed for optimal liver health and detoxification. “Liver loaders” enter the body via what we eat, drink and absorb through our skin – helping them leave the body efficiently can make a significant difference to how we feel each day.
-  Updated: 2025-10-22T23:53:45Z
+  Updated: 2025-10-23T03:52:11Z
   Vendor: Bio Blends
   Product Type: 
   Availability: Available
@@ -109,7 +109,7 @@
   Image: https://cdn.shopify.com/s/files/1/0705/0684/0315/files/FixIronFirst.jpg?v=1750636809
   Price: $39.95 NZD
 - [The Iron Reset](https://www.bioblends.com/products/iron-bundle): If you’ve been battling low energy, brain fog, heavy periods or relentless fatigue — and nothing seems to help — this bundle is for you. The Iron Reset bundle brings together Fix Iron First, Dr Libby’s illuminating new book, and Iconic Iron, our gentle, highly bioavailable ferritin-iron supplement. Together they offer a complete plan of attack: understand what’s really driving your symptoms, why your iron levels have been so hard to restore and how to support your body with a form of iron it can actually absorb and use — without the gut upset. Learn the why. Use what works. And finally start feeling like yourself again. Because when you give your body what it truly what it needs, everything begins to shift.
-  Updated: 2025-10-22T23:53:50Z
+  Updated: 2025-10-23T03:52:16Z
   Vendor: Bio Blends 
   Product Type: 
   Availability: Available
@@ -455,7 +455,7 @@
     Author: Emily Parks
     Tags: Recipe
   - [9 things you need to know about iron](https://www.bioblends.com/blogs/news/9-things-you-need-to-know-about-iron)
-    Updated: 2025-10-16T07:24:01Z
+    Updated: 2025-10-23T03:16:43Z
     Author: Libby Ellis
 
 ## Store Pages
