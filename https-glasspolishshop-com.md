@@ -7,7 +7,7 @@
 - Currency: EUR
 - Timezone: Europe/Dublin
 - Created At: 2025-01-23T10:54:05Z
-- Updated At: 2025-10-22T20:00:57.151Z
+- Updated At: 2025-10-23T04:00:52.963Z
 
 ## Products
 
@@ -2142,7 +2142,7 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Leather-Vinyl-Repair-Kit-Do-it-yourself-Air-Dry-91001.jpg?v=1737644362
   Price: €15.95 EUR
 - [Leather &amp; Vinyl Repair Kit - Do It Yourself - Heat Cure - 91002](https://glasspolishshop.com/products/leather-and-vinyl-repair-kit-do-it-yourself-heat-cure): Repair small holes, rips, tears and burns in leather and vinyl, Heat Cure with special tool allows anyone to achieve professional fast repairs in minutes with a near perfect results.
-  Updated: 2025-10-20T22:26:21Z
+  Updated: 2025-10-22T20:54:54Z
   Vendor: Glass Polish
   Product Type: Repair Kit
   Availability: Available
@@ -2525,7 +2525,7 @@
     Availability: Available
     Price: €84.95 EUR
 - [DIY Glass Scratch Removal Kit 75mm – Deep Scratch Repair with Drill](https://glasspolishshop.com/products/diy-glass-scratch-removal-kit-75mm): 75mm glass scratch removal kit for deep scratch repairs on all glass types. Includes abrasives, pads, compound, and drill adaptor. Fast, easy, and effective.
-  Updated: 2025-10-22T15:49:36Z
+  Updated: 2025-10-22T23:34:56Z
   Vendor: Glass Polish
   Product Type: Glass Scratch Removal Kit
   Availability: Available
@@ -2850,21 +2850,21 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/12623_11ba2aed-6f16-411e-9b38-17c1f7326f2d.jpg?v=1760360264
   Price: €16.95 EUR
 - [125mm ( 5 inch) Dense Felt Polishing Pad - 11033](https://glasspolishshop.com/products/125mm-5-inch-dense-felt-polishing-pad): 125mm ( 5 inch) Dense Felt Polishing Pad - 11033 - Felt &amp; Fibre Pads - • Pack of One Dense Polishing Pad• Diameter 125mm ( 5 inch)• Thickness: 10mm• Ideal for polishing, and buffing most metals and stone surfaces. • Hook and Loop Fastening System - co
-  Updated: 2025-10-22T08:45:32Z
+  Updated: 2025-10-23T00:42:32Z
   Vendor: Glass Polish
   Product Type: Felt Polishing Pad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/11033_5ff51f5f-5731-4ab0-a88a-c849605c935c.jpg?v=1749048243
   Price: €8.95 EUR
 - [150mm ( 6 inch) Dense Felt Polishing Pad - 11033](https://glasspolishshop.com/products/150mm-6-inch-dense-felt-polishing-pad): 150mm ( 6 inch) Dense Felt Polishing Pad - 11033 - Felt &amp; Fibre Pads - • Pack of One Dense Polishing Pad• Diameter 150mm ( 6 inch)• Thickness: 10mm• Ideal for polishing, and buffing most metals and stone surfaces. • Hook and Loop Fastening System - co
-  Updated: 2025-10-22T08:45:20Z
+  Updated: 2025-10-23T01:52:44Z
   Vendor: Glass Polish
   Product Type: Felt Polishing Pad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/11033_c36157fd-1670-45b7-b87d-922e81c990c8.jpg?v=1749041046
   Price: €8.95 EUR
 - [180mm ( 7 inch) Dense Felt Polishing Pad - 11034](https://glasspolishshop.com/products/180mm-7-inch-dense-felt-polishing-pad): 180mm ( 7 inch) Dense Felt Polishing Pad - 11034 - Felt &amp; Fibre Pads - • Pack of One Dense Polishing Pad• Diameter 180mm ( 7 inch)• Thickness: 10mm• Ideal for polishing, and buffing most metals and stone surfaces. • Hook and Loop Fastening System - co
-  Updated: 2025-10-22T08:45:09Z
+  Updated: 2025-10-22T22:25:04Z
   Vendor: Glass Polish
   Product Type: Felt Polishing Pad
   Availability: Available
