@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2017-07-28T20:56:09Z
 - Contact Email: jenny@skinqri.com
-- Updated At: 2025-10-23T12:00:33.616Z
+- Updated At: 2025-10-23T16:00:33.920Z
 
 ## Products
 
@@ -18,7 +18,7 @@
   Image: https://cdn.shopify.com/s/files/1/2226/4109/files/28-opt.jpg?v=1751550302
   Price: $150.00 USD
 - [Take-Home : KeraFactor Scalp Stimulating Solution (Box of 6)](https://mykerafactor.com/products/take-home-kerafactor-scalp-stimulating-solution-box-of-6): This is a Box of 6 of Patient Take-Home KeraFactor Scalp Stimulating Solution. RRP per Bottle of Solution is $169.00 USD Each highly concentrated 50ml bottle of KeraFactor Solution contains the proprietary KeraFactor Peptide Complex (KFP™). KFP is unique in that it contains 7 Polypeptides that include both specifically selected growth factors and skin proteins to help with hair and scalp health. This patented complex helps to "turn on" weak or resting hair follicles, improve scalp circulation and nutrients to help produce thicker, longer healthy-looking hair. We are very happy to announce the next generation of our proprietary KeraFactor formula, Kerafactor with Nanofluorosomes. Nanofluorosomes are a technology that we have been working on for quite a while at KeraFactor and the new KeraFactor take-home solution is the first to include this new compound. What is a nanofluorosome and why are we so excited to add it into our products? Since the beginning of KeraFactor, we have strived to be the best fertilizer for the scalp, but we also know that being the fertilizer is not good enough alone you also have to try and reduce inflammation and follicle miniaturization. This is where the nanofluorosomes come in. We found a potent anti-inflammatory and anti-androgenic compound and wrapped it into our nanoliposome technology to create a nanofluorosome. What makes the compound even more special is that it is naturally fluorescent, which means this compound can be additionally activated with the correct laser or light source. This is why we call it a nanofluorosome and why this new formula has a yellowish glow to it. Nanofluorosomes can be activated by laser hair caps or machines in the 630-690nm range. Which is already used by many patients to improve hair and scalp circulation and inflammation, now they can add this new formula to their at-home laser routine for even better results. In addition to the solution, each bottle contains a dropper applicator for specific and efficient delivery of the KFP to the scalp and surrounding follicles. IF YOU ARE A LUTRONIC KERALASE CUSTOMER AND WANT THE STARTER KIT CONTAINING 2 OF EACH BOX OF SERUM, SOLUTION, AND SHAMPOO PLEASE ASK THE KERABOT FOR THE DISCOUNT CODE. Possible Adverse Reactions: Scalp irritation, rash, or temporary redness. If a reaction occurs, please discontinue use. Warning: Avoid this product if you are allergic to Curcumin. Avoid contact with eyes. In case of contact with eyes, rinse immediately with plenty of water. Keep out of reach of children. Not intended for use by pregnant or nursing women or by any person under the age of 18. If you are taking any medications, consult with your doctor or health professional before use. Storage: Keep in a cool place. Do not freeze. List of Ingredients: Water, Pentylene Glycol, Niacinamide, Panthenol, Arginine, Glycerin, Polysorbate 60, p-Anisic Acid, Lecithin, Ascorbyl Glucoside, Phenoxyethanol, Disodium EDTA, Sodium Citrate, Copper Tripeptide-1, Citric Acid, sh-Oligopeptide-1, sh-Oligopeptide-4, sh-Polypeptide-7, sh-Polypeptide-9, sh-Polypeptide-1, sh-Polypeptide-11, sh-Polypeptide-71
-  Updated: 2025-10-22T21:41:06Z
+  Updated: 2025-10-23T14:05:59Z
   Vendor: SkinQRI
   Product Type: Hair Care
   Availability: Available
@@ -39,7 +39,7 @@
   Image: https://cdn.shopify.com/s/files/1/2226/4109/files/hairtipkera-12-opt.jpg?v=1751549921
   Price: $55.00 USD
 - [KeraFactor®MD In-Office Serum (Box of 5)](https://mykerafactor.com/products/kerafactor-2-0-serum): A specific selection and concentration of the 6 biomimetic growth factors, 2 skin proteins, and 2 compounds for Scalp Revitalization. An in-office hair treatment serum. This serum contains only a high concentration of the proprietary formulation of the Kerafactor Peptide Complex. The KeraFactor Peptide complex MD (KFP) plus we have added Follistatin, PolyDeoxyRiboNuculeotide, and NanoFluorosomes. Each specific peptide is wrapped in a nanoliposome-protected carrier for optimum absorption. This serum is designed for use during an in-office procedure and is NOT TO BE INJECTED. 5ml in a syringe with a silicone duckbill applicator. Easy to apply to the patient’s scalp. Possible Adverse Reactions: Scalp irritation, rash, or temporary redness. If a reaction occurs, please discontinue use. For patients with fish allergies, please take a precautionary approach - watch after a cautionary test application. In rare cases, there could be an allergic reaction due to the PDRN in the formula. Warning: Avoid this product if you are allergic to Curcumin. Avoid contact with eyes. In case of contact with eyes, rinse immediately with plenty of water. Keep out of reach of children. Not intended for use by pregnant or nursing women or by any person under the age of 18. If you are taking any medications, consult with your doctor or health professional before use. List of Ingredients for the Serum: Water, Pentylene Glycol, sh-Polypeptide-86, sh-Polypeptide-11, sh-Polypeptide-71, sh-Oligopeptide-1, sh-Oligopeptide-4, sh-Polypeptide-7, sh-Polypeptide-9, sh-Polypeptide-1, DNA(PDRN), Curcumin, Tetrahydrocurcumin, Lecithin, Arginine, Carbomer, Polysorbate 60, Citric Acid, Sodium Citrate, PhenoxyethanolWe are proudly registered with the FDA Cosmetics Direct portal under MoCRA requirements.
-  Updated: 2025-10-22T21:57:56Z
+  Updated: 2025-10-23T14:05:57Z
   Vendor: KeraFactor by SkinQRI
   Product Type: 
   Availability: Available
@@ -60,14 +60,14 @@
   Image: https://cdn.shopify.com/s/files/1/2226/4109/files/4_babf023d-71de-4e77-bd88-0037efb83081-opt.jpg?v=1751548014
   Price: $330.00 USD
 - [KeraFactor® Brochure](https://mykerafactor.com/products/keralase-brochure): (50 QTY) KeraLase brochures per package
-  Updated: 2025-10-22T20:05:22Z
+  Updated: 2025-10-23T14:20:36Z
   Vendor: KeraFactor by SkinQRI
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2226/4109/files/image001.png?v=1752279411
   Price: $15.00 USD
 - [Solution Slim Pamphlet](https://mykerafactor.com/products/solution-slim-pamphlet): (50 QTY) Solution pamphlets per package
-  Updated: 2025-10-15T23:45:21Z
+  Updated: 2025-10-23T14:20:36Z
   Vendor: KeraFactor by SkinQRI
   Product Type: 
   Availability: Available
@@ -95,7 +95,7 @@
   Image: https://cdn.shopify.com/s/files/1/2226/4109/files/Untitled_design.jpg?v=1753121406
   Price: $297.00 USD
 - [Slim for Lash and Brow](https://mykerafactor.com/products/slim-for-lash-and-brow): (50 QTY) Lash + Brow pamphlets per package
-  Updated: 2025-10-03T19:17:26Z
+  Updated: 2025-10-23T14:20:36Z
   Vendor: KeraFactor by SkinQRI
   Product Type: 
   Availability: Available
@@ -149,7 +149,7 @@
     Availability: Available
     Price: $108.00 USD
 - [KeraFlex Duo](https://mykerafactor.com/products/keraflex-duo): KeraDuo Laser Cap — Advanced Dual Wavelength Technology Engineered for Elite Hair Rejuvenation Step into the future of hair restoration with the KeraDuo Laser Cap, a next-generation solution engineered with 312 medical-grade laser diodes and dual wavelength technology to deliver unparalleled scalp revitalization. Designed for those who demand results backed by science and crafted with luxury in mind. Scientific Breakthroughs Built Into Every Detail: • 312 Precision-Calibrated Laser Diodes: Complete scalp coverage for maximum light energy delivery at clinically effective dosages. • Dual Wavelength Technology: • 272 diodes at 650nm: Penetrate the epidermis to stimulate follicular metabolism and reawaken dormant hair follicles. • 40 diodes at 808nm (Near Infrared Light): Penetrate deeper into the dermis, enhancing blood flow and delivering oxygen and nutrients at a cellular level. • Flexible Design: Adapts to the contours of your head. • Smart Sensor Activation: Auto-start technology initiates treatment seamlessly once the cap is properly positioned. • Timed 6-Minute Sessions: Designed to deliver therapeutic benefit without overexposure, with automatic shut-off for consistency and safety. • Sleek Protective Carrying Case: Tailored for modern lifestyles — secure, stylish, and ready for travel. The Dual Wavelength Advantage: KeraDuo’s integrated 650nm and 808nm wavelengths represent a synergistic therapeutic approach, simultaneously targeting both surface and deep scalp layers. • 650nm Red Light: Activates mitochondrial function within hair follicles, boosting ATP production for stronger, healthier hair strands. • 808nm Near-Infrared Light: Promotes angiogenesis (formation of new blood vessels) to enhance scalp nourishment and long-term follicle support. This two-tiered system enhances scalp vitality, strengthens hair from root to tip, and promotes visible improvements in thickness, density, and overall scalp health. Sizing Details: Engineered with flexible, comfort-fit materials. The cap’s opening measures approximately 8 inches long by 7 inches wide, flexing to comfortably fit a wide range of head sizes for optimal treatment precision. User Guide for KeraFlex DuoCap will not turn on? There are smart sensors designed to protect your eyes by ensuring the lasers only activate when the cap is correctly in place. Place the cap on your head — it contains smart sensors that prevent it from turning on unless it’s properly positioned. Press and hold the button on the battery pack until it beeps. While facing a mirror, gently lift the front edge of the cap just slightly. You should see a red glow if it’s functioning.
-  Updated: 2025-10-19T14:46:37Z
+  Updated: 2025-10-23T14:05:56Z
   Vendor: KeraFactor by SkinQRI
   Product Type: 
   Availability: Available
@@ -170,14 +170,14 @@
   Image: https://cdn.shopify.com/s/files/1/2226/4109/files/9_817a8408-468a-4c3f-aeaf-1613b3572c88.png?v=1754152459
   Price: $114.00 USD
 - [KeraTote 6pk](https://mykerafactor.com/products/keratote-6pk): Offer your patients a touch of luxury with the KeraFactor Embroidered Tote Bag (6 Pack), perfect for building promotional bundles or as the ultimate gift with purchase. Made from durable cotton canvas and embroidered with the signature KeraFactor logo, these premium totes elevate your practice’s presentation and patient experience. Ideal for pairing with in-office treatments or retail products, they add a polished, professional touch to every KeraFactor regimen.
-  Updated: 2025-10-15T16:31:30Z
+  Updated: 2025-10-23T14:20:35Z
   Vendor: KeraFactor by SkinQRI
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2226/4109/files/2_5fc88834-b0d2-4554-bd47-585afda17771.png?v=1760069596
   Price: $60.00 USD
 - [KeraFlex/ KeraFlex Duo Slim Pamphlet](https://mykerafactor.com/products/solution-slim-pamphlet-copy): (50 QTY) KeraFlex/ KeraFlex Duo pamphlets per package
-  Updated: 2025-10-11T21:41:55Z
+  Updated: 2025-10-23T14:20:37Z
   Vendor: KeraFactor by SkinQRI
   Product Type: 
   Availability: Available
