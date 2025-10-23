@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-07-07T17:06:44Z
 - Contact Email: nikualbu92@gmail.com
-- Updated At: 2025-10-22T19:19:23.481Z
+- Updated At: 2025-10-23T00:00:55.902Z
 
 ## Products
 
@@ -2203,7 +2203,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/3ef299f16d854caab6343103d9c9dd52-Max-Origin.webp?v=1759598855
     Price: €44.22 EUR
 - [Camouflage Print Mesh Long Sleeve Top](https://nicosstore.store/products/camouflage-print-mesh-long-sleeve-top): Features:Sheer Stretch:Slightly stretchy Material composition:95% polyester, 5% elastane Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 22.8 32.3 24 M 23.6 34.6 24.4 L 24.4 37 24.8 XL 25.2 40.2 25.2
-  Updated: 2025-10-22T17:00:46Z
+  Updated: 2025-10-22T23:21:50Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2981,7 +2981,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/69970997521447278c9cdd284b7e91a1-Max-Origin.webp?v=1759686330
     Price: €26.12 EUR
 - [Lace Detail Drawstring Long Sleeve Hoodie](https://nicosstore.store/products/lace-detail-drawstring-long-sleeve-hoodie): Features:Lace Detail,Pocketed,Drawstring Stretch:Slightly stretchy Material composition:75% polyester, 25% cotton Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 25.2 40.2 27.4 M 26 42.5 28 L 26.8 44.9 28.5
-  Updated: 2025-10-22T09:31:05Z
+  Updated: 2025-10-23T00:00:41Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -6483,13 +6483,13 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/78fd4d23-d9b7-48c4-867e-71f023336601-Max.webp?v=1760381739
     Price: €15.59 EUR
 - [Oh Full Size Collared Neck Long Sleeve Mini Dress](https://nicosstore.store/products/oh-full-size-collared-neck-long-sleeve-mini-dress): Features: Basic style, Buttoned Sheer: Opaque Stretch: No stretch Body: Not lined Material composition: 100% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Length Shoulder Bust Sleeve Length S 34.4 15.2 38.2 24 M 35 15.7 40.6 24.4 L 35.6 16.2 42.9 24.8 XL 36.2 16.9 46.1 25.2 2XL 36.8 17.6 49.2 25.6 3XL 37.4 18.3 52.4 26
-  Updated: 2025-10-20T02:15:20Z
+  Updated: 2025-10-22T22:20:30Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/7ce51a3d-1690-408e-a089-0f07b170e388-Max.webp?v=1760381913
   - [Deep Red / S](https://nicosstore.store/products/oh-full-size-collared-neck-long-sleeve-mini-dress?variant=55922146410821)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/7ce51a3d-1690-408e-a089-0f07b170e388-Max.webp?v=1760381913
     Price: €10.99 EUR
   - [Deep Red / M](https://nicosstore.store/products/oh-full-size-collared-neck-long-sleeve-mini-dress?variant=55922146443589)
