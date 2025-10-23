@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2025-10-23T04:00:54.395Z
+- Updated At: 2025-10-23T12:00:51.071Z
 
 ## Products
 
@@ -2599,128 +2599,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Velvet-Sexy-Two-piece-Short-Set-Brinxx-Couture-9489.jpg?v=1709295716
     Price: $24.99 USD
-- [Women's Velvet Two Piece Sweatsuit - Brinxx Couture](https://www.brinxxcouture.com/products/womens-velvet-two-piece-sweatsuit): Feel ultra cozy in our Women's Velvet Two Piece Sweatsuit. Perfect for lounging or running errands, this set is made from soft velvet for a touch of glamour.
-  Updated: 2025-10-02T17:11:59Z
-  Vendor: Brinxx Couture
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Flannel-Two-Piece-Set-Brinxx-Couture-942.jpg?v=1709296279
-  - [Sky blue  azure / S](https://www.brinxxcouture.com/products/womens-velvet-two-piece-sweatsuit?variant=42122583113910)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Flannel-Two-Piece-Set-Brinxx-Couture-942.jpg?v=1709296279
-    Price: $32.00 USD
-  - [Red / S](https://www.brinxxcouture.com/products/womens-velvet-two-piece-sweatsuit?variant=42122583146678)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Flannel-Two-Piece-Set-Brinxx-Couture-7226.jpg?v=1709296294
-    Price: $32.00 USD
-  - [Pink / S](https://www.brinxxcouture.com/products/womens-velvet-two-piece-sweatsuit?variant=42122583179446)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Flannel-Two-Piece-Set-Brinxx-Couture-4328.jpg?v=1709296326
-    Price: $32.00 USD
-  - [Grey / S](https://www.brinxxcouture.com/products/womens-velvet-two-piece-sweatsuit?variant=42122583212214)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Flannel-Two-Piece-Set-Brinxx-Couture-7443.jpg?v=1709296407
-    Price: $32.00 USD
-  - [Black / S](https://www.brinxxcouture.com/products/womens-velvet-two-piece-sweatsuit?variant=42122583244982)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Flannel-Two-Piece-Set-Brinxx-Couture-4278.png?v=1709296411
-    Price: $32.00 USD
-  - [Coffe / S](https://www.brinxxcouture.com/products/womens-velvet-two-piece-sweatsuit?variant=42122583277750)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Flannel-Two-Piece-Set-Brinxx-Couture-1529.jpg?v=1709296433
-    Price: $32.00 USD
-  - [Sky blue  azure / M](https://www.brinxxcouture.com/products/womens-velvet-two-piece-sweatsuit?variant=42122583310518)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Flannel-Two-Piece-Set-Brinxx-Couture-942.jpg?v=1709296279
-    Price: $32.00 USD
-  - [Red / M](https://www.brinxxcouture.com/products/womens-velvet-two-piece-sweatsuit?variant=42122583343286)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Flannel-Two-Piece-Set-Brinxx-Couture-7226.jpg?v=1709296294
-    Price: $32.00 USD
-  - [Pink / M](https://www.brinxxcouture.com/products/womens-velvet-two-piece-sweatsuit?variant=42122583376054)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Flannel-Two-Piece-Set-Brinxx-Couture-4328.jpg?v=1709296326
-    Price: $32.00 USD
-  - [Black / M](https://www.brinxxcouture.com/products/womens-velvet-two-piece-sweatsuit?variant=42122583408822)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Flannel-Two-Piece-Set-Brinxx-Couture-4278.png?v=1709296411
-    Price: $32.00 USD
-  - [Grey / M](https://www.brinxxcouture.com/products/womens-velvet-two-piece-sweatsuit?variant=42122583441590)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Flannel-Two-Piece-Set-Brinxx-Couture-7443.jpg?v=1709296407
-    Price: $32.00 USD
-  - [Coffe / M](https://www.brinxxcouture.com/products/womens-velvet-two-piece-sweatsuit?variant=42122583474358)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Flannel-Two-Piece-Set-Brinxx-Couture-1529.jpg?v=1709296433
-    Price: $32.00 USD
-  - [Sky blue  azure / L](https://www.brinxxcouture.com/products/womens-velvet-two-piece-sweatsuit?variant=42122583507126)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Flannel-Two-Piece-Set-Brinxx-Couture-942.jpg?v=1709296279
-    Price: $32.00 USD
-  - [Red / L](https://www.brinxxcouture.com/products/womens-velvet-two-piece-sweatsuit?variant=42122583539894)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Flannel-Two-Piece-Set-Brinxx-Couture-7226.jpg?v=1709296294
-    Price: $32.00 USD
-  - [Pink / L](https://www.brinxxcouture.com/products/womens-velvet-two-piece-sweatsuit?variant=42122583572662)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Flannel-Two-Piece-Set-Brinxx-Couture-4328.jpg?v=1709296326
-    Price: $32.00 USD
-  - [Grey / L](https://www.brinxxcouture.com/products/womens-velvet-two-piece-sweatsuit?variant=42122583605430)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Flannel-Two-Piece-Set-Brinxx-Couture-7443.jpg?v=1709296407
-    Price: $32.00 USD
-  - [Coffe / L](https://www.brinxxcouture.com/products/womens-velvet-two-piece-sweatsuit?variant=42122583638198)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Flannel-Two-Piece-Set-Brinxx-Couture-1529.jpg?v=1709296433
-    Price: $32.00 USD
-  - [Red / XL](https://www.brinxxcouture.com/products/womens-velvet-two-piece-sweatsuit?variant=42122583703734)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Flannel-Two-Piece-Set-Brinxx-Couture-7226.jpg?v=1709296294
-    Price: $32.00 USD
-  - [Sky blue  azure / XL](https://www.brinxxcouture.com/products/womens-velvet-two-piece-sweatsuit?variant=42122583736502)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Flannel-Two-Piece-Set-Brinxx-Couture-942.jpg?v=1709296279
-    Price: $32.00 USD
-  - [Grey / XL](https://www.brinxxcouture.com/products/womens-velvet-two-piece-sweatsuit?variant=42122583802038)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Flannel-Two-Piece-Set-Brinxx-Couture-7443.jpg?v=1709296407
-    Price: $32.00 USD
-  - [Pink / XL](https://www.brinxxcouture.com/products/womens-velvet-two-piece-sweatsuit?variant=42122583834806)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Flannel-Two-Piece-Set-Brinxx-Couture-4328.jpg?v=1709296326
-    Price: $32.00 USD
-  - [Coffe / XL](https://www.brinxxcouture.com/products/womens-velvet-two-piece-sweatsuit?variant=42122583867574)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Flannel-Two-Piece-Set-Brinxx-Couture-1529.jpg?v=1709296433
-    Price: $32.00 USD
-  - [Black / XL](https://www.brinxxcouture.com/products/womens-velvet-two-piece-sweatsuit?variant=42122583900342)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Flannel-Two-Piece-Set-Brinxx-Couture-4278.png?v=1709296411
-    Price: $32.00 USD
-  - [Grey / XXL](https://www.brinxxcouture.com/products/womens-velvet-two-piece-sweatsuit?variant=42122583933110)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Flannel-Two-Piece-Set-Brinxx-Couture-7443.jpg?v=1709296407
-    Price: $32.00 USD
-  - [Coffe / XXL](https://www.brinxxcouture.com/products/womens-velvet-two-piece-sweatsuit?variant=42122583965878)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Flannel-Two-Piece-Set-Brinxx-Couture-1529.jpg?v=1709296433
-    Price: $32.00 USD
-  - [Red / XXL](https://www.brinxxcouture.com/products/womens-velvet-two-piece-sweatsuit?variant=42122583998646)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Flannel-Two-Piece-Set-Brinxx-Couture-7226.jpg?v=1709296294
-    Price: $32.00 USD
-  - [Sky blue  azure / XXL](https://www.brinxxcouture.com/products/womens-velvet-two-piece-sweatsuit?variant=42122584031414)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Flannel-Two-Piece-Set-Brinxx-Couture-942.jpg?v=1709296279
-    Price: $32.00 USD
-  - [Black / XXL](https://www.brinxxcouture.com/products/womens-velvet-two-piece-sweatsuit?variant=42122584064182)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Flannel-Two-Piece-Set-Brinxx-Couture-4278.png?v=1709296411
-    Price: $32.00 USD
-  - [Pink / XXL](https://www.brinxxcouture.com/products/womens-velvet-two-piece-sweatsuit?variant=42122584096950)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Flannel-Two-Piece-Set-Brinxx-Couture-4328.jpg?v=1709296326
-    Price: $32.00 USD
 - [Ankle Length Cargo Pants - Brinxx Couture](https://www.brinxxcouture.com/products/ankle-lenth-cargo-pants): Our Ankle Length Cargo Pants bring unparalleled style and utility to your wardrobe: their slim fit design plus zippered compartments provide a modern look.
   Updated: 2025-10-02T17:11:59Z
   Vendor: Brinxx Couture
@@ -4341,7 +4219,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Plus-Size-Striped-Tie-Back-Cropped-Cami-Brinxx-Couture-2006.jpg?v=1709311114
     Price: $25.00 USD
 - [Plus Size Drawstring Sweetheart Neck Babydoll Blouse](https://www.brinxxcouture.com/products/plus-size-drawstring-sweetheart-neck-babydoll-blouse): Sizing category: Plus Pattern type: Solid Style: Casual, chic Features: Drawstring Neckline: Sweetheart neck Length: Regular Sleeve length: Long sleeves Sleeve type: Flutter sleeves Material: 95% polyester, 5% spandex Stretch: Slightly stretchy Sheer: No Body: Not lined Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: 1X: bust 41 in, sleeve length 11 in, length 21 in, hem width 70 in2X: bust 44 in, sleeve length 11 in, length 21 in, hem width 74 in3X: bust 47 in, sleeve length 12 in, length 22 in, hem width 78 in4X: bust 50 in, sleeve length 12 in, length 22 in, hem width 82 in5X: bust 53 in, sleeve length 12 in, length 22 in, hem width 86 in
-  Updated: 2025-10-21T12:40:48Z
+  Updated: 2025-10-23T10:30:55Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -8460,7 +8338,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/High-Neck-Long-Sleeve-Ribbed-Top-Brinxx-Couture-6079_ae99505f-4811-4797-bf89-89c3a0f73de1.jpg?v=1736050169
     Price: $25.00 USD
 - [Distressed Raw Hem Denim Jacket - Brinxx Couture](https://www.brinxxcouture.com/products/distressed-raw-hem-denim-jacket): This distressed raw hem denim jacket is the perfect way to make a statement. With its distressed raw hem design, you'll look cool and effortless.
-  Updated: 2025-10-23T03:41:20Z
+  Updated: 2025-10-23T11:50:39Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -10200,7 +10078,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Cutout-Twisted-Long-Sleeve-Dress-Brinxx-Couture-6566.jpg?v=1709856068
     Price: $25.00 USD
 - [Tie Detail Round Neck Midi Dress - Brinxx Couture](https://www.brinxxcouture.com/products/tie-detail-round-neck-midi-dress): This Tie Detail Round Neck Midi Dress combines a timeless round neck design with a vibrant midi length for a fashionable and functional everyday look.
-  Updated: 2025-10-02T17:12:12Z
+  Updated: 2025-10-23T04:26:41Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -15411,7 +15289,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/David-Jones-PU-Leather-Crossbody-Bag-Brinxx-Couture-5959.jpg?v=1709880244
     Price: $44.99 USD
 - [Slit Smocked Floral Flounce Sleeve Dress - Brinxx Couture](https://www.brinxxcouture.com/products/slit-smocked-floral-flounce-sleeve-dress): This Slit Smocked Floral Flounce Sleeve Dress offers a perfect blend of style and comfort. The smocked design ensures a flattering fit.
-  Updated: 2025-10-01T22:27:32Z
+  Updated: 2025-10-23T06:08:11Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -16100,7 +15978,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/products/Cutout-Mock-Neck-Sleeveless-Dress-Brinxx-Couture-7698.jpg?v=1709885128
     Price: $29.99 USD
 - [Rhinestone Mock Neck Long Sleeve Dress - Brinxx Couture](https://www.brinxxcouture.com/products/rhinestone-mock-neck-long-sleeve-dress): Add some sparkle to your wardrobe with our Rhinestone Mock Neck Long Sleeve Dress! This dress features a trendy mock neck and long sleeves, adorned with dazzling rhinestones. Perfect for any special occasion, it's sure to make you stand out and feel glamorous. Shine on! Sheer: Semi-sheer Stretch: Slightly stretchy Body: Not lined Material composition: 60% viscose, 31% polyamide, 9% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements:S: Bust 29.92 in, Shoulder 13.78 in, Sleeve Length 22.83 in, Waist 26.77 in, HIP 34.65 in, Length 35.63 inM: Bust 32.28 in, Shoulder 14.37 in, Sleeve Length 23.23 in, Waist 29.13 in, HIP 37.01 in, Length 36.42 inL: Bust 34.65 in, Shoulder 14.96 in, Sleeve Length 23.62 in, Waist 31.50 in, HIP 39.37 in, Length 37.20 inXL: Bust 37.80 in, Shoulder 15.94 in, Sleeve Length 24.02 in, Waist 34.65 in, HIP 42.52 in, Length 37.99 in
-  Updated: 2025-10-23T01:42:01Z
+  Updated: 2025-10-23T04:01:57Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -17604,7 +17482,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Backless-Cowl-Neck-Sleeveless-Cami-Dress-Brinxx-Couture-8187.jpg?v=1730294572
     Price: $25.00 USD
 - [Ruched V-Neck Sleeveless Romper](https://www.brinxxcouture.com/products/ruched-v-neck-sleeveless-romper): Features: Ruched Sheer: Opaque Material composition: 100% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Size US Top Length Bust Waist HIP Shoulder S 4 31.1 37.4 29.5 39.4 13.4 M 6/8 31.6 39 31.1 40.9 13.8 L 10/12 32.3 41.3 33.5 43.3 14.2 XL 14 33 43.7 35.8 45.7 14.6
-  Updated: 2025-10-21T09:00:42Z
+  Updated: 2025-10-23T06:20:46Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -17824,7 +17702,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Tied-Striped-Round-Neck-Short-Sleeve-Tee-Dress-Brinxx-Couture-1685.jpg?v=1721353288
     Price: $24.99 USD
 - [Slit Printed Sleeveless Midi Dress](https://www.brinxxcouture.com/products/slit-printed-sleeveless-midi-dress): Features: Slit Sheer: Opaque Stretch: No stretch Body: Not lined Material composition: 100% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Size US Length Bust Shoulder Waist S 4 49.2 36.2 12.6 28.7 M 6/8 50 37.8 13 30.3 L 10/12 50.8 40.2 13.4 32.7 XL 14 51.6 42.5 13.8 35
-  Updated: 2025-10-01T22:27:34Z
+  Updated: 2025-10-23T06:08:11Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -21590,7 +21468,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Crochet-Flower-Button-Up-Cardigan-Brinxx-Couture-9388.jpg?v=1730296211
     Price: $49.00 USD
 - [Striped Round Neck Long Sleeve Sweater - Brinxx Couture](https://www.brinxxcouture.com/products/striped-round-neck-long-sleeve-sweater): Wrap yourself in style and comfort with our Striped Round Neck Long Sleeve Sweater. Made from soft and breathable fabric, this sweater features a round neck.
-  Updated: 2025-10-21T09:20:37Z
+  Updated: 2025-10-23T09:00:57Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -21604,7 +21482,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Striped-Round-Neck-Long-Sleeve-Sweater-Brinxx-Couture-5422.jpg?v=1730296237
     Price: $35.00 USD
   - [Black / L](https://www.brinxxcouture.com/products/striped-round-neck-long-sleeve-sweater?variant=43390990909622)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Striped-Round-Neck-Long-Sleeve-Sweater-Brinxx-Couture-5422.jpg?v=1730296237
     Price: $35.00 USD
 - [Ribbed Round Neck Top and Shorts Set - Brinxx Couture](https://www.brinxxcouture.com/products/ribbed-round-neck-top-and-shorts-set): Get ready to rock this Ribbed Round Neck Top and Shorts Set! Made from high-quality ribbed material, this set boasts a snug fit and stylish design. Perfect for lounging!
@@ -21710,7 +21588,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Ribbed-Round-Neck-Top-and-Shorts-Set-Brinxx-Couture-1381.jpg?v=1730296298
     Price: $25.00 USD
 - [Tied Pleated Printed Cap Sleeve Dress - Brinxx Couture](https://www.brinxxcouture.com/products/tied-pleated-printed-cap-sleeve-dress): Get ready to take on the day in style with our Tied Pleated Printed Cap Sleeve Dress! This fun and flirty dress feature cap sleeves and a playful, pleated design.
-  Updated: 2025-10-23T00:40:37Z
+  Updated: 2025-10-23T04:00:56Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -23257,7 +23135,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Notch-Lapel-Woven-Coat-with-Side-Pockets-Brinxx-Couture-2936.jpg?v=1730297108
     Price: $40.00 USD
 - [Cable-Knit Round Neck Sweater Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress): Wrap yourself in cozy comfort and timeless style with our Cable-Knit Round Neck Sweater Dress! Made from soft, high-quality materials.
-  Updated: 2025-10-23T02:21:12Z
+  Updated: 2025-10-23T10:11:37Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -23275,7 +23153,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Cable-Knit-Round-Neck-Sweater-Dress-Brinxx-Couture-228.jpg?v=1730297216
     Price: $49.99 USD
   - [Tan / XL](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress?variant=43426819604662)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Cable-Knit-Round-Neck-Sweater-Dress-Brinxx-Couture-228.jpg?v=1730297216
     Price: $49.99 USD
   - [Black / S](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress?variant=43426819637430)
@@ -23295,7 +23173,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Cable-Knit-Round-Neck-Sweater-Dress-Brinxx-Couture-2059.webp?v=1730297243
     Price: $49.99 USD
   - [Sage / S](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress?variant=43432153710774)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Cable-Knit-Round-Neck-Sweater-Dress-Brinxx-Couture-468.webp?v=1730299049
     Price: $49.99 USD
   - [Sage / L](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress?variant=43432153809078)
@@ -25811,7 +25689,7 @@
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/18K-Gold-Plated-Stainless-Steel-Stud-Earring-Brinxx-Couture-9396.jpg?v=1733888456
   Price: $15.00 USD
 - [Velvet Button Up Long Sleeve Shirt - Brinxx Couture](https://www.brinxxcouture.com/products/button-up-long-sleeve-shirt): Discover the versatility and style of our Velvet Button Up Long Sleeve Shirt! With its classic design and comfortable fit, this shirt is perfect for any occasion.
-  Updated: 2025-10-22T09:01:02Z
+  Updated: 2025-10-23T09:00:57Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -35873,7 +35751,7 @@
   Updated: 2025-10-02T17:11:54Z
   Total Products: 14
 - [Stylish Co-ord Sets & One-Piece Outfits - Brinxx Couture](https://www.brinxxcouture.com/collections/womens-coord-sets): Discover Brinxx Couture's collection of trendy co-ord sets and chic one-piece outfits. Shop now for stylish, coordinated looks perfect for any occasion.
-  Updated: 2025-10-22T03:04:06Z
+  Updated: 2025-10-23T06:20:05Z
   Total Products: 59
 - [Plus Size Clothing | Stylish Dresses, Tops & More | Brinxx Couture](https://www.brinxxcouture.com/collections/plus-size-clothing-for-women): Discover flattering plus size clothing at Brinxx Couture. We offer trendy styles for all sizes. Shop dresses, tops, pants & more. Free shipping!
   Updated: 2025-10-03T14:53:47Z
@@ -35918,7 +35796,7 @@
   Updated: 2025-10-02T17:11:55Z
   Total Products: 33
 - [Women's Fashion Sale - Up to 70% Off Clothing - Brinxx Couture](https://www.brinxxcouture.com/collections/sale): Shop our biggest sale! Save up to 70% on women's clothing, dresses, tops & accessories. Limited time offers on trendy fashion. Free shipping on all orders.
-  Updated: 2025-10-03T15:54:47Z
+  Updated: 2025-10-23T06:20:05Z
   Total Products: 25
 - [Body Shapewear & Slimming Underwear - Brinxx Couture](https://www.brinxxcouture.com/collections/shapewear-for-women): Discover flattering body shapewear & slimming underwear at Brinxx Couture. Smooth, sculpt & enhance your silhouette with comfortable, effective designs.
   Updated: 2025-10-02T17:11:55Z
