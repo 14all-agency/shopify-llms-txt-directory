@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-10-23T08:01:17.299Z
+- Updated At: 2025-10-23T12:01:14.758Z
 
 ## Products
 
@@ -1557,7 +1557,7 @@ Fáceis de utilizar e com tamanho adaptado à mão dos mais pequenos.
 
 Elas podem oferecê-los ou apresentá-los no bonito cavalete fornecido. Contém 
 6 cartões, 5 folhas de formas brilhantes e 3 canetas de tinta glitter.
-  Updated: 2025-10-20T12:05:50Z
+  Updated: 2025-10-23T11:30:02Z
   Vendor: Seleção Brincatoys
   Product Type: + 5 anos
   Availability: Available
@@ -2501,7 +2501,7 @@ Idade Recomendada: + de 6 anos.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/dc-comics-the-new-52-earth-2-batman-23039415-dc-comics-1178693455.webp?v=1752838933
   Price: 42,50 € EUR
 - [DC Green Lantern Bendable](https://brincatoys.pt/products/dc-green-lantern-bendable): Figura em PVC não tóxico, flexível, com aproximadamente 14 cm.A flexibilidade ds figura permite a adopção de uma variedade de poses de acção.
-  Updated: 2025-10-13T06:33:04Z
+  Updated: 2025-10-23T08:57:25Z
   Vendor: DC Comics
   Product Type: + 3 anos
   Availability: Available
@@ -5619,7 +5619,7 @@ Provavelmente, a espécie vivente mais próxima é o cachorro-vinagre.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/mogli-621238023-brincatoys-1178694382.webp?v=1752814085
   Price: 7,50 € EUR
 - [Monopoly Guerra dos Tronos](https://brincatoys.pt/products/monopoly-guerra-dos-tronos): A corrida pelo controlo de Westeros acontece no Jogo de Tabuleiro Monopólio Guerra dos Tronos. As mecânicas que durante décadas proporcionaram momentos de diversão emfamília mantêm-se as mesmas, incluindo a compra e venda de recursos, negociação entre jogadores, cartas de ação aleatórias, lançamento de dados, movimentação de peças e gestão de dinhe
-  Updated: 2025-10-22T22:16:26Z
+  Updated: 2025-10-23T09:05:07Z
   Vendor: Monopoly
   Product Type: + 14 anos
   Availability: Available
@@ -13409,7 +13409,7 @@ Esta espantosa réplica LEGO® Speed Champions do hipercarro totalmente
 elétrico é agora tua para colecionar, construir e explorar enquanto 
 recrias o design aerodinâmico sem precedentes do veículo peça a peça. E 
 quando tiveres terminado, podes expor a tua criação com orgulho...
-  Updated: 2025-10-13T06:21:54Z
+  Updated: 2025-10-23T11:48:11Z
   Vendor: LEGO
   Product Type: + 8 anos
   Availability: Available
@@ -14683,7 +14683,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-friends-42609-carro-eletrico-e-carregador-664260924-5702017589305-lego-1178698333.jpg?v=1752924021
   Price: 17,50 € EUR
 - [Lego Marvel 76277 Armadura Mech de War Machine](https://brincatoys.pt/products/lego-marvel-76277-armadura-mech-de-war-machine): Com o conjunto Lego Marvel 76277, entre na batalha com a Armadura Mech de War Machine. Pilote o robô totalmente articulado e defenda o universo Marvel.
-  Updated: 2025-10-13T06:20:34Z
+  Updated: 2025-10-23T11:05:30Z
   Vendor: LEGO
   Product Type: + 6 anos
   Availability: Available
@@ -15252,7 +15252,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/brinquedos-da-patrulha-pata-tracker-aventura-na-selva-855079124-patrulha-pata-1178698808.jpg?v=1752932300
   Price: 19,99 € EUR
 - [Boneca da Barbie Vestido Arco-Íris - Magia Colorida](https://brincatoys.pt/products/boneca-barbie-com-vestido-arco-iris): Descubra a Boneca da Barbie com vestido arco-íris e deixe que a moda colorida inspire a sua criança! Diversão e diversidade para brincar.
-  Updated: 2025-10-13T06:19:54Z
+  Updated: 2025-10-23T09:25:36Z
   Vendor: Barbie
   Product Type: + 3 anos
   Availability: Available
@@ -17128,7 +17128,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/mala-de-beleza-da-frozen-disney-acessorio-infantil-encantador-779465824-8445484394658-brincatoys-1178700387.jpg?v=1752955095
   Price: 11,99 € EUR
 - [Lego Disney 43254 - Caverna de Cristal da Ariel](https://brincatoys.pt/products/lego-disney-caverna-de-cristal-da-ariel): Realize sonhos mágicos com o Lego Disney 43254 - Caverna de Cristal da Ariel. Este conjunto Lego estimula a imaginação e a criatividade.
-  Updated: 2025-10-13T06:17:44Z
+  Updated: 2025-10-23T11:29:56Z
   Vendor: LEGO
   Product Type: + 4 anos
   Availability: Available
@@ -18955,7 +18955,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-super-heroes-76302-robo-do-superman-contra-lex-luthor-667630225-5702017817767-lego-1178701713.jpg?v=1752975972
   Price: 17,50 € EUR
 - [Lego Harry Potter 76441 O Castelo de Hogwarts: Clube de Duelos](https://brincatoys.pt/products/lego-harry-potter-76441-o-castelo-de-hogwarts-clube-de-duelos): Entre na magia com o Lego Harry Potter 76441 O Castelo de Hogwarts: Clube de Duelos! Reviva duelos épicos entre Harry e Draco! 🪄
-  Updated: 2025-10-13T06:15:34Z
+  Updated: 2025-10-23T11:05:36Z
   Vendor: LEGO
   Product Type: + 8 anos
   Availability: Available
@@ -21248,7 +21248,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-19T09:15:45Z
   Total Products: 28
 - [Jogos educativos e de tabuleiro](https://brincatoys.pt/collections/jogos-educativos-e-de-tabuleiro)
-  Updated: 2025-10-19T09:15:45Z
+  Updated: 2025-10-23T11:22:38Z
   Total Products: 184
 - [Lego City](https://brincatoys.pt/collections/lego-city): Explora o mundo vibrante de LEGO® City onde há muito para fazer. Vai até à baixa da cidade, encena histórias emocionantes com os serviços de urgência e descobre as novas fronteiras, dos oceanos ao espaço. Constrói veículos fantásticos, viaja de comboio ou organiza incríveis espetáculos de acrobacias.
   Updated: 2025-10-19T18:13:31Z
@@ -21407,17 +21407,17 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-22T17:56:45Z
   Total Products: 2860
 - [Até €50](https://brincatoys.pt/collections/ate-50)
-  Updated: 2025-10-22T17:56:45Z
+  Updated: 2025-10-23T11:22:38Z
   Total Products: 3242
 - [Até €60](https://brincatoys.pt/collections/ate-60)
-  Updated: 2025-10-22T17:56:45Z
+  Updated: 2025-10-23T11:22:38Z
   Total Products: 3377
 - [Até €80](https://brincatoys.pt/collections/ate-80)
-  Updated: 2025-10-22T17:56:45Z
-  Total Products: 3456
+  Updated: 2025-10-23T11:22:38Z
+  Total Products: 3455
 - [Até €100](https://brincatoys.pt/collections/ate-100)
-  Updated: 2025-10-22T17:56:45Z
-  Total Products: 3505
+  Updated: 2025-10-23T11:22:38Z
+  Total Products: 3504
 - [Novidades](https://brincatoys.pt/collections/novidades)
   Updated: 2025-10-22T17:56:45Z
   Total Products: 401
@@ -21488,7 +21488,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-19T09:15:48Z
   Total Products: 18
 - [Monopoly](https://brincatoys.pt/collections/monopoly)
-  Updated: 2025-10-19T09:15:48Z
+  Updated: 2025-10-23T11:22:38Z
   Total Products: 13
 - [Play-Doh](https://brincatoys.pt/collections/play-doh)
   Updated: 2025-10-19T09:15:48Z
@@ -21608,13 +21608,13 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-19T09:15:50Z
   Total Products: 9
 - [Catálogo](https://brincatoys.pt/collections/all)
-  Updated: 2025-10-22T17:56:45Z
-  Total Products: 3538
+  Updated: 2025-10-23T11:22:38Z
+  Total Products: 3537
 - [6 - 7 anos](https://brincatoys.pt/collections/6-7-anos)
   Updated: 2025-10-22T11:22:51Z
   Total Products: 285
 - [11 - 14 anos](https://brincatoys.pt/collections/11-14-anos)
-  Updated: 2025-10-22T11:22:51Z
+  Updated: 2025-10-23T11:22:38Z
   Total Products: 189
 - [+ 2 anos](https://brincatoys.pt/collections/de-2-anos)
   Updated: 2025-10-19T09:15:50Z
@@ -21641,14 +21641,14 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-19T09:15:50Z
   Total Products: 90
 - [+ 14 anos](https://brincatoys.pt/collections/14-anos)
-  Updated: 2025-10-22T11:22:51Z
+  Updated: 2025-10-23T11:22:38Z
   Total Products: 88
 - [Os mais procurados](https://brincatoys.pt/collections/os-mais-populares)
-  Updated: 2025-10-22T17:56:45Z
-  Total Products: 3539
+  Updated: 2025-10-23T11:22:38Z
+  Total Products: 3538
 - [Recém-chegados](https://brincatoys.pt/collections/recem-chegados)
-  Updated: 2025-10-22T17:56:45Z
-  Total Products: 3539
+  Updated: 2025-10-23T11:22:38Z
+  Total Products: 3538
 - [Produtos em destaque](https://brincatoys.pt/collections/produtos-em-destaque)
   Updated: 2025-10-22T11:22:51Z
   Total Products: 22
@@ -21659,8 +21659,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-19T09:15:50Z
   Total Products: 6
 - [OrderlyEmails - Recommended Products](https://brincatoys.pt/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-10-22T22:16:56Z
-  Total Products: 3056
+  Updated: 2025-10-23T11:06:06Z
+  Total Products: 3055
 - [Girafa Sofia](https://brincatoys.pt/collections/girafa-sofia)
   Updated: 2025-10-19T09:15:51Z
   Total Products: 19
@@ -21668,8 +21668,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-22T11:22:51Z
   Total Products: 126
 - [Marketplace](https://brincatoys.pt/collections/marketplace)
-  Updated: 2025-10-22T22:16:56Z
-  Total Products: 3056
+  Updated: 2025-10-23T11:06:06Z
+  Total Products: 3055
 - [EzConnector](https://brincatoys.pt/collections/ezconnector)
   Updated: 2025-10-22T17:56:44Z
   Total Products: 906
