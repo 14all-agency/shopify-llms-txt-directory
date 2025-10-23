@@ -5,7 +5,7 @@
 - Currency: USD
 - Timezone: America/New_York
 - Created At: 2025-07-25T14:20:57Z
-- Updated At: 2025-10-23T00:01:00.572Z
+- Updated At: 2025-10-23T04:00:54.203Z
 
 ## Products
 
@@ -2297,7 +2297,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/e6104dc3-9da4-4a70-b9ea-9128dc92a23e-Max.webp?v=1760866227
     Price: $22.00 USD
 - [Full Size Contrast Lapel Collar Top and Pants Set - Pretty Melanin](https://np0i0a-pm.myshopify.com/products/full-size-contrast-lapel-collar-top-pants-set): Shop our Full Size Contrast Lapel Collar Top and Pants Set, featuring a stylish design, practical pockets, and quality polyester material. Perfect for any occasion.
-  Updated: 2025-10-22T19:01:21Z
+  Updated: 2025-10-23T00:43:15Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2677,7 +2677,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/10ab15ad-1a8e-4838-9bc1-e6d61f3488c5-Max.webp?v=1760866498
     Price: $33.00 USD
 - [One Button Lapel Collar Blazer and Shorts Set - Pretty Melanin](https://np0i0a-pm.myshopify.com/products/one-button-lapel-collar-blazer-shorts-set): Shop our stylish One Button Lapel Collar Blazer and Shorts Set. Perfect for any occasion, this 2-piece ensemble features a chic design and 100% polyester material for comfort.
-  Updated: 2025-10-22T22:13:50Z
+  Updated: 2025-10-23T02:28:00Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2795,7 +2795,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/7ed3f8fd-3f9f-460f-ae34-83db90394c1b-Max-Origin.webp?v=1760866585
     Price: $41.10 USD
   - [Camel / XL](https://np0i0a-pm.myshopify.com/products/one-button-lapel-collar-blazer-shorts-set?variant=51261900718311)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/7ed3f8fd-3f9f-460f-ae34-83db90394c1b-Max-Origin.webp?v=1760866585
     Price: $41.10 USD
   - [Camel / 2XL](https://np0i0a-pm.myshopify.com/products/one-button-lapel-collar-blazer-shorts-set?variant=51261900751079)
@@ -3699,7 +3699,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/61666c86-73f5-433b-aa34-a72a49959bee-Max.webp?v=1760856509
     Price: $34.34 USD
 - [Game Day Football Print Long Sleeve T-Shirt - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/game-day-football-print-long-sleeve-t-shirt): Shop our Game Day Football Print Long Sleeve T-Shirt for perfect comfort and style on game day. Made from high-quality materials, this tee is a must-have for every fan.
-  Updated: 2025-10-22T12:00:47Z
+  Updated: 2025-10-23T02:00:45Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -3717,7 +3717,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/0dd6fe9f-233b-4a04-80ad-ad99a4c3a0b5-Max-Origin.webp?v=1760856535
     Price: $16.58 USD
 - [Ruffled Wide Leg Pull On High Waist Pants](https://np0i0a-pm.myshopify.com/products/ruffled-wide-leg-pull-on-high-waist-pants-with-pockets): Shop stylish Ruffled Wide Leg Pull On High Waist Pants with pockets. Comfortable fit, trendy design, and easy care make these pants a wardrobe essential.
-  Updated: 2025-10-22T23:20:41Z
+  Updated: 2025-10-23T02:40:40Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5389,7 +5389,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/4018c7d6-dc6a-48ac-b8aa-f07719a4e8b8-Max-Origin.webp?v=1760857571
     Price: $56.00 USD
 - [Color Block Knit Button-Up Cardigan - Stylish & Comfortable](https://np0i0a-pm.myshopify.com/products/color-block-knit-button-up-cardigan): Shop the Color Block Knit Button-Up Cardigan for a stylish and cozy addition to your wardrobe. Perfect for layering and easy to care for.
-  Updated: 2025-10-22T16:22:10Z
+  Updated: 2025-10-23T03:21:32Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -8179,7 +8179,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/16480e61bd7548468d21638f1ef4bc0c-Max-Origin.webp?v=1760858615
     Price: $27.08 USD
 - [Leopard Print Contrast Striped V Neck Blouse - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/leopard-print-contrast-striped-v-neck-blouse): Shop our Leopard Print Contrast Striped V Neck Blouse for a chic and stylish look. Made from 100% polyester, it features a unique design and is easy to care for.
-  Updated: 2025-10-22T08:21:03Z
+  Updated: 2025-10-23T03:00:40Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -10695,7 +10695,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/dd3c321fd9a345a28abe071da9962aa0-Max-Origin.webp?v=1760860106
     Price: $65.50 USD
 - [Striped Detail Crewneck Top and Elastic Sweatpants Set](https://np0i0a-pm.myshopify.com/products/striped-detail-crewneck-top-elastic-sweatpants-2pcs-set): Shop the stylish Striped Detail Crewneck Top and Elastic Sweatpants 2pcs Set, featuring contrast stitching and a comfortable fit. Perfect for casual wear.
-  Updated: 2025-10-22T20:41:13Z
+  Updated: 2025-10-23T03:41:12Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -11960,7 +11960,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/bb83087d-f750-40ad-94d9-89f714c14cef-Max.webp?v=1760860871
     Price: $20.70 USD
 - [Color Block Crew Neck Drop Shoulder Sweater - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/color-block-crew-neck-drop-shoulder-sweater): Shop the Color Block Crew Neck Drop Shoulder Sweater for a stylish, comfortable fit. Made from a soft blend of viscose, polyester, and polyamide. Easy care instructions.
-  Updated: 2025-10-23T00:00:46Z
+  Updated: 2025-10-23T02:21:11Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -12602,7 +12602,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/4274b691-31a7-4524-8a0a-c7b4ec670c5b-Max-Origin.webp?v=1760861528
     Price: $34.54 USD
 - [Chest Pocket Raw Hem Denim Loose Shirt Dress - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/chest-pocket-raw-hem-denim-loose-shirt-dress): Shop the Chest Pocket Raw Hem Denim Loose Shirt Dress for a stylish and comfortable addition to your wardrobe. Made from 100% cotton with a relaxed fit.
-  Updated: 2025-10-22T21:00:35Z
+  Updated: 2025-10-23T03:41:15Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -14037,7 +14037,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/4caddeb5e1014d0199779d72d013955f-Max-Origin.webp?v=1760863361
     Price: $44.26 USD
 - [Round Neck Long Sleeve Top and Pants Set - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/round-neck-long-sleeve-top-pants-set-99358): Shop our Round Neck Long Sleeve Top and Pants Set for a perfect blend of comfort and style. Ideal for lounging or casual outings.
-  Updated: 2025-10-22T22:02:05Z
+  Updated: 2025-10-23T02:20:35Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -14445,7 +14445,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/7fbb8695a3f440beb5d6dc1a980a7f36-Max-Origin.webp?v=1760863637
     Price: $32.48 USD
 - [Star Print Top and Drawstring Pants Set - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/star-print-top-drawstring-pants-set): Shop the stylish Star Print Top and Drawstring Pants Set, perfect for comfort and casual outings. Soft, stretchy fabric and adjustable fit.
-  Updated: 2025-10-21T18:01:35Z
+  Updated: 2025-10-23T03:13:50Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -14467,7 +14467,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/7211568f74a643bd9671b6439db4a4f8-Max-Origin.webp?v=1760863657
     Price: $50.66 USD
 - [Leopard and Striped Trim Shirt and Pants Set - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/leopard-striped-trim-shirt-pants-set): Shop the Leopard and Striped Trim Shirt and Pants Set for a stylish two-piece outfit. Made from 100% viscose with slightly stretchy fabric for comfort.
-  Updated: 2025-10-22T22:01:51Z
+  Updated: 2025-10-23T03:00:46Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -16008,7 +16008,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/16d04d76-5838-43c3-9d6c-40c6742ea136-Max-Origin.webp?v=1760864694
     Price: $18.84 USD
 - [Lace Detail Dropped Shoulder Hoodie and Pants Set - Pretty Melanin](https://np0i0a-pm.myshopify.com/products/lace-detail-dropped-shoulder-hoodie-pants-set): Shop the Lace Detail Dropped Shoulder Hoodie and Pants Set for a stylish and comfortable two-piece outfit. Perfect for lounging or casual outings.
-  Updated: 2025-10-22T23:21:30Z
+  Updated: 2025-10-23T03:40:52Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -16030,7 +16030,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/0be2cb67-8d64-45c7-886d-05d24b948a79-Max-Origin.webp?v=1760864721
     Price: $94.62 USD
 - [Saved By Grace Letter Embroidery Sweatshirt](https://np0i0a-pm.myshopify.com/products/saved-by-grace-letter-embroidery-mineral-wash-loose-sweatshirt): Shop the Saved By Grace Letter Embroidery Mineral Wash Loose Sweatshirt. Perfect blend of comfort and style with a faith-inspired design.
-  Updated: 2025-10-22T20:41:07Z
+  Updated: 2025-10-23T03:41:05Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -16800,7 +16800,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/8edb91d793324823abebd3f1f60b2240-Max-Origin.webp?v=1760922575
     Price: $21.20 USD
 - [Children's Plaid Button Up Hooded Top & Pants Set - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/childrens-plaid-button-up-hooded-top-pants-set): Features:Buttoned,Pocketed Number of pieces:Three-piece Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Bust Top Length Waist Bottom Length Hip Sleeve Length 6-9M 22.8 12.2 15.6 15.9 0 0 9-12M 23.6 13 16.1 17.3 0 0 12-18M 24.4 13.8 16.7 18.7 0 0 18-24M 25.2 14.6 17.3 20.1 0 0 2-3 26 15.4 17.9 21.5 0 0 - Pretty Melanin Boutique
-  Updated: 2025-10-20T13:09:59Z
+  Updated: 2025-10-23T01:20:50Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
