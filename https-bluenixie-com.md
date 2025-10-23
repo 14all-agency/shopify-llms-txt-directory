@@ -6,12 +6,12 @@
 - Timezone: Asia/Kolkata
 - Created At: 2023-05-03T12:56:46Z
 - Contact Email: bluenixiein23@gmail.com
-- Updated At: 2025-10-23T04:00:50.522Z
+- Updated At: 2025-10-23T16:00:34.015Z
 
 ## Products
 
 - [Bluenixie BN2514_Teesta C & D Cups Cotton Rich Full Coverage T-Shirt Bra](https://bluenixie.com/products/full-coverage-t-shirt-bra): Made of cotton rich pleated fabric in full coverage design. Broad shoulder straps for better support. 30mm broad under bust belt for better grip. 3x3 57mm eye hook for max support. Removable straps options available.
-  Updated: 2025-10-21T14:30:06Z
+  Updated: 2025-10-23T08:24:56Z
   Vendor: Blue Nixie
   Product Type: Full coverage bra
   Availability: Available
@@ -121,7 +121,7 @@
     Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2514BLACK_1.jpg?v=1761056962
     Price: ₹460.00 INR
   - [38C / Nude Skin](https://bluenixie.com/products/full-coverage-t-shirt-bra?variant=45268820066618)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/products/BN2514N.SKIN_3.jpg?v=1761056922
     Price: ₹460.00 INR
   - [38C / Maroon](https://bluenixie.com/products/full-coverage-t-shirt-bra?variant=45269415199034)
@@ -6497,16 +6497,16 @@
   Updated: 2025-05-09T12:03:01Z
   Total Products: 0
 - [Bra](https://bluenixie.com/collections/bra)
-  Updated: 2025-10-20T11:09:36Z
+  Updated: 2025-10-23T11:09:10Z
   Total Products: 59
 - [padded bra](https://bluenixie.com/collections/padded-bra)
   Updated: 2025-10-10T11:10:50Z
   Total Products: 8
 - [t shirt bra](https://bluenixie.com/collections/t-shirt-bra)
-  Updated: 2025-10-20T11:09:36Z
+  Updated: 2025-10-23T11:09:10Z
   Total Products: 40
 - [full Coverage bra](https://bluenixie.com/collections/full-coverage-bra)
-  Updated: 2025-10-20T11:09:36Z
+  Updated: 2025-10-23T11:09:10Z
   Total Products: 42
 - [minimizer bra](https://bluenixie.com/collections/minimizer-bra)
   Updated: 2025-10-06T11:09:23Z
@@ -6644,16 +6644,16 @@
   Updated: 2025-05-09T12:03:04Z
   Total Products: 1
 - [Recommended-products](https://bluenixie.com/collections/recommended-products): Highly selling products from Bluenixie with minimum complaints from customers across india and abroad.
-  Updated: 2025-10-20T11:09:36Z
+  Updated: 2025-10-23T11:09:10Z
   Total Products: 49
 - [best-seller-product](https://bluenixie.com/collections/best-seller-product)
-  Updated: 2025-10-20T11:09:36Z
+  Updated: 2025-10-23T11:09:10Z
   Total Products: 56
 - [GST 12%](https://bluenixie.com/collections/gst-12)
   Updated: 2025-05-09T12:03:04Z
   Total Products: 0
 - [GST 5%](https://bluenixie.com/collections/gst-5)
-  Updated: 2025-10-20T11:09:36Z
+  Updated: 2025-10-23T11:09:10Z
   Total Products: 95
 - [Plus Size Bra](https://bluenixie.com/collections/plus-size-bra)
   Updated: 2025-10-16T11:10:42Z
@@ -6674,10 +6674,10 @@
   Updated: 2025-10-20T11:09:36Z
   Total Products: 44
 - [New products](https://bluenixie.com/collections/new-collection)
-  Updated: 2025-10-20T11:09:36Z
+  Updated: 2025-10-23T11:09:10Z
   Total Products: 98
 - [Best selling products](https://bluenixie.com/collections/best-selling-collection)
-  Updated: 2025-10-20T11:09:36Z
+  Updated: 2025-10-23T11:09:10Z
   Total Products: 98
 - [Fashion Bra](https://bluenixie.com/collections/fashion)
   Updated: 2025-10-20T11:09:36Z
@@ -6698,7 +6698,7 @@
   Updated: 2025-05-09T12:03:05Z
   Total Products: 6
 - [Quick Order](https://bluenixie.com/collections/quick-order)
-  Updated: 2025-10-20T11:09:36Z
+  Updated: 2025-10-23T11:09:10Z
   Total Products: 98
 - [Wholesale Products](https://bluenixie.com/collections/wholesale-products)
   Updated: 2025-05-09T12:03:05Z
@@ -6815,6 +6815,10 @@
   - [How to Know When Your Bra Doesn't Fit - Warning Signs](https://bluenixie.com/blogs/news/how-to-know-when-your-bra-doesnt-fit-warning-signs)
     Updated: 2025-09-21T21:55:28Z
     Author: Blue Nixie
+  - [Empowering Comfort: Why Every Woman Deserves the Right Bra | Blue Nixie](https://bluenixie.com/blogs/news/welcome-to-our-blog): Empowering Comfort: Why Every Woman Deserves the Right Bra | Blue Nixie
+    Updated: 2025-10-23T04:41:01Z
+    Author: Blue Nixie
+    Tags: ActiveLifestyle, BlueNixieBras, BlueNixieIndia, BodyPositivity, Bra, bra fitting, bra fitting guide, BraSize, BraSizingGuide, comfort, find my bra size, how-to, size calculator, special occasion, sports bras, T-shirts bra, Teenager Bra, women's health, WomensHealth, WomensWellness
 
 ## Store Pages
 
