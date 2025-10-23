@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-10-23T16:00:48.189Z
+- Updated At: 2025-10-23T20:00:56.842Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -5003,7 +5003,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £90.00 GBP
 - [White Quartz Drop Hoop Earrings | Premium Gold Earrings | Lily Blanche](https://www.lilyblanche.com/products/white-quartz-drop-hoop-earrings-gold-april): Need a gorgeous pair of earrings? Make a statement with our White Quartz Drop Hoop Earrings in 18 carat gold vermeil. These statement earrings have been handcrafted to show the stone to the best advantage. Shop April birthstone earrings online today. Express delivery is available & Free Luxury Gift Wrap.
-  Updated: 2025-09-03T15:33:15Z
+  Updated: 2025-10-23T17:46:20Z
   Vendor: Lily Blanche
   Product Type: Hoop
   Availability: Available
@@ -6266,7 +6266,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £195.00 GBP
 - [Citrine Charm Necklace Gold | November Birthstone Necklace](https://www.lilyblanche.com/products/citrine-charm-necklace-gold-november): A stunning, real citrine forms the centrepiece of this beautiful November birthstone necklace. Add an inital for personalisation. Free luxury jewellery care kit with all orders.
-  Updated: 2025-10-22T08:41:40Z
+  Updated: 2025-10-23T19:22:40Z
   Vendor: Lily Blanche
   Product Type: Birthstone
   Availability: Available
@@ -9614,7 +9614,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £85.00 GBP
 - [Curb Chain in White Gold Vermeil](https://www.lilyblanche.com/products/curb-chain-white-gold): Quality and strength assured, this classic, medium-weight white gold vermeil curb chain is the perfect chain for any occasion. Wear this bestselling chain on its own or with one of our white gold vermeil pendants or lockets. Free jewellery care kit included with all orders.
-  Updated: 2025-10-15T19:18:00Z
+  Updated: 2025-10-23T17:17:10Z
   Vendor: Lily Blanche
   Product Type: Choose Your Chain
   Availability: Available
@@ -17046,7 +17046,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £210.00 GBP
 - [St Christopher Necklace | Silver |Engravable | Lily Blanche](https://www.lilyblanche.com/products/st-christopher-necklace-silver-1): Give a meaningful gift with our timeless and stylish St Christopher Necklace in solid silver. Believed to keep travellers and loved ones safe as they embark on life's journey, the St Christopher medal is a meaningful gift. Personalise with free engraving. Order today and receive a free jewellery care kit!
-  Updated: 2025-10-20T19:34:55Z
+  Updated: 2025-10-23T18:47:40Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -21466,7 +21466,7 @@ From £119
     Price: £125.00 GBP
 - [Men's 9ct Solid Gold Cross Necklace | UK Handcrafted](https://www.lilyblanche.com/products/mens-large-gold-cross-necklace): Discover our Men's Solid 9ct Gold Cross Necklace, handcrafted. Hallmarked British gold, choice of chain styles, and complimentary luxury packaging. Free UK delivery & care kit
 £175
-  Updated: 2025-10-20T18:16:46Z
+  Updated: 2025-10-23T19:56:00Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
