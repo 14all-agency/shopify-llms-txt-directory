@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-07-07T17:06:44Z
 - Contact Email: nikualbu92@gmail.com
-- Updated At: 2025-10-23T08:00:40.147Z
+- Updated At: 2025-10-23T12:00:34.594Z
 
 ## Products
 
@@ -963,7 +963,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/canvas-_in_-24x24-front-68dac37f48144.jpg?v=1759167386
     Price: €37.00 EUR
 - [Unisex Hoodie Halloween print](https://nicosstore.store/products/unisex-hoodie): Who knew that the softest hoodie you'll ever own comes with such a cool design. You won't regret buying this classic streetwear piece of apparel with a convenient pouch pocket and warm hood for chilly evenings. • 100% cotton face • 65% ring-spun cotton, 35% polyester • Front pouch pocket • Self-fabric patch on the back • Matching flat drawstrings • 3-panel hood • Blank product sourced from Pakistan Disclaimer: This hoodie runs small. For the perfect fit, we recommend ordering one size larger than your usual size. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! • Traceability: - Weaving—Pakistan - Dyeing—Pakistan - Manufacturing—Pakistan • Contains 0% recycled polyester • Contains 0% dangerous substances Age restrictions: For adults EU Warranty: 2 years Other compliance information: Meets the flammability, lead, cadmium, bisphenols and phthalates level requirements. In compliance with the General Product Safety Regulation (GPSR), Albu Nicolae ensures that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact us at nikualbu92@gmail.com or write to us Atzberg 18, Mitterskirskirchen ,84335 ,DE.Size guide CHEST WIDTH (cm) LENGTH (cm) S 50.8 68.6 M 53.3 71.1 L 58.4 73.7 XL 63.5 76.2 2XL 67.3 78.7 3XL 71.1 81.3
-  Updated: 2025-10-12T19:53:55Z
+  Updated: 2025-10-23T08:25:34Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
@@ -2181,13 +2181,13 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/17275778035340764426_2048.jpg?v=1759512331
     Price: €5.46 EUR
 - [Leopard Zip Up Fleece Jacket](https://nicosstore.store/products/leopard-zip-up-fleece-jacket): Features:Pocketed,Zipper Thickness:Normal Body:Not lined Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length Shoulder S 23.6 42.9 19.3 23.6 M 24 44.5 19.5 24.4 L 24.6 46.9 19.8 25.6 XL 25.2 49.2 20.1 26.8
-  Updated: 2025-10-23T06:40:56Z
+  Updated: 2025-10-23T09:20:41Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/3ef299f16d854caab6343103d9c9dd52-Max-Origin.webp?v=1759598855
   - [Apricot / S](https://nicosstore.store/products/leopard-zip-up-fleece-jacket?variant=55821770621253)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/3ef299f16d854caab6343103d9c9dd52-Max-Origin.webp?v=1759598855
     Price: €44.22 EUR
   - [Apricot / M](https://nicosstore.store/products/leopard-zip-up-fleece-jacket?variant=55821770654021)
@@ -2203,7 +2203,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/3ef299f16d854caab6343103d9c9dd52-Max-Origin.webp?v=1759598855
     Price: €44.22 EUR
 - [Camouflage Print Mesh Long Sleeve Top](https://nicosstore.store/products/camouflage-print-mesh-long-sleeve-top): Features:Sheer Stretch:Slightly stretchy Material composition:95% polyester, 5% elastane Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 22.8 32.3 24 M 23.6 34.6 24.4 L 24.4 37 24.8 XL 25.2 40.2 25.2
-  Updated: 2025-10-23T03:22:01Z
+  Updated: 2025-10-23T09:51:13Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2311,7 +2311,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/cad51d2329e343fd845d669cb8a8c67f-Max-Origin.webp?v=1759675713
     Price: €27.72 EUR
 - [Cozy Oversized Hooded Button-Up Jacket](https://nicosstore.store/products/cozy-oversized-hooded-button-up-jacket): Features:Oversized,Buttoned,Pocketed Stretch:Slightly stretchy Material composition:95%Acrylic,5%spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 29.1 43.3 24.4 M 29.5 45.3 24.8 L 29.9 47.2 25.2 XL 30.3 49.2 25.6 2XL 30.7 51.2 26
-  Updated: 2025-10-19T00:49:46Z
+  Updated: 2025-10-23T08:35:44Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5116,32 +5116,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/317e9c956d4c40d991cfec0067be0d58-Max-Origin.webp?v=1759861688
     Price: €39.99 EUR
-- [Round Neck Long Sleeve Top and Pants Set](https://nicosstore.store/products/round-neck-long-sleeve-top-and-pants-set): Features:Basic style,Pocketed Number of pieces:Two-piece Stretch:Slightly stretchy Material composition:95% polyester, 5% elastane Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length Bottom Length Waist Hip S 18.9 31.5 24 40.6 26.8 44.5 M 19.7 33.9 24.4 41.3 28.3 46.1 L 20.5 37 24.8 42.1 30.7 48.4 XL 21.3 40.2 25.2 42.9 33.1 50.8 2XL 22 43.3 25.6 43.7 35.4 53.1
-  Updated: 2025-10-08T06:32:20Z
-  Vendor: Trendsi
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/835a58e4-19a0-4254-9110-78f3797ccd16-Max-Origin.webp?v=1759861937
-  - [Army Green / S](https://nicosstore.store/products/round-neck-long-sleeve-top-and-pants-set?variant=55850165436741)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/835a58e4-19a0-4254-9110-78f3797ccd16-Max-Origin.webp?v=1759861937
-    Price: €24.99 EUR
-  - [Army Green / M](https://nicosstore.store/products/round-neck-long-sleeve-top-and-pants-set?variant=55850165469509)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/835a58e4-19a0-4254-9110-78f3797ccd16-Max-Origin.webp?v=1759861937
-    Price: €24.99 EUR
-  - [Army Green / L](https://nicosstore.store/products/round-neck-long-sleeve-top-and-pants-set?variant=55850165502277)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/835a58e4-19a0-4254-9110-78f3797ccd16-Max-Origin.webp?v=1759861937
-    Price: €24.99 EUR
-  - [Army Green / XL](https://nicosstore.store/products/round-neck-long-sleeve-top-and-pants-set?variant=55850165535045)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/835a58e4-19a0-4254-9110-78f3797ccd16-Max-Origin.webp?v=1759861937
-    Price: €24.99 EUR
-  - [Army Green / 2XL](https://nicosstore.store/products/round-neck-long-sleeve-top-and-pants-set?variant=55850165567813)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/835a58e4-19a0-4254-9110-78f3797ccd16-Max-Origin.webp?v=1759861937
-    Price: €24.99 EUR
 - [Men's Casual Color Block Zip Up Jacket With Hood](https://nicosstore.store/products/mens-casual-color-block-zip-up-jacket-with-hood-varsity-style-soft-fleece-lining-perfect-for-fall-winter-ideal-gift-for-teenagers-young-adults): SPECIFICATIONSApplicable People: MenBelt: NoCollar Style: HoodedComposition: 100% PolyesterDetails: ZipperFabric: Slight StretchFit Type: RegularItem ID: MN02556Length: RegularMaterial: PolyesterOccasion: Weekend CasualOperation Instruction: Machine wash, do not dry cleanOrigin: Jiangxi,ChinaOther Material: PolyesterPattern: PatchworkPlacket Type: PlacketSeason: WinterSheer: NoSleeve Length: Long SleeveSleeve Type: Regular SleeveStyle: CasualType: HoodieWeaving Method: Knit Fabric
   Updated: 2025-10-23T05:38:25Z
   Vendor: Nico`s Store
@@ -5315,7 +5289,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/826b4037-2662-4d12-a1df-03c571d78594-Max.webp?v=1760293347
     Price: €13.79 EUR
 - [Devine Star Round Neck Short Sleeve T-Shirt](https://nicosstore.store/products/devine-star-round-neck-short-sleeve-t-shirt): Features: Basic style Sheer: Opaque Stretch: Moderate stretch Material composition: 93% viscose, 7% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Top Length Bust Sleeve Length S 4 19.7 30.7 5.7 M 6/8 20.1 32.3 5.9 L 10/12 20.5 34.6 6.2 XL 14 20.9 37 6.5
-  Updated: 2025-10-13T06:26:16Z
+  Updated: 2025-10-23T09:49:26Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -7420,7 +7394,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/fd158eb56a054786b8a0c6931df23337-Max-Origin.webp?v=1761067250
     Price: €22.99 EUR
 - [Zip Up Quilted Hooded Puffer Coat](https://nicosstore.store/products/zip-up-quilted-hooded-puffer-coat): Features:Pocketed,Zipper Thickness:Thick Body:Lined Material composition:95% polyester, 5% spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 40.9 40.6 24.6 M 41.3 42.1 25 L 41.9 44.5 25.4 XL 42.5 46.9 25.8
-  Updated: 2025-10-22T11:45:22Z
+  Updated: 2025-10-23T08:40:22Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
