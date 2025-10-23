@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2023-11-06T10:53:38Z
 - Contact Email: theworldofnerdscustomer@gmail.com
-- Updated At: 2025-10-23T08:00:58.407Z
+- Updated At: 2025-10-23T16:00:45.958Z
 
 ## Products
 
@@ -3889,7 +3889,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitleddesign_11.jpg?v=1738747652
   Price: ₹399.00 INR
 - [HOT WHEELS MCLAREN F1](https://theworldofnerds.com/products/hot-wheels-mclaren-f1): This Hot Wheels McLaren F1 is a precision die-cast replica of the iconic supercar. With realistic design and details, this 1:64 scale model is perfect for collectors and car enthusiasts. Add it to your collection or display it as a showpiece.
-  Updated: 2025-10-19T00:54:55Z
+  Updated: 2025-10-23T08:46:23Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -4386,7 +4386,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_3ed96b23-42cc-42fb-89c3-91b9637d4c15.jpg?v=1739599279
   Price: ₹399.00 INR
 - [POKEMON SET OF 6 D1](https://theworldofnerds.com/products/pokemon-collection): This POKEMON SET OF 6 is a must-have for any collector or fan! With 6 unique and iconic characters included, this set offers a diverse and valuable addition to your collection. Made with high-quality materials, these figures are perfect for display or play. Catch 'em all now!
-  Updated: 2025-10-19T18:14:30Z
+  Updated: 2025-10-23T15:13:59Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -9010,7 +9010,7 @@
   Updated: 2025-10-19T11:11:51Z
   Total Products: 10
 - [HOTWHEELS MAINLINE](https://theworldofnerds.com/collections/hotwheels-mainline): Unleash the thrill of racing with Hot Wheels cars, the ultimate choice for car enthusiasts and collectors alike! Each die-cast vehicle is expertly designed with vibrant colors, intricate details, and a variety of styles—from classic muscle cars to futuristic speedsters. With their iconic wheels and impressive designs, Hot Wheels cars are perfect for racing on tracks or displaying in your collection. Whether you’re a young racer or a seasoned collector, Hot Wheels brings the excitement of the open road to life, inspiring imagination and adventure with every turn. Get ready to speed into action with these legendary toys!
-  Updated: 2025-10-22T11:14:50Z
+  Updated: 2025-10-23T11:12:25Z
   Total Products: 100
 - [KIDS CAMERA](https://theworldofnerds.com/collections/kids-camera): A kids’ camera toy is like giving your little one their very own way to capture the world! Made with bright colors and soft, durable materials, these cameras are super easy for small hands to use. They let kids snap photos, shoot videos, and sometimes even play fun games all while letting them feel like a little photographer. Some even come with cool filters and cute accessories, so they can get creative with their shots. It’s the perfect way to spark their imagination and let them see the world in a whole new way, all while having a blast!
   Updated: 2025-08-12T11:12:51Z
@@ -9070,7 +9070,7 @@
   Updated: 2025-09-04T11:12:40Z
   Total Products: 21
 - [ALL DIECAST CAR'S](https://theworldofnerds.com/collections/diecast-cars): A diecast car toy is a little masterpiece on wheels! Made from metal alloys, these toys are miniature versions of real cars, and they’re built to last. They come with super detailed features like realistic paint jobs, decals, and sometimes even movable parts like doors or wheels. Whether you’re into collecting or just love cars, diecast toys are great for both display and play. They come in different sizes, so you can choose one that fits perfectly on your shelf or in your hands. With their awesome craftsmanship, each car feels like a mini version of the real thing!
-  Updated: 2025-10-22T11:14:50Z
+  Updated: 2025-10-23T11:12:25Z
   Total Products: 349
 - [ANIME](https://theworldofnerds.com/collections/anime): Anime toys are like little pieces of your favorite shows that you can hold in your hands! Whether it’s a cool action figure, a cute plushie, or a stunning statue, these toys are made with awesome attention to detail, capturing the unique style and personality of beloved characters. They’re perfect for showing off your love for a certain anime or just adding a bit of fun to your space. Each one is made to bring a bit of that anime magic into the real world—whether you want to display them on a shelf, keep them close, or even take them on little adventures! If you’re a fan, these toys let you connect with the anime you love in a whole new way.
   Updated: 2025-10-20T11:11:47Z
@@ -9148,7 +9148,7 @@
   Updated: 2025-07-29T05:10:31Z
   Total Products: 4
 - [ALL HOT WHEELS](https://theworldofnerds.com/collections/all-hot-wheels-1): Rev up your collection with our exciting selection of Hot Wheels cars and accessories! From classic die-cast vehicles to exclusive limited-edition models, our collection brings the thrill of high-speed racing and vibrant designs right to your fingertips. Perfect for collectors and kids alike, each Hot Wheels car is crafted with intricate details and built for fast fun. Explore our range of iconic cars, customizable tracks, and themed sets, and race into action with the ultimate Hot Wheels experience. Fasten your seatbelt and let the adventures begin.
-  Updated: 2025-10-22T11:14:50Z
+  Updated: 2025-10-23T11:12:25Z
   Total Products: 135
 - [SHOP BY MERCHANDISE](https://theworldofnerds.com/collections/anime-action-figures): Explore our exclusive collection of nerd-inspired merchandise, carefully curated for fans of all things geeky! Whether you're into gaming, comics, anime, or pop culture, we have something special for you. Browse through categories like apparel, collectibles, accessories, and home decor to find the perfect addition to your collection. Level up your fandom with high-quality products designed for true enthusiasts. Start shopping now and bring your favorite worlds to life!
   Updated: 2025-10-21T11:13:29Z
