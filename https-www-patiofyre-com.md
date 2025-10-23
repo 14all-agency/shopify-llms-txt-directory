@@ -10,7 +10,7 @@
 - Contact Email: support@patiofyre.com
 - Contact Phone: 1-800-247-7384
 - Address: 20590 NE Empire Ave. Bend, OR 97701, United States of America
-- Updated At: 2025-10-22T12:00:39.297Z
+- Updated At: 2025-10-23T04:00:33.015Z
 
 Shop Patiofyre Today – Experience 8 Feet of Luxury Heat for Patios, Restaurants, and Backyards Nationwide
 
@@ -111,8 +111,8 @@ Shop Patiofyre Today – Experience 8 Feet of Luxury Heat for Patios, Restaurant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/7228/3129/files/metro-jetlamp-feature-image_732e20be-e4c1-4710-b2a3-ae48bd5403c6.png?v=1718110159
   Price: $0.00 USD
-- [Metro Jetlamp Outdoor Heater | Patiofyre](https://www.patiofyre.com/products/metro-jetlamp-with-bistro): Discover the Metro Jetlamp with a steel Bistro table, adding to the base model's appeal as a place to gather and socialize around. The table is designed to allow the allure of the fire to shine through.
-  Updated: 2025-10-17T22:08:50Z
+- [Metro Jetlamp with Bistro | Patiofyre](https://www.patiofyre.com/products/metro-jetlamp-with-bistro): Discover the Metro Jetlamp with a steel Bistro table, adding to the base model's appeal as a place to gather and socialize around. The table is designed to allow the allure of the fire to shine through.
+  Updated: 2025-10-22T22:15:02Z
   Vendor: PatioFyre
   Product Type: 
   Availability: Available
