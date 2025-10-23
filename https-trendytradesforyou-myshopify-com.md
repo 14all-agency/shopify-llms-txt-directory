@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2025-09-22T20:38:47Z
 - Contact Email: gemzmorris890@gmail.com
-- Updated At: 2025-10-23T16:27:57.977Z
+- Updated At: 2025-10-23T20:00:51.721Z
 
 ## Products
 
@@ -5219,7 +5219,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/e1c1cb4f-23ea-4524-82df-fc3692090b79-Max.webp?v=1760995832
     Price: £29.99 GBP
 - [Christmas Santa Print Round Neck Top and Shorts Lounge Set](https://trendytradesforyou.myshopify.com/products/christmas-santa-print-round-neck-top-and-shorts-lounge-set): Features:Basic style Number of pieces:Two-piece Stretch:Slightly stretchy Material composition:95% polyester, 5% elastane Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Hip Bust Sleeve Length Waist Length S 24 40.9 40.6 20.3 26 13.8 M 24.8 43.3 42.9 20.5 28.3 14.2 L 25.6 45.7 45.3 20.7 30.7 14.6 XL 26.4 48.8 48.4 20.7 33.9 15
-  Updated: 2025-10-23T14:52:01Z
+  Updated: 2025-10-23T19:50:38Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5257,7 +5257,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/98011ac2-67db-46a5-9ea2-c2ee418c06d0-Max-Origin.webp?v=1760995912
     Price: £32.99 GBP
 - [Solid Color Oversize Slit Sweatshirt and Ribbed Leggings 2pcs Set](https://trendytradesforyou.myshopify.com/products/solid-color-oversize-slit-sweatshirt-and-ribbed-leggings-2pcs-set): Features:Basic style Number of pieces:Two-piece Stretch:Slightly stretchy Material composition:65% polyester, 35% cotton Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Top Length Bust Bottom Length Hip S 24.4 27 42.9 38.6 27.6 M 26.8 27.8 45.3 39 29.9 L 29.1 28.5 47.6 39.4 32.3 XL 32.3 29.3 50.8 39.8 35.4
-  Updated: 2025-10-23T13:10:54Z
+  Updated: 2025-10-23T19:10:38Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5655,7 +5655,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/bb21eb4bd50a4f3c8930a1de19db23a4-Max-Origin.webp?v=1761052163
     Price: £24.99 GBP
 - [Cable-Knit Round Neck Sweater Dress](https://trendytradesforyou.myshopify.com/products/cable-knit-round-neck-sweater-dress): Features: Cable-Knit Stretch: Slightly stretchy Material composition: 100% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Bust Shoulder Sleeve Length Hip Length S 4 42.5 22.4 21.7 38.2 31.9 M 6/8 44.9 23.6 21.7 40.6 32.7 L 10/12 47.2 24.8 21.7 42.9 33.5 XL 14/16 50.4 26.4 21.7 46.1 34.3
-  Updated: 2025-10-23T16:11:52Z
+  Updated: 2025-10-23T19:10:36Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5791,7 +5791,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/70107e925a0643d7923bfc41dd844061-Max-Origin.webp?v=1761056083
     Price: £33.99 GBP
 - [Kangaroo Pocket Long Sleeve Drawstring Hoodie](https://trendytradesforyou.myshopify.com/products/kangaroo-pocket-long-sleeve-drawstring-hoodie): Features:Basic style,Drawstring,Pocketed Stretch:No stretch Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust S 26 40.9 M 26.4 42.5 L 26.8 44.9 XL 27.2 47.2 2XL 27.6 49.6
-  Updated: 2025-10-22T02:20:14Z
+  Updated: 2025-10-23T18:09:41Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -6578,6 +6578,84 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/546db321-09b2-4366-845a-9705df2a96cd-Max-Origin.webp?v=1761084802
     Price: £23.99 GBP
+- [Double Take Full Size Nutcracker Sequin Bow Decor Cardigan](https://trendytradesforyou.myshopify.com/products/double-take-full-size-nutcracker-sequin-bow-decor-cardigan): Features: Sequin, Bow Stretch: Moderate stretch Material composition: 100% acrylic Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Shoulder Bust Sleeve Length S/M 22.4 21.7 42.1 21.3 L/XL 23.2 23.2 46.1 21.3 2XL/3XL 24 24.8 50 21.3
+  Updated: 2025-10-23T18:08:30Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/f6bb4de8-c5ae-46a2-82ec-4fdacc9f243d-Max.webp?v=1761168050
+  - [Cream / S/M](https://trendytradesforyou.myshopify.com/products/double-take-full-size-nutcracker-sequin-bow-decor-cardigan?variant=52637137469773)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/f6bb4de8-c5ae-46a2-82ec-4fdacc9f243d-Max.webp?v=1761168050
+    Price: £32.99 GBP
+  - [Cream / L/XL](https://trendytradesforyou.myshopify.com/products/double-take-full-size-nutcracker-sequin-bow-decor-cardigan?variant=52637137502541)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/f6bb4de8-c5ae-46a2-82ec-4fdacc9f243d-Max.webp?v=1761168050
+    Price: £32.99 GBP
+  - [Cream / 2XL/3XL](https://trendytradesforyou.myshopify.com/products/double-take-full-size-nutcracker-sequin-bow-decor-cardigan?variant=52637137535309)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/f6bb4de8-c5ae-46a2-82ec-4fdacc9f243d-Max.webp?v=1761168050
+    Price: £32.99 GBP
+  - [Cerulean / S/M](https://trendytradesforyou.myshopify.com/products/double-take-full-size-nutcracker-sequin-bow-decor-cardigan?variant=52637137568077)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/9648fcb9-7cc5-4410-9594-c1daa79ffbfa-Max.webp?v=1761168050
+    Price: £32.99 GBP
+  - [Cerulean / L/XL](https://trendytradesforyou.myshopify.com/products/double-take-full-size-nutcracker-sequin-bow-decor-cardigan?variant=52637137600845)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/9648fcb9-7cc5-4410-9594-c1daa79ffbfa-Max.webp?v=1761168050
+    Price: £32.99 GBP
+  - [Cerulean / 2XL/3XL](https://trendytradesforyou.myshopify.com/products/double-take-full-size-nutcracker-sequin-bow-decor-cardigan?variant=52637137633613)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/9648fcb9-7cc5-4410-9594-c1daa79ffbfa-Max.webp?v=1761168050
+    Price: £32.99 GBP
+  - [Green / S/M](https://trendytradesforyou.myshopify.com/products/double-take-full-size-nutcracker-sequin-bow-decor-cardigan?variant=52637137666381)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/c02bc318-16bb-4dad-9bbd-0345dc6df459-Max.webp?v=1761168050
+    Price: £32.99 GBP
+  - [Green / L/XL](https://trendytradesforyou.myshopify.com/products/double-take-full-size-nutcracker-sequin-bow-decor-cardigan?variant=52637137699149)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/c02bc318-16bb-4dad-9bbd-0345dc6df459-Max.webp?v=1761168050
+    Price: £32.99 GBP
+  - [Green / 2XL/3XL](https://trendytradesforyou.myshopify.com/products/double-take-full-size-nutcracker-sequin-bow-decor-cardigan?variant=52637137731917)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/c02bc318-16bb-4dad-9bbd-0345dc6df459-Max.webp?v=1761168050
+    Price: £32.99 GBP
+  - [Red / S/M](https://trendytradesforyou.myshopify.com/products/double-take-full-size-nutcracker-sequin-bow-decor-cardigan?variant=52637137764685)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/0dadbeff-c97e-4819-9c65-23be2e67b4fb-Max.webp?v=1761168049
+    Price: £32.99 GBP
+  - [Red / L/XL](https://trendytradesforyou.myshopify.com/products/double-take-full-size-nutcracker-sequin-bow-decor-cardigan?variant=52637137797453)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/0dadbeff-c97e-4819-9c65-23be2e67b4fb-Max.webp?v=1761168049
+    Price: £32.99 GBP
+  - [Red / 2XL/3XL](https://trendytradesforyou.myshopify.com/products/double-take-full-size-nutcracker-sequin-bow-decor-cardigan?variant=52637137830221)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/0dadbeff-c97e-4819-9c65-23be2e67b4fb-Max.webp?v=1761168049
+    Price: £32.99 GBP
+  - [Pastel  Blue / S/M](https://trendytradesforyou.myshopify.com/products/double-take-full-size-nutcracker-sequin-bow-decor-cardigan?variant=52637137862989)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/3c3841ae-a780-4c95-9edc-00ac0b579cd8-Max.webp?v=1761168049
+    Price: £32.99 GBP
+  - [Pastel  Blue / L/XL](https://trendytradesforyou.myshopify.com/products/double-take-full-size-nutcracker-sequin-bow-decor-cardigan?variant=52637137895757)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/3c3841ae-a780-4c95-9edc-00ac0b579cd8-Max.webp?v=1761168049
+    Price: £32.99 GBP
+  - [Pastel  Blue / 2XL/3XL](https://trendytradesforyou.myshopify.com/products/double-take-full-size-nutcracker-sequin-bow-decor-cardigan?variant=52637137928525)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/3c3841ae-a780-4c95-9edc-00ac0b579cd8-Max.webp?v=1761168049
+    Price: £32.99 GBP
+  - [Blush Pink / S/M](https://trendytradesforyou.myshopify.com/products/double-take-full-size-nutcracker-sequin-bow-decor-cardigan?variant=52637137961293)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/5901cd84-6eee-4b99-b632-0d0474280a03-Max.webp?v=1761168049
+    Price: £32.99 GBP
+  - [Blush Pink / L/XL](https://trendytradesforyou.myshopify.com/products/double-take-full-size-nutcracker-sequin-bow-decor-cardigan?variant=52637137994061)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/5901cd84-6eee-4b99-b632-0d0474280a03-Max.webp?v=1761168049
+    Price: £32.99 GBP
+  - [Blush Pink / 2XL/3XL](https://trendytradesforyou.myshopify.com/products/double-take-full-size-nutcracker-sequin-bow-decor-cardigan?variant=52637138026829)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/5901cd84-6eee-4b99-b632-0d0474280a03-Max.webp?v=1761168049
+    Price: £32.99 GBP
 - [Texture Half Zip Long Sleeve Sweatshirt](https://trendytradesforyou.myshopify.com/products/texture-half-zip-long-sleeve-sweatshirt): Features: Basic style Sheer: Opaque Stretch: Slightly stretchy Material composition: 100% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Bust Top Length S 4 37 25.2 M 6/8 38.6 25.6 L 10/12 40.9 26 XL 14 43.3 26.4 2XL 16 45.7 26.8
   Updated: 2025-10-23T09:33:59Z
   Vendor: Trendsi
@@ -6789,7 +6867,7 @@
   Updated: 2025-10-19T22:47:01Z
   Total Products: 10
 - [Womans Clothing](https://trendytradesforyou.myshopify.com/collections/clothing)
-  Updated: 2025-10-22T21:34:41Z
+  Updated: 2025-10-23T18:08:27Z
   Total Products: 26
 - [Toys & Games](https://trendytradesforyou.myshopify.com/collections/toys-games)
   Updated: 2025-10-20T21:20:28Z
@@ -6797,6 +6875,9 @@
 - [Childrens Clothes](https://trendytradesforyou.myshopify.com/collections/childrens-clothes)
   Updated: 2025-10-21T21:56:24Z
   Total Products: 14
+- [New Arrivals](https://trendytradesforyou.myshopify.com/collections/new-arrivals): Discover the latest additions to our fashion family! From statement pieces to everyday essentials, our new arrivals bring you the freshest styles at prices you'll love. Be the first to shop what's trending and elevate your wardrobe with pieces that turn heads. Updated weekly with the hottest looks!"
+  Updated: 2025-10-23T19:04:58Z
+  Total Products: 5
 
 ## Store Pages
 
@@ -6824,6 +6905,18 @@
   Updated: 2025-10-03T22:16:08Z
 - [Track Order](https://trendytradesforyou.myshopify.com/pages/track-order)
   Updated: 2025-10-03T22:16:08Z
+- [Returns & Refunds Policy](https://trendytradesforyou.myshopify.com/pages/returns-refunds): Returns & Refunds PolicyWe want you to be completely satisfied with your purchase. If you're not happy with your order, we're here to help.Return P...
+  Updated: 2025-10-23T18:38:43Z
+- [About Trendytrades - Your Source for Trending Products](https://trendytradesforyou.myshopify.com/pages/about-us-1): Welcome to TrendytradesAt Trendytrades, we're passionate about bringing you the latest trending products that enhance your everyday life. From inno...
+  Updated: 2025-10-23T18:38:43Z
+- [Shipping Policy - Delivery Information | Trendytrades](https://trendytradesforyou.myshopify.com/pages/shipping-policy-1): Shipping InformationWe want to get your order to you as quickly and safely as possible. Here's everything you need to know about our shipping proce...
+  Updated: 2025-10-23T18:38:43Z
+- [Terms of Service - Legal Terms & Conditions | Trendytrades](https://trendytradesforyou.myshopify.com/pages/terms-of-service): Terms of ServiceWelcome to Trendytrades. By accessing and using our website, you agree to be bound by these Terms of Service.1. General TermsBy usi...
+  Updated: 2025-10-23T18:38:30Z
+- [About Trendytrades - Your Source for Trending Products](https://trendytradesforyou.myshopify.com/pages/copy-of-about-us): Welcome to TrendytradesAt Trendytrades, we're passionate about bringing you the latest trending products that enhance your everyday life. From inno...
+  Updated: 2025-10-23T18:38:43Z
+- [Review Submission](https://trendytradesforyou.myshopify.com/pages/review-submission)
+  Updated: 2025-10-23T17:14:17Z
 
 ## Policies
 
