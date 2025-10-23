@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-07-07T17:06:44Z
 - Contact Email: nikualbu92@gmail.com
-- Updated At: 2025-10-23T12:00:34.594Z
+- Updated At: 2025-10-23T16:00:35.170Z
 
 ## Products
 
@@ -2181,7 +2181,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/17275778035340764426_2048.jpg?v=1759512331
     Price: €5.46 EUR
 - [Leopard Zip Up Fleece Jacket](https://nicosstore.store/products/leopard-zip-up-fleece-jacket): Features:Pocketed,Zipper Thickness:Normal Body:Not lined Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length Shoulder S 23.6 42.9 19.3 23.6 M 24 44.5 19.5 24.4 L 24.6 46.9 19.8 25.6 XL 25.2 49.2 20.1 26.8
-  Updated: 2025-10-23T09:20:41Z
+  Updated: 2025-10-23T12:00:36Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2661,7 +2661,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/6073f04e-284f-4395-a61a-6f693d3e6565-Max-Origin.webp?v=1759678285
     Price: €11.40 EUR
 - [Leopard Zip Up Long Sleeve Furry Jacket](https://nicosstore.store/products/leopard-zip-up-long-sleeve-furry-jacket): Features: Basic style Thickness: Normal Body: Not lined Material composition: 100% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Top Length Sleeve Length Bust Shoulder S 4 20.5 19.7 40.9 22 M 6/8 20.9 20.1 42.5 22.4 L 10/12 21.3 20.5 44.9 22.8 XL 14 21.7 20.9 47.2 23.2 2XL 16 22 21.3 49.6 23.6
-  Updated: 2025-10-18T01:04:11Z
+  Updated: 2025-10-23T14:52:01Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2955,7 +2955,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/9cdec346-8f02-4bee-b8c1-7a83e62b1b86-Max.webp?v=1759683956
     Price: €32.26 EUR
 - [Textured Long Sleeve Notched Sweatshirt](https://nicosstore.store/products/textured-long-sleeve-notched-sweatshirt): Features:Basic style Stretch:Slightly stretchy Material composition:95% polyester, 5% spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 24.8 39.4 0 M 25.2 40.9 0 L 25.6 43.3 0 XL 26 45.7 0 2XL 26.4 48 0
-  Updated: 2025-10-16T03:32:45Z
+  Updated: 2025-10-23T15:04:25Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
