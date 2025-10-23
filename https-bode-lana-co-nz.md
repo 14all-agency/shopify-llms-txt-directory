@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2020-08-19T03:32:16Z
 - Contact Email: info@bode-lana.co.nz
-- Updated At: 2025-10-23T04:00:32.470Z
+- Updated At: 2025-10-23T16:00:33.466Z
 
 ## Products
 
