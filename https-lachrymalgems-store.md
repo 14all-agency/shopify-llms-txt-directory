@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-10-03T06:30:37Z
 - Contact Email: mandiemaddox@mystichiddengem.com
-- Updated At: 2025-10-23T00:00:32.498Z
+- Updated At: 2025-10-23T16:00:32.197Z
 
 ## Products
 
@@ -358,7 +358,7 @@
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/female-model-leggings-hoodie-dress-slippers-white-skeleton-sling-bag.png?v=1760910384
   Price: $57.99 USD
 - [Cozy Unisex Fleece Joggers - Ultimate Comfort Sweatpants](https://lachrymalgems.store/products/cozy-unisex-fleece-joggers-casual-loungewear-athleisure-workout-pants-comfortable-leisure-bottoms-perfect-for-relaxation): ltimate comfort unisex fleece joggers perfect for loungewear and athleisure. Cozy casual workout pants for relaxation. Comfortable leisure bottoms
-  Updated: 2025-10-22T13:51:38Z
+  Updated: 2025-10-23T02:07:17Z
   Vendor: Printify
   Product Type: Trousers
   Availability: Available
@@ -1564,7 +1564,7 @@
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/female-model-dark-occult-racerback-dress.png?v=1761103544
   Price: $52.42 USD
 - [Dark Art, Lachrymal Gem Stickers](https://lachrymalgems.store/products/dark-art-lachrymal-gem-stickers): 3" × 3" Width, in 3.00 Length, in 3.00 Add a touch of personality to your favorite items with these vibrant Kiss-Cut Stickers! Perfect for customizing laptops, journals, and windows, these stickers provide a playful vibe that effortlessly enhances your space. Ideal for creative souls, artists, and anyone looking to express their unique style, they're perfect for personal use or as thoughtful gifts. These stickers shine during holidays like Valentine’s Day, birthdays, or any celebration where a little flair is appreciated. Embrace a fun, artistic atmosphere with these durable and colorful additions to your collection.Product features- Glossy paper finish for a scratch-resistant surface- Long-lasting vinyl with permanent adhesive, suitable for smooth surfaces- Vibrant colors printed with eco-friendly inks- Available in four sizes with both white and transparent options- Quick, smooth, and bubble-free application for easy decorating.Care instructions- Use a soft, clean and dry cloth to gently brush any dust or dirt off from the center of the sticker outwards.
-  Updated: 2025-10-22T21:26:53Z
+  Updated: 2025-10-23T11:54:55Z
   Vendor: Printify
   Product Type: Paper products
   Availability: Available
