@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-06-10T17:50:10Z
 - Contact Email: tejusentprs@gmail.com
-- Updated At: 2025-10-23T04:00:33.950Z
+- Updated At: 2025-10-23T20:00:47.750Z
 
 ## Products
 
@@ -18,11 +18,11 @@
   Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/Lalita_TPSC_6_fb914e87-88ac-42e9-9210-ff71c77bf02c.png?v=1760679071
   Price: ₹1,294.00 INR
 - [Green Cotton Floral Afghani Salwar Suit - The Plus  Size Co.](https://theplussizeco.com/products/green-cotton-floral-afghani-salwar-suit): Breathe fresh in florals with our Green Cotton Floral Afghani Salwar Suit. Features cotton fabric and N neckline. Sizes in XL to 10XL with free customization.
-  Updated: 2025-10-10T14:24:02Z
+  Updated: 2025-10-23T18:09:05Z
   Vendor: The Plus Size Co.
   Product Type: Suit Sets
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/Women_Plus_Size.png?v=1758357892
+  Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/Lalita_TPSC_f02c654b-1661-431d-ab19-17a52ad38b16.png?v=1761197663
   - [3XL / 3XL](https://theplussizeco.com/products/green-cotton-floral-afghani-salwar-suit?variant=44687975088181)
     Availability: Available
     Price: ₹1,294.00 INR
@@ -41,16 +41,18 @@
   - [9XL / 10XL](https://theplussizeco.com/products/green-cotton-floral-afghani-salwar-suit?variant=44660111933493)
     Availability: Not Available
     Price: ₹1,294.00 INR
-  - [10XL / 10XL](https://theplussizeco.com/products/green-cotton-floral-afghani-salwar-suit?variant=44689814814773)
-    Availability: Not Available
-    Price: ₹1,294.00 INR
 - [Plus Size Onion Cotton Straight Cut Suit Set- The Plus Size Co.](https://theplussizeco.com/products/onion-cotton-straight-cut-suit-set)
-  Updated: 2025-10-01T19:50:53Z
+  Updated: 2025-10-23T11:41:23Z
   Vendor: The Plus Size Co.
   Product Type: Suit Sets
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/82.png?v=1759305048
-  Price: ₹1,194.00 INR
+  Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/Lalita_TPSC_21_4e48e145-ad15-4a0d-8051-c9a3d1141ec2.png?v=1761219675
+  - [3XL](https://theplussizeco.com/products/onion-cotton-straight-cut-suit-set?variant=44667271577653)
+    Availability: Available
+    Price: ₹1,194.00 INR
+  - [10XL](https://theplussizeco.com/products/onion-cotton-straight-cut-suit-set?variant=44755869401141)
+    Availability: Available
+    Price: ₹1,194.00 INR
 - [Plus Size Pink Cotton Printed Straight Cut Suit Set- The Plus Size Co.](https://theplussizeco.com/products/pink-cotton-printed-straight-cut-suit-set): Blush in blooms with our Pink Cotton Printed Straight Cut Suit Set. Features cotton fabric and 3/4th sleeves. Paired with pant & dupatta. Sizes in XL to 10XL.
   Updated: 2025-10-08T11:40:30Z
   Vendor: The Plus Size Co.
@@ -122,12 +124,17 @@
     Availability: Available
     Price: ₹1,294.00 INR
 - [Plus Size Yellow Mandarin Cotton Straight Cut Suit- The Plus Size Co.](https://theplussizeco.com/products/yellow-mandarin-cotton-straight-cut-suit): Celebrate culture in comfort with our Yellow Mandarin Cotton Straight Cut Suit. Features cotton fabric and 3/4th sleeves. Paired with bottom. Sizes in XL to 10XL
-  Updated: 2025-10-06T19:13:19Z
+  Updated: 2025-10-23T11:34:16Z
   Vendor: The Plus Size Co.
   Product Type: Suit Sets
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/Lalita_TPSC_10_81d6ff7f-28a4-4d64-9fd6-769a3b16254a.png?v=1759734791
-  Price: ₹1,295.00 INR
+  Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/Lalita_TPSC_20_19c47314-b98d-4324-9509-fbfb99a762e6.png?v=1761219253
+  - [7XL](https://theplussizeco.com/products/yellow-mandarin-cotton-straight-cut-suit?variant=44720092217397)
+    Availability: Available
+    Price: ₹1,295.00 INR
+  - [10XL](https://theplussizeco.com/products/yellow-mandarin-cotton-straight-cut-suit?variant=44755828965429)
+    Availability: Available
+    Price: ₹1,295.00 INR
 - [Plus Size Yellow Printed Straight Cut Cotton Suit- The Plus Size Co.](https://theplussizeco.com/products/yellow-printed-straight-cut-cotton-suit): Bring sunshine to day with Yellow Printed Straight Cut Cotton Suit. Features cotton fabric and 3/4th sleeves. Paired with pant & dupatta . Sizes in XL to 10XL.
   Updated: 2025-10-06T20:08:45Z
   Vendor: The Plus Size Co.
@@ -231,17 +238,12 @@
   Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/Lime_Printed_Rayon_Short_Kurta_2.png?v=1753079532
   Price: ₹595.00 INR
 - [Plus Size Multi Hued Printed Everyday Kurta- The Plus Size Co.](https://theplussizeco.com/products/multi-hued-printed-everyday-kurta): Stay stylish and comfortable all day in our Multi Hued Printed Everyday Kurta. Features cotton fabric and V neckline. Sizes in XL to 10XL.
-  Updated: 2025-09-04T03:49:42Z
+  Updated: 2025-10-23T19:05:23Z
   Vendor: The Plus Size Co.
   Product Type: Short Kurtas
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/Lalita_TPSC_12.png?v=1754890831
-  - [3XL](https://theplussizeco.com/products/multi-hued-printed-everyday-kurta?variant=44627078807605)
-    Availability: Available
-    Price: ₹694.00 INR
-  - [10XL](https://theplussizeco.com/products/multi-hued-printed-everyday-kurta?variant=44643225960501)
-    Availability: Not Available
-    Price: ₹694.00 INR
+  Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/Lalita_TPSC_13_6292276b-8088-4061-981b-8bc79b8cae60.png?v=1761199441
+  Price: ₹694.00 INR
 - [Plus Size Navy Floral Everyday Rayon Kurta- The Plus Size Co.](https://theplussizeco.com/products/navy-floral-everyday-rayon-kurta): Everyday made stylish with our Navy Floral Everyday Rayon Kurta. Features rayon fabric and sweetheart neckline. Sizes in XL to 10XL.
   Updated: 2025-08-23T06:41:19Z
   Vendor: The Plus Size Co.
@@ -333,19 +335,13 @@
   Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/Lalita_TPSC_4_6f5619b8-6b7b-4c90-bbbf-628ba439224f.png?v=1760677962
   Price: ₹995.00 INR
 - [Plus Size Red Floral Cotton Co-ord Set With Pockets- The Plus Size Co.](https://theplussizeco.com/products/red-floral-cotton-co-ord-set-with-pockets): Bloom bright in red florals with our Red Floral Cotton Co-ord Set With Pockets. Features cotton fabric and 3/4th sleeves. Pair with pant. Sizes in XL to 10XL.
-  Updated: 2025-10-17T19:18:19Z
+  Updated: 2025-10-23T05:48:17Z
   Vendor: The Plus Size Co.
   Product Type: Co-ord Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/Lalita_TPSC_12_04193e8a-6133-485a-a1fb-976a7267b6d5.png?v=1760685492
-  - [3XL / 3XL](https://theplussizeco.com/products/red-floral-cotton-co-ord-set-with-pockets?variant=44743971930165)
-    Availability: Not Available
-    Price: ₹1,195.00 INR
-  - [3XL / 8XL](https://theplussizeco.com/products/red-floral-cotton-co-ord-set-with-pockets?variant=44743971962933)
-    Availability: Not Available
-    Price: ₹1,195.00 INR
-  - [7XL / 3XL](https://theplussizeco.com/products/red-floral-cotton-co-ord-set-with-pockets?variant=44743971995701)
-    Availability: Not Available
+  - [3XL / 3XL](https://theplussizeco.com/products/red-floral-cotton-co-ord-set-with-pockets?variant=44755627573301)
+    Availability: Available
     Price: ₹1,195.00 INR
   - [7XL / 8XL](https://theplussizeco.com/products/red-floral-cotton-co-ord-set-with-pockets?variant=44720075997237)
     Availability: Available
@@ -414,7 +410,7 @@
     Availability: Available
     Price: ₹795.00 INR
 - [Creamy Black Flared Rayon Dress with Pockets - The Plus Size Co](https://theplussizeco.com/products/creamy-black-flared-rayon-dress-with-pockets): Creamy black grace with our Creamy Black Flared Rayon Dress with Pockets. Features rayon fabric and V neckline. Sizes in XL to 10XL.
-  Updated: 2025-10-03T16:59:47Z
+  Updated: 2025-10-23T06:48:46Z
   Vendor: The Plus Size Co.
   Product Type: Dresses
   Availability: Available
@@ -436,17 +432,12 @@
     Availability: Available
     Price: ₹995.00 INR
 - [Plus Size Beige Printed Everyday Calf Dress with Pockets-ThePlusSizeCo](https://theplussizeco.com/products/beige-printed-everyday-calf-dress-with-pockets): Black elegance meets floral freshness in our Beige Printed Everyday Calf Dress with Pockets. Features sweetheart neckline and 3/4th sleeves. Sizes in XL to 10XL.
-  Updated: 2025-10-21T02:34:16Z
+  Updated: 2025-10-23T19:51:01Z
   Vendor: The Plus Size Co.
   Product Type: Dresses
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/Lalita_TPSC_87.png?v=1756978993
-  - [3XL](https://theplussizeco.com/products/beige-printed-everyday-calf-dress-with-pockets?variant=44669181984821)
-    Availability: Available
-    Price: ₹895.00 INR
-  - [6XL](https://theplussizeco.com/products/beige-printed-everyday-calf-dress-with-pockets?variant=44677237899317)
-    Availability: Not Available
-    Price: ₹895.00 INR
+  Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/Lalita_TPSC_15_da24dcce-e82a-4233-85a0-5b4bfbbcac43.png?v=1761200149
+  Price: ₹895.00 INR
 - [Plus Size Wine Safari Printed Cotton Co-ord Set - The Plus Size Co.](https://theplussizeco.com/products/wine-safari-printed-cotton-co-ord-set): Rule the wild in comfort with our Wine Safari Printed Cotton Co-ord Set. Features cotton fabric and V neckline. pair with pant. Sizes in XL to 10XL.
   Updated: 2025-10-09T04:29:21Z
   Vendor: The Plus Size Co.
@@ -462,14 +453,11 @@
   Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/WomenPlusSizeOceanMajestyElephantCo-ord_5.jpg?v=1753348848
   Price: ₹995.00 INR
 - [Plus Size Deep Yellow Cotton Straight Cut Kurta Set- The Plus Size Co.](https://theplussizeco.com/products/deep-yellow-cotton-straight-cut-kurta-set-copy)
-  Updated: 2025-10-15T17:53:21Z
+  Updated: 2025-10-23T18:40:59Z
   Vendor: The Plus Size Co.
   Product Type: Suit Sets
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/Lalita_TPSC_4_9bb17a6a-6f4d-4abc-9a37-bb8dca6a0e25.png?v=1758365600
-  - [4XL / 4XL](https://theplussizeco.com/products/deep-yellow-cotton-straight-cut-kurta-set-copy?variant=44688049537077)
-    Availability: Not Available
-    Price: ₹1,195.00 INR
+  Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/Lalita_TPSC_3_566fa2ea-c364-4895-8766-68f142b55439.png?v=1761197825
   - [6XL / 8XL](https://theplussizeco.com/products/deep-yellow-cotton-straight-cut-kurta-set-copy?variant=44711796539445)
     Availability: Available
     Price: ₹1,195.00 INR
@@ -686,7 +674,7 @@
   Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/WomenPlusSizePinkFloralCottonSuitSet_1.png?v=1755342864
   Price: ₹1,295.00 INR
 - [Plus Size Soft Charcoal Printed Cotton Suit Set- The Plus Size Co.](https://theplussizeco.com/products/charcoal-printed-cotton-suit-set): Elevate everyday look with our Charcoal Printed Cotton Suit Set. Features cotton fabric and sweetheart neckline. paired with pant and dupatta. sizes in XL to 10XL.
-  Updated: 2025-10-08T06:36:20Z
+  Updated: 2025-10-23T06:29:17Z
   Vendor: The Plus Size Co.
   Product Type: Suit Sets
   Availability: Available
@@ -815,25 +803,99 @@
   Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/Women_Plus_Size_Yellow_Floral_Cotton_Suit_Set.png?v=1758778320
   Price: ₹1,395.00 INR
 - [Mustard Floral Cotton Suit Set- The Plus Size Co.](https://theplussizeco.com/products/mustard-floral-cotton-suit-set): Serenity in every stitch with our Mustard Floral Cotton Suit Set. Features cotton fabric and 3/4th sleeves. Paired with pant and dupatta. Sizes in XL to 10XL.
-  Updated: 2025-10-18T12:22:21Z
+  Updated: 2025-10-23T06:16:51Z
   Vendor: The Plus Size Co.
   Product Type: Suit Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/WomenPlusSizeMustardSuitSet_1.png?v=1758624630
   Price: ₹1,295.00 INR
 - [Magenta Floral Cotton Suit Set- The Plus Size Co.](https://theplussizeco.com/products/magenta-floral-cotton-suit-set): Serenity in every stitch with our Soft Blue Floral Cotton Suit Set. Features cotton fabric and 3/4th sleeves. Paired with pant and dupatta. Sizes in XL to 10XL.
-  Updated: 2025-10-18T17:37:50Z
+  Updated: 2025-10-23T06:38:17Z
   Vendor: The Plus Size Co.
   Product Type: Suit Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/WomenPlusSizeHotPinkFloralSuitSet_2.png?v=1758625098
   Price: ₹1,295.00 INR
+- [Rust Floral Cotton Suit Set- The Plus Size Co.](https://theplussizeco.com/products/rust-floral-cotton-suit-set): Serenity in every stitch with our Rust Floral Cotton Suit Set. Features cotton fabric and 3/4th sleeves. Paired with pant and dupatta. Sizes in XL to 10XL.
+  Updated: 2025-10-23T11:05:27Z
+  Vendor: The Plus Size Co.
+  Product Type: Suit Sets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/Lalita_TPSC_19_806b1bfb-62eb-43e0-bf00-9965d43ba074.png?v=1761217522
+  - [4XL](https://theplussizeco.com/products/rust-floral-cotton-suit-set?variant=44733351591989)
+    Availability: Available
+    Price: ₹1,395.00 INR
+  - [7XL](https://theplussizeco.com/products/rust-floral-cotton-suit-set?variant=44755819757621)
+    Availability: Available
+    Price: ₹1,395.00 INR
+  - [9XL](https://theplussizeco.com/products/rust-floral-cotton-suit-set?variant=44755819790389)
+    Availability: Available
+    Price: ₹1,395.00 INR
 - [Black Floral Cotton Suit Set- The Plus Size Co.](https://theplussizeco.com/products/black-floral-cotton-suit-set): Serenity in every stitch with our Black Floral Cotton Suit Set. Features cotton fabric and 3/4th sleeves. Paired with pant and dupatta. Sizes in XL to 10XL.
-  Updated: 2025-10-19T03:46:05Z
+  Updated: 2025-10-23T11:19:10Z
   Vendor: The Plus Size Co.
   Product Type: Suit Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/WomenPlusSizeGreenFloralSuitSet_2.png?v=1758626259
+  Price: ₹1,395.00 INR
+- [Maroon Jaipuri Print Suit Set- The Plus Size Co.](https://theplussizeco.com/products/maroon-jaipuri-print-suit-set): Serenity in every stitch with our Maroon Jaipuri Print Suit Set. Features cotton fabric and 3/4th sleeves. Paired with pant and dupatta. Sizes in XL to 10XL.
+  Updated: 2025-10-23T10:49:08Z
+  Vendor: The Plus Size Co.
+  Product Type: Suit Sets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/Lalita_TPSC_18_b5dfebce-59e1-493c-9ec4-cde15ec1b2fc.png?v=1761216441
+  Price: ₹1,395.00 INR
+- [Mauve Block Suit Set- The Plus Size Co.](https://theplussizeco.com/products/mauve-block-suit-set): Serenity in every stitch with our Mauve Block Suit Set. Features cotton fabric and 3/4th sleeves. Paired with pant and dupatta. Sizes in XL to 10XL.
+  Updated: 2025-10-23T10:33:42Z
+  Vendor: The Plus Size Co.
+  Product Type: Suit Sets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/Lalita_TPSC_17_0720ce96-6874-49da-bfbd-305905c61a51.png?v=1761215604
+  Price: ₹1,395.00 INR
+- [Sky Blue Block Print Suit Set- The Plus Size Co.](https://theplussizeco.com/products/sky-blue-block-print-suit-set): Serenity in every stitch with our Sky Blue Block Print Suit Set. Features cotton fabric and 3/4th sleeves. Paired with pant and dupatta. Sizes in XL to 10XL.
+  Updated: 2025-10-23T10:19:35Z
+  Vendor: The Plus Size Co.
+  Product Type: Suit Sets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/Lalita_TPSC_15_4fb19c18-3557-4c98-85c2-aa6c59d0d3ea.png?v=1761214774
+  - [XL](https://theplussizeco.com/products/sky-blue-block-print-suit-set?variant=44718546616373)
+    Availability: Available
+    Price: ₹1,395.00 INR
+  - [3XL](https://theplussizeco.com/products/sky-blue-block-print-suit-set?variant=44718546681909)
+    Availability: Available
+    Price: ₹1,395.00 INR
+- [Yellow Cotton Suit Set- The Plus Size Co.](https://theplussizeco.com/products/yellow-cotton-suit-set): Serenity in every stitch with our Yellow Cotton Suit Set. Features cotton fabric and 3/4th sleeves. Paired with pant and dupatta. Sizes in XL to 10XL.
+  Updated: 2025-10-23T09:58:01Z
+  Vendor: The Plus Size Co.
+  Product Type: Suit Sets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/Lalita_TPSC_13_d85fa0a3-b026-42c7-a57e-cfcb71bbb164.png?v=1761213480
+  Price: ₹1,395.00 INR
+- [Bright Yellow Floral Cotton Suit Set- The Plus Size Co.](https://theplussizeco.com/products/bright-yellow-floral-cotton-suit-set): Serenity in every stitch with our Bright Yellow Floral Cotton Suit Set. Features cotton fabric and 3/4th sleeves. Paired with pant and dupatta. Sizes in XL to 10XL.
+  Updated: 2025-10-23T09:56:59Z
+  Vendor: The Plus Size Co.
+  Product Type: Suit Sets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/Lalita_TPSC_3_c7e1dfb9-608a-4192-baf7-23e25a58417f.png?v=1761213414
+  - [XL / XL](https://theplussizeco.com/products/bright-yellow-floral-cotton-suit-set?variant=44717620166709)
+    Availability: Available
+    Price: ₹1,395.00 INR
+  - [4XL / 7XL](https://theplussizeco.com/products/bright-yellow-floral-cotton-suit-set?variant=44755762348085)
+    Availability: Available
+    Price: ₹1,395.00 INR
+- [Sky Blue Floral Cotton Suit Set- The Plus Size Co.](https://theplussizeco.com/products/sky-blue-floral-cotton-suit-set): Serenity in every stitch with our Sky Blue Floral Cotton Suit Set. Features cotton fabric and 3/4th sleeves. Paired with pant and dupatta. Sizes in XL to 10XL.
+  Updated: 2025-10-23T11:10:18Z
+  Vendor: The Plus Size Co.
+  Product Type: Suit Sets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/Lalita_TPSC_ef152b93-5e75-4f73-8c6b-c52cccfb4d37.png?v=1761212083
+  Price: ₹1,395.00 INR
+- [Soft Blue Floral Cotton Suit Set- The Plus Size Co.](https://theplussizeco.com/products/soft-pink-floral-suit-set): Serenity in every stitch with our Soft Blue Floral Cotton Suit Set. Features cotton fabric and 3/4th sleeves. Paired with pant and dupatta. Sizes in XL to 10XL.
+  Updated: 2025-10-23T11:10:19Z
+  Vendor: The Plus Size Co.
+  Product Type: Suit Sets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/Lalita_TPSC_16_796cb9ec-4fde-432e-89c2-27c14dc11257.png?v=1761211393
   Price: ₹1,395.00 INR
 
 ## Collections
@@ -845,7 +907,7 @@
   Updated: 2025-10-19T11:20:18Z
   Total Products: 26
 - [Plus Size Kurta Sets for Women in XL to 10XL - The Plus Size Co.](https://theplussizeco.com/collections/plus-size-kurta-sets): Shop Stylish & Affordable Kurta Sets for women at The Plus Size Co. Designed for sizes up to 10XL, our ethnic wear combines comfort, trend, and perfect fit.
-  Updated: 2025-10-19T11:20:18Z
+  Updated: 2025-10-23T11:10:20Z
   Total Products: 57
 - [Plus Size Night Gowns for Women | Sleepwear up to 10XL – The Plus Size Co.](https://theplussizeco.com/collections/plus-size-nightwear): Shop Comfy and Stylish Plus Size Night Gowns for Women in soft, breathable fabrics. Sizes from XL to 10XL. Perfect for restful nights at budget-friendly prices.
   Updated: 2025-10-19T11:20:18Z
@@ -854,13 +916,13 @@
   Updated: 2025-10-15T07:44:04Z
   Total Products: 26
 - [Affordable Plus Size Dresses – M to 10XL | The Plus Size Co.](https://theplussizeco.com/collections/plus-size-dresses): Discover Plus Size Dresses with Pockets for Women in flattering fits and trendy styles. Available in sizes XL to 10XL. Affordable, functional, and made for curves.
-  Updated: 2025-10-21T11:19:42Z
+  Updated: 2025-10-23T06:06:37Z
   Total Products: 19
 - [Affordable Plus Size Office Wear for Women  | The Plus Size Co.](https://theplussizeco.com/collections/plus-size-office-wear): Upgrade your Work Wardrobe with Stylish and Budget-Friendly Plus Size Office Wear. Explore Suits, Co-ord Sets, Kurtas & more in Sizes XL to 10XL.
-  Updated: 2025-10-19T11:20:18Z
+  Updated: 2025-10-23T05:30:09Z
   Total Products: 25
 - [Plus Size Vacation Wear – Dresses, Kurtas & Co-ords| The Plus Size Co.](https://theplussizeco.com/collections/plus-size-vacation-wear): Plan your getaway in style with our Plus Size Vacation Wear. Shop Breezy Dresses, Chic Kurtas & Comfy Co-ord Sets in Sizes XL to 10XL. Travel-friendly & trendy!
-  Updated: 2025-10-21T11:19:42Z
+  Updated: 2025-10-23T06:06:37Z
   Total Products: 40
 - [Trending Products](https://theplussizeco.com/collections/plus-size-trending-products)
   Updated: 2025-10-19T11:20:18Z
@@ -873,13 +935,13 @@ Sizes XL to 10XL without compromising on style or comfort.
   Updated: 2025-10-19T11:20:18Z
   Total Products: 36
 - [Trendy Plus Size Styles Under ₹999 – Sizes XL to 10XL | The Plus Size Co.](https://theplussizeco.com/collections/plus-size-fashion-under-899): Discover Stylish Plus Size Fashion under ₹999 at The Plus Size Co. Shop Co-ord Sets, Night Gowns, Kurtas, Tops & Dresses in sizes XL to 10XL. Budget-friendly!
-  Updated: 2025-10-21T11:19:42Z
+  Updated: 2025-10-23T06:06:37Z
   Total Products: 41
 - [Plus Size Ethnic Wear Under ₹999 – Sizes XL to 10XL | The Plus Size Co.](https://theplussizeco.com/collections/plus-size-fashion-under-999): Discover Stylish Plus Size Fashion under ₹999 at The Plus Size Co. Shop Co-ord Sets, Night Gowns, Kurtas, Tops & Dresses in sizes XL to 10XL. Budget-friendly, curve-loving fits!
-  Updated: 2025-10-21T11:19:42Z
+  Updated: 2025-10-23T06:06:37Z
   Total Products: 67
 - [Western Wear](https://theplussizeco.com/collections/western-wear-1)
-  Updated: 2025-10-21T11:19:42Z
+  Updated: 2025-10-23T06:06:37Z
   Total Products: 45
 
 ## Blogs
