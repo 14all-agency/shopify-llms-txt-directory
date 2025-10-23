@@ -6,7 +6,7 @@
 - Timezone: Australia/Melbourne
 - Created At: 2025-08-13T08:46:37Z
 - Contact Email: scott@nessypopart.com
-- Updated At: 2025-10-23T00:00:51.856Z
+- Updated At: 2025-10-23T12:00:44.599Z
 
 ## Products
 
@@ -1368,6 +1368,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-originals-hoodie-boy-man-on-the-moon-framed-acrylic-30x40cm-hero.jpg?v=1759823813
   Price: $1,195.00 AUD
+- [The Bark Side | Playful Dog Art Framed Canvas Painting by Nessy](https://nessypopart.com/products/the-bark-side): Celebrate canine charm with The Bark Side, a playful dog art painting featuring 10 expressive pups in a vibrant cartoon-style cluster. Perfect for dog lovers!
+  Updated: 2025-10-23T07:37:53Z
+  Vendor: Nessy Pop Art
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-originals-the-bark-side-dogs-framed-acrylic-canvas-16x20in-hero.jpg?v=1761204267
+  Price: $1,495.00 AUD
 
 ## Collections
 
@@ -1378,8 +1385,8 @@
   Updated: 2025-09-15T07:48:42Z
   Total Products: 1
 - [Original Paintings](https://nessypopart.com/collections/original-paintings): Discover Ness’s original pop art paintings—each one a one-of-a-kind emotional expression captured in bold acrylic. These works explore vulnerability, defiance, joy, and connection with a raw, painterly intensity. Originals are available exclusively as single editions, hand-created with depth and purpose.
-  Updated: 2025-10-07T08:31:54Z
-  Total Products: 22
+  Updated: 2025-10-23T07:18:17Z
+  Total Products: 23
 - [Limited Editions](https://nessypopart.com/collections/limited-editions): Shop Nessy Pop Art’s Limited Editions—bold, rare, and emotionally rich prints. Collector-worthy art with meaning, joy, and vibrant storytelling.
   Updated: 2025-09-27T05:25:29Z
   Total Products: 7
@@ -1402,8 +1409,8 @@
   Updated: 2025-10-04T04:06:55Z
   Total Products: 3
 - [NEW!](https://nessypopart.com/collections/new): Explore Nessy Pop Art’s newest paintings and prints—bold, emotional, and collector-worthy. Limited editions with meaning, joy, and vibrant storytelling.
-  Updated: 2025-10-08T08:02:35Z
-  Total Products: 13
+  Updated: 2025-10-23T07:18:17Z
+  Total Products: 14
 - [Superhero Open Editions](https://nessypopart.com/collections/superhero-open-editions): Capes? Optional. Attitude? Mandatory. The SUPERHERO Series blasts through the comic cosmos with Ness’s signature pop-art satire and four-legged flair. These Open Edition Giclée prints—each available in 18x18cm and 30x30cm—feature heroic hounds like Spiderdog, Thanos, The Incredible Pug, Wonderhound, and Captain Bulldog. Each print is a tribute to resilience and comic absurdity—where superpowers meet drool and dignity. The textures pop, the humor bites, and every snarl or side-eye packs an emotional punch. These affordable prints are a dog-lover’s dream and a comic geek’s delight.
   Updated: 2025-09-01T06:51:03Z
   Total Products: 6
