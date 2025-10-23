@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2023-05-03T12:56:46Z
 - Contact Email: bluenixiein23@gmail.com
-- Updated At: 2025-10-22T00:00:42.021Z
+- Updated At: 2025-10-23T00:00:55.591Z
 
 ## Products
 
@@ -2483,7 +2483,7 @@
     Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BN1078White_4.jpg?v=1686816182
     Price: ₹299.00 INR
 - [Bluenixie BN1701 Cotton Rich Full Coverage Bra](https://bluenixie.com/products/cotton-rich-full-coverage-bra): Shop Bluenixie BN1701 Cotton Rich Full Coverage Bra with molded cups & ultra-thin foam for all-day comfort. Perfect for tight & ethnic wear. Removable straps included.
-  Updated: 2025-10-21T15:16:26Z
+  Updated: 2025-10-22T03:30:11Z
   Vendor: Blue Nixie
   Product Type: Full coverage bra
   Availability: Available
@@ -5579,7 +5579,7 @@
     Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNT2022SKYBLUE_2_d8ccf3cf-147c-4220-870c-c25f1dd0be16.jpg?v=1691413727
     Price: ₹745.00 INR
 - [BlueNixie Shorts For Women With Both Side Pocket/Piping](https://bluenixie.com/products/shorts-for-women-with-both-side-pocket): Step into style and comfort with our Bluenixie Printed Shorts for Women. Crafted from Hosiery Cotton fabric, these shorts feature both side pockets, piping details, and a drawstring closure. Available in sizes S to 2XL, they're the perfect blend of fashion and ease. Embrace relaxed elegance for any occasion with Bluenixie!
-  Updated: 2025-05-14T11:12:19Z
+  Updated: 2025-10-22T03:35:07Z
   Vendor: Blue Nixie
   Product Type: Lounge wear
   Availability: Available
@@ -6758,9 +6758,9 @@
     Updated: 2023-09-18T09:45:22Z
     Author: Blue Nixie
   - [How to Take a Breast Root Trace - The Ultimate Guide by BlueNixie 👙](https://bluenixie.com/blogs/news/finding-your-perfect-bra-fit-with-bluenixie)
-    Updated: 2023-09-21T06:49:44Z
+    Updated: 2025-10-22T14:36:13Z
     Author: Blue Nixie
-    Tags: Bra, cotton bra, everyday bra, hosiery cotton bra, Sports bra, T-shirts bra, Teenager Bra
+    Tags: Bra, bra sizes, cotton bra, everyday bra, hosiery cotton bra, how to measure bra size, Sports bra, T-shirts bra, Teenager Bra
   - [The Complete Bra Size Calculator Guide: Find Your True Size in 5 Steps](https://bluenixie.com/blogs/news/the-complete-bra-size-calculator-guide-find-your-true-size-in-5-steps): <p>Learn how to measure bra size accurately with our step-by-step guide. Find your perfect fit using our bra size calculator method. Free sizing chart included.</p>
     Updated: 2025-09-05T20:48:53Z
     Author: Blue Nixie
