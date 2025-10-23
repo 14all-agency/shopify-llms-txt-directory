@@ -8,7 +8,7 @@
 - Timezone: Europe/London
 - Created At: 2021-01-17T01:03:23Z
 - Contact Email: contact@crystalshealing.co.uk
-- Updated At: 2025-10-22T04:00:38.497Z
+- Updated At: 2025-10-23T00:00:38.271Z
 
 # Crystals Healing — AI-Ready Index
 Welcome to Crystals Healing, your trusted UK-based store for healing crystals and jewelry. This llms.txt file lists all products, collections, blogs, and pages to help AI assistants, search engines, and shopping bots discover and understand our offerings.
@@ -90,7 +90,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
     Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/20211210_125756-PhotoRoom_1.jpg?v=1739737220
     Price: £26.00 GBP
 - [Radiant Energy Bracelet – Crystal Power & Balance](https://crystalshealing.co.uk/products/radiant-energy-bracelet): Infuse your life with radiant energy and balance. Handcrafted from Clear Quartz, Carnelian, Citrine, Sunstone, and Rose Quartz.
-  Updated: 2025-10-21T15:38:32Z
+  Updated: 2025-10-22T07:58:02Z
   Vendor: Crystals Healing
   Product Type: Bracelets
   Availability: Available
@@ -2773,7 +2773,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
     Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/20211210_125756-PhotoRoom_3_dce6ae3d-2264-4a05-b587-7c4989c547e2.jpg?v=1739739015
     Price: £21.00 GBP
 - [Reiki Charged Chakra Bracelet - Energy & Healing](https://crystalshealing.co.uk/products/reiki-charged-chakra-bracelet): Enhance your energy flow with the Reiki Charged Chakra Bracelet, crafted to balance chakras, promote healing, and support inner harmony.
-  Updated: 2025-10-01T15:01:11Z
+  Updated: 2025-10-22T15:18:05Z
   Vendor: Crystals Healing
   Product Type: Bracelets
   Availability: Available
@@ -3870,7 +3870,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
   Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/20230505_104059-Photoroom_12_1_-min.jpg?v=1739739860
   Price: £5.30 GBP
 - [Rose Quartz Polished Tumblestone](https://crystalshealing.co.uk/products/rose-quartz-polished-tumblestone): Indulge in the soothing embrace of our Rose Quartz Polished Tumblestone, meticulously crafted from the finest rose quartz. As you hold this enchanting gemstone, feel its gentle energy enveloping you, creating a sanctuary of love and compassion amidst life's challenges. Rose quartz is revered for its ability to open the heart chakra, promoting unconditional love, forgiveness, and emotional healing. Allow its nurturing vibrations to wash away negativity and replace it with an abundance of love, both for yourself and others. With each touch of this polished tumblestone, you'll find yourself drawn deeper into a state of inner peace and harmony. Its soft, nurturing energy encourages self-love and acceptance, helping you to release past wounds and embrace the beauty of your authentic self. Whether you're seeking to attract love, deepen existing relationships, or simply cultivate a greater sense of compassion, the rose quartz tumblestone serves as a gentle reminder of the power of love in all its forms. Carry it with you throughout the day as a talisman of love and healing, or place it on your altar during meditation to amplify its heart-opening properties. Each tumblestone is unique, with its own delicate pink hues and natural patterns, adding to its beauty and charm. Embrace the transformative energy of rose quartz and let it infuse your life with an abundance of love, joy, and inner peace. You receive: 1 x Rose Quartz Polished Tumblestone 1 X Organza bag 1 X Description Card Size and shape may vary. Stones sold individually
-  Updated: 2025-10-01T15:01:17Z
+  Updated: 2025-10-22T14:16:37Z
   Vendor: Crystals Healing
   Product Type: Polished Tumblestone
   Availability: Available
@@ -3888,7 +3888,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
     Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/20230505_104059-Photoroom_3_1_-min.jpg?v=1739771441
     Price: £4.40 GBP
 - [Citrine Polished Tumblestone](https://crystalshealing.co.uk/products/citrine-polished-tumblestone): Immerse yourself in the radiant energy of our Citrine Polished Tumblestone, meticulously crafted from the finest citrine. As you hold this captivating gemstone, feel its warm, uplifting energy enveloping you, creating a sanctuary of positivity and abundance amidst life's endeavors. Citrine is renowned for its ability to attract prosperity, success, and joy, making it the perfect companion for manifesting your dreams and goals. Allow its vibrant vibrations to dissolve any self-imposed limitations and ignite your inner fire, empowering you to pursue your passions with confidence and enthusiasm. With each touch of this polished tumblestone, you'll find yourself drawn deeper into a state of empowerment and optimism. Its sunny disposition dispels negativity and infuses your spirit with a renewed sense of vitality and purpose. Whether you're seeking to enhance your creativity, boost your confidence, or attract abundance in all its forms, the citrine tumblestone serves as a potent catalyst for transformation. Carry it with you throughout the day as a talisman of prosperity and inspiration, or place it on your altar during meditation to amplify its manifestation properties. Each Citrine Polished Tumblestone is unique, with its own golden hues and natural formations, adding to its allure and charm. Embrace the transformative energy of citrine and let it illuminate your path with abundance, joy, and endless possibilities. You receive: 1 x Citrine Polished Tumblestone 1 X Organza bag 1 X Description Card Each stone weighs approx 21-29g. Size and shape may vary. Stones sold individually
-  Updated: 2025-10-01T15:01:17Z
+  Updated: 2025-10-22T14:16:33Z
   Vendor: Crystals Healing
   Product Type: Polished Tumblestone
   Availability: Available
@@ -3900,7 +3900,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
     Availability: Available
     Price: £6.20 GBP
 - [Sodalite Polished Tumblestone](https://crystalshealing.co.uk/products/sodalite-polished-tumblestone): Enter the tranquil embrace of our Sodalite Polished Tumblestone, meticulously shaped from the finest sodalite. As you hold this captivating gem, feel its serene energy enveloping you, creating a sanctuary of peace and clarity amidst life's hustle. Sodalite is esteemed for its ability to enhance intuition, stimulate creativity, and foster inner harmony, making it an ideal companion for meditation and self-reflection. Allow its calming vibrations to dissolve stress and confusion, guiding you towards a state of profound insight and tranquility. With each touch of this polished tumblestone, you'll find yourself drawn deeper into a realm of inner wisdom and self-discovery. Its gentle yet potent energy encourages you to trust your instincts and embrace your authentic voice, empowering you to express yourself with confidence and clarity. Whether you're seeking to enhance your psychic abilities, unlock your creative potential, or simply find solace in moments of introspection, the sodalite tumblestone serves as a steadfast ally on your journey of self-realization. Carry it with you throughout the day as a touchstone for inner peace and clarity, or place it on your altar during meditation to amplify its intuitive properties. Each Sodalite Polished Tumblestone is unique, with its own captivating shades of blue and natural patterns, adding to its allure and charm. Embrace the transformative energy of sodalite and let it guide you towards a life filled with insight, inspiration, and authentic expression. You receive: 1 x Sodalite Polished Tumblestone 1 X Organza bag 1 X Description Card Size and shape may vary. Stones sold individually
-  Updated: 2025-10-01T15:01:17Z
+  Updated: 2025-10-22T14:16:33Z
   Vendor: Crystals Healing
   Product Type: Polished Tumblestone
   Availability: Available
@@ -3928,7 +3928,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
     Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/20230505_104059-Photoroom_13_1_-min_35302b0d-5d06-4d90-bf33-e594c0e1fc86.jpg?v=1739739890
     Price: £5.30 GBP
 - [Amethyst Polished Tumblestone](https://crystalshealing.co.uk/products/amethyst-polished-tumblestone): Immerse yourself in the tranquil energy of our Amethyst Polished Tumblestone, meticulously carved from the finest amethyst. As you hold this enchanting gem, feel its soothing vibrations enveloping you, creating a haven of peace and serenity amidst life's chaos. Amethyst is revered for its ability to calm the mind, promote spiritual growth, and enhance intuition, making it an essential tool for meditation and inner exploration. Allow its gentle energy to dissolve stress and tension, guiding you towards a state of deep relaxation and inner harmony. With each touch of this polished tumblestone, you'll feel a sense of connection to the higher realms and a profound shift in your consciousness. Its ethereal presence invites you to release negative energies and embrace a renewed sense of clarity and purpose. Whether you're seeking to deepen your spiritual practice, enhance your psychic abilities, or simply find solace in moments of solitude, the amethyst tumblestone serves as a beacon of light on your journey of self-discovery. Carry it with you throughout the day as a talisman of tranquility and protection, or place it on your altar during meditation to amplify its healing properties. Each Amethyst Polished Tumblestone is a unique masterpiece, with its own variations in color and pattern, adding to its beauty and allure. Embrace the transformative energy of amethyst and let it guide you towards a life filled with inner peace, spiritual wisdom, and profound insight. You receive: 1 x Amethyst Polished Tumblestone 1 X Organza bag 1 X Description Card Size and shape may vary. Stones sold individually
-  Updated: 2025-10-01T15:01:17Z
+  Updated: 2025-10-22T14:16:33Z
   Vendor: Crystals Healing
   Product Type: Polished Tumblestone
   Availability: Available
@@ -3946,7 +3946,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
     Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/20230505_104059-Photoroom_15_1_-min.jpg?v=1739739893
     Price: £3.30 GBP
 - [Carnelian Polished Tumblestone](https://crystalshealing.co.uk/products/carnelian-polished-tumblestone): Step into the vibrant energy of our Carnelian Polished Tumblestone, meticulously crafted from the finest carnelian. As you hold this captivating gem, feel its warm and invigorating vibrations enveloping you, creating a sanctuary of vitality and creativity amidst life's endeavors. Carnelian is esteemed for its ability to ignite passion, boost confidence, and stimulate the flow of creative energy, making it an essential companion for artists, entrepreneurs, and anyone seeking to manifest their dreams into reality. Allow its fiery energy to awaken your inner flame, inspiring you to pursue your passions with courage and determination. With each touch of this polished tumblestone, you'll feel a surge of motivation and vitality coursing through your being. Its dynamic presence encourages you to seize the day and embrace new opportunities with enthusiasm and optimism. Whether you're seeking to enhance your vitality, overcome obstacles, or ignite your creative spark, the carnelian tumblestone serves as a powerful ally on your journey of self-empowerment. Carry it with you throughout the day as a talisman of courage and creativity, or place it on your altar during meditation to amplify its transformative properties. Each Carnelian Polished Tumblestone is a unique work of art, with its own variations in color and pattern, adding to its charm and allure. Embrace the vibrant energy of carnelian and let it fuel your passions, ignite your creativity, and propel you towards a life filled with purpose and fulfillment. You receive: 1 x Carnelian Polished Tumblestone 1 X Organza bag 1 X Description Card Size and shape may vary. Stones are sold individually.
-  Updated: 2025-10-01T15:01:17Z
+  Updated: 2025-10-22T14:16:35Z
   Vendor: Crystals Healing
   Product Type: Polished Tumblestone
   Availability: Available
@@ -3974,7 +3974,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
     Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/20230505_104059-Photoroom_6_1_-min_bf814bb5-de0f-4bda-a81d-7ba4a3d42e5e.jpg?v=1739739910
     Price: £3.99 GBP
 - [Green Aventurine Polished Tumblestone](https://crystalshealing.co.uk/products/green-aventurine-polished-tumblestone): Step into the soothing energy of our Green Aventurine Polished Tumblestone, meticulously crafted from the finest green aventurine. As you hold this captivating gem, feel its calming vibrations enveloping you, creating a sanctuary of abundance and tranquility amidst life's hustle. Green aventurine is revered for its ability to attract prosperity, promote emotional healing, and encourage personal growth, making it an essential tool for those seeking to manifest their dreams and cultivate inner peace. Allow its gentle energy to wash away stress and anxiety, guiding you towards a state of balance and harmony. With each touch of this polished tumblestone, you'll feel a sense of renewal and optimism infusing your spirit. Its nurturing presence inspires you to embrace new opportunities and pursue your goals with confidence and determination. Whether you're seeking to attract abundance into your life, heal past wounds, or simply find solace in moments of quiet reflection, the green aventurine tumblestone serves as a steadfast companion on your journey of self-discovery. Carry it with you throughout the day as a talisman of prosperity and healing, or place it on your altar during meditation to amplify its transformative properties. Each tumblestone is a unique work of nature, with its own variations in color and pattern, adding to its beauty and allure. Embrace the abundant energy of green aventurine and let it guide you towards a life filled with joy, abundance, and inner peace. You receive: 1 x Green Aventurine Polished Tumblestone 1 X Organza bag 1 X Description Card Size and shape may vary. Stones sold individually
-  Updated: 2025-10-01T15:01:17Z
+  Updated: 2025-10-22T14:16:34Z
   Vendor: Crystals Healing
   Product Type: Polished Tumblestone
   Availability: Available
@@ -3988,7 +3988,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
     Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/20230505_104059-Photoroom_1_1_-min_fdb70c74-5cc0-4c35-abab-2c52580ffd15.jpg?v=1739739917
     Price: £3.50 GBP
 - [Clear Quartz Polished Tumblestone](https://crystalshealing.co.uk/products/clear-quartz-polished-tumblestone): Amplify your energy with a Clear Quartz polished tumblestone. Enhance clarity, focus, and spiritual growth with this versatile healing crystal. As you hold this captivating gem, feel its radiant vibrations enveloping you, creating a sanctuary of clarity and amplification amidst life's complexities. Clear quartz is revered for its ability to amplify energy, enhance focus, and facilitate spiritual growth, making it an indispensable tool for meditation and manifestation. Allow its pristine energy to cleanse your mind, uplift your spirit, and guide you towards a state of profound insight and enlightenment. With each touch of this polished tumblestone, you'll feel a sense of expansion and renewal coursing through your being. Its ethereal presence invites you to release any stagnant energies and embrace a new sense of possibility and potential. Whether you're seeking to enhance your intuition, amplify your intentions, or simply connect with the divine, the clear quartz tumblestone serves as a radiant beacon on your journey of self-realization. Carry it with you throughout the day as a talisman of clarity and amplification, or place it on your altar during meditation to amplify its healing properties. Each Clear Quartz Polished Tumblestone is a unique masterpiece, with its own variations in clarity and brilliance, adding to its allure and mystique. Embrace the transformative energy of clear quartz and let it illuminate your path with clarity, purpose, and divine guidance. You receive: 1 x Clear Quartz Polished Tumblestone 1 X Organza bag 1 X Description Card Size and shape may vary. Stones sold individually
-  Updated: 2025-10-01T15:01:17Z
+  Updated: 2025-10-22T14:16:33Z
   Vendor: Crystals Healing
   Product Type: Polished Tumblestone
   Availability: Available
@@ -4002,7 +4002,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
     Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/20230505_104059-Photoroom_9_1_-min.jpg?v=1739739923
     Price: £2.99 GBP
 - [Lepidolite Polished Tumblestone](https://crystalshealing.co.uk/products/lepidolite-polished-tumblestone): Step into the tranquil energy of our Lepidolite Polished Tumblestone, meticulously crafted from the finest lepidolite. As you hold this captivating gem, feel its soothing vibrations enveloping you, creating a haven of calm amidst life's chaos. Lepidolite is revered for its ability to promote relaxation, relieve stress, and balance emotions, making it an essential tool for those seeking inner peace and emotional healing. Allow its gentle energy to dissolve tension and anxiety, guiding you towards a state of serenity and tranquility. With each touch of this polished tumblestone, you'll feel a sense of peace and harmony washing over you. Its comforting presence encourages you to release any worries or fears and embrace a renewed sense of well-being and joy. Whether you're seeking to soothe your mind, nurture your spirit, or find solace in moments of solitude, the Lepidolite Polished Tumblestone serves as a steadfast companion on your journey of self-care and healing. Carry it with you throughout the day as a talisman of relaxation and balance, or place it on your altar during meditation to amplify its calming properties. Each tumblestone is a unique work of nature, with its own variations in color and texture, adding to its charm and allure. Embrace the tranquil energy of lepidolite and let it guide you towards a life filled with peace, harmony, and emotional well-being. You receive: 1 x Lepidolite Polished Tumblestone 1 X Organza bag 1 X Description Card Size and shape may vary. Stones sold individually
-  Updated: 2025-10-01T15:01:17Z
+  Updated: 2025-10-22T14:16:34Z
   Vendor: Crystals Healing
   Product Type: Polished Tumblestone
   Availability: Available
@@ -4015,7 +4015,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
     Availability: Available
     Price: £3.99 GBP
 - [Tigers Eye Polished Tumblestone](https://crystalshealing.co.uk/products/tigers-eye-polished-tumblestone): Step into the vibrant energy of our Tiger's Eye Polished Tumblestone, meticulously crafted from the finest tiger's eye gemstone. As you hold this captivating gem, feel its empowering vibrations enveloping you, creating a sanctuary of courage and confidence amidst life's challenges. Tiger's Eye is revered for its ability to instill bravery, enhance focus, and attract abundance, making it an indispensable tool for those seeking strength and prosperity. Allow its dynamic energy to ignite your inner fire, empowering you to overcome obstacles and embrace new opportunities with courage and determination. With each touch of this polished tumblestone, you'll feel a surge of vitality and resilience coursing through your being. Its grounding presence encourages you to trust your instincts and take bold steps towards your goals, inspiring you to seize the day and pursue your dreams with unwavering determination. Whether you're seeking to boost your confidence, enhance your willpower, or attract success in all areas of your life, the tiger's eye tumblestone serves as a powerful ally on your journey of self-empowerment. Carry it with you throughout the day as a talisman of courage and prosperity, or place it on your altar during meditation to amplify its transformative properties. Each tumblestone is a unique work of nature, with its own variations in color and pattern, adding to its charm and allure. Embrace the dynamic energy of tiger's eye and let it guide you towards a life filled with strength, abundance, and limitless potential. You receive: 1 x Tigers Eye Polished Tumblestone 1 X Organza bag 1 X Description Card Size and shape may vary. Stones sold individually
-  Updated: 2025-10-01T15:01:17Z
+  Updated: 2025-10-22T14:16:34Z
   Vendor: Crystals Healing
   Product Type: Polished Tumblestone
   Availability: Available
@@ -4788,18 +4788,11 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/Etsy-PhotoRoom_3_81a7eed0-2a79-4967-8b58-a858fcc58d79.jpg?v=1754663688
   Price: £7.80 GBP
-- [Amazonite Crystal](https://crystalshealing.co.uk/products/amazonite-crystal): Amazonite Crystal 24 Grams
-  Updated: 2025-10-21T17:15:01Z
-  Vendor: Crystals Healing
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/1000032139-Photoroom_66.avif?v=1761066734
-  Price: £4.20 GBP
 
 ## Collections
 
 - [Smudging Kits](https://crystalshealing.co.uk/collections/smudging-kits): Cleanse your space and energy with curated smudging kits. Featuring sage, palo santo, Selenite, crystals & shells — perfect for spiritual rituals, home clearing, or meaningful self-care. Ethically & respectfully sourced.
-  Updated: 2025-10-18T11:16:43Z
+  Updated: 2025-10-22T11:20:09Z
   Total Products: 10
 - [Crystal Pendulums](https://crystalshealing.co.uk/collections/pendulums): Discover crystal pendulums for energy work, divination and spiritual guidance. Ethically made using natural stones – ideal for rituals, healing and intention.
   Updated: 2025-10-01T15:00:55Z
@@ -4817,7 +4810,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
   Updated: 2025-10-20T15:05:41Z
   Total Products: 50
 - [Healing Crystal Bracelets](https://crystalshealing.co.uk/collections/crystal-bracelets): Discover our healing crystal bracelets, handcrafted with ethically sourced stones. Wear daily to support emotional balance, protection, love, and inner strength
-  Updated: 2025-10-21T15:36:46Z
+  Updated: 2025-10-22T11:20:09Z
   Total Products: 176
 - [Zodiac Crystals Set](https://crystalshealing.co.uk/collections/zodiac-crystals-set): Discover crystal sets aligned with each zodiac sign — curated for energy, personality and purpose. Ethically sourced stones chosen to support your unique astrological journey.
   Updated: 2025-10-01T15:00:55Z
@@ -4835,10 +4828,10 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
   Updated: 2025-10-01T15:00:55Z
   Total Products: 11
 - [Chakra Crystals](https://crystalshealing.co.uk/collections/chakra-crystals): Balance your energy with chakra crystals, bracelets, and keychains. From Root to Crown, each ethically sourced piece is made to support healing, alignment, and inner clarity.
-  Updated: 2025-10-01T15:00:55Z
+  Updated: 2025-10-22T11:20:09Z
   Total Products: 49
 - [Aromatherapy Crystals](https://crystalshealing.co.uk/collections/aromatherapy): Combine the power of scent and stone. Our aromatherapy crystals and diffuser jewelry are crafted to enhance relaxation, focus, and energetic balance - ethically made with intention.
-  Updated: 2025-10-18T11:16:43Z
+  Updated: 2025-10-22T11:20:09Z
   Total Products: 27
 - [Birthstone Bracelets](https://crystalshealing.co.uk/collections/birthstone-bracelets): Celebrate your birth month with our healing birthstone bracelets. Each piece is infused with the energy of its matching crystal — from Garnet in January to Turquoise in December. Beautiful, meaningful and perfect for gifting or intention-setting.
   Updated: 2025-10-01T15:00:56Z
@@ -4862,16 +4855,16 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
   Updated: 2025-10-01T15:00:56Z
   Total Products: 15
 - [Women's Crystal Jewellery](https://crystalshealing.co.uk/collections/womens-crystal-jewellery): Embrace feminine energy with crystal jewellery made for women. Explore handcrafted bracelets, necklaces & rings with stones like Rose Quartz, Amethyst & Moonstone — for love, intuition, balance & self-worth.
-  Updated: 2025-10-21T15:36:46Z
+  Updated: 2025-10-22T11:20:09Z
   Total Products: 227
 - [Manifest Intention Jewelry](https://crystalshealing.co.uk/collections/manifest-intention): Wear your intentions with purpose. Our crystal jewelry is designed to support manifestation, clarity, and alignment - featuring Citrine, Clear Quartz, and other high-vibration stones.
-  Updated: 2025-10-21T15:37:15Z
+  Updated: 2025-10-22T11:20:09Z
   Total Products: 59
 - [Moonstone Crystals](https://crystalshealing.co.uk/collections/moonstone-crystals): Connect to feminine energy and intuition with Moonstone crystals. Explore raw stones, tumbled pieces, bracelets and pendants — perfect for new beginnings, inner balance, and emotional healing.
-  Updated: 2025-10-01T15:00:56Z
+  Updated: 2025-10-22T11:20:09Z
   Total Products: 9
 - [Healing Crystals](https://crystalshealing.co.uk/collections/healing-crystals): Healing crystals are ethically sourced stones used to support balance, protection, love and clarity — in daily life and meditation. Amethyst • Rose Quartz • Citrine • Chakra Bracelets Discover how to choose healing crystals →
-  Updated: 2025-10-21T15:36:46Z
+  Updated: 2025-10-22T11:20:09Z
   Total Products: 216
 - [Sale](https://crystalshealing.co.uk/collections/sale): Save on crystals and jewelry with intention. Discover discounted stones, bracelets, pendants & spiritual tools to empower your journey.
   Updated: 2025-10-01T15:00:57Z
@@ -4949,16 +4942,16 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
   Updated: 2025-10-18T11:16:43Z
   Total Products: 27
 - [Handmade Jewellery](https://crystalshealing.co.uk/collections/handmade-jewellery): Explore handmade jewellery created with care and crystal energy. Every piece is unique, ethically sourced, and spiritually meaningful.
-  Updated: 2025-10-21T15:36:46Z
+  Updated: 2025-10-22T11:20:09Z
   Total Products: 225
 - [Valentine’s Day Crystals](https://crystalshealing.co.uk/collections/valentines-day-crystals): Celebrate love with crystals and jewelry made for connection, romance, and self-love. Discover heart-centered gifts crafted from Rose Quartz, Rhodonite, and Garnet.
-  Updated: 2025-10-21T15:36:46Z
+  Updated: 2025-10-22T11:20:09Z
   Total Products: 129
 - [Chakra Crystal Sets](https://crystalshealing.co.uk/collections/chakra-crystal-sets): Realign and recharge with chakra crystal sets. Each kit includes 7 energy-aligned stones selected to support the root to crown chakras. Perfect for meditation, reiki, yoga or spiritual rituals — comes with pouch & chakra card.
   Updated: 2025-10-01T15:00:59Z
   Total Products: 11
 - [Chakra Bracelets](https://crystalshealing.co.uk/collections/chakra-bracelets): Explore chakra bracelets handcrafted with natural crystals for balance, alignment, and energy flow. Wear daily to support your mind, body, and spiritual well-being.
-  Updated: 2025-10-15T05:15:46Z
+  Updated: 2025-10-22T11:20:09Z
   Total Products: 22
 - [Gua Sha](https://crystalshealing.co.uk/collections/gua-sha): Elevate your skincare and energy rituals with crystal Gua Sha tools. Ethically crafted from Rose Quartz, Jade, Amethyst & more – for glow, circulation & energetic flow.
   Updated: 2025-10-21T11:19:28Z
@@ -4976,7 +4969,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
   Updated: 2025-10-21T11:19:28Z
   Total Products: 51
 - [Crystal Jewelry](https://crystalshealing.co.uk/collections/crystal-jewelry): Discover crystal jewelry crafted with purpose - for healing, intention and beauty. Explore ethically sourced bracelets, necklaces, rings & earrings made with stones like Amethyst, Rose Quartz and Citrine.
-  Updated: 2025-10-21T15:36:46Z
+  Updated: 2025-10-22T11:20:09Z
   Total Products: 237
 - [Worry Stones](https://crystalshealing.co.uk/collections/worry-stones): Ease anxiety and invite calm with crystal worry stones. Smooth, polished and designed for gentle touch — perfect for pockets, meditation or on-the-go stress relief. Choose your stone by energy: Amethyst, Rose Quartz, Black Obsidian & more.
   Updated: 2025-10-01T15:01:00Z
@@ -4997,7 +4990,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
   Updated: 2025-10-01T15:01:01Z
   Total Products: 10
 - [Intention Bracelets](https://crystalshealing.co.uk/collections/intention-bracelets): Set your goals in motion with intention bracelets. Handmade using healing crystals like Citrine, Amethyst, and Rose Quartz — each piece supports clarity, love, protection or abundance.
-  Updated: 2025-10-21T15:36:46Z
+  Updated: 2025-10-22T11:20:09Z
   Total Products: 30
 - [Selenite Crystals](https://crystalshealing.co.uk/collections/selenite-crystals): Discover the purifying power of Selenite crystals. Explore charging plates, wands, towers & jewelry — ideal for cleansing energy, protecting your aura, and amplifying spiritual clarity. Ethically sourced.
   Updated: 2025-10-18T11:16:43Z
@@ -5009,7 +5002,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
   Updated: 2025-10-11T11:19:02Z
   Total Products: 9
 - [All Crystal Products](https://crystalshealing.co.uk/collections/all): Discover our full range of ethically sourced crystal products – from healing stones to handmade jewelry. Ideal for energy balancing, meditation, and mindful gifting.
-  Updated: 2025-10-21T17:15:26Z
+  Updated: 2025-10-22T11:20:09Z
   Total Products: 374
 - [Essential Oils](https://crystalshealing.co.uk/collections/essential-oils): Discover essential oils crafted for emotional healing, meditation and intention setting. From lavender and frankincense to energizing citrus blends — ethically sourced, pure and perfect for pairing with crystal rituals or self-care.
   Updated: 2025-10-01T15:01:01Z
@@ -5021,10 +5014,10 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
   Updated: 2025-10-21T11:19:28Z
   Total Products: 15
 - [Tourmaline Crystals](https://crystalshealing.co.uk/collections/tourmaline-crystals): Protect your energy with Tourmaline crystals. Explore raw stones, tumbled pieces, bracelets & jewelry — crafted for grounding, emotional stability and energetic defense. Ethically sourced for daily support.
-  Updated: 2025-10-01T15:01:01Z
+  Updated: 2025-10-22T11:20:09Z
   Total Products: 14
 - [New Arrivals](https://crystalshealing.co.uk/collections/new-arrivals): Discover our latest arrivals – ethically sourced crystals, handmade jewelry, and healing tools. Fresh designs added regularly to inspire your energy journey.
-  Updated: 2025-10-21T17:15:26Z
+  Updated: 2025-10-22T11:20:09Z
   Total Products: 373
 - [Sacred Imperfections](https://crystalshealing.co.uk/collections/sacred-imperfections): Crystals with small flaws and big energy. Sacred Imperfections offer healing, meaning, and sustainability – at a better price.
   Updated: 2025-10-01T15:01:02Z
