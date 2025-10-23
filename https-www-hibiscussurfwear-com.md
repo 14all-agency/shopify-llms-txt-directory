@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2023-04-19T20:10:07Z
 - Contact Email: georgina@hibiscussurfwear.com
-- Updated At: 2025-10-23T12:00:46.792Z
+- Updated At: 2025-10-23T16:00:46.085Z
 
 ## Products
 
@@ -12455,7 +12455,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/all-over-print-womens-rash-guard-white-front-67ed37ca2ff5f.jpg?v=1743599988
     Price: £57.30 GBP
 - [Costa Rica - Hibiscus Surfwear - Ethical Womens Rash Guard](https://www.hibiscussurfwear.com/products/costa-rica-hibiscus-surfwear-ethical-womens-rash-guard): Costa Rica - Hibiscus Surfwear - Ethical Womens Rash Guard Don't be afraid to be your most active self in this smooth and versatile long-sleeve rash guard! It protects you from the sun, wind, and other elements while doing sports, and the slim fit, flat ergonomic seams, and the longer body gives extra comfort. • 82% polyester, 18% spandex • 6.78 oz/yd² (230 g/m²) (weight may vary by 5%) • Very soft four-way stretch fabric that stretches and recovers on the cross and lengthwise grains • Fitted design • UPF 50+ • Comfortable longer body and sleeves • Flatseam and coverstitch • Blank product components sourced from China This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide CHEST (inches) WAIST (inches) HIPS (inches) XS 34 ⅝ 26 ¾ 37 S 36 ¼ 28 ⅜ 38 ⅝ M 37 ¾ 29 ⅞ 40 ⅛ L 41 33 ⅛ 43 ¼ XL 44 ⅛ 36 ¼ 46 ½ 2XL 47 ¼ 39 ⅜ 49 ⅝ 3XL 50 ⅜ 42 ½ 52 ¾
-  Updated: 2025-04-24T15:45:23Z
+  Updated: 2025-10-23T12:56:44Z
   Vendor: Hibiscus Surfwear
   Product Type: Rash vests
   Availability: Available
