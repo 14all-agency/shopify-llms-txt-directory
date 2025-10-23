@@ -6,19 +6,19 @@
 - Timezone: America/Chicago
 - Created At: 2020-04-27T19:06:17Z
 - Contact Email: laurend@skinqri.com
-- Updated At: 2025-10-23T08:00:34.113Z
+- Updated At: 2025-10-23T20:00:38.895Z
 
 ## Products
 
 - [KeraFactor® Scalp Stimulating Shampoo and Conditioner](https://shop.mykerafactor.com/products/kerafactor-scalp-stimulating-shampoo-conditioner): The KeraFactor 2 in 1 Shampoo and Conditioner exfoliates and stimulates the scalp and hair using a unique combination of conditioners and growth factors designed to enhance scalp circulation and reinvigorate the scalp and hair, leading to hair that appears fuller, has more body, and is healthier. Each 100ml bottle has enough quantity to be used daily for at least 1 month. Lasts for 40 washes Only a pea-sized drop is used and lathered before massaging into the scalp. Leave in for 1 minute before rinsing. For patients with significant hair, it is recommended to use regular shampoo first and use this product as more of a scalp and hair treatment than a shampoo wash. Lastly, condition your ends with your regular conditioner. List of Ingredients Aqua, Coco-Glucoside, Glycerin, Caprylyl/Capryl Glucoside, Pentylene Glycol, Disodium Lauryl Sulfosuccinate, Lauramidopropyl Betaine, Sodium Cocoyl Apple Amino Acids, Glycol Distearate, Betaine, Polyquatenium-10, sh-Oligopeptide-1, sh-Oligopeptide-4, sh-Polypeptide-1, sh-Polypeptide-7, sh-Polypeptide-9, sh-Polypeptide-11, sh-Polypeptide-71, Copper Tripeptide-1, Niacinamide, 3-0-Ethyl Ascorbic Acid, Adenosine, Caffeine, Arginine, Tetrahydrocurcumin, Curcumin, Menthol, Silk Amino Acids, Tetrasodium Glutamate Diacetate, Mensa Avensis Leaf/Stem Oil, Lecithin, Trehalose, Glyceryl Caprylate, Hexylene Glycol, Panthenol, Polysorbate 60, Citric Acid, Sodium Citrate, Sodium Chloride, Phenoxyethanol Possible Adverse Reactions: Scalp irritation, rash, or temporary redness. If a reaction occurs, please discontinue use. Warning: Avoid this product if you are allergic to Curcumin. Avoid contact with eyes. In case of contact with eyes, rinse immediately with plenty of water. Keep out of reach of children. Not intended for use by pregnant or nursing women or by any person under the age of 18. If you are taking any medications, consult with your doctor or health professional before use. Storage: Keep in a cool place. Do not freeze.
-  Updated: 2025-10-23T05:05:56Z
+  Updated: 2025-10-23T19:51:21Z
   Vendor: KeraFactor by SkinQRI
   Product Type: Hair Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0283/3016/4333/files/28-opt.jpg?v=1751547430
   Price: $49.00 USD
 - [KeraFactor® Scalp Stimulating Solution](https://shop.mykerafactor.com/products/kerafactor-scalp-stimulating-solution): KeraFactor® Scalp Stimulating Solution – 50ml Bottle Healthy-looking hair starts at the scalp. This 50ml bottle of KeraFactor® Scalp Stimulating Solution is formulated with our patented KeraFactor Peptide Complex (KFP™) and next-generation Nanofluorosome™ Technology to help nourish the scalp and support visibly thicker, fuller, and stronger hair. Why it works: KFP™ delivers a concentrated dose of 7 biomimetic growth factors and skin proteins that target thinning, weak, or dormant hair follicles. These ingredients are designed to boost circulation, improve scalp health, and encourage healthier hair growth. Now enhanced with Nanofluorosomes™—a patented delivery system containing a naturally fluorescent anti-inflammatory and anti-androgenic compound that can be activated with red-light therapy devices (630–690nm) for amplified results. Includes a precision dropper applicator for easy, mess-free application directly to the scalp. ✔ Supports Hair Density and Strength ✔ Drug-Free & Hormone-Free ✔ Ideal for Daily Use or Post /Microneedling ✔ Activates with Red-Light Therapy ✔ Developed by Dermatologists ✔ FDA Cosmetics Registered (MoCRA Compliant) How to Use: Apply a full dropper directly to the scalp once daily or as directed by your provider. Massage in gently. Do not rinse. Caution: Avoid use if allergic to curcumin. For external use only. Avoid eye contact. Not recommended for individuals under 18 or for those who are pregnant or nursing. Storage: Store in a cool, dry place. Do not freeze. Ingredients: Water, Pentylene Glycol, Niacinamide, Panthenol, Arginine, Glycerin, Carbomer, Polysorbate 60, Xanthan gum, Lecithin, Curcumin, Tetrahydrocurcumin, 3-0-ethyl ascorbic acid, Phenoxyethanol, Hyaluronic Acid, Sodium Citrate, Citric Acid, p-Anisic Acid, Copper Tripeptide-1, sh-Oligopeptide-1, sh-Oligopeptide-4, sh-Polypeptide-7, sh-Polypeptide-9, sh-Polypeptide-1, sh-Polypeptide-11, sh-Polypeptide-71
-  Updated: 2025-10-23T05:06:00Z
+  Updated: 2025-10-23T14:38:08Z
   Vendor: KeraFactor by SkinQRI
   Product Type: Hair Care
   Availability: Available
@@ -32,7 +32,7 @@
   Image: https://cdn.shopify.com/s/files/1/0283/3016/4333/files/2_e1502541-f6fa-4e33-a10e-cde52badc165-opt.jpg?v=1751546838
   Price: $218.00 USD
 - [Lashes by KeraFactor®](https://shop.mykerafactor.com/products/lashes-by-kerafactor): Introducing Lashes by KeraFactor – a revolutionary lash serum meticulously formulated with a potent blend of scientifically proven ingredients to nourish, strengthen, and enhance your lashes like never before. At the heart of our formula lies Pentylene Glycol and Glycerin, multifunctional ingredients renowned for their moisturizing, hydrating, and antimicrobial properties. This ensures that your delicate lash area stays deeply hydrated while safeguarding against harmful microbes. For optimal lash health and rejuvenation, Lashes by KeraFactor features PolyDeoxyRiboNucleotide (PDRN), which enhances cellular metabolism, increases blood flow, reduces shedding, and revitalizes dormant follicles, leading to a thicker, fuller appearance of the lash. Sh-Oligopeptide-1 and Sh-Oligopeptide-4, play pivotal roles in hair rejuvenation and combating aging. By stimulating the follicle, improving circulation, and encouraging the Anagen Phase, they contribute to thicker-looking, healthier lashes while restoring vitality. Seven additional biomimetic growth factors further enhance lash strength, and improve overall resilience, ensuring your lashes are fortified from root to tip. To combat signs of aging and promote cellular repair, Lashes by KeraFactor incorporates NMN and Adenosine, rejuvenating skin from within and combating aging. Acetyl Cysteine, Ketoglutaric Acid, and 3-0-Ethyl Ascorbic Acid provide antioxidant and anti-inflammatory benefits promoting optimal lash health. Furthermore, essential ingredients like Glycine, Glutathione, Arginine, and Lecithin enhance moisture retention, protect against dehydration, and fortify the skin barrier, ensuring your lashes stay nourished. Lashes by KeraFactor boasts antimicrobial, pH-regulating, and preservative properties, ensuring product safety and efficacy. Transform your lashes with Lashes by KeraFactor – the ultimate solution for longer, fuller, and healthier-looking lashes. DIRECTIONS: Remove makeup and contact lenses before applying Lashes by KeraFactor. Apply once daily. Apply only on the lid of the eye at the base of the upper lash line. Do not apply to the lower lid. INGREDIENTS: Agua; Pentylene Glycol; Glycerin; PDRN; sh-Oligopeptide-1; sh-Oligopeptide-4; sh-Polypeptide-1; sh-Polypeptide-4; sh-Polypeptide-7; sh-Polypeptide-9; sh-Polypeptide-11; sh-Polypeptide-71; sh-Polypeptide-86; NMN; Adenosine, Acetyl Cysteine; Ketoglutaric Acid; 3-0-Ethyl Ascorbic Acid; Glycine; Glutathione; Arginine; Lecithin,Carbomer; Sodium Citrate; Citric Acid; Polysorbate 60; Phenoxyethanol Safe Products: Our serums are proudly free of drugs, hormones, SLS, parabens, gluten, prostaglandin analogs (PGAs), sulfates, phthalates, animal testing, carcinogens, oils, and fragrances. Since KeraFactor does not contain prostaglandin analogs (PGAs), it won't alter the iris or eye color, nor will it cause skin discoloration around the eye or break down fat in the eye area. Possible Adverse Reactions: Irritation, rash, or temporary redness. If a reaction occurs, please discontinue use. Warning: Keep out of reach of children. Not intended for use by pregnant or nursing women or by any person under the age of 18. If you are taking any medications, consult with your doctor or health professional before use. Storage: Keep in a cool place. Do not freeze.
-  Updated: 2025-10-22T21:40:46Z
+  Updated: 2025-10-23T14:18:31Z
   Vendor: KeraFactor by SkinQRI
   Product Type: Lash
   Availability: Available
@@ -46,7 +46,7 @@
   Image: https://cdn.shopify.com/s/files/1/0283/3016/4333/files/Untitled_design.jpg?v=1753121349
   Price: $99.00 USD
 - [KeraFlex Laser Cap](https://shop.mykerafactor.com/products/keraflex-laser-cap): Revolutionize Your Hair Care with the KeraFlex Laser Cap Introducing the KeraFlex Laser Cap, the latest innovation in hair rejuvenation therapy. Designed for at-home use with the KeraFactor Scalp Stimulating Solution, the KeraFlex features 302 Medical Grade Laser Diodes operating at a wavelength of 650nm to help you achieve thicker, fuller hair from the comfort of your own home. Key Features: 302 Medical Grade Laser Diodes: Ensures comprehensive scalp coverage with optimal laser light exposure. 650nm Wavelength: Penetrates the scalp to rejuvenate cells and stimulate cellular metabolism at the follicle level. Flexible Design: Comfortable and adaptable to fit all head sizes. Smart Sensor Start: Easy-to-use activation ensures a hassle-free experience. FDA Cleared: Safe and effective, meeting stringent medical standards. Daily 6-Minute Sessions: Conveniently timed sessions with automatic shut off for ease of use. Carrying Case The Gold Standard in Photobiomodulation (PBM): The KeraFlex Laser Cap is the pinnacle of Low-Level Laser Therapy (LLLT), exposing your hair follicles to precise low levels of red light. These calibrated wavelengths penetrate the scalp to: Rejuvenate cells and stimulate cellular metabolism. Combat hair loss by extending the growth phase of the hair growth cycle. Reactivate miniaturizing follicles back to their growth potential. Increase nutrient and oxygen-rich blood flow to the hair follicles, ensuring they have the nourishment to grow hair at its thickest and fullest. Pair with KeraFactorMD Scalp Stimulating Solution: Enhance your results by pairing the KeraFlex Laser Cap with our KeraFactorMD Scalp Stimulating Solution. This powerful combination activates nanofluorosomes to combat DHT on the scalp and temporarily inhibits the androgen receptor, reducing DHT production and promoting a healthier scalp environment. What's Included: KeraFlex Laser Cap with 302 Laser Diodes KeraFactor Baseball Cap Power Bank Instructional Manual Sizing: Our KeraFlex caps are designed with a unique flexibility feature to comfortably fit various head sizes. The opening measures 8 inches long and 7 inches wide, and the flexible nature of the cap ensures a comfortable fit for different head sizes. Elevate Your Hair Care Routine: Take control of your hair rejuvenation journey with the KeraFlex Laser Cap. Designed for convenient at-home use, the KeraFlex offers unparalleled effectiveness. Experience the gold standard in PBM with the KeraFlex Laser Cap and take the next step towards thicker, fuller hair. Order yours today and transform your hair care regimen! User Guide for KeraFlex Cap will not turn on? There are smart sensors designed to protect your eyes by ensuring the lasers only activate when the cap is correctly in place. Place the cap on your head — it contains smart sensors that prevent it from turning on unless it’s properly positioned. Press and hold the button on the battery pack until it beeps. While facing a mirror, gently lift the front edge of the cap just slightly. You should see a red glow if it’s functioning.
-  Updated: 2025-10-22T21:40:40Z
+  Updated: 2025-10-23T14:44:17Z
   Vendor: KeraFactor by SkinQRI
   Product Type: Hair Care
   Availability: Available
@@ -100,7 +100,7 @@
   Image: https://cdn.shopify.com/s/files/1/0283/3016/4333/files/5_920490c8-b4ab-465c-a158-35f92159ff33.png?v=1754150468
   Price: $20.00 USD
 - [KeraRoller](https://shop.mykerafactor.com/products/keraroller): Precision Scalp Microneedling Elevate your scalp care routine with the KeraRoller, a handheld device designed to optimize the absorption of your favorite topical treatments. Featuring 1,200 stainless steel needles (0.25mm), it gently and painlessly creates microchannels in the scalp to support healthier-looking hair. ✨ Why You’ll Love It Boosts penetration of scalp serums for maximum impact Painless 0.25mm stainless steel microneedles Easy-to-use design for at-home scalp support Perfectly pairs with our Scalp Stimulating Solution How to Use: Gently roll the KeraRoller across areas of concern on your scalp. Follow immediately with our Scalp Stimulating Solution to enhance delivery of active ingredients. Always sanitize your KeraRoller with alcohol before and after each use. Start your hair health journey with the KeraRoller—where innovation meets self-care.
-  Updated: 2025-10-22T21:40:45Z
+  Updated: 2025-10-23T14:38:09Z
   Vendor: KeraFactor by SkinQRI
   Product Type: 
   Availability: Available
@@ -117,20 +117,20 @@
 ## Collections
 
 - [All Products](https://shop.mykerafactor.com/collections/all-hair-products)
-  Updated: 2025-10-22T11:05:02Z
+  Updated: 2025-10-23T11:05:21Z
   Total Products: 16
 - [Catalogs for the website](https://shop.mykerafactor.com/collections/catalogs-for-the-website)
-  Updated: 2025-10-22T11:05:02Z
+  Updated: 2025-10-23T11:05:21Z
   Total Products: 2
 - [Lashes and Brows by KeraFactor®](https://shop.mykerafactor.com/collections/lashes-and-brows-by-kerafactor): Introducing the newest additions to the KeraFactor family!
 ﻿Elevate your natural beauty with our cutting-edge formulas designed to give you voluminous lashes and perfectly defined brows that make a statement.
-  Updated: 2025-10-22T11:05:02Z
+  Updated: 2025-10-23T11:05:21Z
   Total Products: 2
 - [KeraFlex Laser Cap](https://shop.mykerafactor.com/collections/keraflex-laser-cap)
-  Updated: 2025-10-21T11:05:12Z
+  Updated: 2025-10-23T11:05:21Z
   Total Products: 2
 - [DTC Store](https://shop.mykerafactor.com/collections/dtc-store)
-  Updated: 2025-10-22T11:05:02Z
+  Updated: 2025-10-23T11:05:21Z
   Total Products: 13
 
 ## Blogs
