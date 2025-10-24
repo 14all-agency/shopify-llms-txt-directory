@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-10-23T20:00:41.972Z
+- Updated At: 2025-10-24T00:00:52.424Z
 
 ## Products
 
@@ -1593,7 +1593,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/kraft-paper-packaging-tape-tan-24mm-x-50m-x-125mu-72-rolls-paper-packaging-tape-essential-supplies-881568.jpg?v=1719445331
   Price: $193.00 NZD
 - [Kraft Paper Packaging Tape - Tan, 36mm x 50m x 125mu - 48 Rolls](https://essentialsupplies.co.nz/products/kraft-paper-packaging-tape-tan-36mm-x-50m-x-125mu-48): Kraft paper tape with a high quality adhesive designed for all timber, cardboard and paper applications. Kraft tape is strong, flexible and fully recyclable. Ideal for picture framing, sealing parcels and bookbinding. Strong, flexible and fully recyclable High quality adhesive Designed for timber, cardboard and paper applications Colour: Tan Ideal for picture framing, sealing parcels and bookbinding Size: 36mm x 50mt Content: 48 Rolls
-  Updated: 2025-01-09T14:37:40Z
+  Updated: 2025-10-23T21:06:35Z
   Vendor: Mattews Packaging
   Product Type: Paper Packaging Tape
   Availability: Available
