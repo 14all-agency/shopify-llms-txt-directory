@@ -9,19 +9,19 @@
 - Created At: 2025-08-25T14:01:44Z
 - Contact Email: support@themineralskin.com
 - Address: 17 Heath Drive, London NW3 7SL, United Kingdom
-- Updated At: 2025-10-23T12:00:44.621Z
+- Updated At: 2025-10-24T04:00:34.432Z
 
 ## Products
 
 - [Icelandic Volcano Face & Body Scrub | Volcanic Sand Exfoliator for Glowing Skin](https://themineralskin.com/products/icelandic-volcano-face-body-scrub): Reveal smoother, radiant skin with the Icelandic Volcano Face & Body Scrub, enriched with volcanic sand, fruit AHAs, and antioxidant-rich berry extracts. Gently exfoliates dead cells, refines texture, and boosts glow. Vegan, natural formula.
-  Updated: 2025-10-23T06:27:55Z
+  Updated: 2025-10-23T19:55:04Z
   Vendor: The Mineral
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0918/9451/3992/files/icelandic-volcano-face-body-scrub-1968742.png?v=1757489617
   Price: $35.00 USD
 - [Botanic Blend Moisturizer: Hydrate Like a Pro for Glowing Skin](https://themineralskin.com/products/botanic-blend-moisturizer-1): Discover the ultimate hydration with our Botanic Blend Moisturizer. Infused with natural ingredients, it nourishes and revitalizes your skin for a healthy glow.
-  Updated: 2025-10-23T06:27:43Z
+  Updated: 2025-10-23T19:04:05Z
   Vendor: The Mineral
   Product Type: 
   Availability: Available
@@ -163,7 +163,7 @@
 - [Shipping Policy](https://themineralskin.com/policies/shipping-policy)
   Updated: 2025-10-03T07:45:10+02:00
 - [Refund Policy](https://themineralskin.com/policies/refund-policy)
-  Updated: 2025-10-03T07:46:54+02:00
+  Updated: 2025-10-23T15:05:19+02:00
 - [Terms of Service](https://themineralskin.com/policies/terms-of-service)
   Updated: 2025-10-02T13:45:29+02:00
 - [Contact Information](https://themineralskin.com/policies/contact-information)
