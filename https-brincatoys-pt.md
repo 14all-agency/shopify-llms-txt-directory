@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-10-23T20:01:13.608Z
+- Updated At: 2025-10-24T04:01:20.654Z
 
 ## Products
 
@@ -5444,7 +5444,7 @@ Provavelmente, a espécie vivente mais próxima é o cachorro-vinagre.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/marvel-select-thor-237317319-marvel-1178694333.png?v=1752854766
   Price: 43,90 € EUR
 - [Marvel Spidey and His Amazing Friends - Miles Morales com Ar](https://brincatoys.pt/products/marvel-spidey-and-his-amazing-friends-miles-morales-com-aracno-triciclo): O membro mais jovem da equipa Aranha, Miles é entusiasmado, divertido e adora pintar e desenhar quase tanto quanto adora ser um herói! Miles pode ser um novo herói, mas ele com certeza é um especialista em divertir-se. Miles Morales tem super poderes de aranha: senso de aranha, super-força, escalar paredes e muito mais. Cada herói traz algo único p
-  Updated: 2025-10-13T06:30:08Z
+  Updated: 2025-10-23T22:54:58Z
   Vendor: Spidey and Amazing Friends
   Product Type: + 3 anos
   Availability: Available
@@ -8583,14 +8583,14 @@ sons. Basta apertar um botão para escutar os sons inspirados no desenho
 da Marvel e ver os detalhes dos veículos a iluminarem-se. Cada figura de 
 10 cm da linha Spidey And His Amazing Friends vem com 5 pontos de 
 ...
-  Updated: 2025-10-13T06:26:55Z
+  Updated: 2025-10-23T22:54:58Z
   Vendor: Spidey and Amazing Friends
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/spidey-and-his-amazing-friends-aracno-triciclo-com-luzes-90453122-spidey-and-amazing-friends-1178695379.jpg?v=1752873132
   Price: 44,99 € EUR
 - [Spidey and His Amazing Friends Aracno triciclo com luzes e s](https://brincatoys.pt/products/spidey-and-his-amazing-friends-aracno-triciclo-com-luzes-e-sons-1): Muita diversão com o Spidey e Seus Amigos Espetaculares! As crianças podem apertar o botão para ver o veículo iluminar-se e emitir sons. Basta apertar um botão para escutar os sons inspirados no desenho da Marvel e ver os detalhes dos veículos a iluminarem-se. Cada figura de 10 cm da linha Spidey And His Amazing Friends vem com 5 pontos de articula
-  Updated: 2025-10-13T06:26:55Z
+  Updated: 2025-10-23T22:54:58Z
   Vendor: Spidey and Amazing Friends
   Product Type: + 3 anos
   Availability: Available
@@ -8602,25 +8602,18 @@ sons. Basta apertar um botão para escutar os sons inspirados no desenho
 da Marvel e ver os detalhes dos veículos a iluminarem-se. Cada figura de 
 10 cm da linha Spidey And His Amazing Friends vem com 5 pontos de 
 ...
-  Updated: 2025-10-13T06:26:54Z
+  Updated: 2025-10-23T22:54:58Z
   Vendor: Spidey and Amazing Friends
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/spidey-and-his-amazing-friends-carro-aranha-com-luzes-90453022-spidey-and-amazing-friends-1178695384.jpg?v=1752873367
   Price: 44,99 € EUR
-- [Spidey and his Amazing Friends Iron Man e Corredor de Ferro](https://brincatoys.pt/products/spidey-and-his-amazing-friends-iron-man-e-corredor-de-ferro): Está na hora de Spidey! Spidey and His Amazing Friends continuarem as aventuras do super-herói Spidey com todos os seus heróicos amigos. Cada um possui algo único nas suas aventuras de luta contra o crime, o que os torna ainda mais fortes quando trabalham juntos como a incrível Equipa Aranha. Diverte-te com a figura do Homem de Ferro de 10 cm e o s
-  Updated: 2025-10-13T06:26:54Z
+- [Spidey and his Amazing Friends Iron Man e Corredor de Ferro](https://brincatoys.pt/products/spidey-and-his-amazing-friends-iron-man-e-corredor-de-ferro): Prepare-se para a ação com o set Spidey and his Amazing Friends Iron Man e Corredor de Ferro! As crianças vão adorar brincar e explorar! 🚀
+  Updated: 2025-10-24T01:48:06Z
   Vendor: Spidey and Amazing Friends
   Product Type: + 3 anos
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/spidey-and-his-amazing-friends-iron-man-e-corredor-de-ferro-15399222-spidey-and-amazing-friends-1178695387.jpg?v=1752873375
-  Price: 21,99 € EUR
-- [Spidey and his Amazing Friends Pantera Negra e Quadriciclo P](https://brincatoys.pt/products/spidey-and-his-amazing-friends-pantera-negra-e-quadriciclo-pantera): Está na hora de Spidey! Spidey and His Amazing Friends continuarem as aventuras do super-herói Spidey com todos os seus heróicos amigos. Cada um possui algo único nas suas aventuras de luta contra o crime, o que os torna ainda mais fortes quando trabalham juntos como a incrível Equipa Aranha. Diverte-te com a figura de Pantera Negra de 10 cm e o se
-  Updated: 2025-10-13T06:26:53Z
-  Vendor: Spidey and Amazing Friends
-  Product Type: + 3 anos
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/spidey-and-his-amazing-friends-pantera-negra-e-quadriciclo-p-15194322-spidey-and-amazing-friends-1178695393.jpg?v=1752873611
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/spidey-and-his-amazing-friends-iron-man-e-corredor-de-ferro-15399222-5010993941810-spidey-and-amazing-friends-1199431117.jpg?v=1761270485
   Price: 21,99 € EUR
 - [Spinosaurus](https://brincatoys.pt/products/spinosaurus): O Espinossauro (cujo nome significa Lagarto Espinho) foi um gênero de dinossauro espinosaurideo que viveu durante o período Cretáceo entre 99 a 93.5 milhões de anos atrás, principalmente na região que é hoje o Norte da África. Este gênero foi conhecido a partir de vestígios egípcios descobertos em 1912 e foi descrito em 1915, esses vestígios origin
   Updated: 2025-10-13T06:26:53Z
@@ -9792,36 +9785,19 @@ do tempo a caçar no gelo marinho.
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/zootropolis-judy-hopps-231317116-brincatoys-1178695722.png?v=1752879611
   Price: 7,00 € EUR
-- [Spidey and his Amazing Friends Iron Man e Corredor de Ferro](https://brincatoys.pt/products/spidey-and-his-amazing-friends-iron-man-e-corredor-de-ferro-copie): Está na hora de Spidey! Spidey and His Amazing Friends continuarem as 
-aventuras do super-herói Spidey com todos os seus heróicos amigos.
-Cada um possui algo único nas suas aventuras de luta contra o crime, o 
-que os torna ainda mais fortes quando trabalham juntos como a incrível 
-Equipa Aranha.
-Diverte-te com a figura do Homem de Ferro de 10 cm...
-  Updated: 2025-10-13T06:25:41Z
+- [Spidey and His Amazing Friends Hulk Smash Truck Divertido](https://brincatoys.pt/products/spidey-and-his-amazing-friends-hulk-smash-truck): Prepare-se para muita diversão com o Spidey and his Amazing Friends Hulk Smash Truck! A figura do Hulk e o camião verde garantem brincadeiras emocionantes.
+  Updated: 2025-10-23T23:46:05Z
   Vendor: Spidey and Amazing Friends
   Product Type: + 3 anos
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/spidey-and-his-amazing-friends-iron-man-e-corredor-de-ferro-90399222-2600000-spidey-and-amazing-friends-1178695730.jpg?v=1752879855
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/spidey-and-his-amazing-friends-hulk-smash-truck-divertido-90398922-5010993933457-spidey-and-amazing-friends-1199426744.jpg?v=1761263164
   Price: 21,99 € EUR
-- [Spidey and his Amazing Friends Hulk Smash Truck](https://brincatoys.pt/products/spidey-and-his-amazing-friends-hulk-smash-truck): Está na hora de Spidey! Spidey and His Amazing Friends continuarem as aventuras do super-herói Spidey com todos os seus heróicos amigos. Cada um possui algo único nas suas aventuras de luta contra o crime, o que os torna ainda mais fortes quando trabalham juntos como a incrível equipa Aranha. Diverte-te com a figura do Hulk de 10 cm e o seu veículo
-  Updated: 2025-10-19T13:43:05Z
+- [Spidey and his Amazing Friends Pantera Negra e Quadriciclo](https://brincatoys.pt/products/spidey-and-his-amazing-friends-pantera-negra-e-quadriciclo-pantera): Leve as suas aventuras a Wakanda com o Spidey and his Amazing Friends Pantera Negra e Quadriciclo Pantera. Experimente o divertimento sem limites!
+  Updated: 2025-10-24T01:49:55Z
   Vendor: Spidey and Amazing Friends
   Product Type: + 3 anos
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/spidey-and-his-amazing-friends-hulk-smash-truck-90398922-spidey-and-amazing-friends-1178695734.webp?v=1752879964
-  Price: 21,99 € EUR
-- [Spidey and his Amazing Friends Pantera Negra e Quadricicl...](https://brincatoys.pt/products/spidey-and-his-amazing-friends-pantera-negra-e-quadriciclo-pantera-copie): Está na hora de Spidey! Spidey and His Amazing Friends continuarem as 
-aventuras do super-herói Spidey com todos os seus heróicos amigos.
-Cada um possui algo único nas suas aventuras de luta contra o crime, o 
-que os torna ainda mais fortes quando trabalham juntos como a incrível 
-Equipa Aranha.
-Diverte-te com a figura de Pantera Negra de 10 cm ...
-  Updated: 2025-10-13T06:25:41Z
-  Vendor: Spidey and Amazing Friends
-  Product Type: + 3 anos
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/spidey-and-his-amazing-friends-pantera-negra-e-quadricicl-90194322-2600000-spidey-and-amazing-friends-1178695736.jpg?v=1752879972
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/spidey-and-his-amazing-friends-pantera-negra-e-quadriciclo-p-15194322-spidey-and-amazing-friends-1199431121.jpg?v=1761270595
   Price: 21,99 € EUR
 - [Pokemon Figuras de batalha](https://brincatoys.pt/products/pokemon-figuras-de-batalha-5): Figuras de Pokémon (Dreepy + Growlithe + Lucario) prontas para a acção. O conjunto apresenta duas figuras de batalha estáticas e uma terceira que apresenta uma articulação para que se possa replicar alguns de seus movimentos favoritos.Todas as figuras são fiéis à escala do Pokémon. Dimensão: 15 x 20,50 x 6,50 cm.Idade recomendada: + de 4 anos.
   Updated: 2025-10-13T06:25:40Z
@@ -15119,7 +15095,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carros-disney-kay-pillar-550765124-0194735076512-cars-1178698713.jpg?v=1752931090
   Price: 11,99 € EUR
 - [Cartas Uno - The Amazing Spider-Man](https://brincatoys.pt/products/cartas-uno-the-amazing-spider-man): Mergulhe no universo do teu super-herói favorito com as Cartas Uno - The Amazing Spider-Man! Os fãs de The Amazing Spider-Man vão adorar jogar este jogo de cartas UNO temático. Com um baralho que apresenta gráficos inspirados nas personagens e cenas favoritas, os jogadores tentam fazer corresponder cores e números. Esta edição especial do clássico jogo de Cartas Uno traz a emociónante ação das aventuras do Homem-Aranha para o conforto da tua casa. Com ilustrações vibrantes retratando o icónico Homem-Aranha e seus inimigos, cada jogo de Cartas Uno - The Amazing Spider-Man torna-se uma batalha épica de estratégia e sorte. A caixa contém um deck personalizado de 112 cartas, cada uma adornada com imagens vívidas que capturam a essência do mundo do Spider-Man. Além das regras tradicionais do jogo de Cartas Uno, esta versão especial introduz uma regra única que adiciona uma reviravolta temática ao jogo. Os jogadores poderão empregar poderes especiais, tal como o Spidey Swing, para ganhar vantagem sobre os adversários. Esta adição garantirá que cada jogo seja uma experiência nova e excitante, perfeito tanto para fãs do Uno quanto do Homem-Aranha. Desenhado para entusiastas de todas as idades, é adequado para jogadores a partir dos 7 anos, tornando-se um item essencial para noites de jogos em família. Concebido para 2 a 10 jogadores o jogo de cartas coleccionável é um excelente presente para os fãs da série de banda desenhada da Marvel! Além disso, a embalagem prática e durável mantém tuas cartas seguras e organizadas, seja em casa ou em viagem. Utilizando ou não a regra especial de "Web Swing" que pode acabar por saltar vários jogadores, quando faltar a última carta, não te esqueças de gritar "UNO! Em suma... Edição especial Uno com tema The Amazing Spider-Man. Regra única para uma nova dimensão estratégica. Ilustrações dinâmicas e cartas personalizadas. Dimensão: 9 x 14,50 x 2 cm. Idade recomendada: + de 7 anos.
-  Updated: 2025-10-20T17:44:15Z
+  Updated: 2025-10-23T22:35:22Z
   Vendor: UNO
   Product Type: + 7 anos
   Availability: Available
@@ -19375,7 +19351,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/puzzle-dragon-ball-300-pcs-diversao-para-todas-as-idades-852172625-8005125217267-dragon-ball-1178701998.jpg?v=1752980406
   Price: 12,99 € EUR
 - [Figura Marvel Legends Venom: Figura de Ação Icônica](https://brincatoys.pt/products/figura-marvel-legends-venom): Descubra a ferocidade da Figura Marvel Legends Venom! Com 15 cm, articulação avançada e diversos acessórios, esta figura é perfeita para colecionadores.
-  Updated: 2025-10-13T06:15:07Z
+  Updated: 2025-10-24T01:47:30Z
   Vendor: Marvel
   Product Type: + 4 anos
   Availability: Available
@@ -21220,39 +21196,53 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/hot-wheels-oracle-red-bull-racing-rb20-1-232637725-0194735263776-hot-wheels-1198768247.jpg?v=1761054485
   Price: 16,90 € EUR
 - [L.O.L Surprise Eye Spy Series - Jessica Spy em Grande Estilo](https://brincatoys.pt/products/l-o-l-surprise-eye-spy-series-jessica-spy): Descubra o estilo com a L.O.L Surprise Eye Spy Series - Jessica Spy! Com mais de 15 surpresas, a diversão nunca termina.✨
-  Updated: 2025-10-23T17:45:24Z
+  Updated: 2025-10-24T01:45:48Z
   Vendor: LOL Surprise
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/l-o-l-surprise-eye-spy-series-jessica-spy-774267425-0035051542674-lol-surprise-1199333949.jpg?v=1761234365
   Price: 39,99 € EUR
 - [L.O.L Surprise Eye Spy Series - Jordan Boltz Com 15 Surpresas](https://brincatoys.pt/products/l-o-l-surprise-eye-spy-series-jordan-boltz): Descobre a L.O.L Surprise Eye Spy Series - Jordan Boltz e suas 15+ surpresas! Coloca a criatividade em ação e monta looks incríveis! 🎉
-  Updated: 2025-10-23T17:48:08Z
+  Updated: 2025-10-24T02:44:33Z
   Vendor: LOL Surprise
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/l-o-l-surprise-eye-spy-series-jordan-boltz-com-15-surpresas-774268125-0035051542681-lol-surprise-1199347596.jpg?v=1761241687
   Price: 39,99 € EUR
 - [L.O.L Surprise Eye Spy Series - Sabrina Sky: 15+ Surpresas](https://brincatoys.pt/products/l-o-l-surprise-eye-spy-series-sabrina-sky): Descubra a L.O.L Surprise Eye Spy Series - Sabrina Sky, uma heroína cheia de estilo e surpresas! Abra as janelas e divirta-se! 🌈
-  Updated: 2025-10-23T17:47:56Z
+  Updated: 2025-10-24T03:01:08Z
   Vendor: LOL Surprise
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/l-o-l-surprise-eye-spy-series-sabrina-sky-15-surpresas-774266725-0035051542667-lol-surprise-1199347592.jpg?v=1761241676
   Price: 39,99 € EUR
 - [Rainbow High My Fashion Style - Violet: Brilho e Estilo](https://brincatoys.pt/products/rainbow-high-my-fashion-style-violet): Deixe sua imaginação brilhar com a Rainbow High My Fashion Style - Violet. Uma boneca cheia de estilo, perfeita para recriar desfiles de moda!
-  Updated: 2025-10-23T18:45:20Z
+  Updated: 2025-10-24T03:38:47Z
   Vendor: Rainbow High
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/rainbow-high-my-fashion-style-violet-774756325-0035051547563-rainbow-high-1199347588.jpg?v=1761241564
   Price: 24,99 € EUR
 - [Rainbow High My Fashion Style -Sunny: A Boneca Colorida](https://brincatoys.pt/products/rainbow-high-my-fashion-style-sunny): Ilumine a diversão com a Rainbow High My Fashion Style - Sunny, uma boneca de 28 cm cheia de estilo! Explore sua criatividade e adquira já a sua!
-  Updated: 2025-10-23T19:50:44Z
+  Updated: 2025-10-23T21:48:08Z
   Vendor: Rainbow High
   Product Type: + 4 anos
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/Rainbow_High_My_Fashion_Style_-Sunny_page1.jpg?v=1761247803
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/rainbow-high-my-fashion-style-sunny-a-boneca-colorida-774757025-0035051547570-rainbow-high-1199375908.jpg?v=1761256088
+  Price: 24,99 € EUR
+- [Rainbow High My Fashion Style -Amaya Raine: Estilo Brilhante](https://brincatoys.pt/products/rainbow-high-my-fashion-style-amaya-raine): A Rainbow High My Fashion Style - Amaya Raine é a boneca perfeita para dar cor e brilho à brincadeira. Explore a sua criatividade e inspire!
+  Updated: 2025-10-23T22:18:06Z
+  Vendor: Rainbow High
+  Product Type: + 4 anos
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/rainbow-high-my-fashion-style-amaya-raine-774753225-0035051547532-rainbow-high-1199375900.jpg?v=1761255966
+  Price: 24,99 € EUR
+- [Rainbow High My Fashion Style - Bella Parker: Elegante](https://brincatoys.pt/products/rainbow-high-my-fashion-style-bella-parker): Conheça a Rainbow High My Fashion Style - Bella Parker, uma boneca elegante de 28 cm com cabelo rosa pêssego. Prepare-se para criar penteados incríveis!
+  Updated: 2025-10-23T21:47:56Z
+  Vendor: Rainbow High
+  Product Type: + 4 anos
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/rainbow-high-my-fashion-style-bella-parker-elegante-774754925-0035051547549-rainbow-high-1199375904.jpg?v=1761256076
   Price: 24,99 € EUR
 
 ## Collections
@@ -21348,8 +21338,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-23T19:10:53Z
   Total Products: 98
 - [Bonecas](https://brincatoys.pt/collections/bonecas)
-  Updated: 2025-10-23T19:59:15Z
-  Total Products: 245
+  Updated: 2025-10-23T22:16:28Z
+  Total Products: 246
 - [Bonecas clássicas](https://brincatoys.pt/collections/bonecas-classicas)
   Updated: 2025-10-19T09:15:46Z
   Total Products: 59
@@ -21384,7 +21374,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-19T12:28:01Z
   Total Products: 177
 - [Veículos Primeira Infância](https://brincatoys.pt/collections/carro-de-brinquedo-primeira-infancia)
-  Updated: 2025-10-19T12:05:51Z
+  Updated: 2025-10-23T22:55:48Z
   Total Products: 113
 - [Lego Sonic](https://brincatoys.pt/collections/lego-sonic): Acelera com o herói dos videojogos nos fantásticos conjuntos LEGO® Sonic the Hedgehog™. O Sonic junta-se aos amigos Tails e Amy em desafios emocionantes para apanharem anéis e enfrentarem o Dr. Eggman, o Cubot e os Badniks.
   Updated: 2025-10-19T09:15:46Z
@@ -21408,11 +21398,11 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-22T11:22:51Z
   Total Products: 325
 - [2 - 3 anos](https://brincatoys.pt/collections/2-3-anos)
-  Updated: 2025-10-23T19:12:53Z
+  Updated: 2025-10-23T22:55:48Z
   Total Products: 1581
 - [4 - 5 anos](https://brincatoys.pt/collections/4-5-anos)
-  Updated: 2025-10-23T19:59:28Z
-  Total Products: 703
+  Updated: 2025-10-23T22:16:28Z
+  Total Products: 704
 - [8 - 10 anos](https://brincatoys.pt/collections/8-10-anos)
   Updated: 2025-10-22T13:05:45Z
   Total Products: 320
@@ -21429,26 +21419,26 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-22T11:22:51Z
   Total Products: 1292
 - [Até €25](https://brincatoys.pt/collections/ate-25)
-  Updated: 2025-10-23T19:59:15Z
+  Updated: 2025-10-23T22:55:48Z
   Total Products: 2403
 - [Até €35](https://brincatoys.pt/collections/ate-35)
-  Updated: 2025-10-23T19:59:15Z
+  Updated: 2025-10-23T22:55:48Z
   Total Products: 2863
 - [Até €50](https://brincatoys.pt/collections/ate-50)
-  Updated: 2025-10-23T19:59:15Z
+  Updated: 2025-10-23T22:55:48Z
   Total Products: 3248
 - [Até €60](https://brincatoys.pt/collections/ate-60)
-  Updated: 2025-10-23T19:59:15Z
+  Updated: 2025-10-23T22:55:48Z
   Total Products: 3383
 - [Até €80](https://brincatoys.pt/collections/ate-80)
-  Updated: 2025-10-23T19:59:15Z
+  Updated: 2025-10-23T22:55:48Z
   Total Products: 3461
 - [Até €100](https://brincatoys.pt/collections/ate-100)
-  Updated: 2025-10-23T19:59:15Z
+  Updated: 2025-10-23T22:55:48Z
   Total Products: 3510
 - [Novidades](https://brincatoys.pt/collections/novidades)
-  Updated: 2025-10-23T19:59:15Z
-  Total Products: 407
+  Updated: 2025-10-23T22:16:28Z
+  Total Products: 408
 - [Outlet](https://brincatoys.pt/collections/outlet): Oportunidades Outlet exclusivo online. Artigos limitados ao stock existente. Acumulável com outros descontos ou promoções.
   Updated: 2025-10-22T20:29:39Z
   Total Products: 50
@@ -21606,7 +21596,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-19T09:15:49Z
   Total Products: 106
 - [Rainbow High](https://brincatoys.pt/collections/rainbow-high)
-  Updated: 2025-10-23T19:59:15Z
+  Updated: 2025-10-23T22:16:28Z
   Total Products: 23
 - [Roblox](https://brincatoys.pt/collections/roblox)
   Updated: 2025-10-19T09:15:49Z
@@ -21621,7 +21611,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-19T09:15:50Z
   Total Products: 28
 - [Spidey and Amazing Friends](https://brincatoys.pt/collections/spidey-and-amazing-friends)
-  Updated: 2025-10-19T09:15:50Z
+  Updated: 2025-10-23T22:55:48Z
   Total Products: 12
 - [Super Mario](https://brincatoys.pt/collections/super-mario)
   Updated: 2025-10-19T09:15:50Z
@@ -21636,7 +21626,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-19T09:15:50Z
   Total Products: 9
 - [Catálogo](https://brincatoys.pt/collections/all)
-  Updated: 2025-10-23T19:59:15Z
+  Updated: 2025-10-23T22:55:48Z
   Total Products: 3543
 - [6 - 7 anos](https://brincatoys.pt/collections/6-7-anos)
   Updated: 2025-10-23T19:09:32Z
@@ -21648,11 +21638,11 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-19T09:15:50Z
   Total Products: 117
 - [+ 3 anos](https://brincatoys.pt/collections/de-3-anos)
-  Updated: 2025-10-23T17:43:41Z
+  Updated: 2025-10-23T22:55:48Z
   Total Products: 1225
 - [+ 4 anos](https://brincatoys.pt/collections/de-4-anos)
-  Updated: 2025-10-23T19:59:28Z
-  Total Products: 496
+  Updated: 2025-10-23T22:16:28Z
+  Total Products: 497
 - [+ 5 anos](https://brincatoys.pt/collections/de-5-anos)
   Updated: 2025-10-19T18:49:36Z
   Total Products: 138
@@ -21672,10 +21662,10 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-23T11:22:38Z
   Total Products: 88
 - [Os mais procurados](https://brincatoys.pt/collections/os-mais-populares)
-  Updated: 2025-10-23T19:59:15Z
+  Updated: 2025-10-23T22:55:48Z
   Total Products: 3544
 - [Recém-chegados](https://brincatoys.pt/collections/recem-chegados)
-  Updated: 2025-10-23T19:59:15Z
+  Updated: 2025-10-23T22:55:48Z
   Total Products: 3544
 - [Produtos em destaque](https://brincatoys.pt/collections/produtos-em-destaque)
   Updated: 2025-10-22T11:22:51Z
@@ -21687,7 +21677,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-19T09:15:50Z
   Total Products: 6
 - [OrderlyEmails - Recommended Products](https://brincatoys.pt/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-10-23T19:59:15Z
+  Updated: 2025-10-23T22:55:48Z
   Total Products: 3059
 - [Girafa Sofia](https://brincatoys.pt/collections/girafa-sofia)
   Updated: 2025-10-19T09:15:51Z
@@ -21696,10 +21686,10 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-22T11:22:51Z
   Total Products: 126
 - [Marketplace](https://brincatoys.pt/collections/marketplace)
-  Updated: 2025-10-23T19:59:15Z
+  Updated: 2025-10-23T22:55:48Z
   Total Products: 3059
 - [EzConnector](https://brincatoys.pt/collections/ezconnector)
-  Updated: 2025-10-23T19:59:15Z
+  Updated: 2025-10-23T22:55:48Z
   Total Products: 915
 
 ## Blogs
