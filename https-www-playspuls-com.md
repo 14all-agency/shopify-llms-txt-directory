@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2025-09-03T06:10:26Z
 - Contact Email: help@playspuls.com
-- Updated At: 2025-10-23T20:00:43.172Z
+- Updated At: 2025-10-24T04:00:39.178Z
 
 ## Products
 
@@ -18,7 +18,7 @@
   Image: https://cdn.shopify.com/s/files/1/0715/4676/5479/files/1.jpg?v=1757901036
   Price: $39.00 USD
 - [Labubu 3.0  Blind Box Whole Set 6 Boxes - PlaysPuls](https://www.playspuls.com/products/labubu-3-0-blind-boxset-6-boxes): The Big Into Energy Series features characters full of dynamic energy and expression. Each figure is carefully designed with bold colors and vibrant poses. Figures measure 6.69 inches tall. The PVC material provides durability for long-lasting display. Every figure features unique facial expressions and energetic designs. Bright colors make each piece stand out in any collection. Box dimensions are approximately 11.8 x 5.9 x 6.1 inches. Material: PVC / Polyester Stuffing: Polyester / Iron Wire Include: 6 boxes - PlaysPuls
-  Updated: 2025-10-23T13:18:05Z
+  Updated: 2025-10-23T20:18:53Z
   Vendor: PlaysPuls
   Product Type: Toy doll
   Availability: Available
@@ -81,7 +81,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/4676/5479/files/11_a9ddcd23-a7a7-40f0-b998-3335e7b3a67d.jpg?v=1759849182
     Price: $49.99 USD
 - [40 oz vacuum stainless steel insulated cup vacuum cup - PlaysPuls](https://www.playspuls.com/products/40-oz-flower-tumbler-with-handle-and-straw-stainless-steel-insluated-cups-reusable-vacuum-travel-coffee-mug): About this item Durable and Stylish: This water tumbler is made of double wall vacuum insulated stainless steel,easy to clean with large diameter, not easy to remain stainsCup Holder Friendly: 40 oz tumbler fits most standard size cup holders. With a comfortable handle, this extra large travel mug is easy to carry and perfect for use as an everyday insulated water bottle40 OZ Large Capacity: The 40 oz tumbler with lid and straw has a large capacity, which can accommodate more water, reduce the frequency of adding water. Wide opening makes stirring and cleaning so easyPerfect for Any Occasion: The flower 40oz tumbler is designed for convenience.Take it with you wherever you go - home,office,gym,or outdoor adventuresGood Choice for Gift: It can be a surprise gift for your family, friends, teachers, colleagues, and sisters - PlaysPuls
-  Updated: 2025-10-23T13:18:23Z
+  Updated: 2025-10-23T22:35:31Z
   Vendor: PlaysPuls
   Product Type: thermal mug
   Availability: Available
