@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-10-23T16:01:06.242Z
+- Updated At: 2025-10-24T04:01:16.982Z
 
 ## Products
 
@@ -24446,7 +24446,7 @@
     Availability: Available
     Price: ‏109.90 ‏₪ ILS
 - [מכנס אימון קצר באיירן מינכן 24/25 | גברים](https://www.rsport.co.il/products/מכנס-אימון-קצר-באיירן-מינכן-24-25-גברים): מכנסי אימון קצרים של באיירן מינכן לעונת 24/25 לגברים עשויים מ-100% פוליאסטר איכותי, עם עיצוב נוח וספורטיבי. מושלמים לאימונים אינטנסיביים ולשימוש יומיומי.
-  Updated: 2025-09-07T22:08:42Z
+  Updated: 2025-10-23T20:19:25Z
   Vendor: R:SPORT
   Product Type: מכנסי כדורגל
   Availability: Available
@@ -32729,7 +32729,7 @@
     Availability: Available
     Price: ‏109.90 ‏₪ ILS
 - [חולצת משחק קלוב לאון חוץ 24/25 | גברים](https://www.rsport.co.il/products/חולצת-משחק-קלוב-לאון-חוץ-24-25-גברים): חולצת החוץ של קלוב לאון לעונת 2024/25 מגיעה בעיצוב מודרנ עם נגיעות ירוקות שמדגישות את זהות הקבוצה. החולצה עשויה מ-100% פוליאסטר, בד נושם וקל משקל שמנדף זיעה, ומספקת נוחות לאורך כל המשחק, האימון או השימוש היומיומי. מתאימה לאוהדים שמעוניינים לייצג את הקבוצה גם מחוץ למגרש.
-  Updated: 2025-10-02T11:32:06Z
+  Updated: 2025-10-23T19:36:25Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
@@ -36704,7 +36704,7 @@
     Availability: Available
     Price: ‏159.90 ‏₪ ILS
 - [חולצת ברצלונה משחקי בית 25/26 אותנטית | גברים](https://www.rsport.co.il/products/חולצת-ברצלונה-משחקי-בית-25-26-אותנטית-גברים): גלה את חולצת ברצלונה הביתית והאותנטית לעונת 25/26. איכות גבוהה, נוחות מרבית ועיצוב קלאסי. חובה לכל אוהד
-  Updated: 2025-10-20T22:32:07Z
+  Updated: 2025-10-23T21:13:22Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
@@ -39026,7 +39026,7 @@
     Availability: Available
     Price: ‏109.90 ‏₪ ILS
 - [חולצת כדורגל ורדר ברמן חוץ 24/25 | גברים](https://www.rsport.co.il/products/חולצת-כדורגל-ורדר-ברמן-חוץ-24-25-גברים): חולצת כדורגל ורדר ברמן חוץ 24/25 בגווני לבן וירוק, עם עיצוב נקי ומודרני שמדגיש את המורשת של המועדון. עשויה מ-100% פוליאסטר קל ונושם, שמספק נוחות גבוהה וביצועים מצוינים במהלך כל פעילות ספורטיבית. הגזרה הרגילה שלה מאפשרת תנועה חופשית ומספקת תמיכה אופטימלית, אידיאלית לאימונים, משחקים ולבוש יומיומי.
-  Updated: 2025-10-02T11:32:34Z
+  Updated: 2025-10-23T18:04:20Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
@@ -39038,7 +39038,7 @@
     Availability: Available
     Price: ‏109.90 ‏₪ ILS
   - [L](https://www.rsport.co.il/products/חולצת-כדורגל-ורדר-ברמן-חוץ-24-25-גברים?variant=47504755032314)
-    Availability: Available
+    Availability: Not Available
     Price: ‏109.90 ‏₪ ILS
   - [XL](https://www.rsport.co.il/products/חולצת-כדורגל-ורדר-ברמן-חוץ-24-25-גברים?variant=47504755065082)
     Availability: Available
