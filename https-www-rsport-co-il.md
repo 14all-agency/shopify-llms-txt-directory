@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-10-24T08:01:05.734Z
+- Updated At: 2025-10-24T12:01:21.642Z
 
 ## Products
 
@@ -48391,13 +48391,13 @@
 ## Collections
 
 - [ליגה אנגלית חולצות כדורגל ומוצרי ספורט](https://www.rsport.co.il/collections/ליגה-אנגלית): המבחר הגדול ביותר של חולצות ומוצרי כדורגל מהליגה האנגלית – עכשיו באר ספורט מציעים לכם מגוון רחב של חולצות כדורגל מהפרמייר ליג, כולל חולצות משחק רשמיות, חולצות אוהד, חליפות ילדים, אימוניות, מעילי רוח, חולצות שוער, חולצות עבר, בגדי תינוקות ועוד. כל המוצרים באיכות הגבוהה ביותר ובמחירים אטרקטיביים. תמצאו כאן את המותגים של הקבוצות הגדולות בעולם – מנצ'סטר סיטי, מנצ'סטר יונייטד, ליברפול, ארסנל, צ'לסי, טוטנהאם ועוד.
-  Updated: 2025-10-16T23:09:29Z
+  Updated: 2025-10-24T11:18:33Z
   Total Products: 241
 - [ארסנל חולצות כדורגל, חליפות ספורט ומוצרי אוהדים | Arsenal FC](https://www.rsport.co.il/collections/ארסנל): חולצות ארסנל, חליפות כדורגל ומוצרי ספורט לכל הגילאים. מבחר רחב של מוצרים לאוהדי Arsenal איכות, סטייל ונאמנות למועדון.
   Updated: 2025-10-03T17:44:54Z
   Total Products: 74
 - [גברים](https://www.rsport.co.il/collections/גברים)
-  Updated: 2025-10-17T11:19:14Z
+  Updated: 2025-10-24T11:18:33Z
   Total Products: 943
 - [נשים](https://www.rsport.co.il/collections/נשים)
   Updated: 2025-10-06T22:42:14Z
@@ -48412,7 +48412,7 @@
   Updated: 2025-10-12T11:17:24Z
   Total Products: 67
 - [מנצ’סטר סיטי חולצות כדורגל, חליפות ומוצרי ספורט | Manchester City](https://www.rsport.co.il/collections/מנצסטר-סיטי): חולצות מנצ’סטר סיטי, חליפות כדורגל ומוצרי ספורט לכל הגילאים. מגוון עיצובים עדכניים ואיכותיים לאוהדי Manchester City – סטייל ונאמנות למועדון.
-  Updated: 2025-10-16T22:19:54Z
+  Updated: 2025-10-24T11:18:33Z
   Total Products: 49
 - [חולצות כדורגל ליברפול ומוצרי ספורט | איכות ומבחר למעריצים](https://www.rsport.co.il/collections/ליברפול): גלו את קולקציית חולצות הכדורגל של ליברפול לעונת 25/26 ומוצרי ספורט נבחרים. מבחר פריטים איכותיים ומעודכנים לכל אוהדי המועדון
   Updated: 2025-10-06T11:17:45Z
@@ -48460,7 +48460,7 @@
   Updated: 2025-10-02T12:25:51Z
   Total Products: 63
 - [ליגה גרמנית](https://www.rsport.co.il/collections/ליגה-גרמנית): כדורגל מהליגה הגרמנית – גלו את הקבוצות הגדולות והאהובות של הבונדסליגה, כולל באיירן מינכן האלופה, דורטמונד המלהיבה, שאלקה 04 המהפנטת, ורדר ברמן הקלאסית, וולפסבורג המפתיעה, הרטה ברלין הוותיקות ועוד. אצלנו תוכלו למצוא לא רק חולצות משחק, אלא גם חולצות אוהדים, חולצות אימון, חליפות ילדים מושלמות, מעילי רוח מחממים לחורף, חולצות שוער מקצועיות, חולצות עבר נוסטלגיות לכל דור, בגדי תינוקות לקהל האוהדים הצעיר ביותר... הצג עוד כדורגל מהליגה הגרמנית – גלו את הקבוצות הגדולות והאהובות של הבונדסליגה, כולל באיירן מינכן האלופה, דורטמונד המלהיבה, שאלקה 04 המהפנטת, ורדר ברמן הקלאסית, וולפסבורג המפתיעה, הרטה ברלין הוותיקות ועוד. אצלנו תוכלו למצוא לא רק חולצות משחק, אלא גם חולצות אוהדים, חולצות אימון, חליפות ילדים מושלמות, מעילי רוח מחממים לחורף, חולצות שוער מקצועיות, חולצות עבר נוסטלגיות לכל דור, בגדי תינוקות לקהל האוהדים הצעיר ביותר. כל הדגמים זמינים במידות שונות, עם אפשרות להדפיס שם ומספר בהתאמה אישית – בין אם של שחקן אהוב ובין אם שלכם. בין אם אתה מחפש חולצת אוהד או חולצת שחקן, לתמוך בקבוצה שלך בסטייל – כל מה שאוהד אמיתי צריך, במקום אחד. הצג פחות גלו את הקבוצות הגדולות והאהובות של הבונדסליגה, כולל באיירן מינכן האלופה, דורטמונד המלהיבה, שאלקה 04 המהפנטת, ורדר ברמן הקלאסית, וולפסבורג המפתיעה, הרטה ברלין הוותיקות ועוד. אצלנו תוכלו למצוא לא רק חולצות משחק, אלא גם חולצות אוהדים, חולצות אימון, חליפות ילדים מושלמות, מעילי רוח מחממים לחורף, חולצות שוער מקצועיות, חולצות עבר נוסטלגיות לכל דור, בגדי תינוקות לקהל האוהדים הצעיר ביותר... הצג עוד כדורגל מהליגה הגרמנית – גלו את הקבוצות הגדולות והאהובות של הבונדסליגה, כולל באיירן מינכן האלופה, דורטמונד המלהיבה, שאלקה 04 המהפנטת, ורדר ברמן הקלאסית, וולפסבורג המפתיעה, הרטה ברלין הוותיקות ועוד. אצלנו תוכלו למצוא לא רק חולצות משחק, אלא גם חולצות אוהדים, חולצות אימון, חליפות ילדים מושלמות, מעילי רוח מחממים לחורף, חולצות שוער מקצועיות, חולצות עבר נוסטלגיות לכל דור, בגדי תינוקות לקהל האוהדים הצעיר ביותר. כל הדגמים זמינים במידות שונות, עם אפשרות להדפיס שם ומספר בהתאמה אישית – בין אם של שחקן אהוב ובין אם שלכם. בין אם אתה מחפש חולצת אוהד או חולצת שחקן, לתמוך בקבוצה שלך בסטייל – כל מה שאוהד אמיתי צריך, במקום אחד. הצג פחות .desktop-only { display: block; direction: rtl; text-align: right; } .mobile-only { display: none; direction: rtl; text-align: right; } .inline-btn { background: none; border: none; color: #0077cc; text-decoration: underline; cursor: pointer; font-size: 1em; padding: 0; margin: 0; } @media (max-width: 768px) { .desktop-only { display: none; } .mobile-only { display: block; } } // הפונקציות שמטפלות בהצגת הטקסט המלא document.getElementById('toggle-btn-desktop').addEventListener('click', function() { document.getElementById('full-text-desktop').style.display = 'block'; document.getElementById('short-text-desktop').style.display = 'none'; }); document.getElementById('toggle-btn-less-desktop').addEventListener('click', function() { document.getElementById('full-text-desktop').style.display = 'none'; document.getElementById('short-text-desktop').style.display = 'block'; }); document.getElementById('toggle-btn').addEventListener('click', function() { document.getElementById('full-text').style.display = 'block'; document.getElementById('short-text').style.display = 'none'; }); document.getElementById('toggle-btn-less').addEventListener('click', function() { document.getElementById('full-text').style.display = 'none'; document.getElementById('short-text').style.display = 'block'; });
-  Updated: 2025-10-02T12:25:51Z
+  Updated: 2025-10-24T11:18:33Z
   Total Products: 136
 - [בורוסיה דורטמונד](https://www.rsport.co.il/collections/בורוסיה-דורטמונד): בורוסיה דורטמונד – אחת הקבוצות המלהיבות ביותר בבונדסליגה, שמביאה איתה אנרגיה בלתי נגמרת, רוח לחימה ויכולת מרשימה על המגרש. הקבוצה הצהובה-שחורה תמיד ידועה בהתקפה הדינמית ובמשחק האנרגטי שלה. כאן תוכלו למצוא את חולצות המשחק המפורסמות, חולצות אוהדים, חולצות אימון מקצועיות, חולצות שוער ועוד. תנו לנו לעזור לכם להראות את התמיכה בקבוצה שלכם בכל רגע – על המגרש, באימון או ביום יום. הצג עוד בורוסיה דורטמונד היא קבוצה בעלת מסורת עשירה בכדורגל הגרמני, עם שחקנים מוכשרים ששמים את המועדון על המפה העולמית. החולצות שלה, בעיצוב הצהוב-שחור האייקוני, הן סמל לאוהדים בכל רחבי העולם. אנחנו מציעים מגוון רחב של מוצרים – מחולצות משחק רשמיות ועד חולצות אוהדים בעיצובים מגוונים, חולצות אימון מקצועיות, בגדי ילדים, חולצות שוער ומידות שונות לכל הגילאים. אם אתם אוהדים את דורטמונד או סתם אוהבים את העיצוב שלה, תוכלו למצוא אצלנו את כל מה שצריך כדי להראות את אהבתכם לקבוצה. כל דגם ניתן להדפסה אישית עם שם ומספר של שחקן אהוב או אפילו השם שלכם. ההזמנה קלה ומהירה, השירות שלנו מקצועי, והמשלוח לכל הארץ. בחרו את המוצרים שלכם ותראו את הקבוצה שלכם בגאווה. הצג פחות בורוסיה דורטמונד – אחת הקבוצות המלהיבות ביותר בבונדסליגה, שמביאה איתה אנרגיה בלתי נגמרת, רוח לחימה ויכולת מרשימה על המגרש. הקבוצה הצהובה-שחורה תמיד ידועה בהתקפה הדינמית ובמשחק האנרגטי שלה. כאן תוכלו למצוא את חולצות המשחק המפורסמות, חולצות אוהדים, חולצות אימון מקצועיות, חולצות שוער ועוד... הצג עוד בורוסיה דורטמונד היא קבוצה בעלת מסורת עשירה בכדורגל הגרמני, עם שחקנים מוכשרים ששמים את המועדון על המפה העולמית. החולצות שלה, בעיצוב הצהוב-שחור האייקוני, הן סמל לאוהדים בכל רחבי העולם. אנחנו מציעים מגוון רחב של מוצרים – מחולצות משחק רשמיות ועד חולצות אוהדים בעיצובים מגוונים, חולצות אימון מקצועיות, בגדי ילדים, חולצות שוער ומידות שונות לכל הגילאים. אם אתם אוהדים את דורטמונד או סתם אוהבים את העיצוב שלה, תוכלו למצוא אצלנו את כל מה שצריך כדי להראות את אהבתכם לקבוצה. כל דגם ניתן להדפסה אישית עם שם ומספר של שחקן אהוב או אפילו השם שלכם. ההזמנה קלה ומהירה, השירות שלנו מקצועי, והמשלוח לכל הארץ. בחרו את המוצרים שלכם ותראו את הקבוצה שלכם בגאווה. הצג פחות .desktop-only { display: block; direction: rtl; text-align: right; } .mobile-only { display: none; direction: rtl; text-align: right; } .inline-btn { background: none; border: none; color: #0077cc; text-decoration: underline; cursor: pointer; font-size: 1em; padding: 0; margin: 0; } @media (max-width: 768px) { .desktop-only { display: none; } .mobile-only { display: block; } } // הפונקציות שמטפלות בהצגת הטקסט המלא document.getElementById('toggle-btn-desktop').addEventListener('click', function() { document.getElementById('full-text-desktop').style.display = 'block'; document.getElementById('short-text-desktop').style.display = 'none'; }); document.getElementById('toggle-btn-less-desktop').addEventListener('click', function() { document.getElementById('full-text-desktop').style.display = 'none'; document.getElementById('short-text-desktop').style.display = 'block'; }); document.getElementById('toggle-btn').addEventListener('click', function() { document.getElementById('full-text').style.display = 'block'; document.getElementById('short-text').style.display = 'none'; }); document.getElementById('toggle-btn-less').addEventListener('click', function() { document.getElementById('full-text').style.display = 'none'; document.getElementById('short-text').style.display = 'block'; });
   Updated: 2025-10-02T11:52:03Z
@@ -48772,7 +48772,7 @@
   Updated: 2025-10-20T11:10:52Z
   Total Products: 58
 - [חולצות כדורגל - מגוון רחב במחירים משתלמים](https://www.rsport.co.il/collections/חולצות-כדורגל): האתר מתמחה במגוון רחב של חולצות משחק, כולל חולצות עבר, חולצות אימוניות וחליפות כדורגל לילדים.
-  Updated: 2025-10-17T11:19:14Z
+  Updated: 2025-10-24T11:18:33Z
   Total Products: 826
 - [חליפות כדורגל ילדים | הדפסת שם ומספר | משלוחים חינם](https://www.rsport.co.il/collections/חליפות-כדורגל-ילדים): אם אתם מחפשים את המתנה המושלמת לילד שאוהב כדורגל חליפות כדורגל לילדים באיכות גבוהה ובמחירים ללא תחרות הפתיעו את הילדים עם חליפה של הקבוצה האהובה עליהם
   Updated: 2025-10-16T23:09:29Z
@@ -48781,7 +48781,7 @@
   Updated: 2025-10-02T11:31:50Z
   Total Products: 11
 - [80 off selected items](https://www.rsport.co.il/collections/80-off-selected-items)
-  Updated: 2025-10-17T11:19:14Z
+  Updated: 2025-10-24T11:18:33Z
   Total Products: 709
 - [גרביים](https://www.rsport.co.il/collections/גרביים)
   Updated: 2025-10-06T22:42:09Z
@@ -48865,13 +48865,13 @@
   Updated: 2025-10-02T11:31:37Z
   Total Products: 12
 - [AVADA - Best Sellers](https://www.rsport.co.il/collections/avada-best-sellers)
-  Updated: 2025-10-21T01:36:12Z
+  Updated: 2025-10-24T11:18:33Z
   Total Products: 2104
 - [פיורנטינה רטרו](https://www.rsport.co.il/collections/פיורנטינה-רטרו): אנו מציעים חולצות כדורגל רטרו של פיורנטינה מהעבר המפואר, בעיצובים קלאסיים ששימשו את הקבוצה בשנות ה-90 ותחילת ה-2000. בין השחקנים הבולטים מהתקופות הללו: גבריאל באטיסטוטה, ווֹלפגנג מולה, אנג'לו די ליוויו ופרנצ'סקו טולדו. כל פריט בקטגוריה מחבר אתכם להיסטוריה המפוארת של פיורנטינה ומספק חוויה נוסטלגית לחובבי הכדורגל.
   Updated: 2025-10-02T11:15:25Z
   Total Products: 9
 - [חולצות כדורגל 25/26](https://www.rsport.co.il/collections/חולצות-כדורגל-25-26): חולצות הכדורגל של עונת 25/26 מביאות את הסטייל החדש של הקבוצות הגדולות בעולם כולל חולצת ריאל מדריד, חולצת ברצלונה, חולצת מנצ'סטר יונייטד, חולצת יובנטוס, חולצת ארסנל, פריז סן ז'רמן, אינטר, באיירן מינכן ועוד. כל חולצה מעוצבת בטכנולוגיה מתקדמת, עם נוחות מרבית ועיצוב עדכני שמתאים ליציע, לרחוב ולחיים עצמם. זו ההזדמנות שלך להראות את הגאווה הקבוצתית שלך בעונה חדשה ומרגשת.
-  Updated: 2025-10-17T11:19:14Z
+  Updated: 2025-10-24T11:18:33Z
   Total Products: 279
 - [ווסטהאם](https://www.rsport.co.il/collections/ווסטהאם)
   Updated: 2025-10-16T22:55:35Z
@@ -48883,7 +48883,7 @@
   Updated: 2025-10-02T11:15:26Z
   Total Products: 2
 - [בגביע העולם למועדונים | חולצות ואביזרים](https://www.rsport.co.il/collections/fifa-club-world-cup): גלה את קולקציית חולצות ומוצרי הספורט של קבוצות המשתתפות בגביע העולם למועדונים. מבחר בלעדי לאוהדים אמיתיים איכות, סטייל, ותשוקה למשחק.
-  Updated: 2025-10-17T11:19:14Z
+  Updated: 2025-10-24T11:18:33Z
   Total Products: 371
 - [ליגה מקסיקנית](https://www.rsport.co.il/collections/ליגה-מקסיקנית): ליגת העל המקסיקנית (Liga MX) היא אחת הליגות התוססות, העשירות והאהודות באמריקה הלטינית, עם היסטוריה ספורטיבית עמוקה ואווירה סוחפת באצטדיונים. הליגה מתאפיינת במשחק התקפי, קצב גבוה ותשוקה אמיתית לכדורגל. קבוצות כמו מונטריי, קלוב אמריקה, טיגרס, גוודלחרה וקרוס אסול מובילות את הטבלה מדי עונה ומושכות קהלים עצומים ברחבי מקסיקו והעולם. בין אם אתה אוהד נאמן של אחת היריבות הגדולות או פשוט מוקסם מהכדורגל המקסיקני.
   Updated: 2025-10-02T11:52:10Z
@@ -49024,7 +49024,7 @@
   Updated: 2025-10-02T11:32:33Z
   Total Products: 4
 - [ורדר ברמן](https://www.rsport.co.il/collections/ורדר-ברמן): הצטרפו לרוח הלחימה של ורדר ברמן עם הקולקציה המובילה שלנו. ורדר ברמן לא רק קבוצה, זו תעודת זהות. עם הקולקציה שלנו של חולצות כדורגל ומדים, תוכל להרגיש את האופי הייחודי של המועדון המפואר. בין אם אתה מעודד מהיציע או תומך מהבית... הצג עוד ורדר ברמן לא רק קבוצה, זו תעודת זהות. עם הקולקציה שלנו של חולצות כדורגל ומדים, תוכל להרגיש את האופי הייחודי של המועדון המפואר. בין אם אתה מעודד מהיציע או תומך מהבית, אנו מציעים מגוון חולצות בעיצובים מסורתיים ועדכניים, שמביאים את רוח הקבוצה היישר אליכם.בחרו בין החולצה הביתית הירוקה הקלאסית, החולצה האורחת הלבנה שמתאימה לכל סיטואציה, או החולצה השלישית המגניבה שמתאימה לכל אוהד.כל חולצה עשויה מחומרים איכותיים, המספקים נוחות מקסימלית, כך שתהיו מוכנים לכל אימון, משחק או סתם לבלות בעיר עם תמיכה בקבוצה.הקולקציה שלנו כוללת מידות לכל המשפחה, כך שכולם יכולים להרגיש חלק מהמועדון ולתמוך בקבוצה בכל סיטואציה. אל תשכחו להשלים את הלוק עם מכנסיים וגרביים תואמים.הצג פחות הצטרפו לרוח הלחימה של ורדר ברמן עם הקולקציה המובילה שלנו. ורדר ברמן לא רק קבוצה, זו תעודת זהות. עם הקולקציה שלנו של חולצות כדורגל ומדים, תוכל להרגיש את האופי הייחודי של המועדון המפואר. בין אם אתה מעודד מהיציע או תומך מהבית... הצג עוד ורדר ברמן לא רק קבוצה, זו תעודת זהות. עם הקולקציה שלנו של חולצות כדורגל ומדים, תוכל להרגיש את האופי הייחודי של המועדון המפואר. בין אם אתה מעודד מהיציע או תומך מהבית, אנו מציעים מגוון חולצות בעיצובים מסורתיים ועדכניים, שמביאים את רוח הקבוצה היישר אליכם.בחרו בין החולצה הביתית הירוקה הקלאסית, החולצה האורחת הלבנה שמתאימה לכל סיטואציה, או החולצה השלישית המגניבה שמתאימה לכל אוהד.כל חולצה עשויה מחומרים איכותיים, המספקים נוחות מקסימלית, כך שתהיו מוכנים לכל אימון, משחק או סתם לבלות בעיר עם תמיכה בקבוצה.הקולקציה שלנו כוללת מידות לכל המשפחה, כך שכולם יכולים להרגיש חלק מהמועדון ולתמוך בקבוצה בכל סיטואציה. אל תשכחו להשלים את הלוק עם מכנסיים וגרביים תואמים.הצג פחות .desktop-only { display: block; direction: rtl; text-align: right; } .mobile-only { display: none; direction: rtl; text-align: right; } .inline-btn { background: none; border: none; color: #0077cc; text-decoration: underline; cursor: pointer; font-size: 1em; padding: 0; margin: 0; } @media (max-width: 768px) { .desktop-only { display: none; } .mobile-only { display: block; } } // הפונקציות שמטפלות בהצגת הטקסט המלא document.getElementById('toggle-btn-desktop').addEventListener('click', function() { document.getElementById('full-text-desktop').style.display = 'block'; document.getElementById('short-text-desktop').style.display = 'none'; }); document.getElementById('toggle-btn-less-desktop').addEventListener('click', function() { document.getElementById('full-text-desktop').style.display = 'none'; document.getElementById('short-text-desktop').style.display = 'block'; }); document.getElementById('toggle-btn').addEventListener('click', function() { document.getElementById('full-text').style.display = 'block'; document.getElementById('short-text').style.display = 'none'; }); document.getElementById('toggle-btn-less').addEventListener('click', function() { document.getElementById('full-text').style.display = 'none'; document.getElementById('short-text').style.display = 'block'; });
-  Updated: 2025-10-02T11:32:35Z
+  Updated: 2025-10-24T11:18:33Z
   Total Products: 4
 - [ריבר פלייט](https://www.rsport.co.il/collections/ריבר-פלייט): הצטרפו לרוח המפוארת של ריבר פלייט עם הקולקציה המובילה שלנו. ריבר פלייט לא רק קבוצה, זו אגדת ספורט. עם הקולקציה שלנו של חולצות כדורגל ומדים, תוכל להרגיש את הכבוד, המסורת וההצלחה של אחד המועדונים הגדולים בדרום אמריקה. בין אם אתה מעודד מהיציע או תומך מהבית... הצג עוד ריבר פלייט לא רק קבוצה, זו אגדת ספורט. עם הקולקציה שלנו של חולצות כדורגל ומדים, תוכל להרגיש את הכבוד, המסורת וההצלחה של אחד המועדונים הגדולים בדרום אמריקה. בין אם אתה מעודד מהיציע או תומך מהבית, אנו מציעים מגוון חולצות בעיצובים שמייצגים את רוח הקבוצה הייחודית.בחרו בין החולצה הביתית הלבנה האייקונית עם הקו האדום, החולצה האורחת הכחולה המהודרת, או החולצה השלישית שכוללת עיצובים מיוחדים שמתאימים לכל אוהד.כל חולצה עשויה מחומרים איכותיים, המספקים נוחות מקסימלית, כך שתהיו מוכנים לכל אימון, משחק או סתם לבלות בעיר עם תמיכה בקבוצה.הקולקציה שלנו כוללת מידות לכל המשפחה, כך שכולם יכולים להרגיש חלק מהמועדון ולתמוך בקבוצה בכל סיטואציה. אל תשכחו להשלים את הלוק עם מכנסיים וגרביים תואמים.הצג פחות הצטרפו לרוח המפוארת של ריבר פלייט עם הקולקציה המובילה שלנו. ריבר פלייט לא רק קבוצה, זו אגדת ספורט. עם הקולקציה שלנו של חולצות כדורגל ומדים, תוכל להרגיש את הכבוד, המסורת וההצלחה של אחד המועדונים הגדולים בדרום אמריקה. בין אם אתה מעודד מהיציע או תומך מהבית... הצג עוד ריבר פלייט לא רק קבוצה, זו אגדת ספורט. עם הקולקציה שלנו של חולצות כדורגל ומדים, תוכל להרגיש את הכבוד, המסורת וההצלחה של אחד המועדונים הגדולים בדרום אמריקה. בין אם אתה מעודד מהיציע או תומך מהבית, אנו מציעים מגוון חולצות בעיצובים שמייצגים את רוח הקבוצה הייחודית.בחרו בין החולצה הביתית הלבנה האייקונית עם הקו האדום, החולצה האורחת הכחולה המהודרת, או החולצה השלישית שכוללת עיצובים מיוחדים שמתאימים לכל אוהד.כל חולצה עשויה מחומרים איכותיים, המספקים נוחות מקסימלית, כך שתהיו מוכנים לכל אימון, משחק או סתם לבלות בעיר עם תמיכה בקבוצה.הקולקציה שלנו כוללת מידות לכל המשפחה, כך שכולם יכולים להרגיש חלק מהמועדון ולתמוך בקבוצה בכל סיטואציה. אל תשכחו להשלים את הלוק עם מכנסיים וגרביים תואמים.הצג פחות .desktop-only { display: block; direction: rtl; text-align: right; } .mobile-only { display: none; direction: rtl; text-align: right; } .inline-btn { background: none; border: none; color: #0077cc; text-decoration: underline; cursor: pointer; font-size: 1em; padding: 0; margin: 0; } @media (max-width: 768px) { .desktop-only { display: none; } .mobile-only { display: block; } } // הפונקציות שמטפלות בהצגת הטקסט המלא document.getElementById('toggle-btn-desktop').addEventListener('click', function() { document.getElementById('full-text-desktop').style.display = 'block'; document.getElementById('short-text-desktop').style.display = 'none'; }); document.getElementById('toggle-btn-less-desktop').addEventListener('click', function() { document.getElementById('full-text-desktop').style.display = 'none'; document.getElementById('short-text-desktop').style.display = 'block'; }); document.getElementById('toggle-btn').addEventListener('click', function() { document.getElementById('full-text').style.display = 'block'; document.getElementById('short-text').style.display = 'none'; }); document.getElementById('toggle-btn-less').addEventListener('click', function() { document.getElementById('full-text').style.display = 'none'; document.getElementById('short-text').style.display = 'block'; });
   Updated: 2025-10-02T11:52:03Z
@@ -49051,7 +49051,7 @@
   Updated: 2025-10-17T11:19:14Z
   Total Products: 26
 - [חולצות כדורגל גרסת שחקן](https://www.rsport.co.il/collections/חולצות-כדורגל-גרסת-שחקן)
-  Updated: 2025-10-16T22:38:22Z
+  Updated: 2025-10-24T11:18:33Z
   Total Products: 158
 - [חולצות כדורגל שרוול ארוך](https://www.rsport.co.il/collections/חולצות-כדורגל-שרוול-ארוך)
   Updated: 2025-10-13T11:15:47Z
