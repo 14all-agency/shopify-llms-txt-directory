@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-10-03T06:30:37Z
 - Contact Email: mandiemaddox@mystichiddengem.com
-- Updated At: 2025-10-23T20:00:32.992Z
+- Updated At: 2025-10-24T00:00:38.085Z
 
 ## Products
 
@@ -1361,7 +1361,7 @@
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/1921614712821865457_2048.jpg?v=1760927085
   Price: $78.73 USD
 - [Men's Neon Dark Deals Aesthetic Tee](https://lachrymalgems.store/products/unisex-softstyle-t-shirt-comfortable-casual-wear-perfect-for-everyday-fashion-gifts-birthdays-relaxed-style-and-celebrations): Introducing a Unisex Softstyle T-Shirt that perfectly blends comfort and style. The lightweight fabric feels blissful against the skin, making it an ideal choice for everyday wear. Its classic fit and crew neckline ensure versatility, so you can dress it up or down for any occasion
-  Updated: 2025-10-22T09:12:32Z
+  Updated: 2025-10-23T21:54:03Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
@@ -1369,93 +1369,93 @@
   - [Navy / S](https://lachrymalgems.store/products/unisex-softstyle-t-shirt-comfortable-casual-wear-perfect-for-everyday-fashion-gifts-birthdays-relaxed-style-and-celebrations?variant=47221842641141)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/5143733093780037210_2048.jpg?v=1761070901
-    Price: $28.99 USD
+    Price: $32.99 USD
   - [Red / S](https://lachrymalgems.store/products/unisex-softstyle-t-shirt-comfortable-casual-wear-perfect-for-everyday-fashion-gifts-birthdays-relaxed-style-and-celebrations?variant=47221842673909)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/3667910535987202444_2048.jpg?v=1761070901
-    Price: $27.99 USD
+    Price: $32.99 USD
   - [White / S](https://lachrymalgems.store/products/unisex-softstyle-t-shirt-comfortable-casual-wear-perfect-for-everyday-fashion-gifts-birthdays-relaxed-style-and-celebrations?variant=47221842706677)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/15540038287618022614_2048.jpg?v=1761070901
-    Price: $25.99 USD
+    Price: $32.99 USD
   - [Black / S](https://lachrymalgems.store/products/unisex-softstyle-t-shirt-comfortable-casual-wear-perfect-for-everyday-fashion-gifts-birthdays-relaxed-style-and-celebrations?variant=47221842739445)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/5995600066440571733_2048.jpg?v=1761070901
-    Price: $27.99 USD
+    Price: $32.99 USD
   - [Navy / M](https://lachrymalgems.store/products/unisex-softstyle-t-shirt-comfortable-casual-wear-perfect-for-everyday-fashion-gifts-birthdays-relaxed-style-and-celebrations?variant=47221842772213)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/5143733093780037210_2048.jpg?v=1761070901
-    Price: $28.99 USD
+    Price: $32.99 USD
   - [Red / M](https://lachrymalgems.store/products/unisex-softstyle-t-shirt-comfortable-casual-wear-perfect-for-everyday-fashion-gifts-birthdays-relaxed-style-and-celebrations?variant=47221842804981)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/3667910535987202444_2048.jpg?v=1761070901
-    Price: $27.99 USD
+    Price: $32.99 USD
   - [White / M](https://lachrymalgems.store/products/unisex-softstyle-t-shirt-comfortable-casual-wear-perfect-for-everyday-fashion-gifts-birthdays-relaxed-style-and-celebrations?variant=47221842837749)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/15540038287618022614_2048.jpg?v=1761070901
-    Price: $27.99 USD
+    Price: $32.99 USD
   - [Black / M](https://lachrymalgems.store/products/unisex-softstyle-t-shirt-comfortable-casual-wear-perfect-for-everyday-fashion-gifts-birthdays-relaxed-style-and-celebrations?variant=47221842870517)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/5995600066440571733_2048.jpg?v=1761070901
-    Price: $27.99 USD
+    Price: $32.99 USD
   - [Navy / L](https://lachrymalgems.store/products/unisex-softstyle-t-shirt-comfortable-casual-wear-perfect-for-everyday-fashion-gifts-birthdays-relaxed-style-and-celebrations?variant=47221842903285)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/5143733093780037210_2048.jpg?v=1761070901
-    Price: $28.99 USD
+    Price: $32.99 USD
   - [Red / L](https://lachrymalgems.store/products/unisex-softstyle-t-shirt-comfortable-casual-wear-perfect-for-everyday-fashion-gifts-birthdays-relaxed-style-and-celebrations?variant=47221842936053)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/3667910535987202444_2048.jpg?v=1761070901
-    Price: $27.99 USD
+    Price: $32.99 USD
   - [White / L](https://lachrymalgems.store/products/unisex-softstyle-t-shirt-comfortable-casual-wear-perfect-for-everyday-fashion-gifts-birthdays-relaxed-style-and-celebrations?variant=47221842968821)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/15540038287618022614_2048.jpg?v=1761070901
-    Price: $25.99 USD
+    Price: $32.99 USD
   - [Black / L](https://lachrymalgems.store/products/unisex-softstyle-t-shirt-comfortable-casual-wear-perfect-for-everyday-fashion-gifts-birthdays-relaxed-style-and-celebrations?variant=47221843001589)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/5995600066440571733_2048.jpg?v=1761070901
-    Price: $27.99 USD
+    Price: $32.99 USD
   - [Navy / XL](https://lachrymalgems.store/products/unisex-softstyle-t-shirt-comfortable-casual-wear-perfect-for-everyday-fashion-gifts-birthdays-relaxed-style-and-celebrations?variant=47221843034357)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/5143733093780037210_2048.jpg?v=1761070901
-    Price: $28.99 USD
+    Price: $32.99 USD
   - [Red / XL](https://lachrymalgems.store/products/unisex-softstyle-t-shirt-comfortable-casual-wear-perfect-for-everyday-fashion-gifts-birthdays-relaxed-style-and-celebrations?variant=47221843067125)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/3667910535987202444_2048.jpg?v=1761070901
-    Price: $27.99 USD
+    Price: $32.99 USD
   - [White / XL](https://lachrymalgems.store/products/unisex-softstyle-t-shirt-comfortable-casual-wear-perfect-for-everyday-fashion-gifts-birthdays-relaxed-style-and-celebrations?variant=47221843099893)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/15540038287618022614_2048.jpg?v=1761070901
-    Price: $27.99 USD
+    Price: $32.99 USD
   - [Black / XL](https://lachrymalgems.store/products/unisex-softstyle-t-shirt-comfortable-casual-wear-perfect-for-everyday-fashion-gifts-birthdays-relaxed-style-and-celebrations?variant=47221843132661)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/5995600066440571733_2048.jpg?v=1761070901
-    Price: $27.99 USD
+    Price: $32.99 USD
   - [Navy / 2XL](https://lachrymalgems.store/products/unisex-softstyle-t-shirt-comfortable-casual-wear-perfect-for-everyday-fashion-gifts-birthdays-relaxed-style-and-celebrations?variant=47221843165429)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/5143733093780037210_2048.jpg?v=1761070901
-    Price: $29.99 USD
+    Price: $32.99 USD
   - [Red / 2XL](https://lachrymalgems.store/products/unisex-softstyle-t-shirt-comfortable-casual-wear-perfect-for-everyday-fashion-gifts-birthdays-relaxed-style-and-celebrations?variant=47221843198197)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/3667910535987202444_2048.jpg?v=1761070901
-    Price: $29.99 USD
+    Price: $32.99 USD
   - [White / 2XL](https://lachrymalgems.store/products/unisex-softstyle-t-shirt-comfortable-casual-wear-perfect-for-everyday-fashion-gifts-birthdays-relaxed-style-and-celebrations?variant=47221843230965)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/15540038287618022614_2048.jpg?v=1761070901
-    Price: $28.99 USD
+    Price: $32.99 USD
   - [Black / 2XL](https://lachrymalgems.store/products/unisex-softstyle-t-shirt-comfortable-casual-wear-perfect-for-everyday-fashion-gifts-birthdays-relaxed-style-and-celebrations?variant=47221843263733)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/5995600066440571733_2048.jpg?v=1761070901
-    Price: $28.99 USD
+    Price: $32.99 USD
   - [Navy / 3XL](https://lachrymalgems.store/products/unisex-softstyle-t-shirt-comfortable-casual-wear-perfect-for-everyday-fashion-gifts-birthdays-relaxed-style-and-celebrations?variant=47221843296501)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/5143733093780037210_2048.jpg?v=1761070901
-    Price: $31.99 USD
+    Price: $32.99 USD
   - [Red / 3XL](https://lachrymalgems.store/products/unisex-softstyle-t-shirt-comfortable-casual-wear-perfect-for-everyday-fashion-gifts-birthdays-relaxed-style-and-celebrations?variant=47221843329269)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/3667910535987202444_2048.jpg?v=1761070901
     Price: $32.99 USD
 - [Unisex Performance Long Sleeve Shirt - Colorful Cloud Design | Athletic Wear](https://lachrymalgems.store/products/unisex-performance-long-sleeve-shirt-with-colorful-cloud-design-athletic-shirt-outdoor-activity-wear-gift-for-fitness-enthusiasts): Elevate your workout with our unisex performance long sleeve shirt featuring a vibrant colorful cloud design. Perfect for running, hiking & outdoor activities. Moisture-wicking athletic wear for fitness enthusiasts.
-  Updated: 2025-10-22T08:06:17Z
+  Updated: 2025-10-23T21:53:00Z
   Vendor: Printify
   Product Type: Long-sleeve
   Availability: Available
@@ -1463,108 +1463,108 @@
   - [Black / XS](https://lachrymalgems.store/products/unisex-performance-long-sleeve-shirt-with-colorful-cloud-design-athletic-shirt-outdoor-activity-wear-gift-for-fitness-enthusiasts?variant=47221911224565)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/2705715499407780975_2048.jpg?v=1761073327
-    Price: $63.04 USD
+    Price: $68.99 USD
   - [White / XS](https://lachrymalgems.store/products/unisex-performance-long-sleeve-shirt-with-colorful-cloud-design-athletic-shirt-outdoor-activity-wear-gift-for-fitness-enthusiasts?variant=47221911257333)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/10951624154416222797_2048.jpg?v=1761073327
-    Price: $63.04 USD
+    Price: $68.99 USD
   - [Sport Graphite / XS](https://lachrymalgems.store/products/unisex-performance-long-sleeve-shirt-with-colorful-cloud-design-athletic-shirt-outdoor-activity-wear-gift-for-fitness-enthusiasts?variant=47221911290101)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/11699342785334013563_2048.jpg?v=1761073327
-    Price: $63.04 USD
+    Price: $68.99 USD
   - [Sport Red / XS](https://lachrymalgems.store/products/unisex-performance-long-sleeve-shirt-with-colorful-cloud-design-athletic-shirt-outdoor-activity-wear-gift-for-fitness-enthusiasts?variant=47221911322869)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/713796044074234077_2048.jpg?v=1761073327
-    Price: $63.04 USD
+    Price: $68.99 USD
   - [Black / S](https://lachrymalgems.store/products/unisex-performance-long-sleeve-shirt-with-colorful-cloud-design-athletic-shirt-outdoor-activity-wear-gift-for-fitness-enthusiasts?variant=47221911355637)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/2705715499407780975_2048.jpg?v=1761073327
-    Price: $40.47 USD
+    Price: $68.99 USD
   - [White / S](https://lachrymalgems.store/products/unisex-performance-long-sleeve-shirt-with-colorful-cloud-design-athletic-shirt-outdoor-activity-wear-gift-for-fitness-enthusiasts?variant=47221911388405)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/10951624154416222797_2048.jpg?v=1761073327
-    Price: $63.04 USD
+    Price: $68.99 USD
   - [Sport Graphite / S](https://lachrymalgems.store/products/unisex-performance-long-sleeve-shirt-with-colorful-cloud-design-athletic-shirt-outdoor-activity-wear-gift-for-fitness-enthusiasts?variant=47221911421173)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/11699342785334013563_2048.jpg?v=1761073327
-    Price: $63.04 USD
+    Price: $68.99 USD
   - [Sport Red / S](https://lachrymalgems.store/products/unisex-performance-long-sleeve-shirt-with-colorful-cloud-design-athletic-shirt-outdoor-activity-wear-gift-for-fitness-enthusiasts?variant=47221911453941)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/713796044074234077_2048.jpg?v=1761073327
-    Price: $63.04 USD
+    Price: $68.99 USD
   - [Black / M](https://lachrymalgems.store/products/unisex-performance-long-sleeve-shirt-with-colorful-cloud-design-athletic-shirt-outdoor-activity-wear-gift-for-fitness-enthusiasts?variant=47221911486709)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/2705715499407780975_2048.jpg?v=1761073327
-    Price: $63.04 USD
+    Price: $68.99 USD
   - [White / M](https://lachrymalgems.store/products/unisex-performance-long-sleeve-shirt-with-colorful-cloud-design-athletic-shirt-outdoor-activity-wear-gift-for-fitness-enthusiasts?variant=47221911519477)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/10951624154416222797_2048.jpg?v=1761073327
-    Price: $63.04 USD
+    Price: $68.99 USD
   - [Sport Graphite / M](https://lachrymalgems.store/products/unisex-performance-long-sleeve-shirt-with-colorful-cloud-design-athletic-shirt-outdoor-activity-wear-gift-for-fitness-enthusiasts?variant=47221911552245)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/11699342785334013563_2048.jpg?v=1761073327
-    Price: $63.04 USD
+    Price: $68.99 USD
   - [Sport Red / M](https://lachrymalgems.store/products/unisex-performance-long-sleeve-shirt-with-colorful-cloud-design-athletic-shirt-outdoor-activity-wear-gift-for-fitness-enthusiasts?variant=47221911585013)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/713796044074234077_2048.jpg?v=1761073327
-    Price: $63.04 USD
+    Price: $68.99 USD
   - [Black / L](https://lachrymalgems.store/products/unisex-performance-long-sleeve-shirt-with-colorful-cloud-design-athletic-shirt-outdoor-activity-wear-gift-for-fitness-enthusiasts?variant=47221911617781)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/2705715499407780975_2048.jpg?v=1761073327
-    Price: $63.04 USD
+    Price: $68.99 USD
   - [White / L](https://lachrymalgems.store/products/unisex-performance-long-sleeve-shirt-with-colorful-cloud-design-athletic-shirt-outdoor-activity-wear-gift-for-fitness-enthusiasts?variant=47221911650549)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/10951624154416222797_2048.jpg?v=1761073327
-    Price: $63.04 USD
+    Price: $68.99 USD
   - [Sport Graphite / L](https://lachrymalgems.store/products/unisex-performance-long-sleeve-shirt-with-colorful-cloud-design-athletic-shirt-outdoor-activity-wear-gift-for-fitness-enthusiasts?variant=47221911683317)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/11699342785334013563_2048.jpg?v=1761073327
-    Price: $63.04 USD
+    Price: $68.99 USD
   - [Sport Red / L](https://lachrymalgems.store/products/unisex-performance-long-sleeve-shirt-with-colorful-cloud-design-athletic-shirt-outdoor-activity-wear-gift-for-fitness-enthusiasts?variant=47221911716085)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/713796044074234077_2048.jpg?v=1761073327
-    Price: $63.04 USD
+    Price: $68.99 USD
   - [Black / XL](https://lachrymalgems.store/products/unisex-performance-long-sleeve-shirt-with-colorful-cloud-design-athletic-shirt-outdoor-activity-wear-gift-for-fitness-enthusiasts?variant=47221911748853)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/2705715499407780975_2048.jpg?v=1761073327
-    Price: $63.04 USD
+    Price: $68.99 USD
   - [White / XL](https://lachrymalgems.store/products/unisex-performance-long-sleeve-shirt-with-colorful-cloud-design-athletic-shirt-outdoor-activity-wear-gift-for-fitness-enthusiasts?variant=47221911781621)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/10951624154416222797_2048.jpg?v=1761073327
-    Price: $63.04 USD
+    Price: $68.99 USD
   - [Sport Graphite / XL](https://lachrymalgems.store/products/unisex-performance-long-sleeve-shirt-with-colorful-cloud-design-athletic-shirt-outdoor-activity-wear-gift-for-fitness-enthusiasts?variant=47221911814389)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/11699342785334013563_2048.jpg?v=1761073327
-    Price: $63.04 USD
+    Price: $68.99 USD
   - [Sport Red / XL](https://lachrymalgems.store/products/unisex-performance-long-sleeve-shirt-with-colorful-cloud-design-athletic-shirt-outdoor-activity-wear-gift-for-fitness-enthusiasts?variant=47221911847157)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/713796044074234077_2048.jpg?v=1761073327
-    Price: $63.04 USD
+    Price: $68.99 USD
   - [Black / 2XL](https://lachrymalgems.store/products/unisex-performance-long-sleeve-shirt-with-colorful-cloud-design-athletic-shirt-outdoor-activity-wear-gift-for-fitness-enthusiasts?variant=47221911879925)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/2705715499407780975_2048.jpg?v=1761073327
-    Price: $68.62 USD
+    Price: $68.99 USD
   - [White / 2XL](https://lachrymalgems.store/products/unisex-performance-long-sleeve-shirt-with-colorful-cloud-design-athletic-shirt-outdoor-activity-wear-gift-for-fitness-enthusiasts?variant=47221911912693)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/10951624154416222797_2048.jpg?v=1761073327
-    Price: $68.62 USD
+    Price: $68.99 USD
   - [Sport Graphite / 2XL](https://lachrymalgems.store/products/unisex-performance-long-sleeve-shirt-with-colorful-cloud-design-athletic-shirt-outdoor-activity-wear-gift-for-fitness-enthusiasts?variant=47221911945461)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/11699342785334013563_2048.jpg?v=1761073327
-    Price: $68.62 USD
+    Price: $68.99 USD
   - [Sport Red / 2XL](https://lachrymalgems.store/products/unisex-performance-long-sleeve-shirt-with-colorful-cloud-design-athletic-shirt-outdoor-activity-wear-gift-for-fitness-enthusiasts?variant=47221911978229)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/713796044074234077_2048.jpg?v=1761073327
-    Price: $68.62 USD
+    Price: $68.99 USD
 - [Gothic Racerback Dress - Spooky Halloween Fashion | Unique Festival Wear](https://lachrymalgems.store/products/gothic-racerback-dress-spooky-summer-fashion-halloween-outfit-casual-everyday-wear-trendy-festival-dress-unique-gothic-apparel): Stand out in our gothic racerback dress perfect for Halloween, festivals & everyday wear. Trendy spooky summer fashion with unique gothic style. Shop this casual yet edgy dress now!
-  Updated: 2025-10-22T22:02:30Z
+  Updated: 2025-10-23T21:52:09Z
   Vendor: Printify
   Product Type: All Over Prints
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/female-model-dark-occult-racerback-dress.png?v=1761103544
-  Price: $52.42 USD
+  Price: $53.99 USD
 - [Dark Art, Lachrymal Gem Stickers](https://lachrymalgems.store/products/dark-art-lachrymal-gem-stickers): 3" × 3" Width, in 3.00 Length, in 3.00 Add a touch of personality to your favorite items with these vibrant Kiss-Cut Stickers! Perfect for customizing laptops, journals, and windows, these stickers provide a playful vibe that effortlessly enhances your space. Ideal for creative souls, artists, and anyone looking to express their unique style, they're perfect for personal use or as thoughtful gifts. These stickers shine during holidays like Valentine’s Day, birthdays, or any celebration where a little flair is appreciated. Embrace a fun, artistic atmosphere with these durable and colorful additions to your collection.Product features- Glossy paper finish for a scratch-resistant surface- Long-lasting vinyl with permanent adhesive, suitable for smooth surfaces- Vibrant colors printed with eco-friendly inks- Available in four sizes with both white and transparent options- Quick, smooth, and bubble-free application for easy decorating.Care instructions- Use a soft, clean and dry cloth to gently brush any dust or dirt off from the center of the sticker outwards.
-  Updated: 2025-10-23T11:54:55Z
+  Updated: 2025-10-23T22:09:54Z
   Vendor: Printify
   Product Type: Paper products
   Availability: Available
@@ -1574,20 +1574,20 @@
 ## Collections
 
 - [Home page](https://lachrymalgems.store/collections/frontpage): Landing pages display of best selling products
-  Updated: 2025-10-21T18:13:59Z
+  Updated: 2025-10-23T21:54:04Z
   Total Products: 19
 - [Ladies Alt. Style](https://lachrymalgems.store/collections/ladies-alt-style): Ladies trending apparel, Seasonal Fashion
-  Updated: 2025-10-22T03:25:43Z
-  Total Products: 18
+  Updated: 2025-10-23T22:20:49Z
+  Total Products: 7
 - [Mens Alt. Style](https://lachrymalgems.store/collections/mens-alt-style): Mens hip hop alternative trends and seasonal outfits.
-  Updated: 2025-10-22T13:51:41Z
-  Total Products: 15
+  Updated: 2025-10-23T22:20:49Z
+  Total Products: 10
 - [Trap-Core Shoes](https://lachrymalgems.store/collections/trap-core-shoes)
-  Updated: 2025-10-21T03:50:12Z
-  Total Products: 6
-- [Baggage with Benifiets](https://lachrymalgems.store/collections/baggage-with-benifiets): Carry what matters, drop what doesn't. We all carry something at least make it cute . Match your vibe not your outfit.
-  Updated: 2025-10-21T03:55:52Z
+  Updated: 2025-10-23T22:12:46Z
   Total Products: 5
+- [Baggage with Benifiets](https://lachrymalgems.store/collections/baggage-with-benifiets): Carry what matters, drop what doesn't. We all carry something at least make it cute . Match your vibe not your outfit.
+  Updated: 2025-10-23T22:18:52Z
+  Total Products: 3
 - [Vibe bin](https://lachrymalgems.store/collections/vibe-bin): Everything that feeds the mood board of your life. Shop the little things that recharge your frequency.
   Updated: 2025-10-20T02:31:43Z
   Total Products: 2
@@ -1595,7 +1595,7 @@
   Updated: 2025-10-22T04:20:41Z
   Total Products: 0
 - [All Products](https://lachrymalgems.store/collections/all)
-  Updated: 2025-10-22T21:36:58Z
+  Updated: 2025-10-23T22:20:49Z
   Total Products: 47
 
 ## Blogs
