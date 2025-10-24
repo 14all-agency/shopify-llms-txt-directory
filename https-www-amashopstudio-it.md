@@ -6,7 +6,7 @@
 - Timezone: Europe/Rome
 - Created At: 2024-04-12T22:59:50Z
 - Contact Email: izzomarianna@hotmail.it
-- Updated At: 2025-10-23T00:00:35.391Z
+- Updated At: 2025-10-24T00:00:44.726Z
 
 ## Products
 
@@ -1965,7 +1965,7 @@
     Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/baby2.jpg?v=1746086100
     Price: 6,00 € EUR
 - [T-Shirt ‘NAPOLI’ bambino chi ama non dimentica |Numero 10 |Maradona |bianca](https://www.amashopstudio.it/products/t-shirt-napoli-bambino-chi-ama-non-dimentica-numero-10-maradona-bianca): T-Shirt ‘NAPOLI’ La t-shirt celebrativa ‘NAPOLI’ è un capo d'abbigliamento perfetto per chi ama e non dimentica. Ecco alcune delle sue caratteristiche principali: Caratteristiche della T-Shirt Materiale**: Realizzata in cotone di alta qualità per garantire comfort e durata.Colore**: Disponibile in un elegante colore bianco che si abbina facilmente a qualsiasi outfit.Taglie**: Offerta in una varietà di taglie per adattarsi a tutti. **Personalizzazione**: Possibilità di personalizzare la parte posteriore della maglietta con il nome che preferisci, rendendo così il capo unico e speciale. Questa t-shirt è un ottimo modo per esprimere il tuo amore e la tua passione per Napoli, con un design che si distingue e una qualità che non delude. È il regalo perfetto per te o per chi ami, un pensiero speciale che porta con sé un pezzo di Napoli.
-  Updated: 2025-09-17T14:59:39Z
+  Updated: 2025-10-23T12:17:58Z
   Vendor: AMA SHOP
   Product Type: Adesivo personalizzato
   Availability: Available
