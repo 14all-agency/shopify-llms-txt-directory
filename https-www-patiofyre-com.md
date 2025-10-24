@@ -10,7 +10,7 @@
 - Contact Email: support@patiofyre.com
 - Contact Phone: 1-800-247-7384
 - Address: 20590 NE Empire Ave. Bend, OR 97701, United States of America
-- Updated At: 2025-10-24T04:00:42.111Z
+- Updated At: 2025-10-24T16:00:34.386Z
 
 Shop Patiofyre Today – Experience 8 Feet of Luxury Heat for Patios, Restaurants, and Backyards Nationwide
 
@@ -59,7 +59,7 @@ Shop Patiofyre Today – Experience 8 Feet of Luxury Heat for Patios, Restaurant
   Image: https://cdn.shopify.com/s/files/1/0685/7228/3129/files/patiofyre_2425_hopper-extension_AHEM.jpg?v=1731968837
   Price: $199.00 USD
 - [Jetlamp Cleaning Kit |Patiofyre](https://www.patiofyre.com/products/jetlamp-cleaning-kit): Maintain your Jetlamp with our cleaning kit, designed to keep your wood pellet patio heater in top condition for optimal performance
-  Updated: 2025-10-10T01:16:03Z
+  Updated: 2025-10-24T11:57:15Z
   Vendor: PatioFyre
   Product Type: 
   Availability: Available
@@ -139,25 +139,25 @@ Shop Patiofyre Today – Experience 8 Feet of Luxury Heat for Patios, Restaurant
   Updated: 2024-09-24T17:07:40Z
   Total Products: 1
 - [Outdoor Heating Accessories | Patiofyre](https://www.patiofyre.com/collections/accessories): Enhance your patio heater with our top-quality accessories. Browse our selection to find the perfect addition to your outdoor space.
-  Updated: 2025-10-22T11:18:33Z
+  Updated: 2025-10-24T11:19:53Z
   Total Products: 13
 - [Jetlamps](https://www.patiofyre.com/collections/jetlamps): Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-  Updated: 2025-10-22T11:18:33Z
+  Updated: 2025-10-24T11:19:53Z
   Total Products: 3
 - [Best Selling Products](https://www.patiofyre.com/collections/best-selling-products)
-  Updated: 2025-10-22T11:18:33Z
+  Updated: 2025-10-24T11:19:53Z
   Total Products: 29
 - [Newest Products](https://www.patiofyre.com/collections/newest-products)
-  Updated: 2025-10-22T11:18:33Z
+  Updated: 2025-10-24T11:19:53Z
   Total Products: 29
 - [Jetlamp Only](https://www.patiofyre.com/collections/jetlamp-only)
-  Updated: 2025-10-22T11:18:33Z
+  Updated: 2025-10-24T11:19:53Z
   Total Products: 3
 - [Metro Jetlamps](https://www.patiofyre.com/collections/metro-jetlamps): Our Jetlamps enhance any outdoor area with their striking design and brilliant capacity to emanate heat. What's more, they provide a smokeless, odorless, and eco-friendly burn at a fraction of the cost of propane.
-  Updated: 2025-10-22T11:18:33Z
+  Updated: 2025-10-24T11:19:53Z
   Total Products: 3
 - [Related Products - Jetlamp PDPs](https://www.patiofyre.com/collections/related-products-jetlamp-pdps)
-  Updated: 2025-10-22T11:18:33Z
+  Updated: 2025-10-24T11:19:53Z
   Total Products: 4
 
 ## Blogs
