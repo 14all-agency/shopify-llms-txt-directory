@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2023-11-06T10:53:38Z
 - Contact Email: theworldofnerdscustomer@gmail.com
-- Updated At: 2025-10-23T16:00:45.958Z
+- Updated At: 2025-10-24T04:00:49.255Z
 
 ## Products
 
@@ -1537,7 +1537,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC03858.jpg?v=1730035958
   Price: ₹399.00 INR
 - [PRINCESS ARIEL Q POSKET](https://theworldofnerds.com/products/princess-ariel-q-posket-2): Discover the enchanting world of Q Poskets, where charm meets artistry! These collectible figures feature a delightful range of beloved characters from anime, movies, and more, each meticulously designed with oversized heads and whimsical expressions. Perfect for fans and collectors alike, Q Poskets bring your favorite characters to life in a unique, stylized form. Key Features: Unique stylized designs High-quality craftsmanship Wide variety of characters Ideal for collectors and fans Start your Q Poskets collection today and celebrate your favorite characters in a whole new way!
-  Updated: 2025-07-29T05:11:25Z
+  Updated: 2025-10-24T03:08:59Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -3896,7 +3896,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitleddesign_12.jpg?v=1738747805
   Price: ₹599.00 INR
 - [HOT WHEELS FORD MUSTANG DARK HORSE](https://theworldofnerds.com/products/hot-wheels-ford-mustang-dark-horse): Discover the sleek and powerful HOT WHEELS FORD MUSTANG DARK HORSE. This collectible die-cast car boasts exquisite detailing and a fierce design, perfect for any car enthusiast. With its high-quality craftsmanship and iconic brand, this Mustang is a must-have for any collection.
-  Updated: 2025-10-23T05:13:57Z
+  Updated: 2025-10-23T16:14:55Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -4813,7 +4813,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC7712copy.jpg?v=1740118969
   Price: ₹599.00 INR
 - [NARUTO SIX PATHS MODE D2 ACTION FIGURE](https://theworldofnerds.com/products/naruto-six-paths-mode-d2-action-figure): Experience the ultimate power with our NARUTO SIX PATHS MODE D2 ACTION FIGURE. Crafted with precision and detail, this figure showcases all the features of the legendary Naruto Six Paths Mode including its fierce gaze, dynamic pose, and intricate design. Perfect for any Naruto fan or collector.
-  Updated: 2025-07-29T05:13:41Z
+  Updated: 2025-10-23T19:40:24Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -6647,7 +6647,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitleddesign_16_3eaf714d-fde1-4f5a-a9bd-6486d3abc046.png?v=1748412409
   Price: ₹899.00 INR
 - [RMZ CITY MCLAREN 650S PULLBACK SCALE - 1:32](https://theworldofnerds.com/products/rmz-city-mclaren-650s-pullback-scale-1-33): This RMZ CITY MCLAREN 650S PULLBACK SCALE - 1:32 is a high-quality and realistic model of the stunning McLaren 650S. Featuring a pullback mechanism, this 1:32 scale model is both a captivating collectible and a fun, interactive toy for kids and adults. Perfect for McLaren fans and supercar enthusiasts.
-  Updated: 2025-07-29T05:14:52Z
+  Updated: 2025-10-24T03:30:57Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -6990,7 +6990,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_9f96848f-5dcc-4545-9968-44949b736cfe.jpg?v=1748501371
   Price: ₹219.00 INR
 - [ZORO KITETSU KATANA KEYCHAIN](https://theworldofnerds.com/products/zoro-kitetsu-katana-keychain): Zoro Kitetsu Katana Keychain – Unleash the cursed power of Zoro’s Kitetsu blade with this striking keychain! Featuring sharp detailing and sturdy design, it’s ideal for keys, bags, or gifting. A bold collectible for One Piece fans and lovers of legendary swords!
-  Updated: 2025-10-19T06:22:40Z
+  Updated: 2025-10-23T19:33:08Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
