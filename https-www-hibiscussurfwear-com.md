@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2023-04-19T20:10:07Z
 - Contact Email: georgina@hibiscussurfwear.com
-- Updated At: 2025-10-23T20:00:50.593Z
+- Updated At: 2025-10-24T12:00:57.220Z
 
 ## Products
 
@@ -8530,7 +8530,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/white-glossy-mug-white-15oz-handle-on-right-648b5a890d059.jpg?v=1686854297
     Price: £27.99 GBP
 - [Le Grand Combin - Hibiscus Surfwear - Ethical Mens Print Beanie](https://www.hibiscussurfwear.com/products/le-grand-combin-hibiscus-surfwear-ethical-mens-print-beanie): Le Grand Combin - Hibiscus Surfwear - Ethical Mens Print Beanie This beanie will keep you warm on chilly days and serve as a stylish addition to your outfit. It’s double-layered, soft, and oh, so comfy! • 95% polyester, 5% spandex (fabric composition may vary by up to 1%, depending on the fulfillment location) • Fabric weight: 6.19 oz/yd² (210 g/m²) • Double-layered • Regular fit (order a size up for a slouchy fit) • Wash at 86°F (30°C) • Blank product components in the EU sourced in Lithuania This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide HEIGHT (inches) WIDTH (inches) S 8 ⅞ 10 ¼ M 9 ¼ 11 L 9 ⅝ 11 ¾
-  Updated: 2025-04-24T15:44:58Z
+  Updated: 2025-10-24T04:09:43Z
   Vendor: Hibiscus Surfwear
   Product Type: 
   Availability: Available
@@ -11669,7 +11669,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/sublimation-flip-flops-white-lifestyle-1-67ed23b79718a.jpg?v=1743594432
     Price: £30.99 GBP
 - [Santa Teresa black - Hibiscus Surfwear - Ethical Womens Flip-Flops](https://www.hibiscussurfwear.com/products/santa-teresa-black-hibiscus-surfwear-ethical-womens-flip-flops): Santa Teresa black - Hibiscus Surfwear - Ethical Womens Flip-Flops Prepare for an adventurous and carefree summer with a pair of colorful slippers that are created just for you! The rubber sole is lined with a soft fabric to make sure you feel comfortable wherever your day takes you. • Rubber sole • Customizable 100% polyester fabric lining • Black Y-shaped rubber straps • Toe post style This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide US WOMEN US MEN EU UK S 6-7.5 6-7 37-38.5 4-6 M 8-10 7.5-9.5 39-41 6.5-8 L 10.5-11 10-11.5 42-45 8.5-10.5
-  Updated: 2025-04-24T15:45:17Z
+  Updated: 2025-10-24T11:02:01Z
   Vendor: Hibiscus Surfwear
   Product Type: 
   Availability: Available
@@ -17943,7 +17943,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-eco-raglan-hoodie-white-front-6676790046696.jpg?v=1719040293
     Price: £67.00 GBP
 - [Birds of paradise - Hibiscus Surfwear - Womens eco raglan hoodie](https://www.hibiscussurfwear.com/products/birds-of-paradise-hibiscus-surfwear-womens-eco-raglan-hoodie): Birds of paradise - Hibiscus Surfwear - Womens eco raglan hoodie If there’s one fashion rule to live by, let it be that comfort doesn’t have to be compromised for the sake of style. Pair the super-soft unisex eco raglan hoodie with joggers for a relaxed look, or elevate the outfit with a skirt, oversized blazer, or classic trousers. The hoodie’s brushed inside ensures a comfy and snug feel, and will keep you warm during the colder days. • Outside: 100% organic cotton • Charcoal melange is 60% cotton, 40% recycled polyester • Inside for all colors: 80% organic cotton, 20% recycled polyester • Brushed lining • Regular fit • Raglan sleeves • Ribbed cuffs and hem • Drawstrings with metal eyelets and stoppers • Jersey-lined hood • Blank product sourced from Bangladesh This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (inches) WIDTH (inches) XS 25 ⅝ 19 ¼ S 26 ¾ 20 ½ M 27 ¼ 21 ¾ L 27 ⅝ 22 ¾ XL 28.0 24.0 2XL 28 ¼ 25 ¼ 3XL 28 ¾ 26 ⅜
-  Updated: 2025-10-21T15:45:31Z
+  Updated: 2025-10-24T05:43:30Z
   Vendor: Hibiscus Surfwear
   Product Type: 
   Availability: Available
