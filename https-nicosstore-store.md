@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-07-07T17:06:44Z
 - Contact Email: nikualbu92@gmail.com
-- Updated At: 2025-10-24T08:00:36.213Z
+- Updated At: 2025-10-24T16:00:38.019Z
 
 ## Products
 
@@ -2203,7 +2203,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/3ef299f16d854caab6343103d9c9dd52-Max-Origin.webp?v=1759598855
     Price: €44.22 EUR
 - [Camouflage Print Mesh Long Sleeve Top](https://nicosstore.store/products/camouflage-print-mesh-long-sleeve-top): Features:Sheer Stretch:Slightly stretchy Material composition:95% polyester, 5% elastane Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 22.8 32.3 24 M 23.6 34.6 24.4 L 24.4 37 24.8 XL 25.2 40.2 25.2
-  Updated: 2025-10-24T00:51:00Z
+  Updated: 2025-10-24T13:21:17Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2981,7 +2981,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/69970997521447278c9cdd284b7e91a1-Max-Origin.webp?v=1759686330
     Price: €26.12 EUR
 - [Lace Detail Drawstring Long Sleeve Hoodie](https://nicosstore.store/products/lace-detail-drawstring-long-sleeve-hoodie): Features:Lace Detail,Pocketed,Drawstring Stretch:Slightly stretchy Material composition:75% polyester, 25% cotton Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 25.2 40.2 27.4 M 26 42.5 28 L 26.8 44.9 28.5
-  Updated: 2025-10-24T02:02:45Z
+  Updated: 2025-10-24T14:22:11Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -6752,7 +6752,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/LNwmb5wv7z23Etip.webp?v=1760469546
     Price: €16.07 EUR
 - [Multi-Purpose Portable Shoulder Backpack for Men and Women](https://nicosstore.store/products/multi-purpose-portable-shoulder-backpack-for-men-and-women): Introducing the ultimate companion for your daily adventures - the Schoolbag Campus Multi-purpose Portable Shoulder Bag. This stylish and functional backpack is designed for both men and women, making it the perfect choice for students, professionals, and anyone on the go. Crafted from durable oxford cloth, this backpack is not only built to last but also features a sleek and modern solid color pattern that complements any outfit. With its cross-border trend style, you can effortlessly transition from the classroom to the coffee shop, or from the office to a weekend getaway. Available in an array of vibrant colors including Khaki, Black, Dark Blue, Purple, and Red, you can choose the perfect shade to express your personality. Each bag measures 50cm in height, 30cm in length, and 25cm in width, offering ample space for your essentials while remaining lightweight at just 0.46kg. Check out these stunning images to see the bag in action: With the Schoolbag Campus Multi-purpose Portable Shoulder Bag, you’ll carry your essentials in style and comfort. Don't miss out on this versatile accessory that adapts to your lifestyle!
-  Updated: 2025-10-15T07:28:47Z
+  Updated: 2025-10-24T14:35:56Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
@@ -7260,21 +7260,21 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1af578ab-01aa-44b9-886a-24435fdbd21b-Max-Origin.webp?v=1760639252
     Price: €49.99 EUR
 - [Lilly the Pink Ebook](https://nicosstore.store/products/lilly-the-pink-eebook): Imagine a world where superheroes really exist...a world where a superhero becomes the guardian angel of humanity. Lily the Pink is such a hero. Discover the incredible story of a heroine with extraterrestrial origins.
-  Updated: 2025-10-22T07:57:47Z
+  Updated: 2025-10-24T14:35:57Z
   Vendor: Nico`s Store
   Product Type: Ebook
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/lillyebokcover.jpg?v=1760811502
   Price: €5.99 EUR
 - [Lilly the Pink The ultimate sacrifice Ebook](https://nicosstore.store/products/lilly-the-pink-the-ultimate-sacrifice-ebook): Lilly the Pink was celebrated as a brave and compassionate heroine, whose courage and kindness inspired everyone in her kingdom. With her vibrant pink armor and shining sword, she defended her people from the forces of darkness, always standing firm against evil. One fateful day, a sinister villain threatened to plunge the world into chaos. Determined to protect her homeland, Lilly the Pink confronted him in a fierce battle. Though she fought valiantly with unwavering resolve, the villain's dark magic was overwhelming. In a final act of selflessness, Lilly sacrificed herself to save her friends and the World, falling in battle but ensuring peace would return. Her heroism became a lasting legend, reminding all that true bravery lies in protecting others, even at the greatest personal cost. Lilly the Pink's legacy lives on, inspiring generations to stand courageously against evil and to cherish the power of kindness and sacrifice.
-  Updated: 2025-10-21T19:52:30Z
+  Updated: 2025-10-24T14:35:59Z
   Vendor: Nico`s Store
   Product Type: Ebook
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/theultimatesacrificeebook.jpg?v=1760896293
   Price: €5.99 EUR
 - [Elyza A Heroine's Legacy Ebook](https://nicosstore.store/products/elyza-a-heroines-legacy-ebook): Elyza, the beloved daughter of Lilly the Pink, carries forward a remarkable legacy of kindness, courage, and heroism. From a young age, she has been inspired by her mother's unwavering dedication to helping others and spreading joy. Elyza's compassionate nature and courageous spirit make her a true heroine in her own right, determined to make the world a better place. As she continues her journey, Elyza aspires to uphold her mother's noble legacy, becoming a shining example of heroism, love, and hope for generations to come.
-  Updated: 2025-10-21T19:52:30Z
+  Updated: 2025-10-24T14:36:00Z
   Vendor: Nico`s Store
   Product Type: Ebook
   Availability: Available
