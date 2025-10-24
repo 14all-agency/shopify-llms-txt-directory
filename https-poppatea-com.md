@@ -6,12 +6,12 @@
 - Timezone: Europe/Stockholm
 - Created At: 2024-11-08T10:55:56Z
 - Contact Email: hello@poppatea.com
-- Updated At: 2025-10-24T04:00:33.593Z
+- Updated At: 2025-10-24T20:00:56.591Z
 
 ## Products
 
 - [Matcha Tea Powder - Ceremonial Grade - Japanese Green Tea](https://poppatea.com/products/matcha-tea-ceremonial): Treat yourself to a cup of our ceremonial Matcha tea, sourced from the finest Japanese green tea leaves, for a high quality and eco-friendly experience. A reliable choice for your daily dose of antioxidants and a guilt-free indulgence.
-  Updated: 2025-10-23T22:41:40Z
+  Updated: 2025-10-24T17:22:25Z
   Vendor: PoppaTea
   Product Type: 
   Availability: Available
@@ -29,7 +29,7 @@
     Image: https://cdn.shopify.com/s/files/1/0871/8712/8662/files/2_x_matcha_tea_pouch_0e35918c-3916-4ace-8fcd-d4f87ee386ce.jpg?v=1747924140
     Price: 320,00 kr SEK
 - [Hojicha Tea Powder - High Quality Japanese Tea](https://poppatea.com/products/hojicha-tea-powder): Poppatea Hojicha tea powder has a rich & nutty taste with rich chocolate & smoky notes. A great option if you are looking for a low caffeine tea. Grown to EU standards.
-  Updated: 2025-10-23T19:26:36Z
+  Updated: 2025-10-24T19:39:50Z
   Vendor: PoppaTea
   Product Type: 
   Availability: Available
@@ -47,7 +47,7 @@
     Image: https://cdn.shopify.com/s/files/1/0871/8712/8662/files/2_x_hojicha_tea_powder_60edc2f8-e943-4ef8-848e-81c8dcbf0036.jpg?v=1745172614
     Price: 260,00 kr SEK
 - [Matcha Tea With Chai - Ceremonial Grade - Japanese Green Tea Powder](https://poppatea.com/products/matcha-tea-with-chai-ceremonial): Treat yourself to a cup of our ceremonial Matcha tea with chai, sourced from the finest Japanese green tea leaves, for a high quality and eco-friendly experience. A reliable choice for your daily dose of antioxidants and a guilt-free indulgence.
-  Updated: 2025-10-23T19:42:42Z
+  Updated: 2025-10-24T14:31:41Z
   Vendor: PoppaTea
   Product Type: 
   Availability: Available
@@ -71,7 +71,7 @@
   Updated: 2025-04-07T12:00:45Z
   Total Products: 0
 - [All Teas](https://poppatea.com/collections/all-teas): Find your favourite tea here
-  Updated: 2025-10-23T11:21:31Z
+  Updated: 2025-10-24T11:20:09Z
   Total Products: 4
 
 ## Blogs
