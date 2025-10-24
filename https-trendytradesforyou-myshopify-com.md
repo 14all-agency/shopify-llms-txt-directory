@@ -6,12 +6,12 @@
 - Timezone: Europe/London
 - Created At: 2025-09-22T20:38:47Z
 - Contact Email: gemzmorris890@gmail.com
-- Updated At: 2025-10-24T12:00:45.848Z
+- Updated At: 2025-10-24T20:00:37.852Z
 
 ## Products
 
 - [7-Piece Set of Stainless Steel Kitchen Gadgets](https://trendytradesforyou.myshopify.com/products/7-piece-set-of-stainless-steel-kitchen-gadgets): Cook Like a Pro with Premium Kitchen ToolsTransform your kitchen into a culinary haven with this stunning 7-Piece Stainless Steel Kitchen Gadgets Set. Designed for home chefs who appreciate both style and substance, this collection brings professional-grade tools to your everyday cooking.Why You'll Love It: Premium Stainless Steel Construction: Built to last with high-quality materials that resist rust and maintain their shine Modern Minimalist Design: Sleek aesthetics that complement any kitchen décor Complete Essential Set: Everything you need to prepare your favourite dishes with precision and ease Comfortable to Use: Ergonomically designed for effortless handling during meal prep Easy to Clean: Dishwasher-safe convenience for hassle-free maintenance Compact Storage: Space-efficient design (300mm x 200mm x 80mm) perfect for any kitchen size Lightweight: At just 1.06kg, easy to handle and store Choose Your Style:Available in sophisticated Dark Blue or classic Black to match your kitchen personality.Whether you're whipping up a quick weeknight dinner or preparing an elaborate feast, these gadgets make cooking feel effortless and enjoyable. Upgrade your kitchen toolkit today!
-  Updated: 2025-10-21T07:59:54Z
+  Updated: 2025-10-24T14:23:37Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -23,7 +23,7 @@
     Availability: Available
     Price: £44.99 GBP
 - [High-Precision Digital Multimeter](https://trendytradesforyou.myshopify.com/products/high-precision-digital-multimeter): Precision You Can Trust for Every Electrical ProjectMeet your new essential tool for accurate electrical measurements. The High-Precision Digital Multimeter delivers reliable readings for 600V AC/DC voltage, current, and resistance, making it the perfect companion for electricians, hobbyists, and DIY enthusiasts alike.Key Features: High-Precision Accuracy: Get reliable, consistent readings every time Multifunctional Testing: Measures AC and DC voltage, current, and resistance all in one device Clear Digital Display: Easy-to-read screen for quick data acquisition, even in low light Durable Construction: Built tough to withstand demanding work environments User-Friendly Operation: Simple interface that anyone can master Perfect For:Whether you're troubleshooting household wiring, working on automotive electronics, or tackling complex electrical projects, this multimeter gives you the confidence that comes from accurate measurements. It's an indispensable tool that belongs in every electrical toolkit.Stop guessing and start measuring with precision. Your projects deserve the accuracy this multimeter delivers!
-  Updated: 2025-10-21T08:09:57Z
+  Updated: 2025-10-24T14:23:37Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -41,7 +41,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/LtG76vtsaZ1wWtJi.webp?v=1758575559
     Price: £22.99 GBP
 - [Trendy Waterproof Quartz Watch for Women (Rotating Style)](https://trendytradesforyou.myshopify.com/products/trendy-waterproof-quartz-watch-for-women-rotating-style): Time Meets Fashion on Your WristMake every moment count with this stunning Rotating Ladies' Quartz Watch. More than just a timepiece, it's a fashion statement that effortlessly elevates any casual outfit whilst keeping you punctual and stylish.Why You'll Adore It: Unique Rotating Design: Eye-catching style that sets you apart from the crowd Waterproof Protection: Wear it confidently at pool parties, in the rain, or during daily activities Comfortable Fit: Sleek 35mm round dial with just 11mm thickness sits perfectly on your wrist Durable Stainless Steel Strap: Built to last whilst maintaining its elegant appearance Easy Pin Buckle Clasp: Quick and hassle-free to put on and take off Crystal Clear Display: Ordinary glass mirror provides clarity and protection Find Your Perfect Colour:Choose from a vibrant collection including red, purple, green, blue, black, pink, grey, beige, and brown. There's a shade to match every outfit and personality!From morning coffee runs to evening gatherings, this watch transitions seamlessly through your day. It's time to wear something that reflects your style!
-  Updated: 2025-10-21T08:10:37Z
+  Updated: 2025-10-24T14:23:39Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -83,7 +83,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/7kOJ6OfEevCnsAdN.webp?v=1758576141
     Price: £14.99 GBP
 - [Warm Closed Dog Kennel House for Pets](https://trendytradesforyou.myshopify.com/products/warm-closed-dog-kennel-house-for-pets): A Cozy Haven Your Dog Will LoveGive your furry friend the gift of comfort with this Warm Closed Dog Kennel House. Designed with love and crafted from premium cloth, this kennel creates a snug, secure retreat where your pet can relax, sleep, and feel completely at home.Why Your Dog Deserves This: Soft, High-Quality Cloth: Gentle on paws and fur whilst providing warmth and comfort Enclosed Design: Creates a den-like atmosphere that satisfies your dog's natural instinct for a safe space Adorable Colour Options: Choose from Grey Stars, Light Green, Brown, or Cute Pink Dots to match your home décor Perfect Size Selection: Available in S, M, and L to accommodate all breeds comfortably Lightweight Yet Durable: Easy to move around your home or take on trips Stylish Addition: Adds charm to your home whilst providing functionality Imagine This:Your beloved pet curling up in their own cozy sanctuary after a long day of play, feeling safe, warm, and loved. This kennel house isn't just pet furniture—it's a retreat where your dog can truly be themselves.Treat your furry companion to the comfort they deserve. They'll thank you with wagging tails and happy naps!
-  Updated: 2025-10-21T07:56:41Z
+  Updated: 2025-10-24T14:23:39Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -137,7 +137,7 @@
     Availability: Available
     Price: £55.79 GBP
 - [Universal Dog Bed with Washable Cushion for Pets](https://trendytradesforyou.myshopify.com/products/universal-dog-bed-with-washable-cushion-for-pets): Year-Round Comfort for Your Beloved PetSpoil your furry friend with the ultimate in pet comfort. This multi-season pet nest is designed to keep small to medium-sized dogs and cats cozy, warm, and content no matter the weather outside.What Makes It Special: Durable Wear-Resistant Cloth: Built to withstand daily use whilst maintaining softness and comfort Removable & Washable: Easy to maintain hygiene and freshness—simply remove and pop in the wash Plush Cushioning: Luxuriously soft padding that your pet will sink into with delight Charming Colour Selection: Choose from soft pink, elegant grey, playful blue polka dots, or classic grey polka dots Multiple Size Options: Available in S, M, L, and XL to perfectly fit your pet's needs Versatile Design: Perfect for curling up or stretching out—your pet decides! The Perfect Retreat:Picture your pet discovering their new favourite spot—a cozy nest where they can nap peacefully, feel secure, and dream sweet dreams. This isn't just a bed; it's a sanctuary that combines practicality with comfort.Give your pet the gift of better sleep and ultimate relaxation. They spend their days bringing you joy—return the favour with a bed they'll absolutely love!
-  Updated: 2025-10-21T07:56:58Z
+  Updated: 2025-10-24T14:23:41Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -207,7 +207,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/XPa8cDlgYwjoGHxU.webp?v=1758662149
     Price: £44.15 GBP
 - [Non-Slip Dual-Use Stainless Steel Pet Bowl](https://trendytradesforyou.myshopify.com/products/non-slip-dual-use-stainless-steel-pet-bowl): Mealtime Made Easy and Mess-FreeSay goodbye to sliding bowls and spilled food! The Meinai Non-Slip Dual-Use Stainless Steel Pet Bowl combines functionality with style, making every mealtime a pleasant experience for both you and your pet.Why Pet Owners Love It: Non-Slip Base: Stays firmly in place during enthusiastic eating—no more chasing bowls across the floor Durable Stainless Steel: Built to last and resistant to rust, scratches, and bacteria Easy to Clean: Dishwasher-safe convenience for busy pet parents Perfect Size Options: Available in Small (14×10×4.5cm), Medium (17.5×13×6cm), and Large (22×16.5×7cm) to suit all breeds Dual-Use Design: Ideal for both food and water Fun Colour Choices: Choose from vibrant colours like Red, Emerald Green, or playful patterns like Giraffe and Cow designs Perfect For:Whether you have an energetic puppy, a dignified senior dog, or a curious cat, this bowl makes feeding time cleaner and more enjoyable. The stylish designs add personality to your pet's dining area whilst the practical features make your life easier.Upgrade your pet's dining experience today—they deserve to eat in style!
-  Updated: 2025-10-21T07:58:45Z
+  Updated: 2025-10-24T14:23:42Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -285,14 +285,14 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/xy8Hq7SW9om5hQxO.webp?v=1758662330
     Price: £19.28 GBP
 - [Intelligent Dog Slow Feeder Training Bowl](https://trendytradesforyou.myshopify.com/products/intelligent-dog-slow-feeder-training-bowl): Transform Mealtime into Brain Training TimeDoes your dog inhale their food in seconds? The Intelligent Dog Slow Feeder Training Bowl is here to help! This innovative feeding solution encourages healthy eating habits whilst providing mental stimulation that keeps your furry friend engaged and entertained.Health Benefits Your Dog Needs: Slows Down Eating: Prevents bloating, choking, and digestive issues caused by rapid eating Mental Stimulation: The unique maze design challenges your dog's mind, reducing boredom and anxiety Promotes Healthy Digestion: Slower eating means better nutrient absorption and improved digestion Durable Plastic Construction: Built tough to withstand daily use Easy to Clean: Simple to wash and maintain Generous Size: 33.5×33.5cm provides ample space for meals Vibrant Green Colour: Adds a fun pop of colour to your pet's feeding area Watch the Difference:Imagine your dog taking their time with meals, working through the clever design, staying mentally sharp and physically healthy. This bowl turns every meal into an enriching activity that benefits both body and mind.Give your dog the gift of healthier eating habits—your vet will thank you!
-  Updated: 2025-10-21T07:59:09Z
+  Updated: 2025-10-24T14:23:43Z
   Vendor: My Store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/9SBnRCLvLSBmE7j3.webp?v=1758662278
   Price: £26.99 GBP
 - [Pet Dog and Cat Bed Villa - Dual Use Space Capsule](https://trendytradesforyou.myshopify.com/products/pet-dog-and-cat-bed-villa-dual-use-space-capsule): The Ultimate Luxury Retreat for Your PetGive your cat or dog the VIP treatment with the Space Nest—a stunning, innovative pet bed that combines futuristic design with cloud-like comfort. This isn't just a bed; it's a private sanctuary where your pet can escape, relax, and recharge.Premium Features: Luxurious Velvet Material: Soft, plush fabric that your pet will absolutely adore High-Density Sponge: Superior cushioning that provides orthopedic support for joints and muscles Non-Slip Bottom: Stays securely in place on any floor surface Spacious Interior: Plenty of room for stretching, curling, or lounging Unique Space Capsule Design: Modern aesthetic that elevates your home décor Two Generous Sizes: L (35×33×30cm) and XL (38×38×34cm) for pets of various sizes Elegant Colours: Choose sophisticated Black or Grey to match any interior The Perfect Haven:Picture your beloved pet discovering their new favourite spot—a cozy capsule where they feel safe, warm, and completely at peace. The enclosed design satisfies their natural instinct for a den whilst the premium materials ensure maximum comfort.Treat your furry friend to five-star comfort. They'll never want to leave their Space Nest!
-  Updated: 2025-10-21T07:59:35Z
+  Updated: 2025-10-24T14:23:44Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -314,7 +314,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/E1DnCZKWdzPJ8zi3.webp?v=1758662415
     Price: £25.30 GBP
 - [Glow-in-the-Dark Dog Toy Ball for Chewing (Medium/Large)](https://trendytradesforyou.myshopify.com/products/glow-in-the-dark-dog-toy-ball-for-chewing-medium-large): Light Up Playtime Day and Night!Keep your dog entertained around the clock with this innovative Glow-in-the-Dark Dog Toy Ball. Combining sound activation with glowing lights, this durable rubber ball creates an irresistible play experience that your pup will absolutely love.What Makes It Special: Glow-in-the-Dark Design: Perfect for nighttime play in the garden or evening walks Sound-Activated Fun: Emits exciting sounds that capture your dog's attention and keep them engaged Bite-Resistant Rubber: Built tough to withstand even the most enthusiastic chewers Multiple Size Options: Available in S, M, and L for small to large breeds Vibrant Colour Choices: Choose from Blue Glow, Orange Glow, Blue Bells, or Orange Bells Interactive Entertainment: Keeps dogs mentally stimulated and physically active Perfect For:Whether it's a game of fetch in the park, solo play in the garden, or nighttime fun, this toy keeps your dog entertained and active. The glowing feature makes it easy to find in low light, whilst the sounds add an extra layer of excitement to every play session.Watch your dog's eyes light up (literally!) when they discover this amazing toy. Hours of fun await!
-  Updated: 2025-10-21T08:09:00Z
+  Updated: 2025-10-24T14:23:45Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -352,7 +352,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/5iTK1Hy8TPIuQJiE.webp?v=1758662631
     Price: £16.13 GBP
 - [3-in-1 Portable Dog Water Bottle and Food Dispenser](https://trendytradesforyou.myshopify.com/products/3-in-1-portable-dog-water-bottle-and-food-dispenser): Hydration and Nutrition On-the-Go Made SimpleNever worry about keeping your dog hydrated and fed during adventures again! The 3-in-1 Portable Dog Water Bottle and Food Dispenser is the ultimate travel companion for active pet parents who love exploring with their furry friends.Brilliant Features: 3-in-1 Functionality: Water bottle, food container, and feeding bowl all in one compact design Leak-Proof Design: No spills in your bag—guaranteed Portable and Lightweight: Easy to carry on walks, hikes, trips to the park, or road trips Capacity Options: Choose 300ml or 500ml to suit your pet's needs and adventure length Durable Materials: Made from high-quality ABS and PC for long-lasting use Ergonomic Design: Comfortable to hold and easy to use with one hand Fun Colours: Available in Blue, Green, Pink, and Yellow to match your style Adventure Awaits:Picture this: You're on a beautiful hike with your dog, and when they need a drink or snack, you simply pull out this convenient bottle. No fuss, no mess, just happy hydration and satisfied hunger. It's that easy!Make every outing with your pet more enjoyable and stress-free. Grab yours today and start exploring together!
-  Updated: 2025-10-21T07:59:58Z
+  Updated: 2025-10-24T14:23:46Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -382,7 +382,7 @@
     Availability: Available
     Price: £20.63 GBP
 - [Dog Chewing Toys and Toothbrush for Teeth Cleaning](https://trendytradesforyou.myshopify.com/products/dog-chewing-toys-and-toothbrush-for-teeth-cleaning): Give your furry friend the ultimate chewing experience with our Dog Chewing Toys. Designed to keep your dog's teeth clean and healthy, these innovative toys double as a toothbrush, making dental care fun! Each stick is crafted from high-quality TPR material, ensuring durability while being gentle on your dog's teeth and gums. Available in a variety of vibrant colors, including Gentleman Blue, Sakura Pink, and Avocado Green, these toys are not only functional but also stylish. Choose a color that matches your pup’s personality! Check out the amazing features: Durable Material: Made from TPR for long-lasting use. Dental Health: Helps clean teeth and promote oral hygiene. Multiple Color Options: Find the perfect match for your pet's style. Lightweight: Each toy weighs only 0.08 kg, making it easy for your dog to carry around. Let your dog enjoy hours of safe chewing fun while simultaneously taking care of their dental health! Get your paws on these essential pet supplies today! Transform playtime into a joyful and healthy experience for your dog with our Dog Chewing Toys! Order now and watch your pet enjoy every moment!
-  Updated: 2025-10-04T23:28:41Z
+  Updated: 2025-10-24T14:23:47Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -412,7 +412,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/z6fsLn0P0Kz9bycR.webp?v=1758662655
     Price: £9.27 GBP
 - [USB Charging Interactive Snake Toy for Cats - Endless Fun](https://trendytradesforyou.myshopify.com/products/usb-charging-interactive-snake-toy-for-cats-endless-fun): Unleash the playful spirit of your feline friend with our USB Charging Interactive Snake Toy! This innovative toy is designed to provide your cat with endless fun and exercise, ensuring they stay active and entertained for hours on end. With a compact size of 18.8*8.7*5.7cm for the small package, and 35*11*7cm for the big package, this snake toy is perfect for cats of all sizes. The vibrant colors and realistic movements will captivate your kitty, making it impossible for them to resist chasing and pouncing! The USB charging feature means you can keep the fun going without worrying about batteries. Simply plug it in, charge it up, and let the playtime begin! This toy is not just a source of entertainment; it's also an excellent way for your cat to exercise and maintain a healthy lifestyle. Don't miss out on the chance to give your furry friend the gift of excitement and activity. Choose between our Small Package and Big Package options to find the perfect fit for your home. Check out the images below to see the snake toy in action and imagine how much joy it will bring to your cat!
-  Updated: 2025-10-04T23:28:41Z
+  Updated: 2025-10-24T14:23:47Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -426,7 +426,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/GBSF3iffeWFEd03q.webp?v=1758662790
     Price: £21.17 GBP
 - [Ultra-Thin Carbon Pro Max Case iphones](https://trendytradesforyou.myshopify.com/products/ultra-thin-carbon-pro-max-case-iphones): Elevate your smartphone experience with our 12promax Carbon Fiber Pattern Ultra-thin Hard Shell. Designed with precision, this sleek back cover not only provides protection but also enhances the aesthetics of your device. Crafted from high-quality PP material, it boasts a minimalist style that perfectly complements any look. The stunning carbon fiber pattern in deep black gives your phone a sophisticated edge, making it a must-have for anyone who values both style and functionality. This case is compatible with a variety of iPhone models, ensuring that you can find the perfect fit for your device. Whether you're looking to safeguard your phone from daily wear and tear or simply want to add a touch of elegance, this ultra-thin hard shell is the ideal choice. Enjoy peace of mind knowing your phone is protected without the bulk. Our packaging includes one premium phone case, designed to offer a snug fit while maintaining easy access to all buttons and ports. Explore the impressive range of compatible models and find the perfect match: Protect your investment with style. Choose the 12promax Carbon Fiber Pattern Ultra-thin Hard Shell today and experience the perfect blend of elegance and durability!
-  Updated: 2025-10-04T23:28:41Z
+  Updated: 2025-10-24T14:23:49Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -508,7 +508,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/RG0WO5mmknqUoPJF.webp?v=1758663978
     Price: £7.93 GBP
 - [G5 Game Console with Dual System and Wireless Controller](https://trendytradesforyou.myshopify.com/products/g5-game-console-with-dual-system-and-wireless-controller): Experience the thrill of retro gaming with our g5 Game Console, a nostalgic device that brings the excitement of classic arcade games right into your living room. Designed for both PC and TV use, this console is perfect for anyone looking to relive their childhood or introduce a new generation to the joy of gaming. Featuring a dual system with up to 64GB of memory, you can enjoy over 38,000 games across a variety of genres. Whether you're battling it out with friends or going solo, the console supports two players, making it ideal for fun gatherings. The wireless controller ensures that you can move freely as you dive into your favorite games. With a 4GB memory, you can easily save your progress and pick up right where you left off. Plus, with its built-in MP4 video player, you can also enjoy your favorite videos during downtime. Crafted from durable PC material, this console is designed to last. It’s suitable for adults and is a perfect addition to any gaming setup. The USB wireless interface allows for hassle-free connections, ensuring you can focus on what matters most: the game. Choose from a variety of colors and standards to suit your preferences: European Standard 64G Dual System US Standard 64G Dual System British Standard 64G Dual System Australian Standard 64G Dual System Don’t miss out on the chance to own a piece of gaming history. Grab your g5 Game Console today and start your gaming adventure!
-  Updated: 2025-10-20T17:11:51Z
+  Updated: 2025-10-24T14:23:49Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -526,7 +526,7 @@
     Availability: Available
     Price: £72.50 GBP
 - [BT-3401 Bluetooth Speaker with Colorful Atmosphere Light](https://trendytradesforyou.myshopify.com/products/bt-3401-bluetooth-speaker-with-colorful-atmosphere-light): Transform your space with the BT-3401 Bluetooth Speaker, a stunning fusion of sound, light, and functionality. This innovative wireless speaker features a vibrant atmosphere light that enhances your environment, making it perfect for parties, relaxing evenings, or as a stylish nightstand companion. Equipped with a powerful built-in lithium polymer battery, the BT-3401 offers seamless connectivity with Bluetooth version 5.0, allowing you to enjoy your favorite tunes from up to 10 meters away. Whether you prefer listening via U disk or TF card, this speaker has you covered, delivering exceptional audio quality in every setting. With a compact size of 240mm x 230mm x 80mm and a lightweight design of just 0.87KG, it's easy to take your music wherever you go. Plus, it doubles as a clock and alarm feature, ensuring you stay on schedule while enjoying your favorite tracks. Choose from our variety of styles to suit your taste, including: BT big G with digital display BT2301 big G without digital display G63 small G with digital display in white G500 small G without digital display in white G11 Don't miss out on the chance to elevate your listening experience with the BT-3401. Check out the stunning visuals below to see how this versatile device can enhance your lifestyle!
-  Updated: 2025-10-20T17:11:23Z
+  Updated: 2025-10-24T14:23:50Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -550,7 +550,7 @@
     Availability: Available
     Price: £70.40 GBP
 - [Silicone Charging Stand for Apple Watch and Game Console](https://trendytradesforyou.myshopify.com/products/silicone-charging-stand-for-apple-watch-and-game-console): Introducing our versatile Silicone Charging Stand designed specifically for your Apple Watch. This innovative accessory not only keeps your watch charged but also adds a touch of elegance to your space. Available in a range of stunning colors including Gray, Black, Red, Blue, Mint Green, and Light Gray, you can choose the perfect match for your style. Crafted from high-quality silicone, this charging stand offers a secure and stable platform for your watch, ensuring it stays in place while charging. With its sleek design, it seamlessly integrates into any environment, whether it's your home or office. Check out the beautiful images below to see the different colors and designs we offer: Weighing just 0.1 kg, this lightweight yet durable charging stand is perfect for travel or everyday use. Keep your Apple Watch stylishly charged and ready to go with our Silicone Charging Stand!
-  Updated: 2025-10-04T23:28:41Z
+  Updated: 2025-10-24T14:23:50Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -580,7 +580,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/RgkOpdra7RUPdLCs.webp?v=1758664350
     Price: £14.53 GBP
 - [Ear-Mounted Bluetooth Headset with LED Display (One Set)](https://trendytradesforyou.myshopify.com/products/ear-mounted-bluetooth-headset-with-led-display-one-set): Experience the future of audio with our Ear-Mounted Bluetooth Headset featuring a sleek LED Display. This open-style Bluetooth headset is designed for ultimate comfort and functionality, making it the perfect companion for your busy lifestyle. With its waterproof design, you can take your calls and listen to your favorite music without worrying about the weather. Whether you're at the gym, commuting, or enjoying a day out, this headset is built to withstand the elements. Enjoy an ultra-long battery life that keeps you connected throughout the day, so you can focus on what matters most. The ear hanging type design ensures a secure fit, allowing you to move freely while staying in touch. Available in three stylish colors: Q16 White, Q16 Skin Color, and Q16 Black, you can choose the perfect match for your personality. Upgrade your audio experience today with our cutting-edge Bluetooth headset and enjoy the convenience of wireless listening!
-  Updated: 2025-10-04T23:28:41Z
+  Updated: 2025-10-24T14:23:51Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -598,14 +598,14 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/d1jvDsrGLdRndqCI.webp?v=1758664380
     Price: £30.58 GBP
 - [Whimsical Elf Tree Hugger Garden Sculpture Decoration](https://trendytradesforyou.myshopify.com/products/whimsical-elf-tree-hugger-garden-sculpture-decoration): Transform your garden into a whimsical retreat with our Elf Out The Door Tree Hugger. This enchanting garden peeker is designed to bring joy and laughter to your outdoor space, making it the perfect addition to any garden or lawn. Crafted from durable synthetic resin, this delightful tree sculpture features a charming beer gnome that peeks around your trees, adding a touch of personality and whimsy. Measuring at 14.5 x 7.6 x 19.5 cm, it is perfectly sized to fit in any nook of your garden. The intricate European style and vibrant colors will catch the eye of every passerby, making it a conversation starter. Whether you place it among the flowers or near your favorite tree, this lawn ornament promises to bring smiles to everyone who sees it. Weighing only 0.5 kg, it is lightweight yet sturdy enough to withstand the elements. This adorable garden decoration is made from high-quality plastic and resin, ensuring it will remain a beloved part of your garden for years to come. Add a touch of magic to your garden today with our Elf Out The Door Tree Hugger and watch as it brings joy to your outdoor living space!
-  Updated: 2025-10-04T23:28:42Z
+  Updated: 2025-10-24T14:23:52Z
   Vendor: My Store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/ALEHR3IHwKDEtbAW.webp?v=1758664963
   Price: £22.79 GBP
 - [3D Acrylic Deer Head Wall Mirror Sticker for Home](https://trendytradesforyou.myshopify.com/products/3d-acrylic-deer-head-wall-mirror-sticker-for-home): Transform your living space with our stunning Self-Adhesive 3D Acrylic Deer Head Wall Sticker. This unique wall decor piece is perfect for adding a touch of Scandinavian style to your living room, study, or any area where you want to create a captivating focal point. Crafted from high-quality waterproof acrylic, these wall stickers not only look elegant but are also durable and easy to maintain. With a sleek mirror finish, they reflect light beautifully, enhancing the visual appeal of your room. Available in multiple sizes, including: Small (43 x 26 cm) Medium (57 x 35 cm) Large (72 x 43 cm) Extra Large (86 x 51 cm) XXL (95 x 57 cm) Choose from a range of elegant colors including Silver, Gold, and Black to perfectly complement your home decor. Installation is a breeze with our self-adhesive design. Simply peel off the backing and stick it to your desired wall surface. Plus, it’s easy to remove without damaging your walls, making it a perfect choice for renters or anyone who loves to change their decor frequently. Elevate your interior with this exquisite piece and watch as it transforms the atmosphere of your space. Take a step towards a more stylish home today!
-  Updated: 2025-10-04T23:28:42Z
+  Updated: 2025-10-24T14:23:53Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -656,7 +656,7 @@
     Availability: Available
     Price: £16.87 GBP
 - [Color-Changing Solar Garden Roses](https://trendytradesforyou.myshopify.com/products/color-changing-solar-garden-roses): Transform your outdoor spaces into a vibrant paradise with our Solar Flowers Garden Lights. These enchanting decorative lights feature beautiful 7 color changing rose lights that create a mesmerizing atmosphere in your garden, patio, or pathway. Perfect for any occasion, whether it’s a wedding, a party, or a romantic Valentine’s Day evening, these lights will surely impress your guests and elevate your outdoor decor. Each light is crafted in a charming flower shape and operates on solar energy, ensuring you have a sustainable and energy-efficient lighting solution. With a power output of 5W, these lights are bright enough to illuminate your space while being gentle on the environment. They come with an impressive IP55 protection grade, making them durable and able to withstand various weather conditions. Choose from a variety of stunning colors including Blue, Red, Yellow, Pink, and White, each designed to fit seamlessly into your garden aesthetic. Each set includes 5 flowers, allowing you to create a cohesive and colorful display. Illuminate your garden with these magical solar lights and let your outdoor space shine like never before!
-  Updated: 2025-10-04T23:28:42Z
+  Updated: 2025-10-24T14:23:53Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -682,7 +682,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/f8SoglOzDWNVqDE5.webp?v=1758665352
     Price: £23.30 GBP
 - [Alien Statue Garden Figurine Set for Indoor/Outdoor Decor](https://trendytradesforyou.myshopify.com/products/alien-statue-garden-figurine-set-for-indoor-outdoor-decor): Bring a touch of the cosmos to your garden or home with our delightful Outer Space Alien Accessories Statue set! Perfect for both indoor and outdoor decoration, these charming Martian figurines are sure to spark joy and conversation among friends and family. Crafted from high-quality resin, each statue is designed to withstand the elements while showcasing vibrant colors and intricate details. Measuring approximately 15X4.5cm, these whimsical aliens are the perfect size to add a pop of personality to your courtyard, porch, or living room. Choose from three enchanting variations: Alien Man - A dashing extraterrestrial figure that exudes charm. Alien Woman - A delightful and captivating companion from another world. Two Alien - A duo that embodies friendship and adventure across the galaxies. Each piece is meticulously crafted to ensure quality and durability, making them a perfect gift for alien enthusiasts or a quirky addition to your own collection. Note: Actual colors may vary slightly due to monitor settings and lighting conditions. Please allow a slight deviation in measurements due to manual production.
-  Updated: 2025-10-04T23:28:42Z
+  Updated: 2025-10-24T14:23:54Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -699,7 +699,7 @@
     Availability: Available
     Price: £18.33 GBP
 - [Solar Powered Rabbit Shaped Butterfly Garden Ornament](https://trendytradesforyou.myshopify.com/products/solar-powered-rabbit-shaped-butterfly-garden-ornament): Transform your outdoor space into a whimsical paradise with our Creative Outdoor Courtyard Ornament. This enchanting solar-powered statue features a delightful rabbit shape that adds a touch of charm and playfulness to any garden or patio setting. Crafted from high-quality resin, this ornament is designed to withstand the elements, making it perfect for all seasons. As the sun sets, watch as this vibrant piece comes to life, illuminating your garden with a soft, inviting glow. Available in two stunning colors - White and Yellow - you can choose the perfect shade to complement your outdoor decor. With a weight of only 0.8 kg, this lightweight ornament is easy to move around your garden, allowing you to find the perfect spot for it to shine. Whether you place it among your flowers or in a cozy corner of your courtyard, it is sure to become a beloved feature of your outdoor decor. Bring a sense of joy and creativity to your garden today with our Vivid Flying Butterfly Rabbit Shaped Statue. It's more than just an ornament; it's a statement piece that invites smiles and admiration from all who see it.
-  Updated: 2025-10-04T23:28:42Z
+  Updated: 2025-10-24T14:23:55Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -713,7 +713,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/5T9ivC9IjDbkdWbJ.webp?v=1758665667
     Price: £40.27 GBP
 - [Electric Sewing Machine for Beginners - Adjustable Speed](https://trendytradesforyou.myshopify.com/products/electric-sewing-machine-for-beginners-adjustable-speed): Unleash your creativity with our electric sewing machine, designed especially for beginners! This compact yet powerful device is your ultimate sewing companion, perfect for tackling a variety of projects. Whether you're sewing denim, zippers, bags, or curtains, this machine is equipped with 12 diverse stitch options to fulfill all your DIY dreams.With its user-friendly design, you can easily adjust the speed to match your skill level, making it accessible for everyone. Plus, the machine comes with a range of plugs, ensuring compatibility in various countries, so you can take it wherever you go without a hitch!Whether you're crafting gifts or exploring new hobbies, this multifunctional sewing machine is the perfect gift for aspiring seamstresses. Get ready to create masterpieces with ease!
-  Updated: 2025-10-04T23:28:42Z
+  Updated: 2025-10-24T14:23:56Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -727,7 +727,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/zHy6Qkl6ghUEGjgk_8c0e4f8f-0092-4e10-9e1c-b80aae302940.webp?v=1758665833
     Price: £101.08 GBP
 - [Electric Self-Stirring Coffee Mug](https://trendytradesforyou.myshopify.com/products/electric-self-stirring-coffee-mug): Stainless steel automatic self-stirring coffee mug with handle. 450ml capacity. Easy mixing for home, office, or travel. Available in multiple colors.
-  Updated: 2025-10-04T23:28:42Z
+  Updated: 2025-10-24T14:23:57Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -765,7 +765,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/QtqHPLlRfzLuRVd4.webp?v=1758666551
     Price: £23.40 GBP
 - [Nordic Iron Planter with Creative Minimalist Design](https://trendytradesforyou.myshopify.com/products/nordic-iron-planter-with-creative-minimalist-design): Transform your indoor space with our stunning Nordic-style Iron Plant Pot. Crafted from high-quality iron, this unique flower pot is not only stylish but also boasts corrosion resistance, ensuring it looks beautiful for years to come. The minimalist and modern design of this pot makes it a perfect addition to any home gardening setup. Available in various colors including White, Green, Wine Red, Orange, and Blue, you can choose the perfect shade to complement your decor. Whether you prefer a small or medium size, our versatile options fit seamlessly into any space. Imagine your favorite succulents or lush green plants nestled in this chic pot, bringing life and vibrancy to your home. The floor-type design allows for easy placement in living rooms, bedrooms, or even office spaces, making it a great choice for plant lovers and interior design enthusiasts alike. Check out the captivating images of this product below to see how it can elevate your plant game: Elevate your home gardening experience with this beautiful and functional plant pot. Make it yours today!
-  Updated: 2025-10-04T23:28:42Z
+  Updated: 2025-10-24T14:23:58Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -811,7 +811,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/ORFT4rs5ZgtapW8f.webp?v=1758704088
     Price: £36.08 GBP
 - [Professional Gaming Keyboard](https://trendytradesforyou.myshopify.com/products/professional-gaming-keyboard): Elevate your gaming experience with our Professional Gaming Keyboard! Designed for serious gamers, this keyboard offers a mechanical feel without the need for mechanical switches. Available in classic black and white colors, it seamlessly fits into any setup while providing exceptional performance. Equipped with a wired USB interface, you can enjoy a reliable connection without the hassle of battery replacements or wireless interference. The backlit keys not only enhance your gaming experience in low-light environments but also add a stylish touch to your workstation. Check out our sleek design featuring images that showcase its modern aesthetics: Weighing just 0.7 kg, this keyboard is portable enough to take on-the-go, ensuring you never miss a gaming session. Upgrade your performance and style with our Professional Gaming Keyboard today!
-  Updated: 2025-10-04T23:28:43Z
+  Updated: 2025-10-24T14:23:59Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -823,21 +823,21 @@
     Availability: Available
     Price: £22.24 GBP
 - [Dell Inspiron 15.6-inch Full HD Touch-Screen Intel i5-1035G1 12GB 256GB SSD Win 10 Laptop](https://trendytradesforyou.myshopify.com/products/dell-inspiron-15-6-inch-full-hd-touch-screen-intel-i5-1035g1-12gb-256gb-ssd-win-10-laptop): Achieve more on the go with the slim and powerful laptop from Dell. The Dell Inspiron laptop is equipped with a powerful 10th Gen Intel Core i5-1035G1 Quad-Core Processor 12GB RAM and 256GB SSD. Fast and efficient this portable device sports a 15.6-inch Full HD LED touch screen display.
-  Updated: 2025-10-04T23:28:43Z
+  Updated: 2025-10-24T14:23:59Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/Y0BGoKhHEivSSPpD.webp?v=1758726394
   Price: £1,141.82 GBP
 - [Kids Tablet 8 inch Toddler Tablet Android Kids Tablet 4GB RAM 32GB ROM 8 inch IPS Touchscreen 1280x800 Iwawa and Parental Controls Kids Tablet  WiFi Dual Camera Bluetooth Shockproof Case](https://trendytradesforyou.myshopify.com/products/kids-tablet-8-inch-toddler-tablet-android-kids-tablet-4gb-ram-32gb-rom-8-inch-ips-touchscreen-1280x800-iwawa-and-parental-controls-kids-tablet-wifi-dual-camera-bluetooth-shockproof-case): Kids Tablet 8 inch Toddler Tablet Android Kids Tablet 4GB RAM 32GB ROM 8-inch IPS Touchscreen 1280x800 Iwawa and Parental Controls Kids Tablet WiFi Dual Camera Bluetooth Shockproof Case. The specialized silicone case protects your childs tablet from dust bumps jolts minor drops scuffs and scratches. The soft material provides a soft and smooth touch experience. The case has a stand function so your child doesnt need to hold your childs tablet all the time while studying watching TV and playing games. You can help your child download software select content for your child control screen time and ensure that they browse safe websites. As the child grows these safety Settings can be adjusted according to their age. Suitable for children over 3 years old. Kids tablet come pre-loaded with many apps such as abcmouseYoutube Netflix Google play lots of fun puzzle games books music movies and art learning. Childrens tablets come pre-loaded with hundreds of free apps that make it easy for kids to explore games media e-books drawing and note-taking. The high performance of tablets gives you a more flexible experience. makes your network smoother and 32GB of ROM can be easily expanded to 512GB with an external SD card giving you more space to download other apps in Google play easily and quickly. You can download more videos pictures music and games. With excellent performance stylish appearance and nice package this tablet can be used for watching videos online learning surfing the web video calling gaming and entertainment. It is the perfect gift for Christmas birthdays and Childrens Day.
-  Updated: 2025-10-04T23:28:43Z
+  Updated: 2025-10-24T14:24:00Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/IuHwZwIHAI6A8yKT.webp?v=1758726433
   Price: £103.28 GBP
 - [Durable Waterproof Pet Harness with Vertical Handle](https://trendytradesforyou.myshopify.com/products/durable-waterproof-pet-harness-with-vertical-handle): Introducing the ultimate Pet Harness, designed for active and adventurous pets! This innovative harness is crafted from durable Oxford cloth, ensuring that it withstands even the most energetic outings with your furry friend. Featuring a three-sided force-bearing design, this harness distributes pressure evenly across your dog's body, providing both comfort and security during walks. The portable buckle allows for easy adjustments, while the reflective strip enhances visibility during evening strolls, ensuring your pet's safety. The harness is lightweight and made from a soft, thin fabric that feels gentle against your pet's skin, making it perfect for long walks or outdoor activities. Plus, its waterproof nature means you don’t have to worry about sudden rain showers ruining your plans! Available in a variety of colors and sizes, including: Red - S, M, L, XL Orange - S, M, L, XL Black - S, M, L, XL Camouflage Gray - S, M, L, XL Camouflage Green - S, M, L, XL Camouflage Yellow - S, M, L, XL Each harness is designed with pet comfort in mind and is easy to put on and take off, making it a breeze for both you and your pet! Show your pet the love they deserve with our Pet Harness. Whether you’re going for a leisurely walk or an adventurous hike, this harness is the ideal companion for all your pet outings!
-  Updated: 2025-10-04T23:28:43Z
+  Updated: 2025-10-24T14:24:01Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -939,7 +939,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/wYcw5Qywnge7ZH46.webp?v=1758726522
     Price: £30.81 GBP
 - [Extendable Dust Brush for Cleaning Under Furniture](https://trendytradesforyou.myshopify.com/products/extendable-dust-brush-for-cleaning-under-furniture): Introducing the ultimate solution for your cleaning woes! The Telescopic Cleaning Brush is designed to make your life easier by reaching those hard-to-access spots where dust and dirt accumulate. With a sleek gray finish, this cleaning tool is not only practical but also stylish. Measuring at a telescopic size of 137*8cm, the brush extends effortlessly to tackle even the toughest cleaning tasks. Weighing just 192g, it's lightweight and easy to maneuver, ensuring that you can clean without straining your back or arms. What sets this cleaning brush apart is its versatility. Choose from various options tailored to your cleaning needs: One telescopic rod plus 2 rags for maximum cleaning efficiency. One telescopic rod plus 1 rag for a more streamlined approach. Replacement wiper option for those who want to ensure their brush stays in top condition. Say goodbye to the hassle of cleaning under furniture and in tight corners! The Telescopic Cleaning Brush is your new best friend for a dust-free home. Order yours today and experience the ease of effortless cleaning!
-  Updated: 2025-10-04T23:28:43Z
+  Updated: 2025-10-24T14:24:02Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -954,7 +954,7 @@
     Availability: Available
     Price: £11.50 GBP
 - [Amazon Wholesale Dried Flower Bouquet - Bunny Tail Grass](https://trendytradesforyou.myshopify.com/products/amazon-wholesale-dried-flower-bouquet-bunny-tail-grass): Transform your living space with our exquisite pampas grass bouquet, a stunning addition that captures the essence of nature's beauty. Crafted from natural dried flowers, this bouquet exudes an earthy elegance that complements any decor style, from rustic to modern. Each bouquet stands at a regular height of 43±1cm, making it the perfect centerpiece for your dining table, living room, or office. The soft, feathery texture and neutral tones of the pampas grass bring a sense of tranquility and warmth to your surroundings. Available in various specifications, each combination comes beautifully packaged in an inner box, ensuring that your bouquet arrives in perfect condition. With 50 unique variations to choose from, you can easily select the ideal bouquet that meets your aesthetic preferences and space requirements. Whether you're looking to enhance your home, gift a loved one, or create a stunning floral arrangement for an event, our pampas grass bouquet is the perfect choice. Explore the versatility and charm of this natural masterpiece today! Check out our stunning images below to see the beauty of our pampas grass bouquets:
-  Updated: 2025-10-04T23:28:43Z
+  Updated: 2025-10-24T14:24:05Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -1160,7 +1160,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/gYbKg2fQYSLLxg4I.webp?v=1758727331
     Price: £24.17 GBP
 - [Double Handle Household Washing Mop Bucket](https://trendytradesforyou.myshopify.com/products/double-handle-household-washing-mop-bucket): Are you tired of struggling with messy floors and inefficient cleaning tools? Introducing our Household Double Handle Washing Mop Bucket, designed to make your cleaning routine effortless and effective. This large, innovative folding mop bucket is perfect for any home. Its beautiful blue color adds a touch of style to your cleaning supplies while ensuring you have the functionality you need. The flat mop type allows for easy maneuverability, making it ideal for any surface. With a spacious design, this mop bucket is not only versatile but also lightweight, weighing just 0.53 kg, allowing you to carry it with ease. It measures 560mm in height, 260mm in length, and 70mm in width, fitting conveniently in your cleaning space. Choose from our variations to suit your needs: Blue - just the bucket for those who already have mops. Blue No Mop Set - perfect for those who prefer their own mop. Blue With 2 Rags Set - a complete cleaning solution for your home. Packing List: - Mop bucket X1PC Product Images:
-  Updated: 2025-10-04T23:28:43Z
+  Updated: 2025-10-24T14:24:06Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -1178,7 +1178,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/fzGAlZChRFitpAOr.webp?v=1758726963
     Price: £15.59 GBP
 - [Nordic Style Creative Fruit Salad Bowl](https://trendytradesforyou.myshopify.com/products/nordic-style-creative-fruit-salad-bowl): Elevate your dining experience with our stunning Fruit Salad Bowl in the Nordic Wind Net Red Style. This beautifully crafted bowl combines elegance with functionality, making it the perfect centerpiece for any table setting. Made from high-quality pottery, this round bowl features a delicate border pattern and is available in various sizes, including 5in, 6in, and 7in. Each bowl is meticulously designed using underglaze color craftsmanship, ensuring that every piece is not only visually appealing but also durable for everyday use. Choose from a range of vibrant colors, including Naruto, Ripple, Moonlit Night, and Leaf. Whether you're hosting a casual gathering or a formal dinner, this bowl effortlessly complements your style while showcasing your favorite fruits or salads. Perfect for entertaining or as a stunning addition to your kitchen, this Fruit Salad Bowl is a must-have for anyone who appreciates quality and design.
-  Updated: 2025-10-04T23:28:43Z
+  Updated: 2025-10-24T14:24:07Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -1232,14 +1232,14 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/A3soXd19d9TwagX1.webp?v=1758727232
     Price: £20.24 GBP
 - [Adjustable Soft Microfiber Feather Duster for Cleaning](https://trendytradesforyou.myshopify.com/products/adjustable-soft-microfiber-feather-duster-for-cleaning): Experience the ease of cleaning with our Adjustable Soft Microfiber Feather Duster. Designed for household cleaning, this essential tool is perfect for reaching those tricky high spots without the need for ladders or chairs. Featuring a telescoping pole made of stainless steel, our duster extends up to 30 inches, allowing you to effortlessly clean ceiling fans, cobwebs, and even the highest corners of your home. Whether you're tackling dust in wet or dry conditions, this versatile duster is up to the task. Say goodbye to dust bunnies and hello to a cleaner home! Our microfiber material ensures that dust is trapped and removed effectively, making your cleaning routine faster and more efficient. Enjoy the convenience of 2-day handling and 2-5 day shipping within the US, ensuring you get your duster quickly and ready to use. Don't let dust accumulate in hard-to-reach places—grab your Adjustable Duster today!
-  Updated: 2025-10-04T23:28:44Z
+  Updated: 2025-10-24T14:24:08Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/Um8mgaXeTWRvcDim.webp?v=1758727190
   Price: £12.99 GBP
 - [Digital Display Copper Spray Kettle Faucet Gun - Gray](https://trendytradesforyou.myshopify.com/products/digital-display-copper-spray-kettle-faucet-gun-gray): Elevate your home decor with our stunning Household Digital Display Copper Spray Kettle Faucet Splash Lift Gun. Designed with a modern simplicity that seamlessly blends with any aesthetic, this faucet is not just a functional fixture but a stylish statement piece for your kitchen or bathroom. Crafted from high-quality copper, it features a beautiful electroplating finish in gun gray, white, and more, ensuring durability and a touch of elegance. Each variation is designed to suit different tastes, allowing you to choose the perfect match for your space. With a sleek design and user-friendly digital display, this faucet makes water usage effortless and efficient. The splash lift gun ensures precision and control, enhancing your experience whether you’re filling a pot or washing your hands. Product Details: - Available in multiple colors: Electroplating color, Gun Gray, and White. - Dimensions: 300mm height, 300mm length, 150mm width. - Weight: 3.03 kg. Upgrade your home with this sophisticated faucet that combines form and function. Don’t miss out on the opportunity to transform your space into a modern oasis! Packing List: Faucet x1 Check out the stunning visuals below:
-  Updated: 2025-10-04T23:28:44Z
+  Updated: 2025-10-24T14:24:09Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -1257,7 +1257,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/XWORw3AEunJDvX6z.webp?v=1758727257
     Price: £117.65 GBP
 - [Magic Spray Mop for Wood Floors](https://trendytradesforyou.myshopify.com/products/magic-spray-mop-for-wood-floors): Discover the ultimate cleaning companion for your home with our Magic Spray Mop designed specifically for wood floors. This modern and minimalist mop is not just a cleaning tool; it's a revolution in household maintenance. Featuring a sleek design, the Magic Spray Mop comes with two options: 2 pads or 4 pads, allowing you to choose the perfect fit for your cleaning needs. With a convenient spray mechanism, you can easily dampen your floors for a thorough clean without the hassle of buckets and heavy water. The lightweight design ensures effortless maneuverability, making it easy to tackle every corner of your home. Each mop is equipped with high-quality pads that effectively trap dirt and grime, leaving your wood floors spotless and shining. Whether you have a small apartment or a spacious house, the Magic Spray Mop is your go-to solution for quick and efficient cleaning. Packing list: 1* Spray mop
-  Updated: 2025-10-04T23:28:44Z
+  Updated: 2025-10-24T14:24:09Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -1271,7 +1271,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/TpO3ZapCWJE2fsbL.webp?v=1758727368
     Price: £60.70 GBP
 - [Multi-layer Fruit Rack with Dried Fruit Tray Table](https://trendytradesforyou.myshopify.com/products/multi-layer-fruit-rack-with-dried-fruit-tray-table): Elevate your home decor with our exquisite Multi-layer Fruit Rack and Dried Fruit Tray. This stylish and functional piece is designed to complement any contemporary or traditional setting. Made with a durable wooden frame, it serves as a stunning centerpiece for your coffee table while providing ample space for your favorite fruits and dried snacks. Available in three elegant colors—Beige, Green, and White—and two chic styles, you can easily find the perfect match for your aesthetic. The double-layer and three-layer fruit plates offer versatility, allowing you to showcase your fruits beautifully or use it as a decorative tray for various items. With its compact dimensions of approximately 270mm in height and 310mm in length for the smaller version, and 280mm in height and 370mm in length for the larger version, this rack fits seamlessly into any space without overwhelming it. It’s lightweight yet sturdy, ensuring it can hold a generous amount of fruit while remaining easy to move around your home. Transform your dining experience and impress your guests with this stunning fruit holder that marries style and practicality. Whether you're hosting a gathering or simply enjoying a quiet evening at home, the Multi-layer Fruit Rack is the perfect addition to your decor.
-  Updated: 2025-10-04T23:28:44Z
+  Updated: 2025-10-24T14:24:10Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -1301,7 +1301,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/d2zzVi17M0WezRdR.webp?v=1758727468
     Price: £26.00 GBP
 - [Pure Cotton Spa Zone Massage Pillow Core](https://trendytradesforyou.myshopify.com/products/pure-cotton-spa-zone-massage-pillow-core): Discover the ultimate comfort with our Spa Zone Massage Pillow, designed to elevate your relaxation experience. Crafted with a premium pure cotton fabric and filled with soft polyester fiber, this pillow offers a perfect blend of support and softness. Measuring a generous 48*74cm, it’s ideal for single use, ensuring you enjoy a rejuvenating massage experience wherever you are. Choose from two elegant colors: Grey or Pink, allowing you to personalize your space while indulging in comfort. Each pillow is meticulously designed to provide the perfect amount of cushioning, making it your go-to accessory for relaxation after a long day. The package includes one luxurious pillow, ready to transform your relaxation routine. Don't miss out on the chance to pamper yourself or gift it to someone special.
-  Updated: 2025-10-04T23:28:44Z
+  Updated: 2025-10-24T14:24:11Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -1315,7 +1315,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/xKcUM0IZ7oab2RQN.webp?v=1758727464
     Price: £29.33 GBP
 - [China Red Ceramic Stock Pot - Multi-Purpose Casserole](https://trendytradesforyou.myshopify.com/products/china-red-ceramic-stock-pot-multi-purpose-casserole): Introducing our stunning China Red Ceramic Pot, a versatile and essential addition to your kitchen that combines beauty with functionality. Crafted from high-quality ceramic, this pot is designed to withstand high temperatures, making it the perfect choice for all your cooking needs. Whether you're preparing a delicious soup, a hearty stew, or a festive dish for a gathering, our ceramic pot is up to the task. With its health-conscious features, this pot ensures that your food is cooked safely and tastes delicious. Its compound bottom allows for even heat distribution, ensuring that your meals are cooked to perfection every time. This pot is not just a cooking tool; it's also a beautiful piece for your kitchen. The solid color glaze lid adds a touch of elegance, making it suitable for any occasion. Whether you're giving it as a gift for weddings, birthdays, holidays, or housewarmings, this pot is sure to impress. Available in multiple sizes, you can choose from: 1.8L stock pot 2.7L soup pot 3.6L stock pot 4L soup pot 5.5L stock pot 1.2L shallow pot 2.4L shallow pot No matter the size, each pot is designed with the same attention to detail and quality. Perfect for use on a gas stove, this ceramic pot is not only practical but also a stylish addition to your kitchenware. Browse through the images below to see its exquisite design and imagine how it can elevate your cooking experience.
-  Updated: 2025-10-04T23:28:44Z
+  Updated: 2025-10-24T14:24:12Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -1349,7 +1349,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/hbV6KPWWfLsIm2us.webp?v=1758727510
     Price: £159.56 GBP
 - [21V Cordless Electric Weed Trimmer](https://trendytradesforyou.myshopify.com/products/21v-cordless-electric-weed-trimmer): The 21V Cordless Electric Weed Trimmer is a powerful and versatile tool designed to keep your garden and yard looking neat. Featuring a 3-in-1 design, it functions as a brush cutter, string trimmer, and edger — perfect for tackling grass, weeds, and tough brush.Equipped with two rechargeable batteries and a fast charger, it offers extended run time and cordless convenience. The adjustable telescopic handle and wheels ensure easy maneuvering and comfortable use, even during longer tasks.Lightweight yet durable, this weed eater is ideal for lawns, edges, and hard-to-reach spots. A reliable choice for maintaining a tidy outdoor space with minimal effort.
-  Updated: 2025-10-04T23:28:44Z
+  Updated: 2025-10-24T14:24:13Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -1367,14 +1367,14 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/vJ4VustEPTXmCQBi.webp?v=1758746353
     Price: £118.83 GBP
 - [Black Tail Comb - Beauty Tool, Wholesale Plastic Comb](https://trendytradesforyou.myshopify.com/products/black-tail-comb-beauty-tool-wholesale-plastic-comb): Introducing our sleek and stylish black the ultimate beauty tool designed for precision and elegance. Crafted from high-quality plastic, this comb offers durability and a lightweight feel, making it perfect for everyday use or professional styling. Measuring over 20cm in length, the comb’s sharp, fine teeth allow for intricate styling and perfect parting, ensuring that every hair is in its place. Whether you're creating a sleek updo or adding volume to your locks, this versatile tool has got you covered. Its sleek black color not only adds a touch of sophistication but also makes it an essential accessory for any beauty enthusiast. Elevate your hair styling game with this must-have tool that combines functionality with style. Get yours today and experience the difference!
-  Updated: 2025-10-04T23:28:45Z
+  Updated: 2025-10-24T14:24:13Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/aQHlCKUHi8yfzF21.webp?v=1758746515
   Price: £9.01 GBP
 - [Aurora Long Lasting Multi Chrome Eyeshadow Pigments](https://trendytradesforyou.myshopify.com/products/aurora-long-lasting-multi-chrome-eyeshadow-pigments): Experience the magic of transformation with our Aurora Multi Chrome Eyeshadow Pigments. These stunning liquid eyeshadows are designed to deliver a long-lasting and mesmerizing effect, allowing you to shine like the galaxy itself. With a unique multi-chrome formula, these pigments shift colors and create a captivating look that is perfect for any occasion. Choose from six vibrant shades: Gold, Red and Yellow, Green, Blue, Deep Blue, and Purple. Each color is crafted to enhance your beauty and provide an eye-catching finish that reflects light beautifully. The 2.5ML bottles are perfect for travel, making it easy to touch up your look wherever you go. These pigments are not just about stunning visuals; they also boast a 3-year shelf life, ensuring that your makeup remains fresh and ready for any adventure. Whether you're going for a subtle glow or a bold transformation, our Aurora Multi Chrome Eyeshadow Pigments are your go-to for a truly unique makeup experience. Check out these gorgeous swatches to see how these pigments can elevate your makeup game! Elevate your eye makeup collection with the Aurora Multi Chrome Eyeshadow Pigments and shine like never before!
-  Updated: 2025-10-04T23:28:45Z
+  Updated: 2025-10-24T14:24:15Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -1404,7 +1404,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/8u0LncdYELU2JBkL.webp?v=1758746651
     Price: £10.92 GBP
 - [MLK S-Shape Soft Bristle Toothbrush for Adults](https://trendytradesforyou.myshopify.com/products/mlk-s-shape-soft-bristle-toothbrush-for-adults): Discover the ultimate solution to elevate your oral hygiene routine with our MLK S-Shaped Vertical Toothbrush. Designed for both men and women, this innovative toothbrush features a unique soft bristle structure that effectively cleans your teeth, tongue, and gums while providing a soothing massage. The S-shaped design promotes a vertical brushing technique, making it easier to reach and clean those hard-to-reach areas between your teeth and along your gum line. With a commitment to your oral health, we understand that changing brushing habits can take time. However, with just 5-7 days of consistent use, you will adapt to this revolutionary method and notice a significant improvement in your dental care routine. Our toothbrush comes in four vibrant colors to match your personal style: - Green (single pack) - Blue (single pack) - Pink (single pack) - Transparent (single pack) Each toothbrush weighs a mere 0.08 kg, making it lightweight and easy to handle. Embrace the journey towards better oral health today! If you have any questions during your transition to this new brushing technique, our customer support team is ready to assist you, ensuring you achieve the best results possible. Let's protect our smiles together with the MLK S-Shaped Vertical Toothbrush!
-  Updated: 2025-10-04T23:28:45Z
+  Updated: 2025-10-24T14:24:16Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -1426,7 +1426,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/acmsabpkN2yb9gng.webp?v=1758746639
     Price: £14.76 GBP
 - [High Gloss Nude Lip Gloss with Mirror Finish](https://trendytradesforyou.myshopify.com/products/high-gloss-nude-lip-gloss-with-mirror-finish): Elevate your lip game with our High Gloss Lip Gloss. Available in a stunning range of shades, this lip gloss promises to deliver a lasting moisturizing effect while enhancing your natural lip color. Each gloss is designed to provide a thick, lustrous finish that captures light beautifully, giving your lips a gorgeous mirror-like shine. Choose from five captivating colors: Smart Smokey Violet, Stardust Bare, Bee Molasses Brown, Cookie Smoke, and Berry Rose Red. Whether you want a bold look or something more subtle, there’s a shade to suit every mood and occasion. Key Features: - Long-lasting hydration that keeps your lips feeling soft and supple. - A variety of shades that range from soft nude tones to striking berry hues. - Pure English version design that adds elegance to your makeup collection. Each lip gloss comes in a compact size of 26.4 x 26.4 x 89mm, making it perfect for on-the-go touch-ups. Product Includes: - 1 Lip Glaze Transform your lips with a touch of gloss that not only beautifies but also nourishes. Get ready to shine and express your unique style!
-  Updated: 2025-10-04T23:28:45Z
+  Updated: 2025-10-24T14:24:16Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -1452,7 +1452,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/AO16sig6bWrgfY3L.webp?v=1758746732
     Price: £9.07 GBP
 - [GlueFree™ Magnetic Lashes - Natural Look, Reusable](https://trendytradesforyou.myshopify.com/products/gluefree™-magnetic-lashes-natural-look-reusable): Experience the magic of stunning, glue-free beauty with our GlueFree™ Makellose Magnetische Wimpern. These magnetic eyelashes are designed for effortless application and removal, allowing you to achieve a captivating look without the mess and hassle of traditional eyelash glue. Crafted from high-quality artificial fibers, our eyelashes provide a soft, natural appearance that enhances your eyes beautifully. Available in two distinct styles, the Fairy Eyelash Set offers a delicate look perfect for daytime wear, while the bold Devil Eyelash Set is ideal for making a statement on special occasions. Each set comes with a replacement option for added convenience, ensuring your lashes stay fabulous and ready to wear again and again. Plus, they're waterproof and long-lasting, so you can enjoy your stunning lashes without worrying about touch-ups throughout the day. Transform your eye makeup routine with the ease and elegance of GlueFree™ Makellose Magnetische Wimpern. Say goodbye to messy glues and hello to a new era of beauty!
-  Updated: 2025-10-04T23:28:45Z
+  Updated: 2025-10-24T14:24:17Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -1464,14 +1464,14 @@
     Availability: Available
     Price: £18.29 GBP
 - [Anti-Shedding Smooth Hair Mask for Frizz Control](https://trendytradesforyou.myshopify.com/products/anti-shedding-smooth-hair-mask-for-frizz-control): Transform your hair care routine with our expertly formulated Repair Damage Frizz Soft Anti-Shedding Smooth Hair Mask. This luxurious treatment is designed for all hair types, whether you have neutral, oily, or dry hair, making it the perfect addition to your beauty arsenal. Infused with a delightful coconut fragrance, this hair mask not only smells divine but also delivers powerful results. Experience the ultimate in hair rejuvenation as it provides moisturizing, hydrating, and nourishing benefits. It’s the ideal solution for protecting color-treated hair, soothing the scalp, and preventing breakage, while also tackling frizz for a smooth, polished finish. Suitable for everyone, this hair treatment cream comes in a convenient 50ml size, perfect for on-the-go hydration. With just one application, you can transform your hair into a soft, manageable masterpiece. Don’t settle for anything less than luxurious hair care. Treat yourself to the Repair Damage Frizz Soft Anti-Shedding Smooth Hair Mask and unveil your hair’s true potential.
-  Updated: 2025-10-04T23:28:45Z
+  Updated: 2025-10-24T14:24:17Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/DYRp3HelGSih6QGq.webp?v=1758746827
   Price: £12.23 GBP
 - [Bunion Corrector Silicone Toe Sleeves and Separator](https://trendytradesforyou.myshopify.com/products/bunion-corrector-silicone-toe-sleeves-and-separator): Introducing our revolutionary Hallux Valgus Corrector - the ultimate solution for those suffering from toe discomfort! This exceptional product is designed to provide relief from common foot issues such as bent toes, overlapping toes, and hallux valgus. With its ergonomic design, it gently separates and aligns your toes, allowing for a more natural foot position. Crafted from soft and comfortable silicone, our toe separators offer unparalleled comfort while being small and lightweight for easy portability. Whether you're at home or on the go, you can wear them with confidence, knowing that you're taking steps towards healthier feet. Our Hallux Valgus Corrector is 100% brand new and comes in a variety of colors to suit your style: White Skin White Sole Set Each package includes one pair of toe separators, making it easy to start your journey to pain-free feet. Say goodbye to discomfort and hello to relief!
-  Updated: 2025-10-04T23:28:45Z
+  Updated: 2025-10-24T14:24:18Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -1493,7 +1493,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/R7ipVHsX1akrNSsx.webp?v=1758746994
     Price: £10.97 GBP
 - [8-Piece Makeup Brush Set with Black Handle and Silver Tubes](https://trendytradesforyou.myshopify.com/products/8-piece-makeup-brush-set-with-black-handle-and-silver-tubes): Elevate your beauty routine with our professional makeup brush set. This collection includes 8 expertly crafted brushes designed to meet all your makeup needs, ensuring flawless application every time. Whether you’re a makeup novice or a seasoned artist, these brushes are essential tools for achieving your desired look. Each brush is made from premium fiber wool and features a sturdy wooden handle, combining durability with a luxurious touch. With options like a white handle gold tube or a black handle silver tube, you can choose the set that best suits your style. The specially selected bristles, made from a variety of animal hairs, are tailored for different functions, allowing for precision and versatility in your application. Cleaning your brushes is essential for maintaining their quality and your skin’s health. Follow our daily care tips by simply wiping the brush along tissue paper to remove excess makeup after each use. For regular maintenance, soak the brushes in diluted warm soapy water weekly, wash gently along the bristles, and rinse with cold water. Remember to air-dry naturally on a towel to avoid damaging the bristles. Not only do these brushes provide impeccable makeup application, but they also ensure a soft and comfortable experience on your skin. Enhance your collection with our stunning designs and enjoy the art of makeup like never before!
-  Updated: 2025-10-04T23:28:45Z
+  Updated: 2025-10-24T14:24:19Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -1515,7 +1515,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/112a83ad0vvtLwoq.webp?v=1758747321
     Price: £14.47 GBP
 - [Love Star Hair Clip - Fashionable Simple Accessory](https://trendytradesforyou.myshopify.com/products/love-star-hair-clip-fashionable-simple-accessory): Elevate your hairstyle with our Love Star Hair Clip, the perfect blend of fashion and functionality. Designed for those who appreciate a touch of elegance, this trendy hair accessory is more than just a clip; it’s a statement piece that reflects your sweet temperament. Crafted from high-quality plastic and resin, this grab clip ensures durability while keeping your hair securely in place. Whether you're dressing up for a special occasion or going for a casual look, the fresh and sweet style of this clip will complement any outfit effortlessly. Choose between two charming styles: the romantic Love design or the whimsical Stars option. Each clip weighs only 0.098 kg, making it lightweight and easy to wear throughout the day without any discomfort. Check out these stunning images to see how the Love Star Hair Clip can transform your look: Don't miss out on this essential hair accessory that promises to add a touch of charm to your everyday style. Grab your Love Star Hair Clip today and let your hair shine!
-  Updated: 2025-10-04T23:28:46Z
+  Updated: 2025-10-24T14:24:19Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -1529,7 +1529,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/1togZiFadXRSvpkd.webp?v=1758748348
     Price: £9.29 GBP
 - [Ginger Essential Oil 500ml for Body Care and Moisture](https://trendytradesforyou.myshopify.com/products/ginger-essential-oil-500ml-for-body-care-and-moisture): Discover the ultimate solution for your skincare routine with our 500ml Zhiduo Wormwood Ginger Essential Oil. Perfect for all skin types, this luxurious oil not only nourishes but also revitalizes your skin, leaving it feeling soft and smooth. This multi-purpose oil is designed for full-body use, making it an essential addition to your daily skincare regimen. Whether you're looking to hydrate, soothe, or rejuvenate your skin, our essential oil is here to meet your needs. With a generous 500ml bottle, you can indulge in the benefits of this plant extract without worrying about running out. The unique combination of wormwood and ginger extracts works wonders on the skin, providing deep moisture and a soothing aroma that elevates your self-care experience. Enjoy a shelf life of 3 years, ensuring that your skincare routine remains uninterrupted. Our essential oil comes in two variations: Zhiduo Wormwood Ginger Essential Oil and Hanse Wormwood Ginger Plant Extract Massage Essential Oil, both available in the same generous size. Pamper yourself with nature's finest ingredients and experience the transformation in your skin with every use. Elevate your skincare game today!
-  Updated: 2025-10-04T23:28:46Z
+  Updated: 2025-10-24T14:24:20Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -1543,21 +1543,21 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/Cf8eSKKqdZUX9wSQ.webp?v=1758748442
     Price: £25.84 GBP
 - [Professional 9mm Curling Iron with LCD Display](https://trendytradesforyou.myshopify.com/products/professional-9mm-curling-iron-with-lcd-display): Transform your hair styling routine with our Professional 9mm Curling Iron. This innovative curl wave machine is designed to bring salon-quality curls right to your home, featuring a stunning Pear Flower Wand design that is as elegant as it is effective. Equipped with an advanced LCD display, you can easily monitor and adjust the temperature from 80°C to 230°C, ensuring the perfect heat for every hair type. Whether you have dry or wet hair, this curling iron is versatile enough to handle both, allowing you to create beautiful waves and curls effortlessly. The tourmaline ceramic heating material provides efficient thermal conductivity, promoting even heat distribution and minimizing hair damage. Plus, with a generous 2m 360-degree swivel cord, you’ll enjoy the freedom to style your hair from any angle without the hassle of tangled cords. This curling iron is not just functional; it’s stylish too, available in a chic Purple Red color that adds a touch of glamour to your beauty tools. Each purchase includes one high-quality hair curler, making it a perfect addition to your beauty arsenal. Don't settle for ordinary curls—elevate your styling game with our Professional 9mm Curling Iron. Get ready to turn heads with your gorgeous, wavy locks!
-  Updated: 2025-10-04T23:28:46Z
+  Updated: 2025-10-24T14:24:21Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/dyr8BodcgsT6X8ch.webp?v=1758748501
   Price: £27.23 GBP
 - [Heating Belt for Menstrual Cramps Relief Gift](https://trendytradesforyou.myshopify.com/products/heating-belt-for-menstrual-cramps-relief-gift): Say Goodbye to Menstrual Discomfort! Experience unparalleled comfort during your menstrual cycle with our innovative Warm Uterus Massager. This menstrual heating pad is designed specifically for women, providing soothing relief for painful cramps and discomfort. With a stylish design available in pink and green, it’s not just functional but also fashionable! Key Features: Advanced Heating Technology: Enjoy adjustable warmth settings that offer personalized relief. Choose from three heat levels tailored to your comfort needs. Lightweight and Portable: Weighing only 205g, this belt is easy to carry and perfect for use at home or on the go. Long Battery Life: With a battery capacity of 2000mAh, you can enjoy up to 26 hours of soothing warmth on the lowest setting! High-Quality Materials: Made from durable ABS and electronic components, ensuring a safe and effective experience. Specifications: Size: 196*85*28mm Color Box Size: 113X56X217mm Net Weight: 205g Operating Current: 900mA Input Voltage: 3V-4.2V Charging Voltage: 5V Packing List: 1 x Warm Palace Belt Note: 1. Due to lighting and monitor effects, colors may vary slightly. 2. Please allow for minor measurement errors. Thank you for your understanding! Transform your monthly experience with the Warm Uterus Massager – your new best friend during that time of the month!
-  Updated: 2025-10-04T23:28:46Z
+  Updated: 2025-10-24T14:24:21Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/hkjcIbidPOtHpeWw.webp?v=1758748572
   Price: £50.79 GBP
 - [3-Piece Matte Lip Gloss Set - Non-Stick to Cup](https://trendytradesforyou.myshopify.com/products/3-piece-matte-lip-gloss-set-non-stick-to-cup): Discover the ultimate addition to your makeup collection with our 3-piece Lip Gloss Set. This set is designed for the modern individual who values both beauty and practicality. Each gloss is expertly formulated with minerals to provide a rich, vibrant color while remaining non-sticky—so you can sip your favorite drink without worry! Available in three stunning shades, A, B, and C, this set caters to all your beauty needs. Whether you're looking for a subtle look or something bold, there's a shade for every occasion. The matte finish ensures that your lips look chic without the mess of traditional glosses. Each lip gloss in this set has a shelf life of up to 3 years, ensuring you can enjoy your favorite colors for a long time. Packaged conveniently, this set makes for a perfect gift or a treat for yourself. Check out the stunning visuals of our lip glosses below, showcasing their beautiful colors and luxurious packaging: Elevate your lip game with our 3-piece Lip Gloss Set and enjoy the perfect combination of style and functionality!
-  Updated: 2025-10-04T23:28:46Z
+  Updated: 2025-10-24T14:24:22Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -1570,7 +1570,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/hC8eOFYC6KigIBIu.webp?v=1758748647
     Price: £12.80 GBP
 - [X20 Wireless Nail Lamp with Rechargeable Lithium Battery](https://trendytradesforyou.myshopify.com/products/x20-wireless-nail-lamp-with-rechargeable-lithium-battery): Elevate your nail game with our latest X20 Wireless Nail Lamp. This innovative device is not just a nail dryer; it’s a complete nail care solution designed for both professionals and DIY enthusiasts. With its powerful lithium battery, you’ll enjoy cordless convenience while achieving salon-quality results. The X20 features advanced blue and red light technology, offering options tailored to different nail products. Whether you're using gel polish or other nail treatments, this lamp ensures a quick and effective cure, saving you time and ensuring flawless nails every time. Its sleek and compact design, with dimensions of 20.5 cm length and 9.5 cm height, makes it easy to store and perfect for travel. Weighing only 0.85 kg, it’s lightweight yet powerful enough to handle all your nail needs. Choose between our two stunning variations: White Blue Light and White Red Light, catering to your aesthetic and functional preferences. Each option promises the same high-quality performance and reliability. Experience the future of nail care with the X20 Wireless Nail Lamp. Say goodbye to cumbersome wires and hello to beautiful, perfectly cured nails at your fingertips.
-  Updated: 2025-10-04T23:28:46Z
+  Updated: 2025-10-24T14:24:22Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -1584,14 +1584,14 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/8OM8aE1g6psUvfdH.webp?v=1758748763
     Price: £84.53 GBP
 - [WARMKISS Women's Perfume Gift Set for Special Occasions](https://trendytradesforyou.myshopify.com/products/warmkiss-womens-perfume-gift-set-for-special-occasions): Discover the enchanting allure of WARMKISS perfume, beautifully presented in a charming gift set that is perfect for any occasion. This long-lasting fragrance is designed for the modern woman who appreciates the delicate balance of floral and fruity notes. With a fragrance concentration of 7-12%, each spritz offers a refreshing burst that lingers throughout the day, making it an ideal choice for both daily wear and special events. Whether you're looking to surprise your girlfriend or treat yourself, the Love Lady box adds a touch of elegance to your gifting experience. This exquisite box not only looks appealing but also reflects the romantic essence of the perfume it holds. Elevate your gifting game with the WARMKISS perfume gift set and let its captivating fragrance speak the language of love and affection. Perfect for holidays, birthdays, or simply to show someone you care. Make every moment special with WARMKISS!
-  Updated: 2025-10-04T23:28:46Z
+  Updated: 2025-10-24T14:24:23Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/tzUXahSOUKAJcGO5.webp?v=1758748862
   Price: £24.19 GBP
 - [7-in-1 High-Speed Hot Air Brush for Styling](https://trendytradesforyou.myshopify.com/products/7-in-1-high-speed-hot-air-brush-for-styling): Unleash your hair's potential with our 7-in-1 Multifunctional Hot Air Brush, the ultimate styling tool designed for effortless curls, waves, and sleek straight hair. This revolutionary device combines the power of a high-speed brush and a blow dryer, allowing you to achieve salon-worthy hairstyles right at home. Crafted with a tourmaline ceramic heating element, this hot air brush ensures even heat distribution while minimizing damage to your hair. With a diameter range of 16MM-20MM, it is perfect for creating a variety of stunning styles, from tight curls to loose waves and sleek straight looks. Choose from 10 temperature control settings to perfectly match your hair type and desired style, ensuring you get the best results every time. Its 1200W power guarantees quick styling, while the wired AC power supply offers consistent performance. Available in a range of eye-catching colors such as Platinum European standard, White gold gauge, Black and silver, and more, you can select a style that suits your personality. Each variation is designed for both aesthetics and functionality, weighing just 1.98 kg for easy handling. Transform your daily routine with this versatile styling tool that not only saves time but also enhances the health and appearance of your hair. Say goodbye to bad hair days and hello to effortless style! Images:
-  Updated: 2025-10-04T23:28:46Z
+  Updated: 2025-10-24T14:24:24Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -1629,7 +1629,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/Dzpoo3avajQoWP4s.webp?v=1758748952
     Price: £190.19 GBP
 - [Massage Gun Device for Relaxation and Relief](https://trendytradesforyou.myshopify.com/products/massage-gun-device-for-relaxation-and-relief): Experience the power of professional-grade relaxation with our Professional Treatment Vibration Massager. Designed using premium materials such as PA (polyamide) and nylon, this innovative device operates at an ultra-quiet 45 decibels, ensuring a peaceful massage experience without any distractions. With a staggering 3200 vibrations per minute, this massager effectively targets stiffness and muscle pain while promoting improved blood circulation. Tailor your massage experience with a variety of adjustable settings. Choose from 5 speed levels and 3 transmission modes to find the perfect intensity for your needs. The massager features a torque range of 0-7.5 kg/cm in its upgraded version, providing a robust and powerful massage. Depending on the selected mode, enjoy up to 6 hours of continuous use on a single charge, thanks to its high-capacity battery. The massager comes with 5 interchangeable head accessories, including a specially designed sweet massage head that ensures a comfortable experience while minimizing bone damage. With smart features such as a 10-minute auto shut-off and 60 seconds smart power off, you can relax without worrying about overuse. Available in two stylish options - Standard and Flagship, and in sizes that cater to both EU and USA markets, our massager is designed to meet your preferences. Enhance your wellness routine and improve the health of your body's soft tissues today!
-  Updated: 2025-10-04T23:28:47Z
+  Updated: 2025-10-24T14:24:25Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -1651,14 +1651,14 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/oa4X2p4IFSiqi403.webp?v=1758749016
     Price: £218.72 GBP
 - [SKG4098 Red Premium Neck Massager with Remote](https://trendytradesforyou.myshopify.com/products/skg4098-red-premium-neck-massager-with-remote): Experience the ultimate in neck care with our SKG4098 Red Premium Neck Massager. Designed to provide a luxurious and soothing massage experience, this innovative device is perfect for anyone seeking relief from neck tension and discomfort. With its sleek red design, it not only looks stylish but also enhances your wellness routine. Operating the massager is a breeze! Simply press the button for a few seconds to activate it. Switch between various modes with a single press, or utilize the remote control’s M key for further customization. Adjust the speed effortlessly with the "+" and "_" keys to find your perfect comfort zone. One of the standout features is the hot pressing function, easily activated with the remote control, offering a warm and comforting sensation that melts away stress and tension. For those with dry skin, we recommend lightly wiping your neck with a damp cloth or lotion to enhance your massage experience. Convenience is key; the SKG4098 can be used while wearing it, and with a smart automatic shutdown feature, it turns off after 15 minutes of inactivity, ensuring safety and energy efficiency. Please note, while Apple charging heads are not compatible, Android charging heads work perfectly with this device. Make self-care a priority with the SKG4098 Red Premium Neck Massager. Treat yourself or a loved one to an unforgettable neck massage experience that blends technology with comfort. Check out the stunning images below to see this amazing product in action!
-  Updated: 2025-10-04T23:28:47Z
+  Updated: 2025-10-24T14:24:26Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/J7J7AkfLSjz7UjK1.webp?v=1758749095
   Price: £232.32 GBP
 - [5-in-1 Automatic Hot Air Comb for Curling & Straightening](https://trendytradesforyou.myshopify.com/products/5-in-1-automatic-hot-air-comb-for-curling-straightening): Transform your hair routine with our innovative Five-in-One Hot Air Comb. This versatile styling tool not only curls but also straightens, ensuring you achieve the perfect look effortlessly. Made from ABS and environmentally friendly aluminum alloy, it combines durability with sustainability for an eco-conscious choice in beauty. With a sleek design measuring 23 * 40CM, this hair styling comb is compact enough for easy handling yet powerful enough to deliver salon-quality results. The 1000W motor offers multiple temperature settings—ranging from 60-63 degrees for gentle styling to 136-140 degrees for those stubborn strands. Choose the perfect heat level for your hair type and style preference. Available in stunning colors: Rose Red, Golden, Purple, Black, and Pink, you can express your personal style while enjoying the benefits of a dual-use hair tool. Available specifications include options for EU, US, AU, and UK, making it suitable for various regions around the world. Experience the convenience of a curly and straight styling tool that dries your hair as it styles, reducing the need for multiple devices cluttering your space. This product is designed for everyone who loves to look fabulous with minimal effort. Check out some images to see this remarkable tool in action: Elevate your hair game today with the Five-in-One Hot Air Comb and enjoy a flawless hairstyle every day!
-  Updated: 2025-10-04T23:28:47Z
+  Updated: 2025-10-24T14:24:27Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -1744,7 +1744,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/p8ySy1pw9RpaTjM5.webp?v=1758749308
     Price: £40.40 GBP
 - [Round Wooden Comb with Mixed Nylon and Boar Bristles](https://trendytradesforyou.myshopify.com/products/round-wooden-comb-with-mixed-nylon-and-boar-bristles): Introducing our premium wooden round brush featuring a unique blend of nylon and boar bristles. This expertly crafted tool is designed to elevate your hair care routine, providing both functionality and style. Available in six stunning color variations, including vibrant yellow options ranging from size 10# to 20#, each brush measures between 4.5cm to 6.9cm in width and 24.8cm to 25.2cm in length. The lightweight design, with weights between 0.07kg and 0.17kg, ensures effortless maneuverability while styling. This round brush is perfect for achieving smooth, shiny hair while minimizing damage. The combination of boar bristles and nylon helps distribute natural oils, enhancing your hair's health and appearance. Whether you're looking to create volume, curl, or simply smooth your locks, this brush is your ideal partner. Upgrade your hair care arsenal with our beautiful wooden round brush and experience the difference in your styling routine today!
-  Updated: 2025-10-04T23:28:47Z
+  Updated: 2025-10-24T14:24:28Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -1774,7 +1774,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/oAfE836HO7nIKzhV.webp?v=1758749294
     Price: £11.88 GBP
 - [QIBEST Matte Liquid Eyeshadow and Blush Duo Set](https://trendytradesforyou.myshopify.com/products/qibest-matte-liquid-eyeshadow-and-blush-duo-set): Elevate your beauty routine with our stunning QIBEST Matte Liquid Eyeshadow Set. This versatile collection features eight exquisite shades, expertly designed to enhance your eyes and cheeks with a beautiful, natural finish. Perfect for all skin types, this two-in-one set allows you to create stunning looks effortlessly. Each shade in this collection is created to provide a soft matte finish, giving you the flexibility to achieve everything from a subtle day look to a bold evening statement. The easy-to-apply formula glides on smoothly, ensuring a flawless application every time. With a shelf life of three years, you can enjoy these luxurious colors for many occasions to come. Choose from four captivating color classifications: QE2216-A QE2216-B QE2216-C QE2216-D Experience the transformative power of these richly pigmented shades that are not only perfect for your eyes but can also double as cheek color. Whether you're heading to work, a special event, or a night out, this set is your new go-to for achieving a stunning look. Don't miss out on this essential addition to your makeup collection!
-  Updated: 2025-10-04T23:28:47Z
+  Updated: 2025-10-24T14:24:29Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -1796,7 +1796,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/tigfLRHr4eCc025Z.webp?v=1758749550
     Price: £17.94 GBP
 - [6-in-1 LED Skin Massage Beauty Device](https://trendytradesforyou.myshopify.com/products/6-in-1-led-skin-massage-beauty-device): Discover the transformative power of our cutting-edge 6 in 1 Skin Lifter, designed to elevate your beauty routine and provide professional-grade results right at home. This multifunctional beauty device combines ultrasound, EMS, and RF technologies, delivering a comprehensive skincare experience that rejuvenates and revitalizes your skin. Crafted from high-quality ABS plastic, the ergonomic design fits comfortably in your hand, making it easy to use. With a maximum power of 10W and a rechargeable 850 mAH battery, enjoy up to 100 minutes of effective treatment after just 15-20 minutes of charging. Its compact size of 160 x 50 x 40mm allows for easy storage and travel, so you can take your skincare routine wherever you go. Our advanced device features a frequency of 3MHz for ultrasound and 50-89kHz for EMS and RF, ensuring deep penetration into the skin layers for maximum efficacy. Whether you choose the version with Original Packaging or the Ordinary Carton, you will experience a skincare revolution that promotes youthful, glowing skin. Embrace the beauty of technology and treat yourself to the luxurious care you deserve with our 6 in 1 Skin Lifter. Your skin will thank you!
-  Updated: 2025-10-04T23:28:47Z
+  Updated: 2025-10-24T14:24:30Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -2038,7 +2038,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/f3c2f5b396550a90ed6f2d2dea7340cb.jpg?v=1759529834
     Price: £5.99 GBP
 - [OneGoWorld65](https://trendytradesforyou.myshopify.com/products/onegoworld65)
-  Updated: 2025-10-04T23:28:49Z
+  Updated: 2025-10-24T14:24:30Z
   Vendor: OneAdaptr
   Product Type: n/a
   Availability: Available
@@ -2050,7 +2050,7 @@
     Availability: Available
     Price: £78.11 GBP
 - [Fashionable Smart Watch Women  Bluetooth Calling Fitness Tracker, Health Monitor Heart Rate/Sleep Tracking](https://trendytradesforyou.myshopify.com/products/fashionable-smart-watch-women-bluetooth-calling-fitness-tracker-health-monitor-heart-ratesleep-tracking): The CX3 smartwatch boasts a sleek all - metal frame design. It offers 24/7 health monitoring for heart rate, SpO₂, and stress, plus over 100 sports modes. With RunmefitOS 2.0, Bluetooth calling, and smart assistant features, it’s great for efficiency and health.
-  Updated: 2025-10-04T23:28:49Z
+  Updated: 2025-10-24T14:24:31Z
   Vendor: WAUTTON
   Product Type: smart watch
   Availability: Available
@@ -2076,28 +2076,28 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/1_68949e2c-86e4-458f-8cea-77f54aee0979.jpg?v=1759532326
     Price: £33.47 GBP
 - [Advanced Health and Fitness Smartwatch with Tools to Manage Stress and Sleep, ECG App, SpO2, 24/7 Heart Rate](https://trendytradesforyou.myshopify.com/products/advanced-health-and-fitness-smartwatch-with-tools-to-manage-stress-and-sleep-ecg-app-spo2-247-heart-rate): This smart watch is designed for health monitoring. It can track blood sugar, along with other functions like heart rate, ECG, body temperature, and sleep monitoring, helping users manage their health comprehensively.
-  Updated: 2025-10-04T23:28:49Z
+  Updated: 2025-10-24T14:24:32Z
   Vendor: WAUTTON
   Product Type: smart watch
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/4_595bcdfc-548e-4541-ae80-16f1dc4f4bdf.jpg?v=1759532325
   Price: £48.34 GBP
 - [ECG smart watch with blood pressure monitor body temperature blood glucose heart rate blood oxygen](https://trendytradesforyou.myshopify.com/products/ecg-smart-watch-with-blood-pressure-monitor-body-temperature-blood-glucose-heart-rate-blood-oxygen): This is an ECG smart health watch. It boasts a 2.1 - inch high - definition large screen and can conduct ECG monitoring, blood component analysis, body composition analysis, scientific sleep tracking, and non - invasive blood sugar measurement.
-  Updated: 2025-10-04T23:28:49Z
+  Updated: 2025-10-24T14:24:33Z
   Vendor: Wautton Outdoor Gear
   Product Type: smart watch
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/1_d490ed4b-ce56-46ca-bc44-363958e2a798.png?v=1759532327
   Price: £52.06 GBP
 - [Leather Case with Adjustable Fabric Strap for AirPods Max (Black)](https://trendytradesforyou.myshopify.com/products/leather-case-with-adjustable-fabric-strap-for-airpods-max-black): Experience unmatched elegance and functionality with this luxurious shoulder bag, specifically crafted for Apple's AirPods Max. Made from premium Italian chrome-tanned leather, this accessory offers an exceptionally soft feel paired with a sophisticated and uniform grain pattern. The interior is lined with plush velour pigskin, providing superior protection and a gentle touch for your headphones. Designed for versatility, this bag comes equipped with a detachable, adjustable polypropylene fabric shoulder strap secured by robust spring O-rings. This strap ensures lasting durability and impressive resistance against wear and tear. Furthermore, the bag incorporates an integrated sleep-mode activation feature for your AirPods Max, effectively preserving battery life when not in use. Elevate your style and keep your AirPods Max protected with this meticulously designed, practical accessory, perfect for everyday use and any occasion.
-  Updated: 2025-10-04T23:28:49Z
+  Updated: 2025-10-24T14:24:33Z
   Vendor: Geometric Goods
   Product Type: AirPods Max Case
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/airpods-max-case-with-strap-black-color.jpg?v=1759532325
   Price: £89.19 GBP
 - [Leather AirPods Max Rest Station](https://trendytradesforyou.myshopify.com/products/leather-airpods-max-rest-station): Elevate your AirPods Max with the Leather AirPods Max Rest Station by Geometric Goods—a refined accessory that brings premium craftsmanship to your everyday setup. Handcrafted in Europe from full-grain Italian leather, it offers a smooth, structured base that complements both your headphones and your workspace. Discreet internal magnets automatically activate low power mode the instant you dock, preserving battery life with no extra steps. The leather’s gently cushioned surface helps maintain your headphones’ shape while lending a sophisticated, understated presence to a desk, nightstand, or media console. Over time, the leather develops a rich natural patina, making every station uniquely yours. A slim cable channel allows effortless charging, so your AirPods Max can rest, recharge, and stay ready. A discreet non-slip underside helps keep the pad steady in daily use. More than a stand, it’s a statement of taste and longevity—blending function, elegance, and artisanal quality into one essential accessory. Key Features Full-grain Italian leather with timeless character and durability Activates low power mode automatically via built-in magnets Smooth, structured surface helps maintain shape and reduce marks Evolves beautifully—develops a unique patina with use Stable, low-profile base fits desks, nightstands, and shelves Integrated channel to charge while in rest mode Handcrafted in Europe with meticulous finishing.
-  Updated: 2025-10-04T23:28:49Z
+  Updated: 2025-10-24T14:24:34Z
   Vendor: Geometric Goods
   Product Type: AirPods Max Stand
   Availability: Available
@@ -2115,7 +2115,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/airpods-max-desk-setup.jpg?v=1759532325
     Price: £48.28 GBP
 - [Minimalist Pop up Wallet with Money Clip, All Aluminum Slide Rfid Slim Card Holder](https://trendytradesforyou.myshopify.com/products/minimalist-pop-up-wallet-with-money-clip-all-aluminum-slide-rfid-slim-card-holder): Ultra Thin Metal Card Wallet With Stronger Magnetic : thickness of only 0.31inch, ultra thin and lightweight,can be strongly attached to the back of the phone, and made of aluminum,sturdy and durable. Compatibility : The magnetic card holder with adjustable stand is compatible with iPhone 12 series above and official magnetic cases; Not compatible with iPhone 13 mini,12 mini. Not compatible with no magnetic cases and other mobile phone. Prevent Theft, Leak Prevention : The card holder exit right side adopts a unique design,please push the metal switch to the top to lock cards to prevent your cards from falling out. No matter how you hold your phone, the cards will stay in the metal case safely. Quick Access Cards : The minimalist card wallet can easily store up to 5 cards, our card case wallet adsorbed on your phone back,you don't need to open your wallet to look for a credit card every time,just put commonly used cards into the aluminum card case,pop out your cards at the click of a button by one hand,save payment time at the checkout. RFID Blocking Protection: The card holder can effectively block the 13.56mhz frequency. Protect your credit cards, debit cards, and ID cards from electronic pickpocketing. Note : 1.When you need to access your cards, you only need one hand to eject the cards from the card holder, which makes it easier to remove the cards.
-  Updated: 2025-10-04T23:28:49Z
+  Updated: 2025-10-24T14:24:35Z
   Vendor: TOYFID Wallet
   Product Type: Card Wallet With Money Clip
   Availability: Available
@@ -2145,7 +2145,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/aluminum_security_credit_card_wallet.jpg?v=1759532344
     Price: £33.48 GBP
 - [Smart Watch for Women, 1.95'' AMOLED Ultra-Clear Screen Activity Trackers with Heart Rate/Sleep/SpO2 Monitor, Smartwatch for iPhone/Samsung/Android](https://trendytradesforyou.myshopify.com/products/smart-watch-for-women-195-amoled-ultra-clear-screen-activity-trackers-with-heart-ratesleepspo2-monitor-smartwatch-for-iphonesamsungandroid): This smartwatch boasts a 1.95 - inch AMOLED large display, a 360mAh battery for long - lasting use, and features like health monitoring, smart assistance, and various stylish watch faces.
-  Updated: 2025-10-04T23:28:49Z
+  Updated: 2025-10-24T14:24:36Z
   Vendor: WAUTTON
   Product Type: smart watch
   Availability: Available
@@ -2163,7 +2163,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/6_795b0028-3e1a-4b84-aeef-3ae6e78d039b.png?v=1759532334
     Price: £40.91 GBP
 - [1.85" Smartwatch (Answer/Make Call), IP68 Waterproof Fitness Tracker, 112+ Sport Modes, Heart Rate and Sleep Monitor](https://trendytradesforyou.myshopify.com/products/185-smartwatch-answermake-call-ip68-waterproof-fitness-tracker-112-sport-modes-heart-rate-and-sleep-monitor): Smart Watch T17F, a versatile and stylish wearable device. It offers a plethora of useful features. With Bluetooth calling, you can conveniently answer and make calls directly from your wrist. The voice assist function helps you with quick tasks and inquiries. It also monitors your health closely, providing red light SpO₂ (blood oxygen) measurements and continuous heart rate monitoring. You can quickly reply to SMS messages, staying connected without reaching for your phone. Boasting over 100 watch faces, you can personalize its look to match your style or mood. Additionally, it comes with multi - sport modes, making it an ideal companion for fitness enthusiasts to track various workout activities. Stay connected, active, and stylish with the ultimate waterproof smartwatch featuring calls, health monitoring, and 100+ sport modes.Elevate your daily routine with the 1.85" Smartwatch, designed for both fitness enthusiasts and busy professionals. This sleek, sophisticated device features a highly responsive touchscreen, offering quick access to call answering and making, all from your wrist. Its impressive IP68 waterproof rating ensures it withstands splashes, rain, and even swimming, making it ideal for active lifestyles. With over 112 sport modes, it meticulously tracks activities like running, cycling, swimming, and more, helping you stay motivated and on target. The comprehensive health monitoring system provides real-time heart rate, sleep analysis, and blood oxygen levels, empowering you to make healthier choices. Personalize your look with over 100 watch faces and stay connected effortlessly with SMS and call notifications. Durable, stylish, and packed with features, this smartwatch is your perfect outdoor and fitness companion. Shop now to redefine your fitness and connectivity! Enables direct answering and making calls with a built-in microphone and speaker for seamless communication. IP68 waterproof rating allows for swimming, showering, and intense workouts without worry. Supports over 112 sport modes to accurately track various physical activities and enhance workout insights. Monitors heart rate and sleep patterns continuously to optimize health and fitness routines.
-  Updated: 2025-10-15T10:50:33Z
+  Updated: 2025-10-24T14:24:36Z
   Vendor: WAUTTON
   Product Type: smart watch
   Availability: Available
@@ -2181,7 +2181,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/1_e8f80d7c-a8fe-44e3-8d2c-b199cb465674.jpg?v=1759532326
     Price: £26.03 GBP
 - [TOYFID Best Pop Up RFID Mens Wallet forged Carbon Fiber Minimalist Amazon to Protect Credit Cards](https://trendytradesforyou.myshopify.com/products/toyfid-best-pop-up-rfid-mens-wallet-forged-carbon-fiber-minimalist-amazon-to-protect-credit-cards): We chose aluminum alloy materials for their durability and, in turn, created a wallet that’ll last a lifetime. RFID BLOCKING – Breathe easy because your cards will be surrounded by the metal body of this credit card wallet, protecting them from even the most powerful RFID Chip Readers. FUNCTIONAL & SLIM – Holds 1-5 or 1-12 cards without stretching out. This minimalist wallet is ideal for carrying business cards, credit and debit cards, bills etc. The outside notch allows you to push out the cards easily, making it a smart wallet for men. INTEGRATED expansion board and Airtag holder – The expansion board allows you to secure several bills to the outside of your men's wallet in a traditional money clip form. The metal plate is designed for enhanced security and aesthetic. See our other listing for options. SPECIFICATIONS – RFID-blocking materials - forged carbon wallet and aluminum alloy frame - Interchangeable elastic Strip. This slim wallet is perfect for those looking for a card holder wallet or metal wallet that combines functionality and style
-  Updated: 2025-10-05T01:44:30Z
+  Updated: 2025-10-24T14:24:37Z
   Vendor: TOYFID Wallet
   Product Type: RFID card holder with airtag
   Availability: Available
@@ -2195,7 +2195,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/5_8f64c925-1a11-4da7-9cd2-1cce00ffc121.jpg?v=1759532326
     Price: £70.67 GBP
 - [Android smart watch text and call women bluetooth iphone compatible 1.45" Smartwatch for Men Women (Answer/Make Call)](https://trendytradesforyou.myshopify.com/products/android-smart-watch-text-and-call-women-bluetooth-iphone-compatible-145-smartwatch-for-men-women-answermake-call): The Sport Smart Watch T35 is a must - have for fitness enthusiasts. With a 1.45" LTPS display, it offers clear visuals. It supports Bluetooth calling and quick message replies, keeping you connected. Plus, it features over 100 multi - sport modes, a health monitor for heart rate and SpO₂, and has a super battery capacity, making it perfect for both sports activities and daily use.
-  Updated: 2025-10-04T23:28:50Z
+  Updated: 2025-10-24T14:24:37Z
   Vendor: WAUTTON
   Product Type: smart watch
   Availability: Available
@@ -2213,7 +2213,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/1_acdba803-f5f4-4051-8b63-d68f81a53b86.png?v=1759532336
     Price: £29.75 GBP
 - [AirLock - Smart Anti-Loss TSA Travel Lock](https://trendytradesforyou.myshopify.com/products/airlock-smart-anti-loss-tsa-travel-lock)
-  Updated: 2025-10-05T01:44:30Z
+  Updated: 2025-10-24T14:24:38Z
   Vendor: OneAdaptr
   Product Type: n/a
   Availability: Available
@@ -2227,7 +2227,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/Slide2_fca7c9b4-4026-4d5a-9572-56211cecb0ee.png?v=1759532336
     Price: £22.32 GBP
 - [TOYFID Aluminum Alloy Wallet With Genuine Leather Cover Men's Billfolds](https://trendytradesforyou.myshopify.com/products/toyfid-aluminum-alloy-wallet-with-genuine-leather-cover-mens-billfolds): 【QUICK ACCESS CARDS】Different from traditional wallets, our pop-up wallet for men has a metal card case inside. You no longer need to open your wallet to search for a credit card every time—just put your usual cards into the aluminum card holder and pop them out with a simple button click, using just one hand. 【RFID BLOCKING PROTECTION】This RFID wallet for men can effectively block unwanted RFID scanners, protecting your credit cards, debit cards, and ID cards from electronic pickpocketing by blocking 13.56MHz frequencies. 【COMPACT & FUNCTIONAL】Designed to be sleek and practical, this small wallet for men can comfortably hold up to 12 cards and features 4 cash pockets, keeping your essentials organized in a compact size of 4.0 x 2.8 x 0.7 inches. 【BUILT TO LAST】This card holder wallet for men is crafted from high-quality materials, making it an impressive addition to your wardrobe. Top-grade genuine leather and aluminum provide excellent durability, effectively protecting your credit cards from scratches and falls. 【PERFECT GIFT】This pop-up wallet for men comes in a luxurious box, making it an excellent gift for any man—whether husband, boyfriend, father, son, or friend. It’s sure to make your loved one feel special and serve as a memorable gift that lasts, reminding them of you each time they use it.
-  Updated: 2025-10-04T23:28:50Z
+  Updated: 2025-10-24T14:24:39Z
   Vendor: TOYFID Wallet
   Product Type: Card Wallet With Genuine Leather Holder
   Availability: Available
@@ -2245,7 +2245,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/1_f2b0c89c-d4b5-4ff0-bc9c-5ae028695935.jpg?v=1759532326
     Price: £66.21 GBP
 - [Smart Watch for Men 3ATM Waterproof Smartwatch 1.96 inch screen for Android and iOS Phones Fitness Tracker Watch with 100+ Sports Modes](https://trendytradesforyou.myshopify.com/products/smart-watch-for-men-3atm-waterproof-smartwatch-196-inch-screen-for-android-and-ios-phones-fitness-tracker-watch-with-100-sports-modes): The GTS9 Smart Watch boasts a rugged design and a 1.96" colorful screen. It offers ultra-long battery life, 100+ sport modes, 3ATM waterproofing, health monitoring, and smart assistant features.
-  Updated: 2025-10-04T23:28:50Z
+  Updated: 2025-10-24T14:24:40Z
   Vendor: WAUTTON
   Product Type: smart watch
   Availability: Available
@@ -2275,21 +2275,21 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/1_33fe52ef-980d-45d7-8ffe-dfe2afa5840c.png?v=1759532328
     Price: £37.19 GBP
 - [ECG monitor Smart Watch Non Invasive Blood Glucose Smart Watch with Blood Component Analysis](https://trendytradesforyou.myshopify.com/products/ecg-monitor-smart-watch-non-invasive-blood-glucose-smart-watch-with-blood-component-analysis): This is an ECG smart health watch. It has a 1.41 - inch high - definition large screen and can perform functions like ECG monitoring, blood component analysis, body composition analysis, scientific sleep tracking, and non - invasive blood sugar measurement.
-  Updated: 2025-10-04T23:28:50Z
+  Updated: 2025-10-24T14:24:40Z
   Vendor: Wautton Outdoor Gear
   Product Type: smart watch
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/ECGmonitorSmartWatch_2.png?v=1759532326
   Price: £52.06 GBP
 - [Blood Sugar Glucose Monitor Smart Watch for Diabetics SOS Emergency Alarm Call](https://trendytradesforyou.myshopify.com/products/blood-sugar-glucose-monitor-smart-watch-for-diabetics-sos-emergency-alarm-call): This smart blood glucose watch is multifunctional. It can monitor blood glucose, along with other health indicators like ECG, heart rate, body temperature, and blood oxygen, helping users keep track of their health status conveniently.
-  Updated: 2025-10-04T23:28:50Z
+  Updated: 2025-10-24T14:24:42Z
   Vendor: Wautton Outdoor Gear
   Product Type: smart watch
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/BloodSugarGlucoseMonitorSmartWatchforDiabetics_1.png?v=1759532326
   Price: £37.19 GBP
 - [TOYFID All-Aluminum Pop Up Slide Rfid Slim Basic Card personalized wallet for men](https://trendytradesforyou.myshopify.com/products/toyfid-all-aluminum-pop-up-slide-rfid-slim-basic-card-personalized-wallet-for-men): Slim Metal Wallet : Wallet made of aluminum metal effectively protects your credit card from scratches and falling off. Slim and not bulky, making it easy to carry,it provides great convenience for your travel or shopping Quick Access Card : Different from traditional wallets, our wallet is a metal card holder,you don't need to open your wallet to look for a credit card every time,just put usual card into the aluminum card case,pop out your cards at the click of a button by one hand,save payment time at the checkout RFID Blocking Protection : The wallet can perfectly block unwanted RFID scanners, effectively blocks 13.56mhz frequencies. Protect your credit cards, debit cards, ID cards from electronic pick pocketing Compact and Functional : Designed to be sleek and practical, this minimalist wallet for men can comfortably hold up to 5 cards. Perfect Gift : This pop up wallet for men comes in a luxury box, making it an excellent gift for any man, husband, boyfriend, father, son, or friend, and is sure to make your honey feel special
-  Updated: 2025-10-04T23:28:50Z
+  Updated: 2025-10-24T14:24:43Z
   Vendor: TOYFID Wallet
   Product Type: All Aluminum Basic Wallet
   Availability: Available
@@ -2311,14 +2311,14 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/5_ffcd63b0-c13a-4e46-90a8-189cb9df9090.jpg?v=1759532334
     Price: £23.99 GBP
 - [Best ECG Smart Watch of 2025 With Blood Pressure Monitor+Blood Glucose Monitoring](https://trendytradesforyou.myshopify.com/products/best-ecg-smart-watch-of-2025-with-blood-pressure-monitorblood-glucose-monitoring): This smart blood glucose watch is multifunctional. It can monitor blood glucose, along with other health indicators like ECG, heart rate, body temperature, and blood oxygen, helping users keep track of their health status conveniently.
-  Updated: 2025-10-04T23:28:51Z
+  Updated: 2025-10-24T14:24:44Z
   Vendor: Wautton Outdoor Gear
   Product Type: smart watch
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/1_e06b21ed-6f2c-4635-a766-e8727daed551.png?v=1759532326
   Price: £52.06 GBP
 - [Best Android/Iphone Smart Watch for Seniors 2025 Smart Watch Blood Pressure 2" HD Touchscreen, Bluetooth Calling Fitness Tracker, Health Monitor Heart Rate/Sleep Tracking](https://trendytradesforyou.myshopify.com/products/best-androidiphone-smart-watch-for-seniors-2025-smart-watch-blood-pressure-2-hd-touchscreen-bluetooth-calling-fitness-tracker-health-monitor-heart-ratesleep-tracking): The GTS5 smartwatch has a 2.0 - inch HD full screen for clear visuals. It offers all - round health monitoring, including heart rate and blood oxygen, and over 100 sports modes. With 10 - day battery life and smart assistant features, it's perfect for a healthy, active lifestyle.
-  Updated: 2025-10-04T23:28:51Z
+  Updated: 2025-10-24T14:24:44Z
   Vendor: WAUTTON
   Product Type: smart watch
   Availability: Available
@@ -2340,14 +2340,14 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/GTS5_-01_f2a4e31c-1ec8-419c-8ef0-965c1af50e8a.jpg?v=1759532342
     Price: £33.47 GBP
 - [Healthy Blood Oxygen Smart Watch Men ECG+PPG Precise Body Temperature Heart Rate Monitor Smartwatch HRV Blood Pressure Watches](https://trendytradesforyou.myshopify.com/products/healthy-blood-oxygen-smart-watch-men-ecgppg-precise-body-temperature-heart-rate-monitor-smartwatch-hrv-blood-pressure-watches): This smart watch features perfect integration and excellent design that interprets aesthetics. Its metal case undergoes multiple CNC processes, with a brushed side and a bezel with high - gloss vacuum plating. The mineral glass mirror is highly transparent, wear - resistant, scratch - resistant, and the display details are clear and vivid.
-  Updated: 2025-10-04T23:28:51Z
+  Updated: 2025-10-24T14:24:45Z
   Vendor: WAUTTON
   Product Type: smart watch
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/ECG_PPGPreciseBodyTemperatureHeartRateMonitorSmartwatch_6_670f849b-4de0-4f3f-a144-6ea4e70106d7.jpg?v=1759532325
   Price: £55.78 GBP
 - [Hikvision Security Camera System](https://trendytradesforyou.myshopify.com/products/hikvision-security-camera-system): SPECIFICATIONSis_customized: NoVideo Compression Format: H.264Video Compression Format: H.265Type: 8MP CCTV CameraSystem Compatibility: ONVIF, PSIA, CGI, ISAPSupported Operating Systems: Mac OSSupported Operating Systems: Windows 98Supported Operating Systems: Windows 7Supported Operating Systems: Windows XPSupported Operating Systems: Windows 8Supported Operating Systems: Windows VistaSupported Mobile Systems: iPhone OSSupported Mobile Systems: AndroidSupported Mobile Systems: Windows MobileSupport: POEStyle: Bullet CameraSpecial Features: Vandal-proofSmart home platform: AliyunSmart home platform: Google AssistantSmart home platform: Apple HomeKitSignal System: PAL/NTSCSensor: CMOSPower Supply(V): 12 VDC PoE (802.3af Class3)Power Supply: With POEPower Consumption(W): 12 VDC, 0.5 A, max. 6 WOrigin: Mainland ChinaModel Number: DS-2CD2083G0-IModel: DS-2CD2083G0-IMinimum Illumination(Lux): Color: 0.01 lux @(F1.2, AGC ON), 0 lux with IRMegapixels: 8MPLens (mm): 2.8mmLens (mm): 8mmLens (mm): 4mmLens (mm): 12mmLens (mm): 6mmInstallation: CeilingIR Distance(m): Up to 30mHigh Definition: 8.0 MegapixelsFunction: POE IP cameraDimensions (L x W x D)(mm): 216 x 121 x 118 mmConnectivity: IP/Network WiredColor: WhiteCertification: CECertification: FCCBrand Name: HIKVISIONAlarm Action: Email PhotoAlarm Action: Local Alarm
-  Updated: 2025-10-05T01:44:30Z
+  Updated: 2025-10-24T14:24:46Z
   Vendor: Trendytrades 
   Product Type: All Products
   Availability: Available
@@ -2389,7 +2389,7 @@
     Availability: Available
     Price: £2,710.19 GBP
 - [TOYFID All-Aluminum Pop Up Slide Rfid Slim Card Holder Wallet With Airtag Holder](https://trendytradesforyou.myshopify.com/products/toyfid-all-aluminum-pop-up-slide-rfid-slim-card-holder-wallet-with-airtag-holder): 【TOYFID Brand Wallet】TOYFID wallet design philosophy is to hold a large number of cards in a small size. These slim wallets are crafted from top quality aluminum, exquisite, modern, slim and not bulky,easy to carry,and provide great convenience for your travel or shopping, effectively protect your credit cards from scratching and falling off. 【Quick Access Cards】Different from traditional wallets, our pop up wallet is a metal card case with expandable backplate, you don't need to open your wallet to look for a credit card every time,just put usual card into the aluminum card holder, press the button by one hand to pop out your cards,save payment time at the checkout. 【Secure Detachable Holder for AirTag】The card holder wallet has a external holder designed for AirTag,after putting your tracker into the external holder, you can spot your wallet easily (Note: There is no tracker in the package). The holder for AirTag is detachable if you do not want to use tracker. 【RFID Blocking Protection】The wallet can perfectly block unwanted RFID scanners, effectively blocks 13.56mhz frequencies (debit/credit cards).Protect your credit cards, debit cards, ID cards from electronic pick pocketing. 【Compact and Large Capacity】Designed to be sleek and practical, this minimalist wallet for men can comfortably hold up to 12+ cards, keep your cards and cash organized in a compact size of 3.9*2.5*0.5 inches. 【Perfect Gift】This minimalist wallet for men comes in a luxury box, making it an excellent gift for any man, husband, boyfriend, father, son, or friend, and is sure to make your honey feel special.
-  Updated: 2025-10-04T23:28:51Z
+  Updated: 2025-10-24T14:24:47Z
   Vendor: TOYFID Wallet
   Product Type: RFID card holder with airtag
   Availability: Available
@@ -2415,7 +2415,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/3_abdd007d-cc7f-42b2-8959-b6153ea2a111.jpg?v=1759532331
     Price: £48.35 GBP
 - [TOYFID Wallet With PU Leather Cover,Aluminum Alloy Pop Up Wallet Holder Card](https://trendytradesforyou.myshopify.com/products/toyfid-wallet-with-pu-leather-coveraluminum-alloy-pop-up-wallet-holder-card): 【QUICK ACCESS CARDS】Different from traditional wallets, our pop-up wallet for men has a metal card case inside. You no longer need to open your wallet to search for a credit card every time—just put your usual cards into the aluminum card holder and pop them out with a simple button click, using just one hand. 【RFID BLOCKING PROTECTION】This RFID wallet for men can effectively block unwanted RFID scanners, protecting your credit cards, debit cards, and ID cards from electronic pickpocketing by blocking 13.56MHz frequencies. 【COMPACT & FUNCTIONAL】Designed to be sleek and practical, this small wallet for men can comfortably hold up to 7 cards and features 2 cash pockets, keeping your essentials organized in a compact size of 4.0 x 2.8 x 0.7 inches. 【BUILT TO LAST】This card holder wallet for men is crafted from high-quality materials, making it an impressive addition to your wardrobe. Top-grade genuine leather and aluminum provide excellent durability, effectively protecting your credit cards from scratches and falls. 【PERFECT GIFT】This pop-up wallet for men comes in a luxurious box, making it an excellent gift for any man—whether husband, boyfriend, father, son, or friend. It’s sure to make your loved one feel special and serve as a memorable gift that lasts, reminding them of you each time they use it.
-  Updated: 2025-10-04T23:28:51Z
+  Updated: 2025-10-24T14:24:47Z
   Vendor: TOYFID Wallet
   Product Type: Card Wallet With PU Leather Holder
   Availability: Available
@@ -2437,7 +2437,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/8_4f6b4987-8915-48ea-8d8e-49fbbfcc0951.jpg?v=1759532325
     Price: £43.89 GBP
 - [RFID Blocking Wallet Minimalist Slim Card Holder for Magsafe with Adjustable Stand, Metal Pop Up Magnetic Wallet  for Men TOYFID](https://trendytradesforyou.myshopify.com/products/rfid-blocking-wallet-minimalist-slim-card-holder-for-magsafe-with-adjustable-stand-metal-pop-up-magnetic-wallet-for-men-toyfid): Ultra Thin Metal Card Wallet With Stronger Magnetic : thickness of only 0.31inch, ultra thin and lightweight,can be strongly attached to the back of the phone, and made of aluminum,sturdy and durable. Compatibility : The magnetic card holder with adjustable stand is compatile with iPhone 12 series above and official magnetic cases; Not compatible with iPhone 13 mini,12 mini. Not compatible with no magnetic cases and other mobile phone. Prevent Theft, Leak Prevention : The card holder exit right side adopts a unique design,please push the metal switch to the top to lock cards to prevent your cards from falling out. No matter how you hold your phone, the cards will stay in the metal case safely. Quick Access Cards : The minimalist card wallet can easily store up to 4 cards, our card case wallet adsorbed on your phone back,you don't need to open your wallet to look for a credit card every time,just put commonly used cards into the aluminum card wallet,pop out your cards at the click of a button by one hand,save payment time at the checkout. RFID Blocking Protection: The card holder can effectively block the 13.56mhz frequency. Protect your credit cards, debit cards, and ID cards from electronic pickpocketing. Note : 1.When you need to access your cards, you only need one hand to eject the cards from the card holder, which makes it easier to remove the cards.
-  Updated: 2025-10-04T23:28:51Z
+  Updated: 2025-10-24T14:24:48Z
   Vendor: TOYFID Wallet
   Product Type: All Aluminum Basic Wallet
   Availability: Available
@@ -2463,21 +2463,21 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/Dark_green_wallet.jpg?v=1759532344
     Price: £27.34 GBP
 - [AIR Duo Rose Gold (Over Ear Wireless Headphones)](https://trendytradesforyou.myshopify.com/products/air-duo-rose-gold-over-ear-wireless-headphones): Friendie AIR Duo. When work and play collide, the perfect Duo is created. Your AIR Duo are the ultimate multipurpose wireless over-ear headphones. These headphones excel and add a touch of luxe to your look. They feature a detachable microphone for calls, deep bass for music or gaming and a large battery life. When it’s play time, take your Friendie AIR Duos and go for a walk, a low-intensity workout at the gym or go home and game all night with the ultimate E-Sport gaming headphones. Work and Play. The perfect Duo. Shipping: Fast and Free shipping. Features: 54 Hours of Music playback (at 50% volume) Designed for optimal E-Sports performance Designed for working from home. Certified RoHS compliant and contains no harmful or hazardous content Multimedia controller (play, pause, previous, next, volume controls) Passive Noise Cancelling via high density foam. 30mm vibration mode for gaming or super deep bass boost for music 3.5mm audio input cord to save battery life and transform your wireless headphones to wired headphones Gamer LED lights switch on ear cups Phone controller (answer, end, volume) Detachable long-pole microphone for phone calls, video calls or gaming Folding design with metal folding hinges Pillow comfort earpads and headband Efficient battery technology. Extendable headband to suit different head sizes Ergonomic button layout Protective case, instruction manual, charge cable and audio cable included Friendie. Making headphones friendly. The perfect duet. Your friendie AIR Duo headphones are the perfect pair-in-one. In a world that’s a little bit complicated, your Duos can simplify your life. Everyone needs a multitasker. Style. Elevated. True fashion will never go out of style. These headphones are made to elevate your next video call or complement your office attire. At home? No problem. Looking good makes you feel good, and the right headphones can uplift your life. Available in Rose Gold and Pink or Black, and featuring optional lights and microphone, you choose your next look. Sound. Optimised. Your AIR Duo has sound covered. Choose your level by selecting between two key equaliser modes, where sound is optimised either for chart music or a bass boost. Talk. Clarity. Featuring two microphones, with one optional, detachable flexible microphone and one mic inbuilt into your headphones, be confident that you can be heard, and hear with clarity. The AIR Duo features a flexible detachable long-pole microphone that is coated in rubber to ensure it’s comfortable and achieves crystal-clear voice calls. Game. Play. If E-Sport, gaming and fun is your thing, your Duos offer an optional vibration mode to feel the raw energy of your gaming experience. True to the gamer experience, the Friendie AIR DUO also adds some colour to your life; choose lights up on your headphones and enjoy optional LED lights on your earcups while you play High-end technology. Behind the scenes, the AIR Duo is laced with high-end technology. Featuring backward-compatible Bluetooth, two microphones, and 1000 mAh LiPo battery providing up to 300 hours of standby and 54 hours of continuous music playback, we have you covered. When your battery does go flat, the AIR Duo features fast charge technology and a backup wired audio cable. This restores the battery fully via an international industry standard micro USB 2.0 cable available worldwide. Environmentally Friendly Friendie AIR Duo are RoHS compliant. Although this is not a requirement of Australian law, having ROHS compliancy is just one way we are committed to reducing harm to the environment. Friendie. Making headphones friendly. [tab] Specifications Battery: Size: 1000mAh LiPo Charge time: 4 hours Music playback: Up to 54 hours Talk time: Up to 54 hours Standby time: Up to 300 hours Charge cable Micro USB 2.0 Weight of headphones: 250 grams Audio: Sensitivity: 108dB +-3dB Impedance: 32 Ω Driver: 40mm NdFeB Super Bass Vibration driver: 30mm vibration unit Vibration Impedance: 16 Ω Equalizer: Two modes; Chart Music and Bass Boost Microphone: Location: Two mics: Inbuilt and detachable arm Sensitivity: 42dB +-3dB Connections: Wireless: Standard: BT 4.1 Frequency range: 2.4Ghz – 2.8Ghz Distance range: Up to 10 meters (30 feet) Protocol: A2DP/AVRCP/SMP/HFP Wired: Backup cable: 3.5mm AUX audio cable 1.5m Wireless features: Multi-function controller: Play/pause/next track/previous track/volume up/volume down Media playback: Answer and receive calls Voice and digital Phone connection: Notifications Package Contents: Product: Friendie Air Duo over ear headphones User manual: English 3.5mm AUX audio cable: Included Detachable microphone: Included Protective case: Included Colours: Matte Black or Pink/Rose Gold [/tab] [summary] 54 hours of music playback Comfort fit for all day wear Clear phone calls Long haul flight playtime with 500 hours standby battery Multimedia controllers Fitness usage = Light (yoga, pilates, weights, stationary bike). Optimised for E-Sports. [/summary]
-  Updated: 2025-10-04T23:28:51Z
+  Updated: 2025-10-24T14:24:49Z
   Vendor: Friendie Audio Pty Ltd
   Product Type: Over Ear Headphones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/AIR_DUO_Rose_1.jpg?v=1759532326
   Price: £61.33 GBP
 - [HP Series 5 524sh Monitor (Replaces M24h) 24" FHD IPS 300 Nits Display w/Docztorm USB Port Expander 1x HDMI 1x VGA Flicker-Free -5 to +25 Degrees Adjustable Tilt Black/Silver (2024 Latest Model)](https://trendytradesforyou.myshopify.com/products/hp-series-5-524sh-monitor-replaces-m24h-24-fhd-ips-300-nits-display-w-docztorm-usb-port-expander-1x-hdmi-1x-vga-flicker-free-5-to-25-degrees-adjustable-tilt-black-silver-2024-latest-model): HP Series 5 524sh Monitor 94C19AA#ABA Bundle with Docztorm Dock IPS Technology View every angle of every visual with IPS Technology amazing depth and clarity through the stunning 1500:1 contrast ratio and ultra-wide viewing angles. 100Hz Refresh Rate With a 100 Hz refresh rate this monitor is capable of clearer details smoothly moving from frame to frame allowing for faster split-second reaction time. Specifications Table Display size: (24") Aspect ratio: 16:9 Response time: 5ms GtG (with overdrive) Contrast ratio: 1500:1 Pixel Pitch: 0.28x0.28mm Pixel Per Inch: 93 Color Support: 16.7M Product color: Black Webcam: No Height Adjustment: 100 mm Bezel: 3-sided micro-edge Resolution (maximum): FHD IPS (1920x1080 @ 100Hz) Resolutions supported: 640 x 480; 720 x 400; 800 x 600; 1024 x 768; 1280 x 720; 1280 x 800; 1280 x 1024; 1440 x 900; 1600 x 900; 1680 x 1050; 1920 x 1080 Backlight type: Edge-lit Vertical and Horizontal viewing angle: 178 degree Display features: On-screen controls; Anti-glare; Height adjustable; HP Eye Ease Onscreen controls: Management; Information; Exit; Input; Color; Image; Power; Menu; Brightness+ Port and Connectors: 1x HDMI 1.4 1x VGA HDCP: Yes Management software: HP Display Center Whats in the box: Monitor; HDMI cable; Power adapter; AC power cord; Document kit Dimensions (WxDxH): 21.09 x 7.96 x 18.1 in Weight: 7.61 lb Docztorm: Includes Docztorm USB HUB (Special Edition Portable Docztorm Data Hub; Super Speedy Data Sync Rate upto 5Gbps)
-  Updated: 2025-10-10T05:10:02Z
+  Updated: 2025-10-24T14:24:49Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/Sq0DqEdrsGbUXLca.webp?v=1760029793
   Price: £484.92 GBP
 - [Modern LED Color-Changing Corridor Wall Light Fixture](https://trendytradesforyou.myshopify.com/products/modern-led-color-changing-corridor-wall-light-fixture): Transform your space with our innovative LED Color Changing Wall Light, perfect for enhancing hallways, foyers, and corridors. This modern and minimalist design not only serves as a functional lighting solution but also adds an artistic touch to your home decor. Choose between concealed and exposed installation based on your ceiling setup. The concealed installation has a diameter of 100mm and a height of 55mm, while the surface-mounted version measures 80mm in diameter and 85mm in height. With easy installation standards for openings of 5-9 cm, upgrading your lighting has never been simpler! Experience the magic of our colorful slow change feature, where the light automatically cycles through seven vibrant colors: red, green, blue, yellow, purple, cyan, and white. With just a simple switch, you can control the color changes, alternating between a calming slow transition and a fixed single color of your choice. Enjoy the convenience of the smart remote control, allowing you to switch between colors effortlessly or set a preferred color for any occasion. Whether you’re looking to create a lively atmosphere for a gathering or a serene ambiance for relaxation, this versatile lighting fixture is the perfect solution. Suitable for various applications, including aisles, porches, balconies, and restaurants, the LED Color Changing Wall Light is designed to fit seamlessly in any environment. Made with high-quality American Bridgelux LED chips, you can trust that you are receiving a durable and energy-efficient product. Elevate your home’s aesthetic with this stunning lighting fixture that combines creativity with practicality. Explore our range of colors and sizes, and find the perfect match for your home decor!
-  Updated: 2025-10-12T01:00:20Z
+  Updated: 2025-10-24T14:24:51Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -2539,7 +2539,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/R9Svbr6ABDsE4Pwb.webp?v=1760187795
     Price: £37.19 GBP
 - [Christmas Non-Woven Fabric Chair Covers with Snowman Design](https://trendytradesforyou.myshopify.com/products/christmas-non-woven-fabric-chair-covers-with-snowman-design): Transform your holiday decor with our festive Christmas Chair Covers! Perfect for adding a touch of whimsy to your home, these non-woven fabric covers feature an adorable snowman design that's sure to delight your guests. Crafted with care, each cover is expertly sewn and comes in a vibrant red color, making it the ideal accessory for your Christmas gatherings. Measuring 60*49cm, these covers fit snugly over your chairs, instantly elevating your holiday setup. Whether you're hosting a big family dinner or a cozy get-together, these charming chair covers will create a warm, inviting atmosphere. Plus, they come packed in convenient OPP bags for easy storage. Choose from single covers or opt for our 10-piece set to deck out your entire dining area! Add a playful touch to your festive celebrations with our delightful Christmas chair covers.
-  Updated: 2025-10-12T01:06:22Z
+  Updated: 2025-10-24T14:24:51Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -2553,14 +2553,14 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/q9L7x4r9roiPrpOt.webp?v=1760188055
     Price: £42.62 GBP
 - [Valentino Uomo Eau De Toilette Spray for Men 1.7 Ounce](https://trendytradesforyou.myshopify.com/products/valentino-uomo-eau-de-toilette-spray-for-men-1-7-ounce): This soft yet masculine scent highlights vibrant myrtle atop lurking bergamot to create a woody fragrance. The intensity of coffee the richness of leather and a subtle vanilla note harmonize around a suave center note providing the scent with its dark velvety depths. The tactile presence of the bottle is paired with a clear carafe shape unveiling the fragrances amber hue suggestion a rare liquor held within.
-  Updated: 2025-10-12T13:25:52Z
+  Updated: 2025-10-24T14:24:52Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/uyLhW86a88XlRfNf.webp?v=1760232348
   Price: £145.75 GBP
 - [Kitchen Sink Strainer Rack](https://trendytradesforyou.myshopify.com/products/kitchen-sink-strainer-rack): Transform Your Kitchen Experience with Our Versatile Sink Strainer Rack!Say goodbye to clogged drains and messy kitchens with our 1pc Kitchen Sink Strainer Rack for Food Waste and Leftovers. This innovative sink corner drain strainer basket is designed to efficiently collect kitchen leftovers, garbage, and food waste, keeping your kitchen clean and tidy.Crafted with high-quality materials, our strainer rack is not only functional but also stylish. It fits seamlessly into the corner of your sink, maximizing space while providing an easy-to-use solution for waste management. Choose from a variety of colors to match your kitchen decor: 50 Filters Green Golden Platinum The lightweight design ensures that it won't weigh down your sink, while the durable construction guarantees long-lasting use. Cleaning up has never been easier!Features: Efficient Waste Collection: Designed to trap food particles and waste, preventing clogging. Space-Saving Design: Fits perfectly in the corner of your sink, optimizing your kitchen space. Multiple Color Options: Choose a color that complements your kitchen style. Upgrade your kitchen functionality and aesthetics with our Kitchen Sink Strainer Rack. Order now and enjoy a cleaner, more organized kitchen!
-  Updated: 2025-10-12T13:28:21Z
+  Updated: 2025-10-24T14:24:52Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -2578,7 +2578,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/Su2GhPWUO7TSrxbI.webp?v=1760232525
     Price: £10.27 GBP
 - [Portable CD Player and Bluetooth Speaker for Learning](https://trendytradesforyou.myshopify.com/products/portable-cd-player-and-bluetooth-speaker-for-learning): Experience the ultimate in sound quality with our Home CD Player designed for early education! This portable device is not just a CD player; it’s a multi-functional tool that combines a Bluetooth speaker, MP3 player, and radio, making it perfect for learning and entertainment. Dual-core sound technology delivers astonishing audio quality, refined through countless adjustments by our engineers. Whether it's vocals or musical instruments, you'll enjoy an immersive HIFI sound that ensures long listening sessions without fatigue. Tailored specifically for children's English learning, this device comes with an educational reading material CD. The A-B repeat function allows kids to practice foreign language vocabulary effortlessly, making it easier for them to grasp new words and phrases. Choose from a variety of vibrant colors to suit your style: Cool Black Pearl White Sky Blue Rose Pink Compact in size, measuring 18.9 x 18.9 x 3.9 cm and weighing only 0.85 kg, this device is perfect for any room or on-the-go learning. Elevate your child's learning experience with our innovative Home CD Player, where fun meets education!
-  Updated: 2025-10-20T17:02:12Z
+  Updated: 2025-10-24T14:24:53Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -2600,7 +2600,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/Rm6Z9FzqvrXNTLWy.webp?v=1760979636
     Price: £96.99 GBP
 - [Cute Rabbit Wireless Headphones with RGB LED for Kids](https://trendytradesforyou.myshopify.com/products/cute-rabbit-wireless-headphones-with-rgb-led-for-kids): Experience the magic of sound with our Wireless Headphones with Mic, perfect for young music lovers! These adorable cute rabbit-themed headphones come with vibrant RGB LED lights, making them not just a listening device but also a stylish accessory. Designed specifically for kids, they are ideal for gaming, phone calls, or simply enjoying their favorite tunes. With a generous 15-meter transmission range and Bluetooth 5.0 technology, connect effortlessly to any device, whether it's a tablet, cellphone, or computer. Their bilateral stereo sound ensures an immersive listening experience, while the foldable design makes them easy to carry and store. These headphones are not just functional but also come in a variety of playful colors including Pink, White Pink, White, Blue, Purple, and Green, allowing kids to choose their favorite style. The rechargeable battery lasts for more than 8 hours, ensuring long-lasting fun without interruption. Made from durable plastic, they are designed to withstand the wear and tear of daily use. Although they are not waterproof, their creative design and lightweight build (only 0.65 kg) make them a comfortable fit for any child's head. Whether for a birthday gift, a surprise for your girlfriend, or just a treat for your little one, these headphones are sure to bring a smile to their face. Get ready to light up their world with sound and style!
-  Updated: 2025-10-12T13:33:24Z
+  Updated: 2025-10-24T14:24:53Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -2630,7 +2630,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/jOGhANT2O5lGbvGa.webp?v=1760232823
     Price: £41.54 GBP
 - [Pink Barbie Mirror Silicone Case for iPhone 14 Pro Max](https://trendytradesforyou.myshopify.com/products/pink-barbie-mirror-silicone-case-for-iphone-14-pro-max): Elevate your style with our stunning Rose Red Barbie Mirror Silicone Case designed specifically for a range of Apple devices. This chic case is not just a protective accessory; it's a fashion statement that reflects your vibrant personality! Crafted from high-quality silicone, this case is soft to the touch and provides a secure grip, ensuring your phone stays safe from drops and scratches. The Japanese and Korean-inspired style adds a unique flair, making it the perfect choice for those who love to stand out. Featuring a mirror finish, the case not only protects your phone but also allows you to check your look on-the-go. Whether you’re at a coffee shop or on a night out, you’ll always be picture-perfect. Available for various models including iPhone 7, 8, X, XS, 11, 12, and 13 series, this case caters to a wide range of preferences. Choose from a variety of options, including a chic pendant design. Don't sacrifice style for protection—get the best of both worlds with our Rose Red Barbie Mirror Silicone Case. Make your phone as fabulous as you are!
-  Updated: 2025-10-12T13:36:02Z
+  Updated: 2025-10-24T14:24:55Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -2788,7 +2788,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/9G32hUS7kSkHli47.webp?v=1760233031
     Price: £13.78 GBP
 - [Solar-Powered Suction Cup Portable Charger (Power Bank)](https://trendytradesforyou.myshopify.com/products/solar-powered-suction-cup-portable-charger-power-bank): Introducing the Windowed Solar Power Bank, your essential companion for on-the-go charging! This innovative power bank combines the convenience of solar energy with a sleek design, making it perfect for outdoor adventures, travel, or everyday use. Crafted from durable ABS plastic with a spray rubber oil finish, this power bank is built to withstand the rigors of daily life. The unique windowed design allows for efficient solar charging, boasting a solar power output of 5-5.5V 0.6W from a high-quality single crystal solar panel. With a capacity of 5200mAh, this power bank can be recycled over 500 times, ensuring that you stay powered up without frequent replacements. It features a Class A polymer battery core for reliable performance, and both Micro USB input (5V-1A) and USB output (5V-1A) for versatile charging options. The compact size of 118 x 118 x 18mm makes it easy to carry, and it comes beautifully packaged in a color box that's perfect for gifting. Choose from a variety of vibrant colors including Black, Silver, White, Red, and Green, each in the impressive 5200mAh size. Stay charged and embrace the power of the sun with the Windowed Solar Power Bank - where functionality meets style!
-  Updated: 2025-10-12T13:37:43Z
+  Updated: 2025-10-24T14:24:56Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -2814,7 +2814,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/e8SHDPUuVbjtPtMY.webp?v=1760233110
     Price: £43.38 GBP
 - [Mini Pro4SS Invisible Bluetooth Earbuds - True Wireless | Trendytrades](https://trendytradesforyou.myshopify.com/products/mini-pro4ss-invisible-true-wireless-bluetooth-earbuds): Ultra-compact invisible Bluetooth earbuds. True wireless, premium sound, long battery life. Comfortable, discreet design. Perfect for music, calls & workouts!
-  Updated: 2025-10-20T10:48:49Z
+  Updated: 2025-10-24T14:24:56Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -2848,7 +2848,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/LFdY2qH73D7DGB1Y.webp?v=1760235820
     Price: £23.99 GBP
 - [Cotton Gauze Baby Feeding Towels - 8 Pack Newborn Essentials | Trendytrades](https://trendytradesforyou.myshopify.com/products/newborn-cotton-gauze-baby-feeding-towels-8-packs): Soft cotton gauze baby feeding towels, 8-pack. Gentle, absorbent, breathable. Perfect for feeding, burping, bathing. Essential for newborns. Machine washable!
-  Updated: 2025-10-20T10:47:08Z
+  Updated: 2025-10-24T14:24:57Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -2874,7 +2874,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/PZKaymBFYtA1uurC.webp?v=1760272532
     Price: £10.99 GBP
 - [Baby Carrier with Hip Seat - Ergonomic Front Carry | Trendytrades](https://trendytradesforyou.myshopify.com/products/baby-carrier-with-bass-bear-hip-seat-for-front-carry): Ergonomic baby carrier with supportive hip seat. Front carry, padded straps, breathable design. Comfortable for parent & baby. Perfect for daily use!
-  Updated: 2025-10-20T10:45:53Z
+  Updated: 2025-10-24T14:24:58Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -2896,7 +2896,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/QxfShJbkUqlGll7d.webp?v=1760272488
     Price: £45.99 GBP
 - [Waterproof Long Sleeve Bib - Kids Feeding Apron | Trendytrades](https://trendytradesforyou.myshopify.com/products/waterproof-cotton-bib-for-kids-long-sleeve-feeding-apron): Waterproof cotton bib with long sleeves for kids. Full coverage protection, easy to clean. Perfect for messy meals, feeding & arts. Keep clothes clean!
-  Updated: 2025-10-20T10:44:54Z
+  Updated: 2025-10-24T14:25:00Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -3058,7 +3058,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/CRwqDeu5HnFJosOz.webp?v=1760272885
     Price: £12.99 GBP
 - [Baby Drinking Cup - Cute Graduated Milk Cup with Handles | Trendytrades](https://trendytradesforyou.myshopify.com/products/cute-graduated-milk-baby-drinking-cup): Adorable graduated baby drinking cup with measurement markings. Easy-grip handles, spill-resistant, BPA-free. Perfect for transitioning from bottle to cup!
-  Updated: 2025-10-20T10:42:30Z
+  Updated: 2025-10-24T14:25:01Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -3088,7 +3088,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/qRTWMhpkNIo2Yptn.webp?v=1760272610
     Price: £13.82 GBP
 - [Silent Electric Breast Pump - All-in-One with Manual Option | Trendytrades](https://trendytradesforyou.myshopify.com/products/silent-electric-all-in-one-breast-pump-and-manual-milker): Silent electric breast pump with manual mode. Adjustable suction, rechargeable, easy to clean. Comfortable, discreet pumping at home or work. Perfect for breastfeeding mums!
-  Updated: 2025-10-20T10:40:07Z
+  Updated: 2025-10-24T14:25:01Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -3102,7 +3102,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/D6PLUDjyRPuHspHO.webp?v=1760272664
     Price: £64.99 GBP
 - [Newborn Gift Box - Summer Dress & Baby Supplies Set | Trendytrades](https://trendytradesforyou.myshopify.com/products/newborn-gift-box-with-summer-dress-and-baby-supplies): Complete newborn gift box with summer dress & essential baby supplies. Beautifully presented, practical items. Perfect baby shower or welcome gift!
-  Updated: 2025-10-20T10:39:37Z
+  Updated: 2025-10-24T14:25:03Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -3240,7 +3240,7 @@
     Availability: Available
     Price: £110.62 GBP
 - [Portable USB Baby Bottle Warmer - Travel Heating Jacket | Trendytrades](https://trendytradesforyou.myshopify.com/products/portable-usb-baby-bottle-warmer-heating-jacket): USB-powered portable baby bottle warmer. Perfect for travel, car & home. Quick heating, fits most bottles. Warm feeds anywhere. Essential for parents on-the-go!
-  Updated: 2025-10-20T10:35:15Z
+  Updated: 2025-10-24T14:25:03Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -3266,7 +3266,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/3tZtR01LS0UgsJbR.webp?v=1760272782
     Price: £11.99 GBP
 - [Bionic Baby Bed - Uterine Design for Newborn Comfort & Sleep | Trendytrades](https://trendytradesforyou.myshopify.com/products/bionic-baby-bed-with-uterine-design): Innovative bionic baby bed with uterine design. Mimics womb comfort, improves sleep, reduces crying. Portable, breathable, safe. Perfect for newborns!
-  Updated: 2025-10-20T10:34:05Z
+  Updated: 2025-10-24T14:25:04Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -3307,7 +3307,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/JnGYM3fl9v1Nz8fn.webp?v=1760273062
     Price: £63.99 GBP
 - [Baby Swaddle Blanket - Soft Cotton for Newborns Autumn/Winter | Trendytrades](https://trendytradesforyou.myshopify.com/products/baby-swaddle-blanket-with-cotton-for-newborns-autumn-winter): Premium cotton swaddle blanket for newborns. Perfect for autumn & winter. Soft, breathable, machine washable. Helps babies sleep peacefully. Essential for new parents!
-  Updated: 2025-10-20T10:32:41Z
+  Updated: 2025-10-24T14:25:05Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -3345,7 +3345,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/dbTAmNq7zPatm9l7.webp?v=1760273160
     Price: £34.99 GBP
 - [Baby Pedal Piano Fitness Frame - Musical Activity Gym Toy | Trendytrades](https://trendytradesforyou.myshopify.com/products/explosive-baby-pedal-piano-music-fitness-frame-toy): Interactive baby pedal piano with music, lights & fitness frame. Promotes development, coordination & sensory skills. Perfect from newborn to toddler!
-  Updated: 2025-10-20T10:29:48Z
+  Updated: 2025-10-24T14:25:05Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -3359,7 +3359,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/4bamEk5hEOq7DTx1.webp?v=1760273149
     Price: £46.99 GBP
 - [Waterproof Baby Stroller Bag - Multifunctional Mummy Organiser | Trendytrades](https://trendytradesforyou.myshopify.com/products/multifunctional-waterproof-baby-stroller-mummy-bag): Multifunctional waterproof stroller bag with insulated pockets. Multiple compartments, easy attachment. Perfect for organised parents on-the-go!
-  Updated: 2025-10-20T10:28:55Z
+  Updated: 2025-10-24T14:25:06Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -3389,7 +3389,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/kLPWkqKNjIJ1EJIV.webp?v=1760273322
     Price: £17.99 GBP
 - [Interactive Dog Feeder Toy - Slow Feeder Bowl for Healthy Eating | Trendytrades](https://trendytradesforyou.myshopify.com/products/interactive-dog-feeder-toy): Interactive slow feeder toy for dogs. Prevents bloating, provides mental stimulation. Non-slip, easy to clean. Perfect for fast eaters. Healthier mealtime!
-  Updated: 2025-10-20T10:27:42Z
+  Updated: 2025-10-24T14:25:07Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -3407,14 +3407,14 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/NhylfGMyDZDcjHif.webp?v=1760304623
     Price: £16.99 GBP
 - [Portable Digital Air Pump - Car & Motorcycle Tyre Inflator | Trendytrades](https://trendytradesforyou.myshopify.com/products/portable-digital-air-pump-for-car-motorcycle-inflation): Portable digital air pump for cars, motorcycles & bikes. Compact, fast inflation, LED light. Essential vehicle accessory for emergencies. Always be prepared!
-  Updated: 2025-10-20T10:26:53Z
+  Updated: 2025-10-24T14:25:08Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/748MAqJEwYszDn48.webp?v=1760305508
   Price: £59.99 GBP
 - [Portable Rechargeable Juicer Cup - Cordless Blender On-The-Go | Trendytrades](https://trendytradesforyou.myshopify.com/products/portable-rechargeable-household-juicer-cup): Portable rechargeable juicer cup with USB charging. Blend smoothies anywhere. BPA-free, compact design. Perfect for gym, travel & healthy living!
-  Updated: 2025-10-20T10:26:05Z
+  Updated: 2025-10-24T14:25:08Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -3452,7 +3452,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/EWciaO2iM3mtxfUB.webp?v=1760306284
     Price: £23.99 GBP
 - [Portable Electric Kettle - Smart Temperature Control Travel Kettle | Trendytrades](https://trendytradesforyou.myshopify.com/products/portable-electric-kettle): Smart portable electric kettle with rechargeable battery. 316 stainless steel, USB-C charging, multiple temperatures. Perfect for travel, car & office!
-  Updated: 2025-10-20T10:23:23Z
+  Updated: 2025-10-24T14:25:09Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -3490,7 +3490,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/jbANzHiXDJVGP7dN.webp?v=1760306421
     Price: £201.99 GBP
 - [Solar Camping Lantern Fan - 2-in-1 Rechargeable Light & Fan | Trendytrades](https://trendytradesforyou.myshopify.com/products/solar-camping-lantern-fan): Solar-powered camping lantern with built-in fan. Rechargeable, lightweight, eco-friendly. Perfect for camping, beach trips & outdoor adventures!
-  Updated: 2025-10-20T10:21:52Z
+  Updated: 2025-10-24T14:25:10Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -3504,7 +3504,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/W3QcOPAvHL5U8Nw2.webp?v=1760390448
     Price: £24.99 GBP
 - [Pet Crossbody Carrier Bag - Breathable Travel Bag for Dogs & Cats | Trendytrades](https://trendytradesforyou.myshopify.com/products/pet-crossbody-carrier-bag): Comfortable pet carrier bag with breathable design. Crossbody style, large capacity. Perfect for small to medium dogs & cats. Hands-free pet travel!
-  Updated: 2025-10-20T10:21:08Z
+  Updated: 2025-10-24T14:25:11Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -3534,7 +3534,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/pNvIWcEn1ZS87i4s.webp?v=1760390576
     Price: £21.99 GBP
 - [Retro R36S Portable Game Console - Classic Games On-The-Go | Trendytrades](https://trendytradesforyou.myshopify.com/products/retro-r36s-portable-game-console): Portable retro game console with hundreds of pre-loaded classic games. High-res screen, long battery life. Perfect for nostalgic gamers & collectors!
-  Updated: 2025-10-20T10:19:45Z
+  Updated: 2025-10-24T14:25:12Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -3548,7 +3548,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/Ri8aZvouNsyfRJtA.webp?v=1760390731
     Price: £112.99 GBP
 - [Magic Water Drawing Board - Reusable Mess-Free Kids Art | Trendytrades](https://trendytradesforyou.myshopify.com/products/magic-water-drawing-board): Mess-free magic water drawing board for kids. Reusable, educational themes, safe materials. Develops creativity & motor skills. Perfect travel toy!
-  Updated: 2025-10-20T10:16:05Z
+  Updated: 2025-10-24T14:25:13Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -3610,7 +3610,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/6cyb6gK8A0PM9iKo.webp?v=1760390992
     Price: £24.99 GBP
 - [Christmas Party Dress - Floral Print Holiday Dress 2021 | Trendytrades](https://trendytradesforyou.myshopify.com/products/2021-womens-christmas-party-dress-with-floral-print): Unique Christmas party dress with floral print. Festive yet sophisticated style. Perfect for holiday celebrations, parties & special events. Stand out this season!
-  Updated: 2025-10-20T10:12:47Z
+  Updated: 2025-10-24T14:25:14Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -3636,7 +3636,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/wY26l8LDn4iQtHvG.webp?v=1760391050
     Price: £25.88 GBP
 - [High Waist Christmas Snowflake Dress - Elegant Holiday Dress | Trendytrades](https://trendytradesforyou.myshopify.com/products/womens-high-waist-christmas-snowflake-print-dress): Elegant high waist Christmas dress with snowflake print. Flattering silhouette, comfortable fit. Perfect for festive celebrations & winter parties!
-  Updated: 2025-10-20T10:14:59Z
+  Updated: 2025-10-24T14:25:15Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -3702,7 +3702,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/k5qzZcLuHh3bzao1.webp?v=1760392047
     Price: £29.51 GBP
 - [Christmas Elk Dress - Digital Print Sleeveless Holiday Dress | Trendytrades](https://trendytradesforyou.myshopify.com/products/christmas-elk-digital-printed-sleeveless-womens-dress): Stylish sleeveless Christmas dress with digital elk print. Versatile, comfortable, flattering fit. Perfect for holiday parties. Easy to layer & style!
-  Updated: 2025-10-20T10:11:10Z
+  Updated: 2025-10-24T14:25:16Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -3768,7 +3768,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/iCojjpDcdHzhQX4X.webp?v=1760392124
     Price: £22.87 GBP
 - [Girls Christmas Dress & Headband Set - Complete Holiday Outfit | Trendytrades](https://trendytradesforyou.myshopify.com/products/christmas-dress-and-headband-set-for-girls): Complete girls Christmas dress set with matching headband. Coordinated festive outfit, comfortable fit. Perfect for holiday parties & photos. Easy styling!
-  Updated: 2025-10-20T10:10:08Z
+  Updated: 2025-10-24T14:25:16Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -3794,14 +3794,14 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/8by5glUBLZX8hbqS.webp?v=1760392069
     Price: £28.99 GBP
 - [Girls Christmas Dress - Toddler Long Sleeve Navy Deer 5T | Trendytrades](https://trendytradesforyou.myshopify.com/products/yagata-girls-christmas-dress-girls-fall-dress-cute-toddler-long-sleeve-dress-toddler-holiday-dress-navy-deer-5t): Adorable toddler Christmas dress with navy deer print. Long sleeve, comfortable, machine washable. Perfect for holiday parties & festive photos. Size 5T available!
-  Updated: 2025-10-20T10:08:27Z
+  Updated: 2025-10-24T14:25:17Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/IWK4X6QvCAiikGj5.webp?v=1760392093
   Price: £55.99 GBP
 - [Christmas Lace Dress - Mid-Length Elegant Holiday Dress | Trendytrades](https://trendytradesforyou.myshopify.com/products/christmas-lace-stitch-mid-length-dress): Elegant Christmas dress with lace & stitch details. Mid-length, romantic design. Perfect for formal holiday parties & special celebrations. Timeless festive style!
-  Updated: 2025-10-20T10:06:35Z
+  Updated: 2025-10-24T14:25:17Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -3823,7 +3823,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/WoDY4SY87hYrqTQm.webp?v=1760392178
     Price: £31.99 GBP
 - [Christmas Dress with Plush Collar - Casual Festive Wear | Trendytrades](https://trendytradesforyou.myshopify.com/products/womens-casual-dress-with-christmas-plush-collar): Cosy women's Christmas dress with soft plush collar. Casual, comfortable design. Perfect for festive celebrations & holiday gatherings. Festive charm meets comfort!
-  Updated: 2025-10-20T10:25:38Z
+  Updated: 2025-10-24T14:25:18Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -3919,7 +3919,7 @@
     Availability: Available
     Price: £27.99 GBP
 - [Long Sleeve Christmas Dress - Elegant Stitching Details | Trendytrades](https://trendytradesforyou.myshopify.com/products/womens-long-sleeve-christmas-dress-with-stitching-details): Elegant women's Christmas dress with long sleeves & stitching details. Warm, comfortable, flattering. Perfect for winter holiday celebrations & parties!
-  Updated: 2025-10-20T10:04:19Z
+  Updated: 2025-10-24T14:25:19Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -3945,7 +3945,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/XPSgYbr0XI6Rhkfo.webp?v=1760392323
     Price: £28.49 GBP
 - [Christmas Dress Short Sleeve - Festive Print Holiday Dress | Trendytrades](https://trendytradesforyou.myshopify.com/products/fashionable-short-sleeve-christmas-dress-with-print): Fashionable short sleeve Christmas dress with festive print. Comfortable, flattering fit. Perfect for holiday parties & family gatherings. Celebrate in style!
-  Updated: 2025-10-20T10:02:24Z
+  Updated: 2025-10-24T14:25:19Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -3971,7 +3971,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/QtAhbaGabFUTK5Us.webp?v=1760392327
     Price: £23.99 GBP
 - [Intelligent Electric Baby Cradle - Multi-Function Auto Rocker | Trendytrades](https://trendytradesforyou.myshopify.com/products/intelligent-electric-cradle-for-infants-with-multiple-functions): Smart electric cradle with automatic rocking, music & timer. Multiple functions for peaceful baby sleep. Safe, quiet operation. Perfect for newborns & infants!
-  Updated: 2025-10-20T10:01:03Z
+  Updated: 2025-10-24T14:25:20Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -4025,7 +4025,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/8Kra4nN73z89iJ6K.webp?v=1760565640
     Price: £417.99 GBP
 - [4-in-1 Baby Travel System - Cradle, Stroller, Car Seat 0-24 Months | Trendytrades](https://trendytradesforyou.myshopify.com/products/4-in-1-cradle-stroller-car-seat-for-0-24-months): Versatile 4-in-1 baby travel system: cradle, stroller, car seat & carrier. Birth to 24 months. Save space & money. Perfect for new parents!
-  Updated: 2025-10-20T09:57:54Z
+  Updated: 2025-10-24T14:25:21Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -4059,7 +4059,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/GOiozHOkq7E3llkH.webp?v=1760566290
     Price: £232.99 GBP
 - [Stan Lee Marvel Figurine - Avengers Collectible Figure | Trendytrades](https://trendytradesforyou.myshopify.com/products/avengers-marvel-stan-lee-figurine-collectible-figure): Honour the legend! Stan Lee Marvel collectible figurine. Official Avengers merchandise. Perfect for Marvel fans & collectors. Celebrate the creator of heroes!
-  Updated: 2025-10-21T09:13:20Z
+  Updated: 2025-10-24T14:25:22Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -4081,14 +4081,14 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/1spWdf382BMdGaMl.webp?v=1760635228
     Price: £24.99 GBP
 - [Funko Pop IT Pennywise #472 - Horror Collectible Figure | Trendytrades](https://trendytradesforyou.myshopify.com/products/funko-pop-it-pennywise-472-collectible-figure): Official IT Pennywise Funko Pop #472 collectible. Detailed horror figure, window box packaging. Perfect for Stephen King fans & horror collectors!
-  Updated: 2025-10-21T09:11:27Z
+  Updated: 2025-10-24T14:25:22Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/Gehyjj1vmr6MbVJx.webp?v=1760635506
   Price: £45.99 GBP
 - [Pokémon Funko Pop Figures - Bulbasaur, Charmander, Squirtle | Trendytrades](https://trendytradesforyou.myshopify.com/products/pop-pokemon-figures-bulbasaur-charmander-squirtle): Collect all 3 original Pokémon starters! Bulbasaur, Charmander & Squirtle Funko Pop figures. Official merchandise, detailed designs. Perfect for trainers!
-  Updated: 2025-10-20T09:55:24Z
+  Updated: 2025-10-24T14:25:23Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -4154,7 +4154,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/0cORH58EEYOhcQto.webp?v=1760635727
     Price: £31.99 GBP
 - [Funko Pop Game of Thrones - Official Collectible Figure | Trendytrades](https://trendytradesforyou.myshopify.com/products/funko-pop-game-of-thrones-figure-single): Official Game of Thrones Funko Pop collectible figure. Detailed character design, window box packaging. Perfect for GOT fans & collectors. Bring Westeros home!
-  Updated: 2025-10-20T09:53:25Z
+  Updated: 2025-10-24T14:25:23Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -4184,14 +4184,14 @@
     Availability: Available
     Price: £49.99 GBP
 - [Funko Pop Naruto Sakura #183 - Official Collectible Figure | Trendytrades](https://trendytradesforyou.myshopify.com/products/funko-pop-naruto-sakura-183-collectible-figure): Official Funko Pop Naruto Sakura Haruno #183 collectible figure. Detailed design, window box packaging. Perfect for anime collectors & Naruto fans!
-  Updated: 2025-10-20T09:58:22Z
+  Updated: 2025-10-24T14:25:23Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/LGg27Sx7oJqOuWZN.webp?v=1760635757
   Price: £43.99 GBP
 - [Funko Pop Harry Potter Moaning Myrtle Luminous - Glow in Dark | Trendytrades](https://trendytradesforyou.myshopify.com/products/funko-pop-harry-potter-moaning-myrtle-luminous): Collectible Funko Pop Moaning Myrtle with glow-in-the-dark feature. Officially licensed Harry Potter figure. Perfect for collectors & Potterheads!
-  Updated: 2025-10-20T09:57:51Z
+  Updated: 2025-10-24T14:25:24Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -4227,7 +4227,7 @@
     Availability: Available
     Price: £40.89 GBP
 - [Thermal Bluetooth Label Printer - Fast 150mm/s Barcode Printer | Trendytrades](https://trendytradesforyou.myshopify.com/products/thermal-bluetooth-label-printer): Professional thermal label printer with Bluetooth & USB. 150mm/s speed, 203 dpi resolution. Perfect for shipping labels, barcodes & stickers. Complete kit included!
-  Updated: 2025-10-20T09:50:22Z
+  Updated: 2025-10-24T14:25:25Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -4305,7 +4305,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/CPWL8grCKxeM576b.webp?v=1760736271
     Price: £28.65 GBP
 - [Desktop PC Case - ATX & MicroATX Compatible with USB 3.0 | Trendytrades](https://trendytradesforyou.myshopify.com/products/desktop-pc-case-for-atx-microatx-motherboards): Versatile PC case for ATX, MicroATX & ITX motherboards. Cold rolled steel, USB 3.0, excellent cooling. Available in 3 colours. Perfect for custom builds!
-  Updated: 2025-10-20T09:49:52Z
+  Updated: 2025-10-24T14:25:26Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -4323,7 +4323,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/N0JhkjwzYGzKgvz7.webp?v=1760736169
     Price: £93.78 GBP
 - [Wireless Handheld Vacuum Mop - 35000pa Cordless 3-in-1 Cleaner | Trendytrades](https://trendytradesforyou.myshopify.com/products/wireless-handheld-vacuum-mop): Powerful 35000pa cordless vacuum mop with 3-in-1 design. Quiet operation, multiple cleaning heads. Perfect for floors, carpets & furniture. Effortless cleaning!
-  Updated: 2025-10-20T09:49:32Z
+  Updated: 2025-10-24T14:25:26Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -4337,7 +4337,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/D6WjsTezEOBJBcls.webp?v=1760736329
     Price: £105.21 GBP
 - [Household Steam Iron - Professional Results for All Fabrics | Trendytrades](https://trendytradesforyou.myshopify.com/products/household-steam-iron): Powerful household steam iron with adjustable temperature settings. Steam & dry modes for all fabrics. Quick heating, non-stick soleplate. Professional results at home!
-  Updated: 2025-10-20T09:47:06Z
+  Updated: 2025-10-24T14:25:27Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -4371,7 +4371,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/VfNRSgLUA1Rx2yQJ.webp?v=1760736429
     Price: £89.20 GBP
 - [Smart Bedside Table - Multi-functional with Wireless Charging | Trendytrades](https://trendytradesforyou.myshopify.com/products/multi-functional-intelligent-bedside-table): Intelligent bedside table with wireless charging, USB ports, LED lighting & storage. Modern design meets smart functionality. Upgrade your bedroom today!
-  Updated: 2025-10-20T09:46:46Z
+  Updated: 2025-10-24T14:25:29Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -4457,7 +4457,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/cNrmhWFjsHCuRWmC.webp?v=1760736892
     Price: £490.38 GBP
 - [Car Cup Warmer & Cooler 2-in-1, 12V - Hot & Cold Drinks | Trendytrades](https://trendytradesforyou.myshopify.com/products/2-in-1-car-cup-warmer-cooler-12v): Keep drinks hot or cold on the go with this 2-in-1 car cup warmer & cooler. 12V powered, fits standard cup holders. Perfect for commuters and road trips!
-  Updated: 2025-10-20T09:46:18Z
+  Updated: 2025-10-24T14:25:30Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -4491,7 +4491,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/PKPergybI6Mbu8bV.webp?v=1760737009
     Price: £53.49 GBP
 - [Ergonomic Gaming Chair - Office & Esports Comfort | Trendytrades](https://trendytradesforyou.myshopify.com/products/ergonomic-gaming-chair-for-office-and-esports-use): Premium ergonomic gaming chair for office and esports. Adjustable, comfortable, supportive design. Perfect for long gaming sessions and work-from-home. Level up your setup!
-  Updated: 2025-10-20T09:45:50Z
+  Updated: 2025-10-24T14:25:30Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -4527,7 +4527,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/DBLEZAdd5WQMp9O4.webp?v=1760740134
     Price: £289.03 GBP
 - [Dog Chew Toy - Gourd-Shaped Rubber Treat Dispenser | Trendytrades](https://trendytradesforyou.myshopify.com/products/gourd-shaped-chew-toy-for-dogs-rubber-treat-dispenser): Durable gourd-shaped dog chew toy with treat dispenser. Keeps dogs entertained, promotes dental health. Perfect for all breeds. Long-lasting rubber construction!
-  Updated: 2025-10-20T09:45:26Z
+  Updated: 2025-10-24T14:25:32Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -4645,7 +4645,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/kUinPf9nGhEQzGHB.webp?v=1760741514
     Price: £23.47 GBP
 - [Large Cat Litter Box - Semi-Enclosed with Shovel | Trendytrades](https://trendytradesforyou.myshopify.com/products/large-semi-enclosed-cat-litter-box-with-shovel): Spacious semi-enclosed cat litter box with shovel. Reduces tracking, provides privacy. Perfect for large cats. Easy to clean, durable design. Keep your home tidy!
-  Updated: 2025-10-20T09:43:44Z
+  Updated: 2025-10-24T14:25:33Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -4675,7 +4675,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/UvkrSVUI7EpRmDzO.webp?v=1760741464
     Price: £21.19 GBP
 - [Dog Bed with Washable Cover - Universal Pet Bed for All Breeds | Trendytrades](https://trendytradesforyou.myshopify.com/products/universal-pet-dog-bed-with-removable-washable-cover): Comfortable dog bed with removable washable cover. Universal sizing for all breeds. Easy to clean, supportive cushioning. Perfect for active and senior dogs alike!
-  Updated: 2025-10-20T09:43:18Z
+  Updated: 2025-10-24T14:25:35Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -4857,7 +4857,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/aVReU4hk1miCslBA.webp?v=1760741759
     Price: £58.21 GBP
 - [Semi-Enclosed Cat Bed - Winter-Ready All-Season Comfort | Trendytrades](https://trendytradesforyou.myshopify.com/products/winter-ready-semi-enclosed-cat-bed-for-all-seasons): Cosy semi-enclosed cat bed perfect for all seasons. Warm, secure design with plush interior. Ideal for cats who love enclosed spaces. Year-round comfort guaranteed!
-  Updated: 2025-10-20T09:42:50Z
+  Updated: 2025-10-24T14:25:37Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -4971,7 +4971,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/6KjglgMLc2H4AIc2.webp?v=1760741934
     Price: £30.41 GBP
 - [CatBall Scratching Post - Durable Cat Toy & Furniture Protector | Trendytrades](https://trendytradesforyou.myshopify.com/products/catball™-scratching-post-durable-vertical-cat-toy-one-piece): Protect your furniture with the CatBall™ Scratching Post. Durable vertical design with engaging ball toy. Perfect for indoor cats. Keep claws healthy & furniture safe!
-  Updated: 2025-10-21T04:52:15Z
+  Updated: 2025-10-24T14:25:37Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -4983,7 +4983,7 @@
     Availability: Available
     Price: £25.82 GBP
 - [Food Processor Vegetable Chopper - Quick Meal Prep Tool | Trendytrades](https://trendytradesforyou.myshopify.com/products/food-processor-vegetable-chopper-and-slicer-tool): Save time in the kitchen with our versatile food processor and vegetable chopper. Multiple blades for chopping, slicing & dicing. Easy to clean. Perfect for meal prep!
-  Updated: 2025-10-21T09:06:02Z
+  Updated: 2025-10-24T14:25:38Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -5001,7 +5001,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/PPgeq9H3MNAqm9YM.webp?v=1760804796
     Price: £23.99 GBP
 - [Hide-and-Seek Cat Tunnel Bed](https://trendytradesforyou.myshopify.com/products/hide-and-seek-cat-tunnel-bed): The Ultimate Hideaway for Your Feline FriendTransform playtime and naptime with the Hide-and-Seek Cat Tunnel Bed – where comfort meets adventure! This innovative design combines a cozy resting spot with an exciting play tunnel, giving your cat the best of both worlds.Why Your Cat Will Love It: Dual-Purpose Design: Perfect for playful pouncing and peaceful snoozing Soft, Plush Interior: Luxuriously comfortable fabric that cats can't resist Natural Instinct Satisfaction: Satisfies your cat's natural desire to hide, hunt, and explore Ideal for All Ages: Great for energetic kittens and relaxed adult cats alike Stress Relief: Provides a safe, enclosed space where cats feel secure Imagine This:Your cat darting through the tunnel in hot pursuit of their favourite toy, then curling up inside for a well-deserved rest. The Hide-and-Seek Cat Tunnel Bed creates endless entertainment while giving your pet their own private sanctuary.Whether your feline is a curious explorer or a dedicated napper, this tunnel bed delivers comfort, fun, and security all in one clever design.
-  Updated: 2025-10-21T06:53:36Z
+  Updated: 2025-10-24T14:25:39Z
   Vendor: Trendytrades 
   Product Type: 
   Availability: Available
@@ -5071,7 +5071,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/OFD35xt6DJBgYlhz.webp?v=1760986569
     Price: £102.80 GBP
 - [Leopard Round Neck Raglan Sleeve Sweatshirt](https://trendytradesforyou.myshopify.com/products/leopard-round-neck-raglan-sleeve-sweatshirt): A comfortable leopard print sweatshirt featuring a round neck and raglan sleeves. Made from 95% polyester and 5% spandex with a slightly stretchy fit.Care: Machine wash cold, tumble dry low. Size Top Length Bust Sleeve Length S 25.2 42.5 27.2 M 25.6 44.5 27.6 L 26 46.5 28 XL 26.4 49.2 28.3 2XL 26.8 52 28.7
-  Updated: 2025-10-24T02:21:57Z
+  Updated: 2025-10-24T17:02:37Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5109,7 +5109,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/f149de1986b64c6e97a88e05227114c0-Max-Origin.webp?v=1760995514
     Price: £29.99 GBP
   - [Brown / XL](https://trendytradesforyou.myshopify.com/products/leopard-round-neck-raglan-sleeve-sweatshirt?variant=52625127276877)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/f149de1986b64c6e97a88e05227114c0-Max-Origin.webp?v=1760995514
     Price: £29.99 GBP
   - [Brown / 2XL](https://trendytradesforyou.myshopify.com/products/leopard-round-neck-raglan-sleeve-sweatshirt?variant=52625127309645)
@@ -5181,7 +5181,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/9b25af2d77424c8d8c9eb3999bcb3d5a-Max-Origin.webp?v=1760995514
     Price: £29.99 GBP
   - [Deep Teal / M](https://trendytradesforyou.myshopify.com/products/leopard-round-neck-raglan-sleeve-sweatshirt?variant=52625127866701)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/9b25af2d77424c8d8c9eb3999bcb3d5a-Max-Origin.webp?v=1760995514
     Price: £29.99 GBP
   - [Deep Teal / L](https://trendytradesforyou.myshopify.com/products/leopard-round-neck-raglan-sleeve-sweatshirt?variant=52625127899469)
@@ -5219,7 +5219,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/e1c1cb4f-23ea-4524-82df-fc3692090b79-Max.webp?v=1760995832
     Price: £29.99 GBP
 - [Christmas Santa Print Round Neck Top and Shorts Lounge Set](https://trendytradesforyou.myshopify.com/products/christmas-santa-print-round-neck-top-and-shorts-lounge-set): Features:Basic style Number of pieces:Two-piece Stretch:Slightly stretchy Material composition:95% polyester, 5% elastane Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Hip Bust Sleeve Length Waist Length S 24 40.9 40.6 20.3 26 13.8 M 24.8 43.3 42.9 20.5 28.3 14.2 L 25.6 45.7 45.3 20.7 30.7 14.6 XL 26.4 48.8 48.4 20.7 33.9 15
-  Updated: 2025-10-24T05:20:55Z
+  Updated: 2025-10-24T14:00:44Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5257,7 +5257,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/98011ac2-67db-46a5-9ea2-c2ee418c06d0-Max-Origin.webp?v=1760995912
     Price: £32.99 GBP
 - [Solid Color Oversize Slit Sweatshirt and Ribbed Leggings 2pcs Set](https://trendytradesforyou.myshopify.com/products/solid-color-oversize-slit-sweatshirt-and-ribbed-leggings-2pcs-set): Features:Basic style Number of pieces:Two-piece Stretch:Slightly stretchy Material composition:65% polyester, 35% cotton Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Top Length Bust Bottom Length Hip S 24.4 27 42.9 38.6 27.6 M 26.8 27.8 45.3 39 29.9 L 29.1 28.5 47.6 39.4 32.3 XL 32.3 29.3 50.8 39.8 35.4
-  Updated: 2025-10-24T08:00:47Z
+  Updated: 2025-10-24T19:00:41Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5655,7 +5655,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/bb21eb4bd50a4f3c8930a1de19db23a4-Max-Origin.webp?v=1761052163
     Price: £24.99 GBP
 - [Cable-Knit Round Neck Sweater Dress](https://trendytradesforyou.myshopify.com/products/cable-knit-round-neck-sweater-dress): Features: Cable-Knit Stretch: Slightly stretchy Material composition: 100% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Bust Shoulder Sleeve Length Hip Length S 4 42.5 22.4 21.7 38.2 31.9 M 6/8 44.9 23.6 21.7 40.6 32.7 L 10/12 47.2 24.8 21.7 42.9 33.5 XL 14/16 50.4 26.4 21.7 46.1 34.3
-  Updated: 2025-10-24T09:40:56Z
+  Updated: 2025-10-24T18:00:39Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5725,7 +5725,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/e2fb223d-21ee-4ae3-9e12-2a0a7dfbf3b2-Max.webp?v=1761055976
     Price: £37.99 GBP
 - [Oversized Long Sleeve Longline Cardigan](https://trendytradesforyou.myshopify.com/products/oversized-long-sleeve-longline-cardigan): Features:Oversized,Cable-Knit,Pocketed Stretch:Slightly stretchy Material composition:95%Acrylic,5%spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 35.4 40.2 18.9 M 35.8 41.7 19.3 L 36.2 43.3 19.7 XL 36.6 44.9 20.1 2XL 37 46.5 20.3
-  Updated: 2025-10-23T20:02:58Z
+  Updated: 2025-10-24T17:36:18Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -6579,7 +6579,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/546db321-09b2-4366-845a-9705df2a96cd-Max-Origin.webp?v=1761084802
     Price: £23.99 GBP
 - [Double Take Full Size Nutcracker Sequin Bow Decor Cardigan](https://trendytradesforyou.myshopify.com/products/double-take-full-size-nutcracker-sequin-bow-decor-cardigan): Features: Sequin, Bow Stretch: Moderate stretch Material composition: 100% acrylic Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Shoulder Bust Sleeve Length S/M 22.4 21.7 42.1 21.3 L/XL 23.2 23.2 46.1 21.3 2XL/3XL 24 24.8 50 21.3
-  Updated: 2025-10-24T04:45:16Z
+  Updated: 2025-10-24T18:42:51Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -6848,6 +6848,150 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/1a6949cd15fd4fbeac1887734485cf59-Max-Origin.webp?v=1761168881
     Price: £26.52 GBP
+- [Double Take Checkered Long Sleeve Fuzzy Jacket](https://trendytradesforyou.myshopify.com/products/double-take-checkered-long-sleeve-fuzzy-jacket): Features: Pocketed Thickness: Normal Material composition: 100% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Shoulder Bust Sleeve Length S 26.6 16.5 46.1 24 M 27 17 48.4 24.4 L 27.4 17.6 50.8 24.8 XL 27.8 18.3 53.9 25.2 2XL 28.1 19 57.1 25.6
+  Updated: 2025-10-24T18:32:51Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/25ffc68b-dbb5-43dd-af7b-c6a1a2a72d5c-Max.webp?v=1761330654
+  - [Strawberry / S](https://trendytradesforyou.myshopify.com/products/double-take-checkered-long-sleeve-fuzzy-jacket?variant=52645396218189)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/25ffc68b-dbb5-43dd-af7b-c6a1a2a72d5c-Max.webp?v=1761330654
+    Price: £41.99 GBP
+  - [Strawberry / M](https://trendytradesforyou.myshopify.com/products/double-take-checkered-long-sleeve-fuzzy-jacket?variant=52645396250957)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/25ffc68b-dbb5-43dd-af7b-c6a1a2a72d5c-Max.webp?v=1761330654
+    Price: £41.99 GBP
+  - [Strawberry / L](https://trendytradesforyou.myshopify.com/products/double-take-checkered-long-sleeve-fuzzy-jacket?variant=52645396283725)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/25ffc68b-dbb5-43dd-af7b-c6a1a2a72d5c-Max.webp?v=1761330654
+    Price: £41.99 GBP
+  - [Strawberry / XL](https://trendytradesforyou.myshopify.com/products/double-take-checkered-long-sleeve-fuzzy-jacket?variant=52645396316493)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/25ffc68b-dbb5-43dd-af7b-c6a1a2a72d5c-Max.webp?v=1761330654
+    Price: £41.99 GBP
+  - [Strawberry / 2XL](https://trendytradesforyou.myshopify.com/products/double-take-checkered-long-sleeve-fuzzy-jacket?variant=52645396349261)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/25ffc68b-dbb5-43dd-af7b-c6a1a2a72d5c-Max.webp?v=1761330654
+    Price: £41.99 GBP
+  - [Camel / S](https://trendytradesforyou.myshopify.com/products/double-take-checkered-long-sleeve-fuzzy-jacket?variant=52645396382029)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/f2914515-72a7-46b0-ba03-49c2b7d0d6d8-Max.webp?v=1761330654
+    Price: £41.99 GBP
+  - [Camel / M](https://trendytradesforyou.myshopify.com/products/double-take-checkered-long-sleeve-fuzzy-jacket?variant=52645396414797)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/f2914515-72a7-46b0-ba03-49c2b7d0d6d8-Max.webp?v=1761330654
+    Price: £41.99 GBP
+  - [Camel / L](https://trendytradesforyou.myshopify.com/products/double-take-checkered-long-sleeve-fuzzy-jacket?variant=52645396447565)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/f2914515-72a7-46b0-ba03-49c2b7d0d6d8-Max.webp?v=1761330654
+    Price: £41.99 GBP
+  - [Camel / XL](https://trendytradesforyou.myshopify.com/products/double-take-checkered-long-sleeve-fuzzy-jacket?variant=52645396480333)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/f2914515-72a7-46b0-ba03-49c2b7d0d6d8-Max.webp?v=1761330654
+    Price: £41.99 GBP
+  - [Camel / 2XL](https://trendytradesforyou.myshopify.com/products/double-take-checkered-long-sleeve-fuzzy-jacket?variant=52645396513101)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/f2914515-72a7-46b0-ba03-49c2b7d0d6d8-Max.webp?v=1761330654
+    Price: £41.99 GBP
+  - [Dust Storm / S](https://trendytradesforyou.myshopify.com/products/double-take-checkered-long-sleeve-fuzzy-jacket?variant=52645396545869)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/2af3324d-3e9e-439b-8fc2-153c763bb3c5-Max.webp?v=1761330654
+    Price: £41.99 GBP
+  - [Dust Storm / M](https://trendytradesforyou.myshopify.com/products/double-take-checkered-long-sleeve-fuzzy-jacket?variant=52645396578637)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/2af3324d-3e9e-439b-8fc2-153c763bb3c5-Max.webp?v=1761330654
+    Price: £41.99 GBP
+  - [Dust Storm / L](https://trendytradesforyou.myshopify.com/products/double-take-checkered-long-sleeve-fuzzy-jacket?variant=52645396611405)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/2af3324d-3e9e-439b-8fc2-153c763bb3c5-Max.webp?v=1761330654
+    Price: £41.99 GBP
+  - [Dust Storm / XL](https://trendytradesforyou.myshopify.com/products/double-take-checkered-long-sleeve-fuzzy-jacket?variant=52645396644173)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/2af3324d-3e9e-439b-8fc2-153c763bb3c5-Max.webp?v=1761330654
+    Price: £41.99 GBP
+  - [Dust Storm / 2XL](https://trendytradesforyou.myshopify.com/products/double-take-checkered-long-sleeve-fuzzy-jacket?variant=52645396676941)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/2af3324d-3e9e-439b-8fc2-153c763bb3c5-Max.webp?v=1761330654
+    Price: £41.99 GBP
+- [Double Take Full Size Half Button Long Sleeve Hoodie](https://trendytradesforyou.myshopify.com/products/double-take-full-size-half-button-long-sleeve-hoodie): Features: Buttoned, Drawstring Sheer: Opaque Stretch: Moderate stretch Material composition: 65% cotton, 30% polyester, 5% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Top Length Shoulder Bust Sleeve Length S 2/4 28 23.4 44.5 19.3 M 6/8 28.3 24.2 46.9 19.3 L 10/12 28.7 25 49.2 19.3 XL 14/16 29.1 26.2 52.4 19.3 2XL 18/20 29.5 27.4 55.5 19.3 3XL 22 29.9 28.5 58.7 19.3
+  Updated: 2025-10-24T18:34:19Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/f425c81e-17a2-4be7-8cab-15d916e6b215-Max.webp?v=1761330758
+  - [Moss / S](https://trendytradesforyou.myshopify.com/products/double-take-full-size-half-button-long-sleeve-hoodie?variant=52645398446413)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/f425c81e-17a2-4be7-8cab-15d916e6b215-Max.webp?v=1761330758
+    Price: £20.66 GBP
+  - [Moss / M](https://trendytradesforyou.myshopify.com/products/double-take-full-size-half-button-long-sleeve-hoodie?variant=52645398479181)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/f425c81e-17a2-4be7-8cab-15d916e6b215-Max.webp?v=1761330758
+    Price: £20.66 GBP
+  - [Moss / L](https://trendytradesforyou.myshopify.com/products/double-take-full-size-half-button-long-sleeve-hoodie?variant=52645398511949)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/f425c81e-17a2-4be7-8cab-15d916e6b215-Max.webp?v=1761330758
+    Price: £20.66 GBP
+  - [Moss / XL](https://trendytradesforyou.myshopify.com/products/double-take-full-size-half-button-long-sleeve-hoodie?variant=52645398544717)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/f425c81e-17a2-4be7-8cab-15d916e6b215-Max.webp?v=1761330758
+    Price: £20.66 GBP
+  - [Moss / 2XL](https://trendytradesforyou.myshopify.com/products/double-take-full-size-half-button-long-sleeve-hoodie?variant=52645398577485)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/f425c81e-17a2-4be7-8cab-15d916e6b215-Max.webp?v=1761330758
+    Price: £20.66 GBP
+  - [Moss / 3XL](https://trendytradesforyou.myshopify.com/products/double-take-full-size-half-button-long-sleeve-hoodie?variant=52645398610253)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/f425c81e-17a2-4be7-8cab-15d916e6b215-Max.webp?v=1761330758
+    Price: £20.66 GBP
+  - [Burnt Coral / S](https://trendytradesforyou.myshopify.com/products/double-take-full-size-half-button-long-sleeve-hoodie?variant=52645398643021)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/5161f91f-5882-4301-9332-a60dbf15d9d3-Max.webp?v=1761330758
+    Price: £20.66 GBP
+  - [Burnt Coral / M](https://trendytradesforyou.myshopify.com/products/double-take-full-size-half-button-long-sleeve-hoodie?variant=52645398675789)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/5161f91f-5882-4301-9332-a60dbf15d9d3-Max.webp?v=1761330758
+    Price: £20.66 GBP
+  - [Burnt Coral / L](https://trendytradesforyou.myshopify.com/products/double-take-full-size-half-button-long-sleeve-hoodie?variant=52645398708557)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/5161f91f-5882-4301-9332-a60dbf15d9d3-Max.webp?v=1761330758
+    Price: £20.66 GBP
+  - [Burnt Coral / XL](https://trendytradesforyou.myshopify.com/products/double-take-full-size-half-button-long-sleeve-hoodie?variant=52645398741325)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/5161f91f-5882-4301-9332-a60dbf15d9d3-Max.webp?v=1761330758
+    Price: £20.66 GBP
+  - [Burnt Coral / 2XL](https://trendytradesforyou.myshopify.com/products/double-take-full-size-half-button-long-sleeve-hoodie?variant=52645398774093)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/5161f91f-5882-4301-9332-a60dbf15d9d3-Max.webp?v=1761330758
+    Price: £20.66 GBP
+  - [Burnt Coral / 3XL](https://trendytradesforyou.myshopify.com/products/double-take-full-size-half-button-long-sleeve-hoodie?variant=52645398806861)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/5161f91f-5882-4301-9332-a60dbf15d9d3-Max.webp?v=1761330758
+    Price: £20.66 GBP
+  - [Caramel / S](https://trendytradesforyou.myshopify.com/products/double-take-full-size-half-button-long-sleeve-hoodie?variant=52645398839629)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/77ad5562-0a12-4708-bf4a-5e98fced11fa-Max.webp?v=1761330758
+    Price: £20.66 GBP
+  - [Caramel / M](https://trendytradesforyou.myshopify.com/products/double-take-full-size-half-button-long-sleeve-hoodie?variant=52645398872397)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/77ad5562-0a12-4708-bf4a-5e98fced11fa-Max.webp?v=1761330758
+    Price: £20.66 GBP
+  - [Caramel / L](https://trendytradesforyou.myshopify.com/products/double-take-full-size-half-button-long-sleeve-hoodie?variant=52645398905165)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/77ad5562-0a12-4708-bf4a-5e98fced11fa-Max.webp?v=1761330758
+    Price: £20.66 GBP
+  - [Caramel / XL](https://trendytradesforyou.myshopify.com/products/double-take-full-size-half-button-long-sleeve-hoodie?variant=52645398937933)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/77ad5562-0a12-4708-bf4a-5e98fced11fa-Max.webp?v=1761330758
+    Price: £20.66 GBP
+  - [Caramel / 2XL](https://trendytradesforyou.myshopify.com/products/double-take-full-size-half-button-long-sleeve-hoodie?variant=52645398970701)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/77ad5562-0a12-4708-bf4a-5e98fced11fa-Max.webp?v=1761330758
+    Price: £20.66 GBP
+  - [Caramel / 3XL](https://trendytradesforyou.myshopify.com/products/double-take-full-size-half-button-long-sleeve-hoodie?variant=52645399003469)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/77ad5562-0a12-4708-bf4a-5e98fced11fa-Max.webp?v=1761330758
+    Price: £20.66 GBP
 
 ## Collections
 
@@ -6867,8 +7011,8 @@
   Updated: 2025-10-19T22:47:01Z
   Total Products: 10
 - [Womans Clothing](https://trendytradesforyou.myshopify.com/collections/clothing)
-  Updated: 2025-10-23T18:08:27Z
-  Total Products: 26
+  Updated: 2025-10-24T18:32:37Z
+  Total Products: 28
 - [Toys & Games](https://trendytradesforyou.myshopify.com/collections/toys-games)
   Updated: 2025-10-20T21:20:28Z
   Total Products: 4
