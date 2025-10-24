@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-07-07T17:06:44Z
 - Contact Email: nikualbu92@gmail.com
-- Updated At: 2025-10-23T20:00:50.278Z
+- Updated At: 2025-10-24T00:01:04.215Z
 
 ## Products
 
@@ -2203,7 +2203,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/3ef299f16d854caab6343103d9c9dd52-Max-Origin.webp?v=1759598855
     Price: €44.22 EUR
 - [Camouflage Print Mesh Long Sleeve Top](https://nicosstore.store/products/camouflage-print-mesh-long-sleeve-top): Features:Sheer Stretch:Slightly stretchy Material composition:95% polyester, 5% elastane Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 22.8 32.3 24 M 23.6 34.6 24.4 L 24.4 37 24.8 XL 25.2 40.2 25.2
-  Updated: 2025-10-23T09:51:13Z
+  Updated: 2025-10-23T23:12:01Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2981,7 +2981,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/69970997521447278c9cdd284b7e91a1-Max-Origin.webp?v=1759686330
     Price: €26.12 EUR
 - [Lace Detail Drawstring Long Sleeve Hoodie](https://nicosstore.store/products/lace-detail-drawstring-long-sleeve-hoodie): Features:Lace Detail,Pocketed,Drawstring Stretch:Slightly stretchy Material composition:75% polyester, 25% cotton Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 25.2 40.2 27.4 M 26 42.5 28 L 26.8 44.9 28.5
-  Updated: 2025-10-23T04:01:15Z
+  Updated: 2025-10-23T21:30:35Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -7708,7 +7708,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/43b2a44cdb114c82bc84f710030815cf-Max-Origin.webp?v=1761067651
     Price: €32.99 EUR
 - [Unisex Sweatshirt](https://nicosstore.store/products/unisex-sweatshirt-2): Each unique, all-over printed sweatshirt is precision-cut and hand-sewn to achieve the best possible look and bring out the intricate design. What's more, the durable fabric with a cotton-feel face and soft brushed fleece inside means that this sweatshirt is bound to become your favorite for a long time. • 96% recycled polyester, 4% elastane for manufacturing in the US/Mexico • 95% recycled polyester, 5% elastane for manufacturing in Latvia • Fabric weight (may vary by 5%): 9.08 oz./yd.² (308 g/m²) • Soft cotton-feel face • Brushed fleece fabric inside • Unisex fit • Overlock seams • Blank components sourced from China This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Age restrictions: For adults EU Warranty: 2 years Other compliance information: Meets the flammability, and formaldehyde, lead, cadmium, phthalates, azo dyes, bisphenols and mercury level requirements. In compliance with the General Product Safety Regulation (GPSR), Albu Nicolae ensures that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact us at nikualbu92@gmail.com or write to us Atzberg 18, Mitterskirskirchen ,84335 ,DE.Size guide CHEST (inches) WAIST (inches) HIPS (inches) 2XS 34 ⅝ 28 ⅜ 35 ⅜ XS 36 ¼ 29 ⅞ 37 S 37 ¾ 31 ½ 38 ⅝ M 39 ⅜ 33 ⅛ 40 ⅛ L 42 ½ 36 ¼ 43 ¼ XL 45 ⅝ 39 ⅜ 46 ½ 2XL 48 ⅞ 42 ½ 49 ⅝ 3XL 52 45 ⅝ 52 ¾ 4XL 55 ⅛ 48 ⅞ 55 ⅞ 5XL 58 ¼ 52 59 6XL 61 ⅜ 55 ⅛ 62 ¼ CHEST (cm) WAIST (cm) HIPS (cm) 2XS 88 72 90 XS 92 76 94 S 96 80 98 M 100 84 102 L 108 92 110 XL 116 100 118 2XL 124 108 126 3XL 132 116 134 4XL 140 124 142 5XL 148 132 150 6XL 156 140 158
-  Updated: 2025-10-23T19:56:51Z
+  Updated: 2025-10-23T20:29:27Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
