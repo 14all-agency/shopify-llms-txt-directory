@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-01-24T04:49:01Z
 - Contact Email: info@ibizjewel.com
-- Updated At: 2025-10-23T16:00:49.391Z
+- Updated At: 2025-10-24T16:01:03.841Z
 
 ## Products
 
@@ -34322,7 +34322,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-96_3.jpg?v=1711448945
     Price: $905.00 USD
 - [Moisaanite 2.20CT Marquise Diamond Avant Garde Anniversary Ring](https://ibizjewel.com/products/moisaanite-2-20ct-marquise-diamond-avant-garde-anniversary-ring): This Avant-garde Anniversary Ring Features A Stunning 2.20ct Marquise Diamond Crafted From Moisaanite. Its Modern Design And Exceptional Sparkle Are Perfect For Celebrating Your Special Milestones. Expertly Crafted With Precision And Quality, This Ring Is Sure To Be Cherished For Years To Come.
-  Updated: 2025-10-02T10:31:07Z
+  Updated: 2025-10-23T19:12:09Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Marquies Diamond Ring
   Availability: Available
@@ -37544,7 +37544,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-121_7.jpg?v=1711608560
     Price: $1,025.00 USD
 - [Moissanite 1.90 CT Pear Diamond Mid-Century Handmade Ring](https://ibizjewel.com/products/moissanite-1-90-ct-pear-diamond-mid-century-handmade-ring): This Beautifully Crafted Moissanite 1.90 CT Pear Diamond Mid-century Handmade Ring Showcases A Stunning Pear-shaped Diamond, Perfect For Everyday Wear Or Special Occasions. Handmade With Precision And Attention To Detail, This Ring Exudes Elegance And Sophistication. Experience The Brilliance Of Moissanite With This Exquisite Piece.
-  Updated: 2025-10-02T10:31:10Z
+  Updated: 2025-10-24T12:41:46Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Pear Diamond Ring
   Availability: Available
