@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-07-07T17:06:44Z
 - Contact Email: nikualbu92@gmail.com
-- Updated At: 2025-10-24T16:00:38.019Z
+- Updated At: 2025-10-24T20:00:48.142Z
 
 ## Products
 
@@ -2981,7 +2981,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/69970997521447278c9cdd284b7e91a1-Max-Origin.webp?v=1759686330
     Price: €26.12 EUR
 - [Lace Detail Drawstring Long Sleeve Hoodie](https://nicosstore.store/products/lace-detail-drawstring-long-sleeve-hoodie): Features:Lace Detail,Pocketed,Drawstring Stretch:Slightly stretchy Material composition:75% polyester, 25% cotton Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 25.2 40.2 27.4 M 26 42.5 28 L 26.8 44.9 28.5
-  Updated: 2025-10-24T14:22:11Z
+  Updated: 2025-10-24T16:22:11Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
