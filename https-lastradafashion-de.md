@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2023-03-22T10:49:51Z
 - Contact Email: onlineshop@lastradafashion.de
-- Updated At: 2025-10-23T12:00:50.209Z
+- Updated At: 2025-10-24T00:01:03.053Z
 
 La Strada is love for Italian Fashion. Our collections represents the latest fashion trends from Italy and is lovingly created and arranged for the modern fashionable woman who is looking for the newest trends, the best quality and best price. 
 
@@ -832,7 +832,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/grosse-blumen-brosche-la-strada-9.jpg?v=1719331925
     Price: 12,00 € EUR
 - [Oberteil mit Fledermausärmeln](https://lastradafashion.de/products/oberteil-mit-fledermaus-armel): Dieses Oberteil ist aus einem leichten, angenehmen Stoff gefertigt und umschmeichelt sanft die Figur. Der V-Ausschnitt sorgt für ein feminines Dekolleté und die kurzen Fledermausärmel verleihen dem Oberteil einen trendigen Touch. Durch den lockeren Schnitt ist das Oberteil besonders bequem und perfekt für den Alltag geeignet. Dank seiner schlichten Eleganz lässt sich das Basic-Oberteil vielfältig kombinieren – ob lässig zur Jeans und Sneakern oder schick zur Stoffhose und Pumps, es passt zu jedem Style. Ein absolutes Must-Have für jede Garderobe! Egal ob im Büro, beim Shopping oder beim entspannten Treffen mit Freunden, mit diesem Oberteil liegen Sie immer richtig. MARKE - La Strada PASSFORM UND SCHNITT - One Size (von Größen 36 bis 42), Passgenauigkeit - Passgenau - normal geschnitten, lockerer Schnitt - V-Ausschnitt, Fledermausärmel, kurzer Arm MATERIAL UND VERARBEITUNG - Muster: Unifarben - Materialmix: 95% Viskose 5% Elastan - Materialqualität: leichtes Material, elastisches Material PFLEGEHINWEIS - Maschinenwäsche bis 30°C, Nicht Trockner geeignet, Bügeln mit niedriger Temperatur (max. 110°C, kein Dampf), Bleichen nicht erlaubt MODEL - Das Model ist 174cm groß und trägt Konfektionsgröße 36 bzw. S
-  Updated: 2025-10-22T09:56:36Z
+  Updated: 2025-10-23T20:13:55Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
@@ -882,7 +882,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/10583487.jpg?v=1724079338
     Price: 18,00 € EUR
   - [One Size / BEERE](https://lastradafashion.de/products/oberteil-mit-fledermaus-armel?variant=53019324842333)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/10985728.jpg?v=1724079338
     Price: 18,00 € EUR
   - [One Size / BRAUN](https://lastradafashion.de/products/oberteil-mit-fledermaus-armel?variant=53019324875101)
@@ -1163,7 +1163,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/11312387.jpg?v=1727097548
     Price: 12,00 € EUR
 - [Basic Langarmshirt mit V-Ausschnitt](https://lastradafashion.de/products/oberteil-mit-v-ausschnitt-und-1-1-arm): Dieses Basic Langarmshirt mit V-Ausschnitt ist ein unverzichtbares Essential für jede Garderobe. Mit seinem zeitlosen Design bietet es vielseitige Styling-Möglichkeiten und eignet sich perfekt als Grundlage für zahlreiche Outfits. Der V-Ausschnitt verleiht dem Shirt eine feminine Note und schmeichelt der Silhouette, während die langen Ärmel für zusätzlichen Komfort und Wärme sorgen. Hergestellt aus einem hochwertigen, weichen Material, bietet das Shirt nicht nur eine angenehme Passform, sondern auch hohen Tragekomfort, egal ob Sie es im Büro, beim Relaxen zu Hause oder beim Ausgehen tragen. Die schlichte Eleganz dieses Shirts macht es leicht, es mit Jeans, Röcken oder Shorts zu kombinieren. Ein echtes Must-have, das in verschiedenen Farben erhältlich ist, um Ihrem persönlichen Stil gerecht zu werden. Dieses Langarmshirt ist perfekt für Layering – tragen Sie es unter einem Blazer oder einer Strickjacke für einen schicken Look oder solo für einen entspannten Alltagsstil. Ein echtes Basic, das niemals aus der Mode kommt! MARKE - La Strada PASSFORM UND SCHNITT - One Size (von Größen 36 bis 42) - lockerer Schnitt, locker fallend, Überschnittene Ärmel MATERIAL UND VERARBEITUNG - Muster: Unifarben - Materialmix: 95% Viskose, 5% Elastan - Materialqualität: leichtes Material PFLEGEHINWEIS - Maschinenwäsche bis 30°C, Nicht Trockner geeignet, Bügeln mit niedriger Temperatur (max. 110°C, kein Dampf), Bleichen nicht erlaubt MODEL - Das Model ist 172cm groß und trägt Konfektionsgröße 36 bzw. S GrößeOne Size
-  Updated: 2025-10-20T15:50:41Z
+  Updated: 2025-10-23T12:56:47Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
@@ -1337,7 +1337,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIxMjk1OTkuanBn.jpg?v=1734618599
     Price: 25,00 € EUR
 - [Klassischer Strickpullover](https://lastradafashion.de/products/klassischer-strickpullover-2): Dieser Strickpullover ist ein gemütliches und modisches Kleidungsstück mit einem lockeren Schnitt, der viel Bewegungsfreiheit bietet. Die langen Ärmel sind ideal für kühlere Tage und sorgen dafür, dass Sie sich rundum behaglich fühlen. Der Rundhals-Ausschnitt verleiht dem Pullover eine elegante Note und sorgt dafür, dass er sowohl leger als auch schick getragen werden kann. Das Material ist weich und angenehm auf der Haut, was den Tragekomfort erhöht. Durch das moderne und zeitlose Aussehen, lässt sich der Pullover vielseitig kombinieren – egal, ob zu Jeans für einen lässigen Look oder zu einem Rock für etwas Eleganteres. Insgesamt ist dieser Strickpullover ein perfektes Stück, um jedem Outfit eine wohlige und stylische Note zu verleihen. MARKE - La Strada PASSFORM UND SCHNITT - One Size (von Größen 36 bis 42), Fällt der Größe entsprechend normal aus - normal geschnitten, gerader Schnitt - Rundhalsausschnitt, langer Arm, Feines Strickmuster MATERIAL UND VERARBEITUNG - Muster: Unifarben - Materialmix: 60% Polyester, 40% Viskose - Materialqualität: leichtes Material, elastisches Material PFLEGEHINWEIS - Handwäsche, Nicht Trockner geeignet, Bügeln mit niedriger Temperatur (max. 110°C, kein Dampf), Bleichen nicht erlaubt MODEL - Das Model ist 176cm groß und trägt Konfektionsgröße 36 bzw. S GrößeOne Size
-  Updated: 2025-10-20T15:50:51Z
+  Updated: 2025-10-23T20:13:55Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
@@ -1524,7 +1524,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI2NjQ1MzYuanBn.jpg?v=1740502555
     Price: 98,00 € EUR
 - [Softe Longjacke mit Kapuze](https://lastradafashion.de/products/softe-longjacke-mit-kapuze): Die softe Longjacke mit Kapuze ist der perfekte Begleiter für stilvolle und gemütliche Outfits. Ihr kastiger Schnitt sorgt für eine moderne, entspannte Silhouette, während die verlängerte Passform schmeichelhaft über die Hüfte fällt und eine lässige Note verleiht. Die große Kapuze verleiht der Jacke nicht nur einen coolen Look, sondern sorgt auch für zusätzlichen Komfort an kühleren Tagen. Dank des schlichten, unifarbenen Designs lässt sie sich vielseitig kombinieren und passt sowohl zu lässigen Casual-Looks als auch zu eleganteren Outfits. Das weiche, leichte Material macht die Jacke besonders angenehm zu tragen und verleiht ihr eine fließende Optik. Ob über einem Basic-Shirt mit Jeans oder als stylischer Begleiter zu einem Kleid – die softe Longjacke mit Kapuze ist ein echtes Must-have für jede Garderobe! MARKE - La Strada PASSFORM UND SCHNITT - One Size (von Größen 36 bis 42) - normal geschnitten, kastiger Schnitt, reicht über die Hüfte - Jacke MATERIAL UND VERARBEITUNG - Muster: Unifarben - Materialmix: 95% Polyester, 5% Elastan - Materialqualität: leichtes Material PFLEGEHINWEIS - Maschinenwäsche bis 30°C, Nicht Trockner geeignet, Bügeln mit mäßiger Temperatur (max. 150°C), Bleichen nicht erlaubt MODEL - Das Model ist 176cm groß und trägt Konfektionsgröße 36 bzw. S GrößeOne Size
-  Updated: 2025-10-20T15:50:57Z
+  Updated: 2025-10-23T14:26:01Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
@@ -1853,7 +1853,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAzMC0zMzU2NTEtNDA2ODM4MjE2Mjc4MS1zY2h3YXJ6LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760970540
     Price: 39,90 € EUR
 - [Feinstrickpullover mit Animalprint-Applikation](https://lastradafashion.de/products/feinstrickpullover-mit-animalprint-applikation): Mit diesem Feinstrickpullover ziehst du alle Blicke auf dich. Im Zentrum steht der auffällige „N°5“-Schriftzug mit Animalprint-Applikation – ein modisches Statement, das Coolness und feminine Raffinesse gekonnt vereint. Die lässige Passform mit Fledermausärmeln sorgt für angenehme Bewegungsfreiheit und unterstreicht den entspannten Chic des Designs. Die weichfließende Strickqualität fühlt sich traumhaft weich auf der Haut an und schenkt angenehme Wärme – perfekt für stilvolle Übergangslooks. Ein Lieblingsstück mit hohem Style-Faktor und Must-have-Charakter. GrößeOne SizeMaterialzusammensetzung 40 % Viskose 30 % Angora 30 % Wolle Pflegehinweis Nur Handwäsche nicht bleichen nicht im Trockner trocknen nicht heiß bügeln nicht chemisch reinigen HerstellungslandItalienFit Guide3MaterialqualitätSehr weiche Haptik, leichtes Material, leicht elastisches MaterialVerarbeitungFeinstrick, Frontprint mit Animal-ApplikationModelDas Model ist 175cm groß und trägt Konfektionsgröße 36.
-  Updated: 2025-10-21T11:02:33Z
+  Updated: 2025-10-23T12:42:41Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
