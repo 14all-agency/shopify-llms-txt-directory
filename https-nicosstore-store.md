@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-07-07T17:06:44Z
 - Contact Email: nikualbu92@gmail.com
-- Updated At: 2025-10-24T00:01:04.215Z
+- Updated At: 2025-10-24T08:00:36.213Z
 
 ## Products
 
@@ -2181,7 +2181,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/17275778035340764426_2048.jpg?v=1759512331
     Price: €5.46 EUR
 - [Leopard Zip Up Fleece Jacket](https://nicosstore.store/products/leopard-zip-up-fleece-jacket): Features:Pocketed,Zipper Thickness:Normal Body:Not lined Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length Shoulder S 23.6 42.9 19.3 23.6 M 24 44.5 19.5 24.4 L 24.6 46.9 19.8 25.6 XL 25.2 49.2 20.1 26.8
-  Updated: 2025-10-23T12:00:36Z
+  Updated: 2025-10-24T07:20:45Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2203,7 +2203,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/3ef299f16d854caab6343103d9c9dd52-Max-Origin.webp?v=1759598855
     Price: €44.22 EUR
 - [Camouflage Print Mesh Long Sleeve Top](https://nicosstore.store/products/camouflage-print-mesh-long-sleeve-top): Features:Sheer Stretch:Slightly stretchy Material composition:95% polyester, 5% elastane Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 22.8 32.3 24 M 23.6 34.6 24.4 L 24.4 37 24.8 XL 25.2 40.2 25.2
-  Updated: 2025-10-23T23:12:01Z
+  Updated: 2025-10-24T00:51:00Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2981,7 +2981,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/69970997521447278c9cdd284b7e91a1-Max-Origin.webp?v=1759686330
     Price: €26.12 EUR
 - [Lace Detail Drawstring Long Sleeve Hoodie](https://nicosstore.store/products/lace-detail-drawstring-long-sleeve-hoodie): Features:Lace Detail,Pocketed,Drawstring Stretch:Slightly stretchy Material composition:75% polyester, 25% cotton Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 25.2 40.2 27.4 M 26 42.5 28 L 26.8 44.9 28.5
-  Updated: 2025-10-23T21:30:35Z
+  Updated: 2025-10-24T02:02:45Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5203,7 +5203,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/c5aab92905d3818e0881196dbe061d18_10227a3461ed.jpg?v=1760042031
     Price: €15.28 EUR
 - [Devine Contrast Scoop Neck Short Sleeve T-Shirt](https://nicosstore.store/products/devine-contrast-scoop-neck-short-sleeve-t-shirt): Features: Basic style Sheer: Opaque Stretch: Moderate stretch Material composition: 93% viscose, 7% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Top Length Bust Shoulder S 4 18.9 31.5 7.7 M 6/8 19.3 33.1 8 L 10/12 19.7 35.4 8.4 XL 14 20.1 37.8 8.8
-  Updated: 2025-10-13T06:22:40Z
+  Updated: 2025-10-24T02:48:45Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5273,15 +5273,15 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/700d0874-dc5e-4e8e-82c8-bde8a7090f3c-Max.webp?v=1760293347
     Price: €13.79 EUR
   - [Black / S](https://nicosstore.store/products/devine-contrast-scoop-neck-short-sleeve-t-shirt?variant=55895185948997)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/826b4037-2662-4d12-a1df-03c571d78594-Max.webp?v=1760293347
     Price: €13.79 EUR
   - [Black / M](https://nicosstore.store/products/devine-contrast-scoop-neck-short-sleeve-t-shirt?variant=55895185981765)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/826b4037-2662-4d12-a1df-03c571d78594-Max.webp?v=1760293347
     Price: €13.79 EUR
   - [Black / L](https://nicosstore.store/products/devine-contrast-scoop-neck-short-sleeve-t-shirt?variant=55895186014533)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/826b4037-2662-4d12-a1df-03c571d78594-Max.webp?v=1760293347
     Price: €13.79 EUR
   - [Black / XL](https://nicosstore.store/products/devine-contrast-scoop-neck-short-sleeve-t-shirt?variant=55895186047301)
@@ -5289,7 +5289,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/826b4037-2662-4d12-a1df-03c571d78594-Max.webp?v=1760293347
     Price: €13.79 EUR
 - [Devine Star Round Neck Short Sleeve T-Shirt](https://nicosstore.store/products/devine-star-round-neck-short-sleeve-t-shirt): Features: Basic style Sheer: Opaque Stretch: Moderate stretch Material composition: 93% viscose, 7% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Top Length Bust Sleeve Length S 4 19.7 30.7 5.7 M 6/8 20.1 32.3 5.9 L 10/12 20.5 34.6 6.2 XL 14 20.9 37 6.5
-  Updated: 2025-10-23T09:49:26Z
+  Updated: 2025-10-24T02:48:45Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -6487,7 +6487,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/7ce51a3d-1690-408e-a089-0f07b170e388-Max.webp?v=1760381913
     Price: €10.99 EUR
 - [Devine Contrast Trim Round Neck Top and Pants Set](https://nicosstore.store/products/devine-contrast-trim-round-neck-top-and-pants-set): Features: Basic style Number of pieces: Two-piece Stretch: Slightly stretchy Material composition: 100% viscose Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements:S:Top Length 25.20 in, Bust 40.94 in, Shoulder 20.28 in, Sleeve Length 19.29 in, Bottom Length 40.16 in, HIP 36.22 in, Waist 22.05 in, inseam 29.53 inM:Top Length 25.69 in, Bust 42.91 in, Shoulder 21.26 in, Sleeve Length 19.49 in, Bottom Length 40.55 in, HIP 38.19 in, Waist 24.02 in, inseam 30.31 inL:Top Length 26.18 in, Bust 45.28 in, Shoulder 22.44 in, Sleeve Length 19.76 in, Bottom Length 41.14 in, HIP 40.55 in, Waist 26.38 in, inseam 31.30 inXL:Top Length 26.77 in, Bust 48.03 in, Shoulder 23.82 in, Sleeve Length 20.04 in, Bottom Length 41.73 in, HIP 43.31 in, Waist 29.13 in, inseam 32.28 in
-  Updated: 2025-10-14T07:03:33Z
+  Updated: 2025-10-24T02:48:50Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -6509,15 +6509,15 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/cb364e60-f440-48a9-a30c-eacd8dcd135b-Max.webp?v=1760382208
     Price: €29.99 EUR
   - [Black / S](https://nicosstore.store/products/devine-contrast-trim-round-neck-top-and-pants-set?variant=55922155979077)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/fe0144de-1466-4550-a437-ab7cb5495b4e-Max.webp?v=1760382208
     Price: €29.99 EUR
   - [Black / M](https://nicosstore.store/products/devine-contrast-trim-round-neck-top-and-pants-set?variant=55922156011845)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/fe0144de-1466-4550-a437-ab7cb5495b4e-Max.webp?v=1760382208
     Price: €29.99 EUR
   - [Black / L](https://nicosstore.store/products/devine-contrast-trim-round-neck-top-and-pants-set?variant=55922156044613)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/fe0144de-1466-4550-a437-ab7cb5495b4e-Max.webp?v=1760382208
     Price: €29.99 EUR
   - [Black / XL](https://nicosstore.store/products/devine-contrast-trim-round-neck-top-and-pants-set?variant=55922156077381)
@@ -6525,23 +6525,23 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/fe0144de-1466-4550-a437-ab7cb5495b4e-Max.webp?v=1760382208
     Price: €29.99 EUR
   - [Light Gray / S](https://nicosstore.store/products/devine-contrast-trim-round-neck-top-and-pants-set?variant=55922156110149)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/94be74aa-b73e-45e3-bf99-aed641cbb859-Max.webp?v=1760382208
     Price: €29.99 EUR
   - [Light Gray / M](https://nicosstore.store/products/devine-contrast-trim-round-neck-top-and-pants-set?variant=55922156142917)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/94be74aa-b73e-45e3-bf99-aed641cbb859-Max.webp?v=1760382208
     Price: €29.99 EUR
   - [Light Gray / L](https://nicosstore.store/products/devine-contrast-trim-round-neck-top-and-pants-set?variant=55922156175685)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/94be74aa-b73e-45e3-bf99-aed641cbb859-Max.webp?v=1760382208
     Price: €29.99 EUR
   - [Light Gray / XL](https://nicosstore.store/products/devine-contrast-trim-round-neck-top-and-pants-set?variant=55922156208453)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/94be74aa-b73e-45e3-bf99-aed641cbb859-Max.webp?v=1760382208
     Price: €29.99 EUR
 - [Devine Ruched Mock Neck Short Sleeve Blouse](https://nicosstore.store/products/devine-ruched-mock-neck-short-sleeve-blouse): Features: Basic style Sheer: Opaque Stretch: No stretch Material composition: 100% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements:S:Top Length 25.59 in, Bust 37.80 in, Shoulder 13.19 in, Sleeve Length 10.63 inM:Top Length 26.06 in, Bust 39.76 in, Shoulder 13.58 in, Sleeve Length 10.83 inL:Top Length 26.65 in, Bust 42.13 in, Shoulder 13.98 in, Sleeve Length 11.10 in
-  Updated: 2025-10-14T07:04:51Z
+  Updated: 2025-10-24T02:46:41Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -7708,7 +7708,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/43b2a44cdb114c82bc84f710030815cf-Max-Origin.webp?v=1761067651
     Price: €32.99 EUR
 - [Unisex Sweatshirt](https://nicosstore.store/products/unisex-sweatshirt-2): Each unique, all-over printed sweatshirt is precision-cut and hand-sewn to achieve the best possible look and bring out the intricate design. What's more, the durable fabric with a cotton-feel face and soft brushed fleece inside means that this sweatshirt is bound to become your favorite for a long time. • 96% recycled polyester, 4% elastane for manufacturing in the US/Mexico • 95% recycled polyester, 5% elastane for manufacturing in Latvia • Fabric weight (may vary by 5%): 9.08 oz./yd.² (308 g/m²) • Soft cotton-feel face • Brushed fleece fabric inside • Unisex fit • Overlock seams • Blank components sourced from China This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Age restrictions: For adults EU Warranty: 2 years Other compliance information: Meets the flammability, and formaldehyde, lead, cadmium, phthalates, azo dyes, bisphenols and mercury level requirements. In compliance with the General Product Safety Regulation (GPSR), Albu Nicolae ensures that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact us at nikualbu92@gmail.com or write to us Atzberg 18, Mitterskirskirchen ,84335 ,DE.Size guide CHEST (inches) WAIST (inches) HIPS (inches) 2XS 34 ⅝ 28 ⅜ 35 ⅜ XS 36 ¼ 29 ⅞ 37 S 37 ¾ 31 ½ 38 ⅝ M 39 ⅜ 33 ⅛ 40 ⅛ L 42 ½ 36 ¼ 43 ¼ XL 45 ⅝ 39 ⅜ 46 ½ 2XL 48 ⅞ 42 ½ 49 ⅝ 3XL 52 45 ⅝ 52 ¾ 4XL 55 ⅛ 48 ⅞ 55 ⅞ 5XL 58 ¼ 52 59 6XL 61 ⅜ 55 ⅛ 62 ¼ CHEST (cm) WAIST (cm) HIPS (cm) 2XS 88 72 90 XS 92 76 94 S 96 80 98 M 100 84 102 L 108 92 110 XL 116 100 118 2XL 124 108 126 3XL 132 116 134 4XL 140 124 142 5XL 148 132 150 6XL 156 140 158
-  Updated: 2025-10-23T20:29:27Z
+  Updated: 2025-10-24T07:40:52Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
