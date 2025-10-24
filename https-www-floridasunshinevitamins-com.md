@@ -6,82 +6,82 @@
 - Timezone: Europe/London
 - Created At: 2024-09-13T14:03:24Z
 - Contact Email: info@floridasunshine.co.uk
-- Updated At: 2025-10-24T00:00:58.009Z
+- Updated At: 2025-10-24T04:00:31.976Z
 
 ## Products
 
 - [Premium CoQ10 - 60 Capsules (200mg) - £0.27 per capsule](https://www.floridasunshinevitamins.com/products/coq10): CoQ10 (Ubiquinone) levels naturally decline with age and may also be depleted by certain medications (such as statins), diseases, and strenuous physical activity. Supplementing with CoQ10 can be beneficial, particularly for individuals with conditions related to cardiovascular health, aging, and energy metabolism.
-  Updated: 2025-10-23T11:59:39Z
+  Updated: 2025-10-24T00:07:05Z
   Vendor: Florida Sunshine Vitamins
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0900/3073/5699/files/2_4050cd80-40df-41d9-a06a-22e5e6364f46.png?v=1760159037
   Price: £15.99 GBP
 - [Liposomal Quercetin - 120 Capsules (250mg) - £0.15 per capsule](https://www.floridasunshinevitamins.com/products/liposomal-quercetin): Quercetin, a natural antioxidant found in many fruits and vegetables, helps support the body's immune system, reduce inflammation, and protect cells from oxidative stress. It is a polyphenolic flavonoid compound, different to regular quercetin which has poor water solubility, resulting in limited bioavailability.
-  Updated: 2025-10-23T12:28:48Z
+  Updated: 2025-10-24T00:07:57Z
   Vendor: Florida Sunshine Vitamins
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0900/3073/5699/files/2_c2a51466-3f6f-420b-b9e9-0e69fb9bd867.png?v=1760158445
   Price: £16.99 GBP
 - [Liposomal Vitamin C - 120 Capsules (500mg) - £0.15 per capsule](https://www.floridasunshinevitamins.com/products/liposomal-vitamin-c): Vitamin C has multiple therapeutic, anti-inflammatory, immune-boosting, anti-aging and beauty benefits that help the entire body, from the surface of the skin to deep within the cellular structure.
-  Updated: 2025-10-23T12:28:37Z
+  Updated: 2025-10-24T00:13:00Z
   Vendor: Florida Sunshine Vitamins
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0900/3073/5699/files/liposomal_vit_C_623164a4-fc1f-4280-9329-07b2a7d32f01.png?v=1757068060
   Price: £16.99 GBP
 - [Liposomal Vitamin D3 - 90 Capsules (125mcg) - £0.19 per capsule](https://www.floridasunshinevitamins.com/products/liposomal-vitamin-d3): Vitamin D3 is essential for maintaining bone and muscle health, supporting the immune system, regulating mood, and reducing the risk of various chronic diseases. Regular exposure to sunlight, a balanced diet, and supplementation (if necessary) are key to maintaining adequate Vitamin D3 levels.
-  Updated: 2025-10-23T12:28:29Z
+  Updated: 2025-10-24T00:16:02Z
   Vendor: Florida Sunshine Vitamins
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0900/3073/5699/files/Untitleddesign-2025-10-22T131516.529.png?v=1761128294
   Price: £16.99 GBP
 - [Lutein Complex - 60 Capsules (200mg) - £0.25 per capsule](https://www.floridasunshinevitamins.com/products/lutein-complex): Lutein is primarily found in green leafy vegetables like spinach and kale, as well as in other foods like eggs, corn, and oranges. While lutein supplements are available, it is often recommended to obtain this nutrient through a balanced diet rich in fruits and vegetables.
-  Updated: 2025-10-23T22:01:51Z
+  Updated: 2025-10-24T00:19:45Z
   Vendor: Florida Sunshine Vitamins
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0900/3073/5699/files/2_928d2132-0ffc-4ab3-b914-5a8b98f7701c.png?v=1760156899
   Price: £14.99 GBP
 - [Vitamin C & D3 Bundle – Liposomal Absorption](https://www.floridasunshinevitamins.com/products/liposomal-vitamin-c-d-bundle): Boost your health with Liposomal Vitamin C and Vitamin D3, featuring advanced absorption technologies for maximum benefits.
-  Updated: 2025-10-23T12:31:23Z
+  Updated: 2025-10-24T00:31:30Z
   Vendor: Florida Sunshine Vitamins
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0900/3073/5699/files/1_bc3a2a1a-3a95-4e80-922b-b21da8a6f6e3.png?v=1760160411
   Price: £54.99 GBP
 - [Daily Defender Bundle](https://www.floridasunshinevitamins.com/products/daily-defender-bundle): The Daily Defender Bundle brings together three powerful supplements to support your immune system, boost cellular energy, and help you stay resilient, focused, and energized every day. With advanced liposomal delivery systems for maximized absorption, this trio works together to keep you feeling your best. Liposomal PureWay-CA fast-absorbing form of Vitamin C that plays a role in supporting the normal function of the immune system and providing antioxidant protection. Liposomal QuercetinKnown for its role in supporting the body’s natural defenses, Quercetin helps maintain balance and manage oxidative stress, ensuring you stay protected throughout the day. CoQ10Supports cellular energy production, contributing to heart health and overall vitality, so you can tackle daily demands with confidence. Ideal For: Adults looking for extra immune support in their daily routine. Those experiencing high levels of stress or fatigue. Frequent travelers in need of consistent wellness support on the go. With the Daily Defender Bundle, you’re not just supporting your immune system, you’re fueling your body with essential nutrients to stay strong, energized, and resilient. *These statements have not been evaluated by any food standards agency. This product is not intended to diagnose, treat, or cure. Consult a physician before beginning a supplement routine.
-  Updated: 2025-10-23T22:01:55Z
+  Updated: 2025-10-24T00:36:21Z
   Vendor: Florida Sunshine Vitamins
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0900/3073/5699/files/1_6442601e-e760-41e6-b5c9-63ab0e76cb8b.png?v=1760159951
   Price: £46.99 GBP
 - [Core Wellness Bundle](https://www.floridasunshinevitamins.com/products/core-wellness-bundle): The Core Wellness Bundle brings together three essential supplements to support your immune resilience, energy production, and long-term eye health. This carefully selected trio helps you maintain balance and vitality as you age, offering foundational support for overall well-being. Liposomal PureWay-CA highly absorbable form of Vitamin C that plays a role in supporting the normal function of the immune system and overall wellness. LuteinAn antioxidant that plays a role in supporting eye health and maintaining cognitive function. CoQ10Supports cellular energy production and heart health, helping you stay active and energized throughout the day. Ideal For: Adults over 40 looking to maintain overall health. Anyone focused on daily energy, immune function, and eye wellness. Those seeking a simple, well-rounded approach to long-term vitality. With the Core Wellness Bundle, you’re investing in daily wellness that supports your body, sharpens your mind, and helps protect your vision. *These statements have not been evaluated by any food standards agency. This product is not intended to diagnose, treat, or cure. Consult a physician before beginning a supplement routine.
-  Updated: 2025-10-23T12:42:27Z
+  Updated: 2025-10-24T00:42:32Z
   Vendor: Florida Sunshine Vitamins
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0900/3073/5699/files/1.png?v=1760159765
   Price: £48.99 GBP
 - [Focus & Flow Bundle](https://www.floridasunshinevitamins.com/products/focus-flow-bundle): The Focus & Flow Bundle brings together three powerful supplements to support brain function, protect your eyes from digital strain, and fuel your body with lasting energy. This trio is perfect for today’s fast-paced, screen-heavy lifestyle, helping you stay sharp, energized, and focused throughout the day. CoQ10Supports cellular energy production and heart health, helping you stay energized and active throughout long hours. LuteinAn antioxidant that supports eye health and helps protect against the effects of prolonged screen time. Liposomal QuercetinSupports cognitive balance and helps the body manage daily stressors, contributing to resilience. Ideal For: Professionals needing focus and stamina during demanding workdays. Students looking for study support. Gamers who spend extended hours in front of screens. Anyone with high screen time seeking brain and eye wellness. The Focus & Flow Bundle supports mental clarity, energy levels, and eye health, helping you stay prepared for your daily tasks and challenges. *These statements have not been evaluated by any food standards agency. This product is not intended to diagnose, treat, or cure. Consult a physician before beginning a supplement routine.
-  Updated: 2025-10-23T22:01:55Z
+  Updated: 2025-10-24T00:48:06Z
   Vendor: Florida Sunshine Vitamins
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0900/3073/5699/files/1_1ec5ff6d-f93e-4f18-bb4c-a21f607b811b.png?v=1760160278
   Price: £46.99 GBP
 - [Enhanced Immunity Bundle](https://www.floridasunshinevitamins.com/products/enhanced-immunity-bundle): The Enhanced Immunity Bundle combines three advanced liposomal supplements to help support your immune system, promote mood balance, and manage inflammation. These supplements work together to help you stay resilient, especially during the colder months. Liposomal Vitamin D3Supports the normal function of the immune system and plays a role in bone health. Particularly beneficial in regions with limited sunlight. Liposomal PureWay-CA highly bioavailable form of Vitamin C that plays a role in supporting immune function and providing antioxidant protection. Liposomal QuercetinSupports the body’s natural inflammatory response and helps maintain overall balance. Ideal For: The winter months when immune support and mood balance may be needed. Adults living in low-sunlight regions. Anyone seeking additional immune support alongside overall wellness benefits. With the Enhanced Immunity Bundle, you're supporting your immune system and reinforcing your overall health, helping you stay balanced and prepared for the season. *These statements have not been evaluated by any food standards agency. This product is not intended to diagnose, treat, or cure. Consult a physician before beginning a supplement routine.
-  Updated: 2025-10-23T12:51:54Z
+  Updated: 2025-10-24T00:52:00Z
   Vendor: Florida Sunshine Vitamins
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0900/3073/5699/files/1_86b67690-b4f2-46e1-801a-64cc27b07955.png?v=1760160149
   Price: £49.99 GBP
 - [Family Pack](https://www.floridasunshinevitamins.com/products/family-pack): Keep your household stocked with this convenient 4-bottle supply of Liposomal Vitamin C, a highly absorbable form of Vitamin C that supports the normal function of the immune system and provides antioxidant protection. This pack is perfect for families looking for an easy way to incorporate Vitamin C into their daily routine. With four full bottles in one pack, there’s enough for everyone at home or peace of mind knowing you won’t run out soon. Ideal For: Families seeking reliable daily immune support. Individuals who prefer to stock up and avoid frequent reorders. Anyone looking for consistent support in their health routine. The Family Pack makes it easy to prioritize wellness every day for you and your loved ones. *These statements have not been evaluated by any food standards agency. This product is not intended to diagnose, treat, or cure. Consult a physician before beginning a supplement routine.
-  Updated: 2025-10-23T12:58:16Z
+  Updated: 2025-10-24T00:58:22Z
   Vendor: Florida Sunshine Vitamins
   Product Type: 
   Availability: Available
