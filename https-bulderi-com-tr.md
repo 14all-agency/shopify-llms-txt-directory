@@ -10,7 +10,7 @@
 - Contact Email: info@bulderi.com.tr
 - Contact Phone: +908503089625
 - Address: Yakuplu Mah. Hürriyet Blv. Skyport Residence No:1/151 Beylikdüzü, İstanbul / Türkiye
-- Updated At: 2025-10-24T12:00:45.171Z
+- Updated At: 2025-10-24T16:00:43.349Z
 
 ## Products
 
@@ -226,7 +226,7 @@
   Image: https://cdn.shopify.com/s/files/1/0641/0643/0652/files/Klasik-Hakiki-Deri-Cuzdan-Siyah11.png?v=1717875545
   Price: ₺650,00 TRY
 - [Akordiyonlu Hakiki Deri Kartlık - Bulderi](https://bulderi.com.tr/products/akardiyonlu-hakiki-deri-kartlik): Şıklığı ve fonksiyonelliği bir araya getiren Akordiyonlu Hakiki Deri Kartlık, hakiki dana derisinden özenle üretilmiştir. Bu eşsiz ürün, hem erkekler hem de kadınlar için ideal bir ortak kullanım ürünüdür. Kaliteli işçiliği ile öne çıkan kartlık, dayanıklılığı ve zarafeti bir arada sunar.
-  Updated: 2025-09-03T17:56:41Z
+  Updated: 2025-10-24T12:31:40Z
   Vendor: Bulderi
   Product Type: Kartlık
   Availability: Available
