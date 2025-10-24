@@ -6,7 +6,7 @@
 - Timezone: Europe/Rome
 - Created At: 2025-07-12T12:43:54Z
 - Contact Email: lazywhiskers.store@gmail.com
-- Updated At: 2025-10-23T04:00:33.607Z
+- Updated At: 2025-10-24T00:00:43.391Z
 
 ## Products
 
