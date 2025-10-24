@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2024-06-01T16:53:27Z
 - Contact Email: Support@ursupermart.com
-- Updated At: 2025-10-24T14:46:16.879Z
+- Updated At: 2025-10-24T16:00:52.141Z
 
 ## Products
 
@@ -15545,7 +15545,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/sequin-prom-dress-burgundy-sleeveless-cocktail.webp?v=1744069826
     Price: $57.95 USD
 - [Form-Fitting Sequin Dress for Hourglass Figure | Red & Blue](https://ursupermart.com/products/elegant-sequin-dress-with-sleeves-formal-events): Make a statement in our form-fitting sequin dress for hourglass figure. This elegant long sleeve design is perfect for formal events & cocktail parties.
-  Updated: 2025-10-23T17:47:23Z
+  Updated: 2025-10-24T15:39:42Z
   Vendor: S1B|Meta - Trendsi
   Product Type: Cocktail Dress
   Availability: Available
