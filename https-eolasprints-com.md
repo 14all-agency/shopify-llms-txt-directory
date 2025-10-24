@@ -10,7 +10,7 @@
 - Contact Email: support@eolasprints.com
 - Contact Phone: +34-942735955
 - Address: Parque Empresarial Besaya D14, Reocín 39538, Cantabria, Spain
-- Updated At: 2025-10-23T12:00:37.923Z
+- Updated At: 2025-10-24T16:00:38.936Z
 
 Welcome to Eolas Prints - Your Trusted 3D Printing & Digital Fabrication Partner
 
@@ -95,7 +95,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/pla-ingeo-870-filament-white-football-helmet-1-75-mm-1-kg-372.webp?v=1725009998
     Price: €30.50 EUR
 - [Pla Filament 1.75 Mm for Food Contact Applications](https://eolasprints.com/products/pla-filament-1-75-mm): Eolas Prints PLA filament in 1.75mm diameter offers premium quality in over 20 colors. A versatile material for 3D printing, suitable for food contact items.
-  Updated: 2025-10-22T11:00:23Z
+  Updated: 2025-10-24T13:22:06Z
   Vendor: Eolas Prints
   Product Type: 3D Printer Filament
   Availability: Available
@@ -901,7 +901,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/pla-matte-filament-bright-yellow-vase-1-75-mm-1-kg-484.webp?v=1724968476
     Price: €25.50 EUR
 - [3d Printer Filament Sample Pack with Pla Abs Petg](https://eolasprints.com/products/sample-3d-printer-filaments): Eolas Prints filament sample packs contain PLA filament, PETG, TPU, and ABS. This assortment is for testing new materials. Includes carbon-neutral shipping.
-  Updated: 2025-10-13T08:22:45Z
+  Updated: 2025-10-23T21:19:15Z
   Vendor: Eolas Prints
   Product Type: 3D Printer Filament
   Availability: Available
@@ -1160,7 +1160,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/tpu-flex-filament-d60-uv-resistant-white-spool-3d-1-75-m-1-kg-812.webp?v=1759097274
     Price: €37.90 EUR
 - [Premium Asa Filament for Professional 3d Printing](https://eolasprints.com/products/asa-filament): Eolas Prints premium ASA filament delivers exceptional performance for challenging environments. An advanced material with superior capabilities for any ASA 3D printer.
-  Updated: 2025-10-09T07:57:32Z
+  Updated: 2025-10-24T14:17:46Z
   Vendor: Eolas Prints
   Product Type: 3D Printer Filament
   Availability: Available
@@ -1408,7 +1408,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/original-prusa-mini-semi-assembled-orange-black-3d-848.webp?v=1745446094
   Price: €549.00 EUR
 - [Premium Pla Neon Filament for Vibrant 3d Prints](https://eolasprints.com/products/pla-neon-filament): Eolas Prints premium PLA neon filament offers a vibrant, eye-catching finish for 3D printing. This high-quality material minimizes layer lines for smoother prints.
-  Updated: 2025-10-15T08:53:25Z
+  Updated: 2025-10-24T14:17:45Z
   Vendor: Eolas Prints
   Product Type: 3D Printer Filament
   Availability: Available
@@ -1635,17 +1635,65 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/bambu-lab-h2s-sleek-gray-3d-733.webp?v=1760478063
     Price: €1,549.00 EUR
+- [Xtool P2s 55w Desktop Co2 Laser Cutter Engraver](https://eolasprints.com/products/xtool-p2s-55w-desktop-co2-laser-cutter): The xTool P2S from Eolas Prints is a 55W desktop CO2 laser cutter for high-precision cutting, scoring, and detailed engraving on numerous materials.
+  Updated: 2025-10-23T23:07:17Z
+  Vendor: xTOOL
+  Product Type: Laser Engravers and Cutters
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/xtool-p2s-55w-desktop-co2-laser-cutter-machine-100.webp?v=1761218580
+  - [Black / Standalone bundle](https://eolasprints.com/products/xtool-p2s-55w-desktop-co2-laser-cutter?variant=52609711538503)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/xtool-p2s-55w-desktop-co2-laser-cutter-machine-100.webp?v=1761218580
+    Price: €4,199.00 EUR
+  - [Black / Versatile bundle](https://eolasprints.com/products/xtool-p2s-55w-desktop-co2-laser-cutter?variant=52609711571271)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/xtool-p2s-55w-desktop-co2-laser-cutter-versatile-591.webp?v=1761218641
+    Price: €5,299.00 EUR
+  - [Black / All-in-one Bundle](https://eolasprints.com/products/xtool-p2s-55w-desktop-co2-laser-cutter?variant=52609711604039)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/xtool-p2s-55w-desktop-co2-laser-cutter-all-107.webp?v=1761218647
+    Price: €5,999.00 EUR
+  - [White / Standalone bundle](https://eolasprints.com/products/xtool-p2s-55w-desktop-co2-laser-cutter?variant=52609772683591)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/xtool-p2s-55w-desktop-co2-laser-cutter-white-gold-923.webp?v=1761218593
+    Price: €4,199.00 EUR
+  - [White / Versatile bundle](https://eolasprints.com/products/xtool-p2s-55w-desktop-co2-laser-cutter?variant=52609772716359)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/xtool-p2s-55w-desktop-co2-laser-cutter-white-machine-519.webp?v=1761218653
+    Price: €5,299.00 EUR
+  - [White / All-in-one Bundle](https://eolasprints.com/products/xtool-p2s-55w-desktop-co2-laser-cutter?variant=52609772749127)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/xtool-p2s-55w-desktop-co2-laser-cutter-white-gold-683.webp?v=1761218659
+    Price: €5,999.00 EUR
+- [Xtool P3 80w Co2 Laser Cutter with Automation](https://eolasprints.com/products/xtool-p3-80w-flagship-co2-laser-cutter-with-intelligent-automation): The xTool P3 80W Flagship CO2 Laser Cutter from Eolas Prints has intelligent automation, delivering precise, high-quality results for creative projects.
+  Updated: 2025-10-24T09:27:19Z
+  Vendor: xTOOL
+  Product Type: Laser Engravers and Cutters
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/xtool-p3-80w-flagship-co2-laser-cutter-with-intelligent-automation-3d-231.webp?v=1761257771
+  - [Standalone bundle](https://eolasprints.com/products/xtool-p3-80w-flagship-co2-laser-cutter-with-intelligent-automation?variant=52613008556359)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/xtool-p3-80w-flagship-co2-laser-cutter-with-intelligent-automation-373.webp?v=1761257837
+    Price: €7,049.00 EUR
+  - [Versatile bundle](https://eolasprints.com/products/xtool-p3-80w-flagship-co2-laser-cutter-with-intelligent-automation?variant=52613008589127)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/xtool-p3-80w-flagship-co2-laser-cutter-with-intelligent-automation-667.webp?v=1761257843
+    Price: €8,449.00 EUR
+  - [All-in-one Bundle](https://eolasprints.com/products/xtool-p3-80w-flagship-co2-laser-cutter-with-intelligent-automation?variant=52613008621895)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0617/1852/8259/files/xtool-p3-80w-flagship-co2-laser-cutter-with-intelligent-automation-667.webp?v=1761257843
+    Price: €10,699.00 EUR
 
 ## Collections
 
 - [Certified High Speed Pla and Transition Filament](https://eolasprints.com/collections/pla): Eolas Prints PLA provides high quality filaments including multi-colour and high speed PLA. Our materials are ISO certified and REACH compliant for consistent printing.
-  Updated: 2025-10-22T11:14:56Z
+  Updated: 2025-10-24T11:14:40Z
   Total Products: 12
 - [Petg and Transition Filament for 3d Prints](https://eolasprints.com/collections/petg): The Eolas Prints PETG collection offers premium multi-colour and petg transition filament. All materials are ISO and REACH certified for superior quality and safety.
-  Updated: 2025-10-23T11:16:13Z
+  Updated: 2025-10-24T11:14:40Z
   Total Products: 5
 - [Tpu Flex Filament and Tpu Transition Filament](https://eolasprints.com/collections/tpu): Eolas Prints TPU offers premium, multi-colour tpu flex filament for 3D printing. Our materials are ISO and REACH certified for high-quality, reliable results.
-  Updated: 2025-10-23T11:16:13Z
+  Updated: 2025-10-24T11:14:40Z
   Total Products: 6
 - [OrderlyEmails - Recommended Products](https://eolasprints.com/collections/orderlyemails-recommended-products): This collection features recommended products for the OrderlyEmails app. It is automatically updated with our best-selling Eolas Prints for notification emails.
   Updated: 2025-09-28T22:37:41Z
@@ -1663,7 +1711,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   Updated: 2025-10-11T00:44:14Z
   Total Products: 5
 - [3d Printer Filament Pla Tpu Petg Abs Asa](https://eolasprints.com/collections/3d-printer-filament): Eolas Prints offers a premium collection of certified 3D printer filaments, including our high-performance Eolas Prints PLA, durable PETG, and flexible TPU.
-  Updated: 2025-10-23T11:16:13Z
+  Updated: 2025-10-24T11:14:40Z
   Total Products: 22
 - [New 3d Printing Innovations by Thought3d Magigoo](https://eolasprints.com/collections/new-arrivals): The latest collection at Eolas Prints includes the new Flashforge AD5X Multi-Colour printer and Thought3D products, all certified to ISO and REACH standards.
   Updated: 2025-10-18T11:11:53Z
@@ -1672,11 +1720,11 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   Updated: 2025-10-11T00:45:51Z
   Total Products: 1
 - [Codigo Escuela 4.0: 3d Printing in Education](https://eolasprints.com/collections/codigo-escuela-4-0): The Codigo Escuela 4.0 collection from Eolas Prints provides 3D printers like Bambu Lab for modern education and digital literacy in Spain.
-  Updated: 2025-10-22T11:14:56Z
+  Updated: 2025-10-24T11:14:40Z
   Total Products: 9
 - [Craft Machines for Home Projects and 3d Printing](https://eolasprints.com/collections/craft-machines): This collection of craft machines from Eolas Prints includes the Flashforge AD5X. ISO quality and environment management download certificates are available.
-  Updated: 2025-10-23T11:16:13Z
-  Total Products: 8
+  Updated: 2025-10-23T22:29:28Z
+  Total Products: 9
 - [3d Printing Equipment and Supplies Online Store](https://eolasprints.com/collections/3d-printers): Eolas Prints offers a professional collection of 3D printers, including the Flashforge AD5X. Our certified machines meet ISO and REACH quality standards.
   Updated: 2025-10-23T00:35:54Z
   Total Products: 19
