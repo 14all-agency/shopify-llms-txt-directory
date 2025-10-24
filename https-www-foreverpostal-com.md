@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2025-07-18T07:16:51Z
 - Contact Email: help@foreverpostal.com
-- Updated At: 2025-10-24T00:01:03.339Z
+- Updated At: 2025-10-24T12:00:36.967Z
 
 At our dedicated stamp store, we invite enthusiasts and collectors alike to explore a world of philately. Stamps are not just postal essentials; they are tiny pieces of art that carry stories and depict history. Whether you are a seasoned collector or just starting, our store has something for everyone.
 
@@ -272,7 +272,7 @@ At our dedicated stamp store, we invite enthusiasts and collectors alike to expl
   Image: https://cdn.shopify.com/s/files/1/0715/3926/1639/files/LOVE2015_daa07917-a0b0-450d-9ded-4582bd2bbef7.jpg?v=1758621876
   Price: $59.00 USD
 - [Love 2023 Forever Stamps 100pcs - Forever Postal](https://www.foreverpostal.com/products/love-2023-forever-stamps-100pcs): Description:20 stamps/page * 5 pages.You got 100 stamps in total.Background:Cats and dogs are two of America s favorite pets, and it is no surprise that connecting with pets has benefits.Pets provide companionship and love;interacting with a cuddly kitten or a playful puppy can reduce loneliness and raise spirits.Evoking feelings of warmth and playfulness, each stamp shows a cute and cuddly animal resting its front paws on a big red heart.Sure to add a bit of whimsy to your valentines, these adorable stamps are also suitable for use on letters and cards throughout the year. - Forever Postal
-  Updated: 2025-10-19T14:57:58Z
+  Updated: 2025-10-24T10:22:00Z
   Vendor: Forever Postal
   Product Type: FLOWER
   Availability: Available
@@ -345,16 +345,16 @@ At our dedicated stamp store, we invite enthusiasts and collectors alike to expl
 ## Collections
 
 - [Flower Stamps - Forever Postal](https://www.foreverpostal.com/collections/frontpage): - Forever Postal
-  Updated: 2025-10-23T11:17:28Z
+  Updated: 2025-10-24T11:17:25Z
   Total Products: 27
 - [Flag Stamps - Forever Postal](https://www.foreverpostal.com/collections/flag-stamps): - Forever Postal
-  Updated: 2025-10-23T11:17:28Z
+  Updated: 2025-10-24T11:17:24Z
   Total Products: 8
 - [Holiday stamps - Forever Postal](https://www.foreverpostal.com/collections/holiday-stamps): - Forever Postal
-  Updated: 2025-10-23T11:17:28Z
+  Updated: 2025-10-24T11:17:24Z
   Total Products: 13
 - [New! Shopify performance sharing is now turned on - Forever Postal](https://www.foreverpostal.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel. - Forever Postal
-  Updated: 2025-10-23T11:17:28Z
+  Updated: 2025-10-24T11:17:25Z
   Total Products: 47
 
 ## Store Pages
