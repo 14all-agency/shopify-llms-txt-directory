@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-03-10T14:11:59Z
 - Contact Email: info@surgismart.in
-- Updated At: 2025-10-23T16:00:36.853Z
+- Updated At: 2025-10-24T16:00:37.641Z
 
 ## Products
 
@@ -2966,7 +2966,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/Untitled-design-42.png?v=1759478903
   Price: ₹10,999.00 INR
 - [Buy ​iCare Udaan Black 888 Folding Wheelchair IN Epoxy Finish With Mag Wheel - Surgismart](https://surgismart.in/products/icare-folding-wheelchair-in-epoxy-finish-with-mag-wheel): Folding Wheelchair (udaan Swift) The Udaan Swift is versatile, modular, and available in an endless number of configurations. An industry favorite wheelchair manufacturing company in India for over 33 years. Weight 15.00Kgs Seat Width 14,16 18” Load Capacity 100 Kgs - Surgismart
-  Updated: 2025-10-03T08:08:23Z
+  Updated: 2025-10-24T03:56:55Z
   Vendor: iCare
   Product Type: Wheelchair
   Availability: Available
