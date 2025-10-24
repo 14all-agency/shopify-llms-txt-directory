@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2025-09-22T20:38:47Z
 - Contact Email: gemzmorris890@gmail.com
-- Updated At: 2025-10-23T20:00:51.721Z
+- Updated At: 2025-10-24T08:00:37.987Z
 
 ## Products
 
@@ -5071,7 +5071,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/OFD35xt6DJBgYlhz.webp?v=1760986569
     Price: £102.80 GBP
 - [Leopard Round Neck Raglan Sleeve Sweatshirt](https://trendytradesforyou.myshopify.com/products/leopard-round-neck-raglan-sleeve-sweatshirt): A comfortable leopard print sweatshirt featuring a round neck and raglan sleeves. Made from 95% polyester and 5% spandex with a slightly stretchy fit.Care: Machine wash cold, tumble dry low. Size Top Length Bust Sleeve Length S 25.2 42.5 27.2 M 25.6 44.5 27.6 L 26 46.5 28 XL 26.4 49.2 28.3 2XL 26.8 52 28.7
-  Updated: 2025-10-23T16:17:47Z
+  Updated: 2025-10-24T02:21:57Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5101,7 +5101,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/f149de1986b64c6e97a88e05227114c0-Max-Origin.webp?v=1760995514
     Price: £29.99 GBP
   - [Brown / M](https://trendytradesforyou.myshopify.com/products/leopard-round-neck-raglan-sleeve-sweatshirt?variant=52625127211341)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/f149de1986b64c6e97a88e05227114c0-Max-Origin.webp?v=1760995514
     Price: £29.99 GBP
   - [Brown / L](https://trendytradesforyou.myshopify.com/products/leopard-round-neck-raglan-sleeve-sweatshirt?variant=52625127244109)
@@ -5197,7 +5197,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/9b25af2d77424c8d8c9eb3999bcb3d5a-Max-Origin.webp?v=1760995514
     Price: £29.99 GBP
 - [Sequin Santa Striped Round Neck Long Sleeve Sweatshirt](https://trendytradesforyou.myshopify.com/products/sequin-santa-striped-round-neck-long-sleeve-sweatshirt): Features: Sequin Sheer: Opaque Stretch: Slightly stretchy Material composition: 70% polyester, 25% cotton, 5% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Bust Shoulder Sleeve Length Top Length S 4 46.5 27.6 17.5 26.4 M 6/8 48.8 28.7 17.7 27.2 L 10/12 51.2 29.9 17.9 28 XL 14/16 54.3 31.5 17.9 28.7
-  Updated: 2025-10-23T14:57:29Z
+  Updated: 2025-10-24T07:41:30Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5219,7 +5219,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/e1c1cb4f-23ea-4524-82df-fc3692090b79-Max.webp?v=1760995832
     Price: £29.99 GBP
 - [Christmas Santa Print Round Neck Top and Shorts Lounge Set](https://trendytradesforyou.myshopify.com/products/christmas-santa-print-round-neck-top-and-shorts-lounge-set): Features:Basic style Number of pieces:Two-piece Stretch:Slightly stretchy Material composition:95% polyester, 5% elastane Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Hip Bust Sleeve Length Waist Length S 24 40.9 40.6 20.3 26 13.8 M 24.8 43.3 42.9 20.5 28.3 14.2 L 25.6 45.7 45.3 20.7 30.7 14.6 XL 26.4 48.8 48.4 20.7 33.9 15
-  Updated: 2025-10-23T19:50:38Z
+  Updated: 2025-10-24T05:20:55Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5257,7 +5257,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/98011ac2-67db-46a5-9ea2-c2ee418c06d0-Max-Origin.webp?v=1760995912
     Price: £32.99 GBP
 - [Solid Color Oversize Slit Sweatshirt and Ribbed Leggings 2pcs Set](https://trendytradesforyou.myshopify.com/products/solid-color-oversize-slit-sweatshirt-and-ribbed-leggings-2pcs-set): Features:Basic style Number of pieces:Two-piece Stretch:Slightly stretchy Material composition:65% polyester, 35% cotton Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Top Length Bust Bottom Length Hip S 24.4 27 42.9 38.6 27.6 M 26.8 27.8 45.3 39 29.9 L 29.1 28.5 47.6 39.4 32.3 XL 32.3 29.3 50.8 39.8 35.4
-  Updated: 2025-10-23T19:10:38Z
+  Updated: 2025-10-24T04:03:11Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5655,7 +5655,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/bb21eb4bd50a4f3c8930a1de19db23a4-Max-Origin.webp?v=1761052163
     Price: £24.99 GBP
 - [Cable-Knit Round Neck Sweater Dress](https://trendytradesforyou.myshopify.com/products/cable-knit-round-neck-sweater-dress): Features: Cable-Knit Stretch: Slightly stretchy Material composition: 100% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Bust Shoulder Sleeve Length Hip Length S 4 42.5 22.4 21.7 38.2 31.9 M 6/8 44.9 23.6 21.7 40.6 32.7 L 10/12 47.2 24.8 21.7 42.9 33.5 XL 14/16 50.4 26.4 21.7 46.1 34.3
-  Updated: 2025-10-23T19:10:36Z
+  Updated: 2025-10-24T07:01:21Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5673,7 +5673,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/3536365a-485e-4815-b659-84d567aff8e7-Max.webp?v=1761055977
     Price: £37.99 GBP
   - [Sage / XL](https://trendytradesforyou.myshopify.com/products/cable-knit-round-neck-sweater-dress?variant=52629554659661)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/3536365a-485e-4815-b659-84d567aff8e7-Max.webp?v=1761055977
     Price: £37.99 GBP
   - [Black / S](https://trendytradesforyou.myshopify.com/products/cable-knit-round-neck-sweater-dress?variant=52629554692429)
@@ -5725,7 +5725,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/e2fb223d-21ee-4ae3-9e12-2a0a7dfbf3b2-Max.webp?v=1761055976
     Price: £37.99 GBP
 - [Oversized Long Sleeve Longline Cardigan](https://trendytradesforyou.myshopify.com/products/oversized-long-sleeve-longline-cardigan): Features:Oversized,Cable-Knit,Pocketed Stretch:Slightly stretchy Material composition:95%Acrylic,5%spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 35.4 40.2 18.9 M 35.8 41.7 19.3 L 36.2 43.3 19.7 XL 36.6 44.9 20.1 2XL 37 46.5 20.3
-  Updated: 2025-10-22T10:17:11Z
+  Updated: 2025-10-23T20:02:58Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -6579,7 +6579,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/546db321-09b2-4366-845a-9705df2a96cd-Max-Origin.webp?v=1761084802
     Price: £23.99 GBP
 - [Double Take Full Size Nutcracker Sequin Bow Decor Cardigan](https://trendytradesforyou.myshopify.com/products/double-take-full-size-nutcracker-sequin-bow-decor-cardigan): Features: Sequin, Bow Stretch: Moderate stretch Material composition: 100% acrylic Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Shoulder Bust Sleeve Length S/M 22.4 21.7 42.1 21.3 L/XL 23.2 23.2 46.1 21.3 2XL/3XL 24 24.8 50 21.3
-  Updated: 2025-10-23T18:08:30Z
+  Updated: 2025-10-24T04:45:16Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
