@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2025-01-13T13:26:43Z
 - Contact Email: info@amar.al
-- Updated At: 2025-10-24T16:00:40.745Z
+- Updated At: 2025-10-24T20:00:52.351Z
 
 ## Products
 
@@ -340,7 +340,7 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/307-Dr-Irena-Eris-Clinic-Way-Density-Improving-Dermocream-4_C2_B0-Night-Cream-50-ml-1.png?v=1737380571
   Price: ALL 4,284.15 ALL
 - [Dr Irena Eris Clinic Way Face Oval Modelling Dermocream 4° Day Cream 50 ml - Amar Pharma - Dr Irena Eris - Krem Anti Rrudhë](https://amar.al/products/dr-irena-eris-clinic-way-face-oval-modelling-dermocream-4-day-cream-50-ml): Grada 4 e kujdesit kundër rrudhave për gratë e moshës 60+ LIFTING PEPTIDE për ditën lufton formimin e rrudhave të gravitetit. Pengon procesin e plakjes së lëkurës duke riaktivizuar vetitë rigjeneruese dhe potencialin për vetë-rinovim në tre nivele. Bio-Peptide - rrit riparimin dhe rindërtimin e qelizave përgjegjëse për lidhjen dhe rregullimin e saktë të "skelave" të dermës (kryesisht kolagjeni i dhe III). Rrit integritetin dhe kohezionin e lëkurës, për shkak të së cilës forma e fytyrës është më e mprehtë dhe shenjat e plakjes bëhen më pak të dukshme. Aqua Calcis - ujë gëlqeror farmakopeal, për shkak të vetive të tij antiseptike, qetësuese dhe irrituese. SPF 20 Përdorimi: Aplikojeni në lëkurë të pastër në mëngjes - Amar Pharma - Dr Irena Eris - Krem Anti Rrudhë
-  Updated: 2025-10-16T09:27:24Z
+  Updated: 2025-10-24T19:54:59Z
   Vendor: Dr Irena Eris
   Product Type: Krem Anti Rrudhë
   Availability: Available
