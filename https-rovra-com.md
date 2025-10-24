@@ -8,7 +8,9 @@
 - Timezone: Europe/Bucharest
 - Created At: 2023-12-23T10:04:14Z
 - Contact Email: reverbarberproducts@gmail.com
-- Updated At: 2025-10-24T13:37:20.471Z
+- Contact Phone: 0767661863
+- Address: Paunesti, Vrancea, 077145 Vrancea, Romania
+- Updated At: 2025-10-24T13:37:37.922Z
 
 ## Products
 
