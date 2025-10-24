@@ -5,7 +5,7 @@
 - Currency: EUR
 - Timezone: Europe/Bucharest
 - Created At: 2025-09-06T11:42:39Z
-- Updated At: 2025-10-24T08:35:07.679Z
+- Updated At: 2025-10-24T12:00:42.786Z
 
 ## Products
 
@@ -38,7 +38,7 @@
     Author: Blueprints Lab
     Tags: AI Assistant, AI Blueprint Generator, AI in Gamedev, AI Tools, Blueprint Generator, Blueprint to C++, Game Development, Generative AI, Prototyping, UE5, Ultimate Blueprint Generator, Unreal Engine, Unreal Engine 5, Workflow Automation
   - [The Ultimate AI Copilot for Unreal Engine 5: AI Dev Assistant](https://gamedevcore.com/blogs/news/ultimate-ai-copilot-unreal-engine-5): The Ultimate AI Copilot for Unreal Engine 5: AI Dev Assistant
-    Updated: 2025-10-24T08:32:50Z
+    Updated: 2025-10-24T10:10:11Z
     Author: Blueprints Lab
     Tags: AI Assistant, AI Blueprint Generator, AI in Gamedev, AI Tools, Blueprint Generator, Game Development, Generative AI, UE5, Ultimate Blueprint Generator, Unreal Engine, Unreal Engine 5, Workflow Automation
 
