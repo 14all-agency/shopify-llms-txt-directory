@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2025-10-24T04:01:02.731Z
+- Updated At: 2025-10-24T12:01:03.852Z
 
 ## Products
 
@@ -3411,7 +3411,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/V-neck-long-sleeved-dress-Brinxx-Couture-2929.jpg?v=1709303350
     Price: $20.73 USD
 - [Lapel Tie Solid Color Dress](https://www.brinxxcouture.com/products/lapel-tie-solid-color-dress): Step out with confidence in this Lapel Tie Solid Color Dress! Crafted from a lightweight material, it has a lapel tie design for a modern look, making it the perfect choice for your next night out. Push boundaries in style and take on the night!
-  Updated: 2025-10-02T17:12:01Z
+  Updated: 2025-10-24T04:27:47Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -7531,7 +7531,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Contrast-Sequin-One-Shoulder-Sleeveless-Dress-Brinxx-Couture-2140.jpg?v=1730294322
     Price: $65.00 USD
 - [Contrast Sequin Sleeveless Mini Dress - Brinxx Couture](https://www.brinxxcouture.com/products/contrast-sequin-sleeveless-mini-dress): This Contrast Sequin Sleeveless Mini Dress is fit for a princess! Its delicate sequin embellishments give it a beautiful sparkle that will shine at any event.
-  Updated: 2025-10-18T17:26:00Z
+  Updated: 2025-10-24T09:28:06Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -8026,6 +8026,28 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Turtle-Neck-Long-Sleeve-Ribbed-Sweater-Dress-Brinxx-Couture-5587.jpg?v=1709844865
     Price: $50.00 USD
+- [Plaid Collared Flounce Sleeve Shirt Dress - Brinxx Couture](https://www.brinxxcouture.com/products/plaid-collared-neck-flounce-sleeve-shirt-dress): This Plaid Collared Neck Flounce Sleeve Shirt Dress is the epitome of fashion. Perfect for day or night, its timeless plaid pattern is equipped with a collared neckline.
+  Updated: 2025-10-24T10:01:01Z
+  Vendor: Brinxx Couture
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Plaid-Collared-Neck-Flounce-Sleeve-Shirt-Dress-Brinxx-Couture-1948_e9aa3968-2875-4afd-975f-267b651935e8.jpg?v=1736050182
+  - [Ochre / S](https://www.brinxxcouture.com/products/plaid-collared-neck-flounce-sleeve-shirt-dress?variant=42347470291126)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Plaid-Collared-Neck-Flounce-Sleeve-Shirt-Dress-Brinxx-Couture-1948_e9aa3968-2875-4afd-975f-267b651935e8.jpg?v=1736050182
+    Price: $37.00 USD
+  - [Ochre / M](https://www.brinxxcouture.com/products/plaid-collared-neck-flounce-sleeve-shirt-dress?variant=42347470323894)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Plaid-Collared-Neck-Flounce-Sleeve-Shirt-Dress-Brinxx-Couture-1948_e9aa3968-2875-4afd-975f-267b651935e8.jpg?v=1736050182
+    Price: $37.00 USD
+  - [Ochre / L](https://www.brinxxcouture.com/products/plaid-collared-neck-flounce-sleeve-shirt-dress?variant=42347470356662)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Plaid-Collared-Neck-Flounce-Sleeve-Shirt-Dress-Brinxx-Couture-1948_e9aa3968-2875-4afd-975f-267b651935e8.jpg?v=1736050182
+    Price: $37.00 USD
+  - [Ochre / XL](https://www.brinxxcouture.com/products/plaid-collared-neck-flounce-sleeve-shirt-dress?variant=42347470389430)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Plaid-Collared-Neck-Flounce-Sleeve-Shirt-Dress-Brinxx-Couture-1948_e9aa3968-2875-4afd-975f-267b651935e8.jpg?v=1736050182
+    Price: $37.00 USD
 - [Round Neck Puff Sleeve Tulip Hem Mini Dress -  Brinxx Couture](https://www.brinxxcouture.com/products/round-neck-puff-sleeve-tulip-hem-mini-dress): Make a statement in this stunning Round Neck Puff Sleeve Tulip Hem Mini Dress! Crafted in a lightweight fabric and featuring a timeless round neckline.
   Updated: 2025-10-02T17:12:09Z
   Vendor: Brinxx Couture
@@ -8338,7 +8360,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/High-Neck-Long-Sleeve-Ribbed-Top-Brinxx-Couture-6079_ae99505f-4811-4797-bf89-89c3a0f73de1.jpg?v=1736050169
     Price: $25.00 USD
 - [Distressed Raw Hem Denim Jacket - Brinxx Couture](https://www.brinxxcouture.com/products/distressed-raw-hem-denim-jacket): This distressed raw hem denim jacket is the perfect way to make a statement. With its distressed raw hem design, you'll look cool and effortless.
-  Updated: 2025-10-23T11:50:39Z
+  Updated: 2025-10-24T10:41:30Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -12588,7 +12610,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Mock-Neck-Long-Sleeve-Maxi-Bodycon-Dress-Brinxx-Couture-431.jpg?v=1709870644
     Price: $29.99 USD
 - [Fringe Trim Lapel Collar Cropped Blazer - Brinxx Couture](https://www.brinxxcouture.com/products/fringe-trim-lapel-collar-cropped-blazer): This stylish cropped blazer is the perfect pick for any event. Featuring a fringe trim lapel collar and an asymmetric and open-front design.
-  Updated: 2025-10-22T08:21:11Z
+  Updated: 2025-10-24T06:00:56Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -15978,7 +16000,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/products/Cutout-Mock-Neck-Sleeveless-Dress-Brinxx-Couture-7698.jpg?v=1709885128
     Price: $29.99 USD
 - [Rhinestone Mock Neck Long Sleeve Dress - Brinxx Couture](https://www.brinxxcouture.com/products/rhinestone-mock-neck-long-sleeve-dress): Add some sparkle to your wardrobe with our Rhinestone Mock Neck Long Sleeve Dress! This dress features a trendy mock neck and long sleeves, adorned with dazzling rhinestones. Perfect for any special occasion, it's sure to make you stand out and feel glamorous. Shine on! Sheer: Semi-sheer Stretch: Slightly stretchy Body: Not lined Material composition: 60% viscose, 31% polyamide, 9% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements:S: Bust 29.92 in, Shoulder 13.78 in, Sleeve Length 22.83 in, Waist 26.77 in, HIP 34.65 in, Length 35.63 inM: Bust 32.28 in, Shoulder 14.37 in, Sleeve Length 23.23 in, Waist 29.13 in, HIP 37.01 in, Length 36.42 inL: Bust 34.65 in, Shoulder 14.96 in, Sleeve Length 23.62 in, Waist 31.50 in, HIP 39.37 in, Length 37.20 inXL: Bust 37.80 in, Shoulder 15.94 in, Sleeve Length 24.02 in, Waist 34.65 in, HIP 42.52 in, Length 37.99 in
-  Updated: 2025-10-24T03:22:07Z
+  Updated: 2025-10-24T10:01:26Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -21490,7 +21512,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Crochet-Flower-Button-Up-Cardigan-Brinxx-Couture-9388.jpg?v=1730296211
     Price: $49.00 USD
 - [Striped Round Neck Long Sleeve Sweater - Brinxx Couture](https://www.brinxxcouture.com/products/striped-round-neck-long-sleeve-sweater): Wrap yourself in style and comfort with our Striped Round Neck Long Sleeve Sweater. Made from soft and breathable fabric, this sweater features a round neck.
-  Updated: 2025-10-23T09:00:57Z
+  Updated: 2025-10-24T08:40:51Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -23157,7 +23179,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Notch-Lapel-Woven-Coat-with-Side-Pockets-Brinxx-Couture-2936.jpg?v=1730297108
     Price: $40.00 USD
 - [Cable-Knit Round Neck Sweater Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress): Wrap yourself in cozy comfort and timeless style with our Cable-Knit Round Neck Sweater Dress! Made from soft, high-quality materials.
-  Updated: 2025-10-23T23:12:36Z
+  Updated: 2025-10-24T09:41:17Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -25711,7 +25733,7 @@
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/18K-Gold-Plated-Stainless-Steel-Stud-Earring-Brinxx-Couture-9396.jpg?v=1733888456
   Price: $15.00 USD
 - [Velvet Button Up Long Sleeve Shirt - Brinxx Couture](https://www.brinxxcouture.com/products/button-up-long-sleeve-shirt): Discover the versatility and style of our Velvet Button Up Long Sleeve Shirt! With its classic design and comfortable fit, this shirt is perfect for any occasion.
-  Updated: 2025-10-24T02:00:52Z
+  Updated: 2025-10-24T09:20:38Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -25725,7 +25747,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Velvet-Button-Up-Long-Sleeve-Shirt-Brinxx-Couture-9449_548e90d3-d37d-47c5-913a-1fb9b9e4c7d4.jpg?v=1736049304
     Price: $30.00 USD
   - [Burgundy / L](https://www.brinxxcouture.com/products/button-up-long-sleeve-shirt?variant=43531892818102)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Velvet-Button-Up-Long-Sleeve-Shirt-Brinxx-Couture-9449_548e90d3-d37d-47c5-913a-1fb9b9e4c7d4.jpg?v=1736049304
     Price: $30.00 USD
   - [Burgundy / XL](https://www.brinxxcouture.com/products/button-up-long-sleeve-shirt?variant=43531892850870)
@@ -25761,7 +25783,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Velvet-Button-Up-Long-Sleeve-Shirt-Brinxx-Couture-9898_28aff93c-f8ba-4ad4-bf88-33c49108ab07.jpg?v=1736049331
     Price: $30.00 USD
   - [Brown / XL](https://www.brinxxcouture.com/products/button-up-long-sleeve-shirt?variant=43531893113014)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Velvet-Button-Up-Long-Sleeve-Shirt-Brinxx-Couture-9898_28aff93c-f8ba-4ad4-bf88-33c49108ab07.jpg?v=1736049331
     Price: $30.00 USD
 - [Textured Button Down Collared Neck Coat - Brinxx Couture](https://www.brinxxcouture.com/products/textured-button-down-collared-neck-coat): Elevate your outerwear game with our Textured Button Down Collared Neck Coat! This versatile coat features a sophisticated collared neck and textured fabric.
