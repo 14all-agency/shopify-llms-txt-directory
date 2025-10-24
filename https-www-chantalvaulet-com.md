@@ -44,169 +44,124 @@ Ethical Brilliance. Timeless Elegance.
 - Created At: 2025-01-16T13:53:30Z
 - Contact Email: Info@chantalvaulet.com 
 - Contact Phone: +48 575 543 743
-- Updated At: 2025-10-22T08:00:36.914Z
+- Updated At: 2025-10-24T04:00:45.052Z
 
 ## Products
 
-- [3CT Pear Moissanite Halo Ring – The Zephyra | Chantal Vaulet](https://www.chantalvaulet.com/products/the-zephyra-pear-cut-moissanite-halo-ring-3ct): The Zephyra is a 3CT pear-cut moissanite ring featuring dazzling sparkle and luxurious halo setting, expertly crafted in sterling silver.
-  Updated: 2025-10-20T04:17:51Z
-  Vendor: Chantal Vaulet
-  Product Type: Ring
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/the-zephyra-pear-cut-moissanite-halo-ring-3ct_by_Chantal_Vaulet.webp?v=1760890665
-  - [4.5](https://www.chantalvaulet.com/products/the-zephyra-pear-cut-moissanite-halo-ring-3ct?variant=42111618089025)
-    Availability: Available
-    Price: €379.00 EUR
-  - [5](https://www.chantalvaulet.com/products/the-zephyra-pear-cut-moissanite-halo-ring-3ct?variant=42111618121793)
-    Availability: Available
-    Price: €379.00 EUR
-  - [5.25](https://www.chantalvaulet.com/products/the-zephyra-pear-cut-moissanite-halo-ring-3ct?variant=42111618154561)
-    Availability: Available
-    Price: €379.00 EUR
-  - [5.75](https://www.chantalvaulet.com/products/the-zephyra-pear-cut-moissanite-halo-ring-3ct?variant=42111618187329)
-    Availability: Available
-    Price: €379.00 EUR
-  - [6](https://www.chantalvaulet.com/products/the-zephyra-pear-cut-moissanite-halo-ring-3ct?variant=42111618220097)
-    Availability: Available
-    Price: €379.00 EUR
-  - [6.5](https://www.chantalvaulet.com/products/the-zephyra-pear-cut-moissanite-halo-ring-3ct?variant=42111618252865)
-    Availability: Available
-    Price: €379.00 EUR
-  - [7](https://www.chantalvaulet.com/products/the-zephyra-pear-cut-moissanite-halo-ring-3ct?variant=42111618285633)
-    Availability: Available
-    Price: €379.00 EUR
-  - [7.25](https://www.chantalvaulet.com/products/the-zephyra-pear-cut-moissanite-halo-ring-3ct?variant=42111618318401)
-    Availability: Available
-    Price: €379.00 EUR
-  - [7.75](https://www.chantalvaulet.com/products/the-zephyra-pear-cut-moissanite-halo-ring-3ct?variant=42111618351169)
-    Availability: Available
-    Price: €379.00 EUR
-  - [8](https://www.chantalvaulet.com/products/the-zephyra-pear-cut-moissanite-halo-ring-3ct?variant=42111618383937)
-    Availability: Available
-    Price: €379.00 EUR
-  - [8½](https://www.chantalvaulet.com/products/the-zephyra-pear-cut-moissanite-halo-ring-3ct?variant=42111618416705)
-    Availability: Available
-    Price: €379.00 EUR
-  - [8.75](https://www.chantalvaulet.com/products/the-zephyra-pear-cut-moissanite-halo-ring-3ct?variant=42111618449473)
-    Availability: Available
-    Price: €379.00 EUR
-  - [9](https://www.chantalvaulet.com/products/the-zephyra-pear-cut-moissanite-halo-ring-3ct?variant=42111618482241)
-    Availability: Available
-    Price: €379.00 EUR
 - [1CT Round Moissanite Ring – The Everly | Chantal Vaulet](https://www.chantalvaulet.com/products/the-everly-round-cut-moissanite-solitaire-ring-1ct): The Everly is a 1CT round-cut moissanite engagement ring, featuring timeless elegance and brilliance, perfect for your proposal.
-  Updated: 2025-10-20T04:19:09Z
+  Updated: 2025-10-22T08:58:47Z
   Vendor: Chantal Vaulet
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/the-everly-round-cut-moissanite-solitaire-ring-1ct_by_Chantal_Vaulet.webp?v=1760890744
   - [Moissanite / 9K Yellow Gold / 5](https://www.chantalvaulet.com/products/the-everly-round-cut-moissanite-solitaire-ring-1ct?variant=42153987702849)
     Availability: Available
-    Price: €525.00 EUR
+    Price: €675.00 EUR
   - [Moissanite / 9K Yellow Gold / 5.25](https://www.chantalvaulet.com/products/the-everly-round-cut-moissanite-solitaire-ring-1ct?variant=42153987735617)
     Availability: Available
-    Price: €525.00 EUR
+    Price: €675.00 EUR
   - [Moissanite / 9K Yellow Gold / 5.75](https://www.chantalvaulet.com/products/the-everly-round-cut-moissanite-solitaire-ring-1ct?variant=42153987768385)
     Availability: Available
-    Price: €525.00 EUR
+    Price: €675.00 EUR
   - [Moissanite / 9K Yellow Gold / 6](https://www.chantalvaulet.com/products/the-everly-round-cut-moissanite-solitaire-ring-1ct?variant=42153987801153)
     Availability: Available
-    Price: €525.00 EUR
+    Price: €675.00 EUR
   - [Moissanite / 9K Yellow Gold / 6.5](https://www.chantalvaulet.com/products/the-everly-round-cut-moissanite-solitaire-ring-1ct?variant=42153987833921)
     Availability: Available
-    Price: €525.00 EUR
+    Price: €675.00 EUR
   - [Moissanite / 9K Yellow Gold / 7](https://www.chantalvaulet.com/products/the-everly-round-cut-moissanite-solitaire-ring-1ct?variant=42153987866689)
     Availability: Available
-    Price: €525.00 EUR
+    Price: €675.00 EUR
   - [Moissanite / 9K Yellow Gold / 7.25](https://www.chantalvaulet.com/products/the-everly-round-cut-moissanite-solitaire-ring-1ct?variant=42153987899457)
     Availability: Available
-    Price: €525.00 EUR
+    Price: €675.00 EUR
   - [Moissanite / 9K Yellow Gold / 7.75](https://www.chantalvaulet.com/products/the-everly-round-cut-moissanite-solitaire-ring-1ct?variant=42153987932225)
     Availability: Available
-    Price: €525.00 EUR
+    Price: €675.00 EUR
   - [Moissanite / 9K Yellow Gold / 8](https://www.chantalvaulet.com/products/the-everly-round-cut-moissanite-solitaire-ring-1ct?variant=42153987964993)
     Availability: Available
-    Price: €525.00 EUR
+    Price: €675.00 EUR
   - [Moissanite / 9K Yellow Gold / 8½](https://www.chantalvaulet.com/products/the-everly-round-cut-moissanite-solitaire-ring-1ct?variant=42153987997761)
     Availability: Available
-    Price: €525.00 EUR
+    Price: €675.00 EUR
   - [Moissanite / 9K Yellow Gold / 8.75](https://www.chantalvaulet.com/products/the-everly-round-cut-moissanite-solitaire-ring-1ct?variant=42153988030529)
     Availability: Available
-    Price: €525.00 EUR
+    Price: €675.00 EUR
   - [Moissanite / 9K Yellow Gold / 9](https://www.chantalvaulet.com/products/the-everly-round-cut-moissanite-solitaire-ring-1ct?variant=42153988063297)
     Availability: Available
-    Price: €525.00 EUR
+    Price: €675.00 EUR
   - [Moissanite / 14K Yellow Gold / 5](https://www.chantalvaulet.com/products/the-everly-round-cut-moissanite-solitaire-ring-1ct?variant=42153988096065)
     Availability: Available
-    Price: €715.00 EUR
+    Price: €849.00 EUR
   - [Moissanite / 14K Yellow Gold / 5.25](https://www.chantalvaulet.com/products/the-everly-round-cut-moissanite-solitaire-ring-1ct?variant=42153988128833)
     Availability: Available
-    Price: €715.00 EUR
+    Price: €849.00 EUR
   - [Moissanite / 14K Yellow Gold / 5.75](https://www.chantalvaulet.com/products/the-everly-round-cut-moissanite-solitaire-ring-1ct?variant=42153988161601)
     Availability: Available
-    Price: €715.00 EUR
+    Price: €849.00 EUR
   - [Moissanite / 14K Yellow Gold / 6](https://www.chantalvaulet.com/products/the-everly-round-cut-moissanite-solitaire-ring-1ct?variant=42153988194369)
     Availability: Available
-    Price: €715.00 EUR
+    Price: €849.00 EUR
   - [Moissanite / 14K Yellow Gold / 6.5](https://www.chantalvaulet.com/products/the-everly-round-cut-moissanite-solitaire-ring-1ct?variant=42153988227137)
     Availability: Available
-    Price: €715.00 EUR
+    Price: €849.00 EUR
   - [Moissanite / 14K Yellow Gold / 7](https://www.chantalvaulet.com/products/the-everly-round-cut-moissanite-solitaire-ring-1ct?variant=42153988259905)
     Availability: Available
-    Price: €715.00 EUR
+    Price: €849.00 EUR
   - [Moissanite / 14K Yellow Gold / 7.25](https://www.chantalvaulet.com/products/the-everly-round-cut-moissanite-solitaire-ring-1ct?variant=42153988292673)
     Availability: Available
-    Price: €715.00 EUR
+    Price: €849.00 EUR
   - [Moissanite / 14K Yellow Gold / 7.75](https://www.chantalvaulet.com/products/the-everly-round-cut-moissanite-solitaire-ring-1ct?variant=42153988325441)
     Availability: Available
-    Price: €715.00 EUR
+    Price: €849.00 EUR
   - [Moissanite / 14K Yellow Gold / 8](https://www.chantalvaulet.com/products/the-everly-round-cut-moissanite-solitaire-ring-1ct?variant=42153988358209)
     Availability: Available
-    Price: €715.00 EUR
+    Price: €849.00 EUR
   - [Moissanite / 14K Yellow Gold / 8½](https://www.chantalvaulet.com/products/the-everly-round-cut-moissanite-solitaire-ring-1ct?variant=42153988390977)
     Availability: Available
-    Price: €715.00 EUR
+    Price: €849.00 EUR
   - [Moissanite / 14K Yellow Gold / 8.75](https://www.chantalvaulet.com/products/the-everly-round-cut-moissanite-solitaire-ring-1ct?variant=42153988423745)
     Availability: Available
-    Price: €715.00 EUR
+    Price: €849.00 EUR
   - [Moissanite / 14K Yellow Gold / 9](https://www.chantalvaulet.com/products/the-everly-round-cut-moissanite-solitaire-ring-1ct?variant=42153988456513)
     Availability: Available
-    Price: €715.00 EUR
+    Price: €849.00 EUR
   - [Moissanite / 18K Yellow Gold / 5](https://www.chantalvaulet.com/products/the-everly-round-cut-moissanite-solitaire-ring-1ct?variant=42919975682113)
     Availability: Available
-    Price: €876.00 EUR
+    Price: €979.00 EUR
   - [Moissanite / 18K Yellow Gold / 5.25](https://www.chantalvaulet.com/products/the-everly-round-cut-moissanite-solitaire-ring-1ct?variant=42919975714881)
     Availability: Available
-    Price: €876.00 EUR
+    Price: €979.00 EUR
   - [Moissanite / 18K Yellow Gold / 5.75](https://www.chantalvaulet.com/products/the-everly-round-cut-moissanite-solitaire-ring-1ct?variant=42919975747649)
     Availability: Available
-    Price: €876.00 EUR
+    Price: €979.00 EUR
   - [Moissanite / 18K Yellow Gold / 6](https://www.chantalvaulet.com/products/the-everly-round-cut-moissanite-solitaire-ring-1ct?variant=42919975780417)
     Availability: Available
-    Price: €876.00 EUR
+    Price: €979.00 EUR
   - [Moissanite / 18K Yellow Gold / 6.5](https://www.chantalvaulet.com/products/the-everly-round-cut-moissanite-solitaire-ring-1ct?variant=42919975813185)
     Availability: Available
-    Price: €876.00 EUR
+    Price: €979.00 EUR
   - [Moissanite / 18K Yellow Gold / 7](https://www.chantalvaulet.com/products/the-everly-round-cut-moissanite-solitaire-ring-1ct?variant=42919975845953)
     Availability: Available
-    Price: €876.00 EUR
+    Price: €979.00 EUR
   - [Moissanite / 18K Yellow Gold / 7.25](https://www.chantalvaulet.com/products/the-everly-round-cut-moissanite-solitaire-ring-1ct?variant=42919975878721)
     Availability: Available
-    Price: €876.00 EUR
+    Price: €979.00 EUR
   - [Moissanite / 18K Yellow Gold / 7.75](https://www.chantalvaulet.com/products/the-everly-round-cut-moissanite-solitaire-ring-1ct?variant=42919975911489)
     Availability: Available
-    Price: €876.00 EUR
+    Price: €979.00 EUR
   - [Moissanite / 18K Yellow Gold / 8](https://www.chantalvaulet.com/products/the-everly-round-cut-moissanite-solitaire-ring-1ct?variant=42919975944257)
     Availability: Available
-    Price: €876.00 EUR
+    Price: €979.00 EUR
   - [Moissanite / 18K Yellow Gold / 8½](https://www.chantalvaulet.com/products/the-everly-round-cut-moissanite-solitaire-ring-1ct?variant=42919975977025)
     Availability: Available
-    Price: €876.00 EUR
+    Price: €979.00 EUR
   - [Moissanite / 18K Yellow Gold / 8.75](https://www.chantalvaulet.com/products/the-everly-round-cut-moissanite-solitaire-ring-1ct?variant=42919976009793)
     Availability: Available
-    Price: €876.00 EUR
+    Price: €979.00 EUR
   - [Moissanite / 18K Yellow Gold / 9](https://www.chantalvaulet.com/products/the-everly-round-cut-moissanite-solitaire-ring-1ct?variant=42919976042561)
     Availability: Available
-    Price: €876.00 EUR
+    Price: €979.00 EUR
   - [Lab Diamond / 9K Yellow Gold / 5](https://www.chantalvaulet.com/products/the-everly-round-cut-moissanite-solitaire-ring-1ct?variant=42153989275713)
     Availability: Available
     Price: €775.00 EUR
@@ -250,119 +205,119 @@ Ethical Brilliance. Timeless Elegance.
     Availability: Available
     Price: €965.00 EUR
 - [The Celestia 3CT](https://www.chantalvaulet.com/products/the-celestia-round-cut-moissanite-solitaire-ring-3ct): The Celestia is a stunning 3CT round-cut moissanite ring, radiating elegance and timeless craftsmanship.
-  Updated: 2025-10-20T04:21:11Z
+  Updated: 2025-10-22T09:00:00Z
   Vendor: Chantal Vaulet
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/the-celestia-round-cut-moissanite-solitaire-ring-3ct_by_Chantal_Vaulet.webp?v=1760890862
   - [Moissanite / 9K White Gold / 5](https://www.chantalvaulet.com/products/the-celestia-round-cut-moissanite-solitaire-ring-3ct?variant=42154655121473)
     Availability: Available
-    Price: €795.00 EUR
+    Price: €895.00 EUR
   - [Moissanite / 9K White Gold / 5.25](https://www.chantalvaulet.com/products/the-celestia-round-cut-moissanite-solitaire-ring-3ct?variant=42154655383617)
     Availability: Available
-    Price: €795.00 EUR
+    Price: €895.00 EUR
   - [Moissanite / 9K White Gold / 5.75](https://www.chantalvaulet.com/products/the-celestia-round-cut-moissanite-solitaire-ring-3ct?variant=42154655416385)
     Availability: Available
-    Price: €795.00 EUR
+    Price: €895.00 EUR
   - [Moissanite / 9K White Gold / 6](https://www.chantalvaulet.com/products/the-celestia-round-cut-moissanite-solitaire-ring-3ct?variant=42154655449153)
     Availability: Available
-    Price: €795.00 EUR
+    Price: €895.00 EUR
   - [Moissanite / 9K White Gold / 6.5](https://www.chantalvaulet.com/products/the-celestia-round-cut-moissanite-solitaire-ring-3ct?variant=42154655481921)
     Availability: Available
-    Price: €795.00 EUR
+    Price: €895.00 EUR
   - [Moissanite / 9K White Gold / 7](https://www.chantalvaulet.com/products/the-celestia-round-cut-moissanite-solitaire-ring-3ct?variant=42154655514689)
     Availability: Available
-    Price: €795.00 EUR
+    Price: €895.00 EUR
   - [Moissanite / 9K White Gold / 7.25](https://www.chantalvaulet.com/products/the-celestia-round-cut-moissanite-solitaire-ring-3ct?variant=42154655547457)
     Availability: Available
-    Price: €795.00 EUR
+    Price: €895.00 EUR
   - [Moissanite / 9K White Gold / 7.75](https://www.chantalvaulet.com/products/the-celestia-round-cut-moissanite-solitaire-ring-3ct?variant=42154655580225)
     Availability: Available
-    Price: €795.00 EUR
+    Price: €895.00 EUR
   - [Moissanite / 9K White Gold / 8](https://www.chantalvaulet.com/products/the-celestia-round-cut-moissanite-solitaire-ring-3ct?variant=42154656890945)
     Availability: Available
-    Price: €795.00 EUR
+    Price: €895.00 EUR
   - [Moissanite / 9K White Gold / 8½](https://www.chantalvaulet.com/products/the-celestia-round-cut-moissanite-solitaire-ring-3ct?variant=42154656923713)
     Availability: Available
-    Price: €795.00 EUR
+    Price: €895.00 EUR
   - [Moissanite / 9K White Gold / 8.75](https://www.chantalvaulet.com/products/the-celestia-round-cut-moissanite-solitaire-ring-3ct?variant=42154657415233)
     Availability: Available
-    Price: €795.00 EUR
+    Price: €895.00 EUR
   - [Moissanite / 9K White Gold / 9](https://www.chantalvaulet.com/products/the-celestia-round-cut-moissanite-solitaire-ring-3ct?variant=42154657448001)
     Availability: Available
-    Price: €795.00 EUR
+    Price: €895.00 EUR
   - [Moissanite / 14K White Gold / 5](https://www.chantalvaulet.com/products/the-celestia-round-cut-moissanite-solitaire-ring-3ct?variant=42154655187009)
     Availability: Available
-    Price: €1,025.00 EUR
+    Price: €1,195.00 EUR
   - [Moissanite / 14K White Gold / 5.25](https://www.chantalvaulet.com/products/the-celestia-round-cut-moissanite-solitaire-ring-3ct?variant=42154655612993)
     Availability: Available
-    Price: €1,025.00 EUR
+    Price: €1,195.00 EUR
   - [Moissanite / 14K White Gold / 5.75](https://www.chantalvaulet.com/products/the-celestia-round-cut-moissanite-solitaire-ring-3ct?variant=42154655645761)
     Availability: Available
-    Price: €1,025.00 EUR
+    Price: €1,195.00 EUR
   - [Moissanite / 14K White Gold / 6](https://www.chantalvaulet.com/products/the-celestia-round-cut-moissanite-solitaire-ring-3ct?variant=42154655678529)
     Availability: Available
-    Price: €1,025.00 EUR
+    Price: €1,195.00 EUR
   - [Moissanite / 14K White Gold / 6.5](https://www.chantalvaulet.com/products/the-celestia-round-cut-moissanite-solitaire-ring-3ct?variant=42154655711297)
     Availability: Available
-    Price: €1,025.00 EUR
+    Price: €1,195.00 EUR
   - [Moissanite / 14K White Gold / 7](https://www.chantalvaulet.com/products/the-celestia-round-cut-moissanite-solitaire-ring-3ct?variant=42154655744065)
     Availability: Available
-    Price: €1,025.00 EUR
+    Price: €1,195.00 EUR
   - [Moissanite / 14K White Gold / 7.25](https://www.chantalvaulet.com/products/the-celestia-round-cut-moissanite-solitaire-ring-3ct?variant=42154655776833)
     Availability: Available
-    Price: €1,025.00 EUR
+    Price: €1,195.00 EUR
   - [Moissanite / 14K White Gold / 7.75](https://www.chantalvaulet.com/products/the-celestia-round-cut-moissanite-solitaire-ring-3ct?variant=42154655809601)
     Availability: Available
-    Price: €1,025.00 EUR
+    Price: €1,195.00 EUR
   - [Moissanite / 14K White Gold / 8](https://www.chantalvaulet.com/products/the-celestia-round-cut-moissanite-solitaire-ring-3ct?variant=42154656956481)
     Availability: Available
-    Price: €1,025.00 EUR
+    Price: €1,195.00 EUR
   - [Moissanite / 14K White Gold / 8½](https://www.chantalvaulet.com/products/the-celestia-round-cut-moissanite-solitaire-ring-3ct?variant=42154656989249)
     Availability: Available
-    Price: €1,025.00 EUR
+    Price: €1,195.00 EUR
   - [Moissanite / 14K White Gold / 8.75](https://www.chantalvaulet.com/products/the-celestia-round-cut-moissanite-solitaire-ring-3ct?variant=42154657480769)
     Availability: Available
-    Price: €1,025.00 EUR
+    Price: €1,195.00 EUR
   - [Moissanite / 14K White Gold / 9](https://www.chantalvaulet.com/products/the-celestia-round-cut-moissanite-solitaire-ring-3ct?variant=42154657513537)
     Availability: Available
-    Price: €1,025.00 EUR
+    Price: €1,195.00 EUR
   - [Moissanite / 18K White Gold / 5](https://www.chantalvaulet.com/products/the-celestia-round-cut-moissanite-solitaire-ring-3ct?variant=42154655252545)
     Availability: Available
-    Price: €1,225.00 EUR
+    Price: €1,359.00 EUR
   - [Moissanite / 18K White Gold / 5.25](https://www.chantalvaulet.com/products/the-celestia-round-cut-moissanite-solitaire-ring-3ct?variant=42154655842369)
     Availability: Available
-    Price: €1,225.00 EUR
+    Price: €1,359.00 EUR
   - [Moissanite / 18K White Gold / 5.75](https://www.chantalvaulet.com/products/the-celestia-round-cut-moissanite-solitaire-ring-3ct?variant=42154655875137)
     Availability: Available
-    Price: €1,225.00 EUR
+    Price: €1,359.00 EUR
   - [Moissanite / 18K White Gold / 6](https://www.chantalvaulet.com/products/the-celestia-round-cut-moissanite-solitaire-ring-3ct?variant=42154655907905)
     Availability: Available
-    Price: €1,225.00 EUR
+    Price: €1,359.00 EUR
   - [Moissanite / 18K White Gold / 6.5](https://www.chantalvaulet.com/products/the-celestia-round-cut-moissanite-solitaire-ring-3ct?variant=42154655940673)
     Availability: Available
-    Price: €1,225.00 EUR
+    Price: €1,359.00 EUR
   - [Moissanite / 18K White Gold / 7](https://www.chantalvaulet.com/products/the-celestia-round-cut-moissanite-solitaire-ring-3ct?variant=42154655973441)
     Availability: Available
-    Price: €1,225.00 EUR
+    Price: €1,359.00 EUR
   - [Moissanite / 18K White Gold / 7.25](https://www.chantalvaulet.com/products/the-celestia-round-cut-moissanite-solitaire-ring-3ct?variant=42154656006209)
     Availability: Available
-    Price: €1,225.00 EUR
+    Price: €1,359.00 EUR
   - [Moissanite / 18K White Gold / 7.75](https://www.chantalvaulet.com/products/the-celestia-round-cut-moissanite-solitaire-ring-3ct?variant=42154656038977)
     Availability: Available
-    Price: €1,225.00 EUR
+    Price: €1,359.00 EUR
   - [Moissanite / 18K White Gold / 8](https://www.chantalvaulet.com/products/the-celestia-round-cut-moissanite-solitaire-ring-3ct?variant=42154657022017)
     Availability: Available
-    Price: €1,225.00 EUR
+    Price: €1,359.00 EUR
   - [Moissanite / 18K White Gold / 8½](https://www.chantalvaulet.com/products/the-celestia-round-cut-moissanite-solitaire-ring-3ct?variant=42154657054785)
     Availability: Available
-    Price: €1,225.00 EUR
+    Price: €1,359.00 EUR
   - [Moissanite / 18K White Gold / 8.75](https://www.chantalvaulet.com/products/the-celestia-round-cut-moissanite-solitaire-ring-3ct?variant=42154657546305)
     Availability: Available
-    Price: €1,225.00 EUR
+    Price: €1,359.00 EUR
   - [Moissanite / 18K White Gold / 9](https://www.chantalvaulet.com/products/the-celestia-round-cut-moissanite-solitaire-ring-3ct?variant=42154657579073)
     Availability: Available
-    Price: €1,225.00 EUR
+    Price: €1,359.00 EUR
   - [Lab Diamond / 9K White Gold / 5](https://www.chantalvaulet.com/products/the-celestia-round-cut-moissanite-solitaire-ring-3ct?variant=42154655154241)
     Availability: Available
     Price: €1,695.00 EUR
@@ -406,3840 +361,3840 @@ Ethical Brilliance. Timeless Elegance.
     Availability: Available
     Price: €1,925.00 EUR
 - [The Aurelia – Moissanite Necklace & Earrings Set](https://www.chantalvaulet.com/products/the-aurelia-moissanite-necklace-earrings-set-2ct): Shop The Aurelia – Moissanite Necklace & Earrings Set today at Chantal Vaulet. Discover stunning jewelry collections, crafted for style and brilliance.
-  Updated: 2025-10-20T04:22:16Z
+  Updated: 2025-10-22T08:53:49Z
   Vendor: Chantal Vaulet
   Product Type: Jewelry Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/the-aurelia-moissanite-necklace-earrings-set-2ct_by_Chantal_Vaulet.webp?v=1760890929
   - [Earrings: 0.5 CT x2 - Necklace 1.0CT](https://www.chantalvaulet.com/products/the-aurelia-moissanite-necklace-earrings-set-2ct?variant=42087293321281)
     Availability: Available
-    Price: €179.00 EUR
+    Price: €245.00 EUR
   - [Earrings: 1.0 CT x2 - Necklace 2.0CT](https://www.chantalvaulet.com/products/the-aurelia-moissanite-necklace-earrings-set-2ct?variant=42087293354049)
     Availability: Available
-    Price: €349.00 EUR
+    Price: €445.00 EUR
 - [The Isadora set – Moissanite Necklace & Earrings](https://www.chantalvaulet.com/products/the-isadora-set-moissanite-necklace-earrings): Shop The Isadora set – Moissanite Necklace & Earrings today at Chantal Vaulet. Discover stunning jewelry collections, crafted for style and brilliance.
-  Updated: 2025-10-20T04:39:49Z
+  Updated: 2025-10-22T08:53:25Z
   Vendor: Chantal Vaulet
   Product Type: Jewelry Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/the-isadora-set-moissanite-necklace-earrings_by_Chantal_Vaulet.webp?v=1760890981
   - [Earrings: 0.5 CT x2 - Necklace 1.0CT](https://www.chantalvaulet.com/products/the-isadora-set-moissanite-necklace-earrings?variant=42087191216193)
     Availability: Available
-    Price: €179.00 EUR
+    Price: €249.00 EUR
   - [Earrings:  1.0 CT x2 - Necklace 2.0CT](https://www.chantalvaulet.com/products/the-isadora-set-moissanite-necklace-earrings?variant=42087191248961)
     Availability: Available
-    Price: €349.00 EUR
+    Price: €449.00 EUR
 - [1CT Round Moissanite Engagement Ring – The Elara | Chantal Vaulet](https://www.chantalvaulet.com/products/the-elara-moissanite-side-stone-engagement-ring-1ct): The Elara is a 1CT round moissanite engagement ring featuring 16 side stones, blending modern elegance with classic charm.
-  Updated: 2025-10-20T04:42:06Z
+  Updated: 2025-10-22T08:52:42Z
   Vendor: Chantal Vaulet
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/the-elara-moissanite-side-stone-engagement-ring-1ct_by_Chantal_Vaulet.webp?v=1760891102
   - [4.5](https://www.chantalvaulet.com/products/the-elara-moissanite-side-stone-engagement-ring-1ct?variant=42111636602945)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5](https://www.chantalvaulet.com/products/the-elara-moissanite-side-stone-engagement-ring-1ct?variant=42111636635713)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5.25](https://www.chantalvaulet.com/products/the-elara-moissanite-side-stone-engagement-ring-1ct?variant=42111636668481)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5.75](https://www.chantalvaulet.com/products/the-elara-moissanite-side-stone-engagement-ring-1ct?variant=42111636701249)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [6](https://www.chantalvaulet.com/products/the-elara-moissanite-side-stone-engagement-ring-1ct?variant=42111636734017)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [6.5](https://www.chantalvaulet.com/products/the-elara-moissanite-side-stone-engagement-ring-1ct?variant=42111636766785)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7](https://www.chantalvaulet.com/products/the-elara-moissanite-side-stone-engagement-ring-1ct?variant=42111636799553)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7.25](https://www.chantalvaulet.com/products/the-elara-moissanite-side-stone-engagement-ring-1ct?variant=42111636832321)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7.75](https://www.chantalvaulet.com/products/the-elara-moissanite-side-stone-engagement-ring-1ct?variant=42111636865089)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8](https://www.chantalvaulet.com/products/the-elara-moissanite-side-stone-engagement-ring-1ct?variant=42111636897857)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8½](https://www.chantalvaulet.com/products/the-elara-moissanite-side-stone-engagement-ring-1ct?variant=42111636930625)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8.75](https://www.chantalvaulet.com/products/the-elara-moissanite-side-stone-engagement-ring-1ct?variant=42111636963393)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [9](https://www.chantalvaulet.com/products/the-elara-moissanite-side-stone-engagement-ring-1ct?variant=42111636996161)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
 - [0.5CT Round Moissanite Engagement Ring – The Livia | Chantal Vaulet](https://www.chantalvaulet.com/products/the-livia-moissanite-solitaire-engagement-ring-0-5ct): The Livia is a 0.5 carat round moissanite engagement ring with timeless elegance, set in a sleek prong for maximum sparkle.
-  Updated: 2025-10-20T04:26:40Z
+  Updated: 2025-10-22T08:52:27Z
   Vendor: Chantal Vaulet
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/the-livia-moissanite-solitaire-engagement-ring-0-5ct_by_Chantal_Vaulet.webp?v=1760891194
   - [4.5](https://www.chantalvaulet.com/products/the-livia-moissanite-solitaire-engagement-ring-0-5ct?variant=42111632769089)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [5](https://www.chantalvaulet.com/products/the-livia-moissanite-solitaire-engagement-ring-0-5ct?variant=42111632801857)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/the-livia-moissanite-solitaire-engagement-ring-0-5ct_by_Chantal_Vaulet.webp?v=1760891194
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [5.25](https://www.chantalvaulet.com/products/the-livia-moissanite-solitaire-engagement-ring-0-5ct?variant=42111632834625)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [5.75](https://www.chantalvaulet.com/products/the-livia-moissanite-solitaire-engagement-ring-0-5ct?variant=42111632867393)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [6](https://www.chantalvaulet.com/products/the-livia-moissanite-solitaire-engagement-ring-0-5ct?variant=42111632900161)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [6.5](https://www.chantalvaulet.com/products/the-livia-moissanite-solitaire-engagement-ring-0-5ct?variant=42111632932929)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [7](https://www.chantalvaulet.com/products/the-livia-moissanite-solitaire-engagement-ring-0-5ct?variant=42111632965697)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [7.25](https://www.chantalvaulet.com/products/the-livia-moissanite-solitaire-engagement-ring-0-5ct?variant=42111632998465)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [7.75](https://www.chantalvaulet.com/products/the-livia-moissanite-solitaire-engagement-ring-0-5ct?variant=42111633031233)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [8](https://www.chantalvaulet.com/products/the-livia-moissanite-solitaire-engagement-ring-0-5ct?variant=42111633064001)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [8½](https://www.chantalvaulet.com/products/the-livia-moissanite-solitaire-engagement-ring-0-5ct?variant=42111633096769)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [8.75](https://www.chantalvaulet.com/products/the-livia-moissanite-solitaire-engagement-ring-0-5ct?variant=42111633129537)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [9](https://www.chantalvaulet.com/products/the-livia-moissanite-solitaire-engagement-ring-0-5ct?variant=42111633162305)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
 - [1CT Round Moissanite Engagement Ring – The Seraphine | Chantal Vaulet](https://www.chantalvaulet.com/products/the-seraphine-moissanite-side-stone-engagement-ring-1ct): The Seraphine is a 1CT round moissanite engagement ring with 36 accent stones, delivering dazzling brilliance and elegance for your special moment.
-  Updated: 2025-10-20T04:43:31Z
+  Updated: 2025-10-22T08:52:08Z
   Vendor: Chantal Vaulet
   Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/the-seraphine-moissanite-side-stone-engagement-ring-1ct_by_Chantal_Vaulet.webp?v=1760891259
   - [4.5](https://www.chantalvaulet.com/products/the-seraphine-moissanite-side-stone-engagement-ring-1ct?variant=42111632113729)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5](https://www.chantalvaulet.com/products/the-seraphine-moissanite-side-stone-engagement-ring-1ct?variant=42111632146497)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5.25](https://www.chantalvaulet.com/products/the-seraphine-moissanite-side-stone-engagement-ring-1ct?variant=42111632179265)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5.75](https://www.chantalvaulet.com/products/the-seraphine-moissanite-side-stone-engagement-ring-1ct?variant=42111632212033)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [6](https://www.chantalvaulet.com/products/the-seraphine-moissanite-side-stone-engagement-ring-1ct?variant=42111632244801)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [6.5](https://www.chantalvaulet.com/products/the-seraphine-moissanite-side-stone-engagement-ring-1ct?variant=42111632277569)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7](https://www.chantalvaulet.com/products/the-seraphine-moissanite-side-stone-engagement-ring-1ct?variant=42111632310337)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7.25](https://www.chantalvaulet.com/products/the-seraphine-moissanite-side-stone-engagement-ring-1ct?variant=42111632343105)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7.75](https://www.chantalvaulet.com/products/the-seraphine-moissanite-side-stone-engagement-ring-1ct?variant=42111632375873)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8](https://www.chantalvaulet.com/products/the-seraphine-moissanite-side-stone-engagement-ring-1ct?variant=42111632408641)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8½](https://www.chantalvaulet.com/products/the-seraphine-moissanite-side-stone-engagement-ring-1ct?variant=42111632441409)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8.75](https://www.chantalvaulet.com/products/the-seraphine-moissanite-side-stone-engagement-ring-1ct?variant=42111632474177)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [9](https://www.chantalvaulet.com/products/the-seraphine-moissanite-side-stone-engagement-ring-1ct?variant=42111632506945)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
 - [1 CT Round Moissanite Engagement Ring – The Selene | Chantal Vaulet](https://www.chantalvaulet.com/products/the-selene-moissanite-solitaire-engagement-ring-1ct): The Selene is a 1CT round moissanite engagement ring with a twist band, radiating modern elegance and timeless beauty.
-  Updated: 2025-10-20T04:29:04Z
+  Updated: 2025-10-22T08:51:30Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/the-selene-moissanite-solitaire-engagement-ring-1ct_by_Chantal_Vaulet.webp?v=1760891339
   - [4.5](https://www.chantalvaulet.com/products/the-selene-moissanite-solitaire-engagement-ring-1ct?variant=42111631523905)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5](https://www.chantalvaulet.com/products/the-selene-moissanite-solitaire-engagement-ring-1ct?variant=42111631556673)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5.25](https://www.chantalvaulet.com/products/the-selene-moissanite-solitaire-engagement-ring-1ct?variant=42111631589441)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5.75](https://www.chantalvaulet.com/products/the-selene-moissanite-solitaire-engagement-ring-1ct?variant=42111631622209)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [6](https://www.chantalvaulet.com/products/the-selene-moissanite-solitaire-engagement-ring-1ct?variant=42111631654977)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [6.5](https://www.chantalvaulet.com/products/the-selene-moissanite-solitaire-engagement-ring-1ct?variant=42111631687745)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7](https://www.chantalvaulet.com/products/the-selene-moissanite-solitaire-engagement-ring-1ct?variant=42111631720513)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7.25](https://www.chantalvaulet.com/products/the-selene-moissanite-solitaire-engagement-ring-1ct?variant=42111631753281)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7.75](https://www.chantalvaulet.com/products/the-selene-moissanite-solitaire-engagement-ring-1ct?variant=42111631786049)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8](https://www.chantalvaulet.com/products/the-selene-moissanite-solitaire-engagement-ring-1ct?variant=42111631818817)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8½](https://www.chantalvaulet.com/products/the-selene-moissanite-solitaire-engagement-ring-1ct?variant=42111631851585)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8.75](https://www.chantalvaulet.com/products/the-selene-moissanite-solitaire-engagement-ring-1ct?variant=42111631884353)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [9](https://www.chantalvaulet.com/products/the-selene-moissanite-solitaire-engagement-ring-1ct?variant=42111631917121)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
 - [1.0 CT Round Moissanite Engagement Ring – Solara | Chantal Vaulet](https://www.chantalvaulet.com/products/solara-moissanite-solitaire-engagement-ring-1-0ct): The Solara is a 1.0 carat round moissanite engagement ring, featuring a unique sunburst setting and polished band for timeless elegance.
-  Updated: 2025-10-20T05:04:57Z
+  Updated: 2025-10-22T08:51:09Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/solara-moissanite-solitaire-engagement-ring-1-0ct_by_Chantal_Vaulet.webp?v=1760891420
   - [4.5](https://www.chantalvaulet.com/products/solara-moissanite-solitaire-engagement-ring-1-0ct?variant=42111630868545)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5](https://www.chantalvaulet.com/products/solara-moissanite-solitaire-engagement-ring-1-0ct?variant=42111630901313)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5.25](https://www.chantalvaulet.com/products/solara-moissanite-solitaire-engagement-ring-1-0ct?variant=42111630934081)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5.75](https://www.chantalvaulet.com/products/solara-moissanite-solitaire-engagement-ring-1-0ct?variant=42111630966849)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [6](https://www.chantalvaulet.com/products/solara-moissanite-solitaire-engagement-ring-1-0ct?variant=42111630999617)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [6.5](https://www.chantalvaulet.com/products/solara-moissanite-solitaire-engagement-ring-1-0ct?variant=42111631032385)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7](https://www.chantalvaulet.com/products/solara-moissanite-solitaire-engagement-ring-1-0ct?variant=42111631065153)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7.25](https://www.chantalvaulet.com/products/solara-moissanite-solitaire-engagement-ring-1-0ct?variant=42111631097921)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7.75](https://www.chantalvaulet.com/products/solara-moissanite-solitaire-engagement-ring-1-0ct?variant=42111631130689)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8](https://www.chantalvaulet.com/products/solara-moissanite-solitaire-engagement-ring-1-0ct?variant=42111631163457)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8½](https://www.chantalvaulet.com/products/solara-moissanite-solitaire-engagement-ring-1-0ct?variant=42111631196225)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8.75](https://www.chantalvaulet.com/products/solara-moissanite-solitaire-engagement-ring-1-0ct?variant=42111631228993)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [9](https://www.chantalvaulet.com/products/solara-moissanite-solitaire-engagement-ring-1-0ct?variant=42111631261761)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
 - [1CT Round Moissanite Engagement Ring – The Lillian | Chantal Vaulet](https://www.chantalvaulet.com/products/the-lillian-moissanite-side-stone-engagement-ring-1ct): The Lillian features a 1CT round moissanite and 14 accent stones, delivering elegance and brilliance for the sophisticated woman.
-  Updated: 2025-10-20T04:31:31Z
+  Updated: 2025-10-22T08:50:46Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/the-lillian-moissanite-side-stone-engagement-ring-1ct_by_Chantal_Vaulet.webp?v=1760891486
   - [Clear / 4.5](https://www.chantalvaulet.com/products/the-lillian-moissanite-side-stone-engagement-ring-1ct?variant=42111628902465)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 5](https://www.chantalvaulet.com/products/the-lillian-moissanite-side-stone-engagement-ring-1ct?variant=42111628935233)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 5.25](https://www.chantalvaulet.com/products/the-lillian-moissanite-side-stone-engagement-ring-1ct?variant=42111628968001)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 5.75](https://www.chantalvaulet.com/products/the-lillian-moissanite-side-stone-engagement-ring-1ct?variant=42111629000769)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 6](https://www.chantalvaulet.com/products/the-lillian-moissanite-side-stone-engagement-ring-1ct?variant=42111629033537)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 6.5](https://www.chantalvaulet.com/products/the-lillian-moissanite-side-stone-engagement-ring-1ct?variant=42111629066305)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 7](https://www.chantalvaulet.com/products/the-lillian-moissanite-side-stone-engagement-ring-1ct?variant=42111629099073)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 7.25](https://www.chantalvaulet.com/products/the-lillian-moissanite-side-stone-engagement-ring-1ct?variant=42111629131841)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 7.75](https://www.chantalvaulet.com/products/the-lillian-moissanite-side-stone-engagement-ring-1ct?variant=42111629164609)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 8](https://www.chantalvaulet.com/products/the-lillian-moissanite-side-stone-engagement-ring-1ct?variant=42111629197377)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 8½](https://www.chantalvaulet.com/products/the-lillian-moissanite-side-stone-engagement-ring-1ct?variant=42111629230145)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 8.75](https://www.chantalvaulet.com/products/the-lillian-moissanite-side-stone-engagement-ring-1ct?variant=42111629262913)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 9](https://www.chantalvaulet.com/products/the-lillian-moissanite-side-stone-engagement-ring-1ct?variant=42111629295681)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Blue / 4.5](https://www.chantalvaulet.com/products/the-lillian-moissanite-side-stone-engagement-ring-1ct?variant=42111629328449)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 5](https://www.chantalvaulet.com/products/the-lillian-moissanite-side-stone-engagement-ring-1ct?variant=42111629361217)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 5.25](https://www.chantalvaulet.com/products/the-lillian-moissanite-side-stone-engagement-ring-1ct?variant=42111629393985)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 5.75](https://www.chantalvaulet.com/products/the-lillian-moissanite-side-stone-engagement-ring-1ct?variant=42111629426753)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 6](https://www.chantalvaulet.com/products/the-lillian-moissanite-side-stone-engagement-ring-1ct?variant=42111629459521)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 6.5](https://www.chantalvaulet.com/products/the-lillian-moissanite-side-stone-engagement-ring-1ct?variant=42111629492289)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 7](https://www.chantalvaulet.com/products/the-lillian-moissanite-side-stone-engagement-ring-1ct?variant=42111629525057)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 7.25](https://www.chantalvaulet.com/products/the-lillian-moissanite-side-stone-engagement-ring-1ct?variant=42111629557825)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 7.75](https://www.chantalvaulet.com/products/the-lillian-moissanite-side-stone-engagement-ring-1ct?variant=42111629590593)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 8](https://www.chantalvaulet.com/products/the-lillian-moissanite-side-stone-engagement-ring-1ct?variant=42111629623361)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 8½](https://www.chantalvaulet.com/products/the-lillian-moissanite-side-stone-engagement-ring-1ct?variant=42111629656129)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 8.75](https://www.chantalvaulet.com/products/the-lillian-moissanite-side-stone-engagement-ring-1ct?variant=42111629688897)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 9](https://www.chantalvaulet.com/products/the-lillian-moissanite-side-stone-engagement-ring-1ct?variant=42111629721665)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 4.5](https://www.chantalvaulet.com/products/the-lillian-moissanite-side-stone-engagement-ring-1ct?variant=42111629754433)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 5](https://www.chantalvaulet.com/products/the-lillian-moissanite-side-stone-engagement-ring-1ct?variant=42111629787201)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 5.25](https://www.chantalvaulet.com/products/the-lillian-moissanite-side-stone-engagement-ring-1ct?variant=42111629819969)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 5.75](https://www.chantalvaulet.com/products/the-lillian-moissanite-side-stone-engagement-ring-1ct?variant=42111629852737)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 6](https://www.chantalvaulet.com/products/the-lillian-moissanite-side-stone-engagement-ring-1ct?variant=42111629885505)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 6.5](https://www.chantalvaulet.com/products/the-lillian-moissanite-side-stone-engagement-ring-1ct?variant=42111629918273)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 7](https://www.chantalvaulet.com/products/the-lillian-moissanite-side-stone-engagement-ring-1ct?variant=42111629951041)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 7.25](https://www.chantalvaulet.com/products/the-lillian-moissanite-side-stone-engagement-ring-1ct?variant=42111629983809)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 7.75](https://www.chantalvaulet.com/products/the-lillian-moissanite-side-stone-engagement-ring-1ct?variant=42111630016577)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 8](https://www.chantalvaulet.com/products/the-lillian-moissanite-side-stone-engagement-ring-1ct?variant=42111630049345)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 8½](https://www.chantalvaulet.com/products/the-lillian-moissanite-side-stone-engagement-ring-1ct?variant=42111630082113)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 8.75](https://www.chantalvaulet.com/products/the-lillian-moissanite-side-stone-engagement-ring-1ct?variant=42111630114881)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 9](https://www.chantalvaulet.com/products/the-lillian-moissanite-side-stone-engagement-ring-1ct?variant=42111630147649)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Yellow / 4.5](https://www.chantalvaulet.com/products/the-lillian-moissanite-side-stone-engagement-ring-1ct?variant=42111630180417)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Yellow / 5](https://www.chantalvaulet.com/products/the-lillian-moissanite-side-stone-engagement-ring-1ct?variant=42111630213185)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Yellow / 5.25](https://www.chantalvaulet.com/products/the-lillian-moissanite-side-stone-engagement-ring-1ct?variant=42111630245953)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Yellow / 5.75](https://www.chantalvaulet.com/products/the-lillian-moissanite-side-stone-engagement-ring-1ct?variant=42111630278721)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Yellow / 6](https://www.chantalvaulet.com/products/the-lillian-moissanite-side-stone-engagement-ring-1ct?variant=42111630311489)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Yellow / 6.5](https://www.chantalvaulet.com/products/the-lillian-moissanite-side-stone-engagement-ring-1ct?variant=42111630344257)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Yellow / 7](https://www.chantalvaulet.com/products/the-lillian-moissanite-side-stone-engagement-ring-1ct?variant=42111630377025)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Yellow / 7.25](https://www.chantalvaulet.com/products/the-lillian-moissanite-side-stone-engagement-ring-1ct?variant=42111630409793)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Yellow / 7.75](https://www.chantalvaulet.com/products/the-lillian-moissanite-side-stone-engagement-ring-1ct?variant=42111630442561)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Yellow / 8](https://www.chantalvaulet.com/products/the-lillian-moissanite-side-stone-engagement-ring-1ct?variant=42111630475329)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Yellow / 8½](https://www.chantalvaulet.com/products/the-lillian-moissanite-side-stone-engagement-ring-1ct?variant=42111630508097)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
 - [1CT Round Moissanite Engagement Ring – The Camille | Chantal Vaulet](https://www.chantalvaulet.com/products/1ct-round-moissanite-engagement-ring-the-camille-chantal-vaulet): The Camille is a 1CT round moissanite engagement ring, showcasing brilliance in a classic six-prong setting. Perfect for every occasion.
-  Updated: 2025-10-20T04:32:26Z
+  Updated: 2025-10-23T04:31:15Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/1ct-round-moissanite-engagement-ring-the-camille-chantal-vaulet_by_Chantal_Vaulet.webp?v=1760891540
+  Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/F5F5F5_52.png?v=1761122975
   - [4.5](https://www.chantalvaulet.com/products/1ct-round-moissanite-engagement-ring-the-camille-chantal-vaulet?variant=42111628247105)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5](https://www.chantalvaulet.com/products/1ct-round-moissanite-engagement-ring-the-camille-chantal-vaulet?variant=42111628279873)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5.25](https://www.chantalvaulet.com/products/1ct-round-moissanite-engagement-ring-the-camille-chantal-vaulet?variant=42111628312641)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5.75](https://www.chantalvaulet.com/products/1ct-round-moissanite-engagement-ring-the-camille-chantal-vaulet?variant=42111628345409)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [6](https://www.chantalvaulet.com/products/1ct-round-moissanite-engagement-ring-the-camille-chantal-vaulet?variant=42111628378177)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [6.5](https://www.chantalvaulet.com/products/1ct-round-moissanite-engagement-ring-the-camille-chantal-vaulet?variant=42111628410945)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7](https://www.chantalvaulet.com/products/1ct-round-moissanite-engagement-ring-the-camille-chantal-vaulet?variant=42111628443713)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7.25](https://www.chantalvaulet.com/products/1ct-round-moissanite-engagement-ring-the-camille-chantal-vaulet?variant=42111628476481)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7.75](https://www.chantalvaulet.com/products/1ct-round-moissanite-engagement-ring-the-camille-chantal-vaulet?variant=42111628509249)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8](https://www.chantalvaulet.com/products/1ct-round-moissanite-engagement-ring-the-camille-chantal-vaulet?variant=42111628542017)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8½](https://www.chantalvaulet.com/products/1ct-round-moissanite-engagement-ring-the-camille-chantal-vaulet?variant=42111628574785)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8.75](https://www.chantalvaulet.com/products/1ct-round-moissanite-engagement-ring-the-camille-chantal-vaulet?variant=42111628607553)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [9](https://www.chantalvaulet.com/products/1ct-round-moissanite-engagement-ring-the-camille-chantal-vaulet?variant=42111628640321)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
 - [1CT Round Moissanite Engagement Ring – The Estelle | Chantal Vaulet](https://www.chantalvaulet.com/products/the-estelle-moissanite-solitaire-engagement-ring-1ct): The Estelle features a 1CT round-cut moissanite in a sleek setting, radiating timeless elegance and brilliance for your special moments.
-  Updated: 2025-10-20T04:33:35Z
+  Updated: 2025-10-22T08:43:33Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/the-estelle-moissanite-solitaire-engagement-ring-1ct_by_Chantal_Vaulet.webp?v=1760891607
   - [4.5](https://www.chantalvaulet.com/products/the-estelle-moissanite-solitaire-engagement-ring-1ct?variant=42111627624513)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5](https://www.chantalvaulet.com/products/the-estelle-moissanite-solitaire-engagement-ring-1ct?variant=42111627657281)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5.25](https://www.chantalvaulet.com/products/the-estelle-moissanite-solitaire-engagement-ring-1ct?variant=42111627690049)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5.75](https://www.chantalvaulet.com/products/the-estelle-moissanite-solitaire-engagement-ring-1ct?variant=42111627722817)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [6](https://www.chantalvaulet.com/products/the-estelle-moissanite-solitaire-engagement-ring-1ct?variant=42111627755585)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [6.5](https://www.chantalvaulet.com/products/the-estelle-moissanite-solitaire-engagement-ring-1ct?variant=42111627788353)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7](https://www.chantalvaulet.com/products/the-estelle-moissanite-solitaire-engagement-ring-1ct?variant=42111627821121)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7.25](https://www.chantalvaulet.com/products/the-estelle-moissanite-solitaire-engagement-ring-1ct?variant=42111627853889)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7.75](https://www.chantalvaulet.com/products/the-estelle-moissanite-solitaire-engagement-ring-1ct?variant=42111627886657)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8](https://www.chantalvaulet.com/products/the-estelle-moissanite-solitaire-engagement-ring-1ct?variant=42111627919425)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8½](https://www.chantalvaulet.com/products/the-estelle-moissanite-solitaire-engagement-ring-1ct?variant=42111627952193)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8.75](https://www.chantalvaulet.com/products/the-estelle-moissanite-solitaire-engagement-ring-1ct?variant=42111627984961)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [9](https://www.chantalvaulet.com/products/the-estelle-moissanite-solitaire-engagement-ring-1ct?variant=42111628017729)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
 - [1.0CT Round Moissanite Ring – The Celestara | Chantal Vaulet](https://www.chantalvaulet.com/products/1-0ct-round-moissanite-ring-the-celestara-chantal-vaulet): The Celestara is a stunning 1.0 carat round moissanite engagement ring, exuding elegance with a split band and 12 side stones for added brilliance.
-  Updated: 2025-10-20T04:35:05Z
+  Updated: 2025-10-22T22:09:57Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/1-0ct-round-moissanite-ring-the-celestara-chantal-vaulet_by_Chantal_Vaulet.webp?v=1760891699
+  Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/1-0ct-round-moissanite-ring-the-celestara-chantal-vaulet_by_Chantal_Vaulet_ff3a0285-b25d-4091-9077-772f9e83f073.webp?v=1761122581
   - [4.5](https://www.chantalvaulet.com/products/1-0ct-round-moissanite-ring-the-celestara-chantal-vaulet?variant=42111627067457)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5](https://www.chantalvaulet.com/products/1-0ct-round-moissanite-ring-the-celestara-chantal-vaulet?variant=42111627100225)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5.25](https://www.chantalvaulet.com/products/1-0ct-round-moissanite-ring-the-celestara-chantal-vaulet?variant=42111627132993)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5.75](https://www.chantalvaulet.com/products/1-0ct-round-moissanite-ring-the-celestara-chantal-vaulet?variant=42111627165761)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [6](https://www.chantalvaulet.com/products/1-0ct-round-moissanite-ring-the-celestara-chantal-vaulet?variant=42111627198529)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [6.5](https://www.chantalvaulet.com/products/1-0ct-round-moissanite-ring-the-celestara-chantal-vaulet?variant=42111627231297)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7](https://www.chantalvaulet.com/products/1-0ct-round-moissanite-ring-the-celestara-chantal-vaulet?variant=42111627264065)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7.25](https://www.chantalvaulet.com/products/1-0ct-round-moissanite-ring-the-celestara-chantal-vaulet?variant=42111627296833)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7.75](https://www.chantalvaulet.com/products/1-0ct-round-moissanite-ring-the-celestara-chantal-vaulet?variant=42111627329601)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8](https://www.chantalvaulet.com/products/1-0ct-round-moissanite-ring-the-celestara-chantal-vaulet?variant=42111627362369)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8½](https://www.chantalvaulet.com/products/1-0ct-round-moissanite-ring-the-celestara-chantal-vaulet?variant=42111627395137)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8.75](https://www.chantalvaulet.com/products/1-0ct-round-moissanite-ring-the-celestara-chantal-vaulet?variant=42111627427905)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [9](https://www.chantalvaulet.com/products/1-0ct-round-moissanite-ring-the-celestara-chantal-vaulet?variant=42111627460673)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
 - [1.0CT Round Moissanite Ring – The Aurelle | Chantal Vaulet](https://www.chantalvaulet.com/products/1-0ct-round-moissanite-ring-the-aurelle-chantal-vaulet): The Aurelle is a 1.0 carat round moissanite ring with exceptional brilliance, featuring a sleek band and 16 sparkling side stones.
-  Updated: 2025-10-20T04:36:11Z
+  Updated: 2025-10-22T08:42:50Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/1-0ct-round-moissanite-ring-the-aurelle-chantal-vaulet_by_Chantal_Vaulet.webp?v=1760891765
   - [4.5](https://www.chantalvaulet.com/products/1-0ct-round-moissanite-ring-the-aurelle-chantal-vaulet?variant=42111626477633)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5](https://www.chantalvaulet.com/products/1-0ct-round-moissanite-ring-the-aurelle-chantal-vaulet?variant=42111626510401)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5.25](https://www.chantalvaulet.com/products/1-0ct-round-moissanite-ring-the-aurelle-chantal-vaulet?variant=42111626543169)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5.75](https://www.chantalvaulet.com/products/1-0ct-round-moissanite-ring-the-aurelle-chantal-vaulet?variant=42111626575937)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [6](https://www.chantalvaulet.com/products/1-0ct-round-moissanite-ring-the-aurelle-chantal-vaulet?variant=42111626608705)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [6.5](https://www.chantalvaulet.com/products/1-0ct-round-moissanite-ring-the-aurelle-chantal-vaulet?variant=42111626641473)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7](https://www.chantalvaulet.com/products/1-0ct-round-moissanite-ring-the-aurelle-chantal-vaulet?variant=42111626674241)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7.25](https://www.chantalvaulet.com/products/1-0ct-round-moissanite-ring-the-aurelle-chantal-vaulet?variant=42111626707009)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7.75](https://www.chantalvaulet.com/products/1-0ct-round-moissanite-ring-the-aurelle-chantal-vaulet?variant=42111626739777)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8](https://www.chantalvaulet.com/products/1-0ct-round-moissanite-ring-the-aurelle-chantal-vaulet?variant=42111626772545)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8½](https://www.chantalvaulet.com/products/1-0ct-round-moissanite-ring-the-aurelle-chantal-vaulet?variant=42111626805313)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8.75](https://www.chantalvaulet.com/products/1-0ct-round-moissanite-ring-the-aurelle-chantal-vaulet?variant=42111626838081)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [9](https://www.chantalvaulet.com/products/1-0ct-round-moissanite-ring-the-aurelle-chantal-vaulet?variant=42111626870849)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
 - [1.0 CT Moissanite Engagement Ring – The Aveline | Chantal Vaulet](https://www.chantalvaulet.com/products/the-aveline-a-love-that-shines-forever): The Aveline is a 1.0 carat round moissanite engagement ring with exquisite detail, capturing light and love in every glimmer.
-  Updated: 2025-10-20T04:37:32Z
+  Updated: 2025-10-22T08:42:31Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/the-aveline-a-love-that-shines-forever_by_Chantal_Vaulet.webp?v=1760891845
   - [4.5](https://www.chantalvaulet.com/products/the-aveline-a-love-that-shines-forever?variant=42111625887809)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5](https://www.chantalvaulet.com/products/the-aveline-a-love-that-shines-forever?variant=42111625920577)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5.25](https://www.chantalvaulet.com/products/the-aveline-a-love-that-shines-forever?variant=42111625953345)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5.75](https://www.chantalvaulet.com/products/the-aveline-a-love-that-shines-forever?variant=42111625986113)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [6](https://www.chantalvaulet.com/products/the-aveline-a-love-that-shines-forever?variant=42111626018881)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [6.5](https://www.chantalvaulet.com/products/the-aveline-a-love-that-shines-forever?variant=42111626051649)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7](https://www.chantalvaulet.com/products/the-aveline-a-love-that-shines-forever?variant=42111626084417)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7.25](https://www.chantalvaulet.com/products/the-aveline-a-love-that-shines-forever?variant=42111626117185)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7.75](https://www.chantalvaulet.com/products/the-aveline-a-love-that-shines-forever?variant=42111626149953)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8](https://www.chantalvaulet.com/products/the-aveline-a-love-that-shines-forever?variant=42111626182721)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8½](https://www.chantalvaulet.com/products/the-aveline-a-love-that-shines-forever?variant=42111626215489)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8.75](https://www.chantalvaulet.com/products/the-aveline-a-love-that-shines-forever?variant=42111626248257)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [9](https://www.chantalvaulet.com/products/the-aveline-a-love-that-shines-forever?variant=42111626281025)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
 - [1.0 CT Round Moissanite Ring – The Callista | Chantal Vaulet](https://www.chantalvaulet.com/products/1-0-ct-round-moissanite-ring-the-callista-chantal-vaulet): The Callista is a 1.0 carat round moissanite ring, featuring a modern bypass design and 28 side stones for unparalleled brilliance.
-  Updated: 2025-10-20T04:38:49Z
+  Updated: 2025-10-22T08:42:16Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/messi_m05b_by_Chantal_Vaulet.webp?v=1760891923
   - [4.5](https://www.chantalvaulet.com/products/1-0-ct-round-moissanite-ring-the-callista-chantal-vaulet?variant=42111625429057)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5](https://www.chantalvaulet.com/products/1-0-ct-round-moissanite-ring-the-callista-chantal-vaulet?variant=42111625461825)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5.25](https://www.chantalvaulet.com/products/1-0-ct-round-moissanite-ring-the-callista-chantal-vaulet?variant=42111625494593)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5.75](https://www.chantalvaulet.com/products/1-0-ct-round-moissanite-ring-the-callista-chantal-vaulet?variant=42111625527361)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [6](https://www.chantalvaulet.com/products/1-0-ct-round-moissanite-ring-the-callista-chantal-vaulet?variant=42111625560129)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [6.5](https://www.chantalvaulet.com/products/1-0-ct-round-moissanite-ring-the-callista-chantal-vaulet?variant=42111625592897)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7](https://www.chantalvaulet.com/products/1-0-ct-round-moissanite-ring-the-callista-chantal-vaulet?variant=42111625625665)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7.25](https://www.chantalvaulet.com/products/1-0-ct-round-moissanite-ring-the-callista-chantal-vaulet?variant=42111625658433)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7.75](https://www.chantalvaulet.com/products/1-0-ct-round-moissanite-ring-the-callista-chantal-vaulet?variant=42111625691201)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8](https://www.chantalvaulet.com/products/1-0-ct-round-moissanite-ring-the-callista-chantal-vaulet?variant=42111625723969)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8½](https://www.chantalvaulet.com/products/1-0-ct-round-moissanite-ring-the-callista-chantal-vaulet?variant=42111625756737)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8.75](https://www.chantalvaulet.com/products/1-0-ct-round-moissanite-ring-the-callista-chantal-vaulet?variant=42111625789505)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [9](https://www.chantalvaulet.com/products/1-0-ct-round-moissanite-ring-the-callista-chantal-vaulet?variant=42111625822273)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
 - [1.0 CT Round Moissanite Ring – The Aurora | Chantal Vaulet](https://www.chantalvaulet.com/products/the-aurora-moissanite-ring-1-0ct-sparkling-elegance): The Aurora is a 1.0 carat round moissanite ring with 38 accent stones, featuring stunning sparkle and an elegant split shank design.
-  Updated: 2025-10-20T04:40:23Z
+  Updated: 2025-10-22T08:42:00Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/the-aurora-moissanite-ring-1-0ct-sparkling-elegance_by_Chantal_Vaulet.webp?v=1760892017
   - [4.5](https://www.chantalvaulet.com/products/the-aurora-moissanite-ring-1-0ct-sparkling-elegance?variant=42111624839233)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5](https://www.chantalvaulet.com/products/the-aurora-moissanite-ring-1-0ct-sparkling-elegance?variant=42111624872001)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5.25](https://www.chantalvaulet.com/products/the-aurora-moissanite-ring-1-0ct-sparkling-elegance?variant=42111624904769)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5.75](https://www.chantalvaulet.com/products/the-aurora-moissanite-ring-1-0ct-sparkling-elegance?variant=42111624937537)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [6](https://www.chantalvaulet.com/products/the-aurora-moissanite-ring-1-0ct-sparkling-elegance?variant=42111624970305)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [6.5](https://www.chantalvaulet.com/products/the-aurora-moissanite-ring-1-0ct-sparkling-elegance?variant=42111625003073)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7](https://www.chantalvaulet.com/products/the-aurora-moissanite-ring-1-0ct-sparkling-elegance?variant=42111625035841)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7.25](https://www.chantalvaulet.com/products/the-aurora-moissanite-ring-1-0ct-sparkling-elegance?variant=42111625068609)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7.75](https://www.chantalvaulet.com/products/the-aurora-moissanite-ring-1-0ct-sparkling-elegance?variant=42111625101377)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8](https://www.chantalvaulet.com/products/the-aurora-moissanite-ring-1-0ct-sparkling-elegance?variant=42111625134145)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8½](https://www.chantalvaulet.com/products/the-aurora-moissanite-ring-1-0ct-sparkling-elegance?variant=42111625166913)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8.75](https://www.chantalvaulet.com/products/the-aurora-moissanite-ring-1-0ct-sparkling-elegance?variant=42111625199681)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [9](https://www.chantalvaulet.com/products/the-aurora-moissanite-ring-1-0ct-sparkling-elegance?variant=42111625232449)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
 - [1.0 CT Round Moissanite Ring – The Seraphina | Chantal Vaulet](https://www.chantalvaulet.com/products/1-0-ct-round-moissanite-ring-the-seraphina-chantal-vaulet): The Seraphina is a 1.0 carat moissanite engagement ring featuring a stunning floral halo and romantic rose gold detailing.
-  Updated: 2025-10-20T04:41:56Z
+  Updated: 2025-10-22T08:41:45Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/1-0-ct-round-moissanite-ring-the-seraphina-chantal-vaulet_by_Chantal_Vaulet.webp?v=1760892110
   - [4.5](https://www.chantalvaulet.com/products/1-0-ct-round-moissanite-ring-the-seraphina-chantal-vaulet?variant=42111623888961)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5](https://www.chantalvaulet.com/products/1-0-ct-round-moissanite-ring-the-seraphina-chantal-vaulet?variant=42111623921729)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5.25](https://www.chantalvaulet.com/products/1-0-ct-round-moissanite-ring-the-seraphina-chantal-vaulet?variant=42111623954497)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5.75](https://www.chantalvaulet.com/products/1-0-ct-round-moissanite-ring-the-seraphina-chantal-vaulet?variant=42111623987265)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [6](https://www.chantalvaulet.com/products/1-0-ct-round-moissanite-ring-the-seraphina-chantal-vaulet?variant=42111624020033)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [6.5](https://www.chantalvaulet.com/products/1-0-ct-round-moissanite-ring-the-seraphina-chantal-vaulet?variant=42111624052801)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7](https://www.chantalvaulet.com/products/1-0-ct-round-moissanite-ring-the-seraphina-chantal-vaulet?variant=42111624085569)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7.25](https://www.chantalvaulet.com/products/1-0-ct-round-moissanite-ring-the-seraphina-chantal-vaulet?variant=42111624118337)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7.75](https://www.chantalvaulet.com/products/1-0-ct-round-moissanite-ring-the-seraphina-chantal-vaulet?variant=42111624151105)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8](https://www.chantalvaulet.com/products/1-0-ct-round-moissanite-ring-the-seraphina-chantal-vaulet?variant=42111624183873)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8½](https://www.chantalvaulet.com/products/1-0-ct-round-moissanite-ring-the-seraphina-chantal-vaulet?variant=42111624216641)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8.75](https://www.chantalvaulet.com/products/1-0-ct-round-moissanite-ring-the-seraphina-chantal-vaulet?variant=42111624249409)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [9](https://www.chantalvaulet.com/products/1-0-ct-round-moissanite-ring-the-seraphina-chantal-vaulet?variant=42111624282177)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
 - [1.0 CT Round Moissanite Ring – The Evanna | Chantal Vaulet](https://www.chantalvaulet.com/products/1-0-ct-round-moissanite-ring-the-evanna-chantal-vaulet): The Evanna is a 1.0 carat moissanite solitaire ring with a sleek design and radiant detailing, perfect for modern elegance.
-  Updated: 2025-10-20T04:43:03Z
+  Updated: 2025-10-22T08:41:29Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/1-0-ct-round-moissanite-ring-the-evanna-chantal-vaulet_by_Chantal_Vaulet.webp?v=1760892178
   - [4.5](https://www.chantalvaulet.com/products/1-0-ct-round-moissanite-ring-the-evanna-chantal-vaulet?variant=42111623331905)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5](https://www.chantalvaulet.com/products/1-0-ct-round-moissanite-ring-the-evanna-chantal-vaulet?variant=42111623364673)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5.25](https://www.chantalvaulet.com/products/1-0-ct-round-moissanite-ring-the-evanna-chantal-vaulet?variant=42111623397441)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5.75](https://www.chantalvaulet.com/products/1-0-ct-round-moissanite-ring-the-evanna-chantal-vaulet?variant=42111623430209)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [6](https://www.chantalvaulet.com/products/1-0-ct-round-moissanite-ring-the-evanna-chantal-vaulet?variant=42111623462977)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [6.5](https://www.chantalvaulet.com/products/1-0-ct-round-moissanite-ring-the-evanna-chantal-vaulet?variant=42111623495745)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7](https://www.chantalvaulet.com/products/1-0-ct-round-moissanite-ring-the-evanna-chantal-vaulet?variant=42111623528513)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7.25](https://www.chantalvaulet.com/products/1-0-ct-round-moissanite-ring-the-evanna-chantal-vaulet?variant=42111623561281)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7.75](https://www.chantalvaulet.com/products/1-0-ct-round-moissanite-ring-the-evanna-chantal-vaulet?variant=42111623594049)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8](https://www.chantalvaulet.com/products/1-0-ct-round-moissanite-ring-the-evanna-chantal-vaulet?variant=42111623626817)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8½](https://www.chantalvaulet.com/products/1-0-ct-round-moissanite-ring-the-evanna-chantal-vaulet?variant=42111623659585)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8.75](https://www.chantalvaulet.com/products/1-0-ct-round-moissanite-ring-the-evanna-chantal-vaulet?variant=42111623692353)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [9](https://www.chantalvaulet.com/products/1-0-ct-round-moissanite-ring-the-evanna-chantal-vaulet?variant=42111623725121)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
 - [1.0 CT Round Moissanite Ring – Elowen | Chantal Vaulet](https://www.chantalvaulet.com/products/elowen-moissanite-solitaire-ring-1-0ct): The Elowen is a stunning 1.0 carat round moissanite ring, featuring a classic six-prong setting and elegant accent stones for extra brilliance.
-  Updated: 2025-10-20T04:44:40Z
+  Updated: 2025-10-22T08:41:11Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/elowen-moissanite-solitaire-ring-1-0ct_by_Chantal_Vaulet.webp?v=1760892273
   - [4.5](https://www.chantalvaulet.com/products/elowen-moissanite-solitaire-ring-1-0ct?variant=42111622742081)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5](https://www.chantalvaulet.com/products/elowen-moissanite-solitaire-ring-1-0ct?variant=42111622774849)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5.25](https://www.chantalvaulet.com/products/elowen-moissanite-solitaire-ring-1-0ct?variant=42111622807617)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5.75](https://www.chantalvaulet.com/products/elowen-moissanite-solitaire-ring-1-0ct?variant=42111622840385)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [6](https://www.chantalvaulet.com/products/elowen-moissanite-solitaire-ring-1-0ct?variant=42111622873153)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [6.5](https://www.chantalvaulet.com/products/elowen-moissanite-solitaire-ring-1-0ct?variant=42111622905921)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7](https://www.chantalvaulet.com/products/elowen-moissanite-solitaire-ring-1-0ct?variant=42111622938689)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7.25](https://www.chantalvaulet.com/products/elowen-moissanite-solitaire-ring-1-0ct?variant=42111622971457)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7.75](https://www.chantalvaulet.com/products/elowen-moissanite-solitaire-ring-1-0ct?variant=42111623004225)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8](https://www.chantalvaulet.com/products/elowen-moissanite-solitaire-ring-1-0ct?variant=42111623036993)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8½](https://www.chantalvaulet.com/products/elowen-moissanite-solitaire-ring-1-0ct?variant=42111623069761)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8.75](https://www.chantalvaulet.com/products/elowen-moissanite-solitaire-ring-1-0ct?variant=42111623102529)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [9](https://www.chantalvaulet.com/products/elowen-moissanite-solitaire-ring-1-0ct?variant=42111623135297)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
 - [1.0 CT Round Moissanite Engagement Ring – Rosalind | Chantal Vaulet](https://www.chantalvaulet.com/products/1-0-ct-round-moissanite-engagement-ring-rosalind-chantal-vaulet): The Rosalind is a 1.0ct round moissanite ring with exceptional brilliance and hidden ruby accent, crafted for timeless elegance.
-  Updated: 2025-10-20T04:46:15Z
+  Updated: 2025-10-22T08:40:57Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/1-0-ct-round-moissanite-engagement-ring-rosalind-chantal-vaulet_by_Chantal_Vaulet.webp?v=1760892361
   - [4.5](https://www.chantalvaulet.com/products/1-0-ct-round-moissanite-engagement-ring-rosalind-chantal-vaulet?variant=42111622217793)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5](https://www.chantalvaulet.com/products/1-0-ct-round-moissanite-engagement-ring-rosalind-chantal-vaulet?variant=42111622250561)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5.25](https://www.chantalvaulet.com/products/1-0-ct-round-moissanite-engagement-ring-rosalind-chantal-vaulet?variant=42111622283329)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5.75](https://www.chantalvaulet.com/products/1-0-ct-round-moissanite-engagement-ring-rosalind-chantal-vaulet?variant=42111622316097)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [6](https://www.chantalvaulet.com/products/1-0-ct-round-moissanite-engagement-ring-rosalind-chantal-vaulet?variant=42111622348865)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [6.5](https://www.chantalvaulet.com/products/1-0-ct-round-moissanite-engagement-ring-rosalind-chantal-vaulet?variant=42111622381633)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7](https://www.chantalvaulet.com/products/1-0-ct-round-moissanite-engagement-ring-rosalind-chantal-vaulet?variant=42111622414401)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7.25](https://www.chantalvaulet.com/products/1-0-ct-round-moissanite-engagement-ring-rosalind-chantal-vaulet?variant=42111622447169)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7.75](https://www.chantalvaulet.com/products/1-0-ct-round-moissanite-engagement-ring-rosalind-chantal-vaulet?variant=42111622479937)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8](https://www.chantalvaulet.com/products/1-0-ct-round-moissanite-engagement-ring-rosalind-chantal-vaulet?variant=42111622512705)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8½](https://www.chantalvaulet.com/products/1-0-ct-round-moissanite-engagement-ring-rosalind-chantal-vaulet?variant=42111622545473)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8.75](https://www.chantalvaulet.com/products/1-0-ct-round-moissanite-engagement-ring-rosalind-chantal-vaulet?variant=42111622578241)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [9](https://www.chantalvaulet.com/products/1-0-ct-round-moissanite-engagement-ring-rosalind-chantal-vaulet?variant=42111622611009)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
 - [1.0 CT Round Moissanite Ring – Marcella | Chantal Vaulet](https://www.chantalvaulet.com/products/marcella-moissanite-solitaire-ring-1-0ct): The Marcella is a 1.0 carat moissanite ring, featuring a unique H prong setting and 30 accent stones for exquisite brilliance.
-  Updated: 2025-10-20T04:47:38Z
+  Updated: 2025-10-22T08:40:41Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/marcella-moissanite-solitaire-ring-1-0ct_by_Chantal_Vaulet.webp?v=1760892453
   - [4.5](https://www.chantalvaulet.com/products/marcella-moissanite-solitaire-ring-1-0ct?variant=42111621562433)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5](https://www.chantalvaulet.com/products/marcella-moissanite-solitaire-ring-1-0ct?variant=42111621595201)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5.25](https://www.chantalvaulet.com/products/marcella-moissanite-solitaire-ring-1-0ct?variant=42111621627969)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5.75](https://www.chantalvaulet.com/products/marcella-moissanite-solitaire-ring-1-0ct?variant=42111621660737)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [6](https://www.chantalvaulet.com/products/marcella-moissanite-solitaire-ring-1-0ct?variant=42111621693505)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [6.5](https://www.chantalvaulet.com/products/marcella-moissanite-solitaire-ring-1-0ct?variant=42111621726273)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7](https://www.chantalvaulet.com/products/marcella-moissanite-solitaire-ring-1-0ct?variant=42111621759041)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7.25](https://www.chantalvaulet.com/products/marcella-moissanite-solitaire-ring-1-0ct?variant=42111621791809)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7.75](https://www.chantalvaulet.com/products/marcella-moissanite-solitaire-ring-1-0ct?variant=42111621824577)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8](https://www.chantalvaulet.com/products/marcella-moissanite-solitaire-ring-1-0ct?variant=42111621857345)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8½](https://www.chantalvaulet.com/products/marcella-moissanite-solitaire-ring-1-0ct?variant=42111621890113)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8.75](https://www.chantalvaulet.com/products/marcella-moissanite-solitaire-ring-1-0ct?variant=42111621922881)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [9](https://www.chantalvaulet.com/products/marcella-moissanite-solitaire-ring-1-0ct?variant=42111621955649)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
 - [1.0 CT Round Moissanite Ring – Elysia | Chantal Vaulet](https://www.chantalvaulet.com/products/1-0-ct-round-moissanite-ring-elysia-chantal-vaulet): The Elysia is a 1.0 carat round moissanite engagement ring with exquisite detail and 34 side stones, a perfect blend of classic and contemporary.
-  Updated: 2025-10-20T04:49:10Z
+  Updated: 2025-10-22T08:40:24Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/1-0-ct-round-moissanite-ring-elysia-chantal-vaulet_by_Chantal_Vaulet.webp?v=1760892545
   - [4.5](https://www.chantalvaulet.com/products/1-0-ct-round-moissanite-ring-elysia-chantal-vaulet?variant=42111621005377)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5](https://www.chantalvaulet.com/products/1-0-ct-round-moissanite-ring-elysia-chantal-vaulet?variant=42111621038145)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5.25](https://www.chantalvaulet.com/products/1-0-ct-round-moissanite-ring-elysia-chantal-vaulet?variant=42111621070913)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5.75](https://www.chantalvaulet.com/products/1-0-ct-round-moissanite-ring-elysia-chantal-vaulet?variant=42111621103681)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [6](https://www.chantalvaulet.com/products/1-0-ct-round-moissanite-ring-elysia-chantal-vaulet?variant=42111621136449)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [6.5](https://www.chantalvaulet.com/products/1-0-ct-round-moissanite-ring-elysia-chantal-vaulet?variant=42111621169217)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7](https://www.chantalvaulet.com/products/1-0-ct-round-moissanite-ring-elysia-chantal-vaulet?variant=42111621201985)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7.25](https://www.chantalvaulet.com/products/1-0-ct-round-moissanite-ring-elysia-chantal-vaulet?variant=42111621234753)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7.75](https://www.chantalvaulet.com/products/1-0-ct-round-moissanite-ring-elysia-chantal-vaulet?variant=42111621267521)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8](https://www.chantalvaulet.com/products/1-0-ct-round-moissanite-ring-elysia-chantal-vaulet?variant=42111621300289)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8½](https://www.chantalvaulet.com/products/1-0-ct-round-moissanite-ring-elysia-chantal-vaulet?variant=42111621333057)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8.75](https://www.chantalvaulet.com/products/1-0-ct-round-moissanite-ring-elysia-chantal-vaulet?variant=42111621365825)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [9](https://www.chantalvaulet.com/products/1-0-ct-round-moissanite-ring-elysia-chantal-vaulet?variant=42111621398593)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
 - [1.0 CT Round Moissanite Ring – Estrella Halo | Chantal Vaulet](https://www.chantalvaulet.com/products/estrella-moissanite-pave-halo-engagement-ring-1-0ct): The Estrella is a 1.0 carat pavé halo moissanite engagement ring, radiating elegance and timeless love in stunning detail.
-  Updated: 2025-10-19T20:04:53Z
+  Updated: 2025-10-22T08:40:06Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
   - [4.5](https://www.chantalvaulet.com/products/estrella-moissanite-pave-halo-engagement-ring-1-0ct?variant=42111620382785)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5](https://www.chantalvaulet.com/products/estrella-moissanite-pave-halo-engagement-ring-1-0ct?variant=42111620415553)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5.25](https://www.chantalvaulet.com/products/estrella-moissanite-pave-halo-engagement-ring-1-0ct?variant=42111620448321)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5.75](https://www.chantalvaulet.com/products/estrella-moissanite-pave-halo-engagement-ring-1-0ct?variant=42111620481089)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [6](https://www.chantalvaulet.com/products/estrella-moissanite-pave-halo-engagement-ring-1-0ct?variant=42111620513857)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [6.5](https://www.chantalvaulet.com/products/estrella-moissanite-pave-halo-engagement-ring-1-0ct?variant=42111620546625)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7](https://www.chantalvaulet.com/products/estrella-moissanite-pave-halo-engagement-ring-1-0ct?variant=42111620579393)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7.25](https://www.chantalvaulet.com/products/estrella-moissanite-pave-halo-engagement-ring-1-0ct?variant=42111620612161)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7.75](https://www.chantalvaulet.com/products/estrella-moissanite-pave-halo-engagement-ring-1-0ct?variant=42111620644929)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8](https://www.chantalvaulet.com/products/estrella-moissanite-pave-halo-engagement-ring-1-0ct?variant=42111620677697)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8½](https://www.chantalvaulet.com/products/estrella-moissanite-pave-halo-engagement-ring-1-0ct?variant=42111620710465)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8.75](https://www.chantalvaulet.com/products/estrella-moissanite-pave-halo-engagement-ring-1-0ct?variant=42111620743233)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [9](https://www.chantalvaulet.com/products/estrella-moissanite-pave-halo-engagement-ring-1-0ct?variant=42111620776001)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
 - [1.06 CT Hexagon Moissanite Band Ring – The Astrid | Chantal Vaulet](https://www.chantalvaulet.com/products/the-astrid-moissanite-hexagon-band-ring-1-06ct): The Astrid features a 1.06 carat hexagon moissanite in a six-prong setting, complemented by shimmering side stones for timeless elegance.
-  Updated: 2025-10-20T04:51:37Z
+  Updated: 2025-10-22T08:39:45Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/the-astrid-moissanite-hexagon-band-ring-1-06ct_by_Chantal_Vaulet.webp?v=1760892691
   - [4.5](https://www.chantalvaulet.com/products/the-astrid-moissanite-hexagon-band-ring-1-06ct?variant=42111619366977)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5](https://www.chantalvaulet.com/products/the-astrid-moissanite-hexagon-band-ring-1-06ct?variant=42111619399745)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5.25](https://www.chantalvaulet.com/products/the-astrid-moissanite-hexagon-band-ring-1-06ct?variant=42111619432513)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5.75](https://www.chantalvaulet.com/products/the-astrid-moissanite-hexagon-band-ring-1-06ct?variant=42111619465281)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [6](https://www.chantalvaulet.com/products/the-astrid-moissanite-hexagon-band-ring-1-06ct?variant=42111619498049)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/the-astrid-moissanite-hexagon-band-ring-1-06ct_by_Chantal_Vaulet.webp?v=1760892691
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [6.5](https://www.chantalvaulet.com/products/the-astrid-moissanite-hexagon-band-ring-1-06ct?variant=42111619530817)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7](https://www.chantalvaulet.com/products/the-astrid-moissanite-hexagon-band-ring-1-06ct?variant=42111619563585)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7.25](https://www.chantalvaulet.com/products/the-astrid-moissanite-hexagon-band-ring-1-06ct?variant=42111619596353)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7.75](https://www.chantalvaulet.com/products/the-astrid-moissanite-hexagon-band-ring-1-06ct?variant=42111619629121)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8](https://www.chantalvaulet.com/products/the-astrid-moissanite-hexagon-band-ring-1-06ct?variant=42111619661889)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8½](https://www.chantalvaulet.com/products/the-astrid-moissanite-hexagon-band-ring-1-06ct?variant=42111619694657)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8.75](https://www.chantalvaulet.com/products/the-astrid-moissanite-hexagon-band-ring-1-06ct?variant=42111619727425)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [9](https://www.chantalvaulet.com/products/the-astrid-moissanite-hexagon-band-ring-1-06ct?variant=42111619760193)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
 - [1.0 CT Round Moissanite Halo Ring – The Liravine | Chantal Vaulet](https://www.chantalvaulet.com/products/the-liravine-moissanite-halo-ring): The Liravine is a 1.0 carat round Moissanite halo ring featuring exquisite brilliance and elegant pavé-set detailing, perfect for any occasion.
-  Updated: 2025-10-20T04:52:57Z
+  Updated: 2025-10-22T08:39:25Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/the-liravine-moissanite-halo-ring_by_Chantal_Vaulet.webp?v=1760892770
   - [4.5](https://www.chantalvaulet.com/products/the-liravine-moissanite-halo-ring?variant=42111618777153)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5](https://www.chantalvaulet.com/products/the-liravine-moissanite-halo-ring?variant=42111618809921)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5.25](https://www.chantalvaulet.com/products/the-liravine-moissanite-halo-ring?variant=42111618842689)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5.75](https://www.chantalvaulet.com/products/the-liravine-moissanite-halo-ring?variant=42111618875457)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [6](https://www.chantalvaulet.com/products/the-liravine-moissanite-halo-ring?variant=42111618908225)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [6.5](https://www.chantalvaulet.com/products/the-liravine-moissanite-halo-ring?variant=42111618940993)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7](https://www.chantalvaulet.com/products/the-liravine-moissanite-halo-ring?variant=42111618973761)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7.25](https://www.chantalvaulet.com/products/the-liravine-moissanite-halo-ring?variant=42111619006529)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7.75](https://www.chantalvaulet.com/products/the-liravine-moissanite-halo-ring?variant=42111619039297)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8](https://www.chantalvaulet.com/products/the-liravine-moissanite-halo-ring?variant=42111619072065)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8½](https://www.chantalvaulet.com/products/the-liravine-moissanite-halo-ring?variant=42111619104833)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8.75](https://www.chantalvaulet.com/products/the-liravine-moissanite-halo-ring?variant=42111619137601)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [9](https://www.chantalvaulet.com/products/the-liravine-moissanite-halo-ring?variant=42111619170369)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
 - [1.0 CT Round Moissanite Ring – The Evelora | Chantal Vaulet](https://www.chantalvaulet.com/products/the-evelora-moissanite-halo-ring): The Evelora is a 1.0 carat round moissanite engagement ring featuring a dazzling halo and exquisite detailing, crafted in luxurious settings.
-  Updated: 2025-10-20T04:54:17Z
+  Updated: 2025-10-23T00:49:50Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/the-evelora-moissanite-halo-ring_by_Chantal_Vaulet.webp?v=1760892851
+  Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/the-evelora-moissanite-halo-ring_by_Chantal_Vaulet_508c2cb7-9b8a-466b-9de9-d05abd73de4a.webp?v=1761122307
   - [Clear / 4.5](https://www.chantalvaulet.com/products/the-evelora-moissanite-halo-ring?variant=42111592628289)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 5](https://www.chantalvaulet.com/products/the-evelora-moissanite-halo-ring?variant=42111592661057)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 5.25](https://www.chantalvaulet.com/products/the-evelora-moissanite-halo-ring?variant=42111592693825)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 5.75](https://www.chantalvaulet.com/products/the-evelora-moissanite-halo-ring?variant=42111592726593)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 6](https://www.chantalvaulet.com/products/the-evelora-moissanite-halo-ring?variant=42111592759361)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 6.5](https://www.chantalvaulet.com/products/the-evelora-moissanite-halo-ring?variant=42111592792129)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 7](https://www.chantalvaulet.com/products/the-evelora-moissanite-halo-ring?variant=42111592824897)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 7.25](https://www.chantalvaulet.com/products/the-evelora-moissanite-halo-ring?variant=42111592857665)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 7.75](https://www.chantalvaulet.com/products/the-evelora-moissanite-halo-ring?variant=42111592890433)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 8](https://www.chantalvaulet.com/products/the-evelora-moissanite-halo-ring?variant=42111592923201)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 8½](https://www.chantalvaulet.com/products/the-evelora-moissanite-halo-ring?variant=42111592955969)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 8.75](https://www.chantalvaulet.com/products/the-evelora-moissanite-halo-ring?variant=42111592988737)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 9](https://www.chantalvaulet.com/products/the-evelora-moissanite-halo-ring?variant=42111593021505)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Pink / 4.5](https://www.chantalvaulet.com/products/the-evelora-moissanite-halo-ring?variant=42111593054273)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 5](https://www.chantalvaulet.com/products/the-evelora-moissanite-halo-ring?variant=42111593087041)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 5.25](https://www.chantalvaulet.com/products/the-evelora-moissanite-halo-ring?variant=42111593119809)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 5.75](https://www.chantalvaulet.com/products/the-evelora-moissanite-halo-ring?variant=42111593152577)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 6](https://www.chantalvaulet.com/products/the-evelora-moissanite-halo-ring?variant=42111593185345)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 6.5](https://www.chantalvaulet.com/products/the-evelora-moissanite-halo-ring?variant=42111593218113)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 7](https://www.chantalvaulet.com/products/the-evelora-moissanite-halo-ring?variant=42111593250881)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 7.25](https://www.chantalvaulet.com/products/the-evelora-moissanite-halo-ring?variant=42111593283649)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 7.75](https://www.chantalvaulet.com/products/the-evelora-moissanite-halo-ring?variant=42111593316417)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 8](https://www.chantalvaulet.com/products/the-evelora-moissanite-halo-ring?variant=42111593349185)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 8½](https://www.chantalvaulet.com/products/the-evelora-moissanite-halo-ring?variant=42111593381953)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 8.75](https://www.chantalvaulet.com/products/the-evelora-moissanite-halo-ring?variant=42111593414721)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 9](https://www.chantalvaulet.com/products/the-evelora-moissanite-halo-ring?variant=42111593447489)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 4.5](https://www.chantalvaulet.com/products/the-evelora-moissanite-halo-ring?variant=42111593480257)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 5](https://www.chantalvaulet.com/products/the-evelora-moissanite-halo-ring?variant=42111593513025)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 5.25](https://www.chantalvaulet.com/products/the-evelora-moissanite-halo-ring?variant=42111593545793)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 5.75](https://www.chantalvaulet.com/products/the-evelora-moissanite-halo-ring?variant=42111593578561)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 6](https://www.chantalvaulet.com/products/the-evelora-moissanite-halo-ring?variant=42111593611329)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 6.5](https://www.chantalvaulet.com/products/the-evelora-moissanite-halo-ring?variant=42111593644097)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 7](https://www.chantalvaulet.com/products/the-evelora-moissanite-halo-ring?variant=42111593676865)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 7.25](https://www.chantalvaulet.com/products/the-evelora-moissanite-halo-ring?variant=42111593709633)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 7.75](https://www.chantalvaulet.com/products/the-evelora-moissanite-halo-ring?variant=42111593742401)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 8](https://www.chantalvaulet.com/products/the-evelora-moissanite-halo-ring?variant=42111593775169)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 8½](https://www.chantalvaulet.com/products/the-evelora-moissanite-halo-ring?variant=42111593807937)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 8.75](https://www.chantalvaulet.com/products/the-evelora-moissanite-halo-ring?variant=42111593840705)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 9](https://www.chantalvaulet.com/products/the-evelora-moissanite-halo-ring?variant=42111593873473)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Orange / 4.5](https://www.chantalvaulet.com/products/the-evelora-moissanite-halo-ring?variant=42111593906241)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Orange / 5](https://www.chantalvaulet.com/products/the-evelora-moissanite-halo-ring?variant=42111593939009)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Orange / 5.25](https://www.chantalvaulet.com/products/the-evelora-moissanite-halo-ring?variant=42111593971777)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Orange / 5.75](https://www.chantalvaulet.com/products/the-evelora-moissanite-halo-ring?variant=42111594004545)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Orange / 6](https://www.chantalvaulet.com/products/the-evelora-moissanite-halo-ring?variant=42111594037313)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Orange / 6.5](https://www.chantalvaulet.com/products/the-evelora-moissanite-halo-ring?variant=42111594070081)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Orange / 7](https://www.chantalvaulet.com/products/the-evelora-moissanite-halo-ring?variant=42111594102849)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Orange / 7.25](https://www.chantalvaulet.com/products/the-evelora-moissanite-halo-ring?variant=42111594135617)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Orange / 7.75](https://www.chantalvaulet.com/products/the-evelora-moissanite-halo-ring?variant=42111594168385)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Orange / 8](https://www.chantalvaulet.com/products/the-evelora-moissanite-halo-ring?variant=42111594201153)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Orange / 8½](https://www.chantalvaulet.com/products/the-evelora-moissanite-halo-ring?variant=42111594233921)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
 - [1.0 CT Round Moissanite Halo Ring – The Rosalyn | Chantal Vaulet](https://www.chantalvaulet.com/products/the-rosalyn-moissanite-halo-ring): The Rosalyn is a stunning 1.0 carat round moissanite halo ring, featuring 37 pavé-set stones in luxurious 18k white gold.
-  Updated: 2025-10-20T05:30:02Z
+  Updated: 2025-10-22T08:38:16Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/the-rosalyn-moissanite-halo-ring_by_Chantal_Vaulet.webp?v=1760892933
   - [4.5](https://www.chantalvaulet.com/products/the-rosalyn-moissanite-halo-ring?variant=42111599116353)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5](https://www.chantalvaulet.com/products/the-rosalyn-moissanite-halo-ring?variant=42111599149121)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5.25](https://www.chantalvaulet.com/products/the-rosalyn-moissanite-halo-ring?variant=42111599181889)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5.75](https://www.chantalvaulet.com/products/the-rosalyn-moissanite-halo-ring?variant=42111599214657)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [6](https://www.chantalvaulet.com/products/the-rosalyn-moissanite-halo-ring?variant=42111599247425)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [6.5](https://www.chantalvaulet.com/products/the-rosalyn-moissanite-halo-ring?variant=42111599280193)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7](https://www.chantalvaulet.com/products/the-rosalyn-moissanite-halo-ring?variant=42111599312961)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7.25](https://www.chantalvaulet.com/products/the-rosalyn-moissanite-halo-ring?variant=42111599345729)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7.75](https://www.chantalvaulet.com/products/the-rosalyn-moissanite-halo-ring?variant=42111599378497)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8](https://www.chantalvaulet.com/products/the-rosalyn-moissanite-halo-ring?variant=42111599411265)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8½](https://www.chantalvaulet.com/products/the-rosalyn-moissanite-halo-ring?variant=42111599444033)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8.75](https://www.chantalvaulet.com/products/the-rosalyn-moissanite-halo-ring?variant=42111599476801)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [9](https://www.chantalvaulet.com/products/the-rosalyn-moissanite-halo-ring?variant=42111599509569)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
 - [1.0 CT Round Moissanite Ring – The Alisora | Chantal Vaulet](https://www.chantalvaulet.com/products/the-alisora-moissanite-crown-ring): The Alisora is a 1.0 carat round moissanite ring with regal elegance, featuring a luxurious crown-inspired setting and pavé accents.
-  Updated: 2025-10-20T04:56:48Z
+  Updated: 2025-10-22T08:37:59Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/the-alisora-moissanite-crown-ring_by_Chantal_Vaulet.webp?v=1760893001
   - [4.5](https://www.chantalvaulet.com/products/the-alisora-moissanite-crown-ring?variant=42111598493761)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5](https://www.chantalvaulet.com/products/the-alisora-moissanite-crown-ring?variant=42111598526529)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5.25](https://www.chantalvaulet.com/products/the-alisora-moissanite-crown-ring?variant=42111598559297)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5.75](https://www.chantalvaulet.com/products/the-alisora-moissanite-crown-ring?variant=42111598592065)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [6](https://www.chantalvaulet.com/products/the-alisora-moissanite-crown-ring?variant=42111598624833)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [6.5](https://www.chantalvaulet.com/products/the-alisora-moissanite-crown-ring?variant=42111598657601)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7](https://www.chantalvaulet.com/products/the-alisora-moissanite-crown-ring?variant=42111598690369)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7.25](https://www.chantalvaulet.com/products/the-alisora-moissanite-crown-ring?variant=42111598723137)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7.75](https://www.chantalvaulet.com/products/the-alisora-moissanite-crown-ring?variant=42111598755905)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8](https://www.chantalvaulet.com/products/the-alisora-moissanite-crown-ring?variant=42111598788673)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8½](https://www.chantalvaulet.com/products/the-alisora-moissanite-crown-ring?variant=42111598821441)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8.75](https://www.chantalvaulet.com/products/the-alisora-moissanite-crown-ring?variant=42111598854209)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [9](https://www.chantalvaulet.com/products/the-alisora-moissanite-crown-ring?variant=42111598886977)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
 - [1.0 CT Round Moissanite Ring – The Avalyn | Chantal Vaulet](https://www.chantalvaulet.com/products/the-avalyn-moissanite-pave-ring): The Avalyn is a 1.0 carat round moissanite engagement ring with exquisite sparkle and elegant pavé detailing, set in a classic design.
-  Updated: 2025-10-20T04:57:38Z
+  Updated: 2025-10-22T08:37:40Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/the-avalyn-moissanite-pave-ring_by_Chantal_Vaulet.webp?v=1760893054
   - [4.5](https://www.chantalvaulet.com/products/the-avalyn-moissanite-pave-ring?variant=42111597903937)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5](https://www.chantalvaulet.com/products/the-avalyn-moissanite-pave-ring?variant=42111597936705)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5.25](https://www.chantalvaulet.com/products/the-avalyn-moissanite-pave-ring?variant=42111597969473)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5.75](https://www.chantalvaulet.com/products/the-avalyn-moissanite-pave-ring?variant=42111598002241)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [6](https://www.chantalvaulet.com/products/the-avalyn-moissanite-pave-ring?variant=42111598035009)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [6.5](https://www.chantalvaulet.com/products/the-avalyn-moissanite-pave-ring?variant=42111598067777)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7](https://www.chantalvaulet.com/products/the-avalyn-moissanite-pave-ring?variant=42111598100545)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7.25](https://www.chantalvaulet.com/products/the-avalyn-moissanite-pave-ring?variant=42111598133313)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7.75](https://www.chantalvaulet.com/products/the-avalyn-moissanite-pave-ring?variant=42111598166081)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8](https://www.chantalvaulet.com/products/the-avalyn-moissanite-pave-ring?variant=42111598198849)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8½](https://www.chantalvaulet.com/products/the-avalyn-moissanite-pave-ring?variant=42111598231617)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8.75](https://www.chantalvaulet.com/products/the-avalyn-moissanite-pave-ring?variant=42111598264385)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [9](https://www.chantalvaulet.com/products/the-avalyn-moissanite-pave-ring?variant=42111598297153)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
 - [1.0 CT Round Moissanite Ring – The Florielle | Chantal Vaulet](https://www.chantalvaulet.com/products/the-florielle-moissanite-bloom-ring): The Florielle is a 1.0 carat round Moissanite engagement ring with floral design and exquisite detailing, crafted to enhance its natural beauty.
-  Updated: 2025-10-20T04:59:01Z
+  Updated: 2025-10-22T08:37:21Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/the-florielle-moissanite-bloom-ring_by_Chantal_Vaulet.webp?v=1760893135
   - [4.5](https://www.chantalvaulet.com/products/the-florielle-moissanite-bloom-ring?variant=42111597346881)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5](https://www.chantalvaulet.com/products/the-florielle-moissanite-bloom-ring?variant=42111597379649)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5.25](https://www.chantalvaulet.com/products/the-florielle-moissanite-bloom-ring?variant=42111597412417)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5.75](https://www.chantalvaulet.com/products/the-florielle-moissanite-bloom-ring?variant=42111597445185)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [6](https://www.chantalvaulet.com/products/the-florielle-moissanite-bloom-ring?variant=42111597477953)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [6.5](https://www.chantalvaulet.com/products/the-florielle-moissanite-bloom-ring?variant=42111597510721)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7](https://www.chantalvaulet.com/products/the-florielle-moissanite-bloom-ring?variant=42111597543489)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7.25](https://www.chantalvaulet.com/products/the-florielle-moissanite-bloom-ring?variant=42111597576257)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7.75](https://www.chantalvaulet.com/products/the-florielle-moissanite-bloom-ring?variant=42111597609025)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8](https://www.chantalvaulet.com/products/the-florielle-moissanite-bloom-ring?variant=42111597641793)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8½](https://www.chantalvaulet.com/products/the-florielle-moissanite-bloom-ring?variant=42111597674561)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8.75](https://www.chantalvaulet.com/products/the-florielle-moissanite-bloom-ring?variant=42111597707329)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [9](https://www.chantalvaulet.com/products/the-florielle-moissanite-bloom-ring?variant=42111597740097)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
 - [1.0 CT Round Moissanite Ring – The Lorivelle | Chantal Vaulet](https://www.chantalvaulet.com/products/the-lorivelle-moissanite-twist-ring): The Lorivelle is a 1.0 carat round moissanite twist ring featuring a radiant center stone and sparkling pavé accents.
-  Updated: 2025-10-20T04:59:41Z
+  Updated: 2025-10-22T08:36:54Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/the-lorivelle-moissanite-twist-ring_by_Chantal_Vaulet.webp?v=1760893173
   - [4.5](https://www.chantalvaulet.com/products/the-lorivelle-moissanite-twist-ring?variant=42111596822593)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5](https://www.chantalvaulet.com/products/the-lorivelle-moissanite-twist-ring?variant=42111596855361)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5.25](https://www.chantalvaulet.com/products/the-lorivelle-moissanite-twist-ring?variant=42111596888129)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5.75](https://www.chantalvaulet.com/products/the-lorivelle-moissanite-twist-ring?variant=42111596920897)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [6](https://www.chantalvaulet.com/products/the-lorivelle-moissanite-twist-ring?variant=42111596953665)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [6.5](https://www.chantalvaulet.com/products/the-lorivelle-moissanite-twist-ring?variant=42111596986433)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7](https://www.chantalvaulet.com/products/the-lorivelle-moissanite-twist-ring?variant=42111597019201)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7.25](https://www.chantalvaulet.com/products/the-lorivelle-moissanite-twist-ring?variant=42111597051969)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7.75](https://www.chantalvaulet.com/products/the-lorivelle-moissanite-twist-ring?variant=42111597084737)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8](https://www.chantalvaulet.com/products/the-lorivelle-moissanite-twist-ring?variant=42111597117505)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8½](https://www.chantalvaulet.com/products/the-lorivelle-moissanite-twist-ring?variant=42111597150273)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8.75](https://www.chantalvaulet.com/products/the-lorivelle-moissanite-twist-ring?variant=42111597183041)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [9](https://www.chantalvaulet.com/products/the-lorivelle-moissanite-twist-ring?variant=42111597215809)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
 - [1.0 CT Round Moissanite Ring – The Luvianne | Chantal Vaulet](https://www.chantalvaulet.com/products/the-luvianne-moissanite-pave-ring): The Luvianne is a 1.0 carat round moissanite ring featuring a brilliant six-prong setting and 24 pavé-set stones for added elegance.
-  Updated: 2025-10-20T05:00:21Z
+  Updated: 2025-10-22T08:36:40Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/the-luvianne-moissanite-pave-ring_by_Chantal_Vaulet.webp?v=1760893215
   - [4.5](https://www.chantalvaulet.com/products/the-luvianne-moissanite-pave-ring?variant=42111596265537)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5](https://www.chantalvaulet.com/products/the-luvianne-moissanite-pave-ring?variant=42111596298305)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5.25](https://www.chantalvaulet.com/products/the-luvianne-moissanite-pave-ring?variant=42111596331073)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5.75](https://www.chantalvaulet.com/products/the-luvianne-moissanite-pave-ring?variant=42111596363841)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [6](https://www.chantalvaulet.com/products/the-luvianne-moissanite-pave-ring?variant=42111596396609)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [6.5](https://www.chantalvaulet.com/products/the-luvianne-moissanite-pave-ring?variant=42111596429377)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7](https://www.chantalvaulet.com/products/the-luvianne-moissanite-pave-ring?variant=42111596462145)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7.25](https://www.chantalvaulet.com/products/the-luvianne-moissanite-pave-ring?variant=42111596494913)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7.75](https://www.chantalvaulet.com/products/the-luvianne-moissanite-pave-ring?variant=42111596527681)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8](https://www.chantalvaulet.com/products/the-luvianne-moissanite-pave-ring?variant=42111596560449)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8½](https://www.chantalvaulet.com/products/the-luvianne-moissanite-pave-ring?variant=42111596593217)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8.75](https://www.chantalvaulet.com/products/the-luvianne-moissanite-pave-ring?variant=42111596625985)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [9](https://www.chantalvaulet.com/products/the-luvianne-moissanite-pave-ring?variant=42111596658753)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
 - [1.0 CT Round Moissanite Ring – The Elvanna | Chantal Vaulet](https://www.chantalvaulet.com/products/the-elvanna-moissanite-pave-ring): The Elvanna is a 1.0 carat round moissanite engagement ring featuring elegant pavé-set stones in a sleek design.
-  Updated: 2025-10-20T05:00:59Z
+  Updated: 2025-10-22T08:36:23Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/the-elvanna-moissanite-pave-ring_by_Chantal_Vaulet.webp?v=1760893254
   - [4.5](https://www.chantalvaulet.com/products/the-elvanna-moissanite-pave-ring?variant=42111595642945)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5](https://www.chantalvaulet.com/products/the-elvanna-moissanite-pave-ring?variant=42111595675713)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5.25](https://www.chantalvaulet.com/products/the-elvanna-moissanite-pave-ring?variant=42111595708481)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5.75](https://www.chantalvaulet.com/products/the-elvanna-moissanite-pave-ring?variant=42111595741249)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [6](https://www.chantalvaulet.com/products/the-elvanna-moissanite-pave-ring?variant=42111595774017)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [6.5](https://www.chantalvaulet.com/products/the-elvanna-moissanite-pave-ring?variant=42111595806785)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7](https://www.chantalvaulet.com/products/the-elvanna-moissanite-pave-ring?variant=42111595839553)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7.25](https://www.chantalvaulet.com/products/the-elvanna-moissanite-pave-ring?variant=42111595872321)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7.75](https://www.chantalvaulet.com/products/the-elvanna-moissanite-pave-ring?variant=42111595905089)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8](https://www.chantalvaulet.com/products/the-elvanna-moissanite-pave-ring?variant=42111595937857)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8½](https://www.chantalvaulet.com/products/the-elvanna-moissanite-pave-ring?variant=42111595970625)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8.75](https://www.chantalvaulet.com/products/the-elvanna-moissanite-pave-ring?variant=42111596003393)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [9](https://www.chantalvaulet.com/products/the-elvanna-moissanite-pave-ring?variant=42111596036161)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
 - [1.0 CT Round Moissanite Ring – The Esmerelle | Chantal Vaulet](https://www.chantalvaulet.com/products/the-esmerelle-moissanite-floral-ring): The Esmerelle is a 1.0 carat round moissanite floral ring with exquisite detail, featuring a stunning 1.0CT center stone and 87 pavé-set accents.
-  Updated: 2025-10-20T05:02:21Z
+  Updated: 2025-10-22T08:36:07Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/the-esmerelle-moissanite-floral-ring_by_Chantal_Vaulet.webp?v=1760893333
   - [4.5](https://www.chantalvaulet.com/products/the-esmerelle-moissanite-floral-ring?variant=42111594954817)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5](https://www.chantalvaulet.com/products/the-esmerelle-moissanite-floral-ring?variant=42111594987585)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5.25](https://www.chantalvaulet.com/products/the-esmerelle-moissanite-floral-ring?variant=42111595020353)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5.75](https://www.chantalvaulet.com/products/the-esmerelle-moissanite-floral-ring?variant=42111595053121)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [6](https://www.chantalvaulet.com/products/the-esmerelle-moissanite-floral-ring?variant=42111595085889)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [6.5](https://www.chantalvaulet.com/products/the-esmerelle-moissanite-floral-ring?variant=42111595118657)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7](https://www.chantalvaulet.com/products/the-esmerelle-moissanite-floral-ring?variant=42111595151425)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7.25](https://www.chantalvaulet.com/products/the-esmerelle-moissanite-floral-ring?variant=42111595184193)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7.75](https://www.chantalvaulet.com/products/the-esmerelle-moissanite-floral-ring?variant=42111595216961)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8](https://www.chantalvaulet.com/products/the-esmerelle-moissanite-floral-ring?variant=42111595249729)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8½](https://www.chantalvaulet.com/products/the-esmerelle-moissanite-floral-ring?variant=42111595282497)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8.75](https://www.chantalvaulet.com/products/the-esmerelle-moissanite-floral-ring?variant=42111595315265)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [9](https://www.chantalvaulet.com/products/the-esmerelle-moissanite-floral-ring?variant=42111595348033)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
 - [1.0 CT Round Moissanite Ring – The Solvienne | Chantal Vaulet](https://www.chantalvaulet.com/products/the-solvienne-moissanite-solitaire-ring): The Solvienne is a 1.0 carat round moissanite engagement ring with timeless elegance and vintage charm, set in 18k white gold.
-  Updated: 2025-10-20T05:03:15Z
+  Updated: 2025-10-22T08:35:51Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/the-solvienne-moissanite-solitaire-ring_by_Chantal_Vaulet.webp?v=1760893387
   - [4.5](https://www.chantalvaulet.com/products/the-solvienne-moissanite-solitaire-ring?variant=42111580012609)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5](https://www.chantalvaulet.com/products/the-solvienne-moissanite-solitaire-ring?variant=42111580045377)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5.25](https://www.chantalvaulet.com/products/the-solvienne-moissanite-solitaire-ring?variant=42111580078145)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [5.75](https://www.chantalvaulet.com/products/the-solvienne-moissanite-solitaire-ring?variant=42111580110913)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [6](https://www.chantalvaulet.com/products/the-solvienne-moissanite-solitaire-ring?variant=42111580143681)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [6.5](https://www.chantalvaulet.com/products/the-solvienne-moissanite-solitaire-ring?variant=42111580176449)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7](https://www.chantalvaulet.com/products/the-solvienne-moissanite-solitaire-ring?variant=42111580209217)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7.25](https://www.chantalvaulet.com/products/the-solvienne-moissanite-solitaire-ring?variant=42111580241985)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [7.75](https://www.chantalvaulet.com/products/the-solvienne-moissanite-solitaire-ring?variant=42111580274753)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8](https://www.chantalvaulet.com/products/the-solvienne-moissanite-solitaire-ring?variant=42111580307521)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8½](https://www.chantalvaulet.com/products/the-solvienne-moissanite-solitaire-ring?variant=42111580340289)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [8.75](https://www.chantalvaulet.com/products/the-solvienne-moissanite-solitaire-ring?variant=42111580373057)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [9](https://www.chantalvaulet.com/products/the-solvienne-moissanite-solitaire-ring?variant=42111580405825)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
 - [1.0 CT Round Moissanite Ring – The Orliana | Chantal Vaulet](https://www.chantalvaulet.com/products/elysira-moissanite-halo-ring): The Orliana is a 1.0 carat round moissanite halo ring featuring exquisite sparkle and intricate design, perfect for any engagement.
-  Updated: 2025-10-20T05:04:18Z
+  Updated: 2025-10-22T08:35:29Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/elysira-moissanite-halo-ring_by_Chantal_Vaulet.webp?v=1760893452
   - [Clear / 4.5](https://www.chantalvaulet.com/products/elysira-moissanite-halo-ring?variant=42111578013761)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 5](https://www.chantalvaulet.com/products/elysira-moissanite-halo-ring?variant=42111578046529)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 5.25](https://www.chantalvaulet.com/products/elysira-moissanite-halo-ring?variant=42111578079297)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 5.75](https://www.chantalvaulet.com/products/elysira-moissanite-halo-ring?variant=42111578112065)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 6](https://www.chantalvaulet.com/products/elysira-moissanite-halo-ring?variant=42111578144833)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 6.5](https://www.chantalvaulet.com/products/elysira-moissanite-halo-ring?variant=42111578177601)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 7](https://www.chantalvaulet.com/products/elysira-moissanite-halo-ring?variant=42111578210369)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 7.25](https://www.chantalvaulet.com/products/elysira-moissanite-halo-ring?variant=42111578243137)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 7.75](https://www.chantalvaulet.com/products/elysira-moissanite-halo-ring?variant=42111578275905)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 8](https://www.chantalvaulet.com/products/elysira-moissanite-halo-ring?variant=42111578308673)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 8½](https://www.chantalvaulet.com/products/elysira-moissanite-halo-ring?variant=42111578341441)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 8.75](https://www.chantalvaulet.com/products/elysira-moissanite-halo-ring?variant=42111578374209)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 9](https://www.chantalvaulet.com/products/elysira-moissanite-halo-ring?variant=42111578406977)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Pink / 4.5](https://www.chantalvaulet.com/products/elysira-moissanite-halo-ring?variant=42111578439745)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 5](https://www.chantalvaulet.com/products/elysira-moissanite-halo-ring?variant=42111578472513)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 5.25](https://www.chantalvaulet.com/products/elysira-moissanite-halo-ring?variant=42111578505281)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 5.75](https://www.chantalvaulet.com/products/elysira-moissanite-halo-ring?variant=42111578538049)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 6](https://www.chantalvaulet.com/products/elysira-moissanite-halo-ring?variant=42111578570817)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 6.5](https://www.chantalvaulet.com/products/elysira-moissanite-halo-ring?variant=42111578603585)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 7](https://www.chantalvaulet.com/products/elysira-moissanite-halo-ring?variant=42111578636353)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 7.25](https://www.chantalvaulet.com/products/elysira-moissanite-halo-ring?variant=42111578669121)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 7.75](https://www.chantalvaulet.com/products/elysira-moissanite-halo-ring?variant=42111578701889)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 8](https://www.chantalvaulet.com/products/elysira-moissanite-halo-ring?variant=42111578734657)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 8½](https://www.chantalvaulet.com/products/elysira-moissanite-halo-ring?variant=42111578767425)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 8.75](https://www.chantalvaulet.com/products/elysira-moissanite-halo-ring?variant=42111578800193)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 9](https://www.chantalvaulet.com/products/elysira-moissanite-halo-ring?variant=42111578832961)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 4.5](https://www.chantalvaulet.com/products/elysira-moissanite-halo-ring?variant=42111578865729)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 5](https://www.chantalvaulet.com/products/elysira-moissanite-halo-ring?variant=42111578898497)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 5.25](https://www.chantalvaulet.com/products/elysira-moissanite-halo-ring?variant=42111578931265)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 5.75](https://www.chantalvaulet.com/products/elysira-moissanite-halo-ring?variant=42111578964033)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 6](https://www.chantalvaulet.com/products/elysira-moissanite-halo-ring?variant=42111578996801)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 6.5](https://www.chantalvaulet.com/products/elysira-moissanite-halo-ring?variant=42111579029569)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 7](https://www.chantalvaulet.com/products/elysira-moissanite-halo-ring?variant=42111579062337)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 7.25](https://www.chantalvaulet.com/products/elysira-moissanite-halo-ring?variant=42111579095105)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 7.75](https://www.chantalvaulet.com/products/elysira-moissanite-halo-ring?variant=42111579127873)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 8](https://www.chantalvaulet.com/products/elysira-moissanite-halo-ring?variant=42111579160641)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 8½](https://www.chantalvaulet.com/products/elysira-moissanite-halo-ring?variant=42111579193409)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 8.75](https://www.chantalvaulet.com/products/elysira-moissanite-halo-ring?variant=42111579226177)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 9](https://www.chantalvaulet.com/products/elysira-moissanite-halo-ring?variant=42111579258945)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Yellow / 4.5](https://www.chantalvaulet.com/products/elysira-moissanite-halo-ring?variant=42111579291713)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Yellow / 5](https://www.chantalvaulet.com/products/elysira-moissanite-halo-ring?variant=42111579324481)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Yellow / 5.25](https://www.chantalvaulet.com/products/elysira-moissanite-halo-ring?variant=42111579357249)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Yellow / 5.75](https://www.chantalvaulet.com/products/elysira-moissanite-halo-ring?variant=42111579390017)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Yellow / 6](https://www.chantalvaulet.com/products/elysira-moissanite-halo-ring?variant=42111579422785)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Yellow / 6.5](https://www.chantalvaulet.com/products/elysira-moissanite-halo-ring?variant=42111579455553)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Yellow / 7](https://www.chantalvaulet.com/products/elysira-moissanite-halo-ring?variant=42111579488321)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Yellow / 7.25](https://www.chantalvaulet.com/products/elysira-moissanite-halo-ring?variant=42111579521089)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Yellow / 7.75](https://www.chantalvaulet.com/products/elysira-moissanite-halo-ring?variant=42111579553857)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Yellow / 8](https://www.chantalvaulet.com/products/elysira-moissanite-halo-ring?variant=42111579586625)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Yellow / 8½](https://www.chantalvaulet.com/products/elysira-moissanite-halo-ring?variant=42111579619393)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
 - [1.0CT Round Moissanite Ring – The Seralyn | Chantal Vaulet](https://www.chantalvaulet.com/products/the-seralyn-moissanite-baguette-ring): The Seralyn is a 1.0 carat round moissanite engagement ring with refined baguette accents, crafted in a classic setting.
-  Updated: 2025-10-20T05:06:03Z
+  Updated: 2025-10-22T08:34:21Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/the-seralyn-moissanite-baguette-ring_by_Chantal_Vaulet.webp?v=1760893557
   - [Clear / 4.5](https://www.chantalvaulet.com/products/the-seralyn-moissanite-baguette-ring?variant=42111576145985)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 5](https://www.chantalvaulet.com/products/the-seralyn-moissanite-baguette-ring?variant=42111576178753)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 5.25](https://www.chantalvaulet.com/products/the-seralyn-moissanite-baguette-ring?variant=42111576211521)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 5.75](https://www.chantalvaulet.com/products/the-seralyn-moissanite-baguette-ring?variant=42111576244289)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 6](https://www.chantalvaulet.com/products/the-seralyn-moissanite-baguette-ring?variant=42111576277057)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 6.5](https://www.chantalvaulet.com/products/the-seralyn-moissanite-baguette-ring?variant=42111576309825)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 7](https://www.chantalvaulet.com/products/the-seralyn-moissanite-baguette-ring?variant=42111576342593)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 7.25](https://www.chantalvaulet.com/products/the-seralyn-moissanite-baguette-ring?variant=42111576375361)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 7.75](https://www.chantalvaulet.com/products/the-seralyn-moissanite-baguette-ring?variant=42111576408129)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 8](https://www.chantalvaulet.com/products/the-seralyn-moissanite-baguette-ring?variant=42111576440897)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 8½](https://www.chantalvaulet.com/products/the-seralyn-moissanite-baguette-ring?variant=42111576473665)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 8.75](https://www.chantalvaulet.com/products/the-seralyn-moissanite-baguette-ring?variant=42111576506433)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 9](https://www.chantalvaulet.com/products/the-seralyn-moissanite-baguette-ring?variant=42111576539201)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Pink / 4.5](https://www.chantalvaulet.com/products/the-seralyn-moissanite-baguette-ring?variant=42111576571969)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 5](https://www.chantalvaulet.com/products/the-seralyn-moissanite-baguette-ring?variant=42111576604737)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 5.25](https://www.chantalvaulet.com/products/the-seralyn-moissanite-baguette-ring?variant=42111576637505)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 5.75](https://www.chantalvaulet.com/products/the-seralyn-moissanite-baguette-ring?variant=42111576670273)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 6](https://www.chantalvaulet.com/products/the-seralyn-moissanite-baguette-ring?variant=42111576703041)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 6.5](https://www.chantalvaulet.com/products/the-seralyn-moissanite-baguette-ring?variant=42111576735809)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 7](https://www.chantalvaulet.com/products/the-seralyn-moissanite-baguette-ring?variant=42111576768577)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 7.25](https://www.chantalvaulet.com/products/the-seralyn-moissanite-baguette-ring?variant=42111576801345)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 7.75](https://www.chantalvaulet.com/products/the-seralyn-moissanite-baguette-ring?variant=42111576834113)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 8](https://www.chantalvaulet.com/products/the-seralyn-moissanite-baguette-ring?variant=42111576866881)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 8½](https://www.chantalvaulet.com/products/the-seralyn-moissanite-baguette-ring?variant=42111576899649)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 8.75](https://www.chantalvaulet.com/products/the-seralyn-moissanite-baguette-ring?variant=42111576932417)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 9](https://www.chantalvaulet.com/products/the-seralyn-moissanite-baguette-ring?variant=42111576965185)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 4.5](https://www.chantalvaulet.com/products/the-seralyn-moissanite-baguette-ring?variant=42111576997953)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 5](https://www.chantalvaulet.com/products/the-seralyn-moissanite-baguette-ring?variant=42111577030721)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 5.25](https://www.chantalvaulet.com/products/the-seralyn-moissanite-baguette-ring?variant=42111577063489)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 5.75](https://www.chantalvaulet.com/products/the-seralyn-moissanite-baguette-ring?variant=42111577096257)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 6](https://www.chantalvaulet.com/products/the-seralyn-moissanite-baguette-ring?variant=42111577129025)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 6.5](https://www.chantalvaulet.com/products/the-seralyn-moissanite-baguette-ring?variant=42111577161793)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 7](https://www.chantalvaulet.com/products/the-seralyn-moissanite-baguette-ring?variant=42111577194561)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 7.25](https://www.chantalvaulet.com/products/the-seralyn-moissanite-baguette-ring?variant=42111577227329)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 7.75](https://www.chantalvaulet.com/products/the-seralyn-moissanite-baguette-ring?variant=42111577260097)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 8](https://www.chantalvaulet.com/products/the-seralyn-moissanite-baguette-ring?variant=42111577292865)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 8½](https://www.chantalvaulet.com/products/the-seralyn-moissanite-baguette-ring?variant=42111577325633)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 8.75](https://www.chantalvaulet.com/products/the-seralyn-moissanite-baguette-ring?variant=42111577358401)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 9](https://www.chantalvaulet.com/products/the-seralyn-moissanite-baguette-ring?variant=42111577391169)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Orange / 4.5](https://www.chantalvaulet.com/products/the-seralyn-moissanite-baguette-ring?variant=42111577423937)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Orange / 5](https://www.chantalvaulet.com/products/the-seralyn-moissanite-baguette-ring?variant=42111577456705)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Orange / 5.25](https://www.chantalvaulet.com/products/the-seralyn-moissanite-baguette-ring?variant=42111577489473)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Orange / 5.75](https://www.chantalvaulet.com/products/the-seralyn-moissanite-baguette-ring?variant=42111577522241)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Orange / 6](https://www.chantalvaulet.com/products/the-seralyn-moissanite-baguette-ring?variant=42111577555009)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Orange / 6.5](https://www.chantalvaulet.com/products/the-seralyn-moissanite-baguette-ring?variant=42111577587777)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Orange / 7](https://www.chantalvaulet.com/products/the-seralyn-moissanite-baguette-ring?variant=42111577620545)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Orange / 7.25](https://www.chantalvaulet.com/products/the-seralyn-moissanite-baguette-ring?variant=42111577653313)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Orange / 7.75](https://www.chantalvaulet.com/products/the-seralyn-moissanite-baguette-ring?variant=42111577686081)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Orange / 8](https://www.chantalvaulet.com/products/the-seralyn-moissanite-baguette-ring?variant=42111577718849)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Orange / 8½](https://www.chantalvaulet.com/products/the-seralyn-moissanite-baguette-ring?variant=42111577751617)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
 - [1.0 CT Round Moissanite Ring – The Velantha | Chantal Vaulet](https://www.chantalvaulet.com/products/the-velantha-moissanite-halo-ring): The Velantha is a 1.0 carat round moissanite halo ring with exquisite sparkle and timeless design, featuring elegant pavé accents.
-  Updated: 2025-10-20T05:07:10Z
+  Updated: 2025-10-22T08:33:46Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/the-velantha-moissanite-halo-ring_by_Chantal_Vaulet.webp?v=1760893624
   - [Clear / 4.5](https://www.chantalvaulet.com/products/the-velantha-moissanite-halo-ring?variant=42111573721153)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 5](https://www.chantalvaulet.com/products/the-velantha-moissanite-halo-ring?variant=42111573753921)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 5.25](https://www.chantalvaulet.com/products/the-velantha-moissanite-halo-ring?variant=42111573786689)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 5.75](https://www.chantalvaulet.com/products/the-velantha-moissanite-halo-ring?variant=42111573819457)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 6](https://www.chantalvaulet.com/products/the-velantha-moissanite-halo-ring?variant=42111573852225)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 6.5](https://www.chantalvaulet.com/products/the-velantha-moissanite-halo-ring?variant=42111573884993)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 7](https://www.chantalvaulet.com/products/the-velantha-moissanite-halo-ring?variant=42111573917761)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 7.25](https://www.chantalvaulet.com/products/the-velantha-moissanite-halo-ring?variant=42111573950529)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 7.75](https://www.chantalvaulet.com/products/the-velantha-moissanite-halo-ring?variant=42111573983297)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 8](https://www.chantalvaulet.com/products/the-velantha-moissanite-halo-ring?variant=42111574016065)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 8½](https://www.chantalvaulet.com/products/the-velantha-moissanite-halo-ring?variant=42111574048833)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 8.75](https://www.chantalvaulet.com/products/the-velantha-moissanite-halo-ring?variant=42111574081601)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 9](https://www.chantalvaulet.com/products/the-velantha-moissanite-halo-ring?variant=42111574114369)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Pink / 4.5](https://www.chantalvaulet.com/products/the-velantha-moissanite-halo-ring?variant=42111574147137)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 5](https://www.chantalvaulet.com/products/the-velantha-moissanite-halo-ring?variant=42111574179905)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 5.25](https://www.chantalvaulet.com/products/the-velantha-moissanite-halo-ring?variant=42111574212673)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 5.75](https://www.chantalvaulet.com/products/the-velantha-moissanite-halo-ring?variant=42111574245441)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 6](https://www.chantalvaulet.com/products/the-velantha-moissanite-halo-ring?variant=42111574278209)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 6.5](https://www.chantalvaulet.com/products/the-velantha-moissanite-halo-ring?variant=42111574310977)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 7](https://www.chantalvaulet.com/products/the-velantha-moissanite-halo-ring?variant=42111574343745)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 7.25](https://www.chantalvaulet.com/products/the-velantha-moissanite-halo-ring?variant=42111574376513)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 7.75](https://www.chantalvaulet.com/products/the-velantha-moissanite-halo-ring?variant=42111574409281)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 8](https://www.chantalvaulet.com/products/the-velantha-moissanite-halo-ring?variant=42111574442049)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 8½](https://www.chantalvaulet.com/products/the-velantha-moissanite-halo-ring?variant=42111574474817)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 8.75](https://www.chantalvaulet.com/products/the-velantha-moissanite-halo-ring?variant=42111574507585)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 9](https://www.chantalvaulet.com/products/the-velantha-moissanite-halo-ring?variant=42111574540353)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 4.5](https://www.chantalvaulet.com/products/the-velantha-moissanite-halo-ring?variant=42111574573121)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 5](https://www.chantalvaulet.com/products/the-velantha-moissanite-halo-ring?variant=42111574605889)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 5.25](https://www.chantalvaulet.com/products/the-velantha-moissanite-halo-ring?variant=42111574638657)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 5.75](https://www.chantalvaulet.com/products/the-velantha-moissanite-halo-ring?variant=42111574671425)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 6](https://www.chantalvaulet.com/products/the-velantha-moissanite-halo-ring?variant=42111574704193)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 6.5](https://www.chantalvaulet.com/products/the-velantha-moissanite-halo-ring?variant=42111574736961)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 7](https://www.chantalvaulet.com/products/the-velantha-moissanite-halo-ring?variant=42111574769729)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 7.25](https://www.chantalvaulet.com/products/the-velantha-moissanite-halo-ring?variant=42111574802497)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 7.75](https://www.chantalvaulet.com/products/the-velantha-moissanite-halo-ring?variant=42111574835265)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 8](https://www.chantalvaulet.com/products/the-velantha-moissanite-halo-ring?variant=42111574868033)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 8½](https://www.chantalvaulet.com/products/the-velantha-moissanite-halo-ring?variant=42111574900801)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 8.75](https://www.chantalvaulet.com/products/the-velantha-moissanite-halo-ring?variant=42111574933569)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 9](https://www.chantalvaulet.com/products/the-velantha-moissanite-halo-ring?variant=42111574966337)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Orange / 4.5](https://www.chantalvaulet.com/products/the-velantha-moissanite-halo-ring?variant=42111574999105)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Orange / 5](https://www.chantalvaulet.com/products/the-velantha-moissanite-halo-ring?variant=42111575031873)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Orange / 5.25](https://www.chantalvaulet.com/products/the-velantha-moissanite-halo-ring?variant=42111575064641)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Orange / 5.75](https://www.chantalvaulet.com/products/the-velantha-moissanite-halo-ring?variant=42111575097409)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Orange / 6](https://www.chantalvaulet.com/products/the-velantha-moissanite-halo-ring?variant=42111575130177)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Orange / 6.5](https://www.chantalvaulet.com/products/the-velantha-moissanite-halo-ring?variant=42111575162945)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Orange / 7](https://www.chantalvaulet.com/products/the-velantha-moissanite-halo-ring?variant=42111575195713)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Orange / 7.25](https://www.chantalvaulet.com/products/the-velantha-moissanite-halo-ring?variant=42111575228481)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Orange / 7.75](https://www.chantalvaulet.com/products/the-velantha-moissanite-halo-ring?variant=42111575261249)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Orange / 8](https://www.chantalvaulet.com/products/the-velantha-moissanite-halo-ring?variant=42111575294017)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Orange / 8½](https://www.chantalvaulet.com/products/the-velantha-moissanite-halo-ring?variant=42111575326785)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
 - [1.0 CT Round Moissanite Ring – The Elantria | Chantal Vaulet](https://www.chantalvaulet.com/products/the-elantria-moissanite-twist-ring): The Elantria is a 1.0 carat round moissanite engagement ring featuring a stunning twist design and radiant sparkle, set in 14k gold.
-  Updated: 2025-10-19T17:10:12Z
+  Updated: 2025-10-22T08:33:12Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
   - [Clear / 4.5](https://www.chantalvaulet.com/products/the-elantria-moissanite-twist-ring?variant=42111571722305)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 5](https://www.chantalvaulet.com/products/the-elantria-moissanite-twist-ring?variant=42111571755073)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 5.25](https://www.chantalvaulet.com/products/the-elantria-moissanite-twist-ring?variant=42111571787841)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 5.75](https://www.chantalvaulet.com/products/the-elantria-moissanite-twist-ring?variant=42111571820609)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 6](https://www.chantalvaulet.com/products/the-elantria-moissanite-twist-ring?variant=42111571853377)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 6.5](https://www.chantalvaulet.com/products/the-elantria-moissanite-twist-ring?variant=42111571886145)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 7](https://www.chantalvaulet.com/products/the-elantria-moissanite-twist-ring?variant=42111571918913)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 7.25](https://www.chantalvaulet.com/products/the-elantria-moissanite-twist-ring?variant=42111571951681)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 7.75](https://www.chantalvaulet.com/products/the-elantria-moissanite-twist-ring?variant=42111571984449)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 8](https://www.chantalvaulet.com/products/the-elantria-moissanite-twist-ring?variant=42111572017217)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 8½](https://www.chantalvaulet.com/products/the-elantria-moissanite-twist-ring?variant=42111572049985)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 8.75](https://www.chantalvaulet.com/products/the-elantria-moissanite-twist-ring?variant=42111572082753)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 9](https://www.chantalvaulet.com/products/the-elantria-moissanite-twist-ring?variant=42111572115521)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Pink / 4.5](https://www.chantalvaulet.com/products/the-elantria-moissanite-twist-ring?variant=42111572148289)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 5](https://www.chantalvaulet.com/products/the-elantria-moissanite-twist-ring?variant=42111572181057)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 5.25](https://www.chantalvaulet.com/products/the-elantria-moissanite-twist-ring?variant=42111572213825)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 5.75](https://www.chantalvaulet.com/products/the-elantria-moissanite-twist-ring?variant=42111572246593)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 6](https://www.chantalvaulet.com/products/the-elantria-moissanite-twist-ring?variant=42111572279361)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 6.5](https://www.chantalvaulet.com/products/the-elantria-moissanite-twist-ring?variant=42111572312129)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 7](https://www.chantalvaulet.com/products/the-elantria-moissanite-twist-ring?variant=42111572344897)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 7.25](https://www.chantalvaulet.com/products/the-elantria-moissanite-twist-ring?variant=42111572377665)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 7.75](https://www.chantalvaulet.com/products/the-elantria-moissanite-twist-ring?variant=42111572410433)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 8](https://www.chantalvaulet.com/products/the-elantria-moissanite-twist-ring?variant=42111572443201)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 8½](https://www.chantalvaulet.com/products/the-elantria-moissanite-twist-ring?variant=42111572475969)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 8.75](https://www.chantalvaulet.com/products/the-elantria-moissanite-twist-ring?variant=42111572508737)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 9](https://www.chantalvaulet.com/products/the-elantria-moissanite-twist-ring?variant=42111572541505)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 4.5](https://www.chantalvaulet.com/products/the-elantria-moissanite-twist-ring?variant=42111572574273)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 5](https://www.chantalvaulet.com/products/the-elantria-moissanite-twist-ring?variant=42111572607041)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 5.25](https://www.chantalvaulet.com/products/the-elantria-moissanite-twist-ring?variant=42111572639809)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 5.75](https://www.chantalvaulet.com/products/the-elantria-moissanite-twist-ring?variant=42111572672577)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 6](https://www.chantalvaulet.com/products/the-elantria-moissanite-twist-ring?variant=42111572705345)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 6.5](https://www.chantalvaulet.com/products/the-elantria-moissanite-twist-ring?variant=42111572738113)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 7](https://www.chantalvaulet.com/products/the-elantria-moissanite-twist-ring?variant=42111572770881)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 7.25](https://www.chantalvaulet.com/products/the-elantria-moissanite-twist-ring?variant=42111572803649)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 7.75](https://www.chantalvaulet.com/products/the-elantria-moissanite-twist-ring?variant=42111572836417)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 8](https://www.chantalvaulet.com/products/the-elantria-moissanite-twist-ring?variant=42111572869185)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 8½](https://www.chantalvaulet.com/products/the-elantria-moissanite-twist-ring?variant=42111572901953)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 8.75](https://www.chantalvaulet.com/products/the-elantria-moissanite-twist-ring?variant=42111572934721)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 9](https://www.chantalvaulet.com/products/the-elantria-moissanite-twist-ring?variant=42111572967489)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Orange / 4.5](https://www.chantalvaulet.com/products/the-elantria-moissanite-twist-ring?variant=42111573000257)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Orange / 5](https://www.chantalvaulet.com/products/the-elantria-moissanite-twist-ring?variant=42111573033025)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Orange / 5.25](https://www.chantalvaulet.com/products/the-elantria-moissanite-twist-ring?variant=42111573065793)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Orange / 5.75](https://www.chantalvaulet.com/products/the-elantria-moissanite-twist-ring?variant=42111573098561)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Orange / 6](https://www.chantalvaulet.com/products/the-elantria-moissanite-twist-ring?variant=42111573131329)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Orange / 6.5](https://www.chantalvaulet.com/products/the-elantria-moissanite-twist-ring?variant=42111573164097)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Orange / 7](https://www.chantalvaulet.com/products/the-elantria-moissanite-twist-ring?variant=42111573196865)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Orange / 7.25](https://www.chantalvaulet.com/products/the-elantria-moissanite-twist-ring?variant=42111573229633)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Orange / 7.75](https://www.chantalvaulet.com/products/the-elantria-moissanite-twist-ring?variant=42111573262401)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Orange / 8](https://www.chantalvaulet.com/products/the-elantria-moissanite-twist-ring?variant=42111573295169)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Orange / 8½](https://www.chantalvaulet.com/products/the-elantria-moissanite-twist-ring?variant=42111573327937)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
 - [1.0 CT Round Moissanite Ring – The Calyra | Chantal Vaulet](https://www.chantalvaulet.com/products/the-calyra-moissanite-twist-ring): The Calyra is a 1.0 carat round moissanite twist ring, showcasing timeless elegance and brilliance in an exquisite design.
-  Updated: 2025-10-20T05:22:52Z
+  Updated: 2025-10-22T08:32:30Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/the-calyra-moissanite-twist-ring_by_Chantal_Vaulet.webp?v=1760893826
   - [Clear / 4.5](https://www.chantalvaulet.com/products/the-calyra-moissanite-twist-ring?variant=42111569788993)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 5](https://www.chantalvaulet.com/products/the-calyra-moissanite-twist-ring?variant=42111569821761)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 5.25](https://www.chantalvaulet.com/products/the-calyra-moissanite-twist-ring?variant=42111569854529)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 5.75](https://www.chantalvaulet.com/products/the-calyra-moissanite-twist-ring?variant=42111569887297)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 6](https://www.chantalvaulet.com/products/the-calyra-moissanite-twist-ring?variant=42111569920065)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 6.5](https://www.chantalvaulet.com/products/the-calyra-moissanite-twist-ring?variant=42111569952833)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 7](https://www.chantalvaulet.com/products/the-calyra-moissanite-twist-ring?variant=42111569985601)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 7.25](https://www.chantalvaulet.com/products/the-calyra-moissanite-twist-ring?variant=42111570018369)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 7.75](https://www.chantalvaulet.com/products/the-calyra-moissanite-twist-ring?variant=42111570051137)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 8](https://www.chantalvaulet.com/products/the-calyra-moissanite-twist-ring?variant=42111570083905)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 8½](https://www.chantalvaulet.com/products/the-calyra-moissanite-twist-ring?variant=42111570116673)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 8.75](https://www.chantalvaulet.com/products/the-calyra-moissanite-twist-ring?variant=42111570149441)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 9](https://www.chantalvaulet.com/products/the-calyra-moissanite-twist-ring?variant=42111570182209)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Pink / 4.5](https://www.chantalvaulet.com/products/the-calyra-moissanite-twist-ring?variant=42111570214977)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 5](https://www.chantalvaulet.com/products/the-calyra-moissanite-twist-ring?variant=42111570247745)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 5.25](https://www.chantalvaulet.com/products/the-calyra-moissanite-twist-ring?variant=42111570280513)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 5.75](https://www.chantalvaulet.com/products/the-calyra-moissanite-twist-ring?variant=42111570313281)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 6](https://www.chantalvaulet.com/products/the-calyra-moissanite-twist-ring?variant=42111570346049)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 6.5](https://www.chantalvaulet.com/products/the-calyra-moissanite-twist-ring?variant=42111570378817)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 7](https://www.chantalvaulet.com/products/the-calyra-moissanite-twist-ring?variant=42111570411585)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 7.25](https://www.chantalvaulet.com/products/the-calyra-moissanite-twist-ring?variant=42111570444353)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 7.75](https://www.chantalvaulet.com/products/the-calyra-moissanite-twist-ring?variant=42111570477121)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 8](https://www.chantalvaulet.com/products/the-calyra-moissanite-twist-ring?variant=42111570509889)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 8½](https://www.chantalvaulet.com/products/the-calyra-moissanite-twist-ring?variant=42111570542657)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 8.75](https://www.chantalvaulet.com/products/the-calyra-moissanite-twist-ring?variant=42111570575425)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 9](https://www.chantalvaulet.com/products/the-calyra-moissanite-twist-ring?variant=42111570608193)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 4.5](https://www.chantalvaulet.com/products/the-calyra-moissanite-twist-ring?variant=42111570640961)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 5](https://www.chantalvaulet.com/products/the-calyra-moissanite-twist-ring?variant=42111570673729)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 5.25](https://www.chantalvaulet.com/products/the-calyra-moissanite-twist-ring?variant=42111570706497)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 5.75](https://www.chantalvaulet.com/products/the-calyra-moissanite-twist-ring?variant=42111570739265)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 6](https://www.chantalvaulet.com/products/the-calyra-moissanite-twist-ring?variant=42111570772033)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 6.5](https://www.chantalvaulet.com/products/the-calyra-moissanite-twist-ring?variant=42111570804801)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 7](https://www.chantalvaulet.com/products/the-calyra-moissanite-twist-ring?variant=42111570837569)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 7.25](https://www.chantalvaulet.com/products/the-calyra-moissanite-twist-ring?variant=42111570870337)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 7.75](https://www.chantalvaulet.com/products/the-calyra-moissanite-twist-ring?variant=42111570903105)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 8](https://www.chantalvaulet.com/products/the-calyra-moissanite-twist-ring?variant=42111570935873)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 8½](https://www.chantalvaulet.com/products/the-calyra-moissanite-twist-ring?variant=42111570968641)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 8.75](https://www.chantalvaulet.com/products/the-calyra-moissanite-twist-ring?variant=42111571001409)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Blue / 9](https://www.chantalvaulet.com/products/the-calyra-moissanite-twist-ring?variant=42111571034177)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Orange / 4.5](https://www.chantalvaulet.com/products/the-calyra-moissanite-twist-ring?variant=42111571066945)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Orange / 5](https://www.chantalvaulet.com/products/the-calyra-moissanite-twist-ring?variant=42111571099713)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Orange / 5.25](https://www.chantalvaulet.com/products/the-calyra-moissanite-twist-ring?variant=42111571132481)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Orange / 5.75](https://www.chantalvaulet.com/products/the-calyra-moissanite-twist-ring?variant=42111571165249)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Orange / 6](https://www.chantalvaulet.com/products/the-calyra-moissanite-twist-ring?variant=42111571198017)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Orange / 6.5](https://www.chantalvaulet.com/products/the-calyra-moissanite-twist-ring?variant=42111571230785)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Orange / 7](https://www.chantalvaulet.com/products/the-calyra-moissanite-twist-ring?variant=42111571263553)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Orange / 7.25](https://www.chantalvaulet.com/products/the-calyra-moissanite-twist-ring?variant=42111571296321)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Orange / 7.75](https://www.chantalvaulet.com/products/the-calyra-moissanite-twist-ring?variant=42111571329089)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Orange / 8](https://www.chantalvaulet.com/products/the-calyra-moissanite-twist-ring?variant=42111571361857)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Orange / 8½](https://www.chantalvaulet.com/products/the-calyra-moissanite-twist-ring?variant=42111571394625)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
 - [1.0 CT Round Moissanite Halo Ring – The Calisera | Chantal Vaulet](https://www.chantalvaulet.com/products/the-calisera-moissanite-halo-ring): The Calisera is a 1.0 carat round Moissanite halo ring, featuring exquisite sparkle and elegance, perfect for engagements and anniversaries.
-  Updated: 2025-10-20T05:11:29Z
+  Updated: 2025-10-22T08:31:46Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/the-calisera-moissanite-halo-ring_by_Chantal_Vaulet.webp?v=1760893879
   - [Clear / 4.5](https://www.chantalvaulet.com/products/the-calisera-moissanite-halo-ring?variant=42111567757377)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 5](https://www.chantalvaulet.com/products/the-calisera-moissanite-halo-ring?variant=42111567790145)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 5.25](https://www.chantalvaulet.com/products/the-calisera-moissanite-halo-ring?variant=42111567822913)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 5.75](https://www.chantalvaulet.com/products/the-calisera-moissanite-halo-ring?variant=42111567855681)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 6](https://www.chantalvaulet.com/products/the-calisera-moissanite-halo-ring?variant=42111567888449)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 6.5](https://www.chantalvaulet.com/products/the-calisera-moissanite-halo-ring?variant=42111567921217)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 7](https://www.chantalvaulet.com/products/the-calisera-moissanite-halo-ring?variant=42111567953985)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 7.25](https://www.chantalvaulet.com/products/the-calisera-moissanite-halo-ring?variant=42111567986753)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 7.75](https://www.chantalvaulet.com/products/the-calisera-moissanite-halo-ring?variant=42111568019521)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 8](https://www.chantalvaulet.com/products/the-calisera-moissanite-halo-ring?variant=42111568052289)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 8½](https://www.chantalvaulet.com/products/the-calisera-moissanite-halo-ring?variant=42111568085057)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 8.75](https://www.chantalvaulet.com/products/the-calisera-moissanite-halo-ring?variant=42111568117825)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Clear / 9](https://www.chantalvaulet.com/products/the-calisera-moissanite-halo-ring?variant=42111568150593)
     Availability: Available
-    Price: €89.00 EUR
+    Price: €109.00 EUR
   - [Pink / 4.5](https://www.chantalvaulet.com/products/the-calisera-moissanite-halo-ring?variant=42111568183361)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €145.00 EUR
   - [Pink / 5](https://www.chantalvaulet.com/products/the-calisera-moissanite-halo-ring?variant=42111568216129)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €145.00 EUR
   - [Pink / 5.25](https://www.chantalvaulet.com/products/the-calisera-moissanite-halo-ring?variant=42111568248897)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €145.00 EUR
   - [Pink / 5.75](https://www.chantalvaulet.com/products/the-calisera-moissanite-halo-ring?variant=42111568281665)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €145.00 EUR
   - [Pink / 6](https://www.chantalvaulet.com/products/the-calisera-moissanite-halo-ring?variant=42111568314433)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €145.00 EUR
   - [Pink / 6.5](https://www.chantalvaulet.com/products/the-calisera-moissanite-halo-ring?variant=42111568347201)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €145.00 EUR
   - [Pink / 7](https://www.chantalvaulet.com/products/the-calisera-moissanite-halo-ring?variant=42111568379969)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €145.00 EUR
   - [Pink / 7.25](https://www.chantalvaulet.com/products/the-calisera-moissanite-halo-ring?variant=42111568412737)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €145.00 EUR
   - [Pink / 7.75](https://www.chantalvaulet.com/products/the-calisera-moissanite-halo-ring?variant=42111568445505)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €145.00 EUR
   - [Pink / 8](https://www.chantalvaulet.com/products/the-calisera-moissanite-halo-ring?variant=42111568478273)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €145.00 EUR
   - [Pink / 8½](https://www.chantalvaulet.com/products/the-calisera-moissanite-halo-ring?variant=42111568511041)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €145.00 EUR
   - [Pink / 8.75](https://www.chantalvaulet.com/products/the-calisera-moissanite-halo-ring?variant=42111568543809)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €145.00 EUR
   - [Pink / 9](https://www.chantalvaulet.com/products/the-calisera-moissanite-halo-ring?variant=42111568576577)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €145.00 EUR
   - [Blue / 4.5](https://www.chantalvaulet.com/products/the-calisera-moissanite-halo-ring?variant=42111568609345)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €145.00 EUR
   - [Blue / 5](https://www.chantalvaulet.com/products/the-calisera-moissanite-halo-ring?variant=42111568642113)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €145.00 EUR
   - [Blue / 5.25](https://www.chantalvaulet.com/products/the-calisera-moissanite-halo-ring?variant=42111568674881)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €145.00 EUR
   - [Blue / 5.75](https://www.chantalvaulet.com/products/the-calisera-moissanite-halo-ring?variant=42111568707649)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €145.00 EUR
   - [Blue / 6](https://www.chantalvaulet.com/products/the-calisera-moissanite-halo-ring?variant=42111568740417)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €145.00 EUR
   - [Blue / 6.5](https://www.chantalvaulet.com/products/the-calisera-moissanite-halo-ring?variant=42111568773185)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €145.00 EUR
   - [Blue / 7](https://www.chantalvaulet.com/products/the-calisera-moissanite-halo-ring?variant=42111568805953)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €145.00 EUR
   - [Blue / 7.25](https://www.chantalvaulet.com/products/the-calisera-moissanite-halo-ring?variant=42111568838721)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €145.00 EUR
   - [Blue / 7.75](https://www.chantalvaulet.com/products/the-calisera-moissanite-halo-ring?variant=42111568871489)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €145.00 EUR
   - [Blue / 8](https://www.chantalvaulet.com/products/the-calisera-moissanite-halo-ring?variant=42111568904257)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €145.00 EUR
   - [Blue / 8½](https://www.chantalvaulet.com/products/the-calisera-moissanite-halo-ring?variant=42111568937025)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €145.00 EUR
   - [Blue / 8.75](https://www.chantalvaulet.com/products/the-calisera-moissanite-halo-ring?variant=42111568969793)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €145.00 EUR
   - [Blue / 9](https://www.chantalvaulet.com/products/the-calisera-moissanite-halo-ring?variant=42111569002561)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €145.00 EUR
   - [Orange / 4.5](https://www.chantalvaulet.com/products/the-calisera-moissanite-halo-ring?variant=42111569035329)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €145.00 EUR
   - [Orange / 5](https://www.chantalvaulet.com/products/the-calisera-moissanite-halo-ring?variant=42111569068097)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €145.00 EUR
   - [Orange / 5.25](https://www.chantalvaulet.com/products/the-calisera-moissanite-halo-ring?variant=42111569100865)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €145.00 EUR
   - [Orange / 5.75](https://www.chantalvaulet.com/products/the-calisera-moissanite-halo-ring?variant=42111569133633)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €145.00 EUR
   - [Orange / 6](https://www.chantalvaulet.com/products/the-calisera-moissanite-halo-ring?variant=42111569166401)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €145.00 EUR
   - [Orange / 6.5](https://www.chantalvaulet.com/products/the-calisera-moissanite-halo-ring?variant=42111569199169)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €145.00 EUR
   - [Orange / 7](https://www.chantalvaulet.com/products/the-calisera-moissanite-halo-ring?variant=42111569231937)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €145.00 EUR
   - [Orange / 7.25](https://www.chantalvaulet.com/products/the-calisera-moissanite-halo-ring?variant=42111569264705)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €145.00 EUR
   - [Orange / 7.75](https://www.chantalvaulet.com/products/the-calisera-moissanite-halo-ring?variant=42111569297473)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €145.00 EUR
   - [Orange / 8](https://www.chantalvaulet.com/products/the-calisera-moissanite-halo-ring?variant=42111569330241)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €145.00 EUR
   - [Orange / 8½](https://www.chantalvaulet.com/products/the-calisera-moissanite-halo-ring?variant=42111569363009)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €145.00 EUR
 - [0.5 CT Round Moissanite Ring – The Lorentia | Chantal Vaulet](https://www.chantalvaulet.com/products/the-lorentia-moissanite-pave-ring): The Lorentia is a 0.5 carat round moissanite engagement ring with elegant pavé accents, crafted to shimmer in 18k white gold.
-  Updated: 2025-10-20T05:12:30Z
+  Updated: 2025-10-22T08:30:52Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/the-lorentia-moissanite-pave-ring_by_Chantal_Vaulet.webp?v=1760893945
   - [4.5](https://www.chantalvaulet.com/products/the-lorentia-moissanite-pave-ring?variant=42111567134785)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [5](https://www.chantalvaulet.com/products/the-lorentia-moissanite-pave-ring?variant=42111567167553)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [5.25](https://www.chantalvaulet.com/products/the-lorentia-moissanite-pave-ring?variant=42111567200321)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [5.75](https://www.chantalvaulet.com/products/the-lorentia-moissanite-pave-ring?variant=42111567233089)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [6](https://www.chantalvaulet.com/products/the-lorentia-moissanite-pave-ring?variant=42111567265857)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [6.5](https://www.chantalvaulet.com/products/the-lorentia-moissanite-pave-ring?variant=42111567298625)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [7](https://www.chantalvaulet.com/products/the-lorentia-moissanite-pave-ring?variant=42111567331393)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [7.25](https://www.chantalvaulet.com/products/the-lorentia-moissanite-pave-ring?variant=42111567364161)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [7.75](https://www.chantalvaulet.com/products/the-lorentia-moissanite-pave-ring?variant=42111567396929)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [8](https://www.chantalvaulet.com/products/the-lorentia-moissanite-pave-ring?variant=42111567429697)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [8½](https://www.chantalvaulet.com/products/the-lorentia-moissanite-pave-ring?variant=42111567462465)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [8.75](https://www.chantalvaulet.com/products/the-lorentia-moissanite-pave-ring?variant=42111567495233)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [9](https://www.chantalvaulet.com/products/the-lorentia-moissanite-pave-ring?variant=42111567528001)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
 - [0.5 CT Round Moissanite Split Band Ring – The Avalora | Chantal Vaulet](https://www.chantalvaulet.com/products/the-avalora-moissanite-split-band-ring): The Avalora is a 0.5 carat round moissanite engagement ring featuring a split band and 38 pavé-set stones for stunning brilliance.
-  Updated: 2025-10-19T17:13:58Z
+  Updated: 2025-10-22T08:30:33Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
   - [4.5](https://www.chantalvaulet.com/products/the-avalora-moissanite-split-band-ring?variant=42111566512193)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [5](https://www.chantalvaulet.com/products/the-avalora-moissanite-split-band-ring?variant=42111566544961)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [5.25](https://www.chantalvaulet.com/products/the-avalora-moissanite-split-band-ring?variant=42111566577729)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [5.75](https://www.chantalvaulet.com/products/the-avalora-moissanite-split-band-ring?variant=42111566610497)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [6](https://www.chantalvaulet.com/products/the-avalora-moissanite-split-band-ring?variant=42111566643265)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [6.5](https://www.chantalvaulet.com/products/the-avalora-moissanite-split-band-ring?variant=42111566676033)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [7](https://www.chantalvaulet.com/products/the-avalora-moissanite-split-band-ring?variant=42111566708801)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [7.25](https://www.chantalvaulet.com/products/the-avalora-moissanite-split-band-ring?variant=42111566741569)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [7.75](https://www.chantalvaulet.com/products/the-avalora-moissanite-split-band-ring?variant=42111566774337)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [8](https://www.chantalvaulet.com/products/the-avalora-moissanite-split-band-ring?variant=42111566807105)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [8½](https://www.chantalvaulet.com/products/the-avalora-moissanite-split-band-ring?variant=42111566839873)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [8.75](https://www.chantalvaulet.com/products/the-avalora-moissanite-split-band-ring?variant=42111566872641)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [9](https://www.chantalvaulet.com/products/the-avalora-moissanite-split-band-ring?variant=42111566905409)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
 - [0.5 CT Round Moissanite Ring – The Alencia | Chantal Vaulet](https://www.chantalvaulet.com/products/the-alencia-moissanite-twist-ring): The Alencia is a 0.5 carat round moissanite engagement ring featuring a stunning twist design and sparkling pavé accents.
-  Updated: 2025-10-20T05:14:17Z
+  Updated: 2025-10-22T08:30:16Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/the-alencia-moissanite-twist-ring_by_Chantal_Vaulet.webp?v=1760894052
   - [4.5](https://www.chantalvaulet.com/products/the-alencia-moissanite-twist-ring?variant=42111565922369)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [5](https://www.chantalvaulet.com/products/the-alencia-moissanite-twist-ring?variant=42111565955137)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [5.25](https://www.chantalvaulet.com/products/the-alencia-moissanite-twist-ring?variant=42111565987905)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [5.75](https://www.chantalvaulet.com/products/the-alencia-moissanite-twist-ring?variant=42111566020673)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [6](https://www.chantalvaulet.com/products/the-alencia-moissanite-twist-ring?variant=42111566053441)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [6.5](https://www.chantalvaulet.com/products/the-alencia-moissanite-twist-ring?variant=42111566086209)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [7](https://www.chantalvaulet.com/products/the-alencia-moissanite-twist-ring?variant=42111566118977)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [7.25](https://www.chantalvaulet.com/products/the-alencia-moissanite-twist-ring?variant=42111566151745)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [7.75](https://www.chantalvaulet.com/products/the-alencia-moissanite-twist-ring?variant=42111566184513)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [8](https://www.chantalvaulet.com/products/the-alencia-moissanite-twist-ring?variant=42111566217281)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [8½](https://www.chantalvaulet.com/products/the-alencia-moissanite-twist-ring?variant=42111566250049)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [8.75](https://www.chantalvaulet.com/products/the-alencia-moissanite-twist-ring?variant=42111566282817)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [9](https://www.chantalvaulet.com/products/the-alencia-moissanite-twist-ring?variant=42111566315585)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
 - [0.5 CT Round Moissanite Crown Ring – The Avarielle | Chantal Vaulet](https://www.chantalvaulet.com/products/the-avarielle-moissanite-crown-ring): The Avarielle features a 0.5 carat round moissanite in a regal crown setting, complemented by 14 pavé stones for dazzling elegance.
-  Updated: 2025-10-20T05:15:46Z
+  Updated: 2025-10-22T08:29:49Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/the-avarielle-moissanite-crown-ring_by_Chantal_Vaulet.webp?v=1760894140
   - [4.5](https://www.chantalvaulet.com/products/the-avarielle-moissanite-crown-ring?variant=42111565332545)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [5](https://www.chantalvaulet.com/products/the-avarielle-moissanite-crown-ring?variant=42111565365313)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [5.25](https://www.chantalvaulet.com/products/the-avarielle-moissanite-crown-ring?variant=42111565398081)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [5.75](https://www.chantalvaulet.com/products/the-avarielle-moissanite-crown-ring?variant=42111565430849)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [6](https://www.chantalvaulet.com/products/the-avarielle-moissanite-crown-ring?variant=42111565463617)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [6.5](https://www.chantalvaulet.com/products/the-avarielle-moissanite-crown-ring?variant=42111565496385)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [7](https://www.chantalvaulet.com/products/the-avarielle-moissanite-crown-ring?variant=42111565529153)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [7.25](https://www.chantalvaulet.com/products/the-avarielle-moissanite-crown-ring?variant=42111565561921)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [7.75](https://www.chantalvaulet.com/products/the-avarielle-moissanite-crown-ring?variant=42111565594689)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [8](https://www.chantalvaulet.com/products/the-avarielle-moissanite-crown-ring?variant=42111565627457)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [8½](https://www.chantalvaulet.com/products/the-avarielle-moissanite-crown-ring?variant=42111565660225)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [8.75](https://www.chantalvaulet.com/products/the-avarielle-moissanite-crown-ring?variant=42111565692993)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [9](https://www.chantalvaulet.com/products/the-avarielle-moissanite-crown-ring?variant=42111565725761)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
 - [0.5 CT Round Moissanite Ring – The Arcelia | Chantal Vaulet](https://www.chantalvaulet.com/products/the-arcelia-moissanite-geometric-ring): The Arcelia is a 0.5 carat round moissanite ring featuring geometric design and 24 pavé-set stones, all crafted to perfection.
-  Updated: 2025-10-20T05:16:40Z
+  Updated: 2025-10-22T08:29:31Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/the-arcelia-moissanite-geometric-ring_by_Chantal_Vaulet.webp?v=1760894194
   - [4.5](https://www.chantalvaulet.com/products/the-arcelia-moissanite-geometric-ring?variant=42111564611649)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [5](https://www.chantalvaulet.com/products/the-arcelia-moissanite-geometric-ring?variant=42111564644417)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [5.25](https://www.chantalvaulet.com/products/the-arcelia-moissanite-geometric-ring?variant=42111564677185)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [5.75](https://www.chantalvaulet.com/products/the-arcelia-moissanite-geometric-ring?variant=42111564709953)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [6](https://www.chantalvaulet.com/products/the-arcelia-moissanite-geometric-ring?variant=42111564742721)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [6.5](https://www.chantalvaulet.com/products/the-arcelia-moissanite-geometric-ring?variant=42111564775489)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [7](https://www.chantalvaulet.com/products/the-arcelia-moissanite-geometric-ring?variant=42111564808257)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [7.25](https://www.chantalvaulet.com/products/the-arcelia-moissanite-geometric-ring?variant=42111564841025)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [7.75](https://www.chantalvaulet.com/products/the-arcelia-moissanite-geometric-ring?variant=42111564873793)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [8](https://www.chantalvaulet.com/products/the-arcelia-moissanite-geometric-ring?variant=42111564906561)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [8½](https://www.chantalvaulet.com/products/the-arcelia-moissanite-geometric-ring?variant=42111564939329)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [8.75](https://www.chantalvaulet.com/products/the-arcelia-moissanite-geometric-ring?variant=42111564972097)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [9](https://www.chantalvaulet.com/products/the-arcelia-moissanite-geometric-ring?variant=42111565004865)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
 - [0.5 CT Moissanite Ring – The Elysian Radiance | Chantal Vaulet](https://www.chantalvaulet.com/products/the-elysian-radiance-moissanite-ring-0-5ct): The Elysian Radiance is a 0.5 carat round moissanite ring with exquisite sparkle and 128 side stones for breathtaking brilliance.
-  Updated: 2025-10-20T05:17:35Z
+  Updated: 2025-10-22T08:29:14Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/the-elysian-radiance-moissanite-ring-0-5ct_by_Chantal_Vaulet.webp?v=1760894248
   - [Clear / 4.5](https://www.chantalvaulet.com/products/the-elysian-radiance-moissanite-ring-0-5ct?variant=42111553798209)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [Clear / 5](https://www.chantalvaulet.com/products/the-elysian-radiance-moissanite-ring-0-5ct?variant=42111553830977)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [Clear / 5.25](https://www.chantalvaulet.com/products/the-elysian-radiance-moissanite-ring-0-5ct?variant=42111553863745)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [Clear / 5.75](https://www.chantalvaulet.com/products/the-elysian-radiance-moissanite-ring-0-5ct?variant=42111553896513)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [Clear / 6](https://www.chantalvaulet.com/products/the-elysian-radiance-moissanite-ring-0-5ct?variant=42111553929281)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [Clear / 6.5](https://www.chantalvaulet.com/products/the-elysian-radiance-moissanite-ring-0-5ct?variant=42111553962049)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [Clear / 7](https://www.chantalvaulet.com/products/the-elysian-radiance-moissanite-ring-0-5ct?variant=42111553994817)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [Clear / 7.25](https://www.chantalvaulet.com/products/the-elysian-radiance-moissanite-ring-0-5ct?variant=42111554027585)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [Clear / 7.75](https://www.chantalvaulet.com/products/the-elysian-radiance-moissanite-ring-0-5ct?variant=42111554060353)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [Clear / 8](https://www.chantalvaulet.com/products/the-elysian-radiance-moissanite-ring-0-5ct?variant=42111554093121)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [Clear / 8½](https://www.chantalvaulet.com/products/the-elysian-radiance-moissanite-ring-0-5ct?variant=42111554125889)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [Clear / 8.75](https://www.chantalvaulet.com/products/the-elysian-radiance-moissanite-ring-0-5ct?variant=42111554158657)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [Clear / 9](https://www.chantalvaulet.com/products/the-elysian-radiance-moissanite-ring-0-5ct?variant=42111554191425)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [Pink / 4.5](https://www.chantalvaulet.com/products/the-elysian-radiance-moissanite-ring-0-5ct?variant=42111554224193)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Pink / 5](https://www.chantalvaulet.com/products/the-elysian-radiance-moissanite-ring-0-5ct?variant=42111554256961)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Pink / 5.25](https://www.chantalvaulet.com/products/the-elysian-radiance-moissanite-ring-0-5ct?variant=42111554289729)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Pink / 5.75](https://www.chantalvaulet.com/products/the-elysian-radiance-moissanite-ring-0-5ct?variant=42111554322497)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Pink / 6](https://www.chantalvaulet.com/products/the-elysian-radiance-moissanite-ring-0-5ct?variant=42111554355265)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Pink / 6.5](https://www.chantalvaulet.com/products/the-elysian-radiance-moissanite-ring-0-5ct?variant=42111554388033)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Pink / 7](https://www.chantalvaulet.com/products/the-elysian-radiance-moissanite-ring-0-5ct?variant=42111554420801)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Pink / 7.25](https://www.chantalvaulet.com/products/the-elysian-radiance-moissanite-ring-0-5ct?variant=42111554453569)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Pink / 7.75](https://www.chantalvaulet.com/products/the-elysian-radiance-moissanite-ring-0-5ct?variant=42111554486337)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Pink / 8](https://www.chantalvaulet.com/products/the-elysian-radiance-moissanite-ring-0-5ct?variant=42111554519105)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Pink / 8½](https://www.chantalvaulet.com/products/the-elysian-radiance-moissanite-ring-0-5ct?variant=42111554551873)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Pink / 8.75](https://www.chantalvaulet.com/products/the-elysian-radiance-moissanite-ring-0-5ct?variant=42111554584641)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Pink / 9](https://www.chantalvaulet.com/products/the-elysian-radiance-moissanite-ring-0-5ct?variant=42111554617409)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Blue / 4.5](https://www.chantalvaulet.com/products/the-elysian-radiance-moissanite-ring-0-5ct?variant=42111554650177)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Blue / 5](https://www.chantalvaulet.com/products/the-elysian-radiance-moissanite-ring-0-5ct?variant=42111554682945)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Blue / 5.25](https://www.chantalvaulet.com/products/the-elysian-radiance-moissanite-ring-0-5ct?variant=42111554715713)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Blue / 5.75](https://www.chantalvaulet.com/products/the-elysian-radiance-moissanite-ring-0-5ct?variant=42111554748481)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Blue / 6](https://www.chantalvaulet.com/products/the-elysian-radiance-moissanite-ring-0-5ct?variant=42111554781249)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Blue / 6.5](https://www.chantalvaulet.com/products/the-elysian-radiance-moissanite-ring-0-5ct?variant=42111554814017)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Blue / 7](https://www.chantalvaulet.com/products/the-elysian-radiance-moissanite-ring-0-5ct?variant=42111554846785)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Blue / 7.25](https://www.chantalvaulet.com/products/the-elysian-radiance-moissanite-ring-0-5ct?variant=42111554879553)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Blue / 7.75](https://www.chantalvaulet.com/products/the-elysian-radiance-moissanite-ring-0-5ct?variant=42111554912321)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Blue / 8](https://www.chantalvaulet.com/products/the-elysian-radiance-moissanite-ring-0-5ct?variant=42111554945089)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Blue / 8½](https://www.chantalvaulet.com/products/the-elysian-radiance-moissanite-ring-0-5ct?variant=42111554977857)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Blue / 8.75](https://www.chantalvaulet.com/products/the-elysian-radiance-moissanite-ring-0-5ct?variant=42111555010625)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Blue / 9](https://www.chantalvaulet.com/products/the-elysian-radiance-moissanite-ring-0-5ct?variant=42111555043393)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Yellow / 4.5](https://www.chantalvaulet.com/products/the-elysian-radiance-moissanite-ring-0-5ct?variant=42111555076161)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Yellow / 5](https://www.chantalvaulet.com/products/the-elysian-radiance-moissanite-ring-0-5ct?variant=42111555108929)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Yellow / 5.25](https://www.chantalvaulet.com/products/the-elysian-radiance-moissanite-ring-0-5ct?variant=42111555141697)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Yellow / 5.75](https://www.chantalvaulet.com/products/the-elysian-radiance-moissanite-ring-0-5ct?variant=42111555174465)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Yellow / 6](https://www.chantalvaulet.com/products/the-elysian-radiance-moissanite-ring-0-5ct?variant=42111555207233)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Yellow / 6.5](https://www.chantalvaulet.com/products/the-elysian-radiance-moissanite-ring-0-5ct?variant=42111555240001)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Yellow / 7](https://www.chantalvaulet.com/products/the-elysian-radiance-moissanite-ring-0-5ct?variant=42111555272769)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Yellow / 7.25](https://www.chantalvaulet.com/products/the-elysian-radiance-moissanite-ring-0-5ct?variant=42111555305537)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Yellow / 7.75](https://www.chantalvaulet.com/products/the-elysian-radiance-moissanite-ring-0-5ct?variant=42111555338305)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Yellow / 8](https://www.chantalvaulet.com/products/the-elysian-radiance-moissanite-ring-0-5ct?variant=42111555371073)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Yellow / 8½](https://www.chantalvaulet.com/products/the-elysian-radiance-moissanite-ring-0-5ct?variant=42111555403841)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
 - [0.5 CT Hexagonal Moissanite Ring – The Astra | Chantal Vaulet](https://www.chantalvaulet.com/products/the-astra-moissanite-ring-0-5ct): The Astra is a 0.5 carat hexagonal moissanite ring, featuring a unique design and brilliant sparkle, perfect for celebrating your unique love.
-  Updated: 2025-10-20T05:19:07Z
+  Updated: 2025-10-22T08:28:31Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/the-astra-moissanite-ring-0-5ct_by_Chantal_Vaulet.webp?v=1760894328
   - [4.5](https://www.chantalvaulet.com/products/the-astra-moissanite-ring-0-5ct?variant=42111553044545)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [5](https://www.chantalvaulet.com/products/the-astra-moissanite-ring-0-5ct?variant=42111553077313)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/the-astra-moissanite-ring-0-5ct_by_Chantal_Vaulet.webp?v=1760894328
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [5.25](https://www.chantalvaulet.com/products/the-astra-moissanite-ring-0-5ct?variant=42111553110081)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [5.75](https://www.chantalvaulet.com/products/the-astra-moissanite-ring-0-5ct?variant=42111553142849)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [6](https://www.chantalvaulet.com/products/the-astra-moissanite-ring-0-5ct?variant=42111553175617)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [6.5](https://www.chantalvaulet.com/products/the-astra-moissanite-ring-0-5ct?variant=42111553208385)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [7](https://www.chantalvaulet.com/products/the-astra-moissanite-ring-0-5ct?variant=42111553241153)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [7.25](https://www.chantalvaulet.com/products/the-astra-moissanite-ring-0-5ct?variant=42111553273921)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [7.75](https://www.chantalvaulet.com/products/the-astra-moissanite-ring-0-5ct?variant=42111553306689)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [8](https://www.chantalvaulet.com/products/the-astra-moissanite-ring-0-5ct?variant=42111553339457)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [8½](https://www.chantalvaulet.com/products/the-astra-moissanite-ring-0-5ct?variant=42111553372225)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [8.75](https://www.chantalvaulet.com/products/the-astra-moissanite-ring-0-5ct?variant=42111553404993)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [9](https://www.chantalvaulet.com/products/the-astra-moissanite-ring-0-5ct?variant=42111553437761)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
 - [0.5 CT Moissanite Engagement Ring – The Serene Knot | Chantal Vaulet](https://www.chantalvaulet.com/products/the-serene-knot-moissanite-0-5ct-solitaire-ring): Discover The Serene Knot, a 0.5CT moissanite solitaire ring with a unique interwoven band, perfect for engagements or special gifts.
-  Updated: 2025-10-20T05:19:49Z
+  Updated: 2025-10-22T08:27:53Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/the-serene-knot-moissanite-0-5ct-solitaire-ring_by_Chantal_Vaulet.webp?v=1760894380
   - [4.5](https://www.chantalvaulet.com/products/the-serene-knot-moissanite-0-5ct-solitaire-ring?variant=42111552487489)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [5](https://www.chantalvaulet.com/products/the-serene-knot-moissanite-0-5ct-solitaire-ring?variant=42111552520257)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/the-serene-knot-moissanite-0-5ct-solitaire-ring_by_Chantal_Vaulet.webp?v=1760894380
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [5.25](https://www.chantalvaulet.com/products/the-serene-knot-moissanite-0-5ct-solitaire-ring?variant=42111552553025)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [5.75](https://www.chantalvaulet.com/products/the-serene-knot-moissanite-0-5ct-solitaire-ring?variant=42111552585793)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [6](https://www.chantalvaulet.com/products/the-serene-knot-moissanite-0-5ct-solitaire-ring?variant=42111552618561)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [6.5](https://www.chantalvaulet.com/products/the-serene-knot-moissanite-0-5ct-solitaire-ring?variant=42111552651329)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [7](https://www.chantalvaulet.com/products/the-serene-knot-moissanite-0-5ct-solitaire-ring?variant=42111552684097)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [7.25](https://www.chantalvaulet.com/products/the-serene-knot-moissanite-0-5ct-solitaire-ring?variant=42111552716865)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [7.75](https://www.chantalvaulet.com/products/the-serene-knot-moissanite-0-5ct-solitaire-ring?variant=42111552749633)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [8](https://www.chantalvaulet.com/products/the-serene-knot-moissanite-0-5ct-solitaire-ring?variant=42111552782401)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [8½](https://www.chantalvaulet.com/products/the-serene-knot-moissanite-0-5ct-solitaire-ring?variant=42111552815169)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [8.75](https://www.chantalvaulet.com/products/the-serene-knot-moissanite-0-5ct-solitaire-ring?variant=42111552847937)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [9](https://www.chantalvaulet.com/products/the-serene-knot-moissanite-0-5ct-solitaire-ring?variant=42111552880705)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
 - [0.5CT Round Moissanite Ring – The Solenne | Chantal Vaulet](https://www.chantalvaulet.com/products/the-solenne-moissanite): The Solenne is a 0.5 carat round moissanite engagement ring with a dazzling halo, crafted for elegance and modern charm.
-  Updated: 2025-10-20T05:20:49Z
+  Updated: 2025-10-22T08:27:35Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/the-solenne-moissanite_by_Chantal_Vaulet.webp?v=1760894433
   - [4.5](https://www.chantalvaulet.com/products/the-solenne-moissanite?variant=42111551864897)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [5](https://www.chantalvaulet.com/products/the-solenne-moissanite?variant=42111551897665)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/the-solenne-moissanite_by_Chantal_Vaulet.webp?v=1760894433
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [5.25](https://www.chantalvaulet.com/products/the-solenne-moissanite?variant=42111551930433)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [5.75](https://www.chantalvaulet.com/products/the-solenne-moissanite?variant=42111551963201)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [6](https://www.chantalvaulet.com/products/the-solenne-moissanite?variant=42111551995969)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [6.5](https://www.chantalvaulet.com/products/the-solenne-moissanite?variant=42111552028737)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [7](https://www.chantalvaulet.com/products/the-solenne-moissanite?variant=42111552061505)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [7.25](https://www.chantalvaulet.com/products/the-solenne-moissanite?variant=42111552094273)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [7.75](https://www.chantalvaulet.com/products/the-solenne-moissanite?variant=42111552127041)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [8](https://www.chantalvaulet.com/products/the-solenne-moissanite?variant=42111552159809)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [8½](https://www.chantalvaulet.com/products/the-solenne-moissanite?variant=42111552192577)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [8.75](https://www.chantalvaulet.com/products/the-solenne-moissanite?variant=42111552225345)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [9](https://www.chantalvaulet.com/products/the-solenne-moissanite?variant=42111552258113)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
 - [0.5CT Round Moissanite Ring – The Amorette | Chantal Vaulet](https://www.chantalvaulet.com/products/the-amorette-moissanite-halo-engagement-ring-0-5ct): The Amorette is a 0.5 carat round moissanite ring, featuring a dazzling halo and 34 side stones for timeless elegance and modern charm.
-  Updated: 2025-10-19T17:21:52Z
+  Updated: 2025-10-22T08:27:20Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
   - [4.5](https://www.chantalvaulet.com/products/the-amorette-moissanite-halo-engagement-ring-0-5ct?variant=42111551307841)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [5](https://www.chantalvaulet.com/products/the-amorette-moissanite-halo-engagement-ring-0-5ct?variant=42111551340609)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/the-amorette-moissanite-halo-engagement-ring-0-5ct_by_Chantal_Vaulet.webp?v=1760894486
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [5.25](https://www.chantalvaulet.com/products/the-amorette-moissanite-halo-engagement-ring-0-5ct?variant=42111551373377)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [5.75](https://www.chantalvaulet.com/products/the-amorette-moissanite-halo-engagement-ring-0-5ct?variant=42111551406145)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [6](https://www.chantalvaulet.com/products/the-amorette-moissanite-halo-engagement-ring-0-5ct?variant=42111551438913)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [6.5](https://www.chantalvaulet.com/products/the-amorette-moissanite-halo-engagement-ring-0-5ct?variant=42111551471681)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [7](https://www.chantalvaulet.com/products/the-amorette-moissanite-halo-engagement-ring-0-5ct?variant=42111551504449)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [7.25](https://www.chantalvaulet.com/products/the-amorette-moissanite-halo-engagement-ring-0-5ct?variant=42111551537217)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [7.75](https://www.chantalvaulet.com/products/the-amorette-moissanite-halo-engagement-ring-0-5ct?variant=42111551569985)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [8](https://www.chantalvaulet.com/products/the-amorette-moissanite-halo-engagement-ring-0-5ct?variant=42111551602753)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [8½](https://www.chantalvaulet.com/products/the-amorette-moissanite-halo-engagement-ring-0-5ct?variant=42111551635521)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [8.75](https://www.chantalvaulet.com/products/the-amorette-moissanite-halo-engagement-ring-0-5ct?variant=42111551668289)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [9](https://www.chantalvaulet.com/products/the-amorette-moissanite-halo-engagement-ring-0-5ct?variant=42111551701057)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
 - [0.5 CT Round Moissanite Ring – The Aurelian Twist | Chantal Vaulet](https://www.chantalvaulet.com/products/the-aurelian-twist-moissanite-ring-0-5ct): The Aurelian Twist is a 0.5 carat moissanite ring with exquisite sparkle and a unique twist band symbolizing eternal love.
-  Updated: 2025-10-20T05:22:10Z
+  Updated: 2025-10-22T08:26:59Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/the-aurelian-twist-moissanite-ring-0-5ct_by_Chantal_Vaulet.webp?v=1760894525
   - [4.5](https://www.chantalvaulet.com/products/the-aurelian-twist-moissanite-ring-0-5ct?variant=42111550619713)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [5](https://www.chantalvaulet.com/products/the-aurelian-twist-moissanite-ring-0-5ct?variant=42111550652481)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/the-aurelian-twist-moissanite-ring-0-5ct_by_Chantal_Vaulet.webp?v=1760894525
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [5.25](https://www.chantalvaulet.com/products/the-aurelian-twist-moissanite-ring-0-5ct?variant=42111550685249)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [5.75](https://www.chantalvaulet.com/products/the-aurelian-twist-moissanite-ring-0-5ct?variant=42111550718017)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [6](https://www.chantalvaulet.com/products/the-aurelian-twist-moissanite-ring-0-5ct?variant=42111550750785)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [6.5](https://www.chantalvaulet.com/products/the-aurelian-twist-moissanite-ring-0-5ct?variant=42111550783553)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [7](https://www.chantalvaulet.com/products/the-aurelian-twist-moissanite-ring-0-5ct?variant=42111550816321)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [7.25](https://www.chantalvaulet.com/products/the-aurelian-twist-moissanite-ring-0-5ct?variant=42111550849089)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [7.75](https://www.chantalvaulet.com/products/the-aurelian-twist-moissanite-ring-0-5ct?variant=42111550881857)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [8](https://www.chantalvaulet.com/products/the-aurelian-twist-moissanite-ring-0-5ct?variant=42111550914625)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [8½](https://www.chantalvaulet.com/products/the-aurelian-twist-moissanite-ring-0-5ct?variant=42111550947393)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [8.75](https://www.chantalvaulet.com/products/the-aurelian-twist-moissanite-ring-0-5ct?variant=42111550980161)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [9](https://www.chantalvaulet.com/products/the-aurelian-twist-moissanite-ring-0-5ct?variant=42111551012929)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
 - [0.5 CT Round Moissanite Ring – The Solaria | Chantal Vaulet](https://www.chantalvaulet.com/products/the-solaria-moissanite-solitaire-ring-0-5ct): The Solaria is a 0.5 carat round moissanite engagement ring, radiating elegance with its six-prong setting and polished band.
-  Updated: 2025-10-19T19:23:41Z
+  Updated: 2025-10-22T08:26:30Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
   - [4.5](https://www.chantalvaulet.com/products/the-solaria-moissanite-solitaire-ring-0-5ct?variant=42111549931585)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [5](https://www.chantalvaulet.com/products/the-solaria-moissanite-solitaire-ring-0-5ct?variant=42111549964353)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/the-solaria-moissanite-solitaire-ring-0-5ct_by_Chantal_Vaulet.webp?v=1760894577
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [5.25](https://www.chantalvaulet.com/products/the-solaria-moissanite-solitaire-ring-0-5ct?variant=42111549997121)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [5.75](https://www.chantalvaulet.com/products/the-solaria-moissanite-solitaire-ring-0-5ct?variant=42111550029889)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [6](https://www.chantalvaulet.com/products/the-solaria-moissanite-solitaire-ring-0-5ct?variant=42111550062657)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [6.5](https://www.chantalvaulet.com/products/the-solaria-moissanite-solitaire-ring-0-5ct?variant=42111550095425)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [7](https://www.chantalvaulet.com/products/the-solaria-moissanite-solitaire-ring-0-5ct?variant=42111550128193)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [7.25](https://www.chantalvaulet.com/products/the-solaria-moissanite-solitaire-ring-0-5ct?variant=42111550160961)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [7.75](https://www.chantalvaulet.com/products/the-solaria-moissanite-solitaire-ring-0-5ct?variant=42111550193729)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [8](https://www.chantalvaulet.com/products/the-solaria-moissanite-solitaire-ring-0-5ct?variant=42111550226497)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [8½](https://www.chantalvaulet.com/products/the-solaria-moissanite-solitaire-ring-0-5ct?variant=42111550259265)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [8.75](https://www.chantalvaulet.com/products/the-solaria-moissanite-solitaire-ring-0-5ct?variant=42111550292033)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [9](https://www.chantalvaulet.com/products/the-solaria-moissanite-solitaire-ring-0-5ct?variant=42111550324801)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
 - [0.5 CT Round Moissanite Ring – The Valoria | Chantal Vaulet](https://www.chantalvaulet.com/products/the-valoria-moissanite-solitaire-ring-0-5ct): The Valoria is a 0.5 carat moissanite solitaire ring in 14K white gold, showcasing timeless beauty and brilliant sparkle.
-  Updated: 2025-10-20T05:57:23Z
+  Updated: 2025-10-22T08:26:05Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/the-valoria-moissanite-solitaire-ring-0-5ct_by_Chantal_Vaulet.webp?v=1760894642
   - [Clear / 4.5](https://www.chantalvaulet.com/products/the-valoria-moissanite-solitaire-ring-0-5ct?variant=42111548129345)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [Clear / 5](https://www.chantalvaulet.com/products/the-valoria-moissanite-solitaire-ring-0-5ct?variant=42111548162113)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [Clear / 5.25](https://www.chantalvaulet.com/products/the-valoria-moissanite-solitaire-ring-0-5ct?variant=42111548194881)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [Clear / 5.75](https://www.chantalvaulet.com/products/the-valoria-moissanite-solitaire-ring-0-5ct?variant=42111548227649)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [Clear / 6](https://www.chantalvaulet.com/products/the-valoria-moissanite-solitaire-ring-0-5ct?variant=42111548260417)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [Clear / 6.5](https://www.chantalvaulet.com/products/the-valoria-moissanite-solitaire-ring-0-5ct?variant=42111548293185)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [Clear / 7](https://www.chantalvaulet.com/products/the-valoria-moissanite-solitaire-ring-0-5ct?variant=42111548325953)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [Clear / 7.25](https://www.chantalvaulet.com/products/the-valoria-moissanite-solitaire-ring-0-5ct?variant=42111548358721)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [Clear / 7.75](https://www.chantalvaulet.com/products/the-valoria-moissanite-solitaire-ring-0-5ct?variant=42111548391489)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [Clear / 8](https://www.chantalvaulet.com/products/the-valoria-moissanite-solitaire-ring-0-5ct?variant=42111548424257)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [Clear / 8½](https://www.chantalvaulet.com/products/the-valoria-moissanite-solitaire-ring-0-5ct?variant=42111548457025)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [Clear / 8.75](https://www.chantalvaulet.com/products/the-valoria-moissanite-solitaire-ring-0-5ct?variant=42111548489793)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [Clear / 9](https://www.chantalvaulet.com/products/the-valoria-moissanite-solitaire-ring-0-5ct?variant=42111548522561)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [Pink / 4.5](https://www.chantalvaulet.com/products/the-valoria-moissanite-solitaire-ring-0-5ct?variant=42111548555329)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Pink / 5](https://www.chantalvaulet.com/products/the-valoria-moissanite-solitaire-ring-0-5ct?variant=42111548588097)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Pink / 5.25](https://www.chantalvaulet.com/products/the-valoria-moissanite-solitaire-ring-0-5ct?variant=42111548620865)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Pink / 5.75](https://www.chantalvaulet.com/products/the-valoria-moissanite-solitaire-ring-0-5ct?variant=42111548653633)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Pink / 6](https://www.chantalvaulet.com/products/the-valoria-moissanite-solitaire-ring-0-5ct?variant=42111548686401)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Pink / 6.5](https://www.chantalvaulet.com/products/the-valoria-moissanite-solitaire-ring-0-5ct?variant=42111548719169)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Pink / 7](https://www.chantalvaulet.com/products/the-valoria-moissanite-solitaire-ring-0-5ct?variant=42111548751937)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Pink / 7.25](https://www.chantalvaulet.com/products/the-valoria-moissanite-solitaire-ring-0-5ct?variant=42111548784705)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Pink / 7.75](https://www.chantalvaulet.com/products/the-valoria-moissanite-solitaire-ring-0-5ct?variant=42111548817473)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Pink / 8](https://www.chantalvaulet.com/products/the-valoria-moissanite-solitaire-ring-0-5ct?variant=42111548850241)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Pink / 8½](https://www.chantalvaulet.com/products/the-valoria-moissanite-solitaire-ring-0-5ct?variant=42111548883009)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Pink / 8.75](https://www.chantalvaulet.com/products/the-valoria-moissanite-solitaire-ring-0-5ct?variant=42111548915777)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Pink / 9](https://www.chantalvaulet.com/products/the-valoria-moissanite-solitaire-ring-0-5ct?variant=42111548948545)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Blue / 4.5](https://www.chantalvaulet.com/products/the-valoria-moissanite-solitaire-ring-0-5ct?variant=42111548981313)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Blue / 5](https://www.chantalvaulet.com/products/the-valoria-moissanite-solitaire-ring-0-5ct?variant=42111549014081)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Blue / 5.25](https://www.chantalvaulet.com/products/the-valoria-moissanite-solitaire-ring-0-5ct?variant=42111549046849)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Blue / 5.75](https://www.chantalvaulet.com/products/the-valoria-moissanite-solitaire-ring-0-5ct?variant=42111549079617)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Blue / 6](https://www.chantalvaulet.com/products/the-valoria-moissanite-solitaire-ring-0-5ct?variant=42111549112385)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Blue / 6.5](https://www.chantalvaulet.com/products/the-valoria-moissanite-solitaire-ring-0-5ct?variant=42111549145153)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Blue / 7](https://www.chantalvaulet.com/products/the-valoria-moissanite-solitaire-ring-0-5ct?variant=42111549177921)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Blue / 7.25](https://www.chantalvaulet.com/products/the-valoria-moissanite-solitaire-ring-0-5ct?variant=42111549210689)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Blue / 7.75](https://www.chantalvaulet.com/products/the-valoria-moissanite-solitaire-ring-0-5ct?variant=42111549243457)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Blue / 8](https://www.chantalvaulet.com/products/the-valoria-moissanite-solitaire-ring-0-5ct?variant=42111549276225)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Blue / 8½](https://www.chantalvaulet.com/products/the-valoria-moissanite-solitaire-ring-0-5ct?variant=42111549308993)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Blue / 8.75](https://www.chantalvaulet.com/products/the-valoria-moissanite-solitaire-ring-0-5ct?variant=42111549341761)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Blue / 9](https://www.chantalvaulet.com/products/the-valoria-moissanite-solitaire-ring-0-5ct?variant=42111549374529)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Yellow / 4.5](https://www.chantalvaulet.com/products/the-valoria-moissanite-solitaire-ring-0-5ct?variant=42111549407297)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Yellow / 5](https://www.chantalvaulet.com/products/the-valoria-moissanite-solitaire-ring-0-5ct?variant=42111549440065)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Yellow / 5.25](https://www.chantalvaulet.com/products/the-valoria-moissanite-solitaire-ring-0-5ct?variant=42111549472833)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Yellow / 5.75](https://www.chantalvaulet.com/products/the-valoria-moissanite-solitaire-ring-0-5ct?variant=42111549505601)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Yellow / 6](https://www.chantalvaulet.com/products/the-valoria-moissanite-solitaire-ring-0-5ct?variant=42111549538369)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Yellow / 6.5](https://www.chantalvaulet.com/products/the-valoria-moissanite-solitaire-ring-0-5ct?variant=42111549571137)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Yellow / 7](https://www.chantalvaulet.com/products/the-valoria-moissanite-solitaire-ring-0-5ct?variant=42111549603905)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Yellow / 7.25](https://www.chantalvaulet.com/products/the-valoria-moissanite-solitaire-ring-0-5ct?variant=42111549636673)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Yellow / 7.75](https://www.chantalvaulet.com/products/the-valoria-moissanite-solitaire-ring-0-5ct?variant=42111549669441)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Yellow / 8](https://www.chantalvaulet.com/products/the-valoria-moissanite-solitaire-ring-0-5ct?variant=42111549702209)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Yellow / 8½](https://www.chantalvaulet.com/products/the-valoria-moissanite-solitaire-ring-0-5ct?variant=42111549734977)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
 - [0.5CT Round Moissanite Ring – The Sylvara | Chantal Vaulet](https://www.chantalvaulet.com/products/the-sylvara-moissanite-pave-elegance-0-5ct): The Sylvara is a 0.5CT moissanite engagement ring featuring an elegant six-prong setting and stunning pavé side stones for extra brilliance.
-  Updated: 2025-10-20T05:25:42Z
+  Updated: 2025-10-22T08:25:11Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/the-sylvara-moissanite-pave-elegance-0-5ct_by_Chantal_Vaulet.webp?v=1760894734
   - [Clear / 4.5](https://www.chantalvaulet.com/products/the-sylvara-moissanite-pave-elegance-0-5ct?variant=42111546097729)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [Clear / 5](https://www.chantalvaulet.com/products/the-sylvara-moissanite-pave-elegance-0-5ct?variant=42111546130497)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [Clear / 5.25](https://www.chantalvaulet.com/products/the-sylvara-moissanite-pave-elegance-0-5ct?variant=42111546163265)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [Clear / 5.75](https://www.chantalvaulet.com/products/the-sylvara-moissanite-pave-elegance-0-5ct?variant=42111546196033)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [Clear / 6](https://www.chantalvaulet.com/products/the-sylvara-moissanite-pave-elegance-0-5ct?variant=42111546228801)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [Clear / 6.5](https://www.chantalvaulet.com/products/the-sylvara-moissanite-pave-elegance-0-5ct?variant=42111546261569)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [Clear / 7](https://www.chantalvaulet.com/products/the-sylvara-moissanite-pave-elegance-0-5ct?variant=42111546294337)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [Clear / 7.25](https://www.chantalvaulet.com/products/the-sylvara-moissanite-pave-elegance-0-5ct?variant=42111546327105)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [Clear / 7.75](https://www.chantalvaulet.com/products/the-sylvara-moissanite-pave-elegance-0-5ct?variant=42111546359873)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [Clear / 8](https://www.chantalvaulet.com/products/the-sylvara-moissanite-pave-elegance-0-5ct?variant=42111546392641)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [Clear / 8½](https://www.chantalvaulet.com/products/the-sylvara-moissanite-pave-elegance-0-5ct?variant=42111546425409)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [Clear / 8.75](https://www.chantalvaulet.com/products/the-sylvara-moissanite-pave-elegance-0-5ct?variant=42111546458177)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [Clear / 9](https://www.chantalvaulet.com/products/the-sylvara-moissanite-pave-elegance-0-5ct?variant=42111546490945)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [Pink / 4.5](https://www.chantalvaulet.com/products/the-sylvara-moissanite-pave-elegance-0-5ct?variant=42111546523713)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Pink / 5](https://www.chantalvaulet.com/products/the-sylvara-moissanite-pave-elegance-0-5ct?variant=42111546556481)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Pink / 5.25](https://www.chantalvaulet.com/products/the-sylvara-moissanite-pave-elegance-0-5ct?variant=42111546589249)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Pink / 5.75](https://www.chantalvaulet.com/products/the-sylvara-moissanite-pave-elegance-0-5ct?variant=42111546622017)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Pink / 6](https://www.chantalvaulet.com/products/the-sylvara-moissanite-pave-elegance-0-5ct?variant=42111546654785)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Pink / 6.5](https://www.chantalvaulet.com/products/the-sylvara-moissanite-pave-elegance-0-5ct?variant=42111546687553)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Pink / 7](https://www.chantalvaulet.com/products/the-sylvara-moissanite-pave-elegance-0-5ct?variant=42111546720321)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Pink / 7.25](https://www.chantalvaulet.com/products/the-sylvara-moissanite-pave-elegance-0-5ct?variant=42111546753089)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Pink / 7.75](https://www.chantalvaulet.com/products/the-sylvara-moissanite-pave-elegance-0-5ct?variant=42111546785857)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Pink / 8](https://www.chantalvaulet.com/products/the-sylvara-moissanite-pave-elegance-0-5ct?variant=42111546818625)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Pink / 8½](https://www.chantalvaulet.com/products/the-sylvara-moissanite-pave-elegance-0-5ct?variant=42111546851393)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Pink / 8.75](https://www.chantalvaulet.com/products/the-sylvara-moissanite-pave-elegance-0-5ct?variant=42111546884161)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Pink / 9](https://www.chantalvaulet.com/products/the-sylvara-moissanite-pave-elegance-0-5ct?variant=42111546916929)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Blue / 4.5](https://www.chantalvaulet.com/products/the-sylvara-moissanite-pave-elegance-0-5ct?variant=42111546949697)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Blue / 5](https://www.chantalvaulet.com/products/the-sylvara-moissanite-pave-elegance-0-5ct?variant=42111546982465)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Blue / 5.25](https://www.chantalvaulet.com/products/the-sylvara-moissanite-pave-elegance-0-5ct?variant=42111547015233)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Blue / 5.75](https://www.chantalvaulet.com/products/the-sylvara-moissanite-pave-elegance-0-5ct?variant=42111547048001)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Blue / 6](https://www.chantalvaulet.com/products/the-sylvara-moissanite-pave-elegance-0-5ct?variant=42111547080769)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Blue / 6.5](https://www.chantalvaulet.com/products/the-sylvara-moissanite-pave-elegance-0-5ct?variant=42111547113537)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Blue / 7](https://www.chantalvaulet.com/products/the-sylvara-moissanite-pave-elegance-0-5ct?variant=42111547146305)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Blue / 7.25](https://www.chantalvaulet.com/products/the-sylvara-moissanite-pave-elegance-0-5ct?variant=42111547179073)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Blue / 7.75](https://www.chantalvaulet.com/products/the-sylvara-moissanite-pave-elegance-0-5ct?variant=42111547211841)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Blue / 8](https://www.chantalvaulet.com/products/the-sylvara-moissanite-pave-elegance-0-5ct?variant=42111547244609)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Blue / 8½](https://www.chantalvaulet.com/products/the-sylvara-moissanite-pave-elegance-0-5ct?variant=42111547277377)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Blue / 8.75](https://www.chantalvaulet.com/products/the-sylvara-moissanite-pave-elegance-0-5ct?variant=42111547310145)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Blue / 9](https://www.chantalvaulet.com/products/the-sylvara-moissanite-pave-elegance-0-5ct?variant=42111547342913)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Yellow / 4.5](https://www.chantalvaulet.com/products/the-sylvara-moissanite-pave-elegance-0-5ct?variant=42111547375681)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Yellow / 5](https://www.chantalvaulet.com/products/the-sylvara-moissanite-pave-elegance-0-5ct?variant=42111547408449)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Yellow / 5.25](https://www.chantalvaulet.com/products/the-sylvara-moissanite-pave-elegance-0-5ct?variant=42111547441217)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Yellow / 5.75](https://www.chantalvaulet.com/products/the-sylvara-moissanite-pave-elegance-0-5ct?variant=42111547473985)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Yellow / 6](https://www.chantalvaulet.com/products/the-sylvara-moissanite-pave-elegance-0-5ct?variant=42111547506753)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Yellow / 6.5](https://www.chantalvaulet.com/products/the-sylvara-moissanite-pave-elegance-0-5ct?variant=42111547539521)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Yellow / 7](https://www.chantalvaulet.com/products/the-sylvara-moissanite-pave-elegance-0-5ct?variant=42111547572289)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Yellow / 7.25](https://www.chantalvaulet.com/products/the-sylvara-moissanite-pave-elegance-0-5ct?variant=42111547605057)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Yellow / 7.75](https://www.chantalvaulet.com/products/the-sylvara-moissanite-pave-elegance-0-5ct?variant=42111547637825)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Yellow / 8](https://www.chantalvaulet.com/products/the-sylvara-moissanite-pave-elegance-0-5ct?variant=42111547670593)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
   - [Yellow / 8½](https://www.chantalvaulet.com/products/the-sylvara-moissanite-pave-elegance-0-5ct?variant=42111547703361)
     Availability: Available
-    Price: €95.00 EUR
+    Price: €119.00 EUR
 - [0.5CT Round Moissanite Ring – The Eloria | Chantal Vaulet](https://www.chantalvaulet.com/products/the-eloria-moissanite-solitaire-ring-0-5ct): The Eloria is a 0.5 carat moissanite engagement ring with stunning fire and elegance, featuring a six-prong setting for a luxurious look.
-  Updated: 2025-10-20T05:26:56Z
+  Updated: 2025-10-22T08:24:33Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/the-eloria-moissanite-solitaire-ring-0-5ct_by_Chantal_Vaulet.webp?v=1760894810
   - [4.5](https://www.chantalvaulet.com/products/the-eloria-moissanite-solitaire-ring-0-5ct?variant=42111545212993)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [5](https://www.chantalvaulet.com/products/the-eloria-moissanite-solitaire-ring-0-5ct?variant=42111545245761)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/the-eloria-moissanite-solitaire-ring-0-5ct_by_Chantal_Vaulet.webp?v=1760894810
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [5.25](https://www.chantalvaulet.com/products/the-eloria-moissanite-solitaire-ring-0-5ct?variant=42111545278529)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [5.75](https://www.chantalvaulet.com/products/the-eloria-moissanite-solitaire-ring-0-5ct?variant=42111545311297)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [6](https://www.chantalvaulet.com/products/the-eloria-moissanite-solitaire-ring-0-5ct?variant=42111545344065)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [6.5](https://www.chantalvaulet.com/products/the-eloria-moissanite-solitaire-ring-0-5ct?variant=42111545376833)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [7](https://www.chantalvaulet.com/products/the-eloria-moissanite-solitaire-ring-0-5ct?variant=42111545409601)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [7.25](https://www.chantalvaulet.com/products/the-eloria-moissanite-solitaire-ring-0-5ct?variant=42111545442369)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [7.75](https://www.chantalvaulet.com/products/the-eloria-moissanite-solitaire-ring-0-5ct?variant=42111545475137)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [8](https://www.chantalvaulet.com/products/the-eloria-moissanite-solitaire-ring-0-5ct?variant=42111545507905)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [8½](https://www.chantalvaulet.com/products/the-eloria-moissanite-solitaire-ring-0-5ct?variant=42111545540673)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [8.75](https://www.chantalvaulet.com/products/the-eloria-moissanite-solitaire-ring-0-5ct?variant=42111545573441)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
   - [9](https://www.chantalvaulet.com/products/the-eloria-moissanite-solitaire-ring-0-5ct?variant=42111545606209)
     Availability: Available
-    Price: €79.00 EUR
+    Price: €99.00 EUR
 - [1.5 CT Round Moissanite Ring – The Belladonna | Chantal Vaulet](https://www.chantalvaulet.com/products/the-belladonna-moissanite-pave-solitaire-ring-1-5ct): The Belladonna features a 1.5CT moissanite, offering unmatched brilliance and elegance, set in a pave band for extraordinary sparkle.
-  Updated: 2025-10-20T05:42:47Z
+  Updated: 2025-10-22T08:24:07Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/the-belladonna-moissanite-pave-solitaire-ring-1-5ct_by_Chantal_Vaulet.webp?v=1760894876
   - [Clear / 4.5](https://www.chantalvaulet.com/products/the-belladonna-moissanite-pave-solitaire-ring-1-5ct?variant=42111542886465)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Clear / 5](https://www.chantalvaulet.com/products/the-belladonna-moissanite-pave-solitaire-ring-1-5ct?variant=42111542919233)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Clear / 5.25](https://www.chantalvaulet.com/products/the-belladonna-moissanite-pave-solitaire-ring-1-5ct?variant=42111542952001)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Clear / 5.75](https://www.chantalvaulet.com/products/the-belladonna-moissanite-pave-solitaire-ring-1-5ct?variant=42111542984769)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Clear / 6](https://www.chantalvaulet.com/products/the-belladonna-moissanite-pave-solitaire-ring-1-5ct?variant=42111543017537)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Clear / 6.5](https://www.chantalvaulet.com/products/the-belladonna-moissanite-pave-solitaire-ring-1-5ct?variant=42111543050305)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Clear / 7](https://www.chantalvaulet.com/products/the-belladonna-moissanite-pave-solitaire-ring-1-5ct?variant=42111543083073)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Clear / 7.25](https://www.chantalvaulet.com/products/the-belladonna-moissanite-pave-solitaire-ring-1-5ct?variant=42111543115841)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Clear / 7.75](https://www.chantalvaulet.com/products/the-belladonna-moissanite-pave-solitaire-ring-1-5ct?variant=42111543148609)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Clear / 8](https://www.chantalvaulet.com/products/the-belladonna-moissanite-pave-solitaire-ring-1-5ct?variant=42111543181377)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Clear / 8½](https://www.chantalvaulet.com/products/the-belladonna-moissanite-pave-solitaire-ring-1-5ct?variant=42111543214145)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Clear / 8.75](https://www.chantalvaulet.com/products/the-belladonna-moissanite-pave-solitaire-ring-1-5ct?variant=42111543246913)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Clear / 9](https://www.chantalvaulet.com/products/the-belladonna-moissanite-pave-solitaire-ring-1-5ct?variant=42111543279681)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 4.5](https://www.chantalvaulet.com/products/the-belladonna-moissanite-pave-solitaire-ring-1-5ct?variant=42111543312449)
     Availability: Available
-    Price: €135.00 EUR
+    Price: €165.00 EUR
   - [Pink / 5](https://www.chantalvaulet.com/products/the-belladonna-moissanite-pave-solitaire-ring-1-5ct?variant=42111543345217)
     Availability: Available
-    Price: €135.00 EUR
+    Price: €165.00 EUR
   - [Pink / 5.25](https://www.chantalvaulet.com/products/the-belladonna-moissanite-pave-solitaire-ring-1-5ct?variant=42111543377985)
     Availability: Available
-    Price: €135.00 EUR
+    Price: €165.00 EUR
   - [Pink / 5.75](https://www.chantalvaulet.com/products/the-belladonna-moissanite-pave-solitaire-ring-1-5ct?variant=42111543410753)
     Availability: Available
-    Price: €135.00 EUR
+    Price: €165.00 EUR
   - [Pink / 6](https://www.chantalvaulet.com/products/the-belladonna-moissanite-pave-solitaire-ring-1-5ct?variant=42111543443521)
     Availability: Available
-    Price: €135.00 EUR
+    Price: €165.00 EUR
   - [Pink / 6.5](https://www.chantalvaulet.com/products/the-belladonna-moissanite-pave-solitaire-ring-1-5ct?variant=42111543476289)
     Availability: Available
-    Price: €135.00 EUR
+    Price: €165.00 EUR
   - [Pink / 7](https://www.chantalvaulet.com/products/the-belladonna-moissanite-pave-solitaire-ring-1-5ct?variant=42111543509057)
     Availability: Available
-    Price: €135.00 EUR
+    Price: €165.00 EUR
   - [Pink / 7.25](https://www.chantalvaulet.com/products/the-belladonna-moissanite-pave-solitaire-ring-1-5ct?variant=42111543541825)
     Availability: Available
-    Price: €135.00 EUR
+    Price: €165.00 EUR
   - [Pink / 7.75](https://www.chantalvaulet.com/products/the-belladonna-moissanite-pave-solitaire-ring-1-5ct?variant=42111543574593)
     Availability: Available
-    Price: €135.00 EUR
+    Price: €165.00 EUR
   - [Pink / 8](https://www.chantalvaulet.com/products/the-belladonna-moissanite-pave-solitaire-ring-1-5ct?variant=42111543607361)
     Availability: Available
-    Price: €135.00 EUR
+    Price: €165.00 EUR
   - [Pink / 8½](https://www.chantalvaulet.com/products/the-belladonna-moissanite-pave-solitaire-ring-1-5ct?variant=42111543640129)
     Availability: Available
-    Price: €135.00 EUR
+    Price: €165.00 EUR
   - [Pink / 8.75](https://www.chantalvaulet.com/products/the-belladonna-moissanite-pave-solitaire-ring-1-5ct?variant=42111543672897)
     Availability: Available
-    Price: €135.00 EUR
+    Price: €165.00 EUR
   - [Pink / 9](https://www.chantalvaulet.com/products/the-belladonna-moissanite-pave-solitaire-ring-1-5ct?variant=42111543705665)
     Availability: Available
-    Price: €135.00 EUR
+    Price: €165.00 EUR
   - [Blue / 4.5](https://www.chantalvaulet.com/products/the-belladonna-moissanite-pave-solitaire-ring-1-5ct?variant=42111543738433)
     Availability: Available
-    Price: €135.00 EUR
+    Price: €165.00 EUR
   - [Blue / 5](https://www.chantalvaulet.com/products/the-belladonna-moissanite-pave-solitaire-ring-1-5ct?variant=42111543771201)
     Availability: Available
-    Price: €135.00 EUR
+    Price: €165.00 EUR
   - [Blue / 5.25](https://www.chantalvaulet.com/products/the-belladonna-moissanite-pave-solitaire-ring-1-5ct?variant=42111543803969)
     Availability: Available
-    Price: €135.00 EUR
+    Price: €165.00 EUR
   - [Blue / 5.75](https://www.chantalvaulet.com/products/the-belladonna-moissanite-pave-solitaire-ring-1-5ct?variant=42111543836737)
     Availability: Available
-    Price: €135.00 EUR
+    Price: €165.00 EUR
   - [Blue / 6](https://www.chantalvaulet.com/products/the-belladonna-moissanite-pave-solitaire-ring-1-5ct?variant=42111543869505)
     Availability: Available
-    Price: €135.00 EUR
+    Price: €165.00 EUR
   - [Blue / 6.5](https://www.chantalvaulet.com/products/the-belladonna-moissanite-pave-solitaire-ring-1-5ct?variant=42111543902273)
     Availability: Available
-    Price: €135.00 EUR
+    Price: €165.00 EUR
   - [Blue / 7](https://www.chantalvaulet.com/products/the-belladonna-moissanite-pave-solitaire-ring-1-5ct?variant=42111543935041)
     Availability: Available
-    Price: €135.00 EUR
+    Price: €165.00 EUR
   - [Blue / 7.25](https://www.chantalvaulet.com/products/the-belladonna-moissanite-pave-solitaire-ring-1-5ct?variant=42111543967809)
     Availability: Available
-    Price: €135.00 EUR
+    Price: €165.00 EUR
   - [Blue / 7.75](https://www.chantalvaulet.com/products/the-belladonna-moissanite-pave-solitaire-ring-1-5ct?variant=42111544000577)
     Availability: Available
-    Price: €135.00 EUR
+    Price: €165.00 EUR
   - [Blue / 8](https://www.chantalvaulet.com/products/the-belladonna-moissanite-pave-solitaire-ring-1-5ct?variant=42111544033345)
     Availability: Available
-    Price: €135.00 EUR
+    Price: €165.00 EUR
   - [Blue / 8½](https://www.chantalvaulet.com/products/the-belladonna-moissanite-pave-solitaire-ring-1-5ct?variant=42111544066113)
     Availability: Available
-    Price: €135.00 EUR
+    Price: €165.00 EUR
   - [Blue / 8.75](https://www.chantalvaulet.com/products/the-belladonna-moissanite-pave-solitaire-ring-1-5ct?variant=42111544098881)
     Availability: Available
-    Price: €135.00 EUR
+    Price: €165.00 EUR
   - [Blue / 9](https://www.chantalvaulet.com/products/the-belladonna-moissanite-pave-solitaire-ring-1-5ct?variant=42111544131649)
     Availability: Available
-    Price: €135.00 EUR
+    Price: €165.00 EUR
   - [Yellow / 4.5](https://www.chantalvaulet.com/products/the-belladonna-moissanite-pave-solitaire-ring-1-5ct?variant=42111544164417)
     Availability: Available
-    Price: €135.00 EUR
+    Price: €165.00 EUR
   - [Yellow / 5](https://www.chantalvaulet.com/products/the-belladonna-moissanite-pave-solitaire-ring-1-5ct?variant=42111544197185)
     Availability: Available
-    Price: €135.00 EUR
+    Price: €165.00 EUR
   - [Yellow / 5.25](https://www.chantalvaulet.com/products/the-belladonna-moissanite-pave-solitaire-ring-1-5ct?variant=42111544229953)
     Availability: Available
-    Price: €135.00 EUR
+    Price: €165.00 EUR
   - [Yellow / 5.75](https://www.chantalvaulet.com/products/the-belladonna-moissanite-pave-solitaire-ring-1-5ct?variant=42111544262721)
     Availability: Available
-    Price: €135.00 EUR
+    Price: €165.00 EUR
   - [Yellow / 6](https://www.chantalvaulet.com/products/the-belladonna-moissanite-pave-solitaire-ring-1-5ct?variant=42111544295489)
     Availability: Available
-    Price: €135.00 EUR
+    Price: €165.00 EUR
   - [Yellow / 6.5](https://www.chantalvaulet.com/products/the-belladonna-moissanite-pave-solitaire-ring-1-5ct?variant=42111544328257)
     Availability: Available
-    Price: €135.00 EUR
+    Price: €165.00 EUR
   - [Yellow / 7](https://www.chantalvaulet.com/products/the-belladonna-moissanite-pave-solitaire-ring-1-5ct?variant=42111544361025)
     Availability: Available
-    Price: €135.00 EUR
+    Price: €165.00 EUR
   - [Yellow / 7.25](https://www.chantalvaulet.com/products/the-belladonna-moissanite-pave-solitaire-ring-1-5ct?variant=42111544393793)
     Availability: Available
-    Price: €135.00 EUR
+    Price: €165.00 EUR
   - [Yellow / 7.75](https://www.chantalvaulet.com/products/the-belladonna-moissanite-pave-solitaire-ring-1-5ct?variant=42111544426561)
     Availability: Available
-    Price: €135.00 EUR
+    Price: €165.00 EUR
   - [Yellow / 8](https://www.chantalvaulet.com/products/the-belladonna-moissanite-pave-solitaire-ring-1-5ct?variant=42111544459329)
     Availability: Available
-    Price: €135.00 EUR
+    Price: €165.00 EUR
   - [Yellow / 8½](https://www.chantalvaulet.com/products/the-belladonna-moissanite-pave-solitaire-ring-1-5ct?variant=42111544492097)
     Availability: Available
-    Price: €135.00 EUR
+    Price: €165.00 EUR
 - [1.5 CT Halo Moissanite Ring – The Auretta | Chantal Vaulet](https://www.chantalvaulet.com/products/the-auretta-moissanite-halo-split-shank-ring-1-5ct): The Auretta is a 1.5 carat moissanite halo ring with stunning sparkle and a split-shank band, crafted for luxury lovers.
-  Updated: 2025-10-20T05:29:34Z
+  Updated: 2025-10-22T08:23:05Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0635/3849/5553/files/the-auretta-moissanite-halo-split-shank-ring-1-5ct_by_Chantal_Vaulet.webp?v=1760894969
   - [Clear / 4.5](https://www.chantalvaulet.com/products/the-auretta-moissanite-halo-split-shank-ring-1-5ct?variant=42111538233409)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Clear / 5](https://www.chantalvaulet.com/products/the-auretta-moissanite-halo-split-shank-ring-1-5ct?variant=42111538266177)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Clear / 5.25](https://www.chantalvaulet.com/products/the-auretta-moissanite-halo-split-shank-ring-1-5ct?variant=42111538298945)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Clear / 5.75](https://www.chantalvaulet.com/products/the-auretta-moissanite-halo-split-shank-ring-1-5ct?variant=42111538331713)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Clear / 6](https://www.chantalvaulet.com/products/the-auretta-moissanite-halo-split-shank-ring-1-5ct?variant=42111538364481)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Clear / 6.5](https://www.chantalvaulet.com/products/the-auretta-moissanite-halo-split-shank-ring-1-5ct?variant=42111538397249)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Clear / 7](https://www.chantalvaulet.com/products/the-auretta-moissanite-halo-split-shank-ring-1-5ct?variant=42111538430017)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Clear / 7.25](https://www.chantalvaulet.com/products/the-auretta-moissanite-halo-split-shank-ring-1-5ct?variant=42111538462785)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Clear / 7.75](https://www.chantalvaulet.com/products/the-auretta-moissanite-halo-split-shank-ring-1-5ct?variant=42111538495553)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Clear / 8](https://www.chantalvaulet.com/products/the-auretta-moissanite-halo-split-shank-ring-1-5ct?variant=42111538528321)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Clear / 8½](https://www.chantalvaulet.com/products/the-auretta-moissanite-halo-split-shank-ring-1-5ct?variant=42111538561089)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Clear / 8.75](https://www.chantalvaulet.com/products/the-auretta-moissanite-halo-split-shank-ring-1-5ct?variant=42111538593857)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Clear / 9](https://www.chantalvaulet.com/products/the-auretta-moissanite-halo-split-shank-ring-1-5ct?variant=42111538626625)
     Availability: Available
-    Price: €105.00 EUR
+    Price: €135.00 EUR
   - [Pink / 4.5](https://www.chantalvaulet.com/products/the-auretta-moissanite-halo-split-shank-ring-1-5ct?variant=42111538659393)
     Availability: Available
     Price: €135.00 EUR
@@ -4865,7 +4820,7 @@ Ethical Brilliance. Timeless Elegance.
     Availability: Available
     Price: €169.00 EUR
 - [2 CT Moissanite Engagement Ring – The Lysandra | Chantal Vaulet](https://www.chantalvaulet.com/products/the-lysandra-moissanite-ring-2ct): The Lysandra is a 2 carat round moissanite ring featuring 48 accent stones, crafted for an exquisite sparkle and bold elegance.
-  Updated: 2025-10-21T18:48:25Z
+  Updated: 2025-10-22T13:41:04Z
   Vendor: Chantal Vaulet
   Product Type: RING
   Availability: Available
@@ -5727,7 +5682,7 @@ Ethical Brilliance. Timeless Elegance.
     Availability: Available
     Price: €184.00 EUR
 - [The Hera Emerald-Cut](https://www.chantalvaulet.com/products/the-hera-emerald-cut): Shop The Hera Emerald-Cut today at Chantal Vaulet. Discover stunning jewelry collections, crafted for style and brilliance.
-  Updated: 2025-10-21T18:27:54Z
+  Updated: 2025-10-22T08:21:56Z
   Vendor: Chantal Vaulet
   Product Type: EARRINGS
   Availability: Available
@@ -12431,50 +12386,50 @@ Ethical Brilliance. Timeless Elegance.
 ## Collections
 
 - [✨ Sale on Moissanite Jewelry: Silver & Gold Deals! 💍](https://www.chantalvaulet.com/collections/sale): Shop our exclusive sale on stunning moissanite jewelry in silver & gold! Don't miss out on these sparkling deals! ✨💖
-  Updated: 2025-10-21T19:14:52Z
+  Updated: 2025-10-22T08:50:47Z
   Total Products: 22
 - [Elegant Rings Collection - Perfect for Every Occasion](https://www.chantalvaulet.com/collections/rings): Discover our stunning collection of rings, designed to elevate your style for any occasion. Shop now for timeless elegance!
-  Updated: 2025-10-21T19:00:33Z
-  Total Products: 140
+  Updated: 2025-10-22T09:00:01Z
+  Total Products: 139
 - [Stunning Earrings Collection 💎✨](https://www.chantalvaulet.com/collections/earrings): Explore our exquisite earrings collection featuring Moissanite, Gold, & Diamonds. Shine bright with every look! 💖🌟
-  Updated: 2025-10-21T19:15:23Z
+  Updated: 2025-10-22T08:53:50Z
   Total Products: 22
 - [✨ Stunning Moissanite Necklaces Collection 💎](https://www.chantalvaulet.com/collections/necklaces): Explore our exquisite Moissanite necklaces collection. Perfect elegance for every occasion! ✨
-  Updated: 2025-10-21T17:49:11Z
+  Updated: 2025-10-22T08:53:50Z
   Total Products: 39
 - [Stunning Bracelets Collection 💎✨](https://www.chantalvaulet.com/collections/bracelets): Discover exquisite bracelets in moissanite, silver & gold! Elevate your style with our stunning collection! 💖
   Updated: 2025-10-21T16:45:48Z
   Total Products: 11
 - [Best Sellers Collection - Top Rated Products](https://www.chantalvaulet.com/collections/best-sellers): Explore our Best Sellers Collection featuring top-rated products that customers love! Discover what’s trending and shop now.
-  Updated: 2025-10-21T19:15:23Z
-  Total Products: 210
+  Updated: 2025-10-22T09:00:01Z
+  Total Products: 209
 - [925 Sterling Silver Collection](https://www.chantalvaulet.com/collections/silver-925): Explore our exquisite 925 sterling silver jewelry collection, featuring timeless designs.
-  Updated: 2025-10-21T19:15:23Z
-  Total Products: 186
+  Updated: 2025-10-22T08:53:50Z
+  Total Products: 185
 - [✨ White Gold Collection: Stunning Jewelry Pieces ✨](https://www.chantalvaulet.com/collections/white-gold): Explore our White Gold Collection featuring exquisite moissanite jewelry. Perfect for any occasion! 💍💖
-  Updated: 2025-10-21T18:26:57Z
+  Updated: 2025-10-22T09:00:01Z
   Total Products: 9
 - [Yellow Gold Collection 💛 | Stunning 14k Gold & Moissanite](https://www.chantalvaulet.com/collections/yellow-gold): Explore our Yellow Gold Collection featuring exquisite 14k gold, Moissanite gems, and radiant diamonds! ✨💎
-  Updated: 2025-10-21T15:34:14Z
+  Updated: 2025-10-22T08:58:48Z
   Total Products: 6
 - [Explore All Products: Jewelry, Moissanite, Diamonds ✨💎](https://www.chantalvaulet.com/collections/all-products): Shop our stunning selection of all products, including moissanite, diamonds, and gold jewelry! 💖
-  Updated: 2025-10-21T19:15:23Z
-  Total Products: 210
+  Updated: 2025-10-22T09:00:01Z
+  Total Products: 209
 - [Lab-Grown Diamond Engagement Rings | Chantal Vaulet](https://www.chantalvaulet.com/collections/lab-grown-engagement-rings): Shop lab-grown diamond engagement rings—ethical, brilliant, and responsibly priced. Styles: solitaire, halo, oval, pear, emerald & more. Free delivery
-  Updated: 2025-10-21T15:34:14Z
+  Updated: 2025-10-22T09:00:01Z
   Total Products: 17
 - [Moissanite Engagement Rings](https://www.chantalvaulet.com/collections/moissanite-engagement-rings): Explore moissanite engagement rings—solitaire, halo & pavé. White, yellow or rose gold. Custom sizes, free shipping, lifetime care.
-  Updated: 2025-10-21T19:00:33Z
-  Total Products: 117
+  Updated: 2025-10-22T09:00:01Z
+  Total Products: 116
 - [Stunning Bundles of Engagement & Wedding Jewelry](https://www.chantalvaulet.com/collections/bundles): Discover exquisite engagement rings, wedding rings, earrings, and necklaces crafted with moissanite and lab diamonds.
-  Updated: 2025-10-21T16:49:37Z
+  Updated: 2025-10-22T08:53:50Z
   Total Products: 3
 - [Gold Collection - Exclusive Jewelry Pieces](https://www.chantalvaulet.com/collections/gold): Explore our stunning Gold Collection featuring exquisite designs and timeless pieces perfect for any occasion.
-  Updated: 2025-10-21T18:26:57Z
+  Updated: 2025-10-22T09:00:01Z
   Total Products: 15
 - [Engagement Rings – Lab-Grown Diamonds & Moissanite | Chantal Vaulet](https://www.chantalvaulet.com/collections/engagement-rings): Shop engagement rings in lab-grown diamond or moissanite, solitaire, halo, oval & custom. Ethical, budget-friendly. Free shipping
-  Updated: 2025-10-21T19:00:33Z
-  Total Products: 118
+  Updated: 2025-10-22T09:00:01Z
+  Total Products: 117
 - [Wedding Rings – Lab-Grown Diamonds & Moissanite | Chantal Vaulet](https://www.chantalvaulet.com/collections/wedding-rings): Wedding rings in lab-grown diamond and moissanite. Timeless to modern styles. Ethical sparkle, enduring quality. Budget friendly. Shop the collection.
   Updated: 2025-10-21T18:58:00Z
   Total Products: 18
@@ -12485,11 +12440,11 @@ Ethical Brilliance. Timeless Elegance.
   Updated: 2025-10-21T18:58:00Z
   Total Products: 15
 - [Oval Engagement Rings — Lab-Grown & Moissanite | Chantal Vaulet](https://www.chantalvaulet.com/collections/oval-engagement-rings): Shop oval engagement rings in lab-grown diamond & moissanite. Ethical sparkle, customizable settings in 18K gold or platinum. Handcrafted by Chantal Vaulet.
-  Updated: 2025-10-21T19:15:23Z
+  Updated: 2025-10-22T08:53:50Z
   Total Products: 12
 - [Round Engagement Rings — Lab-Grown & Moissanite | Chantal Vaulet](https://www.chantalvaulet.com/collections/round-engagement-rings): Shop round engagement rings in lab-grown diamond & moissanite. Classic solitaire, halo & pavé designs in gold, platinum or silver. Free shipping
-  Updated: 2025-10-21T19:14:52Z
-  Total Products: 152
+  Updated: 2025-10-22T09:00:01Z
+  Total Products: 151
 - [Emerald-Cut Engagement Rings — Lab-Grown & Moissanite | Chantal Vaulet](https://www.chantalvaulet.com/collections/emerald-cut-engagement-rings): Shop emerald-cut engagement rings in lab-grown diamond and moissanite—solitaire, three-stone, halo & vintage-inspired. Ethical sparkle, great value. Free shipping
   Updated: 2025-10-21T18:59:36Z
   Total Products: 11
@@ -12503,8 +12458,8 @@ Ethical Brilliance. Timeless Elegance.
   Updated: 2025-10-21T15:10:22Z
   Total Products: 4
 - [Pear Engagement Rings — Lab-Grown & Moissanite | Chantal Vaulet](https://www.chantalvaulet.com/collections/pear-engagement-rings): Explore pear-shaped engagement rings in lab-grown diamond and moissanite—solitaire, halo & vintage styles. Ethical sparkle, flattering silhouette.
-  Updated: 2025-10-21T19:00:33Z
-  Total Products: 17
+  Updated: 2025-10-22T08:22:14Z
+  Total Products: 16
 - [Radiant Engagement Rings — Lab-Grown & Moissanite | Chantal Vaulet](https://www.chantalvaulet.com/collections/radiant-engagement-rings): Explore radiant-cut engagement rings in lab-grown diamond and moissanite—solitaire, halo & pavé styles. Modern silhouette, brilliant sparkle, ethical stones.
   Updated: 2025-10-21T14:38:30Z
   Total Products: 2
@@ -12518,22 +12473,22 @@ Ethical Brilliance. Timeless Elegance.
   Updated: 2025-10-21T18:58:00Z
   Total Products: 10
 - [Halo Engagement Rings – Lab-Grown & Moissanite | Chantal Vaulet](https://www.chantalvaulet.com/collections/halo-engagement-rings): Explore halo engagement rings in lab-grown diamond and moissanite—classic, hidden and double halo styles. Ethical, handcrafted quality. Free shipping.
-  Updated: 2025-10-21T18:48:43Z
-  Total Products: 39
+  Updated: 2025-10-22T08:41:46Z
+  Total Products: 38
 - [Pavé Engagement Rings – Lab-Grown & Moissanite | Chantal Vaulet](https://www.chantalvaulet.com/collections/pave-engagement-rings): Shop pavé engagement rings in lab-grown diamond and moissanite—micro & French pavé bands, classic to modern styles. Ethical, handcrafted. Free shipping.
-  Updated: 2025-10-21T18:58:00Z
-  Total Products: 76
+  Updated: 2025-10-22T08:52:43Z
+  Total Products: 75
 - [Three-Stone Engagement Rings — Lab-Grown Diamond & Moissanite | Chantal Vaulet](https://www.chantalvaulet.com/collections/three-stone-engagement-rings): Shop three-stone engagement rings in lab-grown diamond & moissanite—past-present-future styles, handcrafted in fine gold. Ethical & affordable. Free shipping.
   Updated: 2025-10-21T15:10:22Z
   Total Products: 2
 - [Solitaire Engagement Rings — Lab-Grown Diamond & Moissanite | Chantal Vaulet](https://www.chantalvaulet.com/collections/solitaire-engagement-rings): Discover classic solitaire engagement rings in lab-grown diamond & moissanite. Handcrafted settings, ethical materials, lifetime sparkle. Free shipping.
-  Updated: 2025-10-21T19:00:33Z
+  Updated: 2025-10-22T09:00:01Z
   Total Products: 45
 - [Statement Engagement Rings — Lab-Grown Diamond & Moissanite | Chantal Vaulet](https://www.chantalvaulet.com/collections/statement-engagement-rings): Shop statement engagement rings in lab-grown diamond & moissanite—bold, unique designs handcrafted to order. Ethical materials and free shipping.
   Updated: 2025-10-21T18:06:35Z
   Total Products: 6
 - [Engagement Rings: Top 10 Best-Selling | Chantal Vaulet](https://www.chantalvaulet.com/collections/top-10-engagement-rings): Shop the Top 10 best-selling engagement rings in lab-grown diamond and moissanite—timeless solitaires, halos and more. Ethical sparkle and free shipping.
-  Updated: 2025-10-21T18:46:18Z
+  Updated: 2025-10-22T09:00:01Z
   Total Products: 10
 - [Wedding Rings — Lab-Grown Diamond | Chantal Vaulet](https://www.chantalvaulet.com/collections/lab-grown-diamond-wedding-bands): Discover lab-grown diamond wedding rings—classic bands, pavé, and eternity styles. Ethical sparkle, budget-friendly, handcrafted quality. Free shipping.
   Updated: 2025-10-21T14:29:46Z
@@ -12548,7 +12503,7 @@ Ethical Brilliance. Timeless Elegance.
   Updated: 2025-10-21T17:58:44Z
   Total Products: 1
 - [Round-Cut Engagement Rings | Moissanite & Lab Diamonds](https://www.chantalvaulet.com/collections/engagement-rings-round-cut): Explore timeless round-cut engagement rings crafted with brilliant moissanite and lab-grown diamonds. A perfect symbol of everlasting love.
-  Updated: 2025-10-21T18:58:19Z
+  Updated: 2025-10-22T09:00:01Z
   Total Products: 88
 - [Oval Engagement Rings | Moissanite & Lab-Grown Diamonds](https://www.chantalvaulet.com/collections/engagement-rings-oval): Discover elegant oval engagement rings featuring moissanite and lab-created diamonds. Elongated beauty with modern sophistication.
   Updated: 2025-10-21T18:58:51Z
@@ -12560,8 +12515,8 @@ Ethical Brilliance. Timeless Elegance.
   Updated: 2025-10-21T18:59:56Z
   Total Products: 2
 - [Pear-Shaped Engagement Rings | Moissanite & Lab Diamond Teardrops](https://www.chantalvaulet.com/collections/engagement-rings-pear-shaped): Find romantic pear-shaped engagement rings with teardrop moissanite or lab-created diamonds. A perfect blend of elegance and drama.
-  Updated: 2025-10-21T19:00:33Z
-  Total Products: 7
+  Updated: 2025-10-22T08:22:14Z
+  Total Products: 6
 - [Heart-Shaped Engagement Rings | Romantic Moissanite & Lab Diamonds](https://www.chantalvaulet.com/collections/engagement-rings-heart-shaped): Celebrate love with heart-shaped engagement rings crafted with sparkling moissanite or lab-grown diamonds. A symbol of romance and devotion.
   Updated: 2025-10-21T18:59:12Z
   Total Products: 3
@@ -12575,11 +12530,11 @@ Ethical Brilliance. Timeless Elegance.
   Updated: 2025-10-21T14:38:30Z
   Total Products: 2
 - [Gold Engagement Rings – 9K, 14K & 18K Yellow, White & Rose](https://www.chantalvaulet.com/collections/gold-engagement-rings): Shop gold engagement rings in 9K, 14K & 18K yellow, white and rose gold. Solitaire, halo and three-stone designs with ethically sourced diamonds. Handcrafted, free shipping.
-  Updated: 2025-10-21T15:34:14Z
+  Updated: 2025-10-22T09:00:01Z
   Total Products: 17
 - [Sterling Silver Engagement Rings | Chantal Vaulet](https://www.chantalvaulet.com/collections/silver-engagement-rings): Explore 925 sterling silver engagement rings in classic solitaire, halo and pavé styles with diamond or gemstone settings. Timeless designs for every proposal.
-  Updated: 2025-10-21T19:00:33Z
-  Total Products: 99
+  Updated: 2025-10-22T08:52:43Z
+  Total Products: 98
 
 ## Blogs
 
