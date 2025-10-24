@@ -18,12 +18,12 @@ From the American Dream through iron to pharmaceutical-grade wellness, Apollon s
 - Contact Email: customercare@apollonnutrition.com
 - Contact Phone: (732) 985-8576
 - Address: Apollon Gym, 160 Talmadge Rd, Edison, NJ 08817
-- Updated At: 2025-10-24T08:00:38.637Z
+- Updated At: 2025-10-24T16:00:42.593Z
 
 ## Products
 
 - [Apollon 50/50 Formula X When & Casein Protein Blend](https://www.apollonnutrition.com/products/5050-formula-x-protein): Apollon Nutrition created a pure blend with exactly 50% whey isolate and 50% micellar casein to the ultimate protein blend.
-  Updated: 2025-10-24T04:07:16Z
+  Updated: 2025-10-24T15:20:16Z
   Vendor: Apollon Nutrition
   Product Type: Supplements
   Availability: Available
@@ -92,7 +92,7 @@ From the American Dream through iron to pharmaceutical-grade wellness, Apollon s
   Image: https://cdn.shopify.com/s/files/1/0280/4216/6371/files/cluster-bomb-cyclic-dextrin-carbohydrates-apollon-nutrition-4840219.jpg?v=1754335277
   Price: $44.99 USD
 - [Micronized Creatine Monohydrate](https://www.apollonnutrition.com/products/5050-creatine-x): Creatine Monohydrate by Apollon Nutrition Muscle. Strength. Power. Proven. Apollon Nutrition’s Micronized Creatine Monohydrate is clinically backed staple for athletes who train hard and demand real results. Creatine is one of the most researched and time-tested supplements in sports nutrition—and we offer it in its purest, most effective form. Benefits: • Increases Strength & Power Output – Fuel your performance with greater muscle contractions and explosive strength. • Boosts Muscle Size & Volume – Supports lean muscle growth through enhanced cellular hydration and ATP production. • Enhances Recovery – Helps reduce muscle cell damage and supports quicker recovery between workouts. • Improves High-Intensity Performance – Ideal for weightlifting, sprinting, and any sport that demands speed and power. • Clinically Dosed – 5g of 100% pure, pharmaceutical-grade micronized creatine monohydrate per serving—nothing added, nothing hidden. Why Apollon? At Apollon Nutrition, we don’t cut corners. Our creatine is unflavored, easy to mix, and third-party tested for purity and potency. Whether you’re a strength athlete, bodybuilder, or simply serious about results, this is your daily edge.
-  Updated: 2025-10-23T18:30:10Z
+  Updated: 2025-10-24T14:07:45Z
   Vendor: Apollon Nutrition
   Product Type: Supplements
   Availability: Available
@@ -203,13 +203,13 @@ From the American Dream through iron to pharmaceutical-grade wellness, Apollon s
     Availability: Not Available
     Price: $59.99 USD
 - [Hooligan Bare Knuckle - Premium Non-Stimulant Nitrate Loaded Pre-Workout Powerhouse](https://www.apollonnutrition.com/products/hooligan-bare-knuckle-premium-non-stimulant-pre-workout-powerhouse): Stimulants. Sometimes you just don’t want them. For whatever the reason is, it doesn’t matter. However, you still want the focus and the drive which is undeniable. We all know they aren’t needed, which is why we created Hooligan Bare Knuckle. It’s the NEW KING OF NON-STIMULANT NITRATE LOADED PRE-WORKOUTS WITHOUT QUESTION. JUST THE FACTS AND NO BS! Stimulant Free & Loaded with Nitrates † Jam-packed with Nootropic for Focus† Maximizes power and strength.† Induces Roadmap Vascularity† Zero fillers.† 100% Transparent Label. USE WITH CAUTION! Each massive tub of Apollon Nutrition Hooligan Bare Knuckle provides you with either 40 or 20 servings – depending on how strong you want your pre-workout to be. You can mix it with 1/2 serving of OG Stimulant Hooligan or double up for a non-stimulant flexapalooza pump orgy. Basically strong or STRONG AF WITHOUT STIMULANTS. That being said, you should proceed with caution when using our new and improved formula. Bare Knuckle is not your average pre-workout powder – IT WILL PUNCH YOU IN THE FACE WITH POTENCY. While one scoop is the recommended serving size due to the potency, it would be wise to start with half a scoop to assess your individual tolerance. Maybe even less if you've taken some weak garbage from "legacy brands." You may be thinking to yourself, "Eh, I can start with the full serving – I can handle it.” That is until this demanding pre-workout kicks in and says "LET'S GO MOTHERF$%^ER! Again, heed our warning. The profile found in this pre-workout is formulated for extreme potency and the "if a little is good, then more is better” way of thinking is not advised with this pre-workout powder EVEN THOUGH IT’S STIMULANT FREE. As mentioned above, the precise mix of ingredients found in this pre-workout powder is what increases the strength and gives you the non-stimulant EDGE to crush anything you want to in the gym. This unique array of ingredients work together to enhance the overall effect felt during your intense workouts. In fact, they may scare you and ALL WITHOUT STIMULANTS! Are you still interested? Then step up and mix it up. The all new Hooligan Bare Knuckle is HERE. We didn't compromise and we're here to DOMINATE.
-  Updated: 2025-10-24T04:48:30Z
+  Updated: 2025-10-24T14:56:11Z
   Vendor: Apollon Nutrition
   Product Type: Supplements
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0280/4216/6371/files/bare-knuckle-premium-non-stimulant-nitrate-infused-pre-workout-powerhouse-apollon-nutrition-510712.jpg?v=1732324950
   - [Lychee Strawberry](https://www.apollonnutrition.com/products/hooligan-bare-knuckle-premium-non-stimulant-pre-workout-powerhouse?variant=45714557075701)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0280/4216/6371/files/bare-knuckle-premium-non-stimulant-nitrate-infused-pre-workout-powerhouse-apollon-nutrition-510712.jpg?v=1732324950
     Price: $49.99 USD
   - [Orange Cream](https://www.apollonnutrition.com/products/hooligan-bare-knuckle-premium-non-stimulant-pre-workout-powerhouse?variant=43531829870837)
@@ -232,7 +232,7 @@ From the American Dream through iron to pharmaceutical-grade wellness, Apollon s
   Image: https://cdn.shopify.com/s/files/1/0280/4216/6371/files/apollon-camo-logo-back-pack-apollon-nutrition-741658.jpg?v=1720737094
   Price: $49.99 USD
 - [Liver Lover - Daily Liver Support & Protection](https://www.apollonnutrition.com/products/liver-lover-daily-liver-support-protection): JUST THE FACTS AND NO BS! Fully loaded for maximum liver support* Supports natural detoxification pathways* Protection from cellular stress-induced damage* Zero fillers 100% transparent label We love the grind. We train hard. We eat right...most of the time. And, we show up every damn day, come rain or shine. We know that fueling our bodies and getting enough sleep is essential to optimal performance and wringing out every last ounce of muscle & strength. But, having bulging biceps or a shredded midsection isn’t all there is to health and wellness. Your organs play just as important of a role in helping you achieve and maintain all aspects of what it takes to be a bad-ass. The liver especially takes a beating as it serves as a master filter of the blood, preventing contaminants from circulating in the body. Liver Lover was engineered to support all aspects of a healthy liver. Supplying an impressive 1200mg of NAC + 300mg of TUDCA would easily qualify this as one of the premier liver support supplements on the market. But, we didn’t stop there. We also included 1000mg of milk thistle and 1000mg of reishi mushroom to support the body’s natural anti-inflammatory and detoxification pathways. LIVER LOVER™ is safe for men and women and offers an excellent solution for active individuals seeking supreme liver support!
-  Updated: 2025-10-22T23:04:17Z
+  Updated: 2025-10-24T14:45:36Z
   Vendor: Apollon Nutrition
   Product Type: 
   Availability: Available
@@ -381,7 +381,7 @@ From the American Dream through iron to pharmaceutical-grade wellness, Apollon s
     Availability: Not Available
     Price: $49.99 USD
 - [Kidney Kindness - Daily Support & Protection](https://www.apollonnutrition.com/products/kidney-kindness-daily-support-protection): The kidneys are one of the body’s essential filters, regulating water and fluid balance, blood pressure, and waste elimination. As such, maintaining kidney health is vital to your health and fitness goals.
-  Updated: 2025-10-22T14:53:41Z
+  Updated: 2025-10-24T14:45:35Z
   Vendor: Apollon Nutrition
   Product Type: Supplements
   Availability: Available
@@ -513,7 +513,7 @@ From the American Dream through iron to pharmaceutical-grade wellness, Apollon s
     Image: https://cdn.shopify.com/s/files/1/0280/4216/6371/files/ladies-flowy-cropped-t-shirt-apollon-nutrition-902425.jpg?v=1720737123
     Price: $34.99 USD
 - [Glucovantage - Premium Dihydroberberine GDA](https://www.apollonnutrition.com/products/glucovantage-dihydroberberine): Berberine has been used for centuries in Ayurvedic and Traditional Chinese practices to support cardiometabolic health. Research notes that, in addition to supporting healthy blood sugar and lipid levels, berberine may also impart antioxidant and anti-inflammatory benefits, too.However, as great as berberine is, it requires a large dose (1500mg) spread across multiple dosings per day (usually 2-3x per day). On top of that, many individuals report adverse GI effects from larger doses of berberine.GlucoVantage (dihydroberberine) offers a superior alternative. It is a natural metabolite of berberine that offers the same benefits as berberine but at a much lower dose and without the unwanted (unexpected) GI upset. In other words, GlucoVantage is berberine advanced. JUST THE FACTS Blood Sugar & Metabolic Support† Nutrient Partitioning & Body Composition Agent† Promotes Stable Energy Levels† Anti-Aging Properties† Versatile Dosing† Zero fillers† 100% Transparent Label
-  Updated: 2025-10-12T17:09:51Z
+  Updated: 2025-10-24T11:16:30Z
   Vendor: Apollon Nutrition
   Product Type: Vitamins & Supplements
   Availability: Available
@@ -760,7 +760,7 @@ From the American Dream through iron to pharmaceutical-grade wellness, Apollon s
   Image: https://cdn.shopify.com/s/files/1/0280/4216/6371/files/colostrum-apollon-nutrition-514679.png?v=1735390767
   Price: $49.99 USD
 - [Apollon Gym Classic](https://www.apollonnutrition.com/products/apollon-gym-classic): A well-formulated pre workout plays a key role in your ability to push hard during your workouts and get results. Like everything in life, you get what you pay for, which means just one serving of a quality pre workout costs $3-4. Considering that the average tub contains 20-25 servings, you’re going to spend at least $60-90 per month! Now, for some individuals this is a worthwhile investment, but for many individuals, this simply isn’t practical or fiscally responsible. That means turning to “budget” or “sport” pre workouts, which cost around $1 per serving. Now this may seem like a great option, but what you’re paying for is packaging, flavoring, and caffeine. All of the actual focus, hydration, pump and performance supplements are included at a fraction of their efficacious dosage. So, what’s the budget-conscious, results-focused lifter supposed to do? Trust that Apollon Nutrition has your back! Introducing Apollon Gym Classic! What is Apollon Gym Classic?Apollon Gym Classic offers an affordable solution that doesn’t compromise on quality or effectiveness. We’ve included only the most well-studied and evidence-based pre workout supplements and packaged them together in one affordable, delicious, and effective budget pre workout.What’s in Apollon Gym Classic?Each serving contains: ● 6,000mg L-Citrulline● 3,200mg Beta Alanine● 2,500mg Betaine Anhydrous● 2,000mg L-Tyrosine● 500mg Himalayan Pink Salt● 300mg Caffeine Anhydrous● 50mg AstraGin● 400mcg Huperzine A This is more than enough to deliver explosive energy, laser-sharp focus, and peak performance—just what you need to crush your goals! Say goodbye to overpriced pre workouts that promise the world but deliver disappointment and say HELLO to Apollon Gym Classic!Just the Facts● Triple-Action Pump Matrix†● Maximizes power and strength.†● Amplifies focus and intensity.†● Increases blood flow and performance.†● Zero fillers.†● 100% Transparent Label
-  Updated: 2025-10-17T12:32:52Z
+  Updated: 2025-10-24T11:58:26Z
   Vendor: Apollon Nutrition
   Product Type: 
   Availability: Available
@@ -813,7 +813,7 @@ From the American Dream through iron to pharmaceutical-grade wellness, Apollon s
   Image: https://cdn.shopify.com/s/files/1/0280/4216/6371/files/ashwagandha-ksm-66-apollon-nutrition-926465.png?v=1750395625
   Price: $29.99 USD
 - [No Whey Out Protein](https://www.apollonnutrition.com/products/no-whey-out-protein): Whey protein has been used for decades to fuel athletes in and out the gym. It is acomplete protein that is naturally rich in BCAAs. Whey also digests quickly and isefficiently used by our muscles to support recovery and growth. #ApollonStrong
-  Updated: 2025-10-23T16:08:47Z
+  Updated: 2025-10-24T15:18:46Z
   Vendor: Apollon Nutrition
   Product Type: 
   Availability: Available
@@ -863,10 +863,10 @@ From the American Dream through iron to pharmaceutical-grade wellness, Apollon s
 ## Collections
 
 - [Supplements](https://www.apollonnutrition.com/collections/supplements)
-  Updated: 2025-10-23T11:07:01Z
+  Updated: 2025-10-24T11:05:40Z
   Total Products: 57
 - [Gear](https://www.apollonnutrition.com/collections/gear)
-  Updated: 2025-10-23T11:07:01Z
+  Updated: 2025-10-24T11:05:40Z
   Total Products: 63
 - [Women's](https://www.apollonnutrition.com/collections/womens)
   Updated: 2025-10-20T11:05:08Z
@@ -875,37 +875,37 @@ From the American Dream through iron to pharmaceutical-grade wellness, Apollon s
   Updated: 2025-10-23T11:07:01Z
   Total Products: 40
 - [Accessories](https://www.apollonnutrition.com/collections/accessories)
-  Updated: 2025-10-22T11:07:57Z
+  Updated: 2025-10-24T11:05:40Z
   Total Products: 17
 - [Apollon Nutrition](https://www.apollonnutrition.com/collections/apollon-nutrition): Apollon Nutrition supplements
-  Updated: 2025-10-23T11:07:01Z
+  Updated: 2025-10-24T11:05:40Z
   Total Products: 36
 - [NEW INNOVATION](https://www.apollonnutrition.com/collections/new-products): This is where we weaponize tomorrow's breakthroughs today. The Innovation line isn't about following trends it's about setting them through relentless research and zero-compromise formulation. Every product here represents the bleeding edge of supplementation science, dosed at levels that make competitors nervous and delivered with the same immigrant work ethic that built this empire. From novel compounds to revolutionary delivery systems, these formulas are for those who refuse to wait for the future they're taking it now. This isn't beta testing; this is battlefield-proven innovation designed for the Apollon Strong who demand to be first, not safe. When others are still reading the research, you're already living it. #ApollonStrong
-  Updated: 2025-10-23T11:07:01Z
+  Updated: 2025-10-24T11:05:40Z
   Total Products: 37
 - [Best Seller (internal use)](https://www.apollonnutrition.com/collections/best-seller-internal-use)
-  Updated: 2025-10-23T11:07:01Z
+  Updated: 2025-10-24T11:05:40Z
   Total Products: 187
 - [CLOTHING](https://www.apollonnutrition.com/collections/clothing)
   Updated: 2025-10-23T11:07:01Z
   Total Products: 44
 - [Protein Powders](https://www.apollonnutrition.com/collections/protein): Our protein powders aren't just another whey blend with a hardcore label; they're precision-engineered anabolic reconstruction systems for those who understand growth happens during recovery. Every scoop delivers pharmaceutical-grade protein fractions dosed to maximize muscle protein synthesis. This is Marina's pharmaceutical expertise meeting Robert's athlete-first philosophy: protein that actually rebuilds what you've destroyed. No amino spiking to fake protein content. No cheap fillers masquerading as premium ingredients. No compromising on bioavailability. Whether feeding muscles post-workout or maintaining positive nitrogen balance throughout the day, our proteins work as hard as the immigrants who formulated them. Built for those who measure progress in pounds added to the bar and inches added to their frame. Maximum synthesis. Minimum BS.
-  Updated: 2025-10-23T11:07:01Z
+  Updated: 2025-10-24T11:05:40Z
   Total Products: 12
 - [Pre-Workouts](https://www.apollonnutrition.com/collections/pre-workouts): When you choose Hooligan, Assassin (yes on the horizon), or Desperado, you're not selecting a pre-workout; you're weaponizing your central nervous system for total training domination. These are pharmaceutical-grade metabolic warfare systems engineered for those who view every workout as a battle against their own limitations. Hooligan delivers relentless intensity, Assassin takes the nuclear option for aggressive neural activation, while Desperado brings raw, unfiltered energy for those who train without rules. Maximum clinical dosing meets immigrant work ethic. No proprietary blends hiding underdosed garbage. No compromise. Just explosive energy, laser focus, and muscular endurance that turns good sessions into legendary ones. These formulas don't ask if you're ready; they make you ready.
-  Updated: 2025-10-23T11:07:01Z
+  Updated: 2025-10-24T11:05:40Z
   Total Products: 24
 - [Amino Acids & Recovery](https://www.apollonnutrition.com/collections/recovery-aminos): Apollon Nutrition’s Recovery & Aminos collection is engineered for those who push their limits and demand rapid recovery. Enigma delivers a complete EAA and BCAA profile to fuel muscle repair and growth. Over The Top offers a full-spectrum intra-workout formula to sustain peak performance during intense sessions. Hydration & Recovery ensures optimal electrolyte balance to keep you hydrated and ready to dominate. These potent formulas are designed to accelerate recovery, reduce muscle soreness, and prepare you for the next battle. With Apollon, you don’t just recover, you come back stronger.
-  Updated: 2025-10-23T11:07:01Z
+  Updated: 2025-10-24T11:05:40Z
   Total Products: 9
 - [Decadent Protein Powders](https://www.apollonnutrition.com/collections/protein-1): Apollon Nutrition’s protein powders aren’t your average scoops of fluff—they’re hardcore fuel for serious lifters and athletes who demand results. Packed with premium-quality protein, they’re built to power recovery, build muscle, and keep you performing like a beast. Whether you’re smashing PRs or just need a reliable protein boost, we’ve got you covered. Choose from 50/50 Formula X for the perfect whey/casein blend or IsoBlast for pure whey isolate perfection. No fillers, no BS—just relentless protein power to keep you crushing it every day.
-  Updated: 2025-10-23T11:07:01Z
+  Updated: 2025-10-24T11:05:40Z
   Total Products: 12
 - [FAT BURNERS](https://www.apollonnutrition.com/collections/thermogenic-fat-burners): Apollon Nutrition’s thermogenic fat burners are engineered to obliterate stubborn fat and elevate your performance. Chaos delivers an intense thermogenic experience to rapidly melt away fat. For those seeking a stimulant-free option, Molotov offers powerful thermogenic effects without the jitters. If you’re aiming to target fat loss during nighttime, Night Night Fatty is designed to support fat burning while you sleep. These potent formulas are crafted for individuals who refuse to compromise on their fitness goals. With Apollon, you’re equipped to incinerate fat, boost metabolism, and dominate every workout. No shortcuts, no excuses—just relentless results.
-  Updated: 2025-10-23T11:07:01Z
+  Updated: 2025-10-24T11:05:40Z
   Total Products: 6
 - [APOLLON HEALTH & WELLNESS SUPPLEMENTS](https://www.apollonnutrition.com/collections/health-wellness-1): Apollon's expertly formulated health and wellness products help protect you 24/7 365 days a year. They are designed to potent & highly effective. #apollonstrong
-  Updated: 2025-10-23T11:07:01Z
+  Updated: 2025-10-24T11:05:40Z
   Total Products: 24
 - [APOLLON SINGLE SERVING SAMPLES](https://www.apollonnutrition.com/collections/apollon-single-serving-samples): Have you ever wanted to try Apollon Nutrition's award winning products for a lower cost? Here's your chance to give them a try. #apollonstrong
   Updated: 2025-08-20T02:35:26Z
@@ -917,28 +917,28 @@ From the American Dream through iron to pharmaceutical-grade wellness, Apollon s
   Updated: 2025-10-18T11:05:39Z
   Total Products: 3
 - [DEALS](https://www.apollonnutrition.com/collections/deals): Shop the best deals Apollon Nutrition has to offer. If you're looking to save and get some extra discounts, this is the collection to shop.
-  Updated: 2025-10-23T11:07:01Z
+  Updated: 2025-10-24T11:05:40Z
   Total Products: 5
 - [Body by K](https://www.apollonnutrition.com/collections/body-by-k): This line of premium supplements contains everything the modern woman needs to thrive at work, in the gym, or on the go. To purchase authentic Body By K products please head over to https://bodybyk.shop
   Updated: 2025-10-11T11:05:29Z
   Total Products: 2
 - [Best Sellers](https://www.apollonnutrition.com/collections/bestsellers)
-  Updated: 2025-10-23T11:07:01Z
+  Updated: 2025-10-24T11:05:40Z
   Total Products: 19
 - [ALL PRODUCTS](https://www.apollonnutrition.com/collections/all-products)
-  Updated: 2025-10-23T11:07:01Z
+  Updated: 2025-10-24T11:05:40Z
   Total Products: 186
 - [GLP-1 Support](https://www.apollonnutrition.com/collections/glp-1-support): Discover Apollon Nutrition’s GLP-1 Support Collection, meticulously crafted to complement your GLP-1 medication journey. Designed for individuals prioritizing muscle preservation and performance, these cutting-edge supplements deliver targeted nutrients to support lean muscle mass, recovery, and overall vitality. Whether you’re pursuing weight management or fitness goals, our GLP-1 support products work synergistically to combat muscle loss, enhance strength, and promote optimal physical performance. Backed by Apollon’s uncompromising commitment to quality, these supplements provide advanced solutions to keep you at your strongest. Elevate your health and performance today with the science-driven power of our GLP-1 Support Collection.
-  Updated: 2025-10-23T11:07:01Z
+  Updated: 2025-10-24T11:05:40Z
   Total Products: 20
 - [Muscle Building](https://www.apollonnutrition.com/collections/muscle-building): Apollon Nutrition’s Muscle-Building Collection is engineered for those who refuse to settle for average. Packed with cutting-edge formulas, this powerhouse lineup features premium supplements designed to amplify muscle growth, enhance recovery, and fuel peak performance. Whether you're chasing massive pumps, crushing PRs, or sculpting a lean physique, our scientifically-backed ingredients deliver the strength, endurance, and focus you need to dominate every workout. With Apollon Nutrition, you don’t just build muscle, you build your legacy. #ApollonStrong
-  Updated: 2025-10-23T11:07:01Z
+  Updated: 2025-10-24T11:05:40Z
   Total Products: 20
 - [SLEEP & MOOD](https://www.apollonnutrition.com/collections/sleep-mood): MENTAL WARFARE BEGINS WITH RECOVERY Your mind is your first weapon. When sleep falters and mood wavers, performance crumbles. Formulated by Dr. Marina Samborsky, Apollon's sleep and mood formulas aren't gentle suggestions, they're precision-engineered systems designed to optimize your mental state and recovery cycles. Maximum-dosed ingredients that actually work, not fairy-dusted placebos. Because being Apollon Strong isn't just about crushing weights, it's about deep sleep and unbreakable mental resilience. No compromises on quality. No shortcuts to recovery. Just clinically-validated compounds that prepare your mind and body for tomorrow's war against weakness. Recovery for those who demand excellence 24/7.
   Updated: 2025-10-21T11:06:09Z
   Total Products: 4
 - [Digestion & Gut Health](https://www.apollonnutrition.com/collections/digestion-gut-health): Pharmaceutical-grade digestive warfare from gut to joints. Gut Glory V2 delivers BIOMEnd™ lysine butyrate, prebiotics, postbiotics, and synbiotics for microbiome supremacy. Glutamine provides premium AjiPure L-glutamine for intestinal lining repair and immune defense. Fiber Fuel's prebiotic blend optimizes digestion and nutrient absorption. Collagen features dual-source peptides for gut barrier integrity and joint support. Colostrum delivers immune-boosting antibodies and growth factors for intestinal healing. Formulated by Marina Samborsky, PharmD, this isn't gentle wellness. It's complete gastrointestinal optimization for athletes who demand every nutrient gets absorbed at maximum efficiency. Zero compromise. Maximum bioavailability. Total digestive dominance.
-  Updated: 2025-10-23T11:07:01Z
+  Updated: 2025-10-24T11:05:40Z
   Total Products: 5
 - [RECHARGE BUNDLES - greens](https://www.apollonnutrition.com/collections/recharge-greens)
   Updated: 2025-10-22T11:07:57Z
@@ -947,16 +947,16 @@ From the American Dream through iron to pharmaceutical-grade wellness, Apollon s
   Updated: 2025-10-22T11:07:57Z
   Total Products: 1
 - [RECHARGE BUNDLES - enigma EAA](https://www.apollonnutrition.com/collections/recharge-bundles-enigma-eaa)
-  Updated: 2025-10-23T11:07:01Z
+  Updated: 2025-10-24T11:05:40Z
   Total Products: 1
 - [RECHARGE BUNDLES - Bare Knuckle](https://www.apollonnutrition.com/collections/recharge-bundles-bare-knuckle)
-  Updated: 2025-10-23T11:07:01Z
+  Updated: 2025-10-24T11:05:40Z
   Total Products: 1
 - [BUNDLES](https://www.apollonnutrition.com/collections/bundles)
   Updated: 2025-09-30T11:05:47Z
   Total Products: 6
 - [RECHARGE BUNDLES - 50/50](https://www.apollonnutrition.com/collections/recharge-bundles-50-50)
-  Updated: 2025-10-23T11:07:01Z
+  Updated: 2025-10-24T11:05:40Z
   Total Products: 1
 - [Organ Support](https://www.apollonnutrition.com/collections/organ-support): Your body’s performance starts with the systems that keep it alive. Apollon’s Organ Support line brings pharmaceutical precision and uncompromising dosing to your most vital functions. #apollonstrong
   Updated: 2025-10-23T11:07:01Z
