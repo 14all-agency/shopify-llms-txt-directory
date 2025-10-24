@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2025-01-13T13:26:43Z
 - Contact Email: info@amar.al
-- Updated At: 2025-10-24T12:00:42.451Z
+- Updated At: 2025-10-24T16:00:40.745Z
 
 ## Products
 
@@ -151,7 +151,7 @@
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/ce-1.webp?v=1741428569
   Price: ALL 1,689.00 ALL
 - [CALM-ROSALGIN - Amar Pharma - Pharmaceris - Krem Fytyre](https://amar.al/products/redness-reducing-night-face-cream-with-soothing-complex-ca2-calm-rosalgin-30-ml): Pharmaceris Rosacea Calm-Rosalgin Një krem nate për lëkurën rosacea e cila është e prirur për skuqje, eritemë të vazhdueshme ose të përsëritur. Veprimi plotësues i 3 përbërësve aktivë: InnoTetrapeptideTM një peptid inovativ i krijuar për të minimizuar shfaqjen e skuqjes së shkaktuar nga reagimi inflamator. Ai pengon shprehjen e interleukinave të cilat janë të përfshira në përgjigjen inflamatore. Tioprolina një antioksidant i fuqishëm. Promovon rigjenerimin e epidermës. Ka një efekt anti-plakje dhe anti-inflamator. Gjithashtu mbron lëkurën nga agresorët e mjedisit. Ekstrakti i gjetheve të ullirit ka një efekt detoksifikues: nxit heqjen e metabolitëve nga qelizat për ta bërë lëkurën më rezistente ndaj stresit. Jonet e kalciumit qetësojnë dhe lehtësojnë irritimet dhe kanë veti antiseptike. Projektuar për lëkurë të ndjeshme me rosacea. Qetëson 100% dhe lehtëson irritimet e lëkurës. Redukton 90% djegien dhe kruajtjen. Zvogëlon 77% ashpërsinë e lezioneve të lëkurës. Parandalon 100% rikthimin e skuqjes. Udhëzime mbi përdorimin Pastroni lëkurën tuaj me një xhel Pharmaceris R dhe përhapeni kremin në të gjithë fytyrën tuaj.Përdoreni në darkë para se të flini. - Amar Pharma - Pharmaceris - Krem Fytyre
-  Updated: 2025-10-16T16:38:00Z
+  Updated: 2025-10-24T13:06:11Z
   Vendor: Pharmaceris
   Product Type: Krem Fytyre
   Availability: Available
@@ -2444,7 +2444,7 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/coffret-gel-nettoyant-190-ml-creme-de-nuit-matifiante-aux-prebiotiques-50-ml-under20-lirene-_1.png?v=1748348520
   Price: ALL 1,950.00 ALL
 - [Set Hyaluro-Sensilium - Amar Pharma - Pharmaceris - Krem Hidratues](https://amar.al/products/krem-hidratues-me-acid-hialuronik-ne-uje-hyaluro-sensilium-a-40ml): Përshkrim:Krem në formë uji, i përshtatshëm për lëkurë shumë të ndjeshme, të prirur ndaj reaksioneve alergjike, dehidratimit, skuqjes apo acarimit, veçanërisht gjatë stinëve me polen.Formula përmban acid hialuronik me peshë molekulare të lartë dhe të ulët – i përputhshëm biologjikisht me acidin hialuronik natyral të lëkurës. Efekte: Hidratim i shumëfishtë në shtresa të ndryshme të lëkurës Qetësim i menjëhershëm i ndjesisë së tërheqjes dhe thatësisë 3% pro-glucoseZe siguron hidratim afatgjatë Teknologjitë Immuno-Prebiotic dhe Leukine-barrier rivendosin barrierën natyrale të lëkurës dhe qetësojnë irritimet, duke parandaluar reagimet alergjike të shkaktuara nga faktorë si poleni Përdorim:Aplikojeni në mëngjes dhe mbrëmje në fytyrë, qafë dhe dekolte, mbi lëkurë të pastruar.Mund të përdoret si bazë grimi. E rekomanduar për:Kujdesin e përditshëm të lëkurës që kërkon hidratim dhe ushqim intensiv – fytyra, zona e syve, qafa, dekolteja. 2. Spumë pastruese për fytyrë të ndjeshme & sy – Puri-Sensilium A – 50ml Përshkrim:Spumë shumë e butë për përdorim të përditshëm në fytyrë dhe zonën e syve, e përshtatshme për lëkurë tepër të ndjeshme dhe të prirur ndaj alergjive, në çdo moshë.Formula immuno-prebiotike qetëson irritimet dhe kontrollon ndjeshmërinë e lëkurës. Efekte: Zëvendëson sapunin tradicional Pastrim i butë, heq make-up-in dhe papastërtitë D-pantenoli dhe Glucam® rikthejnë hidratimin dhe parandalojnë ndjesinë e shtrëngimit I testuar klinikisht dhe dermatologjikisht Pa sapun Përdorim:Vendosni një sasi të vogël spume në pëllëmbë dhe lani fytyrën. Shpëlajeni me ujë. Më pas, përdorni locion dhe krem Pharmaceris A të përshtatshëm për tipin tuaj të lëkurës. Përdoreni çdo ditë, në mëngjes dhe mbrëmje. Karakteristika të përgjithshme Brand: PHARMACERIS Gama: A Forma e setit: Krem 40ml + Mini-spumë 50ml Rekomanduar për: Lëkurë të ndjeshme, të dehidratuar, të prirur ndaj skuqjes dhe alergjive Vegan & dermatologjikisht i testuar Përmbledhje për katalog / etiketë produkti Set Hyaluro-Sensilium + Mini Spumë për Pastrim – PharmacerisHidratim i thellë dhe pastrim i butë për lëkurë të ndjeshmePërmban: Krem hidratues në ujë me acid hialuronik – 40ml Spumë pastruese për fytyrë & sy – 50ml - Amar Pharma - Pharmaceris - Krem Hidratues
-  Updated: 2025-10-16T16:35:10Z
+  Updated: 2025-10-24T13:06:11Z
   Vendor: Pharmaceris
   Product Type: Krem Hidratues
   Availability: Available
@@ -2547,7 +2547,7 @@ Lifter | 8 in 1 - Amar Pharma - Geske - Paisje të kujdesit personal](https://am
   Image: https://cdn.shopify.com/s/files/1/0704/7607/1069/files/hormonorm1.png?v=1751290969
   Price: ALL 3,550.00 ALL
 - [Rutina Rosacea](https://amar.al/products/rosacea): - Amar Pharma - Amar Pharma -
-  Updated: 2025-10-23T22:24:11Z
+  Updated: 2025-10-24T13:06:15Z
   Vendor: Amar Pharma
   Product Type: 
   Availability: Available
