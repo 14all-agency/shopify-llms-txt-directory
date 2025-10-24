@@ -5,7 +5,7 @@
 - Currency: CAD
 - Timezone: America/Toronto
 - Created At: 2025-08-23T11:52:48Z
-- Updated At: 2025-10-24T00:00:38.248Z
+- Updated At: 2025-10-24T04:00:33.888Z
 
 ## Products
 
@@ -1424,6 +1424,108 @@
   - [Violet / Soda Pop](https://lnlboutiquexo.myshopify.com/products/huntrix-kids-t?variant=53108909572406)
     Availability: Available
     Price: $25.00 CAD
+- [Huntrix Christmas sweater](https://lnlboutiquexo.myshopify.com/products/huntrix-christmas-sweater)
+  Updated: 2025-10-24T01:34:45Z
+  Vendor: L&L Boutique 
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0944/0644/3318/files/IMG-1244.heic?v=1761269449
+  - [Ash / Kids / S](https://lnlboutiquexo.myshopify.com/products/huntrix-christmas-sweater?variant=53147748761910)
+    Availability: Available
+    Price: $35.00 CAD
+  - [Black / Kids / S](https://lnlboutiquexo.myshopify.com/products/huntrix-christmas-sweater?variant=53147748794678)
+    Availability: Available
+    Price: $35.00 CAD
+  - [White / Kids / S](https://lnlboutiquexo.myshopify.com/products/huntrix-christmas-sweater?variant=53147748827446)
+    Availability: Available
+    Price: $35.00 CAD
+  - [Hot Pink / Kids / S](https://lnlboutiquexo.myshopify.com/products/huntrix-christmas-sweater?variant=53147748860214)
+    Availability: Available
+    Price: $35.00 CAD
+  - [Ash / Adults / S](https://lnlboutiquexo.myshopify.com/products/huntrix-christmas-sweater?variant=53147749679414)
+    Availability: Available
+    Price: $35.00 CAD
+  - [Black / Adults / S](https://lnlboutiquexo.myshopify.com/products/huntrix-christmas-sweater?variant=53147749712182)
+    Availability: Available
+    Price: $35.00 CAD
+  - [White / Adults / S](https://lnlboutiquexo.myshopify.com/products/huntrix-christmas-sweater?variant=53147749744950)
+    Availability: Not Available
+    Price: $35.00 CAD
+  - [Hot Pink / Adults / S](https://lnlboutiquexo.myshopify.com/products/huntrix-christmas-sweater?variant=53147749777718)
+    Availability: Not Available
+    Price: $35.00 CAD
+  - [Ash / Kids / M](https://lnlboutiquexo.myshopify.com/products/huntrix-christmas-sweater?variant=53147752661302)
+    Availability: Not Available
+    Price: $35.00 CAD
+  - [Ash / Kids / L](https://lnlboutiquexo.myshopify.com/products/huntrix-christmas-sweater?variant=53147752694070)
+    Availability: Not Available
+    Price: $35.00 CAD
+  - [Ash / Kids / XL](https://lnlboutiquexo.myshopify.com/products/huntrix-christmas-sweater?variant=53147752726838)
+    Availability: Not Available
+    Price: $35.00 CAD
+  - [Ash / Adults / M](https://lnlboutiquexo.myshopify.com/products/huntrix-christmas-sweater?variant=53147752759606)
+    Availability: Not Available
+    Price: $35.00 CAD
+  - [Ash / Adults / L](https://lnlboutiquexo.myshopify.com/products/huntrix-christmas-sweater?variant=53147752792374)
+    Availability: Not Available
+    Price: $35.00 CAD
+  - [Ash / Adults / XL](https://lnlboutiquexo.myshopify.com/products/huntrix-christmas-sweater?variant=53147752825142)
+    Availability: Not Available
+    Price: $35.00 CAD
+  - [Black / Kids / M](https://lnlboutiquexo.myshopify.com/products/huntrix-christmas-sweater?variant=53147752857910)
+    Availability: Not Available
+    Price: $35.00 CAD
+  - [Black / Kids / L](https://lnlboutiquexo.myshopify.com/products/huntrix-christmas-sweater?variant=53147752890678)
+    Availability: Not Available
+    Price: $35.00 CAD
+  - [Black / Kids / XL](https://lnlboutiquexo.myshopify.com/products/huntrix-christmas-sweater?variant=53147752923446)
+    Availability: Not Available
+    Price: $35.00 CAD
+  - [Black / Adults / M](https://lnlboutiquexo.myshopify.com/products/huntrix-christmas-sweater?variant=53147752956214)
+    Availability: Not Available
+    Price: $35.00 CAD
+  - [Black / Adults / L](https://lnlboutiquexo.myshopify.com/products/huntrix-christmas-sweater?variant=53147752988982)
+    Availability: Not Available
+    Price: $35.00 CAD
+  - [Black / Adults / XL](https://lnlboutiquexo.myshopify.com/products/huntrix-christmas-sweater?variant=53147753021750)
+    Availability: Not Available
+    Price: $35.00 CAD
+  - [White / Kids / M](https://lnlboutiquexo.myshopify.com/products/huntrix-christmas-sweater?variant=53147753054518)
+    Availability: Not Available
+    Price: $35.00 CAD
+  - [White / Kids / L](https://lnlboutiquexo.myshopify.com/products/huntrix-christmas-sweater?variant=53147753087286)
+    Availability: Not Available
+    Price: $35.00 CAD
+  - [White / Kids / XL](https://lnlboutiquexo.myshopify.com/products/huntrix-christmas-sweater?variant=53147753120054)
+    Availability: Not Available
+    Price: $35.00 CAD
+  - [White / Adults / M](https://lnlboutiquexo.myshopify.com/products/huntrix-christmas-sweater?variant=53147753152822)
+    Availability: Not Available
+    Price: $35.00 CAD
+  - [White / Adults / L](https://lnlboutiquexo.myshopify.com/products/huntrix-christmas-sweater?variant=53147753185590)
+    Availability: Not Available
+    Price: $35.00 CAD
+  - [White / Adults / XL](https://lnlboutiquexo.myshopify.com/products/huntrix-christmas-sweater?variant=53147753218358)
+    Availability: Not Available
+    Price: $35.00 CAD
+  - [Hot Pink / Kids / M](https://lnlboutiquexo.myshopify.com/products/huntrix-christmas-sweater?variant=53147753251126)
+    Availability: Not Available
+    Price: $35.00 CAD
+  - [Hot Pink / Kids / L](https://lnlboutiquexo.myshopify.com/products/huntrix-christmas-sweater?variant=53147753283894)
+    Availability: Not Available
+    Price: $35.00 CAD
+  - [Hot Pink / Kids / XL](https://lnlboutiquexo.myshopify.com/products/huntrix-christmas-sweater?variant=53147753316662)
+    Availability: Not Available
+    Price: $35.00 CAD
+  - [Hot Pink / Adults / M](https://lnlboutiquexo.myshopify.com/products/huntrix-christmas-sweater?variant=53147753349430)
+    Availability: Not Available
+    Price: $35.00 CAD
+  - [Hot Pink / Adults / L](https://lnlboutiquexo.myshopify.com/products/huntrix-christmas-sweater?variant=53147753382198)
+    Availability: Not Available
+    Price: $35.00 CAD
+  - [Hot Pink / Adults / XL](https://lnlboutiquexo.myshopify.com/products/huntrix-christmas-sweater?variant=53147753414966)
+    Availability: Not Available
+    Price: $35.00 CAD
 
 ## Collections
 
@@ -1431,8 +1533,8 @@
   Updated: 2025-09-05T18:03:50Z
   Total Products: 1
 - [Sweatshirts & Hoodies](https://lnlboutiquexo.myshopify.com/collections/sweaters)
-  Updated: 2025-10-16T15:10:47Z
-  Total Products: 26
+  Updated: 2025-10-24T01:33:44Z
+  Total Products: 27
 - [Totes](https://lnlboutiquexo.myshopify.com/collections/tote-bags): 100% Heavy Canvas 15”W X 16”H Spot Clean Only
   Updated: 2025-10-02T00:40:36Z
   Total Products: 8
@@ -1440,8 +1542,8 @@
   Updated: 2025-10-17T15:39:15Z
   Total Products: 14
 - [Holiday Collection](https://lnlboutiquexo.myshopify.com/collections/christmas)
-  Updated: 2025-10-18T18:19:43Z
-  Total Products: 27
+  Updated: 2025-10-24T01:33:44Z
+  Total Products: 28
 - [Bookish Collection](https://lnlboutiquexo.myshopify.com/collections/books)
   Updated: 2025-10-02T00:40:36Z
   Total Products: 19
@@ -1452,7 +1554,7 @@
   Updated: 2025-10-16T15:07:20Z
   Total Products: 10
 - [Ornaments](https://lnlboutiquexo.myshopify.com/collections/ornaments): Ceramic Ornament- 2.75 inch Round or Clear Acrylic Ornament - 4 inch Round
-  Updated: 2025-10-16T14:56:28Z
+  Updated: 2025-10-24T00:55:04Z
   Total Products: 1
 - [Holiday Tray](https://lnlboutiquexo.myshopify.com/collections/holiday-tray)
   Updated: 2025-10-18T18:19:43Z
