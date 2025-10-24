@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-09-05T06:24:05Z
 - Contact Email: fusionvibestoreofficial@gmail.com
-- Updated At: 2025-10-23T00:00:31.541Z
+- Updated At: 2025-10-24T00:00:31.390Z
 
 ## Products
 
@@ -308,7 +308,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/05e85101-ae3e-4b27-976e-09eccfa2ead9.jpg?v=1758013080
     Price: $75.35 USD
 - [Portable Air Cooler Fan with Water Cooling | Personal Evaporative Cooler for Room & Office](https://fusionvibestore.com/products/air-conditioner-air-cooler-fan-water-cooling-fan-air-conditioning-for-room-office-portable-air-conditioner-cars): Beat the heat! This portable air cooler uses water evaporation to provide powerful, energy-efficient cooling. Ideal for your bedroom, office, or small space. Stay cool and save money. Buy now. Product information: Power type: USB Color: Ivory White Rated Power: 25W Specification: 167*225 * 120mm Operation mode: touchscreen Motor type: brushed motor Additional functions: cooling with ice water Fan Speed Mode: 2 gearCold air fan parameters: L7 Power: 25W Battery capacity: 1800 mA Charging time: 2.5-3H Range time: 1-6 hours in first gear, -3 hours in strong gear Gear position: Fan 2nd gear, atomization 1st gear continuous, 2nd gear 5 seconds indirectPacking list: Fan+data cable*1 Product Image:
-  Updated: 2025-10-22T10:27:36Z
+  Updated: 2025-10-23T05:30:17Z
   Vendor: z60ja0-0n
   Product Type: Gadgets
   Availability: Available
@@ -1109,7 +1109,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/O1CN01EtIKj92IMdN8kpURB__2218673939272-0-cib.jpg?v=1759739185
     Price: $15.45 USD
 - [Magic Flying Fairy Magic Flying](https://fusionvibestore.com/products/magic-flying-fairy-magic-flying): Product Name - Magic Flying Fairy Princess DollPackage Contain - Pack of 1Material - Others Weight - 300Dimension - 9*9*6
-  Updated: 2025-10-22T12:18:21Z
+  Updated: 2025-10-23T12:49:58Z
   Vendor: z60ja0-0n
   Product Type: 
   Availability: Available
@@ -1364,7 +1364,7 @@
     Image: https://cdn.shopify.com/s/files/1/0726/7018/3623/files/0761bac7-3a07-49d0-93e3-fcc908da3a7a.jpg?v=1760114372
     Price: $38.89 USD
 - [Halloween Cloak Costumes Wizard Cloak For Children Hooded Capes Mantle Black Party Decoration](https://fusionvibestore.com/products/halloween-cloak-costumes-wizard-cloak-for-children-hooded-capes-mantle-black-party-decoration): Overview: 1. It is all around perfect and of good quality. 2. Unisex Christmas Halloween Witch Party Reversible Hooded Adult Vampire Cape Cloak. 3. Perfect for any dress-up, role play, Halloween photos, costume parties stage costumes, or playing shows. Product Information: Color: black, gold, purple Size: 90cm,120cm,140cm,150cm Material: Satin Craft: Sewing Packing List: Cloak X1 Product Image:
-  Updated: 2025-10-22T03:49:49Z
+  Updated: 2025-10-23T03:13:53Z
   Vendor: z60ja0-0n
   Product Type: BAGS
   Availability: Available
