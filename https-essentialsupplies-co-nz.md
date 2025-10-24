@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-10-24T00:00:52.424Z
+- Updated At: 2025-10-24T16:00:44.888Z
 
 ## Products
 
@@ -1117,7 +1117,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/clean-line-toilet-tidy-set-white-plastic-toilet-brushes-essential-supplies-322905.jpg?v=1719444938
   Price: $17.00 NZD
 - [Luxury Wrapped Toilet Tissue Boxed - White, 2 Ply, 400 Sheets, FSC Mix® - 48 Rolls](https://essentialsupplies.co.nz/products/luxury-wrapped-toilet-tissue-boxed-white-2-ply-400-sheets-fsc-mix®-48): Embossed wrapped toilet tissue is a luxurious, soft and absorbent tissue, designed for high end office or hospitality use.Embossed for a classy lasting impression and individually wrapped in stylish packaging.These rolls areFSC®certified which ensures you are making a sustainable paper choice. Long lasting impression Embossed for a classy lasting impression Soft and absorbent tissue FSC® Mix Individually wrapped rolls Ply: 2 Sheets per roll:400sheets Sheet Dimension: 100mm x 110mm Colour: White Box of 48 rolls
-  Updated: 2025-01-09T07:49:07Z
+  Updated: 2025-10-24T05:29:18Z
   Vendor: Mattews Packaging
   Product Type: Household Toilet Tissue
   Availability: Available
@@ -6316,7 +6316,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/sms-coverall-type-56-blue-m-50gsm-12-coveralls-breathable-coverall-sms-coveralls-essential-supplies-543808.jpg?v=1719445799
   Price: $99.00 NZD
 - [SMS Coverall Type 5/6 - Blue, L, 50gsm - 12 Coveralls - *Breathable Coverall](https://essentialsupplies.co.nz/products/sms-coverall-type-5-6-blue-l-50gsm-12-breathable-coverall)
-  Updated: 2025-01-27T07:42:07Z
+  Updated: 2025-10-24T13:38:29Z
   Vendor: Mattews Packaging
   Product Type: SMS Coveralls
   Availability: Available
@@ -7532,7 +7532,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/por-polyethylene-bag-clear-600mm-x-900mm-x-70mu-250-bags-polyethylene-bags-essential-supplies-388257.jpg?v=1719445808
   Price: $150.00 NZD
 - [FP Polyethylene Bag - Clear, 1110mm x 1600mm x 70mu - 60 Bags](https://essentialsupplies.co.nz/products/fp-polyethylene-bag-clear-1110mm-x-1600mm-x-70mu-60): Low density polyethylene bags are the workhorse of the plastic bag industry. Their usage can vary from packaging nuts and bolts to bulk grain storage. This product is also used as a dust cover for machinery. Choose from our wide range of sizes and thicknesses.
-  Updated: 2025-01-08T19:51:56Z
+  Updated: 2025-10-24T05:43:27Z
   Vendor: Mattews Packaging
   Product Type: Polyethylene Bags
   Availability: Available
@@ -7871,7 +7871,7 @@
   Updated: 2024-07-15T02:47:08Z
   Total Products: 7
 - [Bundling Stretch Film](https://essentialsupplies.co.nz/collections/bundling-stretch-film)
-  Updated: 2025-09-02T11:15:59Z
+  Updated: 2025-10-24T11:13:10Z
   Total Products: 3
 - [Corner Boards](https://essentialsupplies.co.nz/collections/corner-boards)
   Updated: 2024-07-15T02:47:08Z
@@ -7907,7 +7907,7 @@
   Updated: 2024-07-15T02:47:09Z
   Total Products: 4
 - [Pallet Top Covers](https://essentialsupplies.co.nz/collections/pallet-top-covers)
-  Updated: 2025-10-07T11:11:54Z
+  Updated: 2025-10-24T11:13:10Z
   Total Products: 2
 - [PET Strapping Band](https://essentialsupplies.co.nz/collections/pet-strapping-band)
   Updated: 2024-07-15T02:47:09Z
