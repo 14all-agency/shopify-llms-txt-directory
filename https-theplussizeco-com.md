@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-06-10T17:50:10Z
 - Contact Email: tejusentprs@gmail.com
-- Updated At: 2025-10-24T16:00:34.916Z
+- Updated At: 2025-10-24T20:00:35.250Z
 
 ## Products
 
@@ -79,13 +79,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/Pink_Floral_Cotton_Straight_Cut_Suit_Set_8.jpg?v=1753159167
   Price: ₹1,195.00 INR
-- [Plus Size Rose Pink Floral Cotton Straight Cut Suit-The Plus Size Co.](https://theplussizeco.com/products/rose-pink-floral-cotton-straight-cut-suit)
-  Updated: 2025-10-19T00:54:18Z
-  Vendor: The Plus Size Co.
-  Product Type: Suit Sets
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/Lalita_TPSC_15_6464a2eb-988b-4a61-a658-e35ec7c267d1.png?v=1759736812
-  Price: ₹1,294.00 INR
 - [Plus Size Rust Printed Cotton Straight Cut Suit- The Plus Size Co.](https://theplussizeco.com/products/rust-printed-cotton-straight-cut-suit)
   Updated: 2025-10-17T17:25:09Z
   Vendor: The Plus Size Co.
