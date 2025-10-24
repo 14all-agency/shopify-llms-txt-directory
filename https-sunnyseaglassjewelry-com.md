@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-08-22T04:17:36Z
 - Contact Email: Sunnymello810@gmail.com
-- Updated At: 2025-10-22T04:00:35.609Z
+- Updated At: 2025-10-24T00:00:40.738Z
 
 ## Products
 
@@ -4710,6 +4710,24 @@
   Product Type: Wire wrapped necklace
   Availability: Available
   Price: $35.00 USD
+- [Angel dangling earrings, Sea Glass Angel Guardian Earrings](https://sunnyseaglassjewelry.com/products/angel-dangling-earrings): These beautiful angel dangle earrings make the perfect guardian angel holiday gift for Christmas, featuring handcrafted glass and sterling silver for a stunning spiritual accessory. Each pair of jewelry pieces showcases delicate sea glass with opalescent wings, creating an ethereal design that symbolizes divine protection and guidance. Heavenly Handcrafted Angel Earrings - A Meaningful Gift • Exquisitely crafted with lab-created sea glass and topped with luminous Swarovski pearl heads• Sterling silver ear wires ensure comfort and quality for sensitive ears• 1-1/4 inch dangle length creates an elegant, eye-catching statement• Beautiful opalescent wings with sparkling rhinestone accents catch the light as they move• Available in four stunning colors: white frosted, periwinkle, peridot green, and aqua blue. Thank you for visiting my shop.
+  Updated: 2025-10-23T11:34:10Z
+  Vendor: Sunny Sea Glass Jewelry 
+  Product Type: Holiday Sea Glass Necklace
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/IMG-6451.jpg?v=1761172556
+  - [Frosted white](https://sunnyseaglassjewelry.com/products/angel-dangling-earrings?variant=58306861563985)
+    Availability: Available
+    Price: $22.95 USD
+  - [Peridot Green](https://sunnyseaglassjewelry.com/products/angel-dangling-earrings?variant=58306861596753)
+    Availability: Available
+    Price: $22.95 USD
+  - [Purple](https://sunnyseaglassjewelry.com/products/angel-dangling-earrings?variant=58306861629521)
+    Availability: Available
+    Price: $22.95 USD
+  - [Blue](https://sunnyseaglassjewelry.com/products/angel-dangling-earrings?variant=58306861662289)
+    Availability: Available
+    Price: $22.95 USD
 
 ## Collections
 
@@ -4717,8 +4735,8 @@
   Updated: 2025-10-19T23:34:39Z
   Total Products: 31
 - [Sea Glass Earrings](https://sunnyseaglassjewelry.com/collections/sea-glass-earrings)
-  Updated: 2025-10-19T23:34:39Z
-  Total Products: 57
+  Updated: 2025-10-22T22:41:23Z
+  Total Products: 58
 - [Sea Glass Bracelets/Anklets](https://sunnyseaglassjewelry.com/collections/sea-glass-bracelets-anklets)
   Updated: 2025-10-19T23:34:39Z
   Total Products: 10
@@ -4738,8 +4756,8 @@
   Updated: 2025-10-20T11:17:12Z
   Total Products: 15
 - [HOLIDAY Jewelry](https://sunnyseaglassjewelry.com/collections/holiday-jewelry)
-  Updated: 2025-10-19T23:34:39Z
-  Total Products: 20
+  Updated: 2025-10-22T22:41:23Z
+  Total Products: 21
 - [Crystal  Jewelry](https://sunnyseaglassjewelry.com/collections/crystal-jewelry)
   Updated: 2025-10-19T23:34:39Z
   Total Products: 6
