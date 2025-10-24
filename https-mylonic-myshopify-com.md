@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-10-12T12:05:24Z
 - Contact Email: jaswanthkapli4@gmail.com
-- Updated At: 2025-10-22T20:00:50.739Z
+- Updated At: 2025-10-24T16:00:33.651Z
 
 ## Products
 
@@ -864,7 +864,7 @@
     Image: https://cdn.shopify.com/s/files/1/0790/9333/4235/files/NWQbgvnf7FhZEjZK.webp?v=1760378330
     Price: ₹500.00 INR
 - [Cotton Printed Full Sleeves Mens Hoodie](https://mylonic.myshopify.com/products/cotton-printed-full-sleeves-mens-hoodie): Product Cotton Printed Full Sleeves Mens Hoodie Package Contains: It has pack of 1 Hoodie Fabric: Cotton Blend Color: Multicolor Pattern: Color Block Fit: Loose Sleeves Type: Full Sleeves Neck Type: Hood Length (in Inches): 26 Closure: Draw-String Occasion: Casual Combo: Pack of 1 Ideal For: Men Weight: 400
-  Updated: 2025-10-14T20:47:18Z
+  Updated: 2025-10-23T07:48:08Z
   Vendor: 7168md-du
   Product Type: 
   Availability: Available
@@ -879,7 +879,7 @@
     Availability: Available
     Price: ₹406.00 INR
 - [Cotton Blend Printed Full Sleeves Mens Hooded Neck T-Shirt](https://mylonic.myshopify.com/products/cotton-blend-printed-full-sleeves-mens-hooded-neck-t-shirt): Product Name: Cotton Blend Printed Full Sleeves Mens Hooded Neck T-Shirt Package Contains: It Has 1 Piece Of Mens Hooded T-Shirt Fabric: Cotton Blend Color: Black Pattern: Printed Fit: Regular Sleeves Type: Full Sleeves Neck Type: Hooded Neck Occasion: Casual Combo: Pack of 1 Ideal For: Men Weight: 250
-  Updated: 2025-10-14T20:52:26Z
+  Updated: 2025-10-23T07:48:08Z
   Vendor: 7168md-du
   Product Type: 
   Availability: Available
@@ -894,7 +894,7 @@
     Availability: Available
     Price: ₹421.00 INR
 - [Mens Casual Cotton Color Block Hoodies](https://mylonic.myshopify.com/products/mens-casual-cotton-color-block-hoodies): Product Name: Mena Casual Cotton Printed Hoodies Package Contains: It has pair of casual hoodies for mens Fabric: Cotton Color: Black Pattern: Solid Fit: Slim Sleeves Type: Full Sleeves Neck Type: Round Neck Length (in Inches): 28 Closure: No Closure Occasion: Casual Combo: Pack of 1 Ideal For: Men Weight: 500
-  Updated: 2025-10-14T21:14:35Z
+  Updated: 2025-10-23T07:48:08Z
   Vendor: 7168md-du
   Product Type: 
   Availability: Available
