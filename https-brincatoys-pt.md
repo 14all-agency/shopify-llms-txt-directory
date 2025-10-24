@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-10-24T04:01:20.654Z
+- Updated At: 2025-10-24T08:01:28.518Z
 
 ## Products
 
@@ -5423,7 +5423,7 @@ Provavelmente, a espécie vivente mais próxima é o cachorro-vinagre.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/minimates-guardioes-da-galaxia-gamora-e-darkhawk-868376421-marvel-1178694327.jpg?v=1752854650
   Price: 13,99 € EUR
 - [Marvel Select Capitão América](https://brincatoys.pt/products/marvel-select-capitao-america): Esta figura de acção, com aproximadamente 19 cm, do Capitão América apresenta vários pontos de articulação e peças e acessórios intercambiáveis.   Dimensão: 29 x 23 x 11.4 cm. Idade recomendada: + de 14 anos.
-  Updated: 2025-10-13T06:30:10Z
+  Updated: 2025-10-24T04:45:39Z
   Vendor: Marvel
   Product Type: + 3 anos
   Availability: Available
@@ -21224,21 +21224,21 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/rainbow-high-my-fashion-style-violet-774756325-0035051547563-rainbow-high-1199347588.jpg?v=1761241564
   Price: 24,99 € EUR
 - [Rainbow High My Fashion Style -Sunny: A Boneca Colorida](https://brincatoys.pt/products/rainbow-high-my-fashion-style-sunny): Ilumine a diversão com a Rainbow High My Fashion Style - Sunny, uma boneca de 28 cm cheia de estilo! Explore sua criatividade e adquira já a sua!
-  Updated: 2025-10-23T21:48:08Z
+  Updated: 2025-10-24T06:11:48Z
   Vendor: Rainbow High
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/rainbow-high-my-fashion-style-sunny-a-boneca-colorida-774757025-0035051547570-rainbow-high-1199375908.jpg?v=1761256088
   Price: 24,99 € EUR
 - [Rainbow High My Fashion Style -Amaya Raine: Estilo Brilhante](https://brincatoys.pt/products/rainbow-high-my-fashion-style-amaya-raine): A Rainbow High My Fashion Style - Amaya Raine é a boneca perfeita para dar cor e brilho à brincadeira. Explore a sua criatividade e inspire!
-  Updated: 2025-10-23T22:18:06Z
+  Updated: 2025-10-24T06:02:56Z
   Vendor: Rainbow High
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/rainbow-high-my-fashion-style-amaya-raine-774753225-0035051547532-rainbow-high-1199375900.jpg?v=1761255966
   Price: 24,99 € EUR
 - [Rainbow High My Fashion Style - Bella Parker: Elegante](https://brincatoys.pt/products/rainbow-high-my-fashion-style-bella-parker): Conheça a Rainbow High My Fashion Style - Bella Parker, uma boneca elegante de 28 cm com cabelo rosa pêssego. Prepare-se para criar penteados incríveis!
-  Updated: 2025-10-23T21:47:56Z
+  Updated: 2025-10-24T06:14:14Z
   Vendor: Rainbow High
   Product Type: + 4 anos
   Availability: Available
