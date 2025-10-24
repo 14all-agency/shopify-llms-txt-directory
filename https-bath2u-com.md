@@ -6,7 +6,7 @@
 - Timezone: Asia/Kuala_Lumpur
 - Created At: 2022-10-06T05:47:12Z
 - Contact Email: sales@bath2u.com
-- Updated At: 2025-10-23T04:00:52.051Z
+- Updated At: 2025-10-24T20:00:59.392Z
 
 ## Products
 
@@ -315,7 +315,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/3017.jpg?v=1672988262
   Price: RM 160.00 MYR
 - [DOCASA White One Piece Washdown Water Closet](https://bath2u.com/products/docasa-white-washdown-one-piece-water-closet): Material: Ceramic Colour: White Finish: Glossy Dimension: 700 (L) x 380 (W) x 735 (H) mmS-Trap: 200mm/250mmP-Trap: 180mm
-  Updated: 2025-03-04T04:25:49Z
+  Updated: 2025-10-24T05:57:57Z
   Vendor: DOCASA
   Product Type: Water Closet
   Availability: Available
@@ -343,7 +343,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/A310.png?v=1673232737
   Price: RM 420.00 MYR
 - [DOCASA Close Couple Washdown Water Closet come with Dual Flush](https://bath2u.com/products/docasa-close-couple-washdown-water-closet-come-with-dual-flush): Material: Ceramic Size: 645 (L) x 365 (W) x 790 (H) mmS-Trap: 100mm/250mmP-Trap: 180mmcome with straight connector OptionalPP Soft Close Seat & Cover
-  Updated: 2024-04-18T15:03:29Z
+  Updated: 2025-10-24T12:52:12Z
   Vendor: DOCASA
   Product Type: Water Closet
   Availability: Available
@@ -1425,7 +1425,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/TAP-6080.png?v=1675135598
   Price: RM 304.00 MYR
 - [TAPI 39cm Wall Mount Shower Chair (Nylon Anti Slip)](https://bath2u.com/products/tapi-39cm-wall-mount-shower-chair-nylon-anti-slip): Specifications : Dimension : 395 L x 480 W x 200 H (ø35 mm) SUS 304 S / Steel (Inner) / ABS White (Casing) Max. Loading Weight : 150kg
-  Updated: 2025-02-17T12:12:28Z
+  Updated: 2025-10-23T06:50:58Z
   Vendor: TAPI
   Product Type: Safety Bar
   Availability: Available
@@ -2690,7 +2690,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/SS22551SG.png?v=1678419151
   Price: RM 460.00 MYR
 - [SORENTO 520mm Kids One Piece Water Closet](https://bath2u.com/products/sorento-520mm-baby-one-piece-water-closet): Specification : Washdown Flushing Technology Dimension: 520 L x 300 W x 535 H mm Colour (Options) : White / Soft Pink / Baby Blue S-Trap: Bottom Outlet 200mm *PP Material Seat Cover
-  Updated: 2025-01-21T05:58:01Z
+  Updated: 2025-10-24T16:30:02Z
   Vendor: SORENTO
   Product Type: Children WC and Basin
   Availability: Available
