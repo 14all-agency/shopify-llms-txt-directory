@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-10-24T20:01:30.240Z
+- Updated At: 2025-10-25T00:01:14.686Z
 
 ## Products
 
@@ -9529,7 +9529,7 @@ do tempo a caçar no gelo marinho.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/vet-squad-quad-de-resgate-843421321-vet-squad-1178695670.jpg?v=1752807486
   Price: 19,99 € EUR
 - [Vet Squad Robin & Snowy the Owl](https://brincatoys.pt/products/vet-squad-robin-snowy-the-owl): A Vet Squad - Robin & Snowy the Owl é uma boneca da equipa Vet Squad que vem com seu animal de estimação, uma mochila e dois acessórios.  Dimensão: 19 x 17,50 x 5,50 cm. Idade recomendada: + de 3 anos.
-  Updated: 2025-10-13T06:25:56Z
+  Updated: 2025-10-24T21:43:07Z
   Vendor: Vet Squad
   Product Type: + 3 anos
   Availability: Available
@@ -15132,7 +15132,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/furreal-poopalots-corgi-778057324-0886144280573-furreal-friends-1178698761.jpg?v=1752931686
   Price: 39,99 € EUR
 - [Fur Real Friends Walkalots Bernedoodle: Amigo de Quatro Patas](https://brincatoys.pt/products/fur-real-friends-walkalots-bernedoodle): Fur Real Friends Walkalots Bernedoodle, um brinquedo interativo que promete passeios divertidos e muitas aventuras. Encontra aqui o companheiro ideal!
-  Updated: 2025-10-16T19:36:11Z
+  Updated: 2025-10-24T21:47:09Z
   Vendor: FurReal Friends
   Product Type: + 3 anos
   Availability: Available
@@ -17750,7 +17750,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carros-disney-nicole-revwell-movie-figuras-exclusivas-771993524-0194735199334-cars-1178700916.jpg?v=1752963135
   Price: 22,50 € EUR
 - [Barbie - Cavalo Barbie Mysteries: Aventuras Mágicas e Música](https://brincatoys.pt/products/barbie-cavalo-barbie-mysteries): Divirta-se com o Barbie - Cavalo Barbie Mysteries. Um conjunto com mais de 20 acessórios que oferece infinitas possibilidades de brincadeira.
-  Updated: 2025-10-22T18:37:40Z
+  Updated: 2025-10-24T20:42:09Z
   Vendor: Barbie
   Product Type: + 3 anos
   Availability: Available
