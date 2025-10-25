@@ -5,16 +5,16 @@
 - Currency: EUR
 - Timezone: Europe/Bucharest
 - Created At: 2025-09-06T11:42:39Z
-- Updated At: 2025-10-24T12:00:42.786Z
+- Updated At: 2025-10-25T04:00:48.263Z
 
 ## Products
 
 - [Ultimate AI Blueprint Generator - Design Made Easy](https://gamedevcore.com/products/ultimate-blueprint-generator-ai): Discover the power of our AI blueprint generator. It's never been easier to make games in Unreal Engine even as a beginner. Try it today!
-  Updated: 2025-09-28T18:33:41Z
+  Updated: 2025-10-24T21:06:13Z
   Vendor: GameDevCore
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0912/6300/9034/files/newthumbnail.png?v=1759017172
+  Image: https://cdn.shopify.com/s/files/1/0912/6300/9034/files/thumbnail.png?v=1761261449
   Price: €140.00 EUR
 - [Ultimate Difficulty Scaling in Game Design](https://gamedevcore.com/products/ultimate-difficulty-scaling): Discover the importance of difficulty scaling in game design. Learn how it enhances player experience and keeps engagement high.
   Updated: 2025-09-28T11:59:07Z
@@ -38,7 +38,7 @@
     Author: Blueprints Lab
     Tags: AI Assistant, AI Blueprint Generator, AI in Gamedev, AI Tools, Blueprint Generator, Blueprint to C++, Game Development, Generative AI, Prototyping, UE5, Ultimate Blueprint Generator, Unreal Engine, Unreal Engine 5, Workflow Automation
   - [The Ultimate AI Copilot for Unreal Engine 5: AI Dev Assistant](https://gamedevcore.com/blogs/news/ultimate-ai-copilot-unreal-engine-5): The Ultimate AI Copilot for Unreal Engine 5: AI Dev Assistant
-    Updated: 2025-10-24T10:10:11Z
+    Updated: 2025-10-24T19:26:21Z
     Author: Blueprints Lab
     Tags: AI Assistant, AI Blueprint Generator, AI in Gamedev, AI Tools, Blueprint Generator, Game Development, Generative AI, UE5, Ultimate Blueprint Generator, Unreal Engine, Unreal Engine 5, Workflow Automation
 
