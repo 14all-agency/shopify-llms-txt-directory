@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2023-04-19T20:10:07Z
 - Contact Email: georgina@hibiscussurfwear.com
-- Updated At: 2025-10-24T16:00:55.393Z
+- Updated At: 2025-10-25T04:00:48.182Z
 
 ## Products
 
@@ -1115,7 +1115,7 @@
   Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/groworganictotebag.png?v=1688184189
   Price: £31.99 GBP
 - [Wear organic  - Hibiscus Surfwear - Organic ribbed beanie](https://www.hibiscussurfwear.com/products/wear-organic-hibiscus-surfwear-organic-ribbed-beanie): Wear organic - Hibiscus Surfwear - Organic ribbed beanie This organic ribbed beanie is stylish, practical, and eco-friendly, making it an absolute must-have for your hat selection. Thanks to its breathable lightweight fabric, you can wear it both indoors and outdoors. • 100% organic cotton • Breathable lightweight fabric • Double layer knit • Cuffed beanie • 8.26″ (21 cm) in length • Head circumference: 15″ (38 cm) when relaxed and up to 19.6″ (50 cm) when stretched • Blank product sourced from China This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide A (inches) B (inches) C (inches) D (inches) One size 15-19 ⅝ 8 ⅛ 2 ⅜ 8 ½
-  Updated: 2025-10-17T14:24:06Z
+  Updated: 2025-10-25T02:28:56Z
   Vendor: Hibiscus Surfwear
   Product Type: 
   Availability: Available
@@ -1464,7 +1464,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-pullover-hoodie-white-front-64662d6d4b189.jpg?v=1688411208
     Price: £57.99 GBP
 - [The infinite universe - Hibiscus Surfwear - Mens organic cotton t-shirt](https://www.hibiscussurfwear.com/products/the-infinite-universe-hibiscus-surfwear-mens-organic-cotton-t-shirt): The infinite universe - Hibiscus Surfwear - Mens organic cotton t-shirt Made from 100% organic ring-spun cotton, this unisex t-shirt is a total must-have. It's high-quality, super comfy, and best of all—eco-friendly. • 100% organic ring-spun cotton • Fabric weight: 5.3 oz/yd² (180 g/m²) • Single jersey • Medium fit • Set-in sleeves • 1 × 1 rib at collar • Wide double-needle topstitch on the sleeves and bottom hems • Self-fabric neck tape (inside, back of the neck) • Blank product sourced from China or Bangladesh The sizes correspond to a smaller size in the US market, so US customers should order a size up. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide BODY LENGTH (inches) CHEST WIDTH (inches) SLEEVE LENGTH (inches) S 27 ¼ 19 ¼ 8 ⅛ M 28 ¼ 20 ½ 8 ½ L 29 ⅛ 21 ¾ 8 ⅞ XL 29 ⅞ 22 ¾ 8 ⅞ 2XL 30 ¾ 24 9 ¼
-  Updated: 2025-05-19T10:43:09Z
+  Updated: 2025-10-24T17:07:28Z
   Vendor: Hibiscus Surfwear
   Product Type: 
   Availability: Available
@@ -9665,7 +9665,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-organic-cotton-t-shirt-white-front-649116852bd25.jpg?v=1688014534
     Price: £37.15 GBP
 - [Waterloo - Fleet - Hibiscus Surfwear - Mens organic cotton t-shirt](https://www.hibiscussurfwear.com/products/waterloo-fleet-hibiscus-surfwear-mens-organic-cotton-t-shirt): Waterloo - Fleet - Hibiscus Surfwear - Mens organic cotton t-shirt Made from 100% organic ring-spun cotton, this unisex t-shirt is a total must-have. It's high-quality, super comfy, and best of all—eco-friendly. • 100% organic ring-spun cotton • Fabric weight: 5.3 oz/yd² (180 g/m²) • Single jersey • Medium fit • Set-in sleeves • 1 × 1 rib at collar • Wide double-needle topstitch on the sleeves and bottom hems • Self-fabric neck tape (inside, back of the neck) • Blank product sourced from China or Bangladesh The sizes correspond to a smaller size in the US market, so US customers should order a size up. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide BODY LENGTH (inches) CHEST WIDTH (inches) SLEEVE LENGTH (inches) S 27 ¼ 19 ¼ 8 ⅛ M 28 ¼ 20 ½ 8 ½ L 29 ⅛ 21 ¾ 8 ⅞ XL 29 ⅞ 22 ¾ 8 ⅞ 2XL 30 ¾ 24 9 ¼
-  Updated: 2025-05-19T10:34:30Z
+  Updated: 2025-10-25T01:59:33Z
   Vendor: Hibiscus Surfwear
   Product Type: 
   Availability: Available
@@ -17375,7 +17375,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-eco-raglan-hoodie-white-front-66757eb68add1.jpg?v=1718976201
     Price: £67.00 GBP
 - [Industrious & independent - Hibiscus Surfwear - Womens eco raglan hoodie](https://www.hibiscussurfwear.com/products/industrious-independent-hibiscus-surfwear-womens-eco-raglan-hoodie): Industrious & independent - Hibiscus Surfwear - Womens eco raglan hoodie If there’s one fashion rule to live by, let it be that comfort doesn’t have to be compromised for the sake of style. Pair the super-soft unisex eco raglan hoodie with joggers for a relaxed look, or elevate the outfit with a skirt, oversized blazer, or classic trousers. The hoodie’s brushed inside ensures a comfy and snug feel, and will keep you warm during the colder days. • Outside: 100% organic cotton • Charcoal melange is 60% cotton, 40% recycled polyester • Inside for all colors: 80% organic cotton, 20% recycled polyester • Brushed lining • Regular fit • Raglan sleeves • Ribbed cuffs and hem • Drawstrings with metal eyelets and stoppers • Jersey-lined hood • Blank product sourced from Bangladesh This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (inches) WIDTH (inches) XS 25 ⅝ 19 ¼ S 26 ¾ 20 ½ M 27 ¼ 21 ¾ L 27 ⅝ 22 ¾ XL 28.0 24.0 2XL 28 ¼ 25 ¼ 3XL 28 ¾ 26 ⅜
-  Updated: 2025-04-24T15:45:32Z
+  Updated: 2025-10-24T21:44:38Z
   Vendor: Hibiscus Surfwear
   Product Type: 
   Availability: Available
@@ -18810,7 +18810,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/greeting-card-5.83x8.27-front-6336a26b5762e.jpg?v=1720369393
     Price: £8.43 GBP
 - [Sunflower positivity - Georgina Zafeiri - Ethical Greeting card](https://www.hibiscussurfwear.com/products/sunflower-positivity-gee-tee-ethical-greeting-card): Expressing your sentiments or planning an event can be hard. Take some of the weight off of your shoulders by getting yourself an authentic greeting card! • Material: 14.77 oz/yd² (350 g/m²) paperboard • Sizes: Small: 4″ × 6″ (101 × 152 mm) Medium: 5″ × 7″ (127 × 178 mm) Large: 5.83″ × 8.27″ (148 × 210 mm) • Product weight: Small: 0.39 oz (11 g) Medium: 0.6 oz (17 g) Large: 0.85 oz (24 g) • Toner-based printing • Vibrant colors • Comes with a complimentary envelope
-  Updated: 2025-04-24T15:45:38Z
+  Updated: 2025-10-24T21:17:33Z
   Vendor: Hibiscus Surfwear
   Product Type: 
   Availability: Available
