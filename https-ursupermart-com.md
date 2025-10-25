@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2024-06-01T16:53:27Z
 - Contact Email: Support@ursupermart.com
-- Updated At: 2025-10-25T04:00:56.614Z
+- Updated At: 2025-10-25T12:00:54.595Z
 
 ## Products
 
@@ -15545,7 +15545,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/sequin-prom-dress-burgundy-sleeveless-cocktail.webp?v=1744069826
     Price: $57.95 USD
 - [Form-Fitting Sequin Dress for Hourglass Figure | Red & Blue](https://ursupermart.com/products/elegant-sequin-dress-with-sleeves-formal-events): Make a statement in our form-fitting sequin dress for hourglass figure. This elegant long sleeve design is perfect for formal events & cocktail parties.
-  Updated: 2025-10-25T01:37:06Z
+  Updated: 2025-10-25T05:01:21Z
   Vendor: S1B|Meta - Trendsi
   Product Type: Cocktail Dress
   Availability: Available
@@ -19698,7 +19698,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/u-shape-pregnancy-pillow-soft-white.webp?v=1749253210
     Price: $74.95 USD
 - [Car Detailing Brush Kit for Deep Interior Car Cleaning](https://ursupermart.com/products/car-detailing-cleaning-brush-kit): Upgrade your car detailing with our 17-piece brush kit—perfect for interior car cleaning, vents, wheels & more. Scratch-free, soft bristles for pro results.
-  Updated: 2025-10-23T17:56:51Z
+  Updated: 2025-10-25T06:26:40Z
   Vendor: S1B|@Updated - 1-CJ
   Product Type: 17-piece car detailing brush set
   Availability: Available
@@ -22938,7 +22938,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/clear-stadium-tote-bag-family-beach.webp?v=1758641115
   Price: $34.95 USD
 - [Jump Starter Portable Car Power Bank for Dead Batteries](https://ursupermart.com/products/jump-starter-portable-car-power-bank-for-dead-batteries): This jump starter provides 3000A to revive your car battery, charges devices, and offers emergency light. Stay safe on the road; get yours today!
-  Updated: 2025-10-23T18:04:23Z
+  Updated: 2025-10-25T07:27:00Z
   Vendor: S1B|S1|Meta - Trendsi**
   Product Type: Portable jump starter
   Availability: Available
@@ -23531,7 +23531,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/callus-remover-kit-with-usb-cable.webp?v=1758555078
     Price: $37.95 USD
 - [Tactical bags: Durable 85L duffel for military & outdoor](https://ursupermart.com/products/tactical-bags-durable-85l-military-duffel-outdoor): Tactical bags built for adventure! This 85L military duffel offers 3-way carry, durable 600D nylon, and organized storage for all your gear. Get yours today!
-  Updated: 2025-10-23T18:05:36Z
+  Updated: 2025-10-25T04:26:58Z
   Vendor: S1B|S1|CJ
   Product Type: Tactical Duffel Bag
   Availability: Available
@@ -23541,7 +23541,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/gym-duffel-bag-black-camo-strap.webp?v=1758555738
     Price: $39.95 USD
   - [Camo](https://ursupermart.com/products/tactical-bags-durable-85l-military-duffel-outdoor?variant=42252397281370)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/gym-duffel-bag-tan-camo-style.webp?v=1758555875
     Price: $39.95 USD
 - [Massage Gun for Deep Tissue Relief & Fast Recovery](https://ursupermart.com/products/deep-tissue-massage-gun-for-muscle-recovery): This massage gun provides deep tissue relief and muscle recovery, easing soreness with 8 heads and a 12-hour battery. Get yours for faster recovery!
@@ -26678,7 +26678,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/bath-toys-smiley-ufo-roller-base.webp?v=1760491795
     Price: $22.95 USD
 - [Pottery Wheel Kit for Kids Create and Decorate Clay](https://ursupermart.com/products/pottery-wheel-kit-for-kids-create-decorate-clay): This Pottery Wheel Kit lets kids unleash creativity, build fine motor skills, and craft unique clay masterpieces with included tools and paints. Shop now!
-  Updated: 2025-10-25T01:19:15Z
+  Updated: 2025-10-25T08:24:33Z
   Vendor: S1B|S1|CJ
   Product Type: Kids Pottery Wheel Kit
   Availability: Available
@@ -26706,7 +26706,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/water-play-set-kids-outdoor-fun.webp?v=1761261462
   Price: $38.95 USD
 - [Electronic Keyboard for Beginners Kids & Adults Fun](https://ursupermart.com/products/electronic-keyboard-for-beginners-kids-adults-fun): This 61-key electronic keyboard makes learning music fun for all ages with tones, rhythms, and a mic; explore your musical talent and start playing today!
-  Updated: 2025-10-24T23:13:01Z
+  Updated: 2025-10-25T08:29:06Z
   Vendor: S1B|S1|CJ
   Product Type: Electronic keyboard
   Availability: Available
@@ -28835,8 +28835,8 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/wrapping-paper-cutter-demonstration-cutting-rolls.webp?v=1760741449
   Price: $14.95 USD
 - [Christmas Doll Socks Cartoon Plush Christmas Socks Christmas Tree Pendant Santa Claus Snowman Candy Gift Bag](https://ursupermart.com/products/christmas-doll-socks-cartoon-plush-christmas-socks-christmas-tree-pendant-santa-claus-snowman-candy-gift-bag): Material clothStyle American, Classical
-  Updated: 2025-10-25T03:12:02Z
-  Vendor: eprolo
+  Updated: 2025-10-25T06:21:14Z
+  Vendor: @eprolo
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/C9F2ACA3300695B74944AE682E602CE4.jpg?v=1761361827
@@ -29016,7 +29016,7 @@
   Updated: 2025-10-16T01:29:11Z
   Total Products: 32
 - [Smart Home Devices That Make Life Easier 2025: Complete](https://ursupermart.com/collections/smart-home-devices-make-life-easier): Smart home devices that make daily tasks easier. Security cameras, smart lights & kitchen gadgets $9-45. Free shipping, 14-day returns, expert support today!
-  Updated: 2025-10-20T22:39:52Z
+  Updated: 2025-10-25T11:06:59Z
   Total Products: 84
 - [Amazing Cozy Christmas Decor Deals Starting at Just $12](https://ursupermart.com/collections/cozy-christmas-decor-deals-under-30): Transform your home with cozy christmas decor deals under $30. Budget friendly holiday decorating solutions for Instagram-worthy spaces. Shop now!
   Updated: 2025-10-06T13:54:53Z
@@ -29028,13 +29028,13 @@
   Updated: 2025-10-16T01:29:07Z
   Total Products: 35
 - [Best Black Friday Gadgets Under $15: Viral TikTok Tech](https://ursupermart.com/collections/black-friday-deals-under-15): Discover trending Black Friday gadgets under $15! Shop viral TikTok tech gifts, phone accessories & kitchen tools. Free shipping on all orders.
-  Updated: 2025-10-24T13:31:42Z
+  Updated: 2025-10-25T11:06:59Z
   Total Products: 82
 - [Best Cyber Monday Deals Under 25 Tech Gifts & Free Shipping](https://ursupermart.com/collections/cyber-monday-deals-under-25): Discover cyber monday deals under 25 on quality tech gifts with free shipping today. Perfect holiday tech gifts under 25 that solve real problems for everyone.
   Updated: 2025-10-23T21:37:32Z
   Total Products: 13
 - [Best Budget Tech Gifts Under $15: Viral TikTok Finds 2025](https://ursupermart.com/collections/tech-gifts-under-15-viral-tiktok): Shop 15 viral TikTok tech gifts under $15 that actually work. Budget wireless earbuds, phone accessories & trending gadgets. Free shipping. Limited stock!
-  Updated: 2025-10-24T13:31:42Z
+  Updated: 2025-10-25T11:06:59Z
   Total Products: 80
 - [Secret Santa Gifts under $30: Unique Ideas That Won't Break the Bank](https://ursupermart.com/collections/christmas-gift-ideas-under-30): Christmas Gifts That Won't Break the Bank Discover the perfect Christmas gifts for everyone on your list without exceeding your budget! Our collection features a wide array of items, all priced under $30, making it easier than ever to find thoughtful gifts that won't strain your wallet. Whether you're shopping for friends, family, or co-workers, these budget-friendly options are ideal for Secret Santa gifts, stocking stuffers, and last-minute surprises. Plus, enjoy the added benefit of free shipping on all orders, ensuring that your holiday shopping is both convenient and cost-effective. Stocking Stuffers for Everyone Looking for stocking stuffers that are sure to delight? Our curated selection includes fun and practical items perfect for filling those stockings this holiday season. From stylish fashion accessories to quirky kitchen gadgets, there’s something for everyone. These unique gifts are not only affordable but also thoughtful, making them ideal for anyone from your office buddy to your favorite aunt. Explore our collection and find the perfect small treasures that will bring joy to your loved ones. Best Holiday Gift Ideas Under $30 Finding the best holiday gift ideas can be a challenge, especially when you're on a budget. Our collection is designed with this in mind, offering a variety of delightful options that cater to all tastes and interests. Choose from trendy women's clothing, sleek watches, or handy electronics that make great gifts for men and women alike. Each item is carefully selected to ensure quality and style while keeping prices low. This holiday season, impress your friends and family with thoughtful gifts that show you care without overspending. Christmas Gifts for Men and Women Searching for Christmas gifts for men or Christmas gifts for women? Look no further! Our diverse collection has something special for everyone. Whether you're shopping for a tech enthusiast who loves gadgets or a fashion-forward friend who appreciates stylish accessories, our range of products includes everything from phone cases to massagers. These gifts are perfect for all ages, making them suitable for friends, family members, or even co-workers participating in office gift exchanges. Stocking Stuffer Ideas That Shine When it comes to stocking stuffer ideas, creativity is key! Our collection features an assortment of small yet impactful gifts that are sure to impress. Consider fun toys, trendy glasses, or unique kitchen gadgets as delightful additions to any stocking. Each item is thoughtfully chosen to bring smiles without breaking the bank. These stocking stuffers are not just practical; they also add a touch of excitement to the holiday festivities. Secret Santa Gifts Everyone Will Love Participating in a Secret Santa exchange? Our selection of Secret Santa gifts is perfect for surprising your colleagues or friends with something unique and enjoyable. From stylish bags to charming Christmas ornaments, each gift is under $30 and designed to bring joy without the stress of overspending. Make your Secret Santa memorable with our thoughtful picks that cater to diverse tastes. Gift Ideas for Those Who Have Everything Struggling with what to buy for those who seem to have it all? Our collection includes gifts for men who have everything, offering practical yet fun items that they might not have thought to buy themselves. From innovative electronics to fashionable accessories, these unique finds will surely impress even the hardest-to-shop-for individuals on your list. Christmas Gifts for Mom That Show You Care Show your appreciation this holiday season with thoughtful Christmas gifts for mom. Our selection includes lovely fashion accessories and cozy items that she will cherish. Each gift is designed with love and care, ensuring that you can express how much she means to you without exceeding your budget. Celebrate her this Christmas with a gift that reflects her personality and style. Holiday Sales You Can't Miss Take advantage of our incredible holiday sales! With every item priced under $30 and free shipping included, you can shop confidently knowing you're getting the best deals this season. Don’t miss out on these fantastic offers—perfect for last-minute shoppers looking to spread some holiday cheer without spending too much. This holiday season, make your shopping experience enjoyable and stress-free with our extensive collection of budget-friendly gifts. Each item is selected not just for its affordability but also for its ability to bring joy and happiness during this festive time of year. Whether you're looking for stocking stuffers or meaningful presents, our collection has everything you need to make this Christmas unforgettable!
   Updated: 2025-10-23T21:37:32Z
@@ -29043,7 +29043,7 @@
   Updated: 2025-10-18T01:49:14Z
   Total Products: 31
 - [Best Stocking Stuffers Under $15: Affordable Gift Ideas 2025](https://ursupermart.com/collections/stocking-stuffers-under-15-dollars): Stocking stuffers under $15 that look amazing. Budget gifts with free shipping. Quality items for everyone on your list. Shop smart and save money this holiday!
-  Updated: 2025-10-24T13:31:42Z
+  Updated: 2025-10-25T11:06:59Z
   Total Products: 81
 - [Top Gift Ideas Under $25 That Look Expensive - Beauty & Tech](https://ursupermart.com/collections/best-gift-ideas-under-25): Best gift ideas under $25 that look expensive! Budget beauty gifts, tech accessories & holiday gifts under 25 for everyone. Quality guaranteed today!
   Updated: 2025-10-24T13:31:42Z
