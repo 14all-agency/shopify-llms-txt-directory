@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2024-06-01T16:53:27Z
 - Contact Email: Support@ursupermart.com
-- Updated At: 2025-10-24T16:00:52.141Z
+- Updated At: 2025-10-25T00:00:57.096Z
 
 ## Products
 
@@ -15461,7 +15461,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/cute-summer-dress-tropical-vacation-wear.webp?v=1744044037
     Price: $57.95 USD
 - [Shop Sleeveless A-Line Midi Dress with Slit](https://ursupermart.com/products/sleeveless-midi-dress-with-slit): Casual Summer Style Meta Description: Order the best comfortable sleeveless midi dress with a side slit online. Multiple colors. Free shipping included
-  Updated: 2025-10-24T07:01:36Z
+  Updated: 2025-10-24T16:22:01Z
   Vendor: S1B|Meta - Trendsi
   Product Type: Summer Dress
   Availability: Available
@@ -26705,6 +26705,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/water-play-set-kids-outdoor-fun.webp?v=1761261462
   Price: $38.95 USD
+- [Electronic Keyboard for Beginners Kids & Adults Fun](https://ursupermart.com/products/electronic-keyboard-for-beginners-kids-adults-fun): This 61-key electronic keyboard makes learning music fun for all ages with tones, rhythms, and a mic; explore your musical talent and start playing today!
+  Updated: 2025-10-24T23:13:01Z
+  Vendor: S1B|S1|CJ
+  Product Type: Electronic keyboard
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/electronic-keyboard-toy-with-microphone.webp?v=1761337397
+  Price: $78.95 USD
 - [Bath toys: Fun spraying whale lights for happy kids](https://ursupermart.com/products/spraying-whale-bath-toys-for-kids-happy): Bath toys for kids: this automatic spraying whale with colorful lights and music makes bath time a joyful, sensory adventure! Discover the fun.
   Updated: 2025-10-23T18:12:18Z
   Vendor: @S1B|S1|CJ
@@ -26758,6 +26765,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/electronic-tic-tac-toe-multi-modes-kids.webp?v=1759510653
   Price: $34.95 USD
+- [Face Slimmers: Sculpt Jawline and Reduce Double Chin Fast](https://ursupermart.com/products/face-slimmers-jawline-lifting-double-chin-reducer): Face slimmers help reduce double chin and lift your jawline with EMS technology for a youthful look; get yours for a sculpted appearance today!
+  Updated: 2025-10-24T23:16:30Z
+  Vendor: S1B|S1|CJ
+  Product Type: Facial slimming device
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/facial-slimming-device-mask-combo.webp?v=1761338207
+  Price: $47.95 USD
 - [Door Jammer Portable Lock for Home & Travel Security](https://ursupermart.com/products/door-jammer-home-and-travel-portable-security-lock): Door jammer provides essential security for any room, preventing unwanted entry at home or while traveling. Ensure your safety and privacy today!
   Updated: 2025-10-16T12:15:27Z
   Vendor: @eprolo
@@ -28827,7 +28841,7 @@
   Updated: 2025-10-16T01:39:23Z
   Total Products: 9
 - [Creative Toys Kids Love: Build Skills & Have Fun Today!!!](https://ursupermart.com/collections/creative-toys-kids-love-collection): Creative toys that keep kids engaged without screens! STEM toys and educational activities build problem-solving skills. Ages 2-9 love these now
-  Updated: 2025-10-24T12:27:35Z
+  Updated: 2025-10-24T23:13:00Z
   Total Products: 58
 - [Women's Clothing, Dresses, Outfits & Trendy Workout Wear](https://ursupermart.com/collections/womens-clothing-dresses-trendy-workout-wear): Discover stylish women's clothing, trendy workout wear, and elegant dresses. Shop the latest outfits for every occasion and stay fashionable and active daily.
   Updated: 2025-09-25T22:17:25Z
@@ -28881,13 +28895,13 @@
   Updated: 2025-10-23T21:37:32Z
   Total Products: 60
 - [2025 Beauty & Self Care Guide: Products That Really Work](https://ursupermart.com/collections/best-beauty-self-care-products-2025): Find beauty & self care products that work in 2025. Expert-tested skincare routines, anti-aging treatments, and wellness essentials. Free shipping!
-  Updated: 2025-10-19T21:11:39Z
+  Updated: 2025-10-24T23:16:29Z
   Total Products: 41
 - [Phone Accessories Going Viral: Best TikTok Picks 2025](https://ursupermart.com/collections/viral-phone-accessories-tiktok-collection): Shop viral phone accessories from TikTok! Find wireless chargers, power banks, car mounts & cases. Free shipping, 14-day returns. Starting at $14!
   Updated: 2025-10-23T21:37:32Z
   Total Products: 54
 - [Affordable Quality Activewear - Squat-Proof Leggings $20-100](https://ursupermart.com/collections/best-womens-activewear-collection): Quality activewear that won't break the bank. Squat-proof leggings, inclusive sizing XS-3X, $20-100. Free shipping on all orders. Shop now!
-  Updated: 2025-10-24T13:23:12Z
+  Updated: 2025-10-24T17:54:17Z
   Total Products: 35
 - [Best Trendy Phone Cases for Teens Protection Meets Style Now](https://ursupermart.com/collections/trendy-phone-cases-teens): Shop trendy phone cases teens love today! Stylish protection under $25 that parents will approve of. Instagram-worthy designs with real drop protection features
   Updated: 2025-10-23T21:37:32Z
@@ -28911,7 +28925,7 @@
   Updated: 2025-10-19T21:11:39Z
   Total Products: 16
 - [Shop Women's Shapewear | Comfortable Body Shapers $30-$100](https://ursupermart.com/collections/womens-shapewear-body-shapers-collection): Find comfortable women's shapewear for everyday wear. Tummy control bodysuits, seamless shorts & breathable body shapers. Free shipping on all orders.
-  Updated: 2025-10-24T13:23:12Z
+  Updated: 2025-10-24T17:54:17Z
   Total Products: 8
 
 ## Blogs
