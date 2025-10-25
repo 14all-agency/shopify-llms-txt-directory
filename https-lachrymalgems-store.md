@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-10-03T06:30:37Z
 - Contact Email: mandiemaddox@mystichiddengem.com
-- Updated At: 2025-10-25T08:00:51.823Z
+- Updated At: 2025-10-25T12:00:32.540Z
 
 ## Products
 
@@ -1567,13 +1567,13 @@
 ## Collections
 
 - [Home page](https://lachrymalgems.store/collections/frontpage): Landing pages display of best selling products
-  Updated: 2025-10-24T08:07:42Z
+  Updated: 2025-10-25T11:20:19Z
   Total Products: 19
 - [Ladies Alt. Style](https://lachrymalgems.store/collections/ladies-alt-style): Ladies trending apparel, Seasonal Fashion
-  Updated: 2025-10-25T04:08:51Z
+  Updated: 2025-10-25T11:20:19Z
   Total Products: 13
 - [Mens Alt. Style](https://lachrymalgems.store/collections/mens-alt-style): Mens hip hop alternative trends and seasonal outfits.
-  Updated: 2025-10-24T08:07:42Z
+  Updated: 2025-10-25T11:20:19Z
   Total Products: 10
 - [Trap-Core Shoes](https://lachrymalgems.store/collections/trap-core-shoes)
   Updated: 2025-10-24T08:07:42Z
@@ -1588,7 +1588,7 @@
   Updated: 2025-10-22T04:20:41Z
   Total Products: 0
 - [All Products](https://lachrymalgems.store/collections/all)
-  Updated: 2025-10-25T03:35:43Z
+  Updated: 2025-10-25T11:20:19Z
   Total Products: 47
 
 ## Blogs
@@ -1617,6 +1617,10 @@
     Updated: 2025-10-24T11:20:46Z
     Author: Mandie Maddox
     Tags: alternative aesthetic, alternative fashion, Be yourself, Bohemian
+  - [Forget the Old Aesthetic Labels. Welcome to Lachrywave](https://lachrymalgems.store/blogs/news/forget-the-old-labels-welcome-to-lachrywave): Forget the Old Aesthetic Labels. Welcome to Lachrywave
+    Updated: 2025-10-25T08:26:24Z
+    Author: Mandie Maddox
+    Tags: alternative aesthetic, alternative fashion, Be yourself
 - [They Don't Tell You: The Story Behind Our Scars](https://lachrymalgems.store/blogs/they-dont-tell-you-the-story-behind-our-scars)
   - [They Don't Tell You: The Story Behind Our Scars](https://lachrymalgems.store/blogs/they-dont-tell-you-the-story-behind-our-scars/they-dont-tell-you-the-story-behind-our-scars)
     Updated: 2025-10-07T21:08:12Z
