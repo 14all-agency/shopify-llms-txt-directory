@@ -6,7 +6,7 @@
 - Timezone: Europe/Rome
 - Created At: 2024-04-12T22:59:50Z
 - Contact Email: izzomarianna@hotmail.it
-- Updated At: 2025-10-25T04:00:34.880Z
+- Updated At: 2025-10-25T12:00:35.251Z
 
 ## Products
 
@@ -1074,7 +1074,7 @@
   Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/tazzainter_32b5951b-58f9-4441-905d-ab5042660199.jpg?v=1740245485
   Price: 9,90 € EUR
 - [Tazza ' VOLEVO ESSERE UN DURO..MA' personalizzala con la tua squadra](https://www.amashopstudio.it/products/tazza-volevo-essere-un-duro-ma-personalizzala-con-la-tua-squadra-1): Prodotto Made in Italy Prodotto esclusivo disegnato e realizzato internamente Tazza in Ceramica di alta qualità Adatta per essere utilizzata in forno a microonde. Lavabile in lavastoviglie Colore bianco. Fai un regalo unico ed originale
-  Updated: 2025-09-17T14:59:31Z
+  Updated: 2025-10-25T06:32:20Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
