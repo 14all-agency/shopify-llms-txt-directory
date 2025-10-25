@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-03-10T14:11:59Z
 - Contact Email: info@surgismart.in
-- Updated At: 2025-10-25T08:00:47.060Z
+- Updated At: 2025-10-25T12:00:45.059Z
 
 ## Products
 
@@ -1490,7 +1490,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/24.jpg?v=1751478402
   Price: ₹792.00 INR
 - [Buy ​Medvance Episotomy Scissors - Surgismart](https://surgismart.in/products/medvance-episotomy-scissors): With the Medvance Episotomy Scissors, expect precise and clean cuts every time. These scissors are specially designed for performing episiotomies during childbirth, making the process quicker and more effective. Made from high-quality materials, these scissors are a must-have for any medical professional. - Surgismart
-  Updated: 2025-10-15T09:37:34Z
+  Updated: 2025-10-25T11:28:58Z
   Vendor: Medvance Surgicals
   Product Type: Instruments
   Availability: Available
