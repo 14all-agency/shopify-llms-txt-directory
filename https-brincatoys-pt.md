@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-10-25T12:01:24.729Z
+- Updated At: 2025-10-25T16:01:19.422Z
 
 ## Products
 
@@ -3181,7 +3181,7 @@ renascer das cinzas.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/figura-titan-capitao-america-90787722-marvel-1178693627.jpg?v=1752841805
   Price: 19,99 € EUR
 - [Boneco Marvel Titan Hero Hulk | Brincatoys](https://brincatoys.pt/products/boneco-marvel-titan-hero-hulk): Descubra o incrível Boneco Marvel Titan Hero Hulk, com 30cm de ação e aventura dos Vingadores. Alta qualidade para uma experiência heróica.
-  Updated: 2025-10-13T14:29:27Z
+  Updated: 2025-10-25T12:39:15Z
   Vendor: Marvel
   Product Type: + 3 anos
   Availability: Available
@@ -4275,7 +4275,7 @@ Como jogar: As crianças colocam as cartas viradas para baixo e misturam-nas. Um
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/imaginext-jurassic-world-camp-cretaceous-carnotaurus-dinos-861081322-imaginext-1178693985.jpg?v=1752848650
   Price: 22,99 € EUR
 - [Jurassic World Rajasaurus ruge e ataca](https://brincatoys.pt/products/jurassic-world-rajasaurus-ruge-e-ataca): Recria as cenas épicas do filme com o Jurassic World Rajasaurus ruge e ataca! Este dinossauro feroz emite rugidos e realiza ataques incríveis.
-  Updated: 2025-10-13T06:31:11Z
+  Updated: 2025-10-25T14:55:11Z
   Vendor: Jurassic World
   Product Type: + 4 anos
   Availability: Available
@@ -4296,7 +4296,7 @@ Como jogar: As crianças colocam as cartas viradas para baixo e misturam-nas. Um
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/kaa-621237923-brincatoys-1178693995.jpg?v=1752848777
   Price: 7,00 € EUR
 - [Katana 100 Sleeves](https://brincatoys.pt/products/katana-100-sleeves): Proteja suas cartas como um Samurai faria com nossas novas Sleeves Katana. Honrando a tradição do primoroso artesanato japonês, estas Sleevess feitas com precisão e extremamente duráveis ​​são ideais para jogos de torneios.Eles são totalmente opacos, óptimos para baralhar e atendem aos mais altos padrões de jogadores e colecionadores.  O envio da c
-  Updated: 2025-10-13T06:31:10Z
+  Updated: 2025-10-25T12:38:36Z
   Vendor: Cartas Pokémon
   Product Type: + 6 anos
   Availability: Available
@@ -8398,7 +8398,7 @@ Figura com aproximadamente 8 cm.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/roca-sapo-81392319-brincatoys-1178695328.png?v=1752872407
   Price: 11,90 € EUR
 - [Roca Vermelha com Missangas da Hape para Bebés](https://brincatoys.pt/products/roca-vermelha-com-missangas-da-hape): Descubra a Roca Vermelha com missangas da Hape, o brinquedo perfeito para estimular os sentidos e a coordenação do seu bebé. Diversão e aprendizagem!
-  Updated: 2025-10-20T19:59:30Z
+  Updated: 2025-10-25T15:58:12Z
   Vendor: Seleção Brincatoys
   Product Type: + 0 meses
   Availability: Available
@@ -8940,7 +8940,7 @@ numerosa.Figura em borracha termoplástica não tóxica e livre d...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/transformers-generations-studio-kup-860710921-transformers-1178695506.jpg?v=1752876493
   Price: 34,99 € EUR
 - [Transformers Generations War for Cybertron:  Blackarachnia](https://brincatoys.pt/products/transformers-generations-war-for-cybertron-blackarachnia): Feras na batalha! Os mundos colidem quando os Maximals e Predacons entram numa épica batalha com os Autobots e Decepticons que mudará o destino. Poderes primais invadem o campo de batalha quando o modo animal dos Maximals e Predacons entram no combate. Esta figura de Blackarachnia vem com modo animal detalhado com textura inspirada em aranhas. O br
-  Updated: 2025-10-13T06:26:34Z
+  Updated: 2025-10-25T12:55:06Z
   Vendor: Transformers
   Product Type: + 8 anos
   Availability: Available
@@ -10138,7 +10138,7 @@ do tempo a caçar no gelo marinho.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/mini-bolsa-top-model-251197523-brincatoys-1178695878.jpg?v=1752883217
   Price: 16,99 € EUR
 - [Lápis de Cor Apagáveis TOPModel | Desenho sem Limites](https://brincatoys.pt/products/lapis-de-cor-apagaveis): Descubra os Lápis de Cor Apagáveis TOPModel e eleve a sua arte. Cores vibrantes e possibilidade de apagar: a escolha perfeita para qualquer artista.
-  Updated: 2025-10-13T06:25:19Z
+  Updated: 2025-10-25T14:15:25Z
   Vendor: Seleção Brincatoys
   Product Type: + 2 anos
   Availability: Available
@@ -11104,7 +11104,7 @@ do tempo a caçar no gelo marinho.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/my-little-pony-bff-adventure-zipp-storm-e-princess-petals-90380123-my-little-pony-1178696353.jpg?v=1752891255
   Price: 14,99 € EUR
 - [Five Nights at Freddy's - Circus Bonnie | Brincatoys](https://brincatoys.pt/products/five-nights-at-freddys-circus-bonnie): Circus Bonnie é um personagem do jogo Five Nights at Freddy's. Ele é uma variação de Bonnie, um dos animatrônicos originais do primeiro jogo. Tem aproximadamente 12,5 cm de altura e é detalhado com precisão para se assemelhar ao personagem do jogo. Circus Bonnie é um dos antagonistas de Five Nights at Freddy's e aparece na quarta parcela do jogo. C
-  Updated: 2025-10-13T06:24:16Z
+  Updated: 2025-10-25T12:55:16Z
   Vendor: Five Nights at Freddy's
   Product Type: + 8 anos
   Availability: Available
@@ -13145,14 +13145,14 @@ Figura com aproximadamente 10,8 cm.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/barbie-extra-fashion-20725623-0194735072569-barbie-1178697324.jpg?v=1752801243
   Price: 29,99 € EUR
 - [Boneca Recém-nascida Mia Pee 42 cm](https://brincatoys.pt/products/boneca-recem-nascida-mia-pee-42-cm): A recém-nascida Mia Pee é uma charmosa boneca interactiva da marca líder Muñecas Antonio Juan. Esta boneca de 42 cm foi projectada para proporcionar uma experiência de jogo imersiva e realista para crianças, com a capacidade de fazer xixi depois de serem alimentadas com biberão. Mia é especial, porque quando a colocas na cama, ela fecha os olhos para dormir , o que aumenta o seu realismo e a torna uma companheira de brincadeiras ideal. Ela vem com uma variedade de acessórios, como chupeta e fralda , facilitando a dramatização e a imaginação. Uma das características de destaque de Mia é sua adorável capa de rato , que combina com as suas botas. Esta capa, junto com o seu macacão de tecido macio , tornam Mia irresistivelmente doce e sedutora. É um toque fantástico que certamente despertará a imaginação das crianças e tornará as brincadeiras ainda mais emocionantes. Mia tem um corpo sexuado de vinil macio . Ela é uma menina e ficará feliz por cuidares dela e trocar a fralda quando ela fizer xixi, o que proporciona uma experiência de jogo mais autêntica. Como todos os bonecos da série Antonio Juan Dolls Newborn, Mia é uma criação adorável, pensada para acompanhar os pequenos na descoberta do mundo. A sua expressão facial detalhada e a alta qualidade das suas roupas e acessórios fazem de Mia uma óptima escolha para qualquer criança. O pacote de Mia inclui um macacão, sapatinhos, corrente de chupeta, fraldas e um biberão, o que significa que as crianças podem começar a brincar com Mia assim que a tirarem da caixa. Dimensão: 42 cm. Idade Recomendada: + de 3 anos.
-  Updated: 2025-10-13T06:22:07Z
+  Updated: 2025-10-25T12:10:08Z
   Vendor: Seleção Brincatoys
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/boneca-recem-nascida-mia-pee-42-cm-575039223-brincatoys-1178697334.jpg?v=1752801616
   Price: 72,99 € EUR
 - [Boneco Recém-Nascido Azul 42 cm - Brinquedo Realista](https://brincatoys.pt/products/boneco-recem-nascido-azul-42-cm): Boneco Recém-Nascido Azul de 42 cm . Ofereça às crianças uma experiência mágica com este brinquedo de aparência realista e toque suave.
-  Updated: 2025-10-25T11:50:38Z
+  Updated: 2025-10-25T12:10:07Z
   Vendor: Seleção Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -14024,7 +14024,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/carro-de-brincar-lamborghini-sesto-elemento-1-24-682106124-8719247244017-bburago-1178697911.jpg?v=1752916457
   Price: 24,99 € EUR
 - [Porsche GT3 RS 4.0](https://brincatoys.pt/products/porsche-gt3-rs-4-0): Sinta a emoção de possuir um dos carros desportivos mais icônicos já criados. O Porsche GT3 RS 4.0 na escala 1:18 não é apenas um modelo, é uma declaração de estilo e paixão pela velocidade. A cor preta confere-lhe um encanto inquestionável, evocando uma sensação de mistério e poder. É mais do que apenas um item de colecionador; é uma celebração da engenharia alemã e do desejo humano de ir cada vez mais rápido. Cada vez que olhar para este modelo, sentirá uma emoção de excitação, como se estivesse prestes a agarrar o volante e levar o motor ao limite. Veículo de metal com componentes plásticos com um interior bem acabado, portas que abrem e detalhes extremamente detalhados que refletem a alta qualidade do design original do Porsche GT3 RS 4.0. Um artigo excelente para um colecionador ou como presente para os amantes de carros desportivos. Dimensão: 30 x 17,50 x 12 cm. Idade Recomendada: + de 3 anos.
-  Updated: 2025-10-13T06:21:11Z
+  Updated: 2025-10-25T14:35:01Z
   Vendor: Seleção Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -14045,21 +14045,21 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-de-brincar-ferrari-signature-laferrari-aperta-683690724-8719247461032-bburago-1178697926.jpg?v=1752916700
   Price: 28,90 € EUR
 - [Sweet Reborn Azul](https://brincatoys.pt/products/sweet-reborn-azul): O Sweet Reborn Azul é um bebé doce que vai gostar muito de brincar contigo. Ele usa um macacão macio para combinar com o chapéu com pompom.
-  Updated: 2025-10-13T06:21:10Z
+  Updated: 2025-10-25T12:17:43Z
   Vendor: Seleção Brincatoys
   Product Type: + 14 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/sweet-reborn-azul-578021923-brincatoys-1178697933.jpg?v=1752797300
   Price: 129,90 € EUR
 - [Sweet Reborn Rosa](https://brincatoys.pt/products/sweet-reborn-rosa): O Sweet Reborn Rosa é um bebé doce que vai gostar muito de brincar contigo. Ele usa um macacão macio para combinar com o chapéu com pompom e uma manta macia com bolinhas para acalmá-lo e abraçá-lo para dormir. Além disso, ele usa uma fralda como um bebé de verdade. Este doce recém-nascido parece um bebé de verdade, com todas as características de um bebé de verdade, tais como pele rosada e macia, as veias, a manicure… Tudo feito à mão, para que ele pareça um bebé. Possui corpo de vinil sexuado (feminino) com todos os detalhes de um bebé de verdade e é articulado. Pesa 1.090 gramas. mede 42 cm e vem acompanhado do seu certificado de autenticidade, com numeração única que garante a sua exclusividade. Dimensão: 48 x 17 x 28,50 cm. Idade Recomendada: + de 14 anos.
-  Updated: 2025-10-13T06:21:09Z
+  Updated: 2025-10-25T12:16:03Z
   Vendor: Seleção Brincatoys
   Product Type: + 14 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/sweet-reborn-rosa-578022023-brincatoys-1178697936.jpg?v=1752916809
   Price: 129,90 € EUR
 - [Boneca Reborn Martina Yogui - Boneca Realista](https://brincatoys.pt/products/boneca-reborn-martina-yogui): Boneca Reborn Martina Yogui, a boneca com aparência realista que irá derreter corações! Qualidade para o mundo mágico das crianças.
-  Updated: 2025-10-13T06:21:09Z
+  Updated: 2025-10-25T12:08:10Z
   Vendor: Seleção Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -14724,7 +14724,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-city-60403-ambulancia-de-emergencia-e-snowboarder-666040324-5702017566764-lego-1178698389.jpg?v=1752925220
   Price: 22,90 € EUR
 - [Lego City 60401 Máquina de Construção com Cilindro](https://brincatoys.pt/products/lego-city-60401-maquina-de-construcao-com-cilindro): Descubra o Lego City 60401 Máquina de Construção com Cilindro. Um conjunto com 78 peças e uma minifigura inclusa, perfeito para pequenos construtores.
-  Updated: 2025-10-18T17:12:47Z
+  Updated: 2025-10-25T12:02:11Z
   Vendor: LEGO
   Product Type: + 5 anos
   Availability: Available
@@ -14773,7 +14773,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-dreamzzz-71477-a-torre-do-homem-areia-667147724-5702017584232-lego-1178698441.jpg?v=1752926289
   Price: 89,99 € EUR
 - [Lego City 60411 Helicóptero de Resgate dos Bombeiros](https://brincatoys.pt/products/lego-city-60411-helicoptero-de-resgate-dos-bombeiros): Lego City 60411 Helicóptero de Resgate dos Bombeiros para a criançada viver aventuras de resgate! Conjunto autêntico e educacional. Ideal para presente!
-  Updated: 2025-10-19T09:11:35Z
+  Updated: 2025-10-25T12:08:27Z
   Vendor: LEGO
   Product Type: + 5 anos
   Availability: Available
@@ -16084,7 +16084,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/play-doh-kit-pequenos-chefes-diversao-e-criatividade-90690424-5010996130976-play-doh-1178699566.jpg?v=1752792381
   Price: 18,90 € EUR
 - [Play-Doh Festa da Panqueca - Diversão Criativa na Cozinha](https://brincatoys.pt/products/play-doh-festa-da-panqueca): Inspire os mini chefes com o Play-Doh Festa da Panqueca. Moldes divertidos e cores vibrantes para brincadeiras imaginativas!
-  Updated: 2025-10-13T06:18:54Z
+  Updated: 2025-10-25T12:37:35Z
   Vendor: Play-Doh
   Product Type: + 3 anos
   Availability: Available
@@ -16133,7 +16133,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/brinquedos-da-patrulha-pata-marshall-aventura-e-aprendizagem-554903325-0681147037397-patrulha-pata-1192379385.jpg?v=1757613003
   Price: 19,99 € EUR
 - [Brinquedos da Patrulha Pata - Skye Helicóptero Eco-Amigável](https://brincatoys.pt/products/patrulha-pata-skye): Descubra o helicóptero da Skye, um dos mais adorados brinquedos da Patrulha Pata, feito com plástico parcialmente reciclado. Para jovens aventureiros!
-  Updated: 2025-10-17T10:29:41Z
+  Updated: 2025-10-25T14:47:34Z
   Vendor: Patrulha Pata
   Product Type: + 3 anos
   Availability: Available
@@ -16524,13 +16524,6 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-de-brincar-iveco-daily-com-subaru-wrx-683141324-8719247919168-bburago-1178699972.jpg?v=1752788645
   Price: 17,90 € EUR
-- [Carro de brincar Ferrari Signature - SF90 Stradale Assetto Fiorano](https://brincatoys.pt/products/ferrari-signature-sf90-stradale-assetto-fiorano): Carro de brincar Ferrari Signature - SF90 Stradale Assetto Fiorano, a réplica detalhada para fãs do automobilismo. Perfeito para coleccionadores.
-  Updated: 2025-10-13T06:18:21Z
-  Vendor: Bburago
-  Product Type: + 14 anos
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-de-brincar-ferrari-signature-sf90-stradale-assetto-fiorano-681691124-8719247769084-bburago-1178699984.jpg?v=1752948482
-  Price: 79,99 € EUR
 - [Carro de Brincar Ferrari 296 GTB 1/18 - Réplica Detalhada](https://brincatoys.pt/products/carro-de-brincar-ferrari-296-gtb-1-18): Carro de brincar Ferrari 296 GTB 1/18, com detalhes autênticos e acabamento superior. Perfeito para entusiastas, descubra a elegância do design Ferrari.
   Updated: 2025-10-13T06:18:20Z
   Vendor: Bburago
@@ -16623,7 +16616,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/design-shine-pulseiras-brilhantes-para-criancas-392823424-8714274028234-brincatoys-1178700044.jpg?v=1752949935
   Price: 14,99 € EUR
 - [conjunto Creativity - Pulseiras Letras para Crianças](https://brincatoys.pt/products/conjunto-creativity-pulseiras-letras): Impulsione a criatividade infantil com o conjunto Creativity - Pulseiras Letras. O conjunto de pulseiras para crianças que incentiva habilidades manuais.
-  Updated: 2025-10-13T20:18:56Z
+  Updated: 2025-10-25T14:18:45Z
   Vendor: Seleção Brincatoys
   Product Type: + 4 anos
   Availability: Available
@@ -17323,7 +17316,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/monster-jam-megalodon-vs-hooked-770139424-0681147013940-brincatoys-1178700572.jpg?v=1752957963
   Price: 17,50 € EUR
 - [Monster Jam Marvel - Iron Man](https://brincatoys.pt/products/monster-jam-marvel-iron-man): Descubra o emocionante carro de brincar Monster Jam Marvel - Iron Man. Designdo Homem de Ferro, escala 1:64, rodas BKT. Diversão garantida.
-  Updated: 2025-10-13T06:17:25Z
+  Updated: 2025-10-25T12:37:30Z
   Vendor: Seleção Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -18149,7 +18142,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/polly-pocket-atelier-de-pintura-estudio-de-arte-portatil-20570124-194735057016-polly-pocket-1178701210.jpg?v=1752967576
   Price: 19,99 € EUR
 - [Polly Pocket - Aventura do Lama: Horas de Diversão Criativa](https://brincatoys.pt/products/polly-pocket-aventura-do-lama): Desperte a imaginação das crianças com a Polly Pocket - Aventura do Lama! Um compacto cheio de surpresas e diversão para horas de brincadeira criativa. 😊
-  Updated: 2025-10-13T06:16:28Z
+  Updated: 2025-10-25T12:02:07Z
   Vendor: Polly Pocket
   Product Type: + 4 anos
   Availability: Available
@@ -18625,7 +18618,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-creator-31160-aeronave-aviao-de-corrida-divertido-663116025-5702017822259-lego-1178701529.jpg?v=1752973086
   Price: 17,90 € EUR
 - [Conjunto de beleza das Princesas Disney encantador](https://brincatoys.pt/products/conjunto-de-beleza-das-princesas-disney): Descubra o encantador Conjunto de Beleza das Princesas Disney, perfeito para pequenas fãs! Com acessórios divertidos, a diversão é garantida!
-  Updated: 2025-10-19T09:10:17Z
+  Updated: 2025-10-25T14:18:51Z
   Vendor: Seleção Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -20181,7 +20174,7 @@ Figura em borracha termoplástica do filme Branca de neve e os sete anões.Figur
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/marvel-legends-silver-surfer-poder-cosmico-em-suas-maos-86080425-5010996283023-marvel-1181018393.jpg?v=1756212494
   Price: 36,50 € EUR
 - [Boneco Johnny Storm Marvel Legends com Acessórios](https://brincatoys.pt/products/marvel-lergends-the-fantastic-four-johnny-storm): Liberte o poder ígneo com o boneco Johnny Storm Marvel Legends! Este herói de 15 cm possui articulações dinâmicas e detalhes incríveis.🔥
-  Updated: 2025-10-13T06:14:14Z
+  Updated: 2025-10-25T14:59:30Z
   Vendor: Marvel
   Product Type: + 4 anos
   Availability: Available
@@ -21163,7 +21156,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/capsula-surpresa-figura-superkittens-para-criancas-776700425-0886144670046-brincatoys-1198015800.jpg?v=1760615408
   Price: 11,99 € EUR
 - [Hot Wheels Oracle Red Bull Racing RB20 #11](https://brincatoys.pt/products/hot-wheels-oracle-red-bull-racing-rb20-11): A coleção de Fórmula 1 não está completa sem o Hot Wheels Oracle Red Bull Racing RB20 #11. Adicione paixão à tua grelha de partida hoje!
-  Updated: 2025-10-21T23:19:16Z
+  Updated: 2025-10-25T14:35:20Z
   Vendor: Hot Wheels
   Product Type: + 14 anos
   Availability: Available
@@ -21304,8 +21297,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-22T11:22:51Z
   Total Products: 107
 - [Peluches](https://brincatoys.pt/collections/peluches)
-  Updated: 2025-10-22T11:22:51Z
-  Total Products: 110
+  Updated: 2025-10-25T15:19:30Z
+  Total Products: 112
 - [Outras categorias](https://brincatoys.pt/collections/brinquedos-outras-categorias)
   Updated: 2025-10-23T19:06:58Z
   Total Products: 233
@@ -21322,7 +21315,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-24T11:21:26Z
   Total Products: 246
 - [Bonecas clássicas](https://brincatoys.pt/collections/bonecas-classicas)
-  Updated: 2025-10-25T11:53:57Z
+  Updated: 2025-10-25T13:35:02Z
   Total Products: 62
 - [Bonecas de Pano](https://brincatoys.pt/collections/bonecas-de-pano)
   Updated: 2025-10-19T09:15:46Z
@@ -21379,8 +21372,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-24T11:21:26Z
   Total Products: 325
 - [2 - 3 anos](https://brincatoys.pt/collections/2-3-anos)
-  Updated: 2025-10-25T11:54:27Z
-  Total Products: 1583
+  Updated: 2025-10-25T15:19:37Z
+  Total Products: 1585
 - [4 - 5 anos](https://brincatoys.pt/collections/4-5-anos)
   Updated: 2025-10-24T11:21:26Z
   Total Products: 704
@@ -21412,14 +21405,14 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-25T11:36:15Z
   Total Products: 3379
 - [Até €80](https://brincatoys.pt/collections/ate-80)
-  Updated: 2025-10-25T11:36:15Z
-  Total Products: 3457
+  Updated: 2025-10-25T15:18:27Z
+  Total Products: 3456
 - [Até €100](https://brincatoys.pt/collections/ate-100)
-  Updated: 2025-10-25T11:36:15Z
-  Total Products: 3506
+  Updated: 2025-10-25T15:18:27Z
+  Total Products: 3505
 - [Novidades](https://brincatoys.pt/collections/novidades)
-  Updated: 2025-10-25T11:53:57Z
-  Total Products: 411
+  Updated: 2025-10-25T15:19:30Z
+  Total Products: 413
 - [Outlet](https://brincatoys.pt/collections/outlet): Oportunidades Outlet exclusivo online. Artigos limitados ao stock existente. Acumulável com outros descontos ou promoções.
   Updated: 2025-10-22T20:29:39Z
   Total Products: 50
@@ -21607,8 +21600,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-19T09:15:50Z
   Total Products: 9
 - [Catálogo](https://brincatoys.pt/collections/all)
-  Updated: 2025-10-25T11:36:15Z
-  Total Products: 3539
+  Updated: 2025-10-25T15:18:27Z
+  Total Products: 3538
 - [6 - 7 anos](https://brincatoys.pt/collections/6-7-anos)
   Updated: 2025-10-24T11:21:26Z
   Total Products: 285
@@ -21640,14 +21633,14 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-19T09:15:50Z
   Total Products: 90
 - [+ 14 anos](https://brincatoys.pt/collections/14-anos)
-  Updated: 2025-10-23T11:22:38Z
-  Total Products: 88
+  Updated: 2025-10-25T15:18:27Z
+  Total Products: 87
 - [Os mais procurados](https://brincatoys.pt/collections/os-mais-populares)
-  Updated: 2025-10-25T11:36:15Z
-  Total Products: 3540
+  Updated: 2025-10-25T15:18:27Z
+  Total Products: 3539
 - [Recém-chegados](https://brincatoys.pt/collections/recem-chegados)
-  Updated: 2025-10-25T11:36:15Z
-  Total Products: 3540
+  Updated: 2025-10-25T15:18:27Z
+  Total Products: 3539
 - [Produtos em destaque](https://brincatoys.pt/collections/produtos-em-destaque)
   Updated: 2025-10-22T11:22:51Z
   Total Products: 22
@@ -21658,8 +21651,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-19T09:15:50Z
   Total Products: 6
 - [OrderlyEmails - Recommended Products](https://brincatoys.pt/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-10-25T11:19:50Z
-  Total Products: 3056
+  Updated: 2025-10-25T12:38:01Z
+  Total Products: 3053
 - [Girafa Sofia](https://brincatoys.pt/collections/girafa-sofia)
   Updated: 2025-10-19T09:15:51Z
   Total Products: 19
@@ -21667,11 +21660,11 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-25T11:34:07Z
   Total Products: 125
 - [Marketplace](https://brincatoys.pt/collections/marketplace)
-  Updated: 2025-10-25T11:19:50Z
-  Total Products: 3056
+  Updated: 2025-10-25T12:38:01Z
+  Total Products: 3053
 - [EzConnector](https://brincatoys.pt/collections/ezconnector)
-  Updated: 2025-10-25T11:53:58Z
-  Total Products: 918
+  Updated: 2025-10-25T15:19:30Z
+  Total Products: 919
 
 ## Blogs
 
