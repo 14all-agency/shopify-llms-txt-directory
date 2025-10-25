@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2025-10-25T12:01:03.388Z
+- Updated At: 2025-10-25T16:00:55.277Z
 
 ## Products
 
@@ -8027,7 +8027,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Turtle-Neck-Long-Sleeve-Ribbed-Sweater-Dress-Brinxx-Couture-5587.jpg?v=1709844865
     Price: $50.00 USD
 - [Plaid Collared Flounce Sleeve Shirt Dress - Brinxx Couture](https://www.brinxxcouture.com/products/plaid-collared-neck-flounce-sleeve-shirt-dress): This Plaid Collared Neck Flounce Sleeve Shirt Dress is the epitome of fashion. Perfect for day or night, its timeless plaid pattern is equipped with a collared neckline.
-  Updated: 2025-10-25T07:20:48Z
+  Updated: 2025-10-25T13:03:37Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -22053,7 +22053,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Drawstring-Long-Sleeve-Top-and-Shorts-Lounge-Set-Brinxx-Couture-7833_f649b4c4-31b9-490a-a999-d715291eec52.jpg?v=1736049829
     Price: $41.54 USD
 - [Lapel Collar Sherpa Coat - Brinxx Couture](https://www.brinxxcouture.com/products/lapel-collar-sherpa-coat): Step out in style with our Lapel Collar Sherpa Coat! This coat features a lapel collar design that adds a touch of sophistication to your ensemble.
-  Updated: 2025-10-24T17:15:07Z
+  Updated: 2025-10-25T15:55:00Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -23179,7 +23179,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Notch-Lapel-Woven-Coat-with-Side-Pockets-Brinxx-Couture-2936.jpg?v=1730297108
     Price: $40.00 USD
 - [Cable-Knit Round Neck Sweater Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress): Wrap yourself in cozy comfort and timeless style with our Cable-Knit Round Neck Sweater Dress! Made from soft, high-quality materials.
-  Updated: 2025-10-25T12:00:41Z
+  Updated: 2025-10-25T14:00:41Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -23189,7 +23189,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Cable-Knit-Round-Neck-Sweater-Dress-Brinxx-Couture-228.jpg?v=1730297216
     Price: $49.99 USD
   - [Tan / M](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress?variant=43426819539126)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Cable-Knit-Round-Neck-Sweater-Dress-Brinxx-Couture-228.jpg?v=1730297216
     Price: $49.99 USD
   - [Tan / L](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress?variant=43426819571894)
@@ -27162,7 +27162,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Heel-High-Leg-Boot-Large-Tube-Circumference-Pointed-Sleeve-Lace-Boots-Boots-Brinxx-Couture-7467.jpg?v=1730301667
     Price: $59.99 USD
 - [Letter Buckle And Button Detail Pants - Brinxx Couture](https://www.brinxxcouture.com/products/letter-buckle-and-button-detail-pants): Elevate Your Style with Our Letter Buckle and Button Detail Pants Upgrade your wardrobe with our Letter Buckle and Button Detail Pants, a bold and stylish piece.
-  Updated: 2025-09-25T02:05:36Z
+  Updated: 2025-10-25T12:11:30Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -29097,7 +29097,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/756c81cf-2017-4cc7-8a8c-c69b6dfa4f63-Max.jpg?v=1736526406
     Price: $24.99 USD
 - [One-Shoulder Satin Ruched Slit Maxi Dress - Brinxx Couture](https://www.brinxxcouture.com/products/one-shoulder-satin-ruched-slit-maxi-dress): Elevate your style with our One-Shoulder Satin Ruched Slit Maxi Dress. This sleek and sophisticated dress features a one-shoulder design, ruching detail, and a sexy side slit.
-  Updated: 2025-10-01T22:51:22Z
+  Updated: 2025-10-25T12:12:50Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -34598,24 +34598,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/S7a1cc38065754e02a1c448cf11b81e1fl.webp?v=1756475815
     Price: $59.99 USD
-- [Stand Collar Sweater Bodycon Dress - Brinxx Couture](https://www.brinxxcouture.com/products/stand-collar-sweater-bodycon-dress): Step out in style with this Stand Collar Sweater Bodycon Dress, where cozy meets curve-hugging chic. Its snug fit highlights your silhouette. Free Shipping!
-  Updated: 2025-09-23T02:14:25Z
-  Vendor: Brinxx Couture
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/CC59690.jpg?v=1757094514
-  - [S](https://www.brinxxcouture.com/products/stand-collar-sweater-bodycon-dress?variant=44250649821366)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/CC59690.jpg?v=1757094514
-    Price: $39.99 USD
-  - [M](https://www.brinxxcouture.com/products/stand-collar-sweater-bodycon-dress?variant=44250649854134)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/CC59690.jpg?v=1757094514
-    Price: $39.99 USD
-  - [L](https://www.brinxxcouture.com/products/stand-collar-sweater-bodycon-dress?variant=44250649886902)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/CC59690.jpg?v=1757094514
-    Price: $39.99 USD
 - [Black Faux Leather Long Sleeve Dress - Venly | Stylish Women's Fashion](https://www.brinxxcouture.com/products/black-faux-leather-long-sleeve-dress): Elevate your style with our sleek black faux leather long sleeve dress. Perfect for date nights, parties, or professional events. Shop Venly's premium women's fashion.
   Updated: 2025-09-23T20:21:08Z
   Vendor: Brinxx Couture
