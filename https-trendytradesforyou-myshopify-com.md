@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2025-09-22T20:38:47Z
 - Contact Email: gemzmorris890@gmail.com
-- Updated At: 2025-10-24T20:00:37.852Z
+- Updated At: 2025-10-25T00:00:40.548Z
 
 ## Products
 
@@ -5219,7 +5219,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/e1c1cb4f-23ea-4524-82df-fc3692090b79-Max.webp?v=1760995832
     Price: £29.99 GBP
 - [Christmas Santa Print Round Neck Top and Shorts Lounge Set](https://trendytradesforyou.myshopify.com/products/christmas-santa-print-round-neck-top-and-shorts-lounge-set): Features:Basic style Number of pieces:Two-piece Stretch:Slightly stretchy Material composition:95% polyester, 5% elastane Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Hip Bust Sleeve Length Waist Length S 24 40.9 40.6 20.3 26 13.8 M 24.8 43.3 42.9 20.5 28.3 14.2 L 25.6 45.7 45.3 20.7 30.7 14.6 XL 26.4 48.8 48.4 20.7 33.9 15
-  Updated: 2025-10-24T14:00:44Z
+  Updated: 2025-10-24T23:53:15Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5229,11 +5229,11 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/1cdf1c46-a5c6-4d6f-b31e-eeb75e3a27b8-Max-Origin.webp?v=1760995912
     Price: £32.99 GBP
   - [Dusty Pink / M](https://trendytradesforyou.myshopify.com/products/christmas-santa-print-round-neck-top-and-shorts-lounge-set?variant=52625145266509)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/1cdf1c46-a5c6-4d6f-b31e-eeb75e3a27b8-Max-Origin.webp?v=1760995912
     Price: £32.99 GBP
   - [Dusty Pink / L](https://trendytradesforyou.myshopify.com/products/christmas-santa-print-round-neck-top-and-shorts-lounge-set?variant=52625145299277)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/1cdf1c46-a5c6-4d6f-b31e-eeb75e3a27b8-Max-Origin.webp?v=1760995912
     Price: £32.99 GBP
   - [Dusty Pink / XL](https://trendytradesforyou.myshopify.com/products/christmas-santa-print-round-neck-top-and-shorts-lounge-set?variant=52625145332045)
@@ -5257,7 +5257,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/98011ac2-67db-46a5-9ea2-c2ee418c06d0-Max-Origin.webp?v=1760995912
     Price: £32.99 GBP
 - [Solid Color Oversize Slit Sweatshirt and Ribbed Leggings 2pcs Set](https://trendytradesforyou.myshopify.com/products/solid-color-oversize-slit-sweatshirt-and-ribbed-leggings-2pcs-set): Features:Basic style Number of pieces:Two-piece Stretch:Slightly stretchy Material composition:65% polyester, 35% cotton Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Top Length Bust Bottom Length Hip S 24.4 27 42.9 38.6 27.6 M 26.8 27.8 45.3 39 29.9 L 29.1 28.5 47.6 39.4 32.3 XL 32.3 29.3 50.8 39.8 35.4
-  Updated: 2025-10-24T19:00:41Z
+  Updated: 2025-10-24T23:40:56Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5655,7 +5655,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/bb21eb4bd50a4f3c8930a1de19db23a4-Max-Origin.webp?v=1761052163
     Price: £24.99 GBP
 - [Cable-Knit Round Neck Sweater Dress](https://trendytradesforyou.myshopify.com/products/cable-knit-round-neck-sweater-dress): Features: Cable-Knit Stretch: Slightly stretchy Material composition: 100% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Bust Shoulder Sleeve Length Hip Length S 4 42.5 22.4 21.7 38.2 31.9 M 6/8 44.9 23.6 21.7 40.6 32.7 L 10/12 47.2 24.8 21.7 42.9 33.5 XL 14/16 50.4 26.4 21.7 46.1 34.3
-  Updated: 2025-10-24T18:00:39Z
+  Updated: 2025-10-24T22:20:36Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5717,7 +5717,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/e2fb223d-21ee-4ae3-9e12-2a0a7dfbf3b2-Max.webp?v=1761055976
     Price: £37.99 GBP
   - [Tan / L](https://trendytradesforyou.myshopify.com/products/cable-knit-round-neck-sweater-dress?variant=52629555020109)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/e2fb223d-21ee-4ae3-9e12-2a0a7dfbf3b2-Max.webp?v=1761055976
     Price: £37.99 GBP
   - [Tan / XL](https://trendytradesforyou.myshopify.com/products/cable-knit-round-neck-sweater-dress?variant=52629555052877)
@@ -6579,7 +6579,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/546db321-09b2-4366-845a-9705df2a96cd-Max-Origin.webp?v=1761084802
     Price: £23.99 GBP
 - [Double Take Full Size Nutcracker Sequin Bow Decor Cardigan](https://trendytradesforyou.myshopify.com/products/double-take-full-size-nutcracker-sequin-bow-decor-cardigan): Features: Sequin, Bow Stretch: Moderate stretch Material composition: 100% acrylic Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Shoulder Bust Sleeve Length S/M 22.4 21.7 42.1 21.3 L/XL 23.2 23.2 46.1 21.3 2XL/3XL 24 24.8 50 21.3
-  Updated: 2025-10-24T18:42:51Z
+  Updated: 2025-10-24T20:45:21Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -6915,7 +6915,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/2af3324d-3e9e-439b-8fc2-153c763bb3c5-Max.webp?v=1761330654
     Price: £41.99 GBP
 - [Double Take Full Size Half Button Long Sleeve Hoodie](https://trendytradesforyou.myshopify.com/products/double-take-full-size-half-button-long-sleeve-hoodie): Features: Buttoned, Drawstring Sheer: Opaque Stretch: Moderate stretch Material composition: 65% cotton, 30% polyester, 5% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Top Length Shoulder Bust Sleeve Length S 2/4 28 23.4 44.5 19.3 M 6/8 28.3 24.2 46.9 19.3 L 10/12 28.7 25 49.2 19.3 XL 14/16 29.1 26.2 52.4 19.3 2XL 18/20 29.5 27.4 55.5 19.3 3XL 22 29.9 28.5 58.7 19.3
-  Updated: 2025-10-24T18:34:19Z
+  Updated: 2025-10-24T22:15:16Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
