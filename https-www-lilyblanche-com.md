@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-10-25T00:00:48.680Z
+- Updated At: 2025-10-25T04:00:51.377Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -16422,7 +16422,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £210.00 GBP
 - [King Charles III Coronation Necklace | Lily Blanche | Limited edition](https://www.lilyblanche.com/products/limited-edition-king-charles-iii-coronation-necklace): Celebrate the coronation of King Charles III with this limited-edition necklace. This stunning piece features the Commemorative Hallmark for the King's Coronation. The necklace be personalised with engraving. Order yours online today and receive a free jewellery care kit!
-  Updated: 2025-07-23T09:18:08Z
+  Updated: 2025-10-25T01:10:06Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
