@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-07-07T17:06:44Z
 - Contact Email: nikualbu92@gmail.com
-- Updated At: 2025-10-25T16:00:39.032Z
+- Updated At: 2025-10-25T20:00:35.440Z
 
 ## Products
 
@@ -356,7 +356,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/womens-athletic-shoes-white-left-front-68d434dedcf84.jpg?v=1758737653
     Price: €48.50 EUR
 - [Leggings](https://nicosstore.store/products/leggings): Stylish, durable, and a hot fashion staple. These polyester/spandex leggings are made of a comfortable microfiber yarn, and they'll never lose their stretch. • Fabric: 82% polyester, 18% spandex • Fabric weight: 6.78 oz/yd² (230 g/m²) (weight may vary by 5%) • UPF 50+ • Made of a microfiber yarn, which makes the item smooth and comfortable • Four-way stretch fabric that stretches and recovers on the cross and lengthwise grains • Elastic waistband • Overlock and coverstitch • Blank product components in the US and Mexico sourced from China • Blank product components in the EU sourced from China and Lithuania This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Age restrictions: For adults EU Warranty: 2 years Other compliance information: Meets the flammability, and formaldehyde, azo dyes, lead, cadmium, bisphenols, and phthalates level requirements. In compliance with the General Product Safety Regulation (GPSR), Albu Nicolae ensures that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact us at nikualbu92@gmail.com or write to us Atzberg 18, Mitterskirskirchen ,84335 ,DE.Size guide WAIST (cm) HIPS (cm) XS 64 90 S 68 94 M 72 98 L 80 106 XL 88 114
-  Updated: 2025-10-05T08:31:46Z
+  Updated: 2025-10-25T19:28:17Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
@@ -1429,7 +1429,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/mens-slip-on-canvas-shoes-white-front-2-68dd5b36d03d0.jpg?v=1759337292
     Price: €44.00 EUR
 - [Women’s high top canvas shoes](https://nicosstore.store/products/women-s-high-top-canvas-shoes): Don’t forget to treat your feet with care! The classic, stylish high top canvas shoes will be a great addition to your wardrobe. • 100% polyester canvas upper side • Ethylene-vinyl acetate (EVA) rubber outsole • Breathable lining, soft insole • Faux leather toe cap • Padded collar, lace-up front • Soles and laces in matching colors • Blank product sourced from China Important: This product is available in the following countries: United States, Canada, Australia, United Kingdom, New Zealand, Japan, Austria, Andorra, Belgium, Bulgaria, Croatia, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Holy See (Vatican city), Hungary, Iceland, Ireland, Italy, Latvia, Lithuania, Liechtenstein, Luxemburg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, San Marino, Slovakia, Slovenia, Switzerland, Spain, Sweden, and Turkey. If your shipping address is outside these countries, please choose a different product. Disclaimer: The shoes will have a glue-like smell when opening the box. The smell will disappear a few days after the shoes are unpacked. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Age restrictions: For adults EU Warranty: 2 years Other compliance information: Meets the lead, cadmium, phthalates, mercury, phthalates, formaldehyde, bisphenols and flammability level requirements. In compliance with the General Product Safety Regulation (GPSR), Albu Nicolae ensures that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact us at nikualbu92@gmail.com or write to us Atzberg 18, Mitterskirskirchen ,84335 ,DE.Size guide US WOMEN UK EUROPE JAPAN FOOT LENGTH (inches) OUTSOLE LENGTH (inches) 5 5 2.5 35.5 22 8 ⅝ 9 ¾ 5.5 5.5 3 36 22.5 8 ⅞ 9 ¾ 6 6 3.5 36.5 23 9.00 10.00 6.5 6.5 4 37.5 23.5 9 ⅛ 10 ¼ 7 7 4.5 38 24 9 ¼ 10 ¼ 7.5 7.5 5 38.5 24.5 9 ½ 10 ⅝ 8 8 5.5 39 25 9 ⅝ 10 ⅝ 8.5 8.5 6 40 25.5 9 ¾ 10 ¾ 9 9 6.5 40.5 26 10.00 11 ⅛ 9.5 9.5 7 41 26.5 10 ⅛ 11 ⅛ 10 10 7.5 42 27 10 ¼ 11 ⅜ 10.5 10.5 8 42.5 27.5 10 ½ 11 ⅝ 11 11 8.5 43 28 10 ⅝ 11 ⅝ 11.5 11.5 9 44 28.5 10 ¾ 12.00 12 12 9.5 44.5 29 11.00 12 ⅛ US WOMEN UK EUROPE JAPAN FOOT LENGTH (cm) OUTSOLE LENGTH (cm) 5 5 2.5 35.5 22 22 24.8 5.5 5.5 3 36 22.5 22.6 24.8 6 6 3.5 36.5 23 22.9 25.4 6.5 6.5 4 37.5 23.5 23.2 26.2 7 7 4.5 38 24 23.5 26.2 7.5 7.5 5 38.5 24.5 24.1 27 8 8 5.5 39 25 24.5 27 8.5 8.5 6 40 25.5 24.8 27.3 9 9 6.5 40.5 26 25.4 28.3 9.5 9.5 7 41 26.5 25.7 28.3 10 10 7.5 42 27 26 29 10.5 10.5 8 42.5 27.5 26.7 29.5 11 11 8.5 43 28 27 29.5 11.5 11.5 9 44 28.5 27.3 30.5 12 12 9.5 44.5 29 28 30.8
-  Updated: 2025-10-04T18:04:15Z
+  Updated: 2025-10-25T19:29:30Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
@@ -2901,7 +2901,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/71e61ef1-8138-41a2-8a10-de146f7999a0-Max-Origin.webp?v=1759681983
     Price: €44.63 EUR
 - [Double Take Full Size Half Zip Exposed Seam Fleece Hoodie](https://nicosstore.store/products/double-take-full-size-half-zip-exposed-seam-fleece-hoodie): Features: Pocketed, Exposed seam Sheer: Opaque Stretch: Slightly stretchy Material composition: 95% polyester, 5% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Top Length Bust Sleeve Length S 2/4 26 49.6 18.9 M 6/8 26.4 52 18.9 L 10/12 26.8 54.3 18.9 XL 14/16 27.2 57.5 18.9 2XL 18/20 27.6 60.6 18.9 3XL 22 28 63.8 18.9
-  Updated: 2025-10-25T05:00:16Z
+  Updated: 2025-10-25T19:16:01Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2955,7 +2955,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/9cdec346-8f02-4bee-b8c1-7a83e62b1b86-Max.webp?v=1759683956
     Price: €32.26 EUR
 - [Textured Long Sleeve Notched Sweatshirt](https://nicosstore.store/products/textured-long-sleeve-notched-sweatshirt): Features:Basic style Stretch:Slightly stretchy Material composition:95% polyester, 5% spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 24.8 39.4 0 M 25.2 40.9 0 L 25.6 43.3 0 XL 26 45.7 0 2XL 26.4 48 0
-  Updated: 2025-10-23T15:04:25Z
+  Updated: 2025-10-25T19:14:02Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2981,7 +2981,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/69970997521447278c9cdd284b7e91a1-Max-Origin.webp?v=1759686330
     Price: €26.12 EUR
 - [Lace Detail Drawstring Long Sleeve Hoodie](https://nicosstore.store/products/lace-detail-drawstring-long-sleeve-hoodie): Features:Lace Detail,Pocketed,Drawstring Stretch:Slightly stretchy Material composition:75% polyester, 25% cotton Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 25.2 40.2 27.4 M 26 42.5 28 L 26.8 44.9 28.5
-  Updated: 2025-10-25T08:41:22Z
+  Updated: 2025-10-25T19:13:24Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2999,7 +2999,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/2cafd15c-e9df-4764-9221-ceb0aea190c2-Max-Origin.webp?v=1759686586
     Price: €32.90 EUR
 - [High-Waisted Distressed Skinny Jeans](https://nicosstore.store/products/high-waisted-distressed-skinny-jeans): Features:Distressed,Pocketed Stretch:Slightly stretchy Material composition:85% cotton, 15% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Bottom Length Inseam S 24.8 37 38.6 0 M 26.8 39 38.8 0 L 28.7 40.9 39 0 XL 31.9 44.1 39.4 0
-  Updated: 2025-10-06T17:13:25Z
+  Updated: 2025-10-25T19:08:01Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -3021,7 +3021,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/255541427cc1417d84feed53feb8ef61-Max-Origin.webp?v=1759686630
     Price: €39.07 EUR
 - [Men's Distressed Slim Fit Jeans](https://nicosstore.store/products/mens-distressed-slim-fit-jeans): Features:Distressed,Raw Hem,Pocketed Stretch:Slightly stretchy Material composition:85% cotton, 15% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Bottom Length Inseam XS 24.2 33.3 47.9 0 S 25.2 34.3 48 0 M 26.2 35.2 48.1 0 L 28.5 37.6 48.4 0 XL 31.3 40.4 48.7 0
-  Updated: 2025-10-06T17:13:26Z
+  Updated: 2025-10-25T19:07:09Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -3047,7 +3047,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/967739d56efe4b268af11b2b4fa58c07-Max-Origin.webp?v=1759686651
     Price: €49.79 EUR
 - [Heart Print Button Up Top and Pants Lounge Set](https://nicosstore.store/products/heart-print-button-up-top-and-pants-lounge-set): Features:Buttoned,Fringe Number of pieces:Two-piece Stretch:Slightly stretchy Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length Bottom Length Waist Hip S 24.4 37.8 18.9 35.4 25.2 0 M 24.8 39.8 19.3 35.8 27.2 0 L 25.2 42.9 19.7 36.2 29.1 0 XL 25.6 43.7 20.1 36.6 31.1 0 2XL 26 45.7 20.5 37 33.1 0
-  Updated: 2025-10-09T01:37:21Z
+  Updated: 2025-10-25T19:06:32Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -3073,7 +3073,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d3875cfc-aabb-4ff0-95c6-fc6ccd88cb83-Max-Origin.webp?v=1759686738
     Price: €44.76 EUR
 - [Open Front Longline Cardigan with Side Pockets](https://nicosstore.store/products/open-front-longline-cardigan-with-side-pockets): Features:Buttoned,Pocketed Stretch:Slightly stretchy Material composition:95% polyester, 5% spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 31.5 37 23.6 M 31.9 38.6 24 L 32.3 40.9 24.4 XL 32.7 43.3 24.8 2XL 33.1 45.7 25.2
-  Updated: 2025-10-14T06:04:40Z
+  Updated: 2025-10-25T19:01:31Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -3159,7 +3159,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/4ba2c43e913640809642e8eec8fb59e6-Max-Origin.webp?v=1759686770
     Price: €26.70 EUR
 - [Autumn Winter Women's Long-Sleeved Hoodie Dress](https://nicosstore.store/products/autumn-winter-womens-long-sleeved-hoodie-dress): Elevate your autumn and winter wardrobe with our Autumn Winter Women Hoodies Sweatshirts Long-sleeved Dress. This versatile piece is designed for both comfort and style, perfect for cozying up on chillier days or stepping out in casual elegance. Features that you'll love: - Crafted from high-quality polyester fiber, this hoodie ensures warmth and durability, making it a staple for your seasonal collection. - The loose edition type provides a relaxed fit, allowing for easy layering without compromising on style. - With a hooded collar and long sleeves, you can stay snug and stylish, whether you're lounging at home or out with friends. - Available in a variety of colors including Grey, Red, and Black, you have the flexibility to choose a look that best suits your personality. - Featuring on-trend stitching elements, this hoodie combines comfort with a unique design flair that stands out in any crowd. - The medium length (between 65cm and 80cm) strikes the perfect balance, making it ideal for pairing with jeans, leggings, or skirts. Available in sizes ranging from S to XXL, this hoodie is designed to accommodate various body types and ensure that you find your perfect fit. Whether you prefer a snug look or a more relaxed feel, there's a size for everyone. Choose your favorite color and size today and make this stylish hoodie a key piece in your wardrobe! Explore the collection and embrace the cozy vibes of the season.
-  Updated: 2025-10-09T19:47:21Z
+  Updated: 2025-10-25T19:00:58Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
@@ -3215,7 +3215,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/pZkYYfTfygEQYem9.webp?v=1759765315
     Price: €30.99 EUR
 - [Cute Bear Winter Plush Slippers for Home Warmth](https://nicosstore.store/products/cute-bear-winter-plush-slippers-for-home-warmth): Step into Comfort and Style! Experience the perfect blend of warmth and cuteness with our Winter Plush Slippers featuring an adorable bear design. Crafted with high-grade planting flocking material, these slippers are not only stylish but also ensure your feet remain cozy and comfortable throughout the chilly days. Available in a variety of colors, you can choose the perfect pair to match your personality and home decor. The slippers' breathable and non-slip qualities make them ideal for indoor wear, allowing you to move confidently and freely in your home. Key Features: - Unique and stylish bear design - Made from soft, high-quality materials for ultimate comfort - Available in multiple sizes (36-45) to fit everyone - Non-slip TPR sole for safe indoor wear - Warm and breathable, perfect for winter days Specifications: - Sole Material: TPR - Upper Material: High-grade planting flocking (folding fleece) - Gender: Neutral (suitable for both men and women) - Style: Baotou - Heel Height: 2CM - Toe Shape: Round Available Colors: - Brown - White Get ready to treat your feet and embrace the warmth this winter!
-  Updated: 2025-10-09T19:47:22Z
+  Updated: 2025-10-25T19:00:21Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
@@ -3259,7 +3259,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/oSvYUgNGduHlt5vf.webp?v=1759765455
     Price: €20.99 EUR
 - [Casual Plaid Women's Jacket with Pockets for Fall/Winter](https://nicosstore.store/products/casual-plaid-womens-jacket-with-pockets-for-fall-winter): Step into the season with our Women's Outerwear Casual Plaid Fall Winter Loose Pocket Jacket. This stylish jacket is designed for comfort and versatility, making it the perfect addition to your fall and winter wardrobe. Crafted from high-quality materials, this jacket features a relaxed fit and functional pockets, ensuring you stay cozy while keeping your essentials close at hand. The chic plaid pattern adds a touch of sophistication, making it suitable for both casual outings and more dressed-up occasions. Available in a variety of sizes and colors, including Khaki, Black, and Coffee, you can choose the perfect combination to match your personal style. With size options ranging from S to XXL, there's a fit for everyone. Whether you're layering it over a simple tee or pairing it with your favorite sweater, this jacket is sure to elevate your look. Don't miss out on this essential piece for your fall and winter wardrobe! Check out the different styles and colors below: Experience the perfect blend of style, comfort, and functionality with our Women's Outerwear Casual Plaid Fall Winter Loose Pocket Jacket. Grab yours today and embrace the cooler months in style!
-  Updated: 2025-10-09T19:47:25Z
+  Updated: 2025-10-25T18:57:52Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
@@ -3320,14 +3320,14 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/wt3InKIzSRfPqPVB.webp?v=1759770274
     Price: €21.49 EUR
 - [Anti-Shedding Smooth Hair Mask for Frizz Control](https://nicosstore.store/products/anti-shedding-smooth-hair-mask-for-frizz-control): Transform your hair care routine with our expertly formulated Repair Damage Frizz Soft Anti-Shedding Smooth Hair Mask. This luxurious treatment is designed for all hair types, whether you have neutral, oily, or dry hair, making it the perfect addition to your beauty arsenal. Infused with a delightful coconut fragrance, this hair mask not only smells divine but also delivers powerful results. Experience the ultimate in hair rejuvenation as it provides moisturizing, hydrating, and nourishing benefits. It’s the ideal solution for protecting color-treated hair, soothing the scalp, and preventing breakage, while also tackling frizz for a smooth, polished finish. Suitable for everyone, this hair treatment cream comes in a convenient 50ml size, perfect for on-the-go hydration. With just one application, you can transform your hair into a soft, manageable masterpiece. Don’t settle for anything less than luxurious hair care. Treat yourself to the Repair Damage Frizz Soft Anti-Shedding Smooth Hair Mask and unveil your hair’s true potential.
-  Updated: 2025-10-09T19:47:26Z
+  Updated: 2025-10-25T18:56:08Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/DYRp3HelGSih6QGq.webp?v=1759772804
   Price: €8.59 EUR
 - [Personalized Christmas Leggings for Women's Fashion](https://nicosstore.store/products/personalized-christmas-leggings-for-womens-fashion): Step into the festive season with our Women's Fashion Personalized Christmas Leggings, designed to keep you stylish and comfortable all day long! Made from high-quality polyester, these leggings offer a thin material that conforms to your body, providing the perfect blend of flexibility and durability. Choose from a vibrant selection of colors including blue, red, and dark brown, all featuring charming animal patterns that add a playful touch to your holiday wardrobe. Whether you're lounging at home or heading out for festive gatherings, these leggings are versatile enough for any occasion! The leggings come in a range of sizes from S to XXXL, ensuring a great fit for every body type. Please note that Asian sizes may differ from European and American standards, so we recommend selecting a larger size if you are between sizes. With careful attention to detail, these leggings are designed to flatter your figure while providing ultimate comfort. Make sure to check the size chart before ordering, and don't hesitate to reach out to our friendly customer service team if you need assistance! Your purchase includes one pair of our fabulous leggings, perfect for gifting or treating yourself this holiday season! Explore our beautiful product images below to see the stunning designs in action: Get ready to make a statement this festive season with our Women's Fashion Personalized Christmas Leggings! Order yours today and embrace the holiday spirit in style!
-  Updated: 2025-10-09T19:47:27Z
+  Updated: 2025-10-25T18:54:52Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
@@ -3393,7 +3393,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1EuyRYuk2RvBiE9e.webp?v=1759773233
     Price: €12.50 EUR
 - [LED Light-Up Fiber Optic Sneakers for Couples](https://nicosstore.store/products/led-light-up-fiber-optic-sneakers-for-couples): Step into the future with our stunning LED Light-Up Shoes. Perfect for both men and women, these shoes are not just about style; they are a statement of individuality and fun. Whether you're heading out for a casual day or a vibrant night out, these shoes will illuminate your path and captivate attention. Designed with a shallow opening depth of below 7cm, they provide a comfortable fit for young people aged 18-40. Made from high-quality cloth, the shoes feature a round toe design with a mid heel height of 3-5 cm, ensuring you can wear them for hours without discomfort. Available in a variety of colors including white, black, pink, green, red, and grey, and numerous sizes ranging from 34 to 46, there's a perfect pair for everyone. Embrace the grid pattern design that adds a modern twist to your casual look. Don't just wear any shoes; light up your life with our LED Light-Up Shoes and stand out from the crowd. Grab your pair today and let your feet do the talking!
-  Updated: 2025-10-09T19:47:29Z
+  Updated: 2025-10-25T18:54:15Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
@@ -3549,7 +3549,7 @@
     Availability: Available
     Price: €27.16 EUR
 - [Lace Tie Dress with Sexy V-Neck Design](https://nicosstore.store/products/lace-tie-dress-with-sexy-v-neck-design): Step into elegance with our stunning lace-up dress, designed to accentuate your curves and provide a touch of allure. Featuring a sexy V-neck design, this dress is perfect for any occasion where you want to make a lasting impression. Crafted with care, this dress is available in a captivating blue hue, ensuring you stand out in style. The lace-up detailing adds a unique twist, making it not just a dress, but a statement piece. We understand that finding the perfect fit is essential. Our dress is available in various sizes, including S, M, L, and XL. Please note that Asian sizes tend to run smaller than European and American sizes, so we recommend opting for a larger size if you're between measurements. To help you choose the right size, here are the bust, waist, and length measurements: Whether you're heading out for a romantic dinner or a glamorous event, this lace-up dress will have you feeling confident and beautiful. Don’t miss out on adding this versatile and chic piece to your wardrobe!
-  Updated: 2025-10-09T19:47:30Z
+  Updated: 2025-10-25T18:29:32Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
@@ -3571,7 +3571,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/LHllK6wvUTp4d1IQ.webp?v=1759773678
     Price: €15.46 EUR
 - [Fashion V-Neck Polka Dot Women's Dress with Zipper](https://nicosstore.store/products/fashion-v-neck-polka-dot-womens-dress-with-zipper): Unleash your inner fashionista with our stunning V-neck sexy dress featuring a chic zipper design and playful polka dots! Crafted from luxurious satin, this mid-length dress is perfect for any occasion, whether it's a night out or a casual day event. The high-waisted silhouette accentuates your curves, ensuring you feel confident and stylish. This dress showcases an irregular skirt that adds a unique touch to your ensemble, making it a must-have addition to your wardrobe. Available in a vibrant red color, it is designed to make you stand out while providing unparalleled comfort. Choose from three different sizes - S, M, L - to find your perfect fit. Our size guide is tailored to help you select the best option for your body type: Transform your wardrobe with this versatile piece that pairs beautifully with heels for an elegant look or flats for a casual vibe. Don't miss out on the chance to make a fashion statement! Discover the perfect blend of comfort and style with our V-neck sexy dress.
-  Updated: 2025-10-09T19:47:31Z
+  Updated: 2025-10-25T18:28:01Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
@@ -3589,7 +3589,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/mb5DC97e6OjLZ19d.webp?v=1759773751
     Price: €12.20 EUR
 - [Red Floral Superman Print Women's Long Sleeve T-Shirt](https://nicosstore.store/products/red-floral-superman-print-womens-long-sleeve-t-shirt): Discover your new wardrobe staple with our stunning long-sleeve Superman printed women's t-shirt. Designed with a vibrant red base and adorned with a charming floral pattern, this shirt is perfect for those who want to blend comfort with a playful style. Crafted from high-quality milk silk fabric, it offers a soft touch against your skin while ensuring maximum breathability and moisture-wicking properties. Whether you're lounging at home or out with friends, this casual t-shirt will keep you feeling fresh and looking fabulous. Featuring a high elasticity design, this shirt hugs your curves perfectly and moves with you, making it an ideal choice for any activity. Available in a variety of sizes from S to XXXXL, there's a perfect fit for everyone. Check out the stunning visuals below to see just how this eye-catching t-shirt can elevate your style!
-  Updated: 2025-10-09T19:47:32Z
+  Updated: 2025-10-25T18:27:07Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
@@ -3623,9 +3623,9 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/lGII4fLVP5gMv17w.webp?v=1759773873
     Price: €9.65 EUR
 - [Classic 3D Animal Print Hoodie with US Flag Design](https://nicosstore.store/products/classic-3d-animal-print-hoodie-with-us-flag-design): Express your unique style with our eye-catching hoodies that feature stunning 3D digital prints inspired by the American flag and vibrant animal animations. Perfect for both men and women, these hoodies are not just about looks—they’re designed for comfort and durability. Crafted from high-quality materials, these hoodies provide a cozy fit that keeps you warm during cooler days. Available in a variety of sizes from S to 5XL, you can find the perfect fit that suits your style and body type. With options like the Zipper bar American flag, Vertical bar American flag, and the whimsical Purple Star Sweater, there’s something for everyone! Whether you’re lounging at home, heading out with friends, or attending a casual gathering, these hoodies will make you stand out in any crowd. The vivid colors and intricate designs ensure that you’ll receive compliments wherever you go. Don’t miss out on the chance to showcase your personality with these trendy hoodies! Check out our selection of colors and sizes, and elevate your wardrobe today: Order now and redefine your casual wear with these stylish and comfortable hoodies!
-  Updated: 2025-10-09T19:47:35Z
+  Updated: 2025-10-25T18:26:30Z
   Vendor: Nico`s Store
-  Product Type: 
+  Product Type: Hoodie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/SbKsgrPctZ7oXbwC.webp?v=1759773840
   - [Zipper bar American flag / S](https://nicosstore.store/products/classic-3d-animal-print-hoodie-with-us-flag-design?variant=55840495763781)
@@ -3821,7 +3821,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/SnA53GzpOt1b3Cvv.webp?v=1759774229
     Price: €17.67 EUR
 - [T9043 Fashion Casual Design Digital Print Set 2023](https://nicosstore.store/products/t9043-fashion-casual-design-digital-print-set-2023): Introducing our stunning 2023 Summer Fashion Set, designed for the modern individual who values both style and comfort. This unique collection features striking digital prints and a sophisticated pin design, making it the perfect choice for casual outings or trendy events. Crafted from high-quality polyester, this ensemble is not only lightweight but also breathable, ensuring you stay cool and comfortable all day long. Whether you're enjoying a sunny day out or attending a casual gathering, this outfit promises to keep you looking chic and stylish. Available in an impressive variety of colors and sizes, from Khakis Maze to Red Print, and even New Color Lake Green Print, you have the freedom to express your personal style. With sizes ranging from S to XXXL, there is a perfect fit for everyone. Don't miss out on the chance to elevate your wardrobe with this fashionable set. Explore our collection and choose your favorite style today! Experience the blend of comfort, style, and versatility with our 2023 Summer Fashion Set. Shop now and embrace a wardrobe that speaks to your unique style!
-  Updated: 2025-10-09T19:47:39Z
+  Updated: 2025-10-25T18:25:31Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
@@ -4027,7 +4027,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/W2by3AC98ub0P0SE.webp?v=1759773944
     Price: €17.24 EUR
 - [1855 Women's Knit Sneakers with Thick Wedge Sole](https://nicosstore.store/products/1855-womens-knit-sneakers-with-thick-wedge-sole): Step into comfort and style with our latest collection of 1855 Sneakers. These casual shoes are designed for women who appreciate both functionality and fashion. Made with a combination of high-quality materials, including a PU sole and breathable mesh inner lining, these sneakers guarantee a comfortable fit and durability for everyday wear. The low upper height of the shoe allows for easy wear, while the viscose technology in the sole ensures that each step you take is cushioned and supportive. Choose from a variety of colors including the striking black purple, trendy dark blue, vibrant purplish red, refreshing green, chic ash powder, and classic black and white. Available in sizes ranging from 35 to 45, our sneakers are perfect for women of all shapes and sizes. Whether you're running errands, hitting the gym, or enjoying a casual day out, these sneakers will keep your feet happy and stylish. Don't miss out on the chance to elevate your footwear collection with the versatile and stylish 1855 Sneakers. Choose your favorite color and size today, and experience the perfect blend of comfort and chic design!
-  Updated: 2025-10-09T19:47:43Z
+  Updated: 2025-10-25T18:24:38Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
@@ -4233,7 +4233,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/P16cpQ54RYsD3eOz.webp?v=1759774195
     Price: €13.83 EUR
 - [Solid Color Women's Long Sleeve Zip Lapel Sweater](https://nicosstore.store/products/solid-color-womens-long-sleeve-zip-lapel-sweater): Elevate your autumn wardrobe with our Solid Color Women's New Zip Lapel Long Sleeve Pullover Sweater. This stylish pullover is designed to keep you cozy while making a fashion statement. With a unique half-open collar and an eye-catching zipper detail, it adds a trendy twist to your everyday look. Crafted with a medium thickness, this sweater is perfect for layering during the cooler months. The non-ironing treatment ensures that you can enjoy a wrinkle-free appearance, making it ideal for both casual outings and more polished occasions. Available in an array of stunning colors including beige, black, white, green, and grey, it caters to diverse style preferences. Choose from various sizes ranging from S to 2XL to find your perfect fit. Whether you're pairing it with jeans for a laid-back look or dressing it up with a skirt, this pullover is versatile enough to suit any occasion. Don't miss out on the opportunity to add this essential piece to your collection!
-  Updated: 2025-10-09T19:47:45Z
+  Updated: 2025-10-25T18:22:43Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
@@ -4324,7 +4324,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8zJsu0KlHNCHb8kt.webp?v=1759774249
     Price: €19.75 EUR
 - [Korean Style Sweet Stiletto High Heel Women's Shoes](https://nicosstore.store/products/korean-style-sweet-stiletto-high-heel-womens-shoes): Step into the spotlight with our stunning Korean style sweet women's shoes, designed to elevate your style and confidence. These stiletto high heels are the perfect blend of elegance and comfort, making them a must-have addition to your wardrobe for any occasion. Crafted with a focus on both fashion and function, these shoes feature a non-slip and wear-resistant sole that ensures you can strut your stuff with confidence. Whether you're heading out for a casual brunch, a night out on the town, or a special event, these heels will keep you looking chic and feeling fabulous. Available in a variety of colors and sizes, our shoes are tailored to suit your unique style. With options ranging from size 34 to 43, you’re sure to find your perfect fit. Perfect for spring, summer, and autumn, these versatile shoes can be paired with dresses, skirts, or even your favorite jeans, making them an essential piece for your fashion-forward wardrobe. Check out our stunning images below to see how these beautiful shoes can elevate your look: Don't miss out on these gorgeous heels that promise to bring a touch of glamour to your everyday outfit. Grab your pair today and step out in style!
-  Updated: 2025-10-09T19:47:48Z
+  Updated: 2025-10-25T18:22:04Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
@@ -4530,7 +4530,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/wWfbCTYciN9O4fFV.webp?v=1759778078
     Price: €26.09 EUR
 - [Men's Autumn Winter Knit Sweater with High Collar](https://nicosstore.store/products/mens-autumn-winter-knit-sweater-with-high-collar): Experience the perfect blend of style and comfort with our latest high collar knitted sweater. Designed for the modern man, this sweater features a classic turtleneck style that not only keeps you warm during the chilly autumn and winter months but also adds a touch of sophistication to your outfit. Available in three stunning colors: White, Black, and Dark Grey, this sweater is tailored to fit a variety of sizes from S to XXL. Its long sleeves and absence of a hood make it a versatile piece that can easily be layered over a shirt or worn alone for a sleek look. Each sweater is crafted with care, ensuring a comfortable fit with a lightweight feel. Whether you’re heading out for a casual day or dressing up for a night out, this sweater is the perfect companion. Pair it with your favorite jeans or chinos for a look that exudes confidence and style. Check out the stunning visuals below to see how this sweater can elevate your wardrobe: Don’t miss out on this essential wardrobe staple. Get yours today and step out in style!
-  Updated: 2025-10-09T19:47:49Z
+  Updated: 2025-10-25T18:21:12Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
@@ -4593,7 +4593,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/b6lKVJmRrU9h11t3.webp?v=1759777655
     Price: €13.65 EUR
 - [Men's Solid Color Single Breasted Jacket](https://nicosstore.store/products/mens-solid-color-single-breasted-jacket): Elevate your style with our Men Single Breasted Solid Color Jacket. Crafted from high-quality cotton, this jacket is the perfect blend of comfort and sophistication, making it an essential addition to any man's wardrobe. Its casual style and round hem design ensure that you can wear it for various occasions, whether you're heading to a casual outing or simply running errands. Available in three versatile colors: Khaki, Black, and Army Green, you can choose the shade that best suits your personal style. The solid color adds a touch of modernity, allowing for easy pairing with any outfit. Size Information: With a variety of sizes ranging from M to 4XL, finding your perfect fit is a breeze. Check out our size chart to ensure the best fit for your body type. Embrace versatility with this jacket that can be dressed up or down. Pair it with jeans for a relaxed look or wear it over a dress shirt for a more polished appearance. Explore our stunning gallery showcasing the jacket in different angles: Don’t miss out on this opportunity to enhance your wardrobe with a piece that combines style, comfort, and versatility. Order your Men Single Breasted Solid Color Jacket today and step out in confidence!
-  Updated: 2025-10-09T19:47:50Z
+  Updated: 2025-10-25T18:18:37Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
@@ -4671,7 +4671,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/3kx9djMHVaPZfWnw.webp?v=1759860147
     Price: €27.94 EUR
 - [Fashionable Studded Backpack and Versatile Crossbody Bag](https://nicosstore.store/products/fashionable-studded-backpack-and-versatile-crossbody-bag): Introducing our stylish mini backpack, the perfect blend of urban simplicity and modern flair. Crafted from high-quality PU leather, this chic accessory is designed to elevate your look while providing ultimate functionality. Available in two stunning colors, black and white, this versatile bag effortlessly adapts to any outfit, making it suitable for various occasions, including business travel. Its compact dimensions of 210mm height, 180mm length, and 110mm width ensure that you can carry your essentials without compromising on style. Featuring a unique studded design, this dual-purpose backpack can be worn as a shoulder bag or a crossbody bag, allowing you to switch up your style effortlessly. Weighing just 0.63kg, it’s lightweight and easy to carry, perfect for those on the go! Enhance your collection with this must-have accessory that combines practicality and fashion. Don’t miss out on the opportunity to own a piece that truly reflects your unique style!
-  Updated: 2025-10-09T19:47:53Z
+  Updated: 2025-10-25T18:17:56Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
@@ -4684,8 +4684,11 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/JR0AZJ6WAJZm2ovS.webp?v=1759860847
     Price: €29.88 EUR
+  - [Pink](https://nicosstore.store/products/fashionable-studded-backpack-and-versatile-crossbody-bag?variant=56058918109509)
+    Availability: Not Available
+    Price: €29.88 EUR
 - [Women's Autumn New Flyknit Casual Sports Shoes](https://nicosstore.store/products/womens-autumn-new-flyknit-casual-sports-shoes): Discover the perfect blend of comfort and style with our new collection of women's flying woven shoes, designed specifically for the modern woman who values both fashion and functionality. These low-heeled sneakers are the ideal companion for casual outings, exercise, or simply enjoying a leisurely stroll. Crafted with a soft injection sole that ensures long-lasting comfort, each step you take will feel like walking on clouds. The interior is lined with breathable cloth material, allowing your feet to stay cool and comfortable all day long. Whether you're running errands or spending time with loved ones, these stylish shoes provide the perfect balance of support and ease. Our shoes feature a shallow mouth design, making them easy to slip on and off while maintaining a chic aesthetic. The flat heel offers stability and comfort, ensuring that you can walk with confidence. Available in a variety of sizes and colors, including classic black, trendy blue, playful pink, and elegant grey, you can find the perfect pair to match your unique style. Check out the images below to see how these versatile shoes can elevate your wardrobe: With a wide range of sizes from 36 to 40, finding your perfect fit has never been easier. Embrace comfort without sacrificing style - make these shoes a staple in your wardrobe today!
-  Updated: 2025-10-09T19:47:54Z
+  Updated: 2025-10-25T18:14:09Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
@@ -4771,7 +4774,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/dWLRYHvWRqZzpjJ9.webp?v=1759861068
     Price: €26.39 EUR
 - [Double Take Full Size Plaid Long Sleeve Hooded Coat](https://nicosstore.store/products/double-take-full-size-plaid-long-sleeve-hooded-coat): Features: Basic style Thickness: Normal Body: Not lined Material composition: 100% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Top Length Sleeve Length Bust S 6/8 27.6 25.2 42.5 M 10/12 28 25.6 44.9 L 14 28.3 26 47.2 XL 16 28.7 26.4 49.6 2XL 18/20 29.1 26.8 53.5 3XL 22/24 29.5 27.2 57.5
-  Updated: 2025-10-16T19:30:15Z
+  Updated: 2025-10-25T18:13:20Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -4873,7 +4876,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/5af58fd0-4597-42a0-9982-721b9bcc9374-Max.webp?v=1759861313
     Price: €10.99 EUR
 - [Full Size Striped Trim Button Down Jacket and Pants Set Plus Size](https://nicosstore.store/products/full-size-striped-trim-button-down-jacket-and-pants-set-plus-size): Features:Buttoned,Pocketed Number of pieces:Two-piece Stretch:Slightly stretchy Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Shoulder Bottom Length Waist Hip XS 28 37.8 23.2 40.9 25.2 38.6 S 28.3 39.4 23.6 41.3 26.8 40.2 M 28.7 40.9 24 41.7 28.3 41.7 L 29.1 43.3 24.4 42.1 30.7 44.1 XL 29.5 45.7 24.8 42.5 33.1 46.5 2XL 29.9 48 25.2 42.9 35.4 48.8 3XL 30.3 50.4 25.6 43.3 37.8 51.2
-  Updated: 2025-10-22T01:00:30Z
+  Updated: 2025-10-25T18:12:32Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5079,7 +5082,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/c5fecea26ea84a26bea04e3a64641ebf-Max-Origin.webp?v=1759861505
     Price: €29.99 EUR
 - [Button Up Vest and Jeans Denim Set](https://nicosstore.store/products/button-up-vest-and-jeans-denim-set): Features:Buttoned,Pocketed Number of pieces:Two-piece Stretch:No stretch Material composition:95% rayon, 5% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Hip Bust Shoulder Waist Inseam S 20.1 40.2 40.2 17.3 27.6 29.9 M 20.5 42.1 42.1 17.7 29.5 30.1 L 20.9 44.1 44.1 18.1 31.5 30.3 XL 21.3 47.2 47.2 18.5 33.5 30.5
-  Updated: 2025-10-08T06:28:19Z
+  Updated: 2025-10-25T18:11:07Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5117,9 +5120,9 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/317e9c956d4c40d991cfec0067be0d58-Max-Origin.webp?v=1759861688
     Price: €39.99 EUR
 - [Men's Casual Color Block Zip Up Jacket With Hood](https://nicosstore.store/products/mens-casual-color-block-zip-up-jacket-with-hood-varsity-style-soft-fleece-lining-perfect-for-fall-winter-ideal-gift-for-teenagers-young-adults): SPECIFICATIONSApplicable People: MenBelt: NoCollar Style: HoodedComposition: 100% PolyesterDetails: ZipperFabric: Slight StretchFit Type: RegularItem ID: MN02556Length: RegularMaterial: PolyesterOccasion: Weekend CasualOperation Instruction: Machine wash, do not dry cleanOrigin: Jiangxi,ChinaOther Material: PolyesterPattern: PatchworkPlacket Type: PlacketSeason: WinterSheer: NoSleeve Length: Long SleeveSleeve Type: Regular SleeveStyle: CasualType: HoodieWeaving Method: Knit Fabric
-  Updated: 2025-10-23T05:38:25Z
+  Updated: 2025-10-25T18:10:31Z
   Vendor: Nico`s Store
-  Product Type: 
+  Product Type: Hoodie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8ffb453070e56cfb317f244043c6e839.jpg?v=1760042032
   - [Red / M](https://nicosstore.store/products/mens-casual-color-block-zip-up-jacket-with-hood-varsity-style-soft-fleece-lining-perfect-for-fall-winter-ideal-gift-for-teenagers-young-adults?variant=55871267766597)
@@ -5203,9 +5206,9 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/c5aab92905d3818e0881196dbe061d18_10227a3461ed.jpg?v=1760042031
     Price: €15.28 EUR
 - [Devine Contrast Scoop Neck Short Sleeve T-Shirt](https://nicosstore.store/products/devine-contrast-scoop-neck-short-sleeve-t-shirt): Features: Basic style Sheer: Opaque Stretch: Moderate stretch Material composition: 93% viscose, 7% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Top Length Bust Shoulder S 4 18.9 31.5 7.7 M 6/8 19.3 33.1 8 L 10/12 19.7 35.4 8.4 XL 14 20.1 37.8 8.8
-  Updated: 2025-10-24T02:48:45Z
+  Updated: 2025-10-25T18:09:46Z
   Vendor: Trendsi
-  Product Type: 
+  Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/e8a527bb-a62d-4313-ae8a-9a213a49af42-Max.webp?v=1760293346
   - [White / S](https://nicosstore.store/products/devine-contrast-scoop-neck-short-sleeve-t-shirt?variant=55895185424709)
@@ -5289,7 +5292,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/826b4037-2662-4d12-a1df-03c571d78594-Max.webp?v=1760293347
     Price: €13.79 EUR
 - [Devine Star Round Neck Short Sleeve T-Shirt](https://nicosstore.store/products/devine-star-round-neck-short-sleeve-t-shirt): Features: Basic style Sheer: Opaque Stretch: Moderate stretch Material composition: 93% viscose, 7% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Top Length Bust Sleeve Length S 4 19.7 30.7 5.7 M 6/8 20.1 32.3 5.9 L 10/12 20.5 34.6 6.2 XL 14 20.9 37 6.5
-  Updated: 2025-10-24T02:48:45Z
+  Updated: 2025-10-25T18:08:40Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5375,7 +5378,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/e9c656d2-8a7a-41a7-8a0a-5c097fbd263d-Max.webp?v=1760293566
     Price: €11.82 EUR
 - [Graphic Round Neck Dropped Shoulder T-Shirt](https://nicosstore.store/products/graphic-round-neck-dropped-shoulder-t-shirt): Features:Basic style Stretch:No stretch Material composition:95% polyester, 5% spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Shoulder Bust Sleeve Length S 27.6 23.6 41.7 18.9 M 28 24.4 43.3 19.1 L 28.5 25.6 45.7 19.3 XL 29.1 26.8 48 19.7
-  Updated: 2025-10-13T06:26:43Z
+  Updated: 2025-10-25T18:07:46Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5461,7 +5464,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/98a0bc4d-affb-4988-9a08-10b637ef36e9-Max-Origin.webp?v=1760293594
     Price: €12.99 EUR
 - [Men's Plus Size Zip Up Casual Motorcycle Leather Jacket](https://nicosstore.store/products/mens-plus-size-zip-up-casual-motorcycle-leather-jacket): Features:Pocketed,Zipper Thickness:Normal Material composition:100%PU Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length M 24.4 38.6 24.2 L 25.2 40.2 24.6 XL 26 41.7 25 2XL 26.8 43.3 25.4 3XL 27.6 44.9 25.8
-  Updated: 2025-10-13T06:29:07Z
+  Updated: 2025-10-25T18:07:02Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5547,7 +5550,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/a3e9e25b920a44118d87249fcaabbdae-Max-Origin.webp?v=1760293738
     Price: €34.99 EUR
 - [Round Neck T-Shirt and Pants Set](https://nicosstore.store/products/round-neck-t-shirt-and-pants-set): Features:Basic style Number of pieces:Two-piece Stretch:Slightly stretchy Material composition:95% polyester, 5% elastane Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Shoulder Sleeve Length Bottom Length Inseam Waist Waist Stretch Amount Hip S 16.9 31.1 13.8 7.1 39.4 28 25.2 47.2 40.2 M 17.3 32.7 14.2 7.3 39.7 28.1 26.8 48.8 41.7 L 17.9 35 14.8 7.5 40 28.3 29.1 51.2 44.1 XL 18.5 37.4 15.4 7.7 40.2 28.5 31.5 53.5 46.5
-  Updated: 2025-10-20T00:18:41Z
+  Updated: 2025-10-25T18:06:27Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5569,7 +5572,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/aaa03bcf-d12c-4a89-acea-426c50587bee-Max-Origin.webp?v=1760293835
     Price: €21.99 EUR
 - [Ruched Long Sleeve Drape Collar Blouse](https://nicosstore.store/products/ruched-long-sleeve-drape-collar-blouse): Features:Ruched Stretch:No stretch Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 24.8 37.8 0 M 25.2 39.4 0 L 25.6 41.7 0 XL 26 44.1 0 2XL 26.4 46.5 0
-  Updated: 2025-10-22T01:46:08Z
+  Updated: 2025-10-25T18:05:51Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5775,7 +5778,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/e57ea952fe6c4985beafe28d07bb261c-Max-Origin.webp?v=1760294810
     Price: €19.99 EUR
 - [Full Size Faux Fur Cropped Zip-Up Jacket Plus Size](https://nicosstore.store/products/full-size-faux-fur-cropped-zip-up-jacket-plus-size): Features:Oversized,Zipper Thickness:Thick Body:Not lined Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 20.9 37.4 22 M 21.3 39 22.4 L 21.7 40.6 22.8 XL 22 42.1 23.2 2XL 22.4 43.7 23.6 3XL 22.8 45.3 24 4XL 23.2 46.9 24.4 5XL 23.6 48.4 24.8
-  Updated: 2025-10-23T07:23:32Z
+  Updated: 2025-10-25T18:05:10Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5941,7 +5944,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/fdec728e9ec94a13994354900c2f81c2-Max-Origin.webp?v=1760294888
     Price: €32.30 EUR
 - [Round Toe Platform Boots](https://nicosstore.store/products/round-toe-platform-boots): Fit:True to size, order usual size. Includes:Box not included Heel height:Low heels Material:PU Leather,Fluff,Rubber Imported Product Measurements (Measurements by inches) & Size Conversion Size Foot length 36(US5) 9 37(US6) 9.2 38(US7) 9.4 39(US8) 9.6 40(US9) 9.8 41(US10) 10
-  Updated: 2025-10-13T07:50:45Z
+  Updated: 2025-10-25T18:04:30Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5995,7 +5998,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/d0986dfe41394309833c9276eb7a632d-Max-Origin.webp?v=1760298634
     Price: €25.99 EUR
 - [Round Toe Platform Buckle Boots](https://nicosstore.store/products/round-toe-platform-buckle-boots): Fit:True to size, order usual size. Includes:Box not included Heel height:Low heels Material:PU Leather,Rubber Imported Product Measurements (Measurements by inches) & Size Conversion Size Foot length 35(US4) 8.8 36(US5) 9 37(US6) 9.2 38(US7) 9.4 39(US8) 9.6 40(US9) 9.8 41(US10) 10 42(US10.5) 10.2 43(US11) 10.4
-  Updated: 2025-10-13T07:54:11Z
+  Updated: 2025-10-25T17:59:38Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -6145,7 +6148,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/0e2d5598d1014ca89da96b0dbd1298ba-Max-Origin.webp?v=1760298842
     Price: €35.99 EUR
 - [Side Zip Faux Fur Boots](https://nicosstore.store/products/side-zip-faux-fur-boots): Fit:True to size, order usual size. Includes:Box not included Heel height:Low heels Material:PU Leather,Fluff,Rubber,EVA Imported Product Measurements (Measurements by inches) & Size Conversion Size Foot length 36(US5) 9 37(US6) 9.2 38(US7) 9.4 39(US8) 9.6 40(US9) 9.8 41(US10) 10 42(US10.5) 10.2 43(US11) 10.4
-  Updated: 2025-10-13T07:59:01Z
+  Updated: 2025-10-25T17:58:25Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -6215,7 +6218,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/9bc02e767fba4aac931d56abc8a2c7a4-Max-Origin.webp?v=1760299136
     Price: €29.99 EUR
 - [Striped Contrast Mesh Lace Up Sneakers](https://nicosstore.store/products/striped-contrast-mesh-lace-up-sneakers): Fit:True to size, order usual size. Includes:Box not included Heel height:Flats Material:Mesh,PU Leather,Suede,Rubber,EVA Imported Product Measurements (Measurements by inches) & Size Conversion Size Foot length 36(US5) 9 37(US6) 9.2 38(US7) 9.4 39(US8) 9.6 40(US9) 9.8 41(US10) 10 42(US10.5) 10.2
-  Updated: 2025-10-13T08:04:34Z
+  Updated: 2025-10-25T17:57:37Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -6277,7 +6280,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8abdc438634f4b99884640a4502d0928-Max-Origin.webp?v=1760299467
     Price: €14.99 EUR
 - [Youth t-shirt Ronaldo print](https://nicosstore.store/products/youth-t-shirt-ronaldo-print): Keep kids cool and comfortable with this moisture-wicking t-shirt. Its modern fit and high-performance fabric make it the top choice for active days. • 50% cotton and 50% polyester • Fabric weight: 5.5 oz./yd² (186 g/m²) • Yarn diameter: 20 singles • Moisture-management fabric • Modern classic fit • Classic-width ribbed collar • Neck and shoulder taping • Blank product sourced from Nicaragua Disclaimer: Due to the fabric properties, the White color variant may appear off-white rather than bright white. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Age restrictions: For children EU Warranty: 2 years In compliance with the General Product Safety Regulation (GPSR), Albu Nicolae ensures that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact us at nikualbu92@gmail.com or write to us Atzberg 18, Mitterskirskirchen ,84335 ,DE.Size guide LENGTH (inches) WIDTH (inches) XS 18 14 S 20 ½ 16 M 22 17 L 23 ½ 18 XL 25 19 LENGTH (cm) WIDTH (cm) XS 45.7 35.6 S 52 40.6 M 55.9 43.2 L 59.7 45.7 XL 63.5 48.3
-  Updated: 2025-10-14T05:12:10Z
+  Updated: 2025-10-25T17:56:35Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
@@ -6303,7 +6306,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/youth-sports-tee-white-front-2-68ed32ccb1ad3.jpg?v=1760375526
     Price: €13.00 EUR
 - [Unisex Sweatshirt abstract print](https://nicosstore.store/products/unisex-sweatshirt-abstract-print): Each unique, all-over printed sweatshirt is precision-cut and hand-sewn to achieve the best possible look and bring out the intricate design. What's more, the durable fabric with a cotton-feel face and soft brushed fleece inside means that this sweatshirt is bound to become your favorite for a long time. • 95% recycled polyester, 5% spandex • Fabric weight (may vary by 5%): 9.08 oz./yd.² (308 g/m²) • Soft cotton-feel face • Brushed fleece fabric inside • Unisex fit • Overlock seams • Blank components sourced from China This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! • Traceability: - Knitting—China - Dyeing—China - Manufacturing—Latvia • Contains 95% recycled polyester • Contains 0% dangerous substances • This item releases plastic microfibers into the environment during washing Age restrictions: For adults EU Warranty: 2 years Other compliance information: Meets the flammability, and formaldehyde, lead, cadmium, phthalates, azo dyes, bisphenols and mercury level requirements. In compliance with the General Product Safety Regulation (GPSR), Albu Nicolae ensures that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact us at nikualbu92@gmail.com or write to us Atzberg 18, Mitterskirskirchen ,84335 ,DE.Size guide CHEST (inches) WAIST (inches) HIPS (inches) 2XS 34 ⅝ 28 ⅜ 35 ⅜ XS 36 ¼ 29 ⅞ 37 S 37 ¾ 31 ½ 38 ⅝ M 39 ⅜ 33 ⅛ 40 ⅛ L 42 ½ 36 ¼ 43 ¼ XL 45 ⅝ 39 ⅜ 46 ½ 2XL 48 ⅞ 42 ½ 49 ⅝ 3XL 52 45 ⅝ 52 ¾ 4XL 55 ⅛ 48 ⅞ 55 ⅞ 5XL 58 ¼ 52 59 6XL 61 ⅜ 55 ⅛ 62 ¼ CHEST (cm) WAIST (cm) HIPS (cm) 2XS 88 72 90 XS 92 76 94 S 96 80 98 M 100 84 102 L 108 92 110 XL 116 100 118 2XL 124 108 126 3XL 132 116 134 4XL 140 124 142 5XL 148 132 150 6XL 156 140 158
-  Updated: 2025-10-14T06:13:10Z
+  Updated: 2025-10-25T17:55:35Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
@@ -6353,7 +6356,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-recycled-unisex-sweatshirt-white-front-68ed41037f0aa.jpg?v=1760379177
     Price: €33.00 EUR
 - [Unisex Bomber Jacket](https://nicosstore.store/products/unisex-bomber-jacket): Add a little zing to your wardrobe with this vibrant All-Over Print Bomber Jacket. Wear it on a basic t-shirt, or layer it on top of a warm hoodie—it’ll look great either way. With a brushed fleece inside, and a relaxed unisex fit, this Bomber Jacket is just the stuff of the dreams, so be quick to grab yourself one! • 100% polyester • Fabric weight: 6.49 oz/yd² (220 g/m²), weight may vary by 5% • Brushed fleece fabric inside • Unisex fit • Overlock seams • Sturdy neck tape • Silver YKK zipper • 2 self-fabric pockets • Blank product components sourced from the US and China Disclaimer: In areas where the fabric is double-layered (like pockets), details from the inner fabric layer may subtly show through, especially with lighter designs. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! • Traceability: - Knitting—China - Dyeing—China - Manufacturing—Latvia • Contains 0% recycled polyester • Contains 0% dangerous substances • This item releases plastic microfibers into the environment during washing Age restrictions: For adults EU Warranty: 2 years Other compliance information: Meets the azo dyes, lead and cadmium level requirements. In compliance with the General Product Safety Regulation (GPSR), Albu Nicolae ensures that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact us at nikualbu92@gmail.com or write to us Atzberg 18, Mitterskirskirchen ,84335 ,DE.Size guide CHEST (inches) WAIST (inches) HIPS (inches) XS 34 ⅝ 26 ¾ 37 S 36 ¼ 28 ⅜ 38 ⅝ M 37 ¾ 29 ⅞ 40 ⅛ L 41 33 ⅛ 43 ¼ XL 44 ⅛ 36 ¼ 46 ½ 2XL 47 ¼ 39 ⅜ 49 ⅝ 3XL 50 ⅜ 42 ½ 52 ¾ CHEST (cm) WAIST (cm) HIPS (cm) XS 88 68 94 S 92 72 98 M 96 76 102 L 104 84 110 XL 112 92 118 2XL 120 100 126 3XL 128 108 134
-  Updated: 2025-10-14T06:29:10Z
+  Updated: 2025-10-25T17:53:59Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
@@ -6387,7 +6390,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-unisex-bomber-jacket-white-left-68ed44a58bd95.jpg?v=1760380145
     Price: €47.50 EUR
 - [Lovelet High Waist Active Pants with Pockets](https://nicosstore.store/products/lovelet-high-waist-active-pants-with-pockets): Features: Pocketed Stretch: Slightly stretchy Material composition: 80% nylon, 20% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Hip Bottom Length Waist S 4 35.4 40.2 25.2 M 6/8 37.4 40.6 27.2 L 10/12 39.4 40.9 29.1 XL 14/16 42.1 41.3 31.9
-  Updated: 2025-10-14T06:55:47Z
+  Updated: 2025-10-25T17:53:11Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -6457,7 +6460,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/78fd4d23-d9b7-48c4-867e-71f023336601-Max.webp?v=1760381739
     Price: €15.59 EUR
 - [Oh Full Size Collared Neck Long Sleeve Mini Dress](https://nicosstore.store/products/oh-full-size-collared-neck-long-sleeve-mini-dress): Features: Basic style, Buttoned Sheer: Opaque Stretch: No stretch Body: Not lined Material composition: 100% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Length Shoulder Bust Sleeve Length S 34.4 15.2 38.2 24 M 35 15.7 40.6 24.4 L 35.6 16.2 42.9 24.8 XL 36.2 16.9 46.1 25.2 2XL 36.8 17.6 49.2 25.6 3XL 37.4 18.3 52.4 26
-  Updated: 2025-10-22T22:20:30Z
+  Updated: 2025-10-25T17:52:30Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -6487,7 +6490,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/7ce51a3d-1690-408e-a089-0f07b170e388-Max.webp?v=1760381913
     Price: €10.99 EUR
 - [Devine Contrast Trim Round Neck Top and Pants Set](https://nicosstore.store/products/devine-contrast-trim-round-neck-top-and-pants-set): Features: Basic style Number of pieces: Two-piece Stretch: Slightly stretchy Material composition: 100% viscose Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements:S:Top Length 25.20 in, Bust 40.94 in, Shoulder 20.28 in, Sleeve Length 19.29 in, Bottom Length 40.16 in, HIP 36.22 in, Waist 22.05 in, inseam 29.53 inM:Top Length 25.69 in, Bust 42.91 in, Shoulder 21.26 in, Sleeve Length 19.49 in, Bottom Length 40.55 in, HIP 38.19 in, Waist 24.02 in, inseam 30.31 inL:Top Length 26.18 in, Bust 45.28 in, Shoulder 22.44 in, Sleeve Length 19.76 in, Bottom Length 41.14 in, HIP 40.55 in, Waist 26.38 in, inseam 31.30 inXL:Top Length 26.77 in, Bust 48.03 in, Shoulder 23.82 in, Sleeve Length 20.04 in, Bottom Length 41.73 in, HIP 43.31 in, Waist 29.13 in, inseam 32.28 in
-  Updated: 2025-10-24T02:48:50Z
+  Updated: 2025-10-25T17:51:34Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -6541,7 +6544,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/94be74aa-b73e-45e3-bf99-aed641cbb859-Max.webp?v=1760382208
     Price: €29.99 EUR
 - [Devine Ruched Mock Neck Short Sleeve Blouse](https://nicosstore.store/products/devine-ruched-mock-neck-short-sleeve-blouse): Features: Basic style Sheer: Opaque Stretch: No stretch Material composition: 100% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements:S:Top Length 25.59 in, Bust 37.80 in, Shoulder 13.19 in, Sleeve Length 10.63 inM:Top Length 26.06 in, Bust 39.76 in, Shoulder 13.58 in, Sleeve Length 10.83 inL:Top Length 26.65 in, Bust 42.13 in, Shoulder 13.98 in, Sleeve Length 11.10 in
-  Updated: 2025-10-24T02:46:41Z
+  Updated: 2025-10-25T17:50:45Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -6607,7 +6610,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/88e3dbfa-2919-44de-97ad-d1280108e462-Max.webp?v=1760382284
     Price: €10.99 EUR
 - [Contrast Sleeveless Knit Top and Mini Skirt Set](https://nicosstore.store/products/contrast-sleeveless-knit-top-and-mini-skirt-set): Sizing category: Regular Pattern type: Animal print Style: Chic Features: Basic style Neckline: Round neck Sleeve length: Sleeveless Sleeve type: Sleeveless Material: 100% viscose Stretch: Highly stretchy Sheer: No Body: Not lined Care instructions: Hand wash cold. Do not tumble dry. Imported Product measurements: Top:S: length 12 in, bust 29-41 inM: length 13 in, bust 31-43 inL: length 13 in, bust 33-45 inSkirt:S: length 16 in, waist 26-37 in, hip 31-43 inM: length 16 in, waist 27-39 in, hip 33-45 inL: length 17 in, waist 30-41 in, hip 35-47 in
-  Updated: 2025-10-14T07:10:12Z
+  Updated: 2025-10-25T17:49:59Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -6649,7 +6652,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/67a3524546cb488c82979dda7935b7e5-Max.jpg?v=1760382607
     Price: €22.99 EUR
 - [Round Neck Long Sleeve Top and Drawstring Pants Set](https://nicosstore.store/products/round-neck-long-sleeve-top-and-drawstring-pants-set): Features: Basic style Number of pieces: Two-piece Stretch: No stretch Material composition: 95% polyester, 5% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: Top:S: bust 45.2 in, sleeve length 21.5 in, length 25 inM: bust 46.8 in, sleeve length 21.8 in, length 25.4 inL: bust 48.4 in, sleeve length 22.2 in, length 25.7 inXL: bust 49.9 in, sleeve length 22.6 in, length 26.1 inBottoms:S: waist 23.4 in, hip 36.7 in, length 38.2 inM: waist 24.6 in, hip 38.2 in, length 39 inL: waist 25.7 in, hip 39.8 in, length 39.8 inXL: waist 27.3 in, hip 41.3 in, length 40.6 in
-  Updated: 2025-10-14T07:14:50Z
+  Updated: 2025-10-25T17:48:43Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -6675,7 +6678,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/1f3faa88399643f6a94b96552fc6e016-Max.webp?v=1760382884
     Price: €20.99 EUR
 - [Slim Fit Casual Plaid Shirt for Men](https://nicosstore.store/products/slim-fit-casual-plaid-shirt-for-men): Step out in style with our Men Casual Plaid Shirt Slim Fit, expertly crafted from high-quality Cotton for ultimate comfort and breathability. This shirt is the perfect fusion of classic design and modern fit, making it an essential addition to any man's wardrobe. With a slim fit design and a stylish lapel, this shirt effortlessly combines sophistication with a casual vibe, allowing you to transition seamlessly from day to night. Available in three striking colors: white, red, and blue, you can easily find the perfect hue to match your personal style. Whether you're heading out for a relaxed weekend brunch or gearing up for a casual meeting, this shirt ensures you look sharp and put together. The versatile design pairs well with jeans, chinos, or shorts, making it a go-to option for any occasion. Choose from a range of sizes, including 2XL, 3XL, 4XL, L, M, and XL, ensuring a fit that flatters every body type. Check out the size chart to find your perfect match! See the shirt in action with our vibrant images below: Elevate your everyday style with this must-have plaid shirt. Don’t miss out – grab yours today and redefine your casual look!
-  Updated: 2025-10-23T05:38:26Z
+  Updated: 2025-10-25T17:48:04Z
   Vendor: Nico`s Store
   Product Type: 
   Availability: Available
@@ -6752,9 +6755,9 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/LNwmb5wv7z23Etip.webp?v=1760469546
     Price: €16.07 EUR
 - [Multi-Purpose Portable Shoulder Backpack for Men and Women](https://nicosstore.store/products/multi-purpose-portable-shoulder-backpack-for-men-and-women): Introducing the ultimate companion for your daily adventures - the Schoolbag Campus Multi-purpose Portable Shoulder Bag. This stylish and functional backpack is designed for both men and women, making it the perfect choice for students, professionals, and anyone on the go. Crafted from durable oxford cloth, this backpack is not only built to last but also features a sleek and modern solid color pattern that complements any outfit. With its cross-border trend style, you can effortlessly transition from the classroom to the coffee shop, or from the office to a weekend getaway. Available in an array of vibrant colors including Khaki, Black, Dark Blue, Purple, and Red, you can choose the perfect shade to express your personality. Each bag measures 50cm in height, 30cm in length, and 25cm in width, offering ample space for your essentials while remaining lightweight at just 0.46kg. Check out these stunning images to see the bag in action: With the Schoolbag Campus Multi-purpose Portable Shoulder Bag, you’ll carry your essentials in style and comfort. Don't miss out on this versatile accessory that adapts to your lifestyle!
-  Updated: 2025-10-24T14:35:56Z
+  Updated: 2025-10-25T17:47:06Z
   Vendor: Nico`s Store
-  Product Type: 
+  Product Type: Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/AGoYL71eOElA8rrw.webp?v=1760469525
   - [284red / 13inch](https://nicosstore.store/products/multi-purpose-portable-shoulder-backpack-for-men-and-women?variant=55950164066629)
@@ -6778,7 +6781,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/JzTHfrtujtupmQLm.webp?v=1760469549
     Price: €23.15 EUR
 - [Men's Full Size Drawstring Half Zip Hoodie and Pants Set Plus Size](https://nicosstore.store/products/mens-full-size-drawstring-half-zip-hoodie-and-pants-set-plus-size): Features: Basic style Number of pieces: Two-piece Stretch: Slightly stretchy Material composition: 100% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Shoulder Bust Sleeve Length Bottom Length Waist Hip S 27.6 18.5 43.3 25.2 39.4 24.4 37 M 28.3 19.3 45.7 25.6 40.2 26 38.6 L 29.1 20.1 48 26 40.9 27.6 40.2 XL 29.9 20.9 50.4 26.4 41.7 29.1 41.7 2XL 30.7 21.7 52.8 26.8 42.5 30.7 43.3 3XL 31.5 22.4 55.1 27.2 43.3 32.3 44.9
-  Updated: 2025-10-17T12:26:16Z
+  Updated: 2025-10-25T17:45:59Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -6976,7 +6979,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/9c81b127-0ba9-4be8-a78f-9cc193ae3846-Max-Origin.webp?v=1760638764
     Price: €29.99 EUR
 - [Men's Two-Tone Leather Bomber Jacket with Zip Front](https://nicosstore.store/products/mens-two-tone-leather-bomber-jacket-with-zip-front): Features:Pocketed,Zipper Thickness:Normal Material composition:100%PU Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 25.4 48.4 23 M 26.4 50.4 23.6 L 27.4 52.8 24.2 XL 28.3 55.1 24.8 2XL 28.9 57.5 25.4
-  Updated: 2025-10-17T06:22:09Z
+  Updated: 2025-10-25T17:45:25Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -7022,7 +7025,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/463dd605a77343f48ce7d71317c1cd68-Max-Origin.webp?v=1760638923
     Price: €39.49 EUR
 - [Men's Plus Size Corduroy Button-Up Jacket with Chest Pockets](https://nicosstore.store/products/mens-plus-size-corduroy-button-up-jacket-with-chest-pockets): Features:Pocketed,Basic style Thickness:Normal Material composition:95%polyester,5%spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length M 24.8 41.7 22.6 L 25.6 43.3 23.2 XL 26.4 44.9 23.8 2XL 27.2 46.5 24.4 3XL 28 48 24.8 4XL 28.7 49.6 25.2 5XL 29.5 51.2 25.6
-  Updated: 2025-10-17T06:23:17Z
+  Updated: 2025-10-25T17:44:54Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -7140,7 +7143,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/ce57325af4ad4bceab742c86872d2e6d-Max-Origin.webp?v=1760638988
     Price: €25.99 EUR
 - [Men's Zip Up Long Sleeve Jacket](https://nicosstore.store/products/mens-zip-up-long-sleeve-jacket): Features:Pocketed,Zipper Thickness:Thick Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length XS 26 42.9 23.8 S 26.8 44.5 24.4 M 27.6 46.1 25 L 28.3 47.6 25.6 XL 29.1 49.2 26.2
-  Updated: 2025-10-17T06:24:29Z
+  Updated: 2025-10-25T17:44:26Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -7206,7 +7209,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/0ffbc727-3d3c-4165-b6c1-6e3dae3f923c-Max-Origin.webp?v=1760639060
     Price: €32.99 EUR
 - [Men's Plus Size Single-Breasted Denim Blazer Jacket](https://nicosstore.store/products/mens-plus-size-single-breasted-denim-blazer-jacket): Features:Basic style,Buttoned Stretch:Slightly stretchy Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length M 27.6 42.5 23.6 L 28.7 44.1 24.4 XL 29.3 45.7 25 2XL 29.9 46.1 25.6 3XL 30.7 46.5 26.2 4XL 31.5 48.4 26.8
-  Updated: 2025-10-17T06:27:45Z
+  Updated: 2025-10-25T17:43:19Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -7281,14 +7284,14 @@
   Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/elyzacopertaebook.jpg?v=1760896791
   Price: €5.99 EUR
 - [Elyza  The return of the evil one Ebook](https://nicosstore.store/products/elyza-the-return-of-the-evil-one-ebook): Elyza, the courageous heroine, fights again with the defeted one. Her eyes shimmered with determination as she prepared once more to confront her relentless foe. The villain, who had been defeated a long time ago, had mysteriously returned, more powerful and vengeful than ever. Despite the scars of their previous battle, Elyza knew she couldn't let fear hold her back. With her unwavering resolve and trusty weapon in hand, she charged forward, ready to protect what she loved and to face the darkness once again. The battle was about to reignite, and Elyza was prepared to fight with everything she had to ensure justice prevailed.
-  Updated: 2025-10-21T19:52:30Z
+  Updated: 2025-10-25T17:42:00Z
   Vendor: Nico`s Store
   Product Type: Ebook
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/elyzav4cover.jpg?v=1760898260
   Price: €5.99 EUR
 - [Textured Zip Up Long Sleeve Jacket](https://nicosstore.store/products/textured-zip-up-long-sleeve-jacket): Features:Zipper Thickness:Normal Body:Not lined Material composition:95% polyester, 5% spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 24.8 37.8 23.2 M 25.2 39.4 23.6 L 25.6 41.7 24 XL 26 44.1 24.4 2XL 26.4 46.5 24.8
-  Updated: 2025-10-22T11:55:31Z
+  Updated: 2025-10-25T17:40:09Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -7394,7 +7397,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/fd158eb56a054786b8a0c6931df23337-Max-Origin.webp?v=1761067250
     Price: €22.99 EUR
 - [Zip Up Quilted Hooded Puffer Coat](https://nicosstore.store/products/zip-up-quilted-hooded-puffer-coat): Features:Pocketed,Zipper Thickness:Thick Body:Lined Material composition:95% polyester, 5% spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 40.9 40.6 24.6 M 41.3 42.1 25 L 41.9 44.5 25.4 XL 42.5 46.9 25.8
-  Updated: 2025-10-23T08:40:22Z
+  Updated: 2025-10-25T17:39:23Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -7416,7 +7419,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/33412ef7f45e48a0afb1b9f1abb3eb1d-Max-Origin.webp?v=1761067442
     Price: €45.99 EUR
 - [Men's Plus Size Multi-Pocket Outdoor Utility Vest](https://nicosstore.store/products/mens-plus-size-multi-pocket-outdoor-utility-vest): Features:Basic style,Buttoned,Zipper Stretch:No stretch Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust M 26 44.1 L 26.8 45.7 XL 27.6 47.2 2XL 28.3 48.8 3XL 29.1 50.4 4XL 29.9 52 5XL 30.3 53.5
-  Updated: 2025-10-22T10:07:51Z
+  Updated: 2025-10-25T17:38:25Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -7590,7 +7593,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/dd5a486b2f1644eca5622517c7780201-Max-Origin.webp?v=1761067577
     Price: €33.99 EUR
 - [Men's Plus Size Zip Up Tactical Jacket with Pockets](https://nicosstore.store/products/mens-plus-size-zip-up-tactical-jacket-with-pockets): Features:Pocketed,Zipper Thickness:Normal Material composition:100%polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length M 26 41.7 24.1 L 26.8 43.3 24.6 XL 27.6 44.9 25.1 2XL 28.3 46.5 25.6 3XL 29.1 48 26 4XL 29.9 50.4 26.2 5XL 29.9 52.8 26.2
-  Updated: 2025-10-22T06:20:33Z
+  Updated: 2025-10-25T17:37:30Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -7707,10 +7710,10 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/43b2a44cdb114c82bc84f710030815cf-Max-Origin.webp?v=1761067651
     Price: €32.99 EUR
-- [Unisex Sweatshirt](https://nicosstore.store/products/unisex-sweatshirt-2): Each unique, all-over printed sweatshirt is precision-cut and hand-sewn to achieve the best possible look and bring out the intricate design. What's more, the durable fabric with a cotton-feel face and soft brushed fleece inside means that this sweatshirt is bound to become your favorite for a long time. • 96% recycled polyester, 4% elastane for manufacturing in the US/Mexico • 95% recycled polyester, 5% elastane for manufacturing in Latvia • Fabric weight (may vary by 5%): 9.08 oz./yd.² (308 g/m²) • Soft cotton-feel face • Brushed fleece fabric inside • Unisex fit • Overlock seams • Blank components sourced from China This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Age restrictions: For adults EU Warranty: 2 years Other compliance information: Meets the flammability, and formaldehyde, lead, cadmium, phthalates, azo dyes, bisphenols and mercury level requirements. In compliance with the General Product Safety Regulation (GPSR), Albu Nicolae ensures that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact us at nikualbu92@gmail.com or write to us Atzberg 18, Mitterskirskirchen ,84335 ,DE.Size guide CHEST (inches) WAIST (inches) HIPS (inches) 2XS 34 ⅝ 28 ⅜ 35 ⅜ XS 36 ¼ 29 ⅞ 37 S 37 ¾ 31 ½ 38 ⅝ M 39 ⅜ 33 ⅛ 40 ⅛ L 42 ½ 36 ¼ 43 ¼ XL 45 ⅝ 39 ⅜ 46 ½ 2XL 48 ⅞ 42 ½ 49 ⅝ 3XL 52 45 ⅝ 52 ¾ 4XL 55 ⅛ 48 ⅞ 55 ⅞ 5XL 58 ¼ 52 59 6XL 61 ⅜ 55 ⅛ 62 ¼ CHEST (cm) WAIST (cm) HIPS (cm) 2XS 88 72 90 XS 92 76 94 S 96 80 98 M 100 84 102 L 108 92 110 XL 116 100 118 2XL 124 108 126 3XL 132 116 134 4XL 140 124 142 5XL 148 132 150 6XL 156 140 158
-  Updated: 2025-10-24T07:40:52Z
+- [Unisex Sweatshirt Haloween print](https://nicosstore.store/products/unisex-sweatshirt-2): Each unique, all-over printed sweatshirt is precision-cut and hand-sewn to achieve the best possible look and bring out the intricate design. What's more, the durable fabric with a cotton-feel face and soft brushed fleece inside means that this sweatshirt is bound to become your favorite for a long time. • 96% recycled polyester, 4% elastane for manufacturing in the US/Mexico • 95% recycled polyester, 5% elastane for manufacturing in Latvia • Fabric weight (may vary by 5%): 9.08 oz./yd.² (308 g/m²) • Soft cotton-feel face • Brushed fleece fabric inside • Unisex fit • Overlock seams • Blank components sourced from China This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Age restrictions: For adults EU Warranty: 2 years Other compliance information: Meets the flammability, and formaldehyde, lead, cadmium, phthalates, azo dyes, bisphenols and mercury level requirements. In compliance with the General Product Safety Regulation (GPSR), Albu Nicolae ensures that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact us at nikualbu92@gmail.com or write to us Atzberg 18, Mitterskirskirchen ,84335 ,DE.Size guide CHEST (inches) WAIST (inches) HIPS (inches) 2XS 34 ⅝ 28 ⅜ 35 ⅜ XS 36 ¼ 29 ⅞ 37 S 37 ¾ 31 ½ 38 ⅝ M 39 ⅜ 33 ⅛ 40 ⅛ L 42 ½ 36 ¼ 43 ¼ XL 45 ⅝ 39 ⅜ 46 ½ 2XL 48 ⅞ 42 ½ 49 ⅝ 3XL 52 45 ⅝ 52 ¾ 4XL 55 ⅛ 48 ⅞ 55 ⅞ 5XL 58 ¼ 52 59 6XL 61 ⅜ 55 ⅛ 62 ¼ CHEST (cm) WAIST (cm) HIPS (cm) 2XS 88 72 90 XS 92 76 94 S 96 80 98 M 100 84 102 L 108 92 110 XL 116 100 118 2XL 124 108 126 3XL 132 116 134 4XL 140 124 142 5XL 148 132 150 6XL 156 140 158
+  Updated: 2025-10-25T18:23:56Z
   Vendor: Nico`s Store
-  Product Type: 
+  Product Type: Sweatshirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/all-over-print-recycled-unisex-sweatshirt-white-front-68fa8492db025.jpg?v=1761248446
   - [2XS](https://nicosstore.store/products/unisex-sweatshirt-2?variant=56045540311365)
@@ -7761,22 +7764,22 @@
 ## Collections
 
 - [Home page](https://nicosstore.store/collections/frontpage): MAKE IK IN YOUR WAY
-  Updated: 2025-10-25T08:02:35Z
-  Total Products: 63
+  Updated: 2025-10-25T19:01:29Z
+  Total Products: 99
 - [CoLecti-on](https://nicosstore.store/collections/colecti-on)
   Updated: 2025-10-12T06:49:29Z
   Total Products: 0
 - [Clothing](https://nicosstore.store/collections/clothing)
-  Updated: 2025-10-14T19:17:28Z
-  Total Products: 16
+  Updated: 2025-10-25T19:28:17Z
+  Total Products: 41
 - [Shoes](https://nicosstore.store/collections/shoes)
-  Updated: 2025-10-12T06:48:47Z
-  Total Products: 5
+  Updated: 2025-10-25T19:29:29Z
+  Total Products: 10
 - [Personal Care](https://nicosstore.store/collections/personal-care)
   Updated: 2025-10-12T06:49:16Z
   Total Products: 1
 - [Luggage & Bags](https://nicosstore.store/collections/luggage-bags)
-  Updated: 2025-10-14T19:19:08Z
+  Updated: 2025-10-25T17:47:04Z
   Total Products: 2
 
 ## Store Pages
