@@ -6,7 +6,7 @@
 - Timezone: Australia/Melbourne
 - Created At: 2025-08-13T08:46:37Z
 - Contact Email: scott@nessypopart.com
-- Updated At: 2025-10-23T12:00:44.599Z
+- Updated At: 2025-10-25T04:00:44.929Z
 
 ## Products
 
@@ -747,8 +747,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-rocky-horror-magenta-movies-hero.jpg?v=1755763218
   Price: $995.00 AUD
-- [SUPERHERO - Captain Bulldog](https://nessypopart.com/products/superhero-captain-bulldog-le): Justice never looked so jowly. Captain Bulldog is the blue Frenchie with a heart of gold and a shield of sass. With ears perked and stance firm, he’s the steadfast sentinel of backyard freedom and biscuit equality. Whether he’s leading the charge or napping mid-mission, this patriotic pup proves that courage comes in compact, snorty packages. This limited edition giclée on canvas captures the bulldog in full heroic glory—stoic, stylish, and slightly skeptical of your snack choices. A tribute to loyalty, resilience, and the power of a well-timed head tilt. Sizes: 40×40 cm or 75×75 cm Finish: Framed or Rolled Edition: Limited to 100
-  Updated: 2025-09-17T04:11:06Z
+- [SUPERHERO - Captain Bulldog (Limited Edition)](https://nessypopart.com/products/superhero-captain-bulldog-le): Justice never looked so jowly. Captain Bulldog is the blue Frenchie with a heart of gold and a shield of sass. With ears perked and stance firm, he’s the steadfast sentinel of backyard freedom and biscuit equality. Whether he’s leading the charge or napping mid-mission, this patriotic pup proves that courage comes in compact, snorty packages. This limited edition giclée on canvas captures the bulldog in full heroic glory—stoic, stylish, and slightly skeptical of your snack choices. A tribute to loyalty, resilience, and the power of a well-timed head tilt. Sizes: 40×40 cm or 75×75 cm Finish: Framed or Rolled Edition: Limited to 100
+  Updated: 2025-10-24T19:34:49Z
   Vendor: Nessy Pop Art
   Product Type: Canvas
   Availability: Available
@@ -769,8 +769,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-superheroes-captain-bulldog-comic-framed-canvas-75x75cm.jpg?v=1755493293
     Price: $895.00 AUD
-- [SUPERHERO - Dr Airedale](https://nessypopart.com/products/superhero-dr-airedale-le): Reality is overrated. Dr Airedale bends time, space, and snack schedules with a flick of his paw and a furrowed brow. Cloaked in cosmic charm and armed with a stare that sees through dimensions (and closed pantry doors), this wise-cracking wizard pup brings a touch of magic to the Superheroes Series. This limited edition giclée on canvas captures the Airedale in full sorcerer mode—mystical, majestic, and mildly judgmental. Whether he’s guarding your sanctum or meditating on the meaning of mealtime, Dr Airedale reminds us that the universe is best explored with a loyal companion by your side. Sizes: 40×40 cm or 75×75 cm Finish: Framed or Rolled Edition: Limited to 100
-  Updated: 2025-09-17T04:11:06Z
+- [SUPERHERO - Dr Airedale (Limited Edition)](https://nessypopart.com/products/superhero-dr-airedale-le): Reality is overrated. Dr Airedale bends time, space, and snack schedules with a flick of his paw and a furrowed brow. Cloaked in cosmic charm and armed with a stare that sees through dimensions (and closed pantry doors), this wise-cracking wizard pup brings a touch of magic to the Superheroes Series. This limited edition giclée on canvas captures the Airedale in full sorcerer mode—mystical, majestic, and mildly judgmental. Whether he’s guarding your sanctum or meditating on the meaning of mealtime, Dr Airedale reminds us that the universe is best explored with a loyal companion by your side. Sizes: 40×40 cm or 75×75 cm Finish: Framed or Rolled Edition: Limited to 100
+  Updated: 2025-10-24T19:29:02Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -792,7 +792,7 @@
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-superheroes-dr-airedale-comic-framed-canvas-75x75cm.jpg?v=1755492383
     Price: $895.00 AUD
 - [SUPERHERO – Spiderdog | Framed Limited Edition Canvas Dog Print by Nessy](https://nessypopart.com/products/superhero-spiderdog-le): Giclée canvas print by Nessy Pop Art—Spiderdog swings into action with paws poised and senses tuned. Available in 40×40 or 75×75 cm.
-  Updated: 2025-10-15T23:15:32Z
+  Updated: 2025-10-24T19:31:59Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -813,8 +813,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-superheroes-spiderdog-comic-framed-canvas-75x75cm.jpg?v=1755491895
     Price: $895.00 AUD
-- [SUPERHERO - Thanos](https://nessypopart.com/products/superhero-thanos-le): He’s compact, cosmic, and absolutely unbothered. Thanos the Bulldog enters the Superheroes Series with a face as purple as his ego and a stare that could silence galaxies. No collar. No leash. Just pure, unfiltered power wrapped in wrinkles and snorts. This limited edition canvas captures the moment when destiny meets dogged determination. Whether he’s perched on the couch like a throne or stomping through the backyard like it’s Titan, Thanos reminds us: balance isn’t given—it’s demanded (preferably with treats). Sizes: 40×40 cm or 75×75 cm Finish: Framed or Rolled Edition: Limited to 100
-  Updated: 2025-09-17T04:11:05Z
+- [SUPERHERO - Thanos (Limited Edition)](https://nessypopart.com/products/superhero-thanos-le): He’s compact, cosmic, and absolutely unbothered. Thanos the Bulldog enters the Superheroes Series with a face as purple as his ego and a stare that could silence galaxies. No collar. No leash. Just pure, unfiltered power wrapped in wrinkles and snorts. This limited edition canvas captures the moment when destiny meets dogged determination. Whether he’s perched on the couch like a throne or stomping through the backyard like it’s Titan, Thanos reminds us: balance isn’t given—it’s demanded (preferably with treats). Sizes: 40×40 cm or 75×75 cm Finish: Framed or Rolled Edition: Limited to 100
+  Updated: 2025-10-24T19:29:54Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -835,8 +835,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-superheroes-thanos-comic-framed-canvas-75x75cm.jpg?v=1755484718
     Price: $895.00 AUD
-- [SUPERHERO - The Incredible Pug](https://nessypopart.com/products/superhero-the-incredible-pug-le): Don’t let the squishy face fool you—The Incredible Pug is pure power wrapped in green fur and stubborn charm. When this pint-sized Hulk gets riled up, furniture trembles and snack jars quake. But beneath the growl lies a heart that’s fiercely loyal and hilariously lovable. This limited edition giclée on canvas captures the pug’s transformation into a muscle-bound marvel of mischief. With bulging brows and a heroic pout, he’s ready to smash boredom and snuggle through the aftermath. Sizes: 40×40 cm or 75×75 cm Finish: Framed or Rolled Edition: Limited to 100
-  Updated: 2025-09-17T04:11:05Z
+- [SUPERHERO - The Incredible Pug (Limited Edition)](https://nessypopart.com/products/superhero-the-incredible-pug-le): Don’t let the squishy face fool you—The Incredible Pug is pure power wrapped in green fur and stubborn charm. When this pint-sized Hulk gets riled up, furniture trembles and snack jars quake. But beneath the growl lies a heart that’s fiercely loyal and hilariously lovable. This limited edition giclée on canvas captures the pug’s transformation into a muscle-bound marvel of mischief. With bulging brows and a heroic pout, he’s ready to smash boredom and snuggle through the aftermath. Sizes: 40×40 cm or 75×75 cm Finish: Framed or Rolled Edition: Limited to 100
+  Updated: 2025-10-24T19:35:56Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -871,8 +871,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-superheroes-wonder-hound-comic-giclee-30x30cm.jpg?v=1756528454
     Price: $120.00 AUD
-- [SUPERHERO - Wonderhound](https://nessypopart.com/products/superhero-wonderhound-le): Meet Wonderhound, the noble Basset Hound who’s traded her sniffing duties for a golden lasso and a mission of justice. With ears that flap like a cape and eyes that pierce through villainy (and snack cupboards), she’s the embodiment of loyalty, courage, and quiet sass. This limited edition giclée on canvas transforms the iconic Wonder Woman into a long-bodied legend of love and strength. Whether she’s guarding your living room or inspiring your studio, Wonderhound reminds us that true heroism comes with droopy eyes and a heart of gold. Sizes: 40×40 cm or 75×75 cm Finish: Framed or Rolled Edition: Limited to 100
-  Updated: 2025-09-17T04:11:04Z
+- [SUPERHERO - Wonderhound (Limited Edition)](https://nessypopart.com/products/superhero-wonderhound-le): Meet Wonderhound, the noble Basset Hound who’s traded her sniffing duties for a golden lasso and a mission of justice. With ears that flap like a cape and eyes that pierce through villainy (and snack cupboards), she’s the embodiment of loyalty, courage, and quiet sass. This limited edition giclée on canvas transforms the iconic Wonder Woman into a long-bodied legend of love and strength. Whether she’s guarding your living room or inspiring your studio, Wonderhound reminds us that true heroism comes with droopy eyes and a heart of gold. Sizes: 40×40 cm or 75×75 cm Finish: Framed or Rolled Edition: Limited to 100
+  Updated: 2025-10-24T19:30:40Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -1369,7 +1369,7 @@
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-originals-hoodie-boy-man-on-the-moon-framed-acrylic-30x40cm-hero.jpg?v=1759823813
   Price: $1,195.00 AUD
 - [The Bark Side | Playful Dog Art Framed Canvas Painting by Nessy](https://nessypopart.com/products/the-bark-side): Celebrate canine charm with The Bark Side, a playful dog art painting featuring 10 expressive pups in a vibrant cartoon-style cluster. Perfect for dog lovers!
-  Updated: 2025-10-23T07:37:53Z
+  Updated: 2025-10-23T19:43:19Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
@@ -1399,8 +1399,8 @@
 - [A Dog's Life](https://nessypopart.com/collections/a-dogs-life): Each work in the A DOGS LIFE Series is a punchy celebration of doghood—unapologetic, endearing, and instantly iconic. These are Limited Edition Giclée prints on canvas, framed and offered in two bold square formats: 40x40cm for bite-sized brilliance, and 100x100cm for statement-scale snuggles. From the coffee-slurping drama of “Slurp” to the wide-eyed pause of “Gig,” Ness turns everyday doggy moments into pop art full of heart. Whether it’s the quiet companionship of “Friends Forever” or the theatrical sass of “1..2..3,” this series speaks to life lived at dog-level: curious, chaotic, and deeply felt. Each canvas is a collector’s slice of canine soul.
   Updated: 2025-09-27T05:25:30Z
   Total Products: 7
-- [Superhero Series](https://nessypopart.com/collections/superhero-series): Capes? Optional. Attitude? Mandatory. The SUPERHEROES Series blasts through the comic cosmos with Ness’s signature pop-art satire and four-legged flair. These Limited Edition Giclée prints—each framed and available in 40x40cm and 75x75cm—feature heroic hounds like Spiderdog, Thanos, The Incredible Pug, Wonderhound, and Captain Bulldog. Each canvas is a tribute to resilience and comic absurdity—where superpowers meet drool and dignity. The textures pop, the humor bites, and every snarl or side-eye packs an emotional punch. With a limited number of prints per design, these framed collectibles are a dog-lover’s dream and a comic geek’s delight.
-  Updated: 2025-09-01T06:51:03Z
+- [SUPERHERO Series (Limited Editions)](https://nessypopart.com/collections/superhero-series): Capes? Optional. Attitude? Mandatory. The SUPERHEROES Series blasts through the comic cosmos with Ness’s signature pop-art satire and four-legged flair. These Limited Edition Giclée prints—each framed and available in 40x40cm and 75x75cm—feature heroic hounds like Spiderdog, Thanos, The Incredible Pug, Wonderhound, and Captain Bulldog. Each canvas is a tribute to resilience and comic absurdity—where superpowers meet drool and dignity. The textures pop, the humor bites, and every snarl or side-eye packs an emotional punch. With a limited number of prints per design, these framed collectibles are a dog-lover’s dream and a comic geek’s delight.
+  Updated: 2025-10-24T07:32:29Z
   Total Products: 6
 - [Original Minis](https://nessypopart.com/collections/original-minis): Original Minis – Small Works, Big Feelings Each 15x15cm canvas in this collection is a raw, unfiltered glimpse into Ness’s world—where humor collides with heartbreak, and pop culture meets personal truth. Painted in acrylic with black-painted sides, these original works are ready to sit proudly on a shelf or hang solo like a quiet rebellion. No frames. No filters. Just pure emotion, captured in miniature. Whether it’s Hoodie Boy reaching for love or confronting pills and paradoxes, these pieces are more than art—they’re fragments of a story still unfolding. Perfect for collectors who crave intimacy, edge, and a touch of the unexpected.
   Updated: 2025-09-01T06:51:03Z
@@ -1411,8 +1411,8 @@
 - [NEW!](https://nessypopart.com/collections/new): Explore Nessy Pop Art’s newest paintings and prints—bold, emotional, and collector-worthy. Limited editions with meaning, joy, and vibrant storytelling.
   Updated: 2025-10-23T07:18:17Z
   Total Products: 14
-- [Superhero Open Editions](https://nessypopart.com/collections/superhero-open-editions): Capes? Optional. Attitude? Mandatory. The SUPERHERO Series blasts through the comic cosmos with Ness’s signature pop-art satire and four-legged flair. These Open Edition Giclée prints—each available in 18x18cm and 30x30cm—feature heroic hounds like Spiderdog, Thanos, The Incredible Pug, Wonderhound, and Captain Bulldog. Each print is a tribute to resilience and comic absurdity—where superpowers meet drool and dignity. The textures pop, the humor bites, and every snarl or side-eye packs an emotional punch. These affordable prints are a dog-lover’s dream and a comic geek’s delight.
-  Updated: 2025-09-01T06:51:03Z
+- [SUPEROHERO Series (Open Editions)](https://nessypopart.com/collections/superhero-open-editions): Capes? Optional. Attitude? Mandatory. The SUPERHERO Series blasts through the comic cosmos with Ness’s signature pop-art satire and four-legged flair. These Open Edition Giclée prints—each available in 18x18cm and 30x30cm—feature heroic hounds like Spiderdog, Thanos, The Incredible Pug, Wonderhound, and Captain Bulldog. Each print is a tribute to resilience and comic absurdity—where superpowers meet drool and dignity. The textures pop, the humor bites, and every snarl or side-eye packs an emotional punch. These affordable prints are a dog-lover’s dream and a comic geek’s delight.
+  Updated: 2025-10-24T07:33:30Z
   Total Products: 6
 - [ICON Series](https://nessypopart.com/collections/icon-series): The ICON Series is Ness’s expressive tribute to cultural legends—from music trailblazers to boundary-pushing style icons. Each portrait combines emotional depth, bold color, and painterly reimagination to transform fame into vulnerability, glamour into grit. Available in 3 sizes. Open Edition giclée prints on fine art paper.
   Updated: 2025-09-10T11:18:34Z
@@ -1421,7 +1421,7 @@
   Updated: 2025-10-10T09:04:13Z
   Total Products: 6
 - [Insta](https://nessypopart.com/collections/insta)
-  Updated: 2025-10-08T08:06:46Z
+  Updated: 2025-10-24T07:28:31Z
   Total Products: 12
 - [JETSONS](https://nessypopart.com/collections/jetsons): Step into the bubble-domed brilliance of tomorrow with this vibrant pop art series celebrating the Jetsons—America’s favorite space-age family. From Rosie’s chrome-hearted caregiving to Astro’s goofy loyalty, each piece captures a moment of animated tenderness, framed in retro-futurist optimism. At the heart of the collection lies a rare visual trilogy: three continuous canvases that, when displayed side by side, reveal the full Jetson household in motion. Elroy and Rosie share a quiet domestic moment, George and Jane beam with playful partnership, and Judy and Astro round out the tableau with joy and companionship. Together, they form a panoramic portrait of cartoon family life—bright, whimsical, and emotionally resonant. Whether collected individually or as a complete set, these limited edition prints offer a nostalgic nod to mid-century dreams and the enduring charm of animated affection. Edition of 200 each Available in 40 × 40 cm and 75 × 75 cm Framed canvas with modern floater frame Ideal for collectors, pop culture lovers, and retro design enthusiasts
   Updated: 2025-09-13T12:36:04Z
