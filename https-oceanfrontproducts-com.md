@@ -6,7 +6,7 @@
 - Timezone: America/Denver
 - Created At: 2024-11-01T17:53:57Z
 - Contact Email: sglobalresorts@gmail.com
-- Updated At: 2025-10-23T08:00:49.453Z
+- Updated At: 2025-10-25T00:00:41.717Z
 
 ## Products
 
@@ -2878,7 +2878,7 @@
     Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/14072155896306961014_2048.jpg?v=1754882157
     Price: $24.54 USD
 - [Beer Me T-Shirt for Beer Lovers and Casual Style](https://oceanfrontproducts.com/products/beer-me-t-shirt-quench-your-thirst-in-style-1): This classic men's t-shirt is perfect for the beer lover in your life. The shirt features the simple but iconic phrase Beer Me in bold, eye-catching letters, making it the perfect statement piece for any casual occasion.
-  Updated: 2025-10-17T23:35:49Z
+  Updated: 2025-10-23T10:08:54Z
   Vendor: Oceanfront Products
   Product Type: T-Shirt
   Availability: Available
@@ -4275,7 +4275,7 @@
     Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/4445932613532547432_2048.jpg?v=1754882483
     Price: $52.45 USD
 - [Vibrant Baby Goat Sweatshirt for Unmatched Comfort](https://oceanfrontproducts.com/products/3d-vibrant-baby-goat-sweatshirt-hoodie-a-unique-blend-of-comfort-and-whimsy-1): Step into a world of playful charm with our 3D Vibrant Baby Goat Sweatshirt / Hoodie.
-  Updated: 2025-10-17T23:40:37Z
+  Updated: 2025-10-24T12:59:57Z
   Vendor: Oceanfront Products
   Product Type: Hoodie
   Availability: Available
@@ -4533,7 +4533,7 @@
     Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/16020444485318339152_2048.jpg?v=1754882573
     Price: $30.91 USD
 - [High-Quality 3D Travel Exploration Shirt for Adventurers](https://oceanfrontproducts.com/products/high-quality-3d-travel-and-exploration-sweatshirt-journey-in-style-2): Embark on your next adventure with our High-Quality 3D Travel and Exploration Shirt.
-  Updated: 2025-10-17T23:41:11Z
+  Updated: 2025-10-24T12:46:45Z
   Vendor: Printify
   Product Type: Sweatshirt
   Availability: Available
@@ -6571,7 +6571,7 @@
     Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/stylish-braided-leather-bracelets-built-in-usb-charger-phones-white-419.webp?v=1754882959
     Price: $22.99 USD
 - [Microphone Karaoke Machine with Dual Wireless Mics](https://oceanfrontproducts.com/products/microphone-karaoke-machine-bluetooth-compatible-speaker-with-2-wireless-mic-rgb-light-home-family-singing-speaker): Dual Microphone Karaoke Enjoy singing with friends and family with two wireless microphones included. Portable Take your karaoke party anywhere with this portable speaker system.
-  Updated: 2025-10-17T23:53:19Z
+  Updated: 2025-10-24T06:09:00Z
   Vendor: Oceanfront Products
   Product Type: 
   Availability: Available
@@ -13847,6 +13847,257 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/dee75b55-59c5-4305-b5c9-8ad3ee6a40da_trans.jpg?v=1761016067
     Price: $15.99 USD
+- [Adventure Awaits Sweatshirt](https://oceanfrontproducts.com/products/adventure-awaits-sweatshirt): Adventure awaits with this unisex heavy blend crewneck sweatshirt. Made for comfort and durability, this cozy sweatshirt is perfect for adults seeking a clean-cut style. Whether you're heading out on a new adventure or just lounging at home, this sweatshirt will keep you comfortable and stylish.Product features- Made from medium-heavy 50/50 cotton-polyester blend for comfort and durability- Classic fit and crew neckline for a comfy wearing experience- Ethically grown US cotton with OEKO-TEX certified dyes for safety and environmental standards- Embroidery decoration available on multiple areas for customization- Ribbed knit collar with seam for elasticity and shape retentionCare instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Do not iron- Do not dryclean
+  Updated: 2025-10-24T04:37:44Z
+  Vendor: Printify
+  Product Type: Sweatshirt
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/17009064001896608343_2048.jpg?v=1761237453
+  - [Navy / S](https://oceanfrontproducts.com/products/adventure-awaits-sweatshirt?variant=47233418494200)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/11740112816934904708_2048.jpg?v=1761237459
+    Price: $44.99 USD
+  - [Sand / S](https://oceanfrontproducts.com/products/adventure-awaits-sweatshirt?variant=47233418526968)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/17044542682831182251_2048.jpg?v=1761237456
+    Price: $48.99 USD
+  - [Sport Grey / S](https://oceanfrontproducts.com/products/adventure-awaits-sweatshirt?variant=47233418559736)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/10024950821996455654_2048.jpg?v=1761237457
+    Price: $44.99 USD
+  - [White / S](https://oceanfrontproducts.com/products/adventure-awaits-sweatshirt?variant=47233418592504)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/17009064001896608343_2048.jpg?v=1761237453
+    Price: $45.99 USD
+  - [Black / S](https://oceanfrontproducts.com/products/adventure-awaits-sweatshirt?variant=47233418625272)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/2511192392263785303_2048.jpg?v=1761237455
+    Price: $48.99 USD
+  - [Navy / M](https://oceanfrontproducts.com/products/adventure-awaits-sweatshirt?variant=47233418658040)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/11740112816934904708_2048.jpg?v=1761237459
+    Price: $47.99 USD
+  - [Sand / M](https://oceanfrontproducts.com/products/adventure-awaits-sweatshirt?variant=47233418690808)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/17044542682831182251_2048.jpg?v=1761237456
+    Price: $49.99 USD
+  - [Sport Grey / M](https://oceanfrontproducts.com/products/adventure-awaits-sweatshirt?variant=47233418723576)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/10024950821996455654_2048.jpg?v=1761237457
+    Price: $47.99 USD
+  - [White / M](https://oceanfrontproducts.com/products/adventure-awaits-sweatshirt?variant=47233418756344)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/17009064001896608343_2048.jpg?v=1761237453
+    Price: $49.99 USD
+  - [Black / M](https://oceanfrontproducts.com/products/adventure-awaits-sweatshirt?variant=47233418789112)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/2511192392263785303_2048.jpg?v=1761237455
+    Price: $49.99 USD
+  - [Navy / L](https://oceanfrontproducts.com/products/adventure-awaits-sweatshirt?variant=47233418821880)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/11740112816934904708_2048.jpg?v=1761237459
+    Price: $45.99 USD
+  - [Sand / L](https://oceanfrontproducts.com/products/adventure-awaits-sweatshirt?variant=47233418854648)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/17044542682831182251_2048.jpg?v=1761237456
+    Price: $49.99 USD
+  - [Sport Grey / L](https://oceanfrontproducts.com/products/adventure-awaits-sweatshirt?variant=47233418887416)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/10024950821996455654_2048.jpg?v=1761237457
+    Price: $45.99 USD
+  - [White / L](https://oceanfrontproducts.com/products/adventure-awaits-sweatshirt?variant=47233418920184)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/17009064001896608343_2048.jpg?v=1761237453
+    Price: $49.99 USD
+  - [Black / L](https://oceanfrontproducts.com/products/adventure-awaits-sweatshirt?variant=47233418952952)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/2511192392263785303_2048.jpg?v=1761237455
+    Price: $47.99 USD
+  - [Navy / XL](https://oceanfrontproducts.com/products/adventure-awaits-sweatshirt?variant=47233418985720)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/11740112816934904708_2048.jpg?v=1761237459
+    Price: $44.99 USD
+  - [Sand / XL](https://oceanfrontproducts.com/products/adventure-awaits-sweatshirt?variant=47233419018488)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/17044542682831182251_2048.jpg?v=1761237456
+    Price: $49.99 USD
+  - [Sport Grey / XL](https://oceanfrontproducts.com/products/adventure-awaits-sweatshirt?variant=47233419051256)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/10024950821996455654_2048.jpg?v=1761237457
+    Price: $48.99 USD
+  - [White / XL](https://oceanfrontproducts.com/products/adventure-awaits-sweatshirt?variant=47233419084024)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/17009064001896608343_2048.jpg?v=1761237453
+    Price: $45.99 USD
+  - [Black / XL](https://oceanfrontproducts.com/products/adventure-awaits-sweatshirt?variant=47233419116792)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/2511192392263785303_2048.jpg?v=1761237455
+    Price: $45.99 USD
+  - [Navy / 2XL](https://oceanfrontproducts.com/products/adventure-awaits-sweatshirt?variant=47233419149560)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/11740112816934904708_2048.jpg?v=1761237459
+    Price: $50.99 USD
+  - [Sand / 2XL](https://oceanfrontproducts.com/products/adventure-awaits-sweatshirt?variant=47233419182328)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/17044542682831182251_2048.jpg?v=1761237456
+    Price: $51.99 USD
+  - [Sport Grey / 2XL](https://oceanfrontproducts.com/products/adventure-awaits-sweatshirt?variant=47233419215096)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/10024950821996455654_2048.jpg?v=1761237457
+    Price: $45.99 USD
+  - [White / 2XL](https://oceanfrontproducts.com/products/adventure-awaits-sweatshirt?variant=47233419247864)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/17009064001896608343_2048.jpg?v=1761237453
+    Price: $50.99 USD
+  - [Black / 2XL](https://oceanfrontproducts.com/products/adventure-awaits-sweatshirt?variant=47233419280632)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/2511192392263785303_2048.jpg?v=1761237455
+    Price: $47.99 USD
+  - [Sand / 3XL](https://oceanfrontproducts.com/products/adventure-awaits-sweatshirt?variant=47233419313400)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/17044542682831182251_2048.jpg?v=1761237456
+    Price: $49.99 USD
+  - [White / 3XL](https://oceanfrontproducts.com/products/adventure-awaits-sweatshirt?variant=47233419346168)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/17009064001896608343_2048.jpg?v=1761237453
+    Price: $49.99 USD
+  - [Black / 3XL](https://oceanfrontproducts.com/products/adventure-awaits-sweatshirt?variant=47233419378936)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/2511192392263785303_2048.jpg?v=1761237455
+    Price: $47.99 USD
+  - [Black / 4XL](https://oceanfrontproducts.com/products/adventure-awaits-sweatshirt?variant=47233419411704)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/2511192392263785303_2048.jpg?v=1761237455
+    Price: $46.99 USD
+- [Canvas Print, Ocean Motivational Quote, Inspirational Wall Art, Home Decor,](https://oceanfrontproducts.com/products/canvas-print-ocean-motivational-quote-inspirational-wall-art-home-decor): This ocean-themed motivational quote canvas exudes positivity and inspiration. Perfect for anyone looking to add a touch of encouragement to their space, this piece is relevant for uplifting occasions and celebrations.Product features- Unique canvas coating for high-quality images- Made from sustainable materials- Printed with non-toxic latex inks- Available in 60 different sizes and orientations- Comes with back hanging for easy displayCare instructions- If the canvas does gather any dust, you may wipe it off gently with a clean, damp cloth.
+  Updated: 2025-10-24T04:41:28Z
+  Vendor: Printify
+  Product Type: Canvas
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/17813147783031955957_2048.jpg?v=1761237678
+  Price: $45.99 USD
+- [Crewneck Sweatshirt with Sugar Rush Snacks and Cakes Design](https://oceanfrontproducts.com/products/crewneck-sweatshirt-with-sugar-rush-snacks-and-cakes-design): Indulge in the sweet treats with this Sugar rush snacks and cakes themed sweatshirt. Perfect for those who love all things sugary and colorful, this cozy sweatshirt brings a fun and playful vibe to your wardrobe. Ideal for adults looking for a comfy and durable sweatshirt to wear during casual outings, cozy nights at home, or even as a statement piece during festivities like birthdays or Halloween.Product features- Unisex Heavy Blend™ Crewneck Sweatshirt- Made from medium-heavy 50/50 cotton-polyester blend for comfort and durability- Ribbed knit collar for elasticity and shape retention- Ethically grown US cotton with OEKO-TEX certified dyes for safety and environmental standards- Sugar rush snacks and cakes design for a playful touchCare instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Do not iron- Do not dryclean
+  Updated: 2025-10-24T05:00:18Z
+  Vendor: Printify
+  Product Type: Sweatshirt
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/1026470012678659288_2048.jpg?v=1761237883
+  - [Navy / S](https://oceanfrontproducts.com/products/crewneck-sweatshirt-with-sugar-rush-snacks-and-cakes-design?variant=47233427669240)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/16349174528603920374_2048.jpg?v=1761237889
+    Price: $44.99 USD
+  - [Sand / S](https://oceanfrontproducts.com/products/crewneck-sweatshirt-with-sugar-rush-snacks-and-cakes-design?variant=47233427702008)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/3353322113605934721_2048.jpg?v=1761237886
+    Price: $48.99 USD
+  - [Sport Grey / S](https://oceanfrontproducts.com/products/crewneck-sweatshirt-with-sugar-rush-snacks-and-cakes-design?variant=47233427734776)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/5887890090847613935_2048.jpg?v=1761237888
+    Price: $44.99 USD
+  - [White / S](https://oceanfrontproducts.com/products/crewneck-sweatshirt-with-sugar-rush-snacks-and-cakes-design?variant=47233427767544)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/1026470012678659288_2048.jpg?v=1761237883
+    Price: $45.99 USD
+  - [Black / S](https://oceanfrontproducts.com/products/crewneck-sweatshirt-with-sugar-rush-snacks-and-cakes-design?variant=47233427800312)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/12502685327587161631_2048.jpg?v=1761237885
+    Price: $48.99 USD
+  - [Navy / M](https://oceanfrontproducts.com/products/crewneck-sweatshirt-with-sugar-rush-snacks-and-cakes-design?variant=47233427833080)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/16349174528603920374_2048.jpg?v=1761237889
+    Price: $47.99 USD
+  - [Sand / M](https://oceanfrontproducts.com/products/crewneck-sweatshirt-with-sugar-rush-snacks-and-cakes-design?variant=47233427865848)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/3353322113605934721_2048.jpg?v=1761237886
+    Price: $49.99 USD
+  - [Sport Grey / M](https://oceanfrontproducts.com/products/crewneck-sweatshirt-with-sugar-rush-snacks-and-cakes-design?variant=47233427898616)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/5887890090847613935_2048.jpg?v=1761237888
+    Price: $47.99 USD
+  - [White / M](https://oceanfrontproducts.com/products/crewneck-sweatshirt-with-sugar-rush-snacks-and-cakes-design?variant=47233427931384)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/1026470012678659288_2048.jpg?v=1761237883
+    Price: $49.99 USD
+  - [Black / M](https://oceanfrontproducts.com/products/crewneck-sweatshirt-with-sugar-rush-snacks-and-cakes-design?variant=47233427964152)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/12502685327587161631_2048.jpg?v=1761237885
+    Price: $49.99 USD
+  - [Navy / L](https://oceanfrontproducts.com/products/crewneck-sweatshirt-with-sugar-rush-snacks-and-cakes-design?variant=47233427996920)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/16349174528603920374_2048.jpg?v=1761237889
+    Price: $45.99 USD
+  - [Sand / L](https://oceanfrontproducts.com/products/crewneck-sweatshirt-with-sugar-rush-snacks-and-cakes-design?variant=47233428029688)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/3353322113605934721_2048.jpg?v=1761237886
+    Price: $49.99 USD
+  - [Sport Grey / L](https://oceanfrontproducts.com/products/crewneck-sweatshirt-with-sugar-rush-snacks-and-cakes-design?variant=47233428062456)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/5887890090847613935_2048.jpg?v=1761237888
+    Price: $45.99 USD
+  - [White / L](https://oceanfrontproducts.com/products/crewneck-sweatshirt-with-sugar-rush-snacks-and-cakes-design?variant=47233428095224)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/1026470012678659288_2048.jpg?v=1761237883
+    Price: $49.99 USD
+  - [Black / L](https://oceanfrontproducts.com/products/crewneck-sweatshirt-with-sugar-rush-snacks-and-cakes-design?variant=47233428127992)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/12502685327587161631_2048.jpg?v=1761237885
+    Price: $47.99 USD
+  - [Navy / XL](https://oceanfrontproducts.com/products/crewneck-sweatshirt-with-sugar-rush-snacks-and-cakes-design?variant=47233428160760)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/16349174528603920374_2048.jpg?v=1761237889
+    Price: $44.99 USD
+  - [Sand / XL](https://oceanfrontproducts.com/products/crewneck-sweatshirt-with-sugar-rush-snacks-and-cakes-design?variant=47233428193528)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/3353322113605934721_2048.jpg?v=1761237886
+    Price: $49.99 USD
+  - [Sport Grey / XL](https://oceanfrontproducts.com/products/crewneck-sweatshirt-with-sugar-rush-snacks-and-cakes-design?variant=47233428226296)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/5887890090847613935_2048.jpg?v=1761237888
+    Price: $48.99 USD
+  - [White / XL](https://oceanfrontproducts.com/products/crewneck-sweatshirt-with-sugar-rush-snacks-and-cakes-design?variant=47233428259064)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/1026470012678659288_2048.jpg?v=1761237883
+    Price: $45.99 USD
+  - [Black / XL](https://oceanfrontproducts.com/products/crewneck-sweatshirt-with-sugar-rush-snacks-and-cakes-design?variant=47233428291832)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/12502685327587161631_2048.jpg?v=1761237885
+    Price: $45.99 USD
+  - [Navy / 2XL](https://oceanfrontproducts.com/products/crewneck-sweatshirt-with-sugar-rush-snacks-and-cakes-design?variant=47233428324600)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/16349174528603920374_2048.jpg?v=1761237889
+    Price: $50.99 USD
+  - [Sand / 2XL](https://oceanfrontproducts.com/products/crewneck-sweatshirt-with-sugar-rush-snacks-and-cakes-design?variant=47233428357368)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/3353322113605934721_2048.jpg?v=1761237886
+    Price: $51.99 USD
+  - [Sport Grey / 2XL](https://oceanfrontproducts.com/products/crewneck-sweatshirt-with-sugar-rush-snacks-and-cakes-design?variant=47233428390136)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/5887890090847613935_2048.jpg?v=1761237888
+    Price: $45.99 USD
+  - [White / 2XL](https://oceanfrontproducts.com/products/crewneck-sweatshirt-with-sugar-rush-snacks-and-cakes-design?variant=47233428422904)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/1026470012678659288_2048.jpg?v=1761237883
+    Price: $50.99 USD
+  - [Black / 2XL](https://oceanfrontproducts.com/products/crewneck-sweatshirt-with-sugar-rush-snacks-and-cakes-design?variant=47233428455672)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/12502685327587161631_2048.jpg?v=1761237885
+    Price: $47.99 USD
+  - [Sand / 3XL](https://oceanfrontproducts.com/products/crewneck-sweatshirt-with-sugar-rush-snacks-and-cakes-design?variant=47233428488440)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/3353322113605934721_2048.jpg?v=1761237886
+    Price: $49.99 USD
+  - [White / 3XL](https://oceanfrontproducts.com/products/crewneck-sweatshirt-with-sugar-rush-snacks-and-cakes-design?variant=47233428521208)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/1026470012678659288_2048.jpg?v=1761237883
+    Price: $49.99 USD
+  - [Black / 3XL](https://oceanfrontproducts.com/products/crewneck-sweatshirt-with-sugar-rush-snacks-and-cakes-design?variant=47233428553976)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/12502685327587161631_2048.jpg?v=1761237885
+    Price: $47.99 USD
+  - [Black / 4XL](https://oceanfrontproducts.com/products/crewneck-sweatshirt-with-sugar-rush-snacks-and-cakes-design?variant=47233428586744)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0725/6902/8856/files/12502685327587161631_2048.jpg?v=1761237885
+    Price: $46.99 USD
 
 ## Collections
 
@@ -13863,8 +14114,8 @@
   Updated: 2025-10-20T23:32:05Z
   Total Products: 14
 - [Home Decor](https://oceanfrontproducts.com/collections/home-decor): Amazing Home Decor
-  Updated: 2025-10-23T01:38:13Z
-  Total Products: 17
+  Updated: 2025-10-23T16:41:41Z
+  Total Products: 18
 - [Luggage](https://oceanfrontproducts.com/collections/luggage): Luggage
   Updated: 2025-10-11T00:20:24Z
   Total Products: 6
@@ -13878,8 +14129,8 @@
   Updated: 2025-08-10T23:59:22Z
   Total Products: 29
 - [Best Sellers Flame Humidifiers and Neck Pillows](https://oceanfrontproducts.com/collections/shop-best-sellers-including-flame-humidifier-and-neck-pillow): Oceanfront Products offers Best Sellers, including stylish accessories and unique gifts like flame humidifiers, perfect for busy moms and cherished memories.
-  Updated: 2025-10-21T03:13:15Z
-  Total Products: 250
+  Updated: 2025-10-23T16:45:06Z
+  Total Products: 253
 - [Oceanfront Apparel Collection Unisex T Shirts and Graphic Tees](https://oceanfrontproducts.com/collections/oceanfront-apparel-collection-featuring-unisex-t-shirts-and-graphic): Explore Oceanfront Products' Apparel Collection featuring stylish boss babe graphic tees, unisex t-shirts, and empowering designs perfect for confident individuals.
   Updated: 2025-10-20T23:36:09Z
   Total Products: 44
@@ -13923,6 +14174,10 @@
     Updated: 2025-10-20T10:08:36Z
     Author: Oceanfront Products
     Tags: apparel, charger, fast charging, high-power charger options, oceanfront essentials, relaxation, tranquil journeys, travel, travel essentials, travel power solutions
+  - [Discover the Serenity of Oceanfront Travel with the U-Shaped Neck Cushion Perfect for Your Beach Lifestyle](https://oceanfrontproducts.com/blogs/news/discover-the-serenity-of-oceanfront-travel-with-the-u-shaped-neck-cushion-perfect-for-your-beach-lifestyle): Discover the Serenity of Oceanfront Travel with the U-Shaped Neck Cushion Perfect for Your Beach Lifestyle
+    Updated: 2025-10-23T10:01:48Z
+    Author: Oceanfront Products
+    Tags: apparel, beach lifestyle, comfortable travel, cushion, neck support, oceanfront, relaxing beach experience, travel, travel essentials, u-shaped neck cushion
 
 ## Store Pages
 
