@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-10-25T12:00:39.398Z
+- Updated At: 2025-10-25T20:00:42.996Z
 
 ## Products
 
@@ -297,20 +297,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Linn-Clothes-Rack-White-6.jpg?v=1727659793
   Price: $319.99 NZD
-- [Brabantia Bo Touch Bin - 2 x 30L Platinum](https://everydayhome.co.nz/products/bo-touch-bin-2-x-30l-platinum): Bo Touch Bin, 2 X 30L, Platinum
-  Updated: 2025-10-23T20:30:41Z
-  Vendor: BRABANTIA
-  Product Type: Waste Care
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Bo-Touch-Bin-2-X-30L-Platinum-2.jpg?v=1727658547
-  Price: $479.99 NZD
-- [Brabantia Bo Touch Bin - 60L White](https://everydayhome.co.nz/products/bo-touch-bin-60l-white): Bo Touch Bin, 60L, White
-  Updated: 2025-10-23T20:30:42Z
-  Vendor: BRABANTIA
-  Product Type: Waste Care
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Bo-Touch-Bin-60L-White-4.jpg?v=1727658585
-  Price: $479.99 NZD
 - [Brabantia Bo Touch Bin - 60L Matt Black](https://everydayhome.co.nz/products/bo-touch-bin-60l-matt-black): Bo Touch Bin, 60L, Matt Black
   Updated: 2025-10-23T20:30:42Z
   Vendor: BRABANTIA
@@ -1124,7 +1110,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Fall-Front-Bread-Bin-Platinum-4.png?v=1727659786
   Price: $69.99 NZD
 - [Brabantia Fall Front Bread Bin - Medium White](https://everydayhome.co.nz/products/fall-front-bread-bin-white): Looking for a space saving solution to keep your bread fresh or your crisps crispy? Meet Brabantia's Fall Front Bread Bin. It fits up to two loaves, but thanks to its rectangular design, it does not need much room. Other top features: it has a flat top made to put your canisters on, the lid has a large grip for easy opening and a magnet for perfect closing. No counterspace to spare at all? Simply hang it on the wall by its hanging eyes on the back. A bread bin to fall for!
-  Updated: 2025-10-25T06:52:11Z
+  Updated: 2025-10-25T16:07:11Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -1663,7 +1649,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Buddy-Hook-Set-3-Assorted-Grey-UMBRA-4.jpg?v=1731902503
   Price: $31.99 NZD
 - [Umbra Buddy Wall Hook - Set of 3 Black](https://everydayhome.co.nz/products/buddy-hook-set-3-black): This set of 3 wall hooks features Umbra’s popular Buddy character “climbing the walls” in various positions. When not in use, they serve as fun, unique wall decor that is sure to be a conversation-starter. Buddy Wall Hooks are the perfect addition to your entryway and a playful, space-saving alternative to a traditional coat rack.
-  Updated: 2025-10-24T01:37:05Z
+  Updated: 2025-10-25T18:35:31Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -2874,7 +2860,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Tasty_MixingBowlSet-Mixed-8710755122262Brabantia_96dpi_1000x1000px_7_NR-15462.png?v=1734403925
   Price: $79.99 NZD
 - [Brabantia Steam Iron Store - Dark Grey](https://everydayhome.co.nz/products/steam-iron-store-dark-grey): Done ironing? Don't let your iron cool on your ironing board, get everything out of the way quickly and safely with Brabantia’s Iron Store. Made from heat-resistant materials, so no cool-down required. Put away your hot iron, wind up the flex and hang the board on the sturdy hook. Kid-proof, neat and tidy in no time!
-  Updated: 2025-10-23T20:33:42Z
+  Updated: 2025-10-25T19:41:07Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -3070,7 +3056,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ProtectiveClothesCover_XL_setof2-Transparent-8710755148965Brabantia_96dpi_1000x1000px_7_NR-26293.png?v=1733862417
   Price: $27.99 NZD
 - [Brabantia Stackable Glass Jar - 1.1L Dark Grey](https://everydayhome.co.nz/products/stackable-glass-jar-1-1l-w-dark-grey-lid): Efficiently organize your kitchen with these stackable glass jars. They provide the perfect storage solution for all your cooking supplies, keeping them fresh and accessible at all times.
-  Updated: 2025-10-23T20:33:59Z
+  Updated: 2025-10-25T16:07:12Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -3119,7 +3105,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ConcreteTubePlastic_Size2_O45mm-Black-8710755296789Brabantia_96dpi_1000x1000px_7_NR-1806_a37b3a9a-dc8f-4293-ab16-6bbdcce3a7d4.png?v=1733865664
   Price: $25.99 NZD
 - [Brabantia Stackable Glass Jar - 0.7L Dark Grey](https://everydayhome.co.nz/products/stackable-glass-jar-0-7l-w-dark-grey-lid): Efficiently organize your kitchen with these stackable glass jars. They provide the perfect storage solution for all your cooking supplies, keeping them fresh and accessible at all times.
-  Updated: 2025-10-23T20:34:02Z
+  Updated: 2025-10-25T16:07:11Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -3133,7 +3119,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/EverydayHomePegBag.png?v=1739400020
   Price: $21.99 NZD
 - [Brabantia Stackable Glass Jar - 0.3L Dark Grey](https://everydayhome.co.nz/products/stackable-glass-jar-0-3l-w-dark-grey-lid): Efficiently organize your kitchen with these stackable glass jars. They provide the perfect storage solution for all your cooking supplies, keeping them fresh and accessible at all times.
-  Updated: 2025-10-23T20:34:03Z
+  Updated: 2025-10-25T16:07:11Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -3238,7 +3224,7 @@
     Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/swiftdry-lifestyle-replacement-double-pulley-black-213946.jpg?v=1746478916
     Price: $30.00 NZD
 - [SwiftDry StreamLine 24M Clothesline (<4m x 0.6m)](https://everydayhome.co.nz/products/swiftdry-streamline-clothesline-black-powdercoated): The SwiftDry StreamLine is a premium fold-down clothesline, perfect for modern homes. Designed to neatly fold away against walls, fences, decks, or balconies, it provides up to 24m of family-sized drying space. Its versatile, adjustable length makes it ideal for fitting along footpaths or the side of your house in a practical, space-saving, and discreet way. A stylish and durable solution for efficient outdoor drying! Features: 6 Lines Suitable for 1-4 people Frame Depth: 600mm Length: up to 4m (can customise length on installation) Line Space: 24m 316 Stainless Steel fixings and lock pins Mounting Bracket Width: 250mm (with 3x 8mm holes on each bracket) Timber mounting screws included. Easy install with step by step instructions Easy tensioning system so your lines will always be tight High tensile galvanised steel construction with Black powdercoating over top for excellent weather protection, durability, and a modern, inconspicuous look. Clothesline folds away against fixing when not in use by releasing a pin on each bracket Warranty: 30 Years - Structural Carton size 65 x 29 x 16cm, 8kg StreamLine Vs Sleekline? Kitset includes: 2x fold down wall/clothesline brackets PVC Nylon UV stable line, and tension lock Easy DIY install instructions 8x wood screws (4 for each bracket) for direct mounting to fence, wall, weatherboard etc. you will need masonry bolts if attaching to brick, concrete, or similar surface 8 x M8x75mm concrete anchor screws supplied with the Surface mounted post kit
-  Updated: 2025-10-20T22:32:45Z
+  Updated: 2025-10-25T18:32:46Z
   Vendor: SwiftDry Clotheslines NZ
   Product Type: 
   Availability: Available
