@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-06-10T13:24:53Z
 - Contact Email: georgina@georginatalfana.com
-- Updated At: 2025-10-25T04:00:34.013Z
+- Updated At: 2025-10-25T12:00:45.380Z
 
 ## Products
 
