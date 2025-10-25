@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2018-01-12T21:20:39Z
 - Contact Email: contact@ma-boutique-henne.com
-- Updated At: 2025-10-24T12:00:41.022Z
+- Updated At: 2025-10-25T04:00:46.500Z
 
 ## Products
 
@@ -123,7 +123,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/henne-marron-a-la-rose-hemani_2be31cee-ec22-46b9-a5ab-7a801a78fa69.jpg?v=1604930939
   Price: 8,50 € EUR
 - [Henné Bordeaux HEMANI - 150 GR](https://ma-boutique-henne.com/products/henne-bordeaux-hemani): L'authentique Hemani bordeaux, burgundy, auburn, ce henné est un mélange de plantes tinctoriales permettant d'obtenir une couleur rouge foncé et couvre les cheveux blancs, coloration, naturelle, red, naturelle, roux, rousse, brune, cerise, auburn, bordeaux, plante, poudre, bio, amla, red kalama, shikakai, couleur
-  Updated: 2025-10-23T19:01:52Z
+  Updated: 2025-10-24T12:17:55Z
   Vendor: Ma Boutique Henné
   Product Type: Henné
   Availability: Available
@@ -845,7 +845,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/tulsi-500x717.jpg?v=1598882823
   Price: 9,50 € EUR
 - [Soin Colorant Repigmentant Blond Vénitien - MULATO](https://ma-boutique-henne.com/products/soin-colorant-repigmentant-blond-venitien-mulato): Patrice Mulato Cosmetics, blond vénitien, soin repigmentant, shampoing repigmentant, masque, soin cheveux, coloration naturelle, rouge cerise venise, ocre havane, sienne brûlée, blond vénitien, ombre naturelle, terre bleue, pourpre phénicien, violet, violine, henne, entretenir le roux, cheveux rouges, roux, vegan, cuivré
-  Updated: 2025-10-22T22:22:36Z
+  Updated: 2025-10-25T00:14:34Z
   Vendor: Ma Boutique Henné
   Product Type: mulato
   Availability: Available
@@ -901,7 +901,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/files/soin-ombre-naturelle-200ml.png?v=1724147967
   Price: 32,50 € EUR
 - [Henné Brunette - ECOCERT](https://ma-boutique-henne.com/products/henne-brunette): brou de noix, henne brunette, henné, henna brown mayam elemental noce mallo, coque de la noix. poudre hyper fine, nuances de châtain, à marron, chocolat, brun. couvre cheveux blancs, henné, coloration chatain naturelle, katam, feuille, noyer, brune, bio, biologique, nature, coloration marron chocolat, brune,
-  Updated: 2025-10-19T14:44:16Z
+  Updated: 2025-10-24T15:15:15Z
   Vendor: Ma Boutique Henné
   Product Type: Poudres colorantes
   Availability: Available
