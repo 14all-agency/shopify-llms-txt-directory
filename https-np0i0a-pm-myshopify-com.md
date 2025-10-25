@@ -5,7 +5,7 @@
 - Currency: USD
 - Timezone: America/New_York
 - Created At: 2025-07-25T14:20:57Z
-- Updated At: 2025-10-25T04:00:39.894Z
+- Updated At: 2025-10-25T08:01:00.498Z
 
 ## Products
 
@@ -2236,179 +2236,179 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/e6104dc3-9da4-4a70-b9ea-9128dc92a23e-Max.webp?v=1760866227
     Price: $22.00 USD
-- [Full Size Contrast Lapel Collar Top and Pants Set - Pretty Melanin](https://np0i0a-pm.myshopify.com/products/full-size-contrast-lapel-collar-top-pants-set): Shop our Full Size Contrast Lapel Collar Top and Pants Set, featuring a stylish design, practical pockets, and quality polyester material. Perfect for any occasion.
-  Updated: 2025-10-25T02:18:48Z
+- [Full Size Contrast Lapel Collar Top and Pants Set - Stylish & Comfortable](https://np0i0a-pm.myshopify.com/products/full-size-contrast-lapel-collar-top-pants-set): Discover the versatile full size contrast lapel collar set. Perfect for various occasions with a chic lapel collar, tailored fit, and easy care. Shop now!
+  Updated: 2025-10-25T04:02:58Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/69f80e19-8bc3-4e99-a2e1-f3cd113395c5-Max.webp?v=1760866311
+  Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/69f80e19-8bc3-4e99-a2e1-f3cd113395c5-Max.webp?v=1761364969
   - [Light Gray / S](https://np0i0a-pm.myshopify.com/products/full-size-contrast-lapel-collar-top-pants-set?variant=51261895540967)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/69f80e19-8bc3-4e99-a2e1-f3cd113395c5-Max.webp?v=1760866311
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/69f80e19-8bc3-4e99-a2e1-f3cd113395c5-Max.webp?v=1761364969
     Price: $36.62 USD
   - [Light Gray / M](https://np0i0a-pm.myshopify.com/products/full-size-contrast-lapel-collar-top-pants-set?variant=51261895573735)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/69f80e19-8bc3-4e99-a2e1-f3cd113395c5-Max.webp?v=1760866311
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/69f80e19-8bc3-4e99-a2e1-f3cd113395c5-Max.webp?v=1761364969
     Price: $36.62 USD
   - [Light Gray / L](https://np0i0a-pm.myshopify.com/products/full-size-contrast-lapel-collar-top-pants-set?variant=51261895606503)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/69f80e19-8bc3-4e99-a2e1-f3cd113395c5-Max.webp?v=1760866311
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/69f80e19-8bc3-4e99-a2e1-f3cd113395c5-Max.webp?v=1761364969
     Price: $36.62 USD
   - [Light Gray / XL](https://np0i0a-pm.myshopify.com/products/full-size-contrast-lapel-collar-top-pants-set?variant=51261895639271)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/69f80e19-8bc3-4e99-a2e1-f3cd113395c5-Max.webp?v=1760866311
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/69f80e19-8bc3-4e99-a2e1-f3cd113395c5-Max.webp?v=1761364969
     Price: $36.62 USD
   - [Light Gray / 2XL](https://np0i0a-pm.myshopify.com/products/full-size-contrast-lapel-collar-top-pants-set?variant=51261895672039)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/69f80e19-8bc3-4e99-a2e1-f3cd113395c5-Max.webp?v=1760866311
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/69f80e19-8bc3-4e99-a2e1-f3cd113395c5-Max.webp?v=1761364969
     Price: $36.62 USD
   - [Light Gray / 3XL](https://np0i0a-pm.myshopify.com/products/full-size-contrast-lapel-collar-top-pants-set?variant=51261895704807)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/69f80e19-8bc3-4e99-a2e1-f3cd113395c5-Max.webp?v=1760866311
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/69f80e19-8bc3-4e99-a2e1-f3cd113395c5-Max.webp?v=1761364969
     Price: $36.62 USD
   - [Royal Blue / S](https://np0i0a-pm.myshopify.com/products/full-size-contrast-lapel-collar-top-pants-set?variant=51261895737575)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/4a4264e8-501f-456f-8e43-7ddd46994a0f-Max.webp?v=1760866321
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/4a4264e8-501f-456f-8e43-7ddd46994a0f-Max.webp?v=1761364970
     Price: $36.62 USD
   - [Royal Blue / M](https://np0i0a-pm.myshopify.com/products/full-size-contrast-lapel-collar-top-pants-set?variant=51261895770343)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/4a4264e8-501f-456f-8e43-7ddd46994a0f-Max.webp?v=1760866321
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/4a4264e8-501f-456f-8e43-7ddd46994a0f-Max.webp?v=1761364970
     Price: $36.62 USD
   - [Royal Blue / L](https://np0i0a-pm.myshopify.com/products/full-size-contrast-lapel-collar-top-pants-set?variant=51261895803111)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/4a4264e8-501f-456f-8e43-7ddd46994a0f-Max.webp?v=1760866321
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/4a4264e8-501f-456f-8e43-7ddd46994a0f-Max.webp?v=1761364970
     Price: $36.62 USD
   - [Royal Blue / XL](https://np0i0a-pm.myshopify.com/products/full-size-contrast-lapel-collar-top-pants-set?variant=51261895835879)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/4a4264e8-501f-456f-8e43-7ddd46994a0f-Max.webp?v=1760866321
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/4a4264e8-501f-456f-8e43-7ddd46994a0f-Max.webp?v=1761364970
     Price: $36.62 USD
   - [Royal Blue / 2XL](https://np0i0a-pm.myshopify.com/products/full-size-contrast-lapel-collar-top-pants-set?variant=51261895868647)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/4a4264e8-501f-456f-8e43-7ddd46994a0f-Max.webp?v=1760866321
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/4a4264e8-501f-456f-8e43-7ddd46994a0f-Max.webp?v=1761364970
     Price: $36.62 USD
   - [Royal Blue / 3XL](https://np0i0a-pm.myshopify.com/products/full-size-contrast-lapel-collar-top-pants-set?variant=51261895901415)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/4a4264e8-501f-456f-8e43-7ddd46994a0f-Max.webp?v=1760866321
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/4a4264e8-501f-456f-8e43-7ddd46994a0f-Max.webp?v=1761364970
     Price: $36.62 USD
   - [Black / S](https://np0i0a-pm.myshopify.com/products/full-size-contrast-lapel-collar-top-pants-set?variant=51261895934183)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/7bdbc940-25e4-4059-af88-bf9868f5e045-Max.webp?v=1760866329
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/7bdbc940-25e4-4059-af88-bf9868f5e045-Max.webp?v=1761364970
     Price: $36.62 USD
   - [Black / M](https://np0i0a-pm.myshopify.com/products/full-size-contrast-lapel-collar-top-pants-set?variant=51261895966951)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/7bdbc940-25e4-4059-af88-bf9868f5e045-Max.webp?v=1760866329
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/7bdbc940-25e4-4059-af88-bf9868f5e045-Max.webp?v=1761364970
     Price: $36.62 USD
   - [Black / L](https://np0i0a-pm.myshopify.com/products/full-size-contrast-lapel-collar-top-pants-set?variant=51261895999719)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/7bdbc940-25e4-4059-af88-bf9868f5e045-Max.webp?v=1760866329
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/7bdbc940-25e4-4059-af88-bf9868f5e045-Max.webp?v=1761364970
     Price: $36.62 USD
   - [Black / XL](https://np0i0a-pm.myshopify.com/products/full-size-contrast-lapel-collar-top-pants-set?variant=51261896032487)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/7bdbc940-25e4-4059-af88-bf9868f5e045-Max.webp?v=1760866329
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/7bdbc940-25e4-4059-af88-bf9868f5e045-Max.webp?v=1761364970
     Price: $36.62 USD
   - [Black / 2XL](https://np0i0a-pm.myshopify.com/products/full-size-contrast-lapel-collar-top-pants-set?variant=51261896065255)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/7bdbc940-25e4-4059-af88-bf9868f5e045-Max.webp?v=1760866329
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/7bdbc940-25e4-4059-af88-bf9868f5e045-Max.webp?v=1761364970
     Price: $36.62 USD
   - [Black / 3XL](https://np0i0a-pm.myshopify.com/products/full-size-contrast-lapel-collar-top-pants-set?variant=51261896098023)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/7bdbc940-25e4-4059-af88-bf9868f5e045-Max.webp?v=1760866329
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/7bdbc940-25e4-4059-af88-bf9868f5e045-Max.webp?v=1761364970
     Price: $36.62 USD
   - [White / S](https://np0i0a-pm.myshopify.com/products/full-size-contrast-lapel-collar-top-pants-set?variant=51261896130791)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/f5363101-d25c-45d2-b472-e16e7e0d1cac-Max.webp?v=1760866351
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/f5363101-d25c-45d2-b472-e16e7e0d1cac-Max.webp?v=1761364970
     Price: $36.62 USD
   - [White / M](https://np0i0a-pm.myshopify.com/products/full-size-contrast-lapel-collar-top-pants-set?variant=51261896163559)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/f5363101-d25c-45d2-b472-e16e7e0d1cac-Max.webp?v=1760866351
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/f5363101-d25c-45d2-b472-e16e7e0d1cac-Max.webp?v=1761364970
     Price: $36.62 USD
   - [White / L](https://np0i0a-pm.myshopify.com/products/full-size-contrast-lapel-collar-top-pants-set?variant=51261896196327)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/f5363101-d25c-45d2-b472-e16e7e0d1cac-Max.webp?v=1760866351
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/f5363101-d25c-45d2-b472-e16e7e0d1cac-Max.webp?v=1761364970
     Price: $36.62 USD
   - [White / XL](https://np0i0a-pm.myshopify.com/products/full-size-contrast-lapel-collar-top-pants-set?variant=51261896229095)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/f5363101-d25c-45d2-b472-e16e7e0d1cac-Max.webp?v=1760866351
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/f5363101-d25c-45d2-b472-e16e7e0d1cac-Max.webp?v=1761364970
     Price: $36.62 USD
   - [White / 2XL](https://np0i0a-pm.myshopify.com/products/full-size-contrast-lapel-collar-top-pants-set?variant=51261896261863)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/f5363101-d25c-45d2-b472-e16e7e0d1cac-Max.webp?v=1760866351
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/f5363101-d25c-45d2-b472-e16e7e0d1cac-Max.webp?v=1761364970
     Price: $36.62 USD
   - [White / 3XL](https://np0i0a-pm.myshopify.com/products/full-size-contrast-lapel-collar-top-pants-set?variant=51261896294631)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/f5363101-d25c-45d2-b472-e16e7e0d1cac-Max.webp?v=1760866351
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/f5363101-d25c-45d2-b472-e16e7e0d1cac-Max.webp?v=1761364970
     Price: $36.62 USD
   - [French Blue / S](https://np0i0a-pm.myshopify.com/products/full-size-contrast-lapel-collar-top-pants-set?variant=51261896327399)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/053b061d-57c1-4e3e-952f-602732813c71-Max.webp?v=1760866357
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/053b061d-57c1-4e3e-952f-602732813c71-Max.webp?v=1761364970
     Price: $36.62 USD
   - [French Blue / M](https://np0i0a-pm.myshopify.com/products/full-size-contrast-lapel-collar-top-pants-set?variant=51261896360167)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/053b061d-57c1-4e3e-952f-602732813c71-Max.webp?v=1760866357
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/053b061d-57c1-4e3e-952f-602732813c71-Max.webp?v=1761364970
     Price: $36.62 USD
   - [French Blue / L](https://np0i0a-pm.myshopify.com/products/full-size-contrast-lapel-collar-top-pants-set?variant=51261896392935)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/053b061d-57c1-4e3e-952f-602732813c71-Max.webp?v=1760866357
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/053b061d-57c1-4e3e-952f-602732813c71-Max.webp?v=1761364970
     Price: $36.62 USD
   - [French Blue / XL](https://np0i0a-pm.myshopify.com/products/full-size-contrast-lapel-collar-top-pants-set?variant=51261896425703)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/053b061d-57c1-4e3e-952f-602732813c71-Max.webp?v=1760866357
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/053b061d-57c1-4e3e-952f-602732813c71-Max.webp?v=1761364970
     Price: $36.62 USD
   - [French Blue / 2XL](https://np0i0a-pm.myshopify.com/products/full-size-contrast-lapel-collar-top-pants-set?variant=51261896458471)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/053b061d-57c1-4e3e-952f-602732813c71-Max.webp?v=1760866357
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/053b061d-57c1-4e3e-952f-602732813c71-Max.webp?v=1761364970
     Price: $36.62 USD
   - [French Blue / 3XL](https://np0i0a-pm.myshopify.com/products/full-size-contrast-lapel-collar-top-pants-set?variant=51261896491239)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/053b061d-57c1-4e3e-952f-602732813c71-Max.webp?v=1760866357
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/053b061d-57c1-4e3e-952f-602732813c71-Max.webp?v=1761364970
     Price: $36.62 USD
   - [Mauve / S](https://np0i0a-pm.myshopify.com/products/full-size-contrast-lapel-collar-top-pants-set?variant=51261896524007)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/b178faea-1b45-4dec-87a8-6e78029cb080-Max.webp?v=1760866365
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/b178faea-1b45-4dec-87a8-6e78029cb080-Max.webp?v=1761364970
     Price: $36.62 USD
   - [Mauve / M](https://np0i0a-pm.myshopify.com/products/full-size-contrast-lapel-collar-top-pants-set?variant=51261896556775)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/b178faea-1b45-4dec-87a8-6e78029cb080-Max.webp?v=1760866365
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/b178faea-1b45-4dec-87a8-6e78029cb080-Max.webp?v=1761364970
     Price: $36.62 USD
   - [Mauve / L](https://np0i0a-pm.myshopify.com/products/full-size-contrast-lapel-collar-top-pants-set?variant=51261896589543)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/b178faea-1b45-4dec-87a8-6e78029cb080-Max.webp?v=1760866365
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/b178faea-1b45-4dec-87a8-6e78029cb080-Max.webp?v=1761364970
     Price: $36.62 USD
   - [Mauve / XL](https://np0i0a-pm.myshopify.com/products/full-size-contrast-lapel-collar-top-pants-set?variant=51261896622311)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/b178faea-1b45-4dec-87a8-6e78029cb080-Max.webp?v=1760866365
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/b178faea-1b45-4dec-87a8-6e78029cb080-Max.webp?v=1761364970
     Price: $36.62 USD
   - [Mauve / 2XL](https://np0i0a-pm.myshopify.com/products/full-size-contrast-lapel-collar-top-pants-set?variant=51261896655079)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/b178faea-1b45-4dec-87a8-6e78029cb080-Max.webp?v=1760866365
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/b178faea-1b45-4dec-87a8-6e78029cb080-Max.webp?v=1761364970
     Price: $36.62 USD
   - [Mauve / 3XL](https://np0i0a-pm.myshopify.com/products/full-size-contrast-lapel-collar-top-pants-set?variant=51261896687847)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/b178faea-1b45-4dec-87a8-6e78029cb080-Max.webp?v=1760866365
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/b178faea-1b45-4dec-87a8-6e78029cb080-Max.webp?v=1761364970
     Price: $36.62 USD
   - [Green / S](https://np0i0a-pm.myshopify.com/products/full-size-contrast-lapel-collar-top-pants-set?variant=51261896720615)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/7e010f0a-d011-47a4-b5c3-e9eeb6c39b61-Max.webp?v=1760866372
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/7e010f0a-d011-47a4-b5c3-e9eeb6c39b61-Max.webp?v=1761364970
     Price: $36.62 USD
   - [Green / M](https://np0i0a-pm.myshopify.com/products/full-size-contrast-lapel-collar-top-pants-set?variant=51261896753383)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/7e010f0a-d011-47a4-b5c3-e9eeb6c39b61-Max.webp?v=1760866372
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/7e010f0a-d011-47a4-b5c3-e9eeb6c39b61-Max.webp?v=1761364970
     Price: $36.62 USD
   - [Green / L](https://np0i0a-pm.myshopify.com/products/full-size-contrast-lapel-collar-top-pants-set?variant=51261896786151)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/7e010f0a-d011-47a4-b5c3-e9eeb6c39b61-Max.webp?v=1760866372
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/7e010f0a-d011-47a4-b5c3-e9eeb6c39b61-Max.webp?v=1761364970
     Price: $36.62 USD
   - [Green / XL](https://np0i0a-pm.myshopify.com/products/full-size-contrast-lapel-collar-top-pants-set?variant=51261896818919)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/7e010f0a-d011-47a4-b5c3-e9eeb6c39b61-Max.webp?v=1760866372
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/7e010f0a-d011-47a4-b5c3-e9eeb6c39b61-Max.webp?v=1761364970
     Price: $36.62 USD
   - [Green / 2XL](https://np0i0a-pm.myshopify.com/products/full-size-contrast-lapel-collar-top-pants-set?variant=51261896851687)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/7e010f0a-d011-47a4-b5c3-e9eeb6c39b61-Max.webp?v=1760866372
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/7e010f0a-d011-47a4-b5c3-e9eeb6c39b61-Max.webp?v=1761364970
     Price: $36.62 USD
   - [Green / 3XL](https://np0i0a-pm.myshopify.com/products/full-size-contrast-lapel-collar-top-pants-set?variant=51261896884455)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/7e010f0a-d011-47a4-b5c3-e9eeb6c39b61-Max.webp?v=1760866372
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/7e010f0a-d011-47a4-b5c3-e9eeb6c39b61-Max.webp?v=1761364970
     Price: $36.62 USD
 - [Texture Button Up Shirt and Drawstring Shorts Set - Stylish Comfort](https://np0i0a-pm.myshopify.com/products/texture-button-up-shirt-drawstring-shorts-set): Discover our Texture Button Up Shirt and Drawstring Shorts Set, featuring a stylish design, soft rayon material, and convenient pockets for ultimate comfort.
   Updated: 2025-10-21T20:59:06Z
@@ -3613,7 +3613,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/61666c86-73f5-433b-aa34-a72a49959bee-Max.webp?v=1760856509
     Price: $34.34 USD
 - [Game Day Football Print Long Sleeve T-Shirt - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/game-day-football-print-long-sleeve-t-shirt): Shop our Game Day Football Print Long Sleeve T-Shirt for perfect comfort and style on game day. Made from high-quality materials, this tee is a must-have for every fan.
-  Updated: 2025-10-24T01:31:06Z
+  Updated: 2025-10-25T06:41:12Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -3630,27 +3630,27 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/0dd6fe9f-233b-4a04-80ad-ad99a4c3a0b5-Max-Origin.webp?v=1760856535
     Price: $16.58 USD
-- [Ruffled Wide Leg Pull On High Waist Pants](https://np0i0a-pm.myshopify.com/products/ruffled-wide-leg-pull-on-high-waist-pants-with-pockets): Shop stylish Ruffled Wide Leg Pull On High Waist Pants with pockets. Comfortable fit, trendy design, and easy care make these pants a wardrobe essential.
-  Updated: 2025-10-24T20:41:12Z
+- [Ruffled Wide Leg Pants - Stylish High Waist Pull-On with Pockets](https://np0i0a-pm.myshopify.com/products/ruffled-wide-leg-pull-on-high-waist-pants-with-pockets): Shop our Ruffled Wide Leg for a chic high waist pant with pockets, perfect for comfort and style. Easy to care for, versatile, and high-quality material.
+  Updated: 2025-10-25T07:48:42Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/0c83d2d8-e1f0-46c5-aaac-cd064dd98dc7-Max-Origin.webp?v=1760856539
+  Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/0c83d2d8-e1f0-46c5-aaac-cd064dd98dc7-Max-Origin.webp?v=1761378521
   - [Black / S](https://np0i0a-pm.myshopify.com/products/ruffled-wide-leg-pull-on-high-waist-pants-with-pockets?variant=51264531726567)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/0c83d2d8-e1f0-46c5-aaac-cd064dd98dc7-Max-Origin.webp?v=1760856539
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/0c83d2d8-e1f0-46c5-aaac-cd064dd98dc7-Max-Origin.webp?v=1761378521
     Price: $37.60 USD
   - [Black / M](https://np0i0a-pm.myshopify.com/products/ruffled-wide-leg-pull-on-high-waist-pants-with-pockets?variant=51264531759335)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/0c83d2d8-e1f0-46c5-aaac-cd064dd98dc7-Max-Origin.webp?v=1760856539
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/0c83d2d8-e1f0-46c5-aaac-cd064dd98dc7-Max-Origin.webp?v=1761378521
     Price: $37.60 USD
   - [Black / L](https://np0i0a-pm.myshopify.com/products/ruffled-wide-leg-pull-on-high-waist-pants-with-pockets?variant=51264531792103)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/0c83d2d8-e1f0-46c5-aaac-cd064dd98dc7-Max-Origin.webp?v=1760856539
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/0c83d2d8-e1f0-46c5-aaac-cd064dd98dc7-Max-Origin.webp?v=1761378521
     Price: $37.60 USD
   - [Black / XL](https://np0i0a-pm.myshopify.com/products/ruffled-wide-leg-pull-on-high-waist-pants-with-pockets?variant=51264531824871)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/0c83d2d8-e1f0-46c5-aaac-cd064dd98dc7-Max-Origin.webp?v=1760856539
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/0c83d2d8-e1f0-46c5-aaac-cd064dd98dc7-Max-Origin.webp?v=1761378521
     Price: $37.60 USD
 - [Tie-Dye Long Sleeve Maxi Bodycon Dress - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/tie-dye-long-sleeve-maxi-bodycon-dress): Shop the stylish Tie-Dye Long Sleeve Maxi Bodycon Dress, featuring a backless design, slightly stretchy fabric, and easy care instructions. Perfect for any occasion!
   Updated: 2025-10-20T10:32:10Z
@@ -3670,75 +3670,75 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/c3710a4f27ad43559bff4a258bcbc17f-Max-Origin.webp?v=1760856581
     Price: $31.16 USD
-- [Devine Ruched Ruffled Balloon Sleeve Mini Dress - Pretty Melanin](https://np0i0a-pm.myshopify.com/products/devine-ruched-ruffled-balloon-sleeve-mini-dress): Discover the Devine Ruched Ruffled Balloon Sleeve Mini Dress, featuring a beautiful ruffled design, slight stretch, and comfortable fit. Perfect for any occasion.
-  Updated: 2025-10-25T03:02:06Z
+- [Devine Ruched Ruffled Mini Dress - Elegant & Comfortable Choice](https://np0i0a-pm.myshopify.com/products/devine-ruched-ruffled-balloon-sleeve-mini-dress): Shop the Devine Ruched Ruffled Mini Dress for a chic, stylish look. Designed with ruffled details and a perfect fit, it’s ideal for special occasions and casual outings.
+  Updated: 2025-10-25T04:35:33Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/7720856c-b698-4762-8ecf-0e5947f82ab4-Max.webp?v=1760856583
+  Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/7720856c-b698-4762-8ecf-0e5947f82ab4-Max.webp?v=1761366926
   - [Black / S](https://np0i0a-pm.myshopify.com/products/devine-ruched-ruffled-balloon-sleeve-mini-dress?variant=51264532807911)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/7720856c-b698-4762-8ecf-0e5947f82ab4-Max.webp?v=1760856583
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/7720856c-b698-4762-8ecf-0e5947f82ab4-Max.webp?v=1761366926
     Price: $27.00 USD
   - [Black / M](https://np0i0a-pm.myshopify.com/products/devine-ruched-ruffled-balloon-sleeve-mini-dress?variant=51264532840679)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/7720856c-b698-4762-8ecf-0e5947f82ab4-Max.webp?v=1760856583
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/7720856c-b698-4762-8ecf-0e5947f82ab4-Max.webp?v=1761366926
     Price: $27.00 USD
   - [Black / L](https://np0i0a-pm.myshopify.com/products/devine-ruched-ruffled-balloon-sleeve-mini-dress?variant=51264532873447)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/7720856c-b698-4762-8ecf-0e5947f82ab4-Max.webp?v=1760856583
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/7720856c-b698-4762-8ecf-0e5947f82ab4-Max.webp?v=1761366926
     Price: $27.00 USD
   - [Black / XL](https://np0i0a-pm.myshopify.com/products/devine-ruched-ruffled-balloon-sleeve-mini-dress?variant=51264532906215)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/7720856c-b698-4762-8ecf-0e5947f82ab4-Max.webp?v=1760856583
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/7720856c-b698-4762-8ecf-0e5947f82ab4-Max.webp?v=1761366926
     Price: $27.00 USD
   - [Dark Blue / S](https://np0i0a-pm.myshopify.com/products/devine-ruched-ruffled-balloon-sleeve-mini-dress?variant=51264532938983)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/67f04031-77f1-4465-a0ce-052b78e1acac-Max.webp?v=1760856607
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/67f04031-77f1-4465-a0ce-052b78e1acac-Max.webp?v=1761366927
     Price: $27.00 USD
   - [Dark Blue / M](https://np0i0a-pm.myshopify.com/products/devine-ruched-ruffled-balloon-sleeve-mini-dress?variant=51264532971751)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/67f04031-77f1-4465-a0ce-052b78e1acac-Max.webp?v=1760856607
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/67f04031-77f1-4465-a0ce-052b78e1acac-Max.webp?v=1761366927
     Price: $27.00 USD
   - [Dark Blue / L](https://np0i0a-pm.myshopify.com/products/devine-ruched-ruffled-balloon-sleeve-mini-dress?variant=51264533004519)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/67f04031-77f1-4465-a0ce-052b78e1acac-Max.webp?v=1760856607
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/67f04031-77f1-4465-a0ce-052b78e1acac-Max.webp?v=1761366927
     Price: $27.00 USD
   - [Dark Blue / XL](https://np0i0a-pm.myshopify.com/products/devine-ruched-ruffled-balloon-sleeve-mini-dress?variant=51264533037287)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/67f04031-77f1-4465-a0ce-052b78e1acac-Max.webp?v=1760856607
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/67f04031-77f1-4465-a0ce-052b78e1acac-Max.webp?v=1761366927
     Price: $27.00 USD
   - [Deep Red / S](https://np0i0a-pm.myshopify.com/products/devine-ruched-ruffled-balloon-sleeve-mini-dress?variant=51264533070055)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/408e78db-c946-4b39-9889-f705fe496c1c-Max.webp?v=1760856619
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/408e78db-c946-4b39-9889-f705fe496c1c-Max.webp?v=1761366926
     Price: $27.00 USD
   - [Deep Red / M](https://np0i0a-pm.myshopify.com/products/devine-ruched-ruffled-balloon-sleeve-mini-dress?variant=51264533102823)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/408e78db-c946-4b39-9889-f705fe496c1c-Max.webp?v=1760856619
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/408e78db-c946-4b39-9889-f705fe496c1c-Max.webp?v=1761366926
     Price: $27.00 USD
   - [Deep Red / L](https://np0i0a-pm.myshopify.com/products/devine-ruched-ruffled-balloon-sleeve-mini-dress?variant=51264533135591)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/408e78db-c946-4b39-9889-f705fe496c1c-Max.webp?v=1760856619
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/408e78db-c946-4b39-9889-f705fe496c1c-Max.webp?v=1761366926
     Price: $27.00 USD
   - [Deep Red / XL](https://np0i0a-pm.myshopify.com/products/devine-ruched-ruffled-balloon-sleeve-mini-dress?variant=51264533168359)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/408e78db-c946-4b39-9889-f705fe496c1c-Max.webp?v=1760856619
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/408e78db-c946-4b39-9889-f705fe496c1c-Max.webp?v=1761366926
     Price: $27.00 USD
   - [Dark Green / S](https://np0i0a-pm.myshopify.com/products/devine-ruched-ruffled-balloon-sleeve-mini-dress?variant=51264533201127)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/9d48219d-c2d2-456c-a62f-1e61203d2f47-Max.webp?v=1760856643
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/9d48219d-c2d2-456c-a62f-1e61203d2f47-Max.webp?v=1761366926
     Price: $27.00 USD
   - [Dark Green / M](https://np0i0a-pm.myshopify.com/products/devine-ruched-ruffled-balloon-sleeve-mini-dress?variant=51264533233895)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/9d48219d-c2d2-456c-a62f-1e61203d2f47-Max.webp?v=1760856643
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/9d48219d-c2d2-456c-a62f-1e61203d2f47-Max.webp?v=1761366926
     Price: $27.00 USD
   - [Dark Green / L](https://np0i0a-pm.myshopify.com/products/devine-ruched-ruffled-balloon-sleeve-mini-dress?variant=51264533266663)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/9d48219d-c2d2-456c-a62f-1e61203d2f47-Max.webp?v=1760856643
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/9d48219d-c2d2-456c-a62f-1e61203d2f47-Max.webp?v=1761366926
     Price: $27.00 USD
   - [Dark Green / XL](https://np0i0a-pm.myshopify.com/products/devine-ruched-ruffled-balloon-sleeve-mini-dress?variant=51264533299431)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/9d48219d-c2d2-456c-a62f-1e61203d2f47-Max.webp?v=1760856643
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/9d48219d-c2d2-456c-a62f-1e61203d2f47-Max.webp?v=1761366926
     Price: $27.00 USD
 - [Leopard Color Block Long Sleeve Sweater - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/leopard-color-block-long-sleeve-sweater): Shop our Leopard Color Block Long Sleeve Sweater for a stylish mix of comfort and fashion. Made with soft materials and easy care instructions.
   Updated: 2025-10-20T10:32:12Z
@@ -4296,75 +4296,75 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/54d48e902b5840dbb223aa17eab7db7d-Max-Origin.webp?v=1760856997
     Price: $46.98 USD
-- [Two-Tone Ribbed Knit Top and Skirt Sweater Set - Stylish & Comfortable](https://np0i0a-pm.myshopify.com/products/two-tone-ribbed-knit-top-and-skirt-sweater-set): Shop our Two-Tone Ribbed Knit Top and Skirt Sweater Set for a stylish and comfortable look. Perfect for any occasion, crafted with quality materials.
-  Updated: 2025-10-20T10:32:13Z
+- [Two-Tone Ribbed Knit Top - Stylish Sweater Set for All Occasions](https://np0i0a-pm.myshopify.com/products/two-tone-ribbed-knit-top-and-skirt-sweater-set): Discover the Two-Tone Ribbed Knit Top, part of a chic sweater set combining comfort, style, and versatile design for any occasion. Perfect fit with easy care.
+  Updated: 2025-10-25T07:50:03Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/a9ea90a73238434eb330dcf014c68c16-Max-Origin.webp?v=1760857019
+  Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/a9ea90a73238434eb330dcf014c68c16-Max-Origin.webp?v=1761378591
   - [Red / S](https://np0i0a-pm.myshopify.com/products/two-tone-ribbed-knit-top-and-skirt-sweater-set?variant=51269536841959)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/a9ea90a73238434eb330dcf014c68c16-Max-Origin.webp?v=1760857019
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/a9ea90a73238434eb330dcf014c68c16-Max-Origin.webp?v=1761378591
     Price: $48.56 USD
   - [Red / M](https://np0i0a-pm.myshopify.com/products/two-tone-ribbed-knit-top-and-skirt-sweater-set?variant=51269536874727)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/a9ea90a73238434eb330dcf014c68c16-Max-Origin.webp?v=1760857019
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/a9ea90a73238434eb330dcf014c68c16-Max-Origin.webp?v=1761378591
     Price: $48.56 USD
   - [Red / L](https://np0i0a-pm.myshopify.com/products/two-tone-ribbed-knit-top-and-skirt-sweater-set?variant=51269536907495)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/a9ea90a73238434eb330dcf014c68c16-Max-Origin.webp?v=1760857019
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/a9ea90a73238434eb330dcf014c68c16-Max-Origin.webp?v=1761378591
     Price: $48.56 USD
   - [Red / XL](https://np0i0a-pm.myshopify.com/products/two-tone-ribbed-knit-top-and-skirt-sweater-set?variant=51269536940263)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/a9ea90a73238434eb330dcf014c68c16-Max-Origin.webp?v=1760857019
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/a9ea90a73238434eb330dcf014c68c16-Max-Origin.webp?v=1761378591
     Price: $48.56 USD
   - [Pink / S](https://np0i0a-pm.myshopify.com/products/two-tone-ribbed-knit-top-and-skirt-sweater-set?variant=51269536973031)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/fd82b75661b845f8996d40b6bbeaf6ce-Max-Origin.webp?v=1760857030
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/fd82b75661b845f8996d40b6bbeaf6ce-Max-Origin.webp?v=1761378591
     Price: $48.56 USD
   - [Pink / M](https://np0i0a-pm.myshopify.com/products/two-tone-ribbed-knit-top-and-skirt-sweater-set?variant=51269537005799)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/fd82b75661b845f8996d40b6bbeaf6ce-Max-Origin.webp?v=1760857030
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/fd82b75661b845f8996d40b6bbeaf6ce-Max-Origin.webp?v=1761378591
     Price: $48.56 USD
   - [Pink / L](https://np0i0a-pm.myshopify.com/products/two-tone-ribbed-knit-top-and-skirt-sweater-set?variant=51269537038567)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/fd82b75661b845f8996d40b6bbeaf6ce-Max-Origin.webp?v=1760857030
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/fd82b75661b845f8996d40b6bbeaf6ce-Max-Origin.webp?v=1761378591
     Price: $48.56 USD
   - [Pink / XL](https://np0i0a-pm.myshopify.com/products/two-tone-ribbed-knit-top-and-skirt-sweater-set?variant=51269537071335)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/fd82b75661b845f8996d40b6bbeaf6ce-Max-Origin.webp?v=1760857030
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/fd82b75661b845f8996d40b6bbeaf6ce-Max-Origin.webp?v=1761378591
     Price: $48.56 USD
   - [Black / S](https://np0i0a-pm.myshopify.com/products/two-tone-ribbed-knit-top-and-skirt-sweater-set?variant=51269537104103)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/403ec06103f6403abd2520121e525d92-Max-Origin.webp?v=1760857050
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/403ec06103f6403abd2520121e525d92-Max-Origin.webp?v=1761378591
     Price: $48.56 USD
   - [Black / M](https://np0i0a-pm.myshopify.com/products/two-tone-ribbed-knit-top-and-skirt-sweater-set?variant=51269537136871)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/403ec06103f6403abd2520121e525d92-Max-Origin.webp?v=1760857050
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/403ec06103f6403abd2520121e525d92-Max-Origin.webp?v=1761378591
     Price: $48.56 USD
   - [Black / L](https://np0i0a-pm.myshopify.com/products/two-tone-ribbed-knit-top-and-skirt-sweater-set?variant=51269537169639)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/403ec06103f6403abd2520121e525d92-Max-Origin.webp?v=1760857050
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/403ec06103f6403abd2520121e525d92-Max-Origin.webp?v=1761378591
     Price: $48.56 USD
   - [Black / XL](https://np0i0a-pm.myshopify.com/products/two-tone-ribbed-knit-top-and-skirt-sweater-set?variant=51269537202407)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/403ec06103f6403abd2520121e525d92-Max-Origin.webp?v=1760857050
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/403ec06103f6403abd2520121e525d92-Max-Origin.webp?v=1761378591
     Price: $48.56 USD
   - [Brown / S](https://np0i0a-pm.myshopify.com/products/two-tone-ribbed-knit-top-and-skirt-sweater-set?variant=51269537235175)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/0a1478493b99477c9db2b3053e8ba2a9-Max-Origin.webp?v=1760857059
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/0a1478493b99477c9db2b3053e8ba2a9-Max-Origin.webp?v=1761378591
     Price: $48.56 USD
   - [Brown / M](https://np0i0a-pm.myshopify.com/products/two-tone-ribbed-knit-top-and-skirt-sweater-set?variant=51269537267943)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/0a1478493b99477c9db2b3053e8ba2a9-Max-Origin.webp?v=1760857059
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/0a1478493b99477c9db2b3053e8ba2a9-Max-Origin.webp?v=1761378591
     Price: $48.56 USD
   - [Brown / L](https://np0i0a-pm.myshopify.com/products/two-tone-ribbed-knit-top-and-skirt-sweater-set?variant=51269537300711)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/0a1478493b99477c9db2b3053e8ba2a9-Max-Origin.webp?v=1760857059
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/0a1478493b99477c9db2b3053e8ba2a9-Max-Origin.webp?v=1761378591
     Price: $48.56 USD
   - [Brown / XL](https://np0i0a-pm.myshopify.com/products/two-tone-ribbed-knit-top-and-skirt-sweater-set?variant=51269537333479)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/0a1478493b99477c9db2b3053e8ba2a9-Max-Origin.webp?v=1760857059
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/0a1478493b99477c9db2b3053e8ba2a9-Max-Origin.webp?v=1761378591
     Price: $48.56 USD
 - [Zip Up Long Sleeve Top and Pants Set - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/zip-up-long-sleeve-top-pants-set): Discover comfort and style with our Zip Up Long Sleeve Top and Pants Set. Perfect for casual outings, this two-piece set features an oversized fit, contrast stitching, and is made from durable polyester.
   Updated: 2025-10-20T10:32:15Z
@@ -5303,7 +5303,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/4018c7d6-dc6a-48ac-b8aa-f07719a4e8b8-Max-Origin.webp?v=1760857571
     Price: $56.00 USD
 - [Color Block Knit Button-Up Cardigan - Stylish & Comfortable](https://np0i0a-pm.myshopify.com/products/color-block-knit-button-up-cardigan): Shop the Color Block Knit Button-Up Cardigan for a stylish and cozy addition to your wardrobe. Perfect for layering and easy to care for.
-  Updated: 2025-10-24T07:20:43Z
+  Updated: 2025-10-25T06:00:42Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5502,59 +5502,59 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/22746928-3e82-4c3a-a08c-cf4ce1236c8f-Max.webp?v=1760857684
     Price: $47.66 USD
-- [Stylish Wide Leg Jeans with Pockets](https://np0i0a-pm.myshopify.com/products/wide-leg-jeans-with-pockets): Shop our stylish Wide Leg Jeans with pockets for comfort and practicality. Available in various sizes, perfect for any occasion.
-  Updated: 2025-10-25T02:28:11Z
+- [Wide Leg Jeans - Stylish & Comfortable Wide Leg Jeans with Pockets](https://np0i0a-pm.myshopify.com/products/wide-leg-jeans-with-pockets): Shop our Wide Leg Jeans with Pockets for a trendy, comfortable fit. Features spacious pockets, durable cotton-polyester blend, and easy care. Perfect style and function.
+  Updated: 2025-10-25T04:10:31Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/8619da23-0c42-4d27-8fb6-478be7e00cd2-Max.webp?v=1760857714
+  Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/8619da23-0c42-4d27-8fb6-478be7e00cd2-Max.webp?v=1761365422
   - [Dark Gray / S](https://np0i0a-pm.myshopify.com/products/wide-leg-jeans-with-pockets?variant=51275667505383)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/8619da23-0c42-4d27-8fb6-478be7e00cd2-Max.webp?v=1760857714
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/8619da23-0c42-4d27-8fb6-478be7e00cd2-Max.webp?v=1761365422
     Price: $43.34 USD
   - [Dark Gray / M](https://np0i0a-pm.myshopify.com/products/wide-leg-jeans-with-pockets?variant=51275667538151)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/8619da23-0c42-4d27-8fb6-478be7e00cd2-Max.webp?v=1760857714
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/8619da23-0c42-4d27-8fb6-478be7e00cd2-Max.webp?v=1761365422
     Price: $43.34 USD
   - [Dark Gray / L](https://np0i0a-pm.myshopify.com/products/wide-leg-jeans-with-pockets?variant=51275667570919)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/8619da23-0c42-4d27-8fb6-478be7e00cd2-Max.webp?v=1760857714
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/8619da23-0c42-4d27-8fb6-478be7e00cd2-Max.webp?v=1761365422
     Price: $43.34 USD
   - [Dark Gray / XL](https://np0i0a-pm.myshopify.com/products/wide-leg-jeans-with-pockets?variant=51275667603687)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/8619da23-0c42-4d27-8fb6-478be7e00cd2-Max.webp?v=1760857714
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/8619da23-0c42-4d27-8fb6-478be7e00cd2-Max.webp?v=1761365422
     Price: $43.34 USD
   - [Cream / S](https://np0i0a-pm.myshopify.com/products/wide-leg-jeans-with-pockets?variant=51275667636455)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/a8cc5d00-4f70-42b8-ac2d-1d3a44be557d-Max.webp?v=1760857741
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/a8cc5d00-4f70-42b8-ac2d-1d3a44be557d-Max.webp?v=1761365422
     Price: $43.34 USD
   - [Cream / M](https://np0i0a-pm.myshopify.com/products/wide-leg-jeans-with-pockets?variant=51275667669223)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/a8cc5d00-4f70-42b8-ac2d-1d3a44be557d-Max.webp?v=1760857741
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/a8cc5d00-4f70-42b8-ac2d-1d3a44be557d-Max.webp?v=1761365422
     Price: $43.34 USD
   - [Cream / L](https://np0i0a-pm.myshopify.com/products/wide-leg-jeans-with-pockets?variant=51275667701991)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/a8cc5d00-4f70-42b8-ac2d-1d3a44be557d-Max.webp?v=1760857741
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/a8cc5d00-4f70-42b8-ac2d-1d3a44be557d-Max.webp?v=1761365422
     Price: $43.34 USD
   - [Cream / XL](https://np0i0a-pm.myshopify.com/products/wide-leg-jeans-with-pockets?variant=51275667734759)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/a8cc5d00-4f70-42b8-ac2d-1d3a44be557d-Max.webp?v=1760857741
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/a8cc5d00-4f70-42b8-ac2d-1d3a44be557d-Max.webp?v=1761365422
     Price: $43.34 USD
   - [Black / S](https://np0i0a-pm.myshopify.com/products/wide-leg-jeans-with-pockets?variant=51275667767527)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/2327b325-1829-47fd-8e08-9c7467a10d10-Max.webp?v=1760857754
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/2327b325-1829-47fd-8e08-9c7467a10d10-Max.webp?v=1761365422
     Price: $43.34 USD
   - [Black / M](https://np0i0a-pm.myshopify.com/products/wide-leg-jeans-with-pockets?variant=51275667800295)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/2327b325-1829-47fd-8e08-9c7467a10d10-Max.webp?v=1760857754
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/2327b325-1829-47fd-8e08-9c7467a10d10-Max.webp?v=1761365422
     Price: $43.34 USD
   - [Black / L](https://np0i0a-pm.myshopify.com/products/wide-leg-jeans-with-pockets?variant=51275667833063)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/2327b325-1829-47fd-8e08-9c7467a10d10-Max.webp?v=1760857754
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/2327b325-1829-47fd-8e08-9c7467a10d10-Max.webp?v=1761365422
     Price: $43.34 USD
   - [Black / XL](https://np0i0a-pm.myshopify.com/products/wide-leg-jeans-with-pockets?variant=51275667865831)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/2327b325-1829-47fd-8e08-9c7467a10d10-Max.webp?v=1760857754
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/2327b325-1829-47fd-8e08-9c7467a10d10-Max.webp?v=1761365422
     Price: $43.34 USD
 - [Stylish Contrast Star Wide Leg Jeans](https://np0i0a-pm.myshopify.com/products/contrast-star-wide-leg-jeans): Shop our Contrast Star Wide Leg Jeans for a fashionable and comfortable fit. Available in various sizes, these jeans are perfect for any occasion.
   Updated: 2025-10-20T10:31:50Z
@@ -10538,59 +10538,59 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/dd3c321fd9a345a28abe071da9962aa0-Max-Origin.webp?v=1760860106
     Price: $65.50 USD
-- [Striped Detail Crewneck Top and Elastic Sweatpants Set](https://np0i0a-pm.myshopify.com/products/striped-detail-crewneck-top-elastic-sweatpants-2pcs-set): Shop the stylish Striped Detail Crewneck Top and Elastic Sweatpants 2pcs Set, featuring contrast stitching and a comfortable fit. Perfect for casual wear.
-  Updated: 2025-10-24T20:00:47Z
+- [Striped Detail Crewneck Top for Stylish & Comfortable 2pcs Set](https://np0i0a-pm.myshopify.com/products/striped-detail-crewneck-top-elastic-sweatpants-2pcs-set): Shop the trendy Striped Detail Crewneck Top and elastic sweatpants 2pcs set, perfect for casual wear, lounging, or running errands with comfort and style.
+  Updated: 2025-10-25T07:49:06Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/3b1e5f2ea11c4cd0bb61f4432dab7cf1-Max-Origin.webp?v=1760860126
+  Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/3b1e5f2ea11c4cd0bb61f4432dab7cf1-Max-Origin.webp?v=1761378535
   - [Deep Rose / S](https://np0i0a-pm.myshopify.com/products/striped-detail-crewneck-top-elastic-sweatpants-2pcs-set?variant=51343115976935)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/1a041b3c-de19-44a1-8660-26f53b2c8264-Max-Origin.webp?v=1760860131
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/1a041b3c-de19-44a1-8660-26f53b2c8264-Max-Origin.webp?v=1761378535
     Price: $70.30 USD
   - [Deep Rose / M](https://np0i0a-pm.myshopify.com/products/striped-detail-crewneck-top-elastic-sweatpants-2pcs-set?variant=51343116009703)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/1a041b3c-de19-44a1-8660-26f53b2c8264-Max-Origin.webp?v=1760860131
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/1a041b3c-de19-44a1-8660-26f53b2c8264-Max-Origin.webp?v=1761378535
     Price: $70.30 USD
   - [Deep Rose / L](https://np0i0a-pm.myshopify.com/products/striped-detail-crewneck-top-elastic-sweatpants-2pcs-set?variant=51343116042471)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/1a041b3c-de19-44a1-8660-26f53b2c8264-Max-Origin.webp?v=1760860131
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/1a041b3c-de19-44a1-8660-26f53b2c8264-Max-Origin.webp?v=1761378535
     Price: $70.30 USD
   - [Deep Rose / XL](https://np0i0a-pm.myshopify.com/products/striped-detail-crewneck-top-elastic-sweatpants-2pcs-set?variant=51343116075239)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/1a041b3c-de19-44a1-8660-26f53b2c8264-Max-Origin.webp?v=1760860131
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/1a041b3c-de19-44a1-8660-26f53b2c8264-Max-Origin.webp?v=1761378535
     Price: $70.30 USD
   - [Khaki / S](https://np0i0a-pm.myshopify.com/products/striped-detail-crewneck-top-elastic-sweatpants-2pcs-set?variant=51343116108007)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/c08cfdcb-e75c-458b-b109-2fcb9f864c3b-Max-Origin.webp?v=1760860136
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/c08cfdcb-e75c-458b-b109-2fcb9f864c3b-Max-Origin.webp?v=1761378535
     Price: $65.08 USD
   - [Khaki / M](https://np0i0a-pm.myshopify.com/products/striped-detail-crewneck-top-elastic-sweatpants-2pcs-set?variant=51343116140775)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/c08cfdcb-e75c-458b-b109-2fcb9f864c3b-Max-Origin.webp?v=1760860136
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/c08cfdcb-e75c-458b-b109-2fcb9f864c3b-Max-Origin.webp?v=1761378535
     Price: $65.08 USD
   - [Khaki / L](https://np0i0a-pm.myshopify.com/products/striped-detail-crewneck-top-elastic-sweatpants-2pcs-set?variant=51343116173543)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/c08cfdcb-e75c-458b-b109-2fcb9f864c3b-Max-Origin.webp?v=1760860136
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/c08cfdcb-e75c-458b-b109-2fcb9f864c3b-Max-Origin.webp?v=1761378535
     Price: $65.08 USD
   - [Khaki / XL](https://np0i0a-pm.myshopify.com/products/striped-detail-crewneck-top-elastic-sweatpants-2pcs-set?variant=51343116206311)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/c08cfdcb-e75c-458b-b109-2fcb9f864c3b-Max-Origin.webp?v=1760860136
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/c08cfdcb-e75c-458b-b109-2fcb9f864c3b-Max-Origin.webp?v=1761378535
     Price: $65.08 USD
   - [Black / S](https://np0i0a-pm.myshopify.com/products/striped-detail-crewneck-top-elastic-sweatpants-2pcs-set?variant=51343116239079)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/49a3dc381b8a4749a6431d7abebcb96c-Max-Origin.webp?v=1760860158
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/49a3dc381b8a4749a6431d7abebcb96c-Max-Origin.webp?v=1761378535
     Price: $71.54 USD
   - [Black / M](https://np0i0a-pm.myshopify.com/products/striped-detail-crewneck-top-elastic-sweatpants-2pcs-set?variant=51343116271847)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/49a3dc381b8a4749a6431d7abebcb96c-Max-Origin.webp?v=1760860158
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/49a3dc381b8a4749a6431d7abebcb96c-Max-Origin.webp?v=1761378535
     Price: $71.54 USD
   - [Black / L](https://np0i0a-pm.myshopify.com/products/striped-detail-crewneck-top-elastic-sweatpants-2pcs-set?variant=51343116304615)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/49a3dc381b8a4749a6431d7abebcb96c-Max-Origin.webp?v=1760860158
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/49a3dc381b8a4749a6431d7abebcb96c-Max-Origin.webp?v=1761378535
     Price: $71.54 USD
   - [Black / XL](https://np0i0a-pm.myshopify.com/products/striped-detail-crewneck-top-elastic-sweatpants-2pcs-set?variant=51343116337383)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/49a3dc381b8a4749a6431d7abebcb96c-Max-Origin.webp?v=1760860158
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/49a3dc381b8a4749a6431d7abebcb96c-Max-Origin.webp?v=1761378535
     Price: $71.54 USD
 - [Men's Graphic Round Neck Short Sleeve T-Shirt - Pretty Melanin](https://np0i0a-pm.myshopify.com/products/mens-graphic-round-neck-short-sleeve-tshirt): Shop the Men's Graphic Round Neck Short Sleeve T-Shirt, crafted from 100% cotton for comfort and featuring a trendy graphic design. Perfect for casual wear.
   Updated: 2025-10-20T10:31:53Z
@@ -13764,43 +13764,43 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/c8ffa13b-cff4-442e-927f-d4557e5f272c-Max-Origin.webp?v=1761363926
     Price: $71.04 USD
-- [Zip Collar Long Sleeve Top & Drawstring Pants Set](https://np0i0a-pm.myshopify.com/products/zip-collar-long-sleeve-top-and-drawstring-pants-set): Shop our Zip Collar Long Sleeve Top and Drawstring Pants Set for ultimate comfort and style. Perfect for all-day wear, this two-piece set is made from soft, stretchy materials.
-  Updated: 2025-10-25T03:40:37Z
+- [Zip Collar Long Sleeve Top | Comfortable Two-Piece Set for Casual Wear](https://np0i0a-pm.myshopify.com/products/zip-collar-long-sleeve-top-and-drawstring-pants-set): Discover the stylish Zip Collar Long Sleeve Top and Drawstring Pants Set, offering comfort and versatility. Perfect for lounging or running errands.
+  Updated: 2025-10-25T07:01:16Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/945cc81c-53b2-4f6d-be93-b38bf2615bb6-Max-Origin.webp?v=1760863282
+  Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/945cc81c-53b2-4f6d-be93-b38bf2615bb6-Max-Origin.webp?v=1761374982
   - [Light Gray / S](https://np0i0a-pm.myshopify.com/products/zip-collar-long-sleeve-top-and-drawstring-pants-set?variant=51457698365671)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/945cc81c-53b2-4f6d-be93-b38bf2615bb6-Max-Origin.webp?v=1760863282
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/945cc81c-53b2-4f6d-be93-b38bf2615bb6-Max-Origin.webp?v=1761374982
     Price: $72.76 USD
   - [Light Gray / M](https://np0i0a-pm.myshopify.com/products/zip-collar-long-sleeve-top-and-drawstring-pants-set?variant=51457698398439)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/945cc81c-53b2-4f6d-be93-b38bf2615bb6-Max-Origin.webp?v=1760863282
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/945cc81c-53b2-4f6d-be93-b38bf2615bb6-Max-Origin.webp?v=1761374982
     Price: $72.76 USD
   - [Light Gray / L](https://np0i0a-pm.myshopify.com/products/zip-collar-long-sleeve-top-and-drawstring-pants-set?variant=51457698431207)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/945cc81c-53b2-4f6d-be93-b38bf2615bb6-Max-Origin.webp?v=1760863282
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/945cc81c-53b2-4f6d-be93-b38bf2615bb6-Max-Origin.webp?v=1761374982
     Price: $72.76 USD
   - [Light Gray / XL](https://np0i0a-pm.myshopify.com/products/zip-collar-long-sleeve-top-and-drawstring-pants-set?variant=51457698463975)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/945cc81c-53b2-4f6d-be93-b38bf2615bb6-Max-Origin.webp?v=1760863282
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/945cc81c-53b2-4f6d-be93-b38bf2615bb6-Max-Origin.webp?v=1761374982
     Price: $72.76 USD
   - [Taupe / S](https://np0i0a-pm.myshopify.com/products/zip-collar-long-sleeve-top-and-drawstring-pants-set?variant=51457698496743)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/0d6063b5-2d1f-4fb5-9b1f-088e46887bf4-Max-Origin.webp?v=1760863323
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/0d6063b5-2d1f-4fb5-9b1f-088e46887bf4-Max-Origin.webp?v=1761374981
     Price: $72.76 USD
   - [Taupe / M](https://np0i0a-pm.myshopify.com/products/zip-collar-long-sleeve-top-and-drawstring-pants-set?variant=51457698529511)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/0d6063b5-2d1f-4fb5-9b1f-088e46887bf4-Max-Origin.webp?v=1760863323
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/0d6063b5-2d1f-4fb5-9b1f-088e46887bf4-Max-Origin.webp?v=1761374981
     Price: $72.76 USD
   - [Taupe / L](https://np0i0a-pm.myshopify.com/products/zip-collar-long-sleeve-top-and-drawstring-pants-set?variant=51457698562279)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/0d6063b5-2d1f-4fb5-9b1f-088e46887bf4-Max-Origin.webp?v=1760863323
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/0d6063b5-2d1f-4fb5-9b1f-088e46887bf4-Max-Origin.webp?v=1761374981
     Price: $72.76 USD
   - [Taupe / XL](https://np0i0a-pm.myshopify.com/products/zip-collar-long-sleeve-top-and-drawstring-pants-set?variant=51457698595047)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/0d6063b5-2d1f-4fb5-9b1f-088e46887bf4-Max-Origin.webp?v=1760863323
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/0d6063b5-2d1f-4fb5-9b1f-088e46887bf4-Max-Origin.webp?v=1761374981
     Price: $72.76 USD
 - [Plus Size Off-Shoulder Top and Pants Set](https://np0i0a-pm.myshopify.com/products/full-size-off-shoulder-top-pants-set-plus-size): Shop our stylish Full Size Off-Shoulder Top and Pants Set in plus sizes. Made from high-quality materials, this two-piece set is perfect for any occasion.
   Updated: 2025-10-20T10:32:11Z
@@ -13880,27 +13880,27 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/4caddeb5e1014d0199779d72d013955f-Max-Origin.webp?v=1760863361
     Price: $44.26 USD
-- [Round Neck Long Sleeve Top and Pants Set - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/round-neck-long-sleeve-top-pants-set-99358): Shop our Round Neck Long Sleeve Top and Pants Set for a perfect blend of comfort and style. Ideal for lounging or casual outings.
-  Updated: 2025-10-24T15:01:00Z
+- [Round Neck Long Sleeve Top - Comfortable & Stylish Two-Piece Set](https://np0i0a-pm.myshopify.com/products/round-neck-long-sleeve-top-pants-set-99358): Shop our Round Neck Long Sleeve Top and Pants Set for a perfect blend of comfort and style. Ideal for lounging and casual outings, with easy care features.
+  Updated: 2025-10-25T06:49:36Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/e70d00ca-5e2c-40c1-86ef-95710e3e1ccc-Max-Origin.webp?v=1760863369
+  Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/e70d00ca-5e2c-40c1-86ef-95710e3e1ccc-Max-Origin.webp?v=1761374966
   - [Orange / S](https://np0i0a-pm.myshopify.com/products/round-neck-long-sleeve-top-pants-set-99358?variant=51457702101223)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/e70d00ca-5e2c-40c1-86ef-95710e3e1ccc-Max-Origin.webp?v=1760863369
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/e70d00ca-5e2c-40c1-86ef-95710e3e1ccc-Max-Origin.webp?v=1761374966
     Price: $70.54 USD
   - [Orange / M](https://np0i0a-pm.myshopify.com/products/round-neck-long-sleeve-top-pants-set-99358?variant=51457702133991)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/e70d00ca-5e2c-40c1-86ef-95710e3e1ccc-Max-Origin.webp?v=1760863369
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/e70d00ca-5e2c-40c1-86ef-95710e3e1ccc-Max-Origin.webp?v=1761374966
     Price: $70.54 USD
   - [Orange / L](https://np0i0a-pm.myshopify.com/products/round-neck-long-sleeve-top-pants-set-99358?variant=51457702166759)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/e70d00ca-5e2c-40c1-86ef-95710e3e1ccc-Max-Origin.webp?v=1760863369
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/e70d00ca-5e2c-40c1-86ef-95710e3e1ccc-Max-Origin.webp?v=1761374966
     Price: $70.54 USD
   - [Orange / XL](https://np0i0a-pm.myshopify.com/products/round-neck-long-sleeve-top-pants-set-99358?variant=51457702199527)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/e70d00ca-5e2c-40c1-86ef-95710e3e1ccc-Max-Origin.webp?v=1760863369
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/e70d00ca-5e2c-40c1-86ef-95710e3e1ccc-Max-Origin.webp?v=1761374966
     Price: $70.54 USD
 - [Heart Print Long Sleeve Top and Pants Lounge Set - Pretty Melanin](https://np0i0a-pm.myshopify.com/products/heart-print-lounge-set): Shop the Heart Print Long Sleeve Top and Pants Lounge Set for ultimate comfort and style. Perfect for lounging or casual outings. Available in various sizes.
   Updated: 2025-10-20T10:32:13Z
@@ -14311,7 +14311,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/7211568f74a643bd9671b6439db4a4f8-Max-Origin.webp?v=1760863657
     Price: $50.66 USD
 - [Leopard and Striped Trim Shirt and Pants Set - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/leopard-striped-trim-shirt-pants-set): Shop the Leopard and Striped Trim Shirt and Pants Set for a stylish two-piece outfit. Made from 100% viscose with slightly stretchy fabric for comfort.
-  Updated: 2025-10-24T23:41:00Z
+  Updated: 2025-10-25T06:41:07Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -14332,47 +14332,47 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/969524c2-4b2f-4698-9e84-749b2b230b5a-Max-Origin.webp?v=1760863664
     Price: $73.74 USD
-- [RISEN High Rise Wide Leg Corduroy Jeans - Trendy & Comfortable](https://np0i0a-pm.myshopify.com/products/risen-high-rise-wide-leg-corduroy-jeans): Shop the RISEN High Rise Wide Leg Corduroy Jeans for a stylish and flattering fit. Made from soft corduroy fabric, these jeans elevate your wardrobe with comfort and versatility.
-  Updated: 2025-10-25T02:42:26Z
+- [High Rise Wide Leg Corduroy Jeans - Stylish & Comfortable Fit](https://np0i0a-pm.myshopify.com/products/risen-high-rise-wide-leg-corduroy-jeans): Shop High Rise Wide Leg Corduroy Jeans for a flattering silhouette, cozy feel, and versatile style. Perfect for chic, comfy outfits during cooler months.
+  Updated: 2025-10-25T04:20:44Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/3dd58f22-7ebd-4a1d-a4e9-ec442e0df0db-Max-Origin.webp?v=1760863707
+  Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/3dd58f22-7ebd-4a1d-a4e9-ec442e0df0db-Max-Origin.webp?v=1761366043
   - [MOCHA / 0](https://np0i0a-pm.myshopify.com/products/risen-high-rise-wide-leg-corduroy-jeans?variant=51457717993703)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/3dd58f22-7ebd-4a1d-a4e9-ec442e0df0db-Max-Origin.webp?v=1760863707
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/3dd58f22-7ebd-4a1d-a4e9-ec442e0df0db-Max-Origin.webp?v=1761366043
     Price: $64.42 USD
   - [MOCHA / 1](https://np0i0a-pm.myshopify.com/products/risen-high-rise-wide-leg-corduroy-jeans?variant=51457718026471)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/3dd58f22-7ebd-4a1d-a4e9-ec442e0df0db-Max-Origin.webp?v=1760863707
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/3dd58f22-7ebd-4a1d-a4e9-ec442e0df0db-Max-Origin.webp?v=1761366043
     Price: $64.42 USD
   - [MOCHA / 3](https://np0i0a-pm.myshopify.com/products/risen-high-rise-wide-leg-corduroy-jeans?variant=51457718059239)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/3dd58f22-7ebd-4a1d-a4e9-ec442e0df0db-Max-Origin.webp?v=1760863707
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/3dd58f22-7ebd-4a1d-a4e9-ec442e0df0db-Max-Origin.webp?v=1761366043
     Price: $64.42 USD
   - [MOCHA / 5](https://np0i0a-pm.myshopify.com/products/risen-high-rise-wide-leg-corduroy-jeans?variant=51457718092007)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/3dd58f22-7ebd-4a1d-a4e9-ec442e0df0db-Max-Origin.webp?v=1760863707
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/3dd58f22-7ebd-4a1d-a4e9-ec442e0df0db-Max-Origin.webp?v=1761366043
     Price: $64.42 USD
   - [MOCHA / 7](https://np0i0a-pm.myshopify.com/products/risen-high-rise-wide-leg-corduroy-jeans?variant=51457718124775)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/3dd58f22-7ebd-4a1d-a4e9-ec442e0df0db-Max-Origin.webp?v=1760863707
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/3dd58f22-7ebd-4a1d-a4e9-ec442e0df0db-Max-Origin.webp?v=1761366043
     Price: $64.42 USD
   - [MOCHA / 9](https://np0i0a-pm.myshopify.com/products/risen-high-rise-wide-leg-corduroy-jeans?variant=51457718157543)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/3dd58f22-7ebd-4a1d-a4e9-ec442e0df0db-Max-Origin.webp?v=1760863707
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/3dd58f22-7ebd-4a1d-a4e9-ec442e0df0db-Max-Origin.webp?v=1761366043
     Price: $64.42 USD
   - [MOCHA / 11](https://np0i0a-pm.myshopify.com/products/risen-high-rise-wide-leg-corduroy-jeans?variant=51457718190311)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/3dd58f22-7ebd-4a1d-a4e9-ec442e0df0db-Max-Origin.webp?v=1760863707
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/3dd58f22-7ebd-4a1d-a4e9-ec442e0df0db-Max-Origin.webp?v=1761366043
     Price: $64.42 USD
   - [MOCHA / 13](https://np0i0a-pm.myshopify.com/products/risen-high-rise-wide-leg-corduroy-jeans?variant=51457718223079)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/3dd58f22-7ebd-4a1d-a4e9-ec442e0df0db-Max-Origin.webp?v=1760863707
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/3dd58f22-7ebd-4a1d-a4e9-ec442e0df0db-Max-Origin.webp?v=1761366043
     Price: $64.42 USD
   - [MOCHA / 15](https://np0i0a-pm.myshopify.com/products/risen-high-rise-wide-leg-corduroy-jeans?variant=51457718255847)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/3dd58f22-7ebd-4a1d-a4e9-ec442e0df0db-Max-Origin.webp?v=1760863707
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/3dd58f22-7ebd-4a1d-a4e9-ec442e0df0db-Max-Origin.webp?v=1761366043
     Price: $64.42 USD
 - [Square Toe Platform Block Heels Boots - Stylish Comfort](https://np0i0a-pm.myshopify.com/products/square-toe-platform-block-heels-boots): Discover the perfect blend of style and comfort with our Square Toe Platform Block Heels Boots. Ideal for any occasion, these boots feature mid heels and quality materials.
   Updated: 2025-10-20T10:32:16Z
@@ -15140,23 +15140,23 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/def1395c-d569-4470-844d-fcaf459b7069-Max-Origin.webp?v=1760864075
     Price: $44.70 USD
-- [Frill Leopard Long Sleeve Sweater - Chic & Comfortable](https://np0i0a-pm.myshopify.com/products/frill-leopard-long-sleeve-sweater): Discover the Frill Leopard Long Sleeve Sweater, featuring stylish lace detail and a soft, slightly stretchy fabric. Perfect for any occasion.
-  Updated: 2025-10-24T01:40:36Z
+- [Frill Leopard Long Sleeve Sweater - Trendy Cozy Animal Print Top](https://np0i0a-pm.myshopify.com/products/frill-leopard-long-sleeve-sweater): Shop the Frill Leopard Long Sleeve Sweater for a stylish and comfortable look. Trendy leopard print with lace detail, perfect for any occasion. Easy to care.
+  Updated: 2025-10-25T07:50:48Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/91dfe70ff58a40fabe70168ced2b4750-Max-Origin.webp?v=1760864084
+  Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/91dfe70ff58a40fabe70168ced2b4750-Max-Origin.webp?v=1761378647
   - [Khaki / S](https://np0i0a-pm.myshopify.com/products/frill-leopard-long-sleeve-sweater?variant=51460671733991)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/91dfe70ff58a40fabe70168ced2b4750-Max-Origin.webp?v=1760864084
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/91dfe70ff58a40fabe70168ced2b4750-Max-Origin.webp?v=1761378647
     Price: $51.78 USD
   - [Khaki / M](https://np0i0a-pm.myshopify.com/products/frill-leopard-long-sleeve-sweater?variant=51460671766759)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/91dfe70ff58a40fabe70168ced2b4750-Max-Origin.webp?v=1760864084
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/91dfe70ff58a40fabe70168ced2b4750-Max-Origin.webp?v=1761378647
     Price: $51.78 USD
   - [Khaki / L](https://np0i0a-pm.myshopify.com/products/frill-leopard-long-sleeve-sweater?variant=51460671799527)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/91dfe70ff58a40fabe70168ced2b4750-Max-Origin.webp?v=1760864084
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/91dfe70ff58a40fabe70168ced2b4750-Max-Origin.webp?v=1761378647
     Price: $51.78 USD
 - [Elegant 4 Piece 18K Gold-Plated Minimalist Bracelet](https://np0i0a-pm.myshopify.com/products/4-piece-18k-gold-plated-minimalist-bracelet): Shop our 4 Piece 18K Gold-Plated Minimalist Bracelet set. Perfect for any outfit. Made from high-quality materials and designed for everyday wear.
   Updated: 2025-10-20T10:32:16Z
@@ -15851,49 +15851,49 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/16d04d76-5838-43c3-9d6c-40c6742ea136-Max-Origin.webp?v=1760864694
     Price: $18.84 USD
-- [Lace Detail Dropped Shoulder Hoodie and Pants Set - Pretty Melanin](https://np0i0a-pm.myshopify.com/products/lace-detail-dropped-shoulder-hoodie-pants-set): Shop the Lace Detail Dropped Shoulder Hoodie and Pants Set for a stylish and comfortable two-piece outfit. Perfect for lounging or casual outings.
-  Updated: 2025-10-25T03:20:46Z
+- [Lace Detail Dropped Shoulder Hoodie for Stylish Comfort | Shop Now](https://np0i0a-pm.myshopify.com/products/lace-detail-dropped-shoulder-hoodie-pants-set): Discover the Lace Detail Dropped Shoulder Hoodie, perfect for a trendy and comfortable look. Elevate your casual style with this chic two-piece set today.
+  Updated: 2025-10-25T05:21:36Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/0be2cb67-8d64-45c7-886d-05d24b948a79-Max-Origin.webp?v=1760864721
+  Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/0be2cb67-8d64-45c7-886d-05d24b948a79-Max-Origin.webp?v=1761367677
   - [Dusty Pink / S](https://np0i0a-pm.myshopify.com/products/lace-detail-dropped-shoulder-hoodie-pants-set?variant=51483470069991)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/0be2cb67-8d64-45c7-886d-05d24b948a79-Max-Origin.webp?v=1760864721
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/0be2cb67-8d64-45c7-886d-05d24b948a79-Max-Origin.webp?v=1761367677
     Price: $94.62 USD
   - [Dusty Pink / M](https://np0i0a-pm.myshopify.com/products/lace-detail-dropped-shoulder-hoodie-pants-set?variant=51483470102759)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/0be2cb67-8d64-45c7-886d-05d24b948a79-Max-Origin.webp?v=1760864721
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/0be2cb67-8d64-45c7-886d-05d24b948a79-Max-Origin.webp?v=1761367677
     Price: $94.62 USD
   - [Dusty Pink / L](https://np0i0a-pm.myshopify.com/products/lace-detail-dropped-shoulder-hoodie-pants-set?variant=51483470135527)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/0be2cb67-8d64-45c7-886d-05d24b948a79-Max-Origin.webp?v=1760864721
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/0be2cb67-8d64-45c7-886d-05d24b948a79-Max-Origin.webp?v=1761367677
     Price: $94.62 USD
   - [Dusty Pink / XL](https://np0i0a-pm.myshopify.com/products/lace-detail-dropped-shoulder-hoodie-pants-set?variant=51483470168295)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/0be2cb67-8d64-45c7-886d-05d24b948a79-Max-Origin.webp?v=1760864721
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/0be2cb67-8d64-45c7-886d-05d24b948a79-Max-Origin.webp?v=1761367677
     Price: $94.62 USD
-- [Saved By Grace Letter Embroidery Sweatshirt](https://np0i0a-pm.myshopify.com/products/saved-by-grace-letter-embroidery-mineral-wash-loose-sweatshirt): Shop the Saved By Grace Letter Embroidery Mineral Wash Loose Sweatshirt. Perfect blend of comfort and style with a faith-inspired design.
-  Updated: 2025-10-24T23:41:00Z
+- [Saved By Grace Letter Embroidery Sweatshirt - Stylish & Comfortable Fit](https://np0i0a-pm.myshopify.com/products/saved-by-grace-letter-embroidery-mineral-wash-loose-sweatshirt): Discover the Saved By Grace Letter Embroidery Mineral Wash Loose Sweatshirt, combining faith-inspired style with comfort, perfect for casual wear and everyday style.
+  Updated: 2025-10-25T07:48:52Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/810d3b2e-e4dc-4c61-bc91-c36822e11766-Max-Origin.webp?v=1760864729
+  Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/810d3b2e-e4dc-4c61-bc91-c36822e11766-Max-Origin.webp?v=1761378530
   - [Cerise / S](https://np0i0a-pm.myshopify.com/products/saved-by-grace-letter-embroidery-mineral-wash-loose-sweatshirt?variant=51483470954727)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/810d3b2e-e4dc-4c61-bc91-c36822e11766-Max-Origin.webp?v=1760864729
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/810d3b2e-e4dc-4c61-bc91-c36822e11766-Max-Origin.webp?v=1761378530
     Price: $59.54 USD
   - [Cerise / M](https://np0i0a-pm.myshopify.com/products/saved-by-grace-letter-embroidery-mineral-wash-loose-sweatshirt?variant=51483470987495)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/810d3b2e-e4dc-4c61-bc91-c36822e11766-Max-Origin.webp?v=1760864729
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/810d3b2e-e4dc-4c61-bc91-c36822e11766-Max-Origin.webp?v=1761378530
     Price: $59.54 USD
   - [Cerise / L](https://np0i0a-pm.myshopify.com/products/saved-by-grace-letter-embroidery-mineral-wash-loose-sweatshirt?variant=51483471020263)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/810d3b2e-e4dc-4c61-bc91-c36822e11766-Max-Origin.webp?v=1760864729
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/810d3b2e-e4dc-4c61-bc91-c36822e11766-Max-Origin.webp?v=1761378530
     Price: $59.54 USD
   - [Cerise / XL](https://np0i0a-pm.myshopify.com/products/saved-by-grace-letter-embroidery-mineral-wash-loose-sweatshirt?variant=51483471053031)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/810d3b2e-e4dc-4c61-bc91-c36822e11766-Max-Origin.webp?v=1760864729
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/810d3b2e-e4dc-4c61-bc91-c36822e11766-Max-Origin.webp?v=1761378530
     Price: $59.54 USD
 - [Quilted Chain Strap Shoulder Bag - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/quilted-chain-strap-shoulder-bag): Shop the Quilted Chain Strap Shoulder Bag, a stylish medium-sized accessory made from durable PU leather. Perfect for any occasion.
   Updated: 2025-10-20T10:32:22Z
