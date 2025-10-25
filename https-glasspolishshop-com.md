@@ -7,7 +7,7 @@
 - Currency: EUR
 - Timezone: Europe/Dublin
 - Created At: 2025-01-23T10:54:05Z
-- Updated At: 2025-10-24T20:00:39.042Z
+- Updated At: 2025-10-25T00:00:35.161Z
 
 ## Products
 
@@ -47,7 +47,7 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/14053.jpg?v=1740149497
   Price: €10.95 EUR
 - [PRO Glass Polishing Compound 100ml | High-Grade 2.3 Microns – GP14054](https://glasspolishshop.com/products/gp-pro-glass-polishing-compound-100ml-3-4oz): Extra-concentrated cerium oxide polishing compound for professional glass restoration. Eliminates fine scratches, haze, and surface defects with precision.
-  Updated: 2025-10-23T09:05:33Z
+  Updated: 2025-10-24T23:53:01Z
   Vendor: Glass Polish
   Product Type: Glass Polishing Compound
   Availability: Available
@@ -607,7 +607,7 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/12610_1ea116ef-52f0-4553-b87b-2cda6c774763.jpg?v=1760450545
   Price: €11.95 EUR
 - [Spindle Backing Pad for drill](https://glasspolishshop.com/products/50mm-2-inch-spindle-pad-m6-hook-and-loop-black-foam-medium): Spindle Backing Pad for drill with hook and loop fastener, M6 thread with drill attachment for use with any drill. Size 50mm (2 inch)
-  Updated: 2025-10-20T21:18:29Z
+  Updated: 2025-10-24T23:53:01Z
   Vendor: Glass Polish
   Product Type: Drill Spindle Backing Pad
   Availability: Available
@@ -1384,7 +1384,7 @@
   Image: https://cdn.shopify.com/s/files/1/0910/3582/8559/files/Liquid-Leather-GT13.5-Leather-Protection-Cream-250-ml-_288.4-oz_29-92000.jpg?v=1737642546
   Price: €14.95 EUR
 - [Glass Polish Felt Polishing Pad 11006](https://glasspolishshop.com/products/gp-pro-felt-polishing-pad-2-inch-50mm): Glass Polish 50mm / 2 inch GP-PRO Felt Polishing Pad. Ideal for cutting and polishing actions resulting high glossy finish on range of surfaces
-  Updated: 2025-10-24T13:08:36Z
+  Updated: 2025-10-24T23:53:01Z
   Vendor: Glass Polish
   Product Type: Felt Polishing Pad
   Availability: Available
