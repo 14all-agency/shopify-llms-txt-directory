@@ -6,7 +6,7 @@
 - Timezone: Europe/Madrid
 - Created At: 2022-07-18T15:24:40Z
 - Contact Email: info@hifimediastore.com
-- Updated At: 2025-10-25T12:01:25.633Z
+- Updated At: 2025-10-25T16:01:28.941Z
 
 ## Products
 
@@ -4706,13 +4706,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/512GB_Negro_Black_Dual_SIM_-_Hifi_Media_Store-1000278.jpg?v=1719093292
   Price: 518,99 € EUR
-- [Xiaomi 12 Lite 5G 8GB/256GB Negro (Black) Dual SIM 2203129G](https://hifimediastore.com/products/xiaomi-12-lite-5g-8gb-256gb-negro-black-dual-sim-2203129g): XIAOMI 12 LITE 5G:  Diseño ligero como una pluma Cámara triple de 108 MP a nivel de estudio Carga Turbo inteligente de 67 W Pantalla AMOLED de 120 Hz Conexión 5G
-  Updated: 2025-10-15T00:35:11Z
-  Vendor: Xiaomi
-  Product Type: Smartphone
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/256GB_Negro_Black_Dual_SIM_2203129G_-_Hifi_Media_Store-999916.jpg?v=1719091433
-  Price: 245,99 € EUR
 - [Xiaomi Poco F5 5G 8GB/256GB Azul (Blue) Dual SIM 23049PCD8G](https://hifimediastore.com/products/xiaomi-poco-f5-5g-8gb-256gb-azul-blue-dual-sim-23049pcd8g): Xiaomi Poco F5 5G;  AMOLET DotDisplay Flow FHD+ de 6,67", 120 Hz Qualcomm Snapdragon 7+ Gen 2 Triple Cámara 64 MP Batería 5000 mAh y carga rápida 67 W Android 13, MIUI 14 para POCO NFC y Desbloqueo facial
   Updated: 2025-10-22T13:25:18Z
   Vendor: Xiaomi
@@ -7709,7 +7702,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/21315.jpg?v=1739421608
   Price: 181,99 € EUR
 - [TCL NXTPAPER 11 4GB/128GB WiFi Gris (Dark Grey)](https://hifimediastore.com/products/tcl-nxtpaper-11-4gb-128gb-wifi-gris-dark-grey): TCL NXTPAPER 11:  Pantalla 2K de 11" Chip MediatekHelio P60T Cámara trasera de 8 MP Cámara selfie de 8 MP Batería de 8000 mAh Carga rápida 18W Android 13
-  Updated: 2025-10-24T12:50:20Z
+  Updated: 2025-10-25T15:40:21Z
   Vendor: TCL
   Product Type: Tablet's
   Availability: Available
@@ -7736,13 +7729,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/21460.jpg?v=1740605414
   Price: 601,99 € EUR
-- [Apple AirPods Max (2ª Gen.) Bluetooth Púrpura (Purple)](https://hifimediastore.com/products/apple-airpods-max-2-gen-bluetooth-purpura-purple): AirPods Max 2ª Gen:  Sonido de alta fidelidad Cancelación activa de ruido de nivel profesional Audio espacial personalizado con seguimiento dinámico de la cabeza Diseño tipo casco Comodidad y ajuste perfecto Hasta 20 horas de autonomía Conector USB-C
-  Updated: 2025-10-15T19:05:12Z
-  Vendor: Apple
-  Product Type: Bluetooth
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/21463.jpg?v=1740605420
-  Price: 598,99 € EUR
 - [Apple iPhone 16e 128GB Blanco (White)](https://hifimediastore.com/products/apple-iphone-16e-128gb-blanco-white): Apple iPhone 16e:  Pantalla Super Retina XDR OLED Chip A18 Cámara Fusion de 48MP Hasta 26h de autonomía Velocidad 5G Parte delantera de Ceramic Shield iOS 18  * Es posible que este iPhone no incluya cargador, ni auriculares en la caja original.
   Updated: 2025-10-25T01:16:35Z
   Vendor: Apple
@@ -8466,7 +8452,7 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/23823.jpg?v=1751667318
   Price: 287,99 € EUR
 - [TCL 60 SE NxtPaper 5G 8GB/256GB Verde (Mint Green) Dual SIM](https://hifimediastore.com/products/tcl-60-se-nxtpaper-5g-8gb-256gb-verde-mint-green-dual-sim): TCL 60 SE NXTPAPER 5G:  Pantalla FHD+ de 6,7" Cámara dual de 50MP Cámara frontal de 8MP Procesador MediaTek Dimensity 6300 5G Batería de 5200 mAh y carga rápida de 18W Desbloqueo facial Sensor de huellas
-  Updated: 2025-10-23T06:00:24Z
+  Updated: 2025-10-25T15:40:21Z
   Vendor: TCL
   Product Type: Smartphone
   Availability: Available
@@ -8676,14 +8662,14 @@
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/25891.jpg?v=1758737708
   Price: 1264,99 € EUR
 - [Apple iPhone 17 512GB Negro (Black)](https://hifimediastore.com/products/apple-iphone-17-512gb-negro-black): Apple iPhone 17:  Pantalla Super Retina XDR OLED Chip A19 Cámara dual Fusion de 48MP Batería de 3692 mAh Velocidad 5G Ceramic Shield 2 iOS 26
-  Updated: 2025-10-24T07:03:23Z
+  Updated: 2025-10-25T14:40:15Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/25895.jpg?v=1758737716
   Price: 1532,99 € EUR
 - [Apple iPhone 17 Pro 256GB Plata (Silver)](https://hifimediastore.com/products/apple-iphone-17-pro-256gb-plata-silver): Apple iPhone 17 Pro:  Pantalla Super Retina XDR OLED Chip A19 Pro Cámara triple Fusion de 48MP Batería de 3988 mAh Velocidad 5G Ceramic Shield 2 iOS 26
-  Updated: 2025-10-25T01:43:40Z
+  Updated: 2025-10-25T14:40:15Z
   Vendor: Apple
   Product Type: Smartphone
   Availability: Available
@@ -8844,8 +8830,8 @@
   Updated: 2025-10-21T19:53:09Z
   Total Products: 22
 - [AVADA - Best Sellers](https://hifimediastore.com/collections/avada-best-sellers)
-  Updated: 2025-10-25T07:34:10Z
-  Total Products: 1485
+  Updated: 2025-10-25T15:08:42Z
+  Total Products: 1483
 - [Intercomunicadores para moto](https://hifimediastore.com/collections/motorcycle-intercoms)
   Updated: 2025-06-22T07:51:29Z
   Total Products: 17
@@ -9225,8 +9211,8 @@
   Updated: 2025-10-10T22:47:39Z
   Total Products: 3
 - [OrderlyEmails - Recommended Products](https://hifimediastore.com/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-10-25T07:34:10Z
-  Total Products: 1488
+  Updated: 2025-10-25T15:08:42Z
+  Total Products: 1486
 - [Razer](https://hifimediastore.com/collections/razer)
   Updated: 2025-10-16T19:26:34Z
   Total Products: 24
@@ -9288,8 +9274,8 @@
   Updated: 2025-10-16T19:25:32Z
   Total Products: 2
 - [Outlet](https://hifimediastore.com/collections/outlet)
-  Updated: 2025-10-25T07:55:46Z
-  Total Products: 264
+  Updated: 2025-10-25T15:45:56Z
+  Total Products: 262
 - [Edifier](https://hifimediastore.com/collections/edifier)
   Updated: 2025-10-10T22:12:51Z
   Total Products: 1
