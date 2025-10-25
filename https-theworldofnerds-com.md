@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2023-11-06T10:53:38Z
 - Contact Email: theworldofnerdscustomer@gmail.com
-- Updated At: 2025-10-25T16:00:59.954Z
+- Updated At: 2025-10-25T20:00:49.569Z
 
 ## Products
 
@@ -3959,7 +3959,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_70.jpg?v=1738387974
   Price: ₹899.00 INR
 - [RMZ CITY TOYOTA CAMRY PULLBACK SCALE - 1:32](https://theworldofnerds.com/products/rmz-city-toyota-camry-pullback-scale-1-32): Introducing the RMZ CITY TOYOTA CAMRY SCALE - 1:32. Impeccably crafted to a 1:32 scale, this toy car is perfect for both collectors and young enthusiasts alike. With precise attention to detail, it offers a realistic depiction of a classic car, bringing joy to all who admire it.
-  Updated: 2025-07-29T05:12:34Z
+  Updated: 2025-10-25T17:24:15Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -9468,21 +9468,21 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_e283126d-3312-4669-af53-e8803ee6051b.jpg?v=1756452352
   Price: ₹119.00 INR
 - [Pokémon Gengar Keychain – Iconic Ghost-Type Pokémon Artwork](https://theworldofnerds.com/products/pokemon-gengar-keychain-iconic-ghost-type-pokemon-artwork): This Pokémon Gengar keychain showcases the mischievous and playful nature of the iconic Ghost-type Pokémon. With bold, striking artwork, it captures Gengar’s unique charm and sinister grin. A perfect accessory for any Pokémon fan or collector, this keychain brings the spooky energy of Gengar to life. Whether you're a fan of the games, anime, or both, this keychain is an essential piece for your Pokémon collection.
-  Updated: 2025-10-19T11:37:25Z
+  Updated: 2025-10-25T19:33:21Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_1168d1a8-c5fe-486e-a01d-400ddab916e9.jpg?v=1756452411
   Price: ₹119.00 INR
 - [Pokémon Charizard Keychain – Featuring Charizard and Poké Balls](https://theworldofnerds.com/products/pokemon-charizard-keychain-featuring-charizard-and-poke-balls): Ignite your Pokémon collection with this Charizard keychain, designed with bold artwork that showcases Charizard’s fiery spirit. Featuring Charizard on one side and Poké Balls on the other, this keychain captures the essence of the franchise’s adventure and excitement. A great accessory for any Pokémon lover, it’s the perfect way to carry your favorite Fire-type Pokémon with you wherever you go!
-  Updated: 2025-09-21T11:26:36Z
+  Updated: 2025-10-25T19:33:20Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_1ca3b9ad-3263-4d1b-9e45-e4672fc8617d.jpg?v=1756452481
   Price: ₹119.00 INR
 - [Fiery Charizard & Cool Gengar: The Ultimate Keychain Set](https://theworldofnerds.com/products/fiery-charizard-cool-gengar-the-ultimate-keychain-set): These eye-catching keychains feature embroidered versions of Charizard and Gengar, each with fiery and sparkling designs that add a playful yet bold touch to any set of keys. The vibrant orange backdrop complements the characters’ intense expressions, capturing a mix of fierce power and mischievous charm.
-  Updated: 2025-10-24T09:39:15Z
+  Updated: 2025-10-25T19:33:20Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -9510,7 +9510,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_fe44243e-d5a8-4e6c-84f8-edcb11392c16.jpg?v=1756452694
   Price: ₹119.00 INR
 - [Gengar’s Haunted Smile: Ghostly Keychains with Fiery Eyes](https://theworldofnerds.com/products/gengar-s-haunted-smile-ghostly-keychains-with-fiery-eyes): These keychains feature a playful yet eerie design, with Gengar’s devilish grin and fiery eyes surrounded by a host of ghostly figures. The purple hues and swirling energy bring out the mischievous, yet ominous, nature of this beloved Pokémon. This keychain duo perfectly captures Gengar’s haunting charm, combining a sense of fun with a touch of spooky mystery, making it a must-have for any fan of the Pokémon series.
-  Updated: 2025-08-29T07:34:10Z
+  Updated: 2025-10-25T19:33:20Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
