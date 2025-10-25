@@ -9,7 +9,7 @@
 - Created At: 2023-11-20T15:32:25Z
 - Contact Email: hello@inky-ingredients.com
 - Address: Units 2, 3 & 5 Athelstan Business Park Hanwell Lane, Hutton Conyers Ripon, North Yorkshire HG4 5BF, UK
-- Updated At: 2025-10-24T20:00:50.436Z
+- Updated At: 2025-10-25T00:00:39.033Z
 
 The UK's largest natural ingredients supplier. INKY Ingredients supplies formulators and makers as well as the general public with the UK's widest range of essential oils, cold pressed oils, waxes, soaps, butters and more. We hold a 7 sustainability accreditations and are committed to providing an unparalleled selection of premium natural oil ingredients, fostering sustainability, and championing the sustainable beauty movement.
 
@@ -103,7 +103,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £107.40 GBP
 - [3 in 1 Body Wash Liquid Base](https://inky-ingredients.com/products/3-in-1-body-wash-base): The 3 in 1 Body Wash Base is a versatile formulation, serving as a body wash, shampoo, and facial cleanser. With its multipurpose functionality, it provides a cleansing experience that is both effective and convenient, leaving the skin and hair feeling refreshed and revitalised.
-  Updated: 2025-10-18T20:29:55Z
+  Updated: 2025-10-24T20:02:40Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -2686,7 +2686,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £92.93 GBP
 - [Plum Oil, Cold Pressed Organic](https://inky-ingredients.com/products/plum-oil-cold-pressed-organic): Organic Cold-pressed Plum Oil offers the same skin-loving benefits as its non-organic counterpart. With the added assurance of organic cultivation, it provides a natural and pure solution for skincare enthusiasts.
-  Updated: 2025-10-15T21:34:21Z
+  Updated: 2025-10-24T23:26:00Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -4705,7 +4705,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £925.80 GBP
 - [Aloe Vera 200:1, Powder](https://inky-ingredients.com/products/aloe-vera-200-1-powder): Aloe Vera 200:1 Powder is a concentrated form of Aloe Vera, known for its skin-soothing properties. This versatile powder can be incorporated into skincare formulations, providing hydration and soothing effects, making it an excellent choice for natural cosmetic products.
-  Updated: 2025-10-10T10:11:47Z
+  Updated: 2025-10-24T22:39:50Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
