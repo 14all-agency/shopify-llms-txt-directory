@@ -5,7 +5,7 @@
 - Currency: USD
 - Timezone: America/New_York
 - Created At: 2025-07-25T14:20:57Z
-- Updated At: 2025-10-25T00:00:44.174Z
+- Updated At: 2025-10-25T04:00:39.894Z
 
 ## Products
 
@@ -2169,39 +2169,39 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/4588632f-8415-4048-af77-6a894e6b2b33-Max-Origin.webp?v=1760865976
     Price: $15.00 USD
-- [UV Protection Oversized Sunglasses - Stylish & Safe](https://np0i0a-pm.myshopify.com/products/uv-protection-oversized-sunglasses): Discover our UV Protection Oversized Sunglasses that offer UV400 protection, stylish design, and comfortable fit. Perfect for any sunny day.
-  Updated: 2025-10-20T10:32:07Z
+- [UV Protection Oversized Sunglasses - Stylish & UV400 Protection](https://np0i0a-pm.myshopify.com/products/uv-protection-oversized-sunglasses): Shop UV Protection Oversized Sunglasses that offer UV400 protection, stylish design, and durable materials. Perfect for sunny days and chic fashion statements.
+  Updated: 2025-10-25T03:51:10Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/ff319a6268694734876b3927b7be6bfd-Max-Origin.webp?v=1760866010
+  Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/ff319a6268694734876b3927b7be6bfd-Max-Origin.webp?v=1761364269
   - [Black Framed Champagne / onesize](https://np0i0a-pm.myshopify.com/products/uv-protection-oversized-sunglasses?variant=51257226854631)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/ff319a6268694734876b3927b7be6bfd-Max-Origin.webp?v=1760866010
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/ff319a6268694734876b3927b7be6bfd-Max-Origin.webp?v=1761364269
     Price: $13.52 USD
   - [Transparent Ash / onesize](https://np0i0a-pm.myshopify.com/products/uv-protection-oversized-sunglasses?variant=51257226887399)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/e4246f6419dc42e4a9c91cfc4a664ceb-Max-Origin.webp?v=1760866012
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/e4246f6419dc42e4a9c91cfc4a664ceb-Max-Origin.webp?v=1761364268
     Price: $13.52 USD
   - [Black Gold Frame Flat Light / onesize](https://np0i0a-pm.myshopify.com/products/uv-protection-oversized-sunglasses?variant=51257226920167)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/683d7029627243f0becb4dc577c7c355-Max-Origin.webp?v=1760866016
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/683d7029627243f0becb4dc577c7c355-Max-Origin.webp?v=1761364269
     Price: $13.52 USD
   - [Black Frame Gold Gray Piece / onesize](https://np0i0a-pm.myshopify.com/products/uv-protection-oversized-sunglasses?variant=51257226952935)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/abbe6ce77af94e67b3c2b0b8e1501153-Max-Origin.webp?v=1760866019
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/abbe6ce77af94e67b3c2b0b8e1501153-Max-Origin.webp?v=1761364268
     Price: $13.52 USD
   - [Transparent Frame Flat Light / onesize](https://np0i0a-pm.myshopify.com/products/uv-protection-oversized-sunglasses?variant=51257226985703)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/b1fed055f3384ba5a20192129855ff3b-Max-Origin.webp?v=1760866021
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/b1fed055f3384ba5a20192129855ff3b-Max-Origin.webp?v=1761364269
     Price: $13.52 USD
   - [Transparent Frame Yellow Sheet / onesize](https://np0i0a-pm.myshopify.com/products/uv-protection-oversized-sunglasses?variant=51257227018471)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/10594df4b57d4e24b9f61ca412a053b2-Max-Origin.webp?v=1760866024
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/10594df4b57d4e24b9f61ca412a053b2-Max-Origin.webp?v=1761364269
     Price: $13.52 USD
   - [Transparent Gray Frame Flat / onesize](https://np0i0a-pm.myshopify.com/products/uv-protection-oversized-sunglasses?variant=51257227051239)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/ee475454c5e5453397be70d0759ceefe-Max-Origin.webp?v=1760866027
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/ee475454c5e5453397be70d0759ceefe-Max-Origin.webp?v=1761364269
     Price: $13.52 USD
 - [18K Gold-Plated Rhinestone Lips Heart Dangle Earrings - Pretty Melanin](https://np0i0a-pm.myshopify.com/products/18k-gold-plated-rhinestone-lips-heart-dangle-earrings): Shop the stunning 18K Gold-Plated Rhinestone Lips Heart Dangle Earrings, featuring a unique design and brilliant rhinestones for a glamorous touch.
   Updated: 2025-10-20T10:32:00Z
@@ -2237,7 +2237,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/e6104dc3-9da4-4a70-b9ea-9128dc92a23e-Max.webp?v=1760866227
     Price: $22.00 USD
 - [Full Size Contrast Lapel Collar Top and Pants Set - Pretty Melanin](https://np0i0a-pm.myshopify.com/products/full-size-contrast-lapel-collar-top-pants-set): Shop our Full Size Contrast Lapel Collar Top and Pants Set, featuring a stylish design, practical pockets, and quality polyester material. Perfect for any occasion.
-  Updated: 2025-10-24T01:44:45Z
+  Updated: 2025-10-25T02:18:48Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -3671,7 +3671,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/c3710a4f27ad43559bff4a258bcbc17f-Max-Origin.webp?v=1760856581
     Price: $31.16 USD
 - [Devine Ruched Ruffled Balloon Sleeve Mini Dress - Pretty Melanin](https://np0i0a-pm.myshopify.com/products/devine-ruched-ruffled-balloon-sleeve-mini-dress): Discover the Devine Ruched Ruffled Balloon Sleeve Mini Dress, featuring a beautiful ruffled design, slight stretch, and comfortable fit. Perfect for any occasion.
-  Updated: 2025-10-24T02:49:25Z
+  Updated: 2025-10-25T03:02:06Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5503,7 +5503,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/22746928-3e82-4c3a-a08c-cf4ce1236c8f-Max.webp?v=1760857684
     Price: $47.66 USD
 - [Stylish Wide Leg Jeans with Pockets](https://np0i0a-pm.myshopify.com/products/wide-leg-jeans-with-pockets): Shop our stylish Wide Leg Jeans with pockets for comfort and practicality. Available in various sizes, perfect for any occasion.
-  Updated: 2025-10-20T10:31:35Z
+  Updated: 2025-10-25T02:28:11Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -13742,30 +13742,30 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/16a2895acdc841f28c35f2e31ed94a58-Max-Origin.webp?v=1760863246
     Price: $42.42 USD
-- [Ribbed Knit Long Sleeve Top and Skirt Sweater Set - Pretty Melanin](https://np0i0a-pm.myshopify.com/products/ribbed-knit-long-sleeve-top-skirt-set): Shop our Ribbed Knit Long Sleeve Top and Skirt Sweater Set. This stylish two-piece set features a pleated design, slightly stretchy fabric, and is easy to care for. Perfect for any occasion.
-  Updated: 2025-10-24T20:20:36Z
+- [Ribbed Knit Long Sleeve Top - Stylish Sweater Set for Cozy Days](https://np0i0a-pm.myshopify.com/products/ribbed-knit-long-sleeve-top-skirt-set): Discover the Ribbed Knit Long Sleeve Top and Skirt Sweater Set, combining comfort and chic style with a pleated design, perfect for versatile fashion. Shop now!
+  Updated: 2025-10-25T03:45:38Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/c8ffa13b-cff4-442e-927f-d4557e5f272c-Max-Origin.webp?v=1760863262
+  Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/c8ffa13b-cff4-442e-927f-d4557e5f272c-Max-Origin.webp?v=1761363926
   - [Tan / S](https://np0i0a-pm.myshopify.com/products/ribbed-knit-long-sleeve-top-skirt-set?variant=51457697087719)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/c8ffa13b-cff4-442e-927f-d4557e5f272c-Max-Origin.webp?v=1760863262
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/c8ffa13b-cff4-442e-927f-d4557e5f272c-Max-Origin.webp?v=1761363926
     Price: $71.04 USD
   - [Tan / M](https://np0i0a-pm.myshopify.com/products/ribbed-knit-long-sleeve-top-skirt-set?variant=51457697120487)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/c8ffa13b-cff4-442e-927f-d4557e5f272c-Max-Origin.webp?v=1760863262
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/c8ffa13b-cff4-442e-927f-d4557e5f272c-Max-Origin.webp?v=1761363926
     Price: $71.04 USD
   - [Tan / L](https://np0i0a-pm.myshopify.com/products/ribbed-knit-long-sleeve-top-skirt-set?variant=51457697153255)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/c8ffa13b-cff4-442e-927f-d4557e5f272c-Max-Origin.webp?v=1760863262
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/c8ffa13b-cff4-442e-927f-d4557e5f272c-Max-Origin.webp?v=1761363926
     Price: $71.04 USD
   - [Tan / XL](https://np0i0a-pm.myshopify.com/products/ribbed-knit-long-sleeve-top-skirt-set?variant=51457697186023)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/c8ffa13b-cff4-442e-927f-d4557e5f272c-Max-Origin.webp?v=1760863262
+    Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/c8ffa13b-cff4-442e-927f-d4557e5f272c-Max-Origin.webp?v=1761363926
     Price: $71.04 USD
 - [Zip Collar Long Sleeve Top & Drawstring Pants Set](https://np0i0a-pm.myshopify.com/products/zip-collar-long-sleeve-top-and-drawstring-pants-set): Shop our Zip Collar Long Sleeve Top and Drawstring Pants Set for ultimate comfort and style. Perfect for all-day wear, this two-piece set is made from soft, stretchy materials.
-  Updated: 2025-10-24T23:40:55Z
+  Updated: 2025-10-25T03:40:37Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -14333,7 +14333,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/969524c2-4b2f-4698-9e84-749b2b230b5a-Max-Origin.webp?v=1760863664
     Price: $73.74 USD
 - [RISEN High Rise Wide Leg Corduroy Jeans - Trendy & Comfortable](https://np0i0a-pm.myshopify.com/products/risen-high-rise-wide-leg-corduroy-jeans): Shop the RISEN High Rise Wide Leg Corduroy Jeans for a stylish and flattering fit. Made from soft corduroy fabric, these jeans elevate your wardrobe with comfort and versatility.
-  Updated: 2025-10-24T21:15:16Z
+  Updated: 2025-10-25T02:42:26Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -15852,7 +15852,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/16d04d76-5838-43c3-9d6c-40c6742ea136-Max-Origin.webp?v=1760864694
     Price: $18.84 USD
 - [Lace Detail Dropped Shoulder Hoodie and Pants Set - Pretty Melanin](https://np0i0a-pm.myshopify.com/products/lace-detail-dropped-shoulder-hoodie-pants-set): Shop the Lace Detail Dropped Shoulder Hoodie and Pants Set for a stylish and comfortable two-piece outfit. Perfect for lounging or casual outings.
-  Updated: 2025-10-24T20:20:37Z
+  Updated: 2025-10-25T03:20:46Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
