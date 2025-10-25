@@ -8,7 +8,7 @@
 - Timezone: Europe/London
 - Created At: 2021-01-17T01:03:23Z
 - Contact Email: contact@crystalshealing.co.uk
-- Updated At: 2025-10-24T16:00:48.559Z
+- Updated At: 2025-10-25T08:00:51.120Z
 
 # Crystals Healing — AI-Ready Index
 Welcome to Crystals Healing, your trusted UK-based store for healing crystals and jewelry. This llms.txt file lists all products, collections, blogs, and pages to help AI assistants, search engines, and shopping bots discover and understand our offerings.
@@ -2911,7 +2911,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
   Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/products/Delete_2000x2000px_-min.jpg?v=1739739160
   Price: £31.80 GBP
 - [Red Tiger's Eye Pixiu Bracelet - Strength & Prosperity](https://crystalshealing.co.uk/products/red-tigers-eye-pixiu-bracelet): Boost courage and attract abundance with the Red Tiger's Eye Pixiu Bracelet, a powerful symbol of strength, protection, and wealth.
-  Updated: 2025-10-24T14:01:00Z
+  Updated: 2025-10-24T23:38:42Z
   Vendor: Crystals Healing
   Product Type: Bracelets
   Availability: Available
@@ -3484,7 +3484,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
     Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/20230505_104059-PhotoRoom_1_49a342fb-1221-45f7-a748-b53c98ea1721.jpg?v=1739739651
     Price: £33.00 GBP
 - [Yellow Cat Eye Bracelet](https://crystalshealing.co.uk/products/yellow-cat-eye-bracelet): Discover the luminous beauty of our Yellow Cat Eye Bracelet, A dazzling jewellery piece meticulously crafted with stunning 6mm yellow cat eye beads. Each bead is handpicked for its exquisite color and brilliance, ensuring that this bracelet radiates elegance and sophistication. As you adorn your wrist with this bracelet, you'll bask in the uplifting energy and warmth of the yellow cat eye gemstones. Yellow cat eye is believed to amplify one's inner glow and promote positivity and creativity. Whether you wear it to symbolize joy, inspiration, or simply to elevate your ensemble with a touch of radiant elegance, this bracelet is a versatile and meaningful addition to your jewellery collection. Every 6mm bead is thoughtfully strung and secured to ensure durability and longevity, allowing you to relish in the beauty and positive aura of this Yellow Cat Eye Bracelet for years to come. Its adjustable design guarantees a comfortable fit for various wrist sizes, and the secure clasp provides peace of mind as you go about your day. Embrace the invigorating energy of yellow cat eye in 6mm beads and let this bracelet become your daily reminder to shine brightly, stay optimistic, and stay connected to your inner light. Elevate your style, rejuvenate your spirit, and make a statement with the Yellow Cat Eye Bracelet—a symbol of radiance and elegance in a single exquisite piece of jewellery.
-  Updated: 2025-10-23T14:59:47Z
+  Updated: 2025-10-24T20:49:20Z
   Vendor: Crystals Healing
   Product Type: Bracelets
   Availability: Available
@@ -4247,7 +4247,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
   Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/Photoroom-20241219_121120.webp?v=1749664030
   Price: £80.00 GBP
 - [Black Tourmaline Bracelet – 6mm Beads](https://crystalshealing.co.uk/products/black-tourmaline-bracelet-6mm-beads): Shield yourself from negativity and embrace a life of balance and positivity with our Black Tourmaline Bracelet. Featuring 6mm genuine black tourmaline beads, this bracelet is renowned for its powerful grounding and protective properties. Designed to repel negative energies, it promotes emotional stability, resilience, and a sense of security, making it the perfect companion for navigating life's challenges with confidence and clarity. Crafted with simplicity and elegance, this bracelet boasts a sleek, elasticated design that ensures a comfortable and secure fit for most wrist sizes. Its minimalist style makes it a versatile accessory that seamlessly complements both casual and formal outfits. Whether worn alone or stacked with other bracelets, it adds a touch of timeless sophistication to any look. Beyond its aesthetic appeal, this bracelet serves as a meaningful reminder to prioritize self-care and mindfulness. Each time you glance at your wrist, you'll be inspired to embrace positivity and nurture your mind, body, and soul. Black tourmaline's natural energy fosters inner strength, tranquility, and a renewed sense of empowerment. Perfect for gifting or treating yourself, this Black Tourmaline Bracelet is more than just jewelry—it's a tool for personal growth and well-being. Elevate your style while harnessing the transformative energy of black tourmaline. Add this essential piece to your collection today and experience the profound benefits of grounding, protection, and balance in your daily life.
-  Updated: 2025-10-23T14:59:32Z
+  Updated: 2025-10-24T16:05:05Z
   Vendor: Crystals Healing
   Product Type: Bracelets
   Availability: Available
@@ -4877,8 +4877,8 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
   Updated: 2025-10-01T15:00:56Z
   Total Products: 13
 - [Crystal Kits](https://crystalshealing.co.uk/collections/crystal-kits): Explore our crystal kits designed for love, protection, abundance, and self-care. Each set includes hand-selected stones and guidance to support your energy rituals. Ideal for beginners and intentional gifting.
-  Updated: 2025-10-18T11:16:43Z
-  Total Products: 26
+  Updated: 2025-10-25T07:14:48Z
+  Total Products: 27
 - [Friendship Bracelets](https://crystalshealing.co.uk/collections/friendship-bracelets): Celebrate meaningful bonds with crystal friendship bracelets. Crafted with stones for love, loyalty & connection — like Rose Quartz, Lapis Lazuli & Moonstone — these pieces carry energy, intention and lasting memories.
   Updated: 2025-10-01T15:00:56Z
   Total Products: 5
@@ -5310,7 +5310,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
 - [Contact Us – We're Here to Help | Crystals Healing Shop](https://crystalshealing.co.uk/pages/contact-us): Get in touch with us for any questions, support, or assistance with your crystal needs. We're here to help you on your healing journey. Contact us ...
   Updated: 2025-10-08T21:37:33Z
 - [Bracelet & Necklace Size Guide | Crystals Healing](https://crystalshealing.co.uk/pages/size-guide): 📏 Size Guide Use this guide to find your perfect bracelet and necklace size. For current stock, check our crystal bracelets. ✨ Measuring Your Wrist...
-  Updated: 2025-09-24T10:00:41Z
+  Updated: 2025-10-25T06:31:13Z
 - [Quality Products & Support | Trusted Crystal Healing](https://crystalshealing.co.uk/pages/things-you-need-to-know): Things You Need To Know Experience our commitment to Quality Products & Support. We ensure top-notch products and exceptional customer service for ...
   Updated: 2025-09-24T10:00:41Z
 - [California Consumer Privacy Act (CCPA) | Your Rights](https://crystalshealing.co.uk/pages/california-consumer-privacy-act): California Consumer Privacy Act (CCPA) – Your Rights (2025) At Crystals Healing, we respect your privacy and are committed to protecting your perso...
