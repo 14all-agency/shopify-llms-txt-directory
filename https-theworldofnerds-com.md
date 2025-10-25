@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2023-11-06T10:53:38Z
 - Contact Email: theworldofnerdscustomer@gmail.com
-- Updated At: 2025-10-25T12:00:58.550Z
+- Updated At: 2025-10-25T16:00:59.954Z
 
 ## Products
 
@@ -7228,7 +7228,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1376_2.jpg?v=1742379900
   Price: ₹1,199.00 INR
 - [TRUNKS SS 2 ACTION FIGURE](https://theworldofnerds.com/products/trunks-ss-2-action-figure): Introducing the TRUNKS SS 2 ACTION FIGURE - the perfect collectible for any fan of the popular anime series! Crafted with attention to detail, this action figure captures the strength and power of the character Trunks at Super Saiyan 2 level. Made to impress, this figure will be a valuable addition to any collection.
-  Updated: 2025-10-24T17:15:52Z
+  Updated: 2025-10-25T12:11:09Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
