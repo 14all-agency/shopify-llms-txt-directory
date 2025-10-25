@@ -5,7 +5,7 @@
 - Currency: CAD
 - Timezone: America/Toronto
 - Created At: 2025-08-23T11:52:48Z
-- Updated At: 2025-10-24T04:00:33.888Z
+- Updated At: 2025-10-25T12:00:48.233Z
 
 ## Products
 
@@ -1425,7 +1425,7 @@
     Availability: Available
     Price: $25.00 CAD
 - [Huntrix Christmas sweater](https://lnlboutiquexo.myshopify.com/products/huntrix-christmas-sweater)
-  Updated: 2025-10-24T01:34:45Z
+  Updated: 2025-10-24T13:45:43Z
   Vendor: L&L Boutique 
   Product Type: 
   Availability: Available
