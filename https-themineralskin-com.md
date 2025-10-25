@@ -9,7 +9,7 @@
 - Created At: 2025-08-25T14:01:44Z
 - Contact Email: support@themineralskin.com
 - Address: 17 Heath Drive, London NW3 7SL, United Kingdom
-- Updated At: 2025-10-25T08:00:55.395Z
+- Updated At: 2025-10-25T16:00:47.168Z
 
 ## Products
 
@@ -173,6 +173,7 @@
 
 ## Alternate Currencies & Languages
 
+- [EU (en / USD)](https://themineralskin.com/llms.txt?market=eu)
 - [UK (en / undefined)](https://themineralskin.com/llms.txt?market=uk)
 - [US (en / undefined)](https://themineralskin.com/llms.txt?market=us)
 
