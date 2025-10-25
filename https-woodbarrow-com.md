@@ -6,7 +6,7 @@
 - Timezone: Asia/Muscat
 - Created At: 2024-10-28T08:31:11Z
 - Contact Email: info@woodbarrow.ae
-- Updated At: 2025-10-23T12:00:37.835Z
+- Updated At: 2025-10-25T16:00:46.203Z
 
 ## Products
 
@@ -2177,14 +2177,14 @@
 ## Collections
 
 - [Hospitality Supplies in UAE - Premium Wooden Hospitality Products](https://woodbarrow.com/collections/hospitality-supplies-in-uae): Discover premium quality hospitality supplies in UAE. Our wooden hospitality supplies are expertly crafted to elevate your establishment. Shop now for exceptional durability and style!
-  Updated: 2025-10-04T12:47:16Z
+  Updated: 2025-10-23T14:38:52Z
   Total Products: 2
 - [Hotel & Hospitality](https://woodbarrow.com/collections/hotel-hospitality)
   Updated: 2025-09-30T13:39:31Z
   Total Products: 227
 - [All Products](https://woodbarrow.com/collections/all-products)
-  Updated: 2025-04-06T10:42:43Z
-  Total Products: 140
+  Updated: 2025-10-23T14:42:07Z
+  Total Products: 215
 - [Signage](https://woodbarrow.com/collections/signage)
   Updated: 2025-09-30T13:39:31Z
   Total Products: 3
@@ -2195,7 +2195,7 @@
   Updated: 2025-09-30T13:39:32Z
   Total Products: 78
 - [Wooden Trays - Premium Hospitality Supplies Collection by Woodbarrow](https://woodbarrow.com/collections/wooden-trays): Explore our Wooden Trays Collection at Woodbarrow, featuring premium hospitality supplies designed for elegance and functionality. Perfect for elevating your service experience!
-  Updated: 2025-10-04T12:34:08Z
+  Updated: 2025-10-23T14:36:49Z
   Total Products: 77
 - [Arts & Crafts](https://woodbarrow.com/collections/arts-crafts)
   Updated: 2025-09-30T13:39:33Z
