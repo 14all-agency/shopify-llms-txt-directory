@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2024-06-01T16:53:27Z
 - Contact Email: Support@ursupermart.com
-- Updated At: 2025-10-25T16:00:55.394Z
+- Updated At: 2025-10-25T20:00:53.717Z
 
 ## Products
 
@@ -2039,7 +2039,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/festive-christmas-tree-earrings-set.webp?v=1730927629
   Price: $12.95 USD
 - [Plaid Wool Coats – Timeless Fall & Winter Fashion](https://ursupermart.com/products/plaid-wool-coats-collection): Stay warm in style with our plaid wool coat collection. Featuring vibrant patterns, soft wool blend fabric, and versatile designs perfect for layering.
-  Updated: 2025-10-25T15:29:00Z
+  Updated: 2025-10-25T17:54:10Z
   Vendor: S1B|Meta - Trendsi
   Product Type: trench coat
   Availability: Available
@@ -28834,73 +28834,21 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/wrapping-paper-cutter-demonstration-cutting-rolls.webp?v=1760741449
   Price: $14.95 USD
-- [Christmas Doll Socks Cartoon Plush Christmas Socks Christmas Tree Pendant Santa Claus Snowman Candy Gift Bag](https://ursupermart.com/products/christmas-doll-socks-cartoon-plush-christmas-socks-christmas-tree-pendant-santa-claus-snowman-candy-gift-bag): Material clothStyle American, Classical
-  Updated: 2025-10-25T06:21:14Z
-  Vendor: @eprolo
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/C9F2ACA3300695B74944AE682E602CE4.jpg?v=1761361827
-  - [Elderly style](https://ursupermart.com/products/christmas-doll-socks-cartoon-plush-christmas-socks-christmas-tree-pendant-santa-claus-snowman-candy-gift-bag?variant=42478704984154)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/342BAB2C5BB3C87EB13192FE8C0C1637.jpg?v=1761361835
-    Price: $9.99 USD
-  - [Snowman style](https://ursupermart.com/products/christmas-doll-socks-cartoon-plush-christmas-socks-christmas-tree-pendant-santa-claus-snowman-candy-gift-bag?variant=42478705016922)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/53E04F5616DA0E9638295FB2EA200991.jpg?v=1761361833
-    Price: $9.99 USD
-  - [Deer type](https://ursupermart.com/products/christmas-doll-socks-cartoon-plush-christmas-socks-christmas-tree-pendant-santa-claus-snowman-candy-gift-bag?variant=42478705049690)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/F9FCB7D810210ACE585764473F69B138.jpg?v=1761361831
-    Price: $9.99 USD
-  - [Little Bear Style](https://ursupermart.com/products/christmas-doll-socks-cartoon-plush-christmas-socks-christmas-tree-pendant-santa-claus-snowman-candy-gift-bag?variant=42478705082458)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/317F1BB33A0FC719012706F65348288A.jpg?v=1761361829
-    Price: $9.99 USD
-- [Hot selling Christmas window stickers, glass doors and windows, electrostatic double-sided wall stickers, Christmas peripherals](https://ursupermart.com/products/hot-selling-christmas-window-stickers-glass-doors-and-windows-electrostatic-double-sided-wall-stickers-christmas-peripherals): Material: PVCAdhesive method: electrostatic typeStyle: Modern and minimalistColor: Red Deer Elder 20X30cm (4-piece set), Green Deer Elder 20X30cm (4-piece set), Candy Elder 20X30cm (4-piece set), Snowflake 20X30cm 4-piece set, 3D Christmas 20X30cm (4-piece set), Bearded Elder 20X30cm (4-piece set)Pattern: Cartoon Anime
-  Updated: 2025-10-25T13:22:20Z
-  Vendor: @eprolo
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/E38077FC66C293C8F5655C1C622A2EAB.jpg?v=1761361901
-  - [Red Deer Old Man / 20X30cm（Four sheets）](https://ursupermart.com/products/hot-selling-christmas-window-stickers-glass-doors-and-windows-electrostatic-double-sided-wall-stickers-christmas-peripherals?variant=42478705147994)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/CB1A1C6FD6C3FD5A458ACE28CEE13F94.jpg?v=1761361913
-    Price: $12.95 USD
-  - [Green Deer Old Man / 20X30cm（Four sheets）](https://ursupermart.com/products/hot-selling-christmas-window-stickers-glass-doors-and-windows-electrostatic-double-sided-wall-stickers-christmas-peripherals?variant=42478705180762)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/1EFA30A251961E2287AA83E9C4CB11F4.jpg?v=1761361915
-    Price: $12.95 USD
-  - [Candy Old Man / 20X30cm（Four sheets）](https://ursupermart.com/products/hot-selling-christmas-window-stickers-glass-doors-and-windows-electrostatic-double-sided-wall-stickers-christmas-peripherals?variant=42478705213530)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/2F81A5AAC94C9003F47DC68135834F3E.jpg?v=1761361918
-    Price: $12.95 USD
-  - [snowflake / 20X30cm（Four sheets）](https://ursupermart.com/products/hot-selling-christmas-window-stickers-glass-doors-and-windows-electrostatic-double-sided-wall-stickers-christmas-peripherals?variant=42478705246298)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/0461425F6E6047FDB203FE696B5DE9C5.jpg?v=1761361920
-    Price: $12.95 USD
-  - [3D Christmas / 20X30cm（Four sheets）](https://ursupermart.com/products/hot-selling-christmas-window-stickers-glass-doors-and-windows-electrostatic-double-sided-wall-stickers-christmas-peripherals?variant=42478705279066)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/36125BB6D5149133DC55E7030B6781C7.jpg?v=1761361922
-    Price: $12.95 USD
-  - [The bearded old man / 20X30cm（Four sheets）](https://ursupermart.com/products/hot-selling-christmas-window-stickers-glass-doors-and-windows-electrostatic-double-sided-wall-stickers-christmas-peripherals?variant=42478705311834)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/A56EC705AB021DE5B3471E042383EF8F.jpg?v=1761361925
-    Price: $14.65 USD
 - [New Year Christmas Cute Angel Santa Claus Plush Dolls Christmas Tree Ornament Pendant Party Christmas Decoration for Home](https://ursupermart.com/products/new-year-christmas-cute-angel-santa-claus-plush-dolls-christmas-tree-ornament-pendant-party-christmas-decoration-for-home): New Year Christmas Cute Angel Santa Claus Plush Dolls Christmas Tree Ornament Pendant Party Christmas Decoration for HomeName: Christmas pendant material: wool Packing: 1pcs Note: There may be a slight error in manual measurement, please understand
-  Updated: 2025-10-25T03:14:40Z
-  Vendor: eprolo
-  Product Type: 
+  Updated: 2025-10-25T19:59:58Z
+  Vendor: @eprolo
+  Product Type: Tree Ornaments
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/236102888526545CE6AE581F207CFDAA.jpg?v=1761361922
-  - [snowman](https://ursupermart.com/products/new-year-christmas-cute-angel-santa-claus-plush-dolls-christmas-tree-ornament-pendant-party-christmas-decoration-for-home?variant=42478705377370)
+  - [Snowman](https://ursupermart.com/products/new-year-christmas-cute-angel-santa-claus-plush-dolls-christmas-tree-ornament-pendant-party-christmas-decoration-for-home?variant=42478705377370)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/9581B42C7CD0AB80BAC4606F1794C724.jpg?v=1761361934
     Price: $12.95 USD
-  - [angel](https://ursupermart.com/products/new-year-christmas-cute-angel-santa-claus-plush-dolls-christmas-tree-ornament-pendant-party-christmas-decoration-for-home?variant=42478705410138)
+  - [Angel](https://ursupermart.com/products/new-year-christmas-cute-angel-santa-claus-plush-dolls-christmas-tree-ornament-pendant-party-christmas-decoration-for-home?variant=42478705410138)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/4330DA48455A9826344E81926891B734.jpg?v=1761361936
     Price: $12.95 USD
-  - [elk](https://ursupermart.com/products/new-year-christmas-cute-angel-santa-claus-plush-dolls-christmas-tree-ornament-pendant-party-christmas-decoration-for-home?variant=42478705442906)
+  - [Elk](https://ursupermart.com/products/new-year-christmas-cute-angel-santa-claus-plush-dolls-christmas-tree-ornament-pendant-party-christmas-decoration-for-home?variant=42478705442906)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/2FC8E5DC2E046A40077FDD94F51B8C29.jpg?v=1761361938
     Price: $12.95 USD
@@ -29028,14 +28976,14 @@
   Updated: 2025-10-16T01:29:07Z
   Total Products: 35
 - [Best Black Friday Gadgets Under $15: Viral TikTok Tech](https://ursupermart.com/collections/black-friday-deals-under-15): Discover trending Black Friday gadgets under $15! Shop viral TikTok tech gifts, phone accessories & kitchen tools. Free shipping on all orders.
-  Updated: 2025-10-25T11:06:59Z
-  Total Products: 82
+  Updated: 2025-10-25T19:58:13Z
+  Total Products: 84
 - [Best Cyber Monday Deals Under 25 Tech Gifts & Free Shipping](https://ursupermart.com/collections/cyber-monday-deals-under-25): Discover cyber monday deals under 25 on quality tech gifts with free shipping today. Perfect holiday tech gifts under 25 that solve real problems for everyone.
   Updated: 2025-10-23T21:37:32Z
   Total Products: 13
 - [Best Budget Tech Gifts Under $15: Viral TikTok Finds 2025](https://ursupermart.com/collections/tech-gifts-under-15-viral-tiktok): Shop 15 viral TikTok tech gifts under $15 that actually work. Budget wireless earbuds, phone accessories & trending gadgets. Free shipping. Limited stock!
-  Updated: 2025-10-25T11:06:59Z
-  Total Products: 80
+  Updated: 2025-10-25T19:59:57Z
+  Total Products: 82
 - [Secret Santa Gifts under $30: Unique Ideas That Won't Break the Bank](https://ursupermart.com/collections/christmas-gift-ideas-under-30): Christmas Gifts That Won't Break the Bank Discover the perfect Christmas gifts for everyone on your list without exceeding your budget! Our collection features a wide array of items, all priced under $30, making it easier than ever to find thoughtful gifts that won't strain your wallet. Whether you're shopping for friends, family, or co-workers, these budget-friendly options are ideal for Secret Santa gifts, stocking stuffers, and last-minute surprises. Plus, enjoy the added benefit of free shipping on all orders, ensuring that your holiday shopping is both convenient and cost-effective. Stocking Stuffers for Everyone Looking for stocking stuffers that are sure to delight? Our curated selection includes fun and practical items perfect for filling those stockings this holiday season. From stylish fashion accessories to quirky kitchen gadgets, there’s something for everyone. These unique gifts are not only affordable but also thoughtful, making them ideal for anyone from your office buddy to your favorite aunt. Explore our collection and find the perfect small treasures that will bring joy to your loved ones. Best Holiday Gift Ideas Under $30 Finding the best holiday gift ideas can be a challenge, especially when you're on a budget. Our collection is designed with this in mind, offering a variety of delightful options that cater to all tastes and interests. Choose from trendy women's clothing, sleek watches, or handy electronics that make great gifts for men and women alike. Each item is carefully selected to ensure quality and style while keeping prices low. This holiday season, impress your friends and family with thoughtful gifts that show you care without overspending. Christmas Gifts for Men and Women Searching for Christmas gifts for men or Christmas gifts for women? Look no further! Our diverse collection has something special for everyone. Whether you're shopping for a tech enthusiast who loves gadgets or a fashion-forward friend who appreciates stylish accessories, our range of products includes everything from phone cases to massagers. These gifts are perfect for all ages, making them suitable for friends, family members, or even co-workers participating in office gift exchanges. Stocking Stuffer Ideas That Shine When it comes to stocking stuffer ideas, creativity is key! Our collection features an assortment of small yet impactful gifts that are sure to impress. Consider fun toys, trendy glasses, or unique kitchen gadgets as delightful additions to any stocking. Each item is thoughtfully chosen to bring smiles without breaking the bank. These stocking stuffers are not just practical; they also add a touch of excitement to the holiday festivities. Secret Santa Gifts Everyone Will Love Participating in a Secret Santa exchange? Our selection of Secret Santa gifts is perfect for surprising your colleagues or friends with something unique and enjoyable. From stylish bags to charming Christmas ornaments, each gift is under $30 and designed to bring joy without the stress of overspending. Make your Secret Santa memorable with our thoughtful picks that cater to diverse tastes. Gift Ideas for Those Who Have Everything Struggling with what to buy for those who seem to have it all? Our collection includes gifts for men who have everything, offering practical yet fun items that they might not have thought to buy themselves. From innovative electronics to fashionable accessories, these unique finds will surely impress even the hardest-to-shop-for individuals on your list. Christmas Gifts for Mom That Show You Care Show your appreciation this holiday season with thoughtful Christmas gifts for mom. Our selection includes lovely fashion accessories and cozy items that she will cherish. Each gift is designed with love and care, ensuring that you can express how much she means to you without exceeding your budget. Celebrate her this Christmas with a gift that reflects her personality and style. Holiday Sales You Can't Miss Take advantage of our incredible holiday sales! With every item priced under $30 and free shipping included, you can shop confidently knowing you're getting the best deals this season. Don’t miss out on these fantastic offers—perfect for last-minute shoppers looking to spread some holiday cheer without spending too much. This holiday season, make your shopping experience enjoyable and stress-free with our extensive collection of budget-friendly gifts. Each item is selected not just for its affordability but also for its ability to bring joy and happiness during this festive time of year. Whether you're looking for stocking stuffers or meaningful presents, our collection has everything you need to make this Christmas unforgettable!
   Updated: 2025-10-23T21:37:32Z
   Total Products: 16
@@ -29043,8 +28991,8 @@
   Updated: 2025-10-18T01:49:14Z
   Total Products: 31
 - [Best Stocking Stuffers Under $15: Affordable Gift Ideas 2025](https://ursupermart.com/collections/stocking-stuffers-under-15-dollars): Stocking stuffers under $15 that look amazing. Budget gifts with free shipping. Quality items for everyone on your list. Shop smart and save money this holiday!
-  Updated: 2025-10-25T11:06:59Z
-  Total Products: 81
+  Updated: 2025-10-25T19:59:57Z
+  Total Products: 84
 - [Top Gift Ideas Under $25 That Look Expensive - Beauty & Tech](https://ursupermart.com/collections/best-gift-ideas-under-25): Best gift ideas under $25 that look expensive! Budget beauty gifts, tech accessories & holiday gifts under 25 for everyone. Quality guaranteed today!
   Updated: 2025-10-24T13:31:42Z
   Total Products: 90
