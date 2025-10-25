@@ -6,7 +6,7 @@
 - Timezone: Asia/Kuala_Lumpur
 - Created At: 2022-10-06T05:47:12Z
 - Contact Email: sales@bath2u.com
-- Updated At: 2025-10-24T20:00:59.392Z
+- Updated At: 2025-10-25T04:00:55.781Z
 
 ## Products
 
@@ -1887,7 +1887,7 @@
     Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/180PANEL_7216e7da-0f0a-44d3-b91c-7ea6c9bc75d3.png?v=1675318859
     Price: RM 1,900.00 MYR
 - [ROMAN Silver 1900mm Sliding Door Shower Enclosure](https://bath2u.com/products/roman-silver-1900mm-sliding-door-enclosure): The Sliding Door really highlights the available showering space, with its clear glass expanse. The stylish sliding doors glide effortlessly on the single unobtrusive top rail and the ‘quick release’ mechanism featured on the bottom rail. It is an ideal solution for when space there are other bathroom obstructions such as sinks and towel rails outside of the enclosure, as the sliding doors do not project out into the bathroom. Specifications : Tempered Glass : Clear / Moru / Reflective Design : Slider, L-shape Slider, Corner Entry Thickness : 6mm Height : 1900mm Size : 1000mm - 1699mm Colour : Silver Brass Chrome Knob Handle Frame Material : Aluminium
-  Updated: 2024-04-18T15:06:40Z
+  Updated: 2025-10-24T21:55:42Z
   Vendor: ROMAN
   Product Type: Sliding Door Enclosure
   Availability: Available
@@ -2866,7 +2866,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/AJ0700CE.png?v=1678677497
   Price: RM 299.00 MYR
 - [ALFRED VICTORIA 345mm Chrome Quater Turn Wall Sink Tap](https://bath2u.com/products/alfred-victoria-345mm-chrome-quater-turn-wall-sink-tap): Specification : High Purity Brass Body High Quality Chrome Plated Finished Dimension: 220 (L) x 195 (W) x 345 (H) mm Spout Length: 190mm Body Width: 145mm Dual Spout System Complete with Wall Screwing Bracket Stainless Steel Chrome Swivel Spout 1/2" Treat Inlet Connector
-  Updated: 2025-01-21T13:35:00Z
+  Updated: 2025-10-24T20:13:23Z
   Vendor: ALFRED VICTORIA
   Product Type: Kitchen Tap
   Availability: Available
