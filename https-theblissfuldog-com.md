@@ -10,7 +10,7 @@
 - Contact Email: info@theblissfuldog.com
 - Contact Phone: 855-364-2547
 - Address: 50688 235th ave NW
-- Updated At: 2025-10-25T00:00:45.112Z
+- Updated At: 2025-10-25T12:00:45.716Z
 
 ## Products
 
@@ -5085,7 +5085,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/LAB_SPRAY_RELAX3_2500_LAV1.jpg?v=1623450967
     Price: $13.95 USD
 - [Is Your Mastiff Afraid of Thunder? Fireworks? Trips to the Vet?](https://theblissfuldog.com/products/mastiff-relax-dog-aromatherapy): Is your normally confident Mastiff afraid of thunderstorms? Relax Dog Aromatherapy takes the edge off your Mastiff's stress...naturally! Free Shipping USA
-  Updated: 2025-10-16T15:40:06Z
+  Updated: 2025-10-25T02:18:42Z
   Vendor: The Blissful Dog® Inc.
   Product Type: DOG AROMATHERAPY
   Availability: Available
@@ -8529,7 +8529,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/GSMD-BOOBOO-50TUBE-NEEM-OIL-2500.jpg?v=1738726903
     Price: $11.95 USD
 - [The Blissful Dog Boo Boo Butter for Leonberger Skin Irritations](https://theblissfuldog.com/products/leonberger-boo-boo-butter): The Blissful Dog Boo Boo Butter for Leonberger Skin Irritations - Infused with herbal goodness for your Leo's minor skin irritations, scratches, scrapes.
-  Updated: 2025-10-16T15:40:33Z
+  Updated: 2025-10-25T04:30:06Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -8819,7 +8819,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/BASENJI-RELAX-TEDDY-SPRAY-MASK-2024_178d431b-0ff5-4b2e-92ce-b503a7d4c154.jpg?v=1738772189
     Price: $13.95 USD
 - [Boo Boo Butter for Doberman Pinscher Skin Irritations, Itchy Spots +](https://theblissfuldog.com/products/doberman-pinscher-boo-boo-butter): The Blissful Dog Boo Boo Butter Your Go-To Doberman Pinscher Skin Balm for Your Dobie's skin irritations, rashes, scrapes, scratches, bug bites, hot spots+
-  Updated: 2025-10-24T17:27:03Z
+  Updated: 2025-10-25T02:07:27Z
   Vendor: The Blissful Dog® Inc.
   Product Type: BOO BOO BUTTER
   Availability: Available
@@ -12174,7 +12174,7 @@
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/AMSTAFF_15TUBE_COMBO_b160ef26-b97e-4830-a7d9-1fec090c3091.jpg?v=1648231222
   Price: $19.95 USD
 - [Australian Cattle Dog Skin Care for Dry Noses, Rough Paws, Itchy Skin](https://theblissfuldog.com/products/australian-cattle-dog-tube-combo): The Blissful Dog Australian Cattle Dog Skin Care Custom Combo - Mix and Match your choice of tubes for your dog's dry nose, rough paws, minor skin irritations.
-  Updated: 2025-10-16T15:40:59Z
+  Updated: 2025-10-25T02:22:20Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
@@ -12244,7 +12244,7 @@
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/BOSTON_TUBE_COMBO.jpg?v=1648247800
   Price: $19.95 USD
 - [Boxer Custom Combo Kits for Boxer Skin Care - Dry Noses, Rough Paws+](https://theblissfuldog.com/products/boxer-tube-combo): Boxer Tube Combo Kits for Boxer Skin Care - All natural, handcrafted balms for dry dog noses, rough paws, elbow calluses and itchy skin annoyances.
-  Updated: 2025-10-24T18:35:05Z
+  Updated: 2025-10-25T05:51:58Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
