@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-07-21T23:17:39Z
 - Contact Email: dustin1986williamson@gmail.com
-- Updated At: 2025-10-21T08:00:36.136Z
+- Updated At: 2025-10-25T20:00:38.908Z
 
 ## Products
 
@@ -10100,13 +10100,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/soul-threads-black-s-unisex-hoodie-comfortable-and-stylish-apparel-for-everyone-37931848761575.jpg?v=1760274851
     Price: $27.00 USD
-- [Mississippi Ole Miss AirPods Case Cover - Realtree HDX Gen 3 Accessory](https://soulthreads25.com/products/mississippi-ole-miss-airpods-case-cover-realtree-hdx-for-gen-3): Protect your AirPods in style with the Mississippi Ole Miss AirPods Case Cover. Made with Realtree HDX for Gen 3, it combines durability and unique design for true fans.
-  Updated: 2025-10-20T16:05:37Z
-  Vendor: Affinity Bands
-  Product Type: Realtree Ole Miss HDX AirPods Gen 3 Case
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/affinity-bands-realtree-ole-miss-hdx-airpods-gen-3-case-default-title-mississippi-ole-miss-airpods-case-cover-realtree-hdx-for-gen-3-37937727897831.jpg?v=1760274851
-  Price: $29.99 USD
 - [Realtree AirPods Case Cover - Gen 1 & 2 APX HDX Design Accessories](https://soulthreads25.com/products/realtree-airpods-case-cover-for-gen-1-2-apx-hdx-design): Protect your AirPods in style with our Realtree AirPods Case Cover for Gen 1 & 2, featuring the striking APX HDX design. Durable, lightweight, and perfect for outdoor enthusiasts!
   Updated: 2025-10-20T16:05:37Z
   Vendor: Affinity Bands
@@ -10115,7 +10108,7 @@
   Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/affinity-bands-realtree-apx-hdx-airpods-gen-1-2-case-default-title-realtree-airpods-case-cover-for-gen-1-2-apx-hdx-design-37937727865063.jpg?v=1760274849
   Price: $24.99 USD
 - [Realtree Fitbit Watch Band for Versa 3 & Sense 1 - Stylish Accessory](https://soulthreads25.com/products/realtree-fitbit-watch-band-for-versa-3-and-sense-1-stylish-and-durable-accessory): Elevate your style with the Realtree Fitbit Watch Band for Versa 3 and Sense 1. This durable accessory combines fashion and functionality for the perfect look. Shop now!
-  Updated: 2025-10-21T02:15:51Z
+  Updated: 2025-10-25T14:23:10Z
   Vendor: Affinity Bands
   Product Type: Realtree HD Fitbit Watch Band
   Availability: Available
@@ -10129,7 +10122,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/affinity-bands-realtree-hd-fitbit-watch-band-aspect-short-realtree-fitbit-watch-band-for-versa-3-and-sense-1-stylish-and-durable-accessory-37937728061671.jpg?v=1760274844
     Price: $29.99 USD
 - [Realtree Excape HD Apple Watch Band - Soul threads](https://soulthreads25.com/products/realtree-excape-hd-apple-watch-band): Enhance your Apple Watch with the Realtree Excape HD Apple Watch Band. This stylish, durable band combines comfort and outdoor aesthetics for the perfect accessory.
-  Updated: 2025-10-20T17:12:53Z
+  Updated: 2025-10-25T08:15:00Z
   Vendor: Affinity Bands
   Product Type: Realtree HD Apple Band
   Availability: Available
@@ -10151,7 +10144,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/affinity-bands-realtree-hd-apple-band-excape-42-44-45-49mm-46mm-series-10-short-realtree-excape-hd-apple-watch-band-37937728094439.jpg?v=1760274841
     Price: $29.99 USD
 - [Realtree HDX AirPods Gen 3 Case – Ultimate Protection & Style](https://soulthreads25.com/products/realtree-hdx-airpods-gen-3-case-cover-for-maximum-protection): Protect your AirPods in style with our Realtree HDX AirPods Gen 3 Case. Designed for maximum protection and durability, it's the perfect accessory for outdoors enthusiasts.
-  Updated: 2025-10-21T05:26:03Z
+  Updated: 2025-10-24T19:06:22Z
   Vendor: Affinity Bands
   Product Type: Realtree HDX Apple Airpod Gen 3 Case Cover
   Availability: Available
@@ -10185,7 +10178,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/affinity-bands-realtree-hdx-apple-airpod-gen-3-case-cover-aspect-realtree-hdx-airpods-gen-3-case-cover-for-maximum-protection-37937732288743.jpg?v=1760274815
     Price: $24.99 USD
   - [Sea Glass](https://soulthreads25.com/products/realtree-hdx-airpods-gen-3-case-cover-for-maximum-protection?variant=51409850892519)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/affinity-bands-realtree-hdx-apple-airpod-gen-3-case-cover-aspect-realtree-hdx-airpods-gen-3-case-cover-for-maximum-protection-37937732976871.jpg?v=1760274810
     Price: $24.99 USD
   - [Shadow](https://soulthreads25.com/products/realtree-hdx-airpods-gen-3-case-cover-for-maximum-protection?variant=51409850925287)
@@ -10201,7 +10194,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/affinity-bands-realtree-hdx-apple-airpod-gen-3-case-cover-aspect-realtree-hdx-airpods-gen-3-case-cover-for-maximum-protection-37937734222055.jpg?v=1760274799
     Price: $24.99 USD
   - [Dark Blue](https://soulthreads25.com/products/realtree-hdx-airpods-gen-3-case-cover-for-maximum-protection?variant=51409851023591)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/affinity-bands-realtree-hdx-apple-airpod-gen-3-case-cover-aspect-realtree-hdx-airpods-gen-3-case-cover-for-maximum-protection-37937734516967.jpg?v=1760274795
     Price: $24.99 USD
   - [Grape](https://soulthreads25.com/products/realtree-hdx-airpods-gen-3-case-cover-for-maximum-protection?variant=51409851056359)
@@ -10229,11 +10222,11 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/affinity-bands-realtree-hdx-apple-airpod-gen-3-case-cover-aspect-realtree-hdx-airpods-gen-3-case-cover-for-maximum-protection-rt-hdxapc20-camo-37937736548583.jpg?v=1760275380
     Price: $24.99 USD
   - [Wave 1](https://soulthreads25.com/products/realtree-hdx-airpods-gen-3-case-cover-for-maximum-protection?variant=51409851252967)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/affinity-bands-realtree-hdx-apple-airpod-gen-3-case-cover-aspect-realtree-hdx-airpods-gen-3-case-cover-for-maximum-protection-rt-hdxapc20-camo-37937736024295.jpg?v=1760275391
     Price: $24.99 USD
   - [Wave 2](https://soulthreads25.com/products/realtree-hdx-airpods-gen-3-case-cover-for-maximum-protection?variant=51409851285735)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/affinity-bands-realtree-hdx-apple-airpod-gen-3-case-cover-aspect-realtree-hdx-airpods-gen-3-case-cover-for-maximum-protection-rt-hdxapc20-camo-37937736253671.jpg?v=1760275386
     Price: $24.99 USD
   - [Wave 3](https://soulthreads25.com/products/realtree-hdx-airpods-gen-3-case-cover-for-maximum-protection?variant=51409851318503)
@@ -10241,7 +10234,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/affinity-bands-realtree-hdx-apple-airpod-gen-3-case-cover-aspect-realtree-hdx-airpods-gen-3-case-cover-for-maximum-protection-rt-hdxapc20-camo-37937736417511.jpg?v=1760275385
     Price: $24.99 USD
 - [Pride HD iPhone 11/XR Case - Durable Protection & Stylish Design](https://soulthreads25.com/products/pride-hd-iphone-11-xr-case-stylish-durable-protection): Protect your iPhone 11/XR with the Pride HD iPhone 11/XR case. Enjoy stylish and durable protection that elevates your device while keeping it safe from everyday wear and tear.
-  Updated: 2025-10-20T16:05:38Z
+  Updated: 2025-10-25T05:10:45Z
   Vendor: Affinity Bands
   Product Type: Pride HD iPhone Case
   Availability: Available
@@ -10367,7 +10360,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/affinity-bands-pride-hd-iphone-case-bisexual-iphone-11-pride-hd-iphone-11-xr-case-stylish-durable-protection-u-hd1ar11-pri-37937730715879.jpg?v=1760275355
     Price: $24.99 USD
 - [Pickleball iPhone 12 Mag-Safe Case for Ultimate Protection & Style](https://soulthreads25.com/products/pickleball-iphone-12-mag-safe-case-for-ultimate-protection-and-style): Protect your iPhone 12 in style with our Pickleball iPhone 12 Mag-Safe case. Designed for ultimate durability and a unique pickleball aesthetic, this case is perfect for players!
-  Updated: 2025-10-20T16:05:39Z
+  Updated: 2025-10-24T19:07:03Z
   Vendor: Affinity Bands
   Product Type: Pickleball Apple iPhone 12 Case
   Availability: Available
@@ -10469,7 +10462,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/affinity-bands-pickleball-apple-iphone-12-case-love-iphone-12-pro-max-pickleball-iphone-12-mag-safe-case-for-ultimate-protection-and-style-u-hd3am12-pb-37937731862759.jpg?v=1760275341
     Price: $29.99 USD
 - [Pickleball iPhone 13 Mag-Safe Case - HD Protection & Stylish Design](https://soulthreads25.com/products/pickleball-iphone-13-mag-safe-case-hd-protection-for-your-device): Protect your iPhone 13 in style with our Pickleball iPhone 13 Mag-Safe Case. Enjoy HD protection and a sleek design that showcases your love for pickleball. Order yours today!
-  Updated: 2025-10-20T16:05:39Z
+  Updated: 2025-10-25T14:24:01Z
   Vendor: Affinity Bands
   Product Type: Pickleball Apple iPhone 13 Case
   Availability: Available
@@ -10571,7 +10564,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/affinity-bands-pickleball-apple-iphone-13-case-love-iphone-13-pickleball-iphone-13-mag-safe-case-hd-protection-for-your-device-u-hd3ar13-pb-37937732780263.jpg?v=1760275325
     Price: $29.99 USD
 - [Pickleball iPhone 16 Mag-Safe Case for Stylish Protection on the Go](https://soulthreads25.com/products/pickleball-iphone-16-mag-safe-case-for-ultimate-protection-and-style): Protect your iPhone 16 in style with our Pickleball iPhone 16 Mag-Safe Case. Enjoy ultimate durability and a sleek design, perfect for pickleball lovers on the go!
-  Updated: 2025-10-20T20:15:24Z
+  Updated: 2025-10-25T01:41:29Z
   Vendor: Affinity Bands
   Product Type: Pickleball HD iPhone 16 Case
   Availability: Available
@@ -10585,7 +10578,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/affinity-bands-pickleball-hd-iphone-16-case-love-iphone-16-pro-max-pickleball-iphone-16-mag-safe-case-for-ultimate-protection-and-style-u-hd3am16-pb-37937728946407.jpg?v=1760275323
     Price: $29.99 USD
   - [Love / iPhone 16 Plus](https://soulthreads25.com/products/pickleball-iphone-16-mag-safe-case-for-ultimate-protection-and-style?variant=51409846141159)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/affinity-bands-pickleball-hd-iphone-16-case-love-iphone-16-pro-max-pickleball-iphone-16-mag-safe-case-for-ultimate-protection-and-style-u-hd3am16-pb-37937729077479.jpg?v=1760275323
     Price: $29.99 USD
   - [Love / iPhone 16](https://soulthreads25.com/products/pickleball-iphone-16-mag-safe-case-for-ultimate-protection-and-style?variant=51409846173927)
@@ -10601,7 +10594,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/affinity-bands-pickleball-hd-iphone-16-case-love-iphone-16-pro-max-pickleball-iphone-16-mag-safe-case-for-ultimate-protection-and-style-u-hd3am16-pb-37937729405159.jpg?v=1760275319
     Price: $29.99 USD
   - [Pickleball / iPhone 16 Plus](https://soulthreads25.com/products/pickleball-iphone-16-mag-safe-case-for-ultimate-protection-and-style?variant=51409846272231)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/affinity-bands-pickleball-hd-iphone-16-case-love-iphone-16-pro-max-pickleball-iphone-16-mag-safe-case-for-ultimate-protection-and-style-u-hd3am16-pb-37937729536231.jpg?v=1760275318
     Price: $29.99 USD
   - [Pickleball / iPhone 16](https://soulthreads25.com/products/pickleball-iphone-16-mag-safe-case-for-ultimate-protection-and-style?variant=51409846304999)
@@ -10617,7 +10610,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/affinity-bands-pickleball-hd-iphone-16-case-love-iphone-16-pro-max-pickleball-iphone-16-mag-safe-case-for-ultimate-protection-and-style-u-hd3am16-pb-37937729896679.jpg?v=1760275317
     Price: $29.99 USD
   - [Flying Pickleball / iPhone 16 Plus](https://soulthreads25.com/products/pickleball-iphone-16-mag-safe-case-for-ultimate-protection-and-style?variant=51409846403303)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/affinity-bands-pickleball-hd-iphone-16-case-love-iphone-16-pro-max-pickleball-iphone-16-mag-safe-case-for-ultimate-protection-and-style-u-hd3am16-pb-37937730060519.jpg?v=1760275317
     Price: $29.99 USD
   - [Flying Pickleball / iPhone 16](https://soulthreads25.com/products/pickleball-iphone-16-mag-safe-case-for-ultimate-protection-and-style?variant=51409846436071)
@@ -10633,7 +10626,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/affinity-bands-pickleball-hd-iphone-16-case-love-iphone-16-pro-max-pickleball-iphone-16-mag-safe-case-for-ultimate-protection-and-style-u-hd3am16-pb-37937730584807.jpg?v=1760275312
     Price: $29.99 USD
   - [Ball & Paddle / iPhone 16 Plus](https://soulthreads25.com/products/pickleball-iphone-16-mag-safe-case-for-ultimate-protection-and-style?variant=51409846534375)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/affinity-bands-pickleball-hd-iphone-16-case-love-iphone-16-pro-max-pickleball-iphone-16-mag-safe-case-for-ultimate-protection-and-style-u-hd3am16-pb-37937730814183.jpg?v=1760275312
     Price: $29.99 USD
   - [Ball & Paddle / iPhone 16](https://soulthreads25.com/products/pickleball-iphone-16-mag-safe-case-for-ultimate-protection-and-style?variant=51409846567143)
@@ -10649,7 +10642,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/affinity-bands-pickleball-hd-iphone-16-case-love-iphone-16-pro-max-pickleball-iphone-16-mag-safe-case-for-ultimate-protection-and-style-u-hd3am16-pb-37937731305703.jpg?v=1760275311
     Price: $29.99 USD
   - [Pickleball Red / iPhone 16 Plus](https://soulthreads25.com/products/pickleball-iphone-16-mag-safe-case-for-ultimate-protection-and-style?variant=51409846665447)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/affinity-bands-pickleball-hd-iphone-16-case-love-iphone-16-pro-max-pickleball-iphone-16-mag-safe-case-for-ultimate-protection-and-style-u-hd3am16-pb-37937731469543.jpg?v=1760275307
     Price: $29.99 USD
   - [Pickleball Red / iPhone 16](https://soulthreads25.com/products/pickleball-iphone-16-mag-safe-case-for-ultimate-protection-and-style?variant=51409846698215)
@@ -10665,7 +10658,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/affinity-bands-pickleball-hd-iphone-16-case-love-iphone-16-pro-max-pickleball-iphone-16-mag-safe-case-for-ultimate-protection-and-style-u-hd3am16-pb-37937732059367.jpg?v=1760275306
     Price: $29.99 USD
   - [Pickleball Green / iPhone 16 Plus](https://soulthreads25.com/products/pickleball-iphone-16-mag-safe-case-for-ultimate-protection-and-style?variant=51409846796519)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/affinity-bands-pickleball-hd-iphone-16-case-love-iphone-16-pro-max-pickleball-iphone-16-mag-safe-case-for-ultimate-protection-and-style-u-hd3am16-pb-37937732223207.jpg?v=1760275305
     Price: $29.99 USD
   - [Pickleball Green / iPhone 16](https://soulthreads25.com/products/pickleball-iphone-16-mag-safe-case-for-ultimate-protection-and-style?variant=51409846829287)
@@ -10681,7 +10674,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/affinity-bands-pickleball-hd-iphone-16-case-love-iphone-16-pro-max-pickleball-iphone-16-mag-safe-case-for-ultimate-protection-and-style-u-hd3am16-pb-37937732649191.jpg?v=1760275303
     Price: $29.99 USD
   - [Pickleball Pink / iPhone 16 Plus](https://soulthreads25.com/products/pickleball-iphone-16-mag-safe-case-for-ultimate-protection-and-style?variant=51409846927591)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/affinity-bands-pickleball-hd-iphone-16-case-love-iphone-16-pro-max-pickleball-iphone-16-mag-safe-case-for-ultimate-protection-and-style-u-hd3am16-pb-37937732747495.jpg?v=1760275303
     Price: $29.99 USD
   - [Pickleball Pink / iPhone 16](https://soulthreads25.com/products/pickleball-iphone-16-mag-safe-case-for-ultimate-protection-and-style?variant=51409846960359)
@@ -10697,7 +10690,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/affinity-bands-pickleball-hd-iphone-16-case-love-iphone-16-pro-max-pickleball-iphone-16-mag-safe-case-for-ultimate-protection-and-style-u-hd3am16-pb-37937733206247.jpg?v=1760275300
     Price: $29.99 USD
   - [Pickleball Blue / iPhone 16 Plus](https://soulthreads25.com/products/pickleball-iphone-16-mag-safe-case-for-ultimate-protection-and-style?variant=51409847058663)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/affinity-bands-pickleball-hd-iphone-16-case-love-iphone-16-pro-max-pickleball-iphone-16-mag-safe-case-for-ultimate-protection-and-style-u-hd3am16-pb-37937733370087.jpg?v=1760275298
     Price: $29.99 USD
   - [Pickleball Blue / iPhone 16](https://soulthreads25.com/products/pickleball-iphone-16-mag-safe-case-for-ultimate-protection-and-style?variant=51409847091431)
@@ -10705,7 +10698,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/affinity-bands-pickleball-hd-iphone-16-case-love-iphone-16-pro-max-pickleball-iphone-16-mag-safe-case-for-ultimate-protection-and-style-u-hd3am16-pb-37937733468391.jpg?v=1760275297
     Price: $29.99 USD
 - [Realtree Edge HD Watch Band – Stylish and Durable for Apple Watch](https://soulthreads25.com/products/realtree-edge-hd-watch-band-for-apple-watch-durable-and-stylish): Meta Description: Upgrade your Apple Watch with the Realtree Edge HD Watch Band. This durable and stylish band offers a perfect blend of comfort and performance for adventurous lifestyles.
-  Updated: 2025-10-21T05:26:04Z
+  Updated: 2025-10-25T17:20:46Z
   Vendor: Affinity Bands
   Product Type: Realtree HD Apple Band
   Availability: Available
@@ -10855,7 +10848,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/affinity-bands-realtree-hd-apple-band-edge-42-44-45-49mm-46mm-series-10-short-realtree-edge-hd-watch-band-for-apple-watch-durable-and-stylish-rt-hd1-camo-42s-37937735368935.jpg?v=1760275262
     Price: $29.99 USD
 - [Pride HD iPhone 16 Mag-Safe Case for Ultimate Protection & Style](https://soulthreads25.com/products/pride-hd-iphone-16-mag-safe-case-for-ultimate-protection-and-style): Protect your iPhone 16 in style with the Pride HD iPhone 16 Mag-Safe Case. Experience ultimate durability and a sleek design that enhances your device's look and feel.
-  Updated: 2025-10-20T20:15:26Z
+  Updated: 2025-10-25T01:41:29Z
   Vendor: Affinity Bands
   Product Type: Pride HD iPhone 16 Case
   Availability: Available
@@ -10869,7 +10862,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/affinity-bands-pride-hd-iphone-16-case-love-iphone-16-pro-max-pride-hd-iphone-16-mag-safe-case-for-ultimate-protection-and-style-u-hd6am16-pri-37937730617575.jpg?v=1760275256
     Price: $29.99 USD
   - [Love / iPhone 16 Plus](https://soulthreads25.com/products/pride-hd-iphone-16-mag-safe-case-for-ultimate-protection-and-style?variant=51409849417959)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/affinity-bands-pride-hd-iphone-16-case-love-iphone-16-pro-max-pride-hd-iphone-16-mag-safe-case-for-ultimate-protection-and-style-u-hd6am16-pri-37937730978023.jpg?v=1760275256
     Price: $29.99 USD
   - [Love / iPhone 16](https://soulthreads25.com/products/pride-hd-iphone-16-mag-safe-case-for-ultimate-protection-and-style?variant=51409849450727)
@@ -10885,7 +10878,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/affinity-bands-pride-hd-iphone-16-case-love-iphone-16-pro-max-pride-hd-iphone-16-mag-safe-case-for-ultimate-protection-and-style-u-hd6am16-pri-37937731797223.jpg?v=1760275253
     Price: $29.99 USD
   - [Bisexual / iPhone 16 Plus](https://soulthreads25.com/products/pride-hd-iphone-16-mag-safe-case-for-ultimate-protection-and-style?variant=51409849549031)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/affinity-bands-pride-hd-iphone-16-case-love-iphone-16-pro-max-pride-hd-iphone-16-mag-safe-case-for-ultimate-protection-and-style-u-hd6am16-pri-37937732026599.jpg?v=1760275252
     Price: $29.99 USD
   - [Bisexual / iPhone 16](https://soulthreads25.com/products/pride-hd-iphone-16-mag-safe-case-for-ultimate-protection-and-style?variant=51409849581799)
@@ -10901,7 +10894,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/affinity-bands-pride-hd-iphone-16-case-love-iphone-16-pro-max-pride-hd-iphone-16-mag-safe-case-for-ultimate-protection-and-style-u-hd6am16-pri-37937732813031.jpg?v=1760275250
     Price: $29.99 USD
   - [Mermaid Rainbow / iPhone 16 Plus](https://soulthreads25.com/products/pride-hd-iphone-16-mag-safe-case-for-ultimate-protection-and-style?variant=51409849680103)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/affinity-bands-pride-hd-iphone-16-case-love-iphone-16-pro-max-pride-hd-iphone-16-mag-safe-case-for-ultimate-protection-and-style-u-hd6am16-pri-37937733075175.jpg?v=1760275250
     Price: $29.99 USD
   - [Mermaid Rainbow / iPhone 16](https://soulthreads25.com/products/pride-hd-iphone-16-mag-safe-case-for-ultimate-protection-and-style?variant=51409849712871)
@@ -10917,7 +10910,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/affinity-bands-pride-hd-iphone-16-case-love-iphone-16-pro-max-pride-hd-iphone-16-mag-safe-case-for-ultimate-protection-and-style-u-hd6am16-pri-37937733632231.jpg?v=1760275248
     Price: $29.99 USD
   - [Gay Men / iPhone 16 Plus](https://soulthreads25.com/products/pride-hd-iphone-16-mag-safe-case-for-ultimate-protection-and-style?variant=51409849811175)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/affinity-bands-pride-hd-iphone-16-case-love-iphone-16-pro-max-pride-hd-iphone-16-mag-safe-case-for-ultimate-protection-and-style-u-hd6am16-pri-37937733763303.jpg?v=1760275247
     Price: $29.99 USD
   - [Gay Men / iPhone 16](https://soulthreads25.com/products/pride-hd-iphone-16-mag-safe-case-for-ultimate-protection-and-style?variant=51409849843943)
@@ -10933,7 +10926,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/affinity-bands-pride-hd-iphone-16-case-love-iphone-16-pro-max-pride-hd-iphone-16-mag-safe-case-for-ultimate-protection-and-style-u-hd6am16-pri-37937734090983.jpg?v=1760275244
     Price: $29.99 USD
   - [Pride / iPhone 16 Plus](https://soulthreads25.com/products/pride-hd-iphone-16-mag-safe-case-for-ultimate-protection-and-style?variant=51409849942247)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/affinity-bands-pride-hd-iphone-16-case-love-iphone-16-pro-max-pride-hd-iphone-16-mag-safe-case-for-ultimate-protection-and-style-u-hd6am16-pri-37937734189287.jpg?v=1760275244
     Price: $29.99 USD
   - [Pride / iPhone 16](https://soulthreads25.com/products/pride-hd-iphone-16-mag-safe-case-for-ultimate-protection-and-style?variant=51409849975015)
@@ -10949,7 +10942,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/affinity-bands-pride-hd-iphone-16-case-love-iphone-16-pro-max-pride-hd-iphone-16-mag-safe-case-for-ultimate-protection-and-style-u-hd6am16-pri-37937734549735.jpg?v=1760275243
     Price: $29.99 USD
   - [Rainbow / iPhone 16 Plus](https://soulthreads25.com/products/pride-hd-iphone-16-mag-safe-case-for-ultimate-protection-and-style?variant=51409850073319)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/affinity-bands-pride-hd-iphone-16-case-love-iphone-16-pro-max-pride-hd-iphone-16-mag-safe-case-for-ultimate-protection-and-style-u-hd6am16-pri-37937734648039.jpg?v=1760275243
     Price: $29.99 USD
   - [Rainbow / iPhone 16](https://soulthreads25.com/products/pride-hd-iphone-16-mag-safe-case-for-ultimate-protection-and-style?variant=51409850106087)
@@ -10965,7 +10958,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/affinity-bands-pride-hd-iphone-16-case-love-iphone-16-pro-max-pride-hd-iphone-16-mag-safe-case-for-ultimate-protection-and-style-u-hd6am16-pri-37937734975719.jpg?v=1760275238
     Price: $29.99 USD
   - [Lesbian / iPhone 16 Plus](https://soulthreads25.com/products/pride-hd-iphone-16-mag-safe-case-for-ultimate-protection-and-style?variant=51409850204391)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/affinity-bands-pride-hd-iphone-16-case-love-iphone-16-pro-max-pride-hd-iphone-16-mag-safe-case-for-ultimate-protection-and-style-u-hd6am16-pri-37937735106791.jpg?v=1760275237
     Price: $29.99 USD
   - [Lesbian / iPhone 16](https://soulthreads25.com/products/pride-hd-iphone-16-mag-safe-case-for-ultimate-protection-and-style?variant=51409850237159)
@@ -10981,7 +10974,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/affinity-bands-pride-hd-iphone-16-case-love-iphone-16-pro-max-pride-hd-iphone-16-mag-safe-case-for-ultimate-protection-and-style-u-hd6am16-pri-37937735434471.jpg?v=1760275235
     Price: $29.99 USD
   - [Non Binary / iPhone 16 Plus](https://soulthreads25.com/products/pride-hd-iphone-16-mag-safe-case-for-ultimate-protection-and-style?variant=51409850335463)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/affinity-bands-pride-hd-iphone-16-case-love-iphone-16-pro-max-pride-hd-iphone-16-mag-safe-case-for-ultimate-protection-and-style-u-hd6am16-pri-37937735532775.jpg?v=1760275235
     Price: $29.99 USD
   - [Non Binary / iPhone 16](https://soulthreads25.com/products/pride-hd-iphone-16-mag-safe-case-for-ultimate-protection-and-style?variant=51409850368231)
@@ -10997,7 +10990,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/affinity-bands-pride-hd-iphone-16-case-love-iphone-16-pro-max-pride-hd-iphone-16-mag-safe-case-for-ultimate-protection-and-style-u-hd6am16-pri-37937735827687.jpg?v=1760275232
     Price: $29.99 USD
   - [Pan Sexual / iPhone 16 Plus](https://soulthreads25.com/products/pride-hd-iphone-16-mag-safe-case-for-ultimate-protection-and-style?variant=51409850466535)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/affinity-bands-pride-hd-iphone-16-case-love-iphone-16-pro-max-pride-hd-iphone-16-mag-safe-case-for-ultimate-protection-and-style-u-hd6am16-pri-37937735925991.jpg?v=1760275231
     Price: $29.99 USD
   - [Pan Sexual / iPhone 16](https://soulthreads25.com/products/pride-hd-iphone-16-mag-safe-case-for-ultimate-protection-and-style?variant=51409850499303)
@@ -11013,7 +11006,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/affinity-bands-pride-hd-iphone-16-case-love-iphone-16-pro-max-pride-hd-iphone-16-mag-safe-case-for-ultimate-protection-and-style-u-hd6am16-pri-37937736155367.jpg?v=1760275229
     Price: $29.99 USD
   - [Neon Love / iPhone 16 Plus](https://soulthreads25.com/products/pride-hd-iphone-16-mag-safe-case-for-ultimate-protection-and-style?variant=51409850597607)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/affinity-bands-pride-hd-iphone-16-case-love-iphone-16-pro-max-pride-hd-iphone-16-mag-safe-case-for-ultimate-protection-and-style-u-hd6am16-pri-37937736220903.jpg?v=1760275227
     Price: $29.99 USD
   - [Neon Love / iPhone 16](https://soulthreads25.com/products/pride-hd-iphone-16-mag-safe-case-for-ultimate-protection-and-style?variant=51409850630375)
@@ -11021,7 +11014,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/affinity-bands-pride-hd-iphone-16-case-love-iphone-16-pro-max-pride-hd-iphone-16-mag-safe-case-for-ultimate-protection-and-style-u-hd6am16-pri-37937736319207.jpg?v=1760275228
     Price: $29.99 USD
 - [Pickleball iPhone 14 Mag-Safe Case - Durable HD Protection for iPhone](https://soulthreads25.com/products/pickleball-iphone-14-mag-safe-case-hd-protection-for-your-device): Enhance your iPhone 14 with our Pickleball iPhone 14 Mag-Safe Case. Enjoy HD protection and a perfect fit for your device while showcasing your love for pickleball!
-  Updated: 2025-10-20T23:12:38Z
+  Updated: 2025-10-25T01:41:29Z
   Vendor: Affinity Bands
   Product Type: Pickleball Apple iPhone 14 Case
   Availability: Available
