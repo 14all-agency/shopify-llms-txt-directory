@@ -6,12 +6,12 @@
 - Timezone: Europe/Stockholm
 - Created At: 2024-11-08T10:55:56Z
 - Contact Email: hello@poppatea.com
-- Updated At: 2025-10-24T20:00:56.591Z
+- Updated At: 2025-10-25T08:00:55.555Z
 
 ## Products
 
 - [Matcha Tea Powder - Ceremonial Grade - Japanese Green Tea](https://poppatea.com/products/matcha-tea-ceremonial): Treat yourself to a cup of our ceremonial Matcha tea, sourced from the finest Japanese green tea leaves, for a high quality and eco-friendly experience. A reliable choice for your daily dose of antioxidants and a guilt-free indulgence.
-  Updated: 2025-10-24T17:22:25Z
+  Updated: 2025-10-25T07:39:20Z
   Vendor: PoppaTea
   Product Type: 
   Availability: Available
@@ -47,7 +47,7 @@
     Image: https://cdn.shopify.com/s/files/1/0871/8712/8662/files/2_x_hojicha_tea_powder_60edc2f8-e943-4ef8-848e-81c8dcbf0036.jpg?v=1745172614
     Price: 260,00 kr SEK
 - [Matcha Tea With Chai - Ceremonial Grade - Japanese Green Tea Powder](https://poppatea.com/products/matcha-tea-with-chai-ceremonial): Treat yourself to a cup of our ceremonial Matcha tea with chai, sourced from the finest Japanese green tea leaves, for a high quality and eco-friendly experience. A reliable choice for your daily dose of antioxidants and a guilt-free indulgence.
-  Updated: 2025-10-24T14:31:41Z
+  Updated: 2025-10-25T06:00:10Z
   Vendor: PoppaTea
   Product Type: 
   Availability: Available
