@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-10-11T09:00:11Z
 - Contact Email: info@heliusoriginals.com
-- Updated At: 2025-10-24T20:00:46.318Z
+- Updated At: 2025-10-25T04:00:35.157Z
 
 ## Products
 
@@ -66,7 +66,7 @@
   Image: https://cdn.shopify.com/s/files/1/0668/7883/2865/products/helius-originals-wood-shavings-sampler-box-black-walnut-cherry-maple-oak.jpg?v=1756413037
   Price: $34.99 USD
 - [Artisanal Aroma Boards | Handcrafted Cocktail Smoker Boards](https://heliusoriginals.com/products/artisanal-aroma-boards): Handcrafted aroma boards made from 100% reclaimed Ontario wood. Perfect for smoking cocktails, cheeses, and charcuterie. Eco-luxury by Helius Originals.
-  Updated: 2025-10-03T00:50:05Z
+  Updated: 2025-10-25T02:05:42Z
   Vendor: Helius Originals
   Product Type: 
   Availability: Available
