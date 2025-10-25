@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-03-10T14:11:59Z
 - Contact Email: info@surgismart.in
-- Updated At: 2025-10-25T04:00:40.434Z
+- Updated At: 2025-10-25T08:00:47.060Z
 
 ## Products
 
@@ -686,7 +686,7 @@
     Availability: Available
     Price: ₹715.00 INR
 - [Buy ​United Medicare Knee Support Open Patella (Neoprene) (F-07) - Surgismart](https://surgismart.in/products/f-07): Key Features: Durable, high-quality perforated neoprene ensures customized compression, improved grip, and simple application. The anterior wrap-around design works for lateral or medial patella subluxations. It facilitates rapid dispersion of sweat, greater elasticity, and a better fit Open patella design to relieve knee cap pressure relief. Neoprene fabric provides warmth and support to the knee, reducing discomfort and inflammation that usually comes with ageing, arthritis, and sports injuries. Direction of use Place the open patella over your kneecap while wearing it up over your leg. The brace should be snug but not too tight. If necessary to ensure comfort and a good fit, adjust Safety information Hand wash with a gentle detergent. Do not dry clean, iron, or bleach. Keep out of the reach of children. An open patella knee brace is a brace with a small hole in the front for the patella. This helps support the kneecap and maintain proper alignment.Knee cap open patella aids in the recovery process of any ligament or muscle injury around the knee joint; it also aids in the management of osteoarthritic knee pain and protects the knee joint from injury.If you have mild arthritis in your knee, a neoprene knee cap can give support, compression, and warmth. It can be worn for as long as it provides relief; however, before using this knee cap, visit your doctor.Knee cap open patella gives strong compression, warmth, and support to the knee to relieve pain and inflammation caused by aging, arthritis, sports injuries, and other factors.Place the open patella over your kneecap while wearing it up over your leg. The brace should be snug but not too tight. If necessary to ensure comfort and a good fit, adjust. Sold by: Surgismart - Surgismart
-  Updated: 2025-10-13T11:20:22Z
+  Updated: 2025-10-25T07:35:34Z
   Vendor: United Medicare
   Product Type: Knee Support
   Availability: Available
@@ -2792,7 +2792,7 @@
     Availability: Available
     Price: ₹2,029.00 INR
 - [Buy ​ROMO 10 Urine Collection Bag - Surgismart](https://surgismart.in/products/romsons-romo-10-urine-collection-bag): The Romsons Romo 10 Urine Urobag has a capacity of 2 litre and is provided with a 100 cm long super smooth kink resistant tubing to ensure unrestricted flow Moulded handle facilitates easy handling of bag and holds the tube in upright position to prevent kinking. Efficient non-return valve with top outlet. Modified tapered connector facilitates aseptic catheterurine bag connection. The urine bag is meant for short or long term urine drainage The urine collection bag is equipped with an efficient non-return valve with top outlet Large bore kink resistant extra soft tube is easy to milk and ensures unrestricted flow. All other features are as above. The bag is sterile, individually packed in ribbon pack. Product Specifications: Brand Romsons Generic Name Urine Collection Bag Manufacturer Name and Address Romsons Group Private Limited Plant-5, E-6, Foundry Nagar, Agra, Uttar Pradesh, 282006 Best Before Best Before 5 Years From the Date of Manufacturing Mfg. License No MFG/MD/2023/000087 EAN 8907265107005 License No. MD-42 Registration Number : RMD/DCD/HO-1475/04 MD-42 Registration Number : TN/TVR/MD42/00004 MD-42 Registration Number : MFG/KTK/113/MD-42/2023-24 - Surgismart
-  Updated: 2025-10-15T09:36:43Z
+  Updated: 2025-10-25T07:53:39Z
   Vendor: Romsons
   Product Type: Urine Bags
   Availability: Available
@@ -2966,7 +2966,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/2953/3976/files/Untitled-design-42.png?v=1759478903
   Price: ₹10,999.00 INR
 - [Buy ​iCare Udaan Black 888 Folding Wheelchair IN Epoxy Finish With Mag Wheel - Surgismart](https://surgismart.in/products/icare-folding-wheelchair-in-epoxy-finish-with-mag-wheel): Folding Wheelchair (udaan Swift) The Udaan Swift is versatile, modular, and available in an endless number of configurations. An industry favorite wheelchair manufacturing company in India for over 33 years. Weight 15.00Kgs Seat Width 14,16 18” Load Capacity 100 Kgs - Surgismart
-  Updated: 2025-10-24T03:56:55Z
+  Updated: 2025-10-25T04:48:39Z
   Vendor: iCare
   Product Type: Wheelchair
   Availability: Available
