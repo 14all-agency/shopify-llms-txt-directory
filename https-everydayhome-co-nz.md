@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-10-25T00:00:40.873Z
+- Updated At: 2025-10-25T12:00:39.398Z
 
 ## Products
 
@@ -865,7 +865,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Woodrow-Trash-Can-Charcoal-7.jpg?v=1727658652
   Price: $47.99 NZD
 - [Bird Café - Grey](https://everydayhome.co.nz/products/bird-cafe-grey): Invite wild birds to dine in style-and satisfy your taste for modern design-with this hip new spin on the traditional bird feeder. The Bird Cafe bird feeder from Umbra features a cube-shaped architectural form with asymmetrical windows. When filled, seed is visible through the clear plastic windows and flows out of holes in the bottom into the wrap-around tray for birds to perch on and feast.
-  Updated: 2025-10-24T16:07:11Z
+  Updated: 2025-10-25T00:07:11Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -1124,7 +1124,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Fall-Front-Bread-Bin-Platinum-4.png?v=1727659786
   Price: $69.99 NZD
 - [Brabantia Fall Front Bread Bin - Medium White](https://everydayhome.co.nz/products/fall-front-bread-bin-white): Looking for a space saving solution to keep your bread fresh or your crisps crispy? Meet Brabantia's Fall Front Bread Bin. It fits up to two loaves, but thanks to its rectangular design, it does not need much room. Other top features: it has a flat top made to put your canisters on, the lid has a large grip for easy opening and a magnet for perfect closing. No counterspace to spare at all? Simply hang it on the wall by its hanging eyes on the back. A bread bin to fall for!
-  Updated: 2025-10-23T20:31:38Z
+  Updated: 2025-10-25T06:52:11Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -1796,7 +1796,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Circulon-Scratchdefense-A1-34cm-Open-Stirfry-Circu-8.jpg?v=1731901960
   Price: $215.99 NZD
 - [Circulon Scratchdefense A1 - 8 Piece Cookware Set](https://everydayhome.co.nz/products/circulon-scratchdefense-a1-8pc-cookware-set): Elevate your kitchen with the Circulon ScratchDefense 8-Piece Cookware Set. This collection includes essential pieces designed for culinary excellence. Crafted with care, it features a Covered Straining Saucepan 16cm/1.9L, a Covered Stockpot 24cm/5.7L, a Covered Saute 24cm/2.8L, a Open Skillet 21.5cm and a Open Skillet 25.4cm. With ScratchDefense technology, these pans stand up to the rigours of daily cooking, ensuring durability and longevity. Experience superior heat distribution and nonstick performance.
-  Updated: 2025-10-23T20:32:27Z
+  Updated: 2025-10-25T01:07:10Z
   Vendor: Circulon
   Product Type: Kitchenware
   Availability: Available
@@ -2642,13 +2642,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BoWasteBin_12L-DreamyBlue-8710755223563Brabantia_96dpi_1000x1000px_7_NR-30078.png?v=1733781956
   Price: $59.99 NZD
-- [Brabantia Bo Waste Bin - 4L Dreamy Blue](https://everydayhome.co.nz/products/bo-waste-bin-4l-dreamy-blue): Need a small bin, that is great in design? The Brabantia Bo Waste Bin 4 litre is the bin for you! Fits in the smallest corner, but can hang on the wall too. The nifty lid opens easily from the left, right and front of the bin. So no more twisting your arm to put something in. Beautiful on the outside and in!
-  Updated: 2025-09-12T09:13:40Z
-  Vendor: BRABANTIA
-  Product Type: Waste Care
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BoWasteBin_4L-DreamyBlue-8710755224003Brabantia_96dpi_1000x1000px_7_NR-30079.png?v=1733783252
-  Price: $39.99 NZD
 - [Brabantia Bo Waste Bin - 4L Matt Black](https://everydayhome.co.nz/products/bo-waste-bin-4l-matt-black): Need a small bin, that is great in design? The Brabantia Bo Waste Bin 4 litre is the bin for you! Fits in the smallest corner, but can hang on the wall too. The nifty lid opens easily from the left, right and front of the bin. So no more twisting your arm to put something in. Beautiful on the outside and in!
   Updated: 2025-10-23T20:33:27Z
   Vendor: BRABANTIA
@@ -2713,7 +2706,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/IroningBoardD_135x45cm_HRPZ-SpringBubbles-8710755134784Brabantia_96dpi_1000x1000px_7_NR-19937.png?v=1733870829
   Price: $287.99 NZD
 - [Brabantia Lift-O-Matic Clothesline with Metal Ground Spike - 60m Metallic Grey](https://everydayhome.co.nz/products/lift-o-matic-4-arm-clothesline-60m-metal-soil-spear-cover-metallic-grey): Breeze through laundry days, let your rotary dryer do the work! Set the dryer seamlessly to your ideal working height (anywhere between 129 to 187 cm), and spin it around. This robust Brabantia rotary dryer is fitted with a whopping 60 metres of quality, UV-resistant non-slip washing lines that are always taut. It has an eye at the end of each arm for clothes hangers, and a sturdy hanging loop for easy storage. And it is planet friendly too. A true spirit lifter!
-  Updated: 2025-10-24T23:22:11Z
+  Updated: 2025-10-25T05:07:10Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -2727,7 +2720,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ReNewShowerCaddy-DarkGrey-8710755280740Brabantia_96dpi_1000x1000px_7_NR-22025.png?v=1734407693
   Price: $43.99 NZD
 - [Brabantia ReNew Shower Caddy - White](https://everydayhome.co.nz/products/renew-shower-caddy-white): Whether it's shampoo, shower gel, skin care products or razors... All your shower rituals are organised with this neat Brabantia ReNew Shower Caddy. Fix it easily to the shower rod and adjust the height until it is right for you. A pretty nifty trick to keeping your bathroom tidy and beautiful!
-  Updated: 2025-10-23T20:33:30Z
+  Updated: 2025-10-25T01:52:12Z
   Vendor: BRABANTIA
   Product Type: Bed & Bath
   Availability: Available
@@ -3300,7 +3293,7 @@
     Availability: Available
     Price: $25.00 NZD
 - [Clothesline Wire with UV Resistant PVC Covering](https://everydayhome.co.nz/products/clothesline-cord-with-uv-resistant-pvc-covering): The Clothesline Wire with UV Resistant PVC Covering is manufactured to high specifications, ensuring its durability in harsh climates. The flexible outer coating is manufactured using a high UV composition to inhibit the splitting or stretching of the cord when properly installed. -This product is suitable for replacement wire on most clotheslines. -Charcoal Grey colour -3.5mm outside Diameter -Stainless Steel multistrand center for strength, and to stop the line stretching -Can be tied in a knot, or tensioned with the Clothesline Ratchet but we do not recommend using the Gripple Tensioners with this line, as they can tear the PVC
-  Updated: 2025-10-21T07:42:42Z
+  Updated: 2025-10-25T04:06:42Z
   Vendor: SwiftDry Clotheslines NZ
   Product Type: 
   Availability: Available
@@ -3754,7 +3747,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ProfileSliceGrater-MattSteel-8710755250941Brabantia_96dpi_2000x2000px_T_NR-24235.png?v=1750903539
   Price: $9.99 NZD
 - [Brabantia Profile Spaghetti Spoon - Matt Steel](https://everydayhome.co.nz/products/profile-spaghetti-spoon): Into Italian food? This Brabantia Spaghetti Spoon is the tool you need to get a grip on your spaghetti. With a nice long stem and prongs that are made to grab and hold the strings. No strings attached.
-  Updated: 2025-09-02T22:03:56Z
+  Updated: 2025-10-25T08:40:06Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -4790,7 +4783,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1022813-746_BELLWOODDESKFRAME_4x6_WALNUT_CC05.jpg?v=1755732917
   Price: $47.99 NZD
 - [Umbra Flute Picture Frame - 5x7 Black](https://everydayhome.co.nz/products/umbra-flute-picture-frame-5x7-black): Introducing the Umbra Flute Picture Frame, a stylish addition to your home decor. With its decorative easel design, this frame effortlessly showcases your cherished memories. Its versatile design accommodates 5x7 photos, while the ribbed glass texture adds an elegant touch. Plus, enjoy the freedom to display your photos in either landscape or portrait orientation. Capture and display your favorite moments with flair using the Umbra Flute Picture Frame.
-  Updated: 2025-10-23T20:35:23Z
+  Updated: 2025-10-25T08:40:05Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -4825,7 +4818,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1013387-158_TIPSYBOTTLEOPENER_CHROME_CC0.jpg?v=1755557387
   Price: $31.99 NZD
 - [Umbra Rodeo Buddy Bottle Opener - Chrome](https://everydayhome.co.nz/products/umbra-rodeo-buddy-bottle-opener-chrome): Saddle up your bar setup with Rodeo Buddy, the bottle opener that brings style and entertainment to every pour! This isn’t just any bottle opener; crafted from sleek cast metal with a polished chrome finish, Rodeo Buddy doubles as a unique decorative piece that stands out. Its balancing stand lets Buddy "dance" after each use, making it a fun and interactive conversation starter. Ideal for entertaining or for any at-home bar setup, Rodeo Buddy is as practical as it is eye-catching. It also makes a memorable hostess gift, adding a dash of charm to any bar collection. Give your bar a whimsical upgrade with Rodeo Buddy!
-  Updated: 2025-10-24T21:36:00Z
+  Updated: 2025-10-25T08:40:06Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -4857,16 +4850,16 @@
   Updated: 2025-09-23T12:13:26Z
   Total Products: 22
 - [All products](https://everydayhome.co.nz/collections/all-products)
-  Updated: 2025-10-24T11:06:49Z
+  Updated: 2025-10-25T11:06:47Z
   Total Products: 1051
 - [Brands](https://everydayhome.co.nz/collections/brands)
-  Updated: 2025-10-24T11:06:49Z
+  Updated: 2025-10-25T11:06:47Z
   Total Products: 1051
 - [Umbra](https://everydayhome.co.nz/collections/umbra): Shop Umbra for modern, unique home decor and organisation products at Everyday Home. Find on trend designs in storage, wall art, furniture, and many other pieces to renew your living space in style and functionality. Shop now and enjoy free shipping across NZ on orders over $99*
-  Updated: 2025-10-24T11:06:49Z
+  Updated: 2025-10-25T11:06:47Z
   Total Products: 278
 - [Brabantia](https://everydayhome.co.nz/collections/brabantia)
-  Updated: 2025-10-24T11:06:49Z
+  Updated: 2025-10-25T11:06:47Z
   Total Products: 364
 - [Bins](https://everydayhome.co.nz/collections/bins)
   Updated: 2025-09-23T12:13:18Z
@@ -4887,7 +4880,7 @@
   Updated: 2025-09-23T12:13:26Z
   Total Products: 22
 - [Home Décor](https://everydayhome.co.nz/collections/home-decor)
-  Updated: 2025-10-23T20:35:27Z
+  Updated: 2025-10-25T11:06:47Z
   Total Products: 138
 - [Ceramics](https://everydayhome.co.nz/collections/ceramics)
   Updated: 2025-09-23T12:13:34Z
@@ -4926,16 +4919,16 @@
   Updated: 2025-10-24T11:06:49Z
   Total Products: 6
 - [Kitchenware](https://everydayhome.co.nz/collections/kitchenware)
-  Updated: 2025-10-23T20:35:03Z
+  Updated: 2025-10-25T11:06:47Z
   Total Products: 347
 - [Home & Living](https://everydayhome.co.nz/collections/home-living)
-  Updated: 2025-10-24T11:06:49Z
+  Updated: 2025-10-25T11:06:47Z
   Total Products: 236
 - [Bed & Bath](https://everydayhome.co.nz/collections/bedroom-bathroom)
   Updated: 2025-10-23T20:35:13Z
   Total Products: 155
 - [Waste Care](https://everydayhome.co.nz/collections/waste-care)
-  Updated: 2025-10-23T20:35:09Z
+  Updated: 2025-10-25T11:06:47Z
   Total Products: 144
 - [Laundry Care](https://everydayhome.co.nz/collections/laundry-care)
   Updated: 2025-10-24T11:06:49Z
@@ -4947,7 +4940,7 @@
   Updated: 2025-10-23T20:35:09Z
   Total Products: 24
 - [Lift Top Bins](https://everydayhome.co.nz/collections/lift-top-bins)
-  Updated: 2025-10-23T20:34:37Z
+  Updated: 2025-10-25T11:06:47Z
   Total Products: 29
 - [Hooks & Organisation](https://everydayhome.co.nz/collections/hooks-organisation)
   Updated: 2025-10-24T11:06:49Z
@@ -4998,7 +4991,7 @@
   Updated: 2025-10-23T20:32:15Z
   Total Products: 6
 - [Accessories](https://everydayhome.co.nz/collections/accessories)
-  Updated: 2025-10-23T20:35:27Z
+  Updated: 2025-10-25T11:06:47Z
   Total Products: 25
 - [Dish Racks](https://everydayhome.co.nz/collections/dish-racks)
   Updated: 2025-10-23T20:34:55Z
@@ -5076,19 +5069,19 @@
   Updated: 2025-10-23T20:31:02Z
   Total Products: 19
 - [Sale](https://everydayhome.co.nz/collections/sale): Save up to 60% off on Umbra, Brabantia, Dutch Deluxes and more at Everyday Home! Don’t miss out on huge discounts on premium home essentials during our limited-time sale. From chic home must-haves to stylish kitchen essentials. Shop now and transform your home with the latest trends.
-  Updated: 2025-10-24T11:06:49Z
+  Updated: 2025-10-25T11:06:47Z
   Total Products: 776
 - [All Home & Living](https://everydayhome.co.nz/collections/all-home-living)
-  Updated: 2025-10-24T11:06:49Z
+  Updated: 2025-10-25T11:06:47Z
   Total Products: 262
 - [Shop All Kitchen](https://everydayhome.co.nz/collections/shop-all-kitchen)
-  Updated: 2025-10-23T20:35:03Z
+  Updated: 2025-10-25T11:06:47Z
   Total Products: 359
 - [Shop All Laundry](https://everydayhome.co.nz/collections/shop-all-laundry)
   Updated: 2025-10-24T11:06:49Z
   Total Products: 130
 - [Shop All Bins](https://everydayhome.co.nz/collections/shop-all-bins)
-  Updated: 2025-10-23T20:35:09Z
+  Updated: 2025-10-25T11:06:47Z
   Total Products: 137
 - [Shop Premium Cookware Sets | Anolon, Circulon, Essteele & More](https://everydayhome.co.nz/collections/cookware-sets): Shop high-quality cookware sets from trusted brands Anolon, Circulon, Essteele, and Raco. Cook with confidence using durable, stylish, non-stick, stainless steel & ceramic coated designs. Free shipping across NZ on orders over 99*
   Updated: 2025-10-23T20:34:57Z
@@ -5115,7 +5108,7 @@
   Updated: 2025-10-23T20:35:08Z
   Total Products: 13
 - [Stylish Wall and Desk Frames | Shop Now](https://everydayhome.co.nz/collections/wall-desk-frames): Showcase your favourite memories with our collection of wall and desk frames. Available in a variety of styles and sizes, these frames are perfect for adding a personal touch to any room. Free shipping across NZ on orders over 99*
-  Updated: 2025-10-23T20:35:25Z
+  Updated: 2025-10-25T11:06:47Z
   Total Products: 31
 - [Functional Bathroom Accessories | Shop Now](https://everydayhome.co.nz/collections/bathroom-accessories): Bathroom accessories designed to bring both functionality and style to your space. Free shipping across NZ on orders over 99*
   Updated: 2025-10-23T20:32:54Z
@@ -5124,7 +5117,7 @@
   Updated: 2025-10-23T20:35:26Z
   Total Products: 21
 - [Unbeatable Deals Everyday Home | Outlet](https://everydayhome.co.nz/collections/outlet): Score massive bargains on end-of-season favourites and bestsellers—prices slashed, stock limited, and deals you won't want to miss. Shop now before they're gone! Free shipping across NZ on orders over 99*
-  Updated: 2025-10-24T11:06:49Z
+  Updated: 2025-10-25T11:06:47Z
   Total Products: 156
 - [All products excluding sale items](https://everydayhome.co.nz/collections/all-products-excluding-sale-items)
   Updated: 2025-10-23T20:35:56Z
@@ -5157,7 +5150,7 @@
   Updated: 2025-10-23T20:33:42Z
   Total Products: 3
 - [Kitchen Utensils & Tools](https://everydayhome.co.nz/collections/kitchen-utensils-tools)
-  Updated: 2025-10-23T20:34:48Z
+  Updated: 2025-10-25T11:06:47Z
   Total Products: 54
 - [On The Go](https://everydayhome.co.nz/collections/on-the-go)
   Updated: 2025-10-05T11:08:12Z
@@ -5169,7 +5162,7 @@
   Updated: 2025-10-23T20:34:09Z
   Total Products: 5
 - [All Products](https://everydayhome.co.nz/collections/all)
-  Updated: 2025-10-24T11:06:49Z
+  Updated: 2025-10-25T11:06:47Z
   Total Products: 1065
 - [All products excluding Sale items](https://everydayhome.co.nz/collections/all-products-excluding-sale-items-1)
   Updated: 2025-10-23T20:35:56Z
@@ -5199,10 +5192,10 @@
   Updated: 2025-10-23T20:35:13Z
   Total Products: 4
 - [Gifting](https://everydayhome.co.nz/collections/gifting)
-  Updated: 2025-10-23T20:35:27Z
+  Updated: 2025-10-25T11:06:47Z
   Total Products: 123
 - [All Products Excl. Swiftdry & Aromatherapy Co.](https://everydayhome.co.nz/collections/all-products-exclu-swiftdry-aromatherapy-co)
-  Updated: 2025-10-24T11:06:49Z
+  Updated: 2025-10-25T11:06:47Z
   Total Products: 919
 
 ## Store Pages
