@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-01-24T04:49:01Z
 - Contact Email: info@ibizjewel.com
-- Updated At: 2025-10-25T00:00:54.478Z
+- Updated At: 2025-10-25T12:00:48.620Z
 
 ## Products
 
@@ -5457,7 +5457,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/SPDR-55_1.jpg?v=1690546697
     Price: $2,659.00 USD
 - [Natural Salt And Pepper 1.60CT Pear Diamond Art Deco Unique Engagement Ring | Handmade Ring | Anniversary Ring](https://ibizjewel.com/products/natural-salt-and-pepper-1-60ct-pear-diamond-art-deco-unique-engagement-ring-handmade-ring-anniversary-ring-1): This handmade engagement ring is truly unique. Crafted with a 1.60CT pear-shaped salt and pepper diamond, the ring is a timeless piece of art deco style. Its intricate details and quality craftsmanship make it the perfect ring for an anniversary or engagement.
-  Updated: 2025-10-24T19:22:27Z
+  Updated: 2025-10-25T08:49:31Z
   Vendor: Natural Salt And Pepper Diamond Ring
   Product Type: Natural Salt And Pepper Pear Diamond Ring
   Availability: Available
@@ -37544,7 +37544,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-121_7.jpg?v=1711608560
     Price: $1,025.00 USD
 - [Moissanite 1.90 CT Pear Diamond Mid-Century Handmade Ring](https://ibizjewel.com/products/moissanite-1-90-ct-pear-diamond-mid-century-handmade-ring): This Beautifully Crafted Moissanite 1.90 CT Pear Diamond Mid-century Handmade Ring Showcases A Stunning Pear-shaped Diamond, Perfect For Everyday Wear Or Special Occasions. Handmade With Precision And Attention To Detail, This Ring Exudes Elegance And Sophistication. Experience The Brilliance Of Moissanite With This Exquisite Piece.
-  Updated: 2025-10-24T12:41:46Z
+  Updated: 2025-10-25T06:08:27Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Pear Diamond Ring
   Availability: Available
