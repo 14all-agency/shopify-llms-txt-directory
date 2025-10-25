@@ -6,7 +6,7 @@
 - Timezone: Asia/Kuwait
 - Created At: 2025-09-29T02:15:58Z
 - Contact Email: elitebuzkw@gmail.com
-- Updated At: 2025-10-24T20:00:52.340Z
+- Updated At: 2025-10-25T12:00:40.223Z
 
 ## Products
 
@@ -599,7 +599,7 @@
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-78450620.jpg?v=1761109471
   Price: ‏39.90 د.ك.‏ KWD
 - [سيارة كهربائية للأطفال تعمل بالبطارية مع ريموت - Dar Toys || متجر دار](https://dartoys.com/products/سيارة-كهربائية-للأطفال-تعمل-بالبطارية-مع-ريموت): امنح طفلك تجربة قيادة مليئة بالمرح مع السيارة الكهربائية للأطفال التي تعمل بالبطارية. تتميز بتصميم  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T05:41:06Z
+  Updated: 2025-10-24T22:52:50Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
@@ -612,7 +612,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-78451984.jpg?v=1761109473
     Price: ‏65.00 د.ك.‏ KWD
-  - [White](https://dartoys.com/products/سيارة-كهربائية-للأطفال-تعمل-بالبطارية-مع-ريموت?variant=44014603042931)
+  - [أبيض](https://dartoys.com/products/سيارة-كهربائية-للأطفال-تعمل-بالبطارية-مع-ريموت?variant=44014603042931)
     Availability: Available
     Price: ‏65.00 د.ك.‏ KWD
 - [سيارة كهربائية فاخرة للأطفال مع ريموت وأضواء - Dar Toys || متجر دار](https://dartoys.com/products/سيارة-كهربائية-فاخرة-للأطفال-مع-ريموت-وأضواء): امنح طفلك تجربة قيادة ممتعة مع السيارة الكهربائية الفاخرة للأطفال المزودة بعجلات بلاستيكية آمنة،  - Dar Toys || متجر دار تويز للألعاب
@@ -791,47 +791,47 @@
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-78501581.webp?v=1761109541
   Price: ‏80.00 د.ك.‏ KWD
 - [باجي شحن صغير للأطفال مع ريموت - Dar Toys || متجر دار تويز](https://dartoys.com/products/باجي-شحن-صغير-للأطفال-مع-ريموت): استمتع بتجربة قيادة آمنة وممتعة مع باجي الشحن الصغير للأطفال 7 فولت، المزود بجهاز تحكم عن بعد  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T05:41:11Z
+  Updated: 2025-10-25T01:21:06Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-78504139.jpg?v=1761109542
-  Price: ‏19.90 د.ك.‏ KWD
+  Price: ‏24.90 د.ك.‏ KWD
 - [باجي شحن كهربائي للأطفال 12 فولت - Dar Toys || متجر دار تويز](https://dartoys.com/products/باجي-شحن-كهربائي-للأطفال-12-فولت): امنح طفلك تجربة قيادة مليئة بالمرح مع باجي الشحن الكهربائي 12 فولت للأطفال. يتميز بتصميم قوي وعجلات  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T05:41:11Z
+  Updated: 2025-10-25T01:20:05Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/12-_-My-Store-78505891.jpg?v=1761109548
-  Price: ‏65.00 د.ك.‏ KWD
+  Price: ‏69.90 د.ك.‏ KWD
 - [دراجة ATV كهربائية للأطفال 500 واط مع بطارية 36 فولت - Dar Toys ||](https://dartoys.com/products/دراجة-atv-كهربائية-للأطفال-500-واط-مع-بطارية-36-فولت): استمتع بالمغامرة مع دراجة ATV كهربائية بقدرة 500 واط المخصصة للأطفال والمراهقين. تتميز بمحرك قوي  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T05:41:12Z
+  Updated: 2025-10-25T01:19:15Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/ATV-_-_-_-500-_-_-_-36-_-My-Store-78506673.webp?v=1761109547
-  Price: ‏99.90 د.ك.‏ KWD
+  Price: ‏104.90 د.ك.‏ KWD
 - [باجي كهربائي ATV للأطفال 1000 واط بطارية 36 فولت - Dar Toys || متجر](https://dartoys.com/products/باجي-كهربائي-atv-للأطفال-1000-واط-بطارية-36-فولت): استمتع بالمغامرة مع الباجي الكهربائي ATV بقدرة 1000 واط، المصمم ليمنح الأطفال تجربة قيادة قوية  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T05:41:12Z
+  Updated: 2025-10-25T01:18:40Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/ATV-_-1000-_-_-36-_-My-Store-203572258.png?v=1761109549
-  Price: ‏114.90 د.ك.‏ KWD
+  Price: ‏124.90 د.ك.‏ KWD
 - [باجي كهربائي ATV للأطفال 800 واط بطارية 36 فولت - Dar Toys || متجر دار](https://dartoys.com/products/باجي-كهربائي-atv-للأطفال-800-واط-بطارية-36-فولت): استمتع بمغامرات مليئة بالإثارة مع الباجي الكهربائي ATV بقدرة 800 واط، المصمم ليمنح الأطفال تجربة  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T05:41:12Z
+  Updated: 2025-10-25T01:17:56Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/ATV-_-800-_-_-36-_-My-Store-78509846.jpg?v=1761109552
-  Price: ‏114.90 د.ك.‏ KWD
+  Price: ‏124.90 د.ك.‏ KWD
 - [باجي كهربائي للأطفال 1000 واط بطارية 48 فولت - Dar Toys || متجر دار](https://dartoys.com/products/باجي-كهربائي-للأطفال-1000-واط-بطارية-48-فولت): انطلق مع طفلك في مغامرات مليئة بالمرح مع الباجي الكهربائي 1000 واط ببطارية 48 فولت، المصمم ليجمع بين  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T05:41:12Z
+  Updated: 2025-10-25T01:17:08Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/1000-_-_-48-_-My-Store-78511044.jpg?v=1761109555
-  Price: ‏140.00 د.ك.‏ KWD
+  Price: ‏144.90 د.ك.‏ KWD
 - [باجي كهربائي للأطفال 1000 واط بطارية 36 فولت إضاءة LED - Dar Toys ||](https://dartoys.com/products/باجي-كهربائي-للأطفال-1000-واط-بطارية-36-فولت-إضاءة-led): استمتع بأقصى درجات المرح والمغامرة مع الباجي الكهربائي للأطفال 1000 واط ببطارية 36 فولت، المصمم  - Dar Toys || متجر دار تويز للألعاب
   Updated: 2025-10-23T05:41:12Z
   Vendor: My Store
@@ -840,54 +840,54 @@
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/1000-_-_-36-_-_-LED-My-Store-78512621.png?v=1761109557
   Price: ‏104.90 د.ك.‏ KWD
 - [باجي غاز 125CC للأطفال مع ريفيرس وإطارات 7 إنش - Dar Toys || متجر دار](https://dartoys.com/products/باجي-غاز-125cc-للأطفال-مع-ريفيرس-وإطارات-7-إنش): انطلق في مغامرة مليئة بالإثارة مع باجي البنزين HB7R سعة 125CC، المصمم للأطفال والمراهقين الباحثين عن  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T05:41:13Z
+  Updated: 2025-10-25T01:15:50Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/125CC-_-_-_-_-7-_-My-Store-78514275.png?v=1761109557
-  Price: ‏220.00 د.ك.‏ KWD
+  Price: ‏224.90 د.ك.‏ KWD
 - [باجي بنزين للأطفال 125CC مع وبدون ريفيرس جير – إطارات 7 إنش - Dar Toys](https://dartoys.com/products/باجي-بنزين-للأطفال-125cc-مع-وبدون-ريفيرس-جير-إطارات-7-إنش): انطلق مع طفلك في مغامرات مثيرة مع باجي البنزين للأطفال سعة 125CC المصمم بتصميم قوي وآمن ليمنح تجربة  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T05:41:13Z
+  Updated: 2025-10-25T01:13:44Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/125CC-_-_-_-_-_-_-7-_-My-Store-78514427.png?v=1761109558
-  Price: ‏210.00 د.ك.‏ KWD
+  Price: ‏214.90 د.ك.‏ KWD
 - [باجي بنزين 200 سي سي 10 إنش للأطفال والكبار - Dar Toys || متجر دار](https://dartoys.com/products/باجي-بنزين-200-سي-سي-10-إنش-للأطفال-والكبار): استمتع بأقصى درجات الإثارة مع باجي البنزين 200 سي سي – 10 إنش المصمم ليمنحك تجربة قيادة مميزة وآمنة.  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T05:41:13Z
+  Updated: 2025-10-25T01:12:33Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/200-_-_-10-_-_-_-My-Store-78517046.jpg?v=1761109559
-  Price: ‏710.00 د.ك.‏ KWD
+  Price: ‏714.90 د.ك.‏ KWD
 - [باجي بنزين 150 سي سي 8 إنش مع ريموت كنترول للأطفال والكبار - Dar Toys](https://dartoys.com/products/باجي-بنزين-150-سي-سي-8-إنش-مع-ريموت-كنترول-للأطفال-والكبار): استمتع بتجربة قيادة مليئة بالإثارة مع باجي البنزين 150 سي سي – 8 إنش. يتميز بمحرك قوي يضمن أداءً  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T05:41:13Z
+  Updated: 2025-10-25T01:11:05Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/150-_-_-8-_-_-_-_-_-_-My-Store-78518321.jpg?v=1761109561
-  Price: ‏319.90 د.ك.‏ KWD
+  Price: ‏334.90 د.ك.‏ KWD
 - [باجي بنزين 150 سي سي 8 إنش مع ريموت وبلوتوث للأطفال والكبار - Dar Toys](https://dartoys.com/products/باجي-بنزين-150-سي-سي-8-إنش-مع-ريموت-وبلوتوث-للأطفال-والكبار): عش تجربة قيادة فريدة مع باجي البنزين 150 سي سي – 8 إنش المصمم ليوفر القوة، الأمان، والمرح. يأتي  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T05:41:13Z
+  Updated: 2025-10-25T01:10:15Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/150-_-_-8-_-_-_-_-_-_-Off-Road-My-Store-203717329.jpg?v=1761109565
-  Price: ‏329.90 د.ك.‏ KWD
+  Price: ‏334.90 د.ك.‏ KWD
 - [باجي بنزين 150 سي سي تاير 8 إنش للأطفال والكبار - Dar Toys || متجر دار](https://dartoys.com/products/باجي-بنزين-150-سي-سي-تاير-8-إنش-للأطفال-والكبار): استمتع بأقصى درجات الإثارة مع باجي البنزين 150 سي سي تاير 8 إنش المصمم للأطفال والكبار على حد سواء.  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T05:41:13Z
+  Updated: 2025-10-25T01:09:26Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/150-_-_-_-8-_-_-_-My-Store-78519594.jpg?v=1761109567
-  Price: ‏310.00 د.ك.‏ KWD
+  Price: ‏314.90 د.ك.‏ KWD
 - [باجي بنزين 125 سي سي DL-ATV6002R تاير 6 إنش للأطفال والكبار - Dar Toys](https://dartoys.com/products/باجي-بنزين-125-سي-سي-dl-atv6002r-تاير-6-إنش-للأطفال-والكبار): استمتع بقيادة مليئة بالإثارة مع باجي DL-ATV6002R سعة 125 سي سي المصمم للأطفال والكبار الباحثين عن  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T05:41:14Z
+  Updated: 2025-10-25T01:08:35Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/125-_-_-DL-ATV7001R-_-7-_-_-_-My-Store-78526339.jpg?v=1761109575
-  Price: ‏184.90 د.ك.‏ KWD
+  Price: ‏194.90 د.ك.‏ KWD
 - [مرتبة توازن قابلة للطي للأطفال – 200×100×10 سم - Dar Toys || متجر دار](https://dartoys.com/products/مرتبة-توازن-قابلة-للطي-للأطفال-200-100-10-سم): أضف تجربة مريحة وآمنة لطفلك مع مرتبة التوازن القابلة للطي بحجم 200×100×10 سم. تساعد هذه المرتبة على  - Dar Toys || متجر دار تويز للألعاب
   Updated: 2025-10-23T05:41:14Z
   Vendor: My Store
@@ -903,26 +903,26 @@
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-78523359.jpg?v=1761109572
   Price: ‏310.00 د.ك.‏ KWD
 - [باجي بنزين 125 سي سي DL-ATV7001 تاير 7 إنش للأطفال والكبار - Dar Toys](https://dartoys.com/products/باجي-بنزين-125-سي-سي-dl-atv7001-تاير-7-إنش-للأطفال-والكبار): اختبر الأداء القوي مع باجي DL-ATV7001 سعة 125 سي سي. يتميز بمحرك 4 أشواط وناقل حركة بثلاث سرعات  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T05:41:14Z
+  Updated: 2025-10-25T00:51:56Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/125-_-_-DL-ATV7001R-_-7-_-_-_-My-Store-78526339.jpg?v=1761109575
   Price: ‏199.90 د.ك.‏ KWD
 - [باجي بنزين 125 سي سي DL-ATV7001R تاير 7 إنش للأطفال والكبار - Dar Toys](https://dartoys.com/products/باجي-بنزين-125-سي-سي-dl-atv7001r-تاير-7-إنش-للأطفال-والكبار): استمتع بالأداء الفائق مع باجي DL-ATV7001R سعة 125 سي سي، بتصميم عصري ومواصفات رياضية تناسب الأطفال  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T05:41:14Z
+  Updated: 2025-10-25T01:06:15Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/125-_-_-DL-ATV7001R-_-7-_-_-_-My-Store-78526339.jpg?v=1761109575
-  Price: ‏189.90 د.ك.‏ KWD
+  Price: ‏194.90 د.ك.‏ KWD
 - [باجي بنزين 8 إنش 150 سي سي مع إضاءة وبلوتوث – Dartoys - Dar Toys ||](https://dartoys.com/products/باجي-بنزين-8-إنش-150-سي-سي-مع-إضاءة-وبلوتوث-dartoys): استمتع بالأداء الفائق مع باجي DL-ATV7001R سعة 125 سي سي، بتصميم عصري ومواصفات رياضية تناسب الأطفال  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T05:41:15Z
+  Updated: 2025-10-25T01:02:36Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/8-_-150-_-_-_-_-_-DL-ATV80828-My-Store-78527986.jpg?v=1761109580
-  Price: ‏299.90 د.ك.‏ KWD
+  Price: ‏234.90 د.ك.‏ KWD
 - [حلقات لعب إسفنجية للأطفال – 40×150×30 سم - Dar Toys || متجر دار تويز](https://dartoys.com/products/حلقات-لعب-إسفنجية-للأطفال-40-150-30-سم): أضف المرح والتعلم إلى وقت أطفالك مع الحلقات الإسفنجية المخصصة للعب. صُممت هذه الحلقات لتشجيع الأطفال  - Dar Toys || متجر دار تويز للألعاب
   Updated: 2025-10-23T05:41:15Z
   Vendor: My Store
@@ -931,12 +931,12 @@
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/40_150_30-_-My-Store-78529295.png?v=1761109581
   Price: ‏90.00 د.ك.‏ KWD
 - [باجي بنزين 150 سي سي تاير 8 إنش للأطفال والكبار - Dar Toys || متجر دار](https://dartoys.com/products/باجي-بنزين-150-سي-سي-تاير-8-إنش-للأطفال-والكبار-1): انطلق في تجربة قيادة مميزة مع باجي البنزين 150 سي سي تاير 8 إنش المصمم للأطفال والكبار. يتميز بمحرك  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T05:41:15Z
+  Updated: 2025-10-25T01:02:03Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/150-_-_-_-8-_-_-_-My-Store-78529378.jpg?v=1761109581
-  Price: ‏330.00 د.ك.‏ KWD
+  Price: ‏334.90 د.ك.‏ KWD
 - [مضمار جري للأطفال على أسطح اصطناعية - Dar Toys || متجر دار تويز](https://dartoys.com/products/مضمار-جري-للأطفال-على-أسطح-اصطناعية): امنح طفلك تجربة ممتعة وآمنة مع مسار الجري  سطح صناعي للأطفال. يتميز بتصميم مخصص لتشجيع الأطفال  - Dar Toys || متجر دار تويز للألعاب
   Updated: 2025-10-23T05:41:15Z
   Vendor: My Store
@@ -945,12 +945,12 @@
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-78530890.jpg?v=1761109582
   Price: ‏25.00 د.ك.‏ KWD
 - [بقي كهربائي للأطفال 1000 واط بطارية 36 فولت - Dar Toys || متجر دار](https://dartoys.com/products/بقي-كهربائي-للأطفال-1000-واط-بطارية-36-فولت): انطلاق آمن ومرح لا يُنسى مع البقي الكهربائي للأطفال 1000 واط من Dartoys!تم تصميمه خصيصًا ليكون بوابة  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T05:41:15Z
+  Updated: 2025-10-25T01:01:32Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/1000-_-_-36-_-My-Store-78531315.jpg?v=1761109584
-  Price: ‏110.00 د.ك.‏ KWD
+  Price: ‏114.90 د.ك.‏ KWD
 - [أسطوانات ألعاب للأطفال 4 قطع –80×45 سم - Dar Toys || متجر دار تويز](https://dartoys.com/products/أسطوانات-ألعاب-للأطفال-4-قطع-80-45-سم): أضف المرح والتعلم إلى وقت اللعب مع أسطوانات اللعب للأطفال. تتكون المجموعة من 4 قطع أسطوانية مريحة  - Dar Toys || متجر دار تويز للألعاب
   Updated: 2025-10-23T05:41:15Z
   Vendor: My Store
@@ -1008,12 +1008,12 @@
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-78538312.jpg?v=1761109594
   Price: ‏70.00 د.ك.‏ KWD
 - [سيكل كهربائي قابل للشحن 48 فولت للأطفال - Dar Toys || متجر دار تويز](https://dartoys.com/products/سيكل-كهربائي-قابل-للشحن-48-فولت-للأطفال): استمتع بتجربة قيادة ممتعة وآمنة مع السيكل الكهربائي القابل للشحن 48 فولت. يتميز بتصميم عصري ومواصفات  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T05:41:17Z
+  Updated: 2025-10-25T01:41:06Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/48-_-_-My-Store-78539427.jpg?v=1761109596
-  Price: ‏170.00 د.ك.‏ KWD
+  Price: ‏174.90 د.ك.‏ KWD
 - [ألعاب حصى النهر الحسية للأطفال - Dar Toys || متجر دار تويز](https://dartoys.com/products/ألعاب-حصى-النهر-الحسية-للأطفال): اكتشف متعة اللعب الحسي مع ألعاب حصى النهر الحسية للأطفال، المصممة لتحفيز حواس الطفل وتنمية قدراته  - Dar Toys || متجر دار تويز للألعاب
   Updated: 2025-10-23T05:41:17Z
   Vendor: My Store
@@ -1022,12 +1022,12 @@
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-78539525.jpg?v=1761109596
   Price: ‏30.00 د.ك.‏ KWD
 - [سيكل هارلي كهربائي 1200 واط بطارية 48 فولت للأطفال والكبار - Dar Toys](https://dartoys.com/products/سيكل-هارلي-كهربائي-1200-واط-بطارية-48-فولت-للأطفال-والكبار): استمتع بقيادة مميزة مع سيكل هارلي الكهربائي 1200 واط، المصمم ليجمع بين القوة والأناقة والراحة. يتميز  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T05:41:17Z
+  Updated: 2025-10-25T01:47:31Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/1200-_-_-48-_-_-_-My-Store-78542545.jpg?v=1761109597
-  Price: ‏200.00 د.ك.‏ KWD
+  Price: ‏204.90 د.ك.‏ KWD
 - [عارضة توازن مع أحجار ملونة للأطفال الصغار - Dar Toys || متجر دار تويز](https://dartoys.com/products/عارضة-توازن-مع-أحجار-ملونة-للأطفال-الصغار): أضف المتعة والتعليم إلى وقت لعب طفلك مع عارضة التوازن المزودة بأحجار ملونة. تساعد هذه اللعبة  - Dar Toys || متجر دار تويز للألعاب
   Updated: 2025-10-23T05:41:18Z
   Vendor: My Store
@@ -1036,12 +1036,12 @@
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-78544083.jpg?v=1761109601
   Price: ‏33.00 د.ك.‏ KWD
 - [سيكل هارلي كهربائي للأطفال 60 فولت 2000 واط - Dar Toys || متجر دار](https://dartoys.com/products/سيكل-هارلي-كهربائي-للأطفال-60-فولت-2000-واط): استمتع بقيادة مليئة بالقوة والأناقة مع سيكل هارلي الكهربائي AH-20 بقدرة 2000 واط وبطارية 60 فولت  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T05:41:18Z
+  Updated: 2025-10-25T01:50:19Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/60-_-2000-_-My-Store-78544286.jpg?v=1761109602
-  Price: ‏450.00 د.ك.‏ KWD
+  Price: ‏454.90 د.ك.‏ KWD
 - [4 حلقات متدحرجة للأطفال - Dar Toys || متجر دار تويز للألعاب - توصيل](https://dartoys.com/products/4-حلقات-متدحرجة-للأطفال): أضف المتعة والنشاط لوقت طفلك مع 4 حلقات متدحرجة المصممة خصيصًا للأطفال. تساعد هذه الحلقات على تطوير  - Dar Toys || متجر دار تويز للألعاب
   Updated: 2025-10-23T05:41:18Z
   Vendor: My Store
@@ -1050,12 +1050,23 @@
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/4-_-_-_-My-Store-78545110.jpg?v=1761109608
   Price: ‏75.00 د.ك.‏ KWD
 - [سيكل هارلي كهربائي 2000 واط بطارية 60 فولت للأطفال والكبار - Dar Toys](https://dartoys.com/products/سيكل-هارلي-كهربائي-2000-واط-بطارية-60-فولت-للأطفال-والكبار): استمتع بتجربة قيادة مميزة مع سيكل هارلي الكهربائي 2000 واط الذي يجمع بين القوة والأناقة والراحة في  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T05:41:18Z
+  Updated: 2025-10-25T01:53:03Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/2000-_-_-60-_-_-_-My-Store-78547184.jpg?v=1761109610
-  Price: ‏280.00 د.ك.‏ KWD
+  - [Orange](https://dartoys.com/products/سيكل-هارلي-كهربائي-2000-واط-بطارية-60-فولت-للأطفال-والكبار?variant=44027282129011)
+    Availability: Available
+    Price: ‏284.90 د.ك.‏ KWD
+  - [أزرق](https://dartoys.com/products/سيكل-هارلي-كهربائي-2000-واط-بطارية-60-فولت-للأطفال-والكبار?variant=44027282161779)
+    Availability: Available
+    Price: ‏284.90 د.ك.‏ KWD
+  - [Yellow](https://dartoys.com/products/سيكل-هارلي-كهربائي-2000-واط-بطارية-60-فولت-للأطفال-والكبار?variant=44027282194547)
+    Availability: Available
+    Price: ‏284.90 د.ك.‏ KWD
+  - [أسود](https://dartoys.com/products/سيكل-هارلي-كهربائي-2000-واط-بطارية-60-فولت-للأطفال-والكبار?variant=44027282227315)
+    Availability: Available
+    Price: ‏284.90 د.ك.‏ KWD
 - [لعبة المظلة على شكل شمسية للأطفال - Dar Toys || متجر دار تويز](https://dartoys.com/products/لعبة-المظلة-على-شكل-شمسية-للأطفال): استمتع بوقت ممتع وحماسي مع لعبة المظلة على شكل شمسية – لعبة الخلد التفاعلية. هذه اللعبة صُممت لتشجيع  - Dar Toys || متجر دار تويز للألعاب
   Updated: 2025-10-23T05:41:19Z
   Vendor: My Store
@@ -1064,19 +1075,19 @@
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-78548827.jpg?v=1761109613
   Price: ‏13.00 د.ك.‏ KWD
 - [سيكل هارلي كهربائي 1500 واط بطارية 60 فولت للأطفال والكبار - Dar Toys](https://dartoys.com/products/سيكل-هارلي-كهربائي-1500-واط-بطارية-60-فولت-للأطفال-والكبار): استمتع بقيادة أنيقة وممتعة مع سيكل هارلي الكهربائي 1500 واط، المصمم ليجمع بين القوة والراحة  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T05:41:19Z
+  Updated: 2025-10-25T01:55:42Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/1500-_-_-60-_-_-_-My-Store-78551448.jpg?v=1761109615
-  Price: ‏220.00 د.ك.‏ KWD
+  Price: ‏224.90 د.ك.‏ KWD
 - [سيكل هارلي كهربائي 2000 واط بطارية 60 فولت 20 أمبير - Dar Toys || متجر](https://dartoys.com/products/سيكل-هارلي-كهربائي-2000-واط-بطارية-60-فولت-20-أمبير): استمتع بقيادة أنيقة وممتعة مع سيكل هارلي الكهربائي 1500 واط، المصمم ليجمع بين القوة والراحة  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T05:41:19Z
+  Updated: 2025-10-25T01:56:54Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/2000-_-_-60-_-20-_-My-Store-78552382.jpg?v=1761109618
-  Price: ‏280.00 د.ك.‏ KWD
+  Price: ‏284.90 د.ك.‏ KWD
 - [دراجة أطفال بعجلتين – لون وردي - Dar Toys || متجر دار تويز](https://dartoys.com/products/دراجة-أطفال-بعجلتين-لون-وردي): امنح طفلك تجربة قيادة ممتعة وآمنة مع الدراجة بعجلتين للأطفال باللون الوردي. تتميز بتصميم أنيق وجذاب  - Dar Toys || متجر دار تويز للألعاب
   Updated: 2025-10-23T05:41:19Z
   Vendor: My Store
@@ -1090,35 +1101,35 @@
     Availability: Available
     Price: ‏22.00 د.ك.‏ KWD
 - [سيارة تنقل كهربائية 6 مقاعد بطارية 60 فولت - Dar Toys || متجر دار تويز](https://dartoys.com/products/سيارة-تنقل-كهربائية-6-مقاعد-بطارية-60-فولت): استمتع بتجربة تنقل مريحة وآمنة مع سيارة التنقل الكهربائية ذات 6 مقاعد، المصممة لتوفير أداء قوي وراحة  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T05:41:19Z
+  Updated: 2025-10-25T01:31:49Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/6-_-_-60-_1800-_-2-_-6-_-E900-My-Store-78554722.jpg?v=1761109619
-  Price: ‏549.90 د.ك.‏ KWD
+  Price: ‏519.90 د.ك.‏ KWD
 - [توكتوك كهربائي 1000 واط بطارية 60 فولت - Dar Toys || متجر دار تويز](https://dartoys.com/products/توكتوك-كهربائي-1000-واط-بطارية-60-فولت): استمتع بتجربة قيادة عصرية ومريحة مع التوكتوك الكهربائي المزود بمحرك برشلس بقوة 1000 واط وبطارية قوية  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T05:41:20Z
+  Updated: 2025-10-25T01:30:29Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/1000-_-_-60-_-2-_-_-_-_-My-Store-203965523.png?v=1761109624
   Price: ‏269.90 د.ك.‏ KWD
 - [سيكل كهربائي 650 واط بطارية 60 فولت مع شاشة وكاميرا - Dar Toys || متجر](https://dartoys.com/products/سيكل-كهربائي-650-واط-بطارية-60-فولت-مع-شاشة-وكاميرا): استمتع بتجربة قيادة مريحة وآمنة مع السيكل الكهربائي المميز بقوة 650 واط. يتميز بتصميم عصري ومقاعد  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T05:41:20Z
+  Updated: 2025-10-25T02:25:13Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/650-_-_-60-_-_-_-_-_-_-_-_-_-My-Store-78558195.jpg?v=1761109623
-  Price: ‏190.00 د.ك.‏ KWD
+  Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/650-_-_-60-_-_-_-_-_-_-_-_-_-My-Store-238476132.png?v=1761359013
+  Price: ‏194.90 د.ك.‏ KWD
 - [توكتوك كهربائي بمقعدين بطارية 60 فولت ومحرك 1000 واط - Dar Toys ||](https://dartoys.com/products/توكتوك-كهربائي-بمقعدين-بطارية-60-فولت-ومحرك-1000-واط): استمتع بتجربة قيادة عملية ومريحة مع التوكتوك الكهربائي بمقعدين، المصمم ليوفر أداءً عاليًا مع محرك  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T05:41:20Z
+  Updated: 2025-10-25T01:29:12Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/60-_-_-1000-_-My-Store-203932839.png?v=1761109654
   Price: ‏239.90 د.ك.‏ KWD
 - [تروسيكل شحن كهربائي 1500 واط بطارية 60 فولت - Dar Toys || متجر دار](https://dartoys.com/products/تروسيكل-شحن-كهربائي-1500-واط-بطارية-60-فولت): انقل أغراضك بسهولة وكفاءة مع تروسيكل الشحن الكهربائي المجهز بمحرك قوي بقدرة 1500 واط وبطارية 60 فولت  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T05:41:20Z
+  Updated: 2025-10-25T01:27:03Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
@@ -1139,96 +1150,47 @@
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/22-_-22-_-_-My-Store-212163914.png?v=1761177746
   Price: ‏34.90 د.ك.‏ KWD
 - [سيكل شحن كهربائي 350 واط بطارية 36 فولت - Dar Toys || متجر دار تويز](https://dartoys.com/products/سيكل-شحن-كهربائي-350-واط-بطارية-36-فولت): استمتع بتجربة قيادة مريحة وسلسة مع سيكل الشحن الكهربائي المجهز بمحرك قوي بقدرة 350 واط وبطارية 36  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T05:41:21Z
+  Updated: 2025-10-25T02:47:59Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/350-_-_-36-_-My-Store-78564872.jpg?v=1761109660
-  Price: ‏105.00 د.ك.‏ KWD
-- [سيكل شحن كهربائي بتصميم أنيق وبطارية قوية - Dar Toys || متجر دار تويز](https://dartoys.com/products/سيكل-شحن-كهربائي-بتصميم-أنيق-وبطارية-قوية): استمتع بقيادة مريحة وسهلة مع سيكل الشحن الكهربائي الذي يجمع بين الأداء القوي والتصميم العصري. مزود  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T05:41:21Z
-  Vendor: My Store
-  Product Type: Kids Toys
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-78566386.jpg?v=1761109663
-  Price: ‏65.00 د.ك.‏ KWD
-- [سيكل شحن 3 عجلات للأطفال 6 فولت - Dar Toys || متجر دار تويز](https://dartoys.com/products/سيكل-شحن-3-عجلات-للأطفال-6-فولت): امنح طفلك تجربة قيادة آمنة وممتعة مع سيكل الشحن ثلاثي العجلات ببطارية 6 فولت. يتميز هذا السيكل  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T05:41:21Z
-  Vendor: My Store
-  Product Type: Kids Toys
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/3-_-_-6-_-My-Store-78566754.webp?v=1761109662
-  Price: ‏18.00 د.ك.‏ KWD
-- [سيكل شحن للأطفال 12 فولت مع بلوتوث وإضاءة - Dar Toys || متجر دار تويز](https://dartoys.com/products/سيكل-شحن-للأطفال-12-فولت-مع-بلوتوث-وإضاءة): امنح طفلك تجربة قيادة ممتعة وآمنة مع سيكل الشحن للأطفال 12 فولت. مناسب للأطفال من عمر 3 سنوات فأكثر،  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T05:41:21Z
-  Vendor: My Store
-  Product Type: Kids Toys
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/12-_-_-_-_-My-Store-78567078.png?v=1761109666
-  Price: ‏35.00 د.ك.‏ KWD
-- [دراجة كهربائية للأطفال – موتوسيكل آمن وممتع - Dar Toys || متجر دار](https://dartoys.com/products/دراجة-كهربائية-للأطفال-موتوسيكل-آمن-وممتع): امنح طفلك تجربة قيادة ممتعة وآمنة مع الموتوسيكل الكهربائي للأطفال. تصميم عملي وآمن يضمن الاستمتاع  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T05:41:21Z
-  Vendor: My Store
-  Product Type: Kids Toys
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-78568529.webp?v=1761109666
-  Price: ‏45.00 د.ك.‏ KWD
+  Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/350-_-_-36-_-My-Store-238629642.png?v=1761360478
+  Price: ‏109.90 د.ك.‏ KWD
 - [سيكل شحن للأطفال 12 فولت – آمن وممتع - Dar Toys || متجر دار تويز](https://dartoys.com/products/سيكل-شحن-للأطفال-12-فولت-آمن-وممتع): امنح طفلك تجربة قيادة ممتعة وآمنة مع سيكل الشحن للأطفال 12 فولت. مصمم للأطفال من عمر 3 إلى 5 سنوات،  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T05:41:21Z
+  Updated: 2025-10-25T02:39:42Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/12-_-_-_-_-My-Store-78570350.png?v=1761109668
-  Price: ‏29.90 د.ك.‏ KWD
-- [دراجة كهربائية للأطفال – ركوب ممتع وآمن - Dar Toys || متجر دار تويز](https://dartoys.com/products/دراجة-كهربائية-للأطفال-ركوب-ممتع-وآمن): امنح طفلك تجربة ركوب ممتعة وآمنة مع الدراجة الكهربائية للأطفال. تتميز بتصميم عملي وآمن، مع مقعد مريح  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T05:41:22Z
-  Vendor: My Store
-  Product Type: Kids Toys
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-78570538.jpg?v=1761109669
-  Price: ‏35.00 د.ك.‏ KWD
+  Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/12-_-_-_-_-My-Store-78570425.png?v=1761109670
+  Price: ‏34.90 د.ك.‏ KWD
 - [موتوسيكل كهربائي للأطفال – آمن وممتع - Dar Toys || متجر دار تويز](https://dartoys.com/products/موتوسيكل-كهربائي-للأطفال-آمن-وممتع): امنح طفلك تجربة قيادة مثيرة وآمنة مع الموتوسيكل الكهربائي للأطفال. يتميز بتصميم عملي وآمن مع مقعد  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T05:41:22Z
+  Updated: 2025-10-25T02:54:12Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-78571135.jpg?v=1761109670
-  Price: ‏29.90 د.ك.‏ KWD
+  Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-238654240.png?v=1761360851
+  Price: ‏35.90 د.ك.‏ KWD
 - [سيكل شحن للأطفال 12 فولت – آمن وممتع - Dar Toys || متجر دار تويز](https://dartoys.com/products/سيكل-شحن-للأطفال-12-فولت-آمن-وممتع-1): امنح طفلك تجربة قيادة ممتعة وآمنة مع سيكل الشحن للأطفال 12 فولت. يأتي مزودًا بإطارات ربل قوية توفر  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T05:41:22Z
+  Updated: 2025-10-25T02:50:11Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/12-_-_-_-_-My-Store-78571237.png?v=1761109673
-  Price: ‏45.00 د.ك.‏ KWD
+  Price: ‏49.90 د.ك.‏ KWD
 - [سيكل شحن للأطفال 2 فولت – آمن وممتع - Dar Toys || متجر دار تويز](https://dartoys.com/products/سيكل-شحن-للأطفال-2-فولت-آمن-وممتع): امنح طفلك تجربة قيادة ممتعة وآمنة مع سيكل الشحن للأطفال 2 فولت. مزود بإضاءة أمامية وخلفية وجانبية  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T05:41:22Z
+  Updated: 2025-10-25T02:51:20Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/2-_-_-_-_-My-Store-78571636.png?v=1761109675
-  Price: ‏40.00 د.ك.‏ KWD
-- [سيكل شحن للأطفال 12 فولت – محرك قوي وآمن - Dar Toys || متجر دار تويز](https://dartoys.com/products/سيكل-شحن-للأطفال-12-فولت-محرك-قوي-وآمن): استمتع بتجربة قيادة ممتعة وآمنة مع سيكل الشحن الكهربائي للأطفال 12 فولت. مزود بمحرك قوي يعمل  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T05:41:22Z
-  Vendor: My Store
-  Product Type: Kids Toys
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/12-_-_-_-_-_-My-Store-78573594.png?v=1761109677
-  Price: ‏45.00 د.ك.‏ KWD
-- [سيكل شحن 3 عجلات 6 فولت للأطفال – 1 موتور - Dar Toys || متجر دار تويز](https://dartoys.com/products/سيكل-شحن-3-عجلات-6-فولت-للأطفال-1-موتور): استمتع بتجربة قيادة آمنة وممتعة مع سيكل شحن 3 عجلات للأطفال مزود بموتور 6 فولت. تصميم عملي وثابت  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T05:41:22Z
-  Vendor: My Store
-  Product Type: Kids Toys
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/3-_-6-_-_-_-1-_-My-Store-78574335.jpg?v=1761109678
-  Price: ‏15.00 د.ك.‏ KWD
+  Price: ‏39.90 د.ك.‏ KWD
 - [سيكل شرطة للأطفال – تصميم آمن وممتع - Dar Toys || متجر دار تويز](https://dartoys.com/products/سيكل-شرطة-للأطفال-تصميم-آمن-وممتع): امنح طفلك تجربة قيادة مليئة بالمرح مع سيكل شرطة للأطفال. تصميم مستوحى من سيارات الشرطة الواقعية يجعل  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T05:41:23Z
+  Updated: 2025-10-25T03:05:29Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-78576088.jpg?v=1761109678
-  Price: ‏40.00 د.ك.‏ KWD
+  Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-238686393.png?v=1761361307
+  Price: ‏44.90 د.ك.‏ KWD
 - [سيارة إطفاء للأطفال بصوت وLED - Dar Toys || متجر دار تويز](https://dartoys.com/products/سيارة-إطفاء-للأطفال-بصوت-وled): امنح طفلك تجربة لعب مليئة بالمرح مع سيارة إطفاء للأطفال مزودة بالصوت والضوء LED. تصميم مستوحى من  - Dar Toys || متجر دار تويز للألعاب
   Updated: 2025-10-23T05:41:23Z
   Vendor: My Store
@@ -1640,13 +1602,13 @@
   - [Small](https://dartoys.com/products/حصان-تواير-للأطفال-للعب-والمرح?variant=43959017406579)
     Availability: Available
     Price: ‏36.90 د.ك.‏ KWD
-- [عارضة حديدية متعددة الاستخدام كأرجوحة للأطفال - Dar Toys || متجر دار](https://dartoys.com/products/عارضة-حديدية-متعددة-الاستخدام-كأرجوحة-للأطفال): هذا المنتج عبارة عن عارضة حديدية متعددة المهام تُحوّل بسهولة إلى أرجوحة أفقية أو كرسي للأطفال. مثالي  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T05:41:33Z
+- [عمود حديدي متعدد الاستخدامات من Edu-play - Dar Toys || متجر دار تويز](https://dartoys.com/products/عمود-حديدي-متعدد-الاستخدام): هذا المنتج عبارة عن عمود حديدي متعدد الاستخدامات من Edu-play . مثالي  - Dar Toys || متجر دار تويز للألعاب
+  Updated: 2025-10-25T11:26:03Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-78652310.webp?v=1761109850
-  Price: ‏7.50 د.ك.‏ KWD
+  Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/Edu-play-My-Store-236702165.png?v=1761348372
+  Price: ‏9.90 د.ك.‏ KWD
 - [كرسي بيبي معلق مريح وآمن للأطفال - Dar Toys || متجر دار تويز](https://dartoys.com/products/كرسي-بيبي-معلق-مريح-وآمن-للأطفال): امنحي طفلك تجربة مميزة من الراحة والمرح مع كرسي البيبي المعلق من Dartoys. يتميز بتصميم مريح وآمن  - Dar Toys || متجر دار تويز للألعاب
   Updated: 2025-10-24T04:07:33Z
   Vendor: My Store
@@ -1689,20 +1651,20 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-78662969.jpg?v=1761109891
   Price: ‏25.00 د.ك.‏ KWD
-- [بوكس ملاكمة للأطفال لتفريغ الطاقة والمرح - Dar Toys || متجر دار تويز](https://dartoys.com/products/بوكس-ملاكمة-للأطفال-لتفريغ-الطاقة-والمرح): امنح طفلك وسيلة ممتعة لتفريغ طاقته مع بوكس الملاكمة للأطفال من Dartoys! يساعد هذا المنتج الرائع على  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T05:41:34Z
+- [بوكس ملاكمة للأطفال لتفريغ الطاقة والمرح ارتفاع 180 سم - Dar Toys ||](https://dartoys.com/products/بوكس-ملاكمة-للأطفال-لتفريغ-الطاقة-والمرح): امنح طفلك وسيلة ممتعة لتفريغ طاقته مع بوكس الملاكمة للأطفال من Dartoys! يساعد هذا المنتج الرائع على  - Dar Toys || متجر دار تويز للألعاب
+  Updated: 2025-10-25T00:09:24Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-78665671.jpg?v=1761109899
-  Price: ‏60.00 د.ك.‏ KWD
-- [حصيرة أرضية وردية وبيضاء بأشكال هندسية للأطفال - Dar Toys || متجر دار](https://dartoys.com/products/حصيرة-أرضية-وردية-وبيضاء-بأشكال-هندسية-للأطفال): أضف لمسة من الراحة والجمال إلى غرفة طفلك مع الحصيرة الأرضية الوردية والبيضاء المزينة بالأشكال  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T05:41:34Z
+  Price: ‏64.90 د.ك.‏ KWD
+- [بساط أرضية وردي وأبيض مزخرف بالأشكال 4 حبات – آمن ومثالي لغرف الأطفال](https://dartoys.com/products/حصيرة-أرضية-وردية-وبيضاء-بأشكال-هندسية-للأطفال): أضف لمسة من الراحة والجمال إلى غرفة طفلك مع الحصيرة الأرضية الوردية والبيضاء المزينة بالأشكال  - Dar Toys || متجر دار تويز للألعاب
+  Updated: 2025-10-25T11:24:45Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-78667291.jpg?v=1761109900
-  Price: ‏8.50 د.ك.‏ KWD
+  Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/4-_-_-_-_-_-_-My-Store-236478778.jpg?v=1761346664
+  Price: ‏11.90 د.ك.‏ KWD
 - [حصيرة أرضية زرقاء مريحة وآمنة للأطفال - Dar Toys || متجر دار تويز](https://dartoys.com/products/حصيرة-أرضية-زرقاء-مريحة-وآمنة-للأطفال): اجعل وقت لعب طفلك أكثر راحة وأمانًا مع  الأرضية الزرقاء المصممة خصيصًا للأطفال. تتميز هذه  - Dar Toys || متجر دار تويز للألعاب
   Updated: 2025-10-23T05:41:34Z
   Vendor: My Store
@@ -1729,7 +1691,7 @@
     Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/4-_-_-_-_-_-My-Store-78670380.jpg?v=1761109903
     Price: ‏6.50 د.ك.‏ KWD
 - [حصيرة إسفنجية بلون واحد آمنة ومريحة للأطفال - Dar Toys || متجر دار](https://dartoys.com/products/حصيرة-إسفنجية-بلون-واحد-آمنة-ومريحة-للأطفال): أضف الراحة والأمان إلى مساحة لعب طفلك مع الحصيرة الإسفنجية بلون واحد. تتميز بتصميم بسيط وأنيق يناسب  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T05:41:35Z
+  Updated: 2025-10-25T00:28:01Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
@@ -1791,8 +1753,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/190_330_430-_-My-Store-79100548.jpg?v=1761109923
   Price: ‏84.90 د.ك.‏ KWD
-- [نطاطية هواء قلعة ماء مزدوجة مع منزلقين ومسدس رش للأطفال - Dar Toys ||](https://dartoys.com/products/نطاطية-هواء-قلعة-ماء-مزدوجة-مع-منزلقين-ومسدس-رش-للأطفال): اجعل اللعب في الهواء الطلق أكثر متعة مع نطاطية الهواء المائية المزدوجة! تأتي بتصميم رائع على شكل  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T05:41:36Z
+- [نطاطية هواء قلعة ماء مزدوجة مع منزلقين للأطفال - Dar Toys ||](https://dartoys.com/products/نطاطية-هواء-قلعة-ماء-مزدوجة-مع-منزلقين-رش-للأطفال): اجعل اللعب في الهواء الطلق أكثر متعة مع نطاطية الهواء المائية المزدوجة! تأتي بتصميم رائع على شكل  - Dar Toys || متجر دار تويز للألعاب
+  Updated: 2025-10-25T10:25:31Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
@@ -1813,7 +1775,7 @@
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/160-_-_-_-My-Store-79105450.jpg?v=1761109932
   Price: ‏26.00 د.ك.‏ KWD
 - [نطاطية ( ترامبولين ) مع شبكة أمان للأطفال بمقاسات مختلفة - Dar Toys || متجر دار تويز](https://dartoys.com/products/نطاطية-مع-شبكة-أمان-للأطفال-والمراهقين): استمتع بالمرح والحركة مع نطاطية 12 قدم (3 أمتار)، المثالية للأطفال والمراهقين لقفز آمن وممتع. توفر  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T05:41:37Z
+  Updated: 2025-10-25T00:39:59Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
@@ -1825,28 +1787,28 @@
   - [نطاطية 12 قدم (3.5 متر )](https://dartoys.com/products/نطاطية-مع-شبكة-أمان-للأطفال-والمراهقين?variant=43960962351219)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-79107338.jpg?v=1761109937
-    Price: ‏69.90 د.ك.‏ KWD
+    Price: ‏71.90 د.ك.‏ KWD
 - [نطاطية 8 قدم للأطفال مع إطار آمن ومتينة - Dar Toys || متجر دار تويز](https://dartoys.com/products/نطاطية-8-قدم-للأطفال-مع-إطار-آمن-ومتينة): أضف المتعة والنشاط إلى حديقتك مع نطاطية 8 قدم ، المصممة لتوفير تجربة قفز آمنة ومسلية. تتيح  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T05:41:37Z
+  Updated: 2025-10-25T00:40:44Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/8-_-_-_-_-_-_-My-Store-79108492.jpg?v=1761109940
   Price: ‏60.00 د.ك.‏ KWD
 - [ديرفة حديد للأطفال آمنة وممتعة للحدائق - Dar Toys || متجر دار تويز](https://dartoys.com/products/ديرفة-حديد-للأطفال-آمنة-وممتعة-للحدائق): امنح أطفالك تجربة لعب آمنة ومسلية مع ديرفة حديد للأطفال، المصممة لتوفير ساعات من المرح في الهواء  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-24T04:07:32Z
+  Updated: 2025-10-25T00:37:55Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-79110233.jpg?v=1761109943
   Price: ‏19.90 د.ك.‏ KWD
 - [ديرفة مزدوجة للأطفال للحدائق والهواء الطلق - Dar Toys || متجر دار تويز](https://dartoys.com/products/ديرفة-مزدوجة-للأطفال-للحدائق-والهواء-الطلق): استمتع بمتعة مضاعفة مع الديرفة المزدوجة للأطفال، المصممة لتتيح لطفلين اللعب والمرح في نفس الوقت!  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T05:41:37Z
+  Updated: 2025-10-25T00:37:07Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-79111815.jpg?v=1761109944
-  Price: ‏26.00 د.ك.‏ KWD
+  Price: ‏26.90 د.ك.‏ KWD
 - [أرجوحة أطفال مع موسيقى ومظلة للحماية - Dar Toys || متجر دار تويز](https://dartoys.com/products/أرجوحة-أطفال-مع-موسيقى-ومظلة-للحماية): اجعل وقت طفلك أكثر مرحًا وراحة مع أرجوحة الأطفال المزودة بموسيقى ومظلة للحماية. توفر هذه الأرجوحة  - Dar Toys || متجر دار تويز للألعاب
   Updated: 2025-10-24T04:07:31Z
   Vendor: My Store
@@ -1974,12 +1936,12 @@
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-130779079.jpg?v=1761110026
   Price: ‏22.00 د.ك.‏ KWD
 - [طاولة كرة القدم بيبي فوت للأطفال والكبار - Dar Toys || متجر دار تويز](https://dartoys.com/products/طاولة-كرة-القدم-بيبي-فوت-للأطفال-والكبار): استمتع بأجواء المنافسة والمرح مع طاولة كرة القدم بيبي فوت المصممة لمحبي الألعاب الجماعية والتحدي.  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T05:41:40Z
+  Updated: 2025-10-25T11:07:35Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-130785963.png?v=1761110026
-  Price: ‏40.00 د.ك.‏ KWD
+  Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-236304828.png?v=1761345672
+  Price: ‏44.90 د.ك.‏ KWD
 - [طاولة كرة القدم بيبي فوت للأطفال والكبار - Dar Toys || متجر دار تويز](https://dartoys.com/products/طاولة-كرة-القدم-بيبي-فوت-للأطفال-والكبار-1): استمتع بلعبة مليئة بالحماس مع طاولة كرة القدم (بيبي فوت) المصممة لتجمع العائلة والأصدقاء في أوقات من  - Dar Toys || متجر دار تويز للألعاب
   Updated: 2025-10-23T05:41:41Z
   Vendor: My Store
@@ -2023,30 +1985,30 @@
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-131033122.jpg?v=1761110045
   Price: ‏14.50 د.ك.‏ KWD
 - [مرمى أهداف شبك للأطفال والأنشطة الخارجية - Dar Toys || متجر دار تويز](https://dartoys.com/products/مرمى-أهداف-شبك-للأطفال-والأنشطة-الخارجية): استمتع بأجواء المنافسة والمرح مع مرمى أهداف الشبك من Dartoys المصمم بجودة عالية ليكون مثاليًا  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T05:41:42Z
+  Updated: 2025-10-25T01:13:55Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/K4IHnlr0ktZRCVbOP6VHEwzuy6lxPA6oHztk5mjG_1_b4e2387f-37ed-44a2-a630-bd850d797139.jpg?v=1760168910
+  Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-237741828.png?v=1761354834
   - [240*150*90 سم](https://dartoys.com/products/مرمى-أهداف-شبك-للأطفال-والأنشطة-الخارجية?variant=43967050481779)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-131070776.jpg?v=1761110049
+    Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-131070776.jpg?v=1761354821
     Price: ‏21.90 د.ك.‏ KWD
   - [120*200*300 سم](https://dartoys.com/products/مرمى-أهداف-شبك-للأطفال-والأنشطة-الخارجية?variant=43967050514547)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-131070776.jpg?v=1761110049
+    Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-131070776.jpg?v=1761354821
     Price: ‏29.90 د.ك.‏ KWD
   - [150*200*366 سم](https://dartoys.com/products/مرمى-أهداف-شبك-للأطفال-والأنشطة-الخارجية?variant=43967050547315)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-131070776.jpg?v=1761110049
+    Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-131070776.jpg?v=1761354821
     Price: ‏29.90 د.ك.‏ KWD
   - [150*200*400 سم](https://dartoys.com/products/مرمى-أهداف-شبك-للأطفال-والأنشطة-الخارجية?variant=43967050580083)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-131070776.jpg?v=1761110049
+    Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-131070776.jpg?v=1761354821
     Price: ‏54.90 د.ك.‏ KWD
   - [180*225*500 سم](https://dartoys.com/products/مرمى-أهداف-شبك-للأطفال-والأنشطة-الخارجية?variant=43967050612851)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-131070776.jpg?v=1761110049
+    Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-131070776.jpg?v=1761354821
     Price: ‏54.90 د.ك.‏ KWD
 - [دراجة هوائية 20 بوصة بتصميم أنيق ولون وردي مع سلة - Dar Toys || متجر](https://dartoys.com/products/دراجة-هوائية-20-بوصة-بتصميم-أنيق-ولون-وردي-مع-سلة): أضف لمسة من الأناقة والراحة مع هذه الدراجة الهوائية بحجم 20 بوصة ذات اللون الوردي الجذاب. تتميز  - Dar Toys || متجر دار تويز للألعاب
   Updated: 2025-10-23T12:08:05Z
@@ -2055,8 +2017,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/20-_-_-_-_-_-_-_-My-Store-131086064.jpg?v=1761110050
   Price: ‏29.90 د.ك.‏ KWD
-- [مرمى أهداف شبك حديد للأطفال والأنشطة الخارجية - Dar Toys || متجر دار](https://dartoys.com/products/مرمى-أهداف-شبك-حديد-للأطفال-والأنشطة-الخارجية): استمتع بالمباريات والأنشطة الرياضية مع مرمى أهداف الشبك من Dartoys المصمم بجودة عالية ليمنحك أداءً  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T05:41:42Z
+- [120x200x300CM مرمى أهداف شبك حديد للأطفال والأنشطة الخارجية - Dar Toys](https://dartoys.com/products/مرمى-أهداف-شبك-حديد-للأطفال-والأنشطة-الخارجية): استمتع بالمباريات والأنشطة الرياضية مع مرمى أهداف الشبك من Dartoys المصمم بجودة عالية ليمنحك أداءً  - Dar Toys || متجر دار تويز للألعاب
+  Updated: 2025-10-25T01:05:14Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
@@ -2558,7 +2520,7 @@
     Availability: Available
     Price: ‏29.90 د.ك.‏ KWD
 - [سكوتر ثلاثي العجلات للأطفال - Dar Toys || متجر دار تويز](https://dartoys.com/products/سكوتر-ثلاثي-العجلات-للأطفال): اجعل التنقل واللعب أكثر متعة مع السكوتر الثلاثي العجلات للأطفال من Dartoys. يتميز بتصميم مريح وآمن  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T22:22:20Z
+  Updated: 2025-10-24T23:03:46Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
@@ -2579,7 +2541,7 @@
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/20-_-_-_-_-_-My-Store-132470747.png?v=1761110276
   Price: ‏31.90 د.ك.‏ KWD
 - [سكوتردز 3 تاير للأطفال قابل للتعديل - Dar Toys || متجر دار تويز](https://dartoys.com/products/سكوتردز-3-تاير-للأطفال-قابل-للتعديل): امنح طفلك تجربة قيادة ممتعة وآمنة مع سكوتردز 3 تاير المصمم خصيصًا للأطفال. يتميز بثلاث عجلات قوية  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T22:22:48Z
+  Updated: 2025-10-24T23:03:17Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
@@ -2795,49 +2757,54 @@
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/20-_-_-_-_-_-_-_-My-Store-133767957.png?v=1760252433
   Price: ‏31.90 د.ك.‏ KWD
 - [سكوتر كهربائي High-Speed قابل للطي ببطارية قابلة للشحن - Dar Toys || متجر دار](https://dartoys.com/products/سكوتر-كهربائي-قابل-للطي-ببطارية-قابلة-للشحن): استمتع بتجربة قيادة سلسة وسريعة مع سكوتر High-Speed عالي الجودة المزود بمحرك قوي وبطارية قابلة للشحن- Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-24T10:43:00Z
+  Updated: 2025-10-24T23:00:02Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/High-Speed-My-Store-133778930.jpg?v=1761110382
   Price: ‏52.90 د.ك.‏ KWD
 - [سكوتر دز للأطفال بتصميم عصري وقاعدة مستقرة - Dar Toys || متجر دار تويز](https://dartoys.com/products/سكوتر-دز-للأطفال-بتصميم-عصري-وقاعدة-مستقرة): استمتع بمغامرات مليئة بالمرح مع سكوتر دز للأطفال، الخيار المثالي لعشاق اللعب في الهواء الطلق. يتميز  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T05:41:56Z
+  Updated: 2025-10-25T10:50:47Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-133788690.jpg?v=1761110385
-  Price: ‏19.90 د.ك.‏ KWD
+  - [أسود](https://dartoys.com/products/سكوتر-دز-للأطفال-بتصميم-عصري-وقاعدة-مستقرة?variant=44026717044851)
+    Availability: Available
+    Price: ‏19.90 د.ك.‏ KWD
+  - [أبيض](https://dartoys.com/products/سكوتر-دز-للأطفال-بتصميم-عصري-وقاعدة-مستقرة?variant=44026797359219)
+    Availability: Available
+    Price: ‏19.90 د.ك.‏ KWD
 - [سكوتر حركات دز للأطفال بتصميم احترافي ومتين - Dar Toys || متجر دار](https://dartoys.com/products/سكوتر-حركات-دز-للأطفال-بتصميم-احترافي-ومتين): استمتع بأداء مميز مع سكوتر حركات دز المصمم لعشاق الحركات والمهارات. يتميز السكوتر بتصميم قوي وهيكل  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T05:41:56Z
+  Updated: 2025-10-25T11:58:45Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-133815837.jpg?v=1761110387
   Price: ‏13.90 د.ك.‏ KWD
 - [سكوتر دز ثلاث عجلات للأطفال بتصميم سيارة كرتونية - Dar Toys || متجر](https://dartoys.com/products/سكوتر-دز-ثلاث-عجلات-للأطفال-بتصميم-سيارة-كرتونية): استمتع بالمرح والأمان مع سكوتر دز ثلاث عجلات للأطفال بتصميم سيارة كرتونية مميز يجذب انتباه الأطفال  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T22:18:26Z
+  Updated: 2025-10-24T22:58:39Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/3-_-_-_-_-_-My-Store-133826538.jpg?v=1761110390
   Price: ‏11.90 د.ك.‏ KWD
 - [سكوتر حركات معدني احترافي للأطفال والمراهقين - Dar Toys || متجر دار](https://dartoys.com/products/سكوتر-حركات-معدني-احترافي-للأطفال-والمراهقين): استعد لتجربة أداء مميزة مع سكوتر حركات X Between المصمم خصيصًا لعشاق الحركات والمغامرات.يتميز  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T05:41:57Z
+  Updated: 2025-10-25T10:57:44Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-134041365.jpg?v=1761110396
   Price: ‏18.90 د.ك.‏ KWD
 - [سكوتر دز 3 عجلات بإضاءة للأطفال - Dar Toys || متجر دار تويز](https://dartoys.com/products/سكوتر-دز-3-عجلات-بإضاءة-للأطفال): استمتع بوقت ممتع وآمن مع سكوتر دز ثلاثي العجلات المصمم خصيصًا للأطفال لمحاكاة الحركة النشطة بطريقة  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T22:17:21Z
+  Updated: 2025-10-24T22:56:44Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/3-_-_-_-My-Store-134085389.png?v=1761110398
   Price: ‏12.50 د.ك.‏ KWD
 - [سكوتر دز ثلاثي العجلات للأطفال - Dar Toys || متجر دار تويز](https://dartoys.com/products/سكوتر-دز-ثلاثي-العجلات-للأطفال): استمتع بوقت مليء بالحركة والنشاط مع سكوتر دز ثلاثي العجلات المصمم خصيصًا للأطفال الصغار ليمنحهم  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T22:16:17Z
+  Updated: 2025-10-24T22:55:59Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
@@ -4002,7 +3969,7 @@
     Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-145381821.jpg?v=1761110695
     Price: ‏13.90 د.ك.‏ KWD
 - [دراجة ثلاثية للأطفال مع مظلة وتصميم عصري – متوفرة بألوان الأحمر،](https://dartoys.com/products/دراجة-ثلاثية-للأطفال-مع-مظلة-وتصميم-عصري-متوفرة-بألوان-الأحمر-الوردي-والرمادي): امنح طفلك تجربة قيادة ممتعة وآمنة مع هذه الدراجة الثلاثية الرائعة التي تأتي بتصميم عصري وألوان  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-24T16:49:44Z
+  Updated: 2025-10-25T00:24:15Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
@@ -4013,7 +3980,7 @@
     Price: ‏22.90 د.ك.‏ KWD
   - [أحمر](https://dartoys.com/products/دراجة-ثلاثية-للأطفال-مع-مظلة-وتصميم-عصري-متوفرة-بألوان-الأحمر-الوردي-والرمادي?variant=43975556923507)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/red.png?v=1761281377
+    Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-237187940.png?v=1761351854
     Price: ‏22.90 د.ك.‏ KWD
 - [دراجة ثلاثية العجلات للأطفال بتصميم عصري ولون وردي - Dar Toys || متجر](https://dartoys.com/products/دراجة-ثلاثية-العجلات-للأطفال-بتصميم-عصري-ولون-وردي): امنح طفلك تجربة قيادة ممتعة وآمنة مع هذه الدراجة ثلاثية العجلات بها العصري بلون وردي جذاب. تم  - Dar Toys || متجر دار تويز للألعاب
   Updated: 2025-10-24T04:18:48Z
@@ -4221,7 +4188,7 @@
     Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/14_-16_-18_-20_-_-_-_-_-_-My-Store-147237190.png?v=1761110780
     Price: ‏3.50 د.ك.‏ KWD
 - [تروسيكل شحن كهربائي 1500 واط بطارية 60 فولت - Dar Toys || متجر دار](https://dartoys.com/products/تروسيكل-شحن-كهربائي-1500-واط-بطارية-60-فولت-مع-صندوق-قلاب-هايدروليك): استمتع بأداء قوي ومتانة عالية مع تروسيكل الشحن الكهربائي بقدرة 1500 واط، الخيار المثالي للنقل  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T05:42:10Z
+  Updated: 2025-10-25T01:25:22Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
@@ -4235,12 +4202,12 @@
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-203053157.png?v=1761110786
   Price: ‏33.90 د.ك.‏ KWD
 - [باجي شحن صغير للأطفال مع ريموت - Dar Toys || متجر دار تويز](https://dartoys.com/products/باجي-شحن-كهربائي-صغير-للأطفال-مع-ريموت-copy): استمتع بتجربة قيادة آمنة وممتعة مع باجي الشحن الصغير للأطفال 7 فولت، المزود بجهاز تحكم عن بعد  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T05:42:10Z
+  Updated: 2025-10-25T01:21:46Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-203495232.jpg?v=1761110791
-  Price: ‏22.90 د.ك.‏ KWD
+  Price: ‏24.90 د.ك.‏ KWD
 - [مكعبات رغوية للأطفال - Dar Toys || متجر دار تويز للألعاب - توصيل](https://dartoys.com/products/مكعبات-رغوية-للأطفال): امنح طفلك تجربة لعب آمنة وتعليمية مع مكعبات الفوم للأطفال. صُممت هذه المكعبات من مواد عالية الجودة  - Dar Toys || متجر دار تويز للألعاب
   Updated: 2025-10-24T04:07:31Z
   Vendor: My Store
@@ -4255,26 +4222,75 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/Little-Tikes-My-Store-224881490.webp?v=1761275058
   Price: ‏22.90 د.ك.‏ KWD
+- [Magical Sermon – لعبة الأقمشة المتصلة الجماعية (12 قطعة) - Dar Toys ||](https://dartoys.com/products/magical-sermon-12): اكتشف لعبة Magical Sermon المكوّنة من 12 قطعة قماشية ملوّنة لتعليم الأطفال التعاون وتنمية المهارات الحركية. مثالية للمدارس، الحضانات والأنشطة الجماعية داخل المنزل أو خارجه.
+  Updated: 2025-10-25T04:18:00Z
+  Vendor: My Store
+  Product Type: Kids Toys
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/Magical-Sermon-_-_-_-_-_-_12-_-My-Store-238629234.png?v=1761360478
+  Price: ‏54.90 د.ك.‏ KWD
+- [Bridge Stones – مجموعة 9 قطع لتدريب التوازن وتنمية المهارات الحسية](https://dartoys.com/products/bridge-stones-مجموعة-9-قطع-لتدريب-التوازن-وتنمية-المهارات-الحسية-للأطفال): اكتشف مجموعة Bridge Stones المكونة من 9 قطع ملوّنة تساعد الأطفال على تنمية التوازن، التركيز، والمهارات الحسية بطريقة ممتعة وآمنة. مثالية للمدارس، الحضانات، أو اللعب المنزلي.
+  Updated: 2025-10-25T03:13:51Z
+  Vendor: My Store
+  Product Type: Kids Toys
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/Bridge-Stones-_-_-9-_-_-_-_-_-_-_-My-Store-238689859.webp?v=1761361383
+  Price: ‏28.90 د.ك.‏ KWD
+- [مجموعة الأنشطة الرياضية التعليمية للأطفال – 100 قطعة لتطوير المهارات](https://dartoys.com/products/مجموعة-100-قطعة-تفاعلية): اكتشف مجموعة الأنشطة الرياضية التعليمية المكونة من 100 قطعة لتشجيع الأطفال على الحركة والتوازن وتنمية المهارات الحركية بطريقة ممتعة وآمنة. مثالية للمدارس والحضانات والأنشطة الجماعية.
+  Updated: 2025-10-25T03:12:51Z
+  Vendor: My Store
+  Product Type: Kids Toys
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/100-_-_-_-_-_-My-Store-238743470.jpg?v=1761361886
+  Price: ‏99.90 د.ك.‏ KWD
+- [مجموعة التسلق والانزلاق متعددة الوظائف للأطفال – مقاس 220×220×60 سم -](https://dartoys.com/products/مجموعة-تسلق-وانزلاق-متعددة-الوظائف-220x220x60): اكتشف مجموعة التسلق والانزلاق متعددة الوظائف للأطفال بتصميم ملوّن آمن يساعد على تنمية التوازن والمهارات الحركية. مثالية لغرف اللعب، الحضانات والمدارس. المقاس 220×220×60 سم.
+  Updated: 2025-10-25T03:25:13Z
+  Vendor: My Store
+  Product Type: Kids Toys
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/220_220_60-_-My-Store-238824123.png?v=1761362708
+  Price: ‏274.90 د.ك.‏ KWD
+- [حوض كرات للأطفال للاستخدام الداخلي – تصميم مربع آمن ومريح بمقاس](https://dartoys.com/products/حوض-كرات-للأطفال-داخلي-300x200x60): وفر لطفلك تجربة لعب آمنة وممتعة مع حوض الكرات الداخلي بتصميم مربع وألوان أنيقة. مصنوع من إسفنج ناعم عالي الجودة بمقاس 300×200×60 سم. مثالي للحضانات وغرف الألعاب.
+  Updated: 2025-10-25T03:31:21Z
+  Vendor: My Store
+  Product Type: Kids Toys
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/300_200_60-_-My-Store-238879065.jpg?v=1761363078
+  Price: ‏244.90 د.ك.‏ KWD
+- [مجموعة ألعاب التوازن والتسلق الدائرية للأطفال – Round Robin Game Set -](https://dartoys.com/products/مجموعة-ألعاب-التوازن-والتسلق-راوند-روبن-280x320x90): اكتشف مجموعة Round Robin التعليمية المكونة من 1000 قطعة لتدريب الأطفال على التوازن والتسلق. تصميم آمن وملوّن بمقاس 280×320×90 سم، مثالي للحضانات وغرف الألعاب والمدارس.
+  Updated: 2025-10-25T03:39:17Z
+  Vendor: My Store
+  Product Type: Kids Toys
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/Round-Robin-Game-Set-My-Store-238923066.jpg?v=1761363551
+  Price: ‏649.90 د.ك.‏ KWD
+- [مجموعة زحليقة وأرجوحة للأطفال – تصميم آمن ومتين بمقاس 175×120×106 سم -](https://dartoys.com/products/مجموعة-زحليقة-وأرجوحة-للأطفال-175x120x106): اكتشف مجموعة الزحليقة والأرجوحة للأطفال بتصميم آمن ومريح، مصنوعة من مواد عالية الجودة لتنمية المهارات الحركية والتوازن. المقاس 175×120×106 سم، مثالية للمنزل والحديقة.
+  Updated: 2025-10-25T04:15:24Z
+  Vendor: My Store
+  Product Type: Kids Toys
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/175_120_106-_-My-Store-239186113.jpg?v=1761365723
+  Price: ‏35.90 د.ك.‏ KWD
 
 ## Collections
 
 - [أثاث الأطفال - تشكيلات مميزة وراحة لا مثيل لها](https://dartoys.com/collections/مجموعة-أثاث-الأطفال-والرضع): اكتشف تشكيلات أثاث الأطفال والرضع المريحة والآمنة. تصميمات رائعة تناسب كل الأذواق.
-  Updated: 2025-10-24T11:21:09Z
+  Updated: 2025-10-25T11:19:41Z
   Total Products: 113
 - [العاب ومستلزمات الحضانات والمدارس - Dar Toys || متجر دار تويز للألعاب](https://dartoys.com/collections/العاب-ومستلزمات-الحضانات-والمدارس): - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-24T11:21:09Z
-  Total Products: 82
+  Updated: 2025-10-25T04:14:40Z
+  Total Products: 89
 - [العاب الاطفال الرضع - Dar Toys || متجر دار تويز للألعاب](https://dartoys.com/collections/العاب-الاطفال-الرضع): - Dar Toys || متجر دار تويز للألعاب
   Updated: 2025-10-24T04:08:54Z
   Total Products: 57
 - [الألعاب الرياضية وكرة القدم || توصيل مجاني داخل الكويت - Dar Toys ||](https://dartoys.com/collections/الألعاب-الرياضية-وكرة-القدم-توصيل-مجاني-داخل-الكويت): - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-24T04:07:33Z
+  Updated: 2025-10-25T01:04:41Z
   Total Products: 39
 - [ألعاب النشاط - Dar Toys || متجر دار تويز للألعاب](https://dartoys.com/collections/ألعاب-النشاط): - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-24T15:29:39Z
-  Total Products: 221
+  Updated: 2025-10-25T04:14:40Z
+  Total Products: 228
 - [ألعاب خارجية - أفضل معدات اللعب](https://dartoys.com/collections/معدات-اللعب-الخارجية): اكتشف تشكيلة متنوعة من الألعاب الخارجية الممتعة والمناسبة للأطفال. استمتع باللعب في الهواء الطلق مع معدات عالية الجودة.
-  Updated: 2025-10-24T15:29:39Z
+  Updated: 2025-10-25T02:55:41Z
   Total Products: 298
 - [أفضل ألعاب أطفال في متجر دار تويز](https://dartoys.com/collections/عروض-متجر-دار-تويز): اكتشف مجموعة مدهشة من ألعاب الأطفال بأسعار تنافسية في متجر دار تويز. تسوق الآن لتحصل على أفضل العروض!
   Updated: 2025-10-24T04:48:18Z
@@ -4283,35 +4299,35 @@
   Updated: 2025-10-24T04:07:33Z
   Total Products: 36
 - [بقيات شحن وبنزين || توصيل مجاني داخل الكويت - Dar Toys ||](https://dartoys.com/collections/بقيات-كهربائية-شحن-وبنزين-توصيل-مجاني-داخل-الكويت): - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T05:40:50Z
+  Updated: 2025-10-25T01:21:47Z
   Total Products: 23
 - [العاب شحن سيارات سكوترات || توصيل مجاني في الكويت - Dar Toys || متجر](https://dartoys.com/collections/العاب-شحن-سيارات-سكوترات-توصيل-مجاني-في-الكويت): - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-24T02:53:35Z
+  Updated: 2025-10-25T01:31:50Z
   Total Products: 35
 - [أفضل سكوترات للأطفال - اختيارات مميزة وآمنة](https://dartoys.com/collections/سكوترات-مميزة-من-الترا-تويز-انطلق-بأناقة-وثقة): استعرض مجموعة من سكوترات للأطفال المميزة، المناسبة لمختلف الأعمار والاحتياجات. اختر الأفضل لنجاح تجربة اللعب.
-  Updated: 2025-10-24T11:21:09Z
-  Total Products: 16
+  Updated: 2025-10-24T23:04:26Z
+  Total Products: 15
 - [دراجات هوائية - مجموعة متنوعة للسوق](https://dartoys.com/collections/مجموعة-الدراجات-الهوائية): اكتشف مجموعة من الدراجات الهوائية المناسبة للمبتدئين والمحترفين. استمتع بتجربة ركوب متميزة.
-  Updated: 2025-10-24T05:00:42Z
-  Total Products: 143
+  Updated: 2025-10-25T02:31:46Z
+  Total Products: 144
 - [أفضل سيكل كهربائي لعام 2023](https://dartoys.com/collections/سيكل-كهربائي): اكتشف سيكل كهربائي يناسب احتياجاتك اليومية. الخيارات المتاحة، الفوائد، وكيف تختار الأنسب لك.
-  Updated: 2025-10-24T11:21:09Z
+  Updated: 2025-10-25T02:55:41Z
   Total Products: 23
 - [توكتوك شحن - Dar Toys || متجر دار تويز للألعاب](https://dartoys.com/collections/توكتوك-شحن): - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T05:40:50Z
+  Updated: 2025-10-25T01:31:50Z
   Total Products: 6
 - [أفضل المنتجات مبيعا | اكتشف الخيارات المميزة](https://dartoys.com/collections/best-selling-products): استعرض قائمة أفضل المنتجات مبيعا التي تلبي احتياجاتك. اكتشف المزيد عن خيارات الشراء المميزة.
-  Updated: 2025-10-24T15:29:39Z
-  Total Products: 474
+  Updated: 2025-10-25T11:19:41Z
+  Total Products: 481
 - [أحدث المنتجات الجديدة في السوق](https://dartoys.com/collections/newest-products): استكشف أحدث المنتجات المتوفرة في السوق. تجد هنا المعلومات المفيدة حول التكنولوجيا والموضة وغيرها.
-  Updated: 2025-10-24T15:29:39Z
-  Total Products: 474
+  Updated: 2025-10-25T11:19:41Z
+  Total Products: 481
 - [استمتع مع نطاطيات وزحلاقيات مدهشة](https://dartoys.com/collections/نطاطيات-وزحلاقيات): اكتشف عالم النطاطيات والزحلاقيات المليء بالمرح والمغامرة. استمتع بتجربة لا تُنسى.
-  Updated: 2025-10-24T04:07:32Z
-  Total Products: 42
+  Updated: 2025-10-25T04:14:40Z
+  Total Products: 43
 - [ديارف - Dar Toys || متجر دار تويز للألعاب](https://dartoys.com/collections/ديارف): - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-24T15:29:39Z
-  Total Products: 21
+  Updated: 2025-10-25T04:14:40Z
+  Total Products: 22
 
 ## Blogs
 
