@@ -6,7 +6,7 @@
 - Timezone: Asia/Dhaka
 - Created At: 2024-01-17T06:20:01Z
 - Contact Email: raymondwildlife@gmail.com
-- Updated At: 2025-10-24T16:00:33.293Z
+- Updated At: 2025-10-25T04:00:41.807Z
 
 ## Products
 
@@ -224,7 +224,7 @@
     Image: https://cdn.shopify.com/s/files/1/0858/1031/5574/files/canvas-lunch-bag-705988.jpg?v=1722167831
     Price: ৳32.00 BDT
 - [Duckworth Woolfill Jacket – Raymond Coffee](https://raymondcoffee.online/products/foraker-canvas-coat): This is a demonstration store. You can purchase products like this from United By Blue. Inspired by the timeless, functional style of your grandfather's work coat, the Foraker features brass buttons and 4 patch pockets. Crafted in Bristol, Tennessee, our 10oz organic duck canvas is light enough for an early summer morn
-  Updated: 2025-10-19T09:07:38Z
+  Updated: 2025-10-25T00:17:31Z
   Vendor: United By Blue
   Product Type: Mens
   Availability: Available
