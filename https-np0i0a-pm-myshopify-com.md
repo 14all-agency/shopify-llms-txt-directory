@@ -5,7 +5,7 @@
 - Currency: USD
 - Timezone: America/New_York
 - Created At: 2025-07-25T14:20:57Z
-- Updated At: 2025-10-25T12:00:42.192Z
+- Updated At: 2025-10-25T20:00:59.828Z
 
 ## Products
 
@@ -3265,7 +3265,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/ca5093f4-ef96-485f-86a1-b60f012378da-Max-Origin.webp?v=1760856110
     Price: $43.16 USD
 - [Round Neck Long Sleeve Top and Pants Set - Stylish Comfort](https://np0i0a-pm.myshopify.com/products/round-neck-long-sleeve-top-pants-set-47328): Discover stylish comfort with our Round Neck Long Sleeve Top and Pants Set. Perfect for lounging or casual outings. Shop now!
-  Updated: 2025-10-20T10:33:07Z
+  Updated: 2025-10-25T18:52:15Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5303,7 +5303,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/4018c7d6-dc6a-48ac-b8aa-f07719a4e8b8-Max-Origin.webp?v=1760857571
     Price: $56.00 USD
 - [Color Block Knit Button-Up Cardigan - Stylish & Comfortable](https://np0i0a-pm.myshopify.com/products/color-block-knit-button-up-cardigan): Shop the Color Block Knit Button-Up Cardigan for a stylish and cozy addition to your wardrobe. Perfect for layering and easy to care for.
-  Updated: 2025-10-25T06:00:42Z
+  Updated: 2025-10-25T19:20:36Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5347,7 +5347,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/3193c73b536849599ce4cff756e1f947-Max-Origin.webp?v=1760857603
     Price: $39.82 USD
 - [Double Take Star Pattern Raw Edge Sweater](https://np0i0a-pm.myshopify.com/products/double-take-full-size-star-pattern-raw-edge-long-sleeve-sweater): Shop our Double Take Full Size Star Pattern Raw Edge Long Sleeve Sweater. Enjoy comfort and style with a unique design, made from soft, high-quality materials.
-  Updated: 2025-10-25T10:30:15Z
+  Updated: 2025-10-25T15:30:15Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -8133,7 +8133,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/71e0df2b-e9f8-4a6d-a1cf-0290ecd0929c-Max-Origin.webp?v=1760858659
     Price: $45.60 USD
 - [Leopard Oversized V-Neck Sweater - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/leopard-oversized-v-neck-sweater): Shop the Leopard Oversized V-Neck Sweater for a stylish and comfortable fit. Made from 100% polyester, this trendy piece is perfect for any casual outing.
-  Updated: 2025-10-24T12:56:47Z
+  Updated: 2025-10-25T15:03:25Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -12446,7 +12446,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/4274b691-31a7-4524-8a0a-c7b4ec670c5b-Max-Origin.webp?v=1760861528
     Price: $34.54 USD
 - [Chest Pocket Raw Hem Denim Loose Shirt Dress - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/chest-pocket-raw-hem-denim-loose-shirt-dress): Shop the Chest Pocket Raw Hem Denim Loose Shirt Dress for a stylish and comfortable addition to your wardrobe. Made from 100% cotton with a relaxed fit.
-  Updated: 2025-10-24T20:00:37Z
+  Updated: 2025-10-25T19:20:37Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -13082,7 +13082,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/1762cc6beb0947388c31d9d141dfda5f-Max-Origin.webp?v=1760862140
     Price: $27.88 USD
 - [Stylish Camouflage Cargo Pants for Men - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/camouflage-cargo-pants): Shop our Stylish Camouflage Cargo Pants for Men. Comfortable, durable, and perfect for any adventure. Available in multiple sizes.
-  Updated: 2025-10-22T16:40:55Z
+  Updated: 2025-10-25T19:50:05Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -14333,7 +14333,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/969524c2-4b2f-4698-9e84-749b2b230b5a-Max-Origin.webp?v=1760863664
     Price: $73.74 USD
 - [High Rise Wide Leg Corduroy Jeans - Stylish & Comfortable Fit](https://np0i0a-pm.myshopify.com/products/risen-high-rise-wide-leg-corduroy-jeans): Shop High Rise Wide Leg Corduroy Jeans for a flattering silhouette, cozy feel, and versatile style. Perfect for chic, comfy outfits during cooler months.
-  Updated: 2025-10-25T04:20:44Z
+  Updated: 2025-10-25T16:11:20Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -15852,7 +15852,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/16d04d76-5838-43c3-9d6c-40c6742ea136-Max-Origin.webp?v=1760864694
     Price: $18.84 USD
 - [Lace Detail Dropped Shoulder Hoodie for Stylish Comfort | Shop Now](https://np0i0a-pm.myshopify.com/products/lace-detail-dropped-shoulder-hoodie-pants-set): Discover the Lace Detail Dropped Shoulder Hoodie, perfect for a trendy and comfortable look. Elevate your casual style with this chic two-piece set today.
-  Updated: 2025-10-25T05:21:36Z
+  Updated: 2025-10-25T18:40:40Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -17390,7 +17390,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/8346cee6de1c4c6589851f03896899e8-Max-Origin.webp?v=1761265867
     Price: $36.34 USD
 - [Velvet Ribbed Texture Square Neck Slim Puff Sleeve Top - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/velvet-ribbed-texture-square-neck-slim-puff-sleeve-top): Features:Basic style Stretch:No stretch Material composition:90% polyester, 10% elastane Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 24.8 35.4 25.6 M 25.6 37.8 26 L 26.4 40.2 26.4 XL 27.2 43.3 26.8 - Pretty Melanin Boutique
-  Updated: 2025-10-25T08:22:21Z
+  Updated: 2025-10-25T16:40:36Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -18181,7 +18181,7 @@
 ## Collections
 
 - [Home page - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/collections/frontpage): - Pretty Melanin Boutique
-  Updated: 2025-10-25T08:02:08Z
+  Updated: 2025-10-25T15:39:29Z
   Total Products: 338
 - [Recommended products (Seguno) - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/collections/recommended-products-seguno): This collection was generated by the Seguno app for use in email marketing and is not available on any sales channels. By default, it is configured to show your best-selling products that are in stock and not free. - Pretty Melanin Boutique
   Updated: 2025-10-24T02:52:15Z
@@ -18213,6 +18213,10 @@
     Updated: 2025-10-21T18:00:04Z
     Author: Chauntalia Walton
     Tags: athleisure, college style, cozy loungewear, fall fashion, student essentials
+  - [Professional Skirt Sets That Won't Break Your Budget - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/blogs/news/professional-skirt-sets-that-wont-break-your-budget): Professional Skirt Sets That Won't Break Your Budget - Pretty Melanin Boutique
+    Updated: 2025-10-25T17:00:02Z
+    Author: Chauntalia Walton
+    Tags: affordable workwear, budget friendly fashion, office outfits, skirt suits, women's business attire
   - [Plated vs Filled Jewelry: Which Gives You More Value? - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/blogs/news/plated-vs-filled-jewelry-which-gives-you-more-value): Plated vs Filled Jewelry: Which Gives You More Value? - Pretty Melanin Boutique
     Updated: 2025-10-23T15:30:12Z
     Author: Chauntalia Walton
