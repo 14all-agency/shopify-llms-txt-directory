@@ -7,7 +7,7 @@
 - Created At: 2025-05-23T17:13:08Z
 - Contact Email: sklep@lunnea.pl
 - Address: Nowa Wola Gołębiowska 40, Radom 26-613 Polska
-- Updated At: 2025-10-24T12:00:33.363Z
+- Updated At: 2025-10-25T08:00:57.503Z
 
 ## Products
 
@@ -102,7 +102,7 @@
     Availability: Available
     Price: 135,00 zł PLN
 - [Bransoletka z kamieni naturalnych fluorytu i hematytu](https://lunnea.pl/products/bransoletka-z-kamieni-naturalnych-fluorytu-i-hematyt): Bransoletka z kamieni naturalnych Kolorowa, pełna światła i pozytywnej energii - bransoletka na gumce z kamieni naturalnych fluorytu i złotego hematytu to idealna propozycja dla kobiet, które kochają niebanalną biżuterię handmade. Łączy w sobie naturalne piękno kamieni szlachetnych z wygodą codziennego noszenia. Gumka jubilerska zapewnia idealne dopasowanie, a delikatne dodatki ze stali chirurgicznej - w tym błyszczący kryształek i złota gwiazdka - nadają całości wyjątkowego uroku. To nie tylko ozdoba, ale i talizman – fluoryt uznawany jest za kamień klarowności, a hematyt dodaje odwagi i równowagi. Ta ręcznie robiona bransoletka z kamieni naturalnych idealnie sprawdzi się jako prezent - zarówno dla przyjaciółki, jak i samej siebie. Dzięki różnorodnym barwom kamieni - od pastelowego różu, przez błękit, aż po głębokie fiolety - pasuje do wielu stylizacji i okazji. Biżuteria handmade z duszą - na co dzień i na wyjątkowe momenty. Bransoletka handmade z fluorytu Ta bransoletka na gumce z kamieni naturalnych powstała z myślą o kobietach ceniących delikatność, ale i charakter. Fluoryt tęczowy w odcieniach fioletu, błękitu, różu i zieleni przyciąga wzrok i działa harmonizująco na umysł. Kamień ten często wybierany jest jako wsparcie przy podejmowaniu ważnych decyzji i pracy nad własnym wnętrzem. Z kolei złoty hematyt to symbol siły i odwagi - idealne połączenie równowagi i blasku. Zawieszki ze stali chirurgicznej dodają bransoletce lekkości i nowoczesnego charakteru. Błyszczący kryształek oraz złota gwiazdka to subtelne akcenty, które nadają jej wyjątkowego wdzięku. W bransoletce na żyłce z kamieni naturalnych znajdziesz: Fluoryt tęczowy - gładkie kule 6-6,5 mm, wielobarwne (fiolety, błękity, zielenie, bezbarwne). Złoty hematyt fasetowany - kuleczki 4 mm, jako przekładki dodające blasku. Zawieszka ze stali chirurgicznej - złota gwiazdka. Dekoracyjny kryształek - delikatny, na metalowym mocowaniu. Gumka jubilerska - elastyczna, wygodna, odporna na rozciąganie. Specyfikacja bransoletki z kamieni naturalnych: Indywidualny rozmiar: możliwy - podaj informację w komentarzu w koszyku. Kamienie naturalne: fluoryt (6-6,5 mm), hematyt (4 mm). Elementy metalowe: stal chirurgiczna. Elastyczna żyłka jubilerska - trwała i komfortowa. Dlaczego warto wybrać ręcznie tworzone bransoletki z fluorytu? Wykonana ręcznie - z dbałością o każdy szczegół. Unikalna kompozycja kolorystyczna - każdy egzemplarz różni się układem kamieni. Kamienie naturalne o symbolicznej mocy - fluoryt i hematyt. Wygodne zakładanie dzięki elastycznej gumce. Subtelne zawieszki z chirurgicznej stali - trwałe i hipoalergiczne. Idealna na prezent - dołącz eleganckie opakowanie i podaruj komuś wyjątkowemu. Podaruj ją sobie lub bliskiej osobie - to biżuteria, która zostaje w pamięci na lata.
-  Updated: 2025-10-17T09:55:57Z
+  Updated: 2025-10-24T20:07:33Z
   Vendor: Lunnea
   Product Type: Bransoletka
   Availability: Available
@@ -147,7 +147,7 @@
     Availability: Available
     Price: 119,00 zł PLN
 - [Bransoletka przezroczysta z gwiazdką i kryształkami](https://lunnea.pl/products/bransoletka-przezroczysta-z-gwiazdka-i-krysztalkami): Przezroczysta bransoletka z kryształkami i złotą gwiazdką Delikatna, ręcznie robiona bransoletka z kryształków to doskonały wybór dla miłośniczek subtelnej biżuterii handmade. Transparentne fasetowane koraliki pięknie odbijają światło, tworząc efekt migotania przy każdym ruchu ręki. Złote akcenty w postaci hematytowych kulek oraz zawieszka w kształcie gwiazdy dodają elegancji i sprawiają, że ta bransoletka świetnie sprawdzi się jako prezent - zarówno dla przyjaciółki, siostry, jak i na wyjątkową okazję, taką jak urodziny, rocznica czy święta. Ta bransoletka z kamieni naturalnych została wykonana z dbałością o detale - to biżuteria handmade, która wyróżnia się nie tylko designem, ale i trwałością. Noś ją solo albo łącz z innymi delikatnymi dodatkami, tworząc własny styl. Bransoletka z hematytem i kryształkami na prezent Biżuteria z motywem gwiazdy zawsze niesie za sobą coś wyjątkowego - symbolizuje marzenia, nadzieję i ochronę. W tej ręcznie robionej bransoletce gwiazda ze stali chirurgicznej przypomina, że warto sięgać po swoje cele - z elegancją i lekkością. To idealna propozycja na prezent dla kogoś bliskiego - kobiety, która lubi subtelne dodatki i ceni rękodzieło. Dzięki uniwersalnej kolorystyce, bransoletka pasuje zarówno do codziennych stylizacji, jak i na specjalne okazje. W bransoletce ręcznie robionej z gwiazdką znajdziesz: Transparentne kryształki (S1P32) - fasetowane, o wymiarze 6 mm, pięknie odbijają światło i nadają bransoletce lekkości. Złoty hematyt (4 mm) - fasetowane kuleczki z kamienia naturalnego, idealnie sprawdzają się jako błyszczące przekładki. Zawieszka gwiazdka - wykonana z trwałej stali nierdzewnej w złotym kolorze, dodaje całości uroku i symboliki. Elastyczna żyłka jubilerska - komfort noszenia bez zapięcia, łatwość zakładania na nadgarstek. Specyfikacja bransoletki z kryształków i zawieszką gwiazdy: Średnica kryształków: ok. 6 mm Wielkość kulek hematytu: ok. 4 mm Zawieszka: stal chirurgiczna, motyw gwiazdy, kolor złoty Żyłka jubilerska: elastyczna, wygodna w noszeniu Indywidualny rozmiar: możliwy - podaj informację w komentarzu w koszyku. Dlaczego warto wybrać tę ręcznie robioną bransoletkę? Ręczne wykonanie z dbałością o każdy szczegół Unikatowa kompozycja kryształków i hematytu Symboliczna zawieszka - gwiazda jako talizman marzeń i ochrony Komfort noszenia dzięki elastycznej żyłce jubilerskiej Uniwersalny design - idealny na prezent i do codziennego noszenia Podaruj ją sobie lub bliskiej osobie - to biżuteria, która zostaje w pamięci na lata.
-  Updated: 2025-10-17T07:10:04Z
+  Updated: 2025-10-24T20:07:35Z
   Vendor: Lunnea
   Product Type: Bransoletka
   Availability: Available
@@ -222,7 +222,7 @@
     Availability: Available
     Price: 119,00 zł PLN
 - [Bransoletka z księżycem z kryształkami i hematytem](https://lunnea.pl/products/bransoletka-z-ksiezycem-z-krysztalkami-i-hematytem): Bransoletka z księżycem Marzysz o delikatnej, kobiecej ozdobie, która doda blasku każdej stylizacji? Bransoletka z księżycem z kryształkami i hematytem to propozycja dla kobiet ceniących niepowtarzalną biżuterię handmade. Połączenie szkła w odcieniach błękitu i transparentu z fasetowanymi, złotymi kulkami hematytu tworzy subtelną kompozycję, która przyciąga spojrzenia. Zawieszka w kształcie księżyca ze stali chirurgicznej dodaje bransoletce nuty mistycyzmu i delikatnej elegancji. To idealna bransoletka z kamieni naturalnych na prezent dla przyjaciółki, siostry lub ukochanej osoby - piękna, trwała i pełna symboliki. Ta ręcznie robiona bransoletka z księżycem przywołuje skojarzenia z nocnym niebem, spokojem i kobiecą siłą. Idealna zarówno na co dzień, jak i na wyjątkowe okazje - od romantycznej kolacji, po urodzinowy prezent. Księżyc symbolizuje intuicję i wewnętrzną moc, a błękitne i transparentne kryształki delikatnie odbijają światło, dodając uroku. Noś ją jako osobisty talizman lub podaruj komuś bliskiemu - to biżuteria handmade, która niesie ze sobą emocje i znaczenie. W bransoletce handmade z księżycem znajdziesz: Kryształki szklane 6 mm - w odcieniach błękitu i transparentu, delikatnie połyskujące w świetle, tworzące harmonijną kompozycję barw. Fasetowany hematyt w kolorze złotym (4 mm) - dodaje elegancji i szlachetności, symbolizuje siłę i stabilność. Zawieszka w kształcie księżyca - wykonana z trwałej stali chirurgicznej w złotym kolorze, odporna na wilgoć i ścieranie. Specyfikacja bransoletki z kamieni naturalnych z księżycem: Średnica koralików: kryształki 6 mm, hematyt 4 mm Materiały: szkło, hematyt, stal chirurgiczna Kolory: błękit, transparent, złoty Bransoletka wykonana na elastycznej żyłce jubilerskiej - wygodna w zakładaniu i noszeniu Indywidualny rozmiar: możliwy - podaj informację w komentarzu w koszyku. Dlaczego warto wybrać ręcznie robioną bransoletkę z księżycem? Unikatowa, wykonana w 100% ręcznie - nie znajdziesz drugiej identycznej. Elastyczna żyłka zapewnia komfort i idealne dopasowanie. Użycie hematytu i stali chirurgicznej gwarantuje trwałość. Piękny, symboliczny prezent - z sercem i znaczeniem. Połączenie subtelnych kolorów sprawia, że pasuje do każdej stylizacji. Podaruj ją sobie lub bliskiej osobie - to biżuteria, która zostaje w pamięci na lata.
-  Updated: 2025-10-17T07:10:06Z
+  Updated: 2025-10-24T20:07:34Z
   Vendor: Lunnea
   Product Type: Bransoletka
   Availability: Available
@@ -819,6 +819,10 @@
     Updated: 2025-10-22T20:43:01Z
     Author: Admin
     Tags: Energia hematytu, Hematyt właściwości, Kamień harmonii, Kamień spokoju, Kryształ hematytu, Wibracje kamieni
+  - [Co to jest Hematyt?](https://lunnea.pl/blogs/news/co-to-jest-hematyt): Co to jest hematyt? Poznaj ten niezwykły kamień szlachetny, który znajdziesz w naszej kolekcji pięknej, ręcznie robionej biżuterii.
+    Updated: 2025-10-24T15:22:00Z
+    Author: Admin
+    Tags: hematyt właściwości, skąd pochodzi hematyt, właściwości kamienia hematytu, zastosowanie hematytu
   - [Jak rozpoznać hematyt?](https://lunnea.pl/blogs/news/jak-rozpoznac-hematyt): Hematyt - poznaj cechy tego kamienia szlachetnego i naucz się go rozpoznawać. Wykorzystywany w naszej ręcznie robionej biżuterii.
     Updated: 2025-10-23T17:13:01Z
     Author: Admin
@@ -856,6 +860,10 @@
   Updated: 2025-09-30T10:59:32Z
 - [GDPR](https://lunnea.pl/pages/gdpr): #form-gdpr-edit-account-request, #form-gdpr-requests-request, #form-gdpr-personal-information-request, #form-gdpr-orders-request, #form-gdpr-person...
   Updated: 2025-10-18T08:12:00Z
+- [Wishlist](https://lunnea.pl/pages/swym-wishlist): window.SwymCallbacks = window.SwymCallbacks || []; window.SwymCallbacks.push(function(swat) { var wishlistContainerElement = document.querySelector...
+  Updated: 2025-10-24T12:09:02Z
+- [Shared Wishlist](https://lunnea.pl/pages/swym-share-wishlist): window.SwymCallbacks = window.SwymCallbacks || [];window.SwymCallbacks.push(function(swat) { var queryParams = swat.utils.getEncodedAsObject(window...
+  Updated: 2025-10-24T12:09:22Z
 
 ## Policies
 
