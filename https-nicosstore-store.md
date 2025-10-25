@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-07-07T17:06:44Z
 - Contact Email: nikualbu92@gmail.com
-- Updated At: 2025-10-24T20:00:48.142Z
+- Updated At: 2025-10-25T04:00:40.427Z
 
 ## Products
 
@@ -2203,7 +2203,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/3ef299f16d854caab6343103d9c9dd52-Max-Origin.webp?v=1759598855
     Price: €44.22 EUR
 - [Camouflage Print Mesh Long Sleeve Top](https://nicosstore.store/products/camouflage-print-mesh-long-sleeve-top): Features:Sheer Stretch:Slightly stretchy Material composition:95% polyester, 5% elastane Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 22.8 32.3 24 M 23.6 34.6 24.4 L 24.4 37 24.8 XL 25.2 40.2 25.2
-  Updated: 2025-10-24T13:21:17Z
+  Updated: 2025-10-25T00:20:41Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2463,7 +2463,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/292211b4-e7f5-4bf2-8f22-ab00407f6fec-Max-Origin.webp?v=1759675842
     Price: €14.16 EUR
 - [Waffle-Knit Round Neck Knit Top](https://nicosstore.store/products/waffle-knit-round-neck-knit-top): Features:Basic style,Waffle-Knit Stretch:No stretch Material composition:95% polyester, 5% spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust S 22.4 36.2 M 22.8 37.8 L 23.2 40.2 XL 23.6 42.5 2XL 24 44.9
-  Updated: 2025-10-20T18:16:41Z
+  Updated: 2025-10-25T00:10:53Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2529,7 +2529,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8b9b3da06fef4ffa8d8fc8c266aad154-Max-Origin.webp?v=1759678174
     Price: €22.42 EUR
 - [Drawstring Wide Leg Pants with Pockets](https://nicosstore.store/products/drawstring-wide-leg-pants-with-pockets): Features: Pocketed Sheer: Opaque Material composition: 50% polyester, 45% viscose, 5% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S: waist 26.9 in, hip 39.8 in, length 40.6 inM: waist 28.9 in, hip 42.1 in, length 41 inL: waist 30.8 in, hip 44.5 in, length 41.3 inXL: waist 33.5 in, hip 47.6 in, length 41.7 in
-  Updated: 2025-10-22T14:00:47Z
+  Updated: 2025-10-25T02:40:50Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2575,7 +2575,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/44272cb6304f423388228a3c2e1f6c13-Max.jpg?v=1759678261
     Price: €41.75 EUR
   - [Black / L](https://nicosstore.store/products/drawstring-wide-leg-pants-with-pockets?variant=55825743872325)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/44272cb6304f423388228a3c2e1f6c13-Max.jpg?v=1759678261
     Price: €41.75 EUR
   - [Black / XL](https://nicosstore.store/products/drawstring-wide-leg-pants-with-pockets?variant=55825743905093)
@@ -2857,7 +2857,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/029fb0d8-97a9-44ea-a675-8ebf4e5f1fc8-Max.webp?v=1759681888
     Price: €37.03 EUR
 - [Oh Pima Cotton Wash Wide Striped Collared Neck Long Sleeve Top](https://nicosstore.store/products/oh-pima-cotton-wash-wide-striped-collared-neck-long-sleeve-top): Features: Basic style, Buttoned Sheer: Opaque Stretch: Slightly stretchy Material composition: 100% cotton Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Shoulder Bust Sleeve Length S 27.4 25.2 49.6 17.7 M 27.8 26 52 17.7 L 28.1 26.8 54.3 17.7 XL 28.5 28 57.5 17.7
-  Updated: 2025-10-23T06:45:15Z
+  Updated: 2025-10-25T03:45:17Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
