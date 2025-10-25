@@ -6,14 +6,14 @@
 - Timezone: Europe/Stockholm
 - Created At: 2025-10-19T21:34:48Z
 - Contact Email: daarkaestheticss@gmail.com
-- Updated At: 2025-10-25T04:00:37.334Z
+- Updated At: 2025-10-25T08:00:38.576Z
 
 Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design och produkter. Vi erbjuder unika, handplockade artiklar för kunder som uppskattar alternativ stil.
 
 ## Products
 
 - [Have Yourself A Spooky Little Christmas](https://darkaestheticstudio.com/products/have-yourself-a-spooky-little-christmas): Spooky Little Christmas – Sweatshirt 🎃🎄Julen möter mörkret i denna grå sweatshirt med fladdermöss och gotisk charm.Perfekt för dig som firar högtid med en twist – mjuk, varm och full av personlighet. Materialinformation: Mjuk och varm fleece i bomull/polyesterblandning med justerbara muddar som håller värmen inne. Perfekt passform: Bär din favoritdesign på en hoodie som varken är för tjock eller för tung – bara lagom. Denna produkt skapas vid köp - leveransen är 5-12 arbetsdagar.
-  Updated: 2025-10-24T22:16:13Z
+  Updated: 2025-10-25T06:20:45Z
   Vendor: Dark Aesthetic Studio
   Product Type: 
   Availability: Available
@@ -91,7 +91,7 @@ Dark Aesthetic Studio är en webbshop specialiserad på mörk estetisk design oc
     Image: https://cdn.shopify.com/s/files/1/0955/5479/7911/files/have-yourself-a-spooky-little-christmas-sweatshirt-sport-grey-s-peachy-sunday-t-shirt-36503233822878.png?v=1761243850
     Price: 399,00 kr SEK
 - [Christmas Things](https://darkaestheticstudio.com/products/christmas-things): Merry Christmas, nerds!🖤 En mörk julklassiker med en hyllning till Stranger Things. Material:Tillverkade i en mjuk blandning av bomull och polyesterväv med varm, fluffig fleece på insidan. Justerbara muddar håller värmen inne och komforten på topp. Passform:Perfekt skurna efter år av erfarenhet och noggrann research. Vikt:Tillräckligt lätt för att bäras året runt – men tillräckligt varm för kalla kvällar. Den perfekta balansen mellan stil och funktion. Denna produkt skapas vid köp - leveransen är 5-12 arbetsdagar.
-  Updated: 2025-10-24T18:03:12Z
+  Updated: 2025-10-25T06:03:19Z
   Vendor: Dark Aesthetic Studio
   Product Type: Sweat Shirt
   Availability: Available
