@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-10-24T20:01:13.393Z
+- Updated At: 2025-10-25T00:00:48.680Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -2125,7 +2125,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_26af69b2-bf30-45bd-beec-0d6243ca0840.jpg?v=1741876452
   Price: £85.00 GBP
 - [Key to My Heart Locket | Gold Heart Necklace | Lily Blanche](https://www.lilyblanche.com/products/key-locket-gold): Keep your loved ones close to your heart with this pretty filigree style gold vermeil heart locket which opens to take two of your pictures. Hallmarked in the UK. This gold necklace is a perfect bridal or wedding locket. Free UK Shipping & Luxury Gift Wrap. Shop this necklace online today. Express Shipping Available.
-  Updated: 2025-10-06T16:55:56Z
+  Updated: 2025-10-24T22:10:15Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -15942,7 +15942,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £65.00 GBP
 - [Sterling Silver Men's Dog Tag Necklace | High Quality | Lily Blanche](https://www.lilyblanche.com/products/mens-dog-tag-necklace-silver): This striking dog tag necklace in sterling silver is a statement piece which will elevate your look and can be engraved with your own message. A wonderful gift for a father, boyfriend, husband or brother, this necklace is a jewellery box classic. Order online today and receive a free jewellery care kit worth £20!
-  Updated: 2025-10-21T11:29:10Z
+  Updated: 2025-10-24T23:14:00Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
@@ -17010,7 +17010,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £140.00 GBP
 - [Men's Heavy Sterling Silver Cross Necklace - Premium Craftsmanship](https://www.lilyblanche.com/products/mens-silver-cross-necklace): Men's heavy sterling silver cross necklace. Handcrafted heirloom-quality, 44mm pendant with a choice of chains. UK-made. Free delivery, gift wrap & care kit. £140
-  Updated: 2025-10-24T15:19:25Z
+  Updated: 2025-10-24T20:02:35Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
