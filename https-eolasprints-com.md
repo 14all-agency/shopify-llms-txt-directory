@@ -10,7 +10,7 @@
 - Contact Email: support@eolasprints.com
 - Contact Phone: +34-942735955
 - Address: Parque Empresarial Besaya D14, Reocín 39538, Cantabria, Spain
-- Updated At: 2025-10-24T23:33:44.929Z
+- Updated At: 2025-10-25T04:00:52.361Z
 
 Welcome to Eolas Prints - Your Trusted 3D Printing & Digital Fabrication Partner
 
@@ -1773,12 +1773,12 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   - [Petg Vs Pla Strength Guide for Functional Parts](https://eolasprints.com/blogs/3d-printing-technology/petg-vs-pla-the-ultimate-strength-comparison-guide-for-3d-printing): Petg Vs Pla Strength Guide for Functional Parts
     Updated: 2025-09-29T00:23:47Z
     Author: Sergio Peciña
-  - [PLA Antibacterial Filament: The Hygiene Revolution in 3D Printing](https://eolasprints.com/blogs/3d-printing-technology/pla-antibacterial-filament-the-hygiene-revolution-in-3d-printing): <p data-pm-slice="1 1 []">When you think about 3D printing, hygiene probably isn't the first thing that comes to mind. But what if your prints could actively protect against harmful bacteria? Enter Eolas Prints' PLA Antibacterial Filament—a game-changing material that combines the ease of traditional PLA with powerful antimicrobial technology.</p>
-    Updated: 2025-10-17T23:07:59Z
+  - [Pla Antibacterial Filament for Hygienic Printing](https://eolasprints.com/blogs/3d-printing-technology/pla-antibacterial-filament-the-hygiene-revolution-in-3d-printing): Pla Antibacterial Filament for Hygienic Printing
+    Updated: 2025-10-25T01:11:17Z
     Author: Tanuj Goswami
     Tags: PLA
-  - [TPU Flex Filament D60 UV Resistant: The Ultimate Material for Outdoor 3D Printing](https://eolasprints.com/blogs/3d-printing-technology/tpu-flex-filament-d60-uv-resistant-the-ultimate-material-for-outdoor-3d-printing): <p><meta charset="utf-8">When you're designing 3D-printed products for outdoor use, durability isn't optional—it's essential. Sun exposure, temperature fluctuations, and environmental stress can destroy standard filaments in weeks. That's where TPU Flex Filament D60 UV Resistant comes in. This premium flexible material is engineered specifically for projects that face the elements.</p>
-    Updated: 2025-10-17T23:14:39Z
+  - [Tpu Flex Filament D60 for Uv Resistant Outdoor Prints](https://eolasprints.com/blogs/3d-printing-technology/tpu-flex-filament-d60-uv-resistant-the-ultimate-material-for-outdoor-3d-printing): Tpu Flex Filament D60 for Uv Resistant Outdoor Prints
+    Updated: 2025-10-25T01:12:11Z
     Author: Tanuj Goswami
     Tags: TPU
 - [3D Printing Guides - Eolas Prints](https://eolasprints.com/blogs/3d-printing-guides): Eolas Prints provides 3D printing guides for different materials. Learn how to print with different filaments with our helpful guides.
@@ -1887,11 +1887,11 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
 - [Professional 3d Printing and Design Service](https://eolasprints.com/pages/3d-printing-service): Our professional printing services transform digital concepts into tangible objects, suitable for everything from detailed prototypes to functional...
   Updated: 2025-10-17T21:27:06Z
 - [Privacy Policy and Targeted Advertising Choices](https://eolasprints.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
-  Updated: 2025-10-17T21:27:09Z
+  Updated: 2025-10-25T01:18:22Z
 - [3d Printer Filament Spool Size Guide for Bambu Lab Ams](https://eolasprints.com/pages/size-guide-3d-printer-filament-spool): Our spools are compatible with all major 3D printer brands including Prusa, Bambu Lab (AMS & AMS Lite), Flashforge, and more. The standardised axle...
-  Updated: 2025-10-17T21:47:33Z
+  Updated: 2025-10-25T01:18:33Z
 - [Eolas Prints Filaments Print Profiles](https://eolasprints.com/pages/print-profiles-for-eolas-prints-filaments): Achieve superior 3D printing results with our custom print profiles, expertly calibrated for Eolas Prints filaments. These profiles are meticulousl...
-  Updated: 2025-10-17T21:27:13Z
+  Updated: 2025-10-25T01:18:52Z
 
 ## Policies
 
