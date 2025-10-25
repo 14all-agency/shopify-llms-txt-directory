@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2025-10-24T16:01:01.334Z
+- Updated At: 2025-10-25T12:01:03.388Z
 
 ## Products
 
@@ -3411,7 +3411,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/V-neck-long-sleeved-dress-Brinxx-Couture-2929.jpg?v=1709303350
     Price: $20.73 USD
 - [Lapel Tie Solid Color Dress](https://www.brinxxcouture.com/products/lapel-tie-solid-color-dress): Step out with confidence in this Lapel Tie Solid Color Dress! Crafted from a lightweight material, it has a lapel tie design for a modern look, making it the perfect choice for your next night out. Push boundaries in style and take on the night!
-  Updated: 2025-10-24T04:27:47Z
+  Updated: 2025-10-25T00:35:52Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -4219,7 +4219,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Plus-Size-Striped-Tie-Back-Cropped-Cami-Brinxx-Couture-2006.jpg?v=1709311114
     Price: $25.00 USD
 - [Plus Size Drawstring Sweetheart Neck Babydoll Blouse](https://www.brinxxcouture.com/products/plus-size-drawstring-sweetheart-neck-babydoll-blouse): Sizing category: Plus Pattern type: Solid Style: Casual, chic Features: Drawstring Neckline: Sweetheart neck Length: Regular Sleeve length: Long sleeves Sleeve type: Flutter sleeves Material: 95% polyester, 5% spandex Stretch: Slightly stretchy Sheer: No Body: Not lined Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: 1X: bust 41 in, sleeve length 11 in, length 21 in, hem width 70 in2X: bust 44 in, sleeve length 11 in, length 21 in, hem width 74 in3X: bust 47 in, sleeve length 12 in, length 22 in, hem width 78 in4X: bust 50 in, sleeve length 12 in, length 22 in, hem width 82 in5X: bust 53 in, sleeve length 12 in, length 22 in, hem width 86 in
-  Updated: 2025-10-23T10:30:55Z
+  Updated: 2025-10-25T10:20:37Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -8027,7 +8027,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Turtle-Neck-Long-Sleeve-Ribbed-Sweater-Dress-Brinxx-Couture-5587.jpg?v=1709844865
     Price: $50.00 USD
 - [Plaid Collared Flounce Sleeve Shirt Dress - Brinxx Couture](https://www.brinxxcouture.com/products/plaid-collared-neck-flounce-sleeve-shirt-dress): This Plaid Collared Neck Flounce Sleeve Shirt Dress is the epitome of fashion. Perfect for day or night, its timeless plaid pattern is equipped with a collared neckline.
-  Updated: 2025-10-24T12:41:07Z
+  Updated: 2025-10-25T07:20:48Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -8360,7 +8360,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/High-Neck-Long-Sleeve-Ribbed-Top-Brinxx-Couture-6079_ae99505f-4811-4797-bf89-89c3a0f73de1.jpg?v=1736050169
     Price: $25.00 USD
 - [Distressed Raw Hem Denim Jacket - Brinxx Couture](https://www.brinxxcouture.com/products/distressed-raw-hem-denim-jacket): This distressed raw hem denim jacket is the perfect way to make a statement. With its distressed raw hem design, you'll look cool and effortless.
-  Updated: 2025-10-24T14:00:45Z
+  Updated: 2025-10-24T20:20:42Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -12610,7 +12610,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Mock-Neck-Long-Sleeve-Maxi-Bodycon-Dress-Brinxx-Couture-431.jpg?v=1709870644
     Price: $29.99 USD
 - [Fringe Trim Lapel Collar Cropped Blazer - Brinxx Couture](https://www.brinxxcouture.com/products/fringe-trim-lapel-collar-cropped-blazer): This stylish cropped blazer is the perfect pick for any event. Featuring a fringe trim lapel collar and an asymmetric and open-front design.
-  Updated: 2025-10-24T06:00:56Z
+  Updated: 2025-10-25T09:00:57Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -16000,7 +16000,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/products/Cutout-Mock-Neck-Sleeveless-Dress-Brinxx-Couture-7698.jpg?v=1709885128
     Price: $29.99 USD
 - [Rhinestone Mock Neck Long Sleeve Dress - Brinxx Couture](https://www.brinxxcouture.com/products/rhinestone-mock-neck-long-sleeve-dress): Add some sparkle to your wardrobe with our Rhinestone Mock Neck Long Sleeve Dress! This dress features a trendy mock neck and long sleeves, adorned with dazzling rhinestones. Perfect for any special occasion, it's sure to make you stand out and feel glamorous. Shine on! Sheer: Semi-sheer Stretch: Slightly stretchy Body: Not lined Material composition: 60% viscose, 31% polyamide, 9% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements:S: Bust 29.92 in, Shoulder 13.78 in, Sleeve Length 22.83 in, Waist 26.77 in, HIP 34.65 in, Length 35.63 inM: Bust 32.28 in, Shoulder 14.37 in, Sleeve Length 23.23 in, Waist 29.13 in, HIP 37.01 in, Length 36.42 inL: Bust 34.65 in, Shoulder 14.96 in, Sleeve Length 23.62 in, Waist 31.50 in, HIP 39.37 in, Length 37.20 inXL: Bust 37.80 in, Shoulder 15.94 in, Sleeve Length 24.02 in, Waist 34.65 in, HIP 42.52 in, Length 37.99 in
-  Updated: 2025-10-24T14:09:08Z
+  Updated: 2025-10-25T07:01:32Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -17504,7 +17504,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Backless-Cowl-Neck-Sleeveless-Cami-Dress-Brinxx-Couture-8187.jpg?v=1730294572
     Price: $25.00 USD
 - [Ruched V-Neck Sleeveless Romper](https://www.brinxxcouture.com/products/ruched-v-neck-sleeveless-romper): Features: Ruched Sheer: Opaque Material composition: 100% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Size US Top Length Bust Waist HIP Shoulder S 4 31.1 37.4 29.5 39.4 13.4 M 6/8 31.6 39 31.1 40.9 13.8 L 10/12 32.3 41.3 33.5 43.3 14.2 XL 14 33 43.7 35.8 45.7 14.6
-  Updated: 2025-10-23T06:20:46Z
+  Updated: 2025-10-25T09:20:37Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -19336,7 +19336,7 @@
   Availability: Available
   Price: $39.00 USD
 - [Stretchy Stitch Pants  - Brinxx Couture](https://www.brinxxcouture.com/products/stretchystitch-pants-by-basic-bae): Introducing the Stretchy Stitch Pants - the ultimate combination of comfort and style! These pants are stretchy that allows for maximum flexibility.
-  Updated: 2025-10-24T14:54:46Z
+  Updated: 2025-10-24T22:00:22Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -19414,7 +19414,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Stretchy-Stitch-Pants-Brinxx-Couture-8107.jpg?v=1730295049
     Price: $39.99 USD
   - [Khaki / S](https://www.brinxxcouture.com/products/stretchystitch-pants-by-basic-bae?variant=43370694049974)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Stretchy-Stitch-Pants-Brinxx-Couture-8262.jpg?v=1730295055
     Price: $39.99 USD
   - [Khaki / M](https://www.brinxxcouture.com/products/stretchystitch-pants-by-basic-bae?variant=43370694082742)
@@ -20196,13 +20196,13 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Plus-Size-Short-Sleeve-Yoga-Shirt-Brinxx-Couture-3036.jpg?v=1730295592
     Price: $25.00 USD
 - [Plus Size High Waist Lulu Yoga Pants - Brinxx Couture](https://www.brinxxcouture.com/products/plus-size-high-waist-lulu-yoga-pants): Get ready to elevate your yoga practice with our Plus Size High Waist Lulu Yoga Pants! These stylish and comfortable pants provide maximum support. Free Shipping
-  Updated: 2025-09-30T05:45:31Z
+  Updated: 2025-10-25T08:34:03Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Plus-Size-High-Waist-Lulu-Yoga-Pants-Brinxx-Couture-4842.jpg?v=1730295594
   - [1XL / Smoke Purple](https://www.brinxxcouture.com/products/plus-size-high-waist-lulu-yoga-pants?variant=43378953322678)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Plus-Size-High-Waist-Lulu-Yoga-Pants-Brinxx-Couture-9096.jpg?v=1730295606
     Price: $35.00 USD
   - [2XL / Smoke Purple](https://www.brinxxcouture.com/products/plus-size-high-waist-lulu-yoga-pants?variant=43378953355446)
@@ -21632,7 +21632,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Ribbed-Round-Neck-Top-and-Shorts-Set-Brinxx-Couture-1381.jpg?v=1730296298
     Price: $25.00 USD
 - [Tied Pleated Printed Cap Sleeve Dress - Brinxx Couture](https://www.brinxxcouture.com/products/tied-pleated-printed-cap-sleeve-dress): Get ready to take on the day in style with our Tied Pleated Printed Cap Sleeve Dress! This fun and flirty dress feature cap sleeves and a playful, pleated design.
-  Updated: 2025-10-23T04:00:56Z
+  Updated: 2025-10-25T09:40:41Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -21965,7 +21965,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Pocketed-Long-Sleeve-Hooded-Teddy-Coat-Brinxx-Couture-8665_e09500d5-52f1-410f-b415-8b0fd4433a7b.jpg?v=1736049876
     Price: $54.99 USD
 - [Round Neck Long Sleeve Top and Pants Lounge Set - Brinxx Couture](https://www.brinxxcouture.com/products/round-neck-long-sleeve-top-and-pants-lounge-set): Indulge in ultimate comfort with our Round Neck Long Sleeve Top and Pants Lounge Set! Made from high-quality materials, this lounge set is perfect for relaxing.
-  Updated: 2025-10-19T00:30:38Z
+  Updated: 2025-10-25T08:22:05Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -21987,7 +21987,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Round-Neck-Long-Sleeve-Top-and-Pants-Lounge-Set-Brinxx-Couture-9593.jpg?v=1730296620
     Price: $45.00 USD
 - [Drawstring Long Sleeve Top and Shorts Lounge Set - Brinxx Couture](https://www.brinxxcouture.com/products/drawstring-long-sleeve-top-and-shorts-lounge-set): Experience ultimate comfort and style with our Drawstring Long Sleeve Top and Shorts Lounge Set. The drawstring design allows for a perfect fit.
-  Updated: 2025-10-23T17:30:58Z
+  Updated: 2025-10-24T23:21:07Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -22045,15 +22045,15 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Drawstring-Long-Sleeve-Top-and-Shorts-Lounge-Set-Brinxx-Couture-7833_f649b4c4-31b9-490a-a999-d715291eec52.jpg?v=1736049829
     Price: $41.54 USD
   - [Pink Purple / L](https://www.brinxxcouture.com/products/drawstring-long-sleeve-top-and-shorts-lounge-set?variant=43491604005046)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Drawstring-Long-Sleeve-Top-and-Shorts-Lounge-Set-Brinxx-Couture-7833_f649b4c4-31b9-490a-a999-d715291eec52.jpg?v=1736049829
     Price: $41.54 USD
   - [Pink Purple / XL](https://www.brinxxcouture.com/products/drawstring-long-sleeve-top-and-shorts-lounge-set?variant=43491604037814)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Drawstring-Long-Sleeve-Top-and-Shorts-Lounge-Set-Brinxx-Couture-7833_f649b4c4-31b9-490a-a999-d715291eec52.jpg?v=1736049829
     Price: $41.54 USD
 - [Lapel Collar Sherpa Coat - Brinxx Couture](https://www.brinxxcouture.com/products/lapel-collar-sherpa-coat): Step out in style with our Lapel Collar Sherpa Coat! This coat features a lapel collar design that adds a touch of sophistication to your ensemble.
-  Updated: 2025-10-17T19:29:21Z
+  Updated: 2025-10-24T17:15:07Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -23179,13 +23179,13 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Notch-Lapel-Woven-Coat-with-Side-Pockets-Brinxx-Couture-2936.jpg?v=1730297108
     Price: $40.00 USD
 - [Cable-Knit Round Neck Sweater Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress): Wrap yourself in cozy comfort and timeless style with our Cable-Knit Round Neck Sweater Dress! Made from soft, high-quality materials.
-  Updated: 2025-10-24T12:21:26Z
+  Updated: 2025-10-25T12:00:41Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Cable-Knit-Round-Neck-Sweater-Dress-Brinxx-Couture-228.jpg?v=1730297216
   - [Tan / S](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress?variant=43426819506358)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Cable-Knit-Round-Neck-Sweater-Dress-Brinxx-Couture-228.jpg?v=1730297216
     Price: $49.99 USD
   - [Tan / M](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress?variant=43426819539126)
@@ -23201,7 +23201,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Cable-Knit-Round-Neck-Sweater-Dress-Brinxx-Couture-228.jpg?v=1730297216
     Price: $49.99 USD
   - [Black / S](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress?variant=43426819637430)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Cable-Knit-Round-Neck-Sweater-Dress-Brinxx-Couture-2059.webp?v=1730297243
     Price: $49.99 USD
   - [Black / M](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress?variant=43426819670198)
@@ -24224,7 +24224,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Faux-Fur-Large-Collared-Coat-Brinxx-Couture-4154.jpg?v=1730298299
     Price: $69.99 USD
 - [Eclipse Elegence Square Sunglasses - Brinxx Couture](https://www.brinxxcouture.com/products/eclipse-elegence-square-sunglasses): Shine bright with our Eclipse Elegence Square Sunglasses! These stylish frames are designed to make a statement and protect your eyes with UV400 lenses.
-  Updated: 2025-10-20T23:51:05Z
+  Updated: 2025-10-24T23:02:38Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -25366,7 +25366,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/PU-Leather-Sling-Shoulder-Bag-Brinxx-Couture-7979.webp?v=1730300291
     Price: $19.99 USD
 - [Geometric Round Neck Long Sleeve Sweater - Brinxx Couture](https://www.brinxxcouture.com/products/geometric-round-neck-long-sleeve-sweater): Stay warm and stylish with our Geometric Round Neck Long Sleeve Sweater. This cozy sweater features a unique geometric design on the round neck and long sleeves.
-  Updated: 2025-10-24T03:14:28Z
+  Updated: 2025-10-24T23:53:52Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -25733,7 +25733,7 @@
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/18K-Gold-Plated-Stainless-Steel-Stud-Earring-Brinxx-Couture-9396.jpg?v=1733888456
   Price: $15.00 USD
 - [Velvet Button Up Long Sleeve Shirt - Brinxx Couture](https://www.brinxxcouture.com/products/button-up-long-sleeve-shirt): Discover the versatility and style of our Velvet Button Up Long Sleeve Shirt! With its classic design and comfortable fit, this shirt is perfect for any occasion.
-  Updated: 2025-10-24T09:20:38Z
+  Updated: 2025-10-25T10:00:42Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -30920,7 +30920,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01c0OMSC27OVAvLchnn__3296187787-0-cib.jpg?v=1740606053
     Price: $49.99 USD
 - [Plus Size Sexy Mesh Sexy Hip Dress - Brinxx Couture](https://www.brinxxcouture.com/products/plus-size-sexy-mesh-sexy-hip-dress): Plus Size Sexy Mesh Sexy Hip Dress Flaunt your curves with the Plus Size Sexy Mesh Sexy Hip Dress! Made from high-quality mesh fabric, Perfect for a night out.
-  Updated: 2025-08-22T19:26:12Z
+  Updated: 2025-10-25T04:24:19Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -33401,7 +33401,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/5a399dda-d4b0-4a18-8025-7545e0a97c84-Max-Origin.webp?v=1747318949
     Price: $49.99 USD
 - [Textured Single Shoulder Maxi Dress - Brinxx Couture](https://www.brinxxcouture.com/products/textured-single-shoulder-maxi-dress): Dress Indulge in luxury with our Textured Single Shoulder Maxi Dress. With a sophisticated design, this dress features a single shoulder and a textured fabric.
-  Updated: 2025-10-14T19:30:31Z
+  Updated: 2025-10-24T21:57:17Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -35765,7 +35765,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/a9c1425f-6a44-44ab-9722-cf5a507c010c-Max-Origin.webp?v=1759770640
     Price: $54.99 USD
 - [Long Sleeved Leather Bow Dress](https://www.brinxxcouture.com/products/long-sleeved-leather-bow-dress): Style: ElegantFit: SlimFabric: PolyesterPattern: SolidElement: Tie,Ruched,PatchworkNeckline: Crew NeckSleeve Type: RegularSleeve Length: Long SleeveProduct Type: Bodycon DressOccasion: DailyDress/Skirt Length: ShortMain Composition: PolyesterSeason: Spring/FallF00333888
-  Updated: 2025-10-24T13:52:14Z
+  Updated: 2025-10-25T01:58:46Z
   Vendor: LingSharp
   Product Type: 
   Availability: Available
@@ -35795,7 +35795,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN011OyXzX2L3LZxTgfVz__2220598849636-0-cib.jpg?v=1761313923
     Price: $34.99 USD
 - [Women Artificial Mink Hair Fur Coat Mid Length Hooded Coat Fur Casual Warm Loose Office](https://www.brinxxcouture.com/products/women-artificial-mink-hair-fur-coat-mid-length-hooded-coat-fur-casual-warm-loose-office): Style: CasualFit: LooseFabric: Faux FurPattern: SolidElement: hook closureTop Length: LongClosure Type: OthersProduct Type: Fur & Faux FurMain Composition: PolyesterSeason: Fall/WinterF00329377
-  Updated: 2025-10-24T13:52:12Z
+  Updated: 2025-10-25T01:52:10Z
   Vendor: Zimo
   Product Type: 
   Availability: Available
@@ -35828,50 +35828,52 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN017KSDGw1DpQ2dGewiB__3240830265-0-cib_f6f8e6ea-cbfa-40b1-86bd-03e4fac1f554.jpg?v=1761313923
     Price: $139.99 USD
-- [Loose Casual Track Suit](https://www.brinxxcouture.com/products/loose-casual-track-suit): Style: SportyFit: LooseFabric: CottonPattern: SolidElement: Pocket,ZipperSleeve Length: Long SleeveRise: High RiseBottom Length: Full (Pant)Main Composition: CottonSeason: Spring/FallF00334112
-  Updated: 2025-10-24T13:52:50Z
-  Vendor: YiGlo
+- [Loose Casual Track Suit](https://www.brinxxcouture.com/products/loose-casual-track-suit): Style: Sporty Fit: Loose Fabric: Cotton Pattern: Solid Element: Pocket, Zipper Sleeve Length: Long Sleeve Rise: High Rise Bottom Length: Full (Pant) Main Composition: Cotton Season: Spring/Fall F00334112
+  Updated: 2025-10-25T01:52:19Z
+  Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/1431380449199915008.jpg?v=1761324580
   - [S / Light flower gray](https://www.brinxxcouture.com/products/loose-casual-track-suit?variant=44355927670966)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01VbP1SD2ENlwG8kFBn__947108733-0-cib.jpg?v=1761313944
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01VbP1SD2ENlwG8kFBn__947108733-0-cib.jpg?v=1761324580
     Price: $69.99 USD
   - [M / Light flower gray](https://www.brinxxcouture.com/products/loose-casual-track-suit?variant=44355927703734)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01VbP1SD2ENlwG8kFBn__947108733-0-cib.jpg?v=1761313944
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01VbP1SD2ENlwG8kFBn__947108733-0-cib.jpg?v=1761324580
     Price: $69.99 USD
   - [L / Light flower gray](https://www.brinxxcouture.com/products/loose-casual-track-suit?variant=44355927736502)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01VbP1SD2ENlwG8kFBn__947108733-0-cib.jpg?v=1761313944
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01VbP1SD2ENlwG8kFBn__947108733-0-cib.jpg?v=1761324580
     Price: $69.99 USD
   - [XL / Light flower gray](https://www.brinxxcouture.com/products/loose-casual-track-suit?variant=44355927769270)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01VbP1SD2ENlwG8kFBn__947108733-0-cib.jpg?v=1761313944
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01VbP1SD2ENlwG8kFBn__947108733-0-cib.jpg?v=1761324580
     Price: $69.99 USD
 - [Letter Graphic Long Sleeve Sweat Suit](https://www.brinxxcouture.com/products/letter-graphic-long-sleeve-sweat-suit): Style: SportyFit: LooseFabric: PolyesterPattern: GraphicElement: PocketTop Length: RegularSleeve Length: Long SleeveProduct Type: Hoodies & SweatshirtsMain Composition: PolyesterSeason: Fall/WinterF00334116
-  Updated: 2025-10-24T13:52:55Z
+  Updated: 2025-10-25T01:52:17Z
   Vendor: YiGlo
   Product Type: 
   Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/1431369576523759616.jpg?v=1761324458
   - [S / Black](https://www.brinxxcouture.com/products/letter-graphic-long-sleeve-sweat-suit?variant=44355927539894)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01ahTq9j2ENlwE6w8SH__947108733-0-cib.jpg?v=1761313950
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01ahTq9j2ENlwE6w8SH__947108733-0-cib.jpg?v=1761324498
     Price: $39.99 USD
   - [M / Black](https://www.brinxxcouture.com/products/letter-graphic-long-sleeve-sweat-suit?variant=44355927572662)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01ahTq9j2ENlwE6w8SH__947108733-0-cib.jpg?v=1761313950
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01ahTq9j2ENlwE6w8SH__947108733-0-cib.jpg?v=1761324498
     Price: $39.99 USD
   - [L / Black](https://www.brinxxcouture.com/products/letter-graphic-long-sleeve-sweat-suit?variant=44355927605430)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01ahTq9j2ENlwE6w8SH__947108733-0-cib.jpg?v=1761313950
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01ahTq9j2ENlwE6w8SH__947108733-0-cib.jpg?v=1761324498
     Price: $39.99 USD
   - [XL / Black](https://www.brinxxcouture.com/products/letter-graphic-long-sleeve-sweat-suit?variant=44355927638198)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01ahTq9j2ENlwE6w8SH__947108733-0-cib.jpg?v=1761313950
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01ahTq9j2ENlwE6w8SH__947108733-0-cib.jpg?v=1761324498
     Price: $39.99 USD
 - [V Neck Long Faux Fur Overcoat](https://www.brinxxcouture.com/products/v-neck-long-faux-fur-overcoat): Style: Elegant Fit: Loose Fabric: Faux Fur Pattern: Solid Element: Pocket,hook closure Top Length: Extra-long Closure Type: Others Product Type: Fur & Faux Fur Main Composition: Polyester Season: Fall/Winter F00334138
-  Updated: 2025-10-24T13:53:07Z
+  Updated: 2025-10-25T05:40:05Z
   Vendor: Richy
   Product Type: 
   Availability: Available
@@ -35972,193 +35974,193 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01RX7VwD1p5Zny2J7Xi__3334035309-0-cib.jpg?v=1761313970
     Price: $99.99 USD
 - [Knee Length Faux Fur Coat](https://www.brinxxcouture.com/products/knee-length-faux-fur-coat): Style: Elegant Fit: Loose Fabric: Faux Fur Pattern: Solid Element: Pocket,hook closure Top Length: Extra-long Closure Type: Others Product Type: Fur & Faux Fur Main Composition: Polyester Season: Fall/Winter F00334136
-  Updated: 2025-10-24T13:52:53Z
-  Vendor: Richy
+  Updated: 2025-10-25T02:10:51Z
+  Vendor: Brinxx Cuture
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN018yH5DO1p5ZoIC4K23__3334035309-0-cib.jpg?v=1761313962
   - [S / White Silk](https://www.brinxxcouture.com/products/knee-length-faux-fur-coat?variant=44355928719542)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN018yH5DO1p5ZoIC4K23__3334035309-0-cib_bf839f84-07b2-4a63-a1f0-6450e41fcd21.jpg?v=1761313962
-    Price: $76.74 USD
+    Price: $99.99 USD
   - [M / White Silk](https://www.brinxxcouture.com/products/knee-length-faux-fur-coat?variant=44355928752310)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN018yH5DO1p5ZoIC4K23__3334035309-0-cib_bf839f84-07b2-4a63-a1f0-6450e41fcd21.jpg?v=1761313962
-    Price: $76.74 USD
+    Price: $99.99 USD
   - [L / White Silk](https://www.brinxxcouture.com/products/knee-length-faux-fur-coat?variant=44355928785078)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN018yH5DO1p5ZoIC4K23__3334035309-0-cib_bf839f84-07b2-4a63-a1f0-6450e41fcd21.jpg?v=1761313962
-    Price: $76.74 USD
+    Price: $99.99 USD
   - [XL / White Silk](https://www.brinxxcouture.com/products/knee-length-faux-fur-coat?variant=44355928817846)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN018yH5DO1p5ZoIC4K23__3334035309-0-cib_bf839f84-07b2-4a63-a1f0-6450e41fcd21.jpg?v=1761313962
-    Price: $76.74 USD
+    Price: $99.99 USD
   - [2XL / White Silk](https://www.brinxxcouture.com/products/knee-length-faux-fur-coat?variant=44355928850614)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN018yH5DO1p5ZoIC4K23__3334035309-0-cib_bf839f84-07b2-4a63-a1f0-6450e41fcd21.jpg?v=1761313962
-    Price: $76.74 USD
+    Price: $99.99 USD
   - [S / Camel Wire](https://www.brinxxcouture.com/products/knee-length-faux-fur-coat?variant=44355928883382)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN010SOQ4Y1p5ZoIC3v5x__3334035309-0-cib.jpg?v=1761313963
-    Price: $76.74 USD
+    Price: $99.99 USD
   - [M / Camel Wire](https://www.brinxxcouture.com/products/knee-length-faux-fur-coat?variant=44355928916150)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN010SOQ4Y1p5ZoIC3v5x__3334035309-0-cib.jpg?v=1761313963
-    Price: $76.74 USD
+    Price: $99.99 USD
   - [L / Camel Wire](https://www.brinxxcouture.com/products/knee-length-faux-fur-coat?variant=44355928948918)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN010SOQ4Y1p5ZoIC3v5x__3334035309-0-cib.jpg?v=1761313963
-    Price: $76.74 USD
+    Price: $99.99 USD
   - [XL / Camel Wire](https://www.brinxxcouture.com/products/knee-length-faux-fur-coat?variant=44355928981686)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN010SOQ4Y1p5ZoIC3v5x__3334035309-0-cib.jpg?v=1761313963
-    Price: $76.74 USD
+    Price: $99.99 USD
   - [2XL / Camel Wire](https://www.brinxxcouture.com/products/knee-length-faux-fur-coat?variant=44355929014454)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN010SOQ4Y1p5ZoIC3v5x__3334035309-0-cib.jpg?v=1761313963
-    Price: $76.74 USD
+    Price: $99.99 USD
   - [S / Yellow with Silk](https://www.brinxxcouture.com/products/knee-length-faux-fur-coat?variant=44355929047222)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01ZNhgCi1p5ZoI6mj4G__3334035309-0-cib.jpg?v=1761313963
-    Price: $76.74 USD
+    Price: $99.99 USD
   - [M / Yellow with Silk](https://www.brinxxcouture.com/products/knee-length-faux-fur-coat?variant=44355929079990)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01ZNhgCi1p5ZoI6mj4G__3334035309-0-cib.jpg?v=1761313963
-    Price: $76.74 USD
+    Price: $99.99 USD
   - [L / Yellow with Silk](https://www.brinxxcouture.com/products/knee-length-faux-fur-coat?variant=44355929112758)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01ZNhgCi1p5ZoI6mj4G__3334035309-0-cib.jpg?v=1761313963
-    Price: $76.74 USD
+    Price: $99.99 USD
   - [XL / Yellow with Silk](https://www.brinxxcouture.com/products/knee-length-faux-fur-coat?variant=44355929145526)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01ZNhgCi1p5ZoI6mj4G__3334035309-0-cib.jpg?v=1761313963
-    Price: $76.74 USD
+    Price: $99.99 USD
   - [2XL / Yellow with Silk](https://www.brinxxcouture.com/products/knee-length-faux-fur-coat?variant=44355929178294)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01ZNhgCi1p5ZoI6mj4G__3334035309-0-cib.jpg?v=1761313963
-    Price: $76.74 USD
+    Price: $99.99 USD
   - [S / White](https://www.brinxxcouture.com/products/knee-length-faux-fur-coat?variant=44355929211062)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01p6MfEO1p5ZoHjcggs__3334035309-0-cib.jpg?v=1761313964
-    Price: $76.74 USD
+    Price: $99.99 USD
   - [M / White](https://www.brinxxcouture.com/products/knee-length-faux-fur-coat?variant=44355929243830)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01p6MfEO1p5ZoHjcggs__3334035309-0-cib.jpg?v=1761313964
-    Price: $76.74 USD
+    Price: $99.99 USD
   - [L / White](https://www.brinxxcouture.com/products/knee-length-faux-fur-coat?variant=44355929276598)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01p6MfEO1p5ZoHjcggs__3334035309-0-cib.jpg?v=1761313964
-    Price: $76.74 USD
+    Price: $99.99 USD
   - [XL / White](https://www.brinxxcouture.com/products/knee-length-faux-fur-coat?variant=44355929309366)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01p6MfEO1p5ZoHjcggs__3334035309-0-cib.jpg?v=1761313964
-    Price: $76.74 USD
+    Price: $99.99 USD
   - [2XL / White](https://www.brinxxcouture.com/products/knee-length-faux-fur-coat?variant=44355929342134)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01p6MfEO1p5ZoHjcggs__3334035309-0-cib.jpg?v=1761313964
-    Price: $76.74 USD
+    Price: $99.99 USD
   - [S / royal blue](https://www.brinxxcouture.com/products/knee-length-faux-fur-coat?variant=44355929374902)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN014dWSYS1p5ZoHHeJHM__3334035309-0-cib.jpg?v=1761313963
-    Price: $76.74 USD
+    Price: $99.99 USD
   - [M / royal blue](https://www.brinxxcouture.com/products/knee-length-faux-fur-coat?variant=44355929407670)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN014dWSYS1p5ZoHHeJHM__3334035309-0-cib.jpg?v=1761313963
-    Price: $76.74 USD
+    Price: $99.99 USD
   - [L / royal blue](https://www.brinxxcouture.com/products/knee-length-faux-fur-coat?variant=44355929440438)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN014dWSYS1p5ZoHHeJHM__3334035309-0-cib.jpg?v=1761313963
-    Price: $76.74 USD
+    Price: $99.99 USD
   - [XL / royal blue](https://www.brinxxcouture.com/products/knee-length-faux-fur-coat?variant=44355929473206)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN014dWSYS1p5ZoHHeJHM__3334035309-0-cib.jpg?v=1761313963
-    Price: $76.74 USD
+    Price: $99.99 USD
   - [2XL / royal blue](https://www.brinxxcouture.com/products/knee-length-faux-fur-coat?variant=44355929505974)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN014dWSYS1p5ZoHHeJHM__3334035309-0-cib.jpg?v=1761313963
-    Price: $76.74 USD
+    Price: $99.99 USD
   - [S / Black](https://www.brinxxcouture.com/products/knee-length-faux-fur-coat?variant=44355929538742)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01Rj1iYa1p5ZoHkKuEu__3334035309-0-cib.jpg?v=1761313962
-    Price: $76.74 USD
+    Price: $99.99 USD
   - [M / Black](https://www.brinxxcouture.com/products/knee-length-faux-fur-coat?variant=44355929571510)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01Rj1iYa1p5ZoHkKuEu__3334035309-0-cib.jpg?v=1761313962
-    Price: $76.74 USD
+    Price: $99.99 USD
   - [L / Black](https://www.brinxxcouture.com/products/knee-length-faux-fur-coat?variant=44355929604278)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01Rj1iYa1p5ZoHkKuEu__3334035309-0-cib.jpg?v=1761313962
-    Price: $76.74 USD
+    Price: $99.99 USD
   - [XL / Black](https://www.brinxxcouture.com/products/knee-length-faux-fur-coat?variant=44355929637046)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01Rj1iYa1p5ZoHkKuEu__3334035309-0-cib.jpg?v=1761313962
-    Price: $76.74 USD
+    Price: $99.99 USD
   - [2XL / Black](https://www.brinxxcouture.com/products/knee-length-faux-fur-coat?variant=44355929669814)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01Rj1iYa1p5ZoHkKuEu__3334035309-0-cib.jpg?v=1761313962
-    Price: $76.74 USD
+    Price: $99.99 USD
   - [S / Brown](https://www.brinxxcouture.com/products/knee-length-faux-fur-coat?variant=44355929702582)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01RD18QA1p5ZoHAzJ31__3334035309-0-cib.jpg?v=1761313963
-    Price: $76.74 USD
+    Price: $99.99 USD
   - [M / Brown](https://www.brinxxcouture.com/products/knee-length-faux-fur-coat?variant=44355929735350)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01RD18QA1p5ZoHAzJ31__3334035309-0-cib.jpg?v=1761313963
-    Price: $76.74 USD
+    Price: $99.99 USD
   - [L / Brown](https://www.brinxxcouture.com/products/knee-length-faux-fur-coat?variant=44355929768118)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01RD18QA1p5ZoHAzJ31__3334035309-0-cib.jpg?v=1761313963
-    Price: $76.74 USD
+    Price: $99.99 USD
   - [XL / Brown](https://www.brinxxcouture.com/products/knee-length-faux-fur-coat?variant=44355929800886)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01RD18QA1p5ZoHAzJ31__3334035309-0-cib.jpg?v=1761313963
-    Price: $76.74 USD
+    Price: $99.99 USD
   - [2XL / Brown](https://www.brinxxcouture.com/products/knee-length-faux-fur-coat?variant=44355929833654)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01RD18QA1p5ZoHAzJ31__3334035309-0-cib.jpg?v=1761313963
-    Price: $76.74 USD
+    Price: $99.99 USD
   - [S / Coral Red](https://www.brinxxcouture.com/products/knee-length-faux-fur-coat?variant=44355929866422)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01hpXrTV1p5ZoG0aPbR__3334035309-0-cib.jpg?v=1761313962
-    Price: $76.74 USD
+    Price: $99.99 USD
   - [M / Coral Red](https://www.brinxxcouture.com/products/knee-length-faux-fur-coat?variant=44355929899190)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01hpXrTV1p5ZoG0aPbR__3334035309-0-cib.jpg?v=1761313962
-    Price: $76.74 USD
+    Price: $99.99 USD
   - [L / Coral Red](https://www.brinxxcouture.com/products/knee-length-faux-fur-coat?variant=44355929931958)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01hpXrTV1p5ZoG0aPbR__3334035309-0-cib.jpg?v=1761313962
-    Price: $76.74 USD
+    Price: $99.99 USD
   - [XL / Coral Red](https://www.brinxxcouture.com/products/knee-length-faux-fur-coat?variant=44355929964726)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01hpXrTV1p5ZoG0aPbR__3334035309-0-cib.jpg?v=1761313962
-    Price: $76.74 USD
+    Price: $99.99 USD
   - [2XL / Coral Red](https://www.brinxxcouture.com/products/knee-length-faux-fur-coat?variant=44355929997494)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01hpXrTV1p5ZoG0aPbR__3334035309-0-cib.jpg?v=1761313962
-    Price: $76.74 USD
+    Price: $99.99 USD
   - [S / Apricot](https://www.brinxxcouture.com/products/knee-length-faux-fur-coat?variant=44355930030262)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01Umj0NU1p5ZoHHdhsl__3334035309-0-cib.jpg?v=1761313962
-    Price: $76.74 USD
+    Price: $99.99 USD
   - [M / Apricot](https://www.brinxxcouture.com/products/knee-length-faux-fur-coat?variant=44355930063030)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01Umj0NU1p5ZoHHdhsl__3334035309-0-cib.jpg?v=1761313962
-    Price: $76.74 USD
+    Price: $99.99 USD
   - [L / Apricot](https://www.brinxxcouture.com/products/knee-length-faux-fur-coat?variant=44355930095798)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01Umj0NU1p5ZoHHdhsl__3334035309-0-cib.jpg?v=1761313962
-    Price: $76.74 USD
+    Price: $99.99 USD
   - [XL / Apricot](https://www.brinxxcouture.com/products/knee-length-faux-fur-coat?variant=44355930128566)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01Umj0NU1p5ZoHHdhsl__3334035309-0-cib.jpg?v=1761313962
-    Price: $76.74 USD
+    Price: $99.99 USD
   - [2XL / Apricot](https://www.brinxxcouture.com/products/knee-length-faux-fur-coat?variant=44355930161334)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01Umj0NU1p5ZoHHdhsl__3334035309-0-cib.jpg?v=1761313962
-    Price: $76.74 USD
+    Price: $99.99 USD
 - [Fur Coat Imitation Rabbit Fur Collared Thickening Warm with Belt Coat Women Plush](https://www.brinxxcouture.com/products/fur-coat-imitation-rabbit-fur-collared-thickening-warm-with-belt-coat-women-plush): Style: ElegantFit: LooseFabric: PolyesterPattern: SolidElement: Belted,PocketTop Length: LongClosure Type: OthersProduct Type: Fur & Faux FurMain Composition: PolyesterSeason: Fall/WinterF00329047
-  Updated: 2025-10-24T13:53:03Z
+  Updated: 2025-10-25T03:52:42Z
   Vendor: Sunrise
   Product Type: 
   Availability: Available
@@ -36211,7 +36213,7 @@
   Updated: 2025-10-02T17:11:54Z
   Total Products: 25
 - [Trendy Women’s Tops | Brinxx Couture](https://www.brinxxcouture.com/collections/womens-tops): Discover our collection of trendy tops for women. From casual tees to dressy blouses, find the perfect top for any occasion at Brinxx Couture.
-  Updated: 2025-10-21T08:02:39Z
+  Updated: 2025-10-25T08:00:05Z
   Total Products: 50
 - [Women's Pants | Shop the Latest Styles | Brinxx Couture](https://www.brinxxcouture.com/collections/bottoms): Brinxx Couture offers a wide variety of women's pants in the latest styles. Find the perfect pair of pants to flatter your figure and keep you comfortable.
   Updated: 2025-10-02T17:11:54Z
@@ -36280,7 +36282,7 @@
   Updated: 2025-10-02T17:11:55Z
   Total Products: 3
 - [New Arrivals | Latest Fashion, Jewelry & Accessories Online](https://www.brinxxcouture.com/collections/new-arrivals-fashion-jewelry-accessories): Shop the latest fashion, jewelry, and accessories in our New Arrivals collection. Fresh styles added weekly. Discover trending pieces before they sell out.
-  Updated: 2025-10-24T13:53:10Z
+  Updated: 2025-10-24T16:46:31Z
   Total Products: 96
 - [Best Sellers in Women’s Clothing | Trendy & Stylish Outfits](https://www.brinxxcouture.com/collections/best-sellers): Discover the best sellers in women’s clothing at our store. Shop trendy, stylish outfits perfect for every occasion. Free shipping on best sellers!
   Updated: 2025-10-02T17:11:55Z
@@ -36295,7 +36297,7 @@
   Updated: 2025-10-02T17:11:56Z
   Total Products: 16
 - [Stylish Women's Coats | Winter, Trench, Wool & More](https://www.brinxxcouture.com/collections/affordable-womens-coats-and-jackets): Explore our collection of women's coats. Shop winter, trench, wool, and more. Stay warm and stylish with our latest arrivals. Perfect for every season. Shop now
-  Updated: 2025-10-24T13:53:20Z
+  Updated: 2025-10-24T16:46:31Z
   Total Products: 38
 - [Fashionable Women’s Scarves | Brinxx Couture](https://www.brinxxcouture.com/collections/scarves): Add a touch of elegance to your outfit with our fashionable scarves. Shop a variety of styles and colors at Brinxx Couture.
   Updated: 2025-10-02T17:11:56Z
