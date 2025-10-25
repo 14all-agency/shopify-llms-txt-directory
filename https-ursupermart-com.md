@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2024-06-01T16:53:27Z
 - Contact Email: Support@ursupermart.com
-- Updated At: 2025-10-25T12:00:54.595Z
+- Updated At: 2025-10-25T16:00:55.394Z
 
 ## Products
 
@@ -476,7 +476,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/tactical-military-backpack-ultimate-outdoor-gear-multiple-colors-909160.webp?v=1726948930
     Price: $48.95 USD
 - [Shop for Neymar Jr Backpack Lunch Bag Set Perfect for Kids](https://ursupermart.com/products/personalized-kids-soccer-backpack-custom-name): Shop for Neymar Jr backpack lunch bag and pencil case set, perfect for school with padded straps, fresh food storage, and organized pencils. Get yours today!
-  Updated: 2025-10-25T01:18:02Z
+  Updated: 2025-10-25T14:38:05Z
   Vendor: S1B|S1|Meta - Updated - Dsers** + Blog
   Product Type: Backpack set
   Availability: Available
@@ -1338,13 +1338,13 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/gold-skull-earrings-clear-rhinestones-closeup.webp?v=1733613293
     Price: $14.95 USD
 - [Tote Bags for Women Stylish Chain Shoulder Bag](https://ursupermart.com/products/tote-bags-for-women-stylish-chain-shoulder): Tote bags for women provide spacious storage, a secure zip closure, and a chic chain strap to elevate your daily style. Discover yours today!
-  Updated: 2025-10-23T17:13:18Z
+  Updated: 2025-10-25T15:20:45Z
   Vendor: S1B|S1|S1B|Meta - Trendsi**-UP
   Product Type: Women's tote bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/textured-handbag-gold-chain-strap.webp?v=1728171862
   - [White](https://ursupermart.com/products/tote-bags-for-women-stylish-chain-shoulder?variant=41452238897242)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/elegant-textured-tote-gold-chain.webp?v=1728171862
     Price: $29.95 USD
   - [Pink](https://ursupermart.com/products/tote-bags-for-women-stylish-chain-shoulder?variant=41452238962778)
@@ -2039,7 +2039,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/festive-christmas-tree-earrings-set.webp?v=1730927629
   Price: $12.95 USD
 - [Plaid Wool Coats – Timeless Fall & Winter Fashion](https://ursupermart.com/products/plaid-wool-coats-collection): Stay warm in style with our plaid wool coat collection. Featuring vibrant patterns, soft wool blend fabric, and versatile designs perfect for layering.
-  Updated: 2025-10-23T17:15:04Z
+  Updated: 2025-10-25T15:29:00Z
   Vendor: S1B|Meta - Trendsi
   Product Type: trench coat
   Availability: Available
@@ -17425,7 +17425,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/pet-water-dispenser-cat-drinking-indoor.webp?v=1752292758
   Price: $49.95 USD
 - [Decorative wax lamp for a calming, mesmerizing glow](https://ursupermart.com/products/decorative-wax-lamp-calming-mesmerizing-glow): Decorative wax lamp creates a mesmerizing, tranquil glow, transforming any space into a relaxing oasis with its unique, captivating display. Enhance your mood and decor; shop now!
-  Updated: 2025-10-23T17:51:15Z
+  Updated: 2025-10-25T13:25:35Z
   Vendor: S1B|Make | CJ
   Product Type: Decorative wax lamp
   Availability: Available
@@ -28857,8 +28857,8 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/317F1BB33A0FC719012706F65348288A.jpg?v=1761361829
     Price: $9.99 USD
 - [Hot selling Christmas window stickers, glass doors and windows, electrostatic double-sided wall stickers, Christmas peripherals](https://ursupermart.com/products/hot-selling-christmas-window-stickers-glass-doors-and-windows-electrostatic-double-sided-wall-stickers-christmas-peripherals): Material: PVCAdhesive method: electrostatic typeStyle: Modern and minimalistColor: Red Deer Elder 20X30cm (4-piece set), Green Deer Elder 20X30cm (4-piece set), Candy Elder 20X30cm (4-piece set), Snowflake 20X30cm 4-piece set, 3D Christmas 20X30cm (4-piece set), Bearded Elder 20X30cm (4-piece set)Pattern: Cartoon Anime
-  Updated: 2025-10-25T03:14:32Z
-  Vendor: eprolo
+  Updated: 2025-10-25T13:22:20Z
+  Vendor: @eprolo
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/E38077FC66C293C8F5655C1C622A2EAB.jpg?v=1761361901
