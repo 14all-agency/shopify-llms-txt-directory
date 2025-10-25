@@ -6,7 +6,7 @@
 - Timezone: Asia/Shanghai
 - Created At: 2021-09-03T03:31:14Z
 - Contact Email: support@oupes.com
-- Updated At: 2025-10-25T16:00:38.304Z
+- Updated At: 2025-10-25T20:00:50.732Z
 
 ## Products
 
@@ -122,7 +122,7 @@
     Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/oupes-mega-3-home-backup-portable-power-station-3600w-3072wh-897054.webp?v=1759221005
     Price: $2,359.00 USD
 - [OUPES B2 Multi-functional Extra Battery](https://oupes.com/products/b2-battery): Discover the OUPES B2 Multi-functional Extra Battery—portable RV power with LiFePO4 safety and smart app control. Charge anywhere, anytime with ease.
-  Updated: 2025-10-24T23:14:26Z
+  Updated: 2025-10-25T18:10:31Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
@@ -157,7 +157,7 @@
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/mega-5-2240w-solar-panel-solar-generator-kit-545398.webp?v=1741944190
   Price: $1,899.00 USD
 - [OUPES Mega 2 Home Backup & Portable Power Station | 2500W, 2048Wh](https://oupes.com/products/oupes-mega-2-home-backup-portable-power-station-2500w-2048wh): OUPES Mega 2 Power Station with 2500W,2048Wh inverter. LiFePO4 battery, expandable to 10.24kWh. 15 outputs, HD display, full charge in 0.6 hrs. Ideal for backup and portable use.
-  Updated: 2025-10-25T11:01:29Z
+  Updated: 2025-10-25T18:56:15Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
@@ -531,7 +531,7 @@
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/exodus-600-100w-solar-panel-solar-generator-kit-385858.webp?v=1741944437
   Price: $229.00 USD
 - [OUPES Exodus 600 – Portable Solar Generator with 240W Panel](https://oupes.com/products/exodus-600-240w-solar-panel-solar-generator-kit): Stay powered anywhere with the OUPES Exodus 600 solar generator and 240W panel. Perfect for off-grid living, camping, and emergencies. Clean, portable, and solar-ready energy anytime you need it.
-  Updated: 2025-10-21T03:40:01Z
+  Updated: 2025-10-25T18:42:01Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
