@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2025-09-22T20:38:47Z
 - Contact Email: gemzmorris890@gmail.com
-- Updated At: 2025-10-25T00:00:40.548Z
+- Updated At: 2025-10-25T04:00:39.378Z
 
 ## Products
 
@@ -5197,7 +5197,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/9b25af2d77424c8d8c9eb3999bcb3d5a-Max-Origin.webp?v=1760995514
     Price: £29.99 GBP
 - [Sequin Santa Striped Round Neck Long Sleeve Sweatshirt](https://trendytradesforyou.myshopify.com/products/sequin-santa-striped-round-neck-long-sleeve-sweatshirt): Features: Sequin Sheer: Opaque Stretch: Slightly stretchy Material composition: 70% polyester, 25% cotton, 5% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Bust Shoulder Sleeve Length Top Length S 4 46.5 27.6 17.5 26.4 M 6/8 48.8 28.7 17.7 27.2 L 10/12 51.2 29.9 17.9 28 XL 14/16 54.3 31.5 17.9 28.7
-  Updated: 2025-10-24T08:00:52Z
+  Updated: 2025-10-25T02:40:51Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5257,7 +5257,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/98011ac2-67db-46a5-9ea2-c2ee418c06d0-Max-Origin.webp?v=1760995912
     Price: £32.99 GBP
 - [Solid Color Oversize Slit Sweatshirt and Ribbed Leggings 2pcs Set](https://trendytradesforyou.myshopify.com/products/solid-color-oversize-slit-sweatshirt-and-ribbed-leggings-2pcs-set): Features:Basic style Number of pieces:Two-piece Stretch:Slightly stretchy Material composition:65% polyester, 35% cotton Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Top Length Bust Bottom Length Hip S 24.4 27 42.9 38.6 27.6 M 26.8 27.8 45.3 39 29.9 L 29.1 28.5 47.6 39.4 32.3 XL 32.3 29.3 50.8 39.8 35.4
-  Updated: 2025-10-24T23:40:56Z
+  Updated: 2025-10-25T02:20:42Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5655,7 +5655,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/bb21eb4bd50a4f3c8930a1de19db23a4-Max-Origin.webp?v=1761052163
     Price: £24.99 GBP
 - [Cable-Knit Round Neck Sweater Dress](https://trendytradesforyou.myshopify.com/products/cable-knit-round-neck-sweater-dress): Features: Cable-Knit Stretch: Slightly stretchy Material composition: 100% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Bust Shoulder Sleeve Length Hip Length S 4 42.5 22.4 21.7 38.2 31.9 M 6/8 44.9 23.6 21.7 40.6 32.7 L 10/12 47.2 24.8 21.7 42.9 33.5 XL 14/16 50.4 26.4 21.7 46.1 34.3
-  Updated: 2025-10-24T22:20:36Z
+  Updated: 2025-10-25T03:40:39Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5677,7 +5677,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/3536365a-485e-4815-b659-84d567aff8e7-Max.webp?v=1761055977
     Price: £37.99 GBP
   - [Black / S](https://trendytradesforyou.myshopify.com/products/cable-knit-round-neck-sweater-dress?variant=52629554692429)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/ae7742c3-572d-4a79-821d-c94489999499-Max.webp?v=1761055976
     Price: £37.99 GBP
   - [Black / M](https://trendytradesforyou.myshopify.com/products/cable-knit-round-neck-sweater-dress?variant=52629554725197)
@@ -6915,7 +6915,7 @@
     Image: https://cdn.shopify.com/s/files/1/0920/0002/6957/files/2af3324d-3e9e-439b-8fc2-153c763bb3c5-Max.webp?v=1761330654
     Price: £41.99 GBP
 - [Double Take Full Size Half Button Long Sleeve Hoodie](https://trendytradesforyou.myshopify.com/products/double-take-full-size-half-button-long-sleeve-hoodie): Features: Buttoned, Drawstring Sheer: Opaque Stretch: Moderate stretch Material composition: 65% cotton, 30% polyester, 5% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Top Length Shoulder Bust Sleeve Length S 2/4 28 23.4 44.5 19.3 M 6/8 28.3 24.2 46.9 19.3 L 10/12 28.7 25 49.2 19.3 XL 14/16 29.1 26.2 52.4 19.3 2XL 18/20 29.5 27.4 55.5 19.3 3XL 22 29.9 28.5 58.7 19.3
-  Updated: 2025-10-24T22:15:16Z
+  Updated: 2025-10-25T03:30:16Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
