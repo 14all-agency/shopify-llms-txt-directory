@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-03-10T14:11:59Z
 - Contact Email: info@surgismart.in
-- Updated At: 2025-10-24T16:00:37.641Z
+- Updated At: 2025-10-25T04:00:40.434Z
 
 ## Products
 
@@ -1797,7 +1797,7 @@
     Availability: Available
     Price: ₹620.00 INR
 - [Buy ​Medvance Mayo Scissors - Surgismart](https://surgismart.in/products/medvance-mayo-scissors): Get precise cuts with these mayo scissors from Medvance! Perfect for any medical setting, these scissors are designed with precision and quality in mind. Slice through any tissue or material with ease. - Surgismart
-  Updated: 2025-10-15T09:37:04Z
+  Updated: 2025-10-24T17:32:20Z
   Vendor: Medvance Surgicals
   Product Type: Instruments
   Availability: Available
