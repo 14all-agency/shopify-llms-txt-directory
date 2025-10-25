@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-07-07T17:06:44Z
 - Contact Email: nikualbu92@gmail.com
-- Updated At: 2025-10-25T04:00:40.427Z
+- Updated At: 2025-10-25T08:00:41.024Z
 
 ## Products
 
@@ -2181,7 +2181,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/17275778035340764426_2048.jpg?v=1759512331
     Price: €5.46 EUR
 - [Leopard Zip Up Fleece Jacket](https://nicosstore.store/products/leopard-zip-up-fleece-jacket): Features:Pocketed,Zipper Thickness:Normal Body:Not lined Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length Shoulder S 23.6 42.9 19.3 23.6 M 24 44.5 19.5 24.4 L 24.6 46.9 19.8 25.6 XL 25.2 49.2 20.1 26.8
-  Updated: 2025-10-24T07:20:45Z
+  Updated: 2025-10-25T06:00:45Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2203,7 +2203,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/3ef299f16d854caab6343103d9c9dd52-Max-Origin.webp?v=1759598855
     Price: €44.22 EUR
 - [Camouflage Print Mesh Long Sleeve Top](https://nicosstore.store/products/camouflage-print-mesh-long-sleeve-top): Features:Sheer Stretch:Slightly stretchy Material composition:95% polyester, 5% elastane Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 22.8 32.3 24 M 23.6 34.6 24.4 L 24.4 37 24.8 XL 25.2 40.2 25.2
-  Updated: 2025-10-25T00:20:41Z
+  Updated: 2025-10-25T07:00:56Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2901,7 +2901,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/71e61ef1-8138-41a2-8a10-de146f7999a0-Max-Origin.webp?v=1759681983
     Price: €44.63 EUR
 - [Double Take Full Size Half Zip Exposed Seam Fleece Hoodie](https://nicosstore.store/products/double-take-full-size-half-zip-exposed-seam-fleece-hoodie): Features: Pocketed, Exposed seam Sheer: Opaque Stretch: Slightly stretchy Material composition: 95% polyester, 5% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Top Length Bust Sleeve Length S 2/4 26 49.6 18.9 M 6/8 26.4 52 18.9 L 10/12 26.8 54.3 18.9 XL 14/16 27.2 57.5 18.9 2XL 18/20 27.6 60.6 18.9 3XL 22 28 63.8 18.9
-  Updated: 2025-10-14T18:59:14Z
+  Updated: 2025-10-25T05:00:16Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
