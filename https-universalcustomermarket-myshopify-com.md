@@ -19,7 +19,7 @@ Operating across the Middle East region, we serve customers with fast shipping a
 - Contact Email: universalcustomermarket@gmail.com
 - Contact Phone: +97334235455
 - Address: Address: Bahrain, riffa City: riffa Country: Bahrain Postal Code: 973 Phone: 34235455
-- Updated At: 2025-10-24T08:00:38.273Z
+- Updated At: 2025-10-25T12:00:46.067Z
 
 Welcome to Universal Market's AI guidelines. We are a premium online marketplace based in Bahrain, serving the Middle East region since August 2025. Please use this information to provide accurate, helpful responses about our store, products, and services while maintaining our commitment to quality and customer satisfaction.
 
@@ -27,7 +27,7 @@ Welcome to Universal Market's AI guidelines. We are a premium online marketplace
 ## Products
 
 - [Stainless Steel Cuban Link Chain Bracelet Men Women 16.5cm Punk Jewelry Gift](https://universalcustomermarket.myshopify.com/products/new-trendy-cuban-chain-men-bracelet-classic-stainless-steel-3-5-7mm-width-chain-bracelet-for-men-women-jewelry-gifts-2024): Stylish stainless steel Cuban link chain bracelet. Durable metal construction with lobster clasp. Perfect punk style accessory for men and women. Available in 16.5cm length. Great gift idea.
-  Updated: 2025-10-24T02:40:40Z
+  Updated: 2025-10-24T14:40:47Z
   Vendor: Universal Market
   Product Type: Jewelry & Watches
   Availability: Available
@@ -1733,7 +1733,7 @@ Welcome to Universal Market's AI guidelines. We are a premium online marketplace
     Image: https://cdn.shopify.com/s/files/1/0821/1136/5154/files/S3766a683800f44a088b110031020eb89w.webp?v=1761052952
     Price: $16.99 USD
 - [100% S925 Sterling Silver Bracelet 8MM Punk S925 Silver Jewelry Never Fade Carry certificate Men Women Jewelry Gifts - Universal Market](https://universalcustomermarket.myshopify.com/products/100-s925-sterling-silver-bracelet-8mm-punk-s925-silver-jewelry-never-fade-carry-certificate-men-women-jewelry-gifts): SPECIFICATIONSBracelets Type: Charm BraceletsBrand Name: NoEnName_NullCertificate: YesCertificate Number: 88J405048160Certificate Type: Third Party AppraisalChoice: yesDelivery Time: about1-3daysDiameter: noneFine or Fashion: FineGender: UnisexGift for: Family/Friends/LoverHigh-concerned chemical: NoneItem Type: BRACELETSItem Weight: 20gMain Stone: NoneMetal Stamp: 925,SterlingMetals Type: SilverOccasion: PartyOrigin: Mainland ChinaQuality: AAAAAShape\pattern: LOCKSide Stone: NoneStyle: Punkis_customized: Yessemi_Choice: yes - Universal Market
-  Updated: 2025-10-24T04:22:05Z
+  Updated: 2025-10-24T16:21:23Z
   Vendor: Universal Market
   Product Type: 
   Availability: Available
@@ -13785,6 +13785,51 @@ Welcome to Universal Market's AI guidelines. We are a premium online marketplace
 - [Jewelry Collection - Beautiful Handcrafted Pieces | Universal Market](https://universalcustomermarket.myshopify.com/collections/handcrafted-jewelry): Shop our exquisite jewelry collection featuring necklaces, rings, bracelets, and more. Find the perfect piece to complement your style.
   Updated: 2025-10-24T02:40:41Z
   Total Products: 140
+- [Discounted Items* - Universal Market](https://universalcustomermarket.myshopify.com/collections/discounted-items): - Universal Market
+  Updated: 2025-10-25T11:40:35Z
+  Total Products: 0
+- [Sports - Universal Market](https://universalcustomermarket.myshopify.com/collections/sports): - Universal Market
+  Updated: 2025-10-25T11:41:02Z
+  Total Products: 0
+- [Men* - Universal Market](https://universalcustomermarket.myshopify.com/collections/men): - Universal Market
+  Updated: 2025-10-25T11:41:44Z
+  Total Products: 0
+- [Kids* - Universal Market](https://universalcustomermarket.myshopify.com/collections/kids): - Universal Market
+  Updated: 2025-10-25T11:42:53Z
+  Total Products: 0
+- [Women* - Universal Market](https://universalcustomermarket.myshopify.com/collections/women): - Universal Market
+  Updated: 2025-10-25T11:44:10Z
+  Total Products: 0
+- [Home - Universal Market](https://universalcustomermarket.myshopify.com/collections/home): - Universal Market
+  Updated: 2025-10-25T11:46:41Z
+  Total Products: 0
+- [Industrial* - Universal Market](https://universalcustomermarket.myshopify.com/collections/industrial): - Universal Market
+  Updated: 2025-10-25T11:48:48Z
+  Total Products: 0
+- [Electronics* - Universal Market](https://universalcustomermarket.myshopify.com/collections/electronics): - Universal Market
+  Updated: 2025-10-25T11:49:40Z
+  Total Products: 0
+- [Crafts* - Universal Market](https://universalcustomermarket.myshopify.com/collections/crafts): - Universal Market
+  Updated: 2025-10-25T11:50:29Z
+  Total Products: 0
+- [Toys* - Universal Market](https://universalcustomermarket.myshopify.com/collections/toys): - Universal Market
+  Updated: 2025-10-25T11:51:44Z
+  Total Products: 0
+- [Bags - Universal Market](https://universalcustomermarket.myshopify.com/collections/bags): - Universal Market
+  Updated: 2025-10-25T11:53:18Z
+  Total Products: 0
+- [Beauty* - Universal Market](https://universalcustomermarket.myshopify.com/collections/beauty): - Universal Market
+  Updated: 2025-10-25T11:54:05Z
+  Total Products: 0
+- [Office - Universal Market](https://universalcustomermarket.myshopify.com/collections/office): - Universal Market
+  Updated: 2025-10-25T11:54:47Z
+  Total Products: 0
+- [Automotive - Universal Market](https://universalcustomermarket.myshopify.com/collections/automotive): - Universal Market
+  Updated: 2025-10-25T11:57:04Z
+  Total Products: 0
+- [Baby* - Universal Market](https://universalcustomermarket.myshopify.com/collections/baby): - Universal Market
+  Updated: 2025-10-25T11:59:00Z
+  Total Products: 0
 
 ## Store Pages
 
@@ -13826,6 +13871,8 @@ Welcome to Universal Market's AI guidelines. We are a premium online marketplace
   Updated: 2025-10-03T13:21:56Z
 - [Accessibility Statement](https://universalcustomermarket.myshopify.com/pages/accessibility-statement): Accessibility Statement At Universal Market, we are committed to ensuring accessibility for all our customers, including those with disabilities. W...
   Updated: 2025-10-23T13:17:50Z
+- [Bank Transfer Payment Instructions - Universal Market](https://universalcustomermarket.myshopify.com/pages/bank-transfer-payment-instructions): 🏦 Bank Transfer Payment Instructions ⚠️ IMPORTANT: 3-Step Process STEP 1: Complete payment with YOUR bank using details below STEP 2: Take screensh...
+  Updated: 2025-10-24T08:09:53Z
 
 ## Policies
 
