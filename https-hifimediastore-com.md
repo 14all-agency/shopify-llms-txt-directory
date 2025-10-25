@@ -6,7 +6,7 @@
 - Timezone: Europe/Madrid
 - Created At: 2022-07-18T15:24:40Z
 - Contact Email: info@hifimediastore.com
-- Updated At: 2025-10-25T16:01:28.941Z
+- Updated At: 2025-10-25T20:01:15.965Z
 
 ## Products
 
@@ -4706,6 +4706,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/512GB_Negro_Black_Dual_SIM_-_Hifi_Media_Store-1000278.jpg?v=1719093292
   Price: 518,99 € EUR
+- [Xiaomi 12 Lite 5G 8GB/256GB Negro (Black) Dual SIM 2203129G](https://hifimediastore.com/products/xiaomi-12-lite-5g-8gb-256gb-negro-black-dual-sim-2203129g): XIAOMI 12 LITE 5G:  Diseño ligero como una pluma Cámara triple de 108 MP a nivel de estudio Carga Turbo inteligente de 67 W Pantalla AMOLED de 120 Hz Conexión 5G
+  Updated: 2025-10-25T16:30:26Z
+  Vendor: Xiaomi
+  Product Type: Smartphone
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/256GB_Negro_Black_Dual_SIM_2203129G_-_Hifi_Media_Store-999916.jpg?v=1719091433
+  Price: 245,99 € EUR
 - [Xiaomi Poco F5 5G 8GB/256GB Azul (Blue) Dual SIM 23049PCD8G](https://hifimediastore.com/products/xiaomi-poco-f5-5g-8gb-256gb-azul-blue-dual-sim-23049pcd8g): Xiaomi Poco F5 5G;  AMOLET DotDisplay Flow FHD+ de 6,67", 120 Hz Qualcomm Snapdragon 7+ Gen 2 Triple Cámara 64 MP Batería 5000 mAh y carga rápida 67 W Android 13, MIUI 14 para POCO NFC y Desbloqueo facial
   Updated: 2025-10-22T13:25:18Z
   Vendor: Xiaomi
@@ -7729,6 +7736,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/21460.jpg?v=1740605414
   Price: 601,99 € EUR
+- [Apple AirPods Max (2ª Gen.) Bluetooth Púrpura (Purple)](https://hifimediastore.com/products/apple-airpods-max-2-gen-bluetooth-purpura-purple): AirPods Max 2ª Gen:  Sonido de alta fidelidad Cancelación activa de ruido de nivel profesional Audio espacial personalizado con seguimiento dinámico de la cabeza Diseño tipo casco Comodidad y ajuste perfecto Hasta 20 horas de autonomía Conector USB-C
+  Updated: 2025-10-25T17:55:46Z
+  Vendor: Apple
+  Product Type: Bluetooth
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0654/5421/1288/files/21463.jpg?v=1740605420
+  Price: 598,99 € EUR
 - [Apple iPhone 16e 128GB Blanco (White)](https://hifimediastore.com/products/apple-iphone-16e-128gb-blanco-white): Apple iPhone 16e:  Pantalla Super Retina XDR OLED Chip A18 Cámara Fusion de 48MP Hasta 26h de autonomía Velocidad 5G Parte delantera de Ceramic Shield iOS 18  * Es posible que este iPhone no incluya cargador, ni auriculares en la caja original.
   Updated: 2025-10-25T01:16:35Z
   Vendor: Apple
@@ -8773,10 +8787,10 @@
   Updated: 2025-06-22T07:51:28Z
   Total Products: 0
 - [Best Selling Products](https://hifimediastore.com/collections/best-selling-products)
-  Updated: 2025-10-25T07:34:10Z
+  Updated: 2025-10-25T17:57:43Z
   Total Products: 5492
 - [Newest Products](https://hifimediastore.com/collections/newest-products)
-  Updated: 2025-10-25T07:34:10Z
+  Updated: 2025-10-25T17:57:43Z
   Total Products: 5492
 - [Altavoces](https://hifimediastore.com/collections/speakers): Explora nuestra gama de altavoces de alta calidad y llévatee la experiencia del festival a casa con nuestros altavoces.
   Updated: 2025-10-21T20:15:40Z
@@ -8830,8 +8844,8 @@
   Updated: 2025-10-21T19:53:09Z
   Total Products: 22
 - [AVADA - Best Sellers](https://hifimediastore.com/collections/avada-best-sellers)
-  Updated: 2025-10-25T15:08:42Z
-  Total Products: 1483
+  Updated: 2025-10-25T18:44:51Z
+  Total Products: 1484
 - [Intercomunicadores para moto](https://hifimediastore.com/collections/motorcycle-intercoms)
   Updated: 2025-06-22T07:51:29Z
   Total Products: 17
@@ -8896,7 +8910,7 @@
   Updated: 2025-10-25T04:01:38Z
   Total Products: 187
 - [Xiaomi](https://hifimediastore.com/collections/xiaomi)
-  Updated: 2025-10-25T04:53:20Z
+  Updated: 2025-10-25T17:57:43Z
   Total Products: 959
 - [Samsung](https://hifimediastore.com/collections/samsung)
   Updated: 2025-10-25T04:52:56Z
@@ -9007,7 +9021,7 @@
   Updated: 2025-10-21T19:34:51Z
   Total Products: 4
 - [Xiaomi](https://hifimediastore.com/collections/xiaomi-1)
-  Updated: 2025-10-25T04:53:20Z
+  Updated: 2025-10-25T17:57:43Z
   Total Products: 1063
 - [Auriculares Xiaomi](https://hifimediastore.com/collections/auriculares-xiaomi)
   Updated: 2025-10-24T15:58:33Z
@@ -9154,7 +9168,7 @@
   Updated: 2025-08-31T12:20:56Z
   Total Products: 4
 - [Teléfonos móviles y accesorios en Hi-Fi Media Store](https://hifimediastore.com/collections/todos-los-productos): Somos especialistas en teléfonos móviles y accesorios. En Hi-Fi Media Store encontrarás una gran variedad de productos de las mejores marcas.
-  Updated: 2025-10-25T07:34:10Z
+  Updated: 2025-10-25T17:57:43Z
   Total Products: 5491
 - [Lindy](https://hifimediastore.com/collections/lindy)
   Updated: 2025-10-21T19:39:27Z
@@ -9211,8 +9225,8 @@
   Updated: 2025-10-10T22:47:39Z
   Total Products: 3
 - [OrderlyEmails - Recommended Products](https://hifimediastore.com/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-10-25T15:08:42Z
-  Total Products: 1486
+  Updated: 2025-10-25T18:44:51Z
+  Total Products: 1487
 - [Razer](https://hifimediastore.com/collections/razer)
   Updated: 2025-10-16T19:26:34Z
   Total Products: 24
@@ -9274,8 +9288,8 @@
   Updated: 2025-10-16T19:25:32Z
   Total Products: 2
 - [Outlet](https://hifimediastore.com/collections/outlet)
-  Updated: 2025-10-25T15:45:56Z
-  Total Products: 262
+  Updated: 2025-10-25T17:56:16Z
+  Total Products: 263
 - [Edifier](https://hifimediastore.com/collections/edifier)
   Updated: 2025-10-10T22:12:51Z
   Total Products: 1
@@ -9331,7 +9345,7 @@
   Updated: 2025-10-21T20:14:18Z
   Total Products: 27
 - [Tablets iPad y Android | Financia con SeQura](https://hifimediastore.com/collections/tablets): Compra tablets iPad y Android con envío rápido y financiación flexible con SeQura. Compra fácil y segura online.
-  Updated: 2025-10-25T04:53:20Z
+  Updated: 2025-10-25T17:57:43Z
   Total Products: 534
 - [iPad](https://hifimediastore.com/collections/ipad)
   Updated: 2025-10-25T07:34:10Z
@@ -9349,7 +9363,7 @@
   Updated: 2025-10-25T04:06:10Z
   Total Products: 79
 - [IVA 21](https://hifimediastore.com/collections/iva-21)
-  Updated: 2025-10-25T07:34:10Z
+  Updated: 2025-10-25T17:57:43Z
   Total Products: 5122
 - [Tablets Xiaomi](https://hifimediastore.com/collections/tablets-xiaomi)
   Updated: 2025-10-24T08:41:35Z
@@ -9445,7 +9459,7 @@
   Updated: 2025-08-31T12:05:21Z
   Total Products: 3
 - [Productos para teléfonos móviles y accesorios](https://hifimediastore.com/collections/all): Hi-Fi Media Store: Tu tienda online para teléfonos móviles y accesorios de las mejores marcas. Encuentra smartphones, auriculares inalámbricos y con cable, altavoces y una amplia gama de accesorios para complementar tu experiencia móvil. Compra con seguridad y disfruta de una garantía de satisfacción. Visita nuestra tienda online y descubre un mundo de posibilidades para tu teléfono móvil.
-  Updated: 2025-10-25T07:34:10Z
+  Updated: 2025-10-25T17:57:43Z
   Total Products: 5491
 - [Beats](https://hifimediastore.com/collections/beats)
   Updated: 2025-10-11T22:16:14Z
@@ -9460,7 +9474,7 @@
   Updated: 2025-10-21T19:13:10Z
   Total Products: 11
 - [Ultimate Search - Do not delete](https://hifimediastore.com/collections/ultimate-search-do-not-delete): Ultimate Search app uses this temporary collection to fetch best selling items.Please do not delete this collection.If you have removed the app, it is safe to remove this collection.
-  Updated: 2025-10-25T07:34:10Z
+  Updated: 2025-10-25T17:57:43Z
   Total Products: 5491
 - [Nubia](https://hifimediastore.com/collections/nubia)
   Updated: 2025-10-23T05:55:18Z
