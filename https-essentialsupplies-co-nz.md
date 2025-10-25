@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-10-24T16:00:44.888Z
+- Updated At: 2025-10-25T08:00:49.789Z
 
 ## Products
 
@@ -690,7 +690,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/cotton-gloves-white-250mm-cuff-600gdozen-7-gauge-120-gloves-cotton-gloves-essential-supplies-231307.jpg?v=1719444946
   Price: $69.00 NZD
 - [Laminated CPE Shoe Covers - White, 200mm x 400mm - 160 Pieces - *Double Sole*](https://essentialsupplies.co.nz/products/laminated-cpe-shoe-covers-white-200mm-x-400mm-160-double-sole): CPE shoe covers are designed to mitigate contamination by creating an effective barrier between footwear and flooring. Breathable fabric for enhanced air movement with an elasticated top to secure. Ideal for use in medical, health care, animal care and food processing environments. Designed to mitigate contamination by creating an effective barrier between footwear and flooring Breathable fabric for enhanced air movement with an elasticated top to secure Ideal for use in medical, health care, animal care and food processing environments Size: 200mm x 400mm Content: 160 pieces Colour: White
-  Updated: 2025-01-30T01:16:05Z
+  Updated: 2025-10-25T07:02:44Z
   Vendor: Mattews Packaging
   Product Type: Foot Protection
   Availability: Available
@@ -1117,7 +1117,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/clean-line-toilet-tidy-set-white-plastic-toilet-brushes-essential-supplies-322905.jpg?v=1719444938
   Price: $17.00 NZD
 - [Luxury Wrapped Toilet Tissue Boxed - White, 2 Ply, 400 Sheets, FSC Mix® - 48 Rolls](https://essentialsupplies.co.nz/products/luxury-wrapped-toilet-tissue-boxed-white-2-ply-400-sheets-fsc-mix®-48): Embossed wrapped toilet tissue is a luxurious, soft and absorbent tissue, designed for high end office or hospitality use.Embossed for a classy lasting impression and individually wrapped in stylish packaging.These rolls areFSC®certified which ensures you are making a sustainable paper choice. Long lasting impression Embossed for a classy lasting impression Soft and absorbent tissue FSC® Mix Individually wrapped rolls Ply: 2 Sheets per roll:400sheets Sheet Dimension: 100mm x 110mm Colour: White Box of 48 rolls
-  Updated: 2025-10-24T05:29:18Z
+  Updated: 2025-10-25T00:55:32Z
   Vendor: Mattews Packaging
   Product Type: Household Toilet Tissue
   Availability: Available
@@ -1565,7 +1565,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/eco-interleave-tissue-dispenser-white-1400-sheet-capacity-1-dispenser-toilet-tissue-dispensers-essential-supplies-328618.jpg?v=1719445081
   Price: $60.00 NZD
 - [Eco Interleave Tissue Dispenser - White, 400 Sheet Capacity - 1 Dispenser](https://essentialsupplies.co.nz/products/eco-interleave-tissue-dispenser-white-400-sheet-capacity-1): Interleave toilet tissue dispensers with a stylish look for any bathroom or workspace environment provide superior practicality and hygiene. Compatible with interleave tissue sheets featuring a cloudy white face covering. Interleave toilet tissue dispenser Sturdy and durable design Holds 400 sheets Colour: White
-  Updated: 2025-01-08T20:32:33Z
+  Updated: 2025-10-25T06:56:23Z
   Vendor: Mattews Packaging
   Product Type: Toilet Tissue Dispensers
   Availability: Available
@@ -1810,7 +1810,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/virgin-mini-jumbo-toilet-tissue-boxed-white-1-ply-400m-fsc-mix-12-rolls-jumbo-toilet-tissue-essential-supplies-933841.jpg?v=1719445922
   Price: $80.00 NZD
 - [Virgin Mini Jumbo Toilet Tissue Boxed - White, 2 Ply, 200m, FSC Mix® - 12 Rolls](https://essentialsupplies.co.nz/products/virgin-mini-jumbo-toilet-tissue-boxed-white-2-ply-200m-fsc-mix®-12): Mini jumbo toilet tissue is a quality paper that's ideal for for use in offices, education or care facilities.Each roll is available in a convenient box of 12 rolls. Combining softness and strength at a competitive price for all industry requirements.These rolls are FSC certified which ensures you are making a sustainable paper choice. These rolls have a 60mm core diameter, with a 190mm total roll diameter. Designed for smaller bathroom spaces. FSC certified Non perforated These rolls have a 60mm core diameter, with a 190mm total roll diameter Ply: 2Roll Length: 200 metres Pack of 12 rolls Colour: White
-  Updated: 2025-02-07T01:27:13Z
+  Updated: 2025-10-25T00:04:37Z
   Vendor: Mattews Packaging
   Product Type: Jumbo Toilet Tissue
   Availability: Available
@@ -3049,7 +3049,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/tall-slimfold-towel-dispenser-silver-600-sheet-capacity-1-dispenser-folded-towel-dispensers-essential-supplies-985376.jpg?v=1719445814
   Price: $65.00 NZD
 - [Tall Slimfold Towel Dispenser - White, 600 Sheet Capacity - 1 Dispenser](https://essentialsupplies.co.nz/products/tall-slimfold-towel-dispenser-white-600-sheet-capacity-1): Tall slimfold paper towel dispensers are designed for use with the complete slimfold paper towel range. Reduces contamination and with a 600 sheet capacity. minimises refilling frequency. High gloss, easy clean finish featuring a viewing window to check towel levels. High gloss Easy clean finish 600 sheets capacity Colour: White Suitable tissues: MPH27090, MPH27095, MPH27162, MPH27110, MPH27120, MPH27100, MPH27105
-  Updated: 2025-01-09T02:13:32Z
+  Updated: 2025-10-25T02:22:42Z
   Vendor: Mattews Packaging
   Product Type: Folded Towel Dispensers
   Availability: Available
@@ -4363,7 +4363,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/aluminium-mop-handle-yellow-25mm-x-1500mm-mops-essential-supplies-535697.jpg?v=1719444773
   Price: $20.00 NZD
 - [Cut Cotton Mop Head - White, 25mm x 400g / 300mm](https://essentialsupplies.co.nz/products/cut-cotton-mop-head-white-25mm-x-400g-300mm-12): Cotton socket mops constructed of heavy duty absorbent cotton for effective large volume cleaning. Featuring a screw on handle attachment for easy replacement. Available in a range of colours to avoid cross contamination across workspace areas.
-  Updated: 2025-01-29T21:26:35Z
+  Updated: 2025-10-25T03:32:40Z
   Vendor: Mattews Packaging
   Product Type: Mops
   Availability: Available
