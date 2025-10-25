@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2024-03-04T12:03:04Z
 - Contact Email: ashley@theblissfuldog.com
-- Updated At: 2025-10-24T04:00:42.455Z
+- Updated At: 2025-10-25T08:00:44.470Z
 
 ## Products
 
@@ -671,7 +671,7 @@
   Image: https://cdn.shopify.com/s/files/1/0684/1027/8119/files/BBBUG-BULLDOG-SOAP-2025.jpg?v=1742486577
   Price: $12.95 USD
 - [The Blissful Dog Nose Butter® All Natural Balm For Dry Dog Noses](https://theblissfulpets.com/products/just-a-nose-butter): Does your dog have a dry or crusty nose? The Blissful Dog Nose Butter® moisturizes all ranges of dry dog noses from just a bit to extreme nasal hyperkeratosis.
-  Updated: 2025-10-04T02:30:18Z
+  Updated: 2025-10-24T15:17:20Z
   Vendor: The Blissful Dog® Inc.
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -1580,16 +1580,16 @@
   Updated: 2024-08-29T19:15:46Z
   Total Products: 0
 - [Dog Butters](https://theblissfulpets.com/collections/nose-butter)
-  Updated: 2025-10-23T11:19:49Z
+  Updated: 2025-10-24T11:20:51Z
   Total Products: 8
 - [Dog Grooming](https://theblissfulpets.com/collections/dog-grooming)
   Updated: 2025-10-23T11:19:49Z
   Total Products: 19
 - [Shop All Dog](https://theblissfulpets.com/collections/shop-all-dog)
-  Updated: 2025-10-23T11:19:49Z
+  Updated: 2025-10-24T11:20:51Z
   Total Products: 37
 - [Sensitive Skin](https://theblissfulpets.com/collections/sensitive-skin)
-  Updated: 2025-10-17T11:20:06Z
+  Updated: 2025-10-24T11:20:51Z
   Total Products: 5
 - [Insect Control](https://theblissfulpets.com/collections/insect-control)
   Updated: 2025-10-11T11:22:00Z
