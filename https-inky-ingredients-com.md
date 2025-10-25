@@ -9,7 +9,7 @@
 - Created At: 2023-11-20T15:32:25Z
 - Contact Email: hello@inky-ingredients.com
 - Address: Units 2, 3 & 5 Athelstan Business Park Hanwell Lane, Hutton Conyers Ripon, North Yorkshire HG4 5BF, UK
-- Updated At: 2025-10-25T00:00:39.033Z
+- Updated At: 2025-10-25T04:00:54.301Z
 
 The UK's largest natural ingredients supplier. INKY Ingredients supplies formulators and makers as well as the general public with the UK's widest range of essential oils, cold pressed oils, waxes, soaps, butters and more. We hold a 7 sustainability accreditations and are committed to providing an unparalleled selection of premium natural oil ingredients, fostering sustainability, and championing the sustainable beauty movement.
 
@@ -796,7 +796,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £195.36 GBP
 - [Lemongrass, Essential Oil Organic](https://inky-ingredients.com/products/lemongrass-essential-oil-organic): Organic Lemongrass Essential Oil provides the same uplifting benefits as its conventional counterpart, with the added assurance of being sourced from organically grown lemongrass plants.
-  Updated: 2025-10-24T14:08:25Z
+  Updated: 2025-10-25T01:20:35Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -1261,7 +1261,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £552.00 GBP
 - [Cedarwood Atlas, Essential Oil Organic](https://inky-ingredients.com/products/cedarwood-atlas-essential-oil-organic): Organic Cedarwood Atlas Essential Oil, sourced sustainably, retains its grounding properties. Its organic nature makes it a preferred choice for those seeking natural and eco-friendly options.
-  Updated: 2025-10-19T13:04:15Z
+  Updated: 2025-10-25T01:20:35Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -2248,7 +2248,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £62.88 GBP
 - [Wintergreen (Natural), Essential Oil](https://inky-ingredients.com/products/wintergreen-natural-essential-oil): Natural Wintergreen Essential Oil is derived from aromatic leaves, offering a fresh and minty scent. It carries therapeutic benefits, providing a calming and soothing experience in aromatherapy and personal care.
-  Updated: 2025-10-03T18:39:42Z
+  Updated: 2025-10-25T01:20:35Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -3751,7 +3751,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £49.20 GBP
 - [Coconut Oil, Fractionated](https://inky-ingredients.com/products/coconut-oil-fractionated-mct): Fractionated Coconut Oil, rich in MCTs, is a versatile beauty aid. Its lightweight and non-greasy formula make it an excellent choice for skincare, massage, and hair care routines.
-  Updated: 2025-10-24T07:02:40Z
+  Updated: 2025-10-25T01:20:35Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -4663,7 +4663,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £336.00 GBP
 - [Aloe Vera, Cosmetic Clear Gel](https://inky-ingredients.com/products/aloe-vera-cosmetic-clear-gel): Aloe Vera Cosmetic Clear Gel is a transparent formulation with the healing properties of aloe vera. It soothes, hydrates, and revitalises the skin, making it a go-to ingredient for skincare products aiming for clarity and freshness.
-  Updated: 2025-10-22T20:38:02Z
+  Updated: 2025-10-25T01:20:35Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -7129,7 +7129,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £357.60 GBP
 - [Cypress, Essential Oil Organic](https://inky-ingredients.com/products/cypress-essential-oil-organic): Organic Cypress Essential Oil offers the same benefits with the added advantage of being sourced and produced using organic practices, ensuring purity and environmental sustainability.
-  Updated: 2025-09-26T08:57:44Z
+  Updated: 2025-10-25T01:20:35Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
