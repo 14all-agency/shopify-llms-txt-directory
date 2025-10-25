@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-07-07T17:06:44Z
 - Contact Email: nikualbu92@gmail.com
-- Updated At: 2025-10-25T08:00:41.024Z
+- Updated At: 2025-10-25T12:00:38.744Z
 
 ## Products
 
@@ -2181,7 +2181,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/17275778035340764426_2048.jpg?v=1759512331
     Price: €5.46 EUR
 - [Leopard Zip Up Fleece Jacket](https://nicosstore.store/products/leopard-zip-up-fleece-jacket): Features:Pocketed,Zipper Thickness:Normal Body:Not lined Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length Shoulder S 23.6 42.9 19.3 23.6 M 24 44.5 19.5 24.4 L 24.6 46.9 19.8 25.6 XL 25.2 49.2 20.1 26.8
-  Updated: 2025-10-25T06:00:45Z
+  Updated: 2025-10-25T10:40:37Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2529,7 +2529,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/8b9b3da06fef4ffa8d8fc8c266aad154-Max-Origin.webp?v=1759678174
     Price: €22.42 EUR
 - [Drawstring Wide Leg Pants with Pockets](https://nicosstore.store/products/drawstring-wide-leg-pants-with-pockets): Features: Pocketed Sheer: Opaque Material composition: 50% polyester, 45% viscose, 5% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S: waist 26.9 in, hip 39.8 in, length 40.6 inM: waist 28.9 in, hip 42.1 in, length 41 inL: waist 30.8 in, hip 44.5 in, length 41.3 inXL: waist 33.5 in, hip 47.6 in, length 41.7 in
-  Updated: 2025-10-25T02:40:50Z
+  Updated: 2025-10-25T11:39:15Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2981,7 +2981,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/69970997521447278c9cdd284b7e91a1-Max-Origin.webp?v=1759686330
     Price: €26.12 EUR
 - [Lace Detail Drawstring Long Sleeve Hoodie](https://nicosstore.store/products/lace-detail-drawstring-long-sleeve-hoodie): Features:Lace Detail,Pocketed,Drawstring Stretch:Slightly stretchy Material composition:75% polyester, 25% cotton Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 25.2 40.2 27.4 M 26 42.5 28 L 26.8 44.9 28.5
-  Updated: 2025-10-24T16:22:11Z
+  Updated: 2025-10-25T08:41:22Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -7761,7 +7761,7 @@
 ## Collections
 
 - [Home page](https://nicosstore.store/collections/frontpage): MAKE IK IN YOUR WAY
-  Updated: 2025-10-23T19:40:49Z
+  Updated: 2025-10-25T08:02:35Z
   Total Products: 63
 - [CoLecti-on](https://nicosstore.store/collections/colecti-on)
   Updated: 2025-10-12T06:49:29Z
