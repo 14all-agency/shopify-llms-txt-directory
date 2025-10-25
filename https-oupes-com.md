@@ -6,7 +6,7 @@
 - Timezone: Asia/Shanghai
 - Created At: 2021-09-03T03:31:14Z
 - Contact Email: support@oupes.com
-- Updated At: 2025-10-25T00:00:34.555Z
+- Updated At: 2025-10-25T04:00:44.890Z
 
 ## Products
 
@@ -25,7 +25,7 @@
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/200w-ac-adapter-for-oupes-series-102746.jpg?v=1741944119
   Price: $99.99 USD
 - [240W Portable Solar Panels - OUPES](https://oupes.com/products/oupes-portable-solar-panel-240w): Harness clean energy with OUPES 240W solar panels. These portable solar panels are perfect for charging your power station on the go, ideal for camping, RVs, and off-grid adventures.
-  Updated: 2025-10-24T19:41:30Z
+  Updated: 2025-10-25T01:46:37Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
@@ -157,7 +157,7 @@
   Image: https://cdn.shopify.com/s/files/1/0599/0137/8737/files/mega-5-2240w-solar-panel-solar-generator-kit-545398.webp?v=1741944190
   Price: $1,899.00 USD
 - [OUPES Mega 2 Home Backup & Portable Power Station | 2500W, 2048Wh](https://oupes.com/products/oupes-mega-2-home-backup-portable-power-station-2500w-2048wh): OUPES Mega 2 Power Station with 2500W,2048Wh inverter. LiFePO4 battery, expandable to 10.24kWh. 15 outputs, HD display, full charge in 0.6 hrs. Ideal for backup and portable use.
-  Updated: 2025-10-24T23:57:03Z
+  Updated: 2025-10-25T01:52:35Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
@@ -280,7 +280,7 @@
     Availability: Available
     Price: $4,399.00 USD
 - [OUPES Exodus 256Wh 600W Portable Power Station](https://oupes.com/products/exodus-600-exodus-600-plus): Empower Your Adventures with the Exodus 600 Series Portable Power Station! The OUPES 600W portable power station features a 256Wh capacity and 600W output, offering lightweight, reliable, and versatile energy for all your outdoor activities.
-  Updated: 2025-10-22T04:31:05Z
+  Updated: 2025-10-25T02:12:51Z
   Vendor: OUPES
   Product Type: 
   Availability: Available
