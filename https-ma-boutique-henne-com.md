@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2018-01-12T21:20:39Z
 - Contact Email: contact@ma-boutique-henne.com
-- Updated At: 2025-10-25T16:00:50.954Z
+- Updated At: 2025-10-25T20:00:48.382Z
 
 ## Products
 
@@ -277,12 +277,12 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/Henne-Tazarine.jpg?v=1607715705
   Price: 5,10 € EUR
 - [Henné du Maroc](https://ma-boutique-henne.com/products/henne-du-maroc-100gr): Ce henné est 100% naturel, traditionnelle, coloration des cheveux et tatouages temporaires sur le corps. Henné du Maroc, marocain, tazarine, soin des cheveux, coloration cheveux blancs, soin capillaire, boutique, bio, vegan, beauté chevelure, brillance, soin, roux, rousse, cuivré, auburn, rouge, bordeaux, plante, poudre
-  Updated: 2025-10-21T09:18:46Z
+  Updated: 2025-10-25T19:44:18Z
   Vendor: Ma Boutique Henné
   Product Type: Henné
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/maroc3.jpg?v=1605869326
-  Price: 7,30 € EUR
+  Price: 6,90 € EUR
 - [Henné Rouge du Yémen](https://ma-boutique-henne.com/products/henne-du-yemen-100gr): Ce henné est 100% naturel, du Yémen, biologique. coloration et soin des cheveux, couleur rousse, reflets cuivrés, auburn, bordeaux, rouge, cheveux brillants, volume, cuir chevelu sensible, boutique, cosmétique, coiffure, poudre plante, tazarine, algérie, henna, shikakai, ghassoul, rouge cerise, bio, vegan, sidr, katam
   Updated: 2025-10-25T15:21:40Z
   Vendor: Ma Boutique Henné
@@ -1768,7 +1768,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/henne-blond-dore.png?v=1605703923
   Price: 19,50 € EUR
 - [Henné Rouge Renforcé Intense - Exclusivité Ma Boutique Henné](https://ma-boutique-henne.com/products/henne-rouge-renforce): Henné rouge renforcé intense, coloration cheveux rouges, flamboyant, 1,5% sodium picramate (taux réduit pour préserver votre santé) couvre les cheveux blancs, temps de pose réduit et soin des cheveux, auburn, bordeaux
-  Updated: 2025-10-23T08:40:41Z
+  Updated: 2025-10-25T18:50:11Z
   Vendor: Ma Boutique Henné
   Product Type: Henné
   Availability: Available
@@ -2119,16 +2119,16 @@
   Updated: 2025-10-24T11:01:24Z
   Total Products: 43
 - [Hennés du Monde](https://ma-boutique-henne.com/collections/hennes-100-naturels): Hennés du monde naturels : traditionnel, artisanal, egypte, algérie, damask, jamila, maroc, gabès, tunisie, rajasthan, tazarine, soudan, biskra, indigo, aker, sidr, shikakai, yémen, sahara, inde, blond, neutre, nupur, jamila, yémen, damask, rajasthan henne rouge cerise, colorer cheveux, henna, reflets cuivré, auburn
-  Updated: 2025-10-25T11:01:06Z
+  Updated: 2025-10-25T19:44:19Z
   Total Products: 51
 - [Accessoires](https://ma-boutique-henne.com/collections/accessoires): Accessoires dédiés au soin, démêlage et protection des cheveux : brosses bois, brosse bambou, brosse poils sangliers, peignes, kardoun, cardoune, pinces, pic, barette, élastiques, mousse, chignon, pic à cheveux
   Updated: 2025-10-24T11:01:24Z
   Total Products: 100
 - [Best Selling Products](https://ma-boutique-henne.com/collections/best-selling-products)
-  Updated: 2025-10-25T11:01:06Z
+  Updated: 2025-10-25T19:44:19Z
   Total Products: 426
 - [Nouveautés](https://ma-boutique-henne.com/collections/newest-products)
-  Updated: 2025-10-25T11:01:06Z
+  Updated: 2025-10-25T19:44:19Z
   Total Products: 426
 - [Les tons Blonds / Dorés](https://ma-boutique-henne.com/collections/tons-dores): reflets nuances blonds, dorés et cuivrés : verge d'or, camomille, rhapontic, rhubarbe, henné blond, romarin, éclaircir ses cheveux, éclaircissement, cheveux blonds, été, couleur dorée, coloration, brillance, gingembre, curcuma, cannelle, cuivré clair, blond vénitien, phitofilos, blé, logona, centifolia, khadi, radico
   Updated: 2025-10-23T11:01:25Z
@@ -2359,7 +2359,7 @@
   Updated: 2025-09-27T11:01:13Z
   Total Products: 10
 - [Tatouage au Henné](https://ma-boutique-henne.com/collections/tatouage-au-henne): henna penna, henna eyes, henna lips, henna eyebrows, curiosa neways, tatouage au henné, tattoo, henna tattoo, feutre à lèvres, feutre tatouage temporaire semi permanent, maquillage naturel, coloration cheveux rouge sidr, katam, amla, dessin, corps, phitofilos, radico, la saponaria, rouge cerise, mulato rouge venise
-  Updated: 2025-10-25T11:01:06Z
+  Updated: 2025-10-25T19:44:19Z
   Total Products: 9
 - [HennaFox](https://ma-boutique-henne.com/collections/hennafox): Depuis plus de 10 ans, HennaFox sélectionne les meilleurs fournisseurs pour proposer des hennés, poudres de soin et coloration végétales certifiées sans additif, et 100% naturelles.
   Updated: 2025-10-20T11:01:27Z
@@ -2422,7 +2422,7 @@
   Updated: 2025-09-28T11:01:06Z
   Total Products: 7
 - [Ma Boutique Henné](https://ma-boutique-henne.com/collections/ma-boutique-henne): henné naturel coloration cheveux henné renforcé rouge
-  Updated: 2025-10-24T11:01:24Z
+  Updated: 2025-10-25T19:44:19Z
   Total Products: 17
 - [Hemani](https://ma-boutique-henne.com/collections/hemani): henné hemani henna, henné bordeaux, burgundy with oud, henné rouge safran, henné noir black henna, henna brown marron rose
   Updated: 2025-10-25T11:01:06Z
