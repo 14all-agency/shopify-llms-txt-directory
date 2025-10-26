@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-06-23T16:52:36Z
 - Contact Email: customerservice@aliciaadamsalpaca.com
-- Updated At: 2025-10-25T16:00:54.718Z
+- Updated At: 2025-10-26T16:00:54.862Z
 
 ## Products
 
@@ -1530,7 +1530,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/1sd-ak112-39-45-salzburgcardigan-lightpink-hotpink-f-white-web.jpg?v=1697553228
     Price: $185.00 USD
 - [Buy Morgan Throw | Luxury Alpaca Throws | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/morgan-throw): buy morgan throw, luxury alpaca throws at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-10-25T08:16:58Z
+  Updated: 2025-10-25T21:36:01Z
   Vendor: alicia adams alpaca
   Product Type: Blankets & Throws
   Availability: Available
@@ -10211,7 +10211,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1SD-MazingBlanket_Ivory_ltgrey_onwhite_c7452324-c88c-4cea-a97a-1ef716fae841.jpg?v=1687276809
     Price: $1,480.00 USD
 - [Buy Chill Robe | Luxury Alpaca Robe | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/chill-robe): Buy Chill Robe, luxury alpaca Robe at alicia adams alpaca. Earn Rewards. Shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-10-25T08:24:26Z
+  Updated: 2025-10-25T18:20:48Z
   Vendor: alicia adams alpaca
   Product Type: Robes
   Availability: Available
@@ -10225,23 +10225,23 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-aw122-110-chillrobe-pinkpowder-flatwhite.jpg?v=1759491597
     Price: $875.00 USD
   - [Pink Powder / S](https://aliciaadamsalpaca.com/products/chill-robe?variant=40826854015091)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-aw122-110-chillrobe-pinkpowder-flatwhite.jpg?v=1759491597
     Price: $875.00 USD
   - [Pink Powder / M](https://aliciaadamsalpaca.com/products/chill-robe?variant=40826854113395)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-aw122-110-chillrobe-pinkpowder-flatwhite.jpg?v=1759491597
     Price: $875.00 USD
   - [Pink Powder / L](https://aliciaadamsalpaca.com/products/chill-robe?variant=40826854211699)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-aw122-110-chillrobe-pinkpowder-flatwhite.jpg?v=1759491597
     Price: $875.00 USD
   - [Pink Powder / XL](https://aliciaadamsalpaca.com/products/chill-robe?variant=40826854310003)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-aw122-110-chillrobe-pinkpowder-flatwhite.jpg?v=1759491597
     Price: $875.00 USD
   - [Pink Powder / XXL](https://aliciaadamsalpaca.com/products/chill-robe?variant=40826854408307)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-aw122-110-chillrobe-pinkpowder-flatwhite.jpg?v=1759491597
     Price: $875.00 USD
   - [Navy / XXS](https://aliciaadamsalpaca.com/products/chill-robe?variant=40826854539379)
@@ -10257,15 +10257,15 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-aw122-27-chillrobe-navy-flatwhite.jpg?v=1759491597
     Price: $875.00 USD
   - [Navy / M](https://aliciaadamsalpaca.com/products/chill-robe?variant=40826854146163)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-aw122-27-chillrobe-navy-flatwhite.jpg?v=1759491597
     Price: $875.00 USD
   - [Navy / L](https://aliciaadamsalpaca.com/products/chill-robe?variant=40826854244467)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-aw122-27-chillrobe-navy-flatwhite.jpg?v=1759491597
     Price: $875.00 USD
   - [Navy / XL](https://aliciaadamsalpaca.com/products/chill-robe?variant=40826854342771)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-aw122-27-chillrobe-navy-flatwhite.jpg?v=1759491597
     Price: $875.00 USD
   - [Navy / XXL](https://aliciaadamsalpaca.com/products/chill-robe?variant=40826854441075)
@@ -10277,23 +10277,23 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-aw122-12-chillrobe-lightgrey-flatwhite.jpg?v=1759491597
     Price: $875.00 USD
   - [Grey / XS](https://aliciaadamsalpaca.com/products/chill-robe?variant=40826853982323)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-aw122-12-chillrobe-lightgrey-flatwhite.jpg?v=1759491597
     Price: $875.00 USD
   - [Grey / S](https://aliciaadamsalpaca.com/products/chill-robe?variant=40826854080627)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-aw122-12-chillrobe-lightgrey-flatwhite.jpg?v=1759491597
     Price: $875.00 USD
   - [Grey / M](https://aliciaadamsalpaca.com/products/chill-robe?variant=40826854178931)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-aw122-12-chillrobe-lightgrey-flatwhite.jpg?v=1759491597
     Price: $875.00 USD
   - [Grey / L](https://aliciaadamsalpaca.com/products/chill-robe?variant=40826854277235)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-aw122-12-chillrobe-lightgrey-flatwhite.jpg?v=1759491597
     Price: $875.00 USD
   - [Grey / XL](https://aliciaadamsalpaca.com/products/chill-robe?variant=40826854375539)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-aw122-12-chillrobe-lightgrey-flatwhite.jpg?v=1759491597
     Price: $875.00 USD
   - [Grey / XXL](https://aliciaadamsalpaca.com/products/chill-robe?variant=40826854473843)
@@ -10301,7 +10301,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-aw122-12-chillrobe-lightgrey-flatwhite.jpg?v=1759491597
     Price: $875.00 USD
 - [Buy Chill Robe for Men | Luxury Alpaca Robe | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/products/chill-robe-for-men): Buy Chill Robe for Men, luxury alpaca Robe at alicia adams alpaca. Earn Rewards. Shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-10-25T08:24:29Z
+  Updated: 2025-10-25T18:21:13Z
   Vendor: alicia adams alpaca
   Product Type: Robes
   Availability: Available
@@ -10319,19 +10319,19 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-aw122-27-chillrobe-navy-flatwhite_75620d30-66a8-4c63-bf4f-74e565a3987d.jpg?v=1719418815
     Price: $875.00 USD
   - [Navy / M](https://aliciaadamsalpaca.com/products/chill-robe-for-men?variant=40826854703219)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-aw122-27-chillrobe-navy-flatwhite_75620d30-66a8-4c63-bf4f-74e565a3987d.jpg?v=1719418815
     Price: $875.00 USD
   - [Navy / L](https://aliciaadamsalpaca.com/products/chill-robe-for-men?variant=40826854768755)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-aw122-27-chillrobe-navy-flatwhite_75620d30-66a8-4c63-bf4f-74e565a3987d.jpg?v=1719418815
     Price: $875.00 USD
   - [Navy / XL](https://aliciaadamsalpaca.com/products/chill-robe-for-men?variant=40826854834291)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-aw122-27-chillrobe-navy-flatwhite_75620d30-66a8-4c63-bf4f-74e565a3987d.jpg?v=1719418815
     Price: $875.00 USD
   - [Navy / XXL](https://aliciaadamsalpaca.com/products/chill-robe-for-men?variant=40826854899827)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-aw122-27-chillrobe-navy-flatwhite_75620d30-66a8-4c63-bf4f-74e565a3987d.jpg?v=1719418815
     Price: $875.00 USD
   - [Grey / XXS](https://aliciaadamsalpaca.com/products/chill-robe-for-men?variant=40826854998131)
@@ -10339,23 +10339,23 @@
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-aw122-12-chillrobe-lightgrey-flatwhite_2a90b726-5db4-4f12-8319-d6bb649816f7.jpg?v=1719418815
     Price: $875.00 USD
   - [Grey / XS](https://aliciaadamsalpaca.com/products/chill-robe-for-men?variant=40826854604915)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-aw122-12-chillrobe-lightgrey-flatwhite_2a90b726-5db4-4f12-8319-d6bb649816f7.jpg?v=1719418815
     Price: $875.00 USD
   - [Grey / S](https://aliciaadamsalpaca.com/products/chill-robe-for-men?variant=40826854670451)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-aw122-12-chillrobe-lightgrey-flatwhite_2a90b726-5db4-4f12-8319-d6bb649816f7.jpg?v=1719418815
     Price: $875.00 USD
   - [Grey / M](https://aliciaadamsalpaca.com/products/chill-robe-for-men?variant=40826854735987)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-aw122-12-chillrobe-lightgrey-flatwhite_2a90b726-5db4-4f12-8319-d6bb649816f7.jpg?v=1719418815
     Price: $875.00 USD
   - [Grey / L](https://aliciaadamsalpaca.com/products/chill-robe-for-men?variant=40826854801523)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-aw122-12-chillrobe-lightgrey-flatwhite_2a90b726-5db4-4f12-8319-d6bb649816f7.jpg?v=1719418815
     Price: $875.00 USD
   - [Grey / XL](https://aliciaadamsalpaca.com/products/chill-robe-for-men?variant=40826854867059)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/products/1sd-aw122-12-chillrobe-lightgrey-flatwhite_2a90b726-5db4-4f12-8319-d6bb649816f7.jpg?v=1719418815
     Price: $875.00 USD
   - [Grey / XXL](https://aliciaadamsalpaca.com/products/chill-robe-for-men?variant=40826854932595)
@@ -15001,7 +15001,7 @@
   Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-SwatchRingonwood.jpg?v=1758901805
   Price: $160.00 USD
 - [Après Keaton Turtleneck](https://aliciaadamsalpaca.com/products/apres-keaton-turtleneck): Experience unparalleled comfort with the Keaton Turtleneck by alicia adams alpaca. Made from 100% Royal Alpaca, it offers luxurious softness and warmth. Elevate your style effortlessly with sleek design details. Shop now and earn rewards with our fair-trade, eco-friendly luxury goods!
-  Updated: 2025-10-25T08:29:32Z
+  Updated: 2025-10-25T20:52:09Z
   Vendor: alicia adams alpaca
   Product Type: Sweaters & Tops
   Availability: Available
@@ -15009,78 +15009,78 @@
   - [Beige / XS](https://aliciaadamsalpaca.com/products/apres-keaton-turtleneck?variant=53493191934324)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AW204-02E_7.jpg?v=1759998835
-    Price: $395.00 USD
+    Price: $435.00 USD
   - [Beige / S](https://aliciaadamsalpaca.com/products/apres-keaton-turtleneck?variant=53493191967092)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AW204-02E_7.jpg?v=1759998835
-    Price: $395.00 USD
+    Price: $435.00 USD
   - [Beige / M](https://aliciaadamsalpaca.com/products/apres-keaton-turtleneck?variant=53493191999860)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AW204-02E_7.jpg?v=1759998835
-    Price: $395.00 USD
+    Price: $435.00 USD
   - [Beige / L](https://aliciaadamsalpaca.com/products/apres-keaton-turtleneck?variant=53493192032628)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AW204-02E_7.jpg?v=1759998835
-    Price: $395.00 USD
+    Price: $435.00 USD
   - [Beige / XL](https://aliciaadamsalpaca.com/products/apres-keaton-turtleneck?variant=53493192065396)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AW204-02E_7.jpg?v=1759998835
-    Price: $395.00 USD
+    Price: $435.00 USD
   - [Carbon / XS](https://aliciaadamsalpaca.com/products/apres-keaton-turtleneck?variant=53493191606644)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-apreskeaton.jpg?v=1759998835
-    Price: $395.00 USD
+    Price: $435.00 USD
   - [Carbon / S](https://aliciaadamsalpaca.com/products/apres-keaton-turtleneck?variant=53493191639412)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-apreskeaton.jpg?v=1759998835
-    Price: $395.00 USD
+    Price: $435.00 USD
   - [Carbon / M](https://aliciaadamsalpaca.com/products/apres-keaton-turtleneck?variant=53493191672180)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-apreskeaton.jpg?v=1759998835
-    Price: $395.00 USD
+    Price: $435.00 USD
   - [Carbon / L](https://aliciaadamsalpaca.com/products/apres-keaton-turtleneck?variant=53493191704948)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-apreskeaton.jpg?v=1759998835
-    Price: $395.00 USD
+    Price: $435.00 USD
   - [Carbon / XL](https://aliciaadamsalpaca.com/products/apres-keaton-turtleneck?variant=53493191737716)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-apreskeaton.jpg?v=1759998835
-    Price: $395.00 USD
+    Price: $435.00 USD
   - [Navy / XS](https://aliciaadamsalpaca.com/products/apres-keaton-turtleneck?variant=53493191770484)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AW204-27E_22.jpg?v=1759998766
-    Price: $395.00 USD
+    Price: $435.00 USD
   - [Navy / S](https://aliciaadamsalpaca.com/products/apres-keaton-turtleneck?variant=53493191803252)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AW204-27E_22.jpg?v=1759998766
-    Price: $395.00 USD
+    Price: $435.00 USD
   - [Navy / M](https://aliciaadamsalpaca.com/products/apres-keaton-turtleneck?variant=53493191836020)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AW204-27E_22.jpg?v=1759998766
-    Price: $395.00 USD
+    Price: $435.00 USD
   - [Navy / L](https://aliciaadamsalpaca.com/products/apres-keaton-turtleneck?variant=53493191868788)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AW204-27E_22.jpg?v=1759998766
-    Price: $395.00 USD
+    Price: $435.00 USD
   - [Navy / XL](https://aliciaadamsalpaca.com/products/apres-keaton-turtleneck?variant=53493191901556)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/9060/4147/files/ac-AW204-27E_22.jpg?v=1759998766
-    Price: $395.00 USD
+    Price: $435.00 USD
   - [Black / XS](https://aliciaadamsalpaca.com/products/apres-keaton-turtleneck?variant=53493192098164)
     Availability: Available
-    Price: $395.00 USD
+    Price: $435.00 USD
   - [Black / S](https://aliciaadamsalpaca.com/products/apres-keaton-turtleneck?variant=53493192130932)
     Availability: Available
-    Price: $395.00 USD
+    Price: $435.00 USD
   - [Black / M](https://aliciaadamsalpaca.com/products/apres-keaton-turtleneck?variant=53493192163700)
     Availability: Available
-    Price: $395.00 USD
+    Price: $435.00 USD
   - [Black / L](https://aliciaadamsalpaca.com/products/apres-keaton-turtleneck?variant=53493192196468)
     Availability: Available
-    Price: $395.00 USD
+    Price: $435.00 USD
   - [Black / XL](https://aliciaadamsalpaca.com/products/apres-keaton-turtleneck?variant=53493192229236)
     Availability: Available
-    Price: $395.00 USD
+    Price: $435.00 USD
 
 ## Collections
 
@@ -15088,13 +15088,13 @@
   Updated: 2025-09-09T19:35:38Z
   Total Products: 0
 - [Shop Women's Designer Alpaca Apparel | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/shop-women): Discover our exquisite collection of luxury alpaca women's clothing, from chic coats to cozy sweaters, all crafted from 100% baby alpaca wool for unmatched style and comfort.
-  Updated: 2025-10-24T12:22:26Z
+  Updated: 2025-10-25T20:52:10Z
   Total Products: 116
 - [Designer Alpaca Children's Clothing | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/shop-children): Explore our collection of alpaca children's clothing and accessories. Envelop your little ones in expertly crafted alpaca apparel, ensuring warmth and comfort.
   Updated: 2025-10-23T11:16:40Z
   Total Products: 19
 - [Alicia Adams Alpaca | Home Living | Alpaca Home Decor](https://aliciaadamsalpaca.com/collections/home-living): Discover luxurious artisan-crafted alpaca home decor and accessories that blend sophistication and comfort. Explore exquisite alpaca throws, blankets, pillows.
-  Updated: 2025-10-24T11:24:38Z
+  Updated: 2025-10-26T11:16:48Z
   Total Products: 78
 - [alicia adams alpaca | girls | girl's clothing & accessories](https://aliciaadamsalpaca.com/collections/shop-children-girls): Our girls collection features ultra-soft alpaca sweaters & tops, scarves, & more. We value high quality materials & craftsmanship for something you'll love.
   Updated: 2025-10-23T11:16:40Z
@@ -15103,7 +15103,7 @@
   Updated: 2025-10-22T11:15:10Z
   Total Products: 43
 - [Alicia Adams Alpaca | Alpaca Throw Blankets | Luxury Alpaca Throws](https://aliciaadamsalpaca.com/collections/decorative-throws): Discover our exquisite decorative alpaca throw blankets, crafted from 100% baby alpaca wool. Over 100 unique colors and patterns to complement any home style.
-  Updated: 2025-10-24T11:24:38Z
+  Updated: 2025-10-26T11:16:48Z
   Total Products: 38
 - [Luxury Alpaca Baby & Shower Gifts | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/shop-children-babies): Discover our collection of children’s alpaca apparel and accessories. Shop the ultimate selection of alpaca baby and shower gifts.
   Updated: 2025-10-23T11:16:40Z
@@ -15118,13 +15118,13 @@
   Updated: 2025-08-29T20:33:17Z
   Total Products: 6
 - [Shop Men's Apparel | Luxury Alpaca Apparel for Men | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/mens-apparel): Artisan-made alpaca sweaters and cardigans, shop our men's apparel and choose from an array of accessories for gifting and accenting wardrobes.
-  Updated: 2025-10-22T11:15:10Z
+  Updated: 2025-10-26T11:16:48Z
   Total Products: 21
 - [Luxury Alpaca Gifts for Women | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/gifts-for-her): Indulge in our curated assortment of special gifts for her. Make any holiday, birthday, or moment unforgettable with luxe alpaca apparel, accessories, and more.
   Updated: 2025-10-24T11:24:38Z
   Total Products: 40
 - [alicia adams alpaca | gifts for home | alpaca home gifts](https://aliciaadamsalpaca.com/collections/gifts-for-home): Our gifts for home offer artisan-crafted baby alpaca pillows, throws and blankets, to luxurious accents. These alpaca goods are the perfect housewarming gift.
-  Updated: 2025-10-24T11:24:38Z
+  Updated: 2025-10-26T11:16:48Z
   Total Products: 63
 - [Luxury Alpaca Bedding Collections | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/home-living-premium-alpaca-bedding-shop): Browse luxury bedding arrangements featuring artisan-crafted alpaca bedding. Each look incorporates layered textures and patterns with a breathtaking result.
   Updated: 2025-10-14T11:16:32Z
@@ -15136,13 +15136,13 @@
   Updated: 2025-10-23T11:16:40Z
   Total Products: 18
 - [Luxury Alpaca Gifts for Men | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/gifts-gifts-for-him): Browse a timeless selection of luxury gifts for men. Our irresistible, soft, and luxurious alpaca gifts are perfect for any birthday, anniversary, or occasion.
-  Updated: 2025-10-22T11:15:10Z
+  Updated: 2025-10-26T11:16:48Z
   Total Products: 21
 - [Alpaca Clothing Gifts For Toddlers & Children | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/shop-children-toddlers): Shop our alpaca toddler and children’s clothing and accessories. Keep them cozy and comfortable all day long with our luxurious children’s alpaca.
   Updated: 2025-10-23T11:16:40Z
   Total Products: 11
 - [Shop Women's Apparel | Luxury Alpaca Womens Apparel | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/womens-apparel): Artisan alpaca sweaters, tops, capes and shawls, and more, shop our women's apparel and choose from an array styles and colors fit for any wardrobe and season.
-  Updated: 2025-10-24T12:22:26Z
+  Updated: 2025-10-25T20:52:10Z
   Total Products: 44
 - [Luxury Decorative Throw Pillows | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/decorative-pillows): Discover hypoallergenic, custom decorative alpaca pillows to add elegance to any room. Explore colors and styles including throw pillows, lumbar, and euros.
   Updated: 2025-10-20T11:21:49Z
@@ -15151,7 +15151,7 @@
   Updated: 2025-10-22T11:15:10Z
   Total Products: 22
 - [Shop All Products | Alpaca Home Decor | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/all): Alicia Adams Alpaca is known for a curated, elegant approach to all things alpaca - including alpaca home decor, apparel, and accessories. Free Shipping in US.
-  Updated: 2025-10-24T12:22:26Z
+  Updated: 2025-10-26T11:16:48Z
   Total Products: 305
 - [alicia adams alpaca | mazing collection | alpaca collection](https://aliciaadamsalpaca.com/collections/mazing-collection): With its unique southwestern design, our Mazing Collection is sure to offer an enticing and conversation pillows, capes, and more for your home or wardrobe.
   Updated: 2025-10-20T11:16:27Z
@@ -15214,10 +15214,10 @@
   Updated: 2025-10-24T11:24:38Z
   Total Products: 5
 - [alicia adams alpaca | bedding best sellers](https://aliciaadamsalpaca.com/collections/bedding-best-sellers): Shop bedding best sellers, luxury alpaca items at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-10-24T11:24:38Z
+  Updated: 2025-10-26T11:16:48Z
   Total Products: 10
 - [Holiday Gifts](https://aliciaadamsalpaca.com/collections/holiday-gifts): With the holidays coming up, we have selected some beautiful items from our collection to make a special gift to your loved ones.
-  Updated: 2025-10-23T11:16:40Z
+  Updated: 2025-10-26T11:16:48Z
   Total Products: 27
 - [alicia adams alpaca | best sellers](https://aliciaadamsalpaca.com/collections/best-sellers): Shop best selling products, luxury alpaca items at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
   Updated: 2025-10-24T12:21:38Z
@@ -15226,16 +15226,16 @@
   Updated: 2025-10-22T11:15:10Z
   Total Products: 6
 - [alicia adams alpaca | shop men homepage](https://aliciaadamsalpaca.com/collections/shop-men-homepage): Shop men products, luxury alpaca items at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-10-22T11:15:10Z
+  Updated: 2025-10-26T11:16:48Z
   Total Products: 5
 - [alicia adams alpaca | shop women homepage](https://aliciaadamsalpaca.com/collections/shop-women-homepage): Shop women products, luxury alpaca items at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
   Updated: 2025-10-24T12:22:26Z
   Total Products: 5
 - [Discountable Old](https://aliciaadamsalpaca.com/collections/discountable)
-  Updated: 2025-10-24T11:24:38Z
+  Updated: 2025-10-26T11:16:48Z
   Total Products: 188
 - [Alicia Products | Luxury Alpaca Products | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/alicia-adams-alpaca): Shop luxury alpaca products at alicia adams alpaca. earn rewards. shop our fair-trade made, eco-friendly luxury goods.
-  Updated: 2025-10-24T12:22:26Z
+  Updated: 2025-10-26T11:16:48Z
   Total Products: 223
 - [Lounge Collection | alicia adams alpaca](https://aliciaadamsalpaca.com/collections/lounge-collection): Shop alicia adams alpaca's premium lounge collection—luxurious alpaca sweatshirts, sweatpants, hoodies, and more. Handcrafted for elegance, warmth, and sustainability. Shop now!
   Updated: 2025-10-21T15:42:53Z
@@ -15250,19 +15250,19 @@
   Updated: 2025-10-23T11:16:40Z
   Total Products: 8
 - [Sale for Him | Men's Sale Alpaca Apparel and Acccessories | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/sale-for-him): Shop our exclusive men’s sale. Indulge in the luxurious touch of alpaca apparel and accessories that elevate any man’s look at a limited-time discount.
-  Updated: 2025-10-22T11:15:10Z
+  Updated: 2025-10-26T11:16:48Z
   Total Products: 4
 - [Sale for Home | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/sale-for-home): Explore our home sale selection. Elevate your home’s look with our luxurious alpaca throws, blankets, pillows, and more at a discounted price.
-  Updated: 2025-10-21T11:16:38Z
+  Updated: 2025-10-26T11:16:48Z
   Total Products: 10
 - [Meet the Family Collection](https://aliciaadamsalpaca.com/collections/meet-the-family-collection): Meet the Family Collection
   Updated: 2025-10-22T11:15:10Z
   Total Products: 6
 - [Sale | Luxury Alpaca Home Decor and Apparel | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/sale): Shop the latest reductions in alpaca home decor, apparel, and accessories from Alicia Adams Alpaca. Earn rewards on every purchase.
-  Updated: 2025-10-24T12:22:55Z
+  Updated: 2025-10-26T11:16:48Z
   Total Products: 43
 - [All Products - No Gift Wrap - DO NOT DELETE](https://aliciaadamsalpaca.com/collections/all-products-no-gift-wrap)
-  Updated: 2025-10-24T12:22:26Z
+  Updated: 2025-10-26T11:16:48Z
   Total Products: 253
 - [Southwest Inspired](https://aliciaadamsalpaca.com/collections/southwest-inspired)
   Updated: 2025-10-20T11:16:27Z
@@ -15271,19 +15271,19 @@
   Updated: 2025-10-20T11:38:09Z
   Total Products: 6
 - [Low Inventory](https://aliciaadamsalpaca.com/collections/low-inventory)
-  Updated: 2025-10-24T12:22:26Z
+  Updated: 2025-10-26T11:16:48Z
   Total Products: 246
 - [Shop Women | Luxury Alpaca Apparel | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/shop-women-1)
   Updated: 2025-10-24T12:22:26Z
   Total Products: 90
 - [Shop All Products | Luxury Alpaca Home Decor & Apparel | alicia adams alpaca](https://aliciaadamsalpaca.com/collections/all-products): Alicia Adams Alpaca is known for a curated, elegant approach to all things alpaca - including alpaca home decor, men, women and children's apparel, and accessories. Free Shipping in US.
-  Updated: 2025-10-24T12:22:26Z
+  Updated: 2025-10-26T11:16:48Z
   Total Products: 248
 - [Shop Men's Luxury Alpaca Apparel | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/shop-men): Discover our luxury men’s alpaca apparel, coats, sweaters, and loungewear made from the highest quality 100% baby alpaca wool for style and comfort year-round.
-  Updated: 2025-10-22T11:15:10Z
+  Updated: 2025-10-26T11:16:48Z
   Total Products: 42
 - [Holiday Gift Guide](https://aliciaadamsalpaca.com/collections/holiday-gift-guide)
-  Updated: 2025-10-24T11:24:38Z
+  Updated: 2025-10-26T11:16:48Z
   Total Products: 14
 - [Scandia Products](https://aliciaadamsalpaca.com/collections/scandia-products)
   Updated: 2025-09-25T11:41:06Z
@@ -15295,7 +15295,7 @@
   Updated: 2025-10-24T12:26:57Z
   Total Products: 5
 - [EasyGift All Products](https://aliciaadamsalpaca.com/collections/easygift-all-products): EasyGift all products collection
-  Updated: 2025-10-24T12:22:26Z
+  Updated: 2025-10-26T11:16:48Z
   Total Products: 341
 - [Featured Products | Alicia Adams Alpaca](https://aliciaadamsalpaca.com/collections/featured-products): Discover Alicia Adams Alpaca's premium featured collection—luxurious alpaca scarves, wraps, and accessories. Handcrafted for elegance, warmth, and sustainability. Shop now!
   Updated: 2025-10-24T11:24:38Z
@@ -15310,10 +15310,10 @@
   Updated: 2025-10-23T11:16:40Z
   Total Products: 4
 - [Tops & Sweaters](https://aliciaadamsalpaca.com/collections/tops-sweaters)
-  Updated: 2025-10-23T11:16:40Z
+  Updated: 2025-10-25T20:52:10Z
   Total Products: 30
 - [Shirts & Sweaters](https://aliciaadamsalpaca.com/collections/shirts-sweaters)
-  Updated: 2025-10-22T11:15:10Z
+  Updated: 2025-10-26T11:16:48Z
   Total Products: 16
 - [Gifts For You](https://aliciaadamsalpaca.com/collections/gifts-for-you)
   Updated: 2025-10-24T11:24:38Z
