@@ -6,7 +6,7 @@
 - Timezone: Asia/Kuwait
 - Created At: 2025-09-29T02:15:58Z
 - Contact Email: elitebuzkw@gmail.com
-- Updated At: 2025-10-25T20:00:37.461Z
+- Updated At: 2025-10-26T00:00:37.867Z
 
 ## Products
 
@@ -1549,7 +1549,7 @@
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/A30-USB-My-Store-78636964.jpg?v=1761109832
   Price: ‏3.00 د.ك.‏ KWD
 - [كشاف دراجة أمامي SecurityIng LD14 USB مع بطارية 4800mAh قابلة للشحن -](https://dartoys.com/products/كشاف-دراجة-أمامي-securitying-ld14-usb-مع-بطارية-4800mah-قابلة-للشحن): كشاف دراجة أمامي SecurityIng LD14 USB - الأداء والراحة احصل على إضاءة قوية وآمنة أثناء ركوب الدراجة  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T05:41:32Z
+  Updated: 2025-10-25T23:11:25Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
