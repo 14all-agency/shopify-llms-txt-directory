@@ -6,7 +6,7 @@
 - Timezone: Asia/Kuwait
 - Created At: 2025-09-29T02:15:58Z
 - Contact Email: elitebuzkw@gmail.com
-- Updated At: 2025-10-26T16:00:37.986Z
+- Updated At: 2025-10-26T20:00:42.225Z
 
 ## Products
 
@@ -277,7 +277,7 @@
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/12-_-_-_-_-_-_-Little-Tikes-My-Store-78388976.jpg?v=1761109371
   Price: ‏84.90 د.ك.‏ KWD
 - [أرجوحة للأطفال بظهر مرتفع مع حزام أمان من Little Tikes - Dar Toys ||](https://dartoys.com/products/أرجوحة-للأطفال-بظهر-مرتفع-مع-حزام-أمان-من-little-tikes): امنح طفلك تجربة لعب آمنة وممتعة مع أرجوحة الأطفال بظهر مرتفع من Little Tikes، المصممة خصيصاً للصغار  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-24T03:46:57Z
+  Updated: 2025-10-26T19:00:11Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
@@ -637,7 +637,7 @@
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/4_4-_-_-My-Store-78457664.webp?v=1761109479
   Price: ‏36.90 د.ك.‏ KWD
 - [مجموعة تسلق 4 في 1 للأطفال - Dar Toys || متجر دار تويز للألعاب - توصيل](https://dartoys.com/products/مجموعة-تسلق-4-في-1-للأطفال): امنح طفلك تجربة لعب متكاملة مع مجموعة التسلق 4 في 1 المصممة لتوفير الترفيه والتعليم معًا. تتضمن  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T05:41:07Z
+  Updated: 2025-10-26T19:00:11Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
