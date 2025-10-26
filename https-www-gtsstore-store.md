@@ -6,14 +6,14 @@
 - Timezone: America/Chicago
 - Created At: 2025-06-28T02:42:48Z
 - Contact Email: gtembo034@gmail.com
-- Updated At: 2025-10-25T12:00:47.144Z
+- Updated At: 2025-10-26T04:00:51.296Z
 
 Welcome to GTS Beauty store
 
 ## Products
 
 - [Cosplay Anime Costume Halloween Clothing Cosplay Anime Costume Cosplay](https://www.gtsstore.store/products/cosplay-anime-costume-halloween-clothing): Product information: Cosplay Anime Costume  Applicable gender: unisex / both men and women   : adult    Pattern: plain    Main fabric composition: polyester fiber (
-  Updated: 2025-10-25T01:40:08Z
+  Updated: 2025-10-25T13:40:15Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -59,7 +59,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/adccbf0d-d31e-4337-a384-3b5df65bab5b.jpg?v=1761356349
     Price: $53.80 USD
 - [Children's Halloween Costume Pumpkin Cloak Children's Halloween Costum](https://www.gtsstore.store/products/childrens-halloween-costume-pumpkin-cloakchildrens-halloween-costume): Product information:    Fabric name: cotton blend  Children's Halloween Costume    Main fabric composition: Polyester Fiber (polyester)    Applicable gender: neutra
-  Updated: 2025-10-25T01:33:08Z
+  Updated: 2025-10-25T14:19:25Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -93,28 +93,28 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/6b75e96a-bded-44da-bf9f-3b4de951eb8b.jpg?v=1761355833
     Price: $40.32 USD
 - [Halloween Party Costume Woman Halloween Party Costume Woman Halloween](https://www.gtsstore.store/products/halloween-party-costume-woman): Applicable occasions: ordinary stage costumes      Halloween Party Costume Woman    Applicable gender:    Applicable age: adult    suitable seasons: Spring,hgftffttu
-  Updated: 2025-10-25T01:36:57Z
+  Updated: 2025-10-25T13:37:02Z
   Vendor: null
   Product Type: 0
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/1708849369052.jpg?v=1761356180
   Price: $50.20 USD
 - [Halloween adult masquerade costume Halloween adult masquerade costumef](https://www.gtsstore.store/products/halloween-adult-masquerade-costume): Main fabric composition: polyester fiber (polyester)  Halloween adult masquerade costume wertyuiooope5r6tyui  The content of the main fabric ingredient: 100 (%)
-  Updated: 2025-10-25T01:28:36Z
+  Updated: 2025-10-25T13:28:41Z
   Vendor: null
   Product Type: 0
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/267827288496.jpg?v=1761355701
   Price: $40.78 USD
 - [Adult Halloween Costume Party Costume Show Clothes Adult Halloween Cos](https://www.gtsstore.store/products/adult-halloween-costume-party-costume-show-clothes): Adult Halloween Costume  Applicable occasions: ordinary stage costumes    Applicable gender: female    Applicable age: ad    Fabric name: knitted fabric    Main fa
-  Updated: 2025-10-25T01:26:22Z
+  Updated: 2025-10-25T13:26:27Z
   Vendor: null
   Product Type: 0
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/8771604b-a948-4b62-928b-66667a2c5ee6.jpg?v=1761355533
   Price: $44.84 USD
 - [Seraph Witch Halloween Costume Seraph Witch Halloween Costume Seraph W](https://www.gtsstore.store/products/seraph-witch-halloween-costume): Fabric name: cotton    Main fabric composition: cotton    Main fabric ingredient content: 70 (%)      size：cm      bus    Seraph Witch Halloween Costume    Skirt l
-  Updated: 2025-10-25T01:23:29Z
+  Updated: 2025-10-25T13:22:36Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -136,14 +136,14 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/8915062002873_423fa86f-b787-4a06-ad40-e15f1f818802.jpg?v=1761355400
     Price: $48.78 USD
 - [Cowboy Halloween Pirate Costume](https://www.gtsstore.store/products/cowboy-halloween-pirate-costume): Applicable occasions: ordinary stage costumes  Cowboy Halloween Pirate Costume    Applicable age: adult    pattern:     Suitable seasons: spring, autumn, winter, su
-  Updated: 2025-10-25T01:20:28Z
+  Updated: 2025-10-25T13:20:34Z
   Vendor: null
   Product Type: 0
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/2005203786844.jpg?v=1761355206
   Price: $45.88 USD
 - [Halloween child witch costume Halloween child witch costume Halloween](https://www.gtsstore.store/products/halloween-child-witch-costume): Halloween child witch costume  Elements: pastoral, cartoon, lace, printing, princess, net yarn, Europe and AmericaFabric technology: soft treatment, liquid ammonia
-  Updated: 2025-10-25T01:18:15Z
+  Updated: 2025-10-25T13:18:26Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -337,7 +337,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/6110696887690.jpg?v=1761355073
     Price: $38.55 USD
 - [Halloween Men's Renaissance Costume Halloween Men's Renaissance Costum](https://www.gtsstore.store/products/halloween-mens-renaissance-costumehalloween-mens-renaissance-costumehalloween-mens-renaissance-costume): Product information:    Color: dark brown, black, green, green, green, black, gr inventory order    Pants length: trousers  Halloween Men's Renaissance Costume  Main
-  Updated: 2025-10-25T00:58:36Z
+  Updated: 2025-10-25T12:58:45Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -463,7 +463,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/dbba65f3-9ad5-4cc2-8845-3b615f095c7d.jpg?v=1761353897
     Price: $52.42 USD
 - [Cartoon Halloween Cosplay Costume Cartoon Halloween Cosplay Costumehga](https://www.gtsstore.store/products/cartoon-halloween-cosplay-costume): Product Introduction:     Cartoon Halloween Cosplay Costume  cvbb  Applicable gender: male/female    Applicable age: adult    Fabric name: hemp blend    Main fabric
-  Updated: 2025-10-25T00:55:06Z
+  Updated: 2025-10-25T13:56:49Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -589,7 +589,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/30558f6c-9f2e-4e2d-9dd5-978679a256e8.jpg?v=1761353683
     Price: $49.93 USD
 - [Halloween spoof inflatable Costume Halloween spoof inflatable Costume](https://www.gtsstore.store/products/halloween-spoof-inflatable-costume): Materiagfgghsf    Size: adult 150-190            Children 120-150    Halloween spoof inflatable Costume  Step:    1. Put on this clothes  turn on the switch, and put
-  Updated: 2025-10-25T00:52:24Z
+  Updated: 2025-10-25T12:52:29Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -603,7 +603,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/1518181663963630_e7eb5849-0d2c-4117-81cc-adca1acee18e.jpg?v=1761353524
     Price: $55.32 USD
 - [Costume Sequin Halloween Play Costume Ladies Dress Costume Sequin Hall](https://www.gtsstore.store/products/costume-sequin-halloween-play-costume-ladies-dress): Product Details:    Applicable gender: female    Pattern: plain  Costume Sequin Halloween  Main fabric composition: polyester fiber (polyester)    The content of mai
-  Updated: 2025-10-25T00:50:19Z
+  Updated: 2025-10-25T12:50:24Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -629,7 +629,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/f04a38c4-5980-4ae8-914c-465b181b3db2.jpg?v=1761353396
     Price: $48.35 USD
 - [Suede Vest Halloween Costume Suede Vest Suede Vest Suede Vest Suede Ve](https://www.gtsstore.store/products/suede-vest-halloween-costume): Product information:  Suede Vest vc: South korean velvet    Color: Black women's viking vest, red women's viking vest, camel women's viking vest    Main fabric compo
-  Updated: 2025-10-25T00:48:32Z
+  Updated: 2025-10-25T12:48:41Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -695,7 +695,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/0d58bafe-0b29-43da-ab18-4aa2bfcfe04e.jpg?v=1761353138
     Price: $44.39 USD
 - [Halloween Costume Medieval Friar Wizard Costume Halloween Costumegffdb](https://www.gtsstore.store/products/halloween-costume-medieval-friar-wizard-costume): Product information:    csa nylon  Halloween Costume  Color: white (monk clothing), wine red (monk clothing), Black (monk clothing), Green (monk clothing), Brown (mo
-  Updated: 2025-10-25T00:43:48Z
+  Updated: 2025-10-25T12:44:00Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -813,7 +813,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/325efb5c-5adf-4848-8b13-9fb99676082d.jpg?v=1761352982
     Price: $41.00 USD
 - [Halloween Medieval Costume Crow Doctor Costume Halloween Medieval Cost](https://www.gtsstore.store/products/halloween-medieval-costume-crow-doctor-costume): Product information:    pattern: plain  Halloween Medieval Costume vd    Main fabric composition: polyester fiber (polyester)    The content of the main fabric ingre
-  Updated: 2025-10-25T00:41:31Z
+  Updated: 2025-10-25T12:41:37Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -831,14 +831,14 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/e9e0af57-27fe-48e8-8e67-5aa207acd37b_5f227d97-3088-4592-93b1-65f0d4e9fc41.jpg?v=1761352872
     Price: $51.25 USD
 - [Halloween funny costume Halloween funny costume Halloween funny costum](https://www.gtsstore.store/products/halloween-funny-costume): Product Category: Halloween Funny Costume    Product Name: Skeleton Rocking Horse Children's Clothing  Halloween funny costume dfghj    Use holiday: Halloween    Toy
-  Updated: 2025-10-25T00:39:39Z
+  Updated: 2025-10-25T12:39:11Z
   Vendor: null
   Product Type: 0
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/755869611117.jpg?v=1761352730
   Price: $53.09 USD
 - [Children's Halloween Costume Children's Halloween CostumeChildren's Ha](https://www.gtsstore.store/products/childrens-halloween-costumechildrens-halloween-costumechildrens-halloween-costume): Overview: Children's Halloween Costume      Multiple colors to choose, suitable for different people. Comfortable\vc There are halloween factors, suitable for hall
-  Updated: 2025-10-25T00:37:46Z
+  Updated: 2025-10-25T12:38:29Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -860,7 +860,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/7181382487.jpg?v=1761352655
     Price: $38.70 USD
 - [Halloween kids costume Halloween kids costume Halloween kids costumesd](https://www.gtsstore.store/products/halloween-kids-costume): S is suitable for 95-105cm height children to wear    Halloween kids costume  M is suitable for height of children 110-120cm     drdtyhjklgjklhjfghjkl7ertyuiyh
-  Updated: 2025-10-25T00:35:21Z
+  Updated: 2025-10-25T12:35:34Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -926,7 +926,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/361168433739.jpg?v=1761352503
     Price: $40.62 USD
 - [Halloween costume lights Halloween costume lights Halloween costume li](https://www.gtsstore.store/products/halloween-costume-lights): Halloween costume lights  Order no. : Halloween lantern string  Number of LED lamp beads: 7   Size: 20 lights    Luminous flux: 2 (LM)    Can you dim the light? No
-  Updated: 2025-10-25T00:32:50Z
+  Updated: 2025-10-25T12:33:01Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -984,7 +984,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/1172706429656.jpg?v=1761352353
     Price: $37.25 USD
 - [Jurassic Halloween Costume Jurassic Halloween CostumeJurassic Hallowee](https://www.gtsstore.store/products/jurassic-halloween-costume): 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger f your size between two sizes. Pleas allow 2b Jurassic Halloween Costume
-  Updated: 2025-10-25T00:30:20Z
+  Updated: 2025-10-25T12:30:32Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -1038,7 +1038,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/911268942303.jpg?v=1761352145
     Price: $49.74 USD
 - [Halloween angel costume Halloween angel costume Halloween angel costum](https://www.gtsstore.store/products/halloween-angel-costume): Applicable occasions: ordinarydfghj  Halloween angel costume  Main fabric composition: polyester fiber (polyester)  fuud5jrryyyt  The content of the main fabric ingr
-  Updated: 2025-10-25T00:26:51Z
+  Updated: 2025-10-25T12:28:33Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -1064,7 +1064,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/1342871254411.jpg?v=1761351980
     Price: $44.55 USD
 - [Halloween Costume Costume For Cosplay Halloween CostumeHalloween Costu](https://www.gtsstore.store/products/halloween-costume-costume-for-cosplay): dghg   Halloween Costume  Main fabric composition: cotton    Main fabric composition content :35 (%)    Main fabric Component 2: Polyester fiber (Dacron)    Content
-  Updated: 2025-10-25T00:24:18Z
+  Updated: 2025-10-25T12:24:09Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -1154,7 +1154,7 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/395d37e9-d577-4be4-b341-8899c77513f5.jpg?v=1761351787
     Price: $42.12 USD
 - [Halloween Costume Inflatable Clothing Costume Halloween Costume Inflat](https://www.gtsstore.store/products/halloween-costume-inflatable-clothing-costume): Fabric name: Chemical Fiber blend  Halloween Costume Inflatable  Color: yellow, red, blue     fabric composition: Polyester Fiber (polyester)    Suitable age: 18-24
-  Updated: 2025-10-25T00:15:39Z
+  Updated: 2025-10-25T12:15:52Z
   Vendor: null
   Product Type: 0
   Availability: Available
@@ -1172,14 +1172,14 @@ Welcome to GTS Beauty store
     Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/c8aa76f6-a5f8-4b4e-8148-30493a1f7b3f.jpg?v=1761351287
     Price: $50.13 USD
 - [Halloween Ladies Dress Costume Costume Halloween Ladies Dresssdfghjklh](https://www.gtsstore.store/products/halloween-ladies-dress-costume-costume): Product Details:    Applicable gender: female    Fabric technology: brushed    Fabric name: polyester    Main     Color: White    Halloween Ladies Dress  Size Inform
-  Updated: 2025-10-25T00:12:28Z
+  Updated: 2025-10-25T12:12:43Z
   Vendor: null
   Product Type: 0
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0655/4727/2323/files/31474a41-befc-4c2e-b02b-fc8debc8235f.jpg?v=1761351127
   Price: $40.44 USD
 - [Halloween Pumpkin Ghost Hanging DecorationHalloween Pumpkin Ghostdtrer](https://www.gtsstore.store/products/halloween-pumpkin-ghost-hanging-decoration): Product information:    Color: acrylic col  Halloween Pumpkin Ghost  Production process: Printing    Material Source: Artificial    Material: acrylic    Category: ac
-  Updated: 2025-10-25T00:09:30Z
+  Updated: 2025-10-25T12:59:29Z
   Vendor: null
   Product Type: 0
   Availability: Available
