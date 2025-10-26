@@ -8,7 +8,7 @@
 - Timezone: Europe/London
 - Created At: 2021-01-17T01:03:23Z
 - Contact Email: contact@crystalshealing.co.uk
-- Updated At: 2025-10-25T08:00:51.120Z
+- Updated At: 2025-10-26T04:00:43.257Z
 
 # Crystals Healing — AI-Ready Index
 Welcome to Crystals Healing, your trusted UK-based store for healing crystals and jewelry. This llms.txt file lists all products, collections, blogs, and pages to help AI assistants, search engines, and shopping bots discover and understand our offerings.
@@ -3044,7 +3044,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
     Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/products/CrystalsHealingLimited_5_-min.jpg?v=1739772942
     Price: £8.80 GBP
 - [Rose Quartz Eye Mask – Soothe, Depuff & Restore](https://crystalshealing.co.uk/products/rose-quartz-eye-mask): Reduce puffiness and eye fatigue with the Rose Quartz Eye Mask. Natural crystal, cooling relief, and beauty benefits in one luxurious self-care tool.
-  Updated: 2025-10-23T15:22:53Z
+  Updated: 2025-10-25T19:47:02Z
   Vendor: Crystals Healing
   Product Type: Rose Quartz Eye Mask
   Availability: Available
@@ -3170,7 +3170,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
     Availability: Available
     Price: £27.00 GBP
 - [Amethyst Eye Massage Sticks - Relax & Revitalize Skin](https://crystalshealing.co.uk/products/amethyst-eye-massage-stick): Rejuvenate tired eyes with Amethyst Eye Massage Sticks, designed to soothe puffiness, enhance relaxation, and promote skin vitality.
-  Updated: 2025-10-23T15:22:52Z
+  Updated: 2025-10-25T19:47:01Z
   Vendor: Crystals Healing
   Product Type: Health care
   Availability: Available
@@ -4782,7 +4782,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
   Image: https://cdn.shopify.com/s/files/1/0532/7136/3765/files/1437616106_9d5413d3-24c7-44f4-beb3-1774de5cb890.jpg?v=1754662350
   Price: £8.00 GBP
 - [Rose Quartz Massage Mushroom – Sacred Imperfections](https://crystalshealing.co.uk/products/rose-quartz-massage-mushroom-sacred-imperfections): Rose Quartz Massage Mushroom Tool – Sacred Imperfections Edition Facial Relaxation • Emotional Healing • Crystal Self-Care A self-care ritual rooted in imperfec
-  Updated: 2025-10-10T05:18:51Z
+  Updated: 2025-10-25T19:47:00Z
   Vendor: Crystals Healing
   Product Type: 
   Availability: Available
@@ -4844,7 +4844,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
   Updated: 2025-10-20T15:05:41Z
   Total Products: 50
 - [Healing Crystal Bracelets](https://crystalshealing.co.uk/collections/crystal-bracelets): Discover our healing crystal bracelets, handcrafted with ethically sourced stones. Wear daily to support emotional balance, protection, love, and inner strength
-  Updated: 2025-10-23T11:21:21Z
+  Updated: 2025-10-25T11:19:19Z
   Total Products: 176
 - [Zodiac Crystals Set](https://crystalshealing.co.uk/collections/zodiac-crystals-set): Discover crystal sets aligned with each zodiac sign — curated for energy, personality and purpose. Ethically sourced stones chosen to support your unique astrological journey.
   Updated: 2025-10-01T15:00:55Z
@@ -4883,13 +4883,13 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
   Updated: 2025-10-01T15:00:56Z
   Total Products: 5
 - [Men Crystal Jewellery](https://crystalshealing.co.uk/collections/men-crystal-jewellery): Men crystal jewellery with purpose – handcrafted to support grounding, confidence, and spiritual focus. Clean design. Strong energy.
-  Updated: 2025-10-16T11:19:17Z
+  Updated: 2025-10-25T11:19:19Z
   Total Products: 53
 - [Carved Crystals](https://crystalshealing.co.uk/collections/carved-crystals): Discover carved crystals that unite sacred symbolism with healing energy. From hearts and angels to spheres and palm stones - each piece is ethically hand-carved for beauty and intention.
   Updated: 2025-10-01T15:00:56Z
   Total Products: 15
 - [Women's Crystal Jewellery](https://crystalshealing.co.uk/collections/womens-crystal-jewellery): Embrace feminine energy with crystal jewellery made for women. Explore handcrafted bracelets, necklaces & rings with stones like Rose Quartz, Amethyst & Moonstone — for love, intuition, balance & self-worth.
-  Updated: 2025-10-23T11:21:21Z
+  Updated: 2025-10-25T11:19:19Z
   Total Products: 227
 - [Manifest Intention Jewelry](https://crystalshealing.co.uk/collections/manifest-intention): Wear your intentions with purpose. Our crystal jewelry is designed to support manifestation, clarity, and alignment - featuring Citrine, Clear Quartz, and other high-vibration stones.
   Updated: 2025-10-22T11:20:09Z
@@ -4898,7 +4898,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
   Updated: 2025-10-22T11:20:09Z
   Total Products: 9
 - [Healing Crystals](https://crystalshealing.co.uk/collections/healing-crystals): Healing crystals are ethically sourced stones used to support balance, protection, love and clarity — in daily life and meditation. Amethyst • Rose Quartz • Citrine • Chakra Bracelets Discover how to choose healing crystals →
-  Updated: 2025-10-23T15:11:46Z
+  Updated: 2025-10-25T11:19:19Z
   Total Products: 221
 - [Sale](https://crystalshealing.co.uk/collections/sale): Save on crystals and jewelry with intention. Discover discounted stones, bracelets, pendants & spiritual tools to empower your journey.
   Updated: 2025-10-01T15:00:57Z
@@ -4916,7 +4916,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
   Updated: 2025-10-23T11:21:21Z
   Total Products: 21
 - [Protection Crystal Jewelry](https://crystalshealing.co.uk/collections/protection): Discover crystal jewelry crafted for energetic protection. Explore bracelets, necklaces & rings made with Black Tourmaline, Obsidian, Amethyst & more - ethically sourced and intention-infused.
-  Updated: 2025-10-18T11:16:43Z
+  Updated: 2025-10-25T11:19:19Z
   Total Products: 38
 - [Howlite Crystals](https://crystalshealing.co.uk/collections/howlite-crystals): Embrace calm and clarity with Howlite crystals. Known for easing anxiety, improving sleep and soothing an overactive mind. Explore tumbled stones, bracelets and tools for peaceful energy and spiritual stillness.
   Updated: 2025-10-23T11:21:21Z
@@ -4976,10 +4976,10 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
   Updated: 2025-10-18T11:16:43Z
   Total Products: 27
 - [Handmade Jewellery](https://crystalshealing.co.uk/collections/handmade-jewellery): Explore handmade jewellery created with care and crystal energy. Every piece is unique, ethically sourced, and spiritually meaningful.
-  Updated: 2025-10-23T11:21:21Z
+  Updated: 2025-10-25T11:19:19Z
   Total Products: 225
 - [Valentine’s Day Crystals](https://crystalshealing.co.uk/collections/valentines-day-crystals): Celebrate love with crystals and jewelry made for connection, romance, and self-love. Discover heart-centered gifts crafted from Rose Quartz, Rhodonite, and Garnet.
-  Updated: 2025-10-23T11:21:21Z
+  Updated: 2025-10-25T11:19:19Z
   Total Products: 129
 - [Chakra Crystal Sets](https://crystalshealing.co.uk/collections/chakra-crystal-sets): Realign and recharge with chakra crystal sets. Each kit includes 7 energy-aligned stones selected to support the root to crown chakras. Perfect for meditation, reiki, yoga or spiritual rituals — comes with pouch & chakra card.
   Updated: 2025-10-01T15:00:59Z
@@ -5003,7 +5003,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
   Updated: 2025-10-23T11:21:21Z
   Total Products: 51
 - [Crystal Jewelry](https://crystalshealing.co.uk/collections/crystal-jewelry): Discover crystal jewelry crafted with purpose - for healing, intention and beauty. Explore ethically sourced bracelets, necklaces, rings & earrings made with stones like Amethyst, Rose Quartz and Citrine.
-  Updated: 2025-10-23T11:21:21Z
+  Updated: 2025-10-25T11:19:19Z
   Total Products: 237
 - [Worry Stones](https://crystalshealing.co.uk/collections/worry-stones): Ease anxiety and invite calm with crystal worry stones. Smooth, polished and designed for gentle touch — perfect for pockets, meditation or on-the-go stress relief. Choose your stone by energy: Amethyst, Rose Quartz, Black Obsidian & more.
   Updated: 2025-10-01T15:01:00Z
@@ -5036,7 +5036,7 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
   Updated: 2025-10-23T11:21:21Z
   Total Products: 9
 - [All Crystal Products](https://crystalshealing.co.uk/collections/all): Discover our full range of ethically sourced crystal products – from healing stones to handmade jewelry. Ideal for energy balancing, meditation, and mindful gifting.
-  Updated: 2025-10-24T12:02:08Z
+  Updated: 2025-10-25T11:19:19Z
   Total Products: 375
 - [Essential Oils](https://crystalshealing.co.uk/collections/essential-oils): Discover essential oils crafted for emotional healing, meditation and intention setting. From lavender and frankincense to energizing citrus blends — ethically sourced, pure and perfect for pairing with crystal rituals or self-care.
   Updated: 2025-10-01T15:01:01Z
@@ -5048,13 +5048,13 @@ Welcome to Crystals Healing, your trusted UK-based store for healing crystals an
   Updated: 2025-10-21T11:19:28Z
   Total Products: 15
 - [Tourmaline Crystals](https://crystalshealing.co.uk/collections/tourmaline-crystals): Protect your energy with Tourmaline crystals. Explore raw stones, tumbled pieces, bracelets & jewelry — crafted for grounding, emotional stability and energetic defense. Ethically sourced for daily support.
-  Updated: 2025-10-22T11:20:09Z
+  Updated: 2025-10-25T11:19:19Z
   Total Products: 14
 - [New Arrivals](https://crystalshealing.co.uk/collections/new-arrivals): Discover our latest arrivals – ethically sourced crystals, handmade jewelry, and healing tools. Fresh designs added regularly to inspire your energy journey.
-  Updated: 2025-10-24T12:02:08Z
+  Updated: 2025-10-25T16:52:21Z
   Total Products: 374
 - [Sacred Imperfections](https://crystalshealing.co.uk/collections/sacred-imperfections): Crystals with small flaws and big energy. Sacred Imperfections offer healing, meaning, and sustainability – at a better price.
-  Updated: 2025-10-01T15:01:02Z
+  Updated: 2025-10-25T16:53:42Z
   Total Products: 5
 
 ## Blogs
