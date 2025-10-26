@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2023-11-06T10:53:38Z
 - Contact Email: theworldofnerdscustomer@gmail.com
-- Updated At: 2025-10-25T20:00:49.569Z
+- Updated At: 2025-10-26T04:01:06.473Z
 
 ## Products
 
@@ -1838,7 +1838,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC03898.jpg?v=1730036275
   Price: ₹399.00 INR
 - [RAPUNZEL Q POSKET](https://theworldofnerds.com/products/rapunzel-q-posket): Discover the enchanting world of Q Poskets, where charm meets artistry! These collectible figures feature a delightful range of beloved characters from anime, movies, and more, each meticulously designed with oversized heads and whimsical expressions. Perfect for fans and collectors alike, Q Poskets bring your favorite characters to life in a unique, stylized form. Key Features: Unique stylized designs High-quality craftsmanship Wide variety of characters Ideal for collectors and fans Start your Q Poskets collection today and celebrate your favorite characters in a whole new way!
-  Updated: 2025-07-29T05:11:26Z
+  Updated: 2025-10-26T02:47:19Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -4603,7 +4603,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitleddesign_12.jpg?v=1738747805
   Price: ₹599.00 INR
 - [HOT WHEELS FORD MUSTANG DARK HORSE](https://theworldofnerds.com/products/hot-wheels-ford-mustang-dark-horse): Discover the sleek and powerful HOT WHEELS FORD MUSTANG DARK HORSE. This collectible die-cast car boasts exquisite detailing and a fierce design, perfect for any car enthusiast. With its high-quality craftsmanship and iconic brand, this Mustang is a must-have for any collection.
-  Updated: 2025-10-24T22:02:51Z
+  Updated: 2025-10-26T01:41:46Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
