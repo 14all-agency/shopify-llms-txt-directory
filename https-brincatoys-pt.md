@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-10-26T16:01:20.592Z
+- Updated At: 2025-10-26T20:01:24.946Z
 
 ## Products
 
@@ -3362,7 +3362,7 @@ do sul da
 garanhão mustang pinto é um cavalo macho de origem espanhola com uma 
 pelagem manchada. Pinto refere-se às manchas brancas distintas deste 
 belo cavalo.
-  Updated: 2025-10-21T11:17:34Z
+  Updated: 2025-10-26T17:55:21Z
   Vendor: Seleção Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -4711,13 +4711,6 @@ Todos os dias, crianças com mais de 6 anos descobrem um novo presente
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-harry-potter-calendario-do-advento-667640422-5702017152325-lego-1178694097.jpg?v=1752850569
   Price: 39,99 € EUR
-- [Lego Harry Potter The Knight Bus](https://brincatoys.pt/products/lego-harry-potter-the-knight-bus): Usa este fabuloso set para recriar cenas de Harry Potter e o Prisioneiro de Azkaban.Abre o painel lateral articulado do autocarro de três andares para aceder ao interior e carrega a mala de Harry.Há imenso espaço para aventuras lá em cima, levanta o teto e vê com os teus próprios olhos.
-  Updated: 2025-10-13T06:30:52Z
-  Vendor: LEGO
-  Product Type: + 8 anos
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-harry-potter-the-knight-bus-667595719-5702016542714-lego-1178694105.png?v=1752850811
-  Price: 69,90 € EUR
 - [Lego Hidden Side - Ataque à Loja de Marisco-](https://brincatoys.pt/products/lego-hidden-side-ataque-a-loja-de-marisco): Há
  problemas no Shrimp Shack! O chef Enzo e a empregada de mesa Sally 
 foram enfeitiçados por Anómalo, o fantasma chefe, e os comensais estão 
@@ -10375,13 +10368,6 @@ do tempo a caçar no gelo marinho.
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/conjunto-veiculos-londres-40046223-brincatoys-1178696005.jpg?v=1752884301
   Price: 13,99 € EUR
-- [Nenuco - Roupa Casual Gravata](https://brincatoys.pt/products/nenuco-roupa-casual-gravata): Conjunto de roupa para boneco Nenuco com 35 cm. O teu Nenuco vestirá sempre de forma casual com este conjunto de roupa, com duas peças, para vestir o Nenuco, se for passear, se for comer ou dormir. Nenuco é o boneco bebé mais querido entre crianças. Tanto os pais como os seus filhos, adoram os bonecos Nenuco e os seus acessórios, para momentos de d
-  Updated: 2025-10-13T06:25:00Z
-  Vendor: Nenuco
-  Product Type: + 3 anos
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/nenuco-roupa-casual-gravata-151382320-2600000-nenuco-1178696006.jpg?v=1752884522
-  Price: 17,50 € EUR
 - [Nenuco - Roupa Casual Azul | Brincatoys](https://brincatoys.pt/products/nenuco-roupa-casual-azul): Conjunto de roupa para boneco Nenuco com 35 cm. O teu Nenuco vestirá sempre de forma casual com este conjunto de roupa, com duas peças, para vestir o Nenuco, se for passear, se for comer ou dormir. Nenuco é o boneco bebé mais querido entre crianças. Tanto os pais como os seus filhos, adoram os bonecos Nenuco e os seus acessórios, para momentos de d
   Updated: 2025-10-13T06:24:59Z
   Vendor: Nenuco
@@ -14171,7 +14157,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-minecraft-21251-expedicao-no-deserto-de-steve-662125124-5702017583273-lego-1178698004.jpg?v=1752796930
   Price: 12,00 € EUR
 - [Lego Minecraft 21252 O Depósito de Armas: Mundo de Minecraft](https://brincatoys.pt/products/lego-minecraft-21252-o-deposito-de-armas): Seja parte do universo pixelizado de Minecraft com o Lego Minecraft 21252 O Depósito de Armas. Descubra o Ferreiro, a Alex e suas aventuras emocionantes! 💣
-  Updated: 2025-10-13T06:21:03Z
+  Updated: 2025-10-26T19:47:21Z
   Vendor: LEGO
   Product Type: + 7 anos
   Availability: Available
@@ -17358,7 +17344,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/puzzle-de-madeira-animais-do-zoo-brinquedo-educativo-26264224-3048700026422-brincatoys-1178700593.jpg?v=1752958323
   Price: 16,80 € EUR
 - [Princesa Ariel Mar e Terra | Boneca Disney Transformável](https://brincatoys.pt/products/conjunto-ariel-mar-e-terra): Explore a magia da Princesa Ariel Mar e Terra! Boneca transformável da Pequena Sereia com acessórios. Diversão garantida para os fãs da Disney.
-  Updated: 2025-10-13T06:17:22Z
+  Updated: 2025-10-26T16:48:15Z
   Vendor: Princesas Disney
   Product Type: + 3 anos
   Availability: Available
@@ -19661,11 +19647,11 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/puzzle-inside-out-3-x-49-pecas-diversao-e-aprendizagem-770937025-4005556093700-brincatoys-1178692532.jpg?v=1752823925
   Price: 13,99 € EUR
 - [LEGO Sonic the Hedgehog 76997 Barco de Aventura do Tails](https://brincatoys.pt/products/lego-sonic-the-hedgehog-76997-barco-de-aventura-do-tails): Mergulhe na diversão com o LEGO Sonic the Hedgehog 76997 Barco de Aventura do Tails! Jogue com 4 personagens e recrie momentos épicos. 🌊
-  Updated: 2025-10-26T15:02:35Z
+  Updated: 2025-10-26T17:47:56Z
   Vendor: LEGO
   Product Type: + 8 anos
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/Lego_Sonic_the_Hedgehog__76997_Barco_de_Aventura_do_Tails_page1.jpg?v=1761490178
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-sonic-the-hedgehog-76997-barco-de-aventura-do-tails-667699725-5702017592534-lego-1199733018.jpg?v=1761500875
   Price: 58,50 € EUR
 - [Carro de Brincar Ferrari Racing - Ferrari FXX K](https://brincatoys.pt/products/ferrari-racing-ferrari-fxx-k): Descubra carro de Brincar Ferrari Racing - Ferrari FXX K. Ideal para crianças e colecionadores desejando autenticidade e diversão.
   Updated: 2025-10-13T06:14:43Z
@@ -20265,11 +20251,11 @@ Figura em borracha termoplástica do filme Branca de neve e os sete anões.Figur
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-minecraft-21251-expedicao-no-deserto-de-steve-662125124-5702017583273-lego-1178698004.jpg?v=1752796930
   Price: 12,00 € EUR
 - [LEGO Speed Champions 77237 Carro Desportivo Dodge](https://brincatoys.pt/products/lego-speed-champions-77237-carro-desportivo-dodge-challenger-srt-hellcat): Acelere a sua coleção com o LEGO Speed Champions 77237 Carro Desportivo Dodge Challenger SRT Hellcat, uma reprodução impressionante e cheia de estilo.
-  Updated: 2025-10-26T15:22:07Z
+  Updated: 2025-10-26T17:46:13Z
   Vendor: LEGO
   Product Type: + 7 anos
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/Lego_Speed_Champions_77237_Carro_Desportivo_Dodge_Challenger_SRT_Hellcat_page1.jpg?v=1761491509
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-speed-champions-77237-carro-desportivo-dodge-667723725-5702017816043-lego-1199733014.jpg?v=1761500763
   Price: 29,99 € EUR
 - [LEGO Sonic 77006 Camião de Comando Team Sonic Diversão](https://brincatoys.pt/products/lego-sonic-camiao-de-comando-team-sonic): Transforma a diversão com o LEGO Sonic 77006 Camião de Comando Team Sonic, que traz 5 figuras e 747 peças imperdíveis! Inicia a aventura agora!
   Updated: 2025-10-26T15:49:56Z
@@ -20981,7 +20967,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/brinquedo-musical-tambores-magic-touch-para-bebes-821165023-6943478024861-brincatoys-1194844866.jpg?v=1758901806
   Price: 33,99 € EUR
 - [Puzzle em cubos Animais da Selva para Crianças](https://brincatoys.pt/products/puzzle-em-cubos-animais-da-selva): Desperte a criatividade da sua criança com o Puzzle em cubos Animais da Selva! Uma divertida forma de aprender formas e cores.
-  Updated: 2025-10-13T06:13:29Z
+  Updated: 2025-10-26T19:35:25Z
   Vendor: Seleção Brincatoys
   Product Type: + 2 anos
   Availability: Available
@@ -21065,7 +21051,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-de-brincar-fiat-124-spider-vermelho-com-detalhes-132108325-4893993210831-bburago-1196494923.jpg?v=1759873685
   Price: 22,50 € EUR
 - [Carro de brincar BMW 3 Series M3 1988 em metal fundido](https://brincatoys.pt/products/carro-de-brincar-bmw-3-series-m3-1988-1-24): Leve para casa o carro de brincar BMW 3 Series M3 1988 e reviva os ralis! A réplica em metal die-cast oferece detalhes impressionantes.
-  Updated: 2025-10-13T06:13:24Z
+  Updated: 2025-10-26T16:02:17Z
   Vendor: Bburago
   Product Type: + 3 anos
   Availability: Available
@@ -21484,23 +21470,23 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-26T11:30:46Z
   Total Products: 1291
 - [Até €25](https://brincatoys.pt/collections/ate-25)
-  Updated: 2025-10-26T12:49:04Z
-  Total Products: 2402
+  Updated: 2025-10-26T19:38:51Z
+  Total Products: 2401
 - [Até €35](https://brincatoys.pt/collections/ate-35)
-  Updated: 2025-10-26T15:18:12Z
-  Total Products: 2863
+  Updated: 2025-10-26T19:38:51Z
+  Total Products: 2862
 - [Até €50](https://brincatoys.pt/collections/ate-50)
-  Updated: 2025-10-26T15:18:12Z
-  Total Products: 3248
+  Updated: 2025-10-26T19:38:51Z
+  Total Products: 3247
 - [Até €60](https://brincatoys.pt/collections/ate-60)
-  Updated: 2025-10-26T15:18:12Z
-  Total Products: 3383
+  Updated: 2025-10-26T19:38:51Z
+  Total Products: 3382
 - [Até €80](https://brincatoys.pt/collections/ate-80)
-  Updated: 2025-10-26T15:18:12Z
-  Total Products: 3464
+  Updated: 2025-10-26T19:38:51Z
+  Total Products: 3462
 - [Até €100](https://brincatoys.pt/collections/ate-100)
-  Updated: 2025-10-26T15:18:12Z
-  Total Products: 3513
+  Updated: 2025-10-26T19:38:51Z
+  Total Products: 3511
 - [Novidades](https://brincatoys.pt/collections/novidades)
   Updated: 2025-10-26T12:51:24Z
   Total Products: 415
@@ -21691,8 +21677,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-19T09:15:50Z
   Total Products: 9
 - [Catálogo](https://brincatoys.pt/collections/all)
-  Updated: 2025-10-26T15:18:12Z
-  Total Products: 3546
+  Updated: 2025-10-26T19:38:51Z
+  Total Products: 3544
 - [6 - 7 anos](https://brincatoys.pt/collections/6-7-anos)
   Updated: 2025-10-26T15:18:12Z
   Total Products: 286
@@ -21703,8 +21689,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-26T12:50:38Z
   Total Products: 119
 - [+ 3 anos](https://brincatoys.pt/collections/de-3-anos)
-  Updated: 2025-10-26T12:51:24Z
-  Total Products: 1231
+  Updated: 2025-10-26T19:38:51Z
+  Total Products: 1230
 - [+ 4 anos](https://brincatoys.pt/collections/de-4-anos)
   Updated: 2025-10-24T11:21:26Z
   Total Products: 497
@@ -21718,8 +21704,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-26T15:18:12Z
   Total Products: 78
 - [+ 8 anos](https://brincatoys.pt/collections/8-anos)
-  Updated: 2025-10-26T15:00:46Z
-  Total Products: 220
+  Updated: 2025-10-26T18:40:21Z
+  Total Products: 219
 - [+ 12 anos](https://brincatoys.pt/collections/12-anos)
   Updated: 2025-10-19T09:15:50Z
   Total Products: 90
@@ -21727,11 +21713,11 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-25T15:18:27Z
   Total Products: 87
 - [Os mais procurados](https://brincatoys.pt/collections/os-mais-populares)
-  Updated: 2025-10-26T15:18:12Z
-  Total Products: 3547
+  Updated: 2025-10-26T19:38:51Z
+  Total Products: 3545
 - [Recém-chegados](https://brincatoys.pt/collections/recem-chegados)
-  Updated: 2025-10-26T15:18:12Z
-  Total Products: 3547
+  Updated: 2025-10-26T19:38:51Z
+  Total Products: 3545
 - [Produtos em destaque](https://brincatoys.pt/collections/produtos-em-destaque)
   Updated: 2025-10-22T11:22:51Z
   Total Products: 22
