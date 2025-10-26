@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2024-08-10T17:41:58Z
 - Contact Email: info@baskandweave.com
-- Updated At: 2025-10-25T22:14:13.924Z
+- Updated At: 2025-10-26T04:01:00.366Z
 
 ## Products
 
@@ -22664,209 +22664,209 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/All-Over_Print_Minimalist_Backpack.jpg?v=1740983864
   Price: $58.50 USD
-- [Neck T-Shirt | Unisex Organic Ribbed Cotton Tee](https://baskandweave.com/products/unisex-organic-ribbed-neck-t-shirt): Shop the Unisex Organic Ribbed Neck T-Shirt – eco-friendly cotton, breathable, and stylish. A sustainable choice for casual everyday wear
-  Updated: 2025-10-24T10:11:23Z
+- [Neck T-Shirt | Unisex Organic Ribbed Cotton Tee](https://baskandweave.com/products/neck-t-shirt-organic-ribbed-unisex): Neck T-Shirt Organic Ribbed (Unisex) - Shop the Unisex Organic Ribbed Neck T-Shirt – eco-friendly cotton, breathable, and stylish.
+  Updated: 2025-10-26T00:18:48Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-ribbed-neck-t-shirt-black-front-and-back-67fc15501a0b3.jpg?v=1744573797
-  - [Black / S](https://baskandweave.com/products/unisex-organic-ribbed-neck-t-shirt?variant=47254480421114)
+  - [Black / S](https://baskandweave.com/products/neck-t-shirt-organic-ribbed-unisex?variant=47254480421114)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-ribbed-neck-t-shirt-black-front-and-back-67fc15501a0b3.jpg?v=1744573797
     Price: $32.50 USD
-  - [Black / M](https://baskandweave.com/products/unisex-organic-ribbed-neck-t-shirt?variant=47254480453882)
+  - [Black / M](https://baskandweave.com/products/neck-t-shirt-organic-ribbed-unisex?variant=47254480453882)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-ribbed-neck-t-shirt-black-front-and-back-67fc15501a0b3.jpg?v=1744573797
     Price: $32.50 USD
-  - [Black / L](https://baskandweave.com/products/unisex-organic-ribbed-neck-t-shirt?variant=47254480486650)
+  - [Black / L](https://baskandweave.com/products/neck-t-shirt-organic-ribbed-unisex?variant=47254480486650)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-ribbed-neck-t-shirt-black-front-and-back-67fc15501a0b3.jpg?v=1744573797
     Price: $32.50 USD
-  - [Black / XL](https://baskandweave.com/products/unisex-organic-ribbed-neck-t-shirt?variant=47254480519418)
+  - [Black / XL](https://baskandweave.com/products/neck-t-shirt-organic-ribbed-unisex?variant=47254480519418)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-ribbed-neck-t-shirt-black-front-and-back-67fc15501a0b3.jpg?v=1744573797
     Price: $32.50 USD
-  - [Black / 2XL](https://baskandweave.com/products/unisex-organic-ribbed-neck-t-shirt?variant=47254480552186)
+  - [Black / 2XL](https://baskandweave.com/products/neck-t-shirt-organic-ribbed-unisex?variant=47254480552186)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-ribbed-neck-t-shirt-black-front-and-back-67fc15501a0b3.jpg?v=1744573797
     Price: $36.50 USD
-  - [Black / 3XL](https://baskandweave.com/products/unisex-organic-ribbed-neck-t-shirt?variant=47254480584954)
+  - [Black / 3XL](https://baskandweave.com/products/neck-t-shirt-organic-ribbed-unisex?variant=47254480584954)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-ribbed-neck-t-shirt-black-front-and-back-67fc15501a0b3.jpg?v=1744573797
     Price: $40.50 USD
-  - [Black / 4XL](https://baskandweave.com/products/unisex-organic-ribbed-neck-t-shirt?variant=47254480617722)
+  - [Black / 4XL](https://baskandweave.com/products/neck-t-shirt-organic-ribbed-unisex?variant=47254480617722)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-ribbed-neck-t-shirt-black-front-and-back-67fc15501a0b3.jpg?v=1744573797
     Price: $44.50 USD
-  - [Black / 5XL](https://baskandweave.com/products/unisex-organic-ribbed-neck-t-shirt?variant=47254480650490)
+  - [Black / 5XL](https://baskandweave.com/products/neck-t-shirt-organic-ribbed-unisex?variant=47254480650490)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-ribbed-neck-t-shirt-black-front-and-back-67fc15501a0b3.jpg?v=1744573797
     Price: $48.00 USD
-  - [French Navy / S](https://baskandweave.com/products/unisex-organic-ribbed-neck-t-shirt?variant=47254480683258)
+  - [French Navy / S](https://baskandweave.com/products/neck-t-shirt-organic-ribbed-unisex?variant=47254480683258)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-ribbed-neck-t-shirt-french-navy-front-and-back-67fc15501f99b.jpg?v=1744573798
     Price: $32.50 USD
-  - [French Navy / M](https://baskandweave.com/products/unisex-organic-ribbed-neck-t-shirt?variant=47254480716026)
+  - [French Navy / M](https://baskandweave.com/products/neck-t-shirt-organic-ribbed-unisex?variant=47254480716026)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-ribbed-neck-t-shirt-french-navy-front-and-back-67fc15501f99b.jpg?v=1744573798
     Price: $32.50 USD
-  - [French Navy / L](https://baskandweave.com/products/unisex-organic-ribbed-neck-t-shirt?variant=47254480748794)
+  - [French Navy / L](https://baskandweave.com/products/neck-t-shirt-organic-ribbed-unisex?variant=47254480748794)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-ribbed-neck-t-shirt-french-navy-front-and-back-67fc15501f99b.jpg?v=1744573798
     Price: $32.50 USD
-  - [French Navy / XL](https://baskandweave.com/products/unisex-organic-ribbed-neck-t-shirt?variant=47254480781562)
+  - [French Navy / XL](https://baskandweave.com/products/neck-t-shirt-organic-ribbed-unisex?variant=47254480781562)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-ribbed-neck-t-shirt-french-navy-front-and-back-67fc15501f99b.jpg?v=1744573798
     Price: $32.50 USD
-  - [French Navy / 2XL](https://baskandweave.com/products/unisex-organic-ribbed-neck-t-shirt?variant=47254480814330)
+  - [French Navy / 2XL](https://baskandweave.com/products/neck-t-shirt-organic-ribbed-unisex?variant=47254480814330)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-ribbed-neck-t-shirt-french-navy-front-and-back-67fc15501f99b.jpg?v=1744573798
     Price: $36.50 USD
-  - [French Navy / 3XL](https://baskandweave.com/products/unisex-organic-ribbed-neck-t-shirt?variant=47254480847098)
+  - [French Navy / 3XL](https://baskandweave.com/products/neck-t-shirt-organic-ribbed-unisex?variant=47254480847098)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-ribbed-neck-t-shirt-french-navy-front-and-back-67fc15501f99b.jpg?v=1744573798
     Price: $40.50 USD
-  - [French Navy / 4XL](https://baskandweave.com/products/unisex-organic-ribbed-neck-t-shirt?variant=47254480879866)
+  - [French Navy / 4XL](https://baskandweave.com/products/neck-t-shirt-organic-ribbed-unisex?variant=47254480879866)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-ribbed-neck-t-shirt-french-navy-front-and-back-67fc15501f99b.jpg?v=1744573798
     Price: $44.50 USD
-  - [French Navy / 5XL](https://baskandweave.com/products/unisex-organic-ribbed-neck-t-shirt?variant=47254480912634)
+  - [French Navy / 5XL](https://baskandweave.com/products/neck-t-shirt-organic-ribbed-unisex?variant=47254480912634)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-ribbed-neck-t-shirt-french-navy-front-and-back-67fc15501f99b.jpg?v=1744573798
     Price: $48.00 USD
-  - [Dark Heather Grey / S](https://baskandweave.com/products/unisex-organic-ribbed-neck-t-shirt?variant=47254480945402)
+  - [Dark Heather Grey / S](https://baskandweave.com/products/neck-t-shirt-organic-ribbed-unisex?variant=47254480945402)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-ribbed-neck-t-shirt-dark-heather-grey-front-and-back-67fc155021186.jpg?v=1744573798
     Price: $32.50 USD
-  - [Dark Heather Grey / M](https://baskandweave.com/products/unisex-organic-ribbed-neck-t-shirt?variant=47254480978170)
+  - [Dark Heather Grey / M](https://baskandweave.com/products/neck-t-shirt-organic-ribbed-unisex?variant=47254480978170)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-ribbed-neck-t-shirt-dark-heather-grey-front-and-back-67fc155021186.jpg?v=1744573798
     Price: $32.50 USD
-  - [Dark Heather Grey / L](https://baskandweave.com/products/unisex-organic-ribbed-neck-t-shirt?variant=47254481010938)
+  - [Dark Heather Grey / L](https://baskandweave.com/products/neck-t-shirt-organic-ribbed-unisex?variant=47254481010938)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-ribbed-neck-t-shirt-dark-heather-grey-front-and-back-67fc155021186.jpg?v=1744573798
     Price: $32.50 USD
-  - [Dark Heather Grey / XL](https://baskandweave.com/products/unisex-organic-ribbed-neck-t-shirt?variant=47254481043706)
+  - [Dark Heather Grey / XL](https://baskandweave.com/products/neck-t-shirt-organic-ribbed-unisex?variant=47254481043706)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-ribbed-neck-t-shirt-dark-heather-grey-front-and-back-67fc155021186.jpg?v=1744573798
     Price: $32.50 USD
-  - [Dark Heather Grey / 2XL](https://baskandweave.com/products/unisex-organic-ribbed-neck-t-shirt?variant=47254481076474)
+  - [Dark Heather Grey / 2XL](https://baskandweave.com/products/neck-t-shirt-organic-ribbed-unisex?variant=47254481076474)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-ribbed-neck-t-shirt-dark-heather-grey-front-and-back-67fc155021186.jpg?v=1744573798
     Price: $36.50 USD
-  - [Burgundy / S](https://baskandweave.com/products/unisex-organic-ribbed-neck-t-shirt?variant=47254481109242)
+  - [Burgundy / S](https://baskandweave.com/products/neck-t-shirt-organic-ribbed-unisex?variant=47254481109242)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-ribbed-neck-t-shirt-burgundy-front-and-back-67fc155022de4.jpg?v=1744573798
     Price: $32.50 USD
-  - [Burgundy / M](https://baskandweave.com/products/unisex-organic-ribbed-neck-t-shirt?variant=47254481142010)
+  - [Burgundy / M](https://baskandweave.com/products/neck-t-shirt-organic-ribbed-unisex?variant=47254481142010)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-ribbed-neck-t-shirt-burgundy-front-and-back-67fc155022de4.jpg?v=1744573798
     Price: $32.50 USD
-  - [Burgundy / L](https://baskandweave.com/products/unisex-organic-ribbed-neck-t-shirt?variant=47254481174778)
+  - [Burgundy / L](https://baskandweave.com/products/neck-t-shirt-organic-ribbed-unisex?variant=47254481174778)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-ribbed-neck-t-shirt-burgundy-front-and-back-67fc155022de4.jpg?v=1744573798
     Price: $32.50 USD
-  - [Burgundy / XL](https://baskandweave.com/products/unisex-organic-ribbed-neck-t-shirt?variant=47254481207546)
+  - [Burgundy / XL](https://baskandweave.com/products/neck-t-shirt-organic-ribbed-unisex?variant=47254481207546)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-ribbed-neck-t-shirt-burgundy-front-and-back-67fc155022de4.jpg?v=1744573798
     Price: $32.50 USD
-  - [Burgundy / 2XL](https://baskandweave.com/products/unisex-organic-ribbed-neck-t-shirt?variant=47254481240314)
+  - [Burgundy / 2XL](https://baskandweave.com/products/neck-t-shirt-organic-ribbed-unisex?variant=47254481240314)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-ribbed-neck-t-shirt-burgundy-front-and-back-67fc155022de4.jpg?v=1744573798
     Price: $36.50 USD
-  - [Anthracite / S](https://baskandweave.com/products/unisex-organic-ribbed-neck-t-shirt?variant=47254481273082)
+  - [Anthracite / S](https://baskandweave.com/products/neck-t-shirt-organic-ribbed-unisex?variant=47254481273082)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-ribbed-neck-t-shirt-anthracite-front-and-back-67fc1550256ae.jpg?v=1744573797
     Price: $32.50 USD
-  - [Anthracite / M](https://baskandweave.com/products/unisex-organic-ribbed-neck-t-shirt?variant=47254481305850)
+  - [Anthracite / M](https://baskandweave.com/products/neck-t-shirt-organic-ribbed-unisex?variant=47254481305850)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-ribbed-neck-t-shirt-anthracite-front-and-back-67fc1550256ae.jpg?v=1744573797
     Price: $32.50 USD
-  - [Anthracite / L](https://baskandweave.com/products/unisex-organic-ribbed-neck-t-shirt?variant=47254481338618)
+  - [Anthracite / L](https://baskandweave.com/products/neck-t-shirt-organic-ribbed-unisex?variant=47254481338618)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-ribbed-neck-t-shirt-anthracite-front-and-back-67fc1550256ae.jpg?v=1744573797
     Price: $32.50 USD
-  - [Anthracite / XL](https://baskandweave.com/products/unisex-organic-ribbed-neck-t-shirt?variant=47254481371386)
+  - [Anthracite / XL](https://baskandweave.com/products/neck-t-shirt-organic-ribbed-unisex?variant=47254481371386)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-ribbed-neck-t-shirt-anthracite-front-and-back-67fc1550256ae.jpg?v=1744573797
     Price: $32.50 USD
-  - [Anthracite / 2XL](https://baskandweave.com/products/unisex-organic-ribbed-neck-t-shirt?variant=47254481404154)
+  - [Anthracite / 2XL](https://baskandweave.com/products/neck-t-shirt-organic-ribbed-unisex?variant=47254481404154)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-ribbed-neck-t-shirt-anthracite-front-and-back-67fc1550256ae.jpg?v=1744573797
     Price: $36.50 USD
-  - [Red / S](https://baskandweave.com/products/unisex-organic-ribbed-neck-t-shirt?variant=47254481436922)
+  - [Red / S](https://baskandweave.com/products/neck-t-shirt-organic-ribbed-unisex?variant=47254481436922)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-ribbed-neck-t-shirt-red-front-and-back-67fc1550274ef.jpg?v=1744573798
     Price: $32.50 USD
-  - [Red / M](https://baskandweave.com/products/unisex-organic-ribbed-neck-t-shirt?variant=47254481469690)
+  - [Red / M](https://baskandweave.com/products/neck-t-shirt-organic-ribbed-unisex?variant=47254481469690)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-ribbed-neck-t-shirt-red-front-and-back-67fc1550274ef.jpg?v=1744573798
     Price: $32.50 USD
-  - [Red / L](https://baskandweave.com/products/unisex-organic-ribbed-neck-t-shirt?variant=47254481502458)
+  - [Red / L](https://baskandweave.com/products/neck-t-shirt-organic-ribbed-unisex?variant=47254481502458)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-ribbed-neck-t-shirt-red-front-and-back-67fc1550274ef.jpg?v=1744573798
     Price: $32.50 USD
-  - [Red / XL](https://baskandweave.com/products/unisex-organic-ribbed-neck-t-shirt?variant=47254481535226)
+  - [Red / XL](https://baskandweave.com/products/neck-t-shirt-organic-ribbed-unisex?variant=47254481535226)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-ribbed-neck-t-shirt-red-front-and-back-67fc1550274ef.jpg?v=1744573798
     Price: $32.50 USD
-  - [Red / 2XL](https://baskandweave.com/products/unisex-organic-ribbed-neck-t-shirt?variant=47254481567994)
+  - [Red / 2XL](https://baskandweave.com/products/neck-t-shirt-organic-ribbed-unisex?variant=47254481567994)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-ribbed-neck-t-shirt-red-front-and-back-67fc1550274ef.jpg?v=1744573798
     Price: $36.50 USD
-  - [Stargazer / S](https://baskandweave.com/products/unisex-organic-ribbed-neck-t-shirt?variant=47254481600762)
+  - [Stargazer / S](https://baskandweave.com/products/neck-t-shirt-organic-ribbed-unisex?variant=47254481600762)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-ribbed-neck-t-shirt-stargazer-front-and-back-67fc15502980a.jpg?v=1744573798
     Price: $32.50 USD
-  - [Stargazer / M](https://baskandweave.com/products/unisex-organic-ribbed-neck-t-shirt?variant=47254481633530)
+  - [Stargazer / M](https://baskandweave.com/products/neck-t-shirt-organic-ribbed-unisex?variant=47254481633530)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-ribbed-neck-t-shirt-stargazer-front-and-back-67fc15502980a.jpg?v=1744573798
     Price: $32.50 USD
-  - [Stargazer / L](https://baskandweave.com/products/unisex-organic-ribbed-neck-t-shirt?variant=47254481666298)
+  - [Stargazer / L](https://baskandweave.com/products/neck-t-shirt-organic-ribbed-unisex?variant=47254481666298)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-ribbed-neck-t-shirt-stargazer-front-and-back-67fc15502980a.jpg?v=1744573798
     Price: $32.50 USD
-  - [Stargazer / XL](https://baskandweave.com/products/unisex-organic-ribbed-neck-t-shirt?variant=47254481699066)
+  - [Stargazer / XL](https://baskandweave.com/products/neck-t-shirt-organic-ribbed-unisex?variant=47254481699066)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-ribbed-neck-t-shirt-stargazer-front-and-back-67fc15502980a.jpg?v=1744573798
     Price: $32.50 USD
-  - [Stargazer / 2XL](https://baskandweave.com/products/unisex-organic-ribbed-neck-t-shirt?variant=47254481731834)
+  - [Stargazer / 2XL](https://baskandweave.com/products/neck-t-shirt-organic-ribbed-unisex?variant=47254481731834)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-ribbed-neck-t-shirt-stargazer-front-and-back-67fc15502980a.jpg?v=1744573798
     Price: $36.50 USD
-  - [Heather Grey / S](https://baskandweave.com/products/unisex-organic-ribbed-neck-t-shirt?variant=47254481764602)
+  - [Heather Grey / S](https://baskandweave.com/products/neck-t-shirt-organic-ribbed-unisex?variant=47254481764602)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-ribbed-neck-t-shirt-heather-grey-front-and-back-67fc15502bf88.jpg?v=1744573798
     Price: $32.50 USD
-  - [Heather Grey / M](https://baskandweave.com/products/unisex-organic-ribbed-neck-t-shirt?variant=47254481797370)
+  - [Heather Grey / M](https://baskandweave.com/products/neck-t-shirt-organic-ribbed-unisex?variant=47254481797370)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-ribbed-neck-t-shirt-heather-grey-front-and-back-67fc15502bf88.jpg?v=1744573798
     Price: $32.50 USD
-  - [Heather Grey / L](https://baskandweave.com/products/unisex-organic-ribbed-neck-t-shirt?variant=47254481830138)
+  - [Heather Grey / L](https://baskandweave.com/products/neck-t-shirt-organic-ribbed-unisex?variant=47254481830138)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-ribbed-neck-t-shirt-heather-grey-front-and-back-67fc15502bf88.jpg?v=1744573798
     Price: $32.50 USD
-  - [Heather Grey / XL](https://baskandweave.com/products/unisex-organic-ribbed-neck-t-shirt?variant=47254481862906)
+  - [Heather Grey / XL](https://baskandweave.com/products/neck-t-shirt-organic-ribbed-unisex?variant=47254481862906)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-ribbed-neck-t-shirt-heather-grey-front-and-back-67fc15502bf88.jpg?v=1744573798
     Price: $32.50 USD
-  - [Heather Grey / 2XL](https://baskandweave.com/products/unisex-organic-ribbed-neck-t-shirt?variant=47254481895674)
+  - [Heather Grey / 2XL](https://baskandweave.com/products/neck-t-shirt-organic-ribbed-unisex?variant=47254481895674)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-ribbed-neck-t-shirt-heather-grey-front-and-back-67fc15502bf88.jpg?v=1744573798
     Price: $36.50 USD
-  - [Heather Grey / 3XL](https://baskandweave.com/products/unisex-organic-ribbed-neck-t-shirt?variant=47254481928442)
+  - [Heather Grey / 3XL](https://baskandweave.com/products/neck-t-shirt-organic-ribbed-unisex?variant=47254481928442)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-ribbed-neck-t-shirt-heather-grey-front-and-back-67fc15502bf88.jpg?v=1744573798
     Price: $40.50 USD
-  - [Heather Grey / 4XL](https://baskandweave.com/products/unisex-organic-ribbed-neck-t-shirt?variant=47254481961210)
+  - [Heather Grey / 4XL](https://baskandweave.com/products/neck-t-shirt-organic-ribbed-unisex?variant=47254481961210)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-ribbed-neck-t-shirt-heather-grey-front-and-back-67fc15502bf88.jpg?v=1744573798
     Price: $44.50 USD
-  - [Heather Grey / 5XL](https://baskandweave.com/products/unisex-organic-ribbed-neck-t-shirt?variant=47254481993978)
+  - [Heather Grey / 5XL](https://baskandweave.com/products/neck-t-shirt-organic-ribbed-unisex?variant=47254481993978)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-ribbed-neck-t-shirt-heather-grey-front-and-back-67fc15502bf88.jpg?v=1744573798
     Price: $48.00 USD
-  - [Fraiche Peche / S](https://baskandweave.com/products/unisex-organic-ribbed-neck-t-shirt?variant=47254482026746)
+  - [Fraiche Peche / S](https://baskandweave.com/products/neck-t-shirt-organic-ribbed-unisex?variant=47254482026746)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-organic-ribbed-neck-t-shirt-fraiche-peche-front-and-back-67fc15502ec39.jpg?v=1744573797
     Price: $32.50 USD
