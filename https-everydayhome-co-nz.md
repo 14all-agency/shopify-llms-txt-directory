@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-10-26T00:00:40.340Z
+- Updated At: 2025-10-26T04:00:42.126Z
 
 ## Products
 
@@ -1131,7 +1131,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Fall-Front-Bread-Bin-Matt-Black-5.png?v=1727660185
   Price: $119.99 NZD
 - [Brabantia Roll Top Bread Bin - Medium Matt Steel](https://everydayhome.co.nz/products/roll-top-bread-bin-matt-steel): Keep your bread handy and fresher for longer in Brabantia's Roll Top Bread Bin. This beauty of a bread bin can hold up to two loaves, or anything else you want it to, and has a large grip for easy opening. A practical and stylish addition to your kitchen!
-  Updated: 2025-10-23T20:31:40Z
+  Updated: 2025-10-26T01:37:11Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
@@ -1607,7 +1607,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Bellwood-Leaning-Mirror-Black-UMBRA-3.png?v=1731903084
   Price: $383.99 NZD
 - [Umbra Bellwood Umbrella Stand - Black/Walnut](https://everydayhome.co.nz/products/bellwood-umbrella-stand-black-walnut): The Bellwood Umbrella Stand is durable as it is stylish thanks to its beautiful and shape and resin base, which is water-resistant and prevents rusting. Featuring a round base and a curved wood veneer handle with an upper ring made of steel. This piece is easy to assemble and includes all hardware. Its slots will hold your tall umbrellas with ease and its tiny hooks on the top of the ring will hold your more compact, short umbrellas.
-  Updated: 2025-10-24T01:37:11Z
+  Updated: 2025-10-26T01:37:10Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -1705,7 +1705,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Cappa-Toilet-Paper-Stand-Black-UMBRA-0.jpg?v=1731902721
   Price: $55.99 NZD
 - [Umbra Cappa Toilet Paper Holder - Nickel](https://everydayhome.co.nz/products/cappa-toilet-paper-stand-nickle): Cappa Toilet Paper Stand and Reserve is a minimalist, freestanding toilet paper stand with an integrated reserve for storing toilet paper rolls. Using often under-utilized vertical square footage, while maintaining a small footprint, Cappa holds up to three jumbo toilet paper rolls and dispenses one.
-  Updated: 2025-10-25T21:22:06Z
+  Updated: 2025-10-26T02:52:06Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -3056,14 +3056,14 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/ProtectiveClothesCover_XL_setof2-Transparent-8710755148965Brabantia_96dpi_1000x1000px_7_NR-26293.png?v=1733862417
   Price: $27.99 NZD
 - [Brabantia Stackable Glass Jar - 1.1L Dark Grey](https://everydayhome.co.nz/products/stackable-glass-jar-1-1l-w-dark-grey-lid): Efficiently organize your kitchen with these stackable glass jars. They provide the perfect storage solution for all your cooking supplies, keeping them fresh and accessible at all times.
-  Updated: 2025-10-25T16:07:12Z
+  Updated: 2025-10-26T02:07:06Z
   Vendor: BRABANTIA
   Product Type: Kitchenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/StackableGlassJar_1.1L-Transparent-8710755298264Brabantia_96dpi_1000x1000px_7_NR-1813.png?v=1734562896
   Price: $27.99 NZD
 - [Brabantia Protective Clothes Cover - Large Set of 2](https://everydayhome.co.nz/products/clothes-cover-set-2-lge-trans-gry): Looking for a good-looking solution to keep your coat or dress looking good? Then this set of two 60 x 135 cm Brabantia Protective Clothes Covers is the perfect fit. The soft-touch transparent zipper bags in size L protect your clothes from dust and moths.
-  Updated: 2025-10-23T20:33:59Z
+  Updated: 2025-10-26T01:37:11Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -3084,7 +3084,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/GroundSpikeMetal_Size3_O50mm-Galvanized-8710755311468Brabantia_96dpi_1000x1000px_7_NR-1855.png?v=1734403540
   Price: $27.99 NZD
 - [Brabantia Protective Clothes Cover - Medium Set of 2](https://everydayhome.co.nz/products/clothes-cover-set-2-med-trans-gry): For anyone that wants a good-looking solution for keeping their clothes looking good, this set of two 60 x 100 cm Brabantia Protective Clothes Covers is the perfect fit. The soft-touch transparent zipper bags in size M protect your blouses and shirts from dust and moths.
-  Updated: 2025-10-23T20:34:00Z
+  Updated: 2025-10-26T01:37:11Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
