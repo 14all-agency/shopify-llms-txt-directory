@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2023-03-22T10:49:51Z
 - Contact Email: onlineshop@lastradafashion.de
-- Updated At: 2025-10-25T12:00:38.512Z
+- Updated At: 2025-10-26T20:01:00.349Z
 
 La Strada is love for Italian Fashion. Our collections represents the latest fashion trends from Italy and is lovingly created and arranged for the modern fashionable woman who is looking for the newest trends, the best quality and best price. 
 
@@ -136,669 +136,238 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTMwNzc1NzQuanBn_69246603-f948-45ee-91e5-e55cac4465bb.jpg?v=1761071676
     Price: 25,00 € EUR
-- [Langes Top mit Spitze](https://lastradafashion.de/products/langes-top-mit-spitze): Dieses Top wurde zu 95% aus Viskose gefertigt und liegt deshalb angenehm weich und kühl auf der Haut. Das leichte Design hat schmale Träger, die elegant über die Schultern verlaufen. Es ist ideal für warme Tage und verleiht dem Outfit eine feminine Note. Der Rundhalsausschnitt ist klassisch und schmeichelt dem Dekolleté. Am unteren Saum des Tops befindet sich ein zarter Spitzenbesatz, der dem Top eine raffinierte Note verleiht. Das Top ist luftig und angenehm zu tragen, perfekt für den Sommer oder zu besonderen Anlässen. Es ist in verschiedenen Farben erhältlich und lässt sich leicht mit anderen Kleidungsstücken kombinieren. Ziehen Sie es mit einer Leggings oder einer Jeans an und kombinieren Sie dazu zum Beispiel eine Jeansjacke! MARKE - La Strada PASSFORM UND SCHNITT - One Size (von Größen 36 bis 42) - normal geschnitten, eng anliegend, reicht über die Hüfte - U-Ausschnitt, ärmellos MATERIAL UND VERARBEITUNG - Materialmix: 95% Viskose 5% Elastan - Materialqualität: leichtes Material, elastisches Material PFLEGEHINWEIS - Maschinenwäsche 30°C MODEL - Das Model ist 178cm groß und trägt Konfektionsgröße 36 bzw. S
-  Updated: 2025-10-20T15:48:42Z
+- [Freizeithose in Knitteroptik](https://lastradafashion.de/products/freizeithose-in-knitteroptik): Casual Chic auf den Punkt gebracht – diese Hose überzeugt mit moderner Knitterstruktur und komfortabler Passform. Der weiche, elastische Materialmix verleiht der Hose einen coolen Used-Charakter mit modischem Twist. Der elastische Bund mit Tunnelzug sorgt für einen perfekten Sitz, während die schmal zulaufende Beinform und die gekrempelten Abschlüsse einen urbanen Touch einbringen. Die gewollte Knitteroptik verleiht dem Look bewusst lässige Nonchalance – perfekt für stylische Alltagslooks mit Wohlfühlfaktor. Ein echtes Must-have für unkomplizierte Looks mit Persönlichkeit.
+  Updated: 2025-10-26T17:20:45Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/products/langes-top-mit-spitze-la-strada-1.jpg?v=1706890399
-  - [BEIGE / One Size](https://lastradafashion.de/products/langes-top-mit-spitze?variant=49450019455325)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/products/langes-top-mit-spitze-la-strada-6.jpg?v=1706890416
-    Price: 19,90 € EUR
-  - [KHAKI / One Size](https://lastradafashion.de/products/langes-top-mit-spitze?variant=49450019488093)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/products/langes-top-mit-spitze-la-strada-7.jpg?v=1706890419
-    Price: 19,90 € EUR
-  - [PINK / One Size](https://lastradafashion.de/products/langes-top-mit-spitze?variant=49450019520861)
+  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxNS02MTc1LTQwNjgzODIxNjIxNDktYW50aHJheml0LTI1MDB4MTg3NXB4LWJnYi00LmpwZWc_f61cbf02-a204-45b0-ab16-f30490db7b3a.jpg?v=1761417010
+  - [One Size / KHAKI](https://lastradafashion.de/products/freizeithose-in-knitteroptik?variant=51627506631005)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/products/langes-top-mit-spitze-la-strada-8.jpg?v=1706890423
-    Price: 19,90 € EUR
-  - [SCHWARZ / One Size](https://lastradafashion.de/products/langes-top-mit-spitze?variant=49450019553629)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/products/langes-top-mit-spitze-la-strada-9.jpg?v=1706890426
-    Price: 19,90 € EUR
-  - [WEIß / One Size](https://lastradafashion.de/products/langes-top-mit-spitze?variant=49450019586397)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/products/langes-top-mit-spitze-la-strada-10.jpg?v=1706890430
-    Price: 19,90 € EUR
-  - [ANTHRAZIT / One Size](https://lastradafashion.de/products/langes-top-mit-spitze?variant=49450019619165)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/products/langes-top-mit-spitze-la-strada-11.jpg?v=1706890434
-    Price: 19,90 € EUR
-  - [BEERE / One Size](https://lastradafashion.de/products/langes-top-mit-spitze?variant=49450019651933)
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTQ4ODIyNDYuanBn_1b421990-80c9-4ac4-8a3e-3abce90a5b26.jpg?v=1761498293
+    Price: 35,00 € EUR
+  - [One Size / BRAUN](https://lastradafashion.de/products/freizeithose-in-knitteroptik?variant=58887719321949)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/products/langes-top-mit-spitze-la-strada-12.jpg?v=1706890437
-    Price: 19,90 € EUR
-  - [CREME / One Size](https://lastradafashion.de/products/langes-top-mit-spitze?variant=49450019684701)
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTQ4ODIyNDUuanBn_6def9773-2dbb-46f0-b22f-4310596a57f5.jpg?v=1761498293
+    Price: 35,00 € EUR
+  - [One Size / GRAU](https://lastradafashion.de/products/freizeithose-in-knitteroptik?variant=53033835790685)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/products/langes-top-mit-spitze-la-strada-13.jpg?v=1706890440
-    Price: 19,90 € EUR
-  - [JEANSBLAU / One Size](https://lastradafashion.de/products/langes-top-mit-spitze?variant=49450019717469)
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTQ4ODIyNDQuanBn_67032c9a-af00-45d9-8f41-9e1ed0040702.jpg?v=1761498293
+    Price: 35,00 € EUR
+  - [One Size / BEIGE](https://lastradafashion.de/products/freizeithose-in-knitteroptik?variant=51627506663773)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/products/langes-top-mit-spitze-la-strada-1.jpg?v=1706890399
-    Price: 19,90 € EUR
-  - [MARINE / One Size](https://lastradafashion.de/products/langes-top-mit-spitze?variant=49450019750237)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/products/langes-top-mit-spitze-la-strada-14.jpg?v=1706890443
-    Price: 19,90 € EUR
-- [Basic Top](https://lastradafashion.de/products/basic-top): Dieses Basic-Top mit seinem anliegenden Schnitt und dem klassischen Rundhalsausschnitt ist ein Must-Have für jede Garderobe. Die breiten Träger sorgen nicht nur für einen bequemen Sitz, sondern verleihen dem Top auch einen modernen Look. Ob als Unterzieh-Shirt unter einem Pullover oder Cardigan oder solo getragen zu einer Jeans oder Rock - dieses vielseitige Top passt zu jedem Outfit. Durch seinen schlichten und zeitlosen Stil ist es ein echtes Allroundtalent, das in keinem Kleiderschrank fehlen sollte. Die hochwertige Verarbeitung und das angenehme Material machen es zudem zu einem echten Lieblingsteil, das man immer wieder gerne trägt. Ein Basic-Top, das einfach immer passt und für einen minimalistischen und cleanen Look sorgt. MARKE - La Strada PASSFORM UND SCHNITT - One Size (von Größen 36 bis 42) - normal geschnitten, locker fallend, reicht über die Hüfte - Rundhalsausschnitt, ärmellos, Rückenausschnitt MATERIAL UND VERARBEITUNG - Materialmix: 95 % Viskose 5 % Elasthan - Materialqualität: leichtes Material, elastisches Material PFLEGEHINWEIS - Maschinenwäsche 30°C MODEL - Das Model ist 176cm groß und trägt Konfektionsgröße 36 bzw. S
-  Updated: 2025-10-22T14:12:25Z
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxNS02MTc1LTQwNjgzODIwMDQ0NTYtYmVpZ2UtMjUwMHgxODc1cHgtYmdiLTQuanBlZw_47249333-82ce-46dc-a096-78f73be73c7c.jpg?v=1761417010
+    Price: 35,00 € EUR
+  - [One Size / SCHWARZ](https://lastradafashion.de/products/freizeithose-in-knitteroptik?variant=51627506696541)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxNS02MTc1LTQwNjgzODIwMDkxMjMtc2Nod2Fyei0yNTAweDE4NzVweC1iZ2ItNC5qcGVn_9f663a54-ba99-49cc-b3a0-7fddfe46eb20.jpg?v=1761417010
+    Price: 35,00 € EUR
+  - [One Size / MARINE](https://lastradafashion.de/products/freizeithose-in-knitteroptik?variant=50197284651357)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxNS02MTc1LTQwNjgzODIwMzU4OTQtbWFyaW5lLTI1MDB4MTg3NXB4LWJnYi00LmpwZWc_2d06e664-d20e-445d-ae5a-5e194f89be28.jpg?v=1761417010
+    Price: 35,00 € EUR
+  - [One Size / TAUPE](https://lastradafashion.de/products/freizeithose-in-knitteroptik?variant=53033835823453)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxNS02MTc1LTQwNjgzODIwODEwNzUtdGF1cGUtMjUwMHgxODc1cHgtYmdiLTQuanBlZw_c3b4349f-4414-4111-be8c-6d3fc641b920.jpg?v=1761417010
+    Price: 35,00 € EUR
+  - [One Size / BORDEAUX](https://lastradafashion.de/products/freizeithose-in-knitteroptik?variant=58887719354717)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxNS02MTc1LTQwNjgzODIxNTE5MTQtYm9yZGVhdXgtMjUwMHgxODc1cHgtYmdiLTQuanBlZw_17f6f23c-b9e1-438a-9388-b13dc4502f72.jpg?v=1761417010
+    Price: 35,00 € EUR
+  - [One Size / ANTHRAZIT](https://lastradafashion.de/products/freizeithose-in-knitteroptik?variant=58887719387485)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxNS02MTc1LTQwNjgzODIxNjIxNDktYW50aHJheml0LTI1MDB4MTg3NXB4LWJnYi00LmpwZWc_f61cbf02-a204-45b0-ab16-f30490db7b3a.jpg?v=1761417010
+    Price: 35,00 € EUR
+- [Slim-Fit Jeans](https://lastradafashion.de/products/slim-fit-jeans): Die Slim-Fit Jeans begeistert mit ihrem zeitlosen Chic und einer schmeichelnden Passform, die jede Silhouette perfekt in Szene setzt. Die figurbetonte Schnittführung betont Beine und Taille, während das elastische Material ein angenehmes Tragegefühl garantiert. Dezente Details wie aufgesetzte Gesäßtaschen und angedeutete Nähte an den Knien setzen modische Akzente und verleihen der Jeans einen Hauch von Urban-Coolness. Ob lässig mit Oversize-Pullover und Sneakern oder feminin mit Bluse und Absatzschuh – dieses Must-have passt sich deinem Stil mühelos an.
+  Updated: 2025-10-26T17:25:13Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI4MjAzNDcuanBn_9b0f89f1-95ca-475a-aee9-973c89b3e0e9.jpg?v=1742380781
-  - [AVOCADO / One Size](https://lastradafashion.de/products/basic-top?variant=50979341467997)
+  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQyMC04MTI2LTQwNjgzODIxNTI5MTEtYm9yZGVhdXgtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1761499003
+  - [XS / KHAKI](https://lastradafashion.de/products/slim-fit-jeans?variant=56575999836509)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI4MjA4NDkuanBn.jpg?v=1741966620
-    Price: 12,00 € EUR
-  - [BEIGE / One Size](https://lastradafashion.de/products/basic-top?variant=50979341500765)
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQyMC04MTI2LTQwNjgzODIwMDk1NDMta2hha2ktMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1761499003
+    Price: 59,00 € EUR
+  - [XS / BEIGE](https://lastradafashion.de/products/slim-fit-jeans?variant=56575999902045)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTAwNTkwMDMuanBn_7c976818-1cfd-4d53-96ea-add188c702f6.jpg?v=1741966620
-    Price: 12,00 € EUR
-  - [GRÜN / One Size](https://lastradafashion.de/products/basic-top?variant=50979341533533)
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQyMC04MTI2LTQwNjgzODIwMDk0NDQtYmVpZ2UtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1761499003
+    Price: 59,00 € EUR
+  - [XS / GRAU](https://lastradafashion.de/products/slim-fit-jeans?variant=50196734247261)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI4MjA4NTQuanBn.jpg?v=1741966620
-    Price: 12,00 € EUR
-  - [HELLBLAU / One Size](https://lastradafashion.de/products/basic-top?variant=50979341566301)
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQyMC04MTI2LTQwNjgzODIwMDkzOTAtZ3JhdS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1761499003
+    Price: 59,00 € EUR
+  - [XS / BORDEAUX](https://lastradafashion.de/products/slim-fit-jeans?variant=58893591478621)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTAwNTg5MDYuanBn_ad88a600-83f1-4dde-85c0-0e121677081d.jpg?v=1741966620
-    Price: 12,00 € EUR
-  - [MARINE / One Size](https://lastradafashion.de/products/basic-top?variant=50979341599069)
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQyMC04MTI2LTQwNjgzODIxNTI5MTEtYm9yZGVhdXgtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1761499003
+    Price: 59,00 € EUR
+  - [S / KHAKI](https://lastradafashion.de/products/slim-fit-jeans?variant=56575999934813)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTAwNTg4NTAuanBn_cad0b0fb-3ff1-4de0-8e3e-1b0e7312a3a8.jpg?v=1741966620
-    Price: 12,00 € EUR
-  - [ORANGE / One Size](https://lastradafashion.de/products/basic-top?variant=56809646358877)
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQyMC04MTI2LTQwNjgzODIwMDk1NDMta2hha2ktMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1761499003
+    Price: 59,00 € EUR
+  - [S / BEIGE](https://lastradafashion.de/products/slim-fit-jeans?variant=56575999967581)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTAwNTkwNTcuanBn_84057ee4-af84-448c-a63c-e93a8ec6f521.jpg?v=1741966620
-    Price: 12,00 € EUR
-  - [PINK / One Size](https://lastradafashion.de/products/basic-top?variant=56809646391645)
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQyMC04MTI2LTQwNjgzODIwMDk0NDQtYmVpZ2UtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1761499003
+    Price: 59,00 € EUR
+  - [S / GRAU](https://lastradafashion.de/products/slim-fit-jeans?variant=50196734476637)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI4MjA4NTkuanBn.jpg?v=1741966620
-    Price: 12,00 € EUR
-  - [ROSA / One Size](https://lastradafashion.de/products/basic-top?variant=53033436152157)
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQyMC04MTI2LTQwNjgzODIwMDkzOTAtZ3JhdS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1761499003
+    Price: 59,00 € EUR
+  - [S / BORDEAUX](https://lastradafashion.de/products/slim-fit-jeans?variant=58893591511389)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTA5ODQ2OTguanBn_db4d8dfe-1954-40f4-83bc-3bf4b29ea275.jpg?v=1741966620
-    Price: 12,00 € EUR
-  - [ROYAL / One Size](https://lastradafashion.de/products/basic-top?variant=56809646424413)
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQyMC04MTI2LTQwNjgzODIxNTI5MTEtYm9yZGVhdXgtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1761499003
+    Price: 59,00 € EUR
+  - [M / KHAKI](https://lastradafashion.de/products/slim-fit-jeans?variant=56576000000349)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI4MjA4NTYuanBn.jpg?v=1741966620
-    Price: 12,00 € EUR
-  - [SCHWARZ / One Size](https://lastradafashion.de/products/basic-top?variant=50979341664605)
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQyMC04MTI2LTQwNjgzODIwMDk1NDMta2hha2ktMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1761499003
+    Price: 59,00 € EUR
+  - [M / BEIGE](https://lastradafashion.de/products/slim-fit-jeans?variant=56576000033117)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTAwNTg5MTAuanBn_f1bf45ab-137f-46a1-86f1-9d5b49f0c9cc.jpg?v=1741966620
-    Price: 12,00 € EUR
-  - [TÜRKIS / One Size](https://lastradafashion.de/products/basic-top?variant=56809646457181)
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQyMC04MTI2LTQwNjgzODIwMDk0NDQtYmVpZ2UtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1761499003
+    Price: 59,00 € EUR
+  - [M / GRAU](https://lastradafashion.de/products/slim-fit-jeans?variant=50196734706013)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI4MjA4NTcuanBn.jpg?v=1741966620
-    Price: 12,00 € EUR
-  - [VIOLETT / One Size](https://lastradafashion.de/products/basic-top?variant=50979341697373)
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQyMC04MTI2LTQwNjgzODIwMDkzOTAtZ3JhdS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1761499003
+    Price: 59,00 € EUR
+  - [M / BORDEAUX](https://lastradafashion.de/products/slim-fit-jeans?variant=58893591544157)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQyMC04MTI2LTQwNjgzODIxNTI5MTEtYm9yZGVhdXgtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1761499003
+    Price: 59,00 € EUR
+  - [L / KHAKI](https://lastradafashion.de/products/slim-fit-jeans?variant=56576000065885)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQyMC04MTI2LTQwNjgzODIwMDk1NDMta2hha2ktMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1761499003
+    Price: 59,00 € EUR
+  - [L / BEIGE](https://lastradafashion.de/products/slim-fit-jeans?variant=56576000098653)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQyMC04MTI2LTQwNjgzODIwMDk0NDQtYmVpZ2UtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1761499003
+    Price: 59,00 € EUR
+  - [L / GRAU](https://lastradafashion.de/products/slim-fit-jeans?variant=50196734935389)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQyMC04MTI2LTQwNjgzODIwMDkzOTAtZ3JhdS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1761499003
+    Price: 59,00 € EUR
+  - [L / BORDEAUX](https://lastradafashion.de/products/slim-fit-jeans?variant=58893591576925)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQyMC04MTI2LTQwNjgzODIxNTI5MTEtYm9yZGVhdXgtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1761499003
+    Price: 59,00 € EUR
+  - [XL / KHAKI](https://lastradafashion.de/products/slim-fit-jeans?variant=56576000131421)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI4MjA3MDkuanBn_7c81286a-258d-4644-b6b9-0485e9e2645c.jpg?v=1742380781
-    Price: 12,00 € EUR
-  - [WEIß / One Size](https://lastradafashion.de/products/basic-top?variant=56809646489949)
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQyMC04MTI2LTQwNjgzODIwMDk1NDMta2hha2ktMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1761499003
+    Price: 59,00 € EUR
+  - [XL / BEIGE](https://lastradafashion.de/products/slim-fit-jeans?variant=56576000164189)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI4MjAzNTcuanBn.jpg?v=1741966620
-    Price: 12,00 € EUR
-  - [GELB / One Size](https://lastradafashion.de/products/basic-top?variant=53033436184925)
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQyMC04MTI2LTQwNjgzODIwMDk0NDQtYmVpZ2UtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1761499003
+    Price: 59,00 € EUR
+  - [XL / GRAU](https://lastradafashion.de/products/slim-fit-jeans?variant=50196735164765)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI4MjAzNDkuanBn.jpg?v=1741966620
-    Price: 12,00 € EUR
-  - [ROT / One Size](https://lastradafashion.de/products/basic-top?variant=50979341795677)
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQyMC04MTI2LTQwNjgzODIwMDkzOTAtZ3JhdS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1761499003
+    Price: 59,00 € EUR
+  - [XL / BORDEAUX](https://lastradafashion.de/products/slim-fit-jeans?variant=58893591609693)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTAwNTg4OTQuanBn_f0dda819-eb48-4d13-9583-265613e28006.jpg?v=1741966620
-    Price: 12,00 € EUR
-  - [BRAUN / One Size](https://lastradafashion.de/products/basic-top?variant=53033436217693)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTA5ODQ3MDEuanBn_a227f39e-9bc8-4bcc-8037-3e30eec5c7ca.jpg?v=1741966620
-    Price: 12,00 € EUR
-  - [CREME / One Size](https://lastradafashion.de/products/basic-top?variant=53033436283229)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTA5ODQ3MDguanBn_2fc6b528-6d50-4b13-ba3e-2a1325e7bdcd.jpg?v=1741966620
-    Price: 12,00 € EUR
-  - [COGNAC / One Size](https://lastradafashion.de/products/basic-top?variant=56809646522717)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI4MjA3MTQuanBn_6042685a-4acf-4a44-a01f-dd9e686a2115.jpg?v=1741966620
-    Price: 12,00 € EUR
-  - [JEANSBLAU / One Size](https://lastradafashion.de/products/basic-top?variant=56809646555485)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI4MjA4NTguanBn_0a05904d-ee78-497a-a05f-b3cd5313af55.jpg?v=1741966620
-    Price: 12,00 € EUR
-  - [TAUPE / One Size](https://lastradafashion.de/products/basic-top?variant=56809646588253)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI4MjA3MTEuanBn.jpg?v=1741966620
-    Price: 12,00 € EUR
-- [Basic T-Shirt mit Wellensaum](https://lastradafashion.de/products/basic-t-shirt-mit-wellensaum): Dieses Basic T-Shirt darf auf keinen Fall in Ihrem Kleiderschrank fehlen! Es hat unten und an den Ärmeln einen Wellensaum und kann als Grundlage für diverse Outfits getragen werden. Kombinieren Sie es mit einer Jeans, einem Rock oder einer Bundfaltenhose und tragen Sie es unter Cardigans, Jeansjacken oder Blazern, die Möglichkeiten sind unendlich! MARKE - La Strada PASSFORM UND SCHNITT - One Size (von Größen 36 bis 42) - normal geschnitten, locker fallend, reicht bis zur Hüfte - Rundhalsausschnitt, kurzer Arm MATERIAL UND VERARBEITUNG - Materialmix: 95% Viskose 5% Elastan - Materialqualität: leichtes Material, elastisches Material PFLEGEHINWEIS - Maschinenwäsche 30°C MODEL - Das Model ist 174cm groß und trägt Konfektionsgröße 36 bzw. S
-  Updated: 2025-10-24T12:57:05Z
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQyMC04MTI2LTQwNjgzODIxNTI5MTEtYm9yZGVhdXgtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1761499003
+    Price: 59,00 € EUR
+- [Geschenkgutschein](https://lastradafashion.de/products/geschenkgutschein): Mit unserem Online Geschenkgutschein machen Sie Ihren Liebsten eine Freude. Wählen Sie einfach die Höhe aus und Sie haben das perfekte Geschenk für Ihre Freunde und Familie. Einlösbar im Onlineshop, erleichtert der Gutschein das Einkaufen und bietet der Beschenkten eine große Auswahl an Möglichkeiten.
+  Updated: 2025-10-26T17:54:55Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIzMzE1ODEuanBn.jpg?v=1741857469
-  - [AVOCADO / One Size](https://lastradafashion.de/products/basic-t-shirt-mit-wellensaum?variant=50369306919261)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIzMzE1ODcuanBn.jpg?v=1741857469
-    Price: 13,00 € EUR
-  - [BEIGE / One Size](https://lastradafashion.de/products/basic-t-shirt-mit-wellensaum?variant=48417556300125)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIzMzE1OTEuanBn.jpg?v=1741857469
-    Price: 13,00 € EUR
-  - [GRÜN / One Size](https://lastradafashion.de/products/basic-t-shirt-mit-wellensaum?variant=53033207267677)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIzMzE1OTUuanBn.jpg?v=1741857469
-    Price: 13,00 € EUR
-  - [HELLBLAU / One Size](https://lastradafashion.de/products/basic-t-shirt-mit-wellensaum?variant=50369306952029)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTA5OTA5MzAuanBn.jpg?v=1741857469
-    Price: 13,00 € EUR
-  - [MARINE / One Size](https://lastradafashion.de/products/basic-t-shirt-mit-wellensaum?variant=48417556398429)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvOTU4MjEwOC5qcGc.jpg?v=1741857469
-    Price: 13,00 € EUR
-  - [ORANGE / One Size](https://lastradafashion.de/products/basic-t-shirt-mit-wellensaum?variant=56823296721245)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvOTU4MjE4Ny5qcGc_16cb12ea-97ff-432f-b5ab-d9857f788dc1.jpg?v=1741857469
-    Price: 13,00 € EUR
-  - [PINK / One Size](https://lastradafashion.de/products/basic-t-shirt-mit-wellensaum?variant=53592482120029)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTEyNDMwMjUuanBn.jpg?v=1741857469
-    Price: 13,00 € EUR
-  - [ROSA / One Size](https://lastradafashion.de/products/basic-t-shirt-mit-wellensaum?variant=53033207300445)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIzMzE1OTguanBn.jpg?v=1741857469
-    Price: 13,00 € EUR
-  - [ROYAL / One Size](https://lastradafashion.de/products/basic-t-shirt-mit-wellensaum?variant=53033207333213)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIzMzE2MDIuanBn_e3cf0ac5-4600-4deb-b508-fa3a88f624c3.jpg?v=1741857469
-    Price: 13,00 € EUR
-  - [SCHWARZ / One Size](https://lastradafashion.de/products/basic-t-shirt-mit-wellensaum?variant=53592482152797)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTEyNDMwMjkuanBn.jpg?v=1741857469
-    Price: 13,00 € EUR
-  - [TÜRKIS / One Size](https://lastradafashion.de/products/basic-t-shirt-mit-wellensaum?variant=56823296819549)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI4MjU2OTIuanBn_559bff1d-8980-4f40-99d3-7b1290580772.jpg?v=1741857469
-    Price: 13,00 € EUR
-  - [VIOLETT / One Size](https://lastradafashion.de/products/basic-t-shirt-mit-wellensaum?variant=56823296852317)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI4MjU2OTcuanBn_a4e36c9c-6085-4cb7-85fd-c2eedeb465ee.jpg?v=1741857469
-    Price: 13,00 € EUR
-  - [WEIß / One Size](https://lastradafashion.de/products/basic-t-shirt-mit-wellensaum?variant=53592482185565)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTE5NTQ3OTEuanBn.jpg?v=1741857469
-    Price: 13,00 € EUR
-  - [GELB / One Size](https://lastradafashion.de/products/basic-t-shirt-mit-wellensaum?variant=56823296885085)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvOTU4MjE5Ny5qcGc_bc9b3cac-d99d-4dc1-a484-ec98179f4db3.jpg?v=1741857469
-    Price: 13,00 € EUR
-  - [KHAKI / One Size](https://lastradafashion.de/products/basic-t-shirt-mit-wellensaum?variant=48417556726109)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvNzc2ODY1NC5qcGc.jpg?v=1741857469
-    Price: 13,00 € EUR
-  - [BEERE / One Size](https://lastradafashion.de/products/basic-t-shirt-mit-wellensaum?variant=53033207365981)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIzMzE2MDUuanBn.jpg?v=1741857469
-    Price: 13,00 € EUR
-  - [CREME / One Size](https://lastradafashion.de/products/basic-t-shirt-mit-wellensaum?variant=53033207398749)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTEyNDMwMzQuanBn.jpg?v=1741857469
-    Price: 13,00 € EUR
-  - [GRAU / One Size](https://lastradafashion.de/products/basic-t-shirt-mit-wellensaum?variant=53033207431517)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIzMzE2MDkuanBn.jpg?v=1741857469
-    Price: 13,00 € EUR
-  - [JEANSBLAU / One Size](https://lastradafashion.de/products/basic-t-shirt-mit-wellensaum?variant=53033207464285)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIzMzE2MTMuanBn.jpg?v=1741857469
-    Price: 13,00 € EUR
-  - [ROT / One Size](https://lastradafashion.de/products/basic-t-shirt-mit-wellensaum?variant=53592482218333)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTEyNDMwMjEuanBn.jpg?v=1741857469
-    Price: 13,00 € EUR
-  - [BORDEAUX / One Size](https://lastradafashion.de/products/basic-t-shirt-mit-wellensaum?variant=53033207497053)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIzMzE1ODEuanBn.jpg?v=1741857469
-    Price: 13,00 € EUR
-  - [BRAUN / One Size](https://lastradafashion.de/products/basic-t-shirt-mit-wellensaum?variant=53033207529821)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIzMzE2MTkuanBn.jpg?v=1741857469
-    Price: 13,00 € EUR
-  - [COGNAC / One Size](https://lastradafashion.de/products/basic-t-shirt-mit-wellensaum?variant=56823296917853)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI4MjU3MDIuanBn_dbf21d28-5c57-47c1-a29e-1a2397a4c9b6.jpg?v=1741857469
-    Price: 13,00 € EUR
-  - [TAUPE / One Size](https://lastradafashion.de/products/basic-t-shirt-mit-wellensaum?variant=56823296950621)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI4MjU3MDcuanBn_52e42fcd-9ce2-4fd9-8a00-ce435475f4cb.jpg?v=1741857469
-    Price: 13,00 € EUR
-- [Freizeithose im Crinkle-Look](https://lastradafashion.de/products/freizeithose-im-crinkle-look): Tauchen Sie ein in den ultimativen Komfort und den angesagten Stil unserer Freizeithose im Crinkle-Look. Diese Hose vereint Lässigkeit und Trendbewusstsein auf harmonische Weise und wird schnell zu Ihrem Lieblingsstück für entspannte Tage. Mit ihrer 7/8 Länge strahlt diese Hose Modernität und Frische aus, während der Crinkle-Look ihr eine unverwechselbare Textur verleiht. Dieser dezente Knittereffekt verleiht der Hose eine subtile Dynamik, die den Blick fesselt und Ihnen einen einzigartigen Look verleiht, ohne auf Komfort zu verzichten. Der elastische Bund in Kombination mit dem praktischen Kordelzug erlaubt eine individuelle Anpassung der Passform. Das bedeutet, dass Sie diese Hose so tragen können, wie es Ihnen am bequemsten ist. Der elastische Bund schmiegt sich sanft an Ihre Taille an und sorgt für einen sicheren Sitz, während der Kordelzug zusätzlichen Charme verleiht. Vorne und hinten mit Taschen ausgestattet, wird diese Freizeithose nicht nur durch ihren Stil definiert, sondern auch durch ihre praktische Funktionalität. Bewahren Sie Ihre Essentials in den Taschen auf, während Sie den Tag genießen, sei es beim Bummeln in der Stadt oder beim Relaxen zu Hause. Egal, ob Sie sie mit einem legeren T-Shirt für einen lässigen Look oder mit einem schicken Oberteil für mehr Eleganz kombinieren, diese Freizeithose im Crinkle-Look wird immer eine hervorragende Wahl sein. Sie verleiht Ihnen das Beste aus beiden Welten: Mode und Gemütlichkeit. MARKE - La Strada PASSFORM UND SCHNITT - One Size (von Größen 36 bis 42) - normal geschnitten - Bundhöhe: Mid-Rise, Bund mit Kordelzug - elastischer Bund - schmales Bein, Gesäßtasche/n MATERIAL UND VERARBEITUNG - Materialmix: 95% Viskose 5% Elasthan - Materialqualität: leichtes Material, elastisches Material PFLEGEHINWEIS - Maschinenwäsche 30°C MODEL - Das Model ist 172 cm groß und trägt Konfektionsgröße 36 bzw. S
-  Updated: 2025-10-24T14:56:05Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI4MjY1MTUuanBn_c2af336a-6e34-40cb-8e59-00b184459b95.jpg?v=1741860765
-  - [One Size / GELB](https://lastradafashion.de/products/freizeithose-im-crinkle-look?variant=56823979016541)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI4MjY1NDEuanBn.jpg?v=1741860765
-    Price: 35,00 € EUR
-  - [One Size / KHAKI](https://lastradafashion.de/products/freizeithose-im-crinkle-look?variant=51627506631005)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTEwOTgzMTUuanBn_80071861-d220-4cb8-87fe-9f8a9edb956c.jpg?v=1741860765
-    Price: 35,00 € EUR
-  - [One Size / WEIß](https://lastradafashion.de/products/freizeithose-im-crinkle-look?variant=56823979049309)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI4MjY1MzAuanBn_ae8b82ae-fca3-40a6-849e-dfde2c89c58d.jpg?v=1741860765
-    Price: 35,00 € EUR
-  - [One Size / GRAU](https://lastradafashion.de/products/freizeithose-im-crinkle-look?variant=53033835790685)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTA5OTEyNjEuanBn_ed266e34-3d02-4435-9cc0-c4ad20a3ec44.jpg?v=1741860765
-    Price: 35,00 € EUR
-  - [One Size / BEIGE](https://lastradafashion.de/products/freizeithose-im-crinkle-look?variant=51627506663773)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI4MjY1MjUuanBn_6c3a4e78-7a28-4ef2-a3d0-79192794ca6c.jpg?v=1741860765
-    Price: 35,00 € EUR
-  - [One Size / SCHWARZ](https://lastradafashion.de/products/freizeithose-im-crinkle-look?variant=51627506696541)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI4MjY2NjIuanBn.jpg?v=1741860765
-    Price: 35,00 € EUR
-  - [One Size / MARINE](https://lastradafashion.de/products/freizeithose-im-crinkle-look?variant=50197284651357)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI2Nzg5OTAuanBn_816ed9cd-3ca9-4e0e-9bba-4d7676dce062.jpg?v=1741860765
-    Price: 35,00 € EUR
-  - [One Size / VIOLETT](https://lastradafashion.de/products/freizeithose-im-crinkle-look?variant=56823979082077)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI4MjY1MTUuanBn_c2af336a-6e34-40cb-8e59-00b184459b95.jpg?v=1741860765
-    Price: 35,00 € EUR
-  - [One Size / TAUPE](https://lastradafashion.de/products/freizeithose-im-crinkle-look?variant=53033835823453)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTA5OTEyNTQuanBn_4c291d6f-8f10-45cb-b619-cf6e132c194a.jpg?v=1741860765
-    Price: 35,00 € EUR
-  - [One Size / COGNAC](https://lastradafashion.de/products/freizeithose-im-crinkle-look?variant=56574678139229)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI2Nzg5NjYuanBn_570e3c9b-9e0b-45e5-8498-a76ce0154fac.jpg?v=1741860765
-    Price: 35,00 € EUR
-  - [One Size / HELLGRAU](https://lastradafashion.de/products/freizeithose-im-crinkle-look?variant=56823979114845)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI4MjY1MDIuanBn_d71a39ed-fbaf-4c2f-a23b-e003339f15bc.jpg?v=1741860765
-    Price: 35,00 € EUR
-  - [One Size / JEANSBLAU](https://lastradafashion.de/products/freizeithose-im-crinkle-look?variant=56574678171997)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI2Nzg5NzIuanBn_c3b621aa-a637-471c-90eb-26cdf1d26262.jpg?v=1741860765
-    Price: 35,00 € EUR
-  - [One Size / ROSA](https://lastradafashion.de/products/freizeithose-im-crinkle-look?variant=56574678204765)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI2Nzg5NzUuanBn_fda87af8-593a-4b73-a730-e0096367f6ca.jpg?v=1741860765
-    Price: 35,00 € EUR
-  - [One Size / SALBEI](https://lastradafashion.de/products/freizeithose-im-crinkle-look?variant=56574678237533)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI2Nzg5ODAuanBn_24a160fc-e14b-41c2-bcff-69d9c58d08b8.jpg?v=1741860765
-    Price: 35,00 € EUR
-  - [One Size / TÜRKIS](https://lastradafashion.de/products/freizeithose-im-crinkle-look?variant=56574678270301)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI4MjY0NjUuanBn_01f9e244-8253-48b1-8120-3c7ace016095.jpg?v=1741860765
-    Price: 35,00 € EUR
-- [Skinny Crinkle Hose](https://lastradafashion.de/products/skinny-crinkle-hose): Diese Skinny Crinkel Hose mit einer Mid-Rise Bundhöhe ist eine eng anliegende Hose, die knapp über der Hüfte sitzt. Sie ist aus einem dehnbaren Material gefertigt, das sich angenehm an den Körper anschmiegt und eine figurbetonte Passform bietet. Die Hose ist mit Gürtelschlaufen ausgestattet, sodass ein Gürtel nach Belieben getragen werden kann, um den Look zu individualisieren. Die Hose hat Taschen mit Reißverschlüssen an den Seiten, die nicht nur praktisch sind, um kleinere Gegenstände sicher zu verstauen, sondern auch einen modernen Akzent setzen. Auf der Rückseite befindet sich Gesäßtaschen. Durch den Crinkel-Effekt erhält die Hose eine leicht geknitterte Optik, die sie besonders interessant und modern wirken lässt. Die Hose ist sowohl für den Alltag als auch für schickere Anlässe geeignet und verleiht dem Outfit eine modische Note. MARKE - La Strada PASSFORM UND SCHNITT - Fällt der Größe entsprechend normal aus - normal geschnitten, eng anliegend - Bundhöhe: Mid-Rise - Gürtelschlaufen - schmales Bein, Gesäßtasche/n MATERIAL UND VERARBEITUNG - Materialmix: 98% Baumwolle, 2% Elastan - Materialqualität: leichtes Material, elastisches Material PFLEGEHINWEIS - Maschinenwäsche 30°C, nicht Trockner geeignet, nicht bügeln, nicht bleichen, nicht chemisch reinigen MODEL - Das Model ist 172 cm groß und trägt Konfektionsgröße 36 bzw. S
-  Updated: 2025-10-20T15:49:26Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI2Nzg5OTQuanBn.jpg?v=1740650899
-  - [XS / KHAKI](https://lastradafashion.de/products/skinny-crinkle-hose?variant=56575999836509)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI2Nzk1NTEuanBn.jpg?v=1740650899
-    Price: 59,00 € EUR
-  - [XS / BEIGE](https://lastradafashion.de/products/skinny-crinkle-hose?variant=56575999902045)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTA5ODI5MzMuanBn.jpg?v=1740650899
-    Price: 59,00 € EUR
-  - [XS / GRAU](https://lastradafashion.de/products/skinny-crinkle-hose?variant=50196734247261)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTA5ODI5NTkuanBn_6edf0c5c-3e7b-45a8-a81f-9b268f3e6cba.jpg?v=1740650899
-    Price: 59,00 € EUR
-  - [XS / SCHWARZ](https://lastradafashion.de/products/skinny-crinkle-hose?variant=50196734312797)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTA5ODI5MTIuanBn_08f0d104-fd12-4715-8e99-417cd2ddd171.jpg?v=1740650899
-    Price: 59,00 € EUR
-  - [XS / WEIß](https://lastradafashion.de/products/skinny-crinkle-hose?variant=56543574229341)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvOTQxOTg5MS5qcGc_0c634f7f-3116-4d4b-8b06-f316825005cb.jpg?v=1740650899
-    Price: 59,00 € EUR
-  - [S / KHAKI](https://lastradafashion.de/products/skinny-crinkle-hose?variant=56575999934813)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI2Nzk1NTEuanBn.jpg?v=1740650899
-    Price: 59,00 € EUR
-  - [S / BEIGE](https://lastradafashion.de/products/skinny-crinkle-hose?variant=56575999967581)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTA5ODI5MzMuanBn.jpg?v=1740650899
-    Price: 59,00 € EUR
-  - [S / GRAU](https://lastradafashion.de/products/skinny-crinkle-hose?variant=50196734476637)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTA5ODI5NTkuanBn_6edf0c5c-3e7b-45a8-a81f-9b268f3e6cba.jpg?v=1740650899
-    Price: 59,00 € EUR
-  - [S / SCHWARZ](https://lastradafashion.de/products/skinny-crinkle-hose?variant=50196734542173)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTA5ODI5MTIuanBn_08f0d104-fd12-4715-8e99-417cd2ddd171.jpg?v=1740650899
-    Price: 59,00 € EUR
-  - [S / WEIß](https://lastradafashion.de/products/skinny-crinkle-hose?variant=56543574262109)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvOTQxOTg5MS5qcGc_0c634f7f-3116-4d4b-8b06-f316825005cb.jpg?v=1740650899
-    Price: 59,00 € EUR
-  - [M / KHAKI](https://lastradafashion.de/products/skinny-crinkle-hose?variant=56576000000349)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI2Nzk1NTEuanBn.jpg?v=1740650899
-    Price: 59,00 € EUR
-  - [M / BEIGE](https://lastradafashion.de/products/skinny-crinkle-hose?variant=56576000033117)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTA5ODI5MzMuanBn.jpg?v=1740650899
-    Price: 59,00 € EUR
-  - [M / GRAU](https://lastradafashion.de/products/skinny-crinkle-hose?variant=50196734706013)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTA5ODI5NTkuanBn_6edf0c5c-3e7b-45a8-a81f-9b268f3e6cba.jpg?v=1740650899
-    Price: 59,00 € EUR
-  - [M / SCHWARZ](https://lastradafashion.de/products/skinny-crinkle-hose?variant=50196734771549)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTA5ODI5MTIuanBn_08f0d104-fd12-4715-8e99-417cd2ddd171.jpg?v=1740650899
-    Price: 59,00 € EUR
-  - [M / WEIß](https://lastradafashion.de/products/skinny-crinkle-hose?variant=56543574294877)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvOTQxOTg5MS5qcGc_0c634f7f-3116-4d4b-8b06-f316825005cb.jpg?v=1740650899
-    Price: 59,00 € EUR
-  - [L / KHAKI](https://lastradafashion.de/products/skinny-crinkle-hose?variant=56576000065885)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI2Nzk1NTEuanBn.jpg?v=1740650899
-    Price: 59,00 € EUR
-  - [L / BEIGE](https://lastradafashion.de/products/skinny-crinkle-hose?variant=56576000098653)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTA5ODI5MzMuanBn.jpg?v=1740650899
-    Price: 59,00 € EUR
-  - [L / GRAU](https://lastradafashion.de/products/skinny-crinkle-hose?variant=50196734935389)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTA5ODI5NTkuanBn_6edf0c5c-3e7b-45a8-a81f-9b268f3e6cba.jpg?v=1740650899
-    Price: 59,00 € EUR
-  - [L / SCHWARZ](https://lastradafashion.de/products/skinny-crinkle-hose?variant=50196735000925)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTA5ODI5MTIuanBn_08f0d104-fd12-4715-8e99-417cd2ddd171.jpg?v=1740650899
-    Price: 59,00 € EUR
-  - [L / WEIß](https://lastradafashion.de/products/skinny-crinkle-hose?variant=56543574327645)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvOTQxOTg5MS5qcGc_0c634f7f-3116-4d4b-8b06-f316825005cb.jpg?v=1740650899
-    Price: 59,00 € EUR
-  - [XL / KHAKI](https://lastradafashion.de/products/skinny-crinkle-hose?variant=56576000131421)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI2Nzk1NTEuanBn.jpg?v=1740650899
-    Price: 59,00 € EUR
-  - [XL / BEIGE](https://lastradafashion.de/products/skinny-crinkle-hose?variant=56576000164189)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTA5ODI5MzMuanBn.jpg?v=1740650899
-    Price: 59,00 € EUR
-  - [XL / GRAU](https://lastradafashion.de/products/skinny-crinkle-hose?variant=50196735164765)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTA5ODI5NTkuanBn_6edf0c5c-3e7b-45a8-a81f-9b268f3e6cba.jpg?v=1740650899
-    Price: 59,00 € EUR
-  - [XL / SCHWARZ](https://lastradafashion.de/products/skinny-crinkle-hose?variant=50196735230301)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTA5ODI5MTIuanBn_08f0d104-fd12-4715-8e99-417cd2ddd171.jpg?v=1740650899
-    Price: 59,00 € EUR
-  - [XL / WEIß](https://lastradafashion.de/products/skinny-crinkle-hose?variant=56543574360413)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvOTQxOTg5MS5qcGc_0c634f7f-3116-4d4b-8b06-f316825005cb.jpg?v=1740650899
-    Price: 59,00 € EUR
-- [Longsleeve mit Wellensaum](https://lastradafashion.de/products/longsleeve-mit-wellensaum): Dieses klassisches dünnes Longsleeve ist ein zeitloses Kleidungsstück, das sich perfekt für den Übergang eignet. Das Longsleeve ist aus einem leichten und weichen Stoff gefertigt, der angenehm auf der Haut liegt und gleichzeitig für ausreichend Wärme sorgt. Mit seinen langen Ärmeln bietet es zusätzlichen Schutz vor kühleren Temperaturen und ermöglicht es, das Kleidungsstück auch an frischeren Tagen zu tragen. Durch den Rundhalsausschnitt erhält das Longsleeve einen klassischen Look, der sowohl elegant als auch lässig wirken kann, je nachdem, wie es kombiniert wird. Der Wellensaum verleiht dem Longsleeve einen besonderen Twist und verleiht ihm einen femininen Touch. Es ist ein zeitloses Kleidungsstück, das in jedem Kleiderschrank eine gute Figur macht und zu verschiedenen Anlässen getragen werden kann – sei es im Büro, bei einem entspannten Treffen mit Freunden oder auf einem Wochenendausflug. MARKE - La Strada PASSFORM UND SCHNITT - One Size (von Größen 36 bis 42), Passgenauigkeit - Passgenau - normal geschnitten, eng anliegend - Rundhalsausschnitt, langer Arm MATERIAL UND VERARBEITUNG - Materialmix: 95% Viskose, 5% Elastan - Materialqualität: leichtes Material, elastisches Material PFLEGEHINWEIS - Maschinenwäsche 30°C, nicht Trockner geeignet, bei 110 Grad bügeln, nicht bleichen MODEL - Das Model ist 170cm groß und trägt Konfektionsgröße 36 bzw. S
-  Updated: 2025-10-20T15:49:27Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIzMzE0OTYuanBn.jpg?v=1737963603
-  - [One Size / ANTHRAZIT](https://lastradafashion.de/products/longsleeve-mit-wellensaum?variant=54596988469597)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTE4ODA3MzcuanBn.jpg?v=1737963603
-    Price: 15,90 € EUR
-  - [One Size / BEERE](https://lastradafashion.de/products/longsleeve-mit-wellensaum?variant=53594724860253)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvNzc2MzI0MC5qcGc.jpg?v=1737963603
-    Price: 15,90 € EUR
-  - [One Size / BEIGE](https://lastradafashion.de/products/longsleeve-mit-wellensaum?variant=48498649366877)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIzMzE0OTYuanBn.jpg?v=1737963603
-    Price: 15,90 € EUR
-  - [One Size / BRAUN](https://lastradafashion.de/products/longsleeve-mit-wellensaum?variant=53033335718237)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIzMzE1NTEuanBn.jpg?v=1737963603
-    Price: 15,90 € EUR
-  - [One Size / CAMEL](https://lastradafashion.de/products/longsleeve-mit-wellensaum?variant=54596988502365)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTE4ODA3MzIuanBn.jpg?v=1737963603
-    Price: 15,90 € EUR
-  - [One Size / CREME](https://lastradafashion.de/products/longsleeve-mit-wellensaum?variant=53033335751005)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIzMzE1NTIuanBn.jpg?v=1737963603
-    Price: 15,90 € EUR
-  - [One Size / JEANSBLAU](https://lastradafashion.de/products/longsleeve-mit-wellensaum?variant=54596988535133)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvNzc2MzIzNS5qcGc.jpg?v=1737963603
-    Price: 15,90 € EUR
-  - [One Size / KHAKI](https://lastradafashion.de/products/longsleeve-mit-wellensaum?variant=48498649563485)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIzMzE1NTUuanBn.jpg?v=1737963603
-    Price: 15,90 € EUR
-  - [One Size / MARINE](https://lastradafashion.de/products/longsleeve-mit-wellensaum?variant=48498649629021)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTA5OTA5NjIuanBn.jpg?v=1737963603
-    Price: 15,90 € EUR
-  - [One Size / ROT](https://lastradafashion.de/products/longsleeve-mit-wellensaum?variant=53033335783773)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIzMzE1NTkuanBn.jpg?v=1737963603
-    Price: 15,90 € EUR
-  - [One Size / SCHWARZ](https://lastradafashion.de/products/longsleeve-mit-wellensaum?variant=48498649694557)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTA5OTA5NDEuanBn.jpg?v=1737963603
-    Price: 15,90 € EUR
-  - [One Size / TAUPE](https://lastradafashion.de/products/longsleeve-mit-wellensaum?variant=53033335816541)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIzMzE1NzUuanBn.jpg?v=1737963603
-    Price: 15,90 € EUR
-  - [One Size / PETROL](https://lastradafashion.de/products/longsleeve-mit-wellensaum?variant=54596988600669)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTE4ODA3MjQuanBn.jpg?v=1737963603
-    Price: 15,90 € EUR
-  - [One Size / PINK](https://lastradafashion.de/products/longsleeve-mit-wellensaum?variant=50979927163229)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIzMzE1NjUuanBn.jpg?v=1737963603
-    Price: 15,90 € EUR
-  - [One Size / HELLBLAU](https://lastradafashion.de/products/longsleeve-mit-wellensaum?variant=53033335849309)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIzMzE1NjguanBn.jpg?v=1737963603
-    Price: 15,90 € EUR
-  - [One Size / ROSA](https://lastradafashion.de/products/longsleeve-mit-wellensaum?variant=53033335882077)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIzMzE1NzEuanBn.jpg?v=1737963603
-    Price: 15,90 € EUR
-  - [One Size / BORDEAUX](https://lastradafashion.de/products/longsleeve-mit-wellensaum?variant=54596988633437)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTE4ODA3NDguanBn.jpg?v=1737963603
-    Price: 15,90 € EUR
-  - [One Size / GELB](https://lastradafashion.de/products/longsleeve-mit-wellensaum?variant=55323023835485)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIxMjc3MTcuanBn_193f8d7f-624c-4c73-bec0-a375dff130e3.jpg?v=1737963603
-    Price: 15,90 € EUR
-- [Strickpullover mit Fledermausärmeln](https://lastradafashion.de/products/strickpullover-mit-fledermausarmeln): Dieser Strickpullover ist ein modisches Kleidungsstück, das sowohl Stil als auch Komfort vereint. Hergestellt aus hochwertiger und weicher Strickwolle, verleiht er dem Träger ein angenehmes Gefühl auf der Haut. Der Pullover ist locker geschnitten, was bedeutet, dass er eine lässige und bequeme Passform bietet. Er umschmeichelt die Silhouette und ermöglicht eine maximale Bewegungsfreiheit. Durch den entspannten Schnitt kann der Pullover sowohl leger über Hosen oder Röcke getragen werden, als auch für einen schickeren Anlass gestylt werden. Die Fledermausärmel sind ein Highlight des Pullovers und verleihen ihm eine moderne und trendige Ästhetik. Der Rundhalsausschnitt des Pullovers verleiht dem Outfit einen klassischen Touch. Insgesamt ist der Strickpullover ein vielseitiges und modisches Kleidungsstück, das in jedem Kleiderschrank einen Platz verdient. Mit seinem lockeren Schnitt und den verspielten Ärmeln vereint er Stil und Gemütlichkeit auf elegante Weise. MARKE - La Strada PASSFORM UND SCHNITT - One Size (von Größen 36 bis 42), Passgenauigkeit - Passgenau - normal geschnitten, locker fallend, reicht über die Hüfte - Rundhalsausschnitt, langer Arm MATERIAL UND VERARBEITUNG - Materialmix: 57% Acryl, 29% Polyamide, 7% Viskose, 7% Lana Wolle - Materialqualität: leichtes Material, elastisches Material, leicht transparent PFLEGEHINWEIS - nur Handwäsche, nicht Trockner geeignet, bei 110 Grad bügeln, nicht bleichen MODEL - Das Model ist 176cm groß und trägt Konfektionsgröße 36 bzw. S
-  Updated: 2025-10-24T14:26:05Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIyODM0MzcuanBn.jpg?v=1739887191
-  - [One Size / BEIGE](https://lastradafashion.de/products/strickpullover-mit-fledermausarmeln?variant=48884394623325)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIzMTM1MzQuanBn_c31f569e-c286-49d4-b203-e175ea39d41a.jpg?v=1739887191
-    Price: 39,90 € EUR
-  - [One Size / BRAUN](https://lastradafashion.de/products/strickpullover-mit-fledermausarmeln?variant=48884394656093)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvODM1ODA5OS5qcGc.jpg?v=1739887191
-    Price: 39,90 € EUR
-  - [One Size / CREME](https://lastradafashion.de/products/strickpullover-mit-fledermausarmeln?variant=48884394688861)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIzMTM1MzUuanBn_3ea3efa3-6e5f-4200-9973-0e54159a5f2c.jpg?v=1739887191
-    Price: 39,90 € EUR
-  - [One Size / GRAU](https://lastradafashion.de/products/strickpullover-mit-fledermausarmeln?variant=48884394721629)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvODM1Nzk5My5qcGc.jpg?v=1739887191
-    Price: 39,90 € EUR
-  - [One Size / KHAKI](https://lastradafashion.de/products/strickpullover-mit-fledermausarmeln?variant=48884394754397)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvODM1ODExNi5qcGc.jpg?v=1739887191
-    Price: 39,90 € EUR
-  - [One Size / ORANGE](https://lastradafashion.de/products/strickpullover-mit-fledermausarmeln?variant=48884394787165)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIzMTM1MjIuanBn_3f5bd8ef-d2df-4b85-962e-6d3943e458b1.jpg?v=1739887191
-    Price: 39,90 € EUR
-  - [One Size / GELB](https://lastradafashion.de/products/strickpullover-mit-fledermausarmeln?variant=55906074231133)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIzMTM1MTguanBn_0aa89f12-39f4-4ba7-93f4-06e181339710.jpg?v=1739887191
-    Price: 39,90 € EUR
-  - [One Size / HELLBLAU](https://lastradafashion.de/products/strickpullover-mit-fledermausarmeln?variant=55906074263901)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIzMTM1MTcuanBn_c93b8531-0203-4f98-b093-3cb33396808b.jpg?v=1739887191
-    Price: 39,90 € EUR
-  - [One Size / HELLGRAU](https://lastradafashion.de/products/strickpullover-mit-fledermausarmeln?variant=55906074296669)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIzMTM1MTYuanBn_249b7f2a-d946-42b3-8aba-bc5fc55bbbcb.jpg?v=1739887191
-    Price: 39,90 € EUR
-  - [One Size / KIWI](https://lastradafashion.de/products/strickpullover-mit-fledermausarmeln?variant=55906074329437)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIzMTM1MTQuanBn_d989452c-3eb5-476c-a96f-e9d4588297b5.jpg?v=1739887191
-    Price: 39,90 € EUR
-  - [One Size / MINT](https://lastradafashion.de/products/strickpullover-mit-fledermausarmeln?variant=55906074362205)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIzMTM1MTMuanBn_674e5adc-5577-4677-b6ff-1a448c7461a8.jpg?v=1739887191
-    Price: 39,90 € EUR
-  - [One Size / TAUPE](https://lastradafashion.de/products/strickpullover-mit-fledermausarmeln?variant=55906074394973)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIzMTM1MTIuanBn_e820df78-7f46-432d-a91b-b419b275de47.jpg?v=1739887191
-    Price: 39,90 € EUR
-  - [One Size / ALTROSA](https://lastradafashion.de/products/strickpullover-mit-fledermausarmeln?variant=55906699903325)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI1OTI4NzEuanBn.jpg?v=1739887191
-    Price: 39,90 € EUR
-- [Grobstrickpullover mit Stehkragen](https://lastradafashion.de/products/grobstrickpullover-mit-stehkragen): Dieser Grobstrickpullover mit Stehkragen ist der perfekte Begleiter für kuschelige und stylische Wintertage. Der oversized, locker fallende Schnitt sorgt für eine lässige Silhouette, die angenehm umhüllt und maximale Bewegungsfreiheit bietet. Der weiche Stehkragen hält warm und verleiht dem Pullover einen modernen, entspannten Look, während die Fledermausärmel und das grobe Strickmuster den gemütlichen Stil perfekt ergänzen. Das unifarbene Design macht diesen Pullover vielseitig kombinierbar, sodass er sich mühelos in jede Garderobe integriert. Der Materialmix mit Alpaka und Viskoseanteil sorgt für eine weiche Haptik, die sich angenehm auf der Haut anfühlt und für wohlige Wärme sorgt. Ob zu Jeans für einen entspannten Casual-Look oder über einer Leggings für ein gemütliches Outfit – dieser Grobstrickpullover ist ein Must-have für alle, die Komfort und modischen Chic in einem Kleidungsstück vereint lieben. Ein echtes Lieblingsstück, das in keiner Wintergarderobe fehlen sollte. MARKE - La Strada PASSFORM UND SCHNITT - One Size (von Größen 36 bis 42) - oversize geschnitten, locker fallend - Stehkragen , Fledermausärmel, Grobes Strickmuster MATERIAL UND VERARBEITUNG - Muster: Unifarben - Materialmix: 9% Alpaka, 9% Viskose, 65% Acryl, 17% Polyamide - Materialqualität: Weiche Haptik PFLEGEHINWEIS - Maschinenwäsche bis 30°C, Nicht Trockner geeignet, Bügeln mit niedriger Temperatur (max. 110°C, kein Dampf), Bleichen nicht erlaubt MODEL - Das Model ist 172cm groß und trägt Konfektionsgröße 36 bzw. S
-  Updated: 2025-10-20T15:49:41Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTE5MDgyMDcuanBn.jpg?v=1734347090
-  - [L/XL / BEERE](https://lastradafashion.de/products/grobstrickpullover-mit-stehkragen?variant=48884792820061)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvODM1ODgyMS5qcGc.jpg?v=1734347090
-    Price: 29,90 € EUR
-  - [L/XL / BEIGE](https://lastradafashion.de/products/grobstrickpullover-mit-stehkragen?variant=55270876217693)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTE5MDgwMTIuanBn.jpg?v=1734347090
-    Price: 29,90 € EUR
-  - [L/XL / CREME](https://lastradafashion.de/products/grobstrickpullover-mit-stehkragen?variant=55270876250461)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTE5MDc5NDMuanBn.jpg?v=1734347090
-    Price: 29,90 € EUR
-  - [L/XL / GRAU](https://lastradafashion.de/products/grobstrickpullover-mit-stehkragen?variant=55270876283229)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTE5MDc5NzguanBn.jpg?v=1734347090
-    Price: 29,90 € EUR
-  - [L/XL / ROSA](https://lastradafashion.de/products/grobstrickpullover-mit-stehkragen?variant=55270876315997)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTE5MDgwNzguanBn.jpg?v=1734347090
-    Price: 29,90 € EUR
-  - [L/XL / ROT](https://lastradafashion.de/products/grobstrickpullover-mit-stehkragen?variant=48884793147741)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvODM1ODgyMy5qcGc.jpg?v=1734347090
-    Price: 29,90 € EUR
-  - [L/XL / SALBEI](https://lastradafashion.de/products/grobstrickpullover-mit-stehkragen?variant=55270876348765)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTE5MDgxMjMuanBn.jpg?v=1734347090
-    Price: 29,90 € EUR
-  - [L/XL / SCHWARZ](https://lastradafashion.de/products/grobstrickpullover-mit-stehkragen?variant=48884793278813)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvODM1ODgyNC5qcGc.jpg?v=1734347090
-    Price: 29,90 € EUR
-  - [S/M / BEERE](https://lastradafashion.de/products/grobstrickpullover-mit-stehkragen?variant=48884792852829)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvODM1ODgyMS5qcGc.jpg?v=1734347090
-    Price: 29,90 € EUR
-  - [S/M / BEIGE](https://lastradafashion.de/products/grobstrickpullover-mit-stehkragen?variant=48884792918365)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTE5MDgwMTIuanBn.jpg?v=1734347090
-    Price: 29,90 € EUR
-  - [S/M / CREME](https://lastradafashion.de/products/grobstrickpullover-mit-stehkragen?variant=48884792983901)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTE5MDc5NDMuanBn.jpg?v=1734347090
-    Price: 29,90 € EUR
-  - [S/M / GRAU](https://lastradafashion.de/products/grobstrickpullover-mit-stehkragen?variant=48884793049437)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTE5MDc5NzguanBn.jpg?v=1734347090
-    Price: 29,90 € EUR
-  - [S/M / ROSA](https://lastradafashion.de/products/grobstrickpullover-mit-stehkragen?variant=48884793114973)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTE5MDgwNzguanBn.jpg?v=1734347090
-    Price: 29,90 € EUR
-  - [S/M / ROT](https://lastradafashion.de/products/grobstrickpullover-mit-stehkragen?variant=55270876381533)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvODM1ODgyMy5qcGc.jpg?v=1734347090
-    Price: 29,90 € EUR
-  - [S/M / SALBEI](https://lastradafashion.de/products/grobstrickpullover-mit-stehkragen?variant=48884793246045)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTE5MDgxMjMuanBn.jpg?v=1734347090
-    Price: 29,90 € EUR
-  - [S/M / SCHWARZ](https://lastradafashion.de/products/grobstrickpullover-mit-stehkragen?variant=48884793311581)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvODM1ODgyNC5qcGc.jpg?v=1734347090
-    Price: 29,90 € EUR
-  - [S/M / BORDEAUX](https://lastradafashion.de/products/grobstrickpullover-mit-stehkragen?variant=54692421697885)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTE5MDc5NTAuanBn.jpg?v=1734347090
-    Price: 29,90 € EUR
-  - [M/L / BEIGE](https://lastradafashion.de/products/grobstrickpullover-mit-stehkragen?variant=54692421730653)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTE5MDgwMTIuanBn.jpg?v=1734347090
-    Price: 29,90 € EUR
-  - [M/L / CREME](https://lastradafashion.de/products/grobstrickpullover-mit-stehkragen?variant=54692421763421)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTE5MDc5NDMuanBn.jpg?v=1734347090
-    Price: 29,90 € EUR
-  - [M/L / GRAU](https://lastradafashion.de/products/grobstrickpullover-mit-stehkragen?variant=54692421796189)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTE5MDc5NzguanBn.jpg?v=1734347090
-    Price: 29,90 € EUR
-  - [M/L / ROSA](https://lastradafashion.de/products/grobstrickpullover-mit-stehkragen?variant=54692421828957)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTE5MDgwNzguanBn.jpg?v=1734347090
-    Price: 29,90 € EUR
-  - [M/L / SALBEI](https://lastradafashion.de/products/grobstrickpullover-mit-stehkragen?variant=54692421861725)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTE5MDgxMjMuanBn.jpg?v=1734347090
-    Price: 29,90 € EUR
-  - [M/L / BORDEAUX](https://lastradafashion.de/products/grobstrickpullover-mit-stehkragen?variant=54692421894493)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTE5MDc5NTAuanBn.jpg?v=1734347090
-    Price: 29,90 € EUR
-- [Jeans mit Reißverschluss-Taschen](https://lastradafashion.de/products/jeans-mit-reissverschluss-taschen): Diese Jeans ist aus einem robusten Denim-Gewebe gefertigt und hat eine klassische Waschung, die ihr einen zeitlosen Look verleiht. An den Knien befinden sich Abnäher, die nicht nur einen stylishen Akzent setzen, sondern der Hose auch einen gewisse Touch verleihen. Zum Verschließen hat die Jeans einen praktischen Knopf und einen Reißverschluss, der für Komfort und Sicherheit sorgt. An den Seiten der Hose befinden sich Eingrifftaschen mit Reißverschlüssen, die ausreichend Platz für kleine Gegenstände bieten. Zusätzlich gibt es Gürtelschlaufen, sodass die Hose perfekt auf den eigenen Körper abgestimmt werden kann. An der Rückseite hat die Jeans klassische Gesäßtaschen, die nicht nur praktisch sind, sondern auch für eine schöne Silhouette sorgen. Dank des eng anliegenden Schnitts betont die Hose die Figur und schafft ein stilvolles Erscheinungsbild. Diese Jeans ist ein zeitloses Basic für den Alltag und kann sowohl mit lässigen T-Shirts als auch mit schicken Blusen kombiniert werden. MARKE - La Strada PASSFORM UND SCHNITT - Fällt der Größe entsprechend normal aus - skinny geschnitten, eng anliegend - Bundhöhe: Mid-Rise - Gürtelschlaufen, seitliche Eingrifftaschen - schmales Bein, Gesäßtasche/n MATERIAL UND VERARBEITUNG - Materialmix: 92% Baumwolle, 6% Polyester, 2% Elastan - Materialqualität: mittelschweres Material, elastisches Material PFLEGEHINWEIS - Maschinenwäsche 30°C, schonend schleudern, nicht Trockner geeignet, nicht bügeln, nicht bleichen, nicht chemisch reinigen MODEL - Das Model ist 178cm groß und trägt Konfektionsgröße 36 bzw. S
-  Updated: 2025-10-20T15:49:45Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/10982804.jpg?v=1724071048
-  - [XS / JEANSBLAU](https://lastradafashion.de/products/jeans-mit-reissverschluss-taschen?variant=49240199987549)
-    Availability: Available
-    Price: 59,00 € EUR
-  - [S / JEANSBLAU](https://lastradafashion.de/products/jeans-mit-reissverschluss-taschen?variant=49240200020317)
-    Availability: Available
-    Price: 59,00 € EUR
-  - [M / JEANSBLAU](https://lastradafashion.de/products/jeans-mit-reissverschluss-taschen?variant=49240200053085)
-    Availability: Available
-    Price: 59,00 € EUR
-  - [L / JEANSBLAU](https://lastradafashion.de/products/jeans-mit-reissverschluss-taschen?variant=49240200085853)
-    Availability: Available
-    Price: 59,00 € EUR
-  - [XL / JEANSBLAU](https://lastradafashion.de/products/jeans-mit-reissverschluss-taschen?variant=49240200118621)
-    Availability: Available
-    Price: 59,00 € EUR
+  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/geschenkgutschein-la-strada.jpg?v=1706106178
+  - [€10,00 / Standard](https://lastradafashion.de/products/geschenkgutschein?variant=54036657570141)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/Gutschein2024_furArtikelbilder_800x1200px.jpg?v=1731592101
+    Price: 10,00 € EUR
+  - [€10,00 / Weihnachten](https://lastradafashion.de/products/geschenkgutschein?variant=54036657537373)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/Weihnachten_Gutschein_2024_800_x_1200_px.jpg?v=1731591356
+    Price: 10,00 € EUR
+  - [€25,00 / Standard](https://lastradafashion.de/products/geschenkgutschein?variant=54036657799517)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/Gutschein2024_furArtikelbilder_800x1200px.jpg?v=1731592101
+    Price: 25,00 € EUR
+  - [€25,00 / Weihnachten](https://lastradafashion.de/products/geschenkgutschein?variant=54036657602909)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/Weihnachten_Gutschein_2024_800_x_1200_px.jpg?v=1731591356
+    Price: 25,00 € EUR
+  - [€50,00 / Standard](https://lastradafashion.de/products/geschenkgutschein?variant=54036657897821)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/Gutschein2024_furArtikelbilder_800x1200px.jpg?v=1731592101
+    Price: 50,00 € EUR
+  - [€50,00 / Weihnachten](https://lastradafashion.de/products/geschenkgutschein?variant=54036657832285)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/Weihnachten_Gutschein_2024_800_x_1200_px.jpg?v=1731591356
+    Price: 50,00 € EUR
+  - [€75,00 / Standard](https://lastradafashion.de/products/geschenkgutschein?variant=54036657963357)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/Gutschein2024_furArtikelbilder_800x1200px.jpg?v=1731592101
+    Price: 75,00 € EUR
+  - [€75,00 / Weihnachten](https://lastradafashion.de/products/geschenkgutschein?variant=54036657930589)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/Weihnachten_Gutschein_2024_800_x_1200_px.jpg?v=1731591356
+    Price: 75,00 € EUR
+  - [€100,00 / Standard](https://lastradafashion.de/products/geschenkgutschein?variant=54036658028893)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/Gutschein2024_furArtikelbilder_800x1200px.jpg?v=1731592101
+    Price: 100,00 € EUR
+  - [€100,00 / Weihnachten](https://lastradafashion.de/products/geschenkgutschein?variant=54036657996125)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/Weihnachten_Gutschein_2024_800_x_1200_px.jpg?v=1731591356
+    Price: 100,00 € EUR
+  - [€125,00 / Standard](https://lastradafashion.de/products/geschenkgutschein?variant=54036658094429)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/Gutschein2024_furArtikelbilder_800x1200px.jpg?v=1731592101
+    Price: 125,00 € EUR
+  - [€125,00 / Weihnachten](https://lastradafashion.de/products/geschenkgutschein?variant=54036658061661)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/Weihnachten_Gutschein_2024_800_x_1200_px.jpg?v=1731591356
+    Price: 125,00 € EUR
+  - [€150,00 / Standard](https://lastradafashion.de/products/geschenkgutschein?variant=54036658159965)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/Gutschein2024_furArtikelbilder_800x1200px.jpg?v=1731592101
+    Price: 150,00 € EUR
+  - [€150,00 / Weihnachten](https://lastradafashion.de/products/geschenkgutschein?variant=54036658127197)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/Weihnachten_Gutschein_2024_800_x_1200_px.jpg?v=1731591356
+    Price: 150,00 € EUR
+  - [€175,00 / Standard](https://lastradafashion.de/products/geschenkgutschein?variant=54036658356573)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/Gutschein2024_furArtikelbilder_800x1200px.jpg?v=1731592101
+    Price: 175,00 € EUR
+  - [€175,00 / Weihnachten](https://lastradafashion.de/products/geschenkgutschein?variant=54036658258269)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/Weihnachten_Gutschein_2024_800_x_1200_px.jpg?v=1731591356
+    Price: 175,00 € EUR
+  - [€200,00 / Standard](https://lastradafashion.de/products/geschenkgutschein?variant=54036658422109)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/Gutschein2024_furArtikelbilder_800x1200px.jpg?v=1731592101
+    Price: 200,00 € EUR
+  - [€200,00 / Weihnachten](https://lastradafashion.de/products/geschenkgutschein?variant=54036658389341)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/Weihnachten_Gutschein_2024_800_x_1200_px.jpg?v=1731591356
+    Price: 200,00 € EUR
+  - [€250,00 / Standard](https://lastradafashion.de/products/geschenkgutschein?variant=54036658487645)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/Gutschein2024_furArtikelbilder_800x1200px.jpg?v=1731592101
+    Price: 250,00 € EUR
+  - [€250,00 / Weihnachten](https://lastradafashion.de/products/geschenkgutschein?variant=54036658454877)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/Weihnachten_Gutschein_2024_800_x_1200_px.jpg?v=1731591356
+    Price: 250,00 € EUR
+  - [€300,00 / Standard](https://lastradafashion.de/products/geschenkgutschein?variant=54036658553181)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/Gutschein2024_furArtikelbilder_800x1200px.jpg?v=1731592101
+    Price: 300,00 € EUR
+  - [€300,00 / Weihnachten](https://lastradafashion.de/products/geschenkgutschein?variant=54036658520413)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/Weihnachten_Gutschein_2024_800_x_1200_px.jpg?v=1731591356
+    Price: 300,00 € EUR
+  - [€400,00 / Standard](https://lastradafashion.de/products/geschenkgutschein?variant=54036658717021)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/Gutschein2024_furArtikelbilder_800x1200px.jpg?v=1731592101
+    Price: 400,00 € EUR
+  - [€400,00 / Weihnachten](https://lastradafashion.de/products/geschenkgutschein?variant=54036658618717)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/Weihnachten_Gutschein_2024_800_x_1200_px.jpg?v=1731591356
+    Price: 400,00 € EUR
 - [Große Blumen Brosche](https://lastradafashion.de/products/grosse-blumen-brosche): Diese Brosche ist ein wunderschönes Schmuckstück in Form einer großen Blume. Sie besteht aus glänzendem Material, die die Blütenblätter der Blume darstellen. Mit einem praktischen Nadelverschluss lässt sich die Brosche einfach an der Kleidung befestigen, wodurch sie ein echter Blickfang und ein edler Schmuckakzent wird. Sie kann sowohl an einem Blusenkragen, einem Pullover oder auch an einem Schal getragen werden. Die Kombinationsmöglichkeiten sind vielfältig und sie passt zu vielen verschiedenen Outfits und Anlässen. Die Blumenbrosche ist ein zeitloses Accessoire, das jedem Look eine elegante Note verleiht. Sie eignet sich perfekt als Geschenk für einen besonderen Menschen oder auch als persönliche Belohnung für sich selbst. Egal ob als Eyecatcher im Alltag oder als eleganter Schmuck für festliche Anlässe - diese Brosche wird viele bewundernde Blicke auf sich ziehen. MARKE - La Strada PASSFORM UND SCHNITT - One Size - Brosche MATERIAL UND VERARBEITUNG - Muster: Unifarben GrößeOne Size
-  Updated: 2025-10-20T15:50:12Z
+  Updated: 2025-10-25T14:44:45Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
@@ -831,191 +400,55 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/grosse-blumen-brosche-la-strada-9.jpg?v=1719331925
     Price: 12,00 € EUR
-- [Oberteil mit Fledermausärmeln](https://lastradafashion.de/products/oberteil-mit-fledermaus-armel): Dieses Oberteil ist aus einem leichten, angenehmen Stoff gefertigt und umschmeichelt sanft die Figur. Der V-Ausschnitt sorgt für ein feminines Dekolleté und die kurzen Fledermausärmel verleihen dem Oberteil einen trendigen Touch. Durch den lockeren Schnitt ist das Oberteil besonders bequem und perfekt für den Alltag geeignet. Dank seiner schlichten Eleganz lässt sich das Basic-Oberteil vielfältig kombinieren – ob lässig zur Jeans und Sneakern oder schick zur Stoffhose und Pumps, es passt zu jedem Style. Ein absolutes Must-Have für jede Garderobe! Egal ob im Büro, beim Shopping oder beim entspannten Treffen mit Freunden, mit diesem Oberteil liegen Sie immer richtig. MARKE - La Strada PASSFORM UND SCHNITT - One Size (von Größen 36 bis 42), Passgenauigkeit - Passgenau - normal geschnitten, lockerer Schnitt - V-Ausschnitt, Fledermausärmel, kurzer Arm MATERIAL UND VERARBEITUNG - Muster: Unifarben - Materialmix: 95% Viskose 5% Elastan - Materialqualität: leichtes Material, elastisches Material PFLEGEHINWEIS - Maschinenwäsche bis 30°C, Nicht Trockner geeignet, Bügeln mit niedriger Temperatur (max. 110°C, kein Dampf), Bleichen nicht erlaubt MODEL - Das Model ist 174cm groß und trägt Konfektionsgröße 36 bzw. S
-  Updated: 2025-10-23T20:13:55Z
+- [Elegantes Feinstrick-Shirt](https://lastradafashion.de/products/elegantes-feinstrick-shirt): Eleganz in ihrer pursten Form: Das Feinstrick-Shirt begeistert mit seiner cleanen Silhouette und dem edlen Look. Der weich fließende V-Ausschnitt bringt feminine Raffinesse ins Spiel, während der körpernahe, aber nicht anliegende Schnitt angenehm schmeichelt. Die glatte Feinstrick-Optik wirkt besonders hochwertig und sorgt in Kombination mit den schmalen, langen Ärmeln für eine stilvolle Linienführung. Dank des edlen Materials trägt sich das Shirt besonders angenehm auf der Haut und bietet hohen Tragekomfort – perfekt für den Alltag und elegante Anlässe. Ein dezentes Highlight, das in keiner stilbewussten Garderobe fehlen darf – ein echtes Must-have!
+  Updated: 2025-10-26T15:53:47Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/10985722.jpg?v=1724079338
-  - [One Size / GRÜN](https://lastradafashion.de/products/oberteil-mit-fledermaus-armel?variant=52167522779485)
+  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAxMC0xMzUzLTQwNjgzODIxNTUzNjMtYWx0cm9zYS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn_30e1097b-54f3-4d99-99d3-49babab7d118.jpg?v=1761411373
+  - [One Size / BEIGE](https://lastradafashion.de/products/elegantes-feinstrick-shirt?variant=53229701464413)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/10583506.jpg?v=1724079338
-    Price: 18,00 € EUR
-  - [One Size / PINK](https://lastradafashion.de/products/oberteil-mit-fledermaus-armel?variant=51629194674525)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/10404055.jpg?v=1724079338
-    Price: 18,00 € EUR
-  - [One Size / SCHWARZ](https://lastradafashion.de/products/oberteil-mit-fledermaus-armel?variant=51629194707293)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/10404072.jpg?v=1724079338
-    Price: 18,00 € EUR
-  - [One Size / WEIß](https://lastradafashion.de/products/oberteil-mit-fledermaus-armel?variant=51629194740061)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/10404095.jpg?v=1724079338
-    Price: 18,00 € EUR
-  - [One Size / KHAKI](https://lastradafashion.de/products/oberteil-mit-fledermaus-armel?variant=52167522845021)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/10583499.jpg?v=1724079338
-    Price: 18,00 € EUR
-  - [One Size / AVOCADO](https://lastradafashion.de/products/oberteil-mit-fledermaus-armel?variant=51629194772829)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/10404080.jpg?v=1724079338
-    Price: 18,00 € EUR
-  - [One Size / BEIGE](https://lastradafashion.de/products/oberteil-mit-fledermaus-armel?variant=51629194805597)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/10404084.jpg?v=1724079338
-    Price: 18,00 € EUR
-  - [One Size / GELB](https://lastradafashion.de/products/oberteil-mit-fledermaus-armel?variant=51629194838365)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/10404051.jpg?v=1724079338
-    Price: 18,00 € EUR
-  - [One Size / HELLBLAU](https://lastradafashion.de/products/oberteil-mit-fledermaus-armel?variant=51629194871133)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/10404076.jpg?v=1724079338
-    Price: 18,00 € EUR
-  - [One Size / MARINE](https://lastradafashion.de/products/oberteil-mit-fledermaus-armel?variant=52167522877789)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/10583493.jpg?v=1724079338
-    Price: 18,00 € EUR
-  - [One Size / ROT](https://lastradafashion.de/products/oberteil-mit-fledermaus-armel?variant=52167522910557)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/10583487.jpg?v=1724079338
-    Price: 18,00 € EUR
-  - [One Size / BEERE](https://lastradafashion.de/products/oberteil-mit-fledermaus-armel?variant=53019324842333)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/10985728.jpg?v=1724079338
-    Price: 18,00 € EUR
-  - [One Size / BRAUN](https://lastradafashion.de/products/oberteil-mit-fledermaus-armel?variant=53019324875101)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/10985722.jpg?v=1724079338
-    Price: 18,00 € EUR
-  - [One Size / CREME](https://lastradafashion.de/products/oberteil-mit-fledermaus-armel?variant=53019324907869)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/10985706.jpg?v=1724079338
-    Price: 18,00 € EUR
-- [Strickkleid mit Gürtel](https://lastradafashion.de/products/strickkleid-mit-gurtel): Erleben Sie den Inbegriff von zeitlosem Chic und modernem Komfort mit unserem Mini-Strickkleid aus Viskose. Dieses Kleid kombiniert klassische Elemente mit einem modernen Twist und ist die perfekte Wahl für stilbewusste Frauen, die sowohl Eleganz als auch Funktionalität schätzen. Hergestellt aus Viskose, bietet das Kleid eine angenehme, weiche Haptik und einen luxuriösen Fall, der Ihre Silhouette schmeichelhaft umschmeichelt. Die kurzen Ärmel sorgen für eine luftige und vielseitige Passform, die sich ideal für verschiedene Jahreszeiten eignet. Der elegante Stehkragen fügt dem Kleid eine subtile Note von Raffinesse hinzu und hebt es von alltäglichen Designs ab. Ein besonderer Akzent des Kleides ist der integrierte Gürtel, der in der Taille bindet und so eine feminine Form schafft. Dieser Gürtel lässt sich leicht anpassen und betont Ihre natürliche Körperlinie, während er gleichzeitig für zusätzlichen Komfort sorgt. Die Kombination aus dem minimalistischen Stehkragen, dem eleganten Gürtel und dem weichen Strickstoff macht dieses Mini-Kleid zu einem vielseitigen Klassiker. Es kann sowohl im Alltag als auch bei besonderen Anlässen getragen werden und lässt sich mühelos mit verschiedenen Accessoires kombinieren. Kombinieren Sie es mit eleganten Stiefeletten und einer schicken Handtasche für einen modernen, urbanen Look oder tragen Sie es mit Sandalen und einer Sonnenbrille für einen entspannten Sommerauftritt. MARKE - La Strada PASSFORM UND SCHNITT - One Size (von Größen 36 bis 42), Passgenauigkeit - Passgenau - normal geschnitten, anliegender Schnitt, taillierter Schnitt - Etuikleid - Minikleid - Tailliert, integrierter Gürtel MATERIAL UND VERARBEITUNG - Muster: Unifarben - Materialmix: 88% Viskose 12% Nylon - Materialqualität: mittelschweres Material, elastisches Material, Weiche Haptik PFLEGEHINWEIS - Maschinenwäsche bis 30°C, Nicht Trockner geeignet, Bügeln mit niedriger Temperatur (max. 110°C, kein Dampf), Bleichen nicht erlaubt MODEL - Das Model ist 172cm groß und trägt Konfektionsgröße 36 bzw. S GrößeOne Size
-  Updated: 2025-10-24T17:56:45Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIyODQ4NTEuanBn.jpg?v=1740395416
-  - [One Size / BEIGE](https://lastradafashion.de/products/strickkleid-mit-gurtel?variant=53228055495005)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIyODQ4NzYuanBn_d061216a-09ba-4323-b57e-3d0f23060060.jpg?v=1740395416
-    Price: 49,90 € EUR
-  - [One Size / GRAU](https://lastradafashion.de/products/strickkleid-mit-gurtel?variant=53228055527773)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTEwNzU4NzYuanBn.jpg?v=1740395416
-    Price: 49,90 € EUR
-  - [One Size / SCHWARZ](https://lastradafashion.de/products/strickkleid-mit-gurtel?variant=53228055658845)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTEwNzU4ODEuanBn.jpg?v=1740395416
-    Price: 49,90 € EUR
-  - [One Size / BORDEAUX](https://lastradafashion.de/products/strickkleid-mit-gurtel?variant=54800403202397)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTE5NDY4NDUuanBn.jpg?v=1740395416
-    Price: 49,90 € EUR
-  - [One Size / GRÜN](https://lastradafashion.de/products/strickkleid-mit-gurtel?variant=55904870924637)
-    Availability: Not Available
-    Price: 49,90 € EUR
-  - [One Size / HELLBLAU](https://lastradafashion.de/products/strickkleid-mit-gurtel?variant=55904870957405)
-    Availability: Not Available
-    Price: 49,90 € EUR
-  - [One Size / KHAKI](https://lastradafashion.de/products/strickkleid-mit-gurtel?variant=55904870990173)
-    Availability: Not Available
-    Price: 49,90 € EUR
-  - [One Size / MARINE](https://lastradafashion.de/products/strickkleid-mit-gurtel?variant=55904871022941)
-    Availability: Not Available
-    Price: 49,90 € EUR
-  - [One Size / ROSA](https://lastradafashion.de/products/strickkleid-mit-gurtel?variant=55904871055709)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIyODQ4NTEuanBn.jpg?v=1740395416
-    Price: 49,90 € EUR
-- [Strickpullover mit V-Ausschnitt](https://lastradafashion.de/products/strickpullover-mit-v-ausschnitt-1): Dieser Strickpullover ist ein gemütliches und modisches Kleidungsstück mit einem lockeren Schnitt, der viel Bewegungsfreiheit bietet. Die langen Ärmel sind ideal für kühlere Tage und sorgen dafür, dass Sie sich rundum behaglich fühlen. Der V-Ausschnitt verleiht dem Pullover eine elegante Note und sorgt dafür, dass er sowohl leger als auch schick getragen werden kann. Das Material ist weich und angenehm auf der Haut, was den Tragekomfort erhöht. Durch das moderne und zeitlose Aussehen, lässt sich der Pullover vielseitig kombinieren – egal, ob zu Jeans für einen lässigen Look oder zu einem Rock für etwas Eleganteres. Insgesamt ist dieser Strickpullover ein perfektes Stück, um jedem Outfit eine wohlige und stylische Note zu verleihen. MARKE - La Strada PASSFORM UND SCHNITT - One Size (von Größen 36 bis 42), Passgenauigkeit - Passgenau - normal geschnitten, lockerer Schnitt - V-Ausschnitt, langer Arm MATERIAL UND VERARBEITUNG - Muster: Unifarben - Materialmix: 60% Polyester, 40% Viskose - Materialqualität: leichtes Material, elastisches Material PFLEGEHINWEIS - Handwäsche, Nicht Trockner geeignet, Bügeln mit niedriger Temperatur (max. 110°C, kein Dampf), Bleichen nicht erlaubt, Nicht chemisch reinigen MODEL - Das Model ist 176cm groß und trägt Konfektionsgröße 36 bzw. S GrößeOne Size
-  Updated: 2025-10-24T16:41:45Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTEwNzg0NDUuanBn_6a950d34-749e-472e-beb1-0ae6d64dc51d.jpg?v=1739798583
-  - [One Size / BEERE](https://lastradafashion.de/products/strickpullover-mit-v-ausschnitt-1?variant=53229701431645)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTEwNzg0MzYuanBn_e4314cfe-b20c-4f37-a84e-cc6e077d5b35.jpg?v=1739798583
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAxMC0xMzUzLTQwNjgzODIwODU0OTMtYmVpZ2UtMjUwMHgxODc1cHgtYmdiLTEuanBlZw_7965c0d7-ed94-4508-96de-dc353bdf3b71.jpg?v=1761411783
     Price: 29,90 € EUR
-  - [One Size / BEIGE](https://lastradafashion.de/products/strickpullover-mit-v-ausschnitt-1?variant=53229701464413)
+  - [One Size / KHAKI](https://lastradafashion.de/products/elegantes-feinstrick-shirt?variant=53229701595485)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTEwNzg1MDUuanBn_a165d10d-da51-48b6-9ab3-eb30376c5ef5.jpg?v=1739798583
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAxMC0xMzUzLTQwNjgzODIwODU1MzAta2FraS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn_213790fc-22d9-41bb-bb43-9d4d1201b1fa.jpg?v=1761411783
     Price: 29,90 € EUR
-  - [One Size / CREME](https://lastradafashion.de/products/strickpullover-mit-v-ausschnitt-1?variant=53229701497181)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTEwNzg0NDEuanBn_42ff2ae4-2386-48b9-9e89-62b217eddc8d.jpg?v=1739798583
-    Price: 29,90 € EUR
-  - [One Size / HELLBLAU](https://lastradafashion.de/products/strickpullover-mit-v-ausschnitt-1?variant=53229701529949)
+  - [One Size / SCHWARZ](https://lastradafashion.de/products/elegantes-feinstrick-shirt?variant=53229701726557)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIyODMzMzYuanBn_74d84efa-adfe-4536-9054-69695b38104a.jpg?v=1739798583
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAxMC0xMzUzLTQwNjgzODIwODU1Nzgtc2Nod2Fyei0yNTAweDE4NzVweC1iZ2ItMS5qcGVn_eaaa429a-7d2c-4922-8185-818c299e726d.jpg?v=1761411783
     Price: 29,90 € EUR
-  - [One Size / HELLGRAU](https://lastradafashion.de/products/strickpullover-mit-v-ausschnitt-1?variant=53229701562717)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIyODMzMTAuanBn_3142747f-986a-4ea5-8126-b456a99066d2.jpg?v=1739798583
-    Price: 29,90 € EUR
-  - [One Size / KHAKI](https://lastradafashion.de/products/strickpullover-mit-v-ausschnitt-1?variant=53229701595485)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTEwNzg1NDkuanBn_dc287bf0-cbc6-40aa-9b90-f978449782c6.jpg?v=1739798583
-    Price: 29,90 € EUR
-  - [One Size / ROSA](https://lastradafashion.de/products/strickpullover-mit-v-ausschnitt-1?variant=53229701628253)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIyNzkzNzQuanBn_1666b97a-c267-4e2f-9973-032e144f2198.jpg?v=1739798583
-    Price: 29,90 € EUR
-  - [One Size / ROT](https://lastradafashion.de/products/strickpullover-mit-v-ausschnitt-1?variant=53229701661021)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTEwNzg0OTAuanBn_045d01ca-3549-4825-9a8e-67f1fc1a73a8.jpg?v=1739798583
-    Price: 29,90 € EUR
-  - [One Size / ROYAL](https://lastradafashion.de/products/strickpullover-mit-v-ausschnitt-1?variant=53229701693789)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTEwNzg0NDUuanBn_6a950d34-749e-472e-beb1-0ae6d64dc51d.jpg?v=1739798583
-    Price: 29,90 € EUR
-  - [One Size / SCHWARZ](https://lastradafashion.de/products/strickpullover-mit-v-ausschnitt-1?variant=53229701726557)
+  - [One Size / BRAUN](https://lastradafashion.de/products/elegantes-feinstrick-shirt?variant=58887457636701)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIwNjk2MTcuanBn_1201c89d-dd81-4958-ae58-1d31980f634e.jpg?v=1739798583
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAxMC0xMzUzLTQwNjgzODIwOTg1NDctYnJhdW4tMjUwMHgxODc1cHgtYmdiLTEuanBlZw_88011db6-2dbe-437c-8337-114c36341e1a.jpg?v=1761411783
     Price: 29,90 € EUR
-  - [One Size / BORDEAUX](https://lastradafashion.de/products/strickpullover-mit-v-ausschnitt-1?variant=55150608122205)
+  - [One Size / BORDEAUX](https://lastradafashion.de/products/elegantes-feinstrick-shirt?variant=55150608122205)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIwNjk1MzYuanBn_b578c5d1-c8f4-4b9e-9a60-9a5eed53ed56.jpg?v=1739798583
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAxMC0xMzUzLTQwNjgzODIxMDI5OTItYm9yZGVhdXgtMjUwMHgxODc1cHgtYmdiLTEuanBlZw_08ba3c90-2798-437c-a765-8d997fb1d350.jpg?v=1761411783
     Price: 29,90 € EUR
-  - [One Size / GRAU](https://lastradafashion.de/products/strickpullover-mit-v-ausschnitt-1?variant=55150608154973)
+  - [One Size / GRAU](https://lastradafashion.de/products/elegantes-feinstrick-shirt?variant=55150608154973)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIwNjk2MzAuanBn_8056397a-3748-428a-9907-9bc0a9c55bc4.jpg?v=1739798583
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAxMC0xMzUzLTQwNjgzODIxMDMwMDUtZ3JhdS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn_fd5b59a2-50f3-4c27-a8b7-0fef087243fd.jpg?v=1761411783
     Price: 29,90 € EUR
-  - [One Size / KIWI](https://lastradafashion.de/products/strickpullover-mit-v-ausschnitt-1?variant=55150608187741)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIyNzk0MzIuanBn_8be62508-23de-4b36-8260-fab976757b53.jpg?v=1739798583
-    Price: 29,90 € EUR
-  - [One Size / TAUPE](https://lastradafashion.de/products/strickpullover-mit-v-ausschnitt-1?variant=55150608253277)
+  - [One Size / TAUPE](https://lastradafashion.de/products/elegantes-feinstrick-shirt?variant=55150608253277)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIwNjk2NDUuanBn_c3ef0ef8-2bc6-4cfb-877d-9e904ae10fcd.jpg?v=1739798583
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAxMC0xMzUzLTQwNjgzODIxMDMwMzYtdGF1cGUtMjUwMHgxODc1cHgtYmdiLTEuanBlZw_747b46a8-0382-442e-b7c2-3e802d2eb35b.jpg?v=1761411783
     Price: 29,90 € EUR
-  - [One Size / FLIEDER](https://lastradafashion.de/products/strickpullover-mit-v-ausschnitt-1?variant=55899993735517)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIyNzk0MjUuanBn_36faedfb-17df-4790-8c7b-cf822f15e1d7.jpg?v=1739798583
-    Price: 29,90 € EUR
-  - [One Size / GELB](https://lastradafashion.de/products/strickpullover-mit-v-ausschnitt-1?variant=55899993768285)
+  - [One Size / ALTROSA](https://lastradafashion.de/products/elegantes-feinstrick-shirt?variant=58887457669469)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIyNzkzODQuanBn_7c745028-b3a1-4b88-b7b7-5464acdaa909.jpg?v=1739798583
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAxMC0xMzUzLTQwNjgzODIxNTUzNjMtYWx0cm9zYS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn_30e1097b-54f3-4d99-99d3-49babab7d118.jpg?v=1761411373
     Price: 29,90 € EUR
-  - [One Size / MINT](https://lastradafashion.de/products/strickpullover-mit-v-ausschnitt-1?variant=55899993801053)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIyNzk0MjcuanBn_38a91323-e1cb-4156-94ff-685628d73c42.jpg?v=1739798583
+  - [One Size / CAMEL](https://lastradafashion.de/products/elegantes-feinstrick-shirt?variant=58887457702237)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAxMC0xMzUzLTQwNjgzODIxNTUzNDktY2FtZWwtMjUwMHgxODc1cHgtYmdiLTEuanBlZw_60b268f9-c49a-43d1-8979-8e95e51d4dc8.jpg?v=1761411373
     Price: 29,90 € EUR
-  - [One Size / ORANGE](https://lastradafashion.de/products/strickpullover-mit-v-ausschnitt-1?variant=55899993833821)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIyNzkzNzkuanBn_a3f7ce80-484d-4561-8351-1cdb54b2db52.jpg?v=1739798583
+  - [One Size / DUNKELORANGE](https://lastradafashion.de/products/elegantes-feinstrick-shirt?variant=58887457735005)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAxMC0xMzUzLTQwNjgzODIxNTUzNzAtZHVua2Vsb3JhbmdlLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc_9e72ed8a-c102-4288-9729-bc81d37a8dbd.jpg?v=1761411373
     Price: 29,90 € EUR
-  - [One Size / PINK](https://lastradafashion.de/products/strickpullover-mit-v-ausschnitt-1?variant=55899993866589)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIyODMzMjguanBn_b21ae4f0-60d3-4d3d-93d1-76c51bb89bc0.jpg?v=1739798583
-    Price: 29,90 € EUR
-  - [One Size / WEIß](https://lastradafashion.de/products/strickpullover-mit-v-ausschnitt-1?variant=55899993899357)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIyNzkzNjUuanBn_a4c657d6-d866-49f2-a2a2-2c24f2665197.jpg?v=1739798583
+  - [One Size / JEANSBLAU](https://lastradafashion.de/products/elegantes-feinstrick-shirt?variant=58887457767773)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAxMC0xMzUzLTQwNjgzODIxNTUzNTYtamVhbnNibGF1LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc_8eb5574e-488e-489b-bd63-36a006b3a950.jpg?v=1761411373
     Price: 29,90 € EUR
 - [Strickpullover mit Leo-Muster](https://lastradafashion.de/products/strickpullover-mit-leo-muster): Setzen Sie ein modisches Statement mit unserem Strickpullover im Leo-Muster. Dieser Pullover kombiniert auffälliges Design mit einem bequemen Schnitt und ist das ideale Kleidungsstück für modebewusste Frauen, die es stilvoll und komfortabel mögen. Das markante Leo-Muster verleiht dem Pullover eine dynamische und trendbewusste Optik, die alle Blicke auf sich zieht. Es verleiht Ihrem Outfit einen wilden und dennoch eleganten Touch, der vielseitig kombinierbar ist. Der Stehkragen sorgt für einen eleganten und modernen Look, während er gleichzeitig angenehmen Schutz vor kühlerem Wetter bietet. Er verleiht dem Pullover eine stilvolle Note und macht ihn zum perfekten Begleiter für die Übergangszeit. Mit seinem halben Arm bietet der Pullover eine modische Alternative zu langärmeligen Designs und eignet sich hervorragend für wechselhaftes Wetter. Die Ärmel enden auf halber Länge und verleihen dem Look eine leichte, frische Note, die sowohl lässig als auch elegant wirkt. Hergestellt aus weichem Strickmaterial, fühlt sich der Pullover angenehm auf der Haut an und sorgt für höchsten Tragekomfort. Der figurumspielende Schnitt bietet Bewegungsfreiheit und schmeichelt der Silhouette, ohne aufdringlich zu sein. Ob zu einer schmalen Jeans oder einem Rock kombiniert, dieser Strickpullover passt zu vielen Gelegenheiten. Tragen Sie ihn mit dezenten Accessoires für einen harmonischen Look oder setzen Sie weitere Akzente mit auffälligem Schmuck. MARKE - La Strada PASSFORM UND SCHNITT - One Size (von Größen 36 bis 42), Fällt der Größe entsprechend normal aus - normal geschnitten, lockerer Schnitt - Stehkragen, halber Arm, Schultern im Oversize Schnitt MATERIAL UND VERARBEITUNG - Muster: Leo - Materialmix: 65% Viskose, 35% Nylon - Materialqualität: mittelschweres Material, elastisches Material PFLEGEHINWEIS - Maschinenwäsche bis 30°C, Nicht Trockner geeignet, Bügeln mit niedriger Temperatur (max. 110°C, kein Dampf), Bleichen nicht erlaubt MODEL - Das Model ist 178cm groß und trägt Konfektionsgröße 36 bzw. S GrößeOne SizeFarbeBEIGE
   Updated: 2025-10-20T15:50:33Z
@@ -1162,58 +595,6 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/11312387.jpg?v=1727097548
     Price: 12,00 € EUR
-- [Basic Langarmshirt mit V-Ausschnitt](https://lastradafashion.de/products/oberteil-mit-v-ausschnitt-und-1-1-arm): Dieses Basic Langarmshirt mit V-Ausschnitt ist ein unverzichtbares Essential für jede Garderobe. Mit seinem zeitlosen Design bietet es vielseitige Styling-Möglichkeiten und eignet sich perfekt als Grundlage für zahlreiche Outfits. Der V-Ausschnitt verleiht dem Shirt eine feminine Note und schmeichelt der Silhouette, während die langen Ärmel für zusätzlichen Komfort und Wärme sorgen. Hergestellt aus einem hochwertigen, weichen Material, bietet das Shirt nicht nur eine angenehme Passform, sondern auch hohen Tragekomfort, egal ob Sie es im Büro, beim Relaxen zu Hause oder beim Ausgehen tragen. Die schlichte Eleganz dieses Shirts macht es leicht, es mit Jeans, Röcken oder Shorts zu kombinieren. Ein echtes Must-have, das in verschiedenen Farben erhältlich ist, um Ihrem persönlichen Stil gerecht zu werden. Dieses Langarmshirt ist perfekt für Layering – tragen Sie es unter einem Blazer oder einer Strickjacke für einen schicken Look oder solo für einen entspannten Alltagsstil. Ein echtes Basic, das niemals aus der Mode kommt! MARKE - La Strada PASSFORM UND SCHNITT - One Size (von Größen 36 bis 42) - lockerer Schnitt, locker fallend, Überschnittene Ärmel MATERIAL UND VERARBEITUNG - Muster: Unifarben - Materialmix: 95% Viskose, 5% Elastan - Materialqualität: leichtes Material PFLEGEHINWEIS - Maschinenwäsche bis 30°C, Nicht Trockner geeignet, Bügeln mit niedriger Temperatur (max. 110°C, kein Dampf), Bleichen nicht erlaubt MODEL - Das Model ist 172cm groß und trägt Konfektionsgröße 36 bzw. S GrößeOne Size
-  Updated: 2025-10-23T12:56:47Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTE4NjU1MDguanBn.jpg?v=1730799244
-  - [One Size / BORDEAUX](https://lastradafashion.de/products/oberteil-mit-v-ausschnitt-und-1-1-arm?variant=54553687097693)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTE4NjU1MjguanBn.jpg?v=1730799244
-    Price: 22,00 € EUR
-  - [One Size / BRAUN](https://lastradafashion.de/products/oberteil-mit-v-ausschnitt-und-1-1-arm?variant=54553687130461)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTE4NjU1MzguanBn.jpg?v=1730799244
-    Price: 22,00 € EUR
-  - [One Size / CREME](https://lastradafashion.de/products/oberteil-mit-v-ausschnitt-und-1-1-arm?variant=54553687163229)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTE4NjU1NTQuanBn.jpg?v=1730799244
-    Price: 22,00 € EUR
-  - [One Size / GRAU](https://lastradafashion.de/products/oberteil-mit-v-ausschnitt-und-1-1-arm?variant=54553687195997)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTE4NjU1NjYuanBn.jpg?v=1730799244
-    Price: 22,00 € EUR
-  - [One Size / KHAKI](https://lastradafashion.de/products/oberteil-mit-v-ausschnitt-und-1-1-arm?variant=54553687228765)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTE4NjU1MDguanBn.jpg?v=1730799244
-    Price: 22,00 € EUR
-  - [One Size / SCHWARZ](https://lastradafashion.de/products/oberteil-mit-v-ausschnitt-und-1-1-arm?variant=54553687261533)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTE4NjU2MDAuanBn.jpg?v=1730799244
-    Price: 22,00 € EUR
-  - [One Size / TAUPE](https://lastradafashion.de/products/oberteil-mit-v-ausschnitt-und-1-1-arm?variant=54553687294301)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTE4NjU2MTcuanBn.jpg?v=1730799244
-    Price: 22,00 € EUR
-- [Maxirock mit Pailletten und Tüll-Überrock](https://lastradafashion.de/products/maxirock-mit-pailletten-und-tull-uberrock): Dieser Maxirock mit funkelnden Pailletten und einem eleganten Tüll-Überrock ist das ultimative Statement-Stück für besondere Anlässe und glamouröse Auftritte. Der locker fallende Schnitt sorgt für eine fließende, feminine Silhouette, die elegant über die Hüften und Beine gleitet. Der elastische Bund garantiert eine bequeme Passform und passt sich mühelos an, was für einen angenehmen Tragekomfort sorgt. Das Design kombiniert einen schimmernden, paillettenbesetzten Rock mit einem transparenten Tüll-Überrock, der dem Look Tiefe und eine verträumte, romantische Note verleiht. Die unifarbene Gestaltung lässt die Pailletten im Licht wunderschön glitzern, ohne aufdringlich zu wirken, und sorgt für einen stilvollen, edlen Look. Ideal zu einem schlichten Top und hohen Schuhen für eine festliche Veranstaltung oder kombiniert mit einem kuscheligen Pullover für einen modischen Stilbruch – dieser Maxirock verleiht jedem Outfit eine luxuriöse Note. Ein Must-have für alle, die bei besonderen Anlässen glänzen möchten und dabei auf stilvolle Eleganz setzen. MARKE - La Strada PASSFORM UND SCHNITT - One Size (von Größen 36 bis 42) - locker fallend - Elastischer Bund - elastischer Bund MATERIAL UND VERARBEITUNG - Muster: Unifarben, Pailletten - Materialmix: 90% Polyester, 10% Elastan - Materialqualität: leichtes Material PFLEGEHINWEIS - Maschinenwäsche bis 30°C, Nicht Trockner geeignet, Bügeln mit mäßiger Temperatur (max. 150°C), Bleichen nicht erlaubt MODEL - Das Model ist 172cm groß und trägt Konfektionsgröße 36 bzw. S GrößeOne Size
-  Updated: 2025-10-20T15:50:44Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTE5MTMyMjEuanBn.jpg?v=1731490538
-  - [One Size / CREME](https://lastradafashion.de/products/maxirock-mit-pailletten-und-tull-uberrock?variant=54706830180701)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTE5MTMyMjYuanBn.jpg?v=1731490538
-    Price: 49,90 € EUR
-  - [One Size / GRAU](https://lastradafashion.de/products/maxirock-mit-pailletten-und-tull-uberrock?variant=54706830213469)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTE5MTMyMjEuanBn.jpg?v=1731490538
-    Price: 49,90 € EUR
-  - [One Size / SCHWARZ](https://lastradafashion.de/products/maxirock-mit-pailletten-und-tull-uberrock?variant=54706830246237)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTE5MTMyMTYuanBn.jpg?v=1731490538
-    Price: 49,90 € EUR
 - [Schlichter Schal aus Strick](https://lastradafashion.de/products/schlichter-schal-aus-strick): Dieser Schal ist gefertigt aus einem weichen Material, das sanft über die Haut gleitet. Er fällt leicht und geschmeidig, was das Tragen äußerst angenehm macht. Zusätzlich bietet der Schal eine vielseitige Anwendbarkeit. Ob beim Spaziergang im Park, auf dem Weg zur Arbeit oder in geselliger Runde mit Freunden – er ist der ideale Begleiter für jede Gelegenheit. Besonders an kalten Tagen schenkt er wohlige Wärme und lässt die Trägerin oder den Träger nicht frieren. Insgesamt ist dieser Schal mehr als nur ein Accessoire; er ist ein unverzichtbarer Teil der Garderobe, der Stil und Funktionalität auf perfektem Niveau vereint. MARKE - La Strada PASSFORM UND SCHNITT - One Size (von Größen 36 bis 42) - Schal MATERIAL UND VERARBEITUNG - Muster: Unifarben - Materialmix: 30% Merinowolle, 60% Acryl, 10% Spandex - Materialqualität: leichtes Material, Weiche Haptik PFLEGEHINWEIS - Handwäsche, Nicht Trockner geeignet, Nicht bügeln, Bleichen nicht erlaubt MODEL - Das Model ist 172cm groß und trägt Konfektionsgröße 36 bzw. S GrößeOne Size
   Updated: 2025-10-20T15:50:47Z
   Vendor: La Strada
@@ -1240,24 +621,6 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTE5NTY2ODYuanBn.jpg?v=1732031803
     Price: 23,90 € EUR
-- [Blütenspitzen-Top](https://lastradafashion.de/products/blutenspitzen-top): Dieses Blütenspitzen-Top ist ein romantisches und stilvolles Highlight für besondere Anlässe oder um Alltagslooks aufzuwerten. Der lockere, normal geschnittene Fit sorgt für eine angenehme Passform, die sanft die Figur umspielt. Mit seinem eleganten Rundhalsausschnitt und den 3/4-Ärmeln bietet das Top eine zeitlose Silhouette, die durch das schimmernde Glitzergarn edel akzentuiert wird. Das unifarbene Design aus zarter Spitze verleiht dem Top eine feminine und leicht verspielte Note, während die transparente Optik für einen modernen, aufregenden Touch sorgt. Perfekt als Statement-Piece über einem schlichten Untertop oder für Layering-Looks. Kombinieren Sie es mit einer schmalen Hose oder einem eleganten Rock für einen festlichen Look oder tragen Sie es mit Jeans, um einen eleganten Stilbruch zu erzielen. Ein Must-have für Frauen, die romantische Details und eine Prise Glamour lieben. MARKE - La Strada PASSFORM UND SCHNITT - One Size (von Größen 36 bis 42) - normal geschnitten, locker fallend - Rundhalsausschnitt, 3/4 Arm, Mit Glitzergarn MATERIAL UND VERARBEITUNG - Muster: Unifarben - Materialmix: 100% Polyester - Materialqualität: leichtes Material, stark transparent PFLEGEHINWEIS - Handwäsche, Nicht Trockner geeignet, Bügeln mit niedriger Temperatur (max. 110°C, kein Dampf), Bleichen nicht erlaubt MODEL - Das Model ist 174cm groß und trägt Konfektionsgröße 36 bzw. S GrößeOne Size
-  Updated: 2025-10-20T15:50:48Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIwMTE2MDguanBn_70405c0c-6677-482f-ab74-8fe2d4251dab.jpg?v=1734618896
-  - [One Size / CREME](https://lastradafashion.de/products/blutenspitzen-top?variant=54966526837085)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIwMTE2MjIuanBn_72eeb3db-ff71-4725-afc2-7f6ea7dbb1ec.jpg?v=1734618896
-    Price: 45,00 € EUR
-  - [One Size / GOLD](https://lastradafashion.de/products/blutenspitzen-top?variant=54966526869853)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIwMTE2MDguanBn_70405c0c-6677-482f-ab74-8fe2d4251dab.jpg?v=1734618896
-    Price: 45,00 € EUR
-  - [One Size / SCHWARZ](https://lastradafashion.de/products/blutenspitzen-top?variant=55325360161117)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIxMjk2NTcuanBn.jpg?v=1734618896
-    Price: 45,00 € EUR
 - [Strickmütze mit Smiley-Patch](https://lastradafashion.de/products/strickmutze-mit-smiley-patch): Diese Strickmütze mit Smiley-Patch ist das perfekte Accessoire, um Ihrem Look eine fröhliche und moderne Note zu verleihen. Die unifarbene Strickmütze ist zeitlos und vielseitig kombinierbar, während der auffällige Smiley-Patch einen verspielten Akzent setzt, der gute Laune verbreitet. Der hochwertige Materialmix aus Acryl und Angora sorgt für eine weiche Haptik und angenehme Wärme, ideal für kalte Tage. Die leichte Verarbeitung macht die Mütze besonders komfortabel und alltagstauglich, ohne dabei auf Stil zu verzichten. Kombinieren Sie sie mit einem lässigen Outfit für einen entspannten Look oder nutzen Sie sie als trendiges Highlight zu eleganteren Winteroutfits. Ein Must-have für alle, die Funktionalität und modische Details in einem Accessoire vereinen möchten! MARKE - La Strada PASSFORM UND SCHNITT - One Size (von Größen 36 bis 42) - Strickmütze MATERIAL UND VERARBEITUNG - Muster: Unifarben - Materialmix: 75% Acryl, 25% Angora - Materialqualität: leichtes Material, Weiche Haptik PFLEGEHINWEIS - Handwäsche, Nicht Trockner geeignet, Nicht bügeln, Bleichen nicht erlaubt MODEL - Das Model ist 172cm groß und trägt Konfektionsgröße 36 bzw. S GrößeOne Size
   Updated: 2025-10-20T15:50:48Z
   Vendor: La Strada
@@ -1284,199 +647,52 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIwMjg5MTguanBn.jpg?v=1733129297
     Price: 15,90 € EUR
-- [Leichtes Langarm-Shirt](https://lastradafashion.de/products/leichtes-langarm-shirt): Dieses leichte Langarm-Shirt ist die perfekte Kombination aus Komfort und Eleganz. Der lockere, normal geschnittene Fit sorgt für eine entspannte Passform, die sich angenehm trägt und vielseitig kombinieren lässt. Der klassische Rundhalsausschnitt und die langen Ärmel machen es zu einem zeitlosen Basic, das sich ideal für den Alltag oder schicke Layering-Looks eignet. Das unifarbene Design wirkt modern und minimalistisch, während die leicht transparente Optik dem Shirt eine zarte, feminine Note verleiht. Der hochwertige Materialmix mit einem Hauch von Cashmere sorgt für ein luxuriöses Tragegefühl und macht das Shirt angenehm weich und leicht. Kombinieren Sie es mit Jeans für einen lässigen Look oder mit einer eleganten Hose und Blazer für einen stilvollen Auftritt. Ein Must-have für jede Garderobe, das sich mühelos an unterschiedliche Anlässe anpasst. MARKE - La Strada PASSFORM UND SCHNITT - One Size (von Größen 36 bis 42) - normal geschnitten, lockerer Schnitt - Rundhalsausschnitt, langer Arm MATERIAL UND VERARBEITUNG - Muster: Unifarben - Materialmix: 80% Viskose, 9% Nylon, 6% Elastan, 5% Cashmere - Materialqualität: leichtes Material, leicht transparent PFLEGEHINWEIS - Maschinenwäsche bis 30°C, Nicht Trockner geeignet, Bügeln mit niedriger Temperatur (max. 110°C, kein Dampf), Bleichen nicht erlaubt MODEL - Das Model ist 172cm groß und trägt Konfektionsgröße 36 bzw. S GrößeOne Size
-  Updated: 2025-10-21T08:55:41Z
+- [Feinstrickpullover](https://lastradafashion.de/products/basic-feinstrickpullover): Ein modernes Essential mit femininer Silhouette – dieser Pullover besticht durch seine klare Linie und das weiche, feine Maschenbild. Der klassische Rundhalsausschnitt wird durch die angeschnittenen Fledermausärmel und die umschmeichelte Taille stilvoll kontrastiert. Die leicht verkürzte, körpernahe Passform am Saumverlauf lässt sich ideal zu High-Waist-Hosen oder Röcken kombinieren und zaubert eine elegante Kontur. Dieser Pullover begleitet dich stilvoll durch jeden Tag. Ein Must-have für elegante Wohlfühlmomente.
+  Updated: 2025-10-26T05:15:26Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIwNzA0NTAuanBn.jpg?v=1742393961
-  - [One Size / BEIGE](https://lastradafashion.de/products/leichtes-langarm-shirt?variant=55151794389341)
+  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAxMC0xNjI1LTQwNjgzODIxNTUzMzItYWx0cm9zYS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1761412605
+  - [One Size / BEIGE](https://lastradafashion.de/products/basic-feinstrickpullover?variant=55903811993949)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIwNzA2MDQuanBn.jpg?v=1742393961
-    Price: 25,00 € EUR
-  - [One Size / BORDEAUX](https://lastradafashion.de/products/leichtes-langarm-shirt?variant=55151794422109)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIwNzA2MTAuanBn.jpg?v=1742393961
-    Price: 25,00 € EUR
-  - [One Size / BRAUN](https://lastradafashion.de/products/leichtes-langarm-shirt?variant=55151794454877)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIwNzA2MTguanBn.jpg?v=1742393961
-    Price: 25,00 € EUR
-  - [One Size / KHAKI](https://lastradafashion.de/products/leichtes-langarm-shirt?variant=55151794487645)
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAxMC0xNjI1LTQwNjgzODIxMDk2NzAtYmVpZ2UtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1761413657
+    Price: 29,90 € EUR
+  - [One Size / SCHWARZ](https://lastradafashion.de/products/basic-feinstrickpullover?variant=55903812321629)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIwNzA0NTAuanBn.jpg?v=1742393961
-    Price: 25,00 € EUR
-  - [One Size / SCHWARZ](https://lastradafashion.de/products/leichtes-langarm-shirt?variant=55151794520413)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIwNzA2MjcuanBn.jpg?v=1742393961
-    Price: 25,00 € EUR
-- [Lockerer Rollkragenpullover](https://lastradafashion.de/products/lockerer-rollkragenpullover-1): Dieser lockere Rollkragenpullover kombiniert zeitlosen Stil mit gemütlichem Tragekomfort. Der lockere Schnitt und die normale Passform sorgen für einen entspannten Sitz, der angenehm die Figur umspielt und vielseitig kombinierbar ist. Der klassische Rollkragen und die langen Ärmel machen diesen Pullover zu einem idealen Begleiter für kühle Tage. Das unifarbene Design verleiht dem Pullover eine minimalistische Eleganz, während das leichte, elastische Material für ein angenehmes Tragegefühl und optimale Bewegungsfreiheit sorgt. Die weiche Haptik rundet das Wohlfühlerlebnis ab und macht den Pullover zum Must-have für jede Garderobe. Kombinieren Sie ihn mit Jeans für einen lässigen Alltagslook oder mit einer Stoffhose für ein stilvolles Outfit. Ein vielseitiges Kleidungsstück, das Komfort und schlichte Eleganz harmonisch vereint! MARKE - La Strada PASSFORM UND SCHNITT - One Size (von Größen 36 bis 42) - normal geschnitten, lockerer Schnitt - Rollkragen, langer Arm MATERIAL UND VERARBEITUNG - Muster: Unifarben - Materialmix: 50% Viskose, 28% Polyester, 22% Nylon - Materialqualität: leichtes Material, elastisches Material PFLEGEHINWEIS - Maschinenwäsche bis 30°C, Nicht Trockner geeignet, Bügeln mit niedriger Temperatur (max. 110°C, kein Dampf), Bleichen nicht erlaubt MODEL - Das Model ist 174cm groß und trägt Konfektionsgröße 36 bzw. S GrößeOne Size
-  Updated: 2025-10-24T14:56:06Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIxMjk1OTkuanBn.jpg?v=1734618599
-  - [One Size / CREME](https://lastradafashion.de/products/lockerer-rollkragenpullover-1?variant=55325342990685)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIxMjk2MDYuanBn.jpg?v=1734618599
-    Price: 25,00 € EUR
-  - [One Size / HELLBLAU](https://lastradafashion.de/products/lockerer-rollkragenpullover-1?variant=55325343023453)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIxMjk2MTEuanBn.jpg?v=1734618599
-    Price: 25,00 € EUR
-  - [One Size / PINK](https://lastradafashion.de/products/lockerer-rollkragenpullover-1?variant=55325343056221)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIxMjk2MTUuanBn.jpg?v=1734618599
-    Price: 25,00 € EUR
-  - [One Size / SALBEI](https://lastradafashion.de/products/lockerer-rollkragenpullover-1?variant=55325343088989)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIxMjk2MjMuanBn.jpg?v=1734618599
-    Price: 25,00 € EUR
-  - [One Size / SCHWARZ](https://lastradafashion.de/products/lockerer-rollkragenpullover-1?variant=55325343121757)
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAxMC0xNjI1LTQwNjgzODIxMDk2NTYtc2Nod2Fyei0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1761413657
+    Price: 29,90 € EUR
+  - [One Size / ALTROSA](https://lastradafashion.de/products/basic-feinstrickpullover?variant=58887542997341)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIxMjk1OTkuanBn.jpg?v=1734618599
-    Price: 25,00 € EUR
-- [Klassischer Strickpullover](https://lastradafashion.de/products/klassischer-strickpullover-2): Dieser Strickpullover ist ein gemütliches und modisches Kleidungsstück mit einem lockeren Schnitt, der viel Bewegungsfreiheit bietet. Die langen Ärmel sind ideal für kühlere Tage und sorgen dafür, dass Sie sich rundum behaglich fühlen. Der Rundhals-Ausschnitt verleiht dem Pullover eine elegante Note und sorgt dafür, dass er sowohl leger als auch schick getragen werden kann. Das Material ist weich und angenehm auf der Haut, was den Tragekomfort erhöht. Durch das moderne und zeitlose Aussehen, lässt sich der Pullover vielseitig kombinieren – egal, ob zu Jeans für einen lässigen Look oder zu einem Rock für etwas Eleganteres. Insgesamt ist dieser Strickpullover ein perfektes Stück, um jedem Outfit eine wohlige und stylische Note zu verleihen. MARKE - La Strada PASSFORM UND SCHNITT - One Size (von Größen 36 bis 42), Fällt der Größe entsprechend normal aus - normal geschnitten, gerader Schnitt - Rundhalsausschnitt, langer Arm, Feines Strickmuster MATERIAL UND VERARBEITUNG - Muster: Unifarben - Materialmix: 60% Polyester, 40% Viskose - Materialqualität: leichtes Material, elastisches Material PFLEGEHINWEIS - Handwäsche, Nicht Trockner geeignet, Bügeln mit niedriger Temperatur (max. 110°C, kein Dampf), Bleichen nicht erlaubt MODEL - Das Model ist 176cm groß und trägt Konfektionsgröße 36 bzw. S GrößeOne Size
-  Updated: 2025-10-24T15:42:45Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI2NDYwODguanBn_9337a994-6b7d-4bfd-9cd6-721a42b34670.jpg?v=1742375002
-  - [One Size / BEIGE](https://lastradafashion.de/products/klassischer-strickpullover-2?variant=55903811993949)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIyNzk5NDMuanBn.jpg?v=1742375002
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAxMC0xNjI1LTQwNjgzODIxNTUzMzItYWx0cm9zYS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1761412605
     Price: 29,90 € EUR
-  - [One Size / FLIEDER](https://lastradafashion.de/products/klassischer-strickpullover-2?variant=55903812026717)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIyNzk0MjUuanBn.jpg?v=1742375002
-    Price: 29,90 € EUR
-  - [One Size / GELB](https://lastradafashion.de/products/klassischer-strickpullover-2?variant=55903812059485)
+  - [One Size / BORDEAUX](https://lastradafashion.de/products/basic-feinstrickpullover?variant=58887543030109)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIyNzk5MDYuanBn.jpg?v=1742375002
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAxMC0xNjI1LTQwNjgzODIxNTUzMDEtYm9yZGVhdXgtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1761412605
     Price: 29,90 € EUR
-  - [One Size / HELLBLAU](https://lastradafashion.de/products/klassischer-strickpullover-2?variant=55903812092253)
+  - [One Size / BRAUN](https://lastradafashion.de/products/basic-feinstrickpullover?variant=58887543062877)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIyNzk4OTUuanBn.jpg?v=1742375002
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAxMC0xNjI1LTQwNjgzODIxNTUyOTUtYnJhdW4tMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1761412605
     Price: 29,90 € EUR
-  - [One Size / HELLGRAU](https://lastradafashion.de/products/klassischer-strickpullover-2?variant=55903812125021)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIyNzk4ODQuanBn.jpg?v=1742375002
-    Price: 29,90 € EUR
-  - [One Size / KIWI](https://lastradafashion.de/products/klassischer-strickpullover-2?variant=55903812157789)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIyNzk4NzguanBn.jpg?v=1742375002
-    Price: 29,90 € EUR
-  - [One Size / MINT](https://lastradafashion.de/products/klassischer-strickpullover-2?variant=55903812190557)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIyNzk4NzEuanBn.jpg?v=1742375002
-    Price: 29,90 € EUR
-  - [One Size / ORANGE](https://lastradafashion.de/products/klassischer-strickpullover-2?variant=55903812223325)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIyNzk4NDkuanBn.jpg?v=1742375002
-    Price: 29,90 € EUR
-  - [One Size / PINK](https://lastradafashion.de/products/klassischer-strickpullover-2?variant=55903812256093)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIyNzk4MjAuanBn.jpg?v=1742375002
-    Price: 29,90 € EUR
-  - [One Size / ROSA](https://lastradafashion.de/products/klassischer-strickpullover-2?variant=56931925623133)
+  - [One Size / CAMEL](https://lastradafashion.de/products/basic-feinstrickpullover?variant=58887543095645)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIyNzk4MzAuanBn.jpg?v=1742375002
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAxMC0xNjI1LTQwNjgzODIxNTUzMTgtY2FtZWwtMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1761413657
     Price: 29,90 € EUR
-  - [One Size / SCHWARZ](https://lastradafashion.de/products/klassischer-strickpullover-2?variant=55903812321629)
+  - [One Size / DUNKELORANGE](https://lastradafashion.de/products/basic-feinstrickpullover?variant=58887543128413)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIyNzk3NTkuanBn.jpg?v=1742375002
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAxMC0xNjI1LTQwNjgzODIxNTUyODgtZHVua2Vsb3JhbmdlLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1761413657
     Price: 29,90 € EUR
-  - [One Size / TAUPE](https://lastradafashion.de/products/klassischer-strickpullover-2?variant=55903812354397)
+  - [One Size / GRAU](https://lastradafashion.de/products/basic-feinstrickpullover?variant=58887543161181)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIyNzk5MzguanBn.jpg?v=1742375002
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAxMC0xNjI1LTQwNjgzODIxNTUyNzEtZ3JhdS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1761413657
     Price: 29,90 € EUR
-  - [One Size / WEIß](https://lastradafashion.de/products/klassischer-strickpullover-2?variant=55903812387165)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTIyNzk3MjguanBn.jpg?v=1742375002
-    Price: 29,90 € EUR
-  - [One Size / BLAU](https://lastradafashion.de/products/klassischer-strickpullover-2?variant=56393520283997)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI1MDM5MTAuanBn_74c8d326-0c77-4ed6-af8c-4b30f5f021be.jpg?v=1742375002
-    Price: 29,90 € EUR
-  - [One Size / GRÜN](https://lastradafashion.de/products/klassischer-strickpullover-2?variant=56393520316765)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI1MDM5MzMuanBn_8c2641f6-708c-416b-95fc-a0ab7c1d1f32.jpg?v=1742375002
-    Price: 29,90 € EUR
-  - [One Size / HELLROSA](https://lastradafashion.de/products/klassischer-strickpullover-2?variant=56393520349533)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI1MDM5NDUuanBn_5d88ed8f-19de-48e5-b83d-4934b07c096a.jpg?v=1742375002
-    Price: 29,90 € EUR
-  - [One Size / LILA](https://lastradafashion.de/products/klassischer-strickpullover-2?variant=56808984641885)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI4MjAyODYuanBn_7e59fe5f-0cb2-477d-ad56-8536d2e2c29f.jpg?v=1742375002
-    Price: 29,90 € EUR
-- [Waschledershirt mit Schnürung](https://lastradafashion.de/products/waschlederskirt-mit-schnurung): Der Waschledershirt mit Schnürung ist ein stilvolles Must-have für alle, die einen Hauch von Rock-Chic in ihre Garderobe bringen möchten. Der gerade Schnitt und der lockere Fall verleihen dem Rock eine moderne Eleganz, während die Schnürung als trendiges Detail für eine individuelle Passform sorgt. Der knieumspielende Schnitt macht ihn sowohl alltagstauglich als auch perfekt für besondere Anlässe. Die Waschleder-Optik verleiht dem Rock eine edle, samtige Haptik, die einen luxuriösen Look kreiert. Der unifarbene Stil macht ihn besonders vielseitig und lässt sich perfekt mit verschiedenen Oberteilen kombinieren – von lässig bis elegant. Gefertigt aus einem hochwertigen Materialmix aus 92 % Polyester und 8 % Elastan, überzeugt der Rock mit einem angenehmen Tragegefühl. Das leichte, aber feste Material sorgt für eine schöne Formstabilität, während die weiche Haptik für maximalen Komfort steht. Ob mit einem kuscheligen Strickpullover und Stiefeletten für den Alltag oder mit einer schicken Bluse und High Heels für den Abend – der Waschledershirt mit Schnürung ist ein vielseitiges It-Piece, das jede Garderobe aufwertet. Ein modisches Highlight für alle, die lässige Coolness mit femininer Eleganz verbinden möchten!MARKE- La StradaPASSFORM UND SCHNITT- Fällt der Größe entsprechend normal aus- normal geschnitten, gerader Schnitt, locker fallend, reicht über die Hüfte- Kentkragen, Raglanärmel, SchnürungMATERIAL UND VERARBEITUNG- Muster: Unifarben- Materialmix: 92% Polyester, 8% Elastan- Materialqualität: leichtes Material, festes, nicht dehnbares Material, Weiche HaptikPFLEGEHINWEIS- Handwäsche, Maschinenwäsche bis 30°C, Nicht Trockner geeignet, Bügeln mit niedriger Temperatur (max. 110°C, kein Dampf), Bleichen nicht erlaubtMODEL- Das Model ist 176cm groß und trägt Konfektionsgröße 36 bzw. S Farbe BEIGE
-  Updated: 2025-10-20T15:50:55Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI2NTY3MzAuanBn.jpg?v=1740500100
-  - [S/M / BEIGE](https://lastradafashion.de/products/waschlederskirt-mit-schnurung?variant=56537555435869)
+  - [One Size / JEANSBLAU](https://lastradafashion.de/products/basic-feinstrickpullover?variant=58887543193949)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI2NTY3MzAuanBn.jpg?v=1740500100
-    Price: 65,00 € EUR
-  - [M/L / BEIGE](https://lastradafashion.de/products/waschlederskirt-mit-schnurung?variant=56537555468637)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI2NTY3MzAuanBn.jpg?v=1740500100
-    Price: 65,00 € EUR
-- [Hemd aus Waschleder](https://lastradafashion.de/products/hemd-aus-waschleder): Das Hemd aus Waschleder ist die perfekte Mischung aus lässiger Eleganz und trendigem Design. Der gerade Schnitt und die lockere Passform sorgen für einen entspannten Look, der gleichzeitig stilvoll und modern wirkt. Mit seinem Kentkragen und den Raglanärmeln erhält das Hemd eine klassische Note, während die Brusttaschen dem Design eine lässige, funktionale Ergänzung verleihen. Die Länge, die bis über die Hüfte reicht, macht es besonders vielseitig – ob offen als leichte Jacke oder geschlossen als edles Hemd. Die Waschleder-Optik verleiht dem Hemd eine weiche, samtige Haptik und unterstreicht seinen hochwertigen, modernen Look. Das unifarbene Design macht es zu einem zeitlosen Allrounder, der sich mühelos mit verschiedenen Outfits kombinieren lässt. Gefertigt aus einem Materialmix aus 92 % Polyester und 8 % Elastan, fühlt sich das Hemd angenehm leicht auf der Haut an, bleibt dabei aber formstabil. Die weiche Haptik sorgt für hohen Tragekomfort, während das feste Material eine edle Struktur bewahrt. Egal, ob über einem schlichten Top mit Jeans für einen entspannten Casual-Look oder in Kombination mit einer Stoffhose und Boots für einen modernen, urbanen Style – das Hemd aus Waschleder ist ein vielseitiges Key-Piece, das in keiner Garderobe fehlen sollte! MARKE - La Strada PASSFORM UND SCHNITT - One Size (von Größen 36 bis 42) - normal geschnitten, gerader Schnitt, locker fallend, reicht über die Hüfte - Kentkragen, Raglanärmel, Brusttasche/n MATERIAL UND VERARBEITUNG - Muster: Unifarben - Materialmix: 92% Polyester, 8% Elastan - Materialqualität: leichtes Material, festes, nicht dehnbares Material, Weiche Haptik PFLEGEHINWEIS - Handwäsche, Maschinenwäsche bis 30°C, Nicht Trockner geeignet, Bügeln mit niedriger Temperatur (max. 110°C, kein Dampf), Bleichen nicht erlaubt MODEL - Das Model ist 176cm groß und trägt Konfektionsgröße 36 bzw. S GrößeOne SizeFarbeBEIGE
-  Updated: 2025-10-20T15:50:55Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI2NTg4NTAuanBn.jpg?v=1740486001
-  Price: 65,00 € EUR
-- [Sweat-Jacke mit Reißverschluss](https://lastradafashion.de/products/sweat-jacke-mit-reissverschluss): Diese Sweat-Jacke mit Reißverschluss vereint lässige Eleganz mit hohem Tragekomfort und ist ein echtes Must-have für moderne Looks. Der gerade Schnitt sorgt für eine zeitlose, minimalistische Optik, während die cleane Silhouette vielseitige Kombinationsmöglichkeiten bietet. Das weiche, mittelschwere Material verleiht der Jacke eine angenehme Struktur und macht sie zum perfekten Begleiter für jede Jahreszeit. Die praktischen Eingrifftaschen setzen funktionale Akzente und verleihen dem Design eine entspannte Note. Ob sportlich mit Jeans und Sneakers oder als cooler Stilbruch über einem eleganten Look – diese Jacke passt sich mühelos Ihrem individuellen Stil an. Ein zeitloses Essential, das Komfort und Stil perfekt vereint! MARKE - La Strada PASSFORM UND SCHNITT - Fällt der Größe entsprechend normal aus - normal geschnitten, gerader Schnitt - Jacke MATERIAL UND VERARBEITUNG - Muster: Unifarben - Materialmix: 76% Viskose, 16% Polyamide, 8% Elastan, - Materialqualität: mittelschweres Material PFLEGEHINWEIS - Maschinenwäsche bis 30°C, Nicht Trockner geeignet, Nicht bügeln, Bleichen nicht erlaubt, Nicht chemisch reinigen MODEL - Das Model ist 172cm groß und trägt Konfektionsgröße 36 bzw. S
-  Updated: 2025-10-20T15:50:55Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI2NTkwNzguanBn.jpg?v=1742391131
-  - [36 / BEIGE](https://lastradafashion.de/products/sweat-jacke-mit-reissverschluss?variant=56540289106269)
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAxMC0xNjI1LTQwNjgzODIxNTUzMjUtamVhbnNibGF1LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1761413657
+    Price: 29,90 € EUR
+  - [One Size / KHAKI](https://lastradafashion.de/products/basic-feinstrickpullover?variant=58887543226717)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI2NTkwNzguanBn.jpg?v=1742391131
-    Price: 129,00 € EUR
-  - [38 / BEIGE](https://lastradafashion.de/products/sweat-jacke-mit-reissverschluss?variant=56540289139037)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI2NTkwNzguanBn.jpg?v=1742391131
-    Price: 129,00 € EUR
-  - [40 / BEIGE](https://lastradafashion.de/products/sweat-jacke-mit-reissverschluss?variant=56540289171805)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI2NTkwNzguanBn.jpg?v=1742391131
-    Price: 129,00 € EUR
-  - [42 / BEIGE](https://lastradafashion.de/products/sweat-jacke-mit-reissverschluss?variant=56540289204573)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI2NTkwNzguanBn.jpg?v=1742391131
-    Price: 129,00 € EUR
-  - [44 / BEIGE](https://lastradafashion.de/products/sweat-jacke-mit-reissverschluss?variant=56540289237341)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI2NTkwNzguanBn.jpg?v=1742391131
-    Price: 129,00 € EUR
-  - [36 / SCHWARZ](https://lastradafashion.de/products/sweat-jacke-mit-reissverschluss?variant=56540289270109)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI2NTkxMDkuanBn.jpg?v=1742391131
-    Price: 129,00 € EUR
-  - [38 / SCHWARZ](https://lastradafashion.de/products/sweat-jacke-mit-reissverschluss?variant=56540289302877)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI2NTkxMDkuanBn.jpg?v=1742391131
-    Price: 129,00 € EUR
-  - [40 / SCHWARZ](https://lastradafashion.de/products/sweat-jacke-mit-reissverschluss?variant=56540289335645)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI2NTkxMDkuanBn.jpg?v=1742391131
-    Price: 129,00 € EUR
-  - [42 / SCHWARZ](https://lastradafashion.de/products/sweat-jacke-mit-reissverschluss?variant=56540289368413)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI2NTkxMDkuanBn.jpg?v=1742391131
-    Price: 129,00 € EUR
-  - [44 / SCHWARZ](https://lastradafashion.de/products/sweat-jacke-mit-reissverschluss?variant=56540289401181)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI2NTkxMDkuanBn.jpg?v=1742391131
-    Price: 129,00 € EUR
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTAxMC0xNjI1LTQwNjgzODIxNTUyNjQta2hha2ktMjUwMHgxODc1cHgtYmdiLTEuanBlZw.jpg?v=1761413657
+    Price: 29,90 € EUR
 - [Langer Karo-Wollmantel](https://lastradafashion.de/products/langer-karo-wollmantel): Dieser lange Karo-Wollmantel ist ein wahrer Klassiker, der Ihre Garderobe mit einem Hauch von Eleganz und modernem Charme bereichert. Der oversize Schnitt sorgt für eine lässige, aber dennoch raffinierte Silhouette, die locker fällt und bis über die Knie reicht. Die One-Size-Passform (geeignet für Größen 36 bis 42) macht den Mantel besonders vielseitig und angenehm zu tragen – perfekt für jede Frau, die es bequem und stilvoll mag. Das auffällige Karo-Muster setzt einen markanten Akzent und verleiht dem Mantel eine zeitlose, modische Note, die nie aus der Mode kommt. Egal, ob Sie ihn zu einem Casual-Look oder einem eleganteren Outfit kombinieren – dieser Mantel sorgt stets für einen gelungenen Auftritt. Die gerade Schnittführung und der weite Fall schaffen eine entspannte, gleichzeitig stilbewusste Silhouette. Der Materialmix aus 80 % Polyester und 20 % Wolle sorgt für eine angenehme Wärme und ist dennoch leicht genug, um den Mantel auch bei milderen Temperaturen zu tragen. Das mittelschwere Material garantiert eine hervorragende Formstabilität und fühlt sich weich auf der Haut an – ideal für den täglichen Gebrauch, ohne an Komfort oder Eleganz einzubüßen. Ob im Büro, beim Spaziergang oder beim Treffen mit Freunden – der lange Karo Wollmantel ist ein vielseitiges Statement-Piece, das jedes Outfit aufwertet. Ein absolutes Must-have für modebewusste Frauen, die ihren Look mit einem Hauch von Tradition und Stil perfektionieren möchten.MARKE- La StradaPASSFORM UND SCHNITT- One Size (von Größen 36 bis 42)- oversize geschnitten, gerader Schnitt, locker fallend, reicht bis über die Knie- LangmantelMATERIAL UND VERARBEITUNG- Muster: Karo- Materialmix: 80% Polyester, 20% Wolle- Materialqualität: mittelschweres MaterialPFLEGEHINWEIS- Handwäsche, Maschinenwäsche bis 30°C, Nicht waschen, Nicht Trockner geeignet, Bügeln mit niedriger Temperatur (max. 110°C, kein Dampf), Bleichen nicht erlaubtMODEL- Das Model ist 176cm groß und trägt Konfektionsgröße 36 bzw. S Größe One Size
   Updated: 2025-10-20T15:50:56Z
   Vendor: La Strada
@@ -1491,127 +707,28 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI2NjEzMzkuanBn.jpg?v=1740491944
     Price: 139,00 € EUR
-- [Blouson in Velourlederoptik](https://lastradafashion.de/products/blouson-in-velourlederoptik): Dieser Blouson kombiniert zeitlosen Style mit modernem Tragekomfort. Der normale Schnitt sorgt für eine lässige, aber dennoch schmeichelnde Passform, während die softe Velourslederoptik dem Look eine edle Note verleiht. Brusttaschen und der durchgehende Reißverschluss unterstreichen den coolen, urbanen Charakter, während Knöpfe an den Bündchen und die dezente Raffung am Saum für einen perfekten Sitz sorgen. Das elastische, mittelschwere Material fühlt sich angenehm weich auf der Haut an und bietet Bewegungsfreiheit für den ganzen Tag. Kombiniere den Blouson mit einer High-Waist-Jeans und Boots für einen entspannten City-Look oder trage ihn als eleganten Kontrast zu einem fließenden Kleid – ein vielseitiges Must-have für stilbewusste Outfits! MARKE - La Strada PASSFORM UND SCHNITT - Fällt der Größe entsprechend normal aus - normal geschnitten - Blouson MATERIAL UND VERARBEITUNG - Muster: Unifarben - Materialmix: 93% Polyester, 7% Elastan - Materialqualität: mittelschweres Material, elastisches Material PFLEGEHINWEIS - Maschinenwäsche bis 30°C, Nicht Trockner geeignet, Bügeln mit niedriger Temperatur (max. 110°C, kein Dampf), Bleichen nicht erlaubt MODEL - Das Model ist 172cm groß und trägt Konfektionsgröße 36 bzw. S FarbeCAMEL
-  Updated: 2025-10-24T19:50:16Z
+- [Sweatshirt mit Blüten-Applikation](https://lastradafashion.de/products/sweatshirt-mit-blueten-applikation): Lässig trifft luxuriös: Das Sweatshirt verleiht deinem Casual-Look ein stilvolles Update, es wird durch die große Blüten-Applikation mit plastischen Blütenblättern und funkelndem Strass-Mittelpunkt zum echten Eyecatcher. Der klassische Rundhalsausschnitt und die gerade, leicht verkürzte Passform sorgen für eine moderne Silhouette mit Wohlfühlfaktor. Ein Highlight für alle, die Alltag mit Glamour verbinden möchten – ideal zu Jeans, Stoffhose oder Rock kombinierbar. Ein Fashion-Piece mit besonderem Charme – dieses Sweatshirt ist ein stilvolles Must-have für deine Garderobe.
+  Updated: 2025-10-26T15:27:28Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI2NjQ0NjYuanBn.jpg?v=1740502412
-  - [S/M / CAMEL](https://lastradafashion.de/products/blouson-in-velourlederoptik?variant=56544168771933)
+  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTExMC0zNzA2OC00MDY4MzgyMTYyMzYxLWdydWVuLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1761413978
+  - [BEIGE / One Size](https://lastradafashion.de/products/sweatshirt-mit-blueten-applikation?variant=56842717430109)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI2NjQ0NjYuanBn.jpg?v=1740502412
-    Price: 119,00 € EUR
-  - [M/L / CAMEL](https://lastradafashion.de/products/blouson-in-velourlederoptik?variant=56544168804701)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI2NjQ0NjYuanBn.jpg?v=1740502412
-    Price: 119,00 € EUR
-- [Weite Hose in Velourslederoptik](https://lastradafashion.de/products/weite-hose-in-velourslederoptik): Diese stilvolle Hose vereint luxuriöse Optik mit maximalem Tragekomfort. Der lockere, weit geschnittene Fit sorgt für eine fließende Silhouette, während der Mid-Rise-Bund mit Button-Fly-Verschluss für einen eleganten Sitz sorgt. Seitliche Eingrifftaschen und Gesäßtaschen setzen klassische Akzente und machen die Hose gleichzeitig alltagstauglich. Das mittelschwere, elastische Material in Velourslederoptik fühlt sich angenehm weich auf der Haut an und verleiht dem Look eine exklusive Note. Ob mit einem schlichten Rollkragenpullover für einen modernen Chic oder mit einer passenden Bluse für einen angesagten Ton-in-Ton-Look – diese Hose ist ein Must-have für stilvolle, trendbewusste Outfits! MARKE - La Strada PASSFORM UND SCHNITT - Fällt der Größe entsprechend normal aus - normal geschnitten, lockerer Schnitt - Bundhöhe: Mid-Rise, Button-Fly-Verschluss - seitliche Eingrifftaschen - weites Bein, Gesäßtasche/n MATERIAL UND VERARBEITUNG - Muster: Unifarben - Materialmix: 93% Polyester, 7% Elastan - Materialqualität: mittelschweres Material, elastisches Material, Weiche Haptik PFLEGEHINWEIS - Maschinenwäsche bis 30°C, Nicht Trockner geeignet, Bügeln mit niedriger Temperatur (max. 110°C, kein Dampf), Bleichen nicht erlaubt MODEL - Das Model ist 174cm groß und trägt Konfektionsgröße 36 bzw. S FarbeCAMEL
-  Updated: 2025-10-25T08:38:47Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI2NjQ1MzYuanBn.jpg?v=1740502555
-  - [S](https://lastradafashion.de/products/weite-hose-in-velourslederoptik?variant=56544223887709)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI2NjQ1MzYuanBn.jpg?v=1740502555
-    Price: 98,00 € EUR
-  - [M](https://lastradafashion.de/products/weite-hose-in-velourslederoptik?variant=56544223920477)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI2NjQ1MzYuanBn.jpg?v=1740502555
-    Price: 98,00 € EUR
-  - [L](https://lastradafashion.de/products/weite-hose-in-velourslederoptik?variant=56544223953245)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI2NjQ1MzYuanBn.jpg?v=1740502555
-    Price: 98,00 € EUR
-- [Softe Longjacke mit Kapuze](https://lastradafashion.de/products/softe-longjacke-mit-kapuze): Die softe Longjacke mit Kapuze ist der perfekte Begleiter für stilvolle und gemütliche Outfits. Ihr kastiger Schnitt sorgt für eine moderne, entspannte Silhouette, während die verlängerte Passform schmeichelhaft über die Hüfte fällt und eine lässige Note verleiht. Die große Kapuze verleiht der Jacke nicht nur einen coolen Look, sondern sorgt auch für zusätzlichen Komfort an kühleren Tagen. Dank des schlichten, unifarbenen Designs lässt sie sich vielseitig kombinieren und passt sowohl zu lässigen Casual-Looks als auch zu eleganteren Outfits. Das weiche, leichte Material macht die Jacke besonders angenehm zu tragen und verleiht ihr eine fließende Optik. Ob über einem Basic-Shirt mit Jeans oder als stylischer Begleiter zu einem Kleid – die softe Longjacke mit Kapuze ist ein echtes Must-have für jede Garderobe! MARKE - La Strada PASSFORM UND SCHNITT - One Size (von Größen 36 bis 42) - normal geschnitten, kastiger Schnitt, reicht über die Hüfte - Jacke MATERIAL UND VERARBEITUNG - Muster: Unifarben - Materialmix: 95% Polyester, 5% Elastan - Materialqualität: leichtes Material PFLEGEHINWEIS - Maschinenwäsche bis 30°C, Nicht Trockner geeignet, Bügeln mit mäßiger Temperatur (max. 150°C), Bleichen nicht erlaubt MODEL - Das Model ist 176cm groß und trägt Konfektionsgröße 36 bzw. S GrößeOne Size
-  Updated: 2025-10-24T11:57:35Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI2Nzg5OTYuanBn.jpg?v=1745483092
-  - [One Size / CREME](https://lastradafashion.de/products/softe-longjacke-mit-kapuze?variant=56574673944925)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI2NzkwMDMuanBn.jpg?v=1745483092
-    Price: 49,90 € EUR
-  - [One Size / HELLBLAU](https://lastradafashion.de/products/softe-longjacke-mit-kapuze?variant=56574673977693)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI2Nzg5OTYuanBn.jpg?v=1745483092
-    Price: 49,90 € EUR
-  - [One Size / PINK](https://lastradafashion.de/products/softe-longjacke-mit-kapuze?variant=56574674010461)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI2NzkwMTIuanBn.jpg?v=1745483092
-    Price: 49,90 € EUR
-  - [One Size / BEIGE](https://lastradafashion.de/products/softe-longjacke-mit-kapuze?variant=57468813771101)
-    Availability: Not Available
-    Price: 49,90 € EUR
-- [Sweatshirt mit Blumen-Stickerei](https://lastradafashion.de/products/sweatshirt-mit-blumen-stickerei): Das Sweatshirt mit Blumen-Stickerei besticht durch seinen kastigen Schnitt, der locker über die Hüfte reicht und für eine bequeme Passform sorgt. Der Rundhalsausschnitt und die Raglanärmel verleihen dem Shirt eine sportlich-elegante Ausstrahlung. Die dekorative Blumen-Stickerei auf der Vorderseite setzt einen charmanten Akzent und wird durch einen dekorativen Anhänger ergänzt. Das leichte Material aus Polyester, Viskose und Elastan garantiert einen angenehmen Tragekomfort und macht das Sweatshirt zu einem vielseitigen Begleiter für einen entspannten Look mit einem Hauch von Eleganz. MARKE - La Strada PASSFORM UND SCHNITT - One Size (von Größen 36 bis 42) - kastiger Schnitt, reicht über die Hüfte - Rundhalsausschnitt, Raglanärmel, Dekorativer Anhänger MATERIAL UND VERARBEITUNG - Muster: Unifarben - Materialmix: 50% Polyester, 45% Viskose, 5% Elastan - Materialqualität: leichtes Material PFLEGEHINWEIS - Maschinenwäsche bis 30°C, Nicht Trockner geeignet, Bügeln mit niedriger Temperatur (max. 110°C, kein Dampf), Bleichen nicht erlaubt MODEL - Das Model ist 174cm groß und trägt Konfektionsgröße 36 bzw. S GrößeOne Size
-  Updated: 2025-10-25T11:26:31Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI4MzY5MzUuanBn_a332e4c0-9739-4f6a-9e43-6c19d1a52fe3.jpg?v=1742391494
-  - [BEIGE / One Size](https://lastradafashion.de/products/sweatshirt-mit-blumen-stickerei?variant=56842717430109)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI4MzY5MzAuanBn_323add7b-5a17-43b2-a5bb-e74542b8adf8.jpg?v=1742391494
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTExMC0zNzA2OC00MDY4MzgyMTE1NTU4LWJlaWdlLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1761413978
     Price: 29,90 € EUR
-  - [GELB / One Size](https://lastradafashion.de/products/sweatshirt-mit-blumen-stickerei?variant=56842717462877)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI4MzY5MzUuanBn_a332e4c0-9739-4f6a-9e43-6c19d1a52fe3.jpg?v=1742391494
+  - [BRAUN / One Size](https://lastradafashion.de/products/sweatshirt-mit-blueten-applikation?variant=58887587234141)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTExMC0zNzA2OC00MDY4MzgyMTYyMzQ3LWJyYXVuLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1761413978
     Price: 29,90 € EUR
-  - [ROSA / One Size](https://lastradafashion.de/products/sweatshirt-mit-blumen-stickerei?variant=56842717495645)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI4MzY5NDAuanBn_946f2cfb-1979-436a-a85f-4ae79de09cbb.jpg?v=1742391494
+  - [GRÜN / One Size](https://lastradafashion.de/products/sweatshirt-mit-blueten-applikation?variant=58887587266909)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTExMC0zNzA2OC00MDY4MzgyMTYyMzYxLWdydWVuLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1761413978
     Price: 29,90 € EUR
-  - [SCHWARZ / One Size](https://lastradafashion.de/products/sweatshirt-mit-blumen-stickerei?variant=56842717528413)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI4MzY5NDcuanBn_c590cbdd-c65b-4845-80c1-d33525745825.jpg?v=1742391494
+  - [TERRA / One Size](https://lastradafashion.de/products/sweatshirt-mit-blueten-applikation?variant=58887587299677)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTExMC0zNzA2OC00MDY4MzgyMTYyMzU0LXRlcnJhLTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1761413978
     Price: 29,90 € EUR
-- [Frühlingsweste](https://lastradafashion.de/products/fruhlingsweste): Diese stilvolle Frühlingsweste ist der perfekte Begleiter für die Übergangszeit und verleiht jedem Outfit eine moderne, elegante Note. Mit ihrem zeitlosen Design und der längeren Passform, die über die Hüfte reicht, sorgt sie für eine schmeichelhafte Silhouette und lässt sich vielseitig kombinieren. Ob als leichter Überwurf an frischen Frühlingstagen oder als modisches Layering-Piece – diese Weste bietet unzählige Styling-Möglichkeiten. Die klare, unifarbene Optik unterstreicht ihren minimalistischen Charme, während das leichte Material für ein angenehmes Tragegefühl sorgt. Kombinieren Sie sie mit einem schlichten Longsleeve und Jeans für einen lässigen Look oder tragen Sie sie über einem eleganten Blusenkleid für einen stilvollen Auftritt. Ein vielseitiges Essential, das mit Leichtigkeit in jede Garderobe passt und Frühlingsoutfits gekonnt abrundet. MARKE - Rino & Pelle PASSFORM UND SCHNITT - Fällt der Größe entsprechend normal aus - reicht über die Hüfte - Weste MATERIAL UND VERARBEITUNG - Muster: Unifarben - Materialmix: 100% Polyester - Materialqualität: leichtes Material PFLEGEHINWEIS - Maschinenwäsche bis 30°C, Nicht Trockner geeignet, Bügeln mit niedriger Temperatur (max. 110°C, kein Dampf), Bleichen nicht erlaubt, Nicht chemisch reinigen MODEL - Das Model ist 174cm groß und trägt Konfektionsgröße 36 bzw. S
-  Updated: 2025-10-20T15:51:02Z
-  Vendor: La Strada
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI4NjM5NDcuanBn.jpg?v=1742225132
-  - [36 / CREME](https://lastradafashion.de/products/fruhlingsweste?variant=56893661938013)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI4NjM5NDcuanBn.jpg?v=1742225132
-    Price: 89,00 € EUR
-  - [38 / CREME](https://lastradafashion.de/products/fruhlingsweste?variant=56893661970781)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI4NjM5NDcuanBn.jpg?v=1742225132
-    Price: 89,00 € EUR
-  - [40 / CREME](https://lastradafashion.de/products/fruhlingsweste?variant=56893662003549)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI4NjM5NDcuanBn.jpg?v=1742225132
-    Price: 89,00 € EUR
-  - [42 / CREME](https://lastradafashion.de/products/fruhlingsweste?variant=56893662036317)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI4NjM5NDcuanBn.jpg?v=1742225132
-    Price: 89,00 € EUR
-  - [44 / CREME](https://lastradafashion.de/products/fruhlingsweste?variant=56893662069085)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI4NjM5NDcuanBn.jpg?v=1742225132
-    Price: 89,00 € EUR
-  - [36 / SCHWARZ](https://lastradafashion.de/products/fruhlingsweste?variant=56893662101853)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI4NjM5NjUuanBn.jpg?v=1742225132
-    Price: 89,00 € EUR
-  - [38 / SCHWARZ](https://lastradafashion.de/products/fruhlingsweste?variant=56893662134621)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI4NjM5NjUuanBn.jpg?v=1742225132
-    Price: 89,00 € EUR
-  - [40 / SCHWARZ](https://lastradafashion.de/products/fruhlingsweste?variant=56893662167389)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI4NjM5NjUuanBn.jpg?v=1742225132
-    Price: 89,00 € EUR
-  - [42 / SCHWARZ](https://lastradafashion.de/products/fruhlingsweste?variant=56893662200157)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI4NjM5NjUuanBn.jpg?v=1742225132
-    Price: 89,00 € EUR
-  - [44 / SCHWARZ](https://lastradafashion.de/products/fruhlingsweste?variant=56893662232925)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9zdGF0aWMuY2xvdWRzdG9jay5pby91c2VyZmlsZXMvNDcvMTI4NjM5NjUuanBn.jpg?v=1742225132
-    Price: 89,00 € EUR
 - [Jeanshose mit weitem Umschlag](https://lastradafashion.de/products/jeanshose-mit-weitem-umschlag): Ein starker Auftritt für Denim-Liebhaberinnen: Die Jeanshose „Urban Cuff“ begeistert mit ihrem modischen Wide-Leg-Schnitt und dem markanten, extrabreiten Saumumschlag. Das dunkle Denim mit Kontrastnähten unterstreicht den modernen Charakter und verleiht der Hose einen cleanen, urbanen Look. Die aufgesetzten Taschen vorn sorgen für eine trendige Utility-Note, während der elastische Baumwollmix angenehm nachgibt und optimalen Tragekomfort bietet. Ein Highlight für stilbewusste Frauen, die das Besondere suchen – ein echtes Must-have!
   Updated: 2025-10-20T15:51:02Z
   Vendor: La Strada
@@ -2722,7 +1839,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMTQxMC1NUDEyMy0xNjQtNDA2ODM4MjE1ODIxMC1jcmVtZS0yNTAweDE4NzVweC1iZ2ItMS5qcGVn.jpg?v=1760978298
     Price: 59,00 € EUR
 - [Statement-Strickpullover „Look Back“](https://lastradafashion.de/products/statement-strickpullover-look-back): Lässigkeit trifft auf gute Laune: Der grobgestrickte Pullover in warmen Tönen begeistert mit einem verspielten Smiley-Design vorn und einem auffälligen Rückenprint samt Message. Der oversized geschnittene Pullover setzt ein Statement – und das nicht nur modisch, sondern auch emotional. Der weiche Griff und die legere Silhouette mit überschnittenen Schultern machen ihn zum idealen Wohlfühl-Piece für entspannte Casual-Looks. Die kräftige Farbe des Smiley-Motivs bringt einen farblichen Eyecatcher ins Spiel und verleiht deinem Outfit einen jugendlichen, positiven Twist. Ein echtes It-Piece für kreative Fashion-Liebhaberinnen! GrößeOne SizeMaterialzusammensetzung 65 % Polyacryl 17 % Polyamid 9 % Wolle 9 % Viskose Pflegehinweis Schonwaschgang bei 30 °C nicht bleichen nicht im Trockner trocknen bei niedriger Temperatur bügeln sanfte chemische Reinigung möglich liegend trocknen HerstellungslandItalienPassform und SchnittOversized-Schnitt, überschnittene Schultern, klassischer Rundhalsausschnitt, locker fallender RumpfFit Guide3MaterialqualitätWeich, griffig, wärmendes Material, mittelschweres MaterialVerarbeitungGrobstrick mit auffälligem Intarsienmuster (Smiley vorn und hinten)ModelDas Model ist 175cm groß und trägt Konfektionsgröße 36.
-  Updated: 2025-10-25T10:42:27Z
+  Updated: 2025-10-26T19:34:52Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
@@ -2914,7 +2031,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
     Image: https://cdn.shopify.com/s/files/1/0727/8398/7037/files/aHR0cHM6Ly9sYXN0cmFkYS1jZG4uczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbmVsZW9uLzEyMDQxMC0xNzAtNDA2ODM4MjE1MTkwNy1zY2h3YXJ6LTI1MDB4MTg3NXB4LWJnYi0xLmpwZWc.jpg?v=1760979838
     Price: 75,00 € EUR
 - [Bluse mit verdeckter Knopfleiste](https://lastradafashion.de/products/bluse-mit-verdeckter-knopfleiste-1): Zeitlose Eleganz trifft auf lässige Raffinesse – diese Bluse überzeugt mit klarer Linienführung und hochwertigen Details. Die verdeckte Knopfleiste sorgt für eine cleane Front, während der klassische Hemdkragen dem Look Struktur verleiht. Besonders raffiniert zeigt sich der Schnitt: Der abgerundete, hinten verlängerte Saum umspielt locker die Hüfte und sorgt für eine moderne, feminine Silhouette – perfekt auch zum Layern. Ob im Office mit Stoffhose oder casual zu Jeans – diese Bluse ist ein wandelbares Essential für stilbewusste Looks. Ein echtes Must-have für jede Saison. GrößeOne Size
-  Updated: 2025-10-20T19:27:03Z
+  Updated: 2025-10-25T14:13:06Z
   Vendor: La Strada
   Product Type: 
   Availability: Available
@@ -3803,32 +2920,32 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
 ## Collections
 
 - [Accessoires von La Strada](https://lastradafashion.de/collections/accessoires): Italienische Accessoires von La Strada entdecken. Lassen Sie sich von der neusten  Damenmode inspirieren und bestellen Sie bequem, sicher & schnell.
-  Updated: 2025-10-21T18:56:03Z
+  Updated: 2025-10-26T11:12:02Z
   Total Products: 238
 - [Schuhe](https://lastradafashion.de/collections/schuhe): Schuhe bei La Strada Die Schuhe der verschiedenen Marken im Sortiment von La Strada wurden mit viel Liebe zum Detail entworfen und aus hochwertigen Materialien gefertigt, um Ihnen eine erstklassige Qualität und Haltbarkeit zu bieten. Wir achten darauf, dass die Schuhe nicht nur gut aussehen, sondern auch bequem sind. Egal, ob Sie einen schicken Look für besondere Anlässe, einen lässigen Freizeitstil oder einen professionellen Business-Look suchen - die Schuhe unserer verschiedenen Marken ergänzen Ihren Look perfekt und verleihen ihm das gewisse Etwas. Mit verschiedenen Farben, Mustern und Stilen haben Sie die Möglichkeit, Ihren persönlichen Stil zum Ausdruck zu bringen und Ihrem Outfit das gewünschte Flair zu verleihen.
   Updated: 2025-10-21T18:44:05Z
   Total Products: 93
 - [Kleider & Jumpsuits](https://lastradafashion.de/collections/kleider-jumpsuits): Kleider & Jumpsuits von La Strada Unsere Kollektion umfasst eine Vielzahl von Kleidern und Jumpsuits, die für jeden Anlass und jeden Stil geeignet sind. Ob Sie ein elegantes Abendkleid, ein lässiges Sommerkleid, einen trendigen Jumpsuit für einen modernen Look oder ein bequemes Alltagskleid suchen - bei uns werden Sie fündig. Wir bieten eine breite Palette an Schnitten, Farben, Mustern und Stoffen, um sicherzustellen, dass Sie das perfekte Kleid oder den perfekten Jumpsuit finden, der Ihre Persönlichkeit und Ihren individuellen Stil zum Ausdruck bringt. Von fließenden Maxikleidern über schicke Etuikleider bis hin zu verspielten Sommerkleidern und modernen Overall-Styles gibt es für jeden Geschmack etwas Passendes.
-  Updated: 2025-10-21T18:58:58Z
-  Total Products: 383
+  Updated: 2025-10-25T18:03:28Z
+  Total Products: 382
 - [Hosen](https://lastradafashion.de/collections/hosen): Hosen von La Strada La Strada präsentiert eine exquisite Auswahl an Hosen, die mit großer Sorgfalt und Liebe zum Detail entworfen wurden. Jede Hose verkörpert die perfekte Balance zwischen Stil und Komfort und bietet Ihnen einen unvergleichlichen Look für jede Gelegenheit. Die Designs unserer Hosen sind vielfältig und reichen von klassischen Schnitten bis hin zu modernen Interpretationen. Egal, ob Sie eine schlanke Silhouette, einen lässigen Boyfriend-Stil oder eine elegante Palazzohose bevorzugen - unsere Kollektion bietet Ihnen die perfekte Auswahl, um Ihren individuellen Stil zu unterstreichen.
-  Updated: 2025-10-21T18:59:27Z
-  Total Products: 322
+  Updated: 2025-10-26T17:27:32Z
+  Total Products: 321
 - [Tops](https://lastradafashion.de/collections/tops): Tops von La Strada Die Tops von La Strada lassen sich leicht mit anderen Kleidungsstücken kombinieren und eignen sich für verschiedene Anlässe. Sie können sowohl zu Jeans und Sneakers für einen lässigen Look als auch zu einer eleganten Hose oder einem Rock für einen formellen Anlass getragen werden. Mit den Tops von La Strada sind Ihnen keine Grenzen gesetzt, wenn es darum geht, verschiedene Outfits zu kreieren. Die Tops von La Strada sind nicht nur modisch, sondern auch funktional. Sie bieten oft praktische Details wie verstellbare Träger, Knopfleisten oder spezielle Schnitte, die eine optimale Passform und Bewegungsfreiheit ermöglichen.
-  Updated: 2025-10-23T11:15:12Z
-  Total Products: 72
+  Updated: 2025-10-25T18:03:24Z
+  Total Products: 70
 - [Jacken](https://lastradafashion.de/collections/jacken): Damen Jacken – Stilvoll und funktional für jede Jahreszeit Damen Jacken für Jeden Anlass und Stil Ob elegant, sportlich oder lässig – bei La Strada finden Sie eine große Auswahl an Jacken für Damen, die zu jedem Anlass und Outfit passen. Unsere Kollektion umfasst alles von leichten Übergangsjacken über klassische Lederjacken bis hin zu warmen Winterjacken und wetterfesten Funktionsjacken. Zeitlose Damen-Blazer für Stil und Klasse Ein Blazer ist das perfekte Kleidungsstück, um Ihrem Outfit einen Hauch von Eleganz zu verleihen. Unsere Damen-Blazer passen sowohl zu Business- als auch zu Freizeit-Looks und lassen sich vielseitig kombinieren. Kaufberatung für Damen Jacken – Die besten Tipps und Tricks Eine Jacke ist mehr als nur ein modisches Accessoire. Hier sind einige Tipps, die Ihnen helfen, die perfekte Damenjacke für Ihre Bedürfnisse zu finden: Welche Jacke passt zu welchem Anlass? Unterschiedliche Gelegenheiten erfordern verschiedene Jacken. Für den Alltag eignen sich lässige Übergangsjacken oder trendige Lederjacken, während elegante Anlässe einen schicken Blazer verlangen. Welche Jacken für welche Jahreszeit? In der Frühlings- und Herbstzeit bieten Übergangsjacken die perfekte Lösung. Dagegen sind warme Winterjacken für die kalte Jahreszeit optimal. Wie finde ich die richtige Größe? Die richtige Passform ist entscheidend. Orientieren Sie sich an unserer Größentabelle und wählen Sie eine Jacke, die zu Ihrer Figur und Ihrem Stil passt. Sie können zum Beispiel eine schicke Jacke mit einem Poncho oder einer Weste kombinieren, um für jede Temperatur gerüstet zu sein. Pflege-Tipps für Ihre Damenjacke Um die Langlebigkeit Ihrer Jacke zu garantieren, beachten Sie die Pflegehinweise. Wir bieten Ihnen Tipps zum Waschen, Imprägnieren und Aufbewahren Ihrer Lieblingsjacken. Unsere Kollektion: Damenjacken für jede Jahreszeit Frühlingsjacken: Leicht und luftig für die Übergangszeit. Sommerjacken: Luftige Modelle für warme Tage. Herbstjacken: Robust und stylisch für kühlere Temperaturen. Winterjacken für Damen: Wärmende Jacken für kalte Wintertage. Jacken FAQs – Antworten auf die häufigsten Fragen Welche Jacken sind für sportliche Aktivitäten geeignet? Funktionsjacken bieten Atmungsaktivität und Bewegungsfreiheit und sind somit ideal für Outdoor-Aktivitäten. Wie oft sollte ich meine Jacke waschen? Das hängt von der Nutzung ab. Bei leichten Verschmutzungen reicht eine Wäsche alle paar Wochen, während Funktionsjacken weniger häufig gereinigt werden sollten, um ihre Imprägnierung zu erhalten. Wie bewahre ich Jacken am besten auf? Hängen Sie Ihre Jacken auf einem stabilen Bügel auf und vermeiden Sie direkte Sonneneinstrahlung, um die Materialien zu schonen.
-  Updated: 2025-10-21T18:59:31Z
-  Total Products: 255
+  Updated: 2025-10-26T17:28:03Z
+  Total Products: 253
 - [Röcke](https://lastradafashion.de/collections/roecke): Röcke von La Strada Die Röcke von La Strada bieten zahlreiche Kombinationsmöglichkeiten. Sie können mit Blusen, T-Shirts, Pullovern oder Blazern kombiniert werden, um verschiedene Looks zu kreieren, sei es für den Alltag, das Büro oder besondere Anlässe. Mit dem richtigen Schuhwerk und Accessoires können Sie Ihren persönlichen Stil unterstreichen und Ihren Look komplettieren. Sie verkörpern Eleganz, Weiblichkeit und Stil. Sie sind ein zeitloses Kleidungsstück, das sowohl Komfort als auch modische Ausdrucksstärke bietet. Egal ob für einen formellen Anlass oder einen entspannten Tag, die Röcke von La Strada sind die perfekte Wahl für eine ansprechende und modische Garderobe.
-  Updated: 2025-10-21T18:57:49Z
-  Total Products: 104
+  Updated: 2025-10-26T17:27:46Z
+  Total Products: 103
 - [Strick](https://lastradafashion.de/collections/pullover-strick): Strick von La Strada La Strada präsentiert eine exquisite Auswahl an Strickpullovern und Strickjacken, die von der traditionellen Handwerkskunst und dem Sinn für Ästhetik inspiriert sind, für die Italien bekannt ist. Jedes Stück wurde mit Liebe zum Detail und einem Auge für Qualität entworfen.
-  Updated: 2025-10-25T11:12:56Z
-  Total Products: 403
+  Updated: 2025-10-26T11:12:02Z
+  Total Products: 401
 - [Italienische Jeans für Damen](https://lastradafashion.de/collections/jeans): Jeans für Damen ✔ Vielseitige Styles ✔ Hochwertiger Denim ✔ Aktuelle Trends ➤ Finden Sie Ihre perfekte Jeans bei La Strada – jetzt online shoppen!
-  Updated: 2025-10-21T18:59:27Z
-  Total Products: 136
+  Updated: 2025-10-26T17:23:40Z
+  Total Products: 135
 - [Jumpsuits](https://lastradafashion.de/collections/jumpsuits): Jumpsuits von La Strada Die Jumpsuits der italienischen Damenmodemarke La Strada sind ein vielseitiges und trendiges Kleidungsstück, das den Look eines Einteilers verkörpert. Sie vereinen den Komfort einer Hose mit dem Stil eines Oberteils und bieten eine modische Alternative zu traditionellen Outfits. Die Jumpsuits von La Strada sind in verschiedenen Stilen erhältlich, von eleganten und femininen Designs bis hin zu lässigen und sportlichen Varianten. Sie bestehen aus hochwertigen Materialien, die angenehm auf der Haut liegen und eine gute Passform gewährleisten. Jumpsuits sind ein modisches Statement und eignen sich sowohl für formelle Anlässe als auch für entspannte Gelegenheiten. Sie können mit Accessoires und Schuhen kombiniert werden, um den Look zu vervollständigen und Ihren persönlichen Stil zu unterstreichen.
   Updated: 2025-10-21T18:58:58Z
   Total Products: 29
@@ -3884,38 +3001,38 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
   Updated: 2025-10-21T18:56:00Z
   Total Products: 22
 - [Schmuck](https://lastradafashion.de/collections/schmuck): Schmuck von La Strada La Strada präsentiert eine faszinierende Auswahl an Schmuckstücken, die mit meisterhafter Handwerkskunst und ästhetischer Raffinesse gefertigt werden. Jedes Stück verkörpert die Leidenschaft und das Streben nach Exzellenz, die für italienisches Design bekannt sind. Unser Schmuck ist vielseitig und eignet sich für verschiedene Anlässe und Outfits. Ob Sie einen funkelnden Akzent für einen besonderen Anlass suchen oder Ihren Alltagslook aufwerten möchten - unsere Kollektion bietet Ihnen die richtige Auswahl.
-  Updated: 2025-10-21T09:42:36Z
+  Updated: 2025-10-26T11:12:02Z
   Total Products: 98
 - [Sonnenbrillen](https://lastradafashion.de/collections/sonnenbrillen): Sonnenbrillen von La Strada Ob Sie nach einer Sonnenbrille für den Strandurlaub suchen oder ein stilvolles Accessoire für den Alltag benötigen, die Sonnenbrillen von La Strada bieten vielseitige Optionen für jeden Anlass. Die Sonnenbrillen von La Strada sind nicht nur praktisch, sondern auch ein Statement der Persönlichkeit und des Stils. Sie sind das perfekte Accessoire, um Ihrem Outfit den letzten Schliff zu geben und einen Hauch von Luxus in Ihren Look zu bringen. Entdecken Sie die vielfältige Auswahl der Sonnenbrillen von La Strada und finden Sie das perfekte Paar, das Ihren persönlichen Stil und Ihre Vorlieben widerspiegelt. Tauchen Sie ein in die Eleganz und den Charme dieser Accessoires und genießen Sie den Komfort und den modischen Look, den sie bieten.
   Updated: 2024-09-03T10:20:49Z
   Total Products: 0
 - [Haar Accessoires](https://lastradafashion.de/collections/haar-accessoires): Haar Accessoires von La Strada Die Haar-Accessoires von La Strada sind nicht nur optisch ansprechend, sondern auch funktional. Sie halten Ihr Haar sicher an Ort und Stelle und ermöglichen Ihnen verschiedene Frisuren zu kreieren. Egal, ob Sie eine elegante Hochsteckfrisur, einen lässigen Dutt oder einfach nur Ihre Haare zurückgesteckt tragen möchten, diese Accessoires sind die perfekte Ergänzung. Die Vielseitigkeit der Haar-Accessoires von La Strada ermöglicht es Ihnen, sie zu verschiedenen Anlässen zu tragen. Egal, ob Sie einen formellen Abend oder einen lässigen Tag haben, diese Accessoires passen zu jedem Stil und jeder Gelegenheit. Sie können Ihr Haar-Accessoire passend zu Ihrem Outfit auswählen oder als auffälliges Statement verwenden, um Ihrem Look das gewisse Extra zu verleihen. Die Möglichkeiten sind endlos und geben Ihnen die Freiheit, Ihren persönlichen Stil zum Ausdruck zu bringen.
-  Updated: 2025-03-28T12:33:20Z
+  Updated: 2025-10-26T11:12:02Z
   Total Products: 2
 - [Hemdblusen](https://lastradafashion.de/collections/hemdblusen): Hemdblusen von La Strada Die Hemdblusen von La Strada bieten eine vielseitige Auswahl an stilvollen Designs, die den individuellen Stil jeder Frau perfekt unterstreichen. Ob klassisch in Weiß, mit modischen Farben oder trendigen Mustern – unsere Hemdblusen sind ideal für verschiedene Anlässe und vereinen zeitlose Eleganz mit modernen Akzenten. Vielseitige Hemdblusen für jeden Look Unsere Hemdblusen sind wahre Allrounder. Sie passen sowohl in den Business-Alltag als auch in die Freizeit und verleihen jedem Outfit eine anspruchsvolle Note. Die klassischen Schnitte mit Knopfleiste sorgen für einen eleganten Look, der sich leicht in verschiedene Looks integrieren lässt. Ob für das Büro, ein Geschäftsessen oder einen entspannten Tag – La Strada bietet für jede Gelegenheit die passende Hemdbluse. Hochwertige Materialien und erstklassige Verarbeitung Die Hemdblusen von La Strada zeichnen sich durch ihre hochwertigen Materialien und exzellente Verarbeitung aus. Sie bieten nicht nur eine perfekte Passform, sondern auch Langlebigkeit und Komfort. Die atmungsaktiven Stoffe sorgen dafür, dass Sie sich den ganzen Tag über wohlfühlen, während die erstklassige Qualität auch nach vielen Wäschen ihre Form behält. Modische Details und klassische Eleganz Von minimalistischen Klassikern bis hin zu Hemdblusen mit dezenten Verzierungen und raffinierten Details – unsere Kollektion bietet eine breite Vielfalt an modischen Optionen. Jedes Modell verleiht Ihrem Look eine subtile, aber dennoch wirkungsvolle Eleganz, die sowohl im Berufsleben als auch in der Freizeit einen bleibenden Eindruck hinterlässt.
-  Updated: 2025-10-21T18:57:13Z
-  Total Products: 89
+  Updated: 2025-10-25T18:03:31Z
+  Total Products: 88
 - [Italienische Blusen für Damen](https://lastradafashion.de/collections/blusen): Italienische Blusen von La Strada entdecken. Lassen Sie sich von der neusten  Damenmode inspirieren und bestellen Sie bequem, sicher & schnell.
-  Updated: 2025-10-21T18:59:30Z
-  Total Products: 363
+  Updated: 2025-10-25T18:03:29Z
+  Total Products: 361
 - [Handschuhe](https://lastradafashion.de/collections/handschuhe): Handschuhe von La Strada La Strada bietet eine Auswahl an Handschuhen für Frauen an, die nicht nur die Hände warm halten, sondern auch ein modisches Accessoire darstellen. Die Handschuhe sind in verschiedenen Designs und Farben erhältlich, von klassischen einfarbigen Lederhandschuhen bis hin zu gestrickten Handschuhen mit auffälligen Mustern und Farben. Die Qualität der Materialien ist hochwertig und sorgt für ein angenehmes Tragegefühl.
   Updated: 2024-09-04T14:12:34Z
   Total Products: 3
 - [Sweatshirts](https://lastradafashion.de/collections/sweatshirts): Sweatshirts von La Strada – Lässiger Stil trifft auf Komfort Die Sweatshirts von La Strada vereinen modischen Stil mit höchstem Komfort. Ob für entspannte Tage, sportliche Aktivitäten oder als lässiges Fashion-Statement – unsere Sweatshirts sind die perfekte Wahl für jeden Anlass. Mit einer breiten Auswahl an Farben, Schnitten und Designs finden Sie garantiert das passende Sweatshirt, das Ihren individuellen Stil unterstreicht.
-  Updated: 2025-10-23T11:15:12Z
+  Updated: 2025-10-25T17:38:43Z
   Total Products: 81
 - [T-Shirts](https://lastradafashion.de/collections/t-shirts): T-Shirts von La Strada Die T-Shirts von La Strada sind unverzichtbare Basics für Ihren Kleiderschrank. Sie bieten vielfältige Möglichkeiten, um einen lässigen und dennoch stilvollen Look zu kreieren. Die T-Shirts zeichnen sich durch hochwertige Materialien und eine erstklassige Verarbeitung aus, was für ein angenehmes Tragegefühl sorgt. Die Designs reichen von schlichten und zeitlosen Modellen bis hin zu auffälligen Prints und Verzierungen, die das T-Shirt zu einem Blickfang machen. Die Passformen sind vielfältig und reichen von locker und entspannt bis hin zu figurbetont und feminin. Mit den T-Shirts von La Strada können Sie Ihren individuellen Stil zum Ausdruck bringen und sie lassen sich perfekt zu verschiedenen Outfits kombinieren. Egal, ob Sie sie zu Jeans, Röcken oder Shorts tragen, die T-Shirts von La Strada verleihen Ihrem Look einen Hauch von Lässigkeit und Eleganz.
-  Updated: 2025-10-24T11:13:17Z
-  Total Products: 177
+  Updated: 2025-10-26T17:26:24Z
+  Total Products: 175
 - [Langarmshirts](https://lastradafashion.de/collections/langarmshirts): Langarmshirts von La Strada Unsere Langarmshirts sind vielseitig und passen zu verschiedenen Anlässen und Stilen. Ob Sie sie als Grundlage für Ihren Alltagslook verwenden oder sie mit anderen Kleidungsstücken kombinieren, um Ihren persönlichen Stil auszudrücken - unsere Kollektion bietet Ihnen eine breite Auswahl. La Strada legt großen Wert auf Qualität und erstklassige Verarbeitung. Jedes Langarmshirt wird mit Liebe zum Detail und handwerklicher Präzision gefertigt, um Ihnen ein Kleidungsstück zu bieten, das Ihnen lange Freude bereitet. Die feinen Details und die hochwertige Verarbeitung machen unsere Langarmshirts zu zeitlosen Begleitern in Ihrem Kleiderschrank. Entdecken Sie die faszinierende Welt der Langarmshirts von La Strada und lassen Sie sich von ihrer Kombination aus Komfort und Stil begeistern. Mit unseren Langarmshirts setzen Sie modische Statements und unterstreichen Ihren individuellen Look. Erleben Sie die zeitlose Eleganz und den Stil der italienischen Modemarke La Strada.
-  Updated: 2025-10-24T11:13:17Z
-  Total Products: 103
+  Updated: 2025-10-26T17:25:12Z
+  Total Products: 101
 - [Tuniken](https://lastradafashion.de/collections/tuniken): Tuniken von La Strada La Strada präsentiert Ihnen eine Auswahl an wunderschönen Tuniken, die für ihre hohe Qualität, erstklassige Verarbeitung und Liebe zum Detail bekannt sind. Diese Kleidungsstücke verkörpern die Essenz der italienischen Mode und bieten Ihnen einen anspruchsvollen Look, der sowohl feminin als auch vielseitig ist. Diese vielseitigen Kleidungsstücke sind ein unverzichtbares Element für jede Garderobe. Sie können sowohl als eigenständiges Oberteil getragen werden als auch in Kombination mit Hosen, Leggings oder Röcken, um unterschiedliche Looks zu kreieren. Ob für einen Tag im Büro, ein elegantes Abendessen oder einen entspannten Wochenend-Look - die Tuniken von La Strada passen zu verschiedenen Anlässen und bieten Ihnen unendliche Styling-Möglichkeiten. Die Designs der Tuniken spiegeln die neuesten Trends der Modewelt wider, während sie gleichzeitig zeitlos und klassisch bleiben. Mit eleganten Schnitten, raffinierten Prints und ansprechenden Farbpaletten verleihen sie Ihrem Outfit einen Hauch von Glamour und Chic.
   Updated: 2025-10-21T09:42:50Z
   Total Products: 35
 - [Minikleider](https://lastradafashion.de/collections/minikleider): Minikleider von La Strada Die Minikleider von La Strada sind perfekt für Frauen, die gerne ihre Beine zeigen und einen femininen Look lieben. Sie sind in einer Vielzahl von Designs erhältlich, die von schlichten und eleganten Modellen bis hin zu verspielten und trendigen Stilen reichen.
-  Updated: 2025-10-21T18:58:36Z
-  Total Products: 134
+  Updated: 2025-10-25T18:03:28Z
+  Total Products: 133
 - [Italienische Blazer für Damen](https://lastradafashion.de/collections/blazer): Italienische Blazer von La Strada entdecken. Lassen Sie sich von der neusten  Damenmode inspirieren und bestellen Sie bequem, sicher & schnell.
   Updated: 2025-10-21T18:59:26Z
   Total Products: 71
@@ -3929,23 +3046,23 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
   Updated: 2025-10-21T18:57:50Z
   Total Products: 13
 - [Hosen mit schmalem Bein](https://lastradafashion.de/collections/hosen-mit-schmalem-bein): Hosen mit schmalem Bein von La Strada Die Hosen mit schmalem Bein von La Strada verkörpern die perfekte Balance zwischen trendigem Design und bequemer Passform. Jede Hose ist sorgfältig entworfen, um Ihnen einen schlanken und schmeichelhaften Look zu verleihen. Die schmalen Beine unserer Hosen verleihen Ihnen eine elegante Silhouette und lassen sich leicht mit anderen Kleidungsstücken kombinieren. Ob Sie sie mit einem schicken Blazer und einer Bluse für einen Business-Look oder mit einem lockeren Pullover für einen entspannten Freizeitlook kombinieren - die Möglichkeiten sind endlos.
-  Updated: 2025-10-21T18:58:16Z
-  Total Products: 52
+  Updated: 2025-10-25T18:29:00Z
+  Total Products: 53
 - [Ponchos](https://lastradafashion.de/collections/ponchos): Ponchos von La Strada Die Ponchos von La Strada sind elegante und stilvolle Ergänzungen für Ihre Garderobe. Mit ihrer großzügigen Passform und ihrem fließenden Material bieten sie ein Höchstmaß an Komfort und Bewegungsfreiheit. Diese vielseitigen Kleidungsstücke eignen sich perfekt für die Übergangszeit oder kühle Sommerabende. Sie sind in verschiedenen Farben, Mustern und Texturen erhältlich, um Ihren individuellen Stil zu unterstreichen. Dank ihres lockeren Schnitts können Ponchos mühelos über Blusen, Tops oder Kleider getragen werden. Sie verleihen Ihrem Outfit sofort eine elegante Note und setzen einen modischen Akzent.
   Updated: 2025-10-21T18:54:44Z
   Total Products: 14
 - [Westen](https://lastradafashion.de/collections/westen): Westen von La Strada Die Westen von La Strada eignen sich hervorragend zum Layering. Sie können problemlos über Blusen, Hemden oder Pullover getragen werden, um Ihrem Look eine zusätzliche Dimension zu verleihen. Kombinieren Sie sie mit Jeans, Röcken oder Hosen, um verschiedene Outfit-Kombinationen zu kreieren. Ob für einen lässigen Freizeitlook, einen schicken Büro-Look oder einen entspannten Wochenend-Look - die Westen von La Strada sind ein vielseitiges Kleidungsstück, das Ihnen unzählige Styling-Möglichkeiten bietet. Entdecken Sie jetzt die große Auswahl an Westen von La Strada und bereichern Sie Ihre Garderobe um ein modisches und funktionales Highlight.
-  Updated: 2025-10-21T18:58:48Z
+  Updated: 2025-10-25T17:44:31Z
   Total Products: 47
 - [Freizeithosen](https://lastradafashion.de/collections/freizeithosen): Freizeithosen von La Strada Die Freizeithosen von La Strada sind nicht nur bequem, sondern auch vielseitig einsetzbar. Sie können sowohl für den Sport und aktive Freizeitaktivitäten als auch für lässige Alltagsoutfits getragen werden. Sie bieten Bewegungsfreiheit und Komfort, ohne dabei den modischen Aspekt zu vernachlässigen. La Strada versteht es, mit seinen Freizeithosen den perfekten Mix aus Komfort und Stil zu bieten. Diese Hosen sind für Frauen gemacht, die einen lässigen und dennoch modischen Look schätzen. Mit den Freizeithosen von La Strada können Frauen ihre Persönlichkeit zum Ausdruck bringen und sich gleichzeitig bequem und stilvoll kleiden.
-  Updated: 2025-10-21T18:58:25Z
+  Updated: 2025-10-25T18:29:00Z
   Total Products: 58
 - [Leggings](https://lastradafashion.de/collections/leggings): Leggings von La Strada Die Leggings von La Strada sind vielseitige Begleiter für Ihren Alltag und Ihre Freizeitaktivitäten. Sie bieten Ihnen ein bequemes und flexibles Tragegefühl, während sie gleichzeitig Ihrem Outfit eine modische Note verleihen. Entdecken Sie jetzt die Leggings von La Strada und genießen Sie den Komfort, die Flexibilität und den modischen Charakter, den sie Ihrem Outfit verleihen. Egal, ob Sie einen aktiven Tag haben oder einfach nur einen lässigen Look kreieren möchten, diese Leggings sind die perfekte Ergänzung für Ihre Garderobe.
   Updated: 2025-10-21T18:55:23Z
   Total Products: 15
 - [Hosen mit weitem Bein](https://lastradafashion.de/collections/hosen-mit-weitem-bein): Hosen mit weitem Bein von La Strada Die Hosen mit weitem Bein von La Strada zeichnen sich durch ihre lockere und fließende Passform aus. Sie bieten Ihnen einen trendigen Look und einen hohen Tragekomfort. Die Hosen mit weitem Bein von La Strada sind in verschiedenen Längen erhältlich, von knöchellang bis bodenlang. Sie können sie mit unterschiedlichen Oberteilen kombinieren, wie zum Beispiel Blusen, Shirts oder Pullovern, um Ihren individuellen Stil zu betonen. Mit ihrer vielseitigen Natur eignen sich die Hosen mit weitem Bein von La Strada für verschiedene Anlässe. Sie können sie sowohl im Büro als auch bei Freizeitaktivitäten tragen. Sie bieten Ihnen eine stilvolle Alternative zu eng anliegenden Hosen und verleihen Ihrem Look eine elegante und moderne Note.
-  Updated: 2025-10-21T18:59:27Z
-  Total Products: 203
+  Updated: 2025-10-26T17:27:32Z
+  Total Products: 202
 - [High Waist Hosen](https://lastradafashion.de/collections/high-waist-hosen): High Waist Hosen von La Strada Die High Waist Hosen von La Strada sind ein zeitloses Kleidungsstück, das Ihre Figur vorteilhaft betont. Diese Hosen sitzen hoch in der Taille und betonen somit Ihre weiblichen Kurven auf elegante Weise. Mit ihrem klassischen Design und ihrer hochwertigen Verarbeitung sind die High Waist Hosen von La Strada eine stilvolle Wahl für verschiedene Anlässe. Sie können sie sowohl im Büro als auch bei formellen oder informellen Veranstaltungen tragen und immer eine modische Aussage machen. Die hohe Taille der Hosen kann dazu beitragen, Ihre Silhouette zu formen und Ihre Beine optisch zu verlängern. Sie können die High Waist Hosen mit verschiedenen Oberteilen wie Blusen, Shirts oder Pullovern kombinieren, um Ihren persönlichen Stil zum Ausdruck zu bringen.
   Updated: 2025-10-21T18:55:24Z
   Total Products: 45
@@ -3953,8 +3070,8 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
   Updated: 2025-10-21T18:55:29Z
   Total Products: 9
 - [Maxiröcke](https://lastradafashion.de/collections/maxiroecke): Maxiröcke von La Strada Die Maxiröcke von La Strada verkörpern Eleganz und Raffinesse. Mit ihrer bodenlangen Silhouette strahlen sie eine zeitlose Schönheit aus und verleihen Ihnen einen femininen und anspruchsvollen Look. Durch hochwertige Materialien wie feine Stoffe oder luftige Gewebe wird ein angenehmer Tragekomfort gewährleistet. Die Maxiröcke zeichnen sich durch ihre perfekte Passform und ihre sorgfältig verarbeiteten Details aus, die ihnen eine besondere Note verleihen. Ob für einen formellen Anlass, einen entspannten Tag in der Stadt oder einen Abend mit Freunden - die Maxiröcke von La Strada sind vielseitig einsetzbar und lassen sich leicht mit verschiedenen Oberteilen wie Blusen, Shirts oder Pullovern kombinieren.
-  Updated: 2025-10-21T18:57:47Z
-  Total Products: 68
+  Updated: 2025-10-26T17:27:46Z
+  Total Products: 67
 - [Midiröcke](https://lastradafashion.de/collections/midiroecke): Midiröcke von La Strada Die Midiröcke von La Strada sind modische und elegante Kleidungsstücke, die die Beine einer Frau umschmeicheln und ihre feminine Seite betonen. Diese Röcke reichen etwa bis zur Mitte der Wade und umspielen diese. Die Midiröcke von La Strada sind zeitlos und vielseitig kombinierbar. Sie können mit einer Bluse und einem Blazer für einen schicken Büro-Look getragen werden oder mit einem T-Shirt und Sneakers für einen lässigen Freizeitstil kombiniert werden. Sie bieten unendliche Möglichkeiten, um verschiedene Outfits zu kreieren und jedem Look einen Hauch von Eleganz zu verleihen.
   Updated: 2025-10-21T18:57:49Z
   Total Products: 27
@@ -3980,14 +3097,14 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
   Updated: 2025-10-21T18:59:31Z
   Total Products: 33
 - [Skinny Fit Jeans](https://lastradafashion.de/collections/skinny-fit-jeans): Skinny Fit Jeans von La Strada La Strada bietet eine breite Auswahl an Skinny Fit Jeans in verschiedenen Farben und Waschungen an. Von klassischem Indigo über dezente Schwarz- und Grautöne bis hin zu modischen Farben ist für jeden Geschmack etwas dabei. Zudem gibt es verschiedene Details wie Ziernähte, Destroyed-Effekte oder dezente Verzierungen, die den individuellen Stil unterstreichen. Die Skinny Fit Jeans können vielseitig kombiniert werden. Sie passen perfekt zu lässigen Freizeitlooks mit T-Shirts oder Blusen, aber auch zu eleganteren Outfits mit Blazern oder Strickpullovern. Durch die enge Passform lassen sie sich auch gut in Stiefel oder Sneaker stecken, was den Look noch moderner macht.
-  Updated: 2025-10-21T18:59:12Z
-  Total Products: 90
+  Updated: 2025-10-26T17:23:40Z
+  Total Products: 89
 - [Lederjacken](https://lastradafashion.de/collections/lederjacken): Lederjacken von La Strada Die Lederjacken von La Strada sind ein absoluter Modehit bei Damen. Sie verkörpern Stil, Eleganz und einen Hauch von Rebellion. Durch ihre zeitlose und vielseitige Natur sind die Lederjacken von La Strada eine langfristige Investition in den Kleiderschrank. Sie lassen sich problemlos mit anderen Kleidungsstücken kombinieren und passen zu verschiedenen Stilen. Ob rockig, casual oder elegant - mit einer Lederjacke von La Strada setzen Damen ein klares Fashion-Statement.
-  Updated: 2025-10-21T18:59:17Z
-  Total Products: 25
+  Updated: 2025-10-26T17:28:03Z
+  Total Products: 24
 - [Strickpullover für Damen - warm und vielseitig](https://lastradafashion.de/collections/strickpullover): Strickpullover für Damen – warm, stilvoll, vielseitig Einleitung Strickpullover für Damen sind ein unverzichtbarer Klassiker in jeder Garderobe – besonders in der kalten Jahreszeit. Sie alle – Wollpullover für damen, klassische Strick Pullover, oder Longpullover für Damen – bieten nicht nur gemütlichen Tragekomfort, sondern auch vielseitige Stylingmöglichkeiten. Die Kollektion von La Strada vereint italienische Strickkunst mit modernen Designs. Sie schafft damit Strickpullover, die warm, stilvoll und wandelbar sind. Stilvielfalt der Strickpullover für Damen Strickpullover für Damen bei La Strada sind vielseitig. Wir führen den klassischen Strickpulli für Damen, Knit Sweater und auch Strickpullover in Oversize. Eins haben sie alle gemeinsam: Es sind wohlig warme Pullis für Damen. Oversized Strickpullover und klassische Wollpullover Der Oversized Strickpullover ist die ideale Wahl für entspannte Outfits und gemütliche Tage. Mit einer lockeren Passform und weichen Materialien sorgt er für maximalen Komfort und einen lässigen Look. Die klassischen Damen Wollpullover hingegen sind vielseitige Begleiter, die für jeden Anlass geeignet sind. Vom Büro bis zum Abendessen. Modische Details – Feinstrick, Grobstrick und Lochstrickpullover Entdecken Sie die Vielfalt an Strickpullovern. Sie reichen von Feinstrickpullovern für Damen für elegante Anlässe bis hin zum Grobstrick Pullover für lässige Freizeit-Looks. Unsere Kollektion bietet ebenfalls spezielle Designs wie den Lochstrick Pullover, der durch sein einzigartiges Muster ein modisches Statement setzt. Hochwertige Materialien für maximalen Komfort Wolle und Baumwolle Unsere Wollpullover für Damen bieten hervorragende Wärme und Langlebigkeit. Baumwollpullover eignen sich perfekt für milde Tage und Übergangszeiten und garantieren dank ihrer Atmungsaktivität Komfort. Viskosemix für leichte Strickpullover Ein Knitted Pullover oder Sweater aus Viskosemix kombiniert den Tragekomfort von Baumwolle mit der Elastizität synthetischer Fasern. So ist er besonders angenehm auf der Haut. Damen Strickpullover für jeden Anlass und Stil Alltag und Büro Für den Alltag und das Büro sind klassische Strickpullis für Damen ideal. Kombinieren Sie einen Feinstrickpullover für Damen mit einer Bluse und eleganten Hosen für einen professionellen Look. Abend und besondere Anlässe Unsere schicken und ausgefallenen Pullover für Damen setzen stilvolle Akzente bei besonderen Gelegenheiten. Diese Pullover sorgen mit modischen Details und hochwertigen Materialien für Aufsehen und Wärme zugleich. Freizeit und lässige Looks Für ein lässiges Freizeitoutfit wählen Sie einen bunten Strickpullover oder einen Strickpulli in kurzarm für Damen. Kombinieren Sie diese Modelle mit einer Skinny-Jeans oder einem Rock, um Ihrer persönlichen Note Ausdruck zu verleihen. Pflegehinweise für Ihren Strickpullover Damit Sie lange Freude an Ihrem Strick Pulli haben, sollten Sie die Pflegehinweise beachten. Waschen Sie Ihren Pullover bei niedrigen Temperaturen und verzichten Sie auf den Trockner. Grobstrickpullover sollten flach getrocknet werden, um die Form zu erhalten. Kundenbewertungen und Erfahrungen Unsere Kundinnen schätzen die Qualität, den Stil und die Wärme der Strickpullover für Damen von La Strada. Besonders beliebt sind unsere Winterpullover für Damen und unsere Grobstrick Pullover. Beide überzeugen durch ihre angenehme Passform und das modische Design. Stöbern und Finden – Ihr perfekter Strickpullover Entdecken Sie unsere Auswahl und finden Sie den perfekten Damen Strickpullover. Aktuell warten besondere Angebote auf Sie. Jetzt ist der ideale Zeitpunkt, um Ihre Garderobe mit einem neuen warmen Pullover für die kalte Jahreszeit zu bereichern. FAQ – die häufigsten Fragen zu Strickpullovern für Damen Welches Material eignet sich am besten für Strickpullover? Strickpullover für Damen bestehen oft aus natürlichen Materialien wie Wolle, Mohair, Merino, Shetland, Alpaka, Angora und Kaschmir, die für Wärme und Langlebigkeit sorgen. Auch Mischungen wie 80 % Wolle und 20 % Kaschmir bieten hervorragenden Komfort und sind besonders robust. Für dünnere Pullover ist reine Baumwolle eine gute Wahl, während Mischungen aus Schurwolle, Baumwolle, Kaschmir und Seide zusätzlichen Tragekomfort und Atmungsaktivität bieten. Was kann man unter einem Strickpullover anziehen? Für den beliebten Lagen-Look ist ein Businesshemd unter einem dünnen Feinstrickpullover perfekt. Alternativ sorgt ein T-Shirt unter dem Pullover für zusätzliche Wärme und Komfort, ohne die Silhouette zu stark zu beeinflussen. Woran erkennt man einen hochwertigen Strickpullover? Ein hochwertiger Strickpullover für Damen besteht meist aus natürlichen Stoffen, die sich auf dem Etikett ablesen lassen. Ein schneller Test zur Qualität ist der Pilling-Test: Einfach zwei Stoffschichten aneinander reiben; bilden sich keine Fussel, ist dies ein gutes Zeichen. Zudem sind saubere Nähte, gleichmäßige Strickmuster und ein hoher Anteil an Naturfasern Merkmale, die auf gute Verarbeitung hinweisen. Welches Material hält bei Strickpullovern am längsten? Natürliche Stoffe wie Wolle, Merino oder Alpaka sind besonders langlebig und robust. Schurwolle und Merinowolle bieten ebenfalls eine hohe Haltbarkeit und sind weniger anfällig für Verschleiß als viele synthetische Materialien. Welche Strickmode-Trends sind 2024 angesagt? Für 2024 sind Oversized-Pullover sowie Strickpullover mit Zopfmustern und Strukturstrick besonders im Trend. Natürliche Farbtöne und erdige Nuancen dominieren die Saison, und nachhaltige, umweltfreundliche Materialien stehen ebenfalls im Fokus der Strickmode. Welche Pullover sind im Herbst 2024 modern? Im Herbst 2024 sind Grobstrickpullover mit Zopfmustern, Rollkragenpullover in warmen Herbstfarben und lässige Oversized-Modelle besonders gefragt. Auch Pullover mit interessanten Strukturmustern und texturierten Materialien setzen modische Akzente. Wie sollte ein Strickpullover sitzen? Strickpullover für Damen sollten bequem und nicht zu eng sitzen. Bei Pullovern aus Wolle empfiehlt es sich, eine Nummer größer zu wählen, da diese oft einlaufen können. Die Schulternähte sollten an den Schultern aufliegen, und die Ärmel bis zum Handgelenk reichen. Die Länge variiert je nach Stil – von hüftlangen Feinstrickpullovern bis hin zu oversized Modellen. Welche Farben sind 2024 im Trend? 2024 liegen erdige und natürliche Töne im Trend, darunter warme Farben wie Rostrot, Senfgelb und Olivgrün. Pastelltöne sorgen für einen soften Look, während klassische Farben wie Marineblau und Grau zeitlos bleiben. Welche Farben sind im Winter 2024/2025 angesagt? Im Winter 2024/2025 dominieren tiefe, satte Farben wie Burgunderrot und Tannengrün. Neutrale Töne wie Creme, Beige und Grau sowie metallische Akzente in Silber oder Gold verleihen den Pullovern Eleganz. Dunkle Blautöne und Tiefschwarz sind ebenfalls gefragt und lassen sich vielseitig kombinieren. Wie bleibt ein Strickpullover lange schön? Damit Strickpullover lange ihre Form und Qualität behalten, sollten die Pflegehinweise beachtet werden. Strickpullover sollten meist bei 30 Grad im Wollwaschprogramm gewaschen und zum Trocknen liegend auf einem Handtuch ausgelegt werden. Es ist ratsam, den Trockner zu meiden und den Pullover regelmäßig zu lüften, um häufiges Waschen zu vermeiden. Wenn der Pullover noch feucht ist, kann er vorsichtig in Form gezogen werden. Warum sollte man ein T-Shirt unter einem Pullover tragen? Ein T-Shirt unter dem Pullover sorgt für zusätzliche Wärmeisolierung, schützt die Haut vor kratzigen Materialien und nimmt Schweiß auf, was die Hygiene verbessert. Außerdem kann der Pullover dadurch länger getragen werden, bevor er gewaschen werden muss. Der Lagen-Look ermöglicht zudem modische Akzente und bietet Flexibilität bei wechselnden Temperaturen
-  Updated: 2025-10-25T11:12:56Z
-  Total Products: 227
+  Updated: 2025-10-26T11:12:02Z
+  Total Products: 226
 - [Winterjacken](https://lastradafashion.de/collections/winterjacken): Winterjacken von La Strada Die Winterjacken von La Strada sind die perfekte Wahl, um sich in der kalten Jahreszeit stilvoll und warm zu halten. Sie bieten eine Kombination aus Funktionalität und modischem Design. Hergestellt aus hochwertigen Materialien, sind die Winterjacken von La Strada besonders langlebig und wetterbeständig. Sie sind mit einer wärmenden Fütterung ausgestattet, die eine optimale Isolierung gegen Kälte bietet. Damit sind sie ideal, um selbst bei niedrigen Temperaturen warm und gemütlich zu bleiben. Mit den Winterjacken von La Strada können Damen nicht nur den Winter warm und stilvoll überstehen, sondern auch ihre Persönlichkeit zum Ausdruck bringen. Egal ob für den Alltag, Outdoor-Aktivitäten oder besondere Anlässe, die Winterjacken von La Strada vereinen Funktionalität und modisches Design in einer harmonischen Balance.
   Updated: 2025-10-21T18:57:59Z
   Total Products: 28
@@ -4001,7 +3118,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
   Updated: 2024-09-03T10:20:50Z
   Total Products: 0
 - [Leichte Jacken](https://lastradafashion.de/collections/leichte-jacken): Leichte Jacken von La Strada Die leichten Jacken von La Strada bieten eine ideale Balance zwischen Komfort und Stil. Sie sind aus hochwertigen Materialien gefertigt, die eine angenehme Passform und Bewegungsfreiheit gewährleisten. Durch ihr leichtes Gewicht sind sie perfekt für die Übergangszeiten oder kühlere Sommerabende geeignet. Die Jacken sind in verschiedenen Schnitten, Designs und Farben erhältlich, um unterschiedlichen Geschmäckern und Stilpräferenzen gerecht zu werden. Ob klassisch, sportlich oder trendy - es gibt eine große Auswahl, um den individuellen Stil zu unterstreichen.
-  Updated: 2025-10-21T18:58:54Z
+  Updated: 2025-10-25T17:44:59Z
   Total Products: 69
 - [Hoodies](https://lastradafashion.de/collections/hoodies): Hoodies von La Strada Die Hoodies von La Strada kommen in einer Vielzahl von Farben und Designs, um unterschiedliche Geschmäcker und Stilvorlieben anzusprechen. Ob schlicht und einfarbig oder mit auffälligen Mustern und Prints verziert - es gibt eine große Auswahl, um den individuellen Stil zu betonen. Diese Kleidungsstücke eignen sich perfekt für den lässigen Alltagslook. Sie können mit Jeans, Leggings oder Jogginghosen kombiniert werden und verleihen jedem Outfit einen coolen und entspannten Touch. Sie sind ideal für Freizeitaktivitäten, Spaziergänge oder gemütliche Abende zu Hause.
   Updated: 2025-10-21T09:41:05Z
@@ -4010,8 +3127,8 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
   Updated: 2025-10-21T18:59:27Z
   Total Products: 35
 - [Shirts](https://lastradafashion.de/collections/shirts): Shirts von La Strada Die Shirts von La Strada verkörpern das perfekte Zusammenspiel von hochwertigen Materialien, sorgfältiger Verarbeitung und stilvollem Design. Jedes Shirt wurde mit Liebe zum Detail entworfen, um Ihnen einen optimalen Tragekomfort und eine schmeichelhafte Passform zu bieten. Unsere Shirts werden aus erstklassigen Stoffen gefertigt, die sich durch ihre Weichheit, Geschmeidigkeit und Atmungsaktivität auszeichnen. Die sorgfältig ausgewählten Materialien gewährleisten höchsten Tragekomfort und eine lange Lebensdauer Ihrer Shirts. Die Designs unserer Shirts sind vielfältig und reichen von zeitlosen Basics bis hin zu modischen Prints und Verzierungen. Jedes Shirt verkörpert die unverwechselbare Ästhetik und den individuellen Stil, für den La Strada bekannt ist. Unsere Shirts lassen sich mühelos in verschiedene Outfits und Stilrichtungen integrieren. Ob Sie sie lässig zur Jeans oder elegant zu einer Hose kombinieren möchten - unsere Kollektion bietet Ihnen eine große Auswahl an Möglichkeiten.
-  Updated: 2025-10-24T11:13:17Z
-  Total Products: 344
+  Updated: 2025-10-26T17:26:24Z
+  Total Products: 339
 - [Jeans Shorts](https://lastradafashion.de/collections/jeans-shorts): Jeans Shorts von La Strada Mit den Jeans Shorts von La Strada kann man einen coolen und trendigen Look kreieren, der sowohl bequem als auch modisch ist. Sie sind die perfekte Wahl für Frauen, die Wert auf Komfort, Stil und Qualität legen und dabei dennoch ihren individuellen Stil zum Ausdruck bringen möchten. Egal ob beim Bummeln in der Stadt, beim Strandspaziergang oder bei einem entspannten Treffen mit Freunden - mit den Jeans Shorts von La Strada ist man immer modisch gekleidet. Mit ihrem vielseitigen Charakter können die Jeans Shorts von La Strada auf verschiedene Arten gestylt werden. Für einen lässigen Freizeit-Look kann man sie mit einem T-Shirt und Sneakers kombinieren. Für einen femininen Touch können sie auch mit einer Bluse und Sandalen oder Absatzschuhen getragen werden.
   Updated: 2024-09-04T14:07:18Z
   Total Products: 2
@@ -4097,8 +3214,8 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
   Updated: 2025-10-21T18:59:24Z
   Total Products: 77
 - [Kleidung](https://lastradafashion.de/collections/kleidung): Entdecken Sie die inspirierende Welt der italienischen Damenmode mit der Kleidung von La Strada. Unsere exklusiven Kollektionen bieten Ihnen eine vielfältige Auswahl an stilvoller Bekleidung, die perfekt dazu geeignet ist, Ihren individuellen Stil zu unterstreichen. Mode, die Komfort und Stil vereint.
-  Updated: 2025-10-25T11:12:56Z
-  Total Products: 2319
+  Updated: 2025-10-26T17:28:03Z
+  Total Products: 2302
 - [Taschengurte](https://lastradafashion.de/collections/taschengurte): Taschengurte von La Strada Die Taschengurte von La Strada sind ein unverzichtbares Accessoire für alle, die ihre Taschenkollektion aufwerten und personalisieren möchten. Sie sind ein Ausdruck von Stil, Qualität und Praktikabilität, und tragen dazu bei, dass die Tasche zu einem unverwechselbaren und persönlichen Accessoire wird. Das Sortiment umfasst eine breite Auswahl an Taschengurten in verschiedenen Farben, Mustern und Stilen. Von schlichten und einfarbigen Gurten bis hin zu auffälligen Prints und Verzierungen bietet La Strada vielfältige Optionen, um den individuellen Geschmack und Stil jedes Kunden zu treffen.
   Updated: 2025-10-21T18:44:03Z
   Total Products: 13
@@ -4109,22 +3226,22 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
   Updated: 2024-09-04T14:12:32Z
   Total Products: 1
 - [Neu eingetroffene italienische Damenmode](https://lastradafashion.de/collections/neuheiten): Die Neuheiten spiegeln die aktuellen Modetrends wider und bieten den Kunden die Möglichkeit, immer up-to-date zu sein. Jetzt vorbeischauen!
-  Updated: 2025-10-25T11:12:56Z
-  Total Products: 1600
+  Updated: 2025-10-26T17:45:11Z
+  Total Products: 1586
 - [Italienische Abendmode für Damen](https://lastradafashion.de/collections/abend-looks): Italienische Abend-Outfits von La Strada entdecken. Lassen Sie sich von der neusten italienischen Damenmode inspirieren und bestellen Sie bequem, sicher & schnell.
-  Updated: 2025-10-21T09:44:03Z
-  Total Products: 240
+  Updated: 2025-10-25T18:03:24Z
+  Total Products: 239
 - [Italienische Damenmode mit Animal Print](https://lastradafashion.de/collections/animal-print): Kleidung & Accessoires mit Animal Print entdecken. Lassen Sie sich von der neusten Damenmode inspirieren und bestellen Sie bequem, sicher & schnell.
   Updated: 2025-10-21T18:59:01Z
   Total Products: 250
 - [Italienische Basics für Damen](https://lastradafashion.de/collections/basic): Von schlichten T-Shirts und Tops über klassische Hosen und Röcke umfasst das Sortiment eine Vielzahl von Kleidungsstücken für den Alltag.
-  Updated: 2025-10-24T11:13:17Z
-  Total Products: 272
+  Updated: 2025-10-26T17:26:24Z
+  Total Products: 270
 - [Italienische Damenmode mit Batik Muster](https://lastradafashion.de/collections/batik): Die Kleidung ist mit kunstvollen Batik-Mustern verziert, die von Hand gefertigt werden und jedem Stück eine individuelle Note verleihen. Jetzt entdecken!
   Updated: 2024-09-04T14:09:22Z
   Total Products: 19
 - [Italienische Damenmode mit Blumenmuster](https://lastradafashion.de/collections/blumenmuster): Die lebendigen und farbenfrohen Blumenmuster verleihen Ihren Outfits eine frische und fröhliche Note. Jetzt bequem, sicher & schnell bestellen!
-  Updated: 2025-10-21T18:44:13Z
+  Updated: 2025-10-26T11:12:02Z
   Total Products: 191
 - [Italienische Business Outfits für Damen](https://lastradafashion.de/collections/business): Mit Bundfaltenhosen, Blusen und Blazern können Sie sich auf geschäftlichen Anlässen souverän und stilvoll präsentieren. Jetzt auf La Strada entdecken!
   Updated: 2025-10-21T18:59:30Z
@@ -4133,8 +3250,8 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
   Updated: 2024-09-04T14:12:34Z
   Total Products: 22
 - [Italienische Mode Frühjahrskollektion 2023](https://lastradafashion.de/collections/fruehjahr-2023): Entdecken Sie die neue italienische Frühjahrskollektion von La Strada. Mit knalligen Farben und angesagten Schnitten setzen Sie ein modisches Statement.
-  Updated: 2025-10-21T09:39:12Z
-  Total Products: 109
+  Updated: 2025-10-25T18:03:24Z
+  Total Products: 108
 - [Italienische Damenmode - Neue Trends aus Italien](https://lastradafashion.de/collections/jetzt-im-trend): Die Designs in der "Jetzt im Trend" Kollektion von La Strada sind modern, ausdrucksstark und spiegeln die aktuellen Modetrends wider. Jetzt entdecken!
   Updated: 2025-10-21T09:42:52Z
   Total Products: 33
@@ -4142,17 +3259,17 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
   Updated: 2025-10-21T18:38:39Z
   Total Products: 95
 - [Neu eingetroffen: Trends direkt aus Italien](https://lastradafashion.de/collections/homepage-neu-im-shop): Entdecken Sie die Neuheiten von La Strada! Wir zeigen Ihnen die italienischen Trends des Sommers 2023.
-  Updated: 2025-10-24T11:13:17Z
-  Total Products: 1079
+  Updated: 2025-10-26T17:45:11Z
+  Total Products: 1077
 - [Italienische Casual Outfits für Damen](https://lastradafashion.de/collections/casual-look): Finden Sie bequeme Pullover, lässige Shirts, vielseitige Hosen und entspannte Kleider, die mühelos kombiniert werden können. Jetzt auf La Strada entdecken!
-  Updated: 2025-10-24T11:13:17Z
-  Total Products: 352
+  Updated: 2025-10-26T17:26:24Z
+  Total Products: 350
 - [Italienische Damenmode in der Trendfarbe Grün](https://lastradafashion.de/collections/trendfarbe-grun): Mit Kleidung, Schuhen und Taschen in der Trendfarbe Grün können Sie Ihren Look aufpeppen und sich dabei modisch präsentieren. Jetzt entdecken!
   Updated: 2025-10-21T09:41:53Z
   Total Products: 60
 - [Bestseller](https://lastradafashion.de/collections/bestseller): Entdecken Sie die beliebtesten und meistverkauften Stücke von La Strada. Unsere "Bestseller" sind die Favoriten unserer Kundinnen und verkörpern den einzigartigen Stil und die Qualität, für die La Strada bekannt ist. In der "Bestseller"-Kollektion finden Sie eine handverlesene Auswahl an Kleidungsstücken, die sich durch ihre zeitlose Eleganz, erstklassige Qualität und perfekte Passform auszeichnen. Jedes Stück wurde mit Liebe zum Detail entworfen, um Ihnen einen modischen Look und höchsten Tragekomfort zu bieten. Unsere Bestseller repräsentieren eine Vielfalt an Styles und Designs, die jedem Geschmack gerecht werden. Von klassischen Kleidern über vielseitige Blusen bis hin zu bequemen Hosen - unsere Kollektion bietet Ihnen die Möglichkeit, Ihren persönlichen Stil zum Ausdruck zu bringen und sich selbstbewusst zu präsentieren.
-  Updated: 2025-10-25T11:12:56Z
-  Total Products: 123
+  Updated: 2025-10-26T17:45:11Z
+  Total Products: 105
 - [Italienische Sommerschuhe für Damen](https://lastradafashion.de/collections/homepage-sommerschuhe): Von Pantoletten und Sandalen bis hin zu Espadrilles und Sneakers haben wir für jeden Geschmack und Anlass den passenden Schuh. Jetzt entdecken!
   Updated: 2025-10-21T09:42:35Z
   Total Products: 26
@@ -4169,7 +3286,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
   Updated: 2024-08-27T08:02:39Z
   Total Products: 12
 - [Italienische Damenmode mit sommerlichen Mustern](https://lastradafashion.de/collections/homepage-sommerliche-muster): Florale Prints, geometrische Formen, exotische Animal-Prints oder abstrakte Designs, spiegeln die Atmosphäre des Sommers wider. Jetzt entdecken!
-  Updated: 2025-10-21T18:59:01Z
+  Updated: 2025-10-26T11:12:02Z
   Total Products: 850
 - [Florale Hochzeits-Outfits für Damen](https://lastradafashion.de/collections/florale-hochzeits-looks): Die Kleider sind mit zarten und farbenfrohen Blumenmustern versehen, die eine frische und lebendige Ausstrahlung vermitteln. Jetzt bei La Strada entdecken!
   Updated: 2024-09-04T14:09:22Z
@@ -4181,8 +3298,8 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
   Updated: 2024-09-04T14:12:32Z
   Total Products: 29
 - [Italienische Damenmode Sommerkollektion 2023](https://lastradafashion.de/collections/sommer-2023): Unsere Sommer-Kollektion umfasst eine Vielzahl von luftigen und leichten Kleidungsstücken, die Sie an warmen Tagen stilvoll kleiden. Jetzt entdecken!
-  Updated: 2025-09-30T11:13:37Z
-  Total Products: 282
+  Updated: 2025-10-25T18:03:24Z
+  Total Products: 281
 - [Damen Outfits für Gäste für Hochzeit am Strand](https://lastradafashion.de/collections/hochzeit-am-strand): Die Kleidung ist aus leichten und fließenden Stoffen gefertigt, die sich angenehm auf der Haut anfühlen. Jetzt bei La Strada entdecken!
   Updated: 2025-10-21T09:41:50Z
   Total Products: 29
@@ -4202,8 +3319,8 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
   Updated: 2025-10-21T09:39:13Z
   Total Products: 128
 - [Italienische Damenmode im Sale](https://lastradafashion.de/collections/sale): Entdecken Sie unwiderstehliche Angebote und exklusive Schnäppchen zu günstigen Preisen im großen La Strada Sommer Sale. Jetzt sparen!
-  Updated: 2025-10-25T11:12:56Z
-  Total Products: 2226
+  Updated: 2025-10-25T17:48:54Z
+  Total Products: 2225
 - [Luftige italienische Sommerkleider](https://lastradafashion.de/collections/sommerkleider): Die Sommerkleider von La Strada sind in vielen Farben verfügbar und aus leichten Materialien, die luftig und angenehm auf der Haut liegen. Jetzt entdecken!
   Updated: 2025-10-21T09:43:49Z
   Total Products: 186
@@ -4271,7 +3388,7 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
   Updated: 2025-10-21T09:45:07Z
   Total Products: 31
 - [Übergangsjacken](https://lastradafashion.de/collections/ubergangsjacken): Übergangsjacken von La Strada Bereiten Sie sich mit der Kollektion von La Strada auf die wechselhaften Jahreszeiten vor, indem Sie in die Welt der Übergangsjacken eintauchen. Übergangsjacken sind vielseitige und praktische Kleidungsstücke, die speziell für die Übergangszeit zwischen den Jahreszeiten entwickelt wurden. Diese Jacken zeichnen sich durch ihre leichte Bauweise aus, die ideal ist, um Sie vor leicht kühleren Temperaturen zu schützen, ohne Sie zu überhitzen. Sie sind in verschiedenen Stilen und Designs erhältlich, um sowohl Ihrem Modebewusstsein als auch Ihren funktionalen Bedürfnissen gerecht zu werden. Übergangsjacken werden in der Regel im Frühling und Herbst getragen, wenn die Temperaturen unbeständig sind und ein dicker Mantel zu warm wäre, aber eine leichte Jacke dennoch erforderlich ist. Diese Jacken sind eine ideale Option für diejenigen Tage, an denen die Temperaturen variieren und es wichtig ist, sich angemessen zu kleiden. Die Vielfalt der Übergangsjacken in der Kollektion von La Strada reicht von klassischen Lederjacken bis hin zu sportlichen Bomberjacken und lässigen Jeansjacken. Sie bieten nicht nur Schutz vor leichter Kälte, sondern verleihen Ihrem Outfit auch eine stilvolle Note.
-  Updated: 2025-10-21T18:59:24Z
+  Updated: 2025-10-25T17:44:59Z
   Total Products: 48
 - [Freizeitkleider](https://lastradafashion.de/collections/freizeitkleider): Freizeitkleider von La Strada Tauchen Sie ein in die entspannte Welt der "Freizeitkleider" mit der vielseitigen Kollektion von La Strada. Freizeitkleider sind bequeme und lässige Kleidungsstücke, die speziell für zwanglose Anlässe und entspannte Momente entworfen wurden. Diese Kleider zeichnen sich durch ihren lockeren Schnitt und ihre bequeme Passform aus, die Ihnen maximale Bewegungsfreiheit und Komfort bieten. Freizeitkleider sind perfekt für Tage, an denen Sie sich frei und ungezwungen fühlen möchten, sei es beim Bummeln in der Stadt, einem gemütlichen Wochenendausflug oder einem Treffen mit Freunden. Die Vielfalt der Freizeitkleider in der Kollektion von La Strada reicht von einfachen Jersey-Kleidern bis hin zu luftigen Maxikleidern. Sie sind oft mit entspannten Prints, leichten Stoffen und praktischen Details gestaltet, die den lässigen Charakter dieser Kleidungsstücke unterstreichen. Freizeitkleider sind die perfekte Wahl für warme Tage, an denen Sie sich bequem und dennoch stilvoll kleiden möchten. Sie können sie mit Sneakern, Sandalen oder flachen Schuhen kombinieren, um den lässigen Look zu vervollständigen. Entdecken Sie die Vielfalt der "Freizeitkleider" und lassen Sie sich von ihrer Leichtigkeit und Unbeschwertheit inspirieren. Mit Freizeitkleidern von La Strada können Sie Ihre lässige Seite zum Ausdruck bringen und gleichzeitig stilvoll auftreten. Finden Sie die perfekten Kleider, die Ihrem persönlichen Stil und Ihrer Vorliebe für bequeme Eleganz entsprechen.
   Updated: 2024-09-04T14:12:32Z
@@ -4280,11 +3397,11 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
   Updated: 2025-10-21T09:40:25Z
   Total Products: 311
 - [Unsere Favoriten](https://lastradafashion.de/collections/unsere-favoriten): Ausgewählte Favoriten von La Strada Entdecken Sie "Unsere Favoriten" von La Strada, in der Sie eine sorgfältig ausgewählte Sammlung der meistgeliebten Stücke finden. Diese Kollektion vereint die begehrtesten Artikel, die von La Strada Kundinnen ausgewählt werden und einen Blick auf die aktuellen Trends und zeitlosen Klassiker der Marke werfen lassen. Von zeitlosen Hosen bis hin zu trendigen Maxikleidern finden Sie hier die Artikel, die bei unseren Kundinnen besonders beliebt sind. Die Kollektion spiegelt die vielfältigen Vorlieben und Stilrichtungen wider und bietet Ihnen die Möglichkeit, die Favoriten anderer Kunden zu erkunden und Ihre Garderobe mit den begehrtesten Stücken zu bereichern. Die Kollektion ist eine inspirierende Sammlung, die Ihnen hilft, die beliebtesten Trends und Klassiker von La Strada kennenzulernen. Durchstöbern Sie diese Auswahl, um die angesagtesten Stücke zu entdecken, die unsere Kundinnen immer wieder wählen. Finden Sie Ihren persönlichen Favoriten und lassen Sie sich von der Modebegeisterung anderer inspirieren.
-  Updated: 2025-10-21T09:41:04Z
+  Updated: 2025-10-26T17:45:11Z
   Total Products: 211
 - [Italienische Strickkleider für Damen](https://lastradafashion.de/collections/strickkleider): Entdecken Sie die Wärme und den Stil der Strickkleider von La Strada und lassen Sie sich von der Eleganz und dem Komfort dieser Kleider inspirieren!
-  Updated: 2025-10-21T18:55:20Z
-  Total Products: 23
+  Updated: 2025-10-25T18:03:28Z
+  Total Products: 22
 - [Italienische Bundfaltenhosen für Damen](https://lastradafashion.de/collections/bundfaltenhosen): Die Bundfaltenhosen sind in verschiedenen Stilen erhältlich, von klassischen Anzughosen bis hin zu lockereren, leichteren Modellen. Jetzt entdecken!
   Updated: 2025-10-21T09:46:32Z
   Total Products: 23
@@ -4340,19 +3457,19 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
   Updated: 2025-10-21T18:38:36Z
   Total Products: 22
 - [Sortiment](https://lastradafashion.de/collections/sortiment): Angebote von La Strada La Strada präsentiert eine umfassende Auswahl an italienischer Damenmode, Schuhen und Accessoires. Unser Sortiment spiegelt die Vielfalt der italienischen Mode wider, von zeitlosen Schnitten bis zu modernen Designs. Sorgfältig ausgewählte Stücke betonen die Handwerkskunst und den Stil Italiens. Unsere Damenmode kombiniert klassische Eleganz mit zeitgemäßem Design. Die Schuhkollektion bietet sowohl traditionelle italienische Stiefel als auch moderne Sandalen, die auf Qualität und Komfort setzen. Unsere Accessoires, darunter Taschen, Schmuck und Tücher, runden das Angebot ab und setzen stilvolle Akzente. La Strada zeichnet sich durch ein Augenmerk auf Qualität und Stil aus. Unser Ziel ist es, Frauen jeden Alters zu inspirieren und ihnen die Möglichkeit zu bieten, ihre Persönlichkeit durch Mode auszudrücken. Bei uns finden Sie nicht nur Produkte, sondern ein Erlebnis, das die Eleganz und Kreativität der italienischen Mode betont. Willkommen bei La Strada, wo jedes Stück eine Geschichte erzählt und jede Kollektion die Vielfalt der Mode repräsentiert.
-  Updated: 2025-10-25T11:12:56Z
-  Total Products: 2766
+  Updated: 2025-10-26T17:45:11Z
+  Total Products: 2749
 - [discount_not-on-sale_cap-is-zero](https://lastradafashion.de/collections/not-on-sale)
-  Updated: 2025-10-24T11:13:17Z
-  Total Products: 543
+  Updated: 2025-10-26T17:28:03Z
+  Total Products: 527
 - [Winter 2023](https://lastradafashion.de/collections/winter-2023): Die Winterkollektion von La Strada Tauchen Sie ein in die Welt der Eleganz und Behaglichkeit mit unserer Winterkollektion von La Strada. Diese exquisite Auswahl an Modestücken wurde sorgfältig zusammengestellt, um Ihnen in der kalten Jahreszeit Wärme und Stil zu bieten. Hier finden Sie eine breite Palette von Mänteln und Jacken, die nicht nur vor den winterlichen Temperaturen schützen, sondern auch Ihre Persönlichkeit unterstreichen. Kuschelige Mäntel und stilvolle Jacken Unsere Kollektion präsentiert eine Vielfalt an Mänteln, vom zeitlosen Wollmantel bis zum trendigen Steppmantel. Erleben Sie höchsten Tragekomfort und bleiben Sie dabei modisch im Fokus. Die sorgfältige Auswahl von hochwertigen Materialien und durchdachten Designs macht jeden Mantel zu einem Statement-Piece, das Ihren Winter-Look perfektioniert. Festliche Kleider für die Feiertage Für besondere Anlässe und festliche Momente bieten wir eine Auswahl an eleganten Kleidern. Von schlichten Schnitten bis zu aufwendig verzierten Designs – unsere Winterkollektion bringt den Zauber der Feiertage in Ihren Kleiderschrank. Verleihen Sie Ihren Festlichkeiten Glanz und Glamour mit einem Winterkleid von La Strada. Blusen für den perfekten Layering-Look Kombinieren Sie Ihre Wintergarderobe mit stilvollen Blusen, die nicht nur wärmend sind, sondern auch Vielseitigkeit in Ihre Outfits bringen. Ob unter einem Pullover getragen oder als eigenständiges Statement-Piece, unsere Blusen sind die perfekte Ergänzung für einen raffinierten Layering-Look. Wählen Sie Qualität und Stil La Strada steht für Qualität und Stil, und unsere Winterkollektion spiegelt dieses Versprechen wider. Jedes Stück wurde mit Liebe zum Detail entworfen, um Ihnen nicht nur Wärme zu bieten, sondern auch Ihre persönliche Stilpräferenz zu unterstreichen. Ihr Winter-Wardrobe Upgrade Entdecken Sie die Eleganz und Vielfalt der La Strada Winterkollektion. Tauchen Sie ein in die Welt von warmen Mänteln, festlichen Kleidern und stilvollen Blusen. Gestalten Sie Ihren Winter-Look mit zeitloser Eleganz und genießen Sie die Kombination aus Komfort und Stil. Ihre Winterkollektion erwartet Sie – erleben Sie Mode, die nicht nur vor Kälte schützt, sondern auch Ihr individuelles Stilbewusstsein unterstreicht.
-  Updated: 2025-10-21T09:41:04Z
+  Updated: 2025-10-26T17:45:11Z
   Total Products: 211
 - [Festtage](https://lastradafashion.de/collections/festtage): Outfits für die Feiertage von La Strada Bereiten Sie sich darauf vor, die festliche Jahreszeit mit Stil und Eleganz zu erleben, denn unsere Auswahl an Kleidung für die Festtage von La Strada lässt keine Wünsche offen. Entdecken Sie schicke Kleider, bezaubernde Röcke und funkelnde Glitzer-Oberteile, die speziell für die kommenden Feierlichkeiten kreiert wurden. Festliche Kleider für unvergessliche Momente Die Festtage sind die Zeit des Jahres, in der sich alles um Glamour und Freude dreht. Unsere Kollektion von festlichen Kleidern ist darauf ausgerichtet, Ihnen einen umwerfenden Auftritt zu garantieren. Ob klassisch in Schwarz, auffällig in Rot oder glamourös in Gold – wählen Sie das perfekte Kleid, um stilvoll durch jede festliche Veranstaltung zu schreiten. Raffinierte Röcke für festliche Vielseitigkeit Für diejenigen, die ihren eigenen Stil kreieren möchten, bieten unsere festlichen Röcke die ideale Grundlage. Kombinieren Sie sie mit schicken Blusen oder Pullovern, um den perfekten Look für gemütliche Familienessen oder festliche Zusammenkünfte mit Freunden zu schaffen. Glitzernde Oberteile für strahlende Auftritte Wenn es darum geht, im Rampenlicht zu stehen, sind unsere Glitzer-Oberteile die perfekte Wahl. Verleihen Sie Ihrem Outfit das gewisse Extra mit funkelnden Details, die Ihre Persönlichkeit unterstreichen. Egal, ob Sie sich für ein subtil schimmerndes Top oder ein auffälliges Paillettenoberteil entscheiden – festliche Glanzlichter sind garantiert. Stil und Eleganz für die Festtage La Strada steht für Stil und Eleganz, und unsere Festtagskollektion spiegelt diesen Anspruch wider. Jedes Stück wurde mit Liebe zum Detail entworfen, um Ihnen nicht nur einen festlichen Look zu bieten, sondern auch einen Hauch von Luxus und zeitloser Schönheit. Ihre festliche Garderobe erwartet Sie Tauchen Sie ein in die Welt der festlichen Mode von La Strada und gestalten Sie unvergessliche Momente mit Stil. Ob Sie auf der Suche nach dem perfekten Kleid für die Silvesterparty sind oder einfach nur nach festlichen Akzenten für Ihre alltägliche Garderobe suchen – unsere Festtagskollektion hat für jeden Anlass das Richtige. Erleben Sie Mode, die die Freude der Festtage einfängt und Ihnen ermöglicht, sich so zu präsentieren, wie Sie es sich wünschen. Ihre festliche Garderobe erwartet Sie – entdecken Sie den Zauber der Festtage mit La Strada.
   Updated: 2025-10-21T09:40:55Z
   Total Products: 47
 - [Italienische Broschen für Damen](https://lastradafashion.de/collections/broschen): Italienische Broschen von La Strada entdecken. Lassen Sie sich von der neusten  Damenmode inspirieren und bestellen Sie bequem, sicher & schnell.
-  Updated: 2025-03-28T12:33:20Z
+  Updated: 2025-10-26T11:12:02Z
   Total Products: 4
 - [Lange Röcke](https://lastradafashion.de/collections/lange-rocke): Lange Röcke von La Strada Entdecken Sie in der aktuellen Kollektion von La Strada eine Vielzahl von eleganten langen Röcken, die Ihre Garderobe bereichern werden. Von zeitlosen Midiröcken bis hin zu beeindruckenden Maxiröcken bietet diese Auswahl eine breite Palette an Stilen, die sich für verschiedene Anlässe eignen. Vielseitige Midi-Röcke für jeden Tag: Die Midi-Röcke von La Strada zeichnen sich durch ihre Vielseitigkeit aus. In unterschiedlichen Schnitten und Farben gehalten, können sie leicht zu einem lässigen Tagesoutfit oder einem schickeren Look für besondere Anlässe kombiniert werden. Die Kollektion bietet Ihnen die Möglichkeit, Ihren persönlichen Stil zu betonen und sich gleichzeitig wohlzufühlen. Maxiröcke für besondere Anlässe: Wenn es um beeindruckende Eleganz geht, sind die Maxiröcke von La Strada die perfekte Wahl. Von fließenden Designs bis hin zu figurbetonten Silhouetten bieten diese Röcke eine anspruchsvolle Ästhetik. Die Auswahl an Farben und Mustern ermöglicht es Ihnen, den perfekten Maxirock für formelle Veranstaltungen oder festliche Anlässe zu finden. Hochwertige Materialien und feine Verarbeitung: La Strada legt großen Wert auf Qualität und Handwerkskunst. Daher sind die langen Röcke aus hochwertigen Materialien gefertigt, die nicht nur ein luxuriöses Tragegefühl bieten, sondern auch eine lange Lebensdauer versprechen. Feine Verarbeitung und sorgfältige Details verleihen jedem Rock eine zeitlose Eleganz. Für jeden Stil und jede Figur: Die Kollektion langer Röcke von La Strada ist so konzipiert, dass sie verschiedenen Stilen und Figurtypen schmeichelt. Von A-Linien-Schnitten bis hin zu figurbetonten Silhouetten gibt es eine Vielzahl von Optionen, die dazu beitragen, die individuelle Schönheit jeder Frau zu unterstreichen. Kombinieren Sie nach Belieben: Die Vielseitigkeit der langen Röcke ermöglicht es Ihnen, sie nach Belieben zu kombinieren. Tragen Sie einen Midi-Rock mit einem lässigen T-Shirt für einen entspannten Look oder kombinieren Sie einen Maxirock mit einer schicken Bluse für einen eleganten Auftritt. Ihrer Kreativität sind keine Grenzen gesetzt. Entdecken Sie die Welt der langen Röcke bei La Strada und lassen Sie sich von zeitloser Eleganz und vielseitigem Stil inspirieren.
   Updated: 2025-10-21T18:55:13Z
@@ -4391,10 +3508,10 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
   Updated: 2025-10-21T18:57:17Z
   Total Products: 105
 - [Hosen, Jeans und Röcke online shoppen](https://lastradafashion.de/collections/hose-jeans-und-rocke): Entdecken Sie unsere Kollektion italienischer Hosen, Jeans und Röcke ✔ Vielseitige Styles ✔ Perfekte Passform ➤ Jetzt online shoppen!
-  Updated: 2025-10-21T18:59:31Z
-  Total Products: 369
+  Updated: 2025-10-26T17:23:40Z
+  Total Products: 368
 - [Frühjahrsjacken](https://lastradafashion.de/collections/fruhjahrsjacken): Frühlingsjacken von La Strada Tauchen Sie ein in die Welt des italienischen Designs, wo jede Jacke nicht nur Funktionalität bietet, sondern auch Stil und Eleganz verkörpert. Unsere Kollektion italienischer Frühjahrsjacken umfasst eine Vielzahl von Stilen und Designs, die von leichten Trenchcoats über trendige Bomberjacken bis hin zu klassischen Blazern reichen. In unserer Kollektion finden Sie eine breite Palette von Jacken, die perfekt für die Übergangszeit geeignet sind. Entdecken Sie unsere Auswahl an Frühjahrsjacken für verschiedene Anlässe. Für einen eleganten und dennoch lässigen Look empfehlen wir unsere leichten Trenchcoats, die perfekt zu einem schicken Outfit für das Büro oder einen Stadtbummel passen. Sie bieten Schutz vor leichtem Regen und Wind und verleihen Ihrem Look eine zeitlose Eleganz. Wenn Sie nach einem trendigen Statement-Look suchen, sind unsere Bomberjacken die perfekte Wahl. Mit ihren coolen Prints und modernen Schnitten sind sie ideal für lässige Outfits am Wochenende oder einen Abend mit Freunden geeignet. Für einen klassischen und dennoch stilvollen Look bieten wir auch Blazer an, die perfekt zu einem schicken Kleid oder einer eleganten Hose passen und Ihrem Outfit eine raffinierte Note verleihen. Sie sind ideal für formelle Anlässe oder wichtige Geschäftstreffen geeignet. Egal, ob Sie sich für einen lässigen, trendigen oder eleganten Look entscheiden, unsere italienischen Frühjahrsjacken werden Ihnen dabei helfen, Ihren persönlichen Stil zum Ausdruck zu bringen und Ihren Look zu vervollständigen. Entdecken Sie jetzt unsere Auswahl an italienischen Frühjahrsjacken und lassen Sie sich von der Schönheit und Qualität des italienischen Designs verzaubern. Mit La Strada sind Sie immer bereit, stilvoll und selbstbewusst in die neue Saison zu starten.
-  Updated: 2025-10-21T09:42:46Z
+  Updated: 2025-10-25T17:44:59Z
   Total Products: 26
 - [Leicht und fließend](https://lastradafashion.de/collections/leicht-und-fliessend): Leichte und fließende Kleidungsstücke von La Strada Unsere Kollektion italienischer, leichter und fließender Kleidungsstücke umfasst eine Vielzahl von Stilen und Designs, die aus hochwertigen Materialien wie Baumwolle, Viskose oder Satin gefertigt sind. Diese Stoffe wurden sorgfältig ausgewählt, um Ihnen ein angenehmes Tragegefühl und eine erstklassige Qualität zu garantieren. Warum sind diese Materialien perfekt für den Frühling geeignet? Baumwolle ist bekannt für ihre Atmungsaktivität und Weichheit, während Viskose für ihre Leichtigkeit und fließende Textur geschätzt wird. Satin hingegen verleiht jedem Kleidungsstück einen luxuriösen Glanz und eine geschmeidige Haptik. Zusammen sorgen sie dafür, dass Sie sich auch an warmen Frühlingstagen frisch und wohl fühlen. Entdecken Sie unsere Auswahl an leichten und fließenden Kleidungsstücken für verschiedene Anlässe. Von luftigen Blusen über lässige Kleider bis hin zu eleganten Röcken - unsere Kollektion bietet für jeden Geschmack und jede Gelegenheit das passende Stück. Für einen entspannten Tag im Park oder einen Stadtbummel empfehlen wir unsere leichten Kleider oder Blusen aus Viskose, die Ihnen einen femininen und dennoch lässigen Look verleihen. Kombinieren Sie sie mit Sandalen oder Sneakern für einen mühelosen Frühlingsstil. Wenn Sie nach einem eleganten Outfit für besondere Anlässe suchen, sind unsere Kleidungsstücke aus Satin die perfekte Wahl. Mit ihrer luxuriösen Ausstrahlung und fließenden Silhouette sind sie ideal für Cocktailpartys, Abendveranstaltungen oder romantische Dinner. Egal, ob Sie sich für einen lässigen oder eleganten Look entscheiden, unsere italienischen, leichten und fließenden Kleidungsstücke werden Ihnen dabei helfen, Ihren persönlichen Stil zum Ausdruck zu bringen und Ihren Frühlings-Look zu vervollständigen. Entdecken Sie jetzt unsere Auswahl an italienischen, leichten und fließenden Kleidungsstücken und lassen Sie sich von der Schönheit und Qualität des italienischen Designs verzaubern. Mit La Strada sind Sie immer bereit, stilvoll und selbstbewusst in den Frühling zu starten.
   Updated: 2025-10-21T18:38:34Z
@@ -4412,16 +3529,16 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
   Updated: 2025-10-21T09:41:39Z
   Total Products: 23
 - [discount_not-on-sale_cap-is-empty](https://lastradafashion.de/collections/discount_not-on-sale_cap-is-empty)
-  Updated: 2025-10-24T11:13:17Z
-  Total Products: 543
+  Updated: 2025-10-26T17:28:03Z
+  Total Products: 527
 - [Beste Kundin Geschenk](https://lastradafashion.de/collections/beste-kundin-geschenk)
   Updated: 2025-10-21T09:41:44Z
   Total Products: 29
 - [Oberteile für Damen online kaufen](https://lastradafashion.de/collections/oberteile): Entdecken Sie exklusive italienische Oberteile für Damen ✔ Zeitlose Eleganz ✔ Made in Italy ➤ Jetzt online shoppen!
-  Updated: 2025-10-21T18:44:11Z
-  Total Products: 276
+  Updated: 2025-10-25T18:03:24Z
+  Total Products: 275
 - [Sommer 2024](https://lastradafashion.de/collections/sommer-2024): Sommerkollektion 2024 von La Strada Unsere Sommer-Kollektion umfasst eine Vielzahl von luftigen und leichten Kleidungsstücken, die Sie an warmen Tagen stilvoll kleiden. Von luftig leichten italienischen Sommerkleidern und modischen italienischen Blusen bis hin zu lässigen Shorts und Röcken - die Kleidungsstücke sind perfekt auf die Bedürfnisse des Sommers abgestimmt. Um Ihren Look zu vervollständigen, bietet die Kollektion eine Auswahl an stilvollen Hüten, die Sie vor der Sonne schützen und Ihrem Outfit eine trendige Note verleihen. Ebenso finden Sie eine Vielzahl von Taschen, die nicht nur praktisch sind, sondern auch Ihren Look aufwerten und Platz für all Ihre Sommerutensilien bieten. Die Schuhe in der Kollektion sind darauf ausgerichtet, Ihnen Komfort und Stil zu bieten. Von bequemen Sandalen für entspannte Spaziergänge bis hin zu schicken Espadrilles für einen stilvollen Auftritt - die Auswahl ist vielseitig und bietet für jeden Anlass das passende Schuhwerk. Die Farbpalette der Sommer Kollektion ist von lebendigen und fröhlichen Farbtönen geprägt, die die Sommerstimmung widerspiegeln. Aber auch dezente und neutrale Farben sind vorhanden, die sich leicht mit anderen Kleidungsstücken kombinieren lassen.
-  Updated: 2025-10-21T09:43:50Z
+  Updated: 2025-10-26T11:12:02Z
   Total Products: 413
 - [Italienische Business Hosen für Damen online kaufen](https://lastradafashion.de/collections/business-hosen): Italienische Business Hosen für Damen ✔ Hochwertige Stoffe ✔ Perfekte Passform ✔ Elegante Schnitte ➤ Jetzt online kaufen und Ihr Büro-Outfit stilvoll vervollständigen!
   Updated: 2025-10-21T18:59:27Z
@@ -4430,14 +3547,14 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
   Updated: 2025-10-21T17:37:55Z
   Total Products: 61
 - [Italienische Denim für Damen online shoppen](https://lastradafashion.de/collections/denim): Italienische Denim Mode für Damen ✔ Robuste Qualität ✔ Stilvolle Designs ✔ Perfekte Passform ➤ Jetzt die neuesten Denim-Highlights für Ihr Outfit entdecken!
-  Updated: 2025-10-21T18:59:31Z
-  Total Products: 82
+  Updated: 2025-10-26T17:23:40Z
+  Total Products: 81
 - [Italienische Häkel-Mode – Exklusive Häkelkleidung für Damen](https://lastradafashion.de/collections/hakel-mode): Entdecken Sie die Schönheit italienischer Häkel-Mode ✔ Handgefertigte Designs ✔ Hochwertige Materialien ✔ Einzigartiger Stil ➤ Jetzt online kaufen!
   Updated: 2025-10-21T09:42:53Z
   Total Products: 31
 - [Herbst 2024](https://lastradafashion.de/collections/herbst-2024)
-  Updated: 2025-10-24T11:13:17Z
-  Total Products: 386
+  Updated: 2025-10-26T17:27:46Z
+  Total Products: 382
 - [Farbtrend: Bordeaux](https://lastradafashion.de/collections/farbtrend-bordeaux)
   Updated: 2025-10-21T18:38:35Z
   Total Products: 16
@@ -4454,11 +3571,11 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
   Updated: 2024-09-18T18:12:36Z
   Total Products: 0
 - [Sweat](https://lastradafashion.de/collections/sweat): Sweatshirts, Sweatjacken & Hoodies von La Strada Entdecken Sie die Sweat-Kollektion von La Strada, die Sweatshirts, Sweatjacken, Sweathosen und Hoodies in erstklassiger Qualität und modernem Design bietet. Jedes Stück wurde mit einem Fokus auf Komfort, Langlebigkeit und Stil entworfen, sodass Sie in jeder Situation gut aussehen und sich gleichzeitig wohlfühlen. Stilvolle Sweatshirts und Hoodies für jeden Anlass Die Sweatshirts, Sweatjacken, Sweathosen und Hoodies von La Strada sind die perfekte Wahl für einen lässigen Look, der sowohl modisch als auch bequem ist. Egal, ob Sie sich für einen entspannten Tag zu Hause, ein Treffen mit Freunden oder den Stadtbummel entscheiden – mit unserer Sweat-Kollektion sind Sie immer gut angezogen. Dank der Kombination aus modernen Schnitten und klassischen Farben lassen sich unsere Sweat-Teile vielseitig kombinieren und passen zu jeder Garderobe. Hochwertige Materialien für maximalen Komfort La Strada verwendet nur hochwertige Materialien, um Sweatshirts, Hoodies und Sweatjacken zu kreieren, die nicht nur gut aussehen, sondern auch angenehm zu tragen sind. Weiche Stoffe sorgen für höchsten Tragekomfort, während die durchdachte Verarbeitung sicherstellt, dass die Kleidungsstücke langlebig und formbeständig bleiben. Ideal für die kühleren Monate wie Herbst und Winter, aber auch perfekt für Übergangszeiten oder entspannte Tage im Frühling. Sweatmode für den modernen Alltag Unsere Hoodies, Sweatjacken und Sweatshirts sind wahre Allrounder und passen zu jeder Gelegenheit. Ob lässig zu Jeans, kombiniert mit einer Jogginghose für sportliche Looks oder als stylische Ergänzung zu einem entspannten Outfit – die Sweatmode von La Strada ist vielseitig und stets ein modisches Highlight. Mit trendigen Details, wie Kapuzen, Reißverschlüssen und praktischen Taschen, bieten unsere Sweats nicht nur Stil, sondern auch Funktionalität.
-  Updated: 2025-10-23T11:15:12Z
-  Total Products: 57
+  Updated: 2025-10-25T17:46:51Z
+  Total Products: 56
 - [Sweatjacke](https://lastradafashion.de/collections/sweatjacke): Sweatjacken von La Strada – Komfort trifft auf vielseitigen Stil Die Sweatjacken von La Strada sind die ideale Kombination aus Komfort und modernem Stil. Ob für einen entspannten Tag, sportliche Aktivitäten oder als lässige Ergänzung zu Ihrem Alltagsoutfit – unsere Sweatjacken bieten Ihnen nicht nur Wärme und Bequemlichkeit, sondern auch einen modischen Look, der sich perfekt in Ihre Garderobe integriert.
-  Updated: 2025-10-21T18:57:46Z
-  Total Products: 9
+  Updated: 2025-10-25T17:46:51Z
+  Total Products: 8
 - [Sweathosen](https://lastradafashion.de/collections/sweathosen): Sweathosen von La Strada – Lässiger Komfort für jeden Tag Die Sweathosen von La Strada bieten den perfekten Mix aus Komfort und Stil. Ideal für entspannte Tage, sportliche Aktivitäten oder den gemütlichen Feierabend – diese Hosen vereinen Bequemlichkeit mit einem modernen Look.
   Updated: 2025-10-21T18:59:01Z
   Total Products: 18
@@ -4466,23 +3583,23 @@ La Strada is love for Italian Fashion. Our collections represents the latest fas
   Updated: 2025-10-21T18:58:50Z
   Total Products: 20
 - [Langarmbluse](https://lastradafashion.de/collections/langarmblusen): Langarmblusen von La Strada Die Langarmblusen von La Strada vereinen italienische Eleganz mit vielseitigen Designs, die sowohl für den Alltag als auch für besondere Anlässe perfekt geeignet sind. Unsere Kollektion bietet eine breite Auswahl an zeitlosen Klassikern und trendigen Modellen, die sich nahtlos in jede Garderobe integrieren lassen. Ob im Büro, bei festlichen Anlässen oder für einen entspannten Freizeitlook – mit unseren Langarmblusen sind Sie immer stilvoll gekleidet. Vielseitige Langarmblusen für jeden Stil Die Langarmblusen von La Strada sind in verschiedenen Schnitten und Materialien erhältlich, um Ihnen für jeden Anlass den passenden Look zu bieten. Für einen eleganten Business-Look oder formelle Veranstaltungen empfehlen wir klassische Hemdblusen aus edlen Stoffen wie Baumwolle oder Seide. Diese Modelle sorgen für einen professionellen Auftritt, ohne dabei auf modische Akzente zu verzichten. Feminine Details für besondere Anlässe Wenn Sie einen femininen Look bevorzugen, sind unsere Spitzenblusen die perfekte Wahl. Mit ihren zarten Details und romantischen Schnitten setzen sie elegante Akzente und eignen sich ideal für Dinnerdates, feierliche Anlässe oder auch festliche Veranstaltungen. Die raffinierte Kombination aus feiner Spitze und modernen Designs macht diese Blusen zu einem echten Hingucker. Lässiger Chic mit Oversize-Blusen und Tuniken Für einen lässigen und dennoch eleganten Look bieten wir Tuniken und Oversize-Blusen, die perfekt zu Jeans oder Leggings passen. Diese Modelle vereinen Komfort mit Stil und sorgen für einen entspannten, aber raffinierten Auftritt – ideal für den Alltag oder informelle Treffen. Italienische Schneiderkunst und hochwertige Materialien La Strada legt besonderen Wert auf hochwertige Materialien und erstklassige Verarbeitung. Unsere Langarmblusen bieten nicht nur stilvolle Designs, sondern auch Langlebigkeit und Tragekomfort. Die sorgfältige Auswahl der Stoffe sorgt dafür, dass Sie sich den ganzen Tag wohlfühlen und gleichzeitig immer stilvoll aussehen.
-  Updated: 2025-10-21T18:59:30Z
-  Total Products: 64
+  Updated: 2025-10-25T18:03:31Z
+  Total Products: 63
 - [Webpelz](https://lastradafashion.de/collections/webpelz): Webpelz von La Strada – Luxuriöse Eleganz aus Fellimitat Die Webpelz-Kollektion von La Strada vereint zeitlose Eleganz mit einem bewussten Umgang mit Ressourcen. Unsere Designs aus Fake Fur, auch bekannt als Real Faux, bieten eine stilvolle und tierfreundliche Alternative zu echtem Fell. Ob als Mantel, Jacke oder Accessoire – mit La Strada setzen Sie modische Statements, ohne auf Nachhaltigkeit zu verzichten. Hochwertige Materialien für authentischen Look und Feel Unser Fellimitat besticht durch seine hohe Qualität und realistische Optik. Die weichen, luxuriösen Fasern unserer Fake-Fur-Designs fühlen sich angenehm auf der Haut an und sorgen für ein elegantes Erscheinungsbild. Jedes Stück wurde mit Liebe zum Detail gefertigt, um Ihnen den Komfort und die Raffinesse zu bieten, die Sie von La Strada erwarten. Vielseitige Designs für jeden Anlass Die Webpelz-Kollektion von La Strada bietet eine breite Auswahl an modischen Stilen. Von klassischen Mantel-Silhouetten bis hin zu trendigen Kurzjacken und Oversize-Designs – bei uns finden Sie für jede Gelegenheit das perfekte Modell. Ob für festliche Anlässe, elegante Dinner-Events oder einen stylischen Alltagslook, unsere Real-Faux-Webpelz-Modelle lassen Sie stets glamourös und zeitgemäß aussehen. Nachhaltiger Luxus mit Fellimitat Mit unseren Fake-Fur-Kreationen setzen Sie nicht nur modische Akzente, sondern zeigen auch Umweltbewusstsein. La Strada verwendet ausschließlich hochwertiges Fellimitat, das den luxuriösen Look von echtem Fell bietet, ohne Kompromisse bei Tier- und Umweltschutz einzugehen.
   Updated: 2025-10-21T18:54:41Z
   Total Products: 40
 - [Pailletten- Looks](https://lastradafashion.de/collections/pailletten-looks): Pailletten-Looks von La Strada Tauchen Sie ein in die funkelnde Welt der Mode, in der Pailletten nicht nur glitzern, sondern Ihrem Look ein unvergleichliches Strahlen verleihen. Unsere neue Kollektion vereint Eleganz, Glamour und ein Hauch Extravaganz, der jedes Outfit zu einem echten Highlight macht. Ob schimmerndes Abendkleid, funkelnder Blazer oder ein glitzerndes Ensemble – unsere Pailletten-Looks sind gemacht für unvergessliche Momente. Perfekt für festliche Anlässe, Cocktailpartys oder jede Gelegenheit, bei der Sie im Mittelpunkt stehen möchten. Für die selbstbewusste Fashionista bieten unsere Statement-Stücke maximalen Glamour: Kombinieren Sie funkelnde Pailletten-Kleider mit hohen Absätzen und zarten Accessoires für einen luxuriösen Abend-Look. Sie bevorzugen ein dezenteres Funkeln? Entdecken Sie Blusen und Röcke mit zarten Pailletten-Details, die Ihren Alltags-Look auf stilvolle Weise aufwerten. Kombiniert mit schlichten Basics wie einem Blazer oder einer Jeans bringen Sie Pailletten auch im Alltag zum Strahlen – edel und modern. Von klassischen Schwarz- und Goldtönen bis zu aufregenden Farben und Schnitten: Unsere Pailletten-Kollektion ist so vielseitig wie die Frauen, die sie tragen. Jedes Stück wurde designt, um Ihre Persönlichkeit zu unterstreichen und Ihren Stil auf ein neues Level zu heben. Egal, ob Sie einen großen Auftritt planen oder einem schlichten Outfit das gewisse Etwas verleihen möchten – mit den Pailletten-Looks von La Strada setzen Sie ein Statement, das niemand übersieht. Entdecken Sie jetzt die Kollektion und bringen Sie die Nacht (und den Tag) zum Funkeln. Denn manchmal ist ein bisschen mehr Glanz alles, was Sie brauchen, um zu strahlen.
-  Updated: 2025-10-21T18:56:07Z
-  Total Products: 16
+  Updated: 2025-10-26T17:27:46Z
+  Total Products: 15
 - [Comfy Outfits](https://lastradafashion.de/collections/comfy-outfits): Italienische Loungewear von La Strada Willkommen bei La Strada, Ihrem Ziel für luxuriöse italienische Mode und unübertroffene Eleganz. Tauchen Sie ein in unsere Welt der Loungewear und erleben Sie, wie Komfort und Stil miteinander verschmelzen, um Ihnen das ultimative Wohlfühlerlebnis zu bieten. Unsere Loungewear-Kollektion verkörpert das Beste aus italienischem Design und Handwerkskunst. Jedes Stück wurde sorgfältig ausgewählt, um höchsten Ansprüchen an Qualität, Tragekomfort und Stil gerecht zu werden. Von weichen, luxuriösen Stoffen bis hin zu raffinierten Schnitten und Details – unsere Loungewear ist ein Ausdruck von Eleganz und Entspannung zugleich. Ob Sie sich einen gemütlichen Abend zu Hause gönnen oder einen lässigen Look für Ihre Freizeitaktivitäten suchen, bei La Strada finden Sie garantiert das perfekte Outfit. Von bequemen Jogginganzügen und Oversized-Pullovern bis hin zu loungigen Hosenanzügen bieten wir eine Vielzahl von Stilen und Designs, die Ihre Persönlichkeit unterstreichen und Ihren individuellen Stil zum Ausdruck bringen. Unsere Loungewear ist nicht nur eine Modeerscheinung, sondern eine Investition in Ihr Wohlbefinden. Wir legen großen Wert auf Qualität und Nachhaltigkeit, daher werden alle unsere Stücke aus hochwertigen Materialien hergestellt, die nicht nur angenehm zu tragen sind, sondern auch lange halten. Mit La Strada können Sie Ihren persönlichen Stil leben und Ihre Entspannungszeit in vollen Zügen genießen. Entdecken Sie noch heute unsere exklusive Loungewear-Kollektion und lassen Sie sich von italienischem Flair und zeitloser Eleganz verzaubern.
-  Updated: 2025-10-24T11:13:17Z
+  Updated: 2025-10-26T11:12:02Z
   Total Products: 25
 - [Trendsetterin](https://lastradafashion.de/collections/trendsetterin)
   Updated: 2025-03-18T14:45:03Z
   Total Products: 0
 - [Creator Collection](https://lastradafashion.de/collections/creator-collection): Entdecke exklusive Styles für Creator! Wähle deine Favoriten für unsere Kollaborationen – trendy, hochwertig & perfekt für deinen Content.
-  Updated: 2025-10-24T11:13:17Z
-  Total Products: 34
+  Updated: 2025-10-26T11:12:02Z
+  Total Products: 31
 
 ## Blogs
 
