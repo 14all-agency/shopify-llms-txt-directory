@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2024-08-10T17:41:58Z
 - Contact Email: info@baskandweave.com
-- Updated At: 2025-10-26T04:01:00.366Z
+- Updated At: 2025-10-26T12:01:13.799Z
 
 ## Products
 
@@ -1671,7 +1671,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/unisex-tri-blend-t-shirt-teal-triblend-front-678e335bb216b.jpg?v=1740361277
     Price: $40.50 USD
 - [Men's Fitted T-Shirt](https://baskandweave.com/products/short-sleeve-t-shirt-2): This t-shirt is comfortable, soft, lightweight, and form-fitting. It's an ideal staple piece for any wardrobe! • 100% combed ring-spun cotton • Heather Grey is 90% cotton, 10% polyester • Fabric weight: 4.3 oz/yd² (145.8 g/m²) • 32 singles • Pre-shrunk • Blank product sourced from Honduras, Nicaragua, Mexico, or Cambodia This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide BODY LENGTH (cm) BODY WIDTH (cm) XS 68.6 44.5 S 71.1 48.3 M 73.7 52 L 76.2 55.9 XL 78.7 61 2XL 81.3 66 3XL 83.8 71.1
-  Updated: 2025-10-09T03:27:57Z
+  Updated: 2025-10-26T08:48:36Z
   Vendor: Bask & Weave
   Product Type: T-Shirt
   Availability: Available
@@ -20301,7 +20301,7 @@
     Image: https://cdn.shopify.com/s/files/1/0716/0397/8490/files/basic-unisex-windbreaker-forest-green-front-67a68fba68b0c.jpg?v=1738971028
     Price: $45.50 USD
 - [Women's Sherpa Denim Jacket](https://baskandweave.com/products/womens-sherpa-denim-jacket): Be it the 90s or mid 2000s—a classic denim jacket never goes out of style, and now you don’t have to wait for the summer to roll around to wear one! This jacket is lined with wool-like sherpa fabric that’s comfortable to wear and will keep you warm and snug. The lining is made of 100% recycled materials, including plastic bottles. • Denim: 99% cotton, 1% spandex • Sherpa & sleeve lining: 100% recycled polyester • Fabric weight: 12 oz/yd² (406.9 g/m²) • Chest pockets with button flap closure • Two side pockets • Regular fit • Blank product sourced from China This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide WIDTH (cm) LENGTH (cm) SLEEVE LENGTH (cm) XS 45.7 64.8 61.6 S 49.5 66 62.2 M 54.6 67.3 62.9 L 59.7 68.6 63.5 XL 64.8 69.9 64.1 2XL 68.6 71.1 64.8 3XL 72.4 72.4 65.4
-  Updated: 2025-06-08T05:23:28Z
+  Updated: 2025-10-26T08:50:13Z
   Vendor: Bask & Weave
   Product Type: Jacket
   Availability: Available
