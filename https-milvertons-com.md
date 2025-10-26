@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2019-08-25T03:49:02Z
 - Contact Email: sales@milvertons.com
-- Updated At: 2025-10-25T20:00:38.405Z
+- Updated At: 2025-10-26T12:00:39.472Z
 
 ## Products
 
@@ -10895,7 +10895,7 @@
   Updated: 2025-04-04T00:42:58Z
   Total Products: 66
 - [Women's Clothing Collection](https://milvertons.com/collections/womens-clothing): Discover chic and stylish women's clothing at Milvertons! Browse our collection of fashionable apparel, from timeless classics to on-trend pieces. Shop now for the ultimate fashion experience!
-  Updated: 2025-10-25T05:26:19Z
+  Updated: 2025-10-26T05:26:10Z
   Total Products: 153
 - [Men's Clothing - Menswear, Trendy Ethnic designs and more](https://milvertons.com/collections/mens-clothing): Men's Clothing - Menswear, Trendy Ethnic designs and more. Shop our Men's Clothing Collection  at Milvertons today!
   Updated: 2025-10-06T18:28:51Z
@@ -10928,7 +10928,7 @@
   Updated: 2025-10-05T19:25:37Z
   Total Products: 7
 - [All Products](https://milvertons.com/collections/all): Explore our carefully curated collection of products - Women's Shoes and Bags, Women's Clothing, Men's Shoes, Men's Clothing and Clothing Accessories, and more!
-  Updated: 2025-10-25T05:25:31Z
+  Updated: 2025-10-26T05:25:36Z
   Total Products: 164
 - [Gift Cards for your loved ones](https://milvertons.com/collections/gift-cards): Gift Cards - Milvertons e-gift cards for your loved ones, no expiry date, redeemable at checkout.
   Updated: 2025-09-26T06:52:18Z
@@ -10973,7 +10973,7 @@
   Updated: 2025-10-24T14:59:17Z
   Total Products: 103
 - [New Arrivals - Trendy New In](https://milvertons.com/collections/new-arrivals): Browse our New Arrivals Collection and discover why Milvertons Store is the ultimate destination for fashion-conscious individuals who want to look their best
-  Updated: 2025-10-25T05:26:07Z
+  Updated: 2025-10-26T05:26:01Z
   Total Products: 41
 - [Milvertons Instagram Shop - Manual](https://milvertons.com/collections/milvertons-instagram-shop): Milvertons Instagram Shop - Manual
   Updated: 2025-10-22T14:36:24Z
