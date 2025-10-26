@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-10-03T06:30:37Z
 - Contact Email: mandiemaddox@mystichiddengem.com
-- Updated At: 2025-10-25T12:00:32.540Z
+- Updated At: 2025-10-26T00:00:38.784Z
 
 ## Products
 
@@ -1563,6 +1563,114 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/female-model-dark-occult-racerback-dress.png?v=1761103544
   Price: $53.99 USD
+- [Mens Lachrywave Abduction Tank](https://lachrymalgems.store/products/mens-lachrywave-abduction-tank): Lachrywave LL Skeletons Obduction Mens Tank gives off a grunge, edgy vibe perfect for summer days and music festivals. This tank is ideal for those who love alternative fashion and want to make a statement. Great for parties, concerts, and casual outings.Product features- Unisex design for versatile wear- Available in various colors with unique graphic design- Comfortable 100% combed ringspun cotton material- Lightweight fabric for breathability- Raw sleeve and armhole edges for a trendy lookCare instructions- Machine wash: warm (max 40C or 105F)- Non-chlorine: bleach as needed- Tumble dry: medium- Iron, steam or dry: low heat- Do not dryclean XS S M L XL 2XL 3XL Width, in 17.72 18.90 20.08 21.26 22.44 23.62 24.80 Length, in 27.17 28.35 29.53 30.71 31.89 33.07 34.25
+  Updated: 2025-10-25T15:59:18Z
+  Vendor: Printify
+  Product Type: Tank Top
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/6390420668048144460_2048.jpg?v=1761407691
+  - [Black / XS](https://lachrymalgems.store/products/mens-lachrywave-abduction-tank?variant=47232272007413)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/6390420668048144460_2048.jpg?v=1761407691
+    Price: $59.68 USD
+  - [White / XS](https://lachrymalgems.store/products/mens-lachrywave-abduction-tank?variant=47232272040181)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/5499185325388609921_2048.jpg?v=1761407700
+    Price: $59.68 USD
+  - [Ecru / XS](https://lachrymalgems.store/products/mens-lachrywave-abduction-tank?variant=47232272072949)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/16785135667264653348_2048.jpg?v=1761407707
+    Price: $59.68 USD
+  - [Black / S](https://lachrymalgems.store/products/mens-lachrywave-abduction-tank?variant=47232272105717)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/6390420668048144460_2048.jpg?v=1761407691
+    Price: $59.68 USD
+  - [Black / M](https://lachrymalgems.store/products/mens-lachrywave-abduction-tank?variant=47232272138485)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/6390420668048144460_2048.jpg?v=1761407691
+    Price: $59.68 USD
+  - [White / M](https://lachrymalgems.store/products/mens-lachrywave-abduction-tank?variant=47232272171253)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/5499185325388609921_2048.jpg?v=1761407700
+    Price: $59.68 USD
+  - [Ecru / M](https://lachrymalgems.store/products/mens-lachrywave-abduction-tank?variant=47232272204021)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/16785135667264653348_2048.jpg?v=1761407707
+    Price: $59.68 USD
+  - [Black / L](https://lachrymalgems.store/products/mens-lachrywave-abduction-tank?variant=47232272236789)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/6390420668048144460_2048.jpg?v=1761407691
+    Price: $59.68 USD
+  - [White / L](https://lachrymalgems.store/products/mens-lachrywave-abduction-tank?variant=47232272269557)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/5499185325388609921_2048.jpg?v=1761407700
+    Price: $59.68 USD
+  - [Ecru / L](https://lachrymalgems.store/products/mens-lachrywave-abduction-tank?variant=47232272302325)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/16785135667264653348_2048.jpg?v=1761407707
+    Price: $59.68 USD
+  - [Black / XL](https://lachrymalgems.store/products/mens-lachrywave-abduction-tank?variant=47232272335093)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/6390420668048144460_2048.jpg?v=1761407691
+    Price: $59.68 USD
+  - [White / XL](https://lachrymalgems.store/products/mens-lachrywave-abduction-tank?variant=47232272367861)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/5499185325388609921_2048.jpg?v=1761407700
+    Price: $59.68 USD
+  - [Ecru / XL](https://lachrymalgems.store/products/mens-lachrywave-abduction-tank?variant=47232272400629)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/16785135667264653348_2048.jpg?v=1761407707
+    Price: $59.68 USD
+  - [Black / 2XL](https://lachrymalgems.store/products/mens-lachrywave-abduction-tank?variant=47232272433397)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/6390420668048144460_2048.jpg?v=1761407691
+    Price: $59.68 USD
+  - [Ecru / 2XL](https://lachrymalgems.store/products/mens-lachrywave-abduction-tank?variant=47232272466165)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/16785135667264653348_2048.jpg?v=1761407707
+    Price: $59.68 USD
+  - [Black / 3XL](https://lachrymalgems.store/products/mens-lachrywave-abduction-tank?variant=47232272498933)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/6390420668048144460_2048.jpg?v=1761407691
+    Price: $59.68 USD
+- [Bikini Set Enchanted with Lachrywave Design](https://lachrymalgems.store/products/bikini-set-enchanted-with-lachrywave-design): The Lachrywave Bikini Swimsuit features mystical occult enriched designs on both the tops and bottoms. With vibrant colors and a classic Lachrywave design, this swimsuit is perfect for those looking to make a statement at the beach or pool. Ideal for women who love unique and eye-catching swimwear, this bikini is suitable for summer vacations, pool parties, and beach outings.Product features- Removable padded inner lining for the top- 85% Polyester 15% Spandex blend for durability and stretch- Lightweight fabric for comfort (4.59 oz/yd²)- Elastic straps with varying lengths for a customizable fit- Two-piece set for versatile stylingCare instructions- Do not dryclean- Iron, steam or dry: low heat- Dry flat- Do not bleach- Machine wash: warm (max 40C or 105F) S M L XL 2XL 3XL 4XL 5XL US Size 2 4 6 8 10 12 14 16 Euro Size 32 34 36 38 40 42 44 46 Bust Width (half), in 16.30 17.09 17.87 18.78 19.45 20.24 21.02 21.81 Cup Height, in 6.38 6.69 7.01 7.28 7.52 7.83 8.07 8.39 Hip Width (front), in 8.07 9.06 9.45 10.04 10.63 11.22 11.81 12.40 Hip Width (back), in 11.02 12.20 12.60 12.80 13.39 13.98 14.57 15.16 Bottom Height (front), in 7.48 7.87 8.86 9.06 9.45 9.84 10.24 10.63 Bottom Height (back), in 8.66 8.86 9.25 9.84 10.43 11.02 11.42 12.20 Images by [clearviewstock, VikaSuh / Shutterstock]
+  Updated: 2025-10-25T17:18:54Z
+  Vendor: Printify
+  Product Type: All Over Prints
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/female-model-lachrywave-bikini-set.png?v=1761412734
+  - [S / Black](https://lachrymalgems.store/products/bikini-set-enchanted-with-lachrywave-design?variant=47232320209141)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/2257174502418459213_2048.jpg?v=1761412734
+    Price: $48.18 USD
+  - [M / Black](https://lachrymalgems.store/products/bikini-set-enchanted-with-lachrywave-design?variant=47232320241909)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/2257174502418459213_2048.jpg?v=1761412734
+    Price: $48.18 USD
+  - [L / Black](https://lachrymalgems.store/products/bikini-set-enchanted-with-lachrywave-design?variant=47232320274677)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/2257174502418459213_2048.jpg?v=1761412734
+    Price: $48.18 USD
+  - [XL / Black](https://lachrymalgems.store/products/bikini-set-enchanted-with-lachrywave-design?variant=47232320307445)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/2257174502418459213_2048.jpg?v=1761412734
+    Price: $48.18 USD
+  - [2XL / Black](https://lachrymalgems.store/products/bikini-set-enchanted-with-lachrywave-design?variant=47232320340213)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/2257174502418459213_2048.jpg?v=1761412734
+    Price: $48.18 USD
+  - [3XL / Black](https://lachrymalgems.store/products/bikini-set-enchanted-with-lachrywave-design?variant=47232320372981)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/2257174502418459213_2048.jpg?v=1761412734
+    Price: $48.18 USD
+  - [4XL / Black](https://lachrymalgems.store/products/bikini-set-enchanted-with-lachrywave-design?variant=47232320405749)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/2257174502418459213_2048.jpg?v=1761412734
+    Price: $48.18 USD
+  - [5XL / Black](https://lachrymalgems.store/products/bikini-set-enchanted-with-lachrywave-design?variant=47232320438517)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/2257174502418459213_2048.jpg?v=1761412734
+    Price: $48.18 USD
 
 ## Collections
 
@@ -1570,11 +1678,11 @@
   Updated: 2025-10-25T11:20:19Z
   Total Products: 19
 - [Ladies Alt. Style](https://lachrymalgems.store/collections/ladies-alt-style): Ladies trending apparel, Seasonal Fashion
-  Updated: 2025-10-25T11:20:19Z
-  Total Products: 13
+  Updated: 2025-10-25T16:50:44Z
+  Total Products: 14
 - [Mens Alt. Style](https://lachrymalgems.store/collections/mens-alt-style): Mens hip hop alternative trends and seasonal outfits.
-  Updated: 2025-10-25T11:20:19Z
-  Total Products: 10
+  Updated: 2025-10-25T15:56:56Z
+  Total Products: 19
 - [Trap-Core Shoes](https://lachrymalgems.store/collections/trap-core-shoes)
   Updated: 2025-10-24T08:07:42Z
   Total Products: 5
@@ -1588,8 +1696,8 @@
   Updated: 2025-10-22T04:20:41Z
   Total Products: 0
 - [All Products](https://lachrymalgems.store/collections/all)
-  Updated: 2025-10-25T11:20:19Z
-  Total Products: 47
+  Updated: 2025-10-25T16:51:11Z
+  Total Products: 49
 
 ## Blogs
 
