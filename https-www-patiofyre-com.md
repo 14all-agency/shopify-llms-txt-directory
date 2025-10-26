@@ -10,7 +10,7 @@
 - Contact Email: support@patiofyre.com
 - Contact Phone: 1-800-247-7384
 - Address: 20590 NE Empire Ave. Bend, OR 97701, United States of America
-- Updated At: 2025-10-26T16:00:49.208Z
+- Updated At: 2025-10-26T20:00:41.060Z
 
 Shop Patiofyre Today – Experience 8 Feet of Luxury Heat for Patios, Restaurants, and Backyards Nationwide
 
@@ -24,7 +24,7 @@ Shop Patiofyre Today – Experience 8 Feet of Luxury Heat for Patios, Restaurant
   Image: https://cdn.shopify.com/s/files/1/0685/7228/3129/files/patiofyre_2425_full-safety-cage_JLMBC_1.jpg?v=1739922588
   Price: $869.00 USD
 - [Metro Jetlamp Outdoor Heater | Patiofyre](https://www.patiofyre.com/products/metro): Discover the Metro Jetlamp: a sleek wood pellet patio heater that transforms outdoor heating with style and sustainability.
-  Updated: 2025-10-25T23:27:40Z
+  Updated: 2025-10-26T19:57:17Z
   Vendor: PatioFyre
   Product Type: 
   Availability: Available
@@ -200,6 +200,9 @@ Shop Patiofyre Today – Experience 8 Feet of Luxury Heat for Patios, Restaurant
   - [Patiofyre in The Manual | Patiofyre](https://www.patiofyre.com/blogs/patiofyre-blog/patiofyre-in-the-manual-why-the-metro-jetlamp-is-changing-outdoor-heat): Patiofyre in The Manual | Patiofyre
     Updated: 2025-10-25T22:51:07Z
     Author: Sophie Eger
+  - [Why Smart Dads Choose Wood Pellet Heaters | Patiofyre](https://www.patiofyre.com/blogs/patiofyre-blog/why-smart-dads-choose-wood-pellet-heaters): Why Smart Dads Choose Wood Pellet Heaters | Patiofyre
+    Updated: 2025-10-26T16:19:12Z
+    Author: Angela Korish
 
 ## Store Pages
 
