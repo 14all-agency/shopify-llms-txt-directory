@@ -9,7 +9,7 @@
 - Created At: 2025-08-25T14:01:44Z
 - Contact Email: support@themineralskin.com
 - Address: 17 Heath Drive, London NW3 7SL, United Kingdom
-- Updated At: 2025-10-26T00:00:44.421Z
+- Updated At: 2025-10-26T12:00:58.139Z
 
 ## Products
 
@@ -130,13 +130,13 @@
     Updated: 2025-10-15T07:11:26Z
     Author: Michele Galli
   - [Botanic Age Regression Cream Review | The Natural Anti-Aging Breakthrough from The Mineral Skin](https://themineralskin.com/blogs/news/botanic-age-regression-cream-a-new-era-in-natural-anti-aging): Botanic Age Regression Cream Review | The Natural Anti-Aging Breakthrough from The Mineral Skin
-    Updated: 2025-10-17T14:19:14Z
+    Updated: 2025-10-26T09:31:41Z
     Author: Michele Galli
   - [Botanic Purge Foam: The Ultimate Natural Deep Cleanser for Men and Women](https://themineralskin.com/blogs/news/botanic-purge-foam-the-ultimate-natural-deep-cleanser-for-men-and-women)
-    Updated: 2025-10-22T13:16:57Z
+    Updated: 2025-10-26T09:30:26Z
     Author: Michele Galli
-  - [Icelandic Volcano Face & Body Scrub Review – The Ultimate Skin Detox for Men and Women](https://themineralskin.com/blogs/news/icelandic-volcano-face-body-scrub-review-the-ultimate-skin-detox-for-men-and-women)
-    Updated: 2025-10-22T13:28:40Z
+  - [Icelandic Volcano Face & Body Scrub Review. The Ultimate Skin Detox for Men and Women](https://themineralskin.com/blogs/news/icelandic-volcano-face-body-scrub-review-the-ultimate-skin-detox-for-men-and-women)
+    Updated: 2025-10-26T09:29:15Z
     Author: Michele Galli
 
 ## Store Pages
@@ -157,6 +157,8 @@
   Updated: 2025-10-13T12:44:40Z
 - [Manage Subscription](https://themineralskin.com/pages/joy-subscription)
   Updated: 2025-10-24T15:14:05Z
+- [Easy Returns & Refunds | At Mineral](https://themineralskin.com/pages/easy-returns-refunds-at-mineral): 
+  Updated: 2025-10-26T10:14:09Z
 
 ## Policies
 
