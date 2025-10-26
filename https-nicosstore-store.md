@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-07-07T17:06:44Z
 - Contact Email: nikualbu92@gmail.com
-- Updated At: 2025-10-25T20:00:35.440Z
+- Updated At: 2025-10-26T00:01:01.863Z
 
 ## Products
 
@@ -2203,7 +2203,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/3ef299f16d854caab6343103d9c9dd52-Max-Origin.webp?v=1759598855
     Price: €44.22 EUR
 - [Camouflage Print Mesh Long Sleeve Top](https://nicosstore.store/products/camouflage-print-mesh-long-sleeve-top): Features:Sheer Stretch:Slightly stretchy Material composition:95% polyester, 5% elastane Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 22.8 32.3 24 M 23.6 34.6 24.4 L 24.4 37 24.8 XL 25.2 40.2 25.2
-  Updated: 2025-10-25T07:00:56Z
+  Updated: 2025-10-25T23:20:56Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2981,7 +2981,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/69970997521447278c9cdd284b7e91a1-Max-Origin.webp?v=1759686330
     Price: €26.12 EUR
 - [Lace Detail Drawstring Long Sleeve Hoodie](https://nicosstore.store/products/lace-detail-drawstring-long-sleeve-hoodie): Features:Lace Detail,Pocketed,Drawstring Stretch:Slightly stretchy Material composition:75% polyester, 25% cotton Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 25.2 40.2 27.4 M 26 42.5 28 L 26.8 44.9 28.5
-  Updated: 2025-10-25T19:13:24Z
+  Updated: 2025-10-25T21:00:46Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
