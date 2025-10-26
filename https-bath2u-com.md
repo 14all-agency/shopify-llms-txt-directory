@@ -6,7 +6,7 @@
 - Timezone: Asia/Kuala_Lumpur
 - Created At: 2022-10-06T05:47:12Z
 - Contact Email: sales@bath2u.com
-- Updated At: 2025-10-26T00:00:36.859Z
+- Updated At: 2025-10-26T08:00:39.326Z
 
 ## Products
 
@@ -784,7 +784,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/SRT2403-GY4.jpg?v=1674010039
   Price: RM 119.00 MYR
 - [SORENTO Toilet Paper Holder with Cover - Gold Polished Stainless Steel](https://bath2u.com/products/sorento-toilet-paper-holder-with-cover-gold-polished-stainless-steel): This toilet paper holder with cover is stylish and completely on-trend. The holder is robust, but thanks to its simplicity in design, it has an open and friendly design. The toilet paper holder can be mounted in its entirety with the supplied strong, double-sided 3M tape.Specification : Material: Stainless steel Colour: Gold Finish: Polished stainless steel Type: Wall mounted Style: Modern Mounting Type: Stick on Package Content : 1x Toilet Paper Holder
-  Updated: 2024-04-18T15:04:42Z
+  Updated: 2025-10-26T01:31:32Z
   Vendor: SORENTO
   Product Type: Paper Holder
   Availability: Available
@@ -2894,7 +2894,7 @@
   Image: https://cdn.shopify.com/s/files/1/0555/1859/3108/products/HS115CR.png?v=1678681150
   Price: RM 180.00 MYR
 - [ALFRED VICTORIA Flexible Dual-mode Wall Sink Cold Tap](https://bath2u.com/products/alfred-victoria-flexible-dual-mode-wall-sink-cold-tap): Specification: High Purity Brass Body High Quality Chrome Plated Finish 35mm Ceramic Cartridge Attached with Soft Output Aerator Complete with A Pair of Flexible Hose
-  Updated: 2025-01-20T21:08:52Z
+  Updated: 2025-10-26T01:04:56Z
   Vendor: ALFRED VICTORIA
   Product Type: Kitchen Tap
   Availability: Available
