@@ -5,12 +5,12 @@
 - Currency: EUR
 - Timezone: Europe/Bucharest
 - Created At: 2025-09-06T11:42:39Z
-- Updated At: 2025-10-25T08:00:44.036Z
+- Updated At: 2025-10-26T00:00:46.242Z
 
 ## Products
 
 - [Ultimate AI Blueprint Generator - Design Made Easy](https://gamedevcore.com/products/ultimate-blueprint-generator-ai): Discover the power of our AI blueprint generator. It's never been easier to make games in Unreal Engine even as a beginner. Try it today!
-  Updated: 2025-10-24T21:06:13Z
+  Updated: 2025-10-25T09:06:18Z
   Vendor: GameDevCore
   Product Type: 
   Availability: Available
