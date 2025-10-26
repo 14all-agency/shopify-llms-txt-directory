@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-01-24T04:49:01Z
 - Contact Email: info@ibizjewel.com
-- Updated At: 2025-10-25T20:00:52.133Z
+- Updated At: 2025-10-26T04:01:02.524Z
 
 ## Products
 
@@ -12162,7 +12162,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-52_12.jpg?v=1709875628
     Price: $1,019.00 USD
 - [Moissanite 3.70CT Radiant Diamond Art Nouveau Engagement Ring](https://ibizjewel.com/products/moissanite-3-70ct-radiant-diamond-art-nouveau-engagement-ring): Experience The Brilliance And Beauty Of Our Moissanite 3.70ct Radiant Diamond Art Nouveau Engagement Ring. Crafted With Expert Precision And Featuring A Stunning Radiant Diamond, This Ring Is A Symbol Of Everlasting Love. With A Moissanite Center Stone, You'll Enjoy A More Affordable Yet Equally Sparkling Alternative To Traditional Diamonds.
-  Updated: 2025-10-02T10:30:48Z
+  Updated: 2025-10-26T01:17:51Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Radiant Diamond Ring
   Availability: Available
@@ -44614,6 +44614,10 @@
     Updated: 2025-10-22T02:42:08Z
     Author: Heris K.
     Tags: diamonds, eco-friendly rings, environmentally conscious jewelry, ethical gems, jewelry, salt and pepper, salt and pepper diamond ring, sustainability, sustainable engagement rings
+  - [The Rise of Salt and Pepper Diamond Rings in Sustainable Fashion Trends](https://ibizjewel.com/blogs/news/the-rise-of-salt-and-pepper-diamond-rings-in-sustainable-fashion-trends): The Rise of Salt and Pepper Diamond Rings in Sustainable Fashion Trends
+    Updated: 2025-10-26T00:09:59Z
+    Author: Heris K.
+    Tags: diamonds, eco-friendly fashion, ethical rings, jewelry, modern engagement rings, salt and pepper, salt and pepper diamond ring, sustainable, sustainable jewelry trends
 
 ## Store Pages
 
