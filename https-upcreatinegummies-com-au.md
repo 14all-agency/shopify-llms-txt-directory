@@ -6,7 +6,7 @@
 - Timezone: Australia/Sydney
 - Created At: 2025-08-03T22:28:06Z
 - Contact Email: info@upcreatinegummies.com.au
-- Updated At: 2025-10-26T08:00:56.678Z
+- Updated At: 2025-10-26T16:00:42.805Z
 
 ## Products
 
@@ -45,7 +45,7 @@
   Updated: 2025-09-29T04:57:41Z
   Total Products: 0
 - [Get Up](https://upcreatinegummies.com.au/collections/get-up): Power your performance with Up Creatine Gummies – clean, convenient, and crafted for movers who want more from their routine.
-  Updated: 2025-10-25T11:20:54Z
+  Updated: 2025-10-26T11:28:45Z
   Total Products: 4
 
 ## Blogs
