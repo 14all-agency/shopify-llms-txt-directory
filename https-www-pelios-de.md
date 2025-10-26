@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-06-23T16:57:53Z
 - Contact Email: info@pelios.de
-- Updated At: 2025-10-25T04:00:36.714Z
+- Updated At: 2025-10-26T12:01:05.166Z
 
 ## Products
 
@@ -261,10 +261,10 @@
 ## Collections
 
 - [Kamin Ofen Shop ☝ Kamin aus Handarbeit günstig kaufen](https://www.pelios.de/collections/frontpage): Kamin Ofen Shop ✔ Kamin kaufen hier im Shop ★ mega effizient ✓ geringer Verbrauch ✓ echte Handarbeit ✓ Endecken Sie unser umfangreiches, günstiges Angebot.
-  Updated: 2025-10-03T12:21:11Z
+  Updated: 2025-10-25T11:23:36Z
   Total Products: 1
 - [Holzofen kaufen ☝günstig hier im Shop ★ echte Handarbeit](https://www.pelios.de/collections/holzofen): Holzofen kaufen ➥ Entdecken Sie unsere exklusiven Holzöfen von Pelios – wo traditionelle Handwerkskunst auf moderne Effizienz trifft. Kamine Shop ✔
-  Updated: 2025-10-04T11:21:41Z
+  Updated: 2025-10-25T11:23:36Z
   Total Products: 3
 - [Pelletofen kaufen ☝ günstig hier im Shop ★ echte Handarbeit](https://www.pelios.de/collections/pelletofen): Pelletofen kaufen ➥ keine billigen China-Elemente ✔ keine Massenware ✔ dicker Industriestahl ✔ geringer Verbrauch ✔ Entdecken Sie unser Angebot hier im Shop
   Updated: 2025-10-03T12:21:11Z
