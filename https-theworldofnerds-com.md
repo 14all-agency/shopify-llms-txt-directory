@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2023-11-06T10:53:38Z
 - Contact Email: theworldofnerdscustomer@gmail.com
-- Updated At: 2025-10-26T12:01:20.416Z
+- Updated At: 2025-10-26T16:00:53.571Z
 
 ## Products
 
@@ -9468,7 +9468,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_e283126d-3312-4669-af53-e8803ee6051b.jpg?v=1756452352
   Price: ₹119.00 INR
 - [Pokémon Gengar Keychain – Iconic Ghost-Type Pokémon Artwork](https://theworldofnerds.com/products/pokemon-gengar-keychain-iconic-ghost-type-pokemon-artwork): This Pokémon Gengar keychain showcases the mischievous and playful nature of the iconic Ghost-type Pokémon. With bold, striking artwork, it captures Gengar’s unique charm and sinister grin. A perfect accessory for any Pokémon fan or collector, this keychain brings the spooky energy of Gengar to life. Whether you're a fan of the games, anime, or both, this keychain is an essential piece for your Pokémon collection.
-  Updated: 2025-10-26T04:16:11Z
+  Updated: 2025-10-26T12:12:45Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
