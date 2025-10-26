@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-01-24T04:49:01Z
 - Contact Email: info@ibizjewel.com
-- Updated At: 2025-10-26T04:01:02.524Z
+- Updated At: 2025-10-26T20:00:52.946Z
 
 ## Products
 
@@ -7323,7 +7323,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/SPDR-78_1.jpg?v=1690621684
     Price: $2,909.00 USD
 - [Natural Salt And Pepper 1.70CT Pear Diamond Art Deco Unique Engagement Ring | Handmade Ring | Anniversary Ring](https://ibizjewel.com/products/natural-salt-and-pepper-1-70ct-pear-diamond-art-deco-unique-engagement-ring-handmade-ring-anniversary-ring-4): This Natural Salt And Pepper 1.70CT Pear Diamond Art Deco Unique Engagement Ring is a timeless piece with a handmade design to show your love and devotion. This gorgeous ring has 1.70 carats of salt and pepper pear-shaped diamond set in a classic Art Deco design. Perfect as an engagement, anniversary, or wedding gift.
-  Updated: 2025-10-02T10:28:58Z
+  Updated: 2025-10-26T07:41:35Z
   Vendor: Natural Salt And Pepper Diamond Ring
   Product Type: Natural Salt And Pepper Pear Diamond Ring
   Availability: Available
@@ -12780,7 +12780,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDR-59_2.jpg?v=1709879485
     Price: $899.00 USD
 - [Moissanite 1.91CT Oval Diamond Celtic Wedding Ring](https://ibizjewel.com/products/moissanite-1-91ct-oval-diamond-celtic-wedding-ring): Experience The Timeless Elegance Of Our Moissanite 1.91ct Oval Diamond Celtic Wedding Ring. With Its Stunning Oval Diamond And Intricate Celtic Design, This Ring Is Expertly Crafted To Symbolize Everlasting Love. The Sparkling Moissanite Stone Adds A Touch Of Brilliance, Making It The Perfect Choice For Any Special Occasion.
-  Updated: 2025-10-02T10:30:48Z
+  Updated: 2025-10-26T11:55:08Z
   Vendor: Moissanite Diamond Ring
   Product Type: Moissanite Oval Diamond Ring
   Availability: Available
