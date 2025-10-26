@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-07-19T18:27:19Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-10-26T04:00:38.615Z
+- Updated At: 2025-10-26T08:00:38.385Z
 
 ## Products
 
@@ -5003,7 +5003,7 @@
     Availability: Available
     Price: $1.00 USD
 - [York Jacquard, Textured Feel Fabric, 115 Inch. in Width, | Home Decor](https://fabricsstar.com/products/york-jacquard-textured-feel-fabric-115-inch-in-width-home-decor): DIMENSION - Size of the Jacquard Fabric is 115 Inch. in width. Cut by the Yard Fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 115' x 36'. Order of 3 yards (Qty=3) is 115' x 108' Orders can be customized to be cut in pieces by request. SIZE: Textured Feel fabric comes in 115 Inch in width making it the perfect choice for various oversized needs, such as wide tablecloths etc. MATERIAL - Jacquard Fabric is a heavyweight fabric made of 100% polyester. DESIGN - Ideal Material for Upholstery, drapery, pillows, slipcovers, tablecloths, sewing, DIY, arts & crafts Etc. Elevate your home decor with the fabric. Its Textured Feel brings a touch of elegance to your tablecloths and furniture, while its durable material ensures long-lasting use. Add a stylish touch to your space with the fabric CARE - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor
-  Updated: 2025-10-23T20:17:23Z
+  Updated: 2025-10-26T06:18:40Z
   Vendor: Fabrics Star
   Product Type: Jacquard Fabric
   Availability: Available
