@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-10-25T16:01:19.422Z
+- Updated At: 2025-10-26T08:01:20.342Z
 
 ## Products
 
@@ -206,6 +206,13 @@ Figura com aproximadamente 7 cm.
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/figura-jasmine-do-filme-aladino-disney-621245316-princesas-disney-1178692694.webp?v=1752825981
   Price: 6,50 € EUR
+- [Alce fêmea](https://brincatoys.pt/products/alce-femea): O alce norte-americano é uma das maiores espécies da família dos veados. As fêmeas são gentis habitantes da floresta, preferindo o clima temperado ao subártico.A maior diferença na aparência física entre um alce macho e uma fêmea são os chifres. Os machos têm chifres grandes e extensos, enquanto as fêmeas não têm nenhum.Figura em borracha termop...
+  Updated: 2025-10-26T05:32:21Z
+  Vendor: Seleção Brincatoys
+  Product Type: + 3 anos
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/alce-femea-438082923-0095866180805-brincatoys-1178692697.jpg?v=1752826088
+  Price: 9,50 € EUR
 - [Boneco PVC Toy Story - Alien para Colecionadores](https://brincatoys.pt/products/boneco-pvc-toy-story-alien): Boneco PVC Toy Story - Alien - reviva as aventuras intergalácticas! Ideal para fãs e colecionadores, com design autêntico.
   Updated: 2025-10-19T09:15:47Z
   Vendor: Toy Story
@@ -7129,7 +7136,7 @@ ela tem o seu arco e flecha, assim como a sua lança preparados. A Knight
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/playmobil-super-4-skyjet-com-o-dr-x-e-robot-9003-65900317-playmobil-1178694898.png?v=1752865460
   Price: 20,90 € EUR
 - [Playmobil Turistas com Multibanco 70439](https://brincatoys.pt/products/playmobil-turistas-com-multibanco): Para levantar dinheiro de forma fácil: basta inserir o cartão, o PIN e as notas caem na gaveta. Agora estás pronto para as férias-
-  Updated: 2025-10-13T06:28:28Z
+  Updated: 2025-10-26T01:32:05Z
   Vendor: Playmobil
   Product Type: + 4 anos
   Availability: Available
@@ -13145,7 +13152,7 @@ Figura com aproximadamente 10,8 cm.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/barbie-extra-fashion-20725623-0194735072569-barbie-1178697324.jpg?v=1752801243
   Price: 29,99 € EUR
 - [Boneca Recém-nascida Mia Pee 42 cm](https://brincatoys.pt/products/boneca-recem-nascida-mia-pee-42-cm): A recém-nascida Mia Pee é uma charmosa boneca interactiva da marca líder Muñecas Antonio Juan. Esta boneca de 42 cm foi projectada para proporcionar uma experiência de jogo imersiva e realista para crianças, com a capacidade de fazer xixi depois de serem alimentadas com biberão. Mia é especial, porque quando a colocas na cama, ela fecha os olhos para dormir , o que aumenta o seu realismo e a torna uma companheira de brincadeiras ideal. Ela vem com uma variedade de acessórios, como chupeta e fralda , facilitando a dramatização e a imaginação. Uma das características de destaque de Mia é sua adorável capa de rato , que combina com as suas botas. Esta capa, junto com o seu macacão de tecido macio , tornam Mia irresistivelmente doce e sedutora. É um toque fantástico que certamente despertará a imaginação das crianças e tornará as brincadeiras ainda mais emocionantes. Mia tem um corpo sexuado de vinil macio . Ela é uma menina e ficará feliz por cuidares dela e trocar a fralda quando ela fizer xixi, o que proporciona uma experiência de jogo mais autêntica. Como todos os bonecos da série Antonio Juan Dolls Newborn, Mia é uma criação adorável, pensada para acompanhar os pequenos na descoberta do mundo. A sua expressão facial detalhada e a alta qualidade das suas roupas e acessórios fazem de Mia uma óptima escolha para qualquer criança. O pacote de Mia inclui um macacão, sapatinhos, corrente de chupeta, fraldas e um biberão, o que significa que as crianças podem começar a brincar com Mia assim que a tirarem da caixa. Dimensão: 42 cm. Idade Recomendada: + de 3 anos.
-  Updated: 2025-10-25T12:10:08Z
+  Updated: 2025-10-26T00:09:47Z
   Vendor: Seleção Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -13158,6 +13165,13 @@ Figura com aproximadamente 10,8 cm.
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/boneco-recem-nascido-azul-42-cm-brinquedo-realista-575006323-2600000-brincatoys-1178697338.jpg?v=1752908302
   Price: 59,99 € EUR
+- [Boneca Mia Faz Xixi 42 cm: Brincadeira e Aprendizagem](https://brincatoys.pt/products/boneca-mia-faz-xixi-42-cm): A Boneca Mia faz Xixi 42 cm é perfeita para brincar e aprender! Proporcione momentos de ternura e cuidado com esta boneca adorável.
+  Updated: 2025-10-26T00:46:30Z
+  Vendor: Seleção Brincatoys
+  Product Type: + 3 anos
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/boneca-mia-faz-xixi-42-cm-brincadeira-e-aprendizagem-855016025-8435083650606-selecao-brincatoys-1199614920.jpg?v=1761407524
+  Price: 69,90 € EUR
 - [Jogo O Vale dos Vikings](https://brincatoys.pt/products/jogo-o-vale-dos-vikings): No Vale dos Vikings está a decorrer o concurso anual do bowling de barris. É preciso coragem e perícia para os jogadores usarem a bola para deixar cair ao chão os barris certos e posicionar inteligentemente os seus vikings no cais. O jogador que arriscar demais no cais e cair à água, vai-se embora de mãos a abanar. O jogador que conseguir recolher a maior quantidade de moedas de ouro, ganha! Para 2 a 4 jogadores dos 6 aos 99 anos. Inclui regra para variante a solo Dimensão: 22 x 31 x 7 cm. Idade Recomendada: + de 6 anos.
   Updated: 2025-10-25T10:43:26Z
   Vendor: Seleção Brincatoys
@@ -14045,14 +14059,14 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-de-brincar-ferrari-signature-laferrari-aperta-683690724-8719247461032-bburago-1178697926.jpg?v=1752916700
   Price: 28,90 € EUR
 - [Sweet Reborn Azul](https://brincatoys.pt/products/sweet-reborn-azul): O Sweet Reborn Azul é um bebé doce que vai gostar muito de brincar contigo. Ele usa um macacão macio para combinar com o chapéu com pompom.
-  Updated: 2025-10-25T12:17:43Z
+  Updated: 2025-10-26T00:09:46Z
   Vendor: Seleção Brincatoys
   Product Type: + 14 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/sweet-reborn-azul-578021923-brincatoys-1178697933.jpg?v=1752797300
   Price: 129,90 € EUR
 - [Sweet Reborn Rosa](https://brincatoys.pt/products/sweet-reborn-rosa): O Sweet Reborn Rosa é um bebé doce que vai gostar muito de brincar contigo. Ele usa um macacão macio para combinar com o chapéu com pompom e uma manta macia com bolinhas para acalmá-lo e abraçá-lo para dormir. Além disso, ele usa uma fralda como um bebé de verdade. Este doce recém-nascido parece um bebé de verdade, com todas as características de um bebé de verdade, tais como pele rosada e macia, as veias, a manicure… Tudo feito à mão, para que ele pareça um bebé. Possui corpo de vinil sexuado (feminino) com todos os detalhes de um bebé de verdade e é articulado. Pesa 1.090 gramas. mede 42 cm e vem acompanhado do seu certificado de autenticidade, com numeração única que garante a sua exclusividade. Dimensão: 48 x 17 x 28,50 cm. Idade Recomendada: + de 14 anos.
-  Updated: 2025-10-25T12:16:03Z
+  Updated: 2025-10-26T00:01:29Z
   Vendor: Seleção Brincatoys
   Product Type: + 14 anos
   Availability: Available
@@ -16777,7 +16791,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-star-wars-75396-desert-skiff-e-buraco-de-sarlacc-667539624-5702017584492-lego-1178700179.jpg?v=1752788164
   Price: 83,50 € EUR
 - [Lego Marvel 76286 - Guardiões da Galáxia: A Milano](https://brincatoys.pt/products/lego-marvel-guardioes-da-galaxia-a-milano): Explore o universo Marvel com o Lego Marvel 76286 - Guardiões da Galáxia: A Milano. Reviva as aventuras espaciais dos seus heróis favoritos.
-  Updated: 2025-10-13T06:18:04Z
+  Updated: 2025-10-26T01:14:39Z
   Vendor: LEGO
   Product Type: + 12 anos
   Availability: Available
@@ -17631,7 +17645,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/pista-de-carros-da-porquinha-peppa-corridas-emocionantes-853043724-4007486630437-peppa-pig-1178700820.jpg?v=1752785173
   Price: 39,99 € EUR
 - [Boneca Elegance verde com alcofa: Conforto e estilo para brincar](https://brincatoys.pt/products/boneca-elegance-verde-com-alcofa): Transporte a Boneca Elegance verde com alcofa para onde quiser, com muito conforto e estilo. Deixe a imaginação da sua criança voar! ✨
-  Updated: 2025-10-13T06:17:02Z
+  Updated: 2025-10-25T18:20:05Z
   Vendor: Seleção Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -19542,7 +19556,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/nenuco-rosa-com-3-funcoes-boneca-interativa-858500025-8056379165118-nenuco-1178698825.jpg?v=1752932649
   Price: 19,50 € EUR
 - [Boneca Creme 33 cm com Alcofa: Beleza e Conforto](https://brincatoys.pt/products/boneca-creme-com-alcofa): A Boneca Creme 33 cm com Alcofa encanta com feições delicadas e vestuário em algodão. Proporcione momentos de cuidado e carinho à sua criança!
-  Updated: 2025-10-13T06:14:50Z
+  Updated: 2025-10-25T18:55:30Z
   Vendor: Seleção Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -19744,6 +19758,13 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/cars-disney-doc-hudson-replica-die-cast-oficial-557219225-0887961721928-cars-1193924068.jpg?v=1758484323
   Price: 11,99 € EUR
+- [Figura de borracha – Rinoceronte Negro](https://brincatoys.pt/products/figura-de-borracha-rinoceronte-negro): Também conhecido como rinoceronte-de-lábios-gancho, o rinoceronte negro é um membro do gênero Diceros, endêmico das florestas, pântanos e regiões de savana semidesértica da África oriental e meridional. Dimensão: 14,50 x 3 x 6,75 cm. Idade recomendada: + de 3 anos.
+  Updated: 2025-10-26T05:22:44Z
+  Vendor: Seleção Brincatoys
+  Product Type: + 3 anos
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/rinoceronte-negro-432892923-brincatoys-1178695309.jpg?v=1752809403
+  Price: 9,99 € EUR
 - [Figura de borracha – Avó](https://brincatoys.pt/products/figura-de-borracha-avo): Apresentamos a figura Porquinha Peppa - Avó, uma adição encantadora para a coleção de brinquedos dos pequenos fãs da série de animação "Peppa Pig". Este boneco caracteriza-se pelo sorriso acolhedor e pela elegante vestimenta cor-de-rosa que remete ao familiar carácter da personagem. A qualidade do material PVC é notável, garantindo durabilidade e resistência ao brinquedo. Projetado atentamente para captar os detalhes da Avó Pig, o boneco apresenta um chapéu branco que complementa de forma perfeita o visual, transmitindo sofisticação e simpatia. Além disso, alude às aventuras vividas pela personagem na série, despertando a imaginação das crianças. Com os seus 10 centímetros de altura, o tamanho é ideal para as mãos pequenas, permite que as crianças criem histórias e recriem cenas da série. Ademais, a figura Porquinha Peppa - Avó é fabricado conforme as normativas de segurança da União Europeia, o que assegura que está livre de quaisquer substâncias nocivas, sendo completamente seguro para as crianças. Felizmente, este brinquedo também tem um papel educativo, pois estimula o desenvolvimento cognitivo das crianças através do jogo simbólico e da narrativa. Por fim é uma ferramenta perfeita para encorajar a expressão verbal e o desenvolvimento da linguagem. Em suma... Material durável PVC; Design fiel à personagem de "Peppa Pig"; Seguro e certificado pelas normas da UE; Estimula a imaginação e o desenvolvimento cognitivo; Dimensão: 8 x 6 x 3 cm. Idade Recomendada: + de 3 anos.
   Updated: 2025-10-13T06:14:39Z
   Vendor: Peppa Pig
@@ -20363,7 +20384,7 @@ Figura em borracha termoplástica do filme Branca de neve e os sete anões.Figur
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/transformers-age-of-the-primes-alchemist-prime-exclusivo-861026525-5010996327154-transformers-1184071130.jpg?v=1756214538
   Price: 36,50 € EUR
 - [Transformers Age of The Primes - Decepticon Crasher: Ação](https://brincatoys.pt/products/transformers-age-of-the-primes-decepticon-crasher): Desperte o colecionador em você com o Transformers Age of The Primes - Decepticon Crasher! A figura perfeita para batalhas épicas! 🚀
-  Updated: 2025-10-20T17:50:56Z
+  Updated: 2025-10-25T19:16:17Z
   Vendor: Transformers
   Product Type: + 8 anos
   Availability: Available
@@ -21312,8 +21333,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-23T19:10:53Z
   Total Products: 98
 - [Bonecas](https://brincatoys.pt/collections/bonecas)
-  Updated: 2025-10-24T11:21:26Z
-  Total Products: 246
+  Updated: 2025-10-25T16:36:06Z
+  Total Products: 248
 - [Bonecas clássicas](https://brincatoys.pt/collections/bonecas-classicas)
   Updated: 2025-10-25T13:35:02Z
   Total Products: 62
@@ -21321,7 +21342,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-19T09:15:46Z
   Total Products: 24
 - [Mundo Animal](https://brincatoys.pt/collections/bonecos-pvc-mundo-animal)
-  Updated: 2025-10-23T19:05:25Z
+  Updated: 2025-10-25T17:32:07Z
   Total Products: 156
 - [Mundo Fantasia](https://brincatoys.pt/collections/bonecos-disney-mundo-fantasia)
   Updated: 2025-10-23T19:12:53Z
@@ -21342,7 +21363,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-19T09:15:46Z
   Total Products: 45
 - [Veículos](https://brincatoys.pt/collections/carro-de-brinquedo)
-  Updated: 2025-10-25T11:19:50Z
+  Updated: 2025-10-25T17:34:32Z
   Total Products: 206
 - [Veículos de colecção](https://brincatoys.pt/collections/carro-de-brinquedo-colecao)
   Updated: 2025-10-25T11:34:07Z
@@ -21372,8 +21393,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-24T11:21:26Z
   Total Products: 325
 - [2 - 3 anos](https://brincatoys.pt/collections/2-3-anos)
-  Updated: 2025-10-25T15:19:37Z
-  Total Products: 1585
+  Updated: 2025-10-25T17:34:32Z
+  Total Products: 1587
 - [4 - 5 anos](https://brincatoys.pt/collections/4-5-anos)
   Updated: 2025-10-24T11:21:26Z
   Total Products: 704
@@ -21390,29 +21411,29 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-24T11:21:26Z
   Total Products: 127
 - [Até €15](https://brincatoys.pt/collections/ate-15)
-  Updated: 2025-10-24T17:37:26Z
-  Total Products: 1291
+  Updated: 2025-10-25T17:32:24Z
+  Total Products: 1292
 - [Até €25](https://brincatoys.pt/collections/ate-25)
-  Updated: 2025-10-25T11:36:15Z
-  Total Products: 2400
+  Updated: 2025-10-25T17:32:24Z
+  Total Products: 2403
 - [Até €35](https://brincatoys.pt/collections/ate-35)
-  Updated: 2025-10-25T11:36:15Z
-  Total Products: 2859
+  Updated: 2025-10-25T17:32:24Z
+  Total Products: 2864
 - [Até €50](https://brincatoys.pt/collections/ate-50)
-  Updated: 2025-10-25T11:36:15Z
-  Total Products: 3244
+  Updated: 2025-10-25T17:32:24Z
+  Total Products: 3249
 - [Até €60](https://brincatoys.pt/collections/ate-60)
-  Updated: 2025-10-25T11:36:15Z
-  Total Products: 3379
+  Updated: 2025-10-25T17:32:24Z
+  Total Products: 3384
 - [Até €80](https://brincatoys.pt/collections/ate-80)
-  Updated: 2025-10-25T15:18:27Z
-  Total Products: 3456
+  Updated: 2025-10-25T17:32:24Z
+  Total Products: 3465
 - [Até €100](https://brincatoys.pt/collections/ate-100)
-  Updated: 2025-10-25T15:18:27Z
-  Total Products: 3505
+  Updated: 2025-10-25T17:32:24Z
+  Total Products: 3514
 - [Novidades](https://brincatoys.pt/collections/novidades)
-  Updated: 2025-10-25T15:19:30Z
-  Total Products: 413
+  Updated: 2025-10-25T16:36:06Z
+  Total Products: 415
 - [Outlet](https://brincatoys.pt/collections/outlet): Oportunidades Outlet exclusivo online. Artigos limitados ao stock existente. Acumulável com outros descontos ou promoções.
   Updated: 2025-10-22T20:29:39Z
   Total Products: 50
@@ -21600,8 +21621,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-19T09:15:50Z
   Total Products: 9
 - [Catálogo](https://brincatoys.pt/collections/all)
-  Updated: 2025-10-25T15:18:27Z
-  Total Products: 3538
+  Updated: 2025-10-25T17:32:24Z
+  Total Products: 3547
 - [6 - 7 anos](https://brincatoys.pt/collections/6-7-anos)
   Updated: 2025-10-24T11:21:26Z
   Total Products: 285
@@ -21609,11 +21630,11 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-23T19:10:53Z
   Total Products: 189
 - [+ 2 anos](https://brincatoys.pt/collections/de-2-anos)
-  Updated: 2025-10-24T11:21:26Z
-  Total Products: 117
+  Updated: 2025-10-25T17:04:55Z
+  Total Products: 119
 - [+ 3 anos](https://brincatoys.pt/collections/de-3-anos)
-  Updated: 2025-10-25T11:19:50Z
-  Total Products: 1224
+  Updated: 2025-10-25T17:32:24Z
+  Total Products: 1232
 - [+ 4 anos](https://brincatoys.pt/collections/de-4-anos)
   Updated: 2025-10-24T11:21:26Z
   Total Products: 497
@@ -21636,11 +21657,11 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-25T15:18:27Z
   Total Products: 87
 - [Os mais procurados](https://brincatoys.pt/collections/os-mais-populares)
-  Updated: 2025-10-25T15:18:27Z
-  Total Products: 3539
+  Updated: 2025-10-25T17:32:24Z
+  Total Products: 3548
 - [Recém-chegados](https://brincatoys.pt/collections/recem-chegados)
-  Updated: 2025-10-25T15:18:27Z
-  Total Products: 3539
+  Updated: 2025-10-25T17:32:24Z
+  Total Products: 3548
 - [Produtos em destaque](https://brincatoys.pt/collections/produtos-em-destaque)
   Updated: 2025-10-22T11:22:51Z
   Total Products: 22
@@ -21651,8 +21672,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-19T09:15:50Z
   Total Products: 6
 - [OrderlyEmails - Recommended Products](https://brincatoys.pt/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-10-25T12:38:01Z
-  Total Products: 3053
+  Updated: 2025-10-25T17:32:24Z
+  Total Products: 3062
 - [Girafa Sofia](https://brincatoys.pt/collections/girafa-sofia)
   Updated: 2025-10-19T09:15:51Z
   Total Products: 19
@@ -21660,10 +21681,10 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-25T11:34:07Z
   Total Products: 125
 - [Marketplace](https://brincatoys.pt/collections/marketplace)
-  Updated: 2025-10-25T12:38:01Z
-  Total Products: 3053
+  Updated: 2025-10-25T17:32:24Z
+  Total Products: 3062
 - [EzConnector](https://brincatoys.pt/collections/ezconnector)
-  Updated: 2025-10-25T15:19:30Z
+  Updated: 2025-10-25T17:25:10Z
   Total Products: 919
 
 ## Blogs
