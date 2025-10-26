@@ -5,7 +5,7 @@
 - Currency: GBP
 - Timezone: Europe/London
 - Created At: 2025-10-23T14:12:32Z
-- Updated At: 2025-10-26T12:01:07.142Z
+- Updated At: 2025-10-26T16:00:48.337Z
 
 ## Products
 
@@ -764,7 +764,7 @@
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/12-ft-maternity-pillow-and-case-light-blue-248382.jpg?v=1761341368
   Price: £28.02 GBP
 - [Nail Art Sticker](https://glamorousboutique89.myshopify.com/products/nail-art-sticker): Effortless Nail Art in Seconds – No Salon Required!Transform your nails into stunning works of art with our Snake Skin Pattern Nail Art Stickers. Perfect for busy women who want salon-quality nails without the time, cost, or hassle!Why You'll Love These Stickers:✨ Instant Glamour: Achieve professional-looking nail art in minutes – just peel, stick, and go!🐍 Trendy Snake Skin Design: Eye-catching pattern that adds wild elegance and edge to any look.💪 Long-Lasting Wear: High-quality sticker material ensures your manicure stays flawless for days.💅 Generous Supply: 60g of nail stickers per box – enough for multiple applications and creative designs.🎨 Versatile Style: Perfect for special occasions, nights out, or adding flair to your everyday look.⏰ No Expiry Date: Use them whenever inspiration strikes – they're always ready when you are!How to Use: Clean and dry your nails Select your desired sticker design Peel and apply to nail surface Smooth out any bubbles and seal the edges Apply top coat for extra durability (optional) What's Included:📦 1 x Nail Art Sticker Set (60g)Perfect For: Parties, weddings, festivals, date nights, or anytime you want to make a statement with your nails!Say goodbye to expensive salon visits and hello to gorgeous nails at home. Add to basket now and unleash your inner nail artist!
-  Updated: 2025-10-26T01:45:21Z
+  Updated: 2025-10-26T13:45:25Z
   Vendor: Cashymart
   Product Type: Nails
   Availability: Available
@@ -1175,7 +1175,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/70a350aac89843baaf8a39745534b037-Max-Origin.webp?v=1761344356
     Price: £25.55 GBP
 - [Side Slit Round Neck Long Sleeve Sweatshirt](https://glamorousboutique89.myshopify.com/products/side-slit-round-neck-long-sleeve-sweatshirt): Features:Slit Stretch:Slightly stretchy Material composition:95%polyester,5%spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 28 48.8 19.3 M 28.3 50.8 19.7 L 28.7 52.8 20.1 XL 29.1 55.1 20.5
-  Updated: 2025-10-26T00:54:21Z
+  Updated: 2025-10-26T12:44:40Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1537,7 +1537,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/57ddf59f-7a71-40ee-971f-cb72dd93d144-Max-Origin.webp?v=1761344696
     Price: £32.51 GBP
 - [Oversized Chunky Knit Open Front Cardigan](https://glamorousboutique89.myshopify.com/products/oversized-chunky-knit-open-front-cardigan): Features:Cable-Knit Stretch:Slightly stretchy Material composition:95% polyester, 5% spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 28.3 45.7 18.9 M 28.7 47.2 19.3 L 29.1 48.8 19.7 XL 29.5 50.4 20.1 2XL 29.9 52 20.5
-  Updated: 2025-10-26T01:27:36Z
+  Updated: 2025-10-26T13:26:25Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1643,7 +1643,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/0f2c72ba89f443a59f26669a30d18631-Max-Origin.webp?v=1761344718
     Price: £23.63 GBP
 - [Merry Colorful Dot Detail Christmas Dolman Sweater](https://glamorousboutique89.myshopify.com/products/merry-colorful-dot-detail-christmas-dolman-sweater): Features:Basic style Stretch:Slightly stretchy Material composition:55% acrylic, 45% cotton Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 24.4 41.7 18.5 M 25.2 44.1 18.5 L 26 46.5 18.5 XL 26.8 49.6 18.5
-  Updated: 2025-10-26T05:21:00Z
+  Updated: 2025-10-26T16:00:38Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1811,7 +1811,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/dde4ed5b66da499bad2bb4944e8c4332-Max-Origin.webp?v=1761345613
     Price: £24.33 GBP
 - [Camo Print Leopard Trim Button Up Jacket](https://glamorousboutique89.myshopify.com/products/camo-print-leopard-trim-button-up-jacket): Features:Buttoned,Pocketed Thickness:Normal Body:Not lined Material composition:95% cotton, 5% elastane Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 23.6 41.7 19.5 M 24.4 44.1 19.7 L 25.2 46.5 19.9 XL 26 49.6 19.9
-  Updated: 2025-10-26T09:40:50Z
+  Updated: 2025-10-26T12:42:06Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1833,7 +1833,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/479f76cb0196459ebef488421b463a46-Max-Origin.webp?v=1761346986
     Price: £49.01 GBP
 - [Colorful Striped Detail V Neck Drop Shoulder Baggy Sweater](https://glamorousboutique89.myshopify.com/products/colorful-striped-detail-v-neck-drop-shoulder-baggy-sweater): Features:Ribbed Stretch:Slightly stretchy Material composition:100% acrylic Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 24.4 41.7 18.5 M 25.2 44.1 18.5 L 26 46.5 18.5 XL 26.8 49.6 18.5
-  Updated: 2025-10-26T09:40:41Z
+  Updated: 2025-10-26T12:20:50Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1901,7 +1901,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/d68aa5521e3b4bd1b4dbdb1521a5b4f2-Max-Origin.webp?v=1761347050
     Price: £23.33 GBP
 - [Letter Round Neck Sweatshirt](https://glamorousboutique89.myshopify.com/products/letter-round-neck-sweatshirt): Features:Ribbed,Basic style Stretch:Slightly stretchy Material composition:75% polyester, 20% viscose, 5% elastane Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 25.2 39.4 20.3 M 26 41.7 20.5 L 26.8 44.1 20.7 XL 27.6 47.2 20.7
-  Updated: 2025-10-26T09:40:36Z
+  Updated: 2025-10-26T12:20:36Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -3385,7 +3385,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/402a5a42f96e40ee80a82e658775fc0b-Max-Origin.webp?v=1761347580
     Price: £26.51 GBP
 - [MERRY Round Neck Christmas Sweatshirt](https://glamorousboutique89.myshopify.com/products/merry-round-neck-christmas-sweatshirt): Features:Basic style Stretch:Slightly stretchy Material composition:75% polyester, 20% viscose, 5% elastane Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 25.2 39.4 20.3 M 26 41.7 20.5 L 26.8 44.1 20.7 XL 27.6 47.2 20.7
-  Updated: 2025-10-26T00:54:24Z
+  Updated: 2025-10-26T12:20:40Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -3925,7 +3925,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/976851c36fc3431e87349f595a31175f-Max-Origin.webp?v=1761386675
     Price: £33.43 GBP
 - [Casual Plaid Button Detail Hoodie](https://glamorousboutique89.myshopify.com/products/casual-plaid-button-detail-hoodie): Features:Basic style Stretch:No stretch Material composition:95% polyester, 5% spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 26.8 39.4 21.3 M 27.2 40.9 21.7 L 27.6 43.3 22 XL 28 45.7 22.4 2XL 28.3 48 22.8
-  Updated: 2025-10-26T00:54:25Z
+  Updated: 2025-10-26T12:24:45Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -4495,7 +4495,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/ce942485-57ae-4aab-98be-d5dfa7a0b115-Max.webp?v=1761387650
     Price: £44.88 GBP
 - [Double Take Full Size Nutcracker Sequin Bow Decor Cardigan](https://glamorousboutique89.myshopify.com/products/double-take-full-size-nutcracker-sequin-bow-decor-cardigan): Features: Sequin, Bow Stretch: Moderate stretch Material composition: 100% acrylic Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Shoulder Bust Sleeve Length S/M 22.4 21.7 42.1 21.3 L/XL 23.2 23.2 46.1 21.3 2XL/3XL 24 24.8 50 21.3
-  Updated: 2025-10-26T10:08:45Z
+  Updated: 2025-10-26T15:30:15Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -4573,7 +4573,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/5901cd84-6eee-4b99-b632-0d0474280a03-Max.webp?v=1761430116
     Price: £32.83 GBP
 - [High Waist Wide Flare Pants](https://glamorousboutique89.myshopify.com/products/high-waist-wide-flare-pants): Features: Pocketed Sheer: Opaque Material composition: 80% polyurethane, 20% viscose Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Bottom Length Waist Hip S 41.3 27.6 40.9 M 41.7 29.5 42.9 L 42.1 31.5 44.9 XL 42.5 33.5 46.9 2XL 42.9 35.4 48.8
-  Updated: 2025-10-26T10:09:17Z
+  Updated: 2025-10-26T12:44:41Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -4761,7 +4761,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/2dfe46a0-d6cb-4489-bdc9-614ef49b5cc6-Max.webp?v=1761430178
     Price: £16.79 GBP
 - [Double Take Full Size Star Pattern Raw Edge Long Sleeve Sweater](https://glamorousboutique89.myshopify.com/products/double-take-full-size-star-pattern-raw-edge-long-sleeve-sweater): Features: Basic style, Raw Hem Stretch: Slightly stretchy Material composition: 55% cotton, 45% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Shoulder Bust Sleeve Length S/M 25.6 24.2 39.8 20.5 L/XL 26.4 25.8 43.7 20.5 2XL/3XL 27.2 27.4 47.6 20.5
-  Updated: 2025-10-26T10:10:08Z
+  Updated: 2025-10-26T13:45:15Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -4889,7 +4889,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/9263b178-4914-44df-b819-d6a676390601-Max.webp?v=1761430738
     Price: £19.00 GBP
 - [Snowman Christmas Zircon Drop Earrings](https://glamorousboutique89.myshopify.com/products/snowman-christmas-zircon-drop-earrings): Pieces:1-pair Material:18K Gold-Plated,Alloy,Zircon Care instructions:Avoid wearing during exercise, as sweat will react with the jewelry to produce silver chloride and copper sulfide, which causes the jewelry to deteriorate and corrode over time. Imported Product Measurements (Measurements by inches) & Size Conversion Size Actual Length Actual Width One Size 2.4 1.3
-  Updated: 2025-10-26T10:19:31Z
+  Updated: 2025-10-26T12:24:40Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5601,7 +5601,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/c7c24b3b381848ac9160ad6a30a0bc42-Max-Origin.webp?v=1761433491
     Price: £21.66 GBP
 - [Double Take Textured Quarter Zip Long Sleeve Dress](https://glamorousboutique89.myshopify.com/products/double-take-textured-quarter-zip-long-sleeve-dress): Features: Basic style Sheer: Opaque Stretch: Slightly stretchy Body: Not lined Material composition: 95% polyester, 5% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Length Shoulder Bust Sleeve Length S 36.6 14.6 37.8 24 M 37.2 15.1 40.2 24.4 L 37.8 15.6 42.5 24.8 XL 38.4 16.3 45.7 25.2 2XL 39 17 48.8 25.6
-  Updated: 2025-10-26T11:11:37Z
+  Updated: 2025-10-26T15:50:36Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5707,7 +5707,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/5d64df51-d329-40b0-b9a4-0c62c37e8b07-Max.webp?v=1761433587
     Price: £29.76 GBP
 - [Textured Notched Raglan Sleeve Sweatshirt](https://glamorousboutique89.myshopify.com/products/textured-notched-raglan-sleeve-sweatshirt): Features:Basic style Stretch:Slightly stretchy Material composition:95% polyester, 5% spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust S 24.8 39.4 M 25.2 40.9 L 25.6 43.3 XL 26 45.7 2XL 26.4 48
-  Updated: 2025-10-26T11:22:05Z
+  Updated: 2025-10-26T14:04:40Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5853,7 +5853,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/4e8e61a9471d4e0cac2ea6fdc873f7d0-Max-Origin.webp?v=1761433613
     Price: £24.12 GBP
 - [Leopard Round Neck Raglan Sleeve Sweatshirt](https://glamorousboutique89.myshopify.com/products/leopard-round-neck-raglan-sleeve-sweatshirt): Features:Basic style Stretch:Slightly stretchy Material composition:95% polyester, 5% spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 25.2 42.5 27.2 M 25.6 44.5 27.6 L 26 46.5 28 XL 26.4 49.2 28.3 2XL 26.8 52 28.7
-  Updated: 2025-10-26T03:53:20Z
+  Updated: 2025-10-26T15:50:30Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5979,7 +5979,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/9b25af2d77424c8d8c9eb3999bcb3d5a-Max-Origin.webp?v=1761438905
     Price: £29.36 GBP
 - [Men's Zip-Up Fleece Hoodie](https://glamorousboutique89.myshopify.com/products/mens-zip-up-fleece-hoodie): Features:Oversized,Pocketed,Zipper Stretch:Slightly stretchy Material composition:52% cotton, 48% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Shoulder Sleeve Length S 26.8 25.2 24 21.1 M 27.6 26 24.8 21.5 L 28.3 26.8 25.6 21.9 XL 29.1 27.6 26.4 22.2 2XL 29.9 28.3 27.2 22.6
-  Updated: 2025-10-26T00:54:29Z
+  Updated: 2025-10-26T12:35:40Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -6125,7 +6125,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/ed58b712-15fe-45c5-8e0f-c1228effb369-Max-Origin.webp?v=1761438926
     Price: £67.56 GBP
 - [Men's Plus Size Color Block Cable Knit Sweater](https://glamorousboutique89.myshopify.com/products/mens-plus-size-color-block-cable-knit-sweater): Features:Cable-Knit,Contrast Stitching Stretch:Slightly stretchy Material composition:70% nylon, 30% spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length M 25.2 36.2 22.8 L 26 37.8 23.2 XL 26.8 39.4 23.6 2XL 27.6 40.9 24 3XL 28.3 42.5 24.4 4XL 29.1 44.1 24.8
-  Updated: 2025-10-26T00:54:29Z
+  Updated: 2025-10-26T12:35:53Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -6203,7 +6203,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/17bb7883a8e042be8e6758f1b9f01112-Max-Origin.webp?v=1761438948
     Price: £39.40 GBP
 - [Men's Plus Size Big Box Graphic Casual T-Shirt](https://glamorousboutique89.myshopify.com/products/mens-plus-size-big-box-graphic-casual-t-shirt): Features:Basic style,Oversized Stretch:Slightly stretchy Material composition:100%cotton Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Shoulder Sleeve Length M 28 45.7 22 17.3 L 28.7 47.2 22.8 18.1 XL 29.5 48.8 23.6 18.5 2XL 30.3 50.4 24.4 18.9 3XL 31.1 52 25.2 19.3
-  Updated: 2025-10-26T04:40:40Z
+  Updated: 2025-10-26T12:36:12Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -6269,7 +6269,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/043589b1-53da-4db2-b1a8-d6e641260cce-Max-Origin.webp?v=1761438965
     Price: £27.09 GBP
 - [Men's Urban Style Round Neck T-Shirt](https://glamorousboutique89.myshopify.com/products/mens-urban-style-round-neck-t-shirt): Features:Oversized Stretch:Slightly stretchy Material composition:100% cotton Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Shoulder Sleeve Length M 26.8 44.1 20.7 8.7 L 27.6 44.9 21.3 9.1 XL 28.3 46.5 21.9 9.4 2XL 29.1 48 22.4 9.8
-  Updated: 2025-10-26T00:54:29Z
+  Updated: 2025-10-26T13:03:35Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -6307,7 +6307,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/e4d85ccc-639b-447b-9a3d-6b3694dfde69-Max-Origin.webp?v=1761438985
     Price: £42.34 GBP
 - [Men's Plus Size Casual Button Up Long Sleeve Shirt](https://glamorousboutique89.myshopify.com/products/mens-plus-size-casual-button-up-long-sleeve-shirt): Features:Oversized,Buttoned,Pocketed Stretch:No stretch Material composition:47% cotton, 43% polyester, 10% viscose Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length M 28 44.1 21.7 L 28.7 45.7 22 XL 29.5 47.2 22.4 2XL 30.3 48.8 22.8 3XL 30.7 50.4 23.2 4XL 31.1 52 23.6
-  Updated: 2025-10-26T00:54:29Z
+  Updated: 2025-10-26T12:36:51Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -6361,7 +6361,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/efb781feaf0a46bda627e271d20ce2ea-Max-Origin.webp?v=1761439006
     Price: £66.36 GBP
 - [Men's Full Size Striped Shoulder Relaxed Fit T-Shirt Plus Size](https://glamorousboutique89.myshopify.com/products/mens-full-size-striped-shoulder-relaxed-fit-t-shirt-plus-size): Features:Basic style,Oversized Stretch:Slightly stretchy Material composition:95%cotton,5%spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Shoulder Sleeve Length S 27.4 40.9 23.2 7.9 M 28 42.5 23.6 8.1 L 28.5 44.1 24 8.3 XL 29.1 45.7 24.4 8.5 2XL 29.7 47.2 24.8 8.7 3XL 30.3 48.8 25.2 8.9 4XL 30.9 50.4 25.6 9.1
-  Updated: 2025-10-26T00:54:29Z
+  Updated: 2025-10-26T12:37:16Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -6507,7 +6507,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/14d99110-2c7b-4277-a3cf-cf2c9cda2c34-Max-Origin.webp?v=1761439027
     Price: £38.88 GBP
 - [Men's Plus Size Casual Pocket Solid Color T-Shirt](https://glamorousboutique89.myshopify.com/products/mens-plus-size-casual-pocket-solid-color-t-shirt): Features:Basic style,Oversized,Pocketed Stretch:Slightly stretchy Material composition:95%cotton,5%spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Shoulder Sleeve Length M 27.2 41.3 20.3 8.5 L 28 43.3 20.9 8.7 XL 28.7 45.3 21.5 8.9 2XL 29.5 47.2 22 9.1 3XL 29.9 49.2 22.6 9.3 4XL 30.3 51.2 23.2 9.4
-  Updated: 2025-10-26T00:54:29Z
+  Updated: 2025-10-26T12:37:28Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -6537,7 +6537,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/3176bfd7-0744-4d2c-9bf7-3f7a6d3514e6-Max-Origin.webp?v=1761439045
     Price: £54.14 GBP
 - [Men's Letter Fuzzy Round Neck Sweater](https://glamorousboutique89.myshopify.com/products/mens-letter-fuzzy-round-neck-sweater): Features:Oversized Stretch:Slightly stretchy Material composition:95%polyester,5%spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length M 27.6 44.9 24.4 L 28 46.5 24.8 XL 28.3 48 25.2 2XL 28.7 49.6 25.6
-  Updated: 2025-10-26T00:54:30Z
+  Updated: 2025-10-26T12:37:47Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -6587,7 +6587,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/7f0727a9d35f4691a535d557060e56b1-Max-Origin.webp?v=1761439062
     Price: £41.55 GBP
 - [Men's Two-Tone Hooded Windproof Jacket](https://glamorousboutique89.myshopify.com/products/mens-two-tone-hooded-windproof-jacket): Features:Pocketed,Zipper Thickness:Normal Material composition:95%polyester,5%spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length M 25.6 42.5 31.8 L 26.4 44.1 32.6 XL 27.2 45.7 33.5 5XL 29.5 52 35.9
-  Updated: 2025-10-26T00:54:30Z
+  Updated: 2025-10-26T12:38:03Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -6625,7 +6625,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/18bc5ece94be4935891551cbb1ed3957-Max-Origin.webp?v=1761439078
     Price: £61.00 GBP
 - [Men's Plus Size Zip Up Contrast Long Sleeve Jacket](https://glamorousboutique89.myshopify.com/products/mens-plus-size-zip-up-contrast-long-sleeve-jacket): Features:Pocketed,Zipper Thickness:Normal Material composition:100%PU Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length M 26 47.2 21.7 L 26.8 48.8 22.2 XL 27.6 50.4 22.8 2XL 28.3 52 23.4 3XL 29.1 53.5 24
-  Updated: 2025-10-26T00:54:30Z
+  Updated: 2025-10-26T13:04:32Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -6671,7 +6671,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/1f7465b6-24fd-4e0f-b30a-a5187f63908c-Max-Origin.webp?v=1761439094
     Price: £52.10 GBP
 - [Men's Plus Size Waterproof Windproof Outdoor Hooded Jacket](https://glamorousboutique89.myshopify.com/products/mens-plus-size-waterproof-windproof-outdoor-hooded-jacket): Features:Pocketed,Zipper Thickness:Normal Material composition:100%polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length M 26.8 44.1 23.6 L 27.6 45.7 24.2 XL 28.3 47.2 24.8 2XL 29.1 48.8 25.4 3XL 29.9 50.4 26 4XL 30.7 52 26.6 5XL 31.5 53.5 27
-  Updated: 2025-10-26T00:54:30Z
+  Updated: 2025-10-26T12:38:43Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -6845,7 +6845,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/67eb63295b674a919dd1320309fb7865-Max-Origin.webp?v=1761439113
     Price: £48.64 GBP
 - [Men's Distressed Wash Denim Shorts](https://glamorousboutique89.myshopify.com/products/mens-distressed-wash-denim-shorts): Features:Distressed,Pocketed,Washed Stretch:Slightly stretchy Material composition:81.0% cotton, 19.0% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Bottom Length 28 28 41.5 20.1 29 29 42.5 20.1 30 30 43.5 20.5 31 31 44.5 20.5 32 32 45.5 20.9 33 33 46.5 20.9 34 34 47.5 21.3 36 36 49.5 22 38 38 51.5 22 40 39.6 53.4 22
-  Updated: 2025-10-26T00:54:30Z
+  Updated: 2025-10-26T12:38:57Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -6891,7 +6891,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/009d0615-95e7-45c4-8af7-28bda4bab463-Max-Origin.webp?v=1761439133
     Price: £68.47 GBP
 - [Men's Full Size Camouflage Loose Fit Jeans Plus Wize](https://glamorousboutique89.myshopify.com/products/mens-full-size-camouflage-loose-fit-jeans-plus-wize): Features:Pocketed Material composition:100% cotton Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Bottom Length S 28 40.2 39.8 M 29.5 41.7 40.2 L 31.1 43.3 40.6 XL 32.7 44.9 40.9 2XL 34.3 46.5 41.3 3XL 35.8 48 41.7
-  Updated: 2025-10-26T00:54:30Z
+  Updated: 2025-10-26T12:39:15Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -6921,7 +6921,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/015b2e38-1ce7-4243-9239-e77c9509ebd3-Max-Origin.webp?v=1761439152
     Price: £33.71 GBP
 - [Men's Vintage Wash Wide Leg Jeans](https://glamorousboutique89.myshopify.com/products/mens-vintage-wash-wide-leg-jeans): Features:Washed,Basic style Stretch:Slightly stretchy Material composition:100% cotton Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Bottom Length S 28.3 37.8 40.2 M 29.9 39.4 40.9 L 31.5 40.9 41.7 XL 33.1 42.5 42.5 2XL 34.6 44.1 42.5
-  Updated: 2025-10-26T00:54:30Z
+  Updated: 2025-10-26T12:39:37Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -6947,7 +6947,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/ad33560d9cc14f199adab2d1ffa894a7-Max-Origin.webp?v=1761439174
     Price: £51.56 GBP
 - [Men's Plus Size Vintage Wash Relaxed Fit Jeans](https://glamorousboutique89.myshopify.com/products/mens-plus-size-vintage-wash-relaxed-fit-jeans): Features:Washed Stretch:Slightly stretchy Material composition:100% cotton Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Bottom Length M 28 39.4 39.4 L 29.5 40.9 39.8 XL 31.1 42.5 40.2 2XL 32.7 44.1 40.6 3XL 34.3 45.7 40.9 4XL 35.8 47.2 41.3 5XL 37.4 48.8 41.7
-  Updated: 2025-10-26T00:54:30Z
+  Updated: 2025-10-26T12:39:59Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -6981,7 +6981,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/03699bd589fd4be7938bb97dec78f903-Max-Origin.webp?v=1761439193
     Price: £33.04 GBP
 - [Men's Plus Size Letter Round Neck Short Sleeve T-Shirt](https://glamorousboutique89.myshopify.com/products/mens-plus-size-letter-round-neck-short-sleeve-t-shirt): Features:Basic style,Oversized Stretch:Slightly stretchy Material composition:65% cotton, 35% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Shoulder Sleeve Length M 26 39.4 19.7 7.5 L 26.8 40.9 20.1 7.9 XL 27.6 42.5 20.5 8.1 2XL 28.3 44.1 20.9 8.5 3XL 28.7 45.7 21.3 8.9 4XL 29.1 47.2 21.7 9.1
-  Updated: 2025-10-26T00:54:30Z
+  Updated: 2025-10-26T12:40:46Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -7083,7 +7083,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/3696ea34-03bf-45e9-9108-9d933886ae29-Max-Origin.webp?v=1761439237
     Price: £37.47 GBP
 - [Men's Plus Size Round Neck Short Sleeve T-Shirt](https://glamorousboutique89.myshopify.com/products/mens-plus-size-round-neck-short-sleeve-t-shirt): Features:Basic style,Lightweight Stretch:Slightly stretchy Material composition:65% cotton, 35% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Shoulder Sleeve Length M 26.8 20.5 20.3 9.1 L 27.6 21.3 21.1 9.3 XL 28.3 22 21.9 9.4 2XL 29.1 22.8 22.4 9.6 3XL 29.5 23.6 23 9.8 4XL 29.9 24.4 23.6 10
-  Updated: 2025-10-26T00:54:30Z
+  Updated: 2025-10-26T12:41:03Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -7185,7 +7185,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/540f66bc-2efb-4f2e-acaf-6a07b642542f-Max-Origin.webp?v=1761439254
     Price: £47.20 GBP
 - [Men's Graphic Round Neck Short Sleeve T-Shirt](https://glamorousboutique89.myshopify.com/products/mens-graphic-round-neck-short-sleeve-t-shirt): Features:Basic style,Oversized Stretch:Slightly stretchy Material composition:95%cotton,5%spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Shoulder Sleeve Length M 24.4 46.5 23.6 9.1 L 25.2 47.2 24.4 9.6 XL 26 48.8 25.2 9.8 2XL 26.8 50.4 26 10
-  Updated: 2025-10-26T00:54:31Z
+  Updated: 2025-10-26T12:41:17Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -7223,7 +7223,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/24cddaa4-4a95-4858-bf78-cb5a194d80e1-Max-Origin.webp?v=1761439272
     Price: £63.14 GBP
 - [Double Take Full Size Checkered Dropped Shoulder Cardigan](https://glamorousboutique89.myshopify.com/products/double-take-full-size-checkered-dropped-shoulder-cardigan): Features: Buttoned Stretch: Slightly stretchy Material composition: 100% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length Shoulder S/M 24.8 43.3 20.9 24.4 L/XL 25.6 47.2 20.9 26 2XL/3XL 26.4 51.2 20.9 27.6
-  Updated: 2025-10-26T06:15:15Z
+  Updated: 2025-10-26T12:42:28Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -7253,14 +7253,14 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/0e0a7ac2-e1bd-470d-ba83-b707d232444b-Max.webp?v=1761439344
     Price: £27.84 GBP
 - [Christmas Snowflake Dangle Earrings](https://glamorousboutique89.myshopify.com/products/christmas-snowflake-dangle-earrings): Pieces:1-pair Material:Alloy,Rhinestone,Silver-plated Care instructions:Avoid wearing during exercise, as sweat will react with the jewelry to produce silver chloride and copper sulfide, which causes the jewelry to deteriorate and corrode over time. Imported Product Measurements (Measurements by inches) & Size Conversion Size Actual Length onesize 1.9
-  Updated: 2025-10-26T00:54:31Z
+  Updated: 2025-10-26T12:43:11Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/5fa73219-d103-47be-b475-bbc86adff6e7-Max-Origin.webp?v=1761439387
   Price: £6.22 GBP
 - [18K Gold-Plated Lion Head Medallion Drop Earrings](https://glamorousboutique89.myshopify.com/products/18k-gold-plated-lion-head-medallion-drop-earrings): Pieces:1-pair Material:18K Gold-Plated,Alloy Care instructions:Avoid wearing during exercise, as sweat will react with the jewelry to produce silver chloride and copper sulfide, which causes the jewelry to deteriorate and corrode over time. Imported Product Measurements (Measurements by inches) & Size Conversion Size Actual Length onesize 2.2
-  Updated: 2025-10-26T00:54:31Z
+  Updated: 2025-10-26T12:43:27Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
