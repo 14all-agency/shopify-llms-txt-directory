@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2018-01-12T21:20:39Z
 - Contact Email: contact@ma-boutique-henne.com
-- Updated At: 2025-10-25T20:00:48.382Z
+- Updated At: 2025-10-26T00:00:51.143Z
 
 ## Products
 
@@ -723,7 +723,7 @@
   Image: https://cdn.shopify.com/s/files/1/2730/3378/products/cald-500x717.jpg?v=1598882776
   Price: 9,50 € EUR
 - [Henné Rouge Violine (Froid) - Le Erbe Di Janas](https://ma-boutique-henne.com/products/henne-rouge-violine-froid-le-erbe-di-janas): Henné Rouge Violine Froid Le Erbe di Janas, henne rosso freddo, coloration rouge cerise, henné violine,  soigne et apaise le cuir chevelu, brillance, volume, couvre cheveux blancs et gris, brillance cheveux châtains , soin capillaire et coloration, naturelle, plantes henné, éclaircir, gaine, nourrit, henné d'algérie
-  Updated: 2025-10-24T08:30:55Z
+  Updated: 2025-10-25T23:02:25Z
   Vendor: Ma Boutique Henné
   Product Type: Henné
   Availability: Available
