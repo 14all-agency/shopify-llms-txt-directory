@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2023-11-06T10:53:38Z
 - Contact Email: theworldofnerdscustomer@gmail.com
-- Updated At: 2025-10-26T04:01:06.473Z
+- Updated At: 2025-10-26T12:01:20.416Z
 
 ## Products
 
@@ -2468,7 +2468,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitled_4fead971-0915-460c-8e82-22c303c66da2.png?v=1731136968
   Price: ₹2,999.00 INR
 - [SOLIDO 1:43 ALPINA B6 3.5S 3430CCM 6CYL](https://theworldofnerds.com/products/solido-1-43-alpina-b6-3-5s-3430ccm-6cyl): Discover the beauty of precision with the SOLIDO 1:43 Alpina B6 3.5S 3430CCM 6CYL model. This intricately detailed die-cast replica highlights the elegance and power of Alpina’s iconic 3.5-liter, 6-cylinder engine. Designed for enthusiasts, it captures the essence of this high-performance luxury car. Enhance your collection with this stunning Alpina masterpiece! This model boasts authentic detailing and high-quality construction, perfect for display or play.
-  Updated: 2025-07-29T05:11:49Z
+  Updated: 2025-10-26T10:11:21Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -4603,10 +4603,10 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitleddesign_12.jpg?v=1738747805
   Price: ₹599.00 INR
 - [HOT WHEELS FORD MUSTANG DARK HORSE](https://theworldofnerds.com/products/hot-wheels-ford-mustang-dark-horse): Discover the sleek and powerful HOT WHEELS FORD MUSTANG DARK HORSE. This collectible die-cast car boasts exquisite detailing and a fierce design, perfect for any car enthusiast. With its high-quality craftsmanship and iconic brand, this Mustang is a must-have for any collection.
-  Updated: 2025-10-26T01:41:46Z
+  Updated: 2025-10-26T07:26:57Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitleddesign_10_43251284-947f-4ee1-8daf-7be0e074a933.jpg?v=1738747872
   Price: ₹399.00 INR
 - [HOT WHEELS 1966 TRIUMPH TIGER 100](https://theworldofnerds.com/products/hot-wheels-1966-triumph-tiger-100): Experience the classic style and power of the HOT WHEELS 1966 TRIUMPH TIGER 100. With its sleek design and iconic features, this car is sure to impress any collector or enthusiast. Perfect for display or high-speed racing, this model is a must-have for any vintage car lover.
@@ -5905,7 +5905,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC8031copy.jpg?v=1740217978
   Price: ₹150.00 INR
 - [ZEBRA](https://theworldofnerds.com/products/zebra): The ZEBRA toy is a fun and educational tool for young minds. Made with high-quality materials, it promotes imagination and fine motor skills in children. With its unique design and durability, it is sure to bring joy and entertainment to any child. Add the ZEBRA toy to your collection of educational toys today.
-  Updated: 2025-07-29T05:13:53Z
+  Updated: 2025-10-26T06:02:01Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -7396,7 +7396,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_8e3f4ee2-a374-40cc-aab9-07ec7758a89e.jpg?v=1742383595
   Price: ₹999.00 INR
 - [GOKU D2 ACTION FIGURE](https://theworldofnerds.com/products/goku-d2-action-figure): This GOKU D2 action figure is a must-have for any fan of the popular anime series. Crafted with stunning attention to detail, it brings the beloved character to life in your hands. Made with high-quality materials, it is a durable and collectible addition to any anime collection.
-  Updated: 2025-07-29T05:14:35Z
+  Updated: 2025-10-26T04:05:18Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -8677,7 +8677,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/2_24aa2872-394e-4d08-b089-3cb7d2d124e8.jpg?v=1751888954
   Price: ₹749.00 INR
 - [Minato Namikaze Figure with Hokage Cloak](https://theworldofnerds.com/products/minato-namikaze-figure-with-hokage-cloak): Unleash the legendary power of the Yellow Flash with this highly detailed Minato Namikaze action figure, featuring his iconic Hokage cloak and kunai pose. Standing at approximately 17 cm, this collectible captures the essence of the Fourth Hokage with anime-accurate styling and craftsmanship. A perfect addition for Naruto collectors and fans of the Hidden Leaf’s greatest hero.
-  Updated: 2025-07-29T05:15:18Z
+  Updated: 2025-10-26T11:46:43Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -9468,14 +9468,14 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_e283126d-3312-4669-af53-e8803ee6051b.jpg?v=1756452352
   Price: ₹119.00 INR
 - [Pokémon Gengar Keychain – Iconic Ghost-Type Pokémon Artwork](https://theworldofnerds.com/products/pokemon-gengar-keychain-iconic-ghost-type-pokemon-artwork): This Pokémon Gengar keychain showcases the mischievous and playful nature of the iconic Ghost-type Pokémon. With bold, striking artwork, it captures Gengar’s unique charm and sinister grin. A perfect accessory for any Pokémon fan or collector, this keychain brings the spooky energy of Gengar to life. Whether you're a fan of the games, anime, or both, this keychain is an essential piece for your Pokémon collection.
-  Updated: 2025-10-25T19:33:21Z
+  Updated: 2025-10-26T04:16:11Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_1168d1a8-c5fe-486e-a01d-400ddab916e9.jpg?v=1756452411
   Price: ₹119.00 INR
 - [Pokémon Charizard Keychain – Featuring Charizard and Poké Balls](https://theworldofnerds.com/products/pokemon-charizard-keychain-featuring-charizard-and-poke-balls): Ignite your Pokémon collection with this Charizard keychain, designed with bold artwork that showcases Charizard’s fiery spirit. Featuring Charizard on one side and Poké Balls on the other, this keychain captures the essence of the franchise’s adventure and excitement. A great accessory for any Pokémon lover, it’s the perfect way to carry your favorite Fire-type Pokémon with you wherever you go!
-  Updated: 2025-10-25T19:33:20Z
+  Updated: 2025-10-26T04:16:11Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -10389,7 +10389,7 @@
   Updated: 2025-10-19T11:11:51Z
   Total Products: 10
 - [HOTWHEELS MAINLINE](https://theworldofnerds.com/collections/hotwheels-mainline): Unleash the thrill of racing with Hot Wheels cars, the ultimate choice for car enthusiasts and collectors alike! Each die-cast vehicle is expertly designed with vibrant colors, intricate details, and a variety of styles—from classic muscle cars to futuristic speedsters. With their iconic wheels and impressive designs, Hot Wheels cars are perfect for racing on tracks or displaying in your collection. Whether you’re a young racer or a seasoned collector, Hot Wheels brings the excitement of the open road to life, inspiring imagination and adventure with every turn. Get ready to speed into action with these legendary toys!
-  Updated: 2025-10-25T11:13:36Z
+  Updated: 2025-10-26T11:12:48Z
   Total Products: 100
 - [KIDS CAMERA](https://theworldofnerds.com/collections/kids-camera): A kids’ camera toy is like giving your little one their very own way to capture the world! Made with bright colors and soft, durable materials, these cameras are super easy for small hands to use. They let kids snap photos, shoot videos, and sometimes even play fun games all while letting them feel like a little photographer. Some even come with cool filters and cute accessories, so they can get creative with their shots. It’s the perfect way to spark their imagination and let them see the world in a whole new way, all while having a blast!
   Updated: 2025-08-12T11:12:51Z
@@ -10398,7 +10398,7 @@
   Updated: 2025-10-20T11:11:47Z
   Total Products: 101
 - [KEYCHAINS](https://theworldofnerds.com/collections/keychains): Add a touch of personality to your keys with our vibrant character keychains! These keychains are made from high-quality, durable material and feature various adorable designs that cater to all ages. Our keychains are lightweight and available in multiple colors and styles, perfect for everyday use or as a charming gift. Explore our collection to find your favorite character and enjoy the perfect blend of functionality and fun. Whether you want to express your unique style or seek the ideal gift, shop now and elevate your key collection game.
-  Updated: 2025-10-25T11:13:36Z
+  Updated: 2025-10-26T11:12:48Z
   Total Products: 264
 - [Q Poskets](https://theworldofnerds.com/collections/q-poskets): Bring your favorite characters to life with Q Poskets! These adorable, highly detailed figures capture the charm and personality of iconic anime and manga characters in a unique, stylized form. Known for their cute, wide-eyed expressions and vibrant colors, Q Poskets are perfect for collectors and fans alike. Each figure is carefully crafted with attention to detail, making them a must-have addition to any collection. Whether you're a fan of classic anime or the latest releases, Q Poskets are the perfect way to display your love for your favorite characters!
   Updated: 2025-09-18T11:12:05Z
@@ -10449,10 +10449,10 @@
   Updated: 2025-09-04T11:12:40Z
   Total Products: 21
 - [ALL DIECAST CAR'S](https://theworldofnerds.com/collections/diecast-cars): A diecast car toy is a little masterpiece on wheels! Made from metal alloys, these toys are miniature versions of real cars, and they’re built to last. They come with super detailed features like realistic paint jobs, decals, and sometimes even movable parts like doors or wheels. Whether you’re into collecting or just love cars, diecast toys are great for both display and play. They come in different sizes, so you can choose one that fits perfectly on your shelf or in your hands. With their awesome craftsmanship, each car feels like a mini version of the real thing!
-  Updated: 2025-10-25T11:13:36Z
+  Updated: 2025-10-26T11:12:48Z
   Total Products: 349
 - [ANIME](https://theworldofnerds.com/collections/anime): Anime toys are like little pieces of your favorite shows that you can hold in your hands! Whether it’s a cool action figure, a cute plushie, or a stunning statue, these toys are made with awesome attention to detail, capturing the unique style and personality of beloved characters. They’re perfect for showing off your love for a certain anime or just adding a bit of fun to your space. Each one is made to bring a bit of that anime magic into the real world—whether you want to display them on a shelf, keep them close, or even take them on little adventures! If you’re a fan, these toys let you connect with the anime you love in a whole new way.
-  Updated: 2025-10-20T11:11:47Z
+  Updated: 2025-10-26T11:12:48Z
   Total Products: 104
 - [MAISTO DIECAST CAR'S](https://theworldofnerds.com/collections/maisto): Get ready to rev up your collection with Maisto Diecast Cars! Known for their exceptional craftsmanship and attention to detail, Maisto diecast cars offer a perfect blend of realism and durability. From sleek sports cars to classic vintage models, each car is carefully crafted with realistic features, intricate designs, and vibrant finishes. Whether you’re a passionate car collector or simply a fan of fine models, Maisto cars are built to impress and are ideal for display, gifting, or adding to your collection. Start your Maisto journey today and experience the ultimate in diecast car excellence!
   Updated: 2025-08-09T11:09:43Z
@@ -10482,7 +10482,7 @@
   Updated: 2025-07-29T05:10:30Z
   Total Products: 24
 - [RMZ CITY](https://theworldofnerds.com/collections/rmz-city): Explore the world of detailed diecast models with RMZ City! Known for their exceptional quality and precision, RMZ City offers a wide range of miniature vehicles, from sleek sports cars to classic trucks and everyday vehicles. Each model is designed with intricate details, including realistic paint finishes, moving parts, and high-quality construction. Perfect for collectors, enthusiasts, or anyone who loves finely crafted vehicles, RMZ City brings the excitement of the automotive world to your shelves. Add a touch of realism and style to your collection with these impressive diecast models.
-  Updated: 2025-10-19T11:11:51Z
+  Updated: 2025-10-26T11:12:48Z
   Total Products: 80
 - [BANPRESTO](https://theworldofnerds.com/collections/bandpresto): Explore the world of Banpresto, a renowned brand known for its high-quality, collectible figures inspired by your favorite anime, video games, and pop culture icons. Whether you’re a passionate anime fan or a dedicated collector, Banpresto figures offer exceptional detail and craftsmanship that bring beloved characters to life. From stunning action figures to adorable chibi-style collectibles, each piece is designed to capture the essence of the characters you love. Add a touch of anime and gaming culture to your space with Banpresto's vibrant and dynamic figures that are perfect for display or gifting.
   Updated: 2025-09-09T13:14:37Z
@@ -10500,7 +10500,7 @@
   Updated: 2025-08-12T11:12:51Z
   Total Products: 3
 - [ALL KEYCHAIN](https://theworldofnerds.com/collections/all-keychain): Unlock your style with our collection of unique and customizable keychains! Whether you’re looking for fun, quirky designs or sleek, minimalist accessories, we have keychains to suit every personality. Perfect for holding your keys, adding a touch of charm to your bags, or giving as thoughtful gifts, our keychains are as functional as they are fashionable. Browse through our wide selection and find the perfect keychain to express your style!
-  Updated: 2025-10-25T11:13:36Z
+  Updated: 2025-10-26T11:12:48Z
   Total Products: 300
 - [CARTOON KEYCHAINS](https://theworldofnerds.com/collections/cartoon-keychains): Add some fun and personality to your keys with our vibrant collection of cartoon keychains! Featuring your favorite animated characters, these keychains are the perfect way to showcase your love for beloved cartoons. Made with high-quality materials and colorful designs, each keychain is a delightful accessory that will brighten up your day. Whether you're a fan of classic cartoons, modern favorites, or quirky characters, our collection has something for everyone. Ideal for gifting, collecting, or adding a playful touch to your everyday essentials, these cartoon keychains are sure to bring a smile wherever you go!
   Updated: 2025-10-24T11:12:39Z
@@ -10509,7 +10509,7 @@
   Updated: 2025-10-19T11:11:51Z
   Total Products: 34
 - [ANIME KEYCHAIN](https://theworldofnerds.com/collections/anime-keychain): Show your love for anime with our exclusive collection of Anime Keychains! Featuring your favorite characters from popular anime series, these keychains are the perfect way to carry a piece of your fandom wherever you go. Made with vibrant colors and high-quality materials, each keychain is designed to showcase the iconic heroes, villains, and moments that make anime so unforgettable. Whether you’re looking to add some personality to your bag, keys, or accessories, our anime keychains are the perfect way to express your passion for the world of anime!
-  Updated: 2025-10-25T11:13:36Z
+  Updated: 2025-10-26T11:12:48Z
   Total Products: 143
 - [SPORTS KEYCHAIN](https://theworldofnerds.com/collections/sports-keychain): Show off your love for sports with our collection of Sports Keychains! Whether you're a fan of football, basketball, soccer, or any other sport, these keychains are the perfect way to carry a symbol of your favorite game with you. Crafted with attention to detail and durable materials, each keychain features iconic sports equipment, team logos, or action-packed designs that will make a bold statement. Perfect for athletes, fans, or anyone who loves the thrill of the game, these sports keychains are a great addition to your everyday essentials or make an ideal gift for the sports enthusiast in your life.
   Updated: 2025-07-29T05:10:30Z
@@ -10527,10 +10527,10 @@
   Updated: 2025-07-29T05:10:31Z
   Total Products: 4
 - [ALL HOT WHEELS](https://theworldofnerds.com/collections/all-hot-wheels-1): Rev up your collection with our exciting selection of Hot Wheels cars and accessories! From classic die-cast vehicles to exclusive limited-edition models, our collection brings the thrill of high-speed racing and vibrant designs right to your fingertips. Perfect for collectors and kids alike, each Hot Wheels car is crafted with intricate details and built for fast fun. Explore our range of iconic cars, customizable tracks, and themed sets, and race into action with the ultimate Hot Wheels experience. Fasten your seatbelt and let the adventures begin.
-  Updated: 2025-10-25T11:13:36Z
+  Updated: 2025-10-26T11:12:48Z
   Total Products: 135
 - [SHOP BY MERCHANDISE](https://theworldofnerds.com/collections/anime-action-figures): Explore our exclusive collection of nerd-inspired merchandise, carefully curated for fans of all things geeky! Whether you're into gaming, comics, anime, or pop culture, we have something special for you. Browse through categories like apparel, collectibles, accessories, and home decor to find the perfect addition to your collection. Level up your fandom with high-quality products designed for true enthusiasts. Start shopping now and bring your favorite worlds to life!
-  Updated: 2025-10-25T11:13:36Z
+  Updated: 2025-10-26T11:12:48Z
   Total Products: 473
 - [MAISTO BIKE SCALE 1:6](https://theworldofnerds.com/collections/maisto-scale-1-6): Step up your collection with the impressive Maisto 1:6 Scale Bikes! Known for their exceptional attention to detail and craftsmanship, Maisto offers highly realistic, fully-functional diecast models that are perfect for motorcycle enthusiasts and collectors. With a scale of 1:6, these bikes are larger and packed with intricate features like movable parts, detailed engines, and authentic finishes. From sportbikes to choppers, Maisto’s 1:6 scale bikes are the ultimate way to showcase your love for motorcycles. Whether displayed on a shelf or added to your collection, these models are built to impress.
   Updated: 2025-09-07T11:12:05Z
@@ -10608,7 +10608,7 @@
   Updated: 2025-10-20T11:11:47Z
   Total Products: 49
 - [SHOP ALL BY MERCHANDISE](https://theworldofnerds.com/collections/shop-all-by-merchandise): New arrivals are here! Explore the latest action figures, Funko Pop! collectibles, keychains, and more—perfect for every fan and collector. Whether you're hunting for rare finds, adding to your collection, or looking for the perfect gift, our newest merchandise has something for everyone. Shop now and grab your favorites before they’re gone!" 🎉🔥
-  Updated: 2025-10-25T11:13:36Z
+  Updated: 2025-10-26T11:12:48Z
   Total Products: 959
 - [MARVEL](https://theworldofnerds.com/collections/marvel): "Unleash the power of the Marvel Universe with our latest collection of action figures, Funko Pop! collectibles, keychains, and more! From legendary heroes like Spider-Man, Iron Man, Thor, and Captain America to iconic villains like Thanos and Loki, these high-quality collectibles bring the epic battles and stories of Marvel to life. Whether you're a die-hard fan or a passionate collector, now’s your chance to assemble your favorite characters and celebrate the legacy of Marvel. Shop now and bring the action home!" 🦸♂️⚡🔥
   Updated: 2025-10-19T11:11:51Z
@@ -10626,7 +10626,7 @@
   Updated: 2025-07-29T05:10:33Z
   Total Products: 1
 - [NEW ARRIVALS 📢](https://theworldofnerds.com/collections/new-arrivals-📢): New arrivals just dropped! Explore a fresh selection of high-quality die-cast cars and collectibles, perfect for expanding your collection or finding that one special piece. Whether you're a passionate collector or just starting out, our latest additions feature stunning details, unique designs, and limited-edition finds that you won’t want to miss. Grab yours now before they sell out!" 🚗✨
-  Updated: 2025-10-24T11:12:39Z
+  Updated: 2025-10-26T11:12:48Z
   Total Products: 281
 - [Light Boxes](https://theworldofnerds.com/collections/light-boxes)
   Updated: 2025-10-06T11:11:10Z
@@ -10641,7 +10641,7 @@
   Updated: 2025-10-24T04:57:52Z
   Total Products: 17
 - [ALL ANIME MERCHANDISE](https://theworldofnerds.com/collections/all-anime-merchandise)
-  Updated: 2025-10-25T11:13:36Z
+  Updated: 2025-10-26T11:12:48Z
   Total Products: 417
 
 ## Store Pages
