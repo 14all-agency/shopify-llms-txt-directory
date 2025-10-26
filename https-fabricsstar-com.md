@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-07-19T18:27:19Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-10-26T08:00:38.385Z
+- Updated At: 2025-10-26T16:00:52.385Z
 
 ## Products
 
@@ -3109,7 +3109,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/CAMBRIDGE-PURPLE-551-1.jpg?v=1757517618
     Price: $1.00 USD
 - [Vails Brocade Velvet Fabric, 72" Wide for Home Decor](https://fabricsstar.com/products/vails-brocade-velvet-fabric-72-inch-in-width-ideal-for-home-decor): Shop Vails Brocade Velvet Fabric, 72 Inch in Width. Ideal embossed material sold by the yard, cut to order for all your home decor needs.
-  Updated: 2025-10-23T20:17:10Z
+  Updated: 2025-10-26T14:16:35Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -9476,145 +9476,145 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/WALDORF-GREY-206.jpg?v=1757518830
     Price: $1.00 USD
-- [VELUXE Soft Velvet Fabric, 72 Inch. in Width, Ideal Material for Home Décor](https://fabricsstar.com/products/veluxe-soft-velvet-fabric-72-inch-in-width-ideal-material-for-home-decor): DIMENSION - Size of the velvet fabric is 72 Inch. in width. Cut by the Yard Velvet Fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 72' x 36'. Order of 3 yards (Qty=3) is 72' x 108' Orders can be customized to be cut in pieces by request SIZE: Soft velvet fabric comes in 72 inch. in width making it the perfect choice for various oversize needs, such as wide tablecloths, upholstery for big coaches etc. MATERIAL - Velvet fabric by the yard is heavyweight and made of 100% polyester. It's soft to the touch and gives a warm and cozy feeling. Wash with lukewarm water, no dryerUSEFUL - Ideal Velvet Material for Upholstery fabric for Coaches and chairs, drapery, pillows, slipcovers, tablecloths, sewing, DIY, handbags, tote bags, arts & crafts Etc Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor.
-  Updated: 2025-10-23T20:17:56Z
+- [VELUXE Soft Velvet Fabric, 72 Inch. in Width, Ideal Material for Home](https://fabricsstar.com/products/veluxe-soft-velvet-fabric): DIMENSION - Size of the velvet fabric is 72 Inch. in width. Cut by the Yard Velvet Fabric is sold by the yard and cut to order. For example, the order of 1 yard
+  Updated: 2025-10-26T15:00:41Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/VELUXE-COLOR-LINE.jpg?v=1757518833
-  - [Black / Cut by the Yard](https://fabricsstar.com/products/veluxe-soft-velvet-fabric-72-inch-in-width-ideal-material-for-home-decor?variant=51012315840793)
+  - [Black / Cut by the Yard](https://fabricsstar.com/products/veluxe-soft-velvet-fabric?variant=51012315840793)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/VELUXE-BLACK-B17-1.jpg?v=1757518854
     Price: $19.80 USD
-  - [Black / Sample 3x3 Inch](https://fabricsstar.com/products/veluxe-soft-velvet-fabric-72-inch-in-width-ideal-material-for-home-decor?variant=51012315873561)
+  - [Black / Sample 3x3 Inch](https://fabricsstar.com/products/veluxe-soft-velvet-fabric?variant=51012315873561)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/VELUXE-BLACK-B17-1.jpg?v=1757518854
     Price: $1.00 USD
-  - [Antique White / Cut by the Yard](https://fabricsstar.com/products/veluxe-soft-velvet-fabric-72-inch-in-width-ideal-material-for-home-decor?variant=51012315906329)
+  - [Antique White / Cut by the Yard](https://fabricsstar.com/products/veluxe-soft-velvet-fabric?variant=51012315906329)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/VELUXE-ANT-WHITE-N06-1.jpg?v=1757518858
     Price: $19.80 USD
-  - [Antique White / Sample 3x3 Inch](https://fabricsstar.com/products/veluxe-soft-velvet-fabric-72-inch-in-width-ideal-material-for-home-decor?variant=51012315939097)
+  - [Antique White / Sample 3x3 Inch](https://fabricsstar.com/products/veluxe-soft-velvet-fabric?variant=51012315939097)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/VELUXE-ANT-WHITE-N06-1.jpg?v=1757518858
     Price: $1.00 USD
-  - [Coral / Cut by the Yard](https://fabricsstar.com/products/veluxe-soft-velvet-fabric-72-inch-in-width-ideal-material-for-home-decor?variant=51012315971865)
+  - [Coral / Cut by the Yard](https://fabricsstar.com/products/veluxe-soft-velvet-fabric?variant=51012315971865)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/VELUXE-CORAL-10-1.jpg?v=1757518855
     Price: $19.80 USD
-  - [Coral / Sample 3x3 Inch](https://fabricsstar.com/products/veluxe-soft-velvet-fabric-72-inch-in-width-ideal-material-for-home-decor?variant=51012316004633)
+  - [Coral / Sample 3x3 Inch](https://fabricsstar.com/products/veluxe-soft-velvet-fabric?variant=51012316004633)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/VELUXE-CORAL-10-1.jpg?v=1757518855
     Price: $1.00 USD
-  - [Deer / Cut by the Yard](https://fabricsstar.com/products/veluxe-soft-velvet-fabric-72-inch-in-width-ideal-material-for-home-decor?variant=51012316037401)
+  - [Deer / Cut by the Yard](https://fabricsstar.com/products/veluxe-soft-velvet-fabric?variant=51012316037401)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/VELUXE-DEER-001J-1.jpg?v=1757518851
     Price: $19.80 USD
-  - [Deer / Sample 3x3 Inch](https://fabricsstar.com/products/veluxe-soft-velvet-fabric-72-inch-in-width-ideal-material-for-home-decor?variant=51012316070169)
+  - [Deer / Sample 3x3 Inch](https://fabricsstar.com/products/veluxe-soft-velvet-fabric?variant=51012316070169)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/VELUXE-DEER-001J-1.jpg?v=1757518851
     Price: $1.00 USD
-  - [Ecru / Cut by the Yard](https://fabricsstar.com/products/veluxe-soft-velvet-fabric-72-inch-in-width-ideal-material-for-home-decor?variant=51012316102937)
+  - [Ecru / Cut by the Yard](https://fabricsstar.com/products/veluxe-soft-velvet-fabric?variant=51012316102937)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/VELUXE-ECRU-05-2.jpg?v=1757518852
     Price: $19.80 USD
-  - [Ecru / Sample 3x3 Inch](https://fabricsstar.com/products/veluxe-soft-velvet-fabric-72-inch-in-width-ideal-material-for-home-decor?variant=51012316135705)
+  - [Ecru / Sample 3x3 Inch](https://fabricsstar.com/products/veluxe-soft-velvet-fabric?variant=51012316135705)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/VELUXE-ECRU-05-2.jpg?v=1757518852
     Price: $1.00 USD
-  - [Eggplant / Cut by the Yard](https://fabricsstar.com/products/veluxe-soft-velvet-fabric-72-inch-in-width-ideal-material-for-home-decor?variant=51012316168473)
+  - [Eggplant / Cut by the Yard](https://fabricsstar.com/products/veluxe-soft-velvet-fabric?variant=51012316168473)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/VELUXE-EGGPLANT-L21-1.jpg?v=1757518848
     Price: $19.80 USD
-  - [Eggplant / Sample 3x3 Inch](https://fabricsstar.com/products/veluxe-soft-velvet-fabric-72-inch-in-width-ideal-material-for-home-decor?variant=51012316201241)
+  - [Eggplant / Sample 3x3 Inch](https://fabricsstar.com/products/veluxe-soft-velvet-fabric?variant=51012316201241)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/VELUXE-EGGPLANT-L21-1.jpg?v=1757518848
     Price: $1.00 USD
-  - [Forest / Cut by the Yard](https://fabricsstar.com/products/veluxe-soft-velvet-fabric-72-inch-in-width-ideal-material-for-home-decor?variant=51012316234009)
+  - [Forest / Cut by the Yard](https://fabricsstar.com/products/veluxe-soft-velvet-fabric?variant=51012316234009)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/VELUXE-FOREST-17-1.jpg?v=1757518849
     Price: $19.80 USD
-  - [Forest / Sample 3x3 Inch](https://fabricsstar.com/products/veluxe-soft-velvet-fabric-72-inch-in-width-ideal-material-for-home-decor?variant=51012316266777)
+  - [Forest / Sample 3x3 Inch](https://fabricsstar.com/products/veluxe-soft-velvet-fabric?variant=51012316266777)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/VELUXE-FOREST-17-1.jpg?v=1757518849
     Price: $1.00 USD
-  - [Gold / Cut by the Yard](https://fabricsstar.com/products/veluxe-soft-velvet-fabric-72-inch-in-width-ideal-material-for-home-decor?variant=51012316299545)
+  - [Gold / Cut by the Yard](https://fabricsstar.com/products/veluxe-soft-velvet-fabric?variant=51012316299545)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/VELUXE-GOLD-12-1.jpg?v=1757518847
     Price: $19.80 USD
-  - [Gold / Sample 3x3 Inch](https://fabricsstar.com/products/veluxe-soft-velvet-fabric-72-inch-in-width-ideal-material-for-home-decor?variant=51012316332313)
+  - [Gold / Sample 3x3 Inch](https://fabricsstar.com/products/veluxe-soft-velvet-fabric?variant=51012316332313)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/VELUXE-GOLD-12-1.jpg?v=1757518847
     Price: $1.00 USD
-  - [Grey / Cut by the Yard](https://fabricsstar.com/products/veluxe-soft-velvet-fabric-72-inch-in-width-ideal-material-for-home-decor?variant=51012316365081)
+  - [Grey / Cut by the Yard](https://fabricsstar.com/products/veluxe-soft-velvet-fabric?variant=51012316365081)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/VELUXE-GREY-21.jpg?v=1757518847
     Price: $19.80 USD
-  - [Grey / Sample 3x3 Inch](https://fabricsstar.com/products/veluxe-soft-velvet-fabric-72-inch-in-width-ideal-material-for-home-decor?variant=51012316397849)
+  - [Grey / Sample 3x3 Inch](https://fabricsstar.com/products/veluxe-soft-velvet-fabric?variant=51012316397849)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/VELUXE-GREY-21.jpg?v=1757518847
     Price: $1.00 USD
-  - [Mint / Cut by the Yard](https://fabricsstar.com/products/veluxe-soft-velvet-fabric-72-inch-in-width-ideal-material-for-home-decor?variant=51012316430617)
+  - [Mint / Cut by the Yard](https://fabricsstar.com/products/veluxe-soft-velvet-fabric?variant=51012316430617)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/VELUXE-MINT-18-1.jpg?v=1757518844
     Price: $19.80 USD
-  - [Mint / Sample 3x3 Inch](https://fabricsstar.com/products/veluxe-soft-velvet-fabric-72-inch-in-width-ideal-material-for-home-decor?variant=51012316463385)
+  - [Mint / Sample 3x3 Inch](https://fabricsstar.com/products/veluxe-soft-velvet-fabric?variant=51012316463385)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/VELUXE-MINT-18-1.jpg?v=1757518844
     Price: $1.00 USD
-  - [Navy / Cut by the Yard](https://fabricsstar.com/products/veluxe-soft-velvet-fabric-72-inch-in-width-ideal-material-for-home-decor?variant=51012316496153)
+  - [Navy / Cut by the Yard](https://fabricsstar.com/products/veluxe-soft-velvet-fabric?variant=51012316496153)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/VELUXE-NAVY-A29-2.jpg?v=1757518844
     Price: $19.80 USD
-  - [Navy / Sample 3x3 Inch](https://fabricsstar.com/products/veluxe-soft-velvet-fabric-72-inch-in-width-ideal-material-for-home-decor?variant=51012316528921)
+  - [Navy / Sample 3x3 Inch](https://fabricsstar.com/products/veluxe-soft-velvet-fabric?variant=51012316528921)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/VELUXE-NAVY-A29-2.jpg?v=1757518844
     Price: $1.00 USD
-  - [Peach / Cut by the Yard](https://fabricsstar.com/products/veluxe-soft-velvet-fabric-72-inch-in-width-ideal-material-for-home-decor?variant=51012316561689)
+  - [Peach / Cut by the Yard](https://fabricsstar.com/products/veluxe-soft-velvet-fabric?variant=51012316561689)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/VELUXE-PEACH-08-1.jpg?v=1757518840
     Price: $19.80 USD
-  - [Peach / Sample 3x3 Inch](https://fabricsstar.com/products/veluxe-soft-velvet-fabric-72-inch-in-width-ideal-material-for-home-decor?variant=51012316594457)
+  - [Peach / Sample 3x3 Inch](https://fabricsstar.com/products/veluxe-soft-velvet-fabric?variant=51012316594457)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/VELUXE-PEACH-08-1.jpg?v=1757518840
     Price: $1.00 USD
-  - [Pink / Cut by the Yard](https://fabricsstar.com/products/veluxe-soft-velvet-fabric-72-inch-in-width-ideal-material-for-home-decor?variant=51012316627225)
+  - [Pink / Cut by the Yard](https://fabricsstar.com/products/veluxe-soft-velvet-fabric?variant=51012316627225)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/VELUXE-PINK-07-2.jpg?v=1757518837
     Price: $19.80 USD
-  - [Pink / Sample 3x3 Inch](https://fabricsstar.com/products/veluxe-soft-velvet-fabric-72-inch-in-width-ideal-material-for-home-decor?variant=51012316659993)
+  - [Pink / Sample 3x3 Inch](https://fabricsstar.com/products/veluxe-soft-velvet-fabric?variant=51012316659993)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/VELUXE-PINK-07-2.jpg?v=1757518837
     Price: $1.00 USD
-  - [Sand / Cut by the Yard](https://fabricsstar.com/products/veluxe-soft-velvet-fabric-72-inch-in-width-ideal-material-for-home-decor?variant=51012316692761)
+  - [Sand / Cut by the Yard](https://fabricsstar.com/products/veluxe-soft-velvet-fabric?variant=51012316692761)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/VELUXE-SAND-02-1.jpg?v=1757518864
     Price: $19.80 USD
-  - [Sand / Sample 3x3 Inch](https://fabricsstar.com/products/veluxe-soft-velvet-fabric-72-inch-in-width-ideal-material-for-home-decor?variant=51012316725529)
+  - [Sand / Sample 3x3 Inch](https://fabricsstar.com/products/veluxe-soft-velvet-fabric?variant=51012316725529)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/VELUXE-SAND-02-1.jpg?v=1757518864
     Price: $1.00 USD
-  - [Sky Blue / Cut by the Yard](https://fabricsstar.com/products/veluxe-soft-velvet-fabric-72-inch-in-width-ideal-material-for-home-decor?variant=51012316758297)
+  - [Sky Blue / Cut by the Yard](https://fabricsstar.com/products/veluxe-soft-velvet-fabric?variant=51012316758297)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/VELUXE-SKY-13.jpg?v=1757518836
     Price: $19.80 USD
-  - [Sky Blue / Sample 3x3 Inch](https://fabricsstar.com/products/veluxe-soft-velvet-fabric-72-inch-in-width-ideal-material-for-home-decor?variant=51012316791065)
+  - [Sky Blue / Sample 3x3 Inch](https://fabricsstar.com/products/veluxe-soft-velvet-fabric?variant=51012316791065)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/VELUXE-SKY-13.jpg?v=1757518836
     Price: $1.00 USD
-  - [Tulip / Cut by the Yard](https://fabricsstar.com/products/veluxe-soft-velvet-fabric-72-inch-in-width-ideal-material-for-home-decor?variant=51012316823833)
+  - [Tulip / Cut by the Yard](https://fabricsstar.com/products/veluxe-soft-velvet-fabric?variant=51012316823833)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/VELUXE-TULIP-02J-2.jpg?v=1757518834
     Price: $19.80 USD
-  - [Tulip / Sample 3x3 Inch](https://fabricsstar.com/products/veluxe-soft-velvet-fabric-72-inch-in-width-ideal-material-for-home-decor?variant=51012316856601)
+  - [Tulip / Sample 3x3 Inch](https://fabricsstar.com/products/veluxe-soft-velvet-fabric?variant=51012316856601)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/VELUXE-TULIP-02J-2.jpg?v=1757518834
     Price: $1.00 USD
-  - [Wedgwood Blue / Cut by the Yard](https://fabricsstar.com/products/veluxe-soft-velvet-fabric-72-inch-in-width-ideal-material-for-home-decor?variant=51012316889369)
+  - [Wedgwood Blue / Cut by the Yard](https://fabricsstar.com/products/veluxe-soft-velvet-fabric?variant=51012316889369)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/VELUXE-WEDGWOOD-03J.jpg?v=1757518867
     Price: $19.80 USD
-  - [Wedgwood Blue / Sample 3x3 Inch](https://fabricsstar.com/products/veluxe-soft-velvet-fabric-72-inch-in-width-ideal-material-for-home-decor?variant=51012316922137)
+  - [Wedgwood Blue / Sample 3x3 Inch](https://fabricsstar.com/products/veluxe-soft-velvet-fabric?variant=51012316922137)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/VELUXE-WEDGWOOD-03J.jpg?v=1757518867
     Price: $1.00 USD
@@ -9628,13 +9628,13 @@
   Updated: 2025-10-23T17:10:48Z
   Total Products: 14
 - [Buy Luxury Velvet Fabrics Online | Premium Velvet Fabric](https://fabricsstar.com/collections/velvet-fabrics): Explore luxury velvet fabrics at Fabrics Star. Buy premium velvet fabric online for stunning designs and unmatched quality. Perfect for any project.
-  Updated: 2025-10-25T11:13:38Z
+  Updated: 2025-10-26T15:00:42Z
   Total Products: 28
 - [Embroidered Lace Fabric Online | Buy Luxury Lace Fabrics](https://fabricsstar.com/collections/lace-fabrics): Shop exquisite lace fabrics online at Fabrics Star. Explore beautiful embroidered lace fabric for your creative projects, offering elegance and style!
   Updated: 2025-10-23T17:10:48Z
   Total Products: 32
 - [Jacquard Print Fabric | Printed Jacquard Fabric By The Yard](https://fabricsstar.com/collections/jacquards-fabrics): Explore premium jacquard fabrics at Fabrics Star. Buy jacquard fabric online for exquisite designs and top-notch quality, perfect for your next project!
-  Updated: 2025-10-23T17:10:48Z
+  Updated: 2025-10-26T14:53:09Z
   Total Products: 219
 - [Digital Print Fabric by the Yard | Digital Fabric Printing - Fabrics Star](https://fabricsstar.com/collections/digital-print-fabric): Discover stunning digital print fabric at Fabrics Star. Shop high-quality materials with vibrant designs, perfect for your creative projects and digital fabric printing.
   Updated: 2025-10-23T17:10:48Z
@@ -9643,19 +9643,19 @@
   Updated: 2025-10-23T17:10:48Z
   Total Products: 26
 - [Our Full line of Fabrics](https://fabricsstar.com/collections/our-full-line-of-fabrics)
-  Updated: 2025-10-25T11:13:38Z
+  Updated: 2025-10-26T15:00:42Z
   Total Products: 666
 - [New! Shopify performance sharing is now turned on](https://fabricsstar.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2025-10-25T11:13:38Z
+  Updated: 2025-10-26T15:00:42Z
   Total Products: 666
 - [110](https://fabricsstar.com/collections/110)
-  Updated: 2025-10-24T11:13:15Z
-  Total Products: 533
+  Updated: 2025-10-26T15:01:11Z
+  Total Products: 534
 - [72](https://fabricsstar.com/collections/72)
-  Updated: 2025-10-25T11:13:38Z
-  Total Products: 13
+  Updated: 2025-10-26T15:01:11Z
+  Total Products: 12
 - [APPPlaza - Best Sellers](https://fabricsstar.com/collections/appplaza-best-sellers)
-  Updated: 2025-10-25T11:13:38Z
+  Updated: 2025-10-26T15:00:42Z
   Total Products: 666
 
 ## Blogs
