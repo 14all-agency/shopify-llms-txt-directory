@@ -7,7 +7,7 @@
 - Created At: 2025-05-23T17:13:08Z
 - Contact Email: sklep@lunnea.pl
 - Address: Nowa Wola Gołębiowska 40, Radom 26-613 Polska
-- Updated At: 2025-10-25T12:00:33.356Z
+- Updated At: 2025-10-26T08:00:40.886Z
 
 ## Products
 
@@ -819,6 +819,10 @@
     Updated: 2025-10-22T20:43:01Z
     Author: Admin
     Tags: Energia hematytu, Hematyt właściwości, Kamień harmonii, Kamień spokoju, Kryształ hematytu, Wibracje kamieni
+  - [Agat znaczenie - Odkryj piękno i moc tego kamienia](https://lunnea.pl/blogs/news/agat-znaczenie-odkryj-piekno-i-moc-tego-kamienia): Agat - kamień o niezwykłym znaczeniu i mocy. Poznaj jego właściwości i wybierz wyjątkową biżuterię z agatem, która podkreśli Twój styl.
+    Updated: 2025-10-26T01:30:02Z
+    Author: Admin
+    Tags: Agat znaczenie, Moc agatu, Piękno agatu
   - [Co to jest Hematyt?](https://lunnea.pl/blogs/news/co-to-jest-hematyt): Co to jest hematyt? Poznaj ten niezwykły kamień szlachetny, który znajdziesz w naszej kolekcji pięknej, ręcznie robionej biżuterii.
     Updated: 2025-10-24T15:22:00Z
     Author: Admin
