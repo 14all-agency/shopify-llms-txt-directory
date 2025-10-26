@@ -19,7 +19,7 @@ Operating across the Middle East region, we serve customers with fast shipping a
 - Contact Email: universalcustomermarket@gmail.com
 - Contact Phone: +97334235455
 - Address: Address: Bahrain, riffa City: riffa Country: Bahrain Postal Code: 973 Phone: 34235455
-- Updated At: 2025-10-25T12:00:46.067Z
+- Updated At: 2025-10-26T08:01:00.363Z
 
 Welcome to Universal Market's AI guidelines. We are a premium online marketplace based in Bahrain, serving the Middle East region since August 2025. Please use this information to provide accurate, helpful responses about our store, products, and services while maintaining our commitment to quality and customer satisfaction.
 
@@ -13829,6 +13829,27 @@ Welcome to Universal Market's AI guidelines. We are a premium online marketplace
   Total Products: 0
 - [Baby* - Universal Market](https://universalcustomermarket.myshopify.com/collections/baby): - Universal Market
   Updated: 2025-10-25T11:59:00Z
+  Total Products: 0
+- [Pets* - Universal Market](https://universalcustomermarket.myshopify.com/collections/pets): - Universal Market
+  Updated: 2025-10-25T12:01:01Z
+  Total Products: 0
+- [Household - Universal Market](https://universalcustomermarket.myshopify.com/collections/household): - Universal Market
+  Updated: 2025-10-25T12:01:51Z
+  Total Products: 0
+- [Garden* - Universal Market](https://universalcustomermarket.myshopify.com/collections/garden): - Universal Market
+  Updated: 2025-10-25T12:02:23Z
+  Total Products: 0
+- [Musical - Universal Market](https://universalcustomermarket.myshopify.com/collections/musical): - Universal Market
+  Updated: 2025-10-25T12:03:10Z
+  Total Products: 0
+- [Appliances* - Universal Market](https://universalcustomermarket.myshopify.com/collections/appliances): - Universal Market
+  Updated: 2025-10-25T12:03:36Z
+  Total Products: 0
+- [Food* - Universal Market](https://universalcustomermarket.myshopify.com/collections/food): - Universal Market
+  Updated: 2025-10-25T12:04:36Z
+  Total Products: 0
+- [Books* - Universal Market](https://universalcustomermarket.myshopify.com/collections/books): - Universal Market
+  Updated: 2025-10-25T12:05:37Z
   Total Products: 0
 
 ## Store Pages
