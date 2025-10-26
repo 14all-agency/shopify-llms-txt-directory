@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2025-10-25T16:00:55.277Z
+- Updated At: 2025-10-26T04:00:57.923Z
 
 ## Products
 
@@ -5816,7 +5816,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Moissanite-Platinum-Plated-Side-Stone-Ring-Brinxx-Couture-5533.jpg?v=1709360447
     Price: $79.00 USD
 - [1 Carat Moissanite Sterling Silver Necklace - Brinxx Couture](https://www.brinxxcouture.com/products/1-carat-moissanite-sterling-silver-necklace): This 1 Carat Moissanite Necklace is a statement piece like no other. Crafted from 925 Sterling Silver and featuring a brilliant 1 Carat Moissanite gemstone.
-  Updated: 2025-10-07T17:11:15Z
+  Updated: 2025-10-26T03:39:46Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -8027,7 +8027,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Turtle-Neck-Long-Sleeve-Ribbed-Sweater-Dress-Brinxx-Couture-5587.jpg?v=1709844865
     Price: $50.00 USD
 - [Plaid Collared Flounce Sleeve Shirt Dress - Brinxx Couture](https://www.brinxxcouture.com/products/plaid-collared-neck-flounce-sleeve-shirt-dress): This Plaid Collared Neck Flounce Sleeve Shirt Dress is the epitome of fashion. Perfect for day or night, its timeless plaid pattern is equipped with a collared neckline.
-  Updated: 2025-10-25T13:03:37Z
+  Updated: 2025-10-25T20:40:51Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -14468,7 +14468,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Solid-Hollow-Out-Cutout-Split-Dress-Top-Brinxx-Couture-6320.jpg?v=1709875308
     Price: $34.99 USD
 - [18K Gold-Plated Chain Necklace - Brinxx Couture](https://www.brinxxcouture.com/products/18k-gold-plated-chain-necklace): This 18K gold-plated chain necklace exudes elegance and luxury. Crafted with precision and coated in high-quality gold, it adds a touch of sophistication to any outfit.
-  Updated: 2025-10-23T19:47:10Z
+  Updated: 2025-10-25T16:16:55Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -16000,7 +16000,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/products/Cutout-Mock-Neck-Sleeveless-Dress-Brinxx-Couture-7698.jpg?v=1709885128
     Price: $29.99 USD
 - [Rhinestone Mock Neck Long Sleeve Dress - Brinxx Couture](https://www.brinxxcouture.com/products/rhinestone-mock-neck-long-sleeve-dress): Add some sparkle to your wardrobe with our Rhinestone Mock Neck Long Sleeve Dress! This dress features a trendy mock neck and long sleeves, adorned with dazzling rhinestones. Perfect for any special occasion, it's sure to make you stand out and feel glamorous. Shine on! Sheer: Semi-sheer Stretch: Slightly stretchy Body: Not lined Material composition: 60% viscose, 31% polyamide, 9% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements:S: Bust 29.92 in, Shoulder 13.78 in, Sleeve Length 22.83 in, Waist 26.77 in, HIP 34.65 in, Length 35.63 inM: Bust 32.28 in, Shoulder 14.37 in, Sleeve Length 23.23 in, Waist 29.13 in, HIP 37.01 in, Length 36.42 inL: Bust 34.65 in, Shoulder 14.96 in, Sleeve Length 23.62 in, Waist 31.50 in, HIP 39.37 in, Length 37.20 inXL: Bust 37.80 in, Shoulder 15.94 in, Sleeve Length 24.02 in, Waist 34.65 in, HIP 42.52 in, Length 37.99 in
-  Updated: 2025-10-25T07:01:32Z
+  Updated: 2025-10-26T00:40:38Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -21632,7 +21632,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Ribbed-Round-Neck-Top-and-Shorts-Set-Brinxx-Couture-1381.jpg?v=1730296298
     Price: $25.00 USD
 - [Tied Pleated Printed Cap Sleeve Dress - Brinxx Couture](https://www.brinxxcouture.com/products/tied-pleated-printed-cap-sleeve-dress): Get ready to take on the day in style with our Tied Pleated Printed Cap Sleeve Dress! This fun and flirty dress feature cap sleeves and a playful, pleated design.
-  Updated: 2025-10-25T09:40:41Z
+  Updated: 2025-10-26T02:40:37Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -21987,7 +21987,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Round-Neck-Long-Sleeve-Top-and-Pants-Lounge-Set-Brinxx-Couture-9593.jpg?v=1730296620
     Price: $45.00 USD
 - [Drawstring Long Sleeve Top and Shorts Lounge Set - Brinxx Couture](https://www.brinxxcouture.com/products/drawstring-long-sleeve-top-and-shorts-lounge-set): Experience ultimate comfort and style with our Drawstring Long Sleeve Top and Shorts Lounge Set. The drawstring design allows for a perfect fit.
-  Updated: 2025-10-24T23:21:07Z
+  Updated: 2025-10-25T20:41:01Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -22053,7 +22053,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Drawstring-Long-Sleeve-Top-and-Shorts-Lounge-Set-Brinxx-Couture-7833_f649b4c4-31b9-490a-a999-d715291eec52.jpg?v=1736049829
     Price: $41.54 USD
 - [Lapel Collar Sherpa Coat - Brinxx Couture](https://www.brinxxcouture.com/products/lapel-collar-sherpa-coat): Step out in style with our Lapel Collar Sherpa Coat! This coat features a lapel collar design that adds a touch of sophistication to your ensemble.
-  Updated: 2025-10-25T15:55:00Z
+  Updated: 2025-10-25T22:45:10Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -23179,17 +23179,17 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Notch-Lapel-Woven-Coat-with-Side-Pockets-Brinxx-Couture-2936.jpg?v=1730297108
     Price: $40.00 USD
 - [Cable-Knit Round Neck Sweater Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress): Wrap yourself in cozy comfort and timeless style with our Cable-Knit Round Neck Sweater Dress! Made from soft, high-quality materials.
-  Updated: 2025-10-25T14:00:41Z
+  Updated: 2025-10-26T03:20:46Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Cable-Knit-Round-Neck-Sweater-Dress-Brinxx-Couture-228.jpg?v=1730297216
   - [Tan / S](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress?variant=43426819506358)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Cable-Knit-Round-Neck-Sweater-Dress-Brinxx-Couture-228.jpg?v=1730297216
     Price: $49.99 USD
   - [Tan / M](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress?variant=43426819539126)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Cable-Knit-Round-Neck-Sweater-Dress-Brinxx-Couture-228.jpg?v=1730297216
     Price: $49.99 USD
   - [Tan / L](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress?variant=43426819571894)
@@ -23201,7 +23201,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Cable-Knit-Round-Neck-Sweater-Dress-Brinxx-Couture-228.jpg?v=1730297216
     Price: $49.99 USD
   - [Black / S](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress?variant=43426819637430)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Cable-Knit-Round-Neck-Sweater-Dress-Brinxx-Couture-2059.webp?v=1730297243
     Price: $49.99 USD
   - [Black / M](https://www.brinxxcouture.com/products/cable-knit-round-neck-sweater-dress?variant=43426819670198)
@@ -25733,25 +25733,25 @@
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/18K-Gold-Plated-Stainless-Steel-Stud-Earring-Brinxx-Couture-9396.jpg?v=1733888456
   Price: $15.00 USD
 - [Velvet Button Up Long Sleeve Shirt - Brinxx Couture](https://www.brinxxcouture.com/products/button-up-long-sleeve-shirt): Discover the versatility and style of our Velvet Button Up Long Sleeve Shirt! With its classic design and comfortable fit, this shirt is perfect for any occasion.
-  Updated: 2025-10-25T10:00:42Z
+  Updated: 2025-10-26T04:00:45Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Velvet-Button-Up-Long-Sleeve-Shirt-Brinxx-Couture-9449_548e90d3-d37d-47c5-913a-1fb9b9e4c7d4.jpg?v=1736049304
   - [Burgundy / S](https://www.brinxxcouture.com/products/button-up-long-sleeve-shirt?variant=43531892752566)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Velvet-Button-Up-Long-Sleeve-Shirt-Brinxx-Couture-9449_548e90d3-d37d-47c5-913a-1fb9b9e4c7d4.jpg?v=1736049304
     Price: $30.00 USD
   - [Burgundy / M](https://www.brinxxcouture.com/products/button-up-long-sleeve-shirt?variant=43531892785334)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Velvet-Button-Up-Long-Sleeve-Shirt-Brinxx-Couture-9449_548e90d3-d37d-47c5-913a-1fb9b9e4c7d4.jpg?v=1736049304
     Price: $30.00 USD
   - [Burgundy / L](https://www.brinxxcouture.com/products/button-up-long-sleeve-shirt?variant=43531892818102)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Velvet-Button-Up-Long-Sleeve-Shirt-Brinxx-Couture-9449_548e90d3-d37d-47c5-913a-1fb9b9e4c7d4.jpg?v=1736049304
     Price: $30.00 USD
   - [Burgundy / XL](https://www.brinxxcouture.com/products/button-up-long-sleeve-shirt?variant=43531892850870)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Velvet-Button-Up-Long-Sleeve-Shirt-Brinxx-Couture-9449_548e90d3-d37d-47c5-913a-1fb9b9e4c7d4.jpg?v=1736049304
     Price: $30.00 USD
   - [Moss / S](https://www.brinxxcouture.com/products/button-up-long-sleeve-shirt?variant=43531892883638)
@@ -25771,11 +25771,11 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Velvet-Button-Up-Long-Sleeve-Shirt-Brinxx-Couture-41_cebae25a-e813-4b8c-adbf-6a31c2dbba20.jpg?v=1736049314
     Price: $30.00 USD
   - [Brown / S](https://www.brinxxcouture.com/products/button-up-long-sleeve-shirt?variant=43531893014710)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Velvet-Button-Up-Long-Sleeve-Shirt-Brinxx-Couture-9898_28aff93c-f8ba-4ad4-bf88-33c49108ab07.jpg?v=1736049331
     Price: $30.00 USD
   - [Brown / M](https://www.brinxxcouture.com/products/button-up-long-sleeve-shirt?variant=43531893047478)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Velvet-Button-Up-Long-Sleeve-Shirt-Brinxx-Couture-9898_28aff93c-f8ba-4ad4-bf88-33c49108ab07.jpg?v=1736049331
     Price: $30.00 USD
   - [Brown / L](https://www.brinxxcouture.com/products/button-up-long-sleeve-shirt?variant=43531893080246)
@@ -25783,7 +25783,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Velvet-Button-Up-Long-Sleeve-Shirt-Brinxx-Couture-9898_28aff93c-f8ba-4ad4-bf88-33c49108ab07.jpg?v=1736049331
     Price: $30.00 USD
   - [Brown / XL](https://www.brinxxcouture.com/products/button-up-long-sleeve-shirt?variant=43531893113014)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Velvet-Button-Up-Long-Sleeve-Shirt-Brinxx-Couture-9898_28aff93c-f8ba-4ad4-bf88-33c49108ab07.jpg?v=1736049331
     Price: $30.00 USD
 - [Textured Button Down Collared Neck Coat - Brinxx Couture](https://www.brinxxcouture.com/products/textured-button-down-collared-neck-coat): Elevate your outerwear game with our Textured Button Down Collared Neck Coat! This versatile coat features a sophisticated collared neck and textured fabric.
@@ -34195,7 +34195,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/O1CN01XAXmCQ2FAmHogcG9E__2200741558840-0-cib.jpg?v=1756229723
     Price: $49.99 USD
 - [V-Neck Flounce Sleeve Lace Top - Brinxx Couture](https://www.brinxxcouture.com/products/v-neck-flounce-sleeve-lace-top): Elevate Your Everyday Elegance Transform any occasion with this stunning V-Neck Flounce Sleeve Lace Top that effortlessly blends sophistication with comfort.
-  Updated: 2025-09-18T19:51:21Z
+  Updated: 2025-10-25T23:53:06Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
