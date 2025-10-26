@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2016-12-13T16:55:39Z
 - Contact Email: sticky@stickybesocks.com
-- Updated At: 2025-10-26T00:00:44.006Z
+- Updated At: 2025-10-26T04:00:36.531Z
 
 ## Products
 
@@ -410,7 +410,7 @@
   Image: https://cdn.shopify.com/s/files/1/1656/1539/products/Womens_BeHappy_TieDye_Legwarmer_0205_FrontImage_1500x1500_0100b502-5a01-4d5c-bd44-0f25100b2fb8.jpg?v=1637260002
   Price: $33.00 USD
 - [Buy Baby Girl Box 6 Pack (Layla) Non-Slip Grip Socks for Pilates, Yoga, Barre | Sticky Be Socks](https://stickybesocks.com/products/baby-girl-box-6-pack-layla): Sticky Be Socks makes the best non slip, grip socks for yoga, pilates, barre, the gym, or cozy weekends at home. These sticky bottom, grip socks make the perfect gift for teens and adults of any age Baby Girl Box 6 Pack (Layla).
-  Updated: 2025-10-24T13:44:32Z
+  Updated: 2025-10-26T01:57:41Z
   Vendor: Sticky Be Socks
   Product Type: Socks
   Availability: Available
@@ -718,7 +718,7 @@
   Image: https://cdn.shopify.com/s/files/1/1656/1539/products/BeAmazingBeLove_2Pack_kids_1500x1500_1.jpg?v=1678818270
   Price: $16.00 USD
 - [Buy Winter Gift Box (Evergreen) Non-Slip Grip Socks for Pilates, Yoga, Barre | Sticky Be Socks](https://stickybesocks.com/products/winter-gift-box-2023): Sticky Be Socks makes the best non slip, grip socks for yoga, pilates, barre, the gym, or cozy weekends at home. These sticky bottom, grip socks make the perfect gift for teens and adults of any age Winter Gift Box (Evergreen).
-  Updated: 2025-10-24T16:54:58Z
+  Updated: 2025-10-26T01:57:41Z
   Vendor: Sticky Be Socks
   Product Type: Holiday Box
   Availability: Available
