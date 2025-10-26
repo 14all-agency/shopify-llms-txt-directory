@@ -9,7 +9,7 @@
 - Created At: 2023-11-20T15:32:25Z
 - Contact Email: hello@inky-ingredients.com
 - Address: Units 2, 3 & 5 Athelstan Business Park Hanwell Lane, Hutton Conyers Ripon, North Yorkshire HG4 5BF, UK
-- Updated At: 2025-10-25T12:00:50.355Z
+- Updated At: 2025-10-26T00:00:56.352Z
 
 The UK's largest natural ingredients supplier. INKY Ingredients supplies formulators and makers as well as the general public with the UK's widest range of essential oils, cold pressed oils, waxes, soaps, butters and more. We hold a 7 sustainability accreditations and are committed to providing an unparalleled selection of premium natural oil ingredients, fostering sustainability, and championing the sustainable beauty movement.
 
@@ -115,7 +115,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £77.40 GBP
 - [Watermelon Seed Oil, Refined](https://inky-ingredients.com/products/watermelon-seed-oil-refined): Refined Watermelon Seed Oil is a lightweight, fast-absorbing oil, known for its hydrating and rejuvenating properties. Suitable for skincare and haircare, it imparts moisture, promoting a healthy and vibrant appearance.
-  Updated: 2025-10-23T13:56:12Z
+  Updated: 2025-10-25T16:09:45Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -892,7 +892,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £198.00 GBP
 - [Lemon, Essential Oil](https://inky-ingredients.com/products/lemon-essential-oil): Lemon Essential Oil, extracted from citrus peels, is renowned for its uplifting aroma and versatile uses in aromatherapy. It promotes a refreshing and invigorating atmosphere.
-  Updated: 2025-10-07T14:11:16Z
+  Updated: 2025-10-25T16:09:45Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -1189,7 +1189,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £1,039.20 GBP
 - [Grapefruit (White), Essential Oil (P&N)](https://inky-ingredients.com/products/grapefruit-white-essential-oil): White Grapefruit Essential Oil offers a refreshing and uplifting aroma, promoting a sense of vitality. Its aromatic properties make it a valuable addition to personal care products and aromatherapy blends.
-  Updated: 2025-10-16T11:43:31Z
+  Updated: 2025-10-25T16:09:46Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -3595,7 +3595,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £36.76 GBP
 - [Cucumber Oil, Cold Pressed](https://inky-ingredients.com/products/cucumber-oil-cold-pressed): Cold-pressed Cucumber Oil is a lightweight moisturiser with cooling properties. Its refreshing feel makes it perfect for skincare, especially in soothing and hydrating sensitive skin.
-  Updated: 2025-10-23T13:56:12Z
+  Updated: 2025-10-25T16:09:45Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
@@ -4981,7 +4981,7 @@ The UK's largest natural ingredients supplier. INKY Ingredients supplies formula
     Availability: Available
     Price: £37.94 GBP
 - [Apricot Kernel Oil, Cold Pressed Organic](https://inky-ingredients.com/products/apricot-kernel-oil-cold-pressed-organic): Cold-pressed from organic apricot kernels, this oil is a natural emollient. Packed with vitamins and fatty acids, it moisturises and revitalises the skin, leaving it smooth and radiant. It's a versatile ingredient for skincare, providing nourishment and a healthy glow.
-  Updated: 2025-10-23T09:57:51Z
+  Updated: 2025-10-25T19:00:50Z
   Vendor: INKY Ingredients
   Product Type: 
   Availability: Available
