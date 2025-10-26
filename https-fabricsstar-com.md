@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-07-19T18:27:19Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-10-25T20:00:37.263Z
+- Updated At: 2025-10-26T04:00:38.615Z
 
 ## Products
 
@@ -1415,7 +1415,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/natural1.jpg?v=1757517314
     Price: $1.00 USD
 - [Brocade Huntsville Velvet Fabric | Fabrics Star](https://fabricsstar.com/products/unique-quality-fabrics-72-embossed-huntsville-velvet): Elevate your projects with Embossed Huntsville Velvet from Fabrics Star. With its unique texture and quality, this fabric adds a touch of sophistication to upholstery, drapery, and more.
-  Updated: 2025-10-23T20:17:04Z
+  Updated: 2025-10-26T00:54:20Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -1581,7 +1581,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/HUNTSVILLE-WHITE-00.jpg?v=1757517342
     Price: $1.00 USD
 - [Riverdale Crushed Velvet Fabric | Fabrics Star](https://fabricsstar.com/products/riverdale-crushed-velvet-fabric-cut-by-the-yard): Ideal Riverdale Crushed Velvet Fabric Cut by the Yard for Upholstery fabric for Coaches and chairs, drapery, pillows, slipcovers, tablecloths, sewing, DIY, handbags, tote bags, arts & crafts etc.
-  Updated: 2025-10-23T20:17:02Z
+  Updated: 2025-10-26T00:39:06Z
   Vendor: Fabrics Star
   Product Type: Crushed Velvet Fabric
   Availability: Available
@@ -9717,6 +9717,9 @@
     Author: User
   - [Comparing Linen and Cotton Which is Better for Your Project](https://fabricsstar.com/blogs/news/comparing-linen-and-cotton-which-is-better-for-your-project): Comparing Linen and Cotton Which is Better for Your Project
     Updated: 2025-10-22T02:41:28Z
+    Author: User
+  - [Step-by-step Tutorial on Creating Perfect Fabric Draperies](https://fabricsstar.com/blogs/news/step-by-step-tutorial-on-creating-perfect-fabric-draperies): Step-by-step Tutorial on Creating Perfect Fabric Draperies
+    Updated: 2025-10-26T00:09:24Z
     Author: User
 
 ## Store Pages
