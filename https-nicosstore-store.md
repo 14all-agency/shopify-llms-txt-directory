@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-07-07T17:06:44Z
 - Contact Email: nikualbu92@gmail.com
-- Updated At: 2025-10-26T00:01:01.863Z
+- Updated At: 2025-10-26T04:00:52.769Z
 
 ## Products
 
@@ -2181,7 +2181,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/17275778035340764426_2048.jpg?v=1759512331
     Price: €5.46 EUR
 - [Leopard Zip Up Fleece Jacket](https://nicosstore.store/products/leopard-zip-up-fleece-jacket): Features:Pocketed,Zipper Thickness:Normal Body:Not lined Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length Shoulder S 23.6 42.9 19.3 23.6 M 24 44.5 19.5 24.4 L 24.6 46.9 19.8 25.6 XL 25.2 49.2 20.1 26.8
-  Updated: 2025-10-25T10:40:37Z
+  Updated: 2025-10-26T02:00:51Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2337,7 +2337,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/4cda634d6b7a46f1aac1e82e25cc93af-Max-Origin.webp?v=1759675754
     Price: €35.22 EUR
 - [Floral Mock Neck Long Sleeve Top](https://nicosstore.store/products/floral-mock-neck-long-sleeve-top): Features: Basic style Stretch: Slightly stretchy Material composition: 95% polyester, 5% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Bust Top Length Sleeve Length S 4 31.5 22.8 28.7 M 6/8 33.5 23.2 29.1 L 10/12 35.4 23.6 29.5 XL 14/16 38.2 24 29.9 2XL 18 40.9 24.4 30.3
-  Updated: 2025-10-20T04:36:41Z
+  Updated: 2025-10-26T03:41:06Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2981,7 +2981,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/69970997521447278c9cdd284b7e91a1-Max-Origin.webp?v=1759686330
     Price: €26.12 EUR
 - [Lace Detail Drawstring Long Sleeve Hoodie](https://nicosstore.store/products/lace-detail-drawstring-long-sleeve-hoodie): Features:Lace Detail,Pocketed,Drawstring Stretch:Slightly stretchy Material composition:75% polyester, 25% cotton Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 25.2 40.2 27.4 M 26 42.5 28 L 26.8 44.9 28.5
-  Updated: 2025-10-25T21:00:46Z
+  Updated: 2025-10-26T02:20:41Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5778,7 +5778,7 @@
     Image: https://cdn.shopify.com/s/files/1/0962/5498/4517/files/e57ea952fe6c4985beafe28d07bb261c-Max-Origin.webp?v=1760294810
     Price: €19.99 EUR
 - [Full Size Faux Fur Cropped Zip-Up Jacket Plus Size](https://nicosstore.store/products/full-size-faux-fur-cropped-zip-up-jacket-plus-size): Features:Oversized,Zipper Thickness:Thick Body:Not lined Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 20.9 37.4 22 M 21.3 39 22.4 L 21.7 40.6 22.8 XL 22 42.1 23.2 2XL 22.4 43.7 23.6 3XL 22.8 45.3 24 4XL 23.2 46.9 24.4 5XL 23.6 48.4 24.8
-  Updated: 2025-10-25T18:05:10Z
+  Updated: 2025-10-26T01:14:21Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
