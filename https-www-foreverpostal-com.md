@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2025-07-18T07:16:51Z
 - Contact Email: help@foreverpostal.com
-- Updated At: 2025-10-25T20:00:32.540Z
+- Updated At: 2025-10-26T12:00:53.186Z
 
 At our dedicated stamp store, we invite enthusiasts and collectors alike to explore a world of philately. Stamps are not just postal essentials; they are tiny pieces of art that carry stories and depict history. Whether you are a seasoned collector or just starting, our store has something for everyone.
 
@@ -244,7 +244,7 @@ At our dedicated stamp store, we invite enthusiasts and collectors alike to expl
   Image: https://cdn.shopify.com/s/files/1/0715/3926/1639/files/ED_1165b85f-fee7-4e30-9d56-47ea4f48a8f0.jpg?v=1758206112
   Price: $59.00 USD
 - [Sparkling Holidays Santas 2018 Forever Stamps 100pcs - Forever Postal](https://www.foreverpostal.com/products/sparkling-holidays-santas-2018-forever-stamps-100pcs): Description20pcs stamps/page * 5 pages. You got 100pcs stamps in total.Background:Sundblom, a famed commercial artist, depicted a rosy-cheeked, smiling, grandfatherly man in a red suit that came to embody the very essence of "Santa."he Sparkling Holidays stamps will be issued as Forever stamps. Forever stamps are always equal in value to the current First-Class Mail 1-ounce price. - Forever Postal
-  Updated: 2025-10-25T03:09:32Z
+  Updated: 2025-10-25T20:25:50Z
   Vendor: Forever Postal
   Product Type: Holiday
   Availability: Available
@@ -307,7 +307,7 @@ At our dedicated stamp store, we invite enthusiasts and collectors alike to expl
   Image: https://cdn.shopify.com/s/files/1/0715/3926/1639/files/WW_775721d1-afc4-41eb-898d-81cf48396324.jpg?v=1758702022
   Price: $59.00 USD
 - [2020 Winter Scenes Forever Stamps 100pcs - Forever Postal](https://www.foreverpostal.com/products/2020-winter-scenes-forever-stamps-100pcs): Description20 stamps/page * 5 pages.You got 100 stamps in total.Background:Winter Scenes celebrates the beauty and serenity of seasonal sights amid snowy landscapes. The 10 different photographs featured in this booklet stamps showcase the special allure of winter, with iconic scenes from the northern United States. - Forever Postal
-  Updated: 2025-10-25T03:09:38Z
+  Updated: 2025-10-25T20:55:30Z
   Vendor: Forever Postal
   Product Type: Holiday
   Availability: Available
@@ -345,16 +345,16 @@ At our dedicated stamp store, we invite enthusiasts and collectors alike to expl
 ## Collections
 
 - [Flower Stamps - Forever Postal](https://www.foreverpostal.com/collections/frontpage): - Forever Postal
-  Updated: 2025-10-25T11:16:32Z
+  Updated: 2025-10-26T11:16:54Z
   Total Products: 27
 - [Flag Stamps - Forever Postal](https://www.foreverpostal.com/collections/flag-stamps): - Forever Postal
-  Updated: 2025-10-25T11:16:32Z
+  Updated: 2025-10-26T11:16:54Z
   Total Products: 8
 - [Holiday stamps - Forever Postal](https://www.foreverpostal.com/collections/holiday-stamps): - Forever Postal
-  Updated: 2025-10-25T11:16:32Z
+  Updated: 2025-10-26T11:16:54Z
   Total Products: 13
 - [New! Shopify performance sharing is now turned on - Forever Postal](https://www.foreverpostal.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel. - Forever Postal
-  Updated: 2025-10-25T11:16:32Z
+  Updated: 2025-10-26T11:16:54Z
   Total Products: 47
 
 ## Store Pages
