@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-07-21T23:17:39Z
 - Contact Email: dustin1986williamson@gmail.com
-- Updated At: 2025-10-25T20:00:38.908Z
+- Updated At: 2025-10-26T00:00:36.328Z
 
 ## Products
 
@@ -10108,7 +10108,7 @@
   Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/affinity-bands-realtree-apx-hdx-airpods-gen-1-2-case-default-title-realtree-airpods-case-cover-for-gen-1-2-apx-hdx-design-37937727865063.jpg?v=1760274849
   Price: $24.99 USD
 - [Realtree Fitbit Watch Band for Versa 3 & Sense 1 - Stylish Accessory](https://soulthreads25.com/products/realtree-fitbit-watch-band-for-versa-3-and-sense-1-stylish-and-durable-accessory): Elevate your style with the Realtree Fitbit Watch Band for Versa 3 and Sense 1. This durable accessory combines fashion and functionality for the perfect look. Shop now!
-  Updated: 2025-10-25T14:23:10Z
+  Updated: 2025-10-25T20:17:02Z
   Vendor: Affinity Bands
   Product Type: Realtree HD Fitbit Watch Band
   Availability: Available
@@ -10144,7 +10144,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/affinity-bands-realtree-hd-apple-band-excape-42-44-45-49mm-46mm-series-10-short-realtree-excape-hd-apple-watch-band-37937728094439.jpg?v=1760274841
     Price: $29.99 USD
 - [Realtree HDX AirPods Gen 3 Case – Ultimate Protection & Style](https://soulthreads25.com/products/realtree-hdx-airpods-gen-3-case-cover-for-maximum-protection): Protect your AirPods in style with our Realtree HDX AirPods Gen 3 Case. Designed for maximum protection and durability, it's the perfect accessory for outdoors enthusiasts.
-  Updated: 2025-10-24T19:06:22Z
+  Updated: 2025-10-25T23:07:22Z
   Vendor: Affinity Bands
   Product Type: Realtree HDX Apple Airpod Gen 3 Case Cover
   Availability: Available
@@ -10234,7 +10234,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/affinity-bands-realtree-hdx-apple-airpod-gen-3-case-cover-aspect-realtree-hdx-airpods-gen-3-case-cover-for-maximum-protection-rt-hdxapc20-camo-37937736417511.jpg?v=1760275385
     Price: $24.99 USD
 - [Pride HD iPhone 11/XR Case - Durable Protection & Stylish Design](https://soulthreads25.com/products/pride-hd-iphone-11-xr-case-stylish-durable-protection): Protect your iPhone 11/XR with the Pride HD iPhone 11/XR case. Enjoy stylish and durable protection that elevates your device while keeping it safe from everyday wear and tear.
-  Updated: 2025-10-25T05:10:45Z
+  Updated: 2025-10-25T23:08:08Z
   Vendor: Affinity Bands
   Product Type: Pride HD iPhone Case
   Availability: Available
@@ -10698,7 +10698,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/affinity-bands-pickleball-hd-iphone-16-case-love-iphone-16-pro-max-pickleball-iphone-16-mag-safe-case-for-ultimate-protection-and-style-u-hd3am16-pb-37937733468391.jpg?v=1760275297
     Price: $29.99 USD
 - [Realtree Edge HD Watch Band – Stylish and Durable for Apple Watch](https://soulthreads25.com/products/realtree-edge-hd-watch-band-for-apple-watch-durable-and-stylish): Meta Description: Upgrade your Apple Watch with the Realtree Edge HD Watch Band. This durable and stylish band offers a perfect blend of comfort and performance for adventurous lifestyles.
-  Updated: 2025-10-25T17:20:46Z
+  Updated: 2025-10-25T20:17:13Z
   Vendor: Affinity Bands
   Product Type: Realtree HD Apple Band
   Availability: Available
@@ -11014,7 +11014,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8515/1463/files/affinity-bands-pride-hd-iphone-16-case-love-iphone-16-pro-max-pride-hd-iphone-16-mag-safe-case-for-ultimate-protection-and-style-u-hd6am16-pri-37937736319207.jpg?v=1760275228
     Price: $29.99 USD
 - [Pickleball iPhone 14 Mag-Safe Case - Durable HD Protection for iPhone](https://soulthreads25.com/products/pickleball-iphone-14-mag-safe-case-hd-protection-for-your-device): Enhance your iPhone 14 with our Pickleball iPhone 14 Mag-Safe Case. Enjoy HD protection and a perfect fit for your device while showcasing your love for pickleball!
-  Updated: 2025-10-25T01:41:29Z
+  Updated: 2025-10-25T23:08:12Z
   Vendor: Affinity Bands
   Product Type: Pickleball Apple iPhone 14 Case
   Availability: Available
