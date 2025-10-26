@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2023-04-19T20:10:07Z
 - Contact Email: georgina@hibiscussurfwear.com
-- Updated At: 2025-10-25T20:01:08.175Z
+- Updated At: 2025-10-26T20:01:11.681Z
 
 ## Products
 
@@ -772,7 +772,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/unisex-organic-cotton-t-shirt-white-front-64632890b7e1f.jpg?v=1688013364
     Price: £39.99 GBP
 - [Richmond to Waterloo III - Hibiscus Surfwear - Mens organic cotton t-shirt](https://www.hibiscussurfwear.com/products/richmond-to-waterloo-ii-hibiscus-surfwear-mens-organic-cotton-t-shirt): Richmond to Waterloo III - Hibiscus Surfwear - Mens organic cotton t-shirt Made from 100% organic ring-spun cotton, this unisex t-shirt is a total must-have. It's high-quality, super comfy, and best of all—eco-friendly. • 100% organic ring-spun cotton • Fabric weight: 5.3 oz/yd² (180 g/m²) • Single jersey • Medium fit • Set-in sleeves • 1 × 1 rib at collar • Wide double-needle topstitch on the sleeves and bottom hems • Self-fabric neck tape (inside, back of the neck) • Blank product sourced from China or Bangladesh The sizes correspond to a smaller size in the US market, so US customers should order a size up. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Size guide BODY LENGTH (inches) CHEST WIDTH (inches) SLEEVE LENGTH (inches) S 27 ¼ 19 ¼ 8 ⅛ M 28 ¼ 20 ½ 8 ½ L 29 ⅛ 21 ¾ 8 ⅞ XL 29 ⅞ 22 ¾ 8 ⅞ 2XL 30 ¾ 24 9 ¼
-  Updated: 2025-05-31T09:32:48Z
+  Updated: 2025-10-25T23:50:57Z
   Vendor: Hibiscus Surfwear
   Product Type: 
   Availability: Available
@@ -1604,7 +1604,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/8646/2265/files/toddler-staple-tee-white-front-6474107c4beb2.jpg?v=1689410820
     Price: £27.00 GBP
 - [Ficus elastica - Hibiscus Surfwear - Ethical Yoga Leggings](https://www.hibiscussurfwear.com/products/ficus-elastica-hibiscus-surfwear-ethical-yoga-leggings): Ficus elastica - Hibiscus Surfwear - Ethical Yoga Leggings Super soft, stretchy, and comfortable yoga leggings. Order these to make sure your next yoga session is the best one ever! • 82% polyester, 18% spandex • Four-way stretch, which means fabric stretches and recovers on the cross and lengthwise grains. • Made with a smooth, comfortable microfiber yarn • Raised waistband • Precision-cut and hand-sewn after printing This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide WAIST (inches) HIPS (inches) XS 25 ¼ 35 ⅜ S 26 ¾ 37 M 28 ⅜ 38 ⅝ L 31 ½ 41 ¾ XL 34 ⅝ 44 ⅞
-  Updated: 2025-04-24T15:44:36Z
+  Updated: 2025-10-25T23:17:13Z
   Vendor: Hibiscus Surfwear
   Product Type: Yoga leggings
   Availability: Available
