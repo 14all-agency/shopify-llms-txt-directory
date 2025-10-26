@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2024-06-01T16:53:27Z
 - Contact Email: Support@ursupermart.com
-- Updated At: 2025-10-26T00:01:20.146Z
+- Updated At: 2025-10-26T04:01:14.162Z
 
 ## Products
 
@@ -2039,7 +2039,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/festive-christmas-tree-earrings-set.webp?v=1730927629
   Price: $12.95 USD
 - [Plaid Wool Coats – Timeless Fall & Winter Fashion](https://ursupermart.com/products/plaid-wool-coats-collection): Stay warm in style with our plaid wool coat collection. Featuring vibrant patterns, soft wool blend fabric, and versatile designs perfect for layering.
-  Updated: 2025-10-25T17:54:10Z
+  Updated: 2025-10-26T00:36:11Z
   Vendor: S1B|Meta - Trendsi
   Product Type: trench coat
   Availability: Available
@@ -17303,7 +17303,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/70964122881.jpg?v=1746983446
     Price: $44.95 USD
 - [Slotted cooking spoon: Multi-use tool for easy cooking](https://ursupermart.com/products/slotted-cooking-spoon-durable-multi-use-tool): Slotted cooking spoon: This durable, multi-use tool simplifies cooking by mashing, stirring, and straining, making meal prep effortless and organized. Shop now!
-  Updated: 2025-10-23T17:50:58Z
+  Updated: 2025-10-26T03:27:03Z
   Vendor: Make | CJ
   Product Type: Slotted cooking spoon
   Availability: Available
