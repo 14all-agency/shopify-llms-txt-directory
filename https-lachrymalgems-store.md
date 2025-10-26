@@ -6,19 +6,19 @@
 - Timezone: America/Chicago
 - Created At: 2025-10-03T06:30:37Z
 - Contact Email: mandiemaddox@mystichiddengem.com
-- Updated At: 2025-10-26T16:00:42.580Z
+- Updated At: 2025-10-26T20:00:40.042Z
 
 ## Products
 
 - [Diamond Key Dark-Wave Duffle Bag - Lachrywave Travel | Lachrymal Gems](https://lachrymalgems.store/products/forgotten-gem-key-duffle-bag): Lachrywave duffle bag with Diamond Key glitch design. Dark aesthetic travel bag for gym and trips. From Lachrymal Gems, carry the frequency.
-  Updated: 2025-10-26T04:58:26Z
+  Updated: 2025-10-26T16:58:30Z
   Vendor: Printify
   Product Type: Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/male-model-fleece-joggers-long-sleeve-beanie-gem-key-duffle-bag.png?v=1760910591
   Price: $54.99 USD
 - [Neon Dark-Wave Canvas Sneakers - Lachrywave High-Tops | Lachrymal Gems](https://lachrymalgems.store/products/neon-animal-print-high-top-sneakers-trippy-print-canvas-shoes): Lachrywave neon canvas sneakers with trippy animal print. Bold dark-wave high-top shoes. From Lachrymal Gems, for those who walk between worlds.
-  Updated: 2025-10-26T04:58:11Z
+  Updated: 2025-10-26T16:58:17Z
   Vendor: Printify
   Product Type: Shoes
   Availability: Available
@@ -51,14 +51,14 @@
     Availability: Available
     Price: $59.99 USD
 - [Hidden Gem VHS Glitch Gaiter Mask - Lachrywave | Lachrymal Gems](https://lachrymalgems.store/products/hidden-gem-fall-winter-gaiter): Lachrywave gaiter mask with VHS glitch Hidden Gem design. Alternative face cover for fall/winter. From Lachrymal Gems, for those between worlds.
-  Updated: 2025-10-26T04:57:58Z
+  Updated: 2025-10-26T16:58:06Z
   Vendor: Printify
   Product Type: All Over Prints
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/female-model-with-hidden-gem-gaiter-mask.png?v=1760910649
   Price: $18.99 USD
 - [Dark-Wave Love Lost Skeleton Hoodie - Lachrywave | Lachrymal Gems](https://lachrymalgems.store/products/cozy-glitch-beyond-death-rose-fall-hoodie): Lachrywave hoodie with Love Lost Skeleton glitch rose design. Cozy dark aesthetic streetwear. From Lachrymal Gems, for those caught between worlds.
-  Updated: 2025-10-26T04:57:43Z
+  Updated: 2025-10-26T16:57:55Z
   Vendor: Printify
   Product Type: Hoodie
   Availability: Available
@@ -164,14 +164,14 @@
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/12159832977939653862_2048_6ed118ac-75ff-456d-aad2-173cc0213e94.jpg?v=1760912638
     Price: $44.99 USD
 - [Skeleton Cyber Glitch Shorts - Lachrywave Athletic | Lachrymal Gems](https://lachrymalgems.store/products/vibrant-skeleton-love-lost-cyber-graphic-basketball-shorts-unisex-athletic-shorts-summer-sports-wear-trendy-workout-gear-unique-gift-for-athletes): Lachrywave basketball shorts with cyber glitch skeleton design. Athletic wear with neon-punk vaporwave aesthetic. From Lachrymal Gems, for active souls.
-  Updated: 2025-10-26T04:57:29Z
+  Updated: 2025-10-26T16:57:35Z
   Vendor: Printify
   Product Type: All Over Prints
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/rn-image_picker_lib_temp_e85f573a-571d-4f62-985a-492133268e78.webp?v=1759761086
   Price: $44.99 USD
 - [Love Lost Skeleton Crop Top - Lachrywave Retro Tee | Lachrymal Gems](https://lachrymalgems.store/products/love-lost-skeletons-retro-crop-tee-trendy-womens-top-casual-streetwear-graphic-tee-unique-gift-for-her-festival-wear-statement-t-shirt): Lachrywave crop top with Love Lost Skeleton design. Retro dark aesthetic streetwear. From Lachrymal Gems, for digital natives caught between.
-  Updated: 2025-10-26T04:57:15Z
+  Updated: 2025-10-26T16:57:21Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
@@ -183,7 +183,7 @@
     Availability: Available
     Price: $27.99 USD
 - [Love Lost Skeletons Cropped Sweatshirt - Lachrywave | Lachrymal Gems](https://lachrymalgems.store/products/eternal-loop-lost-skeleton-lovers-cropped-sweatshirt-for-trendy-women-retro-vibe-perfect-for-casual-outings-gifts-and-events): Lachrywave cropped sweatshirt with Love Lost Skeletons design. Neon-punk vaporwave aesthetic. From Lachrymal Gems, for digital natives caught between.
-  Updated: 2025-10-26T04:00:49Z
+  Updated: 2025-10-26T16:00:57Z
   Vendor: Printify
   Product Type: Sweatshirt
   Availability: Available
@@ -261,7 +261,7 @@
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/7590772071000907401_2048.jpg?v=1760902298
     Price: $59.99 USD
 - [Galaxy Lost Love Skeleton Shorts - Lachrywave Vaporwave | Lachrymal Gems](https://lachrymalgems.store/products/galaxy-lost-love-skeletons-print-womens-relaxed-shorts-comfy-lounge-wear-summer-outfits-festival-attire-gifts-for-space-lovers): Lachrywave galaxy shorts with Lost Love Skeletons design. Vaporwave space aesthetic relaxed fit. From Lachrymal Gems, for those lost between worlds.
-  Updated: 2025-10-26T04:57:01Z
+  Updated: 2025-10-26T16:57:09Z
   Vendor: Printify
   Product Type: All Over Prints
   Availability: Available
@@ -285,21 +285,21 @@
     Availability: Available
     Price: $39.99 USD
 - [Dark-Wave Neon Hoodie Dress - Limited Lachrywave | Lachrymal Gems](https://lachrymalgems.store/products/womens-hoodie-dress-aop): Lachrywave hoodie dress with dark-wave neon design. Limited inventory alternative fashion. From Lachrymal Gems, for digital natives caught between.
-  Updated: 2025-10-26T04:56:46Z
+  Updated: 2025-10-26T16:56:53Z
   Vendor: Printify
   Product Type: All Over Prints
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/rn-image_picker_lib_temp_d19d8260-8c92-4693-8406-05813ec8ddf3.webp?v=1761028203
   Price: $38.99 USD
 - [Love Lost Skeleton Throw Blanket - Lachrywave Home Decor | Lachrymal Gems](https://lachrymalgems.store/products/velveteen-microfiber-blanket-love-lost-skeletons-winter-fall-aesthetic-throw-blanket): Lachrywave throw blanket with Love Lost Skeleton design. Soft velveteen microfiber with dark aesthetic. From Lachrymal Gems, cozy comfort between worlds.
-  Updated: 2025-10-26T04:56:34Z
+  Updated: 2025-10-26T16:56:39Z
   Vendor: Printify
   Product Type: Home Decor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/love-lost-skeleton-throw-blanket.png?v=1761028328
   Price: $27.99 USD
 - [Love Lost Seeds of Love Tank - Lachrywave Alternative | Lachrymal Gems](https://lachrymalgems.store/products/womens-tank-planting-seed-for-love-japanese-sad-love-aesthetic-design): Lachrywave tank with Love Lost Seeds of Love design. Dark alternative aesthetic with neon-punk vibe. From Lachrymal Gems, for those between worlds.
-  Updated: 2025-10-26T04:56:16Z
+  Updated: 2025-10-26T16:56:22Z
   Vendor: Printify
   Product Type: Tank Top
   Availability: Available
@@ -317,7 +317,7 @@
     Availability: Available
     Price: $29.99 USD
 - [Skeleton Love Lost Crewneck - Rare Lachrywave Limited | Lachrymal Gems](https://lachrymalgems.store/products/skeleton-love-glitch-crewneck-sweatshirt): Rare lachrywave crewneck with Skeleton Love Lost design. Limited edition neon-punk sweatshirt. From Lachrymal Gems, only 3 available.
-  Updated: 2025-10-26T04:56:00Z
+  Updated: 2025-10-26T16:56:07Z
   Vendor: Printify
   Product Type: Sweatshirt
   Availability: Available
@@ -351,14 +351,14 @@
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/5347049586039609425_2048.jpg?v=1760038730
     Price: $39.99 USD
 - [Lost Love Skeleton Sling Bag - Lachrywave Crossbody | Lachrymal Gems](https://lachrymalgems.store/products/lost-love-skeleton-sling-bag): Lachrywave sling bag with Lost Love Skeleton design. Neon dark aesthetic crossbody bag. From Lachrymal Gems, for those caught between worlds.
-  Updated: 2025-10-26T04:55:37Z
+  Updated: 2025-10-26T16:55:43Z
   Vendor: Printify
   Product Type: Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/female-model-leggings-hoodie-dress-slippers-white-skeleton-sling-bag.png?v=1760910384
   Price: $57.99 USD
 - [Cozy Fleece Joggers - Lachrywave Comfort Sweatpants | Lachrymal Gems](https://lachrymalgems.store/products/cozy-unisex-fleece-joggers-casual-loungewear-athleisure-workout-pants-comfortable-leisure-bottoms-perfect-for-relaxation): Lachrywave cozy fleece joggers for ultimate comfort. Unisex sweatpants perfect for loungewear and athleisure. From Lachrymal Gems, comfort meets the frequency.
-  Updated: 2025-10-26T06:57:05Z
+  Updated: 2025-10-26T18:57:11Z
   Vendor: Printify
   Product Type: Trousers
   Availability: Available
@@ -388,7 +388,7 @@
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/15300762413328481391_2048.jpg?v=1760901455
     Price: $61.99 USD
 - [Memento Mori Snapback - Lachrywave Dark-Wave Hat | Lachrymal Gems](https://lachrymalgems.store/products/memento-mori-snapback-cap-flat-bill-hat-for-alternative-fashion-street-style): Lachrywave memento mori snapback with dark-wave aesthetic. Neon-punk vaporwave hat. From Lachrymal Gems, for digital natives who remember mortality.
-  Updated: 2025-10-26T04:55:22Z
+  Updated: 2025-10-26T16:55:29Z
   Vendor: Printify
   Product Type: Hats
   Availability: Available
@@ -526,7 +526,7 @@
     Availability: Available
     Price: $52.99 USD
 - [Memento Mori Vaporwave Sandals - Lachrywave Summer Slides | Lachrymal Gems](https://lachrymalgems.store/products/sandals-memento-mori-sad-lonely-skeleton-swing-vaporwave-aesthetic-fashion): Lachrywave memento mori sandals with vaporwave skeleton design. Comfortable summer slides with dark aesthetic. From Lachrymal Gems, walk through mortality.
-  Updated: 2025-10-26T05:02:30Z
+  Updated: 2025-10-26T17:02:35Z
   Vendor: Printify
   Product Type: Shoes
   Availability: Available
@@ -566,7 +566,7 @@
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/background-editor-output-4b7a4246-5690-4c52-bada-5698334c480d-_1.png?v=1760038656
   Price: $14.99 USD
 - [Embroidered Hiddengem Beanie - Lachrywave Winter Hat | Lachrymal Gems](https://lachrymalgems.store/products/embroidered-hiddengen-beanie): Lachrywave embroidered beanie with Hiddengem design. Cozy winter hat with glitch aesthetic. From Lachrymal Gems, for those caught between worlds.
-  Updated: 2025-10-26T04:55:04Z
+  Updated: 2025-10-26T16:55:11Z
   Vendor: Lachrymal Gems
   Product Type: EMBROIDERY
   Availability: Available
@@ -580,7 +580,7 @@
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/female-model-love-lost-skeletons-crop-top-clear-tote-bag.png?v=1761028180
   Price: $24.99 USD
 - [Love Lost Skeletons Long Sleeve - Lachrywave Aesthetic | Lachrymal Gems](https://lachrymalgems.store/products/love-lost-skeletons-men-s-long-sleeve-shirt): Lachrywave long sleeve with Love Lost Skeletons. Neon-punk vaporwave aesthetic shirt. From Lachrymal Gems, where digital grief meets raw energy.
-  Updated: 2025-10-26T04:54:48Z
+  Updated: 2025-10-26T16:54:53Z
   Vendor: Lachrymal Gems
   Product Type: T-SHIRT
   Availability: Available
@@ -614,14 +614,14 @@
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/female-model-leggings-hoodie-dress-slippers-white-skeleton-sling-bag.png?v=1760910384
   Price: $15.99 USD
 - [Memento Mori Joggers - Lachrywave Sad Boy Aesthetic Sweatpants | Lachrymal Gems](https://lachrymalgems.store/products/sad-boy-aesthetic-memento-mori-mens-joggers): Lachrywave memento mori joggers with sad boy aesthetic. Comfortable sweatpants for loungewear and streetwear. From Lachrymal Gems, where mortality meets comfort.
-  Updated: 2025-10-26T06:56:50Z
+  Updated: 2025-10-26T18:56:54Z
   Vendor: Printify
   Product Type: All Over Prints
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/female-model-cropped-hoodie-sad-boy-joggers-exact-design-slides-backpack.png?v=1761028013
   Price: $57.99 USD
 - [Love Lost Skeletons Long Sleeve - Lachrywave Dark Aesthetic | Lachrymal Gems](https://lachrymalgems.store/products/love-lost-skeletons-mens-long-sleeve-tee): Lachrywave long sleeve with Love Lost Skeletons design. Dark aesthetic casual wear with vaporwave energy. From Lachrymal Gems, where heartbreak glows.
-  Updated: 2025-10-26T06:56:28Z
+  Updated: 2025-10-26T18:56:57Z
   Vendor: Printify
   Product Type: Long-sleeve
   Availability: Available
@@ -827,7 +827,7 @@
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/13135556902623223657_2048_9336f76f-cf03-4ad1-abc4-87eec821c37f.jpg?v=1760023608
     Price: $48.99 USD
 - [Dark-Wave Anti-Social Tank - Lachrywave Streetwear | Lachrymal Gems](https://lachrymalgems.store/products/mens-tank-top-dark-aesthetic-neon-vibes-anti-social-club-streetwear-gym-wear): Lachrywave anti-social tank with dark aesthetic and neon vibes. Stone-washed streetwear for gym and casual wear. From Lachrymal Gems, for the beautifully isolated.
-  Updated: 2025-10-26T06:51:31Z
+  Updated: 2025-10-26T18:51:39Z
   Vendor: Printify
   Product Type: Tank Top
   Availability: Available
@@ -857,14 +857,14 @@
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/948668306500115053-2048-_3.jpg?v=1760912398
     Price: $36.99 USD
 - [Memento Mori Skater Dress - Limited Lachrywave Gothic | Lachrymal Gems](https://lachrymalgems.store/products/skater-dress-memento-mori-dark-rose-aesthetic): Limited lachrywave memento mori skater dress with dark rose aesthetic. Gothic vaporwave fashion dress. From Lachrymal Gems, where death meets the dance.
-  Updated: 2025-10-26T05:02:14Z
+  Updated: 2025-10-26T17:02:21Z
   Vendor: Printify
   Product Type: All Over Prints
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/female-model-memento-mori-dress-canvas-shoes.png?v=1761028071
   Price: $39.99 USD
 - [Skeleton Love Lost Backpack - Lachrywave Dark Aesthetic | Lachrymal Gems](https://lachrymalgems.store/products/lachrymal-gems-skeleton-love-lost-heart-seed-planting-dark-aesthetic-backpack): Lachrywave backpack with Love Lost Skeleton design. Dark aesthetic bag where digital grief meets neon-punk. From Lachrymal Gems, for those between worlds.
-  Updated: 2025-10-26T04:54:34Z
+  Updated: 2025-10-26T16:54:41Z
   Vendor: Printify
   Product Type: Bags
   Availability: Available
@@ -892,14 +892,14 @@
     Availability: Available
     Price: $31.99 USD
 - [Occult Aesthetic Beanie - Lachrywave Unisex Winter Hat | Lachrymal Gems](https://lachrymalgems.store/products/occult-aesthetic-unisex-beanie): Lachrywave occult beanie with dark aesthetic all-over print. Cozy unisex winter hat with mystical design. From Lachrymal Gems, warmth meets mystery.
-  Updated: 2025-10-26T05:01:58Z
+  Updated: 2025-10-26T17:02:03Z
   Vendor: Printify
   Product Type: All Over Prints
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/male-model-fleece-joggers-long-sleeve-beanie-duffle-bag_5192fa11-c64f-404b-b95d-ca7e079f026e.png?v=1761028033
   Price: $20.99 USD
 - [Dark Neon-Wave Canvas Sneakers - Lachrywave High-Tops | Lachrymal Gems](https://lachrymalgems.store/products/stylish-high-top-sneakers-with-vibrant-design-trendy-footwear-fashionable-sneakers-unique-artistic-shoes-cool-casual-kicks): Lachrywave dark neon-wave high-top sneakers with vibrant artistic design. Canvas shoes for alternative fashion. From Lachrymal Gems, step into the frequency.
-  Updated: 2025-10-26T05:05:12Z
+  Updated: 2025-10-26T17:05:19Z
   Vendor: Printify
   Product Type: Shoes
   Availability: Available
@@ -938,7 +938,7 @@
     Availability: Available
     Price: $41.99 USD
 - [Dark Aesthetic Neon Cropped Hoodie - Lachrywave Fashion | Lachrymal Gems](https://lachrymalgems.store/products/sad-aesthetic-cropped-hoodie): Lachrywave neon cropped hoodie with dark aesthetic design. Comfortable fleece with modern raw hem. From Lachrymal Gems, where cozy meets electric.
-  Updated: 2025-10-26T05:01:43Z
+  Updated: 2025-10-26T17:01:51Z
   Vendor: Printify
   Product Type: Hoodie
   Availability: Available
@@ -984,7 +984,7 @@
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/6258533648390964751_2048.jpg?v=1760900501
     Price: $46.99 USD
 - [Love Lost Skeleton Makeup Bag - Lachrywave Gothic | Lachrymal Gems](https://lachrymalgems.store/products/copy-of-love-lost-skeleton-dark-alternative-make-up-bag): Lachrywave makeup bag with Love Lost Skeleton design. Dark-wave vaporwave aesthetic beauty storage. From Lachrymal Gems, the signal between worlds.
-  Updated: 2025-10-26T04:01:05Z
+  Updated: 2025-10-26T16:01:11Z
   Vendor: Printify
   Product Type: Bags
   Availability: Available
@@ -1003,7 +1003,7 @@
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/marcus-core-design-tapestry.png?v=1761028001
   Price: $39.99 USD
 - [Love Lost Skeletons Ringer Tee - Lachrywave Retro T-Shirt | Lachrymal Gems](https://lachrymalgems.store/products/copy-of-ringer-t-shirt-decade-love-lost-skeletons-print): Lachrywave ringer tee with Love Lost Skeletons design. Retro dark aesthetic t-shirt with contrast trim. From Lachrymal Gems, vintage meets neon-punk.
-  Updated: 2025-10-26T05:01:27Z
+  Updated: 2025-10-26T17:01:33Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
@@ -1071,14 +1071,14 @@
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/6903524216527952166_2048.jpg?v=1760865666
     Price: $36.99 USD
 - [Occult Sad Vaporwave Shorts - Lachrywave Athletic Wear | Lachrymal Gems](https://lachrymalgems.store/products/basketball-shorts-mens-occult-sad-satan-vaporwave): Lachrywave occult vaporwave shorts with sad aesthetic design. Athletic wear with mystical neon-punk vibe. From Lachrymal Gems, where sadness glows.
-  Updated: 2025-10-26T05:04:47Z
+  Updated: 2025-10-26T17:04:54Z
   Vendor: Printify
   Product Type: All Over Prints
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/male-model-occult-shorts-tank-socks-shoes-snapback.png?v=1761027957
   Price: $51.99 USD
 - [Neon Lachrymal Gems Tank - Lachrywave Brand Streetwear | Lachrymal Gems](https://lachrymalgems.store/products/mens-tank-shirt-neon-aesthetic-mens-lachrymal-gems-alternative): Lachrywave neon tank with lachrymal gems design. Bold vaporwave aesthetic streetwear. From Lachrymal Gems, wear the brand, live the frequency.
-  Updated: 2025-10-26T05:04:18Z
+  Updated: 2025-10-26T17:04:53Z
   Vendor: Printify
   Product Type: Tank Top
   Availability: Available
@@ -1228,7 +1228,7 @@
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/15382797571737175173_2048.jpg?v=1760865754
     Price: $30.99 USD
 - [Emo Wave Sublimation Socks - Lachrywave Alternative Fashion | Lachrymal Gems](https://lachrymalgems.store/products/emo-wave-sublimation-socks): Lachrywave emo wave socks with bold all-over print. Alternative fashion accessories with vaporwave aesthetic. From Lachrymal Gems, express yourself fully.
-  Updated: 2025-10-26T05:03:58Z
+  Updated: 2025-10-26T17:04:06Z
   Vendor: Printify
   Product Type: All Over Prints
   Availability: Available
@@ -1246,14 +1246,14 @@
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/8346601574226317387_2048.jpg?v=1760866106
     Price: $11.99 USD
 - [Diamond Joggers - Lachrywave All-Over Print Sweatpants | Lachrymal Gems](https://lachrymalgems.store/products/diamond-joggers): Lachrywave diamond joggers with all-over print design. Comfortable unisex sweatpants with neon-punk aesthetic. From Lachrymal Gems, for those between worlds.
-  Updated: 2025-10-26T05:00:43Z
+  Updated: 2025-10-26T17:00:56Z
   Vendor: Printify
   Product Type: All Over Prints
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/complete-outfit-mockup-joggers-crewneck-sneakers.png?v=1760864903
   Price: $44.62 USD
 - [Dark Aesthetic Skater Skirt - Lachrywave Gothic Fashion | Lachrymal Gems](https://lachrymalgems.store/products/dark-aesthetic-skater-skirt): Lachrywave skater skirt with dark aesthetic print. Gothic alternative fashion with vaporwave edge. From Lachrymal Gems, for those caught between worlds.
-  Updated: 2025-10-26T05:01:12Z
+  Updated: 2025-10-26T17:01:20Z
   Vendor: Printify
   Product Type: All Over Prints
   Availability: Available
@@ -1361,7 +1361,7 @@
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/1921614712821865457_2048.jpg?v=1760927085
   Price: $55.99 USD
 - [Neon Devil Deals T-Shirt - Lachrywave Aesthetic | Lachrymal Gems](https://lachrymalgems.store/products/unisex-softstyle-t-shirt-comfortable-casual-wear-perfect-for-everyday-fashion-gifts-birthdays-relaxed-style-and-celebrations): Lachrywave neon devil t-shirt - where digital grief meets punk energy. Dark aesthetic streetwear from Lachrymal Gems. For those caught between worlds.
-  Updated: 2025-10-26T04:00:32Z
+  Updated: 2025-10-26T16:00:42Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
@@ -1557,12 +1557,19 @@
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/713796044074234077_2048.jpg?v=1761073327
     Price: $68.99 USD
 - [Dark Occult Racerback Dress - Lachrywave Gothic Fashion | Lachrymal Gems](https://lachrymalgems.store/products/gothic-racerback-dress-spooky-summer-fashion-halloween-outfit-casual-everyday-wear-trendy-festival-dress-unique-gothic-apparel): Lachrywave occult racerback dress with dark aesthetic design. Gothic vaporwave festival dress. From Lachrymal Gems, for those who embrace the mystery.
-  Updated: 2025-10-26T05:00:58Z
+  Updated: 2025-10-26T17:01:05Z
   Vendor: Printify
   Product Type: All Over Prints
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/female-model-dark-occult-racerback-dress.png?v=1761103544
   Price: $53.99 USD
+- [Dark Art, Lachrymal Gem Stickers](https://lachrymalgems.store/products/dark-art-lachrymal-gem-stickers): 3" × 3" Width, in 3.00 Length, in 3.00 Add a touch of personality to your favorite items with these vibrant Kiss-Cut Stickers! Perfect for customizing laptops, journals, and windows, these stickers provide a playful vibe that effortlessly enhances your space. Ideal for creative souls, artists, and anyone looking to express their unique style, they're perfect for personal use or as thoughtful gifts. These stickers shine during holidays like Valentine’s Day, birthdays, or any celebration where a little flair is appreciated. Embrace a fun, artistic atmosphere with these durable and colorful additions to your collection.Product features- Glossy paper finish for a scratch-resistant surface- Long-lasting vinyl with permanent adhesive, suitable for smooth surfaces- Vibrant colors printed with eco-friendly inks- Available in four sizes with both white and transparent options- Quick, smooth, and bubble-free application for easy decorating.Care instructions- Use a soft, clean and dry cloth to gently brush any dust or dirt off from the center of the sticker outwards.
+  Updated: 2025-10-26T18:04:47Z
+  Vendor: Printify
+  Product Type: Paper products
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/18341870395530452708_1200.jpg?v=1761168403
+  Price: $1.58 USD
 - [Lachrywave Abduction Tank - Neon Punk Streetwear | Lachrymal Gems](https://lachrymalgems.store/products/mens-lachrywave-abduction-tank): Lachrywave abduction tank - neon-punk vaporwave aesthetic. Digital grief meets cosmic energy. From Lachrymal Gems, the signal for those caught between.
   Updated: 2025-10-26T15:59:15Z
   Vendor: Printify
@@ -1671,46 +1678,46 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/2257174502418459213_2048.jpg?v=1761412734
     Price: $48.18 USD
-- [Lachrywave Dark Occult Chest Bag](https://lachrymalgems.store/products/lachrywave-dark-occult-chest-bag): This Chest Bag exudes a Lachrywave Aesthetic with dark occult accents, perfect for those who appreciate alternative styles. It is ideal for individuals who enjoy expressing their unique fashion sense. Relevant for festivals, music events, and everyday use.Product features- 100% Premium Nylon material for durability and windproofing- One adjustable shoulder strap for comfortable carrying- Convenient compartments including 2 zipped pockets and 2 mesh pockets- Black detailing for a sleek look- Perfect for festivals, music events, and everyday useCare instructions- Avoid using cleaners that contain bleach, do not use high temperature water, do not expose the bag to high temperatures One size Length , in 8.00 Height (without the strap), in 15.00 Width, in 3.20 Strap length (min), in 29.00 Strap length (max), in 42.00
-  Updated: 2025-10-26T11:02:38Z
+- [Lachrywave Dark Occult Chest Bag - Alternative Streetwear | Lachrymal Gems](https://lachrymalgems.store/products/lachrywave-dark-occult-chest-bag): Carry your essentials in style with our Lachrywave Dark Occult chest bag. Perfect for festivals, streetwear, and everyday emo aesthetic. Unique occult design.
+  Updated: 2025-10-26T17:57:39Z
   Vendor: Printify
   Product Type: Bags
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/17228476705730523868_2048.jpg?v=1761476554
+  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/male-model-lachrywave-dark-occult-chest-bag.png?v=1761501459
   Price: $58.30 USD
-- [Esoteric Lachrywave Pajama Pants](https://lachrymalgems.store/products/esoteric-lachrywave-pajama-pants): Esoteric Lachrywave Ladies pants are made from soft 100% polyester jersey with a bright and crisp all-over print. The relaxed comfort fit and adjustable drawstring waist provide the perfect blend of style and comfort. These pants are perfect for women looking for unique and eye-catching loungewear, ideal for nights in or as a thoughtful gift for astrology enthusiasts and spiritual individuals. Relevant for casual wear, lounging, meditation sessions, and spiritual gatherings.Product features- Soft 100% polyester jersey fabric- Adjustable drawstring waist for perfect fit- All-over bold print design- Relaxed comfort fit- Ideal for astrology enthusiasts and spiritual individualsCare instructions- Do not dryclean- Do not iron- Tumble dry: low heat- Do not bleach- Machine wash: cold (max 30C or 90F) L Waist width, in 16.73 Outseam, in 40.63 Inseam, in 30.37
-  Updated: 2025-10-26T11:20:24Z
+- [Esoteric Lachrywave Pajama Pants - Alternative Loungewear | Lachrymal Gems](https://lachrymalgems.store/products/esoteric-lachrywave-pajama-pants): Lounge in style with our Esoteric Lachrywave pajama pants. Unique occult design, comfortable fit. Perfect for alternative fashion lovers and cozy vibes.
+  Updated: 2025-10-26T18:06:36Z
   Vendor: Printify
   Product Type: All Over Prints
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/6296894726014872416_2048.jpg?v=1761477577
+  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/female-model-esoteric-lachrywave-pajama-pants.png?v=1761501996
   Price: $61.48 USD
 
 ## Collections
 
 - [Home page](https://lachrymalgems.store/collections/frontpage): Landing pages display of best selling products
-  Updated: 2025-10-25T11:20:19Z
+  Updated: 2025-10-26T18:09:56Z
   Total Products: 19
 - [Ladies Alt. Style](https://lachrymalgems.store/collections/ladies-alt-style): Ladies trending apparel, Seasonal Fashion
-  Updated: 2025-10-26T11:19:33Z
+  Updated: 2025-10-26T18:09:56Z
   Total Products: 15
 - [Mens Alt. Style](https://lachrymalgems.store/collections/mens-alt-style): Mens hip hop alternative trends and seasonal outfits.
-  Updated: 2025-10-25T15:56:56Z
+  Updated: 2025-10-26T18:09:56Z
   Total Products: 19
 - [Trap-Core Shoes](https://lachrymalgems.store/collections/trap-core-shoes)
-  Updated: 2025-10-24T08:07:42Z
+  Updated: 2025-10-26T18:09:56Z
   Total Products: 5
 - [Baggage with Benifiets](https://lachrymalgems.store/collections/baggage-with-benifiets): Carry what matters, drop what doesn't. We all carry something at least make it cute . Match your vibe not your outfit.
-  Updated: 2025-10-26T11:02:12Z
+  Updated: 2025-10-26T18:09:56Z
   Total Products: 4
 - [Vibe bin](https://lachrymalgems.store/collections/vibe-bin): Everything that feeds the mood board of your life. Shop the little things that recharge your frequency.
-  Updated: 2025-10-24T08:07:43Z
+  Updated: 2025-10-26T18:09:57Z
   Total Products: 2
 - [Partner Products](https://lachrymalgems.store/collections/partner-products)
   Updated: 2025-10-22T04:20:41Z
   Total Products: 0
 - [All Products](https://lachrymalgems.store/collections/all)
-  Updated: 2025-10-26T11:20:00Z
+  Updated: 2025-10-26T18:04:48Z
   Total Products: 51
 
 ## Blogs
