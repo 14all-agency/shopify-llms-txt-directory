@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2024-11-18T06:39:38Z
 - Contact Email: themedicalnotes@yahoo.com
-- Updated At: 2025-10-26T08:00:54.592Z
+- Updated At: 2025-10-26T16:00:35.663Z
 
 ## Products
 
@@ -35,7 +35,7 @@
 ## Collections
 
 - [Home page](https://medicalnotes.in/collections/frontpage)
-  Updated: 2025-10-19T11:17:15Z
+  Updated: 2025-10-26T11:17:20Z
   Total Products: 2
 - [Paperbacks](https://medicalnotes.in/collections/paperbacks): Order Our Highly Popular Paperbacks Today. Use Code "BOOKS10" for 10% OFF.
   Updated: 2025-09-22T20:23:52Z
