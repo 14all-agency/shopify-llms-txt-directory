@@ -6,12 +6,12 @@
 - Timezone: Europe/Stockholm
 - Created At: 2024-11-08T10:55:56Z
 - Contact Email: hello@poppatea.com
-- Updated At: 2025-10-25T16:00:44.883Z
+- Updated At: 2025-10-26T00:00:58.012Z
 
 ## Products
 
 - [Matcha Tea Powder - Ceremonial Grade - Japanese Green Tea](https://poppatea.com/products/matcha-tea-ceremonial): Treat yourself to a cup of our ceremonial Matcha tea, sourced from the finest Japanese green tea leaves, for a high quality and eco-friendly experience. A reliable choice for your daily dose of antioxidants and a guilt-free indulgence.
-  Updated: 2025-10-25T15:56:26Z
+  Updated: 2025-10-25T22:20:22Z
   Vendor: PoppaTea
   Product Type: 
   Availability: Available
