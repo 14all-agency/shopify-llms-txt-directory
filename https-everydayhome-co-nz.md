@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2023-02-26T22:25:50Z
 - Contact Email: info@everydayhome.co.nz
-- Updated At: 2025-10-27T08:00:40.427Z
+- Updated At: 2025-10-27T12:00:40.830Z
 
 ## Products
 
@@ -228,7 +228,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/UMBRA-Cubiko-Corner-Shower-Bins-White-8.png?v=1727659913
   Price: $63.99 NZD
 - [Umbra Bellwood Caddy - White/Natural](https://everydayhome.co.nz/products/bellwood-caddy-wht-ntrl): Bellwood Caddy, Wht/Ntrl
-  Updated: 2025-10-23T20:30:35Z
+  Updated: 2025-10-27T08:53:51Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -410,7 +410,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/DUTCH-DELUXES-Bread-Board-Oiled-Walnut-0.png?v=1727659358
   Price: $89.99 NZD
 - [Food Stand Medium - Platinum](https://everydayhome.co.nz/products/dutchdeluxes-food-stand-medium-platinum): The most fashionable way to serve and present appetizers, cakes, tapas, sushi or other sweets on the ceramic food stands. Use one or extend the presentation by placing two, three and even more at your table. A decorative way for every food presentation, stunning on your table!
-  Updated: 2025-09-02T23:53:25Z
+  Updated: 2025-10-27T08:54:56Z
   Vendor: DUTCH DELUXES
   Product Type: Kitchenware
   Availability: Available
@@ -1299,7 +1299,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/BRABANTIA-Linn-Steam-Board-Grey-0.png?v=1727659548
   Price: $111.99 NZD
 - [Brabantia Refresh Foldable Steaming Board - Pepper Black](https://everydayhome.co.nz/products/foldable-steaming-board-pepper-black): Do you prefer steaming your clothes instead of ironing? Use the Brabantia Foldable Steam Board to make those creases disappear- for a better result, even faster. Hang it anywhere you like from its rotating hook and use both sides of the board for steaming. The rounded top helps you to steam the likes of tricky collars and shoulders with ease. And when you're done, it easily folds away for storage.
-  Updated: 2025-10-23T20:31:54Z
+  Updated: 2025-10-27T08:07:11Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -1754,7 +1754,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Circulon-Scratchdefense-A1-8-Piece-Cookware-Set-Ci-6.jpg?v=1731902752
   Price: $691.99 NZD
 - [Umbra Conceal Floating Shelves - Set of 3 Silver](https://everydayhome.co.nz/products/conceal-shelf-small-set-3-silver): Conceal Shelves come in a set of 3 powder coated silver floating bookshelves that become invisible behind a stack of books, transforming the books into a work of art. The shelves have flexibility in the mounting formation and can be displayed as a group or separately, linear in orientation or staggered. Conceal has a small lip to hold the book cover from falling and give off the illusion of a floating shelf. The set is space-saving and can fit into awkward wall spaces to securely nestle your books. Coming in a sheen silver finish, Conceal can integrate seamlessly into any space, adding dimension.
-  Updated: 2025-10-26T20:37:11Z
+  Updated: 2025-10-27T08:07:11Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -2103,15 +2103,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Estique-Organiser-White-UMBRA-1.jpg?v=1731902268
   Price: $35.99 NZD
-- [Exhibit Photo Display (Set of 3) - Black](https://everydayhome.co.nz/products/exhibit-3-photo-display-black): Exhibit Photo Display features a wall-mounted brushed metal ledge with clips and brackets to hold three gallery-style picture frames of various size, all while reducing the amount of damage typically left on walls. The brackets with the frames are suspended from the ledge, which allows them to be moved around to create various layouts. Its flexible horizontal hanging properties make Exhibit a great addition to your stairway due to its ability to be hung angled. Use Exhibit to set a décor accent in your living room, bedroom, entryway, office or studio and give it a modern update while curating your favorite photos and artwork.
-  Updated: 2025-10-23T20:32:52Z
-  Vendor: UMBRA
-  Product Type: Home & Living
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Exhibit-Photo-Display-Set-of-3-Black-UMBRA-0.png?v=1731902610
-  Price: $79.99 NZD
 - [Exhibit Photo Display (Set 5) - Black](https://everydayhome.co.nz/products/exhibit-photo-display-set-5-black): Exhibit Photo Display features a wall-mounted brushed metal ledge with clips and brackets to hold five gallery-style picture frames of various size, all while reducing the amount of damage typically left on walls. The brackets with the frames are suspended from the ledge, which allows them to be moved around to create various layouts. Its flexible horizontal hanging properties make Exhibit a great addition to your stairway due to its ability to be hung angled. Use Exhibit to set a décor accent in your living room, bedroom, entryway, office or studio and give it a modern update while curating your favorite photos and artwork.
-  Updated: 2025-10-26T05:07:10Z
+  Updated: 2025-10-27T08:07:10Z
   Vendor: UMBRA
   Product Type: Home & Living
   Availability: Available
@@ -2258,7 +2251,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/Pirouette-Cosmetic-Organizer-Clear-Nickel-UMBRA-0.jpg?v=1731902902
   Price: $47.99 NZD
 - [Umbra Portaloo Toilet Paper Stand & Storage - White/Nickel](https://everydayhome.co.nz/products/portaloo-toilet-paper-stand-reserve-white-nickel): Freestanding and easy to move around, Portaloo makes use of vertical space to deliver a versatile and modern toilet paper stand. Portaloo’s practical design includes a built-in tray for personal items or small decor, as well as storage to hide and hold extra toilet paper rolls. Its white matte body and shiny chrome accents work to complement bathroom appliances and suit a variety of color palettes. Portaloo is convenient, easy to use and fits up to three jumbo size rolls.
-  Updated: 2025-10-23T20:33:04Z
+  Updated: 2025-10-27T09:07:11Z
   Vendor: UMBRA
   Product Type: Bed & Bath
   Availability: Available
@@ -2650,7 +2643,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/IroningBoardD_135x45cm_HRPZ-SpringBubbles-8710755134784Brabantia_96dpi_1000x1000px_7_NR-19937.png?v=1733870829
   Price: $287.99 NZD
 - [Brabantia Lift-O-Matic Clothesline with Metal Ground Spike - 60m Metallic Grey](https://everydayhome.co.nz/products/lift-o-matic-4-arm-clothesline-60m-metal-soil-spear-cover-metallic-grey): Breeze through laundry days, let your rotary dryer do the work! Set the dryer seamlessly to your ideal working height (anywhere between 129 to 187 cm), and spin it around. This robust Brabantia rotary dryer is fitted with a whopping 60 metres of quality, UV-resistant non-slip washing lines that are always taut. It has an eye at the end of each arm for clothes hangers, and a sturdy hanging loop for easy storage. And it is planet friendly too. A true spirit lifter!
-  Updated: 2025-10-27T05:22:11Z
+  Updated: 2025-10-27T09:07:11Z
   Vendor: BRABANTIA
   Product Type: Laundry Care
   Availability: Available
@@ -4412,7 +4405,7 @@
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/CONTEMPORARY_161630_CoveredSaute30cm4.3L_1.jpg?v=1756779024
   Price: $135.99 NZD
 - [Raco Contemporary Nonstick Induction Crepe Pan - 24cm](https://everydayhome.co.nz/products/raco-contemporary-nonstick-induction-crepe-pan-24cm): The Raco Contemporary Nonstick Induction Crepe Pan, measuring 24cm, is expertly designed for effortless cooking and even heat distribution on induction cooktops. Its high-quality nonstick surface ensures your crepes, pancakes, and omelettes slide off smoothly, allowing for perfect flips and easy cleaning.
-  Updated: 2025-10-23T20:35:02Z
+  Updated: 2025-10-27T08:07:11Z
   Vendor: Raco
   Product Type: Kitchenware
   Availability: Available
@@ -4578,13 +4571,6 @@
   Product Type: Home & Living
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1018090-040_EXHIBIT3OPSETOF38X10_BLACK_I0223345.jpg?v=1755748377
-  Price: $79.99 NZD
-- [Umbra Exhibit Wall Picture Frame - Set of 3 8x10 Black](https://everydayhome.co.nz/products/umbra-exhibit-wall-picture-frame-set-3-8x10-black): Create your own unique gallery wall with Exhibit 8x10 picture frames. An extension from the original Exhibit Photo Display, this set of three larger frames, each suspend on their own metal rod. Displayed vertically or horizontally, Exhibit is a unique way to hang and showoff your favorite photos. Each picture frame can float an image up to 8x10" in size. Use Exhibit to set a décor accent in your living room, bedroom, entryway, office or studio and give it a modern update while curating your favorite photos and artwork.
-  Updated: 2025-10-23T20:35:15Z
-  Vendor: UMBRA
-  Product Type: Home & Living
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0729/8816/4407/files/1012271-040_INFINITY_PD_4x6_CLOSEDCROP_02copy.jpg?v=1755738808
   Price: $79.99 NZD
 - [Umbra Infinity Picture Frame - 4x6 Black](https://everydayhome.co.nz/products/umbra-infinity-picture-frame-4x6-black): An original design unlike any other picture frame, Infinity is a first of its kind. Its elegant design and sleek finish adds to the original make of this unique picture frame. Use your imagination to mix and match the different finishes of this picture frame to display a beautiful array of illustrations or personal pictures on your tables or walls.
   Updated: 2025-10-23T20:35:15Z
@@ -4758,7 +4744,7 @@
 ## Collections
 
 - [Bathroom](https://everydayhome.co.nz/collections/bathroom)
-  Updated: 2025-10-23T20:35:26Z
+  Updated: 2025-10-27T11:05:39Z
   Total Products: 133
 - [Furniture](https://everydayhome.co.nz/collections/furniture)
   Updated: 2025-10-24T11:06:49Z
@@ -4773,16 +4759,16 @@
   Updated: 2025-09-23T12:13:26Z
   Total Products: 22
 - [All products](https://everydayhome.co.nz/collections/all-products)
-  Updated: 2025-10-26T11:07:00Z
+  Updated: 2025-10-27T11:05:39Z
   Total Products: 1051
 - [Brands](https://everydayhome.co.nz/collections/brands)
-  Updated: 2025-10-26T11:07:00Z
+  Updated: 2025-10-27T11:05:39Z
   Total Products: 1051
 - [Umbra](https://everydayhome.co.nz/collections/umbra): Shop Umbra for modern, unique home decor and organisation products at Everyday Home. Find on trend designs in storage, wall art, furniture, and many other pieces to renew your living space in style and functionality. Shop now and enjoy free shipping across NZ on orders over $99*
-  Updated: 2025-10-26T11:07:00Z
+  Updated: 2025-10-27T11:05:39Z
   Total Products: 278
 - [Brabantia](https://everydayhome.co.nz/collections/brabantia)
-  Updated: 2025-10-26T11:07:00Z
+  Updated: 2025-10-27T11:05:39Z
   Total Products: 364
 - [Bins](https://everydayhome.co.nz/collections/bins)
   Updated: 2025-09-23T12:13:18Z
@@ -4791,10 +4777,10 @@
   Updated: 2025-10-23T20:34:55Z
   Total Products: 58
 - [Mirrors](https://everydayhome.co.nz/collections/mirrors)
-  Updated: 2025-10-23T20:32:59Z
+  Updated: 2025-10-27T11:05:39Z
   Total Products: 25
 - [Kitchen Storage](https://everydayhome.co.nz/collections/kitchen-storage)
-  Updated: 2025-10-23T20:34:54Z
+  Updated: 2025-10-27T11:05:39Z
   Total Products: 55
 - [Art & Decor](https://everydayhome.co.nz/collections/art-decor)
   Updated: 2025-09-23T12:13:00Z
@@ -4818,16 +4804,16 @@
   Updated: 2025-10-23T20:30:52Z
   Total Products: 7
 - [Dutch Deluxes](https://everydayhome.co.nz/collections/dutch-deluxe)
-  Updated: 2025-09-23T12:13:34Z
+  Updated: 2025-10-27T11:05:39Z
   Total Products: 27
 - [Natural Home Fragrance & Body Care | The Aromatherapy Co](https://everydayhome.co.nz/collections/the-aromatherapy-co): Discover The Aromatherapy Co.’s range of natural home fragrance and body care products. Designed in New Zealand, these products combine essential oils and premium ingredients to enhance your well-being and create a relaxing atmosphere in your home. Shop candles, diffusers, and skincare collections today.
   Updated: 2025-10-23T20:31:08Z
   Total Products: 89
 - [Serveware](https://everydayhome.co.nz/collections/serveware)
-  Updated: 2025-09-23T12:13:34Z
+  Updated: 2025-10-27T11:05:39Z
   Total Products: 21
 - [Bedroom](https://everydayhome.co.nz/collections/bedroom)
-  Updated: 2025-10-23T20:35:26Z
+  Updated: 2025-10-27T11:05:39Z
   Total Products: 51
 - [Piece House](https://everydayhome.co.nz/collections/piece-house)
   Updated: 2025-10-23T20:31:14Z
@@ -4842,13 +4828,13 @@
   Updated: 2025-10-24T11:06:49Z
   Total Products: 6
 - [Kitchenware](https://everydayhome.co.nz/collections/kitchenware)
-  Updated: 2025-10-25T11:06:47Z
+  Updated: 2025-10-27T11:05:39Z
   Total Products: 347
 - [Home & Living](https://everydayhome.co.nz/collections/home-living)
-  Updated: 2025-10-26T11:07:00Z
+  Updated: 2025-10-27T11:05:39Z
   Total Products: 236
 - [Bed & Bath](https://everydayhome.co.nz/collections/bedroom-bathroom)
-  Updated: 2025-10-23T20:35:13Z
+  Updated: 2025-10-27T11:05:39Z
   Total Products: 155
 - [Waste Care](https://everydayhome.co.nz/collections/waste-care)
   Updated: 2025-10-25T11:06:47Z
@@ -4866,7 +4852,7 @@
   Updated: 2025-10-25T11:06:47Z
   Total Products: 29
 - [Hooks & Organisation](https://everydayhome.co.nz/collections/hooks-organisation)
-  Updated: 2025-10-26T11:07:00Z
+  Updated: 2025-10-27T11:05:39Z
   Total Products: 36
 - [Ironing & Steaming](https://everydayhome.co.nz/collections/ironing-steaming)
   Updated: 2025-10-26T11:07:00Z
@@ -4884,7 +4870,7 @@
   Updated: 2025-10-23T20:31:50Z
   Total Products: 4
 - [Mix & Measure](https://everydayhome.co.nz/collections/mix-measure)
-  Updated: 2025-10-23T20:33:43Z
+  Updated: 2025-10-27T11:05:39Z
   Total Products: 6
 - [Clocks](https://everydayhome.co.nz/collections/clocks)
   Updated: 2025-10-23T20:31:17Z
@@ -4902,7 +4888,7 @@
   Updated: 2025-09-04T22:58:22Z
   Total Products: 3
 - [Organisation](https://everydayhome.co.nz/collections/organisation)
-  Updated: 2025-10-23T20:34:54Z
+  Updated: 2025-10-27T11:05:39Z
   Total Products: 31
 - [Shelves & Tables](https://everydayhome.co.nz/collections/shelves-tables)
   Updated: 2025-10-23T20:33:02Z
@@ -4920,13 +4906,13 @@
   Updated: 2025-10-23T20:34:55Z
   Total Products: 17
 - [Wall Hooks](https://everydayhome.co.nz/collections/wall-hooks)
-  Updated: 2025-10-26T11:07:00Z
+  Updated: 2025-10-27T11:05:39Z
   Total Products: 30
 - [Storage & Organisation](https://everydayhome.co.nz/collections/storage-organisation): Keep your home stylishly organised with Everyday Home's variety of storage solutions. Find everything from sleek pantry organisers to multi-functional cosmetic and shower caddies that will maximize space while adding style to any room. Shop now and enjoy free shipping across NZ on orders over $99*.
-  Updated: 2025-10-23T20:35:26Z
+  Updated: 2025-10-27T11:05:39Z
   Total Products: 42
 - [Wall Mirrors](https://everydayhome.co.nz/collections/wall-mirrors)
-  Updated: 2025-10-23T20:32:59Z
+  Updated: 2025-10-27T11:05:39Z
   Total Products: 19
 - [Cleaning Tools & Accessories](https://everydayhome.co.nz/collections/cleaning-tools-accessories)
   Updated: 2025-10-23T20:34:55Z
@@ -4992,13 +4978,13 @@
   Updated: 2025-10-23T20:31:02Z
   Total Products: 19
 - [Sale](https://everydayhome.co.nz/collections/sale): Save up to 60% off on Umbra, Brabantia, Dutch Deluxes and more at Everyday Home! Don’t miss out on huge discounts on premium home essentials during our limited-time sale. From chic home must-haves to stylish kitchen essentials. Shop now and transform your home with the latest trends.
-  Updated: 2025-10-26T11:07:00Z
+  Updated: 2025-10-27T11:05:39Z
   Total Products: 776
 - [All Home & Living](https://everydayhome.co.nz/collections/all-home-living)
-  Updated: 2025-10-26T11:07:00Z
+  Updated: 2025-10-27T11:05:39Z
   Total Products: 262
 - [Shop All Kitchen](https://everydayhome.co.nz/collections/shop-all-kitchen)
-  Updated: 2025-10-25T11:06:47Z
+  Updated: 2025-10-27T11:05:39Z
   Total Products: 359
 - [Shop All Laundry](https://everydayhome.co.nz/collections/shop-all-laundry)
   Updated: 2025-10-26T11:07:00Z
@@ -5037,16 +5023,16 @@
   Updated: 2025-10-23T20:32:54Z
   Total Products: 3
 - [Jewelry Organisation Solutions | Shop Now](https://everydayhome.co.nz/collections/jewelry-organisation): Jewelry organisation solutions to store and display your accessories. From elegant trays and stands to versatile organisers for rings, necklaces, and earrings, our collection helps you keep your jewelry neat, accessible, and tangle-free. Free shipping across NZ on orders over 99*
-  Updated: 2025-10-23T20:35:26Z
+  Updated: 2025-10-27T11:05:39Z
   Total Products: 21
 - [Unbeatable Deals Everyday Home | Outlet](https://everydayhome.co.nz/collections/outlet): Score massive bargains on end-of-season favourites and bestsellers—prices slashed, stock limited, and deals you won't want to miss. Shop now before they're gone! Free shipping across NZ on orders over 99*
-  Updated: 2025-10-25T11:06:47Z
+  Updated: 2025-10-27T11:05:39Z
   Total Products: 156
 - [All products excluding sale items](https://everydayhome.co.nz/collections/all-products-excluding-sale-items)
   Updated: 2025-10-23T20:35:56Z
   Total Products: 290
 - [Shower Caddies](https://everydayhome.co.nz/collections/shower-caddies)
-  Updated: 2025-10-23T20:35:13Z
+  Updated: 2025-10-27T11:05:39Z
   Total Products: 22
 - [Anolon](https://everydayhome.co.nz/collections/anolon)
   Updated: 2025-10-23T20:32:13Z
@@ -5070,7 +5056,7 @@
   Updated: 2025-10-23T20:34:39Z
   Total Products: 4
 - [Kitchen Scales](https://everydayhome.co.nz/collections/kitchen-scales)
-  Updated: 2025-10-23T20:33:42Z
+  Updated: 2025-10-27T11:05:39Z
   Total Products: 3
 - [Kitchen Utensils & Tools](https://everydayhome.co.nz/collections/kitchen-utensils-tools)
   Updated: 2025-10-25T11:06:47Z
@@ -5085,13 +5071,13 @@
   Updated: 2025-10-23T20:34:09Z
   Total Products: 5
 - [All Products](https://everydayhome.co.nz/collections/all)
-  Updated: 2025-10-26T11:07:00Z
+  Updated: 2025-10-27T11:05:39Z
   Total Products: 1065
 - [All products excluding Sale items](https://everydayhome.co.nz/collections/all-products-excluding-sale-items-1)
   Updated: 2025-10-23T20:35:56Z
   Total Products: 290
 - [Mother's Day](https://everydayhome.co.nz/collections/mothers-day): This Mother’s Day, give her something thoughtful, beautiful, and just for her. Because she deserves to be celebrated in every little way.
-  Updated: 2025-10-23T20:33:26Z
+  Updated: 2025-10-27T11:05:39Z
   Total Products: 34
 - [SwiftDry Clothelines NZ](https://everydayhome.co.nz/collections/swiftdry-clothelines-nz)
   Updated: 2025-10-20T05:10:28Z
@@ -5106,19 +5092,19 @@
   Updated: 2025-09-23T12:19:51Z
   Total Products: 15
 - [Shop All Bed & Bath](https://everydayhome.co.nz/collections/shop-all-bed-bath)
-  Updated: 2025-10-23T20:35:26Z
+  Updated: 2025-10-27T11:05:39Z
   Total Products: 162
 - [Spring Sale](https://everydayhome.co.nz/collections/spring-sale): Spring Sale! Save up to 30% on waste care, kitchen cleaning, storage & laundry solutions. Refresh your home this season with stylish essentials.
-  Updated: 2025-10-26T11:07:00Z
+  Updated: 2025-10-27T11:05:39Z
   Total Products: 240
 - [Shower Squeegees](https://everydayhome.co.nz/collections/shower-squeegees)
-  Updated: 2025-10-23T20:35:13Z
+  Updated: 2025-10-27T11:05:39Z
   Total Products: 4
 - [Gifting](https://everydayhome.co.nz/collections/gifting)
-  Updated: 2025-10-25T11:06:47Z
+  Updated: 2025-10-27T11:05:39Z
   Total Products: 123
 - [All Products Excl. Swiftdry & Aromatherapy Co.](https://everydayhome.co.nz/collections/all-products-exclu-swiftdry-aromatherapy-co)
-  Updated: 2025-10-26T11:07:00Z
+  Updated: 2025-10-27T11:05:39Z
   Total Products: 919
 
 ## Store Pages
