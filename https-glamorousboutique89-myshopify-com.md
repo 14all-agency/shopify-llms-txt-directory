@@ -5,12 +5,12 @@
 - Currency: GBP
 - Timezone: Europe/London
 - Created At: 2025-10-23T14:12:32Z
-- Updated At: 2025-10-26T16:00:48.337Z
+- Updated At: 2025-10-27T04:00:36.157Z
 
 ## Products
 
 - [3-Piece Fuzzy Fleece Loungewear Set](https://glamorousboutique89.myshopify.com/products/3-piece-fuzzy-fleece-loungewear-set): Stay Cozy & Stylish – The Ultimate Loungewear for Comfort and WarmthWrap yourself in pure comfort with our Women’s 3-Piece Fuzzy Fleece Loungewear Set. Perfect for lounging at home, casual days out, or even a cozy vacation, this loungewear set is your go-to for warmth and style. With its ultra-soft, fluffy fabric and chic design, you’ll be ready to relax in luxury.Key Features:🧶 Ultra-Soft & Fluffy Fabric: Experience next-level comfort with this set’s incredibly soft and plush fleece material. The fuzzy texture feels gentle on your skin, offering a warm and snuggly feel that’s perfect for lounging, napping, or staying comfy on chilly days. 👗 3-Piece Set for Versatile Styling: This cozy set features a tank top, high-waisted pants, and an open-front cardigan, offering endless outfit possibilities. Layer for extra warmth or mix and match with your wardrobe to create unique looks. ✨ Chic & Simple Design: With a sleek pure color and fashionable cut, this set pairs effortlessly with your favorite accessories. Whether lounging or out and about, you'll look polished even on relaxed days. 🌡️ Warm Yet Breathable: Made from a breathable cotton-blend fabric, this set keeps you warm without overheating. Perfect for lounging, errands, or your next getaway. 💖 Perfect for Every Occasion: Whether staying in, running errands, or traveling, this loungewear set combines comfort and style for any scenario. Why You’ll Love It:The Fuzzy Fleece Loungewear Set offers the ultimate blend of coziness and chic style. With its versatile 3-piece design and super-soft fabric, you'll feel comfortable and look effortlessly stylish all day. Upgrade your loungewear game—you won’t want to take it off!
-  Updated: 2025-10-26T00:54:18Z
+  Updated: 2025-10-27T00:17:01Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -96,7 +96,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/a75049685ed667c7d639b427761d5154.jpg?v=1761229188
     Price: £18.99 GBP
 - [Adjustable Heart O-Ring Punk Rock Cuban Chain Necklace – Lariat Y-Style Necklace with Key & Heart Lock Pendant](https://glamorousboutique89.myshopify.com/products/adjustable-heart-o-ring-punk-rock-cuban-chain-necklace-lariat-y-style-necklace-with-key-heart-lock-pendant): 🖤 Unleash Your Inner Rebel with the Adjustable Heart O-Ring Punk Rock Cuban Chain Necklace—where bold meets versatile fashion. This striking lariat Y-style necklace features a heart lock pendant and matching key, adding a rebellious edge to any outfit. Key Features: 🔗 Edgy Punk Rock Vibes: Stand out with distinctive heart lock and O-ring details, perfect for anyone embracing alternative fashion. 🎯 Adjustable Fit: Customize your look with the adjustable chain, offering both long, dramatic drops and chic choker styles. 💎 Durable Design: Made with high-quality materials, the Cuban chain ensures comfort and longevity, making it a staple in your collection. 🔑 Heart Lock & Key Charm: Add a romantic twist to your punk style with the unique heart lock pendant and matching key. 👗 Versatile Styling: Effortlessly pair with casual, punk, goth, or alternative outfits for any occasion. Why You’ll Love It:The Adjustable Heart O-Ring Punk Rock Necklace is your go-to accessory for adding boldness and elegance. Whether for a concert, night out, or everyday edge, this piece perfectly complements your unique style.
-  Updated: 2025-10-26T00:54:18Z
+  Updated: 2025-10-27T00:17:02Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -114,7 +114,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/07529236c901549319b7a42a79f7a699.jpg?v=1761229190
     Price: £10.99 GBP
 - [Bird Nest Shaped Ponytail Hair Clip – Magic Lazy Braider Hairpin for Women](https://glamorousboutique89.myshopify.com/products/bird-nest-shaped-ponytail-hair-clip-magic-lazy-braider-hairpin-for-women): Gorgeous Hair in 3 Seconds Flat – The Magic Hair Clip Everyone's Talking About!Say goodbye to bad hair days with the Bird Nest Shaped Ponytail Hair Clip. This innovative Magic Lazy Braider creates stunning updos and ponytails in seconds – no skills required!Why This Hair Clip is a Game-Changer:🪺 Unique Bird Nest Design: The innovative shape grips your hair securely, keeping your style perfect all day long.⚡ 3-Second Styling: Just twist, clip, and done! Perfect for busy mornings or quick touch-ups.🎀 Secure All-Day Hold: No slipping, no sliding – your ponytail or bun stays put from morning to night.🌟 Lightweight & Comfortable: Made from high-quality plastic that's gentle on your hair and comfortable to wear.💼 Perfect for Any Occasion: Work meetings, gym sessions, parties, weddings, or casual days out.🎁 Makes a Thoughtful Gift: Ideal for Christmas, birthdays, weddings, anniversaries, or just because!Product Specifications: Material: Premium quality plastic Length: 5.5 cm / 2.16 inches Suitable For: All hair types and lengths How to Use: Gather your hair into a ponytail or bun Twist the clip around your hair Secure in place – done! Join thousands of happy customers who've discovered the easiest way to gorgeous hair. Add to basket now and never struggle with your hair again!
-  Updated: 2025-10-26T09:36:54Z
+  Updated: 2025-10-27T00:17:02Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -164,7 +164,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/ded7aa4ea9e7f90dcb688f0550671fe1.jpg?v=1761229202
     Price: £3.99 GBP
 - [Elegant Ribbed Midi Dress with Side Slit](https://glamorousboutique89.myshopify.com/products/elegant-ribbed-midi-dress-with-side-slit): Effortless Elegance – The Dress That Does It All!Meet your new wardrobe essential: the Elegant Black Ribbed Midi Dress with Side Slit. This timeless piece transitions seamlessly from day to night, offering sophisticated style and all-day comfort in one stunning package.Why This Dress is a Wardrobe Must-Have:👗 Classic Ribbed Texture: Refined ribbed design in sleek black – timeless, elegant, and endlessly versatile.💃 Flattering Side Slit: Subtle slit adds movement, allure, and a touch of sophistication to your silhouette.📏 Perfect Midi Length: Hits at just the right spot – elegant enough for formal occasions, practical for everyday wear.🌟 Premium Stretch Fabric: High-quality material hugs your curves beautifully while providing all-day comfort.🧥 Long Sleeves for Versatility: Perfect for cooler weather or layering – works year-round!👠 Dress Up or Down: Pair with heels and a clutch for evening elegance, or flats and a denim jacket for casual chic.Perfect For: Office meetings and professional events Dinner dates and romantic evenings Cocktail parties and celebrations Weekend brunches with friends Any occasion where you want to look polished and feel comfortable Styling Ideas:👠 Evening Glam: Add strappy heels, statement earrings, and a clutch👟 Casual Chic: Style with white trainers and a crossbody bag🧥 Layered Look: Throw on a blazer or leather jacket for added edgeOne dress, endless possibilities. Invest in timeless style that you'll reach for again and again. Add to basket now!
-  Updated: 2025-10-26T09:37:54Z
+  Updated: 2025-10-27T00:17:02Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -202,7 +202,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/4a17cbcd138cbdfe35534432914b0846.jpg?v=1761229202
     Price: £29.99 GBP
 - [Frosted Solid Color Banana Hair Clips – Fashion Ponytail Barrettes & Hair Claws for Women](https://glamorousboutique89.myshopify.com/products/frosted-solid-color-banana-hair-clips-fashion-ponytail-barrettes-hair-claws-for-women): ✨ Product: Banana Hair Clips🧵 Material: High-Quality Plastic🎨 Colors Available: Navy, Green, Black, and more👧 Perfect For: Girls and Women📏 Size: As shown in the picture Description: 💪 Durable & Gentle: Made from strong, high-quality plastic, these frosted banana clips provide a secure hold without pulling or damaging your hair. 🌟 Versatile Styles: Available in a variety of chic solid colors, these clips add a fashionable flair to any hairstyle while keeping your ponytail or updo firmly in place. 👗 For Everyday Use: Ideal for school, work, or special events, these clips make it easy to style and secure your hair with elegance and ease.
-  Updated: 2025-10-26T00:54:18Z
+  Updated: 2025-10-27T00:17:02Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -236,7 +236,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/9cf61d30df99ef81df6d653d15c9b202.jpg?v=1761229207
     Price: £3.99 GBP
 - [Silver Color Pearl Ear Cuff – Vintage Crystal Zircon Ear Clip, No Piercing Required, Fashion Jewelry for Women](https://glamorousboutique89.myshopify.com/products/silver-color-pearl-ear-cuff-vintage-crystal-zircon-ear-clip-no-piercing-required-fashion-jewelry-for-women): Glamorous Ears Without the Piercing – Instant Elegance!Add a touch of vintage luxury to your look with our Silver Pearl Ear Cuff. Featuring sparkling crystal zircons and elegant pearls, this stunning ear clip delivers all the glamour without needing pierced ears!Why You'll Adore This Ear Cuff:💎 No Piercing Required: Simply clip on and go – comfortable, secure, and pain-free!✨ Vintage-Inspired Elegance: Sparkling crystals and lustrous pearls create a timeless, sophisticated look.🎀 Comfortable All-Day Wear: Lightweight design that stays secure without pinching or discomfort.👗 Versatile Styling: Perfect for weddings, parties, formal events, or adding sparkle to everyday outfits.🌟 Premium Craftsmanship: High-quality materials ensure durability and long-lasting shine.🎁 Gift-Ready: Makes a beautiful present for birthdays, anniversaries, or special occasions.Perfect For: Weddings and formal events Cocktail parties and celebrations Date nights and special occasions Adding elegance to everyday looks Anyone who loves jewellery but doesn't have pierced ears Styling Tips:💄 Pair with an updo to showcase the ear cuff👗 Wear with a little black dress for timeless elegance💍 Mix with other silver jewellery for a coordinated lookElevate your style effortlessly! No piercings, no pain, just pure elegance. Add to basket now!
-  Updated: 2025-10-26T09:38:09Z
+  Updated: 2025-10-27T00:17:02Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -250,7 +250,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/79281ab4a9e59f1e4f3d676a665dc64b.jpg?v=1761229210
     Price: £4.99 GBP
 - [Sleeveless Backless Mini Dress](https://glamorousboutique89.myshopify.com/products/sleeveless-backless-mini-dress): Turn Heads This Summer – The Dress That Makes You Feel Unstoppable!Get ready to own every room you walk into with our 2024 Sleeveless Backless Mini Dress. This stunning halter-neck pleated dress is designed to make you feel confident, sexy, and absolutely gorgeous.Why You'll Love This Dress:🔥 Show-Stopping Design: Sultry backless cut and elegant halter-neck style that commands attention.💃 Flattering Fit: Body-hugging silhouette with pleated detailing that accentuates your curves beautifully.🌞 Summer-Ready Fabric: Lightweight and breathable material keeps you cool and comfortable all day and night.✨ Versatile Styling: Dress it up with heels for a night out or pair with sandals for a chic daytime look.🎨 Multiple Colours Available: Choose from vibrant shades to match your mood and style.👗 Mini Length: Perfect for showing off your legs and staying cool in warm weather.Perfect For: Summer parties and festivals Beach holidays and resort wear Date nights and girls' nights out Cocktail events and celebrations Any occasion where you want to feel amazing! Styling Tips:👠 Pair with strappy heels and statement earrings for an evening look👡 Style with flat sandals and a sun hat for daytime elegance👜 Add a clutch bag and bold lipstick for maximum impactFeel confident, look stunning, and make this summer unforgettable. Add to basket now and get ready to shine!
-  Updated: 2025-10-26T09:39:27Z
+  Updated: 2025-10-27T00:17:02Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -292,7 +292,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/0a8c35815175932abb4198b17a8c2d79.jpg?v=1761229217
     Price: £7.99 GBP
 - [Summer V-Neck Ribbed Knit Crop Top - Sleeveless Turndown Collar in 10 Colors](https://glamorousboutique89.myshopify.com/products/summer-v-neck-ribbed-knit-crop-top-sleeveless-turndown-collar-in-10-colors): Step into summer with the V-Neck Ribbed Knit Crop Top – the perfect mix of Y2K style and ultimate comfort! This slim-fit, stretchy top is designed to hug your shape, offering both flexibility and flair. Key Features: 👗 Soft & Stretchy Material: Made with a premium blend of Viscose, Polyester, and Polyamide, it conforms to your body for comfort and style.🧶 Chic Design: Featuring a polo-style collar and ribbed texture, this top adds sophistication to any look.🎨 Vibrant Color Options: Available in 10 stunning colors to match your mood and style.🌸 Seasonal Versatility: Perfect for spring, summer, and fall—pair it with skirts, shorts, or jeans for a casual chic vibe.🧼 Easy Care: Machine washable or dry cleanable for effortless maintenance. Size Information: Free Size (High Stretch): Fits US 4-10, EU 34-42, UK 8-14. Top Length: 53 cm Fit Bust: Stretchable from 65 cm to 95 cm Why You’ll Love It:The V-Neck Ribbed Knit Crop Top is the ultimate combination of style and comfort. Whether you're dressing up or keeping it casual, this versatile piece is perfect for warmer days. With its trendy design, vibrant colors, and easy care, it’s a wardrobe must-have!
-  Updated: 2025-10-26T00:54:19Z
+  Updated: 2025-10-27T00:17:02Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -338,7 +338,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/1cee3b77a9b57a211cb01ae56ca66240.jpg?v=1761229221
     Price: £10.00 GBP
 - [Two-Piece Tracksuit Set](https://glamorousboutique89.myshopify.com/products/two-piece-tracksuit-set): Cozy Meets Chic – Your New Favourite Loungewear!Wrap yourself in ultimate comfort with our Women's Fleece Two-Piece Tracksuit Set. Whether you're relaxing at home, running errands, or meeting friends for coffee, this stylish set keeps you warm, comfortable, and effortlessly chic.Why This Tracksuit is a Must-Have:🧶 Luxuriously Soft Fleece: Premium fleece fabric that's warm, breathable, and incredibly soft against your skin.👚 Stylish Hooded Jacket: Zip-up design with a relaxed fit and cozy hood – perfect for layering or wearing solo.👖 Flattering High-Waisted Pants: Comfortable elastic waistband with a sleek, figure-flattering fit.💖 All-Day Versatility: Perfect for lounging, gym sessions, school runs, casual outings, or lazy weekends.✨ Multiple Colour Options: Choose from a range of stylish colours to match your personal vibe.🏃‍♀️ Move Freely: Stretchy, flexible fabric that moves with you – no restrictions, just comfort.Perfect For: Cozy days at home Quick trips to the shops Gym workouts or yoga sessions Travelling in comfort Casual coffee dates with friends Styling Tips:👟 Pair with trainers for an athleisure look🧢 Add a baseball cap for sporty vibes👜 Throw on a crossbody bag for errands on the goUpgrade your loungewear game today! Stay cozy, look stylish, and feel amazing. Add to basket now!
-  Updated: 2025-10-26T09:38:27Z
+  Updated: 2025-10-27T00:17:03Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -544,7 +544,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/b7537d93bc646a07f294fdaebb46e1e3.jpg?v=1761229233
     Price: £32.00 GBP
 - [Women's Seamless Long-Sleeve Yoga Jumpsuit](https://glamorousboutique89.myshopify.com/products/womens-seamless-long-sleeve-yoga-jumpsuit): Move Freely, Feel Confident, and Look Amazing – All in One Piece! Elevate your activewear with the Seamless Long-Sleeve Yoga Jumpsuit. Perfect for workouts, yoga, or simply lounging, this jumpsuit combines comfort, support, and style into one sleek design. Key Features: 🧘‍♀️ Stretchy & Supportive Fit: High-quality, stretchy fabric that hugs your curves and allows freedom of movement.🌬 Breathable & Moisture-Wicking: Keeps you cool and dry, even during intense workouts, with its moisture-wicking properties.👗 Stylish One-Piece Design: Long sleeves and full-length design for a streamlined, flattering silhouette with added coverage.💎 Fashion-Forward Details: Form-fitting cut and bold colors make it both functional and trendy.✔️ Easy to Wear & Versatile: Stretchy, secure fit perfect for any movement and ideal for pairing with sneakers or a jacket. Why You’ll Love It:The Seamless Long-Sleeve Yoga Jumpsuit is a must-have for women who want comfort, style, and performance in one piece. Whether you're working out or styling it for a trendy athleisure look, this jumpsuit is your new go-to!
-  Updated: 2025-10-26T00:54:19Z
+  Updated: 2025-10-27T00:17:03Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -750,63 +750,63 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/33d8d6b627d9dc11095274ba94a15995.jpg?v=1761229236
     Price: £4.99 GBP
 - [Foryourlittleone Xplor 6 in 1 Foldable Trike - Grey Olive (10m-5y)](https://glamorousboutique89.myshopify.com/products/foryourlittleone-xplor-6-in-1-foldable-trike-grey-olive-10m-5y): Foryourlittleone Xplor Tricycle – Olive Grey | The Ultimate 8-in-1 Adventure Trike Get this multi-functional Xplor tricycle in Olive Grey for all adventures! With its quick-folding mechanism and travel bag (sold separately), it can be easily stored in any vehicle. The Foryourlittleone trike functions as both a pushchair and a tricycle, giving you full control while supporting your child's growing independence. It starts as a buggy and transforms into a tricycle as they grow. Key Features & Functionality ✔ Suitable from 10 months up to 5 years (Max Weight: 20kg) ✔ Quick Folding Mechanism – Compact and travel-friendly (Folded Size: 33x28x63cm) ✔ Multi-Functional Design – Transforms from a pushchair to a tricycle (detachable parent handle, guard rail, hood) ✔ Puncture-Resistant PU Wheels – Provides a smooth, all-terrain safe commute ✔ Parent-Facing Option – Maintain closeness and supervision during rides ✔ Free-Wheel Function – Allows toddlers to pedal independently without moving the trike ✔ Height-Adjustable Parent Handles – Ensures comfortable steering for parents ✔ Removable Canopy & Foldable Hood – Protects from sun and elements ✔ Engage Pedals or Freewheeling Mode – Choose based on your child’s needs Safety Features ✔ 5-Point Harness – Keeps your child secure at all times ✔ Removable Leather Guard Rail – Extra protection, removable when needed ✔ Rear Brake System – Prevents the trike from moving when your child gets in or out ✔ Full Parental Control – Linked handlebars allow parents to steer effortlessly ✔ Certified Safe – Tested and approved in accordance with European safety standards EN 71-1 ✔ Max Weight Limit – 20kg Product Dimensions Tricycle Size (LxWxH): 64.5cm x 51cm x 98cm Tricycle Weight: 8.3 kg Handlebar Height: Adjustable from 93cm to 101cm Folded Size: 33x28x63cm Order Yours Today! Upgrade your child’s outdoor adventures with the Foryourlittleone Xplor Tricycle in Olive Grey – where safety meets fun. Click ‘Add to Basket’ now and enjoy hassle-free rides!
-  Updated: 2025-10-26T00:54:19Z
+  Updated: 2025-10-27T00:17:03Z
   Vendor: For Your Little One
   Product Type: Trikes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/foryourlittleone-xplor-foldable-trike-grey-olive-2025-302831.png?v=1761341369
   Price: £100.09 GBP
 - [12 Ft Maternity Pillow And Case - Light Blue](https://glamorousboutique89.myshopify.com/products/12-ft-maternity-pillow-and-case-light-blue): The maternity pillow is designed to keep you cosy and comfy by reducing lower back, shoulder, neck, hip, fibromyalgia, arthritis and osteoporosis pain by offering optimal support to your joints and spine. It helps in relieving maternity discomforts makes for an ideal sleep companion, especially during pregnancy. The 12 ft. maternity pillow has a straight cut design, it can be easily positioned to complement your sleep posture. This 12 ft. maternity pillow is filled with hollow fibre with optimum firmness that feels snuggly around the skin. It is crafted with anti-allergic materials that minimizes the chances of any skin allergies or rashes. The pain-relieving pillow can be used to support your toddler and comfortably hold him/her against your body. Offering amazing support and comfort, the maternity pillow makes for an ideal sleep companion. It comes with a light blue cover that synchronises well with most interior themes. Specifications: Anti-allergic fabrics Straight-cut design Filled with high-quality hollow fibre Ideal for use in fibromyalgia, arthritis, osteoporosis Supports spine, joints and muscles Offers relief in lower back, neck, shoulder pain Maternity Pillow Manual Download the instruction manual PDF using the link below. IMPORTANT — PLEASE READ THE INSTRUCTIONS CAREFULLY BEFORE USE AND KEEP FOR FUTURE REFERENCE. Desktop Version Mobile Version
-  Updated: 2025-10-26T00:54:19Z
+  Updated: 2025-10-27T00:17:03Z
   Vendor: For Your Little One
   Product Type: Maternity Pillows
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/12-ft-maternity-pillow-and-case-light-blue-248382.jpg?v=1761341368
   Price: £28.02 GBP
 - [Nail Art Sticker](https://glamorousboutique89.myshopify.com/products/nail-art-sticker): Effortless Nail Art in Seconds – No Salon Required!Transform your nails into stunning works of art with our Snake Skin Pattern Nail Art Stickers. Perfect for busy women who want salon-quality nails without the time, cost, or hassle!Why You'll Love These Stickers:✨ Instant Glamour: Achieve professional-looking nail art in minutes – just peel, stick, and go!🐍 Trendy Snake Skin Design: Eye-catching pattern that adds wild elegance and edge to any look.💪 Long-Lasting Wear: High-quality sticker material ensures your manicure stays flawless for days.💅 Generous Supply: 60g of nail stickers per box – enough for multiple applications and creative designs.🎨 Versatile Style: Perfect for special occasions, nights out, or adding flair to your everyday look.⏰ No Expiry Date: Use them whenever inspiration strikes – they're always ready when you are!How to Use: Clean and dry your nails Select your desired sticker design Peel and apply to nail surface Smooth out any bubbles and seal the edges Apply top coat for extra durability (optional) What's Included:📦 1 x Nail Art Sticker Set (60g)Perfect For: Parties, weddings, festivals, date nights, or anytime you want to make a statement with your nails!Say goodbye to expensive salon visits and hello to gorgeous nails at home. Add to basket now and unleash your inner nail artist!
-  Updated: 2025-10-26T13:45:25Z
+  Updated: 2025-10-27T00:17:03Z
   Vendor: Cashymart
   Product Type: Nails
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/Nail-Art-Sticker-cashymart-38265225281814.jpg?v=1761341368
   Price: £17.19 GBP
 - [Universal Rain Cover For All Side By Side Pushchairs - Fits All Models](https://glamorousboutique89.myshopify.com/products/universal-rain-cover-for-all-side-by-side-pushchairs-fits-all-models): Protect your little one from unexpected weather changes with our Universal Rain Cover for all side-by-side pushchairs. This versatile rain cover fits all models, ensuring that regardless of your pushchair's make, your child remains dry and comfortable during sudden downpours. Crafted from premium 250-micron PVC material, this cover offers not only robust protection against rain but also shields your child from cold winds, allowing for a more enjoyable outing. Designed with both functionality and convenience in mind, the rain cover guarantees excellent visibility. You can easily keep an eye on your toddler without needing to remove the cover, effortlessly combining safety and functionality. This is particularly beneficial during those busy trips to the park or when navigating through bustling streets. The breathability of the cover ensures that your child doesn’t feel stuffy, providing a cozy environment even during less-than-ideal weather conditions. Installation and storage are simple. The rain cover can be quickly attached or removed, making it a hassle-free accessory to have on hand. Plus, it folds easily, allowing you to store it compactly when it’s not in use. With its soft and crack-resistant material, you can rely on our rain cover as a long-term companion for all your outdoor adventures. In summary, you can enjoy various benefits with our Universal Rain Cover: Durable protection made from high-quality 250-micron PVC. Easy visibility and ventilation for your child's comfort. Specifications: Made with finest-grade 250-micron PVC material for durability. Ensures optimum visibility and adequate ventilation. Easy to fold and maintain, soft and crack-resistant rain cover for side-by-side pushchair. Side by Side Raincover Manual Download the instruction manual PDF using the link below. IMPORTANT — PLEASE READ THE INSTRUCTIONS CAREFULLY BEFORE USE AND KEEP FOR FUTURE REFERENCE. Desktop Version Mobile Version
-  Updated: 2025-10-26T00:54:19Z
+  Updated: 2025-10-27T00:17:03Z
   Vendor: For Your Little One
   Product Type: Side by Side Raincover
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/universal-rain-cover-for-all-side-by-side-pushchairs-fits-all-models-485941.jpg?v=1761341368
   Price: £16.01 GBP
 - [Foryourlittleone Xplor 6 in 1 Foldable Trike - Green (10m-5y)](https://glamorousboutique89.myshopify.com/products/foryourlittleone-xplor-6-in-1-foldable-trike-green-10m-5y): Xplor Multi-Functional Foldable Tricycle – The Perfect Adventure Companion! Get your little one ready for all their outdoor adventures with the Xplor Multi-Functional Tricycle. Designed for versatility, this trike functions both as a stroller and a tricycle, allowing you to control its movements effortlessly as your child grows. Its quick-folding mechanism ensures compact storage (Folded Size: 30x30x65cm), making it easy to transport and store in any vehicle. Functionality & Features: Suitable from 10 months up to 5 years (Max Weight 20kg) Quick folding mechanism for easy storage and travel Multi-functional design – Converts from a stroller to a tricycle with a detachable parent handle, guard rail, and hood Puncture-resistant PU wheels – Safe for all terrains Parent-facing mode available for enhanced interaction Free-wheel function – Allows toddlers to pedal independently Height-adjustable parent handle for comfortable steering Removable canopy & foldable hood for sun protection Engage pedals or switch to freewheeling mode for ease of use Safety Features: 5-point safety harness for secure rides Leather guard rail for extra protection (removable as needed) Rear braking system to keep the trike stationary for safe in/out access Linked handlebar system for complete parental control Tested and approved in accordance with European safety standards EN 71-1 Product Dimensions: Tricycle Size (LxWxH): 74cm x 51cm x 87cm Tricycle Weight: 8.3 kg Handlebar Height: Adjustable from 66.5cm to 93cm Folded Size: 30x30x65cm Note: Travel bag sold separately. Upgrade your child's riding experience with the Xplor Foldable Tricycle, ensuring fun, safety, and convenience on every journey!
-  Updated: 2025-10-26T00:54:19Z
+  Updated: 2025-10-27T00:17:03Z
   Vendor: For Your Little One
   Product Type: Trikes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/foryourlittleone-xplor-foldable-trike-green-2025-618822.png?v=1761341368
   Price: £100.09 GBP
 - [Foryourlittleone 6 in 1 Trike V3 - Blue (9 months - 5 years)](https://glamorousboutique89.myshopify.com/products/foryourlittleone-6-in-1-trike-v3-blue-9-months-5-years): Foryourlittleone Trike V3 – The Ultimate Tricycle for Growing Explorers Give your little one the best of both worlds with the Foryourlittleone Trike V3 in sleek blue. Designed to grow with your child from 9 months to 5 years (up to 25kg), this multi-functional tricycle transforms from a parent-controlled stroller into an independent trike, making every ride safe, fun, and developmentally enriching. Why Choose the Foryourlittleone Trike V3? ✔ 2-in-1 Stroller & Trike: Start with full parental control and gradually transition into a self-riding tricycle as your child gains confidence.✔ Smooth & Secure Rides: Height-adjustable parent handles, a rear brake system, and puncture-resistant EVA foam wheels ensure stability across different terrains.✔ Safety First: Equipped with a lap belt harness, an expandable hood, and a foldable footrest for added comfort and protection.✔ Convenient & Fun Features: Includes a bell on the child handlebar, a handy storage bag, and both front and rear baskets for carrying essentials.✔ Certified Quality: Rigorously tested to meet European safety standards EN 71-1, ensuring a safe and reliable experience for both parent and child. Product Specifications: 👕 Dimensions (LxWxH): 108cm x 52.5cm x 97cm⚖ Weight: 8kg🔧 Adjustable Handlebar Height: 94cm – 97cm Upgrade your child's outdoor adventures with the Foryourlittleone Trike V3 – a stylish, safe, and practical choice for every stage of their journey. 👉 Order yours today and enjoy stress-free strolls and exciting rides!
-  Updated: 2025-10-26T00:54:19Z
+  Updated: 2025-10-27T00:17:03Z
   Vendor: For Your Little One
   Product Type: Trikes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/foryourlittleone-6-in-1-trike-v3-blue-9-months-5-years-6974275.png?v=1761341368
   Price: £58.96 GBP
 - [FYLO 3x Baby Safety Stair Gate  Pressure Fit 75-86cm (3 pack)](https://glamorousboutique89.myshopify.com/products/fylo-3x-baby-safety-stair-gate-pressure-fit-75-86cm-3-pack): FYLO 3x Baby Safety Stair Gate – Pressure Fit (75-86cm) | Triple the Safety for Your Home Ultimate Protection for Your Little Ones – 3 Pack for Maximum Coverage Ensure the safety of your child with the FYLO 3x Baby Safety Stair Gate – Pressure Fit (75-86cm, 3 Pack). Designed for hassle-free installation and long-lasting durability, this set of three safety gates provides comprehensive protection for staircases, doorways, and hallways, ensuring your child or pet stays safe at all times. Why Parents & Pet Owners Love This Gate Set ✅ 3-Pack for Full Home Coverage – Secure multiple areas of your home with this convenient set of three safety gates.✅ Pressure-Fit Installation – No tools, screws, or drilling needed! Simply pressure-fit for a secure hold in minutes with no wall damage.✅ Strong & Sturdy Build – Made from high-quality materials, ensuring long-lasting durability for daily use.✅ One-Hand Operation – Easily open and close the gate with one hand, making it convenient for parents carrying a child or household items.✅ Dual Locking System for Extra Security – Prevents accidental openings, ensuring your child or pet stays safely contained.✅ Sleek & Modern Look – Neutral colour blends seamlessly with any home décor, adding safety without compromising style.✅ Versatile Multi-Purpose Use – Ideal for staircases, doorways, hallways, and pet-restricted areas, offering flexible protection.✅ Pet-Friendly Barrier – Perfect for keeping dogs and other pets confined to designated areas while maintaining easy adult access.✅ Certified for Safety – Rigorously tested to meet strict European safety standards, giving you peace of mind. How the FYLO Safety Gate Benefits You ✔ Create a child-safe environment instantly – Block off dangerous areas like staircases and restricted rooms.✔ No damage to walls or door frames – Ideal for rental properties or temporary solutions.✔ Reliable, stress-free security – Designed for daily use while being easy to operate. Order Now for Maximum Home Safety! Protect your family with the FYLO 3x Baby Safety Stair Gate and enjoy full-home coverage. Click ‘Add to Basket’ now
-  Updated: 2025-10-26T00:54:20Z
+  Updated: 2025-10-27T00:17:04Z
   Vendor: For Your Little One
   Product Type: Stair gate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/fylo-baby-safety-stair-gate-pressure-fit-75-86cm-damaged-box-3994068.png?v=1761341369
   Price: £64.05 GBP
 - [Foryourlittleone Xplor Plus 6 in 1 Foldable Trike - Green (10m-5y)](https://glamorousboutique89.myshopify.com/products/foryourlittleone-xplor-plus-6-in-1-foldable-trike-green-10m-5y): Foryourlittleone Xplor Plus Foldable Trike – Green Take your little one on every adventure with the multi-functional Xplor Tricycle in Green. With a quick-folding mechanism and a travel bag, it easily fits into any vehicle for convenient storage and portability. Transitioning from a stroller to a tricycle, this versatile ride allows parents to stay in control while encouraging children to develop independence as they grow. Unmatched Functionality ✔ 8-in-1 Stroller & Trike: Converts from a buggy for younger children into a full tricycle as they grow.✔ Quick Folding Mechanism: Folds into a compact size (33x28x63cm) for easy transport and storage.✔ Smooth Steering: Linked handlebar allows parents full control over movement.✔ All-Terrain Safety: Puncture-resistant PU wheels provide a smooth, stable ride on various surfaces.✔ Independent Pedaling: Free-wheel function lets toddlers pedal safely without moving the trike.✔ Adjustable Comfort: Height-adjustable parent handles, removable canopy, and foldable hood provide flexibility for any journey.✔ Pedal Engagement or Freewheeling: Choose between active pedaling or freewheeling mode based on your child's needs. Safety You Can Trust ✔ 5-Point Harness: Ensures secure and comfortable seating for your child.✔ Removable Leather Guard Rail: Provides added safety and can be removed when needed.✔ Rear Brake System: Stops the trike from moving, ensuring safe entry and exit.✔ Linked Handlebars: Parents retain full control over the tricycle's movement.✔ Certified Safe: Designed and tested to meet European safety standards EN 71-1. Plus Model Accessories ✅ Raincover✅ Travel Bag Product Specifications Age Range: Suitable from 10 months to 5 years (Max Weight: 20kg) Tricycle Size (LxWxH): 64.5cm x 51cm x 98cm Tricycle Weight: 8.3 kg Handlebar Height: Adjustable from 93 cm to 101 cm Folded Size: 33x28x63cm Upgrade your child's outdoor experience with the Foryourlittleone Xplor Trike – where comfort, safety, and fun come together! 🌟
-  Updated: 2025-10-26T00:54:20Z
+  Updated: 2025-10-27T00:17:04Z
   Vendor: For Your Little One
   Product Type: Trikes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/foryourlittleone-xplor-plus-foldable-trike-green-2025-639965.png?v=1761341368
   Price: £120.11 GBP
 - [FYLO Baby Safety Stair Gate Pressure Fit 75-114cm Extra Wide](https://glamorousboutique89.myshopify.com/products/fylo-baby-safety-stair-gate-pressure-fit-75-114cm-extra-wide): FYLO Baby Safety Stair Gate – Pressure Fit | No Drilling, Easy & Secure Installation The Ultimate Child & Pet Safety Solution for Your Home Keep your little one safe and give yourself peace of mind with the FYLO Baby Safety Stair Gate – Pressure Fit. Designed for quick and tool-free installation, this sturdy and stylish safety gate creates a secure barrier in your home without the need for drilling or permanent fixings. Perfect for staircases, doorways, hallways, and other high-risk areas, it provides reliable protection while allowing easy access for adults. Why Parents & Pet Owners Love This Gate ✅ Hassle-Free Installation – No tools, screws, or drilling needed! Simply pressure-fit for a secure hold in minutes.✅ Durable & Sturdy Design – Built from high-quality materials to withstand daily wear and tear, offering long-lasting protection.✅ One-Hand Operation – Easily open and close the gate with one hand, ideal for busy parents holding a child or carrying items.✅ Dual Locking System for Extra Security – Prevents accidental openings, ensuring your child or pet stays safely contained.✅ Sleek & Modern Look – Neutral colour blends seamlessly with any home décor for a stylish yet functional safety solution.✅ Multi-Purpose Use – Perfect for staircases, doorways, hallways, and pet-restricted areas, offering flexible protection.✅ Pet-Friendly Barrier – Ideal for keeping dogs and other pets in designated spaces while maintaining accessibility.✅ Safety-Certified – Fully tested to meet strict European safety standards, giving you complete confidence in your home’s protection. How the FYLO Safety Gate Benefits You ✔ Instantly create a child-safe environment – Block off dangerous areas like stairs or rooms with potential hazards.✔ No damage to walls or door frames – Perfect for rental properties or temporary solutions.✔ Reliable, stress-free security – Designed to provide constant protection while being easy to use for parents and carers. Order Now for Ultimate Home Safety! Don’t compromise when it comes to your child’s or pet’s safety. Get the FYLO Baby Safety Stair Gate today and enjoy a worry-free home. Click ‘Add to Basket’ now!
-  Updated: 2025-10-26T00:54:20Z
+  Updated: 2025-10-27T00:17:04Z
   Vendor: For Your Little One
   Product Type: Stair gate
   Availability: Available
@@ -832,42 +832,42 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/fylo-baby-safety-stair-gate-pressure-fit-78-114cm-extra-wide-843253.webp?v=1761341371
     Price: £40.03 GBP
 - [Breast Feeding Maternity Nursing Pillow - Little Star Blue](https://glamorousboutique89.myshopify.com/products/breast-feeding-maternity-nursing-pillow-little-star-blue): The Little Star Blue Breastfeeding Maternity Nursing Pillow combines practicality and style to meet the needs of modern parents. With its ergonomic design and soft materials, this pillow provides essential support during nursing, pregnancy, and relaxation. Its charming blue star pattern adds a playful touch to your nursery, making it both functional and visually appealing. Key Features: Ergonomic Support: Designed to reduce strain on your back, neck, and shoulders during nursing. Soft and Skin-Friendly Material: Crafted from premium fabric that’s gentle and durable. Multi-Functional Use: Suitable for breastfeeding, pregnancy, and baby tummy time. Charming Blue Star Design: Adds a delightful and playful aesthetic to your parenting essentials. Lightweight and Travel-Friendly: Portable and easy to clean, perfect for use at home or on the go. Side to side Width- 63cm Front to back - 50cm Height - 15cm
-  Updated: 2025-10-26T00:54:20Z
+  Updated: 2025-10-27T00:17:04Z
   Vendor: For Your Little One
   Product Type: Nursing Pillows
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/breast-feeding-maternity-nursing-pillow-little-star-blue-9559096.png?v=1761341368
   Price: £16.01 GBP
 - [Foryourlittleone Xplor Ultimate 6 in 1 Foldable Trike - Grey Olive (10m-5y)](https://glamorousboutique89.myshopify.com/products/foryourlittleone-xplor-ultimate-6-in-1-foldable-trike-grey-olive-10m-5y): For Your Little One Xplor Tricycle Ultimate Bundle – The Ultimate 2-in-1 Adventure Companion Give your child the freedom to explore with the For Your Little One Xplor Tricycle Ultimate Bundle, designed for ultimate convenience, safety, and fun. With its quick-folding mechanism and compact folded size (33x28x63cm), this multi-functional trike is perfect for all adventures and can be easily stored in any vehicle. Multi-Functional Design for Growing Kids ✔ 8-in-1 Stroller & Trike: Transforms seamlessly from a pushchair to a tricycle, adapting as your child grows (suitable for ages 10 months up to 5 years, max weight 20kg). ✔ Parent-Facing Mode: Ensures close interaction during early stages, while the free-wheel function allows toddlers to pedal independently. ✔ Enhanced Parent Control: Features a linked handlebar, allowing parents to steer effortlessly. Smooth & Safe Rides ✔ Puncture-Resistant PU Wheels: Deliver a safe, all-terrain ride. ✔ Rear Brake System: Keeps the trike stationary during boarding and disembarking. ✔ Enhanced Safety Features: Includes a secure 5-point harness and a removable leather guard rail for added protection. ✔ Certified Safe: Meets European safety standards EN 71-1 for complete peace of mind. Ultimate Comfort & Convenience ✔ Adjustable Steering: Height-adjustable parent handles (93cm to 101cm) for effortless control. ✔ Weather Protection: Removable canopy and foldable hood shield your child from the sun and elements. ✔ Easy Storage & Transport: Lightweight (8.3kg) with a quick-folding mechanism for compact storage. Exclusive Ultimate Bundle Accessories ✅ Raincover – All-weather protection✅ Travel Bag – Effortless transport✅ Cup Holder – Keeps drinks secure on the go✅ Storage Bag – Carry toys and essentials with ease Product Dimensions Overall Tricycle Size (LxWxH): 64.5cm x 51cm x 98cm Handlebar Height: Adjustable from 93cm to 101cm Folded Size: 33cm x 28cm x 63cm Order Yours Today! Upgrade your child’s outdoor adventures with the For Your Little One Xplor Tricycle Ultimate Bundle – where safety meets fun. Click ‘Add to Basket’ now and enjoy hassle-free rides!
-  Updated: 2025-10-26T00:54:20Z
+  Updated: 2025-10-27T00:17:04Z
   Vendor: For Your Little One
   Product Type: Trikes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/foryourlittleone-xplor-ultimate-foldable-trike-grey-olive-2025-901039.png?v=1761341368
   Price: £140.13 GBP
 - [Short Acrylic false nails](https://glamorousboutique89.myshopify.com/products/short-acrylic-false-nails): Salon-Perfect Nails in Seconds – No Appointment Needed!Get gorgeous, French-style nails instantly with our Short Acrylic False Nails. Featuring an elegant beige and white design, these nails are your secret weapon for effortless glamour every single day.Why You'll Love Them:💅 Classic French Manicure: Timeless beige and white design that complements any outfit or occasion.⚡ Quick & Easy Application: Includes double-sided adhesive stickers – just peel, press, and go! No messy liquid glue required.✨ Perfect for Daily Wear: Lightweight and comfortable enough to wear all day, every day.👜 Portable & Convenient: Comes in a simple OPP bag – perfect for your handbag or travel kit.🎉 Versatile Style: Ideal for work, casual outings, weddings, parties, or any special event.💰 Affordable Luxury: Get the salon look without the salon price!What's Included:📦 1 Set of Short Acrylic False Nails (French Tips)📦 Double-Sided Adhesive Stickers (No liquid glue needed!)Perfect For:Busy professionals, students, mums on-the-go, or anyone who wants beautiful nails without the fuss!Transform your look in minutes. Add to basket now and enjoy flawless nails every day!
-  Updated: 2025-10-26T09:36:41Z
+  Updated: 2025-10-27T00:17:04Z
   Vendor: Cashymart
   Product Type: Nails
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/Short-Acrylic-false-nails-cashymart-38265344459030.jpg?v=1761341367
   Price: £17.92 GBP
 - [Foryourlittleone 6 in 1 Trike V3 - Grey (9 months - 5 years)](https://glamorousboutique89.myshopify.com/products/foryourlittleone-6-in-1-trike-v3-grey-9-months-5-years): Foryourlittleone Trike V3 – The Ultimate 2-in-1 Stroller & Tricycle for Growing Explorers Give your little one the best of both worlds with the Foryourlittleone Trike V3 in sleek grey. Designed to grow with your child from 9 months to 5 years (up to 25kg), this multi-functional tricycle transforms from a parent-controlled stroller into an independent trike, making every ride safe, fun, and developmentally enriching. Why Choose the Foryourlittleone Trike V3? ✔ 2-in-1 Stroller & Trike: Start with full parental control and gradually transition into a self-riding tricycle as your child gains confidence.✔ Smooth & Secure Rides: Height-adjustable parent handles, a rear brake system, and puncture-resistant EVA foam wheels ensure stability across different terrains.✔ Safety First: Equipped with a lap belt harness, an expandable hood, and a foldable footrest for added comfort and protection.✔ Convenient & Fun Features: Includes a bell on the child handlebar, a handy storage bag, and both front and rear baskets for carrying essentials.✔ Certified Quality: Rigorously tested to meet European safety standards EN 71-1, ensuring a safe and reliable experience for both parent and child. Product Specifications: 👕 Dimensions (LxWxH): 108cm x 52.5cm x 97cm⚖ Weight: 8kg🔧 Adjustable Handlebar Height: 94cm – 97cm Upgrade your child's outdoor adventures with the Foryourlittleone Trike V3 – a stylish, safe, and practical choice for every stage of their journey. 👉 Order yours today and enjoy stress-free strolls and exciting rides!
-  Updated: 2025-10-26T00:54:20Z
+  Updated: 2025-10-27T00:17:04Z
   Vendor: For Your Little One
   Product Type: Trikes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/foryourlittleone-4-in-1-trike-v3-pink-9m-5y-756548.png?v=1761341369
   Price: £58.96 GBP
 - [Foryourlittleone Venture Trike - Purple (18 months - 6 years)](https://glamorousboutique89.myshopify.com/products/foryourlittleone-venture-trike-purple-18-months-6-years): For Your Little One Venture Trike Adventure Awaits Your Little Explorer Introducing the For Your Little One Venture Trike—a thoughtfully designed tricycle that grows with your child, offering safety, comfort, and endless fun. Whether it's their first ride or they're mastering pedaling, the Venture Trike is the perfect companion for every stage of their journey. Key Features: Enhanced Stability: The trike's smart triangular design with extended rear wheels and a wider wheelbase ensures improved roll-over prevention, providing a stable and secure ride for your toddler. Ergonomic Comfort: Equipped with a comfortable seat featuring soft edges and non-slip handles, the Venture Trike ensures a cosy and secure experience for little riders during their early adventures. Indoor & Outdoor Ready: The silent, shock-absorbing wheels are perfect for both indoor play and outdoor exploration, offering a smooth and quiet ride without damaging indoor floors. Developmental Support: Designed to promote early childhood development, the trike helps enhance direction and coordination skills, boosting self-confidence and muscle strength in young children. Durable Build: Crafted from high-quality carbon steel, the Venture Trike is built to last, ensuring years of reliable use as your child grows. Product Specifications: Recommended Age: 18 months to 6 years Material: Carbon Steel Dimensions: Approximately 71 cm (L) x 46 cm (W) x 58 cm (H) Weight: Approximately 3 kg Colour Options: Available in multiple vibrant colours to suit your child's preference The For Your Little One Venture Trike is more than just a tricycle; it's a gateway to adventure, growth, and cherished memories. Let your child's journey begin with the perfect blend of safety, comfort, and fun.
-  Updated: 2025-10-26T00:54:20Z
+  Updated: 2025-10-27T00:17:05Z
   Vendor: For Your Little One
   Product Type: Trikes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/foryourlittleone-venture-trike-purple-18-months-6-years-647492.png?v=1761341369
   Price: £30.02 GBP
 - [2pc Dimple Crib/Cradle Quilt & Bumper Bedding Set](https://glamorousboutique89.myshopify.com/products/2pc-dimple-cribcradle-quilt-bumper-bedding-set): Enhance your little one's crib or cradle with the 2pc Dimple Crib/Cradle Quilt & Bumper Bedding Set. Designed with utmost care, this bedding set ensures a safe and cosy environment for your precious child. Crafted from premium materials, it offers optimum breathability and a luxuriously soft feel against the skin. With its versatile design, this bedding set is compatible with a wide range of cribs and cradles, making it a perfect choice for any nursery. Whether it's summer or winter, this bedding set is suitable for use all-year-round, providing comfort and security to your little one. Exquisite dimple pattern adds a touch of elegance to the nursery decor. Available in neutral colours that seamlessly blend with various nursery themes. Not only is this bedding set easy to maintain with negligible upkeep, but it is also highly durable, ensuring long-lasting use. Attaching and removing the bumpers is a breeze, allowing for quick adjustments as needed. Now, let's take a look at the specifications: Exquisite dimple pattern Available in neutral colours Super-soft and breathable fabrics Requires negligible upkeep Durable 2-piece bedding set Easy to attach and remove Compatible with all cribs and cradles Upgrade your little one's sleeping space with the 2pc Dimple Crib/Cradle Quilt & Bumper Bedding Set. Its premium materials, exceptional craftsmanship, and elegant design ensure both comfort and style. Give your child the perfect sleeping environment they deserve.
-  Updated: 2025-10-26T00:54:20Z
+  Updated: 2025-10-27T00:17:05Z
   Vendor: For Your Little One
   Product Type: Bedding Set
   Availability: Available
@@ -893,21 +893,21 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/2pc-dimple-cribcradle-quilt-bumper-bedding-set-8089865.png?v=1761341374
     Price: £17.01 GBP
 - [Foryourlittleone 6 in 1 Trike V3 - Black (9 months - 5 years)](https://glamorousboutique89.myshopify.com/products/foryourlittleone-6-in-1-trike-v3-black-9-months-5-years): Foryourlittleone Trike V3 – The Ultimate Tricycle for Growing Explorers Give your little one the best of both worlds with the Foryourlittleone Trike V3 in sleek black. Designed to grow with your child from 9 months to 5 years (up to 25kg), this multi-functional tricycle transforms from a parent-controlled stroller into an independent trike, making every ride safe, fun, and developmentally enriching. Why Choose the Foryourlittleone Trike V3? ✔ 2-in-1 Stroller & Trike: Start with full parental control and gradually transition into a self-riding tricycle as your child gains confidence.✔ Smooth & Secure Rides: Height-adjustable parent handles, a rear brake system, and puncture-resistant EVA foam wheels ensure stability across different terrains.✔ Safety First: Equipped with a lap belt harness, an expandable hood, and a foldable footrest for added comfort and protection.✔ Convenient & Fun Features: Includes a bell on the child handlebar, a handy storage bag, and both front and rear baskets for carrying essentials.✔ Certified Quality: Rigorously tested to meet European safety standards EN 71-1, ensuring a safe and reliable experience for both parent and child. Product Specifications: 👕 Dimensions (LxWxH): 108cm x 52.5cm x 97cm⚖ Weight: 8kg🔧 Adjustable Handlebar Height: 94cm – 97cm Upgrade your child's outdoor adventures with the Foryourlittleone Trike V3 – a stylish, safe, and practical choice for every stage of their journey. 👉 Order yours today and enjoy stress-free strolls and exciting rides!
-  Updated: 2025-10-26T00:54:20Z
+  Updated: 2025-10-27T00:17:05Z
   Vendor: For Your Little One
   Product Type: Trikes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/Lifestyle2.png?v=1761341369
   Price: £58.96 GBP
 - [Foryourlittleone Xplor Plus 6 in 1 Foldable Trike - Grey Olive (10m-5y)](https://glamorousboutique89.myshopify.com/products/foryourlittleone-xplor-plus-6-in-1-foldable-trike-grey-olive-10m-5y): Foryourlittleone Xplor Tricycle – Grey Olive | The Ultimate 8-in-1 Adventure Trike Get this multi-functional Xplor tricycle in Grey Olive for all adventures! With its quick-folding mechanism and travel bag (sold separately), it can be easily stored in any vehicle. The Foryourlittleone trike functions as both a pushchair and a tricycle, giving you full control while supporting your child's growing independence. It starts as a buggy and transforms into a tricycle as they grow. Key Features & Functionality ✔ Suitable from 10 months up to 5 years (Max Weight: 20kg)✔ Quick Folding Mechanism – Compact and travel-friendly (Folded Size: 33x28x63cm)✔ Multi-Functional Design – Transforms from a pushchair to a tricycle (detachable parent handle, guard rail, hood)✔ Puncture-Resistant PU Wheels – Provides a smooth, all-terrain safe commute✔ Parent-Facing Option – Maintain closeness and supervision during rides✔ Free-Wheel Function – Allows toddlers to pedal independently without moving the trike✔ Height-Adjustable Parent Handles – Ensures comfortable steering for parents✔ Removable Canopy & Foldable Hood – Protects from sun and elements✔ Engage Pedals or Freewheeling Mode – Choose based on your child’s needs Safety Features ✔ 5-Point Harness – Keeps your child secure at all times✔ Removable Leather Guard Rail – Extra protection, removable when needed✔ Rear Brake System – Prevents the trike from moving when your child gets in or out✔ Full Parental Control – Linked handlebars allow parents to steer effortlessly✔ Certified Safe – Tested and approved in accordance with European safety standards EN 71-1✔ Max Weight Limit – 20kg Plus Model Accessories ✅ Raincover – Provides all-weather protection✅ Travel Bag – Conveniently store and transport the tricycle Product Dimensions Tricycle Size (LxWxH): 64.5cm x 51cm x 98cm Tricycle Weight: 8.3 kg Handlebar Height: Adjustable from 93cm to 101cm Folded Size: 33x28x63cm Order Yours Today! Upgrade your child’s outdoor adventures with the Foryourlittleone Xplor Tricycle in Grey Olive – where safety meets fun. Click ‘Add to Basket’ now and enjoy hassle-free rides!
-  Updated: 2025-10-26T00:54:21Z
+  Updated: 2025-10-27T00:17:05Z
   Vendor: For Your Little One
   Product Type: Trikes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/foryourlittleone-xplor-plus-foldable-trike-grey-olive-2025-810695.png?v=1761341368
   Price: £120.11 GBP
 - [Cot Fitted Sheet 100% Cotton 120x60cm - Pack Of 4](https://glamorousboutique89.myshopify.com/products/cot-fitted-sheet-100-cotton-120x60cm-pack-of-4): 4x Cot Fitted Sheets – Compatible With Standard Cot Mattresses (120x60cm) | Ultra-Soft & Breathable Premium Comfort & Secure Fit for Your Baby’s Sleep Ensure maximum comfort for your little one with our 4x Cot Fitted Sheets, designed to fit standard cot mattresses (120x60cm). Made from 100% premium cotton, these fitted sheets offer a super-soft and luxurious feel, providing a gentle touch against your child's delicate skin. Why Parents Love These Cot Fitted Sheets ✅ 100% Cotton for Superior Softness – Ensures a smooth and breathable sleep surface.✅ Perfect Fit & Secure Hold – Elasticated hem provides a snug fit, preventing slipping or bunching.✅ Breathable & Temperature-Regulating – Keeps your baby cool in summer and warm in winter for year-round comfort.✅ Easy to Clean & Maintain – Machine washable at 40°C, making it simple for busy parents to keep bedding fresh.✅ Pack of 4 for Extra Convenience – Always have a spare sheet ready for effortless rotation.✅ Stylish & Versatile – Available in elegant shades to complement any nursery décor. Key Features: 100% Premium Cotton Fabric – Soft, breathable, and gentle on baby’s skin. Elasticated Hem – Provides a secure, slip-free fit on the mattress. Size: 120 x 60 cm – Perfect fit for standard cot mattresses. Machine Washable at 40°C – Designed for easy care and durability. Upgrade Your Baby’s Sleep Today! Give your little one a soft, secure, and comfortable sleep experience with our 4x Cot Fitted Sheets. Click ‘Add to Basket’ now for the best in quality, comfort, and convenience!
-  Updated: 2025-10-26T00:54:21Z
+  Updated: 2025-10-27T00:17:05Z
   Vendor: For Your Little One
   Product Type: Cot Fitted Sheets
   Availability: Available
@@ -961,14 +961,14 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/4x-cot-fitted-sheet-100-cotton-120x60cm-276059.jpg?v=1761341381
     Price: £17.01 GBP
 - [12 Ft Maternity Pillow Case - White](https://glamorousboutique89.myshopify.com/products/12-ft-maternity-pillow-case-white): Soft and Breathable Pillowcase for Ultimate Pregnancy ComfortThe 12ft Maternity Pillowcase in White is a soft and essential accessory to complement your full-body maternity pillow, providing a cozy and supportive surface for a better night's sleep. Crafted from breathable fabric, this pillowcase ensures comfort throughout the night, keeping you cool and comfortable as you rest. Its crisp white color brings a touch of freshness and versatility to your bedroom or nursery decor. Designed specifically for a 12ft maternity pillow, this pillowcase offers a perfect fit and is easy to maintain. The high-quality material is gentle on the skin and durable enough to withstand frequent washes, ensuring long-lasting comfort throughout your pregnancy and beyond. Key Features: Perfect Fit: Tailored to fit a 12ft maternity pillow for a secure and snug fit. Soft and Breathable Fabric: Gentle on the skin and keeps you comfortable throughout the night. Classic White Color: A clean, bright, and neutral color that complements any room decor. Durable and Long-Lasting: Made with high-quality materials that retain softness and shape even after multiple washes. Easy to Maintain: Machine washable for convenience and lasting quality.
-  Updated: 2025-10-26T00:54:21Z
+  Updated: 2025-10-27T00:17:05Z
   Vendor: For Your Little One
   Product Type: Maternity Pillow Covers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/12-ft-maternity-pillow-case-white-776154.jpg?v=1761341368
   Price: £8.00 GBP
 - [Nail Art Rhinestones Glitter Nail Art](https://glamorousboutique89.myshopify.com/products/nail-art-rhinestones-glitter-nail-art): 3D Nail Art Rhinestones Glitter Nail Art Elevate your nail game with our 3D Nail Art Rhinestones Glitter. This exquisite nail decoration is designed to add a touch of elegance and sparkle to your manicure, perfect for any occasion! Key Features: High-Quality Material: Made from premium acrylic, these rhinestones ensure durability and a stunning finish. Versatile Use: Suitable for application on top of nail polish, UV builder gel, or acrylic nails. Easy Application: Designed for both natural and artificial nails, making it simple for anyone to achieve a professional look. Perfect for Everyone: Ideal for home use or professional settings, it’s a great addition to your nail art toolkit. Thoughtful Gift: Surprise your friends or treat yourself – these rhinestones make the perfect gift for any nail art enthusiast. Specifications: Net Capacity: 3g Size: 7x3mm Quantity: 10 pieces Color Options: White, Beige, Black, Green, Red, Gray, Blue, Pink, Purple, Silver, Orange, Transparent Transform your nails into a canvas of creativity with our 3D Nail Art Rhinestones Glitter. Order now and let your nails shine with elegance!
-  Updated: 2025-10-26T00:54:21Z
+  Updated: 2025-10-27T00:17:05Z
   Vendor: Cashymart
   Product Type: Nails
   Availability: Available
@@ -1022,7 +1022,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/Nail-Art-Rhinestones-Glitter-Nail-Art-cashymart-38265223643414.jpg?v=1761341369
     Price: £14.06 GBP
 - [Universal Car Seat Footmuff / Cosy Toes - Fits All 3 And 5 Point Harnesses](https://glamorousboutique89.myshopify.com/products/universal-car-seat-footmuff-cosy-toes-fits-all-3-and-5-point-harnesses): Transform your car journeys into a comfortable and enjoyable experience for your little one with our Universal Car Seat Footmuff / Cosy Toes. This essential accessory is designed to fit all 3 and 5-point harnesses, ensuring that your child is secure while staying snug. Whether you're facing a chilly winter day or a breezy summer drive, this versatile footmuff is equipped to handle any weather conditions. The footmuff's water-resistant outer cover keeps your child's feet dry, providing peace of mind during rainy outings. Made with high-quality materials, it effectively protects against the elements, allowing your family to enjoy every ride without worry. The interior features warm fleece lining and extra quilting that wraps your child in comfort, making it the perfect choice for long journeys or quick trips around town. One of the standout benefits of the Universal Car Seat Footmuff is its easy maintenance. Designed for busy parents, it can be conveniently detached for quick washing, ensuring that it stays fresh and clean. Plus, its compatibility with a wide range of car seats makes it a practical addition to any family vehicle. This footmuff is not just about warmth; it also adds a touch of style. Available in a variety of captivating colours, you can choose a design that complements your car's interior or matches your child's personality. Key Features: Includes warm fleece lining and extra quilting for exceptional warmth Water-resistant outer cover, keeping your child's feet dry and safe Compatible with all newborn car seats and designed for 3 and 5-point harnesses Make every car ride a cozy adventure with our Universal Car Seat Footmuff / Cosy Toes. It's not just an accessory—it's a necessity for any parent looking to combine comfort and practicality. Upgrade your travelling experience today!
-  Updated: 2025-10-26T00:54:21Z
+  Updated: 2025-10-27T00:17:05Z
   Vendor: For Your Little One
   Product Type: Car Seat Footmuff
   Availability: Available
@@ -1068,7 +1068,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/universal-car-seat-footmuff-cosy-toes-fits-all-3-and-5-point-harnesses-640390.jpg?v=1761341387
     Price: £14.00 GBP
 - [Cot Fitted Sheet 100% Cotton 120x60cm - Pack Of 2](https://glamorousboutique89.myshopify.com/products/cot-fitted-sheet-100-cotton-120x60cm-pack-of-2): 2x Cot Fitted Sheets – Compatible With Standard Cot Mattresses (120x60cm) | Ultra-Soft & Breathable Premium Comfort & Convenience for Your Baby’s Sleep Enhance your little one's comfort and create a serene sleeping environment with our 2x Cot Fitted Sheets, designed to fit standard cot mattresses (120x60cm) perfectly. Made from 100% premium cotton, these sheets provide an unparalleled level of softness and luxury, ensuring your baby enjoys a restful night's sleep. Why Parents Love These Cot Fitted Sheets ✅ 100% Cotton for Superior Softness – Gentle on delicate skin, offering a smooth and breathable sleep surface.✅ Breathable & Temperature-Regulating – Keeps your baby cool in summer and warm in winter, ensuring year-round comfort.✅ Perfect Fit & Secure Hold – Elasticated hem ensures a snug fit, preventing sheets from slipping or bunching.✅ Easy to Clean & Maintain – Machine washable at 40°C, making it easy to keep fresh and hygienic.✅ Pack of 2 for Extra Convenience – Always have a spare sheet ready for effortless rotation.✅ Versatile & Stylish – Complements any nursery décor, adding both elegance and practicality. Key Features: 100% Premium Cotton Fabric – Soft, breathable, and gentle on baby’s skin. Elasticated Hem – Ensures a secure, slip-free fit on the mattress. Size: 120 x 60 cm – Perfect fit for standard cot mattresses. Machine Washable at 40°C – Designed for easy care and long-lasting durability. Upgrade Your Baby’s Sleep Today! Give your little one a soft, secure, and comfortable sleep experience with our 2x Cot Fitted Sheets. Click ‘Add to Basket’ now for the best in quality, comfort, and convenience!
-  Updated: 2025-10-26T00:54:21Z
+  Updated: 2025-10-27T00:17:06Z
   Vendor: For Your Little One
   Product Type: Cot Fitted Sheets
   Availability: Available
@@ -1122,14 +1122,14 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/2x-cot-fitted-sheet-100-cotton-120x60cm-821718.jpg?v=1761341383
     Price: £9.00 GBP
 - [Foryourlittleone Xplor Trike - Storage Bag](https://glamorousboutique89.myshopify.com/products/foryourlittleone-xplor-trike-storage-bag): Keep your essentials secure and easily accessible with this trike storage bag—the perfect travel companion for all your trike adventures. Key Features: ✔ Ample storage space – Large main compartment for keys, wallets, water bottles, light jackets, and more.✔ Durable and weather-resistant – Crafted from high-quality materials to withstand various weather conditions.✔ Secure attachment – Easily fastens to your trike handlebars or frame, ensuring stability while you ride.✔ Additional pockets – Designed for organized storage of smaller essentials.✔ Sleek and practical design – Complements the aesthetic of your trike without compromising space or comfort. Why Choose This Storage Bag? ✔ Perfect for leisure rides or adventures – Stay prepared and organized while focusing on the journey.✔ Lightweight and easy to use – Hassle-free installation and removal for convenience on the go.✔ Versatile and multi-purpose – Can be used for everyday storage needs, from baby essentials to personal items. Upgrade your trike experience with a storage bag that keeps everything safe, secure, and within reach while you ride.
-  Updated: 2025-10-26T00:54:21Z
+  Updated: 2025-10-27T00:17:06Z
   Vendor: For Your Little One
   Product Type: Trikes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/foryourlittleone-xplor-trike-storage-bag-701807.png?v=1761341369
   Price: £20.01 GBP
-- [Drawstring Kangaroo Pocket Dropped Shoulder Hoodie](https://glamorousboutique89.myshopify.com/products/drawstring-kangaroo-pocket-dropped-shoulder-hoodie): Features:Basic style,Pocketed,Buttoned Stretch:Slightly stretchy Material composition:95% polyester, 5% spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust S 26.4 43.3 M 26.8 44.9 L 27.2 47.2 XL 27.6 49.6 2XL 28 52
-  Updated: 2025-10-26T00:54:21Z
+- [Drawstring Kangaroo Pocket Dropped Shoulder Hoodie](https://glamorousboutique89.myshopify.com/products/drawstring-kangaroo-pocket-dropped-shoulder-hoodie): Effortless Comfort Meets Everyday Style – Your New Go-To Hoodie!Wrap yourself in cozy comfort with the Drawstring Kangaroo Pocket Dropped Shoulder Hoodie. This versatile essential combines relaxed style with practical features, making it perfect for everything from lazy weekends to casual outings.Why You'll Love This Hoodie:👕 Relaxed Dropped Shoulder Design: Trendy, oversized fit that's both flattering and comfortable – perfect for a laid-back, effortless look.🦘 Spacious Kangaroo Pocket: Keep your hands warm and your essentials close with the convenient front pocket.🎀 Adjustable Drawstring Hood: Customise your fit and stay cosy when the temperature drops.✨ Slightly Stretchy Fabric: Made from 95% polyester and 5% spandex for flexibility and all-day comfort.🧺 Easy Care: Machine washable – simply wash cold and tumble dry low for hassle-free maintenance.🌟 Classic Button Details: Subtle design touches that add character without compromising comfort.Perfect For: Cozy days at home Coffee runs and casual errands Layering for autumn and winter Relaxed weekend outings Lounging in style Styling Tips:👖 Pair with jeans or leggings for a casual, everyday look👟 Add trainers for an athleisure vibe🧣 Layer over a t-shirt for extra warmthStay comfortable, look effortless, and feel amazing! Add to basket now and make this hoodie your new wardrobe favourite.Product Details: Material: 95% polyester, 5% spandex Stretch: Slightly stretchy Care: Machine wash cold, tumble dry low Features: Drawstring hood, kangaroo pocket, dropped shoulders, button details Size Guide (Measurements in inches): Size Top Length Bust S 26.4 43.3 M 26.8 44.9 L 27.2 47.2 XL 27.6 49.6 2XL 28 52
+  Updated: 2025-10-27T00:17:06Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1174,8 +1174,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/70a350aac89843baaf8a39745534b037-Max-Origin.webp?v=1761344356
     Price: £25.55 GBP
-- [Side Slit Round Neck Long Sleeve Sweatshirt](https://glamorousboutique89.myshopify.com/products/side-slit-round-neck-long-sleeve-sweatshirt): Features:Slit Stretch:Slightly stretchy Material composition:95%polyester,5%spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 28 48.8 19.3 M 28.3 50.8 19.7 L 28.7 52.8 20.1 XL 29.1 55.1 20.5
-  Updated: 2025-10-26T12:44:40Z
+- [Side Slit Round Neck Long Sleeve Sweatshirt](https://glamorousboutique89.myshopify.com/products/side-slit-round-neck-long-sleeve-sweatshirt): Casual Chic with a Modern Twist – The Sweatshirt That Does It All!Elevate your casual wardrobe with the Side Slit Round Neck Long Sleeve Sweatshirt. Featuring trendy side slits and a relaxed fit, this versatile piece effortlessly transitions from lounging to lunch dates.Why This Sweatshirt is a Must-Have:✨ Stylish Side Slits: Modern design detail that adds movement and a fashion-forward edge to a classic sweatshirt.👗 Flattering Round Neckline: Timeless and versatile – pairs beautifully with any necklace or scarf.🌟 Relaxed, Comfortable Fit: Perfect for layering or wearing solo, offering a laid-back yet polished look.💫 Slightly Stretchy Fabric: Made from 95% polyester and 5% spandex for flexibility and comfort that moves with you.🧺 Easy Maintenance: Machine washable – wash cold and tumble dry low for effortless care.🎨 Versatile Styling: Dress it up with trousers or keep it casual with jeans – this sweatshirt works for any occasion.Perfect For: Casual Fridays at work Weekend brunches with friends Running errands in style Layering during transitional seasons Relaxed evenings at home Styling Ideas:👖 Casual Cool: Pair with high-waisted jeans and trainers👠 Elevated Comfort: Style with tailored trousers and ankle boots🧥 Layered Look: Wear under a blazer or denim jacket for added warmthUpgrade your everyday style! This sweatshirt combines comfort and contemporary design for a look you'll reach for again and again. Add to basket now!Product Details: Material: 95% polyester, 5% spandex Stretch: Slightly stretchy Care: Machine wash cold, tumble dry low Features: Side slits, round neck, long sleeves Size Guide (Measurements in inches): Size Top Length Bust Sleeve Length S 28 48.8 19.3 M 28.3 50.8 19.7 L 28.7 52.8 20.1 XL 29.1 55.1 20.5
+  Updated: 2025-10-27T00:17:06Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1309,7 +1309,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/f3fe6ea348d64c5fb8c17580ef4ff13b-Max-Origin.webp?v=1761344645
     Price: £26.49 GBP
 - [Full Size Zip Up Quilted Bomber Jacket Plus Size](https://glamorousboutique89.myshopify.com/products/full-size-zip-up-quilted-bomber-jacket-plus-size): Features:Pocketed,Zipper Thickness:Normal Body:Not lined Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 25.6 41.3 23.2 M 26.2 43.5 23.6 L 26.8 45.7 24 XL 27.4 47.9 24.4 2XL 28 50 24.8 3XL 28.5 52.2 25.2
-  Updated: 2025-10-26T00:54:21Z
+  Updated: 2025-10-27T00:17:06Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1434,8 +1434,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/c8821110-3b65-467d-8587-ee41d3e953e8-Max-Origin.webp?v=1761344666
     Price: £37.53 GBP
-- [Full Size Washed Round Neck Top and Drawstring Pants Set Plus Size](https://glamorousboutique89.myshopify.com/products/full-size-washed-round-neck-top-and-drawstring-pants-set-plus-size): Features:Drawstring,Pocketed Number of pieces:Two-piece Stretch:Stretchy Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length Bottom Length Waist Hip S 24.8 39.4 18.1 40.2 26.8 39.4 M 25.2 40.9 18.3 40.6 28.3 40.9 L 25.6 42.5 18.5 40.9 30.7 43.3 XL 26.4 44.1 18.7 41.3 33.1 45.7 2XL 26.4 45.7 18.9 41.7 35.4 48 3XL 26.8 47.2 19.1 42.1 37.4 50.4
-  Updated: 2025-10-26T00:54:22Z
+- [Full Size Washed Round Neck Top and Drawstring Pants Set Plus Size](https://glamorousboutique89.myshopify.com/products/full-size-washed-round-neck-top-and-drawstring-pants-set-plus-size): Comfort Meets Style – The Two-Piece Set You'll Live In!Discover effortless style with the Full Size Washed Round Neck Top and Drawstring Pants Set. This coordinated two-piece outfit combines a relaxed top with comfortable drawstring pants, creating the perfect balance of casual chic and all-day comfort.Why This Set is a Wardrobe Essential:👕 Coordinated Two-Piece Set: Matching top and pants for an instantly put-together look with zero effort.🎨 Trendy Washed Finish: Soft, lived-in look that adds character and a relaxed, vintage vibe.👖 Adjustable Drawstring Waist: Customise your fit for maximum comfort throughout the day.👜 Functional Pockets: Convenient pockets on the pants keep your essentials close at hand.💫 Stretchy, Comfortable Fabric: Made from 100% polyester with a stretchy finish that moves with you.🧺 Easy Care: Machine washable – wash cold and tumble dry low for effortless maintenance.💖 Inclusive Sizing: Available in sizes S to 3XL for the perfect fit.Perfect For: Relaxed weekends at home Casual coffee dates Running errands in comfort Travelling in style Lounging without sacrificing style Styling Ideas:👟 Athleisure Vibes: Pair with trainers and a baseball cap🧥 Layered Look: Add a denim jacket or cardigan for cooler days👜 Elevated Casual: Style with a crossbody bag and slip-on shoesEffortless style has never been this comfortable! This two-piece set is your answer to looking polished while feeling relaxed. Add to basket now!Product Details: Material: 100% polyester Stretch: Stretchy Care: Machine wash cold, tumble dry low Features: Two-piece set, drawstring waist, pockets, washed finish Number of pieces: 2 (top and pants) Size Guide (Measurements in inches): Size Top Length Bust Sleeve Length Bottom Length Waist Hip S 24.8 39.4 18.1 40.2 26.8 39.4 M 25.2 40.9 18.3 40.6 28.3 40.9 L 25.6 42.5 18.5 40.9 30.7 43.3 XL 26.4 44.1 18.7 41.3 33.1 45.7 2XL 26.4 45.7 18.9 41.7 35.4 48 3XL 26.8 47.2 19.1 42.1 37.4 50.4
+  Updated: 2025-10-27T00:17:06Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1536,8 +1536,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/57ddf59f-7a71-40ee-971f-cb72dd93d144-Max-Origin.webp?v=1761344696
     Price: £32.51 GBP
-- [Oversized Chunky Knit Open Front Cardigan](https://glamorousboutique89.myshopify.com/products/oversized-chunky-knit-open-front-cardigan): Features:Cable-Knit Stretch:Slightly stretchy Material composition:95% polyester, 5% spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 28.3 45.7 18.9 M 28.7 47.2 19.3 L 29.1 48.8 19.7 XL 29.5 50.4 20.1 2XL 29.9 52 20.5
-  Updated: 2025-10-26T13:26:25Z
+- [Oversized Chunky Knit Open Front Cardigan](https://glamorousboutique89.myshopify.com/products/oversized-chunky-knit-open-front-cardigan): Cozy Layers, Effortless Style – Your New Favourite Cardigan!Wrap yourself in warmth and style with the Oversized Chunky Knit Open Front Cardigan. This beautifully textured piece is the perfect layering essential, combining cozy cable-knit detailing with a relaxed, oversized fit that's both comfortable and chic.Why You'll Love This Cardigan:🧶 Chunky Cable-Knit Texture: Classic cable-knit pattern adds visual interest and a touch of timeless elegance.✨ Oversized, Relaxed Fit: Generous sizing creates a cozy, enveloping feel that's perfect for layering.👗 Versatile Open Front: No buttons or zippers – just easy, effortless styling that works with everything.💫 Slightly Stretchy Fabric: Made from 95% polyester and 5% spandex for comfort and flexibility.🧺 Easy Care: Machine washable – wash cold and tumble dry low for simple maintenance.🌟 All-Season Layering: Perfect for chilly mornings, air-conditioned offices, or cool autumn evenings.💖 Inclusive Sizing: Available in sizes S to 2XL.Perfect For: Layering over dresses or tops Cozy evenings at home Autumn and winter styling Office wear with a relaxed vibe Weekend brunches and casual outings Styling Ideas:👗 Feminine Chic: Layer over a dress with ankle boots👖 Casual Comfort: Pair with jeans and a simple tee🧣 Cozy Layers: Wear over a turtleneck for extra warmthStay warm, look stylish, and feel amazing! This chunky knit cardigan is the ultimate layering piece for your wardrobe. Add to basket now!Product Details: Material: 95% polyester, 5% spandex Stretch: Slightly stretchy Care: Machine wash cold, tumble dry low Features: Cable-knit texture, open front, oversized fit Size Guide (Measurements in inches): Size Top Length Bust Sleeve Length S 28.3 45.7 18.9 M 28.7 47.2 19.3 L 29.1 48.8 19.7 XL 29.5 50.4 20.1 2XL 29.9 52 20.5
+  Updated: 2025-10-27T00:17:06Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1642,8 +1642,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/0f2c72ba89f443a59f26669a30d18631-Max-Origin.webp?v=1761344718
     Price: £23.63 GBP
-- [Merry Colorful Dot Detail Christmas Dolman Sweater](https://glamorousboutique89.myshopify.com/products/merry-colorful-dot-detail-christmas-dolman-sweater): Features:Basic style Stretch:Slightly stretchy Material composition:55% acrylic, 45% cotton Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 24.4 41.7 18.5 M 25.2 44.1 18.5 L 26 46.5 18.5 XL 26.8 49.6 18.5
-  Updated: 2025-10-26T16:00:38Z
+- [Merry Colorful Dot Detail Christmas Dolman Sweater](https://glamorousboutique89.myshopify.com/products/merry-colorful-dot-detail-christmas-dolman-sweater): Festive Fun Meets Cozy Comfort – The Christmas Sweater You'll Love!Spread holiday cheer with the Merry Colorful Dot Detail Christmas Dolman Sweater. Featuring playful colorful dots and a relaxed dolman sleeve design, this festive jumper is perfect for celebrating the season in style and comfort.Why This Christmas Sweater is a Must-Have:🎄 Festive Colorful Dot Design: Eye-catching multicolored dots add a cheerful, playful touch to your holiday wardrobe.✨ Relaxed Dolman Sleeves: Trendy, loose-fitting sleeves create a comfortable, flattering silhouette that's perfect for all-day wear.🎅 Soft, Cozy Fabric: Made from 55% acrylic and 45% cotton for warmth and breathability during the festive season.💫 Slightly Stretchy: Comfortable fit that moves with you, whether you're hosting or attending holiday gatherings.🧺 Easy Care: Machine washable – wash cold and tumble dry low for simple maintenance.🎁 Perfect for the Holidays: Ideal for Christmas parties, family gatherings, festive photos, or cozy nights by the fire.Perfect For: Christmas parties and holiday celebrations Family gatherings and festive dinners Ugly Christmas sweater contests (but make it cute!) Festive photo opportunities Cozy winter days at home Styling Ideas:👖 Casual Festive: Pair with jeans and ankle boots🎀 Dressed Up: Style with a skirt and tights for holiday parties🧣 Cozy Layers: Add a scarf and your favourite winter coatMake this Christmas extra special! This cheerful sweater brings festive fun and cozy comfort together. Add to basket now and get ready to celebrate in style!Product Details: Material: 55% acrylic, 45% cotton Stretch: Slightly stretchy Care: Machine wash cold, tumble dry low Features: Colorful dot design, dolman sleeves, festive style Size Guide (Measurements in inches): Size Top Length Bust Sleeve Length S 24.4 41.7 18.5 M 25.2 44.1 18.5 L 26 46.5 18.5 XL 26.8 49.6 18.5
+  Updated: 2025-10-27T01:43:51Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1664,8 +1664,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/ade70a20-a577-4650-96b3-96bc4719e743-Max-Origin.webp?v=1761344825
     Price: £43.67 GBP
-- [Saved By Grace Letter Embroidery Mineral Wash Loose Sweatshirt](https://glamorousboutique89.myshopify.com/products/saved-by-grace-letter-embroidery-mineral-wash-loose-sweatshirt): Features:Basic style Stretch:No stretch Material composition:85% cotton, 15% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 25.4 41.7 20.7 M 26.2 44.1 20.9 L 27 46.5 21.1 XL 27.8 49.6 21.1
-  Updated: 2025-10-26T05:20:50Z
+- [Saved By Grace Letter Embroidery Mineral Wash Loose Sweatshirt](https://glamorousboutique89.myshopify.com/products/saved-by-grace-letter-embroidery-mineral-wash-loose-sweatshirt): Faith Meets Fashion – The Inspirational Sweatshirt You'll Treasure!Wear your faith with pride in the Saved By Grace Letter Embroidery Mineral Wash Loose Sweatshirt. Featuring beautiful embroidered lettering and a trendy mineral wash finish, this comfortable sweatshirt is perfect for expressing your beliefs while staying stylishly relaxed.Why You'll Love This Sweatshirt:✝️ Inspirational Letter Embroidery: 'Saved By Grace' message beautifully embroidered for a meaningful, faith-based statement.🎨 Trendy Mineral Wash Finish: Unique, vintage-inspired wash creates a soft, lived-in look with character.👕 Relaxed, Loose Fit: Comfortable oversized silhouette that's perfect for casual, everyday wear.💫 Premium Cotton Blend: Made from 85% cotton and 15% polyester for softness and durability.🧺 Easy Care: Machine washable – wash cold and tumble dry low for simple maintenance.🎁 Meaningful Gift: Perfect for yourself or as a thoughtful present for someone special in your life.Perfect For: Church services and fellowship gatherings Casual everyday wear Coffee dates with friends Relaxed weekends at home Layering during cooler months Styling Ideas:👖 Casual Comfort: Pair with jeans and trainers for an effortless look🧢 Athleisure Vibes: Style with leggings and a baseball cap🧥 Layered Style: Wear under a denim or leather jacketExpress your faith in style! This inspirational sweatshirt combines meaningful messaging with comfortable, trendy design. Add to basket now!Product Details: Material: 85% cotton, 15% polyester Stretch: No stretch Care: Machine wash cold, tumble dry low Features: Letter embroidery, mineral wash finish, loose fit Size Guide (Measurements in inches): Size Top Length Bust Sleeve Length S 25.4 41.7 20.7 M 26.2 44.1 20.9 L 27 46.5 21.1 XL 27.8 49.6 21.1
+  Updated: 2025-10-27T03:21:16Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1686,8 +1686,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/810d3b2e-e4dc-4c61-bc91-c36822e11766-Max-Origin.webp?v=1761344865
     Price: £44.66 GBP
-- [GOBBLE Letter Graphic Thanksgiving Shift Sweatshirt](https://glamorousboutique89.myshopify.com/products/gobble-letter-graphic-thanksgiving-shift-sweatshirt): Features:Basic style Stretch:Slightly stretchy Material composition:65% polyester, 35% cotton Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 25.4 41.7 20.9 M 26.2 44.1 21.1 L 27 46.5 21.3
-  Updated: 2025-10-26T00:54:22Z
+- [GOBBLE Letter Graphic Thanksgiving Shift Sweatshirt](https://glamorousboutique89.myshopify.com/products/gobble-letter-graphic-thanksgiving-shift-sweatshirt): Gobble Up the Fun – The Perfect Thanksgiving Sweatshirt!Celebrate Thanksgiving in style with the GOBBLE Letter Graphic Thanksgiving Shift Sweatshirt. Featuring playful 'GOBBLE' lettering and a comfortable relaxed fit, this festive sweatshirt is your go-to for turkey day celebrations and autumn gatherings.Why This Thanksgiving Sweatshirt is a Must-Have:🦃 Fun GOBBLE Graphic: Eye-catching letter design that brings festive fun and holiday cheer to your wardrobe.👕 Comfortable Shift Style: Relaxed, easy-fitting silhouette that's perfect for enjoying Thanksgiving dinner without feeling restricted.✨ Slightly Stretchy Fabric: Made from 65% polyester and 35% cotton for comfort and flexibility.🍂 Perfect for Autumn: Ideal weight for cooler autumn days and cozy holiday gatherings.🧺 Easy Care: Machine washable – wash cold and tumble dry low for hassle-free maintenance.🎁 Great Gift Idea: Perfect for Thanksgiving hosts, turkey lovers, or anyone who enjoys festive fashion!Perfect For: Thanksgiving dinner with family Friendsgiving celebrations Autumn festivals and events Casual November outings Festive photo opportunities Styling Ideas:👖 Casual Festive: Pair with jeans and ankle boots🧣 Cozy Layers: Add a scarf and your favourite autumn jacket👟 Relaxed Comfort: Style with leggings and trainers for ultimate comfortMake Thanksgiving extra special! This fun, festive sweatshirt is perfect for celebrating with family and friends. Add to basket now and get ready to gobble!Product Details: Material: 65% polyester, 35% cotton Stretch: Slightly stretchy Care: Machine wash cold, tumble dry low Features: GOBBLE letter graphic, shift style, festive design Size Guide (Measurements in inches): Size Top Length Bust Sleeve Length S 25.4 41.7 20.9 M 26.2 44.1 21.1 L 27 46.5 21.3
+  Updated: 2025-10-27T03:01:00Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1704,8 +1704,8 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/13d740930aa7416cab3bd0ff955411bb-Max-Origin.webp?v=1761345580
     Price: £34.13 GBP
-- [Cozy Oversized Open Front Knit Cardigan](https://glamorousboutique89.myshopify.com/products/cozy-oversized-open-front-knit-cardigan): Features:Basic style Stretch:Slightly stretchy Material composition:95% polyester, 5% spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 28 46.5 0 M 28.3 48 0 L 28.7 50.4 0 XL 29.1 52.8 0 2XL 29.5 55.1 0
-  Updated: 2025-10-26T00:54:22Z
+- [Cozy Oversized Open Front Knit Cardigan](https://glamorousboutique89.myshopify.com/products/cozy-oversized-open-front-knit-cardigan): Ultimate Cozy Comfort – Your New Favourite Layering Piece!Embrace effortless style with the Cozy Oversized Open Front Knit Cardigan. This beautifully soft, oversized cardigan is the perfect layering essential for creating comfortable, chic looks all season long.Why You'll Love This Cardigan:🧶 Luxuriously Soft Knit: Premium knit fabric that feels incredibly soft and cozy against your skin.✨ Oversized, Relaxed Fit: Generous sizing creates a comfortable, enveloping feel that's perfect for snuggling up.👗 Versatile Open Front: No buttons or closures – just easy, effortless styling that works with everything.💫 Slightly Stretchy Fabric: Made from 95% polyester and 5% spandex for comfort and flexibility.🧺 Easy Care: Machine washable – wash cold and tumble dry low for simple maintenance.🌟 All-Season Layering: Perfect for chilly mornings, air-conditioned spaces, or cool autumn evenings.💖 Inclusive Sizing: Available in sizes S to 2XL.Perfect For: Layering over dresses or tops Cozy evenings at home Autumn and winter styling Office wear with a relaxed vibe Weekend brunches and casual outings Styling Ideas:👗 Feminine Chic: Layer over a dress with ankle boots👖 Casual Comfort: Pair with jeans and a simple tee🧣 Cozy Layers: Wear over a turtleneck for extra warmthStay warm, look stylish, and feel amazing! This oversized knit cardigan is the ultimate layering piece for your wardrobe. Add to basket now!Product Details: Material: 95% polyester, 5% spandex Stretch: Slightly stretchy Care: Machine wash cold, tumble dry low Features: Open front, oversized fit, soft knit Size Guide (Measurements in inches): Size Top Length Bust S 28 46.5 M 28.3 48 L 28.7 50.4 XL 29.1 52.8 2XL 29.5 55.1
+  Updated: 2025-10-27T00:17:07Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1810,8 +1810,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/dde4ed5b66da499bad2bb4944e8c4332-Max-Origin.webp?v=1761345613
     Price: £24.33 GBP
-- [Camo Print Leopard Trim Button Up Jacket](https://glamorousboutique89.myshopify.com/products/camo-print-leopard-trim-button-up-jacket): Features:Buttoned,Pocketed Thickness:Normal Body:Not lined Material composition:95% cotton, 5% elastane Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 23.6 41.7 19.5 M 24.4 44.1 19.7 L 25.2 46.5 19.9 XL 26 49.6 19.9
-  Updated: 2025-10-26T12:42:06Z
+- [Camo Print Leopard Trim Button Up Jacket](https://glamorousboutique89.myshopify.com/products/camo-print-leopard-trim-button-up-jacket): Wild Meets Edgy – The Statement Jacket That Turns Heads!Make a bold fashion statement with the Camo Print Leopard Trim Button Up Jacket. Combining trendy camouflage with fierce leopard print trim, this unique jacket is perfect for those who love to stand out from the crowd.Why This Jacket is a Must-Have:🐆 Bold Print Combination: Eye-catching camo print with leopard trim creates a unique, fashion-forward look.🔘 Classic Button-Up Front: Traditional button closure for versatile styling options.👜 Functional Pockets: Convenient side pockets for carrying essentials or keeping hands warm.✨ Premium Cotton Blend: Made from 95% cotton and 5% elastane for comfort with a hint of stretch.🌡️ Perfect Weight: Normal thickness – ideal for layering during transitional seasons.🧺 Easy Care: Machine washable – wash cold and tumble dry low for hassle-free maintenance.💫 Versatile Styling: Dress it up or down for any occasion.Perfect For: Casual weekend outings Music festivals and concerts Adding edge to everyday looks Autumn and spring layering Making a fashion statement Styling Ideas:👖 Casual Cool: Pair with black jeans and ankle boots👗 Unexpected Mix: Layer over a feminine dress for contrast👟 Street Style: Style with leggings and trainers for an edgy athleisure lookStand out in style! This bold jacket combines two iconic prints for a look that's uniquely you. Add to basket now and unleash your wild side!Product Details: Material: 95% cotton, 5% elastane Thickness: Normal weight Lining: Not lined Care: Machine wash cold, tumble dry low Features: Camo print, leopard trim, button-up front, pockets Size Guide (Measurements in inches): Size Top Length Bust Sleeve Length S 23.6 41.7 19.5 M 24.4 44.1 19.7 L 25.2 46.5 19.9 XL 26 49.6 19.9
+  Updated: 2025-10-27T01:43:35Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1832,8 +1832,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/479f76cb0196459ebef488421b463a46-Max-Origin.webp?v=1761346986
     Price: £49.01 GBP
-- [Colorful Striped Detail V Neck Drop Shoulder Baggy Sweater](https://glamorousboutique89.myshopify.com/products/colorful-striped-detail-v-neck-drop-shoulder-baggy-sweater): Features:Ribbed Stretch:Slightly stretchy Material composition:100% acrylic Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 24.4 41.7 18.5 M 25.2 44.1 18.5 L 26 46.5 18.5 XL 26.8 49.6 18.5
-  Updated: 2025-10-26T12:20:50Z
+- [Colorful Striped Detail V Neck Drop Shoulder Baggy Sweater](https://glamorousboutique89.myshopify.com/products/colorful-striped-detail-v-neck-drop-shoulder-baggy-sweater): Pop of Color, Maximum Comfort – The Sweater That Brightens Your Day!Add a playful touch to your wardrobe with the Colorful Striped Detail V Neck Drop Shoulder Baggy Sweater. Featuring vibrant striped accents and a relaxed, oversized fit, this cozy sweater is perfect for adding personality and comfort to any outfit.Why You'll Love This Sweater:🌈 Colorful Striped Details: Eye-catching multicolored stripes add a fun, cheerful pop to your look.💫 Flattering V-Neckline: Classic V-neck design that elongates the neckline and pairs beautifully with any necklace.👕 Relaxed Drop Shoulder Design: Trendy, oversized fit with dropped shoulders for ultimate comfort and a laid-back vibe.🧶 Soft Ribbed Texture: Cozy ribbed knit adds visual interest and extra warmth.✨ Slightly Stretchy Fabric: Made from 100% acrylic for softness and flexibility.🧺 Easy Care: Machine washable – wash cold and tumble dry low for simple maintenance.🎨 Versatile Styling: Perfect for casual days, layering, or adding a splash of color to neutral outfits.Perfect For: Casual weekend outings Coffee dates with friends Autumn and winter layering Adding color to your wardrobe Cozy days at home Styling Ideas:👖 Casual Chic: Pair with jeans and ankle boots🧣 Layered Look: Wear over a collared shirt for preppy vibes👗 Feminine Touch: Style with a skirt and tightsBrighten up your wardrobe! This colorful sweater brings fun, comfort, and style together in one perfect piece. Add to basket now!Product Details: Material: 100% acrylic Stretch: Slightly stretchy Care: Machine wash cold, tumble dry low Features: Colorful striped details, V-neck, drop shoulders, ribbed texture, baggy fit Size Guide (Measurements in inches): Size Top Length Bust Sleeve Length S 24.4 41.7 18.5 M 25.2 44.1 18.5 L 26 46.5 18.5 XL 26.8 49.6 18.5
+  Updated: 2025-10-27T00:17:07Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1854,8 +1854,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/6e203d1e-58e0-42d6-b899-28dcfc1ed9bb-Max-Origin.webp?v=1761347005
     Price: £30.92 GBP
-- [Color Block Lace Detail Half Button T-Shirt](https://glamorousboutique89.myshopify.com/products/color-block-lace-detail-half-button-t-shirt): Features:Buttoned,Lace Detail Stretch:Slightly stretchy Material composition:95% polyester, 5% spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 25.6 36.2 24.8 M 26 37.8 25.2 L 26.4 39.4 25.6 XL 26.8 40.9 26 2XL 27.2 42.5 26.4
-  Updated: 2025-10-26T00:54:22Z
+- [Color Block Lace Detail Half Button T-Shirt](https://glamorousboutique89.myshopify.com/products/color-block-lace-detail-half-button-t-shirt): Feminine Meets Modern – The T-Shirt That Elevates Every Look!Add a touch of elegance to your casual wardrobe with the Color Block Lace Detail Half Button T-Shirt. Featuring delicate lace accents, stylish color blocking, and a flattering half-button design, this versatile top is perfect for creating effortlessly chic looks.Why You'll Love This T-Shirt:🎨 Stylish Color Block Design: Modern color blocking creates visual interest and a fashion-forward look.✨ Delicate Lace Details: Feminine lace accents add a romantic, elegant touch to this casual top.🔘 Half Button Front: Functional buttons allow you to adjust the neckline for versatile styling options.💫 Slightly Stretchy Fabric: Made from 95% polyester and 5% spandex for comfort and flexibility.🧺 Easy Care: Machine washable – wash cold and tumble dry low for hassle-free maintenance.👗 Versatile Styling: Dress it up with trousers or keep it casual with jeans – this top works for any occasion.💖 Inclusive Sizing: Available in sizes S to 2XL.Perfect For: Casual office wear Weekend brunches Date nights Layering under cardigans or blazers Everyday elegant style Styling Ideas:👖 Casual Chic: Pair with jeans and flats for an effortless look👠 Dressed Up: Style with tailored trousers and heels🧥 Layered Style: Wear under a blazer for professional polishElevate your everyday style! This feminine top combines comfort with elegant details for a look you'll love. Add to basket now!Product Details: Material: 95% polyester, 5% spandex Stretch: Slightly stretchy Care: Machine wash cold, tumble dry low Features: Color block design, lace details, half button front Size Guide (Measurements in inches): Size Top Length Bust Sleeve Length S 25.6 36.2 24.8 M 26 37.8 25.2 L 26.4 39.4 25.6 XL 26.8 40.9 26 2XL 27.2 42.5 26.4
+  Updated: 2025-10-27T00:17:07Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1900,8 +1900,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/d68aa5521e3b4bd1b4dbdb1521a5b4f2-Max-Origin.webp?v=1761347050
     Price: £23.33 GBP
-- [Letter Round Neck Sweatshirt](https://glamorousboutique89.myshopify.com/products/letter-round-neck-sweatshirt): Features:Ribbed,Basic style Stretch:Slightly stretchy Material composition:75% polyester, 20% viscose, 5% elastane Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 25.2 39.4 20.3 M 26 41.7 20.5 L 26.8 44.1 20.7 XL 27.6 47.2 20.7
-  Updated: 2025-10-26T12:20:36Z
+- [Letter Round Neck Sweatshirt](https://glamorousboutique89.myshopify.com/products/letter-round-neck-sweatshirt): Classic Comfort with a Message – Your New Everyday Essential!Keep it simple and stylish with the Letter Round Neck Sweatshirt. Featuring eye-catching letter graphics and a comfortable ribbed texture, this versatile sweatshirt is perfect for creating effortless, casual looks all season long.Why You'll Love This Sweatshirt:✍️ Bold Letter Graphics: Eye-catching typography adds personality and a modern edge to your look.🧶 Ribbed Texture: Classic ribbed detailing adds visual interest and a timeless appeal.👕 Classic Round Neckline: Versatile crew neck design that works with any outfit.💫 Slightly Stretchy Fabric: Made from 75% polyester, 20% viscose, and 5% elastane for comfort and flexibility.🧺 Easy Care: Machine washable – wash cold and tumble dry low for simple maintenance.🌟 Versatile Styling: Perfect for layering or wearing solo – works with jeans, leggings, or skirts.Perfect For: Casual everyday wear Running errands in comfort Weekend outings Layering during cooler months Relaxed, effortless style Styling Ideas:👖 Casual Cool: Pair with jeans and trainers for an easy everyday look🧢 Athleisure Vibes: Style with leggings and a baseball cap🧥 Layered Look: Wear under a denim or bomber jacketEffortless style, all-day comfort! This classic sweatshirt is the perfect addition to your casual wardrobe. Add to basket now!Product Details: Material: 75% polyester, 20% viscose, 5% elastane Stretch: Slightly stretchy Care: Machine wash cold, tumble dry low Features: Letter graphics, ribbed texture, round neck Size Guide (Measurements in inches): Size Top Length Bust Sleeve Length S 25.2 39.4 20.3 M 26 41.7 20.5 L 26.8 44.1 20.7 XL 27.6 47.2 20.7
+  Updated: 2025-10-27T01:43:25Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1922,8 +1922,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/289e6707-47cf-483c-8487-7f9271b2c9a7-Max-Origin.webp?v=1761347069
     Price: £25.31 GBP
-- [Round Toe Flats Loafers](https://glamorousboutique89.myshopify.com/products/round-toe-flats-loafers): Fit: True to size, order usual size. Includes: Box not included Heel height: Flats Material: PU leather, Canvas, Rubber Imported Product Measurements (Measurements by inches) & Size Conversion Size Foot length 36(US5) 9 37(US6) 9.2 38(US7) 9.4 39(US8) 9.6 40(US9) 9.8 41(US10) 10 42(US10.5) 10.2 43(US11) 10.4
-  Updated: 2025-10-26T00:54:22Z
+- [Round Toe Flats Loafers](https://glamorousboutique89.myshopify.com/products/round-toe-flats-loafers): Classic Comfort Meets Everyday Style – Your New Go-To Flats!Step into effortless elegance with the Round Toe Flats Loafers. Combining timeless loafer styling with all-day comfort, these versatile flats are perfect for work, weekends, and everything in between.Why You'll Love These Loafers:👞 Classic Loafer Design: Timeless round toe silhouette that never goes out of style.✨ Versatile Styling: Dress them up for the office or keep it casual for weekend outings.💫 All-Day Comfort: Flat heel design provides comfortable support for hours of wear.🌟 Quality Materials: Made from durable PU leather, canvas, and rubber for long-lasting wear.👗 True to Size Fit: Order your usual size for the perfect fit.🎨 Effortlessly Chic: Pairs beautifully with trousers, jeans, skirts, or dresses.Perfect For: Office and professional settings Casual weekend outings Running errands in style Travel and commuting Any occasion requiring comfortable, polished footwear Styling Ideas:👔 Professional Polish: Pair with tailored trousers and a blouse👖 Casual Chic: Style with jeans and a jumper👗 Feminine Touch: Wear with a midi skirt and cardiganStep into comfort and style! These classic loafers are the perfect addition to any wardrobe. Add to basket now!Product Details: Heel Height: Flats Material: PU leather, Canvas, Rubber Fit: True to size, order usual size Box not included Size Guide (Measurements in inches): Size Foot Length 36 (US5) 9 37 (US6) 9.2 38 (US7) 9.4 39 (US8) 9.6 40 (US9) 9.8 41 (US10) 10 42 (US10.5) 10.2 43 (US11) 10.4
+  Updated: 2025-10-27T03:18:25Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2088,8 +2088,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/f7596c3a-e596-40d9-85ad-485cf89af333-Max-Origin.webp?v=1761347240
     Price: £24.48 GBP
-- [Bow Open Toe Flats Slippers](https://glamorousboutique89.myshopify.com/products/bow-open-toe-flats-slippers): Fit:True to size, order usual size. Includes:Box not included Heel height:Flats Material:PU Leather,Polyester,Fluff,Rubber Imported Product Measurements (Measurements by inches) & Size Conversion Size Foot length 36-37(US5-6) 9.1 38-39(US7-8) 9.4 40-41(US9-10) 9.8 42-43(US10.5-11) 10.2
-  Updated: 2025-10-26T00:54:23Z
+- [Bow Open Toe Flats Slippers](https://glamorousboutique89.myshopify.com/products/bow-open-toe-flats-slippers): Cozy Comfort with a Feminine Touch – Slippers You'll Love!Treat your feet to ultimate comfort with the Bow Open Toe Flats Slippers. Featuring an adorable bow detail and soft, fluffy lining, these charming slippers are perfect for relaxing at home or quick trips out.Why You'll Love These Slippers:🎀 Adorable Bow Detail: Feminine bow accent adds a sweet, stylish touch to these cozy slippers.☁️ Soft Fluffy Lining: Plush fluff interior keeps your feet warm and comfortable all day long.👣 Open Toe Design: Breathable open-toe style prevents overheating while keeping you cozy.💫 Flat Heel Comfort: Zero-heel design provides natural, comfortable support.✨ Quality Materials: Made from PU leather, polyester, fluff, and rubber for durability and comfort.🏠 True to Size Fit: Order your usual size for the perfect fit.Perfect For: Relaxing at home Lazy weekend mornings Quick trips to the shops Spa days and pampering Keeping your feet cozy and stylish Styling Tips:🛋️ Loungewear Chic: Pair with your favourite pyjamas or loungewear🧖 Spa Vibes: Perfect for at-home spa days☕ Morning Comfort: Slip on for cozy mornings with your coffeePamper your feet in style! These adorable slippers combine comfort with feminine charm. Add to basket now!Product Details: Heel Height: Flats Material: PU Leather, Polyester, Fluff, Rubber Fit: True to size, order usual size Box not included Size Guide (Measurements in inches): Size Foot Length 36-37 (US5-6) 9.1 38-39 (US7-8) 9.4 40-41 (US9-10) 9.8 42-43 (US10.5-11) 10.2
+  Updated: 2025-10-27T00:17:08Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2110,8 +2110,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/4b62071fd6e840c897a668af6b904af9-Max-Origin.webp?v=1761347274
     Price: £18.38 GBP
-- [PU Leather Block Heel Boots](https://glamorousboutique89.myshopify.com/products/pu-leather-block-heel-boots): Fit: True to size, order usual size. Includes: Box not included Heel height: High heels Material: Rubber, PU leather Imported Product Measurements (Measurements by inches) & Size Conversion Size Foot length 35(US4) 8.8 36(US5) 9 37(US6) 9.2 38(US7) 9.4 39(US8) 9.6 40(US9) 9.8 41(US10) 10 42(US10.5) 10.2 43(US11) 10.4
-  Updated: 2025-10-26T00:54:23Z
+- [PU Leather Block Heel Boots](https://glamorousboutique89.myshopify.com/products/pu-leather-block-heel-boots): Elevate Your Style – The Boots That Do It All!Step up your footwear game with the PU Leather Block Heel Boots. Featuring a comfortable block heel and sleek PU leather finish, these versatile boots are perfect for adding height and sophistication to any outfit.Why You'll Love These Boots:👢 Stylish Block Heel: Comfortable, stable block heel adds height without sacrificing comfort.✨ Sleek PU Leather: Premium-look PU leather finish that's both stylish and easy to maintain.💫 Versatile Design: Classic silhouette that pairs beautifully with jeans, dresses, or skirts.🌟 High Heel Height: Adds elegant elevation while remaining comfortable for all-day wear.👗 True to Size Fit: Order your usual size for the perfect fit.🎨 Durable Construction: Quality rubber sole and PU leather upper for long-lasting wear.Perfect For: Office and professional settings Date nights and special occasions Autumn and winter styling Adding height and elegance to any outfit Transitional season wear Styling Ideas:👖 Casual Chic: Pair with skinny jeans and a jumper👗 Feminine Elegance: Style with a midi dress and tights🧥 Layered Look: Wear with a coat and scarf for autumn vibesStep into style and confidence! These block heel boots are the perfect blend of comfort and sophistication. Add to basket now!Product Details: Heel Height: High heels (block heel) Material: PU leather, Rubber Fit: True to size, order usual size Box not included Size Guide (Measurements in inches): Size Foot Length 35 (US4) 8.8 36 (US5) 9 37 (US6) 9.2 38 (US7) 9.4 39 (US8) 9.6 40 (US9) 9.8 41 (US10) 10 42 (US10.5) 10.2 43 (US11) 10.4
+  Updated: 2025-10-27T00:17:08Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2188,8 +2188,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/f8f34be1-79a1-4199-9783-8366c5204a37-Max.webp?v=1761347290
     Price: £31.34 GBP
-- [Bow Open Toe Slippers](https://glamorousboutique89.myshopify.com/products/bow-open-toe-slippers): Fit:True to size, order usual size. Includes:Box not included Heel height:Flats Material:Cotton,Fluff,EVA Imported Product Measurements (Measurements by inches) & Size Conversion Size Foot length 36-37(US5-6) 9.1 38-39(US7-8) 9.4 40-41(US9-10) 9.8 42-43(US10.5-11) 10.2
-  Updated: 2025-10-26T00:54:23Z
+- [Bow Open Toe Slippers](https://glamorousboutique89.myshopify.com/products/bow-open-toe-slippers): Soft, Cozy, and Oh-So-Cute – Your Feet Deserve This!Indulge in cloud-like comfort with the Bow Open Toe Slippers. Featuring a charming bow detail and ultra-soft materials, these delightful slippers are perfect for keeping your feet cozy and stylish at home.Why You'll Love These Slippers:🎀 Sweet Bow Accent: Adorable bow detail adds a feminine, playful touch to these cozy slippers.☁️ Ultra-Soft Materials: Made with cotton and fluffy lining for cloud-like comfort against your skin.👣 Breathable Open Toe: Open-toe design keeps your feet comfortable without overheating.💫 Lightweight EVA Sole: Cushioned EVA sole provides soft, supportive comfort with every step.🏠 Perfect for Home: Ideal for lounging, relaxing, or pottering around the house.✨ True to Size Fit: Order your usual size for the perfect fit.Perfect For: Relaxing at home Cozy mornings and evenings Post-shower comfort Pampering yourself Keeping your feet happy and comfortable Styling Tips:🛋️ Loungewear Love: Pair with your cosiest pyjamas or robe🧖 Spa Day: Perfect for at-home spa and self-care days☕ Morning Ritual: Slip on for comfortable mornings at homeTreat your feet to the comfort they deserve! These adorable slippers are the perfect blend of cozy and cute. Add to basket now!Product Details: Heel Height: Flats Material: Cotton, Fluff, EVA Fit: True to size, order usual size Box not included Size Guide (Measurements in inches): Size Foot Length 36-37 (US5-6) 9.1 38-39 (US7-8) 9.4 40-41 (US9-10) 9.8 42-43 (US10.5-11) 10.2
+  Updated: 2025-10-27T00:17:08Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2210,8 +2210,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/f9336b1117ef4d0682060da70e0d5565-Max-Origin.webp?v=1761347303
     Price: £18.38 GBP
-- [Point Toe Flats Slip-Ons](https://glamorousboutique89.myshopify.com/products/point-toe-flats-slip-ons): Fit:True to size, order usual size. Includes:Box not included Heel height:Flats Material:PU Leather,Rubber,Rhinestone Imported Product Measurements (Measurements by inches) & Size Conversion Size Foot length 36(US5) 9 37(US6) 9.2 38(US7) 9.4 39(US8) 9.6 40(US9) 9.8 41(US10) 10 42(US10.5) 10.2 43(US11) 10.4
-  Updated: 2025-10-26T00:54:23Z
+- [Point Toe Flats Slip-Ons](https://glamorousboutique89.myshopify.com/products/point-toe-flats-slip-ons): Elegant Simplicity – The Flats That Add Instant Polish!Step into sophisticated style with the Point Toe Flats Slip-Ons. Featuring a sleek pointed toe and sparkling rhinestone details, these elegant flats are perfect for adding a touch of glamour to your everyday look.Why You'll Love These Flats:✨ Elegant Pointed Toe: Sophisticated silhouette that elongates your legs and adds instant polish.💎 Rhinestone Embellishments: Sparkling details add a touch of glamour without being over the top.👠 Easy Slip-On Design: Convenient slip-on style for quick, effortless wear.💫 All-Day Comfort: Flat heel design provides comfortable support for hours of wear.🌟 Quality Materials: Made from PU leather with rubber sole for durability and style.👗 True to Size Fit: Order your usual size for the perfect fit.Perfect For: Office and professional settings Special occasions and events Date nights and dinners Adding elegance to casual outfits Any time you want to look polished Styling Ideas:👔 Professional Chic: Pair with tailored trousers and a blouse👗 Feminine Elegance: Style with a midi dress or skirt👖 Elevated Casual: Wear with jeans and a blazerAdd a touch of sparkle to every step! These elegant flats combine comfort with sophisticated style. Add to basket now!Product Details: Heel Height: Flats Material: PU leather, Rubber, Rhinestone Fit: True to size, order usual size Box not included Size Guide (Measurements in inches): Size Foot Length 36 (US5) 9 37 (US6) 9.2 38 (US7) 9.4 39 (US8) 9.6 40 (US9) 9.8 41 (US10) 10 42 (US10.5) 10.2 43 (US11) 10.4
+  Updated: 2025-10-27T00:17:08Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2344,8 +2344,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/c5cec6c0ec4c409a9481e71ab6e90a82-Max-Origin.webp?v=1761347337
     Price: £21.75 GBP
-- [Square Toe Slip-Ons](https://glamorousboutique89.myshopify.com/products/square-toe-slip-ons): Fit:True to size, order usual size. Includes:Box not included Heel height:Flats Material:Mesh,Rubber Imported Product Measurements (Measurements by inches) & Size Conversion Size Foot length 35(US4) 8.8 36(US5) 9 37(US6) 9.2 38(US7) 9.4 39(US8) 9.6 40(US9) 9.8 41(US10) 10 42(US10.5) 10.2 43(US11) 10.4
-  Updated: 2025-10-26T00:54:23Z
+- [Square Toe Slip-Ons](https://glamorousboutique89.myshopify.com/products/square-toe-slip-ons): Modern Comfort Meets Contemporary Style – Your New Everyday Favourite!Step into effortless style with the Square Toe Slip-Ons. Featuring a trendy square toe and breathable mesh design, these modern slip-ons are perfect for all-day comfort and contemporary fashion.Why You'll Love These Slip-Ons:🔲 Trendy Square Toe: Modern, fashion-forward silhouette that's right on trend.🌬️ Breathable Mesh Material: Lightweight, airy construction keeps your feet cool and comfortable all day.👟 Easy Slip-On Design: Convenient, hassle-free wear – perfect for busy days.💫 All-Day Comfort: Flat heel and cushioned design provide comfortable support for hours of wear.✨ Lightweight Construction: Barely-there feel that won't weigh you down.🌟 True to Size Fit: Order your usual size for the perfect fit.Perfect For: Casual everyday wear Running errands in comfort Travel and walking Warm weather styling Active, on-the-go lifestyles Styling Ideas:👖 Casual Cool: Pair with jeans and a t-shirt👗 Relaxed Chic: Style with a casual dress or skirt🩳 Summer Ready: Wear with shorts and a tank topComfort meets contemporary style! These modern slip-ons are perfect for your active lifestyle. Add to basket now!Product Details: Heel Height: Flats Material: Mesh, Rubber Fit: True to size, order usual size Box not included Size Guide (Measurements in inches): Size Foot Length 35 (US4) 8.8 36 (US5) 9 37 (US6) 9.2 38 (US7) 9.4 39 (US8) 9.6 40 (US9) 9.8 41 (US10) 10 42 (US10.5) 10.2 43 (US11) 10.4
+  Updated: 2025-10-27T00:17:08Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2458,8 +2458,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/dcfa29ac076f4cd391a67defc2c67abb-Max-Origin.webp?v=1761347352
     Price: £19.89 GBP
-- [Graffiti Print Combat Boots with Colorful Street Art Design](https://glamorousboutique89.myshopify.com/products/graffiti-print-combat-boots-with-colorful-street-art-design): Fit:True to size, order usual size. Includes:Box not included Heel height:Low heels Material:PU Leather,Rubber Imported Product Measurements (Measurements by inches) & Size Conversion Size Foot length 35(US4) 8.8 36(US5) 9 37(US6) 9.2 38(US7) 9.4 39(US8) 9.6 40(US9) 9.8 41(US10) 10 42(US10.5) 10.2
-  Updated: 2025-10-26T00:54:23Z
+- [Graffiti Print Combat Boots with Colorful Street Art Design](https://glamorousboutique89.myshopify.com/products/graffiti-print-combat-boots-with-colorful-street-art-design): Street Art Meets Street Style – Boots That Turn Heads!Make a bold statement with the Graffiti Print Combat Boots with Colorful Street Art Design. Featuring vibrant, artistic graffiti prints and classic combat boot styling, these unique boots are perfect for expressing your creative, edgy style.Why You'll Love These Boots:🎨 Vibrant Graffiti Print: Eye-catching, colorful street art design that makes every step a statement.👢 Classic Combat Boot Style: Timeless lace-up design with durable construction for all-day wear.💫 Low Heel Comfort: Comfortable low heel provides support without sacrificing style.✨ Quality PU Leather: Durable material that's easy to maintain and built to last.🌟 Unique Artistic Design: Stand out from the crowd with these one-of-a-kind boots.👗 True to Size Fit: Order your usual size for the perfect fit.Perfect For: Music festivals and concerts Street style and urban fashion Making a creative statement Casual outings with edge Expressing your artistic side Styling Ideas:👖 Street Style: Pair with ripped jeans and a graphic tee👗 Unexpected Mix: Style with a feminine dress for contrast🧥 Layered Edge: Wear with a leather or denim jacketExpress yourself with every step! These artistic boots are perfect for those who dare to be different. Add to basket now!Product Details: Heel Height: Low heels Material: PU leather, Rubber Fit: True to size, order usual size Box not included Size Guide (Measurements in inches): Size Foot Length 35 (US4) 8.8 36 (US5) 9 37 (US6) 9.2 38 (US7) 9.4 39 (US8) 9.6 40 (US9) 9.8 41 (US10) 10 42 (US10.5) 10.2
+  Updated: 2025-10-27T00:17:08Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2528,8 +2528,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/fe3aeed526394a7fb043b1a906b9ffe6-Max-Origin.webp?v=1761347371
     Price: £37.76 GBP
-- [Pearl Embellished Luxury Fur Lined Winter Boots](https://glamorousboutique89.myshopify.com/products/pearl-embellished-luxury-fur-lined-winter-boots): Fit:True to size, order usual size. Includes:Box not included Heel height:Low heels Material:PU Leather,Fluff,Rubber Imported Product Measurements (Measurements by inches) & Size Conversion Size Foot length 36(US5) 9 37(US6) 9.2 38(US7) 9.4 39(US8) 9.6 40(US9) 9.8 41(US10) 10 42(US10.5) 10.2 43(US11) 10.4 44(US12) 10.6
-  Updated: 2025-10-26T00:54:23Z
+- [Pearl Embellished Luxury Fur Lined Winter Boots](https://glamorousboutique89.myshopify.com/products/pearl-embellished-luxury-fur-lined-winter-boots): Luxury Meets Warmth – Winter Boots That Sparkle!Stay warm and stylish with the Pearl Embellished Luxury Fur Lined Winter Boots. Featuring elegant pearl details and cozy fur lining, these luxurious boots are perfect for adding glamour to your cold-weather wardrobe.Why You'll Love These Boots:💎 Elegant Pearl Embellishments: Beautiful pearl details add a touch of luxury and sophistication.☁️ Cozy Fur Lining: Soft, warm fur interior keeps your feet toasty during cold winter days.👢 Comfortable Low Heel: Stable, walkable heel provides support without sacrificing comfort.✨ Quality PU Leather: Durable, weather-resistant material that looks great all season long.❄️ Perfect for Winter: Warm, stylish, and practical for cold weather.🌟 True to Size Fit: Order your usual size for the perfect fit.Perfect For: Cold winter days Holiday parties and events Staying warm in style Winter weddings and celebrations Adding luxury to everyday outfits Styling Ideas:👖 Casual Elegance: Pair with jeans and a cozy jumper👗 Dressed Up: Style with tights and a dress for special occasions🧥 Layered Warmth: Wear with a long coat and scarfStay warm, look luxurious! These pearl-embellished boots are the perfect blend of comfort and elegance. Add to basket now!Product Details: Heel Height: Low heels Material: PU leather, Fluff (fur lining), Rubber Fit: True to size, order usual size Box not included Size Guide (Measurements in inches): Size Foot Length 36 (US5) 9 37 (US6) 9.2 38 (US7) 9.4 39 (US8) 9.6 40 (US9) 9.8 41 (US10) 10 42 (US10.5) 10.2 43 (US11) 10.4 44 (US12) 10.6
+  Updated: 2025-10-27T00:17:08Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2642,8 +2642,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/b3385f9154254db0acb83b9b3b216a75-Max-Origin.webp?v=1761347393
     Price: £29.04 GBP
-- [Winter Waterproof Snow Boots with Warm Fur Lining](https://glamorousboutique89.myshopify.com/products/winter-waterproof-snow-boots-with-warm-fur-lining): Fit:True to size, order usual size. Includes:Box not included Heel height:Low heels Material:PU Leather,Fluff,Rubber Imported Product Measurements (Measurements by inches) & Size Conversion Size Foot length 36(US5) 9 37(US6) 9.2 38(US7) 9.4 39(US8) 9.6 40(US9) 9.8 41(US10) 10 42(US10.5) 10.2
-  Updated: 2025-10-26T00:54:23Z
+- [Winter Waterproof Snow Boots with Warm Fur Lining](https://glamorousboutique89.myshopify.com/products/winter-waterproof-snow-boots-with-warm-fur-lining): Conquer Winter in Comfort – Boots That Keep You Warm and Dry!Stay warm, dry, and stylish all winter long with the Winter Waterproof Snow Boots with Warm Fur Lining. Featuring waterproof construction and cozy fur lining, these essential winter boots are perfect for tackling snow, slush, and cold weather in comfort.Why You'll Love These Snow Boots:❄️ Waterproof Protection: Keep your feet dry in snow, rain, and slush with waterproof construction.☁️ Warm Fur Lining: Cozy, soft fur interior keeps your feet toasty warm even on the coldest days.👢 Comfortable Low Heel: Stable, walkable heel provides support and traction on slippery surfaces.✨ Durable PU Leather: Weather-resistant material built to withstand harsh winter conditions.🌨️ Winter Essential: Perfect for snow days, winter walks, and cold-weather commuting.🌟 True to Size Fit: Order your usual size for the perfect fit.Perfect For: Snowy and icy conditions Winter walks and outdoor activities Cold-weather commuting Staying warm and dry all season Practical winter footwear Styling Ideas:👖 Casual Warmth: Pair with jeans and a puffer jacket🧣 Cozy Layers: Style with leggings and an oversized jumper🧥 Winter Ready: Wear with a long coat and scarfStay warm, stay dry, stay stylish! These waterproof snow boots are your winter essential. Add to basket now!Product Details: Heel Height: Low heels Material: PU leather, Fluff (fur lining), Rubber Features: Waterproof, warm fur lining Fit: True to size, order usual size Box not included Size Guide (Measurements in inches): Size Foot Length 36 (US5) 9 37 (US6) 9.2 38 (US7) 9.4 39 (US8) 9.6 40 (US9) 9.8 41 (US10) 10 42 (US10.5) 10.2
+  Updated: 2025-10-27T00:17:08Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2732,8 +2732,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/b603c5a9c5214c90bfeff242ec4a2d8c-Max-Origin.webp?v=1761347414
     Price: £45.60 GBP
-- [Round Toe Platform Boots](https://glamorousboutique89.myshopify.com/products/round-toe-platform-boots): Fit:True to size, order usual size. Includes:Box not included Heel height:Low heels Material:PU Leather,Fluff,Rubber Imported Product Measurements (Measurements by inches) & Size Conversion Size Foot length 36(US5) 9 37(US6) 9.2 38(US7) 9.4 39(US8) 9.6 40(US9) 9.8 41(US10) 10 42(US10.5) 10.2 43(US11) 10.4
-  Updated: 2025-10-26T00:54:23Z
+- [Round Toe Platform Boots](https://glamorousboutique89.myshopify.com/products/round-toe-platform-boots): Elevate Your Style – Platform Boots with Cozy Comfort!Add height and warmth to your winter wardrobe with the Round Toe Platform Boots. Featuring a trendy platform sole and cozy fur lining, these stylish boots are perfect for staying comfortable and fashionable all season long.Why You'll Love These Boots:👢 Trendy Platform Sole: Adds height and a fashion-forward edge to any outfit.☁️ Cozy Fur Lining: Soft, warm interior keeps your feet comfortable during cold weather.💫 Round Toe Design: Classic silhouette that's both comfortable and stylish.✨ Low Heel Height: Platform provides height while remaining comfortable for all-day wear.🌟 Quality PU Leather: Durable material that's easy to maintain and built to last.👗 True to Size Fit: Order your usual size for the perfect fit.Perfect For: Autumn and winter styling Adding height to your look Casual outings and events Staying warm in style Trendy, everyday wear Styling Ideas:👖 Casual Cool: Pair with skinny jeans and an oversized jumper👗 Feminine Edge: Style with a dress and tights🧥 Layered Look: Wear with a long coat for winter vibesStep up your style game! These platform boots combine comfort, warmth, and trendy design. Add to basket now!Product Details: Heel Height: Low heels (platform) Material: PU leather, Fluff (fur lining), Rubber Fit: True to size, order usual size Box not included Size Guide (Measurements in inches): Size Foot Length 36 (US5) 9 37 (US6) 9.2 38 (US7) 9.4 39 (US8) 9.6 40 (US9) 9.8 41 (US10) 10 42 (US10.5) 10.2 43 (US11) 10.4
+  Updated: 2025-10-27T00:17:09Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2930,8 +2930,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/108b8e434fef4e24a809b491ac36de6e-Max-Origin.webp?v=1761347435
     Price: £45.60 GBP
-- [Point Toe Block Heels Boots](https://glamorousboutique89.myshopify.com/products/point-toe-block-heels-boots): Fit:True to size, order usual size. Includes:Box not included Heel height:High heels Material:PU Leather,Rubber Imported Product Measurements (Measurements by inches) & Size Conversion Size Foot length 36(US5) 9 37(US6) 9.2 38(US7) 9.4 39(US8) 9.6 40(US9) 9.8 41(US10) 10 42(US10.5) 10.2 43(US11) 10.4
-  Updated: 2025-10-26T00:54:24Z
+- [Point Toe Block Heels Boots](https://glamorousboutique89.myshopify.com/products/point-toe-block-heels-boots): Sleek Sophistication – Boots That Mean Business!Step into polished elegance with the Point Toe Block Heels Boots. Featuring a sophisticated pointed toe and comfortable block heel, these versatile boots are perfect for adding height and refinement to any outfit.Why You'll Love These Boots:👠 Elegant Pointed Toe: Sophisticated silhouette that elongates your legs and adds instant polish.💫 Comfortable Block Heel: Stable, walkable high heel provides height without sacrificing comfort.✨ Sleek PU Leather: Premium-look finish that's both stylish and easy to maintain.👗 Versatile Design: Perfect for work, special occasions, or elevating everyday outfits.🌟 Professional Polish: Ideal for office wear and formal events.💼 True to Size Fit: Order your usual size for the perfect fit.Perfect For: Office and professional settings Special occasions and events Date nights and dinners Adding sophistication to any outfit Autumn and winter styling Styling Ideas:👔 Professional Power: Pair with tailored trousers and a blazer👗 Elegant Evening: Style with a midi dress for special occasions👖 Smart Casual: Wear with jeans and a silk blouseStep into sophistication! These pointed toe boots are the perfect blend of style and comfort. Add to basket now!Product Details: Heel Height: High heels (block heel) Material: PU leather, Rubber Fit: True to size, order usual size Box not included Size Guide (Measurements in inches): Size Foot Length 36 (US5) 9 37 (US6) 9.2 38 (US7) 9.4 39 (US8) 9.6 40 (US9) 9.8 41 (US10) 10 42 (US10.5) 10.2 43 (US11) 10.4
+  Updated: 2025-10-27T00:17:09Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -3064,8 +3064,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/a5e6182a4d5b4da09b772b0341bf576b-Max-Origin.webp?v=1761347451
     Price: £35.70 GBP
-- [Round Toe Platform Boots](https://glamorousboutique89.myshopify.com/products/round-toe-platform-boots-1): Fit:True to size, order usual size. Includes:Box not included Heel height:Low heels Material:PU Leather,Fluff,Rubber Imported Product Measurements (Measurements by inches) & Size Conversion Size Foot length 36(US5) 9 37(US6) 9.2 38(US7) 9.4 39(US8) 9.6 40(US9) 9.8 41(US10) 10 42(US10.5) 10.2 43(US11) 10.4
-  Updated: 2025-10-26T00:54:24Z
+- [Round Toe Platform Boots](https://glamorousboutique89.myshopify.com/products/round-toe-platform-boots-1): Cozy Comfort Meets Platform Style – Your Winter Essential!Stay warm and stylish with the Round Toe Platform Boots. Featuring a comfortable platform sole and soft fur lining, these versatile boots are perfect for adding height and warmth to your cold-weather wardrobe.Why You'll Love These Boots:👢 Comfortable Platform Design: Adds height while maintaining comfort for all-day wear.☁️ Soft Fur Lining: Cozy interior keeps your feet warm during chilly days.💫 Classic Round Toe: Timeless silhouette that pairs with everything in your wardrobe.✨ Low Heel Height: Platform provides elevation without the discomfort of high heels.🌟 Durable PU Leather: Quality material that's built to last season after season.👗 True to Size Fit: Order your usual size for the perfect fit.Perfect For: Autumn and winter wear Casual everyday styling Adding height comfortably Staying warm in style Versatile, all-season boots Styling Ideas:👖 Casual Chic: Pair with jeans and a cozy jumper👗 Feminine Touch: Style with a dress and tights🧥 Layered Warmth: Wear with a long coat and scarfComfort, warmth, and style in one! These platform boots are your new cold-weather favourite. Add to basket now!Product Details: Heel Height: Low heels (platform) Material: PU leather, Fluff (fur lining), Rubber Fit: True to size, order usual size Box not included Size Guide (Measurements in inches): Size Foot Length 36 (US5) 9 37 (US6) 9.2 38 (US7) 9.4 39 (US8) 9.6 40 (US9) 9.8 41 (US10) 10 42 (US10.5) 10.2 43 (US11) 10.4
+  Updated: 2025-10-27T00:17:09Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -3166,8 +3166,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/dbb8198fe9704710b63bbdcdd012ea34-Max-Origin.webp?v=1761347476
     Price: £29.97 GBP
-- [Christmas Print Round Toe Sneakers](https://glamorousboutique89.myshopify.com/products/christmas-print-round-toe-sneakers): Fit:True to size, order usual size. Includes:Box not included Heel height:Flats Material:PU Leather,Canvas,Fluff,Rubber Imported Product Measurements (Measurements by inches) & Size Conversion Size Foot length 36(US5) 9 37(US6) 9.2 38(US7) 9.4 39(US8) 9.6 40(US9) 9.8 41(US10) 10 42(US10.5) 10.2 43(US11) 10.4
-  Updated: 2025-10-26T00:54:24Z
+- [Christmas Print Round Toe Sneakers](https://glamorousboutique89.myshopify.com/products/christmas-print-round-toe-sneakers): Festive Feet – Sneakers That Celebrate the Season!Spread holiday cheer with every step in the Christmas Print Round Toe Sneakers. Featuring festive Christmas prints and comfortable flat design, these fun sneakers are perfect for celebrating the season in style and comfort.Why You'll Love These Sneakers:🎄 Festive Christmas Print: Eye-catching holiday designs that bring joy and festive spirit to your look.👟 Comfortable Flat Design: All-day comfort with a supportive flat sole perfect for walking and standing.☁️ Cozy Fur Lining: Soft, warm interior keeps your feet comfortable during the holiday season.✨ Quality Materials: Made from PU leather, canvas, fluff, and rubber for durability and comfort.🎅 Perfect for the Holidays: Ideal for Christmas parties, festive gatherings, or spreading holiday cheer.🌟 True to Size Fit: Order your usual size for the perfect fit.Perfect For: Christmas parties and celebrations Holiday shopping trips Festive family gatherings Casual holiday outings Spreading Christmas cheer Styling Ideas:👖 Casual Festive: Pair with jeans and a Christmas jumper🎀 Holiday Fun: Style with festive leggings and a cozy top🧣 Layered Warmth: Wear with your favourite winter coatMake every step merry and bright! These festive sneakers are perfect for celebrating the season in comfort. Add to basket now!Product Details: Heel Height: Flats Material: PU leather, Canvas, Fluff, Rubber Features: Christmas print, fur lining Fit: True to size, order usual size Box not included Size Guide (Measurements in inches): Size Foot Length 36 (US5) 9 37 (US6) 9.2 38 (US7) 9.4 39 (US8) 9.6 40 (US9) 9.8 41 (US10) 10 42 (US10.5) 10.2 43 (US11) 10.4
+  Updated: 2025-10-27T00:17:09Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -3204,8 +3204,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/b28115042da043e8ab0526235bc71239-Max-Origin.webp?v=1761347517
     Price: £27.84 GBP
-- [Point Toe Slingback Sandals](https://glamorousboutique89.myshopify.com/products/point-toe-slingback-sandals): Fit:True to size, order usual size. Includes:Box not included Heel height:High heels Material:PU Leather,Rubber Imported Product Measurements (Measurements by inches) & Size Conversion Size Foot length 34(US3) 8.7 35(US4) 8.8 36(US5) 9 37(US6) 9.2 38(US7) 9.4 39(US8) 9.6 40(US9) 9.8 41(US10) 10 42(US10.5) 10.2
-  Updated: 2025-10-26T00:54:24Z
+- [Point Toe Slingback Sandals](https://glamorousboutique89.myshopify.com/products/point-toe-slingback-sandals): Elegant Elevation – Sandals That Add Instant Glamour!Step into sophisticated style with the Point Toe Slingback Sandals. Featuring a sleek pointed toe and elegant slingback design, these high-heel sandals are perfect for adding height and refinement to any special occasion outfit.Why You'll Love These Sandals:👠 Elegant Pointed Toe: Sophisticated silhouette that elongates your legs and adds instant polish.✨ Chic Slingback Design: Adjustable strap provides a secure, comfortable fit while adding a feminine touch.💫 High Heel Height: Adds elegant elevation for special occasions and dressy events.🌟 Quality PU Leather: Premium-look finish that's both stylish and easy to maintain.👗 Versatile Elegance: Perfect for weddings, parties, date nights, or any special occasion.💼 True to Size Fit: Order your usual size for the perfect fit.Perfect For: Weddings and formal events Cocktail parties and celebrations Date nights and romantic dinners Special occasions Adding elegance to dressy outfits Styling Ideas:👗 Formal Elegance: Pair with a cocktail dress for special events👔 Professional Chic: Style with tailored trousers and a silk blouse💃 Evening Glam: Wear with a midi or maxi dress for sophisticated styleStep into elegance! These sophisticated slingback sandals are perfect for making a lasting impression. Add to basket now!Product Details: Heel Height: High heels Material: PU leather, Rubber Fit: True to size, order usual size Box not included Size Guide (Measurements in inches): Size Foot Length 34 (US3) 8.7 35 (US4) 8.8 36 (US5) 9 37 (US6) 9.2 38 (US7) 9.4 39 (US8) 9.6 40 (US9) 9.8 41 (US10) 10 42 (US10.5) 10.2
+  Updated: 2025-10-27T00:17:09Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -3283,7 +3283,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/c55112a161d04be1bc794f799f2fe5c7-Max-Origin.webp?v=1761347556
     Price: £33.60 GBP
 - [Round Toe Flats Slip-Ons](https://glamorousboutique89.myshopify.com/products/round-toe-flats-slip-ons): Fit:True to size, order usual size. Includes:Box not included Heel height:Flats Material:PU Leather,Rubber Imported Product Measurements (Measurements by inches) & Size Conversion Size Foot length 35(US4) 8.8 36(US5) 9 37(US6) 9.2 38(US7) 9.4 39(US8) 9.6 40(US9) 9.8 41(US10) 10 42(US10.5) 10.2
-  Updated: 2025-10-26T00:54:24Z
+  Updated: 2025-10-27T00:17:09Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -3384,8 +3384,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/402a5a42f96e40ee80a82e658775fc0b-Max-Origin.webp?v=1761347580
     Price: £26.51 GBP
-- [MERRY Round Neck Christmas Sweatshirt](https://glamorousboutique89.myshopify.com/products/merry-round-neck-christmas-sweatshirt): Features:Basic style Stretch:Slightly stretchy Material composition:75% polyester, 20% viscose, 5% elastane Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 25.2 39.4 20.3 M 26 41.7 20.5 L 26.8 44.1 20.7 XL 27.6 47.2 20.7
-  Updated: 2025-10-26T12:20:40Z
+- [MERRY Round Neck Christmas Sweatshirt](https://glamorousboutique89.myshopify.com/products/merry-round-neck-christmas-sweatshirt): Spread Christmas Cheer – The Festive Sweatshirt You'll Love!Get into the holiday spirit with the MERRY Round Neck Christmas Sweatshirt. Featuring cheerful 'MERRY' lettering and a comfortable, relaxed fit, this festive sweatshirt is perfect for celebrating the season in style and comfort.Why You'll Love This Christmas Sweatshirt:🎄 Festive MERRY Graphic: Eye-catching holiday lettering that spreads Christmas cheer wherever you go.👕 Classic Round Neckline: Timeless crew neck design that's comfortable and versatile.💫 Slightly Stretchy Fabric: Made from 75% polyester, 20% viscose, and 5% elastane for comfort and flexibility.✨ Ribbed Texture: Classic ribbed detailing adds visual interest and a quality feel.🧺 Easy Care: Machine washable – wash cold and tumble dry low for simple maintenance.🎁 Perfect for the Holidays: Ideal for Christmas parties, family gatherings, festive photos, or cozy winter days.Perfect For: Christmas parties and holiday celebrations Family gatherings and festive dinners Casual holiday outings Festive photo opportunities Cozy winter days at home Styling Ideas:👖 Casual Festive: Pair with jeans and ankle boots🎀 Cozy Layers: Style with leggings and fuzzy slippers🧣 Winter Ready: Add a scarf and your favourite winter coatMake this Christmas extra merry! This festive sweatshirt brings holiday cheer and cozy comfort together. Add to basket now!Product Details: Material: 75% polyester, 20% viscose, 5% elastane Stretch: Slightly stretchy Care: Machine wash cold, tumble dry low Features: MERRY graphic, round neck, ribbed texture Size Guide (Measurements in inches): Size Top Length Bust Sleeve Length S 25.2 39.4 20.3 M 26 41.7 20.5 L 26.8 44.1 20.7 XL 27.6 47.2 20.7
+  Updated: 2025-10-27T02:21:41Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -3406,8 +3406,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/a7f50a94-4159-497a-a29c-e186c65d3a8b-Max-Origin.webp?v=1761347632
     Price: £25.88 GBP
-- [Long-Sleeve Single-Breasted Trench Coat](https://glamorousboutique89.myshopify.com/products/long-sleeve-single-breasted-trench-coat): Features:Buttoned,Pocketed Thickness:Thick Body:Not lined Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Shoulder Sleeve Length S 38.6 38.6 0 0 M 39 40.2 0 0 L 39.4 42.5 0 0 XL 39.8 44.9 0 0 2XL 40.2 47.2 0 0
-  Updated: 2025-10-26T00:54:24Z
+- [Long-Sleeve Single-Breasted Trench Coat](https://glamorousboutique89.myshopify.com/products/long-sleeve-single-breasted-trench-coat): Timeless Elegance – The Trench Coat Every Wardrobe Needs!Step into sophisticated style with the Long-Sleeve Single-Breasted Trench Coat. Featuring classic trench styling with modern details, this elegant coat is perfect for adding polish and warmth to any outfit.Why You'll Love This Trench Coat:🧥 Classic Trench Design: Timeless silhouette that never goes out of style – a true wardrobe investment piece.🔘 Single-Breasted Front: Elegant button closure adds sophistication and versatility.👜 Functional Pockets: Convenient side pockets for carrying essentials or keeping hands warm.💫 Thick, Quality Fabric: Made from 100% polyester for warmth and durability.✨ Perfect Length: Long enough to provide coverage and warmth, short enough to stay practical.🧺 Easy Care: Machine washable – wash cold and tumble dry low for simple maintenance.💖 Inclusive Sizing: Available in sizes S to 2XL.Perfect For: Autumn and winter styling Office and professional settings Special occasions and events Layering over dresses or suits Elevating everyday outfits Styling Ideas:👔 Professional Polish: Pair with tailored trousers and heels👗 Feminine Elegance: Layer over a dress with ankle boots👖 Casual Chic: Wear with jeans and a jumperInvest in timeless style! This classic trench coat is the perfect blend of elegance and practicality. Add to basket now!Product Details: Material: 100% polyester Thickness: Thick Lining: Not lined Care: Machine wash cold, tumble dry low Features: Single-breasted, pockets, long sleeves Size Guide (Measurements in inches): Size Top Length Bust S 38.6 38.6 M 39 40.2 L 39.4 42.5 XL 39.8 44.9 2XL 40.2 47.2
+  Updated: 2025-10-27T00:17:09Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -3492,8 +3492,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/610c6e2b-25e9-429a-9450-1f78b4188ec7-Max-Origin.webp?v=1761347651
     Price: £35.61 GBP
-- [Full Size Single-Breasted Sherpa Shacket Plus Size](https://glamorousboutique89.myshopify.com/products/full-size-single-breasted-sherpa-shacket-plus-size): Features:Buttoned,Pocketed Thickness:Normal Body:Not lined Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 22.8 41.3 19.3 M 23.2 43.3 19.7 L 23.6 45.3 20.1 XL 24 47.2 20.5 2XL 24.4 49.2 20.9 3XL 24.8 51.2 21.3 4XL 25.2 53.1 21.7 5XL 25.6 55.1 22
-  Updated: 2025-10-26T00:54:24Z
+- [Full Size Single-Breasted Sherpa Shacket Plus Size](https://glamorousboutique89.myshopify.com/products/full-size-single-breasted-sherpa-shacket-plus-size): Cozy Meets Chic – The Sherpa Shacket You'll Live In!Stay warm and stylish with the Full Size Single-Breasted Sherpa Shacket Plus Size. Combining the comfort of a shirt with the warmth of a jacket, this trendy shacket features soft sherpa fabric that's perfect for layering during cooler months.Why You'll Love This Shacket:🐑 Soft Sherpa Fabric: Luxuriously fluffy material that feels like a warm hug.🔘 Single-Breasted Design: Classic button-front closure for versatile styling options.👜 Functional Pockets: Convenient side pockets for carrying essentials or keeping hands warm.💫 Perfect Weight: Normal thickness – ideal for layering without feeling bulky.✨ Relaxed Fit: Comfortable, easy-wearing silhouette that's perfect for casual days.🧺 Easy Care: Made from 100% polyester – machine washable for simple maintenance.💖 Inclusive Sizing: Available in sizes S to 5XL.Perfect For: Autumn and winter layering Casual weekend outings Running errands in comfort Cozy days at home Transitional season styling Styling Ideas:👖 Casual Cool: Pair with jeans and ankle boots👗 Layered Look: Wear over a dress with tights🧣 Cozy Comfort: Style with leggings and a jumperStay cozy in style! This sherpa shacket is the perfect blend of comfort and fashion. Add to basket now!Product Details: Material: 100% polyester Thickness: Normal weight Lining: Not lined Care: Machine wash cold, tumble dry low Features: Sherpa fabric, single-breasted, pockets Size Guide (Measurements in inches): Size Top Length Bust Sleeve Length S 22.8 41.3 19.3 M 23.2 43.3 19.7 L 23.6 45.3 20.1 XL 24 47.2 20.5 2XL 24.4 49.2 20.9 3XL 24.8 51.2 21.3 4XL 25.2 53.1 21.7 5XL 25.6 55.1 22
+  Updated: 2025-10-27T00:17:10Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -3626,8 +3626,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/546db321-09b2-4366-845a-9705df2a96cd-Max-Origin.webp?v=1761347671
     Price: £23.64 GBP
-- [Twisted Ribbed Christmas Sequin Patched Top and Shorts Set](https://glamorousboutique89.myshopify.com/products/twisted-ribbed-christmas-sequin-patched-top-and-shorts-set): Features:Drawstring,Sequin Number of pieces:Two-piece Stretch:Slightly stretchy Material composition:75% polyester, 20% viscose, 5% elastane Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Top Length Bust Bottom Length Sleeve Length S 24.8 24.8 43.7 12.8 21.2 M 27.2 25.6 46.1 13.2 21.3 L 29.5 26.4 48.4 13.6 21.3 XL 32.7 27.2 51.6 14 21.4 2XL 35.8 28 54.7 14.4 21.5
-  Updated: 2025-10-26T00:54:24Z
+- [Twisted Ribbed Christmas Sequin Patched Top and Shorts Set](https://glamorousboutique89.myshopify.com/products/twisted-ribbed-christmas-sequin-patched-top-and-shorts-set): Sparkle and Shine This Christmas – The Festive Set You'll Love!Celebrate the holidays in style with the Twisted Ribbed Christmas Sequin Patched Top and Shorts Set. Featuring eye-catching sequin details and a comfortable ribbed texture, this festive two-piece set is perfect for Christmas parties and holiday gatherings.Why You'll Love This Christmas Set:✨ Festive Sequin Details: Sparkling sequin patches add holiday glamour and festive cheer.🎄 Twisted Ribbed Design: Trendy twisted detailing and ribbed texture create a flattering, modern look.👕 Two-Piece Versatility: Coordinated top and shorts can be worn together or mixed with other pieces.🎀 Adjustable Drawstring: Comfortable drawstring waist on shorts for a perfect, customizable fit.💫 Slightly Stretchy Fabric: Made from 75% polyester, 20% viscose, and 5% elastane for comfort and flexibility.🧺 Easy Care: Machine washable – wash cold and tumble dry low for simple maintenance.Perfect For: Christmas parties and celebrations Holiday gatherings with family and friends Festive photo opportunities New Year's Eve celebrations Making a statement at holiday events Styling Ideas:👠 Party Ready: Add heels and statement earrings🧥 Layered Glam: Throw on a blazer for extra polish👟 Casual Festive: Style with trainers for a relaxed holiday lookSparkle through the holidays! This festive set brings glamour and comfort together. Add to basket now!Product Details: Material: 75% polyester, 20% viscose, 5% elastane Stretch: Slightly stretchy Care: Machine wash cold, tumble dry low Features: Sequin patches, twisted ribbed design, drawstring, two-piece set Number of pieces: 2 (top and shorts) Size Guide (Measurements in inches): Size Waist Top Length Bust Bottom Length Sleeve Length S 24.8 24.8 43.7 12.8 21.2 M 27.2 25.6 46.1 13.2 21.3 L 29.5 26.4 48.4 13.6 21.3 XL 32.7 27.2 51.6 14 21.4 2XL 35.8 28 54.7 14.4 21.5
+  Updated: 2025-10-27T03:03:36Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -3652,8 +3652,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/2d7a240fdccd457b8459c06187bfce90-Max-Origin.webp?v=1761347694
     Price: £45.63 GBP
-- [Drawstring Textured Zip Up Drawstring Hooded Jacket](https://glamorousboutique89.myshopify.com/products/drawstring-textured-zip-up-drawstring-hooded-jacket): Features:Cable-Knit,Zipper Thickness:Normal Body:Not lined Material composition:95% polyester, 5% spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 29.9 38.6 23.6 M 30.3 40.2 24 L 30.7 42.5 24.4 XL 31.1 44.9 24.8 2XL 31.5 47.2 25.2
-  Updated: 2025-10-26T00:54:24Z
+- [Drawstring Textured Zip Up Drawstring Hooded Jacket](https://glamorousboutique89.myshopify.com/products/drawstring-textured-zip-up-drawstring-hooded-jacket): Cozy Texture Meets Practical Style – Your New Favourite Jacket!Stay warm and stylish with the Drawstring Textured Zip Up Hooded Jacket. Featuring a beautiful cable-knit texture and convenient zip-up design, this versatile jacket is perfect for layering during cooler months.Why You'll Love This Jacket:🧶 Textured Cable-Knit Design: Eye-catching texture adds visual interest and a quality, handcrafted feel.🤐 Easy Zip-Up Front: Convenient full-length zipper for quick on-and-off styling.🎀 Adjustable Drawstring Hood: Customise your fit and stay cosy when the temperature drops.💫 Perfect Weight: Normal thickness – ideal for layering without feeling bulky.✨ Slightly Stretchy Fabric: Made from 95% polyester and 5% spandex for comfort and flexibility.🧺 Easy Care: Machine washable – wash cold and tumble dry low for simple maintenance.Perfect For: Autumn and winter layering Casual weekend outings Running errands in comfort Outdoor activities Transitional season styling Styling Ideas:👖 Casual Cool: Pair with jeans and ankle boots👗 Layered Look: Wear over a dress with leggings🧣 Cozy Comfort: Style with joggers and trainersStay cozy in style! This textured jacket is the perfect blend of comfort and fashion. Add to basket now!Product Details: Material: 95% polyester, 5% spandex Thickness: Normal weight Lining: Not lined Care: Machine wash cold, tumble dry low Features: Cable-knit texture, zip-up front, drawstring hood Size Guide (Measurements in inches): Size Top Length Bust Sleeve Length S 29.9 38.6 23.6 M 30.3 40.2 24 L 30.7 42.5 24.4 XL 31.1 44.9 24.8 2XL 31.5 47.2 25.2
+  Updated: 2025-10-27T00:17:10Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -3718,8 +3718,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/41399f2d43d84a6f9eade94edb97968b-Max-Origin.webp?v=1761347712
     Price: £35.37 GBP
-- [Full Size Hooded Button-Front Soft Knit Cardigan Plus Size](https://glamorousboutique89.myshopify.com/products/full-size-hooded-button-front-soft-knit-cardigan-plus-size): Features:Buttoned,Pocketed Stretch:Slightly stretchy Material composition:95% acrylic, 5% spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust S 23.6 42.5 M 24 44.5 L 24.4 46.5 XL 24.8 48.4 2XL 25.2 50.4 3XL 25.6 52.4 4XL 26 54.3 5XL 26.4 56.3
-  Updated: 2025-10-26T00:54:25Z
+- [Full Size Hooded Button-Front Soft Knit Cardigan Plus Size](https://glamorousboutique89.myshopify.com/products/full-size-hooded-button-front-soft-knit-cardigan-plus-size): Soft, Cozy, and Effortlessly Chic – The Hooded Cardigan You Need!Wrap yourself in comfort with the Full Size Hooded Button-Front Soft Knit Cardigan Plus Size. Featuring a cozy hood and soft knit fabric, this versatile cardigan is perfect for adding warmth and style to any outfit.Why You'll Love This Cardigan:🧶 Ultra-Soft Knit Fabric: Luxuriously soft material that feels amazing against your skin.👘 Hooded Design: Cozy hood adds extra warmth and a relaxed, casual vibe.🔘 Button-Front Closure: Classic button design allows for versatile styling options.👜 Functional Pockets: Convenient side pockets for carrying essentials or keeping hands warm.💫 Slightly Stretchy: Made from 95% acrylic and 5% spandex for comfort and flexibility.🧺 Easy Care: Machine washable – wash cold and tumble dry low for simple maintenance.💖 Inclusive Sizing: Available in sizes S to 5XL.Perfect For: Cozy days at home Casual weekend outings Layering during cooler months Running errands in comfort Relaxed, effortless style Styling Ideas:👖 Casual Comfort: Pair with jeans and ankle boots👗 Layered Look: Wear over a dress with tights🧣 Cozy Vibes: Style with leggings and a jumperStay cozy in style! This soft hooded cardigan is the perfect addition to your wardrobe. Add to basket now!Product Details: Material: 95% acrylic, 5% spandex Stretch: Slightly stretchy Care: Machine wash cold, tumble dry low Features: Hooded, button-front, pockets, soft knit Size Guide (Measurements in inches): Size Top Length Bust S 23.6 42.5 M 24 44.5 L 24.4 46.5 XL 24.8 48.4 2XL 25.2 50.4 3XL 25.6 52.4 4XL 26 54.3 5XL 26.4 56.3
+  Updated: 2025-10-27T00:17:10Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -3925,7 +3925,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/976851c36fc3431e87349f595a31175f-Max-Origin.webp?v=1761386675
     Price: £33.43 GBP
 - [Casual Plaid Button Detail Hoodie](https://glamorousboutique89.myshopify.com/products/casual-plaid-button-detail-hoodie): Features:Basic style Stretch:No stretch Material composition:95% polyester, 5% spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 26.8 39.4 21.3 M 27.2 40.9 21.7 L 27.6 43.3 22 XL 28 45.7 22.4 2XL 28.3 48 22.8
-  Updated: 2025-10-26T12:24:45Z
+  Updated: 2025-10-27T00:17:10Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -3971,7 +3971,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/4f44a8b838614f508c1c01a264a829c9-Max-Origin.webp?v=1761386698
     Price: £22.98 GBP
 - [Roll-Up Sleeve Notched Blouse](https://glamorousboutique89.myshopify.com/products/roll-up-sleeve-notched-blouse): Features:Buttoned,Pocketed Stretch:No stretch Material composition:95% polyester,5%spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust S 28 38.6 M 28.3 40.2 L 28.7 42.5 XL 29.1 44.9 2XL 29.5 47.2
-  Updated: 2025-10-26T00:54:25Z
+  Updated: 2025-10-27T00:17:10Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -4117,7 +4117,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/a839ef390cff4b4ab9eaae3572405ba2-Max-Origin.webp?v=1761386731
     Price: £18.67 GBP
 - [Children's Cute Dinosaur Print Long Sleeve Pajama Set](https://glamorousboutique89.myshopify.com/products/childrens-cute-dinosaur-print-long-sleeve-pajama-set): Features:Basic style Number of pieces:Two-piece Material composition:95% cotton, 5% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Bust Shoulder Sleeve Length Waist Hip Bottom Length Top Length 4T 25.2 10.6 14.2 17.3 26 23.6 0 5T 26 11 15.4 18.1 25.2 24.8 0 6T 28.3 11.4 16.1 19.7 26.8 25.6 0 7T 29.1 12.6 17.7 20.1 27.6 28 0 8T 31.5 13 18.1 20.5 28.7 29.1 0
-  Updated: 2025-10-26T00:54:25Z
+  Updated: 2025-10-27T00:17:10Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -4143,7 +4143,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/a5446722-b270-44db-8f95-08434c9fefef-Max-Origin.webp?v=1761386758
     Price: £16.37 GBP
 - [Childrens's Butterfly Print Hoodie & Pants Set](https://glamorousboutique89.myshopify.com/products/childrenss-butterfly-print-hoodie-pants-set): Features:Basic style Number of pieces:Two-piece Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Shoulder Bust Sleeve Length Bottom Length Waist Hip 3T 12.6 13 26 12 24.8 16.5 27.2 4T 13.8 13.8 27.6 13.4 26.8 17.3 28.7 5T 15 14.6 29.1 14.8 28.7 18.1 30.3 6T 16.1 15.4 30.7 16.1 30.7 18.9 31.9 7T 17.3 16.3 32.7 17.7 32.3 19.7 33.9
-  Updated: 2025-10-26T00:54:25Z
+  Updated: 2025-10-27T00:17:10Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -4249,7 +4249,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/4d20eef808ca4c1da460a452834d796d-Max-Origin.webp?v=1761386776
     Price: £29.82 GBP
 - [Children's Plaid Print Long Sleeve Dress Set](https://glamorousboutique89.myshopify.com/products/childrens-plaid-print-long-sleeve-dress-set): Features:Basic style Number of pieces:Two-piece Material composition:95%cotton,5%spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Shoulder Bust Sleeve Length Hip 5Y 8.3 11 27.2 16.3 0 6Y 9.1 11.8 28.7 17.7 0 7Y 9.8 12.8 30.7 19.3 0 8Y 10.6 13.8 32.7 20.9 0 9Y 11.4 14.8 34.6 22.4 0
-  Updated: 2025-10-26T00:54:25Z
+  Updated: 2025-10-27T00:17:10Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -4315,7 +4315,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/2ca86198811d4391a9a7dce95d17daed-Max-Origin.webp?v=1761386798
     Price: £18.20 GBP
 - [Children's Colorful Geometric Print Top & Jumpsuit Set](https://glamorousboutique89.myshopify.com/products/childrens-colorful-geometric-print-top-jumpsuit-set): Features:Basic style Number of pieces:Two-piece Material composition:95%cotton,5%spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Shoulder Bust Sleeve Length Hip 5Y 39.4 11 26.8 16.1 28.7 6Y 41.7 11.8 28.3 17.5 30.3 7Y 44.1 12.6 29.9 18.9 31.9 8Y 46.5 13.4 31.5 20.3 33.5 9Y 48.8 14.2 33.1 21.7 35
-  Updated: 2025-10-26T00:54:25Z
+  Updated: 2025-10-27T00:17:11Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -4361,7 +4361,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/9b7cf5bd0bc747b9abb329ea48572fa6-Max-Origin.webp?v=1761386828
     Price: £23.30 GBP
 - [Children's Floral Print Hoodie & Pants Set](https://glamorousboutique89.myshopify.com/products/childrens-floral-print-hoodie-pants-set): Features:Basic style Number of pieces:Two-piece Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Shoulder Bust Sleeve Length Bottom Length Waist Hip 3T 13 13.2 26.8 11.6 24.8 16.5 22.8 4T 14.2 14 28.3 13 26.8 17.3 24.4 5T 15.4 14.8 29.9 14.4 28.7 18.1 26 6T 16.5 15.6 31.5 15.7 30.7 18.9 27.6 7T 17.7 16.3 33.1 17.1 32.7 19.7 29.1 8T 18.9 17.1 34.6 18.5 34.6 20.5 30.7
-  Updated: 2025-10-26T00:54:25Z
+  Updated: 2025-10-27T00:17:11Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -4391,7 +4391,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/1ef5335d-7eed-47d0-bfe2-58258e555718-Max-Origin.webp?v=1761386852
     Price: £18.20 GBP
 - [Children's Cozy Heart-Patterned Fleece Hooded Jacket](https://glamorousboutique89.myshopify.com/products/childrens-cozy-heart-patterned-fleece-hooded-jacket): Features:Basic style Thickness:Thick Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Shoulder Bust Waist Sleeve Length 8Y 19.7 11.8 28.3 27.2 16.1 9Y 20.9 12.6 29.9 28.3 17.5 10Y 22 13.6 31.9 29.5 19.1
-  Updated: 2025-10-26T00:54:25Z
+  Updated: 2025-10-27T00:17:11Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -4409,7 +4409,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/e22fd7b7a6754f539647ee46bfeffb5b-Max-Origin.webp?v=1761386963
     Price: £19.39 GBP
 - [Double Take Button Up Fuzzy Checkered Shacket](https://glamorousboutique89.myshopify.com/products/double-take-button-up-fuzzy-checkered-shacket): Features: Pocketed, Buttoned Thickness: Normal Body: Not lined Material composition: 100% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Shoulder Bust Sleeve Length S 31.5 22.8 46.1 18.1 M 31.9 24 48.4 18.1 L 32.3 25.2 50.8 18.1 XL 32.7 26.8 53.9 18.1 2XL 33.1 28.3 57.1 18.1
-  Updated: 2025-10-26T00:54:26Z
+  Updated: 2025-10-27T04:00:15Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -4495,7 +4495,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/ce942485-57ae-4aab-98be-d5dfa7a0b115-Max.webp?v=1761387650
     Price: £44.88 GBP
 - [Double Take Full Size Nutcracker Sequin Bow Decor Cardigan](https://glamorousboutique89.myshopify.com/products/double-take-full-size-nutcracker-sequin-bow-decor-cardigan): Features: Sequin, Bow Stretch: Moderate stretch Material composition: 100% acrylic Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Shoulder Bust Sleeve Length S/M 22.4 21.7 42.1 21.3 L/XL 23.2 23.2 46.1 21.3 2XL/3XL 24 24.8 50 21.3
-  Updated: 2025-10-26T15:30:15Z
+  Updated: 2025-10-27T04:00:16Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -4573,7 +4573,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/5901cd84-6eee-4b99-b632-0d0474280a03-Max.webp?v=1761430116
     Price: £32.83 GBP
 - [High Waist Wide Flare Pants](https://glamorousboutique89.myshopify.com/products/high-waist-wide-flare-pants): Features: Pocketed Sheer: Opaque Material composition: 80% polyurethane, 20% viscose Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Bottom Length Waist Hip S 41.3 27.6 40.9 M 41.7 29.5 42.9 L 42.1 31.5 44.9 XL 42.5 33.5 46.9 2XL 42.9 35.4 48.8
-  Updated: 2025-10-26T12:44:41Z
+  Updated: 2025-10-27T00:17:11Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -4659,7 +4659,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/a7f1f910-ff6f-4fbf-a266-b731f884ddc6-Max.webp?v=1761430148
     Price: £32.98 GBP
 - [Mock Neck Long Sleeve Top](https://glamorousboutique89.myshopify.com/products/mock-neck-long-sleeve-top): Features: Basic style Sheer: Semi-sheer Stretch: Moderate stretch Material composition: 95% polyester, 5% elastane Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Top Length Bust Sleeve Length S 4 20.9 31.5 23.8 M 6/8 21.3 33.5 24 L 10/12 21.7 35.4 24.2 XL 14/16 22 38.2 24.4
-  Updated: 2025-10-26T10:09:46Z
+  Updated: 2025-10-27T00:17:11Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -4761,7 +4761,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/2dfe46a0-d6cb-4489-bdc9-614ef49b5cc6-Max.webp?v=1761430178
     Price: £16.79 GBP
 - [Double Take Full Size Star Pattern Raw Edge Long Sleeve Sweater](https://glamorousboutique89.myshopify.com/products/double-take-full-size-star-pattern-raw-edge-long-sleeve-sweater): Features: Basic style, Raw Hem Stretch: Slightly stretchy Material composition: 55% cotton, 45% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Shoulder Bust Sleeve Length S/M 25.6 24.2 39.8 20.5 L/XL 26.4 25.8 43.7 20.5 2XL/3XL 27.2 27.4 47.6 20.5
-  Updated: 2025-10-26T13:45:15Z
+  Updated: 2025-10-27T04:00:16Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -4803,7 +4803,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/3f736671-45a2-460f-9069-a4807e9a9ab6-Max.webp?v=1761430201
     Price: £33.05 GBP
 - [Zircon Bow Pendant Necklace](https://glamorousboutique89.myshopify.com/products/zircon-bow-pendant-necklace): This stunning Zircon Bow Pendant Necklace features a charming bow-shaped pendant adorned with sparkling cubic zirconia stones that catch and reflect light beautifully. Crafted with high-quality materials, the pendant hangs gracefully from a delicate silver-toned chain that complements any neckline. The elegant bow design symbolizes femininity and grace, making it perfect for both everyday wear and special occasions. The adjustable chain ensures a comfortable fit, while the hypoallergenic construction makes it suitable for sensitive skin. This timeless piece combines classic elegance with modern sparkle, making it an ideal accessory for fashion-conscious women who appreciate refined jewelry with romantic charm. Pieces:1-piece Material:18K Gold-Plated,Alloy,Zircon Care instructions:Avoid wearing during exercise, as sweat will react with the jewelry to produce silver chloride and copper sulfide, which causes the jewelry to deteriorate and corrode over time. Imported Product Measurements (Measurements by inches) & Size Conversion Size Chain length Extension chain length Pendant length One Size 15.7 2 0.7
-  Updated: 2025-10-26T10:17:08Z
+  Updated: 2025-10-27T00:17:12Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -4817,14 +4817,14 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/82209269-e2bb-4a6d-9b44-971564a28283-Max-Origin.webp?v=1761430621
     Price: £6.76 GBP
 - [Contrast Heart Pendant Necklace](https://glamorousboutique89.myshopify.com/products/contrast-heart-pendant-necklace): A simple and stylish design, the heart pendant necklace is an easy-to-wear accessory that adds a touch of elegance to your look. Picture style: Flat lay Features: Heart pendant Material: Stainless steel Care: Avoid wearing during exercise, as sweat will react with the jewelry to produce silver chloride and copper sulfide. Imported Product measurements: Chain length: 15.35 inExtension chain length: 2.09 inPendant length: 0.55 in (1.4 cm）Pendant width: 0.83 in (2.1 cm）Weight: 0.19 ounce (5.6 g)
-  Updated: 2025-10-26T10:17:22Z
+  Updated: 2025-10-27T00:17:12Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/79ef1201d0e64f0fbda250345c2dd67c-Max.jpg?v=1761430639
   Price: £5.26 GBP
 - [Zircon Palm Tree Pendant Necklace](https://glamorousboutique89.myshopify.com/products/zircon-palm-tree-pendant-necklace): This exquisite Zircon Palm Tree Pendant Necklace features a stunning tropical-inspired design crafted with premium cubic zirconia stones that catch and reflect light beautifully. The delicate palm tree pendant symbolizes paradise and relaxation, making it perfect for those who love beach vibes and nature themes. Made with high-quality gold-plated materials, this necklace offers durability and a luxurious appearance. The adjustable chain ensures a perfect fit for any neckline, while the hypoallergenic construction makes it suitable for sensitive skin. Its minimalist yet eye-catching design makes it ideal for both everyday wear and special occasions, and it layers beautifully with other necklaces for a fashion stacked look. Pieces:1-piece Material:18K Gold-Plated,Alloy,Zircon Care instructions:Avoid wearing during exercise, as sweat will react with the jewelry to produce silver chloride and copper sulfide, which causes the jewelry to deteriorate and corrode over time. Imported Product Measurements (Measurements by inches) & Size Conversion Size Chain length Extension chain length Pendant length Pendant width One Size 15.7 2 1 0.5
-  Updated: 2025-10-26T10:17:57Z
+  Updated: 2025-10-27T00:17:12Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -4838,7 +4838,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/51fae798-7cd3-407f-8645-e0ef1e51140e-Max-Origin.webp?v=1761430671
     Price: £6.76 GBP
 - [Half Chunky Chain Titanium Steel Bracelet](https://glamorousboutique89.myshopify.com/products/half-chunky-chain-titanium-steel-bracelet): Material: Titanium steel Care instructions: Avoid wearing during exercise, as sweat will react with the jewelry to produce silver chloride and copper sulfide, which causes the jewelry to deteriorate and corrode over time. Imported Product measurements: Chain length: 5.9 inExtension chain length: 1.2 inWeight: 0.6 oz (16 g)
-  Updated: 2025-10-26T10:18:21Z
+  Updated: 2025-10-27T00:17:12Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -4856,14 +4856,14 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/a5f4b217bc454ca48bbc31b5bb71bf99-Max.webp?v=1761430693
     Price: £9.02 GBP
 - [5-Piece Christmas Holiday Beaded Bracelet](https://glamorousboutique89.myshopify.com/products/5-piece-christmas-holiday-beaded-bracelet): Pieces:5-piece Material:18K Gold-Plated,Alloy,Crystal,rice beads, polymer clay Care instructions:Avoid wearing during exercise, as sweat will react with the jewelry to produce silver chloride and copper sulfide, which causes the jewelry to deteriorate and corrode over time. Imported Product Measurements (Measurements by inches) & Size Conversion Size Chain length One Size 7.1
-  Updated: 2025-10-26T10:18:34Z
+  Updated: 2025-10-27T00:17:12Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/a30e5a26-cb0e-4770-bb89-95474d4ff006-Max-Origin.webp?v=1761430710
   Price: £7.21 GBP
 - [Christmas Element Bowknot Ribbed Trim Over Knee Stockings](https://glamorousboutique89.myshopify.com/products/christmas-element-bowknot-ribbed-trim-over-knee-stockings): Pieces: 1-pair Material: Ployester Imported Product Measurements (Measurements by inches) & Size Conversion Size Actual Length One Size 20.7
-  Updated: 2025-10-26T10:19:07Z
+  Updated: 2025-10-27T00:17:12Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -4888,22 +4888,15 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/9263b178-4914-44df-b819-d6a676390601-Max.webp?v=1761430738
     Price: £19.00 GBP
-- [Snowman Christmas Zircon Drop Earrings](https://glamorousboutique89.myshopify.com/products/snowman-christmas-zircon-drop-earrings): Pieces:1-pair Material:18K Gold-Plated,Alloy,Zircon Care instructions:Avoid wearing during exercise, as sweat will react with the jewelry to produce silver chloride and copper sulfide, which causes the jewelry to deteriorate and corrode over time. Imported Product Measurements (Measurements by inches) & Size Conversion Size Actual Length Actual Width One Size 2.4 1.3
-  Updated: 2025-10-26T12:24:40Z
-  Vendor: Trendsi
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/bb5189cb-d63e-4d18-9c1d-0ac844ba86b4-Max-Origin.webp?v=1761430765
-  Price: £7.58 GBP
 - [3 Piece Christmas Charm Beaded Bracelet](https://glamorousboutique89.myshopify.com/products/3-piece-christmas-charm-beaded-bracelet): Pieces:3-piece Material:18K Gold-Plated,Alloy,Acrylic,Resin Care instructions:Avoid wearing during exercise, as sweat will react with the jewelry to produce silver chloride and copper sulfide, which causes the jewelry to deteriorate and corrode over time. Imported Product Measurements (Measurements by inches) & Size Conversion Size Chain length One Size 7.1
-  Updated: 2025-10-26T10:20:09Z
+  Updated: 2025-10-27T00:17:13Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/939daaef-e913-47b0-a83a-c2ae6ec8bb7d-Max-Origin.webp?v=1761430805
   Price: £6.66 GBP
 - [925 Sterling Silver Moissanite Hoop Drop Earrings](https://glamorousboutique89.myshopify.com/products/925-sterling-silver-moissanite-hoop-drop-earrings): Pieces: 1-pair Includes: Moissanite jewelry over 0.3 carats includes a certificate of stone properties. Limited warranty included, please contact us for any issues related to your purchase. Material: 18K gold-plated, 925 sterling silver, Moissanite Carat weight: 0.8 Care instructions: Avoid wearing during exercise, as sweat will react with the jewelry to produce silver chloride and copper sulfide, which causes the jewelry to deteriorate and corrode over time. Imported Product Measurements (Measurements by inches) & Size Conversion Size Actual Width Actual Length One Size 0.4 0.9
-  Updated: 2025-10-26T10:20:24Z
+  Updated: 2025-10-27T00:17:13Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -4917,14 +4910,14 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/85f84987-011a-4e27-b307-e7ba47cb15d3-Max.webp?v=1761430819
     Price: £85.68 GBP
 - [6-Piece Christmas Beaded Bracelet with Pearl Accents](https://glamorousboutique89.myshopify.com/products/6-piece-christmas-beaded-bracelet-with-pearl-accents): Pieces:6-piece Material:18K Gold-Plated,Alloy,Crystal,rice beads, polymer clay Care instructions:Avoid wearing during exercise, as sweat will react with the jewelry to produce silver chloride and copper sulfide, which causes the jewelry to deteriorate and corrode over time. Imported Product Measurements (Measurements by inches) & Size Conversion Size Chain length One Size 7.1
-  Updated: 2025-10-26T10:20:58Z
+  Updated: 2025-10-27T00:17:13Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/2192ff24-1bdc-4af9-bbe2-3a0becdc6b5d-Max-Origin.webp?v=1761430853
   Price: £7.58 GBP
 - [Cute Fluffy Bear Ears Winter Hat](https://glamorousboutique89.myshopify.com/products/cute-fluffy-bear-ears-winter-hat): Pieces:1-piece Material:lambswool Imported Product Measurements (Measurements by inches) & Size Conversion Size Inside Circumference One Size 22-23
-  Updated: 2025-10-26T10:50:11Z
+  Updated: 2025-10-27T00:17:13Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -4942,7 +4935,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/dc445f21-1f6a-4846-8e99-d85f6aaf7e72-Max-Origin.webp?v=1761432604
     Price: £11.99 GBP
 - [Cable Knit Solid Color Hat with Pompom](https://glamorousboutique89.myshopify.com/products/cable-knit-solid-color-hat-with-pompom): Pieces: 1-piece Material: Acrylic fibers Imported Product measurements: Length: 7.87 inHeight: 8.67 inCuff: 2.76 inPompom: 3.94 inCircumference: 21.26 in - 23.62 in
-  Updated: 2025-10-26T10:55:26Z
+  Updated: 2025-10-27T00:17:13Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -4972,7 +4965,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/339c84d9-d622-4324-80ba-88d786e19f98-Max.webp?v=1761432630
     Price: £10.43 GBP
 - [Thermal Fringe Contrast Plaid Scarf](https://glamorousboutique89.myshopify.com/products/thermal-fringe-contrast-plaid-scarf): Pieces: 1-piece Material: Polyester Imported Product Measurements (Measurements by inches) & Size Conversion Size Actual Width Actual Length One Size 13.8 82.7
-  Updated: 2025-10-26T10:51:14Z
+  Updated: 2025-10-27T00:17:13Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5006,7 +4999,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/d11ec560-d739-46cd-ae03-5cb60925ca03-Max.webp?v=1761432664
     Price: £14.73 GBP
 - [Color Block Knit Hat with Pom-pom](https://glamorousboutique89.myshopify.com/products/color-block-knit-hat-with-pom-pom): Pieces: 1-piece Material: Faux rabbit fur Imported Product measurements: Height 9.1 in (23 cm)Inside circumference 21.3-23.6 in (54-60 cm)
-  Updated: 2025-10-26T10:51:41Z
+  Updated: 2025-10-27T00:17:13Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5032,7 +5025,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/38bb7820-8683-4c3d-ac6e-e99b4c30b74a-Max.webp?v=1761432693
     Price: £13.05 GBP
 - [Contrast Thermal Hat with Pompom](https://glamorousboutique89.myshopify.com/products/contrast-thermal-hat-with-pompom): Pieces: 1-piece Material: Acrylic Imported Product measurements: Length: 7.48 in Height: 11.81 in Circumference: 22.04 in - 22.83 in (adjustable)
-  Updated: 2025-10-26T10:52:04Z
+  Updated: 2025-10-27T00:17:13Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5058,14 +5051,14 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/3a6ae781-c72f-4304-ac4e-34054e2d72ec-Max.webp?v=1761432714
     Price: £10.40 GBP
 - [2 Piece Antler Christmas Hat with pompom](https://glamorousboutique89.myshopify.com/products/2-piece-antler-christmas-hat-with-pompom): Pieces: 2-piece Material: Polyester Imported Product measurements: Height 15.7 in, Circumference 22-22.8 in
-  Updated: 2025-10-26T10:57:54Z
+  Updated: 2025-10-27T00:17:14Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/aa18caa8-7885-440b-8731-c7d903b0875f-Max.webp?v=1761432731
   Price: £10.40 GBP
 - [Cable Knit Winter Hat with Pompom](https://glamorousboutique89.myshopify.com/products/cable-knit-winter-hat-with-pompom): Pieces: 1-piece Material: Acrylic Imported Product measurements: Circumference: 22-22.8 in
-  Updated: 2025-10-26T10:52:38Z
+  Updated: 2025-10-27T00:17:14Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5095,7 +5088,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/726a57a2-25f9-4b01-a82b-88999b4a482e-Max.webp?v=1761432750
     Price: £11.33 GBP
 - [Fuzzy Acrylic Baseball Cap](https://glamorousboutique89.myshopify.com/products/fuzzy-acrylic-baseball-cap): Pieces: 1-piece Material: Acrylic, Polyester Imported Product measurements: Height 5.5 in, Brim 2.8 in, Circumference 22-23.6 in
-  Updated: 2025-10-26T10:59:15Z
+  Updated: 2025-10-27T00:17:14Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5117,7 +5110,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/ca8e96ef-e37a-4ed3-bcbe-d3e8df4a14e5-Max.webp?v=1761432773
     Price: £11.33 GBP
 - [PU Leather Inlaid Rhinestone Belt](https://glamorousboutique89.myshopify.com/products/pu-leather-inlaid-rhinestone-belt): Pieces: 1-piece Material: PU Imported Product measurements: S: Length 37.4 in, M: Length 43.3 in, L: Length 49.2 inWidth: 1.5
-  Updated: 2025-10-26T10:58:41Z
+  Updated: 2025-10-27T00:17:14Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5134,8 +5127,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/3ecde17a-b47d-4193-83b4-43ebb4e6f6d6-Max.webp?v=1761432796
     Price: £39.43 GBP
-- [Leopard Print Chelsea Ankle Boots with Block Heel](https://glamorousboutique89.myshopify.com/products/leopard-print-chelsea-ankle-boots-with-block-heel): Fit:True to size, order usual size. Includes:Box not included Heel height:Mid heels Material:PU Leather,Rubber Imported Product Measurements (Measurements by inches) & Size Conversion Size Foot length 36(US5) 9 37(US6) 9.2 38(US7) 9.4 39(US8) 9.6 40(US9) 9.8 41(US10) 10 42(US10.5) 10.2 43(US11) 10.4
-  Updated: 2025-10-26T11:00:04Z
+- [Leopard Print Chelsea Ankle Boots with Block Heel](https://glamorousboutique89.myshopify.com/products/leopard-print-chelsea-ankle-boots-with-block-heel): Walk on the Wild Side – Boots That Make a Statement!Step into bold style with the Leopard Print Chelsea Ankle Boots with Block Heel. Featuring fierce leopard print and a comfortable block heel, these eye-catching boots are perfect for adding a touch of wild elegance to any outfit.Why You'll Love These Boots:🐆 Bold Leopard Print: Eye-catching animal print that adds instant personality and edge to your look.👢 Classic Chelsea Style: Timeless ankle boot design with elastic side panels for easy on-and-off wear.💫 Comfortable Block Heel: Mid-height block heel provides stability and comfort for all-day wear.✨ Quality PU Leather: Durable, easy-to-maintain material that looks great season after season.👗 Versatile Styling: Pairs beautifully with jeans, dresses, skirts, or leggings.🌟 True to Size Fit: Order your usual size for the perfect fit.Perfect For: Adding edge to casual outfits Autumn and winter styling Nights out and special occasions Making a fashion statement Transitional season wear Styling Ideas:👖 Casual Edge: Pair with black skinny jeans and a leather jacket👗 Feminine Contrast: Style with a flowy dress for an unexpected mix🧥 Layered Look: Wear with tights and an oversized jumperUnleash your wild side! These leopard print boots are the perfect blend of fierce and fashionable. Add to basket now!Product Details: Heel Height: Mid heels (block heel) Material: PU leather, Rubber Fit: True to size, order usual size Box not included Size Guide (Measurements in inches): Size Foot Length 36 (US5) 9 37 (US6) 9.2 38 (US7) 9.4 39 (US8) 9.6 40 (US9) 9.8 41 (US10) 10 42 (US10.5) 10.2 43 (US11) 10.4
+  Updated: 2025-10-27T00:17:14Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5173,7 +5166,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/c37ee3a3-a25d-4dc3-94fe-aef5a8aa58b0-Max-Origin.webp?v=1761432842
     Price: £48.61 GBP
 - [Mesh Round Toe Wedge Athletic](https://glamorousboutique89.myshopify.com/products/mesh-round-toe-wedge-athletic): Fit:True to size, order usual size. Includes:Box not included Heel height:Mid heels Material:Mesh,PU Leather,Rubber Imported Product Measurements (Measurements by inches) & Size Conversion Size Foot length 37(US6) 9.2 38(US7) 9.4 39(US8) 9.6 40(US9) 9.8 41(US10) 10 42(US10.5) 10.2 43(US11) 10.4 44(US12) 10.6
-  Updated: 2025-10-26T10:55:18Z
+  Updated: 2025-10-27T00:17:14Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5379,7 +5372,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/402e3f9f60294bbdac67b078ee020309-Max-Origin.webp?v=1761432899
     Price: £26.09 GBP
 - [Rhinestone Open Toe Sandals](https://glamorousboutique89.myshopify.com/products/rhinestone-open-toe-sandals): Fit:True to size, order usual size. Includes:Box not included Heel height:High heels Material:PU Leather,Rubber,Rhinestone Imported Product Measurements (Measurements by inches) & Size Conversion Size Foot length 35(US4) 8.8 36(US5) 9 37(US6) 9.2 38(US7) 9.4 39(US8) 9.6 40(US9) 9.8 41(US10) 10 42(US10.5) 10.2 43(US11) 10.4
-  Updated: 2025-10-26T10:55:47Z
+  Updated: 2025-10-27T00:17:14Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5421,7 +5414,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/b62aee73f1284a5badfae883be287738-Max-Origin.webp?v=1761432939
     Price: £37.10 GBP
 - [Flower Open Toe Flare Heels Sandals](https://glamorousboutique89.myshopify.com/products/flower-open-toe-flare-heels-sandals): Fit:True to size, order usual size. Includes:Box not included Heel height:High heels Material:PU Leather,Rubber Imported Product Measurements (Measurements by inches) & Size Conversion Size Foot length 35(US4) 8.8 36(US5) 9 37(US6) 9.2 38(US7) 9.4 39(US8) 9.6 40(US9) 9.8 41(US10) 10 42(US10.5) 10.2
-  Updated: 2025-10-26T11:11:31Z
+  Updated: 2025-10-27T00:17:15Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5523,7 +5516,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/0e347224-2103-4c61-a723-60fce99d8019-Max-Origin.webp?v=1761433442
     Price: £34.54 GBP
 - [Open Toe Fuzzy Slippers](https://glamorousboutique89.myshopify.com/products/open-toe-fuzzy-slippers): Fit:True to size, order usual size. Includes:Box not included Heel height:Low heels Material:Sequins,PU Leather,Fluff,Rubber,EVA Imported Product Measurements (Measurements by inches) & Size Conversion Size Foot length 36-37(US5-6) 9.1 38-39(US7-8) 9.4 40-41(US9-10) 9.8
-  Updated: 2025-10-26T11:10:29Z
+  Updated: 2025-10-27T00:17:15Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5601,7 +5594,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/c7c24b3b381848ac9160ad6a30a0bc42-Max-Origin.webp?v=1761433491
     Price: £21.66 GBP
 - [Double Take Textured Quarter Zip Long Sleeve Dress](https://glamorousboutique89.myshopify.com/products/double-take-textured-quarter-zip-long-sleeve-dress): Features: Basic style Sheer: Opaque Stretch: Slightly stretchy Body: Not lined Material composition: 95% polyester, 5% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Length Shoulder Bust Sleeve Length S 36.6 14.6 37.8 24 M 37.2 15.1 40.2 24.4 L 37.8 15.6 42.5 24.8 XL 38.4 16.3 45.7 25.2 2XL 39 17 48.8 25.6
-  Updated: 2025-10-26T15:50:36Z
+  Updated: 2025-10-27T03:30:15Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5707,7 +5700,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/5d64df51-d329-40b0-b9a4-0c62c37e8b07-Max.webp?v=1761433587
     Price: £29.76 GBP
 - [Textured Notched Raglan Sleeve Sweatshirt](https://glamorousboutique89.myshopify.com/products/textured-notched-raglan-sleeve-sweatshirt): Features:Basic style Stretch:Slightly stretchy Material composition:95% polyester, 5% spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust S 24.8 39.4 M 25.2 40.9 L 25.6 43.3 XL 26 45.7 2XL 26.4 48
-  Updated: 2025-10-26T14:04:40Z
+  Updated: 2025-10-27T02:13:30Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5853,7 +5846,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/4e8e61a9471d4e0cac2ea6fdc873f7d0-Max-Origin.webp?v=1761433613
     Price: £24.12 GBP
 - [Leopard Round Neck Raglan Sleeve Sweatshirt](https://glamorousboutique89.myshopify.com/products/leopard-round-neck-raglan-sleeve-sweatshirt): Features:Basic style Stretch:Slightly stretchy Material composition:95% polyester, 5% spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 25.2 42.5 27.2 M 25.6 44.5 27.6 L 26 46.5 28 XL 26.4 49.2 28.3 2XL 26.8 52 28.7
-  Updated: 2025-10-26T15:50:30Z
+  Updated: 2025-10-27T01:09:00Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5979,7 +5972,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/9b25af2d77424c8d8c9eb3999bcb3d5a-Max-Origin.webp?v=1761438905
     Price: £29.36 GBP
 - [Men's Zip-Up Fleece Hoodie](https://glamorousboutique89.myshopify.com/products/mens-zip-up-fleece-hoodie): Features:Oversized,Pocketed,Zipper Stretch:Slightly stretchy Material composition:52% cotton, 48% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Shoulder Sleeve Length S 26.8 25.2 24 21.1 M 27.6 26 24.8 21.5 L 28.3 26.8 25.6 21.9 XL 29.1 27.6 26.4 22.2 2XL 29.9 28.3 27.2 22.6
-  Updated: 2025-10-26T12:35:40Z
+  Updated: 2025-10-27T00:17:15Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -6125,7 +6118,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/ed58b712-15fe-45c5-8e0f-c1228effb369-Max-Origin.webp?v=1761438926
     Price: £67.56 GBP
 - [Men's Plus Size Color Block Cable Knit Sweater](https://glamorousboutique89.myshopify.com/products/mens-plus-size-color-block-cable-knit-sweater): Features:Cable-Knit,Contrast Stitching Stretch:Slightly stretchy Material composition:70% nylon, 30% spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length M 25.2 36.2 22.8 L 26 37.8 23.2 XL 26.8 39.4 23.6 2XL 27.6 40.9 24 3XL 28.3 42.5 24.4 4XL 29.1 44.1 24.8
-  Updated: 2025-10-26T12:35:53Z
+  Updated: 2025-10-27T00:17:15Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -6203,7 +6196,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/17bb7883a8e042be8e6758f1b9f01112-Max-Origin.webp?v=1761438948
     Price: £39.40 GBP
 - [Men's Plus Size Big Box Graphic Casual T-Shirt](https://glamorousboutique89.myshopify.com/products/mens-plus-size-big-box-graphic-casual-t-shirt): Features:Basic style,Oversized Stretch:Slightly stretchy Material composition:100%cotton Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Shoulder Sleeve Length M 28 45.7 22 17.3 L 28.7 47.2 22.8 18.1 XL 29.5 48.8 23.6 18.5 2XL 30.3 50.4 24.4 18.9 3XL 31.1 52 25.2 19.3
-  Updated: 2025-10-26T12:36:12Z
+  Updated: 2025-10-27T00:17:16Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -6269,7 +6262,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/043589b1-53da-4db2-b1a8-d6e641260cce-Max-Origin.webp?v=1761438965
     Price: £27.09 GBP
 - [Men's Urban Style Round Neck T-Shirt](https://glamorousboutique89.myshopify.com/products/mens-urban-style-round-neck-t-shirt): Features:Oversized Stretch:Slightly stretchy Material composition:100% cotton Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Shoulder Sleeve Length M 26.8 44.1 20.7 8.7 L 27.6 44.9 21.3 9.1 XL 28.3 46.5 21.9 9.4 2XL 29.1 48 22.4 9.8
-  Updated: 2025-10-26T13:03:35Z
+  Updated: 2025-10-27T00:17:16Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -6307,7 +6300,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/e4d85ccc-639b-447b-9a3d-6b3694dfde69-Max-Origin.webp?v=1761438985
     Price: £42.34 GBP
 - [Men's Plus Size Casual Button Up Long Sleeve Shirt](https://glamorousboutique89.myshopify.com/products/mens-plus-size-casual-button-up-long-sleeve-shirt): Features:Oversized,Buttoned,Pocketed Stretch:No stretch Material composition:47% cotton, 43% polyester, 10% viscose Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length M 28 44.1 21.7 L 28.7 45.7 22 XL 29.5 47.2 22.4 2XL 30.3 48.8 22.8 3XL 30.7 50.4 23.2 4XL 31.1 52 23.6
-  Updated: 2025-10-26T12:36:51Z
+  Updated: 2025-10-27T00:17:16Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -6361,7 +6354,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/efb781feaf0a46bda627e271d20ce2ea-Max-Origin.webp?v=1761439006
     Price: £66.36 GBP
 - [Men's Full Size Striped Shoulder Relaxed Fit T-Shirt Plus Size](https://glamorousboutique89.myshopify.com/products/mens-full-size-striped-shoulder-relaxed-fit-t-shirt-plus-size): Features:Basic style,Oversized Stretch:Slightly stretchy Material composition:95%cotton,5%spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Shoulder Sleeve Length S 27.4 40.9 23.2 7.9 M 28 42.5 23.6 8.1 L 28.5 44.1 24 8.3 XL 29.1 45.7 24.4 8.5 2XL 29.7 47.2 24.8 8.7 3XL 30.3 48.8 25.2 8.9 4XL 30.9 50.4 25.6 9.1
-  Updated: 2025-10-26T12:37:16Z
+  Updated: 2025-10-27T00:17:16Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -6507,7 +6500,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/14d99110-2c7b-4277-a3cf-cf2c9cda2c34-Max-Origin.webp?v=1761439027
     Price: £38.88 GBP
 - [Men's Plus Size Casual Pocket Solid Color T-Shirt](https://glamorousboutique89.myshopify.com/products/mens-plus-size-casual-pocket-solid-color-t-shirt): Features:Basic style,Oversized,Pocketed Stretch:Slightly stretchy Material composition:95%cotton,5%spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Shoulder Sleeve Length M 27.2 41.3 20.3 8.5 L 28 43.3 20.9 8.7 XL 28.7 45.3 21.5 8.9 2XL 29.5 47.2 22 9.1 3XL 29.9 49.2 22.6 9.3 4XL 30.3 51.2 23.2 9.4
-  Updated: 2025-10-26T12:37:28Z
+  Updated: 2025-10-27T00:17:16Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -6537,7 +6530,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/3176bfd7-0744-4d2c-9bf7-3f7a6d3514e6-Max-Origin.webp?v=1761439045
     Price: £54.14 GBP
 - [Men's Letter Fuzzy Round Neck Sweater](https://glamorousboutique89.myshopify.com/products/mens-letter-fuzzy-round-neck-sweater): Features:Oversized Stretch:Slightly stretchy Material composition:95%polyester,5%spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length M 27.6 44.9 24.4 L 28 46.5 24.8 XL 28.3 48 25.2 2XL 28.7 49.6 25.6
-  Updated: 2025-10-26T12:37:47Z
+  Updated: 2025-10-27T01:00:13Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -6587,7 +6580,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/7f0727a9d35f4691a535d557060e56b1-Max-Origin.webp?v=1761439062
     Price: £41.55 GBP
 - [Men's Two-Tone Hooded Windproof Jacket](https://glamorousboutique89.myshopify.com/products/mens-two-tone-hooded-windproof-jacket): Features:Pocketed,Zipper Thickness:Normal Material composition:95%polyester,5%spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length M 25.6 42.5 31.8 L 26.4 44.1 32.6 XL 27.2 45.7 33.5 5XL 29.5 52 35.9
-  Updated: 2025-10-26T12:38:03Z
+  Updated: 2025-10-27T00:17:16Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -6625,7 +6618,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/18bc5ece94be4935891551cbb1ed3957-Max-Origin.webp?v=1761439078
     Price: £61.00 GBP
 - [Men's Plus Size Zip Up Contrast Long Sleeve Jacket](https://glamorousboutique89.myshopify.com/products/mens-plus-size-zip-up-contrast-long-sleeve-jacket): Features:Pocketed,Zipper Thickness:Normal Material composition:100%PU Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length M 26 47.2 21.7 L 26.8 48.8 22.2 XL 27.6 50.4 22.8 2XL 28.3 52 23.4 3XL 29.1 53.5 24
-  Updated: 2025-10-26T13:04:32Z
+  Updated: 2025-10-27T00:17:16Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -6671,7 +6664,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/1f7465b6-24fd-4e0f-b30a-a5187f63908c-Max-Origin.webp?v=1761439094
     Price: £52.10 GBP
 - [Men's Plus Size Waterproof Windproof Outdoor Hooded Jacket](https://glamorousboutique89.myshopify.com/products/mens-plus-size-waterproof-windproof-outdoor-hooded-jacket): Features:Pocketed,Zipper Thickness:Normal Material composition:100%polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length M 26.8 44.1 23.6 L 27.6 45.7 24.2 XL 28.3 47.2 24.8 2XL 29.1 48.8 25.4 3XL 29.9 50.4 26 4XL 30.7 52 26.6 5XL 31.5 53.5 27
-  Updated: 2025-10-26T12:38:43Z
+  Updated: 2025-10-27T00:17:17Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -6845,7 +6838,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/67eb63295b674a919dd1320309fb7865-Max-Origin.webp?v=1761439113
     Price: £48.64 GBP
 - [Men's Distressed Wash Denim Shorts](https://glamorousboutique89.myshopify.com/products/mens-distressed-wash-denim-shorts): Features:Distressed,Pocketed,Washed Stretch:Slightly stretchy Material composition:81.0% cotton, 19.0% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Bottom Length 28 28 41.5 20.1 29 29 42.5 20.1 30 30 43.5 20.5 31 31 44.5 20.5 32 32 45.5 20.9 33 33 46.5 20.9 34 34 47.5 21.3 36 36 49.5 22 38 38 51.5 22 40 39.6 53.4 22
-  Updated: 2025-10-26T12:38:57Z
+  Updated: 2025-10-27T00:17:17Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -6891,7 +6884,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/009d0615-95e7-45c4-8af7-28bda4bab463-Max-Origin.webp?v=1761439133
     Price: £68.47 GBP
 - [Men's Full Size Camouflage Loose Fit Jeans Plus Wize](https://glamorousboutique89.myshopify.com/products/mens-full-size-camouflage-loose-fit-jeans-plus-wize): Features:Pocketed Material composition:100% cotton Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Bottom Length S 28 40.2 39.8 M 29.5 41.7 40.2 L 31.1 43.3 40.6 XL 32.7 44.9 40.9 2XL 34.3 46.5 41.3 3XL 35.8 48 41.7
-  Updated: 2025-10-26T12:39:15Z
+  Updated: 2025-10-27T00:17:17Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -6921,7 +6914,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/015b2e38-1ce7-4243-9239-e77c9509ebd3-Max-Origin.webp?v=1761439152
     Price: £33.71 GBP
 - [Men's Vintage Wash Wide Leg Jeans](https://glamorousboutique89.myshopify.com/products/mens-vintage-wash-wide-leg-jeans): Features:Washed,Basic style Stretch:Slightly stretchy Material composition:100% cotton Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Bottom Length S 28.3 37.8 40.2 M 29.9 39.4 40.9 L 31.5 40.9 41.7 XL 33.1 42.5 42.5 2XL 34.6 44.1 42.5
-  Updated: 2025-10-26T12:39:37Z
+  Updated: 2025-10-27T00:17:17Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -6947,7 +6940,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/ad33560d9cc14f199adab2d1ffa894a7-Max-Origin.webp?v=1761439174
     Price: £51.56 GBP
 - [Men's Plus Size Vintage Wash Relaxed Fit Jeans](https://glamorousboutique89.myshopify.com/products/mens-plus-size-vintage-wash-relaxed-fit-jeans): Features:Washed Stretch:Slightly stretchy Material composition:100% cotton Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Bottom Length M 28 39.4 39.4 L 29.5 40.9 39.8 XL 31.1 42.5 40.2 2XL 32.7 44.1 40.6 3XL 34.3 45.7 40.9 4XL 35.8 47.2 41.3 5XL 37.4 48.8 41.7
-  Updated: 2025-10-26T12:39:59Z
+  Updated: 2025-10-27T00:17:17Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -6981,7 +6974,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/03699bd589fd4be7938bb97dec78f903-Max-Origin.webp?v=1761439193
     Price: £33.04 GBP
 - [Men's Plus Size Letter Round Neck Short Sleeve T-Shirt](https://glamorousboutique89.myshopify.com/products/mens-plus-size-letter-round-neck-short-sleeve-t-shirt): Features:Basic style,Oversized Stretch:Slightly stretchy Material composition:65% cotton, 35% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Shoulder Sleeve Length M 26 39.4 19.7 7.5 L 26.8 40.9 20.1 7.9 XL 27.6 42.5 20.5 8.1 2XL 28.3 44.1 20.9 8.5 3XL 28.7 45.7 21.3 8.9 4XL 29.1 47.2 21.7 9.1
-  Updated: 2025-10-26T12:40:46Z
+  Updated: 2025-10-27T00:17:17Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -7083,7 +7076,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/3696ea34-03bf-45e9-9108-9d933886ae29-Max-Origin.webp?v=1761439237
     Price: £37.47 GBP
 - [Men's Plus Size Round Neck Short Sleeve T-Shirt](https://glamorousboutique89.myshopify.com/products/mens-plus-size-round-neck-short-sleeve-t-shirt): Features:Basic style,Lightweight Stretch:Slightly stretchy Material composition:65% cotton, 35% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Shoulder Sleeve Length M 26.8 20.5 20.3 9.1 L 27.6 21.3 21.1 9.3 XL 28.3 22 21.9 9.4 2XL 29.1 22.8 22.4 9.6 3XL 29.5 23.6 23 9.8 4XL 29.9 24.4 23.6 10
-  Updated: 2025-10-26T12:41:03Z
+  Updated: 2025-10-27T00:17:17Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -7185,7 +7178,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/540f66bc-2efb-4f2e-acaf-6a07b642542f-Max-Origin.webp?v=1761439254
     Price: £47.20 GBP
 - [Men's Graphic Round Neck Short Sleeve T-Shirt](https://glamorousboutique89.myshopify.com/products/mens-graphic-round-neck-short-sleeve-t-shirt): Features:Basic style,Oversized Stretch:Slightly stretchy Material composition:95%cotton,5%spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Shoulder Sleeve Length M 24.4 46.5 23.6 9.1 L 25.2 47.2 24.4 9.6 XL 26 48.8 25.2 9.8 2XL 26.8 50.4 26 10
-  Updated: 2025-10-26T12:41:17Z
+  Updated: 2025-10-27T00:17:17Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -7223,7 +7216,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/24cddaa4-4a95-4858-bf78-cb5a194d80e1-Max-Origin.webp?v=1761439272
     Price: £63.14 GBP
 - [Double Take Full Size Checkered Dropped Shoulder Cardigan](https://glamorousboutique89.myshopify.com/products/double-take-full-size-checkered-dropped-shoulder-cardigan): Features: Buttoned Stretch: Slightly stretchy Material composition: 100% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length Shoulder S/M 24.8 43.3 20.9 24.4 L/XL 25.6 47.2 20.9 26 2XL/3XL 26.4 51.2 20.9 27.6
-  Updated: 2025-10-26T12:42:28Z
+  Updated: 2025-10-27T01:45:35Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -7253,65 +7246,1083 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/0e0a7ac2-e1bd-470d-ba83-b707d232444b-Max.webp?v=1761439344
     Price: £27.84 GBP
 - [Christmas Snowflake Dangle Earrings](https://glamorousboutique89.myshopify.com/products/christmas-snowflake-dangle-earrings): Pieces:1-pair Material:Alloy,Rhinestone,Silver-plated Care instructions:Avoid wearing during exercise, as sweat will react with the jewelry to produce silver chloride and copper sulfide, which causes the jewelry to deteriorate and corrode over time. Imported Product Measurements (Measurements by inches) & Size Conversion Size Actual Length onesize 1.9
-  Updated: 2025-10-26T12:43:11Z
+  Updated: 2025-10-27T00:17:18Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/5fa73219-d103-47be-b475-bbc86adff6e7-Max-Origin.webp?v=1761439387
   Price: £6.22 GBP
 - [18K Gold-Plated Lion Head Medallion Drop Earrings](https://glamorousboutique89.myshopify.com/products/18k-gold-plated-lion-head-medallion-drop-earrings): Pieces:1-pair Material:18K Gold-Plated,Alloy Care instructions:Avoid wearing during exercise, as sweat will react with the jewelry to produce silver chloride and copper sulfide, which causes the jewelry to deteriorate and corrode over time. Imported Product Measurements (Measurements by inches) & Size Conversion Size Actual Length onesize 2.2
-  Updated: 2025-10-26T12:43:27Z
+  Updated: 2025-10-27T00:17:18Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/3d154691-0fb4-4d81-87fe-6cfbe0535a37-Max-Origin.webp?v=1761439404
   Price: £6.66 GBP
+- [Children's Ruffled Hem Corduroy Pants](https://glamorousboutique89.myshopify.com/products/childrens-ruffled-hem-corduroy-pants): Features:Basic style Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Bottom Length Waist Hip 3Y 20.1 16.5 0 4Y 22 17.3 0 5Y 24 18.1 0 6Y 26 18.9 0 7Y 28 19.7 0 8Y 29.9 20.5 0 9Y 31.9 21.3 0
+  Updated: 2025-10-27T00:17:18Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/d93b372dedae487a85e5842495524119-Max-Origin.webp?v=1761512260
+  - [Caramel / 3Y](https://glamorousboutique89.myshopify.com/products/childrens-ruffled-hem-corduroy-pants?variant=55327211225414)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/d93b372dedae487a85e5842495524119-Max-Origin.webp?v=1761512260
+    Price: £16.41 GBP
+  - [Caramel / 4Y](https://glamorousboutique89.myshopify.com/products/childrens-ruffled-hem-corduroy-pants?variant=55327211258182)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/d93b372dedae487a85e5842495524119-Max-Origin.webp?v=1761512260
+    Price: £16.41 GBP
+  - [Caramel / 5Y](https://glamorousboutique89.myshopify.com/products/childrens-ruffled-hem-corduroy-pants?variant=55327211290950)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/d93b372dedae487a85e5842495524119-Max-Origin.webp?v=1761512260
+    Price: £16.41 GBP
+  - [Caramel / 6Y](https://glamorousboutique89.myshopify.com/products/childrens-ruffled-hem-corduroy-pants?variant=55327211323718)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/d93b372dedae487a85e5842495524119-Max-Origin.webp?v=1761512260
+    Price: £16.41 GBP
+  - [Caramel / 7Y](https://glamorousboutique89.myshopify.com/products/childrens-ruffled-hem-corduroy-pants?variant=55327211356486)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/d93b372dedae487a85e5842495524119-Max-Origin.webp?v=1761512260
+    Price: £16.41 GBP
+  - [Caramel / 8Y](https://glamorousboutique89.myshopify.com/products/childrens-ruffled-hem-corduroy-pants?variant=55327211389254)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/d93b372dedae487a85e5842495524119-Max-Origin.webp?v=1761512260
+    Price: £16.41 GBP
+  - [Caramel / 9Y](https://glamorousboutique89.myshopify.com/products/childrens-ruffled-hem-corduroy-pants?variant=55327211422022)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/d93b372dedae487a85e5842495524119-Max-Origin.webp?v=1761512260
+    Price: £16.41 GBP
+  - [Beige / 3Y](https://glamorousboutique89.myshopify.com/products/childrens-ruffled-hem-corduroy-pants?variant=55327211454790)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/c6cdfb0b51564c27a5fea85697fcba1f-Max-Origin.webp?v=1761512260
+    Price: £16.41 GBP
+  - [Beige / 4Y](https://glamorousboutique89.myshopify.com/products/childrens-ruffled-hem-corduroy-pants?variant=55327211487558)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/c6cdfb0b51564c27a5fea85697fcba1f-Max-Origin.webp?v=1761512260
+    Price: £16.41 GBP
+  - [Beige / 5Y](https://glamorousboutique89.myshopify.com/products/childrens-ruffled-hem-corduroy-pants?variant=55327211520326)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/c6cdfb0b51564c27a5fea85697fcba1f-Max-Origin.webp?v=1761512260
+    Price: £16.41 GBP
+  - [Beige / 6Y](https://glamorousboutique89.myshopify.com/products/childrens-ruffled-hem-corduroy-pants?variant=55327211553094)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/c6cdfb0b51564c27a5fea85697fcba1f-Max-Origin.webp?v=1761512260
+    Price: £16.41 GBP
+  - [Beige / 7Y](https://glamorousboutique89.myshopify.com/products/childrens-ruffled-hem-corduroy-pants?variant=55327211585862)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/c6cdfb0b51564c27a5fea85697fcba1f-Max-Origin.webp?v=1761512260
+    Price: £16.41 GBP
+  - [Beige / 8Y](https://glamorousboutique89.myshopify.com/products/childrens-ruffled-hem-corduroy-pants?variant=55327211618630)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/c6cdfb0b51564c27a5fea85697fcba1f-Max-Origin.webp?v=1761512260
+    Price: £16.41 GBP
+  - [Beige / 9Y](https://glamorousboutique89.myshopify.com/products/childrens-ruffled-hem-corduroy-pants?variant=55327211651398)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/c6cdfb0b51564c27a5fea85697fcba1f-Max-Origin.webp?v=1761512260
+    Price: £16.41 GBP
+  - [Pink / 3Y](https://glamorousboutique89.myshopify.com/products/childrens-ruffled-hem-corduroy-pants?variant=55327211684166)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/9be6782a21974925aa0d53f810b67f53-Max-Origin.webp?v=1761512260
+    Price: £16.41 GBP
+  - [Pink / 4Y](https://glamorousboutique89.myshopify.com/products/childrens-ruffled-hem-corduroy-pants?variant=55327211716934)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/9be6782a21974925aa0d53f810b67f53-Max-Origin.webp?v=1761512260
+    Price: £16.41 GBP
+  - [Pink / 5Y](https://glamorousboutique89.myshopify.com/products/childrens-ruffled-hem-corduroy-pants?variant=55327211749702)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/9be6782a21974925aa0d53f810b67f53-Max-Origin.webp?v=1761512260
+    Price: £16.41 GBP
+  - [Pink / 6Y](https://glamorousboutique89.myshopify.com/products/childrens-ruffled-hem-corduroy-pants?variant=55327211782470)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/9be6782a21974925aa0d53f810b67f53-Max-Origin.webp?v=1761512260
+    Price: £16.41 GBP
+  - [Pink / 7Y](https://glamorousboutique89.myshopify.com/products/childrens-ruffled-hem-corduroy-pants?variant=55327211815238)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/9be6782a21974925aa0d53f810b67f53-Max-Origin.webp?v=1761512260
+    Price: £16.41 GBP
+  - [Pink / 8Y](https://glamorousboutique89.myshopify.com/products/childrens-ruffled-hem-corduroy-pants?variant=55327211848006)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/9be6782a21974925aa0d53f810b67f53-Max-Origin.webp?v=1761512260
+    Price: £16.41 GBP
+  - [Pink / 9Y](https://glamorousboutique89.myshopify.com/products/childrens-ruffled-hem-corduroy-pants?variant=55327211880774)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/9be6782a21974925aa0d53f810b67f53-Max-Origin.webp?v=1761512260
+    Price: £16.41 GBP
+- [Children's Zip Up Hooded Fleece-Lined Jacket](https://glamorousboutique89.myshopify.com/products/childrens-zip-up-hooded-fleece-lined-jacket): Features:Zipper Thickness:Thick Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Shoulder Bust Sleeve Length 5Y 15.7 12 30.3 15.9 6Y 16.9 12.8 31.9 17.3 7Y 18.1 13.8 33.9 18.9
+  Updated: 2025-10-27T00:17:18Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/2a1a7ff9eb1d4b30996b4b4d32c5698b-Max-Origin.webp?v=1761512282
+  - [Pink Purple / 5Y](https://glamorousboutique89.myshopify.com/products/childrens-zip-up-hooded-fleece-lined-jacket?variant=55327212241222)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/2a1a7ff9eb1d4b30996b4b4d32c5698b-Max-Origin.webp?v=1761512282
+    Price: £24.11 GBP
+  - [Pink Purple / 6Y](https://glamorousboutique89.myshopify.com/products/childrens-zip-up-hooded-fleece-lined-jacket?variant=55327212273990)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/2a1a7ff9eb1d4b30996b4b4d32c5698b-Max-Origin.webp?v=1761512282
+    Price: £24.11 GBP
+  - [Pink Purple / 7Y](https://glamorousboutique89.myshopify.com/products/childrens-zip-up-hooded-fleece-lined-jacket?variant=55327212306758)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/2a1a7ff9eb1d4b30996b4b4d32c5698b-Max-Origin.webp?v=1761512282
+    Price: £24.11 GBP
+- [Children's Vest & Top & Beret 3-Piece Set](https://glamorousboutique89.myshopify.com/products/childrens-vest-top-beret-3-piece-set): Features:Belted,Pocketed Number of pieces:Two-piece Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Shoulder Sleeve Length Bust Hip 5Y 15.6 9.4 16.5 27.6 0 6Y 16.7 10.2 17.9 29.1 0 7Y 17.9 11.2 19.5 31.1 0 8Y 19.1 12.2 21.1 33.1 0 9Y 20.3 13.2 22.6 35 0
+  Updated: 2025-10-27T00:17:18Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/b44cc0f144ce4587b6b694e1b9fc462d-Max-Origin.webp?v=1761512304
+  - [Hot Pink / 5Y](https://glamorousboutique89.myshopify.com/products/childrens-vest-top-beret-3-piece-set?variant=55327212863814)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/b44cc0f144ce4587b6b694e1b9fc462d-Max-Origin.webp?v=1761512304
+    Price: £34.17 GBP
+  - [Hot Pink / 6Y](https://glamorousboutique89.myshopify.com/products/childrens-vest-top-beret-3-piece-set?variant=55327212896582)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/b44cc0f144ce4587b6b694e1b9fc462d-Max-Origin.webp?v=1761512304
+    Price: £34.17 GBP
+  - [Hot Pink / 7Y](https://glamorousboutique89.myshopify.com/products/childrens-vest-top-beret-3-piece-set?variant=55327212929350)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/b44cc0f144ce4587b6b694e1b9fc462d-Max-Origin.webp?v=1761512304
+    Price: £34.17 GBP
+  - [Hot Pink / 8Y](https://glamorousboutique89.myshopify.com/products/childrens-vest-top-beret-3-piece-set?variant=55327212962118)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/b44cc0f144ce4587b6b694e1b9fc462d-Max-Origin.webp?v=1761512304
+    Price: £34.17 GBP
+  - [Hot Pink / 9Y](https://glamorousboutique89.myshopify.com/products/childrens-vest-top-beret-3-piece-set?variant=55327212994886)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/b44cc0f144ce4587b6b694e1b9fc462d-Max-Origin.webp?v=1761512304
+    Price: £34.17 GBP
+- [Children's Casual Corduroy Hooded Jacket](https://glamorousboutique89.myshopify.com/products/childrens-casual-corduroy-hooded-jacket): Features:Pocketed Thickness:Normal Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Shoulder Sleeve Length 8Y 15 35.4 17.3 15.4 9Y 15.7 36.6 17.9 16 10Y 16.5 37.8 18.5 16.7 11Y 17.3 39 19.1 17.4 12Y 18.1 40.2 19.7 18
+  Updated: 2025-10-27T00:17:18Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/782c9210e803472288e0792396d76732-Max-Origin.webp?v=1761512322
+  - [Apricot / 8Y](https://glamorousboutique89.myshopify.com/products/childrens-casual-corduroy-hooded-jacket?variant=55327213289798)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/782c9210e803472288e0792396d76732-Max-Origin.webp?v=1761512322
+    Price: £19.21 GBP
+  - [Apricot / 9Y](https://glamorousboutique89.myshopify.com/products/childrens-casual-corduroy-hooded-jacket?variant=55327213322566)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/782c9210e803472288e0792396d76732-Max-Origin.webp?v=1761512322
+    Price: £19.21 GBP
+  - [Apricot / 10Y](https://glamorousboutique89.myshopify.com/products/childrens-casual-corduroy-hooded-jacket?variant=55327213355334)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/782c9210e803472288e0792396d76732-Max-Origin.webp?v=1761512322
+    Price: £19.21 GBP
+  - [Apricot / 11Y](https://glamorousboutique89.myshopify.com/products/childrens-casual-corduroy-hooded-jacket?variant=55327213388102)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/782c9210e803472288e0792396d76732-Max-Origin.webp?v=1761512322
+    Price: £19.21 GBP
+  - [Apricot / 12Y](https://glamorousboutique89.myshopify.com/products/childrens-casual-corduroy-hooded-jacket?variant=55327213420870)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/782c9210e803472288e0792396d76732-Max-Origin.webp?v=1761512322
+    Price: £19.21 GBP
+  - [Black / 8Y](https://glamorousboutique89.myshopify.com/products/childrens-casual-corduroy-hooded-jacket?variant=55327213453638)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/9132142285284173947cc25ca6aaf770-Max-Origin.webp?v=1761512322
+    Price: £19.21 GBP
+  - [Black / 9Y](https://glamorousboutique89.myshopify.com/products/childrens-casual-corduroy-hooded-jacket?variant=55327213486406)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/9132142285284173947cc25ca6aaf770-Max-Origin.webp?v=1761512322
+    Price: £19.21 GBP
+  - [Black / 10Y](https://glamorousboutique89.myshopify.com/products/childrens-casual-corduroy-hooded-jacket?variant=55327213519174)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/9132142285284173947cc25ca6aaf770-Max-Origin.webp?v=1761512322
+    Price: £19.21 GBP
+  - [Black / 11Y](https://glamorousboutique89.myshopify.com/products/childrens-casual-corduroy-hooded-jacket?variant=55327213551942)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/9132142285284173947cc25ca6aaf770-Max-Origin.webp?v=1761512322
+    Price: £19.21 GBP
+  - [Black / 12Y](https://glamorousboutique89.myshopify.com/products/childrens-casual-corduroy-hooded-jacket?variant=55327213584710)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/9132142285284173947cc25ca6aaf770-Max-Origin.webp?v=1761512322
+    Price: £19.21 GBP
+- [Children's Quilted Zip-Up Hooded Jacket](https://glamorousboutique89.myshopify.com/products/childrens-quilted-zip-up-hooded-jacket): Features:Zipper Thickness:Normal Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Shoulder Bust Sleeve Length 8Y 18.1 13.8 33.9 16.9 9Y 19.3 14.3 35 17.7 10Y 20.5 14.7 36.2 18.5 11Y 21.7 15.2 37.4 19.3 12Y 22.8 15.7 38.6 20.1
+  Updated: 2025-10-27T00:17:18Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/d5dfddc7721b4ea8988fe6f37345431c-Max-Origin.webp?v=1761512338
+  - [Dusty Pink / 8Y](https://glamorousboutique89.myshopify.com/products/childrens-quilted-zip-up-hooded-jacket?variant=55327213977926)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/d5dfddc7721b4ea8988fe6f37345431c-Max-Origin.webp?v=1761512338
+    Price: £18.74 GBP
+  - [Dusty Pink / 9Y](https://glamorousboutique89.myshopify.com/products/childrens-quilted-zip-up-hooded-jacket?variant=55327214010694)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/d5dfddc7721b4ea8988fe6f37345431c-Max-Origin.webp?v=1761512338
+    Price: £18.74 GBP
+  - [Dusty Pink / 10Y](https://glamorousboutique89.myshopify.com/products/childrens-quilted-zip-up-hooded-jacket?variant=55327214043462)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/d5dfddc7721b4ea8988fe6f37345431c-Max-Origin.webp?v=1761512338
+    Price: £18.74 GBP
+  - [Dusty Pink / 11Y](https://glamorousboutique89.myshopify.com/products/childrens-quilted-zip-up-hooded-jacket?variant=55327214076230)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/d5dfddc7721b4ea8988fe6f37345431c-Max-Origin.webp?v=1761512338
+    Price: £18.74 GBP
+  - [Dusty Pink / 12Y](https://glamorousboutique89.myshopify.com/products/childrens-quilted-zip-up-hooded-jacket?variant=55327214108998)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/d5dfddc7721b4ea8988fe6f37345431c-Max-Origin.webp?v=1761512338
+    Price: £18.74 GBP
+- [Children's Cozy Faux Fur Hooded Jacket](https://glamorousboutique89.myshopify.com/products/childrens-cozy-faux-fur-hooded-jacket): Features:Basic style Thickness:Normal Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Shoulder Bust Sleeve Length 8Y 18.9 14.6 33.9 17.3 9Y 19.7 15 35 18.1 10Y 20.5 15.5 36.2 18.9 11Y 21.3 16 37.4 19.7 12Y 22 16.5 38.6 20.5
+  Updated: 2025-10-27T00:17:19Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/1a25b546-95e2-4c4a-b887-feef7b2468c6-Max-Origin.webp?v=1761512363
+  - [Dusty Pink / 8Y](https://glamorousboutique89.myshopify.com/products/childrens-cozy-faux-fur-hooded-jacket?variant=55327214666054)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/625eed7d566446a6b8e99646e520e9ad-Max-Origin.webp?v=1761512364
+    Price: £37.47 GBP
+  - [Dusty Pink / 9Y](https://glamorousboutique89.myshopify.com/products/childrens-cozy-faux-fur-hooded-jacket?variant=55327214698822)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/625eed7d566446a6b8e99646e520e9ad-Max-Origin.webp?v=1761512364
+    Price: £37.47 GBP
+  - [Dusty Pink / 10Y](https://glamorousboutique89.myshopify.com/products/childrens-cozy-faux-fur-hooded-jacket?variant=55327214731590)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/625eed7d566446a6b8e99646e520e9ad-Max-Origin.webp?v=1761512364
+    Price: £37.47 GBP
+  - [Dusty Pink / 11Y](https://glamorousboutique89.myshopify.com/products/childrens-cozy-faux-fur-hooded-jacket?variant=55327214764358)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/625eed7d566446a6b8e99646e520e9ad-Max-Origin.webp?v=1761512364
+    Price: £37.47 GBP
+  - [Dusty Pink / 12Y](https://glamorousboutique89.myshopify.com/products/childrens-cozy-faux-fur-hooded-jacket?variant=55327214797126)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/625eed7d566446a6b8e99646e520e9ad-Max-Origin.webp?v=1761512364
+    Price: £37.47 GBP
+- [Children's Cozy Fleece Button-Down Jacket](https://glamorousboutique89.myshopify.com/products/childrens-cozy-fleece-button-down-jacket): Features:Basic style Thickness:Normal Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Shoulder Bust Sleeve Length 8Y 15.4 12.6 30.7 16.3 9Y 16.5 13.4 32.3 17.7 10Y 17.7 14.4 34.3 19.3 12Y 18.9 15.4 36.2 20.9 14Y 20.1 16.3 38.2 22.4
+  Updated: 2025-10-27T00:17:19Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/ca678ba7b227458da2bacc01d0244a60-Max-Origin.webp?v=1761512380
+  - [Khaki / 8Y](https://glamorousboutique89.myshopify.com/products/childrens-cozy-fleece-button-down-jacket?variant=55327214993734)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/ca678ba7b227458da2bacc01d0244a60-Max-Origin.webp?v=1761512380
+    Price: £18.74 GBP
+  - [Khaki / 9Y](https://glamorousboutique89.myshopify.com/products/childrens-cozy-fleece-button-down-jacket?variant=55327215026502)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/ca678ba7b227458da2bacc01d0244a60-Max-Origin.webp?v=1761512380
+    Price: £18.74 GBP
+  - [Khaki / 10Y](https://glamorousboutique89.myshopify.com/products/childrens-cozy-fleece-button-down-jacket?variant=55327215059270)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/ca678ba7b227458da2bacc01d0244a60-Max-Origin.webp?v=1761512380
+    Price: £18.74 GBP
+  - [Khaki / 12Y](https://glamorousboutique89.myshopify.com/products/childrens-cozy-fleece-button-down-jacket?variant=55327215092038)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/ca678ba7b227458da2bacc01d0244a60-Max-Origin.webp?v=1761512380
+    Price: £18.74 GBP
+  - [Khaki / 14Y](https://glamorousboutique89.myshopify.com/products/childrens-cozy-fleece-button-down-jacket?variant=55327215124806)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/ca678ba7b227458da2bacc01d0244a60-Max-Origin.webp?v=1761512380
+    Price: £18.74 GBP
+- [Children's Cozy Faux Shearling Button-Up Outerwear](https://glamorousboutique89.myshopify.com/products/childrens-cozy-faux-shearling-button-up-outerwear): Features:Basic style Thickness:Normal Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Shoulder Bust Sleeve Length 8Y 16.5 13.4 33.1 17.7 9Y 17.7 13.9 34.3 18.5 10Y 18.9 14.3 35.4 19.3 11Y 20.1 14.8 36.6 20.1 12Y 21.3 15.3 37.8 20.9
+  Updated: 2025-10-27T00:17:19Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/e954c71fc0a74662a4eda5ceea68c889-Max-Origin.webp?v=1761512398
+  - [White / 8Y](https://glamorousboutique89.myshopify.com/products/childrens-cozy-faux-shearling-button-up-outerwear?variant=55327215452486)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/e11f81c3-4e5d-4044-97e2-43b20e4264d1-Max-Origin.webp?v=1761512397
+    Price: £16.07 GBP
+  - [White / 9Y](https://glamorousboutique89.myshopify.com/products/childrens-cozy-faux-shearling-button-up-outerwear?variant=55327215485254)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/e11f81c3-4e5d-4044-97e2-43b20e4264d1-Max-Origin.webp?v=1761512397
+    Price: £16.07 GBP
+  - [White / 10Y](https://glamorousboutique89.myshopify.com/products/childrens-cozy-faux-shearling-button-up-outerwear?variant=55327215518022)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/e11f81c3-4e5d-4044-97e2-43b20e4264d1-Max-Origin.webp?v=1761512397
+    Price: £16.07 GBP
+  - [White / 11Y](https://glamorousboutique89.myshopify.com/products/childrens-cozy-faux-shearling-button-up-outerwear?variant=55327215550790)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/e11f81c3-4e5d-4044-97e2-43b20e4264d1-Max-Origin.webp?v=1761512397
+    Price: £16.07 GBP
+  - [White / 12Y](https://glamorousboutique89.myshopify.com/products/childrens-cozy-faux-shearling-button-up-outerwear?variant=55327215583558)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/e11f81c3-4e5d-4044-97e2-43b20e4264d1-Max-Origin.webp?v=1761512397
+    Price: £16.07 GBP
+  - [Caramel / 8Y](https://glamorousboutique89.myshopify.com/products/childrens-cozy-faux-shearling-button-up-outerwear?variant=55327215616326)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/e954c71fc0a74662a4eda5ceea68c889-Max-Origin.webp?v=1761512398
+    Price: £16.07 GBP
+  - [Caramel / 9Y](https://glamorousboutique89.myshopify.com/products/childrens-cozy-faux-shearling-button-up-outerwear?variant=55327215649094)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/e954c71fc0a74662a4eda5ceea68c889-Max-Origin.webp?v=1761512398
+    Price: £16.07 GBP
+  - [Caramel / 10Y](https://glamorousboutique89.myshopify.com/products/childrens-cozy-faux-shearling-button-up-outerwear?variant=55327215681862)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/e954c71fc0a74662a4eda5ceea68c889-Max-Origin.webp?v=1761512398
+    Price: £16.07 GBP
+  - [Caramel / 11Y](https://glamorousboutique89.myshopify.com/products/childrens-cozy-faux-shearling-button-up-outerwear?variant=55327215714630)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/e954c71fc0a74662a4eda5ceea68c889-Max-Origin.webp?v=1761512398
+    Price: £16.07 GBP
+  - [Caramel / 12Y](https://glamorousboutique89.myshopify.com/products/childrens-cozy-faux-shearling-button-up-outerwear?variant=55327215747398)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/e954c71fc0a74662a4eda5ceea68c889-Max-Origin.webp?v=1761512398
+    Price: £16.07 GBP
+- [Children's Cozy Plaid Sleeve Fleece Jacket](https://glamorousboutique89.myshopify.com/products/childrens-cozy-plaid-sleeve-fleece-jacket): Features:Basic style Thickness:Normal Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length 8Y 21.3 29.9 19 9Y 22.4 31.5 20.9 10Y 23.6 33.1 22.7 12Y 24.8 34.6 24.6 14Y 26 36.2 26.4
+  Updated: 2025-10-27T00:17:19Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/ab569a7a6b174ae2b371badf28d9480c-Max-Origin.webp?v=1761512414
+  - [Apricot / 8Y](https://glamorousboutique89.myshopify.com/products/childrens-cozy-plaid-sleeve-fleece-jacket?variant=55327216238918)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/ab569a7a6b174ae2b371badf28d9480c-Max-Origin.webp?v=1761512414
+    Price: £23.66 GBP
+  - [Apricot / 9Y](https://glamorousboutique89.myshopify.com/products/childrens-cozy-plaid-sleeve-fleece-jacket?variant=55327216271686)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/ab569a7a6b174ae2b371badf28d9480c-Max-Origin.webp?v=1761512414
+    Price: £23.66 GBP
+  - [Apricot / 10Y](https://glamorousboutique89.myshopify.com/products/childrens-cozy-plaid-sleeve-fleece-jacket?variant=55327216304454)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/ab569a7a6b174ae2b371badf28d9480c-Max-Origin.webp?v=1761512414
+    Price: £23.66 GBP
+  - [Apricot / 12Y](https://glamorousboutique89.myshopify.com/products/childrens-cozy-plaid-sleeve-fleece-jacket?variant=55327216337222)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/ab569a7a6b174ae2b371badf28d9480c-Max-Origin.webp?v=1761512414
+    Price: £23.66 GBP
+  - [Apricot / 14Y](https://glamorousboutique89.myshopify.com/products/childrens-cozy-plaid-sleeve-fleece-jacket?variant=55327216369990)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/ab569a7a6b174ae2b371badf28d9480c-Max-Origin.webp?v=1761512414
+    Price: £23.66 GBP
+- [Children's Christmas Tree Applique Sweatshirt](https://glamorousboutique89.myshopify.com/products/childrens-christmas-tree-applique-sweatshirt): Features:Basic style Material composition:95% cotton, 5% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Bust Sleeve Length Top Length 4T 32.3 10.2 0 5T 34.6 11.4 0 6T 37 12.6 0 7T 38.6 14.2 0
+  Updated: 2025-10-27T00:17:19Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/0b713d81-3e50-4210-9e9a-94884b10f8f8-Max-Origin.webp?v=1761512438
+  - [Dusty Pink / 4T](https://glamorousboutique89.myshopify.com/products/childrens-christmas-tree-applique-sweatshirt?variant=55327217025350)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/0b713d81-3e50-4210-9e9a-94884b10f8f8-Max-Origin.webp?v=1761512438
+    Price: £14.40 GBP
+  - [Dusty Pink / 5T](https://glamorousboutique89.myshopify.com/products/childrens-christmas-tree-applique-sweatshirt?variant=55327217058118)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/0b713d81-3e50-4210-9e9a-94884b10f8f8-Max-Origin.webp?v=1761512438
+    Price: £14.40 GBP
+  - [Dusty Pink / 6T](https://glamorousboutique89.myshopify.com/products/childrens-christmas-tree-applique-sweatshirt?variant=55327217090886)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/0b713d81-3e50-4210-9e9a-94884b10f8f8-Max-Origin.webp?v=1761512438
+    Price: £14.40 GBP
+  - [Dusty Pink / 7T](https://glamorousboutique89.myshopify.com/products/childrens-christmas-tree-applique-sweatshirt?variant=55327217123654)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/0b713d81-3e50-4210-9e9a-94884b10f8f8-Max-Origin.webp?v=1761512438
+    Price: £14.40 GBP
+- [Children's Cartoon Bear Graphic Baseball Jacket](https://glamorousboutique89.myshopify.com/products/childrens-cartoon-bear-graphic-baseball-jacket): Features:Basic style Thickness:Normal Material composition:95% polyester, 5% spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Shoulder Sleeve Length 6-9M 12.6 22.4 8.7 9.8 9-12M 13.4 23.2 9.1 10.6 12-18M 14.2 24 9.4 11.4 18-24M 15 24.8 9.8 12.2 2-3 15.7 25.6 10.2 13
+  Updated: 2025-10-27T00:17:19Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/0add87c6e24c4f228579f003bcbf03e4-Max-Origin.webp?v=1761512466
+  - [Black / 6-9M](https://glamorousboutique89.myshopify.com/products/childrens-cartoon-bear-graphic-baseball-jacket?variant=55327217484102)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/0add87c6e24c4f228579f003bcbf03e4-Max-Origin.webp?v=1761512466
+    Price: £20.74 GBP
+  - [Black / 9-12M](https://glamorousboutique89.myshopify.com/products/childrens-cartoon-bear-graphic-baseball-jacket?variant=55327217516870)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/0add87c6e24c4f228579f003bcbf03e4-Max-Origin.webp?v=1761512466
+    Price: £20.74 GBP
+  - [Black / 12-18M](https://glamorousboutique89.myshopify.com/products/childrens-cartoon-bear-graphic-baseball-jacket?variant=55327217549638)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/0add87c6e24c4f228579f003bcbf03e4-Max-Origin.webp?v=1761512466
+    Price: £20.74 GBP
+  - [Black / 18-24M](https://glamorousboutique89.myshopify.com/products/childrens-cartoon-bear-graphic-baseball-jacket?variant=55327217582406)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/0add87c6e24c4f228579f003bcbf03e4-Max-Origin.webp?v=1761512466
+    Price: £20.74 GBP
+  - [Black / 2-3](https://glamorousboutique89.myshopify.com/products/childrens-cartoon-bear-graphic-baseball-jacket?variant=55327217615174)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/0add87c6e24c4f228579f003bcbf03e4-Max-Origin.webp?v=1761512466
+    Price: £20.74 GBP
+- [Children's Ruffled Bodysuit and Sunflower Pants Set](https://glamorousboutique89.myshopify.com/products/childrens-ruffled-bodysuit-and-sunflower-pants-set): Features:Ribbed,Ruffled,Bow Number of pieces:Three-piece Material composition:95% polyester, 5% spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Waist Bottom Length Sleeve Length Hip 0-3M 15 18.1 14.2 15 0 0 3-6M 15.7 18.9 15 15.7 0 0 6-9M 16.5 19.7 15.7 16.5 0 0 9-12M 17.3 20.5 16.5 17.3 0 0 12-18M 18.1 21.3 17.3 18.1 0 0
+  Updated: 2025-10-27T00:17:19Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/de201726-d890-4891-9f20-7059fd373033-Max-Origin.webp?v=1761512484
+  - [Bright Yellow / 0-3M](https://glamorousboutique89.myshopify.com/products/childrens-ruffled-bodysuit-and-sunflower-pants-set?variant=55327217811782)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/de201726-d890-4891-9f20-7059fd373033-Max-Origin.webp?v=1761512484
+    Price: £22.17 GBP
+  - [Bright Yellow / 3-6M](https://glamorousboutique89.myshopify.com/products/childrens-ruffled-bodysuit-and-sunflower-pants-set?variant=55327217844550)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/de201726-d890-4891-9f20-7059fd373033-Max-Origin.webp?v=1761512484
+    Price: £22.17 GBP
+  - [Bright Yellow / 6-9M](https://glamorousboutique89.myshopify.com/products/childrens-ruffled-bodysuit-and-sunflower-pants-set?variant=55327217877318)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/de201726-d890-4891-9f20-7059fd373033-Max-Origin.webp?v=1761512484
+    Price: £22.17 GBP
+  - [Bright Yellow / 9-12M](https://glamorousboutique89.myshopify.com/products/childrens-ruffled-bodysuit-and-sunflower-pants-set?variant=55327217910086)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/de201726-d890-4891-9f20-7059fd373033-Max-Origin.webp?v=1761512484
+    Price: £22.17 GBP
+  - [Bright Yellow / 12-18M](https://glamorousboutique89.myshopify.com/products/childrens-ruffled-bodysuit-and-sunflower-pants-set?variant=55327217942854)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/de201726-d890-4891-9f20-7059fd373033-Max-Origin.webp?v=1761512484
+    Price: £22.17 GBP
+- [Children's Christmas Santa Long Sleeve Dress](https://glamorousboutique89.myshopify.com/products/childrens-christmas-santa-long-sleeve-dress): Features:Basic style Material composition:95% cotton, 5% spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Length Bust Sleeve Length Hip 9-12M 15.4 9.8 11 0 18-24M 16.9 10.6 11.8 0 2-3 18.5 11.4 12.6 0
+  Updated: 2025-10-27T00:17:19Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/23239439e95747df932680f314253cad-Max-Origin.webp?v=1761512503
+  - [Red / 9-12M](https://glamorousboutique89.myshopify.com/products/childrens-christmas-santa-long-sleeve-dress?variant=55327218008390)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/23239439e95747df932680f314253cad-Max-Origin.webp?v=1761512503
+    Price: £14.72 GBP
+  - [Red / 18-24M](https://glamorousboutique89.myshopify.com/products/childrens-christmas-santa-long-sleeve-dress?variant=55327218041158)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/23239439e95747df932680f314253cad-Max-Origin.webp?v=1761512503
+    Price: £14.72 GBP
+  - [Red / 2-3](https://glamorousboutique89.myshopify.com/products/childrens-christmas-santa-long-sleeve-dress?variant=55327218073926)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/23239439e95747df932680f314253cad-Max-Origin.webp?v=1761512503
+    Price: £14.72 GBP
+- [Children's Striped Shirt and Overall Set](https://glamorousboutique89.myshopify.com/products/childrens-striped-shirt-and-overall-set): Features:Basic style Number of pieces:Two-piece Material composition:95%cotton,5%spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length Bottom Length Hip 9-12M 13.4 11.8 11.4 16.5 12.2 12-18M 14.2 12.2 12.6 17.7 13 18-24M 15 12.6 13.8 18.9 13.8 2-3 15.7 13 15 20.1 14.6 3-4 16.5 13.4 16.1 21.3 15.4 4-5 17.3 13.8 17.3 22.4 16.1
+  Updated: 2025-10-27T00:17:20Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/d8814529-fdda-4af1-9ce7-8bada31379cf-Max-Origin.webp?v=1761512518
+  - [Red / 9-12M](https://glamorousboutique89.myshopify.com/products/childrens-striped-shirt-and-overall-set?variant=55327218106694)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/d8814529-fdda-4af1-9ce7-8bada31379cf-Max-Origin.webp?v=1761512518
+    Price: £32.69 GBP
+  - [Red / 12-18M](https://glamorousboutique89.myshopify.com/products/childrens-striped-shirt-and-overall-set?variant=55327218139462)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/d8814529-fdda-4af1-9ce7-8bada31379cf-Max-Origin.webp?v=1761512518
+    Price: £32.69 GBP
+  - [Red / 18-24M](https://glamorousboutique89.myshopify.com/products/childrens-striped-shirt-and-overall-set?variant=55327218172230)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/d8814529-fdda-4af1-9ce7-8bada31379cf-Max-Origin.webp?v=1761512518
+    Price: £32.69 GBP
+  - [Red / 2-3](https://glamorousboutique89.myshopify.com/products/childrens-striped-shirt-and-overall-set?variant=55327218204998)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/d8814529-fdda-4af1-9ce7-8bada31379cf-Max-Origin.webp?v=1761512518
+    Price: £32.69 GBP
+  - [Red / 3-4](https://glamorousboutique89.myshopify.com/products/childrens-striped-shirt-and-overall-set?variant=55327218237766)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/d8814529-fdda-4af1-9ce7-8bada31379cf-Max-Origin.webp?v=1761512518
+    Price: £32.69 GBP
+  - [Red / 4-5](https://glamorousboutique89.myshopify.com/products/childrens-striped-shirt-and-overall-set?variant=55327218270534)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/d8814529-fdda-4af1-9ce7-8bada31379cf-Max-Origin.webp?v=1761512518
+    Price: £32.69 GBP
+- [Children's Spiderman 3-Piece Outfit Set](https://glamorousboutique89.myshopify.com/products/childrens-spiderman-3-piece-outfit-set): Features:Drawstring Number of pieces:Three-piece Material composition:95% cotton, 5% spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Bust Sleeve Length Bottom Length Hip Top Length 2-3 11.8 11.8 20.5 12.6 0 3-4 12.2 12.6 22 13.4 0 4-5 12.6 13.4 23.6 14.2 0 6-7 13 14.2 25.6 15 0 8-9 13.4 15 27.6 15.7 0
+  Updated: 2025-10-27T00:17:20Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/9d1f1496-4637-4824-8e3f-995150809f11-Max-Origin.webp?v=1761512541
+  - [Black Suit / 2-3](https://glamorousboutique89.myshopify.com/products/childrens-spiderman-3-piece-outfit-set?variant=55327219056966)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/9d1f1496-4637-4824-8e3f-995150809f11-Max-Origin.webp?v=1761512541
+    Price: £37.83 GBP
+  - [Black Suit / 3-4](https://glamorousboutique89.myshopify.com/products/childrens-spiderman-3-piece-outfit-set?variant=55327219089734)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/9d1f1496-4637-4824-8e3f-995150809f11-Max-Origin.webp?v=1761512541
+    Price: £37.83 GBP
+  - [Black Suit / 4-5](https://glamorousboutique89.myshopify.com/products/childrens-spiderman-3-piece-outfit-set?variant=55327219122502)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/9d1f1496-4637-4824-8e3f-995150809f11-Max-Origin.webp?v=1761512541
+    Price: £37.83 GBP
+  - [Black Suit / 6-7](https://glamorousboutique89.myshopify.com/products/childrens-spiderman-3-piece-outfit-set?variant=55327219155270)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/9d1f1496-4637-4824-8e3f-995150809f11-Max-Origin.webp?v=1761512541
+    Price: £37.83 GBP
+  - [Black Suit / 8-9](https://glamorousboutique89.myshopify.com/products/childrens-spiderman-3-piece-outfit-set?variant=55327219188038)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/9d1f1496-4637-4824-8e3f-995150809f11-Max-Origin.webp?v=1761512541
+    Price: £37.83 GBP
+  - [Blue Suit / 2-3](https://glamorousboutique89.myshopify.com/products/childrens-spiderman-3-piece-outfit-set?variant=55327219220806)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/078623c4-2f95-4866-b386-4a72ff0ff562-Max-Origin.webp?v=1761512541
+    Price: £37.83 GBP
+  - [Blue Suit / 3-4](https://glamorousboutique89.myshopify.com/products/childrens-spiderman-3-piece-outfit-set?variant=55327219253574)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/078623c4-2f95-4866-b386-4a72ff0ff562-Max-Origin.webp?v=1761512541
+    Price: £37.83 GBP
+  - [Blue Suit / 4-5](https://glamorousboutique89.myshopify.com/products/childrens-spiderman-3-piece-outfit-set?variant=55327219286342)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/078623c4-2f95-4866-b386-4a72ff0ff562-Max-Origin.webp?v=1761512541
+    Price: £37.83 GBP
+  - [Blue Suit / 6-7](https://glamorousboutique89.myshopify.com/products/childrens-spiderman-3-piece-outfit-set?variant=55327219319110)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/078623c4-2f95-4866-b386-4a72ff0ff562-Max-Origin.webp?v=1761512541
+    Price: £37.83 GBP
+  - [Blue Suit / 8-9](https://glamorousboutique89.myshopify.com/products/childrens-spiderman-3-piece-outfit-set?variant=55327219351878)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/078623c4-2f95-4866-b386-4a72ff0ff562-Max-Origin.webp?v=1761512541
+    Price: £37.83 GBP
+- [Children's Spiderman Graphic Hoodie and Pants Set](https://glamorousboutique89.myshopify.com/products/childrens-spiderman-graphic-hoodie-and-pants-set): Features:Basic style Number of pieces:Two-piece Material composition:95% cotton, 5% spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length Bottom Length Hip 18-24M 13.4 10.6 10.2 18.5 11.4 2-3 14.6 11 11.4 19.7 11.8 3-4 15.7 11.4 12.6 20.9 12.2 4-5 16.9 11.8 13.8 22 12.6 6-7 18.1 12.2 15 23.2 13
+  Updated: 2025-10-27T00:17:20Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/ee3b9d19862c4e4182352c3a730f0175-Max-Origin.webp?v=1761512558
+  - [Red / 18-24M](https://glamorousboutique89.myshopify.com/products/childrens-spiderman-graphic-hoodie-and-pants-set?variant=55327219745094)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/ee3b9d19862c4e4182352c3a730f0175-Max-Origin.webp?v=1761512558
+    Price: £20.37 GBP
+  - [Red / 2-3](https://glamorousboutique89.myshopify.com/products/childrens-spiderman-graphic-hoodie-and-pants-set?variant=55327219777862)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/ee3b9d19862c4e4182352c3a730f0175-Max-Origin.webp?v=1761512558
+    Price: £20.37 GBP
+  - [Red / 3-4](https://glamorousboutique89.myshopify.com/products/childrens-spiderman-graphic-hoodie-and-pants-set?variant=55327219810630)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/ee3b9d19862c4e4182352c3a730f0175-Max-Origin.webp?v=1761512558
+    Price: £20.37 GBP
+  - [Red / 4-5](https://glamorousboutique89.myshopify.com/products/childrens-spiderman-graphic-hoodie-and-pants-set?variant=55327219843398)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/ee3b9d19862c4e4182352c3a730f0175-Max-Origin.webp?v=1761512558
+    Price: £20.37 GBP
+  - [Red / 6-7](https://glamorousboutique89.myshopify.com/products/childrens-spiderman-graphic-hoodie-and-pants-set?variant=55327219876166)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/ee3b9d19862c4e4182352c3a730f0175-Max-Origin.webp?v=1761512558
+    Price: £20.37 GBP
+  - [Black / 18-24M](https://glamorousboutique89.myshopify.com/products/childrens-spiderman-graphic-hoodie-and-pants-set?variant=55327219908934)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/696f8db80262445291780d6013410eec-Max-Origin.webp?v=1761512557
+    Price: £20.37 GBP
+  - [Black / 2-3](https://glamorousboutique89.myshopify.com/products/childrens-spiderman-graphic-hoodie-and-pants-set?variant=55327219941702)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/696f8db80262445291780d6013410eec-Max-Origin.webp?v=1761512557
+    Price: £20.37 GBP
+  - [Black / 3-4](https://glamorousboutique89.myshopify.com/products/childrens-spiderman-graphic-hoodie-and-pants-set?variant=55327219974470)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/696f8db80262445291780d6013410eec-Max-Origin.webp?v=1761512557
+    Price: £20.37 GBP
+  - [Black / 4-5](https://glamorousboutique89.myshopify.com/products/childrens-spiderman-graphic-hoodie-and-pants-set?variant=55327220007238)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/696f8db80262445291780d6013410eec-Max-Origin.webp?v=1761512557
+    Price: £20.37 GBP
+  - [Black / 6-7](https://glamorousboutique89.myshopify.com/products/childrens-spiderman-graphic-hoodie-and-pants-set?variant=55327220040006)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/696f8db80262445291780d6013410eec-Max-Origin.webp?v=1761512557
+    Price: £20.37 GBP
+- [Children's Plaid Shirt & Distressed Jeans with Suspenders Set](https://glamorousboutique89.myshopify.com/products/childrens-plaid-shirt-distressed-jeans-with-suspenders-set): Features:Basic style Number of pieces:4 and more pieces Material composition:95% cotton, 5% spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length Bottom Length Hip 18-24M 15 11.4 11.8 16.9 12.6 2-3 15.7 11.8 12.6 18.9 13.4 3-4 16.5 12.2 13.4 20.9 14.2 4-5 17.3 12.6 14.2 22.8 15 5-6 18.1 13 15 24.8 15.7 6-7 18.9 13.4 15.7 26.8 16.5
+  Updated: 2025-10-27T00:17:20Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/c2823a22416c46239391fbdadd9cb1e1-Max-Origin.webp?v=1761512744
+  - [Dark Navy / 18-24M](https://glamorousboutique89.myshopify.com/products/childrens-plaid-shirt-distressed-jeans-with-suspenders-set?variant=55327223218502)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/c2823a22416c46239391fbdadd9cb1e1-Max-Origin.webp?v=1761512744
+    Price: £26.15 GBP
+  - [Dark Navy / 2-3](https://glamorousboutique89.myshopify.com/products/childrens-plaid-shirt-distressed-jeans-with-suspenders-set?variant=55327223251270)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/c2823a22416c46239391fbdadd9cb1e1-Max-Origin.webp?v=1761512744
+    Price: £26.15 GBP
+  - [Dark Navy / 3-4](https://glamorousboutique89.myshopify.com/products/childrens-plaid-shirt-distressed-jeans-with-suspenders-set?variant=55327223284038)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/c2823a22416c46239391fbdadd9cb1e1-Max-Origin.webp?v=1761512744
+    Price: £26.15 GBP
+  - [Dark Navy / 4-5](https://glamorousboutique89.myshopify.com/products/childrens-plaid-shirt-distressed-jeans-with-suspenders-set?variant=55327223316806)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/c2823a22416c46239391fbdadd9cb1e1-Max-Origin.webp?v=1761512744
+    Price: £26.15 GBP
+  - [Dark Navy / 5-6](https://glamorousboutique89.myshopify.com/products/childrens-plaid-shirt-distressed-jeans-with-suspenders-set?variant=55327223349574)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/c2823a22416c46239391fbdadd9cb1e1-Max-Origin.webp?v=1761512744
+    Price: £26.15 GBP
+  - [Dark Navy / 6-7](https://glamorousboutique89.myshopify.com/products/childrens-plaid-shirt-distressed-jeans-with-suspenders-set?variant=55327223382342)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/c2823a22416c46239391fbdadd9cb1e1-Max-Origin.webp?v=1761512744
+    Price: £26.15 GBP
+- [Printed Christmas Stocking Hanging Widget](https://glamorousboutique89.myshopify.com/products/printed-christmas-stocking-hanging-widget): Pieces: 1-piece Material: Polyester Imported Product measurements: Length 10.2 in, Height 21.7 in, Weight 1.9 oz
+  Updated: 2025-10-27T00:17:20Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/7197d6c5-c463-4e0c-b663-5b5cd4d3b61b-Max.webp?v=1761512787
+  - [Style A / One Size](https://glamorousboutique89.myshopify.com/products/printed-christmas-stocking-hanging-widget?variant=55327223775558)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/7197d6c5-c463-4e0c-b663-5b5cd4d3b61b-Max.webp?v=1761512787
+    Price: £10.79 GBP
+  - [Style B / One Size](https://glamorousboutique89.myshopify.com/products/printed-christmas-stocking-hanging-widget?variant=55327223808326)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/74184938-e5a8-4cb2-bc4b-b1f65a8134ce-Max.webp?v=1761512786
+    Price: £10.79 GBP
+  - [Style C / One Size](https://glamorousboutique89.myshopify.com/products/printed-christmas-stocking-hanging-widget?variant=55327223841094)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/37c4c572-0c49-4535-83fb-d7c64cf6af5e-Max.webp?v=1761512787
+    Price: £10.79 GBP
+  - [Style D / One Size](https://glamorousboutique89.myshopify.com/products/printed-christmas-stocking-hanging-widget?variant=55327223873862)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/91100119-00c5-4448-a098-43e0d675c007-Max.webp?v=1761512787
+    Price: £10.79 GBP
+- [Christmas Stocking Hanging Widget](https://glamorousboutique89.myshopify.com/products/christmas-stocking-hanging-widget): Pieces: 1-piece Material: Polyester Imported Product measurements: Width 10.6 in, Height 16.1 in, Weight 4.1 oz
+  Updated: 2025-10-27T00:17:20Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/4be1c468-e946-4eb4-bff5-a447919ec604-Max.webp?v=1761512809
+  - [Style A / One Size](https://glamorousboutique89.myshopify.com/products/christmas-stocking-hanging-widget?variant=55327224856902)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/4555843e-878b-49fb-93a6-a11fb2f44db6-Max.webp?v=1761512808
+    Price: £17.35 GBP
+  - [Style B / One Size](https://glamorousboutique89.myshopify.com/products/christmas-stocking-hanging-widget?variant=55327224889670)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/128b072d-8f2a-41ac-9354-80a18ae4c4dd-Max.webp?v=1761512808
+    Price: £17.35 GBP
+  - [Style C / One Size](https://glamorousboutique89.myshopify.com/products/christmas-stocking-hanging-widget?variant=55327224922438)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/9d32123c-74d4-4789-b469-a23b95dc48cf-Max.webp?v=1761512809
+    Price: £17.35 GBP
+- [Cable-Knit Contrast Christmas Stockings](https://glamorousboutique89.myshopify.com/products/cable-knit-contrast-christmas-stockings): Pieces:1-piece Material:polyester Imported Product Measurements (Measurements by inches) & Size Conversion Size Actual Length Actual Height One Size 7.9 3.9
+  Updated: 2025-10-27T00:17:20Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/d9a7c210-9bc5-4d13-9cc5-80c4fa2c11af-Max-Origin.webp?v=1761512830
+  - [Style A / One Size](https://glamorousboutique89.myshopify.com/products/cable-knit-contrast-christmas-stockings?variant=55327225839942)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/fa111ee9-e049-44a4-9717-618a85808ff4-Max-Origin.webp?v=1761512830
+    Price: £9.21 GBP
+  - [Style B / One Size](https://glamorousboutique89.myshopify.com/products/cable-knit-contrast-christmas-stockings?variant=55327225872710)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/6b0270ba-a2d2-4f21-811d-8e58d5580a8f-Max-Origin.webp?v=1761512830
+    Price: £9.21 GBP
+  - [Style C / One Size](https://glamorousboutique89.myshopify.com/products/cable-knit-contrast-christmas-stockings?variant=55327225905478)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/2d901bba-9e52-4785-9551-e562e62501d8-Max-Origin.webp?v=1761512830
+    Price: £9.21 GBP
+  - [Style D / One Size](https://glamorousboutique89.myshopify.com/products/cable-knit-contrast-christmas-stockings?variant=55327225938246)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/32277055-7463-4718-90f8-0c05bf643bf4-Max-Origin.webp?v=1761512830
+    Price: £9.21 GBP
+  - [Style E / One Size](https://glamorousboutique89.myshopify.com/products/cable-knit-contrast-christmas-stockings?variant=55327225971014)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/422e307d-d634-4db6-a9f7-3c4e898dd0d4-Max-Origin.webp?v=1761512830
+    Price: £9.21 GBP
+  - [Style F / One Size](https://glamorousboutique89.myshopify.com/products/cable-knit-contrast-christmas-stockings?variant=55327226003782)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/46d6411d-09fe-4129-bdb4-932566eecbae-Max-Origin.webp?v=1761512830
+    Price: £9.21 GBP
+  - [Style G / One Size](https://glamorousboutique89.myshopify.com/products/cable-knit-contrast-christmas-stockings?variant=55327226036550)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/bcc8a03a-00f5-4b99-8783-d59105146e03-Max-Origin.webp?v=1761512830
+    Price: £9.21 GBP
+  - [Style H / One Size](https://glamorousboutique89.myshopify.com/products/cable-knit-contrast-christmas-stockings?variant=55327226069318)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/478aa5e2-0457-4f89-89ce-1d6f716fd6b3-Max-Origin.webp?v=1761512830
+    Price: £9.21 GBP
+  - [Style I / One Size](https://glamorousboutique89.myshopify.com/products/cable-knit-contrast-christmas-stockings?variant=55327226102086)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/53f22182-eccf-4405-bc25-0a8e24e61441-Max-Origin.webp?v=1761512830
+    Price: £9.21 GBP
+  - [Style J / One Size](https://glamorousboutique89.myshopify.com/products/cable-knit-contrast-christmas-stockings?variant=55327226134854)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/03d657a4-10f2-40f2-af1b-d40709666035-Max-Origin.webp?v=1761512830
+    Price: £9.21 GBP
+  - [Style K / One Size](https://glamorousboutique89.myshopify.com/products/cable-knit-contrast-christmas-stockings?variant=55327226167622)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/5201f8cf-d40a-484e-9eba-47a4cacf5cbf-Max-Origin.webp?v=1761512830
+    Price: £9.21 GBP
+- [Christmas Velvet Bow Hanging Ornament](https://glamorousboutique89.myshopify.com/products/christmas-velvet-bow-hanging-ornament): Pieces:1-piece Material:Velvet Imported Product measurements: Style ALength 5.51 in, Weight 0.81 oz (23 g)Style BLength 9.84 in, Weight 2.54 oz (72g)Style CLength 12.99 in, Weight 4.52 oz (128 g)
+  Updated: 2025-10-27T00:17:20Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/acaa274e-7810-4045-b056-f07ea330ea85-Max-Origin.webp?v=1761512869
+  - [Style A / One Size](https://glamorousboutique89.myshopify.com/products/christmas-velvet-bow-hanging-ornament?variant=55327228133702)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/acaa274e-7810-4045-b056-f07ea330ea85-Max-Origin.webp?v=1761512869
+    Price: £8.39 GBP
+  - [Style B / One Size](https://glamorousboutique89.myshopify.com/products/christmas-velvet-bow-hanging-ornament?variant=55327228166470)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/e7f1e233-d6f6-4c71-a875-556fcc16c976-Max-Origin.webp?v=1761512871
+    Price: £9.44 GBP
+  - [Style C / One Size](https://glamorousboutique89.myshopify.com/products/christmas-velvet-bow-hanging-ornament?variant=55327228199238)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/044f286c-6fba-4fdd-9625-63b9442ff889-Max-Origin.webp?v=1761512870
+    Price: £9.98 GBP
+- [Christmas Snowman Decorative Ribbon](https://glamorousboutique89.myshopify.com/products/christmas-snowman-decorative-ribbon): Pieces:1-piece Material:Cloth Imported
+  Updated: 2025-10-27T00:17:21Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/75becfa8-fcdc-4382-9438-9af123188c9f-Max-Origin.webp?v=1761512893
+  - [Red / One Size](https://glamorousboutique89.myshopify.com/products/christmas-snowman-decorative-ribbon?variant=55327229280582)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/e1c1715b-a1e5-4f38-b8a9-e8c196017ad9-Max-Origin.webp?v=1761512893
+    Price: £8.88 GBP
+  - [Light Gray / One Size](https://glamorousboutique89.myshopify.com/products/christmas-snowman-decorative-ribbon?variant=55327229313350)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/a2374de7-c6be-43b6-8038-8ec693a53b0f-Max-Origin.webp?v=1761512892
+    Price: £8.88 GBP
+  - [Khaki / One Size](https://glamorousboutique89.myshopify.com/products/christmas-snowman-decorative-ribbon?variant=55327229346118)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/a3e2150b-ea8d-4205-b1f6-d93975ccf4d6-Max-Origin.webp?v=1761512892
+    Price: £8.88 GBP
+- [Christmas Element Round Neck Mini Sweater Dress](https://glamorousboutique89.myshopify.com/products/christmas-element-round-neck-mini-sweater-dress): Features: Basic style Stretch: Highly stretchy Material composition: 100% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S: bust 35.9 in, length 30 in, shoulder 14.8 in, sleeve length 21.5 inM: bust 37.4 in, length 30.4 in, shoulder 15.6 in, sleeve length 21.8 inL: bust 39 in, length 30.8 in, shoulder 16.4 in, sleeve length 22.2 inXL: bust 40.6 in, length 31.2 in, shoulder 17.2 in, sleeve length 22.6 in2XL: bust 42.1 in, length 31.6 in, shoulder 17.9 in, sleeve length 23 in
+  Updated: 2025-10-27T00:17:21Z
+  Vendor: Trendsi
+  Product Type: Christmas dresses
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/b32550fc548447faa9770f8d193fd671-Max.jpg?v=1761513081
+  - [Red / S](https://glamorousboutique89.myshopify.com/products/christmas-element-round-neck-mini-sweater-dress?variant=55327232000326)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/b32550fc548447faa9770f8d193fd671-Max.jpg?v=1761513081
+    Price: £21.79 GBP
+  - [Red / M](https://glamorousboutique89.myshopify.com/products/christmas-element-round-neck-mini-sweater-dress?variant=55327232033094)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/b32550fc548447faa9770f8d193fd671-Max.jpg?v=1761513081
+    Price: £21.79 GBP
+  - [Red / L](https://glamorousboutique89.myshopify.com/products/christmas-element-round-neck-mini-sweater-dress?variant=55327232065862)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/b32550fc548447faa9770f8d193fd671-Max.jpg?v=1761513081
+    Price: £21.79 GBP
+  - [Red / XL](https://glamorousboutique89.myshopify.com/products/christmas-element-round-neck-mini-sweater-dress?variant=55327232098630)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/b32550fc548447faa9770f8d193fd671-Max.jpg?v=1761513081
+    Price: £21.79 GBP
+  - [Red / 2XL](https://glamorousboutique89.myshopify.com/products/christmas-element-round-neck-mini-sweater-dress?variant=55327232131398)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/b32550fc548447faa9770f8d193fd671-Max.jpg?v=1761513081
+    Price: £21.79 GBP
+  - [Mid Green / S](https://glamorousboutique89.myshopify.com/products/christmas-element-round-neck-mini-sweater-dress?variant=55327232164166)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/92438ca813694a3b962f8b8c170d3c2c-Max.jpg?v=1761513080
+    Price: £21.79 GBP
+  - [Mid Green / M](https://glamorousboutique89.myshopify.com/products/christmas-element-round-neck-mini-sweater-dress?variant=55327232196934)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/92438ca813694a3b962f8b8c170d3c2c-Max.jpg?v=1761513080
+    Price: £21.79 GBP
+  - [Mid Green / L](https://glamorousboutique89.myshopify.com/products/christmas-element-round-neck-mini-sweater-dress?variant=55327232229702)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/92438ca813694a3b962f8b8c170d3c2c-Max.jpg?v=1761513080
+    Price: £21.79 GBP
+  - [Mid Green / XL](https://glamorousboutique89.myshopify.com/products/christmas-element-round-neck-mini-sweater-dress?variant=55327232262470)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/92438ca813694a3b962f8b8c170d3c2c-Max.jpg?v=1761513080
+    Price: £21.79 GBP
+  - [Mid Green / 2XL](https://glamorousboutique89.myshopify.com/products/christmas-element-round-neck-mini-sweater-dress?variant=55327232295238)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/92438ca813694a3b962f8b8c170d3c2c-Max.jpg?v=1761513080
+    Price: £21.79 GBP
+  - [Black / S](https://glamorousboutique89.myshopify.com/products/christmas-element-round-neck-mini-sweater-dress?variant=55327232328006)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/ca073f0d85b54e7e984398f6aefcd926-Max.jpg?v=1761513080
+    Price: £21.79 GBP
+  - [Black / M](https://glamorousboutique89.myshopify.com/products/christmas-element-round-neck-mini-sweater-dress?variant=55327232360774)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/ca073f0d85b54e7e984398f6aefcd926-Max.jpg?v=1761513080
+    Price: £21.79 GBP
+  - [Black / L](https://glamorousboutique89.myshopify.com/products/christmas-element-round-neck-mini-sweater-dress?variant=55327232393542)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/ca073f0d85b54e7e984398f6aefcd926-Max.jpg?v=1761513080
+    Price: £21.79 GBP
+  - [Black / XL](https://glamorousboutique89.myshopify.com/products/christmas-element-round-neck-mini-sweater-dress?variant=55327232426310)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/ca073f0d85b54e7e984398f6aefcd926-Max.jpg?v=1761513080
+    Price: £21.79 GBP
+  - [Black / 2XL](https://glamorousboutique89.myshopify.com/products/christmas-element-round-neck-mini-sweater-dress?variant=55327232459078)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/ca073f0d85b54e7e984398f6aefcd926-Max.jpg?v=1761513080
+    Price: £21.79 GBP
+- [V-Neck Flutter Sleeve Dress](https://glamorousboutique89.myshopify.com/products/v-neck-flutter-sleeve-dress): Features:Ruffled Stretch:Slightly stretchy Body:Lined Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Length Shoulder Bust Hip Sleeve Length Waist S 4 52.8 13.4 36.6 60.6 7.3 28.3 M 6/8 53.1 13.8 38.2 63.4 7.5 29.9 L 10/12 53.5 14.2 40.6 65.7 7.8 32.3 XL 14 53.9 14.6 42.9 68.1 8.1 34.6
+  Updated: 2025-10-27T00:17:21Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/cf3934f1846043129a9fa4c1c53e59e9-Max-Origin.webp?v=1761513250
+  - [Pink / S](https://glamorousboutique89.myshopify.com/products/v-neck-flutter-sleeve-dress?variant=55327235178822)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/cf3934f1846043129a9fa4c1c53e59e9-Max-Origin.webp?v=1761513250
+    Price: £45.63 GBP
+  - [Pink / M](https://glamorousboutique89.myshopify.com/products/v-neck-flutter-sleeve-dress?variant=55327235211590)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/cf3934f1846043129a9fa4c1c53e59e9-Max-Origin.webp?v=1761513250
+    Price: £45.63 GBP
+  - [Pink / L](https://glamorousboutique89.myshopify.com/products/v-neck-flutter-sleeve-dress?variant=55327235244358)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/cf3934f1846043129a9fa4c1c53e59e9-Max-Origin.webp?v=1761513250
+    Price: £45.63 GBP
+  - [Pink / XL](https://glamorousboutique89.myshopify.com/products/v-neck-flutter-sleeve-dress?variant=55327235277126)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/cf3934f1846043129a9fa4c1c53e59e9-Max-Origin.webp?v=1761513250
+    Price: £45.63 GBP
+- [Ghost & Bow Round Neck Long Sleeve Sweatshirt](https://glamorousboutique89.myshopify.com/products/ghost-bow-round-neck-long-sleeve-sweatshirt): Features: Basic style Sheer: Opaque Stretch: No stretch Material composition: 50% polyester, 50% cotton Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Bust Shoulder Sleeve Length Top Length S 4 40.6 21.9 20.3 25.4 M 6/8 42.5 22.8 20.5 26.2 L 10/12 44.5 23.8 20.7 27 XL 14/16 47.6 25.4 20.9 27.8
+  Updated: 2025-10-27T01:01:25Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/e30eaf6f-36b4-4aea-90c5-07cc566fcd68-Max.webp?v=1761513450
+  - [Blush Pink / S](https://glamorousboutique89.myshopify.com/products/ghost-bow-round-neck-long-sleeve-sweatshirt?variant=55327240913222)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/e30eaf6f-36b4-4aea-90c5-07cc566fcd68-Max.webp?v=1761513450
+    Price: £25.91 GBP
+  - [Blush Pink / M](https://glamorousboutique89.myshopify.com/products/ghost-bow-round-neck-long-sleeve-sweatshirt?variant=55327240945990)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/e30eaf6f-36b4-4aea-90c5-07cc566fcd68-Max.webp?v=1761513450
+    Price: £25.91 GBP
+  - [Blush Pink / L](https://glamorousboutique89.myshopify.com/products/ghost-bow-round-neck-long-sleeve-sweatshirt?variant=55327240978758)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/e30eaf6f-36b4-4aea-90c5-07cc566fcd68-Max.webp?v=1761513450
+    Price: £25.91 GBP
+  - [Blush Pink / XL](https://glamorousboutique89.myshopify.com/products/ghost-bow-round-neck-long-sleeve-sweatshirt?variant=55327241011526)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/e30eaf6f-36b4-4aea-90c5-07cc566fcd68-Max.webp?v=1761513450
+    Price: £25.91 GBP
+- [Lace-Trimmed Back V-Neck Sweater](https://glamorousboutique89.myshopify.com/products/lace-trimmed-back-v-neck-sweater): Features:Lace Detail Stretch:Slightly stretchy Material composition:95% acrylic, 5% spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 24.8 40.9 17.7 M 25.2 42.5 17.7 L 25.6 44.9 18.5
+  Updated: 2025-10-27T00:17:21Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/fbcd100a-59a9-4416-a893-a46ed9a7218e-Max-Origin.webp?v=1761522235
+  - [Gray / S](https://glamorousboutique89.myshopify.com/products/lace-trimmed-back-v-neck-sweater?variant=55327527338310)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/fbcd100a-59a9-4416-a893-a46ed9a7218e-Max-Origin.webp?v=1761522235
+    Price: £27.31 GBP
+  - [Gray / M](https://glamorousboutique89.myshopify.com/products/lace-trimmed-back-v-neck-sweater?variant=55327527371078)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/fbcd100a-59a9-4416-a893-a46ed9a7218e-Max-Origin.webp?v=1761522235
+    Price: £27.31 GBP
+  - [Gray / L](https://glamorousboutique89.myshopify.com/products/lace-trimmed-back-v-neck-sweater?variant=55327527403846)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/fbcd100a-59a9-4416-a893-a46ed9a7218e-Max-Origin.webp?v=1761522235
+    Price: £27.31 GBP
+  - [Royal Blue / S](https://glamorousboutique89.myshopify.com/products/lace-trimmed-back-v-neck-sweater?variant=55327527436614)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/d4481c24-49f5-4609-8b4c-80873c03e427-Max-Origin.webp?v=1761522235
+    Price: £27.31 GBP
+  - [Royal Blue / M](https://glamorousboutique89.myshopify.com/products/lace-trimmed-back-v-neck-sweater?variant=55327527469382)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/d4481c24-49f5-4609-8b4c-80873c03e427-Max-Origin.webp?v=1761522235
+    Price: £27.31 GBP
+  - [Royal Blue / L](https://glamorousboutique89.myshopify.com/products/lace-trimmed-back-v-neck-sweater?variant=55327527502150)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/d4481c24-49f5-4609-8b4c-80873c03e427-Max-Origin.webp?v=1761522235
+    Price: £27.31 GBP
+  - [Black / S](https://glamorousboutique89.myshopify.com/products/lace-trimmed-back-v-neck-sweater?variant=55327527534918)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/edbc75b3-caf8-4c63-8b4c-61b3dd211f34-Max-Origin.webp?v=1761522235
+    Price: £27.31 GBP
+  - [Black / M](https://glamorousboutique89.myshopify.com/products/lace-trimmed-back-v-neck-sweater?variant=55327527567686)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/edbc75b3-caf8-4c63-8b4c-61b3dd211f34-Max-Origin.webp?v=1761522235
+    Price: £27.31 GBP
+  - [Black / L](https://glamorousboutique89.myshopify.com/products/lace-trimmed-back-v-neck-sweater?variant=55327527600454)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/edbc75b3-caf8-4c63-8b4c-61b3dd211f34-Max-Origin.webp?v=1761522235
+    Price: £27.31 GBP
+- [Plaid Button-Down Long Sleeve Jacket](https://glamorousboutique89.myshopify.com/products/plaid-button-down-long-sleeve-jacket): Features:Buttoned,Pocketed Thickness:Normal Body:Not lined Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 28.9 41.3 19.7 M 29.5 43.3 19.9 L 30.1 45.3 20.1 XL 30.7 48 20.5 2XL 31.3 50.8 20.9
+  Updated: 2025-10-27T00:17:21Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/247968d38e764d7eb20988bda65d600e-Max-Origin.webp?v=1761522282
+  - [Grey / S](https://glamorousboutique89.myshopify.com/products/plaid-button-down-long-sleeve-jacket?variant=55327528452422)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/247968d38e764d7eb20988bda65d600e-Max-Origin.webp?v=1761522282
+    Price: £34.71 GBP
+  - [Grey / M](https://glamorousboutique89.myshopify.com/products/plaid-button-down-long-sleeve-jacket?variant=55327528485190)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/247968d38e764d7eb20988bda65d600e-Max-Origin.webp?v=1761522282
+    Price: £34.71 GBP
+  - [Grey / L](https://glamorousboutique89.myshopify.com/products/plaid-button-down-long-sleeve-jacket?variant=55327528517958)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/247968d38e764d7eb20988bda65d600e-Max-Origin.webp?v=1761522282
+    Price: £34.71 GBP
+  - [Grey / XL](https://glamorousboutique89.myshopify.com/products/plaid-button-down-long-sleeve-jacket?variant=55327528550726)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/247968d38e764d7eb20988bda65d600e-Max-Origin.webp?v=1761522282
+    Price: £34.71 GBP
+  - [Grey / 2XL](https://glamorousboutique89.myshopify.com/products/plaid-button-down-long-sleeve-jacket?variant=55327528583494)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/247968d38e764d7eb20988bda65d600e-Max-Origin.webp?v=1761522282
+    Price: £34.71 GBP
+  - [Khaki / S](https://glamorousboutique89.myshopify.com/products/plaid-button-down-long-sleeve-jacket?variant=55327528616262)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/ec40c300f5c243ff89a4f73489d5924a-Max-Origin.webp?v=1761522283
+    Price: £34.71 GBP
+  - [Khaki / M](https://glamorousboutique89.myshopify.com/products/plaid-button-down-long-sleeve-jacket?variant=55327528649030)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/ec40c300f5c243ff89a4f73489d5924a-Max-Origin.webp?v=1761522283
+    Price: £34.71 GBP
+  - [Khaki / L](https://glamorousboutique89.myshopify.com/products/plaid-button-down-long-sleeve-jacket?variant=55327528681798)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/ec40c300f5c243ff89a4f73489d5924a-Max-Origin.webp?v=1761522283
+    Price: £34.71 GBP
+  - [Khaki / XL](https://glamorousboutique89.myshopify.com/products/plaid-button-down-long-sleeve-jacket?variant=55327528714566)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/ec40c300f5c243ff89a4f73489d5924a-Max-Origin.webp?v=1761522283
+    Price: £34.71 GBP
+  - [Khaki / 2XL](https://glamorousboutique89.myshopify.com/products/plaid-button-down-long-sleeve-jacket?variant=55327528747334)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/ec40c300f5c243ff89a4f73489d5924a-Max-Origin.webp?v=1761522283
+    Price: £34.71 GBP
+  - [Black / S](https://glamorousboutique89.myshopify.com/products/plaid-button-down-long-sleeve-jacket?variant=55327528780102)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/3d60bd5011564954bc91d0490a3095b9-Max-Origin.webp?v=1761522283
+    Price: £34.71 GBP
+  - [Black / M](https://glamorousboutique89.myshopify.com/products/plaid-button-down-long-sleeve-jacket?variant=55327528812870)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/3d60bd5011564954bc91d0490a3095b9-Max-Origin.webp?v=1761522283
+    Price: £34.71 GBP
+  - [Black / L](https://glamorousboutique89.myshopify.com/products/plaid-button-down-long-sleeve-jacket?variant=55327528845638)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/3d60bd5011564954bc91d0490a3095b9-Max-Origin.webp?v=1761522283
+    Price: £34.71 GBP
+  - [Black / XL](https://glamorousboutique89.myshopify.com/products/plaid-button-down-long-sleeve-jacket?variant=55327528878406)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/3d60bd5011564954bc91d0490a3095b9-Max-Origin.webp?v=1761522283
+    Price: £34.71 GBP
+  - [Black / 2XL](https://glamorousboutique89.myshopify.com/products/plaid-button-down-long-sleeve-jacket?variant=55327528911174)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/3d60bd5011564954bc91d0490a3095b9-Max-Origin.webp?v=1761522283
+    Price: £34.71 GBP
+  - [Navy Blue / S](https://glamorousboutique89.myshopify.com/products/plaid-button-down-long-sleeve-jacket?variant=55327528943942)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/f2d3dd8c5e7040cb8a4d80df6bcfc35a-Max-Origin.webp?v=1761522283
+    Price: £34.71 GBP
+  - [Navy Blue / M](https://glamorousboutique89.myshopify.com/products/plaid-button-down-long-sleeve-jacket?variant=55327528976710)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/f2d3dd8c5e7040cb8a4d80df6bcfc35a-Max-Origin.webp?v=1761522283
+    Price: £34.71 GBP
+  - [Navy Blue / L](https://glamorousboutique89.myshopify.com/products/plaid-button-down-long-sleeve-jacket?variant=55327529009478)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/f2d3dd8c5e7040cb8a4d80df6bcfc35a-Max-Origin.webp?v=1761522283
+    Price: £34.71 GBP
+  - [Navy Blue / XL](https://glamorousboutique89.myshopify.com/products/plaid-button-down-long-sleeve-jacket?variant=55327529042246)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/f2d3dd8c5e7040cb8a4d80df6bcfc35a-Max-Origin.webp?v=1761522283
+    Price: £34.71 GBP
+  - [Navy Blue / 2XL](https://glamorousboutique89.myshopify.com/products/plaid-button-down-long-sleeve-jacket?variant=55327529075014)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/f2d3dd8c5e7040cb8a4d80df6bcfc35a-Max-Origin.webp?v=1761522283
+    Price: £34.71 GBP
+  - [Green / S](https://glamorousboutique89.myshopify.com/products/plaid-button-down-long-sleeve-jacket?variant=55327529107782)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/c897ef83a84245fdb956198be8ceedaf-Max-Origin.webp?v=1761522283
+    Price: £34.71 GBP
+  - [Green / M](https://glamorousboutique89.myshopify.com/products/plaid-button-down-long-sleeve-jacket?variant=55327529140550)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/c897ef83a84245fdb956198be8ceedaf-Max-Origin.webp?v=1761522283
+    Price: £34.71 GBP
+  - [Green / L](https://glamorousboutique89.myshopify.com/products/plaid-button-down-long-sleeve-jacket?variant=55327529173318)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/c897ef83a84245fdb956198be8ceedaf-Max-Origin.webp?v=1761522283
+    Price: £34.71 GBP
+  - [Green / XL](https://glamorousboutique89.myshopify.com/products/plaid-button-down-long-sleeve-jacket?variant=55327529206086)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/c897ef83a84245fdb956198be8ceedaf-Max-Origin.webp?v=1761522283
+    Price: £34.71 GBP
+  - [Green / 2XL](https://glamorousboutique89.myshopify.com/products/plaid-button-down-long-sleeve-jacket?variant=55327529238854)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/c897ef83a84245fdb956198be8ceedaf-Max-Origin.webp?v=1761522283
+    Price: £34.71 GBP
+- [Zip Up Hoodie and Drawstring Shorts 2pcs Outfit](https://glamorousboutique89.myshopify.com/products/zip-up-hoodie-and-drawstring-shorts-2pcs-outfit): Features:Drawstring,Zipper Number of pieces:Two-piece Stretch:Slightly stretchy Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Top Length Bust Bottom Length S 26 20.1 40.2 14.2 M 28.3 20.9 42.5 14.6 L 30.7 21.7 44.9 15 XL 33.9 22.4 48 15.4
+  Updated: 2025-10-27T00:17:21Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/a20be15e-b810-4a40-95f0-2ec64d01ce3f-Max-Origin.webp?v=1761522361
+  - [Camel / S](https://glamorousboutique89.myshopify.com/products/zip-up-hoodie-and-drawstring-shorts-2pcs-outfit?variant=55327529861446)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/a20be15e-b810-4a40-95f0-2ec64d01ce3f-Max-Origin.webp?v=1761522361
+    Price: £43.29 GBP
+  - [Camel / M](https://glamorousboutique89.myshopify.com/products/zip-up-hoodie-and-drawstring-shorts-2pcs-outfit?variant=55327529894214)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/a20be15e-b810-4a40-95f0-2ec64d01ce3f-Max-Origin.webp?v=1761522361
+    Price: £43.29 GBP
+  - [Camel / L](https://glamorousboutique89.myshopify.com/products/zip-up-hoodie-and-drawstring-shorts-2pcs-outfit?variant=55327529926982)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/a20be15e-b810-4a40-95f0-2ec64d01ce3f-Max-Origin.webp?v=1761522361
+    Price: £43.29 GBP
+  - [Camel / XL](https://glamorousboutique89.myshopify.com/products/zip-up-hoodie-and-drawstring-shorts-2pcs-outfit?variant=55327529959750)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/a20be15e-b810-4a40-95f0-2ec64d01ce3f-Max-Origin.webp?v=1761522361
+    Price: £43.29 GBP
+- [Christmas Santa Print Mesh Long Sleeve Top](https://glamorousboutique89.myshopify.com/products/christmas-santa-print-mesh-long-sleeve-top): Features:Mesh Stretch:Slightly stretchy Material composition:95% polyester, 5% elastane Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 24.4 31.5 24 M 25.2 33.9 24.4 L 26 36.2 24.8 XL 26.8 39.4 25.2
+  Updated: 2025-10-27T03:20:51Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/87d8451e-b701-451f-be4d-ef3b662afcd5-Max-Origin.webp?v=1761522388
+  - [Black / S](https://glamorousboutique89.myshopify.com/products/christmas-santa-print-mesh-long-sleeve-top?variant=55327530385734)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/87d8451e-b701-451f-be4d-ef3b662afcd5-Max-Origin.webp?v=1761522388
+    Price: £12.66 GBP
+  - [Black / M](https://glamorousboutique89.myshopify.com/products/christmas-santa-print-mesh-long-sleeve-top?variant=55327530418502)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/87d8451e-b701-451f-be4d-ef3b662afcd5-Max-Origin.webp?v=1761522388
+    Price: £12.66 GBP
+  - [Black / L](https://glamorousboutique89.myshopify.com/products/christmas-santa-print-mesh-long-sleeve-top?variant=55327530451270)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/87d8451e-b701-451f-be4d-ef3b662afcd5-Max-Origin.webp?v=1761522388
+    Price: £12.66 GBP
+  - [Black / XL](https://glamorousboutique89.myshopify.com/products/christmas-santa-print-mesh-long-sleeve-top?variant=55327530484038)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/87d8451e-b701-451f-be4d-ef3b662afcd5-Max-Origin.webp?v=1761522388
+    Price: £12.66 GBP
 
 ## Collections
 
 - [Home page](https://glamorousboutique89.myshopify.com/collections/frontpage)
-  Updated: 2025-10-26T00:54:18Z
-  Total Products: 2
+  Updated: 2025-10-27T00:17:01Z
+  Total Products: 3
 - [Woman](https://glamorousboutique89.myshopify.com/collections/woman)
-  Updated: 2025-10-26T00:54:18Z
-  Total Products: 29
+  Updated: 2025-10-27T00:17:01Z
+  Total Products: 32
 - [Shoes](https://glamorousboutique89.myshopify.com/collections/shoes)
-  Updated: 2025-10-26T00:54:18Z
+  Updated: 2025-10-27T00:17:02Z
   Total Products: 20
 - [Men’s](https://glamorousboutique89.myshopify.com/collections/men-s)
-  Updated: 2025-10-26T00:54:18Z
+  Updated: 2025-10-27T00:17:02Z
   Total Products: 18
 - [Kids](https://glamorousboutique89.myshopify.com/collections/kids)
-  Updated: 2025-10-26T00:54:18Z
-  Total Products: 6
-- [Lounge sets](https://glamorousboutique89.myshopify.com/collections/lounge-sets)
-  Updated: 2025-10-26T00:54:18Z
-  Total Products: 0
-- [Accessories](https://glamorousboutique89.myshopify.com/collections/accessories)
-  Updated: 2025-10-26T00:54:18Z
+  Updated: 2025-10-27T00:17:02Z
   Total Products: 21
+- [Lounge sets](https://glamorousboutique89.myshopify.com/collections/lounge-sets)
+  Updated: 2025-10-27T00:17:02Z
+  Total Products: 1
+- [Accessories](https://glamorousboutique89.myshopify.com/collections/accessories)
+  Updated: 2025-10-27T00:17:02Z
+  Total Products: 21
+- [Christmas Shop](https://glamorousboutique89.myshopify.com/collections/christmas-shop): Get into the festive spirit with our Christmas collection! From cozy Christmas sweatshirts and sparkling sequin sets to festive jewelry and accessories, find everything you need to celebrate the season in style."
+  Updated: 2025-10-27T00:17:02Z
+  Total Products: 20
+- [Winter Essentials](https://glamorousboutique89.myshopify.com/collections/winter-essentials)
+  Updated: 2025-10-27T00:17:02Z
+  Total Products: 22
 
 ## Store Pages
 
-- [Contact](https://glamorousboutique89.myshopify.com/pages/contact)
-  Updated: 2025-10-23T14:12:36Z
-- [About Us](https://glamorousboutique89.myshopify.com/pages/about-us)
-  Updated: 2025-10-23T14:19:35Z
-- [FAQs](https://glamorousboutique89.myshopify.com/pages/faqs)
-  Updated: 2025-10-23T14:19:35Z
-- [Return Policy](https://glamorousboutique89.myshopify.com/pages/return-policy)
-  Updated: 2025-10-23T14:19:36Z
-- [Shipping Policy](https://glamorousboutique89.myshopify.com/pages/shipping-policy)
-  Updated: 2025-10-23T14:19:36Z
-- [Terms and Conditions](https://glamorousboutique89.myshopify.com/pages/terms-and-conditions)
-  Updated: 2025-10-23T14:19:36Z
-- [Track Order](https://glamorousboutique89.myshopify.com/pages/track-order)
-  Updated: 2025-10-23T14:19:37Z
+- [Contact](https://glamorousboutique89.myshopify.com/pages/contact): Get In Touch We'd love to hear from you! Whether you have a question about our products, need styling advice, or just want to say hello, our team i...
+  Updated: 2025-10-26T23:02:13Z
+- [About Us](https://glamorousboutique89.myshopify.com/pages/about-us): Welcome to Glamorous Boutique At Glamorous Boutique, we believe that fashion is more than just clothing—it's a form of self-expression, confidence,...
+  Updated: 2025-10-26T22:59:36Z
+- [FAQs](https://glamorousboutique89.myshopify.com/pages/faqs): Frequently Asked Questions Find answers to the most common questions about shopping with Glamorous Boutique. General Questions What is Glamorous Bo...
+  Updated: 2025-10-26T23:08:58Z
+- [Return Policy](https://glamorousboutique89.myshopify.com/pages/return-policy): Return Policy We want you to love your purchase from Glamorous Boutique! If you're not completely satisfied, we're happy to help with returns and e...
+  Updated: 2025-10-26T23:07:25Z
+- [Shipping Policy](https://glamorousboutique89.myshopify.com/pages/shipping-policy): Shipping Policy At Glamorous Boutique, we're committed to getting your order to you quickly and safely. Please review our shipping policy below. Pr...
+  Updated: 2025-10-26T23:06:31Z
+- [Terms and Conditions](https://glamorousboutique89.myshopify.com/pages/terms-and-conditions): Welcome to Glamorous Boutique. By accessing and using our website and purchasing our products, you agree to be bound by these Terms and Conditions....
+  Updated: 2025-10-26T22:49:43Z
+- [Track Order](https://glamorousboutique89.myshopify.com/pages/track-order): Track Your Order Thank you for shopping with Glamorous Boutique! We're excited to get your order to you as quickly as possible. How to Track Your O...
+  Updated: 2025-10-26T23:03:47Z
+- [Help Center](https://glamorousboutique89.myshopify.com/pages/md-help-center): Help Centre Welcome to the Glamorous Boutique Help Centre! We're here to make your shopping experience as smooth as possible. Find answers to commo...
+  Updated: 2025-10-26T23:05:00Z
 
 ## Policies
 
 - [Privacy Policy](https://glamorousboutique89.myshopify.com/policies/privacy-policy)
   Updated: 2025-10-23T15:12:43+01:00
+- [Shipping Policy](https://glamorousboutique89.myshopify.com/policies/shipping-policy)
+  Updated: 2025-10-26T21:51:40+00:00
+- [Refund Policy](https://glamorousboutique89.myshopify.com/policies/refund-policy)
+  Updated: 2025-10-26T21:47:22+00:00
+- [Terms of Service](https://glamorousboutique89.myshopify.com/policies/terms-of-service)
+  Updated: 2025-10-26T21:48:28+00:00
+- [Contact Information](https://glamorousboutique89.myshopify.com/policies/contact-information)
+  Updated: 2025-10-26T21:48:58+00:00
 
 ## Optional
 
