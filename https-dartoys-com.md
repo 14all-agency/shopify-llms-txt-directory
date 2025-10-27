@@ -6,7 +6,7 @@
 - Timezone: Asia/Kuwait
 - Created At: 2025-09-29T02:15:58Z
 - Contact Email: elitebuzkw@gmail.com
-- Updated At: 2025-10-27T12:01:00.450Z
+- Updated At: 2025-10-27T20:00:41.263Z
 
 ## Products
 
@@ -637,12 +637,12 @@
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/4_4-_-_-My-Store-78457664.webp?v=1761109479
   Price: ‏36.90 د.ك.‏ KWD
 - [مجموعة تسلق 4 في 1 للأطفال - Dar Toys || متجر دار تويز للألعاب - توصيل](https://dartoys.com/products/مجموعة-تسلق-4-في-1-للأطفال): امنح طفلك تجربة لعب متكاملة مع مجموعة التسلق 4 في 1 المصممة لتوفير الترفيه والتعليم معًا. تتضمن  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-26T19:00:11Z
+  Updated: 2025-10-27T15:44:17Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/4-_-1-_-My-Store-78460787.jpg?v=1761109482
-  Price: ‏32.00 د.ك.‏ KWD
+  Price: ‏36.90 د.ك.‏ KWD
 - [سيارة حفار كهربائية للأطفال 12 فولت قابلة للشحن - Dar Toys || متجر دار](https://dartoys.com/products/سيارة-حفار-كهربائية-للأطفال-12-فولت-قابلة-للشحن): امنح طفلك تجربة قيادة ممتعة مع سيارة الحفار الكهربائية القابلة للشحن 12 فولت. تأتي هذه السيارة  - Dar Toys || متجر دار تويز للألعاب
   Updated: 2025-10-23T05:41:07Z
   Vendor: My Store
@@ -1852,12 +1852,12 @@
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-79121730.jpg?v=1761109969
   Price: ‏960.00 د.ك.‏ KWD
 - [ديرفة ماليزية بخمسة مقاعد وزحلاقية بلاستيكية للأطفال والكبار - Dar](https://dartoys.com/products/ديرفة-ماليزية-بخمسة-مقاعد-وزحلاقية-بلاستيكية-للأطفال-والكبار): استمتع بتجربة لعب آمنة وممتعة مع الديرفة الماليزية المصممة بخمسة مقاعد بلاستيكية مريحة وزحلاقية قوية  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-23T05:41:39Z
+  Updated: 2025-10-27T15:28:54Z
   Vendor: My Store
   Product Type: Kids Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-79122760.jpg?v=1761109969
-  Price: ‏110.00 د.ك.‏ KWD
+  Price: ‏115.00 د.ك.‏ KWD
 - [ديرفة حديد بمقعدين للأطفال للاستخدام الخارجي - Dar Toys || متجر دار](https://dartoys.com/products/ديرفة-حديد-بمقعدين-للأطفال-للاستخدام-الخارجي): استمتع بوقت اللعب في الهواء الطلق مع ديرفة الحديد ذات المقعدين المصممة لتمنح الأطفال تجربة لعب آمنة  - Dar Toys || متجر دار تويز للألعاب
   Updated: 2025-10-23T05:41:39Z
   Vendor: My Store
@@ -2265,13 +2265,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-131965812.jpg?v=1761110098
   Price: ‏35.00 د.ك.‏ KWD
-- [ميزان أسباني للأطفال للتوازن والمرح - Dar Toys || متجر دار تويز](https://dartoys.com/products/ميزان-أسباني-للأطفال-للتوازن-والمرح): امنح طفلك تجربة لعب مميزة مع الميزان الأسباني المصمم خصيصًا لتشجيع الحركة والتوازن بطريقة آمنة  - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-24T04:07:31Z
-  Vendor: My Store
-  Product Type: Kids Toys
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0673/4371/2371/files/My-Store-131958635.jpg?v=1761110103
-  Price: ‏59.90 د.ك.‏ KWD
 - [قلعة الأميرات للأطفال مع تصميم خيالي رائع - Dar Toys || متجر دار تويز](https://dartoys.com/products/قلعة-الأميرات-للأطفال-مع-تصميم-خيالي-رائع): امنح صغيرتك تجربة خيالية لا تُنسى مع قلعة الأميرات الساحرة! تتميز هذه القلعة بتصميم جميل وألوان  - Dar Toys || متجر دار تويز للألعاب
   Updated: 2025-10-23T05:41:47Z
   Vendor: My Store
@@ -4275,22 +4268,22 @@
 ## Collections
 
 - [أثاث الأطفال - تشكيلات مميزة وراحة لا مثيل لها](https://dartoys.com/collections/مجموعة-أثاث-الأطفال-والرضع): اكتشف تشكيلات أثاث الأطفال والرضع المريحة والآمنة. تصميمات رائعة تناسب كل الأذواق.
-  Updated: 2025-10-27T11:17:16Z
+  Updated: 2025-10-27T17:07:37Z
   Total Products: 113
 - [العاب ومستلزمات الحضانات والمدارس - Dar Toys || متجر دار تويز للألعاب](https://dartoys.com/collections/العاب-ومستلزمات-الحضانات-والمدارس): - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-27T11:17:16Z
+  Updated: 2025-10-27T15:44:18Z
   Total Products: 89
 - [العاب الاطفال الرضع - Dar Toys || متجر دار تويز للألعاب](https://dartoys.com/collections/العاب-الاطفال-الرضع): - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-27T11:17:16Z
+  Updated: 2025-10-27T17:07:37Z
   Total Products: 57
 - [الألعاب الرياضية وكرة القدم || توصيل مجاني داخل الكويت - Dar Toys ||](https://dartoys.com/collections/الألعاب-الرياضية-وكرة-القدم-توصيل-مجاني-داخل-الكويت): - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-27T11:17:16Z
+  Updated: 2025-10-27T15:44:18Z
   Total Products: 39
 - [ألعاب النشاط - Dar Toys || متجر دار تويز للألعاب](https://dartoys.com/collections/ألعاب-النشاط): - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-27T11:17:16Z
+  Updated: 2025-10-27T17:07:37Z
   Total Products: 228
 - [ألعاب خارجية - أفضل معدات اللعب](https://dartoys.com/collections/معدات-اللعب-الخارجية): اكتشف تشكيلة متنوعة من الألعاب الخارجية الممتعة والمناسبة للأطفال. استمتع باللعب في الهواء الطلق مع معدات عالية الجودة.
-  Updated: 2025-10-26T11:20:19Z
+  Updated: 2025-10-27T15:28:55Z
   Total Products: 298
 - [أفضل ألعاب أطفال في متجر دار تويز](https://dartoys.com/collections/عروض-متجر-دار-تويز): اكتشف مجموعة مدهشة من ألعاب الأطفال بأسعار تنافسية في متجر دار تويز. تسوق الآن لتحصل على أفضل العروض!
   Updated: 2025-10-26T11:20:19Z
@@ -4317,16 +4310,16 @@
   Updated: 2025-10-25T01:31:50Z
   Total Products: 6
 - [أفضل المنتجات مبيعا | اكتشف الخيارات المميزة](https://dartoys.com/collections/best-selling-products): استعرض قائمة أفضل المنتجات مبيعا التي تلبي احتياجاتك. اكتشف المزيد عن خيارات الشراء المميزة.
-  Updated: 2025-10-27T11:17:16Z
-  Total Products: 481
+  Updated: 2025-10-27T17:07:37Z
+  Total Products: 482
 - [أحدث المنتجات الجديدة في السوق](https://dartoys.com/collections/newest-products): استكشف أحدث المنتجات المتوفرة في السوق. تجد هنا المعلومات المفيدة حول التكنولوجيا والموضة وغيرها.
-  Updated: 2025-10-27T11:17:16Z
-  Total Products: 481
+  Updated: 2025-10-27T17:07:37Z
+  Total Products: 482
 - [استمتع مع نطاطيات وزحلاقيات مدهشة](https://dartoys.com/collections/نطاطيات-وزحلاقيات): اكتشف عالم النطاطيات والزحلاقيات المليء بالمرح والمغامرة. استمتع بتجربة لا تُنسى.
-  Updated: 2025-10-27T11:17:16Z
+  Updated: 2025-10-27T15:44:18Z
   Total Products: 43
 - [ديارف - Dar Toys || متجر دار تويز للألعاب](https://dartoys.com/collections/ديارف): - Dar Toys || متجر دار تويز للألعاب
-  Updated: 2025-10-27T11:17:16Z
+  Updated: 2025-10-27T15:28:55Z
   Total Products: 22
 
 ## Blogs
