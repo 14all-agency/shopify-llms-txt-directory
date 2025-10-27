@@ -5,7 +5,7 @@
 - Currency: GBP
 - Timezone: Europe/London
 - Created At: 2025-10-23T14:12:32Z
-- Updated At: 2025-10-27T12:00:57.946Z
+- Updated At: 2025-10-27T16:00:43.587Z
 
 ## Products
 
@@ -1643,7 +1643,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/0f2c72ba89f443a59f26669a30d18631-Max-Origin.webp?v=1761344718
     Price: £23.63 GBP
 - [Merry Colorful Dot Detail Christmas Dolman Sweater](https://glamorousboutique89.myshopify.com/products/merry-colorful-dot-detail-christmas-dolman-sweater): Festive Fun Meets Cozy Comfort – The Christmas Sweater You'll Love!Spread holiday cheer with the Merry Colorful Dot Detail Christmas Dolman Sweater. Featuring playful colorful dots and a relaxed dolman sleeve design, this festive jumper is perfect for celebrating the season in style and comfort.Why This Christmas Sweater is a Must-Have:🎄 Festive Colorful Dot Design: Eye-catching multicolored dots add a cheerful, playful touch to your holiday wardrobe.✨ Relaxed Dolman Sleeves: Trendy, loose-fitting sleeves create a comfortable, flattering silhouette that's perfect for all-day wear.🎅 Soft, Cozy Fabric: Made from 55% acrylic and 45% cotton for warmth and breathability during the festive season.💫 Slightly Stretchy: Comfortable fit that moves with you, whether you're hosting or attending holiday gatherings.🧺 Easy Care: Machine washable – wash cold and tumble dry low for simple maintenance.🎁 Perfect for the Holidays: Ideal for Christmas parties, family gatherings, festive photos, or cozy nights by the fire.Perfect For: Christmas parties and holiday celebrations Family gatherings and festive dinners Ugly Christmas sweater contests (but make it cute!) Festive photo opportunities Cozy winter days at home Styling Ideas:👖 Casual Festive: Pair with jeans and ankle boots🎀 Dressed Up: Style with a skirt and tights for holiday parties🧣 Cozy Layers: Add a scarf and your favourite winter coatMake this Christmas extra special! This cheerful sweater brings festive fun and cozy comfort together. Add to basket now and get ready to celebrate in style!Product Details: Material: 55% acrylic, 45% cotton Stretch: Slightly stretchy Care: Machine wash cold, tumble dry low Features: Colorful dot design, dolman sleeves, festive style Size Guide (Measurements in inches): Size Top Length Bust Sleeve Length S 24.4 41.7 18.5 M 25.2 44.1 18.5 L 26 46.5 18.5 XL 26.8 49.6 18.5
-  Updated: 2025-10-27T12:00:37Z
+  Updated: 2025-10-27T12:40:36Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1811,7 +1811,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/dde4ed5b66da499bad2bb4944e8c4332-Max-Origin.webp?v=1761345613
     Price: £24.33 GBP
 - [Camo Print Leopard Trim Button Up Jacket](https://glamorousboutique89.myshopify.com/products/camo-print-leopard-trim-button-up-jacket): Wild Meets Edgy – The Statement Jacket That Turns Heads!Make a bold fashion statement with the Camo Print Leopard Trim Button Up Jacket. Combining trendy camouflage with fierce leopard print trim, this unique jacket is perfect for those who love to stand out from the crowd.Why This Jacket is a Must-Have:🐆 Bold Print Combination: Eye-catching camo print with leopard trim creates a unique, fashion-forward look.🔘 Classic Button-Up Front: Traditional button closure for versatile styling options.👜 Functional Pockets: Convenient side pockets for carrying essentials or keeping hands warm.✨ Premium Cotton Blend: Made from 95% cotton and 5% elastane for comfort with a hint of stretch.🌡️ Perfect Weight: Normal thickness – ideal for layering during transitional seasons.🧺 Easy Care: Machine washable – wash cold and tumble dry low for hassle-free maintenance.💫 Versatile Styling: Dress it up or down for any occasion.Perfect For: Casual weekend outings Music festivals and concerts Adding edge to everyday looks Autumn and spring layering Making a fashion statement Styling Ideas:👖 Casual Cool: Pair with black jeans and ankle boots👗 Unexpected Mix: Layer over a feminine dress for contrast👟 Street Style: Style with leggings and trainers for an edgy athleisure lookStand out in style! This bold jacket combines two iconic prints for a look that's uniquely you. Add to basket now and unleash your wild side!Product Details: Material: 95% cotton, 5% elastane Thickness: Normal weight Lining: Not lined Care: Machine wash cold, tumble dry low Features: Camo print, leopard trim, button-up front, pockets Size Guide (Measurements in inches): Size Top Length Bust Sleeve Length S 23.6 41.7 19.5 M 24.4 44.1 19.7 L 25.2 46.5 19.9 XL 26 49.6 19.9
-  Updated: 2025-10-27T07:24:54Z
+  Updated: 2025-10-27T15:01:25Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -3385,7 +3385,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/402a5a42f96e40ee80a82e658775fc0b-Max-Origin.webp?v=1761347580
     Price: £26.51 GBP
 - [MERRY Round Neck Christmas Sweatshirt](https://glamorousboutique89.myshopify.com/products/merry-round-neck-christmas-sweatshirt): Spread Christmas Cheer – The Festive Sweatshirt You'll Love!Get into the holiday spirit with the MERRY Round Neck Christmas Sweatshirt. Featuring cheerful 'MERRY' lettering and a comfortable, relaxed fit, this festive sweatshirt is perfect for celebrating the season in style and comfort.Why You'll Love This Christmas Sweatshirt:🎄 Festive MERRY Graphic: Eye-catching holiday lettering that spreads Christmas cheer wherever you go.👕 Classic Round Neckline: Timeless crew neck design that's comfortable and versatile.💫 Slightly Stretchy Fabric: Made from 75% polyester, 20% viscose, and 5% elastane for comfort and flexibility.✨ Ribbed Texture: Classic ribbed detailing adds visual interest and a quality feel.🧺 Easy Care: Machine washable – wash cold and tumble dry low for simple maintenance.🎁 Perfect for the Holidays: Ideal for Christmas parties, family gatherings, festive photos, or cozy winter days.Perfect For: Christmas parties and holiday celebrations Family gatherings and festive dinners Casual holiday outings Festive photo opportunities Cozy winter days at home Styling Ideas:👖 Casual Festive: Pair with jeans and ankle boots🎀 Cozy Layers: Style with leggings and fuzzy slippers🧣 Winter Ready: Add a scarf and your favourite winter coatMake this Christmas extra merry! This festive sweatshirt brings holiday cheer and cozy comfort together. Add to basket now!Product Details: Material: 75% polyester, 20% viscose, 5% elastane Stretch: Slightly stretchy Care: Machine wash cold, tumble dry low Features: MERRY graphic, round neck, ribbed texture Size Guide (Measurements in inches): Size Top Length Bust Sleeve Length S 25.2 39.4 20.3 M 26 41.7 20.5 L 26.8 44.1 20.7 XL 27.6 47.2 20.7
-  Updated: 2025-10-27T08:51:21Z
+  Updated: 2025-10-27T12:20:37Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -3627,7 +3627,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/546db321-09b2-4366-845a-9705df2a96cd-Max-Origin.webp?v=1761347671
     Price: £23.64 GBP
 - [Twisted Ribbed Christmas Sequin Patched Top and Shorts Set](https://glamorousboutique89.myshopify.com/products/twisted-ribbed-christmas-sequin-patched-top-and-shorts-set): Sparkle and Shine This Christmas – The Festive Set You'll Love!Celebrate the holidays in style with the Twisted Ribbed Christmas Sequin Patched Top and Shorts Set. Featuring eye-catching sequin details and a comfortable ribbed texture, this festive two-piece set is perfect for Christmas parties and holiday gatherings.Why You'll Love This Christmas Set:✨ Festive Sequin Details: Sparkling sequin patches add holiday glamour and festive cheer.🎄 Twisted Ribbed Design: Trendy twisted detailing and ribbed texture create a flattering, modern look.👕 Two-Piece Versatility: Coordinated top and shorts can be worn together or mixed with other pieces.🎀 Adjustable Drawstring: Comfortable drawstring waist on shorts for a perfect, customizable fit.💫 Slightly Stretchy Fabric: Made from 75% polyester, 20% viscose, and 5% elastane for comfort and flexibility.🧺 Easy Care: Machine washable – wash cold and tumble dry low for simple maintenance.Perfect For: Christmas parties and celebrations Holiday gatherings with family and friends Festive photo opportunities New Year's Eve celebrations Making a statement at holiday events Styling Ideas:👠 Party Ready: Add heels and statement earrings🧥 Layered Glam: Throw on a blazer for extra polish👟 Casual Festive: Style with trainers for a relaxed holiday lookSparkle through the holidays! This festive set brings glamour and comfort together. Add to basket now!Product Details: Material: 75% polyester, 20% viscose, 5% elastane Stretch: Slightly stretchy Care: Machine wash cold, tumble dry low Features: Sequin patches, twisted ribbed design, drawstring, two-piece set Number of pieces: 2 (top and shorts) Size Guide (Measurements in inches): Size Waist Top Length Bust Bottom Length Sleeve Length S 24.8 24.8 43.7 12.8 21.2 M 27.2 25.6 46.1 13.2 21.3 L 29.5 26.4 48.4 13.6 21.3 XL 32.7 27.2 51.6 14 21.4 2XL 35.8 28 54.7 14.4 21.5
-  Updated: 2025-10-27T08:34:01Z
+  Updated: 2025-10-27T14:40:45Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -3719,7 +3719,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/41399f2d43d84a6f9eade94edb97968b-Max-Origin.webp?v=1761347712
     Price: £35.37 GBP
 - [Full Size Hooded Button-Front Soft Knit Cardigan Plus Size](https://glamorousboutique89.myshopify.com/products/full-size-hooded-button-front-soft-knit-cardigan-plus-size): Soft, Cozy, and Effortlessly Chic – The Hooded Cardigan You Need!Wrap yourself in comfort with the Full Size Hooded Button-Front Soft Knit Cardigan Plus Size. Featuring a cozy hood and soft knit fabric, this versatile cardigan is perfect for adding warmth and style to any outfit.Why You'll Love This Cardigan:🧶 Ultra-Soft Knit Fabric: Luxuriously soft material that feels amazing against your skin.👘 Hooded Design: Cozy hood adds extra warmth and a relaxed, casual vibe.🔘 Button-Front Closure: Classic button design allows for versatile styling options.👜 Functional Pockets: Convenient side pockets for carrying essentials or keeping hands warm.💫 Slightly Stretchy: Made from 95% acrylic and 5% spandex for comfort and flexibility.🧺 Easy Care: Machine washable – wash cold and tumble dry low for simple maintenance.💖 Inclusive Sizing: Available in sizes S to 5XL.Perfect For: Cozy days at home Casual weekend outings Layering during cooler months Running errands in comfort Relaxed, effortless style Styling Ideas:👖 Casual Comfort: Pair with jeans and ankle boots👗 Layered Look: Wear over a dress with tights🧣 Cozy Vibes: Style with leggings and a jumperStay cozy in style! This soft hooded cardigan is the perfect addition to your wardrobe. Add to basket now!Product Details: Material: 95% acrylic, 5% spandex Stretch: Slightly stretchy Care: Machine wash cold, tumble dry low Features: Hooded, button-front, pockets, soft knit Size Guide (Measurements in inches): Size Top Length Bust S 23.6 42.5 M 24 44.5 L 24.4 46.5 XL 24.8 48.4 2XL 25.2 50.4 3XL 25.6 52.4 4XL 26 54.3 5XL 26.4 56.3
-  Updated: 2025-10-27T08:18:40Z
+  Updated: 2025-10-27T13:40:16Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -4573,7 +4573,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/5901cd84-6eee-4b99-b632-0d0474280a03-Max.webp?v=1761430116
     Price: £32.83 GBP
 - [High Waist Wide Flare Pants](https://glamorousboutique89.myshopify.com/products/high-waist-wide-flare-pants): Features: Pocketed Sheer: Opaque Material composition: 80% polyurethane, 20% viscose Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Bottom Length Waist Hip S 41.3 27.6 40.9 M 41.7 29.5 42.9 L 42.1 31.5 44.9 XL 42.5 33.5 46.9 2XL 42.9 35.4 48.8
-  Updated: 2025-10-27T00:17:11Z
+  Updated: 2025-10-27T13:22:41Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -4611,7 +4611,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/e7af9f76-2afe-4589-b531-37fcbaf594be-Max.webp?v=1761430149
     Price: £32.98 GBP
   - [Black / XL](https://glamorousboutique89.myshopify.com/products/high-waist-wide-flare-pants?variant=55323575025990)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/e7af9f76-2afe-4589-b531-37fcbaf594be-Max.webp?v=1761430149
     Price: £32.98 GBP
   - [Black / 2XL](https://glamorousboutique89.myshopify.com/products/high-waist-wide-flare-pants?variant=55323575058758)
@@ -4856,7 +4856,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/a5f4b217bc454ca48bbc31b5bb71bf99-Max.webp?v=1761430693
     Price: £9.02 GBP
 - [5-Piece Christmas Holiday Beaded Bracelet](https://glamorousboutique89.myshopify.com/products/5-piece-christmas-holiday-beaded-bracelet): Pieces:5-piece Material:18K Gold-Plated,Alloy,Crystal,rice beads, polymer clay Care instructions:Avoid wearing during exercise, as sweat will react with the jewelry to produce silver chloride and copper sulfide, which causes the jewelry to deteriorate and corrode over time. Imported Product Measurements (Measurements by inches) & Size Conversion Size Chain length One Size 7.1
-  Updated: 2025-10-27T00:17:12Z
+  Updated: 2025-10-27T14:24:21Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5846,7 +5846,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/4e8e61a9471d4e0cac2ea6fdc873f7d0-Max-Origin.webp?v=1761433613
     Price: £24.12 GBP
 - [Leopard Round Neck Raglan Sleeve Sweatshirt](https://glamorousboutique89.myshopify.com/products/leopard-round-neck-raglan-sleeve-sweatshirt): Features:Basic style Stretch:Slightly stretchy Material composition:95% polyester, 5% spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 25.2 42.5 27.2 M 25.6 44.5 27.6 L 26 46.5 28 XL 26.4 49.2 28.3 2XL 26.8 52 28.7
-  Updated: 2025-10-27T01:09:00Z
+  Updated: 2025-10-27T15:40:27Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -8240,7 +8240,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9564/0646/files/a20be15e-b810-4a40-95f0-2ec64d01ce3f-Max-Origin.webp?v=1761522361
     Price: £43.29 GBP
 - [Christmas Santa Print Mesh Long Sleeve Top](https://glamorousboutique89.myshopify.com/products/christmas-santa-print-mesh-long-sleeve-top): Features:Mesh Stretch:Slightly stretchy Material composition:95% polyester, 5% elastane Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 24.4 31.5 24 M 25.2 33.9 24.4 L 26 36.2 24.8 XL 26.8 39.4 25.2
-  Updated: 2025-10-27T11:46:33Z
+  Updated: 2025-10-27T15:21:26Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
