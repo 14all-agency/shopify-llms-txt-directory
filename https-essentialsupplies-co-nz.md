@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-10-26T00:00:56.618Z
+- Updated At: 2025-10-27T08:01:02.277Z
 
 ## Products
 
@@ -74,7 +74,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/antibacterial-wavy-wipes-red-300mm-x-500mm-90-sheets-80gsm-4-rolls-heavy-duty-dry-wipes-essential-supplies-982153.jpg?v=1719444753
   Price: $85.00 NZD
 - [Antibacterial Wavy Wipes - Blue, 300mm x 500mm, 90 Sheets, 80gsm - 4 Rolls *Heavy Duty](https://essentialsupplies.co.nz/products/antibacterial-wavy-wipes-blue-300mm-x-500mm-90-sheets-80gsm-4-heavy-duty): Antibacterial wavy wipes are hygienic and highly absorbent.Dispensed on a perforated roll for convenience, they are reusable and machine washable. These wipes are made from a heavy duty 80gsm, 70% viscose, 30% polyester mix. Heavy duty strength and durability Made from strong duty 80gsm, 70% viscose, 30% polyester mix Reusable and machine washable Tissue size: 300mm x 500mm Roll length: 45 metres Pack: 4 rolls Colour: Blue
-  Updated: 2025-02-17T10:22:45Z
+  Updated: 2025-10-26T04:23:55Z
   Vendor: Mattews Packaging
   Product Type: Dry Wipes
   Availability: Available
@@ -697,7 +697,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/laminated-cpe-shoe-covers-white-200mm-x-400mm-160-pieces-double-sole-foot-protection-essential-supplies-189977.jpg?v=1719445404
   Price: $79.00 NZD
 - [Disinfectant Cleaner - Green, 5L Refill Bottle](https://essentialsupplies.co.nz/products/disinfectant-cleaner-green-5l-refill-bottle-2): Disinfectant cleaner with a powerful formula for tough cleaning jobs. Highly dilutable with a lingering pine fragrance, ideal for bathroom and toilet areas where a high standard of hygiene is required. Powerful formula for tough cleaning jobs Dilutable with a lingering pine fragrance Colour: Green Content: 2 x 5 Litres
-  Updated: 2025-02-08T08:57:29Z
+  Updated: 2025-10-27T06:50:28Z
   Vendor: Mattews Packaging
   Product Type: Surface Care
   Availability: Available
@@ -1831,7 +1831,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/flat-facial-tissues-white-2-ply-200-sheets-fsc-mix-24-packs-facial-tissues-essential-supplies-661922.jpg?v=1719445074
   Price: $70.00 NZD
 - [Cube Facial Tissues - White, 2 Ply, 90 Sheets, FSC Mix® - 36 Packs](https://essentialsupplies.co.nz/products/cube-facial-tissues-white-2-ply-90-sheets-fsc-mix®-36): M's luxury facial tissue. Cube facial tissues are luxury tissue that is gentle on the skin and hypoallergenic making them suitable for a wider range of people. A great accessory to offer in hotels as well as having in offices, desk spaces or at home. These tissues are FSC certified which ensures you are making a sustainable paper choice. These tissues are hypoallergenic, making them gentle on sensitive skin. The paper used is FSC certified which ensures you are making a sustainable paper choice. Ultimate embossed 2 ply luxury Pack content: 90 Box contains 36 packs Colour: White
-  Updated: 2025-02-16T06:37:27Z
+  Updated: 2025-10-26T06:59:40Z
   Vendor: Mattews Packaging
   Product Type: Facial Tissues
   Availability: Available
@@ -2433,7 +2433,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/message-tape-security-seal-whitered-48mm-x-100m-x-50mu-printed-message-tape-essential-supplies-109321.jpg?v=1719445378
   Price: $6.00 NZD
 - [Message Tape Heavy - Yellow/Black, 48mm x 100m x 50mu](https://essentialsupplies.co.nz/products/message-tape-heavy-yellow-black-48mm-x-100m-x-50mu-36): Printed message tape made from high quality polypropylene with a acrylic adhesive and bold print. Dual purpose packaging to keep items safe and protected while communicating your message clearly.Great for providing instruction to couriers about fragile or other contents. Typical Applications: Dual purpose alternative to stickers or labels Great for providing instruction to couriers about fragile or other contents Colour: Black print on Yellow tape Printed: HEAVYSize: 48mm x 100mt
-  Updated: 2025-01-10T18:51:43Z
+  Updated: 2025-10-27T00:34:48Z
   Vendor: Mattews Packaging
   Product Type: Printed Message Tape
   Availability: Available
@@ -5182,7 +5182,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/fragranced-grit-hand-soap-green-5l-refill-bottle-hand-care-essential-supplies-122610.jpg?v=1719445177
   Price: $83.00 NZD
 - [Fragranced Hair & Body Gel - White, 5L Refill Bottle](https://essentialsupplies.co.nz/products/fragranced-hair-body-gel-white-5l-refill-bottle-2): Fragranced hair & body gel with a smooth creamy lather, suitable for everyday 2-in-1 shampoo and body wash use. Cleans hair without drying the scalp and gentle on skin with a pH neutral formulation. Leaves a soft, lingering floral fragrance.
-  Updated: 2025-01-29T11:31:20Z
+  Updated: 2025-10-27T06:38:27Z
   Vendor: Mattews Packaging
   Product Type: Hair & Body Care
   Availability: Available
@@ -6050,7 +6050,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/nitrile-sandy-waterproof-cut-gloves-orangeblack-m-18-gauge-120-gloves-rating-4544c-cut-resistant-work-gloves-essential-supplies-213304.jpg?v=1719445421
   Price: $1,500.00 NZD
 - [Nitrile Sandy Waterproof Cut Gloves - Orange/Black, L, 18 Gauge - 120 Gloves - *Rating - 4544C](https://essentialsupplies.co.nz/products/nitrile-sandy-waterproof-cut-gloves-orange-black-l-18-gauge-12-rating-4544c): Waterproof sandy cut resistant gloves are made from 18 gauge liner technology to reduce hand fatigue, and provide excellent dexterity, cut protection and liquid resistance. The extended coating together with a sandy palm grip coat is ideal for handling in wet and dry environments.
-  Updated: 2025-01-17T23:29:58Z
+  Updated: 2025-10-26T00:04:13Z
   Vendor: Mattews Packaging
   Product Type: Cut Resistant Work Gloves
   Availability: Available
@@ -6190,7 +6190,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/polypropylene-bouffant-hats-red-610mm-wide-12gsm-600-hats-for-larger-hair-styles-head-protection-essential-supplies-816467.jpg?v=1719445675
   Price: $69.00 NZD
 - [Polypropylene Bouffant Hats - Green, 610mm Wide , 12gsm - 600 Hats - *For Larger Hair Styles](https://essentialsupplies.co.nz/products/polypropylene-bouffant-hats-green-610mm-wide-12gsm-600-for-larger-hair-styles): Disposable bouffant cap hair nets made from skin-friendly polypropylene material to provide complete head coverage while maintaining breathability. Designed for longer/larger hairstyles with a clip variation for added crimping. Available in a range of colours to minimise cross-contamination across workspaces.
-  Updated: 2025-01-08T19:51:47Z
+  Updated: 2025-10-26T05:45:40Z
   Vendor: Mattews Packaging
   Product Type: Head Protection
   Availability: Available
@@ -6764,7 +6764,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/pvc-electrical-insulation-tape-white-18mm-x-20m-x-180mu-electrical-insulation-tape-essential-supplies-334183.jpg?v=1719445682
   Price: $3.00 NZD
 - [PVC Electrical Insulation Tape - Yellow/Green, 18mm x 20m x 180mu](https://essentialsupplies.co.nz/products/pvc-electrical-insulation-tape-yellow-green-18mm-x-20m-x-180mu-96): Electrical insulation tape constructed of high tensile strength PVC is designed for general electrical use. Tape is both cold and sunlight resistant, and flame retardant, with an operating temperature between 0-80°C. For electrical use up to 600V and available in a range of colours for clear identification.
-  Updated: 2025-01-09T08:40:36Z
+  Updated: 2025-10-26T12:04:09Z
   Vendor: Mattews Packaging
   Product Type: Electrical Insulation Tape
   Availability: Available
@@ -6925,7 +6925,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/freezer-grade-acrylic-machine-packaging-tape-clear-48mm-x-1500m-x-60mu-5-rolls-specialty-machine-tape-essential-supplies-333100.jpg?v=1719445403
   Price: $250.00 NZD
 - [Pistol Grip Magent Tape Dispenser - Blue/Black, 76mm Core / 72mm Wide - 1 Dispenser](https://essentialsupplies.co.nz/products/pistol-grip-magent-tape-dispenser-blue-black-76mm-core-72mm-wide-1): General purpose pistol grip tape dispenser with a durable plastic and metal construction. Featuring a contoured pistol grip with adjustable tape tension control to reduce fatigue. Designed for fast and easy dispensing to increase high volume use productivity.
-  Updated: 2025-02-18T18:15:44Z
+  Updated: 2025-10-27T02:16:14Z
   Vendor: Mattews Packaging
   Product Type: Tape Dispensers
   Availability: Available
