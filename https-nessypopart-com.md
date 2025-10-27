@@ -6,7 +6,7 @@
 - Timezone: Australia/Melbourne
 - Created At: 2025-08-13T08:46:37Z
 - Contact Email: scott@nessypopart.com
-- Updated At: 2025-10-26T00:00:43.478Z
+- Updated At: 2025-10-27T00:00:45.277Z
 
 ## Products
 
@@ -143,203 +143,203 @@
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-a-dogs-life-slurp-pets-framed-canvas-40x40cm.jpg?v=1755417018
     Price: $495.00 AUD
 - [AUS POP - Baked Beans](https://nessypopart.com/products/aus-pop-baked-beans): A tribute to tin-can nostalgia and Aussie pantry pride. AUS POP — Baked Beans transforms the humble Heinz tin into a pop art icon, celebrating comfort food with a cheeky wink to Warhol and Lichtenstein. Whether you grew up scraping the last spoonful from the can or still swear by beans on toast, this print is a love letter to everyday legends. Printed on fine art paper or canvas, this piece brings bold color and cultural flavor to any wall. It’s not just food—it’s memory, humor, and a dash of Aussie irreverence. Giclee Print on Cold Press Bright Art Paper A4: 210 x 297 mm (8.3 x 11.7 inches) A3: 297 x 420 mm (11.7 x 16.5 inches) A2: 420 x 594 mm (16.5 x 23.4 inches) Framed Giclee on canvas 100 x 75 cm (40 x 30 inches) Perfect for kitchens, studios, or gallery walls. Limited availability—secure yours today. Collect all 9 in the series!
-  Updated: 2025-09-17T09:59:51Z
+  Updated: 2025-10-26T05:17:32Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-auspop-baked-beans-packaging-hero_850cd31e-f2ae-4a62-b798-e39efaefc809.jpg?v=1755494700
-  - [Giclee Print - A4](https://nessypopart.com/products/aus-pop-baked-beans?variant=46891314610328)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-auspop-baked-beans-packaging-giclee-a4.jpg?v=1755494700
-    Price: $60.00 AUD
-  - [Giclee Print - A3](https://nessypopart.com/products/aus-pop-baked-beans?variant=46899412041880)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-auspop-baked-beans-packaging-giclee-a3.jpg?v=1755494700
-    Price: $120.00 AUD
-  - [Giclee Print - A2](https://nessypopart.com/products/aus-pop-baked-beans?variant=46899412533400)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-auspop-baked-beans-packaging-giclee-a2.jpg?v=1755494700
-    Price: $240.00 AUD
   - [Canvas - 100 x 75 cm FRAMED](https://nessypopart.com/products/aus-pop-baked-beans?variant=46891314577560)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-auspop-baked-beans-packaging-framed-canvas-100x75cm-2.jpg?v=1755494700
     Price: $895.00 AUD
+  - [Giclee Print - A2](https://nessypopart.com/products/aus-pop-baked-beans?variant=46899412533400)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-auspop-baked-beans-packaging-giclee-a2.jpg?v=1755494700
+    Price: $240.00 AUD
+  - [Giclee Print - A3](https://nessypopart.com/products/aus-pop-baked-beans?variant=46899412041880)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-auspop-baked-beans-packaging-giclee-a3.jpg?v=1755494700
+    Price: $120.00 AUD
+  - [Giclee Print - A4](https://nessypopart.com/products/aus-pop-baked-beans?variant=46891314610328)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-auspop-baked-beans-packaging-giclee-a4.jpg?v=1755494700
+    Price: $60.00 AUD
 - [AUS POP - Cheezels](https://nessypopart.com/products/aus-pop-cheezels): A cheeky tribute to Aussie snack nostalgia, reimagined through the bold lens of Warhol and Lichtenstein. This vivid piece blends pop art punch with cultural memory, turning the humble Cheezel into a collectible icon. It’s perfect for lovers of kitsch, color, and unapologetic joy. 100x75 Framed Giclee print on canvas A4 Giclee Print on Cold Press Bright Fine Art paper Collect all 9 in the series!
-  Updated: 2025-09-17T09:59:56Z
+  Updated: 2025-10-26T05:16:43Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-auspop-cheezels-packaging-hero.jpg?v=1755252823
-  - [Giclee Print - A4](https://nessypopart.com/products/aus-pop-cheezels?variant=46891314708632)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-auspop-cheezels-packaging-giclee-a4b.jpg?v=1755262413
-    Price: $60.00 AUD
-  - [Giclee Print - A3](https://nessypopart.com/products/aus-pop-cheezels?variant=46897306894488)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-auspop-cheezels-packaging-giclee-a3.jpg?v=1755262413
-    Price: $120.00 AUD
-  - [Giclee Print - A2](https://nessypopart.com/products/aus-pop-cheezels?variant=46897308139672)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-auspop-cheezels-packaging-giclee-a2.jpg?v=1755262413
-    Price: $240.00 AUD
   - [Canvas - 100 x 75 cm FRAMED](https://nessypopart.com/products/aus-pop-cheezels?variant=46891314675864)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-auspop-cheezels-packaging-framed-canvas-100x75cm-couch.jpg?v=1755252823
     Price: $895.00 AUD
+  - [Giclee Print - A2](https://nessypopart.com/products/aus-pop-cheezels?variant=46897308139672)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-auspop-cheezels-packaging-giclee-a2.jpg?v=1755262413
+    Price: $240.00 AUD
+  - [Giclee Print - A3](https://nessypopart.com/products/aus-pop-cheezels?variant=46897306894488)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-auspop-cheezels-packaging-giclee-a3.jpg?v=1755262413
+    Price: $120.00 AUD
+  - [Giclee Print - A4](https://nessypopart.com/products/aus-pop-cheezels?variant=46891314708632)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-auspop-cheezels-packaging-giclee-a4b.jpg?v=1755262413
+    Price: $60.00 AUD
 - [AUS POP - Four & Twenty](https://nessypopart.com/products/aus-pop-four-twenty): This vibrant artwork pays homage to the Australian classic, the Four'n Twenty beef pie. The bold colors and playful design evoke a sense of nostalgia.
-  Updated: 2025-09-20T07:37:16Z
+  Updated: 2025-10-26T05:15:47Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-auspop-fourn-twenty-packaging-hero.jpg?v=1755256405
-  - [Giclee Print - A4](https://nessypopart.com/products/aus-pop-four-twenty?variant=46891314806936)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-auspop-four-n-twenty-packaging-giclee-a4.jpg?v=1755256405
-    Price: $60.00 AUD
-  - [Giclee Print - A3](https://nessypopart.com/products/aus-pop-four-twenty?variant=46897192698008)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-auspop-four-n-twenty-packaging-giclee-a3.jpg?v=1755256405
-    Price: $120.00 AUD
-  - [Giclee Print - A2](https://nessypopart.com/products/aus-pop-four-twenty?variant=46897192829080)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-auspop-four-n-twenty-packaging-giclee-a2.jpg?v=1755256405
-    Price: $240.00 AUD
   - [Canvas - 100 x 75 cm FRAMED](https://nessypopart.com/products/aus-pop-four-twenty?variant=46891314774168)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-auspop-fourn-twenty-packaging-framed-canvas-100x75cm.jpg?v=1755256405
     Price: $895.00 AUD
+  - [Giclee Print - A2](https://nessypopart.com/products/aus-pop-four-twenty?variant=46897192829080)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-auspop-four-n-twenty-packaging-giclee-a2.jpg?v=1755256405
+    Price: $240.00 AUD
+  - [Giclee Print - A3](https://nessypopart.com/products/aus-pop-four-twenty?variant=46897192698008)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-auspop-four-n-twenty-packaging-giclee-a3.jpg?v=1755256405
+    Price: $120.00 AUD
+  - [Giclee Print - A4](https://nessypopart.com/products/aus-pop-four-twenty?variant=46891314806936)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-auspop-four-n-twenty-packaging-giclee-a4.jpg?v=1755256405
+    Price: $60.00 AUD
 - [AUS POP – Gaytime | Iconic Australian Art by Ness | Nessy Pop Art](https://nessypopart.com/products/aus-pop-gaytime): A nostalgic Aussie treat reimagined in bold pop art. Part of Ness’s AUS POP Series. Collector-ready formats. Iconic, vibrant, unforgettable.
-  Updated: 2025-09-17T04:11:16Z
+  Updated: 2025-10-26T05:14:55Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-auspop-golden-gaytime-packaging-hero.jpg?v=1755171828
-  - [Giclee Print - A4](https://nessypopart.com/products/aus-pop-gaytime?variant=46891314905240)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-auspop-golden-gaytime-packaging-giclee-a4_6b9b7e1c-3d24-4f44-9d7a-b6ebeec7ac61.jpg?v=1755171700
-    Price: $60.00 AUD
-  - [Giclee Print - A3](https://nessypopart.com/products/aus-pop-gaytime?variant=46895293825176)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-auspop-golden-gaytime-packaging-giclee-a3.jpg?v=1755171701
-    Price: $120.00 AUD
-  - [Giclee Print - A2](https://nessypopart.com/products/aus-pop-gaytime?variant=46895293857944)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-auspop-golden-gaytime-packaging-giclee-a2.jpg?v=1755171701
-    Price: $240.00 AUD
   - [Canvas - 100 x 75 cm FRAMED](https://nessypopart.com/products/aus-pop-gaytime?variant=46891314872472)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-auspop-golden-gaytime-packaging-framed-canvas-100x75cm.jpg?v=1755171828
     Price: $895.00 AUD
+  - [Giclee Print - A2](https://nessypopart.com/products/aus-pop-gaytime?variant=46895293857944)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-auspop-golden-gaytime-packaging-giclee-a2.jpg?v=1755171701
+    Price: $240.00 AUD
+  - [Giclee Print - A3](https://nessypopart.com/products/aus-pop-gaytime?variant=46895293825176)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-auspop-golden-gaytime-packaging-giclee-a3.jpg?v=1755171701
+    Price: $120.00 AUD
+  - [Giclee Print - A4](https://nessypopart.com/products/aus-pop-gaytime?variant=46891314905240)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-auspop-golden-gaytime-packaging-giclee-a4_6b9b7e1c-3d24-4f44-9d7a-b6ebeec7ac61.jpg?v=1755171700
+    Price: $60.00 AUD
 - [AUS POP - Milo](https://nessypopart.com/products/aus-pop-milo): AUS POP - Milo celebrates one of Australia’s most beloved pantry staples through the vibrant lens of pop art. Inspired by the iconic styles of Warhol and Lichtenstein, this piece transforms everyday nostalgia into collectible visual storytelling. Giclee Print on Cold Press Bright Art Paper A4: 210 x 297 mm (8.3 x 11.7 inches) A3: 297 x 420 mm (11.7 x 16.5 inches) A2: 420 x 594 mm (16.5 x 23.4 inches) Framed Giclee on canvas 100 x 75 cm (40 x 30 inches) Perfect for kitchens, studios, or gallery walls. Limited availability—secure yours today. Collect all 9 in the series!
-  Updated: 2025-09-17T09:59:57Z
+  Updated: 2025-10-26T05:13:48Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-auspop-milo-packaging-hero.jpg?v=1755338512
-  - [Giclee Print - A4](https://nessypopart.com/products/aus-pop-milo?variant=46891315003544)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-auspop-milo-packaging-giclee-a4.jpg?v=1755338512
-    Price: $60.00 AUD
-  - [Giclee Print - A3](https://nessypopart.com/products/aus-pop-milo?variant=46899475939480)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-auspop-milo-packaging-giclee-a3.jpg?v=1755338512
-    Price: $120.00 AUD
-  - [Giclee Print - A2](https://nessypopart.com/products/aus-pop-milo?variant=46899477610648)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-auspop-milo-packaging-giclee-a2.jpg?v=1755338512
-    Price: $240.00 AUD
   - [Canvas - 100 x 75 cm FRAMED](https://nessypopart.com/products/aus-pop-milo?variant=46891314970776)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-auspop-milo-packaging-framed-canvas-100x75cm.jpg?v=1755338512
     Price: $895.00 AUD
+  - [Giclee Print - A2](https://nessypopart.com/products/aus-pop-milo?variant=46899477610648)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-auspop-milo-packaging-giclee-a2.jpg?v=1755338512
+    Price: $240.00 AUD
+  - [Giclee Print - A3](https://nessypopart.com/products/aus-pop-milo?variant=46899475939480)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-auspop-milo-packaging-giclee-a3.jpg?v=1755338512
+    Price: $120.00 AUD
+  - [Giclee Print - A4](https://nessypopart.com/products/aus-pop-milo?variant=46891315003544)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-auspop-milo-packaging-giclee-a4.jpg?v=1755338512
+    Price: $60.00 AUD
 - [AUS POP - Smiths](https://nessypopart.com/products/aus-pop-smiths): Crinkle-cut memories, sealed in foil and Aussie pride. AUS POP — Smiths celebrates the iconic chip packet that’s fueled road trips, lunchboxes, and backyard cricket for generations. With bold colors and pop art flair inspired by Warhol and Lichtenstein, this print transforms salty snacking into cultural storytelling. Whether you were a Chicken maniac, Salt & Vinegar rebel, or Original purist, this piece is a tribute to the joy of tearing open a bag and diving into flavor. It’s not just chips—it’s childhood, chaos, and crunchy comfort. Giclee Print on Cold Press Bright Art Paper A4: 210 x 297 mm (8.3 x 11.7 inches) A3: 297 x 420 mm (11.7 x 16.5 inches) A2: 420 x 594 mm (16.5 x 23.4 inches) Framed Giclee on canvas 100 x 75 cm (40 x 30 inches) Perfect for kitchens, studios, or gallery walls. Limited availability—secure yours today. Collect all 9 in the series!
-  Updated: 2025-09-17T09:58:04Z
+  Updated: 2025-10-26T05:12:42Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-auspop-smiths-chips-packaging-hero.jpg?v=1755498526
-  - [Giclee Print - A4](https://nessypopart.com/products/aus-pop-smiths?variant=46891315101848)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-auspop-smiths-chips-packaging-giclee-a4.jpg?v=1755498526
-    Price: $60.00 AUD
-  - [Giclee Print - A3](https://nessypopart.com/products/aus-pop-smiths?variant=46903189536920)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-auspop-smiths-chips-packaging-giclee-a3.jpg?v=1755498526
-    Price: $120.00 AUD
-  - [Giclee Print - A2](https://nessypopart.com/products/aus-pop-smiths?variant=46903189569688)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-auspop-smiths-chips-packaging-giclee-a2.jpg?v=1755498526
-    Price: $240.00 AUD
   - [Canvas - 100 x 75 cm FRAMED](https://nessypopart.com/products/aus-pop-smiths?variant=46891315069080)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-auspop-smiths-chips-packaging-framed-canvas-100x75cm.jpg?v=1755498526
     Price: $895.00 AUD
+  - [Giclee Print - A2](https://nessypopart.com/products/aus-pop-smiths?variant=46903189569688)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-auspop-smiths-chips-packaging-giclee-a2.jpg?v=1755498526
+    Price: $240.00 AUD
+  - [Giclee Print - A3](https://nessypopart.com/products/aus-pop-smiths?variant=46903189536920)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-auspop-smiths-chips-packaging-giclee-a3.jpg?v=1755498526
+    Price: $120.00 AUD
+  - [Giclee Print - A4](https://nessypopart.com/products/aus-pop-smiths?variant=46891315101848)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-auspop-smiths-chips-packaging-giclee-a4.jpg?v=1755498526
+    Price: $60.00 AUD
 - [AUS POP - VC](https://nessypopart.com/products/aus-pop-vc): NOW AVAILABLE IN 4 SIZES Giclee Print on Cold Press Bright Art Paper A4: 210 x 297 mm (8.3 x 11.7 inches) A3: 297 x 420 mm (11.7 x 16.5 inches) A2: 420 x 594 mm (16.5 x 23.4 inches) Framed Giclee on canvas 100 x 75 cm (40 x 30 inches) It’s the way it shatters that matters—and Nessy captures that explosive joy in full pop art glory. This piece transforms the iconic Aussie treat into a bold visual statement, blending nostalgia with neon flair. It’s a sweet collision of memory, mischief, and modern art. Collect all 9 in the series!
-  Updated: 2025-09-17T09:59:46Z
+  Updated: 2025-10-26T05:10:45Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-auspop-violet-crumble-hero.jpg?v=1755259418
-  - [Giclee Print - A4](https://nessypopart.com/products/aus-pop-vc?variant=46891315232920)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-auspop-violet-crumble-packaging-giclee-a4.jpg?v=1755259418
-    Price: $60.00 AUD
-  - [Giclee Print - A3](https://nessypopart.com/products/aus-pop-vc?variant=46897208393880)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-auspop-violet-crumble-packaging-giclee-a3.jpg?v=1755259418
-    Price: $120.00 AUD
-  - [Giclee Print - A2](https://nessypopart.com/products/aus-pop-vc?variant=46897208623256)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-auspop-violet-crumble-packaging-giclee-a2.jpg?v=1755259418
-    Price: $240.00 AUD
   - [Canvas - 100 x 75 cm FRAMED](https://nessypopart.com/products/aus-pop-vc?variant=46891315200152)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-auspop-violet-crumble-packaging-framed-canvas-100x75cm.jpg?v=1755259418
     Price: $895.00 AUD
+  - [Giclee Print - A2](https://nessypopart.com/products/aus-pop-vc?variant=46897208623256)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-auspop-violet-crumble-packaging-giclee-a2.jpg?v=1755259418
+    Price: $240.00 AUD
+  - [Giclee Print - A3](https://nessypopart.com/products/aus-pop-vc?variant=46897208393880)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-auspop-violet-crumble-packaging-giclee-a3.jpg?v=1755259418
+    Price: $120.00 AUD
+  - [Giclee Print - A4](https://nessypopart.com/products/aus-pop-vc?variant=46891315232920)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-auspop-violet-crumble-packaging-giclee-a4.jpg?v=1755259418
+    Price: $60.00 AUD
 - [AUS POP Vegemite Print – Iconic Australian Art by Ness](https://nessypopart.com/products/aus-pop-vegemite): Celebrate Aussie culture with Ness’s AUS POP Vegemite print. Available in 4 sizes. Giclée on Fine Art Paper. Iconic, bold, and unmistakably Australian.
-  Updated: 2025-09-17T10:00:00Z
+  Updated: 2025-10-26T05:07:27Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-auspop-vegemite-packaging-hero.jpg?v=1755080306
-  - [Giclee Print - A4](https://nessypopart.com/products/aus-pop-vegemite?variant=46891315265688)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-auspop-vegemite-packaging-giclee-a4_2.jpg?v=1755080306
-    Price: $60.00 AUD
-  - [Giclee Print - A3](https://nessypopart.com/products/aus-pop-vegemite?variant=46891315298456)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-auspop-vegemite-packaging-giclee-a3.jpg?v=1755080306
-    Price: $120.00 AUD
-  - [Giclee Print - A2](https://nessypopart.com/products/aus-pop-vegemite?variant=46891315331224)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-auspop-vegemite-packaging-giclee-a2.jpg?v=1755080306
-    Price: $240.00 AUD
   - [Canvas - 100 x 75 cm FRAMED](https://nessypopart.com/products/aus-pop-vegemite?variant=46891315363992)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-auspop-vegemite-packaging-framed-canvas-100x75cm-kitchen.jpg?v=1755080306
     Price: $895.00 AUD
+  - [Giclee Print - A2](https://nessypopart.com/products/aus-pop-vegemite?variant=46891315331224)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-auspop-vegemite-packaging-giclee-a2.jpg?v=1755080306
+    Price: $240.00 AUD
+  - [Giclee Print - A3](https://nessypopart.com/products/aus-pop-vegemite?variant=46891315298456)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-auspop-vegemite-packaging-giclee-a3.jpg?v=1755080306
+    Price: $120.00 AUD
+  - [Giclee Print - A4](https://nessypopart.com/products/aus-pop-vegemite?variant=46891315265688)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-auspop-vegemite-packaging-giclee-a4_2.jpg?v=1755080306
+    Price: $60.00 AUD
 - [AUS POP - Weetbix](https://nessypopart.com/products/aus-pop-weetbix-le): How do you start your day? If you're Aussie, chances are it's with a bowl of Weet-Bix and a splash of milk. AUS POP — Weet-Bix immortalizes the breakfast of champions in bold, pop art style—nostalgic, cheeky, and unmistakably iconic. Inspired by Warhol and Lichtenstein, this piece celebrates the golden crunch that powered generations, from backyard footy legends to sleepy school mornings. Whether you were a two-bix kid or a six-bix hero, this print is a tribute to Aussie resilience, routine, and the quiet magic of cereal boxes on kitchen tables. Giclee Print on Cold Press Bright Art Paper A4: 210 x 297 mm (8.3 x 11.7 inches) A3: 297 x 420 mm (11.7 x 16.5 inches) A2: 420 x 594 mm (16.5 x 23.4 inches) Framed Giclee on canvas 100 x 75 cm (40 x 30 inches) Perfect for kitchens, studios, or gallery walls. Limited availability—secure yours today. Collect all 9 in the series!
-  Updated: 2025-09-17T04:11:15Z
+  Updated: 2025-10-26T05:09:36Z
   Vendor: Nessy Pop Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-auspop-weetbix-packaging-hero.jpg?v=1755497361
-  - [Giclee Print - A4](https://nessypopart.com/products/aus-pop-weetbix-le?variant=46891315527832)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-auspop-weetbix-packaging-giclee-a4.jpg?v=1755497361
-    Price: $60.00 AUD
-  - [Giclee Print - A3](https://nessypopart.com/products/aus-pop-weetbix-le?variant=46903178985624)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-auspop-weetbix-packaging-giclee-a3.jpg?v=1755497361
-    Price: $120.00 AUD
-  - [Giclee Print - A2](https://nessypopart.com/products/aus-pop-weetbix-le?variant=46903179018392)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-auspop-weetbix-packaging-giclee-A2.jpg?v=1755497361
-    Price: $240.00 AUD
   - [Framed Canvas - 100x75cm](https://nessypopart.com/products/aus-pop-weetbix-le?variant=46903179051160)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-auspop-weetbix-packaging-framed-canvas-100x75cm-2.jpg?v=1755497361
     Price: $895.00 AUD
+  - [Giclee Print - A2](https://nessypopart.com/products/aus-pop-weetbix-le?variant=46903179018392)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-auspop-weetbix-packaging-giclee-A2.jpg?v=1755497361
+    Price: $240.00 AUD
+  - [Giclee Print - A3](https://nessypopart.com/products/aus-pop-weetbix-le?variant=46903178985624)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-auspop-weetbix-packaging-giclee-a3.jpg?v=1755497361
+    Price: $120.00 AUD
+  - [Giclee Print - A4](https://nessypopart.com/products/aus-pop-weetbix-le?variant=46891315527832)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0722/9056/6296/files/nessyart-auspop-weetbix-packaging-giclee-a4.jpg?v=1755497361
+    Price: $60.00 AUD
 - [Bucket Boy](https://nessypopart.com/products/bucket-boy): Escapism in Pixels, Silence in Steel Bucket Boy is a portrait of quiet rebellion—an anonymous figure with a bucket over his head, lost in the glow of video games. He plays not for fun, but for refuge. The bucket shields him from a world too loud, too demanding, too real. This is not just a gamer—it’s a soul seeking sanctuary. Framed 75x75cm giclee print on canvas. Limited Edition of only 25.
   Updated: 2025-09-27T05:25:28Z
   Vendor: Nessy Pop Art
