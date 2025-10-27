@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-01-24T04:49:01Z
 - Contact Email: info@ibizjewel.com
-- Updated At: 2025-10-27T08:01:10.665Z
+- Updated At: 2025-10-27T16:00:55.773Z
 
 ## Products
 
@@ -30074,7 +30074,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDN-27_1.png?v=1711099493
     Price: $765.00 USD
 - [Moissanite 0.3CT Round Diamond Necklace](https://ibizjewel.com/products/moissanite-0-3ct-round-diamond-necklace-1): Expertly Crafted With A 0.3ct Round Moissanite Diamond, This Necklace Offers Stunning Sparkle And Brilliance. Made From Lab-created Moissanite, It Boasts Exceptional Quality And Value. A Must-have Accessory For Any Occasion.
-  Updated: 2025-10-02T10:31:02Z
+  Updated: 2025-10-27T10:29:33Z
   Vendor: Moissanite Diamond Necklaces
   Product Type: Moissanite Round Diamond Necklace
   Availability: Available
