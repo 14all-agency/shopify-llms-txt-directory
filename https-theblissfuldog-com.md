@@ -10,7 +10,7 @@
 - Contact Email: info@theblissfuldog.com
 - Contact Phone: 855-364-2547
 - Address: 50688 235th ave NW
-- Updated At: 2025-10-26T20:00:49.660Z
+- Updated At: 2025-10-27T20:00:45.700Z
 
 ## Products
 
@@ -33,7 +33,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/PEKE_RELAX_SPRAY_2500.jpg?v=1623534319
     Price: $13.95 USD
 - [The Blissful Dog PAW BUTTER All Natural Good Stuff for Dry Paw Pads](https://theblissfuldog.com/products/paw-butter): The Blissful Dog PAW BUTTER provides layers of moisturizing support for your dog's paw pads…naturally! In 8 sizes of tins & tubes - because dogs are all sizes!
-  Updated: 2025-10-16T15:39:27Z
+  Updated: 2025-10-27T18:22:35Z
   Vendor: The Blissful Dog® Inc.
   Product Type: PAW BUTTER
   Availability: Available
@@ -91,7 +91,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/PAW_BUTTER_ALL_PRICEscopy_1.jpg?v=1736525732
     Price: $72.95 USD
 - [The Blissful Dog Blissful Elbow™ Butter Balm For Dog Elbow Calluses](https://theblissfuldog.com/products/elbow-butter): Blissful Elbow Butter™ conditions dog elbow calluses using all-natural good stuff. Individually handcrafted in Minnesota & available in tins and tubes.
-  Updated: 2025-10-16T15:39:27Z
+  Updated: 2025-10-27T18:39:51Z
   Vendor: The Blissful Dog® Inc.
   Product Type: ELBOW BUTTER
   Availability: Available
@@ -5394,7 +5394,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/GREAT_DANE_225OZ_NOSE_1080-copy.jpg?v=1631820820
     Price: $18.95 USD
 - [Is Your Basset Afraid of Thunder? Fireworks? Relax Aromatherapy Calms](https://theblissfuldog.com/products/basset-hound-relax-dog-aromatherapy): Is your Basset afraid of fireworks? Our gentle blend of essential oils in Relax Dog Aromatherapy calms your Basset's stress. Free Shipping in USA!
-  Updated: 2025-10-16T15:40:08Z
+  Updated: 2025-10-27T04:33:52Z
   Vendor: The Blissful Dog® Inc.
   Product Type: DOG AROMATHERAPY
   Availability: Available
@@ -14410,7 +14410,7 @@
   Image: https://cdn.shopify.com/s/files/1/1133/5028/products/ICIE_15TUBE_COMBOcopy_0e8d6d72-c3f6-40ac-9dff-532cb9a348ce.jpg?v=1648564115
   Price: $19.95 USD
 - [The Blissful Dog Irish Setter Skin Care Kit Customizable](https://theblissfuldog.com/products/irish-setter-tube-combo): Irish Setter Skin Care Combo for your dog's dry noses, rough paws, elbow calluses, skin issues. Handcrafted  in MN using all natural ingredients.
-  Updated: 2025-10-16T15:41:27Z
+  Updated: 2025-10-27T07:01:35Z
   Vendor: The Blissful Dog® Inc.
   Product Type: COMBO
   Availability: Available
