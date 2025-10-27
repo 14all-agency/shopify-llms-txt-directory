@@ -6,12 +6,12 @@
 - Timezone: Asia/Kolkata
 - Created At: 2023-05-03T12:56:46Z
 - Contact Email: bluenixiein23@gmail.com
-- Updated At: 2025-10-23T16:00:34.015Z
+- Updated At: 2025-10-27T08:00:53.229Z
 
 ## Products
 
 - [Bluenixie BN2514_Teesta C & D Cups Cotton Rich Full Coverage T-Shirt Bra](https://bluenixie.com/products/full-coverage-t-shirt-bra): Made of cotton rich pleated fabric in full coverage design. Broad shoulder straps for better support. 30mm broad under bust belt for better grip. 3x3 57mm eye hook for max support. Removable straps options available.
-  Updated: 2025-10-23T08:24:56Z
+  Updated: 2025-10-26T10:16:40Z
   Vendor: Blue Nixie
   Product Type: Full coverage bra
   Availability: Available
@@ -65,7 +65,7 @@
     Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BN2514-R-1.png?v=1761056997
     Price: ₹460.00 INR
   - [34C / Wine](https://bluenixie.com/products/full-coverage-t-shirt-bra?variant=45269414707514)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/products/2514PURPLE_1.jpg?v=1761056968
     Price: ₹460.00 INR
   - [34C / Coral](https://bluenixie.com/products/full-coverage-t-shirt-bra?variant=45412499358010)
@@ -217,7 +217,7 @@
     Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/2514BLACK_1.jpg?v=1761056962
     Price: ₹460.00 INR
 - [Bluenixie BN2204_Monica Plus Size Cotton Rich Full Coverage Bra](https://bluenixie.com/products/plus-size-full-coverage-bra): Made of rich cotton bio-washed fabric in full coverage full support design. Made for plus-size beauties. Broad 25mm elastic for better shoulder support. Minimizer cum shaper cups are designed for a bulge-free look. Fine quality necklace for an attractive look. 3x3 57mm eye hook for better grip.
-  Updated: 2025-10-16T07:34:23Z
+  Updated: 2025-10-25T14:31:21Z
   Vendor: Blue Nixie
   Product Type: Full coverage bra
   Availability: Available
@@ -1505,7 +1505,7 @@
     Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/I2A1968.jpg?v=1685890012
     Price: ₹599.00 INR
 - [BlueNixie online Bridal Bra Set for Bride on your wedding and Honeymoon](https://bluenixie.com/products/bridal-bra-set-1): Made of stretch lace with lycra fabric in side panels. Full coverage cups for bulge free fitting. Made for special occasions .
-  Updated: 2025-05-09T12:03:02Z
+  Updated: 2025-10-23T19:54:30Z
   Vendor: Blue Nixie
   Product Type: Bridal Bra Set
   Availability: Available
@@ -2117,7 +2117,7 @@
     Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BN0410Black_1.jpg?v=1686648702
     Price: ₹365.00 INR
 - [Bluenixie BNF356_Luxuria Full Coverage Bra Jaquard Print](https://bluenixie.com/products/butterfly-print_jacquard-net-full-coverage-bra): Made of fine quality butterfly print jacquard net stretchable fabric in full coverage design. Stretchable fabric for sung fit. Half cups have 100% cotton linings for maximum comfort. Broad shoulder elastic for better support. Extra panels along cups to minimize bulges on sides. Available in variety of colors so skip those basic bra on those special occasions and go for it to match your dresses.
-  Updated: 2025-10-10T09:40:16Z
+  Updated: 2025-10-26T16:11:41Z
   Vendor: Blue Nixie
   Product Type: Full coverage bra
   Availability: Available
@@ -3155,7 +3155,7 @@
     Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BN0210T-shirtBra-WW.png?v=1689250649
     Price: ₹800.00 INR
 - [BlueNixie BN0210 T-Shirt Bra Combo set of 2 Skin Colors](https://bluenixie.com/products/t-shirt-bra-combo-set-of-2-skin-colors): Discover unbeatable comfort with our T-Shirt Bra Combo set of 2 in versatile Skin Colors, featuring a broad elastic band for the best fit, all at the best price.
-  Updated: 2025-10-07T08:38:37Z
+  Updated: 2025-10-24T08:15:56Z
   Vendor: Blue Nixie
   Product Type: Full coverage bra
   Availability: Available
@@ -4467,7 +4467,7 @@
     Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNF356-BLK-SKN.png?v=1690030140
     Price: ₹870.00 INR
 - [Bluenixie #BNF356 Full Coverage Bra White-Skin 2 pc combo](https://bluenixie.com/products/butterfly-print-net-full-coverage-bra-combo-set-of-2-white-skin-color): Made of fine quality butterfly print jacquard net stretchable fabric in full coverage design. Stretchable fabric for sung fit. Half cups have 100% cotton linings for maximum comfort. Broad shoulder elastic for better support. Extra panels along cups to minimize bulges on sides. Available in variety of colors so skip those basic bra on those special occasions and go for it to match your dresses.
-  Updated: 2025-08-02T08:42:56Z
+  Updated: 2025-10-26T16:11:40Z
   Vendor: Blue Nixie
   Product Type: Full coverage bra
   Availability: Available
@@ -4485,7 +4485,7 @@
     Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNF356-Wht-Skn.png?v=1690030779
     Price: ₹830.00 INR
   - [38C / BNF356_Butterfly](https://bluenixie.com/products/butterfly-print-net-full-coverage-bra-combo-set-of-2-white-skin-color?variant=45789242720570)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BNF356-Wht-Skn.png?v=1690030779
     Price: ₹830.00 INR
   - [40C / BNF356_Butterfly](https://bluenixie.com/products/butterfly-print-net-full-coverage-bra-combo-set-of-2-white-skin-color?variant=45789242753338)
@@ -5061,7 +5061,7 @@
     Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/BN1802-WHT-SKIN.png?v=1691068704
     Price: ₹490.00 INR
 - [Blue Nixie Padded Full Coverage Bra-Style#BN2319](https://bluenixie.com/products/padded-non-wired-full-coverage-bra): Made of fine quality soft foam pad cups in full coverage design. broad shoulder straps for better support. Inner elastic under bust line for irritation free comfort.
-  Updated: 2025-08-08T00:25:50Z
+  Updated: 2025-10-26T10:16:40Z
   Vendor: Blue Nixie
   Product Type: Padded Bra
   Availability: Available
@@ -6485,10 +6485,10 @@
 ## Collections
 
 - [Home page](https://bluenixie.com/collections/frontpage): Explore Bluenixie for lingerie, bras, shorts, nightwear, and more. Shop a variety of styles for women, men, and kids.
-  Updated: 2025-10-16T11:10:42Z
+  Updated: 2025-10-26T11:11:33Z
   Total Products: 35
 - [Women](https://bluenixie.com/collections/women)
-  Updated: 2025-10-20T11:09:36Z
+  Updated: 2025-10-26T11:11:33Z
   Total Products: 79
 - [Men](https://bluenixie.com/collections/men)
   Updated: 2025-05-09T12:03:01Z
@@ -6497,28 +6497,28 @@
   Updated: 2025-05-09T12:03:01Z
   Total Products: 0
 - [Bra](https://bluenixie.com/collections/bra)
-  Updated: 2025-10-23T11:09:10Z
+  Updated: 2025-10-26T11:11:33Z
   Total Products: 59
 - [padded bra](https://bluenixie.com/collections/padded-bra)
-  Updated: 2025-10-10T11:10:50Z
+  Updated: 2025-10-26T11:11:33Z
   Total Products: 8
 - [t shirt bra](https://bluenixie.com/collections/t-shirt-bra)
-  Updated: 2025-10-23T11:09:10Z
+  Updated: 2025-10-26T11:11:33Z
   Total Products: 40
 - [full Coverage bra](https://bluenixie.com/collections/full-coverage-bra)
-  Updated: 2025-10-23T11:09:10Z
+  Updated: 2025-10-26T11:11:33Z
   Total Products: 42
 - [minimizer bra](https://bluenixie.com/collections/minimizer-bra)
   Updated: 2025-10-06T11:09:23Z
   Total Products: 6
 - [everyday bra](https://bluenixie.com/collections/everyday-bra)
-  Updated: 2025-10-20T11:09:36Z
+  Updated: 2025-10-26T11:11:33Z
   Total Products: 65
 - [Bridal Bra Sets](https://bluenixie.com/collections/bridal-bra-sets): Introducing the Bluenixie Bridal Bra Set: A captivating ensemble designed to make every bride feel exquisite on her special day. Crafted with delicate lace, intricate detailing, and a touch of elegance, this set combines comfort, support, and undeniable charm to enhance the bridal experience.
   Updated: 2025-07-09T01:35:02Z
   Total Products: 5
 - [non padded bra](https://bluenixie.com/collections/non-padded-bra)
-  Updated: 2025-10-20T11:09:36Z
+  Updated: 2025-10-24T11:09:10Z
   Total Products: 43
 - [Lounge/Sleep Bra](https://bluenixie.com/collections/lounge-bra): soft and light on your body so get rid of bra and put this on and relax
   Updated: 2025-09-17T11:09:55Z
@@ -6632,37 +6632,37 @@
   Updated: 2024-12-05T10:51:56Z
   Total Products: 0
 - [inner wear](https://bluenixie.com/collections/inner-wear)
-  Updated: 2025-10-20T11:09:36Z
+  Updated: 2025-10-24T11:09:10Z
   Total Products: 43
 - [Brands](https://bluenixie.com/collections/brands)
   Updated: 2025-10-10T11:10:50Z
   Total Products: 10
 - [bluenixie](https://bluenixie.com/collections/bluenixie)
-  Updated: 2025-10-20T11:09:36Z
+  Updated: 2025-10-26T11:11:33Z
   Total Products: 77
 - [ego trip](https://bluenixie.com/collections/ego-trip): Ego Trip men's shorts
   Updated: 2025-05-09T12:03:04Z
   Total Products: 1
 - [Recommended-products](https://bluenixie.com/collections/recommended-products): Highly selling products from Bluenixie with minimum complaints from customers across india and abroad.
-  Updated: 2025-10-23T11:09:10Z
+  Updated: 2025-10-26T11:11:33Z
   Total Products: 49
 - [best-seller-product](https://bluenixie.com/collections/best-seller-product)
-  Updated: 2025-10-23T11:09:10Z
+  Updated: 2025-10-26T11:11:33Z
   Total Products: 56
 - [GST 12%](https://bluenixie.com/collections/gst-12)
   Updated: 2025-05-09T12:03:04Z
   Total Products: 0
 - [GST 5%](https://bluenixie.com/collections/gst-5)
-  Updated: 2025-10-23T11:09:10Z
+  Updated: 2025-10-26T11:11:33Z
   Total Products: 95
 - [Plus Size Bra](https://bluenixie.com/collections/plus-size-bra)
-  Updated: 2025-10-16T11:10:42Z
+  Updated: 2025-10-26T11:11:33Z
   Total Products: 13
 - [Everyday](https://bluenixie.com/collections/everyday)
-  Updated: 2025-10-20T11:09:36Z
+  Updated: 2025-10-24T11:09:10Z
   Total Products: 59
 - [Minimize (ER) Your bounce](https://bluenixie.com/collections/minimize-er-your-bounce)
-  Updated: 2025-10-16T11:10:42Z
+  Updated: 2025-10-26T11:11:33Z
   Total Products: 5
 - [Longing for lounge](https://bluenixie.com/collections/longing-for-lounge)
   Updated: 2025-08-08T11:06:49Z
@@ -6671,16 +6671,16 @@
   Updated: 2025-05-09T12:03:04Z
   Total Products: 0
 - [Offers](https://bluenixie.com/collections/offer): Discover irresistible offers on women's & girls' apparel including lingerie, nighties, panties, and shorts, as well as men's & kids' apparel at BlueNixie.in. Explore trendy designs, quality materials, and affordable prices. Elevate your style and enjoy a seamless shopping experience. Visit us now!
-  Updated: 2025-10-20T11:09:36Z
+  Updated: 2025-10-24T11:09:10Z
   Total Products: 44
 - [New products](https://bluenixie.com/collections/new-collection)
-  Updated: 2025-10-23T11:09:10Z
+  Updated: 2025-10-26T11:11:33Z
   Total Products: 98
 - [Best selling products](https://bluenixie.com/collections/best-selling-collection)
-  Updated: 2025-10-23T11:09:10Z
+  Updated: 2025-10-26T11:11:33Z
   Total Products: 98
 - [Fashion Bra](https://bluenixie.com/collections/fashion)
-  Updated: 2025-10-20T11:09:36Z
+  Updated: 2025-10-24T11:09:10Z
   Total Products: 39
 - [Novita](https://bluenixie.com/collections/novita): Panties
   Updated: 2025-05-16T19:52:13Z
@@ -6698,7 +6698,7 @@
   Updated: 2025-05-09T12:03:05Z
   Total Products: 6
 - [Quick Order](https://bluenixie.com/collections/quick-order)
-  Updated: 2025-10-23T11:09:10Z
+  Updated: 2025-10-26T11:11:33Z
   Total Products: 98
 - [Wholesale Products](https://bluenixie.com/collections/wholesale-products)
   Updated: 2025-05-09T12:03:05Z
@@ -6751,7 +6751,7 @@
     Author: Blue Nixie
     Tags: Bra, cotton bra, everyday bra, hosiery cotton bra, Sports bra, T-shirts bra
   - [Which Bra is Good for Teenagers: A Comprehensive Guide by Bluenixie](https://bluenixie.com/blogs/news/which-bra-is-good-for-teenagers-a-comprehensive-guide-by-bluenixie)
-    Updated: 2023-09-12T09:14:55Z
+    Updated: 2025-10-25T09:27:04Z
     Author: Blue Nixie
     Tags: Bra, cotton bra, everyday bra, hosiery cotton bra, Sports bra, T-shirts bra, Teenager Bra
   - [Choosing the Right Bra to Match Various Neckline Styles](https://bluenixie.com/blogs/news/choosing-the-right-bra-to-match-various-neckline-styles)
@@ -6781,7 +6781,7 @@
     Updated: 2025-09-21T21:18:21Z
     Author: Blue Nixie
   - [Common Bra Fitting Mistakes Indian Women Make – How to Avoid Them?](https://bluenixie.com/blogs/news/common-bra-fitting-mistakes-indian-women-make-how-to-avoid-them)
-    Updated: 2025-09-21T21:20:12Z
+    Updated: 2025-10-25T09:31:17Z
     Author: Blue Nixie
     Tags: ActiveLifestyle, BlueNixie, BlueNixieBras, BlueNixieExperience, BlueNixieFit, BlueNixieIndia, BodyPositivity, BraFitting, BraFittingExpert, BraMeasurement, BraSize, BraSizeGuide, BraSizingGuide, BreastHealth, ComfortableBras, ConfidenceBoost, CustomBraFitting, HealthyLiving, PerfectFit, PostureHealth, ProfessionalBraFitting, RightBraSize, SelfCare, WomensHealth, WomensWellness
   - [Professional Bra Fitting Services in Chennai - Where to Go?](https://bluenixie.com/blogs/news/professional-bra-fitting-services-in-chennai-where-to-go)
@@ -6816,7 +6816,7 @@
     Updated: 2025-09-21T21:55:28Z
     Author: Blue Nixie
   - [Empowering Comfort: Why Every Woman Deserves the Right Bra | Blue Nixie](https://bluenixie.com/blogs/news/welcome-to-our-blog): Empowering Comfort: Why Every Woman Deserves the Right Bra | Blue Nixie
-    Updated: 2025-10-23T04:41:01Z
+    Updated: 2025-10-23T17:44:13Z
     Author: Blue Nixie
     Tags: ActiveLifestyle, BlueNixieBras, BlueNixieIndia, BodyPositivity, Bra, bra fitting, bra fitting guide, BraSize, BraSizingGuide, comfort, find my bra size, how-to, size calculator, special occasion, sports bras, T-shirts bra, Teenager Bra, women's health, WomensHealth, WomensWellness
 
