@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-07-19T18:27:19Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-10-27T00:00:40.261Z
+- Updated At: 2025-10-27T12:00:39.177Z
 
 ## Products
 
@@ -9477,7 +9477,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/WALDORF-GREY-206.jpg?v=1757518830
     Price: $1.00 USD
 - [VELUXE Soft Velvet Fabric, 72 Inch. in Width, Ideal Material for Home](https://fabricsstar.com/products/veluxe-soft-velvet-fabric): DIMENSION - Size of the velvet fabric is 72 Inch. in width. Cut by the Yard Velvet Fabric is sold by the yard and cut to order. For example, the order of 1 yard
-  Updated: 2025-10-26T15:00:41Z
+  Updated: 2025-10-27T03:00:51Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -9628,7 +9628,7 @@
   Updated: 2025-10-23T17:10:48Z
   Total Products: 14
 - [Buy Luxury Velvet Fabrics Online | Premium Velvet Fabric](https://fabricsstar.com/collections/velvet-fabrics): Explore luxury velvet fabrics at Fabrics Star. Buy premium velvet fabric online for stunning designs and unmatched quality. Perfect for any project.
-  Updated: 2025-10-26T15:00:42Z
+  Updated: 2025-10-27T11:13:13Z
   Total Products: 28
 - [Embroidered Lace Fabric Online | Buy Luxury Lace Fabrics](https://fabricsstar.com/collections/lace-fabrics): Shop exquisite lace fabrics online at Fabrics Star. Explore beautiful embroidered lace fabric for your creative projects, offering elegance and style!
   Updated: 2025-10-23T17:10:48Z
@@ -9643,19 +9643,19 @@
   Updated: 2025-10-23T17:10:48Z
   Total Products: 26
 - [Our Full line of Fabrics](https://fabricsstar.com/collections/our-full-line-of-fabrics)
-  Updated: 2025-10-26T15:00:42Z
+  Updated: 2025-10-27T11:13:13Z
   Total Products: 666
 - [New! Shopify performance sharing is now turned on](https://fabricsstar.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2025-10-26T15:00:42Z
+  Updated: 2025-10-27T11:13:13Z
   Total Products: 666
 - [110](https://fabricsstar.com/collections/110)
   Updated: 2025-10-26T15:01:11Z
   Total Products: 534
 - [72](https://fabricsstar.com/collections/72)
-  Updated: 2025-10-26T15:01:11Z
+  Updated: 2025-10-27T11:13:13Z
   Total Products: 12
 - [APPPlaza - Best Sellers](https://fabricsstar.com/collections/appplaza-best-sellers)
-  Updated: 2025-10-26T15:00:42Z
+  Updated: 2025-10-27T11:13:13Z
   Total Products: 666
 
 ## Blogs
@@ -9720,6 +9720,9 @@
     Author: User
   - [Step-by-step Tutorial on Creating Perfect Fabric Draperies](https://fabricsstar.com/blogs/news/step-by-step-tutorial-on-creating-perfect-fabric-draperies): Step-by-step Tutorial on Creating Perfect Fabric Draperies
     Updated: 2025-10-26T00:09:24Z
+    Author: User
+  - [The Art and Science of Digital Fabric Printing](https://fabricsstar.com/blogs/news/the-art-and-science-of-digital-fabric-printing): The Art and Science of Digital Fabric Printing
+    Updated: 2025-10-27T04:07:16Z
     Author: User
 
 ## Store Pages
