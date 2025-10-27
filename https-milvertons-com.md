@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2019-08-25T03:49:02Z
 - Contact Email: sales@milvertons.com
-- Updated At: 2025-10-26T16:00:54.591Z
+- Updated At: 2025-10-27T16:00:44.868Z
 
 ## Products
 
@@ -4862,7 +4862,7 @@
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/ribbed-cardigan-with-feather-accents-and-gold-button-details-918504.jpg?v=1729021092
     Price: $84.00 USD
 - [Cropped Blazer with Fringe Trim and Lapel Collar Detail](https://milvertons.com/products/fringe-trim-lapel-collar-cropped-blazer): Cropped Blazer with Fringe Trim and Lapel Collar Detail. Unique and Stylish, this blazer adds a touch of sophistication and edge to any outfit. Order yours now
-  Updated: 2025-10-25T09:01:07Z
+  Updated: 2025-10-27T02:41:27Z
   Vendor: Milvertons
   Product Type: Women - Apparel - Outerwear - Jackets
   Availability: Available
@@ -8781,24 +8781,6 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/rhinestone-high-heels-bag-set-elegant-party-look-184431.webp?v=1756195606
     Price: $119.84 USD
-- [POL Drawstring Wide Leg Pants for Women](https://milvertons.com/products/pol-drawstring-wide-leg-pants): POL Drawstring Wide Leg Pants - Chic Palazzo Pants crafted from lightweight, breathable fabric. Perfect for casual outings, beach vacations, or everyday wear
-  Updated: 2025-10-24T15:00:50Z
-  Vendor: Milvertons
-  Product Type: Women - Apparel - Clothing - Pants
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/pol-drawstring-wide-leg-pants-for-women-333300.png?v=1750964828
-  - [Blue Purple / S](https://milvertons.com/products/pol-drawstring-wide-leg-pants?variant=46681423642862)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/pol-drawstring-wide-leg-pants-for-women-484814.webp?v=1750964827
-    Price: $76.73 USD
-  - [Blue Purple / M](https://milvertons.com/products/pol-drawstring-wide-leg-pants?variant=46681423675630)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/pol-drawstring-wide-leg-pants-for-women-484814.webp?v=1750964827
-    Price: $76.73 USD
-  - [Blue Purple / L](https://milvertons.com/products/pol-drawstring-wide-leg-pants?variant=46681423708398)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0054/0694/9422/files/pol-drawstring-wide-leg-pants-for-women-484814.webp?v=1750964827
-    Price: $76.73 USD
 - [Rhinestone Open Toe Block Heels Sandals](https://milvertons.com/products/rhinestone-open-toe-block-heels-sandals): These Rhinestone Open Toe Block Heels Sandals combine elegance with comfort, perfect for those seeking both sophistication and practicality in their footwear.
   Updated: 2025-10-22T19:36:00Z
   Vendor: Milvertons
@@ -10895,7 +10877,7 @@
   Updated: 2025-04-04T00:42:58Z
   Total Products: 66
 - [Women's Clothing Collection](https://milvertons.com/collections/womens-clothing): Discover chic and stylish women's clothing at Milvertons! Browse our collection of fashionable apparel, from timeless classics to on-trend pieces. Shop now for the ultimate fashion experience!
-  Updated: 2025-10-26T05:26:10Z
+  Updated: 2025-10-27T05:26:05Z
   Total Products: 153
 - [Men's Clothing - Menswear, Trendy Ethnic designs and more](https://milvertons.com/collections/mens-clothing): Men's Clothing - Menswear, Trendy Ethnic designs and more. Shop our Men's Clothing Collection  at Milvertons today!
   Updated: 2025-10-06T18:28:51Z
@@ -10907,8 +10889,8 @@
   Updated: 2025-05-01T08:40:41Z
   Total Products: 74
 - [Best Sellers - Explore our Best Selling Products](https://milvertons.com/collections/best-sellers): Best Sellers - Explore our Best Selling Products for an exhiliarating and memorable experience.
-  Updated: 2025-10-24T14:59:17Z
-  Total Products: 29
+  Updated: 2025-10-26T16:45:48Z
+  Total Products: 28
 - [Sale - Discover great prices on hot products](https://milvertons.com/collections/sale): Sale - Discover great prices on hot products. Don't miss out on these deals. Shop now and take advantage of Sales items! Click now to start browsing and saving
   Updated: 2025-10-22T11:04:03Z
   Total Products: 99
@@ -10928,8 +10910,8 @@
   Updated: 2025-10-05T19:25:37Z
   Total Products: 7
 - [All Products](https://milvertons.com/collections/all): Explore our carefully curated collection of products - Women's Shoes and Bags, Women's Clothing, Men's Shoes, Men's Clothing and Clothing Accessories, and more!
-  Updated: 2025-10-26T05:25:36Z
-  Total Products: 164
+  Updated: 2025-10-27T05:25:30Z
+  Total Products: 163
 - [Gift Cards for your loved ones](https://milvertons.com/collections/gift-cards): Gift Cards - Milvertons e-gift cards for your loved ones, no expiry date, redeemable at checkout.
   Updated: 2025-09-26T06:52:18Z
   Total Products: 1
@@ -10955,26 +10937,26 @@
   Updated: 2023-03-20T02:45:03Z
   Total Products: 0
 - [All Products - Published but OOS](https://milvertons.com/collections/all-products-oos): Out of Stock Products.
-  Updated: 2025-10-24T14:58:52Z
+  Updated: 2025-10-26T16:45:23Z
   Total Products: 158
 - [All Products - Published and in stock](https://milvertons.com/collections/all-products-available-in-online-store): All Products - Published, Active and Available in the Online Store Sales Channel,
-  Updated: 2025-10-24T14:59:17Z
-  Total Products: 193
+  Updated: 2025-10-26T16:45:48Z
+  Total Products: 192
 - [All Products - OOS](https://milvertons.com/collections/all-products-oos-1): All Products - Out of stock, yet published in Online Store
-  Updated: 2025-10-24T14:58:52Z
+  Updated: 2025-10-26T16:45:23Z
   Total Products: 157
 - [All Products - Active and Draft](https://milvertons.com/collections/all-products-active-and-draft): All Products in the store - Active and Draft
-  Updated: 2025-10-24T14:58:52Z
+  Updated: 2025-10-26T16:45:23Z
   Total Products: 515
 - [Milvertons Google Shop](https://milvertons.com/collections/milvertons-google-shop): Milvertons Google Shop - Product listings on Google
   Updated: 2025-09-24T20:00:47Z
   Total Products: 16
 - [Milvertons Facebook Shop](https://milvertons.com/collections/milvertons-facebook-shop): Milvertons Facebook Shop
-  Updated: 2025-10-24T14:59:17Z
-  Total Products: 103
+  Updated: 2025-10-26T16:45:48Z
+  Total Products: 102
 - [New Arrivals - Trendy New In](https://milvertons.com/collections/new-arrivals): Browse our New Arrivals Collection and discover why Milvertons Store is the ultimate destination for fashion-conscious individuals who want to look their best
-  Updated: 2025-10-26T05:26:01Z
-  Total Products: 41
+  Updated: 2025-10-27T05:25:55Z
+  Total Products: 40
 - [Milvertons Instagram Shop - Manual](https://milvertons.com/collections/milvertons-instagram-shop): Milvertons Instagram Shop - Manual
   Updated: 2025-10-22T14:36:24Z
   Total Products: 143
@@ -10982,7 +10964,7 @@
   Updated: 2025-03-30T00:47:53Z
   Total Products: 9
 - [Pants](https://milvertons.com/collections/pants): Women's Apparel - Clothing - Pants
-  Updated: 2025-10-24T14:58:52Z
+  Updated: 2025-10-26T16:45:23Z
   Total Products: 13
 - [Jumpsuits and Rompers](https://milvertons.com/collections/jumpsuits-rompers): Apparel & Accessories - Clothing - One-Pieces - Jumpsuits and Rompers
   Updated: 2025-09-26T06:52:18Z
@@ -11003,8 +10985,8 @@
   Updated: 2025-10-22T11:04:03Z
   Total Products: 56
 - [UpOrder - Recommended Products](https://milvertons.com/collections/spently_products): This collection is used by the UpOrder app, to make product recommendations in your Shopify notification and auto follow up emails. It's important to note that this collection is “hidden”, it is not be visible on your website. By default, your Best-Selling products will be recommended, but you can customize what is recommend by editing the collection. The collection is updated automatically every 4 hours in order to recommend the best products to your customers in your emails. We only recommend products that are in stock, visible online, and have not been purchased by the customer receiving the notification or auto follow-up email. To enable/disable recommendations in your emails, login to the UpOrder app, remove the Recommended Products component, and re-export your template.
-  Updated: 2025-10-24T14:59:17Z
-  Total Products: 345
+  Updated: 2025-10-26T16:45:48Z
+  Total Products: 344
 - [Black Friday & Cyber Monday Deals](https://milvertons.com/collections/bfcm-deals): Black Friday & Cyber Monday Deals - Products from this collection are on sale at 15% off. Items in this collection trigger this offer when added to your cart.
   Updated: 2023-11-29T08:14:38Z
   Total Products: 0
@@ -11012,7 +10994,7 @@
   Updated: 2024-02-05T00:16:28Z
   Total Products: 0
 - [Carro Brand Partnerships](https://milvertons.com/collections/carro-brand-partnerships): This collection contains the products added from Carro Brand Partnerships with Suppliers.
-  Updated: 2025-10-01T22:28:12Z
+  Updated: 2025-10-27T00:06:01Z
   Total Products: 11
 - [Skirts Collection](https://milvertons.com/collections/skirts-1): Skirts Collection - Milvertons
   Updated: 2025-09-26T06:52:19Z
@@ -11021,13 +11003,13 @@
   Updated: 2025-09-26T06:52:19Z
   Total Products: 0
 - [BFCM Sale Collection - Not On Sale - Pre-BFCM](https://milvertons.com/collections/not-sale-pre-bfcm): BFCM Sale Collection - Not On Sale - Pre-BFCM
-  Updated: 2025-10-24T14:59:17Z
-  Total Products: 161
+  Updated: 2025-10-26T16:45:48Z
+  Total Products: 160
 - [BFCM Sale Collection](https://milvertons.com/collections/on-sale-for-bfcm): BFCM Sale Collection
-  Updated: 2025-10-24T14:59:17Z
-  Total Products: 161
+  Updated: 2025-10-26T16:45:48Z
+  Total Products: 160
 - [TikTok Trending Collection](https://milvertons.com/collections/tiktok-trending-collection): TikTok Trending Collection at Milvertons
-  Updated: 2025-10-24T14:58:52Z
+  Updated: 2025-10-26T16:45:23Z
   Total Products: 82
 - [T-shirt Collective](https://milvertons.com/collections/t-shirt-collective): T-shirt Collective - Shop stylish and expressive t-shirts at T-shirt Collective. Find your next favorite tee! Browse our collection.
   Updated: 2025-10-22T19:00:45Z
@@ -11633,6 +11615,13 @@
     Updated: 2025-10-24T14:51:24Z
     Author: The Milvertons Store
     Tags: bags, dresses, fashion, matching shoes, matching shoes and bag for women, outfit coordination, shoe and bag pairing, shoe and bag set for women, shoes, stylish women's clothing, women's accessories, women's clothing, women's fashion, women's shoe and bag set
+  - [Essential Dress Styles You Need to Know with Matching Shoes and Bags](https://milvertons.com/blogs/blog/essential-dress-styles-you-need-to-know-with-matching-shoes-and-bags): Essential Dress Styles You Need to Know with Matching Shoes and Bags
+    Updated: 2025-10-27T09:06:43Z
+    Author: The Milvertons Store
+    Tags: bags, clothing, dress styles, dresses, fashion trends, matching accessories, matching shoes and bag for women, outfit coordination tips, shoe and bag set for women, shoes, stylish outfits, women's clothing, women's fashion, women's shoe and bag set
+  - [Italian Shoe & Bag Sets – Timeless style artisan quality | Milvertons](https://milvertons.com/blogs/blog/italian-shoe-and-bag-sets-crafted-for-enduring-elegance): Italian Shoe & Bag Sets – Timeless style artisan quality | Milvertons
+    Updated: 2025-10-27T14:00:06Z
+    Author: The Milvertons Store
 
 ## Store Pages
 
