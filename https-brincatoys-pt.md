@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-10-27T08:01:14.367Z
+- Updated At: 2025-10-27T20:01:18.091Z
 
 ## Products
 
@@ -510,7 +510,7 @@ com os animais, que encaixam no barco ou podem ser usados como fantoches
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/barco-de-banho-3-amigos-810386622-brincatoys-1178692771.jpg?v=1752827302
   Price: 18,99 € EUR
 - [Barco Rebocador](https://brincatoys.pt/products/barco-rebocador): Esta embarcação colorida, com 24 cm, flutua muito bem e tem um grande bucal para recolher e despejar água. Feito nos EUA com recipientes de leite de plástico 100% reciclado que economizam energia e reduzem as emissões de gases de efeito estufa.  Dimensão: 11.4 x 23.5 x 11.5 cm Idade recomendada: + de 6 meses.
-  Updated: 2025-10-19T09:15:49Z
+  Updated: 2025-10-27T16:18:56Z
   Vendor: Seleção Brincatoys
   Product Type: + 6 meses
   Availability: Available
@@ -2112,7 +2112,7 @@ Qualquer menino adoraria estes carros de madeira que Incluem 7 veículos icônic
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/conjunto-manicure-yummy-623060222-2600000-brincatoys-1178693350.jpg?v=1752836417
   Price: 17,99 € EUR
 - [Conjunto médico](https://brincatoys.pt/products/conjunto-medico): Mantém as tuas bonecas felizes e saudáveis ​​com este kit médico bem equipado.
-  Updated: 2025-10-22T09:02:57Z
+  Updated: 2025-10-27T12:30:22Z
   Vendor: Seleção Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -4317,7 +4317,7 @@ Como jogar: As crianças colocam as cartas viradas para baixo e misturam-nas. Um
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/kreo-transformers-prowl-90069012-brincatoys-1178693999.jpg?v=1752849009
   Price: 24,50 € EUR
 - [Lagarto cornudo](https://brincatoys.pt/products/lagarto-cornudo): O lagarto com chifres é um réptil dócil encontrado em toda a América do Norte e às vezes é coloquialmente referido como sapo ou rã com chifres. Ele ganhou estes apelidos devido ao seu corpo e cabeça arredondados, que, à distância, podem assemelhar-se a um sapo ou rã.Figura em borracha termoplástica não tóxica e livre de BPA.
-  Updated: 2025-10-13T06:31:09Z
+  Updated: 2025-10-27T11:01:01Z
   Vendor: Seleção Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -4847,7 +4847,7 @@ para combater contigo com a sua lança comprida e afiada. Será que
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-ninjago-o-mech-ninja-do-lloyd-667175723-5702017151618-lego-1178694149.jpg?v=1752815175
   Price: 12,50 € EUR
 - [Lego Speed Champions 76906 1970 Ferrari 512 M](https://brincatoys.pt/products/lego-speed-champions-1970-ferrari-512-m): Descubra a emoção da velocidade com o LEGO Speed Champions 76906 1970 Ferrari 512 M. Perfeito para os amantes de carros clássicos.
-  Updated: 2025-10-26T21:50:01Z
+  Updated: 2025-10-27T09:48:19Z
   Vendor: LEGO
   Product Type: + 8 anos
   Availability: Available
@@ -5766,7 +5766,7 @@ Provavelmente, a espécie vivente mais próxima é o cachorro-vinagre.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/mosaico-diams-bellissimanimo-711393822-brincatoys-1178694456.jpg?v=1752813249
   Price: 17,50 € EUR
 - [Mr. Potato Head](https://brincatoys.pt/products/mr-potato-head): Incentive a criatividade com a personagem Mr. Potato Head.  Troque e mude as partes do corpo e do rosto.  Dimensão: 22 x 17 x 10 cm Idade recomendada: + de 3 anos.
-  Updated: 2025-10-13T06:29:49Z
+  Updated: 2025-10-27T12:21:25Z
   Vendor: Seleção Brincatoys
   Product Type: + 3 anos
   Availability: Available
@@ -5850,7 +5850,7 @@ Provavelmente, a espécie vivente mais próxima é o cachorro-vinagre.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/nave-star-wars-first-order-special-force-tie-fighter-23322418-star-wars-1178694478.jpg?v=1752856821
   Price: 29,99 € EUR
 - [Nenuco Biberão Mágico](https://brincatoys.pt/products/nenuco-biberao-magico): Um boneco Nenuco muito fofo que vem com o um biberão mágico.Nenuco tem sede! Dá-lhe o biberão de leite. O líquido desaparecerá quando o bebé acabar.    Dimensão: 13.0 x 32.0 x 19.3 cm. Idade recomendada. + de 12 meses.
-  Updated: 2025-10-25T09:31:07Z
+  Updated: 2025-10-27T09:12:05Z
   Vendor: Nenuco
   Product Type: + 12 meses
   Availability: Available
@@ -7664,7 +7664,7 @@ de aparência engraçada , usa os seus poderosos pés e garras para escavar
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/puzzle-3d-ladybug-861127822-ladybug-1178695086.jpg?v=1752868695
   Price: 13,50 € EUR
 - [Puzzle 3D - Porta Lápis Pokémon | Brincatoys](https://brincatoys.pt/products/puzzle-3d-porta-lapis-pokemon): Fantástico Puzzle 3D com 54 peças para criar um porta lápis com ilustrações de Pokémon.Este puzzle usa peças de plástico exclusivas, que se encaixam para construir um modelo robusto e forte. Não é necessária cola. Cada peça do puzzle é impressa com um número no verso, para que possa montá-lo a olho nu ou apenas seguindo os números. Dimensões do puz
-  Updated: 2025-10-27T07:31:25Z
+  Updated: 2025-10-27T10:05:27Z
   Vendor: Pokémon
   Product Type: + 8 anos
   Availability: Available
@@ -8545,7 +8545,7 @@ Figura com aproximadamente 8 cm.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/sonic-the-hedgehog-robotnik-774126922-sonic-the-hedgehog-1178695371.jpg?v=1752873009
   Price: 21,99 € EUR
 - [Sonic The Hedgehog Sonic](https://brincatoys.pt/products/sonic-the-hedgehog-sonic): Sonic é o típico herói ouriço adolescente veloz que destrói o crime e salva o mundo sem perder um pingo de estilo. Com 10 cm e 13 pontos de articulação,podes mover a sua cabeça, braços, ombros, pernas, pés, etc. Inclui uma prancha de Snowboarder.  Dimensão: 17 x 22,50 x 8,50 cm.Idade Recomendada: + de 3 anos.
-  Updated: 2025-10-13T06:26:56Z
+  Updated: 2025-10-27T16:19:06Z
   Vendor: Sonic the Hedgehog
   Product Type: + 3 anos
   Availability: Available
@@ -9704,42 +9704,42 @@ do tempo a caçar no gelo marinho.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/xilofone-arco-iris-82060623-brincatoys-1178695706.jpg?v=1752879247
   Price: 19,99 € EUR
 - [Yu-Gi-Oh! Blue-Eyes White Dragon](https://brincatoys.pt/products/yu-gi-oh-blue-eyes-white-dragon): Figura articulada de Yu-Gi-Oh Blue-Eyes White Dragon, com 9,52 cm, altamente detalhada com um cartão raro e exclusivo incluído em cada pacote. Cada carta é única para a personagem.  Dimensão: 13,50 x 19 x 7 cm.Idade Recomendada: + de 8 anos.
-  Updated: 2025-10-24T14:19:21Z
+  Updated: 2025-10-27T20:00:20Z
   Vendor: Yu-Gi-Oh!
   Product Type: + 8 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/yu-gi-oh-blue-eyes-white-dragon-239927322-yu-gi-oh-1178695707.jpg?v=1752879249
   Price: 17,99 € EUR
 - [Yu-Gi-Oh! Dark Magician](https://brincatoys.pt/products/yu-gi-oh-dark-magician): Figura articulada de Yu-Gi-Oh Dark Magician, com 9,52 cm, altamente detalhada com um cartão raro e exclusivo incluído em cada pacote. Cada carta é única para a personagem.  Dimensão: 13,50 x 19 x 7 cm.Idade Recomendada: + de 8 anos.
-  Updated: 2025-10-13T06:25:45Z
+  Updated: 2025-10-27T19:39:00Z
   Vendor: Yu-Gi-Oh!
   Product Type: + 8 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/yu-gi-oh-dark-magician-239927222-yu-gi-oh-1178695709.jpg?v=1752879255
   Price: 17,99 € EUR
 - [Yu-Gi-Oh! Joey Wheeler](https://brincatoys.pt/products/yu-gi-oh-joey-wheeler): Esta figura articulada de 12,70 cm, de Joey Wheeler, inclui acessórios de mão intercambiáveis, acessório Duel Disc Launcher e casaco de assinatura! Cada pacote também inclui um cartão da personagem de edição especial!  Dimensão: 15 x 24 x 5 cm.Idade Recomendada. + de 6 anos.
-  Updated: 2025-10-13T06:25:44Z
+  Updated: 2025-10-27T19:40:07Z
   Vendor: Yu-Gi-Oh!
   Product Type: + 6 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/yu-gi-oh-joey-wheeler-232102222-yu-gi-oh-1178695711.jpg?v=1752879261
   Price: 22,99 € EUR
 - [Yu-Gi-Oh! Red-Eyes Black Dragon](https://brincatoys.pt/products/yu-gi-oh-red-eyes-black-dragon): Figura articulada de Yu-Gi-Oh Red-Eyes Black Dragon, com 9,52 cm, altamente detalhada com um cartão raro e exclusivo incluído em cada pacote. Cada carta é única para a personagem.  Dimensão: 13,50 x 19 x 7 cm.Idade Recomendada: + de 8 anos.
-  Updated: 2025-10-13T06:25:44Z
+  Updated: 2025-10-27T19:40:07Z
   Vendor: Yu-Gi-Oh!
   Product Type: + 8 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/yu-gi-oh-red-eyes-black-dragon-239927422-yu-gi-oh-1178695713.jpg?v=1752879486
   Price: 17,99 € EUR
 - [Yu-Gi-Oh! Seto Kaiba](https://brincatoys.pt/products/yu-gi-oh-seto-kaiba): Esta figura articulada, com 12,70 cm, de Seto Kaiba inclui acessórios de mão intercambiáveis, acessório Duel Disc Launcher e casaco de assinatura! Cada pacote também inclui um cartão da personagem de edição especial!  Dimensão: 15 x 24 x 5 cm.Idade Recomendada. + de 6 anos.
-  Updated: 2025-10-13T06:25:44Z
+  Updated: 2025-10-27T19:40:07Z
   Vendor: Yu-Gi-Oh!
   Product Type: + 6 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/yu-gi-oh-seto-kaiba-232102322-yu-gi-oh-1178695715.jpg?v=1752879491
   Price: 22,99 € EUR
 - [Yu-Gi-Oh! Yami Yugi](https://brincatoys.pt/products/yu-gi-oh-yami-yugi): Esta figura de 12,70 cm, articulada, de Yami Yugi é ideal para os fãs do Yu-Gi-Oh! Inclui tudo o que precisas para um duelo com os teus oponentes. Inclui acessórios de mão intercambiáveis, acessório Duel Disc Launcher, capa e colar Millennium Puzzle! Cada pacote também inclui um cartão da personagem de edição especial.  Dimensão: 15 x 24 x 5 cm.Ida
-  Updated: 2025-10-13T06:25:43Z
+  Updated: 2025-10-27T19:40:07Z
   Vendor: Yu-Gi-Oh!
   Product Type: + 6 anos
   Availability: Available
@@ -10250,21 +10250,21 @@ do tempo a caçar no gelo marinho.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-de-brincar-chevrolet-camaro-1971-em-escala-1-18-683113123-0090159311317-brincatoys-1178695952.jpg?v=1752806047
   Price: 54,99 € EUR
 - [Conjunto 2 figuras Yu-Gi-Oh Red-Eyes Black Dragon & Harpy La](https://brincatoys.pt/products/conjunto-2-figuras-yu-gi-oh-red-eyes-black-dragon-harpy-lady): Conjunto de 2 figuras Yu-Gi-Oh (Red-Eyes Black Dragon & Harpy Lady) com aproximadamente 10 cm para brincar e coleccionar. Dimensão: 19,50 x 18,50 x 8 cm.Idade Recomendada: + de 8 anos.
-  Updated: 2025-10-13T06:25:11Z
+  Updated: 2025-10-27T19:40:07Z
   Vendor: Yu-Gi-Oh!
   Product Type: + 8 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/conjunto-2-figuras-yu-gi-oh-red-eyes-black-dragon-harpy-la-233828223-yu-gi-oh-1178695954.jpg?v=1752806053
   Price: 24,99 € EUR
 - [Conjunto 2 figuras Yu-Gi-Oh Blue-Eyes White Dragon & Gate Gu](https://brincatoys.pt/products/conjunto-2-figuras-yu-gi-oh-blue-eyes-white-dragon-gate-gu): Conjunto de 2 figuras Yu-Gi-Oh (Blue-Eyes White Dragon & Gate Guardian) com aproximadamente 10 cm para brincar e coleccionar. Dimensão: 19,50 x 18,50 x 8 cm.Idade Recomendada: + de 8 anos.
-  Updated: 2025-10-13T06:25:11Z
+  Updated: 2025-10-27T19:40:07Z
   Vendor: Yu-Gi-Oh!
   Product Type: + 8 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/conjunto-2-figuras-yu-gi-oh-blue-eyes-white-dragon-gate-gu-233828123-yu-gi-oh-1178695956.webp?v=1752806058
   Price: 24,99 € EUR
 - [Conjunto 2 figuras Yu-Gi-Oh Exodia The Forbidden One & Castl](https://brincatoys.pt/products/conjunto-2-figuras-yu-gi-oh-exodia-the-forbidden-one-castl): Conjunto de 2 figuras Yu-Gi-Oh (Exodia The Forbidden One & Castle Of Dark Illusions) com aproximadamente 10 cm para brincar e coleccionar. Dimensão.: 19,50 x 18,50 x 8 cm.Idade Recomendada: + de 8 anos.
-  Updated: 2025-10-24T14:19:15Z
+  Updated: 2025-10-27T19:39:30Z
   Vendor: Yu-Gi-Oh!
   Product Type: + 8 anos
   Availability: Available
@@ -10481,7 +10481,7 @@ do tempo a caçar no gelo marinho.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/star-wars-rogue-one-sergent-jyn-erso-90707017-2600000-star-wars-1178696028.png?v=1752885007
   Price: 10,00 € EUR
 - [Star Wars Rogue One Princess Leia Organa](https://brincatoys.pt/products/star-wars-rogue-one-leia-organa): Figura Star Wars com aproximadamente 9,50 cm.  Dimensão: 3.8 x 12.1 x 18.4 cm. Idade recomendada: + de 4 anos.
-  Updated: 2025-10-13T06:24:53Z
+  Updated: 2025-10-27T11:16:05Z
   Vendor: Star Wars
   Product Type: + 4 anos
   Availability: Available
@@ -10670,14 +10670,14 @@ do tempo a caçar no gelo marinho.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-ninjago-mech-tita-do-jay-71785-667178523-5702017413013-lego-1178696116.jpg?v=1752887058
   Price: 79,99 € EUR
 - [Lego Technic - Batcycle do Batman 42155 | Brincatoys](https://brincatoys.pt/products/lego-technic-batcycle-do-batman): Defenda as ruas de GOTHAM CITY™ com este LEGO Technic BATCYCLE™ do BATMAN. Capture o espírito de um lendário combatente do crime ao montar as funcionalidades autênticas, como a direção, a suspensão e a transmissão por corrente que liga o motor à roda traseira. Recrie os seus momentos favoritos de Batman™. Depois use o suporte para exibir o seu mode
-  Updated: 2025-10-26T21:52:45Z
+  Updated: 2025-10-27T09:53:11Z
   Vendor: LEGO
   Product Type: + 9 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-technic-batcycle-do-batman-42155-brincatoys-664215523-5702017424750-lego-1178696119.webp?v=1752887286
   Price: 59,50 € EUR
 - [Lego Technic 42154 – Ford GT 2022: Réplica Colecionável](https://brincatoys.pt/products/lego-technic-2022-ford-gt): Descubra o Lego Technic 42154 – Ford GT 2022, uma réplica detalhada com funcionalidades realistas e design autêntico que elevará a sua coleção.
-  Updated: 2025-10-26T21:52:45Z
+  Updated: 2025-10-27T09:52:50Z
   Vendor: LEGO
   Product Type: + 14 anos
   Availability: Available
@@ -10719,7 +10719,7 @@ do tempo a caçar no gelo marinho.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-city-barco-de-resgate-dos-bombeiros-60373-666037325-5702017416335-lego-1178696143.jpg?v=1752887655
   Price: 22,90 € EUR
 - [Lego City 60386 - O Camião da Reciclagem: Aprender e Brincar](https://brincatoys.pt/products/lego-city-60386-o-camiao-da-reciclagem): Divirta-se construindo e aprendendo sobre reciclagem com o Lego City 60386 - O Camião da Reciclagem. Perfeito para horas intermináveis de diversão!
-  Updated: 2025-10-13T06:24:39Z
+  Updated: 2025-10-27T10:56:55Z
   Vendor: LEGO
   Product Type: + 5 anos
   Availability: Available
@@ -10761,7 +10761,7 @@ do tempo a caçar no gelo marinho.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-friends-cabeleireiro-41743-brincatoys-664174323-5702017432175-lego-1178696171.webp?v=1752888256
   Price: 49,99 € EUR
 - [Lego Technic - NASCAR Next Gen Chevrolet Camaro ZL1 42153](https://brincatoys.pt/products/lego-technic-nascar-next-gen-chevrolet-camaro-zl1): Pronto para a corrida? Está na hora de se tornar um campeão NASCAR com o LEGO Technic NASCAR Next Gen Chevrolet Camaro ZL1. Leve o seu amor pelo desporto motorizado ao próximo nível enquanto constrói a sua própria versão NASCAR autêntica de próxima geração do Chevrolet Camaro. Depois explore as suas funcionalidades, como a direção, o capô de abrir
-  Updated: 2025-10-26T21:52:44Z
+  Updated: 2025-10-27T09:53:09Z
   Vendor: LEGO
   Product Type: + 9 anos
   Availability: Available
@@ -10942,13 +10942,6 @@ do tempo a caçar no gelo marinho.
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-star-wars-75345-pack-de-combate-clone-troopers-da-501-667534524-5702017421292-lego-1178696257.jpg?v=1752889822
   Price: 22,90 € EUR
-- [Lego Duplo Mota da Polícia](https://brincatoys.pt/products/lego-duplo-mota-da-policia-copie): Desapareceu um cãozinho! Será que o seu pequeno herói consegue ajudar o agente da polícia a encontrar o animal de estimação perdido? Com uma entusiasmante missão de resgate para completar, um adorável animal para cuidar e um simpático polícia numa mota de empurrar, este versátil set vai fortalecer as capacidades de motricidade fina, sociais e emoci
-  Updated: 2025-10-13T06:24:25Z
-  Vendor: LEGO
-  Product Type: + 2 anos
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-duplo-mota-da-policia-661096723-5702017153636-lego-1178696268.jpg?v=1752890052
-  Price: 12,50 € EUR
 - [Princesa Disney Mulan | Brincatoys](https://brincatoys.pt/products/princesa-disney-mulan): Corajosa e determinada, Mulan desafia a tradição e torna-se uma grande guerreira, salvando a sua terra. Com esta boneca Royal Shimmer Disney Princess, as crianças podem imaginar a ousada e destemida Mulan juntando-se a elas numa aventura! Inspirada no personagem animado, esta boneca da Disney inclui uma saia de boneca e acessórios - uma tiara e sap
   Updated: 2025-10-13T06:24:25Z
   Vendor: Princesas Disney
@@ -11083,7 +11076,7 @@ do tempo a caçar no gelo marinho.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/my-little-pony-descobrir-o-brilho-izzy-moonbow-brincatoys-903870523-5010994127879-my-little-pony-1178696343.webp?v=1752891007
   Price: 36,50 € EUR
 - [Figura Homem Aranha 30 cm: Ação e Diversão Garantidas](https://brincatoys.pt/products/figura-homem-aranha-30-cm): Traga o Homem-Aranha para a brincadeira do seu filho com a figura Homem Aranha 30 cm! A ação e a imaginação estão a um passo, não perca!
-  Updated: 2025-10-26T10:47:10Z
+  Updated: 2025-10-27T17:00:01Z
   Vendor: Marvel
   Product Type: + 4 anos
   Availability: Available
@@ -12245,7 +12238,7 @@ do tempo a caçar no gelo marinho.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/jogo-de-equilibrismo-gatos-e-ratos-26777823-brincatoys-1178696862.jpg?v=1752803292
   Price: 22,99 € EUR
 - [Barco Rebocador Topo Amarelo](https://brincatoys.pt/products/barco-rebocador-topo-amarelo): Embarque num cruzeiro pela banheira. Navegue na piscina rasa. Mergulhe na poça de água ocasional. Não há fim para a diversão que os jovens marinheiros podem ter com este rebocador. Esta embarcação colorida flutua e tem um bico largo para colher e despejar água. Feitonos EUA com recipientes de leite de plástico 100% reciclado que economizam energia
-  Updated: 2025-10-13T06:23:05Z
+  Updated: 2025-10-27T16:19:00Z
   Vendor: Seleção Brincatoys
   Product Type: + 6 meses
   Availability: Available
@@ -12490,7 +12483,7 @@ do tempo a caçar no gelo marinho.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-star-wars-caca-de-piratas-espaciais-667534623-5702017421308-lego-1178696975.jpg?v=1752903011
   Price: 38,50 € EUR
 - [Lego Technic - Bugatti Bolide](https://brincatoys.pt/products/lego-technic-bugatti-bolide): Preparado para conhecer um rebelde? O Buggati Bolide amplia as possibilidades da tecnologia dos desportos motorizados. E agora é a sua vez de construir este carro de corrida icónico com o set LEGO® Technic Bugatti Bolide. Exiba os detalhes do carro, incluindo um motor W16 em funcionamento, direção e portas em tesoura, e acrescente os detalhes do au
-  Updated: 2025-10-26T21:52:44Z
+  Updated: 2025-10-27T09:52:47Z
   Vendor: LEGO
   Product Type: + 9 anos
   Availability: Available
@@ -12623,21 +12616,21 @@ do tempo a caçar no gelo marinho.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-friends-carrinha-de-imprensa-664174923-5702017415321-lego-1178697033.jpg?v=1752802442
   Price: 32,99 € EUR
 - [Lego Friends - Hidroavião de Resgate](https://brincatoys.pt/products/lego-friends-hidroaviao-de-resgate): Pode ajudar o Zac com uma missão de resgate? Ele encontrou uma baleia beluga que está presa entre as rochas e pedaços de madeira antiga na linha costeira da praia de Heartlake City. Felizmente, a sua mentora, Dia, está a pilotar o avião de resgate marítimo. Zac telefona-lhe e eles trabalham em conjunto para salvar a baleia. Assim que a baleia estiv
-  Updated: 2025-10-26T21:57:19Z
+  Updated: 2025-10-27T09:55:34Z
   Vendor: LEGO
   Product Type: + 6 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-friends-hidroaviao-de-resgate-664175223-5702017415345-lego-1178697037.jpg?v=1752802454
   Price: 22,50 € EUR
 - [Lego Technic - NASA Mars Rover Perseverance](https://brincatoys.pt/products/lego-technic-nasa-mars-rover-perseverance): Tudo a postos para a sua missão a Marte? Está na altura de construir um modelo réplica do Mars Perseverance Rover da NASA e do helicóptero Ingenuity que o acompanha. Verifique a suspensão articulada que permite ao rover viajar por superfícies irregulares nas suas 6 rodas. Experimente a direção avançada de 2 modos e mexa o braço do rover. Explore ai
-  Updated: 2025-10-26T21:52:44Z
+  Updated: 2025-10-27T09:52:49Z
   Vendor: LEGO
   Product Type: + 10 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-technic-nasa-mars-rover-perseverance-664215823-5702017425184-lego-1178697041.jpg?v=1752903621
   Price: 94,99 € EUR
 - [Lego City - Geladaria](https://brincatoys.pt/products/lego-city-geladaria): Suba para a mota de carga e dirija-se à LEGO® City Geladaria. Ajude o funcionário a servir gelados e batidos deliciosos a clientes satisfeitos. Esta geladaria é mesmo fixe! É o destino perfeito para uma festa de aniversário, com um balcão de gelados incrível, um liquidificador, um frigorífico e uma área de convívio ao ar livre onde os amigos e as f
-  Updated: 2025-10-26T21:57:18Z
+  Updated: 2025-10-27T09:55:35Z
   Vendor: LEGO
   Product Type: + 6 anos
   Availability: Available
@@ -12735,7 +12728,7 @@ do tempo a caçar no gelo marinho.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-marvel-figura-de-construcao-de-capitao-america-667625823-5702017419749-lego-1178697111.jpg?v=1752904940
   Price: 39,99 € EUR
 - [Lego DC Comics - Figura de Construção de Batman](https://brincatoys.pt/products/lego-dc-figura-de-construcao-de-batman): Junte-se à ação em GOTHAM CITY™ com a sua própria figura do Batman™! Esta figura fantástica move, torce e vira, tal como o verdadeiro Batman. Com uma cidade inteira para proteger e tantos bandidos para combater, as aventuras emocionantes nunca terão fim!                    Coloque o futuro da GOTHAM CITY™ nas mãos do seu jovem combatente do crime c
-  Updated: 2025-10-26T21:57:18Z
+  Updated: 2025-10-27T09:55:33Z
   Vendor: LEGO
   Product Type: + 8 anos
   Availability: Available
@@ -13208,7 +13201,7 @@ Figura com aproximadamente 10,8 cm.
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lamborghini-aventador-coupe-laranja-689462723-4891761240332-brincatoys-1178697370.jpg?v=1752908891
   Price: 22,99 € EUR
 - [Lego Friends - Calendário do Advento 2023](https://brincatoys.pt/products/lego-friends-calendario-do-advento-2023): Os animais de estimação de Heartlake City estão a celebrar as férias no parque de recreio para animais. Ajude-os a fazer a contagem decrescente até ao grande dia com o Calendário de Advento Lego Friends. Descubra um personagem, brinquedo ou atividade diferente atrás de cada janela. Decore a árvore de Natal. Depois crie atividades para os animais desfrutarem, enquanto exploram o parque canino. Reorganize as construções para criar novas aventuras para os amigos animais. Dimensão: 38,50 x 26 x 6,80 cm. Idade Recomendada: + de 6 anos.
-  Updated: 2025-10-26T21:57:18Z
+  Updated: 2025-10-27T09:55:34Z
   Vendor: LEGO
   Product Type: + 6 anos
   Availability: Available
@@ -13359,7 +13352,7 @@ Esta espantosa réplica LEGO® Speed Champions do hipercarro totalmente
 elétrico é agora tua para colecionar, construir e explorar enquanto 
 recrias o design aerodinâmico sem precedentes do veículo peça a peça. E 
 quando tiveres terminado, podes expor a tua criação com orgulho...
-  Updated: 2025-10-26T21:50:00Z
+  Updated: 2025-10-27T09:48:19Z
   Vendor: LEGO
   Product Type: + 8 anos
   Availability: Available
@@ -13457,14 +13450,14 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-duplo-o-passeio-de-autocarro-661098823-5702017416243-lego-1178697545.webp?v=1752912132
   Price: 22,50 € EUR
 - [Lego Minecraft - A Quinta de Pumpkin](https://brincatoys.pt/products/lego-minecraft-a-quinta-de-pumpkin): Os jogadores de Minecraft vão poder dar destaque às abóboras do jogo com o LEGO Minecraft A Quinta de Pumpkin . Incluindo uma das personagens mais populares do jogo e uma bruxa problemática, este playset versátil vai inspirar aventuras repletas de ação infinitas no canteiro de abóboras, para crianças. Playset interativo com abóboras de Minecraft Inserido no terrível bioma do pântano, este brinquedo incrivelmente reconfigurável inclui a personagem principal Steve na quinta das abóboras, construída em volta de uma casa em forma de abóbora. A casa conta com um interior equipado, incluindo uma cama, bancada de trabalho, forno e uma luz de sapo. No exterior, encontra-se um canteiro de abóboras onde o Steve trabalha com a sua enxada. As oportunidades de brincadeira mudam para ação de batalha quando uma bruxa atira poções na direção do Steve, obrigando-o a defender-se com o seu arco. O set também inclui um sapo, barco e um baú que contém um ovo e açúcar, proporcionando às crianças a oportunidade de fazerem uma tarte de abóbora! Para ação digital extra, os construtores podem ampliar, rodar os sets em 3D e acompanhar o progresso através da divertida aplicação LEGO Builder. Dimensão: 35 x 19 x 5,50 cm. Idade Recomendada: + de 8 anos.
-  Updated: 2025-10-26T21:46:54Z
+  Updated: 2025-10-27T09:46:18Z
   Vendor: LEGO
   Product Type: + 8 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-minecraft-a-quinta-de-pumpkin-662124823-5702017415833-lego-1178697553.jpg?v=1752912254
   Price: 41,90 € EUR
 - [Lego Technic 42161 - Lamborghini Huracán Tecnica](https://brincatoys.pt/products/lego-technic-lamborghini-huracan-tecnica): Colecione a engenharia e design do Lego Technic 42161 - Lamborghini Huracán Tecnica. Um presente perfeito para amantes de carros.
-  Updated: 2025-10-26T21:52:44Z
+  Updated: 2025-10-27T09:52:48Z
   Vendor: LEGO
   Product Type: + 9 anos
   Availability: Available
@@ -13709,7 +13702,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-marvel-76263-hulkbuster-vs-thanos-brincatoys-667626323-5702017419794-lego-1178697708.jpg?v=1752797890
   Price: 29,99 € EUR
 - [Lego Batman 76264 - Perseguição Batmobile](https://brincatoys.pt/products/lego-batman-76264-batwing-batman-vs-the-joker): Descubra a emoção de Gotham com o Lego Batman 76264 - Perseguição Batmobile t: Batman vs. The Joker. Construa o icónico Batmobile e reviva as batalhas épicas.
-  Updated: 2025-10-26T21:57:18Z
+  Updated: 2025-10-27T09:55:34Z
   Vendor: LEGO
   Product Type: + 8 anos
   Availability: Available
@@ -13856,7 +13849,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/tapete-de-ensino-multicolorido-760193823-brincatoys-1178697802.jpg?v=1752914645
   Price: 44,99 € EUR
 - [Veículo de Equilíbrio Elefante Rosa](https://brincatoys.pt/products/veiculo-de-equilibrio-elefante-rosa): Veículo de equilíbrio de quatro rodas essencial para promover o desenvolvimento da criança com diversão e alegria. Ajuda as crianças, até aos 25 Kg, a desenvolver as habilidades motoras e de equilíbrio. Além disso, a sua projecção na forma de um elefante despertará a atenção das crianças tornando-se um dos seus brinquedos favoritos. Este veículo apresenta uma construção segura, promovida pelas quatro rodas, um assento confortável com dupla camada de enchimento, alças antiderrapantes e é ergonomicamente adaptada às proporções do corpo das crianças. Além disso, as alças do guiador brilham de forma alternada, em cores diferentes, de forma a promover uma maior diversão e segurança. Quando uma criança é pequena, ela absorve o mundo ao seu redor. Este é o melhor momento para estimular nele a curiosidade, a imaginação e a paixão. A criança interessa-se por tudo, principalmente por coisas coloridas e atraentes como este veículo. Se o produto ficar sujo, basta limpá-lo com um pano úmido. As baterias para iluminação colocadas no guiador podem ser facilmente substituídas. Dimensão: 60 x 27 x 19 cm. Idade Recomendada: + de 12 meses.
-  Updated: 2025-10-13T06:21:25Z
+  Updated: 2025-10-27T12:21:20Z
   Vendor: Seleção Brincatoys
   Product Type: + 12 meses
   Availability: Available
@@ -14150,63 +14143,63 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/transformers-rise-of-the-beasts-terrorcon-novakane-867493523-transformers-1178698000.jpg?v=1752917893
   Price: 19,50 € EUR
 - [LEGO Minecraft 21251 Expedição no Deserto de Steve](https://brincatoys.pt/products/lego-minecraft-expedicao-no-deserto-de-steve): Transforme o deserto do Minecraft em um cenário de aventuras com o conjunto LEGO Minecraft 21251 Expedição no Deserto de Steve.
-  Updated: 2025-10-26T21:46:54Z
+  Updated: 2025-10-27T09:46:22Z
   Vendor: LEGO
   Product Type: + 6 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-minecraft-21251-expedicao-no-deserto-de-steve-662125124-5702017583273-lego-1178698004.jpg?v=1752796930
   Price: 12,00 € EUR
 - [Lego Minecraft 21252 O Depósito de Armas: Mundo de Minecraft](https://brincatoys.pt/products/lego-minecraft-21252-o-deposito-de-armas): Seja parte do universo pixelizado de Minecraft com o Lego Minecraft 21252 O Depósito de Armas. Descubra o Ferreiro, a Alex e suas aventuras emocionantes! 💣
-  Updated: 2025-10-26T21:46:54Z
+  Updated: 2025-10-27T09:46:18Z
   Vendor: LEGO
   Product Type: + 7 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-minecraft-21252-o-deposito-de-armas-mundo-de-minecraft-662125224-5702017583280-lego-1178698008.jpg?v=1752796943
   Price: 22,90 € EUR
 - [Lego Minecraft 21254 A Casa de Tartaruga - Brincatoys](https://brincatoys.pt/products/lego-minecraft-21254-a-casa-de-praia-tartaruga): Explore o Bioma do Oceano com o Lego Minecraft 21254 A Casa de Praia Tartaruga. Construa a Casa e embarque em emocionantes aventuras submarinas!
-  Updated: 2025-10-26T21:46:54Z
+  Updated: 2025-10-27T09:46:17Z
   Vendor: LEGO
   Product Type: + 8 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-minecraft-21254-a-casa-de-tartaruga-brincatoys-662125424-5702017583303-lego-1178698016.jpg?v=1752918020
   Price: 29,99 € EUR
 - [Lego Minecraft 21255 A Emboscada do Portal do Nether](https://brincatoys.pt/products/lego-minecraft-21255-a-emboscada-do-portal-do-nether): Crie suas próprias batalhas épicas com o Lego Minecraft 21255 A Emboscada do Portal do Nether. Aventure-se no Nether e derrote criaturas aterrorizantes.
-  Updated: 2025-10-26T21:46:54Z
+  Updated: 2025-10-27T09:46:19Z
   Vendor: LEGO
   Product Type: + 8 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-minecraft-21255-a-emboscada-do-portal-do-nether-662125524-5702017583310-lego-1178698020.jpg?v=1752918127
   Price: 42,50 € EUR
 - [Lego Technic 42163 Bulldozer Pesado - Detalhes Autênticos](https://brincatoys.pt/products/lego-technic-bulldozer-pesado): Explore o mundo da engenharia e construção com o LEGO Technic 42163 Bulldozer Pesado. Mais de 190 peças para uma montagem envolvente e educativa! 🚜
-  Updated: 2025-10-26T21:52:43Z
+  Updated: 2025-10-27T09:52:48Z
   Vendor: LEGO
   Product Type: + 7 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-technic-42163-bulldozer-pesado-detalhes-autenticos-664216324-5702017560717-lego-1178698028.jpg?v=1752918251
   Price: 12,90 € EUR
 - [Lego Technic 42164 Buggy de Corrida Todo-o-Terreno](https://brincatoys.pt/products/lego-technic-buggy-de-corrida-todo-o-terreno): Descubra o Lego Technic 42164 - Buggy de Corrida Todo-o-Terreno, o brinquedo ideal para amantes de desafios mecânicos e corridas emocionantes.
-  Updated: 2025-10-26T21:52:43Z
+  Updated: 2025-10-27T09:52:49Z
   Vendor: LEGO
   Product Type: + 8 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-technic-42164-buggy-de-corrida-todo-o-terreno-664216424-5702017567167-lego-1178698032.jpg?v=1752918363
   Price: 18,90 € EUR
 - [Lego Technic 42166 NEOM McLaren Extreme E Race Car:](https://brincatoys.pt/products/lego-technic-neom-mclaren-extreme-e-race-car): Dê vida à emoção das corridas com o Lego Technic 42166 NEOM McLaren Extreme E Race Car. Design autêntico para jovens pilotos.
-  Updated: 2025-10-26T21:52:43Z
+  Updated: 2025-10-27T09:52:49Z
   Vendor: LEGO
   Product Type: + 7 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-technic-42166-neom-mclaren-extreme-e-race-car-664216624-5702017583518-lego-1178698036.jpg?v=1752918374
   Price: 29,99 € EUR
 - [Lego Technic - Camião do Lixo Mack LR Electric](https://brincatoys.pt/products/lego-technic-camiao-do-lixo-mack-lr-electric): Ajude a manter a cidade num brinco com o LEGO® Technic Camião do Lixo Mack LR Electric. O camião Mack real é elétrico, tornando-se numa opção ecológica para recolher o lixo. Preparado para testar esta versão do modelo? Abra as portas para aceder à cabina do operador e depois coloque o camião em posição. Use o carregador lateral para agarrar, levantar e inclinar os caixotes do lixo antes de passar à próxima paragem. Inspire as crianças fãs de veículos a pensar de forma ecológica e a manter a cidade limpa com o LEGO® Technic Camião do Lixo Mack® LR Electric (42166) para rapazes e raparigas 8+. Este camião do lixo de brincar inspira-se no inovador camião Mack e inclui movimentos e funcionalidades realistas. Depois da construção, as crianças vão desfrutar do jogo criativo enquanto exploram as suas funções. As portas abrem e as crianças usam a peça para colocar o camião na posição certa. Tal como o veículo real, este modelo tem um carregador lateral para agarrar, levantar e inclinar os caixotes do lixo. Depois, as crianças vão brincar enquanto conduzem e descarregam o lixo. O set inclui baldes e outras peças de lixo para incentivar a brincadeira imaginativa. Os sets LEGO Technic incluem funções realistas para ensinar engenharia aos construtores mais novos. Ofereça às crianças uma aventura de construção gratificante com a app LEGO Builder, onde podem ampliar, rodar modelos em 3D e acompanhar o progresso. Dimensão: 35,40 x 19,10 x 7 cm. Idade Recomendada: + de 8 anos.
-  Updated: 2025-10-26T21:52:43Z
+  Updated: 2025-10-27T09:52:48Z
   Vendor: LEGO
   Product Type: + 8 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-technic-camiao-do-lixo-mack-lr-electric-664216724-5702017583525-lego-1178698040.jpg?v=1752918487
   Price: 38,90 € EUR
 - [Lego Technic - John Deere 9700 Forage Harvester](https://brincatoys.pt/products/lego-technic-john-deere-9700-forage-harvester): Para uma colheita produtiva e em grande escala, é preciso uma máquina poderosa. E, em termos de potência, nada ganha à John Deere 9700 Forage Harvester. Agora, já pode construir a sua própria versão LEGO® Technic desta poderosa máquina com ferramenta de ceifar à frente. Suba, baixe e rode a ceifeira para replicar as ações da máquina real.As crianças apaixonadas por brinquedos de agricultura vão desfrutar do jogo criativo com a LEGO® Technic John Deere 9700 Forage Harvester (42168). O modelo apresenta as cores John Deere clássicas e funcionalidades como a direção da roda traseira e ceifeira na parte frontal, que as crianças podem subir, descer e rodar para replicar as ações da máquina real. Os sets de construção LEGO Technic incluem detalhes realistas que apresentam a engenharia aos jovens construtores de uma forma acessível. Proporcione às crianças uma aventura de construção divertida com a aplicação LEGO Builder. Esta permite-lhes ampliar e rodar os modelos em 3D e acompanhar o progresso. Dimensão: 26,20 x 22,20 x 9,50 cm. Idade Recomendada: + de 9 anos.
-  Updated: 2025-10-26T21:52:42Z
+  Updated: 2025-10-27T09:52:46Z
   Vendor: LEGO
   Product Type: + 9 anos
   Availability: Available
@@ -14444,7 +14437,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/squishmallows-prehistoric-squad-peluches-5-cm-23046924-squishville-1178698201.jpg?v=1752921843
   Price: 22,99 € EUR
 - [Squishmallows Autumn Friends Squad - Peluches 5 cm](https://brincatoys.pt/products/squishville-mini-squishmallows-autumn-friends-squad): Encontre o presente ideal com o Squishville Mini Squishmallows Autumn Friends Squad. Macios, colecionáveis e prontos para brincadeiras outonais.
-  Updated: 2025-10-13T06:20:45Z
+  Updated: 2025-10-27T11:00:56Z
   Vendor: Squishville
   Product Type: + 3 anos
   Availability: Available
@@ -14570,7 +14563,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/puzzle-infantil-bluey-e-familia-de-104-pecas-552716924-8005125271696-bluey-1178698293.jpg?v=1752923406
   Price: 9,99 € EUR
 - [LEGO Batman 76265 Batwing: Batman vs. The Joker](https://brincatoys.pt/products/lego-batman-76265-batwing-batman-vs-the-joker): LEGO Batman 76265 Batwing com 357 peças para recriar o confronto épico entre Batman e The Joker. Ideal para fãs de super-heróis.
-  Updated: 2025-10-26T21:57:18Z
+  Updated: 2025-10-27T09:55:33Z
   Vendor: LEGO
   Product Type: + 8 anos
   Availability: Available
@@ -14710,21 +14703,21 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/transformers-predacon-scorponok-figura-colecionavel-86875524-transformers-1178698377.jpg?v=1752925087
   Price: 36,99 € EUR
 - [Lego City 60404 Camião de Hambúrgueres - Brincatoys](https://brincatoys.pt/products/lego-city-60404-camiao-de-hamburgueres): Descubra o Lego City 60404 Camião de Hambúrgueres. Um conjunto repleto de detalhes para uma experiência de montagem e jogo imaginativo inesquecível.
-  Updated: 2025-10-26T21:57:18Z
+  Updated: 2025-10-27T09:55:33Z
   Vendor: LEGO
   Product Type: + 5 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-city-60404-camiao-de-hamburgueres-brincatoys-666040424-5702017567471-lego-1178698385.jpg?v=1752925208
   Price: 22,90 € EUR
 - [Lego City 60403 Ambulância de Emergência e Snowboarder](https://brincatoys.pt/products/lego-city-60403-ambulancia-de-emergencia-snowboarder): Encontre o Lego City 60403 Ambulância de Emergência e Snowboarder para estimular o heroísmo nas brincadeiras das crianças.
-  Updated: 2025-10-26T21:57:18Z
+  Updated: 2025-10-27T09:55:32Z
   Vendor: LEGO
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-city-60403-ambulancia-de-emergencia-e-snowboarder-666040324-5702017566764-lego-1178698389.jpg?v=1752925220
   Price: 22,90 € EUR
 - [Lego City 60401 Máquina de Construção com Cilindro](https://brincatoys.pt/products/lego-city-60401-maquina-de-construcao-com-cilindro): Descubra o Lego City 60401 Máquina de Construção com Cilindro. Um conjunto com 78 peças e uma minifigura inclusa, perfeito para pequenos construtores.
-  Updated: 2025-10-26T21:57:17Z
+  Updated: 2025-10-27T09:55:33Z
   Vendor: LEGO
   Product Type: + 5 anos
   Availability: Available
@@ -14773,21 +14766,21 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-dreamzzz-71477-a-torre-do-homem-areia-667147724-5702017584232-lego-1178698441.jpg?v=1752926289
   Price: 89,99 € EUR
 - [Lego City 60411 Helicóptero de Resgate dos Bombeiros](https://brincatoys.pt/products/lego-city-60411-helicoptero-de-resgate-dos-bombeiros): Lego City 60411 Helicóptero de Resgate dos Bombeiros para a criançada viver aventuras de resgate! Conjunto autêntico e educacional. Ideal para presente!
-  Updated: 2025-10-26T21:57:16Z
+  Updated: 2025-10-27T09:55:45Z
   Vendor: LEGO
   Product Type: + 5 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-city-60411-helicoptero-de-resgate-dos-bombeiros-666041124-5702017582931-lego-1178698449.jpg?v=1752926532
   Price: 12,50 € EUR
 - [Lego City 60413 Avião de Resgate dos Bombeiros](https://brincatoys.pt/products/lego-city-60413-aviao-de-resgate-dos-bombeiros): Descubra a emoção e o heroísmo com o Lego City 60413 Avião de Resgate dos Bombeiros. Aventura-se no mundo do combate a incêndios.
-  Updated: 2025-10-26T21:57:16Z
+  Updated: 2025-10-27T09:55:31Z
   Vendor: LEGO
   Product Type: + 6 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-city-60413-aviao-de-resgate-dos-bombeiros-666041324-5702017582955-lego-1178698457.jpg?v=1752926654
   Price: 62,90 € EUR
 - [Lego City 60415 Perseguição de Carro da Polícia a Muscle Car](https://brincatoys.pt/products/lego-city-60415-perseguicao-de-carro-da-policia): Descubra o Lego City 60415 Perseguição de Carro da Polícia a Muscle Car. Construa, brinque e inspire-se com este conjunto criativo e durável.
-  Updated: 2025-10-26T21:57:16Z
+  Updated: 2025-10-27T09:55:33Z
   Vendor: LEGO
   Product Type: + 6 anos
   Availability: Available
@@ -14808,21 +14801,21 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-ninjago-71803-o-ataque-do-dragao-em-ascensao-667180324-5702017565538-lego-1178698474.jpg?v=1752927244
   Price: 12,50 € EUR
 - [Lego City 60418 Camião de Laboratório Criminal da Polícia](https://brincatoys.pt/products/lego-city-camiao-de-laboratorio-criminal-da-policia): Lego City 60418 Camião de Laboratório Criminal da Polícia. Crie aventuras forenses emocionantes e inspire a justiça nas brincadeiras das crianças.
-  Updated: 2025-10-26T21:57:16Z
+  Updated: 2025-10-27T09:55:32Z
   Vendor: LEGO
   Product Type: + 7 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-city-60418-camiao-de-laboratorio-criminal-da-policia-666041824-5702017583709-lego-1178698481.jpg?v=1752927483
   Price: 58,50 € EUR
 - [Lego City 60429 Nave Espacial e Descoberta de Asteroide](https://brincatoys.pt/products/lego-city-60429-nave-espacial-e-descoberta-de): Conjunto LEGO City 60429 Nave Espacial e Descoberta de Asteroide! Ideal para crianças a partir dos 4 anos. Estimula a imaginação e o desenvolvimento cognitivo.
-  Updated: 2025-10-26T21:57:16Z
+  Updated: 2025-10-27T09:55:31Z
   Vendor: LEGO
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-city-60429-nave-espacial-e-descoberta-de-asteroide-666042925-5702017567501-lego-1178698489.jpg?v=1752927605
   Price: 22,50 € EUR
 - [Lego City 60430 Nave Espacial Interestelar - Brincatoys](https://brincatoys.pt/products/lego-city-60430-nave-espacial-interestelar): Conquiste o espaço com o Lego City 60430 Nave Espacial Interestelar! Este conjunto Lego inspira aventuras intergalácticas e criatividade ilimitada.
-  Updated: 2025-10-26T21:57:16Z
+  Updated: 2025-10-27T09:55:32Z
   Vendor: LEGO
   Product Type: + 6 anos
   Availability: Available
@@ -15272,14 +15265,14 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-10794-marvel-equipa-spidey-aventura-para-criancas-661079425-5702017582474-lego-1178698873.png?v=1752933247
   Price: 59,99 € EUR
 - [Lego 42169 Technic NEOM McLaren – Réplica Autêntica](https://brincatoys.pt/products/lego-technic-neom-mclaren-formula-e-race-car): Explore o Lego 42169 Technic NEOM McLaren, uma réplica detalhada para fãs de Fórmula 1 e construção Lego. Mecanismo 'pull back', qualidade imbatível.
-  Updated: 2025-10-26T21:52:42Z
+  Updated: 2025-10-27T09:52:50Z
   Vendor: LEGO
   Product Type: + 9 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-42169-technic-neom-mclaren-replica-autentica-664216924-5702017583549-lego-1178698878.jpg?v=1752794522
   Price: 58,50 € EUR
 - [LEGO 42178 Technic Surface Space Loader - Aventura Espacial](https://brincatoys.pt/products/lego-technic-surface-space-loader-lt78): Domine terrenos extraterrestres com o LEGO 42178 Technic Surface Space Loader! Engenho e técnica numa aventura cósmica fundem-se neste conjunto.
-  Updated: 2025-10-26T21:52:42Z
+  Updated: 2025-10-27T09:52:48Z
   Vendor: LEGO
   Product Type: + 8 anos
   Availability: Available
@@ -15314,7 +15307,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-77048-animal-crossing-incremente-a-sua-colecao-667704824-5702017592343-lego-1178698905.jpg?v=1752794902
   Price: 32,99 € EUR
 - [Lego 76922 Speed Champions - BMW M4 GT3 e M Hybrid V8](https://brincatoys.pt/products/lego-speed-champions-carros-de-corrida-bmw-m4-gt3-e-bmw-m-hybrid-v8): Conquiste a pista com o LEGO 76922 Speed Champions - Carros de Corrida BMW M4 GT3 e BMW M Hybrid V8. Ideal para fãs de corridas.
-  Updated: 2025-10-26T21:50:00Z
+  Updated: 2025-10-27T09:48:24Z
   Vendor: LEGO
   Product Type: + 9 anos
   Availability: Available
@@ -16077,7 +16070,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/play-doh-aviao-explorador-brinquedo-educativo-90880424-5010996201423-play-doh-1178699562.jpg?v=1752792369
   Price: 16,90 € EUR
 - [Play-Doh Kit Pequenos Chefes – Diversão e Criatividade](https://brincatoys.pt/products/play-doh-kit-pequenos-chefes): Descubra o conjunto Play-Doh Kit Pequenos Chefes e deixe a imaginação das crianças correr solta! Ferramentas seguras, cores vibrantes e moldes divertidos.
-  Updated: 2025-10-13T06:18:54Z
+  Updated: 2025-10-27T13:58:35Z
   Vendor: Play-Doh
   Product Type: + 3 anos
   Availability: Available
@@ -16105,7 +16098,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/pistola-nerf-elite-2-0-commander-rd-6-acao-e-precisao-90948524-5010993725038-nerf-1178699578.jpg?v=1752944042
   Price: 15,99 € EUR
 - [Play-Doh Fábrica Divertida - Estimule a Criatividade](https://brincatoys.pt/products/play-doh-fabrica-divertida): Play-Doh Fábrica Divertida! Inspire a criatividade das crianças com ferramentas coloridas e massinha de modelar. Para o desenvolvimento cognitivo.
-  Updated: 2025-10-13T06:18:51Z
+  Updated: 2025-10-27T13:58:41Z
   Vendor: Play-Doh
   Product Type: + 3 anos
   Availability: Available
@@ -16420,21 +16413,21 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/conjunto-maquilhagem-infantil-beauty-82301424-6943478012066-brincatoys-1178699884.jpg?v=1752789492
   Price: 22,99 € EUR
 - [Lego Minecraft 21260 - Jardim das Cerejeiras](https://brincatoys.pt/products/lego-minecraft-o-jardim-das-cerejeiras): Entre no mundo de Minecraft com o colorido e criativo Lego Minecraft 21260 - O Jardim das Cerejeiras. Ideal para fãs de todas as idades.
-  Updated: 2025-10-26T21:46:54Z
+  Updated: 2025-10-27T09:46:17Z
   Vendor: LEGO
   Product Type: + 8 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-minecraft-21260-jardim-das-cerejeiras-662126024-5702017583365-lego-1178699888.jpg?v=1752789602
   Price: 30,99 € EUR
 - [Lego Minecraft 21261 - A Fortaleza dos Lobos](https://brincatoys.pt/products/lego-minecraft-21261-a-fortaleza-dos-lobos): Descubra o Lego Minecraft 21261 - A Fortaleza dos Lobos. Um set de construção que oferece horas de diversão e aventura num mundo pixelizado.
-  Updated: 2025-10-26T21:46:53Z
+  Updated: 2025-10-27T09:46:17Z
   Vendor: LEGO
   Product Type: + 8 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-minecraft-21261-a-fortaleza-dos-lobos-662126124-5702017583372-lego-1178699892.jpg?v=1752789615
   Price: 38,90 € EUR
 - [Lego Minecraft 21263 - Poço de Minas das Terras Baldias](https://brincatoys.pt/products/lego-minecraft-21263-poco-de-minas-das-terras-baldias): Lego Minecraft 21263 - O Poço de Minas das Terras Baldias. Crie a sua própria aventura; construa, explore e desfrute com Lego e Minecraft!
-  Updated: 2025-10-26T21:46:53Z
+  Updated: 2025-10-27T09:46:15Z
   Vendor: LEGO
   Product Type: + 8 anos
   Availability: Available
@@ -16448,7 +16441,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-creator-31151-t-rex-3-em-1-construcao-e-diversao-663115124-5702017585093-lego-1178699900.jpg?v=1752789738
   Price: 62,90 € EUR
 - [Lego Technic 42156 Peugeot 9X8 24H Le Mans Hypercar](https://brincatoys.pt/products/lego-technic-42156-peugeot-9x8-24h): Construa a paixão por corridas com o Lego Technic 42156 - Peugeot 9X8 24H Le Mans Hybrid Hypercar, um modelo de coleção com 1775 peças cheio de detalhes.
-  Updated: 2025-10-26T21:52:41Z
+  Updated: 2025-10-27T09:52:45Z
   Vendor: LEGO
   Product Type: + 14 anos
   Availability: Available
@@ -16462,7 +16455,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/boneco-marvel-titan-hero-wolverine-brincatoys-907972524-5010996136954-marvel-1178699912.jpg?v=1752790091
   Price: 17,99 € EUR
 - [Lego Technic 42170 Mota Kawasaki Ninja H2R](https://brincatoys.pt/products/lego-technic-42170-mota-kawasaki-ninja): Descubra o Lego Technic 42170 - Mota Kawasaki Ninja H2R, uma construção detalhada para amantes de Lego e motociclismo. Ideal para mentes criativas.
-  Updated: 2025-10-26T21:52:41Z
+  Updated: 2025-10-27T09:53:02Z
   Vendor: LEGO
   Product Type: + 10 anos
   Availability: Available
@@ -16574,7 +16567,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-de-brincar-ferrari-racing-488-gte-2017-683630125-8719247604033-bburago-1178700012.jpg?v=1752949203
   Price: 29,99 € EUR
 - [Lego Speed Champions 76935 - NASCAR Chevrolet Camaro ZL1](https://brincatoys.pt/products/lego-speed-champions-nascar®-next-gen-chevrolet-camaro-zl1): LEGO Speed Champions 76935 - NASCAR Next Gen Chevrolet Camaro ZL1.Monte a sua própria réplica detalhada de um ícone das pistas.
-  Updated: 2025-10-26T21:50:01Z
+  Updated: 2025-10-27T09:48:20Z
   Vendor: LEGO
   Product Type: + 9 anos
   Availability: Available
@@ -16672,7 +16665,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/monster-high-festa-monstros-frankie-stein-772306724-0194735230679-monster-high-1178700076.jpg?v=1752950526
   Price: 39,99 € EUR
 - [Lego City 60423 - Elétrico e Estação na Baixa](https://brincatoys.pt/products/lego-city-60423-eletrico-e-estacao-na-baixa): Descubra o Lego City 60423 - Elétrico e Estação na Baixa, um conjunto irresistível que oferece uma experiência de montagem detalhada e interativa.
-  Updated: 2025-10-26T21:57:16Z
+  Updated: 2025-10-27T09:55:30Z
   Vendor: LEGO
   Product Type: + 7 anos
   Availability: Available
@@ -16868,7 +16861,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-friends-42624-cabanas-confortaveis-do-campo-aventura-664262424-5702017589428-lego-1178700227.jpg?v=1752952577
   Price: 49,99 € EUR
 - [Lego Friends 42636 - Jardim de Infância de Heartlake City](https://brincatoys.pt/products/lego-friends-jardim-de-infancia-de-heartlake-city): Descubra o Lego Friends 42636 - Jardim de Infância de Heartlake City cheio de cor, diversão e aprendizagem. Ideal para crianças criativas.
-  Updated: 2025-10-26T21:57:15Z
+  Updated: 2025-10-27T09:55:31Z
   Vendor: LEGO
   Product Type: + 4 anos
   Availability: Available
@@ -17099,56 +17092,56 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/carro-da-disney-pixar-sheriff-replica-perfeita-555618624-887961561869-cars-1178700412.jpg?v=1752955566
   Price: 11,99 € EUR
 - [: Lego City 60407 - Autocarro Turístico Vermelho de 2 Pisos](https://brincatoys.pt/products/lego-city-autocarro-turistico-vermelho-de-2-pisos): Descubra a emoção da cidade com o Lego City 60407 - Autocarro Turístico Vermelho de 2 Pisos.384 peças de diversão urbana para entusiastas.
-  Updated: 2025-10-26T21:57:15Z
+  Updated: 2025-10-27T18:56:15Z
   Vendor: LEGO
   Product Type: + 7 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-city-60407-autocarro-turistico-vermelho-de-2-pisos-666040724-5702017582894-lego-1178700436.jpg?v=1752955814
   Price: 32,90 € EUR
 - [Lego City 60409 - Grua de Construção Móvel Amarela](https://brincatoys.pt/products/lego-city-grua-de-construcao-movel-amarela): Explore o fascinante mundo da construção com o Lego City 60409 - Grua de Construção Móvel Amarela. Este conjunto promove criatividade e habilidades motoras.
-  Updated: 2025-10-26T21:57:15Z
+  Updated: 2025-10-27T09:55:38Z
   Vendor: LEGO
   Product Type: + 9 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-city-60409-grua-de-construcao-movel-amarela-666040924-5702017582917-lego-1178700440.jpg?v=1752787088
   Price: 112,50 € EUR
 - [Lego City 60425 - Hidroavião Explorador da Selva](https://brincatoys.pt/products/lego-city-hidroaviao-explorador-da-selva): Descubra aemoção da exploração com o Lego City 60425 - Hidroavião Explorador da Selva. Aventuras tropicais, encontros com crocodilos e diversão criativa.
-  Updated: 2025-10-26T21:57:15Z
+  Updated: 2025-10-27T09:55:39Z
   Vendor: LEGO
   Product Type: + 6 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-city-60425-hidroaviao-explorador-da-selva-666042524-5702017585239-lego-1178700444.jpg?v=1752787102
   Price: 24,99 € EUR
 - [Lego City 60426 - Todo-o-terreno Explorador da Selva](https://brincatoys.pt/products/lego-city-todo-o-terreno-explorador-da-selva): Descubra o LEGO City 60426 - Todo-o-terreno Explorador da Selva. Aventura-se pela selva com este conjunto com veículo todo-o-terreno, exploradores e tigre.
-  Updated: 2025-10-26T21:57:14Z
+  Updated: 2025-10-27T09:55:30Z
   Vendor: LEGO
   Product Type: + 6 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-city-60426-todo-o-terreno-explorador-da-selva-666042624-5702017586014-lego-1178700449.jpg?v=1752786852
   Price: 32,90 € EUR
 - [Lego City 60435 - Camião-Reboque e Reparação de Carro](https://brincatoys.pt/products/lego-city-camiao-reboque-e-reparacao-de-carro-desportivo): Descubra o Lego City 60435 - Camião-Reboque e Reparação de Carro Desportivo. Um conjunto que combina diversão e aprendizagem numa aventura urbana.
-  Updated: 2025-10-26T21:57:14Z
+  Updated: 2025-10-27T09:55:39Z
   Vendor: LEGO
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-city-60435-camiao-reboque-e-reparacao-de-carro-666043524-5702017587325-lego-1178700452.jpg?v=1752786860
   Price: 22,50 € EUR
 - [Lego DC Comics 76270 - Armadura Mech do Batman](https://brincatoys.pt/products/lego-dc-comics-76270-armadura-mech-do-batman): Descubra a Armadura Mech do Batman Lego DC Comics 76270. Construa, brinque e colecione o herói de Gotham em versão robô articulado.
-  Updated: 2025-10-26T21:57:14Z
+  Updated: 2025-10-27T09:55:28Z
   Vendor: LEGO
   Product Type: + 6 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-dc-comics-76270-armadura-mech-do-batman-667627024-5702017590219-lego-1178700456.jpg?v=1752786605
   Price: 18,50 € EUR
 - [Lego DC Comics 76272 - A Batcaverna com Batman, Batgirl](https://brincatoys.pt/products/lego-dc-comics-a-batcaverna-com-batman-batgirl-e-the-joker): Descubra a emocionante Lego DC Comics 76272 - A Batcaverna com Batman, Batgirl e The Joker! Com este conjunto oferece aventuras super-heroicas.
-  Updated: 2025-10-26T21:57:14Z
+  Updated: 2025-10-27T09:55:29Z
   Vendor: LEGO
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-dc-comics-76272-a-batcaverna-com-batman-batgirl-667627224-5702017590233-lego-1178700460.jpg?v=1752786618
   Price: 38,50 € EUR
 - [Lego DC Comics 76274 - Batman com o Batmóvel vs. Harley Quin](https://brincatoys.pt/products/lego-dc-comics-batman-com-o-batmovel-vs-harley-quinn-e-mr-freeze): Descubra a emoção de Gotham City com o Lego DC Comics 76274 - Batman com o Batmóvel vs. Harley Quinn e Mr. Freeze. Construa, brinque e colecione
-  Updated: 2025-10-26T21:57:14Z
+  Updated: 2025-10-27T09:55:45Z
   Vendor: LEGO
   Product Type: + 8 anos
   Availability: Available
@@ -17169,7 +17162,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-marvel-76284-figura-de-construcao-de-green-goblin-667628424-5702017590332-lego-1178700472.jpg?v=1752955937
   Price: 39,99 € EUR
 - [Lego Speed Champions 76920 - Carro Desportivo Ford Mustang](https://brincatoys.pt/products/lego-speed-champions-carro-desportivo-ford-mustang-dark-horse): Descubra o Lego Speed Champions 76920 - Carro Desportivo Ford Mustang Dark Horse. Construa e exiba esta réplica detalhada do icónico muscle car.
-  Updated: 2025-10-26T21:50:00Z
+  Updated: 2025-10-27T09:48:18Z
   Vendor: LEGO
   Product Type: + 9 anos
   Availability: Available
@@ -17743,14 +17736,14 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/barbie-cavalo-barbie-mysteries-aventuras-magicas-e-musica-772310124-0194735231010-barbie-1178700928.jpg?v=1752963490
   Price: 49,99 € EUR
 - [Lego Speed Champions 76917 Nissan Skyline GT-R (R34)](https://brincatoys.pt/products/lego-speed-champions-velocidade-furiosa-nissan-skyline-gt-r-r34): Reviva a emoção de Velocidade Furiosa com o Lego Speed Champions 76917 Nissan Skyline GT-R (R34). Construa este icônico carro de corrida.
-  Updated: 2025-10-26T21:50:00Z
+  Updated: 2025-10-27T09:48:21Z
   Vendor: LEGO
   Product Type: + 9 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-speed-champions-76917-nissan-skyline-gt-r-r34-667691724-5702017424217-lego-1178700944.jpg?v=1752963736
   Price: 26,99 € EUR
 - [Lego Speed Champions 76918 McLaren Solus GT e McLaren F1](https://brincatoys.pt/products/lego-speed-champions-mclaren-solus-gt-e-mclaren-f1): Experimente a emoção das pistas com o Lego Speed Champions 76918 McLaren Solus GT e McLaren F1 LM. Um conjunto incrível para fãs.
-  Updated: 2025-10-26T21:50:00Z
+  Updated: 2025-10-27T09:48:18Z
   Vendor: LEGO
   Product Type: + 9 anos
   Availability: Available
@@ -17806,7 +17799,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-speed-champions-76934-supercarro-ferrari-f40-autentico-667693424-5702017719702-lego-1178700984.jpg?v=1752784938
   Price: 29,99 € EUR
 - [Lego City 60420 Escavadora de Construção Amarela:](https://brincatoys.pt/products/lego-city-escavadora-de-construcao-amarela): Entre em ação com o Lego City 60420 Escavadora de Construção Amarela! O set inclui uma escavadora para criar um verdadeiro canteiro de obras.
-  Updated: 2025-10-26T21:57:14Z
+  Updated: 2025-10-27T09:55:28Z
   Vendor: LEGO
   Product Type: + 8 anos
   Availability: Available
@@ -18401,21 +18394,21 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-creator-31163-gato-brincalhao-diversao-em-3-modelos-663116325-5702017822389-lego-1178701399.jpg?v=1752970456
   Price: 26,50 € EUR
 - [Lego Technic 42199 - Pull-Back Monster Jam DIGatron](https://brincatoys.pt/products/lego-technic-pull-back-monster-jam™-digatron): Explosões de ação e velocidade no Lego Technic 42199 - Pull-Back Monster Jam DIGatron! Crie momentos de adrenalina com este modelo robusto e imponente. 🚀
-  Updated: 2025-10-26T21:52:40Z
+  Updated: 2025-10-27T09:52:46Z
   Vendor: LEGO
   Product Type: + 7 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-technic-42199-pull-back-monster-jam-digatron-664219925-5702017816227-lego-1178701405.jpg?v=1752970572
   Price: 29,99 € EUR
 - [Lego Technic 42200 - Pull-Back Monster Jam ThunderROARus](https://brincatoys.pt/products/lego-technic-pull-back-monster-jam™-thunderroarus): Obtenha ação explosiva com o Lego Technic 42200 - Pull-Back Monster Jam ThunderROARus! Construa, lance e prepare-se para uma corrida emocionante.
-  Updated: 2025-10-26T21:52:40Z
+  Updated: 2025-10-27T09:52:58Z
   Vendor: LEGO
   Product Type: + 7 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-technic-42200-pull-back-monster-jam-thunderroarus-664220025-5702017816234-lego-1178701409.jpg?v=1752970804
   Price: 29,99 € EUR
 - [Lego Technic 42202 - Mota Ducati Panigale V4 S](https://brincatoys.pt/products/lego-technic-42202-mota-ducati-panigale-v4-s): Sinta a potência e a elegância da engenharia italiana com o Lego Technic 42202 - Mota Ducati Panigale V4 S! Desafio emocionante e repleto de inovação.
-  Updated: 2025-10-26T21:52:40Z
+  Updated: 2025-10-27T09:52:45Z
   Vendor: LEGO
   Product Type: + 14 anos
   Availability: Available
@@ -18639,70 +18632,70 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/torre-surpresa-das-princesas-disney-magia-e-diversao-776321925-0194735263349-brincatoys-1178701545.jpg?v=1752973452
   Price: 16,99 € EUR
 - [LEGO Speed Champions 77242 – Carro de Corrida Ferrari SF-24](https://brincatoys.pt/products/lego-speed-champions-carro-de-corrida-ferrari-sf-24-f1): Reviva a emoção da Fórmula 1 com o LEGO Speed Champions 77242 – Carro de Corrida Ferrari SF-24 F1. Construa e impressione com detalhes incríveis!
-  Updated: 2025-10-26T21:49:45Z
+  Updated: 2025-10-27T09:48:18Z
   Vendor: LEGO
   Product Type: + 10 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-speed-champions-77242-carro-de-corrida-ferrari-sf-24-667724225-5702017816098-lego-1178701549.jpg?v=1752973683
   Price: 28,90 € EUR
 - [LEGO Speed Champions 77243 – Carro de Corrida Oracle Red Bul](https://brincatoys.pt/products/lego-speed-champions-carro-de-corrida-oracle-red-bull-racing-rb20-f1): Viva a adrenalina com o LEGO Speed Champions 77243 – Carro de Corrida Oracle Red Bull Racing RB20 F1! Construa um modelo autêntico e surpreendente.
-  Updated: 2025-10-26T21:49:45Z
+  Updated: 2025-10-27T09:48:18Z
   Vendor: LEGO
   Product Type: + 14 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-speed-champions-77243-carro-de-corrida-oracle-red-bul-667724325-5702017816104-lego-1178701553.jpg?v=1752973696
   Price: 28,90 € EUR
 - [LEGO Speed Champions 77244 – Carro de Corrida Mercedes-AM](https://brincatoys.pt/products/lego-speed-champions-carro-de-corrida-mercedes-amg-f1®-w15): Experimente a adrenalina da Fórmula 1 com o LEGO Speed Champions 77244 – Carro de Corrida Mercedes-AMG F1® W15! Construa sua própria emoção.
-  Updated: 2025-10-26T21:49:45Z
+  Updated: 2025-10-27T09:48:18Z
   Vendor: LEGO
   Product Type: + 10 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-speed-champions-77244-carro-de-corrida-mercedes-am-667724425-lego-1178701557.jpg?v=1752973805
   Price: 28,90 € EUR
 - [LEGO Speed Champions 77245 – Carro de Corrida Aston Martin](https://brincatoys.pt/products/lego-speed-champions-carro-de-corrida-aston-martin-aramco-f1®-amr24): Sinta a emoção das corridas com o LEGO Speed Champions 77245 – Carro de Corrida Aston Martin Aramco F1® AMR24! Construa este modelo autêntico hoje!
-  Updated: 2025-10-26T21:49:45Z
+  Updated: 2025-10-27T09:48:18Z
   Vendor: LEGO
   Product Type: + 10 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-speed-champions-77245-carro-de-corrida-aston-martin-667724525-5702017816128-lego-1178701561.jpg?v=1752973818
   Price: 28,90 € EUR
 - [LEGO Speed Champions 77246 – Carro de Corrida Visa Cash App](https://brincatoys.pt/products/lego-speed-champions-carro-de-corrida-visa-cash-app-rb-vcarb-01-f1): Desperte o piloto que há em si com o LEGO Speed Champions 77246 – Carro de Corrida Visa Cash App RB VCARB 01 F1. Construa uma peça de emoção hoje!
-  Updated: 2025-10-26T21:49:44Z
+  Updated: 2025-10-27T09:48:18Z
   Vendor: LEGO
   Product Type: + 14 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-speed-champions-77246-carro-de-corrida-visa-cash-app-667724625-5702017816135-lego-1178701565.jpg?v=1752973928
   Price: 28,90 € EUR
 - [LEGO Speed Champions 77247 – Carro de Corrida KICK](https://brincatoys.pt/products/lego-speed-champions-carro-de-corrida-kick-sauber-f1®-team-c44): Experimente a adrenalina das corridas com o LEGO Speed Champions 77247 – Carro de Corrida KICK Sauber F1® Team C44! Adquira este incrível modelo hoje!
-  Updated: 2025-10-26T21:49:44Z
+  Updated: 2025-10-27T09:48:18Z
   Vendor: LEGO
   Product Type: + 10 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-speed-champions-77247-carro-de-corrida-kick-667724725-5702017816142-lego-1178701569.jpg?v=1752973940
   Price: 28,90 € EUR
 - [LEGO Speed Champions 77248 – Carro de Corrida BWT Alpine F1](https://brincatoys.pt/products/lego-speed-champions-carro-de-corrida-bwt-alpine-f1®-team-a524): Viva a emoção da Fórmula 1 com o LEGO Speed Champions 77248 – Carro de Corrida BWT Alpine F1® Team A524. Construa e exiba este modelo impressionante!
-  Updated: 2025-10-26T21:49:44Z
+  Updated: 2025-10-27T09:49:14Z
   Vendor: LEGO
   Product Type: + 10 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-speed-champions-77248-carro-de-corrida-bwt-alpine-f1-667724825-5702017816159-lego-1178701573.jpg?v=1752974171
   Price: 28,90 € EUR
 - [Lego Speed Champions 77249 Carro de Corrida Williams Racing](https://brincatoys.pt/products/lego-speed-champions-carro-de-corrida-williams-racing-fw46-f1): Experiencie a emoção da Fórmula 1 com o Lego Speed Champions 77249 Carro de Corrida Williams Racing FW46 F1. Construa e exiba esta peça incrível!
-  Updated: 2025-10-26T21:49:44Z
+  Updated: 2025-10-27T09:48:17Z
   Vendor: LEGO
   Product Type: + 10 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-speed-champions-77249-carro-de-corrida-williams-racing-667724925-5702017816166-lego-1178701577.png?v=1752974285
   Price: 28,90 € EUR
 - [Lego Speed Champions 77250 Carro de Corrida MoneyGram](https://brincatoys.pt/products/lego-speed-champions-carro-de-corrida-moneygram-haas-f1®-team-vf-24): Acelera a tua coleção com o Lego Speed Champions 77250 Carro de Corrida MoneyGram Haas F1! Cria momentos épicos com 242 peças. 🏎️
-  Updated: 2025-10-26T21:49:44Z
+  Updated: 2025-10-27T09:49:14Z
   Vendor: LEGO
   Product Type: + 10 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-speed-champions-77250-carro-de-corrida-moneygram-667725025-5702017816173-lego-1178701581.png?v=1752974296
   Price: 28,90 € EUR
 - [Lego Speed Champions 77251 Carro de Corrida McLaren F1](https://brincatoys.pt/products/lego-speed-champions-carro-de-corrida-mclaren-f1®-team-mcl38): Viva a emoção da Fórmula 1 com o Lego Speed Champions 77251 Carro de Corrida McLaren F1® Team MCL38. Construa e exiba esta peça incrível!
-  Updated: 2025-10-26T21:49:44Z
+  Updated: 2025-10-27T09:48:18Z
   Vendor: LEGO
   Product Type: + 10 anos
   Availability: Available
@@ -18737,21 +18730,21 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-disney-43270-canoa-de-aventuras-da-vaiana-diversao-664327025-5702017814599-lego-1178701609.jpg?v=1752974776
   Price: 62,90 € EUR
 - [Lego City 60442 Piloto de F1 com Carro de Corrida](https://brincatoys.pt/products/lego-city-60442-piloto-de-f1-com-carro-de-corrida-mclaren): Viva a emoção da corrida com o Lego City 60442 Piloto de F1 com Carro de Corrida McLaren! Construa e acelere com uma minifigura incrível! 🏎️
-  Updated: 2025-10-26T21:57:14Z
+  Updated: 2025-10-27T09:55:27Z
   Vendor: LEGO
   Product Type: + 6 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-city-60442-piloto-de-f1-com-carro-de-corrida-666044225-5702017812489-lego-1178701613.jpg?v=1752974887
   Price: 14,99 € EUR
 - [Lego City 60443 Boxe de F1 e Equipa da Boxe](https://brincatoys.pt/products/lego-city-60443-boxe-de-f1-e-equipa-da-boxe-com-carro-da-ferrari): Desperte o piloto que há em si com o Lego City 60443 Boxe de F1 e Equipa da Boxe com Carro da Ferrari! Entre na velocidade e diversão!
-  Updated: 2025-10-26T21:57:13Z
+  Updated: 2025-10-27T09:55:30Z
   Vendor: LEGO
   Product Type: + 6 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-city-60443-boxe-de-f1-e-equipa-da-boxe-666044325-5702017812496-lego-1178701617.jpg?v=1752974899
   Price: 31,90 € EUR
 - [Lego City 60445 Camião de F1 com Carros de F1® RB20](https://brincatoys.pt/products/lego-city-60445-camiao-de-f1-com-carros-de-f1®-rb20-e-amr24): Leva a emoção das corridas para casa com o Lego City 60445 Camião de F1 com Carros de F1® RB20 e AMR24. Monta a tua pista e compete!
-  Updated: 2025-10-26T21:57:13Z
+  Updated: 2025-10-27T09:55:27Z
   Vendor: LEGO
   Product Type: + 8 anos
   Availability: Available
@@ -19010,28 +19003,28 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-marvel-76314-capitao-america-guerra-civil-jogue-667631425-5702017817873-lego-1178701805.jpg?v=1752977294
   Price: 99,99 € EUR
 - [Lego City 60447 Carrinha de Montanha 4x4 Todo-o-Terreno](https://brincatoys.pt/products/lego-city-carrinha-de-montanha-4x4-todo-o-terreno): Aventure-se na natureza com a Lego City 60447 Carrinha de Montanha 4x4 Todo-o-Terreno! Prepare-se para explorar montanhas e superar desafios.
-  Updated: 2025-10-26T21:57:13Z
+  Updated: 2025-10-27T09:55:35Z
   Vendor: LEGO
   Product Type: + 6 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-city-60447-carrinha-de-montanha-4x4-todo-o-terreno-666044725-5702017812533-lego-1178701809.jpg?v=1752977406
   Price: 22,50 € EUR
 - [Lego City 60448 Carro Desportivo Vermelho: Acelera!](https://brincatoys.pt/products/lego-city-carro-desportivo-vermelho): Acelera a diversão com o Lego City 60448 Carro Desportivo Vermelho! Este set cativante de 109 peças vai encantar os pequenos fãs desde os 5 anos.
-  Updated: 2025-10-26T21:57:13Z
+  Updated: 2025-10-27T09:55:28Z
   Vendor: LEGO
   Product Type: + 5 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-city-60448-carro-desportivo-vermelho-acelera-666044825-5702017812403-lego-1178701813.jpg?v=1752977419
   Price: 12,00 € EUR
 - [Lego City 60451 Ambulância de Emergência para Crianças](https://brincatoys.pt/products/lego-city-60451-ambulancia-de-emergencia): Viva a ação com o set Lego City 60451 Ambulância de Emergência! Inclui minifiguras e uma ambulância interativa para grandes aventuras.
-  Updated: 2025-10-26T21:57:13Z
+  Updated: 2025-10-27T09:55:30Z
   Vendor: LEGO
   Product Type: + 5 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-city-60451-ambulancia-de-emergencia-para-criancas-666045125-5702017812410-lego-1178701817.jpg?v=1752977529
   Price: 22,50 € EUR
 - [Lego City 60452 Carrinha de Dónutes Divertida!](https://brincatoys.pt/products/lego-city-60452-carrinha-de-donuts): Leve a diversão à sua cidade com a Lego City 60452 Carrinha de Dónutes! Esta carrinha colorida é perfeita para jovens criadores a partir dos 5 anos.
-  Updated: 2025-10-26T21:57:13Z
+  Updated: 2025-10-27T09:55:27Z
   Vendor: LEGO
   Product Type: + 5 anos
   Availability: Available
@@ -19073,7 +19066,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/little-live-pets-needees-lontra-adoravel-e-interativa-647714925-little-live-pets-1178701861.jpg?v=1752978376
   Price: 15,99 € EUR
 - [Lego Minecraft 21256 - A Casa Sapo | Brincatoys](https://brincatoys.pt/products/lego-minecraft-a-casa-sapo): Descubra o Lego Minecraft 21256 - A Casa Sapo! Monte sua própria aventura Minecraft com este conjunto detalhado e interativo. Perfeito para fãs do jogo.
-  Updated: 2025-10-26T21:46:53Z
+  Updated: 2025-10-27T09:46:18Z
   Vendor: LEGO
   Product Type: + 8 anos
   Availability: Available
@@ -19087,21 +19080,21 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/pista-hot-wheels-super-esquadra-de-policia-divertida-776415525-0194735264155-hot-wheels-1178701865.jpg?v=1752978486
   Price: 38,90 € EUR
 - [Lego City 60453 Carrinha de Resgate Salva-vidas em Ação](https://brincatoys.pt/products/lego-city-60453-carrinha-de-resgate-salva-vidas): Aventuras emocionantes na praia com o Lego City 60453 Carrinha de Resgate Salva-vidas! Adquira este set vibrante e viva momentos de salvamento!
-  Updated: 2025-10-26T21:57:13Z
+  Updated: 2025-10-27T09:55:27Z
   Vendor: LEGO
   Product Type: + 6 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-city-60453-carrinha-de-resgate-salva-vidas-em-acao-666045325-5702017812434-lego-1178701869.jpg?v=1752978498
   Price: 26,80 € EUR
 - [Lego City 60454 Autocaravana para Aventuras nas Férias](https://brincatoys.pt/products/lego-city-60454-autocaravana-para-aventuras-nas-ferias): Viva a aventura em família com o Lego City 60454 Autocaravana para Aventuras nas Férias! Com 385 peças, a diversão nunca acaba.
-  Updated: 2025-10-26T21:57:13Z
+  Updated: 2025-10-27T09:55:42Z
   Vendor: LEGO
   Product Type: + 6 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-city-60454-autocaravana-para-aventuras-nas-ferias-666045425-5702017812441-lego-1178701873.jpg?v=1752978728
   Price: 31,90 € EUR
 - [Lego City 60461 Trator Agrícola Vermelho com Reboque](https://brincatoys.pt/products/lego-city-60461-trator-agricola-vermelho-com-reboque-e-ovelhas): Descubra o incrível Lego City 60461 Trator Agrícola Vermelho com Reboque e Ovelhas! Uma aventura rural perfeita para crianças a partir dos 4 anos. 🌾
-  Updated: 2025-10-26T21:57:12Z
+  Updated: 2025-10-27T09:55:27Z
   Vendor: LEGO
   Product Type: + 4 anos
   Availability: Available
@@ -19199,7 +19192,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/boneca-baby-alive-dia-de-spa-diversao-e-magia-553564524-5010993933068-baby-alive-1178698257.jpg?v=1752922803
   Price: 33,50 € EUR
 - [Puzzle Clássicos Disney 3 x 48: Diversão em Família](https://brincatoys.pt/products/puzzle-classicos-disney-3-x-48): Divirta-se montando o Puzzle Clássicos Disney 3 x 48! Traga a magia da Disney para as mãos dos pequenos com cada peça vibrante.
-  Updated: 2025-10-19T18:30:46Z
+  Updated: 2025-10-27T17:51:07Z
   Vendor: Seleção Brincatoys
   Product Type: + 5 anos
   Availability: Available
@@ -19213,26 +19206,26 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/jogo-de-mesa-monopoly-pokemon-aventura-e-diversao-779872025-5010996298720-monopoly-1178701938.jpg?v=1752979695
   Price: 32,90 € EUR
 - [Puzzle Spidey Amazing Friends 2 x 60 para Crianças](https://brincatoys.pt/products/puzzle-spidey-amazing-friends-2-x-60): Desperte o super-herói que existe em seu pequeno com o Puzzle Spidey Amazing Friends 2 x 60. Diversão e aprendizagem garantidas para crianças! 🦸‍♀️
-  Updated: 2025-10-19T18:30:46Z
+  Updated: 2025-10-27T17:20:01Z
   Vendor: Spidey and Amazing Friends
   Product Type: + 4 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/puzzle-spidey-amazing-friends-2-x-60-para-criancas-852162525-8005125216253-spidey-and-amazing-friends-1178701942.jpg?v=1752780486
   Price: 10,90 € EUR
 - [Puzzle Jurassic World 3 x 48: Diversão para Crianças](https://brincatoys.pt/products/puzzle-jurassic-world-3-x-48): Explore o mundo dos dinossauros com o Puzzle Jurassic World 3 x 48! Uma montagem emocionante e colorida para os pequenos. Adquira já o seu!
-  Updated: 2025-10-19T18:30:46Z
+  Updated: 2025-10-27T17:51:17Z
   Vendor: Jurassic World
   Product Type: + 5 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/puzzle-jurassic-world-3-x-48-diversao-para-criancas-852531425-8005125253142-jurassic-world-1178701946.jpg?v=1752780499
   Price: 10,90 € EUR
 - [Puzzle Princesas Disney 3 x 48 para Crianças Divertidas](https://brincatoys.pt/products/puzzle-princesas-disney-3-x-48): Desperte a imaginação do seu filho com o Puzzle Princesas Disney 3 x 48. São três aventuras mágicas com Ariel, Rapunzel e Jasmine!
-  Updated: 2025-10-19T18:30:46Z
+  Updated: 2025-10-27T17:50:23Z
   Vendor: Princesas Disney
   Product Type: + 5 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/puzzle-princesas-disney-3-x-48-para-criancas-divertidas-852530425-8005125253043-princesas-disney-1178701950.jpg?v=1752979809
-  Price: 10,90 € EUR
+  Price: 8,86 € EUR
 - [Peluche Stitch 25 cm: Aventura em Cada Abraço](https://brincatoys.pt/products/peluche-stitch-25-cm): Descubra o encantador Peluche Stitch 25 cm! Este peluche macio, hipoalergénico e seguro é perfeito para cada abraço. Compre agora!
   Updated: 2025-10-13T06:15:12Z
   Vendor: Seleção Brincatoys
@@ -19304,14 +19297,14 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/tartarugas-ninja-mota-do-dragao-raphael-em-acao-233980425-043377843061-tartarugas-ninja-1178701990.jpg?v=1752980283
   Price: 39,99 € EUR
 - [Puzzle Princesas Disney 180 pçs: Diversão em Família](https://brincatoys.pt/products/puzzle-princesas-disney-180-pcs): Desafie a sua família com o Puzzle Princesas Disney 180 pçs! Montar este quebra-cabeça divertido e educativo oferece horas de entretenimento. 🧩
-  Updated: 2025-10-19T18:34:55Z
+  Updated: 2025-10-27T17:51:49Z
   Vendor: Princesas Disney
   Product Type: + 7 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/puzzle-princesas-disney-180-pcs-diversao-em-familia-852978725-8005125297870-princesas-disney-1178701994.jpg?v=1752980295
   Price: 12,99 € EUR
 - [Puzzle Dragon Ball 300 pçs: Diversão para Todas as Idades](https://brincatoys.pt/products/puzzle-dragon-ball-300-pcs): Aprecie a qualidade do Puzzle Dragon Ball 300 pçs, que garante encaixes precisos e cores vibrantes. Ideal para diversão em família e amigos!
-  Updated: 2025-10-19T18:34:55Z
+  Updated: 2025-10-27T17:50:52Z
   Vendor: Dragon Ball
   Product Type: + 9 anos
   Availability: Available
@@ -19360,21 +19353,21 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/tartarugas-ninja-mutant-mayhen-raphael-acao-e-detalhes-233873925-043377832843-tartarugas-ninja-1178702022.jpg?v=1752780018
   Price: 19,99 € EUR
 - [Hot Wheels - LB-Works McLaren 720S: Modelo Premium](https://brincatoys.pt/products/hot-wheels-lb-works-mclaren-720s): Descubra o Hot Wheels - LB-Works McLaren 720S, um modelo 1:64 com acabamentos de alta qualidade e detalhes impressionantes. Adquira já esta peça!
-  Updated: 2025-10-13T06:15:04Z
+  Updated: 2025-10-27T16:58:47Z
   Vendor: Hot Wheels
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/hot-wheels-lb-works-mclaren-720s-modelo-premium-232622525-194735262250-hot-wheels-1178702026.jpg?v=1752980886
   Price: 14,99 € EUR
 - [Puzzle Patrulha Pata 3 x 48 pçs para Crianças Divertidas](https://brincatoys.pt/products/puzzle-patrulha-pata-3-x-48-pcs): Desperte a imaginação com o Puzzle Patrulha Pata 3 x 48 peças! Ideal para pequenos fãs, este jogo estimula o raciocínio lógico. Compre agora!
-  Updated: 2025-10-19T18:37:57Z
+  Updated: 2025-10-27T17:25:26Z
   Vendor: Patrulha Pata
   Product Type: + 5 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/puzzle-patrulha-pata-3-x-48-pcs-para-criancas-divertidas-852529125-8005125252916-patrulha-pata-1178702030.jpg?v=1752980899
   Price: 10,90 € EUR
 - [Puzzle Minnie 2 x 60 pçs: Diversão e Aprendizagem](https://brincatoys.pt/products/puzzle-minnie-2-x-60-pcs): Deixe as crianças se divertirem com o Puzzle Minnie 2 x 60 pçs! Montando cada peça, elas aprimoram habilidades motoras e concentração.
-  Updated: 2025-10-19T18:30:46Z
+  Updated: 2025-10-27T17:50:57Z
   Vendor: Seleção Brincatoys
   Product Type: + 4 anos
   Availability: Available
@@ -19409,7 +19402,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/toy-story-buzz-lightyear-aventura-intergalactica-774595225-0194735045952-toy-story-1178702054.jpg?v=1752981486
   Price: 29,99 € EUR
 - [Jogo de cartas Uno da Mattel – Diversão Garantida](https://brincatoys.pt/products/jogo-de-cartas-uno-1): Descubra a emoção do Jogo de cartas Uno da Mattel, o clássico favorito repleto de estratégia e surpresas. Diversão para Toda a Família!
-  Updated: 2025-10-23T19:42:11Z
+  Updated: 2025-10-27T12:58:15Z
   Vendor: UNO
   Product Type: + 7 anos
   Availability: Available
@@ -19423,7 +19416,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/puzzle-de-pegas-em-madeira-crias-brinquedo-educativo-45786625-4013594578660-brincatoys-1178702058.jpg?v=1752981497
   Price: 7,99 € EUR
 - [Figura Marvel Iron Spider: Super-Herói de 30 cm em Detalhe](https://brincatoys.pt/products/figura-marvel-iron-spider): Desperte a sua imaginação com a Figura Marvel Iron Spider, perfeita para aventuras emocionantes! Com detalhes incríveis, esta figura mede 30 cm.
-  Updated: 2025-10-13T06:15:00Z
+  Updated: 2025-10-27T17:14:52Z
   Vendor: Seleção Brincatoys
   Product Type: + 4 anos
   Availability: Available
@@ -19458,21 +19451,21 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/instrumento-musical-pandeireta-7-amigos-divertido-491868825-4029753186881-brincatoys-1178692590.jpg?v=1752824523
   Price: 15,99 € EUR
 - [Cubo 12 Peças - Spidey and his Amazing Friends Diversão](https://brincatoys.pt/products/cubo-12-pecas-spidey-and-his-amazing-friends): Descubra as aventuras do Homem-Aranha com o Cubo 12 Peças - Spidey and his Amazing Friends. Estimula a coordenação motora e a imaginação! 🕷️
-  Updated: 2025-10-19T18:30:46Z
+  Updated: 2025-10-27T16:59:28Z
   Vendor: Spidey and Amazing Friends
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/cubo-12-pecas-spidey-and-his-amazing-friends-diversao-854119825-8005125411986-spidey-and-amazing-friends-1178692582.jpg?v=1752824301
   Price: 12,50 € EUR
 - [Cubo 12 Peças - Princesas Disney para Brincar e Aprender](https://brincatoys.pt/products/cubo-12-pecas-princesas-disney): Desperte a criatividade das crianças com o Cubo 12 Peças - Princesas Disney! Um divertido quebra-cabeças que também é educativo. 🎨
-  Updated: 2025-10-13T06:14:56Z
+  Updated: 2025-10-27T17:51:54Z
   Vendor: Princesas Disney
   Product Type: + 3 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/cubo-12-pecas-princesas-disney-para-brincar-e-aprender-854119725-8005125411979-princesas-disney-1178702064.jpg?v=1752981735
   Price: 12,50 € EUR
 - [Dress To Impress - Bonecas Mistério com Estilo e Surpresa](https://brincatoys.pt/products/dress-to-impress-bonecas-misterio): Descobre a magia do Dress To Impress - Bonecas Mistério! Com uma embalagem em forma de estrela, cada conjunto revela uma nova estilista! ⭐
-  Updated: 2025-10-20T13:15:10Z
+  Updated: 2025-10-27T17:50:43Z
   Vendor: Seleção Brincatoys
   Product Type: + 6 anos
   Availability: Available
@@ -19486,14 +19479,14 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/jogo-xadrez-portatil-em-madeira-praticidade-e-estilo-40004025-4013594090407-brincatoys-1178692569.jpg?v=1752824285
   Price: 19,99 € EUR
 - [Puzzle Patrulha Pata 3 x 48 pçs para Crianças](https://brincatoys.pt/products/puzzle-patrulha-pata-3-x-48-pecas): Divirta-se e aprenda com o Puzzle Patrulha Pata 3 x 48 pçs! Três puzzles coloridos para desafiar a atenção e a coordenação dos pequenos. 🐾
-  Updated: 2025-10-20T06:46:23Z
+  Updated: 2025-10-27T17:51:12Z
   Vendor: Patrulha Pata
   Product Type: + 5 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/puzzle-patrulha-pata-3-x-48-pcs-para-criancas-852530125-8005125253012-patrulha-pata-1198565679.jpg?v=1760903287
   Price: 10,90 € EUR
 - [Puzzle Dragon Ball Z 104 pçs: Diversão e Aventura](https://brincatoys.pt/products/puzzle-dragon-ball-z-104-pcs): Entre no mundo de Dragon Ball Z com o Puzzle Dragon Ball Z 104 pçs! Ajude as crianças a desenvolverem habilidades enquanto se divertem. 🎮
-  Updated: 2025-10-19T18:34:55Z
+  Updated: 2025-10-27T17:51:39Z
   Vendor: Dragon Ball
   Product Type: + 6 anos
   Availability: Available
@@ -20033,6 +20026,13 @@ Figura em borracha termoplástica do filme Branca de neve e os sete anões.Figur
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/figura-de-borracha-disney-mufasa-majestade-em-miniatura-621225725-4063847122577-brincatoys-1195041112.jpg?v=1759068129
   Price: 9,50 € EUR
+- [Lego Disney 43257 Angel: Cria e Exibe com Estilo](https://brincatoys.pt/products/lego-disney-43257-angel): Cria a tua própria figura do Lego Disney 43257 Angel com 784 peças divertidas. É perfeita para exibir no teu quarto ou secretária!
+  Updated: 2025-10-27T11:46:05Z
+  Vendor: LEGO
+  Product Type: + 9 anos
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-disney-43257-angel-cria-e-exibe-com-estilo-664325725-5702017813967-lego-1199909044.jpg?v=1761565565
+  Price: 66,90 € EUR
 - [Cry Babies Loving Care Minnie: Interativa e Fofa Boneca](https://brincatoys.pt/products/cry-babies-minnie): Descubra a Cry Babies Loving Care Minnie, uma boneca interativa que chora de verdade! As crianças adoram cuidar dela e aprender com diversão.
   Updated: 2025-10-15T15:15:25Z
   Vendor: Seleção Brincatoys
@@ -20244,42 +20244,63 @@ Figura em borracha termoplástica do filme Branca de neve e os sete anões.Figur
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/figura-pokemon-select-pikachu-para-fas-e-colecionadores-237378825-0191726773788-pokemon-1181899611.jpg?v=1756213339
   Price: 14,99 € EUR
 - [LEGO Minecraft 21251 Expedição no Deserto de Steve](https://brincatoys.pt/products/lego-minecraft-expedicao-no-deserto-de-steve-copia): Transforme o deserto do Minecraft em um cenário de aventuras com o conjunto LEGO Minecraft 21251 Expedição no Deserto de Steve.
-  Updated: 2025-10-26T21:44:27Z
+  Updated: 2025-10-27T09:44:32Z
   Vendor: LEGO
   Product Type: + 6 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-minecraft-21251-expedicao-no-deserto-de-steve-662125124-5702017583273-lego-1178698004.jpg?v=1752796930
   Price: 12,00 € EUR
+- [Lego Bluey 11202 Viagem de Carro à Praia com a Bluey](https://brincatoys.pt/products/lego-bluey-11202-viagem-de-carro-a-praia-com-a-bluey-e-a-familia): Leve a diversão da série para casa com o Lego Bluey 11202 Viagem de Carro à Praia com a Bluey e a Família. Construa memórias repletas de histórias!
+  Updated: 2025-10-27T09:49:59Z
+  Vendor: LEGO
+  Product Type: + 4 anos
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-bluey-11202-viagem-de-carro-a-praia-com-a-bluey-661120225-5702017813431-lego-1199905364.jpg?v=1761558595
+  Price: 32,50 € EUR
+- [Lego Bluey 11201 Diversão no Parque com Bluey e Chloe](https://brincatoys.pt/products/lego-bluey-11201-diversao-no-parque-com-bluey-e-chloe): Mergulhe na diversão com Lego Bluey 11201 Diversão no Parque com Bluey e Chloe! Construa um parque colorido e recrie as aventuras. 🌟
+  Updated: 2025-10-27T09:48:14Z
+  Vendor: LEGO
+  Product Type: + 4 anos
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-bluey-11201-diversao-no-parque-com-bluey-e-chloe-661120125-5702017813424-lego-1199905368.jpg?v=1761558493
+  Price: 22,50 € EUR
 - [Lego Duplo 10458 Passeio à Geladaria com a Bluey](https://brincatoys.pt/products/lego-duplo-10458-passeio-a-geladaria-com-a-bluey): Desperte a criatividade dos mais pequenos com o Lego Duplo 10458 Passeio à Geladaria com a Bluey. Proporcione diversão nas suas horas de brincar!
-  Updated: 2025-10-27T07:56:02Z
+  Updated: 2025-10-27T19:36:56Z
   Vendor: LEGO
   Product Type: + 2 anos
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/Lego_Duplo_10458_Passeio__Geladaria_com_a_Bluey_page1.jpg?v=1761550780
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-duplo-10458-passeio-a-geladaria-com-a-bluey-661045825-5702017816739-lego-1199905372.jpg?v=1761558494
   Price: 32,50 € EUR
 - [Lego Technic 42213 SUV Ford Bronco: Aventura Off-Road](https://brincatoys.pt/products/lego-technic-42213-suv-ford-bronco): Explore novas aventuras com o Lego Technic 42213 SUV Ford Bronco. Este set detalhado oferece um motor V6 e portas que abrem. Descubra já!
-  Updated: 2025-10-26T23:50:05Z
+  Updated: 2025-10-27T09:18:12Z
   Vendor: LEGO
   Product Type: + 9 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-technic-42213-suv-ford-bronco-aventura-off-road-664221325-5702017816364-lego-1199887734.jpg?v=1761522603
   Price: 63,90 € EUR
 - [Lego Technic 42212 Ferrari FXX K: Diversão e Ação](https://brincatoys.pt/products/lego-technic-42212-ferrari-fxx-k): Desperte a paixão pela engenharia com o Lego Technic 42212 Ferrari FXX K. Monte e admire o seu motor V12 e portas em borboleta! 🏎️
-  Updated: 2025-10-26T23:50:08Z
+  Updated: 2025-10-27T08:59:17Z
   Vendor: LEGO
   Product Type: + 10 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-technic-42212-ferrari-fxx-k-diversao-e-acao-664221225-5702017816357-lego-1199887738.jpg?v=1761522607
   Price: 63,90 € EUR
+- [Lego Bluey 11203 Casa da Família da Bluey em Detalhes](https://brincatoys.pt/products/lego-bluey-11203-casa-da-familia-da-bluey): Leva a diversão para casa com o Lego Bluey 11203 Casa da Família da Bluey! Constrói momentos mágicos e recria episódios favoritos agora! 🏡
+  Updated: 2025-10-27T09:46:11Z
+  Vendor: LEGO
+  Product Type: + 4 anos
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-bluey-11203-casa-da-familia-da-bluey-em-detalhes-661120325-5702017813448-lego-1199905360.jpg?v=1761558370
+  Price: 69,90 € EUR
 - [Lego Speed Champions 77239 Supercarro Porsche 911 GT3 RS](https://brincatoys.pt/products/lego-speed-champions-77239-lamborghini-revuelto-e-huracan-sto): Desperte a paixão pela velocidade com o Lego Speed Champions 77239 Supercarro Porsche 911 GT3 RS! Monte e crie sua própria experiência de corridas.
-  Updated: 2025-10-26T23:48:14Z
+  Updated: 2025-10-27T08:40:59Z
   Vendor: LEGO
   Product Type: + 9 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-speed-champions-77239-supercarro-porsche-911-gt3-rs-667723925-5702017816074-lego-1199887742.jpg?v=1761522486
   Price: 29,99 € EUR
 - [LEGO Speed Champions 77238 Lamborghini Revuelto e Huracán](https://brincatoys.pt/products/lego-speed-champions-77238-lamborghini-revuelto-e-huracan-sto-1): Transforme sua coleção com o LEGO Speed Champions 77238 Lamborghini Revuelto e Huracán STO. Construa e exiba estes supercarros incríveis!
-  Updated: 2025-10-26T21:48:11Z
+  Updated: 2025-10-27T08:18:00Z
   Vendor: LEGO
   Product Type: + 10 anos
   Availability: Available
@@ -20307,7 +20328,7 @@ Figura em borracha termoplástica do filme Branca de neve e os sete anões.Figur
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-sonic-77005-knuckles-contra-robo-egg-crusher-667700525-5702017815602-lego-1199730297.jpg?v=1761493692
   Price: 44,90 € EUR
 - [LEGO Speed Champions 77240 – Bugatti Centodieci Model](https://brincatoys.pt/products/lego-speed-champions-carro-desportivo-bugatti-centodieci-hyper): Construa o seu supercarro dos sonhos com o LEGO Speed Champions 77240 – Bugatti Centodieci. Sinta a adrenalina com cada peça! 🏎️
-  Updated: 2025-10-26T21:48:11Z
+  Updated: 2025-10-27T09:48:17Z
   Vendor: LEGO
   Product Type: + 9 anos
   Availability: Available
@@ -20601,7 +20622,7 @@ Figura em borracha termoplástica do filme Branca de neve e os sete anões.Figur
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/brinquedo-para-bebe-telefone-unicornio-820541024-2600000-brincatoys-1178695471.jpg?v=1752875536
   Price: 24,50 € EUR
 - [Lego Speed Champions 76916 Porsche 963: Detalhes Incríveis](https://brincatoys.pt/products/lego-speed-champions-porsche-963-copia): Monte seu próprio  Lego Speed Champions 76916 Porsche 963! Apaixone-se pela réplica detalhada e sinta a emoção das pistas de Le Mans. 🏁
-  Updated: 2025-10-26T21:48:11Z
+  Updated: 2025-10-27T09:48:28Z
   Vendor: LEGO
   Product Type: + 9 anos
   Availability: Available
@@ -20615,7 +20636,7 @@ Figura em borracha termoplástica do filme Branca de neve e os sete anões.Figur
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/transformers-age-of-the-primes-excellion-em-acao-861490525-5010996312921-transformers-1195755872.jpg?v=1759362486
   Price: 36,50 € EUR
 - [Lego Speed Champions 76919 - Carro de Corrida de Fórmula 1](https://brincatoys.pt/products/lego-speed-champions-carro-de-corrida-de-formula-1-mclaren-2023-copiar-copia): Descubra o Lego Speed Champions 76919 - Carro de Corrida de Fórmula 1 McLaren 2023. Construa, aprenda e colecione este incrível modelo de F1.
-  Updated: 2025-10-26T21:48:11Z
+  Updated: 2025-10-27T09:48:30Z
   Vendor: LEGO
   Product Type: + 9 anos
   Availability: Available
@@ -21346,13 +21367,13 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-22T11:22:51Z
   Total Products: 38
 - [Figuras de ação](https://brincatoys.pt/collections/figuras-de-acao)
-  Updated: 2025-10-26T11:20:57Z
+  Updated: 2025-10-27T17:14:50Z
   Total Products: 565
 - [Instrumentos musicais](https://brincatoys.pt/collections/instrumentos-musicais)
   Updated: 2025-10-19T09:15:45Z
   Total Products: 28
 - [Jogos educativos e de tabuleiro](https://brincatoys.pt/collections/jogos-educativos-e-de-tabuleiro)
-  Updated: 2025-10-26T20:26:29Z
+  Updated: 2025-10-27T11:24:21Z
   Total Products: 184
 - [Lego City](https://brincatoys.pt/collections/lego-city): Explora o mundo vibrante de LEGO® City onde há muito para fazer. Vai até à baixa da cidade, encena histórias emocionantes com os serviços de urgência e descobre as novas fronteiras, dos oceanos ao espaço. Constrói veículos fantásticos, viaja de comboio ou organiza incríveis espetáculos de acrobacias.
   Updated: 2025-10-19T18:13:31Z
@@ -21364,8 +21385,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-26T21:40:26Z
   Total Products: 13
 - [Lego Disney](https://brincatoys.pt/collections/lego-disney): Celebra 100 anos de encantamento mágico com os conjuntos LEGO® | Disney e as suas personagens icónicas. Os fãs podem recriar as cenas memoráveis, as atrações dos parques de diversões e construir os castelos encantados da Disney. Junta-te ao Mickey e Amigos, às Princesas Disney e a muitas outras personagens em brincadeiras criativas e divertidas.
-  Updated: 2025-10-19T09:15:45Z
-  Total Products: 16
+  Updated: 2025-10-27T09:53:05Z
+  Total Products: 17
 - [Lego Duplo](https://brincatoys.pt/collections/lego-duplo): Quando os mais pequenos têm uma grande imaginação, as peças de construção LEGO® DUPLO® libertam a sua criatividade através da aprendizagem e desenvolvimento. Este conjuntos oferecem aos mais pequenos diversão ilimitada, autoexpressão e a felicidade da descoberta.
   Updated: 2025-10-27T07:52:40Z
   Total Products: 23
@@ -21382,7 +21403,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-19T09:15:45Z
   Total Products: 5
 - [Lego Marvel](https://brincatoys.pt/collections/lego-marvel): Recria as cenas emocionantes dos filmes do Universo Cinematográfico Marvel e participa na batalha do bem contra o mal nos conjuntos LEGO® Marvel. Junta-te a algumas das personagens favoritas, como os Guardiões da Galáxia, Homem-Formiga, Pantera Negra, Homem-Aranha, Hulk e muitos outros em emocionantes aventuras de encenação.
-  Updated: 2025-10-19T09:15:45Z
+  Updated: 2025-10-27T11:24:21Z
   Total Products: 30
 - [Lego Minecraft](https://brincatoys.pt/collections/lego-minecraft): Inspira infinitas aventuras de Minecraft® para os fãs recriarem os icónicos detalhes pixelizados do famoso videojogo. Utiliza a criatividade para dar vida às autênticas personagens de Minecraft® e constrói estruturas e cenas únicas para criares histórias divertidas e emocionantes.
   Updated: 2025-10-26T21:40:26Z
@@ -21403,8 +21424,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-26T21:31:11Z
   Total Products: 23
 - [Outras coleções](https://brincatoys.pt/collections/outras-colecoes)
-  Updated: 2025-10-19T09:15:46Z
-  Total Products: 11
+  Updated: 2025-10-27T08:47:20Z
+  Total Products: 14
 - [Trabalhos manuais](https://brincatoys.pt/collections/trabalhos-manuais)
   Updated: 2025-10-22T11:22:51Z
   Total Products: 107
@@ -21412,13 +21433,13 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-26T12:49:04Z
   Total Products: 112
 - [Outras categorias](https://brincatoys.pt/collections/brinquedos-outras-categorias)
-  Updated: 2025-10-26T20:27:20Z
+  Updated: 2025-10-27T17:50:40Z
   Total Products: 233
 - [Lego Avatar](https://brincatoys.pt/collections/lego-avatar): Explora o mundo de Pandora através dos emocionantes e desafiantes conjuntos LEGO inspirados no universo do filme Avatar. Recria cenas ou encena novas aventuras com conjuntos que incluem personagens icónicas e localizações familiares dos filmes.
   Updated: 2025-10-19T09:15:46Z
   Total Products: 1
 - [Puzzle Infantil](https://brincatoys.pt/collections/puzzles-infantis)
-  Updated: 2025-10-22T11:22:51Z
+  Updated: 2025-10-27T17:51:42Z
   Total Products: 101
 - [Puzzle Adulto](https://brincatoys.pt/collections/puzzles-adulto)
   Updated: 2025-10-23T19:10:53Z
@@ -21439,7 +21460,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-23T19:12:53Z
   Total Products: 195
 - [Casa de Bonecas e acessórios](https://brincatoys.pt/collections/casa-de-bonecas-e-acessorios)
-  Updated: 2025-10-19T09:15:46Z
+  Updated: 2025-10-27T11:24:21Z
   Total Products: 54
 - [Brinquedos para Bebé](https://brincatoys.pt/collections/primeira-infancia-brinquedos-para-bebe)
   Updated: 2025-10-24T11:21:26Z
@@ -21454,13 +21475,13 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-19T09:15:46Z
   Total Products: 45
 - [Veículos](https://brincatoys.pt/collections/carro-de-brinquedo)
-  Updated: 2025-10-25T17:34:32Z
+  Updated: 2025-10-27T16:58:44Z
   Total Products: 206
 - [Veículos de colecção](https://brincatoys.pt/collections/carro-de-brinquedo-colecao)
   Updated: 2025-10-25T11:34:07Z
   Total Products: 176
 - [Veículos Primeira Infância](https://brincatoys.pt/collections/carro-de-brinquedo-primeira-infancia)
-  Updated: 2025-10-26T11:20:57Z
+  Updated: 2025-10-27T17:04:16Z
   Total Products: 113
 - [Lego Sonic](https://brincatoys.pt/collections/lego-sonic): Acelera com o herói dos videojogos nos fantásticos conjuntos LEGO® Sonic the Hedgehog™. O Sonic junta-se aos amigos Tails e Amy em desafios emocionantes para apanharem anéis e enfrentarem o Dr. Eggman, o Cubot e os Badniks.
   Updated: 2025-10-26T15:00:46Z
@@ -21481,17 +21502,17 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-26T21:13:41Z
   Total Products: 25
 - [0 - 12 meses](https://brincatoys.pt/collections/0-12-meses)
-  Updated: 2025-10-24T11:21:26Z
+  Updated: 2025-10-27T17:04:16Z
   Total Products: 325
 - [2 - 3 anos](https://brincatoys.pt/collections/2-3-anos)
-  Updated: 2025-10-27T07:52:40Z
+  Updated: 2025-10-27T16:59:25Z
   Total Products: 1588
 - [4 - 5 anos](https://brincatoys.pt/collections/4-5-anos)
-  Updated: 2025-10-26T20:27:20Z
-  Total Products: 704
+  Updated: 2025-10-27T17:51:10Z
+  Total Products: 707
 - [8 - 10 anos](https://brincatoys.pt/collections/8-10-anos)
-  Updated: 2025-10-26T21:31:11Z
-  Total Products: 327
+  Updated: 2025-10-27T17:50:50Z
+  Total Products: 328
 - [+ 3 meses](https://brincatoys.pt/collections/3-meses)
   Updated: 2025-10-19T09:15:47Z
   Total Products: 19
@@ -21499,31 +21520,31 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-19T09:15:47Z
   Total Products: 54
 - [+ 12 meses](https://brincatoys.pt/collections/12-meses)
-  Updated: 2025-10-24T11:21:26Z
+  Updated: 2025-10-27T17:04:16Z
   Total Products: 127
 - [Até €15](https://brincatoys.pt/collections/ate-15)
-  Updated: 2025-10-26T11:30:46Z
-  Total Products: 1291
+  Updated: 2025-10-27T17:51:42Z
+  Total Products: 1290
 - [Até €25](https://brincatoys.pt/collections/ate-25)
-  Updated: 2025-10-26T19:38:51Z
-  Total Products: 2401
+  Updated: 2025-10-27T17:51:42Z
+  Total Products: 2400
 - [Até €35](https://brincatoys.pt/collections/ate-35)
-  Updated: 2025-10-27T07:52:40Z
-  Total Products: 2862
+  Updated: 2025-10-27T17:51:42Z
+  Total Products: 2861
 - [Até €50](https://brincatoys.pt/collections/ate-50)
-  Updated: 2025-10-27T07:52:40Z
-  Total Products: 3247
+  Updated: 2025-10-27T17:51:42Z
+  Total Products: 3246
 - [Até €60](https://brincatoys.pt/collections/ate-60)
-  Updated: 2025-10-27T07:52:40Z
-  Total Products: 3382
+  Updated: 2025-10-27T17:51:42Z
+  Total Products: 3381
 - [Até €80](https://brincatoys.pt/collections/ate-80)
-  Updated: 2025-10-27T07:52:40Z
-  Total Products: 3462
+  Updated: 2025-10-27T17:51:42Z
+  Total Products: 3461
 - [Até €100](https://brincatoys.pt/collections/ate-100)
-  Updated: 2025-10-27T07:52:40Z
-  Total Products: 3511
+  Updated: 2025-10-27T17:51:42Z
+  Total Products: 3510
 - [Novidades](https://brincatoys.pt/collections/novidades)
-  Updated: 2025-10-26T12:51:24Z
+  Updated: 2025-10-27T17:51:42Z
   Total Products: 415
 - [Outlet](https://brincatoys.pt/collections/outlet): Oportunidades Outlet exclusivo online. Artigos limitados ao stock existente. Acumulável com outros descontos ou promoções.
   Updated: 2025-10-22T20:29:39Z
@@ -21556,7 +21577,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-19T09:15:48Z
   Total Products: 2
 - [Patrulha Pata](https://brincatoys.pt/collections/patrulha-pata)
-  Updated: 2025-10-26T11:20:57Z
+  Updated: 2025-10-27T17:51:10Z
   Total Products: 39
 - [Five Nights at Freddy's](https://brincatoys.pt/collections/five-nights-at-freddys)
   Updated: 2025-10-19T09:15:48Z
@@ -21568,7 +21589,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-19T09:15:48Z
   Total Products: 55
 - [Dragon Ball](https://brincatoys.pt/collections/dragon-ball)
-  Updated: 2025-10-19T09:15:48Z
+  Updated: 2025-10-27T17:51:37Z
   Total Products: 14
 - [Fortnite](https://brincatoys.pt/collections/fortnite)
   Updated: 2025-10-19T09:15:48Z
@@ -21586,7 +21607,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-19T09:15:48Z
   Total Products: 36
 - [Marvel](https://brincatoys.pt/collections/marvel)
-  Updated: 2025-10-24T11:21:26Z
+  Updated: 2025-10-27T17:51:42Z
   Total Products: 115
 - [My Little Pony](https://brincatoys.pt/collections/my-little-pony)
   Updated: 2025-10-19T09:15:48Z
@@ -21628,11 +21649,11 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-19T09:15:49Z
   Total Products: 1
 - [Hot Wheels](https://brincatoys.pt/collections/hot-wheels)
-  Updated: 2025-10-22T17:56:45Z
+  Updated: 2025-10-27T16:58:44Z
   Total Products: 35
 - [LEGO](https://brincatoys.pt/collections/lego)
-  Updated: 2025-10-27T07:52:40Z
-  Total Products: 403
+  Updated: 2025-10-27T11:24:21Z
+  Total Products: 404
 - [LOL Surprise](https://brincatoys.pt/collections/lol-surprise)
   Updated: 2025-10-23T17:43:41Z
   Total Products: 14
@@ -21655,7 +21676,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-19T09:15:49Z
   Total Products: 3
 - [Nenuco](https://brincatoys.pt/collections/nenuco)
-  Updated: 2025-10-24T11:21:26Z
+  Updated: 2025-10-27T11:24:21Z
   Total Products: 6
 - [Nerf](https://brincatoys.pt/collections/nerf)
   Updated: 2025-10-19T09:15:49Z
@@ -21673,13 +21694,13 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-26T20:25:25Z
   Total Products: 122
 - [Pokémon](https://brincatoys.pt/collections/pokemon)
-  Updated: 2025-10-19T09:15:49Z
+  Updated: 2025-10-27T11:24:21Z
   Total Products: 100
 - [Polly Pocket](https://brincatoys.pt/collections/polly-pocket)
   Updated: 2025-10-19T09:15:49Z
   Total Products: 3
 - [Princesas Disney](https://brincatoys.pt/collections/princesas-disney)
-  Updated: 2025-10-19T09:15:49Z
+  Updated: 2025-10-27T17:51:00Z
   Total Products: 106
 - [Rainbow High](https://brincatoys.pt/collections/rainbow-high)
   Updated: 2025-10-23T22:16:28Z
@@ -21697,7 +21718,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-26T11:20:57Z
   Total Products: 28
 - [Spidey and Amazing Friends](https://brincatoys.pt/collections/spidey-and-amazing-friends)
-  Updated: 2025-10-23T22:55:48Z
+  Updated: 2025-10-27T17:19:58Z
   Total Products: 12
 - [Super Mario](https://brincatoys.pt/collections/super-mario)
   Updated: 2025-10-19T09:15:50Z
@@ -21712,34 +21733,34 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-19T09:15:50Z
   Total Products: 9
 - [Catálogo](https://brincatoys.pt/collections/all)
-  Updated: 2025-10-27T07:52:40Z
-  Total Products: 3544
+  Updated: 2025-10-27T17:51:42Z
+  Total Products: 3543
 - [6 - 7 anos](https://brincatoys.pt/collections/6-7-anos)
-  Updated: 2025-10-26T15:18:12Z
+  Updated: 2025-10-27T17:51:42Z
   Total Products: 286
 - [11 - 14 anos](https://brincatoys.pt/collections/11-14-anos)
   Updated: 2025-10-23T19:10:53Z
   Total Products: 189
 - [+ 2 anos](https://brincatoys.pt/collections/de-2-anos)
-  Updated: 2025-10-27T07:52:40Z
-  Total Products: 120
+  Updated: 2025-10-27T10:40:36Z
+  Total Products: 119
 - [+ 3 anos](https://brincatoys.pt/collections/de-3-anos)
-  Updated: 2025-10-26T19:38:51Z
+  Updated: 2025-10-27T16:59:25Z
   Total Products: 1230
 - [+ 4 anos](https://brincatoys.pt/collections/de-4-anos)
-  Updated: 2025-10-24T11:21:26Z
-  Total Products: 497
+  Updated: 2025-10-27T17:51:00Z
+  Total Products: 500
 - [+ 5 anos](https://brincatoys.pt/collections/de-5-anos)
-  Updated: 2025-10-24T19:51:31Z
+  Updated: 2025-10-27T17:51:10Z
   Total Products: 137
 - [+ 6 anos](https://brincatoys.pt/collections/6-anos)
-  Updated: 2025-10-24T11:21:26Z
+  Updated: 2025-10-27T17:51:42Z
   Total Products: 186
 - [+ 7 anos](https://brincatoys.pt/collections/7-anos)
-  Updated: 2025-10-26T15:18:12Z
+  Updated: 2025-10-27T11:24:21Z
   Total Products: 78
 - [+ 8 anos](https://brincatoys.pt/collections/8-anos)
-  Updated: 2025-10-26T18:40:21Z
+  Updated: 2025-10-27T11:24:21Z
   Total Products: 219
 - [+ 12 anos](https://brincatoys.pt/collections/12-anos)
   Updated: 2025-10-19T09:15:50Z
@@ -21748,11 +21769,11 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-25T15:18:27Z
   Total Products: 87
 - [Os mais procurados](https://brincatoys.pt/collections/os-mais-populares)
-  Updated: 2025-10-27T07:52:40Z
-  Total Products: 3545
+  Updated: 2025-10-27T17:51:42Z
+  Total Products: 3544
 - [Recém-chegados](https://brincatoys.pt/collections/recem-chegados)
-  Updated: 2025-10-27T07:52:40Z
-  Total Products: 3545
+  Updated: 2025-10-27T17:51:42Z
+  Total Products: 3544
 - [Produtos em destaque](https://brincatoys.pt/collections/produtos-em-destaque)
   Updated: 2025-10-22T11:22:51Z
   Total Products: 22
@@ -21763,8 +21784,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-19T09:15:50Z
   Total Products: 6
 - [OrderlyEmails - Recommended Products](https://brincatoys.pt/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-10-27T07:52:40Z
-  Total Products: 3055
+  Updated: 2025-10-27T17:51:42Z
+  Total Products: 3053
 - [Girafa Sofia](https://brincatoys.pt/collections/girafa-sofia)
   Updated: 2025-10-19T09:15:51Z
   Total Products: 19
@@ -21772,11 +21793,11 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-25T11:34:07Z
   Total Products: 125
 - [Marketplace](https://brincatoys.pt/collections/marketplace)
-  Updated: 2025-10-27T07:52:40Z
-  Total Products: 3055
+  Updated: 2025-10-27T17:51:42Z
+  Total Products: 3053
 - [EzConnector](https://brincatoys.pt/collections/ezconnector)
-  Updated: 2025-10-27T07:52:39Z
-  Total Products: 903
+  Updated: 2025-10-27T17:51:42Z
+  Total Products: 899
 
 ## Blogs
 
