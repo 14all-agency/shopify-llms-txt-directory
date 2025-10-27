@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-10-26T20:01:08.467Z
+- Updated At: 2025-10-27T00:01:18.450Z
 
 ## Products
 
@@ -37733,7 +37733,7 @@
     Availability: Available
     Price: ‏1,399.00 ‏₪ ILS
 - [נעלי כדורגל מקצועיות Phantom 6 Elite LE High AG-Pro](https://www.rsport.co.il/products/נעלי-כדורגל-מקצועיות-phantom-6-elite-le-high-ag-pro): נעלי כדורגל Phantom 6 Elite LE High AG-Pro עם טכנולוגיית Gripknit מיקרו-טקסטורה לשיפור השליטה והדיוק בדריבל ובעיטות. סוליית AG-Pro עם פקקי סיבוב מאפשרת שינויי כיוון מהירים ונוחות מקסימלית. עיצוב קרסול גבוה לתמיכה ונוחות, עם מערכת שרוכים מוסתרת לבעיטה חלקה. מתאימות במיוחד למגרשי דשא מלאכותי.
-  Updated: 2025-10-15T23:35:10Z
+  Updated: 2025-10-26T23:35:10Z
   Vendor: R:SPORT
   Product Type: נעלי כדורגל
   Availability: Available
