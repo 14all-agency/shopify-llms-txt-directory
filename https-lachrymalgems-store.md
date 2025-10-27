@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-10-03T06:30:37Z
 - Contact Email: mandiemaddox@mystichiddengem.com
-- Updated At: 2025-10-27T08:00:34.434Z
+- Updated At: 2025-10-27T12:00:33.728Z
 
 ## Products
 
@@ -1693,7 +1693,7 @@
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/female-model-esoteric-lachrywave-pajama-pants.png?v=1761501996
   Price: $61.48 USD
 - [Plus Size High-Waisted Bikini - Esoteric Alternative Swimwear | Lachrymal Gems](https://lachrymalgems.store/products/plus-size-high-waisted-bikini-customized-services): Stunning plus size high-waisted bikini with alternative esoteric design. Flattering fit for curvy bodies, bold mystical graphics. Premium quality swimwear that celebrates your curves. Shop now!
-  Updated: 2025-10-27T02:31:41Z
+  Updated: 2025-10-27T10:36:13Z
   Vendor: Lachrymal Gems
   Product Type: Women's Swimwear
   Availability: Available
