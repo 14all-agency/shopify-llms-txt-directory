@@ -5,7 +5,7 @@
 - Currency: USD
 - Timezone: America/New_York
 - Created At: 2025-07-25T14:20:57Z
-- Updated At: 2025-10-27T04:00:48.602Z
+- Updated At: 2025-10-27T08:00:50.973Z
 
 ## Products
 
@@ -1488,7 +1488,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/7a19ab157cd64659946cd03b9abefd76-Max.webp?v=1760865783
     Price: $40.00 USD
 - [Plus Size Sleeveless Maxi Tank Dress with Slit](https://np0i0a-pm.myshopify.com/products/full-size-slit-round-neck-sleeveless-maxi-tank-dress-plus-size): Shop our Full Size Slit Round Neck Sleeveless Maxi Tank Dress. Featuring pockets and a soft blend of polyester and spandex, it's perfect for any occasion.
-  Updated: 2025-10-22T12:54:08Z
+  Updated: 2025-10-27T06:30:03Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -3631,7 +3631,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/0dd6fe9f-233b-4a04-80ad-ad99a4c3a0b5-Max-Origin.webp?v=1760856535
     Price: $16.58 USD
 - [Ruffled Wide Leg Pants - Stylish High Waist Pull-On with Pockets](https://np0i0a-pm.myshopify.com/products/ruffled-wide-leg-pull-on-high-waist-pants-with-pockets): Shop our Ruffled Wide Leg for a chic high waist pant with pockets, perfect for comfort and style. Easy to care for, versatile, and high-quality material.
-  Updated: 2025-10-26T21:20:36Z
+  Updated: 2025-10-27T07:40:35Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -4437,7 +4437,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/00db4409-43b9-4391-a3d3-10528de7369a-Max-Origin.webp?v=1760857117
     Price: $45.00 USD
 - [Round Neck Top and Pants Set - Comfortable Two-Piece Outfit](https://np0i0a-pm.myshopify.com/products/round-neck-top-and-pants-set): Shop the stylish Round Neck Top and Pants Set. This comfortable two-piece outfit features stretchy fabric and convenient pockets. Perfect for casual wear.
-  Updated: 2025-10-26T08:42:51Z
+  Updated: 2025-10-27T06:03:37Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -5303,7 +5303,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/4018c7d6-dc6a-48ac-b8aa-f07719a4e8b8-Max-Origin.webp?v=1760857571
     Price: $56.00 USD
 - [Color Block Knit Button-Up Cardigan - Stylish & Comfortable](https://np0i0a-pm.myshopify.com/products/color-block-knit-button-up-cardigan): Shop the Color Block Knit Button-Up Cardigan for a stylish and cozy addition to your wardrobe. Perfect for layering and easy to care for.
-  Updated: 2025-10-27T02:21:23Z
+  Updated: 2025-10-27T06:20:47Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -10539,7 +10539,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/dd3c321fd9a345a28abe071da9962aa0-Max-Origin.webp?v=1760860106
     Price: $65.50 USD
 - [Striped Detail Crewneck Top for Stylish & Comfortable 2pcs Set](https://np0i0a-pm.myshopify.com/products/striped-detail-crewneck-top-elastic-sweatpants-2pcs-set): Shop the trendy Striped Detail Crewneck Top and elastic sweatpants 2pcs set, perfect for casual wear, lounging, or running errands with comfort and style.
-  Updated: 2025-10-27T03:41:20Z
+  Updated: 2025-10-27T06:03:49Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -12446,7 +12446,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/4274b691-31a7-4524-8a0a-c7b4ec670c5b-Max-Origin.webp?v=1760861528
     Price: $34.54 USD
 - [Chest Pocket Raw Hem Denim Loose Shirt Dress - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/chest-pocket-raw-hem-denim-loose-shirt-dress): Shop the Chest Pocket Raw Hem Denim Loose Shirt Dress for a stylish and comfortable addition to your wardrobe. Made from 100% cotton with a relaxed fit.
-  Updated: 2025-10-27T03:20:45Z
+  Updated: 2025-10-27T06:03:05Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -13765,7 +13765,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/c8ffa13b-cff4-442e-927f-d4557e5f272c-Max-Origin.webp?v=1761363926
     Price: $71.04 USD
 - [Zip Collar Long Sleeve Top | Comfortable Two-Piece Set for Casual Wear](https://np0i0a-pm.myshopify.com/products/zip-collar-long-sleeve-top-and-drawstring-pants-set): Discover the stylish Zip Collar Long Sleeve Top and Drawstring Pants Set, offering comfort and versatility. Perfect for lounging or running errands.
-  Updated: 2025-10-27T03:41:06Z
+  Updated: 2025-10-27T05:21:46Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -13881,7 +13881,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/4caddeb5e1014d0199779d72d013955f-Max-Origin.webp?v=1760863361
     Price: $44.26 USD
 - [Round Neck Long Sleeve Top - Comfortable & Stylish Two-Piece Set](https://np0i0a-pm.myshopify.com/products/round-neck-long-sleeve-top-pants-set-99358): Shop our Round Neck Long Sleeve Top and Pants Set for a perfect blend of comfort and style. Ideal for lounging and casual outings, with easy care features.
-  Updated: 2025-10-27T01:02:36Z
+  Updated: 2025-10-27T05:21:51Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -14311,7 +14311,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/7211568f74a643bd9671b6439db4a4f8-Max-Origin.webp?v=1760863657
     Price: $50.66 USD
 - [Leopard and Striped Trim Shirt and Pants Set - Pretty Melanin Boutique](https://np0i0a-pm.myshopify.com/products/leopard-striped-trim-shirt-pants-set): Shop the Leopard and Striped Trim Shirt and Pants Set for a stylish two-piece outfit. Made from 100% viscose with slightly stretchy fabric for comfort.
-  Updated: 2025-10-27T02:02:41Z
+  Updated: 2025-10-27T04:22:16Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -15141,7 +15141,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/def1395c-d569-4470-844d-fcaf459b7069-Max-Origin.webp?v=1760864075
     Price: $44.70 USD
 - [Frill Leopard Long Sleeve Sweater - Trendy Cozy Animal Print Top](https://np0i0a-pm.myshopify.com/products/frill-leopard-long-sleeve-sweater): Shop the Frill Leopard Long Sleeve Sweater for a stylish and comfortable look. Trendy leopard print with lace detail, perfect for any occasion. Easy to care.
-  Updated: 2025-10-25T07:50:48Z
+  Updated: 2025-10-27T07:40:36Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -15852,7 +15852,7 @@
     Image: https://cdn.shopify.com/s/files/1/0755/3237/0151/files/16d04d76-5838-43c3-9d6c-40c6742ea136-Max-Origin.webp?v=1760864694
     Price: $18.84 USD
 - [Lace Detail Dropped Shoulder Hoodie for Stylish Comfort | Shop Now](https://np0i0a-pm.myshopify.com/products/lace-detail-dropped-shoulder-hoodie-pants-set): Discover the Lace Detail Dropped Shoulder Hoodie, perfect for a trendy and comfortable look. Elevate your casual style with this chic two-piece set today.
-  Updated: 2025-10-27T03:02:11Z
+  Updated: 2025-10-27T05:21:29Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -18858,6 +18858,9 @@
     Author: Pretty Melanin Boutique
   - [Why Sustainable Women's Clothing is a Game-Changer](https://np0i0a-pm.myshopify.com/blogs/news/why-sustainable-womens-clothing-is-a-game-changer): Why Sustainable Women's Clothing is a Game-Changer
     Updated: 2025-10-26T00:05:24Z
+    Author: Pretty Melanin Boutique
+  - [A Comparative Look at Women's Clothing Styles Across Decades](https://np0i0a-pm.myshopify.com/blogs/news/a-comparative-look-at-womens-clothing-styles-across-decades): A Comparative Look at Women's Clothing Styles Across Decades
+    Updated: 2025-10-27T04:03:24Z
     Author: Pretty Melanin Boutique
 
 ## Store Pages
