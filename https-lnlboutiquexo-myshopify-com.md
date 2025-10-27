@@ -5,7 +5,7 @@
 - Currency: CAD
 - Timezone: America/Toronto
 - Created At: 2025-08-23T11:52:48Z
-- Updated At: 2025-10-26T20:00:38.933Z
+- Updated At: 2025-10-27T00:00:42.173Z
 
 ## Products
 
