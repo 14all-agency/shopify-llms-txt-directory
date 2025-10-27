@@ -10,7 +10,7 @@
 - Contact Email: support@patiofyre.com
 - Contact Phone: 1-800-247-7384
 - Address: 20590 NE Empire Ave. Bend, OR 97701, United States of America
-- Updated At: 2025-10-27T12:00:33.030Z
+- Updated At: 2025-10-27T16:00:36.455Z
 
 Shop Patiofyre Today – Experience 8 Feet of Luxury Heat for Patios, Restaurants, and Backyards Nationwide
 
@@ -24,14 +24,14 @@ Shop Patiofyre Today – Experience 8 Feet of Luxury Heat for Patios, Restaurant
   Image: https://cdn.shopify.com/s/files/1/0685/7228/3129/files/patiofyre_2425_full-safety-cage_JLMBC_1.jpg?v=1739922588
   Price: $869.00 USD
 - [Metro Jetlamp Outdoor Heater | Patiofyre](https://www.patiofyre.com/products/metro): Discover the Metro Jetlamp: a sleek wood pellet patio heater that transforms outdoor heating with style and sustainability.
-  Updated: 2025-10-26T19:57:17Z
+  Updated: 2025-10-27T14:45:26Z
   Vendor: PatioFyre
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/7228/3129/files/patiofyre_2425_jetlamp_main_JLMB.jpg?v=1731891277
   Price: $1,099.00 USD
 - [Lower Safety Cage | Patiofyre](https://www.patiofyre.com/products/lower-safety-cage): Secure your patio area with our lower safety cage. Designed for added protection around wood pellet heaters, ensuring a safer environment.
-  Updated: 2025-07-17T09:06:07Z
+  Updated: 2025-10-27T14:45:26Z
   Vendor: PatioFyre
   Product Type: 
   Availability: Available
@@ -73,14 +73,14 @@ Shop Patiofyre Today – Experience 8 Feet of Luxury Heat for Patios, Restaurant
   Image: https://cdn.shopify.com/s/files/1/0685/7228/3129/files/patiofyre_2425_budeez-pellet-storage_ABPS_a7f8e2cd-6849-4934-b1b7-395ec0501a14.jpg?v=1731968837
   Price: $17.99 USD
 - [Propane Torch | Patiofyre](https://www.patiofyre.com/products/propane-torch): Light your wood pellet patio heater easily with our propane torch. Designed for quick, efficient ignition in any outdoor setting.
-  Updated: 2025-10-25T18:36:21Z
+  Updated: 2025-10-27T14:45:28Z
   Vendor: PatioFyre
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/7228/3129/files/patiofyre_2425_blow-torch_APFT.jpg?v=1731968837
   Price: $39.99 USD
 - [Glass Tube for Heaters |Patiofyre](https://www.patiofyre.com/products/glass-tube): Get a replacement for your broken patio heater glass tube. Our durable glass tubes ensure your heater operates safely and efficiently.
-  Updated: 2025-10-10T14:39:55Z
+  Updated: 2025-10-27T14:45:27Z
   Vendor: PatioFyre
   Product Type: 
   Availability: Available
@@ -126,7 +126,7 @@ Shop Patiofyre Today – Experience 8 Feet of Luxury Heat for Patios, Restaurant
   Image: https://cdn.shopify.com/s/files/1/0685/7228/3129/files/patiofyre_2425_jetlamp_full-safety-cage_SCFM.png?v=1745942416
   Price: $1,849.00 USD
 - [Jetlamp Starter Kit | Patiofyre](https://www.patiofyre.com/products/jetlamp-starter-kit): Everything you need to get started with your Jetlamp, designed to keep your wood pellet patio heater in top condition for optimal performance.
-  Updated: 2025-10-23T19:54:26Z
+  Updated: 2025-10-27T14:45:27Z
   Vendor: Patiofyre
   Product Type: 
   Availability: Available
