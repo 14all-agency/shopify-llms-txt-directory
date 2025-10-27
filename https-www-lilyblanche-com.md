@@ -12,7 +12,7 @@ We use only precious metals, real gemstones and pearls in our pieces. Our jewell
 - Contact Email: hello@lilyblanche.com
 - Contact Phone: +44 1786 271376
 - Address: 25 Clarendon Place, Stirling, FK8 2QW, Scotland, United Kingdom
-- Updated At: 2025-10-26T16:00:53.675Z
+- Updated At: 2025-10-27T04:00:56.606Z
 
 We take vintage jewellery designs and give them a modern twist by combining them with outstanding 21st century design and cutting-edge photography and engraving technology. But our service and relationship with our customers is every bit as important as the finished items.
 
@@ -3992,7 +3992,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
   Image: https://cdn.shopify.com/s/files/1/0726/1742/7262/products/img_proxy_39f632e1-1ff3-4b2e-8a81-20f37e4770bd.jpg?v=1741878819
   Price: £75.00 GBP
 - [Blue Topaz Vintage Heart Locket Gold | Free Photos | Lily Blanche](https://www.lilyblanche.com/products/blue-topaz-vintage-heart-locket-gold): Looking for the perfect gift for yourself or a loved one? This gold vermeil heart locket holds two of your precious photos and can be personalised for free. Featuring a Blue Topaz Gemstone. Hallmarked. Free UK Shipping & Luxury Jewellery Care Kit Included. Shop Photo Lockets Online Today. Express Delivery Available.
-  Updated: 2025-10-13T10:46:26Z
+  Updated: 2025-10-26T19:02:12Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -5118,7 +5118,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £185.00 GBP
 - [Citrine Drop Hoop Earrings |  Gold | November | Lily Blanche](https://www.lilyblanche.com/products/citrine-drop-hoop-earrings-gold-november): These gorgeous 18 carat gold vermeil hoop earrings feature a real citrine gemstone at their centre, making them the perfect personalised gift for your loved one.
-  Updated: 2025-07-23T10:54:26Z
+  Updated: 2025-10-27T01:16:06Z
   Vendor: Lily Blanche
   Product Type: Birthstone
   Availability: Available
@@ -6266,7 +6266,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £195.00 GBP
 - [Citrine Charm Necklace Gold | November Birthstone Necklace](https://www.lilyblanche.com/products/citrine-charm-necklace-gold-november): A stunning, real citrine forms the centrepiece of this beautiful November birthstone necklace. Add an inital for personalisation. Free luxury jewellery care kit with all orders.
-  Updated: 2025-10-23T19:22:40Z
+  Updated: 2025-10-27T01:16:05Z
   Vendor: Lily Blanche
   Product Type: Birthstone
   Availability: Available
@@ -10383,7 +10383,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £65.00 GBP
 - [Four Picture Heart Locket | High Quality Gold Necklace | Lily Blanche](https://www.lilyblanche.com/products/four-picture-heart-locket-gold): Keep your loved ones close to your heart with this pretty four photo heart-shaped locket in 18 carat gold vermeil. The unique necklace can be personalised with four of your photos and engraved with a message. The charm locket is hallmarked in Edinburgh. Free locket photos & free shipping. Shop online today.
-  Updated: 2025-10-18T20:56:00Z
+  Updated: 2025-10-26T19:26:47Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -16887,7 +16887,7 @@ We take vintage jewellery designs and give them a modern twist by combining them
     Availability: Available
     Price: £195.00 GBP
 - [2 Photo Heart Locket Gold Top Quality Engravable Locket](https://www.lilyblanche.com/products/large-2-photo-heart-locket-gold): Keep loved ones close with this two-photo heart-shaped locket in 18-carat gold vermeil is the perfect wearable family album. Hallmarked in Edinburgh. The ideal gift to hold the ones you love close. Add two of your own photos inside. Free UK Shipping & Luxury Gift Wrap included. Shop this necklace online today.
-  Updated: 2025-10-25T22:24:22Z
+  Updated: 2025-10-27T03:35:54Z
   Vendor: Lily Blanche
   Product Type: Locket
   Availability: Available
@@ -19140,7 +19140,7 @@ From £119
   Price: £65.00 GBP
 - [Men's St Christopher Necklace 9ct Gold | Free Engraving & UK Delivery](https://www.lilyblanche.com/products/mens-large-st-christopher-necklace-solid-gold): Discover our handcrafted men's 9ct solid gold St Christopher necklace with free personalised engraving. UK hallmarked octagonal design, perfect for travellers. Free UK delivery, 4.9★ rated. Award-winning British jewellery.
 £315
-  Updated: 2025-10-16T10:56:02Z
+  Updated: 2025-10-26T19:29:42Z
   Vendor: Lily Blanche
   Product Type: Necklace
   Availability: Available
