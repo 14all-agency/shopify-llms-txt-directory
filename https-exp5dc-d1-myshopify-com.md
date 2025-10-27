@@ -6,7 +6,7 @@
 - Timezone: Asia/Hong_Kong
 - Created At: 2025-10-06T04:18:26Z
 - Contact Email: perla.marita815@gmail.com
-- Updated At: 2025-10-27T00:00:43.038Z
+- Updated At: 2025-10-27T08:00:36.591Z
 
 ## Products
 
@@ -1358,6 +1358,57 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/ba6b1a7e71384750b2f7f3e6099bdf3d-Max-Origin.webp?v=1760935904
   Price: $41.10 USD
+- [Fame Multi Rivet Shoulder Bag](https://exp5dc-d1.myshopify.com/products/fame-multi-rivet-shoulder-bag): This stylish shoulder bag is crafted from high-quality genuine leather and adorned with eye-catching studs, offering a unique and fashionable look. The hobo style and top handle provide comfortable carrying options, while the durable construction ensures long-lasting use. Perfect for adding a touch of edgy elegance to any outfit, this bag is a versatile accessory for everyday wear or special occasions. The secure closure keeps your belongings safe and organized. Bag size:Small Material:90% POLYESTER 10% ALLOY Imported Product Measurements (Measurements by inches) & Size Conversion Size Actual Length Actual Width Actual Height one size 14 2 7
+  Updated: 2025-10-27T04:33:27Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/e3d9b500-8a8d-4f23-98dd-2cf2e132009d-Max-Origin.webp?v=1761539527
+  Price: $45.16 USD
+- [Zenana Long Sleeve Flare Dress With Pockets](https://exp5dc-d1.myshopify.com/products/zenana-long-sleeve-flare-dress-with-pockets): A long sleeve flare dress with pockets is a stylish and practical option for your wardrobe. This type of dress typically features a flattering fit-and-flare silhouette with long sleeves and convenient pockets. The addition of pockets adds functionality and a touch of casual charm to the dress, making it perfect for everyday wear. You can easily dress up or down a long sleeve flare dress with pockets depending on the occasion, making it a versatile and fashionable choice for any wardrobe. Features: Basic style, Pocketed Stretch: Slightly stretchy Body: Not lined Material composition: 57%polyester 38%rayon 5%spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S:Bust 34-36 in, Waist 26-28 in, HIP 36-38 inM:Bust 37-38 in, Waist 29-31 in, HIP 39-41 inL:Bust 39-40 in, Waist 32-33 in, HIP 42-43 inXL:Bust 41-42 in, Waist 34-35 in, HIP 44-45 in
+  Updated: 2025-10-27T04:38:15Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/ba73a4c6-e559-4b9c-8dcd-cbe44ba63fac-Max-Origin.webp?v=1761539775
+  - [FOREST / S](https://exp5dc-d1.myshopify.com/products/zenana-long-sleeve-flare-dress-with-pockets?variant=50194729533687)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/ba73a4c6-e559-4b9c-8dcd-cbe44ba63fac-Max-Origin.webp?v=1761539775
+    Price: $21.66 USD
+  - [FOREST / M](https://exp5dc-d1.myshopify.com/products/zenana-long-sleeve-flare-dress-with-pockets?variant=50194729566455)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/ba73a4c6-e559-4b9c-8dcd-cbe44ba63fac-Max-Origin.webp?v=1761539775
+    Price: $21.66 USD
+  - [FOREST / L](https://exp5dc-d1.myshopify.com/products/zenana-long-sleeve-flare-dress-with-pockets?variant=50194729599223)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/ba73a4c6-e559-4b9c-8dcd-cbe44ba63fac-Max-Origin.webp?v=1761539775
+    Price: $21.66 USD
+  - [FOREST / XL](https://exp5dc-d1.myshopify.com/products/zenana-long-sleeve-flare-dress-with-pockets?variant=50194729631991)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/ba73a4c6-e559-4b9c-8dcd-cbe44ba63fac-Max-Origin.webp?v=1761539775
+    Price: $21.66 USD
+- [Zenana Long Sleeve Flare Dress With Pockets](https://exp5dc-d1.myshopify.com/products/zenana-long-sleeve-flare-dress-with-pockets-1): This elegant swing dress features a beautiful turquoise hue crafted from soft, breathable fabric that drapes gracefully. The relaxed A-line silhouette creates a flattering shape while the long sleeves provide comfortable coverage. Perfect for casual outings or dressed up occasions, this versatile piece combines comfort with effortless style. The lightweight material ensures all-day comfort while the knee-length hem offers appropriate coverage for various settings. Features:Basic style,Pocketed Stretch:Slightly stretchy Body:Not lined Material composition:57%polyester 38%rayon 5%spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product measurements: S:Bust 34-36 in, Waist 26-28 in, HIP 36-38 inM:Bust 37-38 in, Waist 29-31 in, HIP 39-41 inL:Bust 39-40 in, Waist 32-33 in, HIP 42-43 inXL:Bust 41-42 in, Waist 34-35 in, HIP 44-45 in
+  Updated: 2025-10-27T04:38:52Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/afc2b031-56a3-4a13-9c52-075fdbf47e61-Max-Origin.webp?v=1761539797
+  - [DUSTY TEAL / S](https://exp5dc-d1.myshopify.com/products/zenana-long-sleeve-flare-dress-with-pockets-1?variant=50194730320119)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/afc2b031-56a3-4a13-9c52-075fdbf47e61-Max-Origin.webp?v=1761539797
+    Price: $21.66 USD
+  - [DUSTY TEAL / M](https://exp5dc-d1.myshopify.com/products/zenana-long-sleeve-flare-dress-with-pockets-1?variant=50194730352887)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/afc2b031-56a3-4a13-9c52-075fdbf47e61-Max-Origin.webp?v=1761539797
+    Price: $21.66 USD
+  - [DUSTY TEAL / L](https://exp5dc-d1.myshopify.com/products/zenana-long-sleeve-flare-dress-with-pockets-1?variant=50194730385655)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/afc2b031-56a3-4a13-9c52-075fdbf47e61-Max-Origin.webp?v=1761539797
+    Price: $21.66 USD
+  - [DUSTY TEAL / XL](https://exp5dc-d1.myshopify.com/products/zenana-long-sleeve-flare-dress-with-pockets-1?variant=50194730418423)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/afc2b031-56a3-4a13-9c52-075fdbf47e61-Max-Origin.webp?v=1761539797
+    Price: $21.66 USD
 
 ## Collections
 
@@ -1368,11 +1419,11 @@
   Updated: 2025-10-26T15:51:04Z
   Total Products: 8
 - [Dresses](https://exp5dc-d1.myshopify.com/collections/dresses)
-  Updated: 2025-10-26T15:51:04Z
-  Total Products: 8
+  Updated: 2025-10-27T04:38:52Z
+  Total Products: 10
 - [Bags & Wallets](https://exp5dc-d1.myshopify.com/collections/dresses-1)
-  Updated: 2025-10-26T15:51:04Z
-  Total Products: 13
+  Updated: 2025-10-27T04:33:27Z
+  Total Products: 14
 - [Outerwears](https://exp5dc-d1.myshopify.com/collections/outerwears)
   Updated: 2025-10-26T15:51:04Z
   Total Products: 13
@@ -1388,11 +1439,11 @@
 - [Normal Apparels Collections](https://exp5dc-d1.myshopify.com/collections/premium-apparels-collections)
   Updated: 2025-10-26T15:01:00Z
   Total Products: 12
-- [Premium Apparels Collections](https://exp5dc-d1.myshopify.com/collections/premium-apparels-collections-1)
-  Updated: 2025-10-26T15:04:15Z
+- [Feature Apparels Collections](https://exp5dc-d1.myshopify.com/collections/premium-apparels-collections-1)
+  Updated: 2025-10-27T04:43:00Z
   Total Products: 13
-- [Premium Bags & Boots Collections](https://exp5dc-d1.myshopify.com/collections/premium-bags-boots-collections)
-  Updated: 2025-10-26T15:26:37Z
+- [Feature Bags & Boots Collections](https://exp5dc-d1.myshopify.com/collections/premium-bags-boots-collections)
+  Updated: 2025-10-27T04:43:00Z
   Total Products: 12
 - [Normal Bags & Boots Collections](https://exp5dc-d1.myshopify.com/collections/normal-bags-boots-collections)
   Updated: 2025-10-26T15:31:15Z
@@ -1402,6 +1453,12 @@
   Total Products: 0
 - [Feature Beauty Collections](https://exp5dc-d1.myshopify.com/collections/feature-beauty-collections)
   Updated: 2025-10-26T16:07:28Z
+  Total Products: 0
+- [Premium Bags & Wallets Collections](https://exp5dc-d1.myshopify.com/collections/premium-bags-wallets-collections)
+  Updated: 2025-10-27T04:41:13Z
+  Total Products: 0
+- [Premium Dresses Collections](https://exp5dc-d1.myshopify.com/collections/premium-dresses-collections)
+  Updated: 2025-10-27T04:42:10Z
   Total Products: 0
 
 ## Store Pages
@@ -1414,6 +1471,10 @@
   Updated: 2025-10-07T07:39:11Z
 - [GV Gift Card Balance](https://exp5dc-d1.myshopify.com/pages/gv-gift-card-balance): GV Gift Card Balance, do not change this page
   Updated: 2025-10-07T07:39:11Z
+- [關於我們](https://exp5dc-d1.myshopify.com/pages/關於我們)
+  Updated: 2025-10-27T07:53:07Z
+- [Features](https://exp5dc-d1.myshopify.com/pages/features)
+  Updated: 2025-10-27T08:00:27Z
 
 ## Policies
 
