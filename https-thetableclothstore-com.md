@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-02-06T23:04:14Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-10-25T20:00:42.250Z
+- Updated At: 2025-10-27T04:00:51.328Z
 
 ## Products
 
@@ -7461,7 +7461,7 @@
     Availability: Available
     Price: $136.99 USD
 - [Brocade Damask Velvet - Tablecloth - Navy exclusive at The Tablecloth](https://thetableclothstore.com/products/brocade-damask-velvet-tablecloth-navy-the-tablecloth-store): Latest from The Tablecloth Store: Fabric: Damask Velvet Width: 58" Fabric Content: 100% Polyester Description
-  Updated: 2025-10-23T22:13:10Z
+  Updated: 2025-10-25T20:07:37Z
   Vendor: The Tablecloth Store
   Product Type: Hobby Velvet Fabric
   Availability: Available
@@ -32907,58 +32907,58 @@
   - [108 Square](https://thetableclothstore.com/products/granite-digital-print-satin-tablecloth-black?variant=46418290409697)
     Availability: Available
     Price: $136.99 USD
-- [GRANITE - Digital Print Satin - Tablecloth - White - The Tablecloth Store](https://thetableclothstore.com/products/granite-digital-print-satin-tablecloth-white): Fabric: Satin Granite Width: 58" Fabric Content: 100% Polyester Description - The Tablecloth Store
-  Updated: 2025-10-23T22:13:06Z
+- [GRANITE - Digital Print Satin - Tablecloth - White - The Tablecloth Store](https://thetableclothstore.com/products/white-granite-digital-print-satin-tablecloth): Fabric: Satin Granite Width: 58" Fabric Content: 100% Polyester Description - The Tablecloth Store
+  Updated: 2025-10-26T18:08:44Z
   Vendor: Fabrics Star
   Product Type: Digital Print Fabric
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0742/5848/1377/files/GRANITE-WHITE.jpg?v=1755199367
-  - [Fabric Sample](https://thetableclothstore.com/products/granite-digital-print-satin-tablecloth-white?variant=46418236440801)
+  - [Fabric Sample](https://thetableclothstore.com/products/white-granite-digital-print-satin-tablecloth?variant=46418236440801)
     Availability: Available
     Price: $1.00 USD
-  - [52 x 70](https://thetableclothstore.com/products/granite-digital-print-satin-tablecloth-white?variant=46418236473569)
+  - [52 x 70](https://thetableclothstore.com/products/white-granite-digital-print-satin-tablecloth?variant=46418236473569)
     Availability: Available
     Price: $54.99 USD
-  - [52 x 102](https://thetableclothstore.com/products/granite-digital-print-satin-tablecloth-white?variant=46418236506337)
+  - [52 x 102](https://thetableclothstore.com/products/white-granite-digital-print-satin-tablecloth?variant=46418236506337)
     Availability: Available
     Price: $71.99 USD
-  - [90 x 132](https://thetableclothstore.com/products/granite-digital-print-satin-tablecloth-white?variant=46418236539105)
+  - [90 x 132](https://thetableclothstore.com/products/white-granite-digital-print-satin-tablecloth?variant=46418236539105)
     Availability: Available
     Price: $160.99 USD
-  - [90 x 156](https://thetableclothstore.com/products/granite-digital-print-satin-tablecloth-white?variant=46418236571873)
+  - [90 x 156](https://thetableclothstore.com/products/white-granite-digital-print-satin-tablecloth?variant=46418236571873)
     Availability: Available
     Price: $183.99 USD
-  - [108 x 156](https://thetableclothstore.com/products/granite-digital-print-satin-tablecloth-white?variant=46418236604641)
+  - [108 x 156](https://thetableclothstore.com/products/white-granite-digital-print-satin-tablecloth?variant=46418236604641)
     Availability: Available
     Price: $188.99 USD
-  - [52 Round](https://thetableclothstore.com/products/granite-digital-print-satin-tablecloth-white?variant=46418236637409)
+  - [52 Round](https://thetableclothstore.com/products/white-granite-digital-print-satin-tablecloth?variant=46418236637409)
     Availability: Available
     Price: $46.99 USD
-  - [72 Round](https://thetableclothstore.com/products/granite-digital-print-satin-tablecloth-white?variant=46418236670177)
+  - [72 Round](https://thetableclothstore.com/products/white-granite-digital-print-satin-tablecloth?variant=46418236670177)
     Availability: Available
     Price: $99.99 USD
-  - [84 Round](https://thetableclothstore.com/products/granite-digital-print-satin-tablecloth-white?variant=46418236702945)
+  - [84 Round](https://thetableclothstore.com/products/white-granite-digital-print-satin-tablecloth?variant=46418236702945)
     Availability: Available
     Price: $112.99 USD
-  - [96 Round](https://thetableclothstore.com/products/granite-digital-print-satin-tablecloth-white?variant=46418236735713)
+  - [96 Round](https://thetableclothstore.com/products/white-granite-digital-print-satin-tablecloth?variant=46418236735713)
     Availability: Available
     Price: $124.99 USD
-  - [108 Round](https://thetableclothstore.com/products/granite-digital-print-satin-tablecloth-white?variant=46418236768481)
+  - [108 Round](https://thetableclothstore.com/products/white-granite-digital-print-satin-tablecloth?variant=46418236768481)
     Availability: Available
     Price: $136.99 USD
-  - [52 Square](https://thetableclothstore.com/products/granite-digital-print-satin-tablecloth-white?variant=46418236801249)
+  - [52 Square](https://thetableclothstore.com/products/white-granite-digital-print-satin-tablecloth?variant=46418236801249)
     Availability: Available
     Price: $46.99 USD
-  - [72 Square](https://thetableclothstore.com/products/granite-digital-print-satin-tablecloth-white?variant=46418236834017)
+  - [72 Square](https://thetableclothstore.com/products/white-granite-digital-print-satin-tablecloth?variant=46418236834017)
     Availability: Available
     Price: $99.99 USD
-  - [84 Square](https://thetableclothstore.com/products/granite-digital-print-satin-tablecloth-white?variant=46418236866785)
+  - [84 Square](https://thetableclothstore.com/products/white-granite-digital-print-satin-tablecloth?variant=46418236866785)
     Availability: Available
     Price: $112.99 USD
-  - [96 Square](https://thetableclothstore.com/products/granite-digital-print-satin-tablecloth-white?variant=46418236899553)
+  - [96 Square](https://thetableclothstore.com/products/white-granite-digital-print-satin-tablecloth?variant=46418236899553)
     Availability: Available
     Price: $124.99 USD
-  - [108 Square](https://thetableclothstore.com/products/granite-digital-print-satin-tablecloth-white?variant=46418236932321)
+  - [108 Square](https://thetableclothstore.com/products/white-granite-digital-print-satin-tablecloth?variant=46418236932321)
     Availability: Available
     Price: $136.99 USD
 - [LYNN Jacquard Print Metallic - Tablecloth - Aqua - The Tablecloth Store](https://thetableclothstore.com/products/lynn-jacquard-print-metallic-tablecloth-aqua): DIMENSION - Size of the fabric is 118 Inch. in width. fabric is sold by the yard and cut to order. For example, the order of 1 yard (Qty=1) is 118' x 36'. Order of 3 yards (Qty=3) is 118’ x 108' Orders can be customized to be cut in pieces by request. MATERIAL – Jacquard Print Fabric by the yard is heavy weight and made of 100% polyester. SIZE: Jacquard fabric comes in 118 inch. in width making it the perfect choice for various oversize needs, such as wide tablecloths, etc. PRINT: Experience the beauty and elegance of our fabric with its stunning print! Perfect for any occasion, it will add a touch of sophistication to your gatherings. USEFUL - Ideal Material for Tablecloths, drapery, pillows, slipcovers, sewing, DIY, handbags, tote bags, arts and crafts, Etc. CARE - Wash with lukewarm water, no dryer - Keep in mind that while the digital images displayed online aim to provide the most accurate colors, there may be variations between the actual product and what you see on your computer monitor - The Tablecloth Store
@@ -33520,7 +33520,7 @@
   Updated: 2025-10-20T16:51:27Z
   Total Products: 14
 - [Brocade Velvet - The Tablecloth Store](https://thetableclothstore.com/collections/brocade-velvet-1): - The Tablecloth Store
-  Updated: 2025-10-20T16:51:27Z
+  Updated: 2025-10-26T11:22:11Z
   Total Products: 14
 - [Huntsville Velvet - The Tablecloth Store](https://thetableclothstore.com/collections/huntsville-velvet): - The Tablecloth Store
   Updated: 2025-10-20T16:51:27Z
@@ -33682,10 +33682,10 @@
   Updated: 2025-10-20T16:51:29Z
   Total Products: 3
 - [APPPlaza - Best Sellers - The Tablecloth Store](https://thetableclothstore.com/collections/appplaza-best-sellers): - The Tablecloth Store
-  Updated: 2025-10-11T11:18:54Z
+  Updated: 2025-10-26T11:22:11Z
   Total Products: 613
 - [All Products (ChatGPT-AI Product Description) - The Tablecloth Store](https://thetableclothstore.com/collections/all-products-chatgpt-ai-product-description): Bulk Description Generator This hidden collection is created exclusively to help you generate product descriptions for all your products at once—it remains hidden from your storefront. Steps to Generate All Product Descriptions: Start on the Home Screen: Open the app's home screen and follow the easy flow for content generation. Select "Entire Collection" to be redirected to the collection order page and click Start. Select Your Collection: Choose this collection All Products (ChatGPT-AI Product Description) for which you want to generate descriptions. Generate Descriptions: Click the Generate button to automatically create new product descriptions for all the products in the selected collection. This streamlined process lets you update your product details quickly and efficiently, boosting your store's SEO and customer engagement without affecting your live storefront. - The Tablecloth Store
-  Updated: 2025-10-11T11:18:54Z
+  Updated: 2025-10-26T11:22:11Z
   Total Products: 613
 - [SPRING GARDEN - The Tablecloth Store](https://thetableclothstore.com/collections/spring-garden): - The Tablecloth Store
   Updated: 2025-10-20T16:51:29Z
@@ -33694,7 +33694,7 @@
   Updated: 2025-10-20T16:51:29Z
   Total Products: 7
 - [Our full catalog - The Tablecloth Store](https://thetableclothstore.com/collections/our-full-catalog): - The Tablecloth Store
-  Updated: 2025-10-20T16:51:29Z
+  Updated: 2025-10-26T11:22:11Z
   Total Products: 592
 - [Try out - The Tablecloth Store](https://thetableclothstore.com/collections/try-out): - The Tablecloth Store
   Updated: 2025-09-04T18:59:07Z
@@ -33703,7 +33703,7 @@
   Updated: 2025-10-20T16:51:29Z
   Total Products: 22
 - [New! Shopify performance sharing is now turned on - The Tablecloth Store](https://thetableclothstore.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel. - The Tablecloth Store
-  Updated: 2025-10-11T11:18:54Z
+  Updated: 2025-10-26T11:22:11Z
   Total Products: 613
 
 ## Blogs
@@ -33768,6 +33768,9 @@
     Author: User
   - [Design Masterpiece: How to Coordinate Table Settings with Your Home Decor](https://thetableclothstore.com/blogs/news/design-masterpiece-how-to-coordinate-table-settings-with-your-home-decor): Design Masterpiece: How to Coordinate Table Settings with Your Home Decor
     Updated: 2025-10-23T01:31:08Z
+    Author: User
+  - [Tablecloth Etiquette: Dos and Don'ts for Dinner Parties](https://thetableclothstore.com/blogs/news/tablecloth-etiquette-dos-and-donts-for-dinner-parties): Tablecloth Etiquette: Dos and Don'ts for Dinner Parties
+    Updated: 2025-10-27T01:04:00Z
     Author: User
 
 ## Store Pages
