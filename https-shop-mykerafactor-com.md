@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2020-04-27T19:06:17Z
 - Contact Email: laurend@skinqri.com
-- Updated At: 2025-10-27T08:00:49.314Z
+- Updated At: 2025-10-27T12:00:42.316Z
 
 ## Products
 
@@ -32,14 +32,14 @@
   Image: https://cdn.shopify.com/s/files/1/0283/3016/4333/files/2_e1502541-f6fa-4e33-a10e-cde52badc165-opt.jpg?v=1751546838
   Price: $218.00 USD
 - [Lashes by KeraFactor®](https://shop.mykerafactor.com/products/lashes-by-kerafactor): Introducing Lashes by KeraFactor – a revolutionary lash serum meticulously formulated with a potent blend of scientifically proven ingredients to nourish, strengthen, and enhance your lashes like never before. At the heart of our formula lies Pentylene Glycol and Glycerin, multifunctional ingredients renowned for their moisturizing, hydrating, and antimicrobial properties. This ensures that your delicate lash area stays deeply hydrated while safeguarding against harmful microbes. For optimal lash health and rejuvenation, Lashes by KeraFactor features PolyDeoxyRiboNucleotide (PDRN), which enhances cellular metabolism, increases blood flow, reduces shedding, and revitalizes dormant follicles, leading to a thicker, fuller appearance of the lash. Sh-Oligopeptide-1 and Sh-Oligopeptide-4, play pivotal roles in hair rejuvenation and combating aging. By stimulating the follicle, improving circulation, and encouraging the Anagen Phase, they contribute to thicker-looking, healthier lashes while restoring vitality. Seven additional biomimetic growth factors further enhance lash strength, and improve overall resilience, ensuring your lashes are fortified from root to tip. To combat signs of aging and promote cellular repair, Lashes by KeraFactor incorporates NMN and Adenosine, rejuvenating skin from within and combating aging. Acetyl Cysteine, Ketoglutaric Acid, and 3-0-Ethyl Ascorbic Acid provide antioxidant and anti-inflammatory benefits promoting optimal lash health. Furthermore, essential ingredients like Glycine, Glutathione, Arginine, and Lecithin enhance moisture retention, protect against dehydration, and fortify the skin barrier, ensuring your lashes stay nourished. Lashes by KeraFactor boasts antimicrobial, pH-regulating, and preservative properties, ensuring product safety and efficacy. Transform your lashes with Lashes by KeraFactor – the ultimate solution for longer, fuller, and healthier-looking lashes. DIRECTIONS: Remove makeup and contact lenses before applying Lashes by KeraFactor. Apply once daily. Apply only on the lid of the eye at the base of the upper lash line. Do not apply to the lower lid. INGREDIENTS: Agua; Pentylene Glycol; Glycerin; PDRN; sh-Oligopeptide-1; sh-Oligopeptide-4; sh-Polypeptide-1; sh-Polypeptide-4; sh-Polypeptide-7; sh-Polypeptide-9; sh-Polypeptide-11; sh-Polypeptide-71; sh-Polypeptide-86; NMN; Adenosine, Acetyl Cysteine; Ketoglutaric Acid; 3-0-Ethyl Ascorbic Acid; Glycine; Glutathione; Arginine; Lecithin,Carbomer; Sodium Citrate; Citric Acid; Polysorbate 60; Phenoxyethanol Safe Products: Our serums are proudly free of drugs, hormones, SLS, parabens, gluten, prostaglandin analogs (PGAs), sulfates, phthalates, animal testing, carcinogens, oils, and fragrances. Since KeraFactor does not contain prostaglandin analogs (PGAs), it won't alter the iris or eye color, nor will it cause skin discoloration around the eye or break down fat in the eye area. Possible Adverse Reactions: Irritation, rash, or temporary redness. If a reaction occurs, please discontinue use. Warning: Keep out of reach of children. Not intended for use by pregnant or nursing women or by any person under the age of 18. If you are taking any medications, consult with your doctor or health professional before use. Storage: Keep in a cool place. Do not freeze.
-  Updated: 2025-10-27T05:16:10Z
+  Updated: 2025-10-27T12:00:36Z
   Vendor: KeraFactor by SkinQRI
   Product Type: Lash
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0283/3016/4333/files/8-opt.jpg?v=1751546409
   Price: $99.00 USD
 - [Brows by KeraFactor®](https://shop.mykerafactor.com/products/brows-by-kerafactor): Introducing Brows by KeraFactor – a cutting-edge brow serum formulated with a potent blend of nine biomimetic growth factors, meticulously selected to stimulate and nourish brow follicles for fuller, thicker, and more defined looking brows. At the heart of our formula lies a powerful combination of biomimetic growth factors harnessed to ignite the growth process of your brows. These growth factors work synergistically to activate dormant follicles while enhancing the thickness and density of existing ones. Pentylene Glycol serves as the foundation of our formula, offering moisturizing, hydrating, and antimicrobial properties to create an optimal environment for healthy brows. Glycerin, a staple in skincare, not only shapes and defines your brows but also seals in moisture, ensuring they stay hydrated, which is crucial for promoting healthy brow rejuvenation. To maximize brow health, Brows by KeraFactor features a proprietary blend of nine growth factors. These growth factors, including Sh-Oligopeptides, and sh-Polypeptides, stimulate the follicle, improve circulation, and enhance the Anagen Phase. This synergistic action revitalizes dormant follicles, elongates the Anagen Phase, and reduces shedding, resulting in fuller-looking, more defined brows. Additional ingredients like Nicotinamide Mononucleotide, Adenosine, and Acetyl Cysteine provide antioxidant properties, promote cellular repair, reduce inflammation, and induce the Anagen Phase, further optimizing brow health. It's fuel for your brows! Unlock the full potential of your brows with Brows by KeraFactor – the ultimate solution for achieving fuller, thicker, and more defined-looking brows through the power of nine bioidentical growth factors. DIRECTIONS: Apply once daily to a clean makeup-free brow area. INGREDIENTS: Aqua; Pentylene Glycol; Glycerin; PDRN; sh-Oligopeptide-1; sh-Oligopeptide-4; sh-Polypeptide-1; sh-Polypeptide-4; sh-Polypeptide-7; sh-Polypeptide-9; sh-Polypeptide-11; sh-Polypeptide-71; sh-Polypeptide-86; Nicotinamide Mononucleotide; Adenosine; Acetyl Cysteine; Ketoglutaric Acid; 3-0-Ethyl Ascorbic Acid; Glycine; Glutathione; Arginine; Lecithin; Carbomer; Sodium Citrate; Citric Acid; Polysorbate 60; Phenoxyethanol Safe Products: Our serums are proudly free of drugs, hormones, SLS, parabens, gluten, bimatoprost, prostaglandin analogs (PGAs), sulfates, phthalates, animal testing, carcinogens, oils, and fragrances. Since KeraFactor does not contain bimatoprost and prostaglandin analogs (PGAs), it won't alter the iris or eye color, nor will it cause skin discoloration around the eye or break down fat in the eye area. Possible Adverse Reactions: irritation, rash, or temporary redness. If a reaction occurs, please discontinue use. Warning: Avoid contact with eyes. In case of contact with eyes, rinse immediately with plenty of water. Keep out of reach of children. Not intended for use by pregnant or nursing women or by any person under the age of 18. If you are taking any medications, consult with your doctor or health professional before use. Storage: Keep in a cool place. Do not freeze.
-  Updated: 2025-10-26T12:57:29Z
+  Updated: 2025-10-27T12:00:35Z
   Vendor: KeraFactor by SkinQRI
   Product Type: Brow
   Availability: Available
@@ -117,20 +117,20 @@
 ## Collections
 
 - [All Products](https://shop.mykerafactor.com/collections/all-hair-products)
-  Updated: 2025-10-26T11:04:33Z
+  Updated: 2025-10-27T11:04:04Z
   Total Products: 16
 - [Catalogs for the website](https://shop.mykerafactor.com/collections/catalogs-for-the-website)
-  Updated: 2025-10-26T11:04:33Z
+  Updated: 2025-10-27T11:04:04Z
   Total Products: 2
 - [Lashes and Brows by KeraFactor®](https://shop.mykerafactor.com/collections/lashes-and-brows-by-kerafactor): Introducing the newest additions to the KeraFactor family!
 ﻿Elevate your natural beauty with our cutting-edge formulas designed to give you voluminous lashes and perfectly defined brows that make a statement.
-  Updated: 2025-10-26T11:04:33Z
+  Updated: 2025-10-27T11:04:04Z
   Total Products: 2
 - [KeraFlex Laser Cap](https://shop.mykerafactor.com/collections/keraflex-laser-cap)
-  Updated: 2025-10-25T11:05:22Z
+  Updated: 2025-10-27T11:04:04Z
   Total Products: 2
 - [DTC Store](https://shop.mykerafactor.com/collections/dtc-store)
-  Updated: 2025-10-26T11:04:33Z
+  Updated: 2025-10-27T11:04:04Z
   Total Products: 13
 
 ## Blogs
