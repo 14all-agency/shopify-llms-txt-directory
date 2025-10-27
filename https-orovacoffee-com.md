@@ -5,7 +5,7 @@
 - Currency: GBP
 - Timezone: Europe/London
 - Created At: 2025-07-08T18:58:24Z
-- Updated At: 2025-10-27T00:01:10.987Z
+- Updated At: 2025-10-27T04:00:35.934Z
 
 ## Products
 
@@ -2387,6 +2387,10 @@
     Updated: 2025-10-26T11:21:20Z
     Author: Scott Bowen
     Tags: affordable coffee gift options, affordable coffee gifts, affordable coffee gifts for him, affordable coffee gifts for him or her, affordable coffee gifts uk, affordable coffee options, affordable coffee presents, affordable coffee sampler boxes, affordable gift box, affordable gifts, affordable sustainable coffee gifts, alternative brewing, antioxidant properties in coffee, antioxidants, are coffee beans vegan?, aroma, aromas, artisan coffee, artisan coffee beans, artisan coffee experience, artisan coffee gift ideas, artisan coffee gifts, artisan coffee lovers, artisanal coffee brands, artisanal coffee experience, artisanal coffee gift box, artisanal coffee gifts, artisanal coffee methods, artisanal coffee sets, australian coffee, baby shower gifts, bag size, barista, bean sampling, beans sampler gift, beginners guide to coffee tasting, benefits of fair trade coffee, benefits of roasted coffee, best birthday gifts, best brewers, best brewing methods
+  - [The Ultimate Guide to Fresh Coffee Beans: UK Roasted Delights and Perfect Gift Sets for Camping Enthusiasts](https://orovacoffee.com/blogs/news/the-ultimate-guide-to-fresh-coffee-beans-uk-roasted-delights-and-perfect-gift-sets-for-camping-enthusiasts): The Ultimate Guide to Fresh Coffee Beans: UK Roasted Delights and Perfect Gift Sets for Camping Enthusiasts
+    Updated: 2025-10-27T02:43:11Z
+    Author: Orovacoffee
+    Tags: beans, best coffee ever, brazil specialty coffee brewer, camping coffee, camping coffee gift ideas, coffee, coffee beans, coffee for wild campers, coffee gift sets orovacoffee.com, coffee gifts, coffee sampler gift for him, colombian coffee, fresh, fresh bean sets, orova coffee reviews, roasted delights, uk coffee enthusiasts, uk roasted coffee beans, where to find coffee gifts
 - [inceptions](https://orovacoffee.com/blogs/inceptions)
   - [WORLD'S FINEST Specialty Coffee Gift Box - Gift Guide](https://orovacoffee.com/blogs/inceptions/worlds-finest-specialty-coffee-gift-box-gift-guide)
     Updated: 2025-10-15T01:28:25Z
