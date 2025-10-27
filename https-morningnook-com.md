@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-10-02T14:28:00Z
 - Contact Email: andpor63@gmail.com
-- Updated At: 2025-10-25T04:00:38.132Z
+- Updated At: 2025-10-27T04:00:34.467Z
 
 ## Products
 
@@ -894,7 +894,7 @@
     Availability: Available
     Price: $169.99 USD
 - [Mexican Chocolate](https://morningnook.com/products/mexican-chocolate): Roast: Medium This smooth coffee has hints of chocolate, cinnamon and vanilla. Delicious on it’s own or exceptional as an after dinner cordial with the Tequila or Kahlua. All of our flavored coffees start as specialty grade single origin coffee roasted in small batches to a smooth medium. Each order is then carefully flavored with high quality flavoring oils while still warm. *Natural Flavoring
-  Updated: 2025-10-24T19:28:48Z
+  Updated: 2025-10-26T19:46:47Z
   Vendor: Morning Nook Coffee
   Product Type: 
   Availability: Available
@@ -1158,7 +1158,7 @@
     Availability: Available
     Price: $169.99 USD
 - [Caramel](https://morningnook.com/products/caramel): Roast: Medium The all natural sweet buttery caramel flavor on this medium roasted coffee is fantastic alone or as the base for your blended drinks. All of our flavored coffees start as specialty grade single origin coffee roasted in small batches to a smooth medium. Each order is then carefully flavored with high quality flavoring oils while still warm. *All Natural Flavoring
-  Updated: 2025-10-24T19:28:49Z
+  Updated: 2025-10-26T19:46:53Z
   Vendor: Morning Nook Coffee
   Product Type: 
   Availability: Available
@@ -1689,7 +1689,7 @@
     Availability: Available
     Price: $79.99 USD
 - [12 Pack Single Serve Coffee Capsules](https://morningnook.com/products/12-pack-single-serve-coffee-capsules): A premium blend single serve coffee we call 'Original Roast'. This is our signature blend of premium gourmet coffees that make a rich, delicious cup. Each coffee capsule is sealed with no oxygen inside (no air) so the coffee stays fresh. An improved filter design stops coffee from shooting right through the middle, absorbing more grounds for a lively cup, without slowing down the brew time.
-  Updated: 2025-10-24T19:28:51Z
+  Updated: 2025-10-26T19:46:53Z
   Vendor: Morning Nook Coffee
   Product Type: 
   Availability: Available
@@ -5210,13 +5210,13 @@
 ## Collections
 
 - [Selected Origins](https://morningnook.com/collections/selected-origins)
-  Updated: 2025-10-24T19:28:44Z
+  Updated: 2025-10-25T11:23:19Z
   Total Products: 27
 - [Our Blends](https://morningnook.com/collections/our-blends): By combining different beans, our roasters can create a complex, well-rounded, and appealing flavor profile that offers our customers a wide variety of flavors.
   Updated: 2025-10-24T19:28:44Z
   Total Products: 18
 - [Flavored](https://morningnook.com/collections/flavored): A perfect blend of flavors in my morning coffee keeps me going strong
-  Updated: 2025-10-24T19:28:45Z
+  Updated: 2025-10-25T11:23:19Z
   Total Products: 15
 - [Sample Packs](https://morningnook.com/collections/sample-packs): Life is too short to drink the same coffee every day. Explore the world, one sample pack at a time.
   Updated: 2025-10-24T19:28:45Z
