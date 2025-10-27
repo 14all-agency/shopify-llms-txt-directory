@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-10-03T06:30:37Z
 - Contact Email: mandiemaddox@mystichiddengem.com
-- Updated At: 2025-10-27T00:00:42.232Z
+- Updated At: 2025-10-27T08:00:34.434Z
 
 ## Products
 
@@ -1679,7 +1679,7 @@
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/2257174502418459213_2048.jpg?v=1761412734
     Price: $48.18 USD
 - [Lachrywave Dark Occult Chest Bag - Alternative Streetwear | Lachrymal Gems](https://lachrymalgems.store/products/lachrywave-dark-occult-chest-bag): Carry your essentials in style with our Lachrywave Dark Occult chest bag. Perfect for festivals, streetwear, and everyday emo aesthetic. Unique occult design.
-  Updated: 2025-10-26T17:57:39Z
+  Updated: 2025-10-27T05:54:59Z
   Vendor: Printify
   Product Type: Bags
   Availability: Available
@@ -1692,23 +1692,112 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/female-model-esoteric-lachrywave-pajama-pants.png?v=1761501996
   Price: $61.48 USD
+- [Plus Size High-Waisted Bikini - Esoteric Alternative Swimwear | Lachrymal Gems](https://lachrymalgems.store/products/plus-size-high-waisted-bikini-customized-services): Stunning plus size high-waisted bikini with alternative esoteric design. Flattering fit for curvy bodies, bold mystical graphics. Premium quality swimwear that celebrates your curves. Shop now!
+  Updated: 2025-10-27T02:31:41Z
+  Vendor: Lachrymal Gems
+  Product Type: Women's Swimwear
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/plus-size-model-in-high-waisted-bikini.png?v=1761532169
+  - [XL](https://lachrymalgems.store/products/plus-size-high-waisted-bikini-customized-services?variant=47234670493941)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/b0b35e988f1c4a2fc7dc4efacdd5be9a.jpg?v=1761532169
+    Price: $19.36 USD
+  - [2XL](https://lachrymalgems.store/products/plus-size-high-waisted-bikini-customized-services?variant=47234670526709)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/b0b35e988f1c4a2fc7dc4efacdd5be9a.jpg?v=1761532169
+    Price: $19.36 USD
+  - [3XL](https://lachrymalgems.store/products/plus-size-high-waisted-bikini-customized-services?variant=47234670559477)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/b0b35e988f1c4a2fc7dc4efacdd5be9a.jpg?v=1761532169
+    Price: $19.36 USD
+  - [4XL](https://lachrymalgems.store/products/plus-size-high-waisted-bikini-customized-services?variant=47234670592245)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/b0b35e988f1c4a2fc7dc4efacdd5be9a.jpg?v=1761532169
+    Price: $19.36 USD
+- [Women's Leather Watch - Alternative Esoteric Design | Lachrymal Gems](https://lachrymalgems.store/products/womens-leather-watch): Unique women's leather watch with mystical esoteric design. Premium quality alternative timepiece for bold style. Stand out with this statement watch. Shop now!
+  Updated: 2025-10-27T02:42:54Z
+  Vendor: Lachrymal Gems
+  Product Type: Watch
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/model-wearing-womens-leather-watch.png?v=1761532974
+  Price: $28.99 USD
+- [Lachrywave Tie Skirted Two Piece Swimsuit - Custom Print Halter Bikini | Lachrymal Gems](https://lachrymalgems.store/products/tie-skirted-two-piece-swimsuit-customized-services): Lachrywave tie skirted two piece swimsuit with adjustable halter top. Soft stretchy fabric, vibrant custom prints. Perfect lachrywave beachwear for alternative style lovers.
+  Updated: 2025-10-27T02:59:12Z
+  Vendor: Lachrymal Gems
+  Product Type: Women's Swimwear
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/lachrywave-tie-skirted-two-piece-swimsuit-mockup.png?v=1761533952
+  - [S](https://lachrymalgems.store/products/tie-skirted-two-piece-swimsuit-customized-services?variant=47234840822005)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/4e61485509f07cf5c77ee04d63770073.jpg?v=1761533952
+    Price: $21.99 USD
+  - [M](https://lachrymalgems.store/products/tie-skirted-two-piece-swimsuit-customized-services?variant=47234840854773)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/4e61485509f07cf5c77ee04d63770073.jpg?v=1761533952
+    Price: $21.99 USD
+  - [L](https://lachrymalgems.store/products/tie-skirted-two-piece-swimsuit-customized-services?variant=47234840887541)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/4e61485509f07cf5c77ee04d63770073.jpg?v=1761533952
+    Price: $21.99 USD
+  - [XL](https://lachrymalgems.store/products/tie-skirted-two-piece-swimsuit-customized-services?variant=47234840920309)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/4e61485509f07cf5c77ee04d63770073.jpg?v=1761533952
+    Price: $21.99 USD
+  - [XXL](https://lachrymalgems.store/products/tie-skirted-two-piece-swimsuit-customized-services?variant=47234840953077)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/4e61485509f07cf5c77ee04d63770073.jpg?v=1761533952
+    Price: $19.01 USD
+- [Lachrywave Men's Basketball Jersey AOP - Custom All Over Print | Lachrymal Gems](https://lachrymalgems.store/products/mens-basketball-jersey-aop): Lachrywave men's basketball jersey with all-over print design. Lightweight, breathable polyester for ultimate comfort. Perfect lachrywave streetwear for alternative style.
+  Updated: 2025-10-27T03:27:55Z
+  Vendor: Lachrymal Gems
+  Product Type: Men's T-shirts
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/lachrywave-mens-basketball-jersey-shorts-complete-outfit-mockup.png?v=1761535675
+  - [Crew Neck / S](https://lachrymalgems.store/products/mens-basketball-jersey-aop?variant=47234841477365)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/228780f385539e8007235759cec49713.jpg?v=1761535675
+    Price: $25.99 USD
+  - [Crew Neck / M](https://lachrymalgems.store/products/mens-basketball-jersey-aop?variant=47234841510133)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/228780f385539e8007235759cec49713.jpg?v=1761535675
+    Price: $25.99 USD
+  - [Crew Neck / L](https://lachrymalgems.store/products/mens-basketball-jersey-aop?variant=47234841542901)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/228780f385539e8007235759cec49713.jpg?v=1761535675
+    Price: $25.99 USD
+  - [Crew Neck / XL](https://lachrymalgems.store/products/mens-basketball-jersey-aop?variant=47234841575669)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/228780f385539e8007235759cec49713.jpg?v=1761535675
+    Price: $25.99 USD
+  - [Crew Neck / XXL](https://lachrymalgems.store/products/mens-basketball-jersey-aop?variant=47234841608437)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/228780f385539e8007235759cec49713.jpg?v=1761535675
+    Price: $25.99 USD
+  - [Crew Neck / 3XL](https://lachrymalgems.store/products/mens-basketball-jersey-aop?variant=47234841641205)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/228780f385539e8007235759cec49713.jpg?v=1761535675
+    Price: $25.99 USD
+  - [Crew Neck / 4XL](https://lachrymalgems.store/products/mens-basketball-jersey-aop?variant=47234841673973)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/228780f385539e8007235759cec49713.jpg?v=1761535675
+    Price: $25.99 USD
 
 ## Collections
 
 - [Home page](https://lachrymalgems.store/collections/frontpage): Landing pages display of best selling products
-  Updated: 2025-10-26T18:09:56Z
-  Total Products: 19
+  Updated: 2025-10-27T03:16:04Z
+  Total Products: 20
 - [Ladies Alt. Style](https://lachrymalgems.store/collections/ladies-alt-style): Ladies trending apparel, Seasonal Fashion
-  Updated: 2025-10-26T18:09:56Z
-  Total Products: 15
+  Updated: 2025-10-27T02:59:11Z
+  Total Products: 17
 - [Mens Alt. Style](https://lachrymalgems.store/collections/mens-alt-style): Mens hip hop alternative trends and seasonal outfits.
-  Updated: 2025-10-26T18:09:56Z
-  Total Products: 19
+  Updated: 2025-10-27T03:16:04Z
+  Total Products: 20
 - [Trap-Core Shoes](https://lachrymalgems.store/collections/trap-core-shoes)
   Updated: 2025-10-26T18:09:56Z
   Total Products: 5
 - [Baggage with Benifiets](https://lachrymalgems.store/collections/baggage-with-benifiets): Carry what matters, drop what doesn't. We all carry something at least make it cute . Match your vibe not your outfit.
-  Updated: 2025-10-26T22:36:02Z
+  Updated: 2025-10-27T03:16:04Z
   Total Products: 5
 - [Vibe bin](https://lachrymalgems.store/collections/vibe-bin): Everything that feeds the mood board of your life. Shop the little things that recharge your frequency.
   Updated: 2025-10-26T18:09:57Z
@@ -1717,8 +1806,8 @@
   Updated: 2025-10-22T04:20:41Z
   Total Products: 0
 - [All Products](https://lachrymalgems.store/collections/all)
-  Updated: 2025-10-26T22:36:32Z
-  Total Products: 52
+  Updated: 2025-10-27T03:16:05Z
+  Total Products: 55
 
 ## Blogs
 
