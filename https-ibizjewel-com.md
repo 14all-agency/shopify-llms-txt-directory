@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-01-24T04:49:01Z
 - Contact Email: info@ibizjewel.com
-- Updated At: 2025-10-27T04:01:00.824Z
+- Updated At: 2025-10-27T08:01:10.665Z
 
 ## Products
 
@@ -44618,6 +44618,10 @@
     Updated: 2025-10-26T00:09:59Z
     Author: Heris K.
     Tags: diamonds, eco-friendly fashion, ethical rings, jewelry, modern engagement rings, salt and pepper, salt and pepper diamond ring, sustainable, sustainable jewelry trends
+  - [Solving Common Challenges with Sustainable Salt and Pepper Diamond Rings](https://ibizjewel.com/blogs/news/solving-common-challenges-with-sustainable-salt-and-pepper-diamond-rings): Solving Common Challenges with Sustainable Salt and Pepper Diamond Rings
+    Updated: 2025-10-27T04:07:52Z
+    Author: Heris K.
+    Tags: diamonds, eco-friendly rings, ethical jewelry, handmade sustainable jewelry, jewelry, salt and pepper diamond ring, salt and pepper diamonds, sustainable, sustainable engagement rings
 
 ## Store Pages
 
