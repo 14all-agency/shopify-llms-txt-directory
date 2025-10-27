@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-10-27T04:01:14.160Z
+- Updated At: 2025-10-27T08:01:14.367Z
 
 ## Products
 
@@ -7664,7 +7664,7 @@ de aparência engraçada , usa os seus poderosos pés e garras para escavar
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/puzzle-3d-ladybug-861127822-ladybug-1178695086.jpg?v=1752868695
   Price: 13,50 € EUR
 - [Puzzle 3D - Porta Lápis Pokémon | Brincatoys](https://brincatoys.pt/products/puzzle-3d-porta-lapis-pokemon): Fantástico Puzzle 3D com 54 peças para criar um porta lápis com ilustrações de Pokémon.Este puzzle usa peças de plástico exclusivas, que se encaixam para construir um modelo robusto e forte. Não é necessária cola. Cada peça do puzzle é impressa com um número no verso, para que possa montá-lo a olho nu ou apenas seguindo os números. Dimensões do puz
-  Updated: 2025-10-17T10:32:13Z
+  Updated: 2025-10-27T07:31:25Z
   Vendor: Pokémon
   Product Type: + 8 anos
   Availability: Available
@@ -20250,6 +20250,13 @@ Figura em borracha termoplástica do filme Branca de neve e os sete anões.Figur
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/products/lego-minecraft-21251-expedicao-no-deserto-de-steve-662125124-5702017583273-lego-1178698004.jpg?v=1752796930
   Price: 12,00 € EUR
+- [Lego Duplo 10458 Passeio à Geladaria com a Bluey](https://brincatoys.pt/products/lego-duplo-10458-passeio-a-geladaria-com-a-bluey): Desperte a criatividade dos mais pequenos com o Lego Duplo 10458 Passeio à Geladaria com a Bluey. Proporcione diversão nas suas horas de brincar!
+  Updated: 2025-10-27T07:56:02Z
+  Vendor: LEGO
+  Product Type: + 2 anos
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/Lego_Duplo_10458_Passeio__Geladaria_com_a_Bluey_page1.jpg?v=1761550780
+  Price: 32,50 € EUR
 - [Lego Technic 42213 SUV Ford Bronco: Aventura Off-Road](https://brincatoys.pt/products/lego-technic-42213-suv-ford-bronco): Explore novas aventuras com o Lego Technic 42213 SUV Ford Bronco. Este set detalhado oferece um motor V6 e portas que abrem. Descubra já!
   Updated: 2025-10-26T23:50:05Z
   Vendor: LEGO
@@ -21360,8 +21367,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-19T09:15:45Z
   Total Products: 16
 - [Lego Duplo](https://brincatoys.pt/collections/lego-duplo): Quando os mais pequenos têm uma grande imaginação, as peças de construção LEGO® DUPLO® libertam a sua criatividade através da aprendizagem e desenvolvimento. Este conjuntos oferecem aos mais pequenos diversão ilimitada, autoexpressão e a felicidade da descoberta.
-  Updated: 2025-10-19T09:15:45Z
-  Total Products: 22
+  Updated: 2025-10-27T07:52:40Z
+  Total Products: 23
 - [Lego Friends](https://brincatoys.pt/collections/lego-friends): Celebra a amizade com um grupo de raparigas unidas que partilham aventuras em Heartlake City. Descobre os conjuntos que incluem novas personagens. Os jovens construtores podem criar histórias divertidas enquanto desenvolvem competências interpessoais e de perceção emocional através de representações.
   Updated: 2025-10-24T11:21:26Z
   Total Products: 36
@@ -21477,8 +21484,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-24T11:21:26Z
   Total Products: 325
 - [2 - 3 anos](https://brincatoys.pt/collections/2-3-anos)
-  Updated: 2025-10-26T20:26:29Z
-  Total Products: 1587
+  Updated: 2025-10-27T07:52:40Z
+  Total Products: 1588
 - [4 - 5 anos](https://brincatoys.pt/collections/4-5-anos)
   Updated: 2025-10-26T20:27:20Z
   Total Products: 704
@@ -21501,19 +21508,19 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-26T19:38:51Z
   Total Products: 2401
 - [Até €35](https://brincatoys.pt/collections/ate-35)
-  Updated: 2025-10-26T20:54:36Z
+  Updated: 2025-10-27T07:52:40Z
   Total Products: 2862
 - [Até €50](https://brincatoys.pt/collections/ate-50)
-  Updated: 2025-10-26T20:54:36Z
+  Updated: 2025-10-27T07:52:40Z
   Total Products: 3247
 - [Até €60](https://brincatoys.pt/collections/ate-60)
-  Updated: 2025-10-26T20:54:36Z
+  Updated: 2025-10-27T07:52:40Z
   Total Products: 3382
 - [Até €80](https://brincatoys.pt/collections/ate-80)
-  Updated: 2025-10-26T21:31:11Z
+  Updated: 2025-10-27T07:52:40Z
   Total Products: 3462
 - [Até €100](https://brincatoys.pt/collections/ate-100)
-  Updated: 2025-10-26T21:31:11Z
+  Updated: 2025-10-27T07:52:40Z
   Total Products: 3511
 - [Novidades](https://brincatoys.pt/collections/novidades)
   Updated: 2025-10-26T12:51:24Z
@@ -21624,7 +21631,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-22T17:56:45Z
   Total Products: 35
 - [LEGO](https://brincatoys.pt/collections/lego)
-  Updated: 2025-10-26T21:55:51Z
+  Updated: 2025-10-27T07:52:40Z
   Total Products: 403
 - [LOL Surprise](https://brincatoys.pt/collections/lol-surprise)
   Updated: 2025-10-23T17:43:41Z
@@ -21705,7 +21712,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-19T09:15:50Z
   Total Products: 9
 - [Catálogo](https://brincatoys.pt/collections/all)
-  Updated: 2025-10-26T21:31:11Z
+  Updated: 2025-10-27T07:52:40Z
   Total Products: 3544
 - [6 - 7 anos](https://brincatoys.pt/collections/6-7-anos)
   Updated: 2025-10-26T15:18:12Z
@@ -21714,8 +21721,8 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-23T19:10:53Z
   Total Products: 189
 - [+ 2 anos](https://brincatoys.pt/collections/de-2-anos)
-  Updated: 2025-10-26T12:50:38Z
-  Total Products: 119
+  Updated: 2025-10-27T07:52:40Z
+  Total Products: 120
 - [+ 3 anos](https://brincatoys.pt/collections/de-3-anos)
   Updated: 2025-10-26T19:38:51Z
   Total Products: 1230
@@ -21741,10 +21748,10 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-25T15:18:27Z
   Total Products: 87
 - [Os mais procurados](https://brincatoys.pt/collections/os-mais-populares)
-  Updated: 2025-10-26T21:31:11Z
+  Updated: 2025-10-27T07:52:40Z
   Total Products: 3545
 - [Recém-chegados](https://brincatoys.pt/collections/recem-chegados)
-  Updated: 2025-10-26T21:31:11Z
+  Updated: 2025-10-27T07:52:40Z
   Total Products: 3545
 - [Produtos em destaque](https://brincatoys.pt/collections/produtos-em-destaque)
   Updated: 2025-10-22T11:22:51Z
@@ -21756,7 +21763,7 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-19T09:15:50Z
   Total Products: 6
 - [OrderlyEmails - Recommended Products](https://brincatoys.pt/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best-Selling products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2025-10-26T21:31:11Z
+  Updated: 2025-10-27T07:52:40Z
   Total Products: 3055
 - [Girafa Sofia](https://brincatoys.pt/collections/girafa-sofia)
   Updated: 2025-10-19T09:15:51Z
@@ -21765,11 +21772,11 @@ montanha para esqui até paisagens cobertas de gelo com fabulosos animais
   Updated: 2025-10-25T11:34:07Z
   Total Products: 125
 - [Marketplace](https://brincatoys.pt/collections/marketplace)
-  Updated: 2025-10-26T21:31:11Z
+  Updated: 2025-10-27T07:52:40Z
   Total Products: 3055
 - [EzConnector](https://brincatoys.pt/collections/ezconnector)
-  Updated: 2025-10-26T21:31:10Z
-  Total Products: 904
+  Updated: 2025-10-27T07:52:39Z
+  Total Products: 903
 
 ## Blogs
 
