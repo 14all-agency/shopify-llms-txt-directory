@@ -6,7 +6,7 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2024-11-09T16:45:30Z
 - Contact Email: info@rsport.co.il
-- Updated At: 2025-10-27T00:01:18.450Z
+- Updated At: 2025-10-27T04:01:09.672Z
 
 ## Products
 
@@ -24341,7 +24341,7 @@
     Availability: Available
     Price: ‏104.99 ‏₪ ILS
 - [חולצת קדם משחק באיירן מינכן | גברים](https://www.rsport.co.il/products/חולצת-קדם-משחק-באיירן-מינכן-גברים): חולצת קדם המשחק של באיירן מינכן לגברים עשויה מ-100% פוליאסטר איכותי, המבטיח נוחות ויכולת נידוף זיעה מצוינת. עם עיצוב ספורטיבי וסטייל מודרני, היא אידיאלית לאימונים ולהכנה למשחקים.
-  Updated: 2025-09-07T22:08:44Z
+  Updated: 2025-10-27T01:12:53Z
   Vendor: R:SPORT
   Product Type: חולצת כדורגל
   Availability: Available
