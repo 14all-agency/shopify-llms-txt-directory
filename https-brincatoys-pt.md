@@ -10,7 +10,7 @@
 - Contact Email: geral@brincatoys.pt
 - Contact Phone: +351 910 867 223
 - Address: Marina Plaza, Edifício Daytona Beach, Bloco 27-A, Loja 79, Vilamoura
-- Updated At: 2025-10-27T00:01:16.117Z
+- Updated At: 2025-10-27T04:01:14.160Z
 
 ## Products
 
@@ -19318,7 +19318,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/puzzle-dragon-ball-300-pcs-diversao-para-todas-as-idades-852172625-8005125217267-dragon-ball-1178701998.jpg?v=1752980406
   Price: 12,99 € EUR
 - [Figura Marvel Legends Venom: Figura de Ação Icônica](https://brincatoys.pt/products/figura-marvel-legends-venom): Descubra a ferocidade da Figura Marvel Legends Venom! Com 15 cm, articulação avançada e diversos acessórios, esta figura é perfeita para colecionadores.
-  Updated: 2025-10-24T08:53:03Z
+  Updated: 2025-10-27T00:05:34Z
   Vendor: Marvel
   Product Type: + 4 anos
   Availability: Available
@@ -19647,7 +19647,7 @@ quando tiveres terminado, podes expor a tua criação com orgulho...
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/puzzle-inside-out-3-x-49-pecas-diversao-e-aprendizagem-770937025-4005556093700-brincatoys-1178692532.jpg?v=1752823925
   Price: 13,99 € EUR
 - [LEGO Sonic the Hedgehog 76997 Barco de Aventura do Tails](https://brincatoys.pt/products/lego-sonic-the-hedgehog-76997-barco-de-aventura-do-tails): Mergulhe na diversão com o LEGO Sonic the Hedgehog 76997 Barco de Aventura do Tails! Jogue com 4 personagens e recrie momentos épicos. 🌊
-  Updated: 2025-10-26T17:47:56Z
+  Updated: 2025-10-27T02:44:28Z
   Vendor: LEGO
   Product Type: + 8 anos
   Availability: Available
@@ -20279,21 +20279,21 @@ Figura em borracha termoplástica do filme Branca de neve e os sete anões.Figur
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-speed-champions-77238-lamborghini-revuelto-e-huracan-667723825-5702017816067-lego-1199740444.jpg?v=1761515162
   Price: 54,50 € EUR
 - [LEGO Speed Champions 77237 Carro Desportivo Dodge](https://brincatoys.pt/products/lego-speed-champions-77237-carro-desportivo-dodge-challenger-srt-hellcat): Acelere a sua coleção com o LEGO Speed Champions 77237 Carro Desportivo Dodge Challenger SRT Hellcat, uma reprodução impressionante e cheia de estilo.
-  Updated: 2025-10-26T21:48:11Z
+  Updated: 2025-10-27T03:05:56Z
   Vendor: LEGO
   Product Type: + 7 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-speed-champions-77237-carro-desportivo-dodge-667723725-5702017816043-lego-1199733014.jpg?v=1761500763
   Price: 29,99 € EUR
 - [LEGO Sonic 77006 Camião de Comando Team Sonic Diversão](https://brincatoys.pt/products/lego-sonic-camiao-de-comando-team-sonic): Transforma a diversão com o LEGO Sonic 77006 Camião de Comando Team Sonic, que traz 5 figuras e 747 peças imperdíveis! Inicia a aventura agora!
-  Updated: 2025-10-26T15:49:56Z
+  Updated: 2025-10-27T02:26:08Z
   Vendor: LEGO
   Product Type: + 8 anos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/7209/1144/files/lego-sonic-77006-camiao-de-comando-team-sonic-diversao-667700625-5702017815619-lego-1199730293.jpg?v=1761493796
   Price: 69,90 € EUR
 - [LEGO Sonic 77005 Knuckles contra Robô Egg Crusher](https://brincatoys.pt/products/lego-sonic-77005-knuckles-contra-robo-egg-crusher-do-dr-eggman): Entre na ação com o LEGO Sonic 77005 Knuckles contra Robô Egg Crusher do Dr. Eggman. Recrie batalhas épicas com 350 peças! 🎮
-  Updated: 2025-10-26T15:48:13Z
+  Updated: 2025-10-27T02:06:18Z
   Vendor: LEGO
   Product Type: + 8 anos
   Availability: Available
