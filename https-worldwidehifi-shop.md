@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-10-25T08:25:11Z
 - Contact Email: info@worldwidehifi.shop
-- Updated At: 2025-10-26T00:00:54.140Z
+- Updated At: 2025-10-27T20:00:39.459Z
 
 ## ABOUT
 WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage audio gear with insured worldwide shipping—buy here when you want premium brands for less, rare models in stock, real-item photos, highest quality guarantee and expert support.
@@ -504,7 +504,7 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_6918dbf3-ef2f-40cd-816f-6c9df44d8df3.jpg?v=1745852969
   Price: 1.730,00 € EUR
 - [Phonosophie ANALOGIZER II gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/phonosophie-analogizer-ii-gebraucht-kaufen-1): Phonosophie ANALOGIZER II gebraucht kaufen ✅ Geprüftes Klangoptimierungsgerät mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-09-15T22:27:33Z
+  Updated: 2025-10-26T11:20:02Z
   Vendor: WorldWideHifi
   Product Type: 
   Availability: Available
@@ -539,7 +539,7 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_291c6312-b2d1-4418-923d-852870451738.jpg?v=1745853005
   Price: 286,00 € EUR
 - [Onkyo AV Receiver TX-NR5000 gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/onkyo-tx-nr5000e-gebraucht-kaufen): Onkyo AV Receiver TX-NR5000 gebraucht kaufen ✅ Geprüfter Receiver mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHiFi kaufen ✅
-  Updated: 2025-09-15T22:27:32Z
+  Updated: 2025-10-27T03:31:45Z
   Vendor: WorldWideHifi
   Product Type: 
   Availability: Available
@@ -608,13 +608,6 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_c0acff68-09da-4305-a578-af11035fdafd.jpg?v=1745852993
   Price: 895,00 € EUR
-- [Thorens TNF 2000 Clean Power System gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/thorens-tnf-2000-clean-power-system-gebraucht-kaufen): Thorens TNF 2000 Clean Power System gebraucht kaufen ✅ Geprüfter Netzfilter mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-09-15T22:27:48Z
-  Vendor: WorldWideHifi
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_e06b6f77-e550-42ff-a7c2-c5f96bfc1552.jpg?v=1745857798
-  Price: 699,00 € EUR
 - [MFE Electronic Netzfilter NF2 gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/mfe-electronic-netzfilter-nf2-gebraucht-kaufen): MFE Electronic Netzfilter NF2 gebraucht kaufen ✅ Geprüfter Power Conditioner mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
   Updated: 2025-09-15T22:27:27Z
   Vendor: WorldWideHifi
@@ -819,7 +812,7 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_7d6b9966-30bb-44b5-b95f-e4c070b62914.jpg?v=1748018706
   Price: 79,00 € EUR
 - [Transparent High Performance HDMI Cable kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/transparent-high-performance-hdmi-cable-kaufen): Transparent High Performance HDMI Cable kaufen ✅ Neues Kabel für beste Audio- und Videoqualität kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-09-15T22:27:50Z
+  Updated: 2025-10-27T04:35:48Z
   Vendor: WorldWideHifi
   Product Type: 
   Availability: Available
@@ -1071,7 +1064,7 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_0739653e-0dab-492f-bbeb-a0142af88bdb.jpg?v=1748017486
   Price: 49,00 € EUR
 - [Monitor Audio Rhodos HighEnd Cinch Kabel RCA Cable 2x 300cm gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/hms-in-concerto-gebraucht-kaufen): Monitor Audio Rhodos HighEnd Cinch Kabel RCA Cable 2x 300cm gebraucht kaufen ✅ Geprüfte Kabel mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-09-15T22:27:28Z
+  Updated: 2025-10-26T02:21:28Z
   Vendor: WorldWideHifi
   Product Type: 
   Availability: Available
@@ -1148,7 +1141,7 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Image: https://cdn.shopify.com/s/files/1/0910/6702/3638/files/57_1d711c8b-3d52-4a4f-9184-eeb195b0f1ea.jpg?v=1748017249
   Price: 55,00 € EUR
 - [Audio Technica Cinch Kabel RCA cable 2x 100cm gebraucht kaufen - WorldWideHiFi](https://worldwidehifi.shop/products/audio-technica-cinch-kabel-rca-cable-2x-100cm-gebraucht-kaufen): Audio Technica Cinch Kabel RCA cable 2x 100cm gebraucht kaufen ✅ Geprüfte Kabel mit Gewährleistung kaufen ✅ Weltweit sicher geliefert ✅ HiFi Geräte bei WorldWideHIFi kaufen ✅
-  Updated: 2025-09-15T22:27:02Z
+  Updated: 2025-10-26T01:18:51Z
   Vendor: WorldWideHifi
   Product Type: 
   Availability: Available
@@ -2275,8 +2268,8 @@ WorldwideHiFi.shop sells tested, warrantied, refurbished high-end and vintage au
   Updated: 2025-10-11T11:22:25Z
   Total Products: 24
 - [Verkaufte HiFi-Artikel](https://worldwidehifi.shop/collections/verkaufte-hifi-artikel)
-  Updated: 2025-10-21T11:18:46Z
-  Total Products: 114
+  Updated: 2025-10-27T19:01:31Z
+  Total Products: 115
 - [Highest End](https://worldwidehifi.shop/collections/highest-end)
   Updated: 2025-10-11T11:22:25Z
   Total Products: 22
