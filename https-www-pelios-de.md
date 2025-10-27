@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-06-23T16:57:53Z
 - Contact Email: info@pelios.de
-- Updated At: 2025-10-26T12:01:05.166Z
+- Updated At: 2025-10-27T20:00:53.003Z
 
 ## Products
 
@@ -54,8 +54,8 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/high_mg_500_front_silver.webp?v=1751053385
     Price: 1.994,60 € EUR
-- [Holzofen kaufen mit 14.8 kW☝ hier günstig im Shop](https://www.pelios.de/products/holzofen-148-kw): Holzofen kaufen mit 14.8 kW ➥ für Räume bis 360 m³ bzw. 150 m² Wohnfläche, bei einem sparsamen Holzverbrauch von 4,8Kg/h und einem Wirkungsgrad von 77%
-  Updated: 2025-10-07T11:07:50Z
+- [Holzofen kaufen mit 14.8 kW☝ hier günstig im Shop](https://www.pelios.de/products/holzofen-148-kw): Holzofen kaufen mit 14.8 kW ➥ für Räume bis 360 m³ bzw. 150 m² Wohnfläche, mit Backfach / Pizzafach, Holzverbrauch von 4,8Kg/h und einem Wirkungsgrad von 77%
+  Updated: 2025-10-27T07:44:39Z
   Vendor: Gekas
   Product Type: Holzofen
   Availability: Available
@@ -69,21 +69,21 @@
   Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/images_bio10008_4__45042.webp?v=1753873589
   Price: 499,00 € EUR
 - [Bioethanol Kamin weiß kaufen ☝ hier günstig im Shop](https://www.pelios.de/products/lincoln-weiss): Bioethanol Kamin weiß ★ Dieser elegante freistehende Bioethanol Kamin im weißen Holzofen-Design bietet bis zu 4,5h Brenndauer ✓ und eine Wärmeleistung 1,9 kW ✓
-  Updated: 2025-10-09T04:20:15Z
+  Updated: 2025-10-27T07:05:12Z
   Vendor: ScandiFlames
   Product Type: Freistehender Ethanol Kamin
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/bio20320wh_flame_60612.webp?v=1753873581
   Price: 1.499,00 € EUR
 - [Bio Ethanolkamin freistehend schwarz kaufen☝hier im Shop](https://www.pelios.de/products/topeka-freistehender-schwarzer-biokamin): Bio Ethanolkamin freistehend schwarz ➥ Dieser freistehende Biokamin ist perfekt zum Trennen von zwei Räumen ✓ Indoor-Standkamin von ScandiFlames
-  Updated: 2025-10-07T17:08:51Z
+  Updated: 2025-10-27T07:09:46Z
   Vendor: ScandiFlames
   Product Type: 3-seitiger Ethanol Einbaukamin, Freistehender Ethanol Kamin
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/bio20216bk_51600.webp?v=1753873562
   Price: 1.599,00 € EUR
 - [Ethanolkamin freistehend weiß kaufen☝ Bioethanol-Standkamin](https://www.pelios.de/products/lansing-bioethanol-standkamin-weiss): Ethanolkamin freistehend weiß kaufen ★ 3,5-Liter-Brenner mit bis zu 7,5 Stunden Brenndauer ✓ 3,3 kW Wärmeleistung ✓ 1m breit ✓ Marke ScandiFlames
-  Updated: 2025-10-07T17:01:53Z
+  Updated: 2025-10-27T06:56:34Z
   Vendor: ScandiFlames
   Product Type: Freistehender Ethanol Kamin
   Availability: Available
@@ -97,14 +97,14 @@
   Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/scandiflames_electric_wall_mounted_fireplace_azurite_127cm_white__1__57338.webp?v=1753873509
   Price: 999,00 € EUR
 - [Elektro-Wandkamin mit Heizung kaufen☝über 2m breit](https://www.pelios.de/products/azurite-213-cm-elektro-wandkamin-schwarz): Elektro-Wandkamin mit Heizung kaufen 213 cm in schwarz ✓ ohne Brandgefahr ✓ 9 Flammenfarbkombinationen ✓ zwei Heizstufen: 750W oder 1500W ✓ Timerfunktion ✓
-  Updated: 2025-10-03T12:21:12Z
+  Updated: 2025-10-27T03:11:42Z
   Vendor: ScandiFlames Electric
   Product Type: Elektro Wandkamin
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/scandiflames_electric_fireplace_wall_mounted_azurite_213cm__1__57333.webp?v=1753873494
-  Price: 1.695,00 € EUR
+  Price: 1.595,00 € EUR
 - [Elektro Wandkamin kaufen ☝ Feroza 137 cm in schwarz](https://www.pelios.de/products/feroza-137-cm-elektro-wandkamin-schwarz): Elektro Wandkamin kaufen ➥ Der elektrische Wandkamin Feroza benötigt nur Strom, ohne Brandgefahr und kann in 3 Farben eingestellt werden. 750 oder 1500 W.
-  Updated: 2025-10-05T11:07:29Z
+  Updated: 2025-10-27T03:05:06Z
   Vendor: ScandiFlames Electric
   Product Type: 3-sided electric fireplace
   Availability: Available
@@ -159,8 +159,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/heation_heatbar_2400_pro_2_63316.webp?v=1753912344
   Price: 899,00 € EUR
-- [Muztag Mallorca Gas-Terrassenheizer schwarz 140cm hoch](https://www.pelios.de/products/muztag-mallorca-terrassenheizer): Muztag Mallorca Terrassenheizer in schwarz, 138 × 48,6 × 48,6 cm, Gewicht 50 kg, Wärmeleistung bis 7,3 kW, Brennstoffverbrauch ca. 0,52 L/Std.
-  Updated: 2025-10-09T04:16:52Z
+- [Muztag Mallorca Gas-Terrassenheizer schwarz 140cm hoch, 50cm breit, bis 7,3 kW Wärmeleistung](https://www.pelios.de/products/muztag-mallorca-terrassenheizer): Muztag Mallorca Terrassenheizer in schwarz, 138 × 48,6 × 48,6 cm, Gewicht 50 kg, Wärmeleistung bis 7,3 kW, Brennstoffverbrauch ca. 0,52 L/Std.
+  Updated: 2025-10-27T07:17:57Z
   Vendor: Muztag
   Product Type: Outdoor Terrassenheizer
   Availability: Available
@@ -251,12 +251,12 @@
   Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/muztag_trae_37063_1_41168.webp?v=1759866085
   Price: 119,00 € EUR
 - [Terrassenheizung Ethanol, Muztag Premium Fire Paris schwarz](https://www.pelios.de/products/muztag-premium-fire-paris-schwarz): Terrassenheizung Ethanol von Muztag, freistehender Bio-Ethanol-Kamin für den Außenbereich für 60 m³, Brenndauer bis zu 3 Stunden
-  Updated: 2025-10-09T04:07:52Z
+  Updated: 2025-10-27T07:12:07Z
   Vendor: Muztag
   Product Type: Freistehender Ethanol Kamin für den Außenbereich
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/muztag_premium_fire_paris_outdoor_bioethanol_fireplace_black__10__58456.webp?v=1759866342
-  Price: 799,00 € EUR
+  Price: 749,00 € EUR
 
 ## Collections
 
@@ -270,13 +270,13 @@
   Updated: 2025-10-03T12:21:11Z
   Total Products: 2
 - [Ethanolkamin kaufen ☝ hier günstig im Qualitäts-Shop](https://www.pelios.de/collections/ethanolkamin): Ethanolkamin kaufen ★ mega Qualität und schnelle Lieferung garantiert ✔ ausschließlich Bioethanol, das speziell für Ethanol-Kamine hergestellt wurde
-  Updated: 2025-10-08T16:20:12Z
+  Updated: 2025-10-26T19:09:43Z
   Total Products: 12
 - [Elektrokamin kaufen ☝ hier günstig im Qualitäts-Shop](https://www.pelios.de/collections/elektrokamin): Elektrokamin kaufen ★ Pelios ist Ihr Vertriebspartner für hochwertige Elektro-Kamine führender Marken - große Auswahl von traditionell bis modern.
-  Updated: 2025-10-04T14:06:39Z
+  Updated: 2025-10-26T19:13:29Z
   Total Products: 3
 - [Terrassenheizung, angenehme Wärme für den Outdoor-Bereich](https://www.pelios.de/collections/terassenheizung): Terrassenheizung, Elegant oder modern – ob Heizstrahler im klassischen Stil oder Heizbänder im minimalistischen Look: hier findet jeder sein Reichweitendesign
-  Updated: 2025-10-08T16:19:20Z
+  Updated: 2025-10-26T19:18:12Z
   Total Products: 8
 
 ## Blogs
