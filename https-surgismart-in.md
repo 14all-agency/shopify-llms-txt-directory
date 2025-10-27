@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-03-10T14:11:59Z
 - Contact Email: info@surgismart.in
-- Updated At: 2025-10-25T20:00:35.873Z
+- Updated At: 2025-10-27T04:00:39.253Z
 
 ## Products
 
@@ -116,7 +116,7 @@
     Availability: Available
     Price: ₹715.00 INR
 - [Buy ​United Medicare Abdomina Support Neoprene (A-12) - Surgismart](https://surgismart.in/products/a-12): Key Features: UM abdominal effectively supports and compresses the abdominal muscles. It is made of high-quality perforated neoprene material, which gives excellent durability and comfort. Abdominal support can be used to compress the bulge or tone up the abdominal muscles. Hook-and-loop self-adhesive loop material allows for a wider range of adjustability. Neoprene material helps to retain body heat and improves blood circulation. Abdominal support neoprene has a front two-part closure panel that gives customised compression. Ideal as a postoperative support, it protects and binds the surgical incisions of the abdomen. Direction of use: Wrap the support around your waist. Adjust the two part closure panel and ensure the desired abdominal region is enclosed properly. Safety information: Read the label carefully before use Keep out of reach of children UM abdominal support is designed to tone up abdominal muscles. It provides comfort during sudden movements or coughing in thoracic surgeries.Abdominal supports are available in 2 different sizes: universal (2844 CM) and XXL (4452 CM), so you can choose your suitable size.You can use abdominal support depending on your injuries; if you have any discomfort, pain, or irritation consult a physician. UM abdominal support is made of high-quality perforated neoprene material, which gives excellent durability and comfort to the abdomen.Abdominal support is not necessary or recommended to wear at night or anytime while you are sleeping, so consult your doctor before using the support . Sold by: Surgismart - Surgismart
-  Updated: 2025-10-13T11:20:31Z
+  Updated: 2025-10-26T12:09:07Z
   Vendor: United Medicare
   Product Type: Abdominal Support
   Availability: Available
@@ -2610,7 +2610,7 @@
     Availability: Available
     Price: ₹995.00 INR
 - [Buy ​Hi-Mask (Oxygen Mask) - Surgismart](https://surgismart.in/products/hi-mask-sh-2044): Intended for High Concentration Oxygen Therapy. Equipped with soft, transparent and odour free mask for greater patient comfort. Non-return valves provided at inhale and exhale points, prevents carbon dioxide retention. Light weight reservoir improves the oxygen efficiency and patient comfort. Product Specifications: Brand Romsons Generic Name Non-Rebreathing Oxygen Face Mask Manufacturer Name and Address Romsons Group Private Limited Plant-4, E-18, 19, 20, Foundry Nagar, Agra-282006 Best Before Best Before 5 Years From the Date of Manufacturing Mfg. License No MFG/MD/2022/000283 EAN 18907265204428 Drug License No. MD-42 Registration Number : RMD/DCD/HO-1475/04 MD-42 Registration Number : TN/TVR/MD42/00004 MD-42 Registration Number : MFG/KTK/113/MD-42/2023-24 - Surgismart
-  Updated: 2025-10-15T09:36:41Z
+  Updated: 2025-10-27T03:08:17Z
   Vendor: Romsons
   Product Type: Oxygen Mask
   Availability: Available
