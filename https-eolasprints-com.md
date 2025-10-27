@@ -10,7 +10,7 @@
 - Contact Email: support@eolasprints.com
 - Contact Phone: +34-942735955
 - Address: Parque Empresarial Besaya D14, Reocín 39538, Cantabria, Spain
-- Updated At: 2025-10-27T08:00:37.626Z
+- Updated At: 2025-10-27T12:00:52.757Z
 
 Welcome to Eolas Prints - Your Trusted 3D Printing & Digital Fabrication Partner
 
@@ -1687,7 +1687,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
 ## Collections
 
 - [Certified High Speed Pla and Transition Filament](https://eolasprints.com/collections/pla): Eolas Prints PLA provides high quality filaments including multi-colour and high speed PLA. Our materials are ISO certified and REACH compliant for consistent printing.
-  Updated: 2025-10-25T11:11:33Z
+  Updated: 2025-10-27T11:13:34Z
   Total Products: 12
 - [Petg and Transition Filament for 3d Prints](https://eolasprints.com/collections/petg): The Eolas Prints PETG collection offers premium multi-colour and petg transition filament. All materials are ISO and REACH certified for superior quality and safety.
   Updated: 2025-10-26T11:12:11Z
@@ -1711,7 +1711,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   Updated: 2025-10-11T00:44:14Z
   Total Products: 5
 - [3d Printer Filament Pla Tpu Petg Abs Asa](https://eolasprints.com/collections/3d-printer-filament): Eolas Prints offers a premium collection of certified 3D printer filaments, including our high-performance Eolas Prints PLA, durable PETG, and flexible TPU.
-  Updated: 2025-10-26T11:12:11Z
+  Updated: 2025-10-27T11:13:34Z
   Total Products: 22
 - [New 3d Printing Innovations by Thought3d Magigoo](https://eolasprints.com/collections/new-arrivals): The latest collection at Eolas Prints includes the new Flashforge AD5X Multi-Colour printer and Thought3D products, all certified to ISO and REACH standards.
   Updated: 2025-10-25T11:11:33Z
@@ -1720,7 +1720,7 @@ Explore our comprehensive range of digital fabrication solutions, from high-perf
   Updated: 2025-10-25T11:11:33Z
   Total Products: 1
 - [Codigo Escuela 4.0: 3d Printing in Education](https://eolasprints.com/collections/codigo-escuela-4-0): The Codigo Escuela 4.0 collection from Eolas Prints provides 3D printers like Bambu Lab for modern education and digital literacy in Spain.
-  Updated: 2025-10-25T11:11:33Z
+  Updated: 2025-10-27T11:13:34Z
   Total Products: 9
 - [Craft Machines for Home Projects and 3d Printing](https://eolasprints.com/collections/craft-machines): This collection of craft machines from Eolas Prints includes the Flashforge AD5X. ISO quality and environment management download certificates are available.
   Updated: 2025-10-23T22:29:28Z
