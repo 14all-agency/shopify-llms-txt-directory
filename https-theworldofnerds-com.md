@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2023-11-06T10:53:38Z
 - Contact Email: theworldofnerdscustomer@gmail.com
-- Updated At: 2025-10-27T00:00:59.149Z
+- Updated At: 2025-10-27T08:00:52.461Z
 
 ## Products
 
@@ -949,7 +949,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/401.jpg?v=1729081882
   Price: ₹239.00 INR
 - [SHIKAMARU NARA KEYCHAIN](https://theworldofnerds.com/products/shikamaru-nara-keychain): Add a touch of personality to your keys with our vibrant silicon character keychains! Made from high-quality, durable silicon, these keychains feature a variety of adorable designs that cater to all ages. Perfect for everyday use or as a charming gift, our keychains are lightweight, flexible, and available in multiple colors and styles. Explore our collection to find your favorite character and enjoy the perfect blend of functionality and fun. Whether you're looking to express your unique style or searching for the ideal gift, our silicon keychains are a must-have accessory. Shop now and elevate your key organization game.
-  Updated: 2025-07-29T05:10:56Z
+  Updated: 2025-10-27T03:03:39Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -2208,6 +2208,48 @@
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/946.jpg?v=1731048692
   Price: ₹349.00 INR
+- [HOT WHEELS ULTRA HOTS 78 PORSCHE 935-78](https://theworldofnerds.com/products/hot-wheels-ultra-hots-78-porsche-935-78): Unleash the thrill of racing with Hot Wheels cars, the ultimate choice for car enthusiasts and collectors alike! Each die-cast vehicle is expertly designed with vibrant colors, intricate details, and a variety of styles—from classic muscle cars to futuristic speedsters. With their iconic wheels and impressive designs, Hot Wheels cars are perfect for racing on tracks or displaying in your collection. Whether you’re a young racer or a seasoned collector, Hot Wheels brings the excitement of the open road to life, inspiring imagination and adventure with every turn. Get ready to speed into action with these legendary toys!
+  Updated: 2025-10-27T07:39:08Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/948.jpg?v=1731048826
+  Price: ₹349.00 INR
+- [HOT WHEELS ULTRA HOT 86 THUNDERBIRD PRO STOCK](https://theworldofnerds.com/products/hot-wheels-ultra-hot-86-thunderbird-pro-stock): Unleash the thrill of racing with Hot Wheels cars, the ultimate choice for car enthusiasts and collectors alike! Each die-cast vehicle is expertly designed with vibrant colors, intricate details, and a variety of styles—from classic muscle cars to futuristic speedsters. With their iconic wheels and impressive designs, Hot Wheels cars are perfect for racing on tracks or displaying in your collection. Whether you’re a young racer or a seasoned collector, Hot Wheels brings the excitement of the open road to life, inspiring imagination and adventure with every turn. Get ready to speed into action with these legendary toys!
+  Updated: 2025-10-27T07:40:03Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/950.jpg?v=1731048947
+  Price: ₹399.00 INR
+- [HOT WHEELS ULTRA HOTS 71 DATSUN 510](https://theworldofnerds.com/products/hot-wheels-ultra-hots-71-datsun-510): Unleash the thrill of racing with Hot Wheels cars, the ultimate choice for car enthusiasts and collectors alike! Each die-cast vehicle is expertly designed with vibrant colors, intricate details, and a variety of styles—from classic muscle cars to futuristic speedsters. With their iconic wheels and impressive designs, Hot Wheels cars are perfect for racing on tracks or displaying in your collection. Whether you’re a young racer or a seasoned collector, Hot Wheels brings the excitement of the open road to life, inspiring imagination and adventure with every turn. Get ready to speed into action with these legendary toys!
+  Updated: 2025-10-27T07:39:37Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/949.jpg?v=1731049065
+  Price: ₹349.00 INR
+- [HOT WHEELS ULTRA HOTS TOYOTA AE86 SPRINTER TRUENO](https://theworldofnerds.com/products/hot-wheels-ultra-hots-toyota-ae86-sprinter-trueno): Unleash the thrill of racing with Hot Wheels cars, the ultimate choice for car enthusiasts and collectors alike! Each die-cast vehicle is expertly designed with vibrant colors, intricate details, and a variety of styles—from classic muscle cars to futuristic speedsters. With their iconic wheels and impressive designs, Hot Wheels cars are perfect for racing on tracks or displaying in your collection. Whether you’re a young racer or a seasoned collector, Hot Wheels brings the excitement of the open road to life, inspiring imagination and adventure with every turn. Get ready to speed into action with these legendary toys!
+  Updated: 2025-10-27T07:41:31Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/953.jpg?v=1731049198
+  Price: ₹399.00 INR
+- [HOT WHEELS ULTRA HOTS NISSAN SKYLINE H/T 2000GT-X](https://theworldofnerds.com/products/hot-wheels-ultra-hots-nissan-skyline-h-t-2000gt-x): Unleash the thrill of racing with Hot Wheels cars, the ultimate choice for car enthusiasts and collectors alike! Each die-cast vehicle is expertly designed with vibrant colors, intricate details, and a variety of styles—from classic muscle cars to futuristic speedsters. With their iconic wheels and impressive designs, Hot Wheels cars are perfect for racing on tracks or displaying in your collection. Whether you’re a young racer or a seasoned collector, Hot Wheels brings the excitement of the open road to life, inspiring imagination and adventure with every turn. Get ready to speed into action with these legendary toys!
+  Updated: 2025-10-27T07:40:28Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/951.jpg?v=1731049308
+  Price: ₹399.00 INR
+- [HOT WHEELS ULTRA HOT 64 DODGE 330](https://theworldofnerds.com/products/hot-wheels-ultra-hot-64-dodge-330): Unleash the thrill of racing with Hot Wheels cars, the ultimate choice for car enthusiasts and collectors alike! Each die-cast vehicle is expertly designed with vibrant colors, intricate details, and a variety of styles—from classic muscle cars to futuristic speedsters. With their iconic wheels and impressive designs, Hot Wheels cars are perfect for racing on tracks or displaying in your collection. Whether you’re a young racer or a seasoned collector, Hot Wheels brings the excitement of the open road to life, inspiring imagination and adventure with every turn. Get ready to speed into action with these legendary toys!
+  Updated: 2025-10-27T07:40:54Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/952.jpg?v=1731049399
+  Price: ₹399.00 INR
 - [HOT WHEELS GOROON MURRAY AUTOMOTIVE T.50s](https://theworldofnerds.com/products/hot-wheels-goroon-murray-automotive-t-50s): Unleash the thrill of racing with Hot Wheels cars, the ultimate choice for car enthusiasts and collectors alike! Each die-cast vehicle is expertly designed with vibrant colors, intricate details, and a variety of styles—from classic muscle cars to futuristic speedsters. With their iconic wheels and impressive designs, Hot Wheels cars are perfect for racing on tracks or displaying in your collection. Whether you’re a young racer or a seasoned collector, Hot Wheels brings the excitement of the open road to life, inspiring imagination and adventure with every turn. Get ready to speed into action with these legendary toys!
   Updated: 2025-07-31T00:01:21Z
   Vendor: The World Of Nerds
@@ -3959,7 +4001,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_70.jpg?v=1738387974
   Price: ₹899.00 INR
 - [RMZ CITY TOYOTA CAMRY PULLBACK SCALE - 1:32](https://theworldofnerds.com/products/rmz-city-toyota-camry-pullback-scale-1-32): Introducing the RMZ CITY TOYOTA CAMRY SCALE - 1:32. Impeccably crafted to a 1:32 scale, this toy car is perfect for both collectors and young enthusiasts alike. With precise attention to detail, it offers a realistic depiction of a classic car, bringing joy to all who admire it.
-  Updated: 2025-10-25T17:24:15Z
+  Updated: 2025-10-27T00:31:33Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -4883,7 +4925,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/9-removebg-preview.png?v=1739188028
   Price: ₹999.00 INR
 - [EMPIRE TOYS THOR ENDGAME SCALE - 1:6](https://theworldofnerds.com/products/empire-toys-thor-endgame-scale-1-6): Experience the power of Thor with EMPIRE TOYS THOR ENDGAME SCALE - 1:6. This highly-detailed collectible figure stands at 1:6 scale, bringing the mighty Thor from the epic film "Endgame" to life. Crafted with precision and authenticity, this figure is a must-have for any Marvel fan or collector.
-  Updated: 2025-07-29T05:13:21Z
+  Updated: 2025-10-27T04:26:02Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -6038,7 +6080,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC8156copy.jpg?v=1740220035
   Price: ₹150.00 INR
 - [SQUIRREL](https://theworldofnerds.com/products/squirrel): SQUIRREL is a versatile toy that provides endless entertainment for both indoor and outdoor play. Made with durable materials, it stimulates your furry friend's natural instincts and encourages physical activity. A must-have for any pet owner!
-  Updated: 2025-07-29T05:13:58Z
+  Updated: 2025-10-27T06:39:04Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -7529,7 +7571,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/3_8bc0116b-6d96-479c-8975-a68fb6b50892.jpg?v=1742887238
   Price: ₹239.00 INR
 - [D1-THOR  KEYCHAIN](https://theworldofnerds.com/products/d1-thor-keychain): The D1-THOR KEYCHAIN is a handy and durable keychain, designed with expert precision. Crafted with high-quality materials, this keychain ensures long-lasting use. Perfect for any avid collector or fan of the Thor franchise, it's a must-have addition to any keyring.
-  Updated: 2025-07-29T05:14:39Z
+  Updated: 2025-10-27T00:04:03Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -7914,7 +7956,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitleddesign_15_be8a8afd-6511-423a-9f35-9f5df7981084.png?v=1748412298
   Price: ₹899.00 INR
 - [RMZ CITY MASERATI LEVANTE GTS PULLBACK SCALE - 1:32](https://theworldofnerds.com/products/rmz-city-maserati-levante-gts-pullback-scale-1-33): This RMZ CITY MASERATI LEVANTE GTS PULLBACK SCALE - 1:32 is a high-quality and precise model of the luxurious Maserati Levante GTS. Equipped with a smooth pullback mechanism, this 1:32 scale model is both a collectible masterpiece and an interactive toy for kids and adults. Perfect for fans of Maserati and luxury car enthusiasts.
-  Updated: 2025-07-29T05:14:52Z
+  Updated: 2025-10-27T03:44:54Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -8298,8 +8340,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/617_1.jpg?v=1748500599
   Price: ₹289.00 INR
-- [PIKACHU D9 KEY CHAIN](https://theworldofnerds.com/products/pikachu-d9-key-chain): D9-Pikachu Keychain – Spark joy with the D9-Pikachu keychain, showcasing Pikachu in a playful and eye-catching design. Made with sturdy material, it's perfect for keys, bags, or gifting. A delightful collectible for Pokémon lovers and fans of the iconic electric mouse!
-  Updated: 2025-08-21T21:58:46Z
+- [Black Panther Inspired Superhero Keychain](https://theworldofnerds.com/products/pikachu-d9-key-chain): This bold Black Panther-inspired keychain captures the strength and mystery of the iconic hero. With its sleek black design and white detailing, it adds a touch of Wakandan power to your everyday carry. Perfect for Marvel fans, collectors, and anyone who loves superhero vibes, this keychain is both stylish and symbolic—ready to guard your keys wherever you go.
+  Updated: 2025-10-27T04:54:40Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -10398,7 +10440,7 @@
   Updated: 2025-10-20T11:11:47Z
   Total Products: 101
 - [KEYCHAINS](https://theworldofnerds.com/collections/keychains): Add a touch of personality to your keys with our vibrant character keychains! These keychains are made from high-quality, durable material and feature various adorable designs that cater to all ages. Our keychains are lightweight and available in multiple colors and styles, perfect for everyday use or as a charming gift. Explore our collection to find your favorite character and enjoy the perfect blend of functionality and fun. Whether you want to express your unique style or seek the ideal gift, shop now and elevate your key collection game.
-  Updated: 2025-10-26T11:12:48Z
+  Updated: 2025-10-27T04:54:41Z
   Total Products: 264
 - [Q Poskets](https://theworldofnerds.com/collections/q-poskets): Bring your favorite characters to life with Q Poskets! These adorable, highly detailed figures capture the charm and personality of iconic anime and manga characters in a unique, stylized form. Known for their cute, wide-eyed expressions and vibrant colors, Q Poskets are perfect for collectors and fans alike. Each figure is carefully crafted with attention to detail, making them a must-have addition to any collection. Whether you're a fan of classic anime or the latest releases, Q Poskets are the perfect way to display your love for your favorite characters!
   Updated: 2025-09-18T11:12:05Z
@@ -10416,7 +10458,7 @@
   Updated: 2025-10-21T11:13:29Z
   Total Products: 11
 - [HOTWHEELS ULTRA HOTS](https://theworldofnerds.com/collections/hotwheels-ultra-hots): Rev up your collection with Hot Wheels Ultra Hots! Known for their sleek designs and high-performance wheels, Ultra Hots are built for speed and style. These cars feature eye-catching graphics, bold colors, and ultra-detailed designs, making them a standout addition to any Hot Wheels collection. With enhanced wheels for smoother, faster races, the Ultra Hots series delivers an exciting experience whether you're displaying them on your shelf or racing them on the track. Perfect for collectors and racing fans, these cars bring the ultimate Hot Wheels thrill to your collection!
-  Updated: 2025-07-29T05:10:28Z
+  Updated: 2025-10-27T07:39:48Z
   Total Products: 8
 - [SOLIDO 1:43](https://theworldofnerds.com/collections/solido): Immerse yourself in the world of finely crafted automotive models with Solido 1:43 Scale Models. Known for their exceptional attention to detail, these diecast models are a perfect blend of precision and style. With a wide variety of cars, trucks, and classic vehicles, each 1:43 scale model is designed to capture the true essence of real-world automobiles in miniature form. From vintage classics to modern masterpieces, Solido’s 1:43 scale models offer stunning accuracy in every design, making them an essential addition to any collector's display or automotive enthusiast's collection.
   Updated: 2025-07-29T05:10:28Z
@@ -10449,7 +10491,7 @@
   Updated: 2025-09-04T11:12:40Z
   Total Products: 21
 - [ALL DIECAST CAR'S](https://theworldofnerds.com/collections/diecast-cars): A diecast car toy is a little masterpiece on wheels! Made from metal alloys, these toys are miniature versions of real cars, and they’re built to last. They come with super detailed features like realistic paint jobs, decals, and sometimes even movable parts like doors or wheels. Whether you’re into collecting or just love cars, diecast toys are great for both display and play. They come in different sizes, so you can choose one that fits perfectly on your shelf or in your hands. With their awesome craftsmanship, each car feels like a mini version of the real thing!
-  Updated: 2025-10-26T11:12:48Z
+  Updated: 2025-10-27T07:39:48Z
   Total Products: 349
 - [ANIME](https://theworldofnerds.com/collections/anime): Anime toys are like little pieces of your favorite shows that you can hold in your hands! Whether it’s a cool action figure, a cute plushie, or a stunning statue, these toys are made with awesome attention to detail, capturing the unique style and personality of beloved characters. They’re perfect for showing off your love for a certain anime or just adding a bit of fun to your space. Each one is made to bring a bit of that anime magic into the real world—whether you want to display them on a shelf, keep them close, or even take them on little adventures! If you’re a fan, these toys let you connect with the anime you love in a whole new way.
   Updated: 2025-10-26T11:12:48Z
@@ -10500,11 +10542,11 @@
   Updated: 2025-08-12T11:12:51Z
   Total Products: 3
 - [ALL KEYCHAIN](https://theworldofnerds.com/collections/all-keychain): Unlock your style with our collection of unique and customizable keychains! Whether you’re looking for fun, quirky designs or sleek, minimalist accessories, we have keychains to suit every personality. Perfect for holding your keys, adding a touch of charm to your bags, or giving as thoughtful gifts, our keychains are as functional as they are fashionable. Browse through our wide selection and find the perfect keychain to express your style!
-  Updated: 2025-10-26T11:12:48Z
+  Updated: 2025-10-27T04:54:41Z
   Total Products: 300
 - [CARTOON KEYCHAINS](https://theworldofnerds.com/collections/cartoon-keychains): Add some fun and personality to your keys with our vibrant collection of cartoon keychains! Featuring your favorite animated characters, these keychains are the perfect way to showcase your love for beloved cartoons. Made with high-quality materials and colorful designs, each keychain is a delightful accessory that will brighten up your day. Whether you're a fan of classic cartoons, modern favorites, or quirky characters, our collection has something for everyone. Ideal for gifting, collecting, or adding a playful touch to your everyday essentials, these cartoon keychains are sure to bring a smile wherever you go!
-  Updated: 2025-10-24T11:12:39Z
-  Total Products: 121
+  Updated: 2025-10-27T04:55:10Z
+  Total Products: 120
 - [DC & MARVEL KEYCHAINS](https://theworldofnerds.com/collections/dc-marvel-keychains): Show off your superhero pride with our epic collection of DC and Marvel keychains! Featuring your favorite characters from both iconic universes, these keychains are perfect for fans of all ages. Whether you're team Batman, Wonder Woman, Spider-Man, or Iron Man, our keychains bring your beloved heroes and villains to life in vibrant, durable designs. Made with high-quality materials, these keychains are not just functional, but a stylish way to express your fandom. Add a heroic touch to your everyday essentials or give the perfect gift to a fellow superhero enthusiast!
   Updated: 2025-10-19T11:11:51Z
   Total Products: 34
@@ -10527,7 +10569,7 @@
   Updated: 2025-07-29T05:10:31Z
   Total Products: 4
 - [ALL HOT WHEELS](https://theworldofnerds.com/collections/all-hot-wheels-1): Rev up your collection with our exciting selection of Hot Wheels cars and accessories! From classic die-cast vehicles to exclusive limited-edition models, our collection brings the thrill of high-speed racing and vibrant designs right to your fingertips. Perfect for collectors and kids alike, each Hot Wheels car is crafted with intricate details and built for fast fun. Explore our range of iconic cars, customizable tracks, and themed sets, and race into action with the ultimate Hot Wheels experience. Fasten your seatbelt and let the adventures begin.
-  Updated: 2025-10-26T11:12:48Z
+  Updated: 2025-10-27T07:39:48Z
   Total Products: 135
 - [SHOP BY MERCHANDISE](https://theworldofnerds.com/collections/anime-action-figures): Explore our exclusive collection of nerd-inspired merchandise, carefully curated for fans of all things geeky! Whether you're into gaming, comics, anime, or pop culture, we have something special for you. Browse through categories like apparel, collectibles, accessories, and home decor to find the perfect addition to your collection. Level up your fandom with high-quality products designed for true enthusiasts. Start shopping now and bring your favorite worlds to life!
   Updated: 2025-10-26T11:12:48Z
@@ -10551,7 +10593,7 @@
   Updated: 2025-10-21T11:13:29Z
   Total Products: 418
 - [ANIME & POP CULTURE](https://theworldofnerds.com/collections/anime-pop-culture): "Level up your collection with our latest anime and pop culture arrivals! From highly detailed action figures and adorable Funko Pop! collectibles to stylish keychains, posters, and apparel, we have everything a true fan needs. Whether you're looking to decorate your space, accessorize your style, or expand your collection with exclusive finds, these must-have items bring your favorite characters to life. Don't miss out—shop now and celebrate your fandom in the best way possible!" 🚀🔥
-  Updated: 2025-10-25T11:13:36Z
+  Updated: 2025-10-27T04:54:41Z
   Total Products: 379
 - [TOYS & EXPLORERS FAVOURITES](https://theworldofnerds.com/collections/toys-explorers-favourites): "Unleash the fun with our Toys & Explorers' Favorites collection! From action-packed figures and interactive playsets to educational toys and adventure-ready collectibles, there’s something for every young explorer and collector. Whether you're into superheroes, anime, fantasy worlds, or hands-on discovery, our carefully curated selection brings imagination to life. Perfect for kids and the young at heart—shop now and start your next adventure!" 🚀🎮✨
   Updated: 2025-08-27T11:15:12Z
@@ -10608,7 +10650,7 @@
   Updated: 2025-10-20T11:11:47Z
   Total Products: 49
 - [SHOP ALL BY MERCHANDISE](https://theworldofnerds.com/collections/shop-all-by-merchandise): New arrivals are here! Explore the latest action figures, Funko Pop! collectibles, keychains, and more—perfect for every fan and collector. Whether you're hunting for rare finds, adding to your collection, or looking for the perfect gift, our newest merchandise has something for everyone. Shop now and grab your favorites before they’re gone!" 🎉🔥
-  Updated: 2025-10-26T11:12:48Z
+  Updated: 2025-10-27T04:54:41Z
   Total Products: 959
 - [MARVEL](https://theworldofnerds.com/collections/marvel): "Unleash the power of the Marvel Universe with our latest collection of action figures, Funko Pop! collectibles, keychains, and more! From legendary heroes like Spider-Man, Iron Man, Thor, and Captain America to iconic villains like Thanos and Loki, these high-quality collectibles bring the epic battles and stories of Marvel to life. Whether you're a die-hard fan or a passionate collector, now’s your chance to assemble your favorite characters and celebrate the legacy of Marvel. Shop now and bring the action home!" 🦸♂️⚡🔥
   Updated: 2025-10-19T11:11:51Z
