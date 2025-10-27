@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-01-24T04:49:01Z
 - Contact Email: info@ibizjewel.com
-- Updated At: 2025-10-26T20:00:52.946Z
+- Updated At: 2025-10-27T04:01:00.824Z
 
 ## Products
 
@@ -8613,7 +8613,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/SPDR-93_1.jpg?v=1690624688
     Price: $2,219.00 USD
 - [Natural Salt And Pepper 1.70CT Kite Diamond Art Deco Unique Engagement Ring | Handmade Ring | Anniversary Ring](https://ibizjewel.com/products/natural-salt-and-pepper-1-70ct-kite-diamond-art-deco-unique-engagement-ring-handmade-ring-anniversary-ring): This Natural Salt And Pepper 1.70CT Kite Diamond Art Deco Unique Engagement Ring is the perfect way to say "I love you". It features a beautiful 1.70CT kite-shaped diamond set in an exquisite handmade Art Deco design. This stunning ring is the perfect choice for any special occasion.
-  Updated: 2025-10-02T10:30:44Z
+  Updated: 2025-10-27T02:21:41Z
   Vendor: Natural Salt And Pepper Diamond Ring
   Product Type: Natural Salt And Pepper Kite Diamond Ring
   Availability: Available
@@ -15984,7 +15984,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/7828/1496/files/MDBA-01_1.jpg?v=1710328284
     Price: $718.00 USD
 - [Moissanite 0.55CT Marquise Diamond Art Nouveau Anniversary Gift Band](https://ibizjewel.com/products/moissanite-0-55ct-marquise-diamond-art-nouveau-anniversary-gift): This Moissanite 0.55ct Marquise Diamond Art Nouveau Anniversary Gift Offers A Stunningly Unique Design With A Brilliant Moissanite Diamond. Crafted In The Art Nouveau Style, This Anniversary Gift Is A Perfect Combination Of Elegance And Sophistication. Give The Gift Of Everlasting Love With This Exquisite Piece.
-  Updated: 2025-10-02T10:30:52Z
+  Updated: 2025-10-27T03:30:03Z
   Vendor: Moissanite Diamond Women's Bands
   Product Type: Moissanite Marquise Diamond Band
   Availability: Available
