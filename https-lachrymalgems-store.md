@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-10-03T06:30:37Z
 - Contact Email: mandiemaddox@mystichiddengem.com
-- Updated At: 2025-10-26T20:00:40.042Z
+- Updated At: 2025-10-27T00:00:42.232Z
 
 ## Products
 
@@ -1686,7 +1686,7 @@
   Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/male-model-lachrywave-dark-occult-chest-bag.png?v=1761501459
   Price: $58.30 USD
 - [Esoteric Lachrywave Pajama Pants - Alternative Loungewear | Lachrymal Gems](https://lachrymalgems.store/products/esoteric-lachrywave-pajama-pants): Lounge in style with our Esoteric Lachrywave pajama pants. Unique occult design, comfortable fit. Perfect for alternative fashion lovers and cozy vibes.
-  Updated: 2025-10-26T18:06:36Z
+  Updated: 2025-10-26T23:19:43Z
   Vendor: Printify
   Product Type: All Over Prints
   Availability: Available
@@ -1708,8 +1708,8 @@
   Updated: 2025-10-26T18:09:56Z
   Total Products: 5
 - [Baggage with Benifiets](https://lachrymalgems.store/collections/baggage-with-benifiets): Carry what matters, drop what doesn't. We all carry something at least make it cute . Match your vibe not your outfit.
-  Updated: 2025-10-26T18:09:56Z
-  Total Products: 4
+  Updated: 2025-10-26T22:36:02Z
+  Total Products: 5
 - [Vibe bin](https://lachrymalgems.store/collections/vibe-bin): Everything that feeds the mood board of your life. Shop the little things that recharge your frequency.
   Updated: 2025-10-26T18:09:57Z
   Total Products: 2
@@ -1717,8 +1717,8 @@
   Updated: 2025-10-22T04:20:41Z
   Total Products: 0
 - [All Products](https://lachrymalgems.store/collections/all)
-  Updated: 2025-10-26T18:04:48Z
-  Total Products: 51
+  Updated: 2025-10-26T22:36:32Z
+  Total Products: 52
 
 ## Blogs
 
