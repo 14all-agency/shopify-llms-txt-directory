@@ -6,7 +6,7 @@
 - Timezone: Asia/Hong_Kong
 - Created At: 2025-10-06T04:18:26Z
 - Contact Email: perla.marita815@gmail.com
-- Updated At: 2025-10-25T16:00:36.047Z
+- Updated At: 2025-10-27T00:00:43.038Z
 
 ## Products
 
@@ -194,6 +194,46 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/50d2bd89-b6ee-4de2-b037-cfe05d95be69-Max.webp?v=1759899131
     Price: $34.40 USD
+- [Aemi+Co Round Neck Long Sleeve T-Shirt](https://exp5dc-d1.myshopify.com/products/aemi-co-round-neck-long-sleeve-t-shirt): The round neck long sleeve T-shirt is a versatile and essential piece for your wardrobe. The classic round neck design makes it a timeless and easy-to-style top. With long sleeves, it is perfect for layering or wearing on its own, offering comfort and practicality for everyday wear. This T-shirt is a go-to option for creating casual and effortless outfits in any season. Features: Basic style Stretch: Slightly stretchy Material composition: 70% Cotton 30% Polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S:Bust 34-36 in, Waist 26-28 inM:Bust 37-38 in, Waist 29-31 inL:Bust 39-40 in, Waist 32-33 in
+  Updated: 2025-10-26T10:27:21Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/7110194ae07d4b0286c1abc3519d7fee-Max-Origin.webp?v=1759899289
+  - [BLACK / S](https://exp5dc-d1.myshopify.com/products/aemi-co-round-neck-long-sleeve-t-shirt?variant=50143284101367)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/7110194ae07d4b0286c1abc3519d7fee-Max-Origin.webp?v=1759899289
+    Price: $34.74 USD
+  - [BLACK / M](https://exp5dc-d1.myshopify.com/products/aemi-co-round-neck-long-sleeve-t-shirt?variant=50143284134135)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/7110194ae07d4b0286c1abc3519d7fee-Max-Origin.webp?v=1759899289
+    Price: $34.74 USD
+  - [BLACK / L](https://exp5dc-d1.myshopify.com/products/aemi-co-round-neck-long-sleeve-t-shirt?variant=50143284166903)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/7110194ae07d4b0286c1abc3519d7fee-Max-Origin.webp?v=1759899289
+    Price: $34.74 USD
+- [Basic Bae Asymmetrical Neck Long Sleeve Top](https://exp5dc-d1.myshopify.com/products/basic-bae-asymmetrical-neck-long-sleeve-top): Make a statement in this asymmetrical neck long sleeve top. The unique neckline adds a modern and edgy twist to this classic piece, while the long sleeves provide comfort and versatility. Perfect for dressing up or down, this top is a stylish addition to your wardrobe that is sure to turn heads. Features: Basic style Sheer: Opaque Stretch: Slightly stretchy Material composition: 95% polyester, 5% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Model information: Curve model-height 5'9", bust 46", waist 37", hip 48", size 1X, jeans size 14WRegular size model-height 5'6", bust 34", waist 25", hip 35", size S, jeans size 1Product measurements:S: bust 33.5 in, waist 29.6 in, shoulder 14.6 in, sleeve length 22 in, length 25 inM: bust 35.9 in, waist 32 in, shoulder 15.2 in, sleeve length 23 in, length 25.7 inL: bust 38.2 in, waist 34.3 in, shoulder 15.8 in, sleeve length 23 in, length 26.5 inXL: bust 41.3 in, waist 37.4 in, shoulder 16.7 in, sleeve length 24 in, length 27.3 in
+  Updated: 2025-10-26T10:28:30Z
+  Vendor: Trendsi
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/3d27516b4acb4625a45b9a6f76eeea72-Max.jpg?v=1759899375
+  - [Black / S](https://exp5dc-d1.myshopify.com/products/basic-bae-asymmetrical-neck-long-sleeve-top?variant=50143286067447)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/3d27516b4acb4625a45b9a6f76eeea72-Max.jpg?v=1759899375
+    Price: $21.00 USD
+  - [Black / M](https://exp5dc-d1.myshopify.com/products/basic-bae-asymmetrical-neck-long-sleeve-top?variant=50143286100215)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/3d27516b4acb4625a45b9a6f76eeea72-Max.jpg?v=1759899375
+    Price: $21.00 USD
+  - [Black / L](https://exp5dc-d1.myshopify.com/products/basic-bae-asymmetrical-neck-long-sleeve-top?variant=50143286132983)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/3d27516b4acb4625a45b9a6f76eeea72-Max.jpg?v=1759899375
+    Price: $21.00 USD
+  - [Black / XL](https://exp5dc-d1.myshopify.com/products/basic-bae-asymmetrical-neck-long-sleeve-top?variant=50143286165751)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/3d27516b4acb4625a45b9a6f76eeea72-Max.jpg?v=1759899375
+    Price: $21.00 USD
 - [BOMBOM Textured Balloon Sleeve Top](https://exp5dc-d1.myshopify.com/products/bombom-textured-balloon-sleeve-top): The Textured Balloon Sleeve Top is delicately crafted in a softly knit fabric, offering a blend of comfort and style. The textured design adds visual interest to the top, making it easy enough for everyday wear while still exuding effortless appeal. The balloon sleeves add a trendy and chic touch to the relaxed fit silhouette. This top is versatile and can be dressed up or down for various occasions, providing both comfort and style in one elegant piece. Features: Basic style Sheer: Opaque Stretch: Slightly stretchy Material composition: 95% polyester, 5% spandex Care instructions: Machine wash cold. Tumble dry low. Made in USA Product measurements: S:Bust 35-36 in, Waist 27-28 inM:Bust 37-38 in, Waist 29-30 inL:Bust 39-40 in, Waist 31-32 inXL:Bust 41-42 in, Waist 33-34 in
   Updated: 2025-10-23T04:54:20Z
   Vendor: Trendsi
@@ -818,7 +858,7 @@
     Image: https://cdn.shopify.com/s/files/1/0904/0822/2967/files/dd64355e-e6a0-4571-8560-2c63a76740a0-Max.webp?v=1759909693
     Price: $44.06 USD
 - [Beast Fashion Rhinestone Detail Point Toe Boots](https://exp5dc-d1.myshopify.com/products/beast-fashion-rhinestone-detail-point-toe-boots): Rhinestone detail point toe boots are a stunning and glamorous footwear option that features shimmering rhinestone accents on the upper portion of the boots. These boots exude elegance and sophistication, adding a touch of sparkle and luxury to any outfit. The point toe silhouette lends a sleek and chic look to the boots, making them a versatile choice for both formal and dressier casual occasions. Pair these boots with dresses, skirts, or tailored pants to make a statement and add a touch of glamour to your ensemble. They are sure to make you stand out and shine wherever you go! Heel height: Mid heels Material: Suede, Rhinestone Imported Product Measurements (Measurements by inches) & Size Conversion Size Heel height Shaft height 6 2.8 10.8 6.5 2.8 10.8 7 2.8 10.8 7.5 2.8 10.8 8 2.8 10.8 8.5 2.8 10.8 9 2.8 10.8 10 2.8 10.8 11 2.8 10.8
-  Updated: 2025-10-22T04:27:07Z
+  Updated: 2025-10-26T17:57:50Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1322,28 +1362,46 @@
 ## Collections
 
 - [Long Sleeve Tops](https://exp5dc-d1.myshopify.com/collections/apparels)
-  Updated: 2025-10-23T04:55:24Z
+  Updated: 2025-10-26T15:51:04Z
   Total Products: 12
 - [Skirts](https://exp5dc-d1.myshopify.com/collections/skirts)
-  Updated: 2025-10-23T04:49:10Z
+  Updated: 2025-10-26T15:51:04Z
   Total Products: 8
 - [Dresses](https://exp5dc-d1.myshopify.com/collections/dresses)
-  Updated: 2025-10-23T04:52:30Z
+  Updated: 2025-10-26T15:51:04Z
   Total Products: 8
 - [Bags & Wallets](https://exp5dc-d1.myshopify.com/collections/dresses-1)
-  Updated: 2025-10-22T10:45:03Z
+  Updated: 2025-10-26T15:51:04Z
   Total Products: 13
 - [Outerwears](https://exp5dc-d1.myshopify.com/collections/outerwears)
-  Updated: 2025-10-08T09:08:56Z
+  Updated: 2025-10-26T15:51:04Z
   Total Products: 13
 - [Footwears](https://exp5dc-d1.myshopify.com/collections/boots)
-  Updated: 2025-10-22T10:53:29Z
+  Updated: 2025-10-26T15:51:04Z
   Total Products: 20
 - [Watches & Sunglasses](https://exp5dc-d1.myshopify.com/collections/watches-sunglasses)
-  Updated: 2025-10-07T17:30:59Z
+  Updated: 2025-10-26T16:08:26Z
   Total Products: 0
 - [Beauty](https://exp5dc-d1.myshopify.com/collections/beauty)
-  Updated: 2025-10-07T17:33:45Z
+  Updated: 2025-10-26T16:08:26Z
+  Total Products: 0
+- [Normal Apparels Collections](https://exp5dc-d1.myshopify.com/collections/premium-apparels-collections)
+  Updated: 2025-10-26T15:01:00Z
+  Total Products: 12
+- [Premium Apparels Collections](https://exp5dc-d1.myshopify.com/collections/premium-apparels-collections-1)
+  Updated: 2025-10-26T15:04:15Z
+  Total Products: 13
+- [Premium Bags & Boots Collections](https://exp5dc-d1.myshopify.com/collections/premium-bags-boots-collections)
+  Updated: 2025-10-26T15:26:37Z
+  Total Products: 12
+- [Normal Bags & Boots Collections](https://exp5dc-d1.myshopify.com/collections/normal-bags-boots-collections)
+  Updated: 2025-10-26T15:31:15Z
+  Total Products: 13
+- [Feature Sunglasses & Watches Collections](https://exp5dc-d1.myshopify.com/collections/feature-sunglasses-watches-collections)
+  Updated: 2025-10-26T16:04:06Z
+  Total Products: 0
+- [Feature Beauty Collections](https://exp5dc-d1.myshopify.com/collections/feature-beauty-collections)
+  Updated: 2025-10-26T16:07:28Z
   Total Products: 0
 
 ## Store Pages
@@ -1364,7 +1422,7 @@
 - [Refund Policy](https://exp5dc-d1.myshopify.com/policies/refund-policy)
   Updated: 2025-10-06T13:48:46+08:00
 - [Terms of Service](https://exp5dc-d1.myshopify.com/policies/terms-of-service)
-  Updated: 2025-10-06T13:49:04+08:00
+  Updated: 2025-10-26T22:43:28+08:00
 - [Contact Information](https://exp5dc-d1.myshopify.com/policies/contact-information)
   Updated: 2025-10-09T01:53:02+08:00
 
