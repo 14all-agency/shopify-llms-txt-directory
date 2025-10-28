@@ -6,7 +6,7 @@
 - Timezone: Europe/Istanbul
 - Created At: 2025-08-18T15:09:55Z
 - Contact Email: info@etycase.com
-- Updated At: 2025-10-28T12:00:34.520Z
+- Updated At: 2025-10-28T16:00:42.612Z
 
 ## Products
 
@@ -183,8 +183,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0634/2501/9970/files/apple-iphone-12-pro-kilif-wlons-hill-kapak-iphone-12-pro-wlons-173455-17-B_1800x1800_jpg.webp?v=1759857479
   Price: ₺850,00 TRY
-- [iPhone 13 Zebana NeoFiber Silikon MagSafe Özellikli Kılıf](https://etycase.com/products/iphone-13-zebana-neofiber-silikon-magsafe-ozellikli-kilif): iPhone 13 Zebana NeoFiber Silikon MagSafe Özellikli Kılıf (Kablosuz Şarj)Gücünü Karbon Fiberden Alan Teknoloji Zebana NeoFiber Kılıf ile cihazınız her an güvende! Hafifliğini ve dayanıklılığını karbon fiberden alan bu kılıf, aynı zamanda Kablosuz Şarj uyumluluğu ile fonksiyonelliği artırıyor.
-  Updated: 2025-10-07T20:27:12Z
+- [iPhone 13 NeoFiber Silikon MagSafe Özellikli Kılıf](https://etycase.com/products/iphone-13-zebana-neofiber-silikon-magsafe-ozellikli-kilif): iPhone 13 NeoFiber Silikon MagSafe Özellikli Kılıf (Kablosuz Şarj)Gücünü Karbon Fiberden Alan Teknoloji NeoFiber Kılıf ile cihazınız her an güvende! Hafifliğini ve dayanıklılığını karbon fiberden alan bu kılıf, aynı zamanda Kablosuz Şarj uyumluluğu ile fonksiyonelliği artırıyor.
+  Updated: 2025-10-28T12:21:18Z
   Vendor: Zebana
   Product Type: Cep Telefonu Kılıfı
   Availability: Available
@@ -234,7 +234,7 @@
   Updated: 2025-09-15T17:30:50Z
   Total Products: 0
 - [iPhone Kılıfları](https://etycase.com/collections/iphone): Apple iPhone Serisi Cep Telefonlarınız için Kaliteli ve Şık Kılıfları Bu Koleksiyonda Bulabilirsiniz
-  Updated: 2025-10-01T18:50:28Z
+  Updated: 2025-10-28T12:21:19Z
   Total Products: 16
 - [Samsung](https://etycase.com/collections/samsung): Samsung Marka Cep Telefonlarınız için Kaliteli ve Şık Kılıfları Bu Koleksiyonda Bulabilirsiniz
   Updated: 2025-09-15T17:52:30Z
@@ -270,7 +270,7 @@
   Updated: 2025-09-15T17:15:43Z
   Total Products: 0
 - [iPhone 13 Serisi](https://etycase.com/collections/i̇phone-13-serisi): EtyCase Apple iPhone 13 Serisi Kılıf ve Aksesuarları
-  Updated: 2025-10-01T18:50:28Z
+  Updated: 2025-10-28T12:21:19Z
   Total Products: 1
 - [iPhone 12  Serisi](https://etycase.com/collections/i̇phone-12-serisi): EtyCase Apple iPhone 12 Serisi Kılıf ve Aksesuarları
   Updated: 2025-09-16T21:12:00Z
@@ -324,7 +324,7 @@
   Updated: 2025-09-15T17:19:10Z
   Total Products: 0
 - [iPhone 13 Telefon Kılıfları](https://etycase.com/collections/iphone-13-telefon-kiliflari): EtyCase - Birbirinden renkli ve özel tasarımlarla modunuzu ve tarzınızı yansıtacak Zevkinize uygun Apple iPhone 13 Uyumlu Premium Class Telefon Kılıfları
-  Updated: 2025-10-01T18:50:28Z
+  Updated: 2025-10-28T12:21:19Z
   Total Products: 1
 - [iPhone 14 Telefon Kılıfları](https://etycase.com/collections/iphone-14-telefon-kiliflari): EtyCase - Birbirinden renkli ve özel tasarımlarla modunuzu ve tarzınızı yansıtacak Zevkinize uygun Apple iPhone 14 Uyumlu Premium Class Telefon Kılıfları
   Updated: 2025-09-15T17:22:42Z
@@ -390,7 +390,7 @@
   Updated: 2025-09-18T11:06:43Z
   Total Products: 0
 - [Çok Satanlar](https://etycase.com/collections/cok-satanlar-1)
-  Updated: 2025-10-02T21:09:04Z
+  Updated: 2025-10-28T12:21:19Z
   Total Products: 16
 - [Guess](https://etycase.com/collections/guess)
   Updated: 2025-10-07T02:57:16Z
