@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-10-20T08:44:40Z
 - Contact Email: aleksandar@pursuitz.io
-- Updated At: 2025-10-28T00:01:13.737Z
+- Updated At: 2025-10-28T08:00:30.652Z
 
 ## Products
 
@@ -18,7 +18,7 @@
   Image: https://cdn.shopify.com/s/files/1/0696/3029/6142/files/snowboard_purple_hydrogen.png?v=1760949920
   Price: $949.95 USD
 - [Snowboard Vendor Gift Card: Ideal Gift for Snowboard Lovers](https://rankz-test-2.myshopify.com/products/gift-card): Unlock the thrill of snowboarding with the Snowboard Vendor Gift Card! Perfect for enthusiasts, it offers access to top gear. Gift adventure today!
-  Updated: 2025-10-27T16:27:48Z
+  Updated: 2025-10-28T04:26:43Z
   Vendor: Snowboard Vendor
   Product Type: giftcard
   Availability: Available
@@ -109,7 +109,7 @@
     Availability: Available
     Price: $699.95 USD
 - [Hydrogen Vendor Oxygen Snowboard for Epic Winter Fun](https://rankz-test-2.myshopify.com/products/the-collection-snowboard-oxygen): Experience ultimate winter adventures with the Hydrogen Vendor Oxygen Snowboard. Elevate your ride today—grab yours and conquer the slopes in style!
-  Updated: 2025-10-27T20:16:54Z
+  Updated: 2025-10-28T06:36:15Z
   Vendor: Hydrogen Vendor
   Product Type: snowboard
   Availability: Available
