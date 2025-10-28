@@ -6,7 +6,7 @@
 - Timezone: Asia/Dhaka
 - Created At: 2024-01-17T06:20:01Z
 - Contact Email: raymondwildlife@gmail.com
-- Updated At: 2025-10-28T04:00:44.721Z
+- Updated At: 2025-10-28T20:00:43.706Z
 
 ## Products
 
@@ -51,7 +51,7 @@
     Availability: Available
     Price: ৳102.00 BDT
 - [Lodge – Raymond Coffee](https://raymondcoffee.online/products/lodge-womens-shirt): The lodge, after a day of white slopes, is a place of revelry, blazing fires and high spirits. 100% organic cotton, stonewashed graphic tee.
-  Updated: 2025-04-17T09:32:17Z
+  Updated: 2025-10-28T08:01:04Z
   Vendor: United By Blue
   Product Type: Womens
   Availability: Available
@@ -72,7 +72,7 @@
     Availability: Available
     Price: ৳36.00 BDT
 - [Pennsylvania Notebooks – Raymond Coffee](https://raymondcoffee.online/products/pennsylvania-field-notes): The Field Notes "State Fair" limited edition series features three notebooks, each with information on the great state of Pennsylvania
-  Updated: 2025-08-07T09:52:14Z
+  Updated: 2025-10-28T08:01:04Z
   Vendor: Field Notes
   Product Type: Home
   Availability: Available
@@ -125,7 +125,7 @@
   Image: https://cdn.shopify.com/s/files/1/0858/1031/5574/files/derby-tier-backpack-998268.jpg?v=1722167829
   Price: ৳148.00 BDT
 - [Chevron – Raymond Coffee](https://raymondcoffee.online/products/chevron): This is a demonstration store. You can purchase products like this from United By Blue. 100% organic cotton, stone washed slub knit 6 oz jersey fabric Made in California.
-  Updated: 2025-04-17T09:32:36Z
+  Updated: 2025-10-28T08:01:28Z
   Vendor: United By Blue
   Product Type: Womens
   Availability: Available
@@ -146,7 +146,7 @@
     Availability: Not Available
     Price: ৳36.00 BDT
 - [Guaranteed – Raymond Coffee](https://raymondcoffee.online/products/guaranteed): This is a demonstration store. You can purchase products like this from United By Blue. 100% organic cotton, stone washed slub knit 6 oz jersey fabric Made in Ca
-  Updated: 2025-08-10T12:03:38Z
+  Updated: 2025-10-28T08:01:28Z
   Vendor: United By Blue
   Product Type: Womens
   Availability: Available
@@ -188,7 +188,7 @@
     Availability: Available
     Price: ৳36.00 BDT
 - [5 Panel Camp Cap Accessories! Raymond Coffee!](https://raymondcoffee.online/products/5-panel-hat): This is the custom meta description from toufiq
-  Updated: 2025-08-04T11:53:21Z
+  Updated: 2025-10-28T08:01:04Z
   Vendor: United By Blue
   Product Type: Accessories
   Availability: Available
@@ -254,7 +254,7 @@
     Availability: Not Available
     Price: ৳188.00 BDT
 - [Scout Backpack – Raymond Coffee](https://raymondcoffee.online/products/scout-backpack): This is a demonstration store. You can purchase products like this from United By Blue. This durable backpack is ready for any adventure, large or small. Features adjustable and padded shoulder pads for comfort. Designed with a storm flap and a secured by two snap-button closure. Made with a waxed downpour proof exteri
-  Updated: 2025-08-10T00:22:47Z
+  Updated: 2025-10-28T08:01:04Z
   Vendor: United By Blue
   Product Type: Bags
   Availability: Available
@@ -297,7 +297,7 @@
     Image: https://cdn.shopify.com/s/files/1/0858/1031/5574/files/cydney-plaid-337338.jpg?v=1722167831
     Price: ৳98.00 BDT
 - [Red Wing Iron Ranger Boot – Raymond Coffee](https://raymondcoffee.online/products/redwing-iron-ranger): This is a demonstration store. You can purchase products like this from United By Blue. The Mesabi Iron Range lies in northern Minnesota, a rugged and remote area known for its iron mines. The local residents who work these mines are proudly known as Iron Rangers, individuals with a sense of adventure and a determined
-  Updated: 2025-04-17T09:32:53Z
+  Updated: 2025-10-28T08:01:04Z
   Vendor: Red Wing
   Product Type: Mens
   Availability: Available
@@ -336,7 +336,7 @@
     Availability: Not Available
     Price: ৳310.00 BDT
 - [Long Sleeve Swing Shirt - Relaxed Fit and Organic Cotton](https://raymondcoffee.online/products/long-sleeve-swing): Discover the Long Sleeve Swing Shirt made from 100% organic cotton with a relaxed fit for ultimate comfort. Perfect for everyday wear at United By Blue.
-  Updated: 2025-02-14T01:35:42Z
+  Updated: 2025-10-28T08:01:04Z
   Vendor: United By Blue
   Product Type: Womens
   Availability: Available
@@ -386,7 +386,7 @@
   Image: https://cdn.shopify.com/s/files/1/0858/1031/5574/files/double-wall-mug-475103.jpg?v=1722167826
   Price: ৳24.00 BDT
 - [Field Report Vol - Exciting Updates & New Arrivals](https://raymondcoffee.online/products/the-field-report-vol-2): Explore the Field Report Vol for insights on new products, ocean cleanups, and stunning imagery from United By Blue. Stay updated every quarter!
-  Updated: 2025-02-18T17:03:43Z
+  Updated: 2025-10-28T08:01:04Z
   Vendor: United By Blue
   Product Type: Home
   Availability: Available
@@ -400,7 +400,7 @@
   Image: https://cdn.shopify.com/s/files/1/0858/1031/5574/files/camp-stool-776468.jpg?v=1722167826
   Price: ৳78.00 BDT
 - [Hudderton Backpack - Durable, Rugged & Dependable Design](https://raymondcoffee.online/products/hudderton-backpack): Hudderton Backpack is your all-day comfort bag with organic, durable materials, multiple compartments, and a padded laptop sleeve, perfect for any adventure.
-  Updated: 2025-02-18T19:13:18Z
+  Updated: 2025-10-28T08:01:04Z
   Vendor: United By Blue
   Product Type: Bags
   Availability: Available
@@ -418,13 +418,13 @@
     Availability: Not Available
     Price: ৳98.00 BDT
 - ["File"](https://raymondcoffee.online/products/file)
-  Updated: 2025-08-04T11:52:12Z
+  Updated: 2025-10-28T08:01:28Z
   Vendor: Raymond Coffee
   Product Type: 23p_po_generated
   Availability: Available
   Price: ৳200.00 BDT
 - ["8n"](https://raymondcoffee.online/products/8n)
-  Updated: 2025-08-04T11:53:57Z
+  Updated: 2025-10-28T08:01:28Z
   Vendor: Raymond Coffee
   Product Type: 23p_po_generated
   Availability: Available
@@ -488,6 +488,8 @@
   Updated: 2025-04-21T11:27:06Z
 - [FAQ-for-App](https://raymondcoffee.online/pages/faq-for-app): Okey FAQ
   Updated: 2025-04-28T07:35:59Z
+- [Faq-test](https://raymondcoffee.online/pages/faq-test-1): [xb-faqs-page xb-heading="false"][/xb-faqs-page]
+  Updated: 2025-10-28T10:19:31Z
 
 ## Policies
 
