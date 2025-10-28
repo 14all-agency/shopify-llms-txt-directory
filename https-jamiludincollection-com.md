@@ -6,7 +6,7 @@
 - Timezone: Asia/Kuala_Lumpur
 - Created At: 2025-08-17T15:09:52Z
 - Contact Email: jamiludinjamil706@gmail.com
-- Updated At: 2025-10-28T04:00:53.695Z
+- Updated At: 2025-10-28T08:00:40.542Z
 
 ## Products
 
@@ -17499,7 +17499,7 @@
     Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/S827ac99b67834f608fec3a2ae467c83bB.webp?v=1760946795
     Price: $17.98 USD
 - [Wireless LED Motion Sensor Night Light - Plug In Auto Detector 220V Bedroom Staircase](https://jamiludincollection.com/products/wireless-led-motion-sensor-night-light-plug-in-motion-detector-bedroom-staircase-closet-bedside-night-lamp-220v-battery-powered): Wireless LED motion sensor night light, plug-in 220V. Auto detection for bedroom, staircase, closet. Energy efficient 0-5W, LED bulbs included. Perfect for safety, emergency, nighttime navigation.
-  Updated: 2025-10-26T03:50:23Z
+  Updated: 2025-10-28T07:08:36Z
   Vendor: Jamil's Marketplace
   Product Type: 
   Availability: Available
@@ -17532,14 +17532,14 @@
   Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/S90c9d48da4654c20bdb449698a4946d8e.webp?v=1760946794
   Price: $6.13 USD
 - [Stainless Steel Vegetable Peeler - Wide Mouth Cabbage Grater Potato Slicer](https://jamiludincollection.com/products/peeler-vegetables-fruit-stainless-steel-cabbage-graters-salad-potato-slicer-kitchen-accessories-cooking-tools-wide-mouth): Professional stainless steel vegetable peeler with wide mouth design. Sharp blade, non-slip handle, fast cutting. Perfect for vegetables, fruits, cabbage, potatoes, salads. Durable kitchen tool.
-  Updated: 2025-10-26T03:44:20Z
+  Updated: 2025-10-28T07:07:59Z
   Vendor: Jamil's Marketplace
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/S42fb41054d444e5fa79415a8c51db97an.webp?v=1760946795
   Price: $5.95 USD
 - [Motion Sensor LED Light Bulb E27 B22 - PIR Auto On/Off Dusk to Dawn Garage Porch](https://jamiludincollection.com/products/motion-sensor-led-light-bulb-e27-b22-pir-motion-activated-dusk-to-dawn-indoor-outdoor-led-light-bulb-for-garage-front-door-porch): Smart motion sensor LED bulb E27 B22 with PIR auto on/off. Dusk to dawn, 3-5m detection, 12W-20W. Perfect for garage, porch, stairs, hallway. Energy saving, 50000hrs lifespan. Easy install.
-  Updated: 2025-10-26T03:43:13Z
+  Updated: 2025-10-28T07:07:43Z
   Vendor: Jamil's Marketplace
   Product Type: 
   Availability: Available
@@ -17561,7 +17561,7 @@
     Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/Sa5b19b0da57542f0af8365c9523440c6V.webp?v=1760946796
     Price: $8.40 USD
 - [AILEO H7 LED Headlight Bulbs 16000LM Canbus - Mini Projector Lens 6500K 400W](https://jamiludincollection.com/products/aileo-2x-h7-led-headlight-bulbs-canbus-16000lm-400w-with-mini-projector-lens-for-car-motorcycle-6500k-white-lamps-high-low-beam): AILEO H7 LED headlight bulbs with mini projector lens. 16000LM, 400W, CANBUS error-free, 6500K white. 350% brighter than halogen. IP68 waterproof, adjustable beam, 50000hrs lifespan. Plug and play for car motorcycle.
-  Updated: 2025-10-26T03:40:15Z
+  Updated: 2025-10-28T07:07:34Z
   Vendor: Jamil's Marketplace
   Product Type: 
   Availability: Available
@@ -17575,28 +17575,28 @@
     Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/Sd9691e613f96465d8a64bedca40ea0df4.webp?v=1760946796
     Price: $41.84 USD
 - [4Pcs Scented Candle Set Gift - Islamic Arabian Pattern Smokeless Romantic Candles](https://jamiludincollection.com/products/4pcs-box-scented-candle-set-gift-islamic-arabian-patterns-fragrance-candle-jar-diy-smokeless-couples-romantic-incense-candles): 4 piece scented candle set with Islamic Arabian patterns. Smokeless fragrance jar candles, perfect for gifts, home decoration, romantic ambiance. DIY friendly, beautiful decorative jars. Ideal for couples, weddings, Ramadan.
-  Updated: 2025-10-26T03:35:48Z
+  Updated: 2025-10-28T06:36:08Z
   Vendor: Jamil's Marketplace
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/Saedb9149e5c44d009ebd5d87a1cb10d1y.webp?v=1760946796
   Price: $16.51 USD
 - [Outdoor Solar Motion Sensor Light - 3 Mode LED Garden Wall Security Lamp](https://jamiludincollection.com/products/outdoor-solar-light-with-3-mode-motion-sensor-security-lighting-led-garden-wall-street-lamp-solar-wall-lamp): Solar powered outdoor motion sensor light with 3 modes. LED garden wall street security lamp. Weatherproof, auto on/off, battery included. Easy install, eco-friendly. Perfect for home security and pathway lighting.
-  Updated: 2025-10-26T03:30:21Z
+  Updated: 2025-10-28T06:35:48Z
   Vendor: Jamil's Marketplace
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/Sff0ff25415f34ea587883d15e3271105E.webp?v=1760946796
   Price: $13.07 USD
 - [LED Footwell Light for VW Passat Golf Seat Skoda - 6000K Interior Lamp 2pcs](https://jamiludincollection.com/products/led-footwell-light-luggage-compartment-glove-box-lamps-for-seat-ateca-alhambra-skoda-rapid-vw-passat-b6-b7-golf-5-6-caddy): Premium LED footwell luggage glovebox lights for VW Passat Golf Caddy, Seat Ateca Alhambra, Skoda Rapid. 18 SMD 6000K white, 2400LM, T10 plug. Easy install, 2pcs set. Fits Audi A4, Porsche Cayenne.
-  Updated: 2025-10-26T03:28:28Z
+  Updated: 2025-10-28T06:29:28Z
   Vendor: Jamil's Marketplace
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/H9879374f599143639330b7a07096d75ai.webp?v=1760946797
   Price: $14.18 USD
 - [Large Capacity Storage Bag Organizer - Foldable Clothes Blanket Bedding Bag with Zipper](https://jamiludincollection.com/products/1pc-large-capacity-clothes-storage-bag-organizer-with-reinforced-handle-for-blankets-bedding-foldable-with-zipper-storage-bag): Large capacity storage bag organizer with reinforced handle. Foldable design, zipper closure, dust protection. Perfect for clothes, blankets, bedding, toys. Non-woven fabric, eco-friendly. Multiple sizes.
-  Updated: 2025-10-26T03:26:23Z
+  Updated: 2025-10-28T06:29:18Z
   Vendor: Jamil's Marketplace
   Product Type: 
   Availability: Available
@@ -17630,7 +17630,7 @@
     Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/S64b19a8283f14e2ba9fe52968692ac073.webp?v=1760946798
     Price: $10.42 USD
 - [Wearable Blanket Shawl - Soft Flannel Lazy Blanket for Home Office](https://jamiludincollection.com/products/1pc-wearable-blankets-shawl-blanket-flannel-lazy-casual-office-blanket): Soft wearable blanket shawl made from flannel. Hands-free comfort for home, office, couch. Polyester/cotton blend, lightweight, warm. Perfect for work from home, reading, TV. Machine washable.
-  Updated: 2025-10-26T03:24:20Z
+  Updated: 2025-10-28T06:29:08Z
   Vendor: Jamil's Marketplace
   Product Type: 
   Availability: Available
@@ -17664,7 +17664,7 @@
     Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/S31e0b4ea066248e483f240cf62763b2cs.webp?v=1760946799
     Price: $19.79 USD
 - [Solar LED String Lights 20-100 LEDs IP65 Waterproof - Outdoor Garden Christmas Fairy Lights](https://jamiludincollection.com/products/20-100-led-solar-light-outdoor-ip65-waterproof-string-fairy-lamps-solar-garden-garlands-christmas-decoration-12m): Solar powered LED string lights with 20-100 LEDs. IP65 waterproof, 8 lighting modes, auto on/off. Perfect for garden, patio, Christmas decoration. 800mAh battery, 8-10 hours runtime. Easy installation.
-  Updated: 2025-10-26T03:22:51Z
+  Updated: 2025-10-28T06:28:57Z
   Vendor: Jamil's Marketplace
   Product Type: 
   Availability: Available
@@ -17718,7 +17718,7 @@
     Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/Se52adb17690a46e194cecd278f0a201fS.webp?v=1760946800
     Price: $22.13 USD
 - [Electric Salt and Pepper Grinder Set with LED Light - Automatic Spice Mill](https://jamiludincollection.com/products/electric-automatic-salt-and-pepper-grinder-set-with-led-light-grinder-set-spice-mill-adjustable-spices-grinder-kitchen-tools): Electric automatic salt and pepper grinder set with LED light. One-hand operation, adjustable ceramic grinding core, transparent container. Battery powered kitchen spice mill. Easy refill design.
-  Updated: 2025-10-26T03:19:50Z
+  Updated: 2025-10-28T06:28:47Z
   Vendor: Jamil's Marketplace
   Product Type: 
   Availability: Available
@@ -17732,7 +17732,7 @@
     Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/S4333e68f8a2e46c7923c08be3991268f8.webp?v=1760946799
     Price: $20.80 USD
 - [12V 24V LED Rear Fog Light Waterproof - Truck Trailer Boat Brake Stop Lamp](https://jamiludincollection.com/products/1pc-12v-24v-12-led-waterproof-rear-tail-fog-light-driving-lamps-safety-warning-brake-stop-truck-trailer-boat-caravan-lorry): Professional 12V 24V LED rear fog light with 12 bright chips. Waterproof IP68, E-marked, universal fit for truck, trailer, boat, caravan. Easy installation, 2.4W low power. Red safety warning brake lamp.
-  Updated: 2025-10-26T03:17:38Z
+  Updated: 2025-10-28T06:28:37Z
   Vendor: Jamil's Marketplace
   Product Type: 
   Availability: Available
@@ -17746,7 +17746,7 @@
     Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/S1b1efc6f64c24a56b4282097705e25a96.webp?v=1760946853
     Price: $21.84 USD
 - [No Drill Bathroom Storage Shelf - Wall Mount Corner Shower Rack Organizer](https://jamiludincollection.com/products/no-drill-wall-mount-bathroom-storage-shelf-corner-shower-rack-organizer-with-adhesive): No drill bathroom storage shelf with strong adhesive. Space aluminum, waterproof, rust-proof. Corner shower rack organizer. Easy peel & stick installation. Black rectangle or triangle design.
-  Updated: 2025-10-26T03:13:46Z
+  Updated: 2025-10-28T06:28:20Z
   Vendor: Jamil's Marketplace
   Product Type: 
   Availability: Available
@@ -17760,7 +17760,7 @@
     Image: https://cdn.shopify.com/s/files/1/0691/1013/6983/files/S13423185152c4d0d83b584bb5b147536J.webp?v=1760946854
     Price: $9.10 USD
 - [LED Headlight Bulbs H7 H4 H11 6000K - Bright White Car Headlamp 12V](https://jamiludincollection.com/products/2pcs-led-headlight-h7-h4-h11-h8-h9-9005-hb3-9006-hb4-9012-hir2-h1-9008-h13-9004-9007-car-lights-bulbs-6000k-12v-auto-headlamp): Premium LED headlight bulbs 800% brighter than halogen. Compatible H7 H4 H11 H8 H9 9005 9006. 6000K white, IP68 waterproof, CANBUS ready. 2pcs set. Worldwide shipping!
-  Updated: 2025-10-26T03:09:47Z
+  Updated: 2025-10-28T06:27:14Z
   Vendor: Jamil's Marketplace
   Product Type: 
   Availability: Available
