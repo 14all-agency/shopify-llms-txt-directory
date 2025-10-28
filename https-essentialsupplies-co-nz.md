@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-06-08T03:43:26Z
 - Contact Email: info@essentialsupplies.co.nz
-- Updated At: 2025-10-27T08:01:02.277Z
+- Updated At: 2025-10-28T08:00:52.340Z
 
 ## Products
 
@@ -1061,7 +1061,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/acrylic-machine-packaging-tape-clear-48mm-x-1500m-x-55mu-5-rolls-machine-tape-essential-supplies-792600.jpg?v=1719444773
   Price: $173.00 NZD
 - [General Purpose Masking Tape - Cream, 24mm x 50m x 130mu - 72 Rolls - *2 Day Removal](https://essentialsupplies.co.nz/products/general-purpose-masking-tape-cream-24mm-x-50m-x-130mu-72-2-day-removal): Economy masking tape made from quality paper with a high strength rubber adhesive that can be removed cleanly from surfaces. Ideal for general masking applications such as painting, sealing and light duty packaging. For non critical masking applications Made from high quality paper High strength rubber adhesive Ideal for general masking applications such as painting, sealing and light duty packaging Colour: Cream Size: 24mm x 50mt Content: 72 Rolls
-  Updated: 2024-11-21T03:20:41Z
+  Updated: 2025-10-27T08:46:56Z
   Vendor: Mattews Packaging
   Product Type: Crepe Masking Tape
   Availability: Available
@@ -6792,7 +6792,7 @@
   Image: https://cdn.shopify.com/s/files/1/0563/9205/6912/files/pvc-floor-marking-tape-red-48mm-x-33m-x-150mu-floor-marking-tape-essential-supplies-539653.jpg?v=1719445675
   Price: $7.00 NZD
 - [PVC Floor Marking Tape - White, 48mm x 33m x 150mu](https://essentialsupplies.co.nz/products/pvc-floor-marking-tape-white-48mm-x-33m-x-150mu-18): Heavy duty floor marking tape made from coloured PVC film with a high strength tack adhesive and premium tensile strength. With good UV and waterproof resistance, ideal for marking factory and warehouse floor areas. Available in a range of vibrant colours.
-  Updated: 2024-11-19T23:35:37Z
+  Updated: 2025-10-27T11:40:40Z
   Vendor: Mattews Packaging
   Product Type: Floor Marking Tape
   Availability: Available
