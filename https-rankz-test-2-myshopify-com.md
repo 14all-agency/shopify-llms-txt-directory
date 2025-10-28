@@ -6,19 +6,19 @@
 - Timezone: America/New_York
 - Created At: 2025-10-20T08:44:40Z
 - Contact Email: aleksandar@pursuitz.io
-- Updated At: 2025-10-25T04:00:36.123Z
+- Updated At: 2025-10-28T00:01:13.737Z
 
 ## Products
 
-- [The Inventory Not Tracked Snowboard](https://rankz-test-2.myshopify.com/products/the-inventory-not-tracked-snowboard)
-  Updated: 2025-10-22T13:48:07Z
+- [Rankz-Test Untethered Snowboard for Unmatched Performance and Style](https://rankz-test-2.myshopify.com/products/the-inventory-not-tracked-snowboard)
+  Updated: 2025-10-27T20:31:35Z
   Vendor: rankz-test
   Product Type: snowboard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0696/3029/6142/files/snowboard_purple_hydrogen.png?v=1760949920
   Price: $949.95 USD
-- [Gift Card](https://rankz-test-2.myshopify.com/products/gift-card): This is a gift card for the store
-  Updated: 2025-10-22T13:27:09Z
+- [Snowboard Vendor Gift Card: Ideal Gift for Snowboard Lovers](https://rankz-test-2.myshopify.com/products/gift-card): Unlock the thrill of snowboarding with the Snowboard Vendor Gift Card! Perfect for enthusiasts, it offers access to top gear. Gift adventure today!
+  Updated: 2025-10-27T16:27:48Z
   Vendor: Snowboard Vendor
   Product Type: giftcard
   Availability: Available
@@ -49,7 +49,7 @@
   Image: https://cdn.shopify.com/s/files/1/0696/3029/6142/files/Main.jpg?v=1760949920
   Price: $885.95 USD
 - [The Compare at Price Snowboard](https://rankz-test-2.myshopify.com/products/the-compare-at-price-snowboard)
-  Updated: 2025-10-22T13:48:07Z
+  Updated: 2025-10-27T19:18:28Z
   Vendor: rankz-test
   Product Type: snowboard
   Availability: Available
@@ -108,8 +108,8 @@
   - [Sunset](https://rankz-test-2.myshopify.com/products/the-complete-snowboard?variant=43057185587278)
     Availability: Available
     Price: $699.95 USD
-- [The Collection Snowboard: Oxygen](https://rankz-test-2.myshopify.com/products/the-collection-snowboard-oxygen)
-  Updated: 2025-10-22T13:48:07Z
+- [Hydrogen Vendor Oxygen Snowboard for Epic Winter Fun](https://rankz-test-2.myshopify.com/products/the-collection-snowboard-oxygen): Experience ultimate winter adventures with the Hydrogen Vendor Oxygen Snowboard. Elevate your ride today—grab yours and conquer the slopes in style!
+  Updated: 2025-10-27T20:16:54Z
   Vendor: Hydrogen Vendor
   Product Type: snowboard
   Availability: Available
@@ -159,13 +159,13 @@
 ## Collections
 
 - [Home page](https://rankz-test-2.myshopify.com/collections/frontpage)
-  Updated: 2025-10-20T08:45:19Z
+  Updated: 2025-10-27T20:31:36Z
   Total Products: 1
 - [Automated Collection](https://rankz-test-2.myshopify.com/collections/automated-collection)
   Updated: 2025-10-20T08:45:49Z
   Total Products: 8
 - [Hydrogen](https://rankz-test-2.myshopify.com/collections/hydrogen)
-  Updated: 2025-10-20T08:45:20Z
+  Updated: 2025-10-27T18:37:04Z
   Total Products: 3
 
 ## Store Pages
