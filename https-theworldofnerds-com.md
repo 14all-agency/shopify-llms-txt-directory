@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2023-11-06T10:53:38Z
 - Contact Email: theworldofnerdscustomer@gmail.com
-- Updated At: 2025-10-27T16:00:52.527Z
+- Updated At: 2025-10-28T08:01:09.603Z
 
 ## Products
 
@@ -2671,11 +2671,11 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitled-2-Photoroom-Photoroom.png?v=1731661338
   Price: ₹6,699.00 INR
 - [ZORO-SANDAI KITETSU ENMA LED NEON WOODEN KATANA](https://theworldofnerds.com/products/zoro-samdai-kitetsu-enma-light-katana): Elevate your collection with Neon Wooden Katanas inspired by your favorite anime characters! Crafted from durable wood and ABS plastic, these katanas offer a lightweight yet sturdy design that is perfect for cosplay, display, or collectors. Each katana features vibrant neon lighting along the blade, adding a futuristic glow that brings iconic anime katanas to life. Whether you're channeling the spirit of your favorite anime hero or adding a unique piece to your katana collection, these neon katanas are sure to stand out. The combination of wood for authenticity and ABS plastic for resilience ensures a high-quality and long-lasting experience. Available in a variety of colors to match your favorite character’s katana, these glowing katanas are the ultimate anime accessory for any enthusiast. Shop now and bring the excitement of anime to life with a neon katana today.
-  Updated: 2025-10-24T16:48:30Z
+  Updated: 2025-10-28T06:50:47Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitled_2_1b92d5f6-a100-474d-bd4e-a101ee4e33ad.png?v=1731328460
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitled_2_66756c49-533b-464f-8317-253f2ed269f9.png?v=1761634247
   Price: ₹4,699.00 INR
 - [ZORO-PURPLE ENMA LED NEON WOODEN KATANA](https://theworldofnerds.com/products/zoro-purple-enma-light-katana): Elevate your collection with Neon Wooden Katanas inspired by your favorite anime characters! Crafted from durable wood and ABS plastic, these katanas offer a lightweight yet sturdy design that is perfect for cosplay, display, or collectors. Each katana features vibrant neon lighting along the blade, adding a futuristic glow that brings iconic anime katanas to life. Whether you're channeling the spirit of your favorite anime hero or adding a unique piece to your katana collection, these neon katanas are sure to stand out. The combination of wood for authenticity and ABS plastic for resilience ensures a high-quality and long-lasting experience. Available in a variety of colors to match your favorite character’s katana, these glowing katanas are the ultimate anime accessory for any enthusiast. Shop now and bring the excitement of anime to life with a neon katana today.
   Updated: 2025-10-24T16:51:46Z
@@ -2846,11 +2846,11 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitled_4_06bb2f63-79c1-4012-b493-6e178fb89dc8.png?v=1731496786
   Price: ₹2,399.00 INR
 - [TANJIRO-NEW NICHIRIN WOODEN KATANA](https://theworldofnerds.com/products/tanjiro-new-nichiirin-katana): Unleash the spirit of your favorite anime characters with our meticulously crafted anime katanas. Made from a perfect blend of high-quality wood and durable ABS plastic, these katanas offer an authentic look and feel while ensuring long-lasting performance. Ideal for collectors, cosplayers, and fans alike, each katana features detailed craftsmanship and lightweight construction, making it both visually stunning and easy to handle. Whether you’re adding to your collection or gearing up for your next cosplay, our anime katanas are built to impress with their durability, aesthetic appeal, and high-quality materials. Perfect for display or action-packed cosplay, these katanas bring the legendary katanas from your favorite anime to life.
-  Updated: 2025-10-24T16:56:08Z
+  Updated: 2025-10-28T06:51:37Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitled_1_aab057fb-6005-4ed9-ba27-cb4184cd9308.png?v=1731496977
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitled_2_84f00ce8-992f-40d6-8096-33908f05f46a.png?v=1761634297
   Price: ₹1,999.00 INR
 - [INOSUKE WOODEN KATANA](https://theworldofnerds.com/products/inosuke-katana): Unleash the spirit of your favorite anime characters with our meticulously crafted anime katanas. Made from a perfect blend of high-quality wood and durable ABS plastic, these katanas offer an authentic look and feel while ensuring long-lasting performance. Ideal for collectors, cosplayers, and fans alike, each katana features detailed craftsmanship and lightweight construction, making it both visually stunning and easy to handle. Whether you’re adding to your collection or gearing up for your next cosplay, our anime katanas are built to impress with their durability, aesthetic appeal, and high-quality materials. Perfect for display or action-packed cosplay, these katanas bring the legendary katanas from your favorite anime to life.
   Updated: 2025-10-24T16:55:05Z
@@ -8341,7 +8341,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/617_1.jpg?v=1748500599
   Price: ₹289.00 INR
 - [Black Panther Inspired Superhero Keychain](https://theworldofnerds.com/products/pikachu-d9-key-chain): This bold Black Panther-inspired keychain captures the strength and mystery of the iconic hero. With its sleek black design and white detailing, it adds a touch of Wakandan power to your everyday carry. Perfect for Marvel fans, collectors, and anyone who loves superhero vibes, this keychain is both stylish and symbolic—ready to guard your keys wherever you go.
-  Updated: 2025-10-27T04:54:40Z
+  Updated: 2025-10-27T16:54:44Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
