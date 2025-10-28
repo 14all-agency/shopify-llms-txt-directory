@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2024-06-01T16:53:27Z
 - Contact Email: Support@ursupermart.com
-- Updated At: 2025-10-28T16:01:21.289Z
+- Updated At: 2025-10-28T20:01:05.331Z
 
 ## Products
 
@@ -16780,7 +16780,7 @@
     Availability: Available
     Price: $46.95 USD
 - [Mini Dresses for Girls and Women Online](https://ursupermart.com/products/mini-dresses-for-women-casual-party-wear-outfits-online-2): Shop trendy mini dresses with ruffles, perfect for a night out or warm weather. Get chic, feminine styles with backless and short sleeve designs.
-  Updated: 2025-10-23T18:20:22Z
+  Updated: 2025-10-28T16:44:40Z
   Vendor: S1B|Updated - Trendsi
   Product Type: Mini Dress
   Availability: Available
