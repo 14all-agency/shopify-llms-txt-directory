@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-07-19T18:27:19Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2025-10-28T12:00:47.867Z
+- Updated At: 2025-10-28T16:00:44.232Z
 
 ## Products
 
@@ -833,7 +833,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/White.jpg?v=1757517222
     Price: $1.00 USD
 - [Brocade Velvet Fabric - Home Décor | Fabrics Star](https://fabricsstar.com/products/brocade-scroll-velvet-fabric): Add a touch of sophistication to your upholstery projects with Brocade Scroll Velvet Fabric from Fabrics Star. Buy brocade velvet fabric for premium quality fabric.
-  Updated: 2025-10-23T20:17:02Z
+  Updated: 2025-10-28T15:30:13Z
   Vendor: Fabrics Star
   Product Type: Velvet Fabric
   Availability: Available
@@ -9634,28 +9634,28 @@
   Updated: 2025-10-23T17:10:48Z
   Total Products: 32
 - [Jacquard Print Fabric | Printed Jacquard Fabric By The Yard](https://fabricsstar.com/collections/jacquards-fabrics): Explore premium jacquard fabrics at Fabrics Star. Buy jacquard fabric online for exquisite designs and top-notch quality, perfect for your next project!
-  Updated: 2025-10-26T14:53:09Z
+  Updated: 2025-10-28T15:17:09Z
   Total Products: 219
 - [Digital Print Fabric by the Yard | Digital Fabric Printing - Fabrics Star](https://fabricsstar.com/collections/digital-print-fabric): Discover stunning digital print fabric at Fabrics Star. Shop high-quality materials with vibrant designs, perfect for your creative projects and digital fabric printing.
-  Updated: 2025-10-23T17:10:48Z
+  Updated: 2025-10-28T14:39:48Z
   Total Products: 38
 - [Jacquard Print Fabric | Printed Jacquard Fabric By The Yard - Fabrics Star](https://fabricsstar.com/collections/jacquard-print-fabric): Shop elegant jacquard print fabric at Fabrics Star. Discover unique designs and premium-quality jacquard print materials for your creative projects!
   Updated: 2025-10-23T17:10:48Z
   Total Products: 26
 - [Our Full line of Fabrics](https://fabricsstar.com/collections/our-full-line-of-fabrics)
-  Updated: 2025-10-28T11:13:13Z
+  Updated: 2025-10-28T15:17:09Z
   Total Products: 666
 - [New! Shopify performance sharing is now turned on](https://fabricsstar.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2025-10-28T11:13:13Z
+  Updated: 2025-10-28T15:17:09Z
   Total Products: 666
 - [110](https://fabricsstar.com/collections/110)
-  Updated: 2025-10-28T11:13:13Z
+  Updated: 2025-10-28T15:17:09Z
   Total Products: 534
 - [72](https://fabricsstar.com/collections/72)
   Updated: 2025-10-28T11:13:13Z
   Total Products: 12
 - [APPPlaza - Best Sellers](https://fabricsstar.com/collections/appplaza-best-sellers)
-  Updated: 2025-10-28T11:13:13Z
+  Updated: 2025-10-28T15:17:09Z
   Total Products: 666
 
 ## Blogs
