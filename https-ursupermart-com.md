@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2024-06-01T16:53:27Z
 - Contact Email: Support@ursupermart.com
-- Updated At: 2025-10-27T12:01:12.139Z
+- Updated At: 2025-10-28T08:00:53.797Z
 
 ## Products
 
@@ -818,7 +818,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/halloween-decoration-spider-set-variety.webp?v=1758029680
     Price: $16.95 USD
 - [High Waisted Flare Pants Slimming Denim Leggings](https://ursupermart.com/products/slimming-high-waist-flare-denim-leggings): High waisted flare pants offer a comfy, retro style with stretchy fabric for all-day wear. Get your flattering pair today and embrace effortless fashion!
-  Updated: 2025-10-27T02:19:20Z
+  Updated: 2025-10-27T14:20:40Z
   Vendor: S1B|S1|Meta - Dsers** + Blog
   Product Type: Flare leggings
   Availability: Available
@@ -856,7 +856,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/slimming-high-waist-flare-denim-leggings.webp?v=1736473860
     Price: $26.95 USD
 - [Physical Therapy Grip Dynamometer Measure Hand Strength](https://ursupermart.com/products/smart-electronic-hand-dynamometer): This physical therapy grip dynamometer precisely tracks hand strength with its digital display and ergonomic design; start monitoring your progress and boost your recovery now.
-  Updated: 2025-10-27T02:21:52Z
+  Updated: 2025-10-27T14:21:56Z
   Vendor: S1B|S1|Meta - Dsers** + Blog
   Product Type: Digital Grip Dynamometer
   Availability: Available
@@ -2039,7 +2039,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/festive-christmas-tree-earrings-set.webp?v=1730927629
   Price: $12.95 USD
 - [Plaid Wool Coats – Timeless Fall & Winter Fashion](https://ursupermart.com/products/plaid-wool-coats-collection): Stay warm in style with our plaid wool coat collection. Featuring vibrant patterns, soft wool blend fabric, and versatile designs perfect for layering.
-  Updated: 2025-10-26T00:36:11Z
+  Updated: 2025-10-27T22:37:36Z
   Vendor: S1B|Meta - Trendsi
   Product Type: trench coat
   Availability: Available
@@ -17389,6 +17389,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/86e6ebc5-c62c-420d-bd59-820292942eb0.jpg?v=1746988052
   Price: $84.95 USD
+- [Mini GPS tracker for discreet real-time vehicle tracking.](https://ursupermart.com/products/mini-gps-tracker-discreet-real-time-vehicle-track): Mini GPS tracker provides discreet real-time monitoring for vehicles, assets, and loved ones. Gain peace of mind and enhance security; buy yours today!
+  Updated: 2025-10-28T03:25:35Z
+  Vendor: S1B|Make | CJ
+  Product Type: Mini GPS tracker
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/d07713eb-b532-4b3e-abce-4eff79e9a72e.jpg?v=1746988165
+  Price: $24.95 USD
 - [Solar Power Bank 10000mAh Portable Fast Charging](https://ursupermart.com/products/portable-solar-power-bank-for-camping-and-hiking): Portable Solar Power Bank for Camping and Hiking with Fast Charging and High Capacity 10000mAh Battery.
   Updated: 2025-10-23T17:51:09Z
   Vendor: S1B|Updated - CJ
@@ -21655,7 +21662,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/mens-plus-size-color-block-shirt.webp?v=1752792152
     Price: $32.95 USD
 - [Posture Corrector for Back Support and Relief](https://ursupermart.com/products/posture-corrector-for-back-pain-relief-and-lumbar-support): Improve your posture with our adjustable posture corrector for upper back pain relief and lumbar support, designed for everyday comfort and spinal alignment.
-  Updated: 2025-10-27T02:26:55Z
+  Updated: 2025-10-28T05:25:41Z
   Vendor: S1B|@Updated - CJ
   Product Type: Posture Corrector
   Availability: Available
@@ -26720,7 +26727,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/whale-bath-toy-light-fountain.webp?v=1759591925
   Price: $15.95 USD
 - [Toy Cockroaches Realistic Prank Toys for Fun Scares](https://ursupermart.com/products/toy-cockroaches-realistic-prank-props-for-fun): Toy Cockroaches provide realistic scares and endless fun for pranks, party decorations, get yours to surprise friends and family with a laugh
-  Updated: 2025-10-23T18:12:18Z
+  Updated: 2025-10-28T01:27:06Z
   Vendor: @S1B|S1|CJ
   Product Type: Toy Cockroaches
   Availability: Available
@@ -26809,6 +26816,54 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/life-size-halloween-prop-skeleton-bride-size.webp?v=1760147230
     Price: $24.95 USD
+- [Christmas Lights Unique LED Outdoor Ladder Decor Festive](https://ursupermart.com/products/christmas-lights-unique-led-outdoor-ladder-festive): Outdoor Christmas lights with multicolored LED ladder designs and charming Santa or bell figures instantly create a festive atmosphere; discover yours today!
+  Updated: 2025-10-28T07:44:46Z
+  Vendor: S1B|S1|eprolo
+  Product Type: Christmas ladder lights
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/christmas-ladder-lights-santa-decor.webp?v=1761593934
+  - [Warm / 1m](https://ursupermart.com/products/christmas-lights-unique-led-outdoor-ladder-festive?variant=42389370830938)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/christmas-ladder-lights-santa-indoor.webp?v=1761594257
+    Price: $24.95 USD
+  - [Warm / 2m](https://ursupermart.com/products/christmas-lights-unique-led-outdoor-ladder-festive?variant=42389370863706)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/christmas-ladder-lights-santa-indoor.webp?v=1761594257
+    Price: $29.95 USD
+  - [Warm / 3m](https://ursupermart.com/products/christmas-lights-unique-led-outdoor-ladder-festive?variant=42389370896474)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/christmas-ladder-lights-santa-indoor.webp?v=1761594257
+    Price: $34.95 USD
+  - [colorful / 1m](https://ursupermart.com/products/christmas-lights-unique-led-outdoor-ladder-festive?variant=42389370929242)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/christmas-ladder-lights-dual-santa-scene.webp?v=1761594058
+    Price: $24.95 USD
+  - [colorful / 2m](https://ursupermart.com/products/christmas-lights-unique-led-outdoor-ladder-festive?variant=42389370962010)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/christmas-ladder-lights-dual-santa-scene.webp?v=1761594058
+    Price: $29.95 USD
+  - [colorful / 3m](https://ursupermart.com/products/christmas-lights-unique-led-outdoor-ladder-festive?variant=42389370994778)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/christmas-ladder-lights-dual-santa-scene.webp?v=1761594058
+    Price: $34.95 USD
+- [Egg Opener: Crack Eggs Easily, No Mess, Clean Kitchen](https://ursupermart.com/products/egg-opener-crack-eggs-easily-no-mess-clean-kitchen): Discover the perfect egg opener for mess-free cracking, ensuring no shell fragments and saving time for all your cooking and baking needs; shop now!
+  Updated: 2025-10-28T02:05:09Z
+  Vendor: S1B|S1|eprolo
+  Product Type: egg shell opener
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/egg-shell-opener-colorful-compact-design.webp?v=1761595940
+  - [Yellow](https://ursupermart.com/products/egg-opener-crack-eggs-easily-no-mess-clean-kitchen?variant=42389374107738)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/egg-shell-opener-yellow-closed-front.webp?v=1761596122
+    Price: $9.99 USD
+  - [Pink](https://ursupermart.com/products/egg-opener-crack-eggs-easily-no-mess-clean-kitchen?variant=42389374140506)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/egg-shell-opener-pink-compact-tool.webp?v=1761596155
+    Price: $9.99 USD
+  - [Orange](https://ursupermart.com/products/egg-opener-crack-eggs-easily-no-mess-clean-kitchen?variant=42389374173274)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/egg-shell-opener-orange-mini-tool.webp?v=1761596190
+    Price: $9.99 USD
 - [Wallet Case Leather Flip Protect Phone & Carry Cards](https://ursupermart.com/products/wallet-case-leather-flip-protect-phone-carry-cards): Wallet case for Samsung phones securely holds cards and cash, protecting your device with a strong grip and clasp closure. Simplify your carry today!
   Updated: 2025-10-17T01:22:46Z
   Vendor: @S1B|S1|eprolo
@@ -28834,6 +28889,36 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/wrapping-paper-cutter-demonstration-cutting-rolls.webp?v=1760741449
   Price: $14.95 USD
+- [Christmas Brooch Pin for Women Festive Wreath Design](https://ursupermart.com/products/christmas-wreath-brooch-pin-for-women): This beautiful Christmas Brooch instantly elevates your holiday look with its festive wreath design and sparkling details; shop now to add cheer!
+  Updated: 2025-10-28T06:21:25Z
+  Vendor: @S1B|S1|eprolo
+  Product Type: Brooch
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/christmas-brooch-gift-set-collection.webp?v=1761619142
+  - [Christmas wreath](https://ursupermart.com/products/christmas-wreath-brooch-pin-for-women?variant=42478706557018)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/christmas-brooch-wreath-red-bell.webp?v=1761619142
+    Price: $9.99 USD
+  - [Christmas Snowman](https://ursupermart.com/products/christmas-wreath-brooch-pin-for-women?variant=42478706589786)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/christmas-brooch-white-tree-snowman.webp?v=1761619142
+    Price: $9.99 USD
+  - [Christmas tree](https://ursupermart.com/products/christmas-wreath-brooch-pin-for-women?variant=42478706622554)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/christmas-brooch-gold-tree-bells.webp?v=1761619142
+    Price: $9.99 USD
+- [Chair Covers Christmas - Festive and Easy Holiday Decor](https://ursupermart.com/products/christmas-chair-covers-festive-holiday-decor): Chair covers instantly transform your dining room into a festive Christmas wonderland with soft, vibrant designs; easily decorate and create holiday joy, shop today!
+  Updated: 2025-10-28T02:02:50Z
+  Vendor: S1B|S1|eprolo
+  Product Type: Chair Covers
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/chair-covers-folded-red-fabric-set.webp?v=1761616749
+  - [Santa Snowman](https://ursupermart.com/products/christmas-chair-covers-festive-holiday-decor?variant=42478706851930)
+    Availability: Available
+    Price: $11.95 USD
+  - [Red Envelop](https://ursupermart.com/products/christmas-chair-covers-festive-holiday-decor?variant=42478706884698)
+    Availability: Available
+    Price: $11.95 USD
 
 ## Collections
 
@@ -28859,7 +28944,7 @@
   Updated: 2025-10-25T11:06:59Z
   Total Products: 84
 - [Amazing Cozy Christmas Decor Deals Starting at Just $12](https://ursupermart.com/collections/cozy-christmas-decor-deals-under-30): Transform your home with cozy christmas decor deals under $30. Budget friendly holiday decorating solutions for Instagram-worthy spaces. Shop now!
-  Updated: 2025-10-25T20:14:01Z
+  Updated: 2025-10-28T02:39:01Z
   Total Products: 20
 - [LED Halloween Costumes & Masks | Spooky Accessories 2025](https://ursupermart.com/collections/spooky-wearable-tech-costumes): Shop LED Halloween costumes & masks that light up, move & make spooky sounds! Glow-in-the-dark Halloween accessories & decorations. Tech Halloween 2025!
   Updated: 2025-10-17T02:38:51Z
@@ -28883,7 +28968,7 @@
   Updated: 2025-10-18T01:49:14Z
   Total Products: 31
 - [Best Stocking Stuffers Under $15: Affordable Gift Ideas 2025](https://ursupermart.com/collections/stocking-stuffers-under-15-dollars): Stocking stuffers under $15 that look amazing. Budget gifts with free shipping. Quality items for everyone on your list. Shop smart and save money this holiday!
-  Updated: 2025-10-25T20:14:48Z
+  Updated: 2025-10-28T02:39:01Z
   Total Products: 89
 - [Top Gift Ideas Under $25 That Look Expensive - Beauty & Tech](https://ursupermart.com/collections/best-gift-ideas-under-25): Best gift ideas under $25 that look expensive! Budget beauty gifts, tech accessories & holiday gifts under 25 for everyone. Quality guaranteed today!
   Updated: 2025-10-24T13:31:42Z
@@ -28919,7 +29004,7 @@
   Updated: 2025-10-01T23:31:57Z
   Total Products: 33
 - [Gift Ideas – Unique, Cool, and Affordable Picks](https://ursupermart.com/collections/gift-ideas): Explore Gift Ideas for every occasion. Find unique, cool, and affordable gifts for birthdays, holidays, and special moments, all in one place and free shipping.
-  Updated: 2025-10-25T20:14:01Z
+  Updated: 2025-10-28T02:39:01Z
   Total Products: 33
 - [Top Mens Watches 2025: Luxury Waterproof Sales Under $125!](https://ursupermart.com/collections/best-mens-watches-luxury-waterproof): Shop trending mens watches 2025! Best waterproof luxury watches and stylish watches for men $15-$125. Free shipping, hassle-free returns!
   Updated: 2025-10-16T00:45:10Z
@@ -29210,6 +29295,10 @@
     Updated: 2025-10-27T01:24:11Z
     Author: Angel C
     Tags: best Halloween outdoor display, best outdoor Halloween decorations, black fuzzy Halloween spider, create a spooky Halloween scene, durable Halloween outdoor decor, durable outdoor spider decoration, easy setup Halloween decorations, extra large Halloween spider, eye-catching Halloween decorations, fuzzy poseable Halloween spider, Giant Halloween spider decoration, giant spider for Halloween haunted house, giant spider Halloween prop, Halloween decorations for business, Halloween decorations for schools, Halloween decorations that stand out, Halloween decorations with big impact, Halloween party decorations outdoor, Halloween spider and web set, Halloween spider web outdoor house, Halloween spider with red eyes, Halloween yard decor ideas, how to decorate for Halloween spooky, impressive Halloween spider prop, large outdoor spiderweb Halloween, large spider web Halloween decor, outdoor Halloween spider display, oversized Halloween spider for yard, oversized spider Halloween decorations., poseable spider Halloween prop, realistic Halloween spider prop, realistic oversized spider Halloween, scary Halloween spider web, scary spider web for house, spooky Halloween display ideas, spooky Halloween house decor, spooky outdoor Halloween decor, terrifying Halloween display, unique Halloween yard decorations
+  - [Maximize Strength: Your Guide to the Grip Dynamometer](https://ursupermart.com/blogs/ursupermart-news-updates/grip-dynamometer-unlock-strength-track): Maximize Strength: Your Guide to the Grip Dynamometer
+    Updated: 2025-10-28T02:55:35Z
+    Author: Angel C
+    Tags: accurate hand grip meter, affordable hand strength device, best grip dynamometer, digital grip strength analyzer, digital grip tester, digital hand dynamometer, digital hand grip strength meter., ergonomic grip strength tester, ergonomic hand dynamometer, grip dynamometer, grip strength device, grip strength evaluation, grip strength exercises, grip strength for sports, grip strength tracker, grip strength training device, hand dynamometer benefits, hand dynamometer for athletes, hand dynamometer for home use, hand grip strength test, hand injury rehabilitation, hand rehabilitation tools, hand strength for baseball, hand strength for climbing, hand strength for tennis, hand strength measurement, hand strength meter, hand strength physical therapy, hand strength progress, hand strength recovery, hand strength training, handheld grip strength meter, home grip strength test, improve grip strength, improve hand grip for golf, monitor grip strength, portable grip strength tester, portable hand strength tracker, therapy dynamometer, track hand strength at home
 - [Mom’s Cleaning Hacks: Smart Solutions for a Tidy Home](https://ursupermart.com/blogs/moms-cleaning-hacks): Discover time-saving, budget-friendly cleaning products and hacks for busy moms. Keep your home spotless with smart, easy-to-use solutions!
   - [Eco-Friendly Steel Mesh Dish Cloths – Durable & Sustainable](https://ursupermart.com/blogs/moms-cleaning-hacks/eco-friendly-steel-mesh-dish-cloths): Eco-Friendly Steel Mesh Dish Cloths – Durable & Sustainable
     Updated: 2025-08-07T23:11:00Z
