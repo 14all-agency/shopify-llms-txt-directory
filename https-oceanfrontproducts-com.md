@@ -6,12 +6,12 @@
 - Timezone: America/Denver
 - Created At: 2024-11-01T17:53:57Z
 - Contact Email: sglobalresorts@gmail.com
-- Updated At: 2025-10-28T08:00:58.817Z
+- Updated At: 2025-10-28T20:00:48.589Z
 
 ## Products
 
 - [Natural Soy Wax Scented Candle 9oz in Glass Jar](https://oceanfrontproducts.com/products/scented-soy-candle-9oz): Packed with immersive aromas, these scented candles come in 9oz glass jars and are one size (2.8″ × 3.5) (7.1cm × 8.8cm).
-  Updated: 2025-10-17T23:25:41Z
+  Updated: 2025-10-28T14:52:49Z
   Vendor: Oceanfront Products
   Product Type: Home Decor
   Availability: Available
