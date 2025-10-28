@@ -10,7 +10,7 @@
 - Contact Email: support@patiofyre.com
 - Contact Phone: 1-800-247-7384
 - Address: 20590 NE Empire Ave. Bend, OR 97701, United States of America
-- Updated At: 2025-10-28T08:00:33.402Z
+- Updated At: 2025-10-28T20:01:02.099Z
 
 Shop Patiofyre Today – Experience 8 Feet of Luxury Heat for Patios, Restaurants, and Backyards Nationwide
 
@@ -139,25 +139,25 @@ Shop Patiofyre Today – Experience 8 Feet of Luxury Heat for Patios, Restaurant
   Updated: 2024-09-24T17:07:40Z
   Total Products: 1
 - [Accessories | Patiofyre](https://www.patiofyre.com/collections/accessories): Enhance your patio heater with our top-quality accessories. Browse our selection to find the perfect addition to your outdoor space.
-  Updated: 2025-10-26T11:19:42Z
+  Updated: 2025-10-28T11:20:51Z
   Total Products: 13
 - [Jetlamps](https://www.patiofyre.com/collections/jetlamps): Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-  Updated: 2025-10-27T11:17:29Z
+  Updated: 2025-10-28T11:20:51Z
   Total Products: 3
 - [Best Selling Products](https://www.patiofyre.com/collections/best-selling-products)
-  Updated: 2025-10-27T11:17:29Z
+  Updated: 2025-10-28T11:20:51Z
   Total Products: 29
 - [Newest Products](https://www.patiofyre.com/collections/newest-products)
-  Updated: 2025-10-27T11:17:29Z
+  Updated: 2025-10-28T11:20:51Z
   Total Products: 29
 - [Jetlamp Only](https://www.patiofyre.com/collections/jetlamp-only)
-  Updated: 2025-10-27T11:17:29Z
+  Updated: 2025-10-28T11:20:51Z
   Total Products: 3
 - [Metro Jetlamp Collection | Patiofyre](https://www.patiofyre.com/collections/metro-jetlamps): Jetlamps elevate any outdoor space with stylish, smokeless, odorless, eco-friendly heat—at a fraction of the cost of propane.
-  Updated: 2025-10-27T11:17:29Z
+  Updated: 2025-10-28T11:20:51Z
   Total Products: 3
 - [Related Products - Jetlamp PDPs](https://www.patiofyre.com/collections/related-products-jetlamp-pdps)
-  Updated: 2025-10-25T11:19:01Z
+  Updated: 2025-10-28T11:20:51Z
   Total Products: 4
 
 ## Blogs
@@ -203,8 +203,8 @@ Shop Patiofyre Today – Experience 8 Feet of Luxury Heat for Patios, Restaurant
   - [Why Smart Dads Choose Wood Pellet Heaters | Patiofyre](https://www.patiofyre.com/blogs/patiofyre-blog/why-smart-dads-choose-wood-pellet-heaters): Why Smart Dads Choose Wood Pellet Heaters | Patiofyre
     Updated: 2025-10-26T16:19:12Z
     Author: Angela Korish
-  - [Why Wood Pellet Heaters Win on the Patio | Patiofyre](https://www.patiofyre.com/blogs/patiofyre-blog/why-wood-pellet-infrared-heaters-outperform-every-other-outdoor-heating-solution): Why Wood Pellet Heaters Win on the Patio | Patiofyre
-    Updated: 2025-10-27T23:51:06Z
+  - [Why Wood Pellet Infrared Heaters Win | Patiofyre](https://www.patiofyre.com/blogs/patiofyre-blog/why-wood-pellet-infrared-heaters-outperform-every-other-outdoor-heating-solution): Why Wood Pellet Infrared Heaters Win | Patiofyre
+    Updated: 2025-10-28T16:40:27Z
     Author: Adam Kleinberg
     Tags: Efficient Outdoor Heating, infrared heat, Wood Pellet Heater
 
