@@ -9,7 +9,7 @@
 - Created At: 2025-08-25T14:01:44Z
 - Contact Email: support@themineralskin.com
 - Address: 17 Heath Drive, London NW3 7SL, United Kingdom
-- Updated At: 2025-10-28T08:00:52.222Z
+- Updated At: 2025-10-28T16:00:56.457Z
 
 ## Products
 
@@ -69,13 +69,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0918/9451/3992/files/botanic-age-regression-cream-8204114.png?v=1757489617
   Price: $39.50 USD
-- [Shipping Protection - Mineral](https://themineralskin.com/products/ea-add-on-product): Protect your order from damage or theft during shipping. - Mineral - EA • Sticky Cart - Add On - Mineral
-  Updated: 2025-10-27T14:27:56Z
-  Vendor: Mineral
-  Product Type: EA • Sticky Cart - Add On
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0918/9451/3992/files/sp.webp?v=1759397634
-  Price: $1.60 USD
 - [The Modern Man’s Guide to Natural Skin (Ebook) - Mineral](https://themineralskin.com/products/the-modern-man-s-guide-to-natural-skin-ebook): A simple, science-backed guide for men who want healthy, natural skin—without harsh chemicals or 10-step routines. This book breaks down everything from what your skin truly needs to how to build a minimal, effective routine. 📘 Inside the book: Introduction: The New Face of Grooming Chapter 1: What Skin Actually Needs Chapter 2: Nature vs. Chemicals Chapter 3: Minimal Routine, Maximal Results Chapter 4: The Modern Man’s Mistakes Chapter 5: Building Your Natural Arsenal Chapter 6: Skincare as Self-Respect Conclusion: Back to the Source Bonus: Your Free Skin Coach Length: ~55 pagesPublisher: The Mineral Skin A clean, modern guide that helps men rediscover skincare as confidence, discipline, and self-respect — naturally. - Mineral -  - The Mineral
   Updated: 2025-10-21T18:41:03Z
   Vendor: The Mineral
@@ -105,8 +98,8 @@
   Updated: 2025-10-24T11:25:39Z
   Total Products: 5
 - [Best Selling Products](https://themineralskin.com/collections/best-selling-products)
-  Updated: 2025-10-27T14:25:04Z
-  Total Products: 10
+  Updated: 2025-10-28T10:27:57Z
+  Total Products: 9
 
 ## Blogs
 
