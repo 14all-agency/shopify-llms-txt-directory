@@ -6,7 +6,7 @@
 - Timezone: Europe/Athens
 - Created At: 2023-12-24T09:13:07Z
 - Contact Email: info@printexplore9.com
-- Updated At: 2025-10-28T04:00:37.260Z
+- Updated At: 2025-10-28T20:00:34.768Z
 
 ## Products
 
@@ -2378,8 +2378,8 @@
   Updated: 2025-10-12T09:42:32Z
 - [Information for AI Tools – AI Disclosure File](https://printexplore9.com/pages/llms-txt): Printexplore9 Your destination for organic skincare and sustainable fashion. This page provides instructions for Large Language Model (LLM) crawler...
   Updated: 2025-08-12T11:41:30Z
-- [Subscribe to Printexplore Insights](https://printexplore9.com/pages/subscribe-to-printexplore-insights): **Join Printexplore Insights** Get smart, actionable ideas on brand protection and growth — no spam. {% form 'klaviyo_form', 'TDkaJt' %}
-  Updated: 2025-10-27T14:17:49Z
+- [Subscribe to Printexplore Insights](https://printexplore9.com/pages/subscribe-to-printexplore-insights): **Join Printexplore Insights** Get smart, actionable ideas on brand protection and growth —
+  Updated: 2025-10-28T17:29:21Z
 
 ## Policies
 
