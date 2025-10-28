@@ -5,7 +5,7 @@
 - Currency: GBP
 - Timezone: Europe/London
 - Created At: 2025-07-08T18:58:24Z
-- Updated At: 2025-10-28T12:00:47.855Z
+- Updated At: 2025-10-28T16:00:41.387Z
 
 ## Products
 
@@ -217,13 +217,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/Etsy_beans_generic_08.jpg?v=1752762355
     Price: £9.59 GBP
-- [POWER COFFEE-HOUSE BLEND-COFFEE BREWER-Ground Coffee](https://orovacoffee.com/products/power-coffee-house-blend-coffeebrewer): A dynamic coffee fusion that harnesses the robustness of Brazilian and Ugandan coffee beans to invigorate your senses and elevate your day. Dive into rich undertones of silky chocolate, creamy caramel, and a harmonious balance of nutty essence and bright cherry. This robust combination is more than just a drink; it's a daily boost, designed to boost your productivity and sharpen your focus.
-  Updated: 2025-10-24T15:12:31Z
-  Vendor: The Brew Company
-  Product Type: Coffeebrewer
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/Power_coffee_Brewer_c.png?v=1752763352
-  Price: £2.99 GBP
 - [Ground Coffee – Hand Roasted- Single Origin – Costa Rica – CoffeeBrewer 21g](https://orovacoffee.com/products/costa-rica-coffeebrewer): Coffee production in the Tarrazu region in Costa Rica was started by two brothers - Estanislao and Jose Ureña Mora, who produced their coffee from two hectares of land. Nowadays, Tarrazu is the biggest innovation-driven coffee region in Costa Rica, producing SHB (Strictly Hard Bean) quality coffee. Processed through the honey method, it retains 70% of the mucilage on the bean before further processing, ensuring its distinctive sweetness.
   Updated: 2025-10-24T15:12:31Z
   Vendor: The Brew Company
@@ -246,12 +239,12 @@
   Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/tanzania-coffeebrewer-coffeebrewer-the-brew-company-244796.png?v=1752763355
   Price: £2.99 GBP
 - [Coffee Explorer Bundle 4 – 28 Coffeebrewers – 7 Origins – Coffeebrewers](https://orovacoffee.com/products/coffee-explorer-bundle-2): Dive into 7 distinct origins and explore coffee profiles from around the globe with this exclusive Coffeebrewer Bundle. We've curated 7 of our innovative Coffeebrewers, each filled with pre-ground coffee from a different origin.Please note that this bundle includes 4 of each of our 7 core Coffeebrewer options.
-  Updated: 2025-10-24T15:12:30Z
+  Updated: 2025-10-28T12:17:35Z
   Vendor: The Brew Company
   Product Type: Coffeebrewer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/Coffeebrewer_bundle_142-1.png?v=1752763353
-  Price: £59.99 GBP
+  Price: £45.99 GBP
 - [Ground Coffee – Hand Roasted-Single Origin – Guatemala– CoffeeBrewer 21g](https://orovacoffee.com/products/guatemala-coffeebrewer): Established in 1969, FEDECOCAGUA is a cooperative organization made up of 20,000 members. As the leading exporter of coffee from Guatemala, FEDECOCAGUA is perfectly positioned to provide certified main grades and micro lot specialties.
   Updated: 2025-10-24T15:12:31Z
   Vendor: The Brew Company
@@ -288,7 +281,7 @@
     Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/14Pcs_Advent_bean.png?v=1758369057
     Price: £34.99 GBP
 - [Premium Coffee Christmas Gift Box | Specialty Coffee Brewers](https://orovacoffee.com/products/merry-christmas-coffee-gift-box-london): Deck the halls and warm your mugs! This festive season, gift your loved ones the joy of sipping a delightful cup of specialty coffee, crafted with love and good cheer. Introducing our Christmas Specialty Coffee Gift Box, a curated selection of our finest single-origin specialty coffees. Delightfully hand-roasted at our Danish artisan roastery, each coffee offers a unique flavor and story, waiting to be brewed fresh in our signature ready-to-brew Coffeebrewer pouches.🎄 Indulge in 5 distinct single-origin specialty coffees, each crafted with our Danish artisan touch.🎄 Sustainably merry! Our Coffeebrewer packaging is not just lightweight and compact, but also responsibly made to be refilled and reused.🎄 Brewing joy has never been easier: Just open the Coffeebrewer, brew for 4-8 minutes, and let the festive flavors delight your palate.🎄 For more holiday cheer, reuse with ease—simply rinse, refill, and re-brew!
-  Updated: 2025-10-24T15:12:32Z
+  Updated: 2025-10-28T12:12:12Z
   Vendor: The Brew Company
   Product Type: Christmas Gift
   Availability: Available
@@ -301,12 +294,114 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/25Pcs_Advent_Coffeebrewer_2021_Custom_with_label.png?v=1758369057
   Price: £25.99 GBP
+- [SPECIALTY COFFEE BEAN ADVENT CALENDAR](https://orovacoffee.com/products/coffee-bean-advent-calendar): This festive season, gift the Coffee Bean Advent Calendar to a coffee lover or let it be the centerpiece of your yuletide mornings. Because nothing says "Christmas is coming" like the rich aroma of freshly brewed specialty coffee as you unveil beans hand-picked from 25 meticulously chosen coffee artisans and cooperatives, all waiting to brew magic in your mug.
+  Updated: 2025-10-28T12:14:57Z
+  Vendor: The Brew Company
+  Product Type: Christmas Gift
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/25Pcs_Advent_bean.png?v=1761653542
+  Price: £57.99 GBP
+- [SPECIALTY COFFEE CHRISTMAS GIFT BOX 2024](https://orovacoffee.com/products/specialty-coffee-christmas-gift-box-2024): Specially crafted for discerning professionals and esteemed clients, our Premium Coffee Gift Box serves as a refined gesture of appreciation and a sophisticated journey through the specialty coffee world. This selection features meticulously hand-roasted specialty coffees from our Danish artisan roastery, each with its unique traits and distinguished characteristics, presented in our signature Coffeebrewer pouches. ✔️Experience 7 single-origin specialty coffees, hand-roasted at our Danish artisan roastery ✔️Lightweight, compact & sustainable Coffeebrewer packaging ✔️Easy to use: open, brew for 4-8 minutes & serve ✔️Adjust the brewing intensity based on how much water you add ✔️Easy to reuse, simply rinse and refill
+  Updated: 2025-10-28T12:28:23Z
+  Vendor: The Brew Company B2B
+  Product Type: Gift Boxes
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/14Pcs_Merry_xmas_Red.png?v=1761654484
+  - [7 pcs](https://orovacoffee.com/products/specialty-coffee-christmas-gift-box-2024?variant=52029553246551)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/7Pcs_Merry_xmas_Red.png?v=1761654484
+    Price: £9.85 GBP
+  - [14 pcs](https://orovacoffee.com/products/specialty-coffee-christmas-gift-box-2024?variant=52029556162903)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/14Pcs_Merry_xmas_Red.png?v=1761654484
+    Price: £22.20 GBP
+- [CHRISTMAS TEA COLLECTION](https://orovacoffee.com/products/christmas-tea-collection): Treat yourself and your loved ones to an irresistible tea indulgence this Christmas! Our premium gift assortment consists of 7 organic and natural blends of tea, herbs and fruit bits, served in our sustainable and reusable Teabrewers, which ensure a far superior flavour extraction compared to any traditional tea bags. A gift that will surely impress even the avid tea lovers in your life!Discover the Christmas Tea Collection gift box:🍵 7 different organic loose leaf tea blends 🍵 7 festive tea flavours, including our most popular Nordic Berry Tea, Ginger Chai, Gluhwine Tea and Spicy Turmeric🍵 7 Innovative and sustainable tea brewers 🍵 Up to 14 delicious cups of tea you can share with your loved ones
+  Updated: 2025-10-28T12:28:25Z
+  Vendor: The Brew Company
+  Product Type: Christmas Gift
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/Tea_xmas_7Pcs_2024-_Compressify.io.jpg?v=1761654493
+  Price: £13.97 GBP
+- [WORLD'S FINEST SPECIALTY COFFEE GIFT BOX](https://orovacoffee.com/products/worlds-finest-coffee-gift-box): Treat your loved ones to a world-class coffee experience! World's Finest coffee gift box is the perfect introduction to our specialty coffee range and an amazing opportunity to experience a truly unique gourmet coffee moment, anytime and anywhere, thanks to our innovative Coffeebrewer concept.
+  Updated: 2025-10-28T12:28:22Z
+  Vendor: The Brew Company
+  Product Type: Gift Boxes
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/worlds-finest-specialty-coffee-gift-box-gift-boxes-the-brew-company-365656.png?v=1761654484
+  - [25 pcs](https://orovacoffee.com/products/worlds-finest-coffee-gift-box?variant=52029553410391)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/worlds-finest-specialty-coffee-gift-box-gift-boxes-the-brew-company-955913.png?v=1761654484
+    Price: £31.27 GBP
+  - [14 pcs](https://orovacoffee.com/products/worlds-finest-coffee-gift-box?variant=52029556097367)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/worlds-finest-specialty-coffee-gift-box-gift-boxes-the-brew-company-386183.png?v=1761654484
+    Price: £22.20 GBP
+  - [7 pcs](https://orovacoffee.com/products/worlds-finest-coffee-gift-box?variant=52029556130135)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/worlds-finest-specialty-coffee-gift-box-gift-boxes-the-brew-company-365656.png?v=1761654484
+    Price: £12.32 GBP
+- [DOMINICAN REPUBLIC COFFEEBREWER](https://orovacoffee.com/products/dominican-republic-coffeebrewer): The Dominican Republic is a historical landmark for worldwide coffee production. Originating in its small valleys with a favorable climate, our coffee is produced by one of the oldest farms in the Dominican Republic, the Rancho Arriba Finca, managed by the head of the Dominical Coffee Institute, Hector Jimanez. Growing in the natural shade of pine, Inga, Guava, and Macadamia trees, this coffee matures slowly and progressively before being harvested by hand.
+  Updated: 2025-10-28T12:28:07Z
+  Vendor: The Brew Company
+  Product Type: Coffeebrewer
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/dominican-republic-coffeebrewer-coffeebrewer-the-brew-company-843659.png?v=1761654486
+  Price: £2.43 GBP
+- [Power Coffee Gift Box](https://orovacoffee.com/products/power-coffee-gift-box): A dynamic coffee fusion that harnesses the robustness of Brazilian and Ugandan coffee beans to invigorate your senses and elevate your day. Dive into rich undertones of silky chocolate, creamy caramel, and a harmonious balance of nutty essence and bright cherry. This robust combination is more than just a drink; it's a daily boost, designed to boost your productivity and sharpen your focus.
+  Updated: 2025-10-28T12:28:23Z
+  Vendor: The Brew Company
+  Product Type: Gift Boxes
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/Power_coffee_1Pcs_08-_Compressify.io.jpg?v=1761654489
+  - [7 pcs](https://orovacoffee.com/products/power-coffee-gift-box?variant=52029553279319)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/Power_coffee_7Pcs_06-_Compressify.io.jpg?v=1761654489
+    Price: £9.85 GBP
+  - [14 pcs](https://orovacoffee.com/products/power-coffee-gift-box?variant=52029556064599)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/Power_coffee_14Pcs_05-_Compressify.io.jpg?v=1761654489
+    Price: £22.20 GBP
+- [SPECIALTY COFFEE BEAN CHRISTMAS GIFT BOX](https://orovacoffee.com/products/premium-specialty-coffee-bean-christmas-gift-box): Specially crafted for discerning professionals and esteemed clients, our Premium Coffee Gift Box serves as a refined gesture of appreciation and a sophisticated journey through the specialty coffee world. This selection features meticulously hand-roasted specialty coffees from our Danish artisan roastery, each with its unique traits and distinguished characteristics, presented in our signature 66g coffee bean taster packs. ✔️Experience 7 specialty coffee origins, hand-roasted at our Danish artisan roastery ✔️Lightweight, compact 66g coffee bean taster packs
+  Updated: 2025-10-28T12:28:23Z
+  Vendor: The Brew Company
+  Product Type: Gift Boxes
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/7Pcs_Advent_bean_01e3008b-b55f-4a16-a38a-d9056ad6495a.png?v=1761654489
+  - [7 pcs](https://orovacoffee.com/products/premium-specialty-coffee-bean-christmas-gift-box?variant=52029553344855)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/7Pcs_Advent_bean_01e3008b-b55f-4a16-a38a-d9056ad6495a.png?v=1761654489
+    Price: £13.14 GBP
+  - [14 pcs](https://orovacoffee.com/products/premium-specialty-coffee-bean-christmas-gift-box?variant=52029556195671)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/14Pcs_Advent_bean_45111f2c-a5ea-4564-8a4f-675e6aab719f.png?v=1761654490
+    Price: £26.32 GBP
+- [ORIGINAL SPECIALTY COFFEE ADVENT CALENDAR](https://orovacoffee.com/products/coffee-advent-calendar): Celebrate the lead-up to the magical day of Christmas with a daily revelry of 25 distinct specialty coffees, each with its own story and captivating aroma. The Coffeebrewer Advent Calendar is the perfect gift for a coffee lover, taking you on a journey around 25 different specialty coffee origins, hand-roasted and slow-crafted at our own artisan roastery in Denmark.The Coffee Advent Calendar contains 25 unique filter coffees, packaged in our innovative Coffeebrewers.
+  Updated: 2025-10-28T12:28:16Z
+  Vendor: The Brew Company
+  Product Type: Christmas Gift
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/25Pcs_Advent_Coffeebrewer_2021.png?v=1761654495
+  Price: £37.03 GBP
+- [POWER COFFEE HOUSE BLEND COFFEEBREWER](https://orovacoffee.com/products/power-coffee-house-blend-coffeebrewer): A dynamic coffee fusion that harnesses the robustness of Brazilian and Ugandan coffee beans to invigorate your senses and elevate your day. Dive into rich undertones of silky chocolate, creamy caramel, and a harmonious balance of nutty essence and bright cherry. This robust combination is more than just a drink; it's a daily boost, designed to boost your productivity and sharpen your focus.
+  Updated: 2025-10-28T12:28:15Z
+  Vendor: The Brew Company
+  Product Type: Coffeebrewer
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/Power_coffee_Brewer_c.png?v=1761654496
+  Price: £1.61 GBP
+- [RED Xmas](https://orovacoffee.com/products/red-xmas)
+  Updated: 2025-10-28T12:28:20Z
+  Vendor: The Brew Company
+  Product Type: advent calendar
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0928/8410/7607/files/Advent_calendar_original_Features-_Compressify.io.jpg?v=1761654491
+  Price: £27.15 GBP
 
 ## Collections
 
 - [Home page](https://orovacoffee.com/collections/frontpage)
-  Updated: 2025-10-24T15:12:38Z
-  Total Products: 22
+  Updated: 2025-10-28T12:17:36Z
+  Total Products: 21
 - [Coffee And Tea example products](https://orovacoffee.com/collections/coffee-and-tea-example-products)
   Updated: 2025-10-15T09:02:11Z
   Total Products: 0
