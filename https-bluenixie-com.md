@@ -6,12 +6,12 @@
 - Timezone: Asia/Kolkata
 - Created At: 2023-05-03T12:56:46Z
 - Contact Email: bluenixiein23@gmail.com
-- Updated At: 2025-10-28T00:01:12.890Z
+- Updated At: 2025-10-28T12:00:47.128Z
 
 ## Products
 
 - [Bluenixie BN2514_Teesta C & D Cups Cotton Rich Full Coverage T-Shirt Bra](https://bluenixie.com/products/full-coverage-t-shirt-bra): Made of cotton rich pleated fabric in full coverage design. Broad shoulder straps for better support. 30mm broad under bust belt for better grip. 3x3 57mm eye hook for max support. Removable straps options available.
-  Updated: 2025-10-26T10:16:40Z
+  Updated: 2025-10-28T07:55:52Z
   Vendor: Blue Nixie
   Product Type: Full coverage bra
   Availability: Available
@@ -1041,7 +1041,7 @@
     Image: https://cdn.shopify.com/s/files/1/0759/1339/6538/files/210PINK_1.jpg?v=1687353859
     Price: ₹405.00 INR
 - [Bluenixie BNSL0020_Semilongs Anti Chaffing Stretch Cotton Boys Shorts](https://bluenixie.com/products/bnsemilongs-anti-chaffing-stretch-cotton-boys-shorts): Made of Stretch Cotton Fabric in anti chaffing style for snug fit. It prevents frictions between thighs so prevents body rashes on those parts. Can be worn under skirts,pants,ethnic wear,saree,school uniform etc. Best suited for plus size beauties.
-  Updated: 2025-10-16T07:33:53Z
+  Updated: 2025-10-28T06:53:09Z
   Vendor: Blue Nixie
   Product Type: Clothing
   Availability: Available
@@ -6485,10 +6485,10 @@
 ## Collections
 
 - [Home page](https://bluenixie.com/collections/frontpage): Explore Bluenixie for lingerie, bras, shorts, nightwear, and more. Shop a variety of styles for women, men, and kids.
-  Updated: 2025-10-27T11:08:44Z
+  Updated: 2025-10-28T11:20:01Z
   Total Products: 35
 - [Women](https://bluenixie.com/collections/women)
-  Updated: 2025-10-27T11:08:44Z
+  Updated: 2025-10-28T11:20:01Z
   Total Products: 79
 - [Men](https://bluenixie.com/collections/men)
   Updated: 2025-05-09T12:03:01Z
@@ -6497,16 +6497,16 @@
   Updated: 2025-05-09T12:03:01Z
   Total Products: 0
 - [Bra](https://bluenixie.com/collections/bra)
-  Updated: 2025-10-27T11:08:44Z
+  Updated: 2025-10-28T11:20:01Z
   Total Products: 59
 - [padded bra](https://bluenixie.com/collections/padded-bra)
   Updated: 2025-10-26T11:11:33Z
   Total Products: 8
 - [t shirt bra](https://bluenixie.com/collections/t-shirt-bra)
-  Updated: 2025-10-26T11:11:33Z
+  Updated: 2025-10-28T11:20:01Z
   Total Products: 40
 - [full Coverage bra](https://bluenixie.com/collections/full-coverage-bra)
-  Updated: 2025-10-27T11:08:44Z
+  Updated: 2025-10-28T11:20:01Z
   Total Products: 42
 - [minimizer bra](https://bluenixie.com/collections/minimizer-bra)
   Updated: 2025-10-06T11:09:23Z
@@ -6539,7 +6539,7 @@
   Updated: 2025-08-30T11:11:25Z
   Total Products: 6
 - [shorts](https://bluenixie.com/collections/shorts)
-  Updated: 2025-09-29T11:10:02Z
+  Updated: 2025-10-28T11:20:01Z
   Total Products: 9
 - [capri](https://bluenixie.com/collections/capri)
   Updated: 2025-05-09T12:03:02Z
@@ -6554,16 +6554,16 @@
   Updated: 2025-05-15T13:24:07Z
   Total Products: 1
 - [Panties](https://bluenixie.com/collections/panties)
-  Updated: 2025-09-29T11:10:02Z
+  Updated: 2025-10-28T11:20:01Z
   Total Products: 8
 - [hipster](https://bluenixie.com/collections/hipster)
   Updated: 2025-05-16T19:52:13Z
   Total Products: 5
 - [boys shorts](https://bluenixie.com/collections/boys-shorts)
-  Updated: 2025-09-29T11:10:02Z
+  Updated: 2025-10-28T11:20:01Z
   Total Products: 2
 - [cycling shorts](https://bluenixie.com/collections/cycling-shorts)
-  Updated: 2025-09-29T11:10:02Z
+  Updated: 2025-10-28T11:20:01Z
   Total Products: 2
 - [Perfume and intimate care](https://bluenixie.com/collections/perfume-and-intimate-care)
   Updated: 2025-05-09T12:03:02Z
@@ -6632,34 +6632,34 @@
   Updated: 2024-12-05T10:51:56Z
   Total Products: 0
 - [inner wear](https://bluenixie.com/collections/inner-wear)
-  Updated: 2025-10-27T11:08:44Z
+  Updated: 2025-10-28T11:20:01Z
   Total Products: 43
 - [Brands](https://bluenixie.com/collections/brands)
   Updated: 2025-10-27T11:08:44Z
   Total Products: 10
 - [bluenixie](https://bluenixie.com/collections/bluenixie)
-  Updated: 2025-10-27T11:08:44Z
+  Updated: 2025-10-28T11:20:01Z
   Total Products: 77
 - [ego trip](https://bluenixie.com/collections/ego-trip): Ego Trip men's shorts
   Updated: 2025-05-09T12:03:04Z
   Total Products: 1
 - [Recommended-products](https://bluenixie.com/collections/recommended-products): Highly selling products from Bluenixie with minimum complaints from customers across india and abroad.
-  Updated: 2025-10-27T11:08:44Z
+  Updated: 2025-10-28T11:20:01Z
   Total Products: 49
 - [best-seller-product](https://bluenixie.com/collections/best-seller-product)
-  Updated: 2025-10-27T11:08:44Z
+  Updated: 2025-10-28T11:20:01Z
   Total Products: 56
 - [GST 12%](https://bluenixie.com/collections/gst-12)
   Updated: 2025-05-09T12:03:04Z
   Total Products: 0
 - [GST 5%](https://bluenixie.com/collections/gst-5)
-  Updated: 2025-10-27T11:08:44Z
+  Updated: 2025-10-28T11:20:01Z
   Total Products: 95
 - [Plus Size Bra](https://bluenixie.com/collections/plus-size-bra)
   Updated: 2025-10-27T11:08:44Z
   Total Products: 13
 - [Everyday](https://bluenixie.com/collections/everyday)
-  Updated: 2025-10-27T11:08:44Z
+  Updated: 2025-10-28T11:20:01Z
   Total Products: 59
 - [Minimize (ER) Your bounce](https://bluenixie.com/collections/minimize-er-your-bounce)
   Updated: 2025-10-26T11:11:33Z
@@ -6674,10 +6674,10 @@
   Updated: 2025-10-27T11:08:44Z
   Total Products: 44
 - [New products](https://bluenixie.com/collections/new-collection)
-  Updated: 2025-10-27T11:08:44Z
+  Updated: 2025-10-28T11:20:01Z
   Total Products: 98
 - [Best selling products](https://bluenixie.com/collections/best-selling-collection)
-  Updated: 2025-10-27T11:08:44Z
+  Updated: 2025-10-28T11:20:01Z
   Total Products: 98
 - [Fashion Bra](https://bluenixie.com/collections/fashion)
   Updated: 2025-10-27T11:08:44Z
@@ -6698,7 +6698,7 @@
   Updated: 2025-05-09T12:03:05Z
   Total Products: 6
 - [Quick Order](https://bluenixie.com/collections/quick-order)
-  Updated: 2025-10-27T11:08:44Z
+  Updated: 2025-10-28T11:20:01Z
   Total Products: 98
 - [Wholesale Products](https://bluenixie.com/collections/wholesale-products)
   Updated: 2025-05-09T12:03:05Z
