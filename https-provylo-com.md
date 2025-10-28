@@ -6,33 +6,19 @@
 - Timezone: America/New_York
 - Created At: 2025-07-07T04:43:21Z
 - Contact Email: marlybest782@gmail.com
-- Updated At: 2025-10-27T08:00:41.765Z
+- Updated At: 2025-10-28T16:00:37.646Z
 
 ## Products
 
-- [Mini Robe Nayela Élégante | Coupe Ajustée Confort](https://provylo.com/products/mini-dress-nayela-elegance): Découvrez la mini robe Nayela élégante avec sa coupe ajustée flatteuse. Confort exceptionnel et style intemporel pour toutes vos occasions spéciales.
-  Updated: 2025-10-25T01:36:24Z
-  Vendor: PROVYLO
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0652/3305/9923/files/provylo-white-s-nayela-mini-dress-30615266394195.jpg?v=1760801223
-  - [White / S](https://provylo.com/products/mini-dress-nayela-elegance?variant=42893084917843)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0652/3305/9923/files/provylo-white-s-nayela-mini-dress-30615266525267.jpg?v=1760801226
-    Price: 47,99 $ USD
-  - [Black / S](https://provylo.com/products/mini-dress-nayela-elegance?variant=42907782283347)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0652/3305/9923/files/provylo-white-s-nayela-mini-dress-30615758241875.jpg?v=1760801231
-    Price: 47,99 $ USD
 - [Zafira Mini Robes Élégance et exclusivité quantité limitée](https://provylo.com/products/zafira-mini-dresses): Découvrez les Zafira Mini Dresses, des robes courtes élégantes et modernes. Style sophistiqué, coupe parfaite, qualité premium. Livraison rapide chez PROVYLO.
-  Updated: 2025-10-25T01:36:24Z
+  Updated: 2025-10-28T14:27:10Z
   Vendor: PROVYLO
   Product Type: Mini dress
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0652/3305/9923/files/provylo-mini-dress-black-xs-s-zafira-mini-dresses-30615087579219.jpg?v=1760801236
   Price: 57,99 $ USD
 - [Virella Mini dresses - Élégance et Confort](https://provylo.com/products/virella-mini-dress-et-style-sophistique): Découvrez les Virella Mini dresses, alliant confort et style pour toutes les occasions. Une touche moderne pour votre garde-robe.
-  Updated: 2025-10-25T01:36:25Z
+  Updated: 2025-10-28T14:24:48Z
   Vendor: PROVYLO
   Product Type: 
   Availability: Available
@@ -50,7 +36,7 @@
     Image: https://cdn.shopify.com/s/files/1/0652/3305/9923/files/provylo-pink-s-virella-mini-dress-et-style-sophistique-5-30543976497235.jpg?v=1760801238
     Price: 69,99 $ USD
 - [MIini Dress leyah - Élégance et Confort](https://provylo.com/products/miini-dress-leyah): Découvrez la MIini Dress leyah, une robe bustier au motif floral qui allie confort et style pour vos soirées estivales.
-  Updated: 2025-10-25T01:36:25Z
+  Updated: 2025-10-28T14:18:21Z
   Vendor: PROVYLO
   Product Type: Mini dress
   Availability: Available
@@ -75,7 +61,7 @@
   Image: https://cdn.shopify.com/s/files/1/0652/3305/9923/files/provylo-white-s-maxi-dress-avelina-30646559506515.jpg?v=1760801248
   Price: 47,99 $ USD
 - [Mini Dress Clessi - Élégance Simplicité](https://provylo.com/products/mini-dress-clessi): Découvrez la Mini Dress Clessi, un style mode simple et confortable. Consultez notre tableau des tailles pour un ajustement parfait.
-  Updated: 2025-10-25T01:36:25Z
+  Updated: 2025-10-28T14:27:19Z
   Vendor: PROVYLO
   Product Type: 4
   Availability: Available
@@ -232,7 +218,7 @@
     Image: https://cdn.shopify.com/s/files/1/0652/3305/9923/files/provylo-mini-dress-xs-vert-midnight-siren-midi-dress-midnight-siren-midi-dress-midnight-siren-midnight-siren-midi-dress-30914785214547.jpg?v=1760801283
     Price: 60,99 $ USD
 - [Sexy Black Turtleneck Mini Dress - PROVYLO](https://provylo.com/products/sexy-black-turtleneck-mini-dress): Step out in style with the Sexy Black Turtleneck Mini Dress. This chic piece is perfect for any fashion-forward wardrobe, featuring a flattering  - PROVYLO
-  Updated: 2025-10-25T01:36:26Z
+  Updated: 2025-10-28T14:24:47Z
   Vendor: PROVYLO
   Product Type: 
   Availability: Available
@@ -270,7 +256,7 @@
     Image: https://cdn.shopify.com/s/files/1/0652/3305/9923/files/provylo-black-s-sexy-black-turtleneck-mini-dress-lg2zpgkr9-31057210835027.webp?v=1760801289
     Price: 39,28 $ USD
 - [Mini Dress Bodycon Backless- Robe de Soirée Sexy Élégante | PROVYLO](https://provylo.com/products/mini-dress-bodycon-backless): Mini Dress Bodycon Backless. Robe moulante dos nu élégante et sexy, parfaite pour vos soirées. Livraison rapide. Commandez maintenant
-  Updated: 2025-10-25T01:36:26Z
+  Updated: 2025-10-28T14:27:13Z
   Vendor: PROVYLO
   Product Type: 
   Availability: Available
@@ -324,7 +310,7 @@
     Image: https://cdn.shopify.com/s/files/1/0652/3305/9923/files/provylo-black-s-backless-bodycon-mini-dress-kudes45-31057214046291.webp?v=1760797982
     Price: 32,94 $ USD
 - [Strapless Backless Sexy Mini Dress for Women - PROVYLO](https://provylo.com/products/strapless-backless-sexy-mini-dress-for-women): Unleash your inner diva with the Mozision Strapless Backless Sexy Mini Dress, designed for women who want to make a statement at any club or party.  - PROVYLO
-  Updated: 2025-10-25T01:36:26Z
+  Updated: 2025-10-28T14:24:49Z
   Vendor: PROVYLO
   Product Type: 
   Availability: Available
@@ -354,7 +340,7 @@
     Image: https://cdn.shopify.com/s/files/1/0652/3305/9923/files/provylo-black-l-strapless-backless-sexy-mini-dress-for-women-1802239116839116802-31057213358163.webp?v=1760797989
     Price: 58,78 $ USD
 - [Maxi Dress Backless Knitted](https://provylo.com/products/backless-knitted-maxi-dress): Maxi Dress Backless Knitted : style chic et confort optimal. Tricot doux, dos nu élégant. Idéale pour vos soirées et événements spéciaux. Achetez maintenant !
-  Updated: 2025-10-25T01:36:26Z
+  Updated: 2025-10-28T14:27:15Z
   Vendor: PROVYLO
   Product Type: 
   Availability: Available
@@ -396,7 +382,7 @@
     Image: https://cdn.shopify.com/s/files/1/0652/3305/9923/files/provylo-khaki-small-s-backless-knitted-maxi-dress-1dlx0nz-31057252581459.webp?v=1760798010
     Price: 59,79 $ USD
 - [Elegant Bordeaux Lapel Mix Maxi Overcoat - PROVYLO](https://provylo.com/products/elegant-bordeaux-lapel-mix-maxi-overcoat): Élégance hivernale avec notre Maxi Manteau Bordeaux. Alliez confort et style sans compromis. Idéal pour un hiver sophistiqué. Découvrez-le dès maintenant !
-  Updated: 2025-10-25T01:36:26Z
+  Updated: 2025-10-28T14:18:29Z
   Vendor: PROVYLO
   Product Type: 
   Availability: Available
@@ -414,7 +400,7 @@
     Image: https://cdn.shopify.com/s/files/1/0652/3305/9923/files/provylo-s-elegant-bordeaux-lapel-mix-maxi-overcoat-qawarhy-31057254547539.webp?v=1760798020
     Price: 164,06 $ USD
 - [Maxi Dress Strapless high split Style raffiné.](https://provylo.com/products/maxi-dress-strapless-high-split): Robe maxi bustier élégante avec fente haute pour un style chic et raffiné. Idéale pour attirer tous les regards lors de vos sorties estivales.
-  Updated: 2025-10-25T01:36:26Z
+  Updated: 2025-10-28T14:18:46Z
   Vendor: PROVYLO
   Product Type: Maxi Dress
   Availability: Available
@@ -480,7 +466,7 @@
     Image: https://cdn.shopify.com/s/files/1/0652/3305/9923/files/provylo-wine-red-m-strapless-asymmetrical-high-split-maxi-dress-ggxkavqtk-31057256513619.webp?v=1760798032
     Price: 59,13 $ USD
 - [Deep V-Neck Camisole Maxi Dress - PROVYLO](https://provylo.com/products/deep-v-neck-camisole-maxi-dress): Embrace effortless elegance with this deep V-neck camisole maxi dress. Featuring a flattering A-line silhouette and a sleeveless design, it offers a  - PROVYLO
-  Updated: 2025-10-25T01:36:26Z
+  Updated: 2025-10-28T14:30:39Z
   Vendor: PROVYLO
   Product Type: 
   Availability: Available
@@ -666,7 +652,7 @@
     Image: https://cdn.shopify.com/s/files/1/0652/3305/9923/files/provylo-orange-s-deep-v-neck-camisole-maxi-dress-z73zzak3h-31057256841299.webp?v=1760798048
     Price: 39,25 $ USD
 - [2018 Winter Matching Mother-Daughter Faux Fur Coats Opale - PROVYLO](https://provylo.com/products/2018-winter-matching-mother-daughter-faux-fur-coats-opale): 2018 Winter Matching Mother-Daughter Faux Fur Coats Opale Les manteaux d'hiver assortis mère-fille "Opale" 2018 en fausse fourrure allient  - PROVYLO
-  Updated: 2025-10-25T01:36:27Z
+  Updated: 2025-10-28T14:30:39Z
   Vendor: PROVYLO
   Product Type: Manteaux
   Availability: Available
@@ -688,7 +674,7 @@
     Image: https://cdn.shopify.com/s/files/1/0652/3305/9923/files/provylo-manteaux-model-model-xl-2018-winter-matching-mother-daughter-faux-fur-coats-opale-1775157257707810823-31057260544083.webp?v=1760798103
     Price: 125,76 $ USD
 - [Jupe Confort & Style casual chic polyvalente - PROVYLO](https://provylo.com/products/jupe-confort-style-casual-chic): Jupe polyvalente casual chic alliant confort et style. Parfaite pour le quotidien ou les sorties. Coupe flatteuse, tissu agréable
-  Updated: 2025-10-25T01:36:27Z
+  Updated: 2025-10-28T14:30:39Z
   Vendor: PROVYLO
   Product Type: jupe
   Availability: Available
@@ -710,7 +696,7 @@
     Image: https://cdn.shopify.com/s/files/1/0652/3305/9923/files/p-ppgzCu-provylo-a-l-comfortable-all-match-sexy-skirt-for-casual-fashion-1775124405637128194-31057278533715.png?v=1760798296
     Price: 60,13 $ USD
 - [Long Sleeve Bodycon Midi Dress - PROVYLO](https://provylo.com/products/long-sleeve-bodycon-midi-dress): Elevate your wardrobe with this Women's Long Sleeve Slim Fit Bodycon Midi Dress, designed to accentuate your silhouette while providing comfort and  - PROVYLO
-  Updated: 2025-10-25T01:36:27Z
+  Updated: 2025-10-28T14:30:39Z
   Vendor: PROVYLO
   Product Type: 
   Availability: Available
@@ -728,7 +714,7 @@
     Image: https://cdn.shopify.com/s/files/1/0652/3305/9923/files/provylo-s-long-sleeve-bodycon-midi-dress-2d76pwa-31057280139347.webp?v=1760798115
     Price: 49,14 $ USD
 - [Short Sleeve Zipper Midi Dress - PROVYLO](https://provylo.com/products/short-sleeve-zipper-midi-dress): Robe midi à manches courtes avec fermeture éclair. Design uni et détails couture. Col carré élégant. Jupe ample et flatteuse. Confort polyester. Facile à
-  Updated: 2025-10-25T01:36:27Z
+  Updated: 2025-10-28T14:30:39Z
   Vendor: PROVYLO
   Product Type: 
   Availability: Available
@@ -830,7 +816,7 @@
     Image: https://cdn.shopify.com/s/files/1/0652/3305/9923/files/provylo-black-m-short-sleeve-zipper-midi-dress-gy8ei0lce-31057284366419.webp?v=1760798147
     Price: 44,46 $ USD
 - [Robe Midi à Lacets avec Fente | Style Corset Élégant PROVYLO](https://provylo.com/products/lace-up-slit-midi-dress): Robe midi élégante à lacets style corset avec fente latérale. Parfaite pour toutes occasions. Tissu respirant et coupe flatteuse. PROVYLO.
-  Updated: 2025-10-25T01:36:27Z
+  Updated: 2025-10-28T14:27:20Z
   Vendor: PROVYLO
   Product Type: 
   Availability: Available
@@ -1036,7 +1022,7 @@
     Image: https://cdn.shopify.com/s/files/1/0652/3305/9923/files/provylo-pink-yellow-xs-lace-up-slit-midi-dress-ne90jnx2m-31057290002515.webp?v=1760798212
     Price: 62,83 $ USD
 - [Robe Midi Élégante + Sac Assorti | Ensemble Mode Femme Canada](https://provylo.com/products/robe-midi-elegante-sac-assorti-ensemble-femme): Ensemble robe midi élégante avec sac assorti. Style chic professionnel et décontracté. Livraison rapide Canada. Qualité premium PROVYLO.
-  Updated: 2025-10-25T01:36:27Z
+  Updated: 2025-10-28T14:28:24Z
   Vendor: PROVYLO
   Product Type: Ensembles Femme
   Availability: Available
@@ -1074,7 +1060,7 @@
     Image: https://cdn.shopify.com/s/files/1/0652/3305/9923/files/provylo-beige-m-lady-s-midi-dress-with-arm-bag-1788798905748299779-31057284300883.webp?v=1760798238
     Price: 62,17 $ USD
 - [Women's Multi-color Multi-size Woolen Trench Coat Coat prestige -](https://provylo.com/products/womens-multi-color-multi-size-woolen-trench-coat-coat-prestige): Manteau en laine multicolore pour femmes. Style unique et sofisticé. Osez vous démarquer avec élégance en toute occasion!
-  Updated: 2025-10-25T01:36:27Z
+  Updated: 2025-10-28T14:27:20Z
   Vendor: PROVYLO
   Product Type: Manteaux
   Availability: Available
@@ -1176,7 +1162,7 @@
     Image: https://cdn.shopify.com/s/files/1/0652/3305/9923/files/provylo-manteaux-navy-blue-s-women-s-multi-color-multi-size-woolen-trench-coat-coat-prestige-qjbzr4d-31057292886099.webp?v=1760798262
     Price: 91,00 $ USD
 - [Women's Casual Zipper Trench Élégance Coat - PROVYLO](https://provylo.com/products/womens-casual-zipper-trench-elegance-coat): Ce trch-coat léger préste une silhouette classique avec un col classique, des manches longues et une fermeture éclair sur le devant. Confectionné  - PROVYLO
-  Updated: 2025-10-25T01:36:27Z
+  Updated: 2025-10-28T14:26:30Z
   Vendor: PROVYLO
   Product Type: 
   Availability: Available
@@ -1266,7 +1252,7 @@
     Image: https://cdn.shopify.com/s/files/1/0652/3305/9923/files/provylo-green-s-women-s-casual-zipper-trench-elegance-coat-z9n8zxo6b-31057293770835.webp?v=1760798283
     Price: 94,11 $ USD
 - [Quel manteau chaud choisir pour homme hiver - PROVYLO](https://provylo.com/products/woolen-coat-velours): Découvrez notre manteau en laine velours PROVYLO pour homme. Style élégant et chaleur garantie pour affronter l'hiver avec classe. Qualité premium.
-  Updated: 2025-10-25T01:36:27Z
+  Updated: 2025-10-28T14:26:31Z
   Vendor: PROVYLO
   Product Type: Manteaux
   Availability: Available
