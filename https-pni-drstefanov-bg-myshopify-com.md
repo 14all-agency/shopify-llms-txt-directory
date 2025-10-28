@@ -8,7 +8,7 @@
 - Timezone: Europe/Sofia
 - Created At: 2023-01-26T07:29:03Z
 - Contact Email: order@zoomagazin.eu
-- Updated At: 2025-10-27T04:00:41.084Z
+- Updated At: 2025-10-28T08:00:52.629Z
 
 [BRAND]
 Нечовешки магазини Д-р Стефанов" е водеща верига зоомагазини в България, лидер в грижата за домашни любимци. Разполагаме с десетки физически обекти в 14 града, както и онлайн магазин с над 30 000 продукта.
@@ -17,28 +17,28 @@
 ## Collections
 
 - [Всичко за кучето - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/kucheta): Продукти за кучета – храна, аксесоари, играчки, грижа за здравето и много други. Всичко за вашия любимец на едно място в зоомагазин Д-р Стефанов.
-  Updated: 2025-10-26T16:30:07Z
-  Total Products: 7133
+  Updated: 2025-10-28T00:58:34Z
+  Total Products: 7134
 - [Храни за кучета - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/hrani-za-kucheta): Качествена храна за кучета - суха храна, паучове, консерви, barf храни и много други предложения. Разгледайте в зоомагазин Д-р Стефанов още сега.
-  Updated: 2025-10-26T16:30:07Z
-  Total Products: 1531
+  Updated: 2025-10-27T15:09:14Z
+  Total Products: 1532
 - [Суха храна и гранули за кучета - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/granuli-za-kucheta): Открийте висококачествени гранули за кучета – пълноценна храна за всяка порода и възраст. Богат избор от марки с бърза доставка и гарантирано качество.
-  Updated: 2025-10-26T16:30:07Z
-  Total Products: 878
+  Updated: 2025-10-27T15:09:14Z
+  Total Products: 879
 - [Сурова храна BARF за кучета - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/barf-hrani): Открийте висококачествена сурова храна BARF за кучета. Здравословен избор за силен имунитет и енергия от зоомагазин Д-р Стефанов.
   Updated: 2025-10-16T20:49:37Z
   Total Products: 52
 - [Консерви, пастети и паучове за кучета - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/konservirana-khrana-pasteti-i-paketcheta-za-kucheta): Вкусни и пълноценни консерви, пастети и паучове за кучета. Подходящи за всяка порода и възраст - разгледайте предложенията на зоомагазин Д-р Стефанов.
-  Updated: 2025-10-26T16:30:07Z
+  Updated: 2025-10-27T10:14:55Z
   Total Products: 598
 - [Лечебни храни за кучета - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/lechebni-hrani-za-kuche): Лечебни храни за кучета – специални диети за подкрепа при здравословни проблеми. Осигурете правилно хранене и по-добро качество на живота на любимеца си!
   Updated: 2025-10-26T11:38:49Z
   Total Products: 185
 - [Съдове за храна и вода за кучета - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/sadove-za-hrana-i-voda): Купички и поилки за кучета – удобни, здрави и подходящи за всяка порода. Гарантирайте комфорт на вашия любимец с предложенията на зоомагазин Д-р Стефанов.
-  Updated: 2025-10-26T12:04:46Z
+  Updated: 2025-10-28T00:58:34Z
   Total Products: 287
 - [Продукти за спане и почивка за кучета - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/legla-odeala-postelki): Комфортни легла, меки одеяла и практични постелки, с които ще осигурете уют и топлина на вашето куче. Разгледайте предложенията на зоомагазин Д-р Стефанов.
-  Updated: 2025-10-26T11:53:45Z
+  Updated: 2025-10-27T14:00:54Z
   Total Products: 406
 - [Кучешки продукти за дома и двора - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/za-doma-i-dvora): Създайте безопасна и уютна среда у дома и в двора с нашите разнообразни продукти. Разгледайте всичко в зоомагазин Д-р Стефанов!
   Updated: 2025-10-26T11:33:48Z
@@ -47,19 +47,19 @@
   Updated: 2025-10-26T11:31:56Z
   Total Products: 29
 - [Козметика за кучета - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/kozmetika-i-gruuming): Купете висококачествена козметика за кучета и продукти за грууминг на супер цени от зоомагазин Д-р Стефанов. Поръчайте бързо и лесно с доставка сега.
-  Updated: 2025-10-26T11:53:37Z
+  Updated: 2025-10-27T19:30:07Z
   Total Products: 757
 - [Транспортни продукти за кучета - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/transport): Пътувайте с лекота и комфорт с нашата селекция от транспортни продукти за кучета: чанти, клетки, колани и аксесоари. Купете от Д-р Стефанов днес!
   Updated: 2025-10-26T11:35:12Z
   Total Products: 166
 - [Шампоани и балсами за кучета - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/shampoani-i-balsami): Разгледайте висококачествените продукти, които предлагаме - шампоани за кучета, както и балсами и спрейове от реномирани производители. Поръчайте още днес!
-  Updated: 2025-10-26T11:53:37Z
+  Updated: 2025-10-27T19:30:07Z
   Total Products: 421
 - [Дезодоранти и парфюми за кучета - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/dezodoranti-i-parfyumi): Тук ще откриете селекция от качествени и специално разработени за дезодоранти и парфюми за кучета. Разгледайте предложенията на зоомагазин Д-р Стефанов.
   Updated: 2025-10-26T11:53:30Z
   Total Products: 50
 - [Кремове за лапи и нос за кучета - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/kremove-za-lapi-i-nos): Продукти за лапи и нос за кучета - крем за лапи, слънцезащитен крем за нос, балсами, защитни лосиони. Поръчайте бързо и лесно от зоомагазин Д-р Стефанов.
-  Updated: 2025-10-26T11:53:47Z
+  Updated: 2025-10-27T19:30:06Z
   Total Products: 26
 - [Четки, пудри и пасти за зъби за кучета - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/dentalni-produkti): Купете четка, паста за зъби, вода за уста, дентален спрей за кучета и много други продукти за дентална хигиена. Поръчайте от зоомагазин Д-р Стефанов днес.
   Updated: 2025-10-26T11:50:24Z
@@ -68,7 +68,7 @@
   Updated: 2025-10-16T20:49:37Z
   Total Products: 3
 - [Мокри кърпи за кучета и котки - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/mokri-karpi): Вземете мокри кърпички за кучета или котки от зоомагазин Д-р Стефанов и се погрижете за вашия нечовек. Поръчайте още днес с удобна доставка.
-  Updated: 2025-10-26T11:51:31Z
+  Updated: 2025-10-27T19:30:07Z
   Total Products: 22
 - [Машинки за подстригване на кучета - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/mashinki-za-podstrigvane): Изберете вашата машинка за подстригване на кучета от зоомагазин Д-р Стефанов. Предлагаме висококачествени тримери, електрически машинки и още много.
   Updated: 2025-10-17T08:43:47Z
@@ -95,7 +95,7 @@
   Updated: 2025-10-26T11:50:13Z
   Total Products: 59
 - [Капки за уши и очи за кучета - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/kapki-za-ochi-i-ushi-za-kuche): Капки за уши и очи за кучета – нежна и ефективна грижа при възпаления и раздразнения. Поддържайте хигиената и здравето на любимеца си! Поръчайте сега онлайн!
-  Updated: 2025-10-26T11:51:31Z
+  Updated: 2025-10-27T19:30:07Z
   Total Products: 91
 - [Памперси и пелени за кучета - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/pampersi-i-peleni): Висококачествени памперси и пелени в разнообразни размери за малки и възрастни кучета. Пазарувайте удобно от зоомагазин Д-р Стефанов!
   Updated: 2025-10-26T11:45:24Z
@@ -110,7 +110,7 @@
   Updated: 2025-10-26T11:35:15Z
   Total Products: 30
 - [Нашийници, поводи и нагръдници за кучета - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/povodi): Нашийници, поводи и нагръдници за кучета от всички породи и размери. Разгледайте предложенията и направете правилния избор със зоомагазин Д-р Стефанов!
-  Updated: 2025-10-26T11:41:51Z
+  Updated: 2025-10-27T08:12:30Z
   Total Products: 1301
 - [Автоматични поводи за кучета - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/avtomatichni-povodi): Сигурни и лесни за използване, нашите автоматични поводи за кучета ви предлагат удобство по време на разходката. Поръчайте сега от зоомагазин Д-р Стефанов!
   Updated: 2025-10-23T07:23:51Z
@@ -119,37 +119,37 @@
   Updated: 2025-10-17T08:45:34Z
   Total Products: 12
 - [Всичко за котката - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/kotki): Качествени продукти за котки – храни, играчки и аксесоари за здраве и комфорт. Погрижете се за вашия любимец още сега! Поръчайте бързо и лесно онлайн сега!
-  Updated: 2025-10-26T16:30:08Z
+  Updated: 2025-10-28T00:58:34Z
   Total Products: 2384
 - [Храни за котки - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/hrani-za-kotki): Балансирани храни за котки с всички необходими нутриенти за силно здраве и енергия. Изберете най-доброто за своя любимец днес! Поръчайте онлайн лесно сега!
-  Updated: 2025-10-26T16:30:07Z
+  Updated: 2025-10-27T15:05:57Z
   Total Products: 1363
 - [Суха храна и гранули за котки](https://pni-drstefanov-bg.myshopify.com/collections/granuli-za-kotki): Вкусни гранули за котки с пълноценни съставки за поддържане на добро здраве и жизненост. Купете сега и осигурете най-добрата храна! Поръчайте онлайн лесно!
-  Updated: 2025-10-26T16:30:07Z
+  Updated: 2025-10-27T15:05:57Z
   Total Products: 383
 - [Пауч за котки - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/pauchove-za-kotki): Свежи и сочни паучове за котки – вкусна и питателна храна, която вашият любимец ще обожава. Поръчайте лесно онлайн още сега от Зоомагазин Д-р Стефанов!
-  Updated: 2025-10-26T11:41:31Z
+  Updated: 2025-10-27T10:00:10Z
   Total Products: 382
 - [Консерви и пастет за котки - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/konservi-i-pasteti-za-kotki): Консерви и пастети за котки с богат вкус и хранителна стойност. Осигурете удоволствие и здраве на котката си още днес! Поръчайте онлайн бързо и лесно!
-  Updated: 2025-10-26T16:30:07Z
+  Updated: 2025-10-27T10:00:10Z
   Total Products: 441
 - [Лечебни храни за котки - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/lechebni-hrani-za-kotki): Специализирани лечебни храни за котки за поддържане на здравето при специфични нужди. Вземете най-добрата грижа сега! Поръчайте бързо и лесно с доставка.
   Updated: 2025-10-26T11:41:50Z
   Total Products: 169
 - [Съдове за храна и вода за котки - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/sadove-za-hrana-i-voda-1): Практични и стилни съдове за храна и вода, създадени за комфорт при хранене. Изберете удобство и поръчайте сега онлайн бързо и лесно с доставка.
-  Updated: 2025-10-23T07:25:05Z
+  Updated: 2025-10-28T00:58:34Z
   Total Products: 89
 - [Хранилки и поилки за котки - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/dispensari): Функционални и удобни хранилки и поилки за котки за здравословно хранене и хидратация. Купете сега и се погрижете за котката си! Поръчайте онлайн лесно!
-  Updated: 2025-10-17T07:58:20Z
+  Updated: 2025-10-28T00:58:34Z
   Total Products: 10
 - [Подложки за близане и бавно хранене за котки - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/podlozhki-za-hranene): Подложки за бавно хранене и близане, които помагат за по-добро храносмилане и контрол на теглото. Вземете сега! Поръчайте онлайн бързо и лесно с доставка.
   Updated: 2025-10-16T20:49:38Z
   Total Products: 7
 - [Козметика и хигиенни продукти за котки - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/kozmetichni-i-higienni-produkti): Грижа за кожата и козината с качествени козметични продукти. Осигурете здраве и красота на котката си – купете сега! Поръчайте онлайн бързо и лесно!
-  Updated: 2025-10-26T11:53:37Z
+  Updated: 2025-10-27T19:30:07Z
   Total Products: 100
 - [Шампоани и балсами за котки - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/balsami-i-shampoani): Нежни шампоани и балсами за мека и блестяща козина. Поддържайте котката си чиста и здрава – поръчайте лесно и бързо онлайн с доставка от Зоомагазин Д-р Стефанов.
-  Updated: 2025-10-26T11:53:37Z
+  Updated: 2025-10-27T19:30:07Z
   Total Products: 92
 - [Аксесоари за къпане на котки - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/aksesoari-za-kapane): Практични аксесоари за къпане, които правят грижата лесна и приятна. Осигурете комфорт при къпането – вземете сега! Поръчайте онлайн с доставка бързо и лесно.
   Updated: 2025-10-26T11:48:11Z
@@ -272,28 +272,28 @@
   Updated: 2025-10-26T11:49:55Z
   Total Products: 33
 - [Хигиенни продукти за кучета - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/higienni-produkti): Тук ще откриете богато разнообразие от хигиенни продукти за кучета. Поръчайте от зоомагазин Д-р Стефанов с доставка сега.
-  Updated: 2025-10-26T11:51:55Z
+  Updated: 2025-10-27T19:30:07Z
   Total Products: 232
 - [Облекло и принадлежности за кучета - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/drehi-obuvki-aksesoari): Стилни дрехи, удобни обувки и разнообразни аксесоари за кучета – за защита, комфорт и модерен вид на вашия любимец при всякакви условия.
-  Updated: 2025-10-23T23:58:51Z
+  Updated: 2025-10-27T08:12:33Z
   Total Products: 395
 - [Специални продукти за стопаните на кучета - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/за-стопанина-1): Насладете се на всеки ден с нашите тематични артикули за стопаните на кучета. Разгледайте пълната селекция онлайн от зоомагазин Д-р Стефанов!
   Updated: 2025-10-26T11:34:06Z
   Total Products: 38
 - [Онлайн ветеринарна аптека](https://pni-drstefanov-bg.myshopify.com/collections/apteka): Разгледайте голямото разнообразие от лекарства, добавки и продукти за здравето на домашни любимци, което предлагаме. Поръчай удобно с бърза доставка до дома!
-  Updated: 2025-10-26T11:53:48Z
+  Updated: 2025-10-27T19:30:07Z
   Total Products: 1226
 - [Ветеринарномедицински продукти за кучета - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/meditsinski-produkti-za-kucheta): Ветеринарномедицински продукти за кучета – лекарства, витамини и грижа за здравето на вашето куче. Поръчайте онлайн от Зоомагазин Д-р Стефанов сега лесно!
-  Updated: 2025-10-26T11:53:48Z
+  Updated: 2025-10-27T19:30:07Z
   Total Products: 847
 - [Продукти за обезпаразитяване на кучета - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/protivoparazitni-produkti): Продукти за обезпаразитяване на кучета – ефективна защита от бълхи, кърлежи и вътрешни паразити. Поддържайте здравето на любимеца си с лесно приложение!
-  Updated: 2025-10-26T11:48:14Z
+  Updated: 2025-10-27T19:30:07Z
   Total Products: 67
 - [Биберони и адаптирани млека за кучета - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/biberoni-i-adaptirano-mlyako): Биберони и адаптирани млека за кучета – специална грижа за новородени кученца. Осигурете правилно хранене и здравословен старт в живота! Поръчайте лесно онлайн!
   Updated: 2025-10-26T11:38:26Z
   Total Products: 15
 - [Обезболяващи и успокоителни за кучета](https://pni-drstefanov-bg.myshopify.com/collections/успокояващи-и-обезболяващи): Успокоителни и болкоуспокояващи за кучета – помощ при стрес, тревожност и болка. Осигурете комфорт и спокойствие на своя любимец при нужда! Поръчайте сега!
-  Updated: 2025-10-26T11:48:10Z
+  Updated: 2025-10-27T19:30:06Z
   Total Products: 51
 - [Пробиотици за кучета - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/probiotitsi): Пробиотици за кучета – подпомагат храносмилането, имунитета и здравето на червата. Осигурете баланс и комфорт на своя любимец всеки ден! Поръчайте онлайн сега!
   Updated: 2025-10-26T11:50:18Z
@@ -302,16 +302,16 @@
   Updated: 2025-10-26T11:49:54Z
   Total Products: 6
 - [Ветеринарномедицински продукти за котки - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/meditsinski-produkti-za-kotki): Ветеринарномедицински продукти за котки – лекарства, витамини и грижа за здравето на вашата котка. Поръчайте лесно и бързо с доставка до дома! Поръчайте сега!
-  Updated: 2025-10-26T11:51:45Z
+  Updated: 2025-10-27T19:30:06Z
   Total Products: 390
 - [Биберони и адаптирани млека за котки - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/biberoni-i-adaptirano-mlyako-za-kotki): Биберони и адаптирани млека за котки – специална грижа за новородени и слаби котенца. Осигурете правилно хранене и здравословен старт в живота им!
   Updated: 2025-10-16T20:49:41Z
   Total Products: 7
 - [Капки за уши и очи за котки - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/kapki-za-ochi-i-ushi-za-kotka-1): Капки за уши и очи за котки – нежна и ефективна грижа при възпаления и раздразнения. Поддържайте хигиената и здравето на вашата котка лесно и безопасно!
-  Updated: 2025-10-26T11:51:31Z
+  Updated: 2025-10-27T19:30:06Z
   Total Products: 42
 - [Успокоителни и обезболяващи за котки - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/uspokoyavashti-i-obezbolyavashti-1): Успокоителни и обезболяващи за котки – помощ при стрес, тревожност и болка. Осигурете комфорт и спокойствие на вашия любимец при нужда! Поръчайте онлайн сега!
-  Updated: 2025-10-26T11:48:05Z
+  Updated: 2025-10-27T19:30:06Z
   Total Products: 36
 - [Ветеринарномедицински продукти за гризачи - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/meditsinski-produkti-za-grizachi): Ветеринарномедицински продукти за гризачи – лекарства и добавки за здраве и дълголетие на малките ви любимци. Грижа и защита с лесна поръчка онлайн!
   Updated: 2025-10-26T11:27:42Z
@@ -338,16 +338,16 @@
   Updated: 2025-10-16T20:49:41Z
   Total Products: 3
 - [Диспенсъри за храна и вода за кучета - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/dispensari-za-kucheta): Открийте диспенсъри за храна и вода за кучета. Поддържайте домашния си любимец винаги нахранен и хидратиран – автоматични и ръчни модели на достъпни цени.
-  Updated: 2025-10-17T07:58:20Z
+  Updated: 2025-10-28T00:58:34Z
   Total Products: 14
 - [Автоматични хранилки за кучета - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/avtomatichni-hranilki-za-kucheta): Автоматични хранилки за кучета за редовно и прецизно хранене на вашия любимец. Разнообразие от модели с таймери и дозатори от зоомагазин Д-р Стефанов.
-  Updated: 2025-10-26T11:39:39Z
+  Updated: 2025-10-28T00:58:34Z
   Total Products: 13
 - [Бутилки за вода за кучета - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/shisheta-za-voda): Удобни и практични шишета за вода за кучета – идеални за разходки, пътувания и активни дни навън. Лесни за носене и използване - разгледайте още сега!
   Updated: 2025-10-26T11:35:01Z
   Total Products: 7
 - [Контейнери и кутии за кучешка хранa - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/konteyneri-za-kucheshka-hrana): Запазете храната свежа и защитена от влага и вредители с контейнери за кучешка храна. Разгледайте разнообразието от модели в онлайн зоомагазин Д-р Стефанов.
-  Updated: 2025-10-23T15:30:07Z
+  Updated: 2025-10-27T10:14:53Z
   Total Products: 8
 - [Подложки за хранене за кучета - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/подложки-за-хранене-за-кучета): Нехлъзгащи се и лесни за поддръжка подложки за хранене на кучета. Разгледайте разнообразието от различни размери и цветове в зоомагазин Д-р Стефанов.
   Updated: 2025-10-26T11:36:02Z
@@ -393,16 +393,16 @@
   Total Products: 29
 - [Лакомства за кучета
  - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/kucheta-lakomstva): Открийте вкусни лакомства за кучета в онлайн зоомагазин Д-р Стефанов! Подберете здравословни и апетитни награди, подходящи за всички породи и възрасти.
-  Updated: 2025-10-26T12:04:45Z
+  Updated: 2025-10-27T10:00:08Z
   Total Products: 848
 - [Акваристика - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/akvaristika): Акваристика – всичко за аквариуми, риби и аксесоари. Осигурете здравословна и красива среда за вашите водни любимци с качествени продукти! Разгледайте сега!
   Updated: 2025-10-26T11:51:11Z
   Total Products: 697
 - [Одеяла за кучета - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/odeala-za-kucheta): Меки и топли одеяла за кучета – идеални както за у дома, така и за в колата по време на пътуване. Разгледайте нашите предложения и поръчайте сега.
-  Updated: 2025-10-17T09:04:33Z
+  Updated: 2025-10-27T14:00:47Z
   Total Products: 7
 - [Затоплящи и охлаждащи постелки за кучета - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/zatoplyashti-i-ohlazhdashti-postelki): Осигурете топлина през зимата и прохлада в горещите дни с нашите затоплящи и охлаждащи постелки за кучета. Разгледайте онлайн в зоомагазин Д-р Стефанов.
-  Updated: 2025-10-16T20:49:42Z
+  Updated: 2025-10-27T14:00:41Z
   Total Products: 6
 - [Строги нашийници за кучета - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/strog-nashiynik): За контрол при обучение и разходки изберете строг нашийник, който коригира поведението безопасно и ефективно. Поръчайте от зоомагазин Д-р Стефанов!
   Updated: 2025-10-23T07:22:40Z
@@ -432,13 +432,13 @@
   Updated: 2025-10-23T23:58:51Z
   Total Products: 62
 - [Дрехи за кучета - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/drehi-za-kucheta): Якета за кучета, суичери, зимни дрехи, рокли, бански и още много други дрехи за кучета Разгледайте красивите предложения на зоомагазин Д-р Стефанов.
-  Updated: 2025-10-23T07:47:08Z
+  Updated: 2025-10-27T08:12:33Z
   Total Products: 288
 - [Електронни нашийници и каишки за кучета - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/elektronen-nashiynik): Контрол и обучение с едно докосване – изберете електронен нашийник, който е безопасен, ефективен и лесен за употреба. Поръчайте от Д-р Стефанов!
   Updated: 2025-10-23T07:22:45Z
   Total Products: 10
 - [Легла за кучета - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/legla-za-kucheta): За добрия сън и почивка на вашето куче сме подбрали огромно разнообразие от легла за кучета. Изберете от разнообразието на зоомагазин Д-р Стефанов.
-  Updated: 2025-10-26T11:53:45Z
+  Updated: 2025-10-27T14:00:54Z
   Total Products: 388
 - [Аксесоари за кучета за разходка - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/aksesoari-za-razhodka): Всичко необходимо за комфортни разходки с кучето – хигиенни пликчета, диспенсъри и други практични аксесоари за вашето куче. Поръчай още сега!
   Updated: 2025-10-26T11:31:56Z
@@ -528,7 +528,7 @@
   Updated: 2025-10-16T20:49:44Z
   Total Products: 14
 - [Хранителни добавки и витамини за кучета - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/dobavki-i-vitamini-za-kucheto): Хранителни добавки и витамини за кучета – за здрави стави, козина, имунитет и енергия. Подкрепете здравето на своя любимец всеки ден с правилна грижа!
-  Updated: 2025-10-26T11:53:48Z
+  Updated: 2025-10-27T19:30:06Z
   Total Products: 156
 - [Лекарства и антибиотици за котки](https://pni-drstefanov-bg.myshopify.com/collections/lekarstva-i-antibiotitsi-za-kotkata): Лекарства и антибиотици за котки – ефективни при инфекции и здравословни проблеми. Поддържайте здравето на вашия любимец с професионална ветеринарна грижа!
   Updated: 2025-10-16T20:49:44Z
@@ -540,13 +540,13 @@
   Updated: 2025-10-23T07:23:36Z
   Total Products: 95
 - [Продукти за разхождане на кучета - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/za-razhodka): Екипирайте се за разходката с всичко необходимо, за да се наслаждавате на времето навън с вашето куче. Вземете всичко от зоомагазин Д-р Стефанов!
-  Updated: 2025-10-26T11:41:51Z
+  Updated: 2025-10-27T08:12:30Z
   Total Products: 1301
 - [Купички за котки - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/kupichki): Купички за котки – лесни за почистване, с красив дизайн и подходящи размери. Осигурете удобство на своя любимец още сега! Поръчайте бързо и лесно онлайн.
   Updated: 2025-10-23T07:25:05Z
   Total Products: 69
 - [Аксесоари за котки - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/koteshki-legla-kashti-i-hralupi): Практични аксесоари за котки, които улесняват грижите и забавленията. Осигурете комфорт на своя любимец – купете сега! Поръчайте бързо и лесно онлайн!
-  Updated: 2025-10-26T11:53:45Z
+  Updated: 2025-10-27T14:00:54Z
   Total Products: 131
 - [Храни и лакомства за коне - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/hrana-i-lakomstva): Разнообразие от висококачествени и пълноценни храни и лакомства за коне. Изберете най-подходящата храна и поръчайте онлайн сега от Зоомагазин Д-р Стефанов.
   Updated: 2025-10-16T20:49:44Z
@@ -567,8 +567,8 @@
   Updated: 2025-10-16T20:49:44Z
   Total Products: 5
 - [Reduced](https://pni-drstefanov-bg.myshopify.com/collections/reduced)
-  Updated: 2025-10-26T16:30:37Z
-  Total Products: 292
+  Updated: 2025-10-27T19:30:36Z
+  Total Products: 425
 - [Постелки за котешка тоалетна - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/collections/postelki-za-toaletna): Постелки с висока абсорбция и контрол на миризмите за котешки тоалетни. Поръчайте ефективна грижа още днес бързо и лесно онлайн с доставка от Зоомагазин Д-р Стефанов.
   Updated: 2025-10-26T16:30:08Z
   Total Products: 99
@@ -624,13 +624,13 @@
   Updated: 2025-10-20T07:08:13Z
   Total Products: 4
 - [Regular Priced Items](https://pni-drstefanov-bg.myshopify.com/collections/regular-priced-items)
-  Updated: 2025-10-26T16:30:08Z
-  Total Products: 12232
+  Updated: 2025-10-28T00:58:34Z
+  Total Products: 11804
 - [Храни и лакомства за домашни любимци Essential foods](https://pni-drstefanov-bg.myshopify.com/collections/essential-foods-1): Essential Foods създава храни, близки до естествената диета на домашния ви любимец. Пазарувайте от Зоомагазин д-р Стефанов!
-  Updated: 2025-10-22T11:34:14Z
+  Updated: 2025-10-27T10:14:54Z
   Total Products: 58
 - [Храни за домашни любимци Petkult](https://pni-drstefanov-bg.myshopify.com/collections/petkult-1): Petkult се фокусира върху натурални съставки, без изкуствени добавки. Открийте здравословната храна Petkult и поръчайте с бърза доставка!
-  Updated: 2025-10-26T11:24:36Z
+  Updated: 2025-10-27T10:14:57Z
   Total Products: 74
 - [Храни и лакомства за домашни любимци Wolfpack](https://pni-drstefanov-bg.myshopify.com/collections/wolfpack-1): Wolfpack предлага висококачествена, хипоалергенна храна с висок процент месо, подходяща и за най-чувствителните животни. Купете от Зоомагазин д-р Стефанов.
   Updated: 2025-10-23T07:47:38Z
@@ -669,10 +669,10 @@
   Updated: 2025-10-26T11:41:39Z
   Total Products: 100
 - [Продукти за домашни любимци Flamingo](https://pni-drstefanov-bg.myshopify.com/collections/flamingo-2): Аксесоари, играчки и оборудване от Flamingo, които правят живота на вашия любимец по-забавен и комфортен. Разгледайте всички продукти и поръчайте онлайн!
-  Updated: 2025-10-26T11:51:55Z
+  Updated: 2025-10-27T14:00:38Z
   Total Products: 539
 - [Продукти за кучета Flamingo](https://pni-drstefanov-bg.myshopify.com/collections/flamingo-dog): Открийте продукти Flamingo, създадени за активния живот на вашето куче. Разгледайте пълния асортимент за кучета и направете поръчка!
-  Updated: 2025-10-26T11:51:55Z
+  Updated: 2025-10-27T14:00:38Z
   Total Products: 336
 - [Продукти за котки Flamingo](https://pni-drstefanov-bg.myshopify.com/collections/flamingo-cat): Flamingo предлага всичко за вашата котка - от драскалки и легла до играчки и тоалетни. Осигурете комфорт и забавление на котката си като поръчате сега.
   Updated: 2025-10-26T11:41:06Z
@@ -702,17 +702,17 @@
   Updated: 2025-10-26T11:25:40Z
   Total Products: 20
 - [Продукти с намалена цена](https://pni-drstefanov-bg.myshopify.com/collections/sale): Отлични оферти и стоки с временно намалени цени. Спестете пари, без да правите компромис с качеството - пазарувайте изгодно с Зоомагазин д-р Стефанов.
-  Updated: 2025-10-26T11:14:52Z
-  Total Products: 11
+  Updated: 2025-10-27T15:09:14Z
+  Total Products: 12
 - [Най-продавани](https://pni-drstefanov-bg.myshopify.com/collections/best-selling-collection): Вижте кои са най-търсените храни, аксесоари и консумативи, които клиентите на Д-р Стефанов харесват най-много. Изберете доказано качество и поръчайте сега!
-  Updated: 2025-10-26T16:30:08Z
-  Total Products: 12231
+  Updated: 2025-10-28T00:58:34Z
+  Total Products: 12232
 - [Нови продукти](https://pni-drstefanov-bg.myshopify.com/collections/new-products): Бъдете първите, които виждат най-новите и иновативни храни, играчки и аксесоари, добавени в асортимента на Д-р Стефанов. Открийте сега и направете поръчка!
-  Updated: 2025-10-26T16:30:08Z
-  Total Products: 12231
+  Updated: 2025-10-28T00:58:34Z
+  Total Products: 12232
 - [Промоционални оферти](https://pni-drstefanov-bg.myshopify.com/collections/promo-offers): Не пропускайте специалните промоционални оферти, създадени, за да получите повече на по-добра цена. Възползвайте се от нашите актуални промоции сега!
-  Updated: 2025-10-26T16:30:37Z
-  Total Products: 0
+  Updated: 2025-10-27T19:30:36Z
+  Total Products: 132
 - [Mandatory Fees](https://pni-drstefanov-bg.myshopify.com/collections/mandatory-fees)
   Updated: 2025-10-16T20:49:47Z
   Total Products: 0
@@ -762,8 +762,8 @@
   Updated: 2025-10-26T11:41:39Z
   Total Products: 77
 - [Discount for products except vouchers](https://pni-drstefanov-bg.myshopify.com/collections/discount-for-products-except-vouchers)
-  Updated: 2025-10-26T16:30:08Z
-  Total Products: 12228
+  Updated: 2025-10-28T00:58:34Z
+  Total Products: 12229
 
 ## Blogs
 
@@ -795,11 +795,20 @@
   - [Нечовешки рекорд на Гинес – Най-голямата кучешка торта в света](https://pni-drstefanov-bg.myshopify.com/blogs/новини/нечовешки-рекорд-на-гинес-най-голямата-кучешка-торта-в-света)
     Updated: 2025-10-16T12:56:06Z
     Author: Alexander Atanasov
+  - [Нов нечовешки магазин в Парадайс мол!](https://pni-drstefanov-bg.myshopify.com/blogs/новини/нов-нечовешки-магазин-в-парадайс-мол)
+    Updated: 2025-10-27T12:56:58Z
+    Author: Alexander Atanasov
+  - [Подкрепи нечовешките лидери!](https://pni-drstefanov-bg.myshopify.com/blogs/новини/подкрепи-нечовешките-лидери)
+    Updated: 2025-10-27T12:38:24Z
+    Author: Alexander Atanasov
+  - [Мушнахме нов магазин в нечовешкото портфолио!](https://pni-drstefanov-bg.myshopify.com/blogs/новини/мушнахме-нов-магазин-в-нечовешкото-портфолио)
+    Updated: 2025-10-27T12:55:12Z
+    Author: Alexander Atanasov
 
 ## Store Pages
 
 - [Информация за доставка – Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/pages/dostavka): Zoomagazin.eu предоставя широк обхват от възможности за доставка: Доставките са три вида: 1. Доставка до адрес на клиента Доставките до врата на кл...
-  Updated: 2025-09-02T08:50:40Z
+  Updated: 2025-10-27T12:17:48Z
 - [Телефон за поръчки и справки – Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/pages/telefon): ТЕЛЕФОНИ ЗА ПОРЪЧКИ И СПРАВКИ: Онлайн магазин / поръчки изпращани до адрес / 0876 80 65 40 Онлайн магазин / поръчки за взимане от магазин / 0896 72...
   Updated: 2025-07-24T19:02:46Z
 - [За приюти и развъдници - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/pages/registratsiya): Нечовеки магазини "Д-р Стефанов" и zoomagazin.eu предлагат специална бонус програма за регистрирани развъдници и приюти за бездомни животни. Повече...
@@ -819,7 +828,7 @@
 - [Как да направя онлайн поръчка? - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/pages/how-to-shop-kak-se-pazaruva): Стъпка 1: Натискате бутон "регистрация" и внимателно и подробно попълвате цялата информация, която се изисква от Вас. Попълването на полетата упоме...
   Updated: 2025-09-30T09:07:02Z
 - [Общи условия - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/pages/general-terms-obshti-usloviya): Общи условия за ползване на Неочовешкия онлайн магазин zoomagazin.eu Моля прочетете внимателно описаните по-долу условия, преди да направите Вашата...
-  Updated: 2025-10-07T13:25:20Z
+  Updated: 2025-10-27T12:23:46Z
 - [Сигурност при онлайн плащане на поръчки - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/pages/security-sigurnost): Сигурността при плащане на картовите данни е защитена чрез SSL връзка между нашия сървър и сървъра на Банка ДСК Otp group , обработващ плащането. П...
   Updated: 2025-07-24T19:20:07Z
 - [Местоположения](https://pni-drstefanov-bg.myshopify.com/pages/locations): 
@@ -832,10 +841,8 @@
   Updated: 2025-09-03T13:16:17Z
 - [Съвети за кучешка храна](https://pni-drstefanov-bg.myshopify.com/pages/съвети-за-кучешка-храна): Съвети за кучешка храна: Избор на най-добрата храна за вашия космат приятел Що се отнася до поддържането на вашия любим кучешки спътник щастлив и з...
   Updated: 2025-06-19T23:42:53Z
-- [Отстъпка за първа поръчка - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/pages/otstapka-za-parva-porachka): 
-  Updated: 2025-07-24T19:20:43Z
 - [Бонус програма редовни клиенти - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/pages/bonus-programa-redovni-klienti): #loyalty-program { --bg: #ffffff; --ink: #111111; --muted: #6b7280; --accent: #ff2a00; --card: #f9fafb; --border: #e5e7eb; } #loyalty-program .wrap...
-  Updated: 2025-09-04T10:23:04Z
+  Updated: 2025-10-27T13:36:29Z
 - [Доставка](https://pni-drstefanov-bg.myshopify.com/pages/dostavka-1): Zoomagazin.eu предоставя широк обхват от възможности за доставка: Доставките са три вида: 1. Доставка до адрес на клиента Доставките до врата на кл...
   Updated: 2025-09-02T08:50:04Z
 - [Дневна грижа за кучета - Зоомагазин Д-р Стефанов](https://pni-drstefanov-bg.myshopify.com/pages/pet-club): 
@@ -848,74 +855,74 @@
   Updated: 2025-07-24T19:23:13Z
 - [Бонус програма за лоялни клиенти - Зоомагазин "Д-р Стефанов"](https://pni-drstefanov-bg.myshopify.com/pages/бонус-програма-редовни-клиенти-1): Ние изключително много ценим своите клиенти и в тази връзка разработихме специална бонус програма, от която може да се възползва всеки регистриран ...
   Updated: 2024-10-29T11:25:24Z
-- [Sofia, Mladost quarter 4, Ring Road 265, Technopolis Park](https://pni-drstefanov-bg.myshopify.com/pages/sofia-mladost-quarter-4-ring-road-265-technopolis-park)
-  Updated: 2025-06-22T09:48:50Z
-- [Sofia, Vitosha quarter, "Simeonovsko Shose" Blvd. #87A, Fantastico complex](https://pni-drstefanov-bg.myshopify.com/pages/sofia-vitosha-quarter-simeonovsko-shose-blvd-87a-fantastico-complex)
-  Updated: 2025-06-22T09:45:24Z
-- [Sofia, Studentski Grad quarter, "Acad. Stefan Mladenov" Str. №76](https://pni-drstefanov-bg.myshopify.com/pages/sofia-studentski-grad-quarter-acad-stefan-mladenov-str-76)
-  Updated: 2025-06-22T09:52:57Z
-- [Sofia, Lyulin quarter, bl. 386](https://pni-drstefanov-bg.myshopify.com/pages/sofia-lyulin-quarter-bl-386)
-  Updated: 2025-06-22T09:54:53Z
-- [Sofia, Ovcha Kupel district, 50a Ljubljana St](https://pni-drstefanov-bg.myshopify.com/pages/sofia-ovcha-kupel-district-50a-ljubljana-st)
-  Updated: 2025-06-22T09:53:57Z
-- [Cofia, Geo Milev Quarter, 52 Kosta Lulchev Street, Sky City Mall](https://pni-drstefanov-bg.myshopify.com/pages/cofia-geo-milev-quarter-52-kosta-lulchev-street-sky-city-mall)
-  Updated: 2025-06-22T09:57:26Z
-- [Sofia, Sveta Troitsa district, 15 Zografski Manastir St., City Park Residence](https://pni-drstefanov-bg.myshopify.com/pages/sofia-sveta-troitsa-district-15-zografski-manastir-st-city-park-residence)
-  Updated: 2025-06-22T09:53:25Z
-- [Sofia, Iztok quarter, 28 V Samokov St., Este Home & Spa](https://pni-drstefanov-bg.myshopify.com/pages/sofia-iztok-quarter-28-v-samokov-st-este-home-spa)
-  Updated: 2025-06-22T09:55:21Z
-- [Sofia, Nadezhda quarter, 26 Khan Kubrat St., in the Fantastico store](https://pni-drstefanov-bg.myshopify.com/pages/sofia-nadezhda-quarter-26-khan-kubrat-st-in-the-fantastico-store)
-  Updated: 2025-06-22T09:54:24Z
-- [Sofia, 43 "Neofit Rilski" St](https://pni-drstefanov-bg.myshopify.com/pages/sofia-43-neofit-rilski-st)
-  Updated: 2025-06-22T09:44:42Z
-- [Sofia, Dragalevtsi district, 204 Cherni Vrah Blvd / in the Fantastico store](https://pni-drstefanov-bg.myshopify.com/pages/sofia-dragalevtsi-district-204-cherni-vrah-blvd-in-the-fantastico-store)
-  Updated: 2025-06-22T09:56:37Z
-- [Sofia, Belite Brezi district, 10 Doiran St](https://pni-drstefanov-bg.myshopify.com/pages/sofia-belite-brezi-district-10-doiran-st)
-  Updated: 2025-06-22T09:57:00Z
+- [София, кв. Младост 4, Околовръстен път 265, Технополис Парк](https://pni-drstefanov-bg.myshopify.com/pages/sofia-mladost-quarter-4-ring-road-265-technopolis-park)
+  Updated: 2025-10-27T13:54:38Z
+- [София, кв. Витоша, бул. "Симеоновско шосе". №87А, комплекс Фантастико](https://pni-drstefanov-bg.myshopify.com/pages/sofia-vitosha-quarter-simeonovsko-shose-blvd-87a-fantastico-complex)
+  Updated: 2025-10-27T14:03:24Z
+- [София, кв. Студентски град, ул. "Акад. Стефан Младенов". № 76](https://pni-drstefanov-bg.myshopify.com/pages/sofia-studentski-grad-quarter-acad-stefan-mladenov-str-76)
+  Updated: 2025-10-27T13:59:21Z
+- [София, кв. Люлин, бл. 386](https://pni-drstefanov-bg.myshopify.com/pages/sofia-lyulin-quarter-bl-386)
+  Updated: 2025-10-27T13:48:17Z
+- [София, ап. Овча купел, ул. Любляна 50а](https://pni-drstefanov-bg.myshopify.com/pages/sofia-ovcha-kupel-district-50a-ljubljana-st)
+  Updated: 2025-10-27T13:58:23Z
+- [Кофия, кв. „Гео Милев“, ул. „Коста Лулчев“ 52, Sky City Mall](https://pni-drstefanov-bg.myshopify.com/pages/cofia-geo-milev-quarter-52-kosta-lulchev-street-sky-city-mall)
+  Updated: 2025-10-27T13:39:34Z
+- [София, кв. Света Троица, ул. Зографски манастир 15, City Park Residence](https://pni-drstefanov-bg.myshopify.com/pages/sofia-sveta-troitsa-district-15-zografski-manastir-st-city-park-residence)
+  Updated: 2025-10-27T14:01:56Z
+- [София, кв. Изток, ул. Самоков 28 В, Este Home & Spa](https://pni-drstefanov-bg.myshopify.com/pages/sofia-iztok-quarter-28-v-samokov-st-este-home-spa)
+  Updated: 2025-10-27T13:41:26Z
+- [София, кв. Надежда, ул. Хан Кубрат 26, в магазин Фантастико](https://pni-drstefanov-bg.myshopify.com/pages/sofia-nadezhda-quarter-26-khan-kubrat-st-in-the-fantastico-store)
+  Updated: 2025-10-27T13:56:19Z
+- [София, ул. „Неофит Рилски“ 43](https://pni-drstefanov-bg.myshopify.com/pages/sofia-43-neofit-rilski-st)
+  Updated: 2025-10-27T13:14:33Z
+- [София, кв. Драгалевци, бул. Черни връх 204 / в магазин Фантастико](https://pni-drstefanov-bg.myshopify.com/pages/sofia-dragalevtsi-district-204-cherni-vrah-blvd-in-the-fantastico-store)
+  Updated: 2025-10-27T13:30:58Z
+- [София, кв. Белите брези, ул. Дойран 10](https://pni-drstefanov-bg.myshopify.com/pages/sofia-belite-brezi-district-10-doiran-st)
+  Updated: 2025-10-27T13:24:07Z
 - [Sofia, Manastirski livadi quarter, Bulgaria Blvd #88](https://pni-drstefanov-bg.myshopify.com/pages/sofia-manastirski-livadi-quarter-bulgaria-blvd-88)
   Updated: 2024-08-28T09:09:35Z
-- [Sofia, Lozenets quarter, Business Center Hemus](https://pni-drstefanov-bg.myshopify.com/pages/sofia-lozenets-quarter-business-center-hemus)
-  Updated: 2025-06-22T09:40:46Z
-- [Sofia, "Alexander Stamboliyski" Blvd. 101A (Mall of Sofia)](https://pni-drstefanov-bg.myshopify.com/pages/sofia-alexander-stamboliyski-blvd-101a-mall-of-sofia)
-  Updated: 2025-06-22T09:44:00Z
-- [Sofia, Mladost quarter 3, Filip Avramov 3, Kaufland complex](https://pni-drstefanov-bg.myshopify.com/pages/sofia-mladost-quarter-3-filip-avramov-3-kaufland-complex)
-  Updated: 2025-06-22T09:49:47Z
-- [Sofia, 525 Botevgradsko Shosse Blvd., Jumbo Plaza complex](https://pni-drstefanov-bg.myshopify.com/pages/sofia-525-botevgradsko-shosse-blvd-jumbo-plaza-complex)
-  Updated: 2025-06-22T09:51:30Z
-- [City of Plovdiv, 24 Komatevsko Shose St., residential area Hristo Botev - South](https://pni-drstefanov-bg.myshopify.com/pages/city-of-plovdiv-24-komatevsko-shose-st-residential-area-hristo-botev-south)
-  Updated: 2025-01-09T09:02:45Z
-- [Plovdiv, Georgi Danchov St. 20 / Olimpia complex](https://pni-drstefanov-bg.myshopify.com/pages/plovdiv-georgi-danchov-st-20-olimpia-complex)
-  Updated: 2025-06-22T09:52:25Z
-- [Plovdiv, 23 Krastyo Rakovski St](https://pni-drstefanov-bg.myshopify.com/pages/plovdiv-23-krastyo-rakovski-st)
-  Updated: 2025-06-22T09:43:25Z
-- [Varna, 268 Vladislav Varnenchik Blvd., Retail Park Varna](https://pni-drstefanov-bg.myshopify.com/pages/varna-268-vladislav-varnenchik-blvd-retail-park-varna)
-  Updated: 2025-06-22T09:46:01Z
-- [Varna, 185 Slivnitsa Blvd., Delta Planet](https://pni-drstefanov-bg.myshopify.com/pages/varna-185-slivnitsa-blvd-delta-planet)
-  Updated: 2025-06-22T09:57:54Z
-- [Burgas, 6 Yanko Komitov Street, Mall Gallery](https://pni-drstefanov-bg.myshopify.com/pages/burgas-6-yanko-komitov-street-mall-gallery)
-  Updated: 2025-06-22T09:42:21Z
-- [Ruse, Nikolaevska St. 40 A](https://pni-drstefanov-bg.myshopify.com/pages/ruse-nikolaevska-st-40-a)
-  Updated: 2025-06-22T09:47:49Z
-- [Stara Zagora, 50 Nikola Petkov Blvd., Holiday Park](https://pni-drstefanov-bg.myshopify.com/pages/stara-zagora-50-nikola-petkov-blvd-holiday-park)
-  Updated: 2025-09-29T08:30:28Z
-- [Pernik, Yuri Gagarin St. 52, Fantastico store](https://pni-drstefanov-bg.myshopify.com/pages/pernik-yuri-gagarin-st-52-fantastico-store)
-  Updated: 2025-06-22T09:41:39Z
-- [Pernik, Holiday Park, 159 Zahari Zograf St](https://pni-drstefanov-bg.myshopify.com/pages/pernik-holiday-park-159-zahari-zograf-st)
-  Updated: 2025-06-22T09:46:45Z
-- [Pazardzhik, Holiday Park, 10 Dimcho Debelyanov St](https://pni-drstefanov-bg.myshopify.com/pages/pazardzhik-holiday-park-10-dimcho-debelyanov-st)
-  Updated: 2025-06-22T09:47:19Z
-- [Shumen, Simeon Veliki Blvd. 37, Praktiker Park](https://pni-drstefanov-bg.myshopify.com/pages/shumen-simeon-veliki-blvd-37-praktiker-park)
-  Updated: 2025-01-09T08:50:59Z
+- [София, кв. Лозенец, Бизнес център Хемус](https://pni-drstefanov-bg.myshopify.com/pages/sofia-lozenets-quarter-business-center-hemus)
+  Updated: 2025-10-27T13:43:51Z
+- [София, бул. „Александър Стамболийски“ 101А (Мол София)](https://pni-drstefanov-bg.myshopify.com/pages/sofia-alexander-stamboliyski-blvd-101a-mall-of-sofia)
+  Updated: 2025-10-27T13:21:43Z
+- [София, кв. Младост 3, Филип Аврамов 3, комплекс Кауфланд](https://pni-drstefanov-bg.myshopify.com/pages/sofia-mladost-quarter-3-filip-avramov-3-kaufland-complex)
+  Updated: 2025-10-27T13:53:00Z
+- [София, бул. Ботевградско шосе 525, комплекс Джъмбо Плаза](https://pni-drstefanov-bg.myshopify.com/pages/sofia-525-botevgradsko-shosse-blvd-jumbo-plaza-complex)
+  Updated: 2025-10-27T13:16:59Z
+- [Град Плодов, ул. „Коматевско шосе“ 24, ж.к. „Христо Ботев - Юг“](https://pni-drstefanov-bg.myshopify.com/pages/city-of-plovdiv-24-komatevsko-shose-st-residential-area-hristo-botev-south)
+  Updated: 2025-10-27T12:48:10Z
+- [Пловдив, ул. Георги Данчов 20 / комплекс Олимпия](https://pni-drstefanov-bg.myshopify.com/pages/plovdiv-georgi-danchov-st-20-olimpia-complex)
+  Updated: 2025-10-27T12:45:55Z
+- [Пловдив, ул. Кръстьо Раковски 23](https://pni-drstefanov-bg.myshopify.com/pages/plovdiv-23-krastyo-rakovski-st)
+  Updated: 2025-10-27T12:51:06Z
+- [Варна, бул. Владислав Варненчик 268, Ритейл Парк Варна](https://pni-drstefanov-bg.myshopify.com/pages/varna-268-vladislav-varnenchik-blvd-retail-park-varna)
+  Updated: 2025-10-27T14:09:09Z
+- [Варна, бул. Сливница 185, Delta Planet](https://pni-drstefanov-bg.myshopify.com/pages/varna-185-slivnitsa-blvd-delta-planet)
+  Updated: 2025-10-27T14:07:35Z
+- [Бургас, ул. Янко Комитов 6, Мол Галерии](https://pni-drstefanov-bg.myshopify.com/pages/burgas-6-yanko-komitov-street-mall-gallery)
+  Updated: 2025-10-27T12:23:36Z
+- [Русе, ул. Николаевска 40 А](https://pni-drstefanov-bg.myshopify.com/pages/ruse-nikolaevska-st-40-a)
+  Updated: 2025-10-27T12:55:32Z
+- [Стара Загора, бул. Никола Петков 50, Холидей Парк](https://pni-drstefanov-bg.myshopify.com/pages/stara-zagora-50-nikola-petkov-blvd-holiday-park)
+  Updated: 2025-10-27T14:05:57Z
+- [Перник, ул. Юрий Гагарин 52, магазин Фантастико](https://pni-drstefanov-bg.myshopify.com/pages/pernik-yuri-gagarin-st-52-fantastico-store)
+  Updated: 2025-10-27T12:43:07Z
+- [Перник, Холидей Парк, ул. Захари Зограф 159](https://pni-drstefanov-bg.myshopify.com/pages/pernik-holiday-park-159-zahari-zograf-st)
+  Updated: 2025-10-27T12:40:01Z
+- [Пазарджик, Холидей Парк, ул. Димчо Дебелянов 10](https://pni-drstefanov-bg.myshopify.com/pages/pazardzhik-holiday-park-10-dimcho-debelyanov-st)
+  Updated: 2025-10-27T12:37:15Z
+- [Шумен, бул. Симеон Велики. 37, Практикер Парк](https://pni-drstefanov-bg.myshopify.com/pages/shumen-simeon-veliki-blvd-37-praktiker-park)
+  Updated: 2025-10-27T13:03:59Z
 - [Конкурентни цени](https://pni-drstefanov-bg.myshopify.com/pages/konkurentni-tseni): Уважаеми клиенти, Можете да се възползвате от нашето уникално предложение - "конкурентни цени". Какво представлява тази опция?Намерили сте някой ар...
   Updated: 2025-06-19T23:42:07Z
-- [Ранк на лоялност](https://pni-drstefanov-bg.myshopify.com/pages/loyalty-rank): Ранк на лоялност % отстъпка на всичко document.querySelector('#rankcontainer2').innerHTML = window.customer_rank;
-  Updated: 2025-09-15T01:05:53Z
+- [Ранк на лоялност](https://pni-drstefanov-bg.myshopify.com/pages/loyalty-rank): Ранк на лоялност % отстъпка на всичко Номер на карта document.querySelector('#rankcontainer2').innerHTML = window.customer_rank; document.querySele...
+  Updated: 2025-10-27T13:51:23Z
 - [Grooming](https://pni-drstefanov-bg.myshopify.com/pages/grooming)
   Updated: 2024-12-12T13:17:04Z
 - [Day Care](https://pni-drstefanov-bg.myshopify.com/pages/day-care)
   Updated: 2024-12-12T13:17:48Z
-- [Sofia, Manastirski livadi quarter, Bulgaria Blvd #88](https://pni-drstefanov-bg.myshopify.com/pages/sofia-manastirski-livadi-quarter-bulgaria-blvd-89)
-  Updated: 2025-06-21T14:17:29Z
+- [София, кв. Манастирски ливади, бул. България №88](https://pni-drstefanov-bg.myshopify.com/pages/sofia-manastirski-livadi-quarter-bulgaria-blvd-89)
+  Updated: 2025-10-27T13:49:59Z
 - [GeoMilev](https://pni-drstefanov-bg.myshopify.com/pages/geomilev)
   Updated: 2025-02-27T07:30:30Z
 - [Dragalevci](https://pni-drstefanov-bg.myshopify.com/pages/dragalevci)
@@ -936,25 +943,25 @@
   Updated: 2025-02-27T07:30:30Z
 - [Zoozinche](https://pni-drstefanov-bg.myshopify.com/pages/zoozinche): 
   Updated: 2025-06-19T23:44:05Z
-- [Sofia, 15 Tsaritsa Ioana Blvd., Mega Mall Sofia](https://pni-drstefanov-bg.myshopify.com/pages/sofia-15-tsaritsa-ioana-blvd-mega-mall-sofia)
-  Updated: 2025-06-22T09:50:32Z
-- [Sofia, Levski G district, 43 Vladimir Vazov Blvd](https://pni-drstefanov-bg.myshopify.com/pages/sofia-levski-g-district-43-vladimir-vazov-blvd)
-  Updated: 2025-06-22T09:50:59Z
-- [Veliko Tarnovo, 17 Magistralna Street](https://pni-drstefanov-bg.myshopify.com/pages/veliko-tarnovo-17-magistralna-street)
-  Updated: 2025-06-22T09:52:01Z
-- [Sofia, Buxton district, 3 Todor Kableshkov Blvd.](https://pni-drstefanov-bg.myshopify.com/pages/sofia-buxton-district-3-todor-kableshkov-blvd)
-  Updated: 2025-06-22T09:48:26Z
+- [София, бул. Царица Йоана 15, Мега Мол София](https://pni-drstefanov-bg.myshopify.com/pages/sofia-15-tsaritsa-ioana-blvd-mega-mall-sofia)
+  Updated: 2025-10-27T13:12:41Z
+- [София, кв. Левски Г, бул. Владимир Вазов 43](https://pni-drstefanov-bg.myshopify.com/pages/sofia-levski-g-district-43-vladimir-vazov-blvd)
+  Updated: 2025-10-27T12:32:03Z
+- [Велико Търново, ул. Магистрална 17](https://pni-drstefanov-bg.myshopify.com/pages/veliko-tarnovo-17-magistralna-street)
+  Updated: 2025-10-27T14:13:38Z
+- [София, район Бъкстън, бул. „Тодор Каблешков“ 3](https://pni-drstefanov-bg.myshopify.com/pages/sofia-buxton-district-3-todor-kableshkov-blvd)
+  Updated: 2025-10-27T12:28:09Z
 - [News](https://pni-drstefanov-bg.myshopify.com/pages/news): 
   Updated: 2025-06-19T23:43:12Z
-- [All stores](https://pni-drstefanov-bg.myshopify.com/pages/all-stores)
-  Updated: 2025-06-21T22:33:42Z
+- [Магазини](https://pni-drstefanov-bg.myshopify.com/pages/магазини)
+  Updated: 2025-10-27T11:07:55Z
 - [Формуляр за рекламации и жалби](https://pni-drstefanov-bg.myshopify.com/pages/izprati-jalba)
   Updated: 2025-10-22T07:25:04Z
 
 ## Policies
 
 - [Privacy Policy](https://pni-drstefanov-bg.myshopify.com/policies/privacy-policy)
-  Updated: 2023-06-20T16:13:16+03:00
+  Updated: 2025-10-28T09:22:11+02:00
 - [Shipping Policy](https://pni-drstefanov-bg.myshopify.com/policies/shipping-policy)
   Updated: 2023-06-20T16:13:16+03:00
 - [Refund Policy](https://pni-drstefanov-bg.myshopify.com/policies/refund-policy)
