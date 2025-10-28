@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-10-03T06:30:37Z
 - Contact Email: mandiemaddox@mystichiddengem.com
-- Updated At: 2025-10-28T04:00:36.232Z
+- Updated At: 2025-10-28T12:00:45.475Z
 
 ## Products
 
@@ -1781,6 +1781,36 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/228780f385539e8007235759cec49713.jpg?v=1761535675
     Price: $25.99 USD
+- [Lachrywave The Fall Hoodie - Lucifer Design All-Over Print | Alternative Fashion](https://lachrymalgems.store/products/lachrywave-the-fall): Edgy Lachrywave hoodie featuring Lucifer's fall design down the sleeves, neon art accents, and Japanese print hood. Perfect for alternative fashion lovers. Limited edition all-over print.
+  Updated: 2025-10-28T06:22:55Z
+  Vendor: InterestPrint
+  Product Type: All-Over Hoodies
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/lachrywave-the-fall-hoodie-dress-professional-mockup.png?v=1761632500
+  - [XS](https://lachrymalgems.store/products/lachrywave-the-fall?variant=47241938075893)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/eb41a77fdc7400194a8cfd3bd0ccfa3b.jpg?v=1761632500
+    Price: $29.99 USD
+  - [S](https://lachrymalgems.store/products/lachrywave-the-fall?variant=47241938108661)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/eb41a77fdc7400194a8cfd3bd0ccfa3b.jpg?v=1761632500
+    Price: $29.99 USD
+  - [M](https://lachrymalgems.store/products/lachrywave-the-fall?variant=47241938141429)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/eb41a77fdc7400194a8cfd3bd0ccfa3b.jpg?v=1761632500
+    Price: $29.99 USD
+  - [L](https://lachrymalgems.store/products/lachrywave-the-fall?variant=47241938174197)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/eb41a77fdc7400194a8cfd3bd0ccfa3b.jpg?v=1761632500
+    Price: $29.99 USD
+  - [XL](https://lachrymalgems.store/products/lachrywave-the-fall?variant=47241938206965)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/eb41a77fdc7400194a8cfd3bd0ccfa3b.jpg?v=1761632500
+    Price: $29.99 USD
+  - [XXL](https://lachrymalgems.store/products/lachrywave-the-fall?variant=47241938239733)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0770/1626/9045/files/eb41a77fdc7400194a8cfd3bd0ccfa3b.jpg?v=1761632500
+    Price: $29.99 USD
 
 ## Collections
 
@@ -1788,8 +1818,8 @@
   Updated: 2025-10-27T03:16:04Z
   Total Products: 20
 - [Ladies Alt. Style](https://lachrymalgems.store/collections/ladies-alt-style): Ladies trending apparel, Seasonal Fashion
-  Updated: 2025-10-27T23:13:52Z
-  Total Products: 17
+  Updated: 2025-10-28T06:22:55Z
+  Total Products: 18
 - [Mens Alt. Style](https://lachrymalgems.store/collections/mens-alt-style): Mens hip hop alternative trends and seasonal outfits.
   Updated: 2025-10-27T03:16:04Z
   Total Products: 20
@@ -1797,7 +1827,7 @@
   Updated: 2025-10-26T18:09:56Z
   Total Products: 5
 - [Baggage with Benifiets](https://lachrymalgems.store/collections/baggage-with-benifiets): Carry what matters, drop what doesn't. We all carry something at least make it cute . Match your vibe not your outfit.
-  Updated: 2025-10-27T23:14:37Z
+  Updated: 2025-10-28T06:22:56Z
   Total Products: 5
 - [Vibe bin](https://lachrymalgems.store/collections/vibe-bin): Everything that feeds the mood board of your life. Shop the little things that recharge your frequency.
   Updated: 2025-10-26T18:09:57Z
@@ -1806,8 +1836,8 @@
   Updated: 2025-10-22T04:20:41Z
   Total Products: 0
 - [All Products](https://lachrymalgems.store/collections/all)
-  Updated: 2025-10-27T23:14:37Z
-  Total Products: 55
+  Updated: 2025-10-28T06:22:56Z
+  Total Products: 56
 
 ## Blogs
 
