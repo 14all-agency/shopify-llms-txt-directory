@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2024-06-01T16:53:27Z
 - Contact Email: Support@ursupermart.com
-- Updated At: 2025-10-28T12:01:03.787Z
+- Updated At: 2025-10-28T16:01:21.289Z
 
 ## Products
 
@@ -15545,7 +15545,7 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/sequin-prom-dress-burgundy-sleeveless-cocktail.webp?v=1744069826
     Price: $57.95 USD
 - [Form-Fitting Sequin Dress for Hourglass Figure | Red & Blue](https://ursupermart.com/products/elegant-sequin-dress-with-sleeves-formal-events): Make a statement in our form-fitting sequin dress for hourglass figure. This elegant long sleeve design is perfect for formal events & cocktail parties.
-  Updated: 2025-10-25T05:01:21Z
+  Updated: 2025-10-28T15:37:01Z
   Vendor: S1B|Meta - Trendsi
   Product Type: Cocktail Dress
   Availability: Available
@@ -28890,7 +28890,7 @@
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/wrapping-paper-cutter-demonstration-cutting-rolls.webp?v=1760741449
   Price: $14.95 USD
 - [Christmas Brooch Pin for Women Festive Wreath Design](https://ursupermart.com/products/christmas-wreath-brooch-pin-for-women): This beautiful Christmas Brooch instantly elevates your holiday look with its festive wreath design and sparkling details; shop now to add cheer!
-  Updated: 2025-10-28T06:21:25Z
+  Updated: 2025-10-28T14:07:08Z
   Vendor: @S1B|S1|eprolo
   Product Type: Brooch
   Availability: Available
@@ -28908,8 +28908,8 @@
     Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/christmas-brooch-gold-tree-bells.webp?v=1761619142
     Price: $9.99 USD
 - [Chair Covers Christmas - Festive and Easy Holiday Decor](https://ursupermart.com/products/christmas-chair-covers-festive-holiday-decor): Chair covers instantly transform your dining room into a festive Christmas wonderland with soft, vibrant designs; easily decorate and create holiday joy, shop today!
-  Updated: 2025-10-28T02:02:50Z
-  Vendor: S1B|S1|eprolo
+  Updated: 2025-10-28T13:22:15Z
+  Vendor: @S1B|S1|eprolo
   Product Type: Chair Covers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0603/6366/9594/files/chair-covers-folded-red-fabric-set.webp?v=1761616749
