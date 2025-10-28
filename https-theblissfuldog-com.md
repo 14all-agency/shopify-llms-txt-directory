@@ -10,7 +10,7 @@
 - Contact Email: info@theblissfuldog.com
 - Contact Phone: 855-364-2547
 - Address: 50688 235th ave NW
-- Updated At: 2025-10-28T04:00:46.542Z
+- Updated At: 2025-10-28T08:00:46.101Z
 
 ## Products
 
@@ -33,7 +33,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/products/PEKE_RELAX_SPRAY_2500.jpg?v=1623534319
     Price: $13.95 USD
 - [The Blissful Dog PAW BUTTER All Natural Good Stuff for Dry Paw Pads](https://theblissfuldog.com/products/paw-butter): The Blissful Dog PAW BUTTER provides layers of moisturizing support for your dog's paw pads…naturally! In 8 sizes of tins & tubes - because dogs are all sizes!
-  Updated: 2025-10-27T18:22:35Z
+  Updated: 2025-10-28T06:50:30Z
   Vendor: The Blissful Dog® Inc.
   Product Type: PAW BUTTER
   Availability: Available
@@ -91,7 +91,7 @@
     Image: https://cdn.shopify.com/s/files/1/1133/5028/files/PAW_BUTTER_ALL_PRICEscopy_1.jpg?v=1736525732
     Price: $72.95 USD
 - [The Blissful Dog Blissful Elbow™ Butter Balm For Dog Elbow Calluses](https://theblissfuldog.com/products/elbow-butter): Blissful Elbow Butter™ conditions dog elbow calluses using all-natural good stuff. Individually handcrafted in Minnesota & available in tins and tubes.
-  Updated: 2025-10-27T18:39:51Z
+  Updated: 2025-10-28T06:39:58Z
   Vendor: The Blissful Dog® Inc.
   Product Type: ELBOW BUTTER
   Availability: Available
